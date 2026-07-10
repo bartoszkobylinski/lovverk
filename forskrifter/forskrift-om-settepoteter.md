@@ -214,6 +214,8 @@ Samtidig oppheves:Forskrift 1. januar 19811 for statskontrollert produksjon og o
 
 > Endret ved [forskrift 21 nov 2006 nr. 1298](forskrift/2006-11-21-1298) (tidligere § 18).
 
+1 Ikke kunngjort i Norsk Lovtidend.
+
 ## Vedlegg I – Kvalitetskrav
 
 ### A. Krav ved vekstkontroll
@@ -224,21 +226,16 @@ Det innmeldte settepotetareal skal oppfylle følgende krav:Følgende planteskade
 
 ### B. Krav ved laboratoriekontroll
 
-Krav i prosent for de ulike klasser ved laboratoriekontroll:*Skadegjører**Test**Prebasis**Basis**Sertifisert**P2, P3**P4**B1**B2**B3**C*PotetringråtePå knoll0,00,00,00,00,00,0PVA* og PVY
-PVX
-PVS og PVMPå knoll eller plante (Vintertest)0,0
-0,0
-1,00,5
-0,0
-3,01,0
-–
-–2,0
-–
-–4,0
-–
-–10,0
-–
-–Potetcyste-nematodePå jord0,00,00,00,00,00,0
+Krav i prosent for de ulike klasser ved laboratoriekontroll:
+
+| *Skadegjører* | *Test* | *Prebasis* |  | *Basis* |  |  | *Sertifisert* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *P2, P3* | *P4* | *B1* | *B2* | *B3* | *C* |
+| Potetringråte | På knoll | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| PVA\* og PVY<br>PVX<br>PVS og PVM | På knoll eller plante (Vintertest) | 0,0<br>0,0<br>1,0 | 0,5<br>0,0<br>3,0 | 1,0<br>–<br>– | 2,0<br>–<br>– | 4,0<br>–<br>– | 10,0<br>–<br>– |
+| Potetcyste-nematode | På jord | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+
+\* På særlig motstandsdyktige sorter, fastsatt av Mattilsynet, utføres ikke testing for A-virus.
 
 > Endret ved [forskrift 15 aug 2018 nr. 1301](forskrift/2018-08-15-1301) (i kraft 1 okt 2018).
 
@@ -266,6 +263,10 @@ virus.Sum av a–e kan maksimalt være 6 vekt-%.
 
 ## Vedlegg II – Regler for sertifisert avl av settepoteter
 
+1.*Kontraktsforhold og melding om avlen*
+
+1.1.*Krav til avler og driftsenhet*
+
 For å drive avl av settepoteter i klasse prebasis skal avler og driftsenhet ha deltatt i sertifisert avl av settepoteter i minst tre år med gode resultater.
 
 Avl av settepoteter skal legges til driftsenheter som er lite utsatt for smittespredning av vektoroverførte virus eller smittepress fra potetcystenematoder.
@@ -278,13 +279,23 @@ Nye avlere og nye arealer hos eksisterende avlere skal i samsvar med bestemmelse
 
 Mattilsynet kan nekte videre sertifisert produksjon av settepoteter på en driftsenhet, dersom det ikke oppnås tilfredsstillende resultat i settepotetavlen.
 
+1.2.*Melding om avlen*
+
+1.2.1.*Innmelding av kontraktarealer*
+
 Settepotetforretningene skal innen 15. mai hvert år sende melding om sine kontraktarealer til Mattilsynet.
 
 Ved innmelding skal følgende opplyses:avlerens navn og adressesort og klasse (ikke klasse for bevaringsverdige sorter)kontraktarealavler/partinummer og klasse for innkjøpte settepoteter (ikke klasse for bevaringsverdige sorter).
 
 For nye avlere skal det ved innmeldingen følge et kart over driftsenheten.
 
+1.2.2.*Innsending av prøver*
+
 Mattilsynet skal innen 15. september gi beskjed til avler og settepotetforretning om antall knoller som skal sendes til laboratorietest, og frist for innsending av prøven.
+
+2.*Dyrkingsregler*
+
+2.1.
 
 Avlerens plikter
 
@@ -294,31 +305,70 @@ Ved vekstkontrollen skal avleren selv eller ved stedfortreder vise hvor kontrakt
 
 Avleren må ikke sprøyte ned riset eller høste avlingen før kontroll er utført. Kontrolløren skal gi beskjed når kontroll er utført.
 
+2.2.*Tidligere plantevekst*
+
 Det må ikke være dyrket poteter på arealer for settepotetdyrking de tre foregående år. I Nord-Norge kan det, forutsatt samme sort, dyrkes to år etter hverandre ut av totalt seks år.
+
+2.3.*Antall sorter og klasser på driftssenheten*
 
 På samme driftsenhet kan det avles flere sorter og flere klasser av samme sort.
 
+2.4.*Annen potetavl*
+
 Det er ikke tillatt å dyrke ukontrollerte poteter på driftsenheter der det foregår sertifisert produksjon av settepoteter.
 
+2.5.*Kløyving av settepoteter*
+
 Bruk av kløyvde settepoteter er ikke tillatt.
+
+2.6.*Ugras, sjukdommer og skadedyr*
 
 Ugras, sjukdommer og skadedyr skal bekjempes slik at det kan gjennomføres en sikker vekstkontroll, og at det kan oppnås tilfredsstillende avling og kvalitet.
 
 Behandling med kjemiske midler, feil gjødsling, dårlig kultur e.l. som vanskeliggjør kontrollen kan føre til at partiet blir avvist.
 
+2.7.*Luking*
+
 Avleren skal kontrollere åkeren i veksttida. Sjuke planter, planter av fremmed sort eller avvikende type og knollene fra slike planter skal lukes og fjernes fra åkeren tidligst mulig.
+
+2.8.*Maskiner og redskaper*
 
 Potetsetter, radrenser, høstemaskin osv. som brukes direkte i settepotet produksjonen, skal bare nyttes på arealer der det foregår sertifisert produksjon av settepoteter. Jordarbeidingsredskaper som er nyttet på andre driftsenheter, skal vaskes grundig, og deretter desinfiseres før de kan nyttes på driftsenheter der det foregår sertifisert produksjon av settepoteter.
 
-Avstand til partier av sertifiserte settepoteter og ukontrollerte poteter.*Klasser**Minimumskrav i meter mellom ulike klasser**Prebasis***Basis**Sertifisert**Ukontrollert*Prebasis*1,5**2525100Basis1,5**1,5**50Sertifisert1,5**25
+2.9.*Avstandsisolering*
+
+Avstand til partier av sertifiserte settepoteter og ukontrollerte poteter.
+
+| *Klasser* | *Minimumskrav i meter mellom ulike klasser* |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *Prebasis*\* | *Basis* | *Sertifisert* | *Ukontrollert* |
+| Prebasis\* | 1,5\*\* | 25 | 25 | 100 |
+| Basis |  | 1,5\*\* | 1,5\*\* | 50 |
+| Sertifisert |  |  | 1,5\*\* | 25 |
+
+\* Gjelder ikke mellom prebasispartier i veksthus.
+
+\*\* To rader. Ved vendeteiger skal avstanden være minimum 5 meter.
+
+3.*Kontroll*
+
+3.1.*Vekstkontroll*
+
+3.1.1.*Tiden for vekstkontroll*
 
 Utføres bare én kontroll, skal denne foregå i løpet av de to første ukene etter begynnende blomstring. Vanligvis er dette mellom 20. juli og 10. august i store deler av landet. Avleren skal om mulig få forhåndsmelding om når kontrollen skal finne sted.
+
+3.1.2.*Gjennomføring av vekstkontrollen*
 
 Kontrolløren skal undersøke om dyrkingsreglene er fulgt og foreta en grundig inspeksjon av de arealer som er innmeldt til kontraktdyrking. Er avleren ny, skal det kontrolleres at lager og utstyr er tilfredsstillende.
 
 Resultatene av inspeksjonen skal beregnes i prosent etter telling av sjuke planter, sortsinnblandinger e.l. i forhold til totalt antall planter som er inspisert. Alle resultater skal føres inn på et eget vekstkontrollskjema for hvert parti. Det skal noteres på skjemaet hva slags synlige virus og eventuelt sortsinnblanding som er påvist. På skjemaet skal også påføres om det er foretatt luking av sjuke planter og innblandinger før kontrollen, sprang i plantebestand og helhetsinntrykk.
 
+3.1.3.*Antall planter som skal kontrolleres*
+
 Det bør kontrolleres minst 3000 planter, vanligvis 5000-6000 planter pr. parti. Når arealet er over 50 daa og eller resultatene er nær til grensene for nedklassifisering av partiet, bør det kontrolleres 10 000-15 000 planter.
+
+3.2.*Varekvalitetskontroll*
 
 Forretningen skal sørge for at alle partier som pakkes for omsetning blir varekvalitetskontrollert etter kravene i vedlegg I og IV.
 
@@ -330,7 +380,7 @@ Forretningen skal sørge for at alle partier som pakkes for omsetning blir varek
 2. *Lukking*Alle pakningsenheter skal være lukket på en slik måte at de ikke kan åpnes og lukkes på nytt uten at det er godt synlig.
 3. *Merking*Opplysninger på den offisielle merking:Norske regler og normerKlasse/generasjonsnummerMattilsynetDyrker og partinummerSortSorteringsstørrelseNettovektSorteringsdato/pakkedatoAnsvarlig settepotetforretning.
 4. *Opplysninger på småpakninger:*Klasse/generasjonsnummerSortVektAnsvarlig settepotetforretningDyrker/partinummer.Småpakning som leveres i fellespakninger inntil siste forhandler skal være utstyrt med offisiell merking.
-5. *Merkelappens utseende*Klasse prebasis:Hvit med fiolett diagonal strekKlasse basis:HvitKlasse sertifisert:Blå
+5. *Merkelappens utseende* Klasse prebasis:Hvit med fiolett diagonal strekKlasse basis:HvitKlasse sertifisert:Blå
 6. *Merkelappens størrelse*Minimum 110 mm x 67 mm.
 7. *Varedeklarasjon for bevaringsverdige sorter*Sort«Bevaringsverdig sort»Sortens opprinnelsesområdeRegionen såvaren er produsert i hvis denne ikke er identisk med opprinnelsesområdetAnsvarlig settepotetforretningDyrker/partinummerVektSorteringsdato/pakkedato.
 
@@ -348,37 +398,79 @@ Forretningen skal sørge for at alle partier som pakkes for omsetning blir varek
 
 ## Vedlegg V – Regler for meristemskjæring, in vitro- og prebasisproduksjon
 
+1.*Meristemskjæring*
+
+1.1
+
 Morknollen skal være testet etter internasjonalt anerkjente metoder, og funnet fri for lys potetringråte (*Clavibacter michiganensis* ssp. *sepedonicus*), mørk potetringråte (*Ralstonia solanacearum*) og *Dickeya* spp.
+
+1.2
 
 Hver meristemplante som skal brukes til videre in vitro-formering skal være testet og funnet fri for virus. Dette skal testes ved at en meristemstikling dyrkes i jord i 3–5 uker. Denne planten skal være testet etter internasjonalt anerkjente metoder, og funnet fri for PVY, PVA, PVS, PVM, PVX og PLRV. I tillegg skal det utføres test på følgende testplanter:*Capsicum annuum* L.*Chenopodium quinoa* Willd.*Nicotiana debneyi* Domin*Nicotiana benthamiana* Domin*Nicotiana occidentalis* P1 H.-M.Wheeler.
 
+1.3
+
 Hver meristemplante som skal brukes til videre in vitro-formering, skal være testet etter internasjonalt anerkjente metoder, og funnet fri for lys potetringråte (*Clavibacter michiganensis* ssp. *sepedonicus*), mørk potetringråte (*Ralstonia solanacearum*), *Dickeya* spp. og *Pectobacterium* spp.
+
+2.*In vitro-formering*
+
+2.1
 
 In vitro-formeringen kan gjennomføres uten videre testing av meristemstiklingene. Alle stiklinger som stammer fra ett meristem skal holdes atskilt som en klon.
 
 Laboratoriet skal følge allment aksepterte rutiner for å hindre smitteoverføring.
 
+2.2
+
 Ved omsetning av meristemstiklinger skal laboratoriet sende med dokumentasjon på hvordan meristemskjæring og in vitro-formering er utført, at de nødvendige tester er gjennomført og resultatet av dem.
+
+3.*Produksjon av prebasismateriale*
+
+3.1*Generasjon P1 (miniknoller)*
+
+3.1.1
 
 Miniknoller skal produseres i veksthus/netthus. Husene skal i størst mulig grad være insekttette for å hindre overføring av virussmitte. Miniknollene skal produseres i ny veksttorv levert fra et produksjonssted der torven kan garanteres fri for innhold av farlige planteskadegjørere. Mellom hvert hold skal husene gjøres forsvarlig reine, og desinfiseres.
 
+3.1.2
+
 Produksjon av P1 materialet skal foregå klonvis. Klonene skal avles med så stort mellomrom at planter fra ulike kloner ikke berører hverandre. Plantene innen hver klon skal ha så stor innbyrdes avstand at de kan bedømmes enkeltvis. Klonene skal testes for kjente virus med serumtest. Kloner der det kan påvises virus skal vrakes.
+
+3.1.3
 
 Kloner som viser andre alvorlige feil eller som avviker fra det typiske for sorten skal vrakes.
 
+3.1.4
+
 Ved omsetning av P1 skal laboratoriet sende med dokumentasjon på hvordan meristemskjæring, in vitro formering og produksjon av P1 materialet er utført, at de nødvendige tester er gjennomført og resultatet av dem.
+
+3.2*Generasjon P2*
+
+3.2.1
 
 Generasjon P2 skal dyrkes klonvis på friland. Klonene skal avles med så stort mellomrom at planter fra ulike kloner ikke berører hverandre. Plantene innen hver klon skal ha så stor innbyrdes avstand at de kan bedømmes enkeltvis. Klonene skal være testet etter internasjonalt anerkjente metoder, og funnet fri for PVA, PVM, PVS, PVX og PVY.
 
 Kloner der det kan påvises virus skal vrakes.
 
+3.2.2
+
 Kloner som viser andre alvorlige feil eller som avviker fra det typiske for sorten skal vrakes.
+
+3.2.3
 
 Fra de kloner som skal slås sammen til ett parti P2 materiale skal prebasissenteret ta ut til sammen 200 knoller som sendes dit Mattilsynet måtte bestemme til analyse for lys potetringråte. Uttaket skal fordeles representativt på alle kloner som skal inngå i partiet.
 
+3.2.4
+
 Ved omsetning av P2 skal prebasissenteret sende med dokumentasjon på hvilket P1 materiale som er benyttet som utsæd, hvordan produksjonen av P2 materialet er utført, at de nødvendige tester er gjennomført og resultatet av dem.
 
+3.3*Alternativ produksjon av P2*
+
+3.3.1
+
 Forskriftenes [§ 3](forskrift/1996-07-02-1447/§3) gir mulighet for at produksjon av P2 også kan gjennomføres ved uttak av materiale i generasjonene P3 og P4 i stedet for at miniknoller brukes som utsæd. Metoden kan benyttes av et prebasissenter dersom prebasissenteret finner det nødvendig.
+
+3.3.2
 
 Avlingen fra én plante tas ut fra generasjonene P3 eller P4. Planten som avlingen tas fra skal være testet med serumtest og funnet fri for virus. Fra denne avlingen kan det produseres en ny klon i generasjon P2 forutsatt at de øvrige bestemmelsene for produksjon av P2 oppfylles.
 

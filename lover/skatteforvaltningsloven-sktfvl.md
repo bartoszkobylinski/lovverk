@@ -1270,6 +1270,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 Fra samme tidspunkt oppheves [lov 13. juni 1980 nr. 24](lov/1980-06-13-24) om ligningsforvaltning (ligningsloven).
 
+1 Fra 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531).
+
 ### § 16-2. Overgangsbestemmelser
 
 (1) [§ 12-6](lov/2016-05-27-14/§12-6) gjelder for skattefastsettinger som tas opp til endring etter tidspunktet for lovens ikrafttredelse. Skattemyndighetene kan likevel ikke endre fastsettinger for skattleggingsperiodene 2012 til 2014 til ugunst for den skattepliktige dersom det ikke ville ha vært adgang til å endre fastsettingen etter fristreglene i [ligningsloven](lov/1980-06-13-24).

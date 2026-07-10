@@ -84,11 +84,15 @@ For å ha rett til støtte må søkeren være tatt opp som elev eller student og
 
 [Søkere som tar utdanning i utlandet, må oppholde seg på lærestedet og følge undervisningen. Se likevel [§ 3-2](forskrift/2019-03-15-254/§3-2). Vilkåret om opphold på lærestedet gjelder ikke for søkere som får støtte til høyere utdanning som er tilrettelagt som et nettstudium ved et lærested i et EØS-land etter [§ 7-5](forskrift/2019-03-15-254/§7-5).]1
 
+1 Andre ledd gjelder ikke våren 2020, jf. [forskrift 3 april 2020 nr. 569 § 4](forskrift/2020-04-03-569/§4).
+
 ### § 3-2. Fravær og permisjon
 
 [Søkere som følger obligatorisk undervisning og som har ulegitimert fravær på mer enn 20 skoledager per semester, kan miste retten til støtte. Søkere som har fullstendig studiepermisjon i mer enn seks uker, får ikke støtte i permisjonstiden.]1
 
 Det gjelder egne regler om permisjon eller fravær for søkere som får barn og som har rett til foreldrestipend etter [kapittel 39](forskrift/2019-03-15-254/kap39), og for søkere som har rett til sykestipend etter [kapittel 40](forskrift/2019-03-15-254/kap40). Søkere som tar permisjon fra utdanningen på grunn av fødsel, har ikke rett til støtte utover perioden det kan gis foreldrestipend etter [§ 39-3](forskrift/2019-03-15-254/§39-3).
+
+1 Første ledd gjelder ikke våren 2020, jf. [forskrift 3 april 2020 nr. 569 § 5](forskrift/2020-04-03-569/§5).
 
 ### § 3-3. Aldersbegrensninger
 
@@ -195,6 +199,8 @@ Det gis ikke støtte til deltidsutdanning. Det kan likevel gis lån til skolepen
 ### § 6-4. Begrensning ved nettstudier og fjernundervisning
 
 Det gis ikke støtte til utdanning som tilbys av læresteder i andre nordiske land når hele eller deler av studiet er lagt opp som nettstudium eller andre former for fjernundervisning/samlingsbasert studium. Det kan likevel bli gitt lån til skolepenger etter [§ 30-1](forskrift/2019-03-15-254/§30-1) til utdanning på nivå med høyere utdanning i Norge som er tilrettelagt som et rent nettstudium. Se [§ 3-1](forskrift/2019-03-15-254/§3-1), [§ 4-1](forskrift/2019-03-15-254/§4-1) bokstav t og [§ 7-5](forskrift/2019-03-15-254/§7-5).
+
+1 Paragrafen gjelder ikke våren 2020, jf. [forskrift 3 april 2020 nr. 569 § 4](forskrift/2020-04-03-569/§4).
 
 ### § 6-5. Utregning av støttebeløpet
 
@@ -514,7 +520,17 @@ For søkere som tar høyere utdanning, fagskoleutdanning, folkehøyskole og andr
 
 ### § 16-1. Utstyrsstipend
 
-Det gis et stipend per undervisningsår til individuelt utstyr som er nødvendig i opplæringen. Stipendet gis etter tre satser avhengig av utdanningsprogram.*Kr 1 051**Kr 2 326**Kr 3 887*Studiespesialisering (unntatt studiespesialisering med fordypning i formgivningsfag og studiespesialisering med toppidrett som «fag fra andre programområder»)NaturbrukIdrettsfagHelse- og oppvekstfagBygg- og anleggsteknikkDesign og håndverk, unntatt programområde for medieproduksjonMedier og kommunikasjonTeknikk og industriell produksjonRestaurant- og matfagService og samferdselElektrofagDesign og håndverk, programområde for medieproduksjonMusikk, dans og dramaStudiespesialisering med fordypning i formgivningsfag og studiespesialisering med toppidrett som «fag fra andre programområder»Kunst, design og arkitektur
+Det gis et stipend per undervisningsår til individuelt utstyr som er nødvendig i opplæringen. Stipendet gis etter tre satser avhengig av utdanningsprogram.
+
+| *Kr 1 051* | *Kr 2 326* | *Kr 3 887* |
+| --- | --- | --- |
+| Studiespesialisering (unntatt studiespesialisering med fordypning i formgivningsfag og studiespesialisering med toppidrett som «fag fra andre programområder») | Naturbruk | Idrettsfag |
+| Helse- og oppvekstfag | Bygg- og anleggsteknikk | Design og håndverk, unntatt programområde for medieproduksjon |
+| Medier og kommunikasjon | Teknikk og industriell produksjon | Restaurant- og matfag |
+| Service og samferdsel | Elektrofag |  |
+| Design og håndverk, programområde for medieproduksjon | Musikk, dans og drama |  |
+|  | Studiespesialisering med fordypning i formgivningsfag og studiespesialisering med toppidrett som «fag fra andre programområder» |  |
+|  | Kunst, design og arkitektur |  |
 
 Stipendet utbetales sammen med første støttetermin. Søkere som bytter utdanningsprogram i løpet av et undervisningsår, får beholde det stipendet som allerede er utbetalt. Dersom det nye utdanningsprogrammet har høyere sats, utbetales differansen mellom de to satsene.
 
@@ -535,6 +551,8 @@ Bostipendet blir behovsprøvd mot lærlinglønn etter [§ 20-2](forskrift/2019-0
 Søkere som ikke bor hos foreldrene, får bostipend når avstanden mellom foreldrehjemmet og skolen er 40 km eller mer, eller reisetiden er tre timer eller mer samlet per dag.
 
 Bostipend kan også gis når søkeren må bo utenfor foreldrehjemmet på grunn av andre særlige forhold av personlig eller sosial karakter.
+
+1 Midlertidig flytting til foreldrehjemmet våren 2020 på grunn av utbrudd av koronavirus regnes ikke som å bo sammen med foreldrene jf. [forskrift 3 april 2020 nr. 569 § 5](forskrift/2020-04-03-569/§5).
 
 ### § 17-3. Unntak for søkere som er gift eller forsørger barn
 
@@ -583,6 +601,30 @@ For søkere som er gift eller har barn å forsørge og bor sammen med barnet, bl
 ### § 19-6. Satser for grunnstipend
 
 Tabellene viser satser per måned for grunnstipend etter forsørgernes inntekt og antall barn. Antall barn omfatter søkeren og søkerens søsken/halvsøsken født i 2001 eller senere. Inntekten blir satt lik personinntekt og netto positiv kapitalinntekt ved fastsettingen av formues- og inntektsskatt for 2017.
+
+*Tabell A: Inntektsgrense for forsørgere som bor sammen og forsørger som er alene om forsørgeransvaret jf. [§ 3-7](forskrift/2019-03-15-254/§3-7):\**
+
+| *Antall barn:* | *Satser:* |  |  |
+| --- | --- | --- | --- |
+|  | *Kr 3 282* | *Kr 2 186* | *Kr 1 093* |
+| 1 | 0–259 239 kr | 259 240–314 373 kr | 314 374–369 507 kr |
+| 2 | 0–319 997 kr | 319 998–375 131 kr | 375 132–430 265 kr |
+| 3 | 0–380 755 kr | 380 756–435 889 kr | 435 890–491 023 kr |
+| 4 eller flere | 0–441 513 kr | 441 514–496 647 kr | 496 648–551 781 kr |
+
+\* Inntekten til forsørgeren økes med kr 46 643 dersom han/hun har ektefelle/samboer som ikke er søkerens forsørger, se [§ 19-2](forskrift/2019-03-15-254/§19-2).
+
+*Tabell B: Inntektsgrense for to forsørgere som ikke bor sammen:\**
+
+| *Antall barn:* | *Satser:* |  |  |
+| --- | --- | --- | --- |
+|  | *Kr 3 282* | *Kr 2 186* | *Kr 1 093* |
+| 1 | 0–388 859 kr | 388 860–443 993 kr | 443 994–499 127 kr |
+| 2 | 0–449 617 kr | 449 618–504 751 kr | 504 752–559 885 kr |
+| 3 | 0–510 375 kr | 510 376–565 509 kr | 565 510–620 643 kr |
+| 4 eller flere | 0–571 133 kr | 571 134–626 267 kr | 626 268–681 401 kr |
+
+\* Inntekten til forsørgeren økes med kr 46 643 dersom han/hun har ektefelle/samboer som ikke er søkerens forsørger, se [§ 19-2](forskrift/2019-03-15-254/§19-2).
 
 ### Kapittel 20. Behovsprøving mot egen økonomi
 
@@ -644,6 +686,8 @@ Det gis et lån på inntil kr 3 261 per måned for søkere som er 18 år eller 
 
 Lånet kan tas opp fra måneden etter at eleven har fylt 18 år.
 
+1 Midlertidig flytting til foreldrehjemmet våren 2020 på grunn av utbrudd av koronavirus regnes ikke som å bo sammen med foreldrene jf. [forskrift 3 april 2020 nr. 569 § 5](forskrift/2020-04-03-569/§5).
+
 ### § 23-2. Unntak for søkere som er gift eller forsørger barn
 
 En søker som er 18 år eller eldre og som er gift eller har barn å forsørge og bor sammen med barnet, får lån etter [§ 23-1](forskrift/2019-03-15-254/§23-1) selv om han eller hun bor hos foreldrene.
@@ -697,6 +741,8 @@ Lån kan bli gjort om til utdanningsstipend for søkere som ikke bor sammen med 
 Søkeren anses ikke å bo sammen med foreldrene når:søkeren bor i en selvstendig boenhet som er fysisk atskilt fra huset der foreldrene bor, ellersøkeren bor i en selvstendig og klart atskilt boenhet i samme hus som foreldrene. Boenheten må være registrert med et eget bruksenhetsnummer eller tilsvarende i folkeregisteret eller i matrikkelen.
 
 En søker som er gift eller har barn å forsørge og bor sammen med barnet, får lån gjort om til utdanningsstipend selv om vedkommende bor sammen med foreldrene.
+
+1 Midlertidig flytting til foreldrehjemmet våren 2020 på grunn av utbrudd av koronavirus regnes ikke som å bo sammen med foreldrene jf. [forskrift 3 april 2020 nr. 569 § 5](forskrift/2020-04-03-569/§5).
 
 ### Kapittel 27. Omgjøring av lån til utdanningsstipend
 
@@ -984,6 +1030,8 @@ Det kan bli gjort unntak fra kravet om at undervisningen må vare i minst ett se
 
 Det gis ikke støtte etter forskriftens fjerde del til utdanning som tilbys av utenlandske læresteder når hele eller deler av studiet er lagt opp som nettstudium eller andre former for fjernundervisning/samlingsbasert studium. Se [§ 7-5](forskrift/2019-03-15-254/§7-5).]
 
+1 Paragrafen gjelder ikke våren 2020, jf. [forskrift 3 april 2020 nr. 569 § 4](forskrift/2020-04-03-569/§4).
+
 ### Kapittel 36. Utregning av støttebeløpet
 
 ### § 36-1. Utregning av støttebeløpet
@@ -1126,7 +1174,13 @@ Søkere som har rett til støtte etter forskriftens tredje del, får hele basiss
 
 ### § 41-2. Tidsramme for flyktningstipend
 
-Flyktningstipendet gis i inntil tre år, innenfor en periode på seks år etter dato for innvilget beskyttelse. Innenfor denne perioden gis stipendet med den varigheten som framgår av tabellen:*Tidspunkt for påbegynt utdanning**Varighet av flyktningstipendet*Innen tre år etter innvilget beskyttelseTre årInnen fire år etter innvilget beskyttelseTo årInnen fem år etter innvilget beskyttelseEtt år
+Flyktningstipendet gis i inntil tre år, innenfor en periode på seks år etter dato for innvilget beskyttelse. Innenfor denne perioden gis stipendet med den varigheten som framgår av tabellen:
+
+| *Tidspunkt for påbegynt utdanning* | *Varighet av flyktningstipendet* |
+| --- | --- |
+| Innen tre år etter innvilget beskyttelse | Tre år |
+| Innen fire år etter innvilget beskyttelse | To år |
+| Innen fem år etter innvilget beskyttelse | Ett år |
 
 Flyktningstipend gis i inntil tre år, innenfor en periode på åtte år etter innvilget beskyttelse, dersom søkerenhar barn eller får barn i løpet av den tiden flyktningstipend normalt kan gis. Utdanningen må ta til før barnet er fylt ti år.har rett til grunnskoleopplæring etter [opplæringslova § 4A-1](lov/1998-07-17-61/§4a-1) før vanlig videregående opplæring.
 

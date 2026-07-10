@@ -49,3 +49,5 @@ Kongen kan gi forskrift om innretningen av tilskuddsordningen, herunder virkeomr
 ## § 5. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Fra 1 mars 2019 iflg. [res. 1 mars 2019 nr. 162](forskrift/2019-03-01-162).

@@ -83,3 +83,5 @@ Forskriften trer i kraft 1. desember 2023.
 > Endret ved forskrift [26 nov 2023 nr. 1916](forskrift/2023-11-26-1916).
 
 ## § 11. Endringer i andre forskrifter
+
+Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter: – – –

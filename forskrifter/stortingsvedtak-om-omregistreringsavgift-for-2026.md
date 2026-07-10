@@ -24,7 +24,18 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2) betales avgift til statskassen ved omregistrering av nevnte, tidligere her i landet registrerte motorvogner, og tilhengere med følgende beløp:*Registreringsår**2026 til 2023 (kr)**2022 til 2015 (kr)**2014 og eldre (kr)*a.Mopeder, motorsykler og beltemotorsykler645645645b.PersonbilerEgenvekt (typegodkjent):1. t.o.m. 1 200 kg4 9183 2361 9422. over 1 200 kg7 5054 5321 942c.Lastebiler, trekkbiler, varebiler, kombinerte biler, campingbiler, beltebiler og busser med tillatt totalvekt inntil 7 500 kg2 4591 5531 296d.Biltilhengere, herunder semitrailere og campingtilhengere, med egenvekt (typegodkjent) over 350 kg645645645
+Fra 1. januar 2026 skal det i henhold til [lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter](lov/1959-06-19-2) betales avgift til statskassen ved omregistrering av nevnte, tidligere her i landet registrerte motorvogner, og tilhengere med følgende beløp:
+
+|  |  | *Registreringsår* |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | *2026 til 2023 (kr)* | *2022 til 2015 (kr)* | *2014 og eldre (kr)* |
+| a. | Mopeder, motorsykler og beltemotorsykler | 645 | 645 | 645 |
+| b. | Personbiler |  |  |  |
+|  | Egenvekt (typegodkjent): |  |  |  |
+|  | 1. t.o.m. 1 200 kg | 4 918 | 3 236 | 1 942 |
+|  | 2. over 1 200 kg | 7 505 | 4 532 | 1 942 |
+| c. | Lastebiler, trekkbiler, varebiler, kombinerte biler, campingbiler, beltebiler og busser med tillatt totalvekt inntil 7 500 kg | 2 459 | 1 553 | 1 296 |
+| d. | Biltilhengere, herunder semitrailere og campingtilhengere, med egenvekt (typegodkjent) over 350 kg | 645 | 645 | 645 |
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften.
 

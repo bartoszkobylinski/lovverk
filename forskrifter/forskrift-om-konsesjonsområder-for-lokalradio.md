@@ -26,12 +26,16 @@ eu_basis: []
 
 Det fastsettes følgende konsesjonsområder for lokalradio:
 
+*Østfold:*
+
 - 01-01. Halden og Aremark
 - 01-02. Fredrikstad og Hvaler
 - 01-03. Sarpsborg og Råde
 - 01-04. Moss, Rygge og Våler
 - 01-05. Rakkestad, Marker, Eidsberg, Rømskog og Trøgstad
 - 01-06. Askim, Skiptvet, Spydeberg og Hobøl.
+
+*Akershus:*
 
 - 02-01. Eidsvoll, Hurdal, Nannestad, Ullensaker og Nes
 - 02-02. Lørenskog, Sørum, Fet, Rælingen, Enebakk, Skedsmo, Nittedal, Aurskog-Høland samt Gjerdrum fra Akershus
@@ -40,8 +44,12 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 02-05. Ski og Oppegård
 - 02-06. Frogn, Ås og Vestby.
 
+*Oslo*
+
 - 03-01. Oslo
 - 03-02. Stor-Oslo: Oslo samt Lørenskog, Sørum, Fet, Rælingen, Enebakk, Skedsmo, Nittedal, Aurskog-Høland og Gjerdrum fra Akershus.
+
+*Hedmark:*
 
 - 04-01. Tynset, Tolga, Os, Alvdal og Folldal
 - 04-02. Engerdal og Trysil
@@ -51,12 +59,16 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 04-06. Åsnes, Grue og Våler
 - 04-07. Kongsvinger, Eidskog, Nord-Odal og Sør-Odal.
 
+*Oppland:*
+
 - 05-01. Jevnaker, Gran, Lunner, Søndre Land og Nordre Land
 - 05-02. Østre Toten og Vestre Toten
 - 05-03. Gjøvik, Lillehammer og Gausdal
 - 05-04. Øyer, Nord-Fron, Sør-Fron og Ringebu
 - 05-05. Vang, Øystre Slidre, Vestre Slidre, Etnedal, Nord-Aurdal og Sør-Aurdal
 - 05-06. Lesja, Skjåk, Lom, Vågå, Sel og Dovre.
+
+*Buskerud:*
 
 - 06-01. Hol, Ål, Hemsedal, Gol, Nes, Flå og Nore og Uvdal
 - 06-02. Sigdal, Modum og Krødsherad
@@ -66,10 +78,14 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 06-06. Ringerike
 - 06-07. Hole.
 
+*Vestfold:*
+
 - 07-01. Horten, Holmestrand, Hof, Sande og Svelvik
 - 07-02. Larvik og Lardal
 - 07-03. Tønsberg, Re, Andebu, Stokke, Nøtterøy og Tjøme
 - 07-04. Sandefjord.
+
+*Telemark:*
 
 - 08-01. Seljord, Kviteseid og Nissedal
 - 08-02. Vinje, Tokke og Fyresdal
@@ -79,12 +95,16 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 08-06. Kragerø
 - 08-07. Drangedal.
 
+*Aust-Agder:*
+
 - 09-01. Arendal, Tvedestrand, Åmli, Froland og Vegårdshei
 - 09-02. Lillesand og Birkenes
 - 09-03. Grimstad
 - 09-04. Risør og Gjerstad
 - 09-05. Valle og Bykle
 - 09-06. Bygland, Evje og Hornnes.
+
+*Vest-Agder:*
 
 - 10-01. Søgne og Songdalen
 - 10-02. Kristiansand
@@ -93,12 +113,16 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 10-05. Farsund og Lyngdal
 - 10-06. Vennesla samt Iveland fra Aust-Agder.
 
+*Rogaland:*
+
 - 11-01. Haugesund, Karmøy, Vindafjord, Tysvær, Bokn og Utsira, samt Sveio og Etne fra Hordaland
 - 11-02. Sauda, Strand, Finnøy, Rennesøy, Kvitsøy, Suldal og Hjelmeland
 - 11-03. Stavanger, Sola og Randaberg
 - 11-04. Sandnes og Forsand
 - 11-05. Klepp, Time, Hå og Gjesdal
 - 11-06. Eigersund, Bjerkreim, Lund og Sokndal.
+
+*Hordaland:*
 
 - 12-01. Odda, Ullensvang, Eidfjord, Kvam, Jondal, Voss, Granvin og Ulvik
 - 12-02. Stord, Tysnes, Bømlo og Kvinnherad
@@ -110,6 +134,8 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 12-08. Askøy
 - 12-09. Sund, Fjell og Øygarden.
 
+*Sogn og Fjordane:*
+
 - 13-01. Lærdal, Aurland, Årdal, Sogndal, Leikanger, Vik og Balestrand
 - 13-02. Hyllestad, Solund og Gulen
 - 13-03. Luster
@@ -119,12 +145,16 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 13-07. Selje og Vågsøy
 - 13-08. Flora, Bremanger og Askvoll.
 
+*Møre og Romsdal:*
+
 - 14-01. Kristiansund, Aure, Smøla, Tingvoll, Frei, Averøy, Eide, Sunndal, Surnadal, Rindal og Halsa
 - 14-02. Molde, Fræna, Aukra, Midsund og Vestnes
 - 14-03. Rauma, Nesset og Gjemnes
 - 14-04. Norddal, Stranda, Stordal og Sykkylven
 - 14-05. Ålesund, Skodje, Giske, Sula, Ørskog, Haram og Sandøy
 - 14-06. Volda, Ørsta, Vanylven, Ulstein, Sande, Herøy og Hareid.
+
+*Sør-Trøndelag:*
 
 - 15-01. Oppdal, Rennebu og Midtre Gauldal
 - 15-02. Røros, Holtålen, Tydal og Selbu
@@ -134,9 +164,13 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 15-06. Rissa, Ørland, Bjugn, Åfjord, Roan, Osen og Agdenes
 - 15-07. Malvik.
 
+*Nord-Trøndelag:*
+
 - 16-01. Levanger, Steinkjer, Stjørdal, Meråker, Frosta, Verdal, Mosvik, Inderøy, Fosnes, Namsos, Namdalseid, Overhalla, Høylandet, Flatanger, Verran, Snåsa, Namsskogan og Grong
 - 16-02. Lierne og Røyrvik
 - 16-03. Leka, Vikna og Nærøy.
+
+*Nordland:*
 
 - 17-01. Vega
 - 17-02. Brønnøy, Sømna, Bindal og Vevelstad
@@ -164,12 +198,16 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 17-24. Øksnes
 - 17-25. Andøy.
 
+*Troms:*
+
 - 18-01. Harstad, Ibestad, Bjarkøy og Kvæfjord
 - 18-02. Bardu, Gratangen, Lavangen og Salangen
 - 18-03. Målselv og Balsfjord
 - 18-04. Dyrøy, Sørreisa, Lenvik, Tranøy, Torsken og Berg
 - 18-05. Tromsø og Karlsøy
 - 18-06. Lyngen, Storfjord, Kåfjord, Nordreisa, Skjervøy og Kvænangen.
+
+*Finnmark:*
 
 - 19-01. Sør-Varanger
 - 19-02. Vadsø og Nesseby
@@ -184,6 +222,8 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 19-11. Hammerfest og Kvalsund
 - 19-12. Alta og Loppa
 - 19-13. Hasvik.
+
+*Svalbard:*20-01. Svalbard.
 
 > Endret ved [forskrifter 10 juli 2002 nr. 872](forskrift/2002-07-10-872), [21 juli 2004 nr. 1135](forskrift/2004-07-21-1135), [12 nov 2007 nr. 1238](forskrift/2007-11-12-1238).
 

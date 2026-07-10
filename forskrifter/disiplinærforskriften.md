@@ -24,6 +24,8 @@ eu_basis: []
 
 ## Kapittel 1. Forholdet til [forvaltningsloven](lov/1967-02-10)
 
+*Til [forsvarsloven § 64](lov/2016-08-12-77/§64)*.
+
 ### § 1
 
 [Forvaltningsloven kapittel 2](lov/1967-02-10/kapII) gjelder enhver som har befatning med en disiplinærundersøkelse.
@@ -39,6 +41,8 @@ Offiserens avgjørelse om egen habilitet er ikke gjenstand for særskilt klage.
 Foreligger forhold som nevnt i første ledd, behandles saken av offiserens nærmeste foresatte.
 
 ## Kapittel 2. Hvilke handlinger det kan ilegges refselse for
+
+*Til [forsvarsloven § 65](lov/2016-08-12-77/§65)*.
 
 ### § 3
 
@@ -64,6 +68,8 @@ En sjef som har foreleggelsesplikt til påtalemyndigheten etter [forsvarsloven �
 
 ## Kapittel 3. Skyldkravet
 
+*Til [forsvarsloven § 66](lov/2016-08-12-77/§66)*.
+
 ### § 8
 
 Den som handler i strid med kravet til forsvarlig opptreden på et område og som ut fra sine personlige forutsetninger kan bebreides, er uaktsom.
@@ -75,6 +81,8 @@ Uaktsomhetskravet gjelder selv om straffebestemmelsen bare rammer den forsettlig
 [Straffelovens](lov/2005-05-20-28) grunnvilkår om medvirkning, nødrett, nødverge, selvtekt, skyldevne, skyldkrav, forsett, uaktsomhet, uforsettlig følge, faktisk uvitenhet og rettsuvitenhet gjelder i disiplinærsaker. [Straffelovens](lov/2005-05-20-28) grunnvilkår om forsøk i [§ 16](lov/2005-05-20-28/§16) gjelder også, men uten at det stilles krav om at lovbruddet kan medføre fengsel i 1 år eller mer.
 
 ## Kapittel 4. Disiplinærlovgivningens virkeområde i tid
+
+*Til [forsvarsloven § 68](lov/2016-08-12-77/§68)*.
 
 ### § 10
 
@@ -105,6 +113,8 @@ At vedkommende har dimittert eller på annen måte har avsluttet sitt tjenestefo
 Foreldelsesfristen regnes fra det tidspunkt handlingen fant sted, uansett når den ble oppdaget. Gjelder det et sammenhengende refsbart forhold, regnes fristen fra det tidspunkt forholdet opphørte. At forholdet er foreldet etter denne bestemmelse, er ikke til hinder for at saken blir rettslig forfulgt som straffesak.
 
 ## Kapittel 5. Refselsesmidlene
+
+*Til [forsvarsloven § 69](lov/2016-08-12-77/§69).*
 
 ### § 17
 
@@ -192,6 +202,8 @@ Hvis det oppdages under den juridiske kontrollen at det er ilagt flere refselser
 
 ## Kapittel 6. Plikt til å forelegge forhold for påtalemyndigheten
 
+*Til [forsvarsloven § 70](lov/2016-08-12-77/§70)*.
+
 ### § 33
 
 Stedlig påtalemyndighet skal motta saken til vurdering etter [forsvarsloven § 70](lov/2016-08-12-77/§70), jf. [straffeprosessloven § 224](lov/1981-05-22-25/§224) og [§ 225](lov/1981-05-22-25/§225).
@@ -207,6 +219,8 @@ Den personlig fornærmede skal gjøres kjent med forskjellen på disiplinærrett
 Dersom den personlig fornærmede ikke ønsker å anmelde saken til påtalemyndigheten, skal dette noteres i saken. Sjefen med foreleggelsesplikt etter [forsvarsloven § 70](lov/2016-08-12-77/§70) skal likevel forelegge saken for påtalemyndigheten hvis det følger av riksadvokatens retningslinjer. Ved tvil skal sjefen be Forsvarets jurister om råd, jf. [§ 7](forskrift/2024-05-26-878/§7).
 
 ## Kapittel 7. Hvem som har disiplinærmyndighet
+
+*Til [forsvarsloven § 71](lov/2016-08-12-77/§71)*.
 
 ### § 35
 
@@ -249,6 +263,8 @@ Finner en offiser at det bør brukes strengere refselse enn vedkommende selv kan
 Utøvelsen av disiplinærmyndighet overfor norsk militært personell i en alliert eller annen internasjonal tjeneste er et nasjonalt ansvar, og myndigheten skal tilligge norske sjefer.
 
 ## Kapittel 8. Plikt til å sørge for at saken er tilstrekkelig opplyst
+
+*Til [forsvarsloven § 72](lov/2016-08-12-77/§72)*.
 
 ### § 42
 
@@ -312,6 +328,8 @@ Reglene i [påtaleinstruksen § 8-2](forskrift/1985-06-28-1679/§8-2) (avhør av
 
 ## Kapittel 9. Rett til bistand
 
+*Til [forsvarsloven § 73](lov/2016-08-12-77/§73)*.
+
 ### § 55
 
 Den som gjerningspersonen har valgt til å bistå seg, har rett til å være til stede under avhør som avholdes til oppklaring av saken, stille spørsmål til den som avhøres, begjære ytterligere bevisførsel og uttale seg om saken før avgjørelse treffes.
@@ -327,6 +345,8 @@ Den undersøkelsen retter seg mot (gjerningspersonen) har ikke krav på å la se
 Dersom den refsende sjef i særegne tilfeller finner det rimelig og valget av bistandsperson ikke vesentlig forsinker saken, kan sjefen bestemme at utgiftene til advokat skal dekkes av Forsvaret.
 
 ## Kapittel 10. Underretning om avgjørelse og klageadgang
+
+*Til [forsvarsloven § 74](lov/2016-08-12-77/§74)*.
 
 ### § 58
 
@@ -384,6 +404,8 @@ Bruk av elektronisk kommunikasjon ved underretning om et vedtak er bare tillatt 
 
 ## Kapittel 11. Adgang til å oppheve og omgjøre en avgjørelse i saken
 
+*Til [forsvarsloven § 75](lov/2016-08-12-77/§75)*.
+
 ### § 68
 
 Refselsen kan bare skjerpes når opplysninger som senere er kommet frem, gjør det utvilsomt at forholdet er vesentlig grovere enn tidligere antatt.
@@ -393,6 +415,8 @@ Refselsen kan bare skjerpes når opplysninger som senere er kommet frem, gjør d
 Når en ilagt refselse omgjøres, begynner ny betenkningstid på to virkedager å løpe, jf. reglene i [domstolloven § 148](lov/1915-08-13-5/§148)–[§ 149](lov/1915-08-13-5/§149). Det samme gjelder ved omgjøring i forbindelse med tilsyn og legalitetskontroll etter [§ 97](forskrift/2024-05-26-878/§97), jf. [forsvarsloven § 81](lov/2016-08-12-77/§81), jf. [§ 75](lov/2016-08-12-77/§75).
 
 ## Kapittel 12. Klage til Klagenemnda for disiplinærsaker i Forsvaret
+
+*Til [forsvarsloven § 76](lov/2016-08-12-77/§76)*.
 
 ### § 70
 
@@ -474,6 +498,8 @@ Dersom den refsende sjef eller den høyere foresatte ønsker å oppheve refselse
 
 ## Kapittel 13. Iverksetting av refselse
 
+*Til [forsvarsloven § 79](lov/2016-08-12-77/§79)*.
+
 ### § 84
 
 Blir det innen klagefristen på to virkedager klaget over en refselse som går ut på overtredelsesgebyr eller frihetsinnskrenkning, skal refselsen ikke iverksettes før klagen er avgjort. Refselse som går ut på overtredelsesgebyr, kan likevel iverksettes dersom den refsede dimitterer før klagen er avgjort.
@@ -518,6 +544,8 @@ Overtredelsesgebyr som er innkrevd av Innkrevingsmyndigheten, sendes Forsvaret t
 
 ## Kapittel 14. Erstatning
 
+*Til [forsvarsloven § 80](lov/2016-08-12-77/§80)*.
+
 ### § 90
 
 Når en refselse blir opphevet, skal det i underretningen til den refsede opplyses om adgangen til å få erstatning. Det skal opplyses om at kravet skal fremsettes gjennom vedkommendes avdeling, men stiles til Forsvarsdepartementet.
@@ -531,6 +559,8 @@ Dersom frihetsinnskrenkning allerede er gjennomført når en refselse oppheves, 
 Selv om ikke erstatning gis, kan den refsede i særlige tilfeller gis hel eller delvis dekning for vesentlige kostnader som har vært nødvendige for å ivareta dennes interesser i tilknytning til erstatningskravet dersom det anses rimelig.
 
 ## Kapittel 15. Rådgivning, tilsyn og kontroll
+
+*Til [forsvarsloven § 81](lov/2016-08-12-77/§81)*.
 
 ### § 93
 
@@ -589,6 +619,8 @@ Forsvarssjefen bestemmer hvordan høyere sjefer i Forsvaret skal føre tilsyn me
 En sjef på høyere kommandotrinn og Forsvarets jurister kan når som helst kreve å få en disiplinærsak til kontroll.
 
 ## Kapittel 16. Særregler i krigstid eller når krig truer
+
+*Til [forsvarsloven § 82](lov/2016-08-12-77/§82)*.
 
 ### § 101
 

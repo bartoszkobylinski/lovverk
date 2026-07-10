@@ -52,4 +52,6 @@ Departementet kan frita for eller sette ned avgiften når det oppstår enkelttil
 
 ## II
 
+Fra den tid departementet bestemmer, gjøres følgende endringer: – – –
+
 > Endret ved vedtak [19 des 2025 nr. 2782](forskrift/2025-12-19-2782) (i kraft 1 jan 2026).

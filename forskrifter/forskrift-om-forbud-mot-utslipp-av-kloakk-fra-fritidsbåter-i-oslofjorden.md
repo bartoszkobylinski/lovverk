@@ -53,6 +53,8 @@ Forskriften trer i kraft 1. juli 2024.
 
 Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:
 
+– – –
+
 ## Vedlegg I. Forbudssonen
 
 Vedlegget viser forbudssonen, som angir grensen for hvor langt forbudet mot utslipp av kloakk fra fritidsbåter i Oslofjorden strekker seg. Forbudssonen går ut til grensen for territorialfarvannet.

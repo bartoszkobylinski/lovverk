@@ -36,4 +36,10 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 Forskriften trer i kraft straks samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2019/250](eu/32019r0250) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 15. februar 2012 nr. 148 om typesamsvarserklæring](forskrift/2012-02-15-148).1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 791](forskrift/2022-05-06-791).
+
 ## Forordninger
+
+For å lese engelsk versjon av forordning [(EU) 2019/250](eu/32019r0250) se her: [(pdf)](static/SF/32019r0250e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2020/779](eu/32020r0779) se her: [(pdf)](static/SF/32020r0779e-01.pdf)

@@ -103,3 +103,5 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold a
 Denne lov trer i kraft fra den dato1 Kongen bestemmer.
 
 – – –
+
+1 Fra 1 juli 1991 iflg. [res. 22 mars 1991 nr. 155](forskrift/1991-03-22-155).

@@ -39,6 +39,8 @@ Nemndas håndheving, jf. [§ 7](lov/2017-06-16-50/§7), omfatter ikke virksomhet
 
 > Endret ved lover [21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)), [18 juni 2021 nr. 93](lov/2021-06-18-93) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1973](forskrift/2021-06-18-1973), se endringsloven for overgangsregel), [20 des 2022 nr. 115](lov/2022-12-20-115), [16 juni 2023 nr. 64](lov/2023-06-16-64) (i kraft 1 jan 2024 iflg. [res. 1 sep 2023 nr. 1379](forskrift/2023-09-01-1379)).
 
+1 Inkurie: Regnskapsloven § 3-3 c om redegjørelse om samfunnsansvar ble opphevet 1. november 2024.
+
 ### § 2. Forholdet til forvaltningsloven
 
 Dersom ikke annet er bestemt, gjelder [forvaltningsloven](lov/1967-02-10) for ombudets og nemndas virksomhet. [Forvaltningsloven §§ 35](lov/1967-02-10/§35) og [51](lov/1967-02-10/§51) femte ledd gjelder ikke. Dersom nemndas vedtak er kjent ugyldig ved dom, gjelder likevel [forvaltningsloven § 35](lov/1967-02-10/§35) første ledd bokstav c.
@@ -84,6 +86,8 @@ Ombudet skal føre tilsyn med at norsk rett og forvaltningspraksis samsvarer med
 Ombudet skal følge opp aktivitets- og redegjørelsesplikten etter [likestillings- og diskrimineringsloven §§ 24](lov/2017-06-16-51/§24), [25](lov/2017-06-16-51/§25), [26](lov/2017-06-16-51/§26) og [26 a](lov/2017-06-16-51/§26a), samt rapporteringsplikten om likestilling og ikke-diskriminering etter [regnskapsloven § 3-3 c](lov/1998-07-17-56/§3-3c).1 Ombudets oppfølging kan blant annet innebære at ombudet og arbeidsgiver utarbeider en felles tilnærming til hvordan aktivitetsplikten følges opp i virksomheten. Ombudet kan videre gjennomgå likestillingsredegjørelsene, analysere funnene og komme med et forslag til forbedringstiltak og styrket innsats på likestillingsarbeidet i virksomheten. Ombudet kan også gjennomføre oppfølgingsbesøk i virksomhetene.
 
 > Endret ved lov [21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)).
+
+1 Inkurie: Regnskapsloven § 3-3 c om redegjørelse om samfunnsansvar ble opphevet 1. november 2024.
 
 ## Kapittel 3 Diskrimineringsnemnda
 
@@ -250,6 +254,8 @@ Departementet kan gi forskrifter om ombudets og nemndas organisering, oppgaver o
 ### § 23. Ikrafttredelse
 
 Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 10. juni 2005 nr. 40](lov/2005-06-10-40) om Likestillings- og diskrimineringsombudet og Likestillings- og diskrimineringsnemnda.
+
+1 Fra 1 jan 2018 iflg. [res. 16 juni 2017 nr. 750](forskrift/2017-06-16-750).
 
 ### § 24. Overgangsregler
 

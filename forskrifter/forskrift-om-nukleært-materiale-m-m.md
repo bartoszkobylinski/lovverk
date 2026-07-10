@@ -72,6 +72,8 @@ Kontrollorganet skal omgående underrettes ved tap av nukleært materiale og fle
 1. Inspektører fra kontrollorganet skal, alene eller i følge med utenlandske inspektører,1 ha adgang til de steder der det nukleære materiale eller flerbruksvarer blir oppbevart eller brukt, eller har blitt oppbevart eller brukt. Inspektørene har rett til alle opplysninger som finnes nødvendige for effektiv kontroll. De skal også kunne gjennomføre nødvendige kontrolltiltak, herunder målinger og prøvetaking. Inspektørene er underlagt taushetsplikt i medhold av [atomenergiloven § 53](lov/1972-05-12-28/§53).
 2. Kontrollorganet plikter å stille inspektører til rådighet for å ledsage utenlandske inspektører, slik at disse ikke blir forsinket eller på annen måte hemmet i utøvelsen av sine funksjoner.
 
+1 Inspektører fra organ som har inspeksjonsrett i henhold til avtale Norge er tilsluttet.
+
 ### § 9. (omkostninger ved sikkerhetskontroll)
 
 Det er innehaveren som skal bære eventuelle ekstra kostnader internt i virksomheten som følger av den interne sikkerhetskontrollen. Særlige kontrolltiltak som vil føre til store ekstraomkostninger for innehaveren, for eksempel grunnet midlertidig produksjonsstopp, skal ikke gjennomføres før Direktoratet for strålevern og atomsikkerhet har godkjent tiltaket.
@@ -88,9 +90,13 @@ Innehaveren skal utpeke en ansvarshavende person for nukleært materiale og fler
 
 Eksport er ikke tillatt uten at dette er særskilt angitt i løyvet.1 Innehaveren skal omgående gi melding til kontrollorganet2 etter avsendelse av materialet.
 
+1 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 5](lov/1972-05-12-28/§5) nr. 2 siste punktum.2 Jf. [§ 3](forskrift/2000-05-12-433/§3) nr. 4.
+
 ### § 12. (tillatelse fra Utenriksdepartementet)
 
 Nukleært materiale og flerbruksvarer skal ikke eksporteres uten tillatelse fra Utenriksdepartementet.1 Ved utførsel av nukleært materiale og flerbruksvarer vil den innvilgede utførselstillatelsen stille vilkår om at eksportøren rapporterer til Utenriksdepartementet på fastlagt skjema med beskrivelse av den utførte varen, vekt/kvantitet, navn og adresse på sluttbruker og tidspunkt for utførselen. Gyldig utførselstillatelse fra Utenriksdepartementet må fremlegges for Tollvesenet ved utførselen.
+
+1 Jf. [lov av 18. desember 1987 nr. 93](lov/1987-12-18-93) om kontroll med eksport av strategiske varer, tjenester og teknologi m.v., og tilhørende [forskrift av 10. januar 1989 nr. 51](forskrift/1989-01-10-51) til gjennomføring av utførselsreguleringen for strategiske varer, tjenester og teknologi.
 
 ## Kapittel VII. Administrative bestemmelser
 
@@ -106,9 +112,13 @@ Nukleært materiale og flerbruksvarer skal ikke eksporteres uten tillatelse fra 
 
 Søknader om løyve til å besitte, omsette og transportere nukleært materiale skal inneholde dokumenterte opplysninger om eierforhold, ansvarsforhold, mengde og type materiale, eventuelle tiltak for fysisk beskyttelse1 samt hensikt med besittelsen eller omsetningen av nukleært materiale. Søker må akseptere de betingelser som stilles fra kontrollorganet for gjennomføringen av intern sikkerhetskontroll.2
 
+1 Jf. [forskrift av 2. november 1984 nr. 1809](forskrift/1984-11-02-1809) om fysisk beskyttelse av nukleære materialer, med senere endringer.2 Jf. [lov av 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet [§ 51](lov/1972-05-12-28/§51).
+
 ### § 15. (innhold i søknad om løyve for transittransport)
 
 Søknader om løyve for transittransport av nukleært materiale må inneholde dokumenterte opplysninger om avsender, mottaker, fraktfører, fartøyflagg, mengde og type materiale og eventuelle tiltak for fysisk beskyttelse av materialet.1 Ansvarsforsikring i henhold til [atomenergiloven § 35](lov/1972-05-12-28/§35) skal også dokumenteres der det er nødvendig.
+
+1 Jf. [forskrift av 2. november 1984 nr. 1809](forskrift/1984-11-02-1809) om fysisk beskyttelse av nukleære materialer.
 
 ### § 15a. Overtredelsesgebyr
 

@@ -84,15 +84,38 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som lengdemåli
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt lengdemålingsinstrumentet er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C |
+
 ### § 11. Mekaniske miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter instrumenter som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. instrumenter som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter instrumenter som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at instrumentet er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter instrumenter som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel instrumenter montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
 
 ### § 12. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter instrument som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter instrument som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter instrument som får strøm fra batteriet i et kjøretøy. Slike instrument skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -196,6 +219,15 @@ Tekstiler kjennetegnes ved den karakteristiske faktoren K. Denne faktoren tar he
 
 Dimensjoner og eventuelt K-faktor innenfor intervallet angis av produsenten for instrumentet. Intervallet for K-faktoren er angitt i tabell 4:
 
+*Tabell 4*
+
+| *Gruppe* | *K-intervall* | *Produkt* |
+| --- | --- | --- |
+| I | 0 < K < 2 × 10-2 N/m2 | lav tøyelighet |
+| II | 2 × 10-2 N/m2 < K < 8 × 10-2 N/m2 | middels tøyelighet |
+| III | 8 × 10-2 N/m2 < K < 24 × 10-2 N/m2 | høy tøyelighet |
+| IV | 24 × 10-2 N/m2 < K | svært høy tøyelighet |
+
 Dersom det målte objektet ikke transporteres av måleinstrumentet, må dets hastighet være innenfor området produsenten har angitt for instrumentet.
 
 Dersom måleresultatet avhenger av tykkelsen, overflatetilstanden og leveringsmåten (f.eks. fra en stor rull eller en stor stabel), angis tilsvarende begrensninger av produsenten.
@@ -203,6 +235,14 @@ Dersom måleresultatet avhenger av tykkelsen, overflatetilstanden og leveringsm�
 ### § 30. Maksimale tillatte målefeil
 
 Tabell 5 viser maksimale tillatte målefeil, der Lm er minste målbare lengde, det vil si minste lengde angitt av produsenten for instrumentets beregnede bruk.
+
+*Tabell 5*
+
+| *Nøyaktighetsklasse* | *Maksimal tillatte målefeil* |
+| --- | --- |
+| I | 0,125 %, men ikke under 0,005 Lm |
+| II | 0,25 %, men ikke under 0,01 Lm |
+| III | 0,5 %, men ikke under 0,02 Lm |
 
 Den sanne lengdeverdien for de forskjellige materialtypene kontrolleres ved hjelp av egnede instrumenter, for eksempel målebånd. Materialet som skal måles, legges ut på et egnet underlag rett og ikke strukket.
 

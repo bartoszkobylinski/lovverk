@@ -25,3 +25,5 @@ eu_basis: []
 Kongens myndighet etter lov om endringer i klimakvoteloven m.m.1 § 3, § 5, § 6, § 7, § 12, § 14, § 16 og § 17 delegeres til Klima- og miljødepartementet.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+1 Skal vel være etter [lov 17. desember 2004 nr. 99](lov/2004-12-17-99) om kvoteplikt og handel med kvoter for utslipp av klimagasser (klimakvoteloven) (Lovdatas anm.).

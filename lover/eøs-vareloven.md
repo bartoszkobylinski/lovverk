@@ -62,6 +62,20 @@ Loven trer i kraft straks.
 
 ## EØS-avtalen vedlegg II kap. XIX nr. 3b (forordning (EF) nr. 765/2008) om fastsettelse av krav til akkreditering og markedstilsyn for markedsføring av varer.
 
+Europaparlamentet og Rådet for Den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95 og 133,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+etter samråd med Regionkomiteen,
+
+etter framgangsmåten fastsatt i traktatens artikkel 2512 og
+
+ut fra følgende betraktninger:
+
 1. Det er nødvendig å sikre at produkter som er omfattet av det frie varebyttet i Fellesskapet, oppfyller krav som gir et høyt nivå for vern av offentlige interesser som helse og sikkerhet i alminnelighet, helse og sikkerhet på arbeidsplassen, forbrukervern, miljøvern og sikkerhet, og samtidig sikre at det frie varebyttet ikke begrenses mer enn det som er tillatt i henhold til Fellesskapets harmoniseringsregelverk eller andre relevante fellesskapsregler. Det bør derfor fastsettes regler for akkreditering, markedstilsyn, kontroll av produkter fra tredjestater og CE-merking.
 2. Det er nødvendig å opprette en helhetlig ramme for regler og prinsipper for akkreditering og markedstilsyn. Denne rammen bør ikke påvirke de materielle reglene i gjeldende regelverk for bestemmelser som skal følges for å verne offentlige interesser som helse, sikkerhet, forbrukervern og miljøvern, men bør ha som mål å bedre anvendelsen av dem.
 3. Denne forordning bør ses som en utfylling av europaparlaments- og rådsbeslutning nr. [768/2008/EF](eu/32008d0768*) av 9. juli 2008 om en felles ramme for markedsføring av produkter.3
@@ -111,21 +125,43 @@ Loven trer i kraft straks.
 47. Denne forordning er forenlig med de grunnleggende rettigheter og de prinsipper som er anerkjent særlig i Den europeiske unions pakt om grunnleggende rettigheter.
 48. Ettersom målet for denne forordning, som er å sikre at produkter på det marked som omfattes av Fellesskapets regelverk, oppfyller krav om et høyt nivå for vern av helse og sikkerhet og andre offentlige interesser, og samtidig sikre at det indre marked virker på en tilfredsstillende måte ved å fastsette en ramme for akkrediteringsvirksomhet og markedstilsyn, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av tiltakets omfang og virkninger bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel, går denne forordning ikke lenger enn det som er nødvendig for å nå dette mål –
 
+1 EUT C 120 av 16.5.2008, s. 1.
+
+2 Europaparlamentsuttalelse av 21. februar 2008 (ennå ikke offentliggjort i *Den europeiske unions tidende*) og rådsbeslutning av 23. juni 2008.
+
+3 Se EUT L 218 av 13.8.2008, s. 82.
+
+4 EFT L 11 av 15.1.2002, s. 4.
+
+5 EFT L 145 av 31.5.2001, s. 43.
+
+6 EFT L 281 av 23.11.1995, s. 31. Direktivet endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+7 EFT L 8 av 12.1.2001, s. 1.
+
+8 EFT L 40 av 17.2.1993, s. 1. Forordningen sist endret ved forordning [(EF) nr. 1791/2006](eu/32006r1791) (EUT L 363 av 20.12.2006, s. 1).
+
+9 EFT L 248 av 16.9.2002, s. 1. Forordningen sist endret ved forordning [(EF) nr. 1525/2007](eu/32007r1525) (EUT L 343 av 27.12.2007, s. 9).
+
+vedtatt denne forordning:
+
 ### Kapittel I. Alminnelige bestemmelser
 
 ### Art 1. Formål og virkeområde
 
-1. I denne forordning fastsettes regler for organisering og gjennomføring av akkreditering av samsvarsvurderingsorganer som utøver samsvarsvurderingsvirksomhet.
+1\. I denne forordning fastsettes regler for organisering og gjennomføring av akkreditering av samsvarsvurderingsorganer som utøver samsvarsvurderingsvirksomhet.
 
-2. I denne forordning fastsettes en ramme for markedstilsyn med produkter for å sikre at disse produktene oppfyller krav som gir et høyt nivå for vern av offentlige interesser som helse og sikkerhet i alminnelighet, helse og sikkerhet på arbeidsplassen, forbrukervern, miljøvern og sikkerhet.
+2\. I denne forordning fastsettes en ramme for markedstilsyn med produkter for å sikre at disse produktene oppfyller krav som gir et høyt nivå for vern av offentlige interesser som helse og sikkerhet i alminnelighet, helse og sikkerhet på arbeidsplassen, forbrukervern, miljøvern og sikkerhet.
 
-3. I denne forordning fastsettes en ramme for kontroll med produkter fra tredjestater.
+3\. I denne forordning fastsettes en ramme for kontroll med produkter fra tredjestater.
 
-4. I denne forordning fastsettes de allmenne prinsippene for CE-merking.
+4\. I denne forordning fastsettes de allmenne prinsippene for CE-merking.
 
 ### Art 2. Definisjoner
 
 I denne forordning menes med:«gjøre tilgjengelig på markedet» enhver levering av et produkt for distribusjon, forbruk eller bruk på fellesskapsmarkedet i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfritt,«bringe i omsetning» gjøre et produkt tilgjengelig på fellesskapsmarkedet for første gang,«produsent» enhver fysisk eller juridisk person som produserer et produkt, eller som får et produkt konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerke,«representant» enhver fysisk eller juridisk person etablert i Fellesskapet som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaver med hensyn til sistnevntes forpliktelser i henhold til gjeldende fellesskapsregelverk,«importør» enhver fysisk eller juridisk person etablert i Fellesskapet som bringer et produkt fra en tredjestat i omsetning i Fellesskapet,«distributør» enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et produkt tilgjengelig på markedet,«markedsdeltakere» produsenten, representanten, importøren og distributøren,«teknisk spesifikasjon» et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et produkt, en prosess eller en tjeneste,«harmonisert standard» en standard vedtatt av et av de europeiske standardiseringsorganene oppført i vedlegg I til europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 19981 om en informasjonsprosedyre for standarder og tekniske forskrifter2 på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv,«akkreditering» en attestering fra et nasjonalt akkrediteringsorgan om at et samsvarsvurderingsorgan oppfyller kravene fastsatt i harmoniserte standarder og, der det er relevant, eventuelle tilleggskrav, herunder dem som er fastsatt i relevante sektorordninger, til å utøve en bestemt samsvarsvurderingsvirksomhet,«nasjonalt akkrediteringsorgan» det eneste organ i en medlemsstat som utfører akkreditering på oppdrag fra staten,«samsvarsvurdering» en prosess for å fastslå om nærmere angitte krav til et produkt, en prosess, en tjeneste, et system, en person eller et organ er oppfylt,«samsvarsvurderingsorgan» et organ som utøver samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjon,«tilbakekalling» ethvert tiltak med sikte på tilbakelevering av et produkt som allerede er gjort tilgjengelig for sluttbrukeren,«tilbaketrekking» ethvert tiltak med sikte på å hindre at et produkt i omsetningskjeden blir gjort tilgjengelig på markedet,«fagfellevurdering» en prosess der et nasjonalt akkrediteringsorgan vurderes av andre nasjonale akkrediteringsorganer i samsvar med kravene i denne forordning og, der det er relevant, ytterligere sektorvise tekniske spesifikasjoner,«markedstilsyn» virksomhet som utøves og tiltak som treffes av offentlige myndigheter for å sikre at produkter oppfyller kravene i Fellesskapets gjeldende harmoniseringsregelverk og ikke setter helse, sikkerhet eller andre sider ved vernet av offentlige interesser i fare,«markedstilsynsmyndighet» en myndighet i en medlemsstat med ansvar for å utføre markedstilsyn på medlemsstatens territorium,«frigivelse for fri omsetning» framgangsmåten fastsatt i artikkel 79 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks,3«CE-merking» merking der produsenten angir at produktet oppfyller gjeldende krav fastsatt i Fellesskapets harmoniseringsregelverk for slik merking,«Fellesskapets harmoniseringsregelverk» alt fellesskapsregelverk som harmoniserer vilkårene for markedsføring av produkter.
+
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 1.2 EFT L 204 av 21.7.1998, s. 37. Direktivet sist endret ved rådsdirektiv [2006/96/EF](eu/32006l0096) (EUT L 363 av 20.12.2006, s. 81).3 EFT L 302 av 19.10.1992, s. 1. Forordningen sist endret ved forordning [(EF) nr. 1791/2006](eu/32006r1791) (EUT L 363 av 20.12.2006, s. 1).
 
 ### Kapittel II. Akkreditering
 
@@ -135,55 +171,55 @@ Dette kapittel får anvendelse på akkreditering, på obligatorisk eller frivill
 
 ### Art 4. Allmenne prinsipper
 
-1. Hver medlemsstat skal utpeke ett nasjonalt akkrediteringsorgan.
+1\. Hver medlemsstat skal utpeke ett nasjonalt akkrediteringsorgan.
 
-2. Dersom en medlemsstat anser at det ikke er økonomisk meningsfylt eller holdbart å ha et nasjonalt akkrediteringsorgan eller å yte visse akkrediteringstjenester, skal medlemsstaten så langt det er mulig benytte det nasjonale akkrediteringsorgan i en annen medlemsstat.
+2\. Dersom en medlemsstat anser at det ikke er økonomisk meningsfylt eller holdbart å ha et nasjonalt akkrediteringsorgan eller å yte visse akkrediteringstjenester, skal medlemsstaten så langt det er mulig benytte det nasjonale akkrediteringsorgan i en annen medlemsstat.
 
-3. En medlemsstat skal underrette Kommisjonen og de andre medlemsstatene dersom den i samsvar med nr. 2 benytter det nasjonale akkrediteringsorgan i en annen medlemsstat.
+3\. En medlemsstat skal underrette Kommisjonen og de andre medlemsstatene dersom den i samsvar med nr. 2 benytter det nasjonale akkrediteringsorgan i en annen medlemsstat.
 
-4. På grunnlag av opplysningene nevnt i nr. 3 og i artikkel 12 skal Kommisjonen utarbeide, ajourføre og offentliggjøre en liste over nasjonale akkrediteringsorganer.
+4\. På grunnlag av opplysningene nevnt i nr. 3 og i artikkel 12 skal Kommisjonen utarbeide, ajourføre og offentliggjøre en liste over nasjonale akkrediteringsorganer.
 
-5. Når akkrediteringen ikke utføres direkte av de offentlige myndighetene selv, skal en medlemsstat overlate gjennomføringen av akkrediteringen til sitt nasjonale akkrediteringsorgan som en offentlig myndighetsutøvelse og gi det formell anerkjennelse.
+5\. Når akkrediteringen ikke utføres direkte av de offentlige myndighetene selv, skal en medlemsstat overlate gjennomføringen av akkrediteringen til sitt nasjonale akkrediteringsorgan som en offentlig myndighetsutøvelse og gi det formell anerkjennelse.
 
-6. Det nasjonale akkrediteringsorgans ansvar og oppgaver skal være klart atskilt fra ansvaret og oppgavene til andre nasjonale myndigheter.
+6\. Det nasjonale akkrediteringsorgans ansvar og oppgaver skal være klart atskilt fra ansvaret og oppgavene til andre nasjonale myndigheter.
 
-7. Det nasjonale akkrediteringsorgan skal utøve sin virksomhet på ideelt grunnlag.
+7\. Det nasjonale akkrediteringsorgan skal utøve sin virksomhet på ideelt grunnlag.
 
-8. Det nasjonale akkrediteringsorgan skal ikke drive virksomhet eller yte tjenester som samsvarsvurderingsorganer tilbyr, og skal ikke yte rådgivningstjenester, eie andeler i eller på annen måte ha økonomisk interesse eller ledelsesansvar i et samsvarsvurderingsorgan.
+8\. Det nasjonale akkrediteringsorgan skal ikke drive virksomhet eller yte tjenester som samsvarsvurderingsorganer tilbyr, og skal ikke yte rådgivningstjenester, eie andeler i eller på annen måte ha økonomisk interesse eller ledelsesansvar i et samsvarsvurderingsorgan.
 
-9. Hver medlemsstat skal sikre at dens nasjonale akkrediteringsorgan har egnede økonomiske og menneskelige ressurser til å utføre sine oppgaver på en tilfredsstillende måte, herunder til å utføre særlige oppgaver som for eksempel virksomhet for europeisk og internasjonalt akkrediteringssamarbeid og virksomhet som er nødvendig for å støtte offentlig politikk og som ikke er selvfinansierende.
+9\. Hver medlemsstat skal sikre at dens nasjonale akkrediteringsorgan har egnede økonomiske og menneskelige ressurser til å utføre sine oppgaver på en tilfredsstillende måte, herunder til å utføre særlige oppgaver som for eksempel virksomhet for europeisk og internasjonalt akkrediteringssamarbeid og virksomhet som er nødvendig for å støtte offentlig politikk og som ikke er selvfinansierende.
 
-10. Det nasjonale akkrediteringsorgan skal være medlem av det organ som er anerkjent i henhold til artikkel 14.
+10\. Det nasjonale akkrediteringsorgan skal være medlem av det organ som er anerkjent i henhold til artikkel 14.
 
-11. Nasjonale akkrediteringsorganer skal opprette og opprettholde egnede strukturer for å sikre en effektiv og balansert deltaking fra alle berørte parter både innenfor sine organisasjoner og innenfor det organ som er anerkjent i henhold til artikkel 14.
+11\. Nasjonale akkrediteringsorganer skal opprette og opprettholde egnede strukturer for å sikre en effektiv og balansert deltaking fra alle berørte parter både innenfor sine organisasjoner og innenfor det organ som er anerkjent i henhold til artikkel 14.
 
 ### Art 5. Akkreditering
 
-1. Et nasjonalt akkrediteringsorgan skal på anmodning fra et samsvarsvurderingsorgan vurdere om dette samsvarsvurderingsorganet er kompetent til å utøve en bestemt samsvarsvurderingsvirksomhet. Dersom det er tilfellet, skal det nasjonale akkrediteringsorgan utstede et akkrediteringsbevis.
+1\. Et nasjonalt akkrediteringsorgan skal på anmodning fra et samsvarsvurderingsorgan vurdere om dette samsvarsvurderingsorganet er kompetent til å utøve en bestemt samsvarsvurderingsvirksomhet. Dersom det er tilfellet, skal det nasjonale akkrediteringsorgan utstede et akkrediteringsbevis.
 
-2. Når en medlemsstat beslutter ikke å benytte akkreditering, skal den gi Kommisjonen og de andre medlemsstatene all den dokumentasjonen som er nødvendig for å kontrollere kompetansen til de samsvarsvurderingsorganer den velger ut for gjennomføring av Fellesskapets gjeldende harmoniseringsregelverk.
+2\. Når en medlemsstat beslutter ikke å benytte akkreditering, skal den gi Kommisjonen og de andre medlemsstatene all den dokumentasjonen som er nødvendig for å kontrollere kompetansen til de samsvarsvurderingsorganer den velger ut for gjennomføring av Fellesskapets gjeldende harmoniseringsregelverk.
 
-3. Nasjonale akkrediteringsorganer skal føre tilsyn med de samsvarsvurderingsorganene som de har utstedt akkrediteringsbevis til.
+3\. Nasjonale akkrediteringsorganer skal føre tilsyn med de samsvarsvurderingsorganene som de har utstedt akkrediteringsbevis til.
 
-4. Dersom et nasjonalt akkrediteringsorgan fastslår at et samsvarsvurderingsorgan som har mottatt et akkrediteringsbevis, ikke lenger er kompetent til å utøve en bestemt samsvarsvurderingsvirksomhet eller på en alvorlig måte har unnlatt å oppfylle sine forpliktelser, skal akkrediteringsorganet innen en rimelig frist treffe alle egnede tiltak for å begrense, midlertidig oppheve eller trekke tilbake akkrediteringsbeviset.
+4\. Dersom et nasjonalt akkrediteringsorgan fastslår at et samsvarsvurderingsorgan som har mottatt et akkrediteringsbevis, ikke lenger er kompetent til å utøve en bestemt samsvarsvurderingsvirksomhet eller på en alvorlig måte har unnlatt å oppfylle sine forpliktelser, skal akkrediteringsorganet innen en rimelig frist treffe alle egnede tiltak for å begrense, midlertidig oppheve eller trekke tilbake akkrediteringsbeviset.
 
-5. Medlemsstatene skal fastsette framgangsmåter for å behandle klager, herunder klageadgang i forbindelse med akkrediteringsavgjørelser eller manglende akkrediteringsavgjørelser, der det er hensiktsmessig.
+5\. Medlemsstatene skal fastsette framgangsmåter for å behandle klager, herunder klageadgang i forbindelse med akkrediteringsavgjørelser eller manglende akkrediteringsavgjørelser, der det er hensiktsmessig.
 
 ### Art 6. Prinsippet om forbud mot konkurrerende virksomhet
 
-1. Nasjonale akkrediteringsorganer skal ikke konkurrere med samsvarsvurderingsorganer.
+1\. Nasjonale akkrediteringsorganer skal ikke konkurrere med samsvarsvurderingsorganer.
 
-2. Nasjonale akkrediteringsorganer skal ikke konkurrere med andre nasjonale akkrediteringsorganer.
+2\. Nasjonale akkrediteringsorganer skal ikke konkurrere med andre nasjonale akkrediteringsorganer.
 
-3. Nasjonale akkrediteringsorganer kan drive sin virksomhet over landegrensene, innenfor territoriet til en annen medlemsstat, enten på anmodning fra et samsvarsvurderingsorgan under de omstendigheter som er angitt i artikkel 7 nr. 1, eller, dersom de anmodes om dette av et nasjonalt akkrediteringsorgan i samsvar med artikkel 7 nr. 3, i samarbeid med det nasjonale akkrediteringsorgan i nevnte medlemsstat.
+3\. Nasjonale akkrediteringsorganer kan drive sin virksomhet over landegrensene, innenfor territoriet til en annen medlemsstat, enten på anmodning fra et samsvarsvurderingsorgan under de omstendigheter som er angitt i artikkel 7 nr. 1, eller, dersom de anmodes om dette av et nasjonalt akkrediteringsorgan i samsvar med artikkel 7 nr. 3, i samarbeid med det nasjonale akkrediteringsorgan i nevnte medlemsstat.
 
 ### Art 7. Akkreditering over landegrensene
 
-1. Når et samsvarsvurderingsorgan anmoder om akkreditering, skal det gjøre dette hos det nasjonale akkrediteringsorgan i den medlemsstat der det er etablert, eller hos det nasjonale akkrediteringsorgan som vedkommende medlemsstat har benyttet i samsvar med artikkel 4 nr. 2.Et samsvarsvurderingsorgan kan imidlertid søke om akkreditering hos et annet nasjonalt akkrediteringsorgan enn dem som er omhandlet i første ledd, i følgende situasjoner:når medlemsstaten der organet er etablert, har besluttet ikke å opprette et nasjonalt akkrediteringsorgan og ikke har benyttet et nasjonalt akkrediteringsorgan i en annen medlemsstat i samsvar med artikkel 4 nr. 2,når de nasjonale akkrediteringsorganene omhandlet i første ledd ikke utfører akkreditering for den type samsvarsvurderingsvirksomhet som det anmodes om akkreditering for,når de nasjonale akkrediteringsorganene omhandlet i første ledd ikke har oppfylt de krav som stilles ved fagfellevurderingen i henhold til artikkel 10 for den type samsvarsvurderingsvirksomhet som det anmodes om akkreditering for.
+1\. Når et samsvarsvurderingsorgan anmoder om akkreditering, skal det gjøre dette hos det nasjonale akkrediteringsorgan i den medlemsstat der det er etablert, eller hos det nasjonale akkrediteringsorgan som vedkommende medlemsstat har benyttet i samsvar med artikkel 4 nr. 2.Et samsvarsvurderingsorgan kan imidlertid søke om akkreditering hos et annet nasjonalt akkrediteringsorgan enn dem som er omhandlet i første ledd, i følgende situasjoner:når medlemsstaten der organet er etablert, har besluttet ikke å opprette et nasjonalt akkrediteringsorgan og ikke har benyttet et nasjonalt akkrediteringsorgan i en annen medlemsstat i samsvar med artikkel 4 nr. 2,når de nasjonale akkrediteringsorganene omhandlet i første ledd ikke utfører akkreditering for den type samsvarsvurderingsvirksomhet som det anmodes om akkreditering for,når de nasjonale akkrediteringsorganene omhandlet i første ledd ikke har oppfylt de krav som stilles ved fagfellevurderingen i henhold til artikkel 10 for den type samsvarsvurderingsvirksomhet som det anmodes om akkreditering for.
 
-2. Når et nasjonalt akkrediteringsorgan mottar en anmodning i henhold til nr. 1 bokstav b) eller c), skal det underrette det nasjonale akkrediteringsorgan i den medlemsstat der det anmodende samsvarsvurderingsorganet er etablert. I slike tilfeller kan det nasjonale akkrediteringsorgan i den medlemsstat der det anmodende samsvarsvurderingsorganet er etablert, delta som observatør.
+2\. Når et nasjonalt akkrediteringsorgan mottar en anmodning i henhold til nr. 1 bokstav b) eller c), skal det underrette det nasjonale akkrediteringsorgan i den medlemsstat der det anmodende samsvarsvurderingsorganet er etablert. I slike tilfeller kan det nasjonale akkrediteringsorgan i den medlemsstat der det anmodende samsvarsvurderingsorganet er etablert, delta som observatør.
 
-3. Et nasjonalt akkrediteringsorgan kan anmode et annet nasjonalt akkrediteringsorgan om å utføre en del av vurderingsvirksomheten. I et slikt tilfelle skal akkrediteringsbeviset utstedes av det anmodende organet.
+3\. Et nasjonalt akkrediteringsorgan kan anmode et annet nasjonalt akkrediteringsorgan om å utføre en del av vurderingsvirksomheten. I et slikt tilfelle skal akkrediteringsbeviset utstedes av det anmodende organet.
 
 ### Art 8. Krav til nasjonale akkrediteringsorganer
 
@@ -191,65 +227,67 @@ Et nasjonalt akkrediteringsorgan skal oppfylle følgende krav:Det skal være org
 
 ### Art 9. Overholdelse av krav
 
-1. Dersom et nasjonalt akkrediteringsorgan ikke oppfyller kravene i denne forordning, eller unnlater å oppfylle sine forpliktelser i henhold til denne forordning, skal den berørte medlemsstat treffe egnede korrigerende tiltak eller sikre at slike korrigerende tiltak treffes, og underrette Kommisjonen om dette.
+1\. Dersom et nasjonalt akkrediteringsorgan ikke oppfyller kravene i denne forordning, eller unnlater å oppfylle sine forpliktelser i henhold til denne forordning, skal den berørte medlemsstat treffe egnede korrigerende tiltak eller sikre at slike korrigerende tiltak treffes, og underrette Kommisjonen om dette.
 
-2. Medlemsstatene skal føre regelmessig tilsyn med sine nasjonale akkrediteringsorganer for å sikre at de løpende oppfyller kravene i artikkel 8.
+2\. Medlemsstatene skal føre regelmessig tilsyn med sine nasjonale akkrediteringsorganer for å sikre at de løpende oppfyller kravene i artikkel 8.
 
-3. Medlemsstatene skal i størst mulig grad ta hensyn til resultatene av fagfellevurderingen i henhold til artikkel 10 når de utfører tilsynet omhandlet i nr. 2 i denne artikkel.
+3\. Medlemsstatene skal i størst mulig grad ta hensyn til resultatene av fagfellevurderingen i henhold til artikkel 10 når de utfører tilsynet omhandlet i nr. 2 i denne artikkel.
 
-4. Nasjonale akkrediteringsorganer skal ha innført de nødvendige framgangsmåtene for å behandle klager mot de samsvarsvurderingsorganene de har akkreditert.
+4\. Nasjonale akkrediteringsorganer skal ha innført de nødvendige framgangsmåtene for å behandle klager mot de samsvarsvurderingsorganene de har akkreditert.
 
 ### Art 10. Fagfellevurdering
 
-1. Nasjonale akkrediteringsorganer skal underkaste seg en fagfellevurdering organisert av det organ som er anerkjent i henhold til artikkel 14.
+1\. Nasjonale akkrediteringsorganer skal underkaste seg en fagfellevurdering organisert av det organ som er anerkjent i henhold til artikkel 14.
 
-2. Berørte parter skal ha rett til å delta i den ordningen som er innført for tilsyn med fagfellevurdering, men ikke i individuelle framgangsmåter for fagfellevurdering.
+2\. Berørte parter skal ha rett til å delta i den ordningen som er innført for tilsyn med fagfellevurdering, men ikke i individuelle framgangsmåter for fagfellevurdering.
 
-3. Medlemsstatene skal sikre at deres nasjonale akkrediteringsorganer regelmessig gjennomgår en fagfellevurdering i henhold til kravet i nr. 1.
+3\. Medlemsstatene skal sikre at deres nasjonale akkrediteringsorganer regelmessig gjennomgår en fagfellevurdering i henhold til kravet i nr. 1.
 
-4. Fagfellevurderingen skal foretas på grunnlag av forsvarlige og åpne vurderingskriterier og -framgangsmåter, særlig når det gjelder strukturelle krav, krav til menneskelige ressurser og prosesser samt fortrolighet og klager. Det skal fastsettes egnede framgangsmåter ved klage mot beslutninger som er tatt som resultat av vurderingen.
+4\. Fagfellevurderingen skal foretas på grunnlag av forsvarlige og åpne vurderingskriterier og -framgangsmåter, særlig når det gjelder strukturelle krav, krav til menneskelige ressurser og prosesser samt fortrolighet og klager. Det skal fastsettes egnede framgangsmåter ved klage mot beslutninger som er tatt som resultat av vurderingen.
 
-5. Fagfellevurderingen skal fastslå om de nasjonale akkrediteringsorganene oppfyller kravene i artikkel 8, idet det tas hensyn til den relevante harmoniserte standard omhandlet i artikkel 11.
+5\. Fagfellevurderingen skal fastslå om de nasjonale akkrediteringsorganene oppfyller kravene i artikkel 8, idet det tas hensyn til den relevante harmoniserte standard omhandlet i artikkel 11.
 
-6. Organet som er anerkjent i henhold til artikkel 14, skal offentliggjøre resultatet av fagfellevurderingen og oversende det til alle medlemsstatene og til Kommisjonen.
+6\. Organet som er anerkjent i henhold til artikkel 14, skal offentliggjøre resultatet av fagfellevurderingen og oversende det til alle medlemsstatene og til Kommisjonen.
 
-7. Kommisjonen skal i samarbeid med medlemsstatene føre tilsyn med reglene og med at fagfellevurderingsordningen virker på en tilfredsstillende måte.
+7\. Kommisjonen skal i samarbeid med medlemsstatene føre tilsyn med reglene og med at fagfellevurderingsordningen virker på en tilfredsstillende måte.
 
 ### Art 11. Samsvarsformodning for nasjonale akkrediteringsorganer
 
-1. Nasjonale akkrediteringsorganer som viser at de oppfyller kriteriene fastsatt i den relevante harmoniserte standarden som det er offentliggjort en henvisning til i *Den europeiske unions tidende*, ved å oppfylle de krav som stilles ved fagfellevurderingen i henhold til artikkel 10, skal formodes å oppfylle kravene i artikkel 8.
+1\. Nasjonale akkrediteringsorganer som viser at de oppfyller kriteriene fastsatt i den relevante harmoniserte standarden som det er offentliggjort en henvisning til i *Den europeiske unions tidende*, ved å oppfylle de krav som stilles ved fagfellevurderingen i henhold til artikkel 10, skal formodes å oppfylle kravene i artikkel 8.
 
-2. Nasjonale myndigheter skal anerkjenne likeverdigheten til de tjenester som ytes av de akkrediteringsorganene som har oppfylt de krav som stilles ved fagfellevurderingen i henhold til artikkel 10, og dermed på grunnlag av formodningen omhandlet i nr. 1 i denne artikkel godta akkrediteringsbevisene fra disse organene og attesteringene utstedt av de samsvarsvurderingsorganene som er akkreditert av dem.
+2\. Nasjonale myndigheter skal anerkjenne likeverdigheten til de tjenester som ytes av de akkrediteringsorganene som har oppfylt de krav som stilles ved fagfellevurderingen i henhold til artikkel 10, og dermed på grunnlag av formodningen omhandlet i nr. 1 i denne artikkel godta akkrediteringsbevisene fra disse organene og attesteringene utstedt av de samsvarsvurderingsorganene som er akkreditert av dem.
 
 ### Art 12. Opplysningsplikt
 
-1. Hvert nasjonalt akkrediteringsorgan skal underrette de andre nasjonale akkrediteringsorganene om den samsvarsvurderingsvirksomhet som det tilbyr akkreditering for, og om eventuelle endringer av virksomheten.
+1\. Hvert nasjonalt akkrediteringsorgan skal underrette de andre nasjonale akkrediteringsorganene om den samsvarsvurderingsvirksomhet som det tilbyr akkreditering for, og om eventuelle endringer av virksomheten.
 
-2. Hver medlemsstat skal underrette Kommisjonen og det organ som er anerkjent i henhold til artikkel 14, om identiteten til sitt nasjonale akkrediteringsorgan og om all samsvarsvurderingsvirksomhet som dette organet tilbyr akkreditering for til støtte for Fellesskapets harmoniseringsregelverk samt om eventuelle endringer.
+2\. Hver medlemsstat skal underrette Kommisjonen og det organ som er anerkjent i henhold til artikkel 14, om identiteten til sitt nasjonale akkrediteringsorgan og om all samsvarsvurderingsvirksomhet som dette organet tilbyr akkreditering for til støtte for Fellesskapets harmoniseringsregelverk samt om eventuelle endringer.
 
-3. Hvert nasjonalt akkrediteringsorgan skal regelmessig offentliggjøre informasjon om resultatene av sin fagfellevurdering, om den samsvarsvurderingsvirksomhet som det tilbyr akkreditering for samt om eventuelle endringer.
+3\. Hvert nasjonalt akkrediteringsorgan skal regelmessig offentliggjøre informasjon om resultatene av sin fagfellevurdering, om den samsvarsvurderingsvirksomhet som det tilbyr akkreditering for samt om eventuelle endringer.
 
 ### Art 13. Anmodninger til det organ som er anerkjent i henhold til artikkel 14
 
-1. Kommisjonen kan, etter samråd med komiteen nedsatt i henhold til artikkel 5 i direktiv [98/34/EF](eu/31998l0034),1 anmode det organ som er anerkjent i henhold til artikkel 14, om å bidra til utvikling, opprettholdelse og gjennomføring av akkreditering i Fellesskapet.
+1\. Kommisjonen kan, etter samråd med komiteen nedsatt i henhold til artikkel 5 i direktiv [98/34/EF](eu/31998l0034),1 anmode det organ som er anerkjent i henhold til artikkel 14, om å bidra til utvikling, opprettholdelse og gjennomføring av akkreditering i Fellesskapet.
 
-2. Kommisjonen kan også etter framgangsmåten fastsatt i nr. 1anmode det organ som er anerkjent i henhold til artikkel 14 om å fastsette vurderingskriterier og -framgangsmåter for fagfellevurdering og å utvikle sektorvise akkrediteringsordninger,godta alle eksisterende ordninger som allerede omfatter vurderingskriterier og -framgangsmåter for fagfellevurdering.
+2\. Kommisjonen kan også etter framgangsmåten fastsatt i nr. 1anmode det organ som er anerkjent i henhold til artikkel 14 om å fastsette vurderingskriterier og -framgangsmåter for fagfellevurdering og å utvikle sektorvise akkrediteringsordninger,godta alle eksisterende ordninger som allerede omfatter vurderingskriterier og -framgangsmåter for fagfellevurdering.
 
-3. Kommisjonen skal påse at sektorvise ordninger kartlegger de tekniske spesifikasjonene som er nødvendige for å oppnå det kompetansenivå som kreves i Fellesskapets harmoniseringsregelverk på områder med særlige krav til teknologi, helse og sikkerhet eller miljøkrav eller andre sider ved vernet av offentlige interesser.
+3\. Kommisjonen skal påse at sektorvise ordninger kartlegger de tekniske spesifikasjonene som er nødvendige for å oppnå det kompetansenivå som kreves i Fellesskapets harmoniseringsregelverk på områder med særlige krav til teknologi, helse og sikkerhet eller miljøkrav eller andre sider ved vernet av offentlige interesser.
+
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 1.
 
 ### Art 14. Europeisk infrastruktur for akkreditering
 
-1. Kommisjonen skal etter samråd med medlemsstatene anerkjenne et organ som oppfyller kravene i vedlegg I til denne forordning.
+1\. Kommisjonen skal etter samråd med medlemsstatene anerkjenne et organ som oppfyller kravene i vedlegg I til denne forordning.
 
-2. Et organ som skal anerkjennes i henhold til nr. 1, skal inngå en avtale med Kommisjonen. Avtalen skal blant annet inneholde en detaljert beskrivelse av organets oppgaver, finansieringsbestemmelser og bestemmelser om tilsyn med organet. Både Kommisjonen og organet skal kunne si opp avtalen uten å angi noen grunn ved utløpet av en rimelig frist som skal fastsettes i avtalen.
+2\. Et organ som skal anerkjennes i henhold til nr. 1, skal inngå en avtale med Kommisjonen. Avtalen skal blant annet inneholde en detaljert beskrivelse av organets oppgaver, finansieringsbestemmelser og bestemmelser om tilsyn med organet. Både Kommisjonen og organet skal kunne si opp avtalen uten å angi noen grunn ved utløpet av en rimelig frist som skal fastsettes i avtalen.
 
-3. Kommisjonen og organet skal offentliggjøre avtalen.
+3\. Kommisjonen og organet skal offentliggjøre avtalen.
 
-4. Kommisjonen skal underrette medlemsstatene og nasjonale akkrediteringsorganer om anerkjennelsen av et organ i henhold til nr. 1.
+4\. Kommisjonen skal underrette medlemsstatene og nasjonale akkrediteringsorganer om anerkjennelsen av et organ i henhold til nr. 1.
 
-5. Kommisjonen kan ikke anerkjenne flere enn ett organ om gangen.
+5\. Kommisjonen kan ikke anerkjenne flere enn ett organ om gangen.
 
-6. Det første organ som anerkjennes i henhold til denne forordning, skal være Det europeiske samarbeidet for akkreditering, forutsatt at det har inngått en avtale i henhold til nr. 2.
+6\. Det første organ som anerkjennes i henhold til denne forordning, skal være Det europeiske samarbeidet for akkreditering, forutsatt at det har inngått en avtale i henhold til nr. 2.
 
 ### Kapittel III. Fellesskapsramme for markedstilsyn og kontroll med produkter som innføres på fellesskapsmarkedet
 
@@ -257,165 +295,169 @@ Et nasjonalt akkrediteringsorgan skal oppfylle følgende krav:Det skal være org
 
 ### Art 15. Virkeområde
 
-1. Artikkel 16–26 får anvendelse på produkter som omfattes av Fellesskapets harmoniseringsregelverk.
+1\. Artikkel 16–26 får anvendelse på produkter som omfattes av Fellesskapets harmoniseringsregelverk.
 
-2. Alle bestemmelser i artikkel 16–26 får anvendelse i den utstrekning det ikke finnes særlige bestemmelser med samme formål i Fellesskapets harmoniseringsregelverk.
+2\. Alle bestemmelser i artikkel 16–26 får anvendelse i den utstrekning det ikke finnes særlige bestemmelser med samme formål i Fellesskapets harmoniseringsregelverk.
 
-3. Anvendelsen av denne forordning skal ikke hindre markedstilsynsmyndighetene i å treffe særskilte tiltak som fastsatt i direktiv [2001/95/EF](eu/32001l0095).1
+3\. Anvendelsen av denne forordning skal ikke hindre markedstilsynsmyndighetene i å treffe særskilte tiltak som fastsatt i direktiv [2001/95/EF](eu/32001l0095).1
 
-4. I artikkel 16-26 menes med «produkt» et stoff, en stoffblanding eller en vare framstilt ved en produksjonsprosess, bortsett fra næringsmidler, fôr, levende planter og dyr, produkter som skriver seg fra mennesker og produkter av planter og dyr som er direkte knyttet til deres framtidige reproduksjon.
+4\. I artikkel 16-26 menes med «produkt» et stoff, en stoffblanding eller en vare framstilt ved en produksjonsprosess, bortsett fra næringsmidler, fôr, levende planter og dyr, produkter som skriver seg fra mennesker og produkter av planter og dyr som er direkte knyttet til deres framtidige reproduksjon.
 
-5. Artikkel 27, 28 og 29 får anvendelse på alle produkter som omfattes av Fellesskapets regelverk i den utstrekning annet fellesskapsregelverk ikke inneholder særlige bestemmelser om organiseringen av grensekontroll.
+5\. Artikkel 27, 28 og 29 får anvendelse på alle produkter som omfattes av Fellesskapets regelverk i den utstrekning annet fellesskapsregelverk ikke inneholder særlige bestemmelser om organiseringen av grensekontroll.
+
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 3h.
 
 ### Art 16. Alminnelige krav
 
-1. Medlemsstatene skal organisere og gjennomføre markedstilsyn som fastsatt i dette kapittel.
+1\. Medlemsstatene skal organisere og gjennomføre markedstilsyn som fastsatt i dette kapittel.
 
-2. Markedstilsyn skal sikre at produkter som omfattes av Fellesskapets harmoniseringsregelverk, som, når de brukes i samsvar med sitt tilsiktede formål eller under forhold som med rimelighet kan forutses, og når de er riktig installert og vedlikeholdt, vil kunne skade helsen eller sikkerheten til brukere, eller som ellers ikke er i samsvar med gjeldende krav fastsatt i Fellesskapets harmoniseringsregelverk, trekkes tilbake, forbys eller gjøres tilgjengelige på markedet bare i begrenset omfang, og at offentligheten, Kommisjonen og de andre medlemsstatene blir informert om dette.
+2\. Markedstilsyn skal sikre at produkter som omfattes av Fellesskapets harmoniseringsregelverk, som, når de brukes i samsvar med sitt tilsiktede formål eller under forhold som med rimelighet kan forutses, og når de er riktig installert og vedlikeholdt, vil kunne skade helsen eller sikkerheten til brukere, eller som ellers ikke er i samsvar med gjeldende krav fastsatt i Fellesskapets harmoniseringsregelverk, trekkes tilbake, forbys eller gjøres tilgjengelige på markedet bare i begrenset omfang, og at offentligheten, Kommisjonen og de andre medlemsstatene blir informert om dette.
 
-3. De nasjonale infrastrukturer og programmer for markedstilsyn skal sikre at det kan treffes effektive tiltak for enhver produktkategori som er omfattet av Fellesskapets harmoniseringsregelverk.
+3\. De nasjonale infrastrukturer og programmer for markedstilsyn skal sikre at det kan treffes effektive tiltak for enhver produktkategori som er omfattet av Fellesskapets harmoniseringsregelverk.
 
-4. Markedstilsyn skal omfatte produkter som er montert eller produsert til produsentens eget bruk når det i Fellesskapets harmoniseringsregelverk er fastsatt at dets bestemmelser får anvendelse på slike produkter.
+4\. Markedstilsyn skal omfatte produkter som er montert eller produsert til produsentens eget bruk når det i Fellesskapets harmoniseringsregelverk er fastsatt at dets bestemmelser får anvendelse på slike produkter.
 
 ### Avsnitt 2. Fellesskapsramme for markedstilsyn
 
 ### Art 17. Opplysningsplikt
 
-1. Medlemsstatene skal underrette Kommisjonen om sine markedstilsynsmyndigheter og deres ansvarsområder. Kommisjonen skal oversende disse opplysningene til de andre medlemsstatene.
+1\. Medlemsstatene skal underrette Kommisjonen om sine markedstilsynsmyndigheter og deres ansvarsområder. Kommisjonen skal oversende disse opplysningene til de andre medlemsstatene.
 
-2. Medlemsstatene skal påse at offentligheten er klar over de nasjonale markedsmyndighetenes eksistens, ansvarsområder og identitet samt hvordan de kan kontaktes.
+2\. Medlemsstatene skal påse at offentligheten er klar over de nasjonale markedsmyndighetenes eksistens, ansvarsområder og identitet samt hvordan de kan kontaktes.
 
 ### Art 18. Medlemsstatenes forpliktelser med hensyn til organisering
 
-1. Medlemsstatene skal innføre egnede ordninger for kommunikasjon og samordning mellom sine markedstilsynsmyndigheter.
+1\. Medlemsstatene skal innføre egnede ordninger for kommunikasjon og samordning mellom sine markedstilsynsmyndigheter.
 
-2. Medlemsstatene skal fastsette egnede framgangsmåter for åfølge opp klager eller rapporter om risikoer forbundet med produkter som er underlagt Fellesskapets harmoniseringsregelverk,overvåke ulykker og helseskader som det er mistanke om at disse produktene kan ha forårsaket,kontrollere at korrigerende tiltak er truffet ogfølge opp vitenskapelig og teknisk kunnskap om sikkerhetsspørsmål.
+2\. Medlemsstatene skal fastsette egnede framgangsmåter for åfølge opp klager eller rapporter om risikoer forbundet med produkter som er underlagt Fellesskapets harmoniseringsregelverk,overvåke ulykker og helseskader som det er mistanke om at disse produktene kan ha forårsaket,kontrollere at korrigerende tiltak er truffet ogfølge opp vitenskapelig og teknisk kunnskap om sikkerhetsspørsmål.
 
-3. Medlemsstatene skal gi markedstilsynsmyndighetene den myndighet, de ressurser og de kunnskaper som kreves for at de skal kunne utføre sine oppgaver på en tilfredsstillende måte.
+3\. Medlemsstatene skal gi markedstilsynsmyndighetene den myndighet, de ressurser og de kunnskaper som kreves for at de skal kunne utføre sine oppgaver på en tilfredsstillende måte.
 
-4. Medlemsstatene skal påse at markedstilsynsmyndighetene utøver sin myndighet i samsvar med forholdsmessighetsprinsippet.
+4\. Medlemsstatene skal påse at markedstilsynsmyndighetene utøver sin myndighet i samsvar med forholdsmessighetsprinsippet.
 
-5. Medlemsstatene skal opprette, gjennomføre og regelmessig ajourføre sine markedstilsynsprogrammer. Medlemsstatene skal utarbeide enten et generelt markedstilsynsprogram eller sektorvise programmer for sektorer der de utfører markedstilsyn, underrette de andre medlemsstatene og Kommisjonen om disse programmene og gjøre dem offentlig tilgjengelige elektronisk samt, der det er hensiktsmessig, på andre måter.Den første underretningen av denne typen skal skje innen 1. januar 2010. Senere ajourføringer av programmene skal offentliggjøres på samme måte. Medlemsstatene kan samarbeide med alle berørte parter for dette formål.
+5\. Medlemsstatene skal opprette, gjennomføre og regelmessig ajourføre sine markedstilsynsprogrammer. Medlemsstatene skal utarbeide enten et generelt markedstilsynsprogram eller sektorvise programmer for sektorer der de utfører markedstilsyn, underrette de andre medlemsstatene og Kommisjonen om disse programmene og gjøre dem offentlig tilgjengelige elektronisk samt, der det er hensiktsmessig, på andre måter.Den første underretningen av denne typen skal skje innen 1. januar 2010. Senere ajourføringer av programmene skal offentliggjøres på samme måte. Medlemsstatene kan samarbeide med alle berørte parter for dette formål.
 
-6. Medlemsstatene skal regelmessig revidere og vurdere sin tilsynsvirksomhet. Slike revisjoner og vurderinger skal utføres minst hvert fjerde år, og resultatene skal meddeles de andre medlemsstatene og Kommisjonen og gjøres offentlig tilgjengelige elektronisk samt, der det er hensiktsmessig, på andre måter.
+6\. Medlemsstatene skal regelmessig revidere og vurdere sin tilsynsvirksomhet. Slike revisjoner og vurderinger skal utføres minst hvert fjerde år, og resultatene skal meddeles de andre medlemsstatene og Kommisjonen og gjøres offentlig tilgjengelige elektronisk samt, der det er hensiktsmessig, på andre måter.
 
 ### Art 19. Markedstilsynstiltak
 
-1. Markedstilsynsmyndighetene skal i tilstrekkelig omfang utføre egnede kontroller av produkters egenskaper ved dokumentkontroll og, der det er hensiktsmessig, fysisk kontroll og laboratorieundersøkelser på grunnlag av passende stikkprøver. I den forbindelse skal de ta hensyn til gjeldende prinsipper for risikovurdering, klager og annen informasjon.Markedstilsynsmyndighetene kan kreve at markedsdeltakerne gjør den dokumentasjon og informasjon tilgjengelig som myndighetene anser som nødvendig for at de skal kunne utføre sin virksomhet, samt, når det er nødvendig og berettiget, å få adgang til markedsdeltakernes lokaler og rett til å ta nødvendige stikkprøver av produktene. De kan destruere eller på annen måte gjøre ubrukelige produkter som utgjør en alvorlig risiko, dersom de anser det som nødvendig.Dersom markedsdeltakerne legger fram prøvingsrapporter eller sertifikater som bekrefter samsvar og som er utstedt av et akkreditert samsvarsvurderingsorgan, skal markedstilsynsmyndighetene ta behørig hensyn til slike rapporter eller sertifikater.
+1\. Markedstilsynsmyndighetene skal i tilstrekkelig omfang utføre egnede kontroller av produkters egenskaper ved dokumentkontroll og, der det er hensiktsmessig, fysisk kontroll og laboratorieundersøkelser på grunnlag av passende stikkprøver. I den forbindelse skal de ta hensyn til gjeldende prinsipper for risikovurdering, klager og annen informasjon.Markedstilsynsmyndighetene kan kreve at markedsdeltakerne gjør den dokumentasjon og informasjon tilgjengelig som myndighetene anser som nødvendig for at de skal kunne utføre sin virksomhet, samt, når det er nødvendig og berettiget, å få adgang til markedsdeltakernes lokaler og rett til å ta nødvendige stikkprøver av produktene. De kan destruere eller på annen måte gjøre ubrukelige produkter som utgjør en alvorlig risiko, dersom de anser det som nødvendig.Dersom markedsdeltakerne legger fram prøvingsrapporter eller sertifikater som bekrefter samsvar og som er utstedt av et akkreditert samsvarsvurderingsorgan, skal markedstilsynsmyndighetene ta behørig hensyn til slike rapporter eller sertifikater.
 
-2. Markedstilsynsmyndighetene skal innen en rimelig frist treffe egnede tiltak for å varsle brukere på sitt territorium om farer de har oppdaget i tilknytning til et produkt, slik at risikoen for personskader eller annen skade reduseres.De skal samarbeide med markedsdeltakerne om tiltak som kan hindre eller redusere risiko som skyldes produkter som disse markedsdeltakerne har gjort tilgjengelige.
+2\. Markedstilsynsmyndighetene skal innen en rimelig frist treffe egnede tiltak for å varsle brukere på sitt territorium om farer de har oppdaget i tilknytning til et produkt, slik at risikoen for personskader eller annen skade reduseres.De skal samarbeide med markedsdeltakerne om tiltak som kan hindre eller redusere risiko som skyldes produkter som disse markedsdeltakerne har gjort tilgjengelige.
 
-3. Dersom markedstilsynsmyndighetene i én medlemsstat beslutter å trekke tilbake et produkt produsert i en annen medlemsstat, skal de underrette den berørte markedsdeltaker på den adressen som er angitt på det berørte produktet eller i dokumentasjonen som følger produktet.
+3\. Dersom markedstilsynsmyndighetene i én medlemsstat beslutter å trekke tilbake et produkt produsert i en annen medlemsstat, skal de underrette den berørte markedsdeltaker på den adressen som er angitt på det berørte produktet eller i dokumentasjonen som følger produktet.
 
-4. Markedstilsynsmyndighetene skal oppfylle sine forpliktelser på en uavhengig, upartisk og objektiv måte.
+4\. Markedstilsynsmyndighetene skal oppfylle sine forpliktelser på en uavhengig, upartisk og objektiv måte.
 
-5. Markedstilsynsmyndighetene skal ivareta fortrolighet der dette er nødvendig for å verne forretningshemmeligheter eller personopplysninger i henhold til nasjonal lovgivning, men med forbehold for kravet om at informasjonen skal offentliggjøres i henhold til denne forordning i den utstrekning det er nødvendig for å verne brukernes interesser i Fellesskapet.
+5\. Markedstilsynsmyndighetene skal ivareta fortrolighet der dette er nødvendig for å verne forretningshemmeligheter eller personopplysninger i henhold til nasjonal lovgivning, men med forbehold for kravet om at informasjonen skal offentliggjøres i henhold til denne forordning i den utstrekning det er nødvendig for å verne brukernes interesser i Fellesskapet.
 
 ### Art 20. Produkter som utgjør en alvorlig risiko
 
-1. Medlemsstatene skal sikre at produkter som utgjør en alvorlig risiko som krever at det gripes inn raskt, herunder en alvorlig risiko som ikke har umiddelbare virkninger, blir tilbakekalt eller trukket tilbake fra markedet, eller at det blir forbudt å gjøre dem tilgjengelige på markedet, og at Kommisjonen omgående underrettes om dette i samsvar med artikkel 22.
+1\. Medlemsstatene skal sikre at produkter som utgjør en alvorlig risiko som krever at det gripes inn raskt, herunder en alvorlig risiko som ikke har umiddelbare virkninger, blir tilbakekalt eller trukket tilbake fra markedet, eller at det blir forbudt å gjøre dem tilgjengelige på markedet, og at Kommisjonen omgående underrettes om dette i samsvar med artikkel 22.
 
-2. Beslutningen om hvorvidt et produkt utgjør en alvorlig risiko, skal bygge på en egnet risikovurdering som tar hensyn til farens art og sannsynligheten for at den inntreffer. Muligheten for å oppnå et høyere sikkerhetsnivå eller skaffe andre produkter som medfører mindre risiko, skal ikke være tilstrekkelig grunn til at et produkt skal anses for å utgjøre en alvorlig risiko.
+2\. Beslutningen om hvorvidt et produkt utgjør en alvorlig risiko, skal bygge på en egnet risikovurdering som tar hensyn til farens art og sannsynligheten for at den inntreffer. Muligheten for å oppnå et høyere sikkerhetsnivå eller skaffe andre produkter som medfører mindre risiko, skal ikke være tilstrekkelig grunn til at et produkt skal anses for å utgjøre en alvorlig risiko.
 
 ### Art 21. Restriktive tiltak
 
-1. Medlemsstatene skal sikre at alle tiltak som treffes i henhold til Fellesskapets gjeldende harmoniseringsregelverk, med sikte på å forby eller begrense tilgjengeligheten av et produkt på markedet, trekke det tilbake fra markedet eller tilbakekalle det, står i forhold til formålet, og at grunnene for tiltaket angis nøyaktig.
+1\. Medlemsstatene skal sikre at alle tiltak som treffes i henhold til Fellesskapets gjeldende harmoniseringsregelverk, med sikte på å forby eller begrense tilgjengeligheten av et produkt på markedet, trekke det tilbake fra markedet eller tilbakekalle det, står i forhold til formålet, og at grunnene for tiltaket angis nøyaktig.
 
-2. Slike tiltak skal umiddelbart meddeles den relevante markedsdeltakeren, som samtidig skal underrettes om hvilken klageadgang som er tilgjengelig i henhold til vedkommende medlemsstats lovgivning og hvilke frister som gjelder for slik klageadgang.
+2\. Slike tiltak skal umiddelbart meddeles den relevante markedsdeltakeren, som samtidig skal underrettes om hvilken klageadgang som er tilgjengelig i henhold til vedkommende medlemsstats lovgivning og hvilke frister som gjelder for slik klageadgang.
 
-3. Før et tiltak som omhandlet i nr. 1 treffes, skal den berørte markedsdeltaker innen et egnet tidsrom på minst ti dager gis mulighet til å uttale seg, med mindre slikt samråd ikke er mulig fordi tiltaket haster på bakgrunn av helse- eller sikkerhetskrav eller av andre årsaker knyttet til offentlige interesser som er omfattet av Fellesskapets gjeldende harmoniseringsregelverk. Dersom et tiltak er truffet uten at markedsdeltakeren har fått uttale seg, skal markedsdeltakeren gis mulighet til å uttale seg så snart som mulig, og det tiltak som er truffet, skal deretter raskt tas opp til vurdering.
+3\. Før et tiltak som omhandlet i nr. 1 treffes, skal den berørte markedsdeltaker innen et egnet tidsrom på minst ti dager gis mulighet til å uttale seg, med mindre slikt samråd ikke er mulig fordi tiltaket haster på bakgrunn av helse- eller sikkerhetskrav eller av andre årsaker knyttet til offentlige interesser som er omfattet av Fellesskapets gjeldende harmoniseringsregelverk. Dersom et tiltak er truffet uten at markedsdeltakeren har fått uttale seg, skal markedsdeltakeren gis mulighet til å uttale seg så snart som mulig, og det tiltak som er truffet, skal deretter raskt tas opp til vurdering.
 
-4. Alle tiltak omhandlet i nr. 1 skal raskt trekkes tilbake eller endres dersom markedsdeltakeren har godtgjort at det er truffet effektive tiltak.
+4\. Alle tiltak omhandlet i nr. 1 skal raskt trekkes tilbake eller endres dersom markedsdeltakeren har godtgjort at det er truffet effektive tiltak.
 
 ### Art 22. Utveksling av informasjon – Fellesskapets system for rask utveksling av opplysninger
 
-1. Dersom en medlemsstat treffer eller har til hensikt å treffe tiltak i samsvar med artikkel 20 og anser at grunnene til tiltaket eller tiltakets virkninger går ut over vedkommende medlemsstats territorium, skal den umiddelbart underrette Kommisjonen om slike tiltak i samsvar med nr. 4 i denne artikkel. Medlemsstaten skal også omgående underrette Kommisjonen om endring eller oppheving av slike tiltak.
+1\. Dersom en medlemsstat treffer eller har til hensikt å treffe tiltak i samsvar med artikkel 20 og anser at grunnene til tiltaket eller tiltakets virkninger går ut over vedkommende medlemsstats territorium, skal den umiddelbart underrette Kommisjonen om slike tiltak i samsvar med nr. 4 i denne artikkel. Medlemsstaten skal også omgående underrette Kommisjonen om endring eller oppheving av slike tiltak.
 
-2. Dersom et produkt som utgjør en alvorlig risiko, er gjort tilgjengelig på markedet, skal medlemsstatene underrette Kommisjonen om eventuelle frivillige tiltak som en markedsdeltaker har truffet og underrettet om.
+2\. Dersom et produkt som utgjør en alvorlig risiko, er gjort tilgjengelig på markedet, skal medlemsstatene underrette Kommisjonen om eventuelle frivillige tiltak som en markedsdeltaker har truffet og underrettet om.
 
-3. De opplysningene som gis i henhold til nr. 1 og 2, skal inneholde alle tilgjengelige detaljopplysninger, særlig de som er nødvendige for å identifisere produktet, produktets opprinnelse og omsetningskjede, tilknyttet risiko, arten og varigheten av nasjonale tiltak som er truffet, samt eventuelle frivillige tiltak som er truffet av markedsdeltakerne.
+3\. De opplysningene som gis i henhold til nr. 1 og 2, skal inneholde alle tilgjengelige detaljopplysninger, særlig de som er nødvendige for å identifisere produktet, produktets opprinnelse og omsetningskjede, tilknyttet risiko, arten og varigheten av nasjonale tiltak som er truffet, samt eventuelle frivillige tiltak som er truffet av markedsdeltakerne.
 
-4. Med hensyn til nr. 1, 2 og 3 skal det system for markedstilsyn og informasjonsutveksling som er fastsatt i artikkel 12 i direktiv [2001/95/EF](eu/32001l0095),1 benyttes. Nr. 2, 3 og 4 i artikkel 12 i nevnte direktiv får tilsvarende anvendelse.
+4\. Med hensyn til nr. 1, 2 og 3 skal det system for markedstilsyn og informasjonsutveksling som er fastsatt i artikkel 12 i direktiv [2001/95/EF](eu/32001l0095),1 benyttes. Nr. 2, 3 og 4 i artikkel 12 i nevnte direktiv får tilsvarende anvendelse.
+
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap XIX nr. 3h.
 
 ### Art 23. Generelt informasjonssystem
 
-1. Kommisjonen skal utvikle og vedlikeholde et generelt elektronisk system for arkivering og utveksling av informasjon om spørsmål knyttet til markedstilsynsvirksomhet, programmer og tilknyttet informasjon om manglende overholdelse av Fellesskapets harmoniseringsregelverk. Systemet skal på egnet måte gjenspeile de meldinger og opplysninger som er gitt i henhold til artikkel 22.
+1\. Kommisjonen skal utvikle og vedlikeholde et generelt elektronisk system for arkivering og utveksling av informasjon om spørsmål knyttet til markedstilsynsvirksomhet, programmer og tilknyttet informasjon om manglende overholdelse av Fellesskapets harmoniseringsregelverk. Systemet skal på egnet måte gjenspeile de meldinger og opplysninger som er gitt i henhold til artikkel 22.
 
-2. Med hensyn til nr. 1 skal medlemsstatene legge fram for Kommisjonen informasjon som de har til rådighet og som de ikke allerede har gitt i henhold til artikkel 22, om produkter som utgjør en risiko, særlig om identifisering av risiko, resultater av utførte prøvinger, midlertidige restriktive tiltak, kontakter med berørte markedsdeltakere og begrunnelsen for at tiltak er truffet eller ikke er truffet.
+2\. Med hensyn til nr. 1 skal medlemsstatene legge fram for Kommisjonen informasjon som de har til rådighet og som de ikke allerede har gitt i henhold til artikkel 22, om produkter som utgjør en risiko, særlig om identifisering av risiko, resultater av utførte prøvinger, midlertidige restriktive tiltak, kontakter med berørte markedsdeltakere og begrunnelsen for at tiltak er truffet eller ikke er truffet.
 
-3. Uten at det berører artikkel 19 nr. 5 eller nasjonal lovgivning om fortrolighet, skal fortrolig behandling av informasjonsinnholdet sikres. Hensynet til fortrolighet skal ikke hindre formidling til markedstilsynsmyndighetene av informasjon som er viktig for å sikre et effektivt markedstilsyn.
+3\. Uten at det berører artikkel 19 nr. 5 eller nasjonal lovgivning om fortrolighet, skal fortrolig behandling av informasjonsinnholdet sikres. Hensynet til fortrolighet skal ikke hindre formidling til markedstilsynsmyndighetene av informasjon som er viktig for å sikre et effektivt markedstilsyn.
 
 ### Art 24. Prinsipper for samarbeid mellom medlemsstatene og Kommisjonen
 
-1. Medlemsstatene skal sikre effektivt samarbeid og utveksling av informasjon mellom sine egne markedstilsynsmyndigheter og markedstilsynsmyndigheter i de andre medlemsstatene, og mellom sine egne myndigheter og Kommisjonen og relevante fellesskapsorganer, om sine markedstilsynsprogrammer og om alle spørsmål som gjelder produkter som utgjør en risiko.
+1\. Medlemsstatene skal sikre effektivt samarbeid og utveksling av informasjon mellom sine egne markedstilsynsmyndigheter og markedstilsynsmyndigheter i de andre medlemsstatene, og mellom sine egne myndigheter og Kommisjonen og relevante fellesskapsorganer, om sine markedstilsynsprogrammer og om alle spørsmål som gjelder produkter som utgjør en risiko.
 
-2. Med hensyn til nr. 1 skal markedstilsynsmyndighetene i én medlemsstat i passende omfang bistå markedstilsynsmyndigheter i andre medlemsstater ved å skaffe dem informasjon eller dokumentasjon, ved å utføre egnede undersøkelser eller treffe andre egnede tiltak og ved å delta i undersøkelser innledet i andre medlemsstater.
+2\. Med hensyn til nr. 1 skal markedstilsynsmyndighetene i én medlemsstat i passende omfang bistå markedstilsynsmyndigheter i andre medlemsstater ved å skaffe dem informasjon eller dokumentasjon, ved å utføre egnede undersøkelser eller treffe andre egnede tiltak og ved å delta i undersøkelser innledet i andre medlemsstater.
 
-3. Kommisjonen skal samle inn og organisere de opplysningene om nasjonale markedstilsynstiltak som gjør det mulig for den å oppfylle sine forpliktelser.
+3\. Kommisjonen skal samle inn og organisere de opplysningene om nasjonale markedstilsynstiltak som gjør det mulig for den å oppfylle sine forpliktelser.
 
-4. Alle opplysninger som gis av en markedsdeltaker i henhold til artikkel 21 nr. 3 eller på annen måte, skal tas med når innberettende medlemsstat underretter andre medlemsstater og Kommisjonen om sine resultater og tiltak. Alle nyere opplysninger skal klart identifiseres som tilknyttet de opplysningene som allerede er gitt.
+4\. Alle opplysninger som gis av en markedsdeltaker i henhold til artikkel 21 nr. 3 eller på annen måte, skal tas med når innberettende medlemsstat underretter andre medlemsstater og Kommisjonen om sine resultater og tiltak. Alle nyere opplysninger skal klart identifiseres som tilknyttet de opplysningene som allerede er gitt.
 
 ### Art 25. Deling av ressurser
 
-1. Kommisjonen eller de berørte medlemsstatene kan ta markedstilsynsinitiativ som har som formål å dele ressurser og sakkunnskap mellom vedkommende myndigheter i medlemsstatene. Slike initiativer skal samordnes av Kommisjonen.
+1\. Kommisjonen eller de berørte medlemsstatene kan ta markedstilsynsinitiativ som har som formål å dele ressurser og sakkunnskap mellom vedkommende myndigheter i medlemsstatene. Slike initiativer skal samordnes av Kommisjonen.
 
-2. Med hensyn til nr. 1 skal Kommisjonen, i samarbeid med medlemsstatene,utvikle og organisere opplæringsprogrammer og utveksling av nasjonale tjenestemenn,utvikle, organisere og opprette programmer for utveksling av erfaring, informasjon og beste praksis, programmer og tiltak for felles prosjekter, informasjonskampanjer, felles besøksprogrammer og deling av ressurser.
+2\. Med hensyn til nr. 1 skal Kommisjonen, i samarbeid med medlemsstatene,utvikle og organisere opplæringsprogrammer og utveksling av nasjonale tjenestemenn,utvikle, organisere og opprette programmer for utveksling av erfaring, informasjon og beste praksis, programmer og tiltak for felles prosjekter, informasjonskampanjer, felles besøksprogrammer og deling av ressurser.
 
-3. Medlemsstatene skal sikre at deres vedkommende myndigheter deltar fullt ut i den virksomhet som er omhandlet i nr. 2, når det er hensiktsmessig.
+3\. Medlemsstatene skal sikre at deres vedkommende myndigheter deltar fullt ut i den virksomhet som er omhandlet i nr. 2, når det er hensiktsmessig.
 
 ### Art 26. Samarbeid med vedkommende myndigheter i tredjestater
 
-1. Markedstilsynsmyndighetene kan samarbeide med vedkommende myndigheter i tredjestater med sikte på å utveksle informasjon og teknisk bistand, fremme og lette tilgang til europeiske ordninger og fremme virksomhet i forbindelse med samsvarsvurdering, markedstilsyn og akkreditering.Kommisjonen skal i samarbeid med medlemsstatene utvikle egnede programmer for dette formål.
+1\. Markedstilsynsmyndighetene kan samarbeide med vedkommende myndigheter i tredjestater med sikte på å utveksle informasjon og teknisk bistand, fremme og lette tilgang til europeiske ordninger og fremme virksomhet i forbindelse med samsvarsvurdering, markedstilsyn og akkreditering.Kommisjonen skal i samarbeid med medlemsstatene utvikle egnede programmer for dette formål.
 
-2. Samarbeid med vedkommende myndigheter i tredjestater kan blant annet skje i form av virksomhet som omhandlet i artikkel 25 nr. 2. Medlemsstatene skal påse at deres vedkommende myndigheter deltar fullt ut i denne virksomheten.
+2\. Samarbeid med vedkommende myndigheter i tredjestater kan blant annet skje i form av virksomhet som omhandlet i artikkel 25 nr. 2. Medlemsstatene skal påse at deres vedkommende myndigheter deltar fullt ut i denne virksomheten.
 
 ### Avsnitt 3. Kontroll med produkter som innføres på fellesskapsmarkedet
 
 ### Art 27. Kontroll med produkter som innføres på fellesskapsmarkedet
 
-1. Medlemsstatenes myndigheter med ansvar for kontroll med produkter som innføres på fellesskapsmarkedet, skal ha den myndighet og de ressurser som er nødvendige for at de skal kunne utføre sine oppgaver på en tilfredsstillende måte. De skal i tilstrekkelig omfang utføre egnede kontroller av produkters egenskaper i samsvar med prinsippene i artikkel 19 nr. 1, før disse produktene frigis for fri omsetning.
+1\. Medlemsstatenes myndigheter med ansvar for kontroll med produkter som innføres på fellesskapsmarkedet, skal ha den myndighet og de ressurser som er nødvendige for at de skal kunne utføre sine oppgaver på en tilfredsstillende måte. De skal i tilstrekkelig omfang utføre egnede kontroller av produkters egenskaper i samsvar med prinsippene i artikkel 19 nr. 1, før disse produktene frigis for fri omsetning.
 
-2. Når det i en medlemsstat er flere myndigheter som har ansvar for markedstilsyn eller kontroll med ytre grenser, skal disse myndighetene samarbeide med hverandre ved å utveksle opplysninger som er nødvendige for at de skal kunne utføre sine oppgaver, og på andre måter ved behov.
+2\. Når det i en medlemsstat er flere myndigheter som har ansvar for markedstilsyn eller kontroll med ytre grenser, skal disse myndighetene samarbeide med hverandre ved å utveksle opplysninger som er nødvendige for at de skal kunne utføre sine oppgaver, og på andre måter ved behov.
 
-3. Myndighetene med ansvar for kontroll med ytre grenser skal utsette frigivelse av et produkt for fri omsetning på fellesskapsmarkedet dersom de ved kontrollene omhandlet i nr. 1 fastslår følgende:Produktet viser egenskaper som gir grunn til å tro at produktet, når det er riktig installert, vedlikeholdt og brukt, utgjør en alvorlig risiko for helse, sikkerhet, miljøet eller andre offentlige interesser som omhandlet i artikkel 1.Produktet følges ikke av den skriftlige eller elektroniske dokumentasjonen som kreves i henhold til Fellesskapets gjeldende harmoniseringsregelverk, eller er ikke merket i samsvar med slikt regelverk.CE-merkingen er påført produktet på en uriktig eller villedende måte.Myndighetene med ansvar for kontroll med ytre grenser skal umiddelbart underrette markedstilsynsmyndighetene om slik utsettelse av frigivelsen.
+3\. Myndighetene med ansvar for kontroll med ytre grenser skal utsette frigivelse av et produkt for fri omsetning på fellesskapsmarkedet dersom de ved kontrollene omhandlet i nr. 1 fastslår følgende:Produktet viser egenskaper som gir grunn til å tro at produktet, når det er riktig installert, vedlikeholdt og brukt, utgjør en alvorlig risiko for helse, sikkerhet, miljøet eller andre offentlige interesser som omhandlet i artikkel 1.Produktet følges ikke av den skriftlige eller elektroniske dokumentasjonen som kreves i henhold til Fellesskapets gjeldende harmoniseringsregelverk, eller er ikke merket i samsvar med slikt regelverk.CE-merkingen er påført produktet på en uriktig eller villedende måte.Myndighetene med ansvar for kontroll med ytre grenser skal umiddelbart underrette markedstilsynsmyndighetene om slik utsettelse av frigivelsen.
 
-4. Dersom det dreier seg om lett bedervelige produkter, skal myndighetene med ansvar for kontroll med ytre grenser så langt det er mulig sørge for at alle krav som de eventuelt pålegger med hensyn til lagring av produkter eller parkering av transportkjøretøyer, er forenlige med produktenes holdbarhet.
+4\. Dersom det dreier seg om lett bedervelige produkter, skal myndighetene med ansvar for kontroll med ytre grenser så langt det er mulig sørge for at alle krav som de eventuelt pålegger med hensyn til lagring av produkter eller parkering av transportkjøretøyer, er forenlige med produktenes holdbarhet.
 
-5. Med hensyn til dette avsnitt får artikkel 24 anvendelse på myndigheter med ansvar for kontroll med ytre grenser, uten at det berører anvendelsen av bestemmelser i fellesskapsretten om mer spesifikke ordninger for samarbeid mellom disse myndighetene.
+5\. Med hensyn til dette avsnitt får artikkel 24 anvendelse på myndigheter med ansvar for kontroll med ytre grenser, uten at det berører anvendelsen av bestemmelser i fellesskapsretten om mer spesifikke ordninger for samarbeid mellom disse myndighetene.
 
 ### Art 28. Frigivelse av produkter
 
-1. Et produkt hvis frigivelse er midlertidig utsatt av myndighetene med ansvar for kontroll med ytre grenser i henhold til artikkel 27, skal frigis dersom disse myndighetene innen tre virkedager etter utsettelsen av frigivelsen ikke er blitt underrettet om eventuelle tiltak truffet av markedstilsynsmyndighetene, og forutsatt at alle andre krav og formaliteter med hensyn til slik frigivelse er oppfylt.
+1\. Et produkt hvis frigivelse er midlertidig utsatt av myndighetene med ansvar for kontroll med ytre grenser i henhold til artikkel 27, skal frigis dersom disse myndighetene innen tre virkedager etter utsettelsen av frigivelsen ikke er blitt underrettet om eventuelle tiltak truffet av markedstilsynsmyndighetene, og forutsatt at alle andre krav og formaliteter med hensyn til slik frigivelse er oppfylt.
 
-2. Dersom markedstilsynsmyndighetene fastslår at vedkommende produkt ikke utgjør noen alvorlig risiko for helse og sikkerhet eller ikke kan anses for å være i strid med Fellesskapets harmoniseringsregelverk, skal produktet frigis, forutsatt at alle andre krav og formaliteter med hensyn til slik frigivelse er oppfylt.
+2\. Dersom markedstilsynsmyndighetene fastslår at vedkommende produkt ikke utgjør noen alvorlig risiko for helse og sikkerhet eller ikke kan anses for å være i strid med Fellesskapets harmoniseringsregelverk, skal produktet frigis, forutsatt at alle andre krav og formaliteter med hensyn til slik frigivelse er oppfylt.
 
 ### Art 29. Nasjonale tiltak
 
-1. Dersom ansvarlige markedstilsynsmyndigheter fastslår at et produkt utgjør en alvorlig risiko, skal de treffe tiltak for å forby omsetning av produktet og kreve at myndighetene med ansvar for kontroll med ytre grenser merker fakturaen som følger produktet, og alle andre relevante følgedokumenter eller, dersom databehandlingen skjer elektronisk, selve databehandlingssystemet, på følgende måte:«Farlig produkt – frigivelse for fri omsetning ikke tillatt – forordning [(EF) nr. 765/2008](eu/32008r0765)».
+1\. Dersom ansvarlige markedstilsynsmyndigheter fastslår at et produkt utgjør en alvorlig risiko, skal de treffe tiltak for å forby omsetning av produktet og kreve at myndighetene med ansvar for kontroll med ytre grenser merker fakturaen som følger produktet, og alle andre relevante følgedokumenter eller, dersom databehandlingen skjer elektronisk, selve databehandlingssystemet, på følgende måte:«Farlig produkt – frigivelse for fri omsetning ikke tillatt – forordning [(EF) nr. 765/2008](eu/32008r0765)».
 
-2. Dersom markedstilsynsmyndighetene fastslår at et produkt ikke er i samsvar med Fellesskapets harmoniseringsregelverk, skal de treffe egnede tiltak som om nødvendig kan omfatte forbud mot at produktet blir brakt i omsetning.Dersom det blir forbudt å bringe et produkt i omsetning i henhold til første ledd, skal markedstilsynsmyndighetene kreve at myndighetene med ansvar for kontroll med ytre grenser ikke frigir produktet for fri omsetning og at de merker fakturaen som følger produktet, og alle andre relevante følgedokumenter eller, der databehandlingen skjer elektronisk, selve databehandlingssystemet, på følgende måte:«Produktet oppfyller ikke gjeldende krav – frigivelse for fri omsetning ikke tillatt – forordning [(EF) nr. 765/2008](eu/32008r0765)».
+2\. Dersom markedstilsynsmyndighetene fastslår at et produkt ikke er i samsvar med Fellesskapets harmoniseringsregelverk, skal de treffe egnede tiltak som om nødvendig kan omfatte forbud mot at produktet blir brakt i omsetning.Dersom det blir forbudt å bringe et produkt i omsetning i henhold til første ledd, skal markedstilsynsmyndighetene kreve at myndighetene med ansvar for kontroll med ytre grenser ikke frigir produktet for fri omsetning og at de merker fakturaen som følger produktet, og alle andre relevante følgedokumenter eller, der databehandlingen skjer elektronisk, selve databehandlingssystemet, på følgende måte:«Produktet oppfyller ikke gjeldende krav – frigivelse for fri omsetning ikke tillatt – forordning [(EF) nr. 765/2008](eu/32008r0765)».
 
-3. Dersom vedkommende produkt senere klareres for en annen tollprosedyre enn frigivelse for fri omsetning, og forutsatt at markedstilsynsmyndighetene ikke gjør innsigelser, skal påtegningene nevnt i nr. 1 og 2 på samme vilkår påføres de dokumenter som benyttes i forbindelse med vedkommende framgangsmåte.
+3\. Dersom vedkommende produkt senere klareres for en annen tollprosedyre enn frigivelse for fri omsetning, og forutsatt at markedstilsynsmyndighetene ikke gjør innsigelser, skal påtegningene nevnt i nr. 1 og 2 på samme vilkår påføres de dokumenter som benyttes i forbindelse med vedkommende framgangsmåte.
 
-4. Medlemsstatenes myndigheter kan destruere eller på annen måte gjøre ubrukelige produkter som utgjør en alvorlig risiko, dersom de anser det som nødvendig og rimelig.
+4\. Medlemsstatenes myndigheter kan destruere eller på annen måte gjøre ubrukelige produkter som utgjør en alvorlig risiko, dersom de anser det som nødvendig og rimelig.
 
-5. Markedstilsynsmyndighetene skal gi myndigheter med ansvar for kontroll med ytre grenser opplysninger om produktkategorier som det er fastslått utgjør en alvorlig risiko eller ikke oppfyller gjeldende krav i henhold til nr. 1 og 2.
+5\. Markedstilsynsmyndighetene skal gi myndigheter med ansvar for kontroll med ytre grenser opplysninger om produktkategorier som det er fastslått utgjør en alvorlig risiko eller ikke oppfyller gjeldende krav i henhold til nr. 1 og 2.
 
 ### Kapittel IV. CE-merking
 
 ### Art 30. Allmenne prinsipper for CE-merkingen
 
-1. CE-merkingen skal påføres bare av produsenten eller dennes representant.
+1\. CE-merkingen skal påføres bare av produsenten eller dennes representant.
 
-2. CE-merkingen som vist i vedlegg II skal påføres produkter bare dersom det i Fellesskapets harmoniseringsregelverk er fastsatt særlige bestemmelser om at produktet skal påføres CE-merking, og skal ikke påføres noe annet produkt.
+2\. CE-merkingen som vist i vedlegg II skal påføres produkter bare dersom det i Fellesskapets harmoniseringsregelverk er fastsatt særlige bestemmelser om at produktet skal påføres CE-merking, og skal ikke påføres noe annet produkt.
 
-3. Ved å påføre eller få påført CE-merkingen viser produsenten at vedkommende påtar seg ansvaret for at produktet er i samsvar med alle gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
+3\. Ved å påføre eller få påført CE-merkingen viser produsenten at vedkommende påtar seg ansvaret for at produktet er i samsvar med alle gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
 
-4. CE-merkingen skal være den eneste merkingen som bekrefter at produktet er i samsvar med gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
+4\. CE-merkingen skal være den eneste merkingen som bekrefter at produktet er i samsvar med gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
 
-5. Det er forbudt å påføre et produkt merking, tegn eller inskripsjoner som kan villede tredjemann med hensyn til CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres produktet, forutsatt at den ikke gjør CE-merkingen mindre synlig eller lesbar eller endrer dens betydning.
+5\. Det er forbudt å påføre et produkt merking, tegn eller inskripsjoner som kan villede tredjemann med hensyn til CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres produktet, forutsatt at den ikke gjør CE-merkingen mindre synlig eller lesbar eller endrer dens betydning.
 
-6. Uten at det berører artikkel 41 skal medlemsstatene sikre riktig gjennomføring av bestemmelsene om CE-merking og treffe egnede tiltak i tilfelle av urettmessig bruk av merkingen. Medlemsstatene skal også fastsette sanksjoner for overtredelser, som kan omfatte strafferettslige sanksjoner for alvorlige overtredelser. Disse sanksjonene skal stå i forhold til overtredelsens alvor og effektivt forebygge urettmessig bruk.
+6\. Uten at det berører artikkel 41 skal medlemsstatene sikre riktig gjennomføring av bestemmelsene om CE-merking og treffe egnede tiltak i tilfelle av urettmessig bruk av merkingen. Medlemsstatene skal også fastsette sanksjoner for overtredelser, som kan omfatte strafferettslige sanksjoner for alvorlige overtredelser. Disse sanksjonene skal stå i forhold til overtredelsens alvor og effektivt forebygge urettmessig bruk.
 
 ### Kapittel V. Fellesskapsfinansiering
 
@@ -423,11 +465,15 @@ Et nasjonalt akkrediteringsorgan skal oppfylle følgende krav:Det skal være org
 
 Det organ som er anerkjent i henhold til artikkel 14, skal anses som et organ som arbeider for et mål av allmenn europeisk interesse i henhold til artikkel 162 i kommisjonsforordning [(EF, Euratom) nr. 2342/2002](eu/32002r2342*) av 23. desember 2002 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF, Euratom) nr. 1605/2002](eu/32002r1605*).1
 
+1 EFT L 357 av 31.12.2002, s. 1. Forordningen sist endret ved forordning [(EF, Euratom) nr. 478/2007](eu/32007r0478) (EUT L 111 av 28.4.2007, s. 13).
+
 ### Art 32. Virksomhet som er berettiget til fellesskapsfinansiering
 
-1. Fellesskapet kan finansiere følgende virksomhet i forbindelse med anvendelsen av denne forordning:utarbeiding og revisjon av sektorvise akkrediteringsordninger omhandlet i artikkel 13 nr. 3,virksomheten til sekretariatet til det organ som er anerkjent i henhold til artikkel 14, som for eksempel samordning av akkrediteringsvirksomhet, tekniske arbeidsoppgaver knyttet til driften av ordningen for fagfellevurdering, informasjonsformidling til berørte parter og organets deltaking i internasjonale organisasjoner på området akkreditering,utarbeiding og ajourføring av bidrag til retningslinjer på områdene akkreditering, melding til Kommisjonen av samsvarsvurderingsorganer, samsvarsvurdering og markedstilsyn,sammenlignende virksomhet knyttet til gjennomføringen av sikkerhetsklausuler,tilgjengeliggjøring av teknisk sakkunnskap for Kommisjonen for å bistå den i dens gjennomføring av det administrative samarbeid om markedstilsyn, herunder finansiering av administrative samarbeidsgrupper, beslutninger om markedstilsyn og saker som gjelder sikkerhetsklausuler,utførelse av forberedende arbeid eller tilleggsarbeid i forbindelse med gjennomføringen av samsvarsvurderingen, metrologi, akkreditering og markedstilsyn knyttet til gjennomføringen av Fellesskapets regelverk, som for eksempel undersøkelser, programmer, vurderinger, retningslinjer, sammenlignende analyser, gjensidige felles besøk, forskningsarbeid, utvikling og vedlikehold av databaser, opplæringsvirksomhet, laboratoriearbeid, egnethetsprøving, sammenlignende laboratorieprøvinger og samsvarsvurderingsarbeid samt europeiske markedstilsynskampanjer og lignende virksomhet,virksomhet innenfor rammen av programmer for teknisk bistand, samarbeid med tredjestater og fremming og forbedring av europeiske prinsipper og ordninger for samsvarsvurdering, markedstilsyn og akkreditering blant berørte parter i Fellesskapet og på internasjonalt plan.
+1\. Fellesskapet kan finansiere følgende virksomhet i forbindelse med anvendelsen av denne forordning:utarbeiding og revisjon av sektorvise akkrediteringsordninger omhandlet i artikkel 13 nr. 3,virksomheten til sekretariatet til det organ som er anerkjent i henhold til artikkel 14, som for eksempel samordning av akkrediteringsvirksomhet, tekniske arbeidsoppgaver knyttet til driften av ordningen for fagfellevurdering, informasjonsformidling til berørte parter og organets deltaking i internasjonale organisasjoner på området akkreditering,utarbeiding og ajourføring av bidrag til retningslinjer på områdene akkreditering, melding til Kommisjonen av samsvarsvurderingsorganer, samsvarsvurdering og markedstilsyn,sammenlignende virksomhet knyttet til gjennomføringen av sikkerhetsklausuler,tilgjengeliggjøring av teknisk sakkunnskap for Kommisjonen for å bistå den i dens gjennomføring av det administrative samarbeid om markedstilsyn, herunder finansiering av administrative samarbeidsgrupper, beslutninger om markedstilsyn og saker som gjelder sikkerhetsklausuler,utførelse av forberedende arbeid eller tilleggsarbeid i forbindelse med gjennomføringen av samsvarsvurderingen, metrologi, akkreditering og markedstilsyn knyttet til gjennomføringen av Fellesskapets regelverk, som for eksempel undersøkelser, programmer, vurderinger, retningslinjer, sammenlignende analyser, gjensidige felles besøk, forskningsarbeid, utvikling og vedlikehold av databaser, opplæringsvirksomhet, laboratoriearbeid, egnethetsprøving, sammenlignende laboratorieprøvinger og samsvarsvurderingsarbeid samt europeiske markedstilsynskampanjer og lignende virksomhet,virksomhet innenfor rammen av programmer for teknisk bistand, samarbeid med tredjestater og fremming og forbedring av europeiske prinsipper og ordninger for samsvarsvurdering, markedstilsyn og akkreditering blant berørte parter i Fellesskapet og på internasjonalt plan.
 
-2. Den virksomhet som er omhandlet i nr. 1 bokstav a), skal være berettiget til fellesskapsfinansiering bare dersom komiteen nedsatt ved artikkel 5 i direktiv [98/34/EF](eu/31998l0034)1 er rådspurt om anmodningene som skal legges fram for det organ som er anerkjent i henhold til artikkel 14 i denne forordning.
+2\. Den virksomhet som er omhandlet i nr. 1 bokstav a), skal være berettiget til fellesskapsfinansiering bare dersom komiteen nedsatt ved artikkel 5 i direktiv [98/34/EF](eu/31998l0034)1 er rådspurt om anmodningene som skal legges fram for det organ som er anerkjent i henhold til artikkel 14 i denne forordning.
+
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 1.
 
 ### Art 33. Organer som er berettiget til fellesskapsfinansiering
 
@@ -441,27 +487,29 @@ Bevilgningene til den virksomhet som omhandles i denne forordning, skal fastsett
 
 ### Art 35. Finansieringsordninger
 
-1. Fellesskapsfinansiering skal gisuten forslagsinnbydelse, til det organ som er anerkjent i henhold til artikkel 14, for å utøve den virksomhet som er omhandlet i artikkel 32 nr. 1 bokstav a)–g), som det kan gis tilskudd til i samsvar med finansreglementet,i form av tilskudd etter forslagsinnbydelse, eller ved offentlige innkjøp, til andre organer for å utøve den virksomhet som er omhandlet i artikkel 32 nr. 1 bokstav c)–g).
+1\. Fellesskapsfinansiering skal gisuten forslagsinnbydelse, til det organ som er anerkjent i henhold til artikkel 14, for å utøve den virksomhet som er omhandlet i artikkel 32 nr. 1 bokstav a)–g), som det kan gis tilskudd til i samsvar med finansreglementet,i form av tilskudd etter forslagsinnbydelse, eller ved offentlige innkjøp, til andre organer for å utøve den virksomhet som er omhandlet i artikkel 32 nr. 1 bokstav c)–g).
 
-2. Virksomheten til sekretariatet til det organ som er anerkjent i henhold til artikkel 14 og omhandlet i artikkel 32 nr. 1 bokstav b), kan finansieres på grunnlag av driftstilskudd. Ved fornyelse skal driftstilskuddet ikke nedsettes automatisk.
+2\. Virksomheten til sekretariatet til det organ som er anerkjent i henhold til artikkel 14 og omhandlet i artikkel 32 nr. 1 bokstav b), kan finansieres på grunnlag av driftstilskudd. Ved fornyelse skal driftstilskuddet ikke nedsettes automatisk.
 
-3. I tilskuddsavtaler kan det tillates faste bidrag til dekning av mottakerens alminnelige faste kostnader opptil høyst 10 % av samlede direkte støtteberettigede kostnader for tiltak, bortsett fra i tilfeller der mottakerens indirekte kostnader dekkes ved et driftstilskudd finansiert over fellesskapsbudsjettet.
+3\. I tilskuddsavtaler kan det tillates faste bidrag til dekning av mottakerens alminnelige faste kostnader opptil høyst 10 % av samlede direkte støtteberettigede kostnader for tiltak, bortsett fra i tilfeller der mottakerens indirekte kostnader dekkes ved et driftstilskudd finansiert over fellesskapsbudsjettet.
 
-4. De felles mål for samarbeidet og de administrative og finansielle vilkårene for tilskuddene som gis til det organ som er anerkjent i henhold til artikkel 14, kan defineres i en rammeavtale om partnerskap undertegnet av Kommisjonen og nevnte organ, i samsvar med finansreglementet og forordning [(EF, Euratom) nr. 2342/2002](eu/32002r2342*). Europaparlamentet og Rådet skal underrettes om inngåelse av slike avtaler.
+4\. De felles mål for samarbeidet og de administrative og finansielle vilkårene for tilskuddene som gis til det organ som er anerkjent i henhold til artikkel 14, kan defineres i en rammeavtale om partnerskap undertegnet av Kommisjonen og nevnte organ, i samsvar med finansreglementet og forordning [(EF, Euratom) nr. 2342/2002](eu/32002r2342*). Europaparlamentet og Rådet skal underrettes om inngåelse av slike avtaler.
 
 ### Art 36. Forvaltning og oppfølging
 
-1. De bevilgningene som fastsettes av budsjettmyndigheten til finansiering av samsvarsvurdering, akkreditering og markedstilsyn, kan også dekke administrative utgifter knyttet til forberedelse, oppfølging, inspeksjon, revisjon og vurdering som er direkte nødvendig for å nå målene i denne forordning, og særlig undersøkelser, møter, informasjon og offentliggjøring, utgifter knyttet til informasjonsnett for utveksling av informasjon samt andre utgifter til administrativ og teknisk bistand som Kommisjonen kan benytte i forbindelse med samsvarsvurderings- og akkrediteringsvirksomhet.
+1\. De bevilgningene som fastsettes av budsjettmyndigheten til finansiering av samsvarsvurdering, akkreditering og markedstilsyn, kan også dekke administrative utgifter knyttet til forberedelse, oppfølging, inspeksjon, revisjon og vurdering som er direkte nødvendig for å nå målene i denne forordning, og særlig undersøkelser, møter, informasjon og offentliggjøring, utgifter knyttet til informasjonsnett for utveksling av informasjon samt andre utgifter til administrativ og teknisk bistand som Kommisjonen kan benytte i forbindelse med samsvarsvurderings- og akkrediteringsvirksomhet.
 
-2. Kommisjonen skal vurdere om den samsvarsvurderings-, akkrediterings- og markedstilsynsvirksomhet som mottar fellesskapsfinansiering, er relevant i lys av kravene i Fellesskapets prinsipper og regelverk, og underrette Europaparlamentet og Rådet om resultatet av denne vurderingen innen 1. januar 2013 og deretter hvert femte år.
+2\. Kommisjonen skal vurdere om den samsvarsvurderings-, akkrediterings- og markedstilsynsvirksomhet som mottar fellesskapsfinansiering, er relevant i lys av kravene i Fellesskapets prinsipper og regelverk, og underrette Europaparlamentet og Rådet om resultatet av denne vurderingen innen 1. januar 2013 og deretter hvert femte år.
 
 ### Art 37. Vern av Fellesskapets økonomiske interesser
 
-1. Kommisjonen skal ved gjennomføring av virksomhet finansiert i henhold til denne forordning sikre vern av Fellesskapets økonomiske interesser gjennom forebyggende tiltak mot bedrageri, korrupsjon og annen ulovlig virksomhet, gjennom effektiv kontroll og inndrivelse av beløp som er urettmessig utbetalt, og dersom det oppdages uregelmessigheter, gjennom sanksjoner som er virkningsfulle, står i forhold til overtredelsen og er avskrekkende, i samsvar med rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om vern av De europeiske fellesskaps økonomiske interesser,1 rådsforordning [(Euratom, EF) nr. 2185/96](eu/31996r2185) av 11. november 1996 om kontroll og inspeksjon på stedet som foretas av Kommisjonen for å verne De europeiske fellesskaps økonomiske interesser mot bedrageri og andre uregelmessigheter2 og europaparlaments- og rådsforordning [(EF) nr. 1073/1999](eu/31999r1073) av 25. mai 1999 om undersøkelser som foretas av Det europeiske kontor for bedrageribekjempelse (OLAF).3
+1\. Kommisjonen skal ved gjennomføring av virksomhet finansiert i henhold til denne forordning sikre vern av Fellesskapets økonomiske interesser gjennom forebyggende tiltak mot bedrageri, korrupsjon og annen ulovlig virksomhet, gjennom effektiv kontroll og inndrivelse av beløp som er urettmessig utbetalt, og dersom det oppdages uregelmessigheter, gjennom sanksjoner som er virkningsfulle, står i forhold til overtredelsen og er avskrekkende, i samsvar med rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om vern av De europeiske fellesskaps økonomiske interesser,1 rådsforordning [(Euratom, EF) nr. 2185/96](eu/31996r2185) av 11. november 1996 om kontroll og inspeksjon på stedet som foretas av Kommisjonen for å verne De europeiske fellesskaps økonomiske interesser mot bedrageri og andre uregelmessigheter2 og europaparlaments- og rådsforordning [(EF) nr. 1073/1999](eu/31999r1073) av 25. mai 1999 om undersøkelser som foretas av Det europeiske kontor for bedrageribekjempelse (OLAF).3
 
-2. For den fellesskapsvirksomhet som finansieres i henhold til denne forordning, menes med begrepet uregelmessighet omhandlet i artikkel 1 nr. 2 i forordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) enhver overtredelse av en bestemmelse i fellesskapsretten eller ethvert brudd på en avtaleforpliktelse som følge av en markedsdeltakers handling eller unnlatelse, som skader eller vil kunne skade Den europeiske unions alminnelige budsjett eller budsjetter som den forvalter, som følge av en urettmessig utgiftspost.
+2\. For den fellesskapsvirksomhet som finansieres i henhold til denne forordning, menes med begrepet uregelmessighet omhandlet i artikkel 1 nr. 2 i forordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) enhver overtredelse av en bestemmelse i fellesskapsretten eller ethvert brudd på en avtaleforpliktelse som følge av en markedsdeltakers handling eller unnlatelse, som skader eller vil kunne skade Den europeiske unions alminnelige budsjett eller budsjetter som den forvalter, som følge av en urettmessig utgiftspost.
 
-3. Avtaler og kontrakter som følger av denne forordning, skal inneholde bestemmelser om oppfølging og finansiell kontroll som skal ivaretas av Kommisjonen eller en bemyndiget representant for Kommisjonen, og om revisjon som foretas av Revisjonsretten, om nødvendig på stedet.
+3\. Avtaler og kontrakter som følger av denne forordning, skal inneholde bestemmelser om oppfølging og finansiell kontroll som skal ivaretas av Kommisjonen eller en bemyndiget representant for Kommisjonen, og om revisjon som foretas av Revisjonsretten, om nødvendig på stedet.
+
+1 EFT L 312 av 23.12.1995, s. 1.2 EFT L 292 av 15.11.1996, s. 2.3 EFT L 136 av 31.5.1999, s. 1.
 
 ### Kapittel VI. Sluttbestemmelser
 
@@ -489,6 +537,8 @@ Ny artikkel 8 nr. 3 i direktiv [2001/95/EF](eu/32001l0095) skal lyde:
 
 «3. I tilfelle av produkter som utgjør en alvorlig risiko, skal vedkommende myndigheter raskt treffe egnede tiltak som omhandlet i nr. 1 bokstav b)-f). Hvorvidt det foreligger en alvorlig risiko skal avgjøres av medlemsstatene, som skal vurdere hvert enkelt tilfelle, idet det tas hensyn til retningslinjene omhandlet i vedlegg II nr. 8.»
 
+1 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kap. XIX nr. 3h.
+
 ### Art 43. Oppheving
 
 Forordning [(EØF) nr. 339/93](eu/31993r0339*) oppheves med virkning fra 1. januar 2010.
@@ -503,22 +553,26 @@ Den får anvendelse fra 1. januar 2010.1
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.2
 
+1 I EØS 1 apr 2013.2 Jf. EØS-avtalen art. 7 bokstav a. Dette gjelder ikke i EØS.
+
+Utferdiget i Strasbourg, 9. juli 2008.
+
 ### Vedlegg I. Krav til det organ som anerkjennes i henhold til artikkel 14
 
-1. Det organ som anerkjennes i henhold til artikkel 14 i denne forordning (organet), skal opprettes i Fellesskapet.
+1\. Det organ som anerkjennes i henhold til artikkel 14 i denne forordning (organet), skal opprettes i Fellesskapet.
 
-2. I henhold til organets vedtekter skal nasjonale akkrediteringsorganer fra Fellesskapet ha rett til å bli medlem av organet, forutsatt at de opptrer i samsvar med organets regler og mål og med de andre vilkårene som er fastsatt i denne forordning, og som avtalt med Kommisjonen i rammeavtalen.
+2\. I henhold til organets vedtekter skal nasjonale akkrediteringsorganer fra Fellesskapet ha rett til å bli medlem av organet, forutsatt at de opptrer i samsvar med organets regler og mål og med de andre vilkårene som er fastsatt i denne forordning, og som avtalt med Kommisjonen i rammeavtalen.
 
-3. Organet skal rådføre seg med alle relevante berørte parter.
+3\. Organet skal rådføre seg med alle relevante berørte parter.
 
-4. Organet skal tilby sine medlemmer fagfellevurderingstjenester som oppfyller kravene i artikkel 10 og 11.
+4\. Organet skal tilby sine medlemmer fagfellevurderingstjenester som oppfyller kravene i artikkel 10 og 11.
 
-5. Organet skal samarbeide med Kommisjonen i samsvar med denne forordning.
+5\. Organet skal samarbeide med Kommisjonen i samsvar med denne forordning.
 
 ### Vedlegg II. CE-merking
 
-1. CE-merkingen skal bestå av bokstavene «CE» i følgende grafiske utforming:
+1\. CE-merkingen skal bestå av bokstavene «CE» i følgende grafiske utforming:
 
-2. Dersom CE-merkingen blir forminsket eller forstørret, skal størrelsesforholdet slik det framgår av figuren i nr. 1, overholdes.
+2\. Dersom CE-merkingen blir forminsket eller forstørret, skal størrelsesforholdet slik det framgår av figuren i nr. 1, overholdes.
 
-3. Dersom det ikke i noen rettsakt er fastsatt særskilte mål, skal CE-merkingen være minst 5 mm høy.
+3\. Dersom det ikke i noen rettsakt er fastsatt særskilte mål, skal CE-merkingen være minst 5 mm høy.

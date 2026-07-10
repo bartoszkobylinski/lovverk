@@ -634,13 +634,81 @@ Celler og vev som er på lager 28. april 2017 er unntatt fra kravet om felles eu
 
 ## Vedlegg 1. Melding av alvorlige uønskede hendelser
 
+*A. Hurtig melding av mistanke om alvorlige uønskede hendelser*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Virksomhet |  |  |  |  |
+| Meldingsidentifikasjon |  |  |  |  |
+| EU-vevssenterkode (der dette er relevant) |  |  |  |  |
+| Meldingsdato (år/måned/dag) |  |  |  |  |
+| Dato for alvorlig uønsket hendelse (år/måned/dag) |  |  |  |  |
+| Eventuelle celle-/vevstyper involvert i den alvorlige uønskede hendelsen |  |  |  |  |
+| Alvorlig uønsket hendelse som kan påvirke vevs og cellers kvalitet og sikkerhet som følge av et avvik i forbindelse med: | Spesifisering |  |  |  |
+|  | Feil ved celler og vev | Feil ved utstyret | Menneskelig feil | Annet (spesifiseres) |
+| Uttak |  |  |  |  |
+| Testing |  |  |  |  |
+| Prosessering |  |  |  |  |
+| Konservering |  |  |  |  |
+| Oppbevaring |  |  |  |  |
+| Distribusjon |  |  |  |  |
+| Materialer |  |  |  |  |
+| Annet (spesifiseres) |  |  |  |  |
+
+*B. Konklusjon om undersøkelse av alvorlige uønskede hendelser*
+
+|  |
+| --- |
+| Virksomhet |
+| Meldingsidentifikasjon |
+| EU-vevssenterkode (der dette er relevant) |
+| Bekreftelsesdato (år/måned/dag) |
+| Dato for den alvorlige uønskede hendelsen (år/måned/dag) |
+| Analyse av den grunnleggende årsaken (nærmere opplysninger) |
+| Hvilke korrigerende tiltak er iverksatt (nærmere opplysninger) |
+
 > Endret ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
 ## Vedlegg 2. Melding av alvorlige bivirkninger
 
+*A. Hurtig melding av mistanke om alvorlige bivirkninger*
+
+|  |
+| --- |
+| Virksomhet |
+| Meldingsidentifikasjon |
+| Meldingsdato (år/måned/dag) |
+| Berørt person (mottaker eller donor) |
+| Dato og sted for uttak eller anvendelse på mennesker (år/måned/dag) |
+| Entydig donasjonsidentifikasjonsnummer |
+| Dato for den alvorlige bivirkning som det er mistanke om (år/måned/dag) |
+| Celle-/vevstype som er involvert i den alvorlige bivirkning som det er mistanke om |
+| Type alvorlig(e) bivirkning(er) det er mistanke om |
+| EU-vevssenterkode (der dette er relevant) |
+| Felles europeisk kode (SEC) for celle- og vevstype som er involvert i den alvorlige bivirkning som det er mistanke om (der dette er relevant) |
+
+*B. Konklusjon om undersøkelse av alvorlige bivirkninger*
+
+|  |
+| --- |
+| Virksomhet |
+| Meldingsidentifikasjon |
+| Bekreftelsesdato (år/måned/dag) |
+| Dato for alvorlig bivirkning (år/måned/dag) |
+| Entydig donasjonsidentifikasjonsnummer |
+| Bekreftelse av alvorlig bivirkning (ja/nei) |
+| Endring av alvorlig bivirkning (ja/nei) Hvis ja, spesifiser |
+| Klinisk resultat (hvis det er kjent):<br>Fullstendig helbredelse<br>Lette sequelae<br>Alvorlige sequelae<br>Dødsfall |
+| Undersøkelsesresultat og endelige konklusjoner |
+| Anbefalinger vedrørende forebyggende og korrigerende tiltak |
+| EU-vevssenterkode (der dette er relevant) |
+| Felles europeisk kode (SEC) for celle- og vevstype som er bekreftet involvert i den alvorlige bivirkningen (der dette er relevant) |
+
 > Endret ved [forskrift 7 sep 2016 nr. 1052](forskrift/2016-09-07-1052) (i kraft 29 april 2017).
 
 ## Vedlegg 3.
+
+Oppbyggingen av felles europeisk kode (SEC)
 
 Felles europeisk kode (SEC) skal starte med bokstavene «SEC» og kunne leses manuelt. Ved utskrift skal koden ha donoridentifikasjonssekvens og produktidentifikasjonssekvens adskilt med mellomrom eller linjeskift.
 Produktkoden skal bestå av produktkodesystemidentifikator som skal vise hvilket kodesystem virksomheten anvender («E» for EUTC, «A» for ISBT128 og «B» for Eurocode), og det vevs- og celleproduktnummer (Produktnummer) som er fastsatt i det respektive kodingssystemet. Virksomheter som allerede benytter ISBT128 eller Eurocode kan fortsette å bruke disse da produktkompendiet kobler alle ISBT128 og Eurocodekoder til de korresponderende EUTC- kodene (produktkodingssystem for celler og vev utviklet av EU med register over alle typer celler og vev i omløp i EU). Uavhengig av hvilket av de overnevnte kodesystem som anvendes, skal produktkoden bestå av produktkodesystemidentifikatoren og produktnummer bestående av 7 alfanumeriske tegn. I de tilfeller produktnummeret er kortere enn 7 tegn skal nuller utfylle manglende felt foran produktnummeret.

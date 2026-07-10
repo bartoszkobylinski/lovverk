@@ -60,6 +60,8 @@ Påbudet gjelder likevel ikke:når kjøretøyet står stille,under kjøring i ga
 
 > Endret ved [forskrifter 19 des 2001 nr. 1506](forskrift/2001-12-19-1506) (i kraft 1 juli 2002), [8 okt 2004 nr. 1330](forskrift/2004-10-08-1330), [15 feb 2006 nr. 169](forskrift/2006-02-15-169), [24 mai 2011 nr. 544](forskrift/2011-05-24-544) (i kraft 15 juni 2011), [17 sep 2013 nr. 1103](forskrift/2013-09-17-1103).
 
+1 Jf. ICS 13.340.20; 97.220.20, jf. NS-EN-1077.2 Jf. [forskrift 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr (PVU).
+
 ## § 3. Hvem som skal ilegges reaksjon etter disse forskrifter
 
 Den som har fylt 15 år og som unnlater å bruke verneutstyr som er påbudt etter [§ 1](forskrift/1979-09-21-7/§1), [§ 1a](forskrift/1979-09-21-7/§1a) eller [§ 2](forskrift/1979-09-21-7/§2), kan ilegges gebyr.

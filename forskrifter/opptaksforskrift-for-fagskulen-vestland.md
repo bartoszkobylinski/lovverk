@@ -108,7 +108,16 @@ eu_basis: []
 
 ### § 3-1. Poengutrekning ved rangering av søkjarar
 
-(1)*Omtale**Poeng*Det generelle grunnlaget for opptak etter [§ 2-2](forskrift/2021-09-17-2913/§2-2) (1)10 poengRelevant yrkespraksis i 100 % stilling utover det generelle grunnlaget for opptak, jf. gjeldande studieplan1 poeng per 6 mnd. (inntil 10 poeng)Fagprøve med «greidd mykje godt»5 poengRelevant fagprøve i anna fag utover det generelle opptakskravet inkl. praksistid5 poengRelevant fagprøve i anna fag utover det generelle opptakskravet med «greidd mykje godt»2 poengGjennomsnittleg karakterpoeng av talkarakterane i alle fagMultipliserast med 10
+(1)
+
+| *Omtale* | *Poeng* |
+| --- | --- |
+| Det generelle grunnlaget for opptak etter [§ 2-2](forskrift/2021-09-17-2913/§2-2) (1) | 10 poeng |
+| Relevant yrkespraksis i 100 % stilling utover det generelle grunnlaget for opptak, jf. gjeldande studieplan | 1 poeng per 6 mnd. (inntil 10 poeng) |
+| Fagprøve med «greidd mykje godt» | 5 poeng |
+| Relevant fagprøve i anna fag utover det generelle opptakskravet inkl. praksistid | 5 poeng |
+| Relevant fagprøve i anna fag utover det generelle opptakskravet med «greidd mykje godt» | 2 poeng |
+| Gjennomsnittleg karakterpoeng av talkarakterane i alle fag | Multipliserast med 10 |
 
 (2) Ved opptak på visse vilkår etter [§ 2-3](forskrift/2021-09-17-2913/§2-3) (1) i denne forskrifta blir søkjaren tildelt rangeringspoeng for å ha oppfylt det generelle grunnlaget for opptak, sjølv om fag- eller sveineprøven endå ikkje er fullført og bestått. Opptak ved ei slik førehandstildeling av rangeringspoeng inneber at eventuelle tilleggspoeng oppnådd etter søknadsfristen 15. april ikkje kan tilleggjast vekt.
 

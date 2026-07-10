@@ -465,6 +465,10 @@ Karakterfastsetting ved eksamener som er avlagt under opplæringsdelen, kan påk
 
 Forskriften trer i kraft fra og med 1. januar 2025. Samtidig oppheves forskrift 1. juli 20201 for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet.
 
+1 Skal vel være [forskrift 30. januar 2020 nr. 1471](forskrift/2020-01-30-1471). Lovtidend-redaksjonens anmerkning.
+
 ### § 25. Overgangsbestemmelser
 
 Den som når denne forskriften trer i kraft, er tatt opp til ph.d.-utdanning etter forskrift 1. juli 20201 for graden philosophiae doctor (ph.d.) ved Norges miljø- og biovitenskapelige universitetet, beholder de rettigheter som står i denne, dersom dette er til gunst for vedkommende.
+
+1 Skal vel være [forskrift 30. januar 2020 nr. 1471](forskrift/2020-01-30-1471). Lovtidend-redaksjonens anmerkning.

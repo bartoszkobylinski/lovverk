@@ -72,7 +72,14 @@ Gruppekvotene angitt i forskriften er ikke justert for eventuelle overføringer 
 
 Fartøy i ringnotgruppen tildeles fartøykvoter.
 
-For fartøy med ringnottillatelse legges følgende kvotefaktorer til grunn for utregning av kvoten:1500 hl +40 % av konsesjonskapasiteten fra0–4000 hl30 % av konsesjonskapasiteten frafra 4000–6000 hl20 % av konsesjonskapasiteten frafra 6000–10 000 hl10 % av konsesjonskapasiteten fraover 10 000 hl
+For fartøy med ringnottillatelse legges følgende kvotefaktorer til grunn for utregning av kvoten:
+
+|  |  |  |
+| --- | --- | --- |
+| 1500 hl + | 40 % av konsesjonskapasiteten fra | 0–4000 hl |
+|  | 30 % av konsesjonskapasiteten fra | fra 4000–6000 hl |
+|  | 20 % av konsesjonskapasiteten fra | fra 6000–10 000 hl |
+|  | 10 % av konsesjonskapasiteten fra | over 10 000 hl |
 
 Kvotefaktoren blir omregnet til tonn ved at 1 hektoliter = 0,1 tonn (100 kilo).
 
@@ -96,7 +103,15 @@ Fartøy som i 2025 benytter slumpfiskeordningen i tråd med [forskrift 4. mars 2
 
 ### § 9. Kvoter på fartøynivå
 
-Fartøy med tillatelse til å fiske nordsjøsild med trål, tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:50 tonn +50 % av bruttotonnasje fra0–10040 % av bruttotonnasje fra101–20030 % av bruttotonnasje fra201–30020 % av bruttotonnasje fra301–40010 % av bruttotonnasje fra401–600
+Fartøy med tillatelse til å fiske nordsjøsild med trål, tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:
+
+|  |  |  |
+| --- | --- | --- |
+| 50 tonn + | 50 % av bruttotonnasje fra | 0–100 |
+|  | 40 % av bruttotonnasje fra | 101–200 |
+|  | 30 % av bruttotonnasje fra | 201–300 |
+|  | 20 % av bruttotonnasje fra | 301–400 |
+|  | 10 % av bruttotonnasje fra | 401–600 |
 
 Kvoten til det enkelte fartøy fremkommer ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
 
@@ -122,7 +137,26 @@ Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektor
 
 ### § 12. Kvoter for fartøy i lukket gruppe
 
-Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta sild:*Hjemmelslengde**Kvotefaktor**Maksimalkvote (tonn)**Herav garantert kvote (tonn)*Fartøy under 7,0 meter19,01716,9362Fartøy 7,0–7,99 meter218,034113,8724Fartøy 8,0–8,99 meter327,051220,8086Fartøy 9,0–9,99 meter436,068227,7448Fartøy 10,0–10,99 meter545,085334,6810Fartøy 11,0–11,99 meter654,102441,6172Fartøy 12,0–12,99 meter763,119448,5534Fartøy 13,0–13,99 meter872,136555,4896Fartøy 14,0–14,99 meter981,153562,4258Fartøy 15,0–15,99 meter1090,170669,3620Fartøy 16,0–16,99 meter1199,187776,2982Fartøy 17,0–17,99 meter12108,204783,2344Fartøy 18,0–18,99 meter13117,221890,1706Fartøy 19,0–19,99 meter14126,238897,1068Fartøy 20,0–20,99 meter15135,2559104,0430Fartøy 21,0–21,35 meter16144,2730110,9792
+Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta sild:
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote (tonn)* | *Herav garantert kvote (tonn)* |
+| --- | --- | --- | --- |
+| Fartøy under 7,0 meter | 1 | 9,0171 | 6,9362 |
+| Fartøy 7,0–7,99 meter | 2 | 18,0341 | 13,8724 |
+| Fartøy 8,0–8,99 meter | 3 | 27,0512 | 20,8086 |
+| Fartøy 9,0–9,99 meter | 4 | 36,0682 | 27,7448 |
+| Fartøy 10,0–10,99 meter | 5 | 45,0853 | 34,6810 |
+| Fartøy 11,0–11,99 meter | 6 | 54,1024 | 41,6172 |
+| Fartøy 12,0–12,99 meter | 7 | 63,1194 | 48,5534 |
+| Fartøy 13,0–13,99 meter | 8 | 72,1365 | 55,4896 |
+| Fartøy 14,0–14,99 meter | 9 | 81,1535 | 62,4258 |
+| Fartøy 15,0–15,99 meter | 10 | 90,1706 | 69,3620 |
+| Fartøy 16,0–16,99 meter | 11 | 99,1877 | 76,2982 |
+| Fartøy 17,0–17,99 meter | 12 | 108,2047 | 83,2344 |
+| Fartøy 18,0–18,99 meter | 13 | 117,2218 | 90,1706 |
+| Fartøy 19,0–19,99 meter | 14 | 126,2388 | 97,1068 |
+| Fartøy 20,0–20,99 meter | 15 | 135,2559 | 104,0430 |
+| Fartøy 21,0–21,35 meter | 16 | 144,2730 | 110,9792 |
 
 Av kvoten etter første ledd kan en maksimalkvote på 210 tonn fiskes i britisk sone.
 

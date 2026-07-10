@@ -1560,6 +1560,8 @@ Tilbyder i forenklet registreringsordning har ikke rett til fradrag for inngåen
 
 > Endret ved lover [25 juni 2010 nr. 44](lov/2010-06-25-44), [21 juni 2017 nr. 84](lov/2017-06-21-84).
 
+1 Fra 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347).
+
 ### § 22-3. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

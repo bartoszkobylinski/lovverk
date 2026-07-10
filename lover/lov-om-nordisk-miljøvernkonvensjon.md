@@ -30,6 +30,8 @@ Miljøvernkonvensjonen av 19 februar 1974 mellom Norge, Danmark, Finland og Sver
 
 Denne lov trer i kraft fra den tid1 Kongen bestemmer.
 
+1 Straks iflg. res. 17 des 1976.
+
 ## Miljøvernkonvensjon av 19. februar 1974, mellom Danmark, Finland, Norge og Sverige.
 
 Regjeringene i Danmark, Finland, Norge og Sverige, som anser det svært viktig å verne og forbedre miljøet, er blitt enige om følgende:

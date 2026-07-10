@@ -83,6 +83,8 @@ eu_basis: []
 
 ## Vedlegg 3. Oversikt over lover Helsedepartementet skal ha forvaltningsansvaret for:
 
+Helsedepartementet (HD) overtar forvaltningsansvaret for følgende lovverk:
+
 - [Lov av 30. mars 1984 nr. 15](lov/1984-03-30-15) om statlig tilsyn med helsetjenesten
 - [Lov av 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m.
 - [Lov av 2. juli 1999 nr. 62](lov/1999-07-02-62) om etablering og gjennomføring av psykisk helsevern
@@ -112,6 +114,8 @@ eu_basis: []
 - [Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd (folketrygdloven), for så vidt gjelder:Kapittel 5 Stønad ved helsetjenester, med unntak av § 5-10 Behandling for språk- og taledefekter, § 5-15 Ortopediske hjelpemidler m.m., § 5-24 Stønad til helsetjenester i utlandet og § 5-26 Stønad ved sykdom som har oppstått i tidsrom uten stønadsrett.Kapittel 20 Administrative organer, § 20-7 Klagenemnda for bidrag til behandling i utlandetKapittel 22 Utbetaling, § 22-2 Utbetaling ved direkte oppgjør, § 22-4 Disponering av ytelser til langstidspasienter i helseinstitusjon og § 22-5 Felles trivselsordninger for langstidspasienter)Kapittel 25 Forskjellige bestemmelser, § 25-6 Tap av retten til å praktisere for trygdens regning og § 25-7 Utelukkelse fra å utstede legeerklæringer.
 
 ## Vedlegg 4. Oversikt over lover Sosialdepartementet skal ha forvaltningsansvaret for:
+
+Sosialdepartementet (SOS) overtar forvaltningsansvaret for følgende lovverk:
 
 - [Lov av 13. desember 1991 nr. 81](lov/1991-12-13-81) om sosiale tjenester m.v.
 - Midlertidig [lov av 10. juni 1988 nr. 48](lov/1988-06-10-48) om avvikling av institusjoner og kontrakter om privatpleie under det fylkeskommunale helsevern for psykisk utviklingshemmede

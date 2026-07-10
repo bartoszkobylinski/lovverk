@@ -353,3 +353,5 @@ Gjelder tjenesten en ting som er overgitt til eller som ellers er hos tjenesteyt
 (1) Loven trer i kraft fra den dag Kongen fastsetter.1
 
 (2) Loven får bare anvendelse på avtaler som blir inngått etter at loven er trådt i kraft.
+
+1 Fra 1 jan 1990 iflg. [res. 24 nov 1989 nr. 1175](forskrift/1989-11-24-1175).

@@ -90,11 +90,26 @@ Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som 
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre<br>temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre<br>temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
+
 > Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
 ### § 11. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt III.
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter vekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter vekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter vekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -198,9 +213,36 @@ Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøre
 
 Summerende beholdervekter deles inn i fire nøyaktighetsklassene. Tabell 3 viser nøyaktighetsklassene og anvendelsen av disse i forhold til type veiing.
 
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| Nøyaktighetsklasse 0,2: | Benyttes ved veiing av ferdig bearbeidede produkter og lignende handelstransaksjoner. |
+| Nøyaktighetsklasse 0,5: | Benyttes ved veiing av ferdig bearbeidede produkter og lignende handelstransaksjoner. |
+| Nøyaktighetsklasse 1: | Benyttes til veiing av sand, singel, malm og ved mottak av fisk. |
+| Nøyaktighetsklasse 2: | Benyttes ved beregning av frakt, tariff etc. I tillegg kan de benyttes til veiing av sand, singel og malm, men dette vil bli vurdert i det enkelte tilfelle. |
+
 ### § 29. Maksimale tillatte målefeil for summerende beholdervekter som selges eller tilbys for salg
 
+*Tabell 4*
+
+| *Nøyaktighetsklasse* | *Tillatt målefeil i prosent av den summerte mengde* |
+| --- | --- |
+| 0,2 | ± 0,10 % |
+| 0,5 | ± 0,25 % |
+| 1 | ± 0,50 % |
+| 2 | ± 1,00 % |
+
 ### § 30. Maksimal tillatt målefeil for summerende beholdervekter under bruk
+
+*Tabell 5*
+
+| *Nøyaktighetsklasse* | *Tillatt målefeil i prosent av den summerte mengde* |
+| --- | --- |
+| 0,2 | ± 0,20 % |
+| 0,5 | ± 0,50 % |
+| 1 | ± 1,00 % |
+| 2 | ± 2,00 % |
 
 > Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
@@ -227,6 +269,14 @@ På summerende beholdervekter utstyrt med en utskriftsenhet skal nullstilling av
 ### § 36. Ytelser under påvirkende størrelser og elektromagnetiske forstyrrelser
 
 Maksimale tillatte målefeil som følge av påvirkende størrelser skal være som angitt i tabell 6.
+
+*Tabell 6*
+
+| *Last (m) i summerende delinger (dt )* | *Maksimale tillatte målefeil* |
+| --- | --- |
+| 0 < m ≤ 500 | ± 0,5 dt |
+| 500 < m ≤ 2 000 | ± 1,0 dt |
+| 2 000 < m ≤ 10 000 | ± 1,5 dt |
 
 Den kritiske endringsverdien som følge av en forstyrrelse er en summerende deling for enhver vektvisning og enhver lagret sum.
 

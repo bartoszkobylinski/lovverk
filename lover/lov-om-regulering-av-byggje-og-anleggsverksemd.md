@@ -45,3 +45,5 @@ Den som bryt lova her eller forskrift med heimel i lova, vert straffa med bøter
 ## § 5.
 
 Kongen fastset når lova skal ta til å gjelde.1
+
+1 Frå 22 mars 1996 iflg. [res. 22 mars 1996 nr. 288](forskrift/1996-03-22-288).

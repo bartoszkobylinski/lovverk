@@ -276,6 +276,8 @@ Fra den tid loven trer i kraft, oppheves [lov 20. mai 1988 nr. 33 om politimyndi
 
 Kongen kan gi overgangsregler.
 
+1 Fra 1 juli 2024 iflg. [res. 31 mai 2024 nr. 876](forskrift/2024-05-31-876).
+
 ### § 29. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

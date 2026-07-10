@@ -28,6 +28,8 @@ Myndighet etter [lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduk
 
 > Endret ved [forskrift 18 feb 2005 nr. 218](forskrift/2005-02-18-218).
 
+1 Foredraget er tatt inn som vedlegg til resolusjonen.
+
 ## II
 
 Helse- og omsorgsdepartementet tildeles myndighet til å utferdige forskrifter med hjemmel i lov om matproduksjon og mattrygghet mv. (matloven) i forhold til følgende lovbestemmelser: [§ 3](lov/2003-12-19-124/§3), [§ 5](lov/2003-12-19-124/§5), [§ 6](lov/2003-12-19-124/§6) siste ledd, [§ 7](lov/2003-12-19-124/§7) annet, tredje og fjerde ledd, [§ 8](lov/2003-12-19-124/§8) annet ledd, [§ 9](lov/2003-12-19-124/§9), [§ 10](lov/2003-12-19-124/§10) annet ledd, [§ 11](lov/2003-12-19-124/§11), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13) sjette ledd, [§ 14](lov/2003-12-19-124/§14) tredje ledd, [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16) annet ledd, [§ 20](lov/2003-12-19-124/§20), [§ 21](lov/2003-12-19-124/§21), [§ 26](lov/2003-12-19-124/§26) fjerde ledd, [§ 27](lov/2003-12-19-124/§27) tredje ledd, [§ 29](lov/2003-12-19-124/§29) annet ledd, [§ 33](lov/2003-12-19-124/§33).
@@ -54,6 +56,8 @@ Denne resolusjonen trer i kraft 1. januar 2004.
 
 Fra 1. januar 2004 oppheves følgende delegeringer:Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av 29. januar 19881 om opprettelsen av Statens næringsmiddeltilsyn.Kongelig resolusjon fra Forbruker- og administrasjonsdepartementet av [29. april 1988 nr. 312](forskrift/1988-04-29-312) om myndighetsoverføring til Statens næringsmiddeltilsyn m.v.Kongelig resolusjon fra Landbruksdepartementet av 1. juli 19941 om Omorganisering av Statens næringsmiddeltilsyn.[Forskrift av 8. april 1960 nr. 9602](forskrift/1960-04-08-9602) om delegasjon av myndighet etter lov om kvalitetskontroll med fiskevarer. Gitt ved kgl.res. av 8. april 1960 i medhold av kvalitetskontrolloven.[Vedtak av 10. februar 1989 nr. 84](forskrift/1989-02-10-84) om delegering av myndighet til Fiskeridepartementet etter lov om tilsyn med fôrvarer. Fastsatt ved kgl.res. av 10. februar 1989.[Vedtak av 19. desember 1997 nr. 1317](forskrift/1997-12-19-1317) om delegering av myndighet etter fiskesykdomsloven. Fastsatt ved kgl.res. av 19. desember 1997 med hjemmel i fiskesykdomsloven.
 
+1 Ikke kunngjort i Norsk Lovtidend.
+
 ## Vedlegg. Om delegering og myndighetsfordeling etter lov om matproduksjon og mattrygghet mv. (matloven)
 
 Dette forslaget til kronprinsregentens resolusjon om delegering og myndighetsfordeling etter matloven legges frem av Helse- og omsorgsdepartementet i samråd med Landbruks- og matdepartementet og Fiskeri- og kystdepartementet.
@@ -74,17 +78,29 @@ Regjeringens sentrale mål er:å sikre at mat og drikke som produseres og/eller 
 
 [Ot.prp.nr.100 (2002–2003)](forarbeid/otprp-100-200203) Om lov om matproduksjon og mattrygghet mv. (matloven) er fremmet for Stortinget av Helse- og omsorgsdepartementet etter samarbeid med Landbruks- og matdepartementet og Fiskeri- og kystdepartementet. Lovutkastet er behandlet av Stortinget denne sesjonen. Loven vil tre i kraft 1. januar 2004. Det er forutsatt at myndighet etter loven skal fordeles mellom de tre matdepartementene.
 
+**2.1 Fordeling av myndighet etter matloven**
+
 I proposisjonen sies det vedrørende fordeling av det konstitusjonelle ansvaret på matområdet at dette vil «fordeles mellom de tre matdepartementene (Helse- og omsorgsdepartementet, Landbruks- og matdepartementet og Fiskeri- og kystdepartementet) etter et vertikalt prinsipp, der grensesnittene i hovedsak går mellom de ulike ledd i matkjeden og ikke etter hvilke hensyn som skal ivaretas.»
 
 Matloven dekker hele produksjonskjeden fra jord/fjord til bord og omfatter derved både innsatsvarer og ferdige produkter i tillegg til plantehelse, dyrehelse og helse til akvatiske organismer. Myndighet etter loven kan deles etter et vertikalt prinsipp, et formålsprinsipp eller ved en kombinasjon av disse prinsippene. Det vertikale prinsippet innebærer at myndighet fordeles mellom departementene ved at delingen settes mellom de ulike ledd i produksjonskjeden av mat (primærproduksjon, videreforedling og omsetning). Formålsprinsippet (deling etter lovens ulike formål) innebærer at myndighet fordeles etter hvilket hensyn som skal ivaretas.
 
 De berørte departementene foreslår at myndighet etter matloven i hovedsak fordeles etter det vertikale prinsippet, og at formålsprinsippet så anvendes for å fingå grensene mellom de tre departementene. Helse- og omsorgsdepartementet har ansvaret for å fremme lovproposisjoner ved eventuelle endringer i matloven.
 
+**2.2 Anvendelse av prinsippene**
+
+*Vertikal deling*
+
 Helse- og omsorgsdepartementet (HOD) foreslår at Landbruks- og matdepartementet (LMD) og Fiskeri- og kystdepartementet (FKD) gis ansvar for regelverk som regulerer alle matlovens formål/områder fra innsatsvareproduksjon til og med primærproduksjonen (slik primærproduksjon er definert i merknader til [matlovens § 2](lov/2003-12-19-124/§2)), herunder ansvaret for regelverket som regulerer hensynet til humanhelse innenfor denne delen av produksjonskjeden. Dette innebærer at:LMD får ansvar for regelverk relatert til terrestrisk produksjon.FKD får ansvar for regelverk relatert til akvatisk produksjon.
+
+*Formålsdeling*
 
 Helse- og omsorgsdepartementet foreslår videre at deling av myndighet etter matloven etter primærproduksjonen skal skje etter formålsprinsippet. Dette innebærer at:Regelverk som regulerer plantehelse, tillegges LMD også etter primærproduksjonen.Regelverk for dyrehelse inkludert regelverk for animalske biprodukter, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.Regelverk som regulerer kvalitet og hygiene av hensyn til human helse, tillegges HOD etter primærproduksjonen.Regelverk som regulerer kvalitet og hygiene av andre hensyn enn hensynet til human helse, tillegges LMD og FKD også etter primærproduksjonen. Dette omfatter også regelverk for særskilt opprinnelsesmerking, beskyttede betegnelser og økologi. Fordeling mellom departementene skjer på samme måte som i den vertikale deling.Regelverk om tilsetningsstoffer, fremmedstoffer i mat, genmodifisert mat, næringsmidler til spesielle formål/kosttilskudd, generelle merkebestemmelser for mat, helsepåstander og emballasje tillegges HOD etter primærproduksjonen.Regelverk for øvrig som fastsettes av hensyn til aktørene langs matproduksjonskjeden bl.a. for å sikre eksport/markedsadgang, tillegges LMD og FKD også etter primærproduksjonen. Fordeling mellom departementene skjer på samme måte som i den vertikale delingen.
 
+*Spesielt om vann*
+
 Regelverk for produksjon av drikkevann unntas fra deling etter det vertikale prinsippet og formålsprinsippet. Ansvaret tillegges HOD i sin helhet fra nedbørsfelt til tappekran.
+
+*Fellesforskrifter*
 
 Følgende regelverk vil berøre flere departementer:Regelverk som omfatter produksjonskjeden på begge sider av den vertikale delingen eller dekker flere av punktene 1-6 under formålsdelingen og etter den fastsatte ansvarsdelingen, faller under flere departementers ansvarsområde.Regelverk som ikke er fordelt ved vertikal deling eller formålsdeling.
 
@@ -92,7 +108,11 @@ For regelverk etter pkt. 1 vil ansvaret følge det som er fastsatt ved den verti
 
 Det vil bli lagt stor vekt på samarbeid ved fastsettelse av slike forskrifter. For å ivareta dette og annet samarbeid mellom matdepartementene, er det opprettet en koordinerende gruppe som ledes av Landbruks- og matdepartementet.
 
+*Tilpasning av forskriftene*
+
 Uavhengig av den fordelingen av myndighet som fremgår av ovenstående, kan departementene i januar 2004 gjøre endringer i tidligere gitte forskrifter hjemlet i lover som oppheves, for å tilpasse disse til matloven og ny matforvaltning.
+
+*Fordeling av myndighet mellom departementene og Mattilsynet*
 
 Hovedtyngden av regelverket på matområdet er harmonisert med EUs regelverk. Når det gjelder fastsettelse av forskrifter, bør hovedmønsteret være at dette er en oppgave som tilligger departementene. Mattilsynet vil imidlertid ut fra sin kompetanse i stor grad kunne bistå departementene med forberedelser i form av praktisk utarbeidelse av utkast.
 

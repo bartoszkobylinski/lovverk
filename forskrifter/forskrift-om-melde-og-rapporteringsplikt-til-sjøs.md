@@ -100,6 +100,8 @@ Alle dødsfall som inntreffer om bord på eller i forbindelse med driften av nor
 
 (5) Ved tap av fraktcontainere skal rapporten utarbeides i samsvar med bestemmelsene om faremeldinger som fastsatt i regel V/31 og V/32 i [den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS)](traktat/1974-11-01-1).
 
+1 Skal være «72 timer».
+
 > Endret ved forskrift [17 des 2025 nr. 2671](forskrift/2025-12-17-2671) (i kraft 1 jan 2026).
 
 ### § 8. Rapportens innhold

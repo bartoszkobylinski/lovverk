@@ -38,6 +38,8 @@ Barn som har søkt om asyl i Norge, eller som er barn av personer som har søkt 
 
 Vilkåret om bosted og opphold i riket skal ikke gjelde dersom barnet er fullt medlem av folketrygden (medlemskap som omfatter pensjonsdekning) ogoppholdet i utlandet ikke er ment å vare mer enn 6 måneder, regnet fra utreisedagen, eller 1barnets utenlandsopphold skyldes arbeid for norsk arbeidsgiver, eller 2barnet oppholder seg i utlandet sammen med forsørgeren og forsørgerens utenlandsopphold har årsaker som nevnt i bokstav b.
 
+1 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav a gjelder for tilfelle der utenlandsoppholdet tar til tidligst 1. januar 1994.2 Endringen i [§ 3](forskrift/1989-06-21-518/§3) første ledd bokstav b gjelder ikke for tilfelle der søknad om ytelser for tidsrom etter 31. desember 1993 er satt fram før 1. januar 1994. Med søknad om ytelser menes også søknad om fortsatte ytelser under utenlandsopphold som har tatt til før 1. januar 1994.
+
 Opphevelsen av [§ 3](forskrift/1989-06-21-518/§3) annet ledd gjelder ikke for tilfelle der søknad om dispensasjon er satt fram før 1. januar 1994. Som søknad om dispensasjon regnes i denne forbindelse også søknad om fortsatte ytelser under utenlandsopphold som har tatt til før 1. januar 1994.
 
 ## § 4.

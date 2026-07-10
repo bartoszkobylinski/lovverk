@@ -46,17 +46,27 @@ For vegetappen av kombinerte transporter i henhold til [§ 1](forskrift/1995-08-
 
 ### § 3
 
-1. Denne forskrift trer i kraft straks.
+1\. Denne forskrift trer i kraft straks.
 
-2. Samtidig oppheves § 2 bokstavene d), e) og f) i [forskrift 6. desember 1993 nr. 1115](forskrift/1993-12-06-1115) om gjennomføring av EØS-avtalen for jernbane.
+2\. Samtidig oppheves § 2 bokstavene d), e) og f) i [forskrift 6. desember 1993 nr. 1115](forskrift/1993-12-06-1115) om gjennomføring av EØS-avtalen for jernbane.
 
-3. Departementet kan endre denne forskrift, og gi utfyllende eller supplerende bestemmelser.
+3\. Departementet kan endre denne forskrift, og gi utfyllende eller supplerende bestemmelser.
 
 ## II
 
 EØS-rettsaktene kan fås ved henvendelse til Samferdselsdepartementet.
 
 ### RÅDSFORORDNING nr. 11 ((EØF) nr. 11/60) om avskaffelse av forskjellsbehandling med hensyn til transportpriser og transportvilkår i henhold til artikkel 79 paragraf 3 i traktaten om opprettelse av Det europeiske økonomiske fellesskap
+
+RÅDET FOR DET EUROPEISKE ØKONOMISKE FELLESSKAP HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 79,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité, og
+
+ut fra følgende betraktninger:
 
 I henhold til artikkel 79 paragraf 3 skal Rådet vedta regler for avskaffelse av de former for forskjellsbehandling som er omhandlet i artikkel 79 paragraf 1, i samferdselen innenfor Fellesskapet.
 
@@ -66,17 +76,19 @@ For at det skal være mulig å undersøke gjeldende transportpriser og transport
 
 For å sikre at disse bestemmelser blir overholdt, må det innføres sanksjoner, med adgang til å bringe saken inn for Domstolen, som har full domsmyndighet i henhold til traktatens artikkel 172 –
 
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
 Bestemmelsene i denne forordning får anvendelse på all varetransport med jernbane, på vei og innlands vannvei i Fellesskapet, med unntak av transport av de produkttyper som er nevnt i vedlegg I og III til traktaten om opprettelse av Det europeiske kull- og stålfellesskap.
 
 ### Artikkel 2
 
-1. Bestemmelsene i denne forordning får anvendelse på all transport der avsender- eller bestemmelsesstedet for de transporterte varer ligger innenfor en medlemsstats territorium, herunder transport mellom medlemsstatene og tredjestater eller assosierte stater.
+1\. Bestemmelsene i denne forordning får anvendelse på all transport der avsender- eller bestemmelsesstedet for de transporterte varer ligger innenfor en medlemsstats territorium, herunder transport mellom medlemsstatene og tredjestater eller assosierte stater.
 
-2. Bestemmelsene i denne forordning får anvendelse bare på strekninger innenfor Fellesskapet.
+2\. Bestemmelsene i denne forordning får anvendelse bare på strekninger innenfor Fellesskapet.
 
-3. De får anvendelse også på delstrekninger av en transport som utføres med jernbane, på vei eller innlands vannvei når varene transporteres med andre transportmidler på andre delstrekninger.
+3\. De får anvendelse også på delstrekninger av en transport som utføres med jernbane, på vei eller innlands vannvei når varene transporteres med andre transportmidler på andre delstrekninger.
 
 ### Artikkel 3
 
@@ -84,35 +96,35 @@ Dersom en transport utføres av flere transportører etter hverandre på grunnla
 
 ### Artikkel 4
 
-1. Ved transport innenfor Fellesskapet skal den forskjellsbehandling være forbudt som består i at en transportør på grunnlag av de transporterte varers opprinnelsesstat eller bestemmelsessted anvender forskjellige priser og vilkår for samme varer for samme transportforbindelser.Dette forbud berører ikke gyldigheten av privatrettslige avtaler.
+1\. Ved transport innenfor Fellesskapet skal den forskjellsbehandling være forbudt som består i at en transportør på grunnlag av de transporterte varers opprinnelsesstat eller bestemmelsessted anvender forskjellige priser og vilkår for samme varer for samme transportforbindelser.Dette forbud berører ikke gyldigheten av privatrettslige avtaler.
 
-2. Det skal også være forbudt å fastsette takster eller transportpriser og transportvilkår av en hvilken som helst art som innebærer forskjellsbehandling i henhold til nr. 1.
+2\. Det skal også være forbudt å fastsette takster eller transportpriser og transportvilkår av en hvilken som helst art som innebærer forskjellsbehandling i henhold til nr. 1.
 
-3. De forbud som er nevnt i denne artikkel, skal gjelde fra 1. juli 1961.
+3\. De forbud som er nevnt i denne artikkel, skal gjelde fra 1. juli 1961.
 
 ### Artikkel 5
 
-1. Innen 1. juli 1961 skal regjeringene underrette Kommisjonen om de gjeldende takster, konvensjoner og avtaler om transportpriser og transportvilkår i sine stater som fastsetter forskjellige transportpriser og transportvilkår innenfor Fellesskapet for de samme transportforbindelser og for samme varer på grunnlag av varenes opprinnelsesstat eller bestemmelsessted. Videre skal Kommisjonen umiddelbart underrettes om alle tiltak av denne art som treffes senere.
+1\. Innen 1. juli 1961 skal regjeringene underrette Kommisjonen om de gjeldende takster, konvensjoner og avtaler om transportpriser og transportvilkår i sine stater som fastsetter forskjellige transportpriser og transportvilkår innenfor Fellesskapet for de samme transportforbindelser og for samme varer på grunnlag av varenes opprinnelsesstat eller bestemmelsessted. Videre skal Kommisjonen umiddelbart underrettes om alle tiltak av denne art som treffes senere.
 
-2. Transportforetakene skal innen 1. januar 1961 gi sine regjeringer alle relevante opplysninger om de takster, konvensjoner og avtaler om transportpriser og transportvilkår som er omhandlet i nr. 1, og umiddelbart underrette dem om alle tiltak av denne art som treffes senere.
+2\. Transportforetakene skal innen 1. januar 1961 gi sine regjeringer alle relevante opplysninger om de takster, konvensjoner og avtaler om transportpriser og transportvilkår som er omhandlet i nr. 1, og umiddelbart underrette dem om alle tiltak av denne art som treffes senere.
 
-3. Bestemmelsene i denne artikkel får anvendelse på all transport der avsender- eller mottakerstedet ligger innenfor en medlemsstats territorium.
+3\. Bestemmelsene i denne artikkel får anvendelse på all transport der avsender- eller mottakerstedet ligger innenfor en medlemsstats territorium.
 
 ### Artikkel 6
 
-1. For hver transport innenfor Fellesskapet skal det utferdiges et transportdokument som inneholder følgende opplysninger:avsenderens navn og adresse,varenes art og vekt,sted og dato for overtakelse av varene til befordring,bestemmelsessted for levering av varene,transportrute eller avstand, i den utstrekning dette gjør det rimelig å fastsette en pris som avviker fra vanlige transportpriser,eventuelt grenseoverganger.
+1\. For hver transport innenfor Fellesskapet skal det utferdiges et transportdokument som inneholder følgende opplysninger:avsenderens navn og adresse,varenes art og vekt,sted og dato for overtakelse av varene til befordring,bestemmelsessted for levering av varene,transportrute eller avstand, i den utstrekning dette gjør det rimelig å fastsette en pris som avviker fra vanlige transportpriser,eventuelt grenseoverganger.
 
-2. Transportdokumentet skal utferdiges i to eksemplarer og nummereres. Det ene eksemplaret skal følge varene, og det annet skal transportøren oppbevare i nummerert rekkefølge i to år fra den dag transporten finner sted. Det annet eksemplar skal inneholde alle endelige transportpriser uansett form, øvrige kostnader, eventuelle rabatter og andre forhold som påvirker transportpriser og transportvilkår.
+2\. Transportdokumentet skal utferdiges i to eksemplarer og nummereres. Det ene eksemplaret skal følge varene, og det annet skal transportøren oppbevare i nummerert rekkefølge i to år fra den dag transporten finner sted. Det annet eksemplar skal inneholde alle endelige transportpriser uansett form, øvrige kostnader, eventuelle rabatter og andre forhold som påvirker transportpriser og transportvilkår.
 
-3. Transportørene skal ikke være forpliktet til å innføre nye transportdokumenter dersom alle opplysninger nevnt i nr. 1 fremgår av eksisterende transportdokumenter, og det på grunnlag av disse dokumenter, registreringsordningen og transportørenes regnskaper er mulig å foreta en fullstendig undersøkelse av transportpriser og transportvilkår med sikte på å avskaffe og forhindre forskjellsbehandling i henhold til traktatens artikkel 79 paragraf 1.
+3\. Transportørene skal ikke være forpliktet til å innføre nye transportdokumenter dersom alle opplysninger nevnt i nr. 1 fremgår av eksisterende transportdokumenter, og det på grunnlag av disse dokumenter, registreringsordningen og transportørenes regnskaper er mulig å foreta en fullstendig undersøkelse av transportpriser og transportvilkår med sikte på å avskaffe og forhindre forskjellsbehandling i henhold til traktatens artikkel 79 paragraf 1.
 
-4. Transportøren skal ha ansvaret for at transportdokumentene blir utferdiget på korrekt måte.
+4\. Transportøren skal ha ansvaret for at transportdokumentene blir utferdiget på korrekt måte.
 
 ### Artikkel 7
 
-1. Bestemmelsene i artikkel 6 trer i kraft 1. juli 1961.
+1\. Bestemmelsene i artikkel 6 trer i kraft 1. juli 1961.
 
-2. Før denne dag kan Kommisjonen likevel bestemme ved forordning, etter samråd med Rådet, at artikkel 6 skal tre i kraft på et senere tidspunkt for visse, ennå ikke fastlagte typer transport, men den skal tre i kraft senest 1. januar 1964.
+2\. Før denne dag kan Kommisjonen likevel bestemme ved forordning, etter samråd med Rådet, at artikkel 6 skal tre i kraft på et senere tidspunkt for visse, ennå ikke fastlagte typer transport, men den skal tre i kraft senest 1. januar 1964.
 
 ### Artikkel 8
 
@@ -128,41 +140,41 @@ Dersom det ikke er fastsatt regler innenfor rammen av traktatens artikkel 74 og 
 
 ### Artikkel 11
 
-1. Med forbehold for anvendelsen av artikkel 5 i denne forordning skal regjeringene og foretakene på anmodning gi Kommisjonen alle nødvendige tilleggsopplysninger om takster, konvensjoner, prisavtaler og transportvilkår.
+1\. Med forbehold for anvendelsen av artikkel 5 i denne forordning skal regjeringene og foretakene på anmodning gi Kommisjonen alle nødvendige tilleggsopplysninger om takster, konvensjoner, prisavtaler og transportvilkår.
 
-2. Kommisjonen kan fastsette en frist på minst en måned for meddelelsen av slike opplysninger.
+2\. Kommisjonen kan fastsette en frist på minst en måned for meddelelsen av slike opplysninger.
 
-3. Dersom Kommisjonen anmoder et foretak om å sende den opplysninger, skal den umiddelbart underrette regjeringen i medlemsstaten der foretaket har sitt hovedkontor ved å sende regjeringen en kopi av anmodningen om opplysninger.
+3\. Dersom Kommisjonen anmoder et foretak om å sende den opplysninger, skal den umiddelbart underrette regjeringen i medlemsstaten der foretaket har sitt hovedkontor ved å sende regjeringen en kopi av anmodningen om opplysninger.
 
-4. En opplysning kan nektes gitt dersom den omhandler forhold som etter en medlemsstats oppfatning ikke kan gjøres kjent uten at det er i strid med dens vesentlige sikkerhetsinteresser.
+4\. En opplysning kan nektes gitt dersom den omhandler forhold som etter en medlemsstats oppfatning ikke kan gjøres kjent uten at det er i strid med dens vesentlige sikkerhetsinteresser.
 
 ### Artikkel 12
 
-1. Transportører som anvender forskjellige transportpriser og transportvilkår for samme varer for samme transportforbindelser på grunnlag av varenes opprinnelsesstat eller bestemmelsessted, skal på anmodning godtgjøre overfor Kommisjonen at denne fremgangsmåte ikke er en krenkelse av bestemmelsene i denne forordning.
+1\. Transportører som anvender forskjellige transportpriser og transportvilkår for samme varer for samme transportforbindelser på grunnlag av varenes opprinnelsesstat eller bestemmelsessted, skal på anmodning godtgjøre overfor Kommisjonen at denne fremgangsmåte ikke er en krenkelse av bestemmelsene i denne forordning.
 
-2. Det foreligger ingen krenkelse av bestemmelsene i denne forordning når det anvendes forskjellige transportpriser og transportvilkår utelukkende på grunn av konkurransesituasjonen mellom transportørene eller på grunn av særlige tekniske eller økonomiske driftsvilkår knyttet til den aktuelle transportforbindelse.
+2\. Det foreligger ingen krenkelse av bestemmelsene i denne forordning når det anvendes forskjellige transportpriser og transportvilkår utelukkende på grunn av konkurransesituasjonen mellom transportørene eller på grunn av særlige tekniske eller økonomiske driftsvilkår knyttet til den aktuelle transportforbindelse.
 
 ### Artikkel 13
 
-1. Speditører og transportformidlere skal på anmodning fra sin regjering eller fra Kommisjonen gi alle opplysninger om sine transportytelser og om de transportpriser og transportvilkår som anvendes.
+1\. Speditører og transportformidlere skal på anmodning fra sin regjering eller fra Kommisjonen gi alle opplysninger om sine transportytelser og om de transportpriser og transportvilkår som anvendes.
 
-2. Samme plikt skal også gjelde for foretak som yter direkte tilleggstjenester ved transport, forutsatt at deres og transportørenes vederlag inngår i en samlet pris.
+2\. Samme plikt skal også gjelde for foretak som yter direkte tilleggstjenester ved transport, forutsatt at deres og transportørenes vederlag inngår i en samlet pris.
 
-3. Bestemmelsene i artikkel 11 nr. 2, 3 og 4 skal også gjelde for anmodninger om opplysninger i henhold til denne artikkel.
+3\. Bestemmelsene i artikkel 11 nr. 2, 3 og 4 skal også gjelde for anmodninger om opplysninger i henhold til denne artikkel.
 
 ### Artikkel 14
 
-1. Medlemsstatene skal føre tilsyn med overholdelsen av de forpliktelser som er pålagt transportørene i henhold til artikkel 5 nr. 2, artikkel 6 og artikkel 11 i denne forordning, samt plikten til å gi opplysninger etter artikkel 13.For dette formål skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
+1\. Medlemsstatene skal føre tilsyn med overholdelsen av de forpliktelser som er pålagt transportørene i henhold til artikkel 5 nr. 2, artikkel 6 og artikkel 11 i denne forordning, samt plikten til å gi opplysninger etter artikkel 13.For dette formål skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
 
-2. I den utstrekning det er nødvendig for å gjennomføre denne forordning, kan Kommisjonen gi sine representanter eller sakkyndige i oppdrag å kontrollere eller føre tilsyn med at foretakene overholder de forpliktelser de er pålagt i henhold til artikkel 5, 6, 11 og 13 i denne forordning.For dette formål har Kommisjonens representanter rett og myndighet til:å kontrollere foretakenes bøker og andre forretningsdokumenter,å ta kopier eller utdrag av bøkene og dokumentene på stedet,å kreve adgang til foretakets lokaler, områder og kjøretøyer,å kreve hvilken som helst forklaring når det gjelder foretakenes bøker og forretningsdokumenter.Kommisjonens representanter skal utøve disse rettigheter ved å forevise en legitimasjon der det fremgår at de er pålagt å foreta den nødvendige kontroll i henhold til denne artikkel. De skal bringe med seg en kontrollordre med angivelse av det foretak som skal kontrolleres og av kontrollens formål. Vedkommende medlemsstat skal på forhånd på behørig måte underrettes om kontrollordren og stillingen til de personer som er pålagt å utføre kontrollen.Representanter for vedkommende medlemsstat kan på anmodning fra medlemsstaten eller fra Kommisjonen bistå Kommisjonens representanter i å utføre deres oppgaver.Dersom et foretak motsetter seg kontroll i henhold til denne forordning, skal vedkommende medlemsstat gi Kommisjonens representanter den bistand de trenger for å gjennomføre sine kontrolloppdrag. For å oppnå dette skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
+2\. I den utstrekning det er nødvendig for å gjennomføre denne forordning, kan Kommisjonen gi sine representanter eller sakkyndige i oppdrag å kontrollere eller føre tilsyn med at foretakene overholder de forpliktelser de er pålagt i henhold til artikkel 5, 6, 11 og 13 i denne forordning.For dette formål har Kommisjonens representanter rett og myndighet til:å kontrollere foretakenes bøker og andre forretningsdokumenter,å ta kopier eller utdrag av bøkene og dokumentene på stedet,å kreve adgang til foretakets lokaler, områder og kjøretøyer,å kreve hvilken som helst forklaring når det gjelder foretakenes bøker og forretningsdokumenter.Kommisjonens representanter skal utøve disse rettigheter ved å forevise en legitimasjon der det fremgår at de er pålagt å foreta den nødvendige kontroll i henhold til denne artikkel. De skal bringe med seg en kontrollordre med angivelse av det foretak som skal kontrolleres og av kontrollens formål. Vedkommende medlemsstat skal på forhånd på behørig måte underrettes om kontrollordren og stillingen til de personer som er pålagt å utføre kontrollen.Representanter for vedkommende medlemsstat kan på anmodning fra medlemsstaten eller fra Kommisjonen bistå Kommisjonens representanter i å utføre deres oppgaver.Dersom et foretak motsetter seg kontroll i henhold til denne forordning, skal vedkommende medlemsstat gi Kommisjonens representanter den bistand de trenger for å gjennomføre sine kontrolloppdrag. For å oppnå dette skal medlemsstatene etter samråd med Kommisjonen treffe de nødvendige tiltak før 1. juli 1961.
 
-3. Alle personer som deltar i kontroll i henhold til denne artikkel, er undergitt taushetsplikt i samsvar med traktatens artikkel 214.
+3\. Alle personer som deltar i kontroll i henhold til denne artikkel, er undergitt taushetsplikt i samsvar med traktatens artikkel 214.
 
 ### Artikkel 15
 
-1. Med forbehold for bestemmelsene i traktatens artikkel 79 paragraf 4 skal Kommisjonen og medlemsstatene påse at alle forhold de har fått kjennskap til på grunnlag av artikkel 5, 11, 13 og 14, blir behandlet fortrolig.
+1\. Med forbehold for bestemmelsene i traktatens artikkel 79 paragraf 4 skal Kommisjonen og medlemsstatene påse at alle forhold de har fått kjennskap til på grunnlag av artikkel 5, 11, 13 og 14, blir behandlet fortrolig.
 
-2. Med mindre Rådet enstemmig gjør annet vedtak, skal opplysninger innhentet på denne måte bare benyttes til å gjennomføre denne forordning.
+2\. Med mindre Rådet enstemmig gjør annet vedtak, skal opplysninger innhentet på denne måte bare benyttes til å gjennomføre denne forordning.
 
 ### Artikkel 16
 
@@ -170,17 +182,17 @@ Medlemsstatene skal etter samråd med Kommisjonen og innen fristen nevnt i artik
 
 ### Artikkel 17
 
-1. Dersom et foretak ikke gir de opplysninger Kommisjonen har anmodet om i henhold til artikkel 11 eller 13 innen den fastsatte fristen, eller dersom det forsettlig gir uriktige opplysninger, kan Kommisjonen i samsvar med traktatens artikkel 79 paragraf 3 annet ledd gjøre vedtak om sanksjoner der foretaket pålegges å betale inntil femhundre regneenheter, og fastsette en ny frist for å gi de opplysninger det anmodes om. Dersom foretaket ikke gir de aktuelle opplysninger innen den nye fristen, kan det gjøres nytt vedtak om sanksjon.
+1\. Dersom et foretak ikke gir de opplysninger Kommisjonen har anmodet om i henhold til artikkel 11 eller 13 innen den fastsatte fristen, eller dersom det forsettlig gir uriktige opplysninger, kan Kommisjonen i samsvar med traktatens artikkel 79 paragraf 3 annet ledd gjøre vedtak om sanksjoner der foretaket pålegges å betale inntil femhundre regneenheter, og fastsette en ny frist for å gi de opplysninger det anmodes om. Dersom foretaket ikke gir de aktuelle opplysninger innen den nye fristen, kan det gjøres nytt vedtak om sanksjon.
 
-2. Slike sanksjoner kan imidlertid vedtas bare dersom anmodningen om opplysninger er gitt i form av et vedtak der det uttrykkelig henvises til sanksjonene nevnt i denne artikkel.
+2\. Slike sanksjoner kan imidlertid vedtas bare dersom anmodningen om opplysninger er gitt i form av et vedtak der det uttrykkelig henvises til sanksjonene nevnt i denne artikkel.
 
 ### Artikkel 18
 
-1. Dersom Kommisjonen finner det godtgjort at det foreligger forskjellsbehandling som definert i traktatens artikkel 79 paragraf 1, kan den i hvert enkelt tilfelle ved et vedtak i henhold til artikkel 79 paragraf 4 pålegge den ansvarlige transportør å betale et beløp på høyst tjue ganger den pris som ble betalt eller krevd for transporten.
+1\. Dersom Kommisjonen finner det godtgjort at det foreligger forskjellsbehandling som definert i traktatens artikkel 79 paragraf 1, kan den i hvert enkelt tilfelle ved et vedtak i henhold til artikkel 79 paragraf 4 pålegge den ansvarlige transportør å betale et beløp på høyst tjue ganger den pris som ble betalt eller krevd for transporten.
 
-2. Dersom forskjellsbehandlingen i henhold til traktatens artikkel 79 paragraf 1 fortsetter til tross for Kommisjonens vedtak om at den skal opphøre, kan Kommisjonen i hvert enkelt tilfelle og i samsvar med traktatens artikkel 79 paragraf 4 pålegge den ansvarlige transportør å betale et beløp på høyst ti tusen regneenheter.
+2\. Dersom forskjellsbehandlingen i henhold til traktatens artikkel 79 paragraf 1 fortsetter til tross for Kommisjonens vedtak om at den skal opphøre, kan Kommisjonen i hvert enkelt tilfelle og i samsvar med traktatens artikkel 79 paragraf 4 pålegge den ansvarlige transportør å betale et beløp på høyst ti tusen regneenheter.
 
-3. Før Kommisjonen vedtar sanksjoner i henhold til artikkel 17, skal den rådspørre de berørte medlemsstater og oversende dem kopier av alle dokumenter og opplysninger den har innhentet i forbindelse med undersøkelsen nevnt i traktatens artikkel 79 paragraf 4. En medlemsstat som blir rådspurt, kan innhente uttalelse fra en uavhengig nasjonal myndighet, og skal gi svar i løpet av to måneder.
+3\. Før Kommisjonen vedtar sanksjoner i henhold til artikkel 17, skal den rådspørre de berørte medlemsstater og oversende dem kopier av alle dokumenter og opplysninger den har innhentet i forbindelse med undersøkelsen nevnt i traktatens artikkel 79 paragraf 4. En medlemsstat som blir rådspurt, kan innhente uttalelse fra en uavhengig nasjonal myndighet, og skal gi svar i løpet av to måneder.
 
 ### Artikkel 19
 
@@ -210,9 +222,9 @@ Når en medlemsstat i henhold til artikkel 79 paragraf 4 anmoder om en undersøk
 
 ### Artikkel 25
 
-1. Før Kommisjonen gjør vedtak eller fastsetter sanksjoner etter artikkel 18 i denne forordning, skal den innhente uttalelser fra den berørte person eller hans representant; Kommisjonen kan utpeke en av sine representanter til å motta disse uttalelser.
+1\. Før Kommisjonen gjør vedtak eller fastsetter sanksjoner etter artikkel 18 i denne forordning, skal den innhente uttalelser fra den berørte person eller hans representant; Kommisjonen kan utpeke en av sine representanter til å motta disse uttalelser.
 
-2. Domstolen skal i henhold til traktatens artikkel 172 ha full domsmyndighet når det gjelder sanksjoner som vedtas etter artikkel 17 og 18. Kommisjonen kan ikke fullbyrde sanksjonene før klagefristen er utløpt.
+2\. Domstolen skal i henhold til traktatens artikkel 172 ha full domsmyndighet når det gjelder sanksjoner som vedtas etter artikkel 17 og 18. Kommisjonen kan ikke fullbyrde sanksjonene før klagefristen er utløpt.
 
 ### Artikkel 26
 
@@ -222,15 +234,47 @@ Denne forordning er i alle deler bindende og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 27. juni 1960.
 
+*For Rådet*
+
+P. GRÉGOIRE
+
+*Formann*
+
 ### RÅDSFORORDNING (EØF) nr. 3626/84 av 19. desember 1984 om endring av forordning nr. 11 ((EØF) nr. 11/60) om avskaffelse av forskjellsbehandling med hensyn til transportpriser og transportvilkår i henhold til artikkel 79 paragraf 3 i traktaten om opprettelse av Det europeiske økonomiske fellesskap
+
+RÅDET FOR DET EUROPEISKE FELLESSKAP HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 75,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Europaparlamentet,1
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,2 og
+
+ut fra følgende betraktninger:
 
 I henhold til rådsdirektiv [84/647/EØF](eu/31984l0647)3 har transportører som utfører transport for egen eller for en annens regning, adgang til å benytte leiebil.
 
 Definisjonen av godstransport på vei for egen regning i artikkel 9 i forordning nr. 114 ((EØF) [nr. 11/60](eu/31960r0011*)) utelukker bruk av leiebil. Det er derfor nødvendig å endre nevnte forordning –
 
+1 EFT nr. C 10 av 16.1.1984, s. 91.
+
+2 EFT nr. C 35 av 9.2.1984, s. 19.
+
+3 EFT nr. L 335 av 22.12.1984, s. 72.
+
+4 EFT nr. 52 av 16.8.1960, s. 1121/60.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
 Artikkel 9 første strekpunkt i forordning nr. 11 ((EØF) [nr. 11/60](eu/31960r0011*)) skal lyde:
+
+« – varene skal transporteres med transportmidler som foretaket eier, har kjøpt på avbetaling eller leier, i det siste tilfellet forutsatt at de oppfyller vilkårene i artikkel 2 i direktiv [84/647/EØF](eu/31984l0647).1
+
+1 EFT nr. L 335 av 22.12.1984, s. 72.»
 
 ### Artikkel 2
 
@@ -239,6 +283,12 @@ Denne forordning trer i kraft 1. juli 1986.
 Denne forordning er i alle deler bindende og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 19. desember 1984.
+
+*For Rådet*
+
+J. BRUTON
+
+*Formann*
 
 ### Forordning (EF) nr. 1100/2008
 

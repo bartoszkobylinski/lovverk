@@ -68,6 +68,8 @@ For gyldigheten her i riket av enkelte skilsmisser og separasjoner oppnådd i an
 
 > Endret ved [lov 22 juni 2018 nr. 50](lov/2018-06-22-50), tidligere § 6.
 
+1 Se konvensjon 6 feb 1931, jf. [lov 19 des 1969 nr. 75](lov/1969-12-19-75).
+
 ## § 8.
 
 Loven trer i kraft fra den tid Kongen fastsetter.1
@@ -75,3 +77,5 @@ Loven trer i kraft fra den tid Kongen fastsetter.1
 Fra samme tidspunkt – – –
 
 > Endret ved [lov 22 juni 2018 nr. 50](lov/2018-06-22-50), tidligere § 7.
+
+1 Fra 1 sep 1978 iflg. res. 2 juni 1978.

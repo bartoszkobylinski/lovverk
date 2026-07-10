@@ -96,6 +96,8 @@ Kommunen skal treffe vedtak om kriteriene etter andre ledd er oppfylt. Kommunen 
 
 > Tilføyd ved lov [17 juni 2016 nr. 45](lov/2016-06-17-45) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 729](forskrift/2016-06-17-729), gjelder første og annet ledd), endret ved lov [17 juni 2016 nr. 45](lov/2016-06-17-45) (ikr. 1 juli 2017 iflg. [res. 2 juni 2017 nr. 745](forskrift/2017-06-02-745), gjelder fjerde ledd). **Endres** ved lov [17 juni 2016 nr. 45](lov/2016-06-17-45) (ikr. fra den tid Kongen bestemmer, gjelder tredje ledd).
 
+1 Ikr. fra den tid Kongen bestemmer.
+
 ### § 3-3. Helsefremmende og forebyggende arbeid
 
 Kommunen skal ved ytelse av helse- og omsorgstjenester fremme helse og søke å forebygge sykdom, skade og sosiale problemer. Dette skal blant annet skje ved opplysning, råd og veiledning.
@@ -725,6 +727,8 @@ Departementet kan fastsette regler om overtredelsesgebyr til den som forsettlig 
 ### § 13-1. Ikrafttredelse
 
 Loven trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan sette de enkelte bestemmelser i loven i kraft til forskjellig tid.
+
+1 Iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252) trådte loven ikr. fra 1 jan 2012 med unntak av [§ 3-5](lov/2011-06-24-30/§3-5/ledd/3) tredje ledd og [§ 13-3](lov/2011-06-24-30/§13-3) andre ledd nr. 23, endringen i [pasientskadeloven § 1](lov/2001-06-15-53/§1) første ledd, mens [§ 13-3](lov/2011-06-24-30/§13-3/ledd/2) andre ledd nr. 15 om endringer i spesialisthelsetjenestloven, ny § 3-3, trådte ikr. 1 juli 2012. Iflg. [res. 21 mars 2014 nr. 305](forskrift/2014-03-21-305) trådte [§ 13-3](lov/2011-06-24-30/§13-3/ledd/2) andre ledd ikr. 1 apr 2014. Iflg. [res. 20 nov 2015 nr. 1334](forskrift/2015-11-20-1334) trådte [§ 3-5](lov/2011-06-24-30/§3-5/ledd/3) tredje ledd ikr. 1 jan 2016.
 
 ### § 13-2. Eldre forskrifter mv.
 

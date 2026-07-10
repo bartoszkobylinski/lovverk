@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om opptak, gjennomføring av studier, eksamen og klageregler ved Fagskolen Oslo
 
+Alle henvisninger til paragrafer i «forskriften» i dette dokumentet, viser til denne forskriften hvis ikke annet er spesifisert.
+
 ## Kapittel 1. Generelle bestemmelser
 
 ### § 1-1. Virkeområde
@@ -85,6 +87,8 @@ Fagskolen Oslo er tilknyttet studentsamskipnaden. Medlemskapskontingent i studen
 (3) Studentorganet skal høres i alle saker som angår studentene.
 
 (4) Studentene skal være representert i alle kollegiale organer som tildeles beslutningsmyndighet ved fagskolen.
+
+Bestemmelsene er fastsatt med hjemmel i [fagskoleloven § 14](lov/2018-06-08-28/§14).
 
 ### § 2-5. Studentombud
 
@@ -151,6 +155,8 @@ Bestemmelsene om gyldighet for tidligere ordninger i videregående skoler går f
 (1) Søkere som er tatt opp som student ved Fagskolen Oslo, kan etter søknad få to års utsettelse av studiestart ved sykdom, svangerskap/barsel, verneplikt eller andre tungtveiende grunner.
 
 (2) Søknad med dokumentasjon sendes fagskolen innen tre uker fra tilbudet om studieplass ble mottatt.
+
+Bestemmelsen går frem av [fagskoleforskriften § 13](forskrift/2019-07-11-1005/§13).
 
 ### § 3-9. Rangering av søkere ved opptak
 
@@ -236,7 +242,11 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 (5) Studenter som er innvilget permisjon, har rett til å gjenoppta utdanningen på samme nivå som før permisjonene.
 
+Bestemmelsene om permisjon går frem av [fagskoleloven § 28](lov/2018-06-08-28/§28) og [§ 28a](lov/2018-06-08-28/§28a).
+
 ## Kapittel 5. Vurdering, eksamen og sensur
+
+Fastsatt med hjemmel i [fagskoleloven §§ 21](lov/2018-06-08-28/§21) og [22](lov/2018-06-08-28/§22).
 
 ### § 5-1. Vurderingsgrunnlaget for karakter i emnene
 
@@ -258,7 +268,16 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 (1) Emnekarakter og eksamenskarakter kan være basert på ulike former og måter studentene viser sine prestasjoner. De kan også bli vist individuelt eller i en gruppesituasjon. I de ulike emnene skal det velges den/de vurderingsformene som på en god måte kan få frem studentenes prestasjoner sett opp mot emnets læringsutbytte.
 
-(2) Vurderingsformen for det enkelte emne skal gå frem av studieplanen. Ved fagskolen kan blant annet følgende vurderingsformer, eller kombinasjon av disse, benyttes:Skriftlig eksamen med tilsynSkriftlig, individuell eksamen arrangert i et eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Eksamens varighet i antall timer skal gå frem av skolens eksamensplan. Eksamenen kan gjennomføres på papir eller digitalt.Muntlig eksamenEksamen der studenten/-ene blir eksaminerte muntlig.Muntlig eksamen med skriftlig forberedelsesdelStudenten forbereder seg skriftlig før eksamenen alene eller i samarbeid med andre. Studenten/-ene blir eksaminerte med utgangspunkt i den skriftlige delen. Det er kun studentenes prestasjon på den muntlige delen som karaktersettes.Praktisk eksamenVurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon.Skriftlig eksamen uten tilsyn (hjemmeeksamen)Skriftlig eksamen der studentene blir tildelt oppgave på et fastsatt tidspunkt, og med fastsatt frist for innlevering. Skriftlig eksamen uten tilsyn kan være individuell eller i gruppe og kan gjennomføres hjemme og/eller på skolen eventuelt andre steder. Antall eksamensdager skal gå frem av studieplanen.Skriftlig-muntlig eksamenEksamen som består av både en skriftlig og en muntlig del, og det settes en samlet karakter basert på vurderingen av begge delene.
+(2) Vurderingsformen for det enkelte emne skal gå frem av studieplanen. Ved fagskolen kan blant annet følgende vurderingsformer, eller kombinasjon av disse, benyttes:
+
+|  |  |
+| --- | --- |
+| Skriftlig eksamen med tilsyn | Skriftlig, individuell eksamen arrangert i et eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Eksamens varighet i antall timer skal gå frem av skolens eksamensplan. Eksamenen kan gjennomføres på papir eller digitalt. |
+| Muntlig eksamen | Eksamen der studenten/-ene blir eksaminerte muntlig. |
+| Muntlig eksamen med skriftlig forberedelsesdel | Studenten forbereder seg skriftlig før eksamenen alene eller i samarbeid med andre. Studenten/-ene blir eksaminerte med utgangspunkt i den skriftlige delen. Det er kun studentenes prestasjon på den muntlige delen som karaktersettes. |
+| Praktisk eksamen | Vurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon. |
+| Skriftlig eksamen uten tilsyn (hjemmeeksamen) | Skriftlig eksamen der studentene blir tildelt oppgave på et fastsatt tidspunkt, og med fastsatt frist for innlevering. Skriftlig eksamen uten tilsyn kan være individuell eller i gruppe og kan gjennomføres hjemme og/eller på skolen eventuelt andre steder. Antall eksamensdager skal gå frem av studieplanen. |
+| Skriftlig-muntlig eksamen | Eksamen som består av både en skriftlig og en muntlig del, og det settes en samlet karakter basert på vurderingen av begge delene. |
 
 (3) Alle skriftlige eksamener, både med og uten tilsyn, blir tildelt et kandidatnummer gjennom pålogging på prøvesystemet (Wiseflow).
 
@@ -270,9 +289,25 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 (1) Karakteren ved avsluttende vurdering, enten det er emnekarakter eller eksamenskarakter, skal være Bestått / Ikke bestått eller en gradert skala. Den graderte skalaen har fem trinn fra A til E for bestått, og med F for ikke bestått.
 
-(2) Den graderte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Den graderte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:
 
-(3) Den todelte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:BeståttBesvarelsen/presentasjonen viser at studenten har faglig kunnskap innen hele emnet, og god kunnskap innen de mest sentrale områdene. Kravet om bred kunnskap i emnet betyr at det ikke kan være store kunnskapshull i deler av emnet. Manglende eller utilfredsstillende besvarelse av enkelte oppgaver kan derfor ikke kompenseres ved svært god besvarelse av andre. Oppgavene kan likevel vektes ulikt under vurderingen, avhengig av hvor sentrale de er for emnet.Ikke beståttBesvarelsen/presentasjonen viser at studenten har mangelfull kunnskap innen sentrale områder som inngår i emnet. Studenten har ikke tilstrekkelig faglig kunnskap, ferdigheter eller generell kompetanse til å kunne anvende det oppnådde læringsutbyttet fra emnet på en selvstendig måte.
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
+
+(3) Den todelte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:
+
+|  |  |
+| --- | --- |
+| Bestått | Besvarelsen/presentasjonen viser at studenten har faglig kunnskap innen hele emnet, og god kunnskap innen de mest sentrale områdene. Kravet om bred kunnskap i emnet betyr at det ikke kan være store kunnskapshull i deler av emnet. Manglende eller utilfredsstillende besvarelse av enkelte oppgaver kan derfor ikke kompenseres ved svært god besvarelse av andre. Oppgavene kan likevel vektes ulikt under vurderingen, avhengig av hvor sentrale de er for emnet. |
+| Ikke bestått | Besvarelsen/presentasjonen viser at studenten har mangelfull kunnskap innen sentrale områder som inngår i emnet. Studenten har ikke tilstrekkelig faglig kunnskap, ferdigheter eller generell kompetanse til å kunne anvende det oppnådde læringsutbyttet fra emnet på en selvstendig måte. |
+
+Grunnlaget for bestemmelsen går frem av [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40).
 
 ### § 5-5. Betingelser for emnekarakter
 
@@ -398,6 +433,8 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 
 ### § 5-16. Oppnevning av sensorer og ekstern vurdering
 
+Fastsatt med hjemmel i [fagskoleloven § 21](lov/2018-06-08-28/§21).
+
 (1) Styret har delegert til rektor at det oppnevnes sensor(er).
 
 (2) Ved fastsettelse av emnekarakter er faglærer(e) sensor/sensorer.
@@ -427,6 +464,8 @@ En student mister tildelt studieplass dersom studenten ikke har møtt til studie
 (14) Styret kan fastsette utfyllende retningslinjer for sensurering.
 
 ## Kapittel 6. Dokumentasjon
+
+Fastsatt med hjemmel i [fagskoleloven § 19](lov/2018-06-08-28/§19), [fagskoleforskriften § 38](forskrift/2019-07-11-1005/§38) og [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7).
 
 ### § 6-1. Vitnemål
 
@@ -526,7 +565,34 @@ Fastsatt med hjemmel i [fagskoleloven § 20](lov/2018-06-08-28/§20), [§ 22](lo
 
 (2) Ifølge [forvaltningsloven § 2](lov/1967-02-10/§2) b er et enkeltvedtak et vedtak som gjelder rettigheter og plikter til en eller flere bestemte personer. Det er ikke klagerett på administrative avgjørelser som for eksempel tid og sted for eksamen.
 
-(3) I denne forskriften er det angitt følgende enkeltvedtak som det kan klages på:*Vedtak handler om**Hvem fatter vedtaket**Klageorgan*Opptak – spesielle kravFagskolen (stud.adm.)Lokal klagenemndOpptak – realkompetansevurderingFagskolen (stud.adm.)Lokal klagenemndOpptak – ellers/ordinærtFagskolen (stud.adm.)Nasjonal klagenemndGodskriving – deler av studietFagskolen (stud.adm)Lokal klagenemndFritak – deler av studietFagskolen (stud.adm)Lokal klagenemndPermisjonFagskolen (stud.adm)Lokal klagenemndIndividuell tilrettelegging – studiestedFagskolen (stud.adm)Lokal klagenemndIndividuell tilrettelegging – eksamenFagskolen (stud.adm.)Lokal klagenemndIkke godkjent arbeidskrav som medfører ikke bestått emneFagskolen (faglærer)Lokal klagenemnd eller ny sensurIkke grunnlag for å gå opp til eksamenFagskolen (stud.adm.)Lokal klagenemndEksamenskarakterSensor (én ekstern)Ny ekstern sensorFormelle forhold ved eksamenFagskolen (ikke vedtak)Lokal klagenemndEmnekarakterSensor (faglærer)Ny sensorFormelle forhold fastsetting karakterFagskolen (ikke vedtak)Lokal klagenemndIkke godkjent fravær – eksamenFagskolen (stud.adm.)Lokal klagenemndDisp. fra krav om bestått emner for studieprogresjonrektorLokal klagenemndDisp. for antall ganger tilbud om ny innlevering arbeidskrav / ny eksamen og krav til obligatorisk oppmøterektorLokal klagenemndAnnullering karakterLokal klagenemndNasjonal klagenemndAnnullering fritak / godkjenning deler studiumLokal klagenemndNasjonal klagenemndBortvisningLokal klagenemndNasjonal klagenemndTap av studierettFagskolen (rektor)Lokal klagenemndStudent ikke skikketLokal klagenemndNasjonal klagenemndUtestenging deler studiet pga. politiattestLokal klagenemndNasjonal klagenemndUtestenging hele studietLokal klagenemndNasjonal klagenemnd
+(3) I denne forskriften er det angitt følgende enkeltvedtak som det kan klages på:
+
+| *Vedtak handler om* | *Hvem fatter vedtaket* | *Klageorgan* |
+| --- | --- | --- |
+| Opptak – spesielle krav | Fagskolen (stud.adm.) | Lokal klagenemnd |
+| Opptak – realkompetansevurdering | Fagskolen (stud.adm.) | Lokal klagenemnd |
+| Opptak – ellers/ordinært | Fagskolen (stud.adm.) | Nasjonal klagenemnd |
+| Godskriving – deler av studiet | Fagskolen (stud.adm) | Lokal klagenemnd |
+| Fritak – deler av studiet | Fagskolen (stud.adm) | Lokal klagenemnd |
+| Permisjon | Fagskolen (stud.adm) | Lokal klagenemnd |
+| Individuell tilrettelegging – studiested | Fagskolen (stud.adm) | Lokal klagenemnd |
+| Individuell tilrettelegging – eksamen | Fagskolen (stud.adm.) | Lokal klagenemnd |
+| Ikke godkjent arbeidskrav som medfører ikke bestått emne | Fagskolen (faglærer) | Lokal klagenemnd eller ny sensur |
+| Ikke grunnlag for å gå opp til eksamen | Fagskolen (stud.adm.) | Lokal klagenemnd |
+| Eksamenskarakter | Sensor (én ekstern) | Ny ekstern sensor |
+| Formelle forhold ved eksamen | Fagskolen (ikke vedtak) | Lokal klagenemnd |
+| Emnekarakter | Sensor (faglærer) | Ny sensor |
+| Formelle forhold fastsetting karakter | Fagskolen (ikke vedtak) | Lokal klagenemnd |
+| Ikke godkjent fravær – eksamen | Fagskolen (stud.adm.) | Lokal klagenemnd |
+| Disp. fra krav om bestått emner for studieprogresjon | rektor | Lokal klagenemnd |
+| Disp. for antall ganger tilbud om ny innlevering arbeidskrav / ny eksamen og krav til obligatorisk oppmøte | rektor | Lokal klagenemnd |
+| Annullering karakter | Lokal klagenemnd | Nasjonal klagenemnd |
+| Annullering fritak / godkjenning deler studium | Lokal klagenemnd | Nasjonal klagenemnd |
+| Bortvisning | Lokal klagenemnd | Nasjonal klagenemnd |
+| Tap av studierett | Fagskolen (rektor) | Lokal klagenemnd |
+| Student ikke skikket | Lokal klagenemnd | Nasjonal klagenemnd |
+| Utestenging deler studiet pga. politiattest | Lokal klagenemnd | Nasjonal klagenemnd |
+| Utestenging hele studiet | Lokal klagenemnd | Nasjonal klagenemnd |
 
 (4) Lokal klagenemnd opprettet ved Fagskolen Oslo, skal behandle klager på enkeltvedtak som er gjort etter denne forskriften med mindre Nasjonalt klageorgan er klageinstans. Klagesaker som ikke gjelder enkeltvedtak, behandles av skolens rektor. Klagenemndas vedtak på klager der fagskolen har fattet vedtaket som førsteinstans, er endelig og kan ikke påklages.
 
@@ -565,6 +631,8 @@ Fastsatt med hjemmel i [fagskoleloven § 20](lov/2018-06-08-28/§20), [§ 22](lo
 (6) Fagskolen eller klageinstansen kan bestemme at det skal foretas ny sensur eller holdes ny eksamen, prøve eller lignende hvis det er begått formelle feil som kan ha hatt betydning for én eller flere studenters prestasjon eller bedømmelse av denne, selv om disse ikke har klagd.
 
 ### § 9-4. Rett til begrunnelse for karakterfastsetting
+
+Fastsatt med hjemmel i [fagskoleloven § 22](lov/2018-06-08-28/§22).
 
 (1) En student har rett til å få en begrunnelse for karakterfastsettingen. Dette gjelder både eksamenskarakter og for alle arbeidskrav eller annet som inngår i avsluttende vurdering med emnekarakter. Ved muntlig eksamen, muntlig fremføring eller vurdering av praktiske ferdigheter må krav om begrunnelse fremsettes umiddelbart etter at karakteren er formidlet.
 

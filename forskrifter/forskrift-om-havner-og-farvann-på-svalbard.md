@@ -86,6 +86,8 @@ Losbordingsfeltene på Svalbard er på de geografiske koordinatene angitt nedenf
 
 Farvann innenfor grunnlinjen på Svalbard som etter § 3 første ledd bokstav d nr. 2 er fritatt fra losplikt ved seilas til eller fra losbordingsfelt bestemmes ved å trekke rette linjer mellom de geografiske koordinatene angitt nedenfor:
 
+*Isfjorden*
+
 1. N 78° 06′ Ø 013° 22′
 2. N 78° 08′ Ø 014° 00′
 3. N 78° 16′ Ø 015° 14′

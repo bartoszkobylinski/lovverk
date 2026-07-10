@@ -72,9 +72,17 @@ Departementet kan frita for eller sette ned avgiften når det oppstår enkelttil
 
 ## II
 
+– – –
+
 ## III
 
+– – –
+
 ## IV
+
+Fra den tid departementet bestemmer, skal satsene i § 1 bokstav c og d for naturgass og LPG til kjemisk reduksjon eller elektrolyse, metallurgiske og mineralogiske prosesser være henholdsvis kr 0,82 per Sm3 og kr 1,23 per kg.
+
+§ 5 ny bokstav e skal lyde:
 
 1. kjemisk reduksjon eller elektrolyse, metallurgiske og mineralogiske prosesser dersom bruken gir kvotepliktige utslipp.
 

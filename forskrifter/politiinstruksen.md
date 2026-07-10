@@ -94,6 +94,8 @@ Politiutstyr som nevnt i 3. og 4. ledd skal være godkjent av Justisdepartemente
 
 Dersom politiets bruk av makt medfører skade på person eller eiendom, eller situasjonen tilsier at det kan bli klaget over politiets handlemåte, skal vedkommende politimann innrapportere forholdet til sin foresatte umiddelbart. Denne rapportering bør være skriftlig.
 
+1 Politidirektoratet iflg. [vedtak 16 nov 2000 nr. 1154](forskrift/2000-11-16-1154).
+
 ## Tredje del. Alminnelige regler for politimenns personlige forhold og opptreden
 
 ### Kap. 4. Personlig forhold.
@@ -119,6 +121,8 @@ Når det finnes påkrevet av tjenestemessige grunner, kan politimesteren bestemm
 Politimannen skal varsle den foresatte snarest mulig når har på grunn av sykdom, annen arbeidsudyktighet eller andre forhold ikke kan tiltre eller utføre pliktig tjeneste.
 
 > Endret ved instruks [10 des 2021 nr. 3466](forskrift/2021-12-10-3466) (i kraft 1 jan 2022).
+
+1 Politidirektoratet iflg. [vedtak 16 nov 2000 nr. 1154](forskrift/2000-11-16-1154).
 
 ### Kap. 5. Forholdet til publikum.
 

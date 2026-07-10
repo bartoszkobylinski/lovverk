@@ -24,9 +24,9 @@ eu_basis: []
 
 ## § 1. Virkeområdet for reglene – Uttrykkene arbeidsgiver og arbeidstaker
 
-1. Disse reglene gjelder for beregning og fastsettelse av arbeidsgiveravgift etter [lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd med utfyllende forskrifter.
+1\. Disse reglene gjelder for beregning og fastsettelse av arbeidsgiveravgift etter [lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd med utfyllende forskrifter.
 
-2. Med arbeidsgiver i disse reglene forstås den som er pliktig til å svare arbeidsgiveravgift etter folketrygdloven med utfyllende forskrifter, og med arbeidstaker den som mottar godtgjørelse arbeidsgiveren plikter å svare arbeidsgiveravgift av.
+2\. Med arbeidsgiver i disse reglene forstås den som er pliktig til å svare arbeidsgiveravgift etter folketrygdloven med utfyllende forskrifter, og med arbeidstaker den som mottar godtgjørelse arbeidsgiveren plikter å svare arbeidsgiveravgift av.
 
 > Endret ved [forskrift 19 des 2008 nr. 1537](forskrift/2008-12-19-1537) (i kraft 1 jan 2009).
 
@@ -62,9 +62,9 @@ Fastsettelse av arbeidsgiveravgift i medhold av [skatteforvaltningsloven § 12-1
 
 ## § 7. Om arbeidsgiverens plikt til å gi opplysninger og legge fram regnskap m.v.
 
-1. Skattekontoret og den som har fullmakt fra skattekontoret, kan til enhver tid kreve fremlagt arbeidsgiverens regnskap med bilag, lønningslister, noteringer, kontrakter, korrespondanse eller andre dokumenter av betydning for kontrollen av arbeidsgiveravgiften.
+1\. Skattekontoret og den som har fullmakt fra skattekontoret, kan til enhver tid kreve fremlagt arbeidsgiverens regnskap med bilag, lønningslister, noteringer, kontrakter, korrespondanse eller andre dokumenter av betydning for kontrollen av arbeidsgiveravgiften.
 
-2. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for kontrollen av arbeidsgiveravgiften og for fastsettelsen av avgiften og avgiftsgrunnlaget etter [skatteforvaltningsloven § 8-6](lov/2016-05-27-14/§8-6).
+2\. Arbeidsgiveren plikter på anmodning å gi fullstendige opplysninger om forhold som kontrollmyndighetene finner er av betydning for kontrollen av arbeidsgiveravgiften og for fastsettelsen av avgiften og avgiftsgrunnlaget etter [skatteforvaltningsloven § 8-6](lov/2016-05-27-14/§8-6).
 
 > Endret ved [forskrifter 19 des 2007 nr. 1552](forskrift/2007-12-19-1552) (i kraft 1 jan 2008), [26 mars 2010 nr. 465](forskrift/2010-03-26-465) (i kraft 1 april 2010, tidligere § 6), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [12 okt 2020 nr. 2018](forskrift/2020-10-12-2018) (i kraft 1 nov 2020), [9 jan 2023 nr. 25](forskrift/2023-01-09-25) (i kraft 1 jan 2023).
 

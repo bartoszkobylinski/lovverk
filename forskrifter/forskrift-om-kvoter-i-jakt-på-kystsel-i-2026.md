@@ -28,7 +28,21 @@ Det er forbudt å drive jakt på sel langs norskekysten.
 
 ## § 2. Steinkobbe
 
-Personer som har tillatelse til å delta i jakt på kystsel i henhold til [forskrift 22. desember 2009 nr. 1745 om regulering av sel på norskekysten § 5](forskrift/2009-12-22-1745/§5), kan jakte følgende totalkvoter av steinkobbe:*Fylke**Område**Kvote*Østfold fylkeØstfold52Vestfold fylkeVestfold50Telemark fylkeTelemark18Rogaland fylkeRogaland50Vestland fylkeSogn og Fjordane20Møre og Romsdal fylkeMøre og Romsdal29Trøndelag fylkeSør-Trøndelag36Nord-Trøndelag14Nordland fylkeNordland59Troms fylkeTroms57Finnmark fylkeFinnmark84
+Personer som har tillatelse til å delta i jakt på kystsel i henhold til [forskrift 22. desember 2009 nr. 1745 om regulering av sel på norskekysten § 5](forskrift/2009-12-22-1745/§5), kan jakte følgende totalkvoter av steinkobbe:
+
+| *Fylke* | *Område* | *Kvote* |
+| --- | --- | --- |
+| Østfold fylke | Østfold | 52 |
+| Vestfold fylke | Vestfold | 50 |
+| Telemark fylke | Telemark | 18 |
+| Rogaland fylke | Rogaland | 50 |
+| Vestland fylke | Sogn og Fjordane | 20 |
+| Møre og Romsdal fylke | Møre og Romsdal | 29 |
+| Trøndelag fylke | Sør-Trøndelag | 36 |
+| Nord-Trøndelag | 14 |  |
+| Nordland fylke | Nordland | 59 |
+| Troms fylke | Troms | 57 |
+| Finnmark fylke | Finnmark | 84 |
 
 Det er forbudt å drive jakt på steinkobbe i Lysefjorden i Rogaland fylke.
 

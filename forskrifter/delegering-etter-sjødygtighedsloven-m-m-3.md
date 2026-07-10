@@ -26,15 +26,27 @@ eu_basis: []
 
 Klima- og miljødepartementet delegerer herved til Sjøfartsdirektoratet myndighet til å gi forskrifter og treffe enkeltvedtak etter følgende bestemmelser i [lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v.:
 
+*§ 1 tredje ledd:*
+
 Delegeringen omfatter myndighet til å fastsette om de forskrifter som Sjøfartsdirektoratet gir i medhold av lovens kapittel 11 også skal gjelde forskip av mindre drektighet enn 50 registertonn brutto,boreplattformer og andre flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster, samt flyttbare innretninger til hjelp for slik virksomhet,flytekran, flytedokk, mudderapparat og andre flytende innretninger.
+
+*§ 1 fjerde ledd:*
 
 Sjøfartsdirektoratet gis myndighet til å bestemme at de forskrifter som gis i medhold av kapittel 11 også skal gjelde for utenlandske skip og innretninger som nevnt ovenfor, når de befinner seg i indre norske farvann. Med mindre annet følger av regler som er anerkjent i folkeretten eller av overenskomst med fremmed stat, kan Sjøfartsdirektoratet også gi forskriftene anvendelse på utenlandske skip og innretninger som nevnt, når de befinner seg på norsk sjøterritorium, eller norsk del av kontinentalsokkelen, eller i Norges økonomiske sone.
 
+*§ 114 nr. 1-6:*
+
 Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak omtransport av skadelige stoffer, herunder bestemmelser om kvantum, emballering og stuing,lasting og lossing av skip som fører skadelige stoffer,bunkring,hvilke skadelige stoffer som det er forbudt å slippe ut i sjø, vassdrag og luft, i hvilke områder utslipp kan foretas og hvilke forholdsregler som skal tas ved utslipp,konstruksjon og utrustning av skipet, og at det om bord skal være sertifikat som viser at skipet er konstruert og utrustet i overensstemmelse med slike bestemmelser,at det om bord skal føres en særskilt dagbok for behandling av skadelige stoffer.
+
+*§ 117:*
 
 Sjøfartsdirektoratet gis myndighet til å gi forskrifter om gjennomføringen av tilsynet.
 
+*§ 119:*
+
 Sjøfartsdirektoratet gis myndighet til å gi forskrifter og treffe enkeltvedtak om at skip som ikke har gyldig sertifikat om bord fastsatt i medhold av § 114 nr. 5 ikke får seile under norsk flagg.
+
+*§ 124 første og annet ledd:*
 
 Sjøfartsdirektoratet gis myndighet til å legge tvangsmulkt for den som ikke etterkommer pålegg gitt i medhold av bestemmelsene i kapittel 11. Sjøfartsdirektoratet kan også beslutte at ilagt tvangsmulkt skal frafalles når det finnes rimelig.
 

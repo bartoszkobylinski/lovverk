@@ -106,8 +106,12 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 
 > Endret ved [lover 18 des 2009 nr. 135](lov/2009-12-18-135), [21 juni 2019 nr. 31](lov/2019-06-21-31) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804), tidligere § 8).
 
+1 Fra 1 jan 2006 iflg. [res. 21 des 2005 nr. 1610](forskrift/2005-12-21-1610).
+
 ## § 12.
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:[Lov 22. juni 1990 nr. 36](lov/1990-06-22-36) om Statens petroleumsfond oppheves.
+
+– – –
 
 > Endret ved [lov 21 juni 2019 nr. 31](lov/2019-06-21-31) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 804](forskrift/2019-06-21-804), tidligere § 9).

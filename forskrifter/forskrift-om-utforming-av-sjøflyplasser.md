@@ -24,7 +24,7 @@ eu_basis: []
 
 Vedlegg 1 (illustrasjoner) gjelder som forskrift.
 
-(Bestemmelser som er merket med * under teksten har veiledende materiale i BSL E del 2.)
+(Bestemmelser som er merket med \* under teksten har veiledende materiale i BSL E del 2.)
 
 ## § 1. Formål
 
@@ -62,7 +62,7 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 Eventuelle krav til taksekanaler fastsettes av Luftfartstilsynet i hvert enkelt tilfelle, og skal fremgå av godkjenningsdokumentet.
 
-*
+\*
 
 ## § 7. Krav til fortøyningsanlegg og flyoppstillingsplasser m.m.
 
@@ -70,7 +70,7 @@ Eventuelle krav til taksekanaler fastsettes av Luftfartstilsynet i hvert enkelt 
 
 (2) *Plassering*Fortøyningsanlegg og flyoppstillingsplasser, herunder bøyer, skal ikke være slik plassert at de er til hinder for trafikk til og fra landings- og startområdet.
 
-(3) *Andre krav*Eventuelle andre krav til fortøyningsanlegg, flyoppstillingsplasser m.m. fastsettes av Luftfartstilsynet i hvert enkelt tilfelle, og skal fremgå av godkjenningsdokumentet.*
+(3) *Andre krav*Eventuelle andre krav til fortøyningsanlegg, flyoppstillingsplasser m.m. fastsettes av Luftfartstilsynet i hvert enkelt tilfelle, og skal fremgå av godkjenningsdokumentet.\*
 
 ## § 8. Krav til merking av landings- og startområdet mv.
 
@@ -90,7 +90,7 @@ Eventuelle krav til merking av landings- og startområdets utstrekning, taksekan
 
 (1) *Fjerning av hinder*Alle faste og bevegelige hindre skal i utgangspunktet fjernes.Innenfor landings- og startområdet skal alle faste hindre fjernes.Alle faste og bevegelige hindre som ikke kan fjernes skal være gjenstand for en risikoanalyse. Ved risikoanalysen skal det vurderes hvilken flysikkerhetsmessig risiko hindrene representerer og hvilke kompenserende tiltak som må fastsettes for å ivareta flysikkerheten. Kompenserende tiltak fastsettes av Luftfartstilsynet i forbindelse med godkjenningen av flyplassen, og skal fremgå av godkjenningsdokumentet.Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:Endring av hinderets høyde, masse og brekkbarhetBegrensninger på hvilke luftfartøy som kan bruke plassenBegrensninger på trafikkmengdenSpesielle inn- og utflygingsprosedyrerSærlige krav til operatører og fartøysjefer som kan bruke plassenAlle faste hindre som ikke kan fjernes, skal kunngjøres, jf. [§ 12](forskrift/2002-12-03-1383/§12) femte ledd nedenfor, og eventuelt merkes, jf. [§ 10](forskrift/2002-12-03-1383/§10) annet ledd nedenfor, og eventuelt belyses, jf. [§ 11](forskrift/2002-12-03-1383/§11) nedenfor.
 
-(2) *Merking av faste hindre*Alle faste hindre som ikke kan fjernes, skal merkes dersom ikke hindret har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.*Faste hindre som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.Faste hindre som skal merkes, skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.*Faste hindre som skal merkes og som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.
+(2) *Merking av faste hindre*Alle faste hindre som ikke kan fjernes, skal merkes dersom ikke hindret har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.\*Faste hindre som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.Faste hindre som skal merkes, skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.\*Faste hindre som skal merkes og som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.
 
 ## § 11. Krav til lysanlegg
 
@@ -130,10 +130,18 @@ Denne forskrift gjelder fra 1. januar 2003. Fra samme tidspunkt oppheves [forskr
 
 ## Veiledning til BSL E 3-4
 
+*Anm. til [§ 6](forskrift/2002-12-03-1383/§6):*
+
 En bredde på 40-50 meter er normalt tilstrekkelig til å ivareta manøvreringsbehov, vindkast etc.
+
+*Anm. til [§ 7](forskrift/2002-12-03-1383/§7) tredje ledd:*
 
 Dersom sjøflyplassen skal ha drivstoffanlegg, vises til [forskrift av 21. mars 1975 nr. 2](forskrift/1975-03-21-2) om tanking av luftfartøy (BSL D 1-10). Andre relevante bestemmelser kan være gitt av Direktoratet for brann- og elsikkerhet (DBE), Statens forurensingstilsyn (SFT), kommunale myndigheter etc.
 
+*Anm. til [§ 10](forskrift/2002-12-03-1383/§10) annet ledd bokstav a:*
+
 For merking av midlertidige og bevegelige hindre, vises til forskrift om bakketjeneste på land (BSL E 4-1).
+
+*Anm. til [§ 10](forskrift/2002-12-03-1383/§10) annet ledd bokstav c:*
 
 For nærmere detaljer vises til forskrift om rapportering og registrering av luftfartshindre (BSL E 2-3).

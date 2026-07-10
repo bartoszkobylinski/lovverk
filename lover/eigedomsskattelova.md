@@ -162,6 +162,8 @@ Kommunestyret kan fritaka desse eigedomane heilt eller delvis for eigedomsskatt:
 
 > Føyd til med [lov 15 des 2000 nr. 89](lov/2000-12-15-89) (f o m eigedomsskatteåret 2001), endra med lover [15 juni 2001 nr. 46](lov/2001-06-15-46) (f o m eigedomsskatteåret 2001), [21 des 2001 nr. 104](lov/2001-12-21-104) (f o m eigedomsskatteåret 2001), [20 des 2002 nr. 95](lov/2002-12-20-95), [12 des 2003 nr. 103](lov/2003-12-12-103), [22 juni 2012 nr. 44](lov/2012-06-22-44) som endra med [lov 7 des 2012 nr. 79](lov/2012-12-07-79) (f o m skatteåret 2013), tidlegare § 8A-1.
 
+1 Inkurie: Skal vel være [forskrift 20. desember 2000 nr. 1393](forskrift/2000-12-20-1393).
+
 ### § 8 B-3. Kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg sett i drift etter 1. januar 2000
 
 (1) Kommunefordeling av grunnlaget for eigedomsskatt for kraftanlegg sett i drift etter 1. januar 2000, skal byggje på plasseringa av slike særskilte driftsmiddel i kraftanlegget som nemnt i [§ 8 B-2](lov/1975-06-06-29/§8b-2) første leden pr. 1. januar i skattefastsetjingsåret. Kommunefordelinga av skattegrunnlaget skal skje i same høve som kostpris for dei særskilte driftsmiddel i kraftanlegget som ligg i den einskilde kommune, har til samla kostpris for alle særskilte driftsmiddel i kraftanlegget. Har slike kraftanlegg kraftstasjonar med installert effekt over 1.000 kW som ligg nedanfor eldre reguleringsanlegg, skal det takast omsyn til reguleringsanlegget med tilhøyrande driftsmiddel med dei verdiar som nemnt i [§ 8 B-2](lov/1975-06-06-29/§8b-2) første og andre leden.
@@ -298,6 +300,8 @@ Er eigedomen bortleigd og skal leigaren svara eigedomsskatten, har leigaren like
 
 > Endra med lover [29 juni 2007 nr. 50](lov/2007-06-29-50) (ikr. 1 jan 2008 iflg. [res. 7 des 2007 nr. 1370](forskrift/2007-12-07-1370)), [22 juni 2012 nr. 44](lov/2012-06-22-44) (f o m skatteåret 2013), [7 des 2012 nr. 73](lov/2012-12-07-73) (f o m skatteåret 2014), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)).
 
+1 Inkurie: Siste punktum er truleg ein inkurie, for den samme ordninga av verdsetjingane som var føresetnaden, er ikkje gjort.
+
 ### § 20
 
 Klage vert avgjort av ei nemnd som kommunestyret vel, dersom ikkje kommunen tar klagen til følgje. Kommunestyret kan anten opprette ei eiga nemnd til å ta seg av oppgåvene eller leggje oppgåvene til ei anna kommunal nemnd.
@@ -409,3 +413,5 @@ Denne lova, bortsett frå [§§ 8](lov/1975-06-06-29/§8), [9](lov/1975-06-06-29
 [§§ 8](lov/1975-06-06-29/§8), [9](lov/1975-06-06-29/§9), [17](lov/1975-06-06-29/§17) andre leden, og 18-22 i denne lova tek til å gjelda frå den tid1 som vert fastsett av Kongen.
 
 > Endra med lover 16 des 1977 nr. 93, [14 des 2007 nr. 101](lov/2007-12-14-101), [22 juni 2012 nr. 44](lov/2012-06-22-44) (f o m skatteåret 2013).
+
+1 Frå 1 jan 2001 med verknad for anlegg for produksjon av elektrisk kraft, iflg. [res. 17 juli 1998 nr. 613](forskrift/1998-07-17-613) med endringar [16 okt 1998 nr. 955](forskrift/1998-10-16-955), [1 des 2000 nr. 1195](forskrift/2000-12-01-1195), [30 nov 2001 nr. 1320](forskrift/2001-11-30-1320) og [27 juni 2003 nr. 799](forskrift/2003-06-27-799). Etter seinare endringar av desse lovføresegnene er dei no alle ikr. utan atterhald, fråsett [§§ 8](lov/1975-06-06-29/§8) og [22](lov/1975-06-06-29/§22), som er oppheva, og [§ 19](lov/1975-06-06-29/§19) (3) første og tredje punktum.

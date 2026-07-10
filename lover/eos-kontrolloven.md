@@ -277,3 +277,5 @@ Sakkyndige godtgjøres etter [salærforskriften](forskrift/1997-12-03-1441). And
 Forsettlig eller grov uaktsom overtredelse av [§ 8](lov/1995-02-03-7/§8) første og annet ledd, [§ 9](lov/1995-02-03-7/§9) første og tredje ledd, [§ 11](lov/1995-02-03-7/§11) første og annet ledd og [§ 19](lov/1995-02-03-7/§19) annet ledd i denne lov straffes med bøter eller fengsel inntil 1 år, hvis ikke strengere straffebestemmelse får anvendelse.
 
 > Tilføyd ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95) – tidl. § 11. Se noten til [§ 1](lov/1995-02-03-7/§1).
+
+1 Inkurie: Loven trådte etter [§ 12](lov/1995-02-03-7/§12) opprinnelig i kraft straks. Endringen ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95), hvor hele loven ble gitt på nytt, videreførte ikke ikrafttredelsesparagrafen.

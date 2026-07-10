@@ -180,7 +180,22 @@ Aktører har frist til innen utgangen av 31. desember for å søke om unntak fra
 
 ### § 19a. Årlige elsertifikatkvoter
 
-Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall oppgitt i følgende tabell:*Beregningsår for elsertifikatkvoten**Elsertifikatkvoten*20240,18320250,19020260,17220270,14720280,12520290,10120300,08320310,06620320,04920330,03320340,01620350,008
+Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall oppgitt i følgende tabell:
+
+| *Beregningsår for elsertifikatkvoten* | *Elsertifikatkvoten* |
+| --- | --- |
+| 2024 | 0,183 |
+| 2025 | 0,190 |
+| 2026 | 0,172 |
+| 2027 | 0,147 |
+| 2028 | 0,125 |
+| 2029 | 0,101 |
+| 2030 | 0,083 |
+| 2031 | 0,066 |
+| 2032 | 0,049 |
+| 2033 | 0,033 |
+| 2034 | 0,016 |
+| 2035 | 0,008 |
 
 > Tilføyd ved [forskrift 27 nov 2017 nr. 1835](forskrift/2017-11-27-1835) (i kraft 1 jan 2018), endret ved forskrifter [31 okt 2018 nr. 1637](forskrift/2018-10-31-1637) (i kraft 1 jan 2019), [16 sep 2019 nr. 1287](forskrift/2019-09-16-1287) (i kraft 1 jan 2020), [8 juli 2020 nr. 1526](forskrift/2020-07-08-1526) (i kraft 1 jan 2021), [21 des 2021 nr. 3870](forskrift/2021-12-21-3870) (i kraft 1 jan 2022), [21 des 2022 nr. 2412](forskrift/2022-12-21-2412) (i kraft 1 jan 2023), [20 des 2023 nr. 2231](forskrift/2023-12-20-2231) (i kraft 1 jan 2024), [5 nov 2024 nr. 2660](forskrift/2024-11-05-2660) (i kraft 1 jan 2025), [2 des 2025 nr. 2408](forskrift/2025-12-02-2408) (i kraft 1 jan 2026).
 
@@ -340,6 +355,8 @@ Følgende informasjon skal gis i søknad om godkjenning:Type søknad (godkjennin
 
 Tiltak som kan gi varig økt produksjonsevne i eksisterende vannkraftverk grupperes slik:Økt slukeevne, økt magasinvolum, nye overføringer. Disse effektene av tiltak innebærer at kraftstasjonen vil kunne utnytte et større årlig vannvolum.Økt brutto fallhøyde, redusert falltap. Disse effektene kan gi en høyere energiproduksjon fra det samme tilsiget.Økt virkningsgrad på fast utstyr. Med økt virkningsgrad forstås økt virkningsgrad på turbin, generator og/eller stasjonens transformator.
 
+1\. *Dokumentasjon*
+
 Den økte produksjonsevnen skal dokumenteres i søknaden om godkjenning for å bli elsertifikatberettiget. Søknaden skal inneholde dokumentasjon på investeringer og tiltak og søkers vurdering av økningen i produksjon på grunn av tiltakene.
 
 Tiltak som faller inn under a) eller b), som nevnt innledningsvis i vedlegg 2, skal dokumenteres med målsatte tegninger/bilder.
@@ -352,7 +369,7 @@ Søknader som gjelder varig økt produksjonsevne fra eksisterende vannkraftverk 
 
 Middeltilsig og middelproduksjon, som referert til i bokstavene a) og b) ovenfor, både før og etter investering, skal refereres til det av NVE bestemte hydrologiske grunnlag.
 
-Midlere brutto fallhøyde skal beregnes på følgende måte: $$H_{m,brt} = HRV - \frac 13 \times (HRV - LRV) - UV$$
+Midlere brutto fallhøyde skal beregnes på følgende måte: $$H_{m,brt} = HRV - \\frac 13 \\times (HRV - LRV) - UV$$
 der
 *Hm,brt* = Midlere brutto fallhøyde; meter
 HRV = Høyeste regulerte vannstand; meter over havet
@@ -361,11 +378,17 @@ UV = Undervann/høyde for utløp, meter over havet.
 
 Denne definisjonen kan fravikes ved flerårsmagasiner og ved små inntaksmagasiner hvor det bestrebes å holde en høy vannstand.
 
-Dersom undervann (UV) er regulert, beregnes denne som $$UV = HRV - \frac 13 \times (HRV - LRV)$$
+Dersom undervann (UV) er regulert, beregnes denne som $$UV = HRV - \\frac 13 \\times (HRV - LRV)$$
+
+2\. *Beregning av effekten av økt slukeevne, økt magasinvolum, nye overføringer*
 
 Disse effektene innebærer at kraftverket kan utnytte en større del av tilsiget og/eller et større tilsig. Produksjonsøkningen som tilskrives disse effektene beregnes basert på hydrologisk grunnlag fastsatt av NVE.
 
+3\. *Beregning av effekten av økt fallhøyde, redusert falltap*
+
 Disse effektene innebærer at tilsiget gir mer energi ved at det i inntakspunktet har en høyere stillingsenergi. Den høyere energiekvivalenten skal benyttes på årstilsiget, og den årlige produksjonsøkningen skal beregnes ut fra tilsigsserier fastsatt av NVE.
+
+4\. *Beregning av effekten av økt virkningsgrad på turbin*
 
 Denne effekten innebærer at energitilsiget øker. Virkningsgradsmålingene skal gjøres i fire driftspunkt, der to av dem skal være ved stasjonens vanligste driftspunkter. Fordelingen av produksjonen over de fire driftspunktene skal også oppgis. Den årlige produksjonsøkningen skal beregnes ut fra tilsigsserier fastsatt av NVE.
 
@@ -373,11 +396,17 @@ Dersom tiltaket som gir produksjonsøkning bare omfatter noen aggregater skal de
 
 Dersom det ikke er mulig eller faglig forsvarlig å gjennomføre virkningsgradsmålinger, kan søkeren som et alternativ til virkningsgradsmålinger vise til et formelverk som gir standardverdier på gevinsten i form av økt virkningsgrad ved utskifting av turbin. Dette formelverket fastsettes av NVE.
 
+5\. *Beregning av effekten av økt virkningsgrad på annet fast* utstyr
+
 Ny generator gir et fast påslag på ett prosentpoeng. Ny transformator gir et fast påslag på ett prosentpoeng for kraftverk under 10 MW. For større kraftverk må bedret virkningsgrad dokumenteres.
 
 Investeringer i annen type fast utstyr i kraftverket som gir økt virkningsgrad kan også komme i betraktning, dersom NVE finner at det er gitt tilfredsstillende dokumentasjon på dette.
 
+6\. *Kraftverk i serie*
+
 Søknad om godkjenning for elsertifikater er per kraftverk. Investeringer som ikke direkte kan knyttes til ett kraftverk skal i søknaden knyttes til ett eller fordeles på flere. Søkeren skal allokere produksjonsøkningen til spesifiserte kraftverk.
+
+7\. *Pumping*
 
 Energi brukt til pumping av vann skal trekkes fra den totale økning i energiproduksjon.
 
@@ -393,9 +422,13 @@ Eksisterende termiske kraftproduksjonsanlegg som bygges om for å erstatte bruk 
 
 ## Vedlegg 4. Fastsetting av fornybarandel i termiske produksjonsanlegg med blandede energikilder
 
+*Prosedyre*
+
 Innehaver av produksjonsanlegget melder inn fornybarandelen i foregående måned innen den 10. hver måned.
 
 For innmelding av fornybarandel brukes eget skjema som sendes til registeransvarlig, med kopi til NVE. Skjemaet kan fås ved henvendelse til NVE.
+
+*Beregningsmetodikk for fornybarandel*
 
 Utgangspunktet for fastsetting av fornybarandelen i et termisk produksjonsanlegg med blandede energikilder er energikildenes nedre brennverdi. Leverer anlegget både kraft og varme skal samme fornybarandel anvendes for både kraft- og varmeproduksjon.*Avfall*Fornybarandel og energiinnhold ved forbrenning av avfall kan fastsettes på grunnlag av gjennomsnittsverdier. NVE fastsetter gjennomsnittsverdier som baseres på analyser utført i samarbeid med bransjen for følgende avfallstyper:*Husholdningsavfall:* Restavfall fra husholdninger samlet inn gjennom den kommunale renovasjonsordningen.*Sortert næringsavfall:* Restavfall fra næringer, normalt uten eller med lite våtorganisk avfall, som har gjennomgått en forbehandling i sorteringsanlegg, eller enklere forbehandling, før det leveres som brensel. Bygg- og anleggsavfall (BA) inngår i denne kategorien.*Usortert næringsavfall:* Restavfall fra næringer som normalt er samlet inn via beholder eller containerrenovasjon i forretninger, kontor, privat og offentlig tjenesteytende virksomheter mv. Kategorien inneholder normalt mye våtorganisk avfall på nivå med husholdningsavfall. Avfallet blir levert direkte til forbrenning med energiutnyttelse uten forbehandling eller bare med kverning som forbehandling.*Brennbart restavfall fra gjenvinningsstasjon:* Omfatter både husholdnings- og næringsavfall som leveres på gjenvinningsstasjon og sorteres som brennbart restavfall.For annet næringsavfall, som ikke kan fordeles på de kategoriene som er nevnt ovenfor, må fornybarandelen fastsettes gjennom egne analyser, gjennomført av en profesjonell og uavhengig tredjepart.*Trevirke*For trevirke benyttes standardiserte brennverdier. Benyttes trevirke med varierende grad av fuktighet, må denne dokumenteres. Gjennomsnittsverdi for energiinnhold i anvendt trevirke kan brukes hvis denne er beregnet av en profesjonell og uavhengig tredjepart.
 

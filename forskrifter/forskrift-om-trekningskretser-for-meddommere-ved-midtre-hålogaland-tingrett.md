@@ -26,10 +26,14 @@ eu_basis: []
 
 Midtre Hålogaland tingrett deles i tre trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Trondenes (rettssted Hárstták/Harstad)
+
 - Hárstták/Harstad kommune
 - Ibestad kommune
 - Kvæfjord kommune
 - Dielddanuorri/Tjeldsund kommune.
+
+Trekningskrets 2 Ofoten (rettssted Narvik)
 
 - Evenes kommune
 - Gratangen kommune
@@ -37,6 +41,8 @@ Midtre Hålogaland tingrett deles i tre trekningskretser for meddommere. Kommune
 - Lødingen kommune
 - Narvik kommune
 - Salangen kommune.
+
+Trekningskrets 3 Vesterålen (rettssted Suortá/Sortland)
 
 - Andøy kommune
 - Bø kommune

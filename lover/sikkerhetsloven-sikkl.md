@@ -704,6 +704,8 @@ Forsøk på overtredelser som nevnt i første til fjerde ledd straffes på samme
 
 Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.
 
+1 Fra 1 jan 2019 iflg. [res. 20 des 2018 nr. 2052](forskrift/2018-12-20-2052), se dens nr. 2 for overgangsregler.
+
 ### § 12-2. Opphevelse
 
 Fra det tidspunktet loven trer i kraft, oppheves [lov 20. mars 1998 nr. 10](lov/1998-03-20-10) om forebyggende sikkerhetstjeneste.

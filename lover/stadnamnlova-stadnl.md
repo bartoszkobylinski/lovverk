@@ -179,3 +179,5 @@ Denne lova gjeld frå den tid Kongen fastset.1
 Frå same tid blir det gjort følgjande endring i [lov av 23. juni 1978 nr. 70](lov/1978-06-23-70) om kartlegging, deling og registrering av grunneiendom (delingsloven): – – –
 
 > Endra med [lov 10 juni 2005 nr. 53](lov/2005-06-10-53) (ikr. 1 aug 2006 iflg. [res. 10 juni 2005 nr. 533](forskrift/2005-06-10-533)), tidlegare § 13, endra med [lov 21 juni 2019 nr. 59](lov/2019-06-21-59) (ikr. 1 juli 2019), tidlegare § 14.
+
+1 Frå 1 juli 1991 iflg. [res. 18 mai 1990 nr. 361](forskrift/1990-05-18-361).

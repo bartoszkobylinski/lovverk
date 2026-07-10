@@ -92,7 +92,12 @@ eu_basis: []
 
 ## § 10.
 
-(1) Statens finansfond skal plassere den enkelte bank i en av tre risikoklasser basert på objektive kriterier. Plassering i risikoklasse ligger fast gjennom løpetiden. Banker med en ekstern kredittvurdering (rating) fra et godkjent kredittvurderingsselskap (ratingbyrå) skal plasseres i følgende risikoklasse:*Risikoklasse**1**2**3*RatingAA – eller bedreFra A- til A+BBB+ eller lavereeller tilsvarende under annen inndeling av klassereller tilsvarende under annen inndeling av klassereller tilsvarende under annen inndeling av klasser
+(1) Statens finansfond skal plassere den enkelte bank i en av tre risikoklasser basert på objektive kriterier. Plassering i risikoklasse ligger fast gjennom løpetiden. Banker med en ekstern kredittvurdering (rating) fra et godkjent kredittvurderingsselskap (ratingbyrå) skal plasseres i følgende risikoklasse:
+
+| *Risikoklasse* | *1* | *2* | *3* |
+| --- | --- | --- | --- |
+| Rating | AA – eller bedre | Fra A- til A+ | BBB+ eller lavere |
+|  | eller tilsvarende under annen inndeling av klasser | eller tilsvarende under annen inndeling av klasser | eller tilsvarende under annen inndeling av klasser |
 
 (2) Banker uten ekstern kredittvurdering (rating) fra et godkjent kredittvurderingsselskap (ratingbyrå) kan plasseres i de tre risikoklassene ved å sammenligne disse bankene med ratede banker på en rekke underliggende faktorer, herunder kjernekapitaldekning, totalavkastning, sammensetning av og kredittkvalitet på utlånsporteføljen, innskuddsdekning, tap og risikoeksponering.
 

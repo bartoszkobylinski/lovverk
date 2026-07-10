@@ -49,3 +49,5 @@ Kongen kan gjeva nærare føresegner til gjennomføring av lova.
 ## § 5.
 
 Kongen fastsett kva dag1 lova skal taka til å gjelda.
+
+1 Frå 15 sep 1967 iflg. res. 25 aug 1967.

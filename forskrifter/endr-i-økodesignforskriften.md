@@ -25,12 +25,18 @@ eu_basis: []
 
 ## I
 
-Forordning [(EU) 2024/1834](eu/32024r1834) om vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW, som inntatt i [EØS-avtalen vedlegg II kapittel IV](avtale/avt-1992-05-02-1-v2/kapIV) nr. 6z og vedlegg IV nr. 26za, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II, vedlegg IV](avtale/avt-1992-05-02-1-v2/kapIV), protokoll 1 til avtalen og avtalen for øvrig.
+I [forskrift 23. februar 2011 nr. 190 om miljøvennlig utforming av energirelaterte produkter (økodesignforskriften)](forskrift/2011-02-23-190) gjøres følgende endring:
+
+[§ 23](forskrift/2011-02-23-190/§23) skal lyde:
 
 ## II
 
 Forskriften trer i kraft 24. juli 2026, med de presiseringer som fremgår av forordning [(EU) 2024/1834](eu/32024r1834) artikkel 10.
 
 ## Forordninger
+
+Under avsnittet «Forordninger» tilføyes:
+
+For å lese forordning [(EU) 2024/1834](eu/32024r1834) se her: [pdf-fil](static/SF/32024r1834u-01.pdf)
 
 Uoffisiell norsk oversettelse.

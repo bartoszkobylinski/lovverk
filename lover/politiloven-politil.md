@@ -660,6 +660,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 Forskrifter, herunder kommunale vedtekter, som er gitt med hjemmel i lover som oppheves i [§ 32](lov/1995-08-04-53/§32) nr. 1, forblir gjeldende inntil de er erstattet med nye forskrifter såfremt de ikke strider mot bestemmelse i denne lov.
 
+1 Fra 1 okt 1995 iflg. [res. 4 aug 1995 nr. 748](forskrift/1995-08-04-748).
+
 ### § 32. Endring i andre lover
 
 – – –

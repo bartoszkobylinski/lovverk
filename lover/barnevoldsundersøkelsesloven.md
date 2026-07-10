@@ -150,6 +150,8 @@ Retten til innsyn etter [personvernforordningen artikkel 15](lov/2018-06-15-38/g
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1. juli 2026 iflg. [res. 29 mai 2026 nr. 920](forskrift/2026-05-29-920).
+
 ## § 19. Endringer i andre lover
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i [lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd](lov/2006-05-19-16): – – –

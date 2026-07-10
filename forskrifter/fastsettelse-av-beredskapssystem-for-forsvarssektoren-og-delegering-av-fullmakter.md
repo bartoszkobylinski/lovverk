@@ -27,3 +27,5 @@ eu_basis: []
 3. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]
 4. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]
 5. [Kongelig resolusjon av 10. april 2015](forskrift/2015-04-10-348) om fastsettelse av Beredskapssystem for forsvarssektoren oppheves.
+
+1 Vedlegget er gradert BEGRENSET jf. [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).

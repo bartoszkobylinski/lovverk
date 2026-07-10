@@ -90,6 +90,8 @@ Skip som skal foreta operasjoner eller gå i transitt i et område som er define
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
+1 Jf. Resolusjon MSC.147(77) – adopted 29.05.2003; og MSC/Circ.1072.
+
 ### § 8. Sårbarhetsvurdering (SSA)
 
 (1) Det skal utarbeides en sårbarhetsvurdering som beskrevet i ISPS-kodens del A, seksjon 8.
@@ -319,6 +321,8 @@ Skipet skal ha en hensiktsmessig beredskapsplan for håndtering av sikkerhetstru
 Se her for å lese forordning [(EF) nr. 725/2004](eu/32004r0725):1 [(pdf)](static/SF/32004r0725.pdf)
 
 > Tilføyd ved [forskrift 4 feb 2005 nr. 119](forskrift/2005-02-04-119).
+
+1 Oversettelsen i pdf-format er uoffisiell.
 
 ## Vedlegg 2
 

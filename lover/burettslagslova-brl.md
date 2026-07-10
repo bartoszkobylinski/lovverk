@@ -1376,6 +1376,8 @@ Avtale om at tvist mellom andelseigaren og laget skal avgjerast ved skilsdom ell
 
 > Endra ved lov [17 juni 2005 nr. 94](lov/2005-06-17-94) (ikr. 15 aug 2005 iflg. [res. 1 juli 2005 nr. 753](forskrift/2005-07-01-753)).
 
+1 Med [res. 19 des 2003 nr. 1766](forskrift/2003-12-19-1766) vart § 1-5, § 14-12 nr. 11 ny § 3a i eigarseksjonslova, og § 14-12 nr. 13 sett ikr. 1 jan 2004. Etter [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603) trådte lova ikr. 15 aug 2005, med unntak av § 2-13, § 5-20, § 5-21 (4), [§ 5-23](lov/2003-06-06-39/§5-23) (2), kapittel 6, [§ 13-5](lov/2003-06-06-39/§13-5), [§ 14-5](lov/2003-06-06-39/§14-5) (2), [§ 14-6](lov/2003-06-06-39/§14-6) (2), [§ 14-8](lov/2003-06-06-39/§14-8) (6), [§ 14-9](lov/2003-06-06-39/§14-9), [§ 14-12](lov/2003-06-06-39/§14-12) nr. 3, [§ 14-12](lov/2003-06-06-39/§14-12) nr. 8. Med [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626) er desse paragrafene sett ikr. 1 juli 2006.2 Frå 15 aug 2005 iflg. [res. 17 juni 2005 nr. 603](forskrift/2005-06-17-603).
+
 ### II Overgangsreglar
 
 ### § 14-2. Tilknytte lag

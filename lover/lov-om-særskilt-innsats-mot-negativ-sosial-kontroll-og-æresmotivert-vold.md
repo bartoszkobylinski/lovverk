@@ -63,3 +63,5 @@ Departementet kan gi forskrift om deling av personopplysninger etter denne loven
 ## § 6. Ikrafttredelse
 
 Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
+
+1 Fra 1. juli 2026 iflg. [res. 12 juni 2026 nr. 1075](forskrift/2026-06-12-1075).

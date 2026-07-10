@@ -165,3 +165,5 @@ Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha til
 ### § 6-1. Ikrafttredelse
 
 Forskriften gjelder fra den tid departementet bestemmer.1 Departementet kan sette i kraft ulike deler av forskriften til ulike tider.
+
+1 I kraft 1. september 2019 iflg. [vedtak 26 juni 2019 nr. 912](forskrift/2019-06-26-912).

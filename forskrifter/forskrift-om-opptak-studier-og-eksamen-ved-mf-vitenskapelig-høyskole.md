@@ -199,13 +199,13 @@ For program der gjennomføringen av praksis er gjenstand for en faglig vurdering
 
 Studiene ved MF vitenskapelig høyskole er organisert i studier og studieprogram, som består av flere emner. Alle studieprogram skal ha en programplan. Alle emner skal ha en emnebeskrivelse.
 
-1. *Programplaner skal fastsette:*Graden og studieprogrammets omfang, innhold og opptakskrav, og studieprogrammets mål og utforming og dets ulike studieretninger.Omtale av programmets studieretning gjør greie forstudieretningens særpreg og overordnede mål,hvordan studiet er bygd opp, og hvordan emnene faglig hører sammen,for bachelorstudier: Krav til fordypningsenhet,ulike krav til sammensetning og rekkefølge av emner,hvilke emner som må eller kan inngå i programmet,studiets organisering og arbeidsformer,karakterskala og vurderingskriterier,andre bestemmelser om kvalitetssikringen av studiet.
+1\. *Programplaner skal fastsette:*Graden og studieprogrammets omfang, innhold og opptakskrav, og studieprogrammets mål og utforming og dets ulike studieretninger.Omtale av programmets studieretning gjør greie forstudieretningens særpreg og overordnede mål,hvordan studiet er bygd opp, og hvordan emnene faglig hører sammen,for bachelorstudier: Krav til fordypningsenhet,ulike krav til sammensetning og rekkefølge av emner,hvilke emner som må eller kan inngå i programmet,studiets organisering og arbeidsformer,karakterskala og vurderingskriterier,andre bestemmelser om kvalitetssikringen av studiet.
 
-2. *Emnebeskrivelser angir*Tittel og omfang.Studiekrav, vurderingsformer, mål og innhold, organisering og arbeidsform.Eventuelle krav eller anbefalinger om forkunnskaper for hvert emne og for hvilke studieprogram og programplaner emnet kan inngå i.Når emnet undervises, og når det er mulig å avlegge eksamen i emnet.Eventuelle særlige vilkår for å gå opp til eksamen, slik som obligatoriske skriftlige arbeider, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.Emnene skal ha et omfang på minimum 5 studiepoeng og normalt ha en emnestørrelse som er delelig med 5. Til alle emner hvor det inngår studiekrav utover skriftlig eksamen, skal det før semesterstart utarbeides et emneark/emnehefte som beskriver hvordan studenten skal kunne oppfylle gjeldende studiekrav.
+2\. *Emnebeskrivelser angir*Tittel og omfang.Studiekrav, vurderingsformer, mål og innhold, organisering og arbeidsform.Eventuelle krav eller anbefalinger om forkunnskaper for hvert emne og for hvilke studieprogram og programplaner emnet kan inngå i.Når emnet undervises, og når det er mulig å avlegge eksamen i emnet.Eventuelle særlige vilkår for å gå opp til eksamen, slik som obligatoriske skriftlige arbeider, faglige ekskursjoner, feltkurs eller andre teoretiske og praktiske øvinger.Emnene skal ha et omfang på minimum 5 studiepoeng og normalt ha en emnestørrelse som er delelig med 5. Til alle emner hvor det inngår studiekrav utover skriftlig eksamen, skal det før semesterstart utarbeides et emneark/emnehefte som beskriver hvordan studenten skal kunne oppfylle gjeldende studiekrav.
 
-3. *Emnekatalog*Ved institusjonen utarbeides det én eller flere emnekatalog(er) som gir en faglig og organisatorisk beskrivelse av alle emner som det kan undervises og avlegges eksamen i ved MF vitenskapelig høyskole. I tillegg inneholder emnekatalogen lister over tillatte hjelpemidler.
+3\. *Emnekatalog*Ved institusjonen utarbeides det én eller flere emnekatalog(er) som gir en faglig og organisatorisk beskrivelse av alle emner som det kan undervises og avlegges eksamen i ved MF vitenskapelig høyskole. I tillegg inneholder emnekatalogen lister over tillatte hjelpemidler.
 
-4. *Generelle bestemmelser om emner*100-emner kan normalt bare inngå i bachelorgraden. Unntatt fra dette er språkemner og enkelte redskapsfag (som sosiologi eller psykologi), som kan inngå i mastergraden når de fungerer som faglig spesialisering.200-emner inngår normalt i bachelorgraden, men kan også i visse tilfeller inngå i mastergraden.500- og 600-emner kan normalt bare inngå i høyere grads studier.Nærmere bestemmelser kan fastsettes i programplanene.
+4\. *Generelle bestemmelser om emner*100-emner kan normalt bare inngå i bachelorgraden. Unntatt fra dette er språkemner og enkelte redskapsfag (som sosiologi eller psykologi), som kan inngå i mastergraden når de fungerer som faglig spesialisering.200-emner inngår normalt i bachelorgraden, men kan også i visse tilfeller inngå i mastergraden.500- og 600-emner kan normalt bare inngå i høyere grads studier.Nærmere bestemmelser kan fastsettes i programplanene.
 
 > Endret ved [forskrift 30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
 
@@ -373,15 +373,48 @@ Klagenemnda kan annullere eksamen eller annen vurdering, eller godkjenning av em
 
 Enhver eksamen skal føre fram til et vurderingsuttrykk (karakter). Karakteren skal angis på en av to måter; entenSom «Bestått» eller «Ikke bestått», ev. «Pass/Fail», ellerSom en bokstav, etter skalaen A, B, C, D, E, F. De ulike verdiene skal gis etter følgende allmenne kriterier:
 
+*Bokmål*
+
+| *Symbol* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet |
+| B | Meget god | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder |
+| D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene |
+
+*Nynorsk*
+
+| *Symbol* | *Nemning* | *Generell, kvalitativ omtale av vurderingskriterium* |
+| --- | --- | --- |
+| A | Framifrå | Ein framifrå prestasjon som skil seg klart ut. Syner stor grad av sjølvstende |
+| B | Mykje god | Ein mykje god prestasjon som ligg over gjennomsnittet. Syner evne til sjølvstende |
+| C | God | Ein gjennomsnittleg prestasjon som er tilfredsstillande på dei fleste områda |
+| D | Nokså god | Ein prestasjon under gjennomsnittet, med ein del vesentlege manglar |
+| E | Tilstrekkeleg | Ein prestasjon som tilfredsstiller minstekrava, men heller ikkje meir |
+| F | Ikkje greidd | Ein prestasjon som ikkje tilfredsstiller minstekrava |
+
+*Engelsk*
+
+| *Grade* | *Grade* | *Definition* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. Shows a high degree of independence |
+| B | Very good | A very good performance, above average. Shows a certain degree of independence |
+| C | Good | An average performance, satisfactory in most areas |
+| D | Satisfactory | A performance below average, and with significant shortcomings |
+| E | Sufficient | A performance that meets the minimum criteria |
+| F | Fail | A performance that does not meet the minimum criteria |
+
 ### § 39. Vekting av karakter, gjennomsnittskarakter og hovedkarakter
 
-1. *Vekting av karakter*Den vekt den enkelte karakter skal gis ved utregning av gjennomsnittskarakter i et emne eller en emnegruppe, eller ved utregning av hovedkarakter. Vekten skal angis i programplanen eller emnebeskrivelsen som en brøk av den samlede karakteren.
+1\. *Vekting av karakter*Den vekt den enkelte karakter skal gis ved utregning av gjennomsnittskarakter i et emne eller en emnegruppe, eller ved utregning av hovedkarakter. Vekten skal angis i programplanen eller emnebeskrivelsen som en brøk av den samlede karakteren.
 
-2. *Gjennomsnittskarakter*En samlet karakter for et emne eller en emnegruppe. For emner skal gjennomsnittskarakteren regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A = «65»; B = «64»; C = «63»; D = «62»; E = «61». Disse tallverdiene brukes for at de ikke kan forveksles med tallkarakterer tilhørende de tidligere karaktersystemer ved MF vitenskapelig høyskole.For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til emnebeskrivelsen, og alle produktene summeres og divideres med det totale antall studiepoeng.Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.For emnegrupper regnes gjennomsnittskarakteren ut på tilsvarende måte, likevel slik at tallekvivalenten for hvert emne som inngår, skal multipliseres med emnets studiepoeng, og produktsummen divideres med det totale antallet studiepoeng som inngår i gjennomsnittskarakteren.Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.Gjennomsnittskarakteren angis som et bokstavsymbol dersom minst 75% av eksamenene i emnet eller emnegruppen, regnet etter vekt, er gitt bokstavkarakter. Ellers skal gjennomsnittkarakteren angis som «Bestått» eller «Ikke bestått».
+2\. *Gjennomsnittskarakter*En samlet karakter for et emne eller en emnegruppe. For emner skal gjennomsnittskarakteren regnes ut slik:Hver bokstavkarakter erstattes av en tallekvivalent, slik at A = «65»; B = «64»; C = «63»; D = «62»; E = «61». Disse tallverdiene brukes for at de ikke kan forveksles med tallkarakterer tilhørende de tidligere karaktersystemer ved MF vitenskapelig høyskole.For hver eksamen multipliseres tallekvivalenten med den vekten vedkommende eksamen skal ha i henhold til emnebeskrivelsen, og alle produktene summeres og divideres med det totale antall studiepoeng.Produktsummen settes opp eller ned til nærmeste hele tall, etter at vanlige forhøyningsregler er brukt.Gjennomsnittskarakteren angis med det bokstavsymbolet som svarer til det tallet som kommer fram.For emnegrupper regnes gjennomsnittskarakteren ut på tilsvarende måte, likevel slik at tallekvivalenten for hvert emne som inngår, skal multipliseres med emnets studiepoeng, og produktsummen divideres med det totale antallet studiepoeng som inngår i gjennomsnittskarakteren.Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.Gjennomsnittskarakteren angis som et bokstavsymbol dersom minst 75% av eksamenene i emnet eller emnegruppen, regnet etter vekt, er gitt bokstavkarakter. Ellers skal gjennomsnittkarakteren angis som «Bestått» eller «Ikke bestått».
 
-3. *Hovedkarakter*Hovedkarakter er en samlet karakter som kan gis ved fullført grad eller utdanningsprogram. Det skal angis i programplanen om det gis hovedkarakter eller ikke. For mastergrader som bygger på fullført bachelorgrad eller tilsvarende, skal som hovedregel bare emner som inngår i mastergradsstudiet selv telle med i hovedkarakteren.Utregning av hovedkarakter skjer etter de samme prinsipper som utregningen av gjennomsnittskarakter. Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.
+3\. *Hovedkarakter*Hovedkarakter er en samlet karakter som kan gis ved fullført grad eller utdanningsprogram. Det skal angis i programplanen om det gis hovedkarakter eller ikke. For mastergrader som bygger på fullført bachelorgrad eller tilsvarende, skal som hovedregel bare emner som inngår i mastergradsstudiet selv telle med i hovedkarakteren.Utregning av hovedkarakter skjer etter de samme prinsipper som utregningen av gjennomsnittskarakter. Ved utregningen skal institusjonen tilstrebe at avrunding kun skjer én gang.
 
-4. *Justerende/korrigerende muntlig*Med justerende/korrigerende muntlig menes en muntlig prøve som ifølge emnebeskrivelsen foretas i forlengelse av en forutgående skriftlig prøving eller skriftlig arbeid.Etter at justerende/korrigerende muntlig er gjennomført, kan karakteren som er satt på den forutgående skriftlige prøven eller det forutgående skriftlige arbeidet, normalt justeres opp eller ned med én karakter. Hvis den muntlige prøven vurderes som ikke bestått, får studenten umiddelbart en ny oppgave. Slik ny muntlig prøve kan kun anvendes ved justerende/korrigerende muntlig. Vurderes også denne prøven som ikke bestått, vil også emnet i sin helhet vurderes som ikke bestått. Ved manglende frammøte til muntlig uten gyldig fraværsgrunn, skal den samlede karakteren settes til «F».
+4\. *Justerende/korrigerende muntlig*Med justerende/korrigerende muntlig menes en muntlig prøve som ifølge emnebeskrivelsen foretas i forlengelse av en forutgående skriftlig prøving eller skriftlig arbeid.Etter at justerende/korrigerende muntlig er gjennomført, kan karakteren som er satt på den forutgående skriftlige prøven eller det forutgående skriftlige arbeidet, normalt justeres opp eller ned med én karakter. Hvis den muntlige prøven vurderes som ikke bestått, får studenten umiddelbart en ny oppgave. Slik ny muntlig prøve kan kun anvendes ved justerende/korrigerende muntlig. Vurderes også denne prøven som ikke bestått, vil også emnet i sin helhet vurderes som ikke bestått. Ved manglende frammøte til muntlig uten gyldig fraværsgrunn, skal den samlede karakteren settes til «F».
 
 > Endret ved [forskrift 30 aug 2018 nr. 1670](forskrift/2018-08-30-1670).
 
@@ -525,3 +558,5 @@ Studenter som avlegger eksamen i emner som faglig sett dekker hverandre helt ell
 ### § 55. Ikrafttredelse
 
 Forskriften trer i kraft 1. januar 2006. Samtidig oppheves reglement 8. september 20031 for gradsstudier ved Det teologiske Menighetsfakultet og reglement 8. september 20031 for opptak, studier og eksamen ved Det teologiske Menighetsfakultet.
+
+1 Ikke kunngjort i Norsk Lovtidend.

@@ -28,6 +28,8 @@ eu_basis: []
 
 > Endret ved forskrift [6 mai 2025 nr. 781](forskrift/2025-05-06-781) (i kraft 1 sep 2025).
 
+1 Inkurie: Skal være nr. 17ki.
+
 ## § 2. Samsvarsvurdering
 
 Samferdselsdepartementet kan utpeke et organ som har kompetanse til å vurdere om kravene i artikkel 3 til 11 er oppfylt jf. forordning [(EU) 2022/670](eu/32022r0670) artikkel 12.

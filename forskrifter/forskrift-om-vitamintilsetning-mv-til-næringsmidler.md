@@ -212,6 +212,256 @@ Forskriften trer i kraft 1. mars 2010.
 
 ## Vedlegg 1. Vitaminer og mineraler som kan tilsettes næringsmidler, unntatt kosttilskudd, jf. [kapittel II](forskrift/2010-02-26-247/kapII)
 
+| *Næringsmiddelkategori* | *Vitamin/mineral*1,2 | *Samlet maksimalt innhold per 100 g eller 100 ml* |
+| --- | --- | --- |
+| *Brødvarer og frokostblandinger* |  |  |
+| Brød | Vitamin D | 5 µg |
+| Frokostblanding | Niacin | 11 mg |
+| Vitamin B6 | 1,4 mg |  |
+| Folsyre | 133 µg |  |
+| Kalsium | 459 mg |  |
+| *Glutenfrie produkter* |  |  |
+| Glutenfri müsli/frokostblanding | Niacin | 16 mg |
+| Vitamin B6 | 1,4 mg |  |
+| Folsyre | 183 µg |  |
+| Magnesium | 121 mg |  |
+| Jern | 5 mg |  |
+| Glutenfri- og lavprotein brød/melblandinger | Niacin | 6,4 mg |
+| Vitamin B6 | 0,6 mg |  |
+| Folsyre | 40 µg |  |
+| Jern | 8 mg |  |
+| Glutenfritt brød, knekkebrød og skorper | Niacin | 4 mg |
+| Vitamin B6 | 2,5 mg |  |
+| Folsyre | 40 µg |  |
+| Jern | 9 mg |  |
+| *Melk, syrnede melkeprodukter og vegetabilske alternativer* |  |  |
+| Melk (alle typer melk som omsettes direkte til forbruker)3 | Vitamin D | 1,0 µg |
+| Folsyre | 15 µg |  |
+| Melkebaserte drikkevarer (inklusive fermenterte og/eller aromatiserte) 3,9 | Vitamin D | 1,9 µg |
+| Vitamin C | 11,3 mg |  |
+| Niacin | 3 mg |  |
+| Vitamin B6 | 0,29 mg |  |
+| Kalsium | 120 mg |  |
+| Krom | 5 µg |  |
+| Kondensert melk | Vitamin D | 1,1 µg |
+| Vegetabilske alternativer til melkebaserte drikkevarer. Kan være aromatiserte. | Vitamin D | 1,5 µg |
+| Vitamin E | 1,8 mg |  |
+| Folsyre | 23 µg |  |
+| Kalsium | 120 mg |  |
+| Jod | 22,5 µg |  |
+| Fermenterte melkeprodukter for eksempel yoghurt (omfatter ikke drikkevarer)3. Kan være aromatiserte. | Vitamin D | 2,9 µg |
+| Vitamin C | 26 mg |  |
+| Niacin | 2,4 mg |  |
+| Vitamin B6 | 0,21 mg |  |
+| Kalsium | 120 mg |  |
+| Vegetabilske alternativer til fermenterte melkeprodukter (omfatter ikke drikkevarer). Kan være aromatiserte. | Vitamin D | 1,5 µg |
+| Vitamin E | 1,8 mg |  |
+| Vitamin C | 13,3 mg |  |
+| Kalsium | 146 mg |  |
+| Jod | 22,5 µg |  |
+| *Ost og vegetabilske alternativer* |  |  |
+| Hvitost | Vitamin D | 4,1 µg |
+| Vitamin E | 38 mg |  |
+| Prim | Vitamin D | 2,7 µg |
+| Brunost og primprodukter til barn | Vitamin D | 2,7 µg |
+| Jern | 10 mg |  |
+| Vegetabilsk alternativ til ost | Vitamin D | 5 µg |
+| Kalsium | 664 mg |  |
+| Jod | 31 µg |  |
+| *Matfett og oljer* |  |  |
+| Margarin, andre typer spisefett og bakefett industri (flytende og fast) | Vitamin A | 900 µg |
+| Vitamin D | 20 µg |  |
+| Smør | Vitamin D | 10 µg |
+| Matolje | Vitamin D | 10 µg |
+| Vitamin E | 13 mg |  |
+| *Produkter av fiskerivarer og vegetabilske alternativer* |  |  |
+| Kaviar på tube | Vitamin D | 9,5 µg |
+| Vitamin E | 4,7 mg |  |
+| Produkter brukt som alternativ til fisk | Jern | 2,1 mg |
+| *Produkter av kjøtt og vegetabilske alternativer* |  |  |
+| Leverpostei | Vitamin D | 2,5 µg |
+| Vitamin E | 2,5 mg |  |
+| Produkter brukt som alternativ til kjøtt | Jern | 8,5 mg |
+| Vegetabilsk alternativ til postei | Jern | 5,9 mg |
+| *Drikkevarer* |  |  |
+| Fruktjuice, grønnsaksjuice, nektar, smoothies og lignende | Beta-karoten | 120 µg |
+| Vitamin D | 2,5 µg |  |
+| Vitamin E | 4 mg |  |
+| Vitamin C | 96 mg |  |
+| Niacin | 3,2 mg |  |
+| Vitamin B6 | 0,3 mg |  |
+| Folsyre | 30 µg |  |
+| Magnesium | 45 mg |  |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre4 | Vitamin D | 0,89 µg |
+| Vitamin E | 3,7 mg |  |
+| Vitamin C | 40 mg |  |
+| Niacin | 8 mg |  |
+| Vitamin B6 | 1,4 mg |  |
+| Folsyre | 40 µg |  |
+| Kalsium | 60 mg |  |
+| Magnesium | 29 mg |  |
+| Selen | 0,15 µg |  |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre tilsatt koffein i en mengde over 15 mg / 100 ml4 | Vitamin D | 1,2 µg |
+| Vitamin E | 4 mg |  |
+| Vitamin C | 48 mg |  |
+| Niacin | 10 mg |  |
+| Vitamin B6 | 1,4 mg |  |
+| Folsyre | 24,4 µg |  |
+| Kalsium | 60 mg |  |
+| Magnesium | 30 mg |  |
+| Sink | 2 mg |  |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre porsjonert i mindre drikkeampuller, shots eller lignende4,5 | Niacin | 1,5 mg |
+| Vitamin B6 | 2,3 mg |  |
+| Folsyre | 15 µg |  |
+| Elektrolyttdrikker4,5,6 | Vitamin A | 290 µg |
+| Vitamin D | 2,5 µg |  |
+| Vitamin E | 4,5 mg |  |
+| Vitamin C | 35 mg |  |
+| Niacin | 7,5 mg |  |
+| Vitamin B6 | 0,9 mg |  |
+| Folsyre | 82 µg |  |
+| Kalsium | 180 mg |  |
+| Fosfor | 150 mg |  |
+| Magnesium | 60 mg |  |
+| Jern | 3 mg |  |
+| Sink | 1,5 mg |  |
+| Kobber | 0,2 mg |  |
+| Mangan | 0,4 mg |  |
+| Selen | 8,5 µg |  |
+| Krom | 20 µg |  |
+| Molybden | 17 µg |  |
+| Jod | 23 µg |  |
+| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett4,5,7 hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml). | Vitamin A | 125 µg |
+| Vitamin D | 2 µg |  |
+| Vitamin E | 2,2 mg |  |
+| Vitamin C | 32 mg |  |
+| Niacin | 2,5 mg |  |
+| Vitamin B6 | 0,6 mg |  |
+| Folsyre | 35 µg |  |
+| Kalsium | 210 mg |  |
+| Fosfor | 175 mg |  |
+| Magnesium | 60 mg |  |
+| Jern | 2,6 mg |  |
+| Sink | 1,5 mg |  |
+| Kobber | 0,3 mg |  |
+| Mangan | 0,3 mg |  |
+| Selen | 8,5 µg |  |
+| Molybden | 17 µg |  |
+| Jod | 23 µg |  |
+
+| *Næringsmiddelkategori* | *Vitamin/mineral*1,2 | *Samlet maksimalt innhold per spiseklar porsjon/måltidsbar* |
+| --- | --- | --- |
+| Måltidserstattere for vektkontroll (Produkter som er merket og markedsført som en erstatning for 1–2 hovedmåltider) | Vitamin A | 491 µg |
+| Vitamin D | 4,7 µg |  |
+| Vitamin E | 8,7 mg |  |
+| Vitamin K | 36 µg |  |
+| Vitamin C | 53 mg |  |
+| Niacin | 11 mg |  |
+| Vitamin B6 | 1,6 mg |  |
+| Folsyre | 147 µg |  |
+| Kalsium | 458 mg |  |
+| Fosfor | 552 mg |  |
+| Magnesium | 157 mg |  |
+| Jern | 11 mg |  |
+| Sink | 5 mg |  |
+| Kobber | 0,85 mg |  |
+| Mangan | 1,5 mg |  |
+| Selen | 40 µg |  |
+| Krom | 35 µg |  |
+| Molybden | 31 µg |  |
+| Jod | 100 µg |  |
+
+| *Næringsmiddelkategori* | *Vitamin/mineral*1,2 | *Samlet maksimalt innhold per 100 g pulver før utblanding* |
+| --- | --- | --- |
+| Melkebaserte drikker (1–3 år) | Vitamin A | 500 µg |
+| Vitamin D | 9,0 µg |  |
+| Vitamin E | 11 mg |  |
+| Vitamin K | 45 µg |  |
+| Vitamin C | 110 mg |  |
+| Niacin | 5,0 mg |  |
+| Vitamin B6 | 0,53 mg |  |
+| Folsyre | 145 µg |  |
+| Kalsium | 910 mg |  |
+| Fosfor | 366 mg |  |
+| Magnesium | 57 mg |  |
+| Jern | 9,5 mg |  |
+| Sink | 6 mg |  |
+| Kobber | 0,38 mg |  |
+| Mangan | 77 µg |  |
+| Fluor | 54 µg |  |
+| Selen | 12 µg |  |
+| Jod | 120 µg |  |
+
+| *Næringsmiddelkategori* | *Vitamin/mineral*1,2 | *Samlet maksimalt innhold per 100 g eller 100 ml* |
+| --- | --- | --- |
+| *Diverse* |  |  |
+| Majones | Vitamin D | 8 µg |
+| Vitamin E | 4 mg |  |
+| Krom | 10 µg |  |
+| Husholdningssalt | Jod | 2000 µg |
+| Salt (brukt som ingrediens i ulikt bakverk) | Jod | 2000 µg |
+| Salt (brukt som ingrediens i buljonger, supper, sauser, andre ferdigretter o.l.) | Jod | 2000 µg |
+| Geler markedsført i enkeltporsjonspakninger5 | Niacin | 9,6 mg |
+| Vitamin B6 | 2,3 mg |  |
+| Barer o.l. | Vitamin A | 433 µg |
+| Vitamin D | 3,6 µg |  |
+| Vitamin E | 14 mg |  |
+| Vitamin C | 85 mg |  |
+| Niacin | 21 mg |  |
+| Vitamin B6 | 2,8 mg |  |
+| Folsyre | 429 µg |  |
+| Kalsium | 428 mg |  |
+| Fosfor | 604 mg |  |
+| Magnesium | 200 mg |  |
+| Jern | 11 mg |  |
+| Sink | 6,2 mg |  |
+| Kobber | 0,83 mg |  |
+| Mangan | 1,1 mg |  |
+| Selen | 38 µg |  |
+| Krom | 40 µg |  |
+| Molybden | 50 µg |  |
+| Jod | 82,5 µg |  |
+| Vegetabilske alternativer til melkebaserte desserter | Vitamin D | 1,5 µg |
+| Kalsium | 120 mg |  |
+| Jod | 22,5 µg |  |
+| Kaffepulver o.l. (frysetørket) | Krom | 60 µg |
+| Te (trekkes i vann)8 | Vitamin C | 10 mg |
+| Niacin | 1,2 mg |  |
+| Vitamin B6 | 0,18 mg |  |
+| Sink | 0,75 mg |  |
+| Selen | 6,9 µg |  |
+| Alkoholfrie drikkevarer basert på melk og kaffe | Niacin | 6,4 mg |
+| Vitamin B6 | 0,56 mg |  |
+| Vegetabilske alternativer til «is-kaffelatte» | Vitamin D | 0,75 µg |
+| Vitamin E | 1,8 mg |  |
+| Kalsium | 120 mg |  |
+| Fluortabletter | Fluor | 2,3 mg |
+| Halspastiller | Vitamin C | 215 mg |
+| Sink | 12,3 mg |  |
+| Tyggegummi o.l. | Vitamin C | 450 mg |
+| Kalsium | 1300 mg |  |
+| Sink | 24,3 mg |  |
+| Fluor | 10 mg |  |
+| Vingummi | Niacin | 4,0 mg |
+
+1 Tilsetning av tiamin, riboflavin, vitamin B12, biotin, pantotensyre, kalium, klorid og natrium, er unntatt fra kravet om melding i [§ 4](forskrift/2010-02-26-247/§4), forutsatt at tilsetningen ikke innebærer risiko for menneskers helse.
+
+2 Indirekte tilsetning av vitaminer eller mineraler til et produkt, ved at en av ingrediensene i produktet er tilsatt vitaminer eller mineraler som følge av obligatoriske krav om slik tilsetning produksjonslandet, er unntatt fra kravet om melding i [§ 4](forskrift/2010-02-26-247/§4).
+
+3 Inkluderer laktosereduserte og laktosefrie produkter.
+
+4 Kan være pulver eller tabletter som skal løses i vann. Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes (ferdig utblandet)).
+
+5 Gjelder bare for produkter som er beregnet for personer fra og med 18 år.
+
+6 Gjelder for maksimalt anbefalt inntak på 500 ml per døgn.
+
+7 Gjelder for maksimalt anbefalt inntak på 200 ml per døgn.
+
+8 Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes).
+
+9 Kan være pulver som skal oppløses i melk. Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes (ferdig utblandet)).
+
 > Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [16 april 2024 nr. 625](forskrift/2024-04-16-625) (i kraft 19 mars 2024), [12 mars 2025 nr. 421](forskrift/2025-03-12-421).
 
 ## Vedlegg 2. Opplysninger som skal sendes inn til Mattilsynet sammen med meldinger etter § 4, om tilsetning til næringsmidler, unntatt kosttilskudd, av vitaminer eller mineraler, som ikke er i samsvar med vilkårene i vedlegg 1
@@ -225,6 +475,133 @@ Innholdet i meldingen må settes opp i den rekkefølgen og etter det oppsettet s
 > Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020).
 
 ## Vedlegg 3. Visse «andre stoffer» som kan tilsettes til næringsmidler, herunder kosttilskudd, jf. [kapittel III](forskrift/2010-02-26-247/kapIII)
+
+| *Næringsmiddelkategori* | *Navnet på stoffet og forbindelsen til stoffet (CAS-nummer)* | *Samlet maksimalt innhold i produktet og andre vilkår for bruk* |
+| --- | --- | --- |
+| *Kosttilskudd beregnet for voksne fra og med 18 år* |  | *Per anbefalt døgndose* |
+|  | Beta-alanin (107-95-9) | 2 g per anbefalt døgndose fordelt på doser av maksimalt 350 mg utover dagen. Dosene skal inntas med minst 2 timers mellomrom. |
+|  | Dokosaheksaensyre (DHA) (6217-54-5) | 1,3 g per anbefalt døgndose. |
+|  | D-Ribose (50-69-1) | 10 g per anbefalt døgndose, fordelt på to doser av maksimalt 5 g utover dagen. Dosene skal inntas med minst 5 timers mellomrom5. |
+|  | Eikosapentaensyre (EPA) (10417-94-4) | 1,8 g per anbefalt døgndose. |
+|  | Eikosapentaensyre (EPA) + Dokosaheksaensyre (DHA) (10417-94-4 og 6217-54-5) | 5 g per anbefalt døgndose. |
+|  | Hesperidin (520-26-3) | 60 mg per anbefalt døgndose. |
+|  | Hyaluronsyre (9004-61-9)<br>Natrium hyaluronat (9067-32-7) | 120 mg per anbefalt døgndose. |
+|  | Inositol (87-89-8) | 500 mg per anbefalt døgndose. |
+|  | Koenzym Q10 (Ubiquinone, 303-98-0) | 100 mg per anbefalt døgndose. |
+|  | Koffein (58-08-2) | 300 mg per anbefalt døgndose fordelt på minst 3 doser. |
+|  | Kolin (87-67-2) | 300 mg per anbefalt døgndose. |
+|  | Konjugerte linolsyrer (CLA) (2420-56-6 og 121250-47-3) | 3,5 g per anbefalt døgndose.<br><br>Skal merkes med «Bør ikke brukes lenger enn 6 måneder sammenhengende uten samråd med lege». |
+|  | Kreatin (57-00-1 og 6020-87-7) | 3 g per anbefalt døgndose.<br><br>Skal merkes med «Bør ikke brukes lenger enn 6 måneder sammenhengende uten samråd med lege». |
+|  | Kurkumin (458-37-7) | 210 mg per anbefalt døgndose. |
+|  | L-Alanin (56-41-7) | 4,5 g per anbefalt døgndose. |
+|  | L-Arginin (74-79-3 og 1119-34-2) | 6 g per anbefalt døgndose. |
+|  | L-Citrullin (372-75-8) | 2 g per anbefalt døgndose |
+|  | L-Cystein (52-90-4 og 52-89-1) | 900 mg per anbefalt døgndose. |
+|  | L-Cystin (56-89-3 og 34760-60-6) | 900 mg per anbefalt døgndose. |
+|  | L-Fenylalanin (63-91-2) | 1,2 g per anbefalt døgndose. |
+|  | L-Glutamin (56-85-9) | 20 g per anbefalt døgndose. |
+|  | L-Glutaminsyre (56-86-0) | 5,5 g per anbefalt døgndose. |
+|  | Glycin (56-40-6) | 3,1 g per anbefalt døgndose. |
+|  | L-Histidin (71-00-1 og 645-35-2) | 4 g per anbefalt døgndose. |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 1,5 g per anbefalt døgndose. |
+|  | L-Karnitin (541-15-1 og 6645-46-1) | 1,5 g per anbefalt døgndose.<br><br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Karnitin-L-tartrat (36687-82-8) | 2,25 g per anbefalt døgndose.<br><br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Leusin (61-90-5 og 760-84-9) | 1,3 g per anbefalt døgndose. |
+|  | L-Lysin (56-87-1 og 657-27-2) | 3 g per anbefalt døgndose. |
+|  | L-Metionin (63-68-3) | 210 mg per anbefalt døgndose. |
+|  | L-Prolin (147-85-3) | 1,8 g per anbefalt døgndose. |
+|  | L-Serin (56-45-1) | 1,75 g per anbefalt døgndose. |
+|  | L-Treonin (72-19-5) | 2,4 g per anbefalt døgndose. |
+|  | L-Tryptofan (73-22-3) | 220 mg per anbefalt døgndose.<br><br>Skal merkes med «Bør ikke brukes av personer som tar antidepressiva». |
+|  | L-Tyrosin (60-18-4) | 420 mg per anbefalt døgndose. |
+|  | L-Valin (72-18-4) | 1,5 g per anbefalt døgndose. |
+|  | Lutein (127-40-2) | 10 mg per anbefalt døgndose |
+|  | Lykopen (502-65-8) | 15 mg per anbefalt døgndose. |
+|  | Melatonin (73-31-4) | 1 mg per anbefalt døgndose |
+|  | N-Acetyl-L-Cystein (616-91-1) | 600 mg per anbefalt døgndose. |
+|  | Piperin fra svart pepperfrø (94-62-2) | 1,5 mg per anbefalt døgndose. |
+|  | Quercetin dihydrat (6151-25-3) | 500 mg per anbefalt døgndose. |
+|  | Rutin (153-18-4) | 25 mg rutin per anbefalt døgndose. |
+|  | Taurin (107-35-7) | 1 g per anbefalt døgndose. |
+| *Kosttilskudd beregnet for barn fra og med 11 år* |  |  |
+|  | Inositol (87-89-8) | 100 mg per anbefalt døgndose. |
+|  | Kolin (87-67-2) | 124 mg per anbefalt døgndose. |
+|  | Rutin (153-18-4) | 5 mg per anbefalt døgndose. |
+| *Kosttilskudd beregnet for barn fra og med 3 år til og med 10 år* |  |  |
+|  | Inositol (87-89-8) | 25 mg per anbefalt døgndose. |
+|  | Kolin (87-67-2) | 25 mg per anbefalt døgndose. |
+|  | Rutin (153-18-4) | 5 mg per anbefalt døgndose. |
+| *Næringsmidler* |  | *Innhold per 100 g eller 100 ml* |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre1 |  |  |
+|  | Kolin (87-67-2) | 27,5 mg / 100 ml |
+|  | L-isoleusin (73-32-5 og 17694-98-3) | 252 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | L-leusin (61-90-5 og 760-84-9) | 1010 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | L-valin (72-18-4) | 252 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leucin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | Taurin (107-35-7) | 400 mg / 100 ml |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre tilsatt koffein i en mengde over 15 mg / 100 ml1 |  |  |
+|  | Glucuronolakton (D-glucurono-γ-lakton, 32449-92-6) | 24 mg / 100 ml |
+|  | Inositol (6917-35-7 og 87-89-8) | 14 mg / 100 ml |
+|  | Koffein (58-08-2) | 32 mg / 100 ml fra alle kilder. |
+|  | L-Arginin (74-79-3 og 1119-34-2) | 390 mg / 100 ml |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 350 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | L-Leusin (61-90-5 og 760-84-9) | 1010 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | L-Valin (72-18-4) | 350 mg per 100 ml kan tilsettes dersom produktet også inneholder stoffene L-leucin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 eller 4:1:1. |
+|  | Taurin (107-35-7) | 400 mg / 100 ml. |
+| Vannbaserte alkoholfrie drikkevarer med og uten kullsyre porsjonert i mindre drikkeampuller, shots eller lignende2 |  |  |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 585 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-valin:L-isoleusin er 2:1:1. |
+|  | L-Leusin (61-90-5 og 760-84-9) | 1170 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | L-Valin (72-18-4) | 585 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+| Vannbaserte alkoholholdige drikkevarer med aroma, der alkoholinnholdet er høyst 4,7 % Vol. |  |  |
+|  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder |
+|  | Taurin (107-35-7) | 300 mg / 100 ml |
+| Elektrolyttdrikker 1,2,3 |  |  |
+|  | Beta-alanin (107-95-9) | 800 mg / 100 ml kan tilsettes dersom doser av maksimalt 350 mg fordeles utover dagen. Dosene skal inntas med minst 2 timers mellomrom. |
+|  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder. |
+|  | L-Arginin (74-79-3 og 1119-34-2) | 56 mg / 100 ml |
+|  | L-Citrullin (372-75-8) | 800 mg / 100 ml |
+|  | L-Glutamin (56-85-9) | 1400 mg / 100 ml |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 235 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Leusin (61-90-5 og 760-84-9) | 470 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | L-Valin (72-18-4) | 235 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-leusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+| Karbohydrat-elektrolyttdrikker som også inneholder protein/fett hvorav innholdet av protein utgjør minst 20 % av energiinnholdet i produktet og energiinnholdet er minst 420 kJ / 100 ml (100 kcal / 100 ml) 1,2,4 |  |  |
+|  | Koffein (58-08-2) | 10 mg / 100 ml fra alle kilder. |
+|  | L-Arginin (74-79-3 og 1119-34-2) | 390 mg / 100 ml |
+|  | L-Fenylalanin | 25 mg / 100 ml |
+|  | L-Glutamin (56-85-9) | 1400 mg / 100 ml |
+|  | L-Histidin (71-00-1 og 645-35-2) | 25 mg / 100 ml |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 472 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 |
+|  | L-Karnitin (541-15-1 og 6645-46-1) | 200 mg / 100 ml<br>Skal merkes med «Bør ikke brukes av personer med medfødte stoffskiftesykdommer og nyresykdom uten samråd med lege». |
+|  | L-Leusin (61-90-5 og 760-84-9) | 900 mg / 100 ml eller<br><br>943 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | L-Lysin (56-87-1 og 657-27-2) | 63 mg / 100 ml |
+|  | L-Metionin (63-68-3) | 25 mg / 100 ml |
+|  | L-Treonin (72-19-5) | 25 mg / 100 ml |
+|  | L-Tryptofan (73-22-3) | 25 mg / 100 ml |
+|  | L-Tyrosin (60-18-4) | 50 mg / 100 ml |
+|  | L-Valin (72-18-4) | 472 mg per 100 ml kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-leusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1 |
+|  | Taurin (107-35-7) | 125 mg / 100 ml |
+| Geler2 markedsført i enkeltporsjonspakninger |  |  |
+|  | Koffein (58-08-2) | 200 mg / 100 g fra alle kilder. |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 180 mg per 100 g kan tilsettes sportsgeler2 dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | L-Leusin (61-90-5 og 760-84-9) | 380 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-valin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleucin:L-valin er 2:1:1. |
+|  | L-Valin (72-18-4) | 180 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-valin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+|  | Taurin (107-35-7) | 500 mg / 100 g |
+| Barer o.l. |  |  |
+|  | Koffein (58-08-2) | 100 mg / 100 g fra alle kilder. |
+|  | L-Isoleusin (73-32-5 og 17694-98-3) | 555 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-leusin og L-valin slik at forholdet mellom L-leusin:L-valin:L-isoleusin er 2:1:1 |
+|  | L-Leusin (61-90-5 og 760-84-9) | 1110 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene<br>L-valin og L-isoleusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1.<br><br>eller<br><br>2300 mg per 100 g, men porsjonen kan ikke være mer enn 50 g, dvs. maksimalt 1150 mg i en 50 g porsjon. |
+|  | L-Valin (72-18-4) | 555 mg per 100 g kan tilsettes dersom produktet samtidig inneholder stoffene L-isoleusin og L-leusin slik at forholdet mellom L-leusin:L-isoleusin:L-valin er 2:1:1. |
+| Halspastiller | Koffein (58-08-2) | 313 mg per 100 g fra alle kilder2 |
+
+1 Kan være pulver eller tabletter som skal løses i vann. Maksimalt innhold angir innholdet pr. 100 ml i det drikkeklare produktet (uansett om næringsdeklarasjonen på produktet gjelder for produktet som det selges, eller for produktet som det drikkes (ferdig utblandet)).
+
+2 Gjelder bare for produkter som er beregnet for personer fra og med 18 år.
+
+3 Gjelder for maksimalt anbefalt inntak på 500 ml per døgn.
+
+4 Gjelder for maksimalt anbefalt inntak på 200 ml per døgn.
+
+5 Produkter tilsatt D-ribose som en enkelt dose på mer enn 5 g kan omsette produktene på det norske markedet frem til 31. august 2022.
 
 > Tilføyd ved forskrift [26 juni 2019 nr. 936](forskrift/2019-06-26-936) (i kraft 1 jan 2020), endret ved forskrifter [17 nov 2020 nr. 2401](forskrift/2020-11-17-2401), [1 sep 2021 nr. 2648](forskrift/2021-09-01-2648), [27 mars 2023 nr. 430](forskrift/2023-03-27-430), [19 mars 2024 nr. 475](forskrift/2024-03-19-475), [12 mars 2025 nr. 421](forskrift/2025-03-12-421), [26 mars 2025 nr. 539](forskrift/2025-03-26-539).
 
@@ -301,6 +678,10 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1925/2006](eu/32006r1925). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 1170/2009](eu/32009r1170), forordning [(EU) nr. 1161/2011](eu/32011r1161), forordning [(EU) nr. 1169/2011](eu/32011r1169), forordning [(EU) nr. 119/2014](eu/32014r0119), forordning [(EU) 2015/403](eu/32015r0403), forordning [(EU) 2017/1203](eu/32017r1203), forordning [(EU) 2019/650](eu/32019r0650), forordning [(EU) 2019/649](eu/32019r0649), forordning [(EU) 2021/468](eu/32021r0468), forordning [(EU) 2022/860](eu/32022r0860), forordning [(EU) 2022/2340](eu/32022r2340), forordning [(EU) 2023/1065](eu/32023r1065) og forordning [(EU) 2025/2224](eu/32025r2224). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II kap. XII nr. 54zzzu er innarbeidet nedenfor.
 
+►**B** Forordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006
+
+som endret ved
+
 - ►**M1** Forordning [(EF) nr. 1170/2009](eu/32009r1170) av 30. november 2009
 - ►**M2** Forordning [(EU) nr. 1161/2011](eu/32011r1161) av 14. november 2011
 - ►**M3** Forordning [(EU) nr. 119/2014](eu/32014r0119) av 7. februar 2014
@@ -319,6 +700,8 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1925
 av 20. desember 2006
 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95,
 
 under henvisning til forslag fra Kommisjonen,
@@ -329,31 +712,49 @@ etter framgangsmåten fastsatt i traktatens artikkel 251,2 og
 
 ut fra følgende betraktninger:Det finnes en lang rekke næringsstoffer og andre ingredienser som kan brukes ved framstilling av næringsmidler, herunder, men ikke begrenset til, vitaminer, mineraler (herunder sporstoffer), ami nosyrer, essensielle fettsyrer, fiber samt ulike planter og urteekstrakter. Tilsetting av disse produktene i næringsmidler er underlagt ulike nasjonale regler i medlemsstatene som kan hindre fri omsetning av disse produktene, skape ulike konkurransevilkår og dermed ha direkte innvirkning på det indre markeds virkemåte. Det er derfor nødvendig å vedta fellesskapsbestemmelser som harmoniserer nasjonale bestemmelser om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler.Denne forordning har som mål å regulere tilsettingen av vitaminer og mineraler i næringsmidler samt bruken av visse andre stoffer eller ingredienser som inneholder andre stoffer enn vitaminer eller mineraler som tilsettes i næringsmidler, eller brukes i framstilling av næringsmidler på en måte som fører til inntak av mengder som i stor grad overstiger de mengder som under normale forhold forventes å bli inntatt gjennom et balansert og variert kosthold, og/eller som på annen måte kan utgjøre en mulig risiko for forbrukerne. I fravær av særlige fellesskapsregler om forbud mot eller begrensning av bruken av stoffer eller ingredienser som inneholder andre stoffer enn vitaminer eller mineraler, som fastsatt i denne forordning eller i andre særlige fellesskapsbestemmelser, får nasjonale regler anvendelse med forbehold for traktatens bestemmelser.I enkelte medlemsstater kreves det, av hensyn til mennesker helse, tilsetting av visse vitaminer og mineraler i enkelte vanlige næringsmidler. Disse hensynene kan være relevante på nasjonalt eller også på regionalt plan, men er på det nåværende tidspunkt ikke grunn nok til å harmonisere obligatorisk tilsetting av næringsstoffer i hele Fellesskapet. Slike bestemmelser kan imidlertid, dersom og når dette anses å være aktuelt, vedtas på fellesskapsplan. I mellomtiden vil det være nyttig å samle inn opplysninger om slike nasjonale tiltak.Vitaminer og mineraler kan tilsettes i næringsmidler på frivillig grunnlag av næringsmiddelprodusenter eller må tilsettes som næringsstoffer i henhold til særlige fellesskapsbestemmelser. De kan også tilsettes for tek nologiske formål som tilsetningsstoffer, fargestoffer, aromastoffer eller til andre bruksformål, herunder godkjente ø nologiske framstillings- og behandlingsmåter i henhold til relevant fellesskapslovgivning. Denne forordning bør få anvendelse med forbehold om særlige fellesskapsregler om tilsetting eller bruk av vitaminer og mineraler i bestemte produkter eller produktgrupper, eller om tilsetting av dem for andre formål enn det som omfattes av denne forordning.Ettersom det er vedtatt nærmere regler om kosttilskudd som inneholder vitaminer og mineraler, gjennom europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) om tilnærming av medlemsstatenes lovgivning om kosttilskudd,3 bør bestemmelsene i denne forordning om vitaminer og mineraler ikke gjelde for kosttilskudd.Vitaminer og mineraler tilsettes i næringsmidler av produsenter av en rekke årsaker, herunder for å tilbakeføre næringsmidlenes innhold når dette er blitt redusert under produksjon, lagring og håndtering, eller for å gi næringsmidlene en næringsverdi som tilsvarer næringsverdien i næringsmidler som de skal være alternativer til.Et riktig og variert kosthold skal under normale omstendigheter gi alle næringsstoffer som kreves for at et menneske skal utvikle seg normalt og bevare god helse, i de mengder som fastsettes og anbefales på grunnlag av allment godtatte vitenskapelige data. Undersøkelser viser imidlertid at denne ideelle situasjonen ikke oppnås for alle vitaminer og mineraler eller for alle befolkningsgrupper i Fellesskapet. Næringsmidler tilsatt vitaminer og mineraler, ser ut til å utgjøre et betydelig bidrag til inntaket av disse næringsstoffene, og de kan således anses å utgjøre et positivt bidrag til det samlede inntaket.Det kan på det nåværende tidspunkt konstanteres at det i Fellesskapet forekommer visse mangler på næringsstoffer, selv om dette ikke er så ofte. Endringer i den sosioøko nomiske situasjonen i Fellesskapet og i livsstilen til forskjellige befolkningsgrupper har ført til ulike næringsbehov og endrede kostvaner. Dette har i sin tur ført til endringer i energi- og næringsbehovene til forskjellige befolkningsgrupper, og til et inntak av visse vitaminer og mineraler for disse gruppene som ligger under det inntaket som anbefales i de forskjellige medlemsstatene. I tillegg viser framskritt i den vitenskapelige utvikling at inntaket av visse næringsstoffer for å bevare en optimal helse og velferd, kan være høyere enn det som anbefales på det nåværende tidspunkt.Bare vitaminer og mineraler som vanligvis finnes i kostholdet og som anses som essensielle næringsstoffer, bør tillates tilsatt i næringsmidler, uten at det dermed betyr at tilsetting er nødvendig. For å unngå at det oppstår uenighet om hvilke essensielle næringsstoffer det er snakk om, bør det utarbeides en positivliste over disse vitaminene og mineralene.Det er viktig at de kjemiske stoffene som brukes som kilder til vitaminer og mineraler som kan tilsettes i næringsmidler, både er uskadelige og også er biotilgjengelige, dvs. av en slik art at kroppen kan nyttiggjøre seg dem. Det bør derfor utarbeides en positivliste over disse stoffene også. Stoffer som Vitenskapskomiteen for næringsmidler i en uttalelse av 12. mai 1999 på grunnlag av ovennevnte kriterier for trygghet og biotilgjengelighet, har godkjent for bruk ved framstilling av næringsmidler beregnet på spedbarn og småbarn, andre næringsmidler beregnet på spesielle ernæringsmessige behov, og kosttilskudd, bør også oppføres på denne positivlisten. Selv om natriumklorid (vanlig salt) ikke forekommer blant stoffene oppført i denne listen, kan det fortsatt brukes som en ingrediens ved tilberedning av næringsmidler.For å holde tritt med den vitenskapelige og tek nologiske utvikling er det viktig at de ovennevnte listene revideres raskt ved behov. For å forenkle og framskynde framgangsmåten bør revideringen ta form av gjennomføringstiltak av teknisk art, og ansvaret for å vedta dem bør overlates til Kommisjonen.Næringsmidler tilsatt vitaminer og mineraler, markedsføres i de fleste tilfeller av produsenter, og kan av forbrukerne bli oppfattet som produkter med ernæringsmessige, fysiologiske eller andre helsemessige fordeler, sammenlignet med andre lignende produkter eller andre produkter uten tilsatte næringsstoffer. Dette kan føre til at forbrukeren gjør valg som ellers ikke er ønskelige. For å motvirke denne mulige uønskede virkningen, bør det innføres visse begrensninger når det gjelder hvilke produkter som kan tilsettes vitaminer og mineraler, i tillegg til dem som kan være en naturlig følge av tekniske hensyn eller som er nødvendige av sikkerhetsgrunner når det fastsettes øvre grenser for vitaminer og mineraler i slike produkter. Innholdet av visse stoffer, som alkohol, i et produkt, vil i denne sammenheng være et relevant kriterium for ikke å tillate tilsetting av vitaminer og mineraler. Eventuelle unntak fra et forbud mot tilsetting av vitaminer og mineraler i alkoholholdige drikker bør begrenses til beskyttelse av tradisjonelle vi noppskrifter, idet Kommisjonen underrettes om de berørte produktene. Det bør ikke framsettes noen påstander om ernærings- eller helsemessige fordeler ved slike tilsettinger. For å unngå uklarhet for forbrukerne når det gjelder den naturlige næringsverdien i ferskvarer, bør tilsetting av vitaminer og mineraler heller ikke tillates i disse.Denne forordning er ikke ment å dekke bruken av vitaminer og mineraler i spormengder som ekthetsmarkører med det formål å bekjempe svindel.For stort inntak av vitaminer og mineraler kan føre til helseskadelige virkninger, og det bør derfor når det er hensiktsmessig, fastsettes største mengder av dem når de tilsettes i næringsmidler. Disse mengdene bør fastsettes slik at vanlig bruk av produktene i henhold til produsentens anvisninger, og som del av et variert kosthold, ikke innebærer noen fare for forbrukeren. Disse mengdene bør derfor være de sikre øvre grensene for vitaminer og mineraler som forekommer naturlig i et næringsmiddel og/eller tilsettes i næringsmiddelet uansett grunn, herunder for tek nologiske formål.Ved fastsettelsen av disse største mengdene og alle andre vilkår som begrenser tilsettingen av vitaminer og mineraler i næringsmidler, bør det derfor tas hensyn til de sikre øvre grensene for vitaminer og mineraler, som er fastsatt etter en vitenskapelig risikovurdering på grunnlag av allment godtatte vitenskapelige data, og til inntaket av disse næringsstoffene gjennom andre næringsmidler. Det bør også tas behørig hensyn til referansemengdene for befolkningens inntak av vitaminer og mineraler. Når det er nødvendig å pålegge begrensninger for visse vitaminer og mineraler angående hvilke næringsmidler de kan tilsettes i (for eksempel tilsetting av jod i salt), bør det prioriteres å tilbakeføre næringsmidlenes innhold når dette er blitt redusert under framstilling, lagring eller håndtering, eller for å gi næringsmidlene en næringsverdi som tilsvarer næringsverdien i næringsmidler som de skal være alternativer til.Vitaminer og mineraler som tilsettes i næringsmidler, bør føre til at næringsmiddelet har et minsteinnhold av disse vitaminene og næringsmidlene. En altfor liten og ubetydelig mengde av disse i anrikede næringsmidler vil ikke være til fordel for forbrukerne og vil være villedende. De samme prinsippene ligger til grunn for kravet om at disse næringsstoffene bør forekomme i en betydelig mengde i næringsmidler, for at de skal kunne angis i deklarasjonen av næringsinnhold. Minsteinnholdet av vitaminer og mineraler i næringsmidler som er tilsatt disse vitaminene og mineralene, bør derfor være identisk med den betydelige mengden som skal forekomme for at disse næringsstoffene skal være angitt i deklarasjonen av næringsinnhold, med mindre annet er fastsatt ved passende unntak.Fastsettelsen av største mengder og andre vilkår for bruken på grunnlag av prinsippene og kriteriene som er angitt i denne forordning, og vedtak av minsteinnhold, bør for å forenkle og framskynde framgangsmåten være gjennomføringstiltak av teknisk art, og ansvaret for å vedta dem bør overlates til Kommisjonen.Alminnelige bestemmelser om merking samt definisjoner finnes i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.4 Denne forordning bør derfor begrenses til nødvendige tilleggsbestemmelser. Disse tilleggsbestemmelsene bør også få anvendelse med forbehold om europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsemessige påstander om næringsmidler.5Ettersom produkter som er tilsatt vitaminer og mineraler, er ernæringsmessig viktige og potensielt vil påvirke kostvanene og det samlede inntaket av næringsstoffer, bør det være mulig for forbrukeren å vurdere produktenes samlede ernæringsmessige kvalitet. Deklarasjon av næringsinnhold bør derfor som unntak fra artikkel 2 i rådsdirektiv [90/496/EØF](eu/31990l0496) av 24. september 1990 om deklarasjon av næringsinnhold i næringsmidler,6 være obligatorisk.Et normalt og variert kosthold inneholder mange ingredienser, som i sin tur inneholder mange stoffer. Inntaket av disse stoffene eller ingrediensene ved normal og tradisjonell bruk i dagens kosthold, bør ikke gi anledning til bekymring og behøver ikke å reguleres. Enkelte andre stoffer enn vitaminer og mineraler eller ingredienser som inneholder slike stoffer, tilsettes i næringsmidler som ekstrakter eller konsentrater, og dette kan føre til inntak som er betydelig høyere enn de mengdene som ellers ville bli inntatt gjennom et sunt og variert kosthold. Det er i enkelte tilfeller reist sterk tvil om hvorvidt en slik praksis er trygg, og det er uklart hvilke fordeler de innebærer. De bør derfor reguleres. Det er i slike tilfeller hensiktsmessig at driftsansvarlige for næringsmiddelforetak, som har ansvar for at de næringsmidler de bringer i omsetning, er trygge, pålegges bevisbyrden når det gjelder produktenes trygghet.Ettersom næringsmidler som er tilsatt vitaminer og mineraler, er av en særlig art, bør kontrollorganene ha flere midler til rådighet enn normalt, slik at det blir lettere å føre effektiv kontroll med produktene.Ettersom målet med denne forordning, som er å sikre at det indre marked fungerer tilfredsstillende når det gjelder tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler og samtidig sikre et høyt nivå av forbrukervern, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel, går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.De tiltakene som er nødvendige for å gjennomføre denne forordning, bør treffes i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen7 –
 
+1 EUT C 112 av 30.4.2004, s. 44.
+
+2 Europaparlamentsuttalelse av 26. mai 2005 (EUT C 117 E av 18.5.2006, s. 206), Rådets felles holdning av 8. desember 2005 (EUT C 80 E av 4.4.2006, s. 27) og Europaparlamentets holdning av 16. mai 2006 (ennå ikke offentliggjort i EUT). Rådsbeslutning av 12. oktober 2006.
+
+3 EFT L 183 av 12.7.2002, s. 51. Direktivet endret ved kommisjonsdirektiv [2006/37/EF](eu/32006l0037) (EFT L 94 av 1.4.2006, s. 32).
+
+4 EFT L 109 av 6.5.2000, s. 29. Direktivet sist endret ved direktiv [2003/89/EF](eu/32003l0089) (EUT L 308 av 25.11.2003, s. 15).
+
+5 Se EUT L 404 av 30.12.2006, s. 9.
+
+6 EFT L 276 av 6.10.1990, s. 40. Direktivet sist endret ved kommisjonsdirektiv [2003/120/EF](eu/32003l0120) (EUT L 333 av 20.12.2003, s. 51).
+
+7 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:
+
 ### Kapittel I
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
 
-1. Ved denne forordning harmoniseres medlemsstatenes lover eller forskrifter om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler med det formål å sikre at det indre marked fungerer tilfredsstillende, samtidig som det sikres et høyt nivå av forbrukervern.
+1\. Ved denne forordning harmoniseres medlemsstatenes lover eller forskrifter om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler med det formål å sikre at det indre marked fungerer tilfredsstillende, samtidig som det sikres et høyt nivå av forbrukervern.
 
-2. Bestemmelsene i denne forordning om vitaminer og mineraler får ikke anvendelse på kosttilskudd som omfattes av direktiv [2002/46/EF](eu/32002l0046).
+2\. Bestemmelsene i denne forordning om vitaminer og mineraler får ikke anvendelse på kosttilskudd som omfattes av direktiv [2002/46/EF](eu/32002l0046).
 
-3. Denne forordning får anvendelse uten å berøre særlige bestemmelser fastsatt i Fellesskapets regelverk om:næringsmidler til bruk ved spesielle ernæringsmessige behov, og i fravær av særlige bestemmelser, kravene til sammensetning av slike produkter, som er nødvendig ut fra de særlige næringsbehovene til de personene som de er beregnet på,nye næringsmidler og nye næringsmiddelingredienser,genmodifiserte næringsmidler,tilsetningsstoffer og aromastoffer i næringsmidler,godkjente ønologiske framstillings- og behandlingsmåter.
+3\. Denne forordning får anvendelse uten å berøre særlige bestemmelser fastsatt i Fellesskapets regelverk om:næringsmidler til bruk ved spesielle ernæringsmessige behov, og i fravær av særlige bestemmelser, kravene til sammensetning av slike produkter, som er nødvendig ut fra de særlige næringsbehovene til de personene som de er beregnet på,nye næringsmidler og nye næringsmiddelingredienser,genmodifiserte næringsmidler,tilsetningsstoffer og aromastoffer i næringsmidler,godkjente ønologiske framstillings- og behandlingsmåter.
 
 ### Artikkel 2. Definisjoner
 
 I denne forordning menes med:«myndighet» Den europeiske myndighet for næringsmiddeltrygghet opprettet ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1«annet stoff» et stoff som ikke er et vitamin eller et mineral, og som har en ernæringsmessig eller fysiologisk effekt.
+
+1 EFT L 31 av 1.2.2002, s. 1. Forordningen sist endret ved kommisjonsforordning [(EF) nr. 575/2006](eu/32006r0575) (EUT L 100 av 8.4.2006, s. 3).
 
 ### [Kapittel](forskrift/2010-02-26-247/kapii) II
 Tilsetting av vitaminer og mineraler
 
 ### Artikkel 3. Krav i forbindelse med tilsetting av vitaminer og mineraler
 
-1. Bare vitaminer og/eller mineraler som er oppført i vedlegg I, i de formene som er oppført i vedlegg II, kan tilsettes i næringsmidler i henhold til reglene fastsatt i denne forordning.
+1\. Bare vitaminer og/eller mineraler som er oppført i vedlegg I, i de formene som er oppført i vedlegg II, kan tilsettes i næringsmidler i henhold til reglene fastsatt i denne forordning.
 
-2. Vitaminer og mineraler i en for menneskekroppen biotilgjengelig form, kan tilsettes i næringsmidler, uansett om de normalt finnes i næringsstoffet eller ikke, for særlig å ta hensyn til følgende:en mangel på ett eller flere vitaminer og/eller mineraler i befolkningen eller bestemte befolkningsgrupper som kan påvises gjennom kliniske eller subkliniske beviser på mangler eller gjennom anslag som viser at inntaket av næringsstoffer er lavt, ellermuligheten for å forbedre befolkningens eller bestemte befolkningsgruppers ernæringsmessige tilstand og/eller avhjelpe mulig mangelfullt inntak av vitaminer eller mineraler på grunn av endrede kostvaner, ellerutviklingen av allment anerkjent vitenskapelig kunnskap om vitaminers og mineralers rolle i ernæringen og derav følgende helsevirkninger.
+2\. Vitaminer og mineraler i en for menneskekroppen biotilgjengelig form, kan tilsettes i næringsmidler, uansett om de normalt finnes i næringsstoffet eller ikke, for særlig å ta hensyn til følgende:en mangel på ett eller flere vitaminer og/eller mineraler i befolkningen eller bestemte befolkningsgrupper som kan påvises gjennom kliniske eller subkliniske beviser på mangler eller gjennom anslag som viser at inntaket av næringsstoffer er lavt, ellermuligheten for å forbedre befolkningens eller bestemte befolkningsgruppers ernæringsmessige tilstand og/eller avhjelpe mulig mangelfullt inntak av vitaminer eller mineraler på grunn av endrede kostvaner, ellerutviklingen av allment anerkjent vitenskapelig kunnskap om vitaminers og mineralers rolle i ernæringen og derav følgende helsevirkninger.
 
-3. Endring av listene som er nevnt i nr. 1 i denne artikkel, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2, samtidig som det tas hensyn til uttalelsen fra myndigheten.Før slike endringer iverksettes skal Kommisjonen rådspørre berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
+3\. Endring av listene som er nevnt i nr. 1 i denne artikkel, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2, samtidig som det tas hensyn til uttalelsen fra myndigheten.Før slike endringer iverksettes skal Kommisjonen rådspørre berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
 
 ### Artikkel 4. Begrensninger i forbindelse med tilsetting av vitaminer og mineraler
 
@@ -361,69 +762,75 @@ Vitaminer og mineraler kan ikke tilsettes i:ubearbeidede næringsmidler, herunde
 
 Ytterligere næringsmidler eller næringsmiddelkategorier der det ikke må tilsettes bestemte vitaminer og mineraler, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 14 nr. 2, i lys av vitenskapelige data og med hensyn til deres næringsverdi.
 
+1 EFT L 179 av 14.7.1999, s. 1. Forordningen sist endret ved forordning [(EF) nr. 2165/2005](eu/32005r2165) (EFT L 345 av 28.12.2005, s. 1).
+
 ### Artikkel 5. Renhetskriterier
 
-1. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, skal renhetskriteriene vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2, unntatt når de får anvendelse i henhold til nr. 2 i denne artikkelen.
+1\. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, skal renhetskriteriene vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2, unntatt når de får anvendelse i henhold til nr. 2 i denne artikkelen.
 
-2. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, skal renhetskriteriene fastsatt i Fellesskapets regelverk for bruk av slike stoffer ved framstilling av næringsmidler til andre formål enn dem som omfattes av denne forordning, gjelde.
+2\. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, skal renhetskriteriene fastsatt i Fellesskapets regelverk for bruk av slike stoffer ved framstilling av næringsmidler til andre formål enn dem som omfattes av denne forordning, gjelde.
 
-3. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, og som det ikke er fastsatt renhetskriterier for i Fellesskapets regelverk, skal allment godtatte renhetskriterier anbefalt av internasjonale organer gjelde inntil Fellesskapet vedtar slike kriterier, og nasjonale regler som fastsetter strengere renhetskriterier, kan beholdes.
+3\. For de vitaminpreparatene og mineralstoffene som er oppført i vedlegg II, og som det ikke er fastsatt renhetskriterier for i Fellesskapets regelverk, skal allment godtatte renhetskriterier anbefalt av internasjonale organer gjelde inntil Fellesskapet vedtar slike kriterier, og nasjonale regler som fastsetter strengere renhetskriterier, kan beholdes.
 
 ### Artikkel 6. Vilkår for tilsetting av vitaminer og mineraler
 
-1. Når et vitamin eller et mineral tilsettes i næringsmidler, skal den samlede mengden av vitaminet eller mineralet som finnes i næringsmiddelet når det selges, uansett formål, ikke overstige største mengde som er fastsatt etter framgangsmåten fastsatt i artikkel 14 nr. 2. Kommisjonen kan, for dette formål, framlegge forslag om største mengder innen 29. januar 2009. For konsentrerte og dehydrerte produkter skal de største mengdene som fastsettes, være de som finnes i næringsmidlene når de er spise-/drikkeferdige i henhold til produsentens anvisninger.
+1\. Når et vitamin eller et mineral tilsettes i næringsmidler, skal den samlede mengden av vitaminet eller mineralet som finnes i næringsmiddelet når det selges, uansett formål, ikke overstige største mengde som er fastsatt etter framgangsmåten fastsatt i artikkel 14 nr. 2. Kommisjonen kan, for dette formål, framlegge forslag om største mengder innen 29. januar 2009. For konsentrerte og dehydrerte produkter skal de største mengdene som fastsettes, være de som finnes i næringsmidlene når de er spise-/drikkeferdige i henhold til produsentens anvisninger.
 
-2. Eventuelle vilkår som begrenser eller forbyr tilsettingen av et bestemt vitamin eller mineral i et næringsmiddel eller en næringsmiddelkategori, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.
+2\. Eventuelle vilkår som begrenser eller forbyr tilsettingen av et bestemt vitamin eller mineral i et næringsmiddel eller en næringsmiddelkategori, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.
 
-3. De største mengder som omtales i nr. 1, og vilkårene nevnt i nr. 2, skal fastsettes ut fra hensyn til:de sikre øvre grensene for inntak av vitaminer og mineraler fastsatt etter en vitenskapelig risikovurdering på grunnlag av allment godtatte vitenskapelige data, om nødvendig tatt i betraktning de ulike forbrukergruppenes varierende grad av følsomhet, oginntak av vitaminer og mineraler fra andre kilder i kostholdet.
+3\. De største mengder som omtales i nr. 1, og vilkårene nevnt i nr. 2, skal fastsettes ut fra hensyn til:de sikre øvre grensene for inntak av vitaminer og mineraler fastsatt etter en vitenskapelig risikovurdering på grunnlag av allment godtatte vitenskapelige data, om nødvendig tatt i betraktning de ulike forbrukergruppenes varierende grad av følsomhet, oginntak av vitaminer og mineraler fra andre kilder i kostholdet.
 
-4. Ved fastsettelse av de største mengdene nevnt i nr. 1, og de vilkårene som er fastsatt i nr. 2, skal det også tas behørig hensyn til referansemengdene for inntak av vitaminer og mineraler for befolkningen.
+4\. Ved fastsettelse av de største mengdene nevnt i nr. 1, og de vilkårene som er fastsatt i nr. 2, skal det også tas behørig hensyn til referansemengdene for inntak av vitaminer og mineraler for befolkningen.
 
-5. Ved fastsettelse av de største mengdene nevnt i nr. 1, og de vilkårene som er fastsatt i nr. 2 for vitaminer og mineraler hvis referanseinntak for befolkningen ligger nær de sikre øvre grensene, skal det også etter behov tas hensyn til følgende:de enkelte produkters bidrag til det samlede kostholdet for befolkningen generelt eller for undergrupper av befolkningen,produktets ernæringsprofil som er utarbeidet i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+5\. Ved fastsettelse av de største mengdene nevnt i nr. 1, og de vilkårene som er fastsatt i nr. 2 for vitaminer og mineraler hvis referanseinntak for befolkningen ligger nær de sikre øvre grensene, skal det også etter behov tas hensyn til følgende:de enkelte produkters bidrag til det samlede kostholdet for befolkningen generelt eller for undergrupper av befolkningen,produktets ernæringsprofil som er utarbeidet i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-6. Tilsettingen av et vitamin eller et mineral i et næringsmiddel skal føre til at dette vitaminet eller mineralet forekommer i næringsmiddelet i minst en betydelig mengde, dersom denne er definert etter framgangsmåten fastsatt i vedlegget til direktiv [90/496/EØF](eu/31990l0496). Minsteinnholdet, herunder eventuelle lavere mengder som avviker fra de betydelige mengdene angitt over, skal for bestemte næringsmidler eller næringsmiddelkategorier vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.
+6\. Tilsettingen av et vitamin eller et mineral i et næringsmiddel skal føre til at dette vitaminet eller mineralet forekommer i næringsmiddelet i minst en betydelig mengde, dersom denne er definert etter framgangsmåten fastsatt i vedlegget til direktiv [90/496/EØF](eu/31990l0496). Minsteinnholdet, herunder eventuelle lavere mengder som avviker fra de betydelige mengdene angitt over, skal for bestemte næringsmidler eller næringsmiddelkategorier vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.
 
 ### Artikkel 7. Merking, presentasjon og reklame
 
-1. Merking og presentasjon av eller reklame for næringsmidler som er tilsatt vitaminer og mineraler, skal ikke angi eller gi inntrykk av at et allsidig og variert kosthold ikke kan gi tilstrekkelige mengder næringsstoffer. Det kan når det er relevant, vedtas et unntak angående et bestemt næringsstoff etter framgangsmåten fastsatt i artikkel 14 nr. 2.
+1\. Merking og presentasjon av eller reklame for næringsmidler som er tilsatt vitaminer og mineraler, skal ikke angi eller gi inntrykk av at et allsidig og variert kosthold ikke kan gi tilstrekkelige mengder næringsstoffer. Det kan når det er relevant, vedtas et unntak angående et bestemt næringsstoff etter framgangsmåten fastsatt i artikkel 14 nr. 2.
 
-2. Merking og presentasjon av eller reklame for næringsmidler som er tilsatt vitaminer og mineraler, skal ikke villede eller skape forvirring for forbrukeren hva angår næringsmidlenes eventuelle næringsverdi som følge av tilsettingen av disse næringsstoffene.
+2\. Merking og presentasjon av eller reklame for næringsmidler som er tilsatt vitaminer og mineraler, skal ikke villede eller skape forvirring for forbrukeren hva angår næringsmidlenes eventuelle næringsverdi som følge av tilsettingen av disse næringsstoffene.
 
-3. Deklarasjon av næringsinnhold er obligatorisk for produkter som er tilsatt vitaminer og mineraler, og som omfattes av denne forordning. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, og av en angivelse av de samlede mengdene av vitaminer og mineraler som er tilsatt i næringsmiddelet.
+►**M9**
 
-4. I merkingen av produkter som er tilsatt vitaminer og mineraler, kan det finnes en angivelse som viser at det er foretatt en slik tilsetting i henhold til vilkårene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+3\. Deklarasjon av næringsinnhold er obligatorisk for produkter som er tilsatt vitaminer og mineraler, og som omfattes av denne forordning. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, og av en angivelse av de samlede mengdene av vitaminer og mineraler som er tilsatt i næringsmiddelet.
 
-5. Denne artikkelen får anvendelse uten å berøre andre bestemmelser i næringsmidddelregelverket som gjelder bestemte næringsmiddelkategorier.
+◄**M9**
 
-6. Regler for gjennomføring av denne artikkelen kan fastsettes etter framgangsmåten i artikkel 14 nr. 2.
+4\. I merkingen av produkter som er tilsatt vitaminer og mineraler, kan det finnes en angivelse som viser at det er foretatt en slik tilsetting i henhold til vilkårene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+
+5\. Denne artikkelen får anvendelse uten å berøre andre bestemmelser i næringsmidddelregelverket som gjelder bestemte næringsmiddelkategorier.
+
+6\. Regler for gjennomføring av denne artikkelen kan fastsettes etter framgangsmåten i artikkel 14 nr. 2.
 
 ### [Kapittel](forskrift/2010-02-26-247/kapiii) III
 Tilsetting av visse andre stoffer
 
 ### Artikkel 8. Stoffer som omfattes av forbud, begrensninger eller som er underlagt fellesskapskontroll
 
-1. Framgangsmåten som er fastsatt i denne artikkel, skal følges dersom et annet stoff enn vitaminer eller mineraler, eller en ingrediens som inneholder et annet stoff enn vitaminer eller mineraler, tilsettes i næringsmidler eller brukes i framstilling av næringsmidler under forhold som kan føre til at stoffet inntas i slike mengder som i stor grad overstiger de mengdene som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold, og/eller som på annen måte kan utgjøre en mulig risiko for forbrukerne.
+1\. Framgangsmåten som er fastsatt i denne artikkel, skal følges dersom et annet stoff enn vitaminer eller mineraler, eller en ingrediens som inneholder et annet stoff enn vitaminer eller mineraler, tilsettes i næringsmidler eller brukes i framstilling av næringsmidler under forhold som kan føre til at stoffet inntas i slike mengder som i stor grad overstiger de mengdene som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold, og/eller som på annen måte kan utgjøre en mulig risiko for forbrukerne.
 
-2. Kommisjonen kan på eget initiativ eller på grunnlag av opplysninger framlagt av medlemsstatene, etter myndighetens vurdering av tilgjengelig informasjon og etter framgangsmåten fastsatt i artikkel 14 nr. 2, treffe beslutning etter behov om å føre opp stoffet eller ingrediensen i vedlegg III. Særlig gjelder det:dersom en skadelig virkning er blitt påvist, skal stoffet og/eller ingrediensen som inneholder stoffet:oppføres i del A i vedlegg III, og tilsetting av det i næringsmidler eller bruk av det i framstilling av næringsmidler skal være forbudt, elleroppføres i del B i vedlegg III, og tilsetting av det i næringsmidler eller bruk av det i framstilling av næringsmidler skal bare være tillatt på de vilkår som er angitt der,dersom det er påvist at det er muligheter for skadevirkninger på helsen, men det fortsatt foreligger vitenskapelig usikkerhet, skal stoffet oppføres i del C i vedlegg III.
+2\. Kommisjonen kan på eget initiativ eller på grunnlag av opplysninger framlagt av medlemsstatene, etter myndighetens vurdering av tilgjengelig informasjon og etter framgangsmåten fastsatt i artikkel 14 nr. 2, treffe beslutning etter behov om å føre opp stoffet eller ingrediensen i vedlegg III. Særlig gjelder det:dersom en skadelig virkning er blitt påvist, skal stoffet og/eller ingrediensen som inneholder stoffet:oppføres i del A i vedlegg III, og tilsetting av det i næringsmidler eller bruk av det i framstilling av næringsmidler skal være forbudt, elleroppføres i del B i vedlegg III, og tilsetting av det i næringsmidler eller bruk av det i framstilling av næringsmidler skal bare være tillatt på de vilkår som er angitt der,dersom det er påvist at det er muligheter for skadevirkninger på helsen, men det fortsatt foreligger vitenskapelig usikkerhet, skal stoffet oppføres i del C i vedlegg III.
 
-3. Fellesskapsbestemmelser som gjelder bestemte næringsmidler, kan omfatte begrensninger for eller forbud mot bruken av visse stoffer utover dem som er fastsatt i denne forordning.
+3\. Fellesskapsbestemmelser som gjelder bestemte næringsmidler, kan omfatte begrensninger for eller forbud mot bruken av visse stoffer utover dem som er fastsatt i denne forordning.
 
-4. Driftsansvarlige for næringsmiddelforetak eller andre berørte parter, kan til enhver tid oversende til myndighetene for vurdering dokumentasjon som inneholder vitenskapelige data, på at et stoff som er oppført i del C i vedlegg III, er trygt ifølge vilkårene for dets bruk i et næringsmiddel eller i en næringsmiddelkategori, med en redegjørelse for formålet med denne bruken. Myndigheten skal omgående underrette medlemsstatene og Kommisjonen om oversendelsen, og skal stille dokumentasjonen til rådighet for dem.
+4\. Driftsansvarlige for næringsmiddelforetak eller andre berørte parter, kan til enhver tid oversende til myndighetene for vurdering dokumentasjon som inneholder vitenskapelige data, på at et stoff som er oppført i del C i vedlegg III, er trygt ifølge vilkårene for dets bruk i et næringsmiddel eller i en næringsmiddelkategori, med en redegjørelse for formålet med denne bruken. Myndigheten skal omgående underrette medlemsstatene og Kommisjonen om oversendelsen, og skal stille dokumentasjonen til rådighet for dem.
 
-5. Innen fire år etter den dato da et stoff ble oppført i del C i vedlegg III, skal det treffes en beslutning etter framgangsmåten fastsatt i artikkel 14 nr. 2, og ut fra hensyn til myndighetens uttalelse om eventuell dokumentasjon som er oversendt for vurdering som nevnt i nr. 4 i denne artikkel, om generelt å tillate bruken av et stoff som er oppført i del C i vedlegg III, eller om det skal oppføres i del A eller B i vedlegg III, etter hva som er relevant.
+5\. Innen fire år etter den dato da et stoff ble oppført i del C i vedlegg III, skal det treffes en beslutning etter framgangsmåten fastsatt i artikkel 14 nr. 2, og ut fra hensyn til myndighetens uttalelse om eventuell dokumentasjon som er oversendt for vurdering som nevnt i nr. 4 i denne artikkel, om generelt å tillate bruken av et stoff som er oppført i del C i vedlegg III, eller om det skal oppføres i del A eller B i vedlegg III, etter hva som er relevant.
 
-6. Kommisjonen skal etter framgangsmåten fastsatt i artikkel 14 nr. 2, opprette gjennomføringsregler for denne artikkel, herunder regler for oversendelsen nevnt i nr. 4 i denne artikkel.
+6\. Kommisjonen skal etter framgangsmåten fastsatt i artikkel 14 nr. 2, opprette gjennomføringsregler for denne artikkel, herunder regler for oversendelsen nevnt i nr. 4 i denne artikkel.
 
 ### [Kapittel](forskrift/2010-02-26-247/kapiv) IV
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 9. Fellesskapsregister
 
-1. Kommisjonen skal opprette og opprettholde et fellesskapsregister over tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler, heretter kalt «registeret».
+1\. Kommisjonen skal opprette og opprettholde et fellesskapsregister over tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler, heretter kalt «registeret».
 
-2. Registeret skal inneholde følgende:vitaminene og mineralene som kan tilsettes i næringsmidler som oppført i vedlegg I,vitaminpreparatene og mineralstoffene som kan tilsettes i næringsmidler som oppført i vedlegg II,største og minste mengder av vitaminer og mineraler som kan tilsettes i næringsmidler, og eventuelle tilknyttede vilkår fastsatt i samsvar med artikkel 6,opplysninger om nasjonale bestemmelser om obligatorisk tilsetting av vitaminer og mineraler nevnt i artikkel 11,eventuelle begrensninger på tilsetting av vitaminer og mineraler som fastsatt i artikkel 4,de stoffene som det er oversendt dokumentasjon for, i samsvar med artikkel 17 nr. 1 bokstav b),opplysninger om de stoffene som er nevnt i vedlegg III, og årsakene til at de er oppført der,opplysninger om stoffene som er oppført i del C i vedlegg III, som generelt er tillatt å bruke i henhold til artikkel 8 nr. 5.
+2\. Registeret skal inneholde følgende:vitaminene og mineralene som kan tilsettes i næringsmidler som oppført i vedlegg I,vitaminpreparatene og mineralstoffene som kan tilsettes i næringsmidler som oppført i vedlegg II,største og minste mengder av vitaminer og mineraler som kan tilsettes i næringsmidler, og eventuelle tilknyttede vilkår fastsatt i samsvar med artikkel 6,opplysninger om nasjonale bestemmelser om obligatorisk tilsetting av vitaminer og mineraler nevnt i artikkel 11,eventuelle begrensninger på tilsetting av vitaminer og mineraler som fastsatt i artikkel 4,de stoffene som det er oversendt dokumentasjon for, i samsvar med artikkel 17 nr. 1 bokstav b),opplysninger om de stoffene som er nevnt i vedlegg III, og årsakene til at de er oppført der,opplysninger om stoffene som er oppført i del C i vedlegg III, som generelt er tillatt å bruke i henhold til artikkel 8 nr. 5.
 
-3. Registeret skal gjøres tilgjengelig for offentligheten.
+3\. Registeret skal gjøres tilgjengelig for offentligheten.
 
 ### Artikkel 10. Fritt varebytte
 
@@ -431,33 +838,33 @@ Med forbehold for traktaten, særlig artikkel 28 og 30 i denne, kan medlemsstate
 
 ### Artikkel 11. Nasjonale bestemmelser
 
-1. Medlemsstatene skal innen 19. juli 2007 underrette Kommisjonen om gjeldende nasjonale bestemmelser om obligatorisk tilsetting av vitaminer og mineraler og om produkter som omfattes av unntaket nevnt i artikkel 4 bokstav b).
+1\. Medlemsstatene skal innen 19. juli 2007 underrette Kommisjonen om gjeldende nasjonale bestemmelser om obligatorisk tilsetting av vitaminer og mineraler og om produkter som omfattes av unntaket nevnt i artikkel 4 bokstav b).
 
-2. Dersom en medlemsstat i fravær av fellesskapsbestemmelser anser at det er nødvendig å vedta ny lovgivning:om obligatorisk tilsetting av vitaminer og mineraler til bestemte næringsmidler eller næringsmiddelkategorier, ellerom forbud mot eller begrensning av bruken av visse andre stoffer i framstillingen av bestemte næringsmidler,skal den underrette Kommisjonen etter framgangsmåten fastsatt i artikkel 12.
+2\. Dersom en medlemsstat i fravær av fellesskapsbestemmelser anser at det er nødvendig å vedta ny lovgivning:om obligatorisk tilsetting av vitaminer og mineraler til bestemte næringsmidler eller næringsmiddelkategorier, ellerom forbud mot eller begrensning av bruken av visse andre stoffer i framstillingen av bestemte næringsmidler,skal den underrette Kommisjonen etter framgangsmåten fastsatt i artikkel 12.
 
 ### Artikkel 12. Framgangsmåte for underretning
 
-1. Dersom en medlemsstat anser at det er nødvendig å vedta ny lovgivning, skal den underrette Kommisjonen og de andre medlemsstatene om de planlagte tiltakene og begrunne dem.
+1\. Dersom en medlemsstat anser at det er nødvendig å vedta ny lovgivning, skal den underrette Kommisjonen og de andre medlemsstatene om de planlagte tiltakene og begrunne dem.
 
-2. Kommisjonen skal rådspørre Komiteen nevnt i artikkel 14 nr. 1, dersom den anser at slik rådspørring er nyttig eller dersom en medlemsstat ber om det, og skal gi en uttalelse om de planlagte tiltakene.
+2\. Kommisjonen skal rådspørre Komiteen nevnt i artikkel 14 nr. 1, dersom den anser at slik rådspørring er nyttig eller dersom en medlemsstat ber om det, og skal gi en uttalelse om de planlagte tiltakene.
 
-3. Berørte medlemsstater kan treffe de planlagte tiltakene tidligst seks måneder etter at underretningen som er nevnt i nr. 1, er gitt, og forutsatt at Kommisjonen ikke har uttalt seg negativt.Dersom Kommisjonens uttalelse er negativ, skal den etter framgangsmåten i artikkel 14 nr. 2 og før utløpet av tidsrommet nevnt i første ledd i dette nummer, fastsette hvorvidt de planlagte tiltakene kan iverksettes. Kommisjonen kan kreve at det gjøres visse endringer i de planlagte tiltakene.
+3\. Berørte medlemsstater kan treffe de planlagte tiltakene tidligst seks måneder etter at underretningen som er nevnt i nr. 1, er gitt, og forutsatt at Kommisjonen ikke har uttalt seg negativt.Dersom Kommisjonens uttalelse er negativ, skal den etter framgangsmåten i artikkel 14 nr. 2 og før utløpet av tidsrommet nevnt i første ledd i dette nummer, fastsette hvorvidt de planlagte tiltakene kan iverksettes. Kommisjonen kan kreve at det gjøres visse endringer i de planlagte tiltakene.
 
 ### Artikkel 13. Beskyttelsestiltak
 
-1. Dersom en medlemsstat har tungtveiende grunner for å anta at et produkt utgjør en fare for menneskers helse til tross for at den er i samsvar med denne forordning, kan denne medlemsstaten midlertidig oppheve eller begrense anvendelsen av de aktuelle bestemmelsene på sitt territorium.Medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om dette og begrunne sin beslutning.
+1\. Dersom en medlemsstat har tungtveiende grunner for å anta at et produkt utgjør en fare for menneskers helse til tross for at den er i samsvar med denne forordning, kan denne medlemsstaten midlertidig oppheve eller begrense anvendelsen av de aktuelle bestemmelsene på sitt territorium.Medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om dette og begrunne sin beslutning.
 
-2. Det skal treffes en beslutning etter framgangsmåten i artikkel 14 nr. 2, etter at det eventuelt er innhentet en uttalelse fra myndigheten.Kommisjonen kan på egen initiativ innlede denne framgangsmåten.
+2\. Det skal treffes en beslutning etter framgangsmåten i artikkel 14 nr. 2, etter at det eventuelt er innhentet en uttalelse fra myndigheten.Kommisjonen kan på egen initiativ innlede denne framgangsmåten.
 
-3. Den medlemsstaten som er nevnt i nr. 1, kan opprettholde den midlertidige opphevingen eller begrensningen inntil den har mottatt underretning om beslutningen som nevnt i nr. 2.
+3\. Den medlemsstaten som er nevnt i nr. 1, kan opprettholde den midlertidige opphevingen eller begrensningen inntil den har mottatt underretning om beslutningen som nevnt i nr. 2.
 
 ### Artikkel 14. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), heretter kalt «komiteen».
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), heretter kalt «komiteen».
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, idet det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, idet det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 15. Overvåking
 
@@ -469,11 +876,11 @@ Kommisjonen skal innen 1. juli 201 framlegge for Europaparlamentet og rådet en 
 
 ### Artikkel 17. Overgangstiltak
 
-1. Som unntak fra artikkel 3 nr. 1 og inntil 19. januar 2014 kan medlemsstatene på sitt territorium tillate bruk av vitaminer og mineraler som ikke er oppført i vedlegg I, eller i former som ikke er oppført i vedlegg II, forutsatt at:det aktuelle stoffet brukes som tilsetting i næringsmidler som omsettes i Fellesskapet 19. januar 2007, ogmyndigheten har ikke avgitt negativ uttalelse om bruken av det aktuelle stoffet eller bruken av det i den aktuelle formen ved framstilling av næringsmidler, på grunnlag av dokumentasjon som støtter bruk av det aktuelle stoffet, som medlemsstaten skal legge fram for Kommisjonen senest 19. januar 2010.
+1\. Som unntak fra artikkel 3 nr. 1 og inntil 19. januar 2014 kan medlemsstatene på sitt territorium tillate bruk av vitaminer og mineraler som ikke er oppført i vedlegg I, eller i former som ikke er oppført i vedlegg II, forutsatt at:det aktuelle stoffet brukes som tilsetting i næringsmidler som omsettes i Fellesskapet 19. januar 2007, ogmyndigheten har ikke avgitt negativ uttalelse om bruken av det aktuelle stoffet eller bruken av det i den aktuelle formen ved framstilling av næringsmidler, på grunnlag av dokumentasjon som støtter bruk av det aktuelle stoffet, som medlemsstaten skal legge fram for Kommisjonen senest 19. januar 2010.
 
-2. Inntil 19. januar 2014 kan medlemsstatene i samsvar med traktatens bestemmelser fortsatt anvende eksisterende nasjonale begrensninger på eller forbud mot handel med næringsmidler som er tilsatt vitaminer og mineraler som ikke er oppført på listen i vedlegg I, eller i former som ikke er oppført i vedlegg II.
+2\. Inntil 19. januar 2014 kan medlemsstatene i samsvar med traktatens bestemmelser fortsatt anvende eksisterende nasjonale begrensninger på eller forbud mot handel med næringsmidler som er tilsatt vitaminer og mineraler som ikke er oppført på listen i vedlegg I, eller i former som ikke er oppført i vedlegg II.
 
-3. Medlemsstatene kan, i samsvar med traktatens bestemmelser, fortsatt anvende eksisterende nasjonale bestemmelser om største og minste mengder av de vitaminene og mineralene oppført i vedlegg I som er tilsatt i næringsmidler, og om de vilkår som gjelder for denne tilsettingen, inntil det vedtas tilsvarende fellesskapstiltak i samsvar med artikkel 6 eller i henhold til andre særlige fellesskapsbestemmelser.
+3\. Medlemsstatene kan, i samsvar med traktatens bestemmelser, fortsatt anvende eksisterende nasjonale bestemmelser om største og minste mengder av de vitaminene og mineralene oppført i vedlegg I som er tilsatt i næringsmidler, og om de vilkår som gjelder for denne tilsettingen, inntil det vedtas tilsvarende fellesskapstiltak i samsvar med artikkel 6 eller i henhold til andre særlige fellesskapsbestemmelser.
 
 ### Artikkel 18. Ikrafttredelse
 
@@ -487,8 +894,16 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 20. desember 2006.
 
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| J. BORRELL FONTELLES | J. KORKEAOJA |
+| *President* | *Formann* |
+
 ### Vedlegg I
 Vitaminer og mineraler som kan tilsettes i næringsmidler
+
+*1. Vitaminer*
 
 - Vitamin A
 - Vitamin B
@@ -503,6 +918,8 @@ Vitaminer og mineraler som kan tilsettes i næringsmidler
 - Vitamin B12
 - Biotin
 - Vitamin C
+
+*2. Mineraler*
 
 - Kalsium
 - Magnesium
@@ -526,13 +943,21 @@ Vitaminer og mineraler som kan tilsettes i næringsmidler
 ### ► **M1** Vedlegg II
 Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 
+*1. Vitaminforbindelser*
+
+*VITAMIN A*
+
 - retinol
 - retinylacetat
 - retinylpalmitat
 - betakaroten
 
+*VITAMIN D*
+
 - kolekalciferol
 - kalciferol
+
+*VITAMIN E*
 
 - D-alfa-tokoferol
 - DL-alfa-tokoferol
@@ -540,41 +965,63 @@ Vitamin- og mineralforbindelser som kan tilsettes i næringsmidler
 - DL-alfa-tokoferylacetat
 - D-alfa-tokoferylsyresuksinat
 
+*VITAMIN K*
+
 - fyllokinon (fytomenadion)
-- menaquinon*
+- menaquinon\*
+
+*VITAMIN B1*
 
 - tiaminhydroklorid
 - tiaminmononitrat
 
+*VITAMIN B2*
+
 - riboflavin
 - riboflavin-5'-natriumfosfat
+
+*NIACIN*
 
 - nikotinsyre
 - nikotinamid►**M13**
 - nikotinamidribosidklorid◄**M13**
 
+*PANTOTENSYRE*
+
 - kalsium-D-pantotenat
 - natrium-D-pantotenat
 - dexpantenol
+
+*VITAMIN B6*
 
 - pyridoksinhydroklorid
 - pyridoksin-5'-fosfat
 - pyridoksindipalmitat
 
+*FOLSYRE*
+
 - pteroylmonoglutaminsyre
 - kalsium-L-metylfolat►**M14**
-- mononatriumsalt av L-5-metyltetrahydrofolsyre**◄**M14**
+- mononatriumsalt av L-5-metyltetrahydrofolsyre\*\*◄**M14**
+
+*VITAMIN B12*
 
 - cyanokobalamin
 - hydroksokobalamin
 
+*BIOTIN*
+
 - D-biotin
+
+*VITAMIN C*
 
 - L-askorbinsyre
 - natrium L-askorbat
 - kalsium L-askorbat
 - kalium L-askorbat
 - L-askorbyl 6-palmitat
+
+*2. Mineralforbindelser*
 
 - kalsiumkarbonat
 - kalsiumklorid
@@ -650,7 +1097,7 @@ kalsiumfosforyloligosakkarider
 - natriumlaktat
 - natriumhydroksid
 - natriumsalter av ortofosforsyre
-- selenberiket gjær***
+- selenberiket gjær\*\*\*
 - natriumselenat
 - natriumhydrogenselenitt
 - natriumselenitt
@@ -678,8 +1125,22 @@ kalsiumfosforyloligosakkarider
 - borsyre
 - natriumborat
 
+\* Menaquinon forekommer primært som menaquinon-7 og i mindre omfang som menaquinon-6.
+
+►**M14**
+
+\*\* Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72, ELI: [https://data.europa.eu/eli/reg_impl/2017/2470/oj](https://eur-lex.europa.eu/eli/reg_impl/2017/2470/oj)).
+
+◄**M14**
+
+\*\*\* Selenberiket gjær som er framstilt ved dyrking med forekomst av natriumselenitt som selenkilde, og som i tørket form som markedsført høyst inneholder 2,5 mg Se/g. Den dominerende organiske formen av selen som forekommer i gjæren er selenometionin (mellom 60 og 85 % av samlet ekstrahert selen i produktet). Innholdet av andre organiske selenforbindelser, herunder selenocystein skal høyst utgjøre 10 % av samlet ekstrahert selen. Innholdet av uorganisk selen skal normalt høyst utgjøre 1 % av samlet ekstrahert selen.
+
+◄**M1**
+
 ### Vedlegg III
 Stoffer hvis bruk i næringsmidler er forbudt, begrenset eller er underlagt fellesskapskontroll
+
+Del A – Forbudte stoffer
 
 - ►**M8** Aloe-emodin og alle preparater som inneholder dette stoffet◄**M8**
 - ►**M8** Dantron og alle preparater som inneholder dette stoffet ◄**M8**
@@ -688,17 +1149,35 @@ Stoffer hvis bruk i næringsmidler er forbudt, begrenset eller er underlagt fell
 - ►**M8** Preparater av blader fra Aloe-arter som inneholder hydroksyantracenderivater ◄**M8**
 - ►**M6** Yohimbinbark og preparater av dette som stammer fra yohimbin (*Pausinystalia yohimbe* (K. Schum) Pierre ex Beille ◄**M6**
 
-- **►M12** Ekstrakter av grønn te som inneholder (-)-epigallokatekin-3-gallat * **◄M12**
+Del B – Stoffer som er underlagt begrensninger
+
+| *Stoff underlagt begrensninger* | *Bruksvilkår* | *Tilleggskrav* |
+| --- | --- | --- |
+| ►**M7** Andre **transfettsyrer** enn dem som forekommer naturlig i fett av animalsk opprinnelse | Høyst 2 gram per 100 gram fett i næringsmidler beregnet på sluttforbrukere og næringsmidler beregnet på levering til detaljhandelen | Driftsansvarlige for næringsmiddelforetak som leverer næringsmidler som ikke er beregnet på sluttforbrukere eller ikke er beregnet på levering til detaljhandelen, til andre driftsansvarlige for næringsmiddelforetak, skal sikre at disse får opplysninger om mengden av andre transfettsyrer enn dem som forekommer naturlig i fett av animalsk opprinnelse, dersom denne mengden overstiger 2 gram per 100 gram fett ◄**M7** |
+| ►**M12** Ekstrakter av grønn te som inneholder (-)-epigallokatekin-3-gallat\*<br><br>\*unntatt grønn te-ekstrakter som er produsert ved ekstraksjon med vann og som etter rekonstituering viser en sammensetning som kan sammenlignes med tradisjonelle infusjoner av grønn te | En daglig porsjon næringsmiddel skal inneholde mindre enn 800 mg (-)-epigallokatekin-3-gallat | Etiketten skal angi det maksimale antallet porsjoner av næringsmiddelet per dag, og en advarsel mot at daglig inntak av (-)-epigallokatekin-3-gallat ikke må overskride 800 mg.<br><br>Etiketten skal angi innholdet av (-)-epigallokatekin-3-gallat per porsjon av næringsmiddelet.<br><br>Etiketten skal inneholde følgende advarsler:<br><br>«Bør ikke inntas dersom andre produkter som inneholder grønn te, inntas samme dag».<br><br>«Bør ikke inntas av gravide eller ammende kvinner, eller barn under 18 år».<br><br>«Bør ikke inntas på tom mage». **◄M12** |
+| ►**M11** Monakoliner fra rød gjæret ris | En enkeltporsjon av produktet beregnet på daglig inntak skal inneholde mindre enn 3 mg monakoliner fra rød gjæret ris | Etiketten skal angi antall enkeltporsjoner av produktet som utgjør det maksimale daglige inntaket, og en advarsel mot et daglig inntak av monakoliner fra rød gjæret ris på 3 mg eller mer.<br><br>Etiketten skal angi innholdet av monakoliner per porsjon av produktet.<br><br>Etiketten skal inneholde følgende advarsler:<br>«Bør ikke inntas av gravide eller ammende kvinner, barn under 18 år eller voksne over 70 år.»<br><br>«Rådfør deg med lege hvis du opplever helseproblemer ved inntak av dette produktet.»<br><br>«Bør ikke inntas hvis du bruker kolesterolsenkende medisiner.»<br><br>«Bør ikke inntas dersom du allerede bruker andre produkter som inneholder rød gjæret ris.» ◄**M11** |
+
+\* ►**M12** unntatt ekstrakter av vandig grønn te som inneholder (-)-epigallokatekin-3-gallat, som etter rekonstituering i drikker har en sammensetning som er sammenlignbar med tradisjonelle uttrekk av grønn te.**◄M12**
+
+Del C – Stoffer som er underlagt fellesskapskontroll
+
+- **►M12** Ekstrakter av grønn te som inneholder (-)-epigallokatekin-3-gallat \* **◄M12**
 - ► **M8** Preparater av røtter eller jordstengler av *Rheum palmatum* L., *Rheum officinale* Baillon og hybrider av disse som inneholder hydroksyantracenderivater
 - Preparater av blader eller frukter av *Cassia senna* L. som inneholder hydroksyantracenderivater
 - Preparater av bark av *Rhamnus frangula* L., *Rhamnus purshiana* DC. som inneholder hydroksyantracenderivater ◄ **M8**
 - ►**M11** Monakoliner fra rød gjæret ris ◄**M11**
+
+\* ► **M12** unntatt ekstrakter av vandig grønn te som inneholder (-)-epigallokatekin-3-gallat, som etter rekonstituering i drikker har en sammensetning som er sammenlignbar med tradisjonelle uttrekk av grønn te.**◄M12**
 
 ### Konsolidert forordning [(EF) nr. 307/2012](eu/32012r0307)
 
 > Forordningen tilføyd ved forskrift [5 feb 2013 nr. 251](forskrift/2013-02-05-251), endret ved forskrifter [1 juli 2022 nr. 1301](forskrift/2022-07-01-1301), [25 sep 2023 nr. 1515](forskrift/2023-09-25-1515).
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 307/2012](eu/32012r0307). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) 2021/842](eu/32021r0842) og forordning [(EU) 2023/612](eu/32023r0612). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II, kapittel XII nr. 54zzzzzn er innarbeidet nedenfor.
+
+►**B** Forordning [(EU) nr. 307/2012](eu/32012r0307) av 11. april 2012
+
+som endret ved
 
 - ►**M1** Forordning [(EU) 2021/842](eu/32021r0842) av 26. mai 2021
 - ►**M2** Forordning [(EU) 2023/612](eu/32023r0612) av 17. mars 2023
@@ -707,11 +1186,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 307/
 av 11. april 2012
 om fastsettelse av gjennomføringsregler for anvendelse av artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler,1 særlig artikkel 8 nr. 6, og
 
 ut fra følgende betraktninger:En anmodning fra en medlemsstat eller et initiativ fra Kommisjonen om å iverksette framgangsmåten fastsatt i artikkel 8 nr. 2 i forordning [(EF) nr. 1925/2006](eu/32006r1925) for å forby, begrense eller underlegge unionskontroll andre stoffer enn vitaminer eller mineraler, eller ingredienser som inneholder andre stoffer enn vitaminer eller mineraler, som tilsettes i næringsmidler eller brukes ved framstillingen av næringsmidler, bør oppfylle visse vilkår, og det bør fastsettes ensartede regler for å kontrollere at disse vilkårene oppfylles. Et av vilkårene som er fastsatt i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925), er at stoffet inntas i mengder som langt overstiger et normalt inntak gjennom et balansert og variert kosthold, og at relevante vitenskapelige data har påvist at det kan utgjøre en mulig risiko for forbrukerne. I artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925) angis det videre at framgangsmåten også vil få anvendelse dersom stoffet utgjør en mulig helserisiko av andre årsaker enn at inntaket langt overskrider det normale. I tillegg angis det i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925) at stoffet skal tilsettes i næringsmidler eller brukes ved framstillingen av næringsmidler.Ved anvendelse av ovennevnte vilkår bør inntaket via kosten av det berørte stoffet i mengder som langt overstiger de mengdene som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold, avspeile det faktiske inntaket av stoffet og ikke en teoretisk antakelse. Videre bør inntaket via kosten vurderes fra sak til sak og sammenlignes med det gjennomsnittlige inntaket av stoffet hos den voksne befolkningen eller hos andre befolkningsgrupper der det er påvist en mulig risiko.Den medlemsstaten som legger fram en anmodning, bør gi de nødvendige opplysninger for å vise at vilkårene i henhold til forordning [(EF) nr. 1925/2006](eu/32006r1925) er oppfylt. Dette bør omfatte opplysninger om omsetning av næringsmidler som inneholder stoffet og tilgjengelige og allment anerkjente vitenskapelige bevis som knytter stoffet til en mulig risiko for forbrukere. Bare de anmodningene som fastslås å være fullstendige, bør sendes til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt myndigheten) for en sikkerhetsvurdering på grunnlag av tilgjengelige opplysninger. Myndigheten bør avgi en uttalelse om stoffets sikkerhet innen en bestemt tidsfrist som angitt i artikkel 29 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).2 Berørte parter bør gis mulighet til å legge fram synspunkter til Kommisjonen etter at myndigheten har offentliggjort sin uttalelse.I henhold til artikkel 8 nr. 4 i forordning [(EF) nr. 1925/2006](eu/32006r1925) kan driftsansvarlige for næringsmiddelforetak eller andre berørte parter til enhver tid innlevere til myndighetene for vurdering dokumentasjon som inneholder vitenskapelige data på at et stoff som er oppført i del C i vedlegg III til nevnte forordning, er trygt ifølge vilkårene for bruken av stoffet i et næringsmiddel eller i en næringsmiddelgruppe, med en redegjørelse for formålet med denne bruken. En slik dokumentasjon som er levert inn av en driftsansvarlig for et næringsmiddelforetak eller en berørt part, bør være basert på tekniske retningslinjer som myndigheten har vedtatt eller godkjent, som retningslinjer for innlevering av dokumentasjon for sikkerhetsvurdering av kilder til næringsstoffer eller andre ingredienser som foreslås for bruk ved framstilling av næringsmidler, eller senere omarbeidede versjoner av slike retningslinjer.For at Kommisjonen skal kunne treffe en beslutning om et stoff som er oppført i del C vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) innen den fastsatte fristen, bør bare den dokumentasjonen som er framlagt innen 18 måneder etter at stoffet ble oppført i nevnte vedlegg, tas i betraktning. For at Kommisjonen skal kunne treffe en beslutning innen angitt frist bør myndigheten dessuten avgi sin uttalelse om stoffets sikkerhet innen en frist på ni måneder etter at den mottok dokumentasjonen som anses som gyldig og fullstendig i samsvar med retningslinjene som er vedtatt eller godkjent av myndigheten.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 26.
+
+2 EFT L 31 av 1.2.2002, s. 1.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
@@ -723,31 +1210,37 @@ I denne forordning menes med:*anmodning* en medlemsstats framlegging av opplysni
 
 ### Artikkel 3. Vilkår som en anmodning skal oppfylle
 
-1. Ved vurdering av de forhold under hvilke det berørte stoffet er tilsatt næringsmidlene eller brukt ved framstilling av næringsmidler som fastsatt i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925), skal det tas i betraktning om næringsmiddelet som stoffet er tilsatt til, er brakt i omsetning i en eller flere medlemsstater.
+1\. Ved vurdering av de forhold under hvilke det berørte stoffet er tilsatt næringsmidlene eller brukt ved framstilling av næringsmidler som fastsatt i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925), skal det tas i betraktning om næringsmiddelet som stoffet er tilsatt til, er brakt i omsetning i en eller flere medlemsstater.
 
-2. Medlemsstater kan framlegge en anmodning for Kommisjonen når vurderingen nevnt i nr. 1 viser minst ett av de følgende:en mulig risiko for forbrukerne er knyttet til at stoffet inntas i mengder som langt overstiger de mengdene som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold, på grunn av de forhold under hvilke det berørte stoffet er tilsatt næringsmidlene eller brukt ved framstilling av næringsmidler,en mulig risiko for forbrukerne er knyttet til inntak av dette stoffet av den voksne befolkningen eller av andre bestemte befolkningsgrupper der det er påvist en mulig risiko.
+2\. Medlemsstater kan framlegge en anmodning for Kommisjonen når vurderingen nevnt i nr. 1 viser minst ett av de følgende:en mulig risiko for forbrukerne er knyttet til at stoffet inntas i mengder som langt overstiger de mengdene som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold, på grunn av de forhold under hvilke det berørte stoffet er tilsatt næringsmidlene eller brukt ved framstilling av næringsmidler,en mulig risiko for forbrukerne er knyttet til inntak av dette stoffet av den voksne befolkningen eller av andre bestemte befolkningsgrupper der det er påvist en mulig risiko.
 
-3. Ved denne forordning fastsettes det at forhold som medfører at stoffet inntas i mengder som langt overstiger de mengder som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold skal oppstå under reelle omstendigheter og skal vurderes fra sak til sak og sammenlignes med gjennomsnittlig inntak av det berørte stoffet av den voksne befolkningen eller andre bestemte befolkningsgrupper der det er påvist en mulig risiko.
+3\. Ved denne forordning fastsettes det at forhold som medfører at stoffet inntas i mengder som langt overstiger de mengder som rimeligvis kan forventes å bli inntatt under normale forhold gjennom et balansert og variert kosthold skal oppstå under reelle omstendigheter og skal vurderes fra sak til sak og sammenlignes med gjennomsnittlig inntak av det berørte stoffet av den voksne befolkningen eller andre bestemte befolkningsgrupper der det er påvist en mulig risiko.
 
-4. Vilkår og krav fastsatt i denne artikkel nr. 1, 2 og 3 og kravene fastsatt i artikkel 4 i denne forordning skal anvendes *mutatis mutandis* der framgangsmåten i artikkel 8 i forordning [(EF) nr. 1925/2006](eu/32006r1925) er iverksatt av Kommisjonen.
+4\. Vilkår og krav fastsatt i denne artikkel nr. 1, 2 og 3 og kravene fastsatt i artikkel 4 i denne forordning skal anvendes *mutatis mutandis* der framgangsmåten i artikkel 8 i forordning [(EF) nr. 1925/2006](eu/32006r1925) er iverksatt av Kommisjonen.
 
 ### Artikkel 4. Anmodningens innhold
 
-1. Anmodningen skal inneholde tilgjengelig og relevant allment anerkjente vitenskapelige bevis som påviser at vilkårene fastsatt i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925) er oppfylt, og skal omfatte:Bevis som påviser at stoffet er tilsatt næringsmidler eller brukt ved framstillingen av næringsmidler.Som nevnt i artikkel 3 nr. 1 i denne forordning skal slike bevis omfatte opplysninger om den nåværende omsetningen av næringsmidler som inneholder stoffet.Bevis som i tilfeller nevnt i artikkel 3 nr. 2 bokstav a) påviser at inntaket av stoffet langt overstiger inntaket under normale forhold gjennom et balansert og variert kosthold, og er vurdert til å være i samsvar med artikkel 3 nr. 3.Slike bevis skal omfatte vitenskapelige opplysninger som gjengir det reelle inntaket av stoffet gjennom kosten hentet fra de seneste tilgjengelige undersøkelser om inntak gjennom kosten eller om kosthold. Næringsmidler som har fått tilsatt stoffet og/eller kosttilskudd som inneholder stoffet, kan også tas i betraktning. Medlemsstater skal redegjøre for bakgrunnen for sin vurdering av «inntak under normale forhold gjennom et balansert og variert kosthold» når anmodningen legges fram.Bevis som påviser at inntak av stoffet utgjør en mulig risiko for forbrukere.Disse bevisene skal inneholde relevante vitenskapelige opplysninger herunder godkjente rapporter som ikke tidligere er offentliggjort, vitenskapelige uttalelser fra et offentlig risikovurderingsorgan eller uavhengige og fagfellevurderte artikler. Det skal framlegges et sammendrag av de vitenskapelige opplysningene og en oversikt over referansene til de vitenskapelige opplysningene.
+1\. Anmodningen skal inneholde tilgjengelig og relevant allment anerkjente vitenskapelige bevis som påviser at vilkårene fastsatt i artikkel 8 nr. 1 i forordning [(EF) nr. 1925/2006](eu/32006r1925) er oppfylt, og skal omfatte:Bevis som påviser at stoffet er tilsatt næringsmidler eller brukt ved framstillingen av næringsmidler.Som nevnt i artikkel 3 nr. 1 i denne forordning skal slike bevis omfatte opplysninger om den nåværende omsetningen av næringsmidler som inneholder stoffet.Bevis som i tilfeller nevnt i artikkel 3 nr. 2 bokstav a) påviser at inntaket av stoffet langt overstiger inntaket under normale forhold gjennom et balansert og variert kosthold, og er vurdert til å være i samsvar med artikkel 3 nr. 3.Slike bevis skal omfatte vitenskapelige opplysninger som gjengir det reelle inntaket av stoffet gjennom kosten hentet fra de seneste tilgjengelige undersøkelser om inntak gjennom kosten eller om kosthold. Næringsmidler som har fått tilsatt stoffet og/eller kosttilskudd som inneholder stoffet, kan også tas i betraktning. Medlemsstater skal redegjøre for bakgrunnen for sin vurdering av «inntak under normale forhold gjennom et balansert og variert kosthold» når anmodningen legges fram.Bevis som påviser at inntak av stoffet utgjør en mulig risiko for forbrukere.Disse bevisene skal inneholde relevante vitenskapelige opplysninger herunder godkjente rapporter som ikke tidligere er offentliggjort, vitenskapelige uttalelser fra et offentlig risikovurderingsorgan eller uavhengige og fagfellevurderte artikler. Det skal framlegges et sammendrag av de vitenskapelige opplysningene og en oversikt over referansene til de vitenskapelige opplysningene.
 
-2. Kommisjonen kan be medlemsstatene om klargjøringer og tilleggsopplysninger dersom anmodningen ikke er fullstendig.
+2\. Kommisjonen kan be medlemsstatene om klargjøringer og tilleggsopplysninger dersom anmodningen ikke er fullstendig.
 
-3. Kommisjonen skal offentliggjøre fullstendige anmodninger fra medlemsstatene på sitt offisielle nettsted.
+3\. Kommisjonen skal offentliggjøre fullstendige anmodninger fra medlemsstatene på sitt offisielle nettsted.
 
-4. Kommisjonen skal sende anmodningen til myndigheten ledsaget av alle tilgjengelige opplysninger etter samråd med medlemsstaten. Myndigheten skal avgi en vitenskapelig uttalelse innen angitt tidsfrist fastsatt i artikkel 29 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+4\. Kommisjonen skal sende anmodningen til myndigheten ledsaget av alle tilgjengelige opplysninger etter samråd med medlemsstaten. Myndigheten skal avgi en vitenskapelig uttalelse innen angitt tidsfrist fastsatt i artikkel 29 nr. 3 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
-5. Berørte parter kan framlegge kommentarer for Kommisjonen innen 30 dager etter at myndighetens uttalelse ble offentliggjort.
+5\. Berørte parter kan framlegge kommentarer for Kommisjonen innen 30 dager etter at myndighetens uttalelse ble offentliggjort.
+
+►**M1**
 
 ### Artikkel 5. Stoff som er oppført i del C i vedlegg III til forordning (EF) nr. 1925/2006
 
-1. Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal bare dokumentasjon framlagt i elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter, anses som gyldig av myndigheten.Etter vedtakelsen av de standardiserte dataformatene skal dokumentasjonen framlegges i samsvar med nevnte standardiserte dataformater for å bli ansett som gyldig.Dersom myndigheten anser at dokumentasjonen ikke er gyldig, skal den underrette den driftsansvarlige eller den berørte parten som har framlagt dokumentasjonen, og Kommisjonen om årsakene til at den ikke anser dokumentasjonen som gyldig.
+1\. Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal bare dokumentasjon framlagt i elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter, anses som gyldig av myndigheten.Etter vedtakelsen av de standardiserte dataformatene skal dokumentasjonen framlegges i samsvar med nevnte standardiserte dataformater for å bli ansett som gyldig.Dersom myndigheten anser at dokumentasjonen ikke er gyldig, skal den underrette den driftsansvarlige eller den berørte parten som har framlagt dokumentasjonen, og Kommisjonen om årsakene til at den ikke anser dokumentasjonen som gyldig.
 
-2. Myndigheten skal i forbindelse med beslutningen nevnt i artikkel 8 nr. 5 i forordning [(EF) nr. 1925/2006](eu/32006r1925) bare ta hensyn til dokumentasjon som er framlagt innen 24 måneder etter ikrafttredelsen av en beslutning om å føre opp et stoff i del C i vedlegg III til nevnte forordning, i samsvar med forordningens artikkel 8 nr. 2.
+2\. Myndigheten skal i forbindelse med beslutningen nevnt i artikkel 8 nr. 5 i forordning [(EF) nr. 1925/2006](eu/32006r1925) bare ta hensyn til dokumentasjon som er framlagt innen 24 måneder etter ikrafttredelsen av en beslutning om å føre opp et stoff i del C i vedlegg III til nevnte forordning, i samsvar med forordningens artikkel 8 nr. 2.
+
+◄**M1**
+
+►**M1**
 
 ### Artikkel 5a. Rådgivning før inngivelse
 
@@ -759,11 +1252,11 @@ Slike råd før inngivelsen skal gis i samsvar med artikkel 32a i forordning [(E
 
 ### Artikkel 5b. Melding om undersøkelser
 
-1. Driftsansvarlige for næringsmiddelforetak og andre berørte parter skal uten unødig opphold melde fra til myndigheten om tittelen på, omfanget av og start- og sluttdatoen for enhver undersøkelse som de bestiller eller gjennomfører for å dokumentere at et stoff oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) er trygt, samt om hvilket laboratorium eller forsøksanlegg i Unionen som gjennomfører undersøkelsen.
+1\. Driftsansvarlige for næringsmiddelforetak og andre berørte parter skal uten unødig opphold melde fra til myndigheten om tittelen på, omfanget av og start- og sluttdatoen for enhver undersøkelse som de bestiller eller gjennomfører for å dokumentere at et stoff oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) er trygt, samt om hvilket laboratorium eller forsøksanlegg i Unionen som gjennomfører undersøkelsen.
 
-2. Laboratorier og andre forsøksanlegg i Unionen skal også uten unødig opphold melde fra til myndigheten om tittelen på og omfanget av enhver undersøkelse som bestilles av driftsansvarlige og andre berørte parter, og som gjennomføres av disse laboratoriene eller disse andre forsøksanleggene for å dokumentere at et stoff oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) er trygt, og om undersøkelsens startdato og planlagte sluttdato samt navnet på den driftsansvarlige eller andre berørte parten som bestilte undersøkelsen.
+2\. Laboratorier og andre forsøksanlegg i Unionen skal også uten unødig opphold melde fra til myndigheten om tittelen på og omfanget av enhver undersøkelse som bestilles av driftsansvarlige og andre berørte parter, og som gjennomføres av disse laboratoriene eller disse andre forsøksanleggene for å dokumentere at et stoff oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) er trygt, og om undersøkelsens startdato og planlagte sluttdato samt navnet på den driftsansvarlige eller andre berørte parten som bestilte undersøkelsen.
 
-3. Myndigheten skal registrere undersøkelser som meldes i samsvar med denne artikkelen, i databasen nevnt i artikkel 32b nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+3\. Myndigheten skal registrere undersøkelser som meldes i samsvar med denne artikkelen, i databasen nevnt i artikkel 32b nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
 ### Artikkel 5c. Innsyn
 
@@ -775,17 +1268,23 @@ Ved inngivelse av dokumentasjon kan den driftsansvarlige for næringsmiddelforet
 
 En slik anmodning om fortrolighet skal ha en verifiserbar begrunnelse som viser at offentliggjøring av disse opplysningene eller dataene skader anmoderens interesser i vesentlig grad i henhold til artikkel 39 nr. 2 og 3 i forordning [(EF) nr. 178/2002](eu/32002r0178), som skal gjelde tilsvarende med de nødvendige endringene.
 
+◄**M1**
+
+►**M2**
+
 ### Artikkel 6. Myndighetens uttalelse
 
-1. Myndigheten skal vurdere gyldigheten av all dokumentasjon som er framlagt i henhold til artikkel 5 i denne forordningen, innen 30 dager etter at dokumentasjonen er mottatt.
+1\. Myndigheten skal vurdere gyldigheten av all dokumentasjon som er framlagt i henhold til artikkel 5 i denne forordningen, innen 30 dager etter at dokumentasjonen er mottatt.
 
-2. Myndigheten skal avgi sin uttalelse om dokumentasjonen den anser som gyldig i henhold til artikkel 5 i denne forordningen innen ni måneder etter utgangen av 24-månedersperioden nevnt i artikkel 5 nr. 2 i denne forordningen.
+2\. Myndigheten skal avgi sin uttalelse om dokumentasjonen den anser som gyldig i henhold til artikkel 5 i denne forordningen innen ni måneder etter utgangen av 24-månedersperioden nevnt i artikkel 5 nr. 2 i denne forordningen.
 
-3. Dersom det inngis flere dokumenter om det samme stoffet eller denne samme stoffgruppen i samsvar med artikkel 5 i denne forordningen, skal myndigheten avgi én uttalelse om disse dokumentene.
+3\. Dersom det inngis flere dokumenter om det samme stoffet eller denne samme stoffgruppen i samsvar med artikkel 5 i denne forordningen, skal myndigheten avgi én uttalelse om disse dokumentene.
 
-4. Myndigheten kan anmode en driftsansvarlig for næringsmiddelforetak eller en berørt part om å framlegge tilleggsopplysninger til dokumentasjonen innen 15 dager etter myndighetens anmodning er mottatt.Dersom myndigheten anmoder om tilleggsopplysninger, inkludert opplysninger om vilkårene for bruk av stoffet i et næringsmiddel eller i en næringsmiddelkategori og formålet med denne bruken, kan den forlenge fristen nevnt i nr. 2.Fristen kan forlenges bare én gang med opptil tre måneder. Denne fristen skal omfatte den fristen som er fastsatt i første ledd for den driftsansvarlige for næringsmiddelforetak eller enhver berørt part til å framlegge de opplysningene det er anmodet om.
+4\. Myndigheten kan anmode en driftsansvarlig for næringsmiddelforetak eller en berørt part om å framlegge tilleggsopplysninger til dokumentasjonen innen 15 dager etter myndighetens anmodning er mottatt.Dersom myndigheten anmoder om tilleggsopplysninger, inkludert opplysninger om vilkårene for bruk av stoffet i et næringsmiddel eller i en næringsmiddelkategori og formålet med denne bruken, kan den forlenge fristen nevnt i nr. 2.Fristen kan forlenges bare én gang med opptil tre måneder. Denne fristen skal omfatte den fristen som er fastsatt i første ledd for den driftsansvarlige for næringsmiddelforetak eller enhver berørt part til å framlegge de opplysningene det er anmodet om.
 
-5. Dersom myndigheten forlenger fristen i samsvar med nr. 4, skal den underrette Kommisjonen og alle driftsansvarlige for næringsmiddelforetak eller berørte parter som har framlagt dokumentasjon om samme stoff eller stoffgruppe, om dette.Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6 tilgjengelige for Kommisjonen og medlemsstatene.
+5\. Dersom myndigheten forlenger fristen i samsvar med nr. 4, skal den underrette Kommisjonen og alle driftsansvarlige for næringsmiddelforetak eller berørte parter som har framlagt dokumentasjon om samme stoff eller stoffgruppe, om dette.Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6 tilgjengelige for Kommisjonen og medlemsstatene.
+
+◄**M2**
 
 ### Artikkel 7
 
@@ -794,6 +1293,12 @@ Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europ
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 11. april 2012.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Forordning (EU) nr. 489/2012
 
@@ -805,11 +1310,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 489/
 av 8. juni 2012
 om fastsettelse av gjennomføringsregler for anvendelse av artikkel 16 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om opprettelse av Den europeiske union,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler,1 særlig artikkel 16, og
 
 ut fra følgende betraktninger:Ved artikkel 16 i forordning [(EF) nr. 1925/2006](eu/32006r1925) er det fastsatt at Kommisjonen innen 1. juli 2013 skal framlegge for Europaparlamentet og Rådet en rapport om virkningene av gjennomføringen av nevnte forordning. I denne sammenheng skal medlemsstatene framlegge nødvendige relevante opplysninger til Kommisjonen innen 1. juli 2012.De nødvendige relevante opplysninger som skal framlegges av medlemsstatene, bør gjelde utviklingen på markedet for næringsmidler som er tilsatt vitaminer og mineraler, herunder data som viser utviklingstrekk på markedet etter at tilsetting av vitaminer og mineraler i næringsmidler ble harmonisert på unionsplan.Slike opplysninger bør omfatte forbruksmønstre for næringsmidler som er tilsatt vitaminer og mineraler, opplysninger om inntak av vitaminer og mineraler i befolkningen og, dersom det er relevant, i bestemte befolkningsgrupper. Dette bør omfatte opplysninger som viser endringer i kostvaner etter at tilsetting av vitaminer og mineraler ble harmonisert på unionsplan.De nødvendige relevante opplysninger som skal framlegges av medlemsstatene, bør også gjelde tilsetting av andre stoffer enn vitaminer og mineraler i næringsmidler, herunder kosttilskudd, som fastsatt ved europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) av 10. juni 2002 om tilnærming av medlemsstatenes lovgivning om kosttilskudd.2 Slike opplysninger bør omfatte opplysninger om konsum av slike næringsmidler og hvor store stoffmengder som er tilsatt, og opplysninger om eventuelle nasjonale tiltak som er truffet for å begrense eller forby bruken av visse andre stoffer i næringsmidler.Gjennom disse gjennomføringsregler bør det fastsettes en liste over relevante opplysninger som medlemsstatene bør samle inn og framlegge for Kommisjonen, og en felles mal for framlegging av opplysningene.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 26.
+
+2 EFT L 183 av 12.7.2002, s. 51.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
@@ -817,11 +1330,11 @@ Ved denne forordning er det fastsatt gjennomføringsregler for anvendelse av art
 
 ### Artikkel 2. Relevante opplysninger
 
-1. Medlemsstatene skal innen 1. juli 2012 framlegge for Kommisjonen nødvendige relevante opplysninger, særlig om følgende:utviklingen på det nasjonale markedet for næringsmidler som er tilsatt vitaminer og mineraler etter at forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse,forbruksmønstre for næringsmidler tilsatt vitaminer og mineraler,befolkningens inntak av vitaminer og mineraler,tilsetting av andre stoffer enn vitaminer og mineraler i næringsmidler, herunder kosttilskudd, som definert i artikkel 2 bokstav a) i direktiv [2002/46/EF](eu/32002l0046), opplysninger om forbruksmønstre for slike næringsmidler og hvor store mengder av stoffene som tilsettes i næringsmidler og kosttilskudd.
+1\. Medlemsstatene skal innen 1. juli 2012 framlegge for Kommisjonen nødvendige relevante opplysninger, særlig om følgende:utviklingen på det nasjonale markedet for næringsmidler som er tilsatt vitaminer og mineraler etter at forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse,forbruksmønstre for næringsmidler tilsatt vitaminer og mineraler,befolkningens inntak av vitaminer og mineraler,tilsetting av andre stoffer enn vitaminer og mineraler i næringsmidler, herunder kosttilskudd, som definert i artikkel 2 bokstav a) i direktiv [2002/46/EF](eu/32002l0046), opplysninger om forbruksmønstre for slike næringsmidler og hvor store mengder av stoffene som tilsettes i næringsmidler og kosttilskudd.
 
-2. De nødvendige relevante opplysninger som medlemsstatene skal framlegge for Kommisjonen i henhold til nr. 1, skal minst omfatte opplysningene angitt i vedlegg I til denne forordning.De nødvendige relevante opplysningene og nærmere detaljer skal framlegges for Kommisjonen i henhold til malen som er fastsatt i vedlegg II til denne forordning.
+2\. De nødvendige relevante opplysninger som medlemsstatene skal framlegge for Kommisjonen i henhold til nr. 1, skal minst omfatte opplysningene angitt i vedlegg I til denne forordning.De nødvendige relevante opplysningene og nærmere detaljer skal framlegges for Kommisjonen i henhold til malen som er fastsatt i vedlegg II til denne forordning.
 
-3. En medlemsstat skal informere Kommisjonen dersom noen av opplysningene angitt i vedlegg I ikke er tilgjengelige eller av andre grunner ikke kan framlegges for Kommisjonen innen 1. juli 2012.
+3\. En medlemsstat skal informere Kommisjonen dersom noen av opplysningene angitt i vedlegg I ikke er tilgjengelige eller av andre grunner ikke kan framlegges for Kommisjonen innen 1. juli 2012.
 
 ### Artikkel 3
 
@@ -830,6 +1343,12 @@ Denne forordning trer i kraft dagen etter at den er kunngjort i *Den europeiske 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 8. juni 2012.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Vedlegg I
 Nødvendige relevante opplysninger som medlemsstatene skal framlegge med det formål å vurdere virkningene av gjennomføringen av forordning [(EF) nr. 1925/2006](eu/32006r1925)
@@ -841,6 +1360,39 @@ Nødvendige relevante opplysninger som medlemsstatene skal framlegge med det for
 
 ### Vedlegg II
 Mal for framlegging av medlemsstatenes opplysninger
+
+*Utvikling på markedet for næringsmidler som er tilsatt vitaminer og mineraler*
+
+| *Opplysninger som skal framlegges* | *Kilde* |
+| --- | --- |
+| Nasjonale markedsandeler for forskjellige næringsmiddelprodukter som er tilsatt vitaminer og mineraler, etter de 20 næringsmiddelkategoriene i klassifiseringssystemet FoodEx,1 unntatt næringsmidler til bruk ved spesielle ernæringsmessige behov og kosttilskudd. |  |
+| Utviklingstrekk i markedsstørrelsen for næringsmidler som er tilsatt vitaminer og mineraler, særlig opplysninger om markedet før og etter datoen da forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse. |  |
+
+1 Den europeiske myndighet for næringsmiddeltrygghet, «The food classification and description system FoodEx 2 (draft-revision 1)». Supporting Publications 2011:215. [438 s.]. Tilgjengelig på Internett: [www.efsa.europa.eu](https://www.efsa.europa.eu).
+
+*Forbruksmønstre for næringsmidler som er tilsatt vitaminer og mineraler*
+
+| *Opplysninger som skal framlegges* | *Kilde* |
+| --- | --- |
+| Befolkningens gjennomsnittlige konsum av næringsmidler som er tilsatt vitaminer og mineraler.<br>Gjennomsnittlig konsum av næringsmidler som er tilsatt vitaminer og mineraler, etter følgende befolkningsgrupper:<br>– voksne (18 år eller eldre),<br>– barn (under 18 år) og, dersom det er relevant, etter bestemte aldersgrupper, og<br>– etter de 20 næringsmiddelkategoriene i klassifiseringssystemet FoodEx, unntatt næringsmidler beregnet på spesielle ernæringsmessige behov og kosttilskudd. |  |
+| Mengden vitaminer og mineraler som tilsettes i næringsmidler, etter de 20 næringsmiddelkategoriene i klassifiseringssystemet FoodEx. Dette skal oppgis som eksakte mengder eller intervaller. |  |
+| Observerte endringer i forbruksmønstre for næringsmidler som er tilsatt vitaminer og mineraler, herunder grunnlagsdata som er brukt til å sammenligne konsum før og etter datoen da forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse. |  |
+
+*Inntak av vitaminer og mineraler*
+
+| *Opplysninger som skal framlegges* | *Kilde* |
+| --- | --- |
+| Befolkningens gjennomsnittlige inntak av vitaminer og mineraler.<br>Gjennomsnittlig inntak av vitaminer og mineraler etter følgende befolkningsgrupper:<br>– voksne (18 år eller eldre),<br>– barn (under 18 år) og, dersom relevant, etter bestemte aldersgrupper. |  |
+| Metode for kostholdsundersøkelser (hovedsakelig metoder for vurdering av kostvaner, aldersgrupper, befolkningsgrupper). |  |
+| Observerte endringer i inntak av vitaminer og mineraler, herunder opplysninger om grunnlagsdata som er brukt til å sammenligne inntak før og etter datoen da forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse. |  |
+
+*Tilsetting av andre stoffer enn vitaminer og mineraler*
+
+| *Opplysninger som skal framlegges* | *Kilde* |
+| --- | --- |
+| Nasjonale markedsandeler for næringsmiddelprodukter, herunder kosttilskudd som er tilsatt andre stoffer, etter følgende stoffkategorier:<br>1. Aminosyrer<br>2. Enzymer<br>3. Prebiotika og probiotika<br>4. Essensielle fettsyrer og andre særlige fettsyrer<br>5. Planteprodukter og planteekstrakter<br>6. Andre stoffer |  |
+| Utviklingstrekk i markedsstørrelsen og særlig opplysninger om markedet før og etter datoen da forordning [(EF) nr. 1925/2006](eu/32006r1925) fikk anvendelse. |  |
+| Nasjonale tiltak som berører begrensninger eller forbud mot bruk av andre stoffer ved framstilling av næringsmidler, herunder kosttilskudd. |  |
 
 ## Forordninger i pdf
 

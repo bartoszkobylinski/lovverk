@@ -380,15 +380,91 @@ Denne forskriften trer i kraft 1. januar 2006. Fra samme tid oppheves [forskrift
 
 ## Vedlegg 1. Landbruksvarer som kan innvilges generell nedsettelse av tollavgiftssats etter [kapittel 2](forskrift/2005-12-22-1723/kap2):
 
+|  | *Representantvare* | *Tolltariffens posisjon/varenummer for tollnedsettelse* |
+| --- | --- | --- |
+|  |  |  |
+| Frukt og grønt | Poteter over 42 mm | 07.01.9011/.9018/.9028 |
+|  | Tomater | 07.02.0022/.0023/.0030 |
+|  | Kepaløk | 07.03.1019/.1029 |
+|  | Purre | 07.03.9003/.9004 |
+|  | Blomkål | 07.04.1011/.1021 |
+|  | Rosenkål | 07.04.2010 |
+|  | Hvitkål | 07.04.9013/.9020 |
+|  | Isbergsalat | 07.05.1112/.1122 |
+|  | Gulrot | 07.06.1011/.1021 |
+|  | Knollselleri | 07.06.9010 |
+|  | Agurker | 07.07.0010 |
+|  | Epler >70 mm | 08.08.1011 |
+
 > Endret ved [forskrifter 30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [27 juni 2013 nr. 799](forskrift/2013-06-27-799) (i kraft 1 juli 2013), [12 nov 2013 nr. 1312](forskrift/2013-11-12-1312), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [4 mars 2015 nr. 186](forskrift/2015-03-04-186), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [1 juli 2021 nr. 2316](forskrift/2021-07-01-2316), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel), [4 okt 2024 nr. 2388](forskrift/2024-10-04-2388), [31 okt 2024 nr. 2607](forskrift/2024-10-31-2603) (i kraft 1 nov 2024).
 
 ## Vedlegg 1a. Landbruksvarer som kan innvilges generell nedsettelse av tollavgiftssats for etter [kapittel 2a](forskrift/2005-12-22-1723/kap2a):
 
-*Representantvare**Tolltariffens posisjon/varenummer for tollnedsettelse*Kjøtt av storfeUng okse, alle klasser R og O unntatt R+ (fettgruppe 2–, 2 og 2+)02.01 og 02.02Kjøtt av svinSlaktegris kl. E og S med et gjennomsnitt for alle kjøttprosenter og alle varegrupper under 85 kg02.03Kjøtt av sau og lamLam, fettgruppe 2–, 2, 2+, alle klasser R og O unntatt R+, unntatt gammelnorsk sau02.04.1000–02.04.4300MeieriprodukterMelk som oppfyller kravspesifikasjon for uforedlet melk fastsatt med hjemmel i [forskrift om markedsregulering til å fremme omsetningen av jordbruksvarer § 4-3](forskrift/2008-10-22-1136/§4-3).ex. 04.01.2000EggEgg kl. A over 53 g04.07.2100
+|  | *Representantvare* | *Tolltariffens posisjon/varenummer for tollnedsettelse* |
+| --- | --- | --- |
+| Kjøtt av storfe | Ung okse, alle klasser R og O unntatt R+ (fettgruppe 2–, 2 og 2+) | 02.01 og 02.02 |
+| Kjøtt av svin | Slaktegris kl. E og S med et gjennomsnitt for alle kjøttprosenter og alle varegrupper under 85 kg | 02.03 |
+| Kjøtt av sau og lam | Lam, fettgruppe 2–, 2, 2+, alle klasser R og O unntatt R+, unntatt gammelnorsk sau | 02.04.1000–02.04.4300 |
+| Meieriprodukter | Melk som oppfyller kravspesifikasjon for uforedlet melk fastsatt med hjemmel i [forskrift om markedsregulering til å fremme omsetningen av jordbruksvarer § 4-3](forskrift/2008-10-22-1136/§4-3). | ex. 04.01.2000 |
+| Egg | Egg kl. A over 53 g | 04.07.2100 |
 
 > Tilføyd ved [forskrift 30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), endret ved [forskrifter 27 juni 2013 nr. 799](forskrift/2013-06-27-799) (i kraft 1 juli 2013), [1 juli 2021 nr. 2316](forskrift/2021-07-01-2316), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel), [4 okt 2024 nr. 2388](forskrift/2024-10-04-2388), [31 okt 2024 nr. 2607](forskrift/2024-10-31-2607) (i kraft 1 nov 2024).
 
 ## Vedlegg 2. Landbruksvarer som kan innvilges individuell nedsettelse av tollavgiftssats etter § 11:
+
+| *Tolltariffens posisjon/varenummer* | *Vareslag/produkt* |
+| --- | --- |
+|  | *Kjøtt og kjøttprodukter* |
+| 02.01 og 02.02 | Storfe |
+| 02.03 | Svin |
+| 02.04 | Sau og geit |
+| 02.05 | Hester, esler, muldyr og mulesler |
+| 02.06 | Spiselig slakteavfall av storfe, svin, sau, geit, hest, esel, muldyr, mulesel |
+| 02.07 | Kjøtt og spiselig slakteavfall av fjærfe |
+| 02.08 | Annet kjøtt og spiselig slakteavfall |
+| 02.10 | Kjøtt og spiselig slakteavfall, saltet, i saltlake, tørket eller røykt; spiselig mel av kjøtt eller slakteavfall |
+| 15.01 | Svinefett herunder smult, unntatt det som hører inn under posisjon 02.09 og 15.03 |
+| 16.01 og 16.02 | Varer av kjøtt, flesk og spiselig slakteavfall, herunder konserver |
+| 16.03.0099 | Kjøttekstrakt og kjøttsaft |
+|  | *Melk og meieriprodukter* |
+| 04.01–04.06 | Melk og meieriprodukter |
+|  | *Egg og eggeplommer* |
+| 04.07 og 04.08 | Egg og eggeplommer |
+|  | *Honning, naturlig* |
+| 04.09.0000 | Honning, naturlig |
+|  | *Andre produkter av animalsk opprinnelse* |
+| ex 04.10 | Andre meieriprodukter samt insekter og insektsmel |
+|  | *Poteter* |
+| 07.01 | Poteter |
+|  | *Grønnsaker, friske eller kjølte* |
+| 07.02 | Tomater |
+| ex 07.03 | Løk, unntatt hvitløk |
+| ex 07.04 | Hvitkål, rødkål, blomkål, rosenkål og annen kål |
+| ex 07.05 | Salat unntatt sikorisalat |
+| ex 07.06 | Gulrøtter, neper, rødbeter, knollselleri, reddiker, pastinakk, pepperrot |
+| 07.07 | Agurker |
+| 07.08.1000/.2001 | Erter samt brekkbønner, aspargesbønner, voksbønner og snittebønner |
+| 07.09.4010/.4021/.4022/.4023 | Stangselleri |
+| 07.09.7010 | Spinat |
+| 07.09.9920 | Kruspersille |
+| ex 07.14.9000 | Jordskokker |
+|  | *Frukt og bær, friske eller kjølte* |
+| 08.08.1011 | Epler |
+| 08.08.3020 | Pærer |
+| 08.09.2100/.2900 | Kirsebær, herunder moreller |
+| 08.09.4031 | Plommer |
+| 08.10.1023/.1024 | Jordbær |
+| 08.10.2010 | Bringebær |
+| 08.10.3010 | Solbær |
+| 08.10.3020 | Rips |
+| 08.10.3030 | Stikkelsbær |
+|  | *Konserver av poteter, grønnsaker, frukt og bær* |
+| ex 07.10/ex 07.11/ex 07.12/ex 08.11/ex 08.12/ex 20.01/ex 20.04/ex 20.05/ex 20.08/ex 20.09 | Konserver av poteter og kålrot samt forannevnte grønnsaker frukter og bær |
+|  | *Mel, flak, og lignende av poteter; sago, manioka-, arrow- og salepprot samt potetstivelse herunder blandinger med potetstivelse* |
+| 11.05 | Mel, pulver, flak, granuler og pelleter av poteter |
+| 11.08.1110/.1210/.1300/.1410/.1920 | Potetstivelse, inkl. stivelsesblandinger hvor potetstivelse inngår som en del av blandingene |
+|  | *Glukose og glukosesirup* |
+| 17.02.3000/4000 | Glukose og glukosesirup |
 
 ex = deler av et varenummer.
 
@@ -408,17 +484,76 @@ ex = deler av et varenummer.
 
 ## Vedlegg 6. Landbruksvarer som kan innvilges individuell nedsettelse av tollavgiftssats etter § 18:
 
+| *Varenummer* | *Vareslag/produkt* |
+| --- | --- |
+| ex 02.10.9902/ex.9904/ex.9908 | Proteinpulver |
+| 08.13.3000 | Epler, tørkede |
+| 15.01.2000/.9000 | Svinefett og fjærfefett |
+| ex 20.09.8998 | Grønnsakssaftkonsentrat |
+| 15.07.9090 | Soyaolje |
+| 15.08.9090 | Jordnøttolje |
+| 15.11.9020 | Palmeolje |
+| 15.12.1990 | Solsikke- og saflorolje |
+| 15.12.2920/.2999 | Bomullsfrøolje |
+| 15.13.1920/.1999 | Kokosolje |
+| 15.13.2920/.2999 | Palmekjerneolje og babassuolje |
+| 15.14.1990/.9990 | Raps-, ryps-, og sennepsolje |
+| 15.15.1990 | Linolje |
+| 15.15.2990 | Maisolje |
+| 15.15.5099 | Sesamolje |
+| 15.15.6000/.9080/.9099 | Vegetabilske fettstoffer og andre oljer |
+| 15.16.2099/.3000 | Vegetabilske fettstoffer og oljer |
+| 15.17.9021 | Spiselige flytende blandinger av vegetabilske oljer |
+
 > Endret ved forskrifter [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [6 juli 2017 nr. 1143](forskrift/2017-07-06-1143), [8 juli 2019 nr. 989](forskrift/2019-07-08-989), [14 des 2021 nr. 3552](forskrift/2021-12-14-3552) (i kraft 1 jan 2022), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [14 des 2022 nr. 2231](forskrift/2022-12-14-2231) (i kraft 1 jan 2023), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 
 ## Vedlegg 6a. Individuell nedsettelse av tollavgiftssatser til epler mv. til bearbeiding i industri
+
+| *Vareslag* | *Varenummer* | *Produkt* | *Tollsats* |
+| --- | --- | --- | --- |
+| Eple | 20.09.7100 | Eplesaft, brix høyst 20 | 4,00 kr/kg |
+|  | 20.09.7900 | Eplekonsentrat, brix over 20 | 4,00 kr/kg |
+|  | ex08.11.9008 | Epler fryste | 3,50 kr/kg |
+| Pære | ex20.09.8998 | Pæresaft/-konsentrat | 4,00 kr/kg |
 
 > Tilføyd ved [forskrift 1 juli 2011 nr. 753](forskrift/2011-07-01-753), endret ved [forskrifter 18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [8 juli 2019 nr. 989](forskrift/2019-07-08-989), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel).
 
 ## Vedlegg 6b. Bærkvoter
 
+| *Produkt* | *Varenummer* | *Vareomfang* | *Mengde* | *Import-*<br>*land* | *Kvote-*<br>*periode* | *Tollsats (kr/kg)* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Jordbær | 08.11.1000 | Jordbær, fryst | 2200 | EU | 1. juli–30. juni | 0.00 kr/kg |
+| Jordbær | 08.11.1000 | Jordbær, fryst | 440 | GB | 1. juli–30. juni | 0.00 kr/kg |
+| Jordbær | 08.11.1000 | Jordbær, fryst | 2050 | Alle land | 1. juli–30. juni | 0.00 kr/kg |
+|  | ex 08.11.2019 | Bringebær, fryst, tilsatt sukker eller annet søtningsstoff | 950 | EU | 1. juli–30. juni | 0.00 kr/kg |
+| Bringebær |  |  |  |  |  |  |
+|  | 08.11.2091 | Bringebær, fryst, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | ex 08.11.2019 | Bringebær, fryst, tilsatt sukker eller annet søtningsstoff | 190 | GB | 1. juli–30. juni | 0.00 kr/kg |
+| Bringebær |  |  |  |  |  |  |
+|  | 08.11.2091 | Bringebær, fryst, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | ex 08.11.2019 | Bringebær, fryst, tilsatt sukker eller annet søtningsstoff | 750 | Alle land | 1. juli–30. juni | 0.00 kr/kg |
+| Bringebær |  |  |  |  |  |  |
+|  | 08.11.2091 | Bringebær, fryst, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | 20.09.8911 | Solbærsaft, tilsatt sukker eller annet søtningsstoff | 150 | EU | 1. juli–30. juni | 0.00 kr/kg |
+| Solbærsaft |  |  |  |  |  |  |
+|  | 20.09.8919 | Solbærsaft, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+| Kirsebær og solbær | 08.11.9003 | Kirsebær, moreller, fryst | 190 | Alle land | 1. juli–30. juni | 0.00 kr/kg |
+|  | 20.09.8993 | Kirsebærsaft/-konsentrat |  |  |  |  |
+|  | ex 08.11.2019 | Solbær, fryste, tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | 08.11.2093 | Solbær, fryste, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | 20.09.8911 | Solbærsaft, tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+|  | 20.09.8919 | Solbærsaft, ikke tilsatt sukker eller annet søtningsstoff |  |  |  |  |
+
 > Tilføyd ved [forskrift 1 juli 2011 nr. 753](forskrift/2011-07-01-753), endret ved forskrifter [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [8 juli 2014 nr. 963](forskrift/2014-07-08-963), [19 des 2014 nr. 1812](forskrift/2014-12-19-1812) (i kraft 1 jan 2015), [21 juni 2022 nr. 1118](forskrift/2022-06-21-1118) (i kraft 1 juli 2022), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 
 ## Vedlegg 6c. Individuell nedsettelse av tollavgiftssatser til bær til bearbeiding i industri
+
+| *Vareslag* | *Varenummer* | *Produkt* | *Tollsats* |
+| --- | --- | --- | --- |
+| Jordbær | 20.08.8000<br>20.09.8992 | Jordbærpulp<br>Jordbærsaft/-konsentrat | 5,00 kr/kg<br>5,00 kr/kg |
+| Bringebær | ex20.08.9909<br>20.09.8991 | Bringebærpulp<br>Bringebærsaft/-konsentrat | 5,00 kr/kg<br>5,00 kr/kg |
+| Kirsebær | 20.08.6000 | Kirsebærpulp | 5,00 kr/kg |
+| Solbær | ex20.08.9909 | Solbærpulp | 5,00 kr/kg |
 
 > Tilføyd ved [forskrift 1 juli 2011 nr. 753](forskrift/2011-07-01-753), endret ved [forskrifter 18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel).
 
@@ -428,12 +563,60 @@ ex = deler av et varenummer.
 
 ## Vedlegg 7. Korn, frø og råvarer til kraftfôr som kan omfattes av vedtak om nedsettelse av tollavgiftssatser innenfor fastsatte mengder etter § 22:
 
+| *Kvote* | *Produktgruppe* | *Varenummer* |
+| --- | --- | --- |
+|  | Mathvete | ex 10.01.1900/.9909 |
+|  | Matrug | 10.02.9000 |
+|  | Fonio | 10.08.4000 |
+| Matkorn | Quinoa | 10.08.5000 |
+|  | Rughvete | 10.08.6000 |
+|  | Annet matkorn | ex 10.08.9000 |
+|  |  | 07.13.1001 |
+|  |  | ex 10.01.9909<br>ex 10.02.9000 |
+|  |  | ex 10.03.9000 |
+|  |  | ex 10.04.9000 |
+|  |  | 10.05.9010 |
+|  |  | 10.07.9010 |
+| Råvarer til kraftfôr | Fôrkorn og andre råvarer til kraftfôr | 11.03.1310 |
+|  |  |  |
+|  |  | 12.14.1000 |
+|  |  | 17.03.1010/.9010 |
+|  |  | 23.02.1010/ex.3000/ex.4090<br>23.03.2010<br>23.06.6012 |
+| Oljefrø | Soyabønner<br>Rapsfrø | 12.01.9010<br>12.05.1010/9010 |
+
 > Endret ved forskrifter [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [24 okt 2011 nr. 1042](forskrift/2011-10-24-1042), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [24 nov 2021 nr. 3277](forskrift/2021-11-24-3277), [14 des 2021 nr. 3552](forskrift/2021-12-14-3552) (i kraft 1 jan 2022), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [14 des 2022 nr. 2231](forskrift/2022-12-14-2231) (i kraft 1 jan 2023), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023).
 
 ## Vedlegg 8. Landbruksvarer som kan innvilges generell nedsettelse av tollavgiftssats for etter § 25 første ledd:
 
+| *Varenummer* | *Vareslag* | *Tollsats* | *Periode* |
+| --- | --- | --- | --- |
+| 02.09.1000 | Svinefett | 10,50 | 01.01–31.12 |
+| ex. 06.02.1025 | Urota stiklinger, krysantemum | 30 % | 01.01–31.12 |
+| 06.02.1029 | Urota stiklinger | 15 % | 01.01–31.12 |
+| 06.02.9059 | Stiklinger | 20 % | 01.01–31.12 |
+| 06.02.9092/.9098 | Andre | 15 % | 01.01–31.12 |
+| 06.03.1998 | Andre | 15 % | 01.01–31.12 |
+| 07.03.9002 | Vårløk | 0,00 | 15.12–31.05 |
+| 07.03.9008 | Andre løkslag | 0,00 | 01.01–31.12 |
+| 07.08.1000 | Erter og sukkererter (pisum sativum) | 0,00 | 01.09–30.06 |
+| 08.09.2900 | Moreller | 0,00 | 15.09–15.06 |
+| 08.10.2010 | Bringebær | 0,00 | 01.11–30.06 |
+| ex 07.07.0093 | Sylteagurker | 2,00 | 01.07–15.07 |
+| 20.08.9300 | Konservert tranebær og tyttebær | 0,00 | 01.01–31.12 |
+| 20.09.7100 | Eplesaft, brix høyst 20 | 15,00 | 01.01–31.12 |
+| 20.09.8100 | Tranebær- og tyttebærsaft | 0,00 | 01.01–31.12 |
+| 20.09.8994 | Fersken- og aprikossaft | 0,00 | 01.01–31.12 |
+| 20.09.8995 | Rips- eller stikkelsbærsaft | 0,00 | 01.01–31.12 |
+| 22.07.1011 | Etylalkohol | 0,00 | 01.01–31.12 |
+| 23.09.9097 | Kolinklorid dyrefôr | 1,07 | 01.01–31.12 |
+
 > Endret ved forskrifter [30 juni 2009 nr. 953](forskrift/2009-06-30-953) (i kraft 1 juli 2009), [1 juli 2011 nr. 753](forskrift/2011-07-01-753), [18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [1 april 2016 nr. 348](forskrift/2016-04-01-348), [22 juni 2022 nr. 1140](forskrift/2022-06-22-1140) (i kraft 1 juli 2022), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel).
 
 ## Vedlegg 9. Fjørfekjøtt (kylling) og egg til utklekking som kan innvilges nedsettelse av tollavgiftssats etter § 25a:
+
+|  | *Representantvare* | *Tolltariffens posisjon/varenummer for tollnedsettelse* |
+| --- | --- | --- |
+| Fjørfekjøtt (kylling) | Hel, fersk, uoppbundet kylling i vektklassene 1050–1850 gram | 02.07.1100/.1200/.1300/.1490 |
+| Egg til utklekking av dyr for produksjon av slakt |  | 04.07.1100 |
 
 > Tilføyd ved [forskrift 28 nov 2006 nr. 1678](forskrift/2006-11-28-1678) (i kraft 1 jan 2007), endret ved [forskrifter 18 des 2012 nr. 1298](forskrift/2012-12-18-1298) (i kraft 1 jan 2013), [24 nov 2021 nr. 3277](forskrift/2021-11-24-3277), [15 des 2022 nr. 2260](forskrift/2022-12-15-2260) (i kraft 1 jan 2023, vedleggstittel).

@@ -64,6 +64,8 @@ Kvalitetssystem for utdanning ved Universitetet i Agder omfatter også ph.d.-utd
 
 ### § 5. Opptak
 
+5.1. *Vilkår for opptak*
+
 For opptak til ph.d.-utdanningen må søkeren normalt ha utdanning som tilsvarer femårig mastergrad i Norge, jamfør beskrivelsene i kvalifikasjonsrammeverkets andre syklus. Fakultetet kan etter særskilt vurdering godkjenne annen likeverdig utdanning som grunnlag for opptak. Det kan i utfyllende regler stilles ytterligere krav for opptak. Søkere uten fullført mastergrad kan tas opp til integrerte doktorgradsprogram i henhold til egen forskrift fastsatt av styret selv.
 
 Det skal søkes om opptak til ph.d.-utdanningen senest innen tre (3) måneder etter oppstart av det forskningsprosjektet som skal lede frem til ph.d.-graden. Dersom det gjenstår mindre enn ett (1) års fulltidsarbeid med forskningsprosjektet ved søknadstidspunkt, skal søkeren avvises, jf. pkt. 5.3.
@@ -74,9 +76,13 @@ Søknad skal sendes fakultetet på fastsatt skjema.
 
 Kandidat og hovedveileder bør raskest mulig og senest innen seks (6) måneder etter opptak sammen gå igjennom prosjektbeskrivelsen og vurdere eventuelle behov for justeringer. Fakultetet selv kan fastsette krav om residensplikt.
 
+5.2. *Infrastruktur*
+
 Kandidaten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av fakultetet. For kandidater med ekstern finansiering eller arbeidsplass inngås det avtale mellom fakultet og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale skal som hovedregel foreligge på det tidspunkt opptaksvedtaket for den aktuelle kandidaten fattes, eller umiddelbart etterpå.
 
 Privat finansiering, slik som egne eller familiens midler, aksepteres ikke som finansiering for opptak til ph.d.-program.
+
+5.3. *Opptaksvedtak*
 
 Fakultetet selv fatter vedtak om opptak til ph.d.-program.
 
@@ -85,6 +91,8 @@ Vedtak om opptak baseres på en samlet vurdering av søknaden. Universitetet kan
 I vedtaket skal minst én veileder oppnevnes, ansvaret for håndtering av andre behov som er skissert i søknaden plasseres, og avtaleperioden fastsettes med startdato og sluttdato.
 
 Opptak kan nektes om:avtaler med ekstern tredjepart er til hinder for offentliggjøring og offentlig forsvar av avhandlingende immaterialrettslige avtaler som er inngått er så urimelige at universitetet ikke bør medvirke i prosjektetsøkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til ph.d.-utdanningen, jf. pkt. 5.1fakultetet ikke har veiledningskapasitet innenfor søkerens fagområdesøkeren ikke har en veldokumentert finansiering, dvs normalt være fullfinansiert i samsvar med kostnadene spesifisert i budsjettdokumentet.
+
+5.4. *Avtaleperiode*
 
 Ph.d.-utdanningen er normert til tre (3) års fulltidsstudier. Universitetsstyret kan i utfyllende regler fastsette bestemmelser om maksimaltid for gjennomføring utenom lovfestede permisjoner og pliktarbeid.
 
@@ -98,9 +106,15 @@ Ved innvilget forlengelse kan fakultetet selv sette ytterligere betingelser.
 
 Etter opptaksperiodens utløp opphører partenes rettigheter og plikter i henhold til ph.d.-avtalen, slik at ph.d.-kandidaten kan miste sin rett til veiledning, deltakelse i opplæringsdel og tilgang til universitetets infrastruktur. Kandidaten kan likevel søke om å få levere inn avhandlingen til bedømmelse for ph.d.-graden.
 
+5.5. *Avslutning før avtalt tid*
+
+*Frivillig avslutning:*
+
 Kandidaten og universitetet kan avtale at ph.d.-utdanningen avsluttes før avtalt tid. Ved slik avslutning av ph.d.-utdanningen skal det fastsettes skriftlig hvordan spørsmål knyttet til eventuelle tilsettingsforhold, finansiering, rettigheter til resultater mv. skal ordnes.
 
 Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt eller overgang til annet program eller spesialisering, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.
+
+*Tvungen avslutning:*
 
 Fakultetsstyret selv kan vedta tvungen avslutning ved vitenskapelig uredelighet eller når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. [lov om universiteter og høyskoler § 4-13](lov/2005-04-01-15/§4-13). Som vesentlig brudd på forpliktelser etter doktorgradsavtalen regnes blant annet:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2022-02-01-1149/§9).Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet.Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
 
@@ -118,6 +132,8 @@ I tilfeller hvor ph.d.-kandidaten skal ha tilknytning til utenlandske institusjo
 
 Arbeidet med doktoravhandlingen skal foregå under individuell veiledning. Fakultetet og veilederne skal sammen sikre at ph.d.-kandidaten deltar i et aktivt forskningsmiljø.
 
+7.1. *Oppnevning av veiledere*
+
 Ph.d.-kandidaten skal som hovedregel ha to veiledere, hvor én oppnevnes som hovedveileder. Hovedveileder bør være oppnevnt på opptakstidspunktet.
 
 Hovedveilederen har det faglige hovedansvaret for kandidaten. Hovedveileder er normalt intern ved institusjonen. Dersom fakultetet oppnevner ekstern hovedveileder, skal det oppnevnes medveileder fra den gradsgivende institusjon.
@@ -128,6 +144,8 @@ Alle veiledere skal ha doktorgrad eller tilsvarende kompetanse innenfor fagfelte
 
 Både ph.d.-kandidat og veileder kan be fakultetet om å oppnevne ny veileder for kandidaten. Veileder kan ikke fratre før ny veileder er oppnevnt.
 
+7.2. *Veiledningens innhold*
+
 Kandidat og veiledere skal ha jevnlig kontakt. Veileder har ansvar for å følge opp kandidatens faglige utvikling. Kontakthyppigheten skal fremgå av den årlige fremdriftsrapporteringen, jf. [§ 9](forskrift/2022-02-01-1149/§9).
 
 Veilederne plikter å holde seg orientert om fremdriften i kandidatens arbeid og vurdere den i forhold til prosjektbeskrivelsens fremdriftsplan, jf. pkt. 5.1.
@@ -137,6 +155,8 @@ Veilederne plikter å følge opp faglige forhold som kan medføre forsinket gjen
 Veilederne skal gi råd om formulering og avgrensning av tema og problemstillinger, drøfte og vurdere hypoteser og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring av fremstillingen, herunder disposisjon, språklig form, dokumentasjon mv., og gi hjelp til orientering i faglitteratur og datagrunnlag i forhold til bibliotek, arkiv, etc. Videre skal veilederne gi kandidaten veiledning i forskningsetiske spørsmål knyttet til avhandlingen.
 
 ### § 8. Opplæringsdel
+
+8.1. *Regelverk, formål, innhold og omfang*
 
 Enkelte bestemmelser om eksamener i [lov om universiteter og høyskoler](lov/2005-04-01-15) og i [forskrift om studier og eksamen ved Universitetet i Agder](forskrift/2005-06-22-833) regulerer eksamener som inngår i ph.d.-programmets opplæringsdel.
 
@@ -150,6 +170,8 @@ Opplæringsdelen skal normalt ha et omfang på 30 studiepoeng. I særlige tilfel
 
 Universitetet bør tilby ph.d.-kandidaten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som kandidaten har oppnådd gjennom forskningsarbeidet.
 
+8.2. *Kandidatens rettigheter ved permisjon*
+
 Ph.d.-kandidater som har foreldrepermisjon fra ph.d.-utdanningen, kan likevel følge undervisning og avlegge eksamener som skal inngå som en del av kandidatens opplæringsdel under permisjonstiden, i tråd med [lov om folketrygd § 14-10](lov/1997-02-28-19/§14-10).
 
 ### § 9. Rapportering
@@ -162,6 +184,8 @@ Fakultetet kan ved behov kreve særskilt rapportering.
 
 ### § 10. Ph.d.-avhandlingen
 
+10.1. *Krav til avhandlingen*
+
 Avhandlingen skal være et selvstendig, forskningsarbeid eller forsknings- og utviklingsarbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå og metode innen fagområdet.
 
 Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den vil kunne publiseres eller offentliggjøres i egnet format som en del av fagets forskningsbaserte kunnskapsutvikling.
@@ -173,6 +197,8 @@ Avhandlingens hovedkomponent kan bestå av et nytt produkt eller en systematiser
 Dersom avhandlingen eller deler av den er blitt til i samvirke med andre forfattere, skal ph.d.-kandidaten følge de normer for medforfatterskap som er allment akseptert innen fagområdet, i samsvar med internasjonale standarder. I avhandlinger hvor det inngår arbeider med flere forfattere eller samarbeidspartnere skal det følge en underskrevet medforfattererklæring som beskriver kandidatens og den enkelte medforfatters innsats i hvert enkelt arbeid.
 
 Fakultetet bestemmer hvilket språk avhandlingen kan leveres på.
+
+10.2. *Arbeider som ikke godtas*
 
 Arbeider eller deler av et arbeid som har vært godtatt som grunnlag for tidligere avlagte eksamener eller grader, kan ikke antas til bedømmelse. Data, analyser eller metoder fra tidligere grader kan likevel benyttes som grunnlag for arbeid med ph.d.-prosjektet.
 
@@ -192,7 +218,11 @@ For ph.d.-kandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfelles i 
 
 ### § 12. Bedømmelse
 
+12.1. *Grunnlag for bedømmelse for avhandling*
+
 Ph.d.-graden tildeles på grunnlag av:godkjent gjennomføring av opplæringsdelengodkjent vitenskapelig avhandlinggodkjent prøveforelesning over oppgitt emnegodkjent offentlig forsvar av avhandlingen (disputas).
+
+12.2. *Tidsbruk fra innlevering til disputas*
 
 Det skal normalt ikke gå mer enn fem (5) måneder fra innlevering av avhandling til disputas.
 
@@ -200,9 +230,13 @@ Det er hovedveileders ansvar å gjøre ph.d.-administrasjonen ved fakultetet opp
 
 ### § 13. Innlevering
 
+13.1.*Innlevering av avhandlingen*
+
 Søknad om å få avhandlingen bedømt kan først leveres når opplæringsdelen er godkjent.
 
 Som vedlegg til søknaden skal følge:Avhandlingen i godkjent format og i henhold til fakultetets bestemmelser i den form og det antall eksemplarer fakultetet har bestemt.Dokumentasjon av nødvendige tillatelser, jf. pkt. 5.1.Medforfattererklæringer hvor dette er påkrevd i henhold til pkt. 10.1.Erklæring om doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang.Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annet lærested.
+
+13.2. *Behandling av søknaden*
 
 Fakultetet behandler søknad om å få avhandlingen bedømt. Søknad som ikke fyller kravene i pkt. 13.1. skal avvises.
 
@@ -224,15 +258,21 @@ Det bør normalt ikke gå mer enn fire uker fra søknaden er godkjent til bedøm
 
 ### § 15. Bedømmelseskomiteens arbeid
 
+15.1. *Innhenting av supplerende opplysninger*
+
 Bedømmelseskomiteen kan kreve fremlagt ph.d.-kandidatens grunnlagsmateriale og utfyllende eller oppklarende tilleggsinformasjon.
 
 Bedømmelseskomiteen kan be veileder om å gjøre rede for veiledningen og arbeidet med avhandlingen.
+
+15.2 *Omarbeiding av innlevert avhandling*
 
 Bedømmelseskomiteen kan på grunnlag av den innleverte avhandlingen og eventuelt tilleggsmateriale, jf. pkt. 15.1, anbefale at fakultetet gir tillatelse til mindre omarbeiding før endelig innstilling foreligger. Komiteen skal gi en konkret oversikt i skriftlig form over hva kandidaten må omarbeide. Fakultetet selv beslutter om kandidaten skal gis anledning til omarbeiding.
 
 Tillater fakultetet en mindre omarbeiding av avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre (3) måneder. Det skal også fastsettes en ny frist for oversendelse av komiteens endelige innstilling. Fakultetets beslutning etter denne paragrafen kan ikke påklages av ph.d.-kandidaten.
 
 Dersom komiteen finner at dyptgripende endringer vedrørende teori, hypotese, materiale eller metode er nødvendige for at arbeidet skal kunne anbefales til disputas, skal komiteen anbefale at avhandlingen underkjennes.
+
+15.3 *Bedømmelseskomiteens innstilling*
 
 Bedømmelseskomiteen avgir innstilling om hvorvidt arbeidet er verdig til å forsvares for ph.d.-graden. Innstilling og eventuelle dissenser skal begrunnes.
 
@@ -242,17 +282,23 @@ Bedømmelseskomiteens innstilling oversendes fakultetet, som forelegger denne fo
 
 Ph.d.-kandidatens eventuelle merknader skal sendes fakultetet. Fakultetet selv fatter vedtak i saken i samsvar med [§ 16](forskrift/2022-02-01-1149/§16).
 
+15.4 *Retting av formelle feil i avhandlingen*
+
 Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden. Etter innlevering har doktorgradskandidaten bare anledning til å foreta rettinger av formell art, forutsatt at han eller hun sender inn en oversikt over samtlige rettinger som er foretatt i det innleverte arbeid. Oversikten leveres inn senest en måned før disputasen.
 
 ### § 16. Fakultetets behandling av bedømmelseskomiteens innstilling
 
 Fakultetet selv fatter, på grunnlag av bedømmelseskomiteens endelige innstilling, vedtak om ph.d.-avhandlingen er verdig til å forsvares. Kandidaten skal underrettes om utfallet av behandlingen.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og fakultetet finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter fakultetet selv vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom fakultetet finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal fakultetet selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader.
 
 Fakultetet selv fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir delt innstilling og fakultetet finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter fakultetet selv vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og fakultetet vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan fakultetet søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges.
 
@@ -264,9 +310,13 @@ Ph.d.-kandidaten skal ved ny innlevering opplyse om at arbeidet tidligere har v�
 
 ### § 18. Offentliggjøring av avhandlingen
 
+18.1. *Krav til den trykte avhandlingen*
+
 Når avhandlingen er funnet verdig til å forsvares, skal ph.d.-kandidaten levere avhandlingen til fakultetet i godkjent format og i henhold til universitetets bestemmelser, jf. pkt. 13.1.
 
 Ph.d.-kandidaten skal levere et kortfattet sammendrag av avhandlingen i tråd med Universitetet i Agders språkpolitiske retningslinjer. Dersom avhandlingen er skrevet på norsk, skal sammendraget være på engelsk. Dersom avhandlingen er skrevet på et annet språk enn norsk, skal sammendraget være på norsk. Sammendraget skal, i likhet med selve avhandlingen, publiseres offentlig.
+
+18.2. *Offentliggjøring*
 
 Avhandlingen og sammendraget skal være offentlig tilgjengelig senest to (2) uker før dato for offentlig forsvar. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse, eventuelt etter omarbeiding på grunnlag av komiteens foreløpige kommentarer, jf. pkt. 15.2.
 
@@ -278,6 +328,8 @@ Publiserte deler av artikkelbaserte avhandlinger skal være offentlig tilgjengel
 
 ### § 19. Doktorgradsprøve
 
+19.1. *Prøveforelesning*
+
 Etter at fakultetet har funnet avhandlingen verdig til å forsvares, jf. [§ 16](forskrift/2022-02-01-1149/§16), skal ph.d.-kandidaten prøveforelese. Prøveforelesningen er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon.
 
 Tittel for prøveforelesning fastsettes av bedømmelseskomiteen og kunngjøres for ph.d.-kandidaten ti (10) arbeidsdager før prøveforelesningen. Emnet for forelesningen skal ikke stå i direkte forbindelse med temaet for avhandlingen.
@@ -285,6 +337,8 @@ Tittel for prøveforelesning fastsettes av bedømmelseskomiteen og kunngjøres f
 Prøveforelesningen skal skje på avhandlingsspråket med mindre fakultetet selv godkjenner et annet språk.
 
 Bedømmelseskomiteen meddeler fakultetet om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen anbefales ikke bestått.
+
+19.2. *Offentlig forsvar av avhandlingen (disputas)*
 
 Offentlig forsvar av avhandlingen skal finne sted etter at prøveforelesningen er bestått.
 
@@ -322,15 +376,23 @@ Universitetet skal utstede vedlegg til doktorgradsvitnemålet i tråd med gjelde
 
 ### § 23. Fellesgrader og cotutelle-avtaler
 
+23.1. *Fellesgrader og cotutelle-avtaler*
+
 Universitetet kan inngå samarbeid med en eller flere norske eller utenlandske institusjoner om samarbeid i form av fellesgrader eller cotutelle-avtaler.
 
 I avtaler om fellesgradssamarbeid og cotutelle kan fakultetet selv gjøre unntak for de øvrige bestemmelsene i forskriften, dersom det er nødvendig av hensyn til regelverket ved de samarbeidende institusjonene.
+
+23.2. *Fellesgrader*
 
 Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i denne forskriften. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne. For fullført fellesgrad utstedes felles vitnemål i form av: a) et vitnemålsdokument utstedt av alle konsortiemedlemmene, b) et vitnemål fra hver av konsortiedeltakerne, eller en kombinasjon av a) og b).
 
 Avtaler om fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom Universitetet i Agder og en av de andre konsortiedeltakerne. Universitetsstyret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler jf. første ledd.
 
+23.3. *Cotutelle-avtaler*
+
 Med cotutelle-avtaler menes felles veiledning av ph.d.-kandidater og samarbeid om utdanning av ph.d.-kandidater. Cotutelle-avtalen inngås for hver enkelt kandidat og bør bygge på et stabilt, faglig samarbeid.
+
+23.4. *Krav ved fellesgrader og cotutelle*
 
 Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilgjengelig, samt krav om offentlig disputas med en habil bedømmelseskomité kan ikke fravikes.
 
@@ -338,11 +400,17 @@ Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilg
 
 ### § 24. Klage
 
+24.1. *Klage over avslag på søknad om opptak, vedtak om opphør av studierett, klage over avslag på søknad om godkjenning av elementer i opplæringsdelen*
+
 Avslag på søknad om opptak, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) flg. Grunngitt klage sendes til fakultetet. Blir avslaget opprettholdt, sendes klagen til universitetets klagenemnd til endelig avgjørelse.
+
+24.2. *Klage over eksamen i opplæringsdelen*
 
 Eksamener som er avlagt under opplæringsdelen, kan påklages etter [lov 1. april 2005 nr. 15 om universiteter og høyskoler § 5-3](lov/2005-04-01-15/§5-3) Klage over karakterfastsetting og [§ 5-2](lov/2005-04-01-15/§5-2) Klage over formelle feil ved eksamen.
 
 Behandling av mistanke om fusk eller forsøk på fusk følger Universitetet i Agders fastsatte rutiner for dette.
+
+24.3. *Klage over avslag på søknad om bedømmelse, ikke godkjent avhandling, prøveforelesning eller forsvar*
 
 Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) flg.
 
@@ -350,6 +418,10 @@ Grunngitt klage sendes fakultetet. Fakultetet selv kan oppheve eller endre vedta
 
 ### § 25. Ikrafttredelse
 
+25.1. *Ikrafttredelse*
+
 Forskriften trer i kraft fra 1. februar 2022. Samtidig oppheves [forskrift 20. juni 2012 nr. 765](forskrift/2012-06-20-765).
+
+25.2. *Overgangsbestemmelser*
 
 Den som når denne forskriften trer i kraft har opptak på ph.d.-program etter [forskrift 20. juni 2012 nr. 765](forskrift/2012-06-20-765), beholder de rettigheter som står i denne dersom dette er til gunst for vedkommende.

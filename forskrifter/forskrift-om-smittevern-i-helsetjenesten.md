@@ -192,6 +192,8 @@ Det er også institusjonens ledelse som har ansvar for at de bestemmelsene som e
 
 ### Til § 2-2 Innhold i infeksjonskontrollprogrammet
 
+*Generelt*
+
 Bestemmelsene i [§ 2-2](forskrift/2005-06-17-610/§2-2) setter nærmere krav til innholdet i den enkelte institusjons infeksjonskontrollprogram.
 
 Selv om alle tiltak som er nevnt i denne paragrafen har et forebyggende formål, er det likevel funnet hensiktsmessig å skille mellom tiltak som primært virker forebyggende og overvåking av infeksjoner.
@@ -199,6 +201,8 @@ Selv om alle tiltak som er nevnt i denne paragrafen har et forebyggende formål,
 Innholdet i infeksjonskontrollprogrammet vil variere sterkt mellom de ulike institusjonene som forskriften omfatter, fra enkle retningslinjer med generelle hygieniske prinsipper og standardtiltak for små institusjoner til større håndbøker med retningslinjer, prosedyresamlinger og oversikter over organisering for de største institusjonene. Alle punktene under bokstav a og bokstav b gjelder i utgangspunktet for alle institusjoner som omfattes av forskriften, med unntak av bestemmelsen under bokstav a nr. 3 om kontroll med ventilasjonssystemer, som i følge forskriftsteksten gjelder for operasjonsavdelinger, luftsmitteisolater og andre arealer med spesielle krav til luftkvalitet. Risikovurderingen vil være styrende for hvor omfattende retningslinjene skal være.
 
 Da mange av punktene i infeksjonskontrollprogrammet vil være nokså like i de ulike institusjonene, vil det være uhensiktsmessig om alle institusjoner skal utarbeide et infeksjonskontrollprogram fra grunnen av. Dette gjelder særlig sykehjem og de institusjoner som ikke var omfattet av den tidligere forskrift om smittevern i helseinstitusjoner – sykehusinfeksjoner. Til den nye forskriften vil det derfor bli utarbeidet en veileder som er spesielt rettet mot sykehjem og institusjoner som ikke tidligere har vært pålagt krav om infeksjonskontrollprogram.
+
+*[§ 2-2](forskrift/2005-06-17-610/§2-2) bokstav a nr. 1*
 
 I denne bestemmelsen er det listet opp en rekke generelle infeksjonsforebyggende tiltak som det skal gis retningslinjer for. Retningslinjene skal foreligge skriftlig og være tilgjengelige og kjent av alt berørt personale. Flere av tiltakene refererer seg til rutiner som forlengst er innarbeidet praksis ved mange institusjoner, men hvor denne praksis ikke er nedfelt i skriftlig form. Forskriften pålegger institusjoner omfattet av forskriften å sørge for at retningslinjer blir utarbeidet, der slike mangler.
 
@@ -208,9 +212,13 @@ Ved utarbeiding av retningslinjer for håndtering av avfall må disse tilfredsst
 
 Under bokstav a nr. 1 er det også nevnt tiltak som skal motvirke infeksjoner forårsaket av utstyr. Det er viktig at institusjonen sørger for at det etableres kvalitetssikringssystemer som sikrer at utstyr som kan overføre smitte, blir rengjort, desinfisert, eventuelt sterilisert, oppbevart, transportert og ellers håndtert på en tilfredsstillende måte. I dette ligger også at institusjonen skal forsikre seg om at det utstyr som inngår i disse prosedyrene, fungerer tilfredsstillende.
 
+*[§ 2-2](forskrift/2005-06-17-610/§2-2) bokstav a nr. 2 og nr. 3*
+
 Det er nevnt seks områder hvor det skal foreligge skriftlig utarbeidede prosedyrebeskrivelser for å understreke betydningen av korrekt fremgangsmåte. Disse områdene er fremhevet spesielt ut fra den erfaring man har om hvilke infeksjoner som dominerer i sykehusmiljøene. I tillegg til disse seks punktene skal institusjonene også ha retningslinjer for antibiotikabruk og pasientisolering. Avhengig av institusjonens karakter forutsettes ledelsen å vurdere om det skal utarbeides prosedyrebeskrivelser også på andre områder enn de nevnte. Om noen av de nevnte områdene ikke er relevante for institusjonene og dermed ikke er omtalt, skal dette beskrives i infeksjonskontrollprogrammet. Prosedyrebeskrivelser skal ikke bare være tilgjengelig for direkte berørt personale. Ledelsen skal forvisse seg om at det personale som utfører prosedyrene, er kjent med og følger beskrivelsene, f.eks. i forbindelse med nytilsettinger.
 
 Institusjoner der det foregår kirurgisk virksomhet, isolering etter luftsmitteregime eller annen virksomhet som medfører at det stilles spesielle krav til luftkvaliteten i lokalene, må føre kontroll med ventilasjonen i de lokaler som nyttes. Forskriften pålegger institusjoner hvor slik virksomhet foregår, å føre kvalitetskontroll av ventilasjonssystemene.
+
+*[§ 2-2](forskrift/2005-06-17-610/§2-2) bokstav b*
 
 Overvåkingen i den enkelte virksomhet skal følge faglig aksepterte metoder. For institusjonens ledelse er det av stor betydning å bli holdt løpende orientert om hva overvåkingen viser, for eventuelt å kunne ta nødvendige forholdsregler, og for å kunne rapportere til overordnet myndighet.
 

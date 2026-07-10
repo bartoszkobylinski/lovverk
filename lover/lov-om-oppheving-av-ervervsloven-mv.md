@@ -34,6 +34,10 @@ Andre vilkår kan etter søknad opphevast av departementet.
 
 ## § 3. Endringar i andre lover
 
+– – –
+
 ## § 4. Ikraftsetjing
 
 Lova gjeld frå den tid Kongen fastset.1
+
+1 Frå 1 juli 2002 iflg. [res. 21 juni 2002 nr. 561](forskrift/2002-06-21-561).

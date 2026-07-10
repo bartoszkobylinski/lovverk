@@ -26,6 +26,8 @@ eu_basis: []
 
 Hedmarken og Østerdal tingrett deles i tre trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Nord-Østerdal (rettssted Tynset)
+
 - Alvdal kommune
 - Engerdal kommune
 - Folldal kommune
@@ -35,11 +37,15 @@ Hedmarken og Østerdal tingrett deles i tre trekningskretser for meddommere. Kom
 - Tolga kommune
 - Tynset kommune.
 
+Trekningskrets 2 Sør-Østerdal (rettssted Elverum)
+
 - Elverum kommune
 - Trysil kommune
 - Våler (Innlandet) kommune
 - Åmot kommune
 - Åsnes kommune.
+
+Trekningskrets 3 Hedmarken (rettssted Hamar)
 
 - Hamar kommune
 - Løten kommune

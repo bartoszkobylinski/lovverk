@@ -978,6 +978,8 @@ Radioaktive kilder skal ikke planlegges etterlatt i brønnen. Dersom den radioak
 
 > Endret ved [forskrifter 23 des 2013 nr. 1693](forskrift/2013-12-23-1693) (i kraft 1 jan 2014), [18 des 2017 nr. 2375](forskrift/2017-12-18-2375) (i kraft 1 jan 2018), [17 des 2025 nr. 2644](forskrift/2025-12-17-2644) (i kraft 1 jan 2026).
 
+1 [Forskrift 23. desember 2013 nr. 1693](forskrift/2013-12-23-1693) (Lovdatas anm.).
+
 ### § 89. Fjernoperering av rør og arbeidsstrenger
 
 Det skal brukes fjernopererte systemer for håndtering av rør og arbeidsstrenger, jf. [§ 33](forskrift/2010-04-29-613/§33).

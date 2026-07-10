@@ -732,6 +732,8 @@ Departementet kan i forskrift gi nærmere bestemmelser om utlevering av opplysni
 
 > Tilføyd ved lov [10 feb 2017 nr. 5](lov/2017-02-10-5) (ikr. 1 juli 2021 iflg. [res. 23. juni 2021 nr. 2065](forskrift/2021-06-23-2065)), endret ved lov [22 juni 2018 nr. 77](lov/2018-06-22-77) (ikr. 1 nov 2020 iflg. [res. 23 okt 2020 nr. 2122](forskrift/2020-10-23-2122)).
 
+1 Inkurie: Endring i [§ 40 a](lov/1973-03-09-14/§40a) annet til fjerde ledd ved lov [22 juni 2018 nr. 77](lov/2018-06-22-77) (i kraft 1 nov 2020) kunne ikke innarbeides før tilføyelsen ved lov [10 feb 2017 nr. 5](lov/2017-02-10-5) var satt i kraft 1 juli 2021.
+
 ### § 40 b. Begrensninger i omgjørings- og instruksjonsmyndighet
 
 Kongen kan ikke instruere Helsedirektoratet om behandlingen av enkeltsaker etter [§§ 22](lov/1973-03-09-14/§22) eller [23](lov/1973-03-09-14/§23) som gjelder tobakksvarer, elektroniske sigaretter eller gjenoppfyllingsbeholdere, og som retter seg mot tilbydere av fjernsyn, audiovisuelle bestillingstjenester eller videodelingsplattformer. Kongen kan heller ikke omgjøre Helsedirektoratets vedtak i slike saker.
@@ -807,3 +809,5 @@ Departementet kan gi overgangsregler og forskrifter ellers til gjennomføring og
 Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 > Tilføyd ved lov [22 juni 2018 nr. 77](lov/2018-06-22-77) (ikr. 1 nov 2020 iflg. [res. 23 okt 2020 nr. 2122](forskrift/2020-10-23-2122)).
+
+1 Fra 1 juli 1975 iflg. [res. 25 okt 1974 nr. 9](forskrift/1974-10-25-9). Ikrafttredelsen ble ved en inkurie opphevet ved lov [10 feb 2017 nr. 5](lov/2017-02-10-5).

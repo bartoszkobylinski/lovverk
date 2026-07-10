@@ -217,3 +217,5 @@ Bidragsformålet fysioterapi i utlandet etter [folketrygdloven § 5-22](lov/1997
 Dersom HELFO før ikrafttredelsen av forskriften her har gitt forhåndstilsagn til bidrag til fysioterapi i utlandet etter [folketrygdloven § 5-22](lov/1997-02-28-19/§5-22), kan fysioterapi i samsvar med forhåndstilsagnet dekkes etter bidragsordningen innen den frist som fremgår av henvisningen, også etter at forskriften har trådt i kraft.
 
 ## § 18. Endringer i andre forskrifter
+
+1\. I [forskrift 31. oktober 2008 nr. 1166](forskrift/2008-10-31-1166) om [pasientskadelovens](lov/2001-06-15-53) virkeområde og om tilskuddsplikt for den som yter helsehjelp utenfor den offentlige helsetjenesten, skal [§ 3](forskrift/2008-10-31-1166/§3) første ledd bokstav c lyde: – – –2. I [forskrift 18. april 1997 nr. 334 om egenandelstak 1](forskrift/1997-04-18-334) skal [§ 2](forskrift/1997-04-18-334/§2) annet ledd lyde: – – –3. I [forskrift 19. desember 2002 nr. 1789 om egenandelstak 2](forskrift/2002-12-19-1789) skal [§ 1](forskrift/2002-12-19-1789/§1) tredje ledd lyde: – – –

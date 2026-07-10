@@ -36,9 +36,13 @@ NSB AS overtar på samme måte alle forpliktelser som har sitt grunnlag i NSBs t
 
 Kongen avgjør i tvilstilfelle om en eiendel, rettighet eller forpliktelse var knyttet til forvaltningsbedriften NSBs trafikkdel ved omdanningen til NSB BA.
 
+1 Inkurie: Loven er opphevet.
+
 ## § 3. Omdanning av statens postselskap
 
 Posten Norge BA kan oppløses ved at selskapets eiendeler, rettigheter og forpliktelser som en helhet overføres til Posten Norge AS som del av statens innskudd i selskapet, mot at staten erverver aksjer i det nye aksjeselskapet. [Lov om statens postselskap1 § 65](lov/1996-11-22-65/§65) gjelder ikke ved oppløsning av Posten Norge BA.
+
+1 Inkurie: Loven er opphevet.
 
 ## § 4. Omregistreringer
 
@@ -61,6 +65,8 @@ NSB AS og Posten Norge AS skal videreføre NSB BA og Posten Norge BAs skattemess
 ## § 8. Ikrafttredelse
 
 Loven trer i kraft straks, med unntak av [§ 9](lov/2002-06-21-43/§9) som gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 1 juli 2002 iflg. [res. 21 juni 2002 nr. 569](forskrift/2002-06-21-569).
 
 ## § 9. Endringer i andre lover
 

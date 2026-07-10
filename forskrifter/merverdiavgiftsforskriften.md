@@ -778,6 +778,8 @@ Fritaket gjelder den mengde vare som kan innføres unntatt deklareringsplikt ett
 
 ### § 6-30. Varer og tjenester til fartøy
 
+*Utenlandske fartøy*
+
 ### § 6-30-1. Varer som er omfattet av fritaket
 
 (1) Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) første ledd omfatter alle varer til bruk for fartøyet dersom varene leveres direkte til fartøyet. Fritaket gjelder ikke for varer som forbrukes på fartøy som ligger i opplag i merverdiavgiftsområdet.
@@ -799,6 +801,8 @@ Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) første ledd
 (3) Fritaket i [§ 6-30-2](forskrift/2009-12-15-1540/§6-30-2) skal dokumenteres med salgsdokument som skal inneholde opplysning om hvilket fartøy tjenesten gjelder.
 
 > Endret ved [forskrifter 6 jan 2012 nr. 21](forskrift/2012-01-06-21), [21 juni 2018 nr. 941](forskrift/2018-06-21-941) (med virkning fra 1 jan 2016), [20 des 2022 nr. 2466](forskrift/2022-12-20-2466) (i kraft 1 jan 2023).
+
+*Norske fartøy i utenriks fart*
 
 ### § 6-30-4. Varer som er omfattet av fritaket
 
@@ -830,6 +834,8 @@ Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) første ledd
 
 > Endret ved [forskrifter 6 jan 2012 nr. 21](forskrift/2012-01-06-21), [21 juni 2018 nr. 941](forskrift/2018-06-21-941) (med virkning fra 1 jan 2016), [25 nov 2021 nr. 3289](forskrift/2021-11-25-3289), [20 des 2022 nr. 2466](forskrift/2022-12-20-2466) (i kraft 1 jan 2023).
 
+*Norske spesialfartøy til bruk i petroleumsvirksomhet til havs*
+
 ### § 6-30-7. Varer som er omfattet av fritaket
 
 Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) tredje ledd omfatter alle varer til bruk for spesialfartøyet.
@@ -845,6 +851,8 @@ Fritaket i [merverdiavgiftsloven § 6-30](lov/2009-06-19-58/§6-30) tredje ledd 
 (1) Fritaket i [§ 6-30-7](forskrift/2009-12-15-1540/§6-30-7) skal dokumenteres med salgsdokument og en skriftlig bestilling fra kjøperen. Bestillingen skal inneholde opplysninger som nevnt i [bokføringsforskriften § 5-1-1](forskrift/2004-12-01-1558/§5-1-1) nr. 1-4, samt opplysning om hvilket fartøy varene skal leveres til. Selgeren må ha en bekreftelse fra kjøperen på at varene er mottatt til bruk i petroleumsvirksomhet til havs. Bekreftelsen må foreligge på leveringstidspunktet.
 
 (2) Både kjøperen og selgeren skal oppbevare et eksemplar av bestillingen.
+
+*Andre norske fartøy*
 
 ### § 6-30-10. Varer til norske fiske- og fangstfartøy som oppholder seg utenfor merverdiavgiftsområdet
 
@@ -1887,6 +1895,8 @@ Samvirkeforetak, husflidsutsalg og andre som har fått samtykke fra skattekontor
 ## Kapittel 22. Sluttbestemmelser
 
 ### § 22-1. Endringer i merverdiavgiftsregelverket
+
+*Endringer av merverdiavgiftssats*
 
 ### § 22-1-1. Hovedregel om registrerings- og dokumentasjonsplikt
 

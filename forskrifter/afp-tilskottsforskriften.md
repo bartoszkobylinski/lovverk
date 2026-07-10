@@ -133,3 +133,27 @@ Forskriften trer i kraft straks.
 Fristene i [§ 2-3](forskrift/2010-11-30-1496/§2-3) tredje ledd og [§ 2-4](forskrift/2010-11-30-1496/§2-4) tredje ledd løper tidligst med virkning fra det tidspunktet forskriften trer i kraft.
 
 ## Vedlegg til kapitlene 3 og 4 – justeringsbeløp og forholdstall
+
+*Vedlegg til [§ 3-3](forskrift/2010-11-30-1496/§3-3)*
+
+pK,A,x betegner gjennomsnittlig levetid innenfor det året vedkommende er x år for de i årskull K som overlever fram til uttaksalder A år, se vedlegg til kapittel 4 i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810). pK,A,x er dermed mellom 0 og 1.
+
+Forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y1 kroner ved uttaksalder A år, er: $$\\textbf{(1)} \\: PV1_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_1 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}}$$
+
+Samlet forventet nåverdi ved 62 år av en livsvarig avtalefestet pensjon som utgjør y2 kroner ved uttaksalder A år, og kronetillegg på 19 200 kroner årlig fram til 67 år, er: $$\\textbf{(2)} \\: PV2_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{y_2 [(1+w)(1-0{,}0075)]^{x-A}}{(1+w)^{x-A}} + \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{66}_{x=A} p_{K,A,x} \\frac{19200}{(1+w)^{x-A}}$$
+
+Justeringsbeløpet JK,A bestemmes slik at nåverdiene PV1 og PV2 blir like. Ved å løse for y2 som en funksjon av y1 finner man at:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | \\(\\textbf{(3)} \\: y_2 = y_1 - J_{K,A}\\) | der | \\(J_{K,A} = 19200 \\frac{\\sum_{x=A}^{66} p_{K,A,x} \\left( \\frac{1}{1+w} \\right)^{x-A}}{\\sum_{x=A}^{\\omega} p_{K,A,x} \\cdot 0{,}9925^{x-A}}\\) |
+
+*Vedlegg til [§ 4-2](forskrift/2010-11-30-1496/§4-2)*
+
+lK,x er sannsynligheten for at en person i årskull K overlever fra fylte 27 år til fylte x år. pK,A,x betegner gjennomsnittlig levetid innenfor det året vedkommende er x år for de i årskull K som overlever fram til uttaksalder A år. Se vedlegg til kapittel 4 i [forskrift 22. desember 2009 nr. 1810](forskrift/2009-12-22-1810). lK,A,x og pK,A,x er dermed mellom 0 og 1.
+
+Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder A år, er: $$\\textbf{(1)} \\: T_{K,A} = \\frac{l_{K,A}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=A} p_{K,A,x} \\frac{1}{(1+w)^{x-A}}$$
+
+Forventet nåverdi ved 62 år av et kompensasjonstillegg som utgjør 1 krone ved uttaksalder 62 år, er: $$\\textbf{(2)} \\: N_K = T_{K,62} = \\frac{l_{K,62}}{l_{K,62}} \\sum\\limits^{\\omega}_{x=62} p_{K,62,x} \\frac{1}{(1+w)^{x-62}}$$
+
+Forholdstallet FTKK,A for kompensasjonstillegget beregnes som: $$\\textbf{(3)} \\: FTK_{K,A} = \\frac{T_{K,A}}{N_K}$$

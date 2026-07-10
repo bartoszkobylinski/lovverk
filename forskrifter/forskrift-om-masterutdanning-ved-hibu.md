@@ -84,7 +84,15 @@ Ved opptak til erfaringsbasert master kan rangering bare bygge på relevant prak
 
 Faglig minstekrav på C må oppfylles. Det regnes et snitt av alle emner med bokstavkarakterer, med vekting ut fra emnenes omfang i studiepoeng. Snittet beregnes etter en desimal etter ordinære avrundingsregler.
 
-Følgende omregningsskala benyttes ved snittberegning av bokstavkarakterer:*Karakter**Tallverdi*A5B4C3D2E1
+Følgende omregningsskala benyttes ved snittberegning av bokstavkarakterer:
+
+| *Karakter* | *Tallverdi* |
+| --- | --- |
+| A | 5 |
+| B | 4 |
+| C | 3 |
+| D | 2 |
+| E | 1 |
 
 Det benyttes vekting ut fra emnenes omfang i studiepoeng. Karaktersnittet avrundes til helt tall etter ordinære avrundingsregler.
 
@@ -100,7 +108,15 @@ Rangering av søkere gjøres etter studiespesifikke omregningstabeller.
 
 Beregning av snitt når vitnemålet består av både tall og bokstavkarakterer gjøres ved å beregne snitt for begge kategorier hver for seg og deretter omforme tallsnitt til bokstavkarakterer etter studiespesifikke tabeller.
 
-Tabellene skal utformes med basis i EU-standarden hvor karakterfordelingen ved bestått eksamen over tid skal være som følger:A10 %B25 %C30 %D25 %E10 %
+Tabellene skal utformes med basis i EU-standarden hvor karakterfordelingen ved bestått eksamen over tid skal være som følger:
+
+|  |  |
+| --- | --- |
+| A | 10 % |
+| B | 25 % |
+| C | 30 % |
+| D | 25 % |
+| E | 10 % |
 
 ## § 13. Særskilt vurdering
 

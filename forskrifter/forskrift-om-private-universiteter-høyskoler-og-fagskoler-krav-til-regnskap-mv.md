@@ -56,9 +56,9 @@ Forskriften gjelder private universiteter og høyskoler med akkreditering etter 
 
 (2) Avtaler med nærstående skal dokumenteres med skriftlige avtaler. Pris og andre vilkår i avtalene skal ikke stille institusjonen dårligere enn det som ville vært inngått i avtaler mellom uavhengige parter under sammenlignbare forhold og omstendigheter, og hensett til den reelle risiko- og funksjonsfordelingen mellom partene.
 
-3) Styret skal sørge for at institusjonens avtaler med nærstående parter skjer i henhold til andre ledd og øvrige krav til disponering av offentlige tilskudd og studentenes egenbetalinger. Dette er ikke til hinder for at oppgaver kan delegeres til institusjonens daglige ledelse.
+3\) Styret skal sørge for at institusjonens avtaler med nærstående parter skjer i henhold til andre ledd og øvrige krav til disponering av offentlige tilskudd og studentenes egenbetalinger. Dette er ikke til hinder for at oppgaver kan delegeres til institusjonens daglige ledelse.
 
-4) Kravet til skriftlighet i andre ledd første punktum gjelder ikke for transaksjoner med totalbeløp mindre enn 10 000 kroner med en og samme nærstående avtalepart i ett regnskapsår.
+4\) Kravet til skriftlighet i andre ledd første punktum gjelder ikke for transaksjoner med totalbeløp mindre enn 10 000 kroner med en og samme nærstående avtalepart i ett regnskapsår.
 
 > Endret ved [forskrift 15 okt 2019 nr. 1399](forskrift/2019-10-15-1399).
 

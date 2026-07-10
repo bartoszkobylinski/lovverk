@@ -24,6 +24,8 @@ eu_basis: []
 
 Delegering av Kongens myndighet til Helse- og omsorgsdepartementet til å fastsette forskrift om å gi helselover og -forskrifter hel eller delvis anvendelse på Svalbard og Jan Mayen, i samsvar med vedlagte liste over aktuelle lover.
 
+*Liste over lover hvor Kongens myndighet til å fastsette forskrift om å gi helselovgivningen delvis anvendelse på Svalbard og Jan Mayen, delegeres til Helse- og omsorgsdepartementet*
+
 1. [Lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard
 2. [Lov 27. februar 1930 nr. 2](lov/1930-02-27-2) om Jan Mayen
 3. [Lov 3. juni 1977 nr. 57](lov/1977-06-03-57) om sterilisering

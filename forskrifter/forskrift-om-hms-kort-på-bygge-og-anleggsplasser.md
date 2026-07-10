@@ -32,6 +32,8 @@ Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplas
 
 > Endret ved [forskrift 3 mai 2011 nr. 438](forskrift/2011-05-03-438) (i kraft 1 juni 2011).
 
+1 Jf. [forskrift 21. april 1995 nr. 377](forskrift/1995-04-21-377) om sikkerhet, helse og arbeidsmiljø på bygge- og anleggsplasser (byggherreforskriften) § 2 a).
+
 ## § 3. Vilkår for utstedelse av HMS-kort i bygge- og anleggsbransjen
 
 Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:EnhetsregisteretDet sentrale folkeregisterMerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteretOpplysningsplikten til Sentralskattekontoret for utenlandssaker i henhold til [skatteforvaltningsloven § 7-6](lov/2016-05-27-14/§7-6).
@@ -113,3 +115,5 @@ Forsettlig eller uaktsom overtredelse av denne forskrift eller vedtak gitt i med
 Forskriften gjelder fra den tid departementet bestemmer.1
 
 > Endret ved [forskrift 3 mai 2011 nr. 438](forskrift/2011-05-03-438) (i kraft 1 juni 2011, tidligere § 9).
+
+1 1 jan 2008, jf. [forskrift 27 nov 2007 nr 1329](forskrift/2007-11-27-1329).

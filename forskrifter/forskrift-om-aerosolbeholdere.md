@@ -114,34 +114,64 @@ Finner tilsynsmyndighetene at en eller flere aerosolbeholdere som er i samsvar m
 
 ## Vedlegg
 
+1.**Definisjoner**
+
+1.1.*Trykk*
+
 Med «trykk» menes innvendig trykk uttrykt i bar (overtrykk).
+
+1.2.*Prøvetrykk*
 
 Med «prøvetrykk» menes det trykk en tom aerosolbeholder kan utsettes for i 25 sekunder uten at det oppstår en lekkasje eller at metall- eller plastbeholdere viser synlige eller varige deformasjoner, unntatt slike som er tillatt etter punkt 6.1.1.2.
 
+1.3.*Sprengningstrykk*
+
 Med «sprengningstrykk» menes minimumstrykket som fører til at aerosolbeholderen får en åpning eller sprekk.
+
+1.4.*Beholderens totalvolum*
 
 Med «totalvolum» menes en åpen beholders volum, uttrykt i milliliter, opp til kanten av dens åpning.
 
+1.5.*Nettovolum*
+
 Med «nettovolum» menes en fylt aerosolbeholders volum uttrykt i milliliter.
+
+1.6.*Volum av væskefase*
 
 Med «volum av væskefase» menes volumet som er fylt opp av de ikke-gassformige fasene i en fylt aerosolbeholder.
 
+1.7.*Prøvevilkår*
+
 Med «prøvevilkår» menes prøve- og sprengningstrykkene som påføres hydraulisk ved 20°C (+/– 5°C).
+
+1.7a.*Stoff*
 
 Med «stoff» forstås et stoff som definert i artikkel 2, nr. 7) i forordning [(EF) nr. 1272/2008](eu/32008r1272*).
 
+1.7b.*Blanding*
+
 Med «stoffblanding» forstås en blanding som definert i artikkel 2, nr. 8) i forordning [(EF) nr. 1272/2008](eu/32008r1272*).
+
+1.8.*Brannfarlig innhold*
 
 Innholdet i aerosolbeholdere skal anses som brannfarlig hvis det inneholder komponenter som er klassifisert som brannfarlig:Brannfarlig væske er en væske med flammepunkt høyst 93 °C.Brannfarlig fast stoff er et fast stoff eller blanding som er lett antennelig, eller kan forårsake eller bidra til en brann som følge av friksjon. Lett antennelig fast stoff er pulverformige, granulerte eller pastaliknende stoffer eller blandinger som er farlige hvis de enkelt kan antennes ved kort kontakt med en tennkilde, for eksempel en brennende fyrstikk, og hvis flammen sprer seg raskt.Brannfarlig gass er en gass eller gassblanding som har et eksplosjonsområde i luft ved 20 °C og standard trykk på 1,013 bar.
 
 Denne definisjonen omfatter ikke selvantennende, selvopphetende eller vannreaktive stoffer og blandinger. Slike stoffer er ikke tillatt å være komponenter i innholdet i en aerosolbeholder.
 
+1.9.*Brannfarlige aerosolbeholdere*
+
 Aerosolbeholdere regnes i denne forskrift som «ikke-brannfarlige», «brannfarlige» eller «ekstremt brannfarlige» i henhold til dens kjemiske forbrenningsvarme og masseinnhold av brannfarlige komponenter som følger:Aerosolbeholderen er klassifisert som «ekstremt brannfarlig» dersom den inneholder 85 % eller mer brannfarlige komponenter og den kjemiske forbrenningsvarmen er 30 kJ/g eller mer.Aerosolbeholderen er klassifisert som «ikke-brannfarlig» dersom den inneholder 1 % eller mindre brannfarlige komponenter og den kjemiske forbrenningsvarmen er mindre enn 20 kJ/g.Alle andre aerosolbeholdere vil bli gjenstand for følgende prosedyre for brannfareklassifisering eller de skal klassifiseres som ekstremt brannfarlige (dersom de ikke gjennomgår prosedyren). Tennavstandsprøven, lukket rom-prøven og skumbrannfareprøven skal utføres i samsvar med punkt 6.3 i direktiv [2008/47/EF](eu/32008l0047).
+
+1.9.1.*Brannfarlige spray aerosolbeholdere*
 
 Klassifisering av spray aerosolbeholdere skal gjøres på grunnlag av den kjemiske forbrenningsvarmen og resultatet fra tennavstandsprøven som følger:Når den kjemiske forbrenningsvarmen er mindre enn 20 kJ/g:Aerosolbeholderen skal klassifiseres som «brannfarlig» dersom antennelse skjer i avstand på 15 cm eller mer men mindre enn 75 cm.Aerosolbeholderen skal klassifiseres som «ekstremt brannfarlig» dersom antennelse skjer i avstand på 75 cm eller mer.Dersom det ikke skjer noen antennelse i tennavstandsprøven, skal lukket rom-prøven gjennomføres. Aerosolbeholderen klassifiseres som «brannfarlig» dersom tidslikevekten er mindre eller lik 300 s/m3 eller deflagrasjonstettheten er mindre eller lik 300 g/m3; i motsatt fall regnes aerosolbeholderen som «ikke-brannfarlig».Når den kjemiske forbrenningsvarmen er lik eller større enn 20 kJ/g skal aerosolbeholderen klassifiseres som «ekstremt brannfarlig» dersom antennelse skjer i avstand på 75 cm eller mer; i motsatt fall er aerosolbeholderen klassifisert som «brannfarlig».
 
+1.9.2.*Brannfarlige aerosolbeholdere av skumtypen*
+
 Klassifisering av aerosolbeholdere av skumtypen skal gjøres på grunnlag av resultatene fra skumbrannfareprøven.Aerosolbeholderen skal klassifiseres som «ekstremt brannfarlig» når:Flammehøyden er 20 cm eller høyere og varer i to sekunder eller mer
 ellerFlammehøyden er 4 cm eller høyere og varer i syv sekunder eller mer.Aerosolbeholder som ikke oppfyller kriteriene i (a) skal klassifiseres som «brannfarlig» dersom flammehøyden er 4 cm eller høyere og varer i to sekunder eller mer.
+
+1.10.*Kjemisk forbrenningsvarme*
 
 Den kjemiske forbrenningsvarmen ΔHc skal bestemmes enten ved:Anerkjente teknologiske regler beskrevet i standarder som ASTM D 240, ISO 13943 86.1 til 86.3 og NFPA 30B, eller hentet fra innarbeidet vitenskapelig litteratur;
 ellerÅ benytte følgende beregningsmetode:Den kjemiske forbrenningsvarmen (ΔHc ), i kilojoul per gram (kJ/g), kan beregnes som den teoretiske forbrenningsvarmen (ΔHcomb), og en forbrenningsvirkningsgrad, vanligvis mindre enn 1,0 (en typisk forbrenningsvirkningsgrad er 0,95 eller 95 %).For sammensatte aerosolformuleringer, er den kjemiske forbrenningsvarmen den vektede summen av forbrenningsvarmen til de individuelle komponentene som følger:ΔHc = n Σi [ Wi % x ΔHc(i) ]
@@ -152,33 +182,73 @@ Wi % = masseandelen til komponenten i produktet;
 
 Dersom kjemisk forbrenningsvarme benyttes som parameter for fastsettelse av brannfaren til aerosolbeholderen, skal den som er ansvarlig for markedsføring av aerosolbeholderen beskrive metoden som er benyttet for denne fastsettelsen i et dokument. Dette dokumentet skal foreligge på et offisielt EU-språk på den adressen som er angitt på etiketten i samsvar med [§ 10](forskrift/1996-03-01-229/§10) bokstav a.
 
+2.**Alminnelige bestemmelser**
+
 Med forbehold om de konkrete bestemmelsene i vedlegget vedrørende krav knyttet til antennelighet og trykkfare, er den som er ansvarlig for markedsføringen av aerosolbeholderen forpliktet til å analysere og identifisere de farer som gjelder hans aerosolbeholdere. Når det er hensiktsmessig skal denne analysen inkludere en vurdering av risiko som følge av innånding av spray utløst av aerosolbeholderen under normale og rimelige forutsigbare betingelser. Herunder skal det tas hensyn til dråpestørrelsesfordelingen i sammenheng med de fysiske og kjemiske egenskapene til innholdet. Med bakgrunn i analysen må han deretter designe, konstruere og teste aerosolbeholderen og, dersom det er relevant, angi særskilte hensyn som må tas ved bruk.
+
+2.1.*Konstruksjon og utstyr*
+
+2.1.1.
 
 Den fylte aerosolbeholderen skal være slik at den under normale bruks- og lagringsforhold oppfyller bestemmelsene i dette vedlegg.
 
+2.1.2.
+
 Ventilen skal gjøre det mulig å lukke aerosolbeholderen slik at den er tett under normale lagrings- og transportforhold, og ventilen skal være beskyttet mot enhver utilsiktet åpning og mot enhver beskadigelse, for eksempel ved hjelp av en beskyttelseskapsel.
+
+2.1.3
 
 Aerosolbeholderens mekaniske motstandsevne skal ikke forringes av påvirkning fra stoffene beholderen inneholder, selv under en forlenget lagringsperiode.
 
+2.2.*Merking*
+
 Med forbehold av bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*) skal hver aerosolbeholder være merket med følgende klart synlige, lett leselige og permanente merking:Hvis aerosolbeholderens innhold er klassifisert som «ikke-brannfarlig» etter kriteriene i punkt 1.9, skal den merkes med «advarsel» og øvrig merking for aerosoler kategori 3, som er fastsatt i tabell 2.3.1 i bilag I til forordning [(EF) nr. 1272/2008](eu/32008r1272*).Hvis aerosolbeholderens innhold er klassifisert som «brannfarlig» etter kriteriene i punkt 1.9, skal den merkes med «advarsel» og øvrig merking for aerosoler, kategori 2, som er fastsatt i tabell 2.3.1 i bilag I til forordning [(EF) nr. 1272/2008](eu/32008r1272*).Hvis aerosolbeholderens innhold er klassifisert som «ekstremt brannfarlig» etter kriteriene i punkt 1.9, skal den merkes med «fare» og øvrig merking for aerosoler, kategori 1, som er fastsatt i tabell 2.3.1 i bilag I til forordning [(EF) nr. 1272/2008](eu/32008r1272*).Sikkerhetssetning P102 som fastsatt i del 1, tabell 6.1, i bilag IV til forordning [(EF) nr. 1272/2008](eu/32008r1272*), hvis aerosolbeholderen er en forbrukervare.Eventuelle ytterligere forholdsregler, som advarer forbrukeren om de særlige risikoene som er forbundet med produktet. Dersom aerosolbeholderen ledsages av en separat bruksanvisning, skal denne også gjengi forholdsregler vedrørende bruk.
+
+2.3.*Volumet på den flytende fasen*
 
 Den flytende fases volum ved 50 °C må ikke overstige 90 % av kapasiteten.
 
+3.**Spesielle bestemmelser for aerosolbeholdere av metall**
+
+3.1.*Volum*
+
 Beholdernes totalvolum skal ikke overstige 1000 ml.
+
+3.1.1.*Beholderens prøvetrykk*
 
 1. For beholdere som skal fylles ved et trykk som er lavere enn 6,7 bar ved 50°C, skal prøvetrykket minst være lik 10 bar.
 2. For beholdere som skal fylles ved et trykk på 6,7 bar eller høyere ved 50°C, skal prøvetrykket være 50% høyere enn det innvendige trykk ved 50°C.
 
-Ved 50 °C må trykket i aerosolbeholderen ikke overstige de verdier, som er fastsatt i følgende tabell, avhengig av innholdet av gasser i aerosolbeholderen:*Innhold av gasser**Trykk ved 50 °C*Gass i væskeform eller gassblandinger, som kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar.12 barGass i væskeform eller gassblandinger, som ikke kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar.13,2 barKomprimerte gasser eller gasser, som er oppløst under trykk, som ikke kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar.15 bar
+3.1.2.
+
+Ved 50 °C må trykket i aerosolbeholderen ikke overstige de verdier, som er fastsatt i følgende tabell, avhengig av innholdet av gasser i aerosolbeholderen:
+
+| *Innhold av gasser* | *Trykk ved 50 °C* |
+| --- | --- |
+| Gass i væskeform eller gassblandinger, som kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar. | 12 bar |
+| Gass i væskeform eller gassblandinger, som ikke kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar. | 13,2 bar |
+| Komprimerte gasser eller gasser, som er oppløst under trykk, som ikke kan antennes i luft ved 20 °C og et normaltrykk på 1,013 bar. | 15 bar |
+
+4.**Spesielle bestemmelser for aerosolbeholdere av glass**
+
+4.1.*Plastbelagt eller varig beskyttede beholdere*
 
 Beholdere av denne type kan brukes ved fylling med komprimert, flytende eller oppløst gass.
 
+4.1.1.*Volum*
+
 Beholderens totalvolum skal ikke overstige 220 ml.
+
+4.1.2.*Belegg*
 
 Belegget skal være en beskyttende hinne av plast eller annet egnet materiale som har til formål å hindre at glasspartikler slynges ut dersom beholderen ved et uhell knuses, og belegget skal være utformet slik at glasspartikler ikke slynges ut dersom den fylte aerosolbeholderen ved en temperatur på 20°C faller ned på et betonggulv fra en høyde på 1,8 m.
 
+4.1.3.*Beholderens prøvetrykk*
+
 1. Beholdere som brukes ved fylling med komprimert eller oppløst gass, skal motstå et prøvetrykk på minst 12 bar.
 2. Beholdere som brukes ved fylling med flytende gass, skal motstå et prøvetrykk på minst 10 bar.
+
+4.1.4.*Fylling*
 
 1. Aerosolbeholdere fylt med komprimert gass skal ikke utsettes for et trykk som er høyere enn 9 bar ved 50°C.
 2. Aerosolbeholdere fylt med oppløst gass skal ikke utsettes for et trykk som er høyere enn 8 bar ved 50°C.
@@ -188,11 +258,19 @@ Tabellen angir tillatte trykkgrenser ved 20°C i forhold til gassprosenten.
 
 For gassprosenter som ikke er vist i tabellen, skal trykkgrensene beregnes ved ekstrapolering.
 
+4.2.*Ubeskyttede glassbeholdere*
+
 Ubeskyttede aerosolbeholdere av glass skal utelukkende fylles med flytende eller oppløst gass.
+
+4.2.1.*Volum*
 
 Beholderens totalvolum skal ikke overstige 150 ml.
 
+4.2.2.*Beholderens prøvetrykk*
+
 Beholderens prøvetrykk skal minst være 12 bar.
+
+4.2.3.*Fylling*
 
 1. Aerosolbeholdere fylt med oppløst gass skal ikke utsettes for høyere trykk enn 8 bar ved 50°C.
 2. Aerosolbeholdere fylt med flytende gass skal ved 20°C ikke utsettes for trykk som er høyere enn de som er angitt i følgende tabell:Vektprosent av flytende gass i den totale blandingTotalvolum20%50%80%fra 50 til 70 ml1,5 bar1,5 bar1,25 barover 70 til 150 ml1,5 bar1,5 bar1 bar
@@ -201,23 +279,53 @@ Tabellen angir tillatte trykkgrenser ved 20°C i forhold til gassprosenten.
 
 For gassprosenter som ikke er vist i tabellen, skal trykkgrensene beregnes ved ekstrapolering.
 
+5.**Spesielle bestemmelser for aerosolbeholdere av plast**
+
+5.1.
+
 Aerosolbeholdere av plast som kan avgi splinter ved sprenging, skal likestilles med ubeskyttede aerosolbeholdere av glass.
+
+5.2.
 
 Aerosolbeholdere av plast som ikke kan avgi splinter ved sprenging, skal likestilles med aerosolbeholdere av glass utstyrt med et beskyttende belegg.
 
+6.**Prøver**
+
+6.1.*Prøvekrav som skal garanteres av den som er ansvarlig for markedsføringen*
+
+6.1.1.*Hydraulisk prøve på tomme beholdere*
+
+6.1.1.1.
+
 Aerosolbeholdere av metall, glass eller plast skal kunne motstå en hydraulisk trykkprøve i overensstemmelse med punkt 3.1.1, 4.1.3 og 4.2.2.
+
+6.1.1.2.
 
 Metallbeholdere som viser tegn på asymmetriske deformasjoner, større deformasjoner eller andre liknende feil, skal forkastes. En lett asymmetrisk deformasjon av bunnen eller en deformasjon som påvirker profilen på den øvre veggen, er tillatt forutsatt at beholderen består sprengningsprøven.
 
+6.1.2.*Sprengningsprøve på tomme metallbeholdere*
+
 Den som er ansvarlig for markedsføringen, skal forvisse seg om at beholdernes sprengningstrykk er minst 20% høyere en det fastsatte prøvetrykket.
+
+6.1.3.*Fallprøve for beskyttede glassbeholdere*
 
 Produsenten skal forvisse seg om at beholderne tilfredsstiller prøvevilkårene fastsatt i punkt 4.1.2.
 
+6.1.4.*Sluttkontroll av fylt aerosolbeholder*
+
+6.1.4.1.
+
 Aerosolbeholdere skal underkastes en av følgende prøvemetoder for sluttkontroll:*Prøving i varmt vannbad*Hver fylte aerosolbeholder skal nedsenkes i et vannbad.Vannbadets temperatur og nedsenkingsperioden skal være slik at trykket i aerosolbeholderen når det trykket som innholdet utøver ved en jevn temperatur på 50 °C.Enhver aerosolbeholder som viser tegn på varig deformasjon eller lekkasje, skal forkastes.*Varmeprøving*Andre metoder for oppvarming av innholdet av aerosolbeholderne kan benyttes hvis de garanterer at trykk og temperatur i hver fylt aerosolbeholder når de verdiene som kreves for prøven i varmt vannbad og deformasjoner og lekkasjer oppdages med samme nøyaktighet som ved prøven i varmt vannbad.*Kaldprøving*En alternativ kaldprøving kan benyttes hvis den er i samsvar med beskrivelsen av slik prøvemetode i punkt 6.2.4.3.2.2 av vedlegg A til direktiv [94/55/EF](eu/31994l0055*).
+
+6.1.4.2.
 
 For aerosolbeholdere som gjennomgår en fysisk eller kjemisk forandring som medfører endring av trykkegenskapene etter fylling og før første gangs bruk, skal prøves etter metoden for kaldprøving i punkt 6.1.4.1(c).
 
+6.1.4.3.
+
 Når prøving i henhold til punkt 6.1.4.1(b) og 6.1.4.1(c) benyttes:Prøvemetode skal være godkjent av ansvarlig myndighet.Den ansvarlige for markedsføringen av aerosolbeholderen må sende inn en søknad om godkjenning til ansvarlig myndighet. Søknaden må være ledsaget av en teknisk beskrivelse av prøvemetoden.Den ansvarlige for markedsføringen av aerosolbeholderen skal sørge for at godkjenningen, den tekniske beskrivelsen av prøvemetoden, samt eventuelle kontrollrapporter forefinnes på den adressen som er angitt på etiketten i samsvar med [§ 10](forskrift/1996-03-01-229/§10) bokstav a.Den tekniske beskrivelsen av prøvemetoden skal forefinnes på et offisielt EU-språk.Ansvarlig myndighet er Direktoratet for samfunnssikkerhet og beredskap.
+
+6.2.*Prøvemetoder for bestemmelse av brannfarlige aerosolbeholdere*
 
 Det skal benyttes prøvemetoder for bestemmelse av brannfarlige aerosolbeholdere som angitt i punktene 6.3.1 til og med 6.3.3.4.1 i direktiv [2008/47/EF](eu/32008l0047).
 

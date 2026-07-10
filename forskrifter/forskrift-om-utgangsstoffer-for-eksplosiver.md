@@ -174,6 +174,10 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 2. juni
 
 ## Vedlegg I – Mal for kundeerklæring
 
+[](static/SF/sf-20240828-2049-01-01.docx) (bokmål)
+
+[](static/SF/sf-20240828-2049-02-01.docx) (nynorsk)
+
 ## Forordninger
 
 Nedenfor gjengis forordning [(EU) nr. 2019/1148](eu/32019r1148) om markedsføring og bruk av utgangsstoffer for eksplosiver, i engelsk versjon. Ved forskriften gjennomføres forordningen som den er i norsk rett. Da denne forordningen gir visse valgmuligheter, er de bestemmelser som ikke får direkte virkning i Norge skravert.

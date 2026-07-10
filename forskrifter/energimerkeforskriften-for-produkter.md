@@ -243,37 +243,73 @@ I [forskrift 10. januar 1996 nr. 16 om angivelse av husholdningsapparaters energ
 
 ## Forordninger
 
-Offisiell norsk oversettelse.
+**Forordningene er ikke konsoliderte.**
+
+For å lese forordning [(EU) nr. 1059/2010](eu/32010r1059) i pdf se her: (pdf)
 
 Offisiell norsk oversettelse.
 
-Offisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 1060/2010](eu/32010r1060) i pdf se her: (pdf)
 
 Offisiell norsk oversettelse.
 
-Offisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 1061/2010](eu/32010r1061) i pdf se her: (pdf)
 
 Offisiell norsk oversettelse.
 
-Uoffisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 1062/2010](eu/32010r1062) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 626/2011](eu/32011r0626) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 392/2012](eu/32012r0392) i pdf se her: (pdf)
+
+Offisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 874/2012](eu/32012r0874) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
 
-Uoffisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 665/2013](eu/32013r0665) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
 
-Uoffisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 811/2013](eu/32013r0811) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
 
-Uoffisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 812/2013](eu/32013r0812) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
 
-Uoffisiell norsk oversettelse.
+For å lese forordning [(EU) nr. 65/2014](eu/32014r0065) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 518/2014](eu/32014r0518) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) nr. 1254/2014](eu/32014r1254) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1094](eu/32015r1094) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1186](eu/32015r1186) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2015/1187](eu/32015r1187) i pdf se her: (pdf)
+
+Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2017/254](eu/32017r0254) i pdf se her: (pdf)
 
 Uoffisiell norsk oversettelse.
 

@@ -26,29 +26,55 @@ eu_basis: []
 
 I [forskrift 24. mai 2017 nr. 2480 om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten](forskrift/2017-05-24-2480) gjøres følgende endringer:
 
+4 a. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Horten og Holmestrand.
+
+4 b. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Tønsberg og Færder.
 
+4 c. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for Larvik kommune.
+
+4 d. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for Sandefjord kommune.
 
+4 e. andre ledd skal lyde:
+
 - Siste setning i siste ledd utgår.
+
+4 f. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Kragerø, Nissedal og Drangedal.
 
+4 g. andre ledd skal lyde:
+
 - Lensmannsdistriktet ivaretar politimessige gjøremål for kommunene Midt-Telemark, Nome, Kviteseid, Seljord, Vinje, Tokke og Fyresdal.
+
+4 h. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Notodden, Hjartdal og Tinn.
 
+4 i. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Drammen, Lier og Øvre Eiker.
+
+4 j. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Kongsberg, Flesberg, Rollag og Nore og Uvdal.
 
+4 k. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Ringerike, Hole, Jevnaker, Modum, Sigdal og Krødsherad.
 
+4 l. andre ledd skal lyde:
+
 - Lensmannsdistriktet ivaretar politimessige gjøremål for kommunene Gol, Hemsedal, Ål, Nes, Flå og Hol.
+
+4 m. skal lyde:
 
 - Namsfogden i Sør-Øst ivaretar sivilrettslige gjøremål for kommunene Horten, Holmestrand, Tønsberg, Færder, Larvik, Sandefjord, Skien, Porsgrunn, Bamble, Siljan, Kragerø, Nissedal, Drangedal, Midt-Telemark, Nome, Kviteseid, Seljord, Vinje, Tokke, Fyresdal, Notodden, Hjartdal, Tinn, Drammen, Lier, Øvre Eiker, Kongsberg, Flesberg, Rollag, Nore og Uvdal, Ringerike, Hole, Jevnaker, Modum, Sigdal, Krødsherad, Gol, Hemsedal, Ål, Nes, Flå og Hol.
 

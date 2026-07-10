@@ -54,7 +54,14 @@ Et sammendrag av forhåndsvurderingen skal legges ved melding/søknad om godkjen
 
 ### § 6. Klassifisering av virksomheten
 
-På bakgrunn av forhåndsvurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5) skal bruker klassifisere virksomheten i fire klasser, med tilhørende inneslutningsnivåer i samsvar med [kap. 3](forskrift/2001-12-21-1600/kap3):Klasse 1:virksomhet som ikke innebærer risiko eller bare ubetydelig risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 1 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet.Klasse 2:virksomhet som innebærer liten risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 2 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet.Klasse 3:virksomhet som innebærer moderat risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 3 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet.Klasse 4:virksomhet som innebærer stor risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 4 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet.
+På bakgrunn av forhåndsvurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5) skal bruker klassifisere virksomheten i fire klasser, med tilhørende inneslutningsnivåer i samsvar med [kap. 3](forskrift/2001-12-21-1600/kap3):
+
+|  |  |
+| --- | --- |
+| Klasse 1: | virksomhet som ikke innebærer risiko eller bare ubetydelig risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 1 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet. |
+| Klasse 2: | virksomhet som innebærer liten risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 2 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet. |
+| Klasse 3: | virksomhet som innebærer moderat risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 3 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet. |
+| Klasse 4: | virksomhet som innebærer stor risiko, dvs. virksomhet der inneslutningstiltak ved inneslutningsnivå 4 er hensiktsmessig for å verne menneskers og dyrs helse og miljøet. |
 
 ## Kap. 3. Godkjenning av laboratorier og anlegg
 
@@ -192,40 +199,592 @@ Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves:[Forskrif
 
 ## Vedlegg I A. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte mikroorganismer i laboratorieskala
 
+*I. Generelle opplysninger*
+
+*1. Navn og adresse til laboratorium/anlegg:*
+
+|  |  |
+| --- | --- |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*2. Ansvarshavende for laboratorier/anlegget, herunder kontroll og sikkerhet:*
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Kvalifikasjoner/utdannelse: |  |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*II. Opplysninger om virksomheten*
+
+*3. Komiteer/utvalg ansvarlig for biologisk sikkerhet:*
+
+*4. Genmodifiserte mikroorganismer som skal benyttes:*
+
+*5. Beskrivelse av type arbeidsoperasjoner som utføres, herunder formål:*
+
+*III. Opplysninger om anlegget, sikkerhets- og inneslutningstiltak, avfallsbehandling*
+
+Selvangivelse
+
+*6. Sikkerhetstiltakene er i overensstemmelse med vedlegg V:*
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+*7. Beskrivelse av inneslutningstiltak:*
+
 Minstekrav til inneslutningsnivå for laboratorieskala o.l. fremgår av tabell i vedlegg I C.
 
-I særtilfeller kan det være nødvendig å kombinere disse tiltakene med tiltakene for storskala og produksjon i tabell i vedlegg I D.*Inneslutningsnivå 1*Navn/romnummer:
+I særtilfeller kan det være nødvendig å kombinere disse tiltakene med tiltakene for storskala og produksjon i tabell i vedlegg I D.
 
-GMM skal inaktiveres før avhending. Angi typer avfall, oppbevaring, transport, rutiner for håndtering av avfall, metoder for inaktivering og bestemmelsessted for avfallet.Dato:Ansvarshavendes underskrift:
+|  |  |
+| --- | --- |
+| *Inneslutningsnivå 1* | Navn/romnummer: |
+
+*Minimumskrav:*
+
+|  |  |
+| --- | --- |
+| [ ] | Overflater (arbeidsunderlag) skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre |
+| [ ] | Autoklav på stedet |
+| [ ] | Brukerene skal benytte egnet vernetøy (arbeidstøy) |
+| [ ] | Inaktivering av GMM i kontaminert materiale og avfall |
+
+*Inneslutningstiltak utover dette (avhengig av virksomhet):*
+
+|  |  |
+| --- | --- |
+| [ ] | Vektorkontroll for å oppdage gnagere og insekter |
+| [ ] | Observasjonsvindu eller liknende |
+| Dato: | Ansvarshavendes underskrift: |
+
+|  |  |
+| --- | --- |
+| *Inneslutningsnivå 2* | Navn/romnummer: |
+
+*Minimumskrav:*
+
+|  |  |
+| --- | --- |
+| [ ] | Overflater (arbeidsunderlag) skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre |
+| [ ] | Autoklav i bygningen |
+| [ ] | Adgangskontroll |
+| [ ] | Skilt med biologisk faremerke på døren |
+| [ ] | Tiltak for å kontrollere spredning av aerosoler til et minimum |
+| [ ] | Brukerene skal benytte egnet vernetøy |
+| [ ] | Vektorkontroll for å oppdage gnagere og insekter |
+| [ ] | Inaktivering av GMM i kontaminert materiale og avfall |
+
+*Inneslutningstiltak utover dette (avhengig av virksomhet):*
+
+|  |  |
+| --- | --- |
+| [ ] | Mikrobiologisk sikkerhetsavlukke |
+| [ ] | Hansker |
+| [ ] | Observasjonsvindu eller liknende |
+| [ ] | Krav om egnet fottøy |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+|  |  |
+| --- | --- |
+| *Inneslutningsnivå 3* | Navn/romnummer: |
+
+*Minimumskrav:*
+
+|  |  |
+| --- | --- |
+| [ ] | Adskilt laboratorium |
+| [ ] | Inngang til laboratoriet gjennom forrom, ev. via luftsluse |
+| [ ] | Laboratorium skal gjøres lufttett for utgassing |
+| [ ] | Overflater (arbeidsunderlag og gulv) skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre |
+| [ ] | Mikrobiologisk sikkerhetsavlukke |
+| [ ] | Autoklav i laboratorieenheten (tilknyttet laboratoriet/anlegget), alternativt validerte fremgangsmåter for sikker overføring av materialet til en autoklav utenfor laboratorieenheten, spesifiser nærmere: |
+| [ ] | Adgangskontroll |
+| [ ] | Skilt med biologisk faremerke på døren |
+| [ ] | Tiltak for å hindre spredning av aerosoler |
+| [ ] | Brukere skal benytte egnet vernetøy og utføre fottøyskift før man går inn og ut av området |
+| [ ] | Hansker |
+| [ ] | Vektorkontroll for å oppdage gnagere og insekter |
+| [ ] | Observasjonsvindu eller liknende |
+| [ ] | Inaktivering av GMM i kontaminert materiale og avfall |
+
+*Inneslutningstiltak utover dette (avhengig av virksomhet):*
+
+|  |  |
+| --- | --- |
+| [ ] | Undertrykk i forhold til trykket i de umiddelbare omgivelsene |
+| [ ] | Laboratoriets utluft skal være HEPA-filtrert |
+| [ ] | Dusj |
+| [ ] | Inaktivering av GMM i avløpsvann fra håndvask eller avløp (sluk) og dusjer og liknende spillvann |
+| [ ] | Laboratoriet skal ha eget utstyr |
+| [ ] | Krav om egnet fottøy |
+| [ ] | Laboratoriet skal ha nødstrøm |
+| [ ] | Kommunikasjonsmuligheter fra arbeidsrommet |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift |
+
+|  |  |
+| --- | --- |
+| *Inneslutningsnivå 4* | Navn/romnummer: |
+
+*Minimumskrav:*
+
+|  |  |
+| --- | --- |
+| [ ] | Adskilt laboratorium |
+| [ ] | Laboratorium skal være lufttett for utgassing |
+| [ ] | Overflater (arbeidsunderlag, gulv, tak og vegger) skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre |
+| [ ] | Inngang til laboratoriet via luftsluse |
+| [ ] | Undertrykk i forhold til trykket i de umiddelbare omgivelsene |
+| [ ] | Laboratoriets utluft og innluft skal være HEPA-filtrert |
+| [ ] | Ytterligere krav for behandling av utluft dersom ikke virus fanges opp av HEPA-filter |
+| [ ] | Mikrobiologisk sikkerhetsavlukke |
+| [ ] | Autoklav (gjennomgående) i laboratorieenheten |
+| [ ] | Adgangskontroll |
+| [ ] | Skilt med biologisk faremerke på døren |
+| [ ] | Tiltak for å hindre spredning av aerosoler |
+| [ ] | Dusj |
+| [ ] | Fullstendig kles- og fottøyskift før man går inn og ut av området |
+| [ ] | Hansker |
+| [ ] | Vektorkontroll for å oppdage gnagere og insekter |
+| [ ] | Inaktivering av GMM i avløpsvann fra håndvask eller avløp(sluk) og dusjer og liknende spillvann |
+| [ ] | Laboratoriet skal ha eget utstyr |
+| [ ] | Observasjonsvindu eller liknende |
+| [ ] | Laboratoriet skal ha nødstrøm |
+| [ ] | Krav om kommunikasjonsmuligheter fra arbeidsrommet |
+| [ ] | Inaktivering av GMM i kontaminert materiale og avfall |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+*8. Avfallsbehandling*
+
+GMM skal inaktiveres før avhending. Angi typer avfall, oppbevaring, transport, rutiner for håndtering av avfall, metoder for inaktivering og bestemmelsessted for avfallet.
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+Vedlegg:
+
+|  |  |
+| --- | --- |
+| [ ] | Kopi av samtykke fra Arbeidstilsynet til oppføring av bygninger mv. i henhold til arbeidsmiljølovens § 19. |
 
 ## Vedlegg I B. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte mikroorganismer for storskala og produksjon
+
+*I. Generelle opplysninger*
+
+*1. Navn og adresse til laboratorium/anlegg:*
+
+|  |  |
+| --- | --- |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*2. Ansvarshavende for laboratorier/anlegget, herunder kontroll og sikkerhet:*
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Kvalifikasjoner/utdannelse: |  |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*II. Opplysninger om virksomheten*
+
+*3. Opplysninger om komiteer/utvalg for biologisk sikkerhet:*
+
+*4. Genmodifiserte mikroorganismer som skal produseres:*
+
+*III. Opplysninger om anlegget, sikkerhets- og inneslutningstiltak, avfallsbehandling*
+
+*5. [ ] Sikkerhetstiltakene er i overenstemmelse med vedlegg V*
 
 Minstekrav til inneslutningsnivå for storskalaforsøk og produksjon av GMM fremgår av tabellen i vedlegg I D. I visse særtilfeller kan det være nødvendig å anvende en kombinasjon av tiltak fra tabellen i vedlegg I C og tabellen i vedlegg I D.
 
 Uansett gjelder krav om at alt avfall og utslipp skal inaktiveres ved anerkjente metoder før endelig avhending, med hensyn på GMM og eventuelle antibiotikaresistensgener.
 
+*6. Inneslutningsnivå det søkes om:*
+
+*7. Beskrivelse av anlegget*
+
 1. Gi en beskrivelse av anlegget (beliggenhet, bygningsmessige forhold og plassering av produksjonsutsyr). Plantegning skal vedlegges.
 2. Gi en beskrivelse av anleggets innredning, tekniske hjelpemidler, produksjonsprosessen, type arbeidsoperasjoner, herunder oppstrøms- og nedstrømsutstyr, samt kulturvolum.
 3. Gi en beskrivelse av inneslutningstiltak med utgangspunkt i minstekravene angitt i vedlegg I D.
+
+*8. Opplysninger om avfallsbehandling*
 
 1. Angi typer og mengde avfall fra produksjonsprosessen, herunder mellom-, bi- og avfallsprodukter og forekomst av GMM i disse.
 2. Anlegg for oppbevaring og håndtering av produksjonsavfall, herunder volum og kapasitet, metoder for inaktivering og validering av metoden for inaktivering.
 3. Rutiner for håndtering, oppbevaring og inaktivering av annet avfall, samt søl.
 4. Metode for ødeleggelse av antibiotikaresistensgener før utslipp til miljøet.
 
+*9. Beskrivelse av kvalitetsikringssystem for å sikre helse og miljø*
+
+*10. Beredskapsplaner ved uhell*
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+Vedlegg:
+
+|  |  |
+| --- | --- |
+| [ ] | Kopi av samtykke fra Arbeidstilsynet til oppføring av bygninger mv. i henhold til arbeidsmiljølovens § 19. |
+
 ## Vedlegg I C. Inneslutningstiltak og andre vernetiltak for laboratorievirksomhet
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 1 | Laboratorium: isolasjon1 | Kreves ikke | Kreves ikke | Kreves | Kreves |
+| 2 | Laboratorium: lufttett for utgassing | Kreves ikke | Kreves ikke | Kreves | Kreves |
+
+*Utstyr*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 3 | Overflater skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre | Kreves (arbeidsunderlag) | Kreves (arbeidsunderlag) | Kreves (arbeidsunderlag, gulv) | Kreves (arbeidsunderlag, gulv, tak, vegger) |
+| 4 | Inngang til laboratorium gjennom forrom/luftsluse2 | Kreves ikke | Kreves ikke | Kreves gjennom forrom, ev. luftsluse | Kreves luftsluse |
+| 5 | Undertrykk i forhold til trykket i de umiddelbare omgivelsene | Kreves ikke | Kreves ikke | Kreves, unntatt for3 | Kreves |
+| 6 | Laboratoriets utluft og innluft skal være HEPA-filtrert | Kreves ikke | Kreves ikke | Kreves (HEPA)4 – utluft unntatt for3 | Kreves (HEPA)5 – innluft og utluft |
+| 7 | Mikrobiologisk sikkerhetsavlukke | Kreves ikke | Valgfritt | Kreves | Kreves |
+| 8 | Autoklav | På stedet | I bygningen | I hele laboratorieområdet6 | Laboratoriet = med gjennomgang |
+
+*Arbeidssystem*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 9 | Begrenset adgang | Kreves ikke | Kreves | Kreves | Kreves |
+| 10 | Biologisk faremerke på døren | Kreves ikke | Kreves | Kreves | Kreves |
+| 11 | Særlige tiltak for å kontrollere spredning av aerosol | Kreves ikke | Kreves, reduseres mest mulig | Kreves, hindres | Kreves, hindres |
+| 13 | Dusj | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 14 | Vernetøy | Eget vernetøy | Egnet vernetøy (valgfritt fottøy) | Egnet vernetøy | Fullstendig kles- og fottøyskift før en går inn og ut av området |
+| 15 | Hansker | Kreves ikke | Valgfritt | Kreves | Kreves |
+| 18 | Effektiv vektorkontroll (f.eks. for å oppdage gnagere og insekter) | Valgfritt | Kreves | Kreves | Kreves |
+
+*Avfall*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 19 | Inaktivering av GMM i avløpsvann fra håndvask eller avløp og dusjer og lignende spillvann | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 20 | Inaktivering av GMM i kontaminert materiale og avfall | Kreves | Kreves | Kreves | Kreves |
+
+*Andre tiltak*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 21 | Laboratoriet skal ha sitt eget utstyr | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 22 | Det skal finnes et observasjonsvindu eller lignende innretning slik at personer i rommet kan ses | Valgfritt | Valgfritt | Kreves | Kreves |
+| 23 | Det skal være kommunikasjonsmulighet fra arbeidsrommet | Kreves ikke | Valgfritt | Valgfritt | Kreves, håndfri telefon-/callingopplegg |
+| 24 | Arbeidslokalene må ha nødstrøm | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+
+1 Isolasjon = laboratoriet er atskilt fra andre områder i samme bygning eller ligger i en egen bygning.
+
+2 Luftsluse = inngang må skje gjennom en luftsluse som er et eget kammer i forbindelse med laboratoriet. Den rene siden av luftslusen må være atskilt fra det innesluttede området ved en garderobe eller dusjer og helst med dører som ikke kan åpnes samtidig.
+
+3 Virksomhet der overføring ikke skjer gjennom luft.
+
+4 HEPA = absolutt filter.
+
+5 Dersom det brukes virus som ikke fanges opp av HEPA-filtre, er det nødvendig med ytterligere krav til utsugingsluft.
+
+6 Med validerte fremgangsmåter som muliggjør sikker overføring av materiale til en autoklav utenfor laboratoriet, og som gir et tilsvarende vernenivå.
 
 ## Vedlegg I D. Inneslutningstiltak og andre vernetiltak for produksjon/storskala virksomhet
 
+*Generelt*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 1 | Levedyktige mikroorganismer skal innesluttes i et system som skiller prosessen fra miljøet (lukket system) | Kreves | Kreves | Kreves | Kreves |
+| 2 | Kontroll med gassutslipp fra det lukkede systemet | Kreves, redusere spredning mest mulig | Kreves, redusere spredning mest mulig | Kreves, hindre spredning | Kreves, hindre spredning |
+| 3 | Kontroll med aerosol under prøvetaking, tilførsel av materiale til et lukket system eller overføring av materiale til et annet lukket system | Valgfritt | Kreves, redusere spredning mest mulig | Kreves, hindre spredning | Kreves, hindre spredning |
+| 4 | Inaktivering av flytende medier i bulk før fjerning fra det lukkede systemet | Kreves, med validerte metoder | Kreves, med validerte metoder | Kreves, med validerte metoder | Kreves, med validerte metoder |
+| 5 | Forseglinger skal være utformet slik at utslipp reduseres mest mulig eller hindres | Redusere spredning mest mulig | Redusere spredning mest mulig | Hindre spredning | Hindre spredning |
+| 6 | Den kontrollerte sonen skal være utformet på en slik måte at den ved overløp fra det avstengte systemet kan fange opp hele innholdet derfra | Kreves | Kreves | Kreves | Kreves |
+| 7 | Den kontrollerte sonen skal kunne forsegles for å muliggjøre utgassing | Kreves ikke | Valgfritt | Valgfritt | Kreves |
+
+*Utstyr*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 8 | Inngang gjennom forrom/luftsluse | Kreves ikke | Kreves ikke | Kreves gjennom forrom, ev. luftsluse | Kreves luftsluse |
+| 9 | Overflater skal tåle vann, syrer, alkaliske stoffer, løsemidler, desinfeksjonsmidler, dekontamineringsagenser, og være lette å rengjøre | Kreves (eventuelt arbeidsunderlag) | Kreves (eventuelt arbeidsunderlag) | Kreves (eventuelt arbeidsunderlag, gulv) | Kreves (arbeidsunderlag, gulv, tak, vegger) |
+| 10 | Særskilte tiltak for tilstrekkelig ventilering av den kontrollerte sonen for å redusere luftkontaminering mest mulig | Valgfritt | Valgfritt | Valgfritt | Kreves |
+| 11 | Den kontrollerte sonen skal ha undertrykk i forhold til de umiddelbare omgivelsene | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 12 | Den kontrollerte sonens utluft og innluft skal være HEPA-filtrert | Kreves ikke | Kreves ikke | Kreves (utluft, valgfritt for innluft) | Kreves (innluft og utluft) |
+
+*Arbeidssystem*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 13 | Lukkede systemer skal være plassert innenfor en kontrollert sone | Kreves ikke | Valgfritt | Kreves | Kreves |
+| 14 | Bare utpekt personale skal ha adgang | Kreves ikke | Kreves | Kreves | Kreves |
+| 15 | Biologisk faremerke skal være oppslått | Kreves ikke | Kreves | Kreves | Kreves |
+| 17 | Personalet skal dusje før de forlater den kontrollerte sonen | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 18 | Personalet skal bruke vernetøy | Kreves egnet arbeidstøy | Kreves egnet arbeidstøy, eventuelt vernetøy (valgfritt fottøy) | Kreves egnet arbeidstøy, egnet vernetøy og fottøyskift før en går inn og ut av området | Kreves egnet vernetøy, fullstendig kles- og fottøyskift før en går inn og ut av området |
+
+*Avfall*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 19 | Inaktivering av GMM i avløpsvann fra håndvasker og dusjer eller lignende spillvann | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 20 | Inaktivering av GMM i kontaminert materiale og avfall, også i prosesspillvann før endelig uttømming | Kreves, med validerte metoder | Kreves, med validerte metoder | Kreves, med validerte metoder | Kreves, med validerte metoder |
+
+*Andre tiltak*
+
+| *Spesifikasjoner* |  | *Inneslutningsnivåer* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 2 | 3 | 4 |
+| 21 | Det skal være kommunikasjonsmulighet fra arbeidsrommet | Kreves ikke | Kreves | Kreves | Kreves håndfri telefon-/callingopplegg |
+| 22 | Arbeidslokalene må ha nødstrøm | Kreves ikke | Kreves ikke | Valgfritt | Kreves |
+| 23 | Personalet skal ha adgang til dekontamineringsanlegg og sanitæranlegg | Kreves ikke | Kreves | Kreves | Kreves |
+
 ## Vedlegg I E. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte mikroorganismer i kombinasjon med dyr
+
+*I. Generelle opplysninger*
+
+*1. Navn og adresse til laboratorium/anlegg:*
+
+|  |  |
+| --- | --- |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*2. Ansvarshavende for laboratorier/anlegget, herunder kontroll og sikkerhet:*
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Kvalifikasjoner/utdannelse: |  |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+*II. Opplysninger om virksomheten*
+
+*3. Komiteer/utvalg ansvarlig for biologisk sikkerhet:*
+
+*4. Genmodifiserte mikroorganismer som skal benyttes:*
+
+*5. Beskrivelse av type arbeidsoperasjoner som utføres, herunder formål:*
+
+*6. Type dyr det skal arbeides med:*
+
+|  |  |
+| --- | --- |
+| [ ] | Vertebrater, spesifiser: |
+| [ ] | Invertebrater, spesifiser: |
+| [ ] | Akvatiske dyr, spesifiser: |
+
+*III. Opplysninger om anlegget, sikkerhets- og inneslutningstiltak og avfallsbehandling*
+
+*Selvangivelse*
+
+*7. Sikkerhetstiltakene er i overensstemmelse med vedlegg I F*
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+*8. Avfallsbehandling*
 
 GMO skal inaktiveres før avhending med validerte metoder, slik som autoklavering eller forbrenning. Angi typer avfall, oppbevaring, transport,1 rutiner for håndtering av avfall, metoder for inaktivering og bestemmelssted.
 
+1 Dersom avfall med levende GMO skal transporteres fra området til forbrenningsanlegg vil dette være transport av GMO som omfattes av [forskrift av 13. november 1998 nr. 1066](forskrift/1998-11-13-1066) om transport og import av genmodifiserte organismer.
+
+*9. Beskrivelse av inneslutningstiltak:*
+
 Krav til inneslutningstiltak for laboratorier og anlegg for innesluttet bruk av genmodifiserte mikroorganismer i kombinasjonsbruk med dyr bestemmes av hvilken gruppe dyret hører innunder og risiko virksomheten medfører. Kravene fremgår av tabell i vedlegg I F. Kravene skal oppfylles i den grad de er relevante for virksomheten. For hvert rom det søkes om skal det krysses for de tiltakene som anvendes. For virksomhet med invertebrater og akvatiske dyr skal det krysses både for de generelle tiltakene som anvendes, og for de spesifikke tiltak som anvendes.
 
-For godkjenning av laboratorier og anlegg til smitteforsøk med akvatiske dyr kreves vedlagt kopi av godkjenning av anlegg for desinfeksjon av avløpsvann etter [lov av 13. juni 1997 nr. 54](lov/1997-06-13-54) om tiltak mot sykdom hos fisk og andre akvatiske dyr.Navn/romnummer:Inneslutningsnivå det søkes om:Dato:Ansvarshavendes underskrift:
+For godkjenning av laboratorier og anlegg til smitteforsøk med akvatiske dyr kreves vedlagt kopi av godkjenning av anlegg for desinfeksjon av avløpsvann etter [lov av 13. juni 1997 nr. 54](lov/1997-06-13-54) om tiltak mot sykdom hos fisk og andre akvatiske dyr.
+
+|  |  |
+| --- | --- |
+| Navn/romnummer: | Inneslutningsnivå det søkes om: |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+*Anlegg/innredning*
+
+|  |  |
+| --- | --- |
+| [ ] | Adskilt dyreenhet med adgangskontroll |
+| [ ] | Dyrerom er adskilt fra tilknyttede rom med dører som låses utenom arbeidstid |
+| [ ] | Avstengningsmekanismer som muliggjør gassing |
+| [ ] | Gulv og/eller vegger er lett vaskbare |
+| [ ] | Benker og gulv tåler vann, syre, alkaliske stoffer, løsemidler og desinfeksjonsmidler, dekontamieringsagenser og er lett å rengjøre |
+| [ ] | Vegger tåler vann, syre, alkaliske stoffer, løsemidler og desinfeksjonsmidler, dekontamieringsagenser og er lett å rengjøre |
+| [ ] | Håndvask er tilgjengelig |
+| [ ] | Håndvask kan betjenes uten bruk av hender, og det finnes hånddesinfeksjonsmiddel |
+| [ ] | Inngang til enhet via luftsluse |
+| [ ] | Luftsluse med håndvask og dusj |
+| [ ] | Luftsluse med negativ trykk for omkledning og dusjing |
+| [ ] | Enheten har undertrykk i forhold til trykket i de umiddelbare omgivelsene |
+| [ ] | Luften resirkulerer ikke til andre deler av bygningen |
+| [ ] | Enheten er konstruert for å hindre revers luftstrøm og overtrykk |
+| [ ] | Separat kanal system for inn- og utluft. Utluft via HEPA-filter |
+| [ ] | Eget ventilasjonsanlegg for opprettholdelse av negativt trykk tilkoblet alarmanlegg, innluft via ett HEPA-filter, utluft via to HEPA-filter i serie |
+| [ ] | Andre tiltak for behandling av utluft dersom virus ikke fanges opp av HEPA-filter. Presiser: |
+| [ ] | Enheten har installert alarm for å kunne oppdage brann, feil ved ventilasjons- og varmeanlegg og inntrengere |
+| [ ] | Autoklav er tilgjengelig |
+| [ ] | På anlegget |
+| [ ] | I bygningen |
+| [ ] | I enheten |
+| [ ] | Dobbeltsidig autoklav tilgjengelig ved inngangen til sonen og ved utgangen til enheten |
+| [ ] | Alternativt, validerte fremgangsmåter for sikker overføring av materialet til en autoklav utenfor laboratorieenheten, spesifiser nærmere: |
+| [ ] | Dyrene oppstalles |
+| [ ] | I egnede bur, innhegning og lignende |
+| [ ] | I biologisk sikkerhetsisolator/sikkerhetskabinett |
+| [ ] | I biologisk sikkerhetsisolator med ventilasjon gjennom HEPA-filter til omgivelsene eller i egne ventilasjonsenheter med utluft bak dyrene |
+
+*Avfallsbehandling*
+
+|  |  |
+| --- | --- |
+| [ ] | GMM og kontaminert avfall fra dyrene (herunder strø, mat etc.) fjernes slik at støv og aerosoler minimaliseres og inaktiveres |
+| [ ] | Spillvann fra vasker, dusjer og autoklav samles opp og inaktiveres før det slippes ut |
+
+*Arbeid og utstyr*
+
+|  |  |
+| --- | --- |
+| [ ] | Kun autorisert personale har adgang |
+| [ ] | Kun forsøksdyr er tillatt i enheten |
+| [ ] | Egnet vernetøy benyttes |
+| [ ] | Fullstendig kles- og fottøyskift før inngang og utgang |
+| [ ] | Arbeid ved sikkerhetskabinett eller isolator (oppgi eventuelt klasse) |
+| [ ] | Burene er vanntette, lett vaskbare og dekontaminerbare |
+| [ ] | Observasjonsvindu eller liknende |
+| [ ] | Skilt med biologisk faremerke på døren |
+| [ ] | Tiltak for å kontrollere spredning av aerosoler til et minimum |
+| [ ] | Bruk av hansker |
+| [ ] | Laboratoriet har eget utstyr |
+
+*Inneslutningstiltak*
+
+|  |  |
+| --- | --- |
+| [ ] | Gnagerbarriere foran dør/selvlukkningsmekanisme på dør |
+| [ ] | Skjøter mellom dør, dørkarm og vegger er forseglet/tette |
+| [ ] | Skjøter mellom vegger, gulv og tak er tildekket ev. avrundet for lettere rengjøring |
+| [ ] | Sluk og andre åpninger i gulv og vegger er sikret mot rømming/uhellsutslipp av gnagere og insekter |
+| [ ] | Vektorkontroll for å hindre inntrengning av gnagere og insekter utenifra |
+
+*10 Spesifikke inneslutningstiltak for invertebrater*
+
+|  |  |
+| --- | --- |
+| [ ] | Separate rom for infiserte og ikke infiserte invertebrater tilgjengelig |
+| [ ] | Enheten har mulighet til forsegling for gassing |
+| [ ] | Tiltak for å redusere invertebratenes aktivitet og mulighet for rømming f.eks. kjøling |
+| [ ] | Inngangen til enheten går via en sluse med arthropodetette nett foran døren og insektsfangere |
+| [ ] | Ventilasjonskanaler for utgående luft og vinduer er dekket med arthropodetett nett |
+| [ ] | Alle vasker og kanaler/sluk har mulighet for oppsamling/vannlås |
+| [ ] | Forsøk med flyvedyktige og krypende arthropoder utføres på hvite fat for lettere å oppdage rømming |
+| [ ] | Flyvende insekter innesluttes i bokser/bur med dobbel netting, ventilasjon filtreres |
+| [ ] | Arbeid med arthropoder utføres i isolater eller sikkerhetskabinett |
+
+Oppgi eventuelle andre inneslutningstiltak som benyttes:
+
+*Spesifikke inneslutningstiltak for akvatiske dyr*
+
+|  |  |
+| --- | --- |
+| [ ] | Tankene skal være tildekket med lokk eller netting for å hindre rømming |
+| [ ] | Akvatiske dyr (herunder: egg, yngel etc.) skal være hindret i å slippe ut via sluk i gulvet |
+| [ ] | Avløpsvannet skal inaktiveres for å hindre spredning av genmodifiserte mikroorganismer, alarmanlegg skal monteres for å overvåke at inaktiveringsprosessen skjer tilfredsstillende |
+| [ ] | Enheten skal være konstruert slik at ved utslipp (oversvømmelse, lekkasje etc.) fra tanken, skal genmodifiserte mikroorganismer inaktiveres før det går ut fra avløpssystemet tilknyttet anlegget |
+
+Oppgi eventuelle andre inneslutningstiltak som benyttes:
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+Vedlegg:
+
+|  |  |
+| --- | --- |
+| [ ] | Kopi av samtykke fra Arbeidstilsynet til oppføring av bygninger mv. i henhold til arbeidsmiljølovens § 19 |
 
 ## Vedlegg I F. Inneslutningstiltak for virksomhet med genmodifiserte mikroorganismer i kombinasjonsbruk med dyr
+
+| *Anlegg/innredning* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| Isolasjon av dyreenheten | Nei | Ja | Ja, adskilt med luftsluse fra andre dyrerom og laboratorier | Ja, tilknyttet laboratorieklasse 4 ev. isolert enhet/bygning, inngang via luftsluse |
+| Dyrerom adskilt fra tilknyttede rom med dører som låses utenom arbeidstid | Ja | Ja | Ja | Ja, dør med inspeksjonsvindu |
+| Avstengningsmekanismer som muliggjør gassing | Nei | Ja1 | Ja1 | Ja, mulighet for forsegling av dører |
+| Gulv og/eller vegger skal være lett vaskbare | Ja | Ja | Ja | Ja |
+| Overflater skal tåle vann, syre, alkaliske stoffer, løsemidler og desinfeksjonsmidler, dekontamieringsagenser og være lett å rengjøre | Benker og gulv | Benker og gulv | Benker, gulv og vegger | Benker, gulv, tak og vegger |
+| Håndvask | Tilgjengelig | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel | Vask som kan betjenes uten bruk av hender, hånddesinfeksjonsmiddel |
+| Inngang til enhet via luftsluse | Nei | Nei | Luftsluse med håndvask og dusj1 | Luftsluse med negativt trykk for omkledning og dusjing |
+| Enheten skal ha et trykk som er lavere enn atmosfærisk trykk | Nei | Ja, luften skal ikke resirkuleres til andre deler av bygningen1 | Ja, konstruert for å hindre revers luftstrøm og overtrykk | Ja, konstruert for å hindre revers luftstrøm og overtrykk |
+| Ventilasjonsanlegg – Inn- og utluft fra enheten skal være filtrert |  |  | Separat kanalsystem, utluft via HEPA-filter,1 filteret skal kunne testes og byttes på en sikker måte | Eget ventilasjonsanlegg for opprettholdelse av negativt trykk tilkoblet alarmanlegg, innluft via 1 HEPA-filter, utluft via 2 HEPA-filter i serie2 |
+| Enheten skal ha installert alarm for å kunne oppdage brann, feil ved ventilasjons- og varmeanlegg og inntrengere | Ja | Ja | Ja | Ja |
+| Autoklav | På anlegget | I bygningen | I enheten | Dobbelsidig autoklav skal være tilgjengelig ved inngangen til sonen og ved utgangen til enheten |
+| Oppstalling av dyr | Egnede bur, innhegning og lignende | Biologisk sikkerhetsisolator/-kabinett | Isolator med ventilasjon gjennom HEPA-filter til omgivelsene eller egne ventilasjonsenheter med utluft bak dyrene | Isolator med ventilasjon gjennom HEPA-filter til omgivelsene eller egne ventilasjonsenheter med utluft bak dyrene |
+
+| *Avfallsbehandling* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| Avfall fra dyrene skal fjernes slik at støv og aerosoler minimaliseres | Ja | Ja | Ja | Ja |
+| Spillvann fra vasker, dusjer og autoklav skal samles opp og inaktiveres før det slippes ut | Nei | Nei | Nei | Ja |
+| Forbrenningsanlegg på området til inaktivering av kadavre og fast materiale | Valgfritt3 | Valgfritt3 | Valgfritt3 | Ja |
+
+| *Arbeid og utstyr* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| Kun autorisert personale har adgang | Ja | Ja | Ja | Ja |
+| Kun forsøksdyr er tillatt i enheten | Ja | Ja | Ja | Ja |
+| Sikkerhetskabinett | Nei | Arbeid med mulighet for utvikling av aerosoler1 | Ja | Alt arbeid i sikkerhetkabinett klasse III eller isolator |
+| Biologisk faremerking på dørene | Nei | Ja | Ja | Ja |
+| Tiltak for å hindre spredning av aerosoler | Nei | Ja, minimalisere | Ja, hindre | Ja, hindre |
+| Vernetøy | Egnet vernetøy | Egnet vernetøy | Egnet vernetøy | Fullstendig omkledning |
+| Hansker | Nei | Nei | Ja | Ja |
+| Laboratoriet skal ha eget utstyr | Nei | Nei | Ja | Ja |
+| Effektiv vektor kontroll mot inntrengning av gnagere/insekter | Nei | Ja | Ja | Ja |
+| Bur skal være vanntett, lett vaskbar og dekontaminerbar | Ja | Ja | Ja | Ja |
+
+| Inneslutningstiltak |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Gnagerbarriere foran dør/selvlukningsmekanisme på dør | Ja | Ja | Ja | Ja |
+| Skjøter mellom dør, dørkarm og vegger skal være forseglet/tette | Ja | Ja | Ja | Ja |
+| Skjøter mellom vegger, gulv og tak skal være tildekket ev. avrundet for lettere rengjøring | Ja | Ja | Ja | Ja |
+| Sluk og andre åpninger i gulv og vegger skal være sikret mot rømming/uhellsutslipp av gnagere og insekter | Ja | Ja | Ja | ja |
+
+1 Krav i den grad risikoen for virksomheten tilsier det.
+
+2 Ytterligere krav til utluft dersom ikke virus fanges opp av HEPA-filter.
+
+3 All GMO og materiale kontaminert med GMO skal inaktiveres før avhending enten ved autoklavering eller forbrenning. Dersom avfall med levende GMO skal transporteres fra området til forbrenningsanlegg vil dette være transport av GMO som omfattes av [forskrift 13. november 1998 nr. 1066](forskrift/1998-11-13-1066) om transport og import av genmodifiserte organismer.
+
+*Spesifikke krav for invertebrater*
+
+*Inneslutningsnivå 1*
 
 - Separate rom for infiserte og ikke infiserte invertebrater bør være tilgjengelig,
 - enheten skal ha mulighet til forsegling for gassing,
@@ -235,8 +794,14 @@ For godkjenning av laboratorier og anlegg til smitteforsøk med akvatiske dyr kr
 - alle vasker og kanaler/sluk skal ha mulighet for oppsamling/vannlås,
 - forsøk med flyvedyktige og krypende arthropoder skal utføres på hvite fat for lettere å oppdage rømming.
 
+*Inneslutningsnivå 2, 3 og 4*
+
 - Arbeid med arthropoder skal utføres i isolatorer eller sikkerhetskabinett,
 - flyvende insekter skal innesluttes i bokser/bur med dobbel netting, ventilasjonen skal filtreres.
+
+*Spesifikke krav for akvatiske dyr*
+
+*Alle inneslutningsnivåer*
 
 - Akvatiske dyr kontaminert/infisert med GMM (herunder: egg, yngel etc.) skal være hindret fra å trenge inn i vanntilførselssystemet, hindret i å slippe ut via sluk i gulvet, samt hindret i å slippe ut i avløpssystemet ved hjelp av to barrierer,
 - tankene skal være tildekket med lokk eller netting for å hindre rømming,
@@ -245,9 +810,57 @@ For godkjenning av laboratorier og anlegg til smitteforsøk med akvatiske dyr kr
 
 ## Vedlegg II A. Melding/søknad om godkjenning av innesluttet bruk av genmodifiserte mikroorganismer
 
+|  |  |  |
+| --- | --- | --- |
+| *Melding* [ ] | *Søknad etter [§ 11](forskrift/2001-12-21-1600/§11) bokstav a* [ ] | *Søknad etter [§ 11](forskrift/2001-12-21-1600/§11) bokstav b* [ ] |
+
+|  |  |
+| --- | --- |
+| *Laboratorieskala* [ ] | *Storskala* [ ] |
+
+*1.1 Generelle opplysninger*
+
+1\. Navn og kvalifikasjoner på ansvarlig(e) person(er) for den innesluttede bruken, herunder kontroll og sikkerhet:
+
+2\. Institusjons navn:
+
+3\. Adresse:
+
+|  |  |  |
+| --- | --- | --- |
+| Tlf.: | Faks: | E-postadresse: |
+
+4\. Laboratoriets/anleggets navn og adresse:
+
+|  |  |  |
+| --- | --- | --- |
+| Sendes det ny søknad for laboratoriet og anlegg? | Ja [ ] | Nei [ ] |
+
+Hvis ikke, skal kopi av tidligere godkjenning av laboratorier og anlegg vedlegges
+
+5\. Navn på ansvarlig person for laboratoriet/anlegget:
+
+6\. Laboratoriets/anleggets inneslutningsnivå:
+
+*Beskrivelse av virksomheten:*
+
+7\. Beskrivelse av modifiseringen, herunder:
+
 1. beskrivelse av mottaker-, donor- og/eller foreldreorganismen(e) og vert/vektorsystem som er brukt:
 2. det innsatte genmaterialets opprinnelse, planlagte funksjon og genetiske stabilitet:
 3. den modifiserte organismens identitet og egenskaper:
+
+8\. Hvor stort kulturvolum skal benyttes:
+
+9\. Inneslutningsnivå som trengs for virksomheten, som følge av forhåndsvurderingen av risiko foretatt etter vedlegg III, jf. [§ 5](forskrift/2001-12-21-1600/§5) og [§ 6](forskrift/2001-12-21-1600/§6).
+
+10\. Formålet med den innesluttede bruken, herunder det ventede resultat og planlagt varighet:
+
+11\. Særskilte inneslutningstiltak og andre vernetiltak mot utilsiktet utslipp av genmodifiserte organismer, herunder opplysninger om avfallshåndteringen (typer avfall, volum, metode for inaktivering, endelig form og bestemmelsessted), som følge av forhåndsvurderingen av risiko foretatt etter vedlegg III, jf. [§ 5](forskrift/2001-12-21-1600/§5) og 6.
+
+12\. Ved storskalavirksomhet, validering av inaktivering av GMM, og metode og validering for inaktivering av eventuelle antibiotikaresistensgener, herunder metode for påvisning av disse i avfallsprodukter, jf. [§ 15](forskrift/2001-12-21-1600/§15).
+
+13\. Beskrivelse av planer for forebygging av uhell, beredskapsplaner/tiltak ved utilsiktet utslipp av genmodifiserte mikroorganismer, ved virksomheter i inneslutningsnivå 3 og 4, og ved alle virksomheter i storskala
 
 - særlige farer som skyldes anleggsstedet,
 - anvendte forebyggende tiltak, f.eks. sikkerhetsutstyr, alarmsystemer og inneslutningsmetoder,
@@ -256,14 +869,60 @@ For godkjenning av laboratorier og anlegg til smitteforsøk med akvatiske dyr kr
 
 ## Vedlegg II B. Melding/søknad om godkjenning av innesluttet bruk av dyr i kombinasjon med genmodifiserte mikroorganismer
 
+|  |  |
+| --- | --- |
+| *Melding* [ ] | *Søknad* [ ] |
+
+*Generelle opplysninger*
+
+1\. Navn og kvalifikasjoner på ansvarlig person for den innesluttede bruken:
+
+2\. Institusjons navn:
+
+3\. Adresse:
+
+|  |  |  |
+| --- | --- | --- |
+| Tlf.: | Faks: | E-postadresse: |
+
+4\. Laboratoriets/anleggets navn og adresse:
+
+|  |  |  |
+| --- | --- | --- |
+| Sendes det ny søknad for laboratoriet og anlegg? | Ja [ ] | Nei [ ] |
+
+Hvis ikke skal kopi av tidligere godkjenning av laboratorier og anlegg vedlegges.
+
+5\. Navn på ansvarlig person for laboratoriet/anlegget:
+
+6\. Laboratoriets/anleggets inneslutningsnivå:
+
+*Beskrivelse av virksomheten/prosjektet:*
+
+7\. Vitenskapelig- og trivialnavn på de genmodifiserte/ikke modifiserte organismene som inngår i bruken:
+
+8\. Inneslutningsnivå som trengs for virksomheten, som følge av forhåndsvurderingen av risiko foretatt etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 nedenfor
+
+9\. Antatt mengde/antall dyr som skal benyttes:
+
+10\. Beskrivelse av modifiseringen, herunder:
+
 1. det innsatte genmaterialets opprinnelse (donor), planlagte funksjon og genetiske stabilitet:
 2. vert/vektor system:
 3. den modifiserte organismens egenskap og funksjon:
+
+11\. Formålet med den innesluttede bruken, herunder det ventede resultat og planlagt varighet:
+
+12\. Særskilte tiltak mot utilsiktet utslipp/rømming av genmodifiserte organismer, herunder avfallshåndteringen (typer avfall, volum, metode for inaktivering av GMM, også i dyrene, endelig form og bestemmelsessted), som følge av forhåndsvurderingen foretatt etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 nedenfor:
+
+13\. Beskrivelse av planer for forebygging av uhell, beredskapsplaner/tiltak ved utilsiktet utslipp av genmodifiserte mikroorganismer, ved virksomheter i inneslutningsnivå 3 og 4:
 
 - særlige farer som skyldes anleggsstedet,
 - anvendte forebyggende tiltak, f.eks. sikkerhetsutstyr, alarmsystemer og inneslutningsmetoder,
 - prosedyrer og planer for kontroll av at inneslutningstiltakene fortsatt er effektive,
 - en beskrivelse av opplysningene som gis til arbeidstakerne.
+
+*14. Forhåndsvurdering ved kombinasjonsbruk*
 
 Ved forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5) skal følgende punkter spesifiseres særskilt i sammendrag/kopi av forhåndsvurderingen:Skadelige egenskaper ved den genmodifiserte mikroorganismens egenskaperMulighet for utskillelse av genmodifiserte mikroorganismer fra dyreneOm materialet fra dyrene kan innebære risiko for spredning av genmodifiserte mikroorganismerMulighet for horisontal genoverføring, f.eks. via virale vektorer og arthropoderRisiko for mennesker, dyr og planter ved spredning av genmodifiserte mikroorganismer ved utilsiktet utslipp.Dato:Underskrift:Vedlegg:Kopi av tidligere godkjenning av laboratorier og anlegg [ ]Ny søknad om godkjenning av laboratorier og anlegg [ ]Ved virksomhet i klasse 1 og 2, sammendrag av forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ]Ved virksomhet i klasse 3 og 4, kopi av hele forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/§5), jf. punkt 14 ovenfor [ ]Samfunnsmessige og etiske vurderinger etter § 11 a jf. også § 13 i forskriften [ ]Kopi av melding til Direktoratet for arbeidstilsynet om bruk av biologiske faktorer på arbeidsplassen i henhold til § 16 i forskrift om vern av arbeidstakere mot farer ved arbeid med biologiske faktorer [ ]
 
@@ -271,8 +930,12 @@ Ved forhåndsvurderingen av virksomheten etter [§ 5](forskrift/2001-12-21-1600/
 
 Dette vedlegg gir en generell beskrivelse av de elementer som det skal tas hensyn til og den fremgangsmåte som skal følges ved gjennomføringen av vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5). Vedlegget, særlig når det gjelder del B, utfylles med de veiledende merknader i vedlegg IV.
 
+*A. Vurderingselementer*
+
 1. Følgende elementer bør betraktes som potensielt skadelige virkninger:sykdom hos mennesker, herunder allergifremkallende eller toksiske virkninger,sykdom eller andre negative effekter på dyr, planter og andre levende organismer,skadelige virkninger som skyldes at det er umulig å behandle en sykdom eller gi effektiv profylakse,skadelige virkninger som skyldes etablering eller spredning i miljøet,skadelige virkninger som skyldes naturlig overføring av innsatt genetisk materiale til andre organismer.
 2. Vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5) bør være basert på følgende elementer:identifisering av alle potensielt skadelige virkninger, særlig dem som er forbundet med:mottakermikroorganismen,det genetiske materialet som er satt inn (som stammer fra donororganismen),vektoren,donormikroorganismen (så lenge donormikroorganismen brukes i virksomheten),den GMM som fremkommer,karakteristikkene ved virksomheten,omfanget av de potensielt skadelige virkningene,sannsynligheten for at de potensielt skadelige virkningene oppstår.
+
+*B. Fremgangsmåte*
 
 1. Det første trinnet i vurderingsprosessen bør være å kartlegge mottaker- og eventuelt donormikroorganismens skadelige egenskaper samt skadelige egenskaper forbundet med vektoren eller det innsatte materialet, herunder enhver endring i mottakerens eksisterende egenskaper.
 2. I alminnelighet er det bare GMM med følgende egenskaper som vil bli betraktet som hensiktsmessige å ta med i klasse 1 som definert i [§ 6](forskrift/2001-12-21-1600/§6):mottaker- eller foreldremikroorganismen vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter,1vektoren og geninnlegget er av en slik art at de ikke gir GMM en fenotype som sannsynligvis vil forårsake sykdom hos mennesker, dyr eller planter,1 eller som sannsynligvis vil ha skadelige virkninger for miljøet,GMM vil sannsynligvis ikke forårsake sykdom hos mennesker, dyr eller planter1 og vil sannsynligvis ikke ha skadelige virkninger for miljøet.
@@ -282,17 +945,35 @@ Dette vedlegg gir en generell beskrivelse av de elementer som det skal tas hensy
 6. Når analysen er utført som beskrevet ovenfor, vil dette til slutt føre til at virksomheten plasseres i en av klassene beskrevet i [§ 6](forskrift/2001-12-21-1600/§6).
 7. Den endelige klassifiseringen av den innesluttede bruken bør bekreftes ved en ny gjennomgåelse av den fullførte vurderingen nevnt i [§ 5](forskrift/2001-12-21-1600/§5).
 
+1 Dette vil gjelde bare for dyr og planter i det miljø som vil kunne bli eksponert.
+
 ## Vedlegg IV. Veiledende merknader om risikovurdering som omhandlet i vedlegg III
+
+*1. Innledning*
 
 De elementer som det skal legges vekt på ved risikovurderingen i henhold til nr. 1 og 2 i vedlegg III, innebærer at det skal tas hensyn til potensielt skadelige virkninger på menneskers og dyrs helse og miljøet. Potensielt skadelige virkninger defineres som virkninger som kan føre til sykdom, gjør profylakse eller behandling virkningsløs, fremmer etablering og/eller spredning i miljøet som gir skadelige virkninger på organismer eller naturlige bestander, eller skadelige virkninger som følge av genoverføring til andre organismer. Ved vurderingen skal risikoen for disse potensielt skadelige virkningene undersøkes for hver virksomhet og klassifiseres samtidig som det tas hensyn til virksomhetens art og omfang, for å fastslå hvilken type inneslutningstiltak som kreves til slutt. Risikoen som oppstår ved innesluttet bruk av genmodifiserte mikroorganismer (GMM) og ved konstruksjon av slike organismer, bestemmes ved å undersøke alvorlighetsgraden av de potensielt skadelige virkningene på menneskers helse og miljøet, og sannsynligheten for at disse virkningene inntreffer. Risikovurderingen skal ta hensyn til menneskers eller miljøets eksponering for GMM-er som følge av driften av, eller et mulig utilsiktet utslipp fra, et anlegg for innesluttet bruk. Klassifiseringsnivået som fastsettes gjennom risikovurderingen, avgjør hvilke inneslutningstiltak som gjelder for virksomhet som omfatter GMM-er.
 
+*2. Risikovurdering*
+
 En fullstendig risikovurdering består av følgende trinn:
+
+2.1.*Trinn 1*
 
 Identifisering av potensielt skadelige egenskaper (fare) ved GMM-en og en foreløpig klassifisering av den (gruppe 1-4) på grunnlag av alvorlighetsgraden av de potensielt skadelige virkningene, og vurdering av sannsynligheten for at det vil inntreffe skadelige virkninger ved eksponering (både mennesker og miljø), samtidig som det tas hensyn til arbeidets art og omfang, og til inneslutningstiltakene som gjelder for den foreløpige klassifiseringen.
 
+2.2.*Trinn 2*
+
 Fastsettelse av endelig klassifisering og endelige inneslutningstiltak som kreves for virksomheten. Ved å vurdere trinn 1 på nytt skal det bekreftes at den endelige klassifiseringen og de endelige inneslutningstiltakene er hensiktsmessige.
 
+3.*Trinn 1*
+
+3.1.*Identifisering av skadelige egenskaper (fare) ved GMM-en*
+
 Risikovurderingen omfatter identifisering av alle potensielt skadelige egenskaper ved GMM-en som følge av genmodifiseringen eller eventuelle endringer ved mottakerorganismens egenskaper. GMM-ens potensielt skadelige egenskaper må bestemmes ved å undersøke mottakerorganismen, donororganismen, det innsatte genmaterialets egenskaper og plassering samt eventuelle vektorer. Det er viktig å ta i betraktning at genmodifisering av en mikroorganisme kan påvirke dens evne til å skade menneskers helse og miljø. Genmodifisering kan føre til at evnen til å skade reduseres, øker eller forblir uendret.
+
+3.2*Aspekter som vurderes i den grad de er relevante:*
+
+3.2.1.*Mottakerorganismen*
 
 - arten av sykdomsfremkallende evne og virulens, smittsomhet, allergifremkallende evne, giftighet og vektorer for sykdomsoverføring,
 - arten av naturlig forekommende vektorer og tilfeldige medfølgende agenser som kan mobilisere det innsatte genmaterialet, og mobiliseringshyppighet,
@@ -305,6 +986,8 @@ Risikovurderingen omfatter identifisering av alle potensielt skadelige egenskape
 - samspill med og innvirkning på andre organismer i miljøet (herunder eventuelle konkurransemessige, sykdomsfremkallende eller symbiotiske egenskaper),
 - evne til å danne overlevelsesstrukturer (f.eks. sporer eller sklerotier).
 
+3.2.2.*Donororganismen (ved fusjonsforsøk eller hagl-(eng.: shotgun) forsøk der geninnlegget ikke er velkarakterisert)*
+
 - arten av sykdomsfremkallende evne og virulens, smittsomhet, giftighet og vektorer for sykdomsoverføring,
 - arten av naturlig forekommende vektorer,
 - sekvens,
@@ -313,23 +996,37 @@ Risikovurderingen omfatter identifisering av alle potensielt skadelige egenskape
 - vertsområde,
 - andre relevante fysiologiske egenskaper.
 
+3.2.3.*Geninnlegget (eng.: insertet)*
+
 - geninnleggets spesifikke identitet og funksjon (gener),
 - uttrykksnivå for det innsatte genmaterialet,
 - genmaterialets opprinnelse, donororganismen(e)s identitet og egenskaper der dette er relevant,
 - redegjørelse for tidligere genmodifisering, der dette er relevant,
 - det innsatte genmaterialets plassering (muligheten for aktivering/inaktivering av vertsgener som følge av innsettingen).
 
+3.2.4.*Vektoren*
+
 - vektorens art og kilde,
 - struktur i og mengde av vektor- og/eller donornukleinsyre som er igjen i den modifiserte mikroorganismens endelige oppbygning,
 - dersom den innsatte vektoren er til stede i den endelige GMM-en, mobiliseringshyppighet og/eller evne til å overføre genetisk materiale.
 
+3.2.5.*Den endelige GMM-en*
+
+3.2.5.1.
+
 Helsevurderingerforventede giftige eller allergifremkallende virkninger av GMM-en og/eller dens stoffskifteprodukter,sammenligning av den modifiserte mikroorganismens og mottaker- eller (eventuelt) foreldreorganismens sykdomsfremkallende evne,forventet koloniseringsevne,dersom mikroorganismen er sykdomsfremkallende for immunkompetente mennesker:fremkalte sykdommer og overføringsmekanismer, herunder spredningsmåte og virulens,infeksiøs dose,mulig endring av smittevei eller vevspesifisitet,mulighet for overlevelse utenfor menneskelig vert,biologisk stabilitet,antibiotikaresistensmønster,allergifremkallende evne,genotoksisitet,tilgang til egnet sykdomsbehandling og forebyggende tiltak.
 
+3.2.5.2.
+
 Miljøvurderingerøkosystemer der mikroorganismen utilsiktet kan slippes ut fra innesluttet bruk,den modifiserte mikroorganismens forventede overlevelsesevne, formering og spredning i de identifiserte økosystemene,forventet resultat av samspill mellom den modifiserte mikroorganismen og organismer eller mikroorganismer som kan bli eksponert ved utilsiktet utslipp i miljøet,kjente eller antatte virkninger på planter og dyr, f.eks. sykdomsfremkallende evne, giftighet, allergifremkallende evne, evne til å fungere som vektor for en sykdomsfremkallende organisme, endrede antibiotikaresistensmønstre, endret tropisme eller vertsspesifisitet, kolonisering,kjent eller antatt deltaking i bio-geokjemiske prosesser.
+
+3.3.*Foreløpig klassifisering av GMM-en*
 
 Av nr. 3-5 i vedlegg III fremgår det at første trinn i risikovurderingen av en GMM går ut på å identifisere de potensielt skadelige virkningene av GMM-en, slik at det kan foretas en foreløpig klassifisering av den. Dette oppnås ved å identifisere farene som kan være forbundet med mottakerorganisme, donororganisme, vektor og geninnlegg. Ved denne vurderingen kan det tas hensyn til de alminnelige egenskapene for gruppe 1, fastsatt i nr. 4 i vedlegg III, samt hensiktsmessige ajourførte nasjonale og internasjonale klassifiseringsordninger. Tilsvarende inneslutningstiltak og andre vernetiltak tjener som referansetiltak når det skal avgjøres om det kreves strengere inneslutnings- og vernetiltak for å kontrollere de påviste skadelige virkningene.
 
 Risikoen for skade som følge av skadelige egenskaper ved GMM-en, vurderes ved å undersøke alvorlighetsgraden av skaden og eventuelle biologiske egenskaper (f.eks. passiviserende mutasjoner) som begrenser sannsynligheten for at det skal inntreffe skade. Alvorlighetsgraden av eventuelle skadelige virkninger skal vurderes uavhengig av sannsynligheten for at skaden faktisk inntreffer. Alvorlighetsgraden av en eventuell skade vurderes ved å undersøke følgene av den, og ikke sannsynligheten for at skaden vil inntreffe i et gitt tilfelle. For en sykdomsfremkallende GMM skal det f.eks. vurderes hvor alvorlig sykdommen ville være dersom en mottakelig art ble smittet. Den foreløpige klassifiseringen av GMM-en omfatter en vurdering av alvorlighetsgraden. Klassifiseringsordninger, som f.eks. i direktiv [90/679/EØF](eu/31990l0679), tar hensyn til alvorlighetsgraden. Mange av disse ordningene er imidlertid basert bare på helsevurderinger eller på miljøhensyn. Det er viktig å sikre at det foretas en helhetlig vurdering av alvorlighetsgraden av GMM-ens skadelige virkninger på menneskers helse og miljøet.
+
+3.4.*Vurdering av sannsynligheten for at skadelige virkninger inntreffer*
 
 De(n) viktigste faktoren(e) som påvirker sannsynligheten for at en skadelig virkning inntreffer, er nivået og arten av menneskers eller miljøets eksponering for en gitt GMM. I de fleste tilfeller er eksponeringen av avgjørende betydning for risikovurderingen, ettersom den ofte avgjør hvorvidt skadelige virkninger kan inntreffe. Sannsynligheten for at mennesker eller miljøet eksponeres for en GMM, avhenger av hvilken virksomhet som utøves (f.eks. virksomhetens omfang) og inneslutningstiltakene som er truffet som følge av den foreløpige klassifiseringen nevnt i nr. 5 og 6.
 
@@ -339,11 +1036,15 @@ Kjennetegnene ved virksomheten som kan påvirke risikovurderingen og derfor bør
 
 Ved vurderingen skal det særlig tas hensyn til hvordan avfall og avløpsvann skal disponeres. Der det er hensiktsmessig skal de nødvendige sikkerhetstiltak treffes for å beskytte menneskers helse og miljøet.
 
+3.4.1.*Arten av den planlagte virksomheten*
+
 Risikonivået for en GMM og anvendelsen av kontrolltiltak for å redusere denne risikoen til et passende nivå, påvirkes av den planlagte virksomhetens art, ettersom denne vil påvirke menneskers og miljøets eksponering og dermed muligheten for at det inntreffer skadelige virkninger.
 
 Virksomhetens art er også avgjørende for hvilken tabell som inneholder de mest hensiktsmessige inneslutnings- og kontrolltiltakene som skal vurderes.
 
 I praksis er det usannsynlig at en detaljert risikovurdering vil være nødvendig for hver enkelt fremgangsmåte ved arbeid på laboratorienivå der virkningene av vanlige fremgangsmåter på eksponeringen er velkjente, med mindre det brukes en svært farlig organisme. En mer detaljert vurdering kan imidlertid være nødvendig i forbindelse med fremgangsmåter som ikke er rutinemessige eller fremgangsmåter som kan ha betydelig innvirkning på risikonivået, f.eks. fremgangsmåter der det dannes aerosoler.
+
+3.4.2.*Konsentrasjon og omfang*
 
 Kulturer med høy konsentrasjon kan medføre fare for eksponering for høye konsentrasjoner av GMM-en, særlig i forbindelse med operasjoner lenger frem i prosessen. Derfor må det tas hensyn til konsentrasjonens betydning for sannsynligheten for at det inntreffer en skadelig virkning.
 
@@ -352,6 +1053,8 @@ Omfang er en annen faktor som det må tas hensyn til ved risikovurderingen. Omfa
 Selv om et stort omfang ikke nødvendigvis innebærer høy risiko, kan økt omfang medføre større sannsynlighet for eksponering både med hensyn til antallet mennesker og hvor stor del av miljøet som eksponeres ved svikt i inneslutningen.
 
 Omfanget påvirker også hvilken tabell som inneholder de mest hensiktsmessige inneslutnings- og kontrolltiltakene.
+
+3.4.3.*Dyrkingsforhold*
 
 Ved mange operasjoner med innesluttet bruk er dyrkingen underlagt strenge inneslutningsvilkår for å beskytte det pågående arbeidet, men arten og utformingen av dyrkingstanker eller annet dyrkingsutstyr vil også påvirke risikonivået for menneskers helse og miljøet. Eksponering for, og dermed risikoen ved, en GMM kan minskes betraktelig ved hjelp av godt forseglede og teknologisk avanserte gjæringstanker. Det er viktig å undersøke hvor pålitelig dette utstyret er og muligheten for at utstyret kan svikte dersom en slik svikt kan medføre høye eksponeringsnivåer for skadelige GMM-er. Dersom slike utslipp med rimelighet kan forutses, kan det være behov for ytterligere inneslutningstiltak. Standardiserte arbeidsrutiner for personer som arbeider med dyrkede GMM-er, som f.eks. sentrifugering eller behandling i sonikator, har stor betydning for de anvendte inneslutningstiltakenes effektivitet.
 
@@ -363,15 +1066,29 @@ Flere aspekter er viktige når man tar hensyn til egenskapene ved miljøet, som 
 
 Følgende faktorer bør om nødvendig tas i betraktning ved vurdering av hvordan egenskapene ved resipientmiljøet påvirker sannsynligheten for at den potensielt skadelige virkningen vil inntreffe, og dermed også risikonivået og valg av kontrolltiltak.
 
+3.4.3.1.*Det miljø som vil kunne bli eksponert*
+
 Det miljø som vil kunne bli eksponert, begrenser seg i de fleste tilfeller til arbeidsplassen og området i umiddelbar nærhet av anlegget, men avhengig av de særlige egenskapene ved den innesluttede bruken og anlegget, kan det være nødvendig å ta hensyn til miljøet i videre betydning. Omfanget av miljøeksponeringen kan avhenge av virksomhetens omfang og art, men det skal også tas hensyn til alle mulige former for overføring til et videre miljø. Det kan dreie seg om fysiske overføringsmåter (som kloakker, vassdrag, avfallshåndtering, luftbevegelse og biologiske vektorer (som smittede dyr og insekter som forflytter seg)).
+
+3.4.3.2.*Forekomst av mottakelige arter*
 
 Sannsynligheten for at skadelige virkninger inntreffer er avhengig av om det finnes mottakelige arter, herunder mennesker, dyr og planter, i det miljø som kan bli eksponert.
 
+3.4.3.3.*Kan miljøet bidra til at GMM-en overlever?*
+
 Spørsmålet om i hvilken utstrekning GMM-en kan overleve og etablere seg i miljøet er et viktig aspekt i forbindelse med risikovurderingen. Sannsynligheten for at det inntreffer skadelige virkninger reduseres betraktelig dersom en GMM ikke kan overleve i det miljø den vil kunne slippe ut i.
+
+3.4.3.4.*Virkninger på det fysiske miljø*
 
 I tillegg til direkte skadelige virkninger av en GMM, skal det tas hensyn til indirekte skadelige virkninger som følge av betydelige endringer i de fysisk-kjemiske egenskaper og/eller den økologiske likevekt i miljødelene jord og vann.
 
+*4. Trinn 2*
+
+4.1.*Fastsettelse av endelig klassifisering og inneslutningstiltak*
+
 Når alle potensielt skadelige virkninger er gjennomgått og alvorlighetsgraden og sannsynligheten for at de inntreffer er fastslått, samtidig som det er tatt hensyn til de inneslutnings- og kontrolltiltak som foreskrives gjennom den foreløpige klassifiseringen av mottakeren, kan den endelige klassifiseringen og de endelige inneslutningstiltakene for GMM-en fastsettes. Ved vurderingen av endelig klassifisering og endelige inneslutningstiltak skal den foreløpige klassifiseringen vurderes på nytt for å se om den var riktig ut fra den virksomhet som skal utføres og arten av de planlagte operasjonene. En sammenligning mellom den foreløpige klassifiseringen og de tilhørende inneslutningstiltak og den endelige klassifiseringen og de tilhørende inneslutningstiltak, kan gi følgende tre resultater:det finnes skadelige virkninger som det ikke har blitt tatt tilstrekkelig hensyn til ved den foreløpige klassifiseringen, og den foreløpige inneslutningen i henhold til fremgangsmåte 1 er ikke tilstrekkelig for disse. Det er derfor nødvendig med ytterligere inneslutningstiltak, og eventuelt en revisjon av klassifiseringen av virksomheten,den foreløpige klassifiseringen var riktig og de tilhørende inneslutningstiltakene er tilstrekkelige til å forebygge skader på menneskers helse og miljøet, eller til å begrense dem til et minimum,den foreløpige klassifiseringen er strengere enn nødvendig for den aktuelle virksomheten, og det bør derfor velges et lavere klassifiseringsnivå med tilhørende inneslutningstiltak.
+
+4.2.*Bekreftelse av at de endelige inneslutningstiltakene er tilstrekkelige*
 
 Når den endelige klassifiseringen og de endelige inneslutningstiltakene er fastsatt, bør eksponeringsnivået for mennesker og miljøet vurderes på nytt (trinn 1). På den måten skal det bekreftes at sannsynligheten for at det inntreffer skadelige virkninger er så lav at den er akseptabel, ut fra arbeidets art og omfang samt de foreslåtte inneslutningstiltakene. Når dette er gjort, er risikovurderingen fullført.
 

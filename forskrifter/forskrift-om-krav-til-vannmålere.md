@@ -72,13 +72,28 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljøet som vannmåle
 
 ### § 7. Klimatisk miljø
 
-Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt vannmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.*Tabell 1*øvre temperaturgrense30 °C40 °C55 °C70 °Cnedre temperaturgrense5 °C–10 °C–25 °C–40 °C
+Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt vannmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
+
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| nedre temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
 
 > Endret ved forskrift [16 nov 2022 nr. 2111](forskrift/2022-11-16-2111) (i kraft 1 jan 2023).
 
 ### § 8. Mekanisk miljø
 
-Mekanisk miljø klassifiseres i følgende klasser:*Tabell 2*M1Denne klassen omfatter vannmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv.M2Denne klassen omfatter vannmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv.M3Denne klassen omfatter vannmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv.
+Mekanisk miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter vannmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter vannmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter vannmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:vibrasjonmekanisk sjokk.
 
@@ -86,7 +101,15 @@ Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med meka
 
 ### § 9. Elektromagnetisk miljø
 
-Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.*Tabell 3*E1Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.E2Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.E3Denne klassen omfatter vannmålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift.
+Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter vannmålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningspenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
 

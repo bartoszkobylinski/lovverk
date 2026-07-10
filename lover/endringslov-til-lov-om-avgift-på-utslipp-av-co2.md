@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+[Lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen](lov/1990-12-21-72) oppheves.
+
 ## II
 
 Loven trer i kraft fra den tid Kongen bestemmer.

@@ -22,7 +22,11 @@ eu_basis: []
 
 # Forskrift om overgangsordning for autorisasjon av hjelpepleiere og bioingeniører
 
+I. *(Opphevet)*
+
 > Opphevet ved forskrift [11 juli 2024 nr. 1764](forskrift/2024-07-11-1764).
+
+II. *Autorisasjon som bioingeniør*
 
 Offentlig godkjenning som fysiokjemiker eller laboratorieingeniør gjelder uten videre som autorisasjon som bioingeniør.
 

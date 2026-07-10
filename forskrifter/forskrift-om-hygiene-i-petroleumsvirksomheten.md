@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om hygieniske forhold m.v. for innretninger i petroleumsvirksomheten.
 
+---
+
 ## Kap. III. Drikkevann.
 
 ### § 12. Alminnelige krav til drikkevann

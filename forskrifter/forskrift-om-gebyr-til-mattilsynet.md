@@ -284,18 +284,171 @@ Samtidig oppheves følgende forskrifter:[forskrift 27. desember 2005 nr. 1726 om
 
 ### § 8-5. Endringer i andre forskrifter
 
+1\. I [forskrift 22. desember 2008 nr. 1624 om særlige hygieneregler for næringsmidler av animalsk opprinnelse (animaliehygieneforskriften)](forskrift/2008-12-22-1624), gjøre følgende endring: – – –
+
+2\. I [forskrift 11. juni 2022 nr. 1171 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)](forskrift/2022-06-11-1171), gjøres følgende endringer: – – –
+
+3\. I [forskrift 9. mars 2020 nr. 717 om offentlig kontroll – importkontroll av ikke animalske produkter – forordning (EU) 2019/1793](forskrift/2020-03-09-717), gjøres følgende endringer: – – –
+
+4\. I [forskrift 12. januar 2012 nr. 35 om særskilte beskyttelsestiltak ved import av ris og risprodukter fra Kina](forskrift/2012-01-12-35), gjøres følgende endringer: – – –
+
+5\. I [forskrift 24. august 2020 nr. 1675 om særlige importbetingelser for næringsmidler og fôrvarer som følge av ulykken ved atomkraftverket i Tsjernobyl](forskrift/2020-08-24-1675), gjøres følgende endringer: – – –
+
+6\. I [forskrift 26. februar 2010 nr. 247 om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler](forskrift/2010-02-26-247), gjøres følgende endring: – – –
+
 ## Vedlegg 1
 
 ### Del A
 
+| *Behandling av søknad om tillatelse, godkjenning mv. av transportenheter, fartøy, anlegg, virksomheter og områder:* | *Gebyr* |
+| --- | --- |
+| Godkjenning av virksomhet som produserer treemballasje eller leverer trevirke til slik produksjon for bruk av ISPM 15-merket | 1 850 |
+| Godkjenning av virksomhet som varmebehandler treemballasje eller trevirke for bruk av ISPM 15-merket | 7 400 |
+| Godkjenning av virksomhet som varmebehandler trevirke med ovnstørking for bruk av Mattilsynets KD 56/30-merke | 14 800 |
+| Utpeking av grensekontrollstasjon | 462 500 |
+| Endring av grensekontrollstasjon | 111 000 |
+| Utpeking av kontrollsenter | 111 000 |
+| Endring av kontrollsenter | 55 500 |
+| Utpeking av kontrollsted for ikke-animalske produkter | 14 800 |
+| Endring av kontrollsted for ikke-animalske produkter | 7 400 |
+| Utpeking av anlegg for videretransport av forsendelser | 4 625 |
+| Tillatelse til import av prøver til forskning og diagnostikk, og vareprøver og utstillingsgjenstander – enkeltsøknad | 1 850 |
+| Tillatelse til import av prøver til forskning og diagnostikk, og vareprøver og utstillingsgjenstander – flerårig avtale | 3 700 |
+| Godkjenning av produksjon av fôr | 7 400 |
+| Godkjenning av omsetning av fôr | 3 700 |
+| Godkjenning av produksjon av medisinfôr og mellomprodukt | 7 400 |
+| Godkjenning av omsetning, lagring og transport av medisinfôr og mellomprodukt | 3 700 |
+| Godkjenning av anlegg som håndterer animalske biprodukter | 7 400 |
+| Godkjenning av transportenhet – levende akvakulturdyr | 4 625 |
+| Godkjenning av fartøy som skal fiske og føre fangsten levende | 4 625 |
+| Godkjenning av slakteri/tilvirkningsanlegg for akvatiske dyr fra akvakulturanlegg | 7 400 |
+| Godkjenning av fangstfartøy – sjøpattedyr | 4 625 |
+| Godkjenning av virksomhet som mottar og/eller produserer næringsmidler fra sjøpattedyr | 4 625 |
+| Godkjenning av karanteneanlegg, isolasjonssted mv. | 1 850 |
+| Godkjenning av gjenutleggingsområder for levende muslinger (klassifisering) | 4 625 |
+| Godkjenning av produksjonsområder for levende muslinger (klassifisering) | 4 625 |
+| Godkjenning av anlegg for avlsmateriale | 7 400 |
+| Anerkjenning av avlslag og avlsvirksomheter | 7 400 |
+| Tillatelse til hestesenter, omsetning av hester, treningsstall og hestepensjonat | 3 700 |
+| Tillatelse til å innføre/importere levende dyr | 925 |
+| Godkjenning og sertifisering av rugerier og anlegg som holder landdyr | 7 400 |
+| Godkjenning av dyreforsøk | 7 400 |
+| Godkjenning av endring av dyreforsøk | 1 850 |
+| Godkjenning av pilotforsøk (dyreforsøk) | 4 625 |
+| Godkjenning av oppdrettere, formidlere, brukere, lokaler i forbindelse med dyreforsøk | 7 400 |
+| Godkjenning av virksomheter og fartøy som håndterer animalske næringsmidler | 4 625 |
+| Betinget godkjenning av virksomheter og fartøy som håndterer animalske næringsmidler | 7 400 |
+| Godkjenning av ATP-materiell | 1 850 |
+| Godkjenning av naturlig mineralvann og kildevann utvunnet i Norge | 14 800 |
+| Plangodkjenning av vannforsyningssystem, til og med 10 000 m3 | 9 250 |
+| Plangodkjenning av vannforsyningssystem, fra 10 001 m3 til og med 50 000 m3 | 18 500 |
+| Plangodkjenning av vannforsyningssystem, fra 50 001 m3 til og med 500 000 m3 | 27 750 |
+| Plangodkjenning av vannforsyningssystem, fra 500 001 m3 | 37 000 |
+
 ### Del B
+
+| *Behandling av melding, søknad om godkjenning mv. av produkter* | *Gebyr* |
+| --- | --- |
+| Godkjenning av vannbehandlingsprodukt | 7 400 |
+| Behandling av melding om tilsetning av vitaminer og mineraler til næringsmidler, unntatt kosttilskudd | 14 800 |
+| Behandling av melding og søknad om tillatelse til tilsetning av «andre stoffer» til næringsmidler, herunder kosttilskudd | 14 800 |
+| Godkjenning av avledet, genmodifisert mat og fôr som ikke er godkjenningspliktig etter [genteknologiloven](lov/1993-04-02-38) | 222 000 |
+| Godkjenning av plantesorter uten verdiprøving | 1 850 |
+| Prøving og godkjenning av plantesorter, per år | 17 575 |
+| Tillatelse til bruk av råvare etter [gjødselvareforskriften](forskrift/2025-01-29-116) | 14 800 |
+| Godkjenning for bruk av varebetegnelser for gjødselvarer etter [gjødselvareforskriften](forskrift/2025-01-29-116) | 4 625 |
 
 ### Del C
 
+| *Behandling av sertifikater/attester/erklæringer mv:* | *Gebyr* |
+| --- | --- |
+| Utstedelse av helsesertifikat | 420 |
+| Utstedelse av erklæringer ved eksport | 530 |
+| Utstedelse av erstatningssertifikat | 790 |
+| Utstedelse av bekreftet kopi av sertifikater og erklæringer | 330 |
+| Tilleggsgebyr for sertifikater og erklæringer som utstedes utenfor ordinær åpningstid | 420 |
+| Tilleggsgebyr for sertifikater og erklæringer som krever inspeksjon | 925 |
+| Utstedelse av bransjestandardattest/inspeksjonsattest | 1 850 |
+| Attestert kopi av felles veterinærdokument til bruk ved import (CHED1) | 520 |
+| Sertifisering av settepoteter | 1 850 |
+| Sertifisering av såvarer | 925 |
+| Undersøkelse utført i forbindelse med flytting av honningbier i Norge | 925 |
+| Utstedelse av verifikasjon for beskyttede betegnelser | 1 850 |
+| Erklæring om sykdomsfri status – akvakultur | 74 000 |
+
+1 Med CHED menes det felles innførselsdokumentet om helse til bruk ved import, som fastsatt i [forskrift 9. mars 2020 nr. 715 om offentlig kontroll – IMSOC – forordning (EU) 2019/1715](forskrift/2020-03-09-715).
+
 ### Del D
+
+| *Andre særskilte ytelser:* | *Gebyr* |
+| --- | --- |
+| Innmelding i kontrollordningen og utstedelse av økologisertifikat for økologisk produksjon, foredling, omsetning eller import2 | 1 850 |
+| Avvikling av eksamen/utstedelse av autorisasjonsbevis for kjøp og bruk av plantevernmidler3<br>Kurs i regi av statsforvalteren/kommune | 252 |
+| Avvikling av eksamen/utstedelse av tilleggsautorisasjon for kjøp og bruk av gnagermidler3<br>Kurs i regi av statsforvalteren/kommune | 252 |
+| Utstedelse av autorisasjon for gassingsprodukter | 925 |
+| Gjennomføring av nettbasert autorisasjonskurs, nettbasert eksamen og utstedelse av autorisasjonsbevis for kjøp og bruk av plantevernmidler | 925 |
+| Brukstillatelse for vaksiner | 1 850 |
+| DUS-test gjennomført i utlandet | 925 |
+| Kopi av DUS-test bestilt fra utenlandsk prøveinstitusjon4 | 3 800 |
+| Behandling av søknad om grenseverdier for restmengder av plantevernmidler i næringsmidler og fôrvarer | 3 700 |
+
+2 Ytelsen utføres av Debio etter fullmakt fra Mattilsynet. Debio krever også inn gebyret.
+
+3 Gebyret kreves inn av statsforvalteren.
+
+4 Gebyret er fastsatt iht. internasjonale avtaler.
 
 ## Vedlegg 2
 
 ### Del A: Aktive stoffer, beskyttende midler og synergister
 
+| *Tjeneste* | *Beskrivelse* | *Gebyr* |
+| --- | --- | --- |
+| Godkjenning av aktivt stoff, beskyttende middel eller synergist | Søknad er sendt inn av flere søkere som samarbeider om nødvendig dokumentasjon | 8 625 400 |
+| Søknad er sendt inn av én søker | 5 750 270 |  |
+| Søknad om endring i godkjenning | 255 570 |  |
+| Medrapportør aktivt stoff, beskyttende middel eller synergist<br><br>(Maksimale satser, må avregnes ift. arbeidsfordeling mellom rapportør og medrapportør) | Søknad er sendt inn av flere søkere som samarbeider om nødvendig dokumentasjon | 4 312 695 |
+| Søknad er sendt inn av én søker | 2 875 135 |  |
+| Medrapportering som påbegynnes etter at rapporterende lands vurdering er oversendt EFSA | 4 422 245 |  |
+
 ### Del B: Preparater
+
+| *Tjeneste* | *Beskrivelse* | *Gebyr* | *Redusert gebyr [§ 2-2](forskrift/2026-04-27-745/§2-2) bokstav* |  |
+| --- | --- | --- | --- | --- |
+| *a.* | *b.* |  |  |  |
+| Godkjenning av preparater<br>(Førstegangs­vurderinger og revurderinger) | Norge er saksbehandlende land i sonen | 498 345 |  |  |
+| Tillegg for flere aktive stoffer | 63 895 |  |  |  |
+| Tillegg for ekvivalensbedømming | 15 335 |  |  |  |
+| Tillegg for preparat som inneholder GM-mikroorganismer | 76 675 |  |  |  |
+|  | Norge er berørt land i sonen – saken behandles av annet land<br>(Nasjonal godkjenning) | 230 005 |  |  |
+| Tillegg for preparat som inneholder GM-mikroorganismer | 76 675 |  |  |  |
+|  | Norge er saksbehandlende land for preparat som vurderes for hele EØS-området (preparater for bruk i veksthus, beisemiddel m.m.) | 562 250 |  |  |
+| Tillegg for flere aktive stoffer | 63 895 |  |  |  |
+| Tillegg for ekvivalensbedømming | 15 335 |  |  |  |
+|  | Norge er saksbehandlende land for lavrisikopreparat | 74 110 |  |  |
+| Tillegg for flere aktive stoffer | 63 895 |  |  |  |
+| Tillegg for ekvivalensbedømming | 15 335 |  |  |  |
+|  | Nasjonal godkjenning av hjelpestoff (adjuvant) | 74 110 |  |  |
+|  | Nasjonal godkjenning av lavrisikopreparat (Norge er berørt land) | 10 855 |  |  |
+|  | Norge er saksbehandlende land når dyrkingsareal er under 30 000 dekar i sonen | 74 110 |  |  |
+|  | Nasjonal godkjenning når dyrkingsareal er under 30 000 dekar i sonen (Norge er berørt land) | 10 855 |  |  |
+|  | Gjensidig godkjenning – preparatet er godkjent i samme sone og aktivt stoff er tidligere godkjent i Norge | 230 005 | 46 000 | 10 215 |
+|  | Gjensidig godkjenning – preparatet er godkjent i annen sone og aktivt stoff er tidligere godkjent i Norge | 255 570 | 51 115 | 10 215 |
+|  | Gjensidig godkjenning – preparatet er kun vurdert etter direktiv [91/414/EØF](eu/31991l0414) og aktivt stoff er tidligere godkjent i Norge | 255 570 | 51 115 | 10 215 |
+|  | Gjensidig godkjenning – tilleggsgebyr når aktivt stoff ikke tidligere er godkjent i Norge | 63 895 |  |  |
+|  | Gjensidig godkjenning – lavrisikopreparat | 10 855 |  |  |
+|  | Gjensidig godkjenning – preparat til små arealer (mindre enn 10 000 dekar dyrkingsareal i Norge) | 10 855 |  |  |
+| Endring av preparatgodkjenning | Norge er saksbehandlende land – endringen dekkes ikke av tidligere risikovurdering | 217 230 | 43 445 | 10 215 |
+|  | Nasjonal godkjenning (Norge er berørt land i sonen – endringen gjøres etter saksbehandlende lands konklusjon) – endringen dekkes ikke av tidligere risikovurdering | 140 565 | 28 115 | 10 215 |
+|  | Endringen dekkes av tidligere risikovurdering og medfører merarbeid for Norge | 115 005 | 23 000 | 10 215 |
+|  | Endringer for lavrisikopreparat som medfører merarbeid for Norge | 10 855 |  |  |
+|  | Endringer for preparat til dyrkingsareal under 30 000 dekar i sonen som medfører merarbeid for Norge | 10 855 |  |  |
+|  | Endring av tilvirkningsprosess eller plass o.l. (ekvivalensbedømming) som medfører merarbeid for Norge. | 25 560 |  |  |
+|  | Endring av preparatsammensetning som medfører merarbeid for Norge | 25 560 |  |  |
+|  | Andre endringer av administrativ art (f.eks. produktnavn) som medfører merarbeid for Norge | 10 215 |  |  |
+| Dispensasjoner | Nødssituasjon som gjelder plantehelse | 2 550 |  |  |
+| Forskning og utvikling | 2 550 |  |  |  |
+| Godkjenning av parallellhandel | Preparatet er godkjent i et annet land i EØS-området og er identisk med et som alt er på markedet i Norge | 25 560 |  |  |
+| Utvidet preparatgodkjenning | Utvidelse av allerede godkjent preparat til bruk på vekst som dyrkes på lite areal eller til bruk ved et eksepsjonelt behov i vekst som dyrkes i større omfang. | 10 855 |  |  |
+| Endring av pågående søknad | Tillegg for endring av en pågående søknad, når endringen krever ny vurdering av de ensartede prinsippene (f.eks. bruksutvidelse, endret dose eller påføringsmetode). | 63 895 |  |  |
+| Godkjenning av makroorganisme | Nasjonal godkjenning etter nasjonale regler | 7 100 |  |  |

@@ -36,9 +36,15 @@ Villsau frå Norskekysten PO, Villsaulaget vest og Norsk Villsaulag.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
+*1. Produktskildring*
+
 Villsau frå Norskekysten/Villsau fra Norskekysten er kjøtt av sau av rasen Gammalnorsk sau. Nemninga omfattar ferske eller frosne heile skrottar eller stykkingsdelar. Kjøttet skal ha djup raudleg farge og god marmorering.
 
+*2. Geografisk område*
+
 Geografisk område for produksjon av Villsau frå Norskekysten/Villsau fra Norskekysten er avgrensa til område med kystlynghei på norskekysten.
+
+*3. Produksjonsmetode*
 
 Drifta hjå den einskilde produsenten skal vere i samsvar med dei til ein kvar tid gjeldande føresegner om dyrevelferd.
 
@@ -51,6 +57,8 @@ Dyr på beite skal ha tilsyn kvar veke. I utsette periodar, til dømes under lam
 Det skal sikrast at dyra finn le i vinterhalvåret, anten naturleg i terrenget eller i tilgjengelege bygningar eller leskur. Dyra skal ha beskyttande ullfell om vinteren. For innsamling av dyr skal det finnast leiegjerde og skiljeanlegg. Dyra skal samlast minimum vår og haust for kontroll, m.a. merking, napping og klipping av ull og nødvendig parasittbehandling.
 
 Godkjend slaktevekt for lam skal vere mellom 8 og 16 kg, og på vaksne dyr mellom 9 og 16 kg.
+
+*4. Merking av produktet*
 
 Villsau frå Norskekysten/Villsau fra Norskekysten kan merkjast med figurmerket for beskytta geografisk nemning.
 

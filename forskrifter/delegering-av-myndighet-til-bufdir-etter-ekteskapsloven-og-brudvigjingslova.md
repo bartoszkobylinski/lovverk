@@ -26,6 +26,8 @@ eu_basis: []
 
 Barne-, likestillings- og inkluderingsdepartementet gjør følgende delegeringsbeslutning:
 
+Departementets myndighet til å behandle klager på statsforvalterens vedtak etter [lov 4. juli 1991 nr. 47](lov/1991-07-04-47) om ekteskap (ekteskapsloven) [§ 16](lov/1991-07-04-47/§16) andre ledd og [§ 18a](lov/1991-07-04-47/§18a) andre ledd og [lov 30. juni 1955 nr. 20](lov/1955-06-30-20) om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg (brudvigjingslova) [§ 11](lov/1955-06-30-20/§11) tredje ledd, delegeres til Barne-, ungdoms- og familiedirektoratet.
+
 > Endret ved forskrift [26 jan 2022 nr. 130](forskrift/2022-01-26-130).
 
 ## II

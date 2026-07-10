@@ -56,6 +56,8 @@ Det kan likevel gjøres unntak fra første avsnitt dersom krav til statsborgersk
 
 > Endret ved avtale 29 sept 1995 nr. 1 (ikr. 2 jan 1996).
 
+1 Jf. [EØS-avtalen art. 4](lov/1992-11-27-109/eøsl/a4).
+
 ### Art 3
 
 Avtalepartene skal søke å lette adgangen for statsborger i et nordisk land til å oppnå statsborgerskap i et annet nordisk land.
@@ -97,6 +99,8 @@ Hver avtalepart bør opprettholde og utvide mulighetene for studerende hjemmehø
 Avtalepartene bør samordne slik offentlig anordnet utdannelse som tar sikte på å gi rett til særskilt yrkesutøvelse.
 
 Denne utdannelse bør så vidt mulig gi samme rett til yrkesutøvelse i alle nordiske land. Det kan likevel stilles krav om slik tilleggsutdannelse som nasjonale forhold måtte tilsi.1
+
+1 Sml. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1 (direktiv [2005/36/EF](eu/32005l0036)).
 
 ### Art 11
 
@@ -510,6 +514,8 @@ Denne avtale skal ratifiseres, og ratifikasjonsdokumentene skal snarest mulig de
 
 > Tidligere art 39.
 
+1 Avtalen trådte i kraft for alle partene 1 juli 1962.
+
 ### Art 70
 
 Ønsker noen av avtalepartene å oppsi avtalen, skal skriftlig meddelelse om dette tilstilles den finske regjering, som straks skal underrette de øvrige avtalepartene herom og om hvilken dag meddelelsen ble mottatt. Oppsigelsen gjelder bare for det land som har foretatt den, og blir gyldig fra og med første dag i den måned som begynner seks måneder etter det tidspunkt den finske regjering mottok meddelelse om oppsigelsen.
@@ -517,3 +523,6 @@ Denne avtale skal ratifiseres, og ratifikasjonsdokumentene skal snarest mulig de
 Overenskomsten skal deponeres i det finske utenriksministerium, og bekreftede avskrifter skal av det finske utenriksministerium tilstilles hver enkelt avtalepart.
 
 > Tidligere art 40.
+
+1 Til bekreftelse av dette har undertegnede befullmektigede representanter undertegnet denne avtale.
+Utferdiget i Helsingfors i ett eksemplar på dansk, finsk, islandsk, norsk og svensk, som alle har lik gyldighet, den tjuetredje mars nittenhundre og sekstito.

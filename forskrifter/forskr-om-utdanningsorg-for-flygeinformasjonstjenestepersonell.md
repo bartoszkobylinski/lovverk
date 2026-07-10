@@ -146,6 +146,22 @@ Utdanningsorganisasjoner skal ha et program for testing av språkferdigheter.
 
 Programmet skal inngå i skolehåndboken og være utviklet for å teste språkferdighetene etter tabell 1 for bedømmelse av språkferdigheter.
 
+*Tabell 1*
+
+| *Skala for bedømmelse av språkferdigheter: ekspertnivå, utvidet nivå og operativt nivå* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Nivå* | *Uttale* | *Struktur* | *Ordforråd* | *Flyt* | *Forståelse* | *Samhandling* |
+|  | Benytter en dialekt eller aksent som er forståelig innenfor luftfartsmiljøet | Aktuelle grammatiske strukturer og setningsmønstre bestemmes av språkfunksjoner som er tilpasset oppgaven. |  |  |  |  |
+| *Ekspert 6* | Selv om uttale, trykk, rytme og intonasjon eventuelt kan være påvirket av morsmålet eller regionale variasjoner, hemmer dette nesten aldri forståelsen. | Behersker konsekvent både grunnleggende og komplekse grammatiske strukturer og setningsmønstre. | Ordforråd og presisjon er tilstrekkelig til å kommunisere effektivt om en rekke kjente og ukjente emner. Vokabularet er idiomatisk, nyansert og tilpasset kommunikasjonsnivået. | Kan produsere sammenhengende tale over tid med en naturlig og uanstrengt flyt. Varierer talen som et stilistisk virkemiddel, f.eks. for å understreke et poeng. Bruker hensiktsmessige setningsmarkører og bindeord på en spontan måte. | Forståelsen er konsekvent nøyaktig i nesten alle sammenhenger og omfatter forståelse av lingvistiske og kulturelle finesser. | Samhandler lett i nesten alle situasjoner. Er følsom overfor verbale og ikke-verbale uttrykk og reagerer korrekt på disse. |
+| *Utvidet 5* | Selv om uttale, trykk, rytme og intonasjon er påvirket av morsmålet eller regionale variasjoner, hemmer dette sjelden forståelsen. | Behersker konsekvent grunnleggende grammatiske strukturer og setningsmønstre. Forsøk på bruk av komplekse strukturer medfører av og til feil som går ut over meningsinnholdet. | Ordforråd og presisjon er tilstrekkelig til å kommunisere effektivt om alminnelige, konkrete og arbeidsrelaterte emner. Omskrivninger brukes stadig og på en effektiv måte. Vokabularet er av og til idiomatisk. | Kan produsere sammenhengende tale over tid med en relativt uanstrengt flyt om kjente emner, men varierer ikke nødvendigvis talen som et stilistisk virkemiddel. Kan gjøre bruk av hensiktsmessige setningsmarkører eller bindeord. | Forståelsen er nøyaktig med hensyn til alminnelige, konkrete og arbeidsrelaterte emner og stort sett nøyaktig når taleren står overfor et språklig eller situasjonsbestemt problem eller en uforutsett hendelse. Er i stand til å forstå en rekke språklige variasjoner (dialekter og/eller aksenter) eller registre. | Svarene er umiddelbare, hensiktsmessige og informative. Behersker tale/lytte- situasjoner på en effektiv måte. |
+| *Operativt 4* | Uttale, trykk, rytme og intonasjon er påvirket av morsmålet eller regionale variasjoner, men dette hemmer bare av og til forståelsen. | Grunnleggende grammatiske strukturer og setningsmønstre brukes på en kreativ måte og beherskes vanligvis. Feil kan oppstå, særlig i uvanlige eller uventede situasjoner, men feilene går sjelden ut over meningsinnholdet. | Ordforråd og presisjon er vanligvis tilstrekkelig til å kommunisere effektivt om alminnelige, konkrete og arbeidsrelaterte emner. Er ofte i stand til å bruke omskrivninger ved manglende ordforråd i uvanlige eller uventede situasjoner. | Kan produsere sammenhengende tale i et passende tempo. Mister av og til flyten i overgangen fra innøvd til spontant samspill, uten at dette hemmer effektiv kommunikasjon. Kan gjøre begrenset bruk av setningsmarkører eller bindeord. Fyllord virker ikke distraherende. | Forståelsen er stort sett nøyaktig med hensyn til alminnelige, konkrete og arbeidsrelaterte emner når aksenten eller den språklige varianten er tilstrekkelig forståelig for et internasjonalt samfunn av språkbrukere. Når taleren står overfor et språklig eller situasjonsbestemt problem eller en uforutsett hendelse, kan forståelsen være langsommere eller kreve forklaringer. | Svarene er vanligvis umiddelbare, hensiktsmessige og informative. Innleder og fører en samtale selv i uventede situasjoner. Reagerer korrekt ved tilsynelatende misforståelser ved å kontrollere, bekrefte eller avklare opplysningene. |
+| *Skala for bedømmelse av språkferdigheter: føroperativt nivå, elementært nivå og førelementært nivå* |  |  |  |  |  |  |
+| *Nivå* | *Uttale* | *Struktur* | *Ordforråd* | *Flyt* | *Forståelse* | *Samhandling* |
+|  | Benytter en dialekt og/eller en aksent som er forståelig innenfor luftfartsmiljøet. | Aktuelle grammatiske strukturer og setningsmønstre bestemmes av språkfunksjoner som er tilpasset oppgaven. |  |  |  |  |
+| *Før operativt 3* | Uttale, trykk, rytme og intonasjon er påvirket av morsmålet eller regionale variasjoner, og dette hemmer ofte forståelsen. | Grunnleggende grammatiske strukturer og setningsmønstre i forbindelse med forutsigbare situasjoner beherskes ikke alltid. Feil går ofte ut over meningsinnholdet. | Ordforråd og presisjon er ofte tilstrekkelig til å kommunisere effektivt om alminnelige, konkrete og arbeidsrelaterte emner, men det er begrenset, og ordvalget er ofte ukorrekt. Er ofte ikke i stand til å gjøre korrekt bruk av omskrivninger ved manglende ordforråd. | Kan produsere sammenhengende tale, men formulerer seg ofte ukorrekt og med uhensiktsmessige pauser. Nøling og langsom tale kan hemme effektiv kommunikasjon. Fyllord virker av og til distraherende. | Forståelsen er ofte nøyaktig med hensyn til alminnelige, konkrete og arbeidsrelaterte emner når aksenten eller den språklige varianten er tilstrekkelig forståelig for et internasjonalt samfunn av språkbrukere. Kan ha problemer med å forstå en språklig vanskelighet eller en komplisert situasjon eller en uforutsett hendelse. | Svarene er av og til umiddelbare, hensiktsmessige og informative. Kan innlede og føre en samtale med relativ letthet om kjente emner og i forutsigbare situasjoner. Reagerer vanligvis ukorrekt i uforutsette situasjoner. |
+| *Elementært 2* | Uttale, trykk, rytme og intonasjon er sterkt påvirket av morsmålet eller regionale variasjoner, og dette hemmer vanligvis forståelsen. | Behersker bare i begrenset omfang enkelte innøvde grammatiske strukturer og setningsmønstre. | Begrenset ordforråd som bare består av isolerte ord og innøvde uttrykk. | Kan produsere svært korte, isolerte og innøvde ytringer med hyppige pauser og distraherende bruk av fyllord i forsøk på å lete etter uttrykk eller uttale mindre kjente ord. | Forståelsen begrenser seg til isolerte, utenatlærte vendinger, når disse uttales nøyaktig og sakte. | Reaksjonstiden er langsom og reaksjonene ofte ukorrekte. Samhandlingen er begrenset til enkle, rutinemessige utvekslinger. |
+| *Før elementært 1* | Nivået er under elementært nivå | Nivået er under elementært nivå. | Nivået er under elementært nivå. | Nivået er under elementært nivå. | Nivået er under elementært nivå. | Nivået er under elementært nivå. |
+
 > Tilføyd ved [forskrift 24 okt 2008 nr. 1156](forskrift/2008-10-24-1156) (i kraft 1 jan 2009).
 
 ### § 14b. Språkautorisasjonens gyldighetstid
@@ -240,18 +256,28 @@ Hvilke deler av EUROCONTROL «Common Core Content» som er relevant for flygeinf
 
 ### Til § 17:
 
+*Til [§ 17](forskrift/2003-10-25-1302/§17) første ledd:*
+
 For flygeinformasjonstjenestepersonell er veiledning under utarbeidelse.
 
+*Til [§ 17](forskrift/2003-10-25-1302/§17) tredje ledd:*
+
 Inntil komplett oversikt er utarbeidet av Luftfartstilsynet gjelder følgende retningslinjer for flygeinformasjonstjenestepersonell:Teoripensum må som et minimum dekke relevante deler av enhetens håndboksystem, jf. BSL G 2-1 vedlegg 5.Teoriprøver skal dekke et utvalg av pensum basert på enhetens håndbokssystem. Spørsmål om følgende er obligatorisk på enhver autorisasjonsprøve:
+
+*Kunnskaper om flygeinformasjonsregionen*
 
 1. Flygeinformasjonsregionens horisontale utstrekning, herunder kontrollert luftrom, ATS-ruter, innflygingsområder og kontrollsoner innenfor en avstand av 70 NM fra vedkommende landingsplass. Deres benevnelse, plassering og utstrekning.
 2. Trafikkinformasjonssoner og -områder samt beskyttelsessoner for helikoptre innenfor en avstand av 70 NM fra vedkommende landingsplass, inklusive benevnelse, plassering og utstrekning.
 3. Forbudte områder, restriksjonsområder, fareområder, luftsportsområder og FUA-områder innen en radius av 70 NM fra vedkommende landingsplass.
 4. Aktuelle alternative landingsplasser med avstand til, lengde og retning på rullebaner samt innflygingshjelpemidler.
 
+*Lokalkjennskap til eget ansvarsområde mv.*
+
 1. Landingsplassens utforming, herunder rullebanesystem/helidekk, taksebaner, lyssystemer, innflygings- og navigasjonshjelpemidler, parkeringsplasser og hangarer og andre relevante detaljer tegnet på millimeterpapir.
 2. Topografiske forhold og fremtredende landemerker i nærheten av plassen.
 3. Inn- og utflygingsprosedyrer (tegnet på topografiske kart).
+
+*Instrukser og bestemmelser*
 
 1. Alarminstruks og andre lokale instrukser vedrørende brann- og havaritjenesten.
 2. Koordineringsavtaler med tilstøtende lufttrafikktjenesteenheter (LoA).

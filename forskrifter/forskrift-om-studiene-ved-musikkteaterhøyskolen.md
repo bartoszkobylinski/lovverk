@@ -56,7 +56,7 @@ Aksept av tilbudt studieplass gir studierett i henhold til normert studietid for
 
 *Vurdering:* Formell vurdering av det faglige nivået og den faglige fremgangen studenten har oppnådd ved bestemte stadier i studiet.
 
-*UH-loven:*[Lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler.
+*UH-loven:* [Lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler.
 
 *Utdanningsplan:* Individuell plan som utarbeides mellom student og Musikkteaterhøyskolen for gjennomføring av studiet/studieprogram av 60 studiepoeng omfang eller mer. jf. UH-loven [§ 4-2](forskrift/2012-08-03-1479/§4-2).
 
@@ -363,3 +363,5 @@ For å få utstedt vitnemål for graden må minst 60 studiepoeng av graden være
 ### § 9-1. Ikrafttredelse
 
 (1) Forskriften trer i kraft den dato det mottas godkjennelse fra Kunnskapsdepartementet til å tildele graden bachelor i musikkteater.1
+
+1 I kraft 13. august 2012, jf. [forskrift 13. august 2012 nr. 804](forskrift/2012-08-13-804) om om endring i forskrift om grader og yrkesutdanninger, beskyttet tittel og normert studietid ved universiteter og høyskoer.

@@ -105,7 +105,14 @@ For opptak og rangering til bachelorutdanninger gjelder de regler som departemen
 
 (1) Dersom det er flere kvalifiserte søkere enn antall studieplasser rangeres søkerne på følgende grunnlag:Søkere med bachelorgrad eller annen utdanning av 180 studiepoengs omfang som er godkjent som opptaksgrunnlag, rangeres på grunnlag av vektet gjennomsnitt av alle eksamener som inngår i denne utdanningen. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.For søkere med relevant høyere utdanning som omfatter mer enn 180 studiepoeng, foretas rangeringen på grunnlag av vektet gjennomsnitt av eksamener i graden som helhet. Ved poenglikhet beregnes også omfang av relevant praksis etter fullført opptaksgrunnlag.Dersom søker må dokumentere utdanning i tillegg til bachelorgraden, der både bachelorgrad og tilleggsutdanning samlet gjør søker kvalifisert for studiet, benyttes både bachelorgrad og tilleggsutdanning ved rangering.Søkere som ikke har mulighet til å forbedre karakterer fra sin bachelorutdanning, kan legge ved dokumentasjon på annen relevant høyere utdanning for å forbedre sitt karaktersnitt. Hva som er annen relevant høyere utdanning vil fremgå i studieplanen. Annen relevant utdanning vil inngå i opptaksgrunnlaget, og kan derfor ikke innpasses i det nye studiet.Kvalifiserte søkere som ikke kan poengberegnes, må rangeres i forhold til poengberegnede søkere ved hjelp av individuell skjønnsmessig vurdering. For å få tilbud om opptak kreves likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning.
 
-(2) Med vektet gjennomsnitt menes gjennomsnittet av alle karakterer på vitnemålet vektet i forhold til antall studiepoeng/vekttall på hvert emne. Ved omregning av karakterer gjelder følgende tabell:Poeng54321KarakterABCDEKarakter1.0–2.22.3–2.52.6–2.72.8–3.03.1–4.0KarakterSMtf/MgTf/GNgLg
+(2) Med vektet gjennomsnitt menes gjennomsnittet av alle karakterer på vitnemålet vektet i forhold til antall studiepoeng/vekttall på hvert emne. Ved omregning av karakterer gjelder følgende tabell:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Poeng | 5 | 4 | 3 | 2 | 1 |
+| Karakter | A | B | C | D | E |
+| Karakter | 1.0–2.2 | 2.3–2.5 | 2.6–2.7 | 2.8–3.0 | 3.1–4.0 |
+| Karakter | S | Mtf/Mg | Tf/G | Ng | Lg |
 
 ### § 2-7a. Rangeringskriterier ved lokalt opptak til videreutdanninger på bachelornivå
 
@@ -363,7 +370,16 @@ Følgende studenter har rett til ny/utsatt eksamen dersom det tilbys for den akt
 
 (1) Karaktersystemet består av to karakterskalaer. En skala med karakterene bestått og ikke bestått og en gradert bokstavkarakterskala fra A til E for bestått og F for ikke bestått.
 
-(2) For den graderte skalaen gjelder følgende kvalitative beskrivelser:*Symbol**Betegnelse**Generell, kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(2) For den graderte skalaen gjelder følgende kvalitative beskrivelser:
+
+| *Symbol* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 ### § 5-13. Sensorer
 

@@ -111,3 +111,5 @@ Statlige oppgaver omfatter bibliotekformål som ikke naturlig hører inn under d
 Denne lov trer i kraft fra den tid Kongen bestemmer.1 Fra samme dag endres følgende lover slik: – – –
 
 > Endret ved [lov 21 juni 2013 nr. 95](lov/2013-06-21-95) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 747](forskrift/2013-06-21-747)), tidligere § 16.
+
+1 Fra 1 jan 1986 iflg. [res. 20 des 1985 nr. 2236](forskrift/1985-12-20-2236).

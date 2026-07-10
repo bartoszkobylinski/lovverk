@@ -52,6 +52,14 @@ Loven trer i kraft straks.
 
 ### Convention for the Protection of Human Rights and Fundamental Freedoms1
 
+1 Teksten er for Norges del endret i samsvar med bestemmelsene i protokoll 15, som trådte ikr. 1 august 2021. (Protokoll 15 har tatt opp i seg tidligere endringsprotokoller, herunder protokollene 2, 3, 5, 8, 9, 11 og 14).
+
+Rome, 4 November 1950
+
+Entry into force 3 September 1953
+
+The governments signatory hereto, being members of the Council of Europe,
+
 Considering the Universal Declaration of Human Rights proclaimed by the General Assembly of the United Nations on 10th December 1948;
 
 Considering that this Declaration aims at securing the universal and effective recognition and observance of the Rights therein declared;
@@ -74,9 +82,9 @@ The High Contracting Parties shall secure to everyone within their jurisdiction 
 
 ### Art 2. Right to life
 
-1. Everyone's right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
+1\. Everyone's right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
 
-2. Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:in defence of any person from unlawful violence;in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;in action lawfully taken for the purpose of quelling a riot or insurrection.
+2\. Deprivation of life shall not be regarded as inflicted in contravention of this article when it results from the use of force which is no more than absolutely necessary:in defence of any person from unlawful violence;in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;in action lawfully taken for the purpose of quelling a riot or insurrection.
 
 ### Art 3. Prohibition of torture
 
@@ -84,61 +92,61 @@ No one shall be subjected to torture or to inhuman or degrading treatment or pun
 
 ### Art 4. Prohibition of slavery and forced labour
 
-1. No one shall be held in slavery or servitude.
+1\. No one shall be held in slavery or servitude.
 
-2. No one shall be required to perform forced or compulsory labour.
+2\. No one shall be required to perform forced or compulsory labour.
 
-3. For the purpose of this article the term «forced or compulsory labour» shall not include:any work required to be done in the ordinary course of detention imposed according to the provisions of Article 5 of this Convention or during conditional release from such detention;any service of a military character or, in case of conscientious objectors in countries where they are recognised, service exacted instead for compulsory military service;any service exacted in case of an emergency or calamity threatening the life or well-being of the community;any work or service which forms part of normal civic obligations.
+3\. For the purpose of this article the term «forced or compulsory labour» shall not include:any work required to be done in the ordinary course of detention imposed according to the provisions of Article 5 of this Convention or during conditional release from such detention;any service of a military character or, in case of conscientious objectors in countries where they are recognised, service exacted instead for compulsory military service;any service exacted in case of an emergency or calamity threatening the life or well-being of the community;any work or service which forms part of normal civic obligations.
 
 ### Art 5. Right to liberty and security
 
-1. Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:the lawful detention of a person after conviction by a competent court;the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.
+1\. Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:the lawful detention of a person after conviction by a competent court;the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.
 
-2. Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.
+2\. Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.
 
-3. Everyone arrested or detained in accordance with the provisions of paragraph 1.c of this article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.
+3\. Everyone arrested or detained in accordance with the provisions of paragraph 1.c of this article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.
 
-4. Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.
+4\. Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.
 
-5. Everyone who has been the victim of arrest or detention in contravention of the provisions of this article shall have an enforceable right to compensation.
+5\. Everyone who has been the victim of arrest or detention in contravention of the provisions of this article shall have an enforceable right to compensation.
 
 ### Art 6. Right to a fair trial
 
-1. In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interests of morals, public order or national security in a democratic society, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
+1\. In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interests of morals, public order or national security in a democratic society, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
 
-2. Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.
+2\. Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.
 
-3. Everyone charged with a criminal offence has the following minimum rights:to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;to have adequate time and facilities for the preparation of his defence;to defend himself in person or through legal assistance of his own choosing or, if he has not a sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;to have the free assistance of an interpreter if he cannot understand or speak the language used in court.
+3\. Everyone charged with a criminal offence has the following minimum rights:to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;to have adequate time and facilities for the preparation of his defence;to defend himself in person or through legal assistance of his own choosing or, if he has not a sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;to have the free assistance of an interpreter if he cannot understand or speak the language used in court.
 
 ### Art 7. No punishment without law
 
-1. No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.
+1\. No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.
 
-2. This article shall not prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations.
+2\. This article shall not prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations.
 
 ### Art 8. Right to respect for private and family life
 
-1. Everyone has the right to respect for his private and family life, his home and his correspondence.
+1\. Everyone has the right to respect for his private and family life, his home and his correspondence.
 
-2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+2\. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
 
 ### Art 9. Freedom of thought, conscience and religion
 
-1. Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.
+1\. Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.
 
-2. Freedom to manifest one's religion or beliefs shall be subject only to such limitations as are prescribed by law and are necessary in a democratic society in the interests of public safety, for the protection of public order, health or morals, or for the protection of the rights and freedoms of others.
+2\. Freedom to manifest one's religion or beliefs shall be subject only to such limitations as are prescribed by law and are necessary in a democratic society in the interests of public safety, for the protection of public order, health or morals, or for the protection of the rights and freedoms of others.
 
 ### Art 10. Freedom of expression
 
-1. Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.
+1\. Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.
 
-2. The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.
+2\. The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.
 
 ### Art 11. Freedom of assembly and association
 
-1. Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.
+1\. Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.
 
-2. No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the State.
+2\. No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the State.
 
 ### Art 12. Right to marry
 
@@ -154,11 +162,11 @@ The enjoyment of the rights and freedoms set forth in this Convention shall be s
 
 ### Art 15. Derogation in time of emergency
 
-1. In time of war or other public emergency threatening the life of the nation any High Contracting Party may take measures derogating from its obligations under this Convention to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with its other obligations under international law.
+1\. In time of war or other public emergency threatening the life of the nation any High Contracting Party may take measures derogating from its obligations under this Convention to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with its other obligations under international law.
 
-2. No derogation from Article 2, except in respect of deaths resulting from lawful acts of war, or from Articles 3, 4 (paragraph 1) and 7 shall be made under this provision.
+2\. No derogation from Article 2, except in respect of deaths resulting from lawful acts of war, or from Articles 3, 4 (paragraph 1) and 7 shall be made under this provision.
 
-3. Any High Contracting Party availing itself of this right of derogation shall keep the Secretary General of the Council of Europe fully informed of the measures which it has taken and the reasons therefor. It shall also inform the Secretary General of the Council of Europe when such measures have ceased to operate and the provisions of the Convention are again being fully executed.
+3\. Any High Contracting Party availing itself of this right of derogation shall keep the Secretary General of the Council of Europe fully informed of the measures which it has taken and the reasons therefor. It shall also inform the Secretary General of the Council of Europe when such measures have ceased to operate and the provisions of the Convention are again being fully executed.
 
 ### Art 16. Restrictions on political activity of aliens
 
@@ -184,37 +192,37 @@ The Court shall consist of a number of judges equal to that of the High Contract
 
 ### Art 21. Criteria for office
 
-1. The judges shall be of high moral character and must either possess the qualifications required for appointment to high judicial office or be jurisconsults of recognised competence.
+1\. The judges shall be of high moral character and must either possess the qualifications required for appointment to high judicial office or be jurisconsults of recognised competence.
 
-2. Can didates shall be less than 65 years of age at the date by which the list of three candidates has been requested by the Parliamentary Assembly, further to Article 22.
+2\. Can didates shall be less than 65 years of age at the date by which the list of three candidates has been requested by the Parliamentary Assembly, further to Article 22.
 
-3. The judges shall sit on the Court in their individual capacity.
+3\. The judges shall sit on the Court in their individual capacity.
 
-4. During their term of office the judges shall not engage in any activity which is incompatible with their independence, impartiality or with the demands of a full-time office; all questions arising from the application of this paragraph shall be decided by the Court.
+4\. During their term of office the judges shall not engage in any activity which is incompatible with their independence, impartiality or with the demands of a full-time office; all questions arising from the application of this paragraph shall be decided by the Court.
 
 > Amended by Protocol No. 15 to the ECHR ([act 9 May 2014 No 14](lov/2014-05-09-14), in force 1 Aug 2021 re. [res. 18 June 2021 No 1966](forskrift/2021-06-18-1966)).
 
 ### Art 22. Election of judges
 
-1. The judges shall be elected by the Parliamentary Assembly with respect to each High Contracting Party by a majority of votes cast from a list of three candidates nominated by the High Contracting Party.
+1\. The judges shall be elected by the Parliamentary Assembly with respect to each High Contracting Party by a majority of votes cast from a list of three candidates nominated by the High Contracting Party.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 23. Terms of office and dismissal
 
-1. The judges shall be elected for a period of nine years. They may not be re-elected.
+1\. The judges shall be elected for a period of nine years. They may not be re-elected.
 
-2. The judges shall hold office until replaced. They shall, however, continue to deal with such cases as they already have under consideration.
+2\. The judges shall hold office until replaced. They shall, however, continue to deal with such cases as they already have under consideration.
 
-3. No judge may be dismissed from office unless the other judges decide by a majority of two-thirds that that judge has ceased to fulfil the required conditions.
+3\. No judge may be dismissed from office unless the other judges decide by a majority of two-thirds that that judge has ceased to fulfil the required conditions.
 
 > Amended by Protocol No. 14 of 13 May 2004, Protocol No. 15 to the ECHR ([act 9 May 2014 No 14](lov/2014-05-09-14), in force 1 Aug 2021 re. [res. 18 June 2021 No 1966](forskrift/2021-06-18-1966)).
 
 ### Art 24. Registry and rapporteurs
 
-1. The Court shall have a registry, the functions and organisation of which shall be laid down in the rules of the Court.
+1\. The Court shall have a registry, the functions and organisation of which shall be laid down in the rules of the Court.
 
-2. When sitting in a single-judge formation, the Court shall be assisted by rapporteurs who shall function under the authority of the President of the Court. They shall form part of the Court's registry.
+2\. When sitting in a single-judge formation, the Court shall be assisted by rapporteurs who shall function under the authority of the President of the Court. They shall form part of the Court's registry.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
@@ -226,43 +234,43 @@ The plenary Court shallelect its President and one or two Vice-Presidents for a 
 
 ### Art 26. Single-judge formation, committees, Chambers and Grand Chamber
 
-1. To consider cases brought before it, the Court shall sit in a single-judge formation, in committees of three judges, in Chambers of seven judges and in a Grand Chamber of seventeen judges. The Court's Chambers shall set up committees for a fixed period of time.
+1\. To consider cases brought before it, the Court shall sit in a single-judge formation, in committees of three judges, in Chambers of seven judges and in a Grand Chamber of seventeen judges. The Court's Chambers shall set up committees for a fixed period of time.
 
-2. At the request of the plenary Court, the Committee of Ministers may, by a unanimous decision and for a fixed period, reduce to five the number of judges of the Chambers.
+2\. At the request of the plenary Court, the Committee of Ministers may, by a unanimous decision and for a fixed period, reduce to five the number of judges of the Chambers.
 
-3. When sitting as a single judge, a judge shall not examine any application against the High Contracting Party in respect of which that judge has been elected.
+3\. When sitting as a single judge, a judge shall not examine any application against the High Contracting Party in respect of which that judge has been elected.
 
-4. There shall sit as an ex officio member of the Chamber and the Grand Chamber the judge elected in respect of the High Contracting Party concerned. If there is none or if that judge is unable to sit, a person chosen by the President of the Court from a list submitted in advance by that Party shall sit in the capacity of judge.
+4\. There shall sit as an ex officio member of the Chamber and the Grand Chamber the judge elected in respect of the High Contracting Party concerned. If there is none or if that judge is unable to sit, a person chosen by the President of the Court from a list submitted in advance by that Party shall sit in the capacity of judge.
 
-5. The Grand Chamber shall also include the President of the Court, the Vice-Presidents, the Presidents of the Chambers and other judges chosen in accordance with the rules of the Court. When a case is referred to the Grand Chamber under Article 43, no judge from the Chamber which rendered the judgment shall sit in the Grand Chamber, with the exception of the President of the Chamber and the judge who sat in respect of the High Contracting Party concerned.
+5\. The Grand Chamber shall also include the President of the Court, the Vice-Presidents, the Presidents of the Chambers and other judges chosen in accordance with the rules of the Court. When a case is referred to the Grand Chamber under Article 43, no judge from the Chamber which rendered the judgment shall sit in the Grand Chamber, with the exception of the President of the Chamber and the judge who sat in respect of the High Contracting Party concerned.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 27. Competence of single judges
 
-1. A single judge may declare inadmissible or strike out of the Court's list of cases an application submitted under Article 34, where such a decision can be taken without further examination.
+1\. A single judge may declare inadmissible or strike out of the Court's list of cases an application submitted under Article 34, where such a decision can be taken without further examination.
 
-2. The decision shall be final.
+2\. The decision shall be final.
 
-3. If the single judge does not declare an application inadmissible or strike it out, that judge shall forward it to a committee or to a Chamber for further examination.
+3\. If the single judge does not declare an application inadmissible or strike it out, that judge shall forward it to a committee or to a Chamber for further examination.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 28. Competence of committees
 
-1. In respect of an application submitted under Article 34, a committee may, by a unanimous vote,declare it inadmissible or strike it out of its list of cases, where such decision can be taken without further examination; ordeclare it admissible and render at the same time a judgment on the merits, if the underlying question in the case, concerning the interpretation or the application of the Convention or the Protocols thereto, is already the subject of well-established case-law of the Court.
+1\. In respect of an application submitted under Article 34, a committee may, by a unanimous vote,declare it inadmissible or strike it out of its list of cases, where such decision can be taken without further examination; ordeclare it admissible and render at the same time a judgment on the merits, if the underlying question in the case, concerning the interpretation or the application of the Convention or the Protocols thereto, is already the subject of well-established case-law of the Court.
 
-2. Decisions and judgments under paragraph 1 shall be final.
+2\. Decisions and judgments under paragraph 1 shall be final.
 
-3. If the judge elected in respect of the High Contracting Party concerned is not a member of the committee, the committee may at any stage of the proceedings invite that judge to take the place of one of the members of the committee, having regard to all relevant factors, including whether that Party has contested the application of the procedure under paragraph 1.b.
+3\. If the judge elected in respect of the High Contracting Party concerned is not a member of the committee, the committee may at any stage of the proceedings invite that judge to take the place of one of the members of the committee, having regard to all relevant factors, including whether that Party has contested the application of the procedure under paragraph 1.b.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 29. Decisions by Chambers on admissibility and merits
 
-1. If no decision is taken under Article 27 or 28, or no judgment rendered under Article 28, a Chamber shall decide on the admissibility and merits of individual applications submitted under Article 34. The decision on admissibility may be taken separately.
+1\. If no decision is taken under Article 27 or 28, or no judgment rendered under Article 28, a Chamber shall decide on the admissibility and merits of individual applications submitted under Article 34. The decision on admissibility may be taken separately.
 
-2. A Chamber shall decide on the admissibility and merits of inter-State applications submitted under Article 33. The decision on admissibility shall be taken separately unless the Court, in exceptional cases, decides otherwise.
+2\. A Chamber shall decide on the admissibility and merits of inter-State applications submitted under Article 33. The decision on admissibility shall be taken separately unless the Court, in exceptional cases, decides otherwise.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
@@ -280,9 +288,9 @@ The Grand Chamber shalldetermine applications submitted either under Article 33 
 
 ### Art 32. Jurisdiction of the Court
 
-1. The jurisdiction of the Court shall extend to all matters concerning the interpretation and application of the Convention and the protocols thereto which are referred to it as provided in Articles 33, 34, 46 and 47.
+1\. The jurisdiction of the Court shall extend to all matters concerning the interpretation and application of the Convention and the protocols thereto which are referred to it as provided in Articles 33, 34, 46 and 47.
 
-2. In the event of dispute as to whether the Court has jurisdiction, the Court shall decide.
+2\. In the event of dispute as to whether the Court has jurisdiction, the Court shall decide.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
@@ -296,31 +304,33 @@ The Court may receive applications from any person, non-governmental organisatio
 
 ### Art 35. Admissibility criteria
 
-1. The Court may only deal with the matter after all domestic remedies have been exhausted, according to the generally recognised rules of international law, and within a period of four1 months from the date on which the final decision was taken.
+1\. The Court may only deal with the matter after all domestic remedies have been exhausted, according to the generally recognised rules of international law, and within a period of four1 months from the date on which the final decision was taken.
 
-2. The Court shall not deal with any application submitted under Article 34 thatis anonymous; oris substantially the same as a matter that has already been examined by the Court or has already been submitted to another procedure of international investigation or settlement and contains no relevant new information.
+2\. The Court shall not deal with any application submitted under Article 34 thatis anonymous; oris substantially the same as a matter that has already been examined by the Court or has already been submitted to another procedure of international investigation or settlement and contains no relevant new information.
 
-3. The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that:the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; orthe applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits.
+3\. The Court shall declare inadmissible any individual application submitted under Article 34 if it considers that:the application is incompatible with the provisions of the Convention or the Protocols thereto, manifestly ill-founded, or an abuse of the right of individual application; orthe applicant has not suffered a significant disadvantage, unless respect for human rights as defined in the Convention and the Protocols thereto requires an examination of the application on the merits.
 
-4. The Court shall reject any application which it considers inadmissible under this Article. It may do so at any stage of the proceedings.
+4\. The Court shall reject any application which it considers inadmissible under this Article. It may do so at any stage of the proceedings.
 
 > Amended by Protocol No. 14 of 13 May 2004, Protocol No. 15 to the ECHR ([act 9 May 2014 No 14](lov/2014-05-09-14), in force 1 Aug 2021 re. [res. 18 June 2021 No 1966](forskrift/2021-06-18-1966)), Protocol No. 15 to the ECHR ([act 9 May 2014 No 14](lov/2014-05-09-14), in force 1 Feb 2022 re. [res. 18 June 2021 No 1966](forskrift/2021-06-18-1966)).
 
+1 According to article 8, paragraph 3 of Protocol No. 15 to the ECHR, the reduction of the deadline from six months to four shall not apply to applications in respect of which the final decision within the meaning of Article 35, paragraph 1 of the ECHR was taken prior to the date of entry into force of Article 4 of the Protocol, i.e. prior to 1. February 2022.
+
 ### Art 36. Third party intervention
 
-1. In all cases before a Chamber or the Grand Chamber, a High Contracting Party one of whose nationals is an applicant shall have the right to submit written comments and to take part in hearings.
+1\. In all cases before a Chamber or the Grand Chamber, a High Contracting Party one of whose nationals is an applicant shall have the right to submit written comments and to take part in hearings.
 
-2. The President of the Court may, in the interest of the proper administration of justice, invite any High Contracting Party which is not a party to the proceedings or any person concerned who is not the applicant to submit written comments or take part in hearings.
+2\. The President of the Court may, in the interest of the proper administration of justice, invite any High Contracting Party which is not a party to the proceedings or any person concerned who is not the applicant to submit written comments or take part in hearings.
 
-3. In all cases before a Chamber or the Grand Chamber, the Council of Europe Commissioner for Human Rights may submit written comments and take part in hearings.
+3\. In all cases before a Chamber or the Grand Chamber, the Council of Europe Commissioner for Human Rights may submit written comments and take part in hearings.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 37. Striking out applications
 
-1. The Court may at any stage of the proceedings decide to strike an application out of its list of cases where the circumstances lead to the conclusion thatthe applicant does not intend to pursue his application; orthe matter has been resolved; orfor any other reason established by the Court, it is no longer justified to continue the examination of the application.However, the Court shall continue the examination of the application if respect for human rights as defined in the Convention and the protocols thereto so requires.
+1\. The Court may at any stage of the proceedings decide to strike an application out of its list of cases where the circumstances lead to the conclusion thatthe applicant does not intend to pursue his application; orthe matter has been resolved; orfor any other reason established by the Court, it is no longer justified to continue the examination of the application.However, the Court shall continue the examination of the application if respect for human rights as defined in the Convention and the protocols thereto so requires.
 
-2. The Court may decide to restore an application to its list of cases if it considers that the circumstances justify such a course.
+2\. The Court may decide to restore an application to its list of cases if it considers that the circumstances justify such a course.
 
 ### Art 38. Examination of the case
 
@@ -330,21 +340,21 @@ The Court shall examine the case together with the representatives of the partie
 
 ### Art 39. Friendly settlements
 
-1. At any stage of the proceedings, the Court may place itself at the disposal of the parties concerned with a view to securing a friendly settlement of the matter on the basis of respect for human rights as defined in the Convention and the Protocols thereto.
+1\. At any stage of the proceedings, the Court may place itself at the disposal of the parties concerned with a view to securing a friendly settlement of the matter on the basis of respect for human rights as defined in the Convention and the Protocols thereto.
 
-2. Proceedings conducted under paragraph 1 shall be confidential.
+2\. Proceedings conducted under paragraph 1 shall be confidential.
 
-3. If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
+3\. If a friendly settlement is effected, the Court shall strike the case out of its list by means of a decision which shall be confined to a brief statement of the facts and of the solution reached.
 
-4. This decision shall be transmitted to the Committee of Ministers, which shall supervise the execution of the terms of the friendly settlement as set out in the decision.
+4\. This decision shall be transmitted to the Committee of Ministers, which shall supervise the execution of the terms of the friendly settlement as set out in the decision.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 40. Public hearings and access to documents
 
-1. Hearings shall be in public unless the Court in exceptional circumstances decides otherwise.
+1\. Hearings shall be in public unless the Court in exceptional circumstances decides otherwise.
 
-2. Documents deposited with the Registrar shall be accessible to the public unless the President of the Court decides otherwise.
+2\. Documents deposited with the Registrar shall be accessible to the public unless the President of the Court decides otherwise.
 
 ### Art 41. Just satisfaction
 
@@ -356,47 +366,47 @@ Judgments of Chambers shall become final in accordance with the provisions of Ar
 
 ### Art 43. Referral to the Grand Chamber
 
-1. Within a period of three months from the date of the judgment of the Chamber, any party to the case may, in exceptional cases, request that the case be referred to the Grand Chamber.
+1\. Within a period of three months from the date of the judgment of the Chamber, any party to the case may, in exceptional cases, request that the case be referred to the Grand Chamber.
 
-2. A panel of five judges of the Grand Chamber shall accept the request if the case raises a serious question affecting the interpretation or application of the Convention or the protocols thereto, or a serious issue of general importance.
+2\. A panel of five judges of the Grand Chamber shall accept the request if the case raises a serious question affecting the interpretation or application of the Convention or the protocols thereto, or a serious issue of general importance.
 
-3. If the panel accepts the request, the Grand Chamber shall decide the case by means of a judgment.
+3\. If the panel accepts the request, the Grand Chamber shall decide the case by means of a judgment.
 
 ### Art 44. Final judgments
 
-1. The judgment of the Grand Chamber shall be final.
+1\. The judgment of the Grand Chamber shall be final.
 
-2. The judgment of a Chamber shall become finalwhen the parties declare that they will not request that the case be referred to the Grand Chamber; orthree months after the date of the judgment, if reference of the case to the Grand Chamber has not been requested; orwhen the panel of the Grand Chamber rejects the request to refer under Article 43.
+2\. The judgment of a Chamber shall become finalwhen the parties declare that they will not request that the case be referred to the Grand Chamber; orthree months after the date of the judgment, if reference of the case to the Grand Chamber has not been requested; orwhen the panel of the Grand Chamber rejects the request to refer under Article 43.
 
-3. The final judgment shall be published.
+3\. The final judgment shall be published.
 
 ### Art 45. Reasons for judgments and decisions
 
-1. Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible.
+1\. Reasons shall be given for judgments as well as for decisions declaring applications admissible or inadmissible.
 
-2. If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
+2\. If a judgment does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
 ### Art 46. Binding force and execution of judgments
 
-1. The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.
+1\. The High Contracting Parties undertake to abide by the final judgment of the Court in any case to which they are parties.
 
-2. The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.
+2\. The final judgment of the Court shall be transmitted to the Committee of Ministers, which shall supervise its execution.
 
-3. If the Committee of Ministers considers that the supervision of the execution of a final judgment is hindered by a problem of interpretation of the judgment, it may refer the matter to the Court for a ruling on the question of interpretation. A referral decision shall require a majority vote of two thirds of the representatives entitled to sit on the Committee.
+3\. If the Committee of Ministers considers that the supervision of the execution of a final judgment is hindered by a problem of interpretation of the judgment, it may refer the matter to the Court for a ruling on the question of interpretation. A referral decision shall require a majority vote of two thirds of the representatives entitled to sit on the Committee.
 
-4. If the Committee of Ministers considers that a High Contracting Party refuses to abide by a final judgment in a case to which it is a party, it may, after serving formal notice on that Party and by decision adopted by a majority vote of two thirds of the representatives entitled to sit on the Committee, refer to the Court the question whether that Party has failed to fulfil its obligation under paragraph 1.
+4\. If the Committee of Ministers considers that a High Contracting Party refuses to abide by a final judgment in a case to which it is a party, it may, after serving formal notice on that Party and by decision adopted by a majority vote of two thirds of the representatives entitled to sit on the Committee, refer to the Court the question whether that Party has failed to fulfil its obligation under paragraph 1.
 
-5. If the Court finds a violation of paragraph 1, it shall refer the case to the Committee of Ministers for consideration of the measures to be taken. If the Court finds no violation of paragraph 1, it shall refer the case to the Committee of Ministers, which shall close its examination of the case.
+5\. If the Court finds a violation of paragraph 1, it shall refer the case to the Committee of Ministers for consideration of the measures to be taken. If the Court finds no violation of paragraph 1, it shall refer the case to the Committee of Ministers, which shall close its examination of the case.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
 ### Art 47. Advisory opinions
 
-1. The Court may, at the request of the Committee of Ministers, give advisory opinions on legal questions concerning the interpretation of the Convention and the protocols thereto.
+1\. The Court may, at the request of the Committee of Ministers, give advisory opinions on legal questions concerning the interpretation of the Convention and the protocols thereto.
 
-2. Such opinions shall not deal with any question relating to the content or scope of the rights or freedoms defined in Section I of the Convention and the protocols thereto, or with any other question which the Court or the Committee of Ministers might have to consider in consequence of any such proceedings as could be instituted in accordance with the Convention.
+2\. Such opinions shall not deal with any question relating to the content or scope of the rights or freedoms defined in Section I of the Convention and the protocols thereto, or with any other question which the Court or the Committee of Ministers might have to consider in consequence of any such proceedings as could be instituted in accordance with the Convention.
 
-3. Decisions of the Committee of Ministers to request an advisory opinion of the Court shall require a majority vote of the representatives entitled to sit on the Committee.
+3\. Decisions of the Committee of Ministers to request an advisory opinion of the Court shall require a majority vote of the representatives entitled to sit on the Committee.
 
 ### Art 48. Advisory jurisdiction of the Court
 
@@ -404,11 +414,11 @@ The Court shall decide whether a request for an advisory opinion submitted by th
 
 ### Art 49. Reasons for advisory opinions
 
-1. Reasons shall be given for advisory opinions of the Court.
+1\. Reasons shall be given for advisory opinions of the Court.
 
-2. If the advisory opinion does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
+2\. If the advisory opinion does not represent, in whole or in part, the unanimous opinion of the judges, any judge shall be entitled to deliver a separate opinion.
 
-3. Advisory opinions of the Court shall be communicated to the Committee of Ministers.
+3\. Advisory opinions of the Court shall be communicated to the Committee of Ministers.
 
 ### Art 50. Expenditure of the Court
 
@@ -438,45 +448,53 @@ The High Contracting Parties agree that, except by special agreement, they will 
 
 ### Art 56. Territorial application
 
-1. Any State may at the time of its ratification or at any time thereafter declare by notification addressed to the Secretary General of the Council of Europe that the present Convention shall, subject to paragraph 4 of this Article, extend to all or any of the territories for whose international relations it is responsible.
+1\. Any State may at the time of its ratification or at any time thereafter declare by notification addressed to the Secretary General of the Council of Europe that the present Convention shall, subject to paragraph 4 of this Article, extend to all or any of the territories for whose international relations it is responsible.
 
-2. The Convention shall extend to the territory or territories named in the notification as from the thirtieth day after the receipt of this notification by the Secretary General of the Council of Europe.
+2\. The Convention shall extend to the territory or territories named in the notification as from the thirtieth day after the receipt of this notification by the Secretary General of the Council of Europe.
 
-3. The provisions of this Convention shall be applied in such territories with due regard, however, to local requirements.
+3\. The provisions of this Convention shall be applied in such territories with due regard, however, to local requirements.
 
-4. Any State which has made a declaration in accordance with paragraph 1 of this article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided by Article 34 of the Convention.
+4\. Any State which has made a declaration in accordance with paragraph 1 of this article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided by Article 34 of the Convention.
 
 ### Art 57. Reservations
 
-1. Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
+1\. Any State may, when signing this Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision. Reservations of a general character shall not be permitted under this article.
 
-2. Any reservation made under this article shall contain a brief statement of the law concerned.
+2\. Any reservation made under this article shall contain a brief statement of the law concerned.
 
 ### Art 58. Denunciation
 
-1. A High Contracting Party may denounce the present Convention only after the expiry of five year from the date on which it became a party to it and after six months′ notice contained in a notification addressed to the Secretary General of the Council of Europe, who shall inform the other High Contracting Parties.
+1\. A High Contracting Party may denounce the present Convention only after the expiry of five year from the date on which it became a party to it and after six months′ notice contained in a notification addressed to the Secretary General of the Council of Europe, who shall inform the other High Contracting Parties.
 
-2. Such a denunciation shall not have the effect of releasing the High Contracting Party concerned from its obligations under this Convention in respect of any act which, being capable of constituting a violation of such obligations, may have been performed by it before the date at which the denunciation became effective.
+2\. Such a denunciation shall not have the effect of releasing the High Contracting Party concerned from its obligations under this Convention in respect of any act which, being capable of constituting a violation of such obligations, may have been performed by it before the date at which the denunciation became effective.
 
-3. Any High Contracting Party which shall cease to be a member of the Council of Europe shall cease to be a Party to this Convention under the same conditions.
+3\. Any High Contracting Party which shall cease to be a member of the Council of Europe shall cease to be a Party to this Convention under the same conditions.
 
-4. The Convention may be denounced in accordance with the provisions of the preceding paragraphs in respect of any territory to which it has been declared to extend under the terms of Article 56.
+4\. The Convention may be denounced in accordance with the provisions of the preceding paragraphs in respect of any territory to which it has been declared to extend under the terms of Article 56.
 
 ### Art 59. Signature and ratification
 
-1. This Convention shall be open to the signature of the members of the Council of Europe. It shall be ratified. Ratifications shall be deposited with the Secretary General of the Council of Europe.
+1\. This Convention shall be open to the signature of the members of the Council of Europe. It shall be ratified. Ratifications shall be deposited with the Secretary General of the Council of Europe.
 
-2. The European Union may accede to this Convention.
+2\. The European Union may accede to this Convention.
 
-3. The present Convention shall come into force after the deposit of ten instruments of ratification.
+3\. The present Convention shall come into force after the deposit of ten instruments of ratification.
 
-4. As regards any signatory ratifying subsequently, the Convention shall come into force at the date of the deposit of its instrument of ratification.
+4\. As regards any signatory ratifying subsequently, the Convention shall come into force at the date of the deposit of its instrument of ratification.
 
-5. The Secretary General of the Council of Europe shall notify all the members of the Council of Europe of the entry into force of the Convention, the names of the High Contracting Parties who have ratified it, and the deposit of all instruments of ratification which may be effected subsequently.
+5\. The Secretary General of the Council of Europe shall notify all the members of the Council of Europe of the entry into force of the Convention, the names of the High Contracting Parties who have ratified it, and the deposit of all instruments of ratification which may be effected subsequently.
 
 > Amended by Protocol No. 14 of 13 May 2004.
 
+Done at Rome this 4th day of November 1950, in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General shall transmit certified copies to each of the signatories.
+
 ### Protocol to the Convention for the Protection of Human Rights and Fundamental Freedoms of 4 November 1950
+
+Paris, 20 March 1952
+
+Entry into force 18 May 1954
+
+The governments signatory hereto, being members of the Council of Europe,
 
 Being resolved to take steps to ensure the collective enforcement of certain rights and freedoms other than those already included in Section I of the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4 November 1950 (hereinafter referred to as «the Convention»),
 
@@ -514,7 +532,15 @@ This Protocol shall be open for signature by the members of the Council of Europ
 
 The instruments of ratification shall be deposited with the Secretary General of the Council of Europe, who will notify all members of the names of those who have ratified.
 
+Done at Paris on the 20th day of March 1952, in English and French, both texts being equally authentic, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General shall transmit certified copies to each of the signatory governments.
+
 ### Protocol no. 4 to the Convention for the Protection of Human Rights and Fundamental Freedoms, Securing Certain Rights and Freedoms other than those already included in the Convention and in the First Protocol Thereto
+
+Strasbourg, 16 September 1963
+
+Entry into force 2 May 1968
+
+The Governments signatory hereto, being Members of the Council of Europe,
 
 Being resolved to take steps to ensure the collective enforcement of certain rights and freedoms other than those already included in Section I of the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4th November 1950 (hereinafter referred to as «the Convention») and in Articles 1 to 3 of the First Protocol to the Convention, signed at Paris on 20th March 1952,
 
@@ -526,19 +552,19 @@ No one shall be deprived of his liberty merely on the ground of inability to ful
 
 ### Art 2. Freedom of movement
 
-1. Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.
+1\. Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.
 
-2. Everyone shall be free to leave any country, including his own.
+2\. Everyone shall be free to leave any country, including his own.
 
-3. No restrictions shall be placed on the exercise of these rights other than such as are in accordance with law and are necessary in a democratic society in the interests of national security or public safety, for the maintenance of *ordre public,* for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+3\. No restrictions shall be placed on the exercise of these rights other than such as are in accordance with law and are necessary in a democratic society in the interests of national security or public safety, for the maintenance of *ordre public,* for the prevention of crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
 
-4. The rights set forth in paragraph 1 may also be subject, in particular areas, to restrictions imposed in accordance with law and justified by the public interest in a democratic society.
+4\. The rights set forth in paragraph 1 may also be subject, in particular areas, to restrictions imposed in accordance with law and justified by the public interest in a democratic society.
 
 ### Art 3. Prohibition of expulsion of nationals
 
-1. No one shall be expelled, by means either of an individual or of a collective measure, from the territory of the State of which he is a national.
+1\. No one shall be expelled, by means either of an individual or of a collective measure, from the territory of the State of which he is a national.
 
-2. No one shall be deprived of the right to enter the territory of the State of which he is a national.
+2\. No one shall be deprived of the right to enter the territory of the State of which he is a national.
 
 ### Art 4. Prohibition of collective expulsion of aliens
 
@@ -546,15 +572,15 @@ Collective expulsion of aliens is prohibited.
 
 ### Art 5. Territorial application
 
-1. Any High Contracting Party may, at the time of signature or ratification of this Protocol, or at any time thereafter, communicate to the Secretary General of the Council of Europe a declaration stating the extent to which it undertakes that the provisions of this Protocol shall apply to such of the territories for the international relations of which it is responsible as are named therein.
+1\. Any High Contracting Party may, at the time of signature or ratification of this Protocol, or at any time thereafter, communicate to the Secretary General of the Council of Europe a declaration stating the extent to which it undertakes that the provisions of this Protocol shall apply to such of the territories for the international relations of which it is responsible as are named therein.
 
-2. Any High Contracting Party which has communicated a declaration in virtue of the preceding paragraph may, from time to time, communicate a further declaration modifying the terms of any former declaration or terminating the application of the provisions of this Protocol in respect of any territory.
+2\. Any High Contracting Party which has communicated a declaration in virtue of the preceding paragraph may, from time to time, communicate a further declaration modifying the terms of any former declaration or terminating the application of the provisions of this Protocol in respect of any territory.
 
-3. A declaration made in accordance with this Article shall be deemed to have been made in accordance with paragraph 1 of Article 56 of the Convention.
+3\. A declaration made in accordance with this Article shall be deemed to have been made in accordance with paragraph 1 of Article 56 of the Convention.
 
-4. The territory of any State to which this Protocol applies by virtue of ratification or acceptance by that State, and each territory to which this Protocol is applied by virtue of a declaration by that State under this Article, shall be treated as separate territories for the purpose of the references in Articles 2 and 3 to the territory of a State.
+4\. The territory of any State to which this Protocol applies by virtue of ratification or acceptance by that State, and each territory to which this Protocol is applied by virtue of a declaration by that State under this Article, shall be treated as separate territories for the purpose of the references in Articles 2 and 3 to the territory of a State.
 
-5. Any State which has made a declaration in accordance with paragraph 1 or 2 of this Article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided in Article 34 of the Convention in respect of all or any of Articles 1 to 4 of this Protocol.
+5\. Any State which has made a declaration in accordance with paragraph 1 or 2 of this Article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided in Article 34 of the Convention in respect of all or any of Articles 1 to 4 of this Protocol.
 
 ### Art 6. Relationship to the Convention
 
@@ -562,13 +588,21 @@ As between the High Contracting Parties the provisions of Articles 1 to 5 of thi
 
 ### Art 7. Signature and ratification
 
-1. This Protocol shall be open for signature by the Members of the Council of Europe who are the signatories of the Convention; it shall be ratified at the same time as or after the ratification of the Convention. It shall enter into force after the deposit of five instruments of ratification. As regards any signatory ratifying subsequently, the Protocol shall enter into force at the date of the deposit of its instrument of ratification.
+1\. This Protocol shall be open for signature by the Members of the Council of Europe who are the signatories of the Convention; it shall be ratified at the same time as or after the ratification of the Convention. It shall enter into force after the deposit of five instruments of ratification. As regards any signatory ratifying subsequently, the Protocol shall enter into force at the date of the deposit of its instrument of ratification.
 
-2. The instruments of ratification shall be deposited with the Secretary General of the Council of Europe, who will notify all Members of the names of those who have ratified.
+2\. The instruments of ratification shall be deposited with the Secretary General of the Council of Europe, who will notify all Members of the names of those who have ratified.
+
+In witness whereof, the undersigned, being duly authorised thereto, have signed this Protocol.
 
 Done at Strasbourg, this 16th day of September 1963, in English and in French, both texts being equally authoritative, in a single copy which shall remain deposited in the archives of the Council of Europe. The Secretary General shall transmit certified copies to each of the signatory States.
 
 ### Protocol no. 6 to the Convention for the Protection of Human Rights and Fundamental Freedoms, Concerning the Abolition of the Death Penalty
+
+Strasbourg, 28 April 1983
+
+Entry into force 1 March 1985.
+
+The member States of the Council of Europe, signatory to this Protocol to the Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 (hereinafter referred to as «the Convention»),
 
 Considering that the evolution that has occurred in several member States of the Council of Europe expresses a general tendency in favour of abolition of the death penalty,
 
@@ -592,11 +626,11 @@ No reservation may be made under Article 57 of the Convention in respect of the 
 
 ### Art 5. Territorial application
 
-1. Any State may at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply.
+1\. Any State may at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply.
 
-2. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the date of receipt of such a declaration by the Secretary General.
+2\. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the date of receipt of such a declaration by the Secretary General.
 
-3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the date of receipt of such notification by the Secretary General.
+3\. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the date of receipt of such notification by the Secretary General.
 
 ### Art 6. Relationship to the Convention
 
@@ -608,17 +642,25 @@ This Protocol shall be open for signature by the member States of the Council of
 
 ### Art 8. Entry into force
 
-1. This Protocol shall enter into force on the first day of the month following the date on which five member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 7.
+1\. This Protocol shall enter into force on the first day of the month following the date on which five member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 7.
 
-2. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the date of the deposit of the instrument of ratification, acceptance or approval.
+2\. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the date of the deposit of the instrument of ratification, acceptance or approval.
 
 ### Art 9. Depositary functions
 
 The Secretary General of the Council of Europe shall notify the member States of the Council of:any signature;the deposit of any instrument of ratification, acceptance or approval;any date of entry into force of this Protocol in accordance with Articles 5 and 8;any other act, notification or communication relating to this Protocol.
 
+In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.
+
 Done at Strasbourg, this 28th day of April 1983, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe.
 
 ### Protocol no. 7 to the Convention for the Protection of Human Rights and Fundamental Freedoms
+
+Strasbourg, 22 November 1984
+
+Entry into force 1 November 1988
+
+The member States of the Council of Europe signatory hereto,
 
 Being resolved to take further steps to ensure the collective enforcement of certain rights and freedoms by means of the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4 November 1950 (hereinafter referred to as «the Convention»),
 
@@ -626,15 +668,15 @@ Have agreed as follows:
 
 ### Art 1. Procedural safeguards relating to expulsion of aliens
 
-1. An alien lawfully resident in the territory of a State shall not be expelled therefrom except in pursuance of a decision reached in accordance with law and shall be allowed:to submit reasons against his expulsion,to have his case reviewed, andto be represented for these purposes before the competent authority or a person or persons designated by that authority.
+1\. An alien lawfully resident in the territory of a State shall not be expelled therefrom except in pursuance of a decision reached in accordance with law and shall be allowed:to submit reasons against his expulsion,to have his case reviewed, andto be represented for these purposes before the competent authority or a person or persons designated by that authority.
 
-2. An alien may be expelled before the exercise of his rights under paragraph 1.a, b and c of this Article, when such expulsion is necessary in the interests of public order or is grounded on reasons of national security.
+2\. An alien may be expelled before the exercise of his rights under paragraph 1.a, b and c of this Article, when such expulsion is necessary in the interests of public order or is grounded on reasons of national security.
 
 ### Art 2. Right of appeal in criminal matters
 
-1. Everyone convicted of a criminal offence by a tribunal shall have the right to have his conviction or sentence reviewed by a higher tribunal. The exercise of this right, including the grounds on which it may be exercised, shall be governed by law.
+1\. Everyone convicted of a criminal offence by a tribunal shall have the right to have his conviction or sentence reviewed by a higher tribunal. The exercise of this right, including the grounds on which it may be exercised, shall be governed by law.
 
-2. This right may be subject to exceptions in regard to offences of a minor character, as prescribed by law, or in cases in which the person concerned was tried in the first instance by the highest tribunal or was convicted following an appeal against acquittal.
+2\. This right may be subject to exceptions in regard to offences of a minor character, as prescribed by law, or in cases in which the person concerned was tried in the first instance by the highest tribunal or was convicted following an appeal against acquittal.
 
 ### Art 3. Compensation for wrongful conviction
 
@@ -642,11 +684,11 @@ When a person has by a final decision been convicted of a criminal offence and w
 
 ### Art 4. Right not to be tried or punished twice
 
-1. No one shall be liable to be tried or punished again in criminal proceedings under the jurisdiction of the same State for an offence for which he has already been finally acquitted or convicted in accordance with the law and penal procedure of that State.
+1\. No one shall be liable to be tried or punished again in criminal proceedings under the jurisdiction of the same State for an offence for which he has already been finally acquitted or convicted in accordance with the law and penal procedure of that State.
 
-2. The provisions of the preceding paragraph shall not prevent the reopening of the case in accordance with the law and penal procedure of the State concerned, if there is evidence of new or newly discovered facts, or if there has been a fundamental defect in the previous proceedings, which could affect the outcome of the case.
+2\. The provisions of the preceding paragraph shall not prevent the reopening of the case in accordance with the law and penal procedure of the State concerned, if there is evidence of new or newly discovered facts, or if there has been a fundamental defect in the previous proceedings, which could affect the outcome of the case.
 
-3. No derogation from this Article shall be made under Article 15 of the Convention.
+3\. No derogation from this Article shall be made under Article 15 of the Convention.
 
 ### Art 5. Equality between spouses
 
@@ -654,17 +696,17 @@ Spouses shall enjoy equality of rights and responsibilities of a private law cha
 
 ### Art 6. Territorial application
 
-1. Any State may at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply and state the extent to which it undertakes that the provisions of this Protocol shall apply to such territory or territories.
+1\. Any State may at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply and state the extent to which it undertakes that the provisions of this Protocol shall apply to such territory or territories.
 
-2. Any State may at any later day, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date of receipt by the Secretary General of such declaration.
+2\. Any State may at any later day, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date of receipt by the Secretary General of such declaration.
 
-3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn or modified by a notification addressed to the Secretary General. The withdrawal or modification shall become effective on the first day of the month following the expiration of a period of two months after the date of receipt of such notification by the Secretary General.
+3\. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn or modified by a notification addressed to the Secretary General. The withdrawal or modification shall become effective on the first day of the month following the expiration of a period of two months after the date of receipt of such notification by the Secretary General.
 
-4. A declaration made in accordance with this Article shall be deemed to have been made in accordance with paragraph 1 of Article 56 of the Convention.
+4\. A declaration made in accordance with this Article shall be deemed to have been made in accordance with paragraph 1 of Article 56 of the Convention.
 
-5. The territory of any State to which this Protocol applies by virtue of ratification, acceptance or approval by that State, and each territory to which this Protocol is applied by virtue of a declaration by that State under this Article, may be treated as separate territories for the purpose of the reference in Article 1 to the territory of a State.
+5\. The territory of any State to which this Protocol applies by virtue of ratification, acceptance or approval by that State, and each territory to which this Protocol is applied by virtue of a declaration by that State under this Article, may be treated as separate territories for the purpose of the reference in Article 1 to the territory of a State.
 
-6. Any State which has made a declaration in accordance with paragraph 1 or 2 of this Article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided in Article 34 of the Convention in respect of Articles 1 to 5 of the Protocol.
+6\. Any State which has made a declaration in accordance with paragraph 1 or 2 of this Article may at any time thereafter declare on behalf of one or more of the territories to which the declaration relates that it accepts the competence of the Court to receive applications from individuals, non-governmental organisations or groups of individuals as provided in Article 34 of the Convention in respect of Articles 1 to 5 of the Protocol.
 
 ### Art 7. Relationship to the Convention
 
@@ -676,17 +718,23 @@ This Protocol shall be open for signature by member States of the Council of Eur
 
 ### Art 9. Entry into force
 
-1. This Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date on which seven member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 8.
+1\. This Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date on which seven member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 8.
 
-2. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date of the deposit of the instrument of ratification, acceptance or approval.
+2\. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of two months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
 ### Art 10. Depositary functions
 
 The Secretary General of the Council of Europe shall notify all the member States of the Council of Europe of:any signature;the deposit of any instrument of ratification, acceptance or approval;any date of entry into force of this Protocol in accordance with Articles 6 and 9;any other act, notification or declaration relating to this Protocol.
 
+In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.
+
 Done at Strasbourg, this 22nd day of November 1984, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe.
 
 ### Protocol No. 13 to the Convention for the Protection of Human Rights and Fundamental Freedoms, concerning the Abolition of the Death Penalty in All Circumstances
+
+Vilnius, 3.V.2002
+
+The member States of the Council of Europe signatory hereto,
 
 Convinced that everyone's right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings;
 
@@ -712,11 +760,11 @@ No reservation may be made under Article 57 of the Convention in respect of the 
 
 ### Art 4. Territorial application
 
-1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply.
+1\. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply.
 
-2. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
+2\. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
 
-3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn or modified by a notification addressed to the Secretary General. The withdrawal or modification shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
+3\. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn or modified by a notification addressed to the Secretary General. The withdrawal or modification shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
 ### Art 5. Relationship to the Convention
 
@@ -728,19 +776,29 @@ This Protocol shall be open for signature by member States of the Council of Eur
 
 ### Art 7. Entry into force
 
-1. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which ten member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 6.
+1\. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which ten member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 6.
 
-2. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
+2\. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
 ### Art 8. Depositary functions
 
 The Secretary General of the Council of Europe shall notify all the member States of the Council of Europe of:any signature;the deposit of any instrument of ratification, acceptance or approval;any date of entry into force of this Protocol in accordance with Articles 4 and 7;any other act, notification or communication relating to this Protocol.
 
+In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.
+
 Done at Vilnius, this 3 May 2002, in English and in French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe.
 
 ## Vedlegg 2. Den europeiske menneskerettskonvensjon med protokoller (norsk oversettelse)1
 
+1 Teksten er for Norges del endret i samsvar med bestemmelsene i protokoll 15, som trådte ikr. 1 august 2021. (Protokoll 15 har tatt opp i seg tidligere endringsprotokoller, herunder protokollene 2, 3, 5, 8, 9, 11 og 14).
+
 ### Konvensjon om beskyttelse av menneskerettighetene og de grunnleggende friheter
+
+Roma 4. november 1950
+
+I kraft 3. september 1953
+
+Undertegnede regjeringer, medlemmer av Europarådet,
 
 som tar i betraktning Verdenserklæringen om menneskerettighetene, kunngjort av De forente nasjoners generalforsamling den 10. desember 1948;
 
@@ -764,9 +822,9 @@ De høye Kontraherende Parter skal sikre enhver innen sitt myndighetsområde de 
 
 ### Art 2. Retten til liv
 
-1. Retten for enhver til livet skal beskyttes ved lov. Ingen må med hensikt bli berøvet livet unntatt ved fullbyrdelse av en dom avsagt av en domstol etter å være funnet skyldig i en forbrytelse som loven bestemmer denne straff for.
+1\. Retten for enhver til livet skal beskyttes ved lov. Ingen må med hensikt bli berøvet livet unntatt ved fullbyrdelse av en dom avsagt av en domstol etter å være funnet skyldig i en forbrytelse som loven bestemmer denne straff for.
 
-2. Berøvelse av liv skal ikke anses å være skjedd i strid med denne artikkel når den er en følge av en bruk av makt som ikke går lenger enn absolutt nødvendig:for å forsvare en person mot ulovlig vold;for å foreta en lovlig pågripelse eller for å hindre en person som holdes i lovlig forvaring i å flykte;å slå ned opptøyer eller opprør på lovlig måte.
+2\. Berøvelse av liv skal ikke anses å være skjedd i strid med denne artikkel når den er en følge av en bruk av makt som ikke går lenger enn absolutt nødvendig:for å forsvare en person mot ulovlig vold;for å foreta en lovlig pågripelse eller for å hindre en person som holdes i lovlig forvaring i å flykte;å slå ned opptøyer eller opprør på lovlig måte.
 
 ### Art 3. Forbud mot tortur
 
@@ -774,61 +832,61 @@ Ingen må bli utsatt for tortur eller for umenneskelig eller nedverdigende behan
 
 ### Art 4. Forbud mot slaveri og tvangsarbeid
 
-1. Ingen må bli holdt i slaveri eller trelldom.
+1\. Ingen må bli holdt i slaveri eller trelldom.
 
-2. Ingen må bli pålagt å utføre tvangsarbeid eller påtvunget arbeid.
+2\. Ingen må bli pålagt å utføre tvangsarbeid eller påtvunget arbeid.
 
-3. I denne artikkel skal uttrykket «tvangsarbeid eller påtvunget arbeid» ikke omfatte:arbeid som kreves utført under det vanlige forløp av frihetsberøvelse iverksatt i samsvar med bestemmelsene i artikkel 5 i denne konvensjon eller under betinget løslatelse fra slik frihetsberøvelse;tjeneste av militær art eller, i land hvor nekting av samvittighetsgrunner er anerkjent, tjeneste som er pålagt istedenfor tvungen militærtjeneste;tjeneste som blir pålagt i tilfelle av en nødstilstand eller ulykke som truer samfunnets liv eller velferd;arbeid eller tjeneste som hører til vanlige borgerplikter.
+3\. I denne artikkel skal uttrykket «tvangsarbeid eller påtvunget arbeid» ikke omfatte:arbeid som kreves utført under det vanlige forløp av frihetsberøvelse iverksatt i samsvar med bestemmelsene i artikkel 5 i denne konvensjon eller under betinget løslatelse fra slik frihetsberøvelse;tjeneste av militær art eller, i land hvor nekting av samvittighetsgrunner er anerkjent, tjeneste som er pålagt istedenfor tvungen militærtjeneste;tjeneste som blir pålagt i tilfelle av en nødstilstand eller ulykke som truer samfunnets liv eller velferd;arbeid eller tjeneste som hører til vanlige borgerplikter.
 
 ### Art 5. Retten til frihet og sikkerhet
 
-1. Enhver har rett til personlig frihet og sikkerhet. Ingen må bli berøvet sin frihet unntatt i følgende tilfelle og i samsvar med en framgangsmåte foreskrevet ved lov:lovlig frihetsberøvelse av en person som er domfelt av en kompetent domstol;lovlig pågripelse eller frihetsberøvelse av en person som ikke har etterkommet et lovlig pålegg av en domstol eller for å sikre at en forpliktelse foreskrevet ved lov, blir oppfylt;lovlig pågripelse eller frihetsberøvelse av en person for å stille ham for den kompetente rettslige myndighet på grunn av rimelig mistanke om at han har begått en straffbar handling, eller når det er rimelig grunn til å anse dette nødvendig for å hindre ham i å begå en straffbar handling eller i å flykte etter å ha gjort det;frihetsberøvelse av en mindreårig ved lovlig pålegg for å føre tilsyn med hans oppdragelse, eller for å bringe ham for den kompetente rettslige myndighet;lovlig frihetsberøvelse av personer for å hindre spredning av smittsomme sykdommer, av sinnslidende, alkoholister, narkomane eller løsgjengere;lovlig pågripelse eller frihetsberøvelse av en person for å hindre at han kommer inn i landet uten tillatelse, eller av en person som det treffes tiltak mot med sikte på utsendelse eller utlevering.
+1\. Enhver har rett til personlig frihet og sikkerhet. Ingen må bli berøvet sin frihet unntatt i følgende tilfelle og i samsvar med en framgangsmåte foreskrevet ved lov:lovlig frihetsberøvelse av en person som er domfelt av en kompetent domstol;lovlig pågripelse eller frihetsberøvelse av en person som ikke har etterkommet et lovlig pålegg av en domstol eller for å sikre at en forpliktelse foreskrevet ved lov, blir oppfylt;lovlig pågripelse eller frihetsberøvelse av en person for å stille ham for den kompetente rettslige myndighet på grunn av rimelig mistanke om at han har begått en straffbar handling, eller når det er rimelig grunn til å anse dette nødvendig for å hindre ham i å begå en straffbar handling eller i å flykte etter å ha gjort det;frihetsberøvelse av en mindreårig ved lovlig pålegg for å føre tilsyn med hans oppdragelse, eller for å bringe ham for den kompetente rettslige myndighet;lovlig frihetsberøvelse av personer for å hindre spredning av smittsomme sykdommer, av sinnslidende, alkoholister, narkomane eller løsgjengere;lovlig pågripelse eller frihetsberøvelse av en person for å hindre at han kommer inn i landet uten tillatelse, eller av en person som det treffes tiltak mot med sikte på utsendelse eller utlevering.
 
-2. Enhver som blir pågrepet, skal straks bli underrettet på et språk han forstår, om grunnene til pågripelsen og om eventuell siktelse mot ham.
+2\. Enhver som blir pågrepet, skal straks bli underrettet på et språk han forstår, om grunnene til pågripelsen og om eventuell siktelse mot ham.
 
-3. Enhver som blir pågrepet eller berøvet friheten i samsvar med bestemmelsene i avsnitt 1.c. i denne artikkel, skal straks bli stilt for en dommer eller annen embetsmann som ved lov er bemyndiget til å utøve domsmyndighet, og skal ha rett til hovedforhandling innen rimelig tid eller til løslatelse under saksforberedelsen. Løslatelse kan gjøres betinget av sikkerhet for frammøte ved hovedforhandling.
+3\. Enhver som blir pågrepet eller berøvet friheten i samsvar med bestemmelsene i avsnitt 1.c. i denne artikkel, skal straks bli stilt for en dommer eller annen embetsmann som ved lov er bemyndiget til å utøve domsmyndighet, og skal ha rett til hovedforhandling innen rimelig tid eller til løslatelse under saksforberedelsen. Løslatelse kan gjøres betinget av sikkerhet for frammøte ved hovedforhandling.
 
-4. Enhver som er pågrepet eller berøvet sin frihet, skal ha rett til å anlegge sak slik at lovligheten av frihetsberøvelsen raskt skal bli avgjort av en domstol, og at hans løslatelse blir beordret dersom frihetsberøvelsen er ulovlig.
+4\. Enhver som er pågrepet eller berøvet sin frihet, skal ha rett til å anlegge sak slik at lovligheten av frihetsberøvelsen raskt skal bli avgjort av en domstol, og at hans løslatelse blir beordret dersom frihetsberøvelsen er ulovlig.
 
-5. Enhver som har vært offer for pågripelse eller frihetsberøvelse i strid med bestemmelsene i denne artikkel, skal ha rett til erstatning som kan inndrives.
+5\. Enhver som har vært offer for pågripelse eller frihetsberøvelse i strid med bestemmelsene i denne artikkel, skal ha rett til erstatning som kan inndrives.
 
 ### Art 6. Retten til en rettferdig rettergang
 
-1. For å få avgjort sine borgerlige rettigheter og plikter eller en straffesiktelse mot seg, har enhver rett til en rettferdig og offentlig rettergang innen rimelig tid ved en uavhengig og upartisk domstol opprettet ved lov. Dommen skal avsis offentlig, men pressen og offentligheten kan bli utelukket fra hele eller deler av rettsforhandlingene av hensyn til moralen, den offentlige orden eller den nasjonale sikkerhet i et demokratisk samfunn, når hensynet til ungdom eller partenes privatliv krever det, eller i den utstrekning det etter rettens mening er strengt nødvendig under spesielle omstendigheter der offentlighet ville skade rettferdighetens interesser.
+1\. For å få avgjort sine borgerlige rettigheter og plikter eller en straffesiktelse mot seg, har enhver rett til en rettferdig og offentlig rettergang innen rimelig tid ved en uavhengig og upartisk domstol opprettet ved lov. Dommen skal avsis offentlig, men pressen og offentligheten kan bli utelukket fra hele eller deler av rettsforhandlingene av hensyn til moralen, den offentlige orden eller den nasjonale sikkerhet i et demokratisk samfunn, når hensynet til ungdom eller partenes privatliv krever det, eller i den utstrekning det etter rettens mening er strengt nødvendig under spesielle omstendigheter der offentlighet ville skade rettferdighetens interesser.
 
-2. Enhver som blir siktet for en straffbar handling, skal antas uskyldig inntil skyld er bevist etter loven.
+2\. Enhver som blir siktet for en straffbar handling, skal antas uskyldig inntil skyld er bevist etter loven.
 
-3. Enhver som blir siktet for en straffbar handling, skal ha følgende minsterettigheter:å bli underrettet straks, i et språk han forstår og i enkeltheter, om innholdet i og grunnen til siktelsen mot ham;å få tilstrekkelig tid og muligheter til å forberede sitt forsvar;å forsvare seg personlig eller med rettslig bistand etter eget valg eller, dersom han ikke har tilstrekkelige midler til å betale for rettslig bistand, å motta den vederlagsfritt når dette kreves i rettferdighetens interesse;å avhøre eller la avhøre vitner som blir ført mot ham, og få innkalt og avhørt vitner på hans vegne under samme vilkår som vitner ført mot ham;å ha vederlagsfri bistand av en tolk hvis han ikke kan forstå eller tale det språk som blir brukt i retten.
+3\. Enhver som blir siktet for en straffbar handling, skal ha følgende minsterettigheter:å bli underrettet straks, i et språk han forstår og i enkeltheter, om innholdet i og grunnen til siktelsen mot ham;å få tilstrekkelig tid og muligheter til å forberede sitt forsvar;å forsvare seg personlig eller med rettslig bistand etter eget valg eller, dersom han ikke har tilstrekkelige midler til å betale for rettslig bistand, å motta den vederlagsfritt når dette kreves i rettferdighetens interesse;å avhøre eller la avhøre vitner som blir ført mot ham, og få innkalt og avhørt vitner på hans vegne under samme vilkår som vitner ført mot ham;å ha vederlagsfri bistand av en tolk hvis han ikke kan forstå eller tale det språk som blir brukt i retten.
 
 ### Art 7. Ingen straff uten lov
 
-1. Ingen skal bli funnet skyldig i en straffbar handling på grunn av noen gjerning eller unnlatelse som ikke utgjorde en straffbar handling etter nasjonal eller internasjonal rett på den tid da den ble begått. Heller ikke skal en strengere straff bli idømt enn den som gjaldt på den tid da den straffbare handling ble begått.
+1\. Ingen skal bli funnet skyldig i en straffbar handling på grunn av noen gjerning eller unnlatelse som ikke utgjorde en straffbar handling etter nasjonal eller internasjonal rett på den tid da den ble begått. Heller ikke skal en strengere straff bli idømt enn den som gjaldt på den tid da den straffbare handling ble begått.
 
-2. Denne artikkel skal ikke være til hinder for dom og straff over en person for gjerning eller unnlatelse som, da den ble begått, var straffbar etter de alminnelige rettsprinsipper anerkjent av siviliserte nasjoner.
+2\. Denne artikkel skal ikke være til hinder for dom og straff over en person for gjerning eller unnlatelse som, da den ble begått, var straffbar etter de alminnelige rettsprinsipper anerkjent av siviliserte nasjoner.
 
 ### Art 8. Retten til respekt for privatliv og familieliv
 
-1. Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin korrespondanse.
+1\. Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin korrespondanse.
 
-2. Det skal ikke skje noe inngrep av offentlig myndighet i utøvelsen av denne rettighet unntatt når dette er i samsvar med loven og er nødvendig i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske velferd, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter.
+2\. Det skal ikke skje noe inngrep av offentlig myndighet i utøvelsen av denne rettighet unntatt når dette er i samsvar med loven og er nødvendig i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, offentlige trygghet eller landets økonomiske velferd, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter.
 
 ### Art 9. Tanke-, samvittighets- og religionsfrihet
 
-1. Enhver har rett til tankefrihet, samvittighetsfrihet og religionsfrihet; denne rett omfatter frihet til å skifte sin religion eller overbevisning, og frihet til enten alene eller sammen med andre og såvel offentlig som privat å gi uttrykk for sin religion eller overbevisning, ved tilbedelse, undervisning, praksis og etterlevelse.
+1\. Enhver har rett til tankefrihet, samvittighetsfrihet og religionsfrihet; denne rett omfatter frihet til å skifte sin religion eller overbevisning, og frihet til enten alene eller sammen med andre og såvel offentlig som privat å gi uttrykk for sin religion eller overbevisning, ved tilbedelse, undervisning, praksis og etterlevelse.
 
-2. Frihet til å gi uttrykk for sin religion eller overbevisning skal bare bli undergitt slike begrensninger som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til den offentlige trygghet, for å beskytte den offentlige orden, helse eller moral, eller for å beskytte andres rettigheter og friheter.
+2\. Frihet til å gi uttrykk for sin religion eller overbevisning skal bare bli undergitt slike begrensninger som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til den offentlige trygghet, for å beskytte den offentlige orden, helse eller moral, eller for å beskytte andres rettigheter og friheter.
 
 ### Art 10. Ytringsfrihet
 
-1. Enhver har rett til ytringsfrihet. Denne rett skal omfatte frihet til å ha meninger og til å motta og meddele opplysninger og ideer uten inngrep av offentlig myndighet og uten hensyn til grenser. Denne artikkel skal ikke hindre stater fra å kreve lisensiering av kringkasting, fjernsyn eller kinoforetak.
+1\. Enhver har rett til ytringsfrihet. Denne rett skal omfatte frihet til å ha meninger og til å motta og meddele opplysninger og ideer uten inngrep av offentlig myndighet og uten hensyn til grenser. Denne artikkel skal ikke hindre stater fra å kreve lisensiering av kringkasting, fjernsyn eller kinoforetak.
 
-2. Fordi utøvelsen av disse friheter medfører plikter og ansvar, kan den bli undergitt slike formregler, vilkår, innskrenkninger eller straffer som er foreskrevet ved lov og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, territoriale integritet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, for å verne andres omdømme eller rettigheter, for å forebygge at fortrolige opplysninger blir røpet, eller for å bevare domstolenes autoritet og upartiskhet.
+2\. Fordi utøvelsen av disse friheter medfører plikter og ansvar, kan den bli undergitt slike formregler, vilkår, innskrenkninger eller straffer som er foreskrevet ved lov og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet, territoriale integritet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral, for å verne andres omdømme eller rettigheter, for å forebygge at fortrolige opplysninger blir røpet, eller for å bevare domstolenes autoritet og upartiskhet.
 
 ### Art 11. Forsamlings- og foreningsfrihet
 
-1. Enhver har rett til fritt å delta i fredelige forsamlinger og til frihet til forening med andre, herunder rett til å danne og slutte seg til fagforeninger for å verne sine interesser.
+1\. Enhver har rett til fritt å delta i fredelige forsamlinger og til frihet til forening med andre, herunder rett til å danne og slutte seg til fagforeninger for å verne sine interesser.
 
-2. Utøvelsen av disse rettigheter skal ikke bli undergitt andre innskrenkninger enn de som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral eller for å beskytte andres rettigheter og friheter. Denne artikkel skal ikke hindre at lovlige innskrenkninger blir pålagt utøvelsen av disse rettigheter for medlemmene av de væpnede styrker, av politiet og av statsforvaltningen.
+2\. Utøvelsen av disse rettigheter skal ikke bli undergitt andre innskrenkninger enn de som er foreskrevet ved lov og er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller offentlige trygghet, for å forebygge uorden eller kriminalitet, for å beskytte helse eller moral eller for å beskytte andres rettigheter og friheter. Denne artikkel skal ikke hindre at lovlige innskrenkninger blir pålagt utøvelsen av disse rettigheter for medlemmene av de væpnede styrker, av politiet og av statsforvaltningen.
 
 ### Art 12. Retten til å inngå ekteskap
 
@@ -844,11 +902,11 @@ Utøvelsen av de rettigheter og friheter som er fastlagt i denne konvensjon skal
 
 ### Art 15. Fravikelser i krisesituasjoner
 
-1. Under krig eller annen offentlig nødstilstand som truer nasjonens liv, kan enhver høy Kontraherende Part treffe tiltak som fraviker dens plikter ifølge denne konvensjon i den utstrekning situasjonens krav gjør det strengt nødvendig, forutsatt at slike tiltak ikke er uforenlige med dens andre plikter etter internasjonal rett.
+1\. Under krig eller annen offentlig nødstilstand som truer nasjonens liv, kan enhver høy Kontraherende Part treffe tiltak som fraviker dens plikter ifølge denne konvensjon i den utstrekning situasjonens krav gjør det strengt nødvendig, forutsatt at slike tiltak ikke er uforenlige med dens andre plikter etter internasjonal rett.
 
-2. Intet fravik fra artikkel 2, unntatt med hensyn til død som følger av lovlige krigshandlinger, eller fra artiklene 3, 4 (avsnitt 1) og 7 skal bli gjort etter denne bestemmelse.
+2\. Intet fravik fra artikkel 2, unntatt med hensyn til død som følger av lovlige krigshandlinger, eller fra artiklene 3, 4 (avsnitt 1) og 7 skal bli gjort etter denne bestemmelse.
 
-3. Enhver høy Kontraherende Part som benytter seg av denne rett til å gjøre fravik, skal holde Europarådets Generalsekretær fullt underrettet om de tiltak som den har truffet og om grunnene til dette. Den skal også underrette Europarådets Generalsekretær når slike tiltak er brakt til opphør og konvensjonens bestemmelser igjen blir fullt ut oppfylt.
+3\. Enhver høy Kontraherende Part som benytter seg av denne rett til å gjøre fravik, skal holde Europarådets Generalsekretær fullt underrettet om de tiltak som den har truffet og om grunnene til dette. Den skal også underrette Europarådets Generalsekretær når slike tiltak er brakt til opphør og konvensjonens bestemmelser igjen blir fullt ut oppfylt.
 
 ### Art 16. Begrensninger i utlendingers politiske virksomhet
 
@@ -874,37 +932,37 @@ Domstolen skal bestå av et antall dommere som tilsvarer antall høye Kontrahere
 
 ### Art 21. Embetskrav
 
-1. Dommerne skal ha høy moralsk karakter og må enten sitte inne med de kvalifikasjoner som kreves for å bli utnevnt til høye juridiske embeter, eller være rettskyndige personer med anerkjent kompetanse.
+1\. Dommerne skal ha høy moralsk karakter og må enten sitte inne med de kvalifikasjoner som kreves for å bli utnevnt til høye juridiske embeter, eller være rettskyndige personer med anerkjent kompetanse.
 
-2. Kandidatene skal være under 65 år på den dato Parlamentarikerforsamlingen har satt som frist for å motta listen med de tre kandidatene, i henhold til artikkel 22.
+2\. Kandidatene skal være under 65 år på den dato Parlamentarikerforsamlingen har satt som frist for å motta listen med de tre kandidatene, i henhold til artikkel 22.
 
-3. Dommerne skal ta sete i Domstolen som privatpersoner.
+3\. Dommerne skal ta sete i Domstolen som privatpersoner.
 
-4. I sin embetsperiode skal dommerne ikke delta i noen virksomhet som er uforenlig med deres uavhengige og upartiske stilling, eller med de krav et heltidsembete medfører. Alle spørsmål som oppstår ved anvendelsen av dette avsnitt skal avgjøres av Domstolen.
+4\. I sin embetsperiode skal dommerne ikke delta i noen virksomhet som er uforenlig med deres uavhengige og upartiske stilling, eller med de krav et heltidsembete medfører. Alle spørsmål som oppstår ved anvendelsen av dette avsnitt skal avgjøres av Domstolen.
 
 > Endret ved protokoll nr. 15 til EMK ([lov 9 mai 2014 nr. 14](lov/2014-05-09-14), ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1966](forskrift/2021-06-18-1966)).
 
 ### Art 22. Valg av dommere
 
-1. Parlamentarikerforsamlingen skal med alminnelig flertall velge en dommer fra hver høy Kontraherende Part ut fra en liste på tre kandidater som den høye Kontraherende Parten nominerer.
+1\. Parlamentarikerforsamlingen skal med alminnelig flertall velge en dommer fra hver høy Kontraherende Part ut fra en liste på tre kandidater som den høye Kontraherende Parten nominerer.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 ### Art 23. Embetsperioder og avskjedigelse
 
-1. Dommerne velges for et tidsrom på ni år. De kan ikke gjenvelges.
+1\. Dommerne velges for et tidsrom på ni år. De kan ikke gjenvelges.
 
-2. Dommerne skal sitte i sine embeter til de skiftes ut. De skal imidlertid fortsatt behandle saker som de allerede har til vurdering.
+2\. Dommerne skal sitte i sine embeter til de skiftes ut. De skal imidlertid fortsatt behandle saker som de allerede har til vurdering.
 
-3. En dommer kan ikke avskjediges fra embetet med mindre de øvrige dommerne med to tredjedels flertall avgjør at vedkommende ikke lenger oppfyller de fastsatte krav.
+3\. En dommer kan ikke avskjediges fra embetet med mindre de øvrige dommerne med to tredjedels flertall avgjør at vedkommende ikke lenger oppfyller de fastsatte krav.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)), protokoll nr. 15 til EMK ([lov 9 mai 2014 nr. 14](lov/2014-05-09-14), ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1966](forskrift/2021-06-18-1966)).
 
 ### Art 24. Justissekretariat og rapportører
 
-1. Domstolen skal ha et justissekretariat hvis funksjoner og organisering skal fastsettes i Domstolens forretningsorden.
+1\. Domstolen skal ha et justissekretariat hvis funksjoner og organisering skal fastsettes i Domstolens forretningsorden.
 
-2. Når Domstolen settes med enedommere, skal den bistås av rapportører som ved utøvelsen av sine funksjoner skal være underlagt Domstolens president. De skal utgjøre en del av Domstolens justissekretariat.
+2\. Når Domstolen settes med enedommere, skal den bistås av rapportører som ved utøvelsen av sine funksjoner skal være underlagt Domstolens president. De skal utgjøre en del av Domstolens justissekretariat.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)), endret artikkelnummer fra 25, tidligere artikkel 24 ble samtidig opphevet.
 
@@ -916,43 +974,43 @@ Domstolen i plenum skalvelge sin president og en eller to visepresidenter for en
 
 ### Art 26. Enedommere, komiteer, kamre og storkammer
 
-1. Når Domstolen skal vurdere saker som er brakt inn for den, settes den med enedommere, komiteer på tre dommere, kamre på syv dommere og et storkammer på sytten dommere. Domstolens kamre skal nedsette komiteer for et fast tidsrom.
+1\. Når Domstolen skal vurdere saker som er brakt inn for den, settes den med enedommere, komiteer på tre dommere, kamre på syv dommere og et storkammer på sytten dommere. Domstolens kamre skal nedsette komiteer for et fast tidsrom.
 
-2. På anmodning fra Domstolen i plenum kan Ministerkomiteen, ved enstemmig vedtak og for et fast tidsrom, redusere antall dommere i kamrene til fem.
+2\. På anmodning fra Domstolen i plenum kan Ministerkomiteen, ved enstemmig vedtak og for et fast tidsrom, redusere antall dommere i kamrene til fem.
 
-3. Når en dommer sitter som enedommer, skal vedkommende ikke behandle klager fremsatt mot den høye Kontraherende Part som vedkommende er valgt for.
+3\. Når en dommer sitter som enedommer, skal vedkommende ikke behandle klager fremsatt mot den høye Kontraherende Part som vedkommende er valgt for.
 
-4. Ex-officio-medlem av kammeret og storkammeret skal være den valgte dommer for den høye Kontraherende Part saken angår. Dersom ingen finnes eller vedkommende ikke kan møte, skal en person som Domstolens president har valgt fra en liste fremlagt på forhånd av vedkommende part, møte i egenskap av dommer.
+4\. Ex-officio-medlem av kammeret og storkammeret skal være den valgte dommer for den høye Kontraherende Part saken angår. Dersom ingen finnes eller vedkommende ikke kan møte, skal en person som Domstolens president har valgt fra en liste fremlagt på forhånd av vedkommende part, møte i egenskap av dommer.
 
-5. Storkammeret skal også omfatte presidenten for Domstolen, visepresidentene, presidentene for kamrene og andre dommere valgt i samsvar med forretningsordenen. Når en sak er henvist til storkammeret i henhold til artikkel 43, skal ingen dommer som satt i kammeret som avsa dommen, sitte i storkammeret, med unntak av kammerets president og den dommer som var valgt for vedkommende høye Kontraherende Part.
+5\. Storkammeret skal også omfatte presidenten for Domstolen, visepresidentene, presidentene for kamrene og andre dommere valgt i samsvar med forretningsordenen. Når en sak er henvist til storkammeret i henhold til artikkel 43, skal ingen dommer som satt i kammeret som avsa dommen, sitte i storkammeret, med unntak av kammerets president og den dommer som var valgt for vedkommende høye Kontraherende Part.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)), endret artikkelnummer fra 27.
 
 ### Art 27. Enedommeres kompetanse
 
-1. En enedommer kan beslutte å avvise eller stryke fra Domstolens saksliste en individklage innbrakt i henhold til artikkel 34 når slik beslutning kan treffes uten videre behandling.
+1\. En enedommer kan beslutte å avvise eller stryke fra Domstolens saksliste en individklage innbrakt i henhold til artikkel 34 når slik beslutning kan treffes uten videre behandling.
 
-2. Beslutningen skal være endelig.
+2\. Beslutningen skal være endelig.
 
-3. Dersom enedommeren beslutter ikke å avvise en individklage eller stryke den fra sakslisten, skal vedkommende videresende den til en komité eller et kammer til videre behandling.
+3\. Dersom enedommeren beslutter ikke å avvise en individklage eller stryke den fra sakslisten, skal vedkommende videresende den til en komité eller et kammer til videre behandling.
 
 > Tilføyd ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)), tidligere art 27 endret artikkelnummer til 26.
 
 ### Art 28. Komiteers kompetanse
 
-1. Ved individklager innbrakt i henhold til artikkel 34 kan en komité ved enstemmig vedtakbeslutte å avvise klagen eller stryke den fra sakslisten når slikt vedtak kan fattes uten videre behandling; ellerbeslutte at klagen kan prøves og samtidig avsi dom om realitetsspørsmålene i saken dersom sakens underliggende spørsmål om tolkningen eller anvendelsen av konvensjonen eller dens protokoller, allerede er gjenstand for etablert rettspraksis ved Domstolen.
+1\. Ved individklager innbrakt i henhold til artikkel 34 kan en komité ved enstemmig vedtakbeslutte å avvise klagen eller stryke den fra sakslisten når slikt vedtak kan fattes uten videre behandling; ellerbeslutte at klagen kan prøves og samtidig avsi dom om realitetsspørsmålene i saken dersom sakens underliggende spørsmål om tolkningen eller anvendelsen av konvensjonen eller dens protokoller, allerede er gjenstand for etablert rettspraksis ved Domstolen.
 
-2. Vedtak og dommer i henhold til avsnitt 1 skal være endelige.
+2\. Vedtak og dommer i henhold til avsnitt 1 skal være endelige.
 
-3. Dersom den valgte dommer for den høye Kontraherende Part saken angår, ikke er medlem av komiteen, kan komiteen på et hvilket som helst stadium i saksbehandlingen be vedkommende om å ta en av komitémedlemmenes plass, idet det tas hensyn til alle relevante faktorer, herunder om vedkommende part har hatt innsigelser mot å anvende fremgangsmåten i avsnitt 1.b.
+3\. Dersom den valgte dommer for den høye Kontraherende Part saken angår, ikke er medlem av komiteen, kan komiteen på et hvilket som helst stadium i saksbehandlingen be vedkommende om å ta en av komitémedlemmenes plass, idet det tas hensyn til alle relevante faktorer, herunder om vedkommende part har hatt innsigelser mot å anvende fremgangsmåten i avsnitt 1.b.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 ### Art 29. Avgjørelse i kamre om hvorvidt saker kan prøves, og om realitetsspørsmålene i sakene
 
-1. Dersom det ikke er fattet vedtak i henhold til artikkel 27 eller 28 eller avsagt dom i henhold til artikkel 28,skal et kammer avgjøre om individklager fremsatt i henhold til artikkel 34 kan prøves for Domstolen, og realitetene i saken. Vedtaket om hvorvidt saken kan prøves, kan fattes separat.
+1\. Dersom det ikke er fattet vedtak i henhold til artikkel 27 eller 28 eller avsagt dom i henhold til artikkel 28,skal et kammer avgjøre om individklager fremsatt i henhold til artikkel 34 kan prøves for Domstolen, og realitetene i saken. Vedtaket om hvorvidt saken kan prøves, kan fattes separat.
 
-2. Et kammer skal avgjøre om statsklager fremsatt i henhold til artikkel 33 kan prøves og realitetsspørsmålene i saken. Vedtak om hvorvidt saker kan prøves, skal fattes separat med mindre Domstolen unntaksvis bestemmer noe annet.
+2\. Et kammer skal avgjøre om statsklager fremsatt i henhold til artikkel 33 kan prøves og realitetsspørsmålene i saken. Vedtak om hvorvidt saker kan prøves, skal fattes separat med mindre Domstolen unntaksvis bestemmer noe annet.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
@@ -970,9 +1028,9 @@ Storkammeret skalavgjøre klager fremsatt i henhold til enten artikkel 33 eller 
 
 ### Art 32. Domstolens jurisdiksjon
 
-1. Domstolens jurisdiksjon skal omfatte alle saker angående tolkning og anvendelse av konvensjonen og dens protokoller som bringes inn for den som fastsatt i artiklene 33, 34, 46 og 47.
+1\. Domstolens jurisdiksjon skal omfatte alle saker angående tolkning og anvendelse av konvensjonen og dens protokoller som bringes inn for den som fastsatt i artiklene 33, 34, 46 og 47.
 
-2. I tilfelle tvist om hvorvidt Domstolen har jurisdiksjon, skal Domstolen avgjøre spørsmålet.
+2\. I tilfelle tvist om hvorvidt Domstolen har jurisdiksjon, skal Domstolen avgjøre spørsmålet.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
@@ -986,31 +1044,33 @@ Domstolen kan motta klager fra enhver person, frivillig organisasjon eller grupp
 
 ### Art 35. Saker som kan prøves
 
-1. Domstolen kan bare behandle en sak etter at alle nasjonale rettsmidler er uttømt, i samsvar med allment anerkjente folkerettslige regler, og innen et tidsrom på fire1 måneder etter at siste avgjørelse ble tatt.
+1\. Domstolen kan bare behandle en sak etter at alle nasjonale rettsmidler er uttømt, i samsvar med allment anerkjente folkerettslige regler, og innen et tidsrom på fire1 måneder etter at siste avgjørelse ble tatt.
 
-2. Domstolen skal ikke behandle en individklage som er innbrakt i samsvar med artikkel 34 og somer anonym, elleri det vesentlige er lik en sak som allerede er behandlet av Domstolen eller allerede har vært gjenstand for annen internasjonal undersøkelse eller avgjørelse og ikke inneholder nye relevante opplysninger.
+2\. Domstolen skal ikke behandle en individklage som er innbrakt i samsvar med artikkel 34 og somer anonym, elleri det vesentlige er lik en sak som allerede er behandlet av Domstolen eller allerede har vært gjenstand for annen internasjonal undersøkelse eller avgjørelse og ikke inneholder nye relevante opplysninger.
 
-3. Domstolen skal avvise en individklage fremsatt i samsvar med artikkel 34 dersom den finner atklagen er uforenlig med bestemmelsene i konvensjonen eller dens protokoller, er åpenbart grunnløs eller innebærer et misbruk av retten til å fremsette individklage; ellerklageren ikke har lidd noen ulempe av betydning, med mindre respekt for menneskerettighetene som definert i konvensjonen og dens protokoller krever at realitetsspørsmålene i saken blir behandlet.
+3\. Domstolen skal avvise en individklage fremsatt i samsvar med artikkel 34 dersom den finner atklagen er uforenlig med bestemmelsene i konvensjonen eller dens protokoller, er åpenbart grunnløs eller innebærer et misbruk av retten til å fremsette individklage; ellerklageren ikke har lidd noen ulempe av betydning, med mindre respekt for menneskerettighetene som definert i konvensjonen og dens protokoller krever at realitetsspørsmålene i saken blir behandlet.
 
-4. Domstolen skal avvise enhver klage som den ut fra denne artikkelen finner ikke å kunne prøve. Den kan gjøre dette på et hvilket som helst stadium i saksbehandlingen.
+4\. Domstolen skal avvise enhver klage som den ut fra denne artikkelen finner ikke å kunne prøve. Den kan gjøre dette på et hvilket som helst stadium i saksbehandlingen.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)), protokoll nr. 15 til EMK ([lov 9 mai 2014 nr. 14](lov/2014-05-09-14), ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1966](forskrift/2021-06-18-1966)), protokoll nr. 15 til EMK ([lov 9 mai 2014 nr. 14](lov/2014-05-09-14), ikr. 1 feb 2022 iflg. [res. 18 juni 2021 nr. 1966](forskrift/2021-06-18-1966)).
 
+1 Etter protokoll 15 til EMK artikkel 8(3) får endringen i klagefristen fra seks til fire måneder ikke anvendelse på klager der siste avgjørelse etter EMK artikkel 35(1) ble truffet før den dag protokollens artikkel 4 trådte i kraft, det vil si før 1. februar 2022.
+
 ### Art 36. Tredjepersoners adgang til å opptre i saken
 
-1. I alle saker som er til behandling i et kammer eller i storkammeret, skal en høy Kontraherende Part som en klager er statsborger av, ha rett til å legge frem skriftlige kommentarer og til å ta del i rettsmøtene.
+1\. I alle saker som er til behandling i et kammer eller i storkammeret, skal en høy Kontraherende Part som en klager er statsborger av, ha rett til å legge frem skriftlige kommentarer og til å ta del i rettsmøtene.
 
-2. Domstolens president kan av hensyn til rettspleien invitere enhver høy Kontraherende Part som ikke er part i rettsforhandlingene, eller enhver berørt person som ikke er klageren, til å legge frem skriftlige kommentarer eller å ta del i rettsmøtene.
+2\. Domstolens president kan av hensyn til rettspleien invitere enhver høy Kontraherende Part som ikke er part i rettsforhandlingene, eller enhver berørt person som ikke er klageren, til å legge frem skriftlige kommentarer eller å ta del i rettsmøtene.
 
-3. alle saker som er til behandling i et kammer eller i storkammeret, kan Europarådets kommissær for menneskerettigheter legge frem skriftlige kommentarer og ta del i rettsmøter.
+3\. alle saker som er til behandling i et kammer eller i storkammeret, kan Europarådets kommissær for menneskerettigheter legge frem skriftlige kommentarer og ta del i rettsmøter.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 ### Art 37. Stryking av klager
 
-1. Domstolen kan når som helst i saksbehandlingen vedta å stryke en klage fra sakslisten når det ut fra omstendighetene må sluttes atklageren ikke har til hensikt å følge opp klagen; ellersaken er løst; ellerDomstolen av andre grunner som den har fastslått, ikke lenger kan forsvare en videre behandling av klagen.Domstolen skal imidlertid fortsette behandlingen av klagen dersom respekten for menneskerettighetene som definert i konvensjonen og dens protokoller krever det.
+1\. Domstolen kan når som helst i saksbehandlingen vedta å stryke en klage fra sakslisten når det ut fra omstendighetene må sluttes atklageren ikke har til hensikt å følge opp klagen; ellersaken er løst; ellerDomstolen av andre grunner som den har fastslått, ikke lenger kan forsvare en videre behandling av klagen.Domstolen skal imidlertid fortsette behandlingen av klagen dersom respekten for menneskerettighetene som definert i konvensjonen og dens protokoller krever det.
 
-2. Domstolen kan beslutte å gjeninnsette en klage på sakslisten dersom den finner at omstendighetene rettferdiggjør en slik fremgangsmåte.
+2\. Domstolen kan beslutte å gjeninnsette en klage på sakslisten dersom den finner at omstendighetene rettferdiggjør en slik fremgangsmåte.
 
 ### Art 38. Behandling av saken
 
@@ -1020,21 +1080,21 @@ Domstolen skalbehandle saken sammen med representantene for partene, og om nødv
 
 ### Art 39. Forlik
 
-1. Domstolen kan på et hvilket som helst stadium i forhandlingene stille seg til disposisjon for de berørte parter med henblikk på å oppnå forlik i saken på grunnlag av respekt for menneskerettighetene som definert i konvensjonen og dens protokoller.
+1\. Domstolen kan på et hvilket som helst stadium i forhandlingene stille seg til disposisjon for de berørte parter med henblikk på å oppnå forlik i saken på grunnlag av respekt for menneskerettighetene som definert i konvensjonen og dens protokoller.
 
-2. Forhandlinger i henhold til avsnitt 1 skal være konfidensielle.
+2\. Forhandlinger i henhold til avsnitt 1 skal være konfidensielle.
 
-3. Dersom det inngås forlik, skal Domstolen stryke saken fra sakslisten gjennom et vedtak som skal være begrenset til en kort redegjørelse for kjensgjerningene og den oppnådde løsning.
+3\. Dersom det inngås forlik, skal Domstolen stryke saken fra sakslisten gjennom et vedtak som skal være begrenset til en kort redegjørelse for kjensgjerningene og den oppnådde løsning.
 
-4. Dette vedtak skal overleveres Ministerkomiteen, som skal ha tilsyn med gjennomføringen av forliksvilkårene fastsatt i vedtaket.
+4\. Dette vedtak skal overleveres Ministerkomiteen, som skal ha tilsyn med gjennomføringen av forliksvilkårene fastsatt i vedtaket.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 ### Art 40. Åpne rettsmøter og dokumentinnsyn
 
-1. Rettsmøtene skal være åpne med mindre Domstolen i særskilte tilfeller bestemmer noe annet.
+1\. Rettsmøtene skal være åpne med mindre Domstolen i særskilte tilfeller bestemmer noe annet.
 
-2. Dokumenter innlevert hos justissekretæren skal være åpne for offentlig innsyn med mindre presidenten for Domstolen bestemmer noe annet.
+2\. Dokumenter innlevert hos justissekretæren skal være åpne for offentlig innsyn med mindre presidenten for Domstolen bestemmer noe annet.
 
 ### Art 41. Rimelig erstatning
 
@@ -1046,47 +1106,47 @@ Dommer avsagt i kamrene skal bli endelige i henhold til bestemmelsene i Artikkel
 
 ### Art 43. Oversendelse til storkammeret
 
-1. Innen et tidsrom på tre måneder etter datoen for kammerets dom, kan en part i saken i særskilte tilfeller kreve saken oversendt til storkammeret.
+1\. Innen et tidsrom på tre måneder etter datoen for kammerets dom, kan en part i saken i særskilte tilfeller kreve saken oversendt til storkammeret.
 
-2. Et panel på fem dommere i storkammeret skal akseptere anmodningen dersom saken reiser et alvorlig spørsmål vedrørende tolkning eller anvendelse av konvensjonen og dens protokoller, eller et alvorlig spørsmål av allmenn betydning.
+2\. Et panel på fem dommere i storkammeret skal akseptere anmodningen dersom saken reiser et alvorlig spørsmål vedrørende tolkning eller anvendelse av konvensjonen og dens protokoller, eller et alvorlig spørsmål av allmenn betydning.
 
-3. Dersom panelet aksepterer kravet, skal storkammeret avgjøre saken ved dom.
+3\. Dersom panelet aksepterer kravet, skal storkammeret avgjøre saken ved dom.
 
 ### Art 44. Endelige dommer
 
-1. Storkammerets dom skal være endelig.
+1\. Storkammerets dom skal være endelig.
 
-2. Dom i et kammer skal bli endelignår partene erklærer at de ikke vil kreve at saken oversendes storkammeret; ellertre måneder etter domsavsigelsen, dersom det ikke er krevd oversendelse av saken til storkammeret; ellernår panelet i storkammeret avviser kravet om oversendelse etter artikkel 43.
+2\. Dom i et kammer skal bli endelignår partene erklærer at de ikke vil kreve at saken oversendes storkammeret; ellertre måneder etter domsavsigelsen, dersom det ikke er krevd oversendelse av saken til storkammeret; ellernår panelet i storkammeret avviser kravet om oversendelse etter artikkel 43.
 
-3. Den endelige dom skal offentliggjøres.
+3\. Den endelige dom skal offentliggjøres.
 
 ### Art 45. Begrunnelser for dommer og vedtak
 
-1. Det skal gis begrunnelser for dommer og for vedtak om hvorvidt en klage kan prøves for Domstolen eller ikke.
+1\. Det skal gis begrunnelser for dommer og for vedtak om hvorvidt en klage kan prøves for Domstolen eller ikke.
 
-2. Dersom en dom helt eller delvis ikke er enstemmig, skal hver dommer ha rett til å avlegge særvotum.
+2\. Dersom en dom helt eller delvis ikke er enstemmig, skal hver dommer ha rett til å avlegge særvotum.
 
 ### Art 46. Dommers bindende kraft og deres iverksettelse
 
-1. De høye Kontraherende Parter forplikter seg til å rette seg etter Domstolens endelige dom i enhver sak de er part i.
+1\. De høye Kontraherende Parter forplikter seg til å rette seg etter Domstolens endelige dom i enhver sak de er part i.
 
-2. Domstolens endelige dom skal overleveres Ministerkomiteen, som skal ha tilsyn med fullbyrdelsen av dommen.
+2\. Domstolens endelige dom skal overleveres Ministerkomiteen, som skal ha tilsyn med fullbyrdelsen av dommen.
 
-3. Dersom Ministerkomiteen finner at problemer med tolkningen av en endelig dom er til hinder for at den kan føre tilsyn med fullbyrdelsen av dommen, kan den oversende saken til Domstolen for å få avgjort tolkningsspørsmålet. Vedtak om å oversende saken krever to tredjedels stemmeflertall blant de representanter som har rett til å ta sete i Komiteen.
+3\. Dersom Ministerkomiteen finner at problemer med tolkningen av en endelig dom er til hinder for at den kan føre tilsyn med fullbyrdelsen av dommen, kan den oversende saken til Domstolen for å få avgjort tolkningsspørsmålet. Vedtak om å oversende saken krever to tredjedels stemmeflertall blant de representanter som har rett til å ta sete i Komiteen.
 
-4. Dersom Ministerkomiteen finner at en høy Kontraherende Part nekter å rette seg etter en endelig dom i en sak den er part i, kan den etter å ha gitt vedkommende part formelt varsel og ved vedtak fattet med to tredjedels stemmeflertall blant de representanter som har rett til å ta sete i Komiteen, forelegge spørsmålet om parten har unnlatt å oppfylle sin forpliktelse etter avsnitt 1, for Domstolen.
+4\. Dersom Ministerkomiteen finner at en høy Kontraherende Part nekter å rette seg etter en endelig dom i en sak den er part i, kan den etter å ha gitt vedkommende part formelt varsel og ved vedtak fattet med to tredjedels stemmeflertall blant de representanter som har rett til å ta sete i Komiteen, forelegge spørsmålet om parten har unnlatt å oppfylle sin forpliktelse etter avsnitt 1, for Domstolen.
 
-5. Dersom Domstolen finner at det har funnet sted et brudd på avsnitt 1, skal den oversende saken til Ministerkomiteen, som skal vurdere hvilke tiltak som skal treffes. Dersom Domstolen finner at det ikke har funnet sted et brudd på avsnitt 1, skal den oversende saken til Ministerkomiteen, som skal avslutte behandlingen av saken.
+5\. Dersom Domstolen finner at det har funnet sted et brudd på avsnitt 1, skal den oversende saken til Ministerkomiteen, som skal vurdere hvilke tiltak som skal treffes. Dersom Domstolen finner at det ikke har funnet sted et brudd på avsnitt 1, skal den oversende saken til Ministerkomiteen, som skal avslutte behandlingen av saken.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 ### Art 47. Rådgivende uttalelser
 
-1. Domstolen kan på Ministerkomiteens oppfordring avgi rådgivende uttalelser om juridiske spørsmål vedrørende tolkningen av konvensjonen og dens protokoller.
+1\. Domstolen kan på Ministerkomiteens oppfordring avgi rådgivende uttalelser om juridiske spørsmål vedrørende tolkningen av konvensjonen og dens protokoller.
 
-2. Slike uttalelser skal ikke omhandle noe spørsmål i tilknytning til innhold i eller omfang av de rettigheter eller friheter som er definert i konvensjonens del I, eller noe annet spørsmål som Domstolen eller Ministerkomiteen vil kunne få til vurdering som følge av eventuelle saker som kan bli reist i henhold til konvensjonen.
+2\. Slike uttalelser skal ikke omhandle noe spørsmål i tilknytning til innhold i eller omfang av de rettigheter eller friheter som er definert i konvensjonens del I, eller noe annet spørsmål som Domstolen eller Ministerkomiteen vil kunne få til vurdering som følge av eventuelle saker som kan bli reist i henhold til konvensjonen.
 
-3. Vedtak i Ministerkomiteen om å be om rådgivende uttalelse fra Domstolen, skal kreve stemmeflertall blant de representanter som har rett til å ta sete i Komiteen.
+3\. Vedtak i Ministerkomiteen om å be om rådgivende uttalelse fra Domstolen, skal kreve stemmeflertall blant de representanter som har rett til å ta sete i Komiteen.
 
 ### Art 48. Domstolens rådgivende jurisdiksjon
 
@@ -1094,11 +1154,11 @@ Domstolen skal avgjøre om et krav om rådgivende uttalelse fremsatt av Minister
 
 ### Art 49. Begrunnelser for rådgivende uttalelser
 
-1. Domstolens rådgivende uttalelser skal begrunnes.
+1\. Domstolens rådgivende uttalelser skal begrunnes.
 
-2. Dersom den rådgivende uttalelsen helt eller delvis ikke er enstemmig, skal hver dommer ha rett til å avgi særvotum.
+2\. Dersom den rådgivende uttalelsen helt eller delvis ikke er enstemmig, skal hver dommer ha rett til å avgi særvotum.
 
-3. Domstolens rådgivende uttalelser skal overleveres Ministerkomiteen.
+3\. Domstolens rådgivende uttalelser skal overleveres Ministerkomiteen.
 
 ### Art 50. Domstolens utgifter
 
@@ -1128,47 +1188,53 @@ De høye Kontraherende Parter er enige om at de ikke uten særlig avtale vil ben
 
 ### Art 56. Territorial anvendelse
 
-1. Enhver stat kan når den ratifiserer konvensjonen eller når som helst deretter, erklære ved meddelelse rettet til Generalsekretæren i Europarådet, at denne konvensjon med forbehold om denne artikkels avsnitt 4 skal omfatte alle eller enkelte av de territorier hvis internasjonale forbindelser den er ansvarlig for.
+1\. Enhver stat kan når den ratifiserer konvensjonen eller når som helst deretter, erklære ved meddelelse rettet til Generalsekretæren i Europarådet, at denne konvensjon med forbehold om denne artikkels avsnitt 4 skal omfatte alle eller enkelte av de territorier hvis internasjonale forbindelser den er ansvarlig for.
 
-2. Konvensjonen skal gjelde for det eller de territorier som er angitt i meddelelsen fra den trettiende dag etter at Generalsekretæren i Europarådet har mottatt meddelelsen.
+2\. Konvensjonen skal gjelde for det eller de territorier som er angitt i meddelelsen fra den trettiende dag etter at Generalsekretæren i Europarådet har mottatt meddelelsen.
 
-3. Bestemmelsene i denne konvensjon skal imidlertid i slike territorier anvendes under tilbørlig hensyn til de lokale forholds krav.
+3\. Bestemmelsene i denne konvensjon skal imidlertid i slike territorier anvendes under tilbørlig hensyn til de lokale forholds krav.
 
-4. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 i denne artikkel, kan når som helst deretter erklære, på vegne av ett eller flere av de territorier erklæringen gjelder for, at den godtar Domstolens kompetanse til å motta klager fra individer, ikke-statlige organisasjoner eller grupper av individer som fastsatt i konvensjonens artikkel 34.
+4\. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 i denne artikkel, kan når som helst deretter erklære, på vegne av ett eller flere av de territorier erklæringen gjelder for, at den godtar Domstolens kompetanse til å motta klager fra individer, ikke-statlige organisasjoner eller grupper av individer som fastsatt i konvensjonens artikkel 34.
 
 ### Art 57. Forbehold
 
-1. Enhver stat kan ved undertegningen av denne konvensjon eller når den deponerer sitt ratifikasjonsdokument, ta forbehold med hensyn til en særskilt bestemmelse i konvensjonen, i den utstrekning en lov som da er gjeldende i dens territorium, ikke er i samsvar med bestemmelsen. Forbehold av generell karakter er ikke tillatt etter denne artikkel.
+1\. Enhver stat kan ved undertegningen av denne konvensjon eller når den deponerer sitt ratifikasjonsdokument, ta forbehold med hensyn til en særskilt bestemmelse i konvensjonen, i den utstrekning en lov som da er gjeldende i dens territorium, ikke er i samsvar med bestemmelsen. Forbehold av generell karakter er ikke tillatt etter denne artikkel.
 
-2. Forbehold som blir tatt etter denne artikkel, skal inneholde en kort redegjørelse for vedkommende lov.
+2\. Forbehold som blir tatt etter denne artikkel, skal inneholde en kort redegjørelse for vedkommende lov.
 
 ### Art 58. Oppsigelse
 
-1. En høy Kontraherende Part kan bare si opp denne konvensjon etter at det er gått fem år fra den dag den ble part i den, og med en oppsigelsesfrist på seks måneder etter meddelelse til Generalsekretæren i Europarådet, som skal underrette de andre høye Kontraherende Parter.
+1\. En høy Kontraherende Part kan bare si opp denne konvensjon etter at det er gått fem år fra den dag den ble part i den, og med en oppsigelsesfrist på seks måneder etter meddelelse til Generalsekretæren i Europarådet, som skal underrette de andre høye Kontraherende Parter.
 
-2. En slik oppsigelse skal ikke kunne løse vedkommende høye Kontraherende Part fra sine forpliktelser under konvensjonen med hensyn til noen handling som kan være en krenkelse av slike forpliktelser og som den har utført før den dag da oppsigelsen ble virksom.
+2\. En slik oppsigelse skal ikke kunne løse vedkommende høye Kontraherende Part fra sine forpliktelser under konvensjonen med hensyn til noen handling som kan være en krenkelse av slike forpliktelser og som den har utført før den dag da oppsigelsen ble virksom.
 
-3. En høy Kontraherende Part som opphører å være medlem av Europarådet, skal opphøre å være part i denne konvensjon på de samme betingelser.
+3\. En høy Kontraherende Part som opphører å være medlem av Europarådet, skal opphøre å være part i denne konvensjon på de samme betingelser.
 
-4. Konvensjonen kan sies opp i samsvar med bestemmelsene i de foregående avsnitt for ethvert territorium den er blitt erklært gjeldende for i henhold til artikkel 56.
+4\. Konvensjonen kan sies opp i samsvar med bestemmelsene i de foregående avsnitt for ethvert territorium den er blitt erklært gjeldende for i henhold til artikkel 56.
 
 ### Art 59. Undertegning og ratifikasjon
 
-1. Denne konvensjon skal være åpen for undertegning av medlemmene av Europarådet. Den skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos Generalsekretæren i Europarådet.
+1\. Denne konvensjon skal være åpen for undertegning av medlemmene av Europarådet. Den skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos Generalsekretæren i Europarådet.
 
-2. Den europeiske union kan tiltre denne konvensjon.
+2\. Den europeiske union kan tiltre denne konvensjon.
 
-3. Denne konvensjon skal tre i kraft etter at ti ratifikasjonsdokumenter er deponert.
+3\. Denne konvensjon skal tre i kraft etter at ti ratifikasjonsdokumenter er deponert.
 
-4. For en signatarstat som ratifiserer senere, skal konvensjonen tre i kraft den dag ratifikasjonsdokumentet blir deponert.
+4\. For en signatarstat som ratifiserer senere, skal konvensjonen tre i kraft den dag ratifikasjonsdokumentet blir deponert.
 
-5. Generalsekretæren i Europarådet skal underrette alle medlemmer av Europarådet om konvensjonens ikrafttreden, om navnene på de høye Kontraherende Parter som har ratifisert den, og om deponeringen av alle ratifikasjonsdokumenter som finner sted senere.
+5\. Generalsekretæren i Europarådet skal underrette alle medlemmer av Europarådet om konvensjonens ikrafttreden, om navnene på de høye Kontraherende Parter som har ratifisert den, og om deponeringen av alle ratifikasjonsdokumenter som finner sted senere.
 
 > Endret ved protokoll nr. 14 til EMK ([lov 10 juni 2005 nr. 49](lov/2005-06-10-49), ikr. 18 juni 2010 iflg. [res. 18 juni 2010 nr. 846](forskrift/2010-06-18-846)).
 
 Utferdiget i Roma den 4. november 1950 i ett eksemplar i engelsk og fransk tekst, som begge har samme gyldighet og som skal deponeres i Europarådets arkiv. Generalsekretæren skal oversende bekreftede kopier til hver av signatarstatene.
 
 ### Protokoll til Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter av 4. november 1950
+
+Paris 20. mars 1952
+
+I kraft 18. mai 1954
+
+Undertegnede regjeringer, medlemmer av Europarådet,
 
 som har besluttet å ta skritt til å sikre den felles håndheving av visse rettigheter og friheter utover dem som allerede er tatt med i del I av Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, undertegnet i Roma 4. november 1950 (heretter kalt «Konvensjonen»),
 
@@ -1210,6 +1276,12 @@ Utferdiget i Paris den 20. mars 1952, i ett eksemplar i engelsk og fransk tekst,
 
 ### Protokoll nr. 4 til Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, om beskyttelse av visse rettigheter og friheter som ikke allerede er omfattet av konvensjonen og av første tilleggsprotokoll til Konvensjonen
 
+Strasbourg 16. september 1963
+
+I kraft 2. mai 1968
+
+Undertegnede Regjeringer, medlemmer av Europarådet,
+
 som har besluttet å ta skritt til å sikre den felles håndheving av visse rettigheter og friheter utover dem som allerede er tatt med i del I av Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter undertegnet i Roma 4. november 1950 (heretter kalt «Konvensjonen») og i artiklene 1 til 3 i den Første Protokoll til Konvensjonen, undertegnet i Paris 20. mars 1952,
 
 er blitt enige om følgende:
@@ -1220,19 +1292,19 @@ Ingen skal bli berøvet sin frihet bare på grunn av manglende evne til å oppfy
 
 ### Art 2. Bevegelsesfrihet
 
-1. Enhver som lovlig befinner seg på en stats territorium, skal ha rett til bevegelsesfrihet innenfor dette territorium og til fritt å velge sitt bosted.
+1\. Enhver som lovlig befinner seg på en stats territorium, skal ha rett til bevegelsesfrihet innenfor dette territorium og til fritt å velge sitt bosted.
 
-2. Enhver skal være fri til å forlate ethvert land, også sitt eget.
+2\. Enhver skal være fri til å forlate ethvert land, også sitt eget.
 
-3. Utøvelsen av disse rettigheter skal ikke bli pålagt andre innskrenkninger enn slike som er i samsvar med lov og er nødvendige i et demokratisk samfunn av hensyn til nasjonal sikkerhet eller offentlig trygghet, for å opprettholde samfunnsordenen *(ordre public),* for å forebygge forbrytelser, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter.
+3\. Utøvelsen av disse rettigheter skal ikke bli pålagt andre innskrenkninger enn slike som er i samsvar med lov og er nødvendige i et demokratisk samfunn av hensyn til nasjonal sikkerhet eller offentlig trygghet, for å opprettholde samfunnsordenen *(ordre public),* for å forebygge forbrytelser, for å beskytte helse eller moral, eller for å beskytte andres rettigheter og friheter.
 
-4. De rettighetene som er slått fast i avsnitt 1 kan også i bestemte områder bli pålagt innskrenkninger i samsvar med lov og begrunnet med samfunnsmessige hensyn i et demokratisk samfunn.
+4\. De rettighetene som er slått fast i avsnitt 1 kan også i bestemte områder bli pålagt innskrenkninger i samsvar med lov og begrunnet med samfunnsmessige hensyn i et demokratisk samfunn.
 
 ### Art 3. Forbud mot utvisning av egne statsborgere
 
-1. Ingen skal bli utvist fra territoriet til den stat han er borger av, verken ved en individuell eller en kollektiv forholdsregel.
+1\. Ingen skal bli utvist fra territoriet til den stat han er borger av, verken ved en individuell eller en kollektiv forholdsregel.
 
-2. Ingen skal bli berøvet retten til adgang til territoriet til den stat han er borger av.
+2\. Ingen skal bli berøvet retten til adgang til territoriet til den stat han er borger av.
 
 ### Art 4. Forbud mot kollektiv utvisning av utlendinger
 
@@ -1240,15 +1312,15 @@ Kollektiv utvisning av utlendinger er forbudt.
 
 ### Art 5. Territorial anvendelse
 
-1. Enhver høy Kontraherende Part kan ved undertegningen eller ratifikasjonen av denne protokoll eller når som helst deretter oversende Generalsekretæren i Europarådet en erklæring som fastslår i hvilken utstrekning den forplikter seg til å la bestemmelsene i denne protokoll gjelde i territorier hvis internasjonale forbindelser den er ansvarlig for, og som er nevnt der.
+1\. Enhver høy Kontraherende Part kan ved undertegningen eller ratifikasjonen av denne protokoll eller når som helst deretter oversende Generalsekretæren i Europarådet en erklæring som fastslår i hvilken utstrekning den forplikter seg til å la bestemmelsene i denne protokoll gjelde i territorier hvis internasjonale forbindelser den er ansvarlig for, og som er nevnt der.
 
-2. Hver høy Kontraherende Part som har avgitt en slik erklæring med grunnlag i forrige avsnitt, kan fra tid til annen oversende en ytterligere erklæring som endrer en tidligere erklærings innhold, eller bringer til opphør anvendelsen av denne protokolls bestemmelser på slikt territorium.
+2\. Hver høy Kontraherende Part som har avgitt en slik erklæring med grunnlag i forrige avsnitt, kan fra tid til annen oversende en ytterligere erklæring som endrer en tidligere erklærings innhold, eller bringer til opphør anvendelsen av denne protokolls bestemmelser på slikt territorium.
 
-3. En erklæring avgitt i samsvar med denne artikkel skal anses for å være avgitt i samsvar med avsnitt 1 i artikkel 56 i Konvensjonen.
+3\. En erklæring avgitt i samsvar med denne artikkel skal anses for å være avgitt i samsvar med avsnitt 1 i artikkel 56 i Konvensjonen.
 
-4. Territoriet til en stat som denne protokoll gjelder for i kraft av denne stats ratifikasjon eller godkjenning, og ethvert territorium som denne protokoll skal gjelde for i kraft av en erklæring fra denne stat etter denne artikkel, skal bli behandlet som atskilte territorier med hensyn til henvisningene til en stats territorium i artiklene 2 og 3.
+4\. Territoriet til en stat som denne protokoll gjelder for i kraft av denne stats ratifikasjon eller godkjenning, og ethvert territorium som denne protokoll skal gjelde for i kraft av en erklæring fra denne stat etter denne artikkel, skal bli behandlet som atskilte territorier med hensyn til henvisningene til en stats territorium i artiklene 2 og 3.
 
-5. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 eller 2 i denne artikkelen, kan på et hvilket som helst senere tidspunkt erklære på vegne av ett eller flere av de territorier som erklæringen gjelder, at den godtar Domstolens kompetanse til å motta klager fra enkeltpersoner, ikke-statlige organisasjoner eller grupper av enkeltpersoner slik det er fastsatt i Konvensjonens artikkel 34 med hensyn til alle eller hvilke som helst av denne protokollens artikler 1 til 4.
+5\. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 eller 2 i denne artikkelen, kan på et hvilket som helst senere tidspunkt erklære på vegne av ett eller flere av de territorier som erklæringen gjelder, at den godtar Domstolens kompetanse til å motta klager fra enkeltpersoner, ikke-statlige organisasjoner eller grupper av enkeltpersoner slik det er fastsatt i Konvensjonens artikkel 34 med hensyn til alle eller hvilke som helst av denne protokollens artikler 1 til 4.
 
 ### Art 6. Tilknytning til Konvensjonen
 
@@ -1256,11 +1328,17 @@ Mellom de høye Kontraherende Parter skal bestemmelsene i artiklene 1 til 5 i de
 
 ### Art 7. Undertegning og ratifikasjon
 
-1. Denne protokoll skal være åpen for undertegning av medlemmer av Europarådet som har undertegnet Konvensjonen. Den skal ratifiseres samtidig med eller etter ratifikasjonen av Konvensjonen. Den skal tre i kraft etter at ti ratifikasjonsdokumenter er deponert. For en signatarstat som ratifiserer senere, skal Protokollen tre i kraft den dag dens ratifikasjonsdokument blir deponert.
+1\. Denne protokoll skal være åpen for undertegning av medlemmer av Europarådet som har undertegnet Konvensjonen. Den skal ratifiseres samtidig med eller etter ratifikasjonen av Konvensjonen. Den skal tre i kraft etter at ti ratifikasjonsdokumenter er deponert. For en signatarstat som ratifiserer senere, skal Protokollen tre i kraft den dag dens ratifikasjonsdokument blir deponert.
 
-2. Ratifikasjonsdokumentene skal deponeres hos Generalsekretæren i Europarådet, som skal underrette alle medlemsstater om hvem som har ratifisert.Utferdiget i Strasbourg den 16. september 1963, i ett eksemplar i engelsk og fransk tekst, som begge har samme gyldighet og som skal forbli deponert i Europarådets arkiver. Generalsekretæren skal oversende bekreftede kopier til hver av de undertegnede regjeringer.
+2\. Ratifikasjonsdokumentene skal deponeres hos Generalsekretæren i Europarådet, som skal underrette alle medlemsstater om hvem som har ratifisert.Utferdiget i Strasbourg den 16. september 1963, i ett eksemplar i engelsk og fransk tekst, som begge har samme gyldighet og som skal forbli deponert i Europarådets arkiver. Generalsekretæren skal oversende bekreftede kopier til hver av de undertegnede regjeringer.
 
 ### Protokoll nr. 6 til Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, om avskaffelse av dødsstraffen
+
+Strasbourg 28. april 1983
+
+I kraft 1. mars 1985
+
+De medlemsstater i Europarådet som har undertegnet denne protokoll til Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, undertegnet i Roma 4. november 1950 (heretter kalt «Konvensjonen»),
 
 som tar i betraktning at utviklingen i flere av medlemsstatene i Europarådet uttrykker en generell tendens i favør av avskaffelse av dødsstraffen;
 
@@ -1284,11 +1362,11 @@ Bestemmelsene i denne protokoll kan ikke være gjenstand for forbehold etter art
 
 ### Art 5. Territorial anvendelse
 
-1. Enhver stat kan ved undertegningen eller når den deponerer sitt dokument om ratifikasjon, vedtakelse eller godkjenning, angi det territorium eller de territorier denne protokoll skal gjelde for.
+1\. Enhver stat kan ved undertegningen eller når den deponerer sitt dokument om ratifikasjon, vedtakelse eller godkjenning, angi det territorium eller de territorier denne protokoll skal gjelde for.
 
-2. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for Protokollen til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal Protokollen tre i kraft den første dag i måneden etter at Generalsekretæren har mottatt erklæringen.
+2\. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for Protokollen til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal Protokollen tre i kraft den første dag i måneden etter at Generalsekretæren har mottatt erklæringen.
 
-3. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan trekkes tilbake i forhold til et territorium angitt i erklæringen ved en meddelelse til Generalsekretæren. Tilbaketrekningen skal få virkning den første dag i måneden etter at Generalsekretæren har mottatt meddelelsen.
+3\. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan trekkes tilbake i forhold til et territorium angitt i erklæringen ved en meddelelse til Generalsekretæren. Tilbaketrekningen skal få virkning den første dag i måneden etter at Generalsekretæren har mottatt meddelelsen.
 
 ### Art 6. Tilknytning til Konvensjonen
 
@@ -1300,17 +1378,25 @@ Denne protokoll skal være åpen for undertegning av medlemsstater av Europaråd
 
 ### Art 8. Ikrafttredelse
 
-1. Denne protokoll skal tre i kraft den første dag i den måned som følger etter den dag da fem av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av Protokollen i samsvar med bestemmelsene i artikkel 7.
+1\. Denne protokoll skal tre i kraft den første dag i den måned som følger etter den dag da fem av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av Protokollen i samsvar med bestemmelsene i artikkel 7.
 
-2. For en medlemsstat som senere gir sitt samtykke til å være bundet av Protokollen, skal den tre i kraft den første dag i måneden etter den dag vedkommende stats ratifikasjons-, vedtakelses- eller godkjenningsdokument er blitt deponert.
+2\. For en medlemsstat som senere gir sitt samtykke til å være bundet av Protokollen, skal den tre i kraft den første dag i måneden etter den dag vedkommende stats ratifikasjons-, vedtakelses- eller godkjenningsdokument er blitt deponert.
 
 ### Art 9. Depositarfunksjoner
 
 Generalsekretæren i Europarådet skal underrette medlemsstatene i Rådet om:enhver undertegning;deponering av ethvert ratifikasjons-, vedtakelses- eller godkjenningsdokument;enhver dato da denne protokoll trer i kraft i samsvar med artiklene 5 og 8;enhver annen handling, meddelelse eller erklæring som gjelder denne protokoll.
 
+Til bekreftelse på dette har de undertegnede, som har behørig fullmakt til det, undertegnet denne Protokoll.
+
 Utferdiget i Strasbourg den 28. april 1983, i ett eksemplar i engelsk og fransk tekst, som begge har samme gyldighet og som skal bli deponert i Europarådets arkiver. Generalsekretæren i Europarådet skal oversende bekreftede kopier til hver medlemsstat i Europarådet.
 
 ### Protokoll nr. 7 til Konvensjonen om beskyttelse av menneskerettigheter og grunnleggende friheter
+
+Strasbourg 22. november 1984
+
+I kraft 1. november 1988
+
+Undertegnede medlemsstater av Europarådet,
 
 som har besluttet å ta ytterligere skritt for å sikre den felles håndheving av visse rettigheter og friheter ved hjelp av Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, undertegnet i Roma 4. november 1950 (heretter kalt «Konvensjonen»),
 
@@ -1318,15 +1404,15 @@ er blitt enige om følgende:
 
 ### Art 1. Prosessuelle garantier i forbindelse med utvisning av utlendinger
 
-1. En utlending som er lovlig bosatt på en stats territorium, skal ikke bli utvist derfra unntatt i medhold av en avgjørelse truffet i samsvar med lov, og skal ha adgang til:å fremlegge grunner som taler mot utvisning,å få sin sak prøvd på nytt, ogå være representert for disse formål overfor den kompetente myndighet eller en person eller personer utpekt av denne myndighet.
+1\. En utlending som er lovlig bosatt på en stats territorium, skal ikke bli utvist derfra unntatt i medhold av en avgjørelse truffet i samsvar med lov, og skal ha adgang til:å fremlegge grunner som taler mot utvisning,å få sin sak prøvd på nytt, ogå være representert for disse formål overfor den kompetente myndighet eller en person eller personer utpekt av denne myndighet.
 
-2. En utlending kan bli utvist før hans rettigheter under avsnitt 1, a, b og c i denne artikkel er utøvd, når slik utvisning er nødvendig for å vareta den offentlige orden eller er begrunnet av hensyn til nasjonal sikkerhet.
+2\. En utlending kan bli utvist før hans rettigheter under avsnitt 1, a, b og c i denne artikkel er utøvd, når slik utvisning er nødvendig for å vareta den offentlige orden eller er begrunnet av hensyn til nasjonal sikkerhet.
 
 ### Art 2. Ankerett i straffesaker
 
-1. Enhver som er kjent skyldig av en domstol i en straffbar handling, skal ha rett til å få skyldspørsmålet eller straffeutmålingen overprøvd av en høyere domstol. Utøvelsen av denne rett, herunder de grunner som må foreligge for at den kan bli utøvd, skal være regulert ved lov.
+1\. Enhver som er kjent skyldig av en domstol i en straffbar handling, skal ha rett til å få skyldspørsmålet eller straffeutmålingen overprøvd av en høyere domstol. Utøvelsen av denne rett, herunder de grunner som må foreligge for at den kan bli utøvd, skal være regulert ved lov.
 
-2. Det kan bli gjort unntak fra denne rettighet for straffbare handlinger av mindre art, slik det er foreskrevet ved lov, eller i tilfeller hvor en person fikk sin sak prøvd av den høyeste domstol i første instans eller ble kjent skyldig etter anke over en frifinnelse.
+2\. Det kan bli gjort unntak fra denne rettighet for straffbare handlinger av mindre art, slik det er foreskrevet ved lov, eller i tilfeller hvor en person fikk sin sak prøvd av den høyeste domstol i første instans eller ble kjent skyldig etter anke over en frifinnelse.
 
 ### Art 3. Erstatning for uriktig domfellelse
 
@@ -1334,11 +1420,11 @@ Når en person ved endelig dom er blitt domfelt for en straffbar handling og nå
 
 ### Art 4. Rett til ikke å bli stilt for retten eller straffet to ganger
 
-1. Ingen skal kunne bli stilt for retten eller straffet på ny i en straffesak under den samme stats domsmyndighet, for en straffbar handling som han allerede er blitt endelig frikjent eller domfelt for i samsvar med loven og rettergangsordningen i straffesaker i denne stat.
+1\. Ingen skal kunne bli stilt for retten eller straffet på ny i en straffesak under den samme stats domsmyndighet, for en straffbar handling som han allerede er blitt endelig frikjent eller domfelt for i samsvar med loven og rettergangsordningen i straffesaker i denne stat.
 
-2. Bestemmelsene i forrige avsnitt skal ikke være til hinder for å gjenoppta en sak i samsvar med vedkommende stats lov og rettergangsordning i straffesaker, hvis det foreligger bevis for nye eller nyoppdagede omstendigheter eller hvis det i den tidligere rettergangen har vært en grunnleggende feil, som kunne påvirke utfallet av saken.
+2\. Bestemmelsene i forrige avsnitt skal ikke være til hinder for å gjenoppta en sak i samsvar med vedkommende stats lov og rettergangsordning i straffesaker, hvis det foreligger bevis for nye eller nyoppdagede omstendigheter eller hvis det i den tidligere rettergangen har vært en grunnleggende feil, som kunne påvirke utfallet av saken.
 
-3. Denne artikkel kan ikke bli fraveket etter artikkel 15 i Konvensjonen.
+3\. Denne artikkel kan ikke bli fraveket etter artikkel 15 i Konvensjonen.
 
 ### Art 5. Likhet mellom ektefeller
 
@@ -1346,17 +1432,17 @@ Ektefeller skal i sitt innbyrdes forhold og i forhold til sine barn ha like rett
 
 ### Art 6. Territorial anvendelse
 
-1. Enhver stat kan ved undertegningen eller når den deponerer sitt dokument om ratifikasjon, vedtakelse eller godkjenning, angi det territorium eller de territorier denne protokoll skal gjelde for og oppgi i hvilken utstrekning den forplikter seg til at bestemmelsene i denne protokoll skal gjelde for territoriet eller territoriene.
+1\. Enhver stat kan ved undertegningen eller når den deponerer sitt dokument om ratifikasjon, vedtakelse eller godkjenning, angi det territorium eller de territorier denne protokoll skal gjelde for og oppgi i hvilken utstrekning den forplikter seg til at bestemmelsene i denne protokoll skal gjelde for territoriet eller territoriene.
 
-2. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for Protokollen til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal Protokollen tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag Generalsekretæren har mottatt erklæringen.
+2\. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for Protokollen til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal Protokollen tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag Generalsekretæren har mottatt erklæringen.
 
-3. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan bli trukket tilbake eller endret i forhold til et territorium angitt i erklæringen ved en meddelelse til Generalsekretæren. Tilbaketrekningen eller endringen skal få virkning den første dag i måneden etter utløpet av en periode på to måneder etter den dag Generalsekretæren har mottatt meddelelsen.
+3\. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan bli trukket tilbake eller endret i forhold til et territorium angitt i erklæringen ved en meddelelse til Generalsekretæren. Tilbaketrekningen eller endringen skal få virkning den første dag i måneden etter utløpet av en periode på to måneder etter den dag Generalsekretæren har mottatt meddelelsen.
 
-4. En erklæring avgitt i samsvar med denne artikkel skal anses for å være avgitt i samsvar med avsnitt 1 i artikkel 56 i Konvensjonen.
+4\. En erklæring avgitt i samsvar med denne artikkel skal anses for å være avgitt i samsvar med avsnitt 1 i artikkel 56 i Konvensjonen.
 
-5. Territoriet til en stat som denne protokoll gjelder for i kraft av denne stats ratifikasjon, vedtakelse eller godkjenning, og ethvert territorium som denne protokoll skal gjelde for i kraft av en erklæring fra denne stat etter denne artikkel, kan bli behandlet som atskilte territorier med hensyn til henvisningen til en stats territorium i artikkel 1.
+5\. Territoriet til en stat som denne protokoll gjelder for i kraft av denne stats ratifikasjon, vedtakelse eller godkjenning, og ethvert territorium som denne protokoll skal gjelde for i kraft av en erklæring fra denne stat etter denne artikkel, kan bli behandlet som atskilte territorier med hensyn til henvisningen til en stats territorium i artikkel 1.
 
-6. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 eller 2 i denne artikkel, kan på et hvilket som helst senere tidspunkt erklære på vegne av ett eller flere av de territorier som erklæringen gjelder, at den godtar Domstolens kompetanse til å motta klager fra enkeltpersoner, ikke-statlige organisasjoner eller grupper av enkeltpersoner slik det er fastsatt i Konvensjonens artikkel 34 med hensyn til artiklene 1 til 5 i denne protokollen.
+6\. Enhver stat som har avgitt erklæring i samsvar med avsnitt 1 eller 2 i denne artikkel, kan på et hvilket som helst senere tidspunkt erklære på vegne av ett eller flere av de territorier som erklæringen gjelder, at den godtar Domstolens kompetanse til å motta klager fra enkeltpersoner, ikke-statlige organisasjoner eller grupper av enkeltpersoner slik det er fastsatt i Konvensjonens artikkel 34 med hensyn til artiklene 1 til 5 i denne protokollen.
 
 ### Art 7. Tilknytning til Konvensjonen
 
@@ -1368,17 +1454,23 @@ Denne protokoll skal være åpen for undertegning av medlemsstater av Europaråd
 
 ### Art 9. Ikrafttredelse
 
-1. Denne protokoll skal tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag da sju av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av Protokollen i samsvar med bestemmelsene i artikkel 8.
+1\. Denne protokoll skal tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag da sju av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av Protokollen i samsvar med bestemmelsene i artikkel 8.
 
-2. For en medlemsstat som senere gir sitt samtykke til å være bundet av Protokollen, skal den tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag da vedkommende stats ratifikasjons-, vedtakelses- eller godkjenningsdokument er blitt deponert.
+2\. For en medlemsstat som senere gir sitt samtykke til å være bundet av Protokollen, skal den tre i kraft den første dag i måneden etter utløpet av en periode på to måneder etter den dag da vedkommende stats ratifikasjons-, vedtakelses- eller godkjenningsdokument er blitt deponert.
 
 ### Art 10. Depositarfunksjoner
 
 Generalsekretæren i Europarådet skal underrette alle medlemsstatene i Rådet om:enhver undertegning;deponeringen av ethvert ratifikasjons-, vedtakelses- eller godkjenningsdokument;enhver dato da denne protokoll trer i kraft i samsvar med artiklene 6 og 9;enhver annen handling, meddelelse eller erklæring som gjelder denne protokoll.
 
+Til bekreftelse på dette har de undertegnede, som har behørig fullmakt til det, undertegnet denne protokoll.
+
 Utferdiget i Strasbourg den 22. november 1984, i ett eksemplar i engelsk og fransk tekst, som begge har samme gyldighet og som skal bli deponert i Europarådets arkiver. Generalsekretæren i Europarådet skal oversende bekreftede kopier til hver medlemsstat i Europarådet.
 
 ### Protokoll nr. 13 til Konvensjonen om beskyttelse av menneskerettighetene og de grunnleggende friheter, om avskaffelse av dødsstraff under enhver omstendighet
+
+Vilnius, 3. mai 2002
+
+Undertegnede medlemsstater av Europarådet,
 
 som er overbevist om at alles rett til liv er en grunnleggende verdi i et demokratisk samfunn, og at avskaffelse av dødsstraff er av vesentlig betydning for å kunne verne om denne retten og for å oppnå full anerkjennelse for alle menneskers iboende verdighet,
 
@@ -1404,11 +1496,11 @@ Bestemmelsene i denne protokoll kan ikke være gjenstand for forbehold etter art
 
 ### Art 4. Territorial anvendelse
 
-1. Enhver stat kan ved undertegning eller når den deponerer sitt dokument om ratifikasjon, godtakelse eller godkjenning angi det territorium eller de territorier denne protokoll skal gjelde for.
+1\. Enhver stat kan ved undertegning eller når den deponerer sitt dokument om ratifikasjon, godtakelse eller godkjenning angi det territorium eller de territorier denne protokoll skal gjelde for.
 
-2. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for protokollen anvendelsesområde til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal protokollen tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag Generalsekretæren har mottatt erklæringen.
+2\. Enhver stat kan når som helst deretter ved erklæring til Generalsekretæren i Europarådet utvide området for protokollen anvendelsesområde til et hvilket som helst annet territorium angitt i erklæringen. For et slikt territorium skal protokollen tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag Generalsekretæren har mottatt erklæringen.
 
-3. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan bli trukket tilbake eller endret i forhold til et territorium angitt i erklæringen ved meddelelse til Generalsekretæren. Tilbaketrekkingen eller endringen skal få virkning den første dag i måneden etter utløpet av en periode på tre måneder etter den dag Generalsekretæren har mottatt meddelelsen.
+3\. Enhver erklæring som er avgitt i henhold til de to foregående avsnitt, kan bli trukket tilbake eller endret i forhold til et territorium angitt i erklæringen ved meddelelse til Generalsekretæren. Tilbaketrekkingen eller endringen skal få virkning den første dag i måneden etter utløpet av en periode på tre måneder etter den dag Generalsekretæren har mottatt meddelelsen.
 
 ### Art 5. Tilknytning til Konvensjonen
 
@@ -1420,19 +1512,29 @@ Denne protokoll skal være åpen for undertegning av medlemsstater i Europaråde
 
 ### Art 7. Ikrafttredelse
 
-1. Denne protokoll skal tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag da ti av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av protokollen i samsvar med bestemmelsene i artikkel 6.
+1\. Denne protokoll skal tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag da ti av medlemsstatene i Europarådet har gitt sitt samtykke til å være bundet av protokollen i samsvar med bestemmelsene i artikkel 6.
 
-2. For en medlemsstat som senere gir sitt samtykke til å være bundet av protokollen, skal den tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag da vedkommende stats ratifikasjons-, godtakelses- eller godkjenningsdokument er blitt deponert.
+2\. For en medlemsstat som senere gir sitt samtykke til å være bundet av protokollen, skal den tre i kraft den første dag i måneden etter utløpet av en periode på tre måneder etter den dag da vedkommende stats ratifikasjons-, godtakelses- eller godkjenningsdokument er blitt deponert.
 
 ### Art 8. Depositarfunksjoner
 
 Europarådets generalsekretær skal underrette alle medlemsstatene i Europarådet om:enhver undertegning;deponering av ethvert ratifikasjons-, godtakelses- eller godkjenningsdokument;enhver dato da denne protokoll trer i kraft i samsvar med artiklene 4 og 7;enhver annen handling, meddelelse eller erklæring som gjelder denne protokoll.
+
+Som bekreftelse på dette har de undertegnede, som har fått behørig fullmakt til det, undertegnet denne protokoll.
 
 Utferdiget i Vilnius 3. mai 2002, i ett eksemplar på engelsk og fransk tekst, som begge har samme gyldighet og som skal bli deponert i Europarådets arkiver. Generalsekretæren i Europarådet skal oversende bekreftede kopier til hver medlemsstat i Europarådet.
 
 ## Vedlegg 3. Den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter (autentisk engelsk tekst)
 
 ### International Covenant on Economic, Social and Cultural Rights
+
+Adopted and opened for signature, ratification and accession by General Assembly Resolution 2200 A (XXI) of 16 December 1966.
+
+Entry into force 3 January 1976
+
+*Preamble*
+
+The States Parties to the present Covenant,
 
 Considering that, in accordance with the principles proclaimed in the Charter of the United Nations, recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
 
@@ -1450,21 +1552,21 @@ Agree upon the following Articles:
 
 ### Art 1
 
-1. All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
+1\. All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
 
-2. All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence.
+2\. All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence.
 
-3. The States Parties to the present Covenant, including those having responsibility for the administration of Non-Self-Governing and Trust Territories, shall promote the realization of the right of self-determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations.
+3\. The States Parties to the present Covenant, including those having responsibility for the administration of Non-Self-Governing and Trust Territories, shall promote the realization of the right of self-determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations.
 
 ### Part II
 
 ### Art 2
 
-1. Each State Party to the present Covenant undertakes to take steps, individually and through international assistance and co-operation, especially economic and technical, to the maximum of its available resources, with a view to achieving progressively the full realization of the rights recognized in the present Covenant by all appropriate means, including particularly the adoption of legislative measures.
+1\. Each State Party to the present Covenant undertakes to take steps, individually and through international assistance and co-operation, especially economic and technical, to the maximum of its available resources, with a view to achieving progressively the full realization of the rights recognized in the present Covenant by all appropriate means, including particularly the adoption of legislative measures.
 
-2. The States Parties to the present Covenant undertake to guarantee that the rights enunciated in the present Covenant will be exercised without discrimination of any kind as to race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+2\. The States Parties to the present Covenant undertake to guarantee that the rights enunciated in the present Covenant will be exercised without discrimination of any kind as to race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
-3. Developing countries, with due regard to human rights and their national economy, may determine to what extent they would guarantee the economic rights recognized in the present Covenant to non-nationals.
+3\. Developing countries, with due regard to human rights and their national economy, may determine to what extent they would guarantee the economic rights recognized in the present Covenant to non-nationals.
 
 ### Art 3
 
@@ -1476,17 +1578,17 @@ The States Parties to the present Covenant recognize that, in the enjoyment of t
 
 ### Art 5
 
-1. Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights or freedoms recognized herein, or at their limitation to a greater extent than is provided for in the present Covenant.
+1\. Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights or freedoms recognized herein, or at their limitation to a greater extent than is provided for in the present Covenant.
 
-2. No restriction upon or derogation from any of the fundamental human rights recognized or existing in any country in virtue of law, conventions, regulations or customs shall be admitted on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent.
+2\. No restriction upon or derogation from any of the fundamental human rights recognized or existing in any country in virtue of law, conventions, regulations or customs shall be admitted on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent.
 
 ### Part III
 
 ### Art 6
 
-1. The States Parties to the present Covenant recognize the right to work, which includes the right of everyone to the opportunity to gain his living by work which he freely chooses or accepts, and will take appropriate steps to safeguard this right.
+1\. The States Parties to the present Covenant recognize the right to work, which includes the right of everyone to the opportunity to gain his living by work which he freely chooses or accepts, and will take appropriate steps to safeguard this right.
 
-2. The steps to be taken by a State Party to the present Covenant to achieve the full realization of this right shall include technical and vocational guidance and training programmes, policies and techniques to achieve steady economic social and cultural development and full and productive employment under conditions safeguarding fundamental political and economic freedoms to the individual.
+2\. The steps to be taken by a State Party to the present Covenant to achieve the full realization of this right shall include technical and vocational guidance and training programmes, policies and techniques to achieve steady economic social and cultural development and full and productive employment under conditions safeguarding fundamental political and economic freedoms to the individual.
 
 ### Art 7
 
@@ -1494,11 +1596,11 @@ The States Parties to the present Covenant recognize the right of everyone to th
 
 ### Art 8
 
-1. The States Parties to the present Covenant undertake to ensure:the right of everyone to form trade unions and join the trade union of his choice, subject only to the rules of the organization concerned, for the promotion and protection of his economic and social interests. No restrictions may be placed on the exercise of this right other than those prescribed by law and which are necessary in a democratic society in the interests of national security or public order or for the protection of the rights and freedoms of others;the right of trade unions to establish national federations or confederations and the right of the latter to form or join international trade-union organizations;the right of trade unions to function freely subject to no limitations other than those prescribed by law and which are necessary in a democratic society in the interests of national security or public order or for the protection of the rights and freedoms of others;the right to strike, provided that it is exercised in conformity with the laws of the particular country.
+1\. The States Parties to the present Covenant undertake to ensure:the right of everyone to form trade unions and join the trade union of his choice, subject only to the rules of the organization concerned, for the promotion and protection of his economic and social interests. No restrictions may be placed on the exercise of this right other than those prescribed by law and which are necessary in a democratic society in the interests of national security or public order or for the protection of the rights and freedoms of others;the right of trade unions to establish national federations or confederations and the right of the latter to form or join international trade-union organizations;the right of trade unions to function freely subject to no limitations other than those prescribed by law and which are necessary in a democratic society in the interests of national security or public order or for the protection of the rights and freedoms of others;the right to strike, provided that it is exercised in conformity with the laws of the particular country.
 
-2. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces or of the police or of the administration of the State.
+2\. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces or of the police or of the administration of the State.
 
-3. Nothing in this Article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or apply the law in such a manner as would prejudice, the guarantees provided for in that Convention.
+3\. Nothing in this Article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or apply the law in such a manner as would prejudice, the guarantees provided for in that Convention.
 
 ### Art 9
 
@@ -1508,33 +1610,33 @@ The States Parties to the present Covenant recognize the right of everyone to so
 
 The States Parties to the present Covenant recognize that:
 
-1. The widest possible protection and assistance should be accorded to the family, which is the natural and fundamental group unit of society, particularly for its establishment and while it is responsible for the care and education of dependent children. Marriage must be entered into with the free consent of the intending spouses.
+1\. The widest possible protection and assistance should be accorded to the family, which is the natural and fundamental group unit of society, particularly for its establishment and while it is responsible for the care and education of dependent children. Marriage must be entered into with the free consent of the intending spouses.
 
-2. Special protection should be accorded to mothers during a reasonable period before and after childbirth. During such period working mothers should be accorded paid leave or leave with adequate social security benefits.
+2\. Special protection should be accorded to mothers during a reasonable period before and after childbirth. During such period working mothers should be accorded paid leave or leave with adequate social security benefits.
 
-3. Special measures of protection and assistance should be taken on behalf of all children and young persons without any discrimination for reasons of parentage or other conditions. Children and young persons should be protected from economic and social exploitation. Their employment in work harmful to their morals or health or dangerous to life or likely to hamper their normal development should be punishable by law. States should also set age limits below which the paid employment of child labour should be prohibited and punishable by law.
+3\. Special measures of protection and assistance should be taken on behalf of all children and young persons without any discrimination for reasons of parentage or other conditions. Children and young persons should be protected from economic and social exploitation. Their employment in work harmful to their morals or health or dangerous to life or likely to hamper their normal development should be punishable by law. States should also set age limits below which the paid employment of child labour should be prohibited and punishable by law.
 
 ### Art 11
 
-1. The States Parties to the present Covenant recognize the right of everyone to an adequate standard of living for himself and his family, including adequate food, clothing and housing, and to the continuous improvement of living conditions. The States Parties will take appropriate steps to ensure the realization of this right, recognizing to this effect the essential importance of international co-operation based on free consent.
+1\. The States Parties to the present Covenant recognize the right of everyone to an adequate standard of living for himself and his family, including adequate food, clothing and housing, and to the continuous improvement of living conditions. The States Parties will take appropriate steps to ensure the realization of this right, recognizing to this effect the essential importance of international co-operation based on free consent.
 
-2. The States Parties to the present Covenant, recognizing the fundamental right of everyone to be free from hunger, shall take, individually and through international co-operation, the measures, including specific programmes, which are needed:to improve methods of production, conservation and distribution of food by making full use of technical and scientific knowledge, by disseminating knowledge of the principles of nutrition and by developing or reforming agrarian systems in such a way as to achieve the most efficient development and utilization of natural resources;taking into account the problems of both food-importing and food-exporting countries, to ensure an equitable distribution of world food supplies in relation to need.
+2\. The States Parties to the present Covenant, recognizing the fundamental right of everyone to be free from hunger, shall take, individually and through international co-operation, the measures, including specific programmes, which are needed:to improve methods of production, conservation and distribution of food by making full use of technical and scientific knowledge, by disseminating knowledge of the principles of nutrition and by developing or reforming agrarian systems in such a way as to achieve the most efficient development and utilization of natural resources;taking into account the problems of both food-importing and food-exporting countries, to ensure an equitable distribution of world food supplies in relation to need.
 
 ### Art 12
 
-1. The States Parties to the present Covenant recognize the right of everyone to the enjoyment of the highest attainable standard of physical and mental health.
+1\. The States Parties to the present Covenant recognize the right of everyone to the enjoyment of the highest attainable standard of physical and mental health.
 
-2. The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for:the provision for the reduction of the stillbirth-rate and of infant mortality and for the healthy development of the child;the improvement of all aspects of environmental and industrial hygiene;the prevention, treatment and control of epidemic, endemic, occupational and other diseases;the creation of conditions which would assure to all medical service and medical attention in the event of sickness.
+2\. The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for:the provision for the reduction of the stillbirth-rate and of infant mortality and for the healthy development of the child;the improvement of all aspects of environmental and industrial hygiene;the prevention, treatment and control of epidemic, endemic, occupational and other diseases;the creation of conditions which would assure to all medical service and medical attention in the event of sickness.
 
 ### Art 13
 
-1. The States Parties to the present Covenant recognize the right of everyone to education. They agree that education shall be directed to the full development of the human personality and the sense of its dignity, and shall strengthen the respect for human rights and fundamental freedoms. They further agree that education shall enable all persons to participate effectively in a free society, promote understanding, tolerance and friendship among all nations and all racial, ethnic or religious groups, and further the activities of the United Nations for the maintenance of peace.
+1\. The States Parties to the present Covenant recognize the right of everyone to education. They agree that education shall be directed to the full development of the human personality and the sense of its dignity, and shall strengthen the respect for human rights and fundamental freedoms. They further agree that education shall enable all persons to participate effectively in a free society, promote understanding, tolerance and friendship among all nations and all racial, ethnic or religious groups, and further the activities of the United Nations for the maintenance of peace.
 
-2. The States Parties to the present Covenant recognize that, with a view to achieving the full realization of this right:primary education shall be compulsory and available free to all;secondary education in its different forms, including technical and vocational secondary education, shall be made generally available and accessible to all by every appropriate means, and in particular by the progressive introduction of free education;higher education shall be made equally accessible to all, on the basis of capacity, by every appropriate means, and in particular by the progressive introduction of free education;fundamental education shall be encouraged or intensified as far as possible for those persons who have not received or completed the whole period of their primary education;the development of a system of schools at all levels shall be actively pursued, an adequate fellowship system shall be established, and the material conditions of teaching staff shall be continuously improved.
+2\. The States Parties to the present Covenant recognize that, with a view to achieving the full realization of this right:primary education shall be compulsory and available free to all;secondary education in its different forms, including technical and vocational secondary education, shall be made generally available and accessible to all by every appropriate means, and in particular by the progressive introduction of free education;higher education shall be made equally accessible to all, on the basis of capacity, by every appropriate means, and in particular by the progressive introduction of free education;fundamental education shall be encouraged or intensified as far as possible for those persons who have not received or completed the whole period of their primary education;the development of a system of schools at all levels shall be actively pursued, an adequate fellowship system shall be established, and the material conditions of teaching staff shall be continuously improved.
 
-3. The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to choose for their children schools, other than those established by the public authorities, which conform to such minimum educational standards as may be laid down or approved by the State and to ensure the religious and moral education of their children in conformity with their own convictions.
+3\. The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to choose for their children schools, other than those established by the public authorities, which conform to such minimum educational standards as may be laid down or approved by the State and to ensure the religious and moral education of their children in conformity with their own convictions.
 
-4. No part of this Article shall be construed so as to interfere with the liberty of individuals and bodies to establish and direct educational institutions, subject always to the observance of the principles set forth in paragraph 1 of this Article and to the requirement that the education given in such institutions shall conform to such minimum standards as may be laid down by the State.
+4\. No part of this Article shall be construed so as to interfere with the liberty of individuals and bodies to establish and direct educational institutions, subject always to the observance of the principles set forth in paragraph 1 of this Article and to the requirement that the education given in such institutions shall conform to such minimum standards as may be laid down by the State.
 
 ### Art 14
 
@@ -1542,29 +1644,29 @@ Each State Party to the present Covenant which, at the time of becoming a Party,
 
 ### Art 15
 
-1. The States Parties to the present Covenant recognize the right of everyone:to take part in cultural life;to enjoy the benefits of scientific progress and its applications;to benefit from the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
+1\. The States Parties to the present Covenant recognize the right of everyone:to take part in cultural life;to enjoy the benefits of scientific progress and its applications;to benefit from the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 
-2. The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for the conservation, the development and the diffusion of science and culture.
+2\. The steps to be taken by the States Parties to the present Covenant to achieve the full realization of this right shall include those necessary for the conservation, the development and the diffusion of science and culture.
 
-3. The States Parties to the present Covenant undertake to respect the freedom indispensable for scientific research and creative activity.
+3\. The States Parties to the present Covenant undertake to respect the freedom indispensable for scientific research and creative activity.
 
-4. The States Parties to the present Covenant recognize the benefits to be derived from the encouragement and development of international contacts and co-operation in the scientific and cultural fields.
+4\. The States Parties to the present Covenant recognize the benefits to be derived from the encouragement and development of international contacts and co-operation in the scientific and cultural fields.
 
 ### Part IV
 
 ### Art 16
 
-1. The States Parties to the present Covenant undertake to submit in conformity with this part of the Covenant reports on the measures which they have adopted and the progress made in achieving the observance of the rights recognized herein.
+1\. The States Parties to the present Covenant undertake to submit in conformity with this part of the Covenant reports on the measures which they have adopted and the progress made in achieving the observance of the rights recognized herein.
 
 2.All reports shall be submitted to the Secretary General of the United Nations, who shall transmit copies to the Economic and Social Council for consideration in accordance with the provisions of the present Covenant;The Secretary General of the United Nations shall also transmit to the specialized agencies copies of the reports, or any relevant parts therefrom, from States Parties to the present Covenant which are also members of these specialized agencies in so far as these reports, or parts therefrom, relate to any matters which fall within the responsibilities of the said agencies in accordance with their constitutional instruments.
 
 ### Art 17
 
-1. The States Parties to the present Covenant shall furnish their reports in stages, in accordance with a programme to be established by the Economic and Social Council within one year of the entry into force of the present Covenant after consultation with the States Parties and the specialized agencies concerned.
+1\. The States Parties to the present Covenant shall furnish their reports in stages, in accordance with a programme to be established by the Economic and Social Council within one year of the entry into force of the present Covenant after consultation with the States Parties and the specialized agencies concerned.
 
-2. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Covenant.
+2\. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Covenant.
 
-3. Where relevant information has previously been furnished to the United Nations or to any specialized agency by any State Party to the present Covenant, it will not be necessary to reproduce that information, but a precise reference to the information so furnished will suffice.
+3\. Where relevant information has previously been furnished to the United Nations or to any specialized agency by any State Party to the present Covenant, it will not be necessary to reproduce that information, but a precise reference to the information so furnished will suffice.
 
 ### Art 18
 
@@ -1602,21 +1704,21 @@ Nothing in the present Covenant shall be interpreted as impairing the inherent r
 
 ### Art 26
 
-1. The present Covenant is open for signature by any State member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a party to the present Covenant.
+1\. The present Covenant is open for signature by any State member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a party to the present Covenant.
 
-2. The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
+2\. The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
 
-3. The present Covenant shall be open to accession by any State referred to in paragraph 1 of this Article.
+3\. The present Covenant shall be open to accession by any State referred to in paragraph 1 of this Article.
 
-4. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
+4\. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
 
-5. The Secretary General of the United Nations shall inform all States which have signed the present Covenant or acceded to it of the deposit of each instrument of ratification or accession.
+5\. The Secretary General of the United Nations shall inform all States which have signed the present Covenant or acceded to it of the deposit of each instrument of ratification or accession.
 
 ### Art 27
 
-1. The present Covenant shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the thirty-fifth instrument of ratification or instrument of accession.
+1\. The present Covenant shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the thirty-fifth instrument of ratification or instrument of accession.
 
-2. For each State ratifying the present Covenant or acceding to it after the deposit of the thirty-fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
+2\. For each State ratifying the present Covenant or acceding to it after the deposit of the thirty-fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
 
 ### Art 28
 
@@ -1624,11 +1726,11 @@ The provisions of the present Covenant shall extend to all parts of federal Stat
 
 ### Art 29
 
-1. Any State Party to the present Covenant may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1\. Any State Party to the present Covenant may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes.
+2\. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes.
 
-3. When amendments come into force they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted.
+3\. When amendments come into force they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted.
 
 ### Art 30
 
@@ -1636,13 +1738,19 @@ Irrespective of the notifications made under Article 26, paragraph 5, the Secret
 
 ### Art 31
 
-1. The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in Article 26.
+2\. The Secretary General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in Article 26.
 
 ## Vedlegg 4. Den internasjonale konvensjonen om økonomiske, sosiale og kulturelle rettigheter (norsk oversettelse)
 
 ### Internasjonal konvensjon om økonomiske, sosiale og kulturelle rettigheter
+
+Vedtatt og åpnet for signatur, ratifikasjon og tiltredelse ved FNs generalforsamlings resolusjon 2200 A (XXI) 16. desember 1966
+
+I kraft 3. januar 1976
+
+De stater som er parter til denne konvensjon,
 
 som tar i betraktning, i samsvar med de prinsipper som er fastslått i De forente nasjoners pakt, at erkjennelsen av den iboende verdighet hos alle medlemmer av menneskeslekten og av deres like og umistelige rettigheter er grunnlaget for frihet, rettferd og fred i verden,
 
@@ -1660,21 +1768,21 @@ er blitt enige om følgende artikler:
 
 ### Art 1
 
-1. Alle folk har selvbestemmelsesrett. I kraft av denne rett bestemmer de fritt sin politiske stilling og fremmer fritt sin egen økonomiske, sosiale og kulturelle utvikling.
+1\. Alle folk har selvbestemmelsesrett. I kraft av denne rett bestemmer de fritt sin politiske stilling og fremmer fritt sin egen økonomiske, sosiale og kulturelle utvikling.
 
-2. Alle folk kan for sine egne formål fritt råde over sine naturrikdommer og -forekomster, så lenge dette ikke setter til side forpliktelser som følger av internasjonalt økonomisk samarbeid, basert på prinsippet om gjensidig nytte og folkerettens regler. Ikke i noe tilfelle må et folk bli berøvet sitt eget eksistensgrunnlag.
+2\. Alle folk kan for sine egne formål fritt råde over sine naturrikdommer og -forekomster, så lenge dette ikke setter til side forpliktelser som følger av internasjonalt økonomisk samarbeid, basert på prinsippet om gjensidig nytte og folkerettens regler. Ikke i noe tilfelle må et folk bli berøvet sitt eget eksistensgrunnlag.
 
-3. Konvensjonspartene, deriblant de stater som har ansvaret for administreringen av ikke-selvstyrte områder og tilsynsområder, skal arbeide for å virkeliggjøre folkenes selvbestemmelsesrett, og skal respektere denne rett i overensstemmelse med bestemmelsene i De forente nasjoners pakt.
+3\. Konvensjonspartene, deriblant de stater som har ansvaret for administreringen av ikke-selvstyrte områder og tilsynsområder, skal arbeide for å virkeliggjøre folkenes selvbestemmelsesrett, og skal respektere denne rett i overensstemmelse med bestemmelsene i De forente nasjoners pakt.
 
 ### Del II
 
 ### Art 2
 
-1. Hver konvensjonspart forplikter seg til så vel hver for seg som gjennom internasjonal bistand og internasjonalt samarbeid, særlig på det økonomiske og tekniske område, å sette alt inn på at de rettigheter som anerkjennes av denne konvensjon, gradvis blir gjennomført fullt ut med alle egnede midler, og da særlig ved lovgivningstiltak.
+1\. Hver konvensjonspart forplikter seg til så vel hver for seg som gjennom internasjonal bistand og internasjonalt samarbeid, særlig på det økonomiske og tekniske område, å sette alt inn på at de rettigheter som anerkjennes av denne konvensjon, gradvis blir gjennomført fullt ut med alle egnede midler, og da særlig ved lovgivningstiltak.
 
-2. Konvensjonspartene forplikter seg til å garantere at de rettigheter som anerkjennes i konvensjonen, blir utøvet uten forskjellsbehandling av noe slag på grunn av rase, hudfarge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller status forøvrig.
+2\. Konvensjonspartene forplikter seg til å garantere at de rettigheter som anerkjennes i konvensjonen, blir utøvet uten forskjellsbehandling av noe slag på grunn av rase, hudfarge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller status forøvrig.
 
-3. Utviklingsland kan, under tilbørlig hensyn til menneskerettighetene og sin nasjonale økonomi, bestemme i hvilken utstrekning de skal garantere ikke-statsborgere de økonomiske rettigheter som er anerkjent i denne konvensjon.
+3\. Utviklingsland kan, under tilbørlig hensyn til menneskerettighetene og sin nasjonale økonomi, bestemme i hvilken utstrekning de skal garantere ikke-statsborgere de økonomiske rettigheter som er anerkjent i denne konvensjon.
 
 ### Art 3
 
@@ -1686,17 +1794,17 @@ Konvensjonspartene erkjenner at en stat bare kan underkaste de rettigheter som s
 
 ### Art 5
 
-1. Intet i denne konvensjon skal kunne tolkes som å innebære rett for noen stat, gruppe eller person til å ta del i noen virksomhet eller å utføre noen handling som tar sikte på å tilintetgjøre noen av de rettigheter eller friheter som er anerkjent i denne konvensjon, eller å begrense disse i større utstrekning enn konvensjonen gir adgang til.
+1\. Intet i denne konvensjon skal kunne tolkes som å innebære rett for noen stat, gruppe eller person til å ta del i noen virksomhet eller å utføre noen handling som tar sikte på å tilintetgjøre noen av de rettigheter eller friheter som er anerkjent i denne konvensjon, eller å begrense disse i større utstrekning enn konvensjonen gir adgang til.
 
-2. Ingen innskrenkning i eller avvik fra noen av de grunnleggende menneskerettighetene som i kraft av lov, overenskomster, forskrifter eller sedvane anerkjennes eller gjelder i noen konvensjonsstat, skal kunne gjennomføres under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller anerkjenner dem i mindre utstrekning.
+2\. Ingen innskrenkning i eller avvik fra noen av de grunnleggende menneskerettighetene som i kraft av lov, overenskomster, forskrifter eller sedvane anerkjennes eller gjelder i noen konvensjonsstat, skal kunne gjennomføres under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller anerkjenner dem i mindre utstrekning.
 
 ### Del III
 
 ### Art 6
 
-1. Konvensjonspartene anerkjenner retten til arbeid, som omfatter mulighet for enhver til å tjene sitt levebrød ved arbeid som han fritt har valgt eller godtatt; og skal treffe de nødvendige tiltak for å trygge denne rettighet.
+1\. Konvensjonspartene anerkjenner retten til arbeid, som omfatter mulighet for enhver til å tjene sitt levebrød ved arbeid som han fritt har valgt eller godtatt; og skal treffe de nødvendige tiltak for å trygge denne rettighet.
 
-2. De tiltak som skal iverksettes av en konvensjonspart for å oppnå den fulle virkeliggjørelse av denne rettighet, skal omfatte teknisk og yrkesmessig veiledning, fastsettelse av retningslinjer og fremgangsmåter for å sikre en jevn økonomisk, sosial og kulturell utvikling, samt full og produktiv sysselsetting under forhold som trygger grunnleggende politiske og økonomiske friheter for den enkelte.
+2\. De tiltak som skal iverksettes av en konvensjonspart for å oppnå den fulle virkeliggjørelse av denne rettighet, skal omfatte teknisk og yrkesmessig veiledning, fastsettelse av retningslinjer og fremgangsmåter for å sikre en jevn økonomisk, sosial og kulturell utvikling, samt full og produktiv sysselsetting under forhold som trygger grunnleggende politiske og økonomiske friheter for den enkelte.
 
 ### Art 7
 
@@ -1704,11 +1812,11 @@ Konvensjonspartene anerkjenner retten for enhver til rettferdige og gode arbeids
 
 ### Art 8
 
-1. Konvensjonspartene forplikter seg til å sikre:Rett for enhver til, for å fremme og beskytte sine interesser på det økonomiske og sosiale område, å danne fagforeninger og slutte seg til en fagforening etter eget valg bare avhengig av vedkommende forenings vedtekter. Utøvelsen av denne rett må ikke underkastes andre innskrenkninger enn dem som følger av lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller den alminnelige samfunnsorden eller for å verne andres rettigheter og friheter,Rett for fagforeninger til å danne nasjonale forbund eller gruppevise sammenslutninger og rett for disse til å danne eller slutte seg til internasjonale fagforeningsorganisasjoner,Rett for fagforeninger til fritt å utøve sin virksomhet uten andre begrensninger enn dem som følger av lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller den alminnelige samfunnsorden eller for å verne andres rettigheter og friheter,Rett til å streike, forutsatt at streikeretten blir utøvet i samsvar med lovene i det enkelte land.
+1\. Konvensjonspartene forplikter seg til å sikre:Rett for enhver til, for å fremme og beskytte sine interesser på det økonomiske og sosiale område, å danne fagforeninger og slutte seg til en fagforening etter eget valg bare avhengig av vedkommende forenings vedtekter. Utøvelsen av denne rett må ikke underkastes andre innskrenkninger enn dem som følger av lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller den alminnelige samfunnsorden eller for å verne andres rettigheter og friheter,Rett for fagforeninger til å danne nasjonale forbund eller gruppevise sammenslutninger og rett for disse til å danne eller slutte seg til internasjonale fagforeningsorganisasjoner,Rett for fagforeninger til fritt å utøve sin virksomhet uten andre begrensninger enn dem som følger av lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale sikkerhet eller den alminnelige samfunnsorden eller for å verne andres rettigheter og friheter,Rett til å streike, forutsatt at streikeretten blir utøvet i samsvar med lovene i det enkelte land.
 
-2. Denne artikkel skal ikke være til hinder for at det fastsettes lovlige innskrenkninger i utøvelsen av disse rettigheter for personer som tjenestegjør i de væpnede styrker, politiet eller statsforvaltningen.
+2\. Denne artikkel skal ikke være til hinder for at det fastsettes lovlige innskrenkninger i utøvelsen av disse rettigheter for personer som tjenestegjør i de væpnede styrker, politiet eller statsforvaltningen.
 
-3. Intet i denne artikkel skal gi stater som er parter i Den internasjonale arbeidsorganisasjonens konvensjon av 1948 om foreningsfrihet og vern av organisasjonsretten, adgang til å treffe lovgivningstiltak, eller anvende loven på en måte som innebærer inngrep i de garantier som er fastsatt i nevnte konvensjon.
+3\. Intet i denne artikkel skal gi stater som er parter i Den internasjonale arbeidsorganisasjonens konvensjon av 1948 om foreningsfrihet og vern av organisasjonsretten, adgang til å treffe lovgivningstiltak, eller anvende loven på en måte som innebærer inngrep i de garantier som er fastsatt i nevnte konvensjon.
 
 ### Art 9
 
@@ -1718,33 +1826,33 @@ Konvensjonstatene anerkjenner retten for enhver til sosial trygghet innbefattet 
 
 Konvensjonspartene anerkjenner at:
 
-1. Vern og bistand bør i størst mulig utstrekning ytes familien, som er den naturlige og grunnleggende samfunnsenhet, og da særlig i forbindelse med dens stiftelse og mens den er ansvarlig for omsorgen for og utdanningen av barn som ikke forsørger seg selv. Ekteskap må bare inngås med de fremtidige ektefellers frie samtykke.
+1\. Vern og bistand bør i størst mulig utstrekning ytes familien, som er den naturlige og grunnleggende samfunnsenhet, og da særlig i forbindelse med dens stiftelse og mens den er ansvarlig for omsorgen for og utdanningen av barn som ikke forsørger seg selv. Ekteskap må bare inngås med de fremtidige ektefellers frie samtykke.
 
-2. Særskilt vern bør ytes mødre i en rimelig tid før og etter fødsler. I slike perioder bør arbeidende mødre tilstås permisjon med lønn eller med tilfredsstillende sosiale trygdeytelser.
+2\. Særskilt vern bør ytes mødre i en rimelig tid før og etter fødsler. I slike perioder bør arbeidende mødre tilstås permisjon med lønn eller med tilfredsstillende sosiale trygdeytelser.
 
-3. Særskilte tiltak bør treffes til vern og bistand for alle barn og all ungdom uten forskjellsbehandling på grunn av herkomst eller andre forhold. Barn og ungdom bør beskyttes mot økonomisk og sosial utnytting. Det bør være straffbart ved lov å anvende dem i arbeid som er skadelig for deres moral eller helse, som setter deres liv i fare, eller som sannsynligvis vil hemme deres normale utvikling. Statene bør også fastsette aldersgrenser og forby, og gjøre straffbart ved lov, å ansette barn under disse grensene i lønnet arbeid.
+3\. Særskilte tiltak bør treffes til vern og bistand for alle barn og all ungdom uten forskjellsbehandling på grunn av herkomst eller andre forhold. Barn og ungdom bør beskyttes mot økonomisk og sosial utnytting. Det bør være straffbart ved lov å anvende dem i arbeid som er skadelig for deres moral eller helse, som setter deres liv i fare, eller som sannsynligvis vil hemme deres normale utvikling. Statene bør også fastsette aldersgrenser og forby, og gjøre straffbart ved lov, å ansette barn under disse grensene i lønnet arbeid.
 
 ### Art 11
 
-1. Konvensjonspartene anerkjenner retten for enhver til en tilfredsstillende levestandard for seg selv og sin familie, herunder tilfredsstillende mat, klær og bolig, samt til stadig bedring av sine leveforhold. Konvensjonspartene skal treffe de nødvendige tiltak for å sikre virkeliggjørelsen av denne rett, og erkjenner i den anledning den vesentlige betydning av internasjonalt samarbeid grunnet på frivillighet.
+1\. Konvensjonspartene anerkjenner retten for enhver til en tilfredsstillende levestandard for seg selv og sin familie, herunder tilfredsstillende mat, klær og bolig, samt til stadig bedring av sine leveforhold. Konvensjonspartene skal treffe de nødvendige tiltak for å sikre virkeliggjørelsen av denne rett, og erkjenner i den anledning den vesentlige betydning av internasjonalt samarbeid grunnet på frivillighet.
 
-2. Konvensjonspartene, som anerkjenner den grunnleggende rett for alle til å være trygget mot sult, skal, hver for seg og gjennom internasjonalt samarbeid, treffe de tiltak, innbefattet utarbeidelsen av konkrete programmer, som er nødvendige,For å forbedre metodene for fremstilling, oppbevaring og distribusjon av matvarer ved fullt ut å utnytte den tekniske og vitenskapelige kunnskap, ved å spre opplysning om ernæringsprinsippene og ved å utvikle eller forbedre jordbruksmetoder slik at naturrikdommene skal utvikles og utnyttes så effektivt som mulig,For å sikre en i forhold til behovet rimelig fordeling av verdens matvareforsyning, idet det tas hensyn til så vel matvareimporterende som matvareeksporterende lands problemer.
+2\. Konvensjonspartene, som anerkjenner den grunnleggende rett for alle til å være trygget mot sult, skal, hver for seg og gjennom internasjonalt samarbeid, treffe de tiltak, innbefattet utarbeidelsen av konkrete programmer, som er nødvendige,For å forbedre metodene for fremstilling, oppbevaring og distribusjon av matvarer ved fullt ut å utnytte den tekniske og vitenskapelige kunnskap, ved å spre opplysning om ernæringsprinsippene og ved å utvikle eller forbedre jordbruksmetoder slik at naturrikdommene skal utvikles og utnyttes så effektivt som mulig,For å sikre en i forhold til behovet rimelig fordeling av verdens matvareforsyning, idet det tas hensyn til så vel matvareimporterende som matvareeksporterende lands problemer.
 
 ### Art 12
 
-1. Konvensjonspartene anerkjenner retten for enhver til den høyest oppnåelige helsestandard både fysisk og psykisk.
+1\. Konvensjonspartene anerkjenner retten for enhver til den høyest oppnåelige helsestandard både fysisk og psykisk.
 
-2. De tiltak som konvensjonspartene treffer for å oppnå full virkeliggjørelse for denne rettighet, skal omfatte tiltak som er nødvendige for å:Minske foster- og spebarndødeligheten og fremme barnets sunne utvikling,Forbedre alle sider ved hygienen i miljø og industri,Forebygge, behandle og kontrollere epidemiske, endemiske, yrkesmessige og andre sykdommer,Skape vilkår som trygger alle legebehandling og pleie under sykdom.
+2\. De tiltak som konvensjonspartene treffer for å oppnå full virkeliggjørelse for denne rettighet, skal omfatte tiltak som er nødvendige for å:Minske foster- og spebarndødeligheten og fremme barnets sunne utvikling,Forbedre alle sider ved hygienen i miljø og industri,Forebygge, behandle og kontrollere epidemiske, endemiske, yrkesmessige og andre sykdommer,Skape vilkår som trygger alle legebehandling og pleie under sykdom.
 
 ### Art 13
 
-1. Konvensjonspartene anerkjenner retten for enhver til utdanning. De er enige om at utdanningen skal ta sikte på full utvikling av menneskets karakter og forståelse av dets verdighet, og skal styrke respekten for menneskerettighetene og de grunnleggende friheter. De er videre enige om at utdanning skal sette alle i stand til å delta på en nyttig måte i et fritt samfunn, fremme forståelse, toleranse og vennskap mellom alle nasjoner og alle rasegrupper, etniske og religiøse grupper, samt fremme De forente nasjoners arbeid for å bevare freden.
+1\. Konvensjonspartene anerkjenner retten for enhver til utdanning. De er enige om at utdanningen skal ta sikte på full utvikling av menneskets karakter og forståelse av dets verdighet, og skal styrke respekten for menneskerettighetene og de grunnleggende friheter. De er videre enige om at utdanning skal sette alle i stand til å delta på en nyttig måte i et fritt samfunn, fremme forståelse, toleranse og vennskap mellom alle nasjoner og alle rasegrupper, etniske og religiøse grupper, samt fremme De forente nasjoners arbeid for å bevare freden.
 
-2. Konvensjonspartene erkjenner at for å oppnå den fulle virkeliggjørelse av denne rettighet, må følgende iakttas:Grunnskoleundervisningen skal være tvungen og kostnadsfritt tilgjengelig for alle,Den utdanning som i ulike former følger etter grunnskoleutdanningen, herunder teknisk og yrkesmessig utdanning, skal ved alle egnede midler gjøres tilgjengelig for alle, særlig ved gradvis innføring av gratis undervisning,Høyere utdanning skal ved alle egnede midler, særlig ved gradvis innføring av gratis undervisning, gjøres likt tilgjengelig for alle på grunnlag av evner,Grunnleggende utdanning av personer som ikke har gjennomgått eller fullført hele grunnskoleutdanningen, skal i størst mulig utstrekning støttes og intensiveres,Det skal arbeides aktivt for utviklingen av et system med skoler på alle trinn, en tilfredsstillende stipendieordning skal opprettes, og lærepersonalets materielle vilkår skal fortløpende forbedres.
+2\. Konvensjonspartene erkjenner at for å oppnå den fulle virkeliggjørelse av denne rettighet, må følgende iakttas:Grunnskoleundervisningen skal være tvungen og kostnadsfritt tilgjengelig for alle,Den utdanning som i ulike former følger etter grunnskoleutdanningen, herunder teknisk og yrkesmessig utdanning, skal ved alle egnede midler gjøres tilgjengelig for alle, særlig ved gradvis innføring av gratis undervisning,Høyere utdanning skal ved alle egnede midler, særlig ved gradvis innføring av gratis undervisning, gjøres likt tilgjengelig for alle på grunnlag av evner,Grunnleggende utdanning av personer som ikke har gjennomgått eller fullført hele grunnskoleutdanningen, skal i størst mulig utstrekning støttes og intensiveres,Det skal arbeides aktivt for utviklingen av et system med skoler på alle trinn, en tilfredsstillende stipendieordning skal opprettes, og lærepersonalets materielle vilkår skal fortløpende forbedres.
 
-3. Konvensjonspartene forplikter seg til å respektere foreldres og, når det er aktuelt, vergers frihet til å velge andre skoler for sine barn enn dem som er opprettet av offentlige myndigheter, forutsatt at skolene oppfyller eventuelle minstekrav til undervisningen fastsatt eller godkjent av staten, og til å sikre sine barn en religiøs og moralsk undervisning i samsvar med deres egen overbevisning.
+3\. Konvensjonspartene forplikter seg til å respektere foreldres og, når det er aktuelt, vergers frihet til å velge andre skoler for sine barn enn dem som er opprettet av offentlige myndigheter, forutsatt at skolene oppfyller eventuelle minstekrav til undervisningen fastsatt eller godkjent av staten, og til å sikre sine barn en religiøs og moralsk undervisning i samsvar med deres egen overbevisning.
 
-4. Intet i denne artikkel må tolkes som innskrenkninger i enkeltpersoners eller organisasjoners frihet til å opprette og drive undervisningsinstitusjoner, forutsatt at de prinsippene fastsatt i denne artikkels første paragraf alltid iakttas, og at den undervisning som gis i slike institusjoner, er i overensstemmelse med eventuelle statlige minstekrav.
+4\. Intet i denne artikkel må tolkes som innskrenkninger i enkeltpersoners eller organisasjoners frihet til å opprette og drive undervisningsinstitusjoner, forutsatt at de prinsippene fastsatt i denne artikkels første paragraf alltid iakttas, og at den undervisning som gis i slike institusjoner, er i overensstemmelse med eventuelle statlige minstekrav.
 
 ### Art 14
 
@@ -1752,29 +1860,29 @@ Enhver stat som på det tidspunkt den blir part i konvensjonen, ikke har vært i
 
 ### Art 15
 
-1. Konvensjonspartene anerkjenner retten til for enhver til:Å delta i det kulturelle liv,Å nyte godt av vitenskapens fremskritt og anvendelse av disse,Å nyte godt av beskyttelse av de åndelige og materielle interesser som stammer fra ethvert vitenskapelig, litterært eller kunstnerisk verk som han er opphavsmann til.
+1\. Konvensjonspartene anerkjenner retten til for enhver til:Å delta i det kulturelle liv,Å nyte godt av vitenskapens fremskritt og anvendelse av disse,Å nyte godt av beskyttelse av de åndelige og materielle interesser som stammer fra ethvert vitenskapelig, litterært eller kunstnerisk verk som han er opphavsmann til.
 
-2. De tiltak som skal iverksettes av konvensjonspartene for å oppnå den fulle virkeliggjørelse av denne rettighet, skal omfatte slike tiltak som er nødvendige for å bevare, utvikle og utbre vitenskap og kultur.
+2\. De tiltak som skal iverksettes av konvensjonspartene for å oppnå den fulle virkeliggjørelse av denne rettighet, skal omfatte slike tiltak som er nødvendige for å bevare, utvikle og utbre vitenskap og kultur.
 
-3. Konvensjonspartene forplikter seg til å respektere den frihet som er uunnværlig for vitenskapelig forskning og skapende virksomhet.
+3\. Konvensjonspartene forplikter seg til å respektere den frihet som er uunnværlig for vitenskapelig forskning og skapende virksomhet.
 
-4. Konvensjonspartene erkjenner de fordeler som følger av at internasjonale forbindelser og internasjonalt samarbeid på de vitenskapelige og kulturelle områder støttes og videreføres.
+4\. Konvensjonspartene erkjenner de fordeler som følger av at internasjonale forbindelser og internasjonalt samarbeid på de vitenskapelige og kulturelle områder støttes og videreføres.
 
 ### Del IV
 
 ### Art 16
 
-1. Konvensjonspartene forplikter seg til i samsvar med denne del av konvensjonen å avgi rapporter om de tiltak som de har truffet og den fremgang som er gjort når det gjelder gjennomføringen av de rettigheter som er anerkjent i konvensjonen.
+1\. Konvensjonspartene forplikter seg til i samsvar med denne del av konvensjonen å avgi rapporter om de tiltak som de har truffet og den fremgang som er gjort når det gjelder gjennomføringen av de rettigheter som er anerkjent i konvensjonen.
 
 2.Alle rapporter skal sendes De forente nasjoners generalsekretær som skal oversende Det økonomiske og sosiale råd kopier til behandling i samsvar med bestemmelsene i denne konvensjon.De forente nasjoners generalsekretær skal også oversende særorganisasjonene kopier av rapportene, eller av utvalgte deler av disse, når de er avgitt av konvensjonsparter som også er medlem av vedkommende særorganisasjon, i den utstrekning disse rapporter eller deler av disse angår spørsmål som etter særorganisasjonens vedtekter hører under dens fagområde.
 
 ### Art 17
 
-1. Konvensjonspartene skal avgi sine rapporter etappevis i samsvar med et program som innen et år etter ikrafttredelsen av denne konvensjon skal fastsettes av Det økonomiske og sosiale råd etter samråd med konvensjonspartene og de berørte særorganisasjoner.
+1\. Konvensjonspartene skal avgi sine rapporter etappevis i samsvar med et program som innen et år etter ikrafttredelsen av denne konvensjon skal fastsettes av Det økonomiske og sosiale råd etter samråd med konvensjonspartene og de berørte særorganisasjoner.
 
-2. Rapportene kan angi forhold og vanskeligheter som er av betydning for oppfyllelsen av forpliktelsene etter denne konvensjon.
+2\. Rapportene kan angi forhold og vanskeligheter som er av betydning for oppfyllelsen av forpliktelsene etter denne konvensjon.
 
-3. Dersom en konvensjonspart tidligere har gitt De forente nasjoner eller en særorganisasjon de nødvendige opplysninger, skal det ikke være nødvendig å sende disse opplysninger på ny, men være tilstrekkelig med en nøyaktig henvisning til de tidligere innsendte opplysninger.
+3\. Dersom en konvensjonspart tidligere har gitt De forente nasjoner eller en særorganisasjon de nødvendige opplysninger, skal det ikke være nødvendig å sende disse opplysninger på ny, men være tilstrekkelig med en nøyaktig henvisning til de tidligere innsendte opplysninger.
 
 ### Art 18
 
@@ -1812,21 +1920,21 @@ Intet i denne konvensjon skal tolkes som innskrenkninger i den iboende rett hos 
 
 ### Art 26
 
-1. Denne konvensjon er åpen for undertegning av alle stater som er medlemmer av De forente nasjoner eller noen av særorganisasjonene, av alle stater som er parter i Den internasjonale domstols statutter, og av enhver annen stat som av De forente nasjoners generalforsamling er blitt innbudt til å bli part i konvensjonen.
+1\. Denne konvensjon er åpen for undertegning av alle stater som er medlemmer av De forente nasjoner eller noen av særorganisasjonene, av alle stater som er parter i Den internasjonale domstols statutter, og av enhver annen stat som av De forente nasjoners generalforsamling er blitt innbudt til å bli part i konvensjonen.
 
-2. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
-3. Denne konvensjon skal kunne tilltres av enhver stat som nevnt i denne artikkels første paragraf.
+3\. Denne konvensjon skal kunne tilltres av enhver stat som nevnt i denne artikkels første paragraf.
 
-4. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
+4\. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
-5. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt konvensjonen, om deponeringen av hvert ratifikasjons- eller tiltredelsesdokument.
+5\. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt konvensjonen, om deponeringen av hvert ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 27
 
-1. Denne konvensjon skal tre i kraft tre måneder etter den dag det trettifemte ratifikasjons- eller tiltredelsesdokument deponeres hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon skal tre i kraft tre måneder etter den dag det trettifemte ratifikasjons- eller tiltredelsesdokument deponeres hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer eller tiltrer konvensjonen etter at det trettifemte ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft tre måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer eller tiltrer konvensjonen etter at det trettifemte ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft tre måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 28
 
@@ -1834,11 +1942,11 @@ Bestemmelsene i denne konvensjon skal uten begrensning eller unntak få anvendel
 
 ### Art 29
 
-1. Enhver av konvensjonspartene kan overfor De forente nasjoners generalsekretær foreslå endringer i konvensjonen. Generalsekretæren skal oversende endringsforslag til konvensjonspartene med anmodning om å meddele ham om de ønsker at partene skal sammenkalles for å behandle og stemme over forslagene. Dersom minst en tredjedel av konvensjonspartene ønsker det, skal Generalsekretæren sammenkalle til et slikt møte i De forente nasjoners regi. Endringsforslag vedtatt av et flertall av de konvensjonsparter som er til stede og avgir stemme skal forelegges De forente nasjoners generalforsamling til godkjennelse.
+1\. Enhver av konvensjonspartene kan overfor De forente nasjoners generalsekretær foreslå endringer i konvensjonen. Generalsekretæren skal oversende endringsforslag til konvensjonspartene med anmodning om å meddele ham om de ønsker at partene skal sammenkalles for å behandle og stemme over forslagene. Dersom minst en tredjedel av konvensjonspartene ønsker det, skal Generalsekretæren sammenkalle til et slikt møte i De forente nasjoners regi. Endringsforslag vedtatt av et flertall av de konvensjonsparter som er til stede og avgir stemme skal forelegges De forente nasjoners generalforsamling til godkjennelse.
 
-2. Endringer trer i kraft når de er blitt vedtatt av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av konvensjonspartene i overensstemmelse med deres konstitusjonelle bestemmelser.
+2\. Endringer trer i kraft når de er blitt vedtatt av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av konvensjonspartene i overensstemmelse med deres konstitusjonelle bestemmelser.
 
-3. Når endringer trer i kraft, er de bindende for de konvensjonsparter som har godkjent dem, mens de øvrige konvensjonsparter fortsatt skal være bundet av bestemmelsene i denne konvensjon og av eventuelle tidligere endringer som de har godkjent.
+3\. Når endringer trer i kraft, er de bindende for de konvensjonsparter som har godkjent dem, mens de øvrige konvensjonsparter fortsatt skal være bundet av bestemmelsene i denne konvensjon og av eventuelle tidligere endringer som de har godkjent.
 
 ### Art 30
 
@@ -1846,13 +1954,21 @@ Foruten de meddelelser som avgis i henhold til artikkel 26, avsnitt 5, skal De f
 
 ### Art 31
 
-1. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
+1\. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
 
-2. De forente nasjoners generalsekretær skal sende bekreftede kopier av konvensjonen til alle stater som det er henvist til i artikkel 26.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne konvensjon, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
+2\. De forente nasjoners generalsekretær skal sende bekreftede kopier av konvensjonen til alle stater som det er henvist til i artikkel 26.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne konvensjon, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
 
 ## Vedlegg 5. Den internasjonale konvensjonen om sivile og politiske rettigheter med protokoller (autentisk engelsk tekst)
 
 ### International Covenant on Civil and Political rights
+
+Adopted and opened for signature, ratification and accession by General Assembly Resolution 2200 A (XXI) of 16 December 1966
+
+Entry into force 23 March 1976, in accordance with Article 49
+
+*Preamble*
+
+The States Parties to the present Covenant,
 
 Considering that, in accordance with the principles proclaimed in the Charter of the United Nations, recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
 
@@ -1870,21 +1986,21 @@ Agree upon the following Articles:
 
 ### Art 1
 
-1. All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
+1\. All peoples have the right of self-determination. By virtue of that right they freely determine their political status and freely pursue their economic, social and cultural development.
 
-2. All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence.
+2\. All peoples may, for their own ends, freely dispose of their natural wealth and resources without prejudice to any obligations arising out of international economic co-operation, based upon the principle of mutual benefit, and international law. In no case may a people be deprived of its own means of subsistence.
 
-3. The States Parties to the present Covenant, including those having responsibility for the administration of Non-Self-Governing and Trust Territories, shall promote the realization of the right of self-determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations.
+3\. The States Parties to the present Covenant, including those having responsibility for the administration of Non-Self-Governing and Trust Territories, shall promote the realization of the right of self-determination, and shall respect that right, in conformity with the provisions of the Charter of the United Nations.
 
 ### Part II
 
 ### Art 2
 
-1. Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
+1\. Each State Party to the present Covenant undertakes to respect and to ensure to all individuals within its territory and subject to its jurisdiction the rights recognized in the present Covenant, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status.
 
-2. Where not already provided for by existing legislative or other measures, each State Party to the present Covenant undertakes to take the necessary steps, in accordance with its constitutional processes and with the provisions of the present Covenant, to adopt such legislative or other measures as may be necessary to give effect to the rights recognized in the present Covenant.
+2\. Where not already provided for by existing legislative or other measures, each State Party to the present Covenant undertakes to take the necessary steps, in accordance with its constitutional processes and with the provisions of the present Covenant, to adopt such legislative or other measures as may be necessary to give effect to the rights recognized in the present Covenant.
 
-3. Each State Party to the present Covenant undertakes:to ensure that any person whose rights or freedoms as herein recognized are violated shall have an effective remedy, notwithstanding that the violation has been committed by persons acting in an official capacity;to ensure that any person claiming such a remedy shall have his right thereto determined by competent judicial, administrative or legislative authorities, or by any other competent authority provided for by the legal system of the State, and to develop the possibilities of judicial remedy;to ensure that the competent authorities shall enforce such remedies when granted.
+3\. Each State Party to the present Covenant undertakes:to ensure that any person whose rights or freedoms as herein recognized are violated shall have an effective remedy, notwithstanding that the violation has been committed by persons acting in an official capacity;to ensure that any person claiming such a remedy shall have his right thereto determined by competent judicial, administrative or legislative authorities, or by any other competent authority provided for by the legal system of the State, and to develop the possibilities of judicial remedy;to ensure that the competent authorities shall enforce such remedies when granted.
 
 ### Art 3
 
@@ -1892,33 +2008,33 @@ The States Parties to the present Covenant undertake to ensure the equal right o
 
 ### Art 4
 
-1. In time of public emergency which threatens the life of the nation and the existence of which is officially proclaimed, the States Parties to the present Covenant may take measures derogating from their obligations under the present Covenant to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with their other obligations under international law and do not involve discrimination solely on the ground of race, colour, sex, language, religion or social origin.
+1\. In time of public emergency which threatens the life of the nation and the existence of which is officially proclaimed, the States Parties to the present Covenant may take measures derogating from their obligations under the present Covenant to the extent strictly required by the exigencies of the situation, provided that such measures are not inconsistent with their other obligations under international law and do not involve discrimination solely on the ground of race, colour, sex, language, religion or social origin.
 
-2. No derogation from Articles 6, 7, 8 (paragraphs 1 and 2), 11, 15, 16 and 18 may be made under this provision.
+2\. No derogation from Articles 6, 7, 8 (paragraphs 1 and 2), 11, 15, 16 and 18 may be made under this provision.
 
-3. Any State Party to the present Covenant availing itself of the right of derogation shall immediately inform the other States Parties to the present Covenant, through the intermediary of the Secretary-General of the United Nations, of the provisions from which it has derogated and of the reasons by which it was actuated. A further communication shall be made, through the same intermediary, on the date on which it terminates such derogation.
+3\. Any State Party to the present Covenant availing itself of the right of derogation shall immediately inform the other States Parties to the present Covenant, through the intermediary of the Secretary-General of the United Nations, of the provisions from which it has derogated and of the reasons by which it was actuated. A further communication shall be made, through the same intermediary, on the date on which it terminates such derogation.
 
 ### Art 5
 
-1. Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights and freedoms recognized herein or at their limitation to a greater extent than is provided for in the present Covenant.
+1\. Nothing in the present Covenant may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights and freedoms recognized herein or at their limitation to a greater extent than is provided for in the present Covenant.
 
-2. There shall be no restriction upon or derogation from any of the fundamental human rights recognized or existing in any State Party to the present Covenant pursuant to law, conventions, regulations or custom on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent.
+2\. There shall be no restriction upon or derogation from any of the fundamental human rights recognized or existing in any State Party to the present Covenant pursuant to law, conventions, regulations or custom on the pretext that the present Covenant does not recognize such rights or that it recognizes them to a lesser extent.
 
 ### Part III
 
 ### Art 6
 
-1. Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life.
+1\. Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life.
 
-2. In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and Punishment of the Crime of Genocide. This penalty can only be carried out pursuant to a final judgment rendered by a competent court.
+2\. In countries which have not abolished the death penalty, sentence of death may be imposed only for the most serious crimes in accordance with the law in force at the time of the commission of the crime and not contrary to the provisions of the present Covenant and to the Convention on the Prevention and Punishment of the Crime of Genocide. This penalty can only be carried out pursuant to a final judgment rendered by a competent court.
 
-3. When deprivation of life constitutes the crime of genocide, it is understood that nothing in this Article shall authorize any State Party to the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide.
+3\. When deprivation of life constitutes the crime of genocide, it is understood that nothing in this Article shall authorize any State Party to the present Covenant to derogate in any way from any obligation assumed under the provisions of the Convention on the Prevention and Punishment of the Crime of Genocide.
 
-4. Anyone sentenced to death shall have the right to seek pardon or commutation of the sentence. Amnesty, pardon or commutation of the sentence of death may be granted in all cases.
+4\. Anyone sentenced to death shall have the right to seek pardon or commutation of the sentence. Amnesty, pardon or commutation of the sentence of death may be granted in all cases.
 
-5. Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women.
+5\. Sentence of death shall not be imposed for crimes committed by persons below eighteen years of age and shall not be carried out on pregnant women.
 
-6. Nothing in this Article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
+6\. Nothing in this Article shall be invoked to delay or to prevent the abolition of capital punishment by any State Party to the present Covenant.
 
 ### Art 7
 
@@ -1926,31 +2042,31 @@ No one shall be subjected to torture or to cruel, inhuman or degrading treatment
 
 ### Art 8
 
-1. No one shall be held in slavery; slavery and the slave-trade in all their forms shall be prohibited.
+1\. No one shall be held in slavery; slavery and the slave-trade in all their forms shall be prohibited.
 
-2. No one shall be held in servitude.
+2\. No one shall be held in servitude.
 
 3.No one shall be required to perform forced or compulsory labour;Paragraph 3.a shall not be held to preclude, in countries where imprisonment with hard labour may be imposed as a punishment for a crime, the performance of hard labour in pursuance of a sentence to such punishment by a competent court;For the purpose of this paragraph the term «forced or compulsory labour» shall not include:any work or service, not referred to in subparagraph b, normally required of a person who is under detention in consequence of a lawful order of a court, or of a person during conditional release from such detention;any service of a military character and, in countries where conscientious objection is recognized, any national service required by law of conscientious objectors;any service exacted in cases of emergency or calamity threatening the life or well-being of the community;any work or service which forms part of normal civil obligations.
 
 ### Art 9
 
-1. Everyone has the right to liberty and security of person. No one shall be subjected to arbitrary arrest or detention. No one shall be deprived of his liberty except on such grounds and in accordance with such procedure as are established by law.
+1\. Everyone has the right to liberty and security of person. No one shall be subjected to arbitrary arrest or detention. No one shall be deprived of his liberty except on such grounds and in accordance with such procedure as are established by law.
 
-2. Anyone who is arrested shall be informed, at the time of arrest, of the reasons for his arrest and shall be promptly informed of any charges against him.
+2\. Anyone who is arrested shall be informed, at the time of arrest, of the reasons for his arrest and shall be promptly informed of any charges against him.
 
-3. Anyone arrested or detained on a criminal charge shall be brought promptly before a judge or other officer authorized by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release. It shall not be the general rule that persons awaiting trial shall be detained in custody, but release may be subject to guarantees to appear for trial, at any other stage of the judicial proceedings, and, should occasion arise, for execution of the judgment.
+3\. Anyone arrested or detained on a criminal charge shall be brought promptly before a judge or other officer authorized by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release. It shall not be the general rule that persons awaiting trial shall be detained in custody, but release may be subject to guarantees to appear for trial, at any other stage of the judicial proceedings, and, should occasion arise, for execution of the judgment.
 
-4. Anyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings before a court, in order that that court may decide without delay on the lawfulness of his detention and order his release if the detention is not lawful.
+4\. Anyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings before a court, in order that that court may decide without delay on the lawfulness of his detention and order his release if the detention is not lawful.
 
-5. Anyone who has been victim of unlawful arrest or detention shall have an enforceable right to compensation.
+5\. Anyone who has been victim of unlawful arrest or detention shall have an enforceable right to compensation.
 
 ### Art 10
 
-1. All persons deprived of their liberty shall be treated with humanity and with respect for the inherent dignity of the human person.
+1\. All persons deprived of their liberty shall be treated with humanity and with respect for the inherent dignity of the human person.
 
 2.Accused persons shall, save in exceptional circumstances, be segregated from convicted persons and shall be subject to separate treatment appropriate to their status as unconvicted persons;Accused juvenile persons shall be separated from adults and brought as speedily as possible for adjudication.
 
-3. The penitentiary system shall comprise treatment of prisoners the essential aim of which shall be their reformation and social rehabilitation. Juvenial offenders shall be segregated from adults and be accorded treatment appropriate to their age and legal status.
+3\. The penitentiary system shall comprise treatment of prisoners the essential aim of which shall be their reformation and social rehabilitation. Juvenial offenders shall be segregated from adults and be accorded treatment appropriate to their age and legal status.
 
 ### Art 11
 
@@ -1958,13 +2074,13 @@ No one shall be imprisoned merely on the ground of inability to fulfil a contrac
 
 ### Art 12
 
-1. Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.
+1\. Everyone lawfully within the territory of a State shall, within that territory, have the right to liberty of movement and freedom to choose his residence.
 
-2. Everyone shall be free to leave any country, including his own.
+2\. Everyone shall be free to leave any country, including his own.
 
-3. The above-mentioned rights shall not be subject to any restrictions except those which are provided by law, are necessary to protect national security, public order (*ordre public*), public health or morals or the rights and freedoms of others, and are consistent with the other rights recognized in the present Covenant.
+3\. The above-mentioned rights shall not be subject to any restrictions except those which are provided by law, are necessary to protect national security, public order (*ordre public*), public health or morals or the rights and freedoms of others, and are consistent with the other rights recognized in the present Covenant.
 
-4. No one shall be arbitrarily deprived of the right to enter his own country.
+4\. No one shall be arbitrarily deprived of the right to enter his own country.
 
 ### Art 13
 
@@ -1972,25 +2088,25 @@ An alien lawfully in the territory of a State Party to the present Covenant may 
 
 ### Art 14
 
-1. All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The press and the public may be excluded from all or part of a trial for reasons of morals, public order (*ordre public*) or national security in a democratic society, or when the interest of the private lives of the Parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes of the guardianship of children.
+1\. All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The press and the public may be excluded from all or part of a trial for reasons of morals, public order (*ordre public*) or national security in a democratic society, or when the interest of the private lives of the Parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes of the guardianship of children.
 
-2. Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law.
+2\. Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law.
 
-3. In the determination of any criminal charge against him, everyone shall be entitled to the following minimum guarantees, in full equality:to be informed promptly and in detail in a language which he understands of the nature and cause of the charge against him;to have adequate time and facilities for the preparation of his defence and to communicate with counsel of his own choosing;to be tried without undue delay;to be tried in his presence, and to defend himself in person or through legal assistance of his own choosing; to be informed, if he does not have legal assistance, of this right; and to have legal assistance assigned to him, in any case where the interests of justice so require, and without payment by him in any such case if he does not have sufficient means to pay for it;to examine, or have examined, the witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;to have the free assistance of an interpreter if he cannot understand or speak the language used in court;not to be compelled to testify against himself or to confess guilt.
+3\. In the determination of any criminal charge against him, everyone shall be entitled to the following minimum guarantees, in full equality:to be informed promptly and in detail in a language which he understands of the nature and cause of the charge against him;to have adequate time and facilities for the preparation of his defence and to communicate with counsel of his own choosing;to be tried without undue delay;to be tried in his presence, and to defend himself in person or through legal assistance of his own choosing; to be informed, if he does not have legal assistance, of this right; and to have legal assistance assigned to him, in any case where the interests of justice so require, and without payment by him in any such case if he does not have sufficient means to pay for it;to examine, or have examined, the witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;to have the free assistance of an interpreter if he cannot understand or speak the language used in court;not to be compelled to testify against himself or to confess guilt.
 
-4. In the case of juvenile persons, the procedure shall be such as will take account of their age and the desirability of promoting their rehabilitation.
+4\. In the case of juvenile persons, the procedure shall be such as will take account of their age and the desirability of promoting their rehabilitation.
 
-5. Everyone convicted of a crime shall have the right to his conviction and sentence being reviewed by a higher tribunal according to law.
+5\. Everyone convicted of a crime shall have the right to his conviction and sentence being reviewed by a higher tribunal according to law.
 
-6. When a person has by a final decision been convicted of a criminal offence and when subsequently his conviction has been reversed or he has been pardoned on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him.
+6\. When a person has by a final decision been convicted of a criminal offence and when subsequently his conviction has been reversed or he has been pardoned on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him.
 
-7. No one shall be liable to be tried or punished again for an offence for which he has already been finally convicted or acquitted in accordance with the law and penal procedure of each country.
+7\. No one shall be liable to be tried or punished again for an offence for which he has already been finally convicted or acquitted in accordance with the law and penal procedure of each country.
 
 ### Art 15
 
-1. No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time when the criminal offence was committed. If, subsequent to the commission of the offence, provision is made by law for the imposition of the lighter penalty, the offender shall benefit thereby.
+1\. No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time when the criminal offence was committed. If, subsequent to the commission of the offence, provision is made by law for the imposition of the lighter penalty, the offender shall benefit thereby.
 
-2. Nothing in this Article shall prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognized by the community of nations.
+2\. Nothing in this Article shall prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognized by the community of nations.
 
 ### Art 16
 
@@ -1998,33 +2114,33 @@ Everyone shall have the right to recognition everywhere as a person before the l
 
 ### Art 17
 
-1. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation.
+1\. No one shall be subjected to arbitrary or unlawful interference with his privacy, family, home or correspondence, nor to unlawful attacks on his honour and reputation.
 
-2. Everyone has the right to the protection of the law against such interference or attacks.
+2\. Everyone has the right to the protection of the law against such interference or attacks.
 
 ### Art 18
 
-1. Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice and teaching.
+1\. Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to have or to adopt a religion or belief of his choice, and freedom, either individually or in community with others and in public or private, to manifest his religion or belief in worship, observance, practice and teaching.
 
-2. No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice.
+2\. No one shall be subject to coercion which would impair his freedom to have or to adopt a religion or belief of his choice.
 
-3. Freedom to manifest one's religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health, or morals or the fundamental rights and freedoms of others.
+3\. Freedom to manifest one's religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health, or morals or the fundamental rights and freedoms of others.
 
-4. The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to ensure the religious and moral education of their children in conformity with their own convictions.
+4\. The States Parties to the present Covenant undertake to have respect for the liberty of parents and, when applicable, legal guardians to ensure the religious and moral education of their children in conformity with their own convictions.
 
 ### Art 19
 
-1. Everyone shall have the right to hold opinions without interference.
+1\. Everyone shall have the right to hold opinions without interference.
 
-2. Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
+2\. Everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice.
 
-3. The exercise of the rights provided for in paragraph 2 of this Article carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:for respect of the rights or reputations of others;for the protection of national security or of public order (*ordre public*), or of public health or morals.
+3\. The exercise of the rights provided for in paragraph 2 of this Article carries with it special duties and responsibilities. It may therefore be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:for respect of the rights or reputations of others;for the protection of national security or of public order (*ordre public*), or of public health or morals.
 
 ### Art 20
 
-1. Any propaganda for war shall be prohibited by law.
+1\. Any propaganda for war shall be prohibited by law.
 
-2. Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law.
+2\. Any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence shall be prohibited by law.
 
 ### Art 21
 
@@ -2032,29 +2148,29 @@ The right of peaceful assembly shall be recognized. No restrictions may be place
 
 ### Art 22
 
-1. Everyone shall have the right to freedom of association with others, including the right to form and join trade unions for the protection of his interests.
+1\. Everyone shall have the right to freedom of association with others, including the right to form and join trade unions for the protection of his interests.
 
-2. No restrictions may be placed on the exercise of this right other than those which are prescribed by law and which are necessary in a democratic society in the interests of national security or public safety, public order (*ordre public*), the protection of public health or morals or the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on members of the armed forces and of the police in their exercise of this right.
+2\. No restrictions may be placed on the exercise of this right other than those which are prescribed by law and which are necessary in a democratic society in the interests of national security or public safety, public order (*ordre public*), the protection of public health or morals or the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on members of the armed forces and of the police in their exercise of this right.
 
-3. Nothing in this Article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or to apply the law in such a manner as to prejudice the guarantees provided for in that Convention.
+3\. Nothing in this Article shall authorize States Parties to the International Labour Organisation Convention of 1948 concerning Freedom of Association and Protection of the Right to Organize to take legislative measures which would prejudice, or to apply the law in such a manner as to prejudice the guarantees provided for in that Convention.
 
 ### Art 23
 
-1. The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
+1\. The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.
 
-2. The right of men and women of marriageable age to marry and to found a family shall be recognized.
+2\. The right of men and women of marriageable age to marry and to found a family shall be recognized.
 
-3. No marriage shall be entered into without the free and full consent of the intending spouses.
+3\. No marriage shall be entered into without the free and full consent of the intending spouses.
 
-4. States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children.
+4\. States Parties to the present Covenant shall take appropriate steps to ensure equality of rights and responsibilities of spouses as to marriage, during marriage and at its dissolution. In the case of dissolution, provision shall be made for the necessary protection of any children.
 
 ### Art 24
 
-1. Every child shall have, without any discrimination as to race, colour, sex, language, religion, national or social origin, property or birth, the right to such measures of protection as are required by his status as a minor, on the part of his family, society and the State.
+1\. Every child shall have, without any discrimination as to race, colour, sex, language, religion, national or social origin, property or birth, the right to such measures of protection as are required by his status as a minor, on the part of his family, society and the State.
 
-2. Every child shall be registered immediately after birth and shall have a name.
+2\. Every child shall be registered immediately after birth and shall have a name.
 
-3. Every child has the right to acquire a nationality.
+3\. Every child has the right to acquire a nationality.
 
 ### Art 25
 
@@ -2072,55 +2188,55 @@ In those States in which ethnic, religious or linguistic minorities exist, perso
 
 ### Art 28
 
-1. There shall be established a Human Rights Committee (hereafter referred to in the present Covenant as the Committee). It shall consist of eighteen members and shall carry out the functions hereinafter provided.
+1\. There shall be established a Human Rights Committee (hereafter referred to in the present Covenant as the Committee). It shall consist of eighteen members and shall carry out the functions hereinafter provided.
 
-2. The Committee shall be composed of nationals of the States Parties to the present Covenant who shall be persons of high moral character and recognized competence in the field of human rights, consideration being given to the usefulness of the participation of some persons having legal experience.
+2\. The Committee shall be composed of nationals of the States Parties to the present Covenant who shall be persons of high moral character and recognized competence in the field of human rights, consideration being given to the usefulness of the participation of some persons having legal experience.
 
-3. The members of the Committee shall be elected and shall serve in their personal capacity.
+3\. The members of the Committee shall be elected and shall serve in their personal capacity.
 
 ### Art 29
 
-1. The members of the Committee shall be elected by secret ballot from a list of persons possessing the qualifications prescribed in Article 28 and nominated for the purpose by the States Parties to the present Covenant.
+1\. The members of the Committee shall be elected by secret ballot from a list of persons possessing the qualifications prescribed in Article 28 and nominated for the purpose by the States Parties to the present Covenant.
 
-2. Each State Party to the present Covenant may nominate not more than two persons. These persons shall be nationals of the nominating State.
+2\. Each State Party to the present Covenant may nominate not more than two persons. These persons shall be nationals of the nominating State.
 
-3. A person shall be eligible for renomination.
+3\. A person shall be eligible for renomination.
 
 ### Art 30
 
-1. The initial election shall be held not later than six months after the date of the entry into force of the present Covenant.
+1\. The initial election shall be held not later than six months after the date of the entry into force of the present Covenant.
 
-2. At least four months before the date of each election to the Committee, other than an election to fill a vacancy declared in accordance with Article 34, the Secretary General of the United Nations shall address a written invitation to the States Parties to the present Covenant to submit their nominations for membership of the Committee within three months.
+2\. At least four months before the date of each election to the Committee, other than an election to fill a vacancy declared in accordance with Article 34, the Secretary General of the United Nations shall address a written invitation to the States Parties to the present Covenant to submit their nominations for membership of the Committee within three months.
 
-3. The Secretary General of the United Nations shall prepare a list in alphabetical order of all the persons thus nominated, with an indication of the States Parties which have nominated them, and shall submit it to the States Parties to the present Covenant no later than one month before the date of each election.
+3\. The Secretary General of the United Nations shall prepare a list in alphabetical order of all the persons thus nominated, with an indication of the States Parties which have nominated them, and shall submit it to the States Parties to the present Covenant no later than one month before the date of each election.
 
-4. Elections of the members of the Committee shall be held at a meeting of the States Parties to the present Covenant convened by the Secretary General of the United Nations at the Headquarters of the United Nations. At that meeting, for which two thirds of the States Parties to the present Covenant shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4\. Elections of the members of the Committee shall be held at a meeting of the States Parties to the present Covenant convened by the Secretary General of the United Nations at the Headquarters of the United Nations. At that meeting, for which two thirds of the States Parties to the present Covenant shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
 ### Art 31
 
-1. The Committee may not include more than one national of the same State.
+1\. The Committee may not include more than one national of the same State.
 
-2. In the election of the Committee, consideration shall be given to equitable geographical distribution of membership and to the representation of the different forms of civilization and of the principal legal systems.
+2\. In the election of the Committee, consideration shall be given to equitable geographical distribution of membership and to the representation of the different forms of civilization and of the principal legal systems.
 
 ### Art 32
 
-1. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these nine members shall be chosen by lot by the Chairman of the meeting referred to in Article 30, paragraph 4.
+1\. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these nine members shall be chosen by lot by the Chairman of the meeting referred to in Article 30, paragraph 4.
 
-2. Elections at the expiry of office shall be held in accordance with the preceding Articles of this part of the present Covenant.
+2\. Elections at the expiry of office shall be held in accordance with the preceding Articles of this part of the present Covenant.
 
 ### Art 33
 
-1. If, in the unanimous opinion of the other members, a member of the Committee has ceased to carry out his functions for any cause other than absence of a temporary character, the Chairman of the Committee shall notify the Secretary General of the United Nations, who shall then declare the seat of that member to be vacant.
+1\. If, in the unanimous opinion of the other members, a member of the Committee has ceased to carry out his functions for any cause other than absence of a temporary character, the Chairman of the Committee shall notify the Secretary General of the United Nations, who shall then declare the seat of that member to be vacant.
 
-2. In the event of the death or the resignation of a member of the Committee, the Chairman shall immediately notify the Secretary General of the United Nations, who shall declare the seat vacant from the date of death or the date on which the resignation takes effect.
+2\. In the event of the death or the resignation of a member of the Committee, the Chairman shall immediately notify the Secretary General of the United Nations, who shall declare the seat vacant from the date of death or the date on which the resignation takes effect.
 
 ### Art 34
 
-1. When a vacancy is declared in accordance with Article 33 and if the term of office of the member to be replaced does not expire within six months of the declaration of the vacancy, the Secretary General of the United Nations shall notify each of the States Parties to the present Covenant, which may within two months submit nominations in accordance with Article 29 for the purpose of filling the vacancy.
+1\. When a vacancy is declared in accordance with Article 33 and if the term of office of the member to be replaced does not expire within six months of the declaration of the vacancy, the Secretary General of the United Nations shall notify each of the States Parties to the present Covenant, which may within two months submit nominations in accordance with Article 29 for the purpose of filling the vacancy.
 
-2. The Secretary General of the United Nations shall prepare a list in alphabetical order of the persons thus nominated and shall submit it to the States Parties to the present Covenant. The election to fill the vacancy shall then take place in accordance with the relevant provisions of this part of the present Covenant.
+2\. The Secretary General of the United Nations shall prepare a list in alphabetical order of the persons thus nominated and shall submit it to the States Parties to the present Covenant. The election to fill the vacancy shall then take place in accordance with the relevant provisions of this part of the present Covenant.
 
-3. A member of the Committee elected to fill a vacancy declared in accordance with Article 33 shall hold office for the remainder of the terms of the member who vacated the seat on the Committee under the provisions of that Article.
+3\. A member of the Committee elected to fill a vacancy declared in accordance with Article 33 shall hold office for the remainder of the terms of the member who vacated the seat on the Committee under the provisions of that Article.
 
 ### Art 35
 
@@ -2132,11 +2248,11 @@ The Secretary General of the United Nations shall provide the necessary staff an
 
 ### Art 37
 
-1. The Secretary General of the United Nations shall convene the initial meeting of the Committee at the Headquarters of the United Nations.
+1\. The Secretary General of the United Nations shall convene the initial meeting of the Committee at the Headquarters of the United Nations.
 
-2. After its initial meeting, the Committee shall meet at such times as shall be provided in its rules of procedure.
+2\. After its initial meeting, the Committee shall meet at such times as shall be provided in its rules of procedure.
 
-3. The Committee shall normally meet at the Headquarters of the United Nations or at the United Nations Office at Geneva.
+3\. The Committee shall normally meet at the Headquarters of the United Nations or at the United Nations Office at Geneva.
 
 ### Art 38
 
@@ -2144,49 +2260,49 @@ Every member of the Committee shall, before taking up his duties, make a solemn 
 
 ### Art 39
 
-1. The Committee shall elect its officers for a term of two years. They may be re-elected.
+1\. The Committee shall elect its officers for a term of two years. They may be re-elected.
 
-2. The Committee shall establish its own rules of procedure, but these rules shall provide, *inter alia,* that:twelve members shall constitute a quorum;decisions of the Committee shall be made by a majority vote of the members present.
+2\. The Committee shall establish its own rules of procedure, but these rules shall provide, *inter alia,* that:twelve members shall constitute a quorum;decisions of the Committee shall be made by a majority vote of the members present.
 
 ### Art 40
 
-1. The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights:within one year of the entry into force of the present Covenant for the States Parties concerned;thereafter whenever the Committee so requests.
+1\. The States Parties to the present Covenant undertake to submit reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made in the enjoyment of those rights:within one year of the entry into force of the present Covenant for the States Parties concerned;thereafter whenever the Committee so requests.
 
-2. All reports shall be submitted to the Secretary General of the United Nations, who shall transmit them to the Committee for consideration. Reports shall indicate the factors and difficulties, if any, affecting the implementation of the present Covenant.
+2\. All reports shall be submitted to the Secretary General of the United Nations, who shall transmit them to the Committee for consideration. Reports shall indicate the factors and difficulties, if any, affecting the implementation of the present Covenant.
 
-3. The Secretary General of the United Nations may, after consultation with the Committee, transmit to the specialized agencies concerned copies of such parts of the reports as may fall within their field of competence.
+3\. The Secretary General of the United Nations may, after consultation with the Committee, transmit to the specialized agencies concerned copies of such parts of the reports as may fall within their field of competence.
 
-4. The Committee shall study the reports submitted by the States Parties to the present Covenant. It shall transmit its reports, and such general comments as it may consider appropriate, to the States Parties. The Committee may also transmit to the Economic and Social Council these comments along with the copies of the reports it has received from States Parties to the present Covenant.
+4\. The Committee shall study the reports submitted by the States Parties to the present Covenant. It shall transmit its reports, and such general comments as it may consider appropriate, to the States Parties. The Committee may also transmit to the Economic and Social Council these comments along with the copies of the reports it has received from States Parties to the present Covenant.
 
-5. The States Parties to the present Covenant may submit to the Committee observations on any comments that may be made in accordance with paragraph 4 of this Article.
+5\. The States Parties to the present Covenant may submit to the Committee observations on any comments that may be made in accordance with paragraph 4 of this Article.
 
 ### Art 41
 
-1. A State Party to the present Covenant may at any time declare under this Article that it recognizes the competence of the Committee to receive and consider communications to the effect that a State Party claims that another State Party is not fulfilling its obligations under the present Covenant. Communications under this Article may be received and considered only if submitted by a State Party which has made a declaration recognizing in regard to itself the competence of the Committee. No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration. Communications received under this Article shall be dealt with in accordance with the following procedure:If a State Party to the present Covenant considers that another State Party is not giving effect to the provisions of the present Covenant, it may, by written communication, bring the matter to the attention of that State Party. Within three months after the receipt of the communication the receiving State shall afford the State which sent the communication an explanation, or any other statement in writing clarifying the matter which should include, to the extent possible and pertinent, reference to domestic procedures and remedies taken, pending, or available in the matter.If the matter is not adjusted to the satisfaction of both States Parties concerned within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter to the Committee, by notice given to the Committee and to the other State.The Committee shall deal with a matter referred to it only after it has ascertained that all available domestic remedies have been invoked and exhausted in the matter, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.The Committee shall hold closed meetings when examining communications under this Article.Subject to the provisions of subparagraph c, the Committee shall make available its good offices to the States Parties concerned with a view to a friendly solution of the matter on the basis of respect for human rights and fundamental freedoms as recognized in the present Covenant.In any matter referred to it, the Committee may call upon the States Parties concerned, referred to in subparagraph b, to supply any relevant information.The States Parties concerned, referred to in subparagraph b, shall have the right to be represented when the matter is being considered in the Committee and to make submissions orally and/or in writing.The Committee shall, within twelve months after the date of receipt of notice under subparagraph b, submit a report:If a solution within the terms of subparagraph e is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached;If a solution within the terms of subparagraph e is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made by the States Parties concerned shall be attached to the report.In every matter, the report shall be communicated to the States Parties concerned.
+1\. A State Party to the present Covenant may at any time declare under this Article that it recognizes the competence of the Committee to receive and consider communications to the effect that a State Party claims that another State Party is not fulfilling its obligations under the present Covenant. Communications under this Article may be received and considered only if submitted by a State Party which has made a declaration recognizing in regard to itself the competence of the Committee. No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration. Communications received under this Article shall be dealt with in accordance with the following procedure:If a State Party to the present Covenant considers that another State Party is not giving effect to the provisions of the present Covenant, it may, by written communication, bring the matter to the attention of that State Party. Within three months after the receipt of the communication the receiving State shall afford the State which sent the communication an explanation, or any other statement in writing clarifying the matter which should include, to the extent possible and pertinent, reference to domestic procedures and remedies taken, pending, or available in the matter.If the matter is not adjusted to the satisfaction of both States Parties concerned within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter to the Committee, by notice given to the Committee and to the other State.The Committee shall deal with a matter referred to it only after it has ascertained that all available domestic remedies have been invoked and exhausted in the matter, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.The Committee shall hold closed meetings when examining communications under this Article.Subject to the provisions of subparagraph c, the Committee shall make available its good offices to the States Parties concerned with a view to a friendly solution of the matter on the basis of respect for human rights and fundamental freedoms as recognized in the present Covenant.In any matter referred to it, the Committee may call upon the States Parties concerned, referred to in subparagraph b, to supply any relevant information.The States Parties concerned, referred to in subparagraph b, shall have the right to be represented when the matter is being considered in the Committee and to make submissions orally and/or in writing.The Committee shall, within twelve months after the date of receipt of notice under subparagraph b, submit a report:If a solution within the terms of subparagraph e is reached, the Committee shall confine its report to a brief statement of the facts and of the solution reached;If a solution within the terms of subparagraph e is not reached, the Committee shall confine its report to a brief statement of the facts; the written submissions and record of the oral submissions made by the States Parties concerned shall be attached to the report.In every matter, the report shall be communicated to the States Parties concerned.
 
-2. The provisions of this Article shall come into force when ten States Parties to the present Covenant have made declarations under paragraph 1 of this Article. Such declarations shall be deposited by the States Parties with the Secretary General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary General. Such a withdrawal shall not prejudice the consideration of any matter which is the subject of a communication already transmitted under this Article; no further communication by any State Party shall be received after the notification of withdrawal of the declaration has been received by the Secretary General, unless the State Party concerned has made a new declaration.
+2\. The provisions of this Article shall come into force when ten States Parties to the present Covenant have made declarations under paragraph 1 of this Article. Such declarations shall be deposited by the States Parties with the Secretary General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary General. Such a withdrawal shall not prejudice the consideration of any matter which is the subject of a communication already transmitted under this Article; no further communication by any State Party shall be received after the notification of withdrawal of the declaration has been received by the Secretary General, unless the State Party concerned has made a new declaration.
 
 ### Art 42
 
 1.If a matter referred to the Committee in accordance with Article 41 is not resolved to the satisfaction of the States Parties concerned, the Committee may, with the prior consent of the States Parties concerned, appoint an *ad hoc* Conciliation Commission (hereafter referred to as the Commission). The good offices of the Commission shall be made available to the States Parties concerned with a view to an amicable solution of the matter on the basis of respect for the present Covenant.The Commission shall consist of five persons acceptable to the States Parties concerned. If the States Parties concerned fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission concerning whom no agreement has been reached shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its members.
 
-2. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States Parties concerned, or of a State not Party to the present Covenant, or of a State Party which has not made a declaration under Article 41.
+2\. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States Parties concerned, or of a State not Party to the present Covenant, or of a State Party which has not made a declaration under Article 41.
 
-3. The Commission shall elect its own Chairman and adopt its own rules of procedure.
+3\. The Commission shall elect its own Chairman and adopt its own rules of procedure.
 
-4. The meetings of the Commission shall normally be held at the Headquarters of the United Nations or at the United Nations Office at Geneva. However, they may be held at such other convenient places as the Commission may determine in consultation with the Secretary General of the United Nations and the States Parties concerned.
+4\. The meetings of the Commission shall normally be held at the Headquarters of the United Nations or at the United Nations Office at Geneva. However, they may be held at such other convenient places as the Commission may determine in consultation with the Secretary General of the United Nations and the States Parties concerned.
 
-5. The secretariat provided in accordance with Article 36 shall also service the commissions appointed under this Article.
+5\. The secretariat provided in accordance with Article 36 shall also service the commissions appointed under this Article.
 
-6. The information received and collated by the Committee shall be made available to the Commission and the Commission may call upon the States Parties concerned to supply any other relevant information.
+6\. The information received and collated by the Committee shall be made available to the Commission and the Commission may call upon the States Parties concerned to supply any other relevant information.
 
-7. When the Commission has fully considered the matter, but in any event not later than twelve months after having been seized of the matter, it shall submit to the Chairman of the Committee a report for communication to the States Parties concerned:if the Commission is unable to complete its consideration of the matter within twelve months, it shall confine its report to a brief statement of the status of its consideration of the matter;if an amicable solution to the matter on the basis of respect for human rights as recognized in the present Covenant is reached, the Commission shall confine its report to a brief statement of the facts and of the solution reached;if a solution within the terms of subparagraph b is not reached, the Commission's report shall embody its findings on all questions of fact relevant to the issues between the States Parties concerned, and its views on the possibilities of an amicable solution of the matter. This report shall also contain the written submissions and a record of the oral submissions made by the States Parties concerned;if the Commission's report is submitted under subparagraph c, the States Parties concerned shall, within three months of the receipt of the report, notify the Chairman of the Committee whether or not they accept the contents of the report of the Commission.
+7\. When the Commission has fully considered the matter, but in any event not later than twelve months after having been seized of the matter, it shall submit to the Chairman of the Committee a report for communication to the States Parties concerned:if the Commission is unable to complete its consideration of the matter within twelve months, it shall confine its report to a brief statement of the status of its consideration of the matter;if an amicable solution to the matter on the basis of respect for human rights as recognized in the present Covenant is reached, the Commission shall confine its report to a brief statement of the facts and of the solution reached;if a solution within the terms of subparagraph b is not reached, the Commission's report shall embody its findings on all questions of fact relevant to the issues between the States Parties concerned, and its views on the possibilities of an amicable solution of the matter. This report shall also contain the written submissions and a record of the oral submissions made by the States Parties concerned;if the Commission's report is submitted under subparagraph c, the States Parties concerned shall, within three months of the receipt of the report, notify the Chairman of the Committee whether or not they accept the contents of the report of the Commission.
 
-8. The provisions of this Article are without prejudice to the responsibilities of the Committee under Article 41.
+8\. The provisions of this Article are without prejudice to the responsibilities of the Committee under Article 41.
 
-9. The States Parties concerned shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary General of the United Nations.
+9\. The States Parties concerned shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary General of the United Nations.
 
-10. The Secretary General of the United Nations shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States Parties concerned, in accordance with paragraph 9 of this Article.
+10\. The Secretary General of the United Nations shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States Parties concerned, in accordance with paragraph 9 of this Article.
 
 ### Art 43
 
@@ -2214,21 +2330,21 @@ Nothing in the present Covenant shall be interpreted as impairing the inherent r
 
 ### Art 48
 
-1. The present Covenant is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a Party to the present Covenant.
+1\. The present Covenant is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a Party to the present Covenant.
 
-2. The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
+2\. The present Covenant is subject to ratification. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
 
-3. The present Covenant shall be open to accession by any State referred to in paragraph 1 of this Article.
+3\. The present Covenant shall be open to accession by any State referred to in paragraph 1 of this Article.
 
-4. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
+4\. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
 
-5. The Secretary General of the United Nations shall inform all States which have signed this Covenant or acceded to it of the deposit of each instrument of ratification or accession.
+5\. The Secretary General of the United Nations shall inform all States which have signed this Covenant or acceded to it of the deposit of each instrument of ratification or accession.
 
 ### Art 49
 
-1. The present Covenant shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the thirty-fifth instrument of ratification or instrument of accession.
+1\. The present Covenant shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the thirty-fifth instrument of ratification or instrument of accession.
 
-2. For each State ratifying the present Covenant or acceding to it after the deposit of the thirty-fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
+2\. For each State ratifying the present Covenant or acceding to it after the deposit of the thirty-fifth instrument of ratification or instrument of accession, the present Covenant shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
 
 ### Art 50
 
@@ -2236,11 +2352,11 @@ The provisions of the present Covenant shall extend to all parts of federal Stat
 
 ### Art 51
 
-1. Any State Party to the present Covenant may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General of the United Nations shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1\. Any State Party to the present Covenant may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General of the United Nations shall thereupon communicate any proposed amendments to the States Parties to the present Covenant with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes.
+2\. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Covenant in accordance with their respective constitutional processes.
 
-3. When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted.
+3\. When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Covenant and any earlier amendment which they have accepted.
 
 ### Art 52
 
@@ -2248,11 +2364,17 @@ Irrespective of the notifications made under Article 48, paragraph 5, the Secret
 
 ### Art 53
 
-1. The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Covenant, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in Article 48.
+2\. The Secretary General of the United Nations shall transmit certified copies of the present Covenant to all States referred to in Article 48.
 
 ### Optional Protocol to the International Covenant on Civil and Political Rights
+
+Adopted and opened for signature, ratification and accession by General Assembly Resolution 2200 A (XXI) of 16 December 1966
+
+Entry into force: 23 March 1976, in accordance with Article 9
+
+The States Parties to the present Protocol,
 
 Considering that in order further to achieve the purposes of the International Covenant on Civil and Political Rights (hereinafter referred to as the Covenant) and the implementation of its provisions it would be appropriate to enable the Human Rights Committee set up in part IV of the Covenant (hereinafter referred to as the Committee) to receive and consider, as provided in the present Protocol, communications from individuals claiming to be victims of violations of any of the rights set forth in the Covenant,
 
@@ -2272,19 +2394,19 @@ The Committee shall consider inadmissible any communication under the present Pr
 
 ### Art 4
 
-1. Subject to the provisions of Article 3, the Committee shall bring any communications submitted to it under the present Protocol to the attention of the State Party to the present Protocol alleged to be violating any provision of the Covenant.
+1\. Subject to the provisions of Article 3, the Committee shall bring any communications submitted to it under the present Protocol to the attention of the State Party to the present Protocol alleged to be violating any provision of the Covenant.
 
-2. Within six months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
+2\. Within six months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
 
 ### Art 5
 
-1. The Committee shall consider communications received under the present Protocol in the light of all written information made available to it by the individual and by the State Party concerned.
+1\. The Committee shall consider communications received under the present Protocol in the light of all written information made available to it by the individual and by the State Party concerned.
 
-2. The Committee shall not consider any communication from an individual unless it has ascertained that:the same matter is not being examined under another procedure of international investigation or settlement;the individual has exhausted all available domestic remedies. This shall not be the rule where the application of the remedies is unreasonably prolonged.
+2\. The Committee shall not consider any communication from an individual unless it has ascertained that:the same matter is not being examined under another procedure of international investigation or settlement;the individual has exhausted all available domestic remedies. This shall not be the rule where the application of the remedies is unreasonably prolonged.
 
-3. The Committee shall hold closed meetings when examining communications under the present Protocol.
+3\. The Committee shall hold closed meetings when examining communications under the present Protocol.
 
-4. The Committee shall forward its views to the State Party concerned and to the individual.
+4\. The Committee shall forward its views to the State Party concerned and to the individual.
 
 ### Art 6
 
@@ -2296,21 +2418,21 @@ Pending the achievement of the objectives of Resolution 1514 (XV) adopted by the
 
 ### Art 8
 
-1. The present Protocol is open for signature by any State which has signed the Covenant.
+1\. The present Protocol is open for signature by any State which has signed the Covenant.
 
-2. The present Protocol is subject to ratification by any State which has ratified or acceded to the Covenant. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
+2\. The present Protocol is subject to ratification by any State which has ratified or acceded to the Covenant. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
 
-3. The present Protocol shall be open to accession by any State which has ratified or acceded to the Covenant.
+3\. The present Protocol shall be open to accession by any State which has ratified or acceded to the Covenant.
 
-4. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
+4\. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
 
-5. The Secretary General of the United Nations shall inform all States which have signed the present Protocol or acceded to it of the deposit of each instrument of ratification or accession.
+5\. The Secretary General of the United Nations shall inform all States which have signed the present Protocol or acceded to it of the deposit of each instrument of ratification or accession.
 
 ### Art 9
 
-1. Subject to the entry into force of the Covenant, the present Protocol shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the tenth instrument of ratification or instrument of accession.
+1\. Subject to the entry into force of the Covenant, the present Protocol shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the tenth instrument of ratification or instrument of accession.
 
-2. For each State ratifying the present Protocol or acceding to it after the deposit of the tenth instrument of ratification or instrument of accession, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
+2\. For each State ratifying the present Protocol or acceding to it after the deposit of the tenth instrument of ratification or instrument of accession, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or instrument of accession.
 
 ### Art 10
 
@@ -2318,17 +2440,17 @@ The provisions of the present Protocol shall extend to all parts of federal Stat
 
 ### Art 11
 
-1. Any State Party to the present Protocol may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General shall thereupon communicate any proposed amendments to the States Parties to the present Protocol with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposal. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1\. Any State Party to the present Protocol may propose an amendment and file it with the Secretary General of the United Nations. The Secretary General shall thereupon communicate any proposed amendments to the States Parties to the present Protocol with a request that they notify him whether they favour a conference of States Parties for the purpose of considering and voting upon the proposal. In the event that at least one third of the States Parties favours such a conference, the Secretary General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Protocol in accordance with their respective constitutional processes.
+2\. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Protocol in accordance with their respective constitutional processes.
 
-3. When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Protocol and any earlier amendment which they have accepted.
+3\. When amendments come into force, they shall be binding on those States Parties which have accepted them, other States Parties still being bound by the provisions of the present Protocol and any earlier amendment which they have accepted.
 
 ### Art 12
 
-1. Any State Party may denounce the present Protocol at any time by written notification addressed to the Secretary General of the United Nations. Denunciation shall take effect three months after the date of receipt of the notification by the Secretary General.
+1\. Any State Party may denounce the present Protocol at any time by written notification addressed to the Secretary General of the United Nations. Denunciation shall take effect three months after the date of receipt of the notification by the Secretary General.
 
-2. Denunciation shall be without prejudice to the continued application of the provisions of the present Protocol to any communication submitted under Article 2 before the effective date of denunciation.
+2\. Denunciation shall be without prejudice to the continued application of the provisions of the present Protocol to any communication submitted under Article 2 before the effective date of denunciation.
 
 ### Art 13
 
@@ -2336,11 +2458,17 @@ Irrespective of the notifications made under Article 8, paragraph 5, of the pres
 
 ### Art 14
 
-1. The present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Protocol, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in Article 48 of the Covenant.
+2\. The Secretary General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in Article 48 of the Covenant.
 
 ### Second optional Protocol to the International Covenant on Civil and Political Rights, Aiming at the Abolition of the Death Penalty
+
+Adopted and opened for signature, ratification and acceptance by General Assembly Resolution 44/128 of 15 December 1989
+
+Entry into force: 11 July 1991
+
+The States Parties to the present Protocol,
 
 Believing that abolition of the death penalty contributes to enhancement of human dignity and progressive development of human rights,
 
@@ -2356,17 +2484,17 @@ Have agreed as follows:
 
 ### Art 1
 
-1. No one within the jurisdiction of a State Party to the present Protocol shall be executed.
+1\. No one within the jurisdiction of a State Party to the present Protocol shall be executed.
 
-2. Each State Party shall take all necessary measures to abolish the death penalty within its jurisdiction.
+2\. Each State Party shall take all necessary measures to abolish the death penalty within its jurisdiction.
 
 ### Art 2
 
-1. No reservation is admissible to the present Protocol, except for a reservation made at the time of ratification or accession that provides for the application of the death penalty in time of war pursuant to a conviction for a most serious crime of a military nature committed during wartime.
+1\. No reservation is admissible to the present Protocol, except for a reservation made at the time of ratification or accession that provides for the application of the death penalty in time of war pursuant to a conviction for a most serious crime of a military nature committed during wartime.
 
-2. The State Party making such a reservation shall at the time of ratification or accession communicate to the Secretary General of the United Nations the relevant provisions of its national legislation applicable during wartime.
+2\. The State Party making such a reservation shall at the time of ratification or accession communicate to the Secretary General of the United Nations the relevant provisions of its national legislation applicable during wartime.
 
-3. The State Party having made such a reservation shall notify the Secretary General of the United Nations of any beginning or ending of a state of war applicable to its territory.
+3\. The State Party having made such a reservation shall notify the Secretary General of the United Nations of any beginning or ending of a state of war applicable to its territory.
 
 ### Art 3
 
@@ -2382,27 +2510,27 @@ With respect to the States Parties to the first Optional Protocol to the Interna
 
 ### Art 6
 
-1. The provisions of the present Protocol shall apply as additional provisions to the Covenant.
+1\. The provisions of the present Protocol shall apply as additional provisions to the Covenant.
 
-2. Without prejudice to the possibility of a reservation under Article 2 of the present Protocol, the right guaranteed in Article 1, paragraph 1, of the present Protocol shall not be subject to any derogation under Article 4 of the Covenant.
+2\. Without prejudice to the possibility of a reservation under Article 2 of the present Protocol, the right guaranteed in Article 1, paragraph 1, of the present Protocol shall not be subject to any derogation under Article 4 of the Covenant.
 
 ### Art 7
 
-1. The present Protocol is open for signature by any State that has signed the Covenant.
+1\. The present Protocol is open for signature by any State that has signed the Covenant.
 
-2. The present Protocol is subject to ratification by any State that has ratified the Covenant or acceded to it. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
+2\. The present Protocol is subject to ratification by any State that has ratified the Covenant or acceded to it. Instruments of ratification shall be deposited with the Secretary General of the United Nations.
 
-3. The present Protocol shall be open to accession by any State that has ratified the Covenant or acceded to it.
+3\. The present Protocol shall be open to accession by any State that has ratified the Covenant or acceded to it.
 
-4. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
+4\. Accession shall be effected by the deposit of an instrument of accession with the Secretary General of the United Nations.
 
-5. The Secretary General of the United Nations shall inform all States that have signed the present Protocol or acceded to it of the deposit of each instrument of ratification or accession.
+5\. The Secretary General of the United Nations shall inform all States that have signed the present Protocol or acceded to it of the deposit of each instrument of ratification or accession.
 
 ### Art 8
 
-1. The present Protocol shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the tenth instrument of ratification or accession.
+1\. The present Protocol shall enter into force three months after the date of the deposit with the Secretary General of the United Nations of the tenth instrument of ratification or accession.
 
-2. For each State ratifying the present Protocol or acceding to it after the deposit of the tenth instrument of ratification or accession, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or accession.
+2\. For each State ratifying the present Protocol or acceding to it after the deposit of the tenth instrument of ratification or accession, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or accession.
 
 ### Art 9
 
@@ -2414,13 +2542,19 @@ The Secretary General of the United Nations shall inform all States referred to 
 
 ### Art 11
 
-1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in Article 48 of the Covenant.
+2\. The Secretary General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in Article 48 of the Covenant.
 
 ## Vedlegg 6. Den internasjonale konvensjonen om sivile og politiske rettigheter med protokoller (norsk oversettelse)
 
 ### Internasjonal konvensjon om sivile og politiske rettigheter
+
+Vedtatt og åpnet for signatur, ratifikasjon og tiltredelse ved FNs generalforsamlings resolusjon 2200 A (XXI) 16. desember 1966
+
+I kraft 23. mars 1976
+
+De stater som er parter til denne konvensjonen,
 
 som tar i betraktning, i samsvar med de prinsipper som er fastslått i De forente nasjoners pakt, at erkjennelsen av den iboende verdighet hos alle medlemmer av menneskeslekten og av deres like og umistelige rettigheter er grunnlaget for frihet, rettferd og fred i verden,
 
@@ -2438,21 +2572,21 @@ er blitt enige om følgende artikler:
 
 ### Art 1
 
-1. Alle folk har selvbestemmelsesrett. I kraft av denne rett bestemmer de fritt sin politiske stilling, og fremmer fritt sin egen økonomiske, sosiale og kulturelle utvikling.
+1\. Alle folk har selvbestemmelsesrett. I kraft av denne rett bestemmer de fritt sin politiske stilling, og fremmer fritt sin egen økonomiske, sosiale og kulturelle utvikling.
 
-2. Alle folk kan for sine egne formål fritt råde over sine naturrikdommer og -forekomster, så langt dette ikke setter tilside forpliktelser som følger av internasjonalt økonomisk samarbeid, basert på prinsippet om gjensidig nytte og folkerettens regler. I intet tilfelle må et folk bli berøvet sitt eget eksistensgrunnlag.
+2\. Alle folk kan for sine egne formål fritt råde over sine naturrikdommer og -forekomster, så langt dette ikke setter tilside forpliktelser som følger av internasjonalt økonomisk samarbeid, basert på prinsippet om gjensidig nytte og folkerettens regler. I intet tilfelle må et folk bli berøvet sitt eget eksistensgrunnlag.
 
-3. Konvensjonspartene, deriblant de stater som har ansvaret for administrasjonen av ikke-selvstyrte områder og tilsynsområder, skal arbeide for å virkeliggjøre folkenes selvbestemmelsesrett, og skal respektere denne rett, i overensstemmelse med bestemmelsene i De forente nasjoners pakt.
+3\. Konvensjonspartene, deriblant de stater som har ansvaret for administrasjonen av ikke-selvstyrte områder og tilsynsområder, skal arbeide for å virkeliggjøre folkenes selvbestemmelsesrett, og skal respektere denne rett, i overensstemmelse med bestemmelsene i De forente nasjoners pakt.
 
 ### Del II
 
 ### Art 2
 
-1. Hver konvensjonspart forplikter seg til å respektere de rettigheter som anerkjennes i denne konvensjon, og å sikre dem for alle som befinner seg på dens territorium og er undergitt dens jurisdiksjon, uten forskjellsbehandling av noe slag slik som på grunn av rase, hudfarge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller status for øvrig.
+1\. Hver konvensjonspart forplikter seg til å respektere de rettigheter som anerkjennes i denne konvensjon, og å sikre dem for alle som befinner seg på dens territorium og er undergitt dens jurisdiksjon, uten forskjellsbehandling av noe slag slik som på grunn av rase, hudfarge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial opprinnelse, eiendom, fødsel eller status for øvrig.
 
-2. Hver konvensjonspart forplikter seg til, i samsvar med sine konstitusjonelle bestemmelser og med bestemmelsene i denne konvensjon, å treffe slike lovgivningsmessige eller andre tiltak som vil være nødvendige for å gjennomføre de rettigheter som anerkjennes i denne konvensjon, når slike tiltak ikke allerede er i kraft.
+2\. Hver konvensjonspart forplikter seg til, i samsvar med sine konstitusjonelle bestemmelser og med bestemmelsene i denne konvensjon, å treffe slike lovgivningsmessige eller andre tiltak som vil være nødvendige for å gjennomføre de rettigheter som anerkjennes i denne konvensjon, når slike tiltak ikke allerede er i kraft.
 
-3. Hver konvensjonspart forplikter seg til:Å sikre at enhver, hvis rettigheter og friheter etter denne konvensjon blir krenket, skal ha adgang til effektive rettsmidler, uansett om krenkelsen er foretatt av personer som har handlet i offentlig tjeneste,Å sikre at enhver som gjør krav på slike rettsmidler skal få sin rett til dette prøvet av kompetente judisielle, administrative eller lovgivende myndigheter, eller av en annen myndighet som er kompetent i henhold til statens rettsordning, samt å utvikle mulighetene for overprøving for domstolene,Å sikre at de kompetente myndigheter tar en klage til følge dersom den er funnet å være berettiget.
+3\. Hver konvensjonspart forplikter seg til:Å sikre at enhver, hvis rettigheter og friheter etter denne konvensjon blir krenket, skal ha adgang til effektive rettsmidler, uansett om krenkelsen er foretatt av personer som har handlet i offentlig tjeneste,Å sikre at enhver som gjør krav på slike rettsmidler skal få sin rett til dette prøvet av kompetente judisielle, administrative eller lovgivende myndigheter, eller av en annen myndighet som er kompetent i henhold til statens rettsordning, samt å utvikle mulighetene for overprøving for domstolene,Å sikre at de kompetente myndigheter tar en klage til følge dersom den er funnet å være berettiget.
 
 ### Art 3
 
@@ -2460,33 +2594,33 @@ Konvensjonspartene forplikter seg til å sikre menn og kvinner lik rett til å n
 
 ### Art 4
 
-1. I tilfelle av offentlig kunngjort nødstilstand som truer nasjonens liv, kan konvensjonspartene ta forholdsregler som avviker fra deres forpliktelser etter denne konvensjon, i den utstrekning det er strengt nødvendig på grunn av forholdene, og under forutsetning av at disse forholdsregler ikke er i strid med deres øvrige forpliktelser etter folkeretten, og ikke innebærer forskjellsbehandling bare på grunn av rase, hudfarge, kjønn, språk, religion eller sosial opprinnelse.
+1\. I tilfelle av offentlig kunngjort nødstilstand som truer nasjonens liv, kan konvensjonspartene ta forholdsregler som avviker fra deres forpliktelser etter denne konvensjon, i den utstrekning det er strengt nødvendig på grunn av forholdene, og under forutsetning av at disse forholdsregler ikke er i strid med deres øvrige forpliktelser etter folkeretten, og ikke innebærer forskjellsbehandling bare på grunn av rase, hudfarge, kjønn, språk, religion eller sosial opprinnelse.
 
-2. Ingen avvikelse fra artiklene 6, 7, 8 (paragraf 1 og 2), 11, 15, 16 og 18 kan gjøres med hjemmel i bestemmelsen i foregående paragraf.
+2\. Ingen avvikelse fra artiklene 6, 7, 8 (paragraf 1 og 2), 11, 15, 16 og 18 kan gjøres med hjemmel i bestemmelsen i foregående paragraf.
 
-3. Konvensjonspart som benytter seg av retten til å avvike fra konvensjonen skal omgående gjennom De forente nasjoners generalsekretær underrette de andre konvensjonsparter om hvilke bestemmelser som det avvikes fra og om grunnene for avvikelsene. Ny meddelelse skal gis ad samme vei den dag da slike avvikelser blir opphevet.
+3\. Konvensjonspart som benytter seg av retten til å avvike fra konvensjonen skal omgående gjennom De forente nasjoners generalsekretær underrette de andre konvensjonsparter om hvilke bestemmelser som det avvikes fra og om grunnene for avvikelsene. Ny meddelelse skal gis ad samme vei den dag da slike avvikelser blir opphevet.
 
 ### Art 5
 
-1. Intet i denne konvensjon skal kunne tolkes som å innebære rett for noen stat, gruppe eller person til å ta del i noen virksomhet eller utføre noen handling som tar sikte på å tilintetgjøre noen av de rettigheter eller friheter som er anerkjent i denne konvensjon, eller å begrense disse i større utstrekning enn konvensjonen gir adgang til.
+1\. Intet i denne konvensjon skal kunne tolkes som å innebære rett for noen stat, gruppe eller person til å ta del i noen virksomhet eller utføre noen handling som tar sikte på å tilintetgjøre noen av de rettigheter eller friheter som er anerkjent i denne konvensjon, eller å begrense disse i større utstrekning enn konvensjonen gir adgang til.
 
-2. Ingen innskrenkning i eller avvikelse fra noen av de grunnleggende menneskerettigheter som anerkjennes eller gjelder i en konvensjonsstat i kraft av lov, overenskomster, forskrifter eller sedvane, skal kunne foretas under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller anerkjenner dem i mindre utstrekning.
+2\. Ingen innskrenkning i eller avvikelse fra noen av de grunnleggende menneskerettigheter som anerkjennes eller gjelder i en konvensjonsstat i kraft av lov, overenskomster, forskrifter eller sedvane, skal kunne foretas under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller anerkjenner dem i mindre utstrekning.
 
 ### Del III
 
 ### Art 6
 
-1. Ethvert menneske har en iboende rett til livet. Denne rett skal beskyttes ved lov. Ingen skal vilkårlig berøves livet.
+1\. Ethvert menneske har en iboende rett til livet. Denne rett skal beskyttes ved lov. Ingen skal vilkårlig berøves livet.
 
-2. I stater hvor dødsstraffen ikke er avskaffet, må dødsdom bare idømmes for de mest alvorlige forbrytelser, i samsvar med den lov som gjaldt da forbrytelsen ble begått. [Denne lov](lov/1999-05-21-30) må ikke være i strid med bestemmelsene i denne konvensjon og konvensjonen om forebyggelse og avstraffelse av folkemord. Dødsstraff kan bare fullbyrdes etter endelig dom avsagt av en kompetent domstol.
+2\. I stater hvor dødsstraffen ikke er avskaffet, må dødsdom bare idømmes for de mest alvorlige forbrytelser, i samsvar med den lov som gjaldt da forbrytelsen ble begått. [Denne lov](lov/1999-05-21-30) må ikke være i strid med bestemmelsene i denne konvensjon og konvensjonen om forebyggelse og avstraffelse av folkemord. Dødsstraff kan bare fullbyrdes etter endelig dom avsagt av en kompetent domstol.
 
-3. Når berøvelse av liv utgjør folkemord, er det forutsatt at intet i denne artikkel skal berettige en konvensjonspart til på noen måte å avvike fra forpliktelser som den har påtatt seg i henhold til bestemmelsene i konvensjonen om forebyggelse og avstraffelse av folkemord.
+3\. Når berøvelse av liv utgjør folkemord, er det forutsatt at intet i denne artikkel skal berettige en konvensjonspart til på noen måte å avvike fra forpliktelser som den har påtatt seg i henhold til bestemmelsene i konvensjonen om forebyggelse og avstraffelse av folkemord.
 
-4. Enhver som er dømt til døden, skal ha rett til å søke benådning eller omgjøring av straffen. Amnesti, benådning eller omgjøring av straffen skal kunne tilstås i alle tilfelle.
+4\. Enhver som er dømt til døden, skal ha rett til å søke benådning eller omgjøring av straffen. Amnesti, benådning eller omgjøring av straffen skal kunne tilstås i alle tilfelle.
 
-5. Dødsdom må ikke idømmes for forbrytelser begått av personer under 18 år, og må ikke fullbyrdes mot gravide kvinner.
+5\. Dødsdom må ikke idømmes for forbrytelser begått av personer under 18 år, og må ikke fullbyrdes mot gravide kvinner.
 
-6. Intet i denne artikkel skal kunne påberopes for å forsinke eller forhindre avskaffelse av dødsstraffen i noen konvensjonsstat.
+6\. Intet i denne artikkel skal kunne påberopes for å forsinke eller forhindre avskaffelse av dødsstraffen i noen konvensjonsstat.
 
 ### Art 7
 
@@ -2494,31 +2628,31 @@ Ingen må utsettes for tortur eller for grusom, umenneskelig eller nedverdigende
 
 ### Art 8
 
-1. Ingen må holdes i slaveri; slaveri og slavehandel i enhver form skal være forbudt.
+1\. Ingen må holdes i slaveri; slaveri og slavehandel i enhver form skal være forbudt.
 
-2. Ingen må holdes i trelldom.
+2\. Ingen må holdes i trelldom.
 
 3.Ingen må pålegges å utføre tvangsarbeid eller annet påtvunget arbeid.I land hvor frihetsberøvelse med straffarbeid kan idømmes som straff for en forbrytelse skal bestemmelsen i punkt a ikke være til hinder for å la noen utføre straffarbeid i samsvar med en dom på tvangsarbeid som er avsagt av en kompetent domstol.Uttrykket «tvangsarbeid eller annet påtvunget arbeid» i denne bestemmelse omfatter ikke:Arbeid eller tjeneste, som ikke er nevnt under punkt b og som normalt kreves av den som er berøvet friheten i henhold til en lovlig beslutning truffet av en domstol, eller av den som er betinget løslatt fra slik frihetsberøvelse.Tjeneste av militær karakter og, i land som anerkjenner militærnekting av samvittighetsgrunner, annen samfunnstjeneste som i medhold av lov kreves av den som nekter militærtjeneste av samvittighetsgrunner.Tjeneste som kreves når nødstilstand eller ulykker truer samfunnets liv eller velferd.Arbeid eller tjeneste som inngår i vanlige borgerplikter.
 
 ### Art 9
 
-1. Enhver har rett til frihet og personlig sikkerhet. Ingen må utsettes for vilkårlig arrest eller annen vilkårlig frihetsberøvelse. Ingen må berøves friheten uten av slike grunner og i overensstemmelse med slik fremgangsmåte som er fastsatt i lov.
+1\. Enhver har rett til frihet og personlig sikkerhet. Ingen må utsettes for vilkårlig arrest eller annen vilkårlig frihetsberøvelse. Ingen må berøves friheten uten av slike grunner og i overensstemmelse med slik fremgangsmåte som er fastsatt i lov.
 
-2. Den som arresteres, skal ved pågripelsen underrettes om grunnene til denne, og skal straks underrettes om enhver siktelse mot ham.
+2\. Den som arresteres, skal ved pågripelsen underrettes om grunnene til denne, og skal straks underrettes om enhver siktelse mot ham.
 
-3. Den som arresteres eller tilbakeholdes på grunn av siktelse for en straffbar handling, skal omgående fremstilles for en dommer eller en annen øvrighetsperson som ved lov er gitt domsmyndighet, og skal ha rett til rettergang innen rimelig tid eller til løslatelse. Det skal ikke være den alminnelige regel at personer som avventer rettergang skal holdes i varetekt, men løslatelse kan gjøres betinget av garantier for at vedkommende fremstiller seg under rettsforhandlingene, ved ethvert annet trinn av rettergangen og, i påkommende tilfelle, til fullbyrdelse av dommen.
+3\. Den som arresteres eller tilbakeholdes på grunn av siktelse for en straffbar handling, skal omgående fremstilles for en dommer eller en annen øvrighetsperson som ved lov er gitt domsmyndighet, og skal ha rett til rettergang innen rimelig tid eller til løslatelse. Det skal ikke være den alminnelige regel at personer som avventer rettergang skal holdes i varetekt, men løslatelse kan gjøres betinget av garantier for at vedkommende fremstiller seg under rettsforhandlingene, ved ethvert annet trinn av rettergangen og, i påkommende tilfelle, til fullbyrdelse av dommen.
 
-4. Den som berøves friheten ved arrest eller på annen måte, skal ha rett til å bringe saken inn for en domstol, for at denne uten opphold kan ta stilling til lovligheten av frihetsberøvelsen, og beordre ham løslatt dersom frihetsberøvelsen ikke er lovlig.
+4\. Den som berøves friheten ved arrest eller på annen måte, skal ha rett til å bringe saken inn for en domstol, for at denne uten opphold kan ta stilling til lovligheten av frihetsberøvelsen, og beordre ham løslatt dersom frihetsberøvelsen ikke er lovlig.
 
-5. Den som har vært utsatt for ulovlig arrest eller annen frihetsberøvelse, skal ha rett til erstatning.
+5\. Den som har vært utsatt for ulovlig arrest eller annen frihetsberøvelse, skal ha rett til erstatning.
 
 ### Art 10
 
-1. Alle som er berøvet friheten, skal behandles humant, og med respekt for menneskets iboende verdighet.
+1\. Alle som er berøvet friheten, skal behandles humant, og med respekt for menneskets iboende verdighet.
 
 2.Personer som det er reist tiltale mot skal, hvis det ikke foreligger ekstraordinære forhold, holdes adskilt fra dømte personer, og skal gis særskilt behandling avpasset deres stilling som ikke domfelte personer.Unge personer som det er reist tiltale mot, skal holdes adskilt fra voksne, og deres sak skal avgjøres så raskt som mulig.
 
-3. I straffesystemet skal det inngå en behandling av fangene som har til hovedformål å forbedre dem og bringe dem tilbake til samfunnet. Unge lovovertredere skal holdes adskilt fra voksne, og skal gis en behandling som er avpasset deres alder og rettsstilling.
+3\. I straffesystemet skal det inngå en behandling av fangene som har til hovedformål å forbedre dem og bringe dem tilbake til samfunnet. Unge lovovertredere skal holdes adskilt fra voksne, og skal gis en behandling som er avpasset deres alder og rettsstilling.
 
 ### Art 11
 
@@ -2526,13 +2660,13 @@ Ingen må settes i fengsel bare på grunn av manglende evne til å oppfylle en k
 
 ### Art 12
 
-1. Enhver som lovlig befinner seg på en stats territorium, skal ha rett til å bevege seg fritt der og til fritt å velge sitt bosted.
+1\. Enhver som lovlig befinner seg på en stats territorium, skal ha rett til å bevege seg fritt der og til fritt å velge sitt bosted.
 
-2. Enhver skal ha rett til å forlate et hvilket som helst land, også sitt eget.
+2\. Enhver skal ha rett til å forlate et hvilket som helst land, også sitt eget.
 
-3. I de forannevnte rettigheter skal det ikke gjøres andre begrensninger enn slike som er fastsatt ved lov, som er nødvendige for å beskytte den nasjonale sikkerhet, den offentlige orden *(ordre public),* den offentlige helse eller moral eller andres friheter og rettigheter, og som er forenlige med de andre rettigheter som anerkjennes i denne konvensjon.
+3\. I de forannevnte rettigheter skal det ikke gjøres andre begrensninger enn slike som er fastsatt ved lov, som er nødvendige for å beskytte den nasjonale sikkerhet, den offentlige orden *(ordre public),* den offentlige helse eller moral eller andres friheter og rettigheter, og som er forenlige med de andre rettigheter som anerkjennes i denne konvensjon.
 
-4. Ingen skal vilkårlig berøves retten til å reise inn i sitt eget land.
+4\. Ingen skal vilkårlig berøves retten til å reise inn i sitt eget land.
 
 ### Art 13
 
@@ -2540,25 +2674,25 @@ Utlending som lovlig oppholder seg på en konvensjonsparts territorium, kan bare
 
 ### Art 14
 
-1. Alle skal være like for domstolene. Enhver har ved behandlingen av en siktelse mot ham for en straffbar handling eller av spørsmål om hans rettigheter og forpliktelser i et tvistemål, rett til upartisk og offentlig rettergang ved en kompetent, uavhengig og upartisk domstol som er opprettet i henhold til lov. Pressen og offentligheten kan utelukkes fra hele eller en del av rettergangen av hensyn til sedelighet, den offentlige orden (*ordre public*), eller den nasjonale sikkerhet i et demokratisk samfunn, eller hvis hensynet til partenes privatliv krever det, eller i den utstrekning retten finner det strengt nødvendig når offentlighet på grunn av ekstraordinære forhold vil skade rettferdighetens interesser; dog skal enhver dom i en straffesak eller i et tvistemål offentliggjøres med mindre hensynet til mindreårige krever at dette ikke skjer, eller rettergangen gjelder ekteskapssaker eller saker om foreldremyndighet eller vergemål for barn.
+1\. Alle skal være like for domstolene. Enhver har ved behandlingen av en siktelse mot ham for en straffbar handling eller av spørsmål om hans rettigheter og forpliktelser i et tvistemål, rett til upartisk og offentlig rettergang ved en kompetent, uavhengig og upartisk domstol som er opprettet i henhold til lov. Pressen og offentligheten kan utelukkes fra hele eller en del av rettergangen av hensyn til sedelighet, den offentlige orden (*ordre public*), eller den nasjonale sikkerhet i et demokratisk samfunn, eller hvis hensynet til partenes privatliv krever det, eller i den utstrekning retten finner det strengt nødvendig når offentlighet på grunn av ekstraordinære forhold vil skade rettferdighetens interesser; dog skal enhver dom i en straffesak eller i et tvistemål offentliggjøres med mindre hensynet til mindreårige krever at dette ikke skjer, eller rettergangen gjelder ekteskapssaker eller saker om foreldremyndighet eller vergemål for barn.
 
-2. Enhver som er siktet for en straffbar handling skal anses uskyldig inntil hans skyld er bevist etter loven.
+2\. Enhver som er siktet for en straffbar handling skal anses uskyldig inntil hans skyld er bevist etter loven.
 
-3. Enhver har ved behandlingen av en siktelse mot ham for en straffbar handling, rett til følgende minimumsgarantier, uten forskjellsbehandling:Å bli underrettet omgående, utførlig og på et språk som han forstår om innholdet av og grunnen til siktelsen mot ham.Å få tilstrekkelig tid og anledning til å forberede sitt forsvar og til å rådføre seg med en forsvarer som han selv har valgt.Å få sin sak pådømt uten unødig opphold.Å være tilstede i retten, og å forsvare seg personlig eller ved en forsvarer han selv har valgt; å bli underrettet om sin rett til dette dersom han ikke har forsvarer, og, hvis rettferdshensyn krever det, å få oppnevnt en forsvarer; og da uten omkostninger for ham selv dersom han ikke har tilstrekkelige midler.Å avhøre eller få avhørt vitner som føres mot ham og å innkalle og avhøre egne vitner på de samme betingelser som de vitner som føres mot ham.Å få gratis bistand av tolk, dersom han ikke forstår eller taler det språk som brukes i retten.Ikke å bli tvunget til å vitne mot seg selv eller til å erkjenne seg skyldig.
+3\. Enhver har ved behandlingen av en siktelse mot ham for en straffbar handling, rett til følgende minimumsgarantier, uten forskjellsbehandling:Å bli underrettet omgående, utførlig og på et språk som han forstår om innholdet av og grunnen til siktelsen mot ham.Å få tilstrekkelig tid og anledning til å forberede sitt forsvar og til å rådføre seg med en forsvarer som han selv har valgt.Å få sin sak pådømt uten unødig opphold.Å være tilstede i retten, og å forsvare seg personlig eller ved en forsvarer han selv har valgt; å bli underrettet om sin rett til dette dersom han ikke har forsvarer, og, hvis rettferdshensyn krever det, å få oppnevnt en forsvarer; og da uten omkostninger for ham selv dersom han ikke har tilstrekkelige midler.Å avhøre eller få avhørt vitner som føres mot ham og å innkalle og avhøre egne vitner på de samme betingelser som de vitner som føres mot ham.Å få gratis bistand av tolk, dersom han ikke forstår eller taler det språk som brukes i retten.Ikke å bli tvunget til å vitne mot seg selv eller til å erkjenne seg skyldig.
 
-4. I saker mot unge mennesker skal rettergangen avpasses hensynet til vedkommendes alder og ønskeligheten av å fremme deres rehabilitering.
+4\. I saker mot unge mennesker skal rettergangen avpasses hensynet til vedkommendes alder og ønskeligheten av å fremme deres rehabilitering.
 
-5. Enhver som er domfelt for en forbrytelse skal ha rett til å få domfellelsen og straffutmålingen overprøvet av en høyere instans i overensstemmelse med lov.
+5\. Enhver som er domfelt for en forbrytelse skal ha rett til å få domfellelsen og straffutmålingen overprøvet av en høyere instans i overensstemmelse med lov.
 
-6. Når noen er blitt dømt for en straffbar handling ved endelig dom og når dommen senere er blitt omgjort eller han er blitt benådet på grunn av en ny eller nyoppdaget omstendighet, som på avgjørende måte viser at dommen var feilaktig, skal den som har måttet utstå straff som følge av en slik dom, ha erstatning i overensstemmelse med lov, med mindre det bevises at det helt eller delvis skyldes ham selv at sakens fakta ikke ble kjent i tide.
+6\. Når noen er blitt dømt for en straffbar handling ved endelig dom og når dommen senere er blitt omgjort eller han er blitt benådet på grunn av en ny eller nyoppdaget omstendighet, som på avgjørende måte viser at dommen var feilaktig, skal den som har måttet utstå straff som følge av en slik dom, ha erstatning i overensstemmelse med lov, med mindre det bevises at det helt eller delvis skyldes ham selv at sakens fakta ikke ble kjent i tide.
 
-7. Ingen skal kunne tiltales eller straffes på ny for en lovovertredelse som han allerede er blitt endelig dømt eller frifunnet for i overensstemmelse med loven og rettergangsordningen i det enkelte land.
+7\. Ingen skal kunne tiltales eller straffes på ny for en lovovertredelse som han allerede er blitt endelig dømt eller frifunnet for i overensstemmelse med loven og rettergangsordningen i det enkelte land.
 
 ### Art 15
 
-1. Ingen må kjennes straffskyldig på grunnlag av en handling eller unnlatelse som på den tid den ble begått ikke var straffbar etter nasjonal eller internasjonal rett. Heller ikke kan det idømmes strengere straff enn den som var anvendelig på den tid da den straffbare handling ble begått. Dersom det er innført mildere straffebestemmelser etter at lovovertredelsen ble begått skal lovovertrederen nyte godt av disse.
+1\. Ingen må kjennes straffskyldig på grunnlag av en handling eller unnlatelse som på den tid den ble begått ikke var straffbar etter nasjonal eller internasjonal rett. Heller ikke kan det idømmes strengere straff enn den som var anvendelig på den tid da den straffbare handling ble begått. Dersom det er innført mildere straffebestemmelser etter at lovovertredelsen ble begått skal lovovertrederen nyte godt av disse.
 
-2. Intet i denne artikkel skal være til hinder for at noen tiltales eller straffes for en handling eller unnlatelse som på den tid da den ble begått, var straffbar etter de alminnelige rettsprinsipper som anerkjennes av folkerettssamfunnet.
+2\. Intet i denne artikkel skal være til hinder for at noen tiltales eller straffes for en handling eller unnlatelse som på den tid da den ble begått, var straffbar etter de alminnelige rettsprinsipper som anerkjennes av folkerettssamfunnet.
 
 ### Art 16
 
@@ -2566,33 +2700,33 @@ Enhver skal ha rett til overalt å anerkjennes som en person i rettslig henseend
 
 ### Art 17
 
-1. Ingen må utsettes for vilkårlige eller ulovlige inngrep i privat- eller familieliv, hjem eller korrespondanse, eller ulovlige inngrep på ære eller omdømme.
+1\. Ingen må utsettes for vilkårlige eller ulovlige inngrep i privat- eller familieliv, hjem eller korrespondanse, eller ulovlige inngrep på ære eller omdømme.
 
-2. Enhver har rett til lovens beskyttelse mot slike inngrep eller angrep.
+2\. Enhver har rett til lovens beskyttelse mot slike inngrep eller angrep.
 
 ### Art 18
 
-1. Enhver skal ha rett til tankefrihet, samvittighetsfrihet og religionsfrihet. Denne rett skal omfatte frihet til å bekjenne seg til eller anta en religion eller tro etter eget valg, og frihet til alene eller sammen med andre, offentlige eller private, å utøve sin religion eller tro gjennom gudstjeneste, iakttagelse av religiøse skikker, andaktsøvelser og undervisning.
+1\. Enhver skal ha rett til tankefrihet, samvittighetsfrihet og religionsfrihet. Denne rett skal omfatte frihet til å bekjenne seg til eller anta en religion eller tro etter eget valg, og frihet til alene eller sammen med andre, offentlige eller private, å utøve sin religion eller tro gjennom gudstjeneste, iakttagelse av religiøse skikker, andaktsøvelser og undervisning.
 
-2. Ingen må utsettes for tvang som vil kunne innskrenke hans frihet til å bekjenne seg til eller å anta en religion eller tro etter eget valg.
+2\. Ingen må utsettes for tvang som vil kunne innskrenke hans frihet til å bekjenne seg til eller å anta en religion eller tro etter eget valg.
 
-3. Friheten til å utøve en religion eller tro skal ikke være gjenstand for andre begrensninger enn slike som er foreskrevet i lov og som er nødvendig for å beskytte den offentlige sikkerhet, orden, helse eller moral, eller andres grunnleggende rettigheter og friheter.
+3\. Friheten til å utøve en religion eller tro skal ikke være gjenstand for andre begrensninger enn slike som er foreskrevet i lov og som er nødvendig for å beskytte den offentlige sikkerhet, orden, helse eller moral, eller andres grunnleggende rettigheter og friheter.
 
-4. Konvensjonspartene forplikter seg til å respektere foreldres, og i tilfelle vergers, frihet til å sørge for sine barns religiøse og moralske oppdragelse i samsvar med deres egen overbevisning.
+4\. Konvensjonspartene forplikter seg til å respektere foreldres, og i tilfelle vergers, frihet til å sørge for sine barns religiøse og moralske oppdragelse i samsvar med deres egen overbevisning.
 
 ### Art 19
 
-1. Enhver skal ha rett til meningsfrihet uten inngrep.
+1\. Enhver skal ha rett til meningsfrihet uten inngrep.
 
-2. Enhver skal ha rett til ytringsfrihet; denne rett omfatter frihet til å søke, motta og meddele opplysninger og tanker av alle slag, uten hensyn til landegrenser, enten i muntlig, skriftlig eller trykt form, eller ved kunstneriske eller andre uttrykksmidler etter eget valg.
+2\. Enhver skal ha rett til ytringsfrihet; denne rett omfatter frihet til å søke, motta og meddele opplysninger og tanker av alle slag, uten hensyn til landegrenser, enten i muntlig, skriftlig eller trykt form, eller ved kunstneriske eller andre uttrykksmidler etter eget valg.
 
-3. Utøvelsen av de rettigheter som er fastsatt i denne artikkels paragraf 2 medfører særlige forpliktelser og et særlig ansvar. Den kan derfor gjøres til gjenstand for visse begrensninger, som dog må være fastsatt ved lov, og være nødvendige av hensyn til:Respekten for andres rettigheter eller omdømme.Beskyttelsen av den nasjonale sikkerhet, den alminnelige samfunnsorden (*ordre public*), eller den offentlige helse eller moral.
+3\. Utøvelsen av de rettigheter som er fastsatt i denne artikkels paragraf 2 medfører særlige forpliktelser og et særlig ansvar. Den kan derfor gjøres til gjenstand for visse begrensninger, som dog må være fastsatt ved lov, og være nødvendige av hensyn til:Respekten for andres rettigheter eller omdømme.Beskyttelsen av den nasjonale sikkerhet, den alminnelige samfunnsorden (*ordre public*), eller den offentlige helse eller moral.
 
 ### Art 20
 
-1. Enhver krigspropaganda skal forbys ved lov.
+1\. Enhver krigspropaganda skal forbys ved lov.
 
-2. Enhver form for fremme av nasjonalhat, rasehat eller religiøst hat som innebærer tilskyndelse til diskriminering, fiendskap eller vold, skal forbys ved lov.
+2\. Enhver form for fremme av nasjonalhat, rasehat eller religiøst hat som innebærer tilskyndelse til diskriminering, fiendskap eller vold, skal forbys ved lov.
 
 ### Art 21
 
@@ -2600,29 +2734,29 @@ Retten til fredelige sammenkomster skal anerkjennes. Utøvelsen av denne rett sk
 
 ### Art 22
 
-1. Enhver skal ha rett til foreningsfrihet, heri innbefattet retten til å danne og slutte seg til fagforeninger til beskyttelse av egne interesser.
+1\. Enhver skal ha rett til foreningsfrihet, heri innbefattet retten til å danne og slutte seg til fagforeninger til beskyttelse av egne interesser.
 
-2. Utøvelsen av denne rettighet skal ikke være underkastet andre begrensninger enn slike som er foreskrevet i lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale eller offentlige sikkerhet, den alminnelige samfunnsorden (*ordre public*), til beskyttelse av den offentlige helse eller moral eller beskyttelse av andres rettigheter og friheter. Denne artikkel skal ikke være til hinder for at det for medlemmer av de væpnete styrker og politiet gjøres lovlige begrensninger i utøvelsen av denne rettighet.
+2\. Utøvelsen av denne rettighet skal ikke være underkastet andre begrensninger enn slike som er foreskrevet i lov, og som er nødvendige i et demokratisk samfunn av hensyn til den nasjonale eller offentlige sikkerhet, den alminnelige samfunnsorden (*ordre public*), til beskyttelse av den offentlige helse eller moral eller beskyttelse av andres rettigheter og friheter. Denne artikkel skal ikke være til hinder for at det for medlemmer av de væpnete styrker og politiet gjøres lovlige begrensninger i utøvelsen av denne rettighet.
 
-3. Intet i denne artikkel skal gi stater som er parter til Den internasjonale arbeiderorganisasjons konvensjon av 1948 om foreningsfrihet og vern av organisasjonsretten adgang til å treffe lovgivningstiltak eller anvende loven på en måte som innebærer inngrep i de garantier som er fastsatt i den nevnte konvensjon.
+3\. Intet i denne artikkel skal gi stater som er parter til Den internasjonale arbeiderorganisasjons konvensjon av 1948 om foreningsfrihet og vern av organisasjonsretten adgang til å treffe lovgivningstiltak eller anvende loven på en måte som innebærer inngrep i de garantier som er fastsatt i den nevnte konvensjon.
 
 ### Art 23
 
-1. Familien er den naturlige og grunnleggende samfunnsenhet og har krav på beskyttelse av samfunnet og staten.
+1\. Familien er den naturlige og grunnleggende samfunnsenhet og har krav på beskyttelse av samfunnet og staten.
 
-2. Retten for menn og kvinner i gifteferdig alder til å inngå ekteskap og stifte familie skal anerkjennes.
+2\. Retten for menn og kvinner i gifteferdig alder til å inngå ekteskap og stifte familie skal anerkjennes.
 
-3. Intet ekteskap må inngås uten de fremtidige ektefellers frie og uforbeholdne samtykke.
+3\. Intet ekteskap må inngås uten de fremtidige ektefellers frie og uforbeholdne samtykke.
 
-4. Konvensjonspartene skal ta passende forholdsregler for å sikre ektefellene likestilling med hensyn til rettigheter og plikter ved inngåelse av ekteskap, under ekteskapet og ved dets oppløsning. I tilfelle av oppløsning av ekteskapet, skal barna sikres nødvendig beskyttelse.
+4\. Konvensjonspartene skal ta passende forholdsregler for å sikre ektefellene likestilling med hensyn til rettigheter og plikter ved inngåelse av ekteskap, under ekteskapet og ved dets oppløsning. I tilfelle av oppløsning av ekteskapet, skal barna sikres nødvendig beskyttelse.
 
 ### Art 24
 
-1. Ethvert barn skal uten forskjellsbehandling av hensyn til rase, hudfarge, kjønn, språk, religion, nasjonal eller sosial opprinnelse, eiendom eller fødsel, ha rett til slike beskyttelsestiltak fra familiens, samfunnets og statens side som dets stilling som mindreårig krever.
+1\. Ethvert barn skal uten forskjellsbehandling av hensyn til rase, hudfarge, kjønn, språk, religion, nasjonal eller sosial opprinnelse, eiendom eller fødsel, ha rett til slike beskyttelsestiltak fra familiens, samfunnets og statens side som dets stilling som mindreårig krever.
 
-2. Ethvert barn skal registreres umiddelbart etter fødselen og skal ha et navn.
+2\. Ethvert barn skal registreres umiddelbart etter fødselen og skal ha et navn.
 
-3. Ethvert barn har rett til å erverve et statsborgerskap.
+3\. Ethvert barn har rett til å erverve et statsborgerskap.
 
 ### Art 25
 
@@ -2640,55 +2774,55 @@ I de stater hvor det finnes etniske, religiøse eller språklige minoriteter, sk
 
 ### Art 28
 
-1. Det skal opprettes en komité for menneskerettighetene (heretter betegnet «Komiteen» i denne konvensjon). Den skal bestå av 18 medlemmer og skal utføre de funksjoner som er fastsatt nedenfor.
+1\. Det skal opprettes en komité for menneskerettighetene (heretter betegnet «Komiteen» i denne konvensjon). Den skal bestå av 18 medlemmer og skal utføre de funksjoner som er fastsatt nedenfor.
 
-2. Komiteen skal bestå av statsborgere av de stater som er parter til denne konvensjon. De skal være personer av høy moralsk karakter og med anerkjent sakkunnskap i menneskerettighetsspørsmål. Det skal legges vekt på betydningen av at noen av Komiteens medlemmer har juridisk erfaring.
+2\. Komiteen skal bestå av statsborgere av de stater som er parter til denne konvensjon. De skal være personer av høy moralsk karakter og med anerkjent sakkunnskap i menneskerettighetsspørsmål. Det skal legges vekt på betydningen av at noen av Komiteens medlemmer har juridisk erfaring.
 
-3. Komiteens medlemmer velges og utfører sine funksjoner i personlig egenskap.
+3\. Komiteens medlemmer velges og utfører sine funksjoner i personlig egenskap.
 
 ### Art 29
 
-1. Komiteens medlemmer skal velges ved hemmelig avstemning fra en liste over personer som er i besittelse av de kvalifikasjoner som er foreskrevet i artikkel 28 og som er foreslått i dette øyemed av konvensjonspartene.
+1\. Komiteens medlemmer skal velges ved hemmelig avstemning fra en liste over personer som er i besittelse av de kvalifikasjoner som er foreskrevet i artikkel 28 og som er foreslått i dette øyemed av konvensjonspartene.
 
-2. Hver konvensjonspart kan foreslå høyst to personer. Disse skal være statsborgere i den stat som foreslår dem.
+2\. Hver konvensjonspart kan foreslå høyst to personer. Disse skal være statsborgere i den stat som foreslår dem.
 
-3. En person skal kunne foreslås flere ganger.
+3\. En person skal kunne foreslås flere ganger.
 
 ### Art 30
 
-1. Det første valg skal holdes senest seks måneder etter at denne konvensjon er trådt i kraft.
+1\. Det første valg skal holdes senest seks måneder etter at denne konvensjon er trådt i kraft.
 
-2. Senest fire måneder før tidspunktet fra ethvert valg til Komiteen, med unntak av valg som finner sted i henhold til artikkel 34 i anledning av at en plass er blitt ledig, skal De forente nasjoners generalsekretær sende en skriftlig oppfordring til konvensjonspartene om innen tre måneder å sette frem forslag til medlemmer av Komiteen.
+2\. Senest fire måneder før tidspunktet fra ethvert valg til Komiteen, med unntak av valg som finner sted i henhold til artikkel 34 i anledning av at en plass er blitt ledig, skal De forente nasjoners generalsekretær sende en skriftlig oppfordring til konvensjonspartene om innen tre måneder å sette frem forslag til medlemmer av Komiteen.
 
-3. De forente nasjoners generalsekretær skal utarbeide en alfabetisk liste over kandidatene, med angivelse av hvilken stat som har foreslått dem, og skal oversende listen til konvensjonspartene senest en måned før tidspunktet for ethvert valg.
+3\. De forente nasjoners generalsekretær skal utarbeide en alfabetisk liste over kandidatene, med angivelse av hvilken stat som har foreslått dem, og skal oversende listen til konvensjonspartene senest en måned før tidspunktet for ethvert valg.
 
-4. Valg av Komiteens medlemmer skal finne sted på et møte av konvensjonspartene sammenkalt av De forente nasjoners generalsekretær i De Forente nasjoners hovedkvarter. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er representert, skal de kandidater anses valgt som oppnår det høyeste stemmetall og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
+4\. Valg av Komiteens medlemmer skal finne sted på et møte av konvensjonspartene sammenkalt av De forente nasjoners generalsekretær i De Forente nasjoners hovedkvarter. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er representert, skal de kandidater anses valgt som oppnår det høyeste stemmetall og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
 
 ### Art 31
 
-1. I Komiteen skal det ikke være mer enn en statsborger fra en og samme stat.
+1\. I Komiteen skal det ikke være mer enn en statsborger fra en og samme stat.
 
-2. Ved valgene til Komiteen skal det tas hensyn til ønskeligheten av en rettferdig geografisk fordeling av medlemsskapet og til at de forskjellige sivilisasjonsformer og viktigste rettssystemer blir representert.
+2\. Ved valgene til Komiteen skal det tas hensyn til ønskeligheten av en rettferdig geografisk fordeling av medlemsskapet og til at de forskjellige sivilisasjonsformer og viktigste rettssystemer blir representert.
 
 ### Art 32
 
-1. Komiteens medlemmer velges for en periode av fire år. De kan gjenvelges dersom de blir foreslått på nytt. Dog skal funksjonstiden for ni av de medlemmer som velges ved det første valg utløpe etter to år. Umiddelbart etter det første valg skal navnene på disse ni medlemmer bestemmes ved loddtrekning av formannen for det møte som er nevnt i artikkel 30, paragraf 4.
+1\. Komiteens medlemmer velges for en periode av fire år. De kan gjenvelges dersom de blir foreslått på nytt. Dog skal funksjonstiden for ni av de medlemmer som velges ved det første valg utløpe etter to år. Umiddelbart etter det første valg skal navnene på disse ni medlemmer bestemmes ved loddtrekning av formannen for det møte som er nevnt i artikkel 30, paragraf 4.
 
-2. Valg ved funksjonstidens utløp skal holdes i overensstemmelse med bestemmelsene i de foregående artikler i denne del av konvensjonen.
+2\. Valg ved funksjonstidens utløp skal holdes i overensstemmelse med bestemmelsene i de foregående artikler i denne del av konvensjonen.
 
 ### Art 33
 
-1. Dersom et av Komiteens medlemmer, etter de øvrige medlemmers enstemmige oppfatning, ikke lenger utfører sine funksjoner av en annen grunn enn midlertidig fravær, skal Komiteens formann underrette De forente nasjoners generalsekretær. Denne skal deretter erklære vedkommende medlems plass for ledig.
+1\. Dersom et av Komiteens medlemmer, etter de øvrige medlemmers enstemmige oppfatning, ikke lenger utfører sine funksjoner av en annen grunn enn midlertidig fravær, skal Komiteens formann underrette De forente nasjoners generalsekretær. Denne skal deretter erklære vedkommende medlems plass for ledig.
 
-2. I tilfelle av at et medlem avgår ved døden eller nedlegger vervet, skal formannen straks underrette De forente nasjoners generalsekretær, som skal erklære plassen ledig fra dødsfallet eller fra det tidspunkt da nedleggelsen av vervet trer i kraft.
+2\. I tilfelle av at et medlem avgår ved døden eller nedlegger vervet, skal formannen straks underrette De forente nasjoners generalsekretær, som skal erklære plassen ledig fra dødsfallet eller fra det tidspunkt da nedleggelsen av vervet trer i kraft.
 
 ### Art 34
 
-1. Når en plass erklæres ledig i overensstemmelse med artikkel 33 og vedkommende medlems funksjonstid ikke utløper innen seks måneder etter at ledigheten oppstår, skal De forente nasjoners generalsekretær underrette konvensjonspartene. Disse kan innen to måneder fremsette forslag i overensstemmelse med artikkel 29 med henblikk på å besette den ledige plass.
+1\. Når en plass erklæres ledig i overensstemmelse med artikkel 33 og vedkommende medlems funksjonstid ikke utløper innen seks måneder etter at ledigheten oppstår, skal De forente nasjoners generalsekretær underrette konvensjonspartene. Disse kan innen to måneder fremsette forslag i overensstemmelse med artikkel 29 med henblikk på å besette den ledige plass.
 
-2. De forente nasjoners generalsekretær skal utarbeide en alfabetisk liste over de foreslåtte personer, og skal forelegge den for konvensjonspartene. Valgene til den ledige plass skal deretter finne sted i overensstemmelse med de angjeldende bestemmelser i denne del av konvensjonen.
+2\. De forente nasjoners generalsekretær skal utarbeide en alfabetisk liste over de foreslåtte personer, og skal forelegge den for konvensjonspartene. Valgene til den ledige plass skal deretter finne sted i overensstemmelse med de angjeldende bestemmelser i denne del av konvensjonen.
 
-3. Et medlem av Komiteen som er valgt til en plass som er erklært ledig i overensstemmelse med artikkel 33, skal inneha vervet i den resterende del av funksjonstiden for det medlem hvis plass i Komiteen ble ledig i henhold til bestemmelsene i den nevnte artikkel.
+3\. Et medlem av Komiteen som er valgt til en plass som er erklært ledig i overensstemmelse med artikkel 33, skal inneha vervet i den resterende del av funksjonstiden for det medlem hvis plass i Komiteen ble ledig i henhold til bestemmelsene i den nevnte artikkel.
 
 ### Art 35
 
@@ -2700,11 +2834,11 @@ De forente nasjoners generalsekretær skal sørge for nødvendig personale og an
 
 ### Art 37
 
-1. De forente nasjoners generalsekretær skal sammenkalle Komiteens første møte i De forente nasjoners hovedkvarter.
+1\. De forente nasjoners generalsekretær skal sammenkalle Komiteens første møte i De forente nasjoners hovedkvarter.
 
-2. Senere møter skal holdes på slike tidspunkter som bestemmes i Komiteens forretningsorden.
+2\. Senere møter skal holdes på slike tidspunkter som bestemmes i Komiteens forretningsorden.
 
-3. Komiteen skal som regel holde sine møter i De forente nasjoners hovedkvarter eller ved De forente nasjoners kontor i Genève.
+3\. Komiteen skal som regel holde sine møter i De forente nasjoners hovedkvarter eller ved De forente nasjoners kontor i Genève.
 
 ### Art 38
 
@@ -2712,49 +2846,49 @@ Ethvert komitémedlem skal, før han trer i funksjon, i et åpent møte i Komite
 
 ### Art 39
 
-1. Komiteen skal velge personer til tillitsverv i Komiteen for en periode av to år. Disse kan gjenvelges.
+1\. Komiteen skal velge personer til tillitsverv i Komiteen for en periode av to år. Disse kan gjenvelges.
 
-2. Komiteen skal utarbeide sin egen forretningsorden, men denne skal bl.a. bestemme at:Komiteen er beslutningsdyktig når 12 medlemmer er tilstede.Komiteens avgjørelser skal treffes med flertall av de tilstedeværende medlemmers stemmer.
+2\. Komiteen skal utarbeide sin egen forretningsorden, men denne skal bl.a. bestemme at:Komiteen er beslutningsdyktig når 12 medlemmer er tilstede.Komiteens avgjørelser skal treffes med flertall av de tilstedeværende medlemmers stemmer.
 
 ### Art 40
 
-1. Konvensjonspartene forplikter seg til å avgi rapporter om de tiltak som de har truffet for å gjennomføre de rettigheter som er anerkjent i konvensjonen og om den fremgang som er gjort med hensyn til iverksettelsen av disse rettigheter,Innen et år etter at konvensjonen er trådt i kraft for vedkommende stat.Deretter når som helst Komiteen anmoder om det.
+1\. Konvensjonspartene forplikter seg til å avgi rapporter om de tiltak som de har truffet for å gjennomføre de rettigheter som er anerkjent i konvensjonen og om den fremgang som er gjort med hensyn til iverksettelsen av disse rettigheter,Innen et år etter at konvensjonen er trådt i kraft for vedkommende stat.Deretter når som helst Komiteen anmoder om det.
 
-2. Rapportene skal sendes De forente nasjoners generalsekretær som skal videresende dem til Komiteen til behandling. Rapportene skal nevne de omstendigheter og mulige vanskeligheter som kan ha innvirket på gjennomføringen av bestemmelsene i denne konvensjon.
+2\. Rapportene skal sendes De forente nasjoners generalsekretær som skal videresende dem til Komiteen til behandling. Rapportene skal nevne de omstendigheter og mulige vanskeligheter som kan ha innvirket på gjennomføringen av bestemmelsene i denne konvensjon.
 
-3. I samråd med Komiteen kan De forente nasjoners generalsekretær oversende til de berørte særorganisasjoner kopier av de deler av rapportene som måtte angå deres fagområde.
+3\. I samråd med Komiteen kan De forente nasjoners generalsekretær oversende til de berørte særorganisasjoner kopier av de deler av rapportene som måtte angå deres fagområde.
 
-4. Komiteen skal granske de rapporter som avgis av konvensjonspartene. Den skal sende sine egne rapporter, og slike alminnelige bemerkninger som den finner passende, til konvensjonspartene. Komiteen kan likeledes oversende disse bemerkninger, sammen med kopier av de rapporter som den har mottatt fra konvensjonspartene, til Det økonomiske og sosiale råd.
+4\. Komiteen skal granske de rapporter som avgis av konvensjonspartene. Den skal sende sine egne rapporter, og slike alminnelige bemerkninger som den finner passende, til konvensjonspartene. Komiteen kan likeledes oversende disse bemerkninger, sammen med kopier av de rapporter som den har mottatt fra konvensjonspartene, til Det økonomiske og sosiale råd.
 
-5. Konvensjonspartene kan selv avgi uttalelser til Komiteen i anledning av eventuelle bemerkninger fra Komiteen i henhold til denne artikkels paragraf 4.
+5\. Konvensjonspartene kan selv avgi uttalelser til Komiteen i anledning av eventuelle bemerkninger fra Komiteen i henhold til denne artikkels paragraf 4.
 
 ### Art 41
 
-1. En konvensjonspart kan til enhver tid i henhold til denne artikkel avgi erklæring om at den anerkjenner Komiteens kompetanse til å motta og undersøke henvendelser fra en konvensjonspart om at en annen konvensjonspart ikke oppfyller sine forpliktelser i henhold til denne konvensjon. Henvendelser i henhold til denne artikkel skal bare kunne mottas og behandles dersom de kommer fra en konvensjonspart som har avgitt erklæring om at den anerkjenner Komiteens kompetanse med virkning for seg selv. Komiteen skal ikke kunne ta imot noen henvendelse som gjelder en konvensjonspart som ikke har avgitt slik erklæring. Henvendelser som mottas i henhold til denne artikkel skal behandles på følgende måte:Dersom en konvensjonspart mener at en annen konvensjonspart ikke oppfyller bestemmelsene i konvensjonen, kan den ved skriftlig henvendelse gjøre vedkommende konvensjonspart oppmerksom på dette forhold. Mottakerstaten skal innen tre måneder etter mottakelsen gi senderstaten en forklaring eller en skriftlig uttalelse til belysning av saken. Denne redegjørelse skal så vidt det er mulig og hensiktsmessig inneholde opplysninger om de interne regler og rettsmidler som allerede er anvendt, som er under anvendelse, eller som står til rådighet i saken,Dersom saken ikke er brakt til en tilfredsstillende avslutning for begge de berørte parter innen seks måneder etter mottakelsen av den opprinnelige henvendelse, har hver av partene rett til å henvise saken til Komiteen ved å avgi meddelelse til Komiteen og til den annen part,Komiteen skal først behandle en sak som er henvist til den etter at den har forvisset seg om at alle tilgjengelige interne rettsmidler er blitt påberopt og uttømt i overensstemmelse med folkerettens alminnelige anerkjente prinsipper. Dette gjelder likevel ikke når anvendelsen av rettsmidlene tar urimelig lang tid,Komiteens møter skal holdes for lukkede dører når den behandler henvendelser i henhold til denne artikkel,Med forbehold for bestemmelsene i punkt c skal Komiteen stille seg til rådighet for de berørte konvensjonsparter med sikte på å få i stand en vennskapelig løsning av saken på grunnlag av respekt for menneskerettighetene og de grunnleggende friheter slik som disse er anerkjent i denne konvensjon,I enhver sak som er innbrakt for den kan Komiteen anmode de konvensjonsparter som er nevnt i punkt b om å tilveiebringe alle opplysninger av betydning for saken,De berørte konvensjonsparter som er nevnt under punkt b, skal ha rett til å være representert når saken behandles i Komiteen og til å avgi muntlige og/eller skriftlige innlegg,Komiteen skal innen tolv måneder etter mottakelsen av en meddelelse i henhold til punkt b, avgi rapport,Dersom det er kommet i stand en løsning som nevnt under punkt e, skal Komiteen begrense rapporten til en kort redegjørelse for de faktiske forhold og for den løsning som er kommet i stand,Dersom det ikke er kommet i stand noen løsning som nevnt under punkt e, skal Komiteen begrense rapporten til en kort redegjørelse for de faktiske forhold: Skriftlige innlegg og et referat av de muntlige innlegg som de berørte konvensjonsparter har avgitt skal vedlegges rapporten.I enhver sak skal rapporten sendes til de berørte konvensjonsparter.
+1\. En konvensjonspart kan til enhver tid i henhold til denne artikkel avgi erklæring om at den anerkjenner Komiteens kompetanse til å motta og undersøke henvendelser fra en konvensjonspart om at en annen konvensjonspart ikke oppfyller sine forpliktelser i henhold til denne konvensjon. Henvendelser i henhold til denne artikkel skal bare kunne mottas og behandles dersom de kommer fra en konvensjonspart som har avgitt erklæring om at den anerkjenner Komiteens kompetanse med virkning for seg selv. Komiteen skal ikke kunne ta imot noen henvendelse som gjelder en konvensjonspart som ikke har avgitt slik erklæring. Henvendelser som mottas i henhold til denne artikkel skal behandles på følgende måte:Dersom en konvensjonspart mener at en annen konvensjonspart ikke oppfyller bestemmelsene i konvensjonen, kan den ved skriftlig henvendelse gjøre vedkommende konvensjonspart oppmerksom på dette forhold. Mottakerstaten skal innen tre måneder etter mottakelsen gi senderstaten en forklaring eller en skriftlig uttalelse til belysning av saken. Denne redegjørelse skal så vidt det er mulig og hensiktsmessig inneholde opplysninger om de interne regler og rettsmidler som allerede er anvendt, som er under anvendelse, eller som står til rådighet i saken,Dersom saken ikke er brakt til en tilfredsstillende avslutning for begge de berørte parter innen seks måneder etter mottakelsen av den opprinnelige henvendelse, har hver av partene rett til å henvise saken til Komiteen ved å avgi meddelelse til Komiteen og til den annen part,Komiteen skal først behandle en sak som er henvist til den etter at den har forvisset seg om at alle tilgjengelige interne rettsmidler er blitt påberopt og uttømt i overensstemmelse med folkerettens alminnelige anerkjente prinsipper. Dette gjelder likevel ikke når anvendelsen av rettsmidlene tar urimelig lang tid,Komiteens møter skal holdes for lukkede dører når den behandler henvendelser i henhold til denne artikkel,Med forbehold for bestemmelsene i punkt c skal Komiteen stille seg til rådighet for de berørte konvensjonsparter med sikte på å få i stand en vennskapelig løsning av saken på grunnlag av respekt for menneskerettighetene og de grunnleggende friheter slik som disse er anerkjent i denne konvensjon,I enhver sak som er innbrakt for den kan Komiteen anmode de konvensjonsparter som er nevnt i punkt b om å tilveiebringe alle opplysninger av betydning for saken,De berørte konvensjonsparter som er nevnt under punkt b, skal ha rett til å være representert når saken behandles i Komiteen og til å avgi muntlige og/eller skriftlige innlegg,Komiteen skal innen tolv måneder etter mottakelsen av en meddelelse i henhold til punkt b, avgi rapport,Dersom det er kommet i stand en løsning som nevnt under punkt e, skal Komiteen begrense rapporten til en kort redegjørelse for de faktiske forhold og for den løsning som er kommet i stand,Dersom det ikke er kommet i stand noen løsning som nevnt under punkt e, skal Komiteen begrense rapporten til en kort redegjørelse for de faktiske forhold: Skriftlige innlegg og et referat av de muntlige innlegg som de berørte konvensjonsparter har avgitt skal vedlegges rapporten.I enhver sak skal rapporten sendes til de berørte konvensjonsparter.
 
-2. Bestemmelsene i denne artikkel skal tre i kraft når ti stater som er parter i denne konvensjon har avgitt erklæringer i henhold til denne artikkels paragraf 1. Konvensjonspartene skal deponere disse erklæringer hos De forente nasjoners generalsekretær, som skal sende kopier til de andre konvensjonsparter. En erklæring kan til enhver tid tilbakekalles ved meddelelse til generalsekretæren. Slik tilbakekallelse skal ikke berøre behandlingen av en sak som allerede er gjenstand for en henvendelse i henhold til denne artikkel. Ingen ytterligere henvendelse fra noen konvensjonspart skal kunne mottas etter at generalsekretæren har mottatt meddelelsen om tilbakekallelse, med mindre den berørte konvensjonspart har avgitt en ny erklæring.
+2\. Bestemmelsene i denne artikkel skal tre i kraft når ti stater som er parter i denne konvensjon har avgitt erklæringer i henhold til denne artikkels paragraf 1. Konvensjonspartene skal deponere disse erklæringer hos De forente nasjoners generalsekretær, som skal sende kopier til de andre konvensjonsparter. En erklæring kan til enhver tid tilbakekalles ved meddelelse til generalsekretæren. Slik tilbakekallelse skal ikke berøre behandlingen av en sak som allerede er gjenstand for en henvendelse i henhold til denne artikkel. Ingen ytterligere henvendelse fra noen konvensjonspart skal kunne mottas etter at generalsekretæren har mottatt meddelelsen om tilbakekallelse, med mindre den berørte konvensjonspart har avgitt en ny erklæring.
 
 ### Art 42
 
 1.Dersom en sak som er henvist til Komiteen i overensstemmelse med artikkel 41 ikke løses til vedkommende konvensjonsparters tilfredshet, kan Komiteen med disse parters samtykke, nedsette en *ad hoc* forlikskommisjon (heretter betegnet «Kommisjonen»). Kommisjonen skal stille seg til rådighet for de berørte konvensjonsparter med sikte på å få istand en vennskapelig løsning av saken på grunnlag av respekt for denne konvensjon.Kommisjonen skal bestå av fem personer som er godkjent av de berørte konvensjonsparter. Dersom det ikke lykkes partene innen tre måneder å komme til enighet om sammensetningen av Kommisjonen helt eller delvis, skal de medlemmer av Kommisjonen som partene ikke er blitt enige om, velges av Komiteen blant dens egne medlemmer ved hemmelig avstemning og med to tredjedels flertall.
 
-2. Kommisjonens medlemmer utøver sine funksjoner i personlig egenskap. De må ikke være statsborgere av de berørte parter, av en stat som ikke er konvensjonspart eller av en konvensjonspart som ikke har avgitt erklæring i henhold til artikkel 41.
+2\. Kommisjonens medlemmer utøver sine funksjoner i personlig egenskap. De må ikke være statsborgere av de berørte parter, av en stat som ikke er konvensjonspart eller av en konvensjonspart som ikke har avgitt erklæring i henhold til artikkel 41.
 
-3. Kommisjonen skal selv velge sin formann og vedta sin forretningsorden.
+3\. Kommisjonen skal selv velge sin formann og vedta sin forretningsorden.
 
-4. Kommisjonens møter skal som regel holdes i De forente nasjoners hovedkvarter eller ved De forente nasjoners kontor i Genève. Møtene kan imidlertid også holdes på andre hensiktsmessige steder som Kommisjonen måtte bestemme i samråd med De forente nasjoners generalsekretær og de berørte parter.
+4\. Kommisjonens møter skal som regel holdes i De forente nasjoners hovedkvarter eller ved De forente nasjoners kontor i Genève. Møtene kan imidlertid også holdes på andre hensiktsmessige steder som Kommisjonen måtte bestemme i samråd med De forente nasjoners generalsekretær og de berørte parter.
 
-5. Det sekretariatet som er nevnt i artikkel 36, skal også stå til disposisjon for de kommisjoner som nedsettes i medhold av denne artikkel.
+5\. Det sekretariatet som er nevnt i artikkel 36, skal også stå til disposisjon for de kommisjoner som nedsettes i medhold av denne artikkel.
 
-6. De opplysninger som Komiteen har mottatt og samlet, skal stilles til rådighet for Kommisjonen, og Kommisjonen kan anmode de berørte parter om å skaffe ytterligere opplysninger av betydning for saken.
+6\. De opplysninger som Komiteen har mottatt og samlet, skal stilles til rådighet for Kommisjonen, og Kommisjonen kan anmode de berørte parter om å skaffe ytterligere opplysninger av betydning for saken.
 
-7. Når Kommisjonen har ferdigbehandlet saken, men ikke i noe tilfelle senere enn tolv måneder etter at saken ble innbragt for den, skal Kommisjonen avgi en rapport til Komiteens formann for oversendelse til de berørte parter.Dersom Kommisjonen er ute av stand til å avslutte behandlingen av saken innen tolv måneder skal den begrense sin rapport til en kort redegjørelse for sakens behandling til da.Dersom det lykkes å få i stand en vennskapelig løsning av saken på grunnlag av respekt for menneskerettighetene slik de er anerkjent i denne konvensjon, skal Kommisjonen begrense sin rapport til en kort redegjørelse for sakens faktiske forhold og for den løsning som er kommet i stand.Dersom det ikke lykkes å få i stand en løsning slik som nevnt under punkt b, skal Kommisjonens rapport inneholde resultatene av Kommisjonens undersøkelser av alle de faktiske forhold av betydning for tvisten mellom partene og Kommisjonens syn på mulighetene for en vennskapelig løsning. Denne rapport skal også inneholde de skriftlige innlegg og et referat av de muntlige innlegg som de berørte konvensjonsparter har avgitt.Dersom Kommisjonens rapport avgis i medhold av punkt c, skal de berørte parter innen tre måneder etter mottakelsen av rapporten underrette Komiteens formann om hvorvidt de godtar innholdet av rapporten.
+7\. Når Kommisjonen har ferdigbehandlet saken, men ikke i noe tilfelle senere enn tolv måneder etter at saken ble innbragt for den, skal Kommisjonen avgi en rapport til Komiteens formann for oversendelse til de berørte parter.Dersom Kommisjonen er ute av stand til å avslutte behandlingen av saken innen tolv måneder skal den begrense sin rapport til en kort redegjørelse for sakens behandling til da.Dersom det lykkes å få i stand en vennskapelig løsning av saken på grunnlag av respekt for menneskerettighetene slik de er anerkjent i denne konvensjon, skal Kommisjonen begrense sin rapport til en kort redegjørelse for sakens faktiske forhold og for den løsning som er kommet i stand.Dersom det ikke lykkes å få i stand en løsning slik som nevnt under punkt b, skal Kommisjonens rapport inneholde resultatene av Kommisjonens undersøkelser av alle de faktiske forhold av betydning for tvisten mellom partene og Kommisjonens syn på mulighetene for en vennskapelig løsning. Denne rapport skal også inneholde de skriftlige innlegg og et referat av de muntlige innlegg som de berørte konvensjonsparter har avgitt.Dersom Kommisjonens rapport avgis i medhold av punkt c, skal de berørte parter innen tre måneder etter mottakelsen av rapporten underrette Komiteens formann om hvorvidt de godtar innholdet av rapporten.
 
-8. Bestemmelsene i denne artikkel berører ikke Komiteens plikter i henhold til artikkel 41.
+8\. Bestemmelsene i denne artikkel berører ikke Komiteens plikter i henhold til artikkel 41.
 
-9. Utgiftene til Kommisjonens medlemmer deles likt mellom de berørte parter i samsvar med beregninger foretatt av De forente nasjoners generalsekretær.
+9\. Utgiftene til Kommisjonens medlemmer deles likt mellom de berørte parter i samsvar med beregninger foretatt av De forente nasjoners generalsekretær.
 
-10. De forente nasjoners generalsekretær er bemyndiget til, om nødvendig, å betale kommisjonsmedlemmenes utgifter før de berørte parter har dekket dem etter denne artikkels paragraf 9.
+10\. De forente nasjoners generalsekretær er bemyndiget til, om nødvendig, å betale kommisjonsmedlemmenes utgifter før de berørte parter har dekket dem etter denne artikkels paragraf 9.
 
 ### Art 43
 
@@ -2782,21 +2916,21 @@ Intet i denne konvensjon skal tolkes som noen innskrenkning i den iboende rett h
 
 ### Art 48
 
-1. Denne konvensjon er åpen for undertegning av alle stater som er medlem av De forente nasjoner eller noen av særorganisasjonene, av alle stater som er parter i Den internasjonale domstols statutter, og av enhver annen stat som av De forente nasjoners generalforsamling er blitt innbudt til å bli part i konvensjonen.
+1\. Denne konvensjon er åpen for undertegning av alle stater som er medlem av De forente nasjoner eller noen av særorganisasjonene, av alle stater som er parter i Den internasjonale domstols statutter, og av enhver annen stat som av De forente nasjoners generalforsamling er blitt innbudt til å bli part i konvensjonen.
 
-2. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
-3. Denne konvensjon skal kunne tiltres av enhver stat som er nevnt i denne artikkels første paragraf.
+3\. Denne konvensjon skal kunne tiltres av enhver stat som er nevnt i denne artikkels første paragraf.
 
-4. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
+4\. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
-5. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt konvensjonen, om deponeringen av hvert ratifikasjons- eller tiltredelsesdokument.
+5\. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt konvensjonen, om deponeringen av hvert ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 49
 
-1. Denne konvensjon skal tre i kraft tre måneder etter den dag da det trettifemte ratifikasjons- eller tiltredelsesdokument deponeres hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon skal tre i kraft tre måneder etter den dag da det trettifemte ratifikasjons- eller tiltredelsesdokument deponeres hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer eller tiltrer konvensjonen etter det trettifemte ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft tre måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer eller tiltrer konvensjonen etter det trettifemte ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft tre måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 50
 
@@ -2804,11 +2938,11 @@ Bestemmelsene i denne konvensjon skal uten begrensninger eller unntak få anvend
 
 ### Art 51
 
-1. Enhver av konvensjonspartene kan overfor De forente nasjoners generalsekretær foreslå endringer i konvensjonen. Generalsekretæren skal oversende endringsforslag til konvensjonspartene med anmodning om å meddele ham om de ønsker at partene skal sammenkalles for å behandle og stemme over forslagene. Dersom minst en tredjedel av konvensjonspartene ønsker det, skal generalsekretæren sammenkalle til et slikt møte i De forente nasjoners regi. Endringsforslag vedtatt av et flertall av de konvensjonsparter som er til stede og avgir stemme, skal forelegges De forente nasjoners generalforsamling til godkjennelse.
+1\. Enhver av konvensjonspartene kan overfor De forente nasjoners generalsekretær foreslå endringer i konvensjonen. Generalsekretæren skal oversende endringsforslag til konvensjonspartene med anmodning om å meddele ham om de ønsker at partene skal sammenkalles for å behandle og stemme over forslagene. Dersom minst en tredjedel av konvensjonspartene ønsker det, skal generalsekretæren sammenkalle til et slikt møte i De forente nasjoners regi. Endringsforslag vedtatt av et flertall av de konvensjonsparter som er til stede og avgir stemme, skal forelegges De forente nasjoners generalforsamling til godkjennelse.
 
-2. Endringer trer i kraft når de er blitt vedtatt av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av konvensjonspartene i overensstemmelse med deres konstitusjonelle bestemmelser.
+2\. Endringer trer i kraft når de er blitt vedtatt av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av konvensjonspartene i overensstemmelse med deres konstitusjonelle bestemmelser.
 
-3. Når endringer trer i kraft, er de bindende for de konvensjonspartene som har godkjent dem, mens de øvrige konvensjonsparter fortsatt skal være bundet av bestemmelsene i denne konvensjon og av eventuelle tidligere endringer som de har godkjent.
+3\. Når endringer trer i kraft, er de bindende for de konvensjonspartene som har godkjent dem, mens de øvrige konvensjonsparter fortsatt skal være bundet av bestemmelsene i denne konvensjon og av eventuelle tidligere endringer som de har godkjent.
 
 ### Art 52
 
@@ -2816,11 +2950,17 @@ Foruten de meddelelser som avgis i henhold til artikkel 48, paragraf 5, skal De 
 
 ### Art 53
 
-1. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
+1\. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
 
-2. De forente nasjoners generalsekretær skal sende bekreftede kopier av konvensjonen til alle stater som det er henvist til i artikkel 48.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne konvensjon, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
+2\. De forente nasjoners generalsekretær skal sende bekreftede kopier av konvensjonen til alle stater som det er henvist til i artikkel 48.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne konvensjon, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
 
 ### Valgfri protokoll til den internasjonale konvensjon om sivile og politiske rettigheter
+
+Vedtatt og åpnet for signatur, ratifikasjon og tiltredelse ved FNs generalforsamlings resolusjon 2200 A (XXI) 16. desember 1966
+
+Ikrafttredelse 23. mars 1976
+
+De stater som er parter til denne protokoll,
 
 som anser at det for å fremme formålet med konvensjonen om sivile og politiske rettigheter (heretter kalt «konvensjonen») og gjennomføringen av dens bestemmelser, ville være hensiktsmessig å gi den komité for menneskerettighetene som er opprettet i henhold til del IV i konvensjonen (heretter betegnet «Komiteen»), adgang til, i samsvar med bestemmelsen i denne protokoll, å motta og behandle henvendelser fra enkeltpersoner som hevder å ha vært utsatt for krenkelser av noen av de rettigheter som er fastsatt i konvensjonen,
 
@@ -2840,19 +2980,19 @@ Komiteen skal avvise henvendelse i henhold til denne protokoll når henvendelsen
 
 ### Art 4
 
-1. Med forbehold av bestemmelsen i artikkel 3, skal Komiteen gjøre den konvensjonsstat som påstås å ha krenket noen bestemmelse i konvensjonen, kjent med henvendelser som den mottar i henhold til denne protokoll.
+1\. Med forbehold av bestemmelsen i artikkel 3, skal Komiteen gjøre den konvensjonsstat som påstås å ha krenket noen bestemmelse i konvensjonen, kjent med henvendelser som den mottar i henhold til denne protokoll.
 
-2. Vedkommende stat skal innen seks måneder sende Komiteen en skriftlig redegjørelse eller erklæring til belysning av saken og de tiltak som staten måtte ha satt i verk.
+2\. Vedkommende stat skal innen seks måneder sende Komiteen en skriftlig redegjørelse eller erklæring til belysning av saken og de tiltak som staten måtte ha satt i verk.
 
 ### Art 5
 
-1. Komiteen skal behandle henvendelser som mottas i henhold til denne protokoll under hensyntagen til alle skriftlige opplysninger som klageren og den berørte konvensjonspart har lagt frem.
+1\. Komiteen skal behandle henvendelser som mottas i henhold til denne protokoll under hensyntagen til alle skriftlige opplysninger som klageren og den berørte konvensjonspart har lagt frem.
 
-2. Komiteen skal ikke kunne prøve en henvendelse fra en klager før den har forsikret seg om at:samme sak ikke er gjenstand for annen internasjonal undersøkelse eller bileggelse,klageren har uttømt alle tilgjengelige innenlandske rettsmidler. Dette gjelder likevel ikke når anvendelsen av rettsmidler tar urimelig lang tid.
+2\. Komiteen skal ikke kunne prøve en henvendelse fra en klager før den har forsikret seg om at:samme sak ikke er gjenstand for annen internasjonal undersøkelse eller bileggelse,klageren har uttømt alle tilgjengelige innenlandske rettsmidler. Dette gjelder likevel ikke når anvendelsen av rettsmidler tar urimelig lang tid.
 
-3. Komiteen skal møte for lukkede dører når den behandler henvendelser i henhold til protokollen.
+3\. Komiteen skal møte for lukkede dører når den behandler henvendelser i henhold til protokollen.
 
-4. Komiteen underretter den berørte konvensjonspart og klageren om sine synspunkter.
+4\. Komiteen underretter den berørte konvensjonspart og klageren om sine synspunkter.
 
 ### Art 6
 
@@ -2864,21 +3004,21 @@ Inntil de mål som er satt i De forente nasjoners generalforsamlings resolusjon 
 
 ### Art 8
 
-1. Denne protokoll er åpen for undertegning av enhver stat som har undertegnet konvensjonen.
+1\. Denne protokoll er åpen for undertegning av enhver stat som har undertegnet konvensjonen.
 
-2. Denne protokoll kan ratifiseres av enhver stat som har ratifisert eller tiltrådt konvensjonen. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne protokoll kan ratifiseres av enhver stat som har ratifisert eller tiltrådt konvensjonen. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
-3. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt konvensjonen.
+3\. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt konvensjonen.
 
-4. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
+4\. Tiltredelse skjer ved deponering av tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
-5. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt denne protokoll om deponeringen av ethvert ratifikasjons- eller tiltredelsesdokument.
+5\. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt denne protokoll om deponeringen av ethvert ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 9
 
-1. Med forbehold for konvensjonens ikrafttreden skal denne protokoll tre i kraft tre måneder etter den dag da det tiende ratifikasjons- eller tiltredelsesdokument er deponert hos De forente nasjoners generalsekretær.
+1\. Med forbehold for konvensjonens ikrafttreden skal denne protokoll tre i kraft tre måneder etter den dag da det tiende ratifikasjons- eller tiltredelsesdokument er deponert hos De forente nasjoners generalsekretær.
 
-2. I forhold til stat som ratifiserer eller tiltrer protokollen etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert, skal protokollen tre i kraft tre måneder etter den dag da ratifikasjons- eller tiltredelsesdokumentet ble deponert.
+2\. I forhold til stat som ratifiserer eller tiltrer protokollen etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert, skal protokollen tre i kraft tre måneder etter den dag da ratifikasjons- eller tiltredelsesdokumentet ble deponert.
 
 ### Art 10
 
@@ -2886,17 +3026,17 @@ Bestemmelsene i denne protokoll skal uten begrensninger eller unntak av noe slag
 
 ### Art 11
 
-1. Enhver stat som er part til denne protokoll, kan foreslå endringer i denne; slike endringsforslag sendes De forente nasjoners generalsekretær. Generalsekretæren skal deretter oversende endringsforslagene til de stater som er parter til protokollen, med anmodning om å meddele ham om de ønsker at partene skal sammenkalles til en konferanse for å behandle og stemme over forslagene. Dersom minst en tredjedel av statene ønsker det, skal generalsekretæren sammenkalle til en slik konferanse i De forente nasjoners regi. Endringsforslag som vedtas av et flertall av de stater som er til stede på konferansen og avgir stemme, skal forelegges De forente nasjoners generalforsamling til godkjennelse.
+1\. Enhver stat som er part til denne protokoll, kan foreslå endringer i denne; slike endringsforslag sendes De forente nasjoners generalsekretær. Generalsekretæren skal deretter oversende endringsforslagene til de stater som er parter til protokollen, med anmodning om å meddele ham om de ønsker at partene skal sammenkalles til en konferanse for å behandle og stemme over forslagene. Dersom minst en tredjedel av statene ønsker det, skal generalsekretæren sammenkalle til en slik konferanse i De forente nasjoners regi. Endringsforslag som vedtas av et flertall av de stater som er til stede på konferansen og avgir stemme, skal forelegges De forente nasjoners generalforsamling til godkjennelse.
 
-2. Endringer trer i kraft når de er blitt godkjent av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av de stater som er parter til protokollen i overensstemmelse med deres konstitusjonelle bestemmelser.
+2\. Endringer trer i kraft når de er blitt godkjent av De forente nasjoners generalforsamling og godkjent av et flertall på to tredjedeler av de stater som er parter til protokollen i overensstemmelse med deres konstitusjonelle bestemmelser.
 
-3. Når endringer trer i kraft, er de bindende for de stater som har vedtatt dem, mens de øvrige stater fortsatt skal være bundet av bestemmelsene i denne protokoll og av eventuelle tidligere endringer som de har godkjent.
+3\. Når endringer trer i kraft, er de bindende for de stater som har vedtatt dem, mens de øvrige stater fortsatt skal være bundet av bestemmelsene i denne protokoll og av eventuelle tidligere endringer som de har godkjent.
 
 ### Art 12
 
-1. Enhver stat som er part til denne protokoll kan når som helst oppsi denne ved skriftlig underretning til De forente nasjoners generalsekretær. Oppsigelsen trer i kraft tre måneder etter den dag generalsekretæren mottok underretningen.
+1\. Enhver stat som er part til denne protokoll kan når som helst oppsi denne ved skriftlig underretning til De forente nasjoners generalsekretær. Oppsigelsen trer i kraft tre måneder etter den dag generalsekretæren mottok underretningen.
 
-2. Oppsigelsen er uten virkning på den fortsatte anvendelse av bestemmelsene i denne protokoll på henvendelser som er foretatt i henhold til artikkel 2 før oppsigelsen trer i kraft.
+2\. Oppsigelsen er uten virkning på den fortsatte anvendelse av bestemmelsene i denne protokoll på henvendelser som er foretatt i henhold til artikkel 2 før oppsigelsen trer i kraft.
 
 ### Art 13
 
@@ -2904,11 +3044,17 @@ Foruten de meddelelser som er nevnt i artikkel 8, paragraf 5, i denne protokoll,
 
 ### Art 14
 
-1. Denne protokoll, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
+1\. Denne protokoll, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
 
-2. De forente nasjoners generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er nevnt i konvensjonens artikkel 48.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne protokoll, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
+2\. De forente nasjoners generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er nevnt i konvensjonens artikkel 48.Til bekreftelse herav har de undertegnede som har fått behørig fullmakt av sine respektive regjeringer, undertegnet denne protokoll, som ble lagt fram til undertegning i New York den nittende dag i desember nittenhundreogsekstiseks.
 
 ### Den andre tilleggsprotokoll om avskaffelse av dødsstraff til den internasjonale konvensjon av 16. desember 1966 om sivile og politiske rettigheter
+
+Vedtatt og åpnet for signatur, ratifikasjon og tiltredelse ved FNs generalforsamlings resolusjon 44/128 av 15. desember 1989
+
+Ikrafttredelse 11. juli 1991
+
+De stater som er parter til denne protokoll,
 
 som mener at avskaffelse av dødsstraff bidrar til å øke menneskets verdighet og til å videreutvikle menneskerettighetene,
 
@@ -2924,17 +3070,17 @@ er blitt enige om følgende:
 
 ### Art 1
 
-1. Ingen skal bli henrettet innenfor jurisdiksjonen til en stat som er part til denne frivillige protokoll.
+1\. Ingen skal bli henrettet innenfor jurisdiksjonen til en stat som er part til denne frivillige protokoll.
 
-2. Hver part skal treffe alle nødvendige tiltak for å avskaffe dødsstraff innenfor sin jurisdiksjon.
+2\. Hver part skal treffe alle nødvendige tiltak for å avskaffe dødsstraff innenfor sin jurisdiksjon.
 
 ### Art 2
 
-1. Intet forbehold mot bestemmelsene i denne protokollen er tillatt, med unntak av forbehold som tas ved ratifikasjon eller tiltredelse og som hjemler anvendelse av dødsstraff i krigstid som følge av dom for en meget alvorlig forbrytelse av militær art begått i krigstid.
+1\. Intet forbehold mot bestemmelsene i denne protokollen er tillatt, med unntak av forbehold som tas ved ratifikasjon eller tiltredelse og som hjemler anvendelse av dødsstraff i krigstid som følge av dom for en meget alvorlig forbrytelse av militær art begått i krigstid.
 
-2. Den part som tar et slikt forbehold, skal ved ratifikasjon eller tiltredelse meddele De forente nasjoners generalsekretær de relevante bestemmelsene i sin nasjonale lovgivning som får anvendelse i krigstid.
+2\. Den part som tar et slikt forbehold, skal ved ratifikasjon eller tiltredelse meddele De forente nasjoners generalsekretær de relevante bestemmelsene i sin nasjonale lovgivning som får anvendelse i krigstid.
 
-3. Den part som har tatt et slikt forbehold, skal underrette De forente nasjoners generalsekretær om enhver krigstilstand som innledes eller avsluttes på dens territorium.
+3\. Den part som har tatt et slikt forbehold, skal underrette De forente nasjoners generalsekretær om enhver krigstilstand som innledes eller avsluttes på dens territorium.
 
 ### Art 3
 
@@ -2950,27 +3096,27 @@ Når det gjelder partene til den første frivillige protokoll til Den internasjo
 
 ### Art 6
 
-1. Bestemmelsene i denne protokoll skal gjelde som tilleggsbestemmelser til konvensjonen.
+1\. Bestemmelsene i denne protokoll skal gjelde som tilleggsbestemmelser til konvensjonen.
 
-2. Uten å prejudisere muligheten for å ta forbehold i henhold til artikkel 2 i denne protokoll, skal den rettighet som sikres i artikkel 1 paragraf 1 i denne protokoll, ikke kunne avvikes i henhold til artikkel 4 i konvensjonen.
+2\. Uten å prejudisere muligheten for å ta forbehold i henhold til artikkel 2 i denne protokoll, skal den rettighet som sikres i artikkel 1 paragraf 1 i denne protokoll, ikke kunne avvikes i henhold til artikkel 4 i konvensjonen.
 
 ### Art 7
 
-1. Denne protokoll er åpen for undertegning av enhver stat som har undertegnet konvensjonen.
+1\. Denne protokoll er åpen for undertegning av enhver stat som har undertegnet konvensjonen.
 
-2. Denne protokoll kan ratifiseres av enhver stat som har ratifisert eller tiltrådt konvensjonen. Ratifikasjonsdokumenter skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne protokoll kan ratifiseres av enhver stat som har ratifisert eller tiltrådt konvensjonen. Ratifikasjonsdokumenter skal deponeres hos De forente nasjoners generalsekretær.
 
-3. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt konvensjonen.
+3\. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt konvensjonen.
 
-4. Tiltredelse skjer ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
+4\. Tiltredelse skjer ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
-5. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt denne protokoll, om deponering av hvert ratifikasjons- eller tiltredelsesdokument.
+5\. De forente nasjoners generalsekretær skal underrette alle stater som har undertegnet eller tiltrådt denne protokoll, om deponering av hvert ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 8
 
-1. Denne protokoll skal tre i kraft tre måneder etter datoen for deponering av det tiende ratifikasjons- eller tiltredelsesdokument hos De forente nasjoners generalsekretær.
+1\. Denne protokoll skal tre i kraft tre måneder etter datoen for deponering av det tiende ratifikasjons- eller tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer eller tiltrer denne protokoll etter deponeringen av det tiende ratifikasjons- eller tiltredelsesdokument, skal denne protokoll tre i kraft tre måneder etter datoen for deponering av dens eget ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer eller tiltrer denne protokoll etter deponeringen av det tiende ratifikasjons- eller tiltredelsesdokument, skal denne protokoll tre i kraft tre måneder etter datoen for deponering av dens eget ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 9
 
@@ -2982,15 +3128,19 @@ De forente nasjoners generalsekretær skal underrette alle de stater som er nevn
 
 ### Art 11
 
-1. Denne protokoll, hvis arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
+1\. Denne protokoll, hvis arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiv.
 
-2. De forente nasjoners generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er nevnt i artikkel 48 i konvensjonen.
+2\. De forente nasjoners generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er nevnt i artikkel 48 i konvensjonen.
 
 ## Vedlegg 7. FNs konvensjon om barnets rettigheter med protokoller (autentisk engelsk tekst)
 
 ### Convention on the Rights of the Child
 
 Adopted and opened for signature, ratification and accession by General Assembly resolution 44/25 of 20 November 1989 *entry into force* 2 September 1990, in accordance with article 49
+
+*Preamble*
+
+*The States Parties to the present Convention,*
 
 *Considering* that, in accordance with the principles proclaimed in the Charter of the United Nations, recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
 
@@ -3028,17 +3178,17 @@ For the purposes of the present Convention, a child means every human being belo
 
 ### Art 2
 
-1. States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.
+1\. States Parties shall respect and ensure the rights set forth in the present Convention to each child within their jurisdiction without discrimination of any kind, irrespective of the child's or his or her parent's or legal guardian's race, colour, sex, language, religion, political or other opinion, national, ethnic or social origin, property, disability, birth or other status.
 
-2. States Parties shall take all appropriate measures to ensure that the child is protected against all forms of discrimination or punishment on the basis of the status, activities, expressed opinions, or beliefs of the child's parents, legal guardians, or family members.
+2\. States Parties shall take all appropriate measures to ensure that the child is protected against all forms of discrimination or punishment on the basis of the status, activities, expressed opinions, or beliefs of the child's parents, legal guardians, or family members.
 
 ### Art 3
 
-1. In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration.
+1\. In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be a primary consideration.
 
-2. States Parties undertake to ensure the child such protection and care as is necessary for his or her well-being, taking into account the rights and duties of his or her parents, legal guardians, or other individuals legally responsible for him or her, and, to this end, shall take all appropriate legislative and administrative measures.
+2\. States Parties undertake to ensure the child such protection and care as is necessary for his or her well-being, taking into account the rights and duties of his or her parents, legal guardians, or other individuals legally responsible for him or her, and, to this end, shall take all appropriate legislative and administrative measures.
 
-3. States Parties shall ensure that the institutions, services and facilities responsible for the care or protection of children shall conform with the standards established by competent authorities, particularly in the areas of safety, health, in the number and suitability of their staff, as well as competent supervision.
+3\. States Parties shall ensure that the institutions, services and facilities responsible for the care or protection of children shall conform with the standards established by competent authorities, particularly in the areas of safety, health, in the number and suitability of their staff, as well as competent supervision.
 
 ### Art 4
 
@@ -3050,75 +3200,75 @@ States Parties shall respect the responsibilities, rights and duties of parents 
 
 ### Art 6
 
-1. States Parties recognize that every child has the inherent right to life.
+1\. States Parties recognize that every child has the inherent right to life.
 
-2. States Parties shall ensure to the maximum extent possible the survival and development of the child.
+2\. States Parties shall ensure to the maximum extent possible the survival and development of the child.
 
 ### Art 7
 
-1. The child shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by his or her parents.
+1\. The child shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by his or her parents.
 
-2. States Parties shall ensure the implementation of these rights in accordance with their national law and their obligations under the relevant international instruments in this field, in particular where the child would otherwise be stateless.
+2\. States Parties shall ensure the implementation of these rights in accordance with their national law and their obligations under the relevant international instruments in this field, in particular where the child would otherwise be stateless.
 
 ### Art 8
 
-1. States Parties undertake to respect the right of the child to preserve his or her identity, including nationality, name and family relations as recognized by law without unlawful interference.
+1\. States Parties undertake to respect the right of the child to preserve his or her identity, including nationality, name and family relations as recognized by law without unlawful interference.
 
-2. Where a child is illegally deprived of some or all of the elements of his or her identity, States Parties shall provide appropriate assistance and protection, with a view to speedily re-establishing his or her identity.
+2\. Where a child is illegally deprived of some or all of the elements of his or her identity, States Parties shall provide appropriate assistance and protection, with a view to speedily re-establishing his or her identity.
 
 ### Art 9
 
-1. States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. Such determination may be necessary in a particular case such as one involving abuse or neglect of the child by the parents, or one where the parents are living separately and a decision must be made as to the child's place of residence.
+1\. States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. Such determination may be necessary in a particular case such as one involving abuse or neglect of the child by the parents, or one where the parents are living separately and a decision must be made as to the child's place of residence.
 
-2. In any proceedings pursuant to paragraph 1 of the present article, all interested parties shall be given an opportunity to participate in the proceedings and make their views known.
+2\. In any proceedings pursuant to paragraph 1 of the present article, all interested parties shall be given an opportunity to participate in the proceedings and make their views known.
 
-3. States Parties shall respect the right of the child who is separated from one or both parents to maintain personal relations and direct contact with both parents on a regular basis, except if it is contrary to the child's best interests.
+3\. States Parties shall respect the right of the child who is separated from one or both parents to maintain personal relations and direct contact with both parents on a regular basis, except if it is contrary to the child's best interests.
 
-4. Where such separation results from any action initiated by a State Party, such as the detention, imprisonment, exile, deportation or death (including death arising from any cause while the person is in the custody of the State) of one or both parents or of the child, that State Party shall, upon request, provide the parents, the child or, if appropriate, another member of the family with the essential information concerning the whereabouts of the absent member(s) of the family unless the provision of the information would be detrimental to the well-being of the child. States Parties shall further ensure that the submission of such a request shall of itself entail no adverse consequences for the person(s) concerned.
+4\. Where such separation results from any action initiated by a State Party, such as the detention, imprisonment, exile, deportation or death (including death arising from any cause while the person is in the custody of the State) of one or both parents or of the child, that State Party shall, upon request, provide the parents, the child or, if appropriate, another member of the family with the essential information concerning the whereabouts of the absent member(s) of the family unless the provision of the information would be detrimental to the well-being of the child. States Parties shall further ensure that the submission of such a request shall of itself entail no adverse consequences for the person(s) concerned.
 
 ### Art 10
 
-1. In accordance with the obligation of States Parties under article 9, paragraph 1, applications by a child or his or her parents to enter or leave a State Party for the purpose of family reunification shall be dealt with by States Parties in a positive, humane and expeditious manner. States Parties shall further ensure that the submission of such a request shall entail no adverse consequences for the applicants and for the members of their family.
+1\. In accordance with the obligation of States Parties under article 9, paragraph 1, applications by a child or his or her parents to enter or leave a State Party for the purpose of family reunification shall be dealt with by States Parties in a positive, humane and expeditious manner. States Parties shall further ensure that the submission of such a request shall entail no adverse consequences for the applicants and for the members of their family.
 
-2. A child whose parents reside in different States shall have the right to maintain on a regular basis, save in exceptional circumstances personal relations and direct contacts with both parents. Towards that end and in accordance with the obligation of States Parties under article 9, paragraph 2, States Parties shall respect the right of the child and his or her parents to leave any country, including their own, and to enter their own country. The right to leave any country shall be subject only to such restrictions as are prescribed by law and which are necessary to protect the national security, public order *(ordre public),* public health or morals or the rights and freedoms of others and are consistent with the other rights recognized in the present Convention.
+2\. A child whose parents reside in different States shall have the right to maintain on a regular basis, save in exceptional circumstances personal relations and direct contacts with both parents. Towards that end and in accordance with the obligation of States Parties under article 9, paragraph 2, States Parties shall respect the right of the child and his or her parents to leave any country, including their own, and to enter their own country. The right to leave any country shall be subject only to such restrictions as are prescribed by law and which are necessary to protect the national security, public order *(ordre public),* public health or morals or the rights and freedoms of others and are consistent with the other rights recognized in the present Convention.
 
 ### Art 11
 
-1. States Parties shall take measures to combat the illicit transfer and non-return of children abroad.
+1\. States Parties shall take measures to combat the illicit transfer and non-return of children abroad.
 
-2. To this end, States Parties shall promote the conclusion of bilateral or multilateral agreements or accession to existing agreements.
+2\. To this end, States Parties shall promote the conclusion of bilateral or multilateral agreements or accession to existing agreements.
 
 ### Art 12
 
-1. States Parties shall assure to the child who is capable of forming his or her own views the right to express those views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.
+1\. States Parties shall assure to the child who is capable of forming his or her own views the right to express those views freely in all matters affecting the child, the views of the child being given due weight in accordance with the age and maturity of the child.
 
-2. For this purpose, the child shall in particular be provided the opportunity to be heard in any judicial and administrative proceedings affecting the child, either directly, or through a representative or an appropriate body, in a manner consistent with the procedural rules of national law.
+2\. For this purpose, the child shall in particular be provided the opportunity to be heard in any judicial and administrative proceedings affecting the child, either directly, or through a representative or an appropriate body, in a manner consistent with the procedural rules of national law.
 
 ### Art 13
 
-1. The child shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of the child's choice.
+1\. The child shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of the child's choice.
 
-2. The exercise of this right may be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:For respect of the rights or reputations of others; orFor the protection of national security or of public order *(ordre public),* or of public health or morals.
+2\. The exercise of this right may be subject to certain restrictions, but these shall only be such as are provided by law and are necessary:For respect of the rights or reputations of others; orFor the protection of national security or of public order *(ordre public),* or of public health or morals.
 
 ### Art 14
 
-1. States Parties shall respect the right of the child to freedom of thought, conscience and religion.
+1\. States Parties shall respect the right of the child to freedom of thought, conscience and religion.
 
-2. States Parties shall respect the rights and duties of the parents and, when applicable, legal guardians, to provide direction to the child in the exercise of his or her right in a manner consistent with the evolving capacities of the child.
+2\. States Parties shall respect the rights and duties of the parents and, when applicable, legal guardians, to provide direction to the child in the exercise of his or her right in a manner consistent with the evolving capacities of the child.
 
-3. Freedom to manifest one's religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health or morals, or the fundamental rights and freedoms of others.
+3\. Freedom to manifest one's religion or beliefs may be subject only to such limitations as are prescribed by law and are necessary to protect public safety, order, health or morals, or the fundamental rights and freedoms of others.
 
 ### Art 15
 
-1. States Parties recognize the rights of the child to freedom of association and to freedom of peaceful assembly.
+1\. States Parties recognize the rights of the child to freedom of association and to freedom of peaceful assembly.
 
-2. No restrictions may be placed on the exercise of these rights other than those imposed in conformity with the law and which are necessary in a democratic society in the interests of national security or public safety, public order *(ordre public),* the protection of public health or morals or the protection of the rights and freedoms of others.
+2\. No restrictions may be placed on the exercise of these rights other than those imposed in conformity with the law and which are necessary in a democratic society in the interests of national security or public safety, public order *(ordre public),* the protection of public health or morals or the protection of the rights and freedoms of others.
 
 ### Art 16
 
-1. No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence, nor to unlawful attacks on his or her honour and reputation.
+1\. No child shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence, nor to unlawful attacks on his or her honour and reputation.
 
-2. The child has the right to the protection of the law against such interference or attacks.
+2\. The child has the right to the protection of the law against such interference or attacks.
 
 ### Art 17
 
@@ -3126,25 +3276,25 @@ States Parties recognize the important function performed by the mass media and 
 
 ### Art 18
 
-1. States Parties shall use their best efforts to ensure recognition of the principle that both parents have common responsibilities for the upbringing and development of the child. Parents or, as the case may be, legal guardians, have the primary responsibility for the upbringing and development of the child. The best interests of the child will be their basic concern.
+1\. States Parties shall use their best efforts to ensure recognition of the principle that both parents have common responsibilities for the upbringing and development of the child. Parents or, as the case may be, legal guardians, have the primary responsibility for the upbringing and development of the child. The best interests of the child will be their basic concern.
 
-2. For the purpose of guaranteeing and promoting the rights set forth in the present Convention, States Parties shall render appropriate assistance to parents and legal guardians in the performance of their child-rearing responsibilities and shall ensure the development of institutions, facilities and services for the care of children.
+2\. For the purpose of guaranteeing and promoting the rights set forth in the present Convention, States Parties shall render appropriate assistance to parents and legal guardians in the performance of their child-rearing responsibilities and shall ensure the development of institutions, facilities and services for the care of children.
 
-3. States Parties shall take all appropriate measures to ensure that children of working parents have the right to benefit from child-care services and facilities for which they are eligible.
+3\. States Parties shall take all appropriate measures to ensure that children of working parents have the right to benefit from child-care services and facilities for which they are eligible.
 
 ### Art 19
 
-1. States Parties shall take all appropriate legislative, administrative, social and educational measures to protect the child from all forms of physical or mental violence, injury or abuse, neglect or negligent treatment, maltreatment or exploitation, including sexual abuse, while in the care of parent(s), legal guardian(s) or any other person who has the care of the child.
+1\. States Parties shall take all appropriate legislative, administrative, social and educational measures to protect the child from all forms of physical or mental violence, injury or abuse, neglect or negligent treatment, maltreatment or exploitation, including sexual abuse, while in the care of parent(s), legal guardian(s) or any other person who has the care of the child.
 
-2. Such protective measures should, as appropriate, include effective procedures for the establishment of social programmes to provide necessary support for the child and for those who have the care of the child, as well as for other forms of prevention and for identification, reporting, referral, investigation, treatment and follow-up of instances of child maltreatment described heretofore, and, as appropriate, for judicial involvement.
+2\. Such protective measures should, as appropriate, include effective procedures for the establishment of social programmes to provide necessary support for the child and for those who have the care of the child, as well as for other forms of prevention and for identification, reporting, referral, investigation, treatment and follow-up of instances of child maltreatment described heretofore, and, as appropriate, for judicial involvement.
 
 ### Art 20
 
-1. A child temporarily or permanently deprived of his or her family environment, or in whose own best interests cannot be allowed to remain in that environment, shall be entitled to special protection and assistance provided by the State.
+1\. A child temporarily or permanently deprived of his or her family environment, or in whose own best interests cannot be allowed to remain in that environment, shall be entitled to special protection and assistance provided by the State.
 
-2. States Parties shall in accordance with their national laws ensure alternative care for such a child.
+2\. States Parties shall in accordance with their national laws ensure alternative care for such a child.
 
-3. Such care could include, *inter alia,* foster placement, *kafalah* of Islamic law, adoption or if necessary placement in suitable institutions for the care of children. When considering solutions, due regard shall be paid to the desirability of continuity in a child's upbringing and to the child's ethnic, religious, cultural and linguistic background.
+3\. Such care could include, *inter alia,* foster placement, *kafalah* of Islamic law, adoption or if necessary placement in suitable institutions for the care of children. When considering solutions, due regard shall be paid to the desirability of continuity in a child's upbringing and to the child's ethnic, religious, cultural and linguistic background.
 
 ### Art 21
 
@@ -3152,29 +3302,29 @@ States Parties that recognize and/or permit the system of adoption shall ensure 
 
 ### Art 22
 
-1. States Parties shall take appropriate measures to ensure that a child who is seeking refugee status or who is considered a refugee in accordance with applicable international or domestic law and procedures shall, whether unaccompanied or accompanied by his or her parents or by any other person, receive appropriate protection and humanitarian assistance in the enjoyment of applicable rights set forth in the present Convention and in other international human rights or humanitarian instruments to which the said States are Parties.
+1\. States Parties shall take appropriate measures to ensure that a child who is seeking refugee status or who is considered a refugee in accordance with applicable international or domestic law and procedures shall, whether unaccompanied or accompanied by his or her parents or by any other person, receive appropriate protection and humanitarian assistance in the enjoyment of applicable rights set forth in the present Convention and in other international human rights or humanitarian instruments to which the said States are Parties.
 
-2. For this purpose, States Parties shall provide, as they consider appropriate, co-operation in any efforts by the United Nations and other competent intergovernmental organizations or non-governmental organizations co-operating with the United Nations to protect and assist such a child and to trace the parents or other members of the family of any refugee child in order to obtain information necessary for reunification with his or her family. In cases where no parents or other members of the family can be found, the child shall be accorded the same protection as any other child permanently or temporarily deprived of his or her family environment for any reason, as set forth in the present Convention.
+2\. For this purpose, States Parties shall provide, as they consider appropriate, co-operation in any efforts by the United Nations and other competent intergovernmental organizations or non-governmental organizations co-operating with the United Nations to protect and assist such a child and to trace the parents or other members of the family of any refugee child in order to obtain information necessary for reunification with his or her family. In cases where no parents or other members of the family can be found, the child shall be accorded the same protection as any other child permanently or temporarily deprived of his or her family environment for any reason, as set forth in the present Convention.
 
 ### Art 23
 
-1. States Parties recognize that a mentally or physically disabled child should enjoy a full and decent life, in conditions which ensure dignity, promote self-reliance and facilitate the child's active participation in the community.
+1\. States Parties recognize that a mentally or physically disabled child should enjoy a full and decent life, in conditions which ensure dignity, promote self-reliance and facilitate the child's active participation in the community.
 
-2. States Parties recognize the right of the disabled child to special care and shall encourage and ensure the extension, subject to available resources, to the eligible child and those responsible for his or her care, of assistance for which application is made and which is appropriate to the child's condition and to the circumstances of the parents or others caring for the child.
+2\. States Parties recognize the right of the disabled child to special care and shall encourage and ensure the extension, subject to available resources, to the eligible child and those responsible for his or her care, of assistance for which application is made and which is appropriate to the child's condition and to the circumstances of the parents or others caring for the child.
 
-3. Recognizing the special needs of a disabled child, assistance extended in accordance with paragraph 2 of the present article shall be provided free of charge, whenever possible, taking into account the financial resources of the parents or others caring for the child, and shall be designed to ensure that the disabled child has effective access to and receives education, training, health care services, rehabilitation services, preparation for employment and recreation opportunities in a manner conducive to the child's achieving the fullest possible social integration and individual development, including his or her cultural and spiritual development
+3\. Recognizing the special needs of a disabled child, assistance extended in accordance with paragraph 2 of the present article shall be provided free of charge, whenever possible, taking into account the financial resources of the parents or others caring for the child, and shall be designed to ensure that the disabled child has effective access to and receives education, training, health care services, rehabilitation services, preparation for employment and recreation opportunities in a manner conducive to the child's achieving the fullest possible social integration and individual development, including his or her cultural and spiritual development
 
-4. States Parties shall promote, in the spirit of international cooperation, the exchange of appropriate information in the field of preventive health care and of medical, psychological and functional treatment of disabled children, including dissemination of and access to information concerning methods of rehabilitation, education and vocational services, with the aim of enabling States Parties to improve their capabilities and skills and to widen their experience in these areas. In this regard, particular account shall be taken of the needs of developing countries.
+4\. States Parties shall promote, in the spirit of international cooperation, the exchange of appropriate information in the field of preventive health care and of medical, psychological and functional treatment of disabled children, including dissemination of and access to information concerning methods of rehabilitation, education and vocational services, with the aim of enabling States Parties to improve their capabilities and skills and to widen their experience in these areas. In this regard, particular account shall be taken of the needs of developing countries.
 
 ### Art 24
 
-1. States Parties recognize the right of the child to the enjoyment of the highest attainable standard of health and to facilities for the treatment of illness and rehabilitation of health. States Parties shall strive to ensure that no child is deprived of his or her right of access to such health care services.
+1\. States Parties recognize the right of the child to the enjoyment of the highest attainable standard of health and to facilities for the treatment of illness and rehabilitation of health. States Parties shall strive to ensure that no child is deprived of his or her right of access to such health care services.
 
-2. States Parties shall pursue full implementation of this right and, in particular, shall take appropriate measures:To diminish infant and child mortality;To ensure the provision of necessary medical assistance and health care to all children with emphasis on the development of primary health care;To combat disease and malnutrition, including within the framework of primary health care, through, *inter alia,* the application of readily available technology and through the provision of adequate nutritious foods and clean drinking-water, taking into consideration the dangers and risks of environmental pollution;To ensure appropriate pre-natal and post-natal health care for mothers;To ensure that all segments of society, in particular parents and children, are informed, have access to education and are supported in the use of basic knowledge of child health and nutrition, the advantages of breastfeeding, hygiene and environmental sanitation and the prevention of accidents;To develop preventive health care, guidance for parents and family planning education and services.
+2\. States Parties shall pursue full implementation of this right and, in particular, shall take appropriate measures:To diminish infant and child mortality;To ensure the provision of necessary medical assistance and health care to all children with emphasis on the development of primary health care;To combat disease and malnutrition, including within the framework of primary health care, through, *inter alia,* the application of readily available technology and through the provision of adequate nutritious foods and clean drinking-water, taking into consideration the dangers and risks of environmental pollution;To ensure appropriate pre-natal and post-natal health care for mothers;To ensure that all segments of society, in particular parents and children, are informed, have access to education and are supported in the use of basic knowledge of child health and nutrition, the advantages of breastfeeding, hygiene and environmental sanitation and the prevention of accidents;To develop preventive health care, guidance for parents and family planning education and services.
 
-3. States Parties shall take all effective and appropriate measures with a view to abolishing traditional practices prejudicial to the health of children.
+3\. States Parties shall take all effective and appropriate measures with a view to abolishing traditional practices prejudicial to the health of children.
 
-4. States Parties undertake to promote and encourage international co-operation with a view to achieving progressively the full realization of the right recognized in the present article. In this regard, particular account shall be taken of the needs of developing countries.
+4\. States Parties undertake to promote and encourage international co-operation with a view to achieving progressively the full realization of the right recognized in the present article. In this regard, particular account shall be taken of the needs of developing countries.
 
 ### Art 25
 
@@ -3182,33 +3332,33 @@ States Parties recognize the right of a child who has been placed by the compete
 
 ### Art 26
 
-1. States Parties shall recognize for every child the right to benefit from social security, including social insurance, and shall take the necessary measures to achieve the full realization of this right in accordance with their national law.
+1\. States Parties shall recognize for every child the right to benefit from social security, including social insurance, and shall take the necessary measures to achieve the full realization of this right in accordance with their national law.
 
-2. The benefits should, where appropriate, be granted, taking into account the resources and the circumstances of the child and persons having responsibility for the maintenance of the child, as well as any other consideration relevant to an application for benefits made by or on behalf of the child.
+2\. The benefits should, where appropriate, be granted, taking into account the resources and the circumstances of the child and persons having responsibility for the maintenance of the child, as well as any other consideration relevant to an application for benefits made by or on behalf of the child.
 
 ### Art 27
 
-1. States Parties recognize the right of every child to a standard of living adequate for the child's physical, mental, spiritual, moral and social development.
+1\. States Parties recognize the right of every child to a standard of living adequate for the child's physical, mental, spiritual, moral and social development.
 
-2. The parent(s) or others responsible for the child have the primary responsibility to secure, within their abilities and financial capacities, the conditions of living necessary for the child's development.
+2\. The parent(s) or others responsible for the child have the primary responsibility to secure, within their abilities and financial capacities, the conditions of living necessary for the child's development.
 
-3. States Parties, in accordance with national conditions and within their means, shall take appropriate measures to assist parents and others responsible for the child to implement this right and shall in case of need provide material assistance and support programmes, particularly with regard to nutrition, clothing and housing.
+3\. States Parties, in accordance with national conditions and within their means, shall take appropriate measures to assist parents and others responsible for the child to implement this right and shall in case of need provide material assistance and support programmes, particularly with regard to nutrition, clothing and housing.
 
-4. States Parties shall take all appropriate measures to secure the recovery of maintenance for the child from the parents or other persons having financial responsibility for the child, both within the State Party and from abroad. In particular, where the person having financial responsibility for the child lives in a State different from that of the child, States Parties shall promote the accession to international agreements or the conclusion of such agreements, as well as the making of other appropriate arrangements.
+4\. States Parties shall take all appropriate measures to secure the recovery of maintenance for the child from the parents or other persons having financial responsibility for the child, both within the State Party and from abroad. In particular, where the person having financial responsibility for the child lives in a State different from that of the child, States Parties shall promote the accession to international agreements or the conclusion of such agreements, as well as the making of other appropriate arrangements.
 
 ### Art 28
 
-1. States Parties recognize the right of the child to education, and with a view to achieving this right progressively and on the basis of equal opportunity, they shall, in particular:Make primary education compulsory and available free to all;Encourage the development of different forms of secondary education, including general and vocational education, make them available and accessible to every child, and take appropriate measures such as the introduction of free education and offering financial assistance in case of need;Make higher education accessible to all on the basis of capacity by every appropriate means;Make educational and vocational information and guidance available and accessible to all children;Take measures to encourage regular attendance at schools and the reduction of drop-out rates.
+1\. States Parties recognize the right of the child to education, and with a view to achieving this right progressively and on the basis of equal opportunity, they shall, in particular:Make primary education compulsory and available free to all;Encourage the development of different forms of secondary education, including general and vocational education, make them available and accessible to every child, and take appropriate measures such as the introduction of free education and offering financial assistance in case of need;Make higher education accessible to all on the basis of capacity by every appropriate means;Make educational and vocational information and guidance available and accessible to all children;Take measures to encourage regular attendance at schools and the reduction of drop-out rates.
 
-2. States Parties shall take all appropriate measures to ensure that school discipline is administered in a manner consistent with the child's human dignity and in conformity with the present Convention.
+2\. States Parties shall take all appropriate measures to ensure that school discipline is administered in a manner consistent with the child's human dignity and in conformity with the present Convention.
 
-3. States Parties shall promote and encourage international cooperation in matters relating to education, in particular with a view to contributing to the elimination of ignorance and illiteracy throughout the world and facilitating access to scientific and technical knowledge and modern teaching methods. In this regard, particular account shall be taken of the needs of developing countries.
+3\. States Parties shall promote and encourage international cooperation in matters relating to education, in particular with a view to contributing to the elimination of ignorance and illiteracy throughout the world and facilitating access to scientific and technical knowledge and modern teaching methods. In this regard, particular account shall be taken of the needs of developing countries.
 
 ### Art 29
 
-1. States Parties agree that the education of the child shall be directed to:The development of the child's personality, talents and mental and physical abilities to their fullest potential;The development of respect for human rights and fundamental freedoms, and for the principles enshrined in the Charter of the United Nations;The development of respect for the child's parents, his or her own cultural identity, language and values, for the national values of the country in which the child is living, the country from which he or she may originate, and for civilizations different from his or her own;The preparation of the child for responsible life in a free society, in the spirit of understanding, peace, tolerance, equality of sexes, and friendship among all peoples, ethnic, national and religious groups and persons of indigenous origin;The development of respect for the natural environment.
+1\. States Parties agree that the education of the child shall be directed to:The development of the child's personality, talents and mental and physical abilities to their fullest potential;The development of respect for human rights and fundamental freedoms, and for the principles enshrined in the Charter of the United Nations;The development of respect for the child's parents, his or her own cultural identity, language and values, for the national values of the country in which the child is living, the country from which he or she may originate, and for civilizations different from his or her own;The preparation of the child for responsible life in a free society, in the spirit of understanding, peace, tolerance, equality of sexes, and friendship among all peoples, ethnic, national and religious groups and persons of indigenous origin;The development of respect for the natural environment.
 
-2. No part of the present article or article 28 shall be construed so as to interfere with the liberty of individuals and bodies to establish and direct educational institutions, subject always to the observance of the principle set forth in paragraph 1 of the present article and to the requirements that the education given in such institutions shall conform to such minimum standards as may be laid down by the State.
+2\. No part of the present article or article 28 shall be construed so as to interfere with the liberty of individuals and bodies to establish and direct educational institutions, subject always to the observance of the principle set forth in paragraph 1 of the present article and to the requirements that the education given in such institutions shall conform to such minimum standards as may be laid down by the State.
 
 ### Art 30
 
@@ -3216,15 +3366,15 @@ In those States in which ethnic, religious or linguistic minorities or persons o
 
 ### Art 31
 
-1. States Parties recognize the right of the child to rest and leisure, to engage in play and recreational activities appropriate to the age of the child and to participate freely in cultural life and the arts.
+1\. States Parties recognize the right of the child to rest and leisure, to engage in play and recreational activities appropriate to the age of the child and to participate freely in cultural life and the arts.
 
-2. States Parties shall respect and promote the right of the child to participate fully in cultural and artistic life and shall encourage the provision of appropriate and equal opportunities for cultural, artistic, recreational and leisure activity.
+2\. States Parties shall respect and promote the right of the child to participate fully in cultural and artistic life and shall encourage the provision of appropriate and equal opportunities for cultural, artistic, recreational and leisure activity.
 
 ### Art 32
 
-1. States Parties recognize the right of the child to be protected from economic exploitation and from performing any work that is likely to be hazardous or to interfere with the child's education, or to be harmful to the child's health or physical, mental, spiritual, moral or social development.
+1\. States Parties recognize the right of the child to be protected from economic exploitation and from performing any work that is likely to be hazardous or to interfere with the child's education, or to be harmful to the child's health or physical, mental, spiritual, moral or social development.
 
-2. States Parties shall take legislative, administrative, social and educational measures to ensure the implementation of the present article. To this end, and having regard to the relevant provisions of other international instruments, States Parties shall in particular:Provide for a minimum age or minimum ages for admission to employment;Provide for appropriate regulation of the hours and conditions of employment;Provide for appropriate penalties or other sanctions to ensure the effective enforcement of the present article.
+2\. States Parties shall take legislative, administrative, social and educational measures to ensure the implementation of the present article. To this end, and having regard to the relevant provisions of other international instruments, States Parties shall in particular:Provide for a minimum age or minimum ages for admission to employment;Provide for appropriate regulation of the hours and conditions of employment;Provide for appropriate penalties or other sanctions to ensure the effective enforcement of the present article.
 
 ### Art 33
 
@@ -3248,13 +3398,13 @@ States Parties shall ensure that:No child shall be subjected to torture or other
 
 ### Art 38
 
-1. States Parties undertake to respect and to ensure respect for rules of international humanitarian law applicable to them in armed conflicts which are relevant to the child.
+1\. States Parties undertake to respect and to ensure respect for rules of international humanitarian law applicable to them in armed conflicts which are relevant to the child.
 
-2. States Parties shall take all feasible measures to ensure that persons who have not attained the age of fifteen years do not take a direct part in hostilities.
+2\. States Parties shall take all feasible measures to ensure that persons who have not attained the age of fifteen years do not take a direct part in hostilities.
 
-3. States Parties shall refrain from recruiting any person who has not attained the age of fifteen years into their armed forces. In recruiting among those persons who have attained the age of fifteen years but who have not attained the age of eighteen years, States Parties shall endeavour to give priority to those who are oldest.
+3\. States Parties shall refrain from recruiting any person who has not attained the age of fifteen years into their armed forces. In recruiting among those persons who have attained the age of fifteen years but who have not attained the age of eighteen years, States Parties shall endeavour to give priority to those who are oldest.
 
-4. In accordance with their obligations under international humanitarian law to protect the civilian population in armed conflicts, States Parties shall take all feasible measures to ensure protection and care of children who are affected by an armed conflict.
+4\. In accordance with their obligations under international humanitarian law to protect the civilian population in armed conflicts, States Parties shall take all feasible measures to ensure protection and care of children who are affected by an armed conflict.
 
 ### Art 39
 
@@ -3262,13 +3412,13 @@ States Parties shall take all appropriate measures to promote physical and psych
 
 ### Art 40
 
-1. States Parties recognize the right of every child alleged as, accused of, or recognized as having infringed the penal law to be treated in a manner consistent with the promotion of the child's sense of dignity and worth, which reinforces the child's respect for the human rights and fundamental freedoms of others and which takes into account the child's age and the desirability of promoting the child's reintegration and the child's assuming a constructive role in society.
+1\. States Parties recognize the right of every child alleged as, accused of, or recognized as having infringed the penal law to be treated in a manner consistent with the promotion of the child's sense of dignity and worth, which reinforces the child's respect for the human rights and fundamental freedoms of others and which takes into account the child's age and the desirability of promoting the child's reintegration and the child's assuming a constructive role in society.
 
-2. To this end, and having regard to the relevant provisions of international instruments, States Parties shall, in particular, ensure that:No child shall be alleged as, be accused of, or recognized as having infringed the penal law by reason of acts or omissions that were not prohibited by national or international law at the time they were committed;Every child alleged as or accused of having infringed the penal law has at least the following guarantees:To be presumed innocent until proven guilty according to law;To be informed promptly and directly of the charges against him or her, and, if appropriate, through his or her parents or legal guardians, and to have legal or other appropriate assistance in the preparation and presentation of his or her defence;To have the matter determined without delay by a competent, independent and impartial authority or judicial body in a fair hearing according to law, in the presence of legal or other appropriate assistance and, unless it is considered not to be in the best interest of the child, in particular, taking into account his or her age or situation, his or her parents or legal guardians;Not to be compelled to give testimony or to confess guilt; to examine or have examined adverse witnesses and to obtain the participation and examination of witnesses on his or her behalf under conditions of equality;If considered to have infringed the penal law, to have this decision and any measures imposed in consequence thereof reviewed by a higher competent, independent and impartial authority or judicial body according to law;To have the free assistance of an interpreter if the child cannot understand or speak the language used;To have his or her privacy fully respected at all stages of the proceedings.
+2\. To this end, and having regard to the relevant provisions of international instruments, States Parties shall, in particular, ensure that:No child shall be alleged as, be accused of, or recognized as having infringed the penal law by reason of acts or omissions that were not prohibited by national or international law at the time they were committed;Every child alleged as or accused of having infringed the penal law has at least the following guarantees:To be presumed innocent until proven guilty according to law;To be informed promptly and directly of the charges against him or her, and, if appropriate, through his or her parents or legal guardians, and to have legal or other appropriate assistance in the preparation and presentation of his or her defence;To have the matter determined without delay by a competent, independent and impartial authority or judicial body in a fair hearing according to law, in the presence of legal or other appropriate assistance and, unless it is considered not to be in the best interest of the child, in particular, taking into account his or her age or situation, his or her parents or legal guardians;Not to be compelled to give testimony or to confess guilt; to examine or have examined adverse witnesses and to obtain the participation and examination of witnesses on his or her behalf under conditions of equality;If considered to have infringed the penal law, to have this decision and any measures imposed in consequence thereof reviewed by a higher competent, independent and impartial authority or judicial body according to law;To have the free assistance of an interpreter if the child cannot understand or speak the language used;To have his or her privacy fully respected at all stages of the proceedings.
 
-3. States Parties shall seek to promote the establishment of laws, procedures, authorities and institutions specifically applicable to children alleged as, accused of, or recognized as having infringed the penal law, and, in particular:The establishment of a minimum age below which children shall be presumed not to have the capacity to infringe the penal law;Whenever appropriate and desirable, measures for dealing with such children without resorting to judicial proceedings, providing that human rights and legal safeguards are fully respected.
+3\. States Parties shall seek to promote the establishment of laws, procedures, authorities and institutions specifically applicable to children alleged as, accused of, or recognized as having infringed the penal law, and, in particular:The establishment of a minimum age below which children shall be presumed not to have the capacity to infringe the penal law;Whenever appropriate and desirable, measures for dealing with such children without resorting to judicial proceedings, providing that human rights and legal safeguards are fully respected.
 
-4. A variety of dispositions, such as care, guidance and supervision orders; counselling; probation; foster care; education and vocational training programmes and other alternatives to institutional care shall be available to ensure that children are dealt with in a manner appropriate to their well-being and proportionate both to their circumstances and the offence.
+4\. A variety of dispositions, such as care, guidance and supervision orders; counselling; probation; foster care; education and vocational training programmes and other alternatives to institutional care shall be available to ensure that children are dealt with in a manner appropriate to their well-being and proportionate both to their circumstances and the offence.
 
 ### Art 41
 
@@ -3282,45 +3432,45 @@ States Parties undertake to make the principles and provisions of the Convention
 
 ### Art 43
 
-1. For the purpose of examining the progress made by States Parties in achieving the realization of the obligations undertaken in the present Convention, there shall be established a Committee on the Rights of the Child, which shall carry out the functions hereinafter provided.
+1\. For the purpose of examining the progress made by States Parties in achieving the realization of the obligations undertaken in the present Convention, there shall be established a Committee on the Rights of the Child, which shall carry out the functions hereinafter provided.
 
-2. The Committee shall consist of eighteen experts of high moral standing and recognized competence in the field covered by this Convention. The members of the Committee shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution, as well as to the principal legal systems.
+2\. The Committee shall consist of eighteen experts of high moral standing and recognized competence in the field covered by this Convention. The members of the Committee shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution, as well as to the principal legal systems.
 
-3. The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
+3\. The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
 
-4. The initial election to the Committee shall be held no later than six months after the date of the entry into force of the present Convention and thereafter every second year. At least four months before the date of each election, the Secretary-General of the United Nations shall address a letter to States Parties inviting them to submit their nominations within two months. The Secretary-General shall subsequently prepare a list in alphabetical order of all persons thus nominated, indicating States Parties which have nominated them, and shall submit it to the States Parties to the present Convention.
+4\. The initial election to the Committee shall be held no later than six months after the date of the entry into force of the present Convention and thereafter every second year. At least four months before the date of each election, the Secretary-General of the United Nations shall address a letter to States Parties inviting them to submit their nominations within two months. The Secretary-General shall subsequently prepare a list in alphabetical order of all persons thus nominated, indicating States Parties which have nominated them, and shall submit it to the States Parties to the present Convention.
 
-5. The elections shall be held at meetings of States Parties convened by the Secretary-General at United Nations Headquarters. At those meetings, for which two thirds of States Parties shall constitute a quorum, the persons elected to the Committee shall be those who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+5\. The elections shall be held at meetings of States Parties convened by the Secretary-General at United Nations Headquarters. At those meetings, for which two thirds of States Parties shall constitute a quorum, the persons elected to the Committee shall be those who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
-6. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. The term of five of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these five members shall be chosen by lot by the Chairman of the meeting.
+6\. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election if renominated. The term of five of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these five members shall be chosen by lot by the Chairman of the meeting.
 
-7. If a member of the Committee dies or resigns or declares that for any other cause he or she can no longer perform the duties of the Committee, the State Party which nominated the member shall appoint another expert from among its nationals to serve for the remainder of the term, subject to the approval of the Committee.
+7\. If a member of the Committee dies or resigns or declares that for any other cause he or she can no longer perform the duties of the Committee, the State Party which nominated the member shall appoint another expert from among its nationals to serve for the remainder of the term, subject to the approval of the Committee.
 
-8. The Committee shall establish its own rules of procedure.
+8\. The Committee shall establish its own rules of procedure.
 
-9. The Committee shall elect its officers for a period of two years.
+9\. The Committee shall elect its officers for a period of two years.
 
-10. The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee. The Committee shall normally meet annually. The duration of the meetings of the Committee shall be determined, and reviewed, if necessary, by a meeting of the States Parties to the present Convention, subject to the approval of the General Assembly.
+10\. The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee. The Committee shall normally meet annually. The duration of the meetings of the Committee shall be determined, and reviewed, if necessary, by a meeting of the States Parties to the present Convention, subject to the approval of the General Assembly.
 
-11. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
+11\. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
 
-12. With the approval of the General Assembly, the members of the Committee established under the present Convention shall receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide.
+12\. With the approval of the General Assembly, the members of the Committee established under the present Convention shall receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide.
 
 > Amended by General Assembly resolution 50/155 of 21 December 1995 (in force 18 November 2002).
 
 ### Art 44
 
-1. States Parties undertake to submit to the Committee, through the Secretary-General of the United Nations, reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made on the enjoyment of those rights:Within two years of the entry into force of the Convention for the State Party concerned;Thereafter every five years.
+1\. States Parties undertake to submit to the Committee, through the Secretary-General of the United Nations, reports on the measures they have adopted which give effect to the rights recognized herein and on the progress made on the enjoyment of those rights:Within two years of the entry into force of the Convention for the State Party concerned;Thereafter every five years.
 
-2. Reports made under the present article shall indicate factors and difficulties, if any, affecting the degree of fulfilment of the obligations under the present Convention. Reports shall also contain sufficient information to provide the Committee with a comprehensive understanding of the implementation of the Convention in the country concerned.
+2\. Reports made under the present article shall indicate factors and difficulties, if any, affecting the degree of fulfilment of the obligations under the present Convention. Reports shall also contain sufficient information to provide the Committee with a comprehensive understanding of the implementation of the Convention in the country concerned.
 
-3. A State Party which has submitted a comprehensive initial report to the Committee need not, in its subsequent reports submitted in accordance with paragraph 1 (b) of the present article, repeat basic information previously provided.
+3\. A State Party which has submitted a comprehensive initial report to the Committee need not, in its subsequent reports submitted in accordance with paragraph 1 (b) of the present article, repeat basic information previously provided.
 
-4. The Committee may request from States Parties further information relevant to the implementation of the Convention.
+4\. The Committee may request from States Parties further information relevant to the implementation of the Convention.
 
-5. The Committee shall submit to the General Assembly, through the Economic and Social Council, every two years, reports on its activities.
+5\. The Committee shall submit to the General Assembly, through the Economic and Social Council, every two years, reports on its activities.
 
-6. States Parties shall make their reports widely available to the public in their own countries.
+6\. States Parties shall make their reports widely available to the public in their own countries.
 
 ### Art 45
 
@@ -3342,25 +3492,25 @@ The present Convention shall remain open for accession by any State. The instrum
 
 ### Art 49
 
-1. The present Convention shall enter into force on the thirtieth day following the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.
+1\. The present Convention shall enter into force on the thirtieth day following the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.
 
-2. For each State ratifying or acceding to the Convention after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification or accession.
+2\. For each State ratifying or acceding to the Convention after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification or accession.
 
 ### Art 50
 
-1. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly for approval.
+1\. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly for approval.
 
-2. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of States Parties.
+2\. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of States Parties.
 
-3. When an amendment enters into force, it shall be binding on those States Parties which have accepted it, other States Parties still being bound by the provisions of the present Convention and any earlier amendments which they have accepted.
+3\. When an amendment enters into force, it shall be binding on those States Parties which have accepted it, other States Parties still being bound by the provisions of the present Convention and any earlier amendments which they have accepted.
 
 ### Art 51
 
-1. The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
+1\. The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
 
-2. A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
+2\. A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
 
-3. Reservations may be withdrawn at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall then inform all States. Such notification shall take effect on the date on which it is received by the Secretary-General
+3\. Reservations may be withdrawn at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall then inform all States. Such notification shall take effect on the date on which it is received by the Secretary-General
 
 ### Art 52
 
@@ -3377,6 +3527,8 @@ The original of the present Convention, of which the Arabic, Chinese, English, F
 IN WITNESS THEREOF the undersigned plenipotentiaries, being duly authorized thereto by their respective governments, have signed the present Convention.
 
 ### Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict, United Nations 25 May 2000
+
+*The States Parties to the present Protocol,*
 
 *Encouraged* by the overwhelming support for the Convention on the Rights of the Child, demonstrating the widespread commitment that exists to strive for the promotion and protection of the rights of the child,
 
@@ -3426,23 +3578,23 @@ States Parties shall ensure that persons who have not attained the age of 18 yea
 
 ### Art 3
 
-1. States Parties shall raise in years the minimum age for the voluntary recruitment of persons into their national armed forces from that set out in article 38, paragraph 3, of the Convention on the Rights of the Child, taking account of the principles contained in that article and recognizing that under the Convention persons under 18 are entitled to special protection.
+1\. States Parties shall raise in years the minimum age for the voluntary recruitment of persons into their national armed forces from that set out in article 38, paragraph 3, of the Convention on the Rights of the Child, taking account of the principles contained in that article and recognizing that under the Convention persons under 18 are entitled to special protection.
 
-2. Each State Party shall deposit a binding declaration upon ratification of or accession to this Protocol that sets forth the minimum age at which it will permit voluntary recruitment into its national armed forces and a description of the safeguards that it has adopted to ensure that such recruitment is not forced or coerced.
+2\. Each State Party shall deposit a binding declaration upon ratification of or accession to this Protocol that sets forth the minimum age at which it will permit voluntary recruitment into its national armed forces and a description of the safeguards that it has adopted to ensure that such recruitment is not forced or coerced.
 
-3. States Parties that permit voluntary recruitment into their national armed forces under the age of 18 shall maintain safeguards to ensure, as a minimum, that:Such recruitment is genuinely voluntary;Such recruitment is done with the informed consent of the person's parents or legal guardians;Such persons are fully informed of the duties involved in such military service;Such persons provide reliable proof of age prior to acceptance into national military service.
+3\. States Parties that permit voluntary recruitment into their national armed forces under the age of 18 shall maintain safeguards to ensure, as a minimum, that:Such recruitment is genuinely voluntary;Such recruitment is done with the informed consent of the person's parents or legal guardians;Such persons are fully informed of the duties involved in such military service;Such persons provide reliable proof of age prior to acceptance into national military service.
 
-4. Each State Party may strengthen its declaration at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall inform all States Parties. Such notification shall take effect on the date on which it is received by the Secretary-General.
+4\. Each State Party may strengthen its declaration at any time by notification to that effect addressed to the Secretary-General of the United Nations, who shall inform all States Parties. Such notification shall take effect on the date on which it is received by the Secretary-General.
 
-5. The requirement to raise the age in paragraph 1 of the present article does not apply to schools operated by or under the control of the armed forces of the States Parties, in keeping with articles 28 and 29 of the Convention on the Rights of the Child.
+5\. The requirement to raise the age in paragraph 1 of the present article does not apply to schools operated by or under the control of the armed forces of the States Parties, in keeping with articles 28 and 29 of the Convention on the Rights of the Child.
 
 ### Art 4
 
-1. Armed groups that are distinct from the armed forces of a State should not, under any circumstances, recruit or use in hostilities persons under the age of 18 years.
+1\. Armed groups that are distinct from the armed forces of a State should not, under any circumstances, recruit or use in hostilities persons under the age of 18 years.
 
-2. States Parties shall take all feasible measures to prevent such recruitment and use, including the adoption of legal measures necessary to prohibit and criminalize such practices.
+2\. States Parties shall take all feasible measures to prevent such recruitment and use, including the adoption of legal measures necessary to prohibit and criminalize such practices.
 
-3. The application of the present article under this Protocol shall not affect the legal status of any party to an armed conflict.
+3\. The application of the present article under this Protocol shall not affect the legal status of any party to an armed conflict.
 
 ### Art 5
 
@@ -3450,61 +3602,63 @@ Nothing in the present Protocol shall be construed as precluding provisions in t
 
 ### Art 6
 
-1. Each State Party shall take all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of this Protocol within its jurisdiction.
+1\. Each State Party shall take all necessary legal, administrative and other measures to ensure the effective implementation and enforcement of the provisions of this Protocol within its jurisdiction.
 
-2. States Parties undertake to make the principles and provisions of the present Protocol widely known and promoted by appropriate means, to adults and children alike.
+2\. States Parties undertake to make the principles and provisions of the present Protocol widely known and promoted by appropriate means, to adults and children alike.
 
-3. States Parties shall take all feasible measures to ensure that persons within their jurisdiction recruited or used in hostilities contrary to this Protocol are demobilized or otherwise released from service. States Parties shall, when necessary, accord to these persons all appropriate assistance for their physical and psychological recovery and their social reintegration.
+3\. States Parties shall take all feasible measures to ensure that persons within their jurisdiction recruited or used in hostilities contrary to this Protocol are demobilized or otherwise released from service. States Parties shall, when necessary, accord to these persons all appropriate assistance for their physical and psychological recovery and their social reintegration.
 
 ### Art 7
 
-1. States Parties shall cooperate in the implementation of the present Protocol, including in the prevention of any activity contrary to the Protocol and in the rehabilitation and social reintegration of persons who are victims of acts contrary to this Protocol, including through technical cooperation and financial assistance. Such assistance and cooperation will be undertaken in consultation with concerned States Parties and relevant international organizations.
+1\. States Parties shall cooperate in the implementation of the present Protocol, including in the prevention of any activity contrary to the Protocol and in the rehabilitation and social reintegration of persons who are victims of acts contrary to this Protocol, including through technical cooperation and financial assistance. Such assistance and cooperation will be undertaken in consultation with concerned States Parties and relevant international organizations.
 
-2. States Parties in a position to do so shall provide such assistance through existing multilateral, bilateral or other programmes, or, *inter alia,* through a voluntary fund established in accordance with the rules of the General Assembly.
+2\. States Parties in a position to do so shall provide such assistance through existing multilateral, bilateral or other programmes, or, *inter alia,* through a voluntary fund established in accordance with the rules of the General Assembly.
 
 ### Art 8
 
-1. Each State Party shall submit, within two years following the entry into force of the Protocol for that State Party, a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol, including the measures taken to implement the provisions on participation and recruitment.
+1\. Each State Party shall submit, within two years following the entry into force of the Protocol for that State Party, a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol, including the measures taken to implement the provisions on participation and recruitment.
 
-2. Following the submission of the comprehensive report, each State Party shall include in the reports they submit to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the Protocol. Other States Parties to the Protocol shall submit a report every five years.
+2\. Following the submission of the comprehensive report, each State Party shall include in the reports they submit to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the Protocol. Other States Parties to the Protocol shall submit a report every five years.
 
-3. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of this Protocol.
+3\. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of this Protocol.
 
 ### Art 9
 
-1. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
+1\. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
 
-2. The present Protocol is subject to ratification and is open to accession by any State. Instruments of ratification or accession shall be deposited with the Secretary-General of the United Nations.
+2\. The present Protocol is subject to ratification and is open to accession by any State. Instruments of ratification or accession shall be deposited with the Secretary-General of the United Nations.
 
-3. The Secretary-General, in his capacity as depositary of the Convention and the Protocol, shall inform all States Parties to the Convention and all States that have signed the Convention of each instrument of declaration pursuant to article 13.
+3\. The Secretary-General, in his capacity as depositary of the Convention and the Protocol, shall inform all States Parties to the Convention and all States that have signed the Convention of each instrument of declaration pursuant to article 13.
 
 ### Art 10
 
-1. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
+1\. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
 
-2. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
+2\. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
 
 ### Art 11
 
-1. Any State Party may denounce the present Protocol at any time by written notification to the Secretary-General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General. If, however, on the expiry of that year the denouncing State Party is engaged in armed conflict, the denunciation shall not take effect before the end of the armed conflict.
+1\. Any State Party may denounce the present Protocol at any time by written notification to the Secretary-General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General. If, however, on the expiry of that year the denouncing State Party is engaged in armed conflict, the denunciation shall not take effect before the end of the armed conflict.
 
-2. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any act that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee prior to the date on which the denunciation becomes effective.
+2\. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any act that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee prior to the date on which the denunciation becomes effective.
 
 ### Art 12
 
-1. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly for approval.
+1\. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly for approval.
 
-2. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of States Parties.
+2\. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of States Parties.
 
-3. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
+3\. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
 
 ### Art 13
 
-1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
+2\. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
 
 ### Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography, United Nations, 25 May 2000
+
+*The States Parties to the present Protocol,*
 
 *Considering* that, in order further to achieve the purposes of the Convention on the Rights of the Child and the implementation of its provisions, especially articles 1, 11, 21, 32, 33, 34, 35 and 36, it would be appropriate to extend the measures that States Parties should undertake in order to guarantee the protection of the child from the sale of children, child prostitution and child pornography,
 
@@ -3542,43 +3696,43 @@ For the purposes of the present Protocol:Sale of children means any act or trans
 
 ### Art 3
 
-1. Each State Party shall ensure that, as a minimum, the following acts and activities are fully covered under its criminal or penal law, whether these offences are committed domestically or transnationally or on an individual or organized basis:In the context of sale of children as defined in article 2:Offering, delivering or accepting, by whatever means, a child for the purpose of:Sexual exploitation of the child;Transfer of organs of the child for profit;Engagement of the child in forced labour;Improperly inducing consent, as an intermediary, for the adoption of a child in violation of applicable international legal instruments on adoption;Offering, obtaining, procuring or providing a child for child prostitution, as defined in article 2;Producing, distributing, disseminating, importing, exporting, offering, selling or possessing for the above purposes child pornography as defined in article 2.
+1\. Each State Party shall ensure that, as a minimum, the following acts and activities are fully covered under its criminal or penal law, whether these offences are committed domestically or transnationally or on an individual or organized basis:In the context of sale of children as defined in article 2:Offering, delivering or accepting, by whatever means, a child for the purpose of:Sexual exploitation of the child;Transfer of organs of the child for profit;Engagement of the child in forced labour;Improperly inducing consent, as an intermediary, for the adoption of a child in violation of applicable international legal instruments on adoption;Offering, obtaining, procuring or providing a child for child prostitution, as defined in article 2;Producing, distributing, disseminating, importing, exporting, offering, selling or possessing for the above purposes child pornography as defined in article 2.
 
-2. Subject to the provisions of the national law of a State Party, the same shall apply to an attempt to commit any of these acts and to complicity or participation in any of these acts.
+2\. Subject to the provisions of the national law of a State Party, the same shall apply to an attempt to commit any of these acts and to complicity or participation in any of these acts.
 
-3. Each State Party shall make these offences punishable by appropriate penalties that take into account their grave nature.
+3\. Each State Party shall make these offences punishable by appropriate penalties that take into account their grave nature.
 
-4. Subject to the provisions of its national law, each State Party shall take measures, where appropriate, to establish the liability of legal persons for offences established in paragraph 1 of the present article. Subject to the legal principles of the State Party, such liability of legal persons may be criminal, civil or administrative.
+4\. Subject to the provisions of its national law, each State Party shall take measures, where appropriate, to establish the liability of legal persons for offences established in paragraph 1 of the present article. Subject to the legal principles of the State Party, such liability of legal persons may be criminal, civil or administrative.
 
-5. States Parties shall take all appropriate legal and administrative measures to ensure that all persons involved in the adoption of a child act in conformity with applicable international legal instruments.
+5\. States Parties shall take all appropriate legal and administrative measures to ensure that all persons involved in the adoption of a child act in conformity with applicable international legal instruments.
 
 ### Art 4
 
-1. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, when the offences are committed in its territory or on board a ship or aircraft registered in that State.
+1\. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, when the offences are committed in its territory or on board a ship or aircraft registered in that State.
 
-2. Each State Party may take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, in the following cases:When the alleged offender is a national of that State or a person who has his habitual residence in its territory;When the victim is a national of that State.
+2\. Each State Party may take such measures as may be necessary to establish its jurisdiction over the offences referred to in article 3, paragraph 1, in the following cases:When the alleged offender is a national of that State or a person who has his habitual residence in its territory;When the victim is a national of that State.
 
-3. Each State Party shall also take such measures as may be necessary to establish its jurisdiction over the afore mentioned offences when the alleged offender is present in its territory and it does not extradite him or her to another State Party on the ground that the offence has been committed by one of its nationals.
+3\. Each State Party shall also take such measures as may be necessary to establish its jurisdiction over the afore mentioned offences when the alleged offender is present in its territory and it does not extradite him or her to another State Party on the ground that the offence has been committed by one of its nationals.
 
-4. This Protocol does not exclude any criminal jurisdiction exercised in accordance with internal law.
+4\. This Protocol does not exclude any criminal jurisdiction exercised in accordance with internal law.
 
 ### Art 5
 
-1. The offences referred to in article 3, paragraph 1, shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties and shall be included as extraditable offences in every extradition treaty subsequently concluded between them, in accordance with the conditions set forth in such treaties.
+1\. The offences referred to in article 3, paragraph 1, shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties and shall be included as extraditable offences in every extradition treaty subsequently concluded between them, in accordance with the conditions set forth in such treaties.
 
-2. If a State Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may consider the present Protocol to be a legal basis for extradition in respect of such offences. Extradition shall be subject to the conditions provided by the law of the requested State.
+2\. If a State Party that makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may consider the present Protocol to be a legal basis for extradition in respect of such offences. Extradition shall be subject to the conditions provided by the law of the requested State.
 
-3. States Parties that do not make extradition conditional on the existence of a treaty shall recognize such offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
+3\. States Parties that do not make extradition conditional on the existence of a treaty shall recognize such offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 
-4. Such offences shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with article 4.
+4\. Such offences shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with article 4.
 
-5. If an extradition request is made with respect to an offence described in article 3, paragraph 1, and the requested State Party does not or will not extradite on the basis of the nationality of the offender, that State shall take suitable measures to submit the case to its competent authorities for the purpose of prosecution.
+5\. If an extradition request is made with respect to an offence described in article 3, paragraph 1, and the requested State Party does not or will not extradite on the basis of the nationality of the offender, that State shall take suitable measures to submit the case to its competent authorities for the purpose of prosecution.
 
 ### Art 6
 
-1. States Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in article 3, paragraph 1, including assistance in obtaining evidence at their disposal necessary for the proceedings.
+1\. States Parties shall afford one another the greatest measure of assistance in connection with investigations or criminal or extradition proceedings brought in respect of the offences set forth in article 3, paragraph 1, including assistance in obtaining evidence at their disposal necessary for the proceedings.
 
-2. States Parties shall carry out their obligations under paragraph 1 of the present article in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their domestic law.
+2\. States Parties shall carry out their obligations under paragraph 1 of the present article in conformity with any treaties or other arrangements on mutual legal assistance that may exist between them. In the absence of such treaties or arrangements, States Parties shall afford one another assistance in accordance with their domestic law.
 
 ### Art 7
 
@@ -3586,39 +3740,39 @@ States Parties shall, subject to the provisions of their national law:Take measu
 
 ### Art 8
 
-1. States Parties shall adopt appropriate measures to protect the rights and interests of child victims of the practices prohibited under the present Protocol at all stages of the criminal justice process, in particular by:Recognizing the vulnerability of child victims and adapting procedures to recognize their special needs, including their special needs as witnesses;Informing child victims of their rights, their role and the scope, timing and progress of the proceedings and of the disposition of their cases;Allowing the views, needs and concerns of child victims to be presented and considered in proceedings where their personal interests are affected, in a manner consistent with the procedural rules of national law;Providing appropriate support services to child victims throughout the legal process;Protecting, as appropriate, the privacy and identity of child victims and taking measures in accordance with national law to avoid the inappropriate dissemination of information that could lead to the identification of child victims;Providing, in appropriate cases, for the safety of child victims, as well as that of their families and witnesses on their behalf, from intimidation and retaliation;Avoiding unnecessary delay in the disposition of cases and the execution of orders or decrees granting compensation to child victims.
+1\. States Parties shall adopt appropriate measures to protect the rights and interests of child victims of the practices prohibited under the present Protocol at all stages of the criminal justice process, in particular by:Recognizing the vulnerability of child victims and adapting procedures to recognize their special needs, including their special needs as witnesses;Informing child victims of their rights, their role and the scope, timing and progress of the proceedings and of the disposition of their cases;Allowing the views, needs and concerns of child victims to be presented and considered in proceedings where their personal interests are affected, in a manner consistent with the procedural rules of national law;Providing appropriate support services to child victims throughout the legal process;Protecting, as appropriate, the privacy and identity of child victims and taking measures in accordance with national law to avoid the inappropriate dissemination of information that could lead to the identification of child victims;Providing, in appropriate cases, for the safety of child victims, as well as that of their families and witnesses on their behalf, from intimidation and retaliation;Avoiding unnecessary delay in the disposition of cases and the execution of orders or decrees granting compensation to child victims.
 
-2. States Parties shall ensure that uncertainty as to the actual age of the victim shall not prevent the initiation of criminal investigations, including investigations aimed at establishing the age of the victim.
+2\. States Parties shall ensure that uncertainty as to the actual age of the victim shall not prevent the initiation of criminal investigations, including investigations aimed at establishing the age of the victim.
 
-3. States Parties shall ensure that, in the treatment by the criminal justice system of children who are victims of the offences described in the present Protocol, the best interest of the child shall be a primary consideration.
+3\. States Parties shall ensure that, in the treatment by the criminal justice system of children who are victims of the offences described in the present Protocol, the best interest of the child shall be a primary consideration.
 
-4. States Parties shall take measures to ensure appropriate training, in particular legal and psychological training, for the persons who work with victims of the offences prohibited under the present Protocol.
+4\. States Parties shall take measures to ensure appropriate training, in particular legal and psychological training, for the persons who work with victims of the offences prohibited under the present Protocol.
 
-5. States Parties shall, in appropriate cases, adopt measures in order to protect the safety and integrity of those persons and/or organizations involved in the prevention and/or protection and rehabilitation of victims of such offences.
+5\. States Parties shall, in appropriate cases, adopt measures in order to protect the safety and integrity of those persons and/or organizations involved in the prevention and/or protection and rehabilitation of victims of such offences.
 
-6. Nothing in the present article shall be construed as prejudicial to or inconsistent with the rights of the accused to a fair and impartial trial.
+6\. Nothing in the present article shall be construed as prejudicial to or inconsistent with the rights of the accused to a fair and impartial trial.
 
 ### Art 9
 
-1. States Parties shall adopt or strengthen, implement and disseminate laws, administrative measures, social policies and programmes to prevent the offences referred to in the present Protocol. Particular attention shall be given to protect children who are especially vulnerable to these practices.
+1\. States Parties shall adopt or strengthen, implement and disseminate laws, administrative measures, social policies and programmes to prevent the offences referred to in the present Protocol. Particular attention shall be given to protect children who are especially vulnerable to these practices.
 
-2. States Parties shall promote awareness in the public at large, including children, through information by all appropriate means, education and training, about the preventive measures and harmful effects of the offences referred to in the present Protocol. In fulfilling their obligations under this article, States Parties shall encourage the participation of the community and, in particular, children and child victims, in such information and education and training programmes, including at the international level.
+2\. States Parties shall promote awareness in the public at large, including children, through information by all appropriate means, education and training, about the preventive measures and harmful effects of the offences referred to in the present Protocol. In fulfilling their obligations under this article, States Parties shall encourage the participation of the community and, in particular, children and child victims, in such information and education and training programmes, including at the international level.
 
-3. States Parties shall take all feasible measures with the aim of ensuring all appropriate assistance to victims of such offences, including their full social reintegration and their full physical and psychological recovery.
+3\. States Parties shall take all feasible measures with the aim of ensuring all appropriate assistance to victims of such offences, including their full social reintegration and their full physical and psychological recovery.
 
-4. States Parties shall ensure that all child victims of the offences described in the present Protocol have access to adequate procedures to seek, without discrimination, compensation for damages from those legally responsible.
+4\. States Parties shall ensure that all child victims of the offences described in the present Protocol have access to adequate procedures to seek, without discrimination, compensation for damages from those legally responsible.
 
-5. States Parties shall take appropriate measures aimed at effectively prohibiting the production and dissemination of material advertising the offences described in the present Protocol.
+5\. States Parties shall take appropriate measures aimed at effectively prohibiting the production and dissemination of material advertising the offences described in the present Protocol.
 
 ### Art 10
 
-1. States Parties shall take all necessary steps to strengthen international cooperation by multilateral, regional and bilateral arrangements for the prevention, detection, investigation, prosecution and punishment of those responsible for acts involving the sale of children, child prostitution, child pornography and child sex tourism. States Parties shall also promote international cooperation and coordination between their authorities, national and international non-governmental organizations and international organizations.
+1\. States Parties shall take all necessary steps to strengthen international cooperation by multilateral, regional and bilateral arrangements for the prevention, detection, investigation, prosecution and punishment of those responsible for acts involving the sale of children, child prostitution, child pornography and child sex tourism. States Parties shall also promote international cooperation and coordination between their authorities, national and international non-governmental organizations and international organizations.
 
-2. States Parties shall promote international cooperation to assist child victims in their physical and psychological recovery, social reintegration and repatriation.
+2\. States Parties shall promote international cooperation to assist child victims in their physical and psychological recovery, social reintegration and repatriation.
 
-3. States Parties shall promote the strengthening of international cooperation in order to address the root causes, such as poverty and underdevelopment, contributing to the vulnerability of children to the sale of children, child prostitution, child pornography and child sex tourism.
+3\. States Parties shall promote the strengthening of international cooperation in order to address the root causes, such as poverty and underdevelopment, contributing to the vulnerability of children to the sale of children, child prostitution, child pornography and child sex tourism.
 
-4. States Parties in a position to do so shall provide financial, technical or other assistance through existing multilateral, regional, bilateral or other programmes.
+4\. States Parties in a position to do so shall provide financial, technical or other assistance through existing multilateral, regional, bilateral or other programmes.
 
 ### Art 11
 
@@ -3626,49 +3780,53 @@ Nothing in the present Protocol shall affect any provisions that are more conduc
 
 ### Art 12
 
-1. Each State Party shall, within two years following the entry into force of the Protocol for that State Party, submit a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol.
+1\. Each State Party shall, within two years following the entry into force of the Protocol for that State Party, submit a report to the Committee on the Rights of the Child providing comprehensive information on the measures it has taken to implement the provisions of the Protocol.
 
-2. Following the submission of the comprehensive report, each State Party shall include in the reports they submit to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the Protocol. Other States Parties to the Protocol shall submit a report every five years.
+2\. Following the submission of the comprehensive report, each State Party shall include in the reports they submit to the Committee on the Rights of the Child, in accordance with article 44 of the Convention, any further information with respect to the implementation of the Protocol. Other States Parties to the Protocol shall submit a report every five years.
 
-3. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of this Protocol.
+3\. The Committee on the Rights of the Child may request from States Parties further information relevant to the implementation of this Protocol.
 
 ### Art 13
 
-1. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
+1\. The present Protocol is open for signature by any State that is a party to the Convention or has signed it.
 
-2. The present Protocol is subject to ratification and is open to accession by any State that is a party to the Convention or has signed it. Instruments of ratification or accession shall be deposited with the Secretary-General of the United Nations.
+2\. The present Protocol is subject to ratification and is open to accession by any State that is a party to the Convention or has signed it. Instruments of ratification or accession shall be deposited with the Secretary-General of the United Nations.
 
 ### Art 14
 
-1. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
+1\. The present Protocol shall enter into force three months after the deposit of the tenth instrument of ratification or accession.
 
-2. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
+2\. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force one month after the date of the deposit of its own instrument of ratification or accession.
 
 ### Art 15
 
-1. Any State Party may denounce the present Protocol at any time by written notification to the Secretary-General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General of the United Nations.
+1\. Any State Party may denounce the present Protocol at any time by written notification to the Secretary-General of the United Nations, who shall thereafter inform the other States Parties to the Convention and all States that have signed the Convention. The denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General of the United Nations.
 
-2. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any offence that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee prior to the date on which the denunciation becomes effective.
+2\. Such a denunciation shall not have the effect of releasing the State Party from its obligations under the present Protocol in regard to any offence that occurs prior to the date on which the denunciation becomes effective. Nor shall such a denunciation prejudice in any way the continued consideration of any matter that is already under consideration by the Committee prior to the date on which the denunciation becomes effective.
 
 ### Art 16
 
-1. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1\. Any State Party may propose an amendment and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate the proposed amendment to States Parties, with a request that they indicate whether they favour a conference of States Parties for the purpose of considering and voting upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly and accepted by a two-thirds majority of States Parties.
+2\. An amendment adopted in accordance with paragraph 1 of the present article shall enter into force when it has been approved by the General Assembly and accepted by a two-thirds majority of States Parties.
 
-3. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
+3\. When an amendment enters into force, it shall be binding on those States Parties that have accepted it, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
 
 ### Art 17
 
-1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
+2\. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States Parties to the Convention and all States that have signed the Convention.
 
 ## Vedlegg 8. FNs konvensjon om barnets rettigheter med protokoller (norsk oversettelse)
 
 ### FNs konvensjon om barnets rettigheter av 20. november 1989
 
 Vedtatt og åpnet for undertegning, ratifikasjon og tiltredelse av FNs generalforsamlings resolusjon 44/25, 20. november 1989, i kraft 2. september 1990, i samsvar med artikkel 49
+
+*Innledning*
+
+De stater som er part i denne konvensjon,
 
 - som tar i betraktning at anerkjennelsen av den iboende verdighet hos alle medlemmer av menneskeslekten og av deres like og uavhendelige rettigheter, i samsvar med prinsippene fastslått i De forente nasjoners pakt, er grunnlaget for frihet, rettferdighet og fred i verden,
 - som tar hensyn til at De forente nasjoners folk i Pakten har bekreftet sin tro på de grunnleggende menneskerettigheter og på det enkelte menneskets verdighet og verdi, og at de har besluttet å fremme sosiale fremskritt og bedre levevilkårunder større frihet,
@@ -3693,17 +3851,17 @@ I denne konvensjonen menes med barn ethvert menneske under 18 år, hvis ikke bar
 
 ### Art 2
 
-1. De stater som er part i denne konvensjon, skal respektere og sikre de rettigheter som er fastsatt i denne konvensjon for ethvert barn innenfor deres jurisdiksjon, uten diskriminering av noe slag og uten hensyn til barnets, dets foreldres eller verges rase, hudfarge, kjønn, språk, religion, politiske eller annen oppfatning, nasjonale, etniske eller sosiale opprinnelse, eiendomsforhold, funksjonshemming, fødsel eller annen stilling.
+1\. De stater som er part i denne konvensjon, skal respektere og sikre de rettigheter som er fastsatt i denne konvensjon for ethvert barn innenfor deres jurisdiksjon, uten diskriminering av noe slag og uten hensyn til barnets, dets foreldres eller verges rase, hudfarge, kjønn, språk, religion, politiske eller annen oppfatning, nasjonale, etniske eller sosiale opprinnelse, eiendomsforhold, funksjonshemming, fødsel eller annen stilling.
 
-2. Partene skal treffe alle egnede tiltak for å sikre at barnet beskyttes mot enhver form for diskriminering eller straff på grunn av sine foreldres, sin verges eller familiemedlemmers stilling, virksomhet, meningsytringer eller tro.
+2\. Partene skal treffe alle egnede tiltak for å sikre at barnet beskyttes mot enhver form for diskriminering eller straff på grunn av sine foreldres, sin verges eller familiemedlemmers stilling, virksomhet, meningsytringer eller tro.
 
 ### Art 3
 
-1. Ved alle handlinger som berører barn, enten de foretas av offentlige eller private velferdsorganisasjoner, domstoler, administrative myndigheter eller lovgivende organer, skal barnets beste være et grunnleggende hensyn.
+1\. Ved alle handlinger som berører barn, enten de foretas av offentlige eller private velferdsorganisasjoner, domstoler, administrative myndigheter eller lovgivende organer, skal barnets beste være et grunnleggende hensyn.
 
-2. Partene påtar seg å sikre barnet den beskyttelse og omsorg som er nødvendig for barnets trivsel, idet det tas hensyn til rettighetene og forpliktelsene til barnets foreldre, verger eller andre enkeltpersoner som har det juridiske ansvaret for ham eller henne, og skal treffe alle egnede, lovgivningsmessige og administrative tiltak for dette formål.
+2\. Partene påtar seg å sikre barnet den beskyttelse og omsorg som er nødvendig for barnets trivsel, idet det tas hensyn til rettighetene og forpliktelsene til barnets foreldre, verger eller andre enkeltpersoner som har det juridiske ansvaret for ham eller henne, og skal treffe alle egnede, lovgivningsmessige og administrative tiltak for dette formål.
 
-3. Partene skal sikre at de institusjoner og tjenester som har ansvaret for barns omsorg eller beskyttelse, retter seg etter de standarder som er fastsatt av de kompetente myndigheter, særlig med hensyn til sikkerhet, helse, personalets antall og kvalifikasjoner samt kvalifisert tilsyn.
+3\. Partene skal sikre at de institusjoner og tjenester som har ansvaret for barns omsorg eller beskyttelse, retter seg etter de standarder som er fastsatt av de kompetente myndigheter, særlig med hensyn til sikkerhet, helse, personalets antall og kvalifikasjoner samt kvalifisert tilsyn.
 
 ### Art 4
 
@@ -3715,75 +3873,75 @@ Partene skal respektere det ansvar og de rettigheter og forpliktelser som foreld
 
 ### Art 6
 
-1. Partene erkjenner at hvert barn har en iboende rett til livet.
+1\. Partene erkjenner at hvert barn har en iboende rett til livet.
 
-2. Partene skal så langt det er mulig sikre at barnet overlever og vokser opp.
+2\. Partene skal så langt det er mulig sikre at barnet overlever og vokser opp.
 
 ### Art 7
 
-1. Barnet skal registreres umiddelbart etter fødselen og skal fra fødselen ha rett til et navn, rett til å erverve et statsborgerskap, og, så langt det er mulig, rett til å kjenne sine foreldre og få omsorg fra dem.
+1\. Barnet skal registreres umiddelbart etter fødselen og skal fra fødselen ha rett til et navn, rett til å erverve et statsborgerskap, og, så langt det er mulig, rett til å kjenne sine foreldre og få omsorg fra dem.
 
-2. Partene skal sikre gjennomføringen av disse rettighetene i samsvar med sin nasjonale lovgivning og sine forpliktelser i henhold til relevante internasjonale instrumenter på dette området, særlig når barnet ellers ville blitt statsløs.
+2\. Partene skal sikre gjennomføringen av disse rettighetene i samsvar med sin nasjonale lovgivning og sine forpliktelser i henhold til relevante internasjonale instrumenter på dette området, særlig når barnet ellers ville blitt statsløs.
 
 ### Art 8
 
-1. Partene forplikter seg til å respektere barnets rett til å bevare sin identitet, herunder statsborgerskap, navn og familieforhold som anerkjent av loven, uten ulovlig innblanding.
+1\. Partene forplikter seg til å respektere barnets rett til å bevare sin identitet, herunder statsborgerskap, navn og familieforhold som anerkjent av loven, uten ulovlig innblanding.
 
-2. Dersom et barn ulovlig blir fratatt sin identitet helt eller delvis, skal partene yte egnet bistand og beskyttelse med henblikk på hurtig gjenoppretting av hans eller hennes identitet.
+2\. Dersom et barn ulovlig blir fratatt sin identitet helt eller delvis, skal partene yte egnet bistand og beskyttelse med henblikk på hurtig gjenoppretting av hans eller hennes identitet.
 
 ### Art 9
 
-1. Partene skal sikre at et barn ikke blir skilt fra sine foreldre mot deres vilje, unntatt når kompetente myndigheter, som er underlagt rettslig prøving, i samsvar med gjeldende lover og saksbehandlingsregler, beslutter at slik atskillelse er nødvendig av hensyn til barnets beste. Slik beslutning kan være nødvendig i særlige tilfeller som f.eks. ved foreldres mishandling eller vanskjøtsel av barnet, eller dersom foreldrene lever atskilt og det må treffes en avgjørelse om hvor barnet skal bo.
+1\. Partene skal sikre at et barn ikke blir skilt fra sine foreldre mot deres vilje, unntatt når kompetente myndigheter, som er underlagt rettslig prøving, i samsvar med gjeldende lover og saksbehandlingsregler, beslutter at slik atskillelse er nødvendig av hensyn til barnets beste. Slik beslutning kan være nødvendig i særlige tilfeller som f.eks. ved foreldres mishandling eller vanskjøtsel av barnet, eller dersom foreldrene lever atskilt og det må treffes en avgjørelse om hvor barnet skal bo.
 
-2. Under behandling av en sak i henhold til nr. 1 skal samtlige berørte parter gis anledning til å delta i saksbehandlingen og fremføre sine synspunkter.
+2\. Under behandling av en sak i henhold til nr. 1 skal samtlige berørte parter gis anledning til å delta i saksbehandlingen og fremføre sine synspunkter.
 
-3. Partene skal respektere den rett et barn som er atskilt fra en eller begge foreldre har til å opprettholde personlig forbindelse og direkte kontakt med begge foreldrene regelmessig, med mindre dette er i strid med barnets beste.
+3\. Partene skal respektere den rett et barn som er atskilt fra en eller begge foreldre har til å opprettholde personlig forbindelse og direkte kontakt med begge foreldrene regelmessig, med mindre dette er i strid med barnets beste.
 
-4. Dersom slik atskillelse skyldes en handling iverksatt av en part, som f.eks. pågripelse, fengsling, eksil, utvisning eller død, (herunder dødsfall av en hvilken som helst årsak mens vedkommende er i denne partens varetekt), av en eller begge foreldre eller barnet, skal parten etter anmodning gi foreldrene, barnet, eller, når det er hensiktsmessig, et annet familiemedlem de vesentlige opplysninger om det eller de fraværende familiemedlemmenes oppholdssted, med mindre dette er til skade for barnet. Partene skal dessuten påse at fremleggelse av en slik anmodning ikke i seg selv vil få negative følger for vedkommende person eller personer.
+4\. Dersom slik atskillelse skyldes en handling iverksatt av en part, som f.eks. pågripelse, fengsling, eksil, utvisning eller død, (herunder dødsfall av en hvilken som helst årsak mens vedkommende er i denne partens varetekt), av en eller begge foreldre eller barnet, skal parten etter anmodning gi foreldrene, barnet, eller, når det er hensiktsmessig, et annet familiemedlem de vesentlige opplysninger om det eller de fraværende familiemedlemmenes oppholdssted, med mindre dette er til skade for barnet. Partene skal dessuten påse at fremleggelse av en slik anmodning ikke i seg selv vil få negative følger for vedkommende person eller personer.
 
 ### Art 10
 
-1. I samsvar med partenes forpliktelse etter artikkel 9 nr. 1 skal søknader fra et barn eller dets foreldre om å reise inn i eller ut av en parts territorium med henblikk på familiegjenforening, behandles av partene på en positiv, human og rask måte. Partene skal dessuten sikre at fremleggelse av en slik søknad ikke vil få negative følger for søkerne og for medlemmene av deres familie.
+1\. I samsvar med partenes forpliktelse etter artikkel 9 nr. 1 skal søknader fra et barn eller dets foreldre om å reise inn i eller ut av en parts territorium med henblikk på familiegjenforening, behandles av partene på en positiv, human og rask måte. Partene skal dessuten sikre at fremleggelse av en slik søknad ikke vil få negative følger for søkerne og for medlemmene av deres familie.
 
-2. Hvis foreldrene til et barn bor i forskjellige land, skal barnet ha rett til, unntatt under særlige omstendigheter, å opprettholde regelmessige, personlige forbindelser og direkte kontakt med begge foreldrene. For dette formål og i samsvar med partenes forpliktelse etter artikkel 9 nr. 1 skal partene respektere barnets og dets foreldres rett til å forlate ethvert land, herunder sitt eget, og til å reise inn i sitt eget land. Retten til å forlate ethvert land skal bare være underlagt begrensninger som er fastsatt ved lov og som er nødvendige for å beskytte nasjonal sikkerhet, offentlig orden (ordre public), offentlig helse eller moral eller andres rettigheter og friheter, og som er forenlige med de øvrige rettigheter som er anerkjent i denne konvensjon.
+2\. Hvis foreldrene til et barn bor i forskjellige land, skal barnet ha rett til, unntatt under særlige omstendigheter, å opprettholde regelmessige, personlige forbindelser og direkte kontakt med begge foreldrene. For dette formål og i samsvar med partenes forpliktelse etter artikkel 9 nr. 1 skal partene respektere barnets og dets foreldres rett til å forlate ethvert land, herunder sitt eget, og til å reise inn i sitt eget land. Retten til å forlate ethvert land skal bare være underlagt begrensninger som er fastsatt ved lov og som er nødvendige for å beskytte nasjonal sikkerhet, offentlig orden (ordre public), offentlig helse eller moral eller andres rettigheter og friheter, og som er forenlige med de øvrige rettigheter som er anerkjent i denne konvensjon.
 
 ### Art 11
 
-1. Partene skal treffe tiltak for å bekjempe at barn ulovlig føres ut av landet og ikke føres tilbake fra utlandet.
+1\. Partene skal treffe tiltak for å bekjempe at barn ulovlig føres ut av landet og ikke føres tilbake fra utlandet.
 
-2. For dette formål skal partene fremme inngåelse av bilaterale eller multilaterale avtaler eller tiltredelse til eksisterende avtaler.
+2\. For dette formål skal partene fremme inngåelse av bilaterale eller multilaterale avtaler eller tiltredelse til eksisterende avtaler.
 
 ### Art 12
 
-1. Partene skal garantere et barn som er i stand til å danne seg egne synspunkter, retten til fritt å gi uttrykk for disse synspunkter i alle forhold som vedrører barnet, og tillegge barnets synspunkter behørig vekt i samsvar med dets alder og modenhet.
+1\. Partene skal garantere et barn som er i stand til å danne seg egne synspunkter, retten til fritt å gi uttrykk for disse synspunkter i alle forhold som vedrører barnet, og tillegge barnets synspunkter behørig vekt i samsvar med dets alder og modenhet.
 
-2. For dette formål skal barnet særlig gis anledning til å bli hørt i enhver rettslig og administrativ saksbehandling som angår barnet, enten direkte eller gjennom en representant eller et egnet organ, på en måte som er i samsvar med saksbehandlingsreglene i nasjonal rett.
+2\. For dette formål skal barnet særlig gis anledning til å bli hørt i enhver rettslig og administrativ saksbehandling som angår barnet, enten direkte eller gjennom en representant eller et egnet organ, på en måte som er i samsvar med saksbehandlingsreglene i nasjonal rett.
 
 ### Art 13
 
-1. Barnet skal ha rett til ytringsfrihet; denne rett skal omfatte frihet til å søke, motta og meddele opplysninger og ideer av ethvert slag uten hensyn til grenser, enten det skjer muntlig, skriftlig eller på trykk, i kunstnerisk form eller gjennom en hvilken som helst uttrykksmåte barnet måtte velge.
+1\. Barnet skal ha rett til ytringsfrihet; denne rett skal omfatte frihet til å søke, motta og meddele opplysninger og ideer av ethvert slag uten hensyn til grenser, enten det skjer muntlig, skriftlig eller på trykk, i kunstnerisk form eller gjennom en hvilken som helst uttrykksmåte barnet måtte velge.
 
-2. Utøvelsen av denne rett kan undergis visse begrensninger, men bare begrensninger som er fastsatt ved lov og som er nødvendige:av hensyn til andres rettigheter eller omdømme, ellerfor å beskytte nasjonal sikkerhet, offentlig orden (ordre public) eller offentlig helse eller moral.
+2\. Utøvelsen av denne rett kan undergis visse begrensninger, men bare begrensninger som er fastsatt ved lov og som er nødvendige:av hensyn til andres rettigheter eller omdømme, ellerfor å beskytte nasjonal sikkerhet, offentlig orden (ordre public) eller offentlig helse eller moral.
 
 ### Art 14
 
-1. Partene skal respektere barnets rett til tankefrihet, samvittighetsfrihet og religionsfrihet.
+1\. Partene skal respektere barnets rett til tankefrihet, samvittighetsfrihet og religionsfrihet.
 
-2. Partene skal respektere foreldrenes, eventuelt vergenes, rett og plikt til å veilede barnet om utøvelsen av hans eller hennes rettigheter på en måte som er i samsvar med barnets gradvise utvikling.
+2\. Partene skal respektere foreldrenes, eventuelt vergenes, rett og plikt til å veilede barnet om utøvelsen av hans eller hennes rettigheter på en måte som er i samsvar med barnets gradvise utvikling.
 
-3. Frihet til å gi uttrykk for sin religion eller overbevisning kan bare undergis de begrensninger som er fastsatt ved lov og som er nødvendige for å beskytte offentlig trygghet, orden, helse eller moral eller andres grunnleggende rettigheter og friheter.
+3\. Frihet til å gi uttrykk for sin religion eller overbevisning kan bare undergis de begrensninger som er fastsatt ved lov og som er nødvendige for å beskytte offentlig trygghet, orden, helse eller moral eller andres grunnleggende rettigheter og friheter.
 
 ### Art 15
 
-1. Partene anerkjenner barnets rett til organisasjonsfrihet og frihet til å delta i fredelige forsamlinger.
+1\. Partene anerkjenner barnets rett til organisasjonsfrihet og frihet til å delta i fredelige forsamlinger.
 
-2. Det kan ikke legges andre begrensninger på utøvelsen av disse rettigheter enn de som pålegges etter loven og som er nødvendige i et demokratisk samfunn av hensyn til nasjonal sikkerhet eller offentlig trygghet, offentlig orden (ordre public), beskyttelse av offentlig helse eller moral eller beskyttelse av andres rettigheter og friheter.
+2\. Det kan ikke legges andre begrensninger på utøvelsen av disse rettigheter enn de som pålegges etter loven og som er nødvendige i et demokratisk samfunn av hensyn til nasjonal sikkerhet eller offentlig trygghet, offentlig orden (ordre public), beskyttelse av offentlig helse eller moral eller beskyttelse av andres rettigheter og friheter.
 
 ### Art 16
 
-1. Ingen barn skal utsettes for vilkårlig eller ulovlig innblanding i sitt privatliv, sin familie, sitt hjem eller sin korrespondanse, eller for ulovlige angrep mot sin ære eller sitt omdømme.
+1\. Ingen barn skal utsettes for vilkårlig eller ulovlig innblanding i sitt privatliv, sin familie, sitt hjem eller sin korrespondanse, eller for ulovlige angrep mot sin ære eller sitt omdømme.
 
-2. Barnet har rett til lovens beskyttelse mot slik innblanding eller slike angrep.
+2\. Barnet har rett til lovens beskyttelse mot slik innblanding eller slike angrep.
 
 ### Art 17
 
@@ -3791,25 +3949,25 @@ Partene erkjenner massemedienes viktige rolle og skal sikre at barnet har tilgan
 
 ### Art 18
 
-1. Partene skal bestrebe seg på å sikre anerkjennelse av prinsippet om at begge foreldre har et felles ansvar for barnets oppdragelse og utvikling. Foreldre, eventuelt verger, har hovedansvaret for barnets oppdragelse og utvikling. Barnets beste skal for dem komme i første rekke.
+1\. Partene skal bestrebe seg på å sikre anerkjennelse av prinsippet om at begge foreldre har et felles ansvar for barnets oppdragelse og utvikling. Foreldre, eventuelt verger, har hovedansvaret for barnets oppdragelse og utvikling. Barnets beste skal for dem komme i første rekke.
 
-2. For å garantere og fremme de rettigheter som er fastsatt i denne konvensjon, skal partene yte egnet bistand til foreldre og verger når de utfører sine plikter som barneoppdragere, og de skal sørge for utvikling av institusjoner, ordninger og tjenester innen barneomsorg.
+2\. For å garantere og fremme de rettigheter som er fastsatt i denne konvensjon, skal partene yte egnet bistand til foreldre og verger når de utfører sine plikter som barneoppdragere, og de skal sørge for utvikling av institusjoner, ordninger og tjenester innen barneomsorg.
 
-3. Partene skal treffe alle egnede tiltak for å sikre at barn av yrkesaktive foreldre får rett til å nyte godt av omsorgstjenester og – ordninger for barn når de oppfyller vilkårene for dette.
+3\. Partene skal treffe alle egnede tiltak for å sikre at barn av yrkesaktive foreldre får rett til å nyte godt av omsorgstjenester og – ordninger for barn når de oppfyller vilkårene for dette.
 
 ### Art 19
 
-1. Partene skal treffe alle egnede lovgivningsmessige, administrative, sosiale og opplæringsmessige tiltak for å beskytte barnet mot alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting, herunder seksuelt misbruk, mens en eller begge foreldre, verge(r) eller eventuell annen person har omsorgen for barnet.
+1\. Partene skal treffe alle egnede lovgivningsmessige, administrative, sosiale og opplæringsmessige tiltak for å beskytte barnet mot alle former for fysisk eller psykisk vold, skade eller misbruk, vanskjøtsel eller forsømmelig behandling, mishandling eller utnytting, herunder seksuelt misbruk, mens en eller begge foreldre, verge(r) eller eventuell annen person har omsorgen for barnet.
 
-2. Slike beskyttelsestiltak bør omfatte effektive prosedyrer for utforming av sosiale programmer som yter nødvendig støtte til barnet og til dem som har omsorgen for barnet, samt andre former for forebygging, påpeking, rapportering, viderehenvisning, undersøkelse, behandling og oppfølging av tilfeller av barnemishandling som tidligere beskrevet og, om nødvendig, for rettslig oppfølging.
+2\. Slike beskyttelsestiltak bør omfatte effektive prosedyrer for utforming av sosiale programmer som yter nødvendig støtte til barnet og til dem som har omsorgen for barnet, samt andre former for forebygging, påpeking, rapportering, viderehenvisning, undersøkelse, behandling og oppfølging av tilfeller av barnemishandling som tidligere beskrevet og, om nødvendig, for rettslig oppfølging.
 
 ### Art 20
 
-1. Et barn som midlertidig eller permanent er fratatt sitt familiemiljø, eller som i egen interesse ikke kan tillates å bli værende i et slikt miljø, skal ha rett til særlig beskyttelse og bistand fra staten.
+1\. Et barn som midlertidig eller permanent er fratatt sitt familiemiljø, eller som i egen interesse ikke kan tillates å bli værende i et slikt miljø, skal ha rett til særlig beskyttelse og bistand fra staten.
 
-2. I samsvar med sin nasjonale lovgivning skal partene sikre alternativ omsorg for et slikt barn.
+2\. I samsvar med sin nasjonale lovgivning skal partene sikre alternativ omsorg for et slikt barn.
 
-3. Slik omsorg kan f.eks. omfatte plassering i fosterhjem, Kafala etter islamsk lov, adopsjon eller, om nødvendig, plassering i institusjon egnet for omsorg for barn. Når mulige løsninger overveies, skal det tas tilbørlig hensyn til ønskeligheten av kontinuitet i barnets oppdragelse og til barnets etniske, religiøse, kulturelle og språklige bakgrunn.
+3\. Slik omsorg kan f.eks. omfatte plassering i fosterhjem, Kafala etter islamsk lov, adopsjon eller, om nødvendig, plassering i institusjon egnet for omsorg for barn. Når mulige løsninger overveies, skal det tas tilbørlig hensyn til ønskeligheten av kontinuitet i barnets oppdragelse og til barnets etniske, religiøse, kulturelle og språklige bakgrunn.
 
 ### Art 21
 
@@ -3817,29 +3975,29 @@ Parter som anerkjenner og/eller tillater adopsjon, skal sikre at barnets beste s
 
 ### Art 22
 
-1. Partene skal treffe egnede tiltak for å sikre at et barn som søker flyktningestatus eller som anses som flyktning i samsvar med gjeldende internasjonal eller nasjonal rett og praksis, enten de kommer alene eller er ledsaget av sine foreldre eller av en annen person, får behørig beskyttelse og humanitær hjelp i av utøvelsen rettighetene anerkjent i denne konvensjon og i andre internasjonale instrumenter om menneskerettigheter eller humanitære forhold som vedkommende stater er part i.
+1\. Partene skal treffe egnede tiltak for å sikre at et barn som søker flyktningestatus eller som anses som flyktning i samsvar med gjeldende internasjonal eller nasjonal rett og praksis, enten de kommer alene eller er ledsaget av sine foreldre eller av en annen person, får behørig beskyttelse og humanitær hjelp i av utøvelsen rettighetene anerkjent i denne konvensjon og i andre internasjonale instrumenter om menneskerettigheter eller humanitære forhold som vedkommende stater er part i.
 
-2. For dette formål skal partene på den måte de finner hensiktsmessig, samarbeide i forbindelse med alle bestrebelser iverksatt av De forente nasjoner og andre kompetente mellomstatlige eller ikke-statlige organisasjoner som samarbeider med De forente nasjoner, for å beskytte og hjelpe et slikt barn og for å oppspore et flyktningebarns foreldre eller andre familiemedlemmer for å skaffe til veie de opplysninger som er nødvendige for at barnet kan gjenforenes med sin familie. Dersom det ikke er mulig å finne foreldre eller andre familiemedlemmer, skal barnet gis samme beskyttelse som ethvert annet barn som av en eller annen grunn permanent eller midlertidig er berøvet sitt familiemiljø, som fastsatt i denne konvensjon.
+2\. For dette formål skal partene på den måte de finner hensiktsmessig, samarbeide i forbindelse med alle bestrebelser iverksatt av De forente nasjoner og andre kompetente mellomstatlige eller ikke-statlige organisasjoner som samarbeider med De forente nasjoner, for å beskytte og hjelpe et slikt barn og for å oppspore et flyktningebarns foreldre eller andre familiemedlemmer for å skaffe til veie de opplysninger som er nødvendige for at barnet kan gjenforenes med sin familie. Dersom det ikke er mulig å finne foreldre eller andre familiemedlemmer, skal barnet gis samme beskyttelse som ethvert annet barn som av en eller annen grunn permanent eller midlertidig er berøvet sitt familiemiljø, som fastsatt i denne konvensjon.
 
 ### Art 23
 
-1. Partene anerkjenner at et barn som er psykisk eller fysisk utviklingshemmet, bør ha et fullverdig og anstendig liv under forhold som sikrer verdighet, fremmer selvstendighet og bidrar til barnets aktive deltakelse i samfunnet.
+1\. Partene anerkjenner at et barn som er psykisk eller fysisk utviklingshemmet, bør ha et fullverdig og anstendig liv under forhold som sikrer verdighet, fremmer selvstendighet og bidrar til barnets aktive deltakelse i samfunnet.
 
-2. Partene anerkjenner at barn med funksjonshemminger har rett til særlig omsorg og skal, innenfor rammen av de midler som er til rådighet, oppmuntre til og sikre at barn som oppfyller vilkårene og barns omsorgspersoner får den hjelp de har søkt om og som er rimelig i forhold til barnets tilstand og foreldrenes eller andre omsorgspersoners situasjon.
+2\. Partene anerkjenner at barn med funksjonshemminger har rett til særlig omsorg og skal, innenfor rammen av de midler som er til rådighet, oppmuntre til og sikre at barn som oppfyller vilkårene og barns omsorgspersoner får den hjelp de har søkt om og som er rimelig i forhold til barnets tilstand og foreldrenes eller andre omsorgspersoners situasjon.
 
-3. Idet det anerkjennes at funksjonshemmede barn har særlige behov, skal hjelp som ytes i samsvar med nr. 2 gis gratis når dette er mulig, samtidig som foreldrenes eller andre omsorgspersoners økonomi tas i betraktning, og hjelpen skal innrettes slik at funksjonshemmede barn har effektiv adgang til og mottar undervisning, opplæring, helsetjenester, rehabiliteringstjenester, forberedelse til arbeidslivet og rekreasjonsmuligheter på en måte som best mulig fremmer barnets sosiale integrering og personlige utvikling, herunder dets kulturelle og åndelige utvikling.
+3\. Idet det anerkjennes at funksjonshemmede barn har særlige behov, skal hjelp som ytes i samsvar med nr. 2 gis gratis når dette er mulig, samtidig som foreldrenes eller andre omsorgspersoners økonomi tas i betraktning, og hjelpen skal innrettes slik at funksjonshemmede barn har effektiv adgang til og mottar undervisning, opplæring, helsetjenester, rehabiliteringstjenester, forberedelse til arbeidslivet og rekreasjonsmuligheter på en måte som best mulig fremmer barnets sosiale integrering og personlige utvikling, herunder dets kulturelle og åndelige utvikling.
 
-4. I det internasjonale samarbeids ånd skal partene fremme utveksling av egnet informasjon om forebyggende helsearbeid og om medisinsk, psykologisk og fysikalsk behandling av funksjonshemmede barn, herunder spredning av og tilgang til informasjon om rehabiliteringsmetoder, undervisning og yrkesveiledningstjenester, for at partene skal kunne forbedre sin kapasitet og kompetanse og å utvide sine erfaringer på disse områder. I denne sammenheng skal det tas særlig hensyn til utviklingslandenes behov.
+4\. I det internasjonale samarbeids ånd skal partene fremme utveksling av egnet informasjon om forebyggende helsearbeid og om medisinsk, psykologisk og fysikalsk behandling av funksjonshemmede barn, herunder spredning av og tilgang til informasjon om rehabiliteringsmetoder, undervisning og yrkesveiledningstjenester, for at partene skal kunne forbedre sin kapasitet og kompetanse og å utvide sine erfaringer på disse områder. I denne sammenheng skal det tas særlig hensyn til utviklingslandenes behov.
 
 ### Art 24
 
-1. Partene anerkjenner barnets rett til å nyte godt av den høyest oppnåelige helsestandard og til behandlingstilbud for sykdom og rehabilitering. Partene skal bestrebe seg på å sikre at ingen barn fratas sin rett til adgang til slike helsetjenester.
+1\. Partene anerkjenner barnets rett til å nyte godt av den høyest oppnåelige helsestandard og til behandlingstilbud for sykdom og rehabilitering. Partene skal bestrebe seg på å sikre at ingen barn fratas sin rett til adgang til slike helsetjenester.
 
-2. Partene skal arbeide for full gjennomføring av denne rettighet og skal særlig treffe egnede tiltak for å:redusere spedbarns- og barnedødelighet,sikre at det ytes nødvendig legehjelp og helseomsorg til alle barn, med vekt på utviklingen av primærhelsetjenesten,bekjempe sykdom og feilernæring, også innenfor rammen av primærhelsetjenesten, ved bl.a. å anvende allerede tilgjengelig teknologi og gjennom å stille tilstrekkelig næringsrike matvarer og rent drikkevann til rådighet, idet farene og risikoen knyttet til miljøforurensning tas i betraktning,sikre egnet helseomsorg for mødre før og etter fødselen,sikre at alle grupper i samfunnet, særlig foreldre og barn, er informert om, har tilgang til undervisning om og støttes i bruken av grunnleggende kunnskaper om barns helse og ernæring, fordelene ved amming, hygiene, miljøhygiene og forebygging av ulykker,utvikle forebyggende helseomsorg, foreldreveiledning, og undervisning og tjenester innen familieplanlegging.
+2\. Partene skal arbeide for full gjennomføring av denne rettighet og skal særlig treffe egnede tiltak for å:redusere spedbarns- og barnedødelighet,sikre at det ytes nødvendig legehjelp og helseomsorg til alle barn, med vekt på utviklingen av primærhelsetjenesten,bekjempe sykdom og feilernæring, også innenfor rammen av primærhelsetjenesten, ved bl.a. å anvende allerede tilgjengelig teknologi og gjennom å stille tilstrekkelig næringsrike matvarer og rent drikkevann til rådighet, idet farene og risikoen knyttet til miljøforurensning tas i betraktning,sikre egnet helseomsorg for mødre før og etter fødselen,sikre at alle grupper i samfunnet, særlig foreldre og barn, er informert om, har tilgang til undervisning om og støttes i bruken av grunnleggende kunnskaper om barns helse og ernæring, fordelene ved amming, hygiene, miljøhygiene og forebygging av ulykker,utvikle forebyggende helseomsorg, foreldreveiledning, og undervisning og tjenester innen familieplanlegging.
 
-3. Partene skal treffe alle effektive og egnede tiltak for å avskaffe tradisjonsbunden praksis som er skadelig for barns helse.
+3\. Partene skal treffe alle effektive og egnede tiltak for å avskaffe tradisjonsbunden praksis som er skadelig for barns helse.
 
-4. Partene forplikter seg til å fremme og oppmuntre internasjonalt samarbeid med henblikk på gradvis å virkeliggjøre fullt ut rettighetene anerkjent i denne artikkel. I denne sammenheng skal det tas spesielt hensyn til utviklingslandenes behov.
+4\. Partene forplikter seg til å fremme og oppmuntre internasjonalt samarbeid med henblikk på gradvis å virkeliggjøre fullt ut rettighetene anerkjent i denne artikkel. I denne sammenheng skal det tas spesielt hensyn til utviklingslandenes behov.
 
 ### Art 25
 
@@ -3847,33 +4005,33 @@ Partene anerkjenner at et barn som er blitt plassert av kompetente myndigheter f
 
 ### Art 26
 
-1. Partene skal anerkjenne ethvert barns rett til sosiale trygdeytelser, inkludert sosial forsikring, og skal treffe de nødvendige tiltak for at barnet oppnår fulle rettigheter i samsvar med landets lovgivning.
+1\. Partene skal anerkjenne ethvert barns rett til sosiale trygdeytelser, inkludert sosial forsikring, og skal treffe de nødvendige tiltak for at barnet oppnår fulle rettigheter i samsvar med landets lovgivning.
 
-2. Slike ytelser bør, når det er hensiktsmessig, gis under hensyn til ressursene og forholdene til barnet og de personer som har ansvaret for barnets underhold, samt til andre forhold som har betydning for søknad om ytelser inngitt av eller på vegne av barnet.
+2\. Slike ytelser bør, når det er hensiktsmessig, gis under hensyn til ressursene og forholdene til barnet og de personer som har ansvaret for barnets underhold, samt til andre forhold som har betydning for søknad om ytelser inngitt av eller på vegne av barnet.
 
 ### Art 27
 
-1. Partene anerkjenner ethvert barns rett til en levestandard som er tilstrekkelig for barnets fysiske, psykiske, åndelige, moralske og sosiale utvikling.
+1\. Partene anerkjenner ethvert barns rett til en levestandard som er tilstrekkelig for barnets fysiske, psykiske, åndelige, moralske og sosiale utvikling.
 
-2. Foreldre eller andre som er ansvarlige for barnet, har det grunnleggende ansvaret for å sikre, innen sine evner og økonomiske muligheter, de levevilkår som er nødvendige for barnets utvikling.
+2\. Foreldre eller andre som er ansvarlige for barnet, har det grunnleggende ansvaret for å sikre, innen sine evner og økonomiske muligheter, de levevilkår som er nødvendige for barnets utvikling.
 
-3. I samsvar med nasjonale forhold og innenfor rammen av sine midler, skal partene treffe egnede tiltak for å hjelpe foreldre og andre som har ansvaret for barnet til å virkeliggjøre denne rettighet, og de skal ved behov sørge for materiell hjelp og støttetiltak, særlig med hensyn til mat, klær og bolig.
+3\. I samsvar med nasjonale forhold og innenfor rammen av sine midler, skal partene treffe egnede tiltak for å hjelpe foreldre og andre som har ansvaret for barnet til å virkeliggjøre denne rettighet, og de skal ved behov sørge for materiell hjelp og støttetiltak, særlig med hensyn til mat, klær og bolig.
 
-4. Partene skal treffe alle egnede tiltak for å sikre inndriving av underholdsbidrag for barnet fra foreldrene eller andre personer som har økonomisk ansvar for barnet, enten de bor i vedkommende stat eller i utlandet. Særlig når personen som har økonomisk ansvar for barnet bor i en annen stat enn barnet, skal partene fremme tilslutning til internasjonale avtaler eller inngåelse av slike avtaler så vel som utarbeidelse av andre egnede ordninger.
+4\. Partene skal treffe alle egnede tiltak for å sikre inndriving av underholdsbidrag for barnet fra foreldrene eller andre personer som har økonomisk ansvar for barnet, enten de bor i vedkommende stat eller i utlandet. Særlig når personen som har økonomisk ansvar for barnet bor i en annen stat enn barnet, skal partene fremme tilslutning til internasjonale avtaler eller inngåelse av slike avtaler så vel som utarbeidelse av andre egnede ordninger.
 
 ### Art 28
 
-1. Partene anerkjenner barnets rett til utdanning, og med sikte på å oppnå denne rett gradvis og på grunnlag av like muligheter skal de særlig:gjøre grunnutdanningen obligatorisk og gratis tilgjengelig for alle,oppmuntre utviklingen av forskjellige former for videregående opplæring, herunder allmennfaglig og yrkesfaglig opplæring, gjøre dem tilgjengelige og oppnåelige for ethvert barn, og treffe egnede tiltak som f.eks. innføring av gratis undervisning og tilbud om økonomisk støtte ved behov,med alle egnede midler gjøre høyere utdanning tilgjengelig for alle på grunnlag av den enkeltes evner,gjøre informasjon og veiledning om undervisning og fagopplæring tilgjengelig og oppnåelig for alle barn,treffe tiltak for å oppmuntre til regelmessig skolegang og for å redusere antallet av dem som ikke fullfører skolegangen.
+1\. Partene anerkjenner barnets rett til utdanning, og med sikte på å oppnå denne rett gradvis og på grunnlag av like muligheter skal de særlig:gjøre grunnutdanningen obligatorisk og gratis tilgjengelig for alle,oppmuntre utviklingen av forskjellige former for videregående opplæring, herunder allmennfaglig og yrkesfaglig opplæring, gjøre dem tilgjengelige og oppnåelige for ethvert barn, og treffe egnede tiltak som f.eks. innføring av gratis undervisning og tilbud om økonomisk støtte ved behov,med alle egnede midler gjøre høyere utdanning tilgjengelig for alle på grunnlag av den enkeltes evner,gjøre informasjon og veiledning om undervisning og fagopplæring tilgjengelig og oppnåelig for alle barn,treffe tiltak for å oppmuntre til regelmessig skolegang og for å redusere antallet av dem som ikke fullfører skolegangen.
 
-2. Partene skal treffe alle egnede tiltak for å sikre at skolens disiplin utøves på en måte som er forenlig med barnets menneskeverd og i samsvar med denne konvensjon.
+2\. Partene skal treffe alle egnede tiltak for å sikre at skolens disiplin utøves på en måte som er forenlig med barnets menneskeverd og i samsvar med denne konvensjon.
 
-3. Partene skal fremme og oppmuntre internasjonalt samarbeid om forhold som angår utdanning, særlig med henblikk på å bidra til å avskaffe uvitenhet og analfabetisme over hele verden og å lette tilgangen til vitenskapelig og teknologisk kunnskap og moderne undervisningsmetoder. I denne sammenheng skal det tas særlig hensyn til utviklingslandenes behov.
+3\. Partene skal fremme og oppmuntre internasjonalt samarbeid om forhold som angår utdanning, særlig med henblikk på å bidra til å avskaffe uvitenhet og analfabetisme over hele verden og å lette tilgangen til vitenskapelig og teknologisk kunnskap og moderne undervisningsmetoder. I denne sammenheng skal det tas særlig hensyn til utviklingslandenes behov.
 
 ### Art 29
 
-1. Partene er enige om at barnets utdanning skal ta sikte på:å utvikle barnets personlighet, talenter og psykiske og fysiske evner så langt det er mulig,å utvikle respekt for menneskerettighetene og de grunnleggende friheter og for prinsippene nedfelt i De forente nasjoners pakt,å utvikle respekt for barnets foreldre, dets egen kulturelle identitet, språk og verdier, for de nasjonale verdier i det land barnet bor, landet hvor han eller hun eventuelt kommer fra og for kulturer som er forskjellige fra barnets egen kultur,å forberede barnet til et ansvarlig liv i et fritt samfunn i en ånd av forståelse, fred, toleranse, likestilling mellom kjønnene og vennskap mellom alle folkeslag, etniske, nasjonale og religiøse grupper og personer som tilhører urbefolkningen,å fremme respekten for det naturlige miljø.
+1\. Partene er enige om at barnets utdanning skal ta sikte på:å utvikle barnets personlighet, talenter og psykiske og fysiske evner så langt det er mulig,å utvikle respekt for menneskerettighetene og de grunnleggende friheter og for prinsippene nedfelt i De forente nasjoners pakt,å utvikle respekt for barnets foreldre, dets egen kulturelle identitet, språk og verdier, for de nasjonale verdier i det land barnet bor, landet hvor han eller hun eventuelt kommer fra og for kulturer som er forskjellige fra barnets egen kultur,å forberede barnet til et ansvarlig liv i et fritt samfunn i en ånd av forståelse, fred, toleranse, likestilling mellom kjønnene og vennskap mellom alle folkeslag, etniske, nasjonale og religiøse grupper og personer som tilhører urbefolkningen,å fremme respekten for det naturlige miljø.
 
-2. Ingen del av denne artikkel eller artikkel 28 skal fortolkes slik at det gripes inn i personers og organisasjoners frihet til å opprette og lede utdanningsinstitusjoner, under forutsetning av at prinsippene fastsatt i nr. 1 i denne artikkel overholdes, og at den undervisningen som blir gitt i slike institusjoner er i samsvar med de minimumskrav vedkommende stat eventuelt har fastsatt.
+2\. Ingen del av denne artikkel eller artikkel 28 skal fortolkes slik at det gripes inn i personers og organisasjoners frihet til å opprette og lede utdanningsinstitusjoner, under forutsetning av at prinsippene fastsatt i nr. 1 i denne artikkel overholdes, og at den undervisningen som blir gitt i slike institusjoner er i samsvar med de minimumskrav vedkommende stat eventuelt har fastsatt.
 
 ### Art 30
 
@@ -3881,15 +4039,15 @@ I stater hvor det finnes etniske, religiøse eller språklige minoriteter eller 
 
 ### Art 31
 
-1. Partene anerkjenner barnets rett til hvile og fritid og til å delta i lek og fritidsaktiviteter som passer for barnets alder og til fritt å delta i kulturliv og kunstnerisk virksomhet.
+1\. Partene anerkjenner barnets rett til hvile og fritid og til å delta i lek og fritidsaktiviteter som passer for barnets alder og til fritt å delta i kulturliv og kunstnerisk virksomhet.
 
-2. Partene skal respektere og fremme barnets rett til fullt ut å delta i det kulturelle og kunstneriske liv og skal oppmuntre tilgangen til egnede og like muligheter for kulturelle, kunstneriske, rekreasjons- og fritidsaktiviteter.
+2\. Partene skal respektere og fremme barnets rett til fullt ut å delta i det kulturelle og kunstneriske liv og skal oppmuntre tilgangen til egnede og like muligheter for kulturelle, kunstneriske, rekreasjons- og fritidsaktiviteter.
 
 ### Art 32
 
-1. Partene anerkjenner barnets rett til beskyttelse mot økonomisk utbytting og mot å utføre ethvert arbeid som kan være farlig eller til hinder for barnets utdanning, eller skadelig for barnets helse eller fysiske, psykiske, åndelige, moralske eller sosiale utvikling.
+1\. Partene anerkjenner barnets rett til beskyttelse mot økonomisk utbytting og mot å utføre ethvert arbeid som kan være farlig eller til hinder for barnets utdanning, eller skadelig for barnets helse eller fysiske, psykiske, åndelige, moralske eller sosiale utvikling.
 
-2. Partene skal treffe lovgivningsmessige, administrative, sosiale og undervisningsmessige tiltak for å sikre gjennomføringen av denne artikkel. For dette formål og idet det tas hensyn til relevante bestemmelser i andre internasjonale instrumenter skal partene særlig:fastsette minstealder eller -aldre for adgang til sysselsetting,sørge for passende regulering av arbeidstid og arbeidsforhold, ogfastsette passende straffer eller andre sanksjoner for å sikre effektiv håndheving av denne artikkel.
+2\. Partene skal treffe lovgivningsmessige, administrative, sosiale og undervisningsmessige tiltak for å sikre gjennomføringen av denne artikkel. For dette formål og idet det tas hensyn til relevante bestemmelser i andre internasjonale instrumenter skal partene særlig:fastsette minstealder eller -aldre for adgang til sysselsetting,sørge for passende regulering av arbeidstid og arbeidsforhold, ogfastsette passende straffer eller andre sanksjoner for å sikre effektiv håndheving av denne artikkel.
 
 ### Art 33
 
@@ -3913,13 +4071,13 @@ Partene skal sikre at:intet barn utsettes for tortur eller annen grusom, umennes
 
 ### Art 38
 
-1. Partene forplikter seg til å respektere og sikre respekten for de bestemmelser i internasjonal humanitærrett som gjelder for dem i væpnede konflikter og som berører barnet.
+1\. Partene forplikter seg til å respektere og sikre respekten for de bestemmelser i internasjonal humanitærrett som gjelder for dem i væpnede konflikter og som berører barnet.
 
-2. Partene skal treffe alle gjennomførbare tiltak for å sikre at personer under 15 år ikke deltar direkte i fiendtligheter.
+2\. Partene skal treffe alle gjennomførbare tiltak for å sikre at personer under 15 år ikke deltar direkte i fiendtligheter.
 
-3. Partene skal avstå fra å rekruttere personer som ikke har fylt 15 år til sine væpnede styrker. Ved rekruttering blant de personer som er fylt 15, men ikke 18 år, skal partene bestrebe seg på først å velge ut de eldste.
+3\. Partene skal avstå fra å rekruttere personer som ikke har fylt 15 år til sine væpnede styrker. Ved rekruttering blant de personer som er fylt 15, men ikke 18 år, skal partene bestrebe seg på først å velge ut de eldste.
 
-4. I samsvar med sine forpliktelser i henhold til internasjonal humanitærrett til å beskytte sivilbefolkningen under væpnede konflikter, skal partene treffe alle gjennomførbare tiltak for å sikre beskyttelse av og omsorg for barn som berøres av en væpnet konflikt.
+4\. I samsvar med sine forpliktelser i henhold til internasjonal humanitærrett til å beskytte sivilbefolkningen under væpnede konflikter, skal partene treffe alle gjennomførbare tiltak for å sikre beskyttelse av og omsorg for barn som berøres av en væpnet konflikt.
 
 ### Art 39
 
@@ -3927,13 +4085,13 @@ Partene skal treffe alle egnede tiltak for å fremme fysisk og psykisk rehabilit
 
 ### Art 40
 
-1. Partene anerkjenner at ethvert barn som beskyldes for, anklages for eller finnes å ha begått et straffbart forhold, har rett til å bli behandlet på en måte som fremmer barnets følelse av verdighet og egenverd, som styrker barnets respekt for andres menneskerettigheter og grunnleggende friheter og som tar hensyn til barnets alder og ønskeligheten av å fremme barnets reintegrering, slik at det påtar seg en konstruktiv rolle i samfunnet.
+1\. Partene anerkjenner at ethvert barn som beskyldes for, anklages for eller finnes å ha begått et straffbart forhold, har rett til å bli behandlet på en måte som fremmer barnets følelse av verdighet og egenverd, som styrker barnets respekt for andres menneskerettigheter og grunnleggende friheter og som tar hensyn til barnets alder og ønskeligheten av å fremme barnets reintegrering, slik at det påtar seg en konstruktiv rolle i samfunnet.
 
-2. For dette formål og idet det tas hensyn til relevante bestemmelser i internasjonale instrumenter, skal partene særlig sikre at:intet barn beskyldes for, anklages for eller er funnet å ha begått et straffbart forhold på grunn av handlinger eller unnlatelser som ikke var forbudt etter nasjonal eller internasjonal rett på det tidspunkt de ble begått,ethvert barn som beskyldes for eller anklages for å ha begått et straffbart forhold, i det minste har følgende garantier:å bli ansett som uskyldig inntil det motsatte er bevist i henhold til loven,å bli underrettet straks og direkte om anklagene mot ham eller henne, eventuelt gjennom hans eller hennes foreldre eller verge, og til å få juridisk eller annen egnet bistand under forberedelsen og fremføringen av hans eller hennes forsvar,å få saken avgjort uten forsinkelse av en kompetent, uavhengig og upartisk myndighet eller rettsinstans i en rettferdig rettergang i henhold til loven, med juridisk eller annen egnet bistand, og med hans eller hennes foreldre eller verger til stede, med mindre dette ikke anses å være det beste for barnet, idet barnets alder eller situasjon særlig tas i betraktning,ikke å bli tvunget til å avgi vitneforklaring eller til å innrømme skyld; til å avhøre eller få avhørt motpartens vitner og til å føre og få avhørt sine egne vitner på samme vilkår,dersom et straffbart forhold anses å ha funnet sted, å få denne avgjørelse og eventuelle tiltak truffet som følge av dette, prøvet av en høyere kompetent, uavhengig og upartisk myndighet eller rettsinstans i henhold til loven,å få gratis bistand av tolk hvis barnet ikke forstår eller snakker det språk som blir brukt,at barnets privatliv fullt ut respekteres under hele saksgangen.
+2\. For dette formål og idet det tas hensyn til relevante bestemmelser i internasjonale instrumenter, skal partene særlig sikre at:intet barn beskyldes for, anklages for eller er funnet å ha begått et straffbart forhold på grunn av handlinger eller unnlatelser som ikke var forbudt etter nasjonal eller internasjonal rett på det tidspunkt de ble begått,ethvert barn som beskyldes for eller anklages for å ha begått et straffbart forhold, i det minste har følgende garantier:å bli ansett som uskyldig inntil det motsatte er bevist i henhold til loven,å bli underrettet straks og direkte om anklagene mot ham eller henne, eventuelt gjennom hans eller hennes foreldre eller verge, og til å få juridisk eller annen egnet bistand under forberedelsen og fremføringen av hans eller hennes forsvar,å få saken avgjort uten forsinkelse av en kompetent, uavhengig og upartisk myndighet eller rettsinstans i en rettferdig rettergang i henhold til loven, med juridisk eller annen egnet bistand, og med hans eller hennes foreldre eller verger til stede, med mindre dette ikke anses å være det beste for barnet, idet barnets alder eller situasjon særlig tas i betraktning,ikke å bli tvunget til å avgi vitneforklaring eller til å innrømme skyld; til å avhøre eller få avhørt motpartens vitner og til å føre og få avhørt sine egne vitner på samme vilkår,dersom et straffbart forhold anses å ha funnet sted, å få denne avgjørelse og eventuelle tiltak truffet som følge av dette, prøvet av en høyere kompetent, uavhengig og upartisk myndighet eller rettsinstans i henhold til loven,å få gratis bistand av tolk hvis barnet ikke forstår eller snakker det språk som blir brukt,at barnets privatliv fullt ut respekteres under hele saksgangen.
 
-3. Partene skal søke å fremme innføringen av lover, prosedyrer, opprettelse av myndigheter og institusjoner som er særlig tilpasset barn som beskyldes for, anklages for eller er funnet å ha begått et straffbart forhold, og særlig:fastsette en lavalder under hvilken barnet anses ikke å være i stand til å begå et straffbart forhold,når det er hensiktsmessig og ønskelig, innføre tiltak for å ta seg av slike barn uten å gå til rettslige skritt, forutsatt at menneskerettighetene og de rettslige garantier fullt ut respekteres.
+3\. Partene skal søke å fremme innføringen av lover, prosedyrer, opprettelse av myndigheter og institusjoner som er særlig tilpasset barn som beskyldes for, anklages for eller er funnet å ha begått et straffbart forhold, og særlig:fastsette en lavalder under hvilken barnet anses ikke å være i stand til å begå et straffbart forhold,når det er hensiktsmessig og ønskelig, innføre tiltak for å ta seg av slike barn uten å gå til rettslige skritt, forutsatt at menneskerettighetene og de rettslige garantier fullt ut respekteres.
 
-4. Forskjellige ordninger, som f.eks. omsorg, veiledning og pålegg om tilsyn; rådgivning, friomsorg, plassering i fosterhjem; allmennfaglige og yrkesfaglige opplæringsprogrammer og andre løsninger enn plassering i institusjon, skal være tilgjengelige for å sikre at barn blir behandlet på en måte som tjener barnets ve og vel og som står i forhold til omstendighetene og til lovovertredelsen.
+4\. Forskjellige ordninger, som f.eks. omsorg, veiledning og pålegg om tilsyn; rådgivning, friomsorg, plassering i fosterhjem; allmennfaglige og yrkesfaglige opplæringsprogrammer og andre løsninger enn plassering i institusjon, skal være tilgjengelige for å sikre at barn blir behandlet på en måte som tjener barnets ve og vel og som står i forhold til omstendighetene og til lovovertredelsen.
 
 ### Art 41
 
@@ -3947,45 +4105,45 @@ Partene forplikter seg, gjennom egnede og aktive tiltak, til å gjøre konvensjo
 
 ### Art 43
 
-1. For å vurdere de fremskritt partene har gjort i retning av å virkeliggjøre de forpliktelser de har påtatt seg i denne konvensjon, skal det opprettes en Komité for barnets rettigheter, som skal utføre oppgavene fastsatt nedenfor.
+1\. For å vurdere de fremskritt partene har gjort i retning av å virkeliggjøre de forpliktelser de har påtatt seg i denne konvensjon, skal det opprettes en Komité for barnets rettigheter, som skal utføre oppgavene fastsatt nedenfor.
 
-2. Komiteen skal bestå av atten sakkyndige med høy moralsk anseelse og med anerkjent kompetanse på det området som omfattes av konvensjonen. Komiteens medlemmer skal velges av partene blant deres statsborgere, og de skal tjenestegjøre i personlig egenskap, idet det tas hensyn til en rettferdig geografisk fordeling så vel som til de viktigste rettssystemer.
+2\. Komiteen skal bestå av atten sakkyndige med høy moralsk anseelse og med anerkjent kompetanse på det området som omfattes av konvensjonen. Komiteens medlemmer skal velges av partene blant deres statsborgere, og de skal tjenestegjøre i personlig egenskap, idet det tas hensyn til en rettferdig geografisk fordeling så vel som til de viktigste rettssystemer.
 
-3. Komiteens medlemmer skal velges ved hemmelig avstemning fra en liste over personer som partene har innstilt. Hver part kan innstille en person blant sine statsborgere.
+3\. Komiteens medlemmer skal velges ved hemmelig avstemning fra en liste over personer som partene har innstilt. Hver part kan innstille en person blant sine statsborgere.
 
-4. Det innledende valg til komiteen skal avholdes senest seks måneder etter datoen for denne konvensjons ikrafttredelse og deretter hvert annet år. Minst fire måneder før dagen for det enkelte valg skal De forente nasjoners generalsekretær sende et brev til partene og oppfordre dem til å sende inn sine innstillinger innen to måneder. Generalsekretæren skal deretter utarbeide en oversikt i alfabetisk rekkefølge over alle personer som er innstilt på denne måten, med angivelse av de parter som har innstilt dem, og skal oversende den til de stater som er part i denne konvensjon.
+4\. Det innledende valg til komiteen skal avholdes senest seks måneder etter datoen for denne konvensjons ikrafttredelse og deretter hvert annet år. Minst fire måneder før dagen for det enkelte valg skal De forente nasjoners generalsekretær sende et brev til partene og oppfordre dem til å sende inn sine innstillinger innen to måneder. Generalsekretæren skal deretter utarbeide en oversikt i alfabetisk rekkefølge over alle personer som er innstilt på denne måten, med angivelse av de parter som har innstilt dem, og skal oversende den til de stater som er part i denne konvensjon.
 
-5. Partene skal avholde valgene på sine møter ved De forente nasjoners hovedsete, sammenkalt av generalsekretæren. På disse møtene, som for å være beslutningsdyktig krever at to tredjedeler av partene deltar, innvelges de personene i komiteen som oppnår det høyeste antall stemmer og et absolutt flertall av stemmene fra de parter som er til stede og avgir stemme.
+5\. Partene skal avholde valgene på sine møter ved De forente nasjoners hovedsete, sammenkalt av generalsekretæren. På disse møtene, som for å være beslutningsdyktig krever at to tredjedeler av partene deltar, innvelges de personene i komiteen som oppnår det høyeste antall stemmer og et absolutt flertall av stemmene fra de parter som er til stede og avgir stemme.
 
-6. Komiteens medlemmer skal velges for et tidsrom på fire år. De skal kunne gjenvelges hvis de blir innstilt på nytt. Etter to år utløper perioden for fem av de medlemmene som ble valgt ved det første valg; umiddelbart etter det første valget skal navnene på disse fem medlemmer utvelges av møtelederen ved loddtrekning.
+6\. Komiteens medlemmer skal velges for et tidsrom på fire år. De skal kunne gjenvelges hvis de blir innstilt på nytt. Etter to år utløper perioden for fem av de medlemmene som ble valgt ved det første valg; umiddelbart etter det første valget skal navnene på disse fem medlemmer utvelges av møtelederen ved loddtrekning.
 
-7. Hvis et medlem av komiteen dør eller trekker seg eller erklærer at han eller hun av en eller annen grunn ikke lenger kan utføre sine plikter som medlem av komiteen, skal den part som innstilte medlemmet, utnevne en annen sakkyndig blant sine statsborgere til å tjenestegjøre for den resterende del av perioden, under forutsetning av at komiteen gir sin godkjenning.
+7\. Hvis et medlem av komiteen dør eller trekker seg eller erklærer at han eller hun av en eller annen grunn ikke lenger kan utføre sine plikter som medlem av komiteen, skal den part som innstilte medlemmet, utnevne en annen sakkyndig blant sine statsborgere til å tjenestegjøre for den resterende del av perioden, under forutsetning av at komiteen gir sin godkjenning.
 
-8. Komiteen fastsetter sine egne prosedyreregler.
+8\. Komiteen fastsetter sine egne prosedyreregler.
 
-9. Komiteen velger sine tjenestemenn for et tidsrom av to år.
+9\. Komiteen velger sine tjenestemenn for et tidsrom av to år.
 
-10. Komiteens møter skal normalt holdes ved De forente nasjoners hovedsete, eventuelt på et annet egnet sted som komiteen bestemmer. Komiteen møtes normalt en gang i året. Komitémøtenes lengde bestemmes, og endres om nødvendig, av et møte mellom partene i denne konvensjon, under forutsetning av at Hovedforsamlingen gir sin godkjenning.
+10\. Komiteens møter skal normalt holdes ved De forente nasjoners hovedsete, eventuelt på et annet egnet sted som komiteen bestemmer. Komiteen møtes normalt en gang i året. Komitémøtenes lengde bestemmes, og endres om nødvendig, av et møte mellom partene i denne konvensjon, under forutsetning av at Hovedforsamlingen gir sin godkjenning.
 
-11. De forente nasjoners generalsekretær skal stille til rådighet det personale og de hjelpemidler som er nødvendig for en effektiv utføring av komiteens oppgaver i henhold til denne konvensjon.
+11\. De forente nasjoners generalsekretær skal stille til rådighet det personale og de hjelpemidler som er nødvendig for en effektiv utføring av komiteens oppgaver i henhold til denne konvensjon.
 
-12. Med godkjenning fra Hovedforsamlingen skal medlemmene av komiteen opprettet i henhold til denne konvensjon, motta godtgjørelse fra De forente nasjoners midler, på de vilkår og betingelser Hovedforsamlingen beslutter.
+12\. Med godkjenning fra Hovedforsamlingen skal medlemmene av komiteen opprettet i henhold til denne konvensjon, motta godtgjørelse fra De forente nasjoners midler, på de vilkår og betingelser Hovedforsamlingen beslutter.
 
 > Endret ved Generalforsamlingens resolusjon 50/155 av 21 des 1995 (ikr. 18 nov 2002).
 
 ### Art 44
 
-1. Partene forplikter seg til å oversende til komiteen gjennom De forente nasjoners generalsekretær rapporter over de tiltak som de har vedtatt og som iverksetter rettighetene anerkjent i konvensjonen, og om den fremgang som er gjort når det gjelder å nyte godt av disse rettigheterinnen to år etter at konvensjonen trådte i kraft for vedkommende part, ogderetter hvert femte år.
+1\. Partene forplikter seg til å oversende til komiteen gjennom De forente nasjoners generalsekretær rapporter over de tiltak som de har vedtatt og som iverksetter rettighetene anerkjent i konvensjonen, og om den fremgang som er gjort når det gjelder å nyte godt av disse rettigheterinnen to år etter at konvensjonen trådte i kraft for vedkommende part, ogderetter hvert femte år.
 
-2. Rapporter som blir oversendt i samsvar med denne artikkel, skal angi eventuelle forhold og vanskeligheter som innvirker på oppfyllelsen av forpliktelsene i henhold til denne konvensjon. Rapportene skal også inneholde tilstrekkelig informasjon til å gi komiteen en bred oversikt over konvensjonens gjennomføring i den aktuelle stat.
+2\. Rapporter som blir oversendt i samsvar med denne artikkel, skal angi eventuelle forhold og vanskeligheter som innvirker på oppfyllelsen av forpliktelsene i henhold til denne konvensjon. Rapportene skal også inneholde tilstrekkelig informasjon til å gi komiteen en bred oversikt over konvensjonens gjennomføring i den aktuelle stat.
 
-3. En part som har innsendt en omfattende førstegangsrapport til komiteen, behøver ikke i sine følgende rapporter som innsendes i samsvar med nr. 1 b), gjenta den grunnleggende informasjon som tidligere er gitt.
+3\. En part som har innsendt en omfattende førstegangsrapport til komiteen, behøver ikke i sine følgende rapporter som innsendes i samsvar med nr. 1 b), gjenta den grunnleggende informasjon som tidligere er gitt.
 
-4. Komiteen kan be partene om ytterligere opplysninger som har betydning for gjennomføringen av konvensjonen.
+4\. Komiteen kan be partene om ytterligere opplysninger som har betydning for gjennomføringen av konvensjonen.
 
-5. Komiteen skal hvert annet år gjennom Det økonomiske og sosiale råd oversende til De forente nasjoners hovedforsamling rapporter over sin virksomhet.
+5\. Komiteen skal hvert annet år gjennom Det økonomiske og sosiale råd oversende til De forente nasjoners hovedforsamling rapporter over sin virksomhet.
 
-6. Partene skal gjøre sine rapporter lett tilgjengelige for allmennheten i sine egne land.
+6\. Partene skal gjøre sine rapporter lett tilgjengelige for allmennheten i sine egne land.
 
 ### Art 45
 
@@ -4007,25 +4165,25 @@ Denne konvensjon skal forbli åpen for tiltredelse for alle stater. Tiltredelses
 
 ### Art 49
 
-1. Denne konvensjon skal tre i kraft den trettiende dag som følger etter den dag det tjuende ratifikasjons- eller tiltredelsesdokument er deponert hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon skal tre i kraft den trettiende dag som følger etter den dag det tjuende ratifikasjons- eller tiltredelsesdokument er deponert hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer eller tiltrer konvensjonen etter at det tjuende ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft den trettiende dag etter at denne stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer eller tiltrer konvensjonen etter at det tjuende ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft den trettiende dag etter at denne stat har deponert sitt ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 50
 
-1. Enhver part kan foreslå en endring og sende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene med anmodning om at de tilkjennegir om de ønsker en partskonferanse for å drøfte og å stemme over forslagene. Hvis minst en tredjedel av partene innen fire måneder fra datoen for meddelelsen ønsker en slik konferanse, skal generalsekretæren kalle sammen konferansen i De forente nasjoners regi. Enhver endring som vedtas av et flertall av de parter som er til stede og avgir stemme, skal oversendes De forente nasjoners hovedforsamling til godkjenning.
+1\. Enhver part kan foreslå en endring og sende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene med anmodning om at de tilkjennegir om de ønsker en partskonferanse for å drøfte og å stemme over forslagene. Hvis minst en tredjedel av partene innen fire måneder fra datoen for meddelelsen ønsker en slik konferanse, skal generalsekretæren kalle sammen konferansen i De forente nasjoners regi. Enhver endring som vedtas av et flertall av de parter som er til stede og avgir stemme, skal oversendes De forente nasjoners hovedforsamling til godkjenning.
 
-2. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners hovedforsamling og godtatt av partene med to tredjedels flertall.
+2\. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners hovedforsamling og godtatt av partene med to tredjedels flertall.
 
-3. Når en endring trer i kraft, er den bindende for de parter som har godtatt den, mens de øvrige parter fremdeles er bundet av bestemmelsene i denne konvensjon og eventuelle tidligere endringer som de har godtatt.
+3\. Når en endring trer i kraft, er den bindende for de parter som har godtatt den, mens de øvrige parter fremdeles er bundet av bestemmelsene i denne konvensjon og eventuelle tidligere endringer som de har godtatt.
 
 ### Art 51
 
-1. De forente nasjoners generalsekretær skal ta imot og videresende til alle stater de forbehold som stater har tatt ved ratifikasjon eller tiltredelse.
+1\. De forente nasjoners generalsekretær skal ta imot og videresende til alle stater de forbehold som stater har tatt ved ratifikasjon eller tiltredelse.
 
-2. Et forbehold skal ikke tillates hvis det er uforenlig med konvensjonens formål og hensikt.
+2\. Et forbehold skal ikke tillates hvis det er uforenlig med konvensjonens formål og hensikt.
 
-3. Forbehold kan når som helst trekkes tilbake ved underretning om dette til De forente nasjoners generalsekretær, som deretter skal underrette alle stater. Slik underretning får virkning fra den dag generalsekretæren mottar den.
+3\. Forbehold kan når som helst trekkes tilbake ved underretning om dette til De forente nasjoners generalsekretær, som deretter skal underrette alle stater. Slik underretning får virkning fra den dag generalsekretæren mottar den.
 
 ### Art 52
 
@@ -4042,6 +4200,8 @@ Konvensjonens originaleksemplar, hvis arabiske, kinesiske, engelske, franske, ru
 Til bekreftelse på dette har de undertegnede, med behørig fullmakt fra sine respektive regjeringer, undertegnet denne konvensjon.
 
 ### Valgfri protokoll til konvensjonen om barns rettigheter om barn i væpnet konflikt, 25. mai 2000
+
+De stater som er part i denne protokoll,
 
 som er oppmuntret av den overveldende støtten Konvensjonen om barnets rettigheter har fått, noe som viser det vidtrekkende engasjement som finnes for å fremme og verne om barnets rettigheter,
 
@@ -4091,23 +4251,23 @@ Partene skal sikre at personer som ikke er fylt 18 år, ikke tvangsrekrutteres t
 
 ### Art 3
 
-1. Partene skal heve den nedre aldersgrensen, med hele år, for rekruttering av personer til frivillig tjeneste i deres nasjonale væpnede styrker i forhold til den som er nedfelt i artikkel 38 nr. 3 i Konvensjonen om barnets rettigheter, idet det tas hensyn til prinsippene i nevnte artikkel, og i erkjennelse av at i henhold til konvensjonen har personer under 18 år rett til særlig beskyttelse.
+1\. Partene skal heve den nedre aldersgrensen, med hele år, for rekruttering av personer til frivillig tjeneste i deres nasjonale væpnede styrker i forhold til den som er nedfelt i artikkel 38 nr. 3 i Konvensjonen om barnets rettigheter, idet det tas hensyn til prinsippene i nevnte artikkel, og i erkjennelse av at i henhold til konvensjonen har personer under 18 år rett til særlig beskyttelse.
 
-2. Hver part skal deponere en bindende erklæring ved ratifikasjon eller tiltredelse til denne protokoll, som angir den nedre aldersgrensen for rekruttering til frivillig tjeneste i dens nasjonale væpnede styrker, samt en beskrivelse av de beskyttelsestiltak den har innført for å sikre at slik rekruttering ikke skjer under tvang.
+2\. Hver part skal deponere en bindende erklæring ved ratifikasjon eller tiltredelse til denne protokoll, som angir den nedre aldersgrensen for rekruttering til frivillig tjeneste i dens nasjonale væpnede styrker, samt en beskrivelse av de beskyttelsestiltak den har innført for å sikre at slik rekruttering ikke skjer under tvang.
 
-3. Parter som tillater frivillig rekruttering av personer under 18 år til sine nasjonale væpnede styrker, skal opprettholde beskyttelsestiltak for i det minste å sikre at:slik rekruttering virkelig er frivillig,slik rekruttering skjer med informert samtykke fra denne personens foreldre eller verge,slike personer er fullt informert om pliktene forbundet med slik militærtjeneste,slike personer gir pålitelig bevis på sin alder før de tas inn i nasjonal militærtjeneste.
+3\. Parter som tillater frivillig rekruttering av personer under 18 år til sine nasjonale væpnede styrker, skal opprettholde beskyttelsestiltak for i det minste å sikre at:slik rekruttering virkelig er frivillig,slik rekruttering skjer med informert samtykke fra denne personens foreldre eller verge,slike personer er fullt informert om pliktene forbundet med slik militærtjeneste,slike personer gir pålitelig bevis på sin alder før de tas inn i nasjonal militærtjeneste.
 
-4. Hver part kan styrke sin erklæring på ethvert tidspunkt ved å gi underretning om dette til De forente nasjoners generalsekretær, som skal informere samtlige parter. Underretningen får virkning fra den dag den mottas av Generalsekretæren.
+4\. Hver part kan styrke sin erklæring på ethvert tidspunkt ved å gi underretning om dette til De forente nasjoners generalsekretær, som skal informere samtlige parter. Underretningen får virkning fra den dag den mottas av Generalsekretæren.
 
-5. Kravet om å heve aldersgrensen i nr. 1 gjelder ikke for skoler som drives av partenes væpnede styrker eller er under deres kontroll, i samsvar med artikkel 28 og 29 i Konvensjonen om barnets rettigheter.
+5\. Kravet om å heve aldersgrensen i nr. 1 gjelder ikke for skoler som drives av partenes væpnede styrker eller er under deres kontroll, i samsvar med artikkel 28 og 29 i Konvensjonen om barnets rettigheter.
 
 ### Art 4
 
-1. Væpnede grupper utenfor en stats væpnede styrker bør ikke under noen omstendigheter rekruttere eller bruke i fiendtligheter personer som er under 18 år.
+1\. Væpnede grupper utenfor en stats væpnede styrker bør ikke under noen omstendigheter rekruttere eller bruke i fiendtligheter personer som er under 18 år.
 
-2. Partene skal treffe alle gjennomførbare tiltak for å hindre slik rekruttering og bruk, herunder innføring av rettslige tiltak som er nødvendige for å forby og kriminalisere slik praksis.
+2\. Partene skal treffe alle gjennomførbare tiltak for å hindre slik rekruttering og bruk, herunder innføring av rettslige tiltak som er nødvendige for å forby og kriminalisere slik praksis.
 
-3. Anvendelsen av denne artikkel i protokollen skal ikke berøre den rettslige stillingen til noen part i en væpnet konflikt.
+3\. Anvendelsen av denne artikkel i protokollen skal ikke berøre den rettslige stillingen til noen part i en væpnet konflikt.
 
 ### Art 5
 
@@ -4115,61 +4275,63 @@ Ikke noe i denne protokoll skal tolkes på en slik måte at det utelukker bestem
 
 ### Art 6
 
-1. Hver part skal treffe alle nødvendige rettslige, administrative og andre tiltak for å sikre effektiv gjennomføring og håndheving av bestemmelsene i denne protokoll innenfor sin jurisdiksjon.
+1\. Hver part skal treffe alle nødvendige rettslige, administrative og andre tiltak for å sikre effektiv gjennomføring og håndheving av bestemmelsene i denne protokoll innenfor sin jurisdiksjon.
 
-2. Partene forplikter seg til å gjøre prinsippene og bestemmelsene i denne protokoll vidt kjent og fremme dem med hensiktsmessige midler både blant voksne og barn.
+2\. Partene forplikter seg til å gjøre prinsippene og bestemmelsene i denne protokoll vidt kjent og fremme dem med hensiktsmessige midler både blant voksne og barn.
 
-3. Partene skal treffe alle gjennomførbare tiltak for å sikre at personer innenfor deres jurisdiksjon som er rekruttert eller brukt under fiendtligheter i strid med denne protokoll, blir dimittert eller på annen måte tatt ut av tjeneste. Partene skal, om nødvendig, gi disse personer all hensiktsmessig støtte med henblikk på fysisk og psykisk rehabilitering og sosial reintegrering.
+3\. Partene skal treffe alle gjennomførbare tiltak for å sikre at personer innenfor deres jurisdiksjon som er rekruttert eller brukt under fiendtligheter i strid med denne protokoll, blir dimittert eller på annen måte tatt ut av tjeneste. Partene skal, om nødvendig, gi disse personer all hensiktsmessig støtte med henblikk på fysisk og psykisk rehabilitering og sosial reintegrering.
 
 ### Art 7
 
-1. Partene skal samarbeide ved gjennomføringen av denne protokoll, herunder hindring av enhver virksomhet som er i strid med protokollen og rehabilitering og sosial integrering av personer som er offer for handlinger som er i strid med denne protokoll, også gjennom faglig samarbeid og økonomisk bistand. Slik bistand og samarbeid skal iverksettes i samråd med de berørte parter og aktuelle internasjonale organisasjoner.
+1\. Partene skal samarbeide ved gjennomføringen av denne protokoll, herunder hindring av enhver virksomhet som er i strid med protokollen og rehabilitering og sosial integrering av personer som er offer for handlinger som er i strid med denne protokoll, også gjennom faglig samarbeid og økonomisk bistand. Slik bistand og samarbeid skal iverksettes i samråd med de berørte parter og aktuelle internasjonale organisasjoner.
 
-2. Parter som er stand til det, skal yte slik bistand gjennom eksisterende multilaterale, bilaterale og andre programmer, eller blant annet gjennom et frivillig fond opprettet i samsvar med Generalforsamlingens regler.
+2\. Parter som er stand til det, skal yte slik bistand gjennom eksisterende multilaterale, bilaterale og andre programmer, eller blant annet gjennom et frivillig fond opprettet i samsvar med Generalforsamlingens regler.
 
 ### Art 8
 
-1. Innen to år etter at protokollen er trådt i kraft for en part skal parten oversende en rapport til Komiteen for barnets rettigheter med fullstendig informasjon om de tiltak som er truffet for å gjennomføre protokollens bestemmelser, herunder tiltak truffet for å gjennomføre bestemmelsene om deltakelse og rekruttering.
+1\. Innen to år etter at protokollen er trådt i kraft for en part skal parten oversende en rapport til Komiteen for barnets rettigheter med fullstendig informasjon om de tiltak som er truffet for å gjennomføre protokollens bestemmelser, herunder tiltak truffet for å gjennomføre bestemmelsene om deltakelse og rekruttering.
 
-2. Etter at denne fullstendige rapporten er lagt fram, skal hver part inkludere i rapporter som de forelegger for Komiteen for barnets rettigheter i samsvar med artikkel 44 i konvensjonen, enhver ny opplysning om gjennomføringen av protokollen. Andre protokollparter skal legge fram rapport hvert femte år.
+2\. Etter at denne fullstendige rapporten er lagt fram, skal hver part inkludere i rapporter som de forelegger for Komiteen for barnets rettigheter i samsvar med artikkel 44 i konvensjonen, enhver ny opplysning om gjennomføringen av protokollen. Andre protokollparter skal legge fram rapport hvert femte år.
 
-3. Komiteen for barnets rettigheter kan be partene om ytterligere opplysninger som er relevante for gjennomføringen av denne protokoll.
+3\. Komiteen for barnets rettigheter kan be partene om ytterligere opplysninger som er relevante for gjennomføringen av denne protokoll.
 
 ### Art 9
 
-1. Denne protokoll er åpen for undertegning av enhver stat som er part i konvensjonen eller som har undertegnet den.
+1\. Denne protokoll er åpen for undertegning av enhver stat som er part i konvensjonen eller som har undertegnet den.
 
-2. Denne protokoll skal ratifiseres eller er åpen for tiltredelse av enhver stat. Ratifikasjons- eller tiltredelsesdokumenter skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne protokoll skal ratifiseres eller er åpen for tiltredelse av enhver stat. Ratifikasjons- eller tiltredelsesdokumenter skal deponeres hos De forente nasjoners generalsekretær.
 
-3. De forente nasjoners generalsekretær skal som depositar for konvensjonen og protokollen, underrette alle partene i konvensjonen og alle stater som har undertegnet konvensjonen om enhver erklæring i henhold til artikkel 3.
+3\. De forente nasjoners generalsekretær skal som depositar for konvensjonen og protokollen, underrette alle partene i konvensjonen og alle stater som har undertegnet konvensjonen om enhver erklæring i henhold til artikkel 3.
 
 ### Art 10
 
-1. Denne protokoll skal tre i kraft tre måneder etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert.
+1\. Denne protokoll skal tre i kraft tre måneder etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert.
 
-2. For hver stat som ratifiserer denne protokoll eller som tiltrer protokollen etter at den er trådt i kraft, skal protokollen tre i kraft én måned etter den dato vedkommende stat deponerte sitt eget ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer denne protokoll eller som tiltrer protokollen etter at den er trådt i kraft, skal protokollen tre i kraft én måned etter den dato vedkommende stat deponerte sitt eget ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 11
 
-1. Enhver part kan si opp denne protokoll når som helst med skriftlig underretning til De forente nasjoners generalsekretær, som deretter skal informere de øvrige parter i konvensjonen og alle stater som har undertegnet konvensjonen. Oppsigelsen får virkning ett år etter den dato De forente nasjoners generalsekretær mottok underretningen. Hvis imidlertid den part som har gitt oppsigelse, er involvert i en væpnet konflikt ved utgangen av den ovennevnte fristen på ett år, får oppsigelsen ikke virkning før den væpnede konflikten er avsluttet.
+1\. Enhver part kan si opp denne protokoll når som helst med skriftlig underretning til De forente nasjoners generalsekretær, som deretter skal informere de øvrige parter i konvensjonen og alle stater som har undertegnet konvensjonen. Oppsigelsen får virkning ett år etter den dato De forente nasjoners generalsekretær mottok underretningen. Hvis imidlertid den part som har gitt oppsigelse, er involvert i en væpnet konflikt ved utgangen av den ovennevnte fristen på ett år, får oppsigelsen ikke virkning før den væpnede konflikten er avsluttet.
 
-2. En slik oppsigelse skal ikke medføre at vedkommende part fritas fra sine forpliktelser etter denne protokoll med hensyn til handlinger som inntreffer før den dato oppsigelsen får virkning. En slik oppsigelse skal heller ikke på noen måte berøre fortsatt behandling av en sak som allerede er tatt opp til behandling i komiteen før den dato oppsigelsen får virkning.
+2\. En slik oppsigelse skal ikke medføre at vedkommende part fritas fra sine forpliktelser etter denne protokoll med hensyn til handlinger som inntreffer før den dato oppsigelsen får virkning. En slik oppsigelse skal heller ikke på noen måte berøre fortsatt behandling av en sak som allerede er tatt opp til behandling i komiteen før den dato oppsigelsen får virkning.
 
 ### Art 12
 
-1. Enhver part kan foreslå en endring og oversende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene, med anmodning om at de opplyser om de ønsker at det holdes en partskonferanse for å behandle og stemme over forslagene. Dersom minst en tredel av partene innen fire måneder etter datoen for meddelelsen ønsker en slik konferanse, skal Generalsekretæren sammenkalle konferansen i De forente nasjoners regi. Enhver endring som er vedtatt av et flertall av de parter som er til stede og avgir stemme ved konferansen, skal forelegges Generalforsamlingen for godkjenning.
+1\. Enhver part kan foreslå en endring og oversende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene, med anmodning om at de opplyser om de ønsker at det holdes en partskonferanse for å behandle og stemme over forslagene. Dersom minst en tredel av partene innen fire måneder etter datoen for meddelelsen ønsker en slik konferanse, skal Generalsekretæren sammenkalle konferansen i De forente nasjoners regi. Enhver endring som er vedtatt av et flertall av de parter som er til stede og avgir stemme ved konferansen, skal forelegges Generalforsamlingen for godkjenning.
 
-2. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners generalforsamling og godtatt med to tredels flertall av partene.
+2\. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners generalforsamling og godtatt med to tredels flertall av partene.
 
-3. Når en endring trer i kraft, skal den være bindende for partene som har godtatt den, mens de øvrige partene fremdeles er bundet av bestemmelsene i denne protokoll og eventuelle tidligere endringer som de har godtatt.
+3\. Når en endring trer i kraft, skal den være bindende for partene som har godtatt den, mens de øvrige partene fremdeles er bundet av bestemmelsene i denne protokoll og eventuelle tidligere endringer som de har godtatt.
 
 ### Art 13
 
-1. Denne protokoll, utferdiget på arabisk, kinesisk, engelsk, fransk, russisk og spansk der alle tekstene har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
+1\. Denne protokoll, utferdiget på arabisk, kinesisk, engelsk, fransk, russisk og spansk der alle tekstene har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
 
-2. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne protokoll til alle partene i konvensjonen og til alle stater som har undertegnet konvensjonen.
+2\. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne protokoll til alle partene i konvensjonen og til alle stater som har undertegnet konvensjonen.
 
 ### Valgfri protokoll til konvensjon om barnets rettigheter om salg av barn, barneprostitusjon og barnepornografi, 25. mai 2000
+
+De stater som er part i denne protokoll,
 
 som tar i betraktning at for i enda større grad å oppnå formålene med Konvensjonen om barnets rettigheter og styrke gjennomføringen av konvensjonens bestemmelser, særlig artiklene 1, 11, 21, 32, 33, 34, 35 og 36, ville det være hensiktsmessig å utvide de tiltak som partene må iverksette for å sikre at barn vernes mot salg, prostitusjon og pornografi,
 
@@ -4207,43 +4369,43 @@ I denne protokoll betyr:Salg av barn: enhver handling eller transaksjon der et b
 
 ### Art 3
 
-1. Hver part skal minimum sikre at følgende handlinger og aktiviteter fullt ut omfattes av dens straffelovgivning, enten overtredelsene er begått innenlands eller internasjonalt, av enkeltpersoner eller gjennom organisert virksomhet:når det gjelder salg av barn som definert i artikkel 2:å tilby, levere eller motta et barn, uansett med hvilke midler, med henblikk på:seksuell utnyttelse av barnet,overføring av barns organer mot fortjeneste,bruk av barnet i tvangsarbeid.å medvirke på utilbørlig måte, som mellomledd, for å innhente samtykke til adopsjon av et barn i strid med gjeldende internasjonale rettslige instrumenter om adopsjon,å tilby, få tak i eller skaffe til veie et barn eller stille det til disposisjon for barneprostitusjon, som definert i artikkel 2, ogå produsere, distribuere, spre, importere, eksportere, tilby, selge eller være i besittelse av for overnevnte formål barnepornografi som definert i artikkel 2.
+1\. Hver part skal minimum sikre at følgende handlinger og aktiviteter fullt ut omfattes av dens straffelovgivning, enten overtredelsene er begått innenlands eller internasjonalt, av enkeltpersoner eller gjennom organisert virksomhet:når det gjelder salg av barn som definert i artikkel 2:å tilby, levere eller motta et barn, uansett med hvilke midler, med henblikk på:seksuell utnyttelse av barnet,overføring av barns organer mot fortjeneste,bruk av barnet i tvangsarbeid.å medvirke på utilbørlig måte, som mellomledd, for å innhente samtykke til adopsjon av et barn i strid med gjeldende internasjonale rettslige instrumenter om adopsjon,å tilby, få tak i eller skaffe til veie et barn eller stille det til disposisjon for barneprostitusjon, som definert i artikkel 2, ogå produsere, distribuere, spre, importere, eksportere, tilby, selge eller være i besittelse av for overnevnte formål barnepornografi som definert i artikkel 2.
 
-2. I samsvar med bestemmelser i partens nasjonale lovgivning, skal det samme gjelde for forsøk på å begå slike handlinger og medvirkning til eller deltakelse i slike handlinger.
+2\. I samsvar med bestemmelser i partens nasjonale lovgivning, skal det samme gjelde for forsøk på å begå slike handlinger og medvirkning til eller deltakelse i slike handlinger.
 
-3. Hver part skal sørge for at slike overtredelser kan straffes med passende straffereaksjoner som tar hensyn til handlingenes alvorlige karakter.
+3\. Hver part skal sørge for at slike overtredelser kan straffes med passende straffereaksjoner som tar hensyn til handlingenes alvorlige karakter.
 
-4. I samsvar med bestemmelser i sin nasjonale lovgivning, skal hver part treffe tiltak, når det er hensiktsmessig, for å fastslå juridiske personers ansvar for overtredelser fastsatt i nr. 1 i denne artikkel. I samsvar med partens rettsprinsipper, kan juridiske personers ansvar være av strafferettslig, sivilrettslig eller administrativ art.
+4\. I samsvar med bestemmelser i sin nasjonale lovgivning, skal hver part treffe tiltak, når det er hensiktsmessig, for å fastslå juridiske personers ansvar for overtredelser fastsatt i nr. 1 i denne artikkel. I samsvar med partens rettsprinsipper, kan juridiske personers ansvar være av strafferettslig, sivilrettslig eller administrativ art.
 
-5. Partene skal iverksette alle egnede rettslige og administrative tiltak for å sikre at alle personer som medvirker ved adopsjon av et barn, opptrer i samsvar med gjeldende internasjonale rettslige instrumenter.
+5\. Partene skal iverksette alle egnede rettslige og administrative tiltak for å sikre at alle personer som medvirker ved adopsjon av et barn, opptrer i samsvar med gjeldende internasjonale rettslige instrumenter.
 
 ### Art 4
 
-1. Hver part skal treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over straffbare handlinger som nevnt i artikkel 3 nr. 1, når de straffbare handlinger er begått innenfor dens territorium eller om bord på et skip eller luftfartøy registrert i vedkommende stat.
+1\. Hver part skal treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over straffbare handlinger som nevnt i artikkel 3 nr. 1, når de straffbare handlinger er begått innenfor dens territorium eller om bord på et skip eller luftfartøy registrert i vedkommende stat.
 
-2. Hver part kan treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over straffbare handlinger som nevnt i artikkel 3 nr. 1 i følgende tilfeller:når den påståtte gjerningsmann er statsborger av vedkommende stat eller har sin vanlige bopel på dens territorium,når offeret er statsborger av vedkommende stat.
+2\. Hver part kan treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over straffbare handlinger som nevnt i artikkel 3 nr. 1 i følgende tilfeller:når den påståtte gjerningsmann er statsborger av vedkommende stat eller har sin vanlige bopel på dens territorium,når offeret er statsborger av vedkommende stat.
 
-3. Hver part skal også treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over ovennevnte straffbare handlinger når den påståtte gjerningsmann befinner seg på partens territorium og parten ikke utleverer ham til en annen part av den grunn at overtredelsen er begått av en av dens statsborgere.
+3\. Hver part skal også treffe de tiltak som måtte være nødvendige for at den skal kunne utøve jurisdiksjon over ovennevnte straffbare handlinger når den påståtte gjerningsmann befinner seg på partens territorium og parten ikke utleverer ham til en annen part av den grunn at overtredelsen er begått av en av dens statsborgere.
 
-4. Denne protokoll utelukker ikke noen strafferettslig jurisdiksjon som utøves i samsvar med intern lovgivning.
+4\. Denne protokoll utelukker ikke noen strafferettslig jurisdiksjon som utøves i samsvar med intern lovgivning.
 
 ### Art 5
 
-1. De straffbare handlinger som er nevnt i artikkel 3 nr. 1 skal anses å være inkludert som utleveringsgrunnlag i eksisterende utleveringsavtaler mellom partene, og skal inkluderes blant de straffbare handllinger som gir grunnlag for utlevering i enhver fremtidig utleveringsavtale mellom dem, i samsvar med vilkårene fastsatt i disse avtalene.
+1\. De straffbare handlinger som er nevnt i artikkel 3 nr. 1 skal anses å være inkludert som utleveringsgrunnlag i eksisterende utleveringsavtaler mellom partene, og skal inkluderes blant de straffbare handllinger som gir grunnlag for utlevering i enhver fremtidig utleveringsavtale mellom dem, i samsvar med vilkårene fastsatt i disse avtalene.
 
-2. Hvis en part som gjør utlevering betinget av at det foreligger en inngått avtale, mottar en anmodning om utlevering fra en annen part som den ikke har noen utleveringsavtale med, kan den betrakte denne protokoll som rettslig grunnlag for utlevering når det gjelder slike straffbare handlinger. Utlevering skal skje i samsvar med de vilkår som er fastsatt i den anmodede stats lovgivning.
+2\. Hvis en part som gjør utlevering betinget av at det foreligger en inngått avtale, mottar en anmodning om utlevering fra en annen part som den ikke har noen utleveringsavtale med, kan den betrakte denne protokoll som rettslig grunnlag for utlevering når det gjelder slike straffbare handlinger. Utlevering skal skje i samsvar med de vilkår som er fastsatt i den anmodede stats lovgivning.
 
-3. Parter som ikke gjør utlevering avhengig av inngått avtale, skal seg imellom anse slike straffbare handlinger som utleveringsgrunnlag, i samsvar med de vilkår som er fastsatt i den anmodete stats lovgivning.
+3\. Parter som ikke gjør utlevering avhengig av inngått avtale, skal seg imellom anse slike straffbare handlinger som utleveringsgrunnlag, i samsvar med de vilkår som er fastsatt i den anmodete stats lovgivning.
 
-4. Slike straffbare handlinger skal behandles, for så vidt angår spørsmålet om utlevering mellom parter, som om de var blitt begått ikke bare der hvor de fant sted, men også på territoriet til de stater som er forpliktet til å etablere jurisdiksjon etter artikkel 4.
+4\. Slike straffbare handlinger skal behandles, for så vidt angår spørsmålet om utlevering mellom parter, som om de var blitt begått ikke bare der hvor de fant sted, men også på territoriet til de stater som er forpliktet til å etablere jurisdiksjon etter artikkel 4.
 
-5. Dersom det fremsettes en utleveringsanmodning for en straffbar handling som nevnt i artikkel 3 nr. 1, og dersom den anmodede part ikke utleverer eller ikke vil utlevere, på grunnlag av gjerningsmannens nasjonalitet, skal denne staten treffe egnede tiltak for å forelegge saken for sine kompetente myndigheter med henblikk på rettslig forfølgning.
+5\. Dersom det fremsettes en utleveringsanmodning for en straffbar handling som nevnt i artikkel 3 nr. 1, og dersom den anmodede part ikke utleverer eller ikke vil utlevere, på grunnlag av gjerningsmannens nasjonalitet, skal denne staten treffe egnede tiltak for å forelegge saken for sine kompetente myndigheter med henblikk på rettslig forfølgning.
 
 ### Art 6
 
-1. Partene skal gi hverandre størst mulig bistand i forbindelse med etterforskning, straffesak eller utleveringsprosess knyttet til straffbare handlinger som nevnt i artikkel 3 nr. 1, herunder bistand til innhenting av bevis som de har rådighet over, og som er nødvendige for behandlingen av saken.
+1\. Partene skal gi hverandre størst mulig bistand i forbindelse med etterforskning, straffesak eller utleveringsprosess knyttet til straffbare handlinger som nevnt i artikkel 3 nr. 1, herunder bistand til innhenting av bevis som de har rådighet over, og som er nødvendige for behandlingen av saken.
 
-2. Partene skal gjennomføre sine forpliktelser etter nr. 1 i denne artikkel i samsvar med enhver avtale eller andre ordninger om gjensidig rettslig bistand som eksisterer dem imellom. Dersom det ikke foreligger slike avtaler eller ordninger, skal partene gi hverandre bistand i samsvar med sin nasjonale lovgivning.
+2\. Partene skal gjennomføre sine forpliktelser etter nr. 1 i denne artikkel i samsvar med enhver avtale eller andre ordninger om gjensidig rettslig bistand som eksisterer dem imellom. Dersom det ikke foreligger slike avtaler eller ordninger, skal partene gi hverandre bistand i samsvar med sin nasjonale lovgivning.
 
 ### Art 7
 
@@ -4253,37 +4415,37 @@ I samsvar med bestemmelsene i sin nasjonale lovgivning skal partene:treffe tilta
 
 Partene skal treffe egnede tiltak for å verne om rettighetene og interessene til barn som er offer for handlinger som er forbudt etter denne protokoll, på alle trinn i den strafferettslige prosessen, særlig ved å:erkjenne de berørte barnas sårbarhet og tilrettelegge saksbehandlingen slik at deres særlige behov blir ivaretatt, herunder deres særlige behov som vitne,informere de berørte barna om deres rettigheter, deres rolle og om saksgangens omfang, beramming og fremdrift samt om avgjørelse i deres sak.tillate at de berørte barnas synspunkter, behov og bekymringer blir lagt fram og vurdert under saksgangen dersom deres personlige interesser er berørt, på en måte som er forenlig med prosessreglene i nasjonal rett,tilby de berørte barna hensiktsmessige støttetjenester gjennom hele den strafferettslige prosessen,beskytte, der det er hensiktsmessig, de berørte barnas privatliv og identitet, samt treffe tiltak i samsvar med nasjonal rett for å unngå utilbørlig spredning av informasjon som vil kunne føre til at barna blir identifisert,ved behov sørge for at berørte barn, samt deres familie og vitner i deres favør, skjermes mot trusler eller hevnaksjoner,unngå unødige forsinkelser når det gjelder å treffe avgjørelse i saker, og når det gjelder fullbyrdelsen av kjennelse eller vedtak som gir erstatning til barn som er offer for slike handlinger.
 
-2. Partene skal sikre at usikkerhet om offerets faktiske alder ikke skal hindre at det innledes etterforskning, herunder etterforskning for å fastslå offerets alder.
+2\. Partene skal sikre at usikkerhet om offerets faktiske alder ikke skal hindre at det innledes etterforskning, herunder etterforskning for å fastslå offerets alder.
 
-3. Partene skal sikre at barnets beste skal være et grunnleggende hensyn under rettssystemets behandling av barn som er offer for de straffbare handlinger som er beskrevet i denne protokoll.
+3\. Partene skal sikre at barnets beste skal være et grunnleggende hensyn under rettssystemets behandling av barn som er offer for de straffbare handlinger som er beskrevet i denne protokoll.
 
-4. Partene skal treffe tiltak for å sørge for egnet opplæring, særlig opplæring i juss og psykologi, for personer som arbeider med barn som er offer for de straffbare handlinger som er forbudt etter denne protokoll.
+4\. Partene skal treffe tiltak for å sørge for egnet opplæring, særlig opplæring i juss og psykologi, for personer som arbeider med barn som er offer for de straffbare handlinger som er forbudt etter denne protokoll.
 
-5. Statene skal, når det er hensiktsmessig, treffe tiltak for å beskytte sikkerheten og integriteten til de personer og/eller organisasjoner som driver med forebygging og/eller vern og rehabilitering av barn som har vært offer for slike straffbare handlinger.
+5\. Statene skal, når det er hensiktsmessig, treffe tiltak for å beskytte sikkerheten og integriteten til de personer og/eller organisasjoner som driver med forebygging og/eller vern og rehabilitering av barn som har vært offer for slike straffbare handlinger.
 
-6. Ikke noe i denne artikkel skal tolkes slik at det er til skade for eller uforenlig med den tiltaltes rett til en rettferdig og upartisk rettssak.
+6\. Ikke noe i denne artikkel skal tolkes slik at det er til skade for eller uforenlig med den tiltaltes rett til en rettferdig og upartisk rettssak.
 
 ### Art 9
 
-1. Partene skal vedta eller styrke, gjennomføre og informere om lover, administrative tiltak, sosial politikk og sosiale ordninger, for å hindre de straffbare handlinger som er omhandlet i denne protokoll. Det skal legges særlig vekt på å beskytte barn som er spesielt sårbare for slike handlinger.
+1\. Partene skal vedta eller styrke, gjennomføre og informere om lover, administrative tiltak, sosial politikk og sosiale ordninger, for å hindre de straffbare handlinger som er omhandlet i denne protokoll. Det skal legges særlig vekt på å beskytte barn som er spesielt sårbare for slike handlinger.
 
-2. Partene skal arbeide for større bevisstgjøring av allmenheten i sin alminnelighet, herunder barn, ved hjelp av informasjon med alle egnede midler, utdanning og opplæring, om forebyggende tiltak og om skadevirkningene av de straffbare handlinger som er omhandlet i denne protokoll. Når partene oppfyller sine forpliktelser etter denne artikkel, skal de oppmuntre samfunnet, og særlig barn og barn som er offer for slike handlinger, til å delta i slike informasjons-, utdannings- og opplæringsprosjekter, også internasjonalt.
+2\. Partene skal arbeide for større bevisstgjøring av allmenheten i sin alminnelighet, herunder barn, ved hjelp av informasjon med alle egnede midler, utdanning og opplæring, om forebyggende tiltak og om skadevirkningene av de straffbare handlinger som er omhandlet i denne protokoll. Når partene oppfyller sine forpliktelser etter denne artikkel, skal de oppmuntre samfunnet, og særlig barn og barn som er offer for slike handlinger, til å delta i slike informasjons-, utdannings- og opplæringsprosjekter, også internasjonalt.
 
-3. Partene skal treffe alle gjennomførbare tiltak for å sikre at ofre for slike handlinger får all hensiktsmessig hjelp, herunder full sosial reintegrering og full fysisk og psykisk rehabilitering.
+3\. Partene skal treffe alle gjennomførbare tiltak for å sikre at ofre for slike handlinger får all hensiktsmessig hjelp, herunder full sosial reintegrering og full fysisk og psykisk rehabilitering.
 
-4. Partene skal sikre at alle barn som er offer for de straffbare handlinger som er beskrevet i denne protokoll, har tilgang til adekvate ordninger for å søke skadeserstatning, uten diskriminering, fra de som er rettslig ansvarlige.
+4\. Partene skal sikre at alle barn som er offer for de straffbare handlinger som er beskrevet i denne protokoll, har tilgang til adekvate ordninger for å søke skadeserstatning, uten diskriminering, fra de som er rettslig ansvarlige.
 
-5. Partene skal treffe egnede tiltak for effektivt å forby produksjon og spredning av materiell som driver reklame for straffbare handlinger som er beskrevet i denne protokoll.
+5\. Partene skal treffe egnede tiltak for effektivt å forby produksjon og spredning av materiell som driver reklame for straffbare handlinger som er beskrevet i denne protokoll.
 
 ### Art 10
 
-1. Partene skal ta alle nødvendige skritt for å styrke internasjonalt samarbeid gjennom multilaterale, regionale og bilaterale ordninger for å hindre, avdekke, etterforske, straffeforfølge og straffe personer som er ansvarlige for handlinger vedrørende salg av barn, barneprostitusjon, barnepornografi og barnesexturisme. Partene skal også fremme internasjonalt samarbeid og samordning mellom sine myndigheter, nasjonale og internasjonale ikke-statlige organisasjoner og internasjonale organisasjoner.
+1\. Partene skal ta alle nødvendige skritt for å styrke internasjonalt samarbeid gjennom multilaterale, regionale og bilaterale ordninger for å hindre, avdekke, etterforske, straffeforfølge og straffe personer som er ansvarlige for handlinger vedrørende salg av barn, barneprostitusjon, barnepornografi og barnesexturisme. Partene skal også fremme internasjonalt samarbeid og samordning mellom sine myndigheter, nasjonale og internasjonale ikke-statlige organisasjoner og internasjonale organisasjoner.
 
-2. Partene skal fremme internasjonalt samarbeid for å bidra til fysisk og psykisk rehabilitering, sosial reintegrering og repatriering av barn som er offer for slike handlinger.
+2\. Partene skal fremme internasjonalt samarbeid for å bidra til fysisk og psykisk rehabilitering, sosial reintegrering og repatriering av barn som er offer for slike handlinger.
 
-3. Partene skal fremme et sterkere internasjonalt samarbeid for å bekjempe de underliggende årsakene, som fattigdom og underutvikling, som bidrar til barns sårbarhet når det gjelder salg av barn, barneprostitusjon, barnepornografi og barnesexturisme.
+3\. Partene skal fremme et sterkere internasjonalt samarbeid for å bekjempe de underliggende årsakene, som fattigdom og underutvikling, som bidrar til barns sårbarhet når det gjelder salg av barn, barneprostitusjon, barnepornografi og barnesexturisme.
 
-4. Parter som er i stand til det, skal yte økonomisk, teknisk og annen bistand gjennom eksisterende multilaterale, regionale, bilaterale eller andre programmer.
+4\. Parter som er i stand til det, skal yte økonomisk, teknisk og annen bistand gjennom eksisterende multilaterale, regionale, bilaterale eller andre programmer.
 
 ### Art 11
 
@@ -4291,47 +4453,49 @@ Ikke noe i denne protokoll skal berøre bestemmelser som bedre kan bidra til å 
 
 ### Art 12
 
-1. Innen to år etter at protokollen er trådt i kraft for en part skal parten oversende en rapport til Komiteen for barnets rettigheter med fullstendig informasjon om de tiltak som er truffet for å gjennomføre protokollens bestemmelser.
+1\. Innen to år etter at protokollen er trådt i kraft for en part skal parten oversende en rapport til Komiteen for barnets rettigheter med fullstendig informasjon om de tiltak som er truffet for å gjennomføre protokollens bestemmelser.
 
-2. Etter at denne fullstendige rapporten er lagt fram, skal hver part inkludere i rapporter som de forelegger for Komiteen for barnets rettigheter i samsvar med artikkel 44 i konvensjonen, enhver ny opplysning om gjennomføringen av protokollen. Andre protokollparter skal legge fram rapport hvert femte år.
+2\. Etter at denne fullstendige rapporten er lagt fram, skal hver part inkludere i rapporter som de forelegger for Komiteen for barnets rettigheter i samsvar med artikkel 44 i konvensjonen, enhver ny opplysning om gjennomføringen av protokollen. Andre protokollparter skal legge fram rapport hvert femte år.
 
-3. Komiteen for barnets rettigheter kan be partene om ytterligere opplysninger som er relevante for gjennomføringen av denne protokoll.
+3\. Komiteen for barnets rettigheter kan be partene om ytterligere opplysninger som er relevante for gjennomføringen av denne protokoll.
 
 ### Art 13
 
-1. Denne protokoll er åpen for undertegning av enhver stat som er part i konvensjonen eller som har undertegnet den.
+1\. Denne protokoll er åpen for undertegning av enhver stat som er part i konvensjonen eller som har undertegnet den.
 
-2. Denne protokoll skal ratifiseres eller er åpen for tiltredelse av enhver stat som er part i konvensjonen eller som har undertegnet den. Ratifikasjons- eller tiltredelsesdokumenter skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne protokoll skal ratifiseres eller er åpen for tiltredelse av enhver stat som er part i konvensjonen eller som har undertegnet den. Ratifikasjons- eller tiltredelsesdokumenter skal deponeres hos De forente nasjoners generalsekretær.
 
 ### Art 14
 
-1. Denne protokoll skal tre i kraft tre måneder etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert.
+1\. Denne protokoll skal tre i kraft tre måneder etter at det tiende ratifikasjons- eller tiltredelsesdokument er deponert.
 
-2. For hver stat som ratifiserer denne protokoll eller som tiltrer protokollen etter at den er trådt i kraft, skal protokollen tre i kraft én måned etter den dato vedkommende stat deponerte sitt eget ratifikasjons- eller tiltredelsesdokument.
+2\. For hver stat som ratifiserer denne protokoll eller som tiltrer protokollen etter at den er trådt i kraft, skal protokollen tre i kraft én måned etter den dato vedkommende stat deponerte sitt eget ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 15
 
-1. Enhver part kan si opp denne protokoll når som helst ved skriftlig underretning til De forente nasjoners generalsekretær, som deretter skal informere de øvrige parter i konvensjonen og alle stater som har undertegnet konvensjonen. Oppsigelsen får virkning ett år etter den dato De forente nasjoners generalsekretær mottok underretningen.
+1\. Enhver part kan si opp denne protokoll når som helst ved skriftlig underretning til De forente nasjoners generalsekretær, som deretter skal informere de øvrige parter i konvensjonen og alle stater som har undertegnet konvensjonen. Oppsigelsen får virkning ett år etter den dato De forente nasjoners generalsekretær mottok underretningen.
 
-2. En slik oppsigelse skal ikke medføre at vedkommende part fritas fra sine forpliktelser etter denne protokoll med hensyn til overtredelser som inntreffer før den dato oppsigelsen får virkning. En slik oppsigelse skal heller ikke på noen måte berøre fortsatt behandling av en sak som allerede er tatt opp til behandling av komiteen før den dato denne oppsigelsen får virkning.
+2\. En slik oppsigelse skal ikke medføre at vedkommende part fritas fra sine forpliktelser etter denne protokoll med hensyn til overtredelser som inntreffer før den dato oppsigelsen får virkning. En slik oppsigelse skal heller ikke på noen måte berøre fortsatt behandling av en sak som allerede er tatt opp til behandling av komiteen før den dato denne oppsigelsen får virkning.
 
 ### Art 16
 
-1. Enhver part kan foreslå en endring og oversende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene, med anmodning om at de opplyser om de ønsker at det holdes en partskonferanse for å behandle og stemme over forslagene. Dersom minst en tredel av partene innen fire måneder etter datoen for meddelelsen ønsker en slik konferanse, skal Generalsekretæren sammenkalle konferansen i De forente nasjoners regi. Enhver endring som er vedtatt av et flertall av de parter som er til stede og avgir stemme ved konferansen, skal forelegges Generalforsamlingen for godkjenning.
+1\. Enhver part kan foreslå en endring og oversende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal deretter meddele endringsforslaget til partene, med anmodning om at de opplyser om de ønsker at det holdes en partskonferanse for å behandle og stemme over forslagene. Dersom minst en tredel av partene innen fire måneder etter datoen for meddelelsen ønsker en slik konferanse, skal Generalsekretæren sammenkalle konferansen i De forente nasjoners regi. Enhver endring som er vedtatt av et flertall av de parter som er til stede og avgir stemme ved konferansen, skal forelegges Generalforsamlingen for godkjenning.
 
-2. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners generalforsamling og godtatt med to tredels flertall av partene.
+2\. En endring som er vedtatt i samsvar med nr. 1 i denne artikkel, skal tre i kraft når den er godkjent av De forente nasjoners generalforsamling og godtatt med to tredels flertall av partene.
 
-3. Når en endring trer i kraft, skal den være bindende for partene som har godtatt den, mens de øvrige partene fremdeles er bundet av bestemmelsene i denne protokoll og eventuelle tidligere endringer som de har godtatt.
+3\. Når en endring trer i kraft, skal den være bindende for partene som har godtatt den, mens de øvrige partene fremdeles er bundet av bestemmelsene i denne protokoll og eventuelle tidligere endringer som de har godtatt.
 
 ### Art 17
 
-1. Denne protokoll, utferdiget på arabisk, kinesisk, engelsk, fransk, russisk og spansk der alle tekstene har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
+1\. Denne protokoll, utferdiget på arabisk, kinesisk, engelsk, fransk, russisk og spansk der alle tekstene har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
 
-2. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne protokoll til alle partene i konvensjonen og til alle stater som har undertegnet konvensjonen.
+2\. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne protokoll til alle partene i konvensjonen og til alle stater som har undertegnet konvensjonen.
 
 ## Vedlegg 9. Konvensjon om avskaffelse av alle former for diskriminering av kvinner med protokoll (autentisk engelsk tekst)
 
 ### Convention on the Elimination of All Forms of Discrimination against Women, 18 December 1979
+
+The States Parties to the present Convention,
 
 *Noting* that the Charter of the United Nations reaffirms faith in fundamental human rights, in dignity and worth of the human person and in the equal rights of men and women,
 
@@ -4381,9 +4545,9 @@ States Parties shall take in all fields, in particular in the political, social,
 
 ### Art 4
 
-1. Adoption by States Parties of temporary special measures aimed at accelerating *defacto* equality between men and women shall not be considered discrimination as defined in the present Convention, but shall in no way entail as a consequence the maintenance of unequal or separate standards; these measures shall be discontinued when the objectives of equality of opportunity and treatment have been achieved.
+1\. Adoption by States Parties of temporary special measures aimed at accelerating *defacto* equality between men and women shall not be considered discrimination as defined in the present Convention, but shall in no way entail as a consequence the maintenance of unequal or separate standards; these measures shall be discontinued when the objectives of equality of opportunity and treatment have been achieved.
 
-2. Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
+2\. Adoption by States Parties of special measures, including those measures contained in the present Convention, aimed at protecting maternity shall not be considered discriminatory.
 
 ### Art 5
 
@@ -4405,9 +4569,9 @@ States Parties shall take all appropriate measures to ensure to women, on equal 
 
 ### Art 9
 
-1. States Parties shall grant women equal rights with men to acquire, change or retain their nationality. They shall ensure in particular that neither marriage to an alien nor change of nationality by the husband during marriage shall automatically change the nationality of the wife, render her stateless or force upon her the nationality of the husband.
+1\. States Parties shall grant women equal rights with men to acquire, change or retain their nationality. They shall ensure in particular that neither marriage to an alien nor change of nationality by the husband during marriage shall automatically change the nationality of the wife, render her stateless or force upon her the nationality of the husband.
 
-2. States Parties shall grant women equal rights with men with respect to the nationality of their children.
+2\. States Parties shall grant women equal rights with men with respect to the nationality of their children.
 
 ### Part III
 
@@ -4417,15 +4581,15 @@ States Parties shall take all appropriate measures to eliminate discrimination a
 
 ### Art 11
 
-1. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of employment in order to ensure, on a basis of equality of men and women, the same rights, in particular:The right to work as an inalienable right of all human beings;The right to the same employment opportunities, including the application of the same criteria for selection in matters of employment;The right to free choice of profession and employment, the right to promotion, job security and all benefits and conditions of service and the right to receive vocational training and retraining, including apprenticeships, advanced vocational training and recurrent training;The right to equal remuneration, including benefits, and to equal treatment in respect of work of equal value, as well as equality of treatment in the evaluation of the quality of work;The right to social security, particularly in cases of retirement, unemployment, sickness, invalidity and old age and other incapacity to work, as well as the right to paid leave;The right to protection of health and to safety in working conditions, including the safeguarding of the function of reproduction.
+1\. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of employment in order to ensure, on a basis of equality of men and women, the same rights, in particular:The right to work as an inalienable right of all human beings;The right to the same employment opportunities, including the application of the same criteria for selection in matters of employment;The right to free choice of profession and employment, the right to promotion, job security and all benefits and conditions of service and the right to receive vocational training and retraining, including apprenticeships, advanced vocational training and recurrent training;The right to equal remuneration, including benefits, and to equal treatment in respect of work of equal value, as well as equality of treatment in the evaluation of the quality of work;The right to social security, particularly in cases of retirement, unemployment, sickness, invalidity and old age and other incapacity to work, as well as the right to paid leave;The right to protection of health and to safety in working conditions, including the safeguarding of the function of reproduction.
 
-2. In order to prevent discrimination against women on the grounds of marriage or maternity and to ensure their effective right to work, States Parties shall take appropriate measures:To prohibit, subject to the imposition of sanctions, dismissal on the grounds of pregnancy or of maternity leave and discrimination in dismissals on the basis of marital status;To introduce maternity leave with pay or with comparable social benefits without loss of former employment, seniority or social allowances;To encourage the provision of the necessary supporting social services to enable parents to combine family obligations with work responsibilities and participation in public life, in particular through promoting the establishment and development of a network of child-care facilities;To provide special protection to women during pregnancy in types of work proved to be harmful to them.3. Protective legislation relating to matters covered in this article shall be reviewed periodically in the light of scientific and technological knowledge and shall be revised, repealed or extended as necessary.
+2\. In order to prevent discrimination against women on the grounds of marriage or maternity and to ensure their effective right to work, States Parties shall take appropriate measures:To prohibit, subject to the imposition of sanctions, dismissal on the grounds of pregnancy or of maternity leave and discrimination in dismissals on the basis of marital status;To introduce maternity leave with pay or with comparable social benefits without loss of former employment, seniority or social allowances;To encourage the provision of the necessary supporting social services to enable parents to combine family obligations with work responsibilities and participation in public life, in particular through promoting the establishment and development of a network of child-care facilities;To provide special protection to women during pregnancy in types of work proved to be harmful to them.3. Protective legislation relating to matters covered in this article shall be reviewed periodically in the light of scientific and technological knowledge and shall be revised, repealed or extended as necessary.
 
 ### Art 12
 
-1. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to health care services, including those related to family planning.
+1\. States Parties shall take all appropriate measures to eliminate discrimination against women in the field of health care in order to ensure, on a basis of equality of men and women, access to health care services, including those related to family planning.
 
-2. Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connexion with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
+2\. Notwithstanding the provisions of paragraph 1 of this article, States Parties shall ensure to women appropriate services in connexion with pregnancy, confinement and the post-natal period, granting free services where necessary, as well as adequate nutrition during pregnancy and lactation.
 
 ### Art 13
 
@@ -4433,73 +4597,73 @@ States Parties shall take all appropriate measure to eliminate discrimination ag
 
 ### Art 14
 
-1. States Parties shall take into account the particular problems faced by rural women and the significant roles which rural women play in the economic survival of their families, including their work in the non-monetized sectors of the economy, and shall take all appropriate measures to ensure the application of the provisions of this Convention to women in rural areas.
+1\. States Parties shall take into account the particular problems faced by rural women and the significant roles which rural women play in the economic survival of their families, including their work in the non-monetized sectors of the economy, and shall take all appropriate measures to ensure the application of the provisions of this Convention to women in rural areas.
 
-2. States Parties shall take all appropriate measures to eliminate discrimination against women in rural areas in order to ensure, on a basis of equality of men and women, that they participate in and benefit from rural development and, in particular, shall ensure to such women the right:To participate in the elaboration and implementation of development planning at all levels;To shave access to adequate health care facilities, including information, counselling and services in family planning;To benefit directly from social security programmes;To obtain all types of training and education, formal and non-formal, including that relating to functional literacy, as well as, *inter alia*, the benefit of all community and extension services, in order to increase their technical proficiency;To organize self-help groups and co-operatives in order to obtain equal access to economic opportunities through employment or self-employment;To participate in all community activities;To have access to agricultural credit and loans, marketing facilities, appropriate technology and equal treatment in land and agrarian reform as well as in land resettlement schemes;To enjoy adequate living conditions, particularly in relation to housing, sanitation, electricity and water supply, transport and communications.
+2\. States Parties shall take all appropriate measures to eliminate discrimination against women in rural areas in order to ensure, on a basis of equality of men and women, that they participate in and benefit from rural development and, in particular, shall ensure to such women the right:To participate in the elaboration and implementation of development planning at all levels;To shave access to adequate health care facilities, including information, counselling and services in family planning;To benefit directly from social security programmes;To obtain all types of training and education, formal and non-formal, including that relating to functional literacy, as well as, *inter alia*, the benefit of all community and extension services, in order to increase their technical proficiency;To organize self-help groups and co-operatives in order to obtain equal access to economic opportunities through employment or self-employment;To participate in all community activities;To have access to agricultural credit and loans, marketing facilities, appropriate technology and equal treatment in land and agrarian reform as well as in land resettlement schemes;To enjoy adequate living conditions, particularly in relation to housing, sanitation, electricity and water supply, transport and communications.
 
 ### Part IV
 
 ### Art 15
 
-1. States Parties shall accord to women equality with men before the law.
+1\. States Parties shall accord to women equality with men before the law.
 
-2. States Parties shall accord to women, in civil matters, a legal capacity identical to that of men and the same opportunities to exercise that capacity. In particular, they shall give women equal rights to conclude contracts and to administer property and shall treat them equally in all stages of procedure in courts and tribunals.
+2\. States Parties shall accord to women, in civil matters, a legal capacity identical to that of men and the same opportunities to exercise that capacity. In particular, they shall give women equal rights to conclude contracts and to administer property and shall treat them equally in all stages of procedure in courts and tribunals.
 
-3. States Parties agree that all contracts and all other private instruments of any kind with a legal effect which is directed at restricting the legal capacity of women shall be deemed null and void.
+3\. States Parties agree that all contracts and all other private instruments of any kind with a legal effect which is directed at restricting the legal capacity of women shall be deemed null and void.
 
-4. States Parties shall accord to men and women the same rights with regard to the law relating to the movement of persons and the freedom to choose their residence and domicile.
+4\. States Parties shall accord to men and women the same rights with regard to the law relating to the movement of persons and the freedom to choose their residence and domicile.
 
 ### Art 16
 
-1. States Parties shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and in particular shall ensure, on a basis of equality of men and women:The same right to enter into marriage;The same right freely to choose a spouse and to enter into marriage only with their free and full consent;The same rights and responsibilities during marriage and at its dissolution;The same rights and responsibilities as parents, irrespective of their marital status, in matters relating to their children; in all cases the interests of the children shall be paramount;The same rights to decide freely and responsibly on the number and spacing of their children and to have access to the information, education and means to enable them to exercise these rights;The same rights and responsibilities with regard to guardianship, wardship, trusteeship and adoption of children, or similar institutions where these concepts exist in national legislation; in all cases the interests of the children shall be paramount;The same personal rights as husband and wife, including the right to choose a family name, a profession and an occupation;The same rights for both spouses in respect of the ownership, acquisition, management, administration, enjoyment and disposition of property, whether free of charge or for a valuable consideration.
+1\. States Parties shall take all appropriate measures to eliminate discrimination against women in all matters relating to marriage and family relations and in particular shall ensure, on a basis of equality of men and women:The same right to enter into marriage;The same right freely to choose a spouse and to enter into marriage only with their free and full consent;The same rights and responsibilities during marriage and at its dissolution;The same rights and responsibilities as parents, irrespective of their marital status, in matters relating to their children; in all cases the interests of the children shall be paramount;The same rights to decide freely and responsibly on the number and spacing of their children and to have access to the information, education and means to enable them to exercise these rights;The same rights and responsibilities with regard to guardianship, wardship, trusteeship and adoption of children, or similar institutions where these concepts exist in national legislation; in all cases the interests of the children shall be paramount;The same personal rights as husband and wife, including the right to choose a family name, a profession and an occupation;The same rights for both spouses in respect of the ownership, acquisition, management, administration, enjoyment and disposition of property, whether free of charge or for a valuable consideration.
 
-2. The betrothal and the marriage of a child shall have no legal effect, and all necessary action, including legislation, shall be taken to specify a minimum age for marriage and to make the registration of marriages in an official registry compulsory.
+2\. The betrothal and the marriage of a child shall have no legal effect, and all necessary action, including legislation, shall be taken to specify a minimum age for marriage and to make the registration of marriages in an official registry compulsory.
 
 ### Part V
 
 ### Art 17
 
-1. For the purpose of considering the progress made in the implementation of the present Convention, there shall be established a Committee on the Elimination of Discrimination against Women (hereinafter referred to as the Committee) consisting, at the time of entry into force of the Convention, of eighteen and, after ratification of or accession to the Convention by the thirty-fifth State Party, of twenty-three experts of high moral standing and competence in the field covered by the Convention. The experts shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilization as well as the principal legal systems.
+1\. For the purpose of considering the progress made in the implementation of the present Convention, there shall be established a Committee on the Elimination of Discrimination against Women (hereinafter referred to as the Committee) consisting, at the time of entry into force of the Convention, of eighteen and, after ratification of or accession to the Convention by the thirty-fifth State Party, of twenty-three experts of high moral standing and competence in the field covered by the Convention. The experts shall be elected by States Parties from among their nationals and shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilization as well as the principal legal systems.
 
-2. The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
+2\. The members of the Committee shall be elected by secret ballot from a list of persons nominated by States Parties. Each State Party may nominate one person from among its own nationals.
 
-3. The initial election shall be held six months after the date of the entry into force of the present Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
+3\. The initial election shall be held six months after the date of the entry into force of the present Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
 
-4. Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4\. Elections of the members of the Committee shall be held at a meeting of States Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be those nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
-5. The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee.
+5\. The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee.
 
-6. The election of the five additional members of the Committee shall be held in accordance with the provisions of paragraphs 2, 3 and 4 of this article, following the thirty-fifth ratification or accession. The terms of two of the additional members elected on this occasion shall expire at the end of two years, the names of these two members having been chosen by lot by the Chairman of the Committee.
+6\. The election of the five additional members of the Committee shall be held in accordance with the provisions of paragraphs 2, 3 and 4 of this article, following the thirty-fifth ratification or accession. The terms of two of the additional members elected on this occasion shall expire at the end of two years, the names of these two members having been chosen by lot by the Chairman of the Committee.
 
-7. For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
+7\. For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
 
-8. The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee's responsibilities.
+8\. The members of the Committee shall, with the approval of the General Assembly, receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee's responsibilities.
 
-9. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
+9\. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention.
 
 ### Art 18
 
-1. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted to give effect to the provisions of the present Convention and on the progress made in this respect:Within one year after the entry into force for the State concerned; andThereafter at least every four years and further whenever the Committee so requests.
+1\. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted to give effect to the provisions of the present Convention and on the progress made in this respect:Within one year after the entry into force for the State concerned; andThereafter at least every four years and further whenever the Committee so requests.
 
-2. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
+2\. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
 
 ### Art 19
 
-1. The Committee shall adopt its own rules of procedure.
+1\. The Committee shall adopt its own rules of procedure.
 
-2. The Committee shall elect its officers for a term of two years.
+2\. The Committee shall elect its officers for a term of two years.
 
 ### Art 20
 
-1. The Committee shall normally meet for a period of not more than two weeks annually in order to consider the reports submitted in accordance with article 18 of the present Convention.
+1\. The Committee shall normally meet for a period of not more than two weeks annually in order to consider the reports submitted in accordance with article 18 of the present Convention.
 
-2. The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee.
+2\. The meetings of the Committee shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Committee.
 
 ### Art 21
 
-1. The Committee shall, through the Economic and Social Council, report annually to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of reports and information received from the States Parties. Such suggestions and general recommendations shall be included in the report of the Committee together with comments, if any, from States Parties.
+1\. The Committee shall, through the Economic and Social Council, report annually to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of reports and information received from the States Parties. Such suggestions and general recommendations shall be included in the report of the Committee together with comments, if any, from States Parties.
 
-2. The Secretary-General shall transmit the reports of the Committee to the Commission on the Status of Women for its information.
+2\. The Secretary-General shall transmit the reports of the Committee to the Commission on the Status of Women for its information.
 
 ### Art 22
 
@@ -4517,47 +4681,51 @@ States Parties undertake to adopt all necessary measures at the national level a
 
 ### Art 25
 
-1. The present Convention shall be open for signature by all States.
+1\. The present Convention shall be open for signature by all States.
 
-2. The Secretary-General of the United Nations is designated as the depositary of the present Convention.
+2\. The Secretary-General of the United Nations is designated as the depositary of the present Convention.
 
-3. The present Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+3\. The present Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-4. The present Convention shall be open to accession by all State. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+4\. The present Convention shall be open to accession by all State. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 ### Art 26
 
-1. A request for the revision of the present Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
+1\. A request for the revision of the present Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
 
-2. The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
+2\. The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
 
 ### Art 27
 
-1. The present Convention shall enter into force on the thirtieth day after the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.
+1\. The present Convention shall enter into force on the thirtieth day after the date of deposit with the Secretary-General of the United Nations of the twentieth instrument of ratification or accession.
 
-2. For each State ratifying the present Convention or acceding to it after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or accession.
+2\. For each State ratifying the present Convention or acceding to it after the deposit of the twentieth instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or accession.
 
 ### Art 28
 
-1. The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
+1\. The Secretary-General of the United Nations shall receive and circulate to all States the text of reservations made by States at the time of ratification or accession.
 
-2. A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
+2\. A reservation incompatible with the object and purpose of the present Convention shall not be permitted.
 
-3. Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General of the United Nations, who shall then inform all States thereof. Such notification shall take effect on the date on which it is received.
+3\. Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General of the United Nations, who shall then inform all States thereof. Such notification shall take effect on the date on which it is received.
 
 ### Art 29
 
-1. Any dispute between two or more States Parties concerning the interpretation or application of the present Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
+1\. Any dispute between two or more States Parties concerning the interpretation or application of the present Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court.
 
-2. Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by that paragraph with respect to any State Party which has made such a reservation.
+2\. Each State Party may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by that paragraph with respect to any State Party which has made such a reservation.
 
-3. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
+3\. Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations.
 
 ### Art 30
 
 The present Convention, the Arabic, Chinese, English, French, Russian and Spanish texts of which are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
+*In witness whereof* the undersigned, duly authorized, duly authorized, have signed the present Convention.
+
 ### Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women, 6 October 1999
+
+The States Parties to the present Protocol,
 
 *Noting* that the Charter of the United Nations reaffirms faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women,
 
@@ -4585,57 +4753,57 @@ Communications shall be in writing and shall not be anonymous. No communication 
 
 ### Art 4
 
-1. The Committee shall not consider a communication unless it has ascertained that all available domestic remedies have been exhausted unless the application of such remedies is unreasonably prolonged or unlikely to bring effective relief.
+1\. The Committee shall not consider a communication unless it has ascertained that all available domestic remedies have been exhausted unless the application of such remedies is unreasonably prolonged or unlikely to bring effective relief.
 
-2. The Committee shall declare a communication inadmissible where:The same matter has already been examined by the Committee or has been or is being examined under another procedure of international investigation or settlement;It is incompatible with the provisions of the Convention;It is manifestly ill-founded or not sufficiently substantiated;It is an abuse of the right to submit a communication;The facts that are the subject of the communication occurred prior to the entry into force of the present Protocol for the State Party concerned unless those facts continued after that date.
+2\. The Committee shall declare a communication inadmissible where:The same matter has already been examined by the Committee or has been or is being examined under another procedure of international investigation or settlement;It is incompatible with the provisions of the Convention;It is manifestly ill-founded or not sufficiently substantiated;It is an abuse of the right to submit a communication;The facts that are the subject of the communication occurred prior to the entry into force of the present Protocol for the State Party concerned unless those facts continued after that date.
 
 ### Art 5
 
-1. At any time after the receipt of a communication and before a determination on the merits has been reached, the Committee may transmit to the State Party concerned for its urgent consideration a request that the State Party take such interim measures as may be necessary to avoid possible irreparable damage to the victim or victims of the alleged violation.
+1\. At any time after the receipt of a communication and before a determination on the merits has been reached, the Committee may transmit to the State Party concerned for its urgent consideration a request that the State Party take such interim measures as may be necessary to avoid possible irreparable damage to the victim or victims of the alleged violation.
 
-2. Where the Committee exercises its discretion under paragraph 1 of the present article, this does not imply a determination on admissibility or on the merits of the communication.
+2\. Where the Committee exercises its discretion under paragraph 1 of the present article, this does not imply a determination on admissibility or on the merits of the communication.
 
 ### Art 6
 
-1. Unless the Committee considers a communication inadmissible without reference to the State Party concerned, and provided that the individual or individuals consent to the disclosure of their identity to that State Party, the Committee shall bring any communication submitted to it under the present Protocol confidentially to the attention of the State Party concerned.
+1\. Unless the Committee considers a communication inadmissible without reference to the State Party concerned, and provided that the individual or individuals consent to the disclosure of their identity to that State Party, the Committee shall bring any communication submitted to it under the present Protocol confidentially to the attention of the State Party concerned.
 
-2. Within six months, the receiving State Party shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been provided by that State Party.
+2\. Within six months, the receiving State Party shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been provided by that State Party.
 
 ### Art 7
 
-1. The Committee shall consider communications received under the present Protocol in the light of all information made available to it by or on behalf of individuals or groups of individuals and by the State Party concerned, provided that this information is transmitted to the parties concerned.
+1\. The Committee shall consider communications received under the present Protocol in the light of all information made available to it by or on behalf of individuals or groups of individuals and by the State Party concerned, provided that this information is transmitted to the parties concerned.
 
-2. The Committee shall hold closed meetings when examining communications under the present Protocol.
+2\. The Committee shall hold closed meetings when examining communications under the present Protocol.
 
-3. After examining a communication, the Committee shall transmit its views on the communication, together with its recommendations, if any, to the parties concerned.
+3\. After examining a communication, the Committee shall transmit its views on the communication, together with its recommendations, if any, to the parties concerned.
 
-4. The State Party shall give due consideration to the views of the Committee, together with its recommendations, if any, and shall submit to the Committee, within six months, a written response, including information on any action taken in the light of the views and recommendations of the Committee.
+4\. The State Party shall give due consideration to the views of the Committee, together with its recommendations, if any, and shall submit to the Committee, within six months, a written response, including information on any action taken in the light of the views and recommendations of the Committee.
 
-5. The Committee may invite the State Party to submit further information about any measures the State Party has taken in response to its views or recommendations, if any, including as deemed appropriate by the Committee, in the State Party's subsequent reports under article 18 of the Convention.
+5\. The Committee may invite the State Party to submit further information about any measures the State Party has taken in response to its views or recommendations, if any, including as deemed appropriate by the Committee, in the State Party's subsequent reports under article 18 of the Convention.
 
 ### Art 8
 
-1. If the Committee receives reliable information indicating grave or systematic violations by a State Party of rights set forth in the Convention, the Committee shall invite that State Party to cooperate in the examination of the information and to this end to submit observations with regard to the information concerned.
+1\. If the Committee receives reliable information indicating grave or systematic violations by a State Party of rights set forth in the Convention, the Committee shall invite that State Party to cooperate in the examination of the information and to this end to submit observations with regard to the information concerned.
 
-2. Taking into account any observations that may have been submitted by the State Party concerned as well as any other reliable information available to it, the Committee may designate one or more of its members to conduct an inquiry and to report urgently to the Committee. Where warranted and with the consent of the State Party, the inquiry may include a visit to its territory.
+2\. Taking into account any observations that may have been submitted by the State Party concerned as well as any other reliable information available to it, the Committee may designate one or more of its members to conduct an inquiry and to report urgently to the Committee. Where warranted and with the consent of the State Party, the inquiry may include a visit to its territory.
 
-3. After examining the findings of such an inquiry, the Committee shall transmit these findings to the State Party concerned together with any comments and recommendations.
+3\. After examining the findings of such an inquiry, the Committee shall transmit these findings to the State Party concerned together with any comments and recommendations.
 
-4. The State Party concerned shall, within six months of receiving the findings, comments and recommendations transmitted by the Committee, submit its observations to the Committee.
+4\. The State Party concerned shall, within six months of receiving the findings, comments and recommendations transmitted by the Committee, submit its observations to the Committee.
 
-5. Such an inquiry shall be conducted confidentially and the cooperation of the State Party shall be sought at all stages of the proceedings.
+5\. Such an inquiry shall be conducted confidentially and the cooperation of the State Party shall be sought at all stages of the proceedings.
 
 ### Art 9
 
-1. The Committee may invite the State Party concerned to include in its report under article 18 of the Convention details of any measures taken in response to an inquiry conducted under article 8 of the present Protocol.
+1\. The Committee may invite the State Party concerned to include in its report under article 18 of the Convention details of any measures taken in response to an inquiry conducted under article 8 of the present Protocol.
 
-2. The Committee may, if necessary, after the end of the period of six months referred to in article 8.4, invite the State Party concerned to inform it of the measures taken in response to such an inquiry.
+2\. The Committee may, if necessary, after the end of the period of six months referred to in article 8.4, invite the State Party concerned to inform it of the measures taken in response to such an inquiry.
 
 ### Art 10
 
-1. Each State Party may, at the time of signature or ratification of the present Protocol or accession thereto, declare that it does not recognize the competence of the Committee provided for in articles 8 and 9.
+1\. Each State Party may, at the time of signature or ratification of the present Protocol or accession thereto, declare that it does not recognize the competence of the Committee provided for in articles 8 and 9.
 
-2. Any State Party having made a declaration in accordance with paragraph 1 of the present article may, at any time, withdraw this declaration by notification to the Secretary-General.
+2\. Any State Party having made a declaration in accordance with paragraph 1 of the present article may, at any time, withdraw this declaration by notification to the Secretary-General.
 
 ### Art 11
 
@@ -4655,19 +4823,19 @@ The Committee shall develop its own rules of procedure to be followed when exerc
 
 ### Art 15
 
-1. The present Protocol shall be open for signature by any State that has signed, ratified or acceded to the Convention.
+1\. The present Protocol shall be open for signature by any State that has signed, ratified or acceded to the Convention.
 
-2. The present Protocol shall be subject to ratification by any State that has ratified or acceded to the Convention. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+2\. The present Protocol shall be subject to ratification by any State that has ratified or acceded to the Convention. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-3. The present Protocol shall be open to accession by any State that has ratified or acceded to the Convention.
+3\. The present Protocol shall be open to accession by any State that has ratified or acceded to the Convention.
 
-4. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+4\. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 ### Art 16
 
-1. The present Protocol shall enter into force three months after the date of the deposit with the Secretary-General of the United Nations of the tenth instrument of ratification or accession.
+1\. The present Protocol shall enter into force three months after the date of the deposit with the Secretary-General of the United Nations of the tenth instrument of ratification or accession.
 
-2. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or accession.
+2\. For each State ratifying the present Protocol or acceding to it after its entry into force, the present Protocol shall enter into force three months after the date of the deposit of its own instrument of ratification or accession.
 
 ### Art 17
 
@@ -4675,17 +4843,17 @@ No reservations to the present Protocol shall be permitted.
 
 ### Art 18
 
-1. Any State Party may propose an amendment to the present Protocol and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate any proposed amendments to the States Parties with a request that they notify her or him whether they favour a conference of States Parties for the purpose of considering and voting on the proposal. In the event that at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
+1\. Any State Party may propose an amendment to the present Protocol and file it with the Secretary-General of the United Nations. The Secretary-General shall thereupon communicate any proposed amendments to the States Parties with a request that they notify her or him whether they favour a conference of States Parties for the purpose of considering and voting on the proposal. In the event that at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of the States Parties present and voting at the conference shall be submitted to the General Assembly of the United Nations for approval.
 
-2. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Protocol in accordance with their respective constitutional processes.
+2\. Amendments shall come into force when they have been approved by the General Assembly of the United Nations and accepted by a two-thirds majority of the States Parties to the present Protocol in accordance with their respective constitutional processes.
 
-3. When amendments come into force, they shall be binding on those States Parties that have accepted them, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
+3\. When amendments come into force, they shall be binding on those States Parties that have accepted them, other States Parties still being bound by the provisions of the present Protocol and any earlier amendments that they have accepted.
 
 ### Art 19
 
-1. Any State Party may denounce the present Protocol at any time by written notification addressed to the Secretary-General of the United Nations.
+1\. Any State Party may denounce the present Protocol at any time by written notification addressed to the Secretary-General of the United Nations.
 
-2. Denunciation shall take effect six months after the date of receipt of the notification by the Secretary-General. Denunciation shall be without prejudice to the continued application of the provisions of the present Protocol to any communication submitted under article 2 or any inquiry initiated under article 8 before the effective date of denunciation.
+2\. Denunciation shall take effect six months after the date of receipt of the notification by the Secretary-General. Denunciation shall be without prejudice to the continued application of the provisions of the present Protocol to any communication submitted under article 2 or any inquiry initiated under article 8 before the effective date of denunciation.
 
 ### Art 20
 
@@ -4693,13 +4861,15 @@ The Secretary-General of the United Nations shall inform all States of:Signature
 
 ### Art 21
 
-1. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. The present Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in article 25 of the Convention.
+2\. The Secretary-General of the United Nations shall transmit certified copies of the present Protocol to all States referred to in article 25 of the Convention.
 
 ## Vedlegg 10. Konvensjon om avskaffelse av alle former for diskriminering av kvinner med protokoll (norsk oversettelse)
 
 ### Konvensjon om avskaffelse av alle former for diskriminering av kvinner, 18 des 1979
+
+De stater som er part i denne konvensjon,
 
 *som merker seg* at De forente nasjoners pakt på ny bekrefter troen på de grunnleggende menneskerettigheter, på det enkelte menneskets verdighet og verdi og på like rettigheter for menn og kvinner,
 
@@ -4749,9 +4919,9 @@ Konvensjonspartene skal på alle områder, særlig på det politiske, sosiale, �
 
 ### Art 4
 
-1. Dersom konvensjonspartene vedtar midlertidige særtiltak som tar sikte på å fremme faktisk likestilling mellom menn og kvinner, skal det ikke anses som en diskriminerende handling etter denne konvensjon, men skal ikke på noen måte føre til at det opprettholdes ulike eller atskilte standarder; disse tiltakene skal opphøre når målene om like muligheter og lik behandling er nådd.
+1\. Dersom konvensjonspartene vedtar midlertidige særtiltak som tar sikte på å fremme faktisk likestilling mellom menn og kvinner, skal det ikke anses som en diskriminerende handling etter denne konvensjon, men skal ikke på noen måte føre til at det opprettholdes ulike eller atskilte standarder; disse tiltakene skal opphøre når målene om like muligheter og lik behandling er nådd.
 
-2. Dersom konvensjonspartene vedtar særlige tiltak, herunder de tiltak som er omhandlet i denne konvensjon, for å gi vern i forbindelse med svangerskap og fødsel, skal dette ikke anses som en diskriminerende handling.
+2\. Dersom konvensjonspartene vedtar særlige tiltak, herunder de tiltak som er omhandlet i denne konvensjon, for å gi vern i forbindelse med svangerskap og fødsel, skal dette ikke anses som en diskriminerende handling.
 
 ### Art 5
 
@@ -4773,9 +4943,9 @@ Konvensjonspartene skal treffe alle tiltak som er nødvendige for å sikre kvinn
 
 ### Art 9
 
-1. Konvensjonspartene skal gi kvinner de samme rettigheter som menn til å erverve, endre eller beholde statsborgerskap. De skal især sikre at verken ekteskap med en utlending, eller ektemannens skifte av statsborgerskap under ekteskapet, automatisk skal endre kvinnens statsborgerskap, gjøre henne statsløs eller påtvinge henne ektemannens statsborgerskap.
+1\. Konvensjonspartene skal gi kvinner de samme rettigheter som menn til å erverve, endre eller beholde statsborgerskap. De skal især sikre at verken ekteskap med en utlending, eller ektemannens skifte av statsborgerskap under ekteskapet, automatisk skal endre kvinnens statsborgerskap, gjøre henne statsløs eller påtvinge henne ektemannens statsborgerskap.
 
-2. Konvensjonspartene skal gi kvinnene de samme rettigheter som menn med hensyn til deres barns statsborgerskap.
+2\. Konvensjonspartene skal gi kvinnene de samme rettigheter som menn med hensyn til deres barns statsborgerskap.
 
 ### Del III
 
@@ -4785,15 +4955,15 @@ Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe di
 
 ### Art 11
 
-1. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner i arbeidslivet, for å sikre de samme rettigheter, på grunnlag av likestilling mellom menn og kvinner, særlig:retten til arbeid, som en umistelig rettighet for alle mennesker,retten til de samme sysselsettingsmuligheter, herunder bruk av de samme utvelgelseskriterier ved ansettelse,retten til fritt valg av yrke og arbeid, retten til forfremmelse, jobbsikkerhet og alle ytelser og vilkår knyttet til arbeidet, samt retten til yrkesopplæring og omskolering, herunder lærlingavtale, videregående yrkesrettet utdanning og livslang læring,retten til lik lønn, ytelser inkludert, og til lik behandling for arbeid av lik verdi, såvel som lik behandling når kvaliteten på arbeidet skal vurderes,retten til trygd, særlig i forbindelse med pensjonering, arbeidsledighet, sykdom, uførhet, alder og andre grunner til manglende arbeidsevne, samt retten til ferie med lønn,retten til vern om sikkerhet og helse på arbeidsplassen, herunder trygging av forplantningsfunksjonen.
+1\. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner i arbeidslivet, for å sikre de samme rettigheter, på grunnlag av likestilling mellom menn og kvinner, særlig:retten til arbeid, som en umistelig rettighet for alle mennesker,retten til de samme sysselsettingsmuligheter, herunder bruk av de samme utvelgelseskriterier ved ansettelse,retten til fritt valg av yrke og arbeid, retten til forfremmelse, jobbsikkerhet og alle ytelser og vilkår knyttet til arbeidet, samt retten til yrkesopplæring og omskolering, herunder lærlingavtale, videregående yrkesrettet utdanning og livslang læring,retten til lik lønn, ytelser inkludert, og til lik behandling for arbeid av lik verdi, såvel som lik behandling når kvaliteten på arbeidet skal vurderes,retten til trygd, særlig i forbindelse med pensjonering, arbeidsledighet, sykdom, uførhet, alder og andre grunner til manglende arbeidsevne, samt retten til ferie med lønn,retten til vern om sikkerhet og helse på arbeidsplassen, herunder trygging av forplantningsfunksjonen.
 
-2. Med sikte på å hindre at kvinner diskrimineres på grunn av ekteskap, svangerskap og fødsel, og for å sikre dem en reell rett til arbeid, skal konvensjonspartene treffe de tiltak som er nødvendige forå nedlegge forbud, belagt med sanksjoner, mot oppsigelse på grunn av svangerskap eller fødselspermisjon, og diskriminering i oppsigelsessaker på grunnlag av sivilstand,å innføre fødselspermisjon med lønn, eller tilsvarende sosiale ytelser, uten at dette fører til tap av tidligere stilling, ansiennitet eller sosiale goder,å oppmuntre til nødvendige sosiale støtteordninger som gjør det mulig for foreldre å kombinere sine familieforpliktelser med yrkesutøvelse og deltakelse i det offentlige liv, særlig ved å arbeide for at det opprettes og bygges ut et nett av ordninger for barnetilsyn,å gi kvinner et særskilt vern under svangerskapet i yrker som har vist seg å være til skade for dem.3. Lovbestemmelser som gir kvinner vern på områder omhandlet i denne artikkel, skal gjennomgås jevnlig på bakgrunn av vitenskapelig og teknologisk viten, og skal endres, oppheves eller utvides etter behov.
+2\. Med sikte på å hindre at kvinner diskrimineres på grunn av ekteskap, svangerskap og fødsel, og for å sikre dem en reell rett til arbeid, skal konvensjonspartene treffe de tiltak som er nødvendige forå nedlegge forbud, belagt med sanksjoner, mot oppsigelse på grunn av svangerskap eller fødselspermisjon, og diskriminering i oppsigelsessaker på grunnlag av sivilstand,å innføre fødselspermisjon med lønn, eller tilsvarende sosiale ytelser, uten at dette fører til tap av tidligere stilling, ansiennitet eller sosiale goder,å oppmuntre til nødvendige sosiale støtteordninger som gjør det mulig for foreldre å kombinere sine familieforpliktelser med yrkesutøvelse og deltakelse i det offentlige liv, særlig ved å arbeide for at det opprettes og bygges ut et nett av ordninger for barnetilsyn,å gi kvinner et særskilt vern under svangerskapet i yrker som har vist seg å være til skade for dem.3. Lovbestemmelser som gir kvinner vern på områder omhandlet i denne artikkel, skal gjennomgås jevnlig på bakgrunn av vitenskapelig og teknologisk viten, og skal endres, oppheves eller utvides etter behov.
 
 ### Art 12
 
-1. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner på helseområdet, for å sikre tilgang til helsetjenester, herunder hjelp til familieplanlegging, på grunnlag av likestilling mellom menn og kvinner.
+1\. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner på helseområdet, for å sikre tilgang til helsetjenester, herunder hjelp til familieplanlegging, på grunnlag av likestilling mellom menn og kvinner.
 
-2. Uten hensyn til bestemmelsene i nr. 1 i denne artikkel skal konvensjonspartene sørge for at kvinner får et hensiktsmessig, og om nødvendig gratis, tjenestetilbud i forbindelse med svangerskap, fødsel og barsel, samt tilfredsstillende ernæring under svangerskap og amming.
+2\. Uten hensyn til bestemmelsene i nr. 1 i denne artikkel skal konvensjonspartene sørge for at kvinner får et hensiktsmessig, og om nødvendig gratis, tjenestetilbud i forbindelse med svangerskap, fødsel og barsel, samt tilfredsstillende ernæring under svangerskap og amming.
 
 ### Art 13
 
@@ -4801,73 +4971,73 @@ Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe di
 
 ### Art 14
 
-1. Konvensjonspartene skal ta i betraktning at kvinner på landsbygda møter spesielle problemer, og at de funksjoner disse kvinner fyller, er viktige for at familiene skal overleve økonomisk, også på grunn av arbeidet de utfører på områder utenom pengeøkonomien, og de skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene i denne konvensjon kommer til anvendelse for kvinner på landsbygda.
+1\. Konvensjonspartene skal ta i betraktning at kvinner på landsbygda møter spesielle problemer, og at de funksjoner disse kvinner fyller, er viktige for at familiene skal overleve økonomisk, også på grunn av arbeidet de utfører på områder utenom pengeøkonomien, og de skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene i denne konvensjon kommer til anvendelse for kvinner på landsbygda.
 
-2. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner på landsbygda, slik at de kan delta i og dra nytte av utviklingen på landsbygda, med likestilling mellom menn og kvinner som utgangspunkt, og de skal særlig sikre disse kvinner retten til:å være med på å utforme og gjennomføre utviklingsplaner på alle trinn,å få tilgang til tilfredsstillende helsetjenester, herunder informasjon, rådgivning og tjenester i forbindelse med familieplanlegging,å dra direkte nytte av trygdeordninger,å få alle typer formell og uformell opplæring og utdanning, herunder funksjonell alfabetisering, samt blant annet å nyttiggjøre seg ulike studie- og opplæringstilbud i lokalmiljøet med sikte på å øke sin faglige kompetanse,å opprette selvhjelpsgrupper og kooperativer med sikte på å få de samme økonomiske muligheter, gjennom lønnsarbeid eller egen næring,å delta i alle aktiviteter i lokalmiljøet,å få tilgang til landbrukskreditter og landbrukslån, markedsføringsmuligheter, egnet teknologi og lik behandling i forbindelse med reformer innenfor landbruk, jordbruk og bosetting,å nyte godt av tilfredsstillende levekår, særlig med hensyn til bolig, sanitære forhold, elektrisitets- og vannforsyning, transport og kommunikasjoner.
+2\. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner på landsbygda, slik at de kan delta i og dra nytte av utviklingen på landsbygda, med likestilling mellom menn og kvinner som utgangspunkt, og de skal særlig sikre disse kvinner retten til:å være med på å utforme og gjennomføre utviklingsplaner på alle trinn,å få tilgang til tilfredsstillende helsetjenester, herunder informasjon, rådgivning og tjenester i forbindelse med familieplanlegging,å dra direkte nytte av trygdeordninger,å få alle typer formell og uformell opplæring og utdanning, herunder funksjonell alfabetisering, samt blant annet å nyttiggjøre seg ulike studie- og opplæringstilbud i lokalmiljøet med sikte på å øke sin faglige kompetanse,å opprette selvhjelpsgrupper og kooperativer med sikte på å få de samme økonomiske muligheter, gjennom lønnsarbeid eller egen næring,å delta i alle aktiviteter i lokalmiljøet,å få tilgang til landbrukskreditter og landbrukslån, markedsføringsmuligheter, egnet teknologi og lik behandling i forbindelse med reformer innenfor landbruk, jordbruk og bosetting,å nyte godt av tilfredsstillende levekår, særlig med hensyn til bolig, sanitære forhold, elektrisitets- og vannforsyning, transport og kommunikasjoner.
 
 ### Del IV
 
 ### Art 15
 
-1. Konvensjonspartene skal stille menn og kvinner likt i forhold til loven.
+1\. Konvensjonspartene skal stille menn og kvinner likt i forhold til loven.
 
-2. Konvensjonspartene skal i sivile saker gi kvinner den samme rettslige handleevne som menn, og de samme muligheter til å utøve denne evnen. De skal især gi kvinner de samme rettigheter til å inngå avtaler og forvalte eiendom, og skal behandle dem likt på alle trinn i rettergangen.
+2\. Konvensjonspartene skal i sivile saker gi kvinner den samme rettslige handleevne som menn, og de samme muligheter til å utøve denne evnen. De skal især gi kvinner de samme rettigheter til å inngå avtaler og forvalte eiendom, og skal behandle dem likt på alle trinn i rettergangen.
 
-3. Konvensjonspartene er enige om at alle avtaler og alle andre privatrettslige dokumenter av enhver art hvis rettsvirkning tar sikte på å begrense kvinners rettslige handleevne, skal anses som ugyldige.
+3\. Konvensjonspartene er enige om at alle avtaler og alle andre privatrettslige dokumenter av enhver art hvis rettsvirkning tar sikte på å begrense kvinners rettslige handleevne, skal anses som ugyldige.
 
-4. Konvensjonspartene skal gi menn og kvinner de samme rettigheter i forhold til lovverk om personers bevegelsesfrihet og friheten til å velge bosted og bopel.
+4\. Konvensjonspartene skal gi menn og kvinner de samme rettigheter i forhold til lovverk om personers bevegelsesfrihet og friheten til å velge bosted og bopel.
 
 ### Art 16
 
-1. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner i alle saker som gjelder ekteskap og familieforhold og skal, med likestilling mellom menn og kvinner som utgangspunkt, især sikreden samme retten til å inngå ekteskap,den samme retten til fritt å velge ektefelle og å inngå ekteskap bare når det skjer på fritt grunnlag og med fullt samtykke,de samme rettigheter og det samme ansvar i ekteskapet og ved ekteskapsoppløsning,de samme rettigheter og det samme ansvar som foreldre i spørsmål som gjelder barna, uavhengig av sivilstand; hensynet til barna skal i alle tilfeller komme i første rekke,de samme rettigheter til på fritt grunnlag å treffe en ansvarlig beslutning om antall barn og avstand mellom barnefødsler, og å ha tilgang til opplysning, opplæring og midler som setter dem i stand til å utøve disse rettighetene,de samme rettigheter og det samme ansvar i forbindelse med vergemål, formynderskap, omsorg for og adopsjon av barn, eller liknende institutter når disse begreper finnes i intern lovgivning; hensynet til barna skal i alle tilfeller komme i første rekke,de samme personlige rettigheter som ektefeller, herunder retten til å velge familienavn, yrke og stilling,de samme rettigheter for begge ektefeller hva angår å inneha, erverve, styre, forvalte, nyte godt av og råde over eiendom, enten det er vederlagsfritt eller mot betaling.
+1\. Konvensjonspartene skal treffe alle tiltak som er nødvendige for å avskaffe diskriminering av kvinner i alle saker som gjelder ekteskap og familieforhold og skal, med likestilling mellom menn og kvinner som utgangspunkt, især sikreden samme retten til å inngå ekteskap,den samme retten til fritt å velge ektefelle og å inngå ekteskap bare når det skjer på fritt grunnlag og med fullt samtykke,de samme rettigheter og det samme ansvar i ekteskapet og ved ekteskapsoppløsning,de samme rettigheter og det samme ansvar som foreldre i spørsmål som gjelder barna, uavhengig av sivilstand; hensynet til barna skal i alle tilfeller komme i første rekke,de samme rettigheter til på fritt grunnlag å treffe en ansvarlig beslutning om antall barn og avstand mellom barnefødsler, og å ha tilgang til opplysning, opplæring og midler som setter dem i stand til å utøve disse rettighetene,de samme rettigheter og det samme ansvar i forbindelse med vergemål, formynderskap, omsorg for og adopsjon av barn, eller liknende institutter når disse begreper finnes i intern lovgivning; hensynet til barna skal i alle tilfeller komme i første rekke,de samme personlige rettigheter som ektefeller, herunder retten til å velge familienavn, yrke og stilling,de samme rettigheter for begge ektefeller hva angår å inneha, erverve, styre, forvalte, nyte godt av og råde over eiendom, enten det er vederlagsfritt eller mot betaling.
 
-2. Barns forlovelse og ekteskapsinngåelse skal ikke ha noen rettsvirkning, og alle nødvendige tiltak, også i lovs form, skal treffes med sikte på å fastsette en minstealder for inngåelse av ekteskap og for å gjøre registrering av ekteskap i et offisielt register obligatorisk.
+2\. Barns forlovelse og ekteskapsinngåelse skal ikke ha noen rettsvirkning, og alle nødvendige tiltak, også i lovs form, skal treffes med sikte på å fastsette en minstealder for inngåelse av ekteskap og for å gjøre registrering av ekteskap i et offisielt register obligatorisk.
 
 ### Del V
 
 ### Art 17
 
-1. For å kunne vurdere den framgang som finner sted i gjennomføringen av denne konvensjon, skal det opprettes en komité for avskaffelse av diskriminering av kvinner (heretter kalt komiteen), som skal bestå av atten eksperter på tidspunktet da konvensjonen trer i kraft, og av tjuetre eksperter etter at den trettifemte konvensjonspart har ratifisert eller tiltrådt konvensjonen, alle med godt omdømme og stor kompetanse på det område som hører under denne konvensjon. Konvensjonspartene skal velge ekspertene blant sine statsborgere, og de skal fungere i personlig egenskap, samtidig som det tas hensyn til en rettferdig geografisk fordeling, og til at de ulike kulturer og de viktigste rettsystemer blir representert.
+1\. For å kunne vurdere den framgang som finner sted i gjennomføringen av denne konvensjon, skal det opprettes en komité for avskaffelse av diskriminering av kvinner (heretter kalt komiteen), som skal bestå av atten eksperter på tidspunktet da konvensjonen trer i kraft, og av tjuetre eksperter etter at den trettifemte konvensjonspart har ratifisert eller tiltrådt konvensjonen, alle med godt omdømme og stor kompetanse på det område som hører under denne konvensjon. Konvensjonspartene skal velge ekspertene blant sine statsborgere, og de skal fungere i personlig egenskap, samtidig som det tas hensyn til en rettferdig geografisk fordeling, og til at de ulike kulturer og de viktigste rettsystemer blir representert.
 
-2. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som konvensjonspartene har utpekt. Hver konvensjonspart kan utpeke én person blant sine egne statsborgere.
+2\. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som konvensjonspartene har utpekt. Hver konvensjonspart kan utpeke én person blant sine egne statsborgere.
 
-3. Det første valget skal holdes seks måneder etter at denne konvensjon er trådt i kraft. Minst tre måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til konvensjonspartene og oppfordre dem til å presentere sine utpekte kandidater innen to måneder. Generalsekretæren skal sette opp en liste i alfabetisk rekkefølge over alle personer som er utpekt på denne måten, med angivelse av hvilke konvensjonsparter som har utpekt dem, og skal oversende den til konvensjonspartene.
+3\. Det første valget skal holdes seks måneder etter at denne konvensjon er trådt i kraft. Minst tre måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til konvensjonspartene og oppfordre dem til å presentere sine utpekte kandidater innen to måneder. Generalsekretæren skal sette opp en liste i alfabetisk rekkefølge over alle personer som er utpekt på denne måten, med angivelse av hvilke konvensjonsparter som har utpekt dem, og skal oversende den til konvensjonspartene.
 
-4. Komiteens medlemmer skal velges på et møte mellom konvensjonspartene som er sammenkalt av Generalsekretæren, ved De forente nasjoners sete. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er til stede, er de kandidater valgt som får flest stemmer og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
+4\. Komiteens medlemmer skal velges på et møte mellom konvensjonspartene som er sammenkalt av Generalsekretæren, ved De forente nasjoners sete. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er til stede, er de kandidater valgt som får flest stemmer og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
 
-5. Komiteens medlemmer skal velges for en periode på fire år. For ni av medlemmene som blir valgt ved det første valget, skal imidlertid mandatet utløpe etter to år; umiddelbart etter det første valget skal navnene på disse ni medlemmene bestemmes ved loddtrekning foretatt av komiteens leder,
+5\. Komiteens medlemmer skal velges for en periode på fire år. For ni av medlemmene som blir valgt ved det første valget, skal imidlertid mandatet utløpe etter to år; umiddelbart etter det første valget skal navnene på disse ni medlemmene bestemmes ved loddtrekning foretatt av komiteens leder,
 
-6. Valget av de fem nye medlemmene av komiteen skal gjennomføres i samsvar med bestemmelsene i nr. 2, 3 og 4 i denne artikkel, etter at den trettifemte ratifikasjon eller tiltredelse har funnet sted. Mandatet for to av de nye medlemmene som da blir valgt, skal utløpe etter to år, og navnene på disse to medlemmene bestemmes ved loddtrekning foretatt av komiteens leder.
+6\. Valget av de fem nye medlemmene av komiteen skal gjennomføres i samsvar med bestemmelsene i nr. 2, 3 og 4 i denne artikkel, etter at den trettifemte ratifikasjon eller tiltredelse har funnet sted. Mandatet for to av de nye medlemmene som da blir valgt, skal utløpe etter to år, og navnene på disse to medlemmene bestemmes ved loddtrekning foretatt av komiteens leder.
 
-7. For å fylle plasser som blir ledige utenom tur, skal den konvensjonspart hvis ekspert ikke lenger utfører sine oppgaver som komitémedlem, oppnevne en annen ekspert blant sine statsborgere, med forbehold om komiteens godkjenning.
+7\. For å fylle plasser som blir ledige utenom tur, skal den konvensjonspart hvis ekspert ikke lenger utfører sine oppgaver som komitémedlem, oppnevne en annen ekspert blant sine statsborgere, med forbehold om komiteens godkjenning.
 
-8. Medlemmene av komiteen skal, med Generalforsamlingens godkjenning, motta en godtgjørelse fra De forente nasjoner, på de vilkår og på den måte som Generalforsamlingen bestemmer, idet det tas hensyn til betydningen av de oppgaver som er tillagt komiteen.
+8\. Medlemmene av komiteen skal, med Generalforsamlingens godkjenning, motta en godtgjørelse fra De forente nasjoner, på de vilkår og på den måte som Generalforsamlingen bestemmer, idet det tas hensyn til betydningen av de oppgaver som er tillagt komiteen.
 
-9. De forente nasjoners generalsekretær skal sørge for det personale og de hjelpemidler som må til for at komiteen effektivt skal kunne utføre sine oppgaver etter denne konvensjon.
+9\. De forente nasjoners generalsekretær skal sørge for det personale og de hjelpemidler som må til for at komiteen effektivt skal kunne utføre sine oppgaver etter denne konvensjon.
 
 ### Art 18
 
-1. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjon, og om den framgang som har funnet sted i denne forbindelse,innen ett år etter at konvensjonen er trådt i kraft for vedkommende stat,deretter minst hvert fjerde år, og for øvrig på anmodning fra komiteen.
+1\. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjon, og om den framgang som har funnet sted i denne forbindelse,innen ett år etter at konvensjonen er trådt i kraft for vedkommende stat,deretter minst hvert fjerde år, og for øvrig på anmodning fra komiteen.
 
-2. I rapportene kan det angis hvilke faktorer og vanskeligheter som er av betydning for i hvilken grad forpliktelsene etter denne konvensjon er oppfylt.
+2\. I rapportene kan det angis hvilke faktorer og vanskeligheter som er av betydning for i hvilken grad forpliktelsene etter denne konvensjon er oppfylt.
 
 ### Art 19
 
-1. Komiteen skal selv vedta sin forretningsorden.
+1\. Komiteen skal selv vedta sin forretningsorden.
 
-2. Komiteen skal velge sine tillitsmenn for en periode på to år.
+2\. Komiteen skal velge sine tillitsmenn for en periode på to år.
 
 ### Art 20
 
-1. Komiteen skal vanligvis komme sammen i høyst to uker hvert år for å gjennomgå rapporter som er forelagt den i samsvar med artikkel 18 i denne konvensjon.
+1\. Komiteen skal vanligvis komme sammen i høyst to uker hvert år for å gjennomgå rapporter som er forelagt den i samsvar med artikkel 18 i denne konvensjon.
 
-2. Komiteens møter skal vanligvis holdes ved De forente nasjoners sete eller på et annet egnet sted som komiteen bestemmer.
+2\. Komiteens møter skal vanligvis holdes ved De forente nasjoners sete eller på et annet egnet sted som komiteen bestemmer.
 
 ### Art 21
 
-1. Komiteen skal hvert år gi De forente nasjoners generalforsamling, via Det økonomiske og sosiale råd, en rapport om sin virksomhet, og den kan legge fram forslag og generelle anbefalinger på grunnlag av gjennomgang av rapporter og opplysninger som er mottatt fra konvensjonspartene. Slike forslag og generelle anbefalinger skal inntas i komiteens rapport, sammen med eventuelle kommentarer fra konvensjonspartene.
+1\. Komiteen skal hvert år gi De forente nasjoners generalforsamling, via Det økonomiske og sosiale råd, en rapport om sin virksomhet, og den kan legge fram forslag og generelle anbefalinger på grunnlag av gjennomgang av rapporter og opplysninger som er mottatt fra konvensjonspartene. Slike forslag og generelle anbefalinger skal inntas i komiteens rapport, sammen med eventuelle kommentarer fra konvensjonspartene.
 
-2. De forente nasjoners generalsekretær skal oversende komiteens rapporter til Kvinnekommisjonen, til orientering.
+2\. De forente nasjoners generalsekretær skal oversende komiteens rapporter til Kvinnekommisjonen, til orientering.
 
 ### Art 22
 
@@ -4883,47 +5053,51 @@ Konvensjonspartene forplikter seg til å vedta på nasjonalt nivå alle tiltak s
 
 ### Art 25
 
-1. Denne konvensjon skal være åpen for undertegning av alle stater.
+1\. Denne konvensjon skal være åpen for undertegning av alle stater.
 
-2. De forente nasjoners generalsekretær utpekes til depositar for denne konvensjon.
+2\. De forente nasjoners generalsekretær utpekes til depositar for denne konvensjon.
 
-3. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+3\. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
-4. Denne konvensjon skal være åpen for tiltredelse av alle stater. Tiltredelse skal skje ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
+4\. Denne konvensjon skal være åpen for tiltredelse av alle stater. Tiltredelse skal skje ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
 ### Art 26
 
-1. Enhver konvensjonspart kan på ethvert tidspunkt anmode om endringer i denne konvensjon ved skriftlig underretning til De forente nasjoners generalsekretær.
+1\. Enhver konvensjonspart kan på ethvert tidspunkt anmode om endringer i denne konvensjon ved skriftlig underretning til De forente nasjoners generalsekretær.
 
-2. De forente nasjoners generalforsamling skal treffe beslutning om hvilke tiltak som eventuelt skal treffes i forbindelse med en slik anmodning.
+2\. De forente nasjoners generalforsamling skal treffe beslutning om hvilke tiltak som eventuelt skal treffes i forbindelse med en slik anmodning.
 
 ### Art 27
 
-1. Denne konvensjon skal tre i kraft den trettiende dagen etter den dag det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon skal tre i kraft den trettiende dagen etter den dag det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer denne konvensjon eller tiltrer den etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert, skal konvensjonen tre i kraft den trettiende dagen etter den dag vedkommende stats ratifikasjons- eller tiltredelsesdokument er deponert.
+2\. For hver stat som ratifiserer denne konvensjon eller tiltrer den etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert, skal konvensjonen tre i kraft den trettiende dagen etter den dag vedkommende stats ratifikasjons- eller tiltredelsesdokument er deponert.
 
 ### Art 28
 
-1. De forente nasjoners generalsekretær skal motta tekstene til de forbehold som statene har tatt på ratifikasjons- eller tiltredelsestidspunktet, og oversende dem til alle stater.
+1\. De forente nasjoners generalsekretær skal motta tekstene til de forbehold som statene har tatt på ratifikasjons- eller tiltredelsestidspunktet, og oversende dem til alle stater.
 
-2. Det kan ikke tas forbehold som er uforenlig med denne konvensjons formål og mål.
+2\. Det kan ikke tas forbehold som er uforenlig med denne konvensjons formål og mål.
 
-3. Forbehold kan på ethvert tidspunkt trekkes tilbake ved underretning til De forente nasjoners generalsekretær, som så skal informere alle stater om dette. Underretningen får virkning fra den dag den er mottatt.
+3\. Forbehold kan på ethvert tidspunkt trekkes tilbake ved underretning til De forente nasjoners generalsekretær, som så skal informere alle stater om dette. Underretningen får virkning fra den dag den er mottatt.
 
 ### Art 29
 
-1. En tvist mellom to eller flere konvensjonsparter om fortolkningen eller anvendelsen av denne konvensjon som ikke løses ved forhandlinger, skal på anmodning fra en av dem henvises til voldgift. Dersom partene ikke blir enige om organiseringen av voldgiften innen seks måneder fra datoen for anmodning om voldgift, kan hver av partene henvise tvisten til Den internasjonale domstol ved stevning i samsvar med Domstolens vedtekter.
+1\. En tvist mellom to eller flere konvensjonsparter om fortolkningen eller anvendelsen av denne konvensjon som ikke løses ved forhandlinger, skal på anmodning fra en av dem henvises til voldgift. Dersom partene ikke blir enige om organiseringen av voldgiften innen seks måneder fra datoen for anmodning om voldgift, kan hver av partene henvise tvisten til Den internasjonale domstol ved stevning i samsvar med Domstolens vedtekter.
 
-2. Hver konvensjonspart kan når den undertegner eller ratifiserer denne konvensjon, eller når den tiltrer konvensjonen, erklære at den ikke anser seg bundet av nr. 1 i denne artikkel. De øvrige konvensjonsparter skal ikke være bundet av nr. 1 i forhold til en konvensjonspart som har tatt et slikt forbehold.
+2\. Hver konvensjonspart kan når den undertegner eller ratifiserer denne konvensjon, eller når den tiltrer konvensjonen, erklære at den ikke anser seg bundet av nr. 1 i denne artikkel. De øvrige konvensjonsparter skal ikke være bundet av nr. 1 i forhold til en konvensjonspart som har tatt et slikt forbehold.
 
-3. En konvensjonspart som har tatt et forbehold i samsvar med nr. 2 i denne artikkel, kan på ethvert tidspunkt trekke forbeholdet tilbake ved underretning til De forente nasjoners generalsekretær.
+3\. En konvensjonspart som har tatt et forbehold i samsvar med nr. 2 i denne artikkel, kan på ethvert tidspunkt trekke forbeholdet tilbake ved underretning til De forente nasjoners generalsekretær.
 
 ### Art 30
 
-1. Denne konvensjon, hvis arabiske, engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon, hvis arabiske, engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres hos De forente nasjoners generalsekretær.
+
+*Som en bekreftelse på dette* har de nedenstående, som er gitt behørig fullmakt til det, undertegnet denne konvensjon.
 
 ### Valgfri protokoll til FNs konvensjon om å avskaffe alle former for diskriminering mot kvinner, 6 okt 1999
+
+De stater som er parter i denne protokoll,
 
 *merker seg* at [FN-pakten](traktat/1945-06-26-1) bekrefter troen på de grunnleggende menneskerettigheter, på menneskets verdighet og verdi og på like rettigheter for menn og kvinner,
 
@@ -4951,57 +5125,57 @@ Henvendelser skal være skriftlige og de skal ikke være anonyme. Ingen henvende
 
 ### Art 4
 
-1. Komiteen skal ikke behandle en henvendelse uten å ha forsikret seg om at alle tilgjengelige nasjonale rettsmidler er uttømt med mindre anvendelse av slike rettsmidler tar urimelig lang tid eller det er usannsynlig at de vil medføre effektiv hjelp.
+1\. Komiteen skal ikke behandle en henvendelse uten å ha forsikret seg om at alle tilgjengelige nasjonale rettsmidler er uttømt med mindre anvendelse av slike rettsmidler tar urimelig lang tid eller det er usannsynlig at de vil medføre effektiv hjelp.
 
-2. Komiteen skal avvise en henvendelse når:Samme sak allerede er undersøkt av komiteen eller har vært eller er gjenstand for annen internasjonal undersøkelse eller avgjørelse,Den er uforenlig med bestemmelsene i Konvensjonen,Den er åpenbart grunnløs eller ikke tilstrekkelig underbygget,Den er en misbruk av retten til å fremsette henvendelser,De faktiske forhold som er gjenstand for henvendelsen inntraff før ikrafttredelsen av denne protokoll for vedkommende statspart, med mindre forholdene fortsatte etter denne dato.
+2\. Komiteen skal avvise en henvendelse når:Samme sak allerede er undersøkt av komiteen eller har vært eller er gjenstand for annen internasjonal undersøkelse eller avgjørelse,Den er uforenlig med bestemmelsene i Konvensjonen,Den er åpenbart grunnløs eller ikke tilstrekkelig underbygget,Den er en misbruk av retten til å fremsette henvendelser,De faktiske forhold som er gjenstand for henvendelsen inntraff før ikrafttredelsen av denne protokoll for vedkommende statspart, med mindre forholdene fortsatte etter denne dato.
 
 ### Art 5
 
-1. Komiteen kan når som helst etter at den har mottatt en henvendelse og før den har truffet noen beslutning om sakens gjenstand, oversende til vedkommende statspart til umiddelbar vurdering en anmodning om at statsparten treffer slike midlertidige tiltak som måtte være nødvendige for å unngå mulig ubotelig skade på offeret eller ofrene for den påståtte krenkelsen.
+1\. Komiteen kan når som helst etter at den har mottatt en henvendelse og før den har truffet noen beslutning om sakens gjenstand, oversende til vedkommende statspart til umiddelbar vurdering en anmodning om at statsparten treffer slike midlertidige tiltak som måtte være nødvendige for å unngå mulig ubotelig skade på offeret eller ofrene for den påståtte krenkelsen.
 
-2. Når komiteen utøver sitt skjønn under nr. 1, innebærer ikke dette noen avgjørelse av hvorvidt henvendelsen er tatt til behandling eller om sakens gjenstand.
+2\. Når komiteen utøver sitt skjønn under nr. 1, innebærer ikke dette noen avgjørelse av hvorvidt henvendelsen er tatt til behandling eller om sakens gjenstand.
 
 ### Art 6
 
-1. Med mindre komiteen avviser en henvendelse uten å henvise til vedkommende statspart, og under forutsetning av at enkeltpersonen eller enkeltpersonene samtykker i at deres identitet bekjentgjøres overfor statsparten, skal komiteen konfidensielt gjøre vedkommende statspart oppmerksom på enhver henvendelse fremsatt i henhold til denne protokoll.
+1\. Med mindre komiteen avviser en henvendelse uten å henvise til vedkommende statspart, og under forutsetning av at enkeltpersonen eller enkeltpersonene samtykker i at deres identitet bekjentgjøres overfor statsparten, skal komiteen konfidensielt gjøre vedkommende statspart oppmerksom på enhver henvendelse fremsatt i henhold til denne protokoll.
 
-2. Innen seks måneder skal vedkommende statspart avgi til komiteen sine skriftlige forklaringer eller erklæringer som klargjør saken og det eventuelle opprettende tiltaket som denne statsparten har truffet.
+2\. Innen seks måneder skal vedkommende statspart avgi til komiteen sine skriftlige forklaringer eller erklæringer som klargjør saken og det eventuelle opprettende tiltaket som denne statsparten har truffet.
 
 ### Art 7
 
-1. Komiteen skal behandle henvendelser fremsatt i henhold til denne protokoll i lys av alle opplysninger som er gjort tilgjengelige for den av eller på vegne av enkeltpersoner eller grupper av enkeltpersoner og av vedkommende statspart, så sant disse opplysningene blir oversendt de berørte parter.
+1\. Komiteen skal behandle henvendelser fremsatt i henhold til denne protokoll i lys av alle opplysninger som er gjort tilgjengelige for den av eller på vegne av enkeltpersoner eller grupper av enkeltpersoner og av vedkommende statspart, så sant disse opplysningene blir oversendt de berørte parter.
 
-2. Komiteen skal møte for lukkede dører når den behandler henvendelser etter denne protokoll.
+2\. Komiteen skal møte for lukkede dører når den behandler henvendelser etter denne protokoll.
 
-3. Etter å ha behandlet en henvendelse skal komiteen underrette de berørte parter om sine synspunkter på henvendelsen sammen med eventuelle anbefalinger.
+3\. Etter å ha behandlet en henvendelse skal komiteen underrette de berørte parter om sine synspunkter på henvendelsen sammen med eventuelle anbefalinger.
 
-4. Statsparten skal ta tilbørlig hensyn til komiteens synspunkter, sammen med dens eventuelle anbefalinger, og skal innen seks måneder avgi et skriftlig svar til komiteen, herunder gi opplysninger om ethvert tiltak som er truffet i lys av komiteens synspunkter og anbefalinger.
+4\. Statsparten skal ta tilbørlig hensyn til komiteens synspunkter, sammen med dens eventuelle anbefalinger, og skal innen seks måneder avgi et skriftlig svar til komiteen, herunder gi opplysninger om ethvert tiltak som er truffet i lys av komiteens synspunkter og anbefalinger.
 
-5. Komiteen kan be statsparten om å avgi ytterligere opplysninger om ethvert tiltak statsparten har truffet som svar på komiteens eventuelle synspunkter eller anbefalinger, herunder slik komiteen finner det passende, i statspartens periodiske rapporter i henhold til Konvensjonens artikkel 18.
+5\. Komiteen kan be statsparten om å avgi ytterligere opplysninger om ethvert tiltak statsparten har truffet som svar på komiteens eventuelle synspunkter eller anbefalinger, herunder slik komiteen finner det passende, i statspartens periodiske rapporter i henhold til Konvensjonens artikkel 18.
 
 ### Art 8
 
-1. Dersom komiteen mottar pålitelig informasjon som indikerer at en statspart alvorlig eller systematisk krenker rettighetene omhandlet i Konvensjonen, skal komiteen anmode statsparten om å samarbeide i granskningen av informasjonen og i den hensikt avgi sine merknader til denne informasjonen.
+1\. Dersom komiteen mottar pålitelig informasjon som indikerer at en statspart alvorlig eller systematisk krenker rettighetene omhandlet i Konvensjonen, skal komiteen anmode statsparten om å samarbeide i granskningen av informasjonen og i den hensikt avgi sine merknader til denne informasjonen.
 
-2. Etter å ha tatt hensyn til eventuelle merknader som kan være avgitt av vedkommende statspart samt enhver annen pålitelig opplysning som den har, kan komiteen utpeke ett eller flere av sine medlemmer til å foreta en undersøkelse og raskt rapportere tilbake til komiteen. Der det er nødvendig, og med statspartens samtykke, kan undersøkelsen omfatte et besøk på dens territorium.
+2\. Etter å ha tatt hensyn til eventuelle merknader som kan være avgitt av vedkommende statspart samt enhver annen pålitelig opplysning som den har, kan komiteen utpeke ett eller flere av sine medlemmer til å foreta en undersøkelse og raskt rapportere tilbake til komiteen. Der det er nødvendig, og med statspartens samtykke, kan undersøkelsen omfatte et besøk på dens territorium.
 
-3. Etter å ha gransket resultatene av en slik undersøkelse, skal komiteen oversende disse resultatene til vedkommende statspart sammen med eventuelle kommentarer og anbefalinger.
+3\. Etter å ha gransket resultatene av en slik undersøkelse, skal komiteen oversende disse resultatene til vedkommende statspart sammen med eventuelle kommentarer og anbefalinger.
 
-4. Innen seks måneder etter å ha mottatt resultatene, kommentarene og anbefalingene oversendt fra komiteen, skal vedkommende statspart legge fram sine merknader for komiteen.
+4\. Innen seks måneder etter å ha mottatt resultatene, kommentarene og anbefalingene oversendt fra komiteen, skal vedkommende statspart legge fram sine merknader for komiteen.
 
-5. En slik undersøkelse skal foretas konfidensielt og statspartens samarbeid skal søkes på alle trinn i prosessen.
+5\. En slik undersøkelse skal foretas konfidensielt og statspartens samarbeid skal søkes på alle trinn i prosessen.
 
 ### Art 9
 
-1. Komiteen kan be vedkommende statspart om å inkludere detaljer om eventuelle tiltak som er truffet som svar på en undersøkelse som er foretatt under denne protokolls artikkel 8 i sin rapport avgitt i henhold til Konvensjonens artikkel 18.
+1\. Komiteen kan be vedkommende statspart om å inkludere detaljer om eventuelle tiltak som er truffet som svar på en undersøkelse som er foretatt under denne protokolls artikkel 8 i sin rapport avgitt i henhold til Konvensjonens artikkel 18.
 
-2. Komiteen kan, om nødvendig, ved utløpet av perioden på seks måneder nevnt i artikkel 8 nr. 4, be vedkommende statspart om å opplyse om hvilke tiltak som er truffet som svar på en slik undersøkelse.
+2\. Komiteen kan, om nødvendig, ved utløpet av perioden på seks måneder nevnt i artikkel 8 nr. 4, be vedkommende statspart om å opplyse om hvilke tiltak som er truffet som svar på en slik undersøkelse.
 
 ### Art 10
 
-1. Enhver statspart kan, på tidspunktet for undertegning eller ratifikasjon av denne protokoll eller ved tiltredelse til denne, erklære at den ikke anerkjenner komiteens kompetanse etter artikkel 8 og 9.
+1\. Enhver statspart kan, på tidspunktet for undertegning eller ratifikasjon av denne protokoll eller ved tiltredelse til denne, erklære at den ikke anerkjenner komiteens kompetanse etter artikkel 8 og 9.
 
-2. Enhver statspart som har avgitt erklæring i samsvar med denne artikkels nr. 1 kan på ethvert tidspunkt trekke tilbake denne erklæringen gjennom meddelelse til Generalsekretæren.
+2\. Enhver statspart som har avgitt erklæring i samsvar med denne artikkels nr. 1 kan på ethvert tidspunkt trekke tilbake denne erklæringen gjennom meddelelse til Generalsekretæren.
 
 ### Art 11
 
@@ -5021,19 +5195,19 @@ Komiteen skal utarbeide sin egen forretningsorden som skal følges når den utø
 
 ### Art 15
 
-1. Denne protokoll skal være åpen for undertegning av enhver stat som har undertegnet, ratifisert eller tiltrådt Konvensjonen.
+1\. Denne protokoll skal være åpen for undertegning av enhver stat som har undertegnet, ratifisert eller tiltrådt Konvensjonen.
 
-2. Denne protokoll skal kunne ratifiseres av enhver stat som har ratifisert eller tiltrådt Konvensjonen. Ratifikasjonsdokumentene skal deponeres hos De Forente Nasjoners Generalsekretær.
+2\. Denne protokoll skal kunne ratifiseres av enhver stat som har ratifisert eller tiltrådt Konvensjonen. Ratifikasjonsdokumentene skal deponeres hos De Forente Nasjoners Generalsekretær.
 
-3. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt Konvensjonen.
+3\. Denne protokoll er åpen for tiltredelse av enhver stat som har ratifisert eller tiltrådt Konvensjonen.
 
-4) Tiltredelse skjer ved deponering av tiltredelsesdokument hos De Forente Nasjoners Generalsekretær.
+4\) Tiltredelse skjer ved deponering av tiltredelsesdokument hos De Forente Nasjoners Generalsekretær.
 
 ### Art 16
 
-1. Denne protokoll skal tre i kraft tre måneder etter at De Forente Nasjoners Generalsekretær har mottatt det tiende ratifikasjons- eller tiltredelsesdokument.
+1\. Denne protokoll skal tre i kraft tre måneder etter at De Forente Nasjoners Generalsekretær har mottatt det tiende ratifikasjons- eller tiltredelsesdokument.
 
-2. For enhver stat som ratifiserer eller tiltrer denne protokoll etter at den er trådt i kraft, skal protokollen tre i kraft tre måneder etter datoen for deponering av dens eget ratifikasjons- eller tiltredelsesdokument.
+2\. For enhver stat som ratifiserer eller tiltrer denne protokoll etter at den er trådt i kraft, skal protokollen tre i kraft tre måneder etter datoen for deponering av dens eget ratifikasjons- eller tiltredelsesdokument.
 
 ### Art 17
 
@@ -5041,17 +5215,17 @@ Ingen forbehold til denne protokoll skal være tillatt.
 
 ### Art 18
 
-1. Enhver statspart kan foreslå endringer i denne protokoll og sende dem til De Forente Nasjoners Generalsekretær. Generalsekretæren skal deretter oversende endringsforslagene til statspartene med anmodning om å meddele henne/ham om de ønsker at statspartene skal sammenkalles til en konferanse for å behandle og stemme over forslagene. Dersom minst en tredel av statspartene ønsker det, skal Generalsekretæren sammenkalle til en slik konferanse i De Forente Nasjoners regi. Endringsforslag som vedtas av et flertall av statspartene som er til stede på konferansen og avgir stemme skal forelegges De Forente Nasjoners Generalforsamling til godkjennelse.
+1\. Enhver statspart kan foreslå endringer i denne protokoll og sende dem til De Forente Nasjoners Generalsekretær. Generalsekretæren skal deretter oversende endringsforslagene til statspartene med anmodning om å meddele henne/ham om de ønsker at statspartene skal sammenkalles til en konferanse for å behandle og stemme over forslagene. Dersom minst en tredel av statspartene ønsker det, skal Generalsekretæren sammenkalle til en slik konferanse i De Forente Nasjoners regi. Endringsforslag som vedtas av et flertall av statspartene som er til stede på konferansen og avgir stemme skal forelegges De Forente Nasjoners Generalforsamling til godkjennelse.
 
-2. Endringer trer i kraft når de er blitt godkjent av De Forente Nasjoners Generalforsamling og godkjent av et flertall på to tredeler av statspartene til denne protokoll i overensstemmelse med deres konstitusjonelle prosedyrer.
+2\. Endringer trer i kraft når de er blitt godkjent av De Forente Nasjoners Generalforsamling og godkjent av et flertall på to tredeler av statspartene til denne protokoll i overensstemmelse med deres konstitusjonelle prosedyrer.
 
-3. Når endringer trer i kraft, er de bindende for de statsparter som har vedtatt dem, mens de øvrige statsparter fortsatt skal være bundet av bestemmelsene i denne protokoll og av eventuelle tidligere endringer som de har godkjent.
+3\. Når endringer trer i kraft, er de bindende for de statsparter som har vedtatt dem, mens de øvrige statsparter fortsatt skal være bundet av bestemmelsene i denne protokoll og av eventuelle tidligere endringer som de har godkjent.
 
 ### Art 19
 
-1. Enhver statspart kan når som helst si opp denne protokoll ved skriftlig meddelelse til De Forente Nasjoners Generalsekretær. Oppsigelsen trer i kraft seks måneder etter den dag Generalsekretæren mottok meddelelsen.
+1\. Enhver statspart kan når som helst si opp denne protokoll ved skriftlig meddelelse til De Forente Nasjoners Generalsekretær. Oppsigelsen trer i kraft seks måneder etter den dag Generalsekretæren mottok meddelelsen.
 
-2. Oppsigelsen er uten virkning på den fortsatte anvendelse av bestemmelsene i denne protokoll overfor enhver henvendelse som er fremsatt i henhold til artikkel 2 eller enhver undersøkelse innledet i henhold til artikkel 8 før oppsigelsen trer i kraft.
+2\. Oppsigelsen er uten virkning på den fortsatte anvendelse av bestemmelsene i denne protokoll overfor enhver henvendelse som er fremsatt i henhold til artikkel 2 eller enhver undersøkelse innledet i henhold til artikkel 8 før oppsigelsen trer i kraft.
 
 ### Art 20
 
@@ -5059,13 +5233,17 @@ De Forente Nasjoners Generalsekretær skal underrette alle stater om:undertegnin
 
 ### Art 21
 
-1. Denne protokoll, hvis arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet, skal deponeres i De Forente Nasjoners arkiv.
+1\. Denne protokoll, hvis arabiske, kinesiske, engelske, franske, russiske og spanske tekst har samme gyldighet, skal deponeres i De Forente Nasjoners arkiv.
 
-2. De Forente Nasjoners Generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er referert til i Konvensjonens artikkel 25.
+2\. De Forente Nasjoners Generalsekretær skal sende bekreftede kopier av denne protokoll til alle stater som er referert til i Konvensjonens artikkel 25.
 
 ## Vedlegg 11. Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (autentisk engelsk tekst)
 
 ### Convention on the Rights of Persons with Disabilities
+
+*Preamble*
+
+The States Parties to the present Convention,
 
 1. Recalling the principles proclaimed in the [Charter of the United Nations](traktat/1945-06-26-1) which recognize the inherent dignity and worth and the equal and inalienable rights of all members of the human family as the foundation of freedom, justice and peace in the world,
 2. Recognizing that the United Nations, in the [Universal Declaration of Human Rights](traktat/1948-12-10-501) and in the International Covenants on Human Rights, has proclaimed and agreed that everyone is entitled to all the rights and freedoms set forth therein, without distinction of any kind,
@@ -5093,6 +5271,8 @@ De Forente Nasjoners Generalsekretær skal underrette alle stater om:undertegnin
 24. Convinced that the family is the natural and fundamental group unit of society and is entitled to protection by society and the State, and that persons with disabilities and their family members should receive the necessary protection and assistance to enable families to contribute towards the full and equal enjoyment of the rights of persons with disabilities,
 25. Convinced that a comprehensive and integral international convention to promote and protect the rights and dignity of persons with disabilities will make a significant contribution to redressing the profound social disadvantage of persons with disabilities and promote their participation in the civil, political, economic, social and cultural spheres with equal opportunities, in both developing and developed countries,
 
+Have agreed as follows:
+
 ### Article 1. Purpose
 
 The purpose of the present Convention is to promote, protect and ensure the full and equal enjoyment of all human rights and fundamental freedoms by all persons with disabilities, and to promote respect for their inherent dignity.
@@ -5109,51 +5289,51 @@ The principles of the present Convention shall be:Respect for inherent dignity, 
 
 ### Article 4. General obligations
 
-1. States Parties undertake to ensure and promote the full realization of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability. To this end, States Parties undertake:To adopt all appropriate legislative, administrative and other measures for the implementation of the rights recognized in the present Convention;To take all appropriate measures, including legislation, to modify or abolish existing laws, regulations, customs and practices that constitute discrimination against persons with disabilities;To take into account the protection and promotion of the human rights of persons with disabilities in all policies and programmes;To refrain from engaging in any act or practice that is inconsistent with the present Convention and to ensure that public authorities and institutions act in conformity with the present Convention;To take all appropriate measures to eliminate discrimination on the basis of disability by any person, organization or private enterprise;To undertake or promote research and development of universally designed goods, services, equipment and facilities, as defined in article 2 of the present Convention, which should require the minimum possible adaptation and the least cost to meet the specific needs of a person with disabilities, to promote their availability and use, and to promote universal design in the development of standards and guidelines;To undertake or promote research and development of, and to promote the availability and use of new technologies, including information and communications technologies, mobility aids, devices and assistive technologies, suitable for persons with disabilities, giving priority to technologies at an affordable cost;To provide accessible information to persons with disabilities about mobility aids, devices and assistive technologies, including new technologies, as well as other forms of assistance, support services and facilities;To promote the training of professionals and staff working with persons with disabilities in the rights recognized in the present Convention so as to better provide the assistance and services guaranteed by those rights.
+1\. States Parties undertake to ensure and promote the full realization of all human rights and fundamental freedoms for all persons with disabilities without discrimination of any kind on the basis of disability. To this end, States Parties undertake:To adopt all appropriate legislative, administrative and other measures for the implementation of the rights recognized in the present Convention;To take all appropriate measures, including legislation, to modify or abolish existing laws, regulations, customs and practices that constitute discrimination against persons with disabilities;To take into account the protection and promotion of the human rights of persons with disabilities in all policies and programmes;To refrain from engaging in any act or practice that is inconsistent with the present Convention and to ensure that public authorities and institutions act in conformity with the present Convention;To take all appropriate measures to eliminate discrimination on the basis of disability by any person, organization or private enterprise;To undertake or promote research and development of universally designed goods, services, equipment and facilities, as defined in article 2 of the present Convention, which should require the minimum possible adaptation and the least cost to meet the specific needs of a person with disabilities, to promote their availability and use, and to promote universal design in the development of standards and guidelines;To undertake or promote research and development of, and to promote the availability and use of new technologies, including information and communications technologies, mobility aids, devices and assistive technologies, suitable for persons with disabilities, giving priority to technologies at an affordable cost;To provide accessible information to persons with disabilities about mobility aids, devices and assistive technologies, including new technologies, as well as other forms of assistance, support services and facilities;To promote the training of professionals and staff working with persons with disabilities in the rights recognized in the present Convention so as to better provide the assistance and services guaranteed by those rights.
 
-2. With regard to economic, social and cultural rights, each State Party undertakes to take measures to the maximum of its available resources and, where needed, within the framework of international cooperation, with a view to achieving progressively the full realization of these rights, without prejudice to those obligations contained in the present Convention that are immediately applicable according to international law.
+2\. With regard to economic, social and cultural rights, each State Party undertakes to take measures to the maximum of its available resources and, where needed, within the framework of international cooperation, with a view to achieving progressively the full realization of these rights, without prejudice to those obligations contained in the present Convention that are immediately applicable according to international law.
 
-3. In the development and implementation of legislation and policies to implement the present Convention, and in other decision-making processes concerning issues relating to persons with disabilities, States Parties shall closely consult with and actively involve persons with disabilities, including children with disabilities, through their representative organizations.
+3\. In the development and implementation of legislation and policies to implement the present Convention, and in other decision-making processes concerning issues relating to persons with disabilities, States Parties shall closely consult with and actively involve persons with disabilities, including children with disabilities, through their representative organizations.
 
-4. Nothing in the present Convention shall affect any provisions which are more conducive to the realization of the rights of persons with disabilities and which may be contained in the law of a State Party or international law in force for that State. There shall be no restriction upon or derogation from any of the human rights and fundamental freedoms recognized or existing in any State Party to the present Convention pursuant to law, conventions, regulation or custom on the pretext that the present Convention does not recognize such rights or freedoms or that it recognizes them to a lesser extent.
+4\. Nothing in the present Convention shall affect any provisions which are more conducive to the realization of the rights of persons with disabilities and which may be contained in the law of a State Party or international law in force for that State. There shall be no restriction upon or derogation from any of the human rights and fundamental freedoms recognized or existing in any State Party to the present Convention pursuant to law, conventions, regulation or custom on the pretext that the present Convention does not recognize such rights or freedoms or that it recognizes them to a lesser extent.
 
-5. The provisions of the present Convention shall extend to all parts of federal states without any limitations or exceptions.
+5\. The provisions of the present Convention shall extend to all parts of federal states without any limitations or exceptions.
 
 ### Article 5. Equality and non-discrimination
 
-1. States Parties recognize that all persons are equal before and under the law and are entitled without any discrimination to the equal protection and equal benefit of the law.
+1\. States Parties recognize that all persons are equal before and under the law and are entitled without any discrimination to the equal protection and equal benefit of the law.
 
-2. States Parties shall prohibit all discrimination on the basis of disability and guarantee to persons with disabilities equal and effective legal protection against discrimination on all grounds.
+2\. States Parties shall prohibit all discrimination on the basis of disability and guarantee to persons with disabilities equal and effective legal protection against discrimination on all grounds.
 
-3. In order to promote equality and eliminate discrimination, States Parties shall take all appropriate steps to ensure that reasonable accommodation is provided.
+3\. In order to promote equality and eliminate discrimination, States Parties shall take all appropriate steps to ensure that reasonable accommodation is provided.
 
-4. Specific measures which are necessary to accelerate or achieve de facto equality of persons with disabilities shall not be considered discrimination under the terms of the present Convention.
+4\. Specific measures which are necessary to accelerate or achieve de facto equality of persons with disabilities shall not be considered discrimination under the terms of the present Convention.
 
 ### Article 6. Women with disabilities
 
-1. States Parties recognize that women and girls with disabilities are subject to multiple discrimination, and in this regard shall take measures to ensure the full and equal enjoyment by them of all human rights and fundamental freedoms.
+1\. States Parties recognize that women and girls with disabilities are subject to multiple discrimination, and in this regard shall take measures to ensure the full and equal enjoyment by them of all human rights and fundamental freedoms.
 
-2. States Parties shall take all appropriate measures to ensure the full development, advancement and empowerment of women, for the purpose of guaranteeing them the exercise and enjoyment of the human rights and fundamental freedoms set out in the present Convention.
+2\. States Parties shall take all appropriate measures to ensure the full development, advancement and empowerment of women, for the purpose of guaranteeing them the exercise and enjoyment of the human rights and fundamental freedoms set out in the present Convention.
 
 ### Article 7. Children with disabilities
 
-1. States Parties shall take all necessary measures to ensure the full enjoyment by children with disabilities of all human rights and fundamental freedoms on an equal basis with other children.
+1\. States Parties shall take all necessary measures to ensure the full enjoyment by children with disabilities of all human rights and fundamental freedoms on an equal basis with other children.
 
-2. In all actions concerning children with disabilities, the best interests of the child shall be a primary consideration.
+2\. In all actions concerning children with disabilities, the best interests of the child shall be a primary consideration.
 
-3. States Parties shall ensure that children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right.
+3\. States Parties shall ensure that children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right.
 
 ### Article 8. Awareness-raising
 
-1. States Parties undertake to adopt immediate, effective and appropriate measures:To raise awareness throughout society, including at the family level, regarding persons with disabilities, and to foster respect for the rights and dignity of persons with disabilities;To combat stereotypes, prejudices and harmful practices relating to persons with disabilities, including those based on sex and age, in all areas of life;To promote awareness of the capabilities and contributions of persons with disabilities.
+1\. States Parties undertake to adopt immediate, effective and appropriate measures:To raise awareness throughout society, including at the family level, regarding persons with disabilities, and to foster respect for the rights and dignity of persons with disabilities;To combat stereotypes, prejudices and harmful practices relating to persons with disabilities, including those based on sex and age, in all areas of life;To promote awareness of the capabilities and contributions of persons with disabilities.
 
-2. Measures to this end include:Initiating and maintaining effective public awareness campaigns designed:To nurture receptiveness to the rights of persons with disabilities;To promote positive perceptions and greater social awareness towards persons with disabilities;To promote recognition of the skills, merits and abilities of persons with disabilities, and of their contributions to the workplace and the labour market;Fostering at all levels of the education system, including in all children from an early age, an attitude of respect for the rights of persons with disabilities;Encouraging all organs of the media to portray persons with disabilities in a manner consistent with the purpose of the present Convention;Promoting awareness-training programmes regarding persons with disabilities and the rights of persons with disabilities.
+2\. Measures to this end include:Initiating and maintaining effective public awareness campaigns designed:To nurture receptiveness to the rights of persons with disabilities;To promote positive perceptions and greater social awareness towards persons with disabilities;To promote recognition of the skills, merits and abilities of persons with disabilities, and of their contributions to the workplace and the labour market;Fostering at all levels of the education system, including in all children from an early age, an attitude of respect for the rights of persons with disabilities;Encouraging all organs of the media to portray persons with disabilities in a manner consistent with the purpose of the present Convention;Promoting awareness-training programmes regarding persons with disabilities and the rights of persons with disabilities.
 
 ### Article 9. Accessibility
 
-1. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:Buildings, roads, transportation and other indoor and outdoor facilities, including schools, housing, medical facilities and workplaces;Information, communications and other services, including electronic services and emergency services.
+1\. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:Buildings, roads, transportation and other indoor and outdoor facilities, including schools, housing, medical facilities and workplaces;Information, communications and other services, including electronic services and emergency services.
 
-2. States Parties shall also take appropriate measures:To develop, promulgate and monitor the implementation of minimum standards and guidelines for the accessibility of facilities and services open or provided to the public;To ensure that private entities that offer facilities and services which are open or provided to the public take into account all aspects of accessibility for persons with disabilities;To provide training for stakeholders on accessibility issues facing persons with disabilities;To provide in buildings and other facilities open to the public signage in Braille and in easy to read and understand forms;To provide forms of live assistance and intermediaries, including guides, readers and professional sign language interpreters, to facilitate accessibility to buildings and other facilities open to the public;To promote other appropriate forms of assistance and support to persons with disabilities to ensure their access to information;To promote access for persons with disabilities to new information and communications technologies and systems, including the Internet;To promote the design, development, production and distribution of accessible information and communications technologies and systems at an early stage, so that these technologies and systems become accessible at minimum cost.
+2\. States Parties shall also take appropriate measures:To develop, promulgate and monitor the implementation of minimum standards and guidelines for the accessibility of facilities and services open or provided to the public;To ensure that private entities that offer facilities and services which are open or provided to the public take into account all aspects of accessibility for persons with disabilities;To provide training for stakeholders on accessibility issues facing persons with disabilities;To provide in buildings and other facilities open to the public signage in Braille and in easy to read and understand forms;To provide forms of live assistance and intermediaries, including guides, readers and professional sign language interpreters, to facilitate accessibility to buildings and other facilities open to the public;To promote other appropriate forms of assistance and support to persons with disabilities to ensure their access to information;To promote access for persons with disabilities to new information and communications technologies and systems, including the Internet;To promote the design, development, production and distribution of accessible information and communications technologies and systems at an early stage, so that these technologies and systems become accessible at minimum cost.
 
 ### Article 10. Right to life
 
@@ -5165,45 +5345,45 @@ States Parties shall take, in accordance with their obligations under internatio
 
 ### Article 12. Equal recognition before the law
 
-1. States Parties reaffirm that persons with disabilities have the right to recognition everywhere as persons before the law.
+1\. States Parties reaffirm that persons with disabilities have the right to recognition everywhere as persons before the law.
 
-2. States Parties shall recognize that persons with disabilities enjoy legal capacity on an equal basis with others in all aspects of life.
+2\. States Parties shall recognize that persons with disabilities enjoy legal capacity on an equal basis with others in all aspects of life.
 
-3. States Parties shall take appropriate measures to provide access by persons with disabilities to the support they may require in exercising their legal capacity.
+3\. States Parties shall take appropriate measures to provide access by persons with disabilities to the support they may require in exercising their legal capacity.
 
-4. States Parties shall ensure that all measures that relate to the exercise of legal capacity provide for appropriate and effective safeguards to prevent abuse in accordance with international human rights law. Such safeguards shall ensure that measures relating to the exercise of legal capacity respect the rights, will and preferences of the person, are free of conflict of interest and undue influence, are proportional and tailored to the person's circumstances, apply for the shortest time possible and are subject to regular review by a competent, independent and impartial authority or judicial body. The safeguards shall be proportional to the degree to which such measures affect the person's rights and interests.
+4\. States Parties shall ensure that all measures that relate to the exercise of legal capacity provide for appropriate and effective safeguards to prevent abuse in accordance with international human rights law. Such safeguards shall ensure that measures relating to the exercise of legal capacity respect the rights, will and preferences of the person, are free of conflict of interest and undue influence, are proportional and tailored to the person's circumstances, apply for the shortest time possible and are subject to regular review by a competent, independent and impartial authority or judicial body. The safeguards shall be proportional to the degree to which such measures affect the person's rights and interests.
 
-5. Subject to the provisions of this article, States Parties shall take all appropriate and effective measures to ensure the equal right of persons with disabilities to own or inherit property, to control their own financial affairs and to have equal access to bank loans, mortgages and other forms of financial credit, and shall ensure that persons with disabilities are not arbitrarily deprived of their property.
+5\. Subject to the provisions of this article, States Parties shall take all appropriate and effective measures to ensure the equal right of persons with disabilities to own or inherit property, to control their own financial affairs and to have equal access to bank loans, mortgages and other forms of financial credit, and shall ensure that persons with disabilities are not arbitrarily deprived of their property.
 
 ### Article 13. Access to justice
 
-1. States Parties shall ensure effective access to justice for persons with disabilities on an equal basis with others, including through the provision of procedural and age-appropriate accommodations, in order to facilitate their effective role as direct and indirect participants, including as witnesses, in all legal proceedings, including at investigative and other preliminary stages.
+1\. States Parties shall ensure effective access to justice for persons with disabilities on an equal basis with others, including through the provision of procedural and age-appropriate accommodations, in order to facilitate their effective role as direct and indirect participants, including as witnesses, in all legal proceedings, including at investigative and other preliminary stages.
 
-2. In order to help to ensure effective access to justice for persons with disabilities, States Parties shall promote appropriate training for those working in the field of administration of justice, including police and prison staff.
+2\. In order to help to ensure effective access to justice for persons with disabilities, States Parties shall promote appropriate training for those working in the field of administration of justice, including police and prison staff.
 
 ### Article 14. Liberty and security of person
 
-1. States Parties shall ensure that persons with disabilities, on an equal basis with others:Enjoy the right to liberty and security of person;Are not deprived of their liberty unlawfully or arbitrarily, and that any deprivation of liberty is in conformity with the law, and that the existence of a disability shall in no case justify a deprivation of liberty.
+1\. States Parties shall ensure that persons with disabilities, on an equal basis with others:Enjoy the right to liberty and security of person;Are not deprived of their liberty unlawfully or arbitrarily, and that any deprivation of liberty is in conformity with the law, and that the existence of a disability shall in no case justify a deprivation of liberty.
 
-2. States Parties shall ensure that if persons with disabilities are deprived of their liberty through any process, they are, on an equal basis with others, entitled to guarantees in accordance with international human rights law and shall be treated in compliance with the objectives and principles of the present Convention, including by provision of reasonable accommodation.
+2\. States Parties shall ensure that if persons with disabilities are deprived of their liberty through any process, they are, on an equal basis with others, entitled to guarantees in accordance with international human rights law and shall be treated in compliance with the objectives and principles of the present Convention, including by provision of reasonable accommodation.
 
 ### Article 15. Freedom from torture or cruel, inhuman or degrading treatment or punishment
 
-1. No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his or her free consent to medical or scientific experimentation.
+1\. No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. In particular, no one shall be subjected without his or her free consent to medical or scientific experimentation.
 
-2. States Parties shall take all effective legislative, administrative, judicial or other measures to prevent persons with disabilities, on an equal basis with others, from being subjected to torture or cruel, inhuman or degrading treatment or punishment.
+2\. States Parties shall take all effective legislative, administrative, judicial or other measures to prevent persons with disabilities, on an equal basis with others, from being subjected to torture or cruel, inhuman or degrading treatment or punishment.
 
 ### Article 16. Freedom from exploitation, violence and abuse
 
-1. States Parties shall take all appropriate legislative, administrative, social, educational and other measures to protect persons with disabilities, both within and outside the home, from all forms of exploitation, violence and abuse, including their gender-based aspects.
+1\. States Parties shall take all appropriate legislative, administrative, social, educational and other measures to protect persons with disabilities, both within and outside the home, from all forms of exploitation, violence and abuse, including their gender-based aspects.
 
-2. States Parties shall also take all appropriate measures to prevent all forms of exploitation, violence and abuse by ensuring, inter alia, appropriate forms of gender- and age-sensitive assistance and support for persons with disabilities and their families and caregivers, including through the provision of information and education on how to avoid, recognize and report instances of exploitation, violence and abuse. States Parties shall ensure that protection services are age-, gender- and disability-sensitive.
+2\. States Parties shall also take all appropriate measures to prevent all forms of exploitation, violence and abuse by ensuring, inter alia, appropriate forms of gender- and age-sensitive assistance and support for persons with disabilities and their families and caregivers, including through the provision of information and education on how to avoid, recognize and report instances of exploitation, violence and abuse. States Parties shall ensure that protection services are age-, gender- and disability-sensitive.
 
-3. In order to prevent the occurrence of all forms of exploitation, violence and abuse, States Parties shall ensure that all facilities and programmes designed to serve persons with disabilities are effectively monitored by independent authorities.
+3\. In order to prevent the occurrence of all forms of exploitation, violence and abuse, States Parties shall ensure that all facilities and programmes designed to serve persons with disabilities are effectively monitored by independent authorities.
 
-4. States Parties shall take all appropriate measures to promote the physical, cognitive and psychological recovery, rehabilitation and social reintegration of persons with disabilities who become victims of any form of exploitation, violence or abuse, including through the provision of protection services. Such recovery and reintegration shall take place in an environment that fosters the health, welfare, self-respect, dignity and autonomy of the person and takes into account gender- and age-specific needs.
+4\. States Parties shall take all appropriate measures to promote the physical, cognitive and psychological recovery, rehabilitation and social reintegration of persons with disabilities who become victims of any form of exploitation, violence or abuse, including through the provision of protection services. Such recovery and reintegration shall take place in an environment that fosters the health, welfare, self-respect, dignity and autonomy of the person and takes into account gender- and age-specific needs.
 
-5. States Parties shall put in place effective legislation and policies, including women- and child-focused legislation and policies, to ensure that instances of exploitation, violence and abuse against persons with disabilities are identified, investigated and, where appropriate, prosecuted.
+5\. States Parties shall put in place effective legislation and policies, including women- and child-focused legislation and policies, to ensure that instances of exploitation, violence and abuse against persons with disabilities are identified, investigated and, where appropriate, prosecuted.
 
 ### Article 17. Protecting the integrity of the person
 
@@ -5211,9 +5391,9 @@ Every person with disabilities has a right to respect for his or her physical an
 
 ### Article 18. Liberty of movement and nationality
 
-1. States Parties shall recognize the rights of persons with disabilities to liberty of movement, to freedom to choose their residence and to a nationality, on an equal basis with others, including by ensuring that persons with disabilities:Have the right to acquire and change a nationality and are not deprived of their nationality arbitrarily or on the basis of disability;Are not deprived, on the basis of disability, of their ability to obtain, possess and utilize documentation of their nationality or other documentation of identification, or to utilize relevant processes such as immigration proceedings, that may be needed to facilitate exercise of the right to liberty of movement;Are free to leave any country, including their own;Are not deprived, arbitrarily or on the basis of disability, of the right to enter their own country.
+1\. States Parties shall recognize the rights of persons with disabilities to liberty of movement, to freedom to choose their residence and to a nationality, on an equal basis with others, including by ensuring that persons with disabilities:Have the right to acquire and change a nationality and are not deprived of their nationality arbitrarily or on the basis of disability;Are not deprived, on the basis of disability, of their ability to obtain, possess and utilize documentation of their nationality or other documentation of identification, or to utilize relevant processes such as immigration proceedings, that may be needed to facilitate exercise of the right to liberty of movement;Are free to leave any country, including their own;Are not deprived, arbitrarily or on the basis of disability, of the right to enter their own country.
 
-2. Children with disabilities shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by their parents.
+2\. Children with disabilities shall be registered immediately after birth and shall have the right from birth to a name, the right to acquire a nationality and, as far as possible, the right to know and be cared for by their parents.
 
 ### Article 19. Living independently and being included in the community
 
@@ -5229,33 +5409,33 @@ States Parties shall take all appropriate measures to ensure that persons with d
 
 ### Article 22. Respect for privacy
 
-1. No person with disabilities, regardless of place of residence or living arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honour and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks.
+1\. No person with disabilities, regardless of place of residence or living arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honour and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks.
 
-2. States Parties shall protect the privacy of personal, health and rehabilitation information of persons with disabilities on an equal basis with others.
+2\. States Parties shall protect the privacy of personal, health and rehabilitation information of persons with disabilities on an equal basis with others.
 
 ### Article 23. Respect for home and the family
 
-1. States Parties shall take effective and appropriate measures to eliminate discrimination against persons with disabilities in all matters relating to marriage, family, parenthood and relationships, on an equal basis with others, so as to ensure that:The right of all persons with disabilities who are of marriageable age to marry and to found a family on the basis of free and full consent of the intending spouses is recognized;The rights of persons with disabilities to decide freely and responsibly on the number and spacing of their children and to have access to age-appropriate information, reproductive and family planning education are recognized, and the means necessary to enable them to exercise these rights are provided;Persons with disabilities, including children, retain their fertility on an equal basis with others.
+1\. States Parties shall take effective and appropriate measures to eliminate discrimination against persons with disabilities in all matters relating to marriage, family, parenthood and relationships, on an equal basis with others, so as to ensure that:The right of all persons with disabilities who are of marriageable age to marry and to found a family on the basis of free and full consent of the intending spouses is recognized;The rights of persons with disabilities to decide freely and responsibly on the number and spacing of their children and to have access to age-appropriate information, reproductive and family planning education are recognized, and the means necessary to enable them to exercise these rights are provided;Persons with disabilities, including children, retain their fertility on an equal basis with others.
 
-2. States Parties shall ensure the rights and responsibilities of persons with disabilities, with regard to guardianship, wardship, trusteeship, adoption of children or similar institutions, where these concepts exist in national legislation; in all cases the best interests of the child shall be paramount. States Parties shall render appropriate assistance to persons with disabilities in the performance of their child-rearing responsibilities.
+2\. States Parties shall ensure the rights and responsibilities of persons with disabilities, with regard to guardianship, wardship, trusteeship, adoption of children or similar institutions, where these concepts exist in national legislation; in all cases the best interests of the child shall be paramount. States Parties shall render appropriate assistance to persons with disabilities in the performance of their child-rearing responsibilities.
 
-3. States Parties shall ensure that children with disabilities have equal rights with respect to family life. With a view to realizing these rights, and to prevent concealment, abandonment, neglect and segregation of children with disabilities, States Parties shall undertake to provide early and comprehensive information, services and support to children with disabilities and their families.
+3\. States Parties shall ensure that children with disabilities have equal rights with respect to family life. With a view to realizing these rights, and to prevent concealment, abandonment, neglect and segregation of children with disabilities, States Parties shall undertake to provide early and comprehensive information, services and support to children with disabilities and their families.
 
-4. States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. In no case shall a child be separated from parents on the basis of a disability of either the child or one or both of the parents.
+4\. States Parties shall ensure that a child shall not be separated from his or her parents against their will, except when competent authorities subject to judicial review determine, in accordance with applicable law and procedures, that such separation is necessary for the best interests of the child. In no case shall a child be separated from parents on the basis of a disability of either the child or one or both of the parents.
 
-5. States Parties shall, where the immediate family is unable to care for a child with disabilities, undertake every effort to provide alternative care within the wider family, and failing that, within the community in a family setting.
+5\. States Parties shall, where the immediate family is unable to care for a child with disabilities, undertake every effort to provide alternative care within the wider family, and failing that, within the community in a family setting.
 
 ### Article 24. Education
 
-1. States Parties recognize the right of persons with disabilities to education. With a view to realizing this right without discrimination and on the basis of equal opportunity, States Parties shall ensure an inclusive education system at all levels and lifelong learning directed to:The full development of human potential and sense of dignity and self-worth, and the strengthening of respect for human rights, fundamental freedoms and human diversity;The development by persons with disabilities of their personality, talents and creativity, as well as their mental and physical abilities, to their fullest potential;Enabling persons with disabilities to participate effectively in a free society.
+1\. States Parties recognize the right of persons with disabilities to education. With a view to realizing this right without discrimination and on the basis of equal opportunity, States Parties shall ensure an inclusive education system at all levels and lifelong learning directed to:The full development of human potential and sense of dignity and self-worth, and the strengthening of respect for human rights, fundamental freedoms and human diversity;The development by persons with disabilities of their personality, talents and creativity, as well as their mental and physical abilities, to their fullest potential;Enabling persons with disabilities to participate effectively in a free society.
 
-2. In realizing this right, States Parties shall ensure that:Persons with disabilities are not excluded from the general education system on the basis of disability, and that children with disabilities are not excluded from free and compulsory primary education, or from secondary education, on the basis of disability;Persons with disabilities can access an inclusive, quality and free primary education and secondary education on an equal basis with others in the communities in which they live;Reasonable accommodation of the individual's requirements is provided;Persons with disabilities receive the support required, within the general education system, to facilitate their effective education;Effective individualized support measures are provided in environments that maximize academic and social development, consistent with the goal of full inclusion.
+2\. In realizing this right, States Parties shall ensure that:Persons with disabilities are not excluded from the general education system on the basis of disability, and that children with disabilities are not excluded from free and compulsory primary education, or from secondary education, on the basis of disability;Persons with disabilities can access an inclusive, quality and free primary education and secondary education on an equal basis with others in the communities in which they live;Reasonable accommodation of the individual's requirements is provided;Persons with disabilities receive the support required, within the general education system, to facilitate their effective education;Effective individualized support measures are provided in environments that maximize academic and social development, consistent with the goal of full inclusion.
 
-3. States Parties shall enable persons with disabilities to learn life and social development skills to facilitate their full and equal participation in education and as members of the community. To this end, States Parties shall take appropriate measures, including:Facilitating the learning of Braille, alternative script, augmentative and alternative modes, means and formats of communication and orientation and mobility skills, and facilitating peer support and mentoring;Facilitating the learning of sign language and the promotion of the linguistic identity of the deaf community;Ensuring that the education of persons, and in particular children, who are blind, deaf or deafblind, is delivered in the most appropriate languages and modes and means of communication for the individual, and in environments which maximize academic and social development.
+3\. States Parties shall enable persons with disabilities to learn life and social development skills to facilitate their full and equal participation in education and as members of the community. To this end, States Parties shall take appropriate measures, including:Facilitating the learning of Braille, alternative script, augmentative and alternative modes, means and formats of communication and orientation and mobility skills, and facilitating peer support and mentoring;Facilitating the learning of sign language and the promotion of the linguistic identity of the deaf community;Ensuring that the education of persons, and in particular children, who are blind, deaf or deafblind, is delivered in the most appropriate languages and modes and means of communication for the individual, and in environments which maximize academic and social development.
 
-4. In order to help ensure the realization of this right, States Parties shall take appropriate measures to employ teachers, including teachers with disabilities, who are qualified in sign language and/or Braille, and to train professionals and staff who work at all levels of education. Such training shall incorporate disability awareness and the use of appropriate augmentative and alternative modes, means and formats of communication, educational techniques and materials to support persons with disabilities.
+4\. In order to help ensure the realization of this right, States Parties shall take appropriate measures to employ teachers, including teachers with disabilities, who are qualified in sign language and/or Braille, and to train professionals and staff who work at all levels of education. Such training shall incorporate disability awareness and the use of appropriate augmentative and alternative modes, means and formats of communication, educational techniques and materials to support persons with disabilities.
 
-5. States Parties shall ensure that persons with disabilities are able to access general tertiary education, vocational training, adult education and lifelong learning without discrimination and on an equal basis with others. To this end, States Parties shall ensure that reasonable accommodation is provided to persons with disabilities.
+5\. States Parties shall ensure that persons with disabilities are able to access general tertiary education, vocational training, adult education and lifelong learning without discrimination and on an equal basis with others. To this end, States Parties shall ensure that reasonable accommodation is provided to persons with disabilities.
 
 ### Article 25. Health
 
@@ -5263,23 +5443,23 @@ States Parties recognize that persons with disabilities have the right to the en
 
 ### Article 26. Habilitation and rehabilitation
 
-1. States Parties shall take effective and appropriate measures, including through peer support, to enable persons with disabilities to attain and maintain maximum independence, full physical, mental, social and vocational ability, and full inclusion and participation in all aspects of life. To that end, States Parties shall organize, strengthen and extend comprehensive habilitation and rehabilitation services and programmes, particularly in the areas of health, employment, education and social services, in such a way that these services and programmes:Begin at the earliest possible stage, and are based on the multidisciplinary assessment of individual needs and strengths;Support participation and inclusion in the community and all aspects of society, are voluntary, and are available to persons with disabilities as close as possible to their own communities, including in rural areas.
+1\. States Parties shall take effective and appropriate measures, including through peer support, to enable persons with disabilities to attain and maintain maximum independence, full physical, mental, social and vocational ability, and full inclusion and participation in all aspects of life. To that end, States Parties shall organize, strengthen and extend comprehensive habilitation and rehabilitation services and programmes, particularly in the areas of health, employment, education and social services, in such a way that these services and programmes:Begin at the earliest possible stage, and are based on the multidisciplinary assessment of individual needs and strengths;Support participation and inclusion in the community and all aspects of society, are voluntary, and are available to persons with disabilities as close as possible to their own communities, including in rural areas.
 
-2. States Parties shall promote the development of initial and continuing training for professionals and staff working in habilitation and rehabilitation services.
+2\. States Parties shall promote the development of initial and continuing training for professionals and staff working in habilitation and rehabilitation services.
 
-3. States Parties shall promote the availability, knowledge and use of assistive devices and technologies, designed for persons with disabilities, as they relate to habilitation and rehabilitation.
+3\. States Parties shall promote the availability, knowledge and use of assistive devices and technologies, designed for persons with disabilities, as they relate to habilitation and rehabilitation.
 
 ### Article 27. Work and employment
 
-1. States Parties recognize the right of persons with disabilities to work, on an equal basis with others; this includes the right to the opportunity to gain a living by work freely chosen or accepted in a labour market and work environment that is open, inclusive and accessible to persons with disabilities. States Parties shall safeguard and promote the realization of the right to work, including for those who acquire a disability during the course of employment, by taking appropriate steps, including through legislation, to, inter alia:Prohibit discrimination on the basis of disability with regard to all matters concerning all forms of employment, including conditions of recruitment, hiring and employment, continuance of employment, career advancement and safe and healthy working conditions;Protect the rights of persons with disabilities, on an equal basis with others, to just and favourable conditions of work, including equal opportunities and equal remuneration for work of equal value, safe and healthy working conditions, including protection from harassment, and the redress of grievances;Ensure that persons with disabilities are able to exercise their labour and trade union rights on an equal basis with others;Enable persons with disabilities to have effective access to general technical and vocational guidance programmes, placement services and vocational and continuing training;Promote employment opportunities and career advancement for persons with disabilities in the labour market, as well as assistance in finding, obtaining, maintaining and returning to employment;Promote opportunities for self-employment, entrepreneurship, the development of cooperatives and starting one's own business;Employ persons with disabilities in the public sector;Promote the employment of persons with disabilities in the private sector through appropriate policies and measures, which may include affirmative action programmes, incentives and other measures;Ensure that reasonable accommodation is provided to persons with disabilities in the workplace;Promote the acquisition by persons with disabilities of work experience in the open labour market;Promote vocational and professional rehabilitation, job retention and return-to-work programmes for persons with disabilities.
+1\. States Parties recognize the right of persons with disabilities to work, on an equal basis with others; this includes the right to the opportunity to gain a living by work freely chosen or accepted in a labour market and work environment that is open, inclusive and accessible to persons with disabilities. States Parties shall safeguard and promote the realization of the right to work, including for those who acquire a disability during the course of employment, by taking appropriate steps, including through legislation, to, inter alia:Prohibit discrimination on the basis of disability with regard to all matters concerning all forms of employment, including conditions of recruitment, hiring and employment, continuance of employment, career advancement and safe and healthy working conditions;Protect the rights of persons with disabilities, on an equal basis with others, to just and favourable conditions of work, including equal opportunities and equal remuneration for work of equal value, safe and healthy working conditions, including protection from harassment, and the redress of grievances;Ensure that persons with disabilities are able to exercise their labour and trade union rights on an equal basis with others;Enable persons with disabilities to have effective access to general technical and vocational guidance programmes, placement services and vocational and continuing training;Promote employment opportunities and career advancement for persons with disabilities in the labour market, as well as assistance in finding, obtaining, maintaining and returning to employment;Promote opportunities for self-employment, entrepreneurship, the development of cooperatives and starting one's own business;Employ persons with disabilities in the public sector;Promote the employment of persons with disabilities in the private sector through appropriate policies and measures, which may include affirmative action programmes, incentives and other measures;Ensure that reasonable accommodation is provided to persons with disabilities in the workplace;Promote the acquisition by persons with disabilities of work experience in the open labour market;Promote vocational and professional rehabilitation, job retention and return-to-work programmes for persons with disabilities.
 
-2. States Parties shall ensure that persons with disabilities are not held in slavery or in servitude, and are protected, on an equal basis with others, from forced or compulsory labour.
+2\. States Parties shall ensure that persons with disabilities are not held in slavery or in servitude, and are protected, on an equal basis with others, from forced or compulsory labour.
 
 ### Article 28. Adequate standard of living and social protection
 
-1. States Parties recognize the right of persons with disabilities to an adequate standard of living for themselves and their families, including adequate food, clothing and housing, and to the continuous improvement of living conditions, and shall take appropriate steps to safeguard and promote the realization of this right without discrimination on the basis of disability.
+1\. States Parties recognize the right of persons with disabilities to an adequate standard of living for themselves and their families, including adequate food, clothing and housing, and to the continuous improvement of living conditions, and shall take appropriate steps to safeguard and promote the realization of this right without discrimination on the basis of disability.
 
-2. States Parties recognize the right of persons with disabilities to social protection and to the enjoyment of that right without discrimination on the basis of disability, and shall take appropriate steps to safeguard and promote the realization of this right, including measures:To ensure equal access by persons with disabilities to clean water services, and to ensure access to appropriate and affordable services, devices and other assistance for disability-related needs;To ensure access by persons with disabilities, in particular women and girls with disabilities and older persons with disabilities, to social protection programmes and poverty reduction programmes;To ensure access by persons with disabilities and their families living in situations of poverty to assistance from the State with disability-related expenses, including adequate training, counselling, financial assistance and respite care;To ensure access by persons with disabilities to public housing programmes;To ensure equal access by persons with disabilities to retirement benefits and programmes.
+2\. States Parties recognize the right of persons with disabilities to social protection and to the enjoyment of that right without discrimination on the basis of disability, and shall take appropriate steps to safeguard and promote the realization of this right, including measures:To ensure equal access by persons with disabilities to clean water services, and to ensure access to appropriate and affordable services, devices and other assistance for disability-related needs;To ensure access by persons with disabilities, in particular women and girls with disabilities and older persons with disabilities, to social protection programmes and poverty reduction programmes;To ensure access by persons with disabilities and their families living in situations of poverty to assistance from the State with disability-related expenses, including adequate training, counselling, financial assistance and respite care;To ensure access by persons with disabilities to public housing programmes;To ensure equal access by persons with disabilities to retirement benefits and programmes.
 
 ### Article 29. Participation in political and public life
 
@@ -5287,95 +5467,95 @@ States Parties shall guarantee to persons with disabilities political rights and
 
 ### Article 30. Participation in cultural life, recreation, leisure and sport
 
-1. States Parties recognize the right of persons with disabilities to take part on an equal basis with others in cultural life, and shall take all appropriate measures to ensure that persons with disabilities:Enjoy access to cultural materials in accessible formats;Enjoy access to television programmes, films, theatre and other cultural activities, in accessible formats;Enjoy access to places for cultural performances or services, such as theatres, museums, cinemas, libraries and tourism services, and, as far as possible, enjoy access to monuments and sites of national cultural importance.
+1\. States Parties recognize the right of persons with disabilities to take part on an equal basis with others in cultural life, and shall take all appropriate measures to ensure that persons with disabilities:Enjoy access to cultural materials in accessible formats;Enjoy access to television programmes, films, theatre and other cultural activities, in accessible formats;Enjoy access to places for cultural performances or services, such as theatres, museums, cinemas, libraries and tourism services, and, as far as possible, enjoy access to monuments and sites of national cultural importance.
 
-2. States Parties shall take appropriate measures to enable persons with disabilities to have the opportunity to develop and utilize their creative, artistic and intellectual potential, not only for their own benefit, but also for the enrichment of society.
+2\. States Parties shall take appropriate measures to enable persons with disabilities to have the opportunity to develop and utilize their creative, artistic and intellectual potential, not only for their own benefit, but also for the enrichment of society.
 
-3. States Parties shall take all appropriate steps, in accordance with international law, to ensure that laws protecting intellectual property rights do not constitute an unreasonable or discriminatory barrier to access by persons with disabilities to cultural materials.
+3\. States Parties shall take all appropriate steps, in accordance with international law, to ensure that laws protecting intellectual property rights do not constitute an unreasonable or discriminatory barrier to access by persons with disabilities to cultural materials.
 
-4. Persons with disabilities shall be entitled, on an equal basis with others, to recognition and support of their specific cultural and linguistic identity, including sign languages and deaf culture.
+4\. Persons with disabilities shall be entitled, on an equal basis with others, to recognition and support of their specific cultural and linguistic identity, including sign languages and deaf culture.
 
-5. With a view to enabling persons with disabilities to participate on an equal basis with others in recreational, leisure and sporting activities, States Parties shall take appropriate measures:To encourage and promote the participation, to the fullest extent possible, of persons with disabilities in mainstream sporting activities at all levels;To ensure that persons with disabilities have an opportunity to organize, develop and participate in disability-specific sporting and recreational activities and, to this end, encourage the provision, on an equal basis with others, of appropriate instruction, training and resources;To ensure that persons with disabilities have access to sporting, recreational and tourism venues;To ensure that children with disabilities have equal access with other children to participation in play, recreation and leisure and sporting activities, including those activities in the school system;To ensure that persons with disabilities have access to services from those involved in the organization of recreational, tourism, leisure and sporting activities.
+5\. With a view to enabling persons with disabilities to participate on an equal basis with others in recreational, leisure and sporting activities, States Parties shall take appropriate measures:To encourage and promote the participation, to the fullest extent possible, of persons with disabilities in mainstream sporting activities at all levels;To ensure that persons with disabilities have an opportunity to organize, develop and participate in disability-specific sporting and recreational activities and, to this end, encourage the provision, on an equal basis with others, of appropriate instruction, training and resources;To ensure that persons with disabilities have access to sporting, recreational and tourism venues;To ensure that children with disabilities have equal access with other children to participation in play, recreation and leisure and sporting activities, including those activities in the school system;To ensure that persons with disabilities have access to services from those involved in the organization of recreational, tourism, leisure and sporting activities.
 
 ### Article 31. Statistics and data collection
 
-1. States Parties undertake to collect appropriate information, including statistical and research data, to enable them to formulate and implement policies to give effect to the present Convention. The process of collecting and maintaining this information shall:Comply with legally established safeguards, including legislation on data protection, to ensure confidentiality and respect for the privacy of persons with disabilities;Comply with internationally accepted norms to protect human rights and fundamental freedoms and ethical principles in the collection and use of statistics.
+1\. States Parties undertake to collect appropriate information, including statistical and research data, to enable them to formulate and implement policies to give effect to the present Convention. The process of collecting and maintaining this information shall:Comply with legally established safeguards, including legislation on data protection, to ensure confidentiality and respect for the privacy of persons with disabilities;Comply with internationally accepted norms to protect human rights and fundamental freedoms and ethical principles in the collection and use of statistics.
 
-2. The information collected in accordance with this article shall be disaggregated, as appropriate, and used to help assess the implementation of States Parties' obligations under the present Convention and to identify and address the barriers faced by persons with disabilities in exercising their rights.
+2\. The information collected in accordance with this article shall be disaggregated, as appropriate, and used to help assess the implementation of States Parties' obligations under the present Convention and to identify and address the barriers faced by persons with disabilities in exercising their rights.
 
-3. States Parties shall assume responsibility for the dissemination of these statistics and ensure their accessibility to persons with disabilities and others.
+3\. States Parties shall assume responsibility for the dissemination of these statistics and ensure their accessibility to persons with disabilities and others.
 
 ### Article 32. International cooperation
 
-1. States Parties recognize the importance of international cooperation and its promotion, in support of national efforts for the realization of the purpose and objectives of the present Convention, and will undertake appropriate and effective measures in this regard, between and among States and, as appropriate, in partnership with relevant international and regional organizations and civil society, in particular organizations of persons with disabilities. Such measures could include, inter alia:Ensuring that international cooperation, including international development programmes, is inclusive of and accessible to persons with disabilities;Facilitating and supporting capacity-building, including through the exchange and sharing of information, experiences, training programmes and best practices;Facilitating cooperation in research and access to scientific and technical knowledge;Providing, as appropriate, technical and economic assistance, including by facilitating access to and sharing of accessible and assistive technologies, and through the transfer of technologies.
+1\. States Parties recognize the importance of international cooperation and its promotion, in support of national efforts for the realization of the purpose and objectives of the present Convention, and will undertake appropriate and effective measures in this regard, between and among States and, as appropriate, in partnership with relevant international and regional organizations and civil society, in particular organizations of persons with disabilities. Such measures could include, inter alia:Ensuring that international cooperation, including international development programmes, is inclusive of and accessible to persons with disabilities;Facilitating and supporting capacity-building, including through the exchange and sharing of information, experiences, training programmes and best practices;Facilitating cooperation in research and access to scientific and technical knowledge;Providing, as appropriate, technical and economic assistance, including by facilitating access to and sharing of accessible and assistive technologies, and through the transfer of technologies.
 
-2. The provisions of this article are without prejudice to the obligations of each State Party to fulfil its obligations under the present Convention.
+2\. The provisions of this article are without prejudice to the obligations of each State Party to fulfil its obligations under the present Convention.
 
 ### Article 33. National implementation and monitoring
 
-1. States Parties, in accordance with their system of organization, shall designate one or more focal points within government for matters relating to the implementation of the present Convention, and shall give due consideration to the establishment or designation of a coordination mechanism within government to facilitate related action in different sectors and at different levels.
+1\. States Parties, in accordance with their system of organization, shall designate one or more focal points within government for matters relating to the implementation of the present Convention, and shall give due consideration to the establishment or designation of a coordination mechanism within government to facilitate related action in different sectors and at different levels.
 
-2. States Parties shall, in accordance with their legal and administrative systems, maintain, strengthen, designate or establish within the State Party, a framework, including one or more independent mechanisms, as appropriate, to promote, protect and monitor implementation of the present Convention. When designating or establishing such a mechanism, States Parties shall take into account the principles relating to the status and functioning of national institutions for protection and promotion of human rights.
+2\. States Parties shall, in accordance with their legal and administrative systems, maintain, strengthen, designate or establish within the State Party, a framework, including one or more independent mechanisms, as appropriate, to promote, protect and monitor implementation of the present Convention. When designating or establishing such a mechanism, States Parties shall take into account the principles relating to the status and functioning of national institutions for protection and promotion of human rights.
 
-3. Civil society, in particular persons with disabilities and their representative organizations, shall be involved and participate fully in the monitoring process.
+3\. Civil society, in particular persons with disabilities and their representative organizations, shall be involved and participate fully in the monitoring process.
 
 ### Article 34. Committee on the Rights of Persons with Disabilities
 
-1. There shall be established a Committee on the Rights of Persons with Disabilities (hereafter referred to as “the Committee”), which shall carry out the functions hereinafter provided.
+1\. There shall be established a Committee on the Rights of Persons with Disabilities (hereafter referred to as “the Committee”), which shall carry out the functions hereinafter provided.
 
-2. The Committee shall consist, at the time of entry into force of the present Convention, of twelve experts. After an additional sixty ratifications or accessions to the Convention, the membership of the Committee shall increase by six members, attaining a maximum number of eighteen members.
+2\. The Committee shall consist, at the time of entry into force of the present Convention, of twelve experts. After an additional sixty ratifications or accessions to the Convention, the membership of the Committee shall increase by six members, attaining a maximum number of eighteen members.
 
-3. The members of the Committee shall serve in their personal capacity and shall be of high moral standing and recognized competence and experience in the field covered by the present Convention. When nominating their candidates, States Parties are invited to give due consideration to the provision set out in article 4, paragraph 3, of the present Convention.
+3\. The members of the Committee shall serve in their personal capacity and shall be of high moral standing and recognized competence and experience in the field covered by the present Convention. When nominating their candidates, States Parties are invited to give due consideration to the provision set out in article 4, paragraph 3, of the present Convention.
 
-4. The members of the Committee shall be elected by States Parties, consideration being given to equitable geographical distribution, representation of the different forms of civilization and of the principal legal systems, balanced gender representation and participation of experts with disabilities.
+4\. The members of the Committee shall be elected by States Parties, consideration being given to equitable geographical distribution, representation of the different forms of civilization and of the principal legal systems, balanced gender representation and participation of experts with disabilities.
 
-5. The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties from among their nationals at meetings of the Conference of States Parties. At those meetings, for which two thirds of States Parties shall constitute a quorum, the persons elected to the Committee shall be those who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+5\. The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties from among their nationals at meetings of the Conference of States Parties. At those meetings, for which two thirds of States Parties shall constitute a quorum, the persons elected to the Committee shall be those who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
-6. The initial election shall be held no later than six months after the date of entry into force of the present Convention. At least four months before the date of each election, the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit the nominations within two months. The Secretary-General shall subsequently prepare a list in alphabetical order of all persons thus nominated, indicating the State Parties which have nominated them, and shall submit it to the States Parties to the present Convention.
+6\. The initial election shall be held no later than six months after the date of entry into force of the present Convention. At least four months before the date of each election, the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit the nominations within two months. The Secretary-General shall subsequently prepare a list in alphabetical order of all persons thus nominated, indicating the State Parties which have nominated them, and shall submit it to the States Parties to the present Convention.
 
-7. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election once. However, the term of six of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these six members shall be chosen by lot by the chairperson of the meeting referred to in paragraph 5 of this article.
+7\. The members of the Committee shall be elected for a term of four years. They shall be eligible for re-election once. However, the term of six of the members elected at the first election shall expire at the end of two years; immediately after the first election, the names of these six members shall be chosen by lot by the chairperson of the meeting referred to in paragraph 5 of this article.
 
-8. The election of the six additional members of the Committee shall be held on the occasion of regular elections, in accordance with the relevant provisions of this article.
+8\. The election of the six additional members of the Committee shall be held on the occasion of regular elections, in accordance with the relevant provisions of this article.
 
-9. If a member of the Committee dies or resigns or declares that for any other cause she or he can no longer perform her or his duties, the State Party which nominated the member shall appoint another expert possessing the qualifications and meeting the requirements set out in the relevant provisions of this article, to serve for the remainder of the term.
+9\. If a member of the Committee dies or resigns or declares that for any other cause she or he can no longer perform her or his duties, the State Party which nominated the member shall appoint another expert possessing the qualifications and meeting the requirements set out in the relevant provisions of this article, to serve for the remainder of the term.
 
-10. The Committee shall establish its own rules of procedure.
+10\. The Committee shall establish its own rules of procedure.
 
-11. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention, and shall convene its initial meeting.
+11\. The Secretary-General of the United Nations shall provide the necessary staff and facilities for the effective performance of the functions of the Committee under the present Convention, and shall convene its initial meeting.
 
-12. With the approval of the General Assembly of the United Nations, the members of the Committee established under the present Convention shall receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee's responsibilities.
+12\. With the approval of the General Assembly of the United Nations, the members of the Committee established under the present Convention shall receive emoluments from United Nations resources on such terms and conditions as the Assembly may decide, having regard to the importance of the Committee's responsibilities.
 
-13. The members of the Committee shall be entitled to the facilities, privileges and immunities of experts on mission for the United Nations as laid down in the relevant sections of the Convention on the Privileges and Immunities of the United Nations.
+13\. The members of the Committee shall be entitled to the facilities, privileges and immunities of experts on mission for the United Nations as laid down in the relevant sections of the Convention on the Privileges and Immunities of the United Nations.
 
 ### Article 35. Reports by States Parties
 
-1. Each State Party shall submit to the Committee, through the Secretary-General of the United Nations, a comprehensive report on measures taken to give effect to its obligations under the present Convention and on the progress made in that regard, within two years after the entry into force of the present Convention for the State Party concerned.
+1\. Each State Party shall submit to the Committee, through the Secretary-General of the United Nations, a comprehensive report on measures taken to give effect to its obligations under the present Convention and on the progress made in that regard, within two years after the entry into force of the present Convention for the State Party concerned.
 
-2. Thereafter, States Parties shall submit subsequent reports at least every four years and further whenever the Committee so requests.
+2\. Thereafter, States Parties shall submit subsequent reports at least every four years and further whenever the Committee so requests.
 
-3. The Committee shall decide any guidelines applicable to the content of the reports.
+3\. The Committee shall decide any guidelines applicable to the content of the reports.
 
-4. A State Party which has submitted a comprehensive initial report to the Committee need not, in its subsequent reports, repeat information previously provided. When preparing reports to the Committee, States Parties are invited to consider doing so in an open and transparent process and to give due consideration to the provision set out in article 4, paragraph 3, of the present Convention.
+4\. A State Party which has submitted a comprehensive initial report to the Committee need not, in its subsequent reports, repeat information previously provided. When preparing reports to the Committee, States Parties are invited to consider doing so in an open and transparent process and to give due consideration to the provision set out in article 4, paragraph 3, of the present Convention.
 
-5. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
+5\. Reports may indicate factors and difficulties affecting the degree of fulfilment of obligations under the present Convention.
 
 ### Article 36. Consideration of reports
 
-1. Each report shall be considered by the Committee, which shall make such suggestions and general recommendations on the report as it may consider appropriate and shall forward these to the State Party concerned. The State Party may respond with any information it chooses to the Committee. The Committee may request further information from States Parties relevant to the implementation of the present Convention.
+1\. Each report shall be considered by the Committee, which shall make such suggestions and general recommendations on the report as it may consider appropriate and shall forward these to the State Party concerned. The State Party may respond with any information it chooses to the Committee. The Committee may request further information from States Parties relevant to the implementation of the present Convention.
 
-2. If a State Party is significantly overdue in the submission of a report, the Committee may notify the State Party concerned of the need to examine the implementation of the present Convention in that State Party, on the basis of reliable information available to the Committee, if the relevant report is not submitted within three months following the notification. The Committee shall invite the State Party concerned to participate in such examination. Should the State Party respond by submitting the relevant report, the provisions of paragraph 1 of this article will apply.
+2\. If a State Party is significantly overdue in the submission of a report, the Committee may notify the State Party concerned of the need to examine the implementation of the present Convention in that State Party, on the basis of reliable information available to the Committee, if the relevant report is not submitted within three months following the notification. The Committee shall invite the State Party concerned to participate in such examination. Should the State Party respond by submitting the relevant report, the provisions of paragraph 1 of this article will apply.
 
-3. The Secretary-General of the United Nations shall make available the reports to all States Parties.
+3\. The Secretary-General of the United Nations shall make available the reports to all States Parties.
 
-4. States Parties shall make their reports widely available to the public in their own countries and facilitate access to the suggestions and general recommendations relating to these reports.
+4\. States Parties shall make their reports widely available to the public in their own countries and facilitate access to the suggestions and general recommendations relating to these reports.
 
-5. The Committee shall transmit, as it may consider appropriate, to the specialized agencies, funds and programmes of the United Nations, and other competent bodies, reports from States Parties in order to address a request or indication of a need for technical advice or assistance contained therein, along with the Committee's observations and recommendations, if any, on these requests or indications.
+5\. The Committee shall transmit, as it may consider appropriate, to the specialized agencies, funds and programmes of the United Nations, and other competent bodies, reports from States Parties in order to address a request or indication of a need for technical advice or assistance contained therein, along with the Committee's observations and recommendations, if any, on these requests or indications.
 
 ### Article 37. Cooperation between States Parties and the Committee
 
-1. Each State Party shall cooperate with the Committee and assist its members in the fulfilment of their mandate.
+1\. Each State Party shall cooperate with the Committee and assist its members in the fulfilment of their mandate.
 
-2. In its relationship with States Parties, the Committee shall give due consideration to ways and means of enhancing national capacities for the implementation of the present Convention, including through international cooperation.
+2\. In its relationship with States Parties, the Committee shall give due consideration to ways and means of enhancing national capacities for the implementation of the present Convention, including through international cooperation.
 
 ### Article 38. Relationship of the Committee with other bodies
 
@@ -5387,9 +5567,9 @@ The Committee shall report every two years to the General Assembly and to the Ec
 
 ### Article 40. Conference of States Parties
 
-1. The States Parties shall meet regularly in a Conference of States Parties in order to consider any matter with regard to the implementation of the present Convention.
+1\. The States Parties shall meet regularly in a Conference of States Parties in order to consider any matter with regard to the implementation of the present Convention.
 
-2. No later than six months after the entry into force of the present Convention, the Conference of the States Parties shall be convened by the Secretary-General of the United Nations. The subsequent meetings shall be convened by the Secretary-General biennially or upon the decision of the Conference of States Parties.
+2\. No later than six months after the entry into force of the present Convention, the Conference of the States Parties shall be convened by the Secretary-General of the United Nations. The subsequent meetings shall be convened by the Secretary-General biennially or upon the decision of the Conference of States Parties.
 
 ### Article 41. Depositary
 
@@ -5405,33 +5585,33 @@ The present Convention shall be subject to ratification by signatory States and 
 
 ### Article 44. Regional integration organizations
 
-1. “Regional integration organization” shall mean an organization constituted by sovereign States of a given region, to which its member States have transferred competence in respect of matters governed by the present Convention. Such organizations shall declare, in their instruments of formal confirmation or accession, the extent of their competence with respect to matters governed by the present Convention. Subsequently, they shall inform the depositary of any substantial modification in the extent of their competence.
+1\. “Regional integration organization” shall mean an organization constituted by sovereign States of a given region, to which its member States have transferred competence in respect of matters governed by the present Convention. Such organizations shall declare, in their instruments of formal confirmation or accession, the extent of their competence with respect to matters governed by the present Convention. Subsequently, they shall inform the depositary of any substantial modification in the extent of their competence.
 
-2. References to “States Parties” in the present Convention shall apply to such organizations within the limits of their competence.
+2\. References to “States Parties” in the present Convention shall apply to such organizations within the limits of their competence.
 
-3. For the purposes of article 45, paragraph 1, and article 47, paragraphs 2 and 3, of the present Convention, any instrument deposited by a regional integration organization shall not be counted.
+3\. For the purposes of article 45, paragraph 1, and article 47, paragraphs 2 and 3, of the present Convention, any instrument deposited by a regional integration organization shall not be counted.
 
-4. Regional integration organizations, in matters within their competence, may exercise their right to vote in the Conference of States Parties, with a number of votes equal to the number of their member States that are Parties to the present Convention. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
+4\. Regional integration organizations, in matters within their competence, may exercise their right to vote in the Conference of States Parties, with a number of votes equal to the number of their member States that are Parties to the present Convention. Such an organization shall not exercise its right to vote if any of its member States exercises its right, and vice versa.
 
 ### Article 45. Entry into force
 
-1. The present Convention shall enter into force on the thirtieth day after the deposit of the twentieth instrument of ratification or accession.
+1\. The present Convention shall enter into force on the thirtieth day after the deposit of the twentieth instrument of ratification or accession.
 
-2. For each State or regional integration organization ratifying, formally confirming or acceding to the present Convention after the deposit of the twentieth such instrument, the Convention shall enter into force on the thirtieth day after the deposit of its own such instrument.
+2\. For each State or regional integration organization ratifying, formally confirming or acceding to the present Convention after the deposit of the twentieth such instrument, the Convention shall enter into force on the thirtieth day after the deposit of its own such instrument.
 
 ### Article 46. Reservations
 
-1. Reservations incompatible with the object and purpose of the present Convention shall not be permitted.
+1\. Reservations incompatible with the object and purpose of the present Convention shall not be permitted.
 
-2. Reservations may be withdrawn at any time.
+2\. Reservations may be withdrawn at any time.
 
 ### Article 47. Amendments
 
-1. Any State Party may propose an amendment to the present Convention and submit it to the Secretary-General of the United Nations. The Secretary-General shall communicate any proposed amendments to States Parties, with a request to be notified whether they favour a conference of States Parties for the purpose of considering and deciding upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of two thirds of the States Parties present and voting shall be submitted by the Secretary-General to the General Assembly of the United Nations for approval and thereafter to all States Parties for acceptance.
+1\. Any State Party may propose an amendment to the present Convention and submit it to the Secretary-General of the United Nations. The Secretary-General shall communicate any proposed amendments to States Parties, with a request to be notified whether they favour a conference of States Parties for the purpose of considering and deciding upon the proposals. In the event that, within four months from the date of such communication, at least one third of the States Parties favour such a conference, the Secretary-General shall convene the conference under the auspices of the United Nations. Any amendment adopted by a majority of two thirds of the States Parties present and voting shall be submitted by the Secretary-General to the General Assembly of the United Nations for approval and thereafter to all States Parties for acceptance.
 
-2. An amendment adopted and approved in accordance with paragraph 1 of this article shall enter into force on the thirtieth day after the number of instruments of acceptance deposited reaches two thirds of the number of States Parties at the date of adoption of the amendment. Thereafter, the amendment shall enter into force for any State Party on the thirtieth day following the deposit of its own instrument of acceptance. An amendment shall be binding only on those States Parties which have accepted it.
+2\. An amendment adopted and approved in accordance with paragraph 1 of this article shall enter into force on the thirtieth day after the number of instruments of acceptance deposited reaches two thirds of the number of States Parties at the date of adoption of the amendment. Thereafter, the amendment shall enter into force for any State Party on the thirtieth day following the deposit of its own instrument of acceptance. An amendment shall be binding only on those States Parties which have accepted it.
 
-3. If so decided by the Conference of States Parties by consensus, an amendment adopted and approved in accordance with paragraph 1 of this article which relates exclusively to articles 34, 38, 39 and 40 shall enter into force for all States Parties on the thirtieth day after the number of instruments of acceptance deposited reaches two thirds of the number of States Parties at the date of adoption of the amendment.
+3\. If so decided by the Conference of States Parties by consensus, an amendment adopted and approved in accordance with paragraph 1 of this article which relates exclusively to articles 34, 38, 39 and 40 shall enter into force for all States Parties on the thirtieth day after the number of instruments of acceptance deposited reaches two thirds of the number of States Parties at the date of adoption of the amendment.
 
 ### Article 48. Denunciation
 
@@ -5450,6 +5630,10 @@ In witness thereof the undersigned plenipotentiaries, being duly authorized ther
 ## Vedlegg 12. Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne (norsk oversettelse)
 
 ### Konvensjon om rettighetene til mennesker med nedsatt funksjonsevne
+
+*Fortale*
+
+De stater som er part i denne konvensjon,
 
 1. som minner om de prinsipper som er fastslått i [De forente nasjoners pakt](traktat/1945-06-26-1), der det erkjennes at alle medlemmer av menneskeslekten har en iboende verdighet og verdi og like og umistelige rettigheter, og at dette er grunnlaget for frihet, rettferd og fred i verden,
 2. som erkjenner at De forente nasjoner, i [Verdenserklæringen om menneskerettighetene](traktat/1948-12-10-501) og i de internasjonale menneskerettskonvensjonene, har fastslått og blitt enige om at enhver har krav på alle de rettigheter og friheter som der er nevnt, uten å gjøre forskjell av noe slag,
@@ -5477,6 +5661,8 @@ In witness thereof the undersigned plenipotentiaries, being duly authorized ther
 24. som er overbevist om at familien er den naturlige og grunnleggende enhet i samfunnet, med rett til beskyttelse fra samfunnet og staten, og at mennesker med nedsatt funksjonsevne og deres familiemedlemmer bør gis den nødvendige beskyttelse og hjelp slik at familien kan bidra til at mennesker med nedsatt funksjonsevne kan nyte sine rettigheter fullt ut og på lik linje med andre,
 25. som er overbevist om at en omfattende og helhetlig internasjonal konvensjon for å fremme og verne om rettighetene og verdigheten til mennesker med nedsatt funksjonsevne, vil være et viktig bidrag for å rette opp den store sosiale skjevhet som mennesker med nedsatt funksjonsevne er blitt utsatt for, og fremme en likestilt deltakelse på alle områder innenfor det sivile, politiske, økonomiske, sosiale og kulturelle liv, både i industrialiserte land og i utviklingsland,
 
+er enige om følgende:
+
 ### Artikkel 1. Formål
 
 Denne konvensjon har som formål å fremme, verne om og sikre mennesker med nedsatt funksjonsevne full og likeverdig rett til å nyte alle menneskerettigheter og grunnleggende friheter, og å fremme respekten for deres iboende verdighet.
@@ -5493,51 +5679,51 @@ Prinsippene i denne konvensjon skal værerespekt for menneskers iboende verdighe
 
 ### Artikkel 4. Generelle forpliktelser
 
-1. Partene forplikter seg til å sikre og å fremme full gjennomføring av alle menneskerettigheter og grunnleggende friheter for alle mennesker med nedsatt funksjonsevne, uten diskriminering av noe slag på grunn av nedsatt funksjonsevne. For dette formål forplikter partene seg tilå treffe alle lovgivningsmessige, administrative og andre tiltak som er hensiktsmessige for å virkeliggjøre de rettigheter som er nedfelt i denne konvensjon,å treffe alle hensiktsmessige tiltak, herunder i lovs form, for å endre eller oppheve eksisterende lover, forskrifter, sedvane og praksis som innebærer diskriminering av mennesker med nedsatt funksjonsevne,å ta hensyn til at menneskerettighetene til mennesker med nedsatt funksjonsevne skal vernes om og fremmes i all politikk og alle programmer,å avstå fra alle handlinger og all praksis som er uforenlig med denne konvensjon, og å sikre at offentlige myndigheter og offentlige institusjoner handler i tråd med denne konvensjon,å treffe alle hensiktsmessige tiltak for å sikre at ingen personer, organisasjoner eller private foretak diskriminerer mennesker på grunn av nedsatt funksjonsevne,å iverksette eller fremme forskning på og utvikling av varer, tjenester, utstyr og anlegg som er universelt utformet i samsvar med definisjonen i artikkel 2 i denne konvensjon, og som bør kreve minst mulig tilpassing og lavest mulige kostnader, for å ivareta de spesielle behovene til en person med nedsatt funksjonsevne, å fremme deres tilgjengelighet og bruk, og å fremme universell utforming i utviklingen av standarder og retningslinjer,å iverksette eller fremme forskning på og utvikling av ny teknologi, og å fremme tilgjengelighet og bruk av disse, herunder informasjons- og kommunikasjonsteknologi, mobilitetshjelpemidler, utstyr og tekniske hjelpemidler som er hensiktsmessig for mennesker med nedsatt funksjonsevne, med prioritet på teknologi til en overkommelig pris,å gi mennesker med nedsatt funksjonsevne informasjon i en tilgjengelig form om mobilitetshjelpemidler, utstyr og tekniske hjelpemidler, herunder ny teknologi, samt andre former for bistand, tjenester og andre ressurser,å fremme opplæring i de rettigheter som er nedfelt i denne konvensjon, for fagfolk og personale som arbeider med mennesker med nedsatt funksjonsevne, slik at de lettere kan sørge for den bistand og de tjenester som garanteres gjennom disse rettigheter.
+1\. Partene forplikter seg til å sikre og å fremme full gjennomføring av alle menneskerettigheter og grunnleggende friheter for alle mennesker med nedsatt funksjonsevne, uten diskriminering av noe slag på grunn av nedsatt funksjonsevne. For dette formål forplikter partene seg tilå treffe alle lovgivningsmessige, administrative og andre tiltak som er hensiktsmessige for å virkeliggjøre de rettigheter som er nedfelt i denne konvensjon,å treffe alle hensiktsmessige tiltak, herunder i lovs form, for å endre eller oppheve eksisterende lover, forskrifter, sedvane og praksis som innebærer diskriminering av mennesker med nedsatt funksjonsevne,å ta hensyn til at menneskerettighetene til mennesker med nedsatt funksjonsevne skal vernes om og fremmes i all politikk og alle programmer,å avstå fra alle handlinger og all praksis som er uforenlig med denne konvensjon, og å sikre at offentlige myndigheter og offentlige institusjoner handler i tråd med denne konvensjon,å treffe alle hensiktsmessige tiltak for å sikre at ingen personer, organisasjoner eller private foretak diskriminerer mennesker på grunn av nedsatt funksjonsevne,å iverksette eller fremme forskning på og utvikling av varer, tjenester, utstyr og anlegg som er universelt utformet i samsvar med definisjonen i artikkel 2 i denne konvensjon, og som bør kreve minst mulig tilpassing og lavest mulige kostnader, for å ivareta de spesielle behovene til en person med nedsatt funksjonsevne, å fremme deres tilgjengelighet og bruk, og å fremme universell utforming i utviklingen av standarder og retningslinjer,å iverksette eller fremme forskning på og utvikling av ny teknologi, og å fremme tilgjengelighet og bruk av disse, herunder informasjons- og kommunikasjonsteknologi, mobilitetshjelpemidler, utstyr og tekniske hjelpemidler som er hensiktsmessig for mennesker med nedsatt funksjonsevne, med prioritet på teknologi til en overkommelig pris,å gi mennesker med nedsatt funksjonsevne informasjon i en tilgjengelig form om mobilitetshjelpemidler, utstyr og tekniske hjelpemidler, herunder ny teknologi, samt andre former for bistand, tjenester og andre ressurser,å fremme opplæring i de rettigheter som er nedfelt i denne konvensjon, for fagfolk og personale som arbeider med mennesker med nedsatt funksjonsevne, slik at de lettere kan sørge for den bistand og de tjenester som garanteres gjennom disse rettigheter.
 
-2. Hver part forplikter seg til å treffe tiltak så langt det er mulig med de ressurser som er til rådighet, slik at de økonomiske, sosiale og kulturelle rettigheter gradvis blir gjennomført fullt ut, om nødvendig innenfor rammen av internasjonalt samarbeid, uten at dette berører de forpliktelser i denne konvensjon som i henhold til folkeretten umiddelbart kommer til anvendelse.
+2\. Hver part forplikter seg til å treffe tiltak så langt det er mulig med de ressurser som er til rådighet, slik at de økonomiske, sosiale og kulturelle rettigheter gradvis blir gjennomført fullt ut, om nødvendig innenfor rammen av internasjonalt samarbeid, uten at dette berører de forpliktelser i denne konvensjon som i henhold til folkeretten umiddelbart kommer til anvendelse.
 
-3. I arbeidet med å utvikle og gjennomføre lovgivning og politikk som tar sikte på å gjennomføre denne konvensjon, og i andre beslutningsprosesser som gjelder spørsmål knyttet til mennesker med nedsatt funksjonsevne, skal partene aktivt trekke inn og rådføre seg inngående med mennesker med nedsatt funksjonsevne, også barn med nedsatt funksjonsevne, gjennom de organisasjoner som representerer dem.
+3\. I arbeidet med å utvikle og gjennomføre lovgivning og politikk som tar sikte på å gjennomføre denne konvensjon, og i andre beslutningsprosesser som gjelder spørsmål knyttet til mennesker med nedsatt funksjonsevne, skal partene aktivt trekke inn og rådføre seg inngående med mennesker med nedsatt funksjonsevne, også barn med nedsatt funksjonsevne, gjennom de organisasjoner som representerer dem.
 
-4. Ingen bestemmelse i denne konvensjon skal berøre bestemmelser som i større grad kan bidra til å virkeliggjøre rettighetene til mennesker med nedsatt funksjonsevne, og som kan inngå i en parts lovverk eller i en folkerettslig tekst som er i kraft for vedkommende stat. Ingen innskrenkning i eller avvikelse fra noen av de menneskerettigheter og grunnleggende friheter som anerkjennes eller gjelder i noen konvensjonsstat i kraft av lov, overenskomst, forskrift eller sedvane, skal kunne foretas under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller friheter eller anerkjenner dem i mindre utstrekning.
+4\. Ingen bestemmelse i denne konvensjon skal berøre bestemmelser som i større grad kan bidra til å virkeliggjøre rettighetene til mennesker med nedsatt funksjonsevne, og som kan inngå i en parts lovverk eller i en folkerettslig tekst som er i kraft for vedkommende stat. Ingen innskrenkning i eller avvikelse fra noen av de menneskerettigheter og grunnleggende friheter som anerkjennes eller gjelder i noen konvensjonsstat i kraft av lov, overenskomst, forskrift eller sedvane, skal kunne foretas under påberopelse av at denne konvensjon ikke anerkjenner slike rettigheter eller friheter eller anerkjenner dem i mindre utstrekning.
 
-5. Bestemmelsene i denne konvensjon skal gjelde i alle deler av en forbundsstat, uten begrensninger eller unntak.
+5\. Bestemmelsene i denne konvensjon skal gjelde i alle deler av en forbundsstat, uten begrensninger eller unntak.
 
 ### Artikkel 5. Likhet og ikke-diskriminering
 
-1. Partene erkjenner at alle er like for og etter loven, og har rett til den samme beskyttelse og den samme fordel av loven, uten noen form for diskriminering.
+1\. Partene erkjenner at alle er like for og etter loven, og har rett til den samme beskyttelse og den samme fordel av loven, uten noen form for diskriminering.
 
-2. Partene skal forby enhver form for diskriminering på grunn av nedsatt funksjonsevne og sikre mennesker med nedsatt funksjonsevne lik og effektiv rettslig beskyttelse mot diskriminering, uansett grunn.
+2\. Partene skal forby enhver form for diskriminering på grunn av nedsatt funksjonsevne og sikre mennesker med nedsatt funksjonsevne lik og effektiv rettslig beskyttelse mot diskriminering, uansett grunn.
 
-3. Med sikte på å fremme likhet og avskaffe diskriminering skal partene treffe alle hensiktsmessige tiltak for å sikre en rimelig tilrettelegging.
+3\. Med sikte på å fremme likhet og avskaffe diskriminering skal partene treffe alle hensiktsmessige tiltak for å sikre en rimelig tilrettelegging.
 
-4. Særlige tiltak som er nødvendige for å framskynde eller oppnå faktisk likhet for mennesker med nedsatt funksjonsevne, skal ikke anses som diskriminering etter denne konvensjon.
+4\. Særlige tiltak som er nødvendige for å framskynde eller oppnå faktisk likhet for mennesker med nedsatt funksjonsevne, skal ikke anses som diskriminering etter denne konvensjon.
 
 ### Artikkel 6. Kvinner med nedsatt funksjonsevne
 
-1. Partene erkjenner at kvinner og jenter med nedsatt funksjonsevne opplever multippel diskriminering, og skal i denne forbindelse treffe tiltak for å sikre at de kan nyte alle menneskerettigheter og grunnleggende friheter fullt ut og på lik linje med andre.
+1\. Partene erkjenner at kvinner og jenter med nedsatt funksjonsevne opplever multippel diskriminering, og skal i denne forbindelse treffe tiltak for å sikre at de kan nyte alle menneskerettigheter og grunnleggende friheter fullt ut og på lik linje med andre.
 
-2. Partene skal treffe alle hensiktsmessige tiltak for å sikre kvinner fullgode utviklingsmuligheter, framgang og større innflytelse, med sikte på å garantere at kvinner får utøve og nyte de menneskerettigheter og grunnleggende friheter som er omhandlet i denne konvensjon.
+2\. Partene skal treffe alle hensiktsmessige tiltak for å sikre kvinner fullgode utviklingsmuligheter, framgang og større innflytelse, med sikte på å garantere at kvinner får utøve og nyte de menneskerettigheter og grunnleggende friheter som er omhandlet i denne konvensjon.
 
 ### Artikkel 7. Barn med nedsatt funksjonsevne
 
-1. Partene skal treffe alle hensiktsmessige tiltak for å sikre at barn med nedsatt funksjonsevne kan nyte alle menneskerettigheter og grunnleggende friheter fullt ut og på lik linje med andre barn.
+1\. Partene skal treffe alle hensiktsmessige tiltak for å sikre at barn med nedsatt funksjonsevne kan nyte alle menneskerettigheter og grunnleggende friheter fullt ut og på lik linje med andre barn.
 
-2. Ved alle handlinger som berører barn med nedsatt funksjonsevne, skal barnets beste være et grunnleggende hensyn.
+2\. Ved alle handlinger som berører barn med nedsatt funksjonsevne, skal barnets beste være et grunnleggende hensyn.
 
-3. Partene skal sikre at barn med nedsatt funksjonsevne har rett til fritt å gi uttrykk for sine synspunkter i alle forhold som berører dem, og at deres synspunkter tillegges behørig vekt i samsvar med barnas alder og modenhet, på lik linje med andre barn, og at de har krav på hjelp tilpasset deres nedsatte funksjonsevne og alder for å kunne utøve denne rettigheten.
+3\. Partene skal sikre at barn med nedsatt funksjonsevne har rett til fritt å gi uttrykk for sine synspunkter i alle forhold som berører dem, og at deres synspunkter tillegges behørig vekt i samsvar med barnas alder og modenhet, på lik linje med andre barn, og at de har krav på hjelp tilpasset deres nedsatte funksjonsevne og alder for å kunne utøve denne rettigheten.
 
 ### Artikkel 8. Bevisstgjøring
 
-1. Partene forplikter seg til å treffe øyeblikkelige, effektive og hensiktsmessige tiltakfor økt bevisstgjøring i hele samfunnet, også i familien, om mennesker med nedsatt funksjonsevne, og å fremme respekt for rettighetene og verdigheten til mennesker med nedsatt funksjonsevne,for å bekjempe stereotypier, fordommer og skadelig praksis knyttet til mennesker med nedsatt funksjonsevne, også de basert på kjønn og alder, på alle livets områder,å øke bevisstheten om hva mennesker med nedsatt funksjonsevne er i stand til å gjøre, og hva de kan bidra med.
+1\. Partene forplikter seg til å treffe øyeblikkelige, effektive og hensiktsmessige tiltakfor økt bevisstgjøring i hele samfunnet, også i familien, om mennesker med nedsatt funksjonsevne, og å fremme respekt for rettighetene og verdigheten til mennesker med nedsatt funksjonsevne,for å bekjempe stereotypier, fordommer og skadelig praksis knyttet til mennesker med nedsatt funksjonsevne, også de basert på kjønn og alder, på alle livets områder,å øke bevisstheten om hva mennesker med nedsatt funksjonsevne er i stand til å gjøre, og hva de kan bidra med.
 
-2. Tiltakene for å oppnå dette innbefatterå iverksette og opprettholde effektive offentlige bevisstgjøringskampanjer som tar sikte påå skape forståelse for rettighetene til mennesker med nedsatt funksjonsevne,å fremme positive holdninger til og større samfunnsmessig bevissthet om mennesker med nedsatt funksjonsevne,å fremme anerkjennelsen av de ferdigheter, kunnskaper og evner som mennesker med nedsatt funksjonsevne har, og av hva de kan bidra med på arbeidsplassen og i arbeidsmarkedet,å fremme en respektfull holdning til rettighetene til mennesker med nedsatt funksjonsevne, på alle nivåer i utdanningssystemet, også hos alle barn fra ung alder,å oppmuntre alle medier til å fremstille mennesker med nedsatt funksjonsevne på en måte som er i tråd med denne konvensjons formål,å fremme opplæringsprogrammer for bevisstgjøring om mennesker med nedsatt funksjonsevne og deres rettigheter.
+2\. Tiltakene for å oppnå dette innbefatterå iverksette og opprettholde effektive offentlige bevisstgjøringskampanjer som tar sikte påå skape forståelse for rettighetene til mennesker med nedsatt funksjonsevne,å fremme positive holdninger til og større samfunnsmessig bevissthet om mennesker med nedsatt funksjonsevne,å fremme anerkjennelsen av de ferdigheter, kunnskaper og evner som mennesker med nedsatt funksjonsevne har, og av hva de kan bidra med på arbeidsplassen og i arbeidsmarkedet,å fremme en respektfull holdning til rettighetene til mennesker med nedsatt funksjonsevne, på alle nivåer i utdanningssystemet, også hos alle barn fra ung alder,å oppmuntre alle medier til å fremstille mennesker med nedsatt funksjonsevne på en måte som er i tråd med denne konvensjons formål,å fremme opplæringsprogrammer for bevisstgjøring om mennesker med nedsatt funksjonsevne og deres rettigheter.
 
 ### Artikkel 9. Tilgjengelighet
 
-1. For at mennesker med nedsatt funksjonsevne skal få et selvstendig liv og kunne delta fullt ut på alle livets områder, skal partene treffe hensiktsmessige tiltak for å sikre at mennesker med nedsatt funksjonsevne på lik linje med andre får tilgang til det fysiske miljøet, til transport, til informasjon og kommunikasjon, herunder informasjons- og kommunikasjonsteknologi og -systemer, og til andre tilbud og tjenester som er åpne for eller tilbys allmennheten, både i byene og i distriktene. Disse tiltakene, som også skal inkludere å identifisere og fjerne det som hindrer og vanskeliggjør tilgjengeligheten, skal blant annet gjelde forbygninger, veier, transport og andre innendørs og utendørs tilbud, herunder skoler, boliger, helsetjenestens lokaler og arbeidsplasser,informasjon, kommunikasjon og andre tjenester, herunder elektroniske tjenester og nødtjenester.
+1\. For at mennesker med nedsatt funksjonsevne skal få et selvstendig liv og kunne delta fullt ut på alle livets områder, skal partene treffe hensiktsmessige tiltak for å sikre at mennesker med nedsatt funksjonsevne på lik linje med andre får tilgang til det fysiske miljøet, til transport, til informasjon og kommunikasjon, herunder informasjons- og kommunikasjonsteknologi og -systemer, og til andre tilbud og tjenester som er åpne for eller tilbys allmennheten, både i byene og i distriktene. Disse tiltakene, som også skal inkludere å identifisere og fjerne det som hindrer og vanskeliggjør tilgjengeligheten, skal blant annet gjelde forbygninger, veier, transport og andre innendørs og utendørs tilbud, herunder skoler, boliger, helsetjenestens lokaler og arbeidsplasser,informasjon, kommunikasjon og andre tjenester, herunder elektroniske tjenester og nødtjenester.
 
-2. Partene skal også treffe alle hensiktsmessige tiltak forå utvikle, fremme og overvåke gjennomføringen av minstestandarder og retningslinjer for tilgjengeligheten til anlegg og tjenester som er åpne for eller tilbys allmennheten,å sikre at private foretak som tilbyr anlegg og tjenester som er åpne for eller tilbys allmennheten, tar hensyn til alle aspekter ved tilgjengelighet for mennesker med nedsatt funksjonsevne,å sørge for at involverte parter gis opplæring om tilgjengelighet for mennesker med nedsatt funksjonsevne,å sørge for at bygninger og andre anlegg som er åpne for allmennheten, har skilt i punktskrift og i en form som er lett å lese og enkel å forstå,å sørge for ulike former for assistanse fra mennesker eller dyr, og fra formidlere, herunder guider, opplesere og profesjonelle tegnspråktolker, for å lette tilgjengeligheten til bygninger og andre anlegg som er åpne for allmennheten,å fremme andre hensiktsmessige former for assistanse og støtte til mennesker med nedsatt funksjonsevne for å sikre at de får tilgang til informasjon,å fremme tilgangen for mennesker med nedsatt funksjonsevne til nye informasjons- og kommunikasjonsteknologier og -systemer, herunder Internett,å fremme utforming, utvikling, produksjon og distribusjon av tilgjengelige informasjons- og kommunikasjonsteknologier og -systemer på et tidlig stadium, slik at disse teknologier og systemer blir tilgjengelig til lavest mulig pris.
+2\. Partene skal også treffe alle hensiktsmessige tiltak forå utvikle, fremme og overvåke gjennomføringen av minstestandarder og retningslinjer for tilgjengeligheten til anlegg og tjenester som er åpne for eller tilbys allmennheten,å sikre at private foretak som tilbyr anlegg og tjenester som er åpne for eller tilbys allmennheten, tar hensyn til alle aspekter ved tilgjengelighet for mennesker med nedsatt funksjonsevne,å sørge for at involverte parter gis opplæring om tilgjengelighet for mennesker med nedsatt funksjonsevne,å sørge for at bygninger og andre anlegg som er åpne for allmennheten, har skilt i punktskrift og i en form som er lett å lese og enkel å forstå,å sørge for ulike former for assistanse fra mennesker eller dyr, og fra formidlere, herunder guider, opplesere og profesjonelle tegnspråktolker, for å lette tilgjengeligheten til bygninger og andre anlegg som er åpne for allmennheten,å fremme andre hensiktsmessige former for assistanse og støtte til mennesker med nedsatt funksjonsevne for å sikre at de får tilgang til informasjon,å fremme tilgangen for mennesker med nedsatt funksjonsevne til nye informasjons- og kommunikasjonsteknologier og -systemer, herunder Internett,å fremme utforming, utvikling, produksjon og distribusjon av tilgjengelige informasjons- og kommunikasjonsteknologier og -systemer på et tidlig stadium, slik at disse teknologier og systemer blir tilgjengelig til lavest mulig pris.
 
 ### Artikkel 10. Retten til liv
 
@@ -5549,45 +5735,45 @@ Partene skal, i samsvar med sine forpliktelser etter folkeretten, herunder inter
 
 ### Artikkel 12. Lik rettslig anerkjennelse
 
-1. Partene bekrefter at mennesker med nedsatt funksjonsevne har rett til å anerkjennes overalt som personer i rettslig henseende.
+1\. Partene bekrefter at mennesker med nedsatt funksjonsevne har rett til å anerkjennes overalt som personer i rettslig henseende.
 
-2. Partene skal erkjenne at mennesker med nedsatt funksjonsevne har rettslig handleevne på lik linje med andre, på alle livets områder.
+2\. Partene skal erkjenne at mennesker med nedsatt funksjonsevne har rettslig handleevne på lik linje med andre, på alle livets områder.
 
-3. Partene skal treffe hensiktsmessige tiltak for å gi mennesker med nedsatt funksjonsevne tilgang til den støtte de kan trenge for å kunne utøve sin rettslige handleevne.
+3\. Partene skal treffe hensiktsmessige tiltak for å gi mennesker med nedsatt funksjonsevne tilgang til den støtte de kan trenge for å kunne utøve sin rettslige handleevne.
 
-4. Partene skal sikre at alle tiltak som gjelder utøvelsen av rettslig handleevne, har bestemmelser om hensiktsmessige og effektive beskyttelsesmekanismer for å hindre misbruk i samsvar med internasjonale menneskerettighetsbestemmelser. Slike beskyttelsesmekanismer skal sikre at tiltak som gjelder utøvelsen av rettslig handleevne, respekterer vedkommende persons rettigheter, vilje og preferanser, at det ikke foreligger noen interessekonflikt og utilbørlig påvirkning, at de er forholdsmessige og tilpasset vedkommendes omstendigheter, og at de gjelder for kortest mulig tid og gjennomgås jevnlig av en kompetent, uavhengig og upartisk myndighet eller rettsinstans. Beskyttelsesmekanismene skal stå i forhold til i hvilken grad tiltakene berører vedkommendes rettigheter og interesser.
+4\. Partene skal sikre at alle tiltak som gjelder utøvelsen av rettslig handleevne, har bestemmelser om hensiktsmessige og effektive beskyttelsesmekanismer for å hindre misbruk i samsvar med internasjonale menneskerettighetsbestemmelser. Slike beskyttelsesmekanismer skal sikre at tiltak som gjelder utøvelsen av rettslig handleevne, respekterer vedkommende persons rettigheter, vilje og preferanser, at det ikke foreligger noen interessekonflikt og utilbørlig påvirkning, at de er forholdsmessige og tilpasset vedkommendes omstendigheter, og at de gjelder for kortest mulig tid og gjennomgås jevnlig av en kompetent, uavhengig og upartisk myndighet eller rettsinstans. Beskyttelsesmekanismene skal stå i forhold til i hvilken grad tiltakene berører vedkommendes rettigheter og interesser.
 
-5. Med forbehold for bestemmelsene i denne artikkel skal partene treffe alle tiltak som er hensiktsmessige og effektive for å sikre at mennesker med nedsatt funksjonsevne har lik rett til å eie eller arve eiendom, til å kontrollere sine egne økonomiske forhold, og til lik tilgang til banklån, pantelån og andre former for kreditt, og skal sikre at mennesker med nedsatt funksjonsevne ikke vilkårlig blir fratatt sin eiendom.
+5\. Med forbehold for bestemmelsene i denne artikkel skal partene treffe alle tiltak som er hensiktsmessige og effektive for å sikre at mennesker med nedsatt funksjonsevne har lik rett til å eie eller arve eiendom, til å kontrollere sine egne økonomiske forhold, og til lik tilgang til banklån, pantelån og andre former for kreditt, og skal sikre at mennesker med nedsatt funksjonsevne ikke vilkårlig blir fratatt sin eiendom.
 
 ### Artikkel 13. Tilgang til rettssystemet
 
-1. Partene skal sikre at mennesker med nedsatt funksjonsevne har effektiv tilgang til rettssystemet på lik linje med andre, blant annet ved tilrettelegging av prosedyrer og tilrettelegging i forhold til alder, slik at de lettere kan fungere effektivt som direkte og indirekte deltakere, herunder som vitner, i alle ledd i saksgangen, også under etterforskning og på andre forberedende stadier.
+1\. Partene skal sikre at mennesker med nedsatt funksjonsevne har effektiv tilgang til rettssystemet på lik linje med andre, blant annet ved tilrettelegging av prosedyrer og tilrettelegging i forhold til alder, slik at de lettere kan fungere effektivt som direkte og indirekte deltakere, herunder som vitner, i alle ledd i saksgangen, også under etterforskning og på andre forberedende stadier.
 
-2. For å bidra til å sikre effektiv tilgang til rettssystemet for mennesker med nedsatt funksjonsevne skal partene fremme passende opplæring for dem som arbeider innenfor rettspleien, herunder politi og fengselsansatte.
+2\. For å bidra til å sikre effektiv tilgang til rettssystemet for mennesker med nedsatt funksjonsevne skal partene fremme passende opplæring for dem som arbeider innenfor rettspleien, herunder politi og fengselsansatte.
 
 ### Artikkel 14. Frihet og personlig sikkerhet
 
-1. Partene skal sikre at ethvert menneske med nedsatt funksjonsevne på lik linje med andrehar rett til frihet og personlig sikkerhet,ikke berøves friheten på ulovlig eller vilkårlig måte, og at enhver frihetsberøvelse skjer på lovlig måte, og at nedsatt funksjonsevne ikke i noe tilfelle skal rettferdiggjøre frihetsberøvelse.
+1\. Partene skal sikre at ethvert menneske med nedsatt funksjonsevne på lik linje med andrehar rett til frihet og personlig sikkerhet,ikke berøves friheten på ulovlig eller vilkårlig måte, og at enhver frihetsberøvelse skjer på lovlig måte, og at nedsatt funksjonsevne ikke i noe tilfelle skal rettferdiggjøre frihetsberøvelse.
 
-2. Partene skal sikre at mennesker med nedsatt funksjonsevne som berøves sin frihet gjennom en hvilken som helst prosess, har krav på garantier på lik linje med andre i samsvar med internasjonale menneskerettighetsbestemmelser, og skal behandles i samsvar med målene og prinsippene i denne konvensjon, herunder ved gjennomføring av rimelig tilrettelegging.
+2\. Partene skal sikre at mennesker med nedsatt funksjonsevne som berøves sin frihet gjennom en hvilken som helst prosess, har krav på garantier på lik linje med andre i samsvar med internasjonale menneskerettighetsbestemmelser, og skal behandles i samsvar med målene og prinsippene i denne konvensjon, herunder ved gjennomføring av rimelig tilrettelegging.
 
 ### Artikkel 15. Frihet fra tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff
 
-1. Ingen skal utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff. I særdeleshet skal ingen, uten sitt frie samtykke, utsettes for medisinske eller vitenskapelige eksperimenter.
+1\. Ingen skal utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff. I særdeleshet skal ingen, uten sitt frie samtykke, utsettes for medisinske eller vitenskapelige eksperimenter.
 
-2. Partene skal treffe alle effektive lovgivningsmessige, administrative, rettslige eller andre tiltak for å hindre at mennesker med nedsatt funksjonsevne, på lik linje med andre, utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff.
+2\. Partene skal treffe alle effektive lovgivningsmessige, administrative, rettslige eller andre tiltak for å hindre at mennesker med nedsatt funksjonsevne, på lik linje med andre, utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff.
 
 ### Artikkel 16. Frihet fra utnytting, vold og misbruk
 
-1. Partene skal treffe alle egnede lovgivningsmessige, administrative, sosiale, opplæringsmessige og andre hensiktsmessige tiltak for å beskytte mennesker med nedsatt funksjonsevne mot alle former for utnytting, vold og misbruk, både i og utenfor hjemmet, herunder kjønnsbasert utnytting, vold og misbruk.
+1\. Partene skal treffe alle egnede lovgivningsmessige, administrative, sosiale, opplæringsmessige og andre hensiktsmessige tiltak for å beskytte mennesker med nedsatt funksjonsevne mot alle former for utnytting, vold og misbruk, både i og utenfor hjemmet, herunder kjønnsbasert utnytting, vold og misbruk.
 
-2. Partene skal også treffe alle hensiktsmessige tiltak for å forhindre alle former for utnytting, vold og misbruk, blant annet ved å sørge for hensiktsmessig hjelp og støtte, tilpasset kjønn og alder, til mennesker med nedsatt funksjonsevne og deres familier og omsorgspersoner, herunder ved å gi informasjon og opplæring om hvordan utnytting, vold og misbruk kan unngås, oppdages og innrapporteres. Partene skal sikre at tjenester som skal verne og beskytte, tar hensyn til alder, kjønn og nedsatt funksjonsevne.
+2\. Partene skal også treffe alle hensiktsmessige tiltak for å forhindre alle former for utnytting, vold og misbruk, blant annet ved å sørge for hensiktsmessig hjelp og støtte, tilpasset kjønn og alder, til mennesker med nedsatt funksjonsevne og deres familier og omsorgspersoner, herunder ved å gi informasjon og opplæring om hvordan utnytting, vold og misbruk kan unngås, oppdages og innrapporteres. Partene skal sikre at tjenester som skal verne og beskytte, tar hensyn til alder, kjønn og nedsatt funksjonsevne.
 
-3. Partene skal, for å hindre alle former for utnytting, vold og misbruk, sikre at uavhengige myndigheter fører effektivt tilsyn med alle tilbud og programmer som er utformet for mennesker med nedsatt funksjonsevne.
+3\. Partene skal, for å hindre alle former for utnytting, vold og misbruk, sikre at uavhengige myndigheter fører effektivt tilsyn med alle tilbud og programmer som er utformet for mennesker med nedsatt funksjonsevne.
 
-4. Partene skal treffe alle hensiktsmessige tiltak for å fremme fysisk, kognitiv og psykologisk restituering, rehabilitering og sosial reintegrering for mennesker med nedsatt funksjonsevne som er ofre for enhver form for utnytting, vold eller misbruk, blant annet ved å tilby tjenester som verner og beskytter. Restitueringen og reintegreringen skal finne sted i omgivelser som fremmer den enkeltes helse, velferd, selvrespekt, verdighet og selvstendighet, og som tar hensyn til kjønns- og aldersspesifikke behov.
+4\. Partene skal treffe alle hensiktsmessige tiltak for å fremme fysisk, kognitiv og psykologisk restituering, rehabilitering og sosial reintegrering for mennesker med nedsatt funksjonsevne som er ofre for enhver form for utnytting, vold eller misbruk, blant annet ved å tilby tjenester som verner og beskytter. Restitueringen og reintegreringen skal finne sted i omgivelser som fremmer den enkeltes helse, velferd, selvrespekt, verdighet og selvstendighet, og som tar hensyn til kjønns- og aldersspesifikke behov.
 
-5. Partene skal vedta effektiv lovgivning og politikk, herunder lovgivning og politikk som fokuserer på kvinner og barn, for å sikre at tilfeller av utnytting av og vold og misbruk mot mennesker med nedsatt funksjonsevne oppdages, etterforskes og, når det er hensiktsmessig, straffeforfølges.
+5\. Partene skal vedta effektiv lovgivning og politikk, herunder lovgivning og politikk som fokuserer på kvinner og barn, for å sikre at tilfeller av utnytting av og vold og misbruk mot mennesker med nedsatt funksjonsevne oppdages, etterforskes og, når det er hensiktsmessig, straffeforfølges.
 
 ### Artikkel 17. Vern om personlig integritet
 
@@ -5595,9 +5781,9 @@ Ethvert menneske med nedsatt funksjonsevne har rett til respekt for sin fysiske 
 
 ### Artikkel 18. Statsborgerskap og bevegelsesfrihet
 
-1. Partene skal anerkjenne den rett som tilkommer mennesker med nedsatt funksjonsevne, til å bevege seg fritt, til fritt å velge bosted og til et statsborgerskap, på lik linje med andre, blant annet ved å sikre at mennesker med nedsatt funksjonsevnehar rett til å erverve og endre statsborgerskap, og ikke vilkårlig eller på grunn av nedsatt funksjonsevne fratas sitt statsborgerskap,ikke på grunn av nedsatt funksjonsevne fratas sin mulighet til å anskaffe, være i besittelse av og benytte dokumentasjon på statsborgerskap eller annen identifikasjon, eller til å benytte relevante prosesser, slik som innvandringsprosedyrer, som kan være nødvendige for å gjøre det lettere å utøve retten til å bevege seg fritt,har rett til å forlate et hvilket som helst land, også sitt eget,ikke vilkårlig eller på grunn av nedsatt funksjonsevne berøves retten til å reise inn i sitt eget land.
+1\. Partene skal anerkjenne den rett som tilkommer mennesker med nedsatt funksjonsevne, til å bevege seg fritt, til fritt å velge bosted og til et statsborgerskap, på lik linje med andre, blant annet ved å sikre at mennesker med nedsatt funksjonsevnehar rett til å erverve og endre statsborgerskap, og ikke vilkårlig eller på grunn av nedsatt funksjonsevne fratas sitt statsborgerskap,ikke på grunn av nedsatt funksjonsevne fratas sin mulighet til å anskaffe, være i besittelse av og benytte dokumentasjon på statsborgerskap eller annen identifikasjon, eller til å benytte relevante prosesser, slik som innvandringsprosedyrer, som kan være nødvendige for å gjøre det lettere å utøve retten til å bevege seg fritt,har rett til å forlate et hvilket som helst land, også sitt eget,ikke vilkårlig eller på grunn av nedsatt funksjonsevne berøves retten til å reise inn i sitt eget land.
 
-2. Barn med nedsatt funksjonsevne skal registreres umiddelbart etter fødselen, og skal fra fødselen ha rett til et navn, rett til å erverve et statsborgerskap og, så langt det er mulig, rett til å kjenne sine foreldre og få omsorg fra dem.
+2\. Barn med nedsatt funksjonsevne skal registreres umiddelbart etter fødselen, og skal fra fødselen ha rett til et navn, rett til å erverve et statsborgerskap og, så langt det er mulig, rett til å kjenne sine foreldre og få omsorg fra dem.
 
 ### Artikkel 19. Retten til et selvstendig liv og til å være en del av samfunnet
 
@@ -5613,33 +5799,33 @@ Partene skal treffe alle hensiktsmessige tiltak for å sikre at mennesker med ne
 
 ### Artikkel 22. Respekt for privatlivet
 
-1. Ingen person med nedsatt funksjonsevne skal, uansett bosted eller boform, utsettes for vilkårlige eller ulovlige inngrep i privat- eller familieliv, hjem eller korrespondanse eller andre former for kommunikasjon, eller ulovlige angrep på ære eller omdømme. Mennesker med nedsatt funksjonsevne har rett til lovens beskyttelse mot slike inngrep eller angrep.
+1\. Ingen person med nedsatt funksjonsevne skal, uansett bosted eller boform, utsettes for vilkårlige eller ulovlige inngrep i privat- eller familieliv, hjem eller korrespondanse eller andre former for kommunikasjon, eller ulovlige angrep på ære eller omdømme. Mennesker med nedsatt funksjonsevne har rett til lovens beskyttelse mot slike inngrep eller angrep.
 
-2. Partene skal beskytte personopplysninger og opplysninger om helse og rehabilitering for mennesker med nedsatt funksjonsevne, på lik linje med andre.
+2\. Partene skal beskytte personopplysninger og opplysninger om helse og rehabilitering for mennesker med nedsatt funksjonsevne, på lik linje med andre.
 
 ### Artikkel 23. Respekt for hjemmet og familien
 
-1. Partene skal treffe effektive og hensiktsmessige tiltak for å avskaffe diskriminering av mennesker med nedsatt funksjonsevne i alle saker som gjelder ekteskap, familie, foreldrerollen og personlige relasjoner, slik at de behandles på lik linje med andre, med sikte på å sikreanerkjennelse av den rett som tilkommer alle mennesker med nedsatt funksjonsevne som er i gifteferdig alder, til å inngå ekteskap og stifte familie på basis av de fremtidige ektefellers frie og uforbeholdne samtykke,anerkjennelse av den rett som tilkommer mennesker med nedsatt funksjonsevne, til fritt og ansvarlig å treffe beslutning om antall barn og avstand mellom barnefødsler, og til tilgang til alderstilpasset opplysning og opplæring om reproduksjon og familieplanlegging, samt at de midler som er nødvendige for at de kan utøve disse rettighetene, skaffes til veie,at mennesker med nedsatt funksjonsevne, herunder barn, beholder sin fruktbarhet på lik linje med andre.
+1\. Partene skal treffe effektive og hensiktsmessige tiltak for å avskaffe diskriminering av mennesker med nedsatt funksjonsevne i alle saker som gjelder ekteskap, familie, foreldrerollen og personlige relasjoner, slik at de behandles på lik linje med andre, med sikte på å sikreanerkjennelse av den rett som tilkommer alle mennesker med nedsatt funksjonsevne som er i gifteferdig alder, til å inngå ekteskap og stifte familie på basis av de fremtidige ektefellers frie og uforbeholdne samtykke,anerkjennelse av den rett som tilkommer mennesker med nedsatt funksjonsevne, til fritt og ansvarlig å treffe beslutning om antall barn og avstand mellom barnefødsler, og til tilgang til alderstilpasset opplysning og opplæring om reproduksjon og familieplanlegging, samt at de midler som er nødvendige for at de kan utøve disse rettighetene, skaffes til veie,at mennesker med nedsatt funksjonsevne, herunder barn, beholder sin fruktbarhet på lik linje med andre.
 
-2. Partene skal sikre de rettigheter og det ansvar som tilkommer mennesker med nedsatt funksjonsevne i forbindelse med vergemål, formynderskap, omsorg, adopsjon av barn eller liknende institutter når disse finnes i intern lovgivning; hensynet til barna skal i alle tilfeller komme i første rekke. Partene skal gi mennesker med nedsatt funksjonsevne hensiktsmessig hjelp til å utøve ansvaret for oppfostring av barn.
+2\. Partene skal sikre de rettigheter og det ansvar som tilkommer mennesker med nedsatt funksjonsevne i forbindelse med vergemål, formynderskap, omsorg, adopsjon av barn eller liknende institutter når disse finnes i intern lovgivning; hensynet til barna skal i alle tilfeller komme i første rekke. Partene skal gi mennesker med nedsatt funksjonsevne hensiktsmessig hjelp til å utøve ansvaret for oppfostring av barn.
 
-3. Partene skal sikre at barn med nedsatt funksjonsevne har lik rett som andre til familieliv. Med sikte på å virkeliggjøre denne retten, og for å hindre at barn med nedsatt funksjonsevne holdes skjult, blir forlatt, forsømmes eller isoleres, skal partene forplikte seg til å sørge for at barn med nedsatt funksjonsevne og deres familier på et tidlig tidspunkt mottar omfattende informasjon, tjenester og støtte.
+3\. Partene skal sikre at barn med nedsatt funksjonsevne har lik rett som andre til familieliv. Med sikte på å virkeliggjøre denne retten, og for å hindre at barn med nedsatt funksjonsevne holdes skjult, blir forlatt, forsømmes eller isoleres, skal partene forplikte seg til å sørge for at barn med nedsatt funksjonsevne og deres familier på et tidlig tidspunkt mottar omfattende informasjon, tjenester og støtte.
 
-4. Partene skal sikre at et barn ikke blir skilt fra sine foreldre mot deres vilje, unntatt når kompetent myndighet, som er underlagt rettslig overprøving, beslutter i samsvar med gjeldende lover og saksbehandlingsregler at en slik atskillelse er nødvendig av hensyn til barnets beste. Et barn skal ikke i noe tilfelle bli skilt fra foreldre fordi enten barnet eller en eller begge foreldre har nedsatt funksjonsevne.
+4\. Partene skal sikre at et barn ikke blir skilt fra sine foreldre mot deres vilje, unntatt når kompetent myndighet, som er underlagt rettslig overprøving, beslutter i samsvar med gjeldende lover og saksbehandlingsregler at en slik atskillelse er nødvendig av hensyn til barnets beste. Et barn skal ikke i noe tilfelle bli skilt fra foreldre fordi enten barnet eller en eller begge foreldre har nedsatt funksjonsevne.
 
-5. Partene skal, når den nærmeste familie ikke er i stand til å ha omsorgen for et barn med nedsatt funksjonsevne, gjøre sitt ytterste for å sørge for omsorgsplassering i familien forøvrig, og om det ikke lykkes, i et familiemiljø i lokalsamfunnet.
+5\. Partene skal, når den nærmeste familie ikke er i stand til å ha omsorgen for et barn med nedsatt funksjonsevne, gjøre sitt ytterste for å sørge for omsorgsplassering i familien forøvrig, og om det ikke lykkes, i et familiemiljø i lokalsamfunnet.
 
 ### Artikkel 24. Utdanning
 
-1. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til utdanning. Med sikte på å virkeliggjøre denne rettigheten uten diskriminering, og på basis av like muligheter, skal partene sikre et inkluderende utdanningssystem på alle nivåer, samt livslang læring, som tar sikte påat menneskets potensial og forståelsen av dets verdighet og egenverdi utvikles fullt ut, og at respekten for menneskerettighetene, de grunnleggende friheter og det menneskelige mangfold styrkes,at mennesker med nedsatt funksjonsevne får utvikle sin personlighet, sine anlegg og sin kreativitet, så vel som sine psykiske og fysiske evner, fullt ut,at mennesker med nedsatt funksjonsevne blir i stand til å delta effektivt i et fritt samfunn.
+1\. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til utdanning. Med sikte på å virkeliggjøre denne rettigheten uten diskriminering, og på basis av like muligheter, skal partene sikre et inkluderende utdanningssystem på alle nivåer, samt livslang læring, som tar sikte påat menneskets potensial og forståelsen av dets verdighet og egenverdi utvikles fullt ut, og at respekten for menneskerettighetene, de grunnleggende friheter og det menneskelige mangfold styrkes,at mennesker med nedsatt funksjonsevne får utvikle sin personlighet, sine anlegg og sin kreativitet, så vel som sine psykiske og fysiske evner, fullt ut,at mennesker med nedsatt funksjonsevne blir i stand til å delta effektivt i et fritt samfunn.
 
-2. For å virkeliggjøre denne rettighet skal partene sikreat mennesker med nedsatt funksjonsevne ikke stenges ute fra det allmenne utdanningssystemet på grunn av nedsatt funksjonsevne, og at barn med nedsatt funksjonsevne ikke stenges ute fra obligatorisk og gratis grunnskoleundervisning eller fra videregående opplæring på grunn av sin nedsatte funksjonsevne,at mennesker med nedsatt funksjonsevne får tilgang til inkluderende, god og gratis grunnutdanning og videregående opplæring i sitt lokalsamfunn, på lik linje med andre,rimelig tilrettelegging ut fra den enkeltes behov,at mennesker med nedsatt funksjonsevne får nødvendig støtte, innenfor rammen av det allmenne utdanningssystemet, slik at det legges til rette for en effektiv utdanning,effektive støttetiltak tilpasset den enkeltes behov, i et miljø som gir størst mulig faglig og sosial utvikling, i tråd med målet om full inkludering.
+2\. For å virkeliggjøre denne rettighet skal partene sikreat mennesker med nedsatt funksjonsevne ikke stenges ute fra det allmenne utdanningssystemet på grunn av nedsatt funksjonsevne, og at barn med nedsatt funksjonsevne ikke stenges ute fra obligatorisk og gratis grunnskoleundervisning eller fra videregående opplæring på grunn av sin nedsatte funksjonsevne,at mennesker med nedsatt funksjonsevne får tilgang til inkluderende, god og gratis grunnutdanning og videregående opplæring i sitt lokalsamfunn, på lik linje med andre,rimelig tilrettelegging ut fra den enkeltes behov,at mennesker med nedsatt funksjonsevne får nødvendig støtte, innenfor rammen av det allmenne utdanningssystemet, slik at det legges til rette for en effektiv utdanning,effektive støttetiltak tilpasset den enkeltes behov, i et miljø som gir størst mulig faglig og sosial utvikling, i tråd med målet om full inkludering.
 
-3. Partene skal gjøre det mulig for mennesker med nedsatt funksjonsevne å lære praktiske og sosiale ferdigheter slik at de lettere kan delta fullt ut i undervisningen på lik linje med andre, og som medlemmer av samfunnet. For dette formål skal partene treffe hensiktsmessige tiltak, herunder:å legge til rette for innlæring av punktskrift, alternativ skrift, alternative og supplerende kommunikasjonsformer, -midler og -formater, orienterings- og mobilitetsferdigheter, samt legge til rette for likemannsarbeid og mentorvirksomhet,å legge til rette for innlæring av tegnspråk og fremme av døvesamfunnets språklige identitet,å sikre at undervisningen av blinde, døve og døvblinde personer, og især barn, finner sted på de språk og i de kommunikasjonsformer og med de kommunikasjonsmidler som er best tilpasset den enkelte, og i et miljø som gir størst mulig faglig og sosial utvikling.
+3\. Partene skal gjøre det mulig for mennesker med nedsatt funksjonsevne å lære praktiske og sosiale ferdigheter slik at de lettere kan delta fullt ut i undervisningen på lik linje med andre, og som medlemmer av samfunnet. For dette formål skal partene treffe hensiktsmessige tiltak, herunder:å legge til rette for innlæring av punktskrift, alternativ skrift, alternative og supplerende kommunikasjonsformer, -midler og -formater, orienterings- og mobilitetsferdigheter, samt legge til rette for likemannsarbeid og mentorvirksomhet,å legge til rette for innlæring av tegnspråk og fremme av døvesamfunnets språklige identitet,å sikre at undervisningen av blinde, døve og døvblinde personer, og især barn, finner sted på de språk og i de kommunikasjonsformer og med de kommunikasjonsmidler som er best tilpasset den enkelte, og i et miljø som gir størst mulig faglig og sosial utvikling.
 
-4. Med sikte på å bidra til å virkeliggjøre denne rettighet skal partene treffe hensiktsmessige tiltak for å ansette lærere som kan tegnspråk og/eller punktskrift, herunder lærere med nedsatt funksjonsevne, og å lære opp fagfolk og personale som arbeider på alle nivåer i utdanningssystemet. Opplæringen skal omfatte bevisstgjøring om funksjonshemming og bruk av hensiktsmessige alternative og supplerende kommunikasjonsformer, -midler og -formater, samt undervisningsmetoder og undervisningsmateriell som er til hjelp for mennesker med nedsatt funksjonsevne.
+4\. Med sikte på å bidra til å virkeliggjøre denne rettighet skal partene treffe hensiktsmessige tiltak for å ansette lærere som kan tegnspråk og/eller punktskrift, herunder lærere med nedsatt funksjonsevne, og å lære opp fagfolk og personale som arbeider på alle nivåer i utdanningssystemet. Opplæringen skal omfatte bevisstgjøring om funksjonshemming og bruk av hensiktsmessige alternative og supplerende kommunikasjonsformer, -midler og -formater, samt undervisningsmetoder og undervisningsmateriell som er til hjelp for mennesker med nedsatt funksjonsevne.
 
-5. Partene skal sikre at mennesker med nedsatt funksjonsevne får tilgang til høyere utdanning, yrkesrettet opplæring, voksenopplæring og livslang læring uten diskriminering og på lik linje med andre. For dette formål skal partene sikre rimelig tilrettelegging for mennesker med nedsatt funksjonsevne.
+5\. Partene skal sikre at mennesker med nedsatt funksjonsevne får tilgang til høyere utdanning, yrkesrettet opplæring, voksenopplæring og livslang læring uten diskriminering og på lik linje med andre. For dette formål skal partene sikre rimelig tilrettelegging for mennesker med nedsatt funksjonsevne.
 
 ### Artikkel 25. Helse
 
@@ -5647,23 +5833,23 @@ Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til den høyes
 
 ### Artikkel 26. Habilitering og rehabilitering
 
-1. Partene skal treffe effektive og hensiktsmessige tiltak, herunder gjennom likepersonsarbeid, slik at mennesker med nedsatt funksjonsevne kan oppnå og beholde størst mulig selvstendighet, utnytte sitt fysiske, mentale, sosiale og yrkesmessige potensial fullt ut, og oppnå full inkludering og deltakelse på alle livets områder. For det formål skal partene opprette, styrke og videreutvikle brede habiliterings- og rehabiliteringstjenester og -programmer, særlig på områdene helse, sysselsetting, utdanning og sosiale tjenester, på en slik måte at disse tjenester og programmerbegynner på et så tidlig stadium som mulig, og er basert på en tverrfaglig vurdering av den enkeltes behov og ressurser,støtter deltakelse og inkludering i lokalsamfunnet og på alle samfunnsområder, er frivillige, og tilbys mennesker med nedsatt funksjonsevne så nær lokalmiljøet som mulig, også i distriktene.
+1\. Partene skal treffe effektive og hensiktsmessige tiltak, herunder gjennom likepersonsarbeid, slik at mennesker med nedsatt funksjonsevne kan oppnå og beholde størst mulig selvstendighet, utnytte sitt fysiske, mentale, sosiale og yrkesmessige potensial fullt ut, og oppnå full inkludering og deltakelse på alle livets områder. For det formål skal partene opprette, styrke og videreutvikle brede habiliterings- og rehabiliteringstjenester og -programmer, særlig på områdene helse, sysselsetting, utdanning og sosiale tjenester, på en slik måte at disse tjenester og programmerbegynner på et så tidlig stadium som mulig, og er basert på en tverrfaglig vurdering av den enkeltes behov og ressurser,støtter deltakelse og inkludering i lokalsamfunnet og på alle samfunnsområder, er frivillige, og tilbys mennesker med nedsatt funksjonsevne så nær lokalmiljøet som mulig, også i distriktene.
 
-2. Partene skal fremme utviklingen av grunn- og etterutdanningen av fagfolk og personell som arbeider i habiliterings- og rehabiliteringstjenestene.
+2\. Partene skal fremme utviklingen av grunn- og etterutdanningen av fagfolk og personell som arbeider i habiliterings- og rehabiliteringstjenestene.
 
-3. Partene skal fremme tilgangen til, kunnskapen om og bruken av tekniske hjelpemidler og teknologi utviklet for habilitering og rehabilitering av mennesker med nedsatt funksjonsevne.
+3\. Partene skal fremme tilgangen til, kunnskapen om og bruken av tekniske hjelpemidler og teknologi utviklet for habilitering og rehabilitering av mennesker med nedsatt funksjonsevne.
 
 ### Artikkel 27. Arbeid og sysselsetting
 
-1. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til arbeid på lik linje med andre; dette omfatter muligheten til å tjene til livets opphold ved et arbeid som man selv fritt velger eller påtar seg i et arbeidsmarked og arbeidsmiljø som er åpent, inkluderende og tilgjengelig for mennesker med nedsatt funksjonsevne. Partene skal trygge og fremme virkeliggjøringen av retten til arbeid, også for dem som får nedsatt funksjonsevne mens de er i arbeid, ved å treffe hensiktsmessige tiltak, også i lovs form, blant annet forå forby diskriminering på grunn av nedsatt funksjonsevne i alle spørsmål som angår enhver type arbeidsforhold, herunder rekrutteringsvilkår, ansettelsesvilkår, arbeidsvilkår, opprettholdelse av arbeidsforhold, karriereutvikling og trygge og sunne arbeidsforhold,å verne om den rett som mennesker med nedsatt funksjonsevne har, på lik linje med andre, til rettferdige og gode arbeidsforhold, herunder like muligheter og lik lønn for arbeid av lik verdi, og trygge og sunne arbeidsforhold, herunder vern mot trakassering og oppreisning for urett,å sikre at mennesker med nedsatt funksjonsevne kan utøve sine arbeidstaker- og fagforeningsrettigheter på lik linje med andre,å gi mennesker med nedsatt funksjonsevne mulighet til effektiv tilgang til arbeidsrettede veiledningsordninger, arbeidsformidling, yrkesopplæring og etter- og videreutdanning,å fremme mulighetene for sysselsetting og karriereutvikling for mennesker med nedsatt funksjonsevne i arbeidsmarkedet, så vel som hjelp til å finne, skaffe seg, holde på og komme tilbake til et arbeid,å fremme mulighetene for å drive egen næring, være entreprenør, danne kooperativer og starte egen virksomhet,å ansette mennesker med nedsatt funksjonsevne i offentlig sektor,å fremme ansettelse av mennesker med nedsatt funksjonsevne i privat sektor gjennom hensiktsmessige strategier og tiltak, som kan omfatte positiv særbehandling, stimuleringstiltak og andre tiltak,å sikre at mennesker med nedsatt funksjonsevne får rimelig tilrettelegging på arbeidsplassen,å arbeide for at mennesker med nedsatt funksjonsevne skal få arbeidserfaring på det åpne arbeidsmarkedet,å fremme yrkesrettet og faglig rehabilitering, bevaring av arbeidsforhold og reintegrering i arbeidslivet for mennesker med nedsatt funksjonsevne.
+1\. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til arbeid på lik linje med andre; dette omfatter muligheten til å tjene til livets opphold ved et arbeid som man selv fritt velger eller påtar seg i et arbeidsmarked og arbeidsmiljø som er åpent, inkluderende og tilgjengelig for mennesker med nedsatt funksjonsevne. Partene skal trygge og fremme virkeliggjøringen av retten til arbeid, også for dem som får nedsatt funksjonsevne mens de er i arbeid, ved å treffe hensiktsmessige tiltak, også i lovs form, blant annet forå forby diskriminering på grunn av nedsatt funksjonsevne i alle spørsmål som angår enhver type arbeidsforhold, herunder rekrutteringsvilkår, ansettelsesvilkår, arbeidsvilkår, opprettholdelse av arbeidsforhold, karriereutvikling og trygge og sunne arbeidsforhold,å verne om den rett som mennesker med nedsatt funksjonsevne har, på lik linje med andre, til rettferdige og gode arbeidsforhold, herunder like muligheter og lik lønn for arbeid av lik verdi, og trygge og sunne arbeidsforhold, herunder vern mot trakassering og oppreisning for urett,å sikre at mennesker med nedsatt funksjonsevne kan utøve sine arbeidstaker- og fagforeningsrettigheter på lik linje med andre,å gi mennesker med nedsatt funksjonsevne mulighet til effektiv tilgang til arbeidsrettede veiledningsordninger, arbeidsformidling, yrkesopplæring og etter- og videreutdanning,å fremme mulighetene for sysselsetting og karriereutvikling for mennesker med nedsatt funksjonsevne i arbeidsmarkedet, så vel som hjelp til å finne, skaffe seg, holde på og komme tilbake til et arbeid,å fremme mulighetene for å drive egen næring, være entreprenør, danne kooperativer og starte egen virksomhet,å ansette mennesker med nedsatt funksjonsevne i offentlig sektor,å fremme ansettelse av mennesker med nedsatt funksjonsevne i privat sektor gjennom hensiktsmessige strategier og tiltak, som kan omfatte positiv særbehandling, stimuleringstiltak og andre tiltak,å sikre at mennesker med nedsatt funksjonsevne får rimelig tilrettelegging på arbeidsplassen,å arbeide for at mennesker med nedsatt funksjonsevne skal få arbeidserfaring på det åpne arbeidsmarkedet,å fremme yrkesrettet og faglig rehabilitering, bevaring av arbeidsforhold og reintegrering i arbeidslivet for mennesker med nedsatt funksjonsevne.
 
-2. Partene skal sikre at mennesker med nedsatt funksjonsevne ikke holdes i slaveri eller trelldom, og vernes mot tvangsarbeid eller annet påtvunget arbeid, på lik linje med andre.
+2\. Partene skal sikre at mennesker med nedsatt funksjonsevne ikke holdes i slaveri eller trelldom, og vernes mot tvangsarbeid eller annet påtvunget arbeid, på lik linje med andre.
 
 ### Artikkel 28. Tilfredsstillende levestandard og sosial beskyttelse
 
-1. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til en tilfredsstillende levestandard for seg selv og sin familie, herunder tilfredsstillende mat, klær og bolig, samt til stadig bedring av sine leveforhold, og skal treffe hensiktsmessige tiltak for å trygge og fremme virkeliggjøringen av denne rettighet, uten diskriminering på grunn av nedsatt funksjonsevne.
+1\. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til en tilfredsstillende levestandard for seg selv og sin familie, herunder tilfredsstillende mat, klær og bolig, samt til stadig bedring av sine leveforhold, og skal treffe hensiktsmessige tiltak for å trygge og fremme virkeliggjøringen av denne rettighet, uten diskriminering på grunn av nedsatt funksjonsevne.
 
-2. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til sosial beskyttelse, og til å nyte en slik rettighet uten diskriminering på grunn av nedsatt funksjonsevne, og skal treffe hensiktsmessige tiltak for å trygge og fremme virkeliggjøringen av denne rettighet, blant annet med tiltak med sikte påå sikre at mennesker med nedsatt funksjonsevne får lik tilgang til rent vann, og å sørge for tilgang til hensiktsmessige og prismessig overkommelige tjenester, utstyr og annen assistanse for å ivareta behov som er oppstått som en følge av nedsatt funksjonsevne,å sikre at mennesker med nedsatt funksjonsevne, og særlig kvinner og jenter med nedsatt funksjonsevne og eldre med nedsatt funksjonsevne, kan delta i programmer for sosial beskyttelse og fattigdomsbekjempelse,å sikre at mennesker med nedsatt funksjonsevne og deres familier som lever i fattigdom, får statlig hjelp til utgifter knyttet til nedsatt funksjonsevne, herunder tilfredsstillende opplæring, rådgivning, økonomisk bistand og avlastning,å sikre at mennesker med nedsatt funksjonsevne kan delta i offentlige boligprogrammer,å sikre at mennesker med nedsatt funksjonsevne har lik tilgang til pensjonsytelser og -programmer.
+2\. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til sosial beskyttelse, og til å nyte en slik rettighet uten diskriminering på grunn av nedsatt funksjonsevne, og skal treffe hensiktsmessige tiltak for å trygge og fremme virkeliggjøringen av denne rettighet, blant annet med tiltak med sikte påå sikre at mennesker med nedsatt funksjonsevne får lik tilgang til rent vann, og å sørge for tilgang til hensiktsmessige og prismessig overkommelige tjenester, utstyr og annen assistanse for å ivareta behov som er oppstått som en følge av nedsatt funksjonsevne,å sikre at mennesker med nedsatt funksjonsevne, og særlig kvinner og jenter med nedsatt funksjonsevne og eldre med nedsatt funksjonsevne, kan delta i programmer for sosial beskyttelse og fattigdomsbekjempelse,å sikre at mennesker med nedsatt funksjonsevne og deres familier som lever i fattigdom, får statlig hjelp til utgifter knyttet til nedsatt funksjonsevne, herunder tilfredsstillende opplæring, rådgivning, økonomisk bistand og avlastning,å sikre at mennesker med nedsatt funksjonsevne kan delta i offentlige boligprogrammer,å sikre at mennesker med nedsatt funksjonsevne har lik tilgang til pensjonsytelser og -programmer.
 
 ### Artikkel 29. Deltakelse i det politiske og offentlige liv
 
@@ -5671,95 +5857,95 @@ Partene skal garantere mennesker med nedsatt funksjonsevne politiske rettigheter
 
 ### Artikkel 30. Deltakelse i kulturliv, fritidsaktiviteter, fornøyelser og idrett
 
-1. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til å delta i kulturlivet på lik linje med andre, og skal treffe alle hensiktsmessige tiltak for å sikre at mennesker med nedsatt funksjonsevnehar tilgang til kulturmateriale i tilgjengelige formater,har tilgang til fjernsynsprogrammer, filmer, teateroppsetninger og andre kulturaktiviteter, i tilgjengelige formater,har tilgang til steder som tilbyr kulturell framføring eller kulturelle tjenester, slik som teatre, museer, kinoer, biblioteker og reiselivstjenester, og så langt det er mulig har tilgang til minnesmerker og steder av nasjonal kulturell betydning.
+1\. Partene erkjenner at mennesker med nedsatt funksjonsevne har rett til å delta i kulturlivet på lik linje med andre, og skal treffe alle hensiktsmessige tiltak for å sikre at mennesker med nedsatt funksjonsevnehar tilgang til kulturmateriale i tilgjengelige formater,har tilgang til fjernsynsprogrammer, filmer, teateroppsetninger og andre kulturaktiviteter, i tilgjengelige formater,har tilgang til steder som tilbyr kulturell framføring eller kulturelle tjenester, slik som teatre, museer, kinoer, biblioteker og reiselivstjenester, og så langt det er mulig har tilgang til minnesmerker og steder av nasjonal kulturell betydning.
 
-2. Partene skal treffe hensiktsmessige tiltak for å gi mennesker med nedsatt funksjonsevne mulighet til å utvikle og utnytte sitt kreative, kunstneriske og intellektuelle potensial, ikke bare av hensyn til seg selv, men også til berikelse for samfunnet.
+2\. Partene skal treffe hensiktsmessige tiltak for å gi mennesker med nedsatt funksjonsevne mulighet til å utvikle og utnytte sitt kreative, kunstneriske og intellektuelle potensial, ikke bare av hensyn til seg selv, men også til berikelse for samfunnet.
 
-3. Partene skal treffe alle hensiktsmessige tiltak i samsvar med folkeretten for å sikre at lovverk som beskytter åndsverk, ikke utgjør en urimelig eller diskriminerende barriere for at mennesker med nedsatt funksjonsevne kan få tilgang til kulturmateriale.
+3\. Partene skal treffe alle hensiktsmessige tiltak i samsvar med folkeretten for å sikre at lovverk som beskytter åndsverk, ikke utgjør en urimelig eller diskriminerende barriere for at mennesker med nedsatt funksjonsevne kan få tilgang til kulturmateriale.
 
-4. Mennesker med nedsatt funksjonsevne skal på lik linje med andre ha rett til anerkjennelse av og støtte til sin spesielle kulturelle og språklige identitet, herunder tegnspråk og døvekultur.
+4\. Mennesker med nedsatt funksjonsevne skal på lik linje med andre ha rett til anerkjennelse av og støtte til sin spesielle kulturelle og språklige identitet, herunder tegnspråk og døvekultur.
 
-5. For å gjøre det mulig for mennesker med nedsatt funksjonsevne å delta på lik linje med andre i fritids-, fornøyelses- og idrettsaktiviteter, skal partene treffe hensiktsmessige tiltak forå oppmuntre til og fremme deltakelse for mennesker med nedsatt funksjonsevne i vanlige idrettsaktiviteter på alle nivåer, så langt det overhodet er mulig,å sikre at mennesker med nedsatt funksjonsevne har mulighet for å arrangere, utvikle og delta i idretts- og fritidsaktiviteter spesielt beregnet på dem, og for dette formål oppmuntre til at de tilbys hensiktsmessig instruksjon, trening og ressurser, på lik linje med andre,å sikre at mennesker med nedsatt funksjonsevne har tilgang til arenaer for idrettsaktiviteter, fritidsaktiviteter og reiseliv,å sikre at barn med nedsatt funksjonsevne har samme mulighet som andre barn til å delta i lek, fornøyelser, fritidsaktiviteter og idrettsaktiviteter, også de aktiviteter som finner sted i skolen,å sikre at mennesker med nedsatt funksjonsevne har tilgang til tjenester fra dem som har ansvar for å organisere fritids-, reiselivs-, fornøyelses- og idrettsaktiviteter.
+5\. For å gjøre det mulig for mennesker med nedsatt funksjonsevne å delta på lik linje med andre i fritids-, fornøyelses- og idrettsaktiviteter, skal partene treffe hensiktsmessige tiltak forå oppmuntre til og fremme deltakelse for mennesker med nedsatt funksjonsevne i vanlige idrettsaktiviteter på alle nivåer, så langt det overhodet er mulig,å sikre at mennesker med nedsatt funksjonsevne har mulighet for å arrangere, utvikle og delta i idretts- og fritidsaktiviteter spesielt beregnet på dem, og for dette formål oppmuntre til at de tilbys hensiktsmessig instruksjon, trening og ressurser, på lik linje med andre,å sikre at mennesker med nedsatt funksjonsevne har tilgang til arenaer for idrettsaktiviteter, fritidsaktiviteter og reiseliv,å sikre at barn med nedsatt funksjonsevne har samme mulighet som andre barn til å delta i lek, fornøyelser, fritidsaktiviteter og idrettsaktiviteter, også de aktiviteter som finner sted i skolen,å sikre at mennesker med nedsatt funksjonsevne har tilgang til tjenester fra dem som har ansvar for å organisere fritids-, reiselivs-, fornøyelses- og idrettsaktiviteter.
 
 ### Artikkel 31. Statistikk og innhenting av data
 
-1. Partene forplikter seg til å innhente hensiktsmessig informasjon, herunder statistiske data og forskningsdata, som setter dem i stand til å utforme og gjennomføre politikk som gir denne konvensjon virkning. Prosessen med å innhente og oppdatere denne informasjonen skaloppfylle lovfestede krav til beskyttelse, herunder lovgivningen om datavern, for å sikre fortrolig behandling og respekt for privatlivet til mennesker med nedsatt funksjonsevne,oppfylle internasjonalt godtatte normer for beskyttelse av menneskerettighetene og de grunnleggende friheter og etiske prinsipper i innhenting og bruk av statistikk.
+1\. Partene forplikter seg til å innhente hensiktsmessig informasjon, herunder statistiske data og forskningsdata, som setter dem i stand til å utforme og gjennomføre politikk som gir denne konvensjon virkning. Prosessen med å innhente og oppdatere denne informasjonen skaloppfylle lovfestede krav til beskyttelse, herunder lovgivningen om datavern, for å sikre fortrolig behandling og respekt for privatlivet til mennesker med nedsatt funksjonsevne,oppfylle internasjonalt godtatte normer for beskyttelse av menneskerettighetene og de grunnleggende friheter og etiske prinsipper i innhenting og bruk av statistikk.
 
-2. Informasjon innhentet i samsvar med denne artikkel skal brytes ned etter behov og benyttes til å bidra til å vurdere partenes gjennomføring av sine forpliktelser etter denne konvensjon, samt å identifisere og fjerne de barrierer som mennesker med nedsatt funksjonsevne støter på i utøvelsen av sine rettigheter.
+2\. Informasjon innhentet i samsvar med denne artikkel skal brytes ned etter behov og benyttes til å bidra til å vurdere partenes gjennomføring av sine forpliktelser etter denne konvensjon, samt å identifisere og fjerne de barrierer som mennesker med nedsatt funksjonsevne støter på i utøvelsen av sine rettigheter.
 
-3. Partene skal ha ansvar for å formidle disse statistikkene og sørge for at de er tilgjengelige for mennesker med nedsatt funksjonsevne og andre.
+3\. Partene skal ha ansvar for å formidle disse statistikkene og sørge for at de er tilgjengelige for mennesker med nedsatt funksjonsevne og andre.
 
 ### Artikkel 32. Internasjonalt samarbeid
 
-1. Partene erkjenner betydningen av internasjonalt samarbeid, og at det er viktig å oppmuntre til slikt samarbeid for å støtte de nasjonale bestrebelsene på å virkeliggjøre denne konvensjons formål og hensikt, og vil i denne forbindelse treffe hensiktsmessige og effektive tiltak seg imellom, og eventuelt i samarbeid med relevante internasjonale og regionale organisasjoner og sivilsamfunnet, særlig organisasjoner av mennesker med nedsatt funksjonsevne. Slike tiltak kan blant annet gå ut påå sikre at det internasjonale samarbeidet, herunder programmene for utviklingshjelp, er inkluderende overfor og tilgjengelig for mennesker med nedsatt funksjonsevne,å legge til rette for og støtte kapasitetsoppbygging, blant annet ved å utveksle og dele informasjon, erfaringer, opplæringsprogrammer og anbefalt praksis,å legge til rette for forskningssamarbeid og tilgang til vitenskapelig og teknisk kunnskap,å sørge for teknisk og økonomisk bistand etter behov, blant annet ved å legge til rette for tilgang til og deling av tilgjengelig teknologi og hjelpemiddelteknologi, og ved teknologioverføring.
+1\. Partene erkjenner betydningen av internasjonalt samarbeid, og at det er viktig å oppmuntre til slikt samarbeid for å støtte de nasjonale bestrebelsene på å virkeliggjøre denne konvensjons formål og hensikt, og vil i denne forbindelse treffe hensiktsmessige og effektive tiltak seg imellom, og eventuelt i samarbeid med relevante internasjonale og regionale organisasjoner og sivilsamfunnet, særlig organisasjoner av mennesker med nedsatt funksjonsevne. Slike tiltak kan blant annet gå ut påå sikre at det internasjonale samarbeidet, herunder programmene for utviklingshjelp, er inkluderende overfor og tilgjengelig for mennesker med nedsatt funksjonsevne,å legge til rette for og støtte kapasitetsoppbygging, blant annet ved å utveksle og dele informasjon, erfaringer, opplæringsprogrammer og anbefalt praksis,å legge til rette for forskningssamarbeid og tilgang til vitenskapelig og teknisk kunnskap,å sørge for teknisk og økonomisk bistand etter behov, blant annet ved å legge til rette for tilgang til og deling av tilgjengelig teknologi og hjelpemiddelteknologi, og ved teknologioverføring.
 
-2. Bestemmelsene i denne artikkel berører ikke den enkelte stats forpliktelser etter denne konvensjon.
+2\. Bestemmelsene i denne artikkel berører ikke den enkelte stats forpliktelser etter denne konvensjon.
 
 ### Artikkel 33. Nasjonal gjennomføring og overvåkning
 
-1. Partene skal, i samsvar med sitt forvaltningssystem, utpeke ett eller flere kontaktpunkter i forvaltningen for saker som gjelder gjennomføringen av denne konvensjon, og skal nøye overveie å opprette eller utpeke en koordineringsmekanisme i forvaltningen som kan gjøre det lettere å treffe tiltak knyttet til gjennomføringen, i ulike sektorer og på ulike nivåer.
+1\. Partene skal, i samsvar med sitt forvaltningssystem, utpeke ett eller flere kontaktpunkter i forvaltningen for saker som gjelder gjennomføringen av denne konvensjon, og skal nøye overveie å opprette eller utpeke en koordineringsmekanisme i forvaltningen som kan gjøre det lettere å treffe tiltak knyttet til gjennomføringen, i ulike sektorer og på ulike nivåer.
 
-2. Partene skal, i samsvar med sin rettsordning og sitt forvaltningssystem, opprettholde, styrke, utpeke eller opprette et nasjonalt rammeverk, som omfatter en eller flere uavhengige mekanismer, alt etter hva som er hensiktsmessig, for å fremme, verne om og overvåke gjennomføringen av denne konvensjon. Partene skal, når de utpeker eller oppretter en slik mekanisme, ta hensyn til de prinsipper som ligger til grunn for status og oppgaver tillagt nasjonale institusjoner som arbeider med beskyttelse og fremme av menneskerettighetene.
+2\. Partene skal, i samsvar med sin rettsordning og sitt forvaltningssystem, opprettholde, styrke, utpeke eller opprette et nasjonalt rammeverk, som omfatter en eller flere uavhengige mekanismer, alt etter hva som er hensiktsmessig, for å fremme, verne om og overvåke gjennomføringen av denne konvensjon. Partene skal, når de utpeker eller oppretter en slik mekanisme, ta hensyn til de prinsipper som ligger til grunn for status og oppgaver tillagt nasjonale institusjoner som arbeider med beskyttelse og fremme av menneskerettighetene.
 
-3. Sivilsamfunnet, og særlig mennesker med nedsatt funksjonsevne og de organisasjoner som representerer dem, skal trekkes inn i overvåkningsprosessen og delta fullt ut i den.
+3\. Sivilsamfunnet, og særlig mennesker med nedsatt funksjonsevne og de organisasjoner som representerer dem, skal trekkes inn i overvåkningsprosessen og delta fullt ut i den.
 
 ### Artikkel 34. Komiteen for rettighetene til mennesker med nedsatt funksjonsevne
 
-1. Det skal opprettes en komité for rettighetene til mennesker med nedsatt funksjonsevne (heretter kalt «komiteen»), som skal utføre de oppgaver som er fastsatt nedenfor.
+1\. Det skal opprettes en komité for rettighetene til mennesker med nedsatt funksjonsevne (heretter kalt «komiteen»), som skal utføre de oppgaver som er fastsatt nedenfor.
 
-2. Komiteen skal på det tidspunkt konvensjonen trer i kraft, bestå av tolv eksperter. Etter ytterligere seksti ratifiseringer eller tiltredelser til konvensjonen skal komiteens medlemstall økes med seks medlemmer, til et maksimalt antall av atten medlemmer.
+2\. Komiteen skal på det tidspunkt konvensjonen trer i kraft, bestå av tolv eksperter. Etter ytterligere seksti ratifiseringer eller tiltredelser til konvensjonen skal komiteens medlemstall økes med seks medlemmer, til et maksimalt antall av atten medlemmer.
 
-3. Komiteens medlemmer skal utføre sine oppgaver i personlig egenskap, og skal ha høy moralsk anseelse og ha anerkjent kompetanse og erfaring på det område som hører under denne konvensjon. Partene oppfordres til å ta behørig hensyn til bestemmelsen i artikkel 4 nr. 3 i denne konvensjon når de foreslår sine kandidater.
+3\. Komiteens medlemmer skal utføre sine oppgaver i personlig egenskap, og skal ha høy moralsk anseelse og ha anerkjent kompetanse og erfaring på det område som hører under denne konvensjon. Partene oppfordres til å ta behørig hensyn til bestemmelsen i artikkel 4 nr. 3 i denne konvensjon når de foreslår sine kandidater.
 
-4. Partene skal velge komiteens medlemmer, og det skal da tas hensyn til en rettferdig geografisk fordeling, til at de ulike sivilisasjonsformer og viktigste rettssystemer blir representert, til kjønnsbalanse, og til deltakelse av eksperter med nedsatt funksjonsevne.
+4\. Partene skal velge komiteens medlemmer, og det skal da tas hensyn til en rettferdig geografisk fordeling, til at de ulike sivilisasjonsformer og viktigste rettssystemer blir representert, til kjønnsbalanse, og til deltakelse av eksperter med nedsatt funksjonsevne.
 
-5. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som partene har foreslått blant sine statsborgere på statspartsmøter. På slike møter, som er beslutningsdyktige når to tredjedeler av partene er representert, skal de kandidater anses valgt som oppnår det høyeste stemmetall og et absolutt flertall av stemmene fra de representanter for partene som er til stede og avgir stemme.
+5\. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som partene har foreslått blant sine statsborgere på statspartsmøter. På slike møter, som er beslutningsdyktige når to tredjedeler av partene er representert, skal de kandidater anses valgt som oppnår det høyeste stemmetall og et absolutt flertall av stemmene fra de representanter for partene som er til stede og avgir stemme.
 
-6. Det første valget skal holdes senest seks måneder etter at denne konvensjon er trådt i kraft. Minst fire måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til partene og oppfordre dem til å sette frem sine forslag til kandidater innen to måneder. Generalsekretæren skal deretter sette opp en liste i alfabetisk rekkefølge over alle personer som er foreslått på denne måten, med angivelse av hvilke parter som har foreslått dem, og skal oversende den til konvensjonspartene.
+6\. Det første valget skal holdes senest seks måneder etter at denne konvensjon er trådt i kraft. Minst fire måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til partene og oppfordre dem til å sette frem sine forslag til kandidater innen to måneder. Generalsekretæren skal deretter sette opp en liste i alfabetisk rekkefølge over alle personer som er foreslått på denne måten, med angivelse av hvilke parter som har foreslått dem, og skal oversende den til konvensjonspartene.
 
-7. Komiteens medlemmer skal velges for en periode på fire år. De kan gjenvelges en gang. For seks av medlemmene som blir valgt ved det første valget, skal imidlertid funksjonstiden utløpe etter to år; umiddelbart etter det første valget skal navnene på disse seks medlemmene bestemmes ved loddtrekning foretatt av lederen for det møte som er omhandlet i nr. 5 i denne artikkel.
+7\. Komiteens medlemmer skal velges for en periode på fire år. De kan gjenvelges en gang. For seks av medlemmene som blir valgt ved det første valget, skal imidlertid funksjonstiden utløpe etter to år; umiddelbart etter det første valget skal navnene på disse seks medlemmene bestemmes ved loddtrekning foretatt av lederen for det møte som er omhandlet i nr. 5 i denne artikkel.
 
-8. Valget av de seks nye medlemmene av komiteen skal gjennomføres i tilknytning til de regulære valgene, i samsvar med de relevante bestemmelser i denne artikkel.
+8\. Valget av de seks nye medlemmene av komiteen skal gjennomføres i tilknytning til de regulære valgene, i samsvar med de relevante bestemmelser i denne artikkel.
 
-9. Dersom et komitémedlem dør eller trer tilbake eller erklærer at han eller hun av enhver annen grunn ikke lenger kan utføre sine oppgaver, skal parten som foreslo medlemmet, oppnevne en annen ekspert som har de kvalifikasjoner og oppfyller de krav som er angitt i de relevante bestemmelser i denne artikkel, til å tjenestegjøre i komiteen for den resterende del av perioden.
+9\. Dersom et komitémedlem dør eller trer tilbake eller erklærer at han eller hun av enhver annen grunn ikke lenger kan utføre sine oppgaver, skal parten som foreslo medlemmet, oppnevne en annen ekspert som har de kvalifikasjoner og oppfyller de krav som er angitt i de relevante bestemmelser i denne artikkel, til å tjenestegjøre i komiteen for den resterende del av perioden.
 
-10. Komiteen skal fastsette sin egen forretningsorden.
+10\. Komiteen skal fastsette sin egen forretningsorden.
 
-11. De forente nasjoners generalsekretær skal sørge for det personale og de hjelpemidler som må til for at komiteen effektivt skal kunne utføre sine oppgaver etter denne konvensjon, og skal sammenkalle til komiteens første møte.
+11\. De forente nasjoners generalsekretær skal sørge for det personale og de hjelpemidler som må til for at komiteen effektivt skal kunne utføre sine oppgaver etter denne konvensjon, og skal sammenkalle til komiteens første møte.
 
-12. Med Generalforsamlingens godkjenning skal medlemmene av komiteen opprettet i henhold til denne konvensjon, motta godtgjørelse fra De forente nasjoners midler, på de vilkår og betingelser som Generalforsamlingen bestemmer, idet det tas hensyn til betydningen av de oppgaver som er tillagt komiteen.
+12\. Med Generalforsamlingens godkjenning skal medlemmene av komiteen opprettet i henhold til denne konvensjon, motta godtgjørelse fra De forente nasjoners midler, på de vilkår og betingelser som Generalforsamlingen bestemmer, idet det tas hensyn til betydningen av de oppgaver som er tillagt komiteen.
 
-13. Komiteens medlemmer skal ha krav på de lettelser og privilegier, og den immunitet, som tilkommer eksperter på oppdrag for De forente nasjoner, i henhold til de relevante bestemmelser i konvensjonen om De forente nasjoners privilegier og immunitet.
+13\. Komiteens medlemmer skal ha krav på de lettelser og privilegier, og den immunitet, som tilkommer eksperter på oppdrag for De forente nasjoner, i henhold til de relevante bestemmelser i konvensjonen om De forente nasjoners privilegier og immunitet.
 
 ### Artikkel 35. Rapporter fra partene
 
-1. Hver part skal, via De forente nasjoners generalsekretær, avgi en bred rapport til komiteen om de tiltak de har truffet for å oppfylle sine forpliktelser etter denne konvensjon, og om den framgang som har funnet sted i den forbindelse, innen to år etter at denne konvensjon er trådt i kraft for vedkommende part.
+1\. Hver part skal, via De forente nasjoners generalsekretær, avgi en bred rapport til komiteen om de tiltak de har truffet for å oppfylle sine forpliktelser etter denne konvensjon, og om den framgang som har funnet sted i den forbindelse, innen to år etter at denne konvensjon er trådt i kraft for vedkommende part.
 
-2. Partene skal deretter legge fram rapport minst hvert fjerde år, og for øvrig når komiteen ber om det.
+2\. Partene skal deretter legge fram rapport minst hvert fjerde år, og for øvrig når komiteen ber om det.
 
-3. Komiteen skal vedta eventuelle retningslinjer for hva rapportene skal inneholde.
+3\. Komiteen skal vedta eventuelle retningslinjer for hva rapportene skal inneholde.
 
-4. En part som har avgitt en første, omfattende rapport for komiteen, trenger i sine senere rapporter ikke gjenta informasjon som er gitt tidligere. Partene oppfordres til å utarbeide sine rapporter til komiteen gjennom en prosess som er åpen og gir mulighet for innsyn, og til å ta behørig hensyn til bestemmelsen i artikkel 4 nr. 3 i denne konvensjon.
+4\. En part som har avgitt en første, omfattende rapport for komiteen, trenger i sine senere rapporter ikke gjenta informasjon som er gitt tidligere. Partene oppfordres til å utarbeide sine rapporter til komiteen gjennom en prosess som er åpen og gir mulighet for innsyn, og til å ta behørig hensyn til bestemmelsen i artikkel 4 nr. 3 i denne konvensjon.
 
-5. Rapportene kan nevne forhold og vanskeligheter som innvirker på oppfyllelsen av forpliktelsene etter denne konvensjon.
+5\. Rapportene kan nevne forhold og vanskeligheter som innvirker på oppfyllelsen av forpliktelsene etter denne konvensjon.
 
 ### Artikkel 36. Behandling av rapportene
 
-1. Komiteen skal gå gjennom hver rapport og legge fram de forslag og generelle anbefalinger om rapporten som den anser som hensiktsmessig, og skal oversende dem til den berørte part. Denne part kan så velge å oversende komiteen mer informasjon. Komiteen kan be partene gi ytterligere opplysninger av relevans for gjennomføringen av denne konvensjon.
+1\. Komiteen skal gå gjennom hver rapport og legge fram de forslag og generelle anbefalinger om rapporten som den anser som hensiktsmessig, og skal oversende dem til den berørte part. Denne part kan så velge å oversende komiteen mer informasjon. Komiteen kan be partene gi ytterligere opplysninger av relevans for gjennomføringen av denne konvensjon.
 
-2. Dersom en part er vesentlig forsinket med en rapport, kan komiteen underrette vedkommende part om at dens gjennomføring av denne konvensjon vil måtte gjennomgås på grunnlag av pålitelig informasjon som komiteen har til rådighet, dersom rapporten ikke blir lagt fram innen tre måneder etter underretningen. Komiteen skal oppfordre vedkommende part til å delta i en slik gjennomgang. Dersom den svarer ved å legge fram rapporten, vil bestemmelsene i nr. 1 i denne artikkel gjelde.
+2\. Dersom en part er vesentlig forsinket med en rapport, kan komiteen underrette vedkommende part om at dens gjennomføring av denne konvensjon vil måtte gjennomgås på grunnlag av pålitelig informasjon som komiteen har til rådighet, dersom rapporten ikke blir lagt fram innen tre måneder etter underretningen. Komiteen skal oppfordre vedkommende part til å delta i en slik gjennomgang. Dersom den svarer ved å legge fram rapporten, vil bestemmelsene i nr. 1 i denne artikkel gjelde.
 
-3. De forente nasjoners generalsekretær skal stille rapportene til rådighet for samtlige parter.
+3\. De forente nasjoners generalsekretær skal stille rapportene til rådighet for samtlige parter.
 
-4. Partene skal gjøre sine rapporter allment tilgjengelige i sine egne land, og legge til rette for innsyn i de forslag og generelle anbefalinger som er gitt i tilknytning til rapportene.
+4\. Partene skal gjøre sine rapporter allment tilgjengelige i sine egne land, og legge til rette for innsyn i de forslag og generelle anbefalinger som er gitt i tilknytning til rapportene.
 
-5. Komiteen skal, dersom den mener det er hensiktsmessig, oversende De forente nasjoners særorganisasjoner, fond og programmer, og andre kompetente organer, rapporter fra partene som inneholder en anmodning eller indikasjon om behov for teknisk råd eller bistand, sammen med komiteens eventuelle merknader og anbefalinger i tilknytning til en slik anmodning eller indikasjon.
+5\. Komiteen skal, dersom den mener det er hensiktsmessig, oversende De forente nasjoners særorganisasjoner, fond og programmer, og andre kompetente organer, rapporter fra partene som inneholder en anmodning eller indikasjon om behov for teknisk råd eller bistand, sammen med komiteens eventuelle merknader og anbefalinger i tilknytning til en slik anmodning eller indikasjon.
 
 ### Artikkel 37. Samarbeid mellom partene og komiteen
 
-1. Hver part skal samarbeide med komiteen og bistå komiteens medlemmer med å oppfylle deres mandat.
+1\. Hver part skal samarbeide med komiteen og bistå komiteens medlemmer med å oppfylle deres mandat.
 
-2. Komiteen skal i sitt forhold til partene legge behørig vekt på hvordan nasjonal evne til å gjennomføre denne konvensjon kan styrkes, herunder gjennom internasjonalt samarbeid.
+2\. Komiteen skal i sitt forhold til partene legge behørig vekt på hvordan nasjonal evne til å gjennomføre denne konvensjon kan styrkes, herunder gjennom internasjonalt samarbeid.
 
 ### Artikkel 38. Komiteens forhold til andre organer
 
@@ -5771,9 +5957,9 @@ Komiteen skal hvert annet år gi Generalforsamlingen og Det økonomiske og sosia
 
 ### Artikkel 40. Statspartsmøte
 
-1. Partene skal jevnlig komme sammen til statspartsmøte for å behandle enhver sak knyttet til gjennomføringen av denne konvensjon.
+1\. Partene skal jevnlig komme sammen til statspartsmøte for å behandle enhver sak knyttet til gjennomføringen av denne konvensjon.
 
-2. Senest seks måneder etter at denne konvensjon er trådt i kraft, skal De forente nasjoners generalsekretær sammenkalle til statspartsmøte. De forente nasjoners generalsekretær skal sammenkalle til de påfølgende møter hvert annet år eller når statspartsmøtet bestemmer det.
+2\. Senest seks måneder etter at denne konvensjon er trådt i kraft, skal De forente nasjoners generalsekretær sammenkalle til statspartsmøte. De forente nasjoners generalsekretær skal sammenkalle til de påfølgende møter hvert annet år eller når statspartsmøtet bestemmer det.
 
 ### Artikkel 41. Depositar
 
@@ -5789,33 +5975,33 @@ Denne konvensjon skal ratifiseres av signatarstatene og formelt bekreftes av org
 
 ### Artikkel 44. Organisasjoner for regional integrasjon
 
-1. Med «organisasjon for regional integrasjon» menes en organisasjon sammensatt av suverene stater i en gitt region, som av sine medlemsstater har fått overført kompetanse i saker som hører under denne konvensjon. Slike organisasjoner skal i sin formelle bekreftelse eller sitt tiltredelsesdokument avgi erklæring om hvor langt deres kompetanse går i saker som hører under denne konvensjon. De skal så underrette depositaren om enhver materiell endring i sin grad av kompetanse.
+1\. Med «organisasjon for regional integrasjon» menes en organisasjon sammensatt av suverene stater i en gitt region, som av sine medlemsstater har fått overført kompetanse i saker som hører under denne konvensjon. Slike organisasjoner skal i sin formelle bekreftelse eller sitt tiltredelsesdokument avgi erklæring om hvor langt deres kompetanse går i saker som hører under denne konvensjon. De skal så underrette depositaren om enhver materiell endring i sin grad av kompetanse.
 
-2. Henvisninger til «partene» i denne konvensjon omfatter også slike organisasjoner, innenfor rammen av deres kompetanse.
+2\. Henvisninger til «partene» i denne konvensjon omfatter også slike organisasjoner, innenfor rammen av deres kompetanse.
 
-3. For de formål som er angitt i artikkel 45 nr. 1 og artikkel 47 nr. 2 og 3, skal et dokument deponert av en organisasjon for regional integrasjon ikke regnes med.
+3\. For de formål som er angitt i artikkel 45 nr. 1 og artikkel 47 nr. 2 og 3, skal et dokument deponert av en organisasjon for regional integrasjon ikke regnes med.
 
-4. Organisasjoner for regional integrasjon kan i saker som hører under deres kompetanse, utøve sin rett til å stemme på statspartsmøtet, med et antall stemmer som tilsvarer antallet medlemsstater som er part i denne konvensjon. En slik organisasjon skal ikke utøve sin stemmerett dersom noen av dens medlemsstater utøver sin rett, og omvendt.
+4\. Organisasjoner for regional integrasjon kan i saker som hører under deres kompetanse, utøve sin rett til å stemme på statspartsmøtet, med et antall stemmer som tilsvarer antallet medlemsstater som er part i denne konvensjon. En slik organisasjon skal ikke utøve sin stemmerett dersom noen av dens medlemsstater utøver sin rett, og omvendt.
 
 ### Artikkel 45. Ikrafttredelse
 
-1. Denne konvensjon skal tre i kraft den trettiende dagen etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert.
+1\. Denne konvensjon skal tre i kraft den trettiende dagen etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert.
 
-2. For hver stat eller organisasjon for regional integrasjon som ratifiserer, formelt bekrefter eller tiltrer konvensjonen etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert, skal konvensjonen tre i kraft den trettiende dagen etter at slikt dokument er deponert.
+2\. For hver stat eller organisasjon for regional integrasjon som ratifiserer, formelt bekrefter eller tiltrer konvensjonen etter at det tjuende ratifikasjons- eller tiltredelsesdokumentet er deponert, skal konvensjonen tre i kraft den trettiende dagen etter at slikt dokument er deponert.
 
 ### Artikkel 46. Forbehold
 
-1. Det kan ikke tas forbehold som er uforenlige med denne konvensjons formål og hensikt.
+1\. Det kan ikke tas forbehold som er uforenlige med denne konvensjons formål og hensikt.
 
-2. Forbehold kan når som helst trekkes tilbake.
+2\. Forbehold kan når som helst trekkes tilbake.
 
 ### Artikkel 47. Endringer
 
-1. Enhver part kan foreslå en endring av denne konvensjon og sende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal oversende alle endringsforslag til partene, med anmodning om å få meddelt om de ønsker et statspartsmøte for å drøfte og stemme over forslagene. Dersom minst en tredjedel av partene innen fire måneder fra datoen for meddelelsen ønsker et slikt møte, skal generalsekretæren sammenkalle til møtet i De forente nasjoners regi. Enhver endring som er vedtatt med to tredjedels flertall av de parter som er til stede og avgir stemme, skal av generalsekretæren oversendes til De forente nasjoners generalforsamling til godkjenning, og deretter til samtlige parter til godtakelse.
+1\. Enhver part kan foreslå en endring av denne konvensjon og sende forslaget til De forente nasjoners generalsekretær. Generalsekretæren skal oversende alle endringsforslag til partene, med anmodning om å få meddelt om de ønsker et statspartsmøte for å drøfte og stemme over forslagene. Dersom minst en tredjedel av partene innen fire måneder fra datoen for meddelelsen ønsker et slikt møte, skal generalsekretæren sammenkalle til møtet i De forente nasjoners regi. Enhver endring som er vedtatt med to tredjedels flertall av de parter som er til stede og avgir stemme, skal av generalsekretæren oversendes til De forente nasjoners generalforsamling til godkjenning, og deretter til samtlige parter til godtakelse.
 
-2. En endring som er vedtatt og godkjent i samsvar med nr. 1 i denne artikkel, skal tre i kraft den trettiende dagen etter at det er deponert et antall godtakelsesdokumenter som tilsvarer to tredjedeler av antallet parter på tidspunktet da endringen ble vedtatt. Deretter skal endringen tre i kraft for enhver part den trettiende dagen etter at den har deponert sitt eget godtakelsesdokument. En endring skal være bindende bare for de parter som har godtatt den.
+2\. En endring som er vedtatt og godkjent i samsvar med nr. 1 i denne artikkel, skal tre i kraft den trettiende dagen etter at det er deponert et antall godtakelsesdokumenter som tilsvarer to tredjedeler av antallet parter på tidspunktet da endringen ble vedtatt. Deretter skal endringen tre i kraft for enhver part den trettiende dagen etter at den har deponert sitt eget godtakelsesdokument. En endring skal være bindende bare for de parter som har godtatt den.
 
-3. Dersom det besluttes av statspartsmøtet ved konsensus, skal en endring som er vedtatt og godkjent i samsvar med nr. 1 i denne artikkel, og som utelukkende gjelder artikkel 34, 38, 39 og 40, tre i kraft for samtlige parter den trettiende dagen etter at det er deponert et antall godtakelsesdokumenter som tilsvarer to tredjedeler av antallet parter på tidspunktet da endringen ble vedtatt.
+3\. Dersom det besluttes av statspartsmøtet ved konsensus, skal en endring som er vedtatt og godkjent i samsvar med nr. 1 i denne artikkel, og som utelukkende gjelder artikkel 34, 38, 39 og 40, tre i kraft for samtlige parter den trettiende dagen etter at det er deponert et antall godtakelsesdokumenter som tilsvarer to tredjedeler av antallet parter på tidspunktet da endringen ble vedtatt.
 
 ### Artikkel 48. Oppsigelse
 
@@ -5833,4 +6019,21 @@ Til bekreftelse på dette har de undertegnede, med behørig fullmakt fra sine re
 
 ## Vedlegg 13. Den europeiske menneskerettskonvensjonen med protokoller (nordsamisk oversettelse)1
 
+Dán Eurohpá olmmošvuoigatvuođakonvenšuvnna jorgalusas leat ođđaseamos rievdadusat maid jorgaluvvon, gitta ja oktan 15 protokollain.
+(Denne oversettelsen av Den europeiske menneskerettskonvensjonen er à jour til og med endringer ved protokoll 15.)
+
+Se her for å lese konvensjonen på nordsamisk: [pdf-lenke](static/NL/nl-19990521-030-01-01.pdf).
+
+1 Konvensjonen er oversatt av Inger-Marie Oskal. Oversettelsen ble tilføyd som vedlegg 9. juni 2023 av Lovdata.
+
 ## Vedlegg 14. FNs konvensjon om barnets rettigheter med protokoller (nordsamisk oversettelse)1
+
+ON´ konvenšuvdna máná vuoigatvuođaid birra.
+(FNs konvensjon om barns rettigheter.)
+
+Mearriduvvon Ovttastuvvon našuvnnain skábmamánu 20.b. 1989. Dohkkehuvvon Norgga bealis ođđajagimánu 8.b. 1991. Divoduvvon jorgaleapmi borgemánu 2006 oktan lassiprotokollaiguin.
+(Vedtatt av De forente nasjoner 20. november 1989. Ratifisert av Norge 8. januar 1991. Korrigert oversettelse august 2006 med tilleggsprotokoller.)
+
+Se her for å lese konvensjonen på nordsamisk: [pdf-lenke](static/NL/nl-19990521-030-02-01.pdf).
+
+1 Oversettelsen ble hentet fra regjeringen.no og tilføyd som vedlegg 12. mars 2025 av Lovdata.

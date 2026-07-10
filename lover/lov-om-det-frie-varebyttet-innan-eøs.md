@@ -41,7 +41,21 @@ Lova vert sett i verk straks.
 
 Nedenfor gjengis [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel XX punkt 1 (frd. [2679/98](eu/31998r2679)) slik Justisdepartementet meiner at forordninga skal forståast med dei EØS-tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles.
 
+1 Overskrift tilføyd av Lovdata.
+
 ### Rådsforordning1 (EF) nr. 2679/98 av 7. desember 1998 om det indre markeds virkemåte med hensyn til det frie varebytte innen EØS
+
+[Rådet for Den europeiske union har
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 235,
+
+under henvisning til forslag fra Kommisjonen2
+
+under henvisning til uttalelse fra Europaparlamentet3
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité4
+
+ut fra følgende betraktninger:
 
 1. I henhold til traktatens artikkel 7 A utgjør det indre marked et område uten indre grenser, der særlig det frie varebytte er sikret i samsvar med bestemmelsene i traktatens artikkel 30-36.
 2. Enhver krenkelse av dette prinsippet, for eksempel ved at privatpersoner hindrer det frie varebytte i en medlemsstat, kan i betydelig grad forstyrre det indre markeds virkemåte og medføre alvorlig skade for de privatpersoner som rammes.
@@ -53,6 +67,18 @@ Nedenfor gjengis [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2) kapittel 
 8. Medlemsstater der det oppstår hindringer i det frie varebytte bør treffe alle nødvendige og hensiktsmessige tiltak for raskest mulig å gjenopprette det frie varebytte på sitt territorium, på en slik måte at enhver fare for at forstyrrelsen eller skaden vedvarer, brer seg eller forverres samt enhver fare for sammenbrudd i handelen og de underliggende avtalefestede ordninger, fjernes. Medlemsstaten bør underrette Kommisjonen og på forespørsel også de andre medlemsstatene om hvilke tiltak den har truffet eller vil treffe for dette formål.
 9. For å oppfylle sine forpliktelser i henhold til traktaten bør Kommisjonen underrette den berørte medlemsstat om at den mener det foreligger brudd på reglene, og om at medlemsstaten bør reagere på Kommisjonens underretning.
 10. Traktaten inneholder ikke annen fullmakt enn artikkel 235 for vedtakelsen av denne forordning.
+
+vedtatt denne forordning:]5
+
+1 Forordning [(EF) nr. 2679/98](eu/31998r2679) slik Justisdepartementet meiner at forordninga skal forståast med dei EØS-tilpassingane som følgjer av vedlegg II og protokoll 1 til avtalen og avtalen elles. Tilpassingane er innarbeida av informasjonsomsyn.
+
+2 EFT C 10 av 15.1.1998, s. 14.
+
+3 EFT C 359 av 23.11.1998.
+
+4 EFT C 214 av 10.7.1998, s. 90.
+
+5 Ordlyden i innleiinga (fortala) til dee rettsaktene som er innlemma i EØS-avtala, er ikkje tilpassa EØS, jf. EØS-avtala protokoll 1 nr. 1, der det heiter at innleiinga bare er relevant så langt den kan medverke til ei korrekt tolking av føresegnene i rettsaktene innafor ramma av EØS-avtala.
 
 ### Art 1
 

@@ -146,3 +146,5 @@ Medisinsk utstyr som er EØF-typegodkjent i samsvar med direktiv [76/764/EØF](e
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 > Endret ved [lov 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), tidligere § 14.
+
+1 Ikr. straks iflg. [res. 12 jan 1995 nr. 23](forskrift/1995-01-12-23).

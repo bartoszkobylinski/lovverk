@@ -72,6 +72,18 @@ Avstanden mellom det teoretiske påfyllingsnivået for den nominelle kapasitet o
 
 For å gjøre det mulig, idet det tas hensyn til den vanlige usikkerhet ved påfyllingen, å måle volumet av innholdet av måleflaskene med tilstrekkelig nøyaktighet, særlig med den nøyaktighet som kreves i henhold til direktivene om ferdigpakninger, skal de største tillatte avvik (positive eller negative) i kapasiteten til en måleflaske, dvs. de største tillatte forskjeller (positive eller negative) ved en temperatur på 20 °C og under de kontrollvilkår som fremgår i denne paragrafen, mellom den faktiske kapasitet og den nominelle kapasitet Vn, være som angitt i tabellen nedenfor:
 
+*Tabell 1 – tillatte målefeil*
+
+| *Nominell kapasitet Vn i milliliter* | *Tillatte feil* |  |
+| --- | --- | --- |
+|  | *i % av Vn* | *i milliliter* |
+| Fra 50 til 100 | – | 3 |
+| Fra 100 til 200 | 3 | – |
+| Fra 200 til 300 | – | 6 |
+| Fra 300 til 400 | 2 | – |
+| Fra 500 til 1 000 | – | 10 |
+| Fra 1 000 til 5 000 | 1 | – |
+
 Det er ikke tillatt med systematisk utnyttelse av toleranser.
 
 I praksis skal en måleflaskes faktiske kapasitet kontrolleres ved å bestemme den vannmengde med 20 °C som flasken faktisk inneholder når den er fylt til det nivå som teoretisk tilsvarer den nominelle kapasitet. Den kan også kontrolleres indirekte etter en metode med tilsvarende nøyaktighet. Målefeilen for kapasiteten skal ikke være større enn en femdel av det største tillatte avvik for måleflaskens nominelle kapasitet.

@@ -42,6 +42,12 @@ Forskriften gjelder tilsvarende for vegmyndighetens oppfølgning og drift og ved
 
 I denne forskrift menes med:
 
+*ledningsanlegg:* ledninger, kabler og innretninger som nevnt i [vegloven § 32](lov/1963-06-21-23/§32).
+
+*ledningsarbeider:* alle typer inngrep i tilknytning til ledningsanlegg enten dette skjer ved graving, boring, legging, omlegging, utskifting, fjerning eller lignende tiltak.
+
+*ledningseier:* enhver som står ansvarlig for ledningsarbeider, som krever tillatelse etter [vegloven § 32](lov/1963-06-21-23/§32), eller for øvrig har ledningsanlegg i offentlig veg.
+
 ## II Tillatelse til ledningsarbeid
 
 ### § 4. Søknad om tillatelse

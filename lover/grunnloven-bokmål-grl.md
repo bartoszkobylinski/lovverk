@@ -22,6 +22,12 @@ eu_basis: []
 
 # Kongeriket Norges Grunnlov
 
+gitt i riksforsamlingen på Eidsvoll den 17. mai 1814,
+
+slik den lyder etter senere endringer,
+
+senest stortingsvedtak av 21. mai 2024
+
 ## A. Om statsformen
 
 > Overskriften endret ved grunnlovsvedtak 21 mai 2012 kunngjort ved [res. 15 juni 2012 nr. 522](forskrift/2012-06-15-522), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
@@ -97,6 +103,8 @@ Er intet storting på den tid samlet, nedlegges eden skriftlig i statsrådet og 
 > Endret ved grunnlovsvedtak 19 aug 1908, 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
 
 ### § 10
+
+(Opphevet ved grunnlovsvedtak 14 mars 1908.)
 
 ### § 11
 
@@ -266,6 +274,8 @@ De beslutninger som fattes av regjeringen under kongens fravær, utferdiges i ko
 
 ### § 33
 
+(Opphevet ved grunnlovsvedtak 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1088](forskrift/2020-05-29-1088), flyttet til § 120 a).
+
 > Opphevet ved grunnlovsvedtak 24 okt 1908, tilføyd ved grunnlovsvedtak 24 mai 2016 kunngjort ved [res. 10 juni 2016 nr. 615](forskrift/2016-06-10-615), opphevet ved grunnlovsvedtak 14 mai 2020 kunngjort ved [res. 29 mai 2020 nr. 1088](forskrift/2020-05-29-1088), flyttet til § 120 a.
 
 ### § 34
@@ -296,6 +306,8 @@ De kongelige prinser og prinsesser skal for sine personer ikke stå til ansvar f
 
 ### § 38
 
+(Opphevet ved vedtak 18 nov 1905.)
+
 ### § 39
 
 Dør kongen og tronfølgeren ennå er umyndig, skal statsrådet straks innkalle Stortinget.
@@ -315,6 +327,8 @@ Er kongen fraværende fra riket uten å være i felt, eller er han så syk at ha
 > Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
 
 ### § 42
+
+(Opphevet ved vedtak 18 nov 1905.)
 
 ### § 43
 
@@ -384,7 +398,11 @@ Regler om manntallsføringen og om innføringen av de stemmeberettigede i mannta
 
 ### § 52
 
+(Opphevet ved grunnlovsvedtak 26 okt 1954 kunngjort 12 nov 1954.)
+
 ### § 53
+
+(Opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved [res. 22 juni 2022 nr. 1133](forskrift/2022-06-22-1133))
 
 > Endret ved grunnlovsvedtak 6 juni 1877, 16 mars 1887, 22 mai 1902, 20 juni 1935 kunngjort 25 juni 1935, 26 okt 1954 kunngjort 12 nov 1954, 23 apr 1959 kunngjort 15 mai 1959, 17 jan 1980 kunngjort 15 feb 1980, 23 mai 2003 kunngjort ved [res. 27 juni 2003 nr. 766](forskrift/2003-06-27-766), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved [res. 22 juni 2022 nr. 1133](forskrift/2022-06-22-1133).
 
@@ -456,6 +474,8 @@ Listeforbund er ikke tillatt.
 
 ### § 60
 
+(Opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved [res. 22 juni 2022 nr. 1133](forskrift/2022-06-22-1133))
+
 > Endret ved grunnlovsvedtak 20 juni 1896, 25 mai 1905, 8 mars 1929 kunngjort 23 mars 1929, 2 feb 2006 kunngjort ved [res. 3 mars 2006 nr. 270](forskrift/2006-03-03-270), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved [res. 22 juni 2022 nr. 1133](forskrift/2022-06-22-1133).
 
 ### § 61
@@ -525,6 +545,8 @@ Når Stortinget ikke er samlet, kan det sammenkalles av kongen dersom han finner
 > Endret ved grunnlovsvedtak 24 apr 1869, 8 apr 1916 kunngjort 28 apr 1916, 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550), 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613).
 
 ### § 70
+
+(Opphevet ved grunnlovsvedtak 29 mai 1990 kunngjort ved [res. 13 juli 1990 nr. 550](forskrift/1990-07-13-550).)
 
 ### § 71
 
@@ -762,6 +784,8 @@ Intet menneske må utsettes for usaklig eller uforholdsmessig forskjellsbehandli
 
 ### § 99
 
+(Opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628).)
+
 > Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628).
 
 ### § 100
@@ -797,6 +821,8 @@ Statens myndigheter skal sikre et vern om den personlige integritet.
 > Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628), tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628), vedtak 27 mai 2014 kunngjort ved [res. 20 juni 2014 nr. 778](forskrift/2014-06-20-778).
 
 ### § 103
+
+(Opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628)).
 
 > Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved [res. 9 mai 2014 nr. 613](forskrift/2014-05-09-613), opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved [res. 14 mai 2014 nr. 628](forskrift/2014-05-14-628).
 

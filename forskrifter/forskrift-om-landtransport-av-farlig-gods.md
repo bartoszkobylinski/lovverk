@@ -42,6 +42,33 @@ ADR og RID gjelder likevel ikke for:transport av farlig gods som i sin helhet fo
 
 I forskriften skal følgende forstås slik:
 
+*ADR* – den til enhver tid gjeldende utgave av den europeiske avtale om internasjonal veitransport av farlig gods, inngått 30. september 1957, med bilag A og B.
+
+*Farlig gods* – gods klassifisert som farlig i henhold til ADR/RID, og som inndeles i følgende
+klasser:
+
+|  |  |
+| --- | --- |
+| Klasse 1 | Eksplosive stoffer og gjenstander |
+| Klasse 2 | Gasser |
+| Klasse 3 | Brannfarlige væsker |
+| Klasse 4.1 | Brannfarlige faste stoffer, selvreaktive stoffer, polymeriserende stoffer og faste eksplosivstoffer som er gjort ufølsomme |
+| Klasse 4.2 | Selvantennende stoffer |
+| Klasse 4.3 | Stoffer som utvikler brennbare gasser i kontakt med vann |
+| Klasse 5.1 | Oksiderende stoffer |
+| Klasse 5.2 | Organiske peroksider |
+| Klasse 6.1 | Giftige stoffer |
+| Klasse 6.2 | Infeksjonsfremmende stoffer |
+| Klasse 7 | Radioaktivt materiale |
+| Klasse 8 | Etsende stoffer |
+| Klasse 9 | Forskjellige farlige stoffer og gjenstander. |
+
+*Kjøretøy* – enhver motorvogn beregnet for bruk på vei, som har minst fire hjul og er konstruert for en maksimal hastighet på over 25 km/t og enhver tilhenger, med unntak av kjøretøy som går på skinner, og mobile maskiner, samt landbruks- og skogbrukstraktorer som ikke kjører raskere enn 40 km/t ved transport av farlig gods.
+
+*RID* – den til enhver tid gjeldende utgave av det internasjonale reglement for transport av farlig gods på jernbane, som fremgår av vedlegg C i konvensjonen om internasjonal jernbanetransport (COTIF).
+
+*Tom, ikke rengjort tank* – tank, inklusiv stasjonær tank, som inneholder mindre væske eller gass i væskefase enn 15 prosent av tankens volum, og maksimalt 1500 kg.
+
 > Endret ved [forskrifter 13 jan 2014 nr. 26](forskrift/2014-01-13-26), [14 nov 2016 nr. 1311](forskrift/2016-11-14-1311) (i kraft 1 jan 2017), [22 nov 2018 nr. 1733](forskrift/2018-11-22-1733) (i kraft 1 jan 2019).
 
 ## Kapittel 2 – Alminnelige bestemmelser

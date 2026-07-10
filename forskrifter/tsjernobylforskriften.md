@@ -76,17 +76,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I k
 
 Forordning [(EU) 2020/1158](eu/32020r1158) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2024/256](eu/32024r0256).
 
+►**B** Kommisjonsforordning [(EU) 2020/1158](eu/32020r1158) av 5. august 2020
+
+som endret ved:
+
 - ►**M1** Kommisjonsforordning [(EU) 2024/256](eu/32024r0256) av 17. januar 2024
 
 ### COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158)
 of 5 August 2020
 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station
 
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
 Having regard to the Treaty on the Functioning of the European Union,
 
 Having regard to Regulation [(EC) No 178/2002](eu/32002r0178) of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety1, and in particular Article 53(1)(b)(ii) thereof,
 
 Having regard to Regulation [(EU) 2017/625](eu/32017r0625*) of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No 999/2001](eu/32001r0999), (EC) [No 396/2005](eu/32005r0396), (EC) [No 1069/2009](eu/32009r1069), (EC) [No 1107/2009](eu/32009r1107), (EU) [No 1151/2012](eu/32012r1151*), (EU) [No 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) and (EU) [2016/2031](eu/32016r2031) of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](eu/32005r0001*) and (EC) [No 1099/2009](eu/32009r1099) and Council Directives [98/58/EC](eu/31998l0058), [1999/74/EC](eu/31999l0074), [2007/43/EC](eu/32007l0043), [2008/119/EC](eu/32008l0119) and [2008/120/EC](eu/32008*0120), and repealing Regulations [(EC) No 854/2004](eu/32004r0854*) and (EC) [No 882/2004](eu/32004r0882*) of the European Parliament and of the Council, Council Directives [89/608/EEC](eu/31989l0608), [89/662/EEC](eu/31989l0662*), [90/425/EEC](eu/31990l0425), [91/496/EEC](eu/31991l0496*), [96/23/EC](eu/31996l0023), [96/93/EC](eu/31996*0093) and [97/78/EC](eu/31997l0078) and Council Decision [92/438/EEC](eu/31992d0438) (Official Controls Regulation)2, and in particular point (b) of the first subparagraph of Article 54(4) and points (a), (c) and (f) of the first paragraph of Article 90 thereof,
+
+Whereas:
 
 (1) Council Regulation [(EC) No 733/2008](eu/32008r0733)3 had established maximum permitted levels of radioactivity in certain agricultural products originating in third countries. It also established that Member States are required to carry out checks on such products, in order to ensure their compliance with the levels of radioactivity set out in that Regulation, before the product is released for free circulation. That Regulation expired on 31 March 2020. Given that Commission Recommendation [2003/274/Euratom](eu/32003*0274)4 refers to the maximum permitted levels of radioactivity established by that Council Regulation, it should be amended to refer the maximum levels established by this Regulation.
 
@@ -128,44 +138,90 @@ Having regard to Regulation [(EU) 2017/625](eu/32017r0625*) of the European Parl
 
 (20) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
 
+1 OJ L 31, 1.2.2002, p. 1.
+
+2 OJ L 95, 7.4.2017, p. 1.
+
+3 Council Regulation [(EC) No 733/2008](eu/32008r0733) of 15 July 2008 on the conditions governing imports of agricultural products originating in third countries following the accident at the Chernobyl nuclear power station (OJ L 201, 30.7.2008, p. 1).
+
+4 Commission Recommendation [2003/274/Euratom](eu/32003*0274) on the protection and information of the public with regard to exposure resulting from the continued radioactive caesium contamination of certain wild food products as a consequence of the accident at the Chernobyl nuclear power station ((OJ L 099, 17.4.2003, p.55).
+
+5 Commission Implementing Regulation [(EU) No 297/2011](eu/32011r0297) of 25 March 2011 imposing special conditions governing the import of feed and food originating in or consigned from Japan following the accident at the Fukushima nuclear power station (OJ L 80, 26.3.2011, p. 5).
+
+6 Opinion of the Group of Experts referred to in Article 31 of the Euratom Treaty on the Prolongation of the latest Post-Chernobyl Regulation – Council Regulation [733/2008](eu/32008r0733) amended by Council Regulation [1048/2009](eu/32009r1048) (Adopted at the meeting on 15 November 2018) Available at: https://ec.europa.eu/energy/sites/ener/files/opinion_on_prolongation_of_post-chernobyl_regulations_15_november_2018.pdf
+
+7 Opinion of the Group of Experts referred to in Article 31 of the Euratom Treaty on a draft proposal for an implementing regulation imposing conditions governing the import of food, minor food and feed originating in third countries following the accident at the Chernobyl nuclear power station (Adopted at the meeting on 13 June 2019) Available at: https://ec.europa.eu/energy/sites/ener/files/opinion_on_implementing_regulation_on_post-chernobyl_measures_13_june_2019.pdf
+
+8 Regulation [(EU) No 609/2013](eu/32013r0609) of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](eu/31992l0052), Commission Directives [96/8/EC](eu/31996l0008), [1999/21/EC](eu/31999l0021*), [2006/125/EC](eu/32006l0125) and [2006/141/EC](eu/32006l0141), Directive [2009/39/EC](eu/32009l0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](eu/32009r0041) and (EC) [No 953/2009](eu/32009r0953) (OJ L 181, 29.6.2013, p. 35).
+
+9 Council Regulation [(Euratom) 2016/52](eu/32016r0052) of 15 January 2016 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation [(Euratom) No 3954/87](eu/31987r3954*) and Commission Regulations [(Euratom) No 944/89](eu/31989r0944) and (Euratom) No 770/90 (OJ L 13, 20.1.2016, p. 2).
+
+10 Commission Regulation [(EC) No 1635/2006](eu/32006r1635) of 6 November 2006 laying down detailed rules for the application of Council Regulation (EEC) [No 737/90](eu/31990r0737) on the conditions governing imports of agricultural products originating in third countries following the accident at the Chernobyl nuclear power station (OJ L 306, 7.11.2006, p. 3).
+
+11 Commission Regulation [(EC) No 1609/2000](eu/32000r1609) of 24 July 2000 establishing a list of products excluded from the application of Council Regulation (EEC) [No 737/90](eu/31990r0737) on the conditions governing imports of agricultural products originating in third countries following the accident at the Chernobyl nuclear power station (OJ L 185, 25.7.2000, p. 27).
+
+12 Commission Implementing Regulation [(EU) 2019/628](eu/32019r0628*) of 8 April 2019 concerning model official certificates for certain animals and goods and amending Regulation [(EC) No 2074/2005](eu/32005r2074) and Implementing Regulation [(EU) 2016/759](eu/32016r0759) as regards these model certificates, (OJ L 131, 17.5.2019, p. 101).
+
+13 Commission Implementing Regulation [(EU) 2019/595](eu/32019r0595) of 11 April 2019 amending Regulation [(EC) No 1635/2006](eu/32006r1635) laying down detailed rules for the application of Council Regulation (EEC) [No 737/90](eu/31990r0737) by reason of the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the Union (OJ L 103, 12.4.2019, p. 22).
+
+14 Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community (OJ L 29, 31.1.2020, p. 7).
+
+HAS ADOPTED THIS REGULATION:
+
 ### Article 1. Scope
 
-1. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation [(Euratom) 2016/52](eu/32016r0052) originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the Union market.
+1\. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation [(Euratom) 2016/52](eu/32016r0052) originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the Union market.
 
-2. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:consignments sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market;consignments which form part of passengers’ personal luggage and are intended for personal consumption or use;non-commercial consignments sent to natural persons which are not intended to be placed on the market;consignments intended for scientific purposes.In case of doubt on the intended use of the products referred to in points (b) and (c), the burden of proof lies with the owner of the personal luggage and with the recipient of the consignment, respectively.
+2\. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:consignments sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market;consignments which form part of passengers’ personal luggage and are intended for personal consumption or use;non-commercial consignments sent to natural persons which are not intended to be placed on the market;consignments intended for scientific purposes.In case of doubt on the intended use of the products referred to in points (b) and (c), the burden of proof lies with the owner of the personal luggage and with the recipient of the consignment, respectively.
 
 ### Article 2. Definitions
+
+For the purposes of this Regulation, the following definitions apply:
 
 1. ‘border control post’ means ‘border control post’ as defined in point (38) of Article 3 of Regulation [(EU) 2017/625](eu/32017r0625*);
 2. ‘consignment’ means ‘consignment’ as defined in point (37) of Article 3 of Regulation [(EU) 2017/625](eu/32017r0625*).
 
 ### Article 3. Conditions for entry into the Union
 
-1. The products may only enter the Union if they comply with this Regulation.
+1\. The products may only enter the Union if they comply with this Regulation.
 
-2. The products shall comply with the following accumulated maximum permitted levels of radioactive contamination in terms of caesium-137*:370 Bq/kg for milk and milk products and for food for infants and young children as defined in Article 2(2)(a) and (b) of Regulation [(EU) No 609/2013](eu/32013r0609);600 Bq/kg for all other products concerned.
+►**M1**
 
-3. Each consignment of products listed in Annex II, with reference to the relevant code from the Combined Nomenclature, from third countries listed in Annex I, shall be accompanied by an official certificate referred to in Article 4. Each consignment shall be identified by means of an identification code which shall be indicated on the official certificate and on the Common Health Entry Document (CHED), as provided for in Article 56 of Regulation [(EU) 2017/625](eu/32017r0625*).
+2\. The products shall comply with the following accumulated maximum permitted levels of radioactive contamination in terms of caesium-137\*:370 Bq/kg for milk and milk products and for food for infants and young children as defined in Article 2(2)(a) and (b) of Regulation [(EU) No 609/2013](eu/32013r0609);600 Bq/kg for all other products concerned.
+
+\* The level applicable to concentrated or dried products shall be calculated on the basis of the reconstituted product as ready for consumption.
+
+◄**M1**
+
+3\. Each consignment of products listed in Annex II, with reference to the relevant code from the Combined Nomenclature, from third countries listed in Annex I, shall be accompanied by an official certificate referred to in Article 4. Each consignment shall be identified by means of an identification code which shall be indicated on the official certificate and on the Common Health Entry Document (CHED), as provided for in Article 56 of Regulation [(EU) 2017/625](eu/32017r0625*).
 
 ### Article 4. Official certificate
 
-1. The official certificate referred to in Article 3(3) shall be issued by the competent authority of the third country of origin or of the third country where the consignment is consigned, if that country is different from the country of origin, in accordance with the model set out in Annex III.
+1\. The official certificate referred to in Article 3(3) shall be issued by the competent authority of the third country of origin or of the third country where the consignment is consigned, if that country is different from the country of origin, in accordance with the model set out in Annex III.
 
-2. The official certificate shall comply with the following requirements:it shall bear the identification code referred to in Article 3(3), of the consignment to which it relates;it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
+2\. The official certificate shall comply with the following requirements:it shall bear the identification code referred to in Article 3(3), of the consignment to which it relates;it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
 
-3. The official certificate which is not submitted in the Information Management System for Official Controls (IMSOC) by the competent authority of the third country issuing it shall also meet the requirements for model official certificates not submitted in IMSOC laid down in Article 5 of Implementing Regulation [(EU) 2020/2235](eu/32020r2235).
+►**M1**
 
-4. Competent authorities may issue a replacement official certificate only in accordance with the rules laid down in Article 6 of Implementing Regulation [(EU) 2020/2235](eu/32020r2235).
+3\. The official certificate which is not submitted in the Information Management System for Official Controls (IMSOC) by the competent authority of the third country issuing it shall also meet the requirements for model official certificates not submitted in IMSOC laid down in Article 5 of Implementing Regulation [(EU) 2020/2235](eu/32020r2235).
 
-5. The official certificate shall be completed on the basis of the instructions set out in Annex IV.
+4\. Competent authorities may issue a replacement official certificate only in accordance with the rules laid down in Article 6 of Implementing Regulation [(EU) 2020/2235](eu/32020r2235).
 
-6. The official certificate shall attest that the products comply with the maximum permitted levels laid down in Article 3(2). The official certificate shall be accompanied by the results of sampling and analysis performed on that consignment by the competent authority of the third country of origin or of the country where the consignment is consigned from, if that country is different from the country of origin.
+◄**M1**
+
+5\. The official certificate shall be completed on the basis of the instructions set out in Annex IV.
+
+6\. The official certificate shall attest that the products comply with the maximum permitted levels laid down in Article 3(2). The official certificate shall be accompanied by the results of sampling and analysis performed on that consignment by the competent authority of the third country of origin or of the country where the consignment is consigned from, if that country is different from the country of origin.
 
 ### Article 5. Official controls at entry into the Union
 
-1. Consignments of products of non-animal origin referred to in Article 3(3) shall be subject to official controls at their entry into the Union at a border control post and/or at a designated control point.Consignments of products referred to in Article 3(3) containing ingredient or ingredients of animal origin shall be subject to official controls at their entry into the Union at a border control post.
+►**M1**
 
-2. The competent authorities of the border control post shall carry out identity checks and physical checks on these consignments, including a laboratory analysis on the presence of caesium-137, at a frequency of 20 %.
+1\. Consignments of products of non-animal origin referred to in Article 3(3) shall be subject to official controls at their entry into the Union at a border control post and/or at a designated control point.Consignments of products referred to in Article 3(3) containing ingredient or ingredients of animal origin shall be subject to official controls at their entry into the Union at a border control post.
+
+◄**M1**
+
+2\. The competent authorities of the border control post shall carry out identity checks and physical checks on these consignments, including a laboratory analysis on the presence of caesium-137, at a frequency of 20 %.
 
 ### Article 6. Release for free circulation
 
@@ -193,17 +249,107 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 Done at Brussels, 5 August 2020.
 
+|  |  |
+| --- | --- |
+|  | *For the Commission* |
+|  |  |
+|  | *The President* |
+|  |  |
+|  | *Ursula VON DER LEYEN* |
+
 ### VEDLEGG I
 Lister over stater utenfor EØS-området som nevnt i artikkel 1:1
+
+Albania
+
+Hviterussland
+
+Bosnia-Hercegovina
+
+Kosovo1
+
+Nord-Makedonia
+
+Moldova
+
+Montenegro
+
+Russland
+
+Serbia
+
+Sveits
+
+Tyrkia
+
+Ukraina
+
+Det forente kongerike Storbritannia, unntatt Nord-Irland2
+
+1 This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
+
+2 Applicable as from the day following that on which Union law ceases to apply to and in the United Kingdom pursuant to the Withdrawal Agreement.
+
+►**M1**
 
 ### VEDLEGG II
 List of products to which the conditions laid down in Article 3(3) apply
 
+|  |  |  |
+| --- | --- | --- |
+| **KN kode** | **Norske varenummer** | **Beskrivelse** |
+| ex 0709 51 00 | ex 07.09.5100 | mushrooms of the genus *Agaricus*, fresh or chilled, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Agaricus*, fresh or chilled |
+| ex 0709 52 00 | ex 07.09.5200 | mushrooms of the genus *Boletus*, fresh or chilled, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Boletus*, fresh or chilled |
+| ex 0709 53 00 | ex 07.09.5300 | mushrooms of the genus *Cantharellus*, fresh or chilled, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Cantharellus*, fresh or chilled |
+| ex 0709 54 00 | ex 07.09.5400 | shiitake (*Lentinus edodes*), fresh or chilled, other than cultivated;<br>mixtures of cultivated and wild shiitake (*Lentinus edodes*), fresh or chilled |
+| ex 0709 55 00 | ex 07.09.5500 | matsutake (*Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum*), fresh or chilled, other than cultivated;<br>mixtures of cultivated and wild matsutake (*Tricholoma matsutake, Tricholoma magnivelare, Tricholoma anatolicum, Tricholoma dulciolens, Tricholoma caligatum*), fresh or chilled |
+| ex 0709 56 00 | ex 07.09.5600 | truffles (*Tuber spp.*), fresh or chilled, other than cultivated;<br>mixtures of cultivated and wild truffles (*Tuber spp.*), fresh or chilled |
+| ex 0709 59 00 | ex 07.09.5900 | other mushrooms, fresh or chilled, other than cultivated mushrooms;<br>mixtures of cultivated and wild other mushrooms, fresh or chilled |
+| ex 0710 80 61 | ex 07.10.8040 | mushrooms of the genus *Agaricus* (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Agaricus* (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0710 80 69 | ex 07.10.8040 | other mushrooms (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated mushrooms;<br>mixtures of cultivated and wild other mushrooms (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0710 80 95 | ex 07.10.8040 | truffles (*Tuber spp.*) (uncooked or cooked by steaming or boiling in water), frozen, other than cultivated;<br>mixtures of cultivated and wild truffles (uncooked or cooked by steaming or boiling in water), frozen |
+| ex 0711 51 00 | ex 07.11.5100 | mushrooms of the genus *Agaricus* provisionally preserved, but unsuitable in that state for immediate consumption, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Agaricus* provisionally preserved, but unsuitable in that state for immediate consumption |
+| ex 0711 59 00 | ex 07.11.5900 | other mushrooms and truffles provisionally preserved, but unsuitable in that state for immediate consumption, other than cultivated mushrooms;<br>mixtures of cultivated and wild other mushrooms and truffles provisionally preserved, but unsuitable in that state for immediate consumption |
+| ex 0712 31 00 | ex 07.12.3100 | mushrooms of the genus *Agaricus*, dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms of the genus *Agaricus*, dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 32 00 | ex 07.12.3200 | wood ears (*Auricularia spp.*) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms;<br>mixtures of cultivated and wild wood ears (*Auricularia spp.*) dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 33 00 | ex 07.12.3300 | jelly fungi (*Tremella spp.*) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms;<br>mixtures of cultivated and wild jelly fungi (*Tremella spp.)* dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 34 00 | ex 07.12.3400 | shiitake *(Lentinus edodes*) dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms;<br>mixtures of cultivated and wild shiitake (*Lentinus edodes*) dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 0712 39 00 | ex 07.12.3901;<br>ex 07.12.3909 | other mushrooms and truffles, dried, whole, cut, sliced, broken or in powder, but not further prepared, other than cultivated mushrooms;<br>mixtures of cultivated and wild other mushrooms and truffles, dried, whole, cut, sliced, broken or in powder, but not further prepared |
+| ex 2001 90 50 | ex 20.01.9069 | mushrooms prepared or preserved by vinegar or acetic acid other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms prepared or preserved by vinegar or acetic acid |
+| ex 2001 90 97 | ex 20.01.9069 | truffles (*Tuber spp.*) prepared or preserved by vinegar or acetic acid other than cultivated;<br>mixtures of cultivated and wild truffles (*Tuber spp.*) prepared or preserved by vinegar or acetic acid |
+| ex 2003 | ex 20.03 | mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid, other than cultivated mushrooms;<br>mixtures of cultivated and wild mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid |
+| ex 0810 40 | ex 08.10.4010;<br>ex 08.10.4090 | wild cranberries, wild bilberries and other wild fruit of the genus *Vaccinium*, fresh;<br>mixtures of wild and cultivated cranberries, bilberries and other fruit of the genus *Vaccinium*, fresh |
+| ex 0811 90 50 | ex 08.11.9004 | wild fruits of the species *Vaccinium myrtillus*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter;<br>mixtures of wild and cultivated fruits of the species *Vaccinium myrtillus*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0811 90 70 | ex 08.11.9004 | wild fruits of the species *Vaccinium myrtilloides* and *Vaccinium angustifolium*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter;<br>mixtures of wild and cultivated fruits of the species *Vaccinium myrtilloides* and *Vaccinium angustifolium*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0811 90 95 | ex 08.11.9008 | wild fruits of other species of the genus *Vaccinium*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter;<br>mixtures of wild and cultivated fruits of the other species of the genus *Vaccinium*, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter |
+| ex 0812 90 40 | ex 08.12.9090 | wild fruits of the species *Vaccinium myrtillus*, provisionally preserved, but unsuitable in that state for immediate consumption;<br>mixtures of wild and cultivated fruits of the species *Vaccinium myrtillus* provisionally preserved, but unsuitable in that state for immediate consumption |
+| ex 0813 40 95 | 08.13.4001;<br>ex 08.13.4002 | wild fruits, dried, of the genus *Vaccinium* |
+| ex 0813 50 15<br>ex 0813 50 19<br>ex 0813 50 91<br>ex 0813 50 99 | ex 08.13.5010;<br>ex 08.13.5092;<br>ex 0813.5099 | mixture of dried fruits or of nuts and dried fruits containing wild fruits of the genus *Vaccinium* |
+| ex 2007 | ex 20.07 | jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter, made from and/or containing wild fruits of the genus *Vaccinium* or processed products thereof |
+| ex 2008 93 | ex 20.08.9300 | wild cranberries (*Vaccinium macrocarpon, Vaccinium oxycoccos*) and lingonberries (*Vaccinium vitis-idaea*), otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included;<br>mixtures of wild and cultivated cranberries (*Vaccinium macrocarpon, Vaccinium oxycoccos*) and lingonberries (*Vaccinium vitis-idaea*), otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included |
+| ex 2008 97 | ex 20.08.9701;<br>ex 20.08.9709 | mixtures of fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included, containing wild fruits of the genus *Vaccinium* |
+| ex 2008 99 28<br>ex 2008 99 34<br>ex 2008 99 37<br>ex 2008 99 40<br>ex 2008 99 49<br>ex 2008 99 67<br>ex 2008 99 99 | ex 20.08.9909 | other wild fruits of the genus *Vaccinium*, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included;<br>mixtures of wild and cultivated other fruits of the genus *Vaccinium*, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included |
+| ex 2009 81 | ex 20.09.8100 | cranberry (*Vaccinium macrocarpon, Vaccinium oxycoccos*) juice and lingonberry (*Vaccinium vitis-idaea*) juice from wild fruits, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter;<br>cranberry (*Vaccinium macrocarpon, Vaccinium oxycoccos*) juice and lingonberry (*Vaccinium vitis-idaea*) juice from a mixture of wild and cultivated fruits, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
+| ex 2009 89 35<br>ex 2009 89 38<br>ex 2009 89 79<br>ex 2009 89 86<br>ex 2009 89 89<br>ex 2009 89 99 | 20.09.8996;<br>ex 20.09.8998 | other juices of wild fruits of the genus *Vaccinium*, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
+| ex 2009 90 21<br>ex 2009 90 29<br>ex 2009 90 51<br>ex 2009 90 59<br>ex 2009 90 94<br>ex 2009 90 96<br>ex 2009 90 98 | ex 20.09.9009 | mixture of juices made from and/or containing wild fruits of the genus *Vaccinium* or processed products thereof |
+| ex 2202 10 | ex 22.02.1000 | waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured containing juice or other processed products from wild fruits of the genus *Vaccinium* |
+| ex 2202 99 | ex 22.02.9910;<br>ex 22.02.9920;<br>ex 22.02.9991;<br>ex 22.02.9999 | waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured and other non-alcoholic beverages, containing juice or other processed products from wild fruits of the genus *Vaccinium* |
+| **Due to risk of contamination by radioactivity food listed hereafter relate to food consisting of two or more ingredients, containing any of the individual products listed above in a quantity above 20 % of either a single product or as the sum of products listed** |  |  |
+| ex 1704 90 | ex 17.04.9010;<br>ex 17.04.9091;<br>ex 17.04.9092;<br>ex 17.04.9099 | sugar confectionery (including white chocolate), not containing cocoa, other than chewing gum, whether or not sugar-coated |
+| ex 1806 | ex 18.06 | chocolate and other food preparations containing cocoa |
+| ex 1905 | ex 19.05 | bread, pastry, cakes, biscuits and other bakers’ wares, whether or not containing cocoa, communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products |
+
+◄**M1**
+
 ### VEDLEGG III
 MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158) ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
 
+For å lese vedlegg III med offisielt sertifikat som skal benyttes, se pdf-filen for forordning [(EU) 2020/1158](eu/32020r1158) nedenfor.
+
 ### VEDLEGG IV
 INSTRUCTIONS FOR THE COMPLETION OF THE MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION [(EU) 2020/1158](eu/32020r1158) ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION
+
+For å lese vedlegg IV med veileder som skal benyttes, se pdf-filen for forordning [(EU) 2020/1158](eu/32020r1158) nedenfor.
 
 ## Forordninger i PDF
 

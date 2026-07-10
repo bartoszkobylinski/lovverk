@@ -35,11 +35,17 @@ I [lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet g
 
 Loven trer i kraft straks med unntak av endringene i petroleumsloven, som trer i kraft fra den tid1 Kongen bestemmer.
 
+1 Fra 1 juli 1999 iflg. [res. 25 juni 1999 nr. 705](forskrift/1999-06-25-705).
+
 ## Forordninger1
 
-Nedenfor gjengis – etter [Ot.prp. nr. 54 (1998-99) s. 5](forarbeid/otprp-54-199899/s5)-6 – [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 5 (forordning [nr. 2964/95](eu/31995r2964)) slik Olje- og energidepartementet tolker denne del av EØS-avtalen med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig. Noter markert med notetall og * er Olje- og energidepartementets noter til gjengivelsen i Ot.prp. nr. 54 (likevel slik at «EF» er erstattet med «EU»).
+Nedenfor gjengis – etter [Ot.prp. nr. 54 (1998-99) s. 5](forarbeid/otprp-54-199899/s5)-6 – [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 5 (forordning [nr. 2964/95](eu/31995r2964)) slik Olje- og energidepartementet tolker denne del av EØS-avtalen med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig. Noter markert med notetall og \* er Olje- og energidepartementets noter til gjengivelsen i Ot.prp. nr. 54 (likevel slik at «EF» er erstattet med «EU»).
+
+1 Overskrift tilføyd av Lovdata.
 
 ### EØS-avtalen vedlegg IV nr. 5 (rådsforordning (EF) nr. 2964/95 av 20. desember 1995 om registrering av import og leveranser av råolje i Fellesskapet)
+
+[RÅDET FOR DEN EUROPEISKE UNION –
 
 Med henvisning til traktaten om etablering av Det europeiske fellesskap, særlig artikkel 213.
 
@@ -59,6 +65,14 @@ Ved forordning [(EØF) nr. 2592/79](eu/31979r2592)2 fastsatte Rådet regler for 
 
 Disse forordningene opphørte å gjelde 31. desember 1991, derfor bør de reglene som derved ble fastsatt gjeninnføres og samtidig tilpasses de handelsvilkår som gjelder på de internasjonale oljemarkedene, og ta sikte på å bedre og verne kvaliteten på miljøet og såvidt mulig tilpasses rapporteringskravene til nasjonale myndigheter og Det internasjonale energibyrå –
 
+har vedtatt denne forordning:]3\*
+
+1 TEF nr. L 220 av 30.8.1979, s. 1. Forordningen sist endret ved forordning [(EØF) nr. 1370/90](eu/31990r1370) (TEF nr. L 133 av 24.5.1990, s. 1)
+
+2 TEF nr. L 297 av 24.11.1979, s.1. Forordningen sist endret ved forordning [(EØF) nr. 1370/90](eu/31990r1370) (TEF nr. L 133 av 24.5.1990, s. 1).
+
+3\* Se [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1). Preambler er ikke tilpasset EØS-formål, og er følgelig bare relevante i den grad de kan tjene til støtte for tolkning av reglene innenfor rammen av EØS-avtalen.
+
 ### Art 1
 
 Alle personer eller foretak som importerer råolje fra tredjeland eller som mottar leveranser av råolje fra en *kontraherende part,* skal være forpliktet til å sende opplysninger om karakteristika ved importen eller leveransene til den *kontraherende part* der de er etablert.
@@ -69,6 +83,8 @@ På grunnlag av de opplysninger som er nevnt i artikkel 1 skal *EFTA-landene* je
 
 Disse opplysningene skal sendes videre til *EFTA-landene.*
 
+4\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
+
 ### Art 3
 
 De opplysninger som innsamles og videresendes i medhold av denne forordningen, skal være fortrolige.
@@ -77,11 +93,11 @@ Denne forutsetningen skal ikke være til hinder for offentliggjøring av generel
 
 ### Art 4
 
-1. De opplysninger som personer eller foretak plikter å sende til den *kontraherende part* de er etablert i, skal gjelde all import eller alle leveranser av råolje til en fastsatt pris.
+1\. De opplysninger som personer eller foretak plikter å sende til den *kontraherende part* de er etablert i, skal gjelde all import eller alle leveranser av råolje til en fastsatt pris.
 
-2. «Import» betyr hvert parti råolje som innføres til *Det europeiske økonomiske samarbeidsområdets* tollområde for andre formål enn transitt. «Leveranse» betyr hvert parti råolje som kommer fra en annen *kontraherende part* for andre formål enn transitt. Import eller leveranser som finner sted for egen regning av selskap som er etablert utenfor importstaten, og som er ment for raffinering eller kontrakt og deretter ekporteres samlet i form av raffinerte produkter, omfattes ikke.
+2\. «Import» betyr hvert parti råolje som innføres til *Det europeiske økonomiske samarbeidsområdets* tollområde for andre formål enn transitt. «Leveranse» betyr hvert parti råolje som kommer fra en annen *kontraherende part* for andre formål enn transitt. Import eller leveranser som finner sted for egen regning av selskap som er etablert utenfor importstaten, og som er ment for raffinering eller kontrakt og deretter ekporteres samlet i form av raffinerte produkter, omfattes ikke.
 
-3. Innføring til *Det europeiske økonomiske samarbeidsområdets* tollområde av olje som er utvunnet fra havbunn som en kontraherende part utøver eksklusive rettigheter til utnyttelse over, skal ikke anses som import slik den er definert i nr. 2.
+3\. Innføring til *Det europeiske økonomiske samarbeidsområdets* tollområde av olje som er utvunnet fra havbunn som en kontraherende part utøver eksklusive rettigheter til utnyttelse over, skal ikke anses som import slik den er definert i nr. 2.
 
 ### Art 5
 
@@ -95,23 +111,31 @@ De opplysningene som nevnes i artikkel 4 og 5 skal sendes til de *kontraherende 
 
 De opplysningene *EFTA-landene* skal gi til *EFTAs overvåkningsorgan* i medhold av artikkel 2, skal sendes senest en måned etter utløpet av hver måned som nevnt i artikkel 6. Disse opplysningene skal, for hver type råolje, inneholde en sammenfatning av de opplysninger som *EFTA-landene* innhenter fra personer og foretak. For hver type råolje skal det opplyses om:betegnelsen på råoljen, inklusive gjennomsnittlig API-tetthet,volum angitt i fat,den gjennomsnittlige prisen cif pr. fat,antall selskaper som rapporterer,svovelinnholdet i prosent.
 
+5\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
+
 ### Art 8
 
-1. *EFTAs overvåkningsorgan* skal analysere de opplysningene som er innsendt i medhold av artikkel 7 og videreformidle dem til *EFTA-landene* hver måned.
+1\. *EFTAs overvåkningsorgan* skal analysere de opplysningene som er innsendt i medhold av artikkel 7 og videreformidle dem til *EFTA-landene* hver måned.
 
-2. *EFTA-landene* og *EFTAs overvåkningsorgan* skal konsultere hverandre med jevne mellomrom, enten på anmodning fra et *EFTA-land* eller på initiativ fra *EFTAs overvåkningsorgan.* Slike konsultasjoner skal særlig gjelde de meldinger fra *EFTAs overvåkningsorgan* som er nevnt i nr. 1.Det kan avholdes konsultasjoner med internasjonale organisasjoner og tredjestater som har etablert lignende rapporteringssystemer.
+2\. *EFTA-landene* og *EFTAs overvåkningsorgan* skal konsultere hverandre med jevne mellomrom, enten på anmodning fra et *EFTA-land* eller på initiativ fra *EFTAs overvåkningsorgan.* Slike konsultasjoner skal særlig gjelde de meldinger fra *EFTAs overvåkningsorgan* som er nevnt i nr. 1.Det kan avholdes konsultasjoner med internasjonale organisasjoner og tredjestater som har etablert lignende rapporteringssystemer.
+
+6\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
 ### Art 9
 
-1. De opplysninger som sendes i medhold av artikkel 4, og de opplysninger som følger av artikkel 7 skal være fortrolige. Dette skal likevel ikke være til hinder for at opplysninger sendes videre på en slik måte at detaljopplysninger om enkeltforetak ikke gjøres kjent, det vil si at opplysningene må omfatte minst tre foretak.
+1\. De opplysninger som sendes i medhold av artikkel 4, og de opplysninger som følger av artikkel 7 skal være fortrolige. Dette skal likevel ikke være til hinder for at opplysninger sendes videre på en slik måte at detaljopplysninger om enkeltforetak ikke gjøres kjent, det vil si at opplysningene må omfatte minst tre foretak.
 
-2. De opplysninger som sendes *EFTAs overvåkningsorgan* på grunnlag av artikkel 7, og de meldinger som er nevnt i artikkel 8 nr. 1, kan bare benyttes for det formål som nevnt i artikkel 8 nr. 2.
+2\. De opplysninger som sendes *EFTAs overvåkningsorgan* på grunnlag av artikkel 7, og de meldinger som er nevnt i artikkel 8 nr. 1, kan bare benyttes for det formål som nevnt i artikkel 8 nr. 2.
 
-3. Dersom *EFTAs overvåkningsorgan* i de opplysninger som sendes den fra *EFTA-landene* etter artikkel 7 finner avvik eller mangler på samsvar som er til hinder for å gi et reelt bilde av de vilkår importen eller leveransene har funnet sted under, kan det be *EFTA-landene* om å få tilgang til relevante enkeltopplysninger fra foretakene, samt til de utregnings- eller vurderingsmåter som ble benyttet til å sammenfatte opplysningene.
+3\. Dersom *EFTAs overvåkningsorgan* i de opplysninger som sendes den fra *EFTA-landene* etter artikkel 7 finner avvik eller mangler på samsvar som er til hinder for å gi et reelt bilde av de vilkår importen eller leveransene har funnet sted under, kan det be *EFTA-landene* om å få tilgang til relevante enkeltopplysninger fra foretakene, samt til de utregnings- eller vurderingsmåter som ble benyttet til å sammenfatte opplysningene.
+
+7\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
 ### Art 10
 
 *EFTAs overvåkningsorgan* skal i samråd med *EFTA-landene* vedta gjennomføringsregler for denne forordningen.
+
+8\* Her er teksten gjengitt slik den skal lyde for EFTA-landene, jf. [EØS-avtalen protokoll 1](avtale/avt-1992-05-02-1-p1) punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som idag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
 ### Art 11
 

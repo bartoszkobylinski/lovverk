@@ -342,6 +342,8 @@ Følgende lover oppheves: – – –
 
 ### § 35. Andre lovendringer
 
+– – –
+
 ### § 36. Ikrafttredelse og overgangsbestemmelser
 
 Denne lov trer i kraft 1. januar 2004.

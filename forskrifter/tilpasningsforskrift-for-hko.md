@@ -56,6 +56,8 @@ Høgskolen for kriminalomsorg kan i forskrift fastsette regler som gjelder ansat
 
 Forskriften trer i kraft fra det tidspunktet Justis- og beredskapsdepartementet bestemmer1. Fra samme tidspunkt oppheves [forskrift 26. oktober 2012 nr. 993 om delvis innlemming av Kriminalomsorgens høgskole og utdanningssenter (KRUS) under lov 1. april 2005 nr. 15 om universiteter og høyskoler](forskrift/2012-10-26-993). Departementet kan beslutte delvis ikrafttredelse.
 
+1 Fra 24. juni 2026 iflg. vedtak [24. juni 2026 nr. 1325](forskrift/2026-06-24-1325).
+
 ## § 8. Overgangsregler
 
 Inntil det er oppnevnt styre etter [universitets- og høyskoleloven § 4-3](lov/2024-03-08-9/§4-3) og denne forskriften [§ 3 første ledd](forskrift/2026-04-17-602/§3/ledd/1), er Kriminalomsorgsdirektoratet styre for HKO.

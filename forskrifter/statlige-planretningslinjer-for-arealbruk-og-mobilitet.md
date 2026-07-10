@@ -76,6 +76,8 @@ Retningslinjene gjelder for all arealdisponering i hele kommunen og skal bidra t
 
 4.1 *Nullvekstmålet:* I byområdene skal klimagassutslipp, kø, luftforurensning og støy reduseres gjennom effektiv arealbruk og ved at veksten i persontransporten tas med kollektivtransport, sykling og gange. Dette skal legges til grunn for planlegging i byområder som har inngått avtale med staten og/eller får statlige tilskudd for å nå målet.I byområdene skal hovedtyngden av vekst i boliger og arbeidsplasser planlegges slik at transport-behovet kan begrenses og det legges godt til rette for kollektivtrafikk, sykling og gange. I byområder med byvekstavtale skal hovedtyngden av veksten komme i eller i nærheten av store kollektivknutepunkter innenfor avtaleområdet.1
 
+1 Pkt. 4.1 Gjelder de kommunene som også har byvekstavtale, belønningsavtale eller er omfattet av tilskuddsordning for klima- og miljøvennlig byutvikling og god fremkommelighet.
+
 4.2 *Miljøvennlig mobilitet:* Planleggingen skal bidra til å styrke kollektivtransport, sykkel og gange som transportformer. For byområdene bør det utarbeides planer for et sammenhengende gang- og sykkelvegnett med høy kvalitet.
 
 4.3 *Kollektivknutepunkt:* Knutepunkter for kollektivtrafikken skal ha gode overgangsmuligheter mellom ulike transportmidler og være robuste og fleksible slik at de også kan inkludere nye mobilitetsløsninger. Alle knutepunkter bør ha trygg, tilgjengelig og tilstrekkelig sykkelparkering. Langs hovedlinjene for kollektivtrafikken inn mot byene bør det legges innfartsparkering, og dette må ses i sammenheng med behovet for fortetting og effektiv arealutnyttelse rundt kollektivknutepunktene.

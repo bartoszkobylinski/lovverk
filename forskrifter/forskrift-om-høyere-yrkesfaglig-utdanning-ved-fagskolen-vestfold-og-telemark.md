@@ -124,6 +124,8 @@ Studenter og ansatte skal ikke bruke klesplagg som helt eller delvis dekker ansi
 
 ### § 2-1. Opptakskrav for heltids- og deltidsstudier
 
+Fastsatt med hjemmel i [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7).
+
 (1) Opptakskrav er fullført og bestått videregående opplæring, med fagbrev eller vitnemål for yrkeskompetanse. Hvilke fagbrev eller yrkeskompetanser som gir rett til opptak på den enkelte utdanning er ført opp i studieplanene og skolens hjemmeside for den enkelte utdanning. Dersom studenten kan dokumentere at han/hun skal gjennomføre fag- eller svenneprøve etter opptaksfristen, kan studenten tilbys betinget opptak. Studenten mister plassen hvis han/hun stryker på fagprøven eller ikke fullfører fagprøven. Fagprøven må være gjennomført i løpet av første semester i opptaksåret.
 
 (2) Søkere som ikke tilfredsstiller de formelle opptakskravene og som er 23 år eller eldre i opptaksåret kan søke om opptak på grunnlag av realkompetanse. Realkompetansen skal vurderes i henhold til [§ 2-1 første ledd](forskrift/2025-06-26-1539/§2-1/ledd/1) i denne forskrift med tilhørende oversikt over fagbrev vist i studieplanen for den enkelte utdanning. Realkompetansevurdering foretas på Samordna opptak ved nasjonalt opptak, eller direkte av Fagskolen Vestfold og Telemark ved lokalt opptak. Realkompetansevurdering kan ikke foretas for opptak til studier der det stilles opptakskrav om yrkesgodkjenning, autorisasjon eller sertifisering etter annen lovgivning.
@@ -196,6 +198,8 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 
 ## Kapittel 4. Arbeidskrav og sluttvurdering/eksamen
 
+Fastsatt med hjemmel i [fagskoleloven § 21](lov/2018-06-08-28/§21).
+
 ### § 4-1. Vurdering
 
 (1) Grunnlaget for vurdering av studentenes prestasjoner med karakter er det samlede læringsutbyttet beskrevet i kunnskap, ferdigheter og generell kompetanse for hvert emne. Beskrivelsene av læringsutbyttet går frem av emnebeskrivelsene i studieplanen.
@@ -210,9 +214,20 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 
 ### § 4-2. Vurderingsutrykk
 
+Fastsatt med hjemmel i [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40).
+
 (1) Vurderingsuttrykket for sluttvurdering skal være bestått eller ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått.
 
-(2) Den graderte karakterskala innebærer følgende generelle, ikke fagspesifikke beskrivelser:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Den graderte karakterskala innebærer følgende generelle, ikke fagspesifikke beskrivelser:
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (3) Den todelte karakterskalaen innebærer følgende generelle, ikke emnespesifikke beskrivelser:Bestått: Besvarelsen/presentasjonen viser at studenten har bred faglig kunnskap innen hele emnet, og god kunnskap innen de mest sentrale områdene. Kravet om bred kunnskap i emnet betyr at det ikke kan være store kunnskapshull i deler av emnet. Oppgaver kan vektes ulikt under vurderingen, avhengig av hvor sentrale de er for emnet.Ikke bestått: Besvarelsen/presentasjonen viser at studenten har mangelfull kunnskap innen sentrale områder som inngår i emnet. Studenten har ikke tilstrekkelig faglig kunnskap, ferdigheter eller generell kompetanse til å kunne anvende det forventede læringsutbyttet fra emnet på en selvstendig måte.
 
@@ -248,6 +263,8 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 
 ### § 4-4. Sensur og rett til begrunnelse for karakter
 
+Fastsatt med hjemmel i [fagskoleloven § 21](lov/2018-06-08-28/§21) og [§ 22](lov/2018-06-08-28/§22)
+
 (1) Styret har delegert oppnevnelse av sensor ved sluttvurdering/eksamen, prøve, bedømmelse av oppgave eller annet arbeid når resultatet inngår på vitnemålet eller innregnes i karakter for utdanningen til skolens ledelse.
 
 (2) Sensuren skal foreligge innen tre uker hvis ikke særlige grunner gjør det nødvendig å bruke mer tid. Hvis sensuren ikke kan gis innen tre uker, skal studenten varsles om det og samtidig få vite når sensuren kan ventes. Styret selv kan gjøre unntak for enkelte sluttvurderinger eller eksamener, og kan fastsette en lengre frist når det ikke er mulig å skaffe det antall kvalifiserte sensorer som er nødvendig for å avvikle sensuren på tre uker.
@@ -272,6 +289,8 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 
 ### § 4-6. Annullering av eksamen og sluttprøver ved forfalskning og/eller fusk
 
+Det vises til [fagskoleloven § 24](lov/2018-06-08-28/§24) Annullering av eksamen m.m.
+
 (1) Klagenemnden ved Fagskolen Vestfold og Telemark kan annullere resultatet av en sluttvurdering/eksamen, eller annet arbeid som bedømmes med karakter som en student har fått adgang til å avlegge ved å benytte et falskt vitnemål, andre falske dokumenter eller annen form for uredelig opptreden. Det samme gjelder for godkjenningen av et emne som en student på et tilsvarende urettmessig grunnlag har fått adgang til å delta i.
 
 (2) Den lokale klagenemnden kan også annullere resultatet av en sluttvurdering/eksamen eller lignende, samt godkjenningen av et emne dersom en student forsettlig eller grovt uaktsomt har fusket, eller forsettlig har forsøkt å fuske, i forbindelse med sluttvurderingen/eksamenen, eller lignende eller under gjennomføringen av emnet. Som fusk regnes eksempelvis:Bruk av andre hjelpemidler enn de som er tillatt i emneoppgave, sluttprøve, obligatoriske arbeider og/eller eksamensoppgaven for et emne. Det samme gjelder dersom studenten har slike hjelpemidler tilgjengelig i forbindelse med gjennomføring av sluttvurderingen/eksamen, selv om det ikke kan påvises at hjelpemiddel har vært i brukSamarbeid eller utveksling av informasjon med andre studenter eller eksterne fagpersoner i vurderinger som krever selvstendig, individuelt arbeid.Medvirkning til fusk (hjelpe en annen student med å jukse)Plagiering, kopiering, sitering, avskrift av faglitteratur, internettsider og bruk av eget og/eller andres arbeid uten kildehenvisningTidligere leverte oppgaver eller eksamener, som er skrevet av studenten selv eller av andre, som benyttes uten kildehenvisningBesvarelsen er svært lik annen besvarelse eller åpenbart delvis eller helt er utarbeidet av andreBruk av kunstig intelligens (KI) der det ikke er oppgitt som tillatt. Det skal tydelig fremgå av oppgavebeskrivelsen for hvert arbeidskrav og hver sluttvurdering hvorvidt KI-verktøy er tillatt eller ikke, samt i hvilken form KI kan benyttes.På uriktig grunnlag ha fått godkjenning for obligatorisk arbeid eller andre obligatoriske aktiviteter uten å ha deltatt aktivt selv (gruppearbeid, praksis).
@@ -285,6 +304,8 @@ En student kan, etter dokumentert søknad, få tilrettelagt sitt studieløp med 
 ## Kapittel 5. Dokumentasjon
 
 ### § 5-1. Vitnemål
+
+Fastsatt med hjemmel i [fagskoleloven § 19](lov/2018-06-08-28/§19), [fagskoleforskriften § 38](forskrift/2019-07-11-1005/§38) og [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7).
 
 (1) Studenter som fullfører og består en fagskoleutdanning skal få utstedt vitnemål.
 
@@ -318,6 +339,8 @@ En student som får medhold i klage på karakterfastsetting i et emne, eller som
 
 ## Kapittel 6. Utestenging og bortvisning
 
+Fastsatt med hjemmel i [fagskoleloven § 25](lov/2018-06-08-28/§25) Bortvisning og utestenging.
+
 ### § 6-1. Utestenging og bortvisning
 
 (1) En student som, til tross for skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som grovt forstyrrer medstudenters arbeid eller fagskolens virksomhet for øvrig, kan ved vedtak i klagenemnda bortvises fra fagskolen i inntil ett år.
@@ -337,6 +360,8 @@ En student som får medhold i klage på karakterfastsetting i et emne, eller som
 (2) Klage framsatt av én student eller én studentgruppe skal behandles som enkeltvedtak etter [fagskoleloven](lov/2018-06-08-28) og etter denne forskrift. Den som klager skal fylle ut:hvem som klager (navn, adresse og klasse)navn på faglærer eller ansvarlig for vedtaketdet vedtak det klages overhva klagen gjelder og begrunnelse på klagedato og underskrift.Klagen sendes fagskolens postmottak: fagskolen@telemarkfylke.no eller Fagskolen Vestfold og Telemark, postboks 2844, 3702 Skien.
 
 ### § 7-2. Rett til begrunnelse og klage på sluttvurdering/eksamen
+
+Fastsatt med hjemmel i [fagskoleloven § 22](lov/2018-06-08-28/§22)
 
 (1) Student har rett til å få en begrunnelse for karakterfastsettingen før det fremsettes en klage. Frist for å be om en begrunnelse er én uke etter at studenten fikk kjennskap til karakteren. Begrunnelsen skal gis innen to uker etter at studenten har bedt om den. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om det og samtidig få vite når begrunnelsen kan ventes.
 

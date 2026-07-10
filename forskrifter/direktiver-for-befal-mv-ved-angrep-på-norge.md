@@ -30,6 +30,8 @@ eu_basis: []
 4. Med kommandodistrikt forstås i dette direktiv distriktet for vedkommende Distriktskommando (DK), Sjøforsvarskommando (SK) og Luftkommando (LK).
 5. Med femtekolonister1 forstås i dette direktiv nordmenn eller utlendinger som innenfor landets grenser arbeider for fremmed makt med ulovlig etterretningsvirksomhet, planlegging og gjennomføring av sabotasje, attentater eller lignende.
 
+1 Skal vel være «femtekolonnister».
+
 ## II. Direktiv som gjelder for alle militære befalingsmenn.
 
 1. Mobilisering ved vepnet angrep i kommandodistriktet.Militær befalingsmann som får kjennskap til at et vepnet angrep finner sted innenfor det kommandodistrikt der han skal møte ved mobilisering, skal uten videre gjøre sitt ytterste for å nå fram til sitt mobiliseringssted på kortest mulig tid.
@@ -43,6 +45,8 @@ eu_basis: []
 3. Vepnet angrep som utløser full og øyeblikkelig mobilisering. Ved vepnet angrep, som skal utløse full og øyeblikkelig mobilisering, se II punkt 7, plikter alle militære sjefer å mobilisere de avdelinger og enheter som er underlagt dem etter bestemmelsene i punkt 9.
 4. Grunnsetninger for forsvarskampen. Militære sjefer skal ha et særlig ansvar når det gjelder å etterleve de grunnsetninger som er nevnt i II. punkt 8.
 5. Femtekolonister.1De militære sjefer skal regne med at femtekolonister vil komme til å bli satt inn før eller samtidig med et vepnet angrep.De militære sjefer er i fred og i krig ansvarlig for sikringen av militært område mot femtekolonister innenfor rammen av sine hjelpemidler.De militære sjefer plikter med de midler de råder over å sikre mobiliseringen og de vepnede styrker mot femtekolonister.De militære sjefer skal i fred og i krig samarbeide med politiet og andre sivile myndigheter om de sikringsoppgaver som er nevnt under a-c etter de bestemmelser som til enhver tid er gitt.
+
+1 Skal vel være «femtekolonnister».
 
 ## IV. Forskjellige bestemmelser.
 

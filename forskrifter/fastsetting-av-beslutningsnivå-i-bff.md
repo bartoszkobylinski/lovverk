@@ -24,3 +24,5 @@ eu_basis: []
 
 1. Beslutningsnivået for nevnte beredskapstiltak fastsettes i samsvar med fremlagt forslag.1
 2. Fastsetting av endret beslutningsnivå for nevnte beredskapstiltak trer i kraft sammen med utgivelsen av Beredskapssystem for forsvarssektoren 2015.
+
+1 Vedlegget er gradert BEGRENSET iht. [sikkerhetsloven § 11](lov/1998-03-20-10/§11) og § [12](lov/1998-03-20-10/§12) jf. [offentleglova § 13](lov/2006-05-19-16/§13).

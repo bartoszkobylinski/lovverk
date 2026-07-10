@@ -24,4 +24,6 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+[Lov av 19. juni 1997 nr. 82](lov/1997-06-19-82) om pass (passloven) [§ 2](lov/1997-06-19-82/§2) tredje ledd.
+
 - Klager over vedtak truffet i medhold av [lov av 19. juni 1997 nr. 82](lov/1997-06-19-82) om pass, jf. lovens § 2 tredje ledd.

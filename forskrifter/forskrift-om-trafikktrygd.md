@@ -34,15 +34,15 @@ Som bevis for trafikktrygd godtas:Grønt kort (internasjonalt forsikringsbevis) 
 
 ## § 1a.
 
-1. Norske motorvogner skal være trygdet i trygdelag som er registrert i Finanstilsynet eller i trygdelag som kan drive forsikringsvirksomhet i henhold til bestemmelser gitt i eller i medhold av [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet.
+1\. Norske motorvogner skal være trygdet i trygdelag som er registrert i Finanstilsynet eller i trygdelag som kan drive forsikringsvirksomhet i henhold til bestemmelser gitt i eller i medhold av [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet.
 
-2. Trygdelag som har sitt hovedsete i annen stat som omfattes av Det europeiske økonomiske samarbeidsområdet og som har tillatelse fra myndighetene i slik stat til å overta trafikkforsikring kan registreres i Finanstilsynet. Det er et vilkår for registrering at trygdelaget oppnevner en representant bosatt eller etablert i Norge som har tilstrekkelige fullmakter, bl.a. til å yte erstatning til skadelidte og representere trygdelaget for domstolene og i forhold til offentlige myndigheter i Norge. Det skal også framlegges erklæring om at trygdelaget har sluttet seg til Trafikkforsikringsforeningen.
+2\. Trygdelag som har sitt hovedsete i annen stat som omfattes av Det europeiske økonomiske samarbeidsområdet og som har tillatelse fra myndighetene i slik stat til å overta trafikkforsikring kan registreres i Finanstilsynet. Det er et vilkår for registrering at trygdelaget oppnevner en representant bosatt eller etablert i Norge som har tilstrekkelige fullmakter, bl.a. til å yte erstatning til skadelidte og representere trygdelaget for domstolene og i forhold til offentlige myndigheter i Norge. Det skal også framlegges erklæring om at trygdelaget har sluttet seg til Trafikkforsikringsforeningen.
 
-3. Godkjent eller registrert trygdelag som nevnt plikter å være medlem av et nasjonalt norsk forsikringsbyrå (Trafikkforsikringsforeningen), med de plikter som følger av [§ 2](forskrift/1974-04-01-3/§2) og [§ 5](forskrift/1974-04-01-3/§5) og Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III, jf. EØS-avtalen vedlegg IX del I nr. 2 og nr. 8-10. Reglene for skadeoppgjør i [§ 1c](forskrift/1974-04-01-3/§1c) gjelder også for nasjonalt norsk forsikringsbyrå.
+3\. Godkjent eller registrert trygdelag som nevnt plikter å være medlem av et nasjonalt norsk forsikringsbyrå (Trafikkforsikringsforeningen), med de plikter som følger av [§ 2](forskrift/1974-04-01-3/§2) og [§ 5](forskrift/1974-04-01-3/§5) og Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III, jf. EØS-avtalen vedlegg IX del I nr. 2 og nr. 8-10. Reglene for skadeoppgjør i [§ 1c](forskrift/1974-04-01-3/§1c) gjelder også for nasjonalt norsk forsikringsbyrå.
 
-4. Trygden skal, på grunnlag av samme enkeltpremie, minst omfatte Det europeiske økonomiske samarbeidsområde. Den skal, for skade utenfor Norge, dekke det som kreves etter hver enkelt EØS-stats lovgivning, men etter lovgivningen i den EØS-stat der motorvognen er hjemmehørende dersom dette gir større dekning. Premien skal også omfatte skade som rammer borgere i EØS-stater på en strekning som direkte forbinder to EØS-stater, dersom området som passeres ikke omfattes av Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III, etter lovgivningen i den EØS-stat der motorvognen er hjemmehørende.
+4\. Trygden skal, på grunnlag av samme enkeltpremie, minst omfatte Det europeiske økonomiske samarbeidsområde. Den skal, for skade utenfor Norge, dekke det som kreves etter hver enkelt EØS-stats lovgivning, men etter lovgivningen i den EØS-stat der motorvognen er hjemmehørende dersom dette gir større dekning. Premien skal også omfatte skade som rammer borgere i EØS-stater på en strekning som direkte forbinder to EØS-stater, dersom området som passeres ikke omfattes av Avtalen av 30. mai 2002 mellom de nasjonale forsikringsbyråer i medlemsstatene i Det europeiske økonomiske samarbeidsområdet og andre assosierte stater, jf. tillegg 1 avsnitt III, etter lovgivningen i den EØS-stat der motorvognen er hjemmehørende.
 
-5. I en periode på 30 dager fra motorvognen er overtatt av kjøperen, regnes motorvognen som norsk selv om motorvognen er under import og ennå ikke er registrert i Norge.
+5\. I en periode på 30 dager fra motorvognen er overtatt av kjøperen, regnes motorvognen som norsk selv om motorvognen er under import og ennå ikke er registrert i Norge.
 
 > Endret ved [forskrifter 16 juni 1995 nr. 562](forskrift/1995-06-16-562), [6 mai 2004 nr. 710](forskrift/2004-05-06-710), [22 juni 2007 nr. 700](forskrift/2007-06-22-700), [18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
@@ -178,6 +178,8 @@ Dersom motorvognens eier godtgjør at han har oppfylt sin plikt til å holde tra
 
 > Endret ved [forskrifter 23 feb 2018 nr. 269](forskrift/2018-02-23-269) (i kraft 1 mars 2018), [19 des 2019 nr. 2053](forskrift/2019-12-19-2053) (i kraft 1 jan 2020), [18 mars 2022 nr. 415](forskrift/2022-03-18-415) (i kraft 12 sep 2022), [28 sep 2022 nr. 1672](forskrift/2022-09-28-1672).
 
+1 Endret 3 okt. 1974.
+
 ## § 8. (Opphevet)
 
 > Opphevet ved [forskrift av 12 mai 1993 nr. 342](forskrift/1993-05-12-342).
@@ -191,3 +193,5 @@ Bestemmelsene i [§ 6](forskrift/1974-04-01-3/§6) første ledd annet punktum og
 Statens vegvesen kan fastsette særlige overgangs- og gjennomføringsregler angående [§§ 6](forskrift/1974-04-01-3/§6)-8.
 
 > Endret ved [forskrift 19 des 2019 nr. 2053](forskrift/2019-12-19-2053) (i kraft 1 jan 2020).
+
+1 Endret 3 okt. 1974.

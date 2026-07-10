@@ -24,6 +24,8 @@ eu_basis: []
 
 Retningslinjene erstatter tidligere retningslinjer fastsatt av daværende Kirke-, utdannings- og forskningsdepartement i 19941 med endringer av 13. oktober 2003.
 
+1 Ikke kunngjort i Norsk Lovtidend.
+
 ## 1. Formål
 
 Forskningsinstituttene og forskningskonsernene skal utvikle kunnskapsgrunnlag for politikkutforming og bidra til bærekraftig utvikling og omstilling i næringsliv og offentlig sektor gjennom forskning av høy kvalitet og relevans.

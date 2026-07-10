@@ -32,11 +32,17 @@ Rørosmeieriet AS.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
+1.*Produktbeskrivelse*
+
 Skjørost fra Røros-traktene er en ferskost fremstilt av syrnet skummetmelk.
 
 Skjørost fra Røros-traktene skal være finkornet og ha en myk til halvfast konsistens, osten skal ha hvit farge og en ren og syrlig smak. Osten skal ha en fettprosent på ≤ 1 %, og et proteininnhold på ca. 21,5 %.
 
+2.*Geografisk område*
+
 Skjørost fra Røros-traktene skal være foredlet i Røros-traktene av melk produsert i fylkene Hedmark, Oppland, Sør-Trøndelag og Nord-Trøndelag. Røros-traktene omfatter kommunene Alvdal, Engerdal, Folldal, Os, Rendalen, Tolga og Tynset og området Atndalen i Hedmark fylke, og kommunene Holtålen, Røros, Tydal, og de tidligere kommunene Singsås og Budal i nåværende Midtre Gauldal kommune og deler av gamle Kvikne kommune i nåværende Rennebu kommune i Sør-Trøndelag fylke, jf. kart i vedlegg 2 med nærmere beskrivelse av Røros-traktene.
+
+3.*Produksjonsmetode**Råvare*
 
 Til produksjon av Skjørost fra Røros-traktene skal det brukes skummetmelk.
 *Ysting*

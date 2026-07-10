@@ -78,7 +78,13 @@ Det kan uansett beregnes et minimumsvederlag på inntil 132,00 kroner per tur.
 
 ### § 8. (Generelle tillegg til takstene)
 
-Det kan kreves prosentvise tillegg til takstene i [§ 7](forskrift/2010-09-30-1307/§7), [§ 9](forskrift/2010-09-30-1307/§9), [§ 11](forskrift/2010-09-30-1307/§11) og [§ 12](forskrift/2010-09-30-1307/§12) etter tabellen nedenfor.*Dag/tidsrom**06-15**15-18**18-24**00-06**Mandag-fredag*0 %0 %21 %35 %*Lørdag*30 %35 %35 %35 %*Søndag*35 %35 %35 %35 %
+Det kan kreves prosentvise tillegg til takstene i [§ 7](forskrift/2010-09-30-1307/§7), [§ 9](forskrift/2010-09-30-1307/§9), [§ 11](forskrift/2010-09-30-1307/§11) og [§ 12](forskrift/2010-09-30-1307/§12) etter tabellen nedenfor.
+
+| *Dag/tidsrom* | *06-15* | *15-18* | *18-24* | *00-06* |
+| --- | --- | --- | --- | --- |
+| *Mandag-fredag* | 0 % | 0 % | 21 % | 35 % |
+| *Lørdag* | 30 % | 35 % | 35 % | 35 % |
+| *Søndag* | 35 % | 35 % | 35 % | 35 % |
 
 For drosjetransport påske-, pinse-, jul- og nyttårsaften fra klokken 12.00 til klokken 06.00 den påfølgende dag, og for drosjetransport nyttårsdag, skjærtorsdag, langfredag, første og andre påskedag, Kristi himmelfartsdag, første og andre pinsedag, første og syttende mai og første og andre juledag fra klokken 06.00 til klokken 06.00 den påfølgende dag kan det kreves 45 prosent tillegg til takstene.
 
@@ -180,7 +186,11 @@ Med tilkjøring menes kjøring fra stedet drosjen befinner seg ved oppdragets be
 
 Adgangen til å beregne tilkjøringsvederlag kan illustreres ved hjelp av følgende figurer:
 
+*Figur 1*
+
 A er holdeplass og stedet drosjen befinner seg ved oppdragets begynnelse, og B er hentestedet. Det er 4 kilometer fra A til B. Ettersom tilkjøringsavstanden ikke er over 10 kilometer kan det ikke beregnes vederlag for tilkjøringen. Med dagtakst blir følgelig vederlaget for tilkjøring 0 kroner. Starttakst på 100,00 kroner kommer i tillegg.
+
+*Figur 2*
 
 A er stedet drosjen befinner seg ved oppdragets begynnelse, og B er hentestedet. Det er 15 kilometer fra A til B. Avstanden fra nærmeste holdeplass til B er 17 kilometer.
 
@@ -188,7 +198,11 @@ I dette tilfelle kan det kun beregnes tilkjøringsvederlag for de siste 5 kilome
 
 Med dagtakst blir følgelig vederlaget for tilkjøring 21,20 kroner × 5 kilometer = 106,00 kroner. Starttakst på 100,00 kroner kommer i tillegg.
 
+*Figur 3*
+
 A er stedet drosjen befinner seg ved oppdragets begynnelse, B er hentestedet og C er nærmeste holdeplass. Det er 14 kilometer fra A til B. Avstanden fra nærmeste holdeplass til B er 12 kilometer. Tilkjøringsavstanden overstiger 10 kilometer og det kan derfor beregnes vederlag for tilkjøring. Vederlaget må imidlertid ikke overstige tilkjøringsvederlaget fra nærmeste holdeplass til hentestedet, og det kan derfor kun beregnes tilkjøringsvederlag for 2 kilometer. Med dagtakst blir følgelig vederlaget for tilkjøring 21,20 kroner × 2 kilometer = 42,40 kroner. Starttakst på 100,00 kroner kommer i tillegg.
+
+*Figur 4*
 
 A er stedet drosjen befinner seg ved oppdragets begynnelse, B er hentestedet og C er nærmeste holdeplass. Det er 15 kilometer fra A til B. Avstanden fra nærmeste holdeplass, C, til B er 1 kilometer. Avstanden mellom nærmeste holdeplass, C og hentestedet, B, er i dette eksempelet under 10 kilometer. Med dagtakst blir følgelig vederlaget for tilkjøring 0 kroner. Starttakst på 100,00 kroner kommer i tillegg.
 

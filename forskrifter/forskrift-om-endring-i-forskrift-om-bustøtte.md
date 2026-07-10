@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 29. november 2012 nr. 1283 om bustøtte](forskrift/2012-11-29-1283) gjøres følgende endring:
+
+[§ 4](forskrift/2012-11-29-1283/§4) fjerde ledd skal lyde: – – –
+
 ## II
 
 Endringen trer i kraft straks og oppheves 1. juli 2023.

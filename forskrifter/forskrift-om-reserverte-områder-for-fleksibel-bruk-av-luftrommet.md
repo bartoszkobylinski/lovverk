@@ -52,6 +52,8 @@ Ved akutte eller uavklarte militære situasjoner kan Forsvaret fravike begrensni
 
 Den felles sivil-militære enheten for styring av luftrommet (AMC)1 er ansvarlig for at enhver planlagt bruk av reserverte områder etter denne forskriften blir publisert på NOTAM, og for at kontaktinformasjon for luftromsbrukere som kan be om særskilt adgang til områdene fremkommer av enten AIP Norge, NOTAM eller som bestemt av Luftfartstilsynet.
 
+1 Jf. [forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 30](forskrift/2021-12-14-3530/§30).
+
 ## § 6. Overtredelsesgebyr
 
 Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter [luftfartsloven § 13a-5 nr. 6](lov/1993-06-11-101/§13a-5/nummer/6), for overtredelse av luftromsrestriksjonene i [§ 3](forskrift/2024-09-10-2145/§3), jf. [§ 2](forskrift/2024-09-10-2145/§2).
@@ -62,8 +64,12 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 4. nove
 
 ## Vedlegg 1 til forskrift om reserverte områder for fleksibel bruk av luftrommet – FUA-koordinater
 
+Vedlegg 1 til forskrift om reserverte områder for fleksibel bruk av luftrommet – FUA-koordinater: [pdf-fil](static/SF/sf-20240910-2145-01-03.pdf)
+
 > Endret ved forskrifter [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025), [11 mai 2026 nr. 775](forskrift/2026-05-11-775) (i kraft 14 mai 2026).
 
 ## Procedure on Use of AMC Manageable areas. Edition 9.0
+
+Procedure on Use of AMC Manageable areas. Edition 9.0: [pdf-fil](static/SF/sf-20240910-2145-02-03.pdf)
 
 > Endret ved forskrifter [10 juni 2025 nr. 990](forskrift/2025-06-10-990) (i kraft 12 juni 2025), [11 mai 2026 nr. 775](forskrift/2026-05-11-775) (i kraft 14 mai 2026).

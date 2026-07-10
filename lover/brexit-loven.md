@@ -42,6 +42,9 @@ Forskriften kan avvike fra bestemmelser i annen lovgivning.
 
 Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
+1 Loven trer i kraft straks iflg. [res. 27 nov 2020 nr. 2500](forskrift/2020-11-27-2500), med unntak av § 2 og § 5.
+§ 2 og § 5 trer i kraft 1. januar 2021 iflg. [res. 18 des 2020 nr. 2842](forskrift/2020-12-18-2842).
+
 ## § 5. Endringer i andre lover
 
 – – –

@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+I [forskrift 7. februar 1992 nr. 77 om sanksjoner i lys av situasjonen i Somalia](forskrift/1992-02-07-77) skal uttrykket «Utenriksdepartementet» endres til «Direktoratet for eksportkontroll og sanksjoner», med unntak av følgende bestemmelse:
+
 - § 6
 
 ## II

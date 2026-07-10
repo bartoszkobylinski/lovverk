@@ -214,7 +214,7 @@ Infrastrukturforvalter skal sikre at vedlikeholdsarbeider og andre midlertidige 
 
 (1) Inntekter fra infrastrukturforvalters aktiviteter skal kun benyttes av infrastrukturforvalter til å finansiere egne aktiviteter, herunder betaling av renter og avdrag på lån. Infrastrukturforvalter kan likevel betale midler tilbake til eier som utbytte.
 
-2) Infrastrukturforvalter skal, verken direkte eller indirekte, yte lån til jernbaneforetak. Jernbaneforetak skal, verken direkte eller indirekte, yte lån til infrastrukturforvalter.
+2\) Infrastrukturforvalter skal, verken direkte eller indirekte, yte lån til jernbaneforetak. Jernbaneforetak skal, verken direkte eller indirekte, yte lån til infrastrukturforvalter.
 
 (3) For integrerte jernbanevirksomheter skal det føres og offentliggjøres atskilte resultatregnskaper og balanser, på den ene siden for virksomhet tilknyttet jernbaneforetaks yting av transporttjenester og på den andre siden for virksomhet tilknyttet forvaltningen av jernbaneinfrastrukturen. Eventuell offentlig støtte utbetalt til et av disse virksomhetsområdene kan ikke overføres til det andre.
 

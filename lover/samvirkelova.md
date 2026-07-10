@@ -1318,6 +1318,8 @@ I saker mellom foretaket og styret eller enkelte styremedlemmar skal årsmøtet 
 
 Lova gjeld frå den tid Kongen fastset.1 Dei einskilde føresegnene kan setjast i verk til ulik tid.
 
+1 Frå 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287).
+
 ### § 163. Overgangsreglar
 
 1. Samvirkelag eller økonomiske foreiningar som er stifta før lova blir sett i verk, er ikkje underlagde lova før det har gått fem år frå iverksetjinga. Årsmøtet kan med fleirtal som for vedtektsendring vedta at samanslutninga skal registrerast som samvirkeforetak (SA) i Foretaksregisteret på eit tidlegare tidspunkt. Samanslutninga skal i så fall meldast til Foretaksregisteret innan tre månader etter at vedtaket er gjort. Elles fell vedtaket bort. Foretaket er underlagt lova frå registreringstidspunktet.

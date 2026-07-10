@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 11. juni 2015 nr. 924 om graden philosophiae doctor (ph.d.) ved Handelshøyskolen BI](forskrift/2015-06-11-924) gjøres følgende endring:
+
+[§ 1-2 tredje ledd](forskrift/2015-06-11-924/§1-2/ledd/3) skal lyde:
+
 Ph.d.-utdanningen er normert til tre års fulltidsstudier og inkluderer en opplæringsdel av minimum 45 studiepoengs omfang, i tillegg kommer pliktarbeid på ett års omfang. Opptak er for en periode på fire år.
 
 ## II

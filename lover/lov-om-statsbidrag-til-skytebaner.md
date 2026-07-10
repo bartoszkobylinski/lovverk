@@ -39,3 +39,5 @@ Kongen kan gi nærmere forskrifter til gjennomføring og utfylling av loven, her
 ## § 4.
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1 – – –
+
+1 Straks iflg. res. 5 apr 1974.

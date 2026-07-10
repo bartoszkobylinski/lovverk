@@ -24,7 +24,14 @@ eu_basis: []
 
 ## § 1.
 
-Forskriftene får anvendelse i et område innenfor de eksisterende 500 meters sikkerhetssoner rundt Statfjord B plattform med tilhørende lastebøye og området mellom disse avgrenset av to parallelle linjer tangensialt på sikkerhetssonene. Unntatt er allikevel den del av området som faller utenfor norsk sektor.UTM-koordinaterGeografiske koordinaterStatfjord «B» Plattform6786558 N61° 12′ 24,884″ N437165 Ø01° 49′ 50,292″ ØStatfjord «B» Lastebøye6788516 N61° 13′ 28,438″ N(Plasseres på feltet i august 1982)437655 Ø01° 50′ 20,783″ Ø
+Forskriftene får anvendelse i et område innenfor de eksisterende 500 meters sikkerhetssoner rundt Statfjord B plattform med tilhørende lastebøye og området mellom disse avgrenset av to parallelle linjer tangensialt på sikkerhetssonene. Unntatt er allikevel den del av området som faller utenfor norsk sektor.
+
+|  | UTM-koordinater | Geografiske koordinater |
+| --- | --- | --- |
+| Statfjord «B» Plattform | 6786558 N | 61° 12′ 24,884″ N |
+|  | 437165 Ø | 01° 49′ 50,292″ Ø |
+| Statfjord «B» Lastebøye | 6788516 N | 61° 13′ 28,438″ N |
+| (Plasseres på feltet i august 1982) | 437655 Ø | 01° 50′ 20,783″ Ø |
 
 ## § 2.
 

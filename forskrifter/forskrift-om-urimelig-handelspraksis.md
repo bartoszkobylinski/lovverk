@@ -26,6 +26,8 @@ eu_basis: []
 
 Følgende former for handelspraksis anses under alle omstendigheter som urimelige:
 
+*Villedende handelspraksis*
+
 - At en næringsdrivende hevder å ha undertegnet atferdsregler når dette ikke er tilfellet.
 - Å framvise et sertifikat, kvalitetsmerke eller tilsvarende uten å ha oppnådd nødvendig tillatelse.
 - Å hevde at atferdsregler er godkjent av et offentlig organ eller annet organ uten at dette er tilfellet.
@@ -53,6 +55,8 @@ Følgende former for handelspraksis anses under alle omstendigheter som urimelig
 - Å videreselge arrangementsbilletter til forbrukere dersom den næringsdrivende har ervervet disse ved hjelp av automatiserte midler for å omgå eventuelle begrensninger i antall billetter en person kan kjøpe, eller eventuelle andre regler som gjelder for billettkjøp.
 - Å angi at omtaler av en ytelse er sendt inn av forbrukere som faktisk har brukt eller kjøpt ytelsen, uten å treffe rimelige og forholdsmessige tiltak for å sikre at omtalen stammer fra slike forbrukere.
 - Å sende inn eller gi en annen juridisk eller fysisk person i oppdrag å sende inn falske forbrukeromtaler eller anbefalinger, eller gi en villedende fremstilling av forbrukeromtaler eller anbefalinger på sosiale medier for å markedsføre ytelser.
+
+*Aggressiv handelspraksis*
 
 1. Å skape inntrykk av at forbrukeren ikke kan forlate lokalet før en avtale er inngått.
 2. Å personlig oppsøke forbrukerens bolig og overse forbrukerens anmodning om å forlate stedet eller ikke komme tilbake annet enn under omstendigheter og i det omfang som i henhold til nasjonal lovgivning er berettiget for å kreve oppfyllelse av en avtaleforpliktelse.

@@ -81,3 +81,5 @@ Regjeringen skal, basert på et faglig grunnlag, hvert år overfor Stortinget p�
 Loven gjelder fra den tid1 Kongen bestemmer.
 
 > Endret ved lov [20 juni 2025 nr. 90](lov/2025-06-20-90) (tidligere § 7).
+
+1 Fra 1 jan 2018 iflg. [res. 16 juni 2017 nr. 790](forskrift/2017-06-16-790).

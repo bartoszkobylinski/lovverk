@@ -93,3 +93,5 @@ Fastsettelse av og endringer i vedtektene foretas av Nærings- og handelsdeparte
 ## II
 
 Vedtektene trer i kraft straks. Samtidig oppheves vedtekter av 20. august 19931 for Statens Veiledningskontor for Oppfinnere (SVO).
+
+1 Ikke kunngjort i Norsk Lovtidend.

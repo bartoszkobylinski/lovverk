@@ -260,6 +260,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. De enkelte bestemmelser kan se
 
 [Lov 18. juni 1993 nr. 109 om autorisasjon av regnskapsførere](lov/1993-06-18-109) oppheves fra den tid loven trer i kraft.
 
+1 Fra 1. januar 2023 iflg. [res. 16 des 2022 nr. 2255](forskrift/2022-12-16-2255).
+
 ### § 8-2. Overgangsregler
 
 Departementet kan fastsette overgangsregler.

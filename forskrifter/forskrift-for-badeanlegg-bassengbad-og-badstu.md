@@ -134,16 +134,34 @@ Desinfeksjonsmiddel skal tilsettes kontinuerlig og etter behov.
 
 Ved desinfeksjon av vannet med klor (hypokloritt) skal følgende krav være oppfylt:
 
-Bestemmelsen er ikke til hinder for sjokklorering.VanntemperaturVannets laveste innholdSum av fritt og bundetav fritt klor*klor, maksimalverdi**=<27°C0,4 mg/l3 mg/l27-29°C0,5 mg/l3 mg/l29-33°C0,7 mg/l4 mg/l33-37°C0,9 mg/l4 mg/l>37°C1,0 mg/l4 mg/l
+Bestemmelsen er ikke til hinder for sjokklorering.
+
+| Vanntemperatur | Vannets laveste innhold | Sum av fritt og bundet |
+| --- | --- | --- |
+|  | av fritt klor\* | klor, maksimalverdi\*\* |
+| =<27°C | 0,4 mg/l | 3 mg/l |
+| 27-29°C | 0,5 mg/l | 3 mg/l |
+| 29-33°C | 0,7 mg/l | 4 mg/l |
+| 33-37°C | 0,9 mg/l | 4 mg/l |
+| >37°C | 1,0 mg/l | 4 mg/l |
+
+\* måles ved utløpet av bassenget før filtrering og før tilsats av nytt desinfeksjonsmiddel, jfr [§ 17](forskrift/1996-06-13-592/§17).\*\* innholdet av bundne klorforbindelser må aldri overstige 50% av den målte verdien av fritt klor. Verdien av bundet klor bør være så lav som mulig og må ikke overstige 0,5 mg Cl/l.
 
 ### § 16. Vannkvalitet
 
 Vannet i bassengbad skal være hygienisk tilfredsstillende. Vannet skal være klart, uten farge og innbydende til bading. Bunnen skal kunne ses tydelig i alle deler av bassengbadet.
 
-Vannet skal tilfredsstille følgende krav:*Parameter**Laveste tillatte
-verdi**Høyeste tillatte
-verdi*1. Fargetallmg/l Pt52. TurbiditetFTU0,53. SurhetsgradpH-verdi7,27,64. Kimtallsbakterier
-ved 37 °Cpr. ml105. Pseudomonasaeruginosapr. 100 ml06. KOFMnmg/l O4
+Vannet skal tilfredsstille følgende krav:
+
+| *Parameter* |  | *Laveste tillatte<br>verdi* | *Høyeste tillatte<br>verdi* |
+| --- | --- | --- | --- |
+| 1. Fargetall | mg/l Pt |  | 5 |
+| 2. Turbiditet | FTU |  | 0,5 |
+| 3. Surhetsgrad | pH-verdi | 7,2 | 7,6 |
+| 4. Kimtallsbakterier<br>ved 37 °C | pr. ml |  | 10 |
+| 5. Pseudomonas |  |  |  |
+| aeruginosa | pr. 100 ml |  | 0 |
+| 6. KOFMn | mg/l O |  | 4 |
 
 Innholdet av aminer og organiske stoffer skal holdes på et tilfredsstillende nivå slik at det ikke dannes hygienisk betenkelige eller ubehagelige stoffer i vannet som følge av den øvrige vannkvalitet.
 

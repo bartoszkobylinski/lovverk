@@ -101,3 +101,8 @@ Nærings- og fiskeridepartementet kan gjøre endringer i denne forskrift.
 Denne forskrift trer i kraft fra det tidspunkt Nærings- og fiskeridepartementet fastsetter.1
 
 > Endret ved [forskrift 29 juni 2016 nr. 846](forskrift/2016-06-29-846) (i kraft 1 sep 2016).
+
+1 Ved [forskrift 15 mai 2006 nr. 512](forskrift/2006-05-15-512) ble forskriften satt i kraft straks med virketid til og med 30 april 2009.
+Ved [forskrift 15 aug 2010 nr. 1190](forskrift/2010-08-15-1190) ble forskriften satt i kraft straks med virketid til og med 30 april 2014.
+Ved [forskrift 29 juni 2016 nr. 845](forskrift/2016-06-29-845) ble forskriften satt i kraft 1 sep 2016 med virketid til og med 31 aug 2023.
+Ved [forskrift 5 sep 2022 nr. 1540](forskrift/2022-09-05-1540) ble [forskrift 29 juni 2016 nr. 845](forskrift/2016-06-29-845) endret slik at begrenset virketid bortfaller.

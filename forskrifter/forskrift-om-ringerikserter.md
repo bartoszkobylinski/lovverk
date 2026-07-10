@@ -45,9 +45,15 @@ Forskriften trer i kraft 24. juni 2004.
 
 ## Vedlegg:
 
+*Beskrivelse av produktets opprinnelse og tilknytning til det geografiske området:*
+
+*Opprinnelse:*
+
 Dyrking av Ringerikserter kan føres tilbake til begynnelsen av 1800-tallet. Skriftlige protokoller med oversikt over «utsæd og høst» på gården Lille Hundstad på Røyse viser at det fra 1823 ble produsert erter der. På den tid ble ertene kalt «graa-ert». Først på begynnelsen av 1900-tallet fikk erten navnet Ringerikserter.
 
 På grunn av dårlig pris og økt sykdomsangrep avtok dyrkingen av Ringerikserter gradvis etter 1920, inntil den i en periode opphørte helt. Dyrkingen ble først gjenopptatt på begynnelsen av 1950-tallet da en pose Ringerikserter ble funnet på loftet på gården Nedre Fjeldstad på Røyse. På Røyse har det siden den tid vært kontinuerlig dyrking av Ringerikserter.
+
+*Tilknytning til det geografiske området:*
 
 Området har et jordsmonn og klima som er gunstig for dyrking av Ringerikserter.
 

@@ -41,6 +41,8 @@ Forskriften gjelder for tilbydere som er etablert i Norge.
 3. *eID:* elektronisk identitetsbevis, tilsvarer elektronisk identifikasjonsmiddel i eIDAS-forordningen
 4. *eID-ordninger:* ordninger for elektronisk identifikasjon.
 
+Med mindre annet fremgår av sammenhengen gjelder eIDAS-forordningens definisjoner i artikkel 3.
+
 ## Del II – selvdeklarasjon av eID-ordninger
 
 ### Krav til selvdeklarerte eID-ordninger

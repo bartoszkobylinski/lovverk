@@ -65,15 +65,21 @@ Takstene omfatter nødvendig for- og etterarbeid, journalføring etc. Når det g
 
 Det godtgjøres bare for én konsultasjon per dag. Ved behandling for akutt psykisk krise, og ved kombinasjon av individuell behandling og enten gruppebehandling, psykoterapeutisk familiearbeid eller psykoterapi av barn med kun foreldre til stede på samme dag, kan to konsultasjoner godtas.
 
+*Forkortelser:*
+
 - Hon. – står for honorar, og angir takstbeløpet i kroner.
 - Ref. – står for refusjonsandel.
 - Egen. – står for egenandel.
 - Merk. – står for merknad.
 - Rep. – står for repetisjon.
 
+*Repetisjoner:*
+
 - 0 – betyr at taksten ikke kan repeteres i samme konsultasjon.
 - Rep. – betyr at taksten kan repeteres flere ganger i samme konsultasjon. Står det i stedet et tall, kan taksten repeteres dette antall ganger i samme konsultasjon.
 - Ugyldig takstkombinasjon – betyr at taksten ikke kan kombineres med de opplistede takstene i samme konsultasjon.
+
+*Takster fra 1. juli 2026*
 
 1. Utredende samtaler hos psykolog
 2. Undersøkelse hos psykolog
@@ -85,17 +91,22 @@ Det godtgjøres bare for én konsultasjon per dag. Ved behandling for akutt psyk
 
 ### A. Utredende samtaler hos psykolog
 
-*Takst**Tekst**Hon.**Ref.**Egen.**Merk.**Rep.*10aUtredende undersøkelse/samtale pr. gang, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52.868425443A1, A2010bUtredende undersøkelse/samtale pr. gang, minst ½ time
-Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52.559116443A1, A2010cUtredende undersøkelse/samtale pr. gang, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52.1669783886A1, A2010dUtredende undersøkelse/samtale pr. gang, minst 3 timer
-Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52.240010711329A1, A2010eTillegg for behandling av akutt psykisk krise pr. gang
-Ugyldig takstkombinasjon: alle unntatt 10a–d og f, 11–19, 23a–f, 26, 27, 40a–b, 51, 52.5445440A1, A2010fUtredende undersøkelse/samtale pr. gang, minst 1 ½ time.
-Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52.1292628664A1, A20
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10a | Utredende undersøkelse/samtale pr. gang, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52. | 868 | 425 | 443 | A1, A2 | 0 |
+| 10b | Utredende undersøkelse/samtale pr. gang, minst ½ time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52. | 559 | 116 | 443 | A1, A2 | 0 |
+| 10c | Utredende undersøkelse/samtale pr. gang, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52. | 1669 | 783 | 886 | A1, A2 | 0 |
+| 10d | Utredende undersøkelse/samtale pr. gang, minst 3 timer<br>Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52. | 2400 | 1071 | 1329 | A1, A2 | 0 |
+| 10e | Tillegg for behandling av akutt psykisk krise pr. gang<br>Ugyldig takstkombinasjon: alle unntatt 10a–d og f, 11–19, 23a–f, 26, 27, 40a–b, 51, 52. | 544 | 544 | 0 | A1, A2 | 0 |
+| 10f | Utredende undersøkelse/samtale pr. gang, minst 1 ½ time.<br>Ugyldig takstkombinasjon: alle unntatt 10e, 11–19, 27, 40a–b, 51, 52. | 1292 | 628 | 664 | A1, A2 | 0 |
+
+*Merknad A1*
 
 Det er et vilkår at det foreligger henvisning fra lege, psykolog eller barnevernsadministrasjonens leder. Stønad ytes likevel for inntil tre undersøkelser eller samtaler uten forutgående henvisning. Taksten kan utløses også der utredende undersøkelse/samtale er nødvendig i det videre behandlingsopplegget.
 
 Takst 10a–d og f kan også benyttes ved behandling av akutte kriser. Taksten er da ment for førstegangsbehandling i en særlig akutt situasjon som forårsaker store påkjenninger. Stønad ytes etter honorartakster for inntil tre behandlinger for takstene 10a–d og f. Det ytes i tillegg stønad etter takst 10e. Takst 10e kan maksimalt utløses tre ganger ved akutt krise. Taksten kan ikke brukes ved senere oppfølging etter den akutte fasen. For at taksten skal utløses på nytt, må det oppstå en ny akutt krise.
+
+*Merknad A2*
 
 Ved behov kan takstene benyttes ved e-konsultasjon. Med e-konsultasjon menes at mange helsetjenester kan finne sted basert på telefon- eller videokonsultasjon eller annen digital kommunikasjonsteknologi som gjør at fysisk kontakt mellom behandler og pasient ikke er påkrevet. E-konsultasjoner skal utføres fra psykologens faste kontor eller fra annet egnet sted, og det er en forutsetning at e-konsultasjon er avtalt med pasienten på forhånd.
 
@@ -105,12 +116,15 @@ Det er ikke anledning til å kreve fakturagebyr eller andre betalinger fra pasie
 
 ### B. Undersøkelse hos psykolog
 
-*Takst**Tekst**Hon.**Ref.**Egen.**Merk.**Rep.*11Intelligensvurdering/evnevurdering
-Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33.138913890A2, B1, B2012Spesielle funksjonsundersøkelser
-Ugyldig takstkombinasjon: 24, 28, 31, 33.5985980A2, B1, B3713Miljøvurdering
-Ugyldig takstkombinasjon: 24, 28, 31, 33.9089080A2, B1, B4018Personlighetsvurdering
-Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33.180618060A2, B1, B5019Nevropsykologisk undersøkelse
-Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33.214021400A2, B1, B60
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 11 | Intelligensvurdering/evnevurdering<br>Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33. | 1389 | 1389 | 0 | A2, B1, B2 | 0 |
+| 12 | Spesielle funksjonsundersøkelser<br>Ugyldig takstkombinasjon: 24, 28, 31, 33. | 598 | 598 | 0 | A2, B1, B3 | 7 |
+| 13 | Miljøvurdering<br>Ugyldig takstkombinasjon: 24, 28, 31, 33. | 908 | 908 | 0 | A2, B1, B4 | 0 |
+| 18 | Personlighetsvurdering<br>Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33. | 1806 | 1806 | 0 | A2, B1, B5 | 0 |
+| 19 | Nevropsykologisk undersøkelse<br>Ugyldig takstkombinasjon: 23, 24, 28, 31, 32, 33. | 2140 | 2140 | 0 | A2, B1, B6 | 0 |
+
+*Merknad B1*
 
 En av undersøkelsestakstene kan benyttes én gang ved utredende samtale uten henvisning fra lege, psykolog eller barnevernsadministrasjonens leder.
 
@@ -118,19 +132,29 @@ Takstene kan ikke utløses ved utelukkende å bruke informasjon som er innhentet
 
 Bruk av takstene 11–19 for testing utført av hjelpepersonell forutsetter at psykologen benytter tid på å tolke dataene. Psykologen må være tilgjengelig for råd og veiledning. Det er en forutsetning at psykologen har vurdert pasienten og gitt hjelpepersonellet instruksjon om hvilke undersøkelser som skal foretas. Hjelpepersonell kan bare foreta testing og scoring på psykologens faste kontor, jf. driftstilskuddsavtalen, ved bruk av takstene.
 
+*Merknad B2*
+
 I takst 11 honoreres det samlede arbeidet med intelligens-/evnevurderingen, uavhengig av hvilke kartleggingsmetoder som benyttes, eller om det benyttes flere kartleggingsmetoder.
 
 Takst 11 kan benyttes inntil to ganger per kalenderår. Ved skifte til ny behandler innenfor samme kalenderår kan taksten benyttes på nytt inntil to ganger per kalenderår.
+
+*Merknad B3*
 
 Takst 12 gjelder kartlegging av enkeltfunksjoner og kan kun utløses én gang per funksjon som utredes, uavhengig av om det benyttes flere kartleggingsverktøy eller informanter. Dette er ikke til hinder for at samme funksjon kan utredes på nytt etter en tid, dersom dette er nødvendig i forbindelse med behandlingen.
 
 Takst 12 kan benyttes inntil åtte ganger per kalenderår. Ved skifte til ny behandler innenfor samme kalenderår kan taksten benyttes på nytt inntil åtte ganger per kalenderår.
 
+*Merknad B4*
+
 Takst 13 kan benyttes inntil fire ganger per kalenderår. Ved skifte til ny behandler innenfor samme kalenderår kan taksten benyttes på nytt inntil fire ganger per kalenderår.
+
+*Merknad B5*
 
 I takst 18 honoreres det samlede arbeidet med personlighetsvurderingen, uavhengig av om det benyttes en eller flere kartleggingsmetoder eller tester.
 
 Takst 18 kan benyttes inntil tre ganger per kalenderår. Ved skifte til ny behandler innenfor samme kalenderår kan taksten benyttes på nytt inntil tre ganger per kalenderår. Samme behandler kan ikke fremsette regning på takst 18 flere ganger på samme dag for samme pasient, og heller ikke flere dager på rad for samme pasient.
+
+*Merknad B6*
 
 For å kunne utløse takst 19 må det foreligge mistanke om nevropsykologisk/kortikal funksjonssvikt og/eller hjerneskade.
 
@@ -140,58 +164,73 @@ Takst 19 kan benyttes inntil to ganger per kalenderår. Ved skifte til ny behand
 
 ### C. Behandling hos psykolog
 
-*Takst**Tekst**Hon.**Ref.**Egen.**Merk.**Rep.*21aPsykoterapi av barn, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.9519510A2, C1021bPsykoterapi av barn, minst ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.4934930A2, C1021cPsykoterapi av barn, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.188718870A2, C1021dPsykoterapi av barn, minst 3 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.283128310A2, C1021ePsykoterapi av barn, minst 1 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.141814180A2, C1021fPsykoterapi av barn, minst 2 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.235623560A2, C1021gPsykoterapi av barn, kun foresatte til stede, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.9629620A2, C1, C5021hPsykoterapi av barn, kun foresatte til stede, minst 1,5 time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.142014200A2, C1, C5021iPsykoterapi av barn, kun foresatte til stede, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.188418840A2, C1, C5022aPsykoterapi, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.756313443A2022bPsykoterapi, minst ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.53491443A2022cPsykoterapi, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.1503617886A2022dPsykoterapi, minst 3 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.22679381329A2022ePsykoterapi, minst 1 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.1132468664A2022fPsykoterapi, minst 2 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.18787701108A2023aPsykoterapeutisk familiearbeid, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.973530443A2, C3023bPsykoterapeutisk familiearbeid, minst ½ time
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.53895443A2, C3023cPsykoterapeutisk familiearbeid, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.1803917886A2, C3023dPsykoterapeutisk familiearbeid, minst 3 timer
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.270113721329A2, C3023ePsykoterapeutisk familiearbeid, minst 1 ½ time
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.1374710664A2, C3023fPsykoterapeutisk familiearbeid, minst 2 ½ time
-Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52.226011521108A2, C3024aGruppeterapi av voksne, minst 2 timer, inntil 10 deltakere
-Ugyldig takstkombinasjon: alle unntatt 24b, 27, 40a.125012500A2024bTillegg pr. deltaker
-Ugyldig takstkombinasjon: alle unntatt 24a, 27, 40a.4430443A2024cGruppeterapi av voksne, minst 3 timer, inntil 10 deltakere
-Ugyldig takstkombinasjon: alle unntatt 24d, 27, 40a.175017500A2024dTillegg pr. deltaker
-Ugyldig takstkombinasjon: alle unntatt 24c, 27, 40a.6640664A2025aNevropsykologisk behandling, minst 1 time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.782339443A2, C4025bNevropsykologisk behandling, minst ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.50562443A2, C4025cNevropsykologisk behandling, minst 2 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.1482596886A2, C4025dNevropsykologisk behandling, minst 3 timer
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.22549251329A2, C4025eNevropsykologisk behandling, minst 1 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.1110446664A2, C4025fNevropsykologisk behandling, minst 2 ½ time
-Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52.18917831108A2, C4026Psykologisk rådgivning til pasient pr. telefon, minst 15 min.
-Ugyldig takstkombinasjon: alle unntatt 10e.1921920C6027Tillegg for de 6 første konsultasjonene for nyhenviste pasienter. Taksten krever samtidig bruk av en av takstene 10a–d eller f, 21a–i, 22a–f, 23a–f, 24 a–d, 25a–f, 28 a–d
-Ugyldig takstkombinasjon: alle unntatt 10a–f, 11–19, 21a–i, 22a–f, 23a–f, 24 a–d, 25a–f, 28a–d, 40a, 51, 52a–b.3253250A2, C7028aGruppeterapi av barn, minst 2 timer, inntil 10 deltakere
-Ugyldig takstkombinasjon: alle unntatt 27, 28b og 40a.154515450A2, C1028bTillegg per deltager
-Ugyldig takstkombinasjon: alle unntatt 27, 28a og 40a.4844840A2, C1028cGruppeterapi av barn, minst 3 timer, inntil 10 deltakere
-Ugyldig takstkombinasjon: alle unntatt 27, 28d og 40a.231023100A2, C1028dTillegg per deltager
-Ugyldig takstkombinasjon: alle unntatt 27, 28c og 40a.7057050A2, C10
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 21a | Psykoterapi av barn, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 951 | 951 | 0 | A2, C1 | 0 |
+| 21b | Psykoterapi av barn, minst ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 493 | 493 | 0 | A2, C1 | 0 |
+| 21c | Psykoterapi av barn, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1887 | 1887 | 0 | A2, C1 | 0 |
+| 21d | Psykoterapi av barn, minst 3 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 2831 | 2831 | 0 | A2, C1 | 0 |
+| 21e | Psykoterapi av barn, minst 1 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1418 | 1418 | 0 | A2, C1 | 0 |
+| 21f | Psykoterapi av barn, minst 2 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 2356 | 2356 | 0 | A2, C1 | 0 |
+| 21g | Psykoterapi av barn, kun foresatte til stede, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 962 | 962 | 0 | A2, C1, C5 | 0 |
+| 21h | Psykoterapi av barn, kun foresatte til stede, minst 1,5 time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1420 | 1420 | 0 | A2, C1, C5 | 0 |
+| 21i | Psykoterapi av barn, kun foresatte til stede, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1884 | 1884 | 0 | A2, C1, C5 | 0 |
+| 22a | Psykoterapi, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 756 | 313 | 443 | A2 | 0 |
+| 22b | Psykoterapi, minst ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 534 | 91 | 443 | A2 | 0 |
+| 22c | Psykoterapi, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1503 | 617 | 886 | A2 | 0 |
+| 22d | Psykoterapi, minst 3 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 2267 | 938 | 1329 | A2 | 0 |
+| 22e | Psykoterapi, minst 1 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1132 | 468 | 664 | A2 | 0 |
+| 22f | Psykoterapi, minst 2 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1878 | 770 | 1108 | A2 | 0 |
+| 23a | Psykoterapeutisk familiearbeid, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 973 | 530 | 443 | A2, C3 | 0 |
+| 23b | Psykoterapeutisk familiearbeid, minst ½ time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 538 | 95 | 443 | A2, C3 | 0 |
+| 23c | Psykoterapeutisk familiearbeid, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 1803 | 917 | 886 | A2, C3 | 0 |
+| 23d | Psykoterapeutisk familiearbeid, minst 3 timer<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 2701 | 1372 | 1329 | A2, C3 | 0 |
+| 23e | Psykoterapeutisk familiearbeid, minst 1 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 1374 | 710 | 664 | A2, C3 | 0 |
+| 23f | Psykoterapeutisk familiearbeid, minst 2 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 10e, 12, 13, 27, 40a, 51, 52. | 2260 | 1152 | 1108 | A2, C3 | 0 |
+| 24a | Gruppeterapi av voksne, minst 2 timer, inntil 10 deltakere<br>Ugyldig takstkombinasjon: alle unntatt 24b, 27, 40a. | 1250 | 1250 | 0 | A2 | 0 |
+| 24b | Tillegg pr. deltaker<br>Ugyldig takstkombinasjon: alle unntatt 24a, 27, 40a. | 443 | 0 | 443 | A2 | 0 |
+| 24c | Gruppeterapi av voksne, minst 3 timer, inntil 10 deltakere<br>Ugyldig takstkombinasjon: alle unntatt 24d, 27, 40a. | 1750 | 1750 | 0 | A2 | 0 |
+| 24d | Tillegg pr. deltaker<br>Ugyldig takstkombinasjon: alle unntatt 24c, 27, 40a. | 664 | 0 | 664 | A2 | 0 |
+| 25a | Nevropsykologisk behandling, minst 1 time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 782 | 339 | 443 | A2, C4 | 0 |
+| 25b | Nevropsykologisk behandling, minst ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 505 | 62 | 443 | A2, C4 | 0 |
+| 25c | Nevropsykologisk behandling, minst 2 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1482 | 596 | 886 | A2, C4 | 0 |
+| 25d | Nevropsykologisk behandling, minst 3 timer<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 2254 | 925 | 1329 | A2, C4 | 0 |
+| 25e | Nevropsykologisk behandling, minst 1 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1110 | 446 | 664 | A2, C4 | 0 |
+| 25f | Nevropsykologisk behandling, minst 2 ½ time<br>Ugyldig takstkombinasjon: alle unntatt 11–19, 27, 40a, 51, 52. | 1891 | 783 | 1108 | A2, C4 | 0 |
+| 26 | Psykologisk rådgivning til pasient pr. telefon, minst 15 min.<br>Ugyldig takstkombinasjon: alle unntatt 10e. | 192 | 192 | 0 | C6 | 0 |
+| 27 | Tillegg for de 6 første konsultasjonene for nyhenviste pasienter. Taksten krever samtidig bruk av en av takstene 10a–d eller f, 21a–i, 22a–f, 23a–f, 24 a–d, 25a–f, 28 a–d<br>Ugyldig takstkombinasjon: alle unntatt 10a–f, 11–19, 21a–i, 22a–f, 23a–f, 24 a–d, 25a–f, 28a–d, 40a, 51, 52a–b. | 325 | 325 | 0 | A2, C7 | 0 |
+| 28a | Gruppeterapi av barn, minst 2 timer, inntil 10 deltakere<br>Ugyldig takstkombinasjon: alle unntatt 27, 28b og 40a. | 1545 | 1545 | 0 | A2, C1 | 0 |
+| 28b | Tillegg per deltager<br>Ugyldig takstkombinasjon: alle unntatt 27, 28a og 40a. | 484 | 484 | 0 | A2, C1 | 0 |
+| 28c | Gruppeterapi av barn, minst 3 timer, inntil 10 deltakere<br>Ugyldig takstkombinasjon: alle unntatt 27, 28d og 40a. | 2310 | 2310 | 0 | A2, C1 | 0 |
+| 28d | Tillegg per deltager<br>Ugyldig takstkombinasjon: alle unntatt 27, 28c og 40a. | 705 | 705 | 0 | A2, C1 | 0 |
+
+*Merknad C1*
 
 Taksten gjelder for behandling av barn under 18 år.
 
+*Merknad C2*
+
 (Opphevet.)
+
+*Merknad C3*
 
 For å kunne benytte taksten kreves minst to personers tilstedeværelse i tillegg til psykologen. Takst 23a–f kan også benyttes ved behandling av akutt psykisk krise. Taksten er da hovedsakelig ment for førstegangsbehandling i en særlig akutt situasjon som forårsaker store påkjenninger. Stønad ytes etter honorartakster for inntil tre behandlinger. Det ytes i tillegg stønad etter takst 10e.
 
+*Merknad C4*
+
 For å kunne benytte taksten må det foreligge påvist nevropsykologisk/kortikal funksjonsavvik og/eller hjerneskade.
 
+*Merknad C5*
+
 Taksten kan benyttes når kun foresatte er til stede, og formålet med kontakten er klart terapeutisk i forhold til behandling av barnet.
+
+*Merknad C6*
 
 Det må foreligge henvisning fra lege, psykolog eller barnevernsadministrasjonens leder.
 
 Taksten omfatter ikke timebestillinger, avbestillinger og enkle forespørsler. Det forutsettes et psykologfaglig arbeid.
+
+*Merknad C7*
 
 Taksten kan utløses for de seks første konsultasjonene av nyhenviste pasienter. Taksten kan utløses på nytt dersom pasienten henvises på nytt og det har vært et opphold i behandlingen på minimum seks måneder.
 
@@ -199,23 +238,30 @@ Taksten kan utløses for de seks første konsultasjonene av nyhenviste pasienter
 
 ### D. Øvrige takster
 
-*Takst**Tekst**Hon.**Ref.**Egen.**Merk.**Rep.*31aRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 1 time)
-Ugyldig takstkombinasjon: alle.9929920A2, D1, D2031bRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst ½ time)
-Ugyldig takstkombinasjon: alle.5025020A2, D1, D2031cRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 2 timer)
-Ugyldig takstkombinasjon: alle.197619760A2, D1031dRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 3 timer)
-Ugyldig takstkombinasjon: alle.295429540A2, D1031eRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 1 ½ time)
-Ugyldig takstkombinasjon: alle.147814780A2, D1031fRådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 2 ½ time)
-Ugyldig takstkombinasjon: alle.245324530A2, D1032Nødvendig samtale med pårørende eller foresatte ved psykologisk undersøkelse og behandling
-Ugyldig takstkombinasjon: alle unntatt 12, 13 og 40a.8728720A2,033aMøtegodtgjørelse med reisetid når psykologen deltar i tverrfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst 33a beregnes for arbeid i inntil en halv time og deretter utløses takst 33b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene 33a og 33b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst 33a og 33b kan ikke benyttes ved samtidig konsultasjon eller dersom møtet blir avlyst
-Ugyldig takstkombinasjon: alle unntatt 33b.9559550033bSenere pr. påbegynt halvtime
-Ugyldig takstkombinasjon: alle unntatt 33a.9559550A2Rep.40aTillegg for behandling av døve, språksvake og fremmedspråklige i de tilfeller det er nødvendig med tolk. Taksten kan utløses en gang per dag per pasient eller per gruppe. Taksten krever samtidig bruk av en av takstene 10a–d eller f, 21a–i, 22a–f, 23a–f, 25a–f, 32.
-Ugyldig takstkombinasjon: 31 og 33.5855850A2040bTillegg for undersøkelse/vurdering av døve, språksvake og fremmedspråklige i de tilfeller det er nødvendig med tolk. Taksten kan utløses én gang for hver av takstene 11, 13, 18 og 19.
-Ugyldig takstkombinasjon: 31 og 33.6406400A2341Vurdering/evaluering av behandling og behandlingsutfall basert på pasientens egenrapportering, minst 15 minutter. Taksten kan kun benyttes når pasienten har rapportert tilbake til psykologen. Taksten kan benyttes inntil 6 ganger per pasient per kalenderår.
-Ugyldig takstkombinasjon: alle.21421400
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 31a | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 1 time)<br>Ugyldig takstkombinasjon: alle. | 992 | 992 | 0 | A2, D1, D2 | 0 |
+| 31b | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst ½ time)<br>Ugyldig takstkombinasjon: alle. | 502 | 502 | 0 | A2, D1, D2 | 0 |
+| 31c | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 2 timer)<br>Ugyldig takstkombinasjon: alle. | 1976 | 1976 | 0 | A2, D1 | 0 |
+| 31d | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 3 timer)<br>Ugyldig takstkombinasjon: alle. | 2954 | 2954 | 0 | A2, D1 | 0 |
+| 31e | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 1 ½ time)<br>Ugyldig takstkombinasjon: alle. | 1478 | 1478 | 0 | A2, D1 | 0 |
+| 31f | Rådgivning overfor behandlende instans med henblikk på det videre behandlingsopplegg (minst 2 ½ time)<br>Ugyldig takstkombinasjon: alle. | 2453 | 2453 | 0 | A2, D1 | 0 |
+| 32 | Nødvendig samtale med pårørende eller foresatte ved psykologisk undersøkelse og behandling<br>Ugyldig takstkombinasjon: alle unntatt 12, 13 og 40a. | 872 | 872 | 0 | A2, | 0 |
+| 33a | Møtegodtgjørelse med reisetid når psykologen deltar i tverrfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst 33a beregnes for arbeid i inntil en halv time og deretter utløses takst 33b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene 33a og 33b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst 33a og 33b kan ikke benyttes ved samtidig konsultasjon eller dersom møtet blir avlyst<br>Ugyldig takstkombinasjon: alle unntatt 33b. | 955 | 955 | 0 |  | 0 |
+| 33b | Senere pr. påbegynt halvtime<br>Ugyldig takstkombinasjon: alle unntatt 33a. | 955 | 955 | 0 | A2 | Rep. |
+| 40a | Tillegg for behandling av døve, språksvake og fremmedspråklige i de tilfeller det er nødvendig med tolk. Taksten kan utløses en gang per dag per pasient eller per gruppe. Taksten krever samtidig bruk av en av takstene 10a–d eller f, 21a–i, 22a–f, 23a–f, 25a–f, 32.<br>Ugyldig takstkombinasjon: 31 og 33. | 585 | 585 | 0 | A2 | 0 |
+| 40b | Tillegg for undersøkelse/vurdering av døve, språksvake og fremmedspråklige i de tilfeller det er nødvendig med tolk. Taksten kan utløses én gang for hver av takstene 11, 13, 18 og 19.<br>Ugyldig takstkombinasjon: 31 og 33. | 640 | 640 | 0 | A2 | 3 |
+| 41 | Vurdering/evaluering av behandling og behandlingsutfall basert på pasientens egenrapportering, minst 15 minutter. Taksten kan kun benyttes når pasienten har rapportert tilbake til psykologen. Taksten kan benyttes inntil 6 ganger per pasient per kalenderår.<br>Ugyldig takstkombinasjon: alle. | 214 | 214 | 0 |  | 0 |
+
+*Merknad D1*
 
 Taksten utløses for hver enkelt rådgivning, og ikke for samlet rådgivning. Det må framgå av regningen hvilken instans/person som har mottatt rådgivning og tidspunktet for rådgivningen. Taksten kan også benyttes til annet arbeid i forbindelse med innleggelse i institusjon. Taksten kan ikke utløses ved utarbeiding og oversending av epikrise til henvisende instans.
 
+*Merknad D2*
+
 Taksten kan også benyttes ved rådgivning overfor behandlingsformidler, dvs. person som i sin stilling skal formidle et behandlingsopplegg fastsatt av psykologen, for eksempel ansatt i barnehage, skole eller sosial institusjon.
+
+*Merknad D3*
 
 (Opphevet.)
 
@@ -223,10 +269,13 @@ Taksten kan også benyttes ved rådgivning overfor behandlingsformidler, dvs. pe
 
 ### E. Undersøkelse eller behandling i pasientens hjem – reisetillegg
 
-*Takst**Tekst**Hon.**Ref.**Egen.**Merk.**Rep.*51Ved undersøkelse eller behandling i pasientens hjem gis det et tillegg til takstene.
-Ugyldig takstkombinasjon: 24, 31, 32, 33.2322320E1052aI tillegg ytes det reisetillegg etter følgende satser: Reise pr. km med bil, motorsykkel eller tog.
-Ugyldig takstkombinasjon: 24, 31, 32, 33, 52b.880E1Rep.52bReise med annet transportmiddel (herunder til fots) pr. påbegynt halve time. Ved beregningen slås tiden for fram- og tilbakereisen sammen.
-Ugyldig takstkombinasjon: 24, 31, 32, 33, 52a.2312310E1Rep.
+| *Takst* | *Tekst* | *Hon.* | *Ref.* | *Egen.* | *Merk.* | *Rep.* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 51 | Ved undersøkelse eller behandling i pasientens hjem gis det et tillegg til takstene.<br>Ugyldig takstkombinasjon: 24, 31, 32, 33. | 232 | 232 | 0 | E1 | 0 |
+| 52a | I tillegg ytes det reisetillegg etter følgende satser: Reise pr. km med bil, motorsykkel eller tog.<br>Ugyldig takstkombinasjon: 24, 31, 32, 33, 52b. | 8 | 8 | 0 | E1 | Rep. |
+| 52b | Reise med annet transportmiddel (herunder til fots) pr. påbegynt halve time. Ved beregningen slås tiden for fram- og tilbakereisen sammen.<br>Ugyldig takstkombinasjon: 24, 31, 32, 33, 52a. | 231 | 231 | 0 | E1 | Rep. |
+
+*Merknad E1:*
 
 Det er et vilkår for å utløse takstene 51, 52a og 52b at pasienten på grunn av sin helsetilstand ikke kan møte fram på behandlingsstedet, eller at behandlingen av faglige grunner bør skje hos pasienten eller et annet sted, for eksempel ved kriseintervensjon.
 

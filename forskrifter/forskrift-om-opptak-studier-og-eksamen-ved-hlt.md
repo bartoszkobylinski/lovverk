@@ -168,7 +168,11 @@ Når en student har brukt tre eksamensforsøk i samme emne, må hele emnet/kurse
 
 ### § 4-6. På- og avmelding til eksamen
 
+*Engelsk bachelorprogram*
+
 Studentene meldes automatisk opp til ordinær eksamen, og om nødvendig til 1. og 2. kontinuasjon. På grunn av annen eksamensordning på dette programmet, har studentene ikke mulighet til å melde seg av eksamen, men det kan innvilges gyldig fravær ved f.eks. sykdom og andre tvingende grunner (se [§ 4-9](forskrift/2019-09-23-1468/§4-9)).
+
+*Norske bachelorprogram*
 
 Studentene meldes automatisk opp til ordinær eksamen og om nødvendig til 1. kontinuasjon. Dette gjelder likevel ikke dersom studenten selv har meldt seg av eksamen tidligere. Studenter som melder seg av en eksamen, må selv melde seg opp igjen til ny eksamen innen gjeldende oppmeldingsfrister.
 

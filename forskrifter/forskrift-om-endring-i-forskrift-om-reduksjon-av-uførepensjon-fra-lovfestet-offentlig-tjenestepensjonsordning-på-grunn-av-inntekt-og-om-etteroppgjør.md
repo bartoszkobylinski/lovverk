@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 26. november 2014 nr. 1467 om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør](forskrift/2014-11-26-1467) gjøres følgende endring:
+
+[§ 3a](forskrift/2014-11-26-1467/§3a) skal lyde:
+
 For personer som mottar pensjon og er i varig tilrettelagt arbeid (VTA) etter [forskrift 11. desember 2015 nr. 1598 om arbeidsmarkedstiltak kapittel 14](forskrift/2015-12-11-1598/kap14) og [kapittel 14A](forskrift/2015-12-11-1598/kap14a), skal inntektsgrensen tillegges 100 prosent av grunnbeløpet per kalenderår.
 
 ## II

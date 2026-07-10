@@ -30,7 +30,55 @@ Forskriften skal sikre at virksomheter har et robust industrivern som forsvarlig
 
 ### § 2. Virkeområde
 
-Forskriften gjelder planlegging, organisering, dimensjonering, vedlikehold og samarbeid om industrivern i virksomheter som er registrert i næringskoder angitt i tabellen og som gjennomsnittlig i året sysselsetter minimum det antall personer som følger av tabellen:*Næringskode**Antall sysselsatte*06Utvinning av råolje og naturgass4007Bryting av metallholdig malm4008Bryting og bergverksdrift ellers4009Tjenester tilknyttet bergverksdrift og utvinning4010Produksjon av nærings- og nytelsesmidler4011Produksjon av drikkevarer4013Produksjon av tekstiler4014Produksjon av klær4015Produksjon av lær og lærvarer4016Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler4017Produksjon av papir og papirvarer4018.11Trykking av aviser4018.12Trykking ellers4018.14Bokbinding og tilknyttede tjenester4019Produksjon av kull- og raffinerte petroleumsprodukter4020Produksjon av kjemikalier og kjemiske produkter4021Produksjon av farmasøytiske råvarer og preparater4022Produksjon av gummi- og plastprodukter4023Produksjon av andre ikke-metallholdige mineralprodukter4024Produksjon av metaller4025Produksjon av metallvarer, unntatt maskiner og utstyr4026Produksjon av datamaskiner og elektroniske og optiske produkter4027Produksjon av elektrisk utstyr4028Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted4029Produksjon av motorvogner og tilhengere4030Produksjon av andre transportmidler4031Produksjon av møbler4032Annen industriproduksjon5033Reparasjon og installasjon av maskiner og utstyr4037Oppsamling og behandling av avløpsvann4038Innsamling, behandling, disponering og gjenvinning av avfall, dersom det foregår sortering eller bearbeiding av avfallet2045.2Vedlikehold og reparasjon av motorvogner4045.310Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler, forutsatt at virksomheten håndterer godset4046Agentur- og engroshandel, unntatt med motorvogner, forutsatt at virksomheten håndterer godset4052.10Lagring4052.211Drift av gods- og transportsentraler, forutsatt at virksomheten håndterer godset4052.223Forsyningsbaser4052.291Spedisjon, forutsatt at virksomheten håndterer godset4077.1Utleie og leasing av motorvogner, forutsatt at virksomheten har eget verksted4077.31Utleie og leasing av landbruksmaskiner og -utstyr, forutsatt at virksomheten har eget verksted4077.32Utleie og leasing av bygge- og anleggsmaskiner og -utstyr, forutsatt at virksomheten har eget verksted4077.39Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted, forutsatt at virksomheten har eget verksted4088.993Arbeidstrening for ordinært arbeidsmarked, forutsatt at arbeidstreningen foregår i virksomheten5088.994Varig tilrettelagt arbeid5096.01Vaskeri- og renserivirksomhet40
+Forskriften gjelder planlegging, organisering, dimensjonering, vedlikehold og samarbeid om industrivern i virksomheter som er registrert i næringskoder angitt i tabellen og som gjennomsnittlig i året sysselsetter minimum det antall personer som følger av tabellen:
+
+| *Næringskode* |  | *Antall sysselsatte* |
+| --- | --- | --- |
+| 06 | Utvinning av råolje og naturgass | 40 |
+| 07 | Bryting av metallholdig malm | 40 |
+| 08 | Bryting og bergverksdrift ellers | 40 |
+| 09 | Tjenester tilknyttet bergverksdrift og utvinning | 40 |
+| 10 | Produksjon av nærings- og nytelsesmidler | 40 |
+| 11 | Produksjon av drikkevarer | 40 |
+| 13 | Produksjon av tekstiler | 40 |
+| 14 | Produksjon av klær | 40 |
+| 15 | Produksjon av lær og lærvarer | 40 |
+| 16 | Produksjon av trelast og varer av tre, kork, strå og flettematerialer, unntatt møbler | 40 |
+| 17 | Produksjon av papir og papirvarer | 40 |
+| 18.11 | Trykking av aviser | 40 |
+| 18.12 | Trykking ellers | 40 |
+| 18.14 | Bokbinding og tilknyttede tjenester | 40 |
+| 19 | Produksjon av kull- og raffinerte petroleumsprodukter | 40 |
+| 20 | Produksjon av kjemikalier og kjemiske produkter | 40 |
+| 21 | Produksjon av farmasøytiske råvarer og preparater | 40 |
+| 22 | Produksjon av gummi- og plastprodukter | 40 |
+| 23 | Produksjon av andre ikke-metallholdige mineralprodukter | 40 |
+| 24 | Produksjon av metaller | 40 |
+| 25 | Produksjon av metallvarer, unntatt maskiner og utstyr | 40 |
+| 26 | Produksjon av datamaskiner og elektroniske og optiske produkter | 40 |
+| 27 | Produksjon av elektrisk utstyr | 40 |
+| 28 | Produksjon av maskiner og utstyr til generell bruk, ikke nevnt annet sted | 40 |
+| 29 | Produksjon av motorvogner og tilhengere | 40 |
+| 30 | Produksjon av andre transportmidler | 40 |
+| 31 | Produksjon av møbler | 40 |
+| 32 | Annen industriproduksjon | 50 |
+| 33 | Reparasjon og installasjon av maskiner og utstyr | 40 |
+| 37 | Oppsamling og behandling av avløpsvann | 40 |
+| 38 | Innsamling, behandling, disponering og gjenvinning av avfall, dersom det foregår sortering eller bearbeiding av avfallet | 20 |
+| 45.2 | Vedlikehold og reparasjon av motorvogner | 40 |
+| 45.310 | Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler, forutsatt at virksomheten håndterer godset | 40 |
+| 46 | Agentur- og engroshandel, unntatt med motorvogner, forutsatt at virksomheten håndterer godset | 40 |
+| 52.10 | Lagring | 40 |
+| 52.211 | Drift av gods- og transportsentraler, forutsatt at virksomheten håndterer godset | 40 |
+| 52.223 | Forsyningsbaser | 40 |
+| 52.291 | Spedisjon, forutsatt at virksomheten håndterer godset | 40 |
+| 77.1 | Utleie og leasing av motorvogner, forutsatt at virksomheten har eget verksted | 40 |
+| 77.31 | Utleie og leasing av landbruksmaskiner og -utstyr, forutsatt at virksomheten har eget verksted | 40 |
+| 77.32 | Utleie og leasing av bygge- og anleggsmaskiner og -utstyr, forutsatt at virksomheten har eget verksted | 40 |
+| 77.39 | Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted, forutsatt at virksomheten har eget verksted | 40 |
+| 88.993 | Arbeidstrening for ordinært arbeidsmarked, forutsatt at arbeidstreningen foregår i virksomheten | 50 |
+| 88.994 | Varig tilrettelagt arbeid | 50 |
+| 96.01 | Vaskeri- og renserivirksomhet | 40 |
 
 Næringslivets sikkerhetsorganisasjon kan pålegge en virksomhet å etablere industrivern dersom virksomheten etter sin registrerte hovedaktivitet faller utenfor første ledd, men likevel driver aktivitet som nevnt der.
 

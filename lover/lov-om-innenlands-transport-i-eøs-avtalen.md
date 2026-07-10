@@ -47,6 +47,8 @@ For å sikre at en anmodning etter artikkel 11 eller 13 etterkommes, kan vedkomm
 
 > Endret ved lover [5 mars 2004 nr. 12](lov/2004-03-05-12) (i kraft 1 mai 2004 iflg. [res. 5 mars 2004 nr. 479](forskrift/2004-03-05-479)), [20 juni 2025 nr. 111](lov/2025-06-20-111).
 
+1 Inkurie: Skal vel være artikkel 13.
+
 ## § 4.
 
 Denne lov trer i kraft straks.

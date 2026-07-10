@@ -54,12 +54,18 @@ Den som bryt denne lova eller føresegner eller påbod som er gjeve med heimel i
 
 Lova trer i kraft på det tidspunkt som traktaten trer i kraft.1
 
+1 Traktaten trer i kraft når 44 av dei statene som er særskilt nemnde i traktaten («nøkkellanda») har ratifisert. I oktober 2018 hadde i alt 167 stater ratifisert, av desse høyrer 36 til «nøkkellanda».
+
 ## § 7.
 
 Frå den tid denne lova tek til å gjelde, vert det gjort følgjande endringar i Almindelig borgerlig Straffelov [av 22. mai 1902 nr. 10](lov/1902-05-22-10):1
+
+§ 12 fyrste ledd nr. 3 bokstav f, g og i skal lyde:
 
 1. skal være straffbar i henhold til FNs Havrettskonvensjon 10. desember 1982 artikkel 113 (skade på undersjøiske kabler og rørledninger),
 2. er straffbar etter [lov 17. juli 1998 nr. 54](lov/1998-07-17-54) om gjennomføring av Konvensjonen om forbud mot bruk, lagring og produksjon og overføring av antipersonellminer og om ødeleggelse av slike miner [§ 5](lov/1999-06-18-40/§5), eller
 3. er straffbar etter [lov 18. juni 1999 nr. 40](lov/1999-06-18-40) om gjennomføring av Traktat om totalforbud mot kjernefysiske prøvesprengninger [§ 5](lov/1999-06-18-40/§5);
 
 > Endra med [lov 8 des 2000 nr. 84](lov/2000-12-08-84) (endra bokstav h til bokstav i).
+
+1 Inkurie: Loven er opphevet, se nå [lov 20 mai 2005 nr. 28](lov/2005-05-20-28).

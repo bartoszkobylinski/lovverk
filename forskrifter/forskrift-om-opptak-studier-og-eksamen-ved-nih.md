@@ -34,6 +34,18 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
+|  |  |
+| --- | --- |
+| *Studiepoeng* | Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid. |
+| *Studieprogram* | Et studieløp bestående av flere emner. Studieprogram kan ha fra 30 til 300 studiepoengs omfang. |
+| *Programplan* | Beskriver et studieprogram, hvordan det er bygget opp og hvordan emnene som inngår hører sammen. |
+| *Emne* | Den minste studieenheten. Alle emner skal ha omfanget målt i studiepoeng. |
+| *Emneplan* | Beskriver mål, organisering, arbeidsmåter, vurderingsordninger, anbefalt litteratur og pensum i et emne. |
+| *Faglig fordypning* | 60 studiepoeng i bachelorprogram eller tilsvarende utgjør faglig fordypning. Hvilke emner som skal inngå er definert i studieprogrammets programplan. |
+| *Faglig spesialisering* | 90 studiepoeng i bachelorprogram eller tilsvarende utgjør faglig spesialisering. Hvilke emner som skal inngå er definert i studieprogrammets programplan. |
+| *Eksamen/vurdering* | Formell prøving av studentenes kunnskaper og ferdigheter, enten underveis og/eller ved slutten av et emne. |
+| *Utsatt eksamen* | For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen. |
+
 > Endret ved [forskrifter 6 nov 2008 nr. 1588](forskrift/2008-11-06-1588), [25 mai 2012 nr. 793](forskrift/2012-05-25-793) (i kraft 1 aug 2012), [18 juni 2020 nr. 1974](forskrift/2020-06-18-1974), [9 nov 2023 nr. 2382](forskrift/2023-11-09-2382), [13 juni 2024 nr. 1577](forskrift/2024-06-13-1577) (i kraft 1 aug 2024).
 
 ## Kapittel II. Opptak
@@ -73,15 +85,15 @@ Opptak til studieplasser som omfattes av kvoteordningene, forutsetter at generel
 
 ### § 8. Overgang mellom studieprogram
 
-1. En student kan normalt få overgang fra et årsstudium/1BA til et bachelorstudium innenfor samme fagområde dersom:studenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studieprogrammet vedkommende ble tatt opp til, ogstudieprogrammet studenten søker overgang til ikke er lukket ved poengrangering, ogstudenten oppfyller opptakskravet til studieprogrammet.
+1\. En student kan normalt få overgang fra et årsstudium/1BA til et bachelorstudium innenfor samme fagområde dersom:studenten har fått studierett gjennom ordinært opptak, møtt til studiestart og registrert seg på det studieprogrammet vedkommende ble tatt opp til, ogstudieprogrammet studenten søker overgang til ikke er lukket ved poengrangering, ogstudenten oppfyller opptakskravet til studieprogrammet.
 
-2. Dersom studieprogrammet er lukket med poengrangering, kan overgang vurderes dersom studentens poengsum er lik eller høyere enn medianen ved siste opptak.
+2\. Dersom studieprogrammet er lukket med poengrangering, kan overgang vurderes dersom studentens poengsum er lik eller høyere enn medianen ved siste opptak.
 
-3. En student som får innvilget overgang, mister studieretten til det studieprogrammet vedkommende søker overgang fra og får tildelt ny studierett ved det nye studieprogrammet.
+3\. En student som får innvilget overgang, mister studieretten til det studieprogrammet vedkommende søker overgang fra og får tildelt ny studierett ved det nye studieprogrammet.
 
-4. Studenter som ønsker overgang til et studieprogram som ikke omfattes av denne overgangsordningen, må søke om opptak på vanlig måte.
+4\. Studenter som ønsker overgang til et studieprogram som ikke omfattes av denne overgangsordningen, må søke om opptak på vanlig måte.
 
-5. Studenter må søke om overgang innen fastsatt frist.
+5\. Studenter må søke om overgang innen fastsatt frist.
 
 > Tilføyd ved forskrift [13 nov 2025 nr. 2636](forskrift/2025-11-13-2636) (i kraft 1 jan 2026).
 
@@ -323,6 +335,15 @@ En student kan få innpasset et emne som er bestått ved høgskolen eller en ann
 ### § 38. Karaktersystem
 
 1. Ved eksamen skal det benyttes bestått/ikke bestått eller bokstavkarakterer etter en skala fra A til F, hvor A er beste karakter, E er dårligste ståkarakter og F er ikke bestått. Bokstavkarakterene har følgende betegnelse og generell beskrivelse:
+
+| *Karakter* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 1. Dersom en student har bestått samme eksamen mer enn én gang, gjelder beste karakter.
 2. Ved fastsetting av sammenlagt karakter på bakgrunn av flere deleksamener, må alle deleksamener være bestått for at studenten kan få endelig karakter.

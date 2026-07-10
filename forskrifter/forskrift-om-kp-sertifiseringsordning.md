@@ -104,6 +104,8 @@ Denne forskrift trer i kraft 1. april 2004.
 
 ## Vedlegg I. Kimberley-prosessens sertifiseringsordning
 
+Preambel
+
 De deltakende parter,
 
 SOM ERKJENNER at handelen med konfliktdiamanter gir grunn til alvorlig internasjonal bekymring og kan knyttes direkte til væpnede konflikter, opprørsbevegelsers aktiviteter som tar sikte på å undergrave eller velte lovlige regjeringer, samt ulovlig handel med og spredning av våpen, særlig håndvåpen og lette våpen,
@@ -188,7 +190,11 @@ Hver deltakende part skal:når det gjelder forsendelser av uslepne diamanter som
 
 ### Avsnitt IV. Internkontroll
 
+De deltakende parters forpliktelser
+
 Hver deltakende part skal:opprette en internkontrollordning med sikte på å eliminere konfliktdiamanter fra forsendelser av uslepne diamanter importert til og eksportert fra sitt territorium,utpeke en eller flere import- og eksportmyndighet(er),sikre at uslepne diamanter importeres og eksporteres i manipulasjonssikre beholdere,etter behov endre eller vedta hensiktsmessige lover og forskrifter for å gjennomføre og håndheve sertifiseringsordningen og opprettholde avskrekkende og forholdsmessige sanksjoner for overtredelser,innhente og oppbevare relevante offisielle produksjons-, import- og eksportopplysninger samt samordne og utveksle slike opplysninger i samsvar med bestemmelsene i avsnitt V.ved opprettelsen av en internkontrollordning, der det er relevant ta hensyn til ytterligere muligheter for og anbefalinger vedrørende internkontroll som nærmere beskrevet i vedlegg II.
+
+Prinsipper for egenregulering av industrien
 
 De deltakende parter er innforstått med at en frivillig ordning for egenkontroll av industrien, som omhandlet i preambelen til dette dokument, vil sikre et system av garantier understøttet av uavhengige revisjonsselskapers kontroll og interne sanksjoner fastsatt av industrien, som vil bidra til å tilrettelegge for full sporbarhet for statlige myndigheter av transaksjoner med uslepne diamanter.
 
@@ -198,18 +204,26 @@ De deltakende parter skal:gjennom formannen gi hverandre informasjon som identif
 
 ### Avsnitt VI. Administrative saker
 
+Møter
+
 1. Deltakende parter og observatører skal møtes årlig i plenumsmøter, samt ved slike andre anledninger som deltakende parter måtte anse som nødvendig, for å drøfte sertifiseringsordningens effektivitet.
 2. De deltakende parter skal på det første plenumsmøtet vedta en forretningsorden for slike møter.
 3. Møtene skal avholdes i det landet som har formannskapet, med mindre en deltakende part eller en internasjonal organisasjon tilbyr seg å være vert for et møte, og dette tilbudet aksepteres. Vertslandet skal lette innreiseformalitetene for dem som deltar på slike møter.
 4. Ved avslutningen av hvert plenumsmøte skal det velges en formann som skal lede alle plenumsmøter, ad hoc-arbeidsgrupper og andre underliggende institusjoner som måtte bli opprettet i tiden fram til neste årlige plenumsmøte.
 5. De deltakende parter skal treffe sine vedtak ved enighet. Skulle det vise seg umulig å oppnå enighet, skal formannen avholde konsultasjoner.
 
+Administrativ støtte
+
 1. For å sikre effektiv administrasjon av sertifiseringsordningen vil administrativ støtte være nødvendig. Støttens form og funksjon skal drøftes på det første plenumsmøtet etter godkjenning fra FNs generalforsamling.
 2. Administrativ støtte kan omfatte følgende funksjoner:tjene som en kanal for kommunikasjon, informasjonsutveksling og konsultasjon mellom deltakende parter i saker som er omhandlet i dette dokument,opprettholde og stille til rådighet for bruk av alle deltakende parter en samling av alle lover, forskrifter, regler, prosedyrer, praksiser og statistikker som er meldt i henhold til avsnitt V,utarbeide dokumenter og yte administrativ støtte til plenums- og arbeidsgruppemøter,påta seg ytterligere ansvar i henhold til instruks fra plenumsmøtet eller en arbeidsgruppe med fullmakt fra et plenumsmøte.
+
+Deltakelse
 
 1. Deltakelse i sertifiseringsordningen er åpen på globalt, ikke-diskriminatorisk grunnlag for alle søkere som er villige og i stand til å oppfylle kravene etter ordningen.
 2. Enhver som søker om å delta i sertifiseringsordningen, må meddele sin interesse ved å underrette formannen gjennom diplomatiske kanaler. Underretningen bør inneholde opplysningene omhandlet i avsnitt V bokstav a) og sendes til alle deltakende parter senest innen én måned.
 3. De deltakende parter har til hensikt å invitere representanter for det sivile samfunn, diamantindustrien, ikke-deltakende regjeringer og internasjonale organisasjoner til å delta som observatører på plenumsmøter.
+
+Deltakende parters tiltak
 
 1. Forut for det årlige plenumsmøtet i Kimberley-prosessen skal de deltakende parter forberede og stille til rådighet for de andre deltakende parter opplysningene fastsatt i avsnitt V bokstav a) om hvordan kravene i sertifiseringsordningen gjennomføres innenfor deres respektive jurisdiksjoner.
 2. Dagsordenen for det årlige plenumsmøtet skal inneholde et punkt hvor opplysningene omhandlet i avsnitt V bokstav a) gjennomgås, og deltakende parter kan på anmodning fra plenumsmøtet legge fram nærmere opplysninger om sine respektive systemer.
@@ -217,27 +231,43 @@ De deltakende parter skal:gjennom formannen gi hverandre informasjon som identif
 4. Kontrollbesøk skal gjennomføres på en analytisk, sakkyndig og upartisk måte og med samtykke fra den berørte deltakende part. Kontrollgruppens størrelse, sammensetning, mandat og frister skal være fastsatt på grunnlag av omstendighetene og opprettes av formannen med samtykke fra den berørte deltakende part og etter konsultasjon med alle deltakende parter.
 5. En rapport om resultatene av samsvarskontrolltiltakene skal oversendes til formannen og den berørte deltakende part innen tre uker etter at oppdraget er avsluttet. Eventuelle merknader fra vedkommende deltakende part samt rapporten skal offentliggjøres i et område med begrenset tilgang på en offisiell nettside for sertifiseringsordningen innen tre uker etter at rapporten ble forelagt den berørte deltakende part. De deltakende parter og observatørene skal treffe alle nødvendige tiltak for å holde saken og drøftelsene i forbindelse med overholdelse av ordningen, strengt fortrolig.
 
+Overholdelse og forebygging av tvister
+
 1. Skulle det oppstå spørsmål om en deltakende parts overholdelse eller andre saker som gjelder gjennomføringen av sertifiseringsordningen, kan enhver berørt deltakende part underrette formannen, som uten opphold skal underrette alle deltakende parter om saken og innlede en dialog om hvordan saken skal løses. De deltakende parter og observatørene skal treffe alle nødvendige tiltak for å holde saken og drøftelsene i forbindelse med overholdelse av ordningen, strengt fortrolig.
+
+Endringer
 
 1. Dette dokument kan endres ved enighet mellom de deltakende parter.
 2. Enhver deltakende part kan fremme forslag om endringer. Med mindre annet er avtalt skal slike forslag sendes skriftlig til formannen minst nitti dager før neste plenumsmøte.
 3. Formannen skal snarest sende ut ethvert endringsforslag til alle deltakende parter og observatører og føre det opp på dagsordenen for det neste årlige plenumsmøtet.
 
+Revisjonsordning
+
 1. De deltakende parter ønsker at sertifiseringsordningen skal være gjenstand for periodisk revisjon slik at de får mulighet til å foreta en grundig analyse av alle elementer i ordningen. Revisjonen skal også omfatte en vurdering av hvorvidt det fortsatt er behov for en slik ordning på grunnlag av de deltakende parters og internasjonale organisasjoners, særlig De forente nasjoners, vurdering av den trussel konfliktdiamanter utgjør på angjeldende tidspunkt. Slik revisjon skal første gang gjennomføres innen tre år etter den dato da sertifiseringsordningen trådte i kraft. Med mindre annet er avtalt, skal revisjonsmøtet normalt sammenfalle med det årlige plenumsmøtet.
+
+Oppstart for gjennomføring av ordningen
 
 1. Sertifiseringsordningen skal opprettes på ministermøtet om Kimberley-prosessens sertifiseringsordning for uslepne diamanter i Interlaken, 5. november 2002.
 
 ### Vedlegg I til vedlegg I. Sertifikater
 
+A. Minstekrav til sertifikater
+
 Sertifikater skal oppfylle følgende minstekrav:Hvert sertifikat skal bære overskriften «Kimberley-prosess-sertifikat» og følgende erklæring: «De uslepne diamantene i denne forsendelsen er håndtert i samsvar med bestemmelsene i Kimberley-prosessens sertifiseringsordning for uslepne diamanter»Opprinnelsesland for forsendelser av pakker med ublandet (dvs. av samme) opprinnelseSertifikater kan utstedes på alle språk, forutsatt at engelsk oversettelse inngårEt unikt nummer med alpha 2-landkode i henhold til ISO 3166-1De skal være sikret mot manipulasjon og forfalskningUtstedelsesdatoUtløpsdatoUtstedende myndighetEksportørens og importørens identitetVekt/masse (karat)Verdi i USDAntall pakker i forsendelsenRelevant posisjon i Det harmoniserte system for beskrivelse og koding av varerEksportmyndighetens godkjenning av sertifikatet.
 
+B. Valgfrie opplysninger i sertifikater
+
 Et sertifikat kan inneholde følgende elementer av valgfri karakter:Krav til sertifikatet (for eksempel form, tilleggsopplysninger eller elementer av sikkerhetsmessig betydning)Kvalitetsmessige opplysninger om de uslepne diamantene i forsendelsenImportbekreftelser bør inneholde følgende:BestemmelseslandImportørens identitetVekt i karat og verdi i USDRelevant posisjon i Det harmoniserte system for beskrivelse og koding av varerDato for mottak hos importmyndighetGodkjenning fra importmyndighet.
+
+C. Frivillige prosedyrer
 
 Slepne diamanter kan forsendes i gjennomsiktige sikkerhetsposer.
 
 Det unike sertifikatnummeret kan gjengis på beholderen.
 
 ### Vedlegg II til vedlegg I. Anbefalinger i henhold til avsnitt IV bokstav f)
+
+Generelle anbefalinger
 
 1. De deltakende parter kan utnevne en eller flere offisiell(e) koordinator(er) til å forestå gjennomføringen av sertifiseringsordningen.
 2. De deltakende parter kan vurdere om det vil være hensiktsmessig å supplere og/eller forbedre innsamlingen og offentliggjøringen av statistikkene omhandlet i vedlegg III på grunnlag av innholdet i Kimberley-prosess-sertifikatene.
@@ -248,27 +278,39 @@ Det unike sertifikatnummeret kan gjengis på beholderen.
 7. De deltakende parter oppfordres til å sikre at alle kontante innkjøp av uslepne diamanter skjer gjennom offisielle bankkanaler og er vedlagt kontrollerbar dokumentasjon.
 8. Deltakende parter som produserer diamanter skal analysere sin diamantproduksjon med hensyn til følgende:Egenskaper ved diamantene som framstillesFaktisk produksjon.
 
+Anbefalinger med hensyn til kontroll over diamantgruver
+
 1. De deltakende parter oppfordres til å sikre at alle diamantgruver har lisens, og bare tillate at gruver med slik lisens utvinner diamanter.
 2. De deltakende parter oppfordres til å sikre at lete- og utvinningsforetak følger effektive sikkerhetsstandarder for å sikre at konfliktdiamanter ikke blandes med den lovlige produksjonen.
 
+Anbefalinger til deltakende parter med diamantutvinning i liten skala
+
 1. Alle personer som driver håndverksmessig eller uformell utvinning av diamanter, skal ha lisens, og bare personer med slik lisens skal ha tillatelse til å utvinne diamanter.
 2. Lisensregistrene skal inneholde følgende minsteinformasjon: navn, adresse, nasjonalitet og/eller oppholdsstatus samt området hvor den autoriserte diamantutvinningsvirksomheten finner sted.
+
+Anbefalinger med hensyn til kjøpere, selgere og eksportører av uslepne diamanter
 
 1. Alle diamantkjøpere, -selgere, -eksportører, -agenter og -kurérselskaper som er involvert i transport av uslepne diamanter, bør være registrert hos og ha lisens fra hver deltakende parts kompetente myndigheter.
 2. Lisensregistrene skal inneholde følgende minsteinformasjon: navn, adresse og nasjonalitet og/eller oppholdsstatus.
 3. Det bør lovfestes at alle kjøpere, selgere og eksportører av uslepne diamanter skal føre et daglig register over alt kjøp og salg og all eksport, som skal oppbevares i fem år og inneholde angivelse av navn på kjøpende eller selgende klient, deres lisensnummer samt mengden og verdien av de diamantene som selges, eksporteres eller kjøpes.
 4. For å lette framleggelsen av detaljerte opplysninger om virksomheten til individuelle kjøpere og selgere av uslepne diamanter skal opplysningene i punkt 14 registreres i en elektronisk database.
 
+Anbefalinger med hensyn til eksportprosedyrer
+
 1. Eksportører skal forelegge forsendelser av uslepne diamanter for vedkommende eksportmyndighet.
 2. Før sertifikatet godkjennes, oppfordres eksportmyndigheten til å kreve at eksportøren framlegger en erklæring om at de uslepne diamantene som eksporteres, ikke er konfliktdiamanter.
 3. Uslepne diamanter skal være forseglet i en manipulasjonssikker beholder sammen med sertifikatet eller en behørig bekreftet kopi. Eksportmyndigheten skal deretter oversende en detaljert e-post til vedkommende importmyndighet med opplysninger om vekt i karat, verdi, opprinnelses- eller avsenderland, importør og sertifikatets løpenummer.
 4. Eksportmyndigheten skal registrere alle opplysninger om forsendelser av uslepne diamanter i en elektronisk database.
+
+Anbefalinger med hensyn til importprosedyrer
 
 1. Importmyndigheten skal motta en e-post enten før eller samtidig med mottak av en forsendelse av uslepne diamanter. Meldingen skal inneholde opplysninger om vekt i karat, verdi, opprinnelses- eller avsenderland, eksportør og sertifikatets løpenummer.
 2. Importmyndigheten skal undersøke forsendelsen av uslepne diamanter for å kontrollere at verken forsegling eller beholder er blitt manipulert, og at eksporten har funnet sted i henhold til sertifiseringsordningen.
 3. Importmyndigheten skal åpne og undersøke forsendelsens innhold for å kontrollere opplysningene i sertifikatet.
 4. Når det er relevant og det anmodes om det, skal importmyndigheten sende returseddelen eller importbekreftelseskupongen til vedkommende eksportmyndighet.
 5. Importmyndigheten skal registrere alle opplysninger om forsendelser av uslepne diamanter i en elektronisk database.
+
+Anbefalinger med hensyn til forsendelser til og fra frihandelsområder
 
 1. Forsendelser av uslepne diamanter til og fra frihandelsområder skal håndteres av utpekte myndigheter.
 

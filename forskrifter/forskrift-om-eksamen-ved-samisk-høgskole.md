@@ -62,17 +62,17 @@ Fag- og studieplaner skal godkjennes av styret for Samisk høgskole eller et ann
 
 ## § 4. Studierett
 
-1. Gyldig studierett trer i kraft etter at en student er tatt opp til et studium, betaler semesteravgift og registrerer seg innen gjeldende tidsfrister. Studenter på studier med 60 studiepoengs omfang eller mer pr. år, skal godkjenne individuell utdanningsplan innen gjeldende tidsfrister. Hvis disse vilkårene ikke oppfylles, vil studieretten automatisk bli inndratt.
+1\. Gyldig studierett trer i kraft etter at en student er tatt opp til et studium, betaler semesteravgift og registrerer seg innen gjeldende tidsfrister. Studenter på studier med 60 studiepoengs omfang eller mer pr. år, skal godkjenne individuell utdanningsplan innen gjeldende tidsfrister. Hvis disse vilkårene ikke oppfylles, vil studieretten automatisk bli inndratt.
 
-2. En student som har akseptert tilbud om studieplass opprettholder studieretten i inntil 50 % tid utover normert studietid, eller minimum ett år. Høgskolen kan etter søknad fra studenten, gjøre unntak fra bestemmelsen. I tidsbegrensningen inngår ikke utsatt studiestart og midlertidig utestengelse fra høgskolen.
+2\. En student som har akseptert tilbud om studieplass opprettholder studieretten i inntil 50 % tid utover normert studietid, eller minimum ett år. Høgskolen kan etter søknad fra studenten, gjøre unntak fra bestemmelsen. I tidsbegrensningen inngår ikke utsatt studiestart og midlertidig utestengelse fra høgskolen.
 
-3. En student som ikke fullfører studiet eller et emne innenfor normert studietid, og det i mellomtiden er gjort vesentlige endringer i studie- eller fagplan, gjelder retten til å fullføre etter den påbegynte studie- og fagplan i ett år etter at endringen ble gjort gjeldende.
+3\. En student som ikke fullfører studiet eller et emne innenfor normert studietid, og det i mellomtiden er gjort vesentlige endringer i studie- eller fagplan, gjelder retten til å fullføre etter den påbegynte studie- og fagplan i ett år etter at endringen ble gjort gjeldende.
 
-4. Studenten kan miste studieretten på et studium hun/han er tatt opp til i følgende tilfeller:Studenten har overskredet den fastsatte grensen for normert tid.Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til ramme-, fag- eller studieplan eller etter denne forskrift.Studenten er ikke i permisjon og har ikke avlagt og bestått eksamen i løpet av siste studieår. Høgskolen fatter vedtak om tap av studierett. Vedtaket kan påklages.
+4\. Studenten kan miste studieretten på et studium hun/han er tatt opp til i følgende tilfeller:Studenten har overskredet den fastsatte grensen for normert tid.Studenten har brukt opp sine forsøk til eksamen eller praksisperiode i henhold til ramme-, fag- eller studieplan eller etter denne forskrift.Studenten er ikke i permisjon og har ikke avlagt og bestått eksamen i løpet av siste studieår. Høgskolen fatter vedtak om tap av studierett. Vedtaket kan påklages.
 
-5. Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekker seg fra studieprogrammetStudiet er fullført og vitnemål er utstedt.
+5\. Studieretten opphører automatisk når:Studenten selv bekrefter at hun/han trekker seg fra studieprogrammetStudiet er fullført og vitnemål er utstedt.
 
-6. Den som har mistet studieretten etter denne paragrafs nr. 4 a) og c), kan søke nytt opptak til studiet, og må da forholde seg til gjeldende fag-/studieplan.
+6\. Den som har mistet studieretten etter denne paragrafs nr. 4 a) og c), kan søke nytt opptak til studiet, og må da forholde seg til gjeldende fag-/studieplan.
 
 ## § 5. Individuell utdanningsplan
 
@@ -90,41 +90,41 @@ Høgskolen kan innvilge søknad om permisjon ut over ett år for eksempel ved f�
 
 ## § 7. Rett til å gå opp til eksamen
 
-1. Retten til å gå opp til eksamen gjelder etter lov om universiteter og høgskoler (universitets- og høyskoleloven) § 3-10. Den som har studierett, har eksamensrett, jf. § 4, og som ellers oppfyller fastsatte vilkår for gjennomføring av eksamen som inngår i faget/studieenheten.
+1\. Retten til å gå opp til eksamen gjelder etter lov om universiteter og høgskoler (universitets- og høyskoleloven) § 3-10. Den som har studierett, har eksamensrett, jf. § 4, og som ellers oppfyller fastsatte vilkår for gjennomføring av eksamen som inngår i faget/studieenheten.
 
-2. Fag- og studieplaner skal beskrive obligatoriske arbeidskrav som skal være gjennomført og godkjent før en student kan gå opp til eksamen(er).Adgang til eksamen kan nektes etter denne paragraf, hvis kandidaten ikke har fulgt obligatorisk undervisning, eller gjennomført obligatorisk praksis og obligatoriske muntlige, skriftlige eller praktiske arbeidsoppgaver.Etter særskilt søknad kan en student få tilpasset obligatoriske arbeidsoppgaver etter de samme prinsippene som gjelder for [§ 17](forskrift/2011-02-15-460/§17) Eksamensgjennomføring etter særlige vilkår. Søknaden blir avgjort administrativt i samråd med faglig leder for studiet.
+2\. Fag- og studieplaner skal beskrive obligatoriske arbeidskrav som skal være gjennomført og godkjent før en student kan gå opp til eksamen(er).Adgang til eksamen kan nektes etter denne paragraf, hvis kandidaten ikke har fulgt obligatorisk undervisning, eller gjennomført obligatorisk praksis og obligatoriske muntlige, skriftlige eller praktiske arbeidsoppgaver.Etter særskilt søknad kan en student få tilpasset obligatoriske arbeidsoppgaver etter de samme prinsippene som gjelder for [§ 17](forskrift/2011-02-15-460/§17) Eksamensgjennomføring etter særlige vilkår. Søknaden blir avgjort administrativt i samråd med faglig leder for studiet.
 
-3. Hvis en eksamen eller fag/studieenhet består av flere deleksamener, jf. [§ 6](forskrift/2011-02-15-460/§6), er ikke faget fullkomment før alle deleksamener er godkjent/bestått.
+3\. Hvis en eksamen eller fag/studieenhet består av flere deleksamener, jf. [§ 6](forskrift/2011-02-15-460/§6), er ikke faget fullkomment før alle deleksamener er godkjent/bestått.
 
-4. En student har rett til å framstille seg til eksamen ved høgskolen i samme fag/emne tre ganger og dette må være gjort innen to år. Dette gjelder også for utsatt eksamen. Studenter som ikke er meldt opp til eksamen innen to år, må gjennomføre hele studieemnet på nytt. En student anses for å ha framstilt seg til eksamen hvis han/hun trekker seg etter avmeldingsfristens utløp, ikke møter på eksamen, ikke leverer besvarelse, eller møter på eksamen og trekker seg under eksamen. I særlige tilfeller kan høgskolen gi dispensasjon fra denne bestemmelsen etter søknad fra studenten. Når en student har avlagt eksamen på nytt, gjelder den beste karakteren.
+4\. En student har rett til å framstille seg til eksamen ved høgskolen i samme fag/emne tre ganger og dette må være gjort innen to år. Dette gjelder også for utsatt eksamen. Studenter som ikke er meldt opp til eksamen innen to år, må gjennomføre hele studieemnet på nytt. En student anses for å ha framstilt seg til eksamen hvis han/hun trekker seg etter avmeldingsfristens utløp, ikke møter på eksamen, ikke leverer besvarelse, eller møter på eksamen og trekker seg under eksamen. I særlige tilfeller kan høgskolen gi dispensasjon fra denne bestemmelsen etter søknad fra studenten. Når en student har avlagt eksamen på nytt, gjelder den beste karakteren.
 
-5. Etter lov om universiteter og høgskoler (universitets- og høyskoleloven), § 3-4, kan ikke en student, som har gjennomført et studium/fag tidligere, få godkjenning for studium/fag med samme faginnhold som utdanningen som er gjennomført tidligere.
+5\. Etter lov om universiteter og høgskoler (universitets- og høyskoleloven), § 3-4, kan ikke en student, som har gjennomført et studium/fag tidligere, få godkjenning for studium/fag med samme faginnhold som utdanningen som er gjennomført tidligere.
 
-6. En student som får «ikke bestått» i praksis, får adgang til å ta praksisperioden en gang til, før han/hun får endelig godkjenning av studieprogrammet. Studenten har adgang til en ny praksisperiode neste gang slik praksisperiode arrangeres ved høgskolen, jf. praksisplan for studieprogrammet. En student som får «ikke bestått» i praksis ved annengangs gjennomføring av samme praksis, må avslutte studiet. Studenter som av spesielle årsaker ikke kan delta i én praksisperiode, kan etter søknad få gjennomføre praksisperioden etter en særskilt måte, (f.eks kortere praksisdeler), før andre praksisperiode påbegynnes.
+6\. En student som får «ikke bestått» i praksis, får adgang til å ta praksisperioden en gang til, før han/hun får endelig godkjenning av studieprogrammet. Studenten har adgang til en ny praksisperiode neste gang slik praksisperiode arrangeres ved høgskolen, jf. praksisplan for studieprogrammet. En student som får «ikke bestått» i praksis ved annengangs gjennomføring av samme praksis, må avslutte studiet. Studenter som av spesielle årsaker ikke kan delta i én praksisperiode, kan etter søknad få gjennomføre praksisperioden etter en særskilt måte, (f.eks kortere praksisdeler), før andre praksisperiode påbegynnes.
 
 ## § 8. Oppmelding til eksamen
 
-1. Frist for oppmelding til eksamen skal skje senest innen 15. september for eksamen i høstsemesteret og 15. februar for eksamen i vårsemesteret. Andre frister kan avtales internt, hvis eksamen gjennomføres utenom de fastsatte eksamensperioder/tidsfrister.
+1\. Frist for oppmelding til eksamen skal skje senest innen 15. september for eksamen i høstsemesteret og 15. februar for eksamen i vårsemesteret. Andre frister kan avtales internt, hvis eksamen gjennomføres utenom de fastsatte eksamensperioder/tidsfrister.
 
-2. Den enkelte eksamenskandidat er selv ansvarlig for å kontrollere at han/hun er oppmeldt til eksamen og/eller i riktige fag/studieenheter.
+2\. Den enkelte eksamenskandidat er selv ansvarlig for å kontrollere at han/hun er oppmeldt til eksamen og/eller i riktige fag/studieenheter.
 
-3. Kandidaten skal bruke fastsatt skjema ved oppmelding til eksamen, eller melde opp via nettet på StudentWeb. Fastsatte tidsfrister gjelder også for utsatt- og kontinuasjonseksamener.
+3\. Kandidaten skal bruke fastsatt skjema ved oppmelding til eksamen, eller melde opp via nettet på StudentWeb. Fastsatte tidsfrister gjelder også for utsatt- og kontinuasjonseksamener.
 
-4. En kandidat som er meldt opp til eksamen, har anledning til å trekke seg fra eksamen. Avmelding skal skje skriftlig til høgskolen minimum 10 dager før eksamen.
+4\. En kandidat som er meldt opp til eksamen, har anledning til å trekke seg fra eksamen. Avmelding skal skje skriftlig til høgskolen minimum 10 dager før eksamen.
 
-5. En kandidat som trekker seg fra eksamen uten gyldig grunn, kan ikke kreve at det blir arrangert ny eksamen før ved neste ordinære eksamen i faget. En kandidat som trekker seg fra eksamen uten gyldig grunn mindre enn 10 dager før eksamen, eller møter på eksamen og trekker seg uten besvarelse, eller får karakteren «ikke bestått» på eksamen, regnes kandidaten å ha brukt en av tre eksamensmuligheter i faget. Gyldig grunn som gir rett til utsatt eksamen er sykdom eller en spesiell situasjon, og dette skal være dokumentert.
+5\. En kandidat som trekker seg fra eksamen uten gyldig grunn, kan ikke kreve at det blir arrangert ny eksamen før ved neste ordinære eksamen i faget. En kandidat som trekker seg fra eksamen uten gyldig grunn mindre enn 10 dager før eksamen, eller møter på eksamen og trekker seg uten besvarelse, eller får karakteren «ikke bestått» på eksamen, regnes kandidaten å ha brukt en av tre eksamensmuligheter i faget. Gyldig grunn som gir rett til utsatt eksamen er sykdom eller en spesiell situasjon, og dette skal være dokumentert.
 
 ## § 9. Adgang til å ta eksamen som privatist
 
-1. Med privatist menes person som beskrevet i forskriftens [§ 1](forskrift/2011-02-15-460/§1) «Privatist».
+1\. Med privatist menes person som beskrevet i forskriftens [§ 1](forskrift/2011-02-15-460/§1) «Privatist».
 
-2. Adgang til eksamen kan nektes etter lovens § 3-10 nr. 2 hvis privatisten ikke har fulgt obligatorisk undervisning eller gjennomført obligatorisk praksis.
+2\. Adgang til eksamen kan nektes etter lovens § 3-10 nr. 2 hvis privatisten ikke har fulgt obligatorisk undervisning eller gjennomført obligatorisk praksis.
 
-3. Privatister må melde seg opp til eksamen, og eventuelt søke om godkjenning av krav til forutdanning eller praksis, innen de fastsatte fristene: 1. september i høstsemesteret og 1. februar i vårsemesteret, hvis ikke høgskolen har fastsatt andre frister. Dokumentasjon av studiekompetanse for det studiet som eksamen gjelder, må vedlegges eksamensoppmeldingen. Høgskolen avgjør om vilkårene for oppmelding er oppfylt.
+3\. Privatister må melde seg opp til eksamen, og eventuelt søke om godkjenning av krav til forutdanning eller praksis, innen de fastsatte fristene: 1. september i høstsemesteret og 1. februar i vårsemesteret, hvis ikke høgskolen har fastsatt andre frister. Dokumentasjon av studiekompetanse for det studiet som eksamen gjelder, må vedlegges eksamensoppmeldingen. Høgskolen avgjør om vilkårene for oppmelding er oppfylt.
 
-4. Privatister må betale eksamensavgift i samsvar med vedtak i styret. Eksamensavgiften må være betalt innen angitt frist. Privatister som ikke har betalt eksamensavgiften innen fristen, har ikke adgang til eksamen.
+4\. Privatister må betale eksamensavgift i samsvar med vedtak i styret. Eksamensavgiften må være betalt innen angitt frist. Privatister som ikke har betalt eksamensavgiften innen fristen, har ikke adgang til eksamen.
 
-5. Privatister må i tillegg til eksamensavgiften betale semesteravgift i samsvar med bestemmelser i lov om studentsamskipnader med forskrifter. Privatister som har betalt semesteravgift, har krav på studiekort, og har adgang til velferdstilbud som gis av Studentsamskipnaden i Indre Finnmark (SSO) (*Sis-Finnmárkku studeanttaid ovttastus*).
+5\. Privatister må i tillegg til eksamensavgiften betale semesteravgift i samsvar med bestemmelser i lov om studentsamskipnader med forskrifter. Privatister som har betalt semesteravgift, har krav på studiekort, og har adgang til velferdstilbud som gis av Studentsamskipnaden i Indre Finnmark (SSO) (*Sis-Finnmárkku studeanttaid ovttastus*).
 
 ## § 10. Språk
 
@@ -133,6 +133,8 @@ Undervisning og eksamensoppgaver ved Samisk høgskole er på samisk, hvis ikke a
 ## § 11. Eksamensavvikling
 
 Eksamen avvikles normalt i det semesteret undervisningen i studieenheten avsluttes.
+
+*1. Eksamensplan*
 
 1. Det er normalt to ordinære eksamensperioder (vårsemester og høstsemester), men Samisk høgskole står fritt til å arrangere eksamener gjennom hele studieåret avhengig av hvordan studietilbudene er fordelt i studieenheter og hvordan disse organiseres.
 2. Eksamenstider kunngjøres i en egen eksamensplan minimum en måned i forkant av tidspunktet for når eksamen skal gjennomføres i gjeldende fag/studieenhet. Eksamensplan godkjennes av leder for fagadministrasjonen. I spesielle tilfeller kan det gjøres endringer i eksamensplanen. Endringer i eksamensplanen skal kunngjøres for alle berørte organer snarest mulig.
@@ -145,15 +147,15 @@ Hvis innlevering for hjemmeeksamen blir forsinket, kan studieadministrasjonen in
 
 ## § 13. Utsatt eksamen og kontinuasjonseksamen
 
-1. *Utsatt eksamen.* Utsatt eksamen arrangeres for kandidater som ikke har avlagt ordinær eksamen på grunn av gyldig fravær. Høgskolen arrangerer ikke ny utsatt eksamen hvis studenten var syk under utsatt eksamen. Studenten må da gjennomføre utsatt eksamen neste gang det arrangeres ordinær eksamen ved høgskolen.
+1\. *Utsatt eksamen.* Utsatt eksamen arrangeres for kandidater som ikke har avlagt ordinær eksamen på grunn av gyldig fravær. Høgskolen arrangerer ikke ny utsatt eksamen hvis studenten var syk under utsatt eksamen. Studenten må da gjennomføre utsatt eksamen neste gang det arrangeres ordinær eksamen ved høgskolen.
 
-2. *Kontinuasjonseksamen.* Kandidater som ikke bestod eksamen forrige gang, kan gjennomføre kontinuasjonseksamen neste gang det arrangeres utsatt eksamen i faget, eller neste gang det arrangeres ordinær eksamen i faget. Studieutvalget kan gjøre unntak fra retningslinjene ved særlige årsaker (jf. [§ 2](forskrift/2011-02-15-460/§2) nr. 5).
+2\. *Kontinuasjonseksamen.* Kandidater som ikke bestod eksamen forrige gang, kan gjennomføre kontinuasjonseksamen neste gang det arrangeres utsatt eksamen i faget, eller neste gang det arrangeres ordinær eksamen i faget. Studieutvalget kan gjøre unntak fra retningslinjene ved særlige årsaker (jf. [§ 2](forskrift/2011-02-15-460/§2) nr. 5).
 
-3. *Eksamenstider.* Utsatt eksamen og/eller kontinuasjonseksamen arrangeres normalt i påfølgende semester, og kan arrangeres samtidig med kontinuasjonseksamen/utsatt eksamen i samme fag.
+3\. *Eksamenstider.* Utsatt eksamen og/eller kontinuasjonseksamen arrangeres normalt i påfølgende semester, og kan arrangeres samtidig med kontinuasjonseksamen/utsatt eksamen i samme fag.
 
-4. *Eksamensavvikling utenfor lokalitetene der ordinær eksamen arrangeres.* Ved søknad er det adgang til å avlegge eksamen utenfor lokalitetene der ordinær eksamen gjennomføres. Samisk høgskole forutsetter at den som søker om en slik mulighet, selv dekker alle tilleggskostnader som følger av dette. Videre skal eksamensstedet være en institusjon som høgskolen kan godkjenne. En slik søknad avgjøres administrativt, og søknad skal være levert administrasjonen innen tre uker før eksamen, og innen 5 uker før eksamen hvis denne skal gjennomføres i utlandet. Styret for Samisk høgskole vedtar særskilt avgift for ekstraarbeidet dette medfører.
+4\. *Eksamensavvikling utenfor lokalitetene der ordinær eksamen arrangeres.* Ved søknad er det adgang til å avlegge eksamen utenfor lokalitetene der ordinær eksamen gjennomføres. Samisk høgskole forutsetter at den som søker om en slik mulighet, selv dekker alle tilleggskostnader som følger av dette. Videre skal eksamensstedet være en institusjon som høgskolen kan godkjenne. En slik søknad avgjøres administrativt, og søknad skal være levert administrasjonen innen tre uker før eksamen, og innen 5 uker før eksamen hvis denne skal gjennomføres i utlandet. Styret for Samisk høgskole vedtar særskilt avgift for ekstraarbeidet dette medfører.
 
-5. *Gruppeeksamen/avsluttende gruppeprøve.* Kandidater som ikke har bestått gruppeeksamen eller som hadde gyldig fravær ved gruppeeksamen, skal gjennomføre en utvidet individuell eksamen i stedet for gruppeeksamen. For øvrig vises det til retningslinjene for gruppeeksamen.
+5\. *Gruppeeksamen/avsluttende gruppeprøve.* Kandidater som ikke har bestått gruppeeksamen eller som hadde gyldig fravær ved gruppeeksamen, skal gjennomføre en utvidet individuell eksamen i stedet for gruppeeksamen. For øvrig vises det til retningslinjene for gruppeeksamen.
 
 ## § 14. Forbedre karakterer
 
@@ -163,33 +165,33 @@ For denne paragrafen gjelder ordinære tidsfrister for oppmelding til eksamen.
 
 ## § 15. Eksamensform og -omfang
 
-1. Omfang av eksamensform, prøver og arbeidsoppgaver skal fremgå i aktuelle fag- eller studieplaner.
+1\. Omfang av eksamensform, prøver og arbeidsoppgaver skal fremgå i aktuelle fag- eller studieplaner.
 
-2. Følgende eksamener kan være del av sluttvurderingen. Det kan benyttes kun en av disse eller en kombinasjon av flere:skriftlig individuell eksamen under tilsyn (skoleeksamen)muntlig individuell eksamen eller i gruppeskriftlig individuell hjemmeeksamen eller i gruppepraktiske øvelser og arbeider (praksis)framføringer//utstillinger individuelt eller i gruppeportefolie/mappevurdering – studenten velger selv obligatoriske og godkjente arbeider til framsyningsmappenarbeidsperm – alle obligatoriske og godkjente arbeidsoppgaver samlet i arbeidspermprosjektarbeid (semesteroppgave).
+2\. Følgende eksamener kan være del av sluttvurderingen. Det kan benyttes kun en av disse eller en kombinasjon av flere:skriftlig individuell eksamen under tilsyn (skoleeksamen)muntlig individuell eksamen eller i gruppeskriftlig individuell hjemmeeksamen eller i gruppepraktiske øvelser og arbeider (praksis)framføringer//utstillinger individuelt eller i gruppeportefolie/mappevurdering – studenten velger selv obligatoriske og godkjente arbeider til framsyningsmappenarbeidsperm – alle obligatoriske og godkjente arbeidsoppgaver samlet i arbeidspermprosjektarbeid (semesteroppgave).
 
 ## § 16. Fritak for eksamen eller prøve
 
-1. I medhold av universitets- og [høyskolelovens § 3-5](lov/2005-04-01-15/§3-5) skal fritak for eksamen eller prøve gis studenten når det godtgjøres at tilsvarende eksamen eller prøve er avlagt ved samme eller annen institusjon.
+1\. I medhold av universitets- og [høyskolelovens § 3-5](lov/2005-04-01-15/§3-5) skal fritak for eksamen eller prøve gis studenten når det godtgjøres at tilsvarende eksamen eller prøve er avlagt ved samme eller annen institusjon.
 
-2. Fritak for eksamen eller prøve for de(n) aktuelle studieenhet (er) skal framgå på vitnemålet.
+2\. Fritak for eksamen eller prøve for de(n) aktuelle studieenhet (er) skal framgå på vitnemålet.
 
-3. Samisk høgskole har i medhold av denne forskrift delegert myndighet til Forsknings- og studiestyret å avgjøre saker der studenter søker om fritak for eksamen eller prøve.
+3\. Samisk høgskole har i medhold av denne forskrift delegert myndighet til Forsknings- og studiestyret å avgjøre saker der studenter søker om fritak for eksamen eller prøve.
 
-4. Søknad om fritak skal være fremmet snarest etter at studiet har startet, og senest 4 uker etter at studieåret/semesteret har startet.
+4\. Søknad om fritak skal være fremmet snarest etter at studiet har startet, og senest 4 uker etter at studieåret/semesteret har startet.
 
-5. Studenten har selv ansvar for å dokumentere grunnlaget for den kompetanse som søknad om fritak begrunnes med og som er nødvendige for behandling av søknaden.
+5\. Studenten har selv ansvar for å dokumentere grunnlaget for den kompetanse som søknad om fritak begrunnes med og som er nødvendige for behandling av søknaden.
 
 ## § 17. Eksamensavvikling under særlige vilkår
 
-1. Høgskolen kan gi særordninger for kandidater med dokumenterte lese-/skrivevansker, med utviklingshemming, gravide med behov for hvile, ammepauser osv. Særordninger under eksamen kan være spesiell fysisk tilrettelegging, hjelpemidler (PC osv.) og utvidet eksamenstid.
+1\. Høgskolen kan gi særordninger for kandidater med dokumenterte lese-/skrivevansker, med utviklingshemming, gravide med behov for hvile, ammepauser osv. Særordninger under eksamen kan være spesiell fysisk tilrettelegging, hjelpemidler (PC osv.) og utvidet eksamenstid.
 
-2. Kandidater med behov for eksamensavvikling under særlige vilkår, skal søke om dette minimum to uker før eksamen. Hvis det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen. I dokumentasjonen må behovet for særordning ved eksamen beskrives, og erklæring fra lege/logoped/psykolog skal beskrive hvilke særlig tilrettelegging kandidaten har behov for i eksamenssituasjonen. Det skal søkes skriftlig for hver eksamensperiode om særlig tilrettelegging ved eksamen. Hvis det er dokumentert kronisk sykdom som gir grunnlag for særordning, er det tilstrekkelig at kandidaten leverer legeerklæring første gang det søkes om spesiell tilrettelegging ved eksamen. Søknadene avgjøres administrativt i samråd med fagområdet.
+2\. Kandidater med behov for eksamensavvikling under særlige vilkår, skal søke om dette minimum to uker før eksamen. Hvis det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen. I dokumentasjonen må behovet for særordning ved eksamen beskrives, og erklæring fra lege/logoped/psykolog skal beskrive hvilke særlig tilrettelegging kandidaten har behov for i eksamenssituasjonen. Det skal søkes skriftlig for hver eksamensperiode om særlig tilrettelegging ved eksamen. Hvis det er dokumentert kronisk sykdom som gir grunnlag for særordning, er det tilstrekkelig at kandidaten leverer legeerklæring første gang det søkes om spesiell tilrettelegging ved eksamen. Søknadene avgjøres administrativt i samråd med fagområdet.
 
-3. Kandidater med dysleksi eller andre lese-/skrivevansker, kan be høgskolen legge ved eksamensbesvarelsen en anonymisert attest som stadfester dette. Kandidater med dokumentasjon fra en sakkyndig instans om dysleksi eller andre lese-/skrivevansker, kan gis adgang til muntlig fremførelse av egen skriftlig eksamensbesvarelse. Velger kandidaten en muntlig fremførelse av eksamensbesvarelsen, skal denne fremføringen vektlegges ved bedømming av sluttkarakteren.
+3\. Kandidater med dysleksi eller andre lese-/skrivevansker, kan be høgskolen legge ved eksamensbesvarelsen en anonymisert attest som stadfester dette. Kandidater med dokumentasjon fra en sakkyndig instans om dysleksi eller andre lese-/skrivevansker, kan gis adgang til muntlig fremførelse av egen skriftlig eksamensbesvarelse. Velger kandidaten en muntlig fremførelse av eksamensbesvarelsen, skal denne fremføringen vektlegges ved bedømming av sluttkarakteren.
 
-4. Ved skriftlig eksamen kan det normalt gis utvidet tid med inntil 25 % av normal eksamenstid, maksimalt 1 time.
+4\. Ved skriftlig eksamen kan det normalt gis utvidet tid med inntil 25 % av normal eksamenstid, maksimalt 1 time.
 
-5. Ved hjemmeeksamen kan det normalt gis utvidet tid med 1 dag (24 timer).
+5\. Ved hjemmeeksamen kan det normalt gis utvidet tid med 1 dag (24 timer).
 
 ## § 19. Bruk av hjelpemidler ved eksamen
 
@@ -197,79 +199,90 @@ Hjelpemidler ved eksamen kan være skriftlige eller trykte hjelpemidler, og andr
 
 ## § 20. Fusk og forsøk på fusk
 
-1. Fusk foreligger når en student har annet enn tillatte hjelpemidler tilgjengelig under eksamen, eller på andre måter handler i strid med eksamensregelverket eller reglene om kildebruk.
+1\. Fusk foreligger når en student har annet enn tillatte hjelpemidler tilgjengelig under eksamen, eller på andre måter handler i strid med eksamensregelverket eller reglene om kildebruk.
 
-2. Hvis det under avleggelse av eksamen med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdet vil bli rapportert til administrasjonen for videre forføyning. Studenten gis da mulighet til å velge om han/hun ønsker å avbryte eller fortsette eksamen. Det samme gjelder for studenter som har medvirket til fusk, jf. nr. 5.
+2\. Hvis det under avleggelse av eksamen med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdet vil bli rapportert til administrasjonen for videre forføyning. Studenten gis da mulighet til å velge om han/hun ønsker å avbryte eller fortsette eksamen. Det samme gjelder for studenter som har medvirket til fusk, jf. nr. 5.
 
-3. Hvis det under avleggelse av individuell hjemmeeksamen oppstår situasjoner som medfører at det endelige resultat for den enkelte kandidats del ikke kan sies å være et individuelt og selvstendig arbeid, skal administrasjonen varsles. Hvis det i etterkant viser seg at to eller flere besvarelser klart bygger på samme originalarbeid eller har samme opphavsmann eller felles disposisjon, regnes det som fusk hos alle de involverte.
+3\. Hvis det under avleggelse av individuell hjemmeeksamen oppstår situasjoner som medfører at det endelige resultat for den enkelte kandidats del ikke kan sies å være et individuelt og selvstendig arbeid, skal administrasjonen varsles. Hvis det i etterkant viser seg at to eller flere besvarelser klart bygger på samme originalarbeid eller har samme opphavsmann eller felles disposisjon, regnes det som fusk hos alle de involverte.
 
-4. Referanser på anvendte kilder skal være oppgitt. Avskrift eller kopi uten kildehenvisning regnes som fusk, uavhengig av kilden. Eksamensbesvarelser skal alltid være originale, selvstendige og individuelle arbeider, med mindre det tydelig fremgår av oppgaven at hovedregelen kan fravikes. Besvarelsen skal ikke tidligere ha vært innlevert som eksamen på egen eller andre institusjoner.
+4\. Referanser på anvendte kilder skal være oppgitt. Avskrift eller kopi uten kildehenvisning regnes som fusk, uavhengig av kilden. Eksamensbesvarelser skal alltid være originale, selvstendige og individuelle arbeider, med mindre det tydelig fremgår av oppgaven at hovedregelen kan fravikes. Besvarelsen skal ikke tidligere ha vært innlevert som eksamen på egen eller andre institusjoner.
 
-5. Kandidater som forsettlig eller grovt uaktsomt medvirker til fusk hos andre, ansees også for å ha fusket, uavhengig av eksamensform.
+5\. Kandidater som forsettlig eller grovt uaktsomt medvirker til fusk hos andre, ansees også for å ha fusket, uavhengig av eksamensform.
 
-6. En student som har fusket eller forsøkt å fuske, kan få eksamen annullert jf. universitets- og [høyskoleloven § 4-7](lov/2005-04-01-15/§4-7) nr. 1 og/eller bli utestengt fra skolen, jf. [§ 4-8](lov/2005-04-01-15/§4-8) nr. 3.
+6\. En student som har fusket eller forsøkt å fuske, kan få eksamen annullert jf. universitets- og [høyskoleloven § 4-7](lov/2005-04-01-15/§4-7) nr. 1 og/eller bli utestengt fra skolen, jf. [§ 4-8](lov/2005-04-01-15/§4-8) nr. 3.
 
 ## § 21. Karaktersystem
 
-1. Karaktersystemet ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering bruker begrepet Bestått/Ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for Ikke bestått som følgende tabell viser:*Bokstavkarakter**Karakter**Generell, kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som viser stor grad av selvstendighet.BMeget godMeget god prestasjon på middels nivå som viser selvstendighet.CGodPrestasjon på middels nivå som langt på vei tilfredsstiller de faglige kravene.DNokså godPrestasjonen er under middels nivå. Den har noen mangler i de sentrale delene.ETilstrekkeligPrestasjonen er godkjent og tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjonen tilfredsstiller ikke minimumskravene.Nærmere spesifikasjon av vurderingskriteriene framgår av karaktersystemet ved Samisk høgskole med helhetlig beskrivelse av karakterene.
+1\. Karaktersystemet ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering bruker begrepet Bestått/Ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for Ikke bestått som følgende tabell viser:
 
-2. Bokstavkarakterene tilsvarer tallverdier slik: A=5, B=4, C=3, D=2, E=1, F=0. Tallverdiene brukes ved utregning av endelig karakter i emnet når flere deleksamener skal inngå eller når flere emneresultater skal inngå i en samlet endelig karakter for et emne. Det benyttes vanlige avrundingsregler.
+| *Bokstavkarakter* | *Karakter* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som viser stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon på middels nivå som viser selvstendighet. |
+| C | God | Prestasjon på middels nivå som langt på vei tilfredsstiller de faglige kravene. |
+| D | Nokså god | Prestasjonen er under middels nivå. Den har noen mangler i de sentrale delene. |
+| E | Tilstrekkelig | Prestasjonen er godkjent og tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjonen tilfredsstiller ikke minimumskravene. |
 
-3. Bestått/Ikke bestått bør ikke brukes i et omfang som samlet overstiger halvparten av studiepoengene i fag-/studieplan.
+Nærmere spesifikasjon av vurderingskriteriene framgår av karaktersystemet ved Samisk høgskole med helhetlig beskrivelse av karakterene.
 
-4. Hvilket karaktersystem som skal benyttes ved den enkelte eksamen, prøve eller bedømmelse av arbeidsoppgaver, fastsettes i fag- og studieplaner og skal fremgå av disse.
+2\. Bokstavkarakterene tilsvarer tallverdier slik: A=5, B=4, C=3, D=2, E=1, F=0. Tallverdiene brukes ved utregning av endelig karakter i emnet når flere deleksamener skal inngå eller når flere emneresultater skal inngå i en samlet endelig karakter for et emne. Det benyttes vanlige avrundingsregler.
 
-5. Regler for beregning av endelig karakter i et emne som består av flere deleksamener, fastsettes av høgskolen, og skal fremgå i fag- og studieplaner.
+3\. Bestått/Ikke bestått bør ikke brukes i et omfang som samlet overstiger halvparten av studiepoengene i fag-/studieplan.
+
+4\. Hvilket karaktersystem som skal benyttes ved den enkelte eksamen, prøve eller bedømmelse av arbeidsoppgaver, fastsettes i fag- og studieplaner og skal fremgå av disse.
+
+5\. Regler for beregning av endelig karakter i et emne som består av flere deleksamener, fastsettes av høgskolen, og skal fremgå i fag- og studieplaner.
 
 ## § 22. Sensorer, sensurordning og sensurfrist
 
-1. Forsknings- og studiestyret fastsetter nærmere sensurordninger og oppnevner en eksamenskommisjon for eksamener og/eller deleksamener som innregnes som del av sluttkarakteren. Den som oppnevnes til sensor, påtar seg samtidig å være sensor ved kontinuasjonseksamen/utsatt eksamen. Reservesensor oppnevnes for eksamener med klagerett i medhold av UH-lovens § 3-9. Reserve-/klagesensor (2 stykker) oppnevnes samtidig med ordinære sensorer hvorav minimumskravet er at den ene skal være ekstern sensor.Sensorer oppnevnes slik:1. sensor – faglærer/fagansvarlig for studietilbudet2. sensor – intern sensor (faglærer) eller ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor eller ekstern sensorFor masteroppgaver oppnevnes sensorer slik:1. sensor – intern sensor2. sensor – ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor
+1\. Forsknings- og studiestyret fastsetter nærmere sensurordninger og oppnevner en eksamenskommisjon for eksamener og/eller deleksamener som innregnes som del av sluttkarakteren. Den som oppnevnes til sensor, påtar seg samtidig å være sensor ved kontinuasjonseksamen/utsatt eksamen. Reservesensor oppnevnes for eksamener med klagerett i medhold av UH-lovens § 3-9. Reserve-/klagesensor (2 stykker) oppnevnes samtidig med ordinære sensorer hvorav minimumskravet er at den ene skal være ekstern sensor.Sensorer oppnevnes slik:1. sensor – faglærer/fagansvarlig for studietilbudet2. sensor – intern sensor (faglærer) eller ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor eller ekstern sensorFor masteroppgaver oppnevnes sensorer slik:1. sensor – intern sensor2. sensor – ekstern sensorReservesensor 1: ekstern sensorReservesensor 2: intern sensor
 
-2. Ekstern sensor skal ikke være ansatt ved Samisk høgskole. Ekstern sensor skal oppfylle minimum en av følgende kvalifikasjoner:Være ansatt på minimum høgskolelektornivå ved annen utdannings-/forskningsinstitusjon.På annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.Ha erfaring som sensor i vedkommende fag/studium på universitets-/høgskolenivå.Gjennom yrkespraksis være særlig kvalifisert i vedkommende fagområde.
+2\. Ekstern sensor skal ikke være ansatt ved Samisk høgskole. Ekstern sensor skal oppfylle minimum en av følgende kvalifikasjoner:Være ansatt på minimum høgskolelektornivå ved annen utdannings-/forskningsinstitusjon.På annen måte ha dokumentert vitenskapelig kompetanse på samme nivå.Ha erfaring som sensor i vedkommende fag/studium på universitets-/høgskolenivå.Gjennom yrkespraksis være særlig kvalifisert i vedkommende fagområde.
 
-3. Bruk av ekstern sensor tilpasses vurderinger og deleksamener for det enkelte fag/studieenhet. Det skal være ekstern evaluering av vurderingen eller vurderingsordningene jf. UH-lovens § 3-9 nr. 1. Ekstern sensor bør være med i bedømmingen av noen deleksamener eller besvarelser fra noen av kandidatene eller fra alle kandidatene hver 3. gang det gis vurdering i faget/studieenheten.
+3\. Bruk av ekstern sensor tilpasses vurderinger og deleksamener for det enkelte fag/studieenhet. Det skal være ekstern evaluering av vurderingen eller vurderingsordningene jf. UH-lovens § 3-9 nr. 1. Ekstern sensor bør være med i bedømmingen av noen deleksamener eller besvarelser fra noen av kandidatene eller fra alle kandidatene hver 3. gang det gis vurdering i faget/studieenheten.
 
-4. Arbeidsfordeling for eksamenskommisjonen1. og 2. sensor evaluerer fag- og studieplanen, spesielt vurderingsform, studiets organisering og arbeidsmåter i faget.1.og 2. sensor godkjenner eksamensoppgavene i henhold til fag- og studieinnhold og gir rammer for vurderingen. Det fremsettes rapport til reservesensorer etter behov.1. og 2. sensor bedømmer kandidatenes eksamensbesvarelser. 2. sensor framlegger sensorrapport.Reservesensorer bedømmer eksamensbesvarelser hvis en kandidat har framsatt klage på resultatene på bakgrunn av Samisk høgskoles eksamensforskrifter og UH-lovens § 3-9 nr. 1. 1. Reservesensor framlegger sensorrapport fra klagesensuren.
+4\. Arbeidsfordeling for eksamenskommisjonen1. og 2. sensor evaluerer fag- og studieplanen, spesielt vurderingsform, studiets organisering og arbeidsmåter i faget.1.og 2. sensor godkjenner eksamensoppgavene i henhold til fag- og studieinnhold og gir rammer for vurderingen. Det fremsettes rapport til reservesensorer etter behov.1. og 2. sensor bedømmer kandidatenes eksamensbesvarelser. 2. sensor framlegger sensorrapport.Reservesensorer bedømmer eksamensbesvarelser hvis en kandidat har framsatt klage på resultatene på bakgrunn av Samisk høgskoles eksamensforskrifter og UH-lovens § 3-9 nr. 1. 1. Reservesensor framlegger sensorrapport fra klagesensuren.
 
-5. SensurfristSensuren skal foreligge innen tre uker fra eksamensdato/innlevering av eksamensbesvarelse fra kandidaten, hvis sensurfristen ikke er utvidet av spesielle årsaker. For masteroppgaver er sensurfristen 6 uker.Hvis muntlig eksamen eller praktisk eksamen gjennomføres på et senere tidspunkt enn skriftlig eksamen og er tilknyttet denne, og kandidaten får «ikke bestått» på skriftlig eksamen, har ikke kandidaten adgang til å ta muntlig/praktisk eksamen.
+5\. SensurfristSensuren skal foreligge innen tre uker fra eksamensdato/innlevering av eksamensbesvarelse fra kandidaten, hvis sensurfristen ikke er utvidet av spesielle årsaker. For masteroppgaver er sensurfristen 6 uker.Hvis muntlig eksamen eller praktisk eksamen gjennomføres på et senere tidspunkt enn skriftlig eksamen og er tilknyttet denne, og kandidaten får «ikke bestått» på skriftlig eksamen, har ikke kandidaten adgang til å ta muntlig/praktisk eksamen.
 
 ## § 23. Klage for formelle feil ved eksamensavvikling
 
-1. En eksamenskandidat har rett til å klage på formelle feil ved eksamensavvikling. Klagefristen er tre uker og klage på formelle feil må framsettes innen 3 uker etter at kandidaten er eller burde vært kjent med det forhold som begrunner klagen. Styret selv eller klagenemnda ved høgskolen skal behandle klagesaker, jf. UH-lovens § 4-7 og § 4-8.
+1\. En eksamenskandidat har rett til å klage på formelle feil ved eksamensavvikling. Klagefristen er tre uker og klage på formelle feil må framsettes innen 3 uker etter at kandidaten er eller burde vært kjent med det forhold som begrunner klagen. Styret selv eller klagenemnda ved høgskolen skal behandle klagesaker, jf. UH-lovens § 4-7 og § 4-8.
 
-2. Er det gjort feil som kan ha innvirkning på studentens eksamensavvikling eller eksamensvurdering, skal vurderingsvedtaket annuleres. Hvis det er mulig å rette opp feilen ved ny sensur, skal oppgaven/eksamensbesvarelsen gis en ny vurdering. Hvis det ikke er mulig å rette opp feilen ved å gi ny vurdering, skal høgskolen avvikle ny eksamen eller prøve som skal bli vurdert av nye sensorer. Det er adgang til å klage på karakteren som gis ved ny vurdering, når den nye vurderingen er gitt i medhold av denne paragrafen, jf. § 5-2.
+2\. Er det gjort feil som kan ha innvirkning på studentens eksamensavvikling eller eksamensvurdering, skal vurderingsvedtaket annuleres. Hvis det er mulig å rette opp feilen ved ny sensur, skal oppgaven/eksamensbesvarelsen gis en ny vurdering. Hvis det ikke er mulig å rette opp feilen ved å gi ny vurdering, skal høgskolen avvikle ny eksamen eller prøve som skal bli vurdert av nye sensorer. Det er adgang til å klage på karakteren som gis ved ny vurdering, når den nye vurderingen er gitt i medhold av denne paragrafen, jf. § 5-2.
 
-3. Har studenten stilt krav om begrunnelse for eksamensvurderingen eller framsatt klage på karakterene, er klagefristen med hjemmel i denne paragraf fra den dato studenten har mottatt begrunnelsen eller fra den dato klagesaken er avgjort.
+3\. Har studenten stilt krav om begrunnelse for eksamensvurderingen eller framsatt klage på karakterene, er klagefristen med hjemmel i denne paragraf fra den dato studenten har mottatt begrunnelsen eller fra den dato klagesaken er avgjort.
 
-4. Hvis styret eller klagenemnda finner at det er begått formelle feil ved eksamensavviklingen, kan det besluttes å gi en ny vurdering eller avvikle ny eksamen eller prøve. En slik avgjørelse kan fastsettes hvis det er rimelig å anta at formelle feil har hatt betydning for en eller flere kandidaters eksamensavvikling eller vurdering av eksamensbesvarelser.
+4\. Hvis styret eller klagenemnda finner at det er begått formelle feil ved eksamensavviklingen, kan det besluttes å gi en ny vurdering eller avvikle ny eksamen eller prøve. En slik avgjørelse kan fastsettes hvis det er rimelig å anta at formelle feil har hatt betydning for en eller flere kandidaters eksamensavvikling eller vurdering av eksamensbesvarelser.
 
 ## § 24. Begrunnelse for fastsatte karakterer og klage på karakterer
 
-1. En kandidat har rett til å få en begrunnelse for hvordan bedømmingen av eksamensbesvarelsen er gjort. Ved muntlig eller praktisk eksamen skal kandidaten fremsette krav om begrunnelse umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må studenten fremme krav om begrunnelse innen en uke fra karakteren ble kunngjort, likevel aldri mer enn tre uker etter at karakteren ble kunngjort.
+1\. En kandidat har rett til å få en begrunnelse for hvordan bedømmingen av eksamensbesvarelsen er gjort. Ved muntlig eller praktisk eksamen skal kandidaten fremsette krav om begrunnelse umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må studenten fremme krav om begrunnelse innen en uke fra karakteren ble kunngjort, likevel aldri mer enn tre uker etter at karakteren ble kunngjort.
 
-2. Begrunnelse for karakterfastsettingen skal være gitt innen to uker etter at kandidaten har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for eksamensbedømmelsen. Begrunnelse gis muntlig eller skriftlig etter sensors valg.
+2\. Begrunnelse for karakterfastsettingen skal være gitt innen to uker etter at kandidaten har framsatt krav om det. I begrunnelsen skal det gjøres rede for de generelle prinsipper som er lagt til grunn for eksamensbedømmelsen. Begrunnelse gis muntlig eller skriftlig etter sensors valg.
 
-3. Er det utarbeidet skriftlige retningslinjer for eksamensbedømming, skal disse gjøres tilgjengelig for studentene etter at karakter er fastsatt.
+3\. Er det utarbeidet skriftlige retningslinjer for eksamensbedømming, skal disse gjøres tilgjengelig for studentene etter at karakter er fastsatt.
 
-4. En kandidat kan fremsette skriftlig klage på karakterfastsettingen innen tre uker fra den dato eksamensresultatene er kunngjort. Hvis en kandidat fremsetter klage, skal det gis en ny bedømming. Har kandidaten framsatt krav om begrunnelse for karakterfastsetting eller har klaget på eksamensoppgaven/eksamensavvikling/feil ved eksamensvurdering, løper klagefristen, med hjemmel i denne paragraf, fra kandidaten har mottatt begrunnelse eller fra det tidspunkt avgjørelse i klagesaken er tatt. Ved krav om klage over karakterfastsettingen på gruppeeksamen, må alle gruppens kandidater skrive under på klagen før den behandles ved høgskolen.
+4\. En kandidat kan fremsette skriftlig klage på karakterfastsettingen innen tre uker fra den dato eksamensresultatene er kunngjort. Hvis en kandidat fremsetter klage, skal det gis en ny bedømming. Har kandidaten framsatt krav om begrunnelse for karakterfastsetting eller har klaget på eksamensoppgaven/eksamensavvikling/feil ved eksamensvurdering, løper klagefristen, med hjemmel i denne paragraf, fra kandidaten har mottatt begrunnelse eller fra det tidspunkt avgjørelse i klagesaken er tatt. Ved krav om klage over karakterfastsettingen på gruppeeksamen, må alle gruppens kandidater skrive under på klagen før den behandles ved høgskolen.
 
-5. For bedømming av deleksamener og obligatoriske arbeidsoppgaver løper klageretten fra det tidspunkt eksamensresultater i den enkelte deleksamen/obligatorisk arbeidsoppgave er kunngjort.
+5\. For bedømming av deleksamener og obligatoriske arbeidsoppgaver løper klageretten fra det tidspunkt eksamensresultater i den enkelte deleksamen/obligatorisk arbeidsoppgave er kunngjort.
 
-6. Klagefristen løper fra det tidspunkt karakterene er kunngjort på Class Fronter/Studentweb eller for studenten direkte. Karakterer kunngjøres normalt med kandidatnummer.
+6\. Klagefristen løper fra det tidspunkt karakterene er kunngjort på Class Fronter/Studentweb eller for studenten direkte. Karakterer kunngjøres normalt med kandidatnummer.
 
-7. Bedømmelse av muntlig eksamen, bedømmelse av praksis eller annen bedømmelse kan ikke påklagelsen, hvis prøvens art gjør at den ikke kan bedømmes på nytt. Resultater fra opptaksprøve (forprøve) kan bare påklages når prøven ikke er bestått. Det er ikke klageadgang for karakterfastsetting ved ny sensurering etter denne paragraf, jf. UH-lovens § 5-3.
+7\. Bedømmelse av muntlig eksamen, bedømmelse av praksis eller annen bedømmelse kan ikke påklagelsen, hvis prøvens art gjør at den ikke kan bedømmes på nytt. Resultater fra opptaksprøve (forprøve) kan bare påklages når prøven ikke er bestått. Det er ikke klageadgang for karakterfastsetting ved ny sensurering etter denne paragraf, jf. UH-lovens § 5-3.
 
 ## § 25. Vitnemål
 
-1. Samisk høgskole utsteder vitnemål for oppnådd grad, profesjonsutdanning, bachelorgrad, mastergrad eller for et annet studieprogram. For andre studier som ikke gir grad, utstedes karakterutskrift. For grad som avsluttes i vårsemesteret, dateres vitnemålet den 20. juni, og for grad som avsluttes i høstsemesteret, dateres vitnemålet den 20. desember.
+1\. Samisk høgskole utsteder vitnemål for oppnådd grad, profesjonsutdanning, bachelorgrad, mastergrad eller for et annet studieprogram. For andre studier som ikke gir grad, utstedes karakterutskrift. For grad som avsluttes i vårsemesteret, dateres vitnemålet den 20. juni, og for grad som avsluttes i høstsemesteret, dateres vitnemålet den 20. desember.
 
-2. Samisk høgskole utsteder vitnemål på samisk. Diploma Supplement og Transcript of Records vedlegges vitnemålet.
+2\. Samisk høgskole utsteder vitnemål på samisk. Diploma Supplement og Transcript of Records vedlegges vitnemålet.
 
-3. Hvis en student, etter å ha gjennomført yrkesutdanning eller en grad, tar eksamen på nytt i emne eller fag som inngår som en del av den aktuelle yrkesutdanningen eller i graden, utstedes det ny karakterutskrift.
+3\. Hvis en student, etter å ha gjennomført yrkesutdanning eller en grad, tar eksamen på nytt i emne eller fag som inngår som en del av den aktuelle yrkesutdanningen eller i graden, utstedes det ny karakterutskrift.
 
-4. Høgskolen krever inn en særskilt avgift for utstedelse av duplikatvitnemål. I spesielle tilfeller der det kan sannsynliggjøres eller dokumenteres at vitnemålet er mistet eller ødelagt, kan det utstedes et nytt vitnemål.
+4\. Høgskolen krever inn en særskilt avgift for utstedelse av duplikatvitnemål. I spesielle tilfeller der det kan sannsynliggjøres eller dokumenteres at vitnemålet er mistet eller ødelagt, kan det utstedes et nytt vitnemål.
 
-5. På vitnemålet skal det framgå:Logo og navn på institusjonHvilken grad som er fullført og navn på studieprogramMål og kompetanse for studietKandidatens navn og fødselsnummerStudiepoengTidspunkt for fullført utdanningKandidatens fritak for deler av studiet grunnet annen kompetanse og hvilken kompetanse som er grunnlaget for fritakNavn på større skriftlige oppgaverKaraktersystem/-skala.
+5\. På vitnemålet skal det framgå:Logo og navn på institusjonHvilken grad som er fullført og navn på studieprogramMål og kompetanse for studietKandidatens navn og fødselsnummerStudiepoengTidspunkt for fullført utdanningKandidatens fritak for deler av studiet grunnet annen kompetanse og hvilken kompetanse som er grunnlaget for fritakNavn på større skriftlige oppgaverKaraktersystem/-skala.
 
 ## § 26. Lovverk/referanser
 
@@ -282,3 +295,5 @@ Styret for Samisk høgskole gir med hjemmel i denne forskrift delegasjon til Sam
 ## § 28. Ikrafttredelse
 
 Denne forskrift trer i kraft den 1. mars 2011. Fra samme dato oppheves Samisk høgskoles forskrift om eksamen og sluttvurdering, med siste endringer godkjent i Studieutvalgets møte 1. mars 2007 i sak OAL 16/07.1
+
+1 Ikke kunngjort i Norsk Lovtidend.

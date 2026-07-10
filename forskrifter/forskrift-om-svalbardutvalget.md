@@ -42,6 +42,8 @@ Utvalgets medlemmer tilkommer godtgjørelse etter komitèregulativet.
 
 Statsministeren gis fullmakt til å løse medlemmene (og varamennene) fra deres verv og til å oppnevne nye medlemmer (og varamenn) i den utstrekning det anses nødvendig.
 
+*Merknad:*
+
 *Se kgl.res. av 6. august 1971 om å utvide Svalbardutvalgets stedlige virkeområde til å omfatte de øvrige polarområder og om å endre utvalgets betegnelse til Det interdepartementale Polarutvalg.*
 
 *Når det gjelder den nåværende sammensetning mht. departementer og institusjoner vises til Justisdepartementes rundskriv av 7. mai 1979. Den personlige sammensetning har skiftet. Medlemsliste kan til enhver tid fås ved henvendelse til utvalgets sekretariat, Polaravdelingen, Justisdepartementet.*

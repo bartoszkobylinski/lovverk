@@ -124,6 +124,8 @@ Uanonymiserte rettsavgjørelser skal fjernes fra åpne og lukkede nettsider inne
 
 Forskriften, med unntak av [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6), trer i kraft 1. september 2001. [§ 2](forskrift/2001-07-06-757/§2) annet punktum og [§ 3](forskrift/2001-07-06-757/§3) til [§ 6](forskrift/2001-07-06-757/§6) trer i kraft fra den tid departementet bestemmer.1
 
+1 I kraft 1 sep 2005, jf. [forskrift 18 aug 2005 nr. 919](forskrift/2005-08-18-919).
+
 ## Merknader til forskriften
 
 ### Merknad til § 1
@@ -143,6 +145,8 @@ Bestemmelsen gjelder også for rettsmøter i forliksrådet, jf. [§ 1](forskrift
 ### Merknad til § 3
 
 Første ledd fastslår at alle domstoler skal utarbeide lister over berammede rettsmøter. [Domstolloven § 122](lov/1915-08-13-5/§122) definerer begrepet «rettsmøte» slik:
+
+«de møter, som en ret holder til forhandling mellom parter eller for at avhøre parter, vidner eller sakkyndige eller foreta granskning, eller som loven særskilt har betegnet som retsmøter».
 
 Under saksforberedelsen i sivile saker treffes ofte beslutninger og kjennelser. Det samme gjelder under etterforskningsstadiet i straffesaker. Når det forut for slike avgjørelser innkalles til muntlige forhandlinger, er dette rettsmøter som skal føres opp i berammingslisten.
 
@@ -265,6 +269,8 @@ Formålet med pressemapper er at pressen skal få løpende innsyn i nylig avsagt
 Om adgangen til å gi andre enn pressen tilgang til lukkede nettsider, jf. første ledd annet punktum, vises til merknadene til [§ 6](forskrift/2001-07-06-757/§6).
 
 Rettsavgjørelser skal heller ikke legges ut så langt det foreligger forbud mot offentlig gjengivelse, jf. annet ledd og [domstolloven § 130](lov/1915-08-13-5/§130). Dersom domstolene velger å legge ut rettsavgjørelser som delvis er forbudt offentlig gjengitt, må opplysningene som ikke kan gjengis offentlig fjernes (i motsetning til det som gjelder for pressemapper, jf. [§ 10](forskrift/2001-07-06-757/§10)). Dersom det er besluttet utsatt offentlighet etter [domstolloven § 130](lov/1915-08-13-5/§130) tredje ledd, skal avgjørelsen ikke legges ut på nettet før meddelelse har funnet sted, eller før fristen på 14 dager er løpt ut. Hvis adgangen til offentlig gjengivelse er betinget av at avgjørelsen anonymiseres, jf. [domstolloven § 130](lov/1915-08-13-5/§130) fjerde ledd, må domstolene anonymisere rettsavgjørelsen før den legges ut på nettet.
+
+*Nærmere om publisering på åpne nettsider*
 
 Ved publisering på åpne nettsider gjelder det ytterligere begrensninger. For publisering av rettsavgjørelser i straffesaker, fastslås det i tredje ledd bokstav a at domstolene skal anonymisere avgjørelsene så langt det er nødvendig for å hindre identifisering av siktede. Anonymisering skal gjøres uavhengig av om det straffbare forholdet er grovt. Siktedes navn, fødselsdato og boligadresse skal alltid fjernes. I tillegg kan det være nødvendig å fjerne andre identifiserende opplysninger, for eksempel opplysninger om fornærmede eller om siktedes arbeidssted. Regelen forutsetter at domstolen i hvert enkelt tilfelle foretar en konkret vurdering av hvilke opplysninger som kan legges ut. I tilfeller hvor siktelsen er allment kjent, vil behovet for anonymisering ikke gjøre seg gjeldende i samme grad som ellers. Det er derfor gjort unntak for slike saker. Bestemmelsen kommer bare til anvendelse dersom det er allment kjent både hva siktelsen går ut på, og hvem siktede er. Dersom rettsavgjørelsen legges ut uanonymisert skal den fjernes fra nettsiden senest tre måneder etter at den er lagt ut, jf. fjerde ledd.
 

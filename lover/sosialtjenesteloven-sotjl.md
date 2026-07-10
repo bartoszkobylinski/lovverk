@@ -420,6 +420,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 
 Lovens bestemmelser om kvalifiseringsprogram og kvalifiseringsstønad gjelder for den enkelte kommunen fra det tidspunktet det er inngått avtale mellom Arbeids- og velferdsetaten og kommunen etter [arbeids- og velferdsforvaltningsloven §§ 13](lov/2006-06-16-20/§13) og [14](lov/2006-06-16-20/§14), og felles lokalt kontor er etablert. Fra 1. januar 2010 gjelder bestemmelsene for alle landets kommuner.
 
+1 Fra 1 jan 2010 iflg. [res. 18 des 2009 nr. 1584](forskrift/2009-12-18-1584).
+
 ### § 51. Overgangsbestemmelser
 
 Kongen kan gi forskrifter om lovens anvendelse for vedtak som er truffet etter lover som blir opphevet ved denne loven, og om saker som er under behandling etter disse lovene.

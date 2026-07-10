@@ -172,6 +172,8 @@ Med hjemmel i [smittevernloven § 8-1](lov/1994-08-05-55/§8-1) straffes overtre
 
 ### Til § 2-1 Krav til hygiene
 
+*Generelle retningslinjer:*
+
 Det kan for det første gis mer teknisk pregede retningslinjer for hvordan personell som er tillagt oppgaver med håndtering, emballering og balsamering av lik skal utføre sitt arbeid hygienisk forsvarlig. Retningslinjene skal sikre at overføring av smitte fra lik ikke finner sted og at arbeidet utføres på en fagmessig måte. Retningslinjene erstatter tidligere rundskriv som omhandler tilsvarende emner.
 
 For det andre kan det gis retningslinjer om hygieniske forholdsregler og forebyggende tiltak beregnet på ulike målgrupper:
@@ -183,6 +185,8 @@ En annen målgruppe er de som har forvaltningsansvaret for institusjoner som har
 Den tredje målgruppen er den som har forvaltningsansvaret for kirkegård som har bårerom eller mottakelseskapell for kister. Det legges også her vekt på en gjennomført god hygiene som gjelder såvel personell som lokaler.
 
 Det kan også gis retningslinjer for personell ved krematorier for deres håndtering av kister før kremasjon finner sted.
+
+*Retningslinjer ved særlig smittsom sykdom:*
 
 I utgangspunktet anses ethvert lik som smitteførende uansett dødsårsak. Enkelte sykdommer er imidlertid så alvorlige og smitter på en slik måte at ekstra forsiktighet må utvises dersom avdøde hadde en slik sykdom og den var i en fase der smittsomheten er høy. Helsedirektoratet kunngjør i rundskriv hvilke sykdommer eller tilstander som til enhver tid er aktuelle i denne sammenheng. Helsedirektoratet angir samtidig hvilke forsiktighetsregler som må følges i det enkelte tilfelle og hvordan merking av lik og kiste skal utføres i praksis. Det er viktig at leger som skriver legeerklæring om dødsfall, holder seg orientert om dette.
 
@@ -222,6 +226,8 @@ Den eller de som mottar kisten, skal sørge for at omlegging til vanlig kiste bl
 
 ### Til § 4-1 Dokumentasjon og opplysninger som skal følge liket
 
+*Merking:*
+
 Fra et smittevernsynspunkt er det betenkelig om lik skal kunne forveksles. Det presiseres derfor i første ledd at ethvert lik skal være merket med avdødes identifikasjonsdata, dvs. navn og fødselsdato samt dødsdato. Dette skal sikre mot forvekslinger i tilfelle flere lik oppbevares samtidig på samme sted.
 
 Det står ikke anført hvem som er ansvarlig for å foreta merking da dette kan variere. Det forutsettes imidlertid at en person som kjenner avdødes identitet, skal sørge for at merking blir foretatt før liket tas hånd om og fjernes av personer som ikke kjenner identiteten. I praksis vil dette bety at legen som skriver legeerklæring om dødsfall, må påse at liket er merket før avhenting. Blir liket bragt bort uten at lege har vært til stede, vil det påhvile pårørende å sørge for at opplysninger som identifiserer avdøde, følger liket.
@@ -234,11 +240,15 @@ I de sjeldne tilfeller transport, håndtering m.v. av lik/kiste krever spesielle
 
 Ved merking av lik som skal sendes ut av landet, eller som mottas fra utlandet, må man fra norsk side følge de bestemmelser som er fastsatt i overenskomst Norge har inngått med fremmede stater eller avtaler Helsedirektoratet har gitt sin tilslutning til. Man er for øvrig henvist til å følge de krav som stilles i det enkelte mottakerland, transittland og flyselskap.
 
+*Taushetsbelagte opplysninger:*
+
 Opplysning om dødsårsak er underlagt taushetsplikt etter [legeloven § 31](lov/1980-06-13-42/§31) og [sykehusloven § 16](lov/1969-06-19-57/§16). Den som besørger transporten har likevel rett til å få opplyst om det foreligger smittefare som gjør at det må tas spesielle forholdsregler for å unngå overføring av smitte.
 
 Krav på opplysninger om dødsårsak har bare den offentlige lege som mottar melding om dødsfall og Statistisk sentralbyrå, samt politi/lensmann når det er gitt melding om unaturlig død.
 
 Pårørende kan, hvis de ikke allerede kjenner dødsårsaken, henvende seg til behandlende lege som kan gi opplysninger i medhold av [legeloven § 26](lov/1980-06-13-42/§26) og [§ 37](lov/1980-06-13-42/§37).
+
+*Transport:*
 
 Skal lik sendes med fly til land i Norden, må avsender sørge for å få utfylt transportsertifikat i henhold til den avtale som er nevnt i merknaden til [§ 3-2](forskrift/1998-04-03-327/§3-2).
 

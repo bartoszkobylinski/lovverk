@@ -78,11 +78,26 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som varmeenergi
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt varmeenergimåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40° C |
+
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
 ### § 8. Mekanisk miljø
 
 Mekanisk miljø klassifiseres som følger:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter varmeenergimålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter varmeenergimålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter varmeenergimålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:vibrasjonmekanisk sjokk.
 
@@ -90,7 +105,15 @@ Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med meka
 
 ### § 9. Elektromagnetisk miljø
 
-Elektromagnetisk miljø klassifiseres i E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.*Tabell 3*E1Denne klassen omfatter varmeenergimålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.E2Denne klassen omfatter varmeenergimålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.E3Denne klassen omfatter varmeenergimålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift.
+Elektromagnetisk miljø klassifiseres i E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter varmeenergimålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter varmeenergimålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter varmeenergimålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningspenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerhøyfrekvente elektromagnetisk feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -218,7 +241,22 @@ En varmeenergimåler skal være konstruert slik at det lett kan vurderes om den 
 
 ### § 23. Definisjoner
 
-θ=temperaturen på den varmeledende væskenθin=verdien av θ ved innløpet til varmevekslerkretsenθout=verdien av θ ved utløpet av varmevekslerkretsenΔθ=temperaturdifferansen θin – θout med Δθ ≥ 0θmax=øvre grense for θ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeilθmin=nedre grense for θ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeilΔθmax=øvre grense for Δθ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeilΔθmin=nedre grense for Δθ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeilQ=strømningsraten til den varmeledende væskenqs=den største verdi av q som er tillatt over korte tidsrom der varmeenergimåleren fungerer korrektqp=den største verdi av q som er tillatt permanent der varmeenergimåleren fungerer korrektqi=den minste verdi av q som er tillatt der varmeenergimåleren fungerer korrektP=termisk effekt av varmevekslingenPs=øvre grense for P som er tillatt der varmeenergimåleren fungerer korrekt.
+|  |  |  |
+| --- | --- | --- |
+| θ | = | temperaturen på den varmeledende væsken |
+| θin | = | verdien av θ ved innløpet til varmevekslerkretsen |
+| θout | = | verdien av θ ved utløpet av varmevekslerkretsen |
+| Δθ | = | temperaturdifferansen θin – θout med Δθ ≥ 0 |
+| θmax | = | øvre grense for θ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeil |
+| θmin | = | nedre grense for θ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeil |
+| Δθmax | = | øvre grense for Δθ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeil |
+| Δθmin | = | nedre grense for Δθ der varmeenergimåleren skal fungere uten at dens feil overstiger den maksimale tillatte målefeil |
+| Q | = | strømningsraten til den varmeledende væsken |
+| qs | = | den største verdi av q som er tillatt over korte tidsrom der varmeenergimåleren fungerer korrekt |
+| qp | = | den største verdi av q som er tillatt permanent der varmeenergimåleren fungerer korrekt |
+| qi | = | den minste verdi av q som er tillatt der varmeenergimåleren fungerer korrekt |
+| P | = | termisk effekt av varmevekslingen |
+| Ps | = | øvre grense for P som er tillatt der varmeenergimåleren fungerer korrekt. |
 
 > Endret ved forskrift [16 nov 2022 nr. 2112](forskrift/2022-11-16-2112) (i kraft 1 jan 2023).
 
@@ -237,6 +275,14 @@ Følgende nøyaktighetsklasser er definert for varmeenergimålere: 1, 2 og 3.
 ### § 26. Maksimal tillatte målefeil for komplette varmeenergimålere
 
 For hver nøyaktighetsklasse gjelder følgende relative maksimale tillatte målefeil for en komplett varmeenergimåler, angitt i prosent av den sanne verdi:
+
+*Tabell 4*
+
+|  |  |
+| --- | --- |
+| Klasse 1 | E = Ef + Et + Ec, med Ef, Et, Ec i henhold til [§ 30](forskrift/2007-12-21-1743/§30) bokstav a, b og c |
+| Klasse 2 | E = Ef + Et + Ec, med Ef, Et, Ec i henhold til [§ 30](forskrift/2007-12-21-1743/§30) bokstav a, b og c |
+| Klasse 3 | E = Ef + Et + Ec, med Ef, Et, Ec i henhold til [§ 30](forskrift/2007-12-21-1743/§30) bokstav a, b og c |
 
 Den komplette varmeenergimåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.
 

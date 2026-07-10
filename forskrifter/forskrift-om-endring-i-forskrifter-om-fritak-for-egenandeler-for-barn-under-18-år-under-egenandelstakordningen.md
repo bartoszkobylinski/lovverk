@@ -44,23 +44,7 @@ I [forskrift 22. juni 2025 nr. 1188 om forsøksordning med nettlege i allmennleg
 
 [§ 4](forskrift/2025-06-22-1188/§4) skal lyde:
 
-§ 4. Stønad til dekning av utgifter til undersøkelse og behandling hos lege i forsøket
-
-Folketrygden yter stønad til dekning av medlemmets utgifter til helsehjelp ved digital helsehjelp hos lege i forsøket.
-
-Honorar for utført helsehjelp hos lege i forsøket skal tilsvare honorar som følger av [kapittel II](forskrift/2025-06-22-1188/kapII).
-
-Bestemmelser om stønad etter honorartakstene i [forskrift 26. juni 2024 nr. 1322 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3](forskrift/2024-06-26-1322/§3) gjelder tilsvarende.
-
 [§ 5](forskrift/2025-06-22-1188/§5) skal lyde:
-
-§ 5. Egenandeler ved helsehjelp hos nettlege i allmennlegetjenesten
-
-Medlemmet betaler egenandeler for digital helsehjelp utført av lege i forsøksordningen etter satser som fremgår av [kapittel II](forskrift/2025-06-22-1188/kapII).
-
-Egenandeler betalt for helsehjelp i forsøket inngår i opptjeningen mot taket for egenandeler etter [folketrygdloven § 5-3](lov/1997-02-28-19/§5-3).
-
-Bestemmelser om fritak fra å betale egenandel etter [forskrift 26. juni 2024 nr. 1322 om stønad til dekning av utgifter til undersøkelse og behandling hos lege § 3](forskrift/2024-06-26-1322/§3) gjelder tilsvarende.
 
 ## IV
 

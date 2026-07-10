@@ -146,7 +146,25 @@ For skip med største lengde 12 meter eller mer gjelder følgende:Styrehuset ska
 
 ### § 20. Navigasjonshjelpemidler
 
-(1) Skip skal ha følgende navigasjonshjelpemidler om bord:*Navigasjonshjelpemidler**Skipets største lengde i meter (m) eller skipets bruttotonnasje**< 12 m**≥ 12 m < 150**≥ 150 < 300**≥ 300*Globalt navigasjonssatellittsystem (GNSS)1111Magnetkompass klasse B11––Magnetkompass klasse A––11Reservemagnetkompass––11Radarreflektor1–––AIS klasse A–111Brovaktalarm–111Kursindikator (THD)–––1Radar, 9 GHz (3 cm)–––1Ekkolodd–––1*Tilleggskrav for skip i utenriksfart*Peileinnretning––11Dagslyssignallampe––11Logg som viser hastighet gjennom vannet–––1
+(1) Skip skal ha følgende navigasjonshjelpemidler om bord:
+
+| *Navigasjonshjelpemidler* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Skipets største lengde i meter (m) eller skipets bruttotonnasje* | *< 12 m* | *≥ 12 m < 150* | *≥ 150 < 300* | *≥ 300* |
+| Globalt navigasjonssatellittsystem (GNSS) | 1 | 1 | 1 | 1 |
+| Magnetkompass klasse B | 1 | 1 | – | – |
+| Magnetkompass klasse A | – | – | 1 | 1 |
+| Reservemagnetkompass | – | – | 1 | 1 |
+| Radarreflektor | 1 | – | – | – |
+| AIS klasse A | – | 1 | 1 | 1 |
+| Brovaktalarm | – | 1 | 1 | 1 |
+| Kursindikator (THD) | – | – | – | 1 |
+| Radar, 9 GHz (3 cm) | – | – | – | 1 |
+| Ekkolodd | – | – | – | 1 |
+| *Tilleggskrav for skip i utenriksfart* |  |  |  |  |
+| Peileinnretning | – | – | 1 | 1 |
+| Dagslyssignallampe | – | – | 1 | 1 |
+| Logg som viser hastighet gjennom vannet | – | – | – | 1 |
 
 (2) Dersom skipet har nødstyreposisjon, skal det være mulighet for kommunikasjon mellom bro og posisjonen for nødstyring.
 
@@ -250,8 +268,18 @@ Skip med største lengde 12 meter eller mer skal kunne gi alarmsignal for å kal
 
 ### § 33. Redningsredskaper
 
-(1) Skip skal minst ha om bord følgende redningsredskaper:*Redningsredskaper**Kapasitet eller antall**Skipets største lengde**< 8 meter**≥ 8 meter < 15 meter**≥ 15 meter*Redningsvester med lysTil alle om bordTil alle om bordTil alle om bordRedningsdrakter, termiske–Til alle om bordTil alle om bordRedningsflåte(r)
-med plass til alle om bord–12Livbøye med redningsline111Livbøye med lys–12Håndbluss333Fallskjermlys–33
+(1) Skip skal minst ha om bord følgende redningsredskaper:
+
+| *Redningsredskaper* | *Kapasitet eller antall* |  |  |
+| --- | --- | --- | --- |
+| *Skipets største lengde* | *< 8 meter* | *≥ 8 meter < 15 meter* | *≥ 15 meter* |
+| Redningsvester med lys | Til alle om bord | Til alle om bord | Til alle om bord |
+| Redningsdrakter, termiske | – | Til alle om bord | Til alle om bord |
+| Redningsflåte(r)<br>med plass til alle om bord | – | 1 | 2 |
+| Livbøye med redningsline | 1 | 1 | 1 |
+| Livbøye med lys | – | 1 | 2 |
+| Håndbluss | 3 | 3 | 3 |
+| Fallskjermlys | – | 3 | 3 |
 
 (2) Skip med største lengde 15 meter eller mer, med unntak av tankskip, kan i fartsområde 2 eller mindre fartsområde føre én redningsflåte dersom denne kan settes ut på begge sider av skipet.
 
@@ -339,7 +367,17 @@ Dette kapittelet gjelder for skip med bruttotonnasje under 300.
 
 ### § 44. Radioutstyr
 
-(1) Skip skal ha følgende radioutstyr om bord:*Radiodekningsområde**A1**A2**A3/A4**Fartsområde**1 og 2**3 og 4**Større fartsområder*VHF-radio med DSC11112VHF-radio, håndholdt11111AIS-SART (skip ≥ 8 meter)–1111EPIRB, friflyt–1111EPIRB, manuell––111MSS-skipsjordstasjon–––12
+(1) Skip skal ha følgende radioutstyr om bord:
+
+| *Radiodekningsområde* | *A1* |  |  | *A2* | *A3/A4* |
+| --- | --- | --- | --- | --- | --- |
+| *Fartsområde* | *1 og 2* | *3 og 4* | *Større fartsområder* |  |  |
+| VHF-radio med DSC | 1 | 1 | 1 | 1 | 2 |
+| VHF-radio, håndholdt | 1 | 1 | 1 | 1 | 1 |
+| AIS-SART (skip ≥ 8 meter) | – | 1 | 1 | 1 | 1 |
+| EPIRB, friflyt | – | 1 | 1 | 1 | 1 |
+| EPIRB, manuell | – | – | 1 | 1 | 1 |
+| MSS-skipsjordstasjon | – | – | – | 1 | 2 |
 
 (2) MSI-meldinger for seilasen skal være oppdaterte og tilgjengelige om bord.
 
@@ -569,9 +607,21 @@ Slepevinsj og ankerhåndteringsvinsj skal dimensjoneres på en slik måte at ing
 
 (3) Det skal være minst tre omdreininger med line på trommelen for å opprettholde tilstrekkelig friksjonskraft. Dersom linen består av fibertau eller lignende, skal antall omdreininger økes på trommelen slik at tilstrekkelig friksjonskraft opprettholdes. Innfestningen av lineenden til vinsjtrommelen skal være dimensjonert til å være det svake leddet og skal være maksimalt 0,15 x MBS.
 
-(4) For slepevinsjer skal forholdet mellom MBS og BP minst være slik:BP < 300 kNMBS = 3,5 BP300 kN < BP < 800 kNMBS = 2,75 BPBP > 800 kNMBS = 2,25 BP
+(4) For slepevinsjer skal forholdet mellom MBS og BP minst være slik:
 
-(5) For ankerhåndteringsvinsjer skal forholdet mellom MBS og WLL minst være slik:WLL < 200 kNMBS = 2,5 WLLWLL > 1000 kNMBS = 2 WLLLineær interpolering for 200 kN < WLL < 1000 kN
+|  |  |
+| --- | --- |
+| BP < 300 kN | MBS = 3,5 BP |
+| 300 kN < BP < 800 kN | MBS = 2,75 BP |
+| BP > 800 kN | MBS = 2,25 BP |
+
+(5) For ankerhåndteringsvinsjer skal forholdet mellom MBS og WLL minst være slik:
+
+|  |  |
+| --- | --- |
+| WLL < 200 kN | MBS = 2,5 WLL |
+| WLL > 1000 kN | MBS = 2 WLL |
+| Lineær interpolering for 200 kN < WLL < 1000 kN |  |
 
 (6) Dersom stålvaier brukes, skal trommelkjernen ha en diameter som er minimum 14 x designlinens diameter.
 
@@ -835,7 +885,7 @@ Paragrafene 104 til 107 gjelder ikke for skip som er bygd etter et anerkjent kla
 
 (1) Skip skal ha lenseporter dersom det kan bli oppsamling av vann på dekk mellom skansekledningen, endeskott av lukkede overbygninger, dekkshus og lignende.
 
-(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\lgroup m^{2}\rgroup = 0,02 \lgroup \frac{1}{m}\rgroup \cdot V\lgroup m^{3}\rgroup$$V = Volumet i m3 skal regnes ut som det totale arealet av områder hvor det kan bli oppsamling av vann på dekk opp til topp av skansekledning. Volum knyttet til luker, dekkshus osv. skal trekkes fra.
+(2) Lenseportarealet (A) på hver side av skipet, målt i kvadratmeter, skal beregnes og minst oppfylle følgende: $$A\\lgroup m^{2}\\rgroup = 0,02 \\lgroup \\frac{1}{m}\\rgroup \\cdot V\\lgroup m^{3}\\rgroup$$V = Volumet i m3 skal regnes ut som det totale arealet av områder hvor det kan bli oppsamling av vann på dekk opp til topp av skansekledning. Volum knyttet til luker, dekkshus osv. skal trekkes fra.
 
 (3) Lenseportarealet kan reduseres med opptil 1/3 på den ene siden når det økes tilsvarende på motsatt side.
 
@@ -1005,7 +1055,21 @@ I innredning og arbeidsrom kan innvendig kledning, himling og tilhørende festep
 
 (2) I maskinrom kategori A på skip bygget i kompositt eller aluminium skal skipssider brannisoleres, med brannklasse A-15 eller FRD 30, til 300 mm under minste dypgang.
 
-(3) Når det er tvil om hvilken kategori et rom tilhører, eller når et rom kan tilhøre to eller flere ulike kategorier, gjelder den kategorien som gir strengest skille.Romkategori(1)(2)(3)(4)(5)(6)(7)(8)Kontroll­stasjoner(1)*B-15bB-15A-15B-15A-15A-15*Innredning(2)*B-15A-15B-15B-15A-0*Arbeidsrom(3)B-15aA-15B-15B-15A-0*Maskinrom kategori A(4)*A-15A-0cA-0*Bysse(5)*B-15A-0*Lasterom(6)B-15A-0*Annet maskinrom(7)**Åpent dekk(8)–
+(3) Når det er tvil om hvilken kategori et rom tilhører, eller når et rom kan tilhøre to eller flere ulike kategorier, gjelder den kategorien som gir strengest skille.
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Romkategori |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+| Kontroll­stasjoner | (1) | \* | B-15b | B-15 | A-15 | B-15 | A-15 | A-15 | \* |
+| Innredning | (2) |  | \* | B-15 | A-15 | B-15 | B-15 | A-0 | \* |
+| Arbeidsrom | (3) |  |  | B-15a | A-15 | B-15 | B-15 | A-0 | \* |
+| Maskinrom kategori A | (4) |  |  |  | \* | A-15 | A-0c | A-0 | \* |
+| Bysse | (5) |  |  |  |  | \* | B-15 | A-0 | \* |
+| Lasterom | (6) |  |  |  |  |  | B-15 | A-0 | \* |
+| Annet maskinrom | (7) |  |  |  |  |  |  | \* | \* |
+| Åpent dekk | (8) |  |  |  |  |  |  |  | – |
+
+a Det kreves skott eller dekk med verdi som vist i tabellene bare når de tilstøtende rommene er beregnet på andre formål. Hvis rommene brukes til samme formål, skal skillet være av ubrennbart materiale.b På skip under 15 meter kan oppholdsrom, messe, kontor og toaletter arrangeres i sammenheng med styrehus uten krav til brannsikkert skille.c Gjelder kun dersom det ikke føres farlig last som reguleres i annen forskrift.\* Skillet skal være av ubrennbart materiale.
 
 (4) I tabellen i tredje ledd gjelder følgende definisjoner:*Kontrollstasjoner (1):* Bro, kontrollrom for fremdriftsmaskineri når dette ligger utenfor maskinrom kategori A, og rom som inneholder kilder for nødstrøm, radioutstyr, slokkemiddel for gassbasert slokkesystem og brannalarmsentraler.*Innredning (2):* Rom som brukes til oppholdsrom, korridorer, trapperom, toaletter og bad, garderober, lugarer, kontorer, sykestuer, fritidsrom og pantry uten kokemuligheter.*Arbeidsrom (3):* Malingsskap og lagerrom, rom for lagring av brennbare væsker, badstue, vaskerom og verksteder som ikke er del av maskinrom kategori A.*Maskinrom kategori A (4):* Rom som inneholder forbrenningsmaskineri brukt til fremdrift, forbrenningsmaskineri med total effekt på 375 kW eller mer, og rom med oljefyrte kjeler eller annet oljefyrt utstyr, slik som gassgeneratorer, forbrenningsovner og lignende.*Bysse (5):* Rom, med unntak av pantry, som inneholder elektriske kokeplater, komfyr, frityrkoker, gasskomfyr, gassfyrte apparater uten åpen flamme og lignende kjøkkenutstyr. Med «pantry» menes område i forbindelse med styrehus eller messe som inneholder elektriske kokeplater eller annet kjøkkenutstyr med samlet total effekt til og med 5 kW.*Lasterom (6):* Alle rom som brukes til oppbevaring av last, inkludert tanker for frakt av olje, og trunker og lukekarmer til slike rom.*Annet maskinrom (7):* Ventilasjonsrom, tavlerom, teknisk rom og rom med elektrisk utstyr og maskineri annet enn det nevnt i bokstav a og d.*Åpent dekk (8):* Åpne områder på dekk og lukkede promenader med liten eller ingen brannfare. For å komme i denne kategorien skal lukkede promenader ikke ha noen vesentlig brannfare, det vil si at inventar skal begrenses til dekksmøbler. I tillegg skal slike rom være naturlig ventilert med faste åpninger. Luftrom, det vil si rommet utenfor overbygninger og dekkshus, regnes også som åpent dekk.
 
@@ -1141,7 +1205,7 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 ### § 135. Brannpumpekapasitet
 
-(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \lgroup 0,15\sqrt{L_{pp}\lgroup B + D\rgroup} + 2,25\rgroup^{2}\:[m^{3}/t]$$hvor følgende er angitt i meter:Lpp = skipets lengde mellom perpendikulæreneB = skipets største bredde på spantD = skipets største dybde i riss til skottdekket midtskipsBrannpumpekapasiteten (Q) skal uansett være minst 16 m3/t.
+(1) Minste totale brannpumpekapasitet (Q) skal beregnes etter denne formelen: $$Q = \\lgroup 0,15\\sqrt{L_{pp}\\lgroup B + D\\rgroup} + 2,25\\rgroup^{2}\\:[m^{3}/t]$$hvor følgende er angitt i meter:Lpp = skipets lengde mellom perpendikulæreneB = skipets største bredde på spantD = skipets største dybde i riss til skottdekket midtskipsBrannpumpekapasiteten (Q) skal uansett være minst 16 m3/t.
 
 (2) Når brannpumpen leverer vannmengden angitt i første ledd, skal trykket være minst 2,5 bar ved hydranten eller hydrantene.
 
@@ -1169,13 +1233,32 @@ Skip bygget i kompositt eller aluminium kan som alternativ til [§ 119](forskrif
 
 ### § 139. Bærbare brannslokkingsapparater
 
-(1) Slokkemiddelet skal være egnet til å slokke den type brann som kan oppstå, i henhold til tabellen under.*Slokkemiddel**Egnet for bruk på brann i:*VannTreverk, papir, tekstiler og liknende materialerSkumTreverk, papir, tekstiler og brennbare væskerPulver (brannklasse B, C)Brennbare væsker, elektrisk utstyr og brennbare gasserPulver (brannklasse A, B, C)Treverk, papir, tekstiler, brennbare væsker, elektrisk utstyr og brennbare gasserPulver (metall)Brennbare metallerCO2Brennbare væsker og elektrisk utstyrVåtkjemisk (wet chemical)Stekeoljer, fett eller oljebranner
+(1) Slokkemiddelet skal være egnet til å slokke den type brann som kan oppstå, i henhold til tabellen under.
+
+| *Slokkemiddel* | *Egnet for bruk på brann i:* |
+| --- | --- |
+| Vann | Treverk, papir, tekstiler og liknende materialer |
+| Skum | Treverk, papir, tekstiler og brennbare væsker |
+| Pulver (brannklasse B, C) | Brennbare væsker, elektrisk utstyr og brennbare gasser |
+| Pulver (brannklasse A, B, C) | Treverk, papir, tekstiler, brennbare væsker, elektrisk utstyr og brennbare gasser |
+| Pulver (metall) | Brennbare metaller |
+| CO2 | Brennbare væsker og elektrisk utstyr |
+| Våtkjemisk (wet chemical) | Stekeoljer, fett eller oljebranner |
 
 (2) Mengde slokkemiddel i brannslokkingsapparater skal minst være slik:pulverapparater: 5 kgCO2-apparater: 5 kgskumapparater: 9 l.
 
 (3) Brannslokkingsapparater som veier mer enn 23 kg, anses ikke som bærbare.
 
-(4) Antall egnede brannslokkingsapparater i ulike rom skal minst være slik som i tabellen under:*Type rom**Minste antall brannslokkingsapparater*InnredningEtt apparat per dekk, plassert lett tilgjengelig fra alle rom. Gangavstanden mellom apparatene skal være maksimalt 15 meter.Bysse og pantryEtt apparat. Et ekstra apparat dersom det er installert frityrkoker i bysse.Maskinrom kategori ATo apparater. Plasseringen skal være slik at det ikke er mer enn 10 meter gangavstand fra ett apparat til noe sted i maskinrommet. Ett av apparatene skal plasseres nær inngangen.Arbeidsrom / annet maskinromEtt apparatRom for elektrisk hovedtavleEtt apparatStyrehus/broEtt apparat. To apparater dersom styrehuset er større enn 50 m2.
+(4) Antall egnede brannslokkingsapparater i ulike rom skal minst være slik som i tabellen under:
+
+| *Type rom* | *Minste antall brannslokkingsapparater* |
+| --- | --- |
+| Innredning | Ett apparat per dekk, plassert lett tilgjengelig fra alle rom. Gangavstanden mellom apparatene skal være maksimalt 15 meter. |
+| Bysse og pantry | Ett apparat. Et ekstra apparat dersom det er installert frityrkoker i bysse. |
+| Maskinrom kategori A | To apparater. Plasseringen skal være slik at det ikke er mer enn 10 meter gangavstand fra ett apparat til noe sted i maskinrommet. Ett av apparatene skal plasseres nær inngangen. |
+| Arbeidsrom / annet maskinrom | Ett apparat |
+| Rom for elektrisk hovedtavle | Ett apparat |
+| Styrehus/bro | Ett apparat. To apparater dersom styrehuset er større enn 50 m2. |
 
 (5) Et brannslokkingsapparat kan plasseres ved inngangen, enten innenfor eller utenfor det aktuelle rommet. Slokkingsapparater kan arrangeres slik at ett apparat dekker flere rom.
 
@@ -1310,3 +1393,5 @@ Forskriften trer i kraft 1. januar 2026. Fra samme tid oppheves [forskrift 19. d
 ### § 158. Endringer i andre forskrifter
 
 Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskrifter:1 – – –
+
+1 Se opprinnelig kunngjort versjon i Norsk Lovtidend.

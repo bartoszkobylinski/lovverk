@@ -26,7 +26,13 @@ eu_basis: []
 
 I [forskrift 24. mai 2017 nr. 2480](forskrift/2017-05-24-2480) om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten gjøres følgende endringer:
 
+1\. Oslo politidistrikt
+
+1 a) første ledd, første setning, skal lyde:
+
 Oslo sentrum politistasjonsdistrikt med tjenestestedet Oslo sentrum politistasjon.
+
+1 b) første ledd, første setning, skal lyde:
 
 Oslo øst politistasjonsdistrikt med tjenestestedet Oslo øst politistasjon.
 

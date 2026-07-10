@@ -54,7 +54,16 @@ Tollmyndighetene påser at vilkårene i annet ledd og tredje ledd bokstav a–c 
 
 Med mindre annet følger av fjerde ledd, er nedsettelse av tollavgiftssatser ved utenlands bearbeiding av kjøtt, kjøttvarer og meierivarer betinget av at virksomheten har fått tildelt kvoteandel ved auksjon.
 
-Kvotene for innførsel fordeles ved auksjon, og beregnes ved å multiplisere følgende årlige kvoter med antall år i en kvoteperiode:*Varegruppe**Klassifisering i tolltariffen**Årlig kvote*KjøttKapittel 21080 tonnMeierivarerKapittel 4 (unntatt varenummer 04.03.1020, 04.03.1030, 04.03.1091, 04.03.9001, 04.03.9002, posisjon 04.07 til 04.10)3120 tonnKjøttvarerPosisjon 16.01 og 16.025520 tonnReinsdyrkjøttVarenummer 02.08.9010, 02.08.9021 og ex.02.08.9029 (spiselig slakteavfall)200 tonnKvoteperioden fastsettes av Landbruksdirektoratet for inntil 3 år.
+Kvotene for innførsel fordeles ved auksjon, og beregnes ved å multiplisere følgende årlige kvoter med antall år i en kvoteperiode:
+
+| *Varegruppe* | *Klassifisering i tolltariffen* | *Årlig kvote* |
+| --- | --- | --- |
+| Kjøtt | Kapittel 2 | 1080 tonn |
+| Meierivarer | Kapittel 4 (unntatt varenummer 04.03.1020, 04.03.1030, 04.03.1091, 04.03.9001, 04.03.9002, posisjon 04.07 til 04.10) | 3120 tonn |
+| Kjøttvarer | Posisjon 16.01 og 16.02 | 5520 tonn |
+| Reinsdyrkjøtt | Varenummer 02.08.9010, 02.08.9021 og ex.02.08.9029 (spiselig slakteavfall) | 200 tonn |
+
+Kvoteperioden fastsettes av Landbruksdirektoratet for inntil 3 år.
 
 Hver enkelt budgiver kan maksimalt få tildelt 75 % av en kvote ved første gangs auksjon. Dersom hele eller deler av en kvote ikke fordeles ved denne auksjonen, kan Landbruksdirektoratet fordele restkvantum ved å avholde tilleggsauksjon. Ved gjennomføring av auksjonene, gjelder bestemmelsene i [forskrift om fordeling av tollkvoter for landbruksvarer](forskrift/2008-10-10-1132) (tollkvoteforskriften), så langt disse passer.
 

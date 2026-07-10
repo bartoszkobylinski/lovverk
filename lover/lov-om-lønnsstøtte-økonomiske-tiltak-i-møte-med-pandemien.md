@@ -177,3 +177,5 @@ Utbetales støtte senere enn den frist som er fastsatt i [§ 18](lov/2022-01-28-
 (1) Loven trer i kraft fra den tid Kongen bestemmer1.
 
 (2) Departementet kan gi forskrift om overgangsbestemmelser.
+
+1 Fra 4 februar 2022 iflg. [res. 4 feb 2022 nr. 166](forskrift/2022-02-04-166).

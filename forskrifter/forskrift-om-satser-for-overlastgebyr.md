@@ -24,15 +24,33 @@ eu_basis: []
 
 ## § 1. Satser for aksel-/boggi-/trippelboggilast
 
+|  |  |
+| --- | --- |
+| Av de første 2000 kg | betales kr 500,– pr. 100 kg |
+| Av de neste 2000 kg | betales kr 750,– pr. 100 kg |
+| Av de neste 2000 kg | betales kr 1100,– pr. 100 kg |
+| Av de neste 2000 kg | betales kr 1250,– pr. 100 kg |
+| og av det overskytende | betales kr 1500,– pr. 100 kg |
+
 Når gebyrpliktig overlast er konstatert ved veiing, betales i tillegg et gebyr på kr 2200,–.
 
 > Endret ved [forskrifter 26 aug 2016 nr. 1001](forskrift/2016-08-26-1001) (i kraft 1 sep 2016), [24 jan 2024 nr. 130](forskrift/2024-01-24-130) (i kraft 1 mars 2024).
 
 ## § 2. Satser for totalvekt
 
-For kjøretøy betales følgende satser:Av de første 5000 kgbetales kr 500,– pr. 100 kgog av det overskytendebetales kr 750,– pr. 100 kg
+For kjøretøy betales følgende satser:
 
-For vogntog betales følgende satser:Av de første 10 000 kgbetales kr 500,– pr. 100 kgog av det overskytendebetales kr 750,– pr. 100 kg
+|  |  |
+| --- | --- |
+| Av de første 5000 kg | betales kr 500,– pr. 100 kg |
+| og av det overskytende | betales kr 750,– pr. 100 kg |
+
+For vogntog betales følgende satser:
+
+|  |  |
+| --- | --- |
+| Av de første 10 000 kg | betales kr 500,– pr. 100 kg |
+| og av det overskytende | betales kr 750,– pr. 100 kg |
 
 Når gebyrpliktig overlast er konstatert ved veiing, betales i tillegg et gebyr på kr 2200,–.
 

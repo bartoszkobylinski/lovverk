@@ -94,29 +94,55 @@ Studentene skal ha minst 20 prosent av medlemmene i alle kollegiale organ som ti
 
 ### § 1-11. Definisjoner
 
+*Student*
+
 Person som er tatt opp til studier ved NSKI Høyskole, som har en bindende, og ikke avsluttet studiekontrakt ved et studieprogram, og som har betalt forfalt studieavgift.
+
+*Studierett*
 
 Studenters rettigheter og plikter knyttet til å være tatt opp til et studieprogram.
 
+*Studieprogram*
+
 En studieenhet som består av en samling fag og emnegrupper med totalt læringsutbytte som fører frem til en avsluttende vurdering og/eller en grad. Et studieprogram kjennetegnes ved at det ikke er nødvendig å søke nytt opptak for å ta nye fag innenfor studieprogrammet (jf. DBHs definisjon). Et studieprogram må bestå av minst to fag.
+
+*Studieplan*
 
 En beskrivelse av fag og studieprogram som gjør rede for hvordan det enkelte studie er bygd opp, og uttrykt gjennom kravene i nasjonalt kvalifikasjonsrammeverk. Studieplanen skal inneholde bestemmelser vedrørende omfang, studiepoeng, læringsmål- og utbytte, faglig innhold og vurderingsordning.
 
+*Fag*
+
 Den minste enheten som inngår i en emnegruppe. Alle fag skal ha et omfang målt i studiepoeng og forventet arbeidsomfang.
+
+*Emnegruppe*
 
 Samling av fag som er beslektet. Disse fremgår av studieplanen.
 
+*Studiepoeng*
+
 Mål på studieomfang, der 60 studiepoeng tilsvarer ett års fulltidsstudium.
+
+*Pensum*
 
 Litteratur eller for eksempel nettsteder, filmer, notesamlinger, forestillinger, forelesninger eller liknende som studentene benytter i læringssituasjonen.
 
+*Eksamen/vurdering*
+
 Formell prøving av studentenes kunnskaper, ferdigheter og generelle kompetanse, underveis og/eller ved slutten av studiet i et fag eller emnegruppe. Som eksamen regnes kun avsluttende eksamen i tredje studieår, der resultatet skal inngå i vitnemålet.
+
+*Ordinær eksamen*
 
 Ordinær eksamen er første gang en student går opp til eksamen.
 
+*Utsatt eksamen*
+
 Utsatt eksamen er den prøve eller vurdering som arrangeres for studenter som på grunn av sykdom eller annen gyldig grunn ikke har kunnet gjennomføre ordinær eksamen.
 
+*Ny eksamen (kontinuasjonseksamen)*
+
 Ny eksamen er den prøve eller vurdering som arrangeres for studenter som ikke har bestått eller ikke har møtt til/levert ordinær eksamen.
+
+*Grad*
 
 Utdanning av et bestemt omfang og sammensetning, og som gir rett til å bruke en bestemt tittel. Tittelen dokumenteres i et vitnemål.
 
@@ -378,10 +404,18 @@ NSKI Høyskole kan tildele bachelorgrader i samsvar med [forskrift 16. desember 
 
 (2) I enkelte fag og emnegrupper hvor annen karakterfastsetting er vanskelig eller uhensiktsmessig benyttes karakterbetegnelsene «bestått» og «ikke bestått». Dette er fastsatt i studieplan.
 
-(3) Karaktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse:*Karakter**Betegnelse**Beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon. Studenten viser selvstendighet og utmerker seg spesielt. Svært høy måloppnåelse i faget.BMeget godMeget god prestasjon. Høy måloppnåelse i faget, men noe mindre selvstendighet enn A. Viser meget god vurderingsevne og selvstendighet.CGodGod prestasjon. Viser god kompetanse i forhold til de læringsmål som er satt i fagnivået. Viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godAngir middels eller litt over middels måloppnåelse i faget. Karakterene beskriver at læringen har medført en forståelse i faget, og en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligAngir under middels måloppnåelse i faget. Disse karakterene beskriver en reproduktiv læring i faget.
-Mangelfull og usikker måloppnåelse.FIkke beståttSvært svak, eventuelt ingen måloppnåelse i faget.
-Viser både manglende vurderingsevne og selvstendighet.Bestått/ikke beståttI enkelte fag gis kun karakteren bestått/ikke bestått.
-Bestått brukes i tillegg der studenten har for høyt legitimert fravær til å motta gradert karakter i faget.Ikke vurdertStudenten er ikke vurdert i faget grunnet ulegitimert fravær som overskrider 20 %, eller har ikke gjennomført eksamen/andre vurderinger som ligger til grunn for vurderingskriteriene iht. studieplan for utdanningen.
+(3) Karaktertrinnene gis følgende betegnelse og generell, kvalitativ beskrivelse:
+
+| *Karakter* | *Betegnelse* | *Beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon. Studenten viser selvstendighet og utmerker seg spesielt. Svært høy måloppnåelse i faget. |
+| B | Meget god | Meget god prestasjon. Høy måloppnåelse i faget, men noe mindre selvstendighet enn A. Viser meget god vurderingsevne og selvstendighet. |
+| C | God | God prestasjon. Viser god kompetanse i forhold til de læringsmål som er satt i fagnivået. Viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | Angir middels eller litt over middels måloppnåelse i faget. Karakterene beskriver at læringen har medført en forståelse i faget, og en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Angir under middels måloppnåelse i faget. Disse karakterene beskriver en reproduktiv læring i faget.<br>Mangelfull og usikker måloppnåelse. |
+| F | Ikke bestått | Svært svak, eventuelt ingen måloppnåelse i faget.<br>Viser både manglende vurderingsevne og selvstendighet. |
+| Bestått/ikke bestått |  | I enkelte fag gis kun karakteren bestått/ikke bestått.<br>Bestått brukes i tillegg der studenten har for høyt legitimert fravær til å motta gradert karakter i faget. |
+| Ikke vurdert |  | Studenten er ikke vurdert i faget grunnet ulegitimert fravær som overskrider 20 %, eller har ikke gjennomført eksamen/andre vurderinger som ligger til grunn for vurderingskriteriene iht. studieplan for utdanningen. |
 
 ### § 8-2. Sensur
 

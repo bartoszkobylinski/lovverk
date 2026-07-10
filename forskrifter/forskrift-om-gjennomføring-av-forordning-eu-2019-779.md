@@ -38,6 +38,12 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar fo
 
 Fra samme tidspunkt oppheves [forskrift 8. mai 2012 nr. 409 om vedlikehold av godsvogner på det nasjonale jernbanenettet](forskrift/2012-05-08-409).
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 771](forskrift/2022-05-06-771).
+
 ## Forordninger
 
 Forordningene er gyldige på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning (EU) 2019/779 se her: [(pdf)](static/SF/32019r0779e-01.pdf)
+
+For å lese engelsk versjon av forordning (EU) 2020/780 ser her: [(pdf)](static/SF/32020r0780e-01.pdf)

@@ -102,7 +102,11 @@ Etter avtaleperiodens utløp opphører partenes rettigheter og plikter i henhold
 
 ### § 5-6. Avslutning før avtalt tid
 
+*Frivillig avslutning*
+
 Kandidaten og fakultetet kan avtale at ph.d.-utdanningen avsluttes før avtalt tid. Ved slik avslutning av ph.d.-utdanningen skal det fastsettes skriftlig hvordan spørsmål knyttet til eventuelle tilsettingsforhold, finansiering, rettigheter til resultater med videre skal ordnes. Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt eller overgang til annet program, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.
+
+*Tvungen avslutning*
 
 Rektor kan vedta tvungen avslutning av ph.d.-utdanningen når en kandidat i vesentlig grad ikke oppfyller sine forpliktelser etter doktorgradsavtalen, jf. universitets- og [høyskoleloven § 4-13](lov/2005-04-01-15/§4-13) (2). Når ett eller flere av de følgende vilkår er oppfylt, kan rektor etter innstilling fra dekan ved vertsfakultetet vedta tvungen avslutning av ph.d.-utdanningen:vesentlig forsinkelse i gjennomføringen av opplæringsdelengjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av framdriftsrapport, jf. [§ 9](forskrift/2017-12-19-2396/§9)forsinkelse i framdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid.
 
@@ -334,11 +338,15 @@ Ph.d.-kandidaten kan etter innlevering søke om tillatelse til å rette formelle
 
 Ph.d.-utvalget fatter på grunnlag av bedømmelseskomiteens innstilling, vedtak om ph.d.-avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og ph.d.-utvalget finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter ph.d.-utvalget vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom ph.d.-utvalget finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal ph.d.-utvalget selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader.
 
 Ph.d.-utvalget fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir delt innstilling og ph.d.-utvalget finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter ph.d.-utvalget vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og ph.d.-utvalget vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan ph.d.-utvalget søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges.
 

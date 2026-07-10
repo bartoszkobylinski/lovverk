@@ -80,6 +80,8 @@ Avslag på søknad om tillatelse til bruk av luftbårne sensorsystemer kan påkl
 
 Denne paragrafen gjelder ikke politiet i den utstrekning politiets bruk av luftbårne sensorsystemer er nødvendig for å ivareta oppgaver etter [politiloven § 7](lov/1995-08-04-53/§7) første ledd.
 
+1 [Lov om behandlingsmåten i forvaltningssaker § 1](lov/1967-02-10/§1).
+
 ## § 7. Vilkår for tillatelse til bruk av luftbårne sensorsystemer
 
 Nasjonal sikkerhetsmyndighet kan sette vilkår for en tillatelse etter [§ 6](forskrift/2018-06-22-951/§6). Det kan blant annet settes vilkår omtillatelsens varighethvilke luftbårne sensorsystemer som kan brukeshvilken oppløsningsgrad og detaljeringsnivå informasjonen kan habehandling og videre distribusjon av innhentet informasjonnasjonal kontroll over innhentet informasjonmuligheten til å føre innhentet informasjon ut av Norgeplikt til rapportering til Nasjonal sikkerhetsmyndighet.Ved brudd på fastsatte vilkår, kan Nasjonal sikkerhetsmyndighet trekke tillatelsen tilbake. Vilkår i en tillatelse kan påklages til Forsvarsdepartementet.

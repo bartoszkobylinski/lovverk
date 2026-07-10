@@ -1600,6 +1600,8 @@ Den som formidler kausjon som ledd i næringsvirksomhet mellom en kausjonist som
 
 (2) Forskrifter gitt i medhold av [lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag](lov/1999-06-25-46) og [lov 20. juni 2014 nr. 27 om opplysningsplikt og angrerett ved fjernsalg og salg utenom faste forretningslokaler](lov/2014-06-20-27) gjelder også etter at loven her har trådt i kraft.
 
+1 Fra 1 jan 2023 med unntak av [§ 8-3](lov/2020-12-18-146/§8-3) nr. 9, iflg. [res. 2 sep 2022 nr. 1528](forskrift/2022-09-02-1528).
+
 ### § 8-2. Overgangsregler
 
 (1) Loven gjelder for avtaler som er inngått før loven er trådt i kraft, med de særregler som er fastsatt i annet ledd eller forskrift gitt i medhold av tredje ledd. Lovens regler om avtaleinngåelse og plikter i forbindelse med avtaleinngåelsen, herunder regler om opplysningsplikt forut for avtaleinngåelsen og regler om angrerett og betenkningstid, gjelder når avtalen inngås etter at loven er trådt i kraft.
@@ -1611,5 +1613,13 @@ Den som formidler kausjon som ledd i næringsvirksomhet mellom en kausjonist som
 ### § 8-3. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+**1.** [Lov 22. mai 1902 nr. 11 om den almindelige borgerlige Straffelovs Ikrafttræden](lov/1902-05-22-11) oppheves.
+
+– – –
+
+**5.** [Lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag](lov/1999-06-25-46) oppheves.
+
+– – –
 
 > Endret ved lov [16 juni 2023 nr. 59](lov/2023-06-16-59) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 934](forskrift/2023-06-16-934)).

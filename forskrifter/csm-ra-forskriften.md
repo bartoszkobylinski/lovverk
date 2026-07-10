@@ -40,8 +40,16 @@ Forskriften trer i kraft 21. mai 2015. Fra samme tidspunkt oppheves [forskrift 1
 
 Rettsakten er gyldig på alle offisielle språk i EU. Vi legger ved den engelske teksten. Den uoffisielle norske oversettelsen legges kun ved av informasjonshensyn i påvente av den offisielle norske oversettelsen.
 
+For å lese engelsk versjon av forordning [(EU) nr. 402/2013](eu/32013r0402) se her: [(pdf)](static/SF/32013r0402e.pdf)
+
+For å lese uoffisiell norsk oversettelse av forordning [(EU) nr. 402/2013](eu/32013r0402) se her: [(pdf)](static/SF/32013r0402u.pdf)
+
 > Endret 29 jan 2015 uten kunngjøring i Norsk Lovtidend.
 
 ## Gjennomføringsforordning (EU) 2015/1136 Felles sikkerhetsmetode for risikoevalueringer (CSM RA)
+
+For å lese engelsk versjon av forordning [(EU) 2015/1136](eu/32015r1136) se her: [(pdf)](static/SF/32015r1136e.pdf)
+
+For å lese uoffisiell norsk oversettelse av forordning [(EU) 2015/1136](eu/32015r1136) se her: [(pdf)](static/SF/32015r1136u.pdf)
 
 > Tilføyd ved [forskrift 9 feb 2016 nr. 132](forskrift/2016-02-09-132).

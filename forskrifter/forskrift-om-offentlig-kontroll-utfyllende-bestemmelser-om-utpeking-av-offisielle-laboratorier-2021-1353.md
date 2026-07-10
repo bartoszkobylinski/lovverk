@@ -32,7 +32,7 @@ Ved konflikt mellom forordningens bestemmelser og denne bestemmelse, går alltid
 
 ## § 2. Gjennomføringen av reglene om unntak for akkreditering
 
-[EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)[kap. I](avtale/avt-1992-05-02-1-v1) del 1.1 nr. 11bza, vedlegg II kap. XII nr. 164z forordning [(EU) 2021/1353](eu/32021r1353) av 17. mai 2021 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller og vilkår for når kompetente myndigheter kan utpeke offisielle laboratorier som ikke oppfyller vilkårene i forhold til alle metodene de bruker for offentlig kontroll eller annen offentlig virksomhet, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) [kap. I](avtale/avt-1992-05-02-1-v1) del 1.1 nr. 11bza, vedlegg II kap. XII nr. 164z forordning [(EU) 2021/1353](eu/32021r1353) av 17. mai 2021 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller og vilkår for når kompetente myndigheter kan utpeke offisielle laboratorier som ikke oppfyller vilkårene i forhold til alle metodene de bruker for offentlig kontroll eller annen offentlig virksomhet, gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel I, protokoll 1 til avtalen og avtalen for øvrig.
 
 ## § 3. Dispensasjon
 
@@ -49,6 +49,14 @@ Denne forskrift trer i kraft straks.
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2021/1353](eu/32021r1353) av 17. mai 2021
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan utpeke offisielle laboratorier som ikke oppfyller vilkårene med hensyn til alle metodene de bruker ved offentlig kontroll eller annen offentlig virksomhet
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 41, og
+
+ut fra følgende betraktninger:
+
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter at laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med prøver tatt ved offentlig kontroll samt annen offentlig virksomhet skal utføres av offisielle laboratorier som er utpekt av vedkommende myndigheter i medlemsstatene.
 2. I samsvar med artikkel 37 nr. 4 bokstav e) i forordning (EU) 2017/625 skal offisielle laboratorier blant annet oppfylle visse akkrediteringskriterier basert på internasjonale standarder. I henhold til artikkel 37 nr. 5 skal denne akkrediteringen omfatte de metodene for laboratorieanalyser, -undersøkelser eller -diagnostisering som laboratoriene skal bruke i sin virksomhet som offisielt laboratorium.
 3. Formålet med forpliktelsen til å ha akkrediterte laboratorier og metoder er å sikre at offisielle laboratorier har kompetanse til å produsere pålitelige og reproduserbare resultater som grunnlag for harmonisert offentlig kontroll og annen offentlig virksomhet i Unionen.
@@ -58,6 +66,10 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 7. Vedkommende myndigheter bør derfor kunne utpeke som offisielle laboratorier de laboratoriene som ikke er akkreditert for alle de metodene de bruker til offentlig kontroll og annen offentlig virksomhet, forutsatt at disse laboratoriene har innført en kvalitetssikringsordning og benytter metoder som er kjennetegnet ved de relevante kriteriene fastsatt i vedlegg III til forordning (EU) 2017/625 samt av reglene for anvendelsen av disse kriteriene.
 8. Når det gjelder plantehelse, bør vedkommende myndigheter kunne utpeke som offisielle laboratorier de laboratoriene som ønsker å bruke en metode som de ikke er akkreditert for, og som allerede er akkreditert for minst én metode for bruk på en skadegjører fra samme organismegruppe, det vil si rundmark, bakterier, sopp og oomyceter, virus, viroider og fytoplasmaer, insekter og midd, som skadegjøreren som den ikke-akkrediterte metoden brukes på.
 9. I samsvar med artikkel 167 nr. 2 i forordning (EU) 2017/625 får artikkel 37 nr. 4 bokstav e) og artikkel 37 nr. 5 i den nevnte forordningen anvendelse fra 29. april 2022 på området plantehelse. Når det gjelder utpeking av offisielle laboratorier på området plantehelse, bør denne forordningen derfor også få anvendelse fra 29. april 2022.
+
+1 EUT L 95 av 7.4.2017, s. 1.
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål
 
@@ -77,9 +89,15 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Artikkel 3 får anvendelse fra 29. april 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. mai 2021.
 
-Utferdiget i Brussel 17. mai 2021.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG
 KATEGORIER AV METODER SOM BRUKES TIL ANALYSER, UNDERSØKELSER OG DIAGNOSTISERING PÅ OMRÅDET PLANTEHELSE

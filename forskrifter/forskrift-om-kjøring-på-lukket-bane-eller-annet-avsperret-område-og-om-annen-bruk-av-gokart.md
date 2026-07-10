@@ -115,3 +115,11 @@ For slik bruk av go-kart gjøres det unntak fra:tekniske krav og krav om godkjen
 Denne forskrift trer i kraft 18. juni 2021. Fra samme tidspunkt oppheves [forskrift 15. januar 2001 nr. 26 om motorsport på lukket bane eller annet avsperret område og om annen bruk av go-kart](forskrift/2001-01-15-26).
 
 Med virkning fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter:
+
+1\. [Forskrift 5. juli 2012 nr. 817 om godkjenning av bil og tilhenger til bil](forskrift/2012-07-05-817): – – –
+
+2\. [Forskrift 1. juni 2016 nr. 560 om godkjenning av moped og motorsykkel (motorsykkelforskriften)](forskrift/2016-06-01-560): – – –
+
+3\. [Forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy](forskrift/1990-01-25-92): – – –
+
+4\. [Forskrift 4 oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften)](forskrift/1994-10-04-918): – – –

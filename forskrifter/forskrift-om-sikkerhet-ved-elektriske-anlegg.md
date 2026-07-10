@@ -46,31 +46,72 @@ Tilsynsmyndigheten kan gi dispensasjon fra denne forskriften dersom særlige for
 
 ### § 5. Definisjoner
 
+*Arbeidsjording*
+
 Fullt dimensjonert jording og kortslutning av anleggsdeler på det stedet hvor arbeid pågår.
+
+*Avskjerming*
 
 Del som gir beskyttelse mot direkte berøring fra enhver vanlig adkomstretning.
 
+*Avsperring*
+
 Markering som angir sikkerhetsavstanden eller andre grenser som ikke skal overskrides.
+
+*Endepunktsjording*
 
 Fullt dimensjonert jording og kortslutning ved alle frakoblingssteder hvorfra anlegg kan settes under spenning.
 
+*Frakobling*
+
 En sikkerhetsfunksjon som innebærer å bryte tilførselen til alle eller enkelte deler av anlegget ved at disse delene atskilles fra strømkilden(e).
+
+*Høyspenning*
 
 Spenning som normalt overstiger 1000 V a.c. eller 1500 V d.c.
 
+*Lavspenning*
+
 Spenning som normalt ikke overstiger 1000 V a.c. eller 1500 V d.c.
 
+*Leder for kobling*
+
 Utpekt person som har fått ansvar for at nødvendige koblinger i høyspenningsanlegg blir utført på en sikkerhetsmessig forsvarlig måte.
+
+*Leder for sikkerhet (høyspenning)/ansvarlig for arbeidet (lavspenning)*
 
 Utpekt person som har fått ansvar for sikkerheten på arbeidsstedet.
 
 Ved arbeid på eller nær ved jernbaneanlegg benyttes betegnelsen *leder for elsikkerhet* for denne funksjonen. Når det i denne forskriften benyttes begrepet leder for sikkerhet så vil de samme kravene også gjelde for leder for elsikkerhet ved arbeid på eller nær ved jernbaneanlegg.
 
+*Markeringsjording*
+
 Ikke fullt ut dimensjonert jording og kortslutning av anleggsdeler på eller i umiddelbar nærhet av det stedet hvor arbeid pågår.
+
+*Risikoavstand*
 
 Minste avstand fra anleggsdeler og omgivelser som befinner seg på et annet spenningsnivå enn personellet, samt andre faser på samme spenningsnivå ved arbeid på én fase. Risikoavstanden er fastsatt for å gi forsvarlig sikkerhet ved arbeid på eller nær ved elektriske anlegg. Angir ytre grense for risikoområdet.
 
 Risikoavstanden for de forskjellige spenningene er fastsatt i tabellen nedenfor. Risikoavstanden for mellomliggende spenningsverdier kan bestemmes ved interpolering.
+
+*Tabell 1 Risikoavstand for forskjellige spenninger*
+
+| *Nominell systemspenning (kV)* | *Risikoavstand (mm)* | *Nominell systemspenning (kV)* | *Risikoavstand (mm)* |
+| --- | --- | --- | --- |
+| <1 | Ingen berøring | 70 | 750 |
+| 3 | 400 | 110 | 1000 |
+| 6 | 400 | 132 | 1100 |
+| 10 | 400 | 150 | 1200 |
+| 15 \* | 400 | 220 | 1600 |
+| 20 | 400 | 275 | 1900 |
+| 30 | 400 | 380 | 2500 |
+| 36 | 400 | 480 | 3200 |
+| 45 | 500 | 700 | 5300 |
+| 60 | 650 |  |  |
+
+\* Omfatter 15 kV – 16 2/3 Hz for jernbane.
+
+*Sikkerhetsavstand*
 
 Avstand som angir personellets nærmeste tillatte arbeidsposisjon fra anleggsdeler og omgivelser som befinner seg på et annet spenningsnivå enn personellet, samt andre faser på samme spenningsnivå ved arbeid på én fase. Angir ytre grense for sikkerhetsområdet.
 

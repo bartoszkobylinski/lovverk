@@ -28,6 +28,8 @@ Departementets myndighet etter [lov av 15. juni 2001 nr. 75](lov/2001-06-15-75) 
 
 Landbruksdepartementets delegering av 13. mai 20021 av myndighet etter [lov av 15. juni 2001 nr. 75](lov/2001-06-15-75) om veterinærer og annet [dyrehelsepersonell § 9, § 10](lov/2001-06-15-75/§10), [§ 11](lov/2001-06-15-75/§11), [§ 13](lov/2001-06-15-75/§13) tredje ledd, [§ 35](lov/2001-06-15-75/§35) og [§ 36](lov/2001-06-15-75/§36) til Statens dyrehelsetilsyn videreføres til Mattilsynet.
 
+1 Ikke kunngjort i Norsk Lovtidend.
+
 ## II
 
 Delegeringen trer i kraft straks.

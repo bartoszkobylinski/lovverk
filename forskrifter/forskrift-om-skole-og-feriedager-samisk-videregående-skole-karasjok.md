@@ -24,13 +24,29 @@ eu_basis: []
 
 ## Skoleruta for skoleåret 2025/2026
 
-*Høst 2025**Måned**Merknader**Skoledager*AugustFørste skoledag mandag 18. august10SeptemberHøstferie 22. september 2025–26. september 202517Oktober23NovemberHøstferie 17. oktober 2025–18. oktober 202518DesemberJuleferie 22. desember 2025–31. desember 202515*Antall skoledager høst 2025**83*
+*Høst 2025*
 
-*Vår 2026**Måned**Merknader**Skoledager*JanuarMandag 5. januar: Første skoledag20Februar20MarsVinterferie 5. mars 2026–6. mars 2026
-Påskeferie 30. mars 2026–31. mars 202618AprilFørste skoledag etter påske onsdag 8. april 202617MaiFredag 1. mai: offentlig høytidsdag
-Torsdag 14. mai: Kristi himmelfartsdag
-Mandag 25. mai: 2. pinsedag
-Tirsdag 26. mai: Planleggingsdag. Fri for elever17JuniFredag 19. juni 2026: Siste skoledag15*Antall skoledager vår 2026**107**Antall skoledager hele skoleåret**190*
+| *Måned* | *Merknader* | *Skoledager* |
+| --- | --- | --- |
+| August | Første skoledag mandag 18. august | 10 |
+| September | Høstferie 22. september 2025–26. september 2025 | 17 |
+| Oktober |  | 23 |
+| November | Høstferie 17. oktober 2025–18. oktober 2025 | 18 |
+| Desember | Juleferie 22. desember 2025–31. desember 2025 | 15 |
+| *Antall skoledager høst 2025* |  | *83* |
+
+*Vår 2026*
+
+| *Måned* | *Merknader* | *Skoledager* |
+| --- | --- | --- |
+| Januar | Mandag 5. januar: Første skoledag | 20 |
+| Februar |  | 20 |
+| Mars | Vinterferie 5. mars 2026–6. mars 2026<br>Påskeferie 30. mars 2026–31. mars 2026 | 18 |
+| April | Første skoledag etter påske onsdag 8. april 2026 | 17 |
+| Mai | Fredag 1. mai: offentlig høytidsdag<br>Torsdag 14. mai: Kristi himmelfartsdag<br>Mandag 25. mai: 2. pinsedag<br>Tirsdag 26. mai: Planleggingsdag. Fri for elever | 17 |
+| Juni | Fredag 19. juni 2026: Siste skoledag | 15 |
+| *Antall skoledager vår 2026* |  | *107* |
+| *Antall skoledager hele skoleåret* |  | *190* |
 
 > Endret ved forskrift [5 aug 2025 nr. 1588](forskrift/2025-08-05-1588).
 

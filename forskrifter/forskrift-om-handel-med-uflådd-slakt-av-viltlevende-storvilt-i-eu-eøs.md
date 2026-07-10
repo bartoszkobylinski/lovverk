@@ -59,11 +59,21 @@ Under «Forordninger i PDF» finnes forordning [(EU) nr. 636/2014 i](eu/32014r06
 av 13. juni 2014
 om en sertifikatmodell for handel med uflådd viltlevende storvilt
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse,1 særlig artikkel 7 nr. 2 bokstav a), og
 
 ut fra følgende betraktninger:Ved forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt særlige hygieneregler for næringsmidler av animalsk opprinnelse. I nevnte forordning fastsettes det blant annet krav til produksjon og omsetning av kjøtt fra viltlevende vilt. Driftsansvarlige for næringsmiddelforetak skal sikre at slikt kjøtt bringes i omsetning bare dersom det er produsert i samsvar med avsnitt IV i vedlegg III til nevnte forordning.Forordning [(EF) nr. 853/2004](eu/32004r0853*) inneholder også bestemmelser om utarbeiding av sertifikatmodeller som skal ledsage forsendelser av produkter av animalsk opprinnelse.I kommisjonsforordning [(EU) nr. 633/2014](eu/32014r0633)2 om endring av vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er det fastsatt at uflådd viltlevende storvilt kan sendes til et viltbehandlingsanlegg i en annen medlemsstat dersom det under transport til nevnte viltbehandlingsanlegg ledsages av et sertifikat som attesterer at kravene i avsnitt IV i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*) er overholdt.For å lette handelen med uflådd viltlevende storvilt bør det fastsettes en sertifikatmodell for handel mellom medlemsstatene.Ettersom skrotter av uflådd viltlevende storvilt kan være bærere av sykdomsframkallende stoffer som kan forårsake sykdommer hos dyr, bør storviltet ikke stamme fra områder som av helsemessige grunner omfattes av et forbud eller en restriksjon med hensyn til de berørte artene, i samsvar med Unionens regelverk eller nasjonal lovgivning. Handel med skrotter av uflådd villsvin kan bare finne sted dersom det ikke berører Kommisjonens gjennomføringsbeslutning [2013/764/EU](eu/32013d0764).3Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 139 av 30.4.2004, s. 55.
+
+2 Kommisjonsforordning [(EU) nr. 633/2014](eu/32014r0633) av 13. juni 2014 om endring av vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) og av vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) med hensyn til særlige krav til håndtering av viltlevende storvilt og til kontroll post mortem av viltlevende vilt (EUT L 175 av 14.6.2014, s. 6).
+
+3 Kommisjonens gjennomføringsbeslutning av 13. desember 2013 om dyrehelsetiltak for å bekjempe klassisk svinepest i visse medlemsstaters (EUT L 338 av 17.12.2013, s. 102).
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -79,15 +89,25 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 13. juni 2014.
 
-*For Kommisjonen*José Manuel Barroso*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel Barroso |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG
 En modell for helsesertifikat for handel med uflådd viltlevende storvilt
+
+[(pdf)](static/SF/sf-20170206-0141-32014r0636-01-01.pdf)
 
 ## Forordninger i PDF
 
 Nedenfor gjengis forordning [(EU) nr. 636/2014](eu/32014r0636) om en sertifikatmodell for handel med uflådd viltlevende storvilt, slik at sertifikatmodellen er tilgjengelig for utskrift.
 
 ### Forordning (EU) nr. 636/2014
+
+[(pdf)](static/SF/32014r0636u-01.pdf)
 
 Uoffisiell norsk oversettelse.

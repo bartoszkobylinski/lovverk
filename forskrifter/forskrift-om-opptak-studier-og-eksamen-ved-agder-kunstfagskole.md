@@ -138,9 +138,17 @@ Dersom Agder Kunstfagskole oppdager at en søker har levert falskt vitnemål ell
 
 (5) Søkere med formell kompetanse rangeres etter studieresultat (karakterpoeng), modenhet, fysiske forutsetninger og tekniske ferdigheter. Søkere med realkompetanse rangeres etter lengden av treningsbakgrunn som minimum skal være tilsvarende tre år generell studiekompetanse (studieforberedende utdanningsprogram) med fordypning i dans, relevant yrkespraksis, modenhet, fysiske forutsetninger og tekniske ferdigheter.
 
-(6) Alle som gjennomfører opptaksprøven blir vurdert og rangert etter følgende kriterier:*Poeng**Karakterpoeng:*
-Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.*Relevant yrkespraksis*:
-Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Det kan gis inntil 10 poeng for relevant yrkespraksis.Tekniske ferdigheter1–10 (10 høyest)Fysiske forutsetning1–10 (10 høyest)Modenhet1–10 (10 høyest)Generell forståelse for faget1–10 (10 høyest)Utviklingspotensial1–10 (10 høyest)
+(6) Alle som gjennomfører opptaksprøven blir vurdert og rangert etter følgende kriterier:
+
+|  | *Poeng* |
+| --- | --- |
+| *Karakterpoeng:*<br>Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. |  |
+| *Relevant yrkespraksis*:<br>Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Det kan gis inntil 10 poeng for relevant yrkespraksis. |  |
+| Tekniske ferdigheter | 1–10 (10 høyest) |
+| Fysiske forutsetning | 1–10 (10 høyest) |
+| Modenhet | 1–10 (10 høyest) |
+| Generell forståelse for faget | 1–10 (10 høyest) |
+| Utviklingspotensial | 1–10 (10 høyest) |
 
 (7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
@@ -224,13 +232,20 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 ### § 5-2. Karaktersystem/vurderingsuttrykk
 
-(1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godtMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet.Bestått/Ikke beståttKarakteren Bestått krever en jevnt god prestasjon tilsvarende C eller bedre.
+(1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget godt | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
+
+|  |  |
+| --- | --- |
+| Bestått/Ikke bestått | Karakteren Bestått krever en jevnt god prestasjon tilsvarende C eller bedre. |
 
 (2) Graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter, F er stryk.
 

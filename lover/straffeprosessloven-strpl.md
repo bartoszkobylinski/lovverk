@@ -278,6 +278,8 @@ Kongen kan gi forskrifter om gjennomsyn og utlån av dokumentene i en straffesak
 
 > Endret ved lover [1 juli 1994 nr. 50](lov/1994-07-01-50) (ikr. 15 aug 1995), [28 juli 2000 nr. 73](lov/2000-07-28-73) (ikr. 1 aug 2001 iflg. [res. 6 juli 2001 nr. 756](forskrift/2001-07-06-756)), [4 juni 1999 nr. 37](lov/1999-06-04-37) (ikr. 1 sep 2001 iflg. [res. 6 juli 2001 nr. 755](forskrift/2001-07-06-755)), [9 mai 2003 nr. 30](lov/2003-05-09-30), [2 juli 2004 nr. 61](lov/2004-07-02-61) (ikr. 1 jan 2005 iflg. [res. 2 juli 2004 nr. 1065](forskrift/2004-07-02-1065)), [21 des 2007 nr. 126](lov/2007-12-21-126), [7 mars 2008 nr. 5](lov/2008-03-07-5) (ikr. 1 juli 2008 iflg. [res. 7 mars 2008 nr. 242](forskrift/2008-03-07-242)), [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [21 juni 2013 nr. 86](lov/2013-06-21-86) (ikr. 13 sep 2013 iflg. [res. 13 sep 2013 nr. 1078](forskrift/2013-09-13-1078)), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
+1 Inkurie: Skal vel være «dette ledd».
+
 ### § 29
 
 Kongen kan gi nærmere regler om innretningen av rettsbøkene og om oppbevaring og tilintetgjøring av rettsbøker og andre dokumenter.
@@ -1019,6 +1021,8 @@ Ved alle domstoler kan en utenlandsk advokat være forsvarer når retten etter s
 For flere siktede som har motstridende interesser, kan ikke samme person være forsvarer.
 
 > Endret ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994).
+
+1 Jf. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 2 (direktiv [77/249](eu/31977l0249)) og nr. 2a (direktiv [98/5](eu/31998l0005)).
 
 ### § 96
 
@@ -5157,6 +5161,8 @@ Kongen kan for straffesaker med tilknytning til Forsvaret gi forskrift ompåtale
 Denne lov trer i kraft fra den tid1 som bestemmes ved særskilt lov.
 
 > Endret ved lov [24 juni 1994 nr. 36](lov/1994-06-24-36) (ikr. 1 juli 1997 iflg. [res. 13 juni 1997 nr. 573](forskrift/1997-06-13-573), tidligere § 463).
+
+1 Fra 1 jan 1986 iflg. [lov 14 juni 1985 nr. 71](lov/1985-06-14-71).
 
 ### § 483
 

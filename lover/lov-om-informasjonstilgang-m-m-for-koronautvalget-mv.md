@@ -70,6 +70,8 @@ Loven trer i kraft straks.
 
 [§§ 2](lov/2022-12-20-118/§2) og [4](lov/2022-12-20-118/§4) oppheves når utvalget har avsluttet sitt arbeid.1
 
+1 Utvalget leverte avsluttende rapport 2. juni 2023 iflg. [NOU 2023:16](forarbeid/nou-2023-16).
+
 ## § 10. Endringer i annen lov
 
 Fra den tiden loven trer i kraft, gjøres følgende endring i [lov 17. juni 2022 nr. 57 om erstatning fra staten til voldsutsatte](lov/2022-06-17-57): – – –

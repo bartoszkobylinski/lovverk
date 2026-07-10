@@ -242,7 +242,22 @@ Emnene skal ha et omfang på 5, 7,5, 10, 15, 20, 25 eller 30 studiepoeng. Master
 
 ### § 16. Karakterskala. Utregning av endelig karakter
 
-(1) Vurderingsuttrykk er bestått/ikke bestått eller graderte karakterer fra A til E for bestått og F for ikke bestått. Følgende kvalitative beskrivelser gjelder for de ulike karaktertrinnene:*Karakter**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godtEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.Fakultetsstyret selv kan vedta at anbefalte karakterbeskrivelser fra nasjonale fagråd skal benyttes i tillegg.Ved bruk av graderte karakterer angis bokstavkarakterene uten tillegg av pluss eller minus både ved sensur av deleksamen og ved fastsetting av endelig karakter. Bestått/ikke bestått fastsettes uavhengig av den graderte karakterskalaen.For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1) f) benyttes godkjent/ikke godkjent.
+(1) Vurderingsuttrykk er bestått/ikke bestått eller graderte karakterer fra A til E for bestått og F for ikke bestått. Følgende kvalitative beskrivelser gjelder for de ulike karaktertrinnene:
+
+| *Karakter* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså godt | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
+
+Fakultetsstyret selv kan vedta at anbefalte karakterbeskrivelser fra nasjonale fagråd skal benyttes i tillegg.
+
+Ved bruk av graderte karakterer angis bokstavkarakterene uten tillegg av pluss eller minus både ved sensur av deleksamen og ved fastsetting av endelig karakter. Bestått/ikke bestått fastsettes uavhengig av den graderte karakterskalaen.
+
+For vilkår for å gå opp til eksamen (jf. [§ 1](forskrift/2005-06-22-833/§1) f) benyttes godkjent/ikke godkjent.
 
 (2) Alle deleksamener innen samme emne skal ha samme vurderingsuttrykk.
 

@@ -129,3 +129,5 @@ Frå same tid vert [lov 1. mars 1946 nr. 3](lov/1946-03-01-3) om Den Norske Stat
 Forskrifter gjevne i medhald av [lov 1. mars 1946 nr. 3](lov/1946-03-01-3) om Den Norske Stats Husbank gjeld òg etter at lova her tek til å gjelda.
 
 > Endra ved [lover 24 aug 2012 nr. 64](lov/2012-08-24-64) (ikr. 1 jan 2013 iflg. [res. 24 aug 2012 nr. 826](forskrift/2012-08-24-826), tidlegare § 13, samstundes vart tidlegare § 10, § 11 og § 12 oppheva), [21 juni 2017 nr. 96](lov/2017-06-21-96) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 831](forskrift/2017-06-21-831), tidlegare § 10).
+
+1 Frå 1 jan 2010 iflg. [res. 29 mai 2009 nr. 594](forskrift/2009-05-29-594).

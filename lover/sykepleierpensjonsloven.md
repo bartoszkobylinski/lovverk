@@ -580,6 +580,8 @@ Gjenlevende ektefelle som er født i 1954 eller senere, og som omfattes av parag
 
 > Tilføyd ved lov [16 juni 2000 nr. 43](lov/2000-06-16-43) (ikr. 1 jan 2001 iflg. [res. 15 des 2000 nr. 1256](forskrift/2000-12-15-1256)), endret ved lover [15 jan 2010 nr. 1](lov/2010-01-15-1) (ikr. 1 feb 2010 iflg. [res. 15 jan 2010 nr. 54](forskrift/2010-01-15-54), se overgangsbestemmelser i endringslovens X), [19 juni 2020 nr. 70](lov/2020-06-19-70) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1277](forskrift/2020-06-19-1277)).
 
+1 Jf. [EØS-avtalen art. 69](lov/1992-11-27-109/eøsl/a69) og [vedlegg XVIII](avtale/avt-1992-05-02-1-v18) nr. 21 b (direktiv [2006/54/EF](eu/32006l0054)).
+
 ### § 20
 
 Enke- og enkemannspensjon fastsatt etter reglene i [§ 19 b](lov/1962-06-22-12/§19b) skal reduseres i henhold til reglene i bokstav a og b nedenfor. Dersom ekteskapet ble inngått før 1. januar 2010, gjelder dette likevel ikke for pensjon til enke etter mannlig medlem som ble medlem første gang før 1. oktober 1976, og heller ikke for annen gjenlevende ektefelle etter medlem med medlemskap før 1. oktober 1976 for tjenestetid opptjent etter 31. desember 1993.Dersom den gjenlevende ektefellen samtidig har alderspensjon etter [kapittel 4](lov/1962-06-22-12/kap4), tidligpensjon etter [kapittel 4 b](lov/1962-06-22-12/kap4b) eller midlertidig uførepensjon eller uførepensjon etter [kapittel 5](lov/1962-06-22-12/kap5) eller tilsvarende pensjon fra en annen tjenestepensjonsordning, skal enke- eller enkemannspensjonen reduseres etter bestemmelsene her.Har den gjenlevende ektefellen alderspensjon, skal pensjonene ikke overstige et beløp som svarer til 60 prosent av summen av den gjenlevendes og den avdødes alderspensjoner. Avdødes alderspensjon regnes av samme pensjonsgrunnlag og tjenestetid som er lagt til grunn for enke- eller enkemannspensjonen. Det overskytende beløpet skal gå til fradrag i enke- eller enkemannspensjonen.Har den gjenlevende ektefellen midlertidig uførepensjon eller uførepensjon, skal enke- eller enkemannspensjonen utgjøre det beløpet som framkommer etter bokstav a annet ledd når en benytter en beregnet alderspensjon for den gjenlevende ektefellen med samme pensjonsgrunnlag og tjenestetid som den midlertidige uførepensjonen eller uførepensjonen. Dersom den midlertidige uførepensjonen eller uførepensjonen er gradert, skal den beregnede alderspensjonen graderes tilsvarende.Når den gjenlevende ektefelle ut fra alder og ervervsevne, foreliggende ervervsmuligheter og omstendighetene for øvrig kan ventes å få en årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet i folketrygden, skal ektefellepensjonen reduseres. Reduksjonen skal utgjøre 40 prosent av den del av forventet årlig ervervsinntekt som overstiger 50 prosent av grunnbeløpet. Skjer det en vesentlig endring i de forhold som har vært avgjørende for fastsettelsen av ektefellepensjonen, kan saken prøves på nytt og pensjonen endres eller falle bort.Inntekten som er lagt til grunn i folketrygden, legges også til grunn etter paragrafen her. Har gjenlevende ektefelle fylt 67 år, skal ektefellepensjonen ikke avkortes med mindre vedkommende har ervervsinntekt. Har gjenlevende fylt 70 år, reduseres ikke pensjonen på grunn av ervervsinntekt.
@@ -722,11 +724,11 @@ Prosentsatsene for premietilskott og for egenkapitaltilskott fastsettes av pensj
 
 ### § 32
 
-1. Pensjonsordningen for sykepleiere skal ha et styre på tre medlemmer med personlige varamenn som oppnevnes av departementet for fire år om gangen. Ett av medlemmene skal representere sykepleierne og ett arbeidsgiverne. Det tredje medlem er styrets formann. Departementet treffer vedtak om godtgjørelse til styremedlemmene.
+1\. Pensjonsordningen for sykepleiere skal ha et styre på tre medlemmer med personlige varamenn som oppnevnes av departementet for fire år om gangen. Ett av medlemmene skal representere sykepleierne og ett arbeidsgiverne. Det tredje medlem er styrets formann. Departementet treffer vedtak om godtgjørelse til styremedlemmene.
 
-2. Styret er vedtaksført når tre medlemmer er til stede. Til gyldig vedtak kreves vanlig flertall.
+2\. Styret er vedtaksført når tre medlemmer er til stede. Til gyldig vedtak kreves vanlig flertall.
 
-3. Styret skal legge fram melding og regnskap hvert år.
+3\. Styret skal legge fram melding og regnskap hvert år.
 
 > Endret ved lov [19 juni 1969 nr. 54](lov/1969-06-19-54).
 

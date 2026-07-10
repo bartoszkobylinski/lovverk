@@ -49,3 +49,5 @@ Ved fastsettelsen av samordningsfradraget for tilleggspensjon skal det regnes ut
 Forskriften trer i kraft straks og gis virkning fra samme tid som [lovendringene 16. juni 1989 nr. 85](lov/1989-06-16-85)1 og [15. desember 1989 nr. 90](lov/1989-12-15-90).2
 
 > Endret ved [forskrift 20 des 2019 nr. 2150](forskrift/2019-12-20-2150) (i kraft 1 jan 2020).
+
+1 Med virkning fra 1. juli 1989.2 Med virkning fra 31. desember 1976.

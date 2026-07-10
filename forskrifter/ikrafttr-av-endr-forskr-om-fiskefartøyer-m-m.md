@@ -24,4 +24,4 @@ eu_basis: []
 
 [Forskrift av 6. juli 1993 nr. 745](forskrift/1993-07-06-745) om endring i forskrift om sikkerhetstiltak på fiske- og fangstfartøyer trer i kraft 1. juli 1995.
 
-* Ikrafttredelsen innebærer at personlig verneutstyr som anskaffes skal være CE-merket. Dette dokumenterer at produktene er fremstilt i henhold til felles europeiske regler om personlig verneutstyr (Rdir [89/686/EØF](eu/31989l0686*), Rdir [93/68/EØF](eu/31993l0068*), Rdir [93/95/EØF](eu/31993l0095)) samt [kgl.res. av 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr.
+\* Ikrafttredelsen innebærer at personlig verneutstyr som anskaffes skal være CE-merket. Dette dokumenterer at produktene er fremstilt i henhold til felles europeiske regler om personlig verneutstyr (Rdir [89/686/EØF](eu/31989l0686*), Rdir [93/68/EØF](eu/31993l0068*), Rdir [93/95/EØF](eu/31993l0095)) samt [kgl.res. av 19. august 1994 nr. 819](forskrift/1994-08-19-819) om konstruksjon, utforming og produksjon av personlig verneutstyr.

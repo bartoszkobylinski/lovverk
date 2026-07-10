@@ -84,6 +84,10 @@ Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I k
 
 Forordning [(EU) 2019/1793](eu/32019r1793) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2026/1206](eu/32026r1206).
 
+►**M1** Kommisjonsforordning [(EU) 2019/1793](eu/32019r1793) av 22. oktober 2019
+
+som endret ved:
+
 - ►**M1** Kommisjonsforordning [(EU) 2020/625](eu/32020r0625) av 6. mai 2020
 - ►**M2** Kommisjonsforordning [(EU) 2020/1540](eu/32020r1540) av 22. oktober 2020
 - ►**M3** Kommisjonsforordning [(EU) 2021/608](eu/32021r0608) av 14. april 2021
@@ -103,6 +107,14 @@ Forordning [(EU) 2019/1793](eu/32019r1793) er konsolidert til og med endringer g
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1793](eu/32019r1793)
 av 22. oktober 2019
 om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel til Unionen av visse varer fra visse tredjestater, om gjennomføring av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) og (EF) [nr. 178/2002](eu/32002r0178), og om oppheving av kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669), (EU) [nr. 884/2014](eu/32014r0884), (EU) [2015/175](eu/32015r0175), (EU) [2017/186](eu/32017r0186) og (EU) [2018/1660](eu/32018r1660)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6 bokstav a), artikkel 47 nr. 2 bokstav b), artikkel 54 nr. 4 bokstav a) og b) og artikkel 90 bokstav c),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet2, særlig artikkel 53 nr. 1 bokstav b), ogut fra følgende betraktninger:
 
 1. I forordning [(EU) 2017/625](eu/32017r0625*) integreres i én enkelt rettslig ramme reglene for offentlig kontroll av dyr og varer som innføres til Unionen, for å verifisere overholdelsen av Unionens regelverk for den landbruksbaserte næringsmiddelkjeden. For dette formål opphever og erstatter den europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)3 og andre unionsrettsakter som regulerer offentlig kontroll på særlige områder.
 2. I henhold til forordning [(EU) 2017/625](eu/32017r0625*) er det visse kategorier av dyr og varer fra visse tredjestater som alltid skal framvises på grensekontrollstasjonene, slik at offentlig kontroll kan gjennomføres før innførsel til Unionen. I tillegg fastsetter artikkel 47 nr. 1 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*) at varer som omfattes av tiltak som krever henholdsvis midlertidig strengere offentlig kontroll eller beskyttelsestiltak, bør omfattes av offentlig kontroll på grensekontrollstasjonene ved innførsel til Unionen.
@@ -129,34 +141,80 @@ om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel
 23. Med henblikk på forenkling og rasjonalisering konsolideres reglene fastsatt i kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669), (EU) [nr. 884/2014](eu/32014r0884), (EU) [2017/186](eu/32017r0186), (EU) [2015/175](eu/32015r0175) og (EU) [2018/1660 i](eu/32018r1660) denne forordning. Nevnte forordninger bør derfor oppheves og erstattes av denne forordning.
 24. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 EFT L 31 av 1.2.2002, s. 1.
+
+3 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+4 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).
+
+5 Kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669) av 24. juli 2009 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) med hensyn til strengere offentlig kontroll ved import av visse fôrvarer og næringsmidler av ikke-animalsk opprinnelse, og om endring av vedtak [2006/504/EF](eu/32006d0504) (EUT L 194 av 25.7.2009, s. 11).
+
+6 Kommisjonens gjennomføringsforordning [(EU) nr. 884/2014](eu/32014r0884) av 13. august 2014 om særlige vilkår for import av visse produkter med opprinnelse i visse tredjestater som følge av risikoen for at produktene er forurenset av aflatoksiner og om oppheving av forordning [(EF) nr. 1152/2009](eu/32009r1152) (EUT L 242 av 14.8.2014, s. 4).
+
+7 Kommisjonens gjennomføringsforordning [(EU) 2015/175](eu/32015r0175) av 5. februar 2015 om fastsettelse av særlige vilkår for import av guarkjernemel med opprinnelse i eller sendt fra India som følge av risikoen for forurensning med pentaklorfenol og dioksiner (EUT L 30 av 6.2.2015, s. 10).
+
+8 Kommisjonens gjennomføringsforordning [(EU) 2017/186](eu/32017r0186) av 2. februar 2017 om fastsettelse av særlige vilkår for innførsel til Unionen av forsendelser fra visse tredjestater som følge av mikrobiologisk forurensning, og om endring av forordning [(EF) nr. 669/2009](eu/32009r0669) (EUT L 29 av 3.2.2017, s. 24).
+
+9 Kommisjonens gjennomføringsforordning [(EU) nr. 2018/1660](eu/32018r1660) av 7. november 2018 om særlige vilkår for import av visse næringsmidler av ikke-animalsk opprinnelse fra visse tredjestater som følge av risikoen for forurensning med rester av plantevernmidler, om endring av forordning [(EF) nr. 669/2009](eu/32009r0669) og om oppheving av gjennomføringsforordning [(EU) nr. 885/2014](eu/32014r0885) (EUT L 278 av 8.11.2014, s. 7).
+
+10 Kommisjonsforordning [(EF) nr. 1881/2006](eu/32006r1881) av 19. desember 2006 om fastsettelse av grenseverdier for visse forurensende stoffer i næringsmidler (EUT L 364 av 20.12.2006, s. 5).
+
+11 Europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer (EFT L 140 av 30.5.2002, s. 10).
+
+12 Europaparlaments- og rådsforordning [(EF) nr. 396/2005/EF](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om endring av rådsdirektiv [91/414/EØF](eu/31991l0414*) (EUT L 70 av 16.3.2005, s. 1).
+
+13 Kommisjonsforordning [(EF) nr. 401/2006](eu/32006r0401) av 23. februar 2006 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av mykotoksiner i næringsmidler (EUT L 70 av 9.3.2006, s. 12).
+
+14 Kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152) av 27. januar 2009 om fastsettelse av metoder for prøvetaking og analyse i forbindelse med offentlig kontroll av fôrvarer (EUT L 54 av 26.2.2009, s. 1).
+
+15 Kommisjonsdirektiv [2002/63/EF](eu/32002l0063) av 11. juli 2002 om fastsettelse av fellesskapsmetoder for prøvetaking ved offentlig kontroll av rester av plantevernmidler i og på produkter av vegetabilsk og animalsk opprinnelse og om oppheving av direktiv [79/700/EØF](eu/31979l0700) (EFT L 187 av 16.7.2002, s. 30).
+
+16 Kommisjonens gjennomføringsforordning [(EU) 2019/628](eu/32019r0628*) av 8. april 2019 om maler for offisielle sertifikater for visse dyr og varer, og om endring av forordning [(EF) nr. 2074/2005](eu/32005r2074) og gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) med hensyn til disse sertifikatmalene (EUT L 131 av 17.5.2019, s. 101).
+
+17 Kommisjonsvedtak [2003/623/EF](eu/32003d0623) av 19. august 2003 om utvikling av et integrert datasystem for veterinærmyndighetene (TRACES) (EUT L 216 av 28.8.2003, s. 58).
+
+VEDTATT DENNE FORORDNING:
+
 ### AVSNITT 1
 FELLES BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
 
-1. I denne forordning fastsetteslisten over næringsmidler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll ved innførsel til Unionen, fastsatt i vedlegg I, som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg, i samsvar med artikkel 47 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),►**M11**►**M14**særlige vilkår for innførsel til Unionen av følgende kategorier av forsendelser med næringsmidler og fôr på grunn av risikoen for forurensning med mykotoksiner, herunder aflatoksiner, rester av plantevernmidler, mikrobiologisk forurensning, cereulide-giftstoffer, sudan-fargestoffer og plantetoksiner, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178):◄**M14**Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse fra tredjestater eller deler av disse tredjestatene, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 1 i vedlegg II, og som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg.Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse som er sendt til Unionen fra en tredjestat som er en annen enn opprinnelsesstaten, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 2 i vedlegg II.◄**M11**► **M1**forbud mot innførsel til Unionen av næringsmidler og fôr oppført i vedlegg IIa,◄ **M1**regler for hyppigheten av identitetskontroll og fysisk kontroll av forsendelser med næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer,regler for metodene som skal brukes ved prøvetaking og laboratorieanalyser av forsendelsene av næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer, i samsvar med artikkel 34 nr. 6 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*),regler for malen for det offisielle sertifikatet som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, samt kravene til slike offisielle sertifikater, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178),regler for utstedelse av offisielle erstatningssertifikater som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, i samsvar med artikkel 90 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*).
+1\. I denne forordning fastsetteslisten over næringsmidler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll ved innførsel til Unionen, fastsatt i vedlegg I, som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg, i samsvar med artikkel 47 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*),►**M11**►**M14**særlige vilkår for innførsel til Unionen av følgende kategorier av forsendelser med næringsmidler og fôr på grunn av risikoen for forurensning med mykotoksiner, herunder aflatoksiner, rester av plantevernmidler, mikrobiologisk forurensning, cereulide-giftstoffer, sudan-fargestoffer og plantetoksiner, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178):◄**M14**Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse fra tredjestater eller deler av disse tredjestatene, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 1 i vedlegg II, og som omfattes av KN-kodene og TARIC-klassifiseringene fastsatt i nevnte vedlegg.Forsendelser med næringsmidler og fôr av ikke-animalsk opprinnelse som er sendt til Unionen fra en tredjestat som er en annen enn opprinnelsesstaten, som inneholder næringsmidler eller fôrvarer som er oppført i tabell 2 i vedlegg II.◄**M11**► **M1**forbud mot innførsel til Unionen av næringsmidler og fôr oppført i vedlegg IIa,◄ **M1**regler for hyppigheten av identitetskontroll og fysisk kontroll av forsendelser med næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer,regler for metodene som skal brukes ved prøvetaking og laboratorieanalyser av forsendelsene av næringsmidler og fôr nevnt i bokstav a) og b) i dette nummer, i samsvar med artikkel 34 nr. 6 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*),regler for malen for det offisielle sertifikatet som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, samt kravene til slike offisielle sertifikater, i samsvar med artikkel 53 nr. 1 bokstav b) i forordning [(EF) nr. 178/2002](eu/32002r0178),regler for utstedelse av offisielle erstatningssertifikater som skal ledsage forsendelser med næringsmidler og fôr nevnt i bokstav b) i dette nummer, i samsvar med artikkel 90 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*).
 
-2. Denne forordning får anvendelse på forsendelser med næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) som er beregnet på å bringes i omsetning i Unionen.
+2\. Denne forordning får anvendelse på forsendelser med næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) som er beregnet på å bringes i omsetning i Unionen.
 
-3. Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 5 kg for ferske produkter eller 2 kg for andre produkter:Forsendelser som inngår i passasjerenes personlige bagasje og er beregnet på eget forbruk eller bruk.Ikke-kommersielle forsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning.Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 50 kg for ferske produkter eller 10 kg for andre produkter:Forsendelser som sendes som vareprøver, laboratorieprøver eller utstillingsgjenstander, og som ikke er beregnet på å bringes i omsetning.Forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål.
+►**M6**
 
-4. Denne forordning får ikke anvendelse på næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) om bord på transportmidler i internasjonal trafikk, som ikke losses, og som er beregnet på forpleining av besetning og passasjerer.
+3\. Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 5 kg for ferske produkter eller 2 kg for andre produkter:Forsendelser som inngår i passasjerenes personlige bagasje og er beregnet på eget forbruk eller bruk.Ikke-kommersielle forsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning.Denne forordningen får ikke anvendelse på følgende kategorier av forsendelser med næringsmidler og fôr nevnt i første ledd med mindre deres nettovekt overstiger 50 kg for ferske produkter eller 10 kg for andre produkter:Forsendelser som sendes som vareprøver, laboratorieprøver eller utstillingsgjenstander, og som ikke er beregnet på å bringes i omsetning.Forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål.
 
-5. Dersom det er tvil om den tiltenkte bruken av næringsmidlene og fôret nevnt i nr. 3 første avsnitt, ligger bevisbyrden henholdsvis hos eieren av den personlige bagasjen og hos mottakeren av forsendelsen.
+4\. Denne forordning får ikke anvendelse på næringsmidler og fôr nevnt i nr. 1 bokstav a) og b) om bord på transportmidler i internasjonal trafikk, som ikke losses, og som er beregnet på forpleining av besetning og passasjerer.
 
-6. Vedkommende myndighet på grensekontrollstasjonen kan i overenstemmelse med denne forordningen frita forsendelser med næringsmidler og fôr nevnt i første ledd, som sendes som vareprøver, laboratorieprøver, utstillingsgjenstander og forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål, og som overstiger vektgrensene nevnt i nr. 3 andre avsnitt, og som ikke er beregnet på å bringes i omsetning, for fysisk kontroll, herunder prøvetaking og laboratorieanalyser, forutsatt at:forsendelsene følges av en tillatelse til innførsel til Unionen, som er utstedt på forhånd av vedkommende myndighet i bestemmelsesstaten, og som inneholder:formålet med innførsel til Unionen,bestemmelsesstedet,garantier for at forsendelsen ikke markedsføres som næringsmidler eller fôr,den driftsansvarlig fremviser forsendelsene på grensekontrollstasjonen der forsendelsen først ankommer EU,vedkommende myndighet på grensekontrollstasjonen der forsendelsen først ankommer EU skal underrette via IMSOC vedkommende myndighet i bestemmelsesstaten om innførselen av forsendelsene.
+5\. Dersom det er tvil om den tiltenkte bruken av næringsmidlene og fôret nevnt i nr. 3 første avsnitt, ligger bevisbyrden henholdsvis hos eieren av den personlige bagasjen og hos mottakeren av forsendelsen.
+
+6\. Vedkommende myndighet på grensekontrollstasjonen kan i overenstemmelse med denne forordningen frita forsendelser med næringsmidler og fôr nevnt i første ledd, som sendes som vareprøver, laboratorieprøver, utstillingsgjenstander og forsendelser med næringsmidler og fôr beregnet på vitenskapelige formål, og som overstiger vektgrensene nevnt i nr. 3 andre avsnitt, og som ikke er beregnet på å bringes i omsetning, for fysisk kontroll, herunder prøvetaking og laboratorieanalyser, forutsatt at:forsendelsene følges av en tillatelse til innførsel til Unionen, som er utstedt på forhånd av vedkommende myndighet i bestemmelsesstaten, og som inneholder:formålet med innførsel til Unionen,bestemmelsesstedet,garantier for at forsendelsen ikke markedsføres som næringsmidler eller fôr,den driftsansvarlig fremviser forsendelsene på grensekontrollstasjonen der forsendelsen først ankommer EU,vedkommende myndighet på grensekontrollstasjonen der forsendelsen først ankommer EU skal underrette via IMSOC vedkommende myndighet i bestemmelsesstaten om innførselen av forsendelsene.
+
+◄**M6**
 
 ### Artikkel 2. Definisjoner
 
-1. I denne forordning menes med«forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*),«bringe i omsetning» bringe i omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+1\. I denne forordning menes med«forsendelse» en forsendelse som definert i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*),«bringe i omsetning» bringe i omsetning som definert i artikkel 3 nr. 8 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 ► **M3**«opprinnelsesstat»den staten der produktene har sin opprinnelse, er dyrket, høstet eller produsert, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av mulig forurensning med mykotoksiner, inkludert aflatoksiner, eller ved plantetoksiner, eller på grunn av mulig manglende overholdelse med maksimumsgrensene for plantevernmidler,den staten der varene var produsert, fremstilt eller pakket, der næringsmidler og fôrvarer som er listet i vedleggene på grunn av forekomsten av salmonella, eller andre farer enn de nevnt i punkt (i).◄ **M3**
 
-2. – – –◄**M6**
+►**M6**
+
+2\. – – –◄**M6**
 
 ### Artikkel 3. Prøvetaking og analyse
 
 Prøvetakingen og analysene som skal utføres av vedkommende myndigheter på grensekontrollstasjoner eller kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) som en del av den fysiske kontrollen av forsendelser med næringsmidler og fôr nevnt i artikkel 1 nr. 1 bokstav a) og b), eller i tredjestater med henblikk på resultatene av analysene som skal ledsage forsendelsene av næringsmidler og fôr nevnt i artikkel 1 nr. 1 bokstav b) som fastsatt i denne forordning, skal utføres i samsvar med følgende krav:
-►**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EU) 2023/2782](eu/32023r2782)*.◄**M12**Når det gjelder fôr oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EF) nr. 152/2009](eu/32009r0152).Når det gjelder næringsmidler og fôr oppført i vedlegg I og II på grunn av mulig manglende samsvar med de øvre grenseverdiene for rester av plantevernmidler, skal prøvetakingen foretas i samsvar med direktiv [2002/63/EF](eu/32002l0063).►**M12** (opphevet) ◄**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av risikoen for forekomst av Salmonella, skal prøvetakingen og analysene for kontroll av Salmonella foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i vedlegg III.►**M12**Prøvetakings- og analysemetodene nevnt i fotnotene til vedlegg I og II skal anvendes i forbindelse med annen fare enn de nevnt i bokstav a), b), c) og e).
+►**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EU) 2023/2782](eu/32023r2782)\*.◄**M12**Når det gjelder fôr oppført i vedlegg I og II på grunn av mulig risiko for forurensning med mykotoksiner, herunder aflatoksiner, skal prøvetakingen og analysene foretas i samsvar med forordning [(EF) nr. 152/2009](eu/32009r0152).Når det gjelder næringsmidler og fôr oppført i vedlegg I og II på grunn av mulig manglende samsvar med de øvre grenseverdiene for rester av plantevernmidler, skal prøvetakingen foretas i samsvar med direktiv [2002/63/EF](eu/32002l0063).►**M12** (opphevet) ◄**M12**Når det gjelder næringsmidler oppført i vedlegg I og II på grunn av risikoen for forekomst av Salmonella, skal prøvetakingen og analysene for kontroll av Salmonella foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i vedlegg III.►**M12**Prøvetakings- og analysemetodene nevnt i fotnotene til vedlegg I og II skal anvendes i forbindelse med annen fare enn de nevnt i bokstav a), b), c) og e).
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2023/2782](eu/32023r2782) av 14. desember 2023 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i mat og erstatter forordning [(EF) nr. 401/2006](eu/32006r0401) (OJ L, 2023/2782, 15.12.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2782/oj)
+
+◄**M12**
 
 ### Artikkel 4. Frigivelse for fri omsetning
 
@@ -167,100 +225,128 @@ MIDLERTIDIG STRENGERE OFFENTLIG KONTROLL PÅ GRENSEKONTROLLSTASJONER OG KONTROLL
 
 ### Artikkel 5. Liste over næringsmidler og fôr av ikke-animalsk opprinnelse
 
-1. Forsendelser med næringsmidler og fôr som er oppført i vedlegg I, skal omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner ved innførsel til Unionen, og på kontrollsteder.
+1\. Forsendelser med næringsmidler og fôr som er oppført i vedlegg I, skal omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner ved innførsel til Unionen, og på kontrollsteder.
 
-2. Identifikasjon av næringsmidler og fôr nevnt i nr. 1 med hensyn til offentlig kontroll skal foretas på grunnlag av kodene fra den kombinerte nomenklatur og TARIC-underposisjonen angitt i vedlegg I.
+2\. Identifikasjon av næringsmidler og fôr nevnt i nr. 1 med hensyn til offentlig kontroll skal foretas på grunnlag av kodene fra den kombinerte nomenklatur og TARIC-underposisjonen angitt i vedlegg I.
 
 ### Artikkel 6. Hyppighet av identitetskontroll og fysisk kontroll
 
-1. Vedkommende myndigheter på grensekontrollstasjoner og kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) skal utføre identitetskontroll og fysisk kontroll, herunder prøvetaking og laboratorieanalyser, av forsendelser med næringsmidler og fôr som er oppført i vedlegg I, med den hyppigheten som er fastsatt i nevnte vedlegg.
+1\. Vedkommende myndigheter på grensekontrollstasjoner og kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) skal utføre identitetskontroll og fysisk kontroll, herunder prøvetaking og laboratorieanalyser, av forsendelser med næringsmidler og fôr som er oppført i vedlegg I, med den hyppigheten som er fastsatt i nevnte vedlegg.
 
-2. Hyppigheten av identitetskontroll og fysisk kontroll fastsatt i en post i vedlegg I skal benyttes som en felles hyppighet for alle produkter som hører inn under den aktuelle posten.
+2\. Hyppigheten av identitetskontroll og fysisk kontroll fastsatt i en post i vedlegg I skal benyttes som en felles hyppighet for alle produkter som hører inn under den aktuelle posten.
 
 ### AVSNITT 3
 SÆRLIGE VILKÅR FOR INNFØRSEL TIL UNIONEN OG FORBUD MOT INNFØRSEL TIL UNIONEN AV VISSE NÆRINGSMIDLER OG FÔR FRA VISSE TREDJESTATER
 
 ### Artikkel 7. Innførsel til Unionen
 
-1. Forsendelser med næringsmidler og fôr som er oppført i vedlegg II, skal bare innføres til Unionen i samsvar med vilkårene fastsatt i dette avsnitt.
+1\. Forsendelser med næringsmidler og fôr som er oppført i vedlegg II, skal bare innføres til Unionen i samsvar med vilkårene fastsatt i dette avsnitt.
 
-2. Identifikasjon av næringsmidler og fôr nevnt i nr. 1 med hensyn til offentlig kontroll skal foretas på grunnlag av kodene fra den kombinerte nomenklatur og TARIC-underposisjonen angitt i vedlegg II.
+2\. Identifikasjon av næringsmidler og fôr nevnt i nr. 1 med hensyn til offentlig kontroll skal foretas på grunnlag av kodene fra den kombinerte nomenklatur og TARIC-underposisjonen angitt i vedlegg II.
 
-3. Forsendelser nevnt i nr. 1 skal omfattes av offentlig kontroll på grensekontrollstasjoner ved innførsel til Unionen, og på kontrollsteder.
+3\. Forsendelser nevnt i nr. 1 skal omfattes av offentlig kontroll på grensekontrollstasjoner ved innførsel til Unionen, og på kontrollsteder.
 
 ### Artikkel 8. Hyppighet av identitetskontroll og fysisk kontroll
 
-1. Vedkommende myndigheter på grensekontrollstasjoner og kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) skal utføre identitetskontroll og fysisk kontroll, herunder prøvetaking og laboratorieanalyser, av forsendelser med næringsmidler og fôr som er oppført i vedlegg I, med den hyppigheten som er fastsatt i nevnte vedlegg.
+1\. Vedkommende myndigheter på grensekontrollstasjoner og kontrollsteder nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) skal utføre identitetskontroll og fysisk kontroll, herunder prøvetaking og laboratorieanalyser, av forsendelser med næringsmidler og fôr som er oppført i vedlegg I, med den hyppigheten som er fastsatt i nevnte vedlegg.
 
-2. Hyppigheten av identitetskontroll og fysisk kontroll fastsatt i en post i vedlegg II skal benyttes som en felles hyppighet for alle produkter som omfattes av denne posten.
+2\. Hyppigheten av identitetskontroll og fysisk kontroll fastsatt i en post i vedlegg II skal benyttes som en felles hyppighet for alle produkter som omfattes av denne posten.
 
 ### Artikkel 9. Identifikasjonskode
 
-1. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal identifiseres med en identifikasjonskode.
+1\. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal identifiseres med en identifikasjonskode.
 
-2. Hver enkelt pose eller type emballasje i forsendelsen skal identifiseres med denne identifikasjonskoden.
+2\. Hver enkelt pose eller type emballasje i forsendelsen skal identifiseres med denne identifikasjonskoden.
 
-3. Som unntak fra nr. 2 når det gjelder en forsendelse der posen eller emballasjen inneholder flere småpakninger, er det tilstrekkelig at identifikasjonskoden for forsendelsen er angitt på posen eller emballasjen som inneholder disse småpakningene.
+►**M12**
+
+3\. Som unntak fra nr. 2 når det gjelder en forsendelse der posen eller emballasjen inneholder flere småpakninger, er det tilstrekkelig at identifikasjonskoden for forsendelsen er angitt på posen eller emballasjen som inneholder disse småpakningene.
+
+◄**M12**
 
 ### Artikkel 10. Resultater av prøvetaking og analyser foretatt av vedkommende myndigheter i tredjestaten
 
-1. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av resultatene av prøvetaking og analyser som vedkommende myndigheter i opprinnelsestredjestaten eller i den staten som forsendelsen er sendt fra, har foretatt av den aktuelle forsendelsen, dersom nevnte stat er en annen enn opprinnelsesstaten.
+1\. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av resultatene av prøvetaking og analyser som vedkommende myndigheter i opprinnelsestredjestaten eller i den staten som forsendelsen er sendt fra, har foretatt av den aktuelle forsendelsen, dersom nevnte stat er en annen enn opprinnelsesstaten.
 
-2. På grunnlag av resultatene nevnt i nr. 1 skal vedkommende myndigheter undersøke
-►**M12**samsvar med forordning [(EU) 2023/915](eu/32023r0915)* og direktiv [2002/32/EF](eu/32002l0032) med hensyn til øvre grenseverdier for relevante mykotoksiner, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med mykotoksiner og plantetoksiner,◄**M12**samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396) med hensyn til øvre grenseverdier for rester av plantevernmidler, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med rester av plantevernmidler,►**M12** (opphevet) ◄**M12**fravær av Salmonella i 25 g når det gjelder forsendelser med næringsmidler som er oppført i vedlegg II på grunn av risikoen for mikrobiologisk forurensning med Salmonella.
+2\. På grunnlag av resultatene nevnt i nr. 1 skal vedkommende myndigheter undersøke
+►**M12**samsvar med forordning [(EU) 2023/915](eu/32023r0915)\* og direktiv [2002/32/EF](eu/32002l0032) med hensyn til øvre grenseverdier for relevante mykotoksiner, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med mykotoksiner og plantetoksiner,◄**M12**samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396) med hensyn til øvre grenseverdier for rester av plantevernmidler, når det gjelder forsendelser med næringsmidler og fôr som er oppført i vedlegg II på grunn av risikoen for forurensning med rester av plantevernmidler,►**M12** (opphevet) ◄**M12**fravær av Salmonella i 25 g når det gjelder forsendelser med næringsmidler som er oppført i vedlegg II på grunn av risikoen for mikrobiologisk forurensning med Salmonella.
 
-3. ►**M12** (opphevet) ◄**M12**
+3\. ►**M12** (opphevet) ◄**M12**
 
-4. Resultatene av prøvetakingen og analysene nevnt i nr. 1 skal være påført identifikasjonskoden til forsendelsen som de er tilknyttet nevnt i artikkel 9 nr. 1.
+4\. Resultatene av prøvetakingen og analysene nevnt i nr. 1 skal være påført identifikasjonskoden til forsendelsen som de er tilknyttet nevnt i artikkel 9 nr. 1.
 
-5. Analysene nevnt i nr. 1 skal foretas av laboratorier som er akkreditert i samsvar med standarden ISO/IEC 17025 «Generelle krav til prøvings- og kalibreringslaboratoriers kompetanse».
+5\. Analysene nevnt i nr. 1 skal foretas av laboratorier som er akkreditert i samsvar med standarden ISO/IEC 17025 «Generelle krav til prøvings- og kalibreringslaboratoriers kompetanse».
+
+►**M12**
+
+\* Kommisjonsforordning [(EU) 2023/915](eu/32023r0915) av 25. april 2023 om grenseverdier for visse forurensende stoffer i næringsmidler og om oppheving av forordning [(EF) nr. 1881/2006](eu/32006r1881) (EUT L 119 av 5.5.2023, s. 103, ELI: http://data.europa.eu/eli/reg/2023/915/oj )
+
+◄**M12**
 
 ### Artikkel 11. Offisielt sertifikat
 
-1. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av et offisielt sertifikat i samsvar med malen angitt i vedlegg IV («offisielt sertifikat»).
+► **M2**
 
-2. Det offisielle sertifikatet skal oppfylle følgende kravdet offisielle sertifikatet skal utstedes av vedkommende myndighet i opprinnelsestredjestaten eller i den tredjestaten som forsendelsen er sendt fra, dersom nevnte stat er en annen enn opprinnelsesstaten,det offisielle sertifikatet skal være påført identifikasjonskoden til forsendelsen som den er tilknyttet nevnt i artikkel 9 nr. 1,det offisielle sertifikatet skal være påført underskriften til sertifikatutstederen og det offisielle stempelet,dersom det offisielle sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet,det offisielle sertifikatet skal bestå av ett av følgende alternativerett enkelt ark ellerflere ark som utgjør et integrert hele og ikke kan deles opp, ellerflere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge,dersom det offisielle sertifikatet består av flere sammenhengende sider, som nevnt i bokstav e) (iii) i dette leddet, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i [forordning (EU) 2017/625](eu/32017r0625) og være påført underskriften til sertifikatutstederen og det offisielle stempelet,det offisielle sertifikatet skal fremlegges for vedkommende myndighet ved grensekontrollstasjonen der forsendelsen er gjenstand for offentlig kontroll,det offisielle sertifikatet skal utstedes før forsendelsen det gjelder, forlater vedkommende myndigheters kontroll i tredjestaten som utsteder sertifikatet,det offisielle sertifikatet skal utarbeides på det offisielle språket, eller ett av de offisielle språkene, i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger,det offisielle sertifikatet skal være gyldig i høyst fire måneder fra utstedelsesdatoen, men uansett ikke lenger enn seks måneder fra datoen for resultatene av laboratorieanalysene nevnt i artikkel 10 nr. 1,
+1\. Hver forsendelse av næringsmidler og fôr som er oppført i vedlegg II, skal ledsages av et offisielt sertifikat i samsvar med malen angitt i vedlegg IV («offisielt sertifikat»).
 
-3. Som unntak fra bokstav i) i annet ledd, kan en medlemsstat samtykke at offisielle sertifikater kan utarbeides på ett annet offisielt EU-språk, og hvis nødvendig følges av en bekreftet oversettelse.
+2\. Det offisielle sertifikatet skal oppfylle følgende kravdet offisielle sertifikatet skal utstedes av vedkommende myndighet i opprinnelsestredjestaten eller i den tredjestaten som forsendelsen er sendt fra, dersom nevnte stat er en annen enn opprinnelsesstaten,det offisielle sertifikatet skal være påført identifikasjonskoden til forsendelsen som den er tilknyttet nevnt i artikkel 9 nr. 1,det offisielle sertifikatet skal være påført underskriften til sertifikatutstederen og det offisielle stempelet,dersom det offisielle sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av sertifikatutstederen, eller slettes helt fra sertifikatet,det offisielle sertifikatet skal bestå av ett av følgende alternativerett enkelt ark ellerflere ark som utgjør et integrert hele og ikke kan deles opp, ellerflere sammenhengende sider som er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge,dersom det offisielle sertifikatet består av flere sammenhengende sider, som nevnt i bokstav e) (iii) i dette leddet, skal hver side angi den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i [forordning (EU) 2017/625](eu/32017r0625) og være påført underskriften til sertifikatutstederen og det offisielle stempelet,det offisielle sertifikatet skal fremlegges for vedkommende myndighet ved grensekontrollstasjonen der forsendelsen er gjenstand for offentlig kontroll,det offisielle sertifikatet skal utstedes før forsendelsen det gjelder, forlater vedkommende myndigheters kontroll i tredjestaten som utsteder sertifikatet,det offisielle sertifikatet skal utarbeides på det offisielle språket, eller ett av de offisielle språkene, i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger,det offisielle sertifikatet skal være gyldig i høyst fire måneder fra utstedelsesdatoen, men uansett ikke lenger enn seks måneder fra datoen for resultatene av laboratorieanalysene nevnt i artikkel 10 nr. 1,
 
-4. Fargen på underskriften og det offisielle stemplet som er nevnt i annet ledd bokstav c), unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.
+3\. Som unntak fra bokstav i) i annet ledd, kan en medlemsstat samtykke at offisielle sertifikater kan utarbeides på ett annet offisielt EU-språk, og hvis nødvendig følges av en bekreftet oversettelse.
 
-5. Bokstavene c) til g) i annet ledd og fjerde ledd får ikke anvendelse for elektroniske offisielle sertifikater som er utstedt i samsvar med reglene fastsatt i artikkel 39 nr. 1 i gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715)*.
+4\. Fargen på underskriften og det offisielle stemplet som er nevnt i annet ledd bokstav c), unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.
 
-6. Bokstavene d), e) og f) i annet ledd får ikke anvendelse på offisielle sertifikater som utstedes i papirformat og som fullføres i, og skrives ut fra TRACES.
+5\. Bokstavene c) til g) i annet ledd og fjerde ledd får ikke anvendelse for elektroniske offisielle sertifikater som er utstedt i samsvar med reglene fastsatt i artikkel 39 nr. 1 i gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715)\*.
 
-7. Vedkommende myndigheter kan utstede et offisielt erstatningssertifikat bare i samsvar med reglene fastsatt i artikkel 6 i gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)**.
+6\. Bokstavene d), e) og f) i annet ledd får ikke anvendelse på offisielle sertifikater som utstedes i papirformat og som fullføres i, og skrives ut fra TRACES.
 
-8. Det offisielle sertifikatet skal fylles ut på grunnlag av merknadene angitt i vedlegg IV.
+7\. Vedkommende myndigheter kan utstede et offisielt erstatningssertifikat bare i samsvar med reglene fastsatt i artikkel 6 i gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235)\*\*.
+
+8\. Det offisielle sertifikatet skal fylles ut på grunnlag av merknadene angitt i vedlegg IV.
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om regler om funksjonen av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter (IMSOC-forordningen) (EUT L 261 av 14.10.2019, s. 37). Gjennomført i norsk rett i [forskrift 9. mars 2020 nr. 715 om offentlig kontroll – IMSOC – forordning (EU) 2019/1715](forskrift/2020-03-09-715).\*\* Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til modellsertifikater for dyrehelse, offentlige sertifikater og kombinerte dyrehelse/offentlige sertifikater, til bruk ved innførsel til Unionen og transport innen Unionen av forsendelser av visse kategorier av dyr og produkter, samt offentlig sertifisering med hensyn til slike sertifikater, og oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019*0628), direktiv [98/68/EF](eu/31998l0068), samt beslutning [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007*0240) (EUT L 442 av 30.12.2020, s. 1).
+
+◄ **M2**
+
+► **M1**
 
 ### Artikkel 11a. Forbud mot innførsel til unionen
 
-1. Medlemsstatene skal forby innførsel av næringsmidler og fôr nevnt i vedlegg IIa til unionen.
+1\. Medlemsstatene skal forby innførsel av næringsmidler og fôr nevnt i vedlegg IIa til unionen.
 
-2. Første ledd skal omfatte næringsmidler og fôr som er beregnet på å bringes i omsetning, og næringsmidler og fôr beregnet på eget forbruk eller bruk innenfor Unionens tollområde.◄ **M1**
+2\. Første ledd skal omfatte næringsmidler og fôr som er beregnet på å bringes i omsetning, og næringsmidler og fôr beregnet på eget forbruk eller bruk innenfor Unionens tollområde.◄ **M1**
 
 ### AVSNITT 4
 SLUTTBESTEMMELSER
 
 ### Artikkel 12. Ajourføring av vedlegg
 
+► **M3**
+
 Kommisjonen skal gjennomgå listene fastsatt i vedlegg I, II og IIa regelmessig, og minst hver sjette måned, for å ta hensyn til nye opplysninger om risikoer og manglende samsvar.
+
+◄ **M3**
 
 ### Artikkel 13. Oppheving
 
-1. Forordning [(EF) nr. 669/2009](eu/32009r0669), (EF) [nr. 884/2014](eu/32014r0884), (EU) [2017/186](eu/32017r0186), (EU) [2015/175](eu/32015r0175) og (EU) [2018/1660](eu/32018r1660) oppheves med virkning fra 14. desember 2019.
+1\. Forordning [(EF) nr. 669/2009](eu/32009r0669), (EF) [nr. 884/2014](eu/32014r0884), (EU) [2017/186](eu/32017r0186), (EU) [2015/175](eu/32015r0175) og (EU) [2018/1660](eu/32018r1660) oppheves med virkning fra 14. desember 2019.
 
-2. Henvisninger til forordning [(EF) nr. 669/2009](eu/32009r0669), (EU) [nr. 884/2014](eu/32014r0884), (EU) [2017/186](eu/32017r0186), (EU) [2015/175](eu/32015r0175) og (EU) [2018/1660](eu/32018r1660) skal forstås som henvisninger til denne forordning.
+2\. Henvisninger til forordning [(EF) nr. 669/2009](eu/32009r0669), (EU) [nr. 884/2014](eu/32014r0884), (EU) [2017/186](eu/32017r0186), (EU) [2015/175](eu/32015r0175) og (EU) [2018/1660](eu/32018r1660) skal forstås som henvisninger til denne forordning.
 
-3. Henvisninger til «utpekt innførselssted i henhold til artikkel 3 bokstav b) i forordning [(EF) nr. 669/2009](eu/32009r0669)» eller «utpekt innførselssted» i andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til en «grensekontrollstasjon» som definert i artikkel 3 nr. 38 i forordning [(EU) 2017/625](eu/32017r0625*).
+3\. Henvisninger til «utpekt innførselssted i henhold til artikkel 3 bokstav b) i forordning [(EF) nr. 669/2009](eu/32009r0669)» eller «utpekt innførselssted» i andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til en «grensekontrollstasjon» som definert i artikkel 3 nr. 38 i forordning [(EU) 2017/625](eu/32017r0625*).
 
-4. Henvisninger til «felles innførselsdokument (CED) nevnt i artikkel 3 bokstav a) i forordning [(EF) nr. 669/2009](eu/32009r0669)», «felles innførselsdokument (CED) nevnt i vedlegg II til forordning [(EF) nr. 669/2009](eu/32009r0669)» eller «felles innførselsdokument (CED)» i andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til «CHED-dokumentet» (felles innførselsdokument om helse eller hygiene) nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*).
+4\. Henvisninger til «felles innførselsdokument (CED) nevnt i artikkel 3 bokstav a) i forordning [(EF) nr. 669/2009](eu/32009r0669)», «felles innførselsdokument (CED) nevnt i vedlegg II til forordning [(EF) nr. 669/2009](eu/32009r0669)» eller «felles innførselsdokument (CED)» i andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til «CHED-dokumentet» (felles innførselsdokument om helse eller hygiene) nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*).
 
-5. Henvisninger til definisjonen fastsatt i artikkel 3 bokstav c) i forordning [(EF) nr. 669/2009 i](eu/32009r0669) andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til definisjonen av «forsendelse» fastsatt i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*).
+5\. Henvisninger til definisjonen fastsatt i artikkel 3 bokstav c) i forordning [(EF) nr. 669/2009 i](eu/32009r0669) andre rettsakter enn dem som er nevnt i nr. 1, skal forstås som henvisninger til definisjonen av «forsendelse» fastsatt i artikkel 3 nr. 37 i forordning [(EU) 2017/625](eu/32017r0625*).
 
 ### Artikkel 14. Overgangsperiode
 
-Forsendelser med arakidonsyreolje fra Kina, som er avsendt fra opprinnelsesstaten eller en annen stat, hvis denne er en annen enn opprinnelsesstaten, før datoen for ikrafttredelse av Kommisjonens gjennomføringsforordning [(EU) 2026/459](eu/32026r0459)*, kan innføres til Unionen frem til 26. april 2026 å følges av resultater av prøvetaking og analyse og offisielle sertifikater som angitt i artikkel 10 og 11.
+►**M14**
+
+Forsendelser med arakidonsyreolje fra Kina, som er avsendt fra opprinnelsesstaten eller en annen stat, hvis denne er en annen enn opprinnelsesstaten, før datoen for ikrafttredelse av Kommisjonens gjennomføringsforordning [(EU) 2026/459](eu/32026r0459)\*, kan innføres til Unionen frem til 26. april 2026 å følges av resultater av prøvetaking og analyse og offisielle sertifikater som angitt i artikkel 10 og 11.
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2026/459](eu/32026r0459) av 24. februar 2026 om endring av gjennomføringsforordning [(EU) 2019/1793](eu/32019r1793) om midlertidig strengere offentlig kontroll og beskyttelsestiltak ved innførsel til Unionen av visse varer fra visse tredjestater, om gjennomføring av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) og [(EF) nr. 178/2002](eu/32002r0178) (OJ L av 25.02.2026).
+
+◄**M14**
 
 ### Artikkel 15. Ikrafttredelse og anvendelsesdato
 
@@ -272,14 +358,313 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 22. oktober 2019.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG I
 Nærings­midler og fôr av ikke-animalsk opprinnelse fra visse tredjestater som omfattes av midlertidig strengere offentlig kontroll på grensekontrollstasjoner og kontrollsteder
+
+►**M15**
+
+| *Rad* | *Opprinnelses­stat* | *Fôrvarer og nærings­midler (tiltenkt bruk)* | *KN-kode*1 | *TARIC – inndeling*a | *Norske varenummer* | *Risiko* | *Hyppighet av fysiske kontroller og identitets­kontroller (%)* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Argentina (AR)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 |  |  |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt eller konservert på annen måte | 2008 11 91 |  | 20.08.1180;<br>20.08.1191; |  |  |  |  |
+| 2008 11 96 |  |  |  |  |  |  |  |
+| 2008 11 98 |  |  |  |  |  |  |  |
+| Oljekaker og andre faste restprodukter, også malt eller i form av pellets, som følge av utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 | Aflatoksiner | 20 |  |  |
+| Jordnøttmel | ex 1208 90 00<br>12.08.9090 | 20 | 12.08.9010 |  |  |  |  |
+| Jordnøttpasta | ex 2007 10 10 | 80 | 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+|  | ex 2007 99 39 | 50 |  |  |  |  |  |
+|  | ex 2007 99 39 | 07; 08 |  |  |  |  |  |
+| 2 | **Aserbajdsjan (AZ)**<br><br><br>**(Nærings­midler)** | Hasselnøtter (*Corylus sp.*), med skall | 0802 21 00 |  | 08.02.2100 | Aflatoksiner | 20 |
+| Hasselnøtter (*Corylus sp.*), uten skall | 0802 22 00 |  | 08.02.2200 |  |  |  |  |
+| Blandinger av nøtter eller tørket frukt som inneholder hasselnøtter | ex 0813 50 39;<br>ex 0813 50 91;<br>ex 0813 50 99 | 70<br>70<br>70 | ex 08.13.5010;<br>ex 08.13.5091;<br>ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |  |
+| Pasta av hasselnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97 | 70<br>40<br>05; 06<br>33<br>23 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| Hasselnøtter, tilberedt/konservert, herunder blandinger | ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99;<br>ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98 | 30<br>30<br>30<br>20<br>30<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15 | ex 20.08.1900;<br>ex 20.08.9701;<br>ex 20.08.9709 |  |  |  |  |
+| Mel og pulver av hasselnøtter | ex 1106 30 90 | 40 | ex 11.06.3090 |  |  |  |  |
+| Hasselnøttolje | ex 1515 90 99 | 20 | ex 15.15.9099 |  |  |  |  |
+| 3 | **Bangladesh (BD)**<br><br><br>**(Nærings­midler)** | Hjelmbønner (*Lablab purpureus*) | ex 0708 90 00 | 30 | ex 07.08.9000 | Rester av plantevern­midler3 | 30 |
+| **Bangladesh (BD)**<br><br><br>**(Nærings­midler)** | Jara sitroner (zara) (*Citrus medica*) | ex 0805 90 00 | 20 | ex 08.05.9090 | Rester av plantevern­midler3 | 20 |  |
+| 4 | **Burkina Faso (BF)**<br><br><br>**(Nærings­midler)** | Afrikansk eggplante / afrikansk aubergine (*Solanum aethiopicum*) | ex 0709 30 00 | 70 | ex 07.09.3000 | Rester av plantevern­midler3 | 30 |
+| 5 | **Elfenbenskysten (CI)**<br><br><br>**(Nærings­midler)** | Palmeolje12 | 1511 10 90;<br>1511 90 11;<br>ex 1511 90 19;<br>1511 90 99 | 90 | ex 15.11.1090;<br>ex 15.11.9020;<br>ex 15.11.9099 | Sudan-fargestoff14 | 30 |
+| 6 | **Kina (CN)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 10 |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte | 2008 11 91;<br>2008 11 96;<br>2008 11 98 |  | 20.08.1180;<br>20.08.1191 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| **Kina (CN)**<br><br><br>**(Nærings­midler – knuste eller malte)** | Pepperfrukter (søte) (*Capsicum annuum*) | ex 0904 22 00 | 11 | ex 09.04.2200 | Salmonella4 | 10 |  |
+| **Kina (CN)**<br><br><br>**(Nærings­midler)** | Te, også tilsatt smaksstoffer | 0902 |  | 09.02 | Rester av plantevern­midler3 5 | 20 |  |
+| 7 | **Columbia (CO)**<br><br><br>**(Nærings­midler)** | Granadilla og pasjonsfrukt (*Passiflora ligularis og Passiflora edulis*) | ex 0810 90 20 | 40; 50 | ex 08.10.9090 | Rester av plantevern­midler3 | 20 |
+| 8 | **Den dominikanske republikk (DO)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (søte og annet) (*Capsicum annuum & Capsicum* spp.) | 0709 60 10;<br>ex 0709 60 99;<br>0710 80 51;<br>ex 0710 80 59 | 20<br><br>20 | 07.09.6010;<br>07.09.6020;<br>ex 07.09.6090;<br>07.10.8095;<br>ex 07.10.8099 | Rester av plantevern­midler3 16 | 50 |
+| 9 | **Egypt (EG)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (søte og annet) (*Capsicum annuum & Capsicum* spp.) | 0709 60 10;<br>ex 0709 60 99;<br>0710 80 51;<br>ex 0710 80 59 | 20<br><br>20 | 07.09.6010;<br>07.09.6020;<br>ex 07.09.6090;<br>07.10.8095;<br>ex 07.10.8099 | Rester av plantevern­midler3 6 | 30 |
+| **Egypt (EG)**<br><br><br>**(Nærings­midler – friske eller tørkede)** | Appelsiner | 0805 10 |  | 08.05.1090 | Rester av plantevern­midler3 | 10 |  |
+| **Egypt (EG)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Søtannona (*Annona squamosa*) | ex 0810 90 75 | 20 | ex 08.10.9090 | Rester av plantevern­midler3 | 30 |  |
+| **Egypt (EG)**<br><br><br>**(Nærings­midler)** | Vinblader | ex 2008 99 99 | 11; 99 | ex 20.08.9909 | Rester av plantevern­midler3 | 50 |  |
+| **Egypt (EG)**<br><br><br>**(Nærings­midler)** | Mango (*Mangifera indica*) | ex 0804 50 00 | 40 | 08.04.5002 | Rester av plantevern­midler3 | 20 |  |
+| **Egypt (EG)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Jordbær | 0810 10 00;<br>0811 10 |  | 08.10.1011;<br>08.10.1023;<br>08.10.1024;<br>08.10.1025;<br>08.10.1030;<br>08.10.1040;<br>08.11.1000 | Rester av plantevern­midler3 | 20 |  |
+| 10 | **Etiopia (ET)**<br><br><br>**(Nærings­midler)** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19;<br>ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella2 | 50 |
+| **Etiopia (ET)**<br><br><br>**(Nærings­midler – tørkede krydder)** | Pepperfrukter av slekten *Piper*; tørkede, knuste eller malte frukter av slekten *Capsicum* eller *Pimenta* | 0904 |  | 09.04 | Aflatoksiner | 30 |  |
+| Ingefær, safran, gurkemeie (kurkuma), timian, laurbærblad, karri og andre krydderier | 0910 |  | 09.10 |  |  |  |  |
+| 11 | **Georgia (GE)**<br><br><br>**(Nærings­midler)** | Hasselnøtter (Corylus sp.), med skall | 0802 21 00 |  | 08.02.2100 | Aflatoksiner | 20 |
+| Hasselnøtter (Corylus sp.), uten skall | 0802 22 00 |  | 08.02.2200 |  |  |  |  |
+| Blandinger av nøtter eller tørket frukt som inneholder hasselnøtter | ex 0813 50 39;<br>ex 0813 50 91;<br>ex 0813 50 99 | 70<br>70<br>70 | ex 08.13.5010;<br>ex 08.13.5091;<br>ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |  |
+| Pasta av hasselnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97 | 70<br>40<br>05; 06<br>33<br>23 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| Hasselnøtter, tilberedt/konservert, herunder blandinger | ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99;<br>ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98 | 30<br>30<br>30<br>20<br>30<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15<br>15 | ex 20.08.1900;<br>ex 20.08.9701;<br>ex 20.08.9709 |  |  |  |  |
+| Mel og pulver av hasselnøtter | ex 1106 30 90 | 40 | ex 11.06.3090 |  |  |  |  |
+| Hasselnøttolje | ex 1515 90 99 | 20 | ex 15.15.9099 |  |  |  |  |
+| 12 | **Ghana (GH)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 50 |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte, inkludert blandinger | 2008 11 91;<br>2008 11 96;<br>2008 11 98;<br>ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99 | 40<br>50<br>40<br>40<br>50 | 20.08.1180;<br>20.08.1191;<br>ex 20.08.1900 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| 13 | **Israel (IL)**15<br><br><br>**(Nærings­midler)** | Basilikum (*Ocimum basilicum*) | ex 1211 90 86 | 20 | ex 12.11.9000 | Rester av plantevern­midler3 | 10 |
+| 14 | **India (IN)**<br><br><br>**(Nærings­midler)** | Betelblader (paanblader) (Piper betle L.) | ex 1404 90 0011 | 10 | ex 14.04.9000 | Salmonella4 | 50 |
+| **India (IN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Okra | ex 0709 99 90<br>ex 0710 80 95 | 20<br>30 | ex 07.09.9990<br>ex 07.10.8099 | Rester av plantevern­midler3 7 | 30 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)** | Ris | 1006 |  | 10.06 | Rester av plantevern­midler3 | 10 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)** | Guava (*Psidium guajava*) | ex 0804 50 00 | 30 | ex 08.04.5009 | Rester av plantevern­midler3 | 30 |  |
+| **India (IN)**<br><br><br><br>**(Nærings­midler)** | Spisskummen frø | 0909 31 00 |  | ex 09.09.3100 | Rester av plantevern­midler3 | 50 |  |
+| Spisskummen frø, malte eller knuste | 0909 32 00 |  | ex 09.09.3200 |  |  |  |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)** | Blandinger av tilsetningsstoffer som inneholder johannesbrødkjernemel eller guarkjernemel | ex 2106 90 92;<br>ex 2106 90 98;<br>ex 3824 99 93;<br>ex 3824 99 96 |  | ex 21.06.9098;<br>ex 38.24.9901;<br>ex 38.24.9909 | Rester av plantevern­midler13 | 20 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – tørkede krydder)** | Pepper (av slekten *Piper*), tørkede, knuste eller malte frukter av slekten *Capsicum* eller slekten *Pimenta* | 0904 |  | 09.04 | Rester av plantevern­midler13 | 20 |  |
+| **India (IN)**<br><br><br>**(Fôrvarer og næringsmidler)** | Kalsiumkarbonat | ex 2106 90 92; ex 2106 90 98;<br>ex 2530 90 00;<br>ex 2836 50 00 | 55<br>60<br>10 | ex 21.06.9098;<br>ex 25.30.9000;<br>ex 28.36.5000 | Rester av plantevern­midler13 | 30 |  |
+| **India (IN)**<br><br>**(Nærings­midler – tørkede krydder)** | Kanel og kanelblomster | 0906 |  | 09.06 | Rester av plantevern­midler9 | 20 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Flaskegresskar (*Lagenaria siceraria*) | ex 0709 93 90 | 10 | ex 07.09.9309 | Rester av plantevern­midler3 | 20 |  |
+| 15 | **Kenya (KE)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Bønner (*Vigna* spp., *Phaseolus* spp.) | 0708 20 |  | 07.08.2001;<br>07.08.2009 | Rester av plantevern­midler3 | 10 |
+| **Kenya (KE)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99;<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler3 | 20 |  |
+| 16 | **Sri Lanka (LK)**<br><br><br>**(Nærings­midler)** | Mukunuwenna (*Alternanthera sessilis*) | ex 0709 99 90 | 35 | ex 07.09.9990 | Rester av plantevern­midler3 | 50 |
+| **Sri Lanka (LK)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Langbønner<br>(*Vigna unguiculata* spp. *sesquipedalis, Vigna unguiculata* spp. *unguiculata*) | ex 0708 20 00;<br>ex 0710 22 00 | 10<br>10 | ex 07.08.2009;<br>ex 07.10.2209 | Rester av plantevern­midler3 | 50 |  |
+| **Sri Lanka (LK)**<br><br><br>**(Nærings­midler – tørkede, ristede, knuste eller malte)** | Pepperfrukter (søte og annet) (*Capsicum* spp.) | 0904 21 10;<br>ex 0904 21 90;<br>ex 0904 22 00;<br>ex 2005 99 10<br>ex 2005 99 80 | 20<br>11; 19<br>10; 90<br>94 | ex 09.04.2100;<br>ex 09.04.2200;<br>ex 20.05.9901;<br>ex 20.05.9908 | Aflatoksiner | 50 |  |
+| 17 | **Madagaskar (MG)**<br><br><br>**(Nærings­midler)** | Sortøyebønner (*Vigna unguiculata*) | 0713 35 00 |  | ex 07.13.3500 | Rester av plantevern­midler3 | 50 |
+| 18 | **Mexico (MX)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Grønn papaya (*Carica papaya*) | 0807 20 00 |  | ex 08.07.2000 | Rester av plantevern­midler3 | 20 |
+| 19 | **Malaysia (MY)**<br><br><br>**(Nærings­midler – friske)** | Jackfrukt (*Artocarpus heterophyllus*) | ex 0810 90 20 | 20 | ex 08.10.9090 | Rester av plantevern­midler3 | 50 |
+| 19 | **Pakistan (PK)**<br><br><br>**(Nærings­midler)** | Krydderblandinger | 0910 91 10;<br>0910 91 90 |  | 09.10.9109 | Aflatoksiner | 30 |
+| **Pakistan (PK)**<br><br><br>**(Nærings­midler)** | Ris | 1006 |  | 10.06 | Aflatoksiner og Okratoksin A<br><br>Rester av plantevern­midler3 | 10<br><br><br><br><br>10 |  |
+| 20 | **Rwanda (RW)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99;<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler3 | 50 |
+| 21 | **Syria (SY)**<br><br><br>**(Nærings­midler)** | Tahini og halva fra sesamfrø | ex 1704 90 99;<br>ex 1806 20 95;<br>ex 1806 90 50;<br>ex 1806 90 60;<br>ex 2008 19 19;<br>ex 2008 19 99 | 12; 92<br>13; 93<br>10<br>11; 91<br>41<br>41 | ex 17.04.9099;<br>ex 18.06.2090;<br>ex 18.06.9091;<br>ex 18.06.9099;<br>ex 20.08.1900 | Salmonella2 | 50 |
+| 22 | **Thailand (TH)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99;<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler3 8 | 50 |
+| **Thailand (TH)**<br><br><br>**(Nærings­midler – friske)** | Granadilla og pasjonsfrukt (*Passiflora ligularis og Passiflora edulis*) | ex 0810 90 20 | 40; 50 | ex 08.10.9090 | Rester av plantevern­midler3 | 10 |  |
+| 23 | **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske, kjølte eller tørkede)** | Sitroner (*Citrus limon, Citrus limonum*) | 0805 50 10 |  | 08.05.5020 | Rester av plantevern­midler3 | 20 |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Granatepler | ex 0810 90 75 | 30 | ex 08.10.9090 | Rester av plantevern­midler3 9 | 30 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (søte og annet) (*Capsicum* spp.) | 0709 60 10;<br>ex 0709 60 99;<br>0710 80 51;<br>ex 0710 80 59 | 20<br><br>20 | 07.09.6010;<br>07.09.6020;<br>ex 07.09.6090;<br>07.10.8095;<br>ex 07.10.8099 | Rester av plantevern­midler3 10 | 20 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Tørket oregano | ex 1211 90 86 | 40 | ex 12.11.9000 | Pyrrolizidin-alkaloider | 30 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19;<br>ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella2 | 30 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Tomater (*Solanum lycopersicum L.*) | 0702;<br>0710 80 70 |  | 07.02;<br>ex 07.10.8099 | Rester av plantevern­midler3 | 20 |  |
+| 24 | **Uganda (UG)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99;<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler3 | 50 |
+| 25 | **USA (US)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 20 |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte | 2008 11 91;<br>2008 11 96;<br>2008 11 98 |  | 20.08.1180;<br>20.08.1191 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| 26 | **Vietnam (VN)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Durian (*Durio zibethius*) | 0810 60 00 |  | 08.10.6000 | Rester av plantevern­midler3 | 20 |
+
+1 Når bare visse produkter i en underposisjon skal undersøkes, og det ikke finnes noen særskilt varenummer i [tolltariffen](forskrift/2025-12-16-2594), står det «ex» foran underposisjonen.
+
+2 Prøvetaking og analyse skal gjennomføres i samsvar med prosedyrene og referansemetodeene gitt i punkt 1(a) til vedlegg III i denne rettsakten.
+
+3 Som et minimum, rester av plantevernmidler som listet opp i kommisjonens gjennomføringsforordning som er vedtatt med hjemmel i artikkel 29(2) i Europaparlaments- og Rådsforordning [(EF) nr. 396/2005](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på Næringsmidler og fôr av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (OJ L 70, 16.3.2005, s. 1), som kan analyseres ved multirest-metoder basert på GC-MS OG LC-MS (plantevernmidler som skal overvåkes i og på produkter av vegetabilsk opprinnelse). Se forordning [(EU) 2024/989](eu/32024r0989), gjennomført i [forskrift 19. mai 2022 nr. 902 om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer](forskrift/2022-05-19-902).
+
+4 Prøvetaking og analyse skal gjennomføres i samsvar med prosedyrene og referansemetodene gitt i punkt 1(b) til vedlegg III i denne rettsakten.
+
+5 Rester av: tolfenpyrad.
+
+6 Rester av: dikofol (summen av p, p’ og o,p’ isomerer), dinotefuran, folpet, prokloraz (summen av prokloraz og dens metabolitter inneholdende 2,4,6-triklorofenol-gruppen, uttrykt som prokloraz), tiofanatmetyl og triforin.
+
+7 Rester av: diafentiuron.
+
+8 Rester av: formetanat (summen av formetanat og dets salter uttrykt som formetanat(hydroklorid)), protiofos og triforin.
+
+9 Rester av: prokloraz.
+
+10 Rester av: diafentiuron, formetanat (summen av formetanat og dets salter uttrykt som formetanat(hydroklorid)) og tiofanatmetyl.
+
+11 Næringsmidler som inneholder eller består av betelblader/paan-blader (‘Piper betle’) inkludert, men ikke begrenset til, de som erklært under varenummer 14.04.9000 (KN: 1404 90 00).
+
+12 *Næringsmidler pakket for direkte konsum.*
+
+13 Rester av etylenoksid (summen av etylenoksid og 2-kloretanol, uttrykt som etylenoksid). For tilsetningsstoffer, MRL som skal benyttes er 0.1 mg/kg (grense for sikker kvantifikasjon (LOQ). Forbud mot bruk av etylenoksid gitt i kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) (OJ L 83, 22.3.2021, p. 1).
+
+14 I dette vedlegget viser «sudan-fargestoff» til følgende kjemiske stoffer: (i) Sudan 1 (CAS Nummer 842-07-9); (ii) Sudan II (CAS Nummer 3118-97-6); (iii) Sudan III (CAS Nummer 85-86-9); (iv) Skarlagenrød; eller Sudan IV (CAS Nummer 85-83-6). Rester av sudan-fargestoff, analysert ved en LOQ-metode, skal være lavere enn 0,5 mg/kg.
+
+15 Heretter forstått som Staten Israel, ekskludert områdene som er underlagt Israelsk styre etter 5. juni 1967, dette omfatter Golanhøydene, Gaza-stripen, Øst-Jerusalem og resten av Vestbredden.
+
+16 Rester av: acefat.
+
+a TARIC er en nærmere inndeling av produktgrupper i tillegg til KN-koden. TARIC er et internt system for EU som er knyttet til tollområdet.
+
+◄**M15**
+
+►**M15**
 
 ### VEDLEGG II
 Nærings­midler og fôr fra visse tredjestater som er underlagt særlige vilkår for innførsel til Unionen på grunn av risiko for forurensning med mykotoksiner, herunder aflatoksiner, cereulidtoksin, plantevernmiddelrester, mikrobiologisk forurensning, Sudan-fargestoffer og plantetoksiner
 
+◄**M15**
+
+►**M15**
+
+**1. Nærings­midler og fôrvarer av ikke-animalske opprinnelse nevnt i art. 1(1)(b)(i)**
+
+| *Rad* | *Opprinnelses­stat* | *Fôrvarer og nærings­midler (tiltenkt bruk)* | *KN-kode*17 | *TARIC­ – inndeling* | *Norske varenummer* | *Risiko* | *Hyppighet av fysiske kontroller og identitets­kontroller (%)* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | **Bangladesh (BD)**<br><br><br>**(Nærings­midler)** | Nærings­midler som inneholder eller består av Betelblader (paanblader) (Piper betle L.) | 1404 90 0024 | 10 | ex 14.04.9000 | Salmonella21 | 50 |
+| 2 | **Bolivia (BO)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 50 |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte | 2008 11 91;<br>2008 11 96;<br>2008 11 98;<br>ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99 | 40<br>50<br>40<br>40<br>50 | 20.08.1180;<br>20.08.1191;<br>ex 20.08.1900 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| 3 | **Brasil (BR)**<br><br><br>**(Nærings­midler – ikke knuste eller malte)** | Svart pepper (*Piper nigrum*) | ex 0904 11 00 | 10 | ex 09.04.1100 | Salmonella18 | 30 |
+| 4 | **Kina (CN)**<br><br><br>**(Fôrvarer og nærings­midler)** | Xantangummi | ex 3913 90 00 | 40 | ex 39.13.9000 | Rester av plantevern­midler25 | 20 |
+|  |  | Arakidonsyreolje (næringsmiddel) | ex 1517 90 99 | 30; 90 |  | Cereulidtoksin31 | 50 |
+| ex 1515 60 91 | 10 |  |  |  |  |  |  |
+| ex 1515 60 99 | 10 |  |  |  |  |  |  |
+| 5 | **Den dominikanske republikk (DO)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Auberginer (*Solanum melongena*) | 0709 30 00 | 05 | 07.09.3000 | Rester av plantevern­midler19 | 50 |
+| 6 | **Egypt (EG)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 30 |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte, inkludert blandinger | 2008 11 91;<br>2008 11 96;<br>2008 11 98;<br>ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99 | 40<br>50<br>40<br>40<br>50 | 20.08.1180;<br>20.08.1191;<br>ex 20.08.1900 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| 7 | **Ghana (GH)**<br><br><br>**(Nærings­midler)** | Palmeolje | 1511 10 90;<br>1511 90 11;<br>ex 1511 90 19;<br>1511 90 99 | 90 | ex 15.11.1090;<br>ex 15.11.9020;<br>ex 15.11.9099 | Sudan-fargestoff26 | 50 |
+| 8 | **Indonesia (ID)**<br><br><br>**(Nærings­midler – tørkede krydder)** | Muskat<br>(*Myristica fragrans*) | 0908 11 00;<br>0908 12 00 |  | 09.08.1100;<br>09.08.1200 | Aflatoksiner | 30 |
+| 9 | **India (IN)**<br><br><br>**(Nærings­midler – friske, kjølte, fryste eller tørkede)** | Karriblader (*Bergera / Murraya koenigii*) | ex 1211 90 86 | 10 | ex 12.11.9000 | Rester av plantevern­midler19 27 | 50 |
+| **India (IN)**<br><br><br>**(Fôrvarer og nærings­midler)** | Jordnøtter (peanøtter), med skall | 1202 41 00 |  | 12.02.4110;<br>12.02.4190 | Aflatoksiner | 50 |  |
+| Jordnøtter (peanøtter), uten skall | 1202 42 00 |  | 12.02.4210;<br>12.02.4290 |  |  |  |  |
+| Peanøttsmør | 2008 11 10 |  | 20.08.1110 |  |  |  |  |
+| Jordnøtter (peanøtter), tilberedt/konservert på annen måte, inkludert blandinger | 2008 11 91;<br>2008 11 96;<br>2008 11 98;<br>ex 2008 19 12;<br>ex 2008 19 19;<br>ex 2008 19 92;<br>ex 2008 19 95;<br>ex 2008 19 99 | 40<br>50<br>40<br>40<br>50 | 20.08.1180;<br>20.08.1191;<br>ex 20.08.1900 |  |  |  |  |
+| Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje | 2305 00 00 |  | 23.05.0010;<br>23.05.0090 |  |  |  |  |
+| Mel av jordnøtter (peanøtter) | ex 1208 90 00 | 20 | ex 12.08.9010;<br>ex 12.08.9090 |  |  |  |  |
+| Pasta av jordnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39 | 80<br>50<br>07; 08 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99;<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler19 20 | 30 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)midler** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19;<br>ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella21 | 30 |  |
+| **India (IN)**<br><br><br>**(Fôrvarer og nærings­midler)midler** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19; ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Rester av plantevern­midler25 | 20 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – tørkede krydder)** | Muskatnøtt | 0908 11 00<br>0908 12 00 |  | 0908.11.00<br>0908.12.00 | Rester av plantevern­midler25 | 30 |  |
+|  | Muskatblomme | 0908 21 00<br>0908 22 00 |  | 0908.21.00<br>0908.22.00 | Rester av plantevern­midler25 | 30 |  |
+|  | Kardemomme | 0908 31 00<br>0908 32 00 |  | 0908.31.00<br>0908.32.00 | Rester av plantevern­midler25 | 30 |  |
+|  | Koriander | 0909 21 00<br>0909 22 00 |  | 0909.21.00<br>0909.22.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Spisskummen | 0909 31 00<br>0909 32 00 |  | 0909.31.00<br>0909.32.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Frø av anis, stjerneanis, karve eller fennikel, einerbær | 0909 61 00<br>0909 62 00 |  | 0909.61.00<br>0909.62.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Ingefær | 0910 11 00<br>0910 12 00 |  | 0910.11.00<br>0910.12.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Safran | 0910 20 10<br>0910 20 90 |  | 0910.20.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Gurkemeie | 0910 30 00 |  | 0910.20.00 | Rester av plantevern­midler25 | 20 |  |
+|  | Karri | 0910 91 05 |  | 0910.91.01 | Rester av plantevern­midler25 | 20 |  |
+|  | Bukkehornkløverfrø | 0910 99 10 |  | 0910.91.09 | Rester av plantevern­midler25 | 20 |  |
+|  | Timian | 0910 99 31<br>0910 99 33<br>0910 99 39 |  | 0910.91.09 | Rester av plantevern­midler25 | 20 |  |
+|  | Laurbærblad | 0910 99 50 |  | 0910.91.09 | Rester av plantevern­midler25 | 20 |  |
+|  | Andre krydder | 0910 99 91<br>0910 99 99<br>0910 91 10<br>0910 91 90 |  | 0910.99.00 | Rester av plantevern­midler25 | 20 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)** | Sauser og preparater for tillaging av sauser;<br>tilberedte smaksstoffer; sennepsmel og<br>tilberedt sennep | 2103 |  | 21.03 | Rester av plantevern­midler25 | 20 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler)** | Kosttilskudd som inneholder botaniske ingredienser28 | ex 1302;<br>ex 2106 |  | ex 13.02;<br>ex 21.06 | Rester av plantevern­midler25 | 10 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Moringa (drumsticks) (*Moringa oleifera*) | ex 0709 99 90;<br>ex 0710 80 95 | 10<br>75 | ex 07.09.9990;<br>ex 07.10.8099 | Rester av plantevern­midler19 | 30 |  |
+| **India (IN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne grønnsaker)** | Langbønner<br>(*Vigna unguiculata* spp. *sesquipedalis, vigna unguiculata* spp. *unguiculata*) | ex 0708 20 00;<br>ex 0710 22 00 | 10<br>10 | ex 07.08.2009;<br>ex 07.10.2209 | Rester av plantevern­midler19 | 50 |  |
+| 10 | **Iran (IR)**<br><br><br>**(Nærings­midler)** | Pistasjnøtter, med skall | 0802 51 00 |  | 08.02.5100 | Aflatoksiner | 50 |
+| Pistasjnøtter, uten skall | 0802 52 00 |  | 08.02.5200 |  |  |  |  |
+| Blanding av nøtter eller tørket frukt som inneholder pistasjnøtter | ex 0813 50 39;<br>ex 0813 50 91;<br>ex 0813 50 99; | 60<br>60<br>60 | ex 08.13.5010;<br>ex 08.13.5091;<br>ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |  |
+| Pasta av pistasjnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97 | 60<br>30<br>03; 04<br>32<br>22 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| Pistasjnøtter, tilberedt/konservert, herunder blandinger | ex 2008 19 13;<br>ex 2008 19 93;<br>ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98 | 20<br>20<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19 | ex 20.08.1900;<br>ex 20.08.9701;<br>ex 20.08.9709 |  |  |  |  |
+| Mel og pulver av pistasjnøtter | ex 1106 30 90 | 50 | ex 11.06.3090 |  |  |  |  |
+| 11 | **Sri Lanka (LK)**<br><br><br>**(Nærings­midler)** | Gotukola (*Centella asiatica*) | ex 1211 90 86 | 60 | ex 12.11.9000 | Rester av plantevern­midler19 | 50 |
+| 12 | **Nigeria (NG)**<br><br><br>**(Nærings­midler)** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19; ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella21 | 50 |
+| 13 | **Sudan (SD)**<br><br><br>**(Nærings­midler)** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19; ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella21 | 50 |
+| 14 | **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Tørkede fiken | 0804 20 90 |  | 08.04.2090 | Aflatoksiner og Okratoksin A | 30 |
+| Blanding av nøtter eller tørket frukt som inneholder fiken | ex 0813 50 99 | 50 | ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |  |
+| Tørket pasta av fiken | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97 | 50<br>20<br>01; 02<br>31<br>21 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |  |
+| Tørkede fiken, tilberedt/konservert, herunder blandinger | ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98;<br>ex 2008 99 28;<br>ex 2008 99 34;<br>ex 2008 99 37;<br>ex 2008 99 40;<br>ex 2008 99 49;<br>ex 2008 99 67;<br>ex 2008 99 99 | 11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>11<br>10<br>10<br>10<br>10<br>60<br>95<br>60 | ex 20.08.9701;<br>ex 20.08.9709;<br>ex 20.08.9909 |  |  |  |  |
+| Mel og pulver av tørkede fiken | ex 1106 30 90 | 60 | ex 11.06.3090 |  |  |  |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Pistasjnøtter, med skall | 0802 51 00 |  | 08.02.5100 | Aflatoksiner | 50 |  |
+|  | Pistasjnøtter, uten skall | 0802 52 00 |  | 08.02.5200 |  |  |  |
+|  | Blanding av nøtter eller tørket frukt som inneholder pistasjnøtter | ex 0813 50 39;<br>ex 0813 50 91;<br>ex 0813 50 99; | 60<br>60<br>60 | ex 08.13.5010;<br>ex 08.13.5091;<br>ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |
+|  | Pasta av pistasjnøtter | ex 2007 10 10;<br>ex 2007 10 99;<br>ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97 | 60<br>30<br>03; 04<br>32<br>22 | ex 20.07.1001;<br>ex 20.07.1008;<br>ex 20.07.9905;<br>ex 20.07.9909 |  |  |  |
+|  | Pistasjnøtter, tilberedt/konservert, herunder blandinger | ex 2008 19 13;<br>ex 2008 19 93;<br>ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98 | 20<br>20<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19 | ex 20.08.1900;<br>ex 20.08.9701;<br>ex 20.08.9709 |  |  |  |
+|  | Mel og pulver av pistasjnøtter | ex 1106 30 90 | 50 | ex 11.06.3090 |  |  |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Vinblader | ex 2008 99 99 | 11; 19 | ex 20.08.9909 | Rester av plantevern­midler19 22 | 50 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske eller tørkede)** | Mandariner (inkl. tangeriner og satsumas), klementiner, wilkings og liknende krysninger av sitrusfrukter | 0805 21;<br>0805 22 00;<br>0805 29 00 |  | 08.05.2190;<br>08.05.2290;<br>08.05.2990 | Rester av plantevern­midler19 | 10 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler – friske eller tørkede)** | Appelsiner | 0805 10 |  | 08.05.1090 | Rester av plantevern­midler19 | 20 |  |
+| **Tyrkia (TR)**<br><br><br>**(Nærings­midler)** | Aprikoskjerner, uforedlede hele, malte, freste, knekte, hakkede, beregnet på å bli sluppet på markedet til sluttbruker29 30 | ex 1212 99 95 | 20 | ex 12.12.9900 | Cyanid | 50 |  |
+| **Tyrkia (TR)**<br><br><br><br>**(Nærings­midler)** | Spisskummen frø | 0909 31 00 |  | ex 09.09.3100 | Pyrrolizidin-alkaloider | 50 |  |
+| Spisskummen frø, malte eller knuste | 0909 32 00 |  | ex 09.09.3200 |  |  |  |  |
+| 15 | **Uganda (UG)**<br><br><br>**(Nærings­midler)** | Sesamfrø | 1207 40 90;<br>ex 2008 19 19; ex 2008 19 99 | 49<br>49 | 12.07.4090;<br>ex 20.08.1900 | Salmonella21 | 30 |
+| 16 | **USA (US)**<br><br><br>**(Nærings­midler)** | Vanilje-ekstrakt | 1302 19 05 |  | ex 13.02.1909 | Rester av plantevern­midler25 | 20 |
+| 17 | **Vietnam (VN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Okra | ex 0709 99 90<br>ex 0710 80 95 | 20<br>30 | ex 07.09.9990<br>ex 07.10.8099 | Rester av plantevern­midler19 23 | 50 |
+| **Vietnam (VN)**<br><br><br>**(Nærings­midler – friske eller kjølte)** | Pitahaya (dragefrukt) | ex 0810 90 20 | 10 | ex 08.10.9090 | Rester av plantevern­midler19 23 | 30 |  |
+| **Vietnam (VN)**<br><br><br>**(Nærings­midler – friske, kjølte eller frosne)** | Pepperfrukter (annet enn søte) (*Capsicum* spp.) | ex 0709 60 99<br>ex 0710 80 59 | 20<br>20 | ex 07.09.6090;<br>ex 07.10.8099 | Rester av plantevern­midler19 23 | 50 |  |
+
+17 Dersom bare visse produkter under en KN-kode skal undersøkes, er KN-koden angitt med «ex».
+
+18 Prøvetakingen og analysene skal foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav b) i vedlegg III til denne forordning.
+
+19 Som et minimum, rester av plantevernmidler som listet opp i kommisjonens gjennomføringsforordning som er vedtatt med hjemmel i artikkel 29(2) i Europaparlaments- og Rådsforordning [(EF) nr. 396/2005](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av plantevernmidler i eller på Næringsmidler og fôr av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414) (OJ L 70, 16.3.2005, s. 1), som kan analyseres ved multirest-metoder basert på GC-MS OG LC-MS (plantevernmidler som skal overvåkes i og på produkter av vegetabilsk opprinnelse). Se forordning [(EU) 2024/989](eu/32024r0989), gjennomført i [forskrift 19. mai 2022 nr. 902 om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer](forskrift/2022-05-19-902).
+
+20 Rester av: karbofuran.
+
+21 Prøvetakingen og analysene skal foretas i samsvar med prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav a) i vedlegg III til denne forordning.
+
+22 Rester av ditiokarbamater (ditiokarbamater uttrykt som CS2, inkludert maneb, mankozeb, metiram, propineb, tiram og ziram) og metrafenon.
+
+23 Rester av ditiokarbamater (ditiokarbamater uttrykt som CS2, inkludert maneb, mankozeb, metiram, propineb, tiram og ziram), fentoat og kinalfos.
+
+24 Nærings­midler som inneholder eller består av betelblader/paan-blader (‘Piper betle’) inkludert, men ikke begrenset til, de som erklært under varenummer 14.04.9000 (KN: 1404 90 00).
+
+25 Rester av etylenoksid (summen av etylenoksid og 2-kloretanol, uttrykt som etylenoksid). For tilsetningsstoffer, MRL som skal benyttes er 0.1 mg/kg (grense for sikker kvantifikasjon (LOQ). Forbud mot bruk av etylenoksid gitt i kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) (OJ L 83, 22.3.2021, p. 1).
+
+26 I dette vedlegget viser «sudan-fargestoff» til følgende kjemiske stoffer: (i) Sudan 1 (CAS Nummer 842-07-9); (ii) Sudan II (CAS Nummer 3118-97-6); (iii) Sudan III (CAS Nummer 85-86-9); (iv) Skarlagenrød; eller Sudan IV (CAS Nummer 85-83-6). Rester av sudan-fargestoff, analysert ved en LOQ-metode, skal være lavere enn 0,5 mg/kg.
+
+27 Rester av: acefat.
+
+28 Omfatter både ferdige sluttprodukter og råmateriale som inneholder botaniske ingredienser, som er beregnet på produksjonen av kosttilskudd som er deklarert under varenumrene nevnt i kolonne «Norske varenummer».
+
+29 «Uforedlede produkter» som definert i Europaparlaments- og Rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (OJ L 139, 30.4.2004, p. 1), gjennomført i [forskrift 22. desember 2008 nr. 1623 om næringsmiddelhygiene (næringsmiddelhygieneforskriften)](forskrift/2008-12-22-1623).
+
+30 «Omsetning» og «sluttforbruker» som definert i Europaparlaments- og Rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (OJ L 31, 1.2.2002, p. 1), gjennomført i [forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften)](forskrift/2008-12-22-1620).
+
+31 TARIC er en nærmere inndeling av produktgrupper i tillegg til KN-koden. TARIC er et internt system for EU som er knyttet til tollområdet.
+
+**2. Nærings­midler og fôrvarer av ikke-animalske opprinnelse nevnt i art. 1(1)(b)(ii)**
+
+| *Rad* | *Opprinnelses­stat* | *Avsenderstat* | *Fôrvarer og nærings­midler (tiltenkt bruk)* | *KN-kode*32 | *TARIC inn­deling* | *Norske varenummer* | *Risiko* | *Hyppighet av fysiske kontroller og identitets­kontroller (%)* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | **USA (US)** | **Tyrkia (TR)**33 | Pistasjnøtter, med skall | 0802 51 00 |  | 08.02.5100 | Afla-toksiner | 50 |
+| Pistasjnøtter, uten skall | 0802 52 00 |  | 08.02.5200 |  |  |  |  |  |
+| Blanding av nøtter eller tørket frukt som inneholder pistasjnøtter | ex 0813 50 39;<br>ex 0813 50 91;<br>ex 0813 50 99; | 60<br>60<br>60 | ex 08.13.5010;<br>ex 08.13.5091:<br>ex 08.13.5092;<br>ex 08.13.5099 |  |  |  |  |  |
+| Pasta av pistasjnøtter | ex 2007 10 10;<br>ex 2007 10 99 | 60<br>30 | ex 20.07.1001;<br>ex 20.07.1008 |  |  |  |  |  |
+| Pistasjnøtter, tilberedt/konservert, herunder blandinger | ex 2007 99 39;<br>ex 2007 99 50;<br>ex 2007 99 97;<br>ex 2008 19 13;<br>ex 2008 19 93;<br>ex 2008 97 12;<br>ex 2008 97 14;<br>ex 2008 97 16;<br>ex 2008 97 18;<br>ex 2008 97 32;<br>ex 2008 97 34;<br>ex 2008 97 36;<br>ex 2008 97 38;<br>ex 2008 97 51;<br>ex 2008 97 59;<br>ex 2008 97 72;<br>ex 2008 97 74;<br>ex 2008 97 76;<br>ex 2008 97 78;<br>ex 2008 97 92;<br>ex 2008 97 93;<br>ex 2008 97 94;<br>ex 2008 97 96;<br>ex 2008 97 97;<br>ex 2008 97 98 | 03; 04<br>32<br>22<br>20<br>20<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19<br>19 | ex 20.07.9905;<br>ex 20.07.9909;<br>ex 20.08.1900;<br>ex 20.08.9701;<br>ex 20.08.9709 |  |  |  |  |  |
+| Mel og pulver av pistasjnøtter | ex 1106 30 90 | 50 | ex 11.06.3090 |  |  |  |  |  |
+| **(Nærings­midler)** |  |  |  |  |  |  |  |  |
+
+32 Dersom bare visse produkter under en KN-kode skal undersøkes, er KN-koden angitt med «ex».
+
+33 I samsvar med artiklene 10 og 11, skal forsendelsene følges av resultatene av prøvetaking og analyser som er gjennomført på forsendelsene, og det offisielle sertifikatet utstedt av staten som forsendelsen er sendt til Unionen fra.
+
+◄**M15**
+
 ### ► **M3** VEDLEGG IIa
 Næringsmidler og fôr fra visse stater utenfor EØS-området som skal underkastes forbud mot innførsel til unionen, som nevnt i artikkel 11a
+
+◄ **M3**
+
+| *Fôrvarer og næringsmidler (tiltenkt bruk)* | *KN-kode1* | *TARIC-*<br>*inndeling* | *Norske varenummer* | *Opprinnelsesstat* | *Risiko* |
+| --- | --- | --- | --- | --- | --- |
+| Næringsmidler som består av tørkede bønner | 0713 35 00;<br>0713 39 00;<br>0713 90 00 |  | 07.13.3500;<br>07.13.3900;<br>07.13.9000 | **Nigeria (NG)** | Rester av plantevernmidler |
+| **(*Næringsmidler*)** |  |  |  |  |  |
+
+1 Dersom bare visse produkter under en KN-kode skal undersøkes, er KN-koden angitt med «ex».
+
+◄**M2**
 
 ### VEDLEGG III
 
@@ -293,12 +678,18 @@ Minst 20 tonn5
 Salmonella i 25 g1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.Dersom det i vedlegg I eller II til denne forordning fastsettes anvendelse av prøvetakingsmetodene og referansemetodene for analyse fastsatt i nr. 1 bokstav b) i vedlegg III til denne forordning, får følgende regler anvendelse:**Referansemetode for analyse1****Forsendelsens vekt****Antall prøveenheter (n)****Prøvetakingsmetoder****Analyseresultat som kreves for hver prøveenhet i samme forsendelse**EN ISO 6579-1Hvilken som helst vekt5n prøveenheter på minst 100 gram hver samles inn. Dersom det identifiseres partier i CHED-dokumentet, skal prøveenhetene samles inn fra forskjellige, tilfeldig utvalgte partier i forsendelsen. Dersom det ikke kan identifiseres partier, samles prøveenhetene inn tilfeldig fra forsendelsen. Pooling av prøveenheter er ikke tillatt. Hver prøveenhet skal undersøkes separat.Ikke påvist
 Salmonella i 25 g
 
+1 Den siste versjonen av referansemetoden for analyse skal brukes, eller det skal brukes en metode som er validert mot den, i samsvar med protokollen fastsatt i EN ISO 16140-2.
+
 ### VEDLEGG IV
 Mal for offisielt sertifikat nevnt i artikkel 11 i Kommisjonens gjennomføringsforordning (EU) 2019/1793 til bruk ved innførsel til unionen av visse næringsmidler eller fôr
 
 For å lese vedlegg IV med offisielt sertifikat, og veileder, som skal benyttes, se pdf-filen for forordning [(EU) 2019/1793](eu/32019r1793) nedenfor (norsk utgave).
 
+► **M3**
+
 For å lese vedlegg IV med oppdatert offisielt sertifikat og veileder (på engelsk), som skal benyttes, se pdf-filen for forordning [(EU) 2021/1900](eu/32021r1900) nedenfor.
+
+◄ **M3**
 
 ## Forordninger i PDF
 

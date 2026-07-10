@@ -22,9 +22,15 @@ eu_basis: []
 
 # Lov om endringer i straffeprosessloven
 
+Endringer i følgende lov:
+
 - [Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven)](lov/1981-05-22-25).
 
 ## I
+
+I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-25) blir det gjort følgende endringer:
+
+[§ 449 første ledd](lov/1981-05-22-25/§449/ledd/1) skal lyde:
 
 Et krav om erstatning eller oppreisning etter straffeforfølgning skal settes frem for Statens sivilrettsforvaltning, som avgjør kravet. Statens sivilrettsforvaltning skal innhente sakens dokumenter og kan be påtalemyndigheten uttale seg om kravet. Statens sivilrettsforvaltnings avgjørelse er ikke et enkeltvedtak etter [forvaltningsloven](lov/1967-02-10).
 

@@ -36,6 +36,12 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften.
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/761](eu/32018r0761) av 16. februar 2018, som endret av forordning [(EU) 2020/782](eu/32020r0782), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 2. juli 2013 nr. 852 om gjennomføring av felles sikkerhetsmetode for tilsyn utført av nasjonal sikkerhetsmyndighet etter utstedelse av sikkerhetssertifikat eller sikkerhetsgodkjenning (tilsynsforskriften)](forskrift/2013-07-02-852).1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 798](forskrift/2022-05-06-798).
+
 ## Forordninger
 
 Forordningene er gyldige på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning [(EU) 2018/761](eu/32018r0761) se her: [(pdf)](static/SF/32018r0761e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2020/782](eu/32020r0782) se her: [(pdf)](static/SF/32020r0782e-01.pdf)

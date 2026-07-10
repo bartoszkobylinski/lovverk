@@ -152,17 +152,196 @@ Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves [forskrif
 
 ## Vedlegg I. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte dyr
 
+I. *Generelle opplysninger*
+
+1\. Navn og adresse laboratorium/anlegg:
+
+|  |  |
+| --- | --- |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+2\. Ansvarshavende for dyreenheten/anlegget:
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Kvalifikasjoner/utdannelse: |  |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+II. *Opplysninger om virksomheten*
+
+3\. Type organismer som genmodifiseres:
+
+|  |  |  |
+| --- | --- | --- |
+|  | [ ] | Vertebrater: |
+|  | [ ] | Invertebrater: |
+|  | [ ] | Akvatiske dyr: |
+
+4\. *Arbeidsoperasjonenes omfang og formål*
+
+III. *Sikkerhets- og inneslutningstiltak, avfallsbehandling*
+
+5\. Sikkerhetstiltakene er i overenstemmelse med forskriftens [§ 13](forskrift/2001-12-21-1602/§13).
+
+6\. Angi de enkelte inneslutningstiltak ved avkryssing
+
 Kravene til inneslutningstiltak skal oppfylles i den grad de er relevante for virksomheten. De generelle inneslutningstiltakene gjelder for vertebrater. For invertebrater og akvatiske dyr gjelder de spesifikke inneslutningstiltakene, samt de generelle inneslutningstiltakene.
+
+*Generelle inneslutningstiltak*
+
+*Anlegg/innredning*
+
+|  |  |
+| --- | --- |
+| [ ] | Dyrerom skal være adskilt fra tilknyttede rom med dører som låses utenom arbeidstid. |
+| [ ] | Gulv og/eller vegger skal være lett vaskbare. |
+| [ ] | Benker skal tåle vann, syre, alkaliske stoffer, løsemidler og desinfeksjonsmidler, dekontamineringsagenser og være lett å rengjøre. |
+| [ ] | Håndvask skal være tilgjengelig i enheten. |
+| [ ] | Enheten skal ha installert alarm for å kunne oppdage brann, feil ved ventilasjons- og varmeanlegg og inntrengere. |
+
+*Arbeid og utstyr*
+
+|  |  |
+| --- | --- |
+| [ ] | Kun autorisert personale har adgang. |
+| [ ] | Kun forsøksdyr er tillatt i enheten. |
+| [ ] | Egnet vernetøy benyttes. |
+| [ ] | Bur skal være vanntett, lett vaskbar og dekontaminerbar. |
+| [ ] | Inspeksjonsvindu i dør ved behov. |
+
+*Inneslutningstiltak*
+
+|  |  |
+| --- | --- |
+| [ ] | For å hindre reproduksjon, skal hanner og hunner innen samme art adskilles med dobbel barriere, separate bur eller lignende, så sant ikke reproduksjonsstudier/avl er en del av forsøket. |
+| [ ] | Dyrene skal oppstalles i egnede bur, innhegning og lignende. |
+| [ ] | Gnagerbarriere foran dør/selvlukningsmekansime på dør. |
+| [ ] | Skjøter mellom dør, dørkarm og vegger skal være forseglet/tette. |
+| [ ] | Skjøter mellom vegger, gulv og tak skal være tildekket ev. avrundet for lettere rengjøring. |
+| [ ] | Sluk og andre åpninger i gulv og vegger skal være sikret mot gnagere og insekter. |
+
+*Spesifikke inneslutningtiltak for invertebrater*
+
+|  |  |
+| --- | --- |
+| [ ] | Separate rom for infiserte og ikke infiserte invertebrater bør være tilgjengelige, |
+| [ ] | enheten skal ha mulighet til forsegling for gassing, |
+| [ ] | tiltak for å redusere invertebratenes aktivitet og mulighet for rømming f.eks. kjøling, |
+| [ ] | inngangen til enheten skal gå via en forrom/sluse med arthropodetette nett foran døren og insektsfangere, |
+| [ ] | ventilasjonskanaler for utgående luft og vinduer skal være dekket med arthropodetett nett, alternativt kan vinduene være forseglet, |
+| [ ] | alle vasker og kanaler/sluk skal ha mulighet for oppsamling/vannlås, |
+| [ ] | forsøk med flyvedyktige og krypende arthropoder skal utføres på hvite fat for lettere å oppdage rømming. |
+
+*Spesifikke inneslutningstiltak for akvatiske dyr*
+
+*Innendørs anlegg*
+
+|  |  |
+| --- | --- |
+| [ ] | genmodifiserte akvatiske dyr (herunder: egg, yngel etc.) skal være hindret fra å trenge inn i vanntilførselssystemet, samt hindret i å slippe ut i avløpssystemet ved hjelp av to barrierer, |
+| [ ] | tankene skal være tildekket med lokk eller netting for å hindre rømming, |
+| [ ] | akvatiske dyr (herunder: egg, yngel etc.) skal være hindret i å slippe ut via sluk i gulvet, |
+
+*Utendørs landbaserte anlegg*
+
+|  |  |
+| --- | --- |
+| [ ] | genmodifiserte akvatiske dyr skal være hindret fra å trenge inn i vanntilførselssystemet, samt være hindret i å slippe ut i avløpssystemet ved hjelp av to barrierer, |
+| [ ] | toppen av tankene skal være tildekket for å hindre rømming/utslipp via predatorer, |
+| [ ] | området skal være inngjerdet med adgangskontroll, anlegget skal være sikret slik at ved uhell skal genmodifiserte akvatiske dyr bli fanget opp av en ytre barriere (for eksempel ved et ytre kar eller mur) slik at utslipp til miljøet hindres. |
+
+*Angi andre eventuelle inneslutningstiltak*
+
+7\. Gi en liste over laboratorier/dyrerom som oppfyller tiltakene;
 
 - Navn/romnummer:
 
+8\. Avfallsbehandling
+
 Alle GMO skal inaktiveres etter anerkjente metoder. Dette innebærer at GMD skal avlives og at egg og andre overlevelsesstrukturer skal inaktiveres ved f.eks. varmesterilisering, autoklavering, forbrenning.
 
-Beskriv typer, metoder og rutiner for avfallshåndtering:Dato:Ansvarshavendes underskrift:
+Beskriv typer, metoder og rutiner for avfallshåndtering:
+
+|  |  |  |
+| --- | --- | --- |
+|  | Dato: | Ansvarshavendes underskrift: |
 
 ## Vedlegg II. Melding/søknad om godkjenning av innesluttet bruk av genmodifiserte dyr
+
+|  |  |
+| --- | --- |
+| Melding [ ] | Søknad [ ] |
+
+Generelle opplysninger
+
+1\. Navn og kvalifikasjoner på ansvarlig person for den innesluttede bruken:
+
+2\. Institusjons navn:
+
+3\. Adresse:
+
+|  |  |
+| --- | --- |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+4\. Laboratoriets/anleggets navn og adresse:
+
+Sendes det ny søknad for laboratoriet og anlegg?
+
+|  |  |
+| --- | --- |
+| Ja [ ] | Nei [ ] |
+| Hvis ikke skal kopi av tidligere godkjenning av laboratorier og anlegg vedlegges. |  |
+
+5\. Navn på ansvarlig person for laboratoriet/anlegget:
+
+*Beskrivelse av virksomheten/prosjektet*
+
+6\. Vitenskapelig- og trivialnavn på de genmodifiserte organismene som inngår i bruken:
+
+7\. Antatt mengde/antall dyr som skal benyttes:
+
+8\. Beskrivelse av modifiseringen, herunder:
 
 1. det innsatte genmaterialets opprinnelse (donor), planlagte funksjon og genetiske stabilitet:
 2. vert/vektorsystem:
 3. metode for å oppnå genmodifiseringen:
 4. den modifiserte organismens egenskap og funksjon:
+
+9\. Formålet med den innesluttede bruken, herunder det ventede resultat og planlagt varighet:
+
+10\. Beskrivelse av verne- og overvåkingstiltak:
+
+11\. Særskilte tiltak mot utilsiktet utslipp/rømming av genmodifiserte dyr, herunder avfallshåndteringen, som følge av forhåndsvurderingen foretatt nedenfor:
+
+*Forhåndsvurdering*
+
+12\. Dyrets naturlige habitat og geografisk utbredelse:
+
+13\. Dyrets evne til å spre seg og etablere seg i miljøet hvis det slipper ut:
+
+14\. Om genmodifiseringen har innvirkning på denne evnen:
+
+15\. Om de tilførte egenskapene kan nedarves:
+
+16\. Om reproduksjonsevnen berøres:
+
+17\. Innvirkninger på andre organismer i miljøet ved uhellsutslipp:
+
+18\. Stadier av livssyklus som kan fungere som overlevelsesstrukturer, ved bruk av virvelløse dyr:
+
+19\. Om modifiseringen kan føre til produksjon av nye genprodukter som kan ha negative effekter på andre organismer (f.eks. toksiske og allergifremkallende stoffer):
+
+|  |  |
+| --- | --- |
+| Dato: | Underskrift: |
+
+|  |  |
+| --- | --- |
+| Vedlegg: | Kopi av tidligere godkjenning av laboratorier og anlegg [ ] |
+|  | Ny søknad om godkjenning av laboratorier og anlegg [ ] |
+|  | Samfunnsmessige og etiske vurderinger etter § 6 i forskriften [ ] |

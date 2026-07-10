@@ -78,9 +78,11 @@ I denne forordning menes med«krav»: ethvert omtvistet eller uomtvistet krav so
 
 ### Artikkel 2
 
-1. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («den felles militære listen»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer og teknologi oppført på den felles militære listen, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Venezuela,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på den felles militære listen, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand, formidlingstjenester eller andre tilknyttede tjenester, til personer, enheter eller organer i eller til bruk i Venezuela.
+1\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell («den felles militære listen»), eller knyttet til levering, produksjon, vedlikehold og bruk av varer og teknologi oppført på den felles militære listen, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Venezuela,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på den felles militære listen, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand, formidlingstjenester eller andre tilknyttede tjenester, til personer, enheter eller organer i eller til bruk i Venezuela.
 
-2. Forbudene i nr. 1 gjelder ikke oppfyllelse av kontrakter som er inngått før 13. november 2017, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, forutsatt at de er i samsvar med Rådets felles holdning [2008/944/FUSP](eu/32008*0944),1 særlig med kriteriene fastsatt i Artikkel 2 i nevnte felles holdning, og at den fysiske eller juridiske personen, enheten eller organet som har til hensikt å gjennomføre kontrakten, innen fem virkedager etter denne forordnings ikrafttredelse har meldt kontrakten til den kompente myndigheten i medlemsstaten der de er etablert.
+2\. Forbudene i nr. 1 gjelder ikke oppfyllelse av kontrakter som er inngått før 13. november 2017, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter, forutsatt at de er i samsvar med Rådets felles holdning [2008/944/FUSP](eu/32008*0944),1 særlig med kriteriene fastsatt i Artikkel 2 i nevnte felles holdning, og at den fysiske eller juridiske personen, enheten eller organet som har til hensikt å gjennomføre kontrakten, innen fem virkedager etter denne forordnings ikrafttredelse har meldt kontrakten til den kompente myndigheten i medlemsstaten der de er etablert.
+
+1 Rådets felles holdning [2008/944/FUSP](eu/32008*0944) av 8. desember 2008 om felles regler for kontroll med eksport av militærteknologi og militærmateriell (EUT L 335 av 13.12.2008, s. 99).
 
 ### Artikkel 3
 
@@ -88,9 +90,9 @@ Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksporte
 
 ### Artikkel 4
 
-1. Medlemsstatenes kompetente myndigheter, som oppført i vedlegg III, kan gjøre unntak fra forbudene i Artikkel 2 og 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, tilyting av finansiering, finansiell bistand og faglig bistand knyttet tilikke-dødbringende militært materiell som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs og EUs eller EUs medlemsstaters eller regionale og sub-regionale organisasjoners programmer for institusjonsbygging,materiell bestemt til bruk for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykking, og tilknyttet finansiering samt finansiell og faglig bistand, som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av mineryddingsutstyr og materiell til bruk ved minerydding og tilknyttet finansiering samt finansiell og faglig bistand.
+1\. Medlemsstatenes kompetente myndigheter, som oppført i vedlegg III, kan gjøre unntak fra forbudene i Artikkel 2 og 3 og gi tillatelse, på de vilkår de finner hensiktsmessige, tilyting av finansiering, finansiell bistand og faglig bistand knyttet tilikke-dødbringende militært materiell som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs og EUs eller EUs medlemsstaters eller regionale og sub-regionale organisasjoners programmer for institusjonsbygging,materiell bestemt til bruk for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykking, og tilknyttet finansiering samt finansiell og faglig bistand, som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs og EUs eller regionale og sub-regionale organisasjoners krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av mineryddingsutstyr og materiell til bruk ved minerydding og tilknyttet finansiering samt finansiell og faglig bistand.
 
-2. Tillatelser som nevnt i nr. 1 kan bare gis før virksomheten det gjelder, finner sted.
+2\. Tillatelser som nevnt i nr. 1 kan bare gis før virksomheten det gjelder, finner sted.
 
 ### Artikkel 5
 
@@ -98,79 +100,79 @@ Artikkel 2 og 3 får ikke anvendelse på vernetøy, herunder skuddsikre vester o
 
 ### Artikkel 6
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i eller til bruk i Venezuela, med mindre den relevante medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i eller til bruk i Venezuela, med mindre den relevante medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse.
 
-2. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse i henhold til nr. 1 dersom de har skjellig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Venezuelas regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
+2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse i henhold til nr. 1 dersom de har skjellig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Venezuelas regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
 
-3. Vedlegg II inneholder en liste over utstyr, teknologi eller programvare som primært er beregnet til bruk ved overvåking eller avlytting av internett-forbindelser eller telekommunikasjon.
+3\. Vedlegg II inneholder en liste over utstyr, teknologi eller programvare som primært er beregnet til bruk ved overvåking eller avlytting av internett-forbindelser eller telekommunikasjon.
 
-4. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne Artikkel, senest fire uker etter at tillatelsen er gitt.
+4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne Artikkel, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 7
 
-1. Med mindre den relevante medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse i henhold til Artikkel 6 nr. 2, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg II eller knyttet til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg II eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg II til personer, enheter eller organer i eller til bruk i Venezuela,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg II til personer, enheter eller organer i eller til bruk i Venezuela,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Venezuelas regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
+1\. Med mindre den relevante medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse i henhold til Artikkel 6 nr. 2, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg II eller knyttet til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg II eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg II til personer, enheter eller organer i eller til bruk i Venezuela,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg II til personer, enheter eller organer i eller til bruk i Venezuela,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Venezuelas regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
 
-2. Med «overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg II, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
+2\. Med «overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg II, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
 
 ### Artikkel 8
 
-1. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og V, skal fryses.
+1\. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og V, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og V.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV og V.
 
-3. Vedlegg IV omfatterfysiske eller juridiske personer, enheter og organer som er ansvarlige for handlinger som innebærer alvorlige brudd på eller manglende respekt for menneskerettighetene eller for å ha undertrykket sivilsamfunnet og den demokratiske opposisjonen i Venezuela,fysiske eller juridiske personer, enheter og organer hvis handlinger, politikk eller aktiviteter på annet vis undergraver demokratiet i eller rettsstaten Venezuela.
+3\. Vedlegg IV omfatterfysiske eller juridiske personer, enheter og organer som er ansvarlige for handlinger som innebærer alvorlige brudd på eller manglende respekt for menneskerettighetene eller for å ha undertrykket sivilsamfunnet og den demokratiske opposisjonen i Venezuela,fysiske eller juridiske personer, enheter og organer hvis handlinger, politikk eller aktiviteter på annet vis undergraver demokratiet i eller rettsstaten Venezuela.
 
-4. Vedlegg V omfatter fysiske eller juridiske personer, enheter og organer som er tilknyttet personene og enhetene omtalt i nr. 3.
+4\. Vedlegg V omfatter fysiske eller juridiske personer, enheter og organer som er tilknyttet personene og enhetene omtalt i nr. 3.
 
-5. Vedlegg IV og V inneholder begrunnelsen for at de berørte personene, enhetene eller organene er listeført.
+5\. Vedlegg IV og V inneholder begrunnelsen for at de berørte personene, enhetene eller organene er listeført.
 
-6. Vedlegg IV og V inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+6\. Vedlegg IV og V inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 9
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg IV eller V og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg IV eller V og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 9a
 
-1. [Artikkel 8 nr. 1](forskrift/2017-12-15-2103/a8/nummer/1) og [2](forskrift/2017-12-15-2103/a8/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+1\. [Artikkel 8 nr. 1](forskrift/2017-12-15-2103/a8/nummer/1) og [2](forskrift/2017-12-15-2103/a8/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 
-2. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i [artikkel 8 nr. 1](forskrift/2017-12-15-2103/a8/nummer/1) og [2](forskrift/2017-12-15-2103/a8/nummer/2) og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
+2\. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i [artikkel 8 nr. 1](forskrift/2017-12-15-2103/a8/nummer/1) og [2](forskrift/2017-12-15-2103/a8/nummer/2) og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
 
-3. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+3\. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
 
-4. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
+4\. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
 
 ### Artikkel 10
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i Artikkel 8 ble oppført i vedlegg IV eller V, eller for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før, på eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV eller V, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, kan gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i Artikkel 8 ble oppført i vedlegg IV eller V, eller for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før, på eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV eller V, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 11
 
-1. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV eller V skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV eller V, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV eller V,betalingen ikke er i strid med Artikkel 8 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV eller V skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV eller V, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i Artikkel 8 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV eller V,betalingen ikke er i strid med Artikkel 8 nr. 2.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, innen fire uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, innen fire uker etter at tillatelsen er gitt.
 
-3. Bestemmelsen i Artikkel 8 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
+3\. Bestemmelsen i Artikkel 8 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-4. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med Artikkel 8, gjelder bestemmelsen i Artikkel 8 nr. 2 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i Artikkel 8 ble oppført i vedlegg IV eller V, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
+4\. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med Artikkel 8, gjelder bestemmelsen i Artikkel 8 nr. 2 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i Artikkel 8 ble oppført i vedlegg IV eller V, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
 
 ### Artikkel 12
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med Artikkel 8, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene omtalt i bokstav a).
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med Artikkel 8, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene omtalt i bokstav a).
 
-2. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
+2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
-3. Alle opplysninger som gis eller mottas i henhold til denne Artikkel, skal benyttes bare til det formål de gis eller mottas for.
+3\. Alle opplysninger som gis eller mottas i henhold til denne Artikkel, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 13
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
 
 ### Artikkel 14
 
@@ -178,43 +180,43 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 15
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV og V,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV og V,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a).
 
-2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
+2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
-3. Denne Artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
+3\. Denne Artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
 
 ### Artikkel 16
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til Artikkel 8, og tillatelser som er gitt i henhold til Artikkel 9–11,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til Artikkel 8, og tillatelser som er gitt i henhold til Artikkel 9–11,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
 
 ### Artikkel 17
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i Artikkel 8, skal vedlegg IV eller V endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i Artikkel 8, skal vedlegg IV eller V endres tilsvarende.
 
-2. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+2\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
 
-3. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listen i vedlegg IV og V skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg IV og V skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
-5. Kommisjonen har fullmakt til å endre vedlegg III på grunnlag av informasjon fra medlemsstatene.
+5\. Kommisjonen har fullmakt til å endre vedlegg III på grunnlag av informasjon fra medlemsstatene.
 
 ### Artikkel 18
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om reglene omtalt i nr. 1 umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om reglene omtalt i nr. 1 umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
 
 ### Artikkel 19
 
-1. Medlemsstatene skal utnevne de kompetente myndigheter omtalt i denne forordning og identifisere dem på nettsidene oppført i vedlegg III. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg III.
+1\. Medlemsstatene skal utnevne de kompetente myndigheter omtalt i denne forordning og identifisere dem på nettsidene oppført i vedlegg III. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg III.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes; Kommisjonen skal også underrettes om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes; Kommisjonen skal også underrettes om alle senere endringer.
 
-3. Der denne forordning inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg III benyttes.
+3\. Der denne forordning inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg III benyttes.
 
 ### Artikkel 20
 
@@ -246,6 +248,8 @@ Note 2 For the purposes of item 3.5, the term 'vehicles' includes trailers.
 ### Vedlegg II
 Equipment, technology and software referred to in Articles 6 and 7
 
+*General note*
+
 Notwithstanding the contents of this Annex, it shall not apply to:
 
 (a) equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)1 or the Common Military List; or
@@ -253,6 +257,8 @@ Notwithstanding the contents of this Annex, it shall not apply to:
 (b) software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over the counter transactions;mail order transactions;electronic transactions; ortelephone order transactions; or
 
 (c) software which is in the public domain.The categories A, B, C, D and E refer to the categories referred to in Regulation [(EC) No 428/2009](eu/32009r0428*).The equipment, technology and software referred to in Articles 6 and 7 is:
+
+*A. List of equipment*
 
 - Deep Packet Inspection equipment
 - Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment
@@ -269,19 +275,138 @@ Notwithstanding the contents of this Annex, it shall not apply to:
 - WEP and WPA code breaking equipment
 - Interception equipment for VoIP proprietary and standard protocol
 
+*B. Not used*
+
+*C. Not used*
+
+*D. 'Software' for the 'development', 'production' or 'use' of the equipment specified in A above.*
+
+*E. 'Technology' for the 'development', 'production' or 'use' of the equipment specified in A above.*
+
 Equipment, technology and software falling within these categories is within the scope of this Annex only to the extent that it falls within the general description 'internet, telephone and satellite communications interception and monitoring systems'.
 
 For the purpose of this Annex, 'monitoring' means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
 
+1 Council Regulation [(EC) No 428/2009](eu/32009r0428*) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items ( OJL 134, 29.5.2009, p. 1).
+
+2 'IMSI' stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card, which allows for identification of such SIM via GSM and UMTS networks.
+
+3 'MSISDN' stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+4 'IMEI' stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones as well as some satellite phones. It is usually found printed inside the battery compartment of the phone. interception (wiretapping) can be specified by its IMEI number as well as IMSI and MSISDN.
+
+5 'TMSI' stands for Temporary Mobile Subscriber Identity. It is the identity that is most commonly sent between the mobile and the network.
+
+6 'SMS' stands for Short Message System.
+
+7 'GSM' stands for Global System for Mobile Communications.
+
+8 'GPS' stands for Global Positioning System.
+
+9 'GPRS' stands for General Package Radio Service.
+
+10 'UMTS' stands for Universal Mobile Telecommunication System.
+
+11 'CDMA' stands for Code Division Multiple Access.
+
+12 'PSTN' stands for Public Switch Telephone Networks.
+
+13 'DHCP' stands for Dynamic Host Configuration Protocol.
+
+14 'SMTP' stands for Simple Mail Transfer Protocol.
+
+15 'GTP' stands for GPRS Tunnelling Protocol.
+
 ### Vedlegg III
 Websites for information on the competent authorities and address for notifications to the Commission
+
+*BELGIUM*
 
 - [https://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en_veiligheid/sancties](https://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en_veiligheid/sancties)
 - [https://diplomatie.belgium.be/fr/politique/themes_politiques/paix_et_securite/sanctions](https://diplomatie.belgium.be/fr/politique/themes_politiques/paix_et_securite/sanctions)
 - [https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
 
+*BULGARIA*[http://www.mfa.bg/en/pages/135/index.html](https://www.mfa.bg/en/pages/135/index.html)
+
+*CZECH REPUBLIC*[www.financnianalytickyurad.cz/mezinarodni-sankce.html](www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+*DENMARK*[http://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+
+*GERMANY*[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html](https://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html)
+
+*ESTONIA*[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+*IRELAND*[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+*GREECE*[http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+*SPAIN*[http://www.exteriores.gob.es/Portal/en/PoliticaExteriorCooperacion/GlobalizacionOportunidadesRiesgos/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/Portal/en/PoliticaExteriorCooperacion/GlobalizacionOportunidadesRiesgos/Paginas/SancionesInternacionales.aspx)
+
+*FRANCE*[http://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+
+*CROATIA*[http://www.mvep.hr/sankcije](https://www.mvep.hr/sankcije)
+
+*ITALY*[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+
+*CYPRUS*[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)
+
+*LATVIA*[http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+*LITHUANIA*[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+*LUXEMBOURG*[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+
+*HUNGARY*[http://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf](https://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf)
+
+*MALTA*[https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Boards/Sanctions-Monit oring-Board-.aspx](https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx)
+
+*NETHERLANDS*[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+
+*AUSTRIA*[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
+
+*POLAND*[http://www.msz.gov.pl](https://www.msz.gov.pl)
+
+*PORTUGAL*[http://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+
+*ROMANIA*[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+*SLOVENIA*[http://www.mzz.gov.si/si/omejevalni_ukrepi](https://www.mzz.gov.si/si/omejevalni_ukrepi)
+
+*SLOVAKIA*[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+
+*FINLAND*[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+*SWEDEN*[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+*UNITED KINGDOM*[https://www.gov.uk/sanctions-embargoes-and-restrictions](https://www.gov.uk/sanctions-embargoes-and-restrictions)
+
+Address for notifications to the European Commission:
+
+European CommissionService for Foreign Policy Instruments (FPI)EEAS 07/99B-1049 Brussels, BelgiumEmail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ### Vedlegg IV
 List of natural and legal persons, entities and bodies referred to in Article 8(3)
+
+|  | **Name** | **Identifying information** | **Reasons** | **Date of listing** |
+| --- | --- | --- | --- | --- |
+| 1. | Néstor Luis Reverol Torres | Date of birth:<br>28 October 1964<br>Gender: male | Minister for Interior, Justice and Peace since 2016. Also appointed as Vice President of Public Works and Services and Executive Secretary of the Electrical General Staff in April 2019. Former Commander General of the Bolivarian National Guard. Responsible for serious human rights violations, including torture of (political) prisoners, and repression of the democratic opposition in Venezuela, including the prohibition and repression of political demonstrations, committed by security forces under his command. | 22.1.2018 |
+| 2. | Gustavo Enrique González López | Date of birth:<br>2 November 1960<br>Gender: male | Reappointed as Head of the Bolivarian National Intelligence Service (SEBIN) on 30 April 2019. Formerly Security and Intelligence Adviser for the President's office from 8 January 2019 to 30 April 2019 and Head of SEBIN until October 2018. As Head of SEBIN, responsible for serious human rights violations (including arbitrary detention, inhuman and degrading treatment, and torture) and repression of civil society and the democratic opposition in Venezuela. | 22.1.2018 |
+| 3. | Tibisay Lucena Ramírez | Date of birth:<br>26 April 1959<br>Gender: female | President of the National Electoral Council (Consejo Nacional Electoral (CNE)). Her actions and policies have undermined democracy and the rule of law in Venezuela, including by failing to ensure that the CNE remains an impartial and independent institution in accordance with the Venezuelan Constitution thereby facilitating the establishment of the Constituent Assembly and the re-election of Nicolás Maduro in May 2018 through presidential elections that were neither free nor fair. | 22.1.2018 |
+| 4. | Antonio José Benavides Torres | Date of birth:<br>13 June 1961<br>Gender: male | Chief of the Capital District (Distrito Capital) Government until January 2018. General Commander of the Bolivarian National Guard until 21 June 2017. Involved in repression of civil society and democratic opposition in Venezuela, and responsible for serious human rights violations committed by the Bolivarian National Guard under his command. His actions and policies as General Commander of the Bolivarian National Guard, including the Bolivarian National Guard taking the lead in the policing of civilian demonstrations and publicly advocating that military courts should have jurisdiction over civilians, have undermined the rule of law in Venezuela. | 22.1.2018 |
+| 5. | Maikel José Moreno Pérez | Date of birth:<br>12 December 1965<br>Gender: male | President, and former Vice President, of the Supreme Court of Justice of Venezuela (Tribunal Supremo de Justicia). In these roles, he has supported and facilitated the Government's actions and policies which have undermined democracy and the rule of law in Venezuela, and is responsible for actions and statements that have usurped the authority of the National Assembly. | 22.1.2018 |
+| 6. | Tarek William Saab Halabi | Date of birth:<br>10 September 1963<br>Place of birth:<br>El Tigre, Anzoátegui state, Venezuela<br>Gender: male | Venezuelan Attorney General appointed by the Constituent Assembly. In this role, and previous roles as Ombudsman and President of the Republican Moral Council, he has undermined democracy and the rule of law in Venezuela by publicly supporting actions against opponents of the government of Venezuela and the withdrawal of competences from the National Assembly. | 22.1.2018 |
+| 7. | Diosdado Cabello Rondón | Date of birth:<br>15 April 1963<br>Gender: male | President of the Constituent Assembly and First Vice President of the United Socialist Party of Venezuela (PSUV). Involved in undermining democracy and the rule of law in Venezuela, including by using the media to publicly attack and threaten political opposition, other media and civil society. | 22.1.2018 |
+| 8. | Tareck Zaidan El-Aissami Maddah | Vice President of Economy and Minister for National Industry and Production<br>Date of birth:<br>12 November 1974<br>Gender: male | Vice President of Economy and Minister for National Industry and Production. As the former Vice President of Venezuela with oversight of the direction of the Bolivarian National Intelligence Service (SEBIN) Maddah is responsible for the serious human rights violations carried out by the organisation, including arbitrary detention, politically motivated investigations, inhumane and degrading treatment, and torture. He is also responsible for supporting and implementing policies and activities which undermine democracy and the rule of law, including the prohibition of public demonstrations, and heading President Maduro's ‘anti-coup command’ which has targeted civil society and the democratic opposition. | 25.6.2018 |
+| 9. | Sergio José Rivero Marcano | Inspector General of the Bolivarian National Armed Forces<br>Date of birth:<br>8 November 1964<br>Gender: male | General Commander of the Bolivarian National Guard until 16 January 2018. Involved in the repression of civil society and democratic opposition in Venezuela, and responsible for serious human rights violations committed by the Bolivarian National Guard under his command, including the excessive use of force, and the arbitrary detention and abuse of civil society and opposition members. His actions and policies as General Commander of the Bolivarian National Guard, including the Bolivarian National Guard assaulting members of the democratically elected National Assembly and intimidating journalists reporting on the fraudulent elections for the illegitimate Constituent Assembly, have undermined democracy and the rule of law in Venezuela. | 25.6.2018 |
+| 10. | Jesús Rafael Suárez Chourio | Date of birth:<br>19 July 1962<br>Gender: male | Commander in Chief of the Venezuelan Bolivarian National Army and Chief of the General Staff to the Commander-in-Chief. Former General Commander of the Venezuelan Bolivarian National Army and former Commander of Venezuela's Comprehensive Defence Region of the Central Zone (REDI Central). Responsible for serious human rights violations by forces under his command during his tenure as General Commander of the Venezuelan Bolivarian National Army, including the use of excessive force and the mistreatment of detainees. He has targeted the democratic opposition and supported the use of military courts to try civilian protestors. | 25.6.2018 |
+| 11. | Iván Hernández Dala | Head of Directorate-General of Military Counter-Intelligence<br>Date of birth:<br>18 May 1966<br>Gender: male | Head of the Directorate-General of Military Counter-Intelligence (DGCIM) since January 2014 and Head of the Presidential Guard since September 2015. As Head of the DGCIM, Iván Hernández Dala is responsible for serious human rights violations and the repression of civil society and democratic opposition committed by members of the DGCIM under his command, including excessive use of force and the ill-treatment of detainees. | 25.6.2018 |
+| 12. | Delcy Eloina Rodríguez Gómez | Vice President of the Bolivarian Republic of Venezuela<br>Date of birth:<br>18 May 1969<br>Gender: female | Vice President of Venezuela, former President of the illegitimate Constituent Assembly and former member of the Presidential Commission for the illegitimate National Constituent Assembly. Her actions on the Presidential Commission and then as President of the illegitimate Constituent Assembly have undermined democracy and the rule of law in Venezuela, including usurping the powers of the National Assembly and using them to target the opposition and prevent them taking part in the political process. | 25.6.2018 |
+| 13. | Elías José Jaua Milano | Date of birth:<br>16 December 1969<br>Gender: male | Former Minister of Popular Power for Education. Former President of the Presidential Commission for the illegitimate National Constituent Assembly. Responsible for undermining democracy and the rule of law in Venezuela through his role in leading the establishment of the illegitimate Constituent Assembly. | 25.6.2018 |
+| 14. | Sandra Oblitas Ruzza | Vice President of National Electoral Council<br>Date of birth:<br>7 June 1969<br>Gender: female | Vice President of the National Electoral Council (CNE) and President of the Commission of the Electoral and Civilian Register. Responsible for the CNE's activities which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and manipulation of the electoral process. | 25.6.2018 |
+| 15. | Freddy Alirio Bernal Rosales | Date of birth:<br>16 June 1962<br>Place of birth:<br>San Cristóbal, Táchira state, Venezuela<br>Gender: male | Head of the National Control Centre of the Committee for Local Supply and Production (CLAP) and Protector of Táchira State. Also a Commissioner General of the Bolivarian National Intelligence Service (SEBIN). As Head of the CLAP and Protector of Táchira State he can call upon Special Forces (FAES) and is able to influence appointments of judges and prosecutors. Responsible for undermining democracy through manipulation of CLAP programme distributions amongst voters. Additionally, as Commissioner General of SEBIN he is responsible for SEBIN's activities which include serious human rights violations such as arbitrary detention. | 25.6.2018 |
+| 16. | Katherine Nayarith Harrington Padrón | Date of birth:<br>5 December 1971<br>Gender: female | Deputy Prosecutor General (also translated as Deputy Attorney General) from July 2017 until October 2018. Appointed Deputy Prosecutor General by the Supreme Court in violation of the Constitution, rather than by the National Assembly. Responsible for undermining democracy and the rule of law in Venezuela, including by initiating politically-motivated prosecutions and failing to investigate allegations of human rights violations by the Maduro regime. | 25.6.2018 |
+| 17. | Socorro Elizabeth Hernández Hernández | Date of birth:<br>11 March 1952<br>Gender: female | Member (Rector) of the National Electoral Council (CNE) and member of the National Electoral Board (JNE). Responsible for the CNE's activities which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and manipulation of the electoral process in relation to a cancelled presidential recall election in 2016, postponement of gubernatorial elections in 2016, and the relocation of polling stations at short notice before gubernatorial elections in 2017. | 25.6.2018 |
+| 18. | Xavier Antonio Moreno Reyes | Secretary-General of the National Electoral Council<br>Gender: male | Secretary-General of the National Electoral Council (CNE). Responsible for approving CNE decisions which have undermined democracy in Venezuela, including facilitating the establishment of the illegitimate Constituent Assembly and manipulation of the electoral process. | 25.6.2018 |
 
 > Endret ved [forskrifter 5 feb 2018 nr. 151](forskrift/2018-02-05-151), [13 feb 2020 nr. 145](forskrift/2020-02-13-145).
 

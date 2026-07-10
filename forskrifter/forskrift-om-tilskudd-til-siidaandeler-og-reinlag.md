@@ -112,7 +112,14 @@ Landbruksdirektoratet kan dispensere fra inntektsgrensen i sjette ledd ved avvik
 
 ## § 10a. Tilskudd som kompensasjon for veibruksavgift på bensin
 
-Reinlag eller leder av siidaandel kan innvilges tilskudd som kompensasjon for veibruksavgift på bensin. Tilskuddet beregnes på grunnlag av rein som er slaktet og rapportert i samsvar med [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Beregningen skjer på bakgrunn av følgende satser:*Sats**Slakteuttak (kilo)**Tilskudd (kroner)*1500–9994 00021000–24998 00032500–499915 00045000 og over20 000
+Reinlag eller leder av siidaandel kan innvilges tilskudd som kompensasjon for veibruksavgift på bensin. Tilskuddet beregnes på grunnlag av rein som er slaktet og rapportert i samsvar med [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Beregningen skjer på bakgrunn av følgende satser:
+
+| *Sats* | *Slakteuttak (kilo)* | *Tilskudd (kroner)* |
+| --- | --- | --- |
+| 1 | 500–999 | 4 000 |
+| 2 | 1000–2499 | 8 000 |
+| 3 | 2500–4999 | 15 000 |
+| 4 | 5000 og over | 20 000 |
 
 > Tilføyd ved forskrift [24 juni 2025 nr. 1286](forskrift/2025-06-24-1286) (i kraft 1 juli 2025).
 

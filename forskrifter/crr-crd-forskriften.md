@@ -546,4 +546,6 @@ CRR artikkel 138 bokstav g skal gjelde fra og med 1. juli 2026.
 
 ## Vedlegg I. Forordning (EU) 2015/62
 
+Se her for å lese forordning [(EU) 2015/62](eu/32015r0062): [(pdf)](static/SF/32015r0062u-01.pdf)
+
 > Vedlegg I tilføyd ved forskrift [29 juni 2017 nr. 1001](forskrift/2017-06-29-1001) (i kraft 30 juni 2017).

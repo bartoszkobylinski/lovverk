@@ -34,6 +34,8 @@ Hvor hoved- og biled går fremkommer av [farledsforskriften](forskrift/2019-12-1
 
 Fartsgrensene som fremkommer av bestemmelsene under finnes i Kystverkets digitale kart Kystinfo2 3.
 
+1 Jf. [forskrift 11. desember 2019 nr. 1834 om farleder](forskrift/2019-12-11-1834) (farledsforskrifter).2 [Kart som viser fartsgrenser for næringsfartøy](https://kystinfo.no/kystverkets_fartsforskrift?themes=723).3 [Kart som viser fartsgrenser for fritidsfartøy i hoved- og biled](https://kystinfo.no/kystverkets_fartsforskrift?themes=722).
+
 ### § 1-2. Dispensasjon
 
 Kystverket kan gi dispensasjon fra bestemmelsene i forskriften. Dispensasjon skal være tidsbegrenset.
@@ -586,6 +588,8 @@ I perioden 1. juni–31. august er 5 knop høyeste tillatte fart for næringsfar
 5 knop er høyeste tillatte fart for fritidsfartøy i biled i følgende områder:I Skjærhalden et område avgrenset av en linje mellom punktene:N 59° 01.462′, Ø 11° 02.680′ GilbergoddenN 59° 01.370′, Ø 11° 02.605′ TareholmenogN 59° 01.110′, Ø 11° 02.219′ TareholmenN 59° 01.105′, Ø 11° 02.152′ Store EllingsholmenogN 59° 01.100′, Ø 11° 02.104′ Store EllingsholmenN 59° 01.109′, Ø 11° 01.779′ HvilebergetHerfølrenna innenfor et område avgrenset av en linje mellom punktene:N 59° 00.218′, Ø 11° 03.448′ Hærføl østre oddeN 59° 00.370′, Ø 11° 03.800′ AskesjærsundetogN 59° 00.030′, Ø 11° 03.320′ HerfølN 59° 00.030′, Ø 11° 03.700′ vest på FlatmannogN 59° 00.030′, Ø 11° 03.746′ øst på FlatmannN 59° 00.030′, Ø 11° 04.149′ Grønnbaue.
 
 > Endret ved forskrift [22 jan 2026 nr. 124](forskrift/2026-01-22-124) (i kraft 3 feb 2026, tidligere § 10-6).
+
+1 Jf. [forskrift 26. juni 2009 nr. 883 om vern av Ytre Hvaler nasjonalpark, Hvaler og Fredrikstad kommuner, Viken](forskrift/2009-06-26-883).
 
 ### § 14-4. Fartsgrenser på sjøen i Moss kommune
 

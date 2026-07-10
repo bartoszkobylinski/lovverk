@@ -24,7 +24,19 @@ eu_basis: []
 
 ## § 1.
 
-Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen ved innførsel og innenlandsk produksjon av følgende varer med følgende beløp:*Produkt**Kr*Sigarer3,31per gram av pakningens nettovektSigaretter3,31per stk.Røyketobakk, karvet skråtobakk, råtobakk i forbrukerpakning3,31per gram av pakningens nettovektSkråtobakk1,35per gram av pakningens nettovektSnus1,02per gram av pakningens nettovektSigarettpapir og -hylser0,0507per stk.E-væske med nikotin5,38per mlTobakk til oppvarming3,31per gram av pakningens nettovektAndre nikotinvarer0,5079per gram av pakningens nettovekt
+Fra 1. januar 2026 skal det i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift til statskassen ved innførsel og innenlandsk produksjon av følgende varer med følgende beløp:
+
+| *Produkt* | *Kr* |  |
+| --- | --- | --- |
+| Sigarer | 3,31 | per gram av pakningens nettovekt |
+| Sigaretter | 3,31 | per stk. |
+| Røyketobakk, karvet skråtobakk, råtobakk i forbrukerpakning | 3,31 | per gram av pakningens nettovekt |
+| Skråtobakk | 1,35 | per gram av pakningens nettovekt |
+| Snus | 1,02 | per gram av pakningens nettovekt |
+| Sigarettpapir og -hylser | 0,0507 | per stk. |
+| E-væske med nikotin | 5,38 | per ml |
+| Tobakk til oppvarming | 3,31 | per gram av pakningens nettovekt |
+| Andre nikotinvarer | 0,5079 | per gram av pakningens nettovekt |
 
 Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften. Departementet kan videre gi forskrift om forenklet avgiftsberegning for varer som reisende innfører til personlig bruk utover avgiftsfri kvote.
 

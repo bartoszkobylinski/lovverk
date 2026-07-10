@@ -235,3 +235,5 @@ Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på 
 ### § 7-1. Ikrafttredelse
 
 Denne forskrift ble vedtatt i styret for Frelsesarmeens offisersskole 18. september 2017 og gjelder fra kunngjøringsdato. Fra samme tidspunkt oppheves reglement for Frelsesarmeens offisersskole av 16. september 2015.1
+
+1 Ikke kunngjort i Norsk Lovtidend.

@@ -24,7 +24,15 @@ eu_basis: []
 
 ## I
 
+I [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel gjøres følgende endringer:
+
+– – –
+
+– – –. Nytt tredje punktum oppheves.
+
 ## II
+
+I [lov 15. juni 2018 nr. 32](lov/2018-06-15-32) om pakkereiser og reisegaranti mv. gjøres følgende endringer: –––
 
 ## III
 

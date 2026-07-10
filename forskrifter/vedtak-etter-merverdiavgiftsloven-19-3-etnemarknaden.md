@@ -28,15 +28,21 @@ Etter en samlet vurdering har Skattedirektoratet kommet til at det innvilges mer
 
 Utgangspunktet er at vedtak kun gis virkning fremover i tid, dvs. fra vedtakstidspunktet. Under henvisning til tidligere vedtak for sammenlignbare arrangementer, finner Skattedirektoratet å kunne gi vedtaket virkning fra søknadstidspunktet, 19. oktober 2015. En nærmere redegjørelse for vedtaket følger nedenfor.
 
+*Sakens bakgrunn*
+
 Etnemarknaden er et fire dagers arrangement som drives etter samme «lest» som Dyrsku'n/Seljordmarknaden – bare i mindre skala. Marknaden ble i 2015 avholdt 6.–9. august. Etnemarknaden er eid av syv lokale frivillige organisasjoner og arbeidet med arrangementet er basert på dugnad. Overskudd fra marknaden går direkte tilbake til lag og foreninger i kommunen. Dette er med på å fremme kulturelle hensyn og overskuddet benyttes til ideelle formål.
 
 Som eksempler på arrangementer under Etnemarknaden kan nevnes dyreutstillinger, Vikingleir, elevutstillinger, konserter, ulike konkurranser og servering.
+
+*Søkers anførsler*
 
 Søker viser til utdrag fra Merverdiavgiftshåndboken § 5-10 – Festivaler
 
 «Flere festivaler, som for eksempel Risør Trebåtfestival, Dyrsku'n Arrangement AS, Stiftelsen Tønsbergmessen, Landbrukets Dag, Engerdalsdagene og Momarkedet, anses ikke omfattet av unntaket for fornøyelsesparker mv. Dette skyldes at festivalene ikke har anlegg beregnet for permanent drift. Finansdepartementet har med hjemmel i [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3), gitt unntak fra avgiftsplikten på inngangspenger til en rekke slike arrangementer. Dette gjelder både store og små arrangementer. Arrangementene har det til felles at de fremmer kulturelle hensyn og arrangeres av ideelle organisasjoner hvor overskuddet benyttes til ideelle formål. Departementet peker på at det fremstår som uheldig at adgangsbilletter til arrangementer av mer ideell karakter skal avgiftsbelegges med 25 %, samtidig som adgangsbilletter til mer kommersielle fornøyelsesparker mv. avgiftsbelegges med en sats på 8 %.»
 
 På denne bakgrunn søkes det om unntak fra avgiftsplikten på inngangsbilletten til Etnemarknaden fra og med omsetningsåret 2015.
+
+*Skattedirektoratets vurderinger*
 
 [Merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd gir departementet kompetanse til å treffe enkeltvedtak om avgiftslempning. Bestemmelsen lyder:
 

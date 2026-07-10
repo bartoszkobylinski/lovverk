@@ -296,7 +296,19 @@ Paragrafene 18 til 25 gjelder for skip hvis kjøl er strukket eller som er på e
 
 ### § 21. Krav til størrelse på soverom
 
-(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.*Skip med bruttotonnasje under 3 000**Skip med bruttotonnasje 3 000 eller mer, men under 10 000**Skip med bruttotonnasje 10 000 eller mer*Soverom for skipsfører eller en offiser som leder en avdeling og ikke har privat dagromLasteskip7,50 m28,50 m210,00 m2Passasjerskip8,50 m2Soverom for en offiser som ikke leder en avdeling og ikke har privat dagromLasteskip7,50 m28,50 m210,00 m2Passasjerskip7,50 m2Soverom for én personSkip4,50 m25,50 m27,00 m2Soverom for to personerLasteskip7,00 m2Passasjerskip og spesialskip7,50 m2Soverom for tre personerPassasjerskip og spesialskip11,50 m2Soverom for fire personerPassasjerskip og spesialskip14,50 m2
+(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.
+
+|  |  | *Skip med bruttotonnasje under 3 000* | *Skip med bruttotonnasje 3 000 eller mer, men under 10 000* | *Skip med bruttotonnasje 10 000 eller mer* |
+| --- | --- | --- | --- | --- |
+| Soverom for skipsfører eller en offiser som leder en avdeling og ikke har privat dagrom | Lasteskip | 7,50 m2 | 8,50 m2 | 10,00 m2 |
+|  | Passasjerskip | 8,50 m2 |  |  |
+| Soverom for en offiser som ikke leder en avdeling og ikke har privat dagrom | Lasteskip | 7,50 m2 | 8,50 m2 | 10,00 m2 |
+|  | Passasjerskip | 7,50 m2 |  |  |
+| Soverom for én person | Skip | 4,50 m2 | 5,50 m2 | 7,00 m2 |
+| Soverom for to personer | Lasteskip | 7,00 m2 |  |  |
+|  | Passasjerskip og spesialskip | 7,50 m2 |  |  |
+| Soverom for tre personer | Passasjerskip og spesialskip | 11,50 m2 |  |  |
+| Soverom for fire personer | Passasjerskip og spesialskip | 14,50 m2 |  |  |
 
 (2) For å legge til rette for enerom på skip med lengde (L) under 24 meter, kan dørkarealet reduseres til 3,75 m2 i enerom.
 
@@ -436,24 +448,17 @@ Paragrafene 27 til 34 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 ### § 30. Krav til størrelse på soverom
 
-(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.*Skip med*
-*brutto-*
-*tonnasje*
-*under 200**Skip med*
-*brutto-*
-*tonnasje*
-*200 eller*
-*mer, men*
-*under 3000**Skip med*
-*brutto-*
-*tonnasje*
-*3000 eller*
-*mer, men*
-*under 10 000**Skip med*
-*brutto-*
-*tonnasje*
-*10 000*
-*eller mer*Soverom for skipsfører og andre offiserer som ikke har privat dagromSkip6,50 m27,50 m2Soverom for én personLasteskip3,50 m24,00 m24,25 m24,75 m2Passasjerskip2,00 m23,00 m23,75 m2Soverom for to personerLasteskip5,00 m26,00 m26,50 m27,50 m2Passasjerskip4,00 m26,00 m2Soverom for tre personerPassasjerskip6,00 m29,00 m2Soverom for fire personerPassasjerskip8,00 m212,00 m2
+(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.
+
+|  |  | *Skip med*<br>*brutto-*<br>*tonnasje*<br>*under 200* | *Skip med*<br>*brutto-*<br>*tonnasje*<br>*200 eller*<br>*mer, men*<br>*under 3000* | *Skip med*<br>*brutto-*<br>*tonnasje*<br>*3000 eller*<br>*mer, men*<br>*under 10 000* | *Skip med*<br>*brutto-*<br>*tonnasje*<br>*10 000*<br>*eller mer* |
+| --- | --- | --- | --- | --- | --- |
+| Soverom for skipsfører og andre offiserer som ikke har privat dagrom | Skip | 6,50 m2 |  | 7,50 m2 |  |
+| Soverom for én person | Lasteskip | 3,50 m2 | 4,00 m2 | 4,25 m2 | 4,75 m2 |
+|  | Passasjerskip | 2,00 m2 | 3,00 m2 | 3,75 m2 |  |
+| Soverom for to personer | Lasteskip | 5,00 m2 | 6,00 m2 | 6,50 m2 | 7,50 m2 |
+|  | Passasjerskip | 4,00 m2 |  | 6,00 m2 |  |
+| Soverom for tre personer | Passasjerskip | 6,00 m2 |  | 9,00 m2 |  |
+| Soverom for fire personer | Passasjerskip | 8,00 m2 |  | 12,00 m2 |  |
 
 (2) Redusert dørkareal i soverom er tillatt hvis det i tillegg innredes privat dagrom og dørkarealet samlet sett er i henhold til kravene om dørkareal i første ledd.
 
@@ -571,7 +576,17 @@ Paragrafene 36 til 43 gjelder for skip med bruttotonnasje 50 eller mer hvis kjø
 
 ### § 39. Krav til størrelse på soverom
 
-(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.*Skip med bruttotonnasje under 200**Skip med bruttotonnasje 200 eller mer*Soverom for skipsfører og andre offiserer som ikke har privat dagromSkip4,50 m26,50 m2Soverom for én personLasteskip3,50 m24,00 m2Passasjerskip2,00 m23,00 m2Soverom for to personerLasteskip5,00 m26,00 m2Passasjerskip4,00 m26,00 m2Soverom for tre personerPassasjerskip6,00 m29,00 m2Soverom for fire personerPassasjerskip8,00 m212,00 m2
+(1) Dørkarealet i soverom skal oppfylle kravene i paragrafen her. Når dørkflaten måles, skal plass der det er køyer, skap, kommoder og sitteplasser regnes med i dørkarealet. Små eller uregelmessig formede områder som verken kan benyttes til innbo eller fri bevegelse, skal ikke regnes med i dørkarealet. Avstanden fra køyekant til motstående skott skal være minst 700 mm i gjennomsnitt.
+
+|  |  | *Skip med bruttotonnasje under 200* | *Skip med bruttotonnasje 200 eller mer* |
+| --- | --- | --- | --- |
+| Soverom for skipsfører og andre offiserer som ikke har privat dagrom | Skip | 4,50 m2 | 6,50 m2 |
+| Soverom for én person | Lasteskip | 3,50 m2 | 4,00 m2 |
+|  | Passasjerskip | 2,00 m2 | 3,00 m2 |
+| Soverom for to personer | Lasteskip | 5,00 m2 | 6,00 m2 |
+|  | Passasjerskip | 4,00 m2 | 6,00 m2 |
+| Soverom for tre personer | Passasjerskip | 6,00 m2 | 9,00 m2 |
+| Soverom for fire personer | Passasjerskip | 8,00 m2 | 12,00 m2 |
 
 (2) Redusert dørkareal i soverom er tillatt hvis det i tillegg innredes privat dagrom og dørkarealet samlet sett er i henhold til kravene om dørkareal i første ledd.
 

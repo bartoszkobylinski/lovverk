@@ -33,3 +33,5 @@ Meldinger som er mottatt eller er under behandling i fylkeskommunen når loven t
 ## § 3. Ikraftsetting
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Fra 1 jan 2020 iflg. [res. 13 des 2019 nr. 1751](forskrift/2019-12-13-1751).

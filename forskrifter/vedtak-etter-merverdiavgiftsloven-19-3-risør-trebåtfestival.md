@@ -26,6 +26,8 @@ Vi viser til søknad 14. mars 2011 om lempning av merverdiavgiftsplikten ved oms
 
 Etter en samlet vurdering har departementet kommet fram til at det innvilges merverdiavgiftsunntak for omsetning av inngangsbilletter til arrangementet, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Dette innebærer at det på omsetning av inngangsbilletter til arrangementet ikke skal beregnes utgående merverdiavgift, samtidig som en ikke vil ha fradragsrett for inngående merverdiavgift på anskaffelser til bruk i den avgiftsunntatte delen av virksomheten. Unntaket gis inntil videre. Vedtaket gis med virkning fra søknadstidspunktet, 14. mars 2011. En nærmere redegjørelse for vedtaket følger nedenfor.
 
+*Sakens bakgrunn*
+
 Arrangementet Risør Trebåtfestival (heretter RT) startet opp i 1984, og arrangeres, ifølge sakens opplysninger årlig, første helgen i august. Inngangsbilletten til det årlige arrangementet gir de besøkende tilgang til et avgrenset område hvor det er utstillinger, stands, konserter og annen underholdning.
 
 Stiftelsen Risør Trebåtfestival ble ved Finansdepartementets avgjørelse 8. april 2002 innvilget unntak for merverdiavgift på omsetning av inngangsbilletter til arrangementet etter [merverdiavgiftsloven 1969 § 70](lov/1969-06-19-66/§70).
@@ -36,9 +38,13 @@ I tråd med ovennevnte har stiftelsen i brev 14. mars 2011 fremmet en søknad om
 
 I Skattedirektoratets brev 19. april 2012 til Finansdepartementet har direktoratet konkludert med at det ikke vil tilrå at det blir fattet vedtak etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Skattedirektoratet antar at man etter [endringslov 25. juni 2010 nr. 32](lov/2010-06-25-32) ikke lenger kan hevde at «det ikke har vært lovgivers intensjon at arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig».
 
+*Søkers anførsler*
+
 Stiftelsen anfører at RT blir arrangert i all hovedsak på samme måte som tidligere, dvs. at de forholdene som ble lagt til grunn i Finansdepartementets vedtak 8. april 2002 fortsatt gjelder for festivalen. På grunnlag av dette ber stiftelsen prinsipalt om at RT avgiftsmessig blir behandlet på samme måte som adgang til fornøyelsesparker og opplevelsessentre, dvs. at merverdiavgiften på inngangsbilletter til arrangementet blir beregnet med 8 pst. Det påpekes at i forbindelse med ikrafttredelsen av den nye merverdiavgiftsloven, var ledelsen i RT av den oppfatning at inngangsbillettene til festivalen ville bli å anse som omsetning av billetter til opplevelsessentre, som er merverdiavgiftspliktig med redusert sats, og at det derfor ved en feiltakelse ikke ble søkt om avgiftslempning innen fristen i [merverdiavgiftsloven § 22-2](lov/2009-06-19-58/§22-2) annet ledd.
 
 Subsidiært søkes det om unntak for merverdiavgift på omsetning av inngangsbilletter til arrangementet, i tråd med vedtaket 8. april 2002.
+
+*Finansdepartementets vurderinger*
 
 Finansdepartementet finner det hensiktsmessig først å knytte noen merknader til merverdiavgiftsreglene på dette spesifikke området.
 

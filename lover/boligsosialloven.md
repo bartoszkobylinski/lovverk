@@ -96,6 +96,8 @@ Kravene til planstrategi og kommuneplan etter [§ 5](lov/2022-12-20-121/§5) ann
 
 Loven gjelder fra den tiden1 Kongen bestemmer.
 
+1 Fra 1. juli 2023 iflg. [res. 20 des 2022 nr. 2299](forskrift/2022-12-20-2299).
+
 ## § 12. Endring i andre lover
 
 Med virkning fra loven trer i kraft gjøres følgende endringer i andre lover: – – –

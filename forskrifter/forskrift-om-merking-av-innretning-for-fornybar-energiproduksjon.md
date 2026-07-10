@@ -76,17 +76,29 @@ Dersom lyssignal, radarsvarer (racon) og AIS navigasjonsinnretning ikke er i fun
 
 ### 3 Lyssignal, belysning og farge
 
+*Lysvidde*
+
 IALAs anbefalinger skal følges ved beregning av lysintensitet for å møte kravet til lysvidde. Det skal forutsettes at atmosfærisk transmisjonsfaktor, TM = 0,74 (meteorologisk sikt 10 nautiske mil).
 
 I særlige tilfelle, der hvor transmisjonsfaktoren for store deler av tiden påviselig er mindre enn 0,74 (TM < 0,74), kan det gis pålegg om at den mindre transmisjonsfaktoren skal benyttes ved beregning av lysvidde.
 
+*Tenning og slukking*
+
 Lyssignal og belysning skal normalt tennes og slukkes når det omgivende lysnivået er på henholdsvis 50–100 lux og 150–200 lux.
+
+*Gul overflatefarge*
 
 De kromatiske verdiene (fargekoordinatene) for gul overflatefarge skal ligge innenfor de hjørnepunktene som er angitt for ordinær gul farge i *IALA Recommendation E-108 – Surface Colours used as Visual Signals On Aids to Navigation*1
 
+*Gult retrorefleksmateriale*
+
 Retrorefleksmateriale skal tilfredsstille krav til luminansfaktor og kromatisk verdi (fargekoordinater) som angitt for gul skiltfolie i klasse 2 og klasse 3 i *Statens vegvesens Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav.*
 
+*Gult lys*
+
 De kromatiske verdiene (fargekoordinatene) for gult lys skal ligge innenfor de hjørnepunktene som er angitt for gult lys i optimal region i *IALA Recommendation E-200-1 On Marine Signal Lights Part 1 – Colours*.
+
+1 Standardfargene RAL 1023 TRAFIKKGUL og NCS S 1080-Y GUL møter kravet til gul overflatefarge.
 
 ### 4 Standard merking av vindenergiinnretninger
 
@@ -94,11 +106,17 @@ Vindenergiinnretninger som skal merkes omfatter vindturbiner, meteorologiske mas
 
 ### 4.1 Overflatefarge, retrorefleks og identifikasjon
 
+4.1.1 *Overflatefarge*
+
 Bunnfaste og flytende vindenergiinnretninger skal ha gul overflatefarge fra henholdsvis høyeste astronomiske tidevann (HAT) eller vannlinjen opp til 15 m høyde.
 
 Der hvor deler av fundamentet til en bunnfast innretning utgjøres av betongkasse, fagverk eller lignende, eller det av andre grunner er nødvendig eller hensiktsmessig, er det anledning til å gjøre tilpasninger i bruken av gul overflatefarge.
 
+4.1.2 *Retrorefleks*
+
 Deler av overflaten med gul farge på en vindenergiinnretning skal være påført gul retroreflekterende skiltfolie i et passende mønster. Slikt materiale skal være synlig fra en hvilken som helst retning horisontalt når belyst med lyskaster i mørke.
+
+4.1.3 *Identifikasjonsfelt eller -tavler*
 
 Vindenergiinnretninger skal ha identifikasjonsfelt eller -tavler med identifikasjon i form av bokstaver og tall. Trafikkalfabetet skal brukes som skrifttype.
 
@@ -108,13 +126,19 @@ Bokstaver og tall skal ha en høyde på minimum 0,7 m, og avstanden fra ytterste
 
 Identifikasjonsfelt- eller tavler skal lyse i mørket.
 
+*Belyste identifikasjonsfelt- eller tavler*
+
 Belyste identifikasjonsfelt- eller tavler skal ha svarte bokstaver og tall på bakgrunn av gul retroreflekterende skiltfolie.
 
 Feltet eller tavlen skal fortrinnsvis ha et luminansnivå på 10 cd/m2 .
 
+*Identifikasjonsfelt- eller tavler med baklys*
+
 Identifikasjonsfelt- eller tavler med baklys skal ha svarte bokstaver og tall på transparent gul bakgrunn.
 
 Feltet eller tavlen skal fortrinnsvis ha et luminansnivå på 10 cd/m2 .
+
+*Identifikasjonsfelt- eller tavler med lysende billedpunkt*
 
 Identifikasjonsfelt- eller tavler med billedpunkt skal ha bokstaver og tall som lysende billedpunkt på svart bakgrunn.
 
@@ -124,7 +148,11 @@ Feltet eller tavlen skal fortrinnsvis ha et luminansnivå på 10 cd/m2 .
 
 Lyssignal skal fortrinnsvis være i en høyde ikke under 6 m og ikke over 15 m over HAT for en fast vindenergiinnretning eller over vannlinjen for en flytende vindenergiinnretning.
 
+4.2.1 *Lyssignal*
+
 Innretninger for energiproduksjon i sjø skal være utrustet med følgende lyssignal:Farge: GulKarakter (benevnelse): Oc Y 2sPeriode: 2 sekunder (1,75 sekund lys – 0,25 sekund mørke, dvs. arbeidssyklus 87,5 %)Lysvidde: 5 nautiske milDekning: 360° horisontalt.
+
+4.2.2 *Vindparker*
 
 Ved etablering av flere vindenergiinnretninger som utgjør en vindpark kan Kystverket godkjenne at kun vindenergiinnretninger som utgjør vindparkens perimeter merkes med lyssignal. Etter en konkret vurdering kan enkelte vindenergiinnretninger på vindparkens perimeter unntas fra kravet om merking med lyssignal. Vindenergiinnretninger som utgjør hjørnene skal alltid merkes med lyssignal. Det kan også stilles krav om merking av enkeltinnretninger inne i vindparken med lyssignal.
 
@@ -162,21 +190,31 @@ Radarsvarer skal svare med et signal i form av en passende bokstav i morsealfabe
 
 En AIS navigasjonsinnretning kan være fysisk eller virtuell:1En fysisk AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som eksisterer fysisk.En virtuell AIS navigasjonsinnretning er en AIS melding 21 'Aids-to-navigation report (AtoN)' som representerer en innretning som ikke eksisterer fysisk.
 
+*Tilgangskontroll til og rapportering i nettverket*
+
 En AIS navigasjonsinnretning skal bruke 'random access TDMA' (RATDMA) for tilgangskontroll til nettverket (jf. AIS VHF Data Link (VDL)).
 
 Rapportering til nettverket bør være Mode B med utsendelse av den samme meldingen først på kanal 1 og deretter på kanal 2 eller omvendt, i hurtig rekkefølge, nominelt 4 sekunder.
+
+*AIS navigasjonsinnretning rapport*
 
 En AIS navigasjonsinnretning rapport skal være i form av en 'Aids-to-navigation report (AtoN)' rapport med typeindikasjon:'Fixed structure offshore, such as oil platforms, wind farms',andre typeindikasjoner som for eksempel 'Special mark'.
 
 Innretninger skal betegnes med passende identifikasjon.
 
+*Maritime Mobile Service Identity*
+
 Etablering av AIS navigasjonsinnretning krever Maritime Mobile Service Identity (MMSI). Slik identitet tildeles av Telenor Maritim Radio.
+
+1 Jf. International Maritime Organization MSC.1/Circ. 1473 POLICY ON USE OF AIS AIDS TO NAVIGATION.
 
 ### 6.3 Indirekte lys (Flomlys)
 
 En vindenergiinnretning kan være belyst for å gjøre innretningen bedre synlig, for arbeid i mørket eller annet formål.
 
 Indirekte lys1 (flomlys) på vindenergiinnretninger skal ikke være til sjenanse for sjøfarende. For å unngå å trekke fisk til innretningen skal belysning av sjø unngås eller begrenses så langt det er mulig.
+
+1 Med indirekte lys menes her lys hvor observatøren ikke ser lyskilden direkte.
 
 ### 7 Bruk av navigasjonsinnretninger
 

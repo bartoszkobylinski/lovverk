@@ -46,7 +46,13 @@ Kapitlene 1, 2, 4 og 5 gjelder tillatelser hjemmehørende i alle produksjonsomr�
 
 ### § 4. Utnyttelse og justering av utnyttelse av tillatelseskapasitet
 
-Tillatelser som er omfattet av denne forskriften kan utnyttes slik, uavhengig av om tillatelsen inngår i et biomassetak etter [forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg § 47](forskrift/2008-06-17-822/§47), [§ 48](forskrift/2008-06-17-822/§48), [§ 48a](forskrift/2008-06-17-822/§48a) og [§ 48b](forskrift/2008-06-17-822/§48b).:*Produksjonsområde**Justering**Tidligere generell kapasitet**Ny generell kapasitetsutnyttelse*a.Produksjonsområde 3 (gult lys i 2020, rødt lys i 2022, rødt lys i 2024)Ned 6 pst.94 pst.88,36 pst.b.Produksjonsområde 4 (rødt lys i 2020, rødt lys i 2022, rødt lys i 2024)Ned 6 pst.88,36 pst.83,06 pst.c.Produksjonsområde 5 (rødt lys i 2020, gult lys i 2022, gult lys i 2024)Ingen justering94 pst.94 pst.
+Tillatelser som er omfattet av denne forskriften kan utnyttes slik, uavhengig av om tillatelsen inngår i et biomassetak etter [forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg § 47](forskrift/2008-06-17-822/§47), [§ 48](forskrift/2008-06-17-822/§48), [§ 48a](forskrift/2008-06-17-822/§48a) og [§ 48b](forskrift/2008-06-17-822/§48b).:
+
+|  | *Produksjonsområde* | *Justering* | *Tidligere generell kapasitet* | *Ny generell kapasitetsutnyttelse* |
+| --- | --- | --- | --- | --- |
+| a. | Produksjonsområde 3 (gult lys i 2020, rødt lys i 2022, rødt lys i 2024) | Ned 6 pst. | 94 pst. | 88,36 pst. |
+| b. | Produksjonsområde 4 (rødt lys i 2020, rødt lys i 2022, rødt lys i 2024) | Ned 6 pst. | 88,36 pst. | 83,06 pst. |
+| c. | Produksjonsområde 5 (rødt lys i 2020, gult lys i 2022, gult lys i 2024) | Ingen justering | 94 pst. | 94 pst. |
 
 Tillatelser hjemmehørende i øvrige produksjonsområder kan utnyttes 100 prosent.
 

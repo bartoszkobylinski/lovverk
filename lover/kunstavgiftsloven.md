@@ -50,6 +50,8 @@ Departementet fastsetter nærmere regler om styringen av fondet, om revisjon av 
 
 > Endret ved [lover 31 mars 1989 nr. 13](lov/1989-03-31-13), [4 des 1992 nr. 128](lov/1992-12-04-128), [22 des 2006 nr. 102](lov/2006-12-22-102) (ikr. 1 jan 2007 iflg. [res. 22 des 2006 nr. 1533](forskrift/2006-12-22-1533)).
 
+1 Jf. [EØS-avtalen art. 4](lov/1992-11-27-109/eøsl/a4).
+
 ## § 3.
 
 Avgiften innkreves av selgeren ved all omsetning av avgiftsbelagt kunst i forretninger, på separat- eller kollektive utstillinger og ved alle former for auksjon. Alle som offentlig omsetter avgiftsbelagt kunst er ansvarlig for rett innbetaling av avgiften. Det samme gjelder den som er personlig ansvarlig for omsetning av avgiftsbelagt kunst på utstillinger. De nevnte personer er også ansvarlig for rett innbetaling av avgift for offentlig omsetning som måtte finne sted ved konsulenter eller mellommenn.
@@ -85,3 +87,5 @@ Den avgift som i henhold til [merverdiavgiftsloven](lov/2009-06-19-58) i tilfell
 ## § 7.
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 15 nov 1948 iflg. res. 4 nov 1948.

@@ -90,7 +90,16 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 
 ### § 3-4. Karakterskala
 
-Vurderingsuttrykket ved avsluttande vurdering, eksamen, prøve, sensur av oppgåve eller anna vurdering skal være bestått/ikkje bestått eller ein gradert skala med fem trinn frå A til E for bestått og med F for ikkje bestått. Følgjande kvalitative forklaringar gjeld for dei ulike karaktertrinna:*Karakter**Nemning**Generell, ikkje fagspesifikk omtale av vurderingskriteria*AFramifråFramifrå prestasjon som klart utmerkjer seg. Kandidaten viser svært god vurderingsevne og stor grad av sjølvstende.BSvært godSvært god prestasjon. Kandidaten viser svært god vurderingsevne og sjølvstende.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten viser god vurderingsevne og sjølvstende på dei viktigaste områda.DNokså godEin akseptabel prestasjon med nokre vesentlege manglar. Kandidaten viser ei viss grad av vurderingsevne og sjølvstende.ETilstrekkelegPrestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten viser lita vurderingsevne og sjølvstende.FIkkje greiddPrestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten viser både manglande vurderingsevne og sjølvstende.
+Vurderingsuttrykket ved avsluttande vurdering, eksamen, prøve, sensur av oppgåve eller anna vurdering skal være bestått/ikkje bestått eller ein gradert skala med fem trinn frå A til E for bestått og med F for ikkje bestått. Følgjande kvalitative forklaringar gjeld for dei ulike karaktertrinna:
+
+| *Karakter* | *Nemning* | *Generell, ikkje fagspesifikk omtale av vurderingskriteria* |
+| --- | --- | --- |
+| A | Framifrå | Framifrå prestasjon som klart utmerkjer seg. Kandidaten viser svært god vurderingsevne og stor grad av sjølvstende. |
+| B | Svært god | Svært god prestasjon. Kandidaten viser svært god vurderingsevne og sjølvstende. |
+| C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Kandidaten viser god vurderingsevne og sjølvstende på dei viktigaste områda. |
+| D | Nokså god | Ein akseptabel prestasjon med nokre vesentlege manglar. Kandidaten viser ei viss grad av vurderingsevne og sjølvstende. |
+| E | Tilstrekkeleg | Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Kandidaten viser lita vurderingsevne og sjølvstende. |
+| F | Ikkje greidd | Prestasjon som ikkje tilfredsstiller dei faglege minimumskrava. Kandidaten viser både manglande vurderingsevne og sjølvstende. |
 
 ### § 3-5. Spesielt om eksamen i tryggleiksfag
 
@@ -216,3 +225,5 @@ Fastsett med heimel i [lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleu
 
 1. Denne forskrifta trer i kraft frå 1. juli 2017.
 2. Samtidig vert Studentreglement gjeldande frå 20. august 20161 oppheva.
+
+1 Ikke kunngjort i i Norsk Lovtidend. Lovtidend-redaksjonens anm.

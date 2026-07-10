@@ -34,6 +34,10 @@ Følgende ni nye politidistrikter med politimesterembeter opprettes:*Øst* polit
 > Endret ved [vedtak 22 jan 2016 nr. 45](forskrift/2016-01-22-45), [22 mai 2017 nr. 620](forskrift/2017-05-22-620) (i kraft 1 juni 2017).
 Se også [vedtak 15 juni 2018 nr. 1074](forskrift/2018-06-15-1074) om justeringer av distriktsinndelingen mv. i politi- og lensmannsetaten som følge av kommunereformen (i kraft 1 jan 2020).
 
+1 Vanylven ble lagt til Møre og Romsdal politidistrikt ved [vedtak 22 mai 2017 nr. 620](forskrift/2017-05-22-620), Lovdatas anm.
+
+2 Rindal legges til Trøndelag politidistrikt ved [vedtak 24 aug 2018 nr. 1267](forskrift/2018-08-24-1267) som trer i kraft når departementet bestemmer ifølge [vedtak 12 okt 2018 nr. 1575](forskrift/2018-10-12-1575), Lovdatas anm.
+
 ## III
 
 I ett politidistrikt gjøres noen endringer i det geografiske ansvarsområdet:*Oslo* politidistrikt med geografisk ansvarsområde for følgende kommuner:Asker, Bærum og Oslo.
@@ -50,6 +54,8 @@ Se også [vedtak 15 juni 2018 nr. 1074](forskrift/2018-06-15-1074) om justeringe
 Ansvaret for kontinentalsokkelen skal fortsatt deles mellom fire politidistrikter. Dagens geografiske ansvarsgrenser opprettholdes. jf. kongelig [resolusjon av 17. desember 1999 nr. 1391](forskrift/1999-12-17-1391) vedrørende forskrift om politidistrikt, namsmannsdistrikt, lagdømme og domssogn for utøvelse av politimyndighet, namsmannsmyndighet og domsmyndighet på kontinentalsokkelen og i norsk økonomisk sone, samt politimyndighet i havområdet utenfor Svalbards territorialfarvann.
 
 De nye politidistriktene tillegges ansvar etter følgende inndeling:Sør-Vest politidistrikt overtar for Rogaland politidistrikt.Møre og Romsdal politidistrikt overtar for Nordmøre og Romsdal politidistrikt.Nordland politidistrikt overtar for Helgeland politidistrikt.Troms politidistrikt opprettholdes som i dag.1
+
+1 Geografisk område endret ved [vedtak 22 mai 2017 nr. 620](forskrift/2017-05-22-620), Lovdatas anm.
 
 ## VI
 

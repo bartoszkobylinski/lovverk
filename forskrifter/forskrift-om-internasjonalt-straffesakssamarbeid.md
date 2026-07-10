@@ -28,7 +28,7 @@ eu_basis: []
 
 Denne forskriften regulerer norske myndigheters behandling av anmodninger om internasjonalt samarbeid i straffesaker.
 
-[Kapitlene](forskrift/2012-12-14-1227/kap1)[1](forskrift/2012-12-14-1227/kap1) til [3](forskrift/2012-12-14-1227/kap3) inneholder generelle bestemmelser om behandlingen av rettsanmodninger i straffesaker fra utlandet til Norge og fra Norge til utlandet. [Kapitlene](forskrift/2012-12-14-1227/kap4) [4](forskrift/2012-12-14-1227/kap4) til [6](forskrift/2012-12-14-1227/kap6) har utfyllende bestemmelser om henholdsvis rettslig fjernavhør, kommunikasjonskontroll og informasjon om bankkonti, transaksjoner mv. [Kapittel](forskrift/2012-12-14-1227/kap7) 7 har enkelte bestemmelser om internasjonalt politisamarbeid, mens [kapittel 8](forskrift/2012-12-14-1227/kap8) inneholder sluttbestemmelser.
+[Kapitlene](forskrift/2012-12-14-1227/kap1) [1](forskrift/2012-12-14-1227/kap1) til [3](forskrift/2012-12-14-1227/kap3) inneholder generelle bestemmelser om behandlingen av rettsanmodninger i straffesaker fra utlandet til Norge og fra Norge til utlandet. [Kapitlene](forskrift/2012-12-14-1227/kap4) [4](forskrift/2012-12-14-1227/kap4) til [6](forskrift/2012-12-14-1227/kap6) har utfyllende bestemmelser om henholdsvis rettslig fjernavhør, kommunikasjonskontroll og informasjon om bankkonti, transaksjoner mv. [Kapittel](forskrift/2012-12-14-1227/kap7) 7 har enkelte bestemmelser om internasjonalt politisamarbeid, mens [kapittel 8](forskrift/2012-12-14-1227/kap8) inneholder sluttbestemmelser.
 
 Saker som behandles i medhold av [lov 25. mars 1977 nr. 22](lov/1977-03-25-22) om overføring av straffeforfølging fra eller til annet europeisk land, samt saker om utlevering eller overlevering av lovbrytere, omfattes ikke av forskriften.
 

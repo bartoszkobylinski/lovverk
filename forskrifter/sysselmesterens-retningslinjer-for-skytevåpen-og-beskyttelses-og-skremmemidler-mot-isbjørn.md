@@ -22,6 +22,8 @@ eu_basis: []
 
 # Sysselmesterens retningslinjer for skytevåpen og beskyttelses- og skremmemidler mot isbjørn
 
+Retningslinjene trer i kraft 13. mai 2024.
+
 ## 1. Innledende bestemmelser
 
 Det er som hovedregel tillatt å inneha *ett* skytevåpen til bruk som isbjørnbeskyttelse per person, jf. [våpenforskrifta § 5-7 første ledd](forskrift/2021-05-07-1452/§5-7/ledd/1).
@@ -38,11 +40,19 @@ Behovet for isbjørnbeskyttelse opphører idet man forlater eller flytter fra Sv
 - Det skal benyttes ammunisjon med ekspanderende prosjektil, som har en anslagsenergi på minst 2200 Joule på 100 meter avstand. Kulevekten skal være minst 10 gram (154 grains).
 - Det er tillatt å benytte rifle med manuell omlading som er ervervet på andre grunnlag som oppfyller kravene til minimumskaliber, kulevekt og anslagsenergi.
 
+*MERK: Av hensyn til presisjon, rekkevidde, stoppkraft, funksjonalitet og pålitelighet under kalde forhold anbefaler Sysselmesteren rifle som primært beskyttelsesmiddel mot isbjørn fremfor andre våpentyper. Ervervsløyve til enhåndsvåpen vil kun gis i unntakstilfeller, jf. [våpenforskriften § 5-7](forskrift/2021-05-07-1452/§5-7).*
+
+Hjemmel: [Våpenlova § 15](lov/2018-04-20-7/§15) til [§ 17](lov/2018-04-20-7/§17), [våpenforskrifta § 5-7](forskrift/2021-05-07-1452/§5-7). Gebyr er fastsatt i [våpenforskriften § 12-2](forskrift/2021-05-07-1452/§12-2).
+
 ### 2.2 Haglevåpen
 
 - Haglevåpen er tillat å erverve til bruk som isbjørnbeskyttelse på Svalbard i medhold av [våpenlova](lov/2018-04-20-7) og [våpenforskriften § 5-7 første ledd](forskrift/2021-05-07-1452/§5-7/ledd/1).
 - Den som søker om erverv til dette formål må oppfylle alminnelige krav til vandel, edruelighet og skikkethet i [våpenlova § 15](lov/2018-04-20-7/§15) flg., samt dokumentere *«tilstrekkeleg våpendugleik»* på det aktuelle våpenet, jf. [våpenforskriften § 5-7 tredje ledd](forskrift/2021-05-07-1452/§5-7/ledd/3).
 - Haglevåpen til bruk som isbjørnbeskyttelse skal minimum være av kaliber 12 og bør minst ha magasin til fire skudd (halvauto- og pumpehagler). Det anbefales å bruke «*slugs»* (hagleammunisjon med ett prosjektil) til isbjørnbeskyttelse.
+
+*MERK: Sysselmesteren gjør oppmerksom på at magasinhagler kan være utsatt for ising og kondensproblemer, og derfor krever mer av forebyggende vedlikehold for å fungere under krevende forhold. Sysselmesteren fraråder bruk av dobbeltløpet hagle til bruk som beskyttelse mot isbjørnangrep av hensyn til antall tilgjengelige skudd. Det er ikke tillatt å leie/leie ut hagle til bruk som isbjørnbeskyttelse.*
+
+Hjemmel: [Våpenlova § 15](lov/2018-04-20-7/§15) til [§ 17](lov/2018-04-20-7/§17), [våpenforskrifta § 5-7](forskrift/2021-05-07-1452/§5-7). Gebyr er fastsatt i [våpenforskriften § 12-2](forskrift/2021-05-07-1452/§12-2).
 
 ### 2.3 Enhåndsvåpen/revolver
 
@@ -51,10 +61,16 @@ Behovet for isbjørnbeskyttelse opphører idet man forlater eller flytter fra Sv
 - Revolver som er ervervet på bakgrunn av sportskyting kan benyttes til isbjørnbeskyttelse, så lenge våpenet benytter ammunisjon med prosjektildiameter 10,9 millimeter eller større, med en kulevekt på minst 14,9 gram. (min. 44 Magnum) jf. [våpenforskriften § 5-7 annet ledd](forskrift/2021-05-07-1452/§5-7/ledd/2).
 - Det er kun personer som har løyve på revolver og er innført i Befolkningsregisteret på Svalbard som kan benytte revolver til isbjørnbeskyttelse. (Det kan gis dispensasjon i særskilte tilfeller.)
 
+*MERK: En revolver er kort og transportvennlig, og den er lett å medbringe både på kroppen og i kjøretøy. Den faktiske bruken av revolver stiller imidlertid store krav til brukerens skyteferdighet og våpenet har en begrenset rekkevidde sammenlignet med rifle. Dette påvirker bl.a. muligheten til å beskytte grupper med mennesker. Forsvarets logistikkorganisasjon konkluderte i 2015 med at det i praksis er få håndvåpen som egner seg for selvforsvar mot isbjørn, og at det i så fall er en revolver i kaliber 44 eller grovere som er det beste alternativet.*
+
+Hjemmel: [Våpenlova § 15](lov/2018-04-20-7/§15) til [§ 17](lov/2018-04-20-7/§17), [våpenforskrifta § 5-7](forskrift/2021-05-07-1452/§5-7). Gebyr er fastsatt i [våpenforskriften § 12-2](forskrift/2021-05-07-1452/§12-2).
+
 ## 3. Utleie av skytevåpen til beskyttelse mot isbjørnangrep
 
 - Det er tillatt å leie/leie ut rifle godkjent til isbjørnbeskyttelse. Det er ikke tillatt å leie enhåndsvåpen eller hagle til bruk som isbjørnbeskyttelse.
 - Utleie av rifle kan skje på følgende vilkår:Utleie av skytevåpen kan kun gjøres av våpenforhandlere med løyve til å drive utleie, jf. [våpenlova § 23](lov/2018-04-20-7/§23) og [våpenforskrifta § 9-1](forskrift/2021-05-07-1452/§9-1).Ved utleie kommer for øvrig bestemmelse om utlån til anvendelse:Personen som leier våpen må fremvise norsk våpenkort, europeisk våpenpass eller gyldig låneløyve,Søknad om løyve til lån av skytevåpen til beskyttelse mot isbjørnangrep vurderes etter de samme reglene som ved erverv i [våpenforskrifta § 5-7](forskrift/2021-05-07-1452/§5-7) og [våpenlovas](lov/2018-04-20-7) krav til vandel, edruelighet og skikkethet jf. [våpenlova § 16](lov/2018-04-20-7/§16) og [våpenforskrifta § 7-4](forskrift/2021-05-07-1452/§7-4) flg.Leid våpen skal ikke overlates til andre,Utleier skal gi leietaker en utlånserklæring i henhold til [våpenforskrifta § 6-9](forskrift/2021-05-07-1452/§6-9),Leietaker skal alltid ha med seg utlånserklæringen sammen med låneløyvet/våpenkort/våpenpass når vedkommende bærer eller fører med seg skytevåpen eller ammunisjon.Utleier skal ellers følge de krav som følger av [våpenforskrifta kapittel 9](forskrift/2021-05-07-1452/kap9).
+
+Hjemmel: [Våpenlova § 18](lov/2018-04-20-7/§18), [våpenforskrifta § 6-9](forskrift/2021-05-07-1452/§6-9) til [§ 6-11](forskrift/2021-05-07-1452/§6-11)
 
 ## 4. Utlån av skytevåpen til beskyttelse mot isbjørnangrep
 
@@ -68,6 +84,8 @@ Behovet for isbjørnbeskyttelse opphører idet man forlater eller flytter fra Sv
 - Utlånserklæringen skal knytte seg til et spesifisert våpen og det aktuelle våpennummeret skal oppgis på utlånserklæringen
 - Tidsrommet for utlånet skal oppgis i utlånserklæringen
 
+Hjemmel: [Våpenlova § 18](lov/2018-04-20-7/§18), [våpenforskrifta § 6-11](forskrift/2021-05-07-1452/§6-11)
+
 ### 4.2 Utlån fra bedrifter o.l. til medlemmer eller ansatte i organisasjonen
 
 - Den som har løyve til å ha løyvepliktige skytevåpen og våpendeler etter [våpenlova § 5](lov/2018-04-20-7/§5) eller [§ 6](lov/2018-04-20-7/§6), kan låne tilsvarende våpen. Personer som ikke har våpenkort for tilsvarende våpentype, må søke om løyve til lån av skytevåpen.
@@ -75,7 +93,11 @@ Behovet for isbjørnbeskyttelse opphører idet man forlater eller flytter fra Sv
 - Bedrifter kan låne ut enhåndsvåpen til ansatte eller medlemmer i organisasjonen i henhold til [våpenforskrifta § 6-9](forskrift/2021-05-07-1452/§6-9) og [§ 6-10](forskrift/2021-05-07-1452/§6-10). Dette forutsetter at låntaker har norsk våpenkort eller europeisk våpenpass på et våpen i samme våpenkategori – altså revolver eller pistol
 - Leieperioden skal tidfestes og skal sammenfalle med arbeidsforholdets lengde, ev. et kortere tidsrom ut fra konkret behov
 
+*MERK:* *Långiver må forvisse seg om at låntaker har norsk våpenkort eller europeisk våpenpass på enten rifle eller hagle eller en «høyere våpenkategori» (enhåndsvåpen/høykapasitetsvåpen). Våpenkategorier (fra lav–høy): **Jaktvåpen** (rifle og hagle) – **enhåndsvåpen** (revolver og pistol) – **høykapasitetsvåpen med stort skadepotensial** (halvautomatiske våpen). Man kan erverve/låne/leie seg nedover i kategoriene, men ikke motsatt. Dette innebærer at dersom man har våpenkort på et enhåndsvåpen, kan man leie en rifle til isbjørnbeskyttelse.*
+
 - Ansatte/medlemmer som har gyldig våpenkort/låneløyve kan låne våpen fra bedriftens våpenpool. Den våpenansvarlige i bedriften avgjør hvilket våpen som skal lånes ut mot utlånserklæring.
+
+Hjemmel: [Våpenlova § 18](lov/2018-04-20-7/§18), [våpenforskrifta § 6-9](forskrift/2021-05-07-1452/§6-9) flg.
 
 ## 5. Ammunisjon og andre skremmemidler
 
@@ -100,6 +122,8 @@ Behovet for isbjørnbeskyttelse opphører idet man forlater eller flytter fra Sv
 - Ved transport av skytevåpen innenfor bebygd område, skal vital del av våpenet tas ut.
 - [Våpenforskriftas](forskrift/2021-05-07-1452) regler i [§ 6-7 andre ledd](forskrift/2021-05-07-1452/§6-7/ledd/2) gjelder tilsvarende for motorvogn på Svalbard. Unntak gjelder for skytevåpen og ammunisjon som transporteres på snøscooter utenfor bebygd område. Utenfor bebygd område kan snøscooteren forlates uten at vital del av skytevåpenet er fjernet. Innenfor bebygd område skal alltid vital del av våpenet fjernes dersom snøskuteren forlates.
 - Ved transport av våpen utenfor bebygd område, anses våpenet som «i bruk». Det samme gjelder under forflytning ved bruk av motorisert kjøretøy som snøskuter, båt e.l.
+
+*MERK: Alle som skal ha løyve til å erverve, låne eller leie skytevåpen til bruk som isbjørnbeskyttelse må oppfylle de alminnelige krav til vandel, edruelighet og skikkethet i [våpenlova § 15](lov/2018-04-20-7/§15) flg.*
 
 ## 7. Midlertidig innførsel av skytevåpen til isbjørnbeskyttelse
 

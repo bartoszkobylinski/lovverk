@@ -32,19 +32,19 @@ Produktene kan da ikke brukes til framstilling av næringsmidler og må merkes p
 
 ## § 2. Produktbeskrivelser og betegnelser
 
-1. *Syrekasein til konsum:* et melkeprodukt framstilt ved utfelling, vasking og tørking av syreutfelt koagel fra skummetmelk og/eller fra andre produkter framstilt av melk.
+1\. *Syrekasein til konsum:* et melkeprodukt framstilt ved utfelling, vasking og tørking av syreutfelt koagel fra skummetmelk og/eller fra andre produkter framstilt av melk.
 
-2. *Løypekasein til konsum:* et melkeprodukt framstilt ved utfelling, vasking og tørking av koagel fra skummetmelk og/eller fra andre produkter framstilt av melk. Koagelet framkommer ved reaksjon med løype eller andre koagulerende enzymer.
+2\. *Løypekasein til konsum:* et melkeprodukt framstilt ved utfelling, vasking og tørking av koagel fra skummetmelk og/eller fra andre produkter framstilt av melk. Koagelet framkommer ved reaksjon med løype eller andre koagulerende enzymer.
 
-3. *Kaseinater til konsum:* et melkeprodukt framstilt ved behandling av kaseiner til konsum eller koagel fra kaseiner til konsum, med nøytraliserende hjelpestoffer etterfulgt av tørking.
+3\. *Kaseinater til konsum:* et melkeprodukt framstilt ved behandling av kaseiner til konsum eller koagel fra kaseiner til konsum, med nøytraliserende hjelpestoffer etterfulgt av tørking.
 
 ## § 3. Krav til merking
 
-1. På emballasje, beholdere eller etiketter til melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), skal de følgende opplysningene angis. Opplysningene skal være godt synlige, lett leselige og ikke kunne fjernes:melkeproduktets betegnelse, som angitt i [§ 2](forskrift/2017-05-08-561/§2). Kaseinater til konsum skal også ha en angivelse av kationens eller kationenes art, som angitt i vedlegg II bokstav d)for produkter, som omsettes i blandinger:angivelsen «blanding av ... » etterfulgt av betegnelsene for de forskjellige produkter som blandingen består av, i synkende rekkefølge etter vektangivelse av kationens eller kationenes art som angitt i vedlegg II bokstav d), for kaseinater til konsumproteininnholdet for blandinger som inneholder kaseinater til konsumproduktenes nettomengde utrykt i kilogram eller gramnavn eller firma og adresse til driftsansvarlige for næringsmiddelforetaket, i hvis navn eller firma produktet omsettes. Hvis den driftsansvarlige for næringsmiddelforetaket ikke er etablert i Unionen, den som importerer til unionsmarkedetnavnet på opprinnelseslandet for produkter som importeres fra tredjestateridentifikasjon av varepartiet for produktene eller produksjonsdatoen.Som et unntak fra denne paragrafens første ledd, kan opplysningene i første ledd bokstav b) pkt. iii), og første ledd bokstav c), d) og e), bare angis i et handelsdokument.
+1\. På emballasje, beholdere eller etiketter til melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), skal de følgende opplysningene angis. Opplysningene skal være godt synlige, lett leselige og ikke kunne fjernes:melkeproduktets betegnelse, som angitt i [§ 2](forskrift/2017-05-08-561/§2). Kaseinater til konsum skal også ha en angivelse av kationens eller kationenes art, som angitt i vedlegg II bokstav d)for produkter, som omsettes i blandinger:angivelsen «blanding av ... » etterfulgt av betegnelsene for de forskjellige produkter som blandingen består av, i synkende rekkefølge etter vektangivelse av kationens eller kationenes art som angitt i vedlegg II bokstav d), for kaseinater til konsumproteininnholdet for blandinger som inneholder kaseinater til konsumproduktenes nettomengde utrykt i kilogram eller gramnavn eller firma og adresse til driftsansvarlige for næringsmiddelforetaket, i hvis navn eller firma produktet omsettes. Hvis den driftsansvarlige for næringsmiddelforetaket ikke er etablert i Unionen, den som importerer til unionsmarkedetnavnet på opprinnelseslandet for produkter som importeres fra tredjestateridentifikasjon av varepartiet for produktene eller produksjonsdatoen.Som et unntak fra denne paragrafens første ledd, kan opplysningene i første ledd bokstav b) pkt. iii), og første ledd bokstav c), d) og e), bare angis i et handelsdokument.
 
-2. En medlemsstat skal på sitt territorium forby omsetning av melkeprodukter, som definert i [§ 2](forskrift/2017-05-08-561/§2) bokstav a), b) og c), hvis de nevnte opplysningene i [§ 3](forskrift/2017-05-08-561/§3) første ledd, ikke er angitt på et språk, som er lett forståelig for kjøperne i den medlemsstaten hvor disse produktene omsettes. Disse melkeprodukter kan likevel omsettes, hvis opplysningene er formidlet på annet vis av driftsansvarlige for næringsmiddelforetaket. Opplysningene kan angis på flere språk.
+2\. En medlemsstat skal på sitt territorium forby omsetning av melkeprodukter, som definert i [§ 2](forskrift/2017-05-08-561/§2) bokstav a), b) og c), hvis de nevnte opplysningene i [§ 3](forskrift/2017-05-08-561/§3) første ledd, ikke er angitt på et språk, som er lett forståelig for kjøperne i den medlemsstaten hvor disse produktene omsettes. Disse melkeprodukter kan likevel omsettes, hvis opplysningene er formidlet på annet vis av driftsansvarlige for næringsmiddelforetaket. Opplysningene kan angis på flere språk.
 
-3. Hvis minimumsinnholdet av melkeproteiner som angitt i vedlegg I del I bokstav a) punkt 2, vedlegg I del II bokstav a) punkt 2, og i vedlegg II bokstav a) punkt 2 er overskredet i melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), kan dette på egnet måte angis på produktenes emballasje, beholdere eller etiketter, uten at det berører andre unionsbestemmelser.
+3\. Hvis minimumsinnholdet av melkeproteiner som angitt i vedlegg I del I bokstav a) punkt 2, vedlegg I del II bokstav a) punkt 2, og i vedlegg II bokstav a) punkt 2 er overskredet i melkeproduktene som definert i [§ 2](forskrift/2017-05-08-561/§2), kan dette på egnet måte angis på produktenes emballasje, beholdere eller etiketter, uten at det berører andre unionsbestemmelser.
 
 ## § 4. Tilsyn og vedtak
 
@@ -87,6 +87,8 @@ hvorav minimum innhold av kaseiner84 vektprosent
 5. Organoleptiske egenskaperLukt: Ingen fremmed lukt.Utseende: Farge fra hvit til kremfarget; produktet skal ikke inneholde klumper, som ikke gir etter for et lett trykk.
 
 ## Vedlegg II. Kaseinater til konsum
+
+*Krav til kaseinater til konsum*
 
 1. Vesentlige faktorer i sammensetningen1. Maksimum innhold av vann8 vektprosent2. Minimum innhold av melkeproteiner, regnet ut fra tørrstoffinnhold
 hvorav minimum innhold av kaseiner88 vektprosent

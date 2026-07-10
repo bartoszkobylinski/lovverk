@@ -28,17 +28,35 @@ eu_basis: []
 
 ## II
 
+I [forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister](forskrift/2001-12-21-1483) gjøres følgende endringer:
+
+– – –
+
 ## III
+
+I [forskrift 14. desember 2007 nr. 1418 om innsamling og behandling av helseopplysninger i register over svangerskapsavbrudd](forskrift/2007-12-14-1418) gjøres følgende endringer:
+
+– – –
 
 ## IV
 
+I [forskrift 11. juni 2021 nr. 1877 om endringer i forskrift 21. desember 2001 nr. 1483 om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister, romertall I](forskrift/2021-06-11-1877/kapI), gjøres følgende endringer:
+
+[§ 1-2 første ledd](forskrift/2001-12-21-1483/§1-2/ledd/1) nytt punkt nr. 6 skal lyde:
+
 kvinner som blir behandlet med assistert befruktning og kvinnens eventuelle partner.
 
+[§ 1-7](forskrift/2001-12-21-1483/§1-7) innledningen i første ledd skal lyde:
+
 Medisinsk fødselsregister kan uten samtykke inneholde følgende opplysninger om moren til den fødte, samt om kvinner som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2), [5](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/5) og [6](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/6) i den utstrekning det er nødvendig for å nå formålet med registeret:
+
+[§ 1-10 første ledd](forskrift/2001-12-21-1483/§1-10/ledd/1) skal lyde:
 
 Medisinsk fødselsregister kan uten samtykke inneholde opplysninger om navn, fødselsnummer og adresse til den fødtes far eller medmor. Medisinsk fødselsregister kan også inneholde slike opplysninger om faren eller medmoren til fostre der hvor svangerskapet er avbrutt på grunn av forhold som nevnt i [§ 1-2 første ledd nr. 2](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/2) og [5](forskrift/2001-12-21-1483/§1-2/ledd/1/nummer/5).
 
 ## V
+
+I [forskrift 31. mai 2013 nr. 563 om nasjonal kjernejournal](forskrift/2013-05-31-563) skal [§ 5 første ledd første punktum](forskrift/2013-05-31-563/§5/ledd/1/setning/1) lyde: – – –
 
 ## VI
 

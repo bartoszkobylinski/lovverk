@@ -31,3 +31,5 @@ eu_basis: []
 ## § 2. Ikrafttredelse
 
 Forskriften trer i kraft straks.
+
+Se her for å lese engelsk versjon av forordning [(EU) 2015/909](eu/32015r0909): [(pdf)](static/SF/32015r0909e-01.pdf)

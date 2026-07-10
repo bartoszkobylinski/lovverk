@@ -294,11 +294,38 @@ Underveisvurdering gis i løpet av opplæringen og gir tilbakemelding på i hvil
 
 Vurderingsuttrykk ved avsluttende emnevurdering og andre vurderinger er normalt en gradert skala fra A til E for bestått, og F for ikke bestått.
 
-Bokmål:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som skiller seg klart ut. Studenten har svært gode kunnskaper, ferdigheter og generell kompetanse.BMeget godMeget god prestasjon. Studenten har meget gode kunnskaper, ferdigheter og generell kompetanse.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten har gode kunnskaper, ferdigheter og generell kompetanse.DNokså godAkseptabel prestasjon med noen vesentlige mangler. Studenten har nokså gode kunnskaper, ferdigheter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten har oppfylt minimumskravene som blir stilt til kunnskaper, ferdigheter og generell kompetanse.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene. Studenten har ikke bestått på grunn av vesentlige mangler når det gjelder faglige kunnskaper, ferdigheter og generell kompetanse.
+Bokmål:
 
-Nynorsk: *Symbol**Nemning**Generell, ikkje fagspesifikk omtale av vurderingskriterium*AFramifråFramifrå prestasjon som skil seg klårt ut. Studenten har svært gode kunnskapar, ferdigheiter og generell kompetanseBMykje godMykje god prestasjon. Studenten har mykje gode kunnskapar, ferdigheiter og generell kompetanse.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten har gode kunnskapar, ferdigheiter og generell kompetanse.DNokså godAkseptabel prestasjon med nokre vesentlege manglar. Studenten har nokså gode kunnskapar, ferdigheiter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten har oppfylt minimumskrava som blir stilt til kunnskapar, ferdigheiter og generell kompetanse.FIkkje beståttPrestasjon som ikkje tilfredsstiller minimumskrava. Studenten har ikkje bestått på grunn av vesentlege manglar når det gjeld faglege kunnskapar, ferdigheiter og generell kompetanse.
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som skiller seg klart ut. Studenten har svært gode kunnskaper, ferdigheter og generell kompetanse. |
+| B | Meget god | Meget god prestasjon. Studenten har meget gode kunnskaper, ferdigheter og generell kompetanse. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten har gode kunnskaper, ferdigheter og generell kompetanse. |
+| D | Nokså god | Akseptabel prestasjon med noen vesentlige mangler. Studenten har nokså gode kunnskaper, ferdigheter og generell kompetanse. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten har oppfylt minimumskravene som blir stilt til kunnskaper, ferdigheter og generell kompetanse. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. Studenten har ikke bestått på grunn av vesentlige mangler når det gjelder faglige kunnskaper, ferdigheter og generell kompetanse. |
 
-Engelsk: *Symbol**Description**General, qualitative, non-subject specific description of the assessment valuation criteria*AExcellentAn excellent performance, clearly outstanding. The candidate demonstrates excellent knowledge, skills and general competence.BVery GoodA very good performance. The candidate demonstrates very good knowledge, skills and general competence.CGoodA good performance in most areas. The candidate demonstrates good knowledge, skills and general competence.DSatisfactoryA satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of knowledge, skills and general competence.ESufficientA performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited degree of knowledge, skills and general competence.FFailedA performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject.
+Nynorsk:
+
+| *Symbol* | *Nemning* | *Generell, ikkje fagspesifikk omtale av vurderingskriterium* |
+| --- | --- | --- |
+| A | Framifrå | Framifrå prestasjon som skil seg klårt ut. Studenten har svært gode kunnskapar, ferdigheiter og generell kompetanse |
+| B | Mykje god | Mykje god prestasjon. Studenten har mykje gode kunnskapar, ferdigheiter og generell kompetanse. |
+| C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten har gode kunnskapar, ferdigheiter og generell kompetanse. |
+| D | Nokså god | Akseptabel prestasjon med nokre vesentlege manglar. Studenten har nokså gode kunnskapar, ferdigheiter og generell kompetanse. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten har oppfylt minimumskrava som blir stilt til kunnskapar, ferdigheiter og generell kompetanse. |
+| F | Ikkje bestått | Prestasjon som ikkje tilfredsstiller minimumskrava. Studenten har ikkje bestått på grunn av vesentlege manglar når det gjeld faglege kunnskapar, ferdigheiter og generell kompetanse. |
+
+Engelsk:
+
+| *Symbol* | *Description* | *General, qualitative, non-subject specific description of the assessment valuation criteria* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. The candidate demonstrates excellent knowledge, skills and general competence. |
+| B | Very Good | A very good performance. The candidate demonstrates very good knowledge, skills and general competence. |
+| C | Good | A good performance in most areas. The candidate demonstrates good knowledge, skills and general competence. |
+| D | Satisfactory | A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of knowledge, skills and general competence. |
+| E | Sufficient | A performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited degree of knowledge, skills and general competence. |
+| F | Failed | A performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject. |
 
 I det enkelte emne eller vurderingssituasjon kan det benyttes vurderingsuttrykket «bestått – ikke bestått». Hvilke emner dette gjelder kommer fram av studieplanen. Karakterskalaen bestått/ikke bestått er et selvstendig vurderingsuttrykk uten sammenheng med gradert skala (A–F).
 

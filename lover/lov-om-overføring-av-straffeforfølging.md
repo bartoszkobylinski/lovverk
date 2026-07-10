@@ -54,6 +54,8 @@ Loven gjelder bare handlinger som er foretatt etter at konvensjonen er trådt i 
 
 Loven trer i kraft når Kongen bestemmer.1
 
+1 Fra 30 mars 1978 iflg. res. 10 mars 1978.
+
 ## Del B
 
 Fra den tid loven trer i kraft, gjøres disse endringer: – – –
@@ -61,6 +63,8 @@ Fra den tid loven trer i kraft, gjøres disse endringer: – – –
 ## Del C
 
 I den europeiske konvensjon 15. mai 1972 om overføring av straffesaker lyder følgende bestemmelser slik:1
+
+1 Ved ratifikasjon ble det tatt forbehold i henhold til konvensjonens artikkel 41 nr. 1, jf. konvensjonens vedlegg I bokstavene (d) og (h), om ikke å akseptere artikkel 23 samt konvensjonens bestemmelser om negativ rettskraft («ne bis in idem»), jf. artiklene 35-37, for de tilfelle gjerningsmannen var norsk statsborger eller hadde bopel i Norge da handlingen ble begått, jf. [lov 25 mars 1977 nr. 23](lov/1977-03-25-23) om samtykke til ratifikasjon, med visse forbehold, av Den europeiske konvensjon om overføring av straffesaker, datert Strasbourg 15 mai 1972 [pkt](lov/1977-03-25-22/kap2). 2.
 
 ### Del I. Definisjoner
 
@@ -72,9 +76,9 @@ I denne konvensjonomfatter «lovbrudd» handlinger som omfattes av straffelovgiv
 
 ### Art 2
 
-1. Ved anvendelsen av denne konvensjon skal enhver kontraherende stat ha kompetanse til straffeforfølging etter sin egen straffelovgivning av et hvert lovbrudd som lovgivningen i en annen kontraherende stat gjelder for.
+1\. Ved anvendelsen av denne konvensjon skal enhver kontraherende stat ha kompetanse til straffeforfølging etter sin egen straffelovgivning av et hvert lovbrudd som lovgivningen i en annen kontraherende stat gjelder for.
 
-2. Såframt den kontraherende stats kompetanse utelukkende bygger på regelen i nr. 1 i denne artikkel, kan den bare utøves når en annen kontraherende stat har anmodet om straffeforfølging.
+2\. Såframt den kontraherende stats kompetanse utelukkende bygger på regelen i nr. 1 i denne artikkel, kan den bare utøves når en annen kontraherende stat har anmodet om straffeforfølging.
 
 ### Art 3
 
@@ -94,29 +98,29 @@ Bestemmelsene i del III i denne konvensjon begrenser ikke den kompetanse som den
 
 ### Art 6
 
-1. Når en person er mistenkt for å ha begått et lovbrudd etter lovgivningen i en kontraherende stat, kan denne stat anmode en annen kontraherende stat om å gå til straffeforfølging i de tilfelle og på de vilkår som er fastsatt i denne konvensjon.
+1\. Når en person er mistenkt for å ha begått et lovbrudd etter lovgivningen i en kontraherende stat, kan denne stat anmode en annen kontraherende stat om å gå til straffeforfølging i de tilfelle og på de vilkår som er fastsatt i denne konvensjon.
 
-2. Dersom en kontraherende stat etter reglene i denne konvensjon kan anmode en annen kontraherende stat om å gå til straffeforfølging, skal de kompetente myndigheter i førstnevnte stat overveie denne mulighet.
+2\. Dersom en kontraherende stat etter reglene i denne konvensjon kan anmode en annen kontraherende stat om å gå til straffeforfølging, skal de kompetente myndigheter i førstnevnte stat overveie denne mulighet.
 
 ### Art 7
 
-1. Straffeforfølging kan ikke skje i den anmodete stat med mindre det lovbrudd som det er anmodet om straffeforfølging for, ville vært et lovbrudd dersom det var begått på denne stats territorium, og gjerningsmannen i så fall ville kunne vært pålagt en sanksjon også etter dette lands lovgivning.
+1\. Straffeforfølging kan ikke skje i den anmodete stat med mindre det lovbrudd som det er anmodet om straffeforfølging for, ville vært et lovbrudd dersom det var begått på denne stats territorium, og gjerningsmannen i så fall ville kunne vært pålagt en sanksjon også etter dette lands lovgivning.
 
-2. Dersom lovbruddet er begått av en person i offentlig verv eller mot en slik person, en institusjon eller annet av offentlig karakter i den anmodende stat, skal lovbruddet i den anmodete stat ansees for begått av en person i offentlig verv i denne stat eller mot en slik person, en institusjon eller annet av tilsvarende karakter i den anmodete stat.
+2\. Dersom lovbruddet er begått av en person i offentlig verv eller mot en slik person, en institusjon eller annet av offentlig karakter i den anmodende stat, skal lovbruddet i den anmodete stat ansees for begått av en person i offentlig verv i denne stat eller mot en slik person, en institusjon eller annet av tilsvarende karakter i den anmodete stat.
 
 ### Art 8
 
-1. En kontraherende stat kan anmode en annen kontraherende stat om å gå til straffeforfølging i et eller flere av følgende tilfelle:dersom den mistenkte er bosatt i den anmodete stat;dersom den mistenkte er statsborger i den anmodete stat eller dersom denne stat er hans opphavelige heimland;dersom den mistenkte soner eller skal sone en dom i den anmodete stat som medfører frihetsberøvelse;dersom straffeforfølging mot den mistenkte for samme eller andre lovbrudd er satt i gang i den anmodete stat;dersom den finner at overføring av straffeforfølging er ønskelig av hensyn til sakens oppklaring, særlig fordi det viktigste bevismateriale finnes i den anmodete stat;dersom den finner at fullbyrdingen i den anmodete stat av en mulig straffedom ville bedre mulighetene for domfeltes resosialisering;dersom den finner at mistenktes personlige nærvær ikke kan sikres under sakens behandling i den anmodende stat og hans personlige nærvær kan sikres under sakens behandling i den anmodete stat;dersom den finner at den ikke selv vil være i stand til å fullbyrde en mulig straffedom, selv om adgangen til utlevering er til stede, og at den anmodete stat vil være i stand til dette.
+1\. En kontraherende stat kan anmode en annen kontraherende stat om å gå til straffeforfølging i et eller flere av følgende tilfelle:dersom den mistenkte er bosatt i den anmodete stat;dersom den mistenkte er statsborger i den anmodete stat eller dersom denne stat er hans opphavelige heimland;dersom den mistenkte soner eller skal sone en dom i den anmodete stat som medfører frihetsberøvelse;dersom straffeforfølging mot den mistenkte for samme eller andre lovbrudd er satt i gang i den anmodete stat;dersom den finner at overføring av straffeforfølging er ønskelig av hensyn til sakens oppklaring, særlig fordi det viktigste bevismateriale finnes i den anmodete stat;dersom den finner at fullbyrdingen i den anmodete stat av en mulig straffedom ville bedre mulighetene for domfeltes resosialisering;dersom den finner at mistenktes personlige nærvær ikke kan sikres under sakens behandling i den anmodende stat og hans personlige nærvær kan sikres under sakens behandling i den anmodete stat;dersom den finner at den ikke selv vil være i stand til å fullbyrde en mulig straffedom, selv om adgangen til utlevering er til stede, og at den anmodete stat vil være i stand til dette.
 
-2. I tilfelle en mistenkt er endelig dømt i en kontraherende stat, kan denne stat bare anmode om overføring av straffeforfølgingen i ett eller flere av de tilfelle som er nevnt i første ledd i denne artikkel dersom den ikke selv kan fullbyrde dommen, selv når muligheten for utlevering tas i betraktning, og dersom den annen kontraherende stat ikke anerkjenner fullbyrding av en utenlandsk dom av prinsipielle grunner eller avslår å fullbyrde en slik dom.
+2\. I tilfelle en mistenkt er endelig dømt i en kontraherende stat, kan denne stat bare anmode om overføring av straffeforfølgingen i ett eller flere av de tilfelle som er nevnt i første ledd i denne artikkel dersom den ikke selv kan fullbyrde dommen, selv når muligheten for utlevering tas i betraktning, og dersom den annen kontraherende stat ikke anerkjenner fullbyrding av en utenlandsk dom av prinsipielle grunner eller avslår å fullbyrde en slik dom.
 
 ### Art 9
 
-1. De kompetente myndigheter i den anmodete stat skal behandle en anmodning om straffeforfølging som er fremmet i samsvar med de foregående artikler. De skal, i samsvar med sin egen lovgivning, avgjøre hvilke tiltak anmodningen gir anledning til.
+1\. De kompetente myndigheter i den anmodete stat skal behandle en anmodning om straffeforfølging som er fremmet i samsvar med de foregående artikler. De skal, i samsvar med sin egen lovgivning, avgjøre hvilke tiltak anmodningen gir anledning til.
 
-2. I tilfelle straff for lovbruddet etter den anmodete stats lovgivning pålegges av en administrativ myndighet, skal denne stat så snart som mulig underrette den anmodende stat om dette med mindre den anmodete stat har gitt en erklæring i samsvar med regelen i nr. 3 i denne artikkel.
+2\. I tilfelle straff for lovbruddet etter den anmodete stats lovgivning pålegges av en administrativ myndighet, skal denne stat så snart som mulig underrette den anmodende stat om dette med mindre den anmodete stat har gitt en erklæring i samsvar med regelen i nr. 3 i denne artikkel.
 
-3. Enhver kontraherende stat kan ved undertegning eller deponering av sitt ratifikasjons-, godkjennings- eller tiltredingsdokument, eller på et hvilket som helst senere tidspunkt tilkjennegi ved en erklæring stilet til Europarådets generalsekretær, på hvilke vilkår dens lovgivning gir heimel for at visse lovbrudd kan straffes av en administrativ myndighet. En slik erklæring skal tre istedenfor den melding som er nevnt i nr. 2 i denne artikkel.
+3\. Enhver kontraherende stat kan ved undertegning eller deponering av sitt ratifikasjons-, godkjennings- eller tiltredingsdokument, eller på et hvilket som helst senere tidspunkt tilkjennegi ved en erklæring stilet til Europarådets generalsekretær, på hvilke vilkår dens lovgivning gir heimel for at visse lovbrudd kan straffes av en administrativ myndighet. En slik erklæring skal tre istedenfor den melding som er nevnt i nr. 2 i denne artikkel.
 
 ### Art 10
 
@@ -128,19 +132,19 @@ Unntatt i tilfelle som er nevnt i artikkel 10, kan den anmodete stat bare avslå
 
 ### Art 12
 
-1. Den anmodete stat skal trekke tilbake sin godkjenning av anmodningen dersom det etter at den ble godkjent viser seg å foreligge en grunn nevnt i artikkel 10 i denne konvensjon for ikke å foreta noen tiltak i anledning av anmodningen.
+1\. Den anmodete stat skal trekke tilbake sin godkjenning av anmodningen dersom det etter at den ble godkjent viser seg å foreligge en grunn nevnt i artikkel 10 i denne konvensjon for ikke å foreta noen tiltak i anledning av anmodningen.
 
-2. Den anmodete stat kan trekke tilbake sin godkjenning av anmodningen:dersom det viser seg at den mistenkte persons personlige nærvær ikke kan sikres under sakens behandling i denne stat eller at den dom som måtte bli avsagt ikke kan fullbyrdes i denne stat;dersom en av de grunner for avslag som er nevnt i artikkel 11 viser seg å foreligge før saken er brakt inn for retten; elleri andre tilfelle såfremt den anmodende stat samtykker i det.
+2\. Den anmodete stat kan trekke tilbake sin godkjenning av anmodningen:dersom det viser seg at den mistenkte persons personlige nærvær ikke kan sikres under sakens behandling i denne stat eller at den dom som måtte bli avsagt ikke kan fullbyrdes i denne stat;dersom en av de grunner for avslag som er nevnt i artikkel 11 viser seg å foreligge før saken er brakt inn for retten; elleri andre tilfelle såfremt den anmodende stat samtykker i det.
 
 ### Kapittel 2. Framgangsmåten ved overføring
 
 ### Art 13
 
-1. Alle anmodninger som er nevnt i denne konvensjon skal framsettes skriftlig. De skal, på samme måte som alle meldinger som er nødvendige ved anvendelsen av konvensjonen, sendes enten av justisdepartementet i den anmodende stat til justisdepartementet i den anmodete stat, eller – etter særskilt gjensidig avtale – direkte av myndighetene i den anmodende stat til myndighetene i den anmodete stat. De skal sendes tilbake gjennom de samme myndigheter.
+1\. Alle anmodninger som er nevnt i denne konvensjon skal framsettes skriftlig. De skal, på samme måte som alle meldinger som er nødvendige ved anvendelsen av konvensjonen, sendes enten av justisdepartementet i den anmodende stat til justisdepartementet i den anmodete stat, eller – etter særskilt gjensidig avtale – direkte av myndighetene i den anmodende stat til myndighetene i den anmodete stat. De skal sendes tilbake gjennom de samme myndigheter.
 
-2. Når det haster, kan anmodninger og meldinger sendes gjennom Den internasjonale kriminalpolitiorganisasjon (INTERPOL).
+2\. Når det haster, kan anmodninger og meldinger sendes gjennom Den internasjonale kriminalpolitiorganisasjon (INTERPOL).
 
-3. Enhver kontraherende stat kan ved erklæring stilet til Europarådets generalsekretær, tilkjennegi at den for sitt eget vedkommende ønsker å følge andre regler for oversending enn de som er fastsatt i nr. 1 i denne artikkel.
+3\. Enhver kontraherende stat kan ved erklæring stilet til Europarådets generalsekretær, tilkjennegi at den for sitt eget vedkommende ønsker å følge andre regler for oversending enn de som er fastsatt i nr. 1 i denne artikkel.
 
 ### Art 14
 
@@ -148,15 +152,15 @@ Dersom en kontraherende stat finner at de opplysninger som er gitt av en annen k
 
 ### Art 15
 
-1. Sammen med en anmodning om straffeforfølging skal følge straffesakens dokumenter i original eller bekreftet kopi og de dokumenter som ellers er nødvendige. Dersom den mistenkte person er holdt i forvaring i samsvar med reglene i [kapittel 5](lov/1977-03-25-22/kap5) og den anmodende stat ikke er i stand til å oversende disse dokumenter samtidig med anmodningen om straffeforfølging, kan imidlertid dokumentene sendes senere.
+1\. Sammen med en anmodning om straffeforfølging skal følge straffesakens dokumenter i original eller bekreftet kopi og de dokumenter som ellers er nødvendige. Dersom den mistenkte person er holdt i forvaring i samsvar med reglene i [kapittel 5](lov/1977-03-25-22/kap5) og den anmodende stat ikke er i stand til å oversende disse dokumenter samtidig med anmodningen om straffeforfølging, kan imidlertid dokumentene sendes senere.
 
-2. Den anmodende stat skal også underrette den anmodete stat skriftlig om enhver prosesshandling og ethvert tiltak i den anmodende stat etter at anmodningen ble oversendt for så vidt det har betydning for straffeforfølgingen. Sammen med denne melding skal følge alle dokumenter av betydning.
+2\. Den anmodende stat skal også underrette den anmodete stat skriftlig om enhver prosesshandling og ethvert tiltak i den anmodende stat etter at anmodningen ble oversendt for så vidt det har betydning for straffeforfølgingen. Sammen med denne melding skal følge alle dokumenter av betydning.
 
 ### Art 16
 
-1. Den anmodete stat skal uten opphold gi den anmodende stat melding om sin avgjørelse av anmodningen om straffeforfølging.
+1\. Den anmodete stat skal uten opphold gi den anmodende stat melding om sin avgjørelse av anmodningen om straffeforfølging.
 
-2. Den anmodete stat skal også underrette den anmodende stat om at straffeforfølging er frafalt, og om den avgjørelse som er blitt resultatet av forfølgingen. En bekreftet kopi av enhver skriftlig avgjørelse skal oversendes til den anmodende stat.
+2\. Den anmodete stat skal også underrette den anmodende stat om at straffeforfølging er frafalt, og om den avgjørelse som er blitt resultatet av forfølgingen. En bekreftet kopi av enhver skriftlig avgjørelse skal oversendes til den anmodende stat.
 
 ### Art 17
 
@@ -164,11 +168,11 @@ Dersom den anmodete stats kompetanse utelukkende bygger på artikkel 2, skal den
 
 ### Art 18
 
-1. Med forbehold for bestemmelsen i nr. 2 i denne artikkel, skal det ikke kreves oversetting av de dokumenter som gjelder anvendelsen av denne konvensjon.
+1\. Med forbehold for bestemmelsen i nr. 2 i denne artikkel, skal det ikke kreves oversetting av de dokumenter som gjelder anvendelsen av denne konvensjon.
 
-2. Enhver kontraherende stat kan ved undertegning eller deponering av sitt ratifikasjons-, godkjennings- eller tiltredelsesdokument, ved en erklæring stilet til Europarådets generalsekretær forbeholde seg retten til å kreve at det skal følge med en oversetting av nevnte dokumenter, med unntak for kopien av den skriftlige avgjørelse som er nevnt i artikkel 16 nr. 2. De andre kontraherende stater skal sende oversettingene enten i mottakerstatens nasjonale språk eller et av Europarådets offisielle språk som mottakerstaten skal underrette om. En slik underretning er imidlertid ikke obligatorisk. De andre kontraherende stater kan kreve gjensidighet.
+2\. Enhver kontraherende stat kan ved undertegning eller deponering av sitt ratifikasjons-, godkjennings- eller tiltredelsesdokument, ved en erklæring stilet til Europarådets generalsekretær forbeholde seg retten til å kreve at det skal følge med en oversetting av nevnte dokumenter, med unntak for kopien av den skriftlige avgjørelse som er nevnt i artikkel 16 nr. 2. De andre kontraherende stater skal sende oversettingene enten i mottakerstatens nasjonale språk eller et av Europarådets offisielle språk som mottakerstaten skal underrette om. En slik underretning er imidlertid ikke obligatorisk. De andre kontraherende stater kan kreve gjensidighet.
 
-3. Denne artikkel skal ikke ha noen virkning for bestemmelser om oversetting av anmodninger og tilknyttede dokumenter som inngår i mulige avtaler eller ordninger som er i kraft eller som måtte bli inngått mellom to eller flere kontraherende stater.
+3\. Denne artikkel skal ikke ha noen virkning for bestemmelser om oversetting av anmodninger og tilknyttede dokumenter som inngår i mulige avtaler eller ordninger som er i kraft eller som måtte bli inngått mellom to eller flere kontraherende stater.
 
 ### Art 19
 
@@ -182,9 +186,9 @@ De kontraherende parter skal ikke kreve refusjon av hverandre for noen utgifter 
 
 ### Art 21
 
-1. Når den anmodende stat har anmodet om straffeforfølging, kan den ikke lenger straffeforfølge den mistenkte person for lovbrudd som anmodningen gjelder, eller fullbyrde en dom som tidligere er avsagt mot ham i denne stat for det samme lovbrudd. Inntil den anmodete stats avgjørelse av anmodningen om straffeforfølging er mottatt, har imidlertid den anmodende stat i behold sin rett til alle tiltak med hensyn til straffeforfølging som ikke innebærer at saken bringes inn for retten, eller at den administrative myndighet som måtte være kompetent, avgjør saken.
+1\. Når den anmodende stat har anmodet om straffeforfølging, kan den ikke lenger straffeforfølge den mistenkte person for lovbrudd som anmodningen gjelder, eller fullbyrde en dom som tidligere er avsagt mot ham i denne stat for det samme lovbrudd. Inntil den anmodete stats avgjørelse av anmodningen om straffeforfølging er mottatt, har imidlertid den anmodende stat i behold sin rett til alle tiltak med hensyn til straffeforfølging som ikke innebærer at saken bringes inn for retten, eller at den administrative myndighet som måtte være kompetent, avgjør saken.
 
-2. Retten til straffeforfølging og fullbyrding går tilbake til den anmodende stat:dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 10 om ikke å foreta noe i anledning av anmodningen;dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 11 om å avslå anmodningen;dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 12 om å trekke tilbake godkjenningen av anmodningen;dersom den anmodete stat underretter den om en avgjørelse om ikke å innlede straffeforfølging eller å avbryte den;dersom den anmodende stat trekker tilbake sin anmodning før den anmodete stat har underrettet den om sin avgjørelse om å ta anmodningen til følge.
+2\. Retten til straffeforfølging og fullbyrding går tilbake til den anmodende stat:dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 10 om ikke å foreta noe i anledning av anmodningen;dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 11 om å avslå anmodningen;dersom den anmodete stat underretter den om en avgjørelse i samsvar med artikkel 12 om å trekke tilbake godkjenningen av anmodningen;dersom den anmodete stat underretter den om en avgjørelse om ikke å innlede straffeforfølging eller å avbryte den;dersom den anmodende stat trekker tilbake sin anmodning før den anmodete stat har underrettet den om sin avgjørelse om å ta anmodningen til følge.
 
 ### Art 22
 
@@ -198,9 +202,9 @@ Dersom den anmodete stats kompetanse utelukkende bygger på artikkel 2, skal for
 
 ### Art 24
 
-1. Dersom straffeforfølging i begge stater er avhengig av begjæring om påtale, skal slik begjæring framsatt i den anmodende stat ha samme gyldighet som en begjæring framsatt i den anmodete stat.
+1\. Dersom straffeforfølging i begge stater er avhengig av begjæring om påtale, skal slik begjæring framsatt i den anmodende stat ha samme gyldighet som en begjæring framsatt i den anmodete stat.
 
-2. Dersom begjæring om påtale bare er nødvendig i den anmodete stat, kan denne stat gå til straffeforfølging selv om slik begjæring ikke er framsatt, såframt den person som kan framsatte den ikke har reist innsigelse innen en måned fra den dag han mottok underretning fra den kompetente myndighet om sin rett til å reise innsigelse.
+2\. Dersom begjæring om påtale bare er nødvendig i den anmodete stat, kan denne stat gå til straffeforfølging selv om slik begjæring ikke er framsatt, såframt den person som kan framsatte den ikke har reist innsigelse innen en måned fra den dag han mottok underretning fra den kompetente myndighet om sin rett til å reise innsigelse.
 
 ### Art 25
 
@@ -208,19 +212,19 @@ Den sanksjon som skal anvendes overfor lovbruddet i den anmodete stat, er den sa
 
 ### Art 26
 
-1. Ethvert tiltak med henblikk på straffeforfølging som er tatt i den anmodende stat i samsvar med denne stats lovgivning og forskrifter, skal ha samme gyldighet i den anmodete stat som om det var tatt av denne stats myndigheter. Et slikt tiltak får dog ikke større beviskraft enn det har i den anmodende stat.
+1\. Ethvert tiltak med henblikk på straffeforfølging som er tatt i den anmodende stat i samsvar med denne stats lovgivning og forskrifter, skal ha samme gyldighet i den anmodete stat som om det var tatt av denne stats myndigheter. Et slikt tiltak får dog ikke større beviskraft enn det har i den anmodende stat.
 
-2. Enhver handling som avbryter foreldelsesfristen og som er foretatt på gyldig måte i den anmodende stat, skal ha samme virkning i den anmodete stat, og omvendt.
+2\. Enhver handling som avbryter foreldelsesfristen og som er foretatt på gyldig måte i den anmodende stat, skal ha samme virkning i den anmodete stat, og omvendt.
 
 ### Kapittel 5. Midlertidige tvangsmidler i den anmodete stat
 
 ### Art 27
 
-1. Når den anmodende stat gjør kjent at den vil framsette en anmodning om straffeforfølging, kan den anmodete stat, i tilfelle dens kompetanse utelukkende vil bygge på artikkel 2, etter begjæring av den anmodende stat og i medhold av denne konvensjon midlertidig pågripe og fengsle den mistenkte person:dersom lovgivningen i den anmodete stat gir heimel for varetektfengsel for lovbruddet, ogdersom det er grunn til å frykte at den mistenkte person vil flykte eller at han vil forspille bevis.
+1\. Når den anmodende stat gjør kjent at den vil framsette en anmodning om straffeforfølging, kan den anmodete stat, i tilfelle dens kompetanse utelukkende vil bygge på artikkel 2, etter begjæring av den anmodende stat og i medhold av denne konvensjon midlertidig pågripe og fengsle den mistenkte person:dersom lovgivningen i den anmodete stat gir heimel for varetektfengsel for lovbruddet, ogdersom det er grunn til å frykte at den mistenkte person vil flykte eller at han vil forspille bevis.
 
-2. Begjæringen om midlertidig pågripelse og fengsling skal gi uttrykk for at det foreligger en pågripelsesbeslutning eller fengslingskjennelse eller annen avgjørelse som har samme virkning i den anmodende stat, og som er utferdiget i samsvar med denne stats lovgivning. Den skal også gi opplysning om hvilket lovbrudd det vil bli anmodet om straffeforfølging for, når og hvor dette lovbrudd ble begått, og en så nøyaktig beskrivelse av den mistenkte person som mulig. Den skal videre inneholde en kort redegjørelse for saksforholdet.
+2\. Begjæringen om midlertidig pågripelse og fengsling skal gi uttrykk for at det foreligger en pågripelsesbeslutning eller fengslingskjennelse eller annen avgjørelse som har samme virkning i den anmodende stat, og som er utferdiget i samsvar med denne stats lovgivning. Den skal også gi opplysning om hvilket lovbrudd det vil bli anmodet om straffeforfølging for, når og hvor dette lovbrudd ble begått, og en så nøyaktig beskrivelse av den mistenkte person som mulig. Den skal videre inneholde en kort redegjørelse for saksforholdet.
 
-3. En begjæring om midlertidig pågripelse og fengsling skal sendes direkte av de myndigheter i den anmodende stat som er nevnt i artikkel 13 til tilsvarende myndigheter i den anmodete stat, enten ved post, telegram eller en annen måte som sikrer et skriftlig bevis eller er akseptert av den anmodete stat. Den anmodende stat skal underrettes uten opphold om utfallet av begjæringen.
+3\. En begjæring om midlertidig pågripelse og fengsling skal sendes direkte av de myndigheter i den anmodende stat som er nevnt i artikkel 13 til tilsvarende myndigheter i den anmodete stat, enten ved post, telegram eller en annen måte som sikrer et skriftlig bevis eller er akseptert av den anmodete stat. Den anmodende stat skal underrettes uten opphold om utfallet av begjæringen.
 
 ### Art 28
 
@@ -228,29 +232,29 @@ Når en anmodning om straffeforfølging sammen med de dokumenter som er nevnt i 
 
 ### Art 29
 
-1. Midlertidige tvangsmidler som fastsatt i artiklene 27 og 28 skal foretas i samsvar med reglene i denne konvensjon og lovgivningen i den anmodete stat. Lovgivningen i denne stat eller konvensjonen skal også fastsette vilkårene for opphør av slike tiltak.
+1\. Midlertidige tvangsmidler som fastsatt i artiklene 27 og 28 skal foretas i samsvar med reglene i denne konvensjon og lovgivningen i den anmodete stat. Lovgivningen i denne stat eller konvensjonen skal også fastsette vilkårene for opphør av slike tiltak.
 
-2. Disse tiltak skal opphøre i de tilfelle som er nevnt i artikkel 21 nr. 2.
+2\. Disse tiltak skal opphøre i de tilfelle som er nevnt i artikkel 21 nr. 2.
 
-3. En person i varetektfengsel skal i alle tilfelle løslates dersom han er pågrepet og fengslet i samsvar med artikkel 27, og den anmodete stat ikke mottar anmodning om straffeforfølging innen 18 dager fra pågripelsen.
+3\. En person i varetektfengsel skal i alle tilfelle løslates dersom han er pågrepet og fengslet i samsvar med artikkel 27, og den anmodete stat ikke mottar anmodning om straffeforfølging innen 18 dager fra pågripelsen.
 
-4. En person i varetektfengsel skal i alle tilfelle løslates dersom han er pågrepet og fengslet i samsvar med artikkel 27, og de dokumenter som skulle følge med anmodningen om straffeforfølging ikke er mottatt av den anmodete stat innen 15 dager fra anmodningen om straffeforfølging ble mottatt.
+4\. En person i varetektfengsel skal i alle tilfelle løslates dersom han er pågrepet og fengslet i samsvar med artikkel 27, og de dokumenter som skulle følge med anmodningen om straffeforfølging ikke er mottatt av den anmodete stat innen 15 dager fra anmodningen om straffeforfølging ble mottatt.
 
-5. Varetektfengsel som er pålagt utelukkende i medhold av artikkel 27, skal ikke i noe tilfelle vare lenger enn 40 dager.
+5\. Varetektfengsel som er pålagt utelukkende i medhold av artikkel 27, skal ikke i noe tilfelle vare lenger enn 40 dager.
 
 ### Del IV. Rettsforfølging i flere stater
 
 ### Art 30
 
-1. Enhver kontraherende stat som før eller under straffeforfølgingen for et lovbrudd som den verken anser for å være av politisk karakter eller som et rent militært lovbrudd, blir merksam på at forfølging pågår i en annen kontraherende stat mot samme person for samme lovbrudd, skal overveie om den selv kan frafalle forfølgingen, stille den i bero eller overføre den til den annen stat.
+1\. Enhver kontraherende stat som før eller under straffeforfølgingen for et lovbrudd som den verken anser for å være av politisk karakter eller som et rent militært lovbrudd, blir merksam på at forfølging pågår i en annen kontraherende stat mot samme person for samme lovbrudd, skal overveie om den selv kan frafalle forfølgingen, stille den i bero eller overføre den til den annen stat.
 
-2. Dersom den etter forholdene ikke finner det riktig å frafalle eller stille sin egen forfølging i bero, skal den gi den annen kontraherende stat melding i god tid, og i et hvert tilfelle før saken blir avgjort i realiteten.
+2\. Dersom den etter forholdene ikke finner det riktig å frafalle eller stille sin egen forfølging i bero, skal den gi den annen kontraherende stat melding i god tid, og i et hvert tilfelle før saken blir avgjort i realiteten.
 
 ### Art 31
 
-1. I det tilfelle som er nevnt i artikkel 30 nr. 2 skal de stater det gjelder, i et hvert tilfelle etter å ha vurdert de forhold som er nevnt i artikkel 8, så vidt mulig søke å komme til enighet om hvem av dem som skal fortsette straffeforfølgingen alene. Under disse forhandlinger skal vedkommende stater utsette avgjørelse av realiteten, likevel uten å være forpliktet til å forlenge utsettelsen lengre enn 30 dager etter at de har gitt melding som nevnt i artikkel 30 nr. 2.
+1\. I det tilfelle som er nevnt i artikkel 30 nr. 2 skal de stater det gjelder, i et hvert tilfelle etter å ha vurdert de forhold som er nevnt i artikkel 8, så vidt mulig søke å komme til enighet om hvem av dem som skal fortsette straffeforfølgingen alene. Under disse forhandlinger skal vedkommende stater utsette avgjørelse av realiteten, likevel uten å være forpliktet til å forlenge utsettelsen lengre enn 30 dager etter at de har gitt melding som nevnt i artikkel 30 nr. 2.
 
-2. Reglene i nr. 1 er ikke bindende:for den stat som sender melding som er nevnt i artikkel 30 nr. 2 i tilfelle hovedforhandling er åpnet der i nærvær av tiltalte før meldingen ble sendt;for den stat som meldingen er sendt til i tilfelle hovedforhandling er åpnet der i nærvær av tiltalte før meldingen ble mottatt.
+2\. Reglene i nr. 1 er ikke bindende:for den stat som sender melding som er nevnt i artikkel 30 nr. 2 i tilfelle hovedforhandling er åpnet der i nærvær av tiltalte før meldingen ble sendt;for den stat som meldingen er sendt til i tilfelle hovedforhandling er åpnet der i nærvær av tiltalte før meldingen ble mottatt.
 
 ### Art 32
 

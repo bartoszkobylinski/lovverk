@@ -586,6 +586,10 @@ Loven trer i kraft fra den tiden1 Kongen bestemmer.
 
 For tillatelser gitt før lovens ikrafttredelse gjelder loven i den utstrekning bestemmelsene ikke er i strid med tillatelsen som er gitt.
 
+1 Fra 1 juli 2019 iflg. [res. 22 mars 2019 nr. 264](forskrift/2019-03-22-264).
+
 ### § 11-2. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
+
+– – –

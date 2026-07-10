@@ -36,6 +36,30 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
+*Eksamen:* Som eksamen regnes visninger, oppgaver eller prosjekter, vurderingsklasser, skriftlige, praktisk og/eller muntlige prøver eller andre former for vurdering der resultatet skal inngå i vitnemålet, eller skal medregnes i karakteren for vedkommende emne eller emnegruppe.
+
+*Emne:* Samling av temaer som danner den minste enheten som gir karakter i en utdanning. Emnenes omfang er målt i studiepoeng.
+
+*Emnebeskrivelse:* En beskrivelse av temaer, omfang, forventet læringsutbytte, lærings- og vurderingsformer samt andre obligatoriske krav.
+
+*Studiepoeng:* Mål på arbeidsomfang i studiet. 60 studiepoeng tilsvarer ett års studie på fulltid.
+
+*Læringsutbytte:* Beskrivelse av kunnskaper, ferdigheter og generell kompetanse studenten har tilegnet seg etter fullført emne eller studieprogram.
+
+*Sensur og vurdering:* Bedømmelse av studentens kunnskaper, ferdigheter og generelle kompetanse i et emne som omfatter alle vurderingsformer som gir grunnlag for fastsettelse av karakter i emnet.
+
+*Studieavgift:* Avgift som studenten betaler for sin utdanning. Studieavgiften faktureres per semester.
+
+*Studiekontrakt:* En gjensidig avtale mellom student og International Stunt Academy om plikter og ansvar begge parter har for studentens studieløp. International Stunt Academy benytter studiekontrakt utarbeidet av Forbrukerombudet.
+
+*Studieplan:* En helhetlig plan for et studieprogram og av hvordan det skal gjennomføres, for at det skal føre til et bestemt læringsutbytte. Planen inneholder bestemmelser om opptakskrav, mål for studiet, oppbygging og gjennomføring, innhold, undervisning og læringsformer, vurdering og studiekvalitet.
+
+*Student:* Person med en skriftlig, bindende og ikke avsluttet studiekontrakt ved International Stunt Academy.
+
+*Søker:* Person som søker opptak til studier ved International Stunt Academy.
+
+*Studiepoeng:* Mål på studie-/arbeidsomfang, der 60 studiepoeng tilsvarer ett års fulltidsstudium.
+
 ### § 1-3. Søkerens og studentens undersøkelses- og opplysningsplikt
 
 (1) Enhver søker/student plikter å sette seg inn i den til enhver tid gjeldende forskrift om opptak, studier og eksamen ved International Stunt Academy og de spesifikke bestemmelsene som gjelder det studietilbudet søkeren søker til eller studenten følger.
@@ -114,9 +138,18 @@ Dersom International Stunt Academy oppdager at en søker har levert falskt vitne
 
 (5) Søkere med formell kompetanse rangeres etter studieresultat (karakterpoeng), modenhet, fysiske forutsetninger og tekniske ferdigheter. Søkere med realkompetanse rangeres etter lengden av treningsbakgrunn, relevant yrkespraksis, modenhet, fysiske forutsetninger og tekniske ferdigheter.
 
-(6) Alle som gjennomfører opptaksprøven blir vurdert og rangert etter følgende kriterier:*Poeng (10 høyest)**Karakterpoeng:*
-Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10.*Relevant yrkespraksis:*
-Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Det kan gis inntil 10 poeng for relevant yrkespraksis.Tekniske ferdigheter1–10Fysiske forutsetning1–10Modenhet1–10Generell forståelse for faget1–10Utviklingspotensial1–10
+(6) Alle som gjennomfører opptaksprøven blir vurdert og rangert etter følgende kriterier:
+
+|  |  |
+| --- | --- |
+|  | *Poeng (10 høyest)* |
+| *Karakterpoeng:*<br>Karakterpoeng er gjennomsnitt av alle tallkarakterer, med to desimaler, multiplisert med 10. |  |
+| *Relevant yrkespraksis:*<br>Relevant yrkespraksis gir 1 poeng per 6. måned i tilsvarende 100 prosent stilling. Det kan gis inntil 10 poeng for relevant yrkespraksis. |  |
+| Tekniske ferdigheter | 1–10 |
+| Fysiske forutsetning | 1–10 |
+| Modenhet | 1–10 |
+| Generell forståelse for faget | 1–10 |
+| Utviklingspotensial | 1–10 |
 
 (7) Dersom skolen har flere søkere enn det skolen har plasser/kapasitet til å ta inn, vil følgende prioritering bli lagt til grunn for inntaket:søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.
 
@@ -200,13 +233,16 @@ En student som er tatt opp til studiet og som følger normal studieprogresjon, h
 
 ### § 6-2. Karaktersystem/vurderingsuttrykk
 
-(1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godtMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet.
+(1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget godt | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (2) Graderte karakterer etter en skala fra A til F, der A er beste karakter og E er laveste ståkarakter, F er stryk.
 

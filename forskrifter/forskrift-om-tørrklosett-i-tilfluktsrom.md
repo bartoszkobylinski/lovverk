@@ -64,8 +64,12 @@ Ovenstående krav prøves etter bilag 1.
 
 ### Styrke.
 
+Beholder.
+
 1. Sammentrykking av beholder ved +35°C og ved -25°C etter nedsenking i vann i ett døgn ved romtemperatur, etter å være sluppet 5 ganger mot betonggulv fra 2 meters høyde (45° vinkel).Krav: a) maks 5 % sammentrykking ved 200 kg belasting fordelt over segment lik 1/2 radius.(Fig. utelatt).Krav: b) maks. 50 % sammentrykking, ingen sprekker ved belasting som overfor av 300 kg kun ved – 25°C.
 2. Beholder av polyetylen prøves for tendens til spenningskorrosjon i henhold til Bell Telephone Test.
+
+Pose.
 
 1. Full pose (50 kg) med vann + 35°C slippes 3 ganger fra 50 cm høyde.Krav: Ingen lekkasje.
 2. Strekkfasthet av posematerialet før og etter nedsenking 14 døgn i en tilfeldig valg ren saneringsvæske som dekker kravene til Britisk Standard 2893 (formalhyd preparation).Krav: maks. 10 % reduksjon av strekkfasthet etter nedsenking i saneringsvæske.
@@ -75,6 +79,10 @@ Ovenstående krav prøves etter bilag 1.
 
 ### Antennelighet.
 
+Pose.
+
 1. a) Materialet i posen prøves etter en prøvemetode beskrevet i ASTM D 568-56T.Krav: 77 cm2 må ikke brenne opp på under 10 sek. Prøven går ut på opphenging av tilklipt folie 1 X 18 in, antennelse i et nedre hjørne.
+
+Beholder, lokk og sete.
 
 1. b) Prøvestaver av beholder, lokk og sete, 10 X 2 X 55 mm, fastspennes med lengdeaksen horisontal og tverraksen i 45° vinkel med horisontalplanet, og antennes ved å holde det ene nedre hjørne inn i en ikke lysende busenflamme, ca. 25 mm høy, brennerens dyseåpning: 3/8″ diam. i 10 sek. Den opprinnelige overflate skal være prøvestykkets nedre flatside.Krav: Flammen skal ikke være nådd til 5 mm fra den fastspente ende innen 75 sekunder etter at flammen er fjernet.

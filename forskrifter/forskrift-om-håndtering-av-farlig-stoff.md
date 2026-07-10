@@ -50,11 +50,15 @@ Enhver som prosjekterer, konstruerer, produserer, omsetter, installerer, drifter
 
 ### § 4. Definisjoner
 
-I denne forskrift skal følgende uttrykk forstås slik:*Anerkjent norm*Standard, bransjenorm, veiledning mv. som er internasjonalt og/eller nasjonalt anerkjent innenfor et fagområde.*Farlig stoff*– Brannfarlig stoff: Fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann.
-– Reaksjonsfarlig stoff: Fast, flytende, eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke.
-– Trykksatt stoff: Annet fast, flytende eller gassformig stoff eller stoffblanding enn brann- eller reaksjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp.
-Definisjonen av farlig stoff er en innsnevring i forhold til brann- og eksplosjonsvernlovens definisjon i [§ 4](forskrift/2009-06-08-602/§4) c) da denne også omfatter eksplosjonsfarlig stoff.
-Nærmere kriterier for klassifisering av brannfarlig, reaksjonsfarlig og trykksatt stoff er fastsatt i vedlegg 1.*Håndtering*Enhver omgang med farlig stoff slik som tilvirkning, oppbevaring, behandling, omtapping, transport, lasting, lossing, handel, overføring og bruk.*Risiko*Uttrykk for den fare som uønskede hendelser representerer for mennesker, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for og konsekvensene av de uønskede hendelsene.*Virksomhet*Ethvert offentlig og privat foretak uansett om foretaket er etablert med henblikk på forretningsmessig fortjeneste eller ikke.
+I denne forskrift skal følgende uttrykk forstås slik:
+
+|  |  |
+| --- | --- |
+| *Anerkjent norm* | Standard, bransjenorm, veiledning mv. som er internasjonalt og/eller nasjonalt anerkjent innenfor et fagområde. |
+| *Farlig stoff* | – Brannfarlig stoff: Fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann.<br>– Reaksjonsfarlig stoff: Fast, flytende, eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke.<br>– Trykksatt stoff: Annet fast, flytende eller gassformig stoff eller stoffblanding enn brann- eller reaksjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp.<br>Definisjonen av farlig stoff er en innsnevring i forhold til brann- og eksplosjonsvernlovens definisjon i [§ 4](forskrift/2009-06-08-602/§4) c) da denne også omfatter eksplosjonsfarlig stoff.<br>Nærmere kriterier for klassifisering av brannfarlig, reaksjonsfarlig og trykksatt stoff er fastsatt i vedlegg 1. |
+| *Håndtering* | Enhver omgang med farlig stoff slik som tilvirkning, oppbevaring, behandling, omtapping, transport, lasting, lossing, handel, overføring og bruk. |
+| *Risiko* | Uttrykk for den fare som uønskede hendelser representerer for mennesker, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for og konsekvensene av de uønskede hendelsene. |
+| *Virksomhet* | Ethvert offentlig og privat foretak uansett om foretaket er etablert med henblikk på forretningsmessig fortjeneste eller ikke. |
 
 > **Endres** ved forskrift [4 feb 2026 nr. 140](forskrift/2026-02-04-140) (i kraft 1 jan 2027).
 
@@ -320,5 +324,51 @@ tilsvarende GHS kategori 1.Brannfarlig gass, kategori 2Gass som har et eksplosjo
 > **Endres** ved forskrift [4 feb 2026 nr. 140](forskrift/2026-02-04-140) (i kraft 1 jan 2027).
 
 ## Vedlegg. 2 Melding av farlig stoff
+
+| *Stoffgruppe* | *Mengde* |
+| --- | --- |
+| *Trykksatt stoff* |  |
+| Brannfarlig gass, kategori 1 og 2 | 0,4 m3 |
+| Oksiderende gass | 4,0 m3 |
+| Giftig gass, kategori 1, 2 og 3 | 0,4 m3 |
+| Brannfarlig aerosolbeholder, kategori 1 og 2 | 3,0 m3 |
+| Vanndamp eller hetvann under trykk | \* |
+| *Brannfarlig stoff* |  |
+| Brannfarlig væske, kategori 1 og 2 | 6,0 m3 |
+| Brannfarlig væske, kategori 3 | 12,0 m3 |
+| Diesel og fyringsoljer | 100,0 m3 |
+| Oppvarmet flytende stoff, oppvarmet til en temperatur lik eller høyere enn flammepunktet | 12,0 m3 |
+| Brannfarlig fast stoff, kategori 1 og 2 | 12,0 tonn |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 1, fast | 3,0 tonn |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 1, flytende | 3,0 m3 |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 2, fast | 6,0 tonn |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 2, flytende | 6,0 m3 |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 3, fast | 12,0 tonn |
+| Stoff som utvikler brannfarlig gass i kontakt med vann, kategori 3, flytende | 12,0 m3 |
+| Selvantennende væske | 1,0 m3 |
+| Selvantennende fast stoff | 1,0 tonn |
+| Selvopphetende stoff, kategori 1 | 3,0 tonn |
+| Selvopphetende stoff, kategori 2 | 12,0 tonn |
+| Oksiderende fast stoff, kategori 1 | 3,0 tonn |
+| Oksiderende fast stoff kategori 2 og 3 | 6,0 tonn |
+| Oksiderende væske, kategori 1 | 3,0 m3 |
+| Oksiderende væske, kategori 2 og 3 | 6,0 m3 |
+| Selvreaktivt stoff type C-F, fast | 3,0 tonn |
+| Selvreaktivt stoff type C-F, flytende | 3,0 m3 |
+| Organisk peroksid type C-F, fast | 3,0 tonn |
+| Organisk peroksid type C-F, flytende | 3,0 m3 |
+| *Reaksjonsfarlig stoff* |  |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 1, fast | 1,0 tonn |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 1, flytende | 1,0 m3 |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 2, fast | 3,0 tonn |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 2, flytende | 3,0 m3 |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 3, fast | 6,0 tonn |
+| Stoff som utvikler giftig gass i kontakt med vann, kategori 3, flytende | 6,0 m3 |
+| Giftig stoff med innåndingsfare av damp, støv eller tåke, kategori 1, fast | 3,0 tonn |
+| Giftig stoff med innåndingsfare av damp, støv eller tåke, kategori 1, flytende | 3,0 m3 |
+| Giftig stoff med innåndingsfare av damp, støv eller tåke, kategori 2 og 3, fast | 6,0 tonn |
+| Giftig stoff med innåndingsfare av damp, støv eller tåke, kategori 2 og 3, flytende | 6,0 m3 |
+
+\* Kriterium for innmelding av kjelanlegg: Gjelder kjeler som er beregnet for produksjon av damp eller hetvann med temperatur over 110 °C, og hvor produktet av trykk i bar og volum i liter er større enn 3 000 og hvor trykket er større enn 0,5 bar overtrykk og volumet er større enn 100 liter.
 
 > **Endres** ved forskrift [4 feb 2026 nr. 140](forskrift/2026-02-04-140) (i kraft 1 jan 2027).

@@ -163,3 +163,5 @@ Forskriften trer i kraft 1. januar 2010.
 ### § 22. Endringer i andre forskrifter
 
 Fra samme tidspunkt som denne forskriften trer i kraft gjøres følgende endringer:
+
+1\. I [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell gjøres følgende endringer: – – –2. [Forskrift 24. juni 1983 nr. 1229](forskrift/1983-06-24-1229) om turnusordningen for fysioterapikandidater i kommunehelsetjenesten oppheves.

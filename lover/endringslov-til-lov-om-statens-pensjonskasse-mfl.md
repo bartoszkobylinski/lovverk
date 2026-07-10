@@ -27,3 +27,5 @@ eu_basis: []
 1. Loven trer i kraft fra den tid Kongen bestemmer.1
 2. Departementet gir forskrifter om uførepensjon fra tjenestepensjonsordning som omfattes av loven her, og som utbetales når loven trer i kraft, herunder regler om barnetillegg og senere endringer i pensjonene.
 3. Uførepensjonister som har fylt 67 år når loven her trer i kraft, går over på alderspensjon fra og med måneden loven trer i kraft.
+
+1 Fra 1 jan 2015 iflg. [res. 20 juni 2014 nr. 798](forskrift/2014-06-20-798).

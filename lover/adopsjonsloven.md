@@ -364,6 +364,8 @@ Loven gjelder fra det tidspunktet1 Kongen bestemmer. Fra samme tidspunkt oppheve
 
 Kongen kan bestemme at enkelte nye bestemmelser trer i kraft på et senere tidspunkt.
 
+1 Fra 1 juli 2018 iflg. [res. 15 juni 2018 nr. 884](forskrift/2018-06-15-884).
+
 ### § 53. Overgangsregler
 
 Loven gjelder for adopsjoner etter tidligere lovgivning, men for adopsjoner fra før 1. juli 1957 gjelder den bare dersom det er fastsatt utvidet arverett etter [lov 2. april 1917 nr. 1](lov/1917-04-02-1) om adoption § 15 b, slik den lød etter [lov 24. mai 1935 nr. 2](lov/1935-05-24-2) om endring i adopsjonsloven.

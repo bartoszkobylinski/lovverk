@@ -786,6 +786,8 @@ Det skal foreligge en oversikt som viser hvor mye den enkelte arbeidstaker har a
 
 > Endret ved lover [21 des 2005 nr. 121](lov/2005-12-21-121) (ikr. 1 jan 2006), [15 des 2006 nr. 69](lov/2006-12-15-69) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1406](forskrift/2006-12-15-1406)), [19 juni 2009 nr. 39](lov/2009-06-19-39) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 822](forskrift/2009-06-19-822)), [24 apr 2015 nr. 21](lov/2015-04-24-21) (ikr. 1 juli 2015 iflg. [res. 24 apr 2015 nr. 398](forskrift/2015-04-24-398)), [16 juni 2017 nr. 42](lov/2017-06-16-42) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 752](forskrift/2017-06-16-752)).
 
+1 Sjette (nå åttende) ledd ikr. 1 juli 2005, første, andre og fjerde ledd ikr. 1 jan 2006.
+
 ### § 10-13. Tvisteløsning
 
 Tvist mellom arbeidsgiver og arbeidstaker om anvendelsen av bestemmelsene i [§ 10-2](lov/2005-06-17-62/§10-2) andre, tredje og fjerde ledd og [§ 10-6](lov/2005-06-17-62/§10-6) tiende ledd avgjøres av tvisteløsningsnemnda, jf. [§ 17-2](lov/2005-06-17-62/§17-2).
@@ -1979,6 +1981,8 @@ Overtredelse av denne lov er undergitt offentlig påtale.
 ### § 20-1. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Iflg. [res. 17 juni 2005 nr. 609](forskrift/2005-06-17-609) trådte loven ikr. 1 jan 2006 med følgende unntak og presiseringer: – § 10-12 sjette ledd trådte ikr. 1 juli 2005. – [§ 14-9](lov/2005-06-17-62/§14-9) femte ledd andre punktum får ikke anvendelse overfor midlertidig arbeidsavtale som løper på tidspunktet for lovens ordinære ikrafttreden. – For oppsigelser som fant sted før lovens ikrafttreden, gjelder [lov 4 feb 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v. [§ 61](lov/1977-02-04-4/§61) nr. 4. – For arbeidstakere som på tidspunktet for lovens ordinære ikrafttreden har en særlig uavhengig stilling skal, for så vidt arbeidstakeren fortsetter i denne stillingen, [lovens kapittel 10](lov/2005-06-17-62/kap10) tre ikr. 1 jan 2011 (ifølge departementet er denne utsatte ikrafttredelsen ikke lenger aktuell etter at bestemmelsene ble endret ved [lov 21 des 2005 nr. 121](lov/2005-12-21-121) med ikrafttreden 1 jan 2006), § 10-2 første, andre og fjerde ledd trådte likevel ikr. 1 jan 2006. – Ikrafttreden for [§ 2-4](lov/2005-06-17-62/§2-4) fastsettes senere (dog virker det som [§ 2-4](lov/2005-06-17-62/§2-4) er ment satt ikr. idet den ble endret ved [lov 1 des 2006 nr. 64](lov/2006-12-01-64), ikr. 1 jan 2007 iflg. [res. 1 des 2006 nr. 1324](forskrift/2006-12-01-1324)).
 
 ### § 20-2. Overgangsbestemmelser
 

@@ -26,6 +26,10 @@ Kongelig resolusjon, hvorved i henhold til lov om domstolene av 13. august 1915 
 
 Formen for den forsikring som dommere, undtagen forliksmenn og domsmenn, skal gi, fastsettes således:
 
+*Enten:*
+
 Jeg forsikrer at jeg samvittighetsfullt vil opfylle mine plikter som dommer – at jeg vil handle og dømme således som jeg efter loven og for min samvittighet kan forsvare, og hverken av hat eller vennskap, hverken for gunst eller gave eller av annen årsak vike fra rett og rettferdighet.
+
+*Eller:*
 
 Eg lovar at eg samvitsfullt vil gjera min skyldnad som domar – at eg vil gjera og døme soleis som eg kann forsvara etter lovi og andsynes mitt eige samvit, og korkje for hat eller venskap, korkje for gunst eller gåve eller for onnor årsak vika av frå rett og rettferd.

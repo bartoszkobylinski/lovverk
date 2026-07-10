@@ -26,12 +26,16 @@ eu_basis: []
 
 Haugaland og Sunnhordland tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Sunnhordland (rettssted Stord)
+
 - Bømlo kommune
 - Fitjar kommune
 - Kvinnherad kommune
 - Stord kommune
 - Sveio kommune
 - Tysnes kommune.
+
+Trekningskrets 2 Haugaland (rettssted Haugesund)
 
 - Bokn kommune
 - Etne kommune

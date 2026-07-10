@@ -194,6 +194,8 @@ Loven gjelder ikke for tekniske regler vedtatt før lovens ikrafttredelse.
 
 > Endret ved [lov 19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672), tidligere § 16).
 
+1 Fra 1 jan 2005 iflg. [res. 17 des 2004 nr. 1675](forskrift/2004-12-17-1675).
+
 ### § 20. Andre lovendringer
 
 Fra den tid loven trer i kraft gjøres følgende endring i [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker § 38](lov/1967-02-10/§38) første ledd bokstav a: – – –

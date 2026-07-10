@@ -70,7 +70,43 @@ I konsesjoner som meddeles i medhold av [vannfallrettighetsloven § 18](lov/1917
 
 Dersom den årlige konsesjonsavgiften til staten eller kommuner fastsatt i vassdragskonsesjoner, justert i samsvar med gjeldende forskrifter, utgjør mindre enn 10 000 kroner kan departementet bestemme at den årlige avgiften innløses med et engangsbeløp dersom både den avgiftsberettigede og den avgiftspliktige samtykker.
 
-Innløsningsbeløpet fastsettes ved at konsesjonsavgiften oppjusteres til innløsningsåret og multipliseres med omregningsfaktoren etter følgende tabell:Nåverdien av 1 krone innbetalt/utbetalt ved slutten av hvert år ved 7 % kalkulasjonsrente.Gjenværende konsesjonstidOmregningsfaktorGjenværende konsesjonstidOmregningsfaktorAntall årAntall år10,93012,421,83112,532,63212,643,43312,854,13412,964,83512,975,43613,086,03713,196,53813,2107,03913,3117,54013,3127,94113,4138,44213,5148,74313,5159,14413,6169,44513,6179,84613,71810,14713,71910,34813,72010,64913,82110,85013,82211,15113,82311,35213,92411,55313,92511,75413,92611,85513,92712,05614,02812,15714,02912,35814,05914,0
+Innløsningsbeløpet fastsettes ved at konsesjonsavgiften oppjusteres til innløsningsåret og multipliseres med omregningsfaktoren etter følgende tabell:
+
+Nåverdien av 1 krone innbetalt/utbetalt ved slutten av hvert år ved 7 % kalkulasjonsrente.
+
+| Gjenværende konsesjonstid | Omregningsfaktor | Gjenværende konsesjonstid | Omregningsfaktor |
+| --- | --- | --- | --- |
+| Antall år |  | Antall år |  |
+| 1 | 0,9 | 30 | 12,4 |
+| 2 | 1,8 | 31 | 12,5 |
+| 3 | 2,6 | 32 | 12,6 |
+| 4 | 3,4 | 33 | 12,8 |
+| 5 | 4,1 | 34 | 12,9 |
+| 6 | 4,8 | 35 | 12,9 |
+| 7 | 5,4 | 36 | 13,0 |
+| 8 | 6,0 | 37 | 13,1 |
+| 9 | 6,5 | 38 | 13,2 |
+| 10 | 7,0 | 39 | 13,3 |
+| 11 | 7,5 | 40 | 13,3 |
+| 12 | 7,9 | 41 | 13,4 |
+| 13 | 8,4 | 42 | 13,5 |
+| 14 | 8,7 | 43 | 13,5 |
+| 15 | 9,1 | 44 | 13,6 |
+| 16 | 9,4 | 45 | 13,6 |
+| 17 | 9,8 | 46 | 13,7 |
+| 18 | 10,1 | 47 | 13,7 |
+| 19 | 10,3 | 48 | 13,7 |
+| 20 | 10,6 | 49 | 13,8 |
+| 21 | 10,8 | 50 | 13,8 |
+| 22 | 11,1 | 51 | 13,8 |
+| 23 | 11,3 | 52 | 13,9 |
+| 24 | 11,5 | 53 | 13,9 |
+| 25 | 11,7 | 54 | 13,9 |
+| 26 | 11,8 | 55 | 13,9 |
+| 27 | 12,0 | 56 | 14,0 |
+| 28 | 12,1 | 57 | 14,0 |
+| 29 | 12,3 | 58 | 14,0 |
+|  |  | 59 | 14,0 |
 
 > Endret ved [forskrift 15 des 2017 nr. 2036](forskrift/2017-12-15-2036) (i kraft 1 jan 2018).
 

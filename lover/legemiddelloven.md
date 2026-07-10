@@ -570,3 +570,5 @@ Fra den tid loven trer i kraft, oppheves [lov av 20. juni 1964 nr. 5](lov/1964-0
 Fra samme tidspunkt gjøres følgende endringer i andre lover: – – –
 
 > Endret ved [lov 19 des 2008 nr. 110](lov/2008-12-19-110) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1423](forskrift/2008-12-19-1423)), tidligere § 33.
+
+1 Fra 1 jan 1994.

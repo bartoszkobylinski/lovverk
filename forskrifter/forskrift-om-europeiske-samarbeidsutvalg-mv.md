@@ -78,7 +78,11 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 18. okt
 
 > Vedlegget er tilføyd ved rettelse til forskriften i Lovtidend nr. 21/2000.
 
+I
+
 I Hovedavtalens kap. XIV, Konsernutvalg, gjøres følgende endringer:
+
+4\. ledd omarbeides og gis følgende ordlyd:
 
 NHO og LO er enige om at det også i foretak eller konserner med virksomhet i flere land er behov for kontakt- og samarbeidsordninger.
 
@@ -88,7 +92,17 @@ Avtalen bygger på EU-direktiv [94/45/EF](eu/31994l0045*) om opprettelse av euro
 
 Avtalen inntas som Tilleggsavtale X til denne hovedavtale.
 
+5\. ledd strykes.
+
+Merknaden og Protokolltilførselen i kap. XIV beholdes.
+
+IITilleggsavtale X
+
+[§ 1](forskrift/2000-07-28-797/§1). *Formål*
+
 Formålet med denne avtale er å bedre de ansattes konsultasjons- og informasjonsrettigheter i foretak og konserner med virksomhet innenfor EØS-området, og derved videreføre til disse foretak de gode samarbeidsrelasjoner som er utviklet i avtaleverk og praksis i norsk arbeidsliv.
+
+[§ 2](forskrift/2000-07-28-797/§2). *Anvendelsesområde*
 
 Avtalen gjelder for alle grupper ansatte i norske virksomheter som fyller følgende vilkår:norske foretak med minst 1000 ansatte innenfor EØS og med minst 150 ansatte i hvert av minst to EØS-land, heretter kalt fellesskapsforetak,konserner/grupper av foretak med kontrollerende selskap i Norge og med minst 1000 ansatte innenfor EØS, når konsernet omfatter minst to foretak i forskjellige EØS-land som hvert sysselsetter minst 150 arbeidstakere.
 
@@ -98,6 +112,8 @@ Begrepene konsern og kontrollerende foretak i denne avtale bygger på definisjon
 
 Begrepet «ansatt» omfatter det antall ansatte, herunder deltidsansatte, som er sysselsatt på det tidspunkt anmodning fremsettes om å opprette europeisk samarbeidsutvalg. Dersom gjennomsnittlig antall arbeidstakere, medregnet deltidsansatte, i de to foregående år har vært høyere enn på det tidspunkt anmodningen fremsettes, legges dette antall til grunn.
 
+[§ 3](forskrift/2000-07-28-797/§3). *Opprettelse av samarbeidsordning*
+
 I foretak og konserner med slik struktur og størrelse som nevnt i [§ 2](forskrift/2000-07-28-797/§2) kan det anmodes om forhandlinger om opprettelse av europeisk samarbeidsutvalg, heretter kalt ESU, eller om andre samarbeidsformer som sikrer informasjon til og konsultasjon med de ansatte over landegrensene.
 
 Slik anmodning kan fremsettes skriftlig av foretakets/konsernets sentrale ledelse i Norge (heretter kalt ledelsen), eller av minst 100 ansatte eller deres representanter i minst to virksomheter i minst to forskjellige EØS-land.
@@ -106,10 +122,16 @@ Forhandlingene skal omfatte alle ansatte i virksomheter eller datterselskaper i 
 
 Der selskapsstrukturen gjør det naturlig å forankre samarbeidsordningene på andre nivåer enn den sentrale ledelse, f.eks på divisjons- eller regionnivå, skal dette ikke svekke de ansattes rettigheter til informasjon/konsultasjon etter denne avtale om forhold som angår konsernets samlede virksomhet.
 
+[§ 4](forskrift/2000-07-28-797/§4). *Fremgangsmåten ved ordningens etablering*
+
 Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.SFU skal ha minst tre og høyst 17 medlemmer. Utvalgets sammensetning skal sikre at hvert land der foretaket/konsernet driver en eller flere virksomheter, har minst en representant. I tillegg skal det sikres ytterligere representasjon i forhold til antall ansatte i de enkelte nasjonale enheter. Antall tilleggsrepresentanter og fordelingen på virksomhetene bestemmes, innenfor den fastsatte totalramme, av representanter for de ansatte i foretaket/konsernet etter drøftelser med de tillitsvalgte i de nasjonale enheter.Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.SFU underretter både den sentrale ledelse og ledelsen i de nasjonale enheter om utvalgets sammensetning.Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.Ledelsen i de nasjonale enheter skal underrettes om dette.SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.SFU kan med minst to tredeler av stemmene beslutte å ikke innlede forhandlinger eller å avbryte forhandlinger som allerede er påbegynt etter nærværende avtale.Ny anmodning om å innkalle SFU kan tidligst fremsettes to år etter nevnte beslutning, med mindre partene i foretaket/konsernet blir enige om en kortere frist.
+
+[§ 5](forskrift/2000-07-28-797/§5). *Avtalens innhold*
 
 1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som angår konsernet eller fellesskapsforetaket som helhet og som er av grenseoverskridende natur, jfr. [§ 1](forskrift/2000-07-28-797/§1).De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
 2. Avtalen mellom partene skal være skriftlig, og i det minsteangi de land og selskapsenheter som omfattesfastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.inneholde budsjett for ESUs eller samarbeidsordningens virksomhetangi avtalens varighet og fremgangsmåten for reforhandlinger.
+
+[§ 6](forskrift/2000-07-28-797/§6). *ESUs praktiske arbeid*
 
 Medlemmene i ESU velges eller utpekes av og blant de ansatte i henhold til [§ 4](forskrift/2000-07-28-797/§4) c, med mindre annet avtales.
 
@@ -123,17 +145,27 @@ Det er forøvrig partene som bestemmer området for ESUs virksomhet og de saker 
 
 Hvis ikke annet avtales gjelder følgende grunnregler for ESUs virksomhet:På møtene behandlesfellesskapsforetakets/konsernets strukturden økonomiske og finansielle situasjonforventet utvikling når det gjelder aktiviteter, produksjon og salgsysselsettingssituasjonen og dens antatte utviklinginvesteringervesentlige endringer i konsernets organisasjoninnføring av nye arbeidsmetoder eller produksjonsprosesserplaner om produksjonsoverføringer, fusjon, fisjon, reduksjoner, hel eller delvis nedlegging av virksomhetermasseoppsigelser.I spesielle situasjoner der de ansattes interesser i vesentlig grad blir berørt, særlig ved flytting eller nedleggelse av virksomheter eller masseoppsigelser, har ESUs arbeidsutvalg, eller der hvor slikt ikke er opprettet, hele ESU, rett til å kreve møte med konsernets ledelse eller annet passende ledelsesnivå med selvstendig myndighet til å avgjøre saken, jfr. [§ 3](forskrift/2000-07-28-797/§3), 4. ledd. Avholdes møtet med ESUs arbeidsutvalg, kan også de medlemmer av ESU som representerer de virksomheter som blir direkte berørt av de planlagte tiltak, være tilstede.Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5) b har de ansattes representanter rett til å samles uten at ledelsen er til stede.Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
 
+[§ 7](forskrift/2000-07-28-797/§7). *Reforhandlinger*
+
 Avtale om ESU eller andre samarbeidsordninger kan kreves reforhandlet av begge parter ved avtaleperiodens utløp, eller i perioden dersom vesentlige endringer i antall ansatte eller i foretakets/konsernets struktur tilsier det.
 
 Eventuelle forhandlinger føres direkte av det europeiske samarbeidsutvalg, samt om nødvendig representanter for eventuelle nye arbeidstakergrupper, uten forutgående valg av et særskilt forhandlingsutvalg etter [§ 4](forskrift/2000-07-28-797/§4).
 
+[§ 8](forskrift/2000-07-28-797/§8). *Taushetsplikt*
+
 Medlemmene av SFU og ESU samt eventuelle eksperter som bistår disse organer, plikter å bevare taushet om opplysninger gitt av ledelsen når dette blir uttrykkelig forlangt. Tilsvarende plikt påhviler deltakere i andre samarbeidsordninger som opprettes i medhold av denne avtale.
+
+[§ 9](forskrift/2000-07-28-797/§9). *Frister for forhandlingenes avslutning m.v.*
 
 Forhandlinger om samarbeidsordninger som i medhold av foranstående regler har pågått i to år uten at partene er blitt enige om en avtale, skal avsluttes. De kan etter partenes felles beslutning også avsluttes tidligere, dersom det ikke er mulig å oppnå enighet.
 
 I slike tilfelle, eller hvis ledelsen avviser å innlede forhandlinger innen en frist på seks måneder fra anmodning er fremsatt etter [§ 3](forskrift/2000-07-28-797/§3), bringes saken inn for Bedriftsdemokratinemnda. Nemnda skal, med en frist på seks måneder, pålegge ledelsen å opprette et europeisk samarbeidsutvalg. Nemnda fastlegger utvalgets struktur og oppgaver i henhold til [§ 5](forskrift/2000-07-28-797/§5) og [§ 6](forskrift/2000-07-28-797/§6).
 
+[§ 10](forskrift/2000-07-28-797/§10). *Tvistebehandling*
+
 Uenighet om innholdet i eller rekkevidden av denne avtale avgjøres av Bedriftsdemokratinemnda. Det samme gjelder uenighet om forståelsen eller rekkevidden av avtaler inngått i fellesskapsforetak/konsern om ESU eller andre samarbeidsordninger, herunder spørsmål knyttet til rekkevidden av pålagt taushetsplikt eller omfanget av ledelsens informasjonsplikt.
+
+[§ 11](forskrift/2000-07-28-797/§11). *Forholdet til andre avtaler*
 
 Forpliktelsene etter denne avtale gjelder ikke for informasjons- og konsultasjonsordninger som før avtalens ikrafttredelse er etablert for alle ansatte i foretak/konserner som omfattes av [§ 2](forskrift/2000-07-28-797/§2). Slike ordninger gjelder inntil den utløpsdato de selv fastsetter, og kan deretter fornyes av partene i fellesskap uten hensyn til bestemmelsene i denne avtale. Blir partene ikke enige om fornyelse, gjelder bestemmelsene og fristene i denne avtale fra ordningenes utløpsdato.
 
@@ -141,15 +173,23 @@ Uenighet om grunnlaget for eller rekkevidden av avtaler som nevnt i første ledd
 
 Denne avtale berører ikke de rettigheter og plikter som forøvrig gjelder mellom partene i arbeidslivet som følge av norske lover eller avtaler.
 
+[§ 12](forskrift/2000-07-28-797/§12). *Ikrafttredelse*
+
 Denne avtale trer i kraft 22. september 1996.
 
 ## Vedlegg 2. Avtale 31. januar 2011 mellom LO og NHO om europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer
 
 > Vedlegget endret ved [forskrift 3 juni 2011 nr. 570](forskrift/2011-06-03-570) (i kraft 6 juni 2011).
 
+*Tilleggsavtale VIII. Avtale om europeiske samarbeidsutvalg eller tilsvarende samarbeidsformer*
+
+[§ 1](forskrift/2000-07-28-797/§1). *Formål*
+
 Formålet med denne avtale er å bedre de ansattes konsultasjons- og informasjonsrettigheter i foretak og konserner med virksomhet innenfor EØS-området, og derved videreføre til disse foretak de gode samarbeidsrelasjoner som er utviklet i avtaleverk og praksis i norsk arbeidsliv.
 
 Informasjon og konsultasjon skal tilrettelegges på en slik måte at de virker effektivt, og at de gjør det mulig for foretak og konserner å treffe beslutninger på en effektiv måte.
+
+[§ 2](forskrift/2000-07-28-797/§2). *Definisjoner og anvendelsesområde*
 
 Avtalen gjelder for alle grupper ansatte i norske virksomheter som fyller følgende vilkår:
 
@@ -175,6 +215,8 @@ I denne avtalen skal begrepet *«konsultasjon»* bety utveksling av synspunkter 
 
 Saker er å anse som *«grenseoverskridende»* når de angår hele konsernet eller fellesskapsforetaket, eller minst to virksomheter eller bedrifter/enheter i forskjellige EØS-land.
 
+[§ 3](forskrift/2000-07-28-797/§3). *Opprettelse av samarbeidsordning*
+
 I foretak og konserner med slik struktur og størrelse som nevnt i [§ 2](forskrift/2000-07-28-797/§2) kan det anmodes om forhandlinger om opprettelse av europeisk samarbeidsutvalg, heretter kalt ESU, eller om andre samarbeidsformer som sikrer informasjon til og konsultasjon med de ansatte over landegrensene.
 
 Ledelsen i hver virksomhet plikter på forespørsel fra arbeidstakernes representanter å fremlegge informasjon om foretakets eller konsernets struktur, antall ansatte og annen informasjon som er nødvendig for å kreve forhandlinger.
@@ -189,14 +231,20 @@ Dersom utenlandsk konsern har flere enn ett datterselskap i Norge, kan det avtal
 
 Der selskapsstrukturen gjør det naturlig å forankre samarbeidsordningene på andre nivåer enn den sentrale ledelse, f.eks. på divisjons- eller regionnivå, skal dette ikke svekke de ansattes rettigheter til informasjon/konsultasjon etter denne avtale om forhold som angår konsernets samlede virksomhet.
 
+[§ 4](forskrift/2000-07-28-797/§4). *Fremgangsmåten ved ordningens etablering*
+
 Ledelsen er ansvarlig for gjennomføringen av forhandlingene etter følgende regler:Representanter for de ansatte i Norge og i de nasjonale enheter innenfor EØS danner et særlig forhandlingsutvalg, heretter kalt SFU, som skal forhandle med ledelsen om opprettelse av ESU eller andre samarbeidsformer.Medlemmene av det særlige forhandlingsutvalget velges eller utpekes ut fra antallet arbeidstakere i hver EU-/EØS-stat. Hver stat tildeles en plass i det særlige forhandlingsutvalget per påbegynte tidel av det samlede antall arbeidstakere.Medlemmene i SFU utpekes eller velges av og blant de ansatte i fellesskapsforetaket og dets virksomheter, eller i konsernet, etter følgende regler:ansatte i Norge velger sin(e) representant(er) enten ved skriftlig og hemmelig valg etter de regler som er fastsatt i Hovedavtalens § 12-3 eller, i virksomheter der dette ikke passer, i henhold til valgreglene for ansattes representasjon etter aksjeloven.Uenighet om fremgangsmåten ved valgene, eller klage over deres gjennomføring, avgjøres av Bedriftsdemokratinemnda.ansatte i utenlandske datterselskaper velger sine representanter i henhold til de regler som følger av lov, avtale eller praksis i datterselskapenes hjemland.Det særlige forhandlingsutvalg skal underrette ledelsen om sammensetningen av utvalget.Ledelsen innkaller innen tre måneder utvalget til forhandlingsmøte med sikte på å etablere ESU eller annen form for samarbeidsordning.Ledelsen i de nasjonale enheter og de aktuelle arbeidstaker- og arbeidsgiverorganisasjoner på europeisk nivå skal underrettes om sammensetningen av det særlige forhandlingsutvalget og at forhandlinger innledes.Før og etter hvert møte med ledelsen har det særlige forhandlingsutvalg rett til å møtes uten at representanter for ledelsen er til stede. I den sammenheng skal det ha tilgang på alle nødvendige kommunikasjonsmidler.SFU har rett til å la seg bistå av sakkyndige etter eget valg. Ledelsen har plikt til å dekke omkostningene ved en slik sakkyndig. Dekning utover dette kan avtales mellom partene.Under forhandlingene kan partene etter anmodning få råd og veiledning av sine organisasjoner der slike finnes. Det samme gjelder dersom det etter inngåelsen oppstår tvil om rekkevidden av den inngåtte avtale.SFUs beslutning om å inngå avtale om samarbeidsordninger etter [§ 3](forskrift/2000-07-28-797/§3) må ha tilslutning blant et flertall av utvalgets medlemmer.
 
 SFU kan med minst to tredeler av stemmene beslutte å ikke innlede forhandlinger eller å avbryte forhandlinger som allerede er påbegynt etter nærværende avtale.
 
 Ny anmodning om å innkalle SFU kan tidligst fremsettes to år etter nevnte beslutning, med mindre partene i foretaket/konsernet blir enige om en kortere frist.
 
+[§ 5](forskrift/2000-07-28-797/§5). *Avtalens innhold*
+
 1. Partene skal gjennom avtalen om ESU eller andre samarbeidsordninger ivareta de ansattes behov for relevant og regelmessig informasjon, og for en direkte dialog med ledelsen, i saker som er av grenseoverskridende natur.Informasjon og konsultasjon skal skje på et relevant ledelsesnivå ut fra hvilke emner som behandles.De løsninger og prosedyrer som velges skal ta hensyn til foretakets/konsernets organisasjonsstruktur og ledelsesformer, og den bedriftskultur og samarbeidstradisjon som finnes. De skal legge til rette for et godt og tillitsfullt forhold mellom ledelsen og de ansatte, der de ansatte med sin erfaring og innsikt skal være med på å skape de økonomiske forutsetninger for foretakets fortsatte utvikling, og for trygge og gode arbeidsforhold til beste for foretaket og de ansatte.
 2. Avtalen mellom partene skal være skriftlig, og i det minsteangi de land og selskapsenheter som omfattes.fastlegge ESUs sammensetning, medlemstall og fordeling av plassene, dets kompetanse og arbeidsmåte, samt funksjonstid. For eventuell annen samarbeidsmodell skal omfang og innhold bestemmes, samt på hvilke områder og i hvilket omfang informasjon skal gis og konsultasjoner holdes.fastsette sted, hyppighet og varighet for ESUs møter, herunder eventuelle formøter i tilknytning til ESUs møter.inneholde budsjett for ESUs eller samarbeidsordningens virksomhet.angi utvalgets virkemåte og fremgangsmåte ved informasjon og konsultasjon, herunder koordinering av informasjon og konsultasjon på nasjonalt og internasjonalt nivå.sammensetning av, fremgangsmåte for oppnevning, virkemåte og saksbehandlingsregler for den særskilte komiteen som opprettes innen ESU, der slik oppnevnes.avtalens ikrafttredelse og varighet, retningslinjer for endring og oppsigelse av avtalen, vilkår for reforhandling, herunder, om nødvendig, ved endringer i strukturen i foretak med virksomhet i flere EØS-stater.
+
+[§ 6](forskrift/2000-07-28-797/§6). *ESUs praktiske arbeid*
 
 Medlemmene i ESU velges eller utpekes av og blant de ansatte i henhold til [§ 4](forskrift/2000-07-28-797/§4)c, med mindre annet avtales.
 
@@ -214,9 +262,13 @@ Avholdes møtet med ESUs arbeidsutvalg, kan også de medlemmer av ESU som repres
 
 Slikt møte skal avholdes så raskt som mulig på grunnlag av en rapport fra ledelsen. Ved møtets slutt eller så snart som mulig deretter har ESU/arbeidsutvalget rett til å avgi uttalelse om rapporten. Uttalelsen skal ligge ved saksdokumentene under den videre behandling med mindre særlige grunner ikke gjør dette mulig.Dersom partene har avtalt formøter i henhold til [§ 5](forskrift/2000-07-28-797/§5)b har de ansattes representanter rett til å samles uten at ledelsen er til stede.Med forbehold om eventuell pålagt taushetsplikt skal ESUs medlemmer informere foretakets/konsernets tillitsvalgte om innholdet i og resultatet av møtene. I virksomheter der det ikke finnes tillitsvalgte, skal de ansatte informeres.ESU eller arbeidsutvalget kan søke bistand av eksperter etter eget valg dersom det finner dette nødvendig for å utføre sine oppgaver. Ledelsen kan bestemme at bare en slik ekspert skal få sine utgifter dekket av foretaket/konsernet.Utgiftene til ESUs drift dekkes av ledelsen. Det skal stilles tilstrekkelige ressurser og utstyr til rådighet for utvalget, slik at oppgavene kan bli forsvarlig ivaretatt.Ledelsen skal særlig sørge for en forsvarlig tilrettelegging av møtene, og betale medlemmenes reise- og oppholdsutgifter.I nødvendig omfang skal det sørges for oversettelse av dokumenter og tolking under møtene.I den grad det er nødvendig for at de skal kunne utføre sine oppgaver som representanter i et internasjonalt miljø, skal medlemmene av det særlige forhandlingsorgan og ESU gis opplæring uten tap av lønn.Dersom det i foretaket/konsernet er avtalt andre samarbeidsordninger, gjelder ovenstående grunnregler så langt de passer i den utstrekning ikke annet følger av partenes avtale.
 
+[§ 7](forskrift/2000-07-28-797/§7). *Taushetsplikt*
+
 Medlemmene av SFU og ESU samt eventuelle eksperter som bistår disse organer, plikter å bevare taushet om opplysninger gitt av ledelsen når dette blir uttrykkelig forlangt.
 
 Tilsvarende plikt påhviler deltakere i andre samarbeidsordninger som opprettes i medhold av denne avtale.
+
+[§ 8](forskrift/2000-07-28-797/§8). *Tilpasning og reforhandlinger*
 
 Avtale om ESU eller andre samarbeidsordninger kan kreves reforhandlet av begge parter ved avtaleperiodens utløp, eller i perioden dersom vesentlige endringer i antall ansatte eller i foretakets/konsernets struktur tilsier det, eller EU vedtar direktivendringer som nødvendiggjør at avtalen reforhandles.
 
@@ -226,6 +278,8 @@ Minst tre medlemmer av det eksisterende ESU eller av hvert av de eksisterende ES
 
 Under forhandlingene skal de(t) eksisterende ESU fortsatt være i virksomhet i henhold til eventuelle retningslinjer som er tilpasset gjennom avtale mellom medlemmene av de(t) europeiske samarbeidsutvalg og ledelsen.
 
+[§ 9](forskrift/2000-07-28-797/§9). *Frister for forhandlingenes avslutning mv.*
+
 Forhandlinger om samarbeidsordninger som i medhold av foranstående regler har pågått i to år uten at partene er blitt enige om en avtale, skal avsluttes.
 
 De kan etter partenes felles beslutning også avsluttes tidligere, dersom det ikke er mulig å oppnå enighet.
@@ -234,11 +288,15 @@ I slike tilfelle, eller hvis ledelsen avviser å innlede forhandlinger innen en 
 
 Nemnda skal, med en frist på seks måneder, pålegge ledelsen å opprette et europeisk samarbeidsutvalg. Nemnda fastlegger utvalgets struktur og oppgaver i henhold til [§ 5](forskrift/2000-07-28-797/§5) og [§ 6](forskrift/2000-07-28-797/§6).
 
+[§ 10](forskrift/2000-07-28-797/§10). *Tvistebehandling*
+
 Uenighet om innholdet i eller rekkevidden av denne avtale avgjøres av Bedriftsdemokratinemnda. Det samme gjelder uenighet om forståelsen eller rekkevidden av avtaler inngått i fellesskapsforetak/konsern om ESU eller andre samarbeidsordninger, herunder spørsmål knyttet til rekkevidden av pålagt taushetsplikt eller omfanget av ledelsens informasjonsplikt.
 
 Uenighet om grunnlaget for eller rekkevidden av ESU-avtaler kan bringes inn for Bedriftsdemokratinemnda til avgjørelse, med mindre partene i avtalen har fastsatt andre tvisteløsningsmekanismer.
 
 Denne avtale berører ikke de rettigheter og plikter som for øvrig gjelder mellom partene i arbeidslivet som følge av norske lover eller avtaler.
+
+[§ 11](forskrift/2000-07-28-797/§11). *Forholdet til andre avtaler*
 
 Forpliktelsene etter denne avtale gjelder ikke for informasjons- og konsultasjonsordningen som er etablert i medhold av bestemmelser som implementerer artikkel 13 nr. 1 i direktiv [94/45/EF](eu/31994l0045*) eller artikkel 3 nr. 1 i direktiv [97/74/EF](eu/31997l0074), og som omfatter alle ansatte i foretak/konserner som omfattes av [§ 2](forskrift/2000-07-28-797/§2), eller dersom slike avtaler er tilpasset på grunn av endringer i strukturen i foretakene eller konsernene.
 

@@ -43,12 +43,18 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg: Næringsmidlets tradisjonelle karakter
 
+*Tradisjonelle råvarer og sammensetning*
+
 Setersmør/Stølssmør har tradisjonelt blitt produsert av syrnet fløte fremstilt av melk produsert av kyr på seterbeite. Slikt smør var også tradisjonelt saltere enn vanlig smør for å bedre smørets holdbarhet.
+
+*Tradisjonell produksjonsmetode*
 
 Seterdrift nevnes allerede i den eldre Gulatingsloven (siste halvdel av 1000-tallet), men det må antas at seterdrift er enda eldre siden det i loven også refereres til «seterdrift i gammel tid». Pollenanalyser og arkeologiske funn viser at det har vært beitebruk i seterområdene i Norge i flere tusen år. Seterdrift ble mer vanlig etter svartedauden (1347–1351), og på midten av 1800-tallet regner man med at det var ca. 100 000 setre i drift. Setring ble brukt både for å utnytte beiteressursene i utmarka, og for at innmarka hjemme på gården skulle kunne brukes til produksjon av vinterfôr og andre produkter.
 
 På setra ble melken som regel prosessert daglig. Før separatoren ble vanlig (etter 1900) ble fløten tatt av med flat skje etter å ha stått natta over i melkeringer. Fløte ble syrnet til rømme og lagret i rømmeambar (kar til oppbevaring) før kinning i stampekinne eller sveivetønne. Både rømmen og kinna ble temperert før kinning. Dette var viktig for var rømmen for varm kunne smøret lett overkinnes, og var rømmen for kald kunne det ta flere timer før det ble smør.
 
 Når det hadde blitt smør, ble smøret tatt i et trau eller en butt og vasket med vann fra bekken eller andre vannkilder. For smør som skulle lagres lenge var vaskingen viktig for å hindre harskning. Enkelte steder var det tradisjon for å elte ut saupet istedenfor å vaske smøret med vann. Etter vasking/elting ble smøret saltet, eltet og lagt i tette butter med lokk.
+
+*Næringsmidlets særlige kjennetegn*
 
 Setersmør/Stølssmør har en mykere konsistens og gulere farge enn vanlig smør. Dette kan tilskrives melkens sammensetning, som igjen kan tilskrives kvaliteten til seterbeite og beitemønster. Melken har et lavere innhold av mettede og mellomlange fettsyrer, et høyere innhold av lange og flerumettede fettsyrer, mer omega 3 i forhold til omega 6, et høyere antall terpener og mer antioksidanter enn i vanlig melk. Smaken til Setersmør/Stølssmør er beskrevet som frisk og syrlig.

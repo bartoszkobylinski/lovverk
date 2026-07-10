@@ -28,6 +28,8 @@ Skattedirektoratet har funnet å kunne gi United Technologies Corporation NUF, o
 
 Videre gis Pratt & Whitney Military Norway AS, org.nr. 981 648 447, fritak fra plikten til å beregne merverdiavgift ved innførsel av varer til vedlikehold av våpensystemet F-35.
 
+*Sakens bakgrunn*
+
 Forsvarsdepartementet skal som ledd i innføringen av F-35 kampfly delta i et flernasjonalt vedlikeholdsprogram for F-35. Merverdiavgiftsloven inneholder i dag regler om fritak på dette området, men på grunn av innretningen av vedlikeholdsprogrammet for F-35 oppstår det likevel plikt til å beregne merverdiavgift ved enkelte leveranser av varer og tjenester innenfor vedlikeholdsprogrammet.
 
 Avtaler om anskaffelse av våpensystemet F-35 og deltakelse i vedlikeholdsprogrammet inngås mellom Forsvaret og F-35-programkontoret. Programkontoret er formelt og administrativt underlagt det amerikanske forsvarsdepartementet, men partnerlandene er representert i et sentralt beslutningsorgan. Sentrale avgjørelser om utformingen mv. av vedlikeholdsløsningen avgjøres i beslutningsorganet der partnerlandene er representert.
@@ -35,6 +37,8 @@ Avtaler om anskaffelse av våpensystemet F-35 og deltakelse i vedlikeholdsprogra
 Forsvarets deltakelse i den flernasjonale vedlikeholdsløsningen for F-35 innebærer bl.a. at det etableres en felles reservedelspool og felles vedlikeholdskapasiteter. For Forsvaret vil deltakelsen i vedlikeholdsprogrammet innebære stadige leveranser av reservedeler til de norske flyene og tilhørende utstyr. Forsvaret inngår avtale om vedlikeholdstjenestene med det etablerte programkontoret, som vil benytte leverandører til å oppfylle forpliktelsene etter avtalen. Leverandørene vil være basert i Norge og i utlandet.
 
 United Technologies Corporation NUF, org.nr. 919 258 586 er en av disse leverandørene. Selskapet har inngått kontrakt med F-35-programkontoret og vil benytte konsernselskapet Pratt & Whitney Military Norway AS, org.nr. 981 648 447, som underleverandør i forbindelse med vedlikeholdsløsningen de skal levere for våpensystemet F-35 i Norge. Pratt & Whitney Military Norway AS vil ha ansvar for både innførsel av de aktuelle delene samt levere de øvrige vedlikeholdstjenestene og reservedelene fra norske underleverandører i Norge som ledd i flyvåpenprogrammet. Pratt & Whitney Military Norway AS vil fakturere United Technologies Corporation NUF for sine leveranser, og United Technologies Corporation NUF vil deretter fakturere F-35-programkontoret for sine leveranser. Pratt & Whitney Military Norway AS og United Technologies Corporation NUF er fellesregistrert i Merverdiavgiftsregisteret fra 4. termin 2017.
+
+*Merverdiavgiftsreglene*
 
 Merverdiavgiften er en generell forbruksavgift som i utgangspunktet ilegges alle varer og tjenester. Merverdiavgiftsloven inneholder imidlertid enkelte unntak og fritak. For luftfartøy er det gitt et særskilt merverdiavgiftsfritak i [merverdiavgiftsloven § 6-10](lov/2009-06-19-58/§6-10). Etter lovbestemmelsens annet ledd omfatter fritaket omsetning i siste omsetningsledd av tjenester som står i direkte forbindelse med bygging, ombygging, reparasjon og vedlikehold av luftfartøy. Fritaket omfatter også varer som leveres i forbindelse med slike tjenester.
 
@@ -49,6 +53,8 @@ Videre er det gitt følgende bestemmelse i [merverdiavgiftsloven § 7-10](lov/20
 «Departementet kan treffe enkeltvedtak om fritak fra plikten til å beregne merverdiavgift ved innførsel av varer til vedlikehold av våpensystemet F-35. Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen, herunder fast sette vilkår for fritak.»
 
 Bestemmelsene trer i kraft 1. januar 2017, og Finansdepartementet har i delegasjonsvedtak av 23. desember 2016 delegert kompetansen til å gi enkeltvedtak til Skattedirektoratet.
+
+*Skattedirektoratets vurderinger*
 
 Stortinget har lagt til grunn at dette programmet har en svært spesiell karakter og at det reiser avgiftstekniske problemstillinger, særlig knyttet til at vedlikeholdsprogrammet gjelder flere land. Som følge av dette er det gitt særskilte dispensasjonshjemler for å muliggjøre nødvendige tilpasninger til merverdiavgiftsreglene.
 

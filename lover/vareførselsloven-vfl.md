@@ -1106,6 +1106,8 @@ Kongen i statsråd kan gi forskrift om handelstiltak overfor ett eller flere lan
 
 Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 21. desember 2007 nr. 119 om toll og vareførsel](lov/2007-12-21-119).
 
+1 Fra 1. januar 2023 iflg. [res. 16 sep 2022 nr. 1574](forskrift/2022-09-16-1574).
+
 ### § 14-2. Overgangsbestemmelser
 
 Departementet kan gi forskrift om overgangsbestemmelser.

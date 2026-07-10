@@ -414,6 +414,8 @@ Lov 7. juni 1935 nr. 2 om tinglysing kapitlene 2 og 3 gjelder tilsvarende så la
 
 > Endret ved [lov 24 juni 2011 nr. 38](lov/2011-06-24-38).
 
+1 Etter [forskrift 19 juni 1997 nr. 618](forskrift/1997-06-19-618) er føringen av Petroleumsregisteret delegert til Oljedirektoratet.
+
 ### § 6-2. Pantsettelse av tillatelser
 
 Departementet kan samtykke i at rettighetshaver pantsetter hele tillatelsen eller at den enkelte rettighetshaver pantsetter sin andel i denne som ledd i finansieringen av virksomheten knyttet til tillatelsen. I særlige tilfeller kan departementet samtykke i at finansieringen omfatter virksomhet i henhold til annen tillatelse enn den som pantsettes.
@@ -871,6 +873,8 @@ Departementet kan fravike bestemmelsene i [§ 4-9](lov/1996-11-29-72/§4-9)2 ann
 Forskrifter gitt i medhold av tidligere [lov av 21. juni 1963 nr. 12](lov/1963-06-21-12) om utforskning og utnyttelse av undersjøiske naturforekomster eller [lov av 22. mars 1985 nr. 11](lov/1985-03-22-11) om petroleumsvirksomhet eller med hjemmel i forskrifter gitt i medhold av disse lovene gjelder for så vidt ikke annet er eller blir bestemt.
 
 > Endret ved [lover 25 juni 1999 nr. 54](lov/1999-06-25-54) (ikr. 1 juli 1999 iflg. [res. 25 juni 1999 nr. 705](forskrift/1999-06-25-705)), [18 mai 2001 nr. 23](lov/2001-05-18-23) (ikr. 17 juni 2001 iflg. [vedtak 15 juni 2001 nr. 636](forskrift/2001-06-15-636)), tidligere § 11-1.
+
+1 Fra 1 juli 1997 iflg. [res. 27 juni 1997 nr. 640](forskrift/1997-06-27-640).2 Inkurie: Nå [§ 4-10](lov/1996-11-29-72/§4-10).
 
 ### § 12-2. Opphevelse og endring av lover
 

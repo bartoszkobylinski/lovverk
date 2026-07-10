@@ -114,30 +114,58 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg I. Formler for beregning av klimagassintensitet
 
-Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet skal beregnes med følgende formel: $$\frac{U}{E} = \frac{u_{WtT} + u_{TtW}}{E} + C $$
+Klimagassintensiteten for skip som brukes i forbindelse med petroleumsvirksomhet skal beregnes med følgende formel: $$\\frac{U}{E} = \\frac{u_{WtT} + u_{TtW}}{E} + C $$
 
 I denne formelen inngår uWtT, (oppstrømsutslipp), uTtW (nedstrømsutslipp) og E, (energibruk). C er klimagassintensitet for fangst og -lagring av CO2 fra forbrenning av drivstoff på skip som brukes i forbindelse med petroleumsvirksomhet.
 
-Oppstrømsutslipp (WtT; fra kilde til tank) skal beregnes med følgende formel: $$ u_{WtT} = \sum_{drivstoff i} M_i \cdot NBV_i \cdot CO_2ekv_{WtT,i} $$
+Oppstrømsutslipp (WtT; fra kilde til tank) skal beregnes med følgende formel: $$ u_{WtT} = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot CO_2ekv_{WtT,i} $$
 
-Mi og NBVi er henholdsvis massen og nedre brennverdi av hvert drivstoff, slik at Mi∙NBVi er energimengden brukt av hvert drivstoff i. Standardverdier for NBVi og \( CO_2ekv_{WtT,i}\), i er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII).
+Mi og NBVi er henholdsvis massen og nedre brennverdi av hvert drivstoff, slik at Mi∙NBVi er energimengden brukt av hvert drivstoff i. Standardverdier for NBVi og \\( CO_2ekv_{WtT,i}\\), i er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII).
 
-Nedstrømsutslipp (TtW; fra tank til propell) fra bruk av drivstoff i på drivstoffomformer j på skipet, summert over alle i og j, skal beregnes med følgende formel: $$ u_{TtW} = \sum_{drivstoff i} \sum_{motor j} M_{i,j} \cdot \left[\left(1 - C_{slip j}\right) \cdot CO_2ekv_{\cdot TtW,i,j} + C_{slip,j} \cdot GWP_{CH4}\right]_i$$
+Nedstrømsutslipp (TtW; fra tank til propell) fra bruk av drivstoff i på drivstoffomformer j på skipet, summert over alle i og j, skal beregnes med følgende formel: $$ u_{TtW} = \\sum_{drivstoff i} \\sum_{motor j} M_{i,j} \\cdot \\left[\\left(1 - C_{slip j}\\right) \\cdot CO_2ekv_{\\cdot TtW,i,j} + C_{slip,j} \\cdot GWP_{CH4}\\right]_i$$
 
-Her er: $$ CO_2ekv_{TtW,i,j} = C_{f CO2} \cdot GWP_{CO2} + C_{f CH4} \cdot GWP_{CH4} + C_{f N2O} \cdot GWP_{N2O}$$
+Her er: $$ CO_2ekv_{TtW,i,j} = C_{f CO2} \\cdot GWP_{CO2} + C_{f CH4} \\cdot GWP_{CH4} + C_{f N2O} \\cdot GWP_{N2O}$$
 
-Standardverdier for \( C_{slip j}\) (%), \(C_{f CO2}\) , \(C_{f CH4}\) og \( C_{f N2O}\) er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII). Verdier for \(GWP_{CO2}\), \(GWP_{CH4}\) og \(GWP_{N2O}\) er definert i del C nr. 4 i vedlegg V til direktiv [(EU) 2018/2001](eu/32018l2001).
+Standardverdier for \\( C_{slip j}\\) (%), \\(C_{f CO2}\\) , \\(C_{f CH4}\\) og \\( C_{f N2O}\\) er gitt i [vedlegg II](forskrift/2026-05-12-793/vedleggII). Verdier for \\(GWP_{CO2}\\), \\(GWP_{CH4}\\) og \\(GWP_{N2O}\\) er definert i del C nr. 4 i vedlegg V til direktiv [(EU) 2018/2001](eu/32018l2001).
 
-Energibruken summert for alle drivstoff i og for elektrisitet skal beregnes med følgende formel: $$E = \sum_{drivstoff i} M_i \cdot NBV_i \cdot RWD_i + \sum_k E_k \cdot RWD_i$$
+Energibruken summert for alle drivstoff i og for elektrisitet skal beregnes med følgende formel: $$E = \\sum_{drivstoff i} M_i \\cdot NBV_i \\cdot RWD_i + \\sum_k E_k \\cdot RWD_i$$
 
 Ek er elektrisitet levert fra alle tilknytningspunkt k. For elektrisitet og drivstoff som er fornybart drivstoff av ikke-biologisk opprinnelse, lavkarbon hydrogen eller drivstoff basert på lavkarbon hydrogen, er RWDi lik 2 i perioden fra 1. januar 2029 til 31. desember 2033, ellers er RWDi lik 1.
 
 ## Vedlegg II. Standardverdier for beregning av klimagassintensitet
 
-*1**2**3**4**5**6**7**8**9**WtT**TtW**Drivstoff-klasse**Produksjonsprosess**NBV (MJ/g)**CO2-ekv.WtT
-(g/MJ)**Drivstofforbruker­enhet**Cf CO2**Cf CH4**Cf N2O**Cslip (%)*FossilHFO ISO 8217 RME til RMK0,040513,5Alle forbrenningsmotorer3,1140,000050,00018–FossilLFO ISO 8217 RMA til RMD0,04113,2Alle forbrenningsmotorer3,1510,000050,00018–FossilMDO, MGO ISO 8217 DMX til DMB0,042714,4Alle forbrenningsmotorer3,2060,000050,00018–FossilFlytende naturgass (LNG)0,049118,5LNG Otto DF MS2,7500,000113,1LNG Otto DF SS1,7LNG Diesel DF SS0,2LBSI-motor2,6FossilFlytende petroleumsgass (LPG)0,0467,8Alle forbrenningsmotorer3,03 (butan)
-3,0 (propan)SMSMN/AFossilHydrogen (fra naturgass)0,12132Brenselcelle00––Forbrenningsmotor00SMFossilAmmoniakk (fra naturgass)0,0186121Brenselcelle0N/ASM–Forbrenningsmotor0N/ASMN/AFossilMetanol (fra naturgass)0,019931,3Alle forbrenningsmotorer1,375SMSM–BiodrivstoffBiogassVerdi som fastsatt i [vedlegg III](forskrift/2026-05-12-793/vedleggIII) til direktiv [(EU) 2018/2001](eu/32018l2001)E –
-CfCO2/NBVLNG Otto DF MS2,7500,000113,1LNG Otto DF SS1,7LNG Diesel DF SS0,2LBSI-motor2,6Fornybare drivstoff av ikke-biologisk opprinnelsee-diesel0,0427Etter metode i delegert rettsakt nevnt i 28 nr. 5 i direktiv [(EU) 2018/2001](eu/32018l2001)Alle forbrenningsmotorer3,2060,000050,00018–e-metanol0,0199Alle forbrenningsmotorer1,35SMSM–e-LNG0,0491LNG Otto DF MS2,7500,000113,1LNG Otto DF SS1,7LNG Diesel DF SS0,2LBSI-motor2,6e-hydrogen0,12Brenselcelle000–Forbrenningsmotor00SM–e-ammoniakk0,0186Brenselcelle0N/ASMN/AForbrenningsmotor0N/ASMN/AStrømStrøm–0Tilknytning til strømnett eller annen utslippsfri energikilde––––
+| *1* | *2* | *3* | *4* | *5* | *6* | *7* | *8* | *9* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | *WtT* | *TtW* |  |  |  |  |
+| *Drivstoff-klasse* | *Produksjonsprosess* | *NBV (MJ/g)* | *CO2-ekv.WtT<br>(g/MJ)* | *Drivstofforbruker­enhet* | *Cf CO2* | *Cf CH4* | *Cf N2O* | *Cslip (%)* |
+| Fossil | HFO ISO 8217 RME til RMK | 0,0405 | 13,5 | Alle forbrenningsmotorer | 3,114 | 0,00005 | 0,00018 | – |
+| Fossil | LFO ISO 8217 RMA til RMD | 0,041 | 13,2 | Alle forbrenningsmotorer | 3,151 | 0,00005 | 0,00018 | – |
+| Fossil | MDO, MGO ISO 8217 DMX til DMB | 0,0427 | 14,4 | Alle forbrenningsmotorer | 3,206 | 0,00005 | 0,00018 | – |
+| Fossil | Flytende naturgass (LNG) | 0,0491 | 18,5 | LNG Otto DF MS | 2,75 | 0 | 0,00011 | 3,1 |
+| LNG Otto DF SS | 1,7 |  |  |  |  |  |  |  |
+| LNG Diesel DF SS | 0,2 |  |  |  |  |  |  |  |
+| LBSI-motor | 2,6 |  |  |  |  |  |  |  |
+| Fossil | Flytende petroleumsgass (LPG) | 0,046 | 7,8 | Alle forbrenningsmotorer | 3,03 (butan)<br>3,0 (propan) | SM | SM | N/A |
+| Fossil | Hydrogen (fra naturgass) | 0,12 | 132 | Brenselcelle | 0 | 0 | – | – |
+| Forbrenningsmotor | 0 | 0 | SM |  |  |  |  |  |
+| Fossil | Ammoniakk (fra naturgass) | 0,0186 | 121 | Brenselcelle | 0 | N/A | SM | – |
+| Forbrenningsmotor | 0 | N/A | SM | N/A |  |  |  |  |
+| Fossil | Metanol (fra naturgass) | 0,0199 | 31,3 | Alle forbrenningsmotorer | 1,375 | SM | SM | – |
+| Biodrivstoff | Biogass | Verdi som fastsatt i [vedlegg III](forskrift/2026-05-12-793/vedleggIII) til direktiv [(EU) 2018/2001](eu/32018l2001) | E –<br>CfCO2/NBV | LNG Otto DF MS | 2,75 | 0 | 0,00011 | 3,1 |
+| LNG Otto DF SS | 1,7 |  |  |  |  |  |  |  |
+| LNG Diesel DF SS | 0,2 |  |  |  |  |  |  |  |
+| LBSI-motor | 2,6 |  |  |  |  |  |  |  |
+| Fornybare drivstoff av ikke-biologisk opprinnelse | e-diesel | 0,0427 | Etter metode i delegert rettsakt nevnt i 28 nr. 5 i direktiv [(EU) 2018/2001](eu/32018l2001) | Alle forbrenningsmotorer | 3,206 | 0,00005 | 0,00018 | – |
+| e-metanol | 0,0199 | Alle forbrenningsmotorer | 1,35 | SM | SM | – |  |  |
+| e-LNG | 0,0491 | LNG Otto DF MS | 2,75 | 0 | 0,00011 | 3,1 |  |  |
+| LNG Otto DF SS | 1,7 |  |  |  |  |  |  |  |
+| LNG Diesel DF SS | 0,2 |  |  |  |  |  |  |  |
+| LBSI-motor | 2,6 |  |  |  |  |  |  |  |
+| e-hydrogen | 0,12 | Brenselcelle | 0 | 0 | 0 | – |  |  |
+| Forbrenningsmotor | 0 | 0 | SM | – |  |  |  |  |
+| e-ammoniakk | 0,0186 | Brenselcelle | 0 | N/A | SM | N/A |  |  |
+| Forbrenningsmotor | 0 | N/A | SM | N/A |  |  |  |  |
+| Strøm | Strøm | – | 0 | Tilknytning til strømnett eller annen utslippsfri energikilde | – | – | – | – |
 
 I tabellen over gjelder:Verdiene Cf CO2,Cf CH4 og Cf N2O har enhet gram per gram drivstoffSM betyr at verdier skal målesN/A betyr at verdi ikke er tilgjengeligStrek (-) betyr ikke relevantDF MS og SS betyr kombinasjonsdrivstoffmotor (dual fuel) med henholdsvis middels hastighet (medium speed) og lav hastighet (slow speed)Verdier for E er fastsatt med metodene definert i del C i vedlegg V og i del B i vedlegg VI til direktiv [(EU) 2018/2001](eu/32018l2001) (fornybardirektivet).
 

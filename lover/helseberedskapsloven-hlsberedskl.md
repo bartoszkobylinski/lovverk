@@ -222,6 +222,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enke
 
 Fra samme dato oppheves [lov 2. desember 1955 nr. 2](lov/1955-12-02-2) om helsemessig beredskap.
 
+1 Fra 1 juli 2001 iflg. [res. 22 juni 2001 nr. 698](forskrift/2001-06-22-698).
+
 ### § 7-2. Overgangsbestemmelser
 
 Kongen kan i forskrift fastsette overgangsordninger i forbindelse med at loven trer i kraft, herunder at krav og pålegg i eller i medhold av loven skal oppfylles innen en bestemt frist.

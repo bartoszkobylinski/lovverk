@@ -490,15 +490,17 @@ Når trafikk inne på et arbeidsområde kan medføre fare for sikkerheten, skal 
 
 ### § 5-3. Varselfarger for skilt
 
-Skilter som inneholder en varselfarge skal være i samsvar med følgende tabell:*Varselfarge**Skilttype**Instrukser og opplysninger*RødForbudsskiltFarlig atferdRødAlarmskiltStopp
-Avstenging
-Nødstoppinnretning
-EvakuerRødBrannvernskiltIdentifisering og plasseringGul eller oransjeFareskiltVær forsiktig
-Ta forholdsregler
-UndersøkBlåPåbudsskiltSpesiell atferd eller handlemåte
-Påbud om bruk av personlig verneutstyrGrønnNødskilt
-Nødutgangsskilt
-FørstehjelpsskiltLokaler, dører, utganger, veier, utstyrGrønnIngen fareTilbake til normaltilstand
+Skilter som inneholder en varselfarge skal være i samsvar med følgende tabell:
+
+| *Varselfarge* | *Skilttype* | *Instrukser og opplysninger* |
+| --- | --- | --- |
+| Rød | Forbudsskilt | Farlig atferd |
+| Rød | Alarmskilt | Stopp<br>Avstenging<br>Nødstoppinnretning<br>Evakuer |
+| Rød | Brannvernskilt | Identifisering og plassering |
+| Gul eller oransje | Fareskilt | Vær forsiktig<br>Ta forholdsregler<br>Undersøk |
+| Blå | Påbudsskilt | Spesiell atferd eller handlemåte<br>Påbud om bruk av personlig verneutstyr |
+| Grønn | Nødskilt<br>Nødutgangsskilt<br>Førstehjelpsskilt | Lokaler, dører, utganger, veier, utstyr |
+| Grønn | Ingen fare | Tilbake til normaltilstand |
 
 > Endret ved forskrift [30 des 2013 nr. 1719](forskrift/2013-12-30-1719) (i kraft 1 jan 2014).
 
@@ -616,6 +618,8 @@ Steder der det er fare for sammenstøt med hindringer, fare for fall eller falle
 De skal være merket med vekselvis gule og sorte, eventuelt røde og hvite striper i de områdene av virksomheten som arbeidstakerne har adgang til under arbeidet. Stripene skal danne en vinkel på ca. 45 ° og være av tilnærmet lik bredde.
 
 Dimensjonene på merkingen skal stå i rimelig forhold til størrelsen på hindringen eller det aktuelle farlige stedet.
+
+Eksempel
 
 ### § 5-17. Ferdselsveier for kjøretøy
 
@@ -743,9 +747,32 @@ I laboratorier, hvor det uten at det er laboratoriets hensikt å arbeide med bio
 
 I isolasjonsenheter hvor det oppholder seg mennesker eller dyr, som er eller antas å være smittet med biologiske faktorer i smitterisikogruppe 3 eller 4, jf. [vedlegg 2](forskrift/2011-12-06-1358/vedlegg2) i forskrift tiltaks- og grenseverdier, skal de av inneslutningstiltakene som er nevnt i kolonne A, og som i henhold til risikovurderingen anses nødvendig, iverksettes.
 
-I laboratorier skal følgende inneslutningstiltak være iverksatt:*A*
-*Inneslutningstiltak**B*
-*Inneslutningsnivå**2**3**4*1.Arbeidslokalene skal være atskilt fra enhver annen aktivitet i samme bygningNeiAnbefaltJa2.Arbeidslokalene skal være merket med skilt for biologisk fareJaJaJa3.Det skal være forromNeiJa, forrom eventuelt luftsluseJa, luftsluse4.Det skal finnes et observasjonsvindu eller en tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenforAnbefaltJaJa5.Det skal være kommunikasjonsmulighet fra rommetAnbefaltJa, anbefalt håndfri telefon/calling-oppleggJa, håndfri telefon/calling-opplegg6.Trykket i arbeidslokalene skal være lavere enn atmosfærisk trykkNeiAnbefalt, med lufttrykkontrollJa, med lufttrykkontroll7.Arbeidslokalenes innluft og utluft skal filtreres ved hjelp av absolutte filtre eller lignende utstyrNeiJa, utluftenJa, utluften og innluften8.Det skal være sikkerhetskabinettNeiJaJa, sikkerhetskabinett klasse III9.Arbeidslokalene må ha nødstrømNeiAnbefaltJa10.Hvert enkelt laboratorium skal ha komplett utstyrNeiJaJa11.Det skal være autoklav i arbeidslokaleneNeiJaJa12.Overflater skal være vanntette og lette å rengjøreJa, på arbeidsbenkJa, på arbeidsbenk og gulvJa, på arbeidsbenk, vegger, gulv og i tak13.Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidlerJa, på arbeidsbenkJa, på arbeidsbenk og gulvJa, på arbeidsbenk, vegger, gulv og i tak14.Arbeidslokalene skal ha avstengningsmekanismer som muliggjør desinfiseringNeiJaJa15.Desinfeksjonsprosedyrer skal spesifiseresJaJaJa16.Avløpsvann skal desinfiseres før uttømmingNeiAnbefaltJa17.Bare utpekte arbeidstakere skal ha adgangAnbefaltJaJa, via luftsluse18.Biologiske faktorer må oppbevares på et sikkert stedJaJaJa, på sted med sikret adgang19.Håndtering av infisert materiale, herunder dyr, skal finne sted i et sikkerhetsrom, i et isolert avlukke eller i en annen passende inneslutningOm nødvendigJa, dersom smitte spres gjennom luftenJa20.Det skal finnes forbrenningsanlegg til destruksjon av dyrelikAnbefaltJa (tilgjengelig)Ja, på stedet21.Det skal foretas effektiv kontroll med smittebærere, f.eks. gnagere og insekterAnbefaltJaJa
+I laboratorier skal følgende inneslutningstiltak være iverksatt:
+
+|  | *A*<br>*Inneslutningstiltak* | *B*<br>*Inneslutningsnivå* |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | *2* | *3* | *4* |
+| 1. | Arbeidslokalene skal være atskilt fra enhver annen aktivitet i samme bygning | Nei | Anbefalt | Ja |
+| 2. | Arbeidslokalene skal være merket med skilt for biologisk fare | Ja | Ja | Ja |
+| 3. | Det skal være forrom | Nei | Ja, forrom eventuelt luftsluse | Ja, luftsluse |
+| 4. | Det skal finnes et observasjonsvindu eller en tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenfor | Anbefalt | Ja | Ja |
+| 5. | Det skal være kommunikasjonsmulighet fra rommet | Anbefalt | Ja, anbefalt håndfri telefon/calling-opplegg | Ja, håndfri telefon/calling-opplegg |
+| 6. | Trykket i arbeidslokalene skal være lavere enn atmosfærisk trykk | Nei | Anbefalt, med lufttrykkontroll | Ja, med lufttrykkontroll |
+| 7. | Arbeidslokalenes innluft og utluft skal filtreres ved hjelp av absolutte filtre eller lignende utstyr | Nei | Ja, utluften | Ja, utluften og innluften |
+| 8. | Det skal være sikkerhetskabinett | Nei | Ja | Ja, sikkerhetskabinett klasse III |
+| 9. | Arbeidslokalene må ha nødstrøm | Nei | Anbefalt | Ja |
+| 10. | Hvert enkelt laboratorium skal ha komplett utstyr | Nei | Ja | Ja |
+| 11. | Det skal være autoklav i arbeidslokalene | Nei | Ja | Ja |
+| 12. | Overflater skal være vanntette og lette å rengjøre | Ja, på arbeidsbenk | Ja, på arbeidsbenk og gulv | Ja, på arbeidsbenk, vegger, gulv og i tak |
+| 13. | Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidler | Ja, på arbeidsbenk | Ja, på arbeidsbenk og gulv | Ja, på arbeidsbenk, vegger, gulv og i tak |
+| 14. | Arbeidslokalene skal ha avstengningsmekanismer som muliggjør desinfisering | Nei | Ja | Ja |
+| 15. | Desinfeksjonsprosedyrer skal spesifiseres | Ja | Ja | Ja |
+| 16. | Avløpsvann skal desinfiseres før uttømming | Nei | Anbefalt | Ja |
+| 17. | Bare utpekte arbeidstakere skal ha adgang | Anbefalt | Ja | Ja, via luftsluse |
+| 18. | Biologiske faktorer må oppbevares på et sikkert sted | Ja | Ja | Ja, på sted med sikret adgang |
+| 19. | Håndtering av infisert materiale, herunder dyr, skal finne sted i et sikkerhetsrom, i et isolert avlukke eller i en annen passende inneslutning | Om nødvendig | Ja, dersom smitte spres gjennom luften | Ja |
+| 20. | Det skal finnes forbrenningsanlegg til destruksjon av dyrelik | Anbefalt | Ja (tilgjengelig) | Ja, på stedet |
+| 21. | Det skal foretas effektiv kontroll med smittebærere, f.eks. gnagere og insekter | Anbefalt | Ja | Ja |
 
 ### § 8-5. Inneslutningstiltak i industriell virksomhet
 
@@ -755,7 +782,37 @@ Ved industriell bruk av biologiske faktorer i smitterisikogruppe 2, 3 eller 4 ka
 
 For aktiviteter som omfattes av denne paragraf, hvor det ikke har vært mulig å foreta en endelig klassifisering av en biologisk faktor, men hvor det foreligger indikasjoner om at den planlagte bruk kan medføre en alvorlig helsefare for arbeidstakerne, skal arbeidet utføres i lokaler minst svarende til inneslutningsnivå 3.
 
-For industrielle prosesser skal følgende inneslutningstiltak være iverksatt:*Inneslutningstiltak**Inneslutningsnivå**2**3**4*1.Levedyktige mikroorganismer skal innesluttes i et system som fysisk avstenger arbeidsoperasjonen fra det omgivende miljøJaJaJa2.Lukkede produksjonssystemer skal plasseres i et innesluttet område (rom, bygninger)AnbefaltJaJa, innesluttet område konstruert for formålet3.Skilt for biologisk fare skal settes oppJaJaJa4.Det skal være forromNeiJa, eventuelt luftsluseJa, luftsluse5.Det skal være observasjonsvindu eller tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenforAnbefaltJaJa6.Det skal være kommunikasjonsmulighet fra områdetJaJa, anbefalt håndfri telefon/calling-oppleggJa, håndfri telefon/ calling-opplegg7.Det innesluttede området skal ha tilstrekkelig ventilasjon til å redusere luftforurensningen til et minimumAnbefaltAnbefaltJa8.Det innesluttede området skal ha et trykk som er lavere enn atmosfærisk trykkNeiAnbefalt, med lufttrykkontrollJa, med lufttrykkontroll9.Det innesluttede områdets innluft og utluft skal filtreres ved hjelp av et absolutt filterNeiJa, utluftJa, utluft og innluft10.Det innesluttede området må ha nødstrømNeiAnbefaltJa11.Gasser som avgis fra det lukkede systemet, skal behandles på en slik måte atspredning reduseres til et minimumspredning ikke finner stedspredning ikke finner sted12.Prøvetaking, tilføring av stoffer til et lukket system og overføring av levedyktige mikroorganismer til et annet lukket system skal utføres på en slik måte atspredning reduseres til et minimumspredning ikke finner stedspredning ikke finner sted13.Flytende medier skal ikke fjernes fra det lukkede systemet med mindre de levedyktige mikroorganismene ergjort uvirksomme ved hjelp av anerkjente metodergjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metodergjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metoder14Avstengingsmekanismer skal utformes på en slik måte atspredning reduseres til et minimumspredning ikke finner stedspredning ikke finner sted15.Det innesluttede området skal være utformet på en slik måte at det ved overløp fra det avstengte systemet kan holde på hele innholdet derfraNeiJaJa16.Overflater skal være vanntette og lette å rengjøreJa, på arbeidsbenker og lignendeJa, på arbeidsbenker og lignende og gulvJa, på arbeidsbenker og lignende, gulv og tak17.Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidlerJa, på arbeidsbenkerJa, på arbeidsbenker og gulvJa, på arbeidsbenker, vegger, gulv og tak18.I det innesluttede området skal det være mulig lokalt å deisinfisere forurenset utstyr (tilsvarende effekt av autoklav)NeiJaJa19.Det innesluttede området skal ha avstengnings- mekanismer som muliggjør utgassingNeiJaJa20.Desinfeksjonsprosedyrer skal spesifiseresJaJaJa21.Behandling av spillvann skal finne sted før endelig uttømminggjort uvirksomt ved hjelp av anerkjente metodergjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metodergjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metoder22.Bare utpekt personale skal ha adgangAnbefaltJaJa, via luftsluse23.Personale skal bære vernetøyJa, arbeidstøyJa, vernetøyJa, fullstendig omkledning24.Personalet skal ha adgang til dekontamineringsanlegg og sanitæranleggJaJaJa25.Personalet skal dusje før det forlater sonenNeiAnbefaltJa26.Spillvann fra vasker og dusjer skal samles opp og inaktiveres før det slippes utNeiAnbefaltJa
+For industrielle prosesser skal følgende inneslutningstiltak være iverksatt:
+
+|  | *Inneslutningstiltak* | *Inneslutningsnivå* |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | *2* | *3* | *4* |
+| 1. | Levedyktige mikroorganismer skal innesluttes i et system som fysisk avstenger arbeidsoperasjonen fra det omgivende miljø | Ja | Ja | Ja |
+| 2. | Lukkede produksjonssystemer skal plasseres i et innesluttet område (rom, bygninger) | Anbefalt | Ja | Ja, innesluttet område konstruert for formålet |
+| 3. | Skilt for biologisk fare skal settes opp | Ja | Ja | Ja |
+| 4. | Det skal være forrom | Nei | Ja, eventuelt luftsluse | Ja, luftsluse |
+| 5. | Det skal være observasjonsvindu eller tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenfor | Anbefalt | Ja | Ja |
+| 6. | Det skal være kommunikasjonsmulighet fra området | Ja | Ja, anbefalt håndfri telefon/calling-opplegg | Ja, håndfri telefon/ calling-opplegg |
+| 7. | Det innesluttede området skal ha tilstrekkelig ventilasjon til å redusere luftforurensningen til et minimum | Anbefalt | Anbefalt | Ja |
+| 8. | Det innesluttede området skal ha et trykk som er lavere enn atmosfærisk trykk | Nei | Anbefalt, med lufttrykkontroll | Ja, med lufttrykkontroll |
+| 9. | Det innesluttede områdets innluft og utluft skal filtreres ved hjelp av et absolutt filter | Nei | Ja, utluft | Ja, utluft og innluft |
+| 10. | Det innesluttede området må ha nødstrøm | Nei | Anbefalt | Ja |
+| 11. | Gasser som avgis fra det lukkede systemet, skal behandles på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted |
+| 12. | Prøvetaking, tilføring av stoffer til et lukket system og overføring av levedyktige mikroorganismer til et annet lukket system skal utføres på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted |
+| 13. | Flytende medier skal ikke fjernes fra det lukkede systemet med mindre de levedyktige mikroorganismene er | gjort uvirksomme ved hjelp av anerkjente metoder | gjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metoder | gjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metoder |
+| 14 | Avstengingsmekanismer skal utformes på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted |
+| 15. | Det innesluttede området skal være utformet på en slik måte at det ved overløp fra det avstengte systemet kan holde på hele innholdet derfra | Nei | Ja | Ja |
+| 16. | Overflater skal være vanntette og lette å rengjøre | Ja, på arbeidsbenker og lignende | Ja, på arbeidsbenker og lignende og gulv | Ja, på arbeidsbenker og lignende, gulv og tak |
+| 17. | Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidler | Ja, på arbeidsbenker | Ja, på arbeidsbenker og gulv | Ja, på arbeidsbenker, vegger, gulv og tak |
+| 18. | I det innesluttede området skal det være mulig lokalt å deisinfisere forurenset utstyr (tilsvarende effekt av autoklav) | Nei | Ja | Ja |
+| 19. | Det innesluttede området skal ha avstengnings- mekanismer som muliggjør utgassing | Nei | Ja | Ja |
+| 20. | Desinfeksjonsprosedyrer skal spesifiseres | Ja | Ja | Ja |
+| 21. | Behandling av spillvann skal finne sted før endelig uttømming | gjort uvirksomt ved hjelp av anerkjente metoder | gjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metoder | gjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metoder |
+| 22. | Bare utpekt personale skal ha adgang | Anbefalt | Ja | Ja, via luftsluse |
+| 23. | Personale skal bære vernetøy | Ja, arbeidstøy | Ja, vernetøy | Ja, fullstendig omkledning |
+| 24. | Personalet skal ha adgang til dekontamineringsanlegg og sanitæranlegg | Ja | Ja | Ja |
+| 25. | Personalet skal dusje før det forlater sonen | Nei | Anbefalt | Ja |
+| 26. | Spillvann fra vasker og dusjer skal samles opp og inaktiveres før det slippes ut | Nei | Anbefalt | Ja |
 
 ## Kapittel 9. Gebyr ved byggesaksbehandling
 

@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om utforming av store helikopterplasser (BSL E 3-5).
 
+Vedlegg 1 til 3 gjelder som forskrift.
+
 ## Kapittel 1. Innledende bestemmelser
 
 ### § 1. Formål
@@ -60,9 +62,35 @@ Forskriften gis anvendelse ved første gangs godkjenning, ved søknad om fornyet
 
 I denne forskrift menes med:
 
+*Banelengder:*
+
 1. *Tilgjengelig startdistanse (TODAH):* Lengden av FATO pluss lengden av eventuelt hinderfritt stigeområde egnet og kunngjort tilgjengelig for start av helikopter.
 2. *Tilgjengelig distanse for avbrutt start (RTODAH):* Lengden av FATO egnet og kunngjort tilgjengelig for avbrutt start med helikopter i ytelsesklasse 1.
 3. *Tilgjengelig landingsdistanse (LDAH):* Lengden av FATO pluss eventuelt tilleggsområde egnet og kunngjort tilgjengelig for landing med helikopter fra en definert høyde.
+
+*Dimensjonerende helikopter:* Det største helikopter som en helikopterplass skal godkjennes for eller er godkjent for.
+
+*D-verdi:* Den største lengde eller bredde av et helikopter inklusive rotorer.
+
+*Helikopter:* Luftfartøy tyngre enn luft som under flyging bæres oppe av aerodynamiske reaksjoner på en eller flere kraftdrevne rotorer på vesentlig vertikale akser.
+
+*Helikopterplass:* Et hvert område på land, vann, bygning, skip eller annen fast eller flyttbar innretning der helikopter foretar start, landing, taksing eller er oppstilt.
+
+*Hover:* En flygende tilstand der helikopteret er plassert i en bestemt posisjon over ett gitt punkt og holdes oppe av rotorens løftekraft over hele dens flate med null eller tilnærmet null flygehastighet.
+
+*Hovertaksing:* En flygende tilstand der helikopteret holdes flygende på samme måte som i hover, men beveger seg i horisontalplanet; fremover, bakover, sideveis eller rundt sin egen vertikale akse. Hovertaksing foregår normalt i bakkeeffekt og med en hastighet opp til 15 knop.
+
+*IFR-forhold (instrument meteorological conditions):* Værforhold, uttrykt i sikt, avstand til skyer og skydekkehøyde, som er dårligere enn minstekravene til VFR-forhold.
+
+*Landings- og startområde – FATO (Final Approach and Take-off Area):* Et definert område over hvilket avsluttende innflyging til hover eller landing finner sted eller hvorfra start kan foretas. Området innbefatter område for avbrutt start for helikopter i ytelsesklasse 1.
+
+*RD-verdi:* Diameteren til den største rotor på et helikopter.
+
+*Settings- og løfteområde – TLOF (Touch-down and Lift-off Area):* Et område som et helikopter kan sette seg på eller løfte seg fra.
+
+*Stor flyplass:* Flyplass på land som skal trafikkeres av landfly med tillatt startmasse 5.700 kg eller mer eller landfly som er godkjent for 10 eller flere passasjerseter.
+
+*VFR-forhold:* Værforhold uttrykt i sikt, avstand fra skyer og skydekkehøyde, som er lik eller bedre enn angitte minstekrav fastsatt av Luftfartstilsynet.
 
 ## Kapittel 2. Landings- og startområde, settings- og løfteområde, sikkerhetsområde og hinderfritt stigeområde
 
@@ -124,7 +152,15 @@ I denne forskrift menes med:
 
 ### § 12. Taksebane
 
-(1) Bredden av en taksebane for helikopter skal ikke være mindre enn:*Bredde av hovedunderstell**Minste taksebanebredde*Mindre enn 4,5 m7,5 m4,5 – 6 m10,5 m6 – 10 m15 mOver 10 m20 m
+(1) Bredden av en taksebane for helikopter skal ikke være mindre enn:
+
+|  |  |
+| --- | --- |
+| *Bredde av hovedunderstell* | *Minste taksebanebredde* |
+| Mindre enn 4,5 m | 7,5 m |
+| 4,5 – 6 m | 10,5 m |
+| 6 – 10 m | 15 m |
+| Over 10 m | 20 m |
 
 (2) Avstanden mellom en taksebane for helikopter og en annen taksebane for helikopter, en lufttaksebane, et objekt eller en oppstillingsplass for helikopter skal ikke være mindre enn det som er spesifisert i [§ 15](forskrift/2005-04-29-418/§15).
 
@@ -162,7 +198,15 @@ I denne forskrift menes med:
 
 ### § 15. Minsteavstander
 
-Følgende misteavstander gjelder mellom lufttaksebane, taksebane og annen lufttaksebane eller taksebane for helikopter, et objekt eller en oppstillingsplass:*Taksebane**Lufttaksebane**Objekt**Oppstillingsplass*Taksebane2 D (Mellom kantene)4 D (Mellom senterlinjene)1 D (Kant til objekt)2 D (Mellom kantene)Lufttaksebane4 D (Mellom senterlinjene)4 D (Mellom senterlinjene)1,5 D (Senterlinje til objekt)4 D (Senterlinje til kant)D = D-verdien til dimensjonerende helikopter
+Følgende misteavstander gjelder mellom lufttaksebane, taksebane og annen lufttaksebane eller taksebane for helikopter, et objekt eller en oppstillingsplass:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *Taksebane* | *Lufttaksebane* | *Objekt* | *Oppstillingsplass* |
+| Taksebane | 2 D (Mellom kantene) | 4 D (Mellom senterlinjene) | 1 D (Kant til objekt) | 2 D (Mellom kantene) |
+| Lufttaksebane | 4 D (Mellom senterlinjene) | 4 D (Mellom senterlinjene) | 1,5 D (Senterlinje til objekt) | 4 D (Senterlinje til kant) |
+
+D = D-verdien til dimensjonerende helikopter
 
 ## Kapittel 4. Oppstillingsplattform og oppstillingsplass
 
@@ -306,7 +350,20 @@ Innenfor det området som omfattes av en innflygingsflate, en utflygingsflate el
 
 (5) Hinder med hovedsakelig ubrutt overflate og som er minst 4,5 m både horisontalt og vertikalt, skal merkes i rutemønster. Rutene skal være rektangulære med sider på minimum 1,5 og maksimum 3 m. Hjørnene skal være røde eller oransje.
 
-(6) Hinder med hovedsakelig ubrutt overflate og som er større enn 1,5 m enten horisontalt eller vertikalt, og mindre enn 4,5 m i den andre utstrekningen, skal merkes med bånd. Med bånd merkes også alle objekter med gjennombrutt overflate. Båndene skal plasseres tvers på hinderets største utstrekning (enten vertikalt eller horisontalt), og bredden på båndene skal være i henhold til nedenstående tabell.*Hinderets utstrekning**Båndets største bredde*Mindre enn 3 m0,50 m3 – 10 m1,00 m10 – 20 m1,50 m20 – 30 m2,00 m30 – 40 m3,00 m40 – 50 m4,00 m50 – 60 m5,00 m60 – 200 m6,00 mOver 200 m10,00 m
+(6) Hinder med hovedsakelig ubrutt overflate og som er større enn 1,5 m enten horisontalt eller vertikalt, og mindre enn 4,5 m i den andre utstrekningen, skal merkes med bånd. Med bånd merkes også alle objekter med gjennombrutt overflate. Båndene skal plasseres tvers på hinderets største utstrekning (enten vertikalt eller horisontalt), og bredden på båndene skal være i henhold til nedenstående tabell.
+
+|  |  |
+| --- | --- |
+| *Hinderets utstrekning* | *Båndets største bredde* |
+| Mindre enn 3 m | 0,50 m |
+| 3 – 10 m | 1,00 m |
+| 10 – 20 m | 1,50 m |
+| 20 – 30 m | 2,00 m |
+| 30 – 40 m | 3,00 m |
+| 40 – 50 m | 4,00 m |
+| 50 – 60 m | 5,00 m |
+| 60 – 200 m | 6,00 m |
+| Over 200 m | 10,00 m |
 
 (7) Hinder som er mindre enn 1,5 m både horisontalt og vertikalt merkes ensfarget rødt eller oransje.
 
@@ -673,3 +730,5 @@ Se vedlegg 3 fig. 4.
 ### Til § 57 annet ledd:
 
 Informasjon om Kunngjøringstjenesten for luftfarten finnes i AIP Norge GEN 3-1.
+
+På neste side er gitt en skisse som viser merking av oppstillingsplattform for helikopter. Helikoptrene på skissen har en d-verdi på ca. 21 m, og taksebanebredden er basert på at bredden av hovedunderstellet er 4,5 – 6 m.

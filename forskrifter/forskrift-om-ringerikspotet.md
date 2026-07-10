@@ -43,6 +43,8 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg
 
+*Beskrivelse av produktets opprinnelse og tilknytning til det geografiske området:*
+
 Ringerikspotet er en gammel lokalsort. I følge tradisjonen har poteten blitt dyrket på Ringerike siden 1867, da bonden Sundt på Søndre By i Hole begynte å dyrke noen potetknoller som han fikk fra Botanisk hage i Oslo. Lokalt på Ringerike gikk poteten lenge under navnet «Aabel-potet» etter bonde Jens Aabel som drev denne gården fra 1869. Navnet Ringerikspotet fikk potetsorten først på begynnelsen av 1900-tallet, da den ved salg utenfor Ringerike fikk navn etter dyrkingsområdet.
 
 I det definerte området på Ringerike har det gjennom lang og kontinuerlig tradisjon med dyrking av Ringerikspotet, blitt opparbeidet og bevart lokal fagkunnskap om hvordan dyrking og sortering skal foregå for å oppnå potetens kjente kvalitet.

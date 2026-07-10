@@ -68,9 +68,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I](
 
 Forordning [(EU) 2019/1715](eu/32019r1715) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2021/547](eu/32021r0547).
 
+► **B** Kommisjonsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019
+
+som endret ved:
+
+► **M1** Kommisjonsforordning [(EU) 2021/547](eu/32021r0547) av 29. mars 2021
+
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2019/1715](eu/32019r1715*)
 av 30. september 2019
 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til rådsdirektiv [2000/29/EF](eu/32000l0029*) av 8. mai 2000 om beskyttelsestiltak mot innføring til Fellesskapet av organismer som er skadelige for planter eller planteprodukter og spredning av dem i Fellesskapet1, særlig artikkel 13 nr. 1,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet2, særlig artikkel 51,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet3 («dyrehelseregelverket»), særlig artikkel 23 første ledd bokstav c),
+
+under henvisning til Europaparlaments- og rådsforordning [(EU) 2016/2031](eu/32016r2031) av 26. oktober 2016 om vernetiltak mot planteskadegjørere, om endring av europaparlaments- og rådsforordning [(EU) nr. 228/2013](eu/32013r0228), (EU) [nr. 652/2014](eu/32014r0652) og (EU) [nr. 1143/2014](eu/32014r1143) og om oppheving av rådsdirektiv [69/464/EØF](eu/31969l0464), [74/647/EØF](eu/31974*0647), [93/85/EØF](eu/31993*0085), [98/57/EF](eu/31998*0057), [2000/29/EF](eu/32000*0029), [2006/91/EF](eu/32006d0091) og [2007/33/EF](eu/32007*0033)4, særlig artikkel 104 første ledd bokstav a), b) og c),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EU) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438)5 («(forordningen om offentlig kontroll»), særlig artikkel 58 første ledd bokstav a), artikkel 75 nr. 2 første ledd bokstav a), b) og c), artikkel 90 første ledd bokstav f), artikkel 102 nr. 6 første ledd bokstav a) og b), artikkel 103 nr. 6 og artikkel 134 første ledd bokstav a)–g), og
+
+ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2017/625](eu/32017r0625*) er det bl.a. fastsatt regler for medlemsstatenes gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med dyr og varer som innføres til Unionen, for å sikre riktig anvendelse av Unionens regelverk for den landbruksbaserte næringsmiddelkjeden.
 2. Den krever at Kommisjonen i samarbeid med medlemsstatene skal opprette og forvalte et databasert informasjonsstyringssystem for offentlig kontroll (IMSOC) for å forvalte, håndtere og automatisk utveksle data, opplysninger og dokumenter i forbindelse med offentlig kontroll. Visse informasjonssystemer som forvaltes av Kommisjonen, bør ved behov integreres og oppgraderes i IMSOC, og IMSOC bør fungere som et interoperabilitetssystem som kobler sammen disse og, i visse tilfeller, også medlemsstatenes eksisterende nasjonale systemer samt tredjestaters og internasjonale organisasjoners informasjonssystemer («andre systemer»).
@@ -113,28 +135,110 @@ om fastsettelse av regler for driften av informasjonsstyringssystemet for offent
 39. Denne forordning er blitt drøftet med Den europeiske myndighet for næringsmiddeltrygghet og EUs datatilsyn.
 40. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EFT L 169 av 10.7.2000, s. 1.
+
+2 EFT L 31 av 1.2.2002, s. 1.
+
+3 EUT L 84 av 31.3.2016, s. 1.
+
+4 EUT L 317 av 31.3.2016, s. 4.
+
+5 EUT L 95 av 7.4.2017, s. 1.
+
+6 Europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene (EUT L 35 av 8.2.2005, s. 1).
+
+7 Europaparlaments- og rådsforordning [(EU) 2016/679](eu/32016r0679*) av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv [95/46/EF](eu/31995l0046) (generell personvernforordning) (EUT L 119 av 4.5.2016, s. 1).
+
+8 Europaparlaments- og rådsforordning [(EU) 2018/1725](eu/32018r1725) av 23. oktober 2018 om vern av fysiske personer i forbindelse med behandling av personopplysninger i Unionens institusjoner, organer, kontorer og byråer og om fri utveksling av slike opplysninger samt om oppheving av forordning [(EF) nr. 45/2001](eu/32001r0045*) og beslutning nr. [1247/2002/EF](eu/32002d1247) (EUT L 295 av 21.11.2018, s. 39).
+
+9 Europaparlaments- og rådsdirektiv (EU) [2016/680](eu/32016l0680*) av 27. april 2016 om vern av fysiske personer i forbindelse med vedkommende myndigheters behandling av personopplysninger med henblikk på å forebygge, etterforske, avsløre eller straffeforfølge straffbare forhold eller iverksette strafferettslige sanksjoner, om fri utveksling av slike opplysninger og om oppheving av Rådets rammebeslutning [2008/977/JIS](eu/32008f0977) (EUT L 119 av 4.5.2016, s. 89).
+
+10 Kommisjonsforordning [(EU) nr. 16/2011](eu/32011r0016) av 10. januar 2011 om fastsetjing av gjennomføringstiltak for snøggvarslingssystemet for næringsmiddel og fôr (EUT L 6 av 11.1.2011, s. 7).
+
+11 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+12 Kommisjonens gjennomføringsbeslutning [(EU) 2015/1918](eu/32015d1918) av 22. oktober 2015 om opprettelse av et system for administrativ bistand og samarbeid («AAC-systemet») i henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 280 av 24.10.2015, s. 31).
+
+13 http://europa.eu/rapid/press-release_STATEMENT-17-3486_en.htm.
+
+14 Systemet ble opprinnelig opprettet ved rådsdirektiv [77/93/EØF](eu/31977l0093*) av 21. desember 1976 om beskyttelsestiltak mot innføring til medlemsstatene av organismer som er skadelige for planter og planteprodukter (EFT L 26 av 31.1.1977, s. 20). Nevnte direktiv ble opphevet ved rådsdirektiv [2000/29/EF](eu/32000l0029*) av 8. mai om beskyttelsestiltak mot innføring til Fellesskapet av organismer som er skadelige for planter eller planteprodukter og spredning av dem i Fellesskapet (EFT L 169 av 10.7.2000, s. 1), som ble opphevet ved forordning [(EU) 2016/2031](eu/32016r2031) med virkning fra 14. desember 2019.
+
+15 Kommisjonsdirektiv [94/3/EF](eu/31994l0003*) av 21. januar 1994 om fastsettelse av en framgangsmåte for underretning om tilbakeholdelse av en forsendelse eller av en skadelig organisme fra tredjestater og som representerer en overhengende fare for plantehelsen (EFT L 32 av 5.2.1994, s. 37).
+
+16 Kommisjonens gjennomføringsbeslutning [2014/917/EU](eu/32014d0917) av 15. desember 2014 om fastsettelse av nærmere regler for gjennomføring av rådsdirektiv [2000/29/EF](eu/32000l0029*) med hensyn til melding av forekomsten av skadelige organismer og tiltak som medlemsstatene har truffet eller har til hensikt å treffe (EUT L 360 av 17.12.2014, s. 59).
+
+17 Europaparlaments- og rådsforordning [(EU) nr. 910/2014](eu/32014r0910) av 23. juli 2014 om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked og om oppheving av direktiv [1999/93/EF](eu/31999l0093) (EUT L 257 av 28.8.2014, s. 73).
+
+18 Kommisjonens gjennomføringsbeslutning [(EU) 2015/1506](eu/32015d1506) av 8. september 2015 om fastsettelse av spesifikasjoner for formater for avanserte elektroniske signaturer og avanserte segl som skal anerkjennes av offentlige organer i henhold til artikkel 27 nr. 5 og artikkel 37 nr. 5 i europaparlaments- og rådsforordning [(EU) nr. 910/2014](eu/32014r0910) om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (EUT L 235 av 9.9.2015, s. 37).
+
+19 Kommisjonens gjennomføringsbeslutning [(EU) 2018/1553](eu/32018d1553) av 15. oktober 2018 om vilkår for anerkjennelse av elektroniske plantehelsesertifikater utstedt av nasjonale plantevernorganisasjoner i tredjestater (EUT L 260 av 17.10.2018, s. 22).
+
+20 Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved import av produkter fra tredjestater (EUT L 21 av 28.1.2004, s. 11).
+
+21 Kommisjonsforordning [(EF) nr. 282/2004](eu/32004r0282) av 18. februar 2004 om innføring av et dokument for deklarering og veterinærkontroll av dyr som innføres til Fellesskapet fra tredjestater (EUT L 49 av 19.2.2004, s. 11).
+
+22 Kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669) av 24. juli 2009 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) med hensyn til strengere offentlig kontroll ved import av visse fôrvarer og næringsmidler av ikke-animalsk opprinnelse, og om endring av vedtak [2006/504/EF](eu/32006d0504) (EUT L 194 av 25.7.2009, s. 11).
+
+23 Kommisjonens gjennomføringsforordning [(EU) 2019/66](eu/32019r0066) av 16. januar 2019 om regler for ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av planter, planteprodukter og andre gjenstander for å kontrollere at Unionens regler for vernetiltak mot planteskadegjørere som får anvendelse på slike varer, er overholdt (EUT L 15 av 17.1.2019, s. 1).
+
+24 Europaparlaments- og rådsvedtak nr. [70/2008/EF](eu/32008d0070*) av 15. januar 2008 om et papirløst miljø for toll og handel (EUT L 23 av 26.1.2008, s. 21).
+
+25 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).
+
+26 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (EUT L 300 av 14.11.2009, s. 1).
+
+27 Kommisjonsvedtak [92/486/EØF](eu/31992d0486) av 25. september 1992 om fastsettelse av nærmere regler for samarbeidet mellom senteret for datanettet ANIMO og medlemsstatene (EFT L 291 av 7.10.1992, s. 20).
+
+28 Kommisjonsvedtak [2003/24/EF](eu/32003d0024) av 30. desember 2002 om utvikling av et integrert datasystem for veterinærmyndighetene (EFT L 8 av 14.1.2003, s. 44).
+
+29 Kommisjonsvedtak [2003/623/EF](eu/32003d0623) av 19. august 2003 om utvikling av et integrert datasystem for veterinærmyndighetene (TRACES) (EUT L 216 av 28.8.2003, s. 58).
+
+30 Kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 94 av 31.3.2004, s. 63).
+
+31 Kommisjonsvedtak [2004/675/EF](eu/32004d0675) av 29. september 2004 om innføring av logistisk støtte for TRACES-systemet (EUT L 309 av 6.10.2004, s. 26).
+
+32 Kommisjonsvedtak [2005/123/EF](eu/32005d0123) av 9. februar 2005 om endring av vedtak [2004/292/EF](eu/32004d0292) om innføring av TRACES-systemet og om endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 39 av 11.2.2005, s. 53)
+
+33 Rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll ved handel med visse levende dyr og produkter innenfor Unionen med sikte på gjennomføring av det indre marked (EFT L 224 av 18.8.1990, s. 29).
+
+34 Rådsvedtak [92/438/EØF](eu/31992d0438) av 13. juli 1992 om omlegging til edb-baserte veterinærrutiner ved import (SHIFT-prosjektet), om endring av direktiv [90/675/EØF](eu/31990l0675), [91/496/EØF](eu/31991l0496*), [91/628/EØF](eu/31991l0628) og vedtak [90/424/EØF](eu/31990d0424*) og om oppheving av vedtak [88/192/EØF](eu/31988d0192) (EFT L 243 av 25.8.1992, s. 27).
+
+VEDTATT DENNE FORORDNING:
+
 ### KAPITTEL 1
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
 
-1. I denne forordning fastsettessærlige vilkår og framgangsmåter for oversending av meldinger og tilleggsopplysninger for hurtigvarslingssystemet for næringsmidler og fôr (RASFF), som skal opprettes i henhold til forordning [(EF) nr. 178/2002](eu/32002r0178),framgangsmåter for opprettelse og bruk av det databaserte systemet for melding og rapportering av sykdommer i Unionen, som skal opprettes og forvaltes av Kommisjonen i samsvar med artikkel 22 i forordning [(EU) 2016/429](eu/32016r0429*),særlige regler, herunder frister, for innsending av meldinger, som skal fastsettes i henhold til forordning [(EU) 2016/2031](eu/32016r2031),regler for databasert håndtering og utveksling av opplysninger, data og dokumenter i informasjonsstyringssystemet for offentlig kontroll (IMSOC) som er nødvendige for å gjennomføre den offentlige kontrollen fastsatt i forordning [(EU) 2017/625](eu/32017r0625*) med hensyn tilformatet for det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*), herunder den elektroniske versjonen, og veiledning om hvordan det skal framlegges og brukes,ensartede ordninger for samarbeid mellom tollmyndigheter, vedkommende myndigheter og andre myndigheter, som nevnt i artikkel 75 i forordning [(EU) 2017/625](eu/32017r0625*),utstedelse av elektroniske sertifikater og bruk av elektroniske signaturer for de offisielle sertifikatene nevnt i artikkel 87 i forordning [(EU) 2017/625](eu/32017r0625*),standardformater for utveksling av opplysninger innenfor rammen av administrativ bistand og administrativt samarbeid, som nevnt i avdeling IV i forordning [(EU) 2017/625](eu/32017r0625*), som gjelderanmodninger om bistand,vanlige og gjentakende meldinger og svar,spesifikasjoner for de tekniske verktøyene og framgangsmåtene for kommunikasjon mellom kontaktorganer utpekt i samsvar med artikkel 103 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*),hensiktsmessig drift av IMSOC som nevnt i avdeling VI kapittel IV i forordning [(EU) 2017/625](eu/32017r0625*).
+1\. I denne forordning fastsettessærlige vilkår og framgangsmåter for oversending av meldinger og tilleggsopplysninger for hurtigvarslingssystemet for næringsmidler og fôr (RASFF), som skal opprettes i henhold til forordning [(EF) nr. 178/2002](eu/32002r0178),framgangsmåter for opprettelse og bruk av det databaserte systemet for melding og rapportering av sykdommer i Unionen, som skal opprettes og forvaltes av Kommisjonen i samsvar med artikkel 22 i forordning [(EU) 2016/429](eu/32016r0429*),særlige regler, herunder frister, for innsending av meldinger, som skal fastsettes i henhold til forordning [(EU) 2016/2031](eu/32016r2031),regler for databasert håndtering og utveksling av opplysninger, data og dokumenter i informasjonsstyringssystemet for offentlig kontroll (IMSOC) som er nødvendige for å gjennomføre den offentlige kontrollen fastsatt i forordning [(EU) 2017/625](eu/32017r0625*) med hensyn tilformatet for det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*), herunder den elektroniske versjonen, og veiledning om hvordan det skal framlegges og brukes,ensartede ordninger for samarbeid mellom tollmyndigheter, vedkommende myndigheter og andre myndigheter, som nevnt i artikkel 75 i forordning [(EU) 2017/625](eu/32017r0625*),utstedelse av elektroniske sertifikater og bruk av elektroniske signaturer for de offisielle sertifikatene nevnt i artikkel 87 i forordning [(EU) 2017/625](eu/32017r0625*),standardformater for utveksling av opplysninger innenfor rammen av administrativ bistand og administrativt samarbeid, som nevnt i avdeling IV i forordning [(EU) 2017/625](eu/32017r0625*), som gjelderanmodninger om bistand,vanlige og gjentakende meldinger og svar,spesifikasjoner for de tekniske verktøyene og framgangsmåtene for kommunikasjon mellom kontaktorganer utpekt i samsvar med artikkel 103 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*),hensiktsmessig drift av IMSOC som nevnt i avdeling VI kapittel IV i forordning [(EU) 2017/625](eu/32017r0625*).
 
 ### Artikkel 2. Definisjoner
 
 I denne forordning menes med«komponent» et elektronisk system som er integrert i IMSOC,«nettverk» en gruppe medlemmer som har tilgang til en bestemt komponent,«nettverksmedlem» vedkommende myndighet i en medlemsstat, Kommisjonen, et EU-byrå, vedkommende myndighet i en tredjestat eller en internasjonal organisasjon som har tilgang til minst én komponent,«kontaktpunkt» kontaktpunktet som nettverksmedlemmet har utpekt til å representere seg,«medlemsstatens nasjonale system» et databasert informasjonssystem som er eid og opprettet av en medlemsstat før ikrafttredelsesdatoen for forordning [(EU) 2017/625](eu/32017r0625*), med henblikk på å forvalte, håndtere og utveksle data, opplysninger og dokumenter om offentlige kontroller, og som gjør det mulig å utveksle data elektronisk med den relevante komponenten,«internasjonal organisasjon» ethvert av de internasjonalt anerkjente organene angitt i artikkel 121 bokstav g) i forordning [(EU) 2017/625](eu/32017r0625*) eller lignende mellomstatlige organisasjoner,«iRASFF» det elektroniske systemet som gjennomfører RASFF- og AAC-prosedyrene beskrevet i henholdsvis artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178) og i artikkel 102-108 i forordning [(EU) 2017/625](eu/32017r0625*),
 
+► **M1**
+
 1. ---
 2. «RASFF-nettverk» hurtigvarslingssystemet for melding av risikoer som er opprettet som et nettverk ved [artikkel 50 i forordning (EF) nr. 178/2002](eu/32002r0178/a50) for meldingene som er nevnt i nr. 15 til 20 i denne artikkelen,
 
+◄ **M1**
+
 1. «AAC-nettverk» nettverket som består av Kommisjonen og kontaktorganene utpekt av medlemsstatene i samsvar med artikkel 103 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) for å lette kommunikasjonen mellom vedkommende myndigheter,
+
+► **M1**
 
 1. «nettverk mot svindel» nettverket som består av Kommisjonen, Europol og kontaktorganene utpekt av medlemsstatene i samsvar med [artikkel 103 nr. 1 i forordning (EU) 2017/625](eu/32017r0625/a103) for det spesifikke formålet å fremme utveksling av opplysninger om meldinger om svindel som definert i nr. 21,
 2. «varslings- og samarbeidsnettverk» et nettverk som består av RASFF, AAC og nettverk mot svindel,
 
+◄ **M1**
+
 1. «nasjonalt kontaktpunkt» et kontaktpunkt som består av RASFF- og AAC-kontaktpunktene i hver medlemsstat, enten de fysisk befinner seg i samme administrative enhet eller ikke,
 
+► **M1**
+
 1. «melding om manglende overholdelse» en melding i iRASFF om et tilfelle av manglende overholdelse av reglene nevnt i [artikkel 1 nr. 2 i forordning (EU) 2017/625](eu/32017r0625/a1) som ikke utgjør en risiko i henhold til [artikkel 50 i forordning (EF) nr. 178/2002](eu/32002r0178/a50) og [artikkel 29 i forordning (EF) nr. 183/2005](eu/32005r0183/a29),
+
+◄ **M1**
 
 1. «varselmelding» en melding i iRASFF om en alvorlig direkte eller indirekte risiko knyttet til næringsmidler, materialer som er beregnet på å komme i kontakt med næringsmidler, eller fôr i henhold til i artikkel 59 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 29 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som krever eller kan kreve rask inngripen fra et annet medlem av RASFF-nettverket,
 2. «informasjonsmelding» en melding i iRASFF om en direkte eller indirekte risiko knyttet til næringsmidler, materialer som er beregnet på å komme i kontakt med næringsmidler, eller fôr i henhold til artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 29 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som ikke krever rask inngripen fra et annet medlem av RASFF-nettverket,
@@ -142,9 +246,13 @@ I denne forordning menes med«komponent» et elektronisk system som er integrert
 4. «informasjonsmelding for underretning» en informasjonsmelding om et produkt somenten bare finnes i staten til nettverksmedlemmet som meldingen kommer fra, ellerikke er brakt i omsetning, ellerikke lenger finnes på markedet,
 5. «nyhetsmelding» en melding i iRASFF om en risiko knyttet til næringsmidler, materialer som er beregnet på å komme i kontakt med næringsmidler, eller fôr i henhold til artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 29 i forordning [(EF) nr. 183/2005](eu/32005r0183), og som stammer fra en uformell kilde, inneholder uverifisert informasjon eller gjelder et produkt som ennå ikke er identifisert,
 
+► **M1**
+
 1. «melding om avvisning ved grensen» en melding i iRASFF om en avvisning av et parti, en container eller en last med næringsmidler, materialer som er beregnet på å komme i kontakt med næringsmidler, eller fôr på grunn av en risiko som nevnt i [artikkel 50 nr. 3 første ledd bokstav c) i forordning (EF) nr. 178/2002](eu/32002r0178/a50) og [artikkel 29 i forordning (EF) nr. 183/2005](eu/32005r0183/a29),
 2. «melding om svindel» en melding i iRASFF om manglende overholdelse som gjelder mistanke om bevisste handlinger fra foretak eller enkeltpersoner med det formål å villede kjøpere og oppnå en urettmessig fordel av dette, i strid med reglene nevnt i [artikkel 1 nr. 2 i forordning (EU) 2017/625](eu/32017r0625/a1),
 3. «opprinnelig melding» en melding om manglende overholdelse, en varselmelding, en informasjonsmelding, en nyhetsmelding, en melding om svindel eller en melding om avvisning ved grensen,
+
+◄ **M1**
 
 1. «oppfølgingsmelding» en melding i iRASFF som inneholder tilleggsopplysninger i forbindelse med en opprinnelig melding,
 2. «anmodning» en anmodning om administrativ bistand i iRASFF som er basert på en opprinnelig melding eller en oppfølgingsmelding, og som gjør det mulig å utveksle opplysninger i henhold til artikkel 104–108 i forordning [(EU) 2017/625](eu/32017r0625*),
@@ -157,8 +265,12 @@ I denne forordning menes med«komponent» et elektronisk system som er integrert
 9. «EUROPHYT» det elektroniske meldingssystemet som skal opprettes av Kommisjonen, og som skal koples til og være kompatibelt med IMSOC med henblikk på medlemsstatenes innsending av EUROPHYT-meldinger om utbrudd i samsvar med artikkel 103 i forordning [(EU) 2016/2031](eu/32016r2031),
 10. «EUROPHYT-melding om utbrudd» en melding som skal sendes inn i EUROPHYT om noe av det følgende:Offisielt bekreftet forekomst på Unionens territorium av en karanteneskadegjører, som nevnt i artikkel 11 første ledd bokstav a) og b) i forordning [(EU) 2016/2031](eu/32016r2031).Offisielt bekreftet forekomst av en skadegjører som ikke er oppført på listen over EU-karanteneskadegjørere, som nevnt i artikkel 29 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Forekomst eller overhengende fare for innførsel til eller spredning på Unionens territorium av en skadegjører som ikke er oppført på listen over EU-karanteneskadegjørere, som nevnt i artikkel 30 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Offisielt bekreftet forekomst av en karanteneskadegjører for vernesone, som nevnt i artikkel 33 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031),
 
+► **M1**
+
 1. ---
 2. ---
+
+◄ **M1**
 
 1. «EUROPHYT-nettverk for utbrudd» nettverket som består av Kommisjonen og medlemsstatenes vedkommende myndigheter med henblikk på driften av EUROPHYT,
 2. «TRACES» det databaserte systemet nevnt i artikkel 133 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*) for utveksling av data, opplysninger og dokumenter,
@@ -177,75 +289,79 @@ Allmenne prinsipper og vern av opplysninger
 
 ### Artikkel 3. Komponenter i IMSOC
 
-1. IMSOC skal bestå av følgende komponenter:iRASFF.ADIS.EUROPHYT.TRACES.
+1\. IMSOC skal bestå av følgende komponenter:iRASFF.ADIS.EUROPHYT.TRACES.
 
-2. Komponentene nevnt i nr. 1 skal fungere i samsvar med de allmenne prinsippene om og reglene for vern av opplysninger fastsatt i dette kapittel.
+2\. Komponentene nevnt i nr. 1 skal fungere i samsvar med de allmenne prinsippene om og reglene for vern av opplysninger fastsatt i dette kapittel.
 
 ### Artikkel 4. Komponenter, nettverk og kontaktpunkter
 
-1. Hver av komponentene skal ha et nettverk som Kommisjonen skal være en del av.
+1\. Hver av komponentene skal ha et nettverk som Kommisjonen skal være en del av.
 
-2. Hvert nettverksmedlem skal utpeke minst ett kontaktpunkt og underrette Kommisjonens kontaktpunkt om dette og om kontaktopplysningene for det. De skal umiddelbart underrette Kommisjonens kontaktpunkt om eventuelle endringer av dette.
+2\. Hvert nettverksmedlem skal utpeke minst ett kontaktpunkt og underrette Kommisjonens kontaktpunkt om dette og om kontaktopplysningene for det. De skal umiddelbart underrette Kommisjonens kontaktpunkt om eventuelle endringer av dette.
 
-3. Kommisjonens kontaktpunkt skal føre og holde oppdatert en liste over kontaktpunkter og gjøre den tilgjengelig for alle nett-verksmedlemmene.
+3\. Kommisjonens kontaktpunkt skal føre og holde oppdatert en liste over kontaktpunkter og gjøre den tilgjengelig for alle nett-verksmedlemmene.
 
-4. Kommisjonen skal opprette en styringsstruktur for å styre utviklingen av, fastsette prioriteringer for og overvåke at IMSOC gjennomføres på riktig måte. Styringsstrukturen skal bestå avet driftsstyre, i samarbeid med medlemsstatene, som minst en gang i året skal drøfte prioriteringer for og utviklingen av hver komponent,undergrupper i driftsstyret som regelmessig skal drøfte prioriteringer for og utviklingen av spesifikke funksjoner for hver av komponentene.
+4\. Kommisjonen skal opprette en styringsstruktur for å styre utviklingen av, fastsette prioriteringer for og overvåke at IMSOC gjennomføres på riktig måte. Styringsstrukturen skal bestå avet driftsstyre, i samarbeid med medlemsstatene, som minst en gang i året skal drøfte prioriteringer for og utviklingen av hver komponent,undergrupper i driftsstyret som regelmessig skal drøfte prioriteringer for og utviklingen av spesifikke funksjoner for hver av komponentene.
 
 ### Artikkel 5. Eierskap til og ansvar for data, opplysninger og dokumenter
 
-1. Hvert nettverksmedlem skal eie og være ansvarlig for dataene, opplysningene og dokumentene som dets kontaktpunkt eller brukere som handler under dets ansvar, har lagt inn eller generert i den relevante komponenten.
+1\. Hvert nettverksmedlem skal eie og være ansvarlig for dataene, opplysningene og dokumentene som dets kontaktpunkt eller brukere som handler under dets ansvar, har lagt inn eller generert i den relevante komponenten.
 
-2. Hver underskriver, vedkommende myndighet som en underskriver tilhører, eller vedkommende myndighet som oppretter et elektronisk segl, skal eie og være ansvarlig for den delen av dokumentene som den skriver under eller påfører segl i TRACES.
+2\. Hver underskriver, vedkommende myndighet som en underskriver tilhører, eller vedkommende myndighet som oppretter et elektronisk segl, skal eie og være ansvarlig for den delen av dokumentene som den skriver under eller påfører segl i TRACES.
 
-3. Dersom flere enn én underskriver skriver under et dokument i TRACES, skal hver underskriver eie og være ansvarlig for den delen av dokumentet som vedkommende skriver under.
+3\. Dersom flere enn én underskriver skriver under et dokument i TRACES, skal hver underskriver eie og være ansvarlig for den delen av dokumentet som vedkommende skriver under.
 
 ### Artikkel 6. Koplinger mellom komponentene
 
-1. Koplingene mellom komponentene skal ha som formål åkomplettere data, opplysninger eller dokumenter i en eller flere komponenter med data, opplysninger eller dokumenter som allerede finnes i en annen komponent, oggi nettverksmedlemmene relevante og oppdaterte opplysninger, slik at de kan utføre sine oppgaver i samsvar med reglene som er fastsatt for hver komponent i denne forordning, ogstøtte og bruke framgangsmåtene forå fastsette og endre hyppigheten av identitetskontrollen og den fysiske kontrollen som skal gjennomføres av forsendelser med kategoriene av varer og dyr nevnt i artikkel 47 nr. 1 bokstav a), b) og c) i forordning [(EU) 2017/625](eu/32017r0625*),å gjennomføre identitetskontroll og fysisk kontroll med foreskreven hyppighet av forsendelser med kategoriene av varer og dyr nevnt i bokstav d), e) og f) i nevnte artikkel,vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen ved mistanke om manglende overholdelse som nevnt i artikkel 65 nr. 6 i nevnte forordning.
+1\. Koplingene mellom komponentene skal ha som formål åkomplettere data, opplysninger eller dokumenter i en eller flere komponenter med data, opplysninger eller dokumenter som allerede finnes i en annen komponent, oggi nettverksmedlemmene relevante og oppdaterte opplysninger, slik at de kan utføre sine oppgaver i samsvar med reglene som er fastsatt for hver komponent i denne forordning, ogstøtte og bruke framgangsmåtene forå fastsette og endre hyppigheten av identitetskontrollen og den fysiske kontrollen som skal gjennomføres av forsendelser med kategoriene av varer og dyr nevnt i artikkel 47 nr. 1 bokstav a), b) og c) i forordning [(EU) 2017/625](eu/32017r0625*),å gjennomføre identitetskontroll og fysisk kontroll med foreskreven hyppighet av forsendelser med kategoriene av varer og dyr nevnt i bokstav d), e) og f) i nevnte artikkel,vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen ved mistanke om manglende overholdelse som nevnt i artikkel 65 nr. 6 i nevnte forordning.
 
-2. Koplingene nevnt i nr. 1 skal bestå av koplinger mellomiRASFF og TRACES som gjør det mulig å utveksle data om meldinger om avvisning ved grensen og felles innførselsdokumenter om helse,
+2\. Koplingene nevnt i nr. 1 skal bestå av koplinger mellomiRASFF og TRACES som gjør det mulig å utveksle data om meldinger om avvisning ved grensen og felles innførselsdokumenter om helse,
+
+► **M1**
 
 1. EUROPHYT og TRACES som gjør det mulig å utveksle data om EUROPHYT-meldinger om utbrudd,
 2. iRASFF og TRACES som gjør det mulig å utveksle data om de driftsansvarliges historikk med hensyn til overholdelse av reglene nevnt i [artikkel 1 nr. 2 i forordning (EU) 2017/625](eu/32017r0625/a1).
 3. ADIS og TRACES som gjør det mulig å utveksle data og informasjon om melding i Unionen
 
+◄ **M1**
+
 ### Artikkel 7. Elektronisk utveksling av data mellom komponenter og andre elektroniske systemer
 
-1. Utveksling av data mellom IMSOC og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skalvære basert på internasjonale standarder som er relevante for komponenten, og bruke formatene XML, CMS eller PDF,bruke de spesifikke datakatalogene og forretningsreglene som er tilgjengelige i den relevante komponenten.
+1\. Utveksling av data mellom IMSOC og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skalvære basert på internasjonale standarder som er relevante for komponenten, og bruke formatene XML, CMS eller PDF,bruke de spesifikke datakatalogene og forretningsreglene som er tilgjengelige i den relevante komponenten.
 
-2. Kommisjonen skal gi medlemsstateneopplysninger om hyppigheten av identitetskontroller og fysiske kontroller nevnt i artikkel 6 nr. 1 bokstav c) i),opplysninger om hyppigheten og utfallet av vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen nevnt i artikkel 6 nr. 1 bokstav c) iii),datakatalogene og forretningsreglene nevnt i nr. 1 bokstav b).
+2\. Kommisjonen skal gi medlemsstateneopplysninger om hyppigheten av identitetskontroller og fysiske kontroller nevnt i artikkel 6 nr. 1 bokstav c) i),opplysninger om hyppigheten og utfallet av vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen nevnt i artikkel 6 nr. 1 bokstav c) iii),datakatalogene og forretningsreglene nevnt i nr. 1 bokstav b).
 
-3. Kommisjonen skal i samarbeid med medlemsstatene utarbeide en servicenivåavtale om vedlikehold av den elektroniske utvekslingen av data mellom den relevante komponenten og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer.
+3\. Kommisjonen skal i samarbeid med medlemsstatene utarbeide en servicenivåavtale om vedlikehold av den elektroniske utvekslingen av data mellom den relevante komponenten og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer.
 
 ### Artikkel 8. Kommisjonens forpliktelser og rettigheter
 
-1. Kommisjonen skal sørge for drift, vedlikehold, støtte og enhver nødvendig oppdatering eller utvikling av komponentenes programvare og IT-infrastruktur.
+1\. Kommisjonen skal sørge for drift, vedlikehold, støtte og enhver nødvendig oppdatering eller utvikling av komponentenes programvare og IT-infrastruktur.
 
-2. Kommisjonen skal ha tilgang til alle data, opplysninger og dokumenter i hver av komponentene for å kunne overvåke utvekslingen av data, opplysninger og dokumenter som er lagt inn eller generert i dem, for å identifisere aktiviteter som ikke er, eller som ser ut til ikke å være, i samsvar med reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), og somhar eller kan ha konsekvenser i flere enn én medlemsstat, ellerfinner sted eller ser ut til å finne sted i flere enn én medlemsstat.
+2\. Kommisjonen skal ha tilgang til alle data, opplysninger og dokumenter i hver av komponentene for å kunne overvåke utvekslingen av data, opplysninger og dokumenter som er lagt inn eller generert i dem, for å identifisere aktiviteter som ikke er, eller som ser ut til ikke å være, i samsvar med reglene nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), og somhar eller kan ha konsekvenser i flere enn én medlemsstat, ellerfinner sted eller ser ut til å finne sted i flere enn én medlemsstat.
 
 ### Artikkel 9. Vilkår for å gi tredjestater og internasjonale organisasjoner delvis tilgang til IMSOC
 
-1. Etter å ha mottatt en behørig begrunnet søknad kan Kommisjonen i samarbeid med medlemsstatene gi vedkommende myndighet i en tredjestat eller en internasjonal organisasjon delvis tilgang til funksjoner i en eller flere komponenter og til spesifikke data, opplysninger og dokumenter som er lagt inn eller generert i dem, forutsatt at søkeren for den eller de aktuelle komponentene dokumenterer at vedkommende oppfyller følgende krav:Vedkommende har den rettslige og driftsmessige kapasiteten til uten unødig opphold å yte den bistanden som er nødvendig for å sikre at komponenten som det anmodes om delvis tilgang til, fungerer tilfredsstillende.Vedkommende har utpekt et kontaktpunkt for dette formålet.
+1\. Etter å ha mottatt en behørig begrunnet søknad kan Kommisjonen i samarbeid med medlemsstatene gi vedkommende myndighet i en tredjestat eller en internasjonal organisasjon delvis tilgang til funksjoner i en eller flere komponenter og til spesifikke data, opplysninger og dokumenter som er lagt inn eller generert i dem, forutsatt at søkeren for den eller de aktuelle komponentene dokumenterer at vedkommende oppfyller følgende krav:Vedkommende har den rettslige og driftsmessige kapasiteten til uten unødig opphold å yte den bistanden som er nødvendig for å sikre at komponenten som det anmodes om delvis tilgang til, fungerer tilfredsstillende.Vedkommende har utpekt et kontaktpunkt for dette formålet.
 
-2. Den delvise tilgangen nevnt i nr. 1 skal ikke omfatte tilgang til personopplysninger som behandles i den eller de komponentene som det gis delvis tilgang til.
+2\. Den delvise tilgangen nevnt i nr. 1 skal ikke omfatte tilgang til personopplysninger som behandles i den eller de komponentene som det gis delvis tilgang til.
 
-3. Som unntak fra nr. 2 kan delvis tilgang omfatte tilgang til personopplysninger dersom den ansøkende tredjestaten eller internasjonale organisasjonen oppfyller vilkårene for lovlig overføring av personopplysning i henhold til forordning [(EU) 2016/679](eu/32016r0679*) og (EU) [2018/1725](eu/32018r1725).
+3\. Som unntak fra nr. 2 kan delvis tilgang omfatte tilgang til personopplysninger dersom den ansøkende tredjestaten eller internasjonale organisasjonen oppfyller vilkårene for lovlig overføring av personopplysning i henhold til forordning [(EU) 2016/679](eu/32016r0679*) og (EU) [2018/1725](eu/32018r1725).
 
 ### Artikkel 10. Behandling av personopplysninger
 
-1. Personopplysninger skal behandles i hver komponent for det formål å gjennomføre offentlig kontroll og annen offentlig virksomhet. Personopplysninger skal særlig tilhøre en av følgende kategorier:Kontaktpunkter, driftsansvarlige, importører, eksportører, transportører og laboratorieteknikere når det kreves personopplysninger i henhold til unionsretten.Brukere av hver komponent.
+1\. Personopplysninger skal behandles i hver komponent for det formål å gjennomføre offentlig kontroll og annen offentlig virksomhet. Personopplysninger skal særlig tilhøre en av følgende kategorier:Kontaktpunkter, driftsansvarlige, importører, eksportører, transportører og laboratorieteknikere når det kreves personopplysninger i henhold til unionsretten.Brukere av hver komponent.
 
-2. Ved behandling av personopplysninger i henhold til denne forordning skal medlemsstatene oppfylle kravene i forordning [(EU) 2016/679](eu/32016r0679*) og direktiv (EU) [2016/680](eu/32016l0680*), og Kommisjonen skal oppfylle kravene i forordning [(EU) 2018/1725](eu/32018r1725).
+2\. Ved behandling av personopplysninger i henhold til denne forordning skal medlemsstatene oppfylle kravene i forordning [(EU) 2016/679](eu/32016r0679*) og direktiv (EU) [2016/680](eu/32016l0680*), og Kommisjonen skal oppfylle kravene i forordning [(EU) 2018/1725](eu/32018r1725).
 
 ### Artikkel 11. Behandlingsansvarlige og felles behandlingsansvar
 
-1. Kommisjonen og vedkommende myndigheter i tredjestatene skal være felles behandlingsansvarlige for databehandlingen i hver av komponentene.
+1\. Kommisjonen og vedkommende myndigheter i tredjestatene skal være felles behandlingsansvarlige for databehandlingen i hver av komponentene.
 
-2. Kommisjonen skal ha ansvar for åfastsette og iverksette de tekniske midlene som gjør det mulig for registrerte å utøve sine rettigheter, og sikre at disse rettighetene utøves i samsvar med forordning [(EU) 2018/1725](eu/32018r1725),sørge for sikker behandling i hver av komponentene i henhold til artikkel 33 i forordning [(EU) 2018/1725](eu/32018r1725),fastsette hvilke kategorier av Kommisjonens eget personale og eksterne leverandører som kan gis tilgang til komponentene,melde ethvert brudd på personopplysningssikkerheten i komponentene til EUs datatilsyn i henhold til artikkel 34 i forordning [(EU) 2018/1725](eu/32018r1725) og underrette den registrerte om dette i henhold til artikkel 35 i nevnte forordning,sørge for at Kommisjonens personale og eksterne leverandører har fått tilstrekkelig opplæring for å kunne utføres sine oppgaver i henhold til forordning [(EU) 2018/1725](eu/32018r1725).
+2\. Kommisjonen skal ha ansvar for åfastsette og iverksette de tekniske midlene som gjør det mulig for registrerte å utøve sine rettigheter, og sikre at disse rettighetene utøves i samsvar med forordning [(EU) 2018/1725](eu/32018r1725),sørge for sikker behandling i hver av komponentene i henhold til artikkel 33 i forordning [(EU) 2018/1725](eu/32018r1725),fastsette hvilke kategorier av Kommisjonens eget personale og eksterne leverandører som kan gis tilgang til komponentene,melde ethvert brudd på personopplysningssikkerheten i komponentene til EUs datatilsyn i henhold til artikkel 34 i forordning [(EU) 2018/1725](eu/32018r1725) og underrette den registrerte om dette i henhold til artikkel 35 i nevnte forordning,sørge for at Kommisjonens personale og eksterne leverandører har fått tilstrekkelig opplæring for å kunne utføres sine oppgaver i henhold til forordning [(EU) 2018/1725](eu/32018r1725).
 
-3. Vedkommende myndigheter i medlemsstatene skal ha ansvar for åsørge for at den registrertes rettigheter utøves i samsvar med forordning [(EU) 2016/679](eu/32016r0679*) og denne forordning,sikre personopplysningenes sikkerhet og konfidensialitet i henhold til kapittel IV avsnitt 2 i forordning [(EU) 2016/679](eu/32016r0679*),utpeke det personalet som skal ha tilgang til hver komponent,sikre at personalet som har tilgang til hver komponent, har fått tilstrekkelig opplæring for å kunne utføre sine oppgaver i samsvar med forordning [(EU) 2016/679](eu/32016r0679*) og, dersom det er relevant, direktiv (EU) [2016/680](eu/32016l0680*).
+3\. Vedkommende myndigheter i medlemsstatene skal ha ansvar for åsørge for at den registrertes rettigheter utøves i samsvar med forordning [(EU) 2016/679](eu/32016r0679*) og denne forordning,sikre personopplysningenes sikkerhet og konfidensialitet i henhold til kapittel IV avsnitt 2 i forordning [(EU) 2016/679](eu/32016r0679*),utpeke det personalet som skal ha tilgang til hver komponent,sikre at personalet som har tilgang til hver komponent, har fått tilstrekkelig opplæring for å kunne utføre sine oppgaver i samsvar med forordning [(EU) 2016/679](eu/32016r0679*) og, dersom det er relevant, direktiv (EU) [2016/680](eu/32016l0680*).
 
-4. Vedkommende myndigheter i medlemsstatene kan utpeke forskjellige felles behandlingsansvarlige i samme medlemsstat for å oppfylle en eller flere av forpliktelsene nevnt i nr. 3.
+4\. Vedkommende myndigheter i medlemsstatene kan utpeke forskjellige felles behandlingsansvarlige i samme medlemsstat for å oppfylle en eller flere av forpliktelsene nevnt i nr. 3.
 
 ### KAPITTEL 3
 Komponenter, nettverk og kontaktpunkter
@@ -253,229 +369,434 @@ Komponenter, nettverk og kontaktpunkter
 ### AVSNITT 1
 iRASFF
 
+Artikkel 12
+Kontaktorganer med ansvar for utveksling av visse typer opplysninger
+
+► **M1**
+
 Medlemsstatene skal angi hvilket av kontaktorganene utpekt i samsvar med [artikkel 103 nr. 1 i forordning (EU) 2017/625](eu/32017r0625/a103) som har ansvar for å utveksle opplysninger om meldinger om svindel.
 
-1. Det nasjonale kontaktpunktet i hver medlemsstat skal ha ansvar for åopprette effektive ordninger for å sikre en smidig utveksling av relevante opplysninger med alle relevante vedkommende myndigheter innenfor sin jurisdiksjon, slik at meldinger, anmodninger eller svar umiddelbart kan oversendes til vedkommende myndigheter med henblikk på egnede tiltak, samt sørge for god orden i meldingene, anmodningene eller svarene,fastsette sine egne roller og ansvarsområder og de som påhviler relevante vedkommende myndigheter innenfor kontaktpunktets jurisdiksjon med hensyn til utarbeiding og oversending av meldinger, anmodninger og svar, samt vurdering og distribusjon av meldinger, anmodninger og svar fra andre medlemmer av varslings- og samarbeidsnettverket.
+◄ **M1**
 
-2. Medlemsstatene kan innlemme sitt kontaktpunkt for nettverket mot svindel i sitt nasjonale kontaktpunkt.
+Artikkel 13
+Nasjonalt kontaktpunkt
 
-3. Kommunikasjonen i RASFF-nettverket skal skje gjennom det nasjonale kontaktpunktet.
+1\. Det nasjonale kontaktpunktet i hver medlemsstat skal ha ansvar for åopprette effektive ordninger for å sikre en smidig utveksling av relevante opplysninger med alle relevante vedkommende myndigheter innenfor sin jurisdiksjon, slik at meldinger, anmodninger eller svar umiddelbart kan oversendes til vedkommende myndigheter med henblikk på egnede tiltak, samt sørge for god orden i meldingene, anmodningene eller svarene,fastsette sine egne roller og ansvarsområder og de som påhviler relevante vedkommende myndigheter innenfor kontaktpunktets jurisdiksjon med hensyn til utarbeiding og oversending av meldinger, anmodninger og svar, samt vurdering og distribusjon av meldinger, anmodninger og svar fra andre medlemmer av varslings- og samarbeidsnettverket.
 
-1. Medlemmene av varslings- og samarbeidsnettverket skal sørge for at nettverkene innenfor deres jurisdiksjon fungerer effektivt.
+► **M1**
 
-2. Hvert utpekte kontaktpunkt for varslings- og samarbeidsnettverket skal gi Kommisjonens kontaktpunkt detaljerte opplysninger om personene som tar hånd om driften, samt deres kontaktopplysninger. For dette formål skal malen for kontaktpunktopplysninger som Kommisjonen stiller til rådighet, brukes.
+2\. Medlemsstatene kan innlemme sitt kontaktpunkt for nettverket mot svindel i sitt nasjonale kontaktpunkt.
 
-3. RASFF-nettverkets kontaktpunkter skal sørge for at en vakthavende er tilgjengelig for nødkommunikasjon døgnet rundt alle dager.
+◄ **M1**
 
-1. Utveksling av opplysninger mellom varslings- og samarbeidsnettverkets kontaktpunkter i henhold til artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178) og avdeling IV i forordning [(EU) 2017/625](eu/32017r0625*) skal bare gjøres i iRASFF og i form av meldinger, anmodninger og svar.
+3\. Kommunikasjonen i RASFF-nettverket skal skje gjennom det nasjonale kontaktpunktet.
 
-2. Varslings- og samarbeidsnettverkets kontaktpunkter skal fylle ut de relevante feltene i en melding for å muliggjøre en utvetydig identifisering av produktet, risikoen(e), tilfeller av manglende overholdelse og mistanke om svindel, framlegge opplysninger om sporbarhet dersom det er mulig, samt identifisere kontaktpunkter med ansvar for en eventuell oppfølging av en melding eller et svar på en anmodning.
+Artikkel 14
+Arbeidsoppgaver for medlemmene av varslings- og samarbeidsnettverket
 
-3. Meldinger kan oversendes som opprinnelige meldinger eller oppfølgingsmeldinger.
+1\. Medlemmene av varslings- og samarbeidsnettverket skal sørge for at nettverkene innenfor deres jurisdiksjon fungerer effektivt.
 
-4. Anmodninger og svar skal inneholde opplysninger om varslings- og samarbeidsnettverkets kontaktpunkt(er) som anmodningen eller svaret er rettet til.
+2\. Hvert utpekte kontaktpunkt for varslings- og samarbeidsnettverket skal gi Kommisjonens kontaktpunkt detaljerte opplysninger om personene som tar hånd om driften, samt deres kontaktopplysninger. For dette formål skal malen for kontaktpunktopplysninger som Kommisjonen stiller til rådighet, brukes.
 
-1. Varslings- og samarbeidsnettverkets kontaktpunkter skal uten unødig opphold utveksle meldinger om manglende overholdelse som minst skal inneholde følgende:Navnet på vedkommende myndighet som behandler meldingen, dersom denne er en annen enn kontaktpunktet.En beskrivelse av den mulige manglende overholdelsen.Identifisering, dersom det er mulig, av de driftsansvarlige som er knyttet til den mulige manglende overholdelsen.Nærmere opplysninger om de berørte dyrene eller varene.Opplysninger om mistanker om risikoer.En angivelse av om meldingen gjelder et mulig tilfelle av manglende overholdelse som skyldes bedragersk praksis.
+3\. RASFF-nettverkets kontaktpunkter skal sørge for at en vakthavende er tilgjengelig for nødkommunikasjon døgnet rundt alle dager.
 
-2. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om manglende overholdelse.
+Artikkel 15
+Opplysninger som utveksles i iRASFF
 
-1. RASFF-nettverkets kontaktpunkter skal oversende varselmeldinger til Kommisjonens kontaktpunkt uten unødig opphold og under alle omstendigheter senest 48 timer etter at de er blitt underrettet om risikoen.
+1\. Utveksling av opplysninger mellom varslings- og samarbeidsnettverkets kontaktpunkter i henhold til artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178) og avdeling IV i forordning [(EU) 2017/625](eu/32017r0625*) skal bare gjøres i iRASFF og i form av meldinger, anmodninger og svar.
 
-2. Varselmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen. Det faktum at ikke alle relevante opplysninger foreligger, skal ikke forsinke oversendingen av varselmeldinger unødig.
+2\. Varslings- og samarbeidsnettverkets kontaktpunkter skal fylle ut de relevante feltene i en melding for å muliggjøre en utvetydig identifisering av produktet, risikoen(e), tilfeller av manglende overholdelse og mistanke om svindel, framlegge opplysninger om sporbarhet dersom det er mulig, samt identifisere kontaktpunkter med ansvar for en eventuell oppfølging av en melding eller et svar på en anmodning.
 
-3. Kommisjonens kontaktpunkt skal kontrollere varselmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter senest 24 timer etter å ha mottatt dem.
+3\. Meldinger kan oversendes som opprinnelige meldinger eller oppfølgingsmeldinger.
 
-4. Utenom Kommisjonens kontortid skal RASFF-nettverkets kontaktpunkter underrette Kommisjonens kontaktpunkt om at en varselmelding er overført, eller følge opp en varselmelding, ved å ringe nødnummeret til nevnte kontaktpunkt og angi hvilke medlemsstater i RASFF-nettverket som er berørt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som er berørt, ved å ringe deres nødnumre.
+4\. Anmodninger og svar skal inneholde opplysninger om varslings- og samarbeidsnettverkets kontaktpunkt(er) som anmodningen eller svaret er rettet til.
 
-1. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende informasjonsmeldinger til Kommisjonens kontaktpunkt.
+Artikkel 16
+Meldinger om manglende overholdelse
 
-2. Informasjonsmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.
+1\. Varslings- og samarbeidsnettverkets kontaktpunkter skal uten unødig opphold utveksle meldinger om manglende overholdelse som minst skal inneholde følgende:Navnet på vedkommende myndighet som behandler meldingen, dersom denne er en annen enn kontaktpunktet.En beskrivelse av den mulige manglende overholdelsen.Identifisering, dersom det er mulig, av de driftsansvarlige som er knyttet til den mulige manglende overholdelsen.Nærmere opplysninger om de berørte dyrene eller varene.Opplysninger om mistanker om risikoer.En angivelse av om meldingen gjelder et mulig tilfelle av manglende overholdelse som skyldes bedragersk praksis.
 
-3. Kommisjonens kontaktpunkt skal kontrollere informasjonsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.
+2\. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om manglende overholdelse.
 
-1. Varslings- og samarbeidsnettverkets kontaktpunkter kan oversende nyhetsmeldinger til Kommisjonens kontaktpunkt.
+Artikkel 17
+Varselmeldinger
 
-2. Nyhetsmeldinger skal inneholde opplysningene som kreves i henhold til artikkel 16 nr. 1, når dette er tilgjengelig.
+1\. RASFF-nettverkets kontaktpunkter skal oversende varselmeldinger til Kommisjonens kontaktpunkt uten unødig opphold og under alle omstendigheter senest 48 timer etter at de er blitt underrettet om risikoen.
 
-3. Kommisjonens kontaktpunkt skal kontrollere nyhetsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.
+2\. Varselmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen. Det faktum at ikke alle relevante opplysninger foreligger, skal ikke forsinke oversendingen av varselmeldinger unødig.
 
-1. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende meldinger om avvisning ved grensen til varslings- og samarbeidsnettverkets kontaktpunkter.
+3\. Kommisjonens kontaktpunkt skal kontrollere varselmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter senest 24 timer etter å ha mottatt dem.
 
-2. Meldinger om avvisning ved grensen skal inneholde alle opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.
+4\. Utenom Kommisjonens kontortid skal RASFF-nettverkets kontaktpunkter underrette Kommisjonens kontaktpunkt om at en varselmelding er overført, eller følge opp en varselmelding, ved å ringe nødnummeret til nevnte kontaktpunkt og angi hvilke medlemsstater i RASFF-nettverket som er berørt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som er berørt, ved å ringe deres nødnumre.
 
-3. Opplysningene nevnt i nr. 2 skal oversendes via TRACES til alle grensekontrollstasjoner.
+Artikkel 18
+Informasjonsmeldinger
 
-4. Kommisjonens kontaktpunkt skal kontrollere hver oversendte melding om avvisning ved grensen.
+1\. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende informasjonsmeldinger til Kommisjonens kontaktpunkt.
 
-1. Kontaktpunktene for nettverket mot svindel skal utveksle meldinger om svindel som minst skal inneholde følgende:Alle opplysninger som kreves i henhold til artikkel 16 nr. 1.En beskrivelse av den mistenkte svindelen.Dersom det er mulig, en identifisering av de driftsansvarlige som er involvert.Opplysninger om hvorvidt det pågår politietterforskning eller rettslige undersøkelser av den mistenkte svindelen.Opplysninger om eventuelle pålegg fra politi eller rettsmyndighet så snart disse foreligger og kan utleveres.
+2\. Informasjonsmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.
 
-2. Kontaktpunktene for nettverket mot svindel skal uten unødig opphold oversende alle opplysninger om helserisikoer til sitt kontaktpunkt for RASFF-nettverket.
+3\. Kommisjonens kontaktpunkt skal kontrollere informasjonsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.
 
-3. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om svindel.
+Artikkel 19
+Nyhetsmeldinger
 
-1. Dersom et medlem av varslings- og samarbeidsnettverket har tilleggsopplysninger om en opprinnelig melding, skal det eller de berørte kontaktpunktene umiddelbart oversende en oppfølgingsmelding til nevnte nettverk.
+1\. Varslings- og samarbeidsnettverkets kontaktpunkter kan oversende nyhetsmeldinger til Kommisjonens kontaktpunkt.
 
-2. Dersom et kontaktpunkt nevnt i nr. 1 har anmodet om oppfølgende opplysninger om en opprinnelig melding, skal disse opplysningene uten unødig opphold og i den grad det er mulig, oversendes varslings- og samarbeidsnettverket.
+2\. Nyhetsmeldinger skal inneholde opplysningene som kreves i henhold til artikkel 16 nr. 1, når dette er tilgjengelig.
 
-3. Dersom et medlem av RASFF-nettverket treffer tiltak etter å ha mottatt en opprinnelig melding i samsvar med artikkel 50 nr. 5 i forordning [(EF) nr. 178/2002](eu/32002r0178), skal dets kontaktpunkt umiddelbart oversende en detaljert oppfølgingsmelding til varslings- og samarbeidsnettverket.
+3\. Kommisjonens kontaktpunkt skal kontrollere nyhetsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.
 
-4. Dersom tiltaket nevnt i nr. 3 består i å holde tilbake et produkt og sende det tilbake til en avsender i staten til et annet RASFF-nettverksmedlem,skal nettverksmedlemmet som treffer tiltaket, gi relevante opplysninger om det tilbakesendte produktet i en oppfølgingsmelding, med mindre alle disse opplysningene allerede er angitt i den opprinnelige meldingen,skal det andre nettverksmedlemmet gi opplysninger i en oppfølgingsmelding om tiltaket som er truffet i forbindelse med det tilbakesendte produktet.
+Artikkel 20
+Meldinger om avvisning ved grensen
 
-5. Som unntak fra nr. 1 gjelder at dersom en oppfølgingsmelding endrer klassifiseringen av en opprinnelig melding til en varsel- eller informasjonsmelding, skal medlemmet av varslings- og samarbeidsnettverket oversende den til Kommisjonens kontaktpunkt for kontroll og oversending til varslings- og samarbeidsnettverkets kontaktpunkter innen fristene fastsatt i artikkel 17 eller 18.
+1\. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende meldinger om avvisning ved grensen til varslings- og samarbeidsnettverkets kontaktpunkter.
 
-1. Alle medlemmer av varslings- og samarbeidsnettverket skal ha tilgang til varselmeldinger, informasjonsmeldinger, nyhetsmeldinger eller meldinger om avvisning ved grensen.
+2\. Meldinger om avvisning ved grensen skal inneholde alle opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.
 
-2. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare varslings- og samarbeidsnettverkets medlemmer som meldinger kommer fra, og underrettede og anmodede medlemmer av nettverket som skal ha tilgang til meldinger om manglende overholdelse. Andre nettverksmedlemmer skal imidlertid ha tilgang til opplysningene nevnt i artikkel 16. nr. 1 bokstav a), b) og e).
+3\. Opplysningene nevnt i nr. 2 skal oversendes via TRACES til alle grensekontrollstasjoner.
 
-3. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare de kontaktpunktene i nettverket mot svindel som meldinger kommer fra, og nettverkets underrettede og anmodede kontaktpunkter som skal ha tilgang til meldinger om svindel.
+4\. Kommisjonens kontaktpunkt skal kontrollere hver oversendte melding om avvisning ved grensen.
 
-1. Kommisjonens kontaktpunkts kontroll av meldinger skal omfatte kontroll avat meldingen er fullstendig og leselig,at det rettslige grunnlaget for meldingen er riktig. Et feilaktig rettslig grunnlag skal imidlertid ikke hindre oversending av en melding dersom en risiko er blitt identifisert,om meldingen omfattes av RASFF-nettverkets virkeområde,at de viktigste opplysningene i meldingen er angitt på et språk som er enkelt å forstå for varslings- og samarbeidsnettverkets kontaktpunkt,at kravene i denne forordning er oppfylt,om det gjentatte ganger er rapportert om den samme driftsansvarlige og/eller fare og/eller opprinnelsesstat.
+► **M1**
 
-2. Som unntak fra nr. 1 skal meldinger om manglende overholdelse, svindel og avvisning på grensen omfatte bokstav b), c) og e) i nevnte nummer.
+Artikkel 21
+Meldinger om svindel
 
-3. Når Kommisjonens kontaktpunkt har kontrollert en melding i samsvar med nr. 1 eller 2, kan den offentliggjøre et sammendrag av varselmeldinger, informasjonsmeldinger, meldinger om avvisning på grensen og meldinger om manglende overholdelse med opplysninger om klassifiseringen av og statusen for meldingen, produktet og den eller de risikoene som er identifisert, opprinnelsesstaten, statene der produktet er blitt distribuert, nettverksmedlemmet som meldingen kommer fra, grunnlaget for meldingen og tiltak som er truffet.
+1\. Kontaktpunktene for nettverket mot svindel skal utveksle meldinger om svindel som minst skal inneholde følgende:Alle opplysninger som kreves i henhold til artikkel 16 nr. 1.En beskrivelse av den mistenkte svindelen.Dersom det er mulig, en identifisering av de driftsansvarlige som er involvert.Opplysninger om hvorvidt det pågår politietterforskning eller rettslige undersøkelser av den mistenkte svindelen.Opplysninger om eventuelle pålegg fra politi eller rettsmyndighet så snart disse foreligger og kan utleveres.
 
-4. Kommisjonen skal offentliggjøre en årlig rapport om meldingene som er oversendt i iRASFF.
+2\. Kontaktpunktene for nettverket mot svindel skal uten unødig opphold oversende alle opplysninger om helserisikoer til sitt kontaktpunkt for RASFF-nettverket.
 
-1. Dersom tiltaket som skal treffes, ser ut til å være basert på grunnløse opplysninger, eller dersom meldingen er oversendt ved en feil, kan alle kontaktpunktene i varslings- og samarbeidsnettverket be om at
+3\. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om svindel.
+
+◄ **M1**
+
+Artikkel 22
+Oppfølgingsmeldinger
+
+1\. Dersom et medlem av varslings- og samarbeidsnettverket har tilleggsopplysninger om en opprinnelig melding, skal det eller de berørte kontaktpunktene umiddelbart oversende en oppfølgingsmelding til nevnte nettverk.
+
+2\. Dersom et kontaktpunkt nevnt i nr. 1 har anmodet om oppfølgende opplysninger om en opprinnelig melding, skal disse opplysningene uten unødig opphold og i den grad det er mulig, oversendes varslings- og samarbeidsnettverket.
+
+3\. Dersom et medlem av RASFF-nettverket treffer tiltak etter å ha mottatt en opprinnelig melding i samsvar med artikkel 50 nr. 5 i forordning [(EF) nr. 178/2002](eu/32002r0178), skal dets kontaktpunkt umiddelbart oversende en detaljert oppfølgingsmelding til varslings- og samarbeidsnettverket.
+
+4\. Dersom tiltaket nevnt i nr. 3 består i å holde tilbake et produkt og sende det tilbake til en avsender i staten til et annet RASFF-nettverksmedlem,skal nettverksmedlemmet som treffer tiltaket, gi relevante opplysninger om det tilbakesendte produktet i en oppfølgingsmelding, med mindre alle disse opplysningene allerede er angitt i den opprinnelige meldingen,skal det andre nettverksmedlemmet gi opplysninger i en oppfølgingsmelding om tiltaket som er truffet i forbindelse med det tilbakesendte produktet.
+
+5\. Som unntak fra nr. 1 gjelder at dersom en oppfølgingsmelding endrer klassifiseringen av en opprinnelig melding til en varsel- eller informasjonsmelding, skal medlemmet av varslings- og samarbeidsnettverket oversende den til Kommisjonens kontaktpunkt for kontroll og oversending til varslings- og samarbeidsnettverkets kontaktpunkter innen fristene fastsatt i artikkel 17 eller 18.
+
+Artikkel 23
+Tilgang til meldinger i iRASFF
+
+1\. Alle medlemmer av varslings- og samarbeidsnettverket skal ha tilgang til varselmeldinger, informasjonsmeldinger, nyhetsmeldinger eller meldinger om avvisning ved grensen.
+
+2\. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare varslings- og samarbeidsnettverkets medlemmer som meldinger kommer fra, og underrettede og anmodede medlemmer av nettverket som skal ha tilgang til meldinger om manglende overholdelse. Andre nettverksmedlemmer skal imidlertid ha tilgang til opplysningene nevnt i artikkel 16. nr. 1 bokstav a), b) og e).
+
+► **M1**
+
+3\. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare de kontaktpunktene i nettverket mot svindel som meldinger kommer fra, og nettverkets underrettede og anmodede kontaktpunkter som skal ha tilgang til meldinger om svindel.
+
+◄ **M1**
+
+Artikkel 24
+Kontroll og offentliggjøring av meldinger
+
+1\. Kommisjonens kontaktpunkts kontroll av meldinger skal omfatte kontroll avat meldingen er fullstendig og leselig,at det rettslige grunnlaget for meldingen er riktig. Et feilaktig rettslig grunnlag skal imidlertid ikke hindre oversending av en melding dersom en risiko er blitt identifisert,om meldingen omfattes av RASFF-nettverkets virkeområde,at de viktigste opplysningene i meldingen er angitt på et språk som er enkelt å forstå for varslings- og samarbeidsnettverkets kontaktpunkt,at kravene i denne forordning er oppfylt,om det gjentatte ganger er rapportert om den samme driftsansvarlige og/eller fare og/eller opprinnelsesstat.
+
+► **M1**
+
+2\. Som unntak fra nr. 1 skal meldinger om manglende overholdelse, svindel og avvisning på grensen omfatte bokstav b), c) og e) i nevnte nummer.
+
+◄ **M1**
+
+3\. Når Kommisjonens kontaktpunkt har kontrollert en melding i samsvar med nr. 1 eller 2, kan den offentliggjøre et sammendrag av varselmeldinger, informasjonsmeldinger, meldinger om avvisning på grensen og meldinger om manglende overholdelse med opplysninger om klassifiseringen av og statusen for meldingen, produktet og den eller de risikoene som er identifisert, opprinnelsesstaten, statene der produktet er blitt distribuert, nettverksmedlemmet som meldingen kommer fra, grunnlaget for meldingen og tiltak som er truffet.
+
+4\. Kommisjonen skal offentliggjøre en årlig rapport om meldingene som er oversendt i iRASFF.
+
+Artikkel 25
+Tilbaketrekking og endring av meldinger
+
+1\. Dersom tiltaket som skal treffes, ser ut til å være basert på grunnløse opplysninger, eller dersom meldingen er oversendt ved en feil, kan alle kontaktpunktene i varslings- og samarbeidsnettverket be om at
+
+► **M1**
 
 1. et kontaktpunkt som meldingen kommer fra, trekker tilbake en melding om manglende overholdelse, svindel eller oppfølging,
 
+◄ **M1**
+
 1. Kommisjonens kontaktpunkt, etter samtykke fra kontaktpunktet som meldingen kommer fra, trekker tilbake en varsel- eller informasjonsmelding, en melding om avvisning ved grensen eller en nyhetsmelding.
 
-2. Alle kontaktpunktene i varslings- og samarbeidsnettverket kan be om at en melding endres etter samtykke fra kontaktpunktet som meldingen kommer fra.
+2\. Alle kontaktpunktene i varslings- og samarbeidsnettverket kan be om at en melding endres etter samtykke fra kontaktpunktet som meldingen kommer fra.
 
-3. En oppfølgingsmelding skal ikke anses som en endring av en melding, og den kan derfor oversendes uten samtykke fra andre nettverksmedlemmer, med mindre oppfølgingsmeldingen endrer klassifiseringen av meldingen.
+3\. En oppfølgingsmelding skal ikke anses som en endring av en melding, og den kan derfor oversendes uten samtykke fra andre nettverksmedlemmer, med mindre oppfølgingsmeldingen endrer klassifiseringen av meldingen.
 
-1. En melding avsluttes automatisk i iRASFF dersomdet ikke foreligger uavsluttede oppfølgingsanmodninger, elleralle anmodninger er besvart, ellerdet ikke er svart på den siste anmodningen senest seks måneder etter at den er overført.
+Artikkel 26
+Avslutning av en melding og lagringstid for personopplysninger
 
-2. Personopplysninger fra avsluttede meldinger skal lagres i høyst ti år.
+1\. En melding avsluttes automatisk i iRASFF dersomdet ikke foreligger uavsluttede oppfølgingsanmodninger, elleralle anmodninger er besvart, ellerdet ikke er svart på den siste anmodningen senest seks måneder etter at den er overført.
 
-1. Dersom en varselmelding, informasjonsmelding eller melding om avvisning ved grensen gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, skal Kommisjonen uten opphold underrette nevnte tredjestat.
+2\. Personopplysninger fra avsluttede meldinger skal lagres i høyst ti år.
 
-2. Dersom en melding om manglende overholdelse eller om svindel gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, kan Kommisjonen underrette nevnte tredjestat.
+Artikkel 27
+Utveksling av opplysninger med tredjestater
 
-1. Dersom iRASFF er utilgjengelig,skal RASFF-nettverkets kontaktpunkter underrette om at det oversendes en e-post angående en varselmelding eller oppfølging av en varselmelding, ved å ringe nødnummeret til Kommisjonens kontaktpunkt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som skal stå for oppfølgingen, ved å ringe deres nødnumre,skal AAC-nettverkets kontaktpunkter utveksle opplysninger via e-post,
+1\. Dersom en varselmelding, informasjonsmelding eller melding om avvisning ved grensen gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, skal Kommisjonen uten opphold underrette nevnte tredjestat.
+
+► **M1**
+
+2\. Dersom en melding om manglende overholdelse eller om svindel gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, kan Kommisjonen underrette nevnte tredjestat.
+
+◄ **M1**
+
+Artikkel 28
+Beredskapsplaner for iRASFF
+
+1\. Dersom iRASFF er utilgjengelig,skal RASFF-nettverkets kontaktpunkter underrette om at det oversendes en e-post angående en varselmelding eller oppfølging av en varselmelding, ved å ringe nødnummeret til Kommisjonens kontaktpunkt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som skal stå for oppfølgingen, ved å ringe deres nødnumre,skal AAC-nettverkets kontaktpunkter utveksle opplysninger via e-post,
+
+► **M1**
 
 1. skal kontaktpunktene i nettverket mot svindel utveksle opplysninger om meldinger om svindel via e-post,
 
+◄ **M1**
+
 1. skal utvekslingen nevnt i bokstav b) og c) ikke utløse anmodnings- og svarmekanismen.
 
-2. Når iRASFF er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge inn opplysningene som er blitt utvekslet utenfor systemet, i systemet.
+2\. Når iRASFF er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge inn opplysningene som er blitt utvekslet utenfor systemet, i systemet.
 
 ### AVSNITT 2
 ADIS
 
-1. Hvert medlem av ADIS-nettverket skal utpeke minst ett kontaktpunkt med ansvar for innsending av data og opplysninger om meldinger og rapportering i forbindelse med artiklene 3, 4, 6, 7, 8, 11 og 13 i Kommisjonens gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002)*.
+Artikkel 29
+ADIS-nettverket
 
-2. Hvert av ADIS-nettverkets kontaktpunkter skal føre en oppdatert liste i ADIS over meldings- og rapporteringsregioner som kontaktpunktets medlemsstat har opprettet, og som er fastsatt i vedlegg IV til gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002).
+► **M1**
+
+1\. Hvert medlem av ADIS-nettverket skal utpeke minst ett kontaktpunkt med ansvar for innsending av data og opplysninger om meldinger og rapportering i forbindelse med artiklene 3, 4, 6, 7, 8, 11 og 13 i Kommisjonens gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002)\*.
+
+2\. Hvert av ADIS-nettverkets kontaktpunkter skal føre en oppdatert liste i ADIS over meldings- og rapporteringsregioner som kontaktpunktets medlemsstat har opprettet, og som er fastsatt i vedlegg IV til gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002).
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2020/2002](eu/32020r2002) av 7. desember 2020 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til melding om og rapportering av listeførte sykdommer i Unionen, med hensyn til formater og framgangsmåter for framlegging og rapportering av Unionens overvåkingsprogrammer og utryddelsesprogrammer og for søknad om anerkjennelse av sykdomsfri status og med hensyn til det databaserte informasjonssystemet (OJ L 412, 8.12.2020, s. 1)
+
+◄ **M1**
+
+► **M1**
+
+Artikkel 29a
+Lagringstid for personopplysninger
 
 Personopplysninger fra meldinger og rapporter i Unionen nevnt i artikkel 29 nr. 1 skal lagres i ADIS i høyst ti år.
 
-1. Dersom ADIS ikke er tilgjengelig, skal ADIS-nettverkets kontaktpunkter sende inn de dataene og opplysningene om meldinger og rapporter i Unionen som er omhandlet i artikkel 29 nr. 1, via e-post eller på andre måter angitt på Kommisjonens nettsted
+◄ **M1**
 
-2. Når ADIS er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge de dataene og opplysningene som er blitt innsendt utenfor systemet, inn i ADIS.
+► **M1**
+
+Artikkel 29b
+Beredskapsplaner for ADIS
+
+1\. Dersom ADIS ikke er tilgjengelig, skal ADIS-nettverkets kontaktpunkter sende inn de dataene og opplysningene om meldinger og rapporter i Unionen som er omhandlet i artikkel 29 nr. 1, via e-post eller på andre måter angitt på Kommisjonens nettsted
+
+2\. Når ADIS er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge de dataene og opplysningene som er blitt innsendt utenfor systemet, inn i ADIS.
+
+◄ **M1**
 
 ### AVSNITT 3
 EUROPHYT
 
+► **M1**
+
+Artikkel 30
+EUROPHYT-nettverket for utbrudd
+
 Hvert medlem av EUROHYT-nettverket for utbrudd skal utpeke et kontaktpunkt som skal ha ansvaret for å sende inn EUROPHYT-meldinger om utbrudd i EUROPHYT.
 
----
+◄ **M1**
 
-1. EUROPHYT-nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding om utbrudd som minst inneholder opplysningene angitt i nr. 1.1, 1.3, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.4 og 8 i vedlegg I til denne forordning, senest åtte virkedager etter datoen for det ansvarlige offisielle organets offisielle bekreftelse av forekomsten av en skadegjører som nevnt i artikkel 11 første ledd bokstav a) og b), artikkel 29 nr. 1, artikkel 30 nr. 1 og artikkel 33 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).
+Artikkel 31
 
-2. Dersom forekomsten av en skadegjører er offisielt bekreftet i henhold til nr. 1, skal meldingen også inneholde opplysningene angitt i nr. 5.6 i vedlegg I.
-
-3. Nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding som inneholder opplysningene angitt i nr. 1.2, 3.2, 4.2, 4.3, 4.4, 5.3-5.6, 6.1, 6.2, 6.3, 6.5, 6.6, 6.7, 7.1–7.6, 9 og 10 i vedlegg I senest 30 dager etter den relevante datoen nevnt i nr. 1.
-
-4. EUROPHYT-nettverkets kontaktpunkter skal oppdatere meldingene nevnt i nr. 1 og 3 så snart de har kontrollert eventuelle relevante nye opplysninger som de har fått tilgang til, eller så snart vedkommende myndighet har truffet nye tiltak.
+► **M1**
 
 ---
+
+◄ **M1**
+
+Artikkel 32
+Oversending av EUROPHYT-meldinger om utbrudd til EUROPHYT-nettverket for utbrudd
+
+1\. EUROPHYT-nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding om utbrudd som minst inneholder opplysningene angitt i nr. 1.1, 1.3, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.4 og 8 i vedlegg I til denne forordning, senest åtte virkedager etter datoen for det ansvarlige offisielle organets offisielle bekreftelse av forekomsten av en skadegjører som nevnt i artikkel 11 første ledd bokstav a) og b), artikkel 29 nr. 1, artikkel 30 nr. 1 og artikkel 33 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).
+
+2\. Dersom forekomsten av en skadegjører er offisielt bekreftet i henhold til nr. 1, skal meldingen også inneholde opplysningene angitt i nr. 5.6 i vedlegg I.
+
+3\. Nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding som inneholder opplysningene angitt i nr. 1.2, 3.2, 4.2, 4.3, 4.4, 5.3-5.6, 6.1, 6.2, 6.3, 6.5, 6.6, 6.7, 7.1–7.6, 9 og 10 i vedlegg I senest 30 dager etter den relevante datoen nevnt i nr. 1.
+
+4\. EUROPHYT-nettverkets kontaktpunkter skal oppdatere meldingene nevnt i nr. 1 og 3 så snart de har kontrollert eventuelle relevante nye opplysninger som de har fått tilgang til, eller så snart vedkommende myndighet har truffet nye tiltak.
+
+Artikkel 33
+
+► **M1**
+
+---
+
+◄ **M1**
+
+Artikkel 34
+Lagringstid for personopplysninger i EUROPHYT-meldinger om utbrudd
 
 I EUROPHYT skal personopplysninger fra EUROPHYT-meldinger om utbrudd lagres i høyst ti år.
 
 ### AVSNITT 4
 TRACES
 
+Artikkel 35
+TRACES-nettverket
+
+► **M1**
+
 Uten at det berører artikkel 4 nr. 2, skal hvert medlem av TRACES-nettverket utpeke ett eller flere kontaktpunkter for funksjonene omhandlet i [artikkel 132](eu/32017r0625/a132) bokstav d) og i [artikkel 133 i forordning (EU) 2017/625](eu/32017r0625/a133), og i annet av Unionens regelverk der det henvises til TRACES.
 
-1. Hver driftsansvarlig skal ha tilgang til dataene, opplysningene eller dokumentene som vedkommende håndterer, genererer eller oversender i TRACES.
+◄ **M1**
 
-2. Hver vedkommende myndighet skal ha tilgang til data, opplysninger eller dokumenter som håndteres, genereres eller oversendes på dens ansvar i TRACES, enten av myndighetens eget personale eller av de driftsansvarlige som den har ansvar for i TRACES.
+Artikkel 36
+Tilgang til data, opplysninger og dokumenter i TRACES
 
-3. Dersom mer enn én vedkommende myndighet håndterer, genererer eller oversender data, opplysninger eller dokumenter i TRACES, skal de ha tilgang til alle slike data, opplysninger og dokumenter.
+1\. Hver driftsansvarlig skal ha tilgang til dataene, opplysningene eller dokumentene som vedkommende håndterer, genererer eller oversender i TRACES.
 
-4. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, skal enheter som ikke har bidratt til håndtering, utarbeiding eller oversending av data, opplysninger eller dokumenter i TRACES, eller som ikke er involvert i den aktuelle omsetningen eller forflytningen, ikke ha tilgang til slike data, opplysninger eller dokumenter.
+2\. Hver vedkommende myndighet skal ha tilgang til data, opplysninger eller dokumenter som håndteres, genereres eller oversendes på dens ansvar i TRACES, enten av myndighetens eget personale eller av de driftsansvarlige som den har ansvar for i TRACES.
 
-5. Som unntak fra nr. 4 i denne artikkel skal vedkommende myndigheter ha tilgang til data, opplysninger og dokumenter om en beslutning om å nekte innførsel av en forsendelse eller et pålegg om å treffe tiltak som er registrert i TRACES i samsvar med artikkel 66 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*).
+3\. Dersom mer enn én vedkommende myndighet håndterer, genererer eller oversender data, opplysninger eller dokumenter i TRACES, skal de ha tilgang til alle slike data, opplysninger og dokumenter.
 
-1. Utvekslingen av data mellom TRACES og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skal være synkronisert, gjensidig og basert på standardene til UN/CEFACT, IPPC og OIE.
+4\. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, skal enheter som ikke har bidratt til håndtering, utarbeiding eller oversending av data, opplysninger eller dokumenter i TRACES, eller som ikke er involvert i den aktuelle omsetningen eller forflytningen, ikke ha tilgang til slike data, opplysninger eller dokumenter.
 
-2. Ved utvekslingen av data mellom TRACES og medlemsstatenes nasjonale systemer skal det brukes referansedata fra TRACES.
+5\. Som unntak fra nr. 4 i denne artikkel skal vedkommende myndigheter ha tilgang til data, opplysninger og dokumenter om en beslutning om å nekte innførsel av en forsendelse eller et pålegg om å treffe tiltak som er registrert i TRACES i samsvar med artikkel 66 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*).
 
-1. Med henblikk på samarbeidet fastsatt i artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) skal medlemsstatenes tollmyndigheter ha tilgang til data, opplysninger og dokumenter om dyr og varer som innføres til Unionen fra tredjestater, og til beslutninger truffet på grunnlag av offentlig kontroll gjennomført i samsvar med avdeling II kapittel V i nevnte forordning, viaTRACES eller medlemsstatenes nasjonale systemer ellerEUs system med ett meldepunkt på tollområdet basert på de elektroniske tollsystemene som er nevnt i vedtak nr. [70/2008/EF](eu/32008d0070*), og som er koplet til TRACES.
+Artikkel 37
+Utveksling av data mellom TRACES og andre elektroniske systemer
 
-2. Dersom tilgangen nevnt i nr. 1 ikke er tilgjengelig, skal medlemsstatene uten unødig opphold sørge for at deres tollmyndigheter og vedkommende myndigheter gjensidig og rettidig utveksler relevante data, opplysninger og dokumenter.
+1\. Utvekslingen av data mellom TRACES og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skal være synkronisert, gjensidig og basert på standardene til UN/CEFACT, IPPC og OIE.
 
-1. Elektroniske dyrehelsesertifikater, offisielle sertifikater og kombinerte dyrehelse-/offisielle sertifikater for forsendelser med dyr og varer som innføres til unionen skal oppfylle alle av de følgende krav:De skal være utstedt i ett av følgende systemer:TRACESen medlemsstats nasjonale systemen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med TRACESen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med en medlemsstats nasjonale system.de skal være undertegnet av en autorisert tjenestemann med dennes elektroniske signatur.de skal være utstyrt med den utstedende kompetente myndighets avanserte eller kvalifiserte elektroniske segl eller med denne myndighets rettslige representants avanserte eller kvalifiserte elektroniske signatur.
+2\. Ved utvekslingen av data mellom TRACES og medlemsstatenes nasjonale systemer skal det brukes referansedata fra TRACES.
 
-2. Dersom elektroniske helsesertifikater, offisielle sertifikater og kombinerte helses-/offisielle sertifikater utstedes i samsvar med nr. 1 bokstav a) iii) eller iv), er den offisielle tjenestemannens elektroniske signatur ikke påkrevd.
+Artikkel 38
+Samarbeid mellom medlemsstatenes myndigheter når det gjelder forsendelser som innføres til Unionen
 
-3. Kommisjonen skal underrettes på forhånd om utstedelsen av elektroniske helsesertifikater, offisielle sertifikater og kombinerte helse-/offisielle sertifikater i samsvar med nr. 1 bokstav a) iv).
+1\. Med henblikk på samarbeidet fastsatt i artikkel 75 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) skal medlemsstatenes tollmyndigheter ha tilgang til data, opplysninger og dokumenter om dyr og varer som innføres til Unionen fra tredjestater, og til beslutninger truffet på grunnlag av offentlig kontroll gjennomført i samsvar med avdeling II kapittel V i nevnte forordning, viaTRACES eller medlemsstatenes nasjonale systemer ellerEUs system med ett meldepunkt på tollområdet basert på de elektroniske tollsystemene som er nevnt i vedtak nr. [70/2008/EF](eu/32008d0070*), og som er koplet til TRACES.
 
-4. Vedkommende myndighet skal godta elektroniske plantehelsesertifikater, som kreves for innførsel av planter, planteprodukter og andre gjenstander til Unionens territorium i samsvar med kapittel VI avsnitt 1 i forordning [(EU) 2016/2031](eu/32016r2031), bare dersom de er utstedt i samsvar med nr. 1 bokstav a) i) eller iii) i denne artikkelen.
+2\. Dersom tilgangen nevnt i nr. 1 ikke er tilgjengelig, skal medlemsstatene uten unødig opphold sørge for at deres tollmyndigheter og vedkommende myndigheter gjensidig og rettidig utveksler relevante data, opplysninger og dokumenter.
+
+► **M1**
+
+Artikkel 39
+Utstedelse av elektroniske sertifikater for forsendelser av dyr og varer som innføres til Unionen, og bruk av elektroniske signaturer
+
+1\. Elektroniske dyrehelsesertifikater, offisielle sertifikater og kombinerte dyrehelse-/offisielle sertifikater for forsendelser med dyr og varer som innføres til unionen skal oppfylle alle av de følgende krav:De skal være utstedt i ett av følgende systemer:TRACESen medlemsstats nasjonale systemen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med TRACESen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med en medlemsstats nasjonale system.de skal være undertegnet av en autorisert tjenestemann med dennes elektroniske signatur.de skal være utstyrt med den utstedende kompetente myndighets avanserte eller kvalifiserte elektroniske segl eller med denne myndighets rettslige representants avanserte eller kvalifiserte elektroniske signatur.
+
+2\. Dersom elektroniske helsesertifikater, offisielle sertifikater og kombinerte helses-/offisielle sertifikater utstedes i samsvar med nr. 1 bokstav a) iii) eller iv), er den offisielle tjenestemannens elektroniske signatur ikke påkrevd.
+
+3\. Kommisjonen skal underrettes på forhånd om utstedelsen av elektroniske helsesertifikater, offisielle sertifikater og kombinerte helse-/offisielle sertifikater i samsvar med nr. 1 bokstav a) iv).
+
+4\. Vedkommende myndighet skal godta elektroniske plantehelsesertifikater, som kreves for innførsel av planter, planteprodukter og andre gjenstander til Unionens territorium i samsvar med kapittel VI avsnitt 1 i forordning [(EU) 2016/2031](eu/32016r2031), bare dersom de er utstedt i samsvar med nr. 1 bokstav a) i) eller iii) i denne artikkelen.
+
+◄ **M1**
+
+► **M1**
+
+Artikkel 39a
+Utstedelse av elektroniske sertifikater og handelsdokumenter for forflytninger av dyr og varer mellom medlemsstater og bruk av elektroniske signaturer
 
 Elektroniske helsesertifikater, offisielle sertifikater og kombinerte helsesertifikater/offisielle sertifikater for forflytninger av dyr, produkter av animalsk opprinnelse og avlsmateriale mellom medlemsstater, og elektroniske handelsdokumenter for visse animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og som transporteres til en annen medlemsstat, skal oppfylle alle følgende krav:De skal være utstedt i TRACES.De skal være underskrevet av en offentlig veterinær eller sertifikatutsteder med dennes elektroniske signatur.Det skal være forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.
 
+◄ **M1**
+
+► **M1**
+
+Artikkel 39b
+Utstedelse av elektroniske sertifikater for eksport og gjeneksport av planter, planteprodukter og andre gjenstander og bruk av elektroniske signaturer
+
 Elektroniske plantehelsesertifikater for eksport eller gjeneksport av planter, planteprodukter og andre gjenstander fra Unionens territorium til et tredjeland skal utstedes i ett av følgende systemer:TRACES, forutsatt at sertifikatet oppfyller alle følgende krav:Det er underskrevet av en sertifikatutsteder med dennes elektroniske signatur.Det er forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.En medlemsstats nasjonale system, forutsatt at sertifikatet oppfyller alle følgende krav:Det er underskrevet av en sertifikatutsteder med dennes elektroniske signatur.Det overføres til TRACES senest når det forsynes med sertifikatutstederens elektroniske signatur, og denne overføringen forsynes med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.
 
-1. Det felles innførselsdokumentet om helse skal inneholde felter for opplysningene angitt i del 1 i vedlegg II til denne forordning og skal brukes av den driftsansvarlige og vedkommende myndigheter i samsvar med artikkel 56 nr. 3 i forordning [(EU) 2017/625 i](eu/32017r0625*) ett av følgende formater, alt etter forsendelsens kategori fastsatt i artikkel 47 nr. 1 i nevnte forordning:Et CHED-A som er utarbeidet i samsvar med malen i del 2 avsnitt A i vedlegg II til denne forordning, for forsendelser med dyrnevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).Et CHED-P som er utarbeidet i samsvar med malen i del 2 avsnitt B i vedlegg II til denne forordning, for forsendelser med produkternevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*) ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).Et CHED-PP som er utarbeidet i samsvar med malen i del 2 avsnitt C i vedlegg II til denne forordning, for forsendelser medplanter, planteprodukter og andre gjenstander nevnt i artikkel 47 nr. 1 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*)) ellerplanter, planteprodukter og andre gjenstander som ved innførselen til Unionen omfattes av et av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*), ellerspesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav for hvilke et minstenivå av offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for plantehelsen som fastsatt i gjennomføringsforordning [(EU) 2019/66](eu/32019r0066).Et CHED-D som er utarbeidet i samsvar med malen i del 2 avsnitt D i vedlegg II til denne forordning, for forsendelser med fôr og næringsmidler av ikke-animalsk opprinnelse som ved innførselen til Unionen omfattes av noen av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).
+◄ **M1**
 
-2. Det felles innførselsdokumentet om helse nevnt i nr. 1 skal væreutarbeidet på minst ett av de offisielle språkene i innførselsmedlemsstaten,behørig utfylt på minst ett av de offisielle språkene i innførselsmedlemsstaten, i samsvar med de forklarende kommentarene fastsatt i del 1 i vedlegg II til denne forordning, avden driftsansvarlige som er ansvarlig for forsendelsen, når det gjelder nærmere opplysninger om forsendelsen, som beskrevet i del I i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på en grensekontrollstasjon eller et kontrollsted når det gjelder opplysninger om beslutningen som er truffet angående forsendelsen, som beskrevet i del II i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på utførselsgrensekontrollstasjonen eller grensekontrollstasjonen på det endelige bestemmelsesstedet, eller av den lokale vedkommende myndigheten, når det gjelder opplysninger om oppfølgingstiltak som er truffet angående forsendelsen etter at en beslutning er truffet, som beskrevet i del III i malene i del 2 avsnitt A–D i nevnte vedlegg.
+Artikkel 40
+Formatet for det felles innførselsdokumentet om helse (CHED) og veiledning om hvordan det skal framlegges og brukes
 
-3. Som unntak fra nr. 2 bokstav a) kan en medlemsstat samtykke i at et felles innførselsdokument om helse utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.
+1\. Det felles innførselsdokumentet om helse skal inneholde felter for opplysningene angitt i del 1 i vedlegg II til denne forordning og skal brukes av den driftsansvarlige og vedkommende myndigheter i samsvar med artikkel 56 nr. 3 i forordning [(EU) 2017/625 i](eu/32017r0625*) ett av følgende formater, alt etter forsendelsens kategori fastsatt i artikkel 47 nr. 1 i nevnte forordning:Et CHED-A som er utarbeidet i samsvar med malen i del 2 avsnitt A i vedlegg II til denne forordning, for forsendelser med dyrnevnt i artikkel 47 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*) ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).Et CHED-P som er utarbeidet i samsvar med malen i del 2 avsnitt B i vedlegg II til denne forordning, for forsendelser med produkternevnt i artikkel 47 nr. 1 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*) ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).Et CHED-PP som er utarbeidet i samsvar med malen i del 2 avsnitt C i vedlegg II til denne forordning, for forsendelser medplanter, planteprodukter og andre gjenstander nevnt i artikkel 47 nr. 1 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625*)) ellerplanter, planteprodukter og andre gjenstander som ved innførselen til Unionen omfattes av et av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*), ellerspesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav for hvilke et minstenivå av offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for plantehelsen som fastsatt i gjennomføringsforordning [(EU) 2019/66](eu/32019r0066).Et CHED-D som er utarbeidet i samsvar med malen i del 2 avsnitt D i vedlegg II til denne forordning, for forsendelser med fôr og næringsmidler av ikke-animalsk opprinnelse som ved innførselen til Unionen omfattes av noen av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning [(EU) 2017/625](eu/32017r0625*).
+
+2\. Det felles innførselsdokumentet om helse nevnt i nr. 1 skal væreutarbeidet på minst ett av de offisielle språkene i innførselsmedlemsstaten,behørig utfylt på minst ett av de offisielle språkene i innførselsmedlemsstaten, i samsvar med de forklarende kommentarene fastsatt i del 1 i vedlegg II til denne forordning, avden driftsansvarlige som er ansvarlig for forsendelsen, når det gjelder nærmere opplysninger om forsendelsen, som beskrevet i del I i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på en grensekontrollstasjon eller et kontrollsted når det gjelder opplysninger om beslutningen som er truffet angående forsendelsen, som beskrevet i del II i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på utførselsgrensekontrollstasjonen eller grensekontrollstasjonen på det endelige bestemmelsesstedet, eller av den lokale vedkommende myndigheten, når det gjelder opplysninger om oppfølgingstiltak som er truffet angående forsendelsen etter at en beslutning er truffet, som beskrevet i del III i malene i del 2 avsnitt A–D i nevnte vedlegg.
+
+3\. Som unntak fra nr. 2 bokstav a) kan en medlemsstat samtykke i at et felles innførselsdokument om helse utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.
+
+► **M1**
+
+Artikkel 41
+Bruk av et elektronisk felles innførselsdokument om helse (CHED)
 
 En driftsansvarligs eller en vedkommende myndighets bruk av et elektronisk CHED-dokument skal skje ved hjelp av ett av følgende systemer:TRACES, forutsatt at CHED-dokumentet oppfyller alle følgende krav:Det er underskrevet av den driftsansvarlige som er ansvarlig for forsendelsen, med dennes elektroniske signatur.Det er underskrevet av den offentlige veterinæren, den offentlige plantehelseinspektøren eller sertifikatutstederen på en grensekontrollstasjon eller et kontrollsted med dennes elektroniske signatur.Det er forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.En medlemsstats nasjonale system, forutsatt at CHED-dokumentet oppfyller alle følgende krav:Det er underskrevet av den driftsansvarlige som er ansvarlig for forsendelsen, med dennes elektroniske signatur.Det er underskrevet av den offentlige veterinæren, den offentlige plantehelseinspektøren eller sertifikatutstederen på en grensekontrollstasjon eller et kontrollsted med dennes elektroniske signatur.Det overføres til TRACES senest på det tidspunktet det treffes beslutning om forsendelsen på grunnlag av offentlig kontroll, og denne overføringen forsynes med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.
 
-1. For å opprettholde integriteten for sertifikater og felles innførselsdokumenter om helse utstedt i samsvar med henholdsvis artikkel 39 og artikkel 41 skal relevante data om elektroniske signaturer, elektroniske segl, tidsstempler og elektroniske utvekslinger lagres i TRACES og medlemsstatenes nasjonale systemer i minst tre år.
+◄ **M1**
 
-2. Personopplysninger fra sertifikatene og de felles innførselsdokumentene om helse nevnt i nr. 1 skal lagres i TRACES og medlemsstatenes nasjonale systemer i høyst ti år.
+Artikkel 42
+Lagringstid for elektroniske sertifikater, felles innførselsdokumenter om helse (CHED) og personopplysninger i disse
 
-3. ---
+1\. For å opprettholde integriteten for sertifikater og felles innførselsdokumenter om helse utstedt i samsvar med henholdsvis artikkel 39 og artikkel 41 skal relevante data om elektroniske signaturer, elektroniske segl, tidsstempler og elektroniske utvekslinger lagres i TRACES og medlemsstatenes nasjonale systemer i minst tre år.
+
+2\. Personopplysninger fra sertifikatene og de felles innførselsdokumentene om helse nevnt i nr. 1 skal lagres i TRACES og medlemsstatenes nasjonale systemer i høyst ti år.
+
+► **M1**
+
+3\. ---
+
+◄ **M1**
+
+Artikkel 43
+Liste over kontrollenheter
 
 Hvert av TRACES-nettverkets kontaktpunkter skal i TRACES føre og holde oppdatert listen over kontrollenheter som dets medlemsstat har utpekt med henblikk på TRACES.
 
-1. Hvert av TRACES-nettverkets kontaktpunkter skal i TRACES føre og holde oppdatert listen over grensekontrollstasjoner og kontrollsteder som dets medlemsstat har utpekt i samsvar med henholdsvis artikkel 59 nr. 1 og artikkel 53 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), med henblikk på offentlig kontroll av en eller flere av kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 i nevnte forordning.
+Artikkel 44
+Liste over grensekontrollstasjoner og kontrollsteder
 
-2. Kontaktpunktene nevnt i nr. 1 i denne artikkel skal legge inn opplysninger i TRACES om hver grensekontrollstasjon og hvert kontrollsted som er utpekt, ved bruk avformatet fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014)35 for å gi opplysningene nevnt i artikkel 60 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*),forkortelsene og spesifikasjonene fastsatt i vedlegg II til nevnte gjennomføringsforordning.
+1\. Hvert av TRACES-nettverkets kontaktpunkter skal i TRACES føre og holde oppdatert listen over grensekontrollstasjoner og kontrollsteder som dets medlemsstat har utpekt i samsvar med henholdsvis artikkel 59 nr. 1 og artikkel 53 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), med henblikk på offentlig kontroll av en eller flere av kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 i nevnte forordning.
 
-1. Hvert av TRACES-nettverkets kontaktpunkter skal føre oppdaterte lister over følgende i TRACES:Næringsmiddelvirksomheter som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med [artikkel 6 nr. 3 i forordning (EF) nr. 852/2004](eu/32004r0852/a6).Virksomheter, anlegg og driftsansvarlige som håndterer animalske biprodukter eller avledede produkter, og som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent eller registrert i samsvar med [artikkel 47 i forordning (EF) nr. 1069/2009](eu/32009r1069/a47).Kontrollstasjoner som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med [artikkel 3 i forordning (EF) nr. 1255/97](eu/31997r1255/a3)*.Transportører som gjennomfører lange turer, og som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 11 nr. 1 i rådsforordning (EF) nr. 1/2005**.Virksomheter som er oppført i registeret over godkjente anlegg nevnt i artikkel 101 nr. 1 første ledd bokstav b) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter holdte landdyr og avlsmateriale til en annen medlemsstat eller mottar holdte landdyr og avlsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over godkjente akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, nevnt i henholdsvis artikkel 185 nr. 1 bokstav b) og c) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Virksomheter og driftsansvarlige som er oppført i registeret over registrerte anlegg og driftsansvarlige nevnt i artikkel 101 nr. 1 første ledd bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter holdte landdyr og formeringsmateriale til en annen medlemsstat eller mottar holdte landdyr og formeringsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over registrerte akvakulturanlegg nevnt i artikkel 185 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Transportører som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 10 nr. 1 i forordning (EU) nr. 1/2005.Førere og ledsagere i veigående kjøretøyer som transporterer tamme dyr av hestefamilien eller storfe, tamsau, tamgeit, tamsvin eller fjørfe, og som vedkommende myndighet har utstedt et egnethetssertifikat til i samsvar med artikkel 17 nr. 2 i forordning (EF) nr. 1/2005.Veigående transportmidler som brukes på lange turer, og dyretransportfartøyer som vedkommende myndighet har utstedt godkjenningsattest til i samsvar med henholdsvis artikkel 18 nr. 1 og artikkel 19 nr. 1 i forordning (EF) nr. 1/2005.Driftsansvarlige oppført i registeret over profesjonelle aktører som innfører planter, planteprodukter og andre gjenstander til Unionen som det kreves et plantehelsesertifikat for, som omhandlet i artikkel 65 nr. 1 første ledd bokstav a) i forordning [(EU) 2016/2031](eu/32016r2031).Karantenestasjoner og inneslutningsanlegg som er utpekt i samsvar med artikkel 60 i forordning [(EU) 2016/2031](eu/32016r2031) til å utføre aktiviteter som involverer planter, planteprodukter og andre gjenstander som innføres til Unionens territorium fra tredjeland.
+2\. Kontaktpunktene nevnt i nr. 1 i denne artikkel skal legge inn opplysninger i TRACES om hver grensekontrollstasjon og hvert kontrollsted som er utpekt, ved bruk avformatet fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014)35 for å gi opplysningene nevnt i artikkel 60 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*),forkortelsene og spesifikasjonene fastsatt i vedlegg II til nevnte gjennomføringsforordning.
 
-2. Kontaktpunktene omhandlet i nr. 1 skal legge inn opplysninger i TRACES om hver av listene omhandlet i samme nummer ved å bruke de tekniske spesifikasjonene for formatet på disse listene som stilles til rådighet av Kommisjonen.
+35 Kommisjonens gjennomføringsforordning [(EU) 2019/1014](eu/32019r1014) av 12. juni 2019 om fastsettelse av nærmere regler for minstekrav til grensekontrollstasjoner, herunder kontrollsentre, og til format, kategorier og forkortelser som skal brukes i lister over grensekontrollstasjoner og kontrollsteder (EUT L 165 av 21.6.2019, s. 10).
 
-3. Kommisjonen skal bistå medlemsstatene i å gjøre listene nevnt i nr. 1 bokstav a)-f) tilgjengelige for offentligheten ved å offentliggjøre dem på Kommisjonens nettsted eller via TRACES.
+► **M1**
 
-1. TRACES-nettverkets kontaktpunkter skal føre et offentlig nettbasert register som inneholder en utfyllbar mal for alle dokumentene som kan utstedes i TRACES eller i medlemsstatens nasjonale system i samsvar med denne forordning.
+Artikkel 45
+Lister over referansedata
 
-2. Dersom en medlemsstats nasjonale system, TRACES eller en av funksjonene i disse systemene er utilgjengelig i mer enn én time, kan brukerne av disse bruke en utfyllbar trykt eller elektronisk mal, som nevnt i nr. 1, for å registrere og utveksle opplysninger.
+1\. Hvert av TRACES-nettverkets kontaktpunkter skal føre oppdaterte lister over følgende i TRACES:Næringsmiddelvirksomheter som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med [artikkel 6 nr. 3 i forordning (EF) nr. 852/2004](eu/32004r0852/a6).Virksomheter, anlegg og driftsansvarlige som håndterer animalske biprodukter eller avledede produkter, og som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent eller registrert i samsvar med [artikkel 47 i forordning (EF) nr. 1069/2009](eu/32009r1069/a47).Kontrollstasjoner som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med [artikkel 3 i forordning (EF) nr. 1255/97](eu/31997r1255/a3)\*.Transportører som gjennomfører lange turer, og som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 11 nr. 1 i rådsforordning (EF) nr. 1/2005\*\*.Virksomheter som er oppført i registeret over godkjente anlegg nevnt i artikkel 101 nr. 1 første ledd bokstav b) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter holdte landdyr og avlsmateriale til en annen medlemsstat eller mottar holdte landdyr og avlsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over godkjente akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, nevnt i henholdsvis artikkel 185 nr. 1 bokstav b) og c) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Virksomheter og driftsansvarlige som er oppført i registeret over registrerte anlegg og driftsansvarlige nevnt i artikkel 101 nr. 1 første ledd bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter holdte landdyr og formeringsmateriale til en annen medlemsstat eller mottar holdte landdyr og formeringsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over registrerte akvakulturanlegg nevnt i artikkel 185 nr. 1 bokstav a) i forordning [(EU) 2016/429](eu/32016r0429), i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Transportører som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 10 nr. 1 i forordning (EU) nr. 1/2005.Førere og ledsagere i veigående kjøretøyer som transporterer tamme dyr av hestefamilien eller storfe, tamsau, tamgeit, tamsvin eller fjørfe, og som vedkommende myndighet har utstedt et egnethetssertifikat til i samsvar med artikkel 17 nr. 2 i forordning (EF) nr. 1/2005.Veigående transportmidler som brukes på lange turer, og dyretransportfartøyer som vedkommende myndighet har utstedt godkjenningsattest til i samsvar med henholdsvis artikkel 18 nr. 1 og artikkel 19 nr. 1 i forordning (EF) nr. 1/2005.Driftsansvarlige oppført i registeret over profesjonelle aktører som innfører planter, planteprodukter og andre gjenstander til Unionen som det kreves et plantehelsesertifikat for, som omhandlet i artikkel 65 nr. 1 første ledd bokstav a) i forordning [(EU) 2016/2031](eu/32016r2031).Karantenestasjoner og inneslutningsanlegg som er utpekt i samsvar med artikkel 60 i forordning [(EU) 2016/2031](eu/32016r2031) til å utføre aktiviteter som involverer planter, planteprodukter og andre gjenstander som innføres til Unionens territorium fra tredjeland.
 
-3. Når systemene eller funksjonene nevnt i nr. 2 er tilgjengelige igjen, skal brukerne bruke opplysningene registrert i samsvar med nr. 2 for elektronisk å generere de dokumentene som kreves i henhold til denne forordning.
+2\. Kontaktpunktene omhandlet i nr. 1 skal legge inn opplysninger i TRACES om hver av listene omhandlet i samme nummer ved å bruke de tekniske spesifikasjonene for formatet på disse listene som stilles til rådighet av Kommisjonen.
 
-4. Dersom TRACES, en medlemsstats nasjonale system eller en av funksjonene i disse systemene er utilgjengelig, kan medlemsstatene midlertidig generere og elektronisk utveksle alle nødvendige dokumenter i det tilgjengelige systemet, og forpliktelser som gjelder TRACES’ funksjoner, får ikke anvendelse. Kommisjonen og eierne av de nasjonale systemene skal foreta en samlet ad hoc-utveksling av disse dokumentene så snart systemene er tilgjengelige igjen.
+3\. Kommisjonen skal bistå medlemsstatene i å gjøre listene nevnt i nr. 1 bokstav a)-f) tilgjengelige for offentligheten ved å offentliggjøre dem på Kommisjonens nettsted eller via TRACES.
 
-5. Dokumentene som er generert i samsvar med nr. 2 og 4, skal være merket med teksten «generert under en uforutsett hendelse».
+\* Rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for stoppesteder og om endring av reiseplanen nevnt i vedlegget til direktiv [91/628/EØF](eu/31991l0628) (EFT L 174 av 2.7.1997, s. 1).\*\* Rådsforordning (EF) nr. 1/2005 av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432) og [93/119/EF](eu/31993r0119) og forordning [(EF) nr. 1255/97](eu/31997r1255) (EUT L 3 av 5.1.2005, s. 1).
 
-6. Kommisjonen skal underrette brukere via TRACES to uker før en planlagt utilgjengelighet og opplyse om hvor lenge den vil vare og årsaken til den.
+◄ **M1**
+
+Artikkel 46
+Beredskapsplaner for TRACES og medlemsstatenes nasjonale systemer i tilfelle ikke-planlagt eller planlagt utilgjengelighet
+
+1\. TRACES-nettverkets kontaktpunkter skal føre et offentlig nettbasert register som inneholder en utfyllbar mal for alle dokumentene som kan utstedes i TRACES eller i medlemsstatens nasjonale system i samsvar med denne forordning.
+
+2\. Dersom en medlemsstats nasjonale system, TRACES eller en av funksjonene i disse systemene er utilgjengelig i mer enn én time, kan brukerne av disse bruke en utfyllbar trykt eller elektronisk mal, som nevnt i nr. 1, for å registrere og utveksle opplysninger.
+
+3\. Når systemene eller funksjonene nevnt i nr. 2 er tilgjengelige igjen, skal brukerne bruke opplysningene registrert i samsvar med nr. 2 for elektronisk å generere de dokumentene som kreves i henhold til denne forordning.
+
+4\. Dersom TRACES, en medlemsstats nasjonale system eller en av funksjonene i disse systemene er utilgjengelig, kan medlemsstatene midlertidig generere og elektronisk utveksle alle nødvendige dokumenter i det tilgjengelige systemet, og forpliktelser som gjelder TRACES’ funksjoner, får ikke anvendelse. Kommisjonen og eierne av de nasjonale systemene skal foreta en samlet ad hoc-utveksling av disse dokumentene så snart systemene er tilgjengelige igjen.
+
+5\. Dokumentene som er generert i samsvar med nr. 2 og 4, skal være merket med teksten «generert under en uforutsett hendelse».
+
+6\. Kommisjonen skal underrette brukere via TRACES to uker før en planlagt utilgjengelighet og opplyse om hvor lenge den vil vare og årsaken til den.
 
 ### KAPITTEL 4
 Sluttbestemmelser
 
 ### Artikkel 47. Opphevinger
 
-1. Direktiv [94/3/EF](eu/31994l0003*), vedtak [92/486/EØF](eu/31992d0486), [2003/24/EF](eu/32003l0024), [2003/623/EF](eu/32003*0623), [2004/292/EF](eu/32004d0292), [2004/675/EF](eu/32004*0675) og 2005/123/ED, forordning [(EU) nr. 16/2011](eu/32011r0016) og gjennomføringsbeslutning [2014/917/EU](eu/32014d0917), (EU) [2015/1918](eu/32015d1918) og (EU) [2018/1553](eu/32018*1553) oppheves med virkning fra 14. desember 2019.
+1\. Direktiv [94/3/EF](eu/31994l0003*), vedtak [92/486/EØF](eu/31992d0486), [2003/24/EF](eu/32003l0024), [2003/623/EF](eu/32003*0623), [2004/292/EF](eu/32004d0292), [2004/675/EF](eu/32004*0675) og 2005/123/ED, forordning [(EU) nr. 16/2011](eu/32011r0016) og gjennomføringsbeslutning [2014/917/EU](eu/32014d0917), (EU) [2015/1918](eu/32015d1918) og (EU) [2018/1553](eu/32018*1553) oppheves med virkning fra 14. desember 2019.
 
-2. Henvisninger til disse opphevede rettsaktene skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegg III.
+2\. Henvisninger til disse opphevede rettsaktene skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegg III.
 
 ### Artikkel 48. Ikrafttredelse og anvendelse
 
@@ -487,42 +808,76 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 30. september 2019.
 
+|  |  |
+| --- | --- |
+| For Kommisjonen |  |
+|  |  |
+| Jean-Claude JUNCKER |  |
+|  |  |
+| President |  |
+
 ### VEDLEGG I
 Innhold i meldingene nevnt i artikkel 32
 
 ### **1. Generell informasjon**
 
+1.1.
+
 Tittel – angi det vitenskapelige navnet på den berørte skadegjøreren som nevnt i artikkel 11 første ledd bokstav a) og b), artikkel 29 nr. 1, artikkel 30 nr. 1 og artikkel 33 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), stedet og om det er første forekomst eller ikke. Det vitenskapelige navnet skal være entenskadegjørerens vitenskapelige navn, herunder, dersom det er relevant, patovaren, ellerdersom nr. 1 ikke får anvendelse, det vitenskapelige navnet som er godkjent av en internasjonal organisasjon, herunder patovaren, og navnet på den aktuelle organisasjonen, ellerdersom verken nr. 1) eller nr. 2) får anvendelse, det vitenskapelige navnet fra den mest pålitelige informasjonskilden med en henvisning til den kilden.
 
 Det kan gis forklarende kommentarer.
 
+1.2.
+
 Sammendrag – et sammendrag av opplysningene i nr. 3–7.
+
+1.3.
 
 Angi et av følgende:Delvis melding i samsvar med artikkel 32 nr. 1 og 2.Melding i samsvar med artikkel 32 nr. 3.Oppdatering av melding i samsvar med artikkel 32 nr. 4.Avsluttende kommentar om oppheving av tiltak og årsaken til det.
 
 ### 2. Sentral myndighet og ansvarlige personer
 
+2.1.
+
 Navnet på den sentrale myndigheten som sender meldingen – skriv «Melding fra» etterfulgt av navnet på den sentrale myndigheten og dens medlemsstat.
+
+2.2.
 
 Offisiell kontaktperson hos den sentrale myndigheten – angi navnet på og telefonnummeret og e-postadressen til personen som den sentrale myndigheten har utpekt som offisiell kontaktperson for meldingen. Dersom flere enn én person er utpekt, angis årsaken til dette.
 
 ### 3. Sted der skadegjøreren forekommer
 
+3.1.
+
 Angi så nøyaktig som mulig hvor skadegjøreren forekommer, med, som et minimum, angivelse av en administrativ region (f.eks. kommune, sted, provins).
+
+3.2.
 
 Legg ved et eller flere kart over stedet.
 
 ### 4. Årsak til meldingen, skadegjørerstatus i det berørte området og den berørte medlemsstaten
 
+4.1.
+
 Angi et av følgende:Første bekreftede eller mistenkte forekomst av skadegjøreren på den berørte medlemsstatens territorium.Bekreftet eller mistenkt forekomst av skadegjøreren på deler av den berørte medlemsstatens territorium der det tidligere ikke er konstatert forekomst av skadegjøreren. (Dersom det er relevant, angis det at skadegjøreren forekommer på en del av territoriet der den tidligere har forekommet, men er blitt utryddet.)
+
+4.2.
 
 Skadegjørerstatus i området36 der skadegjøreren er funnet, etter offisiell bekreftelse – angi, med en forklarende kommentar, et eller flere av følgende:Forekommer i alle deler av området.Forekommer bare i visse deler av området.Forekommer i visse deler av området der vertsplantene ikke dyrkes.Forekommer: under utryddelse.Forekommer: under inneslutning.Forekommer: med lav prevalens.Forekommer ikke: skadegjører funnet, men utryddet.Forekommer ikke: skadegjører funnet, men forekommer ikke lenger av andre årsaker enn utryddelse.Midlertidig forekomst (forekomsten av skadegjøreren forventes ikke å føre til etablering): tiltak ikke nødvendig.Midlertidig forekomst: tiltak nødvendig, under overvåking.Midlertidig forekomst: tiltak nødvendig, under utryddelse.Annet.
 
+4.3.
+
 Skadegjørerstatus i den berørte medlemsstaten før offisiell bekreftelse av forekomst, eller mistenkt forekomst, av skadegjøreren – angi, med en forklarende kommentar, et eller flere av følgende:Forekommer i alle deler av medlemsstaten.Forekommer bare i visse deler av medlemsstaten.Forekommer i visse deler av medlemsstaten der vertsplanten(e) ikke dyrkes.Forekommer: sesongavhengig.Forekommer: under utryddelse.Forekommer: under inneslutning (dersom utryddelse er umulig).Forekommer: med lav prevalens.Forekommer ikke: ingen registrering av skadegjøreren.Forekommer ikke: skadegjører utryddet.Forekommer ikke: skadegjører forekommer ikke lenger av andre årsaker enn utryddelse.Forekommer ikke: ugyldige skadegjørerregistreringer.Forekommer ikke: upålitelige skadegjørerregistreringer.Forekommer ikke: bare tilbakeholdt.Midlertidig forekomst: tiltak ikke nødvendig.Midlertidig forekomst: tiltak nødvendig, under overvåking.Midlertidig forekomst: tiltak nødvendig, under utryddelse.Annet.
+
+4.4.
 
 Skadegjørerstatus i den berørte medlemsstaten etter offisiell bekreftelse av forekomst av skadegjøreren – angi, med en forklarende kommentar, et eller flere av følgende:Forekommer i alle deler av medlemsstaten.Forekommer bare i visse deler av medlemsstaten.Forekommer i visse deler av medlemsstaten der vertsplanten(e) ikke dyrkes.Forekommer: sesongavhengig.Forekommer: under utryddelse.Forekommer: under inneslutning (dersom utryddelse er umulig).Forekommer: med lav prevalens.Forekommer ikke: skadegjører utryddet.Forekommer ikke: skadegjører forekommer ikke lenger av andre årsaker enn utryddelse.Forekommer ikke: ugyldige skadegjørerregistreringer.Forekommer ikke: upålitelige skadegjørerregistreringer.Forekommer ikke: bare tilbakeholdt.Midlertidig forekomst: tiltak ikke nødvendig.Midlertidig forekomst: tiltak nødvendig, under overvåking.Midlertidig forekomst: tiltak nødvendig, under utryddelse.Annet.
 
+36 I samsvar med konseptet fastsatt i International Standards for Phytosanitary Measures, ISPM 8 (1998): *Determination of pest status in an area*. Rome, IPPC, FAO (https://www.ippc.int/sites/default/files/documents//1323945129_ISPM_08_1998_En_2011-11-29_Refor.pdf).
+
 ### 5. Funn, prøvetaking, testing og bekreftelse av skadegjører
+
+5.1.
 
 Angi hvordan forekomsten av skadegjøreren ble oppdaget, eller hvordan mistanken om forekomsten oppsto – angi et av følgende:Skadegjørerrelatert offisiell undersøkelse.Undersøkelse knyttet til et eksisterende eller bekjempet utbrudd av et skadedyr.Enhver form for plantehelsekontroll.Sporingskontroll (både frem og tilbake) knyttet til den spesifikke forekomsten av skadegjøreren.Annen offisiell kontroll enn plantehelsekontroll.Opplysninger framlagt av profesjonelle aktører, laboratorier eller andre.Vitenskapelige opplysninger.Annet.
 
@@ -534,45 +889,81 @@ For kontroller angis datoen(e), beskrivelsen av metoden (herunder opplysninger o
 
 Dersom nr. 3 eller 4 velges, angis datoen for kontrollen(e) og en beskrivelse av kontrollmetoden (herunder opplysninger om visuelle eller andre kontroller). Det kan gis en kort beskrivelse av kontrollstedet og resultatene, og et eller flere bilder kan vedlegges.
 
+5.2.
+
 Dato for funnet – angi når det ansvarlige offentlige organet konstaterte forekomsten av skadegjøreren, fikk mistanke om forekomsten eller først ble underrettet om funnet. Dersom skadegjøreren ble funnet av en annen person enn det ansvarlige offentlige organet, angis datoen for funnet og for når den aktuelle personen underrettet det ansvarlige offentlige organet.
+
+5.3.
 
 Prøvetaking for laboratorieanalyse – dersom det er relevant, gis det opplysninger om prosedyren for prøvetaking for laboratorieanalyse, herunder, dato, metode og prøvestørrelse. Bilder kan vedlegges.
 
+5.4.
+
 Laboratorium – dersom det er relevant, angis navnet på og adressen til det eller de laboratoriene som deltar i identifiseringen av skadegjøreren.
 
+5.5.
+
 Diagnostisk metode – angi et av følgende:I henhold til fagfellevurdert protokoll – (angi en tydelig henvisning til protokollen og, dersom det er relevant, eventuelle avvik fra den).Annen (angi metoden).
+
+5.6.
 
 Dato for den offisielle bekreftelsen av skadegjørerens identitet.
 
 ### 6. Opplysninger om det angrepne området og alvorlighetsgraden av og kilden til utbruddet
 
+6.1.
+
 Størrelse på og avgrensning av det angrepne området – angi et eller flere av følgende (dersom omtrentlige tall angis, må det redegjøres for hvorfor det ikke er mulig å angi nøyaktige tall):Angrepet areal (m2, ha, km2).Antall angrepne planter (stk.).Mengden angrepne planteprodukter (tonn,m3).GPS-koordinater eller annen spesifikk beskrivelse (f.eks. Eurostats territoriale enheter (NUTS), geografiske koder (Geocodes), flyfoto) som avgrenser området.
+
+6.2.
 
 Egenskaper ved det angrepne området og dets nærhet – angi et eller flere av følgende:Friluft – produksjonsområde:Mark (dyrkbar mark, beitemark).Frukthage/vinmark.Planteskole.Skog.Friluft – annet:Privat hage.Offentlige steder.Bevaringsområde.Viltvoksende planter i andre områder enn bevaringsområder.Annet (angis nærmere).Fysisk lukkede forhold:Veksthus.Vinterhager o.l.Privat sted (bortsett fra veksthus).Offentlig sted (bortsett fra veksthus).Annet (angis nærmere).Angi for hvert alternativ om angrepet gjelder et eller flere av følgende:planter til planting,andre planter,planteprodukter ellerandre gjenstander.
 
+6.3.
+
 Vertsplanter i det angrepne området og dets nærhet – angi det vitenskapelige navnet på vertsplantene i det aktuelle området i samsvar med nr. 6.4. Det kan gis tilleggsopplysninger om vertsplantetettheten med henvisning til dyrkingspraksis og særlige egenskaper ved habitatene eller om mottakelige planteprodukter som er produsert i området.
+
+6.4.
 
 Angrepne planter, planteprodukter og andre gjenstander – angi det vitenskapelige navnet på den eller de angrepne vertsplantene. Sorten og, for planteprodukter, varetypen kan angis, alt etter hva som er relevant.
 
+6.5.
+
 Smittebærere i området – dersom det er relevant, angis et av følgende:Det vitenskapelige navnet på smittebærerne minst på slektsnivå.Dersom nr. 1 ikke får anvendelse, det vitenskapelige navnet som er godkjent av en internasjonal organisasjon, og navnet på den aktuelle internasjonale organisasjonen.Dersom verken nr. 1) eller nr. 2) får anvendelse, det vitenskapelige navnet fra den mest pålitelige informasjonskilden med en henvisning til den kilden. Det kan angis tilleggsopplysninger om tettheten av smittebærere eller egenskaper ved planter som er viktige for smittebærerne.
 
+6.6.
+
 Utbruddets alvorlighetsgrad – beskriv det aktuelle omfanget av angrepet, symptomer og skader. Dersom det er relevant, angis prognoser så snart dette foreligger.
+
+6.7.
 
 Kilde til utbruddet – angi den bekreftede eller, i påvente av bekreftelse, den mistenkte spredningsveien for skadegjøreren inn i området, alt etter hva som er relevant. Det kan angis tilleggsopplysninger om skadegjørerens bekreftede eller potensielle opprinnelse.
 
 ### 7. Offisielle plantehelsetiltak
 
+7.1.
+
 Offisielle plantehelsetiltak – angi et av følgende alternativer sammen med forklarende kommentarer:Det er truffet offisielle plantehelsetiltak i form av kjemisk, biologisk eller fysisk behandling.Det er truffet andre offisielle plantehelsetiltak enn tiltak i form av kjemisk, biologisk eller fysisk behandling.Det vil bli truffet offisielle plantehelsetiltak.En beslutning om offisielle plantehelsetiltak er under behandling.Ingen offisielle plantehelsetiltak (forklar hvorfor).
 
 Dersom det er opprettet et avgrenset område, angis det under nr. 1, 2 og 3 om tiltakene er eller vil bli truffet i eller utenfor dette området.
 
+7.2.
+
 Dato for vedtakelse av offisielle plantehelsetiltak (angi den forventede varigheten av eventuelle midlertidige tiltak).
+
+7.3.
 
 Identifisering av området som omfattes av offisielle plantehelsetiltak – angi metoden som er brukt for å identifisere området som omfattes av offisielle plantehelsetiltak. Angi resultatene av undersøkelsene som er gjennomført.
 
+7.4.
+
 Formålet med de offisielle plantehelsetiltakene – angi et av følgende:Utryddelse.Inneslutning (dersom utryddelse er umulig).
 
+7.5.
+
 Tiltak som påvirker varebevegelsen – angi et av følgende alternativer:Tiltakene påvirker importen av varer til Unionen eller varebevegelsen i Unionen (beskriv tiltaket).Tiltakene påvirker ikke importen av varer til Unionen eller varebevegelsen i Unionen.
+
+7.6.
 
 Særlige undersøkelser – dersom det gjennomføres undersøkelser som en del av offisielle plantehelsetiltak, beskrives metoden som er brukt, samt varigheten og omfanget av dem.
 
@@ -592,6 +983,123 @@ For å lese vedlegg II om det felles innførselsdokumentet om helse (CHED), se p
 ### VEDLEGG III
 Sammenligningstabellen nevnt i artikkel 47 nr. 2
 
+1\. Direktiv [94/3/EF](eu/31994l0003*)
+
+| Direktiv [94/3/EF](eu/31994l0003*) | Denne forordning |
+| --- | --- |
+| Artikkel 1 | Artikkel 2 nr. 33 |
+| Artikkel 2 nr. 1 og 2 | Artikkel 33 nr. 1 |
+| Artikkel 3 | Artikkel 33 nr. 2 |
+| Artikkel 4 | – |
+| Artikkel 5 | Artikkel 2 nr. 34 |
+| Artikkel 6 | Nr. 10 i vedlegg I |
+| Artikkel 7 | – |
+| Artikkel 8 | – |
+
+2\. Forordning [(EU) nr. 16/2011](eu/32011r0016)
+
+| Forordning [(EU) nr. 16/2011](eu/32011r0016) | Denne forordning |
+| --- | --- |
+| Artikkel 1 nr. 1 | Artikkel 2 nr. 2 |
+| Artikkel 1 nr. 2 | Artikkel 2 nr. 3 |
+| Artikkel 1 nr. 3 | Artikkel 2 nr. 4 |
+| Artikkel 1 nr. 4 | Artikkel 2 nr. 15 |
+| Artikkel 1 nr. 5 | Artikkel 2 nr. 16 |
+| Artikkel 1 nr. 5 bokstav a) | Artikkel 2 nr. 17 |
+| Artikkel 1 nr. 5 bokstav b) | Artikkel 2 nr. 18 |
+| Artikkel 1 nr. 6 | Artikkel 2 nr. 20 |
+| Artikkel 1 nr. 7 | Artikkel 2 nr. 22 |
+| Artikkel 1 nr. 8 | Artikkel 2 nr. 23 |
+| Artikkel 1 nr. 9 | – |
+| Artikkel 2 nr. 1 | Artikkel 14 nr. 1 |
+| Artikkel 2 nr. 2 | Artikkel 4 nr. 2 |
+| Artikkel 2 nr. 3 | Artikkel 4 nr. 3 |
+| Artikkel 2 nr. 4 | Artikkel 14 nr. 2 |
+| Artikkel 2 nr. 5 | Artikkel 13 |
+| Artikkel 2 nr. 6 | Artikkel 14 nr. 3 |
+| Artikkel 3 nr. 1 | Artikkel 17 nr. 1 og 2 |
+| Artikkel 3 nr. 2 | Artikkel 17 nr. 3 |
+| Artikkel 3 nr. 3 | Artikkel 17 nr. 4 |
+| Artikkel 4 nr. 1 | Artikkel 18 nr. 1 og 2 |
+| Artikkel 4 nr. 2 | Artikkel 18 nr. 3 |
+| Artikkel 5 nr. 1 | Artikkel 20 nr. 1 og 2 |
+| Artikkel 5 nr. 2 | Artikkel 20 nr. 3 |
+| Artikkel 6 nr. 1 | Artikkel 22 nr. 1 |
+| Artikkel 6 nr. 2 | Artikkel 22 nr. 2 |
+| Artikkel 6 nr. 3 | Artikkel 22 nr. 3 |
+| Artikkel 6 nr. 4 | Artikkel 22 nr. 4 |
+| Artikkel 6 nr. 5 | Artikkel 22 nr. 5 |
+| Artikkel 7 nr. 1 | Artikkel 15 nr. 1 |
+| Artikkel 7 nr. 2 | Artikkel 15 nr. 2 |
+| Artikkel 7 nr. 3 | Artikkel 15 nr. 3 |
+| Artikkel 7 nr. 4 | Artikkel 15 nr. 4 |
+| Artikkel 7 nr. 5 | – |
+| Artikkel 8 første ledd bokstav a)–f) | Artikkel 24 nr. 1 bokstav a)–f) |
+| Artikkel 8 annet ledd | – |
+| Artikkel 9 nr. 1 | Artikkel 25 nr. 1 bokstav b) |
+| Artikkel 9 nr. 2 | Artikkel 25 nr. 2 og 3 |
+| Artikkel 10 nr. 1 og 2 | Artikkel 27 nr. 1 |
+| Artikkel 11 bokstav a) | Artikkel 24 nr. 3 |
+| Artikkel 11 bokstav b) | Artikkel 24 nr. 4 |
+| Artikkel 12 | – |
+
+3\. Gjennomføringsbeslutning [2014/917/EU](eu/32014d0917)
+
+| Gjennomføringsbeslutning [2014/917/EU](eu/32014d0917) | Denne forordning |
+| --- | --- |
+| Artikkel 1 nr. 1 og 2 | – |
+| Artikkel 2 nr. 1 og 3 | Artikkel 32 nr. 1 |
+| Artikkel 2 nr. 2 og 4 | Artikkel 32 nr. 3 |
+| Artikkel 2 nr. 5 | Artikkel 32 nr. 4 |
+| Artikkel 3 | – |
+| Vedlegg | Vedlegg I |
+
+4\. Gjennomføringsbeslutning [(EU) 2015/1918](eu/32015d1918)
+
+| Gjennomføringsbeslutning [(EU) 2015/1918](eu/32015d1918) | Denne forordning |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 nr. 1 | – |
+| Artikkel 3 nr. 2 | – |
+| Artikkel 3 nr. 3 | – |
+| Artikkel 3 nr. 4 | – |
+| Artikkel 4 | Artikkel 12 |
+| Artikkel 5 | – |
+| Artikkel 6 | Artikkel 26 nr. 1 |
+| Artikkel 7 bokstav a) | Artikkel 8 nr. 1 |
+| Artikkel 7 bokstav b) | Artikkel 8 nr. 2 |
+| Artikkel 7 bokstav c) | – |
+| Artikkel 7 bokstav d) | Artikkel 15 nr. 1 |
+| Artikkel 8 nr. 1 | Artikkel 15 nr. 1 |
+| Artikkel 8 nr. 2 bokstav a) | Artikkel 16 nr. 1 bokstav a) |
+| Artikkel 8 nr. 2 bokstav b) | Artikkel 16 nr. 1 bokstav b) |
+| Artikkel 8 nr. 2 bokstav c) | Artikkel 16 nr. 1 bokstav c) |
+| Artikkel 8 nr. 2 bokstav d) | Artikkel 16 nr. 1 bokstav d) |
+| Artikkel 8 nr. 2 bokstav e) | – |
+| Artikkel 8 nr. 2 bokstav f) | – |
+| Artikkel 8 nr. 2 bokstav g) | Artikkel 16 nr. 1 bokstav f) |
+| Artikkel 9 nr. 1 | Artikkel 10 nr. 1 |
+| Artikkel 9 nr. 2 | – |
+| Artikkel 10 nr. 1 | Artikkel 10 nr. 2 |
+| Artikkel 10 nr. 2 og 3 | Artikkel 11 nr. 1 |
+| Artikkel 10 nr. 4 | Artikkel 11 nr. 3 |
+| Artikkel 10 nr. 5 | Artikkel 11 nr. 2 |
+| Artikkel 11 | Artikkel 26 nr. 2 |
+| Artikkel 12 | Artikkel 11 nr. 2 bokstav b) og nr. 3 bokstav b) |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+
+5\. Gjennomføringsbeslutning [(EU) 2018/1553](eu/32018d1553)
+
+| Gjennomføringsbeslutning [(EU) 2018/1553](eu/32018d1553) | Denne forordning |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1 | Artikkel 39 nr.1, 3 og 4 |
+| Artikkel 2 nr. 2 | Artikkel 39 nr. 2 |
+| Artikkel 2 nr. 3 | – |
+| Artikkel 3 | – |
+
 ### Forordning [(EU) 2024/2104](eu/32024r2104) om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler
 
 > Tilføyd ved forskrift [18 juni 2025 nr. 1068](forskrift/2025-06-18-1068).
@@ -601,6 +1109,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I k
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2024/2104](eu/32024r2104)
 av 27. juni 2024
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som iverksettes for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 45 nr. 4, og
+
+ut fra følgende betraktninger:
 
 1. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) oppretter en ramme for offentlig kontroll og annen offentlig virksomhet for å verifisere at Unionens regelverk for den landbruksbaserte næringsmiddelkjeden overholdes. Denne rammen omfatter offentlig kontroll av dyr og varer som innføres til Unionen.
 2. Artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) pålegger medlemsstatene å gjennomføre offentlig kontroll på utpekte grensekontrollstasjoner av hver enkelt forsendelse av de kategoriene av dyr og varer som er nevnt i den bestemmelsen. For slike dyr og varer skal hver forsendelse forhåndsmeldes og kontrolleres på grensekontrollstasjoner ved hjelp av det felles innførselsdokumentet om helse eller hygiene (CHED-dokument) som er nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625). CHED-dokumentet skal registreres i informasjonsstyringssystemet for offentlig kontroll (IMSOC) som er opprettet og forvaltet av Kommisjonen i samsvar med artikkel 131 nr. 1 i nevnte forordning.
@@ -616,6 +1132,24 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 12. For å sikre et tilstrekkelig sikkerhetsnivå for elektroniske identifikasjonsmidler og elektronisk sertifisering og for å digitalisere og harmonisere framgangsmåten bør bruken av en elektronisk melding om ankomst som sendes inn via TRACES, oppfylle kravene i standardene for elektroniske signaturer og elektroniske segl med sine ulike identitetssikringsnivåer fastsatt i europaparlaments- og rådsforordning [(EU) nr. 910/2014](eu/32014r0910)6 og Kommisjonens gjennomføringsbeslutning [(EU) 2015/1506](eu/32015d1506)7.
 13. Det er hensiktsmessig å fastsette en utsatt anvendelsesdato for denne forordningen, idet det tas hensyn til den tiden som er nødvendig for å sikre tilknytning av TRACES med hensyn til meldingen om ankomst fastsatt i denne forordningen til det elektroniske utvekslingssystemet Den europeiske unions miljø med ett felles meldepunkt på tollområdet (EU CSW-CERTEX), opprettet ved europaparlaments- og rådsforordning [(EU) 2022/2399](eu/32022r2399)8.
 
+1 EUT L 95 av 7.4.2017, s. 1, ELI: [http://data.europa.eu/eli/reg/2017/625/oj](http://data.europa.eu/eli/reg/2017/625/oj).
+
+2 Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen») (EUT L 261 av 14.10.2019, s. 37, ELI: [http://data.europa.eu/eli/reg_impl/2019/1715/oj](http://data.europa.eu/eli/reg_impl/2019/1715/oj)).
+
+3 Delegert kommisjonsforordning [(EU) 2019/2124](eu/32019r2124) av 10. oktober 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for offentlig kontroll av forsendelser av dyr og varer i transitt, ved omlasting og videre transport gjennom Unionen, og om endring av kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798), [(EF) nr. 1251/2008](eu/32008r1251), [(EF) nr. 119/2009](eu/32009r0119), [(EU) nr. 206/2010](eu/32010r0206), [(EU) nr. 605/2010](eu/32010r0605), [(EU) nr. 142/2011](eu/32011r0142), [(EU) nr. 28/2012](eu/32012r0028), Kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) og kommisjonsvedtak [2007/777/EF](eu/32007d0777) (EUT L 321 av 12.12.2019, s. 73, ELI: [http://data.europa.eu/eli/reg_del/2019/2124/oj](http://data.europa.eu/eli/reg_del/2019/2124/oj)).
+
+4 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952) av 9. oktober 2013 om fastsettelse av Unionens tollkodes (EUT L 269 av 10.10.2013, s. 1, ELI: [http://data.europa.eu/eli/reg/2013/952/oj](http://data.europa.eu/eli/reg/2013/952/oj)).
+
+5 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1, ELI: [http://data.europa.eu/eli/reg/1987/2658/oj](http://data.europa.eu/eli/reg/1987/2658/oj)).
+
+6 Europaparlaments- og rådsforordning [(EU) nr. 910/2014](eu/32014r0910) av 23. juli 2014 om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked og om oppheving av direktiv [1999/93/EF](eu/31999l0093) (EUT L 257 av 28.8.2014, s. 73, ELI: [http://data.europa.eu/eli/reg/2014/910/oj](http://data.europa.eu/eli/reg/2014/910/oj)).
+
+7 Kommisjonens gjennomføringsbeslutning [(EU) 2015/1506](eu/32015d1506) av 8. september 2015 om fastsettelse av spesifikasjoner for formater for avanserte elektroniske signaturer og avanserte segl som skal anerkjennes av offentlige organer i henhold til artikkel 27 nr. 5 og artikkel 37 nr. 5 i europaparlaments- og rådsforordning [(EU) nr. 910/2014](eu/32014r0910) om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (EUT L 235 av 9.9.2015, s. 37, ELI: [http://data.europa.eu/eli/dec_impl/2015/1506/oj](http://data.europa.eu/eli/dec_impl/2015/1506/oj)).
+
+8 Europaparlaments- og rådsforordning [(EU) 2022/2399](eu/32022r2399) av 23. november 2022 om opprettelse av Den europeiske unions miljø med ett felles meldepunkt på tollområdet og om endring av forordning [(EU) nr. 952/2013](eu/32013r0952) (EUT L 317 av 9.12.2022, s. 1, ELI: [http://data.europa.eu/eli/reg/2022/2399/oj](http://data.europa.eu/eli/reg/2022/2399/oj)).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål og virkeområde
 
 Denne forordningen fastsetter regler med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen, og som ikke omfattes av artikkel 47 og 48 i forordning [(EU) 2017/625](eu/32017r0625).
@@ -630,17 +1164,17 @@ I denne forordningen menes med«TRACES» systemet som er nevnt i artikkel 133 nr
 
 ### Artikkel 4. Vilkår for å be om melding om ankomst
 
-1. Vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av forsendelsene, forutsatt at grensekontrollstasjonen for første ankomst til Unionen av forsendelsene ligger innenfor territoriet til vedkommende myndigheters medlemsstat.
+1\. Vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av forsendelsene, forutsatt at grensekontrollstasjonen for første ankomst til Unionen av forsendelsene ligger innenfor territoriet til vedkommende myndigheters medlemsstat.
 
-2. Meldingen om ankomst skal omfattestandardisert informasjon som beskriver forsendelsene tilstrekkelig detaljert til at vedkommende myndigheter umiddelbart og utvetydig kan identifisere forsendelsene, deres bestemmelsessted og tiltenkte bruk, i samsvar med nr. 4, ogen erklæring fra den driftsansvarlige for forsendelsene om at opplysningene nevnt i bokstav a) er korrekte og fullstendige.
+2\. Meldingen om ankomst skal omfattestandardisert informasjon som beskriver forsendelsene tilstrekkelig detaljert til at vedkommende myndigheter umiddelbart og utvetydig kan identifisere forsendelsene, deres bestemmelsessted og tiltenkte bruk, i samsvar med nr. 4, ogen erklæring fra den driftsansvarlige for forsendelsene om at opplysningene nevnt i bokstav a) er korrekte og fullstendige.
 
-3. For hver forsendelse skal den driftsansvarlige som er ansvarlig for forsendelsene, før forsendelsene ankommer, fylle ut og sende inn meldingen om ankomst i TRACES på et offisielt EU-språk i innførselsmedlemsstaten, for videresending til vedkommende myndigheter på grensekontrollstasjonen for første ankomst til Unionen. En medlemsstat kan imidlertid samtykke i at en melding utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.
+3\. For hver forsendelse skal den driftsansvarlige som er ansvarlig for forsendelsene, før forsendelsene ankommer, fylle ut og sende inn meldingen om ankomst i TRACES på et offisielt EU-språk i innførselsmedlemsstaten, for videresending til vedkommende myndigheter på grensekontrollstasjonen for første ankomst til Unionen. En medlemsstat kan imidlertid samtykke i at en melding utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.
 
-4. Meldingen om ankomst skal fylles ut med følgende standardiserte informasjon:Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen som sender forsendelsen.Navn på grensekontrollstasjonen for første innførsel til Unionen.Navn på og adresse til den fysiske eller juridiske personen som forsendelsen er bestemt til.Navn, adresse, land og ISO-landkode for stedet der forsendelsen leveres for endelig lossing.Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen i medlemsstaten som er ansvarlig for forsendelsen når den forevises på grensekontrollstasjonen.Typen av dokumenter som følger med forsendelsen, deres unike kode og utstedelseslandet, dersom det er relevant.Henvisninger til handelsdokumenter, dersom det er relevant.Dato og klokkeslett for forventet ankomst til innførselsstedet der grensekontrollstasjonen ligger.Varenes opprinnelsesland eller landet der varene er dyrket, høstet eller produsert.Det endelige transportmiddelet for forsendelse til Unionen og identifikasjonen av det endelige transportmiddelet.Landet der varene ble lastet på det endelige transportmiddelet med henblikk på forsendelse til Unionen.Navn, adresse, land og ISO-landkode for opprinnelsesanleggene og, dersom det er relevant, deres registrerings- eller godkjenningsnummer.Kategorien for temperaturen som kreves under transporten (omgivelsestemperatur, kjølt, fryst), dersom det er relevant.Containernummer og forseglingsnummer, dersom det er relevant.Den tiltenkte bruken av varene eller deres kategori som angitt i de offisielle sertifikatene, offisielle attestasjonene, erklæringene eller handelsdokumentene, når det er påkrevd.Opplysninger om varenes samsvar.Forsendelsens tiltenkte bestemmelsessted etter at forsendelsen har forlatt grensekontrollstasjonen, som følger:«For det indre marked» dersom forsendelsen er beregnet på å bringes i omsetning i Unionen.«For transitt», når det gjelder forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler beregnet på transitt til et bestemmelsestredjeland, med angivelse av navnet på og ISO-landkoden for bestemmelsestredjelandet og, når det gjelder forsendelse av ikke-godkjente produkter som krysser Unionens territorium på vei, jernbane eller vannvei, navnet på utførselsgrensekontrollstasjonen, som ligger i samme medlemsstat som grensekontrollstasjonen.«For overføring til», dersom forsendelsen i henhold til nasjonale regler kan overføres fra grensekontrollstasjonen til et kontrollsted nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625), som ligger i samme medlemsstat som grensekontrollstasjonen, for ytterligere offentlig kontroll, med angivelse av navnet på kontrollstedet.«For videre transport til» dersom forsendelsen i henhold til nasjonale regler kan overføres til et anlegg for videre transport utpekt i samsvar med artikkel 9 i delegert forordning [(EU) 2019/2124](eu/32019r2124), som ligger i samme medlemsstat som grensekontrollstasjonen, med angivelse av nærmere opplysninger om dette anlegget.Ved forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler som ikke er i direkte transitt til et tredjeland, følgende kontrollerte bestemmelsessteder der forsendelsen skal leveres før den forlater territoriet til medlemsstaten der grensekontrollstasjonen ligger:Et tollager som nevnt i artikkel 240 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952).Et midlertidig lagringssted som nevnt i artikkel 147 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952).En frisone, dersom det er relevant.Et fôrforetaksanlegg, med angivelse av registrerings- eller godkjenningsnummer.Beskrivelsen av varene i forsendelsen basert på offisielle sertifikater, offisielle attesteringer, erklæringer eller handelsdokumenter, som gjør det mulig å identifisere dem og beregne gebyrer, herunder alt følgende:KN-koden og betegnelsen fastsatt i forordning [(EØF) nr. 2658/87](eu/31987r2658) og Den europeiske unions integrerte tariffkode (TARIC-kode).Nettovekt i kg.Bruttovekt, bestående av nettovekt pluss indre emballasje og annen emballasje, men uten transportcontainere og annet transportutstyr.Type emballasje og totalt antall kolli i forsendelsen.Partinummer.Produkttypen, herunder hvorvidt varene er beregnet på å bringes i omsetning som økologiske produkter eller omleggingsprodukter.Antall deler eller volum dersom det er relevant.
+4\. Meldingen om ankomst skal fylles ut med følgende standardiserte informasjon:Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen som sender forsendelsen.Navn på grensekontrollstasjonen for første innførsel til Unionen.Navn på og adresse til den fysiske eller juridiske personen som forsendelsen er bestemt til.Navn, adresse, land og ISO-landkode for stedet der forsendelsen leveres for endelig lossing.Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen i medlemsstaten som er ansvarlig for forsendelsen når den forevises på grensekontrollstasjonen.Typen av dokumenter som følger med forsendelsen, deres unike kode og utstedelseslandet, dersom det er relevant.Henvisninger til handelsdokumenter, dersom det er relevant.Dato og klokkeslett for forventet ankomst til innførselsstedet der grensekontrollstasjonen ligger.Varenes opprinnelsesland eller landet der varene er dyrket, høstet eller produsert.Det endelige transportmiddelet for forsendelse til Unionen og identifikasjonen av det endelige transportmiddelet.Landet der varene ble lastet på det endelige transportmiddelet med henblikk på forsendelse til Unionen.Navn, adresse, land og ISO-landkode for opprinnelsesanleggene og, dersom det er relevant, deres registrerings- eller godkjenningsnummer.Kategorien for temperaturen som kreves under transporten (omgivelsestemperatur, kjølt, fryst), dersom det er relevant.Containernummer og forseglingsnummer, dersom det er relevant.Den tiltenkte bruken av varene eller deres kategori som angitt i de offisielle sertifikatene, offisielle attestasjonene, erklæringene eller handelsdokumentene, når det er påkrevd.Opplysninger om varenes samsvar.Forsendelsens tiltenkte bestemmelsessted etter at forsendelsen har forlatt grensekontrollstasjonen, som følger:«For det indre marked» dersom forsendelsen er beregnet på å bringes i omsetning i Unionen.«For transitt», når det gjelder forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler beregnet på transitt til et bestemmelsestredjeland, med angivelse av navnet på og ISO-landkoden for bestemmelsestredjelandet og, når det gjelder forsendelse av ikke-godkjente produkter som krysser Unionens territorium på vei, jernbane eller vannvei, navnet på utførselsgrensekontrollstasjonen, som ligger i samme medlemsstat som grensekontrollstasjonen.«For overføring til», dersom forsendelsen i henhold til nasjonale regler kan overføres fra grensekontrollstasjonen til et kontrollsted nevnt i artikkel 53 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625), som ligger i samme medlemsstat som grensekontrollstasjonen, for ytterligere offentlig kontroll, med angivelse av navnet på kontrollstedet.«For videre transport til» dersom forsendelsen i henhold til nasjonale regler kan overføres til et anlegg for videre transport utpekt i samsvar med artikkel 9 i delegert forordning [(EU) 2019/2124](eu/32019r2124), som ligger i samme medlemsstat som grensekontrollstasjonen, med angivelse av nærmere opplysninger om dette anlegget.Ved forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler som ikke er i direkte transitt til et tredjeland, følgende kontrollerte bestemmelsessteder der forsendelsen skal leveres før den forlater territoriet til medlemsstaten der grensekontrollstasjonen ligger:Et tollager som nevnt i artikkel 240 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952).Et midlertidig lagringssted som nevnt i artikkel 147 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952).En frisone, dersom det er relevant.Et fôrforetaksanlegg, med angivelse av registrerings- eller godkjenningsnummer.Beskrivelsen av varene i forsendelsen basert på offisielle sertifikater, offisielle attesteringer, erklæringer eller handelsdokumenter, som gjør det mulig å identifisere dem og beregne gebyrer, herunder alt følgende:KN-koden og betegnelsen fastsatt i forordning [(EØF) nr. 2658/87](eu/31987r2658) og Den europeiske unions integrerte tariffkode (TARIC-kode).Nettovekt i kg.Bruttovekt, bestående av nettovekt pluss indre emballasje og annen emballasje, men uten transportcontainere og annet transportutstyr.Type emballasje og totalt antall kolli i forsendelsen.Partinummer.Produkttypen, herunder hvorvidt varene er beregnet på å bringes i omsetning som økologiske produkter eller omleggingsprodukter.Antall deler eller volum dersom det er relevant.
 
-5. Vedkommende myndigheter på grensekontrollstasjonene kan legge til skriftlig dokumentasjon om offentlig kontroll nevnt i artikkel 13 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) i meldingen om ankomst som sendes inn i TRACES, herunder følgende beslutninger som er truffet om forsendelsene:«Kan godkjennes for det indre marked».«Kan godkjennes for overføring».«Kan godkjennes for videre transport».«Kan godkjennes for transitt».«Kan godkjennes for varer som ikke oppfyller kravene».«Kan ikke godkjennes».
+5\. Vedkommende myndigheter på grensekontrollstasjonene kan legge til skriftlig dokumentasjon om offentlig kontroll nevnt i artikkel 13 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) i meldingen om ankomst som sendes inn i TRACES, herunder følgende beslutninger som er truffet om forsendelsene:«Kan godkjennes for det indre marked».«Kan godkjennes for overføring».«Kan godkjennes for videre transport».«Kan godkjennes for transitt».«Kan godkjennes for varer som ikke oppfyller kravene».«Kan ikke godkjennes».
 
-6. Meldinger om ankomst som driftsansvarlige som er ansvarlige for forsendelsen undertegner i TRACES med sin elektroniske signatur, skal være utstyrt med vedkommende myndigheters avanserte eller kvalifiserte elektroniske segl.
+6\. Meldinger om ankomst som driftsansvarlige som er ansvarlige for forsendelsen undertegner i TRACES med sin elektroniske signatur, skal være utstyrt med vedkommende myndigheters avanserte eller kvalifiserte elektroniske segl.
 
 ### Artikkel 5. Ikrafttredelse og anvendelse
 
@@ -648,9 +1182,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den eu
 
 Den får anvendelse fra 3. mars 2025.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 27. juni 2024.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 27. juni 2024.*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*
 
 ## Forordninger i PDF
 

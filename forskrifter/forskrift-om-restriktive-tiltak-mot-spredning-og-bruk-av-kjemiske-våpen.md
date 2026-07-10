@@ -68,43 +68,43 @@ I denne forordning menes med«kjemiske våpen»: kjemiske våpen som definert i 
 
 ### Artikkel 2
 
-1. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, skal fryses.
+1\. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
 
-3. Vedlegg I omfatter fysiske eller juridiske personer, enheter og organer som i samsvar med artikkel 3 nr. 1 i rådsbeslutning (FUSP) 2018/1544 av Rådet anses å værefysiske eller juridiske personer, enheter eller organer som er ansvarlige for eller yter finansiell, faglig eller materiell støtte til eller på annen måte er involvert iproduksjon, erverv, besittelse, utvikling, transport, lagring eller overføring av kjemiske våpen,bruk av kjemiske våpen, ellerenhver forberedelse til bruk av kjemiske våpen,fysiske eller juridiske personer, enheter eller organer som bistår, oppmuntrer eller påvirker en fysisk eller juridisk person, en enhet eller et organ til å delta i en aktivitet som nevnt i bokstav a) ovenfor, og dermed forårsake eller medvirke til en fare for at slike aktiviteter kan utføres, ogfysiske eller juridiske personer, enheter eller organer som er tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a) og b) ovenfor.
+3\. Vedlegg I omfatter fysiske eller juridiske personer, enheter og organer som i samsvar med artikkel 3 nr. 1 i rådsbeslutning (FUSP) 2018/1544 av Rådet anses å værefysiske eller juridiske personer, enheter eller organer som er ansvarlige for eller yter finansiell, faglig eller materiell støtte til eller på annen måte er involvert iproduksjon, erverv, besittelse, utvikling, transport, lagring eller overføring av kjemiske våpen,bruk av kjemiske våpen, ellerenhver forberedelse til bruk av kjemiske våpen,fysiske eller juridiske personer, enheter eller organer som bistår, oppmuntrer eller påvirker en fysisk eller juridisk person, en enhet eller et organ til å delta i en aktivitet som nevnt i bokstav a) ovenfor, og dermed forårsake eller medvirke til en fare for at slike aktiviteter kan utføres, ogfysiske eller juridiske personer, enheter eller organer som er tilknyttet de fysiske eller juridiske personene, enhetene eller organene omtalt i bokstav a) og b) ovenfor.
 
 ### Artikkel 3
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 2 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
-2. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 4
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, eller er gjenstand for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, eller er gjenstand for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
-2. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 5
 
-1. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, ogbetalingen ikke er i strid med artikkel 2 nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg I, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsen i artikkel 2 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg I, ogbetalingen ikke er i strid med artikkel 2 nr. 2.
 
-2. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal innen to uker underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 6
 
-1. Bestemmelsen i artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
+1\. Bestemmelsen i artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-2. Bestemmelsen i artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
+2\. Bestemmelsen i artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
 
 ### Artikkel 7
 
-1. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 2, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
+1\. Med forbehold om gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 2, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av disse opplysningene.
 
-2. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
+2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
-3. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
+3\. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 8
 
@@ -112,61 +112,61 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 9
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
 
 ### Artikkel 10
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en person, en enhet eller et organ omtalt i bokstav a).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en person, en enhet eller et organ omtalt i bokstav a).
 
-2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
+2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
-3. Denne artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
+3\. Denne artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
 
 ### Artikkel 11
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til artikkel 2, og tillatelser som er gitt i henhold til artikkel 3, 4 og 5,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til artikkel 2, og tillatelser som er gitt i henhold til artikkel 3, 4 og 5,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
 
 ### Artikkel 12
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2, skal vedlegg I endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2, skal vedlegg I endres tilsvarende.
 
-2. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet omtalt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+2\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet omtalt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
 
-3. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listen i vedlegg I skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg I skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
-5. Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra medlemsstatene.
+5\. Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra medlemsstatene.
 
 ### Artikkel 13
 
-1. Vedlegg I inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
+1\. Vedlegg I inneholder begrunnelsen for at de berørte fysiske eller juridiske personene, enhetene eller organene er listeført.
 
-2. Vedlegg I inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+2\. Vedlegg I inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 14
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
 
 ### Artikkel 15
 
-1. Kommisjonen skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt den i henhold til denne forordning. Disse oppgavene består blant annet iå føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordning, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Kommisjonen skal behandle personopplysninger for å kunne utføre oppgavene som er pålagt den i henhold til denne forordning. Disse oppgavene består blant annet iå føre innholdet i vedlegg I inn i EUs elektroniske konsoliderte liste over personer og enheter underlagt restriktive tiltak og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordning, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
-2. For formålet i nr. 1 skal Kommisjonens tjeneste oppført i vedlegg II utpekes som «behandlingsansvarlig» for Kommisjonen i henhold til artikkel 2 bokstav d) i forordning [(EF) nr. 45/2001](eu/32001r0045) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til forordning [(EF) nr. 45/2001](eu/32001r0045).
+2\. For formålet i nr. 1 skal Kommisjonens tjeneste oppført i vedlegg II utpekes som «behandlingsansvarlig» for Kommisjonen i henhold til artikkel 2 bokstav d) i forordning [(EF) nr. 45/2001](eu/32001r0045) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til forordning [(EF) nr. 45/2001](eu/32001r0045).
 
 ### Artikkel 16
 
-1. Medlemsstatene skal utpeke de kompetente myndigheter nevnt i denne forordning og identifisere dem på nettsidene oppført i vedlegg II. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg II.
+1\. Medlemsstatene skal utpeke de kompetente myndigheter nevnt i denne forordning og identifisere dem på nettsidene oppført i vedlegg II. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på deres nettsider oppført i vedlegg II.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes; Kommisjonen skal også underrettes om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, og om hvordan disse myndighetene kan kontaktes; Kommisjonen skal også underrettes om alle senere endringer.
 
-3. Der denne forordning inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg II benyttes.
+3\. Der denne forordning inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg II benyttes.
 
 ### Artikkel 17
 
@@ -178,6 +178,8 @@ Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions ti
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
+____________
+
 ### VEDLEGG I
 Liste over fysiske eller juridiske personer, enheter eller organer henvist til i artikkel 2
 
@@ -185,6 +187,138 @@ EUs konsoliderte liste over personer, enheter og organer underlagt restriktive t
 
 Listeførte med programkode («programme») CHEM – CHEMICAL WEAPONS er listeført under denne forskriften.
 
+1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken. [Denne fotnoten er tilsynelatende utdatert, Lovdatas anm.]
+
+____________
+
 ### VEDLEGG II
 
 **Internettsider for opplysninger om kompetente myndigheter og adresse for å notifisere EU-kommisjonen**
+
+BELGIUM
+
+https://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en_veiligheid/sancties
+
+https://diplomatie.belgium.be/fr/politique/themes_politiques/paix_et_securite/sanctions
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/101
+
+CZECH REPUBLIC
+
+[www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+DENMARK
+
+[http://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+
+GERMANY
+
+[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
+
+ESTONIA
+
+[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+IRELAND
+
+[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+GREECE
+
+[http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN
+
+http://www.exteriores.gob.es/Portal/en/PoliticaExteriorCooperacion/GlobalizacionOportunidadesRiesgos/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+[http://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions)
+
+CROATIA
+
+http://www.mvep.hr/sankcije
+
+ITALY
+
+https://www.esteri.it/mae/it/politica_estera/politica_europea/misure_deroghe
+
+CYPRUS
+
+http://www.mfa.gov.cy/sanctions
+
+LATVIA
+
+http://www.mfa.gov.lv/en/security/4539
+
+LITHUANIA
+
+http://www.urm.lt/sanctions
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/mesures-restrictives.html
+
+HUNGARY
+
+http://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf
+
+MALTA
+
+https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/en/european-foreign-policy/foreign-policy/europe/eu-sanctions-national-authorities/
+
+POLAND
+
+http://www.msz.gov.pl
+
+PORTUGAL
+
+http://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+http://formin.finland.fi/kvyhteistyo/pakotteet
+
+SWEDEN
+
+http://www.ud.se/sanktioner
+
+UNITED KINGDOM
+
+https://www.gov.uk/sanctions-embargoes-and-restrictions
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Service for Foreign Policy Instruments (FPI)
+
+EEAS 07/99
+
+B-1049 Brussels, Belgium
+
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)

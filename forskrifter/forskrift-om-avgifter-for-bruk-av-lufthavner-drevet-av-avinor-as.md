@@ -184,7 +184,20 @@ For rene fraktflygninger kan Avinor bestemme at det skal betales en høyere star
 
 ### § 24. Beregning av startavgift for fly under 8 000 kg
 
-Startavgift for luftfartøy som har høyeste tillatte startvekt lavere enn 8 000 kg beregnes ved å multiplisere satsen for full avgift per tonn i henhold til [§ 23 første ledd bokstav a](forskrift/2019-12-20-2137/§23/ledd/1/bokstav/a) med følgende faktorer:*Luftfartøyets høyeste tillatte startvekt i kg**faktor*0–1 0002,611 001–1 5003,211 501–2 0004,502 001–2 5001,142 501–3 0001,263 001–4 0002,434 001–5 0003,105 001–6 0003,726 001–7 0008,397 001–8 00012,64
+Startavgift for luftfartøy som har høyeste tillatte startvekt lavere enn 8 000 kg beregnes ved å multiplisere satsen for full avgift per tonn i henhold til [§ 23 første ledd bokstav a](forskrift/2019-12-20-2137/§23/ledd/1/bokstav/a) med følgende faktorer:
+
+| *Luftfartøyets høyeste tillatte startvekt i kg* | *faktor* |
+| --- | --- |
+| 0–1 000 | 2,61 |
+| 1 001–1 500 | 3,21 |
+| 1 501–2 000 | 4,50 |
+| 2 001–2 500 | 1,14 |
+| 2 501–3 000 | 1,26 |
+| 3 001–4 000 | 2,43 |
+| 4 001–5 000 | 3,10 |
+| 5 001–6 000 | 3,72 |
+| 6 001–7 000 | 8,39 |
+| 7 001–8 000 | 12,64 |
 
 > Endret ved forskrift [25 jan 2024 nr. 107](forskrift/2024-01-25-107) (i kraft 1 jan 2025).
 
@@ -236,7 +249,22 @@ Det gis ikke refusjon av årsavgift som følge av avkortet brukstid eller reduse
 
 ### § 31. Satser for årsavgift
 
-Årsavgift som nevnt i [§ 30](forskrift/2019-12-20-2137/§30) beregnes ved å multiplisere satsen for full avgift per tonn i henhold til [§ 23](forskrift/2019-12-20-2137/§23) bokstav a med følgende faktorer:*Luftfartøyets høyeste tillatte startvekt i kg**faktor*0–50051,07501–1 00075,461 001–1 100107,301 101–1 200124,161 201–1 300142,871 301–1 400159,761 401–1 500181,631 501–1 600298,381 601–1 700318,661 701–1 800338,911 801–1 900358,851 901–2 000377,41
+Årsavgift som nevnt i [§ 30](forskrift/2019-12-20-2137/§30) beregnes ved å multiplisere satsen for full avgift per tonn i henhold til [§ 23](forskrift/2019-12-20-2137/§23) bokstav a med følgende faktorer:
+
+| *Luftfartøyets høyeste tillatte startvekt i kg* | *faktor* |
+| --- | --- |
+| 0–500 | 51,07 |
+| 501–1 000 | 75,46 |
+| 1 001–1 100 | 107,30 |
+| 1 101–1 200 | 124,16 |
+| 1 201–1 300 | 142,87 |
+| 1 301–1 400 | 159,76 |
+| 1 401–1 500 | 181,63 |
+| 1 501–1 600 | 298,38 |
+| 1 601–1 700 | 318,66 |
+| 1 701–1 800 | 338,91 |
+| 1 801–1 900 | 358,85 |
+| 1 901–2 000 | 377,41 |
 
 For historiske og amatørbygde luftfartøy som nevnt i forordning [(EU) 2018/1139](eu/32018r1139) (EASA-forordningen) vedlegg I nr. 1 bokstav a og c med vekt mellom 1 101 og 5 700 kg beregnes satsen ved å multiplisere full avgift som nevnt i [§ 23 bokstav a](forskrift/2019-12-20-2137/§23/bokstav/a) med 107,14.
 
@@ -368,8 +396,28 @@ Dersom det fattes vedtak i medhold av [§ 45](forskrift/2019-12-20-2137/§45) so
 
 Forskriften trer i kraft 1. januar 2020. [Forskrift 17. desember 2014 nr. 1802](forskrift/2014-12-17-1802) om avgifter for bruk av lufthavner drevet av Avinor AS opphører å gjelde fra samme dato.
 
+Med virkning fra 1. mars 2020 skal [§ 23](forskrift/2019-12-20-2137/§23) bokstav a) lyde: – – –
+
 ## Vedlegg
+
+*DTS formatbeskrivelser*
+
+*Felt 1:* Recordtype = 5.*Felt 2:* Kallesignal.*Felt 3:* Dato avgang – UTC.*Felt 4:* Avgangsplass – DEP.*Felt 5:* STD – Scheduled Time of Departure – UTC.*Felt 6:* ATD – Actual Time of Departure/Off-block Time) – UTC.*Felt 7:* Forsinkelse.*Felt 8:* Dato ankomst – UTC.*Felt 9:* Destinasjon – ARR.*Felt 10:* STA – Scheduled Time of Arrival – UTC.*Felt 11:* ATA – UTC.*Felt 12:* Registreringsmerke.*Felt 13:* Flygningens art.*Felt 14:* Total Persons On Board.*Felt 15:* Crew, aktiv.*Felt 16:* Crew, passiv.*Felt 17:* Tjenestereisende.*Felt 18:* Infants.*Felt 19:* Passasjerer avreist fra avgangsplass (lokalt påstigende).*Felt 20:* Passasjerer avreist i transfer.*Felt 21:* Passasjerer avreist i transitt.*Felt 22:* Passasjerer ankommet destinasjon (Avstigende).*Felt 23:* Frakt lastet.*Felt 24:* Frakt losset.*Felt 25:* Post lastet.*Felt 26:* Post losset.*Felt 27:* International eller Domestic.*Felt 28:* Domestic leg of international flight.*Felt 29:* Passasjerer til utland.*Felt 30:* Kommentarer og diverse.*Felt 31:* Unik ID.
+
+*IATA-meldinger*
 
 Grunnregler for bruk av IATA-meldinger:Alle planlagte flighter skal meldes inn til Avinor vha. SSIM-fil eller SSM/ASM-format.Alle oppdaterte flight-tider skal meldes inn til Avinor.Alle IATA-meldinger skal sendes til Avinors sentrale trafikkinformasjonsenhet OSLNOYA.Alle IATA-meldinger som sendes til OSLNOYA skal være i henhold til siste versjon av IATA Airport Handling Manual (AHM) og IATA Standard Schedule Information Manual (SSIM).Rapporteringen skal inkludere korrekte data for antall passasjerer og kilogram frakt og post for alle ankomster og avganger. Data skal rapporteres pr. flight nummer og dato.
 
-Følgende IATA-format støttes, og data skal brukes til følgende formål:RuteplanerSSIMIATA Filformat for presentasjon av komplette sesongplaner, inkludert alle flighter, for en operatør for en avgrenset tidsperiode.3 uker i forkant av sesongskifte.SSM (Standard Schedules Message Procedure)IATA meldingsformat for rapportering av permanente tillegg og/eller endringer til originale sesongplaner.Senest 24 timer før avgang.ASM (Ad-hoc Schedules Message)IATA meldingsformat for rapportering av midlertidige/tidsbegrensede avvik fra den opprinnelige sesongplanen.Senest 6 timer før avgang.FlybevegelserMVT (Aircraft movement message)IATA meldingsformat for rapportering av avgangstider, ankomsttider og forsinkelser.Avgangs og ankomstmelding skal sendes umiddelbart etter avgang eller ankomst. Forsinkelsesmeldinger skal sendes så snart de er kjent.MVA (Aircraft movement message)IATA meldingsformat for rapportering av avgangstider, ankomsttider og forsinkelser, automatisk sendt direkte fra det enkelte flyindivid (f.eks. ACARS).Avgangs og ankomstmelding skal sendes umiddelbart etter avgang eller ankomst. Forsinkelsesmeldinger skal sendes så snart de er kjent.DIV (Aircraft Diversion Message)IATA meldingsformat for rapportering av avledninger fra den opprinnelige flightruten.Skal sendes så snart endring er kjent.Passasjer/lastSLS (Statistical Load Summary)IATA meldingsformat for rapportering av passasjertall, bagasje, frakt og post.Umiddelbart etter avgang.LDM (Loadmessage)IATA meldingsformat for rapportering av passasjertall og vekt.Umiddelbart etter avgang.PTM (Passenger Transfer Message)IATA Meldingsformat for rapportering av transferpassasjerer.Umiddelbart etter avgang.
+Følgende IATA-format støttes, og data skal brukes til følgende formål:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Ruteplaner | SSIM | IATA Filformat for presentasjon av komplette sesongplaner, inkludert alle flighter, for en operatør for en avgrenset tidsperiode. | 3 uker i forkant av sesongskifte. |
+|  | SSM (Standard Schedules Message Procedure) | IATA meldingsformat for rapportering av permanente tillegg og/eller endringer til originale sesongplaner. | Senest 24 timer før avgang. |
+|  | ASM (Ad-hoc Schedules Message) | IATA meldingsformat for rapportering av midlertidige/tidsbegrensede avvik fra den opprinnelige sesongplanen. | Senest 6 timer før avgang. |
+| Flybevegelser | MVT (Aircraft movement message) | IATA meldingsformat for rapportering av avgangstider, ankomsttider og forsinkelser. | Avgangs og ankomstmelding skal sendes umiddelbart etter avgang eller ankomst. Forsinkelsesmeldinger skal sendes så snart de er kjent. |
+|  | MVA (Aircraft movement message) | IATA meldingsformat for rapportering av avgangstider, ankomsttider og forsinkelser, automatisk sendt direkte fra det enkelte flyindivid (f.eks. ACARS). | Avgangs og ankomstmelding skal sendes umiddelbart etter avgang eller ankomst. Forsinkelsesmeldinger skal sendes så snart de er kjent. |
+|  | DIV (Aircraft Diversion Message) | IATA meldingsformat for rapportering av avledninger fra den opprinnelige flightruten. | Skal sendes så snart endring er kjent. |
+| Passasjer/last | SLS (Statistical Load Summary) | IATA meldingsformat for rapportering av passasjertall, bagasje, frakt og post. | Umiddelbart etter avgang. |
+|  | LDM (Loadmessage) | IATA meldingsformat for rapportering av passasjertall og vekt. | Umiddelbart etter avgang. |
+|  | PTM (Passenger Transfer Message) | IATA Meldingsformat for rapportering av transferpassasjerer. | Umiddelbart etter avgang. |

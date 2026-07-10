@@ -24,6 +24,8 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+[Lov av 11. juni 1971 nr. 52](lov/1971-06-11-52) om strafferegistrering.
+
 - Myndighet til å bestemme at flere eller færre opplysninger skal tas med i politiattest i medhold av [strafferegistreringsloven § 6](lov/1971-06-11-52/§6) tredje ledd.
 - Myndighet til i tvilstilfelle å avgjøre om begjæring om attest, avskrift eller opplysninger skal etterkommes i medhold av [strafferegistreringsloven § 9](lov/1971-06-11-52/§9).
 - Myndighet til til å gi forskrifter til gjennomføring av loven, således blant annet om at det i det enkelte tilfelle kan bestemmes at attest kan gis i videre utstrekning enn etter loven i medhold av [strafferegistreringsloven § 10](lov/1971-06-11-52/§10) nr. 6, jf. kgl.res. av 20. desember 1974.

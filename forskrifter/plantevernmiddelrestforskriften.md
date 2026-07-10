@@ -62,6 +62,10 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 396/
 
 Endringsforordningene er ikke innarbeidet i grunnforordningen, men gjengis nedenfor i norsk uoffisiell oversettelse.
 
+► B Forordning [(EF) nr. 396/2005](eu/32005r0396)
+
+som endret ved
+
 - ►**M1** Forordning [(EF) nr. 178/2006](eu/32006r0178)
 - ►**M2** Forordning [(EF) nr. 149/2008](eu/32008r0149*)
 - ►**M3** Forordning [(EF) nr. 260/2008](eu/32008r0260)
@@ -98,6 +102,20 @@ Endringsforordningene er ikke innarbeidet i grunnforordningen, men gjengis neden
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 396/2005/EF](eu/32005r0396)
 av 23. februar 2005
 om grenseverdier for rester av plantevernmidler i eller på næringsmidler og fôr av vegetabilsk og animalsk opprinnelse og endring av rådsdirektiv [91/414/EØF](eu/31991l0414*)
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og artikkel 152 nr. 4 bokstav b),
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den europeiske øko nomiske og sosiale komité,1
+
+etter samråd med Regionkomiteen, og
+
+etter framgangsmåten fastsatt i traktatens artikkel 251,2
+
+ut fra følgende betraktninger:
 
 1. Rådsdirektiv [76/895/EØF](eu/31976l0895*) av 23. november 1976 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i frukt og grønnsaker,3 rådsdirektiv [86/362/EØF](eu/31986l0362) av 24. juli 1986 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i korn,4 rådsdirektiv [86/363/EØF](eu/31986l0363) av 24. juli 1986 om fastsettelse av maksimumsverdier for rester av plantevernmidler på og i næringsmidler av animalsk opprinnelse5 og rådsdirektiv [90/642/EØF](eu/31990l0642) av 27. november 1990 om fastsettelse av maksimumsverdier for rester av plantevernmidler på eller i visse produkter av vegetabilsk opprinnelse, herunder frukt og grønnsaker,6 er blitt betydelig endret en rekke ganger. Av klarhetshensyn og for å gjøre det enklere bør nevnte direktiver oppheves og erstattes av ett direktiv.
 2. Denne forordning berører folkehelsen direkte og er relevant for hvordan det indre marked fungerer. Forskjellene i de nasjonale grenseverdiene for restmengder av plantevernmidler kan skape hindringer for handelen av produkter som er oppført i vedlegg I til traktaten, og for produkter av disse, mellom medlemsstatene og handelen mellom tredjestater og Fellesskapet. For å sikre fritt varebytte, like konkurransevilkår for medlemsstatene, samt høyt nivå av forbrukervern bør grenseverdiene for restmengder for produkter av vegetabilsk og animalsk opprinnelse fastsettes på fellesskapsplan, idet det tas hensyn til god landbrukspraksis.
@@ -136,6 +154,32 @@ om grenseverdier for rester av plantevernmidler i eller på næringsmidler og f�
 35. De tiltakene som er nødvendige for å gjennomføre denne forordning, bør vedtas i henhold til rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen.12
 36. I samsvar med forholdsmessighetsprinsippet er det nødvendig og hensiktsmessig å fastsette bestemmelser om grenseverdier for restmengder i produkter av vegetabilsk og animalsk opprinnelse for å oppnå de grunnleggende målene, nemlig å lette handelen og samtidig verne forbrukeren. I samsvar med traktatens artikkel 5 tredje ledd går dette direktiv ikke lenger enn det som er nødvendig for å nå målene.
 
+1 EUT C 234 av 30.9.2003, s. 33.
+
+2 Europaparlamentsuttalelse av 20. april 2004 (ennå ikke offentliggjort i EUT), Rådets felles holdning av 19. juli 2004 (EUT C 25 E av 1.2.2005, s. 1) og europaparlamentets holdning av 15. desember 2004 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 24. januar 2005.
+
+3 EFT L 340 av 9.12.1976, s. 26. Direktivet sist endret ved forordning [(EF) nr. 807/2003](eu/32003r0807) (EUT L 122 av 16.5.2003, s. 36).
+
+4 EFT L 221 av 7.8.1986, s. 37. Direktivet sist endret ved kommisjonsdirektiv [2004/61/EF](eu/32004l0061) (EUT L 127 av 29.4.2004, s. 81).
+
+5 EFT L 221 av 7.8.1986, s. 43. Direktivet sist endret ved direktiv [2004/61/EF](eu/32004l0061).
+
+6 EFT L 350 av 14.12.1990, s. 71. Direktivet sist endret ved kommisjonsdirektiv [2004/95/EF](eu/32004l0095) (EUT L 301 av 28.9.2004, s. 42).
+
+7 EFT L 230 av 19.8.1991, s. 1. Direktivet sist endret ved kommisjonsdirektiv [2004/99/EF](eu/32004l0099) (EUT L 309 av 6.10.2004, s. 6).
+
+8 EFT L 31 av 1.2.2002, s. 1. Forordningen endret ved forordning [(EF) nr. 1642/2003](eu/32003r1642) (EUT L 245 av 29.9.2003, s. 4).
+
+9 EFT L 33 av 8.2.1979, s. 36. Direktivet sist endret ved europaparlaments- og rådsforordning [(EF) nr. 850/2004](eu/32004r0850*) (EUT L 158 av 30.4.2004, s. 7. Rettet i EUT L 229 av 29.6.2004, s. 5.
+
+10 EFT L 140 av 30.5.2002, s. 10. Direktivet sist endret ved kommisjonsdirektiv [2003/100/EF](eu/32003l0100) (EUT L 285 av 1.11.2003, s. 33).
+
+11 EUT L 165 av 30.4.2004, s. 1. Rettet i EUT L 191 av 28.5.2004, s. 1.
+
+12 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:
+
 ### Kapittel I
 Formål, virkeområde og definisjoner
 
@@ -145,31 +189,33 @@ I denne forordning er det fastsatt harmoniserte fellesskapsbestemmelser om grens
 
 ### Artikkel 2. Virkeområde
 
-1. Denne forordning får anvendelse på produkter av vegetabilsk og animalsk opprinnelse eller deler av disse som omfattes av vedlegg I, som får anvendelse som ferske, bearbeidede og/eller sammensatte næringsmidler eller fôr som det kan forekomme restmengder av plantevernmidler i eller på.
+1\. Denne forordning får anvendelse på produkter av vegetabilsk og animalsk opprinnelse eller deler av disse som omfattes av vedlegg I, som får anvendelse som ferske, bearbeidede og/eller sammensatte næringsmidler eller fôr som det kan forekomme restmengder av plantevernmidler i eller på.
 
-2. Denne forordning får ikke anvendelse på produkter som er omfattet av vedlegg I, når det på en betryggende måte kan fastslås at de er beregnet på:framstilling av andre produkter enn næringsmidler eller fôr, ellersåing eller planting; ellervirksomhet som er godkjent i henhold til nasjonal lovgivning for prøving av virksomme stoffer.
+2\. Denne forordning får ikke anvendelse på produkter som er omfattet av vedlegg I, når det på en betryggende måte kan fastslås at de er beregnet på:framstilling av andre produkter enn næringsmidler eller fôr, ellersåing eller planting; ellervirksomhet som er godkjent i henhold til nasjonal lovgivning for prøving av virksomme stoffer.
 
-3. De grenseverdiene for plantevernmidler som er fastsatt i samsvar med denne forordning, får ikke anvendelse på produkter som omfattes av vedlegg I, og er beregnet på eksport til tredjestater og som er blitt behandlet før eksport, dersom det på en betryggende måte er godtgjort at mottakertredjestaten krever eller samtykker i denne særlige behandlingen for å hindre at skadelige organismer kommer inn på dets territorium.
+3\. De grenseverdiene for plantevernmidler som er fastsatt i samsvar med denne forordning, får ikke anvendelse på produkter som omfattes av vedlegg I, og er beregnet på eksport til tredjestater og som er blitt behandlet før eksport, dersom det på en betryggende måte er godtgjort at mottakertredjestaten krever eller samtykker i denne særlige behandlingen for å hindre at skadelige organismer kommer inn på dets territorium.
 
-4. Denne forordning direktiv får anvendelse uten at direktiv [98/8/EF](eu/31998l0008*),1 [2002/32/EF](eu/32002l0032) og forordning [(EØF) nr. 2377/90](eu/31990r2377)2 berøres.
+4\. Denne forordning direktiv får anvendelse uten at direktiv [98/8/EF](eu/31998l0008*),1 [2002/32/EF](eu/32002l0032) og forordning [(EØF) nr. 2377/90](eu/31990r2377)2 berøres.
+
+1 Europaparlaments- og rådsdirektiv [98/8/EF](eu/31998l0008*) av 16. februar 1998 om omsetning av biocidholdige produkter (EFT L nr. 123 av 24.4.1998, s. 1). Direktivet endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).2 Rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse (EFT L 224 av 18.8.1990, s. 1). Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1875/2004](eu/32004r1875) (EUT L 326 av 29.10.2004, s. 19).
 
 ### Artikkel 3. Definisjoner
 
-1. I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r0178) og definisjonene fastsatt i artikkel 4 nr.1 og 4 i direktiv [91/414/EØF](eu/31991l0414*) anvendelse.
+1\. I denne forordning får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r0178) og definisjonene fastsatt i artikkel 4 nr.1 og 4 i direktiv [91/414/EØF](eu/31991l0414*) anvendelse.
 
-2. I dette direktiv menes videre med:«god landbrukspraksis» (GAP): den nasjonalt anbefalte, godkjente eller registrerte sikre bruk av plantefarmasøytiske produkter under virkelige forhold på alle trinn i produksjonen, lagringen, transporten, distribusjonen og bearbeidingen av næringsmidler og fôr. God landbrukspraksis omfatter også at prinsippene om integrert bekjempelse av skadedyr i en gitt klimasone er i samsvar med direktiv [91/414/EØF](eu/31991l0414*), samt at det brukes så små mengder av plantevernmidler som mulig, og at grenseverdier for restmengder/midlertidige grenseverdier for restmengder fastsettes med lavest mulig verdi for å kunne oppnå ønsket virkning,«kritisk GAP»: den GAP som gir den høyeste akseptable verdien for rester av plantevernmidler hos en behandlet avling og som danner grunnlaget for å fastsette grenseverdien for restmengder, dersom det finnes mer enn én GAP for en kombinasjon av virksomt stoff/produkt,«rester av plantevernmidler»: rester, herunder virksomme stoffer, metabolitter og/eller nedbrytnings- eller reaksjonsprodukter av virksomme stoffer som anvendes nå eller ble anvendt tidligere i plantefarmasøytiske produkter som definert i artikkel 2 nr. 1 i direktiv [91/414/EØF](eu/31991l0414*), som forekommer i eller på produkter omfattet av vedlegg I til denne forordning, herunder særlig dem som kan oppstå som følge av bruk i plantevern, veterinærmedisin og som biocid,«grenseverdi for restmengder»: høyeste lovbestemte konsentrasjonsverdi for en restmengde av et plantevernmiddel i eller på næringsmidler eller fôr fastsatt i samsvar med denne forordning på grunnlag av god landbrukspraksis og lavest mulig forbrukereksponering som er nødvendig for å verne sårbare forbrukere,«CXL-grenseverdi»: en grenseverdi for restmengder fastsatt av Codex Alimentarius-kommisjonen,«bestemmelsesgrensen» (LOQ): den laveste tillatte restkonsentrasjonen som kan måles og rapporteres ved rutinemessig overvåking med godkjente kontrollmetoder,«importtoleranse»: en grenseverdi for restmengder for importerte produkter for å oppfylle behovene i internasjonal handel når:bruken av det virksomme stoffet i et plantefarmasøytisk produkt på et bestemt produkt ikke er godkjent i Fellesskapet av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken, ellerdet er nødvendig med en annen verdi ettersom gjeldende fellesskapsgrenseverdi for restmengder ble fastsatt av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken,«egnethetsprøving»: en sammenlignende prøving der flere laboratorier utfører analyser av identiske prøver slik at det kan foretas en kvalitetsvurdering av den analysen som utføres på hvert laboratorium,«akutt referansedose»: en antatt mengde av et stoff i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til opplysninger fra relevante undersøkelser og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas på kort tid, normalt i løpet av en enkelt dag, uten at det innebærer noen nevneverdig risiko for forbrukeren,«akseptabelt daglig inntak»: en antatt mengde stoffer i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til alle kjente opplysninger på vurderingstidspunktet og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas daglig hele livet uten at det innebærer noen nevneverdig risiko for noen forbruker.
+2\. I dette direktiv menes videre med:«god landbrukspraksis» (GAP): den nasjonalt anbefalte, godkjente eller registrerte sikre bruk av plantefarmasøytiske produkter under virkelige forhold på alle trinn i produksjonen, lagringen, transporten, distribusjonen og bearbeidingen av næringsmidler og fôr. God landbrukspraksis omfatter også at prinsippene om integrert bekjempelse av skadedyr i en gitt klimasone er i samsvar med direktiv [91/414/EØF](eu/31991l0414*), samt at det brukes så små mengder av plantevernmidler som mulig, og at grenseverdier for restmengder/midlertidige grenseverdier for restmengder fastsettes med lavest mulig verdi for å kunne oppnå ønsket virkning,«kritisk GAP»: den GAP som gir den høyeste akseptable verdien for rester av plantevernmidler hos en behandlet avling og som danner grunnlaget for å fastsette grenseverdien for restmengder, dersom det finnes mer enn én GAP for en kombinasjon av virksomt stoff/produkt,«rester av plantevernmidler»: rester, herunder virksomme stoffer, metabolitter og/eller nedbrytnings- eller reaksjonsprodukter av virksomme stoffer som anvendes nå eller ble anvendt tidligere i plantefarmasøytiske produkter som definert i artikkel 2 nr. 1 i direktiv [91/414/EØF](eu/31991l0414*), som forekommer i eller på produkter omfattet av vedlegg I til denne forordning, herunder særlig dem som kan oppstå som følge av bruk i plantevern, veterinærmedisin og som biocid,«grenseverdi for restmengder»: høyeste lovbestemte konsentrasjonsverdi for en restmengde av et plantevernmiddel i eller på næringsmidler eller fôr fastsatt i samsvar med denne forordning på grunnlag av god landbrukspraksis og lavest mulig forbrukereksponering som er nødvendig for å verne sårbare forbrukere,«CXL-grenseverdi»: en grenseverdi for restmengder fastsatt av Codex Alimentarius-kommisjonen,«bestemmelsesgrensen» (LOQ): den laveste tillatte restkonsentrasjonen som kan måles og rapporteres ved rutinemessig overvåking med godkjente kontrollmetoder,«importtoleranse»: en grenseverdi for restmengder for importerte produkter for å oppfylle behovene i internasjonal handel når:bruken av det virksomme stoffet i et plantefarmasøytisk produkt på et bestemt produkt ikke er godkjent i Fellesskapet av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken, ellerdet er nødvendig med en annen verdi ettersom gjeldende fellesskapsgrenseverdi for restmengder ble fastsatt av andre årsaker enn hensynet til folkehelsen for det bestemte produktet og den bestemte bruken,«egnethetsprøving»: en sammenlignende prøving der flere laboratorier utfører analyser av identiske prøver slik at det kan foretas en kvalitetsvurdering av den analysen som utføres på hvert laboratorium,«akutt referansedose»: en antatt mengde av et stoff i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til opplysninger fra relevante undersøkelser og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas på kort tid, normalt i løpet av en enkelt dag, uten at det innebærer noen nevneverdig risiko for forbrukeren,«akseptabelt daglig inntak»: en antatt mengde stoffer i næringsmidler, uttrykt på grunnlag av kroppsvekten, som i henhold til alle kjente opplysninger på vurderingstidspunktet og med hensyn til sårbare befolkningsgrupper (f.eks. barn og ufødte barn) kan inntas daglig hele livet uten at det innebærer noen nevneverdig risiko for noen forbruker.
 
 ### Artikkel 4. Liste over produktgrupper der harmoniserte grenseverdier for restmengder skal få anvendelse
 
-1. De produktene, produktgruppene og/eller deler av produkter nevnt i artikkel 2 nr. 1 og der harmoniserte grenseverdier for restmengder skal få anvendelse, skal fastsettes og omfattes av vedlegg I i henhold til framgangsmåten nevnt i artikkel 45 nr. 2. Vedlegg I skal omfatte alle produkter der det er fastsatt grenseverdier for restmengder, samt andre produkter der det er hensiktsmessig å anvende harmonisert grenseverdier for restmengder, særlig med hensyn til deres betydning for forbrukernes kosthold eller for handelen. Produktene skal inndeles i grupper på en slik måte at det om mulig kan fastsettes grenseverdier for restmengder for en gruppe produkter som ligner hverandre eller er beslektet med hverandre.
+1\. De produktene, produktgruppene og/eller deler av produkter nevnt i artikkel 2 nr. 1 og der harmoniserte grenseverdier for restmengder skal få anvendelse, skal fastsettes og omfattes av vedlegg I i henhold til framgangsmåten nevnt i artikkel 45 nr. 2. Vedlegg I skal omfatte alle produkter der det er fastsatt grenseverdier for restmengder, samt andre produkter der det er hensiktsmessig å anvende harmonisert grenseverdier for restmengder, særlig med hensyn til deres betydning for forbrukernes kosthold eller for handelen. Produktene skal inndeles i grupper på en slik måte at det om mulig kan fastsettes grenseverdier for restmengder for en gruppe produkter som ligner hverandre eller er beslektet med hverandre.
 
-2. Vedlegg I skal utarbeides første gang senest tre måneder etter at denne forordning er trådt i kraft, og den skal gjennomgås etter behov, særlig på anmodning fra en medlemsstat.
+2\. Vedlegg I skal utarbeides første gang senest tre måneder etter at denne forordning er trådt i kraft, og den skal gjennomgås etter behov, særlig på anmodning fra en medlemsstat.
 
 ### Artikkel 5. Opprettelse av en liste over virksomme stoffer der grenseverdier for restmengder ikke er påkrevd
 
-1. Virksomme stoffer i plantefarmasøytiske produkter som er vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*) og der det ikke er påkrevd grenseverdier for restmengder, skal fastsettes i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning og oppføres i vedlegg IV til denne forordning, idet det tas hensyn til bruken av disse virksomme stoffene og forholdene nevnt i artikkel 14 nr. 2 bokstav a), c) og d) i denne forordning.
+1\. Virksomme stoffer i plantefarmasøytiske produkter som er vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*) og der det ikke er påkrevd grenseverdier for restmengder, skal fastsettes i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning og oppføres i vedlegg IV til denne forordning, idet det tas hensyn til bruken av disse virksomme stoffene og forholdene nevnt i artikkel 14 nr. 2 bokstav a), c) og d) i denne forordning.
 
-2. Vedlegg IV skal først opprettes senest tolv måneder etter at denne forordning er trådt i kraft.
+2\. Vedlegg IV skal først opprettes senest tolv måneder etter at denne forordning er trådt i kraft.
 
 ### Kapittel II
 Framgangsmåte for søknader om grenseverdier for restmengder
@@ -177,46 +223,70 @@ Framgangsmåte for søknader om grenseverdier for restmengder
 ### Avsnitt 1
 Inngivelse av søknader om grenseverdier for restmengder
 
-1. Når en medlemsstat vurderer å gi en godkjenning eller en midlertidig godkjenning til å bruke et plantefarmasøytisk produkt i samsvar med direktiv [91/414/EØF](eu/31991l0414*), skal medlemsstaten vurdere om det som følge av slik bruk er nødvendig å endre en eksisterende grenseverdi for restmengder som oppført i vedlegg II eller III til denne forordning, om det er nødvendig å fastsette en ny grenseverdi for restmengder eller om det virksomme stoffet skal oppføres i vedlegg IV. Om nødvendig skal medlemsstaten kreve at den som søker om godkjenning, inngir en søknad i samsvar med artikkel 7.
+Artikkel 6
+Søknader
 
-2. Alle parter som kan godtgjøre at de har en berettiget interesse for helsespørsmål, herunder frivillige organisasjoner samt kommersielt berørte parter som framstiller, dyrker, importerer og produserer produkter som omfattes av vedlegg I, kan også inngi en søknad til en medlemsstat i samsvar med artikkel 7.
+1\. Når en medlemsstat vurderer å gi en godkjenning eller en midlertidig godkjenning til å bruke et plantefarmasøytisk produkt i samsvar med direktiv [91/414/EØF](eu/31991l0414*), skal medlemsstaten vurdere om det som følge av slik bruk er nødvendig å endre en eksisterende grenseverdi for restmengder som oppført i vedlegg II eller III til denne forordning, om det er nødvendig å fastsette en ny grenseverdi for restmengder eller om det virksomme stoffet skal oppføres i vedlegg IV. Om nødvendig skal medlemsstaten kreve at den som søker om godkjenning, inngir en søknad i samsvar med artikkel 7.
 
-3. Dersom en medlemsstat anser det som nødvendig å fastsette, endre eller stryke en grenseverdi for restmengder, kan nevnte medlemsstat også utarbeide og vurdere en søknad om å fastsette, endre eller stryke grenseverdien for restmengder i samsvar med artikkel 7.
+2\. Alle parter som kan godtgjøre at de har en berettiget interesse for helsespørsmål, herunder frivillige organisasjoner samt kommersielt berørte parter som framstiller, dyrker, importerer og produserer produkter som omfattes av vedlegg I, kan også inngi en søknad til en medlemsstat i samsvar med artikkel 7.
 
-4. Søknader om importtoleranser skal inngis til rapporterende medlemsstater utpekt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) eller, dersom det ikke er utpekt en slik rapportør, til de medlemsstatene som Kommisjonen har utpekt i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning på anmodning fra søkeren. Slike søknader skal utarbeides i samsvar med artikkel 7 i denne forordning.
+3\. Dersom en medlemsstat anser det som nødvendig å fastsette, endre eller stryke en grenseverdi for restmengder, kan nevnte medlemsstat også utarbeide og vurdere en søknad om å fastsette, endre eller stryke grenseverdien for restmengder i samsvar med artikkel 7.
 
-1. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:navn og adresse på søkeren,en presentasjon av dokumentasjonen for søknaden, herunder:et sammendrag av søknaden,de viktigste saksforholdene,en innholdsfortegnelse for dokumentasjonen,en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
+4\. Søknader om importtoleranser skal inngis til rapporterende medlemsstater utpekt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) eller, dersom det ikke er utpekt en slik rapportør, til de medlemsstatene som Kommisjonen har utpekt i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning på anmodning fra søkeren. Slike søknader skal utarbeides i samsvar med artikkel 7 i denne forordning.
 
-2. Den medlemsstaten som foretar vurderingen, kan om nødvendig kreve at søkeren skal framlegge utfyllende opplysninger i tillegg til de opplysningene som kreves i henhold til nr. 1, innenfor en tidsfrist som fastsettes av medlemsstaten. Denne fristen må ikke under noen omstendigheter overskride to år.
+Artikkel 7
+Krav som gjelder for søknader om grenseverdier for restmengder
 
-1. En medlemsstat som i samsvar med artikkel 7 mottar en søknad som oppfyller kravene i artikkel 6, skal omgående sende en kopi til myndigheten og Kommisjonen og utarbeide en vurderingsrapport uten unødige forsinkelser.
+1\. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:navn og adresse på søkeren,en presentasjon av dokumentasjonen for søknaden, herunder:et sammendrag av søknaden,de viktigste saksforholdene,en innholdsfortegnelse for dokumentasjonen,en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
 
-2. Søknader skal vurderes i samsvar med relevante bestemmelser i de ensartede prinsippene for vurdering og godkjenning av plantefarmasøytiske produkter oppført i vedlegg VI til direktiv [91/414/EØF](eu/31991l0414*) eller med særlige vurderingsprinsipper fastsatt i en kommisjonsforordning i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning.
+2\. Den medlemsstaten som foretar vurderingen, kan om nødvendig kreve at søkeren skal framlegge utfyllende opplysninger i tillegg til de opplysningene som kreves i henhold til nr. 1, innenfor en tidsfrist som fastsettes av medlemsstaten. Denne fristen må ikke under noen omstendigheter overskride to år.
 
-3. Som unntak fra nr. 1 og gjennom avtale mellom de berørte medlemsstatene kan vurderingen av søknaden foretas av rapporterende medlemsstat, som er utpekt for det aktuelle virksomme stoffet i samsvar med direktiv [91/414/EØF](eu/31991l0414*).
+Artikkel 8
+Vurdering av søknader
 
-4. Når en medlemsstat støter på vanskeligheter med hensyn til vurderingen av en søknad eller for å unngå dobbeltarbeid, kan det i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 besluttes hvilken medlemsstat som skal vurdere bestemte søknader.
+1\. En medlemsstat som i samsvar med artikkel 7 mottar en søknad som oppfyller kravene i artikkel 6, skal omgående sende en kopi til myndigheten og Kommisjonen og utarbeide en vurderingsrapport uten unødige forsinkelser.
 
-1. Når vurderingsrapporten er avsluttet, skal medlemsstaten sende rapporten til Kommisjonen. Kommisjonen skal omgående underrette medlemsstatene og sende søknaden, vurderingsrapporten og dokumentasjonen til myndigheten.
+2\. Søknader skal vurderes i samsvar med relevante bestemmelser i de ensartede prinsippene for vurdering og godkjenning av plantefarmasøytiske produkter oppført i vedlegg VI til direktiv [91/414/EØF](eu/31991l0414*) eller med særlige vurderingsprinsipper fastsatt i en kommisjonsforordning i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning.
 
-2. Myndigheten skal omgående sende en skriftlig bekreftelse til søkeren, den medlemsstaten som skal foreta vurderingen, og til Kommisjonen om at søknaden er mottatt. I bekreftelsen skal det opplyses om når søknaden og medfølgende dokumentasjon ble mottatt.
+3\. Som unntak fra nr. 1 og gjennom avtale mellom de berørte medlemsstatene kan vurderingen av søknaden foretas av rapporterende medlemsstat, som er utpekt for det aktuelle virksomme stoffet i samsvar med direktiv [91/414/EØF](eu/31991l0414*).
+
+4\. Når en medlemsstat støter på vanskeligheter med hensyn til vurderingen av en søknad eller for å unngå dobbeltarbeid, kan det i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 besluttes hvilken medlemsstat som skal vurdere bestemte søknader.
+
+Artikkel 9
+Inngivelse av vurderte søknader til Kommisjonen og myndigheten
+
+1\. Når vurderingsrapporten er avsluttet, skal medlemsstaten sende rapporten til Kommisjonen. Kommisjonen skal omgående underrette medlemsstatene og sende søknaden, vurderingsrapporten og dokumentasjonen til myndigheten.
+
+2\. Myndigheten skal omgående sende en skriftlig bekreftelse til søkeren, den medlemsstaten som skal foreta vurderingen, og til Kommisjonen om at søknaden er mottatt. I bekreftelsen skal det opplyses om når søknaden og medfølgende dokumentasjon ble mottatt.
 
 ### Avsnitt 2
 Myndighetens behandling av søknader om grenseverdier for restmengder
 
-1. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,alle andre faktorer som er relevante for risikovurderingen.
+Artikkel 10
+Myndighetens uttalelse om søknader om grenseverdier for restmengder
 
-2. Myndigheten skal sende sin grunngitte uttalelse til søkeren, Kommisjonen og medlemsstatene. Den grunngitte uttalelsen skal nøye redegjøre for grunnlaget for de enkelte konklusjoner.
+1\. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,alle andre faktorer som er relevante for risikovurderingen.
 
-3. Med forbehold for artikkel 39 i forordning [(EF) nr. 178/2002](eu/32002r0178) skal myndigheten offentliggjøre sin grunngitte uttalelse.
+2\. Myndigheten skal sende sin grunngitte uttalelse til søkeren, Kommisjonen og medlemsstatene. Den grunngitte uttalelsen skal nøye redegjøre for grunnlaget for de enkelte konklusjoner.
 
-1. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
+3\. Med forbehold for artikkel 39 i forordning [(EF) nr. 178/2002](eu/32002r0178) skal myndigheten offentliggjøre sin grunngitte uttalelse.
 
-2. Når myndigheten krever utfyllende opplysninger, skal tidsfristen fastsatt i nr. 1 forlenges, inntil disse opplysningene er framlagt. Slike forlengelser er underlagt artikkel 13.
+Artikkel 11
+Frister for myndighetens uttalelse om søknader om grenseverdier for restmengder
 
-1. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](eu/31991l0414*), om:eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
+1\. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
 
-2. For stoffer omfattet av vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) før denne forordning trer i kraft, skal den grunngitte uttalelsen nevnt i nr. 1 i denne artikkel, avgis senest tolv måneder etter at denne forordning er trådt i kraft.
+2\. Når myndigheten krever utfyllende opplysninger, skal tidsfristen fastsatt i nr. 1 forlenges, inntil disse opplysningene er framlagt. Slike forlengelser er underlagt artikkel 13.
+
+Artikkel 12
+Myndighetens vurdering av eksisterende grenseverdier for restmengder
+
+1\. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](eu/31991l0414*), om:eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
+
+2\. For stoffer omfattet av vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) før denne forordning trer i kraft, skal den grunngitte uttalelsen nevnt i nr. 1 i denne artikkel, avgis senest tolv måneder etter at denne forordning er trådt i kraft.
+
+Artikkel 13
+Administrativ kontroll
 
 Dersom myndigheten treffer en beslutning eller unnlater å handle i henhold til den myndigheten som er blitt tildelt gjennom denne forordning, kan Kommisjonen på eget initiativ eller på anmodning fra en medlemsstat eller fra en person som direkte eller personlig er berørt, gjennomføre en administrativ kontroll av beslutningen eller unnlatelsen.
 
@@ -227,19 +297,31 @@ Kommisjonen skal treffe en beslutning innen to måneder og eventuelt kreve at my
 ### Avsnitt 3
 Fastsette, endre eller stryke grenseverdier for restmengder
 
-1. Når Kommisjonen har mottatt myndighetens uttalelse og idet den tar hensyn til denne uttalelsen, utarbeider Kommisjonen umiddelbart og senest innen tre måneder en forordning om fastsettelse, endring og stryking av en grenseverdi for restmengder eller et vedtak om avslag på søknaden og framlegger denne rettsakten for vedtakelse i henhold til framgangsmåten nevnt i artikkel 45 nr. 2.
+Artikkel 14
+Beslutninger vedrørende søknader om grenseverdier for restmengder
 
-2. Følgende skal tas med i betraktningen med hensyn til rettsaktene nevnt i nr.1:tilgjengelig vitenskapelig og teknisk kunnskap,mulig forekomst av rester av plantevernmidler fra andre kilder enn nåværende bruk av virksomme stoffer som plantevernmiddel, og deres kjente kumulative virkninger og synergivirkninger, når det finnes metoder for å vurdere slike virkninger,resultatene av en vurdering av risikoene for forbrukere med stort inntak og høy sårbarhet, samt eventuelt for dyr,resultatene av vurderinger og beslutninger om å endre bruken av plantefarmasøytiske produkter,en CXL-grenseverdi eller en GAP som er innført i en tredjestat for lovlig bruk av et virksomt stoff i denne staten,andre berettigede faktorer som er relevante for det aktuelle tilfellet.
+1\. Når Kommisjonen har mottatt myndighetens uttalelse og idet den tar hensyn til denne uttalelsen, utarbeider Kommisjonen umiddelbart og senest innen tre måneder en forordning om fastsettelse, endring og stryking av en grenseverdi for restmengder eller et vedtak om avslag på søknaden og framlegger denne rettsakten for vedtakelse i henhold til framgangsmåten nevnt i artikkel 45 nr. 2.
 
-3. Kommisjonen kan til enhver tid kreve at søkeren eller myndigheten framlegger utfyllende opplysninger. Kommisjonen skal stille alle utfyllende opplysninger som den har mottatt, til rådighet for medlemsstatene og myndigheten.
+2\. Følgende skal tas med i betraktningen med hensyn til rettsaktene nevnt i nr.1:tilgjengelig vitenskapelig og teknisk kunnskap,mulig forekomst av rester av plantevernmidler fra andre kilder enn nåværende bruk av virksomme stoffer som plantevernmiddel, og deres kjente kumulative virkninger og synergivirkninger, når det finnes metoder for å vurdere slike virkninger,resultatene av en vurdering av risikoene for forbrukere med stort inntak og høy sårbarhet, samt eventuelt for dyr,resultatene av vurderinger og beslutninger om å endre bruken av plantefarmasøytiske produkter,en CXL-grenseverdi eller en GAP som er innført i en tredjestat for lovlig bruk av et virksomt stoff i denne staten,andre berettigede faktorer som er relevante for det aktuelle tilfellet.
 
-1. Forordningen som er nevnt i artikkel 14 nr. 1 skal:fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
+3\. Kommisjonen kan til enhver tid kreve at søkeren eller myndigheten framlegger utfyllende opplysninger. Kommisjonen skal stille alle utfyllende opplysninger som den har mottatt, til rådighet for medlemsstatene og myndigheten.
 
-2. Når det fastsettes en midlertidig grenseverdi for restmengder i samsvar med nr. 1 bokstav b, skal den strykes i vedlegg III gjennom en forordning ett år etter datoen for når det berørte virksomme stoffet ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF i](eu/31991l0414*) samsvar med artikkel 45 nr. 2 i denne forordning. Dersom en eller flere medlemsstater anmoder om det, kan den imidlertid opprettholdes i ytterligere ett år i påvente av en bekreftelse om at vitenskapelige undersøkelser som er nødvendige som underlag for en søknad for å fastsette en grenseverdi for restmengder, er blitt gjennomført. I de tilfeller der en slik bekreftelse foreligger, skal den midlertidige grenseverdien for restmengder opprettholdes for ytterligere to år, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+Artikkel 15
+Oppføring av nye eller endrede grenseverdier for restmengder i vedlegg II og III
 
-1. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*), ellernår de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, ellerfor honning, ellerfor urtete, ellernår viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellernår nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+1\. Forordningen som er nevnt i artikkel 14 nr. 1 skal:fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
 
-2. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
+2\. Når det fastsettes en midlertidig grenseverdi for restmengder i samsvar med nr. 1 bokstav b, skal den strykes i vedlegg III gjennom en forordning ett år etter datoen for når det berørte virksomme stoffet ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF i](eu/31991l0414*) samsvar med artikkel 45 nr. 2 i denne forordning. Dersom en eller flere medlemsstater anmoder om det, kan den imidlertid opprettholdes i ytterligere ett år i påvente av en bekreftelse om at vitenskapelige undersøkelser som er nødvendige som underlag for en søknad for å fastsette en grenseverdi for restmengder, er blitt gjennomført. I de tilfeller der en slik bekreftelse foreligger, skal den midlertidige grenseverdien for restmengder opprettholdes for ytterligere to år, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+
+Artikkel 16
+Framgangsmåte for å fastsette midlertidige grenseverdier for restmengder under visse omstendigheter
+
+1\. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*), ellernår de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, ellerfor honning, ellerfor urtete, ellernår viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellernår nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
+
+2\. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
+
+Artikkel 17
+Endringer av grenseverdier for restmengder etter at godkjenninger av plantefarmasøytiske produkter tilbakekalles
 
 Endringer i vedlegg II eller III som er nødvendige for å stryke en grenseverdi for restmengder, etter at en eksisterende godkjenning av et plantefarmasøytisk produkt tilbakekalles, kan vedtas uten å innhente en uttalelse fra myndigheten.
 
@@ -248,13 +330,15 @@ Grenseverdier for restmengder for produkter av vegetabilsk og animalsk opprinnel
 
 ### Artikkel 18. Overholdelse av grenseverdier for restmengder
 
-1. Fra og med den datoen de produktene som er omfattet av vedlegg I, bringes i omsetning som næringsmidler eller fôr eller gis som fôr til dyr, får de ikke inneholde noen rester av plantevernmidler som overstiger:de grenseverdiene for restmengder for disse produktene som er oppført i vedlegg II og III,0,01 mg/kg for de produktene der det ikke er oppført noen bestemt grenseverdi for restmengder i vedlegg II eller III, eller for virksomme stoffer oppført i vedlegg IV, med mindre det fastsettes ulike standardverdier for et virksomt stoff i henhold til framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til tilgjengelige rutinemessige analysemetoder. Slike standardverdier skal oppføres i vedlegg V.
+1\. Fra og med den datoen de produktene som er omfattet av vedlegg I, bringes i omsetning som næringsmidler eller fôr eller gis som fôr til dyr, får de ikke inneholde noen rester av plantevernmidler som overstiger:de grenseverdiene for restmengder for disse produktene som er oppført i vedlegg II og III,0,01 mg/kg for de produktene der det ikke er oppført noen bestemt grenseverdi for restmengder i vedlegg II eller III, eller for virksomme stoffer oppført i vedlegg IV, med mindre det fastsettes ulike standardverdier for et virksomt stoff i henhold til framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til tilgjengelige rutinemessige analysemetoder. Slike standardverdier skal oppføres i vedlegg V.
 
-2. Medlemsstatene kan ikke forby eller forhindre at produktene som er omfattet av vedlegg I, bringes i omsetning eller gis som fôr til dyr bestemt til næringsmiddelproduksjon på deres territorier, med den grunngitte uttalelsen at de inneholder rester av plantevernmidler, forutsatt at:slike produkter samsvarer med nr. 1 og artikkel 20, ellerdet virksomme stoffet er oppført i vedlegg IV.
+2\. Medlemsstatene kan ikke forby eller forhindre at produktene som er omfattet av vedlegg I, bringes i omsetning eller gis som fôr til dyr bestemt til næringsmiddelproduksjon på deres territorier, med den grunngitte uttalelsen at de inneholder rester av plantevernmidler, forutsatt at:slike produkter samsvarer med nr. 1 og artikkel 20, ellerdet virksomme stoffet er oppført i vedlegg IV.
 
-3. Som unntak fra nr. 1 kan medlemsstatene ved behandling etter høsting med fumiganter på sitt territorium tillate restmengder av et virksomt stoff som overstiger grenseverdiene i vedlegg II og III for et produkt omfattet av vedlegg I, dersom kombinasjonene av virksomt stoff/produkt er oppført i vedlegg VII, forutsatt at:slike produkter ikke skal forbrukes med én gang,det finnes egnede kontroller for å sikre at slike produkter ikke kan gjøres tilgjengelige for sluttbruker eller forbruker, dersom de leveres direkte til disse, før restmengdene ikke lenger overstiger de grenseverdiene som er fastsatt i vedlegg II eller III,de andre medlemsstatene og Kommisjonen er blitt underrettet om de tiltakene som er truffet.Kombinasjonene av virksomt stoff/produkt som er oppført i vedlegg VII, skal fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+3\. Som unntak fra nr. 1 kan medlemsstatene ved behandling etter høsting med fumiganter på sitt territorium tillate restmengder av et virksomt stoff som overstiger grenseverdiene i vedlegg II og III for et produkt omfattet av vedlegg I, dersom kombinasjonene av virksomt stoff/produkt er oppført i vedlegg VII, forutsatt at:slike produkter ikke skal forbrukes med én gang,det finnes egnede kontroller for å sikre at slike produkter ikke kan gjøres tilgjengelige for sluttbruker eller forbruker, dersom de leveres direkte til disse, før restmengdene ikke lenger overstiger de grenseverdiene som er fastsatt i vedlegg II eller III,de andre medlemsstatene og Kommisjonen er blitt underrettet om de tiltakene som er truffet.Kombinasjonene av virksomt stoff/produkt som er oppført i vedlegg VII, skal fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
 
-4. Unntaksvis og særlig ved bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*) eller som følge av forpliktelser i direktiv [2000/29/EF](eu/32000l0029*),1 kan en medlemsstat tillate at behandlede næringsmidler eller behandlet fôr som ikke samsvarer med nr. 1, bringes i omsetning og/eller gis som fôr til dyr på sitt territorium, forutsatt at slike næringsmidler eller slikt fôr ikke utgjør en uakseptabel risiko. Slike tillatelser skal umiddelbart meddeles til de andre medlemsstatene, Kommisjonen og myndigheten sammen med en relevant risikovurdering, slik at de uten unødige forsinkelser kan behandles i samsvar med framgangsmåten nevnt i artikkel 45 nr.2, for at det skal kunne fastsettes en midlertidig grenseverdi for restmengder for en bestemt periode eller treffes eventuelle andre nødvendige tiltak med hensyn til slike produkter.
+4\. Unntaksvis og særlig ved bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*) eller som følge av forpliktelser i direktiv [2000/29/EF](eu/32000l0029*),1 kan en medlemsstat tillate at behandlede næringsmidler eller behandlet fôr som ikke samsvarer med nr. 1, bringes i omsetning og/eller gis som fôr til dyr på sitt territorium, forutsatt at slike næringsmidler eller slikt fôr ikke utgjør en uakseptabel risiko. Slike tillatelser skal umiddelbart meddeles til de andre medlemsstatene, Kommisjonen og myndigheten sammen med en relevant risikovurdering, slik at de uten unødige forsinkelser kan behandles i samsvar med framgangsmåten nevnt i artikkel 45 nr.2, for at det skal kunne fastsettes en midlertidig grenseverdi for restmengder for en bestemt periode eller treffes eventuelle andre nødvendige tiltak med hensyn til slike produkter.
+
+1 Rådsdirektiv [2000/29/EF](eu/32000l0029*) av 8. mai 2000 om beskyttelsestiltak mot innføring til Fellesskapet av organismer som er skadelige for planter eller planteprodukter og spredning av dem i Fellesskapet (EFT L 169 av 10.7.2000, s. 1). Direktivet sist endret ved forordning [(EF) nr. 882/2004](eu/32004r0882*).
 
 ### Artikkel 19. Forbud vedrørende bearbeidede og/eller sammensatte produkter
 
@@ -262,24 +346,24 @@ Det er forbudt å bearbeide og/eller blande de produktene som er omfattet av ved
 
 ### Artikkel 20. Grenseverdier for restmengder for bearbeidede og/eller sammensatte produkter
 
-1. Når det ikke er oppført grenseverdier for restmengder i vedlegg II eller III for bearbeidede og/eller sammensatte næringsmidler eller fôr, skal grenseverdiene for restmengder fastsatt i artikkel 18 nr. 1 for det relevante produktet som er omfattet av vedlegg I, anvendes, idet det tas hensyn til endrede verdier av rester av plantevernmidler som følge av bearbeidingen og/eller blandingen.
+1\. Når det ikke er oppført grenseverdier for restmengder i vedlegg II eller III for bearbeidede og/eller sammensatte næringsmidler eller fôr, skal grenseverdiene for restmengder fastsatt i artikkel 18 nr. 1 for det relevante produktet som er omfattet av vedlegg I, anvendes, idet det tas hensyn til endrede verdier av rester av plantevernmidler som følge av bearbeidingen og/eller blandingen.
 
-2. Særskilte konsentrasjons- og fortynningsfaktorer for bestemte bearbeidings- og/eller blandingsprosesser eller for bestemte bearbeidede og/eller sammensatte produkter kan føres opp på listen i vedlegg VI i samsvar med framgangsmåten i artikkel 45 nr. 2.
+2\. Særskilte konsentrasjons- og fortynningsfaktorer for bestemte bearbeidings- og/eller blandingsprosesser eller for bestemte bearbeidede og/eller sammensatte produkter kan føres opp på listen i vedlegg VI i samsvar med framgangsmåten i artikkel 45 nr. 2.
 
 ### Kapittel IV
 Særlige bestemmelser om innarbeiding av eksisterende grenseverdier for restmengder i denne forordning
 
 ### Artikkel 21. Første fastsettelse av grenseverdier for restmengder
 
-1. Grenseverdier for restmengder for produkter som er omfattet av vedlegg I, skal først fastsettes og føres opp i vedlegg II i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, og de grenseverdiene for restmengder som er fastsatt i direktiv [86/362/EØF](eu/31986l0362), [86/363/EØF](eu/31986l0363) og [90/642/EØF](eu/31990l0642), skal innarbeides, idet det tas hensyn til de kriteriene som er nevnt i artikkel 14 nr. 2 i denne forordning.
+1\. Grenseverdier for restmengder for produkter som er omfattet av vedlegg I, skal først fastsettes og føres opp i vedlegg II i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, og de grenseverdiene for restmengder som er fastsatt i direktiv [86/362/EØF](eu/31986l0362), [86/363/EØF](eu/31986l0363) og [90/642/EØF](eu/31990l0642), skal innarbeides, idet det tas hensyn til de kriteriene som er nevnt i artikkel 14 nr. 2 i denne forordning.
 
-2. Vedlegg IV skal utarbeides senest tolv måneder etter at denne forordning er trådt i kraft.
+2\. Vedlegg IV skal utarbeides senest tolv måneder etter at denne forordning er trådt i kraft.
 
 ### Artikkel 22. Første fastsettelse av midlertidige grenseverdier for restmengder
 
-1. Midlertidige grenseverdier for restmengder for virksomme stoffer som det ennå ikke er truffet noen beslutning om hvorvidt de skal oppføres eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), skal først fastsettes og oppføres i vedlegg III til denne forordning, med mindre de ikke allerede er oppført i vedlegg II i denne forordning, i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til opplysningene framlagt av medlemsstatene og eventuelt den grunngitte uttalelsen nevnt i artikkel 24, faktorene nevnt i artikkel 14 nr. 2 og følgende grenseverdier for restmengder:de resterende grenseverdiene for restmengder i vedlegget til direktiv [76/895/EØF](eu/31976l0895*), ognasjonale grenseverdier for restmengder som ennå ikke er blitt harmonisert.
+1\. Midlertidige grenseverdier for restmengder for virksomme stoffer som det ennå ikke er truffet noen beslutning om hvorvidt de skal oppføres eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), skal først fastsettes og oppføres i vedlegg III til denne forordning, med mindre de ikke allerede er oppført i vedlegg II i denne forordning, i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2, idet det tas hensyn til opplysningene framlagt av medlemsstatene og eventuelt den grunngitte uttalelsen nevnt i artikkel 24, faktorene nevnt i artikkel 14 nr. 2 og følgende grenseverdier for restmengder:de resterende grenseverdiene for restmengder i vedlegget til direktiv [76/895/EØF](eu/31976l0895*), ognasjonale grenseverdier for restmengder som ennå ikke er blitt harmonisert.
 
-2. Vedlegg III skal først utarbeides senest tolv måneder etter at denne forordning er trådt i kraft i samsvar med artikkel 23, 24 og 25.
+2\. Vedlegg III skal først utarbeides senest tolv måneder etter at denne forordning er trådt i kraft i samsvar med artikkel 23, 24 og 25.
 
 ### Artikkel 23. Opplysninger som medlemsstatene skal framlegge om nasjonale grenseverdier for restmengder
 
@@ -287,9 +371,9 @@ Når et virksomt stoff ennå ikke er oppført i vedlegg I til direktiv [91/414/E
 
 ### Artikkel 24. Myndighetens uttalelse om de opplysninger som ligger til grunn for nasjonale grenseverdier for restmengder
 
-1. Myndigheten skal framlegge en grunngitt uttalelse for Kommisjonen om eventuelle risikoer for forbrukerens helse som følge av:midlertidige grenseverdier for restmengder som kan oppføres i vedlegg III,virksomme stoffer som kan oppføres i vedlegg IV.
+1\. Myndigheten skal framlegge en grunngitt uttalelse for Kommisjonen om eventuelle risikoer for forbrukerens helse som følge av:midlertidige grenseverdier for restmengder som kan oppføres i vedlegg III,virksomme stoffer som kan oppføres i vedlegg IV.
 
-2. Når myndigheten utarbeider sin grunngitte uttalelse nevnt i nr. 1, skal den ta hensyn til tilgjengelig vitenskapelig og teknisk kunnskap og særlig til opplysninger som er framlagt av medlemsstatene i samsvar med artikkel 23.
+2\. Når myndigheten utarbeider sin grunngitte uttalelse nevnt i nr. 1, skal den ta hensyn til tilgjengelig vitenskapelig og teknisk kunnskap og særlig til opplysninger som er framlagt av medlemsstatene i samsvar med artikkel 23.
 
 ### Artikkel 25. Fastsettelse av midlertidige grenseverdier for restmengder
 
@@ -301,52 +385,92 @@ Offentlige kontroller, rapporter og sanksjoner
 ### Avsnitt 1
 Offentlige kontroller av grenseverdier for restmengder
 
-– – –
+►**M32**
+
+Artikkel 26.
 
 – – –
 
-1. – – –
+◄**M32**
 
-2. – – –
+►**M32**
 
-3. Alle laboratorier som analyserer prøver med henblikk på de offentlige kontrollene av rester av plantevernmidler, skal delta i Fellesskapets egnethetsprøvinger for rester av plantevernmidler, som gjennomføres av Kommisjonen.
+Artikkel 27.
+
+– – –
+
+◄**M32**
+
+Artikkel 28
+Analysemetoder
+
+►**M32**
+
+1\. – – –
+
+2\. – – –
+
+◄**M32**
+
+3\. Alle laboratorier som analyserer prøver med henblikk på de offentlige kontrollene av rester av plantevernmidler, skal delta i Fellesskapets egnethetsprøvinger for rester av plantevernmidler, som gjennomføres av Kommisjonen.
 
 ### Avsnitt 2
 Fellesskapets kontrollprogram
 
-1. Kommisjonen skal utarbeide et samordnet flerårig kontrollprogram i Fellesskapet som angir de bestemte prøvene som skal inngå i de nasjonale kontrollprogrammene, og som tar hensyn til de problemene som er avklart med hensyn til overholdelse av de grenseverdiene for restmengder som er fastsatt i denne forordning, for å vurdere forbrukereksponering og anvendelse av gjeldende lovgivning.
+Artikkel 29
+Fellesskapets kontrollprogram
 
-2. Fellesskapets kontrollprogram skal vedtas og ajourføres hvert år i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2. Utkastet til Fellesskapets kontrollprogram skal framlegges for den komiteen som er nevnt i artikkel 45 nr. 1 senest seks måneder før utgangen av hvert kalenderår.
+1\. Kommisjonen skal utarbeide et samordnet flerårig kontrollprogram i Fellesskapet som angir de bestemte prøvene som skal inngå i de nasjonale kontrollprogrammene, og som tar hensyn til de problemene som er avklart med hensyn til overholdelse av de grenseverdiene for restmengder som er fastsatt i denne forordning, for å vurdere forbrukereksponering og anvendelse av gjeldende lovgivning.
+
+2\. Fellesskapets kontrollprogram skal vedtas og ajourføres hvert år i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2. Utkastet til Fellesskapets kontrollprogram skal framlegges for den komiteen som er nevnt i artikkel 45 nr. 1 senest seks måneder før utgangen av hvert kalenderår.
 
 ### Avsnitt 3
 Nasjonale kontrollprogrammer
 
+►**M32**
+
+Artikkel 30.
+
 – – –
+
+◄**M32**
 
 ### Avsnitt 4
 Opplysninger fra medlemsstatene og årlig rapport
 
-1. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
+Artikkel 31
+Opplysninger fra medlemsstatene
 
-2. Gjennomføringstiltakene for de opplysningene som medlemsstatene skal framlegge, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2 etter samråd med myndigheten.
+1\. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
 
-1. Myndigheten skal utarbeide en årlig rapport om rester av plantevernmidler på grunnlag av de opplysningene som medlemsstatene framlegger i samsvar med artikkel 31 nr. 1.
+2\. Gjennomføringstiltakene for de opplysningene som medlemsstatene skal framlegge, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2 etter samråd med myndigheten.
 
-2. Myndigheten skal minst opplyse om følgende i den årlige rapporten:en analyse av resultatene av kontrollene i henhold til artikkel 26 nr. 2,en redegjørelse for eventuelle årsaker til at grenseverdiene for restmengder er overskredet, sammen med relevante merknader om risikohåndteringsalternativer,en analyse av kroniske og akutte risikoer for forbrukernes helse som følge av rester av plantevernmidler,en vurdering av forbrukereksponeringen med hensyn til rester av plantevernmidler på grunnlag av opplysningene i bokstav a) og alle andre relevante opplysninger, herunder rapporter som er framlagt i henhold til direktiv [96/23/EF](eu/31996l0023).
+Artikkel 32
+Den årlige rapporten om rester av plantevernmidler
 
-3. Når en medlemsstat ikke har framlagt opplysninger i samsvar med artikkel 31, kan myndigheten se bort fra opplysningene fra nevnte medlemsstat når den utarbeider den årlige rapporten.
+1\. Myndigheten skal utarbeide en årlig rapport om rester av plantevernmidler på grunnlag av de opplysningene som medlemsstatene framlegger i samsvar med artikkel 31 nr. 1.
 
-4. Den årlige rapportens format kan fastlegges i samsvar med framgangsmåten fastsatt i artikkel 45 nr. 2.
+2\. Myndigheten skal minst opplyse om følgende i den årlige rapporten:en analyse av resultatene av kontrollene i henhold til artikkel 26 nr. 2,en redegjørelse for eventuelle årsaker til at grenseverdiene for restmengder er overskredet, sammen med relevante merknader om risikohåndteringsalternativer,en analyse av kroniske og akutte risikoer for forbrukernes helse som følge av rester av plantevernmidler,en vurdering av forbrukereksponeringen med hensyn til rester av plantevernmidler på grunnlag av opplysningene i bokstav a) og alle andre relevante opplysninger, herunder rapporter som er framlagt i henhold til direktiv [96/23/EF](eu/31996l0023).
 
-5. Myndigheten skal framlegge den årlige rapporten for Kommisjonen senest siste dag i februar hvert år.
+3\. Når en medlemsstat ikke har framlagt opplysninger i samsvar med artikkel 31, kan myndigheten se bort fra opplysningene fra nevnte medlemsstat når den utarbeider den årlige rapporten.
 
-6. Den årlige rapporten kan omfatte en uttalelse om hvilke plantevernmidler som skal være omfattet i framtidige programmer.
+4\. Den årlige rapportens format kan fastlegges i samsvar med framgangsmåten fastsatt i artikkel 45 nr. 2.
 
-7. Medlemsstaten skal offentliggjøre den årlige rapporten, samt eventuelle merknader fra Kommisjonen eller medlemsstatene.
+5\. Myndigheten skal framlegge den årlige rapporten for Kommisjonen senest siste dag i februar hvert år.
+
+6\. Den årlige rapporten kan omfatte en uttalelse om hvilke plantevernmidler som skal være omfattet i framtidige programmer.
+
+7\. Medlemsstaten skal offentliggjøre den årlige rapporten, samt eventuelle merknader fra Kommisjonen eller medlemsstatene.
+
+Artikkel 33
+Innlevering av den årlige rapporten om rester av plantevernmidler til komiteen
 
 Kommisjonen skal omgående framlegge den årlige rapporten om rester av plantevernmidler for den komiteen som er nevnt i artikkel 45 nr. 1, for at komiteen skal kunne gjennomgå og utforme rekommandasjoner om eventuelle nødvendige tiltak som skal treffes med hensyn til rapporterte overtredelser av de grenseverdiene for restmengder, som er fastsatt i vedlegg II og III.
 
 ### Avsnitt 5
+Sanksjoner
+
+Artikkel 34
 Sanksjoner
 
 Medlemsstatene skal fastsette bestemmelser om sanksjoner for overtredelser av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at de gjennomføres. Sanksjonene som fastsettes må være effektive, stå i et rimelig forhold til overtredelsen og virke forebyggende.
@@ -365,15 +489,15 @@ Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 
 ### Artikkel 36. Støttetiltak knyttet til harmoniserte grenseverdier for restmengder
 
-1. Støttetiltak med hensyn til harmoniserte grenseverdier for restmengder av plantevernmidler skal innføres på fellesskapsplan, herunder:en database som sammenfatter Fellesskapets regelverk for grenseverdier for restmengder av plantevernmidler, som er tilgjengelig for offentligheten,Fellesskapets egnethetsprøvinger som nevnt i artikkel 28 nr. 3,undersøkelser og andre tiltak som er nødvendige for å utarbeide og utvikle lovgivning og tekniske retningslinjer om rester av plantevernmidler, som særlig tar sikte på å utvikle og bruke metoder for å vurdere sammenlagte og kumulative virkninger, samt synergivirkninger,undersøkelser som er nødvendige for å vurdere forbrukeres og dyrs eksponering for rester av plantevernmidler,undersøkelser som er nødvendige for å understøtte kontrollaboratoriene, når analysemetoder ikke kan kontrollere de fastsatte grenseverdiene for restmengder.
+1\. Støttetiltak med hensyn til harmoniserte grenseverdier for restmengder av plantevernmidler skal innføres på fellesskapsplan, herunder:en database som sammenfatter Fellesskapets regelverk for grenseverdier for restmengder av plantevernmidler, som er tilgjengelig for offentligheten,Fellesskapets egnethetsprøvinger som nevnt i artikkel 28 nr. 3,undersøkelser og andre tiltak som er nødvendige for å utarbeide og utvikle lovgivning og tekniske retningslinjer om rester av plantevernmidler, som særlig tar sikte på å utvikle og bruke metoder for å vurdere sammenlagte og kumulative virkninger, samt synergivirkninger,undersøkelser som er nødvendige for å vurdere forbrukeres og dyrs eksponering for rester av plantevernmidler,undersøkelser som er nødvendige for å understøtte kontrollaboratoriene, når analysemetoder ikke kan kontrollere de fastsatte grenseverdiene for restmengder.
 
-2. Alle nødvendige gjennomføringsbestemmelser om de tiltakene som er nevnt i nr 1, skal vedtas i samsvar med framgangsmåten i artikkel 45 nr. 2.
+2\. Alle nødvendige gjennomføringsbestemmelser om de tiltakene som er nevnt i nr 1, skal vedtas i samsvar med framgangsmåten i artikkel 45 nr. 2.
 
 ### Artikkel 37. Fellesskapets bidrag til støttetiltak om harmoniserte grenseverdier for restmengder av plantevernmidler
 
-1. Fellesskapet kan yte et finansielt bidrag på opp til 100 % av kostnadene for tiltakene fastsatt i artikkel 36.
+1\. Fellesskapet kan yte et finansielt bidrag på opp til 100 % av kostnadene for tiltakene fastsatt i artikkel 36.
 
-2. Bevilgningene skal godkjennes hvert regnskapsår som en del av den årlige budsjettbehandlingen.
+2\. Bevilgningene skal godkjennes hvert regnskapsår som en del av den årlige budsjettbehandlingen.
 
 ### Kapittel VIII
 Samordning av søknader om grenseverdier for restmengder
@@ -400,9 +524,9 @@ Med forbehold for de relevante bestemmelsene i Fellesskapets regelverk og nasjon
 
 ### Artikkel 42. Medlemsstater og gebyrer
 
-1. Medlemsstatene kan dekke kostnadene knyttet til arbeidet med å fastsette, endre eller stryke grenseverdier for restmengder eller alt annet arbeid som følge av forpliktelsene i denne forordning ved å innkreve et gebyr eller en avgift.
+1\. Medlemsstatene kan dekke kostnadene knyttet til arbeidet med å fastsette, endre eller stryke grenseverdier for restmengder eller alt annet arbeid som følge av forpliktelsene i denne forordning ved å innkreve et gebyr eller en avgift.
 
-2. Medlemsstatene skal sikre at gebyret eller avgiften nevnt i nr. 1:fastsettes på en måte som sikrer innsyn, ogsvarer til de faktiske kostnadene for det aktuelle arbeidet.Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
+2\. Medlemsstatene skal sikre at gebyret eller avgiften nevnt i nr. 1:fastsettes på en måte som sikrer innsyn, ogsvarer til de faktiske kostnadene for det aktuelle arbeidet.Det gis anledning til å benytte en fastsatt gebyrtabell basert på gjennomsnittlige kostnader for det arbeidet som er nevnt i nr. 1.
 
 ### Kapittel IX
 Gjennomføring
@@ -413,17 +537,17 @@ Kommisjonen eller medlemsstaten kan anmode myndigheten om en vitenskapelig uttal
 
 ### Artikkel 44. Framgangsmåte for vedtakelse av myndighetens uttalelser
 
-1. Når myndighetens uttalelser i henhold til denne forordning bare krever vitenskapelig eller teknisk arbeid som innebærer anvendelse av alminnelig anerkjente vitenskapelige eller tekniske prinsipper, kan myndigheten, med mindre Kommisjonen eller en medlemsstat har innvendinger, avgi uttalelsene uten samråd med vitenskapskomiteen eller vitenskapsgruppene som er nevnt i artikkel 28 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+1\. Når myndighetens uttalelser i henhold til denne forordning bare krever vitenskapelig eller teknisk arbeid som innebærer anvendelse av alminnelig anerkjente vitenskapelige eller tekniske prinsipper, kan myndigheten, med mindre Kommisjonen eller en medlemsstat har innvendinger, avgi uttalelsene uten samråd med vitenskapskomiteen eller vitenskapsgruppene som er nevnt i artikkel 28 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
-2. Gjennomføringsbestemmelsene i henhold til artikkel 29 nr. 6 bokstav a) i forordning [(EF) nr. 178/2002](eu/32002r0178) skal angi de tilfellene der nr. 1 i denne artikkel får anvendelse.
+2\. Gjennomføringsbestemmelsene i henhold til artikkel 29 nr. 6 bokstav a) i forordning [(EF) nr. 178/2002](eu/32002r0178) skal angi de tilfellene der nr. 1 i denne artikkel får anvendelse.
 
 ### Artikkel 45. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»).
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»).
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 46. Gjennomføringstiltak
 
@@ -438,15 +562,17 @@ Sluttbestemmelser
 
 ### Artikkel 48. Oppheving og tilpasning av lovgivning
 
-1. Direktiv [76/895/EØF](eu/31976l0895*), [86/362/EØF](eu/31986l0362), [86/363/EØF](eu/31986l0363) og [90/642/EØF](eu/31990l0642) oppheves med virkning fra den datoen som er nevnt i artikkel 50 annet ledd.
+1\. Direktiv [76/895/EØF](eu/31976l0895*), [86/362/EØF](eu/31986l0362), [86/363/EØF](eu/31986l0363) og [90/642/EØF](eu/31990l0642) oppheves med virkning fra den datoen som er nevnt i artikkel 50 annet ledd.
 
-2. Artikkel 4 nr. 1 bokstav f) i direktiv [91/414/EØF](eu/31991l0414*) erstattes med følgende:grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, er fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396),* der det er relevant»
+2\. Artikkel 4 nr. 1 bokstav f) i direktiv [91/414/EØF](eu/31991l0414*) erstattes med følgende:grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, er fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396),\* der det er relevant»
+
+\* EUT L 70 av 16.3.2005, s. 1.
 
 ### Artikkel 49. Overgangstiltak
 
-1. Kravene i kapittel III får ikke anvendelse på produkter som er lovlig produsert eller importert til Fellesskapet før den datoen som er nevnt i artikkel 50 annet ledd.For å sikre et høyt nivå av forbrukervern kan det imidlertid treffes egnede tiltak for disse produktene i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+1\. Kravene i kapittel III får ikke anvendelse på produkter som er lovlig produsert eller importert til Fellesskapet før den datoen som er nevnt i artikkel 50 annet ledd.For å sikre et høyt nivå av forbrukervern kan det imidlertid treffes egnede tiltak for disse produktene i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
 
-2. Når det er nødvendig, kan ytterligere overgangstiltak fastsettes for å gjennomføre bestemte grenseverdier for restmengder som fastsatt i artikkel 15, 16, 21, 22 og 25, for å sikre at produktene markedsføres, bearbeides og forbrukes på en normal måte.Disse tiltakene, med forbehold for forpliktelsen om å sikre et høyt nivå av forbrukervern, kan vedtas i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
+2\. Når det er nødvendig, kan ytterligere overgangstiltak fastsettes for å gjennomføre bestemte grenseverdier for restmengder som fastsatt i artikkel 15, 16, 21, 22 og 25, for å sikre at produktene markedsføres, bearbeides og forbrukes på en normal måte.Disse tiltakene, med forbehold for forpliktelsen om å sikre et høyt nivå av forbrukervern, kan vedtas i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2.
 
 ### Artikkel 50. Ikrafttredelse
 
@@ -458,16 +584,1140 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Strasbourg, 23. februar 2005.
 
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| J. BORRELL FONTELLES | N. SCHMIT |
+| *President* | *Formann* |
+
 ### Vedlegg
+
+**M1**
+
+*Vedlegg I*
+
+Liste over næringsmidler og fôrvarer som omfattes av grenseverdier for rester av plantevernmidler
+
+**M2**
+
+*Vedlegg II og III*
+
+Grenseverdier for produkter som omfattes av vedlegg I
+
+*Vedlegg IV*
+
+Stoffer det ikke kreves grenseverdier for.
+
+**M3**
+
+*Vedlegg VII*
+
+Liste over aktive stoff-/produktkombinasjoner som omfattes av et unntak med hensyn til behandling med fumigantmidler etter innhøsting
+
+**M4**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II, III og IV med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M5**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M6**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II, III og IV med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M7**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M8**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M9**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M10**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M11**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M12**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M13**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M14**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M15**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M16**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M17**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M18**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M19**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M20**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M21**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M22**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M23**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M24**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M25**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M26**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M27**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M28**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M29**
+
+Endring av Europaparlamentets- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M30**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter.
+
+**M31**
+
+Endring av Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) vedlegg II og III med hensyn til grenseverdier for restmengder av plantevernmidler i eller på visse produkter og etablering av vedlegg V som er en liste over standardverdier.
+
+Se her for å lese forordning [(EF) nr. 178/2006](eu/32006r0178): [pdf-fil](static/SF/32006r0178.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 149/2008](eu/32008r0149*): [pdf-fil](static/SF/32008r0149.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 260/2008](eu/32008r0260): [pdf-fil](static/SF/32008r0260.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 839/2008](eu/32008r0839*): [pdf-fil](static/SF/32008r0839.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 256/2009](eu/32009r0256*): [pdf-fil](static/SF/32009r0256.pdf)
+
+Engelsk versjon.
+
+Se her for å lese engelsk oversettelse av forordning [(EF) nr. 822/2009](eu/32009r0822*): [pdf-fil](static/SF/32009r0822e.pdf)
+
+Se her for å lese forordning [(EF) nr. 1050/2009](eu/32009r1050*): [pdf-fil](static/SF/32009r1050u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EF) nr. 1097/2009](eu/32009r1097*): [pdf-fil](static/SF/32009r1097u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 304/2010](eu/32010r0304): [pdf-fil](static/SF/32010r0304u.pdf)
+
+Se her for å lese forordning [(EU) nr. 459/2010](eu/32010r0459): [pdf-fil](static/SF/32010r0459u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 600/2010](eu/32010r0600): [pdf-fil](static/SF/32010r0600u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 750/2010](eu/32010r0750): [pdf-fil](static/SF/32010r0750u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 765/2010](eu/32010r0765): [pdf-fil](static/SF/32010r0765u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 893/2010](eu/32010r0893): [pdf-fil](static/SF/32010r0893u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 310/2011](eu/32011r0310) [pdf-fil](static/SF/32011r0310u.pdf)
+
+Se her for å lese forordning [(EU) nr. 460/2011](eu/32011r0460) [pdf-fil](static/SF/32011r0460u.pdf)
+
+Se her for å lese forordning [(EU) nr. 508/2011](eu/32011r0508) [pdf-fil](static/SF/32011r0508u.pdf)
+
+Se her for å lese forordning [(EU) nr. 520/2011](eu/32011r0520) [pdf-fil](static/SF/32011r0520u.pdf)
+
+Se her for å lese forordning [(EU) nr. 524/2011](eu/32011r0524*) [pdf-fil](static/SF/32011r0524u.pdf)
+
+Se her for å lese forordning [(EU) nr. 559/2011](eu/32011r0559) [pdf-fil](static/SF/32011r0559u.pdf)
+
+Se her for å lese forordning [(EU) nr. 812/2011](eu/32011r0812) [pdf-fil](static/SF/32011r0812u.pdf)
+
+Se her for å lese forordning [(EU) nr. 813/2011](eu/32011r0813) [pdf-fil](static/SF/32011r0813u.pdf)
+
+Se her for å lese forordning [(EU) nr. 978/2011](eu/32011r0978): [pdf-fil](static/SF/32011r0978u.pdf)
+
+Se her for å lese forordning [(EU) nr. 270/2012](eu/32012r0270): [pdf-fil](static/SF/32012r0270u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 322/2012](eu/32012r0322): [pdf-fil](static/SF/32012r0322u.pdf)
+
+Se her for å lese forordning [(EU) nr. 441/2012](eu/32012r0441): [pdf-fil](static/SF/32012r0441u.pdf)
+
+Se her for å lese forordning [(EU) nr. 473/2012](eu/32012r0473): [pdf-fil](static/SF/32012r0473u.pdf)
+
+Se her for å lese forordning [(EU) nr. 556/2012](eu/32012r0556): [pdf-fil](static/SF/32012r0556u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 592/2012](eu/32012r0592): [pdf-fil](static/SF/32012r0592u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 897/2012](eu/32012r0897): [pdf-fil](static/SF/32012r0897u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 899/2012](eu/32012r0899): [pdf-fil](static/SF/32012r0899u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 34/2013](eu/32013r0034): [pdf-fil](static/SF/32013r0034u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 35/2013](eu/32013r0035): [pdf-fil](static/SF/32013r0035u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 212/2013](eu/32013r0212): [pdf-fil](static/SF/32013r0212u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 241/2013](eu/32013r0241): [pdf-fil](static/SF/32013r0241u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 251/2013](eu/32013r0251): [pdf-fil](static/SF/32013r0251u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 293/2013](eu/32013r0293): [pdf-fil](static/SF/32013r0293u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 500/2013](eu/32013r0500): [pdf-fil](static/SF/32013r0500u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 668/2013](eu/32013r0668*): [pdf-fil](static/SF/32013r0668u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 772/2013](eu/32013r0772): [pdf-fil](static/SF/32013r0772u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 777/2013](eu/32013r0777) [pdf-fil](static/SF/32013r0777u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 834/2013](eu/32013r0834) [pdf-fil](static/SF/32013r0834u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1004/2013](eu/32013r1004): [pdf-fil](static/SF/32013r1004u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 1138/2013](eu/32013r1138): [pdf-fil](static/SF/32013r1138u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1317/2013](eu/32013r1317): [pdf-fil](static/SF/32013r1317u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 36/2014](eu/32014r0036): [pdf-fil](static/SF/32014r0036u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 51/2014](eu/32014r0051): [pdf-fil](static/SF/32014r0051u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 61/2014](eu/32014r0061): [pdf-fil](static/SF/32014r0061u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 79/2014](eu/32014r0079): [pdf-fil](static/SF/32014r0079u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 87/2014](eu/32014r0087): [pdf-fil](static/SF/32014r0087u.pdf)
+
+Se her for å lese forordning [(EU) nr. 289/2014](eu/32014r0289): [pdf-fil](static/SF/32014r0289u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 318/2014](eu/32014r0318): [pdf-fil](static/SF/32014r0318u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 364/2014](eu/32014r0364): [pdf-fil](static/SF/32014r0364u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 398/2014](eu/32014r0398): [pdf-fil](static/SF/32014r0398u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 491/2014](eu/32014r0491) [pdf-fil](static/SF/32014r0491u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 588/2014](eu/32014r0588) [pdf-fil](static/SF/32014r0588u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 617/2014](eu/32014r0617) [pdf-fil](static/SF/32014r0617u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 703/2014](eu/32014r0703) [pdf-fil](static/SF/32014r0703u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 737/2014](eu/32014r0737) [pdf-fil](static/SF/32014r0737u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 752/2014](eu/32014r0752): [pdf-fil](static/SF/32014r0752u.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) nr. 991/2014](eu/32014r0991): [pdf-fil](static/SF/32014r0991u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1096/2014](eu/32014r1096): [pdf-fil](static/SF/32014r1096u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1119/2014](eu/32014r1119): [pdf-fil](static/SF/32014r1119u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1126/2014](eu/32014r1126): [pdf-fil](static/SF/32014r1126u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1127/2014](eu/32014r1127): [pdf-fil](static/SF/32014r1127u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) nr. 1146/2014](eu/32014r1146): [pdf-fil](static/SF/32014r1146u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/165](eu/32015r0165): [pdf-fil](static/SF/32015r0165u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/399](eu/32015r0399): [pdf-fil](static/SF/32015r0399u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/400](eu/32015r0400): [pdf-fil](static/SF/32015r0400u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/401](eu/32015r0401): [pdf-fil](static/SF/32015r0401u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/552](eu/32015r0552*): [pdf-fil](static/SF/32015r0552u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/603](eu/32015r0603*): [pdf-fil](static/SF/32015r0603u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/845](eu/32015r0845*): [pdf-fil](static/SF/32015r0845u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/846](eu/32015r0846): [pdf-fil](static/SF/32015r0846u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/868](eu/32015r0868*): [pdf-fil](static/SF/32015r0868u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/896](eu/32015r0896): [pdf-fil](static/SF/32015r0896u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1040](eu/32015r1040): [pdf-fil](static/SF/32015r1040u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1101](eu/32015r1101): [pdf-fil](static/SF/32015r1101u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1200](eu/32015r1200): [pdf-fil](static/SF/32015r1200u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1608](eu/32015r1608): [pdf-fil](static/SF/32015r1608u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/1910](eu/32015r1910): [pdf-fil](static/SF/32015r1910u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2015/2075](eu/32015r2075*): [pdf-fil](static/SF/32015r2075u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1](eu/32016r0001): [pdf-fil](static/SF/32016r0001u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/46](eu/32016r0046): [pdf-fil](static/SF/32016r0046u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/53](eu/32016r0053): [pdf-fil](static/SF/32016r0053u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/60](eu/32016r0060): [pdf-fil](static/SF/32016r0060u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/67](eu/32016r0067): [pdf-fil](static/SF/32016r0067u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/71](eu/32016r0071*): [pdf-fil](static/SF/32016r0071u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/75](eu/32016r0075): [pdf-fil](static/SF/32016r0075u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/143](eu/32016r0143): [pdf-fil](static/SF/32016r0143u.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/156](eu/32016r0156): [pdf-fil](static/SF/32016r0156u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/439](eu/32016r0439): [pdf-fil](static/SF/32016r0439u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/440](eu/32016r0440): [pdf-fil](static/SF/32016r0440u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/452](eu/32016r0452): [pdf-fil](static/SF/32016r0452u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/486](eu/32016r0486): [pdf-fil](static/SF/32016r0486u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/567](eu/32016r0567): [pdf-fil](static/SF/32016r0567u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/805](eu/32016r0805): [pdf-fil](static/SF/32016r0805u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1002](eu/32016r1002): [pdf-fil](static/SF/32016r1002u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1003](eu/32016r1003): [pdf-fil](static/SF/32016r1003u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1015](eu/32016r1015*): [pdf-fil](static/SF/32016r1015u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1016](eu/32016r1016): [pdf-fil](static/SF/32016r1016u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1355](eu/32016r1355): [pdf-fil](static/SF/32016r1355u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1726](eu/32016r1726): [pdf-fil](static/SF/32016r1726u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1785](eu/32016r1785): [pdf-fil](static/SF/32016r1785u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1822](eu/32016r1822): [pdf-fil](static/SF/32016r1822u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1866](eu/32016r1866): [pdf-fil](static/SF/32016r1866u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2016/1902](eu/32016r1902): [pdf-fil](static/SF/32016r1902u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/170](eu/32017r0170): [pdf-fil](static/SF/32017r0170u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/171](eu/32017r0171): [pdf-fil](static/SF/32017r0171u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/405](eu/32017r0405): [pdf-fil](static/SF/32017r0405u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/623](eu/32017r0623): [pdf-fil](static/SF/32017r0623u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/624](eu/32017r0624): [pdf-fil](static/SF/32017r0624u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/626](eu/32017r0626): [pdf-fil](static/SF/32017r0626u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/627](eu/32017r0627): [pdf-fil](static/SF/32017r0627u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/671](eu/32017r0671): [pdf-fil](static/SF/32017r0671u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/693](eu/32017r0693*): [pdf-fil](static/SF/32017r0693u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/978](eu/32017r0978*): [pdf-fil](static/SF/32017r0978u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/983](eu/32017r0983): [pdf-fil](static/SF/32017r0983u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1016](eu/32017r1016): [pdf-fil](static/SF/32017r1016u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1135](eu/32017r1135): [pdf-fil](static/SF/32017r1135u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1164](eu/32017r1164): [pdf-fil](static/SF/32017r1164u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2017/1777](eu/32017r1777) [pdf-fil](static/SF/32017r1777u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/62](eu/32018r0062): [pdf-fil](static/SF/32018r0062u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/70](eu/32018r0070): [pdf-fil](static/SF/32018r0070u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/73](eu/32018r0073): [pdf-fil](static/SF/32018r0073u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/78](eu/32018r0078): [pdf-fil](static/SF/32018r0078u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/685](eu/32018r0685): [pdf-fil](static/SF/32018r0685u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/686](eu/32018r0686): [pdf-fil](static/SF/32018r0686u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/687](eu/32018r0687): [pdf-fil](static/SF/32018r0687u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/832](eu/32018r0832*): [pdf-fil](static/SF/32018r0832u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/960](eu/32018r0960): [pdf-fil](static/SF/32018r0960u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1049](eu/32018r1049): [pdf-fil](static/SF/32018r1049u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1514](eu/32018r1514): [pdf-fil](static/SF/32018r1514u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1515](eu/32018r1515): [pdf-fil](static/SF/32018r1515u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2018/1516](eu/32018r1516): [pdf-fil](static/SF/32018r1516u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/38](eu/32019r0038): [pdf-fil](static/SF/32019r0038u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/50](eu/32019r0050*): [pdf-fil](static/SF/32019r0050u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/58](eu/32019r0058): [pdf-fil](static/SF/32019r0058u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/88](eu/32019r0088): [pdf-fil](static/SF/32019r0088u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/89](eu/32019r0089): [pdf-fil](static/SF/32019r0089u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/90](eu/32019r0090): [pdf-fil](static/SF/32019r0090u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/91](eu/32019r0091): [pdf-fil](static/SF/32019r0091u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/552](eu/32019r0552): [pdf-fil](static/SF/32019r0552u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/973](eu/32019r0973): [pdf-fil](static/SF/32019r0973u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/977](eu/32019r0977): [pdf-fil](static/SF/32019r0977u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1015](eu/32019r1015): [pdf-fil](static/SF/32019r1015u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1176](eu/32019r1176): [pdf-fil](static/SF/32019r1176u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1559](eu/32019r1559): [pdf-fil](static/SF/32019r1559u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1561](eu/32019r1561): [pdf-fil](static/SF/32019r1561u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1582](eu/32019r1582): [pdf-fil](static/SF/32019r1582u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1791](eu/32019r1791): [pdf-fil](static/SF/32019r1791u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2019/1792](eu/32019r1792): [pdf-fil](static/SF/32019r1792u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2020/192](eu/32020r0192): [pdf-fil](static/SF/32020r0192u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/703](eu/32020r0703): [pdf-fil](static/SF/32020r0703u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/749](eu/32020r0749): [pdf-fil](static/SF/32020r0749u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/770](eu/32020r0770): [pdf-fil](static/SF/32020r0770u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/785](eu/32020r0785): [pdf-fil](static/SF/32020r0785u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/856](eu/32020r0856): [pdf-fil](static/SF/32020r0856u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1085](eu/32020r1085): [pdf-fil](static/SF/32020r1085u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1633](eu/32020r1633): [pdf-fil](static/SF/32020r1633u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2020/1565](eu/32020r1565): [pdf-fil](static/SF/32020r1565u-01.pdf)
+
+Se her for å lese forordning [(EU) 2020/1566](eu/32020r1566): [pdf-fil](static/SF/32020r1566u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/155](eu/32021r0155):[pdf-fil](static/SF/32021r0155u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/590](eu/32021r0590): [pdf-fil](static/SF/32021r0590u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/616](eu/32021r0616): [pdf-fil](static/SF/32021r0616u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/618](eu/32021r0618):[pdf-fil](static/SF/32021r0618u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/644](eu/32021r0644):[pdf-fil](static/SF/32021r0644u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/663](eu/32021r0663):[pdf-fil](static/SF/32021r0663u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/976](eu/32021r0976): [pdf-fil](static/SF/32021r0976u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1098](eu/32021r1098): [pdf-fil](static/SF/32021r1098u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1110](eu/32021r1110): [pdf-fil](static/SF/32021r1110u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1247](eu/32021r1247): [pdf-fil](static/SF/32021r1247u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/1531](eu/32021r1531): [pdf-fil](static/SF/32021r1531u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1771](eu/32021r1771): [pdf-fil](static/SF/32021r1771u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1795](eu/32021r1795): [pdf-fil](static/SF/32021r1795u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1804](eu/32021r1804): [pdf-fil](static/SF/32021r1804u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1807](eu/32021r1807): [pdf-fil](static/SF/32021r1807u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1810](eu/32021r1810): [pdf-fil](static/SF/32021r1810u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1841](eu/32021r1841): [pdf-fil](static/SF/32021r1841u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1842](eu/32021r1842): [pdf-fil](static/SF/32021r1842u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1864](eu/32021r1864): [pdf-fil](static/SF/32021r1864u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1881](eu/32021r1881): [pdf-fil](static/SF/32021r1881u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/1884](eu/32021r1884): [pdf-fil](static/SF/32021r1884u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2021/2202](eu/32021r2202): [pdf-fil](static/SF/32021r2202u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/78](eu/32022r0078): [pdf-fil](static/SF/32022r0078u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/85](eu/32022r0085): [pdf-fil](static/SF/32022r0085u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/93](eu/32022r0093): [pdf-fil](static/SF/32022r0093u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/476](eu/32022r0476): [pdf-fil](static/SF/32022r0476u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/566](eu/32022r0566): [pdf-fil](static/SF/32022r0566u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1264](eu/32022r1264) [pdf-fil](static/SF/32022r1264u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1290](eu/32022r1290) [pdf-fil](static/SF/32022r1290u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1321](eu/32022r1321) [pdf-fil](static/SF/32022r1321u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1324](eu/32022r1324) [pdf-fil](static/SF/32022r1324u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1343](eu/32022r1343) [pdf-fil](static/SF/32022r1343u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1346](eu/32022r1346) [pdf-fil](static/SF/32022r1346u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1363](eu/32022r1363) [pdf-fil](static/SF/32022r1363u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1406](eu/32022r1406): [pdf-fil](static/SF/32022r1406u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2022/1435](eu/32022r1435): [pdf-fil](static/SF/32022r1435u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/127](eu/32023r0127): [pdf-fil](static/SF/32023r0127u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/128](eu/32023r0128): [pdf-fil](static/SF/32023r0128u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/129](eu/32023r0129): [pdf-fil](static/SF/32023r0129u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/147](eu/32023r0147): [pdf-fil](static/SF/32023r0147u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/163](eu/32023r0163): [pdf-fil](static/SF/32023r0163u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/173](eu/32023r0173): [pdf-fil](static/SF/32023r0173u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/198](eu/32023r0198): [pdf-fil](static/SF/32023r0198u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/334](eu/32023r0334): [pdf-fil](static/SF/32023r0334u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/377](eu/32023r0377): [pdf-fil](static/SF/32023r0377u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/466](eu/32023r0466): [pdf-fil](static/SF/32023r0466u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/679](eu/32023r0679): [pdf-fil](static/SF/32023r0679u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/710](eu/32023r0710): [pdf-fil](static/SF/32023r0710u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1029](eu/32023r1029): [pdf-fil](static/SF/32023r1029u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1030](eu/32023r1030): [pdf-fil](static/SF/32023r1030u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1042](eu/32023r1042): [pdf-fil](static/SF/32023r1042u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1049](eu/32023r1049): [pdf-fil](static/SF/32023r1049u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1068](eu/32023r1068): [pdf-fil](static/SF/32023r1068u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1069](eu/32023r1069): [pdf-fil](static/SF/32023r1069u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1536](eu/32023r1536): [pdf-fil](static/SF/32023r1536u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1719](eu/32023r1719) [pdf-fil](static/SF/32023r1719u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1753](eu/32023r1753) [pdf-fil](static/SF/32023r1753u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/1783](eu/32023r1783): [pdf-fil](static/SF/32023r1783u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2023/2382](eu/32023r2382) [pdf-fil](static/SF/32023r2382u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/398](eu/32024r0398): [pdf-fil](static/SF/32024r0398u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/451](eu/32024r0451): [pdf-fil](static/SF/32024r0451u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/891](eu/32024r0891): [pdf-fil](static/SF/32024r0891u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1076](eu/32024r1076): [pdf-fil](static/SF/32024r1076u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1077](eu/32024r1077): [pdf-fil](static/SF/32024r1077u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/1078](eu/32024r1078): [pdf-fil](static/SF/32024r1078u-01.pdf)
+
+Se her for å lese forordning [(EU) 2024/331](eu/32024r0331): [pdf-fil](static/SF/32024r0331u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/341](eu/32024r0341): [pdf-fil](static/SF/32024r0341u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/342](eu/32024r0342): [pdf-fil](static/SF/32024r0342u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/344](eu/32024r0344): [pdf-fil](static/SF/32024r0344u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/345](eu/32024r0345): [pdf-fil](static/SF/32024r0345u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/347](eu/32024r0347): [pdf-fil](static/SF/32024r0347u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/352](eu/32024r0352): [pdf-fil](static/SF/32024r0352u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/376](eu/32024r0376): [pdf-fil](static/SF/32024r0376u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1342](eu/32024r1342): [pdf-fil](static/SF/32024r1342u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1439](eu/32024r1439): [pdf-fil](static/SF/32024r1439u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/246](eu/32024r0246): [pdf-fil](static/SF/32024r0246u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1314](eu/32024r1314): [pdf-fil](static/SF/32024r1314u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1318](eu/32024r1318): [pdf-fil](static/SF/32024r1318u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/1355](eu/32024r1355): [pdf-fil](static/SF/32024r1355u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2609](eu/32024r2609): [pdf-fil](static/SF/32024r2609u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2612](eu/32024r2612): [pdf-fil](static/SF/32024r2612u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2619](eu/32024r2619): [pdf-fil](static/SF/32024r2619u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2633](eu/32024r2633): [pdf-fil](static/SF/32024r2633u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2640](eu/32024r2640): [pdf-fil](static/SF/32024r2640u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2024/2711](eu/32024r2711): [pdf](static/SF/32024r2711u-01.pdf)
+
+Uoffisiell oversettelse
+
+Se her for å lese forordning [(EU) 2024/3196](eu/32024r3196): [pdf-fil](static/SF/32024r3196u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/115](eu/32025r0115): [pdf-fil](static/SF/32025r0115u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/146](eu/32025r0146): [pdf-fil](static/SF/32025r0146u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/158](eu/32025r0158): [pdf-fil](static/SF/32025r0158u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/195](eu/32025r0195): [pdf-fil](static/SF/32025r0195u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/581](eu/32025r0581): [pdf-fil](static/SF/32025r0581u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1163](eu/32025r1163): [pdf-fil](static/SF/32025r1163u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1164](eu/32025r1164): [pdf-fil](static/SF/32025r1164u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1212](eu/32025r1212): [pdf-fil](static/SF/32025r1212u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/1305](eu/32025r1305): [pdf-fil](static/SF/32025r1305u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2025/2473](eu/32025r2473): [pdf-fil](static/SF/32025r2473u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/140](eu/32026r0140): [pdf-fil](static/SF/32026r0140u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/147](eu/32026r0147): [pdf-fil](static/SF/32026r0147u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/215](eu/32026r0215): [pdf-fil](static/SF/32026r0215u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/742](eu/32026r0742): [pdf-fil](static/SF/32026r0742u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/751](eu/32026r0751): [pdf-fil](static/SF/32026r0751u-01.pdf)
+
+Uoffisiell oversettelse.
+
+Se her for å lese forordning [(EU) 2026/752](eu/32026r0752): [pdf-fil](static/SF/32026r0752u-01.pdf)
+
+Uoffisiell oversettelse.
 
 ### Forordning (EF) nr. 645/2000
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 645/2000](eu/32000r0645) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II.
+
+For å lese forordning [(EF) nr. 645/2000](eu/32000r0645) se her: [pdf-fil](static/SF/32000r0645.pdf)
 
 > Endret ved [forskrift 3 mai 2010 nr. 763](forskrift/2010-05-03-763).
 
 ### Direktiv 2002/63/EF
 
 Nedenfor gjengis til informasjon norsk oversettelse av direktiv [2002/63/EF](eu/32002l0063) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II.
+
+For å lese direktiv [2002/63/EF](eu/32002l0063) se her: [pdf-fil](static/SF/32002l0063.pdf)
 
 > Endret ved [forskrift 3 mai 2010 nr. 763](forskrift/2010-05-03-763).

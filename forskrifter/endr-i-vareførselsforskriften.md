@@ -24,13 +24,15 @@ eu_basis: []
 
 ## I
 
-(1) Ved transport av varer mot vederlag eller til bruk i egen virksomhet skal melding om ankomst leveres elektronisk til tollmyndighetenes datasystem, eller til datasystem som er godkjent av tollmyndighetene.
+I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
 
-(2) Tollmyndighetene kan i særlige tilfeller tillate at melding om ankomst leveres på annen måte enn etter første ledd.
+Ny [§ 2-3-6](forskrift/2022-10-27-1901/§2-3-6) med overskrift skal lyde:
 
-> Endret ved forskrift [30 juni 2025 nr. 1376](forskrift/2025-06-30-1376).
+– – –
 
-Følgende varer er unntatt deklareringsplikt ved innlegg på tollager:avfall, arbeidsklær o.l. for rengjøring og retur, brevpost uten tollavgiftspliktig innhold som kan innføres uten tillatelser fra andre myndigheter, seismiske og geologiske prøver og som innføres direkte fra norsk del av kontinentalsokkelennorske varer og varer som tidligere har gått over i fri disponering som kommer i retur fra norsk del av kontinentalsokkelen, dersom importør og eksportør er samme person og tollavgift ikke er refundert ved utførselenvare som tidligere har blitt utført fra tollager til norsk del av kontinentalsokkelen, og deretter har blitt returnert til tollageret. Unntaket gjelder vare til bruk på norsk del av kontinentalsokkelen og vare til bruk om bord i norskeide fartøy som opererer på norsk del av kontinentalsokkelen. Unntaket gjelder ikke proviant og forbruksvarer.
+[§ 4-4-13](forskrift/2022-10-27-1901/§4-4-13) med overskrift skal lyde:
+
+[§ 4-4-14](forskrift/2022-10-27-1901/§4-4-14) oppheves.
 
 ## II
 

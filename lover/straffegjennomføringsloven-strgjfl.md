@@ -290,6 +290,8 @@ For domfelte under 18 år skal personundersøkelse som er foretatt etter [straff
 
 > Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 41](forskrift/2012-01-20-41)), [24 juni 2011 nr. 35](lov/2011-06-24-35) (ikr. 1 jan 2014 iflg. [res. 29 nov 2013 nr. 1363](forskrift/2013-11-29-1363)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [21 juni 2019 nr. 48](lov/2019-06-21-48) (ikr. 1 okt 2020 iflg. [res. 21 sep 2020 nr. 1788](forskrift/2020-09-21-1788)), [20 des 2019 nr. 105](lov/2019-12-20-105) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 
+1 Ikr. 1 mars 2002 med unntak av første ledd bokstav c.
+
 ### § 10 a. Særregler for unge innsatte
 
 Når noen under 18 år innsettes i fengsel, skal oppholdet tilrettelegges etter deres behov. Enheter som opprettes spesielt for innsatte under 18 år skal ha et tverretatlig team som skal ivareta de unges behov under straffegjennomføringen og forberede tiden etter løslatelse.
@@ -614,6 +616,8 @@ Kriminalomsorgen kan beslutte at innsatte under 18 år skal utelukkes helt eller
 
 > Endret ved [lover 14 juni 2013 nr. 44](lov/2013-06-14-44), [28 feb 2014 nr. 3](lov/2014-02-28-3), [20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. 30 okt 2015 iflg. [res. 30 okt 2015 nr. 1233](forskrift/2015-10-30-1233), med unntak av femte ledd siste setning) som endret ved [lov 28 feb 2014 nr. 3](lov/2014-02-28-3), [22 apr 2016 nr. 3](lov/2016-04-22-3) (ikr. 22 apr 2016 iflg. [res. 22 apr 2016 nr. 407](forskrift/2016-04-22-407)). **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer, femte ledd siste punktum). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
 
+1 Dette punktum er ikke satt i kraft.
+
 ### § 37 a. Utelukkelse på grunn av forhold ved den innsatte
 
 > **Tilføyes** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
@@ -697,6 +701,8 @@ Dersom det er av betydning for fornærmede i straffesaken eller dennes etterlatt
 [Reaksjonene i annet ledd og fjerde ledd annet og tredje punktum kan ikke brukes overfor innsatte under 18 år. Departementet kan gi forskrift med utfyllende bestemmelser om mindre inngripende reaksjoner ved brudd på straffegjennomføringen for denne gruppen innsatte.]1
 
 > Endret ved [lover 21 des 2005 nr. 131](lov/2005-12-21-131) (ikr. 1 jan 2006 iflg. [res. 21 des 2005 nr. 1580](forskrift/2005-12-21-1580)), [29 juni 2007 nr. 83](lov/2007-06-29-83) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1138](forskrift/2007-10-12-1138)), [29 juni 2007 nr. 84](lov/2007-06-29-84) (ikr. 1 nov 2007 iflg. [res. 12 okt 2007 nr. 1139](forskrift/2007-10-12-1139)), [14 juni 2013 nr. 44](lov/2013-06-14-44), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2019 nr. 105](lov/2019-12-20-105) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1245](forskrift/2020-06-19-1245)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)) **Endres** ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) (ikr. fra den tid Kongen bestemmer). **Endres** ved lov [12 mai 2026 nr. 18](lov/2026-05-12-18) (i kraft fra den tid Kongen bestemmer).
+
+1 Leddet tilføyes ved [lov 20 jan 2012 nr. 6](lov/2012-01-20-6) fra den tid Kongen bestemmer, men er av informasjonshensyn tilføyd bestemmelsen her. Leddet kan ved ikrafttredelse få annen plassering enn tiende ledd, som endringsloven angir.
 
 ### § 41. Forberedelse til løslatelse
 
@@ -793,6 +799,8 @@ Det kan bare besluttes tiltak på grunnlag av forskrifter etter første ledd nå
 ### § 45 f. (Opphevet)
 
 > Tilføyd ved lov [18 des 2020 nr. 148](lov/2020-12-18-148), opphevet ved lov [18 des 2020 nr. 148](lov/2020-12-18-148) (ikr. 1 juni 2021, se endringslovens § 45 f), tilføyd ved [lov 11 juni 2021 nr. 71](lov/2021-06-11-71), opphevet ved [lov 11 juni 2021 nr. 71](lov/2021-06-11-71) (ikr. 1 des 2021), tilføyd ved lov [17 des 2021 nr. 149](lov/2021-12-17-149), opphevet ved lov [17 des 2021 nr. 149](lov/2021-12-17-149) (i kraft 1 juli 2023, endring endret ved lov [17 juni 2022 nr. 62](lov/2022-06-17-62)).
+
+1 § 45 f ble opphevet før forlengelse av virketid ble vedtatt ved lov [4 juni 2021 nr. 54](lov/2021-06-04-54).
 
 ## Kapittel 4. Varetekt og andre reaksjoner når det er særskilt bestemt i lov
 
@@ -903,3 +911,5 @@ Dersom den domfelte er siktet for en straffbar handling som kan føre til fullby
 Loven trer i kraft fra det tidspunktet Kongen bestemmer.1
 
 Fra samme tidspunkt oppheves fengselsloven av 12. desember 1958. Forskriftene gitt i medhold av fengselsloven og i medhold av [straffeloven § 28 b](lov/1902-05-22-10/§28b) og [§ 53](lov/1902-05-22-10/§53) nr. 6 skal likevel fortsatt gjelde, for så vidt de ikke er i strid med denne loven, inntil de oppheves eller endres av Kongen.
+
+1 Fra 1 mars 2002 iflg. [res. 22 feb 2002 nr. 181](forskrift/2002-02-22-181), med unntak av § 10 (1) bokstav c.

@@ -220,6 +220,12 @@ Loven trer i kraft fra det tidspunktet1 Kongen bestemmer.
 
 Enhver som utøver romaktivitet ved lovens ikrafttredelse, må søke om tillatelse innen 12 måneder fra lovens ikrafttredelse for å kunne fortsette aktiviteten. Departementet kan i enkeltvedtak fastsette unntak fra søknadsplikten.
 
+1 Fra 1. juli 2026 iflg. [res. 22 des 2025 nr. 2838](forskrift/2025-12-22-2838).
+
 ### § 29. Endringer i andre lover
 
 Fra det tidspunktet denne loven trer i kraft, gjøres følgende endringer i andre lover:
+
+**1.** [Lov 13. juni 1969 nr. 38 om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet](lov/1969-06-13-38) oppheves.
+
+– – –

@@ -28,6 +28,81 @@ Jaktbare arter er alle arter med jakttid etter § 2. Jakttidsrammen tilsvarer ja
 
 ## § 2. Jakttider
 
+| *Art* | *Område* | *Jakttid* |  |
+| --- | --- | --- | --- |
+|  |  | *Fra og med* | *Til og med* |
+| *Skarver* |  |  |  |
+| Toppskarv | Finnmark, Troms og Nordland fylker, og nord for Trondheimsfjorden i Trøndelag fylke. | 01.10. | 30.11. |
+| Storskarv | Kun ungfugl med hvit buk i saltvannslokaliteter i Østfold, Akershus, Buskerud, Oslo, Vestfold, Telemark og Agder fylker. | 10.09. | 09.11. |
+|  | Kun ungfugl med hvit buk i saltvannslokaliteter i Rogaland, Vestland, Møre og Romsdal, Trøndelag, Nordland, Troms og Finnmark fylker. | 01.10. | 30.11. |
+|  | Alle storskarv i ferskvannslokaliteter i Østfold, Akershus, Buskerud, Innlandet, Vestfold, Telemark, Agder, Rogaland og Vestland fylker. | 10.08. | 23.12. |
+| *Andefugler* |  |  |  |
+| Kortnebbgås | Hele landet med de unntakene som nevnes nedenfor. | 10.08. | 23.12. |
+|  | I Finnmark fylke er arten fredet. |  |  |
+|  | I Troms fylke og Nordland fylke nord for Rana og Rødøy kommuner. | 21.08. | 23.12. |
+|  | Den frie jakten på hav og fjord, jf. [viltressursloven § 34 andre ledd andre punktum](lov/2025-06-20-102/§34/ledd/2/setning/2) fra svenskegrensen til og med Agder fylke. | 10.09. | 23.12. |
+| Grågås | Hele landet med de unntakene som nevnes nedenfor. | 10.08. | 23.12. |
+|  | I Finnmark fylke er jakt kun tillatt i ytre fjordstrøk og kyst med følgende avgrensning: Nord for fylkesvei 98 fra Smalfjord i Vestertana og landområdet vest for Smalfjord og Tanafjorden til Børselv i Porsanger. Videre nordvest for en rett linje fra Børselv til Ytre Billefjord. Videre nord for E6 fra Ytre Billefjord i Porsanger til Rafsbotn i Alta. Herfra følger avgrensningen rett vest i en rett linje fra Rafsbotn til Talvik. Videre nord for E6 fra Talvik til grensen i Troms fylke og nordover langs fylkesgrensen. | 21.08. | 23.12. |
+|  | I Troms fylke og Nordland fylke nord for Rana og Rødøy kommuner. | 15.08. | 23.12. |
+|  | Den frie jakten på hav og fjord, jf. [viltressursloven § 34 andre ledd andre](lov/2025-06-20-102/§34/ledd/2/setning/2) og [tredje punktum](lov/2025-06-20-102/§34/ledd/2/setning/3), fra svenskegrensen til og med Agder fylke. | 10.09. | 23.12. |
+| Brunnakke, krikkand og stokkand | Hele landet med det unntaket som nevnes nedenfor. | 21.08. | 23.12. |
+|  | Den frie jakten på hav og fjord, jf. [viltressursloven § 34 andre ledd andre](lov/2025-06-20-102/§34/ledd/2/setning/2) og [tredje punktum](lov/2025-06-20-102/§34/ledd/2/setning/3), fra svenskegrensen til og med Agder fylke. | 10.09. | 23.12. |
+| Toppand, kvinand, siland og laksand | Hele landet. | 10.09. | 23.12. |
+| Svartand | Østfold fylke. | 10.09. | 23.12. |
+| Ærfugl | Kun hannfugl av ærfugl i Vestfold, Telemark, Østfold, Buskerud og tidligere Aust-Agder fylker.<br><br>Hver jeger kan felle inntil fem fugler per døgn, og inntil 25 fugler per jaktår. | 01.10. | 30.11. |
+| *Hønsefugler* |  |  |  |
+| Jerpe, orrfugl og storfugl | Hele landet. | 10.09. | 23.12. |
+| Lirype og fjellrype | Hele landet med det unntaket som nevnes nedenfor. | 10.09. | 28.02./29.02. |
+|  | Finnmark og Troms fylker og Narvik og Evenes kommuner, samt den delen av Hamarøy kommune som ligger nord for Tysfjorden/Hellemofjorden i Nordland fylke. | 10.09. | 15.03. |
+| *Vadere* |  |  |  |
+| Enkeltbekkasin | Hele landet. | 21.08. | 31.10. |
+| Rugde | Hele landet. | 10.09. | 23.12. |
+| *Duefugler* |  |  |  |
+| Ringdue | Hele landet med unntak av Finnmark og Troms fylker hvor arten er fredet. | 21.08. | 23.12. |
+| *Spurvefugler* |  |  |  |
+| Gråtrost | Hele landet. | 10.08. | 23.12. |
+| Nøtteskrike | Hele landet med unntak av Finnmark, Troms og Nordland fylker hvor arten er fredet. | 10.08. | 28.02./29.02. |
+| Skjære | Hele landet. | 10.08. | 28.02./29.02. |
+| Kråke | Hele landet. | 15.07. | 31.03. |
+| Ravn | Hele landet med det unntaket som nevnes nedenfor. | 10.08. | 28.02./29.02. |
+|  | Finnmark og Troms fylker. | 10.08. | 15.03. |
+| *Haredyr* |  |  |  |
+| Hare | Hele landet med det unntaket som nevnes nedenfor. | 10.09. | 28.02./29.02. |
+|  | Finnmark og Troms fylker og Narvik og Evenes kommuner, samt den delen av Hamarøy kommune som ligger nord for Tysfjorden/Hellemofjorden i Nordland fylke. | 10.09. | 15.03. |
+| *Gnagere* |  |  |  |
+| Ekorn | Hele landet. | 01.11. | 15.03. |
+| Bever | I de kommunene hvor lokal forskrift åpner for beverjakt. | 01.10. | 30.04. |
+| *Rovdyr* |  |  |  |
+| Rødrev | Hele landet. | 15.07. | 15.04. |
+| Røyskatt | Hele landet. | 21.08 | 15.03. |
+| Mår | Hele landet. | 01.11. | 15.03. |
+| Grevling | Hele landet. | 21.08. | 31.01. |
+| Gaupe | Hele landet.<br>Jakt er kun tillatt i de områdene der rovviltnemnden/Miljødirektoratet har fastsatt kvote eller tillatt kvotefri jakt på gaupe (jf. [forskrift 18. mars 2005 nr. 242 om forvaltning av rovvilt](forskrift/2005-03-18-242)). Rovviltnemnden kan fastsette en kortere jakttid dersom særlige forhold tilsier det. | 01.02. | 31.03. |
+| *Hjortevilt* |  |  |  |
+| Hjort | I de kommunene hvor lokal forskrift åpner for hjortejakt. | 01.09. | 23.12. |
+| Elg | I de kommunene hvor lokal forskrift åpner for elgjakt, med det unntaket som nevnes nedenfor. | 25.09. | 23.12. |
+|  | Kommuner i Finnmark fylke | 01.09. | 23.12. |
+| Rådyr | I de kommunene hvor lokal forskrift åpner for rådyrjakt. | 25.09. | 23.12. |
+| Voksen rådyrbukk | I de kommunene hvor lokal forskrift åpner for rådyrjakt. | 10.08. | 23.12. |
+| Villrein | Hele landet (alle villreinområder). | 20.08. | 30.09. |
+| *Fremmede/introduserte arter* |  |  |  |
+| Kanadagås | Hele landet med det unntaket som nevnes nedenfor. | 10.08. | 23.12. |
+|  | Den frie jakten på hav og fjord, jf. [viltressursloven § 34 andre ledd andre punktum](lov/2025-06-20-102/§34/ledd/2/setning/2), fra svenskegrensen til og med Agder fylke. | 10.09. | 23.12. |
+| Stripegås | Hele landet med det unntaket som nevnes nedenfor. | 10.08. | 23.12. |
+|  | Den frie jakten på hav og fjord, jf. [viltressursloven § 34 andre ledd andre](lov/2025-06-20-102/§34/ledd/2/setning/2) og [tredje punktum](lov/2025-06-20-102/§34/ledd/2/setning/3), fra svenskegrensen til og med Agder fylke. | 10.09. | 23.12. |
+| Knoppand (moskusand) | Hele landet. | 21.08. | 23.12. |
+| Mandarinand | Hele landet. | 21.08. | 23.12. |
+| Stivhaleand | Hele landet. | 21.08. | 23.12. |
+| Fasan | Hele landet. | 01.10. | 23.12. |
+| Sørhare og viltlevende kanin | Hele landet. | 10.09. | 28.02./29.02. |
+| Bisam (bisamrotte) | Hele landet. | 01.04. | 31.03. |
+| Mårhund | Hele landet. | 01.04. | 31.03. |
+| Vaskebjørn | Hele landet. | 01.04. | 31.03. |
+| Villmink | Hele landet. | 01.04. | 31.03. |
+| Villsvin | Hele landet med det unntaket som nevnes nedenfor. | 01.04. | 31.03. |
+|  | Sugge som har diende unger er fredet, men ungene er jaktbare hele året. |  |  |
+| Dåhjort og muflon | Hele landet. | 25.09. | 23.12. |
+
 > Endret ved forskrifter [3 juni 2022 nr. 980](forskrift/2022-06-03-980), [5 april 2024 nr. 568](forskrift/2024-04-05-568), [26 juni 2026 nr. 1379](forskrift/2026-06-26-1379) (i kraft 1 juli 2026), [26 juni 2026 nr. 1380](forskrift/2026-06-26-1380) (i kraft 1 juli 2026).
 
 ## § 3. Delegering av myndighet
@@ -41,13 +116,32 @@ Jaktbare arter er alle arter med jakttid etter § 2. Jakttidsrammen tilsvarer ja
 
 ## § 4. Helgefredning av elg i deler av Oslomarka
 
-I følgende områder er det ikke tillatt å jakte elg på lørdager og søndager:*Fylke**Kommune*AkershusBærum, og Lørenskog kommuner, samt Asker kommune nord for E134 fra kommunegrensen mot Lier til Midtbygda og videre nord for fylkesvei 165 til Slemmestad.BuskerudHole kommune, og de delene av Lier kommune som ligger øst for fylkesvei 285 og Holsfjorden.OsloDe delene av Oslo kommune som ligger sør for en linje trukket fra der kommunegrensen mot Ringerike krysser Langlivatnet rett øst for Vestre Fyllingen, videre østover langs vassdraget over Østre Fyllingen–Bjørnsjøen–Helgeren–Lille og Store Gørja til Manntjern og Store Svarttjern i kommunegrensen mot Nittedal.
+I følgende områder er det ikke tillatt å jakte elg på lørdager og søndager:
+
+| *Fylke* | *Kommune* |
+| --- | --- |
+| Akershus | Bærum, og Lørenskog kommuner, samt Asker kommune nord for E134 fra kommunegrensen mot Lier til Midtbygda og videre nord for fylkesvei 165 til Slemmestad. |
+| Buskerud | Hole kommune, og de delene av Lier kommune som ligger øst for fylkesvei 285 og Holsfjorden. |
+| Oslo | De delene av Oslo kommune som ligger sør for en linje trukket fra der kommunegrensen mot Ringerike krysser Langlivatnet rett øst for Vestre Fyllingen, videre østover langs vassdraget over Østre Fyllingen–Bjørnsjøen–Helgeren–Lille og Store Gørja til Manntjern og Store Svarttjern i kommunegrensen mot Nittedal. |
 
 > Endret ved forskrift [5 april 2024 nr. 568](forskrift/2024-04-05-568).
 
 ## § 5. Snarefangst etter ryper
 
-Det er adgang til snarefangst etter ryper fra og med 1. november til utgangen av jakttiden for ryper i følgende kommuner:*Fylke**Kommune*FinnmarkAlle kommuner unntatt Vardø.TromsAlle kommuner unntatt Kvæfjord.NordlandBeiarn, Brønnøy, Evenes, Grane, Hamarøy, Hattfjelldal, Hemnes, Narvik, Rana, Steigen, Sørfold og Øksnes.TrøndelagHoltålen, Høylandet, Meråker, Lierne, Midtre Gauldal, Namsskogan, Oppdal, Overhalla, Røros, Røyrvik, Snåsa, Steinkjer, Tydal og Verdal.InnlandetDovre, Etnedal, Lesja, Lom, Nord-Fron, Skjåk, Vang, Vågå, Øyer og Øystre Slidre.Møre og RomsdalFjord og Rauma.VestlandEidfjord, Kvam, Ullensvang, Vaksdal og Voss.RogalandBjerkreim, Gjesdal, Hjelmeland, Sandnes og Suldal.AgderBygland, Bykle, Hægebostad, Kvinesdal, Sirdal, Valle og Åseral.TelemarkFyresdal, Hjartdal, Seljord, Tinn, Tokke og Vinje.
+Det er adgang til snarefangst etter ryper fra og med 1. november til utgangen av jakttiden for ryper i følgende kommuner:
+
+| *Fylke* | *Kommune* |
+| --- | --- |
+| Finnmark | Alle kommuner unntatt Vardø. |
+| Troms | Alle kommuner unntatt Kvæfjord. |
+| Nordland | Beiarn, Brønnøy, Evenes, Grane, Hamarøy, Hattfjelldal, Hemnes, Narvik, Rana, Steigen, Sørfold og Øksnes. |
+| Trøndelag | Holtålen, Høylandet, Meråker, Lierne, Midtre Gauldal, Namsskogan, Oppdal, Overhalla, Røros, Røyrvik, Snåsa, Steinkjer, Tydal og Verdal. |
+| Innlandet | Dovre, Etnedal, Lesja, Lom, Nord-Fron, Skjåk, Vang, Vågå, Øyer og Øystre Slidre. |
+| Møre og Romsdal | Fjord og Rauma. |
+| Vestland | Eidfjord, Kvam, Ullensvang, Vaksdal og Voss. |
+| Rogaland | Bjerkreim, Gjesdal, Hjelmeland, Sandnes og Suldal. |
+| Agder | Bygland, Bykle, Hægebostad, Kvinesdal, Sirdal, Valle og Åseral. |
+| Telemark | Fyresdal, Hjartdal, Seljord, Tinn, Tokke og Vinje. |
 
 Den som skal bruke snarer til fangst av rype plikter å føre tilsyn med snarene minst hver andre dag.
 
@@ -55,7 +149,19 @@ Den som skal bruke snarer til fangst av rype plikter å føre tilsyn med snarene
 
 ## § 6. Sanking av egg og dun
 
-Grunneier eller bruker kan sanke egg av følgende arter i følgende områder:*Art**Område**Sanketid til og med følgende dato*Gråmåke og svartbakHele landet med det unntaket som nevnes nedenfor.10.05.Finnmark, Troms og Nordland fylker.25.05.SildemåkeMøre og Romsdal, Vestland, Rogaland, Agder, Vestfold, Telemark, Østfold, Akershus, Buskerud, Oslo og Innlandet fylker.10.05.KvinandHele landet med det unntaket som nevnes nedenfor.20.05.Finnmark, Troms og Nordland fylker.14.06.ÆrfuglI tidligere fredlyste egg- og dunvær som er i aktiv bruk.01.06.GrågåsHele landet.15.04.Stripegås og kanadagåsHele landet.01.07.SnøgåsAgder, Vestfold, Telemark, Østfold, Akershus, Buskerud, Oslo og Innlandet fylker.01.07.
+Grunneier eller bruker kan sanke egg av følgende arter i følgende områder:
+
+| *Art* | *Område* | *Sanketid til og med følgende dato* |
+| --- | --- | --- |
+| Gråmåke og svartbak | Hele landet med det unntaket som nevnes nedenfor. | 10.05. |
+|  | Finnmark, Troms og Nordland fylker. | 25.05. |
+| Sildemåke | Møre og Romsdal, Vestland, Rogaland, Agder, Vestfold, Telemark, Østfold, Akershus, Buskerud, Oslo og Innlandet fylker. | 10.05. |
+| Kvinand | Hele landet med det unntaket som nevnes nedenfor. | 20.05. |
+|  | Finnmark, Troms og Nordland fylker. | 14.06. |
+| Ærfugl | I tidligere fredlyste egg- og dunvær som er i aktiv bruk. | 01.06. |
+| Grågås | Hele landet. | 15.04. |
+| Stripegås og kanadagås | Hele landet. | 01.07. |
+| Snøgås | Agder, Vestfold, Telemark, Østfold, Akershus, Buskerud, Oslo og Innlandet fylker. | 01.07. |
 
 For gråmåke, sildemåke og svartbak kan det kun sankes ett egg fra hvert reir årlig.
 

@@ -76,4 +76,8 @@ Den som uten å være lege forsettlig eller grovt uaktsomt overtrer [lovens §§
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tidspunkt.
 
+1 Fra 1 jan 2015 iflg. [res. 5 des 2014 nr. 1512](forskrift/2014-12-05-1512).
+
 ## § 11. Endringer i andre lover
+
+– – –

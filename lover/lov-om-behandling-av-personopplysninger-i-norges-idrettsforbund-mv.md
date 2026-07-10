@@ -75,3 +75,5 @@ Departementet kan gi forskrift om behandling av personopplysninger etter denne l
 ## § 10. Ikrafttredelse
 
 Loven trer i kraft fra den tiden1 Kongen bestemmer.
+
+1 Fra 1. juli 2025 iflg. [res. 20 juni 2025 nr. 1112](forskrift/2025-06-20-1112).

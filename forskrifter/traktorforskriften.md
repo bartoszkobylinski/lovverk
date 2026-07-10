@@ -42,7 +42,14 @@ Forordning [(EU) nr. 167/2013](eu/32013r0167), forordning [(EU) nr. 1322/2014](e
 
 (1) Med kjøretøy i gruppe T, C, R og S menes alle traktorer, tilhengere til traktor samt utskiftbart trukket utstyr som klassifisert i forordning [(EU) nr. 167/2013](eu/32013r0167) artikkel 4.
 
-(2) I artikkel 4 er det gjort følgende hovedinndeling i traktor og tilhenger til traktor:THjultraktorCBeltetraktorRTilhenger til traktorSUtskiftbart trukket utstyr
+(2) I artikkel 4 er det gjort følgende hovedinndeling i traktor og tilhenger til traktor:
+
+|  |  |
+| --- | --- |
+| T | Hjultraktor |
+| C | Beltetraktor |
+| R | Tilhenger til traktor |
+| S | Utskiftbart trukket utstyr |
 
 (3) Innenfor de nevnte hovedgruppene er det gjort følgende underinndeling:kjøretøy som har en maksimal konstruktiv hastighet på høyst 40 km/t,kjøretøy som har en maksimal konstruktiv hastighet over 40 km/t.
 
@@ -266,9 +273,13 @@ Kjøretøy som ifølge forskrift om bruk av kjøretøy tillates brukt med pigger
 
 ### § 23. Overgangsbestemmelser
 
+*1. Typegodkjenning*
+
 (1) I den overgangsperiode som følger av artikkel 73 kan den som framstiller traktor og tilhenger til traktor for typegodkjenning velge nasjonal typegodkjenning i henhold til [§ 7](forskrift/2016-06-01-561/§7).
 
 (2) Nasjonale typegodkjenninger opphører å være gyldig senest fra det tidspunkt EU-typegodkjenning er obligatorisk. Bestemmelsene om restkjøretøy jf. [§ 8](forskrift/2016-06-01-561/§8) anvendes tilsvarende.
+
+*2. Enkeltgodkjenning*
 
 (1) Traktor og tilhenger til traktor som er dokumentert importert for enkeltgodkjenning og som det er søkt om godkjenning for før forskriftens ikrafttredelse, kan framstilles for godkjenning etter kjøretøyforskriften innen ett år. Traktor og tilhenger til traktor som er produsert i Norge og ferdigstilt og som det er søkt om enkeltgodkjenning for før ikrafttredelsen, kan også godkjennes etter kjøretøyforskriften.
 

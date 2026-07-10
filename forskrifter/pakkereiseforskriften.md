@@ -316,6 +316,21 @@ Merk: Dette sikrer ikke tilbakebetaling ved den berørte tjenesteyterens insolve
 
 XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av insolvens hos XY kan den reisende kontakte Reisegarantifondet:
 
+*Postadresse:*
+Reisegarantifondet
+Postboks 1316 Vika
+0112 Oslo
+
+*Besøksadresse:*
+Reisegarantifondet
+c/o Ekko Advokatfirma AS
+Stortorvet 7
+0155 Oslo
+
+Telefon: 51 85 99 40
+E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+[www.rgf.no](http://www.rgf.no)
+
 Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
 
 Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata.no)
@@ -334,6 +349,21 @@ Dersom du bestiller andre reisetjenester i løpet av det samme besøket hos elle
 Merk: Dette sikrer ikke tilbakebetaling ved insolvens hos den berørte tjenesteyteren.
 
 XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:
+
+*Postadresse:*
+Reisegarantifondet
+Postboks 1316 Vika
+0112 Oslo
+
+*Besøksadresse:*
+Reisegarantifondet
+c/o Ekko Advokatfirma AS
+Stortorvet 7
+0155 Oslo
+
+Telefon: 51 85 99 40
+E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+[www.rgf.no](http://www.rgf.no)
 
 Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY, som kan oppfylles til tross for XYs insolvens.
 
@@ -434,6 +464,21 @@ Merk: Dette sikrer ikke tilbakebetaling ved den berørte tjenesteyterens insolve
 
 XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av insolvens hos XY kan den reisende kontakte Reisegarantifondet:
 
+*Postadresse:*
+Reisegarantifondet
+Postboks 1316 Vika
+0112 Oslo
+
+*Besøksadresse:*
+Reisegarantifondet
+c/o Ekko Advokatfirma AS
+Stortorvet 7
+0155 Oslo
+
+Telefon: 51 85 99 40
+E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+[www.rgf.no](http://www.rgf.no)
+
 Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for XYs insolvens.
 
 Se [pakkereiseloven](lov/2018-06-15-32) på [www.lovdata.no](https://www.lovdata.no)
@@ -452,6 +497,21 @@ Bestiller du andre reisetjenester etter vår/XYs målrettede formidling senest 2
 Merk: Dette sikrer ikke tilbakebetaling ved insolvens hos den berørte tjenesteyteren.
 
 XY har stilt reisegaranti overfor Reisegarantifondet. Dersom reisetjenestene ikke leveres på grunn av XYs insolvens kan den reisende kontakte Reisegarantifondet:
+
+*Postadresse:*
+Reisegarantifondet
+Postboks 1316 Vika
+0112 Oslo
+
+*Besøksadresse:*
+Reisegarantifondet
+c/o Ekko Advokatfirma AS
+Stortorvet 7
+0155 Oslo
+
+Telefon: 51 85 99 40
+E-post: [firmapost@rgf.no](mailto:firmapost@rgf.no)
+[www.rgf.no](http://www.rgf.no)
 
 Merk: Reisegarantien dekker ikke avtaler med andre parter enn XY som kan oppfylles til tross for insolvens hos XY.
 

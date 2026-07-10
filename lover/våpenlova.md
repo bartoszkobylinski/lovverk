@@ -348,6 +348,8 @@ Lova gjeld frå den tid Kongen fastset.1
 
 Kongen kan setje i kraft dei ulike reglane til ulik tid. Frå same tid vert [lov 9. juni 1961 nr. 1](lov/1961-06-09-1) om skytevåpen og ammunisjon mv. oppheva.
 
+1 Frå 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1415](forskrift/2021-05-07-1415).
+
 ### § 43. Overgangsreglar
 
 Forbodet mot å ha halvautomatiske rifler etter [§ 5](lov/2018-04-20-7/§5) andre ledd nr. 3 trer i kraft tre år etter ikraftsetjinga av denne lova.

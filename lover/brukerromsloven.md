@@ -91,3 +91,5 @@ Kongen kan gi nærmere bestemmelser om gjennomføringen av brukerromsordningen, 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 > Tilføyd ved [lov 19 juni 2009 nr. 69](lov/2009-06-19-69) (ikr. 17 des 2009 iflg. [res. 19 juni 2009 nr. 1797](forskrift/2009-06-19-1797)).
+
+1 Fra 17 des 2004 iflg. [res. 17 des 2004 nr. 1662](forskrift/2004-12-17-1662).

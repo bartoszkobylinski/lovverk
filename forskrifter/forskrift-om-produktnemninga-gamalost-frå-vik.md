@@ -45,6 +45,8 @@ Forskrifta blir sett i verk straks.
 
 ## Vedlegg
 
+*Beskriving av produktopphav og tilknyting til det geografiske området*
+
 Gamalost har røter langt tilbake i tida, truleg heilt tilbake til vikingtida. Vikingane hadde ost, og ein er nesten sikre på at dette var ein type surmjølksost og da mest truleg gamalost eller ein forløpar til gamalosten. Dei første sikre opplysningane om gamalost er frå siste halvdel av 1700-talet, blant anna frå biskop J.E. Gunnerus, som i 1774 omtala gamalost i ei avhandling om mjølkebruken i Noreg. Alt den gongen skilde ein mellom to framstillingsmåtar for gamalost, sognemetoden og hardangermetoden.
 
 Sogn og Fjordane og Hordaland har vore kjerneområdet for ysting av gamalost, og Vik og dei omkringliggjande områda i midtre og indre Sogn er eit av områda med aller sterkast tradisjon for slik produksjon. Dette har samanheng med at stølsdrift var eit viktig innslag i gardsdrifta der. Det var stølsdrifta som skaffa salsvarene på dei fleste bruka, og da i første rekkje smør og gamalost. Frå gammalt av vart derfor storparten av gamalosten her ysta på stølane. Produksjonsmåtane varierte frå stad til stad og frå budeie til budeie. Ein reknar med at gamalostnamnet også stammar frå tida da osten vart framstilt på stølane. Da hadde dei ikkje muggkulturar å tilsetje, og det tok fleire veker før osten var ferdig modna. Namnet kan også komme av at gamalost er den eldste kjende norske osten.

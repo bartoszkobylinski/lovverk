@@ -32,7 +32,14 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-*Studiepoeng*Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid.*Studieforløp*Et studieforløp består av flere fagområder. Studieforløpet er 4-årig og har 240 studiepoengs omfang.*Studieplan*Beskriver hvordan studiet er bygget opp og hvordan fagområdene som inngår hører sammen.*Fagområder*Fagområdene deles i områder som gir studiepoeng og områder som kun krever bekreftet dokumentert tilstedeværelse.*Eksamen/vurdering*Studentens arbeidsprosess vurderes kontinuerlig med utgangspunkt i studiets mål og innhold. Formell prøving av studentens kunnskaper og ferdigheter, skjer enten underveis og/eller ved avrunding av et fagområde.*Utsatt eksamen*For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen.
+|  |  |
+| --- | --- |
+| *Studiepoeng* | Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid. |
+| *Studieforløp* | Et studieforløp består av flere fagområder. Studieforløpet er 4-årig og har 240 studiepoengs omfang. |
+| *Studieplan* | Beskriver hvordan studiet er bygget opp og hvordan fagområdene som inngår hører sammen. |
+| *Fagområder* | Fagområdene deles i områder som gir studiepoeng og områder som kun krever bekreftet dokumentert tilstedeværelse. |
+| *Eksamen/vurdering* | Studentens arbeidsprosess vurderes kontinuerlig med utgangspunkt i studiets mål og innhold. Formell prøving av studentens kunnskaper og ferdigheter, skjer enten underveis og/eller ved avrunding av et fagområde. |
+| *Utsatt eksamen* | For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen. |
 
 ## Kapittel II. Opptak
 

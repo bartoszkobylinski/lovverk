@@ -34,13 +34,19 @@ Atomsubstans som i det vesentlige består av uran, er unntatt fra [atomenergilov
 
 ## Bilag 1. OECDs atomenergibyrås (NEA) beslutning av 3.–4. november 2016
 
+[(pdf)](static/SF/sf-19851115-1912-01-02.pdf)
+
 > Tilføyd ved [forskrift 30 april 2008 nr. 982](forskrift/2008-04-30-982), endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067).
 
 ## Bilag 2. NEAs beslutning av 27. oktober 1977
 
 NEAs styringskomité bestemmer:
 
+Atomsubstans som i det vesentlige består av uran der
+
 1. den samlete aktiviteten pr. gram av alle radioaktive isotoper i dette materialet, bortsett fra uranisotoper som normalt er til stede i naturlig uran eller som datterprodukter av slike uranisotoper,ikke overstiger 200 000 alfa-desintegrasjoner pr. minutt fra samtlige isotoper som avgir alfastråling, ogikke overstiger 20µCi (0,74 MBq) fra samtlige isotoper som avgir beta- eller gammastråling, og
 2. uran-235-isotopets vekt ikke overstiger 1 % av den totale vekt i samtlige uranisotoper i atomsubstansen,
+
+betraktes ikke som atomsubstans i relasjon til Paris-konvensjonen.
 
 > Tilføyd 19 feb 2015.

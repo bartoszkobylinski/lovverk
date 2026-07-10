@@ -84,8 +84,12 @@ Saksbehandlingsreglene kan fravike reglene i forvaltningsloven.
 
 > Tilføyd ved [lov 19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)).
 
+1 Jf. [EØS-avtalen vedlegg X](avtale/avt-1992-05-02-1-v10) nr. 1 (direktiv [2006/123/EF](eu/32006l0123) art. 13 nr. 4).
+
 ## § 8.
 
 Loven trer i kraft fra den tid1 EØS-avtalen trer i kraft for Norge.
 
 Fra samme tid oppheves – – –
+
+1 Loven trådte i kraft 1 jan 1994.

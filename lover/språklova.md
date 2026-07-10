@@ -162,6 +162,8 @@ Lova gjeld frå den tida1 Kongen fastset. Frå same tidspunkt blir [lov 11. apri
 
 Forskrifter som er gjevne i medhald av [lov 11. april 1980 nr. 5 om målbruk i offentleg teneste](lov/1980-04-11-5), held fram å gjelde så langt dei ikkje er i strid med i lova her.
 
+1 Frå 1 jan 2022 iflg. [res. 21 mai 2021 nr. 1619](forskrift/2021-05-21-1619).
+
 ## § 22. Endringar i andre lover
 
 Frå den tida lova tek til å gjelde, skal desse endringane gjerast i andre lover: – – –

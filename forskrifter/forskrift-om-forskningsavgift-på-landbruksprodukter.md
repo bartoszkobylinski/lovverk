@@ -126,88 +126,190 @@ Fra samme tidsrom oppheves [forskrift 6. april 2001 nr. 410](forskrift/2001-04-0
 
 ## Vedlegg
 
+Importerte landbruksprodukter som er fritatt fra plikt til å betale forskningsavgift:
+
+1.*Spiselige frukter og nøtter; skall av sitrusfrukter eller meloner*
+
+1.1
+
 Kokosnøtter, paranøtter og akajounøtter (cashewnøtter), friske eller tørkede, med eller uten skall.
+
+1.2
 
 Andre nøtter, friske eller tørkede, med eller uten skall.
 
+1.3
+
 Bananer, herunder kokebananer (pisanger), friske eller tørkede.
+
+1.4
 
 Dadler, fikener, ananas, avocadopærer, guavaer, mangoer og mangostan, friske eller tørkede.
 
+1.5
+
 Sitrusfrukter, friske eller tørkede.
+
+1.6
 
 Vindruer, friske eller tørkede.
 
+1.7
+
 Meloner (herunder vannmeloner) og papaya, friske.
+
+1.8
 
 Aprikoser.
 
+1.9
+
 Ferskener.
+
+1.10
 
 Nektariner.
 
+1.11
+
 Kiwi.
+
+1.12
 
 Skall av sitrusfrukter eller meloner (herunder vannmeloner), friske, fryste, tørkede eller midlertidig konserverte i saltlake, i svovelsyrlingvann eller i andre konserverende oppløsninger.
 
+2.*Kaffe, te, maté og krydderier*
+
+2.1
+
 Kaffe, også brent eller koffeinfri; skall og hinner av kaffe; kaffeerstatninger med innhold av kaffe, uansett blandingsforhold.
+
+2.2
 
 Te, også tilsatt smaksstoffer.
 
+2.3
+
 Maté.
+
+2.4
 
 Pepper av slekten *Piper*; tørkede, knuste eller malte frukter av slektene *Capsicum* eller *Pimenta*.
 
+2.5
+
 Vanilje.
+
+2.6
 
 Kanel og kanelblomster.
 
+2.7
+
 Kryddernellik (hele frukter, tørkede blomster og stilker).
+
+2.8
 
 Muskat, muskatblomme og kardemomme.
 
+2.9
+
 Anis, stjerneanis, fennikel, koriander, spisskommen, karve, einebær.
+
+2.10
 
 Ingefær, safran, gurkemeie (kurkuma), timian, laurbærblad, karri og andre krydderier.
 
+3.*Oljeholdige frø og frukter; forskjellige andre frø og frukter; planter til industriell eller medisinsk bruk; halm og fôrplanter*
+
+3.1
+
 Humle, frisk eller tørket, også malt, pulverisert eller i form av pelleter; lupulin.
+
+4.*Sukker og sukkervarer*
+
+4.1
 
 Rør- og betesukker samt kjemisk ren sakkarose, i fast form.
 
+4.2
+
 Annet sukker, herunder kjemisk ren laktose, maltose, glukose og fruktose, i fast form; sirup og andre sukkeroppløsninger uten tilsetning av smaks- eller fargestoffer; kunsthonning, også blandet med naturlig honning; karamell.
+
+4.3
 
 Melasse fremstilt ved utvinning eller raffinering av sukker.
 
+4.4
+
 Sukkervarer (herunder hvit sjokolade), uten innhold av kakao.
+
+5.*Kakao og varer derav*
+
+5.1
 
 Kakaobønner, hele eller knuste, også brente.
 
+5.2
+
 Kakaoskall og annet kakaoavfall.
+
+5.3
 
 Kakaomasse, også avfettet.
 
+5.4
+
 Kakaosmør, -fett, -olje.
+
+5.5
 
 Kakaopulver, uten tilsetning av sukker eller annet søtningsstoff.
 
+5.6
+
 Sjokolade og andre næringsmidler som inneholder kakao.
+
+6.*Drikkevarer, etylalkohol og eddik*
+
+6.1
 
 Vann, herunder mineralvann og karbonisert vann, tilsatt sukker, andre søtningsstoffer eller smaksstoffer, og andre alkoholfrie drikkevarer, unntatt frukt- og grønnsaksafter som hører under tolltariffens posisjon 20.09.
 
+6.2
+
 Øl framstilt av malt.
+
+6.3
 
 Vin av friske druer, herunder vin tilsatt alkohol; druemost, unntatt den under tolltariffens posisjon 20.09.
 
+6.4
+
 Vermut og annen vin av friske druer, tilsatt aromatiske planter eller smaksstoffer.
+
+6.5
 
 Andre gjærede drikkevarer (f.eks. eplevin (sider), pærevin og mjød); blandinger av gjærede drikkevarer og blandinger av gjærede drikkevarer og alkoholfrie drikkevarer, ikke nevnt eller innbefattet annet sted.
 
+6.6
+
 Udenaturert etylalkohol med alkoholstyrke minst 80 vol.-%; etylalkohol og brennevin, denaturert, uansett styrke.
+
+6.7
 
 Eddik samt eddikerstatninger framstilt av eddiksyre.
 
+7.*Tobakk og varer framstilte av tobakkerstatninger*
+
+7.1
+
 Tobakk, ubearbeidd; avfall av tobakk.
 
+7.2
+
 Sigarer, cerutter, sigarilloer og sigaretter av tobakk eller tobakkerstatninger.
+
+7.3
 
 Annen bearbeidd tobakk samt andre varer fremstilt av tobakkerstatninger; «homogenisert» eller «rekonstituert» tobakk; tobakkekstrakter og tobakkessenser.

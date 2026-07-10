@@ -64,7 +64,7 @@ Forsørgeransvar dokumenteres gjennom opplysninger om foreldreskap som innhentes
 
 ### § 7. Fastsetting av egenandelen
 
-Egenandelen rettshjelpsmottakeren skal betale i en behovsprøvd sak skal være mellom 1 og 99 prosent av utgiftene til advokatens salær og godtgjøring for advokatens nødvendige reiseutgifter og reisefravær. Prosentsatsen fastsettes ut fra søkerens betalingsevne på søknadstidspunktet, og beregnes etter følgende formel: \(\text{Prosentsats for egenandel} = 100 \times \left[ 0{,}01 + 0{,}0125(\text{betalingsevnen} - 1)^2 + 0{,}0125(\text{betalingsevnen} - 1)^3 \right]\)
+Egenandelen rettshjelpsmottakeren skal betale i en behovsprøvd sak skal være mellom 1 og 99 prosent av utgiftene til advokatens salær og godtgjøring for advokatens nødvendige reiseutgifter og reisefravær. Prosentsatsen fastsettes ut fra søkerens betalingsevne på søknadstidspunktet, og beregnes etter følgende formel: \\(\\text{Prosentsats for egenandel} = 100 \\times \\left[ 0{,}01 + 0{,}0125(\\text{betalingsevnen} - 1)^2 + 0{,}0125(\\text{betalingsevnen} - 1)^3 \\right]\\)
 
 Dersom rettshjelpsmottakerens betalingsevne er redusert med 20 prosent eller mer fra søknadstidspunktet til advokatens arbeid i saken er avsluttet, kan rettshjelpsmottakeren kreve at betalingsevnen og prosentsatsen for egenandelen skal fastsettes på nytt.
 

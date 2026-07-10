@@ -123,11 +123,27 @@ Et europeisk selskap kan fastsette sin aksjekapital i norske kroner.
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 apr 2005 iflg. [res. 1 apr 2005 nr. 269](forskrift/2005-04-01-269).
+
 ## § 14. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
 ## EØS-avtalen vedlegg XXII nr. 10a (Rådsforordning (EF) nr. 2157/2001 av 8. oktober 2001 om vedtektene for det europeiske selskap (SE))
+
+Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 1 at innledningen (fortalen) til de rettsakter som EØS-avtalens vedlegg omhandler, ikke er tilpasset EØS, og at innledningen bare er relevant i den grad den kan bidra til en korrekt tolkning av rettsakten innen rammen av EØS-avtalen. Dette er her markert ved å sette innledningen i kursiv innenfor hakeparenteser. Det følger videre av protokoll 1 nr. 7 til nr. 9 at begrepene «Fellesskapet», «EF» og «medlemsstat» må forstås som «EØS» og «EØS-stat». Dette er markert ved at redaksjonen har tilføyd «[EØS]» og «[EØS-stat]» i teksten.
+
+[Rådet for Den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 308,
+
+under henvisning til forslag fra Kommisjonen,1
+
+under henvisning til uttalelse fra Europaparlamentet,2
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité3 og
+
+ut fra følgende betraktninger:
 
 1. Gjennomføringen av det indre marked og de forbedringer det skaper i den økonomiske og sosiale situasjon i hele Fellesskapet betyr ikke bare at handelshindringer må fjernes, men også at produksjonsstrukturene må tilpasses fellesskapsdimensjonen. For dette formål er det avgjørende at selskaper med virksomhet som ikke er begrenset til å dekke rent lokale behov, bør kunne planlegge og utføre omorganisering av sin virksomhet på fellesskapsplan.
 2. Slik omorganisering forutsetter at eksisterende selskaper fra forskjellige medlemsstater får mulighet til å slå sammen sitt potensial gjennom fusjoner. Slike operasjoner kan bare utføres ved at det tas behørig hensyn til konkurransereglene fastsatt i traktaten.
@@ -159,43 +175,61 @@ Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – �
 28. Traktaten gir ingen annen fullmakt for vedtakelse av denne forordning enn den som finnes i artikkel 308.
 29. Siden målene med det påtenkte tiltaket, slik det er skissert ovenfor, ikke kan nås på tilfredsstillende måte av medlemsstatene i og med at et europeisk allmennaksjeselskap etableres på europeisk plan og derfor, på grunn av et slik selskaps omfang og virkning, bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet nedfelt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke utover det som er nødvendig for å nå disse målene –
 
+1 EFT C 263 av 16.10.1989, s. 41 og EFT C 176 av 8.7.1991, s. 1.
+
+2 Uttalelse av 4. september 2001 (ennå ikke offentliggjort i EFT).
+
+3 EFT C 124 av 21.5.1990, s. 34.
+
+4 EFT L 294 av 10.11.2001, s. 22.
+
+vedtatt denne forordning:]
+
 ### Avdeling I. Alminnelige bestemmelser
 
 ### Art 1
 
-1. Det kan etableres et selskap på Fellesskapets [EØS] territorium i form av et europeisk allmennaksjeselskap (Societas Europaea, heretter kalt «SE») på de vilkår og på den måte som er fastsatt i denne forordning.
+1\. Det kan etableres et selskap på Fellesskapets [EØS] territorium i form av et europeisk allmennaksjeselskap (Societas Europaea, heretter kalt «SE») på de vilkår og på den måte som er fastsatt i denne forordning.
 
-2. SE-selskapet er et selskap med kapital fordelt på aksjer. Hver aksjeeier er ansvarlig bare for det beløp vedkommende har tegnet for.
+2\. SE-selskapet er et selskap med kapital fordelt på aksjer. Hver aksjeeier er ansvarlig bare for det beløp vedkommende har tegnet for.
 
-3. Et SE-selskap skal være eget rettssubjekt.
+3\. Et SE-selskap skal være eget rettssubjekt.
 
-4. Arbeidstakernes innflytelse i et SE-selskap skal være regulert av bestemmelsene i direktiv [2001/86/EF](eu/32001l0086).1
+4\. Arbeidstakernes innflytelse i et SE-selskap skal være regulert av bestemmelsene i direktiv [2001/86/EF](eu/32001l0086).1
+
+1 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 2
 
-1. Allmennaksjeselskaper oppført i vedlegg I som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan stifte et SE-selskap gjennom fusjon, forutsatt at minst to av dem reguleres av forskjellige medlemsstaters [EØS-staters] lovgivning.
+1\. Allmennaksjeselskaper oppført i vedlegg I som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan stifte et SE-selskap gjennom fusjon, forutsatt at minst to av dem reguleres av forskjellige medlemsstaters [EØS-staters] lovgivning.
 
-2. Allmennaksjeselskaper og private aksjeselskaper oppført i vedlegg II som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan ta initiativ til stiftelse av et SE-holdingselskap, forutsatt at minst to av dem:er regulert av forskjellige medlemsstaters [EØS-staters] lovgivning, elleri minst to år har hatt et datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning eller en filial som ligger i en annen medlemsstat [EØS-stat].
+2\. Allmennaksjeselskaper og private aksjeselskaper oppført i vedlegg II som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan ta initiativ til stiftelse av et SE-holdingselskap, forutsatt at minst to av dem:er regulert av forskjellige medlemsstaters [EØS-staters] lovgivning, elleri minst to år har hatt et datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning eller en filial som ligger i en annen medlemsstat [EØS-stat].
 
-3. Selskaper i henhold til traktatens artikkel 48 nr. 21 og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan stifte et SE-datterselskap ved å tegne aksjer i det, forutsatt at minst to av dem:er regulert av forskjellige medlemsstaters [EØS-staters] lovgivning, elleri minst to år har hatt et datterforetak som er regulert av en annen medlemsstats [EØS-stats] lovgivning eller en filial som ligger i en annen medlemsstat [EØS-stat].
+3\. Selskaper i henhold til traktatens artikkel 48 nr. 21 og andre offentlige eller privatrettslige rettssubjekter som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning, med forretningskontor og hovedkontor i Fellesskapet [EØS], kan stifte et SE-datterselskap ved å tegne aksjer i det, forutsatt at minst to av dem:er regulert av forskjellige medlemsstaters [EØS-staters] lovgivning, elleri minst to år har hatt et datterforetak som er regulert av en annen medlemsstats [EØS-stats] lovgivning eller en filial som ligger i en annen medlemsstat [EØS-stat].
 
-4. Et allmennaksjeselskap som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning og som har forretningskontor og hovedkontor i Fellesskapet [EØS], kan omdannes til et SE-selskap dersom det i minst to år har hatt et datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning.
+4\. Et allmennaksjeselskap som er stiftet i henhold til en medlemsstats [EØS-stats] lovgivning og som har forretningskontor og hovedkontor i Fellesskapet [EØS], kan omdannes til et SE-selskap dersom det i minst to år har hatt et datterselskap som er regulert av en annen medlemsstats [EØS-stats] lovgivning.
 
-5. En medlemsstat [EØS-stat] kan fastsette at et selskap med hovedkontor som ikke ligger i Fellesskapet [EØS], kan delta i stiftelsen av et SE-selskap, forutsatt at selskapet er stiftet i henhold til en medlemsstats lovgivning, har forretningskontor i denne medlemsstaten [EØS-staten] og har en reell og varig tilknytning til en medlemsstats [EØS-stats] økonomi.
+5\. En medlemsstat [EØS-stat] kan fastsette at et selskap med hovedkontor som ikke ligger i Fellesskapet [EØS], kan delta i stiftelsen av et SE-selskap, forutsatt at selskapet er stiftet i henhold til en medlemsstats lovgivning, har forretningskontor i denne medlemsstaten [EØS-staten] og har en reell og varig tilknytning til en medlemsstats [EØS-stats] økonomi.
+
+1 Se EØS-avtalen art. 34 annet ledd, som tilsvarer EF-traktaten art. 48 annet ledd (nå TEUV art. 54 annet ledd).
 
 ### Art 3
 
-1. I henhold til artikkel 2 nr. 1, 2 og 3 skal et SE-selskap betraktes som et allmennaksjeselskap som reguleres av lovgivningen i den medlemsstat [EØS-stat] der det har sitt forretningskontor.
+1\. I henhold til artikkel 2 nr. 1, 2 og 3 skal et SE-selskap betraktes som et allmennaksjeselskap som reguleres av lovgivningen i den medlemsstat [EØS-stat] der det har sitt forretningskontor.
 
-2. Et SE-selskap kan selv opprette ett eller flere datterselskaper i form av SE-selskaper. Bestemmelser i medlemsstaten [EØS-staten] der et SE-datterselskap har sitt forretningskontor som krever at et allmennaksjeselskap skal ha mer enn én aksjeeier, kommer ikke til anvendelse på et SE-datterselskap. Internrettslige bestemmelser som er vedtatt i henhold til tolvte rådsdirektiv om selskapsrett ([89/667/EØF](eu/31989l0667*)) av 21. desember 1989 om private enpersonsaksjeselskaper,1 får tilsvarende anvendelse på SE-selskaper.
+2\. Et SE-selskap kan selv opprette ett eller flere datterselskaper i form av SE-selskaper. Bestemmelser i medlemsstaten [EØS-staten] der et SE-datterselskap har sitt forretningskontor som krever at et allmennaksjeselskap skal ha mer enn én aksjeeier, kommer ikke til anvendelse på et SE-datterselskap. Internrettslige bestemmelser som er vedtatt i henhold til tolvte rådsdirektiv om selskapsrett ([89/667/EØF](eu/31989l0667*)) av 21. desember 1989 om private enpersonsaksjeselskaper,1 får tilsvarende anvendelse på SE-selskaper.
+
+1 EFT L 395 av 30.12.1989, s. 40. Dir [89/667](eu/31989l0667*) er nå erstattet av dir [2009/102](eu/32009l0102). Jf. EØS-avtalen vedlegg XXII nr. 9.
 
 ### Art 4
 
-1. Et SE-selskaps kapital skal uttrykkes i euro.1
+1\. Et SE-selskaps kapital skal uttrykkes i euro.1
 
-2. Tegnet kapital skal være minst 120.000 euro.
+2\. Tegnet kapital skal være minst 120.000 euro.
 
-3. Lovgivningen i en medlemsstat [EØS-stat] som krever større tegnet kapital for selskaper som utøver visse former for virksomhet, får anvendelse på SE-selskaper med forretningskontor i denne medlemsstaten [EØS-staten].
+3\. Lovgivningen i en medlemsstat [EØS-stat] som krever større tegnet kapital for selskaper som utøver visse former for virksomhet, får anvendelse på SE-selskaper med forretningskontor i denne medlemsstaten [EØS-staten].
+
+1 Se art. 67 og [lovens § 12](lov/2005-04-01-14/§12).
 
 ### Art 5
 
@@ -211,45 +245,47 @@ SE-selskapets forretningskontor skal ligge i Fellesskapet [EØS], i samme medlem
 
 ### Art 8
 
-1. Et SE-selskaps forretningskontor kan flyttes til en annen medlemsstat [EØS-stat] i samsvar med nr. 2 – 13. Slik flytting skal ikke føre til oppløsning av SE-selskapet eller til etablering av en ny juridisk person.
+1\. Et SE-selskaps forretningskontor kan flyttes til en annen medlemsstat [EØS-stat] i samsvar med nr. 2 – 13. Slik flytting skal ikke føre til oppløsning av SE-selskapet eller til etablering av en ny juridisk person.
 
-2. Ledelses- eller administrasjonsorganet skal utarbeide en flytteplan og offentliggjøre den i samsvar med artikkel 13, uten at eventuelle ekstra offentliggjøringsformer som er fastsatt av medlemsstaten [EØS-staten] der forretningskontoret ligger, berøres. Planen skal oppgi nåværende navn, forretningskontor og registreringsnummer for SE-selskapet og skal omfatte:det planlagte forretningskontoret for SE-selskapet,de planlagte vedtektene for SE-selskapet, eventuelt med det nye navnet,de konsekvenser som flyttingen vil kunne få for arbeidstakernes innflytelse,tidsplanen for den planlagte flyttingen,alle rettigheter som er fastsatt for beskyttelse av aksjeeiere og/eller kreditorer.
+2\. Ledelses- eller administrasjonsorganet skal utarbeide en flytteplan og offentliggjøre den i samsvar med artikkel 13, uten at eventuelle ekstra offentliggjøringsformer som er fastsatt av medlemsstaten [EØS-staten] der forretningskontoret ligger, berøres. Planen skal oppgi nåværende navn, forretningskontor og registreringsnummer for SE-selskapet og skal omfatte:det planlagte forretningskontoret for SE-selskapet,de planlagte vedtektene for SE-selskapet, eventuelt med det nye navnet,de konsekvenser som flyttingen vil kunne få for arbeidstakernes innflytelse,tidsplanen for den planlagte flyttingen,alle rettigheter som er fastsatt for beskyttelse av aksjeeiere og/eller kreditorer.
 
-3. Ledelses- eller administrasjonsorganet skal utarbeide en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved flyttingen og som forklarer konsekvensene av flyttingen for aksjeeierne, kreditorene og arbeidstakerne.
+3\. Ledelses- eller administrasjonsorganet skal utarbeide en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved flyttingen og som forklarer konsekvensene av flyttingen for aksjeeierne, kreditorene og arbeidstakerne.
 
-4. SE-selskapets aksjeeiere og kreditorer skal minst en måned før generalforsamlingen som skal uttale seg om flyttingen, ha rett til å gjennomgå flytteplanen og rapporten utarbeidet i henhold til nr. 3, og på anmodning få gratis kopier av disse dokumentene, ved SE-selskapets forretningskontor.
+4\. SE-selskapets aksjeeiere og kreditorer skal minst en måned før generalforsamlingen som skal uttale seg om flyttingen, ha rett til å gjennomgå flytteplanen og rapporten utarbeidet i henhold til nr. 3, og på anmodning få gratis kopier av disse dokumentene, ved SE-selskapets forretningskontor.
 
-5. En medlemsstat [EØS-stat] kan, når det gjelder SE-selskaper registrert på dens territorium, vedta bestemmelser med sikte på å sikre hensiktsmessig beskyttelse for mindretallsaksjeeiere som går imot flyttingen.
+5\. En medlemsstat [EØS-stat] kan, når det gjelder SE-selskaper registrert på dens territorium, vedta bestemmelser med sikte på å sikre hensiktsmessig beskyttelse for mindretallsaksjeeiere som går imot flyttingen.
 
-6. Det kan ikke treffes beslutning om å flytte før det er gått to måneder etter at planen er offentliggjort. En slik beslutning skal treffes som fastsatt i artikkel 59.
+6\. Det kan ikke treffes beslutning om å flytte før det er gått to måneder etter at planen er offentliggjort. En slik beslutning skal treffes som fastsatt i artikkel 59.
 
-7. Før vedkommende myndighet utsteder attesten nevnt i nr. 8, skal SE-selskapet bevise at det med hensyn til fordringer som oppstår før offentliggjøringen av flytteplanen, samt interessene til kreditorer og innehavere av andre rettigheter overfor SE-selskapet (herunder offentlige organers rettigheter), gir tilstrekkelig beskyttelse i samsvar med kravene fastsatt av medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor før flytting.En medlemsstat [EØS-stat] kan utvide anvendelsen av første ledd til fordringer som oppstår (eller som kan oppstå) før flyttingen.Første og annet ledd berører ikke anvendelsen på SE-selskaper av medlemsstaters [EØS-staters] nasjonale lovgivning om innfrielse eller sikring av betalinger til offentlige organer.
+7\. Før vedkommende myndighet utsteder attesten nevnt i nr. 8, skal SE-selskapet bevise at det med hensyn til fordringer som oppstår før offentliggjøringen av flytteplanen, samt interessene til kreditorer og innehavere av andre rettigheter overfor SE-selskapet (herunder offentlige organers rettigheter), gir tilstrekkelig beskyttelse i samsvar med kravene fastsatt av medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor før flytting.En medlemsstat [EØS-stat] kan utvide anvendelsen av første ledd til fordringer som oppstår (eller som kan oppstå) før flyttingen.Første og annet ledd berører ikke anvendelsen på SE-selskaper av medlemsstaters [EØS-staters] nasjonale lovgivning om innfrielse eller sikring av betalinger til offentlige organer.
 
-8. I medlemsstaten [EØS-staten] der et SE-selskap har sitt forretningskontor skal en rett, notarius publicus eller annen vedkommende myndighet utstede en attest som bekrefter fullføringen av alt arbeid med dokumenter og formaliteter før flytting.
+8\. I medlemsstaten [EØS-staten] der et SE-selskap har sitt forretningskontor skal en rett, notarius publicus eller annen vedkommende myndighet utstede en attest som bekrefter fullføringen av alt arbeid med dokumenter og formaliteter før flytting.
 
-9. Den nye registreringen kan ikke foretas før attesten nevnt i nr. 8 er framlagt og det er framlagt bevis for at formalitetene som kreves for registrering i staten for det nye forretningskontoret, er gjennomført.
+9\. Den nye registreringen kan ikke foretas før attesten nevnt i nr. 8 er framlagt og det er framlagt bevis for at formalitetene som kreves for registrering i staten for det nye forretningskontoret, er gjennomført.
 
-10. Flyttingen av et SE-selskaps forretningskontor og de vedtektsendringer som følger av dette, skal tre i kraft på den dato da SE-selskapet registreres, i samsvar med artikkel 12, i registeret for det nye forretningskontoret.
+10\. Flyttingen av et SE-selskaps forretningskontor og de vedtektsendringer som følger av dette, skal tre i kraft på den dato da SE-selskapet registreres, i samsvar med artikkel 12, i registeret for det nye forretningskontoret.
 
-11. Når den nye registreringen av SE-selskapet er gjennomført, skal registeret for den nye registreringen underrette registeret for den gamle registreringen. Den gamle registreringen skal slettes når denne underretningen mottas, men ikke før.
+11\. Når den nye registreringen av SE-selskapet er gjennomført, skal registeret for den nye registreringen underrette registeret for den gamle registreringen. Den gamle registreringen skal slettes når denne underretningen mottas, men ikke før.
 
-12. Den nye registreringen og slettingen av den gamle registreringen skal offentliggjøres i de berørte medlemsstatene [EØS-statene] i samsvar med artikkel 13.
+12\. Den nye registreringen og slettingen av den gamle registreringen skal offentliggjøres i de berørte medlemsstatene [EØS-statene] i samsvar med artikkel 13.
 
-13. Etter at den nye registreringen av et SE-selskap er offentliggjort, kan det nye forretningskontoret gjøres gjeldende overfor tredjemann. Så lenge slettingen av registreringen av SE-selskapet fra registeret for det forrige forretningskontoret ikke er offentliggjort, kan tredjemann likevel fortsatt påberope seg det forrige forretningskontoret, med mindre SE-selskapet beviser at slik tredjemann hadde kjennskap til det nye forretningskontoret.
+13\. Etter at den nye registreringen av et SE-selskap er offentliggjort, kan det nye forretningskontoret gjøres gjeldende overfor tredjemann. Så lenge slettingen av registreringen av SE-selskapet fra registeret for det forrige forretningskontoret ikke er offentliggjort, kan tredjemann likevel fortsatt påberope seg det forrige forretningskontoret, med mindre SE-selskapet beviser at slik tredjemann hadde kjennskap til det nye forretningskontoret.
 
-14. En medlemsstats [EØS-stats] lovgivning kan fastsette at med hensyn til SE-selskaper registrert i denne medlemsstaten [EØS-staten], skal flytting av et forretningskontor som vil føre til endring i lovgivningen som får anvendelse, ikke tre i kraft dersom vedkommende myndighet i denne medlemsstaten [EØS-staten] har innsigelser mot flyttingen innen tomånedersfristen nevnt i nr. 6. Slike innsigelser kan bare være basert på offentlighetens interesse.Når et SE-selskap er underlagt tilsyn ved en nasjonal finanstilsynsmyndighet i samsvar med fellesskapsdirektiver, gjelder retten til å gjøre innsigelser mot flytting av forretningskontor også for denne myndigheten.Innsigelser skal kunne bringes inn for en rettsmyndighet.
+14\. En medlemsstats [EØS-stats] lovgivning kan fastsette at med hensyn til SE-selskaper registrert i denne medlemsstaten [EØS-staten], skal flytting av et forretningskontor som vil føre til endring i lovgivningen som får anvendelse, ikke tre i kraft dersom vedkommende myndighet i denne medlemsstaten [EØS-staten] har innsigelser mot flyttingen innen tomånedersfristen nevnt i nr. 6. Slike innsigelser kan bare være basert på offentlighetens interesse.Når et SE-selskap er underlagt tilsyn ved en nasjonal finanstilsynsmyndighet i samsvar med fellesskapsdirektiver, gjelder retten til å gjøre innsigelser mot flytting av forretningskontor også for denne myndigheten.Innsigelser skal kunne bringes inn for en rettsmyndighet.
 
-15. Et SE-selskap kan ikke flytte sitt forretningskontor dersom det er innledet oppløsnings-, avviklings-, insolvens- eller betalingsstansbehandling eller annen lignende behandling mot det.
+15\. Et SE-selskap kan ikke flytte sitt forretningskontor dersom det er innledet oppløsnings-, avviklings-, insolvens- eller betalingsstansbehandling eller annen lignende behandling mot det.
 
-16. Et SE-selskap som har flyttet sitt forretningskontor til en annen medlemsstat [EØS-stat], skal med hensyn til enhver tvist som oppstår før flyttingen som fastsatt i nr. 10, betraktes som å ha sitt forretningskontor i den medlemsstat [EØS-stat] der SE-selskapet var registrert før flyttingen, selv om SE-selskapet saksøkes etter flyttingen.
+16\. Et SE-selskap som har flyttet sitt forretningskontor til en annen medlemsstat [EØS-stat], skal med hensyn til enhver tvist som oppstår før flyttingen som fastsatt i nr. 10, betraktes som å ha sitt forretningskontor i den medlemsstat [EØS-stat] der SE-selskapet var registrert før flyttingen, selv om SE-selskapet saksøkes etter flyttingen.
 
 ### Art 9
 
-1. Et SE-selskap skal være regulert:av denne forordning,når det er uttrykkelig tillatt etter denne forordning, av bestemmelsene i selskapets vedtekter,1ellernår det gjelder forhold som ikke er regulert av denne forordning, eller når et forhold er delvis regulert av den, for de sider som ikke omfattes av den, av:lovbestemmelsene vedtatt av medlemsstatene [EØS-statene] til gjennomføring av fellesskapstiltak [EØS-tiltak] som konkret angår SE-selskaper,de bestemmelser i medlemsstatenes [EØS-statenes] lovgivning som vil få anvendelse på et allmennaksjeselskap stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor,bestemmelsene i dets vedtekter,1 på samme måte som for et allmennaksjeselskap stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor.
+1\. Et SE-selskap skal være regulert:av denne forordning,når det er uttrykkelig tillatt etter denne forordning, av bestemmelsene i selskapets vedtekter,1ellernår det gjelder forhold som ikke er regulert av denne forordning, eller når et forhold er delvis regulert av den, for de sider som ikke omfattes av den, av:lovbestemmelsene vedtatt av medlemsstatene [EØS-statene] til gjennomføring av fellesskapstiltak [EØS-tiltak] som konkret angår SE-selskaper,de bestemmelser i medlemsstatenes [EØS-statenes] lovgivning som vil få anvendelse på et allmennaksjeselskap stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor,bestemmelsene i dets vedtekter,1 på samme måte som for et allmennaksjeselskap stiftet i samsvar med lovgivningen i medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor.
 
-2. De lovbestemmelser som vedtas av medlemsstatene [EØS-statene] særlig for SE-selskapet, må være i samsvar med direktiver som får anvendelse på allmennaksjeselskaper nevnt i vedlegg I.
+2\. De lovbestemmelser som vedtas av medlemsstatene [EØS-statene] særlig for SE-selskapet, må være i samsvar med direktiver som får anvendelse på allmennaksjeselskaper nevnt i vedlegg I.
 
-3. Dersom arten av den virksomhet som utøves av et SE-selskap er regulert av særbestemmelser i nasjonal lovgivning, får denne lovgivningen fullt ut anvendelse på SE-selskapet.2
+3\. Dersom arten av den virksomhet som utøves av et SE-selskap er regulert av særbestemmelser i nasjonal lovgivning, får denne lovgivningen fullt ut anvendelse på SE-selskapet.2
+
+1 Se art. 6.2 Jf. [lovens § 2](lov/2005-04-01-14/§2).
 
 ### Art 10
 
@@ -257,33 +293,39 @@ Med forbehold for denne forordning skal et SE-selskap i hver medlemsstat [EØS-s
 
 ### Art 11
 
-1. Et SE-selskaps navn skal inneholde forkortelsen SE foran eller etter navnet.
+1\. Et SE-selskaps navn skal inneholde forkortelsen SE foran eller etter navnet.
 
-2. Bare SE-selskaper kan ha forkortelsen SE i navnet.
+2\. Bare SE-selskaper kan ha forkortelsen SE i navnet.
 
-3. Selskaper og andre rettssubjekter registrert i en medlemsstat [EØS-stat] før datoen for denne forordnings ikrafttredelse som har navn der forkortelsen SE forekommer, skal likevel ikke pålegges å endre navnet.
+3\. Selskaper og andre rettssubjekter registrert i en medlemsstat [EØS-stat] før datoen for denne forordnings ikrafttredelse som har navn der forkortelsen SE forekommer, skal likevel ikke pålegges å endre navnet.
 
 ### Art 12
 
-1. SE-selskaper skal registreres i den medlemsstat [EØS-stat] der de har sitt forretningskontor, i et register utpekt av statens lovgivning i henhold til artikkel 3 i rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 19681 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd2 for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige.3
+1\. SE-selskaper skal registreres i den medlemsstat [EØS-stat] der de har sitt forretningskontor, i et register utpekt av statens lovgivning i henhold til artikkel 3 i rådsdirektiv [68/151/EØF](eu/31968l0151*) av 9. mars 19681 om samordning av de garantier som kreves i medlemsstatene [EØS-statene] av selskaper som definert i traktatens artikkel 58 annet ledd2 for å verne selskapsdeltakeres og tredjemanns interesser, med det formål å gjøre garantiene likeverdige.3
 
-2. Et SE-selskap kan registreres bare dersom det er inngått en avtale om ordninger for arbeidstakernes innflytelse i henhold til artikkel 4 i direktiv [2001/86/EF](eu/32001l0086)4 eller det er truffet en beslutning i henhold til direktivets artikkel 3 nr. 6 eller tidsrommet for forhandlinger i henhold til direktivets artikkel 5 er utløpt uten at det er inngått en avtale.
+2\. Et SE-selskap kan registreres bare dersom det er inngått en avtale om ordninger for arbeidstakernes innflytelse i henhold til artikkel 4 i direktiv [2001/86/EF](eu/32001l0086)4 eller det er truffet en beslutning i henhold til direktivets artikkel 3 nr. 6 eller tidsrommet for forhandlinger i henhold til direktivets artikkel 5 er utløpt uten at det er inngått en avtale.
 
-3. For at et SE-selskap skal kunne registreres i en medlemsstat [EØS-stat] som har benyttet muligheten nevnt i artikkel 7 nr. 3 i direktiv [2001/86/EF](eu/32001l0086),4 må det enten være inngått en avtale i henhold til direktivets artikkel 4 om ordninger for arbeidstakernes innflytelse, herunder medbestemmelse, eller må ingen av de deltakende selskapene ha vært regulert av medbestemmelsesregler før registreringen av SE-selskapet.
+3\. For at et SE-selskap skal kunne registreres i en medlemsstat [EØS-stat] som har benyttet muligheten nevnt i artikkel 7 nr. 3 i direktiv [2001/86/EF](eu/32001l0086),4 må det enten være inngått en avtale i henhold til direktivets artikkel 4 om ordninger for arbeidstakernes innflytelse, herunder medbestemmelse, eller må ingen av de deltakende selskapene ha vært regulert av medbestemmelsesregler før registreringen av SE-selskapet.
 
-4. SE-selskapets vedtekter5 må ikke på noe tidspunkt komme i konflikt med de fastsatte ordningene for arbeidstakernes innflytelse. Dersom nye slike ordninger fastsatt i henhold til direktivet kommer i konflikt med eksisterende vedtekter, skal vedtektene endres i den utstrekning som er nødvendig.I dette tilfellet kan en medlemsstat [EØS-stat] fastsette at ledelses- eller administrasjonsorganet i SE-selskapet skal ha rett til å foreta vedtektsendringene uten videre beslutning fra generalforsamlingen.
+4\. SE-selskapets vedtekter5 må ikke på noe tidspunkt komme i konflikt med de fastsatte ordningene for arbeidstakernes innflytelse. Dersom nye slike ordninger fastsatt i henhold til direktivet kommer i konflikt med eksisterende vedtekter, skal vedtektene endres i den utstrekning som er nødvendig.I dette tilfellet kan en medlemsstat [EØS-stat] fastsette at ledelses- eller administrasjonsorganet i SE-selskapet skal ha rett til å foreta vedtektsendringene uten videre beslutning fra generalforsamlingen.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).2 Se EØS-avtalen art. 34 annet ledd. (Fra 1 mai 1999 ble EF-traktatens artikler omnummerert. Tidl. art. 58 ble art. 48 og er nå blitt TEUV art. 54. Direktivets tittel er imidlertid ikke endret tilsvarende.)3 EFT L 65 av 14.3.1968, s. 8.4 Jf. EØS-avtalen vedlegg XVIII nr. 32e.5 Se art. 6.
 
 ### Art 13
 
 De dokumenter og opplysninger om et SE-selskap som skal offentliggjøres i henhold til denne forordning, skal offentliggjøres på en måte som er fastsatt i lovgivningen til medlemsstaten [EØS-staten] der SE-selskapet har sitt forretningskontor i henhold til direktiv [68/151/EØF](eu/31968l0151*).1
 
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).
+
 ### Art 14
 
-1. Melding om et SE-selskaps registrering og slettelse av slik registrering skal offentliggjøres til orientering i *De Europeiske Fellesskaps Tidende*1 etter offentliggjøring i samsvar med artikkel 13. Denne meldingen skal inneholde SE-selskapets navn, nummer og registreringsdato og -sted, offentliggjøringsdato og -sted og publikasjonens tittel, SE-selskapets forretningskontor og dets virksomhetssektor.
+1\. Melding om et SE-selskaps registrering og slettelse av slik registrering skal offentliggjøres til orientering i *De Europeiske Fellesskaps Tidende*1 etter offentliggjøring i samsvar med artikkel 13. Denne meldingen skal inneholde SE-selskapets navn, nummer og registreringsdato og -sted, offentliggjøringsdato og -sted og publikasjonens tittel, SE-selskapets forretningskontor og dets virksomhetssektor.
 
-2. Dersom et SE-selskaps forretningskontor flyttes i samsvar med artikkel 8, skal det offentliggjøres en melding med de opplysninger som er fastsatt i nr. 1, sammen med de opplysninger som gjelder den nye registreringen.
+2\. Dersom et SE-selskaps forretningskontor flyttes i samsvar med artikkel 8, skal det offentliggjøres en melding med de opplysninger som er fastsatt i nr. 1, sammen med de opplysninger som gjelder den nye registreringen.
 
-3. Opplysningene nevnt i nr. 1 skal oversendes til Kontoret for De europeiske fellesskaps offisielle publikasjoner innen en måned etter offentliggjøringen nevnt i artikkel 13.
+3\. Opplysningene nevnt i nr. 1 skal oversendes til Kontoret for De europeiske fellesskaps offisielle publikasjoner innen en måned etter offentliggjøringen nevnt i artikkel 13.
+
+1 Inkurie: Nå: Den europeiske unions tidende.
 
 ### Avdeling II. Stiftelse
 
@@ -291,27 +333,31 @@ De dokumenter og opplysninger om et SE-selskap som skal offentliggjøres i henho
 
 ### Art 15
 
-1. Med forbehold for bestemmelsene i denne forordning skal stiftelsen av et SE-selskap reguleres av lovgivningen som får anvendelse på allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapet etablerer sitt forretningskontor.
+1\. Med forbehold for bestemmelsene i denne forordning skal stiftelsen av et SE-selskap reguleres av lovgivningen som får anvendelse på allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapet etablerer sitt forretningskontor.
 
-2. Registreringen av et SE-selskap skal offentliggjøres i samsvar med artikkel 13.
+2\. Registreringen av et SE-selskap skal offentliggjøres i samsvar med artikkel 13.
 
 ### Art 16
 
-1. Et SE-selskap skal bli rettssubjekt på den dato da det registreres i registeret nevnt i artikkel 12.
+1\. Et SE-selskap skal bli rettssubjekt på den dato da det registreres i registeret nevnt i artikkel 12.
 
-2. Dersom det er foretatt handlinger i et SE-selskaps navn før registrering i samsvar med artikkel 12 og SE-selskapet etter registrering ikke påtar seg de forpliktelser som følger av slike handlinger, skal de fysiske personer, selskaper eller andre rettssubjekter som utførte handlingene, være solidarisk ansvarlige for dem, uten begrensning, med mindre det foreligger avtale om noe annet.
+2\. Dersom det er foretatt handlinger i et SE-selskaps navn før registrering i samsvar med artikkel 12 og SE-selskapet etter registrering ikke påtar seg de forpliktelser som følger av slike handlinger, skal de fysiske personer, selskaper eller andre rettssubjekter som utførte handlingene, være solidarisk ansvarlige for dem, uten begrensning, med mindre det foreligger avtale om noe annet.
 
 ### Avsnitt 2. Stiftelse ved fusjon
 
 ### Art 17
 
-1. Et SE-selskap kan stiftes ved fusjon i samsvar med artikkel 2 nr. 1.
+1\. Et SE-selskap kan stiftes ved fusjon i samsvar med artikkel 2 nr. 1.
 
-2. Slik fusjon kan utføres i samsvar med:framgangsmåten for fusjon ved overtakelse fastsatt i artikkel 3 nr. 1 i direktiv [78/855/EØF](eu/31978l0855),1 ellerframgangsmåten for fusjon ved stiftelse av et nytt selskap fastsatt i artikkel 4 nr. 1 i samme direktiv.I tilfelle av fusjon ved overtakelse skal det overtakende selskapet ta form av et SE-selskap samtidig med fusjonen. I tilfelle av fusjon ved stiftelse av et nytt selskap skal SE-selskapet være det nye selskapet.
+2\. Slik fusjon kan utføres i samsvar med:framgangsmåten for fusjon ved overtakelse fastsatt i artikkel 3 nr. 1 i direktiv [78/855/EØF](eu/31978l0855),1 ellerframgangsmåten for fusjon ved stiftelse av et nytt selskap fastsatt i artikkel 4 nr. 1 i samme direktiv.I tilfelle av fusjon ved overtakelse skal det overtakende selskapet ta form av et SE-selskap samtidig med fusjonen. I tilfelle av fusjon ved stiftelse av et nytt selskap skal SE-selskapet være det nye selskapet.
+
+1 Tredje rådsdirektiv [78/855/EØF](eu/31978l0855) av 9. oktober 1978 med hjemmel i traktatens artikkel 54 § 3 [nå TEUV art. 50] bokstav g) om fusjon av åpne aksjeselskaper (EFT L 295 av 20.10.1978, s. 36). Direktivet er nå erstattet av dir [2011/35](eu/32011l0035*). Jf. EØS-avtalen vedlegg XXII nr. 3.
 
 ### Art 18
 
 For forhold som ikke omfattes av dette avsnitt eller, dersom et forhold omfattes delvis av det, for de sider som ikke omfattes av det, skal hvert selskap som deltar i stiftelsen av et SE-selskap ved fusjon, være regulert av de bestemmelser i lovgivningen i medlemsstaten [EØS-staten] det hører inn under som får anvendelse på fusjoner av allmennaksjeselskaper i samsvar med direktiv [78/855/EØF](eu/31978l0855).1
+
+1 Inkurie: Nå erstattet av dir [2011/35](eu/32011l0035*). Jf. EØS-avtalen vedlegg XXII nr. 3.
 
 ### Art 19
 
@@ -321,13 +367,17 @@ Slike innsigelser kan være basert bare på offentlighetens interesse. Innsigels
 
 ### Art 20
 
-1. Ledelses- eller administrasjonsorganene i fusjonerende selskaper skal utarbeide en fusjonsplan. Fusjonsplanen skal inneholde følgende opplysninger:navn og forretningskontor for hvert av de fusjonerende selskapene, samt navn og forretningskontor som er planlagt for SE-selskapet,aksjenes bytteforhold og eventuelt godtgjøringsbeløp,nærmere regler for tildeling av aksjer i SE-selskapet,fra hvilket tidspunkt aksjene i SE-selskapet gir rett til å ta del i utbyttet, og alle særlige vilkår forbundet med denne rettigheten,fra hvilket tidspunkt transaksjonene i de fusjonerende selskapene regnskapsmessig skal anses som utført for SE-selskapets regning,hvilke rettigheter SE-selskapet gir eiere av aksjer med særlige rettigheter og eiere av andre verdipapirer enn aksjer, eller hvilke tiltak som foreslås med hensyn til dem,enhver særlig fordel som gis til de sakkyndige som gjennomgår fusjonsplanen og til medlemmene av de fusjonerende selskapers administrasjons-, ledelses-, tilsyns- eller kontrollorganer,SE-selskapets vedtekter,1opplysninger om hvilke framgangsmåter som benyttes når det i henhold til direktiv [2001/86/EF](eu/32001l0086)2 bestemmes ordninger for arbeidstakernes innflytelse.
+1\. Ledelses- eller administrasjonsorganene i fusjonerende selskaper skal utarbeide en fusjonsplan. Fusjonsplanen skal inneholde følgende opplysninger:navn og forretningskontor for hvert av de fusjonerende selskapene, samt navn og forretningskontor som er planlagt for SE-selskapet,aksjenes bytteforhold og eventuelt godtgjøringsbeløp,nærmere regler for tildeling av aksjer i SE-selskapet,fra hvilket tidspunkt aksjene i SE-selskapet gir rett til å ta del i utbyttet, og alle særlige vilkår forbundet med denne rettigheten,fra hvilket tidspunkt transaksjonene i de fusjonerende selskapene regnskapsmessig skal anses som utført for SE-selskapets regning,hvilke rettigheter SE-selskapet gir eiere av aksjer med særlige rettigheter og eiere av andre verdipapirer enn aksjer, eller hvilke tiltak som foreslås med hensyn til dem,enhver særlig fordel som gis til de sakkyndige som gjennomgår fusjonsplanen og til medlemmene av de fusjonerende selskapers administrasjons-, ledelses-, tilsyns- eller kontrollorganer,SE-selskapets vedtekter,1opplysninger om hvilke framgangsmåter som benyttes når det i henhold til direktiv [2001/86/EF](eu/32001l0086)2 bestemmes ordninger for arbeidstakernes innflytelse.
 
-2. De fusjonerende selskapene kan tilføye ytterligere punkter i fusjonsplanen.
+2\. De fusjonerende selskapene kan tilføye ytterligere punkter i fusjonsplanen.
+
+1 Se art. 6.2 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 21
 
 For hvert av de fusjonerende selskapene og med forbehold for ytterligere krav fastsatt av medlemsstaten [EØS-staten] som det aktuelle selskap er underlagt, skal følgende opplysninger offentliggjøres i denne medlemsstatens [EØS-statens] nasjonale lysingsblad:form, navn og forretningskontor for hvert fusjonerende selskap,registeret der dokumentene nevnt i artikkel 3 nr. 2 i direktiv [68/151/EØF](eu/31968l0151*)1 er deponert for hvert fusjonerende selskap, og registreringsnummeret i registeret,angivelse av de nærmere reglene for utøvelse av rettighetene til kreditorene i det aktuelle selskapet, fastsatt i samsvar med artikkel 24, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,angivelse av de nærmere reglene for utøvelse av rettighetene til mindretallsaksjeeierne i det aktuelle selskapet, fastsatt i samsvar med artikkel 24, samt adressen der de fullstendige opplysningene om disse reglene kan fås kostnadsfritt,planlagt navn og forretningskontor for SE-selskapet.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).
 
 ### Art 22
 
@@ -335,55 +385,63 @@ I stedet for sakkyndige som opererer på vegne av hvert av de fusjonerende selsk
 
 De sakkyndige skal ha rett til å be om alle opplysninger fra hvert av de fusjonerende selskapene som de mener er nødvendige for at de kan utføre sin oppgave.
 
+1 Inkurie: Nå erstattet av dir [2011/35](eu/32011l0035*) art. 10. Jf. EØS-avtalen vedlegg XXII nr. 3.
+
 ### Art 23
 
-1. Generalforsamlingen i hvert av de fusjonerende selskapene skal godta fusjonsplanen.
+1\. Generalforsamlingen i hvert av de fusjonerende selskapene skal godta fusjonsplanen.
 
-2. Arbeidstakernes innflytelse i SE-selskapet skal fastsettes i henhold til direktiv [2001/86/EF](eu/32001l0086).1 Generalforsamlingen i hvert av de fusjonerende selskapene kan sette som vilkår for registrering av SE-selskapet at generalforsamlingen uttrykkelig godtar de ordninger som fastsettes på denne måten.
+2\. Arbeidstakernes innflytelse i SE-selskapet skal fastsettes i henhold til direktiv [2001/86/EF](eu/32001l0086).1 Generalforsamlingen i hvert av de fusjonerende selskapene kan sette som vilkår for registrering av SE-selskapet at generalforsamlingen uttrykkelig godtar de ordninger som fastsettes på denne måten.
+
+1 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 24
 
-1. Lovgivningen i den medlemsstat [EØS-stat] som regulerer hvert fusjonerende selskap får anvendelse som i tilfelle av fusjon av allmennaksjeselskaper, under hensyn til fusjonens grenseoverskridende art, når det gjelder beskyttelse av interessene til:kreditorene til de fusjonerende selskapene,obligasjonseiere i de fusjonerende selskapene,innehavere av andre verdipapirer enn aksjer som det er knyttet spesielle rettigheter til i de fusjonerende selskapene.
+1\. Lovgivningen i den medlemsstat [EØS-stat] som regulerer hvert fusjonerende selskap får anvendelse som i tilfelle av fusjon av allmennaksjeselskaper, under hensyn til fusjonens grenseoverskridende art, når det gjelder beskyttelse av interessene til:kreditorene til de fusjonerende selskapene,obligasjonseiere i de fusjonerende selskapene,innehavere av andre verdipapirer enn aksjer som det er knyttet spesielle rettigheter til i de fusjonerende selskapene.
 
-2. En medlemsstat [EØS-stat] kan med hensyn til de fusjonerende selskapene som er regulert av dens lovgivning, vedta bestemmelser med sikte på å sikre hensiktsmessig beskyttelse for mindretallsaksjeeiere som har gått imot fusjonen.
+2\. En medlemsstat [EØS-stat] kan med hensyn til de fusjonerende selskapene som er regulert av dens lovgivning, vedta bestemmelser med sikte på å sikre hensiktsmessig beskyttelse for mindretallsaksjeeiere som har gått imot fusjonen.
 
 ### Art 25
 
-1. Lovligheten av en fusjon skal, når det gjelder den del av framgangsmåten som angår hvert fusjonerende selskap, kontrolleres i samsvar med fusjonslovgivningen for allmennaksjeselskaper i den medlemsstat [EØS-stat] som det fusjonerende selskapet er underlagt.
+1\. Lovligheten av en fusjon skal, når det gjelder den del av framgangsmåten som angår hvert fusjonerende selskap, kontrolleres i samsvar med fusjonslovgivningen for allmennaksjeselskaper i den medlemsstat [EØS-stat] som det fusjonerende selskapet er underlagt.
 
-2. I hver berørte medlemsstat [EØS-stat] skal retten, notarius publicus eller annen vedkommende myndighet utstede en attest som endelig bekrefter at de dokumenter og formaliteter som går forut for fusjonen, er fullført.
+2\. I hver berørte medlemsstat [EØS-stat] skal retten, notarius publicus eller annen vedkommende myndighet utstede en attest som endelig bekrefter at de dokumenter og formaliteter som går forut for fusjonen, er fullført.
 
-3. Dersom lovgivningen i en medlemsstat [EØS-stat] som et fusjonerende selskap er underlagt, fastsetter en framgangsmåte for analyse og endring av aksjenes bytteforhold, eller en framgangsmåte for godtgjøring til mindretallsaksjeeiere, uten å hindre registrering av fusjonen, skal slike framgangsmåter anvendes bare dersom de øvrige fusjonerende selskapene som ligger i medlemsstater [EØS-stater] som ikke fastsetter en slik framgangsmåte, når de godkjenner fusjonsplanen i samsvar med artikkel 23 nr. 1, uttrykkelig godtar muligheten for at dette fusjonerende selskapets aksjeeiere har adgang til en slik framgangsmåte. I slike tilfeller kan retten, notarius publicus eller annen vedkommende myndighet utstede attesten nevnt i nr. 2 selv om en slik framgangsmåte er innledet. Attesten må imidlertid angi at framgangsmåten er påbegynt. Beslutningen som tas ved avslutningen av framgangsmåten, skal være bindende for det overtakende selskapet og alle dets aksjeeiere.
+3\. Dersom lovgivningen i en medlemsstat [EØS-stat] som et fusjonerende selskap er underlagt, fastsetter en framgangsmåte for analyse og endring av aksjenes bytteforhold, eller en framgangsmåte for godtgjøring til mindretallsaksjeeiere, uten å hindre registrering av fusjonen, skal slike framgangsmåter anvendes bare dersom de øvrige fusjonerende selskapene som ligger i medlemsstater [EØS-stater] som ikke fastsetter en slik framgangsmåte, når de godkjenner fusjonsplanen i samsvar med artikkel 23 nr. 1, uttrykkelig godtar muligheten for at dette fusjonerende selskapets aksjeeiere har adgang til en slik framgangsmåte. I slike tilfeller kan retten, notarius publicus eller annen vedkommende myndighet utstede attesten nevnt i nr. 2 selv om en slik framgangsmåte er innledet. Attesten må imidlertid angi at framgangsmåten er påbegynt. Beslutningen som tas ved avslutningen av framgangsmåten, skal være bindende for det overtakende selskapet og alle dets aksjeeiere.
 
 ### Art 26
 
-1. Lovligheten av en fusjon skal, når det gjelder den del av framgangsmåten som angår gjennomføringen av fusjonen og stiftelsen av SE-selskapet, kontrolleres av retten, notarius publicus eller annen vedkommende myndighet i medlemsstaten [EØS-staten] til SE-selskapets framtidige forretningskontor for å kontrollere denne siden ved lovligheten av fusjon mellom allmennaksjeselskaper.
+1\. Lovligheten av en fusjon skal, når det gjelder den del av framgangsmåten som angår gjennomføringen av fusjonen og stiftelsen av SE-selskapet, kontrolleres av retten, notarius publicus eller annen vedkommende myndighet i medlemsstaten [EØS-staten] til SE-selskapets framtidige forretningskontor for å kontrollere denne siden ved lovligheten av fusjon mellom allmennaksjeselskaper.
 
-2. For dette formål skal hvert fusjonerende selskap oversende vedkommende myndighet attesten nevnt i artikkel 25 nr. 2 innen seks måneder etter at den er utstedt, sammen med et eksemplar av fusjonsplanen som er godkjent av selskapet.
+2\. For dette formål skal hvert fusjonerende selskap oversende vedkommende myndighet attesten nevnt i artikkel 25 nr. 2 innen seks måneder etter at den er utstedt, sammen med et eksemplar av fusjonsplanen som er godkjent av selskapet.
 
-3. Myndigheten nevnt i nr. 1 skal særlig påse at de fusjonerende selskapene har godkjent fusjonsplanen på samme vilkår og at ordninger for arbeidstakernes innflytelse er fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
+3\. Myndigheten nevnt i nr. 1 skal særlig påse at de fusjonerende selskapene har godkjent fusjonsplanen på samme vilkår og at ordninger for arbeidstakernes innflytelse er fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
 
-4. Denne myndigheten skal også forvisse seg om at SE-selskapet er stiftet i samsvar med kravene i lovgivningen i den medlemsstat [EØS-stat] der det har sitt forretningskontor i samsvar med artikkel 15.
+4\. Denne myndigheten skal også forvisse seg om at SE-selskapet er stiftet i samsvar med kravene i lovgivningen i den medlemsstat [EØS-stat] der det har sitt forretningskontor i samsvar med artikkel 15.
+
+1 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 27
 
-1. En fusjon og samtidig stiftelse av et SE-selskap får virkning på den dato da SE-selskapet registreres i samsvar med artikkel 12.
+1\. En fusjon og samtidig stiftelse av et SE-selskap får virkning på den dato da SE-selskapet registreres i samsvar med artikkel 12.
 
-2. SE-selskapet kan ikke registreres før formalitetene fastsatt i artikkel 25 og 26 er fullført.
+2\. SE-selskapet kan ikke registreres før formalitetene fastsatt i artikkel 25 og 26 er fullført.
 
 ### Art 28
 
 For hvert av de fusjonerende selskapene skal gjennomføringen av fusjonen offentliggjøres som fastsatt i lovgivningen i hver medlemsstat [EØS-stat] i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*).1
 
+1 Jf. EØS-avtalen vedlegg XXXII nr. 1. Dir. [68/151](eu/31968l0151*) er nå erstattet av dir. [2009/101](eu/32009l0101).
+
 ### Art 29
 
-1. En fusjon gjennomført i samsvar med artikkel 17 nr. 2 bokstav a) skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i hvert overtatte selskap overdras som helhet til det overtakende selskapet,aksjeeierne i det overtatte selskapet blir aksjeeiere i det overtakende selskapet,det overtatte selskapet opphører,det overtakende selskapet tar form av et SE-selskap.
+1\. En fusjon gjennomført i samsvar med artikkel 17 nr. 2 bokstav a) skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i hvert overtatte selskap overdras som helhet til det overtakende selskapet,aksjeeierne i det overtatte selskapet blir aksjeeiere i det overtakende selskapet,det overtatte selskapet opphører,det overtakende selskapet tar form av et SE-selskap.
 
-2. En fusjon gjennomført i samsvar med artikkel 17 nr. 2 bokstav b) skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i de fusjonerende selskapene overdras som helhet til SE-selskapet,aksjeeierne i de fusjonerende selskapene blir aksjeeiere i SE-selskapet,de fusjonerende selskapene opphører.
+2\. En fusjon gjennomført i samsvar med artikkel 17 nr. 2 bokstav b) skal *ipso jure* ha følgende rettsvirkninger som inntrer samtidig:alle aktiva og passiva i de fusjonerende selskapene overdras som helhet til SE-selskapet,aksjeeierne i de fusjonerende selskapene blir aksjeeiere i SE-selskapet,de fusjonerende selskapene opphører.
 
-3. Dersom en medlemsstats [EØS-stats] lovgivning krever at det ved fusjon mellom allmennaksjeselskaper gjennomføres særlige formaliteter før de fusjonerende selskapenes overdragelse av visse aktiva, rettigheter og forpliktelser får virkning overfor tredjemann, skal disse formalitetene anvendes og skal gjennomføres enten av de fusjonerende selskapene eller av SE-selskapet etter registrering.
+3\. Dersom en medlemsstats [EØS-stats] lovgivning krever at det ved fusjon mellom allmennaksjeselskaper gjennomføres særlige formaliteter før de fusjonerende selskapenes overdragelse av visse aktiva, rettigheter og forpliktelser får virkning overfor tredjemann, skal disse formalitetene anvendes og skal gjennomføres enten av de fusjonerende selskapene eller av SE-selskapet etter registrering.
 
-4. Når det gjelder ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal de deltakende selskapenes rettigheter og forpliktelser overdras til SE-selskapet når dette registreres.
+4\. Når det gjelder ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal de deltakende selskapenes rettigheter og forpliktelser overdras til SE-selskapet når dette registreres.
 
 ### Art 30
 
@@ -393,39 +451,45 @@ Manglende kontroll av lovligheten av fusjonen i henhold til artikkel 25 og 26 ka
 
 ### Art 31
 
-1. Dersom en fusjon i henhold til artikkel 17 nr. 2 bokstav a) gjennomføres av et selskap som eier alle aksjer og andre verdipapirer som gir stemmerett på generalforsamlingen i et annet selskap, kommer verken artikkel 20 nr. 1 bokstav b), c) og d), artikkel 29 nr. 1 bokstav b) eller artikkel 22 til anvendelse. Nasjonal lovgivning som regulerer hvert fusjonerende selskap og fusjoner mellom allmennaksjeselskaper i samsvar med artikkel 24 i direktiv [78/855/EØF](eu/31978l0855),1 kommer likevel til anvendelse.
+1\. Dersom en fusjon i henhold til artikkel 17 nr. 2 bokstav a) gjennomføres av et selskap som eier alle aksjer og andre verdipapirer som gir stemmerett på generalforsamlingen i et annet selskap, kommer verken artikkel 20 nr. 1 bokstav b), c) og d), artikkel 29 nr. 1 bokstav b) eller artikkel 22 til anvendelse. Nasjonal lovgivning som regulerer hvert fusjonerende selskap og fusjoner mellom allmennaksjeselskaper i samsvar med artikkel 24 i direktiv [78/855/EØF](eu/31978l0855),1 kommer likevel til anvendelse.
 
-2. Dersom en fusjon ved overtakelse gjennomføres av et selskap som eier 90 % eller mer, men ikke alle aksjer og andre verdipapirer som gir stemmerett på generalforsamlingen i et annet selskap, skal rapporter fra ledelses- eller administrasjonsorganet, rapporter fra en eller flere uavhengige sakkyndige og dokumentene som er nødvendige for kontroll, kreves bare i den grad de kreves av nasjonal lovgivning som regulerer det overtakende selskap eller det overtatte selskapet.Medlemsstatene [EØS-statene] kan likevel fastsette at dette nummer kan få anvendelse dersom et selskap eier aksjer som gir 90 % eller flere, men ikke alle stemmerettene.
+2\. Dersom en fusjon ved overtakelse gjennomføres av et selskap som eier 90 % eller mer, men ikke alle aksjer og andre verdipapirer som gir stemmerett på generalforsamlingen i et annet selskap, skal rapporter fra ledelses- eller administrasjonsorganet, rapporter fra en eller flere uavhengige sakkyndige og dokumentene som er nødvendige for kontroll, kreves bare i den grad de kreves av nasjonal lovgivning som regulerer det overtakende selskap eller det overtatte selskapet.Medlemsstatene [EØS-statene] kan likevel fastsette at dette nummer kan få anvendelse dersom et selskap eier aksjer som gir 90 % eller flere, men ikke alle stemmerettene.
+
+1 Inkurie: Nå erstattet av dir [2011/35](eu/32011l0035*) art. 24. Jf. EØS-avtalen vedlegg XXII nr. 3.
 
 ### Avsnitt 3. Stiftelse av et SE-holdingselskap
 
 ### Art 32
 
-1. Et SE-holdingselskap kan stiftes i samsvar med artikkel 2 nr. 2.De selskaper som tar initiativ til stiftelse av et SE-holdingselskap i samsvar med artikkel 2 nr. 2, skal fortsette å eksistere.
+1\. Et SE-holdingselskap kan stiftes i samsvar med artikkel 2 nr. 2.De selskaper som tar initiativ til stiftelse av et SE-holdingselskap i samsvar med artikkel 2 nr. 2, skal fortsette å eksistere.
 
-2. Ledelses- eller administrasjonsorganene i de selskaper som tar initiativ til en slik operasjon, skal utarbeide en plan med samme ordlyd for stiftelse av SE-holdingselskapet. Denne planen skal inneholde en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved stiftelsen og angir hvilke konsekvenser den vedtatte SE-holdingselskapsformen får for aksjeeierne og arbeidstakerne. Planen skal også omfatte opplysningene fastsatt i artikkel 20 nr. 1 bokstav a), b), c), f), g), h) og i) og skal fastsette den minste andelen aksjer i hvert av selskapene som tar initiativ til operasjonen som aksjeeierne må bidra med for at SE-holdingselskapet kan stiftes. Denne andelen skal være aksjer som gir mer enn 50 % av de faste stemmerettene.
+2\. Ledelses- eller administrasjonsorganene i de selskaper som tar initiativ til en slik operasjon, skal utarbeide en plan med samme ordlyd for stiftelse av SE-holdingselskapet. Denne planen skal inneholde en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved stiftelsen og angir hvilke konsekvenser den vedtatte SE-holdingselskapsformen får for aksjeeierne og arbeidstakerne. Planen skal også omfatte opplysningene fastsatt i artikkel 20 nr. 1 bokstav a), b), c), f), g), h) og i) og skal fastsette den minste andelen aksjer i hvert av selskapene som tar initiativ til operasjonen som aksjeeierne må bidra med for at SE-holdingselskapet kan stiftes. Denne andelen skal være aksjer som gir mer enn 50 % av de faste stemmerettene.
 
-3. For hvert av selskapene som tar initiativ til operasjonen, skal planen for stiftelse av SE-holdingselskapet offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),1 minst en måned før datoen for generalforsamlingen som skal ta stilling til operasjonen.
+3\. For hvert av selskapene som tar initiativ til operasjonen, skal planen for stiftelse av SE-holdingselskapet offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),1 minst en måned før datoen for generalforsamlingen som skal ta stilling til operasjonen.
 
-4. En eller flere sakkyndige som er uavhengige av selskapene som tar initiativ til operasjonen, oppnevnt eller godkjent av en rettslig myndighet eller forvaltningsmyndighet i den medlemsstat [EØS-stat] som hvert selskap er underlagt i samsvar med nasjonale bestemmelser vedtatt til gjennomføring av direktiv [78/855/EØF](eu/31978l0855),2 skal gjennomgå stiftelsesplanen utarbeidet i samsvar med nr. 2 og skal utarbeide en skriftlig rapport til aksjeeierne i hvert selskap. Etter avtale mellom selskapene som tar initiativ til operasjonen, kan det utarbeides en enkelt rapport til aksjeeierne i alle selskapene av en eller flere uavhengige sakkyndige, oppnevnt eller godkjent av en rettslig myndighet eller forvaltningsmyndighet i den medlemsstat [EØS-stat] som ett av selskapene som tar initiativ til operasjonen eller som det framtidige SE-selskapet er underlagt, i samsvar med nasjonale bestemmelser vedtatt til gjennomføring av direktiv [78/855/EØF](eu/31978l0855).
+4\. En eller flere sakkyndige som er uavhengige av selskapene som tar initiativ til operasjonen, oppnevnt eller godkjent av en rettslig myndighet eller forvaltningsmyndighet i den medlemsstat [EØS-stat] som hvert selskap er underlagt i samsvar med nasjonale bestemmelser vedtatt til gjennomføring av direktiv [78/855/EØF](eu/31978l0855),2 skal gjennomgå stiftelsesplanen utarbeidet i samsvar med nr. 2 og skal utarbeide en skriftlig rapport til aksjeeierne i hvert selskap. Etter avtale mellom selskapene som tar initiativ til operasjonen, kan det utarbeides en enkelt rapport til aksjeeierne i alle selskapene av en eller flere uavhengige sakkyndige, oppnevnt eller godkjent av en rettslig myndighet eller forvaltningsmyndighet i den medlemsstat [EØS-stat] som ett av selskapene som tar initiativ til operasjonen eller som det framtidige SE-selskapet er underlagt, i samsvar med nasjonale bestemmelser vedtatt til gjennomføring av direktiv [78/855/EØF](eu/31978l0855).
 
-5. Rapporten skal angi eventuelle særlige vanskeligheter ved vurderingen og oppgi om det planlagte bytteforholdet for aksjene er rettferdig og rimelig, med angivelse av metodene som er brukt for å bestemme det og om slike metoder er gode nok i det aktuelle tilfellet.
+5\. Rapporten skal angi eventuelle særlige vanskeligheter ved vurderingen og oppgi om det planlagte bytteforholdet for aksjene er rettferdig og rimelig, med angivelse av metodene som er brukt for å bestemme det og om slike metoder er gode nok i det aktuelle tilfellet.
 
-6. Generalforsamlingen i hvert selskap som tar initiativ til operasjonen, skal godkjenne stiftelsesplanen for SE-holdingselskapet.Arbeidstakernes innflytelse i SE-holdingselskapet skal fastsettes i henhold til direktiv [2001/86/EF](eu/32001l0086).3 Generalforsamlingen i hvert selskap kan sette som vilkår for registrering av SE-holdingselskapet at generalforsamlingen uttrykkelig godtar de ordninger som fastsettes på denne måten.
+6\. Generalforsamlingen i hvert selskap som tar initiativ til operasjonen, skal godkjenne stiftelsesplanen for SE-holdingselskapet.Arbeidstakernes innflytelse i SE-holdingselskapet skal fastsettes i henhold til direktiv [2001/86/EF](eu/32001l0086).3 Generalforsamlingen i hvert selskap kan sette som vilkår for registrering av SE-holdingselskapet at generalforsamlingen uttrykkelig godtar de ordninger som fastsettes på denne måten.
 
-7. Disse bestemmelser får tilsvarende anvendelse på private aksjeselskaper.
+7\. Disse bestemmelser får tilsvarende anvendelse på private aksjeselskaper.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).2 Jf. EØS-avtalen vedlegg XXII nr. 3. Nå erstattet av dir [2011/35](eu/32011l0035*).3 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 33
 
-1. Aksjeeierne i selskapene som tar initiativ til en slik operasjon, skal ha en frist på tre måneder til å underrette de initiativtakende selskapene om hvorvidt de har til hensikt å bidra med sine aksjer ved stiftelsen av SE-holdingselskapet. Fristen skal begynne å løpe fra den dato da stiftelsesplanen for SE-holdingselskapet er endelig fastlagt i samsvar med artikkel 32.
+1\. Aksjeeierne i selskapene som tar initiativ til en slik operasjon, skal ha en frist på tre måneder til å underrette de initiativtakende selskapene om hvorvidt de har til hensikt å bidra med sine aksjer ved stiftelsen av SE-holdingselskapet. Fristen skal begynne å løpe fra den dato da stiftelsesplanen for SE-holdingselskapet er endelig fastlagt i samsvar med artikkel 32.
 
-2. SE-holdingselskapet skal stiftes bare dersom aksjeeierne i selskapene som tar initiativ til operasjonen, innen fristen nevnt i nr. 1 har overdratt den minste andelen aksjer i hvert selskap i samsvar med stiftelsesplanen og dersom alle andre vilkår er oppfylt.
+2\. SE-holdingselskapet skal stiftes bare dersom aksjeeierne i selskapene som tar initiativ til operasjonen, innen fristen nevnt i nr. 1 har overdratt den minste andelen aksjer i hvert selskap i samsvar med stiftelsesplanen og dersom alle andre vilkår er oppfylt.
 
-3. Dersom alle vilkår for stiftelsen av SE-holdingselskapet er oppfylt i samsvar med nr. 2, skal dette forhold, med hensyn til hvert av de initiativtakende selskapene, offentliggjøres på den måte som er fastsatt i nasjonal lovgivning som hvert selskap er underlagt og som er vedtatt i henhold til artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*).1Aksjeeiere i selskapene som tar initiativ til operasjonen som ikke innen fristen nevnt i nr. 1 har angitt hvorvidt de har til hensikt å stille sine aksjer til rådighet for de initiativtakende selskapene med sikte på å stifte SE-holdingselskapet, skal få en ekstra frist på en måned til å gjøre det.
+3\. Dersom alle vilkår for stiftelsen av SE-holdingselskapet er oppfylt i samsvar med nr. 2, skal dette forhold, med hensyn til hvert av de initiativtakende selskapene, offentliggjøres på den måte som er fastsatt i nasjonal lovgivning som hvert selskap er underlagt og som er vedtatt i henhold til artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*).1Aksjeeiere i selskapene som tar initiativ til operasjonen som ikke innen fristen nevnt i nr. 1 har angitt hvorvidt de har til hensikt å stille sine aksjer til rådighet for de initiativtakende selskapene med sikte på å stifte SE-holdingselskapet, skal få en ekstra frist på en måned til å gjøre det.
 
-4. Aksjeeiere som har bidratt med sine verdipapirer til stiftelsen av SE-selskapet, skal motta aksjer i SE-holdingselskapet.
+4\. Aksjeeiere som har bidratt med sine verdipapirer til stiftelsen av SE-selskapet, skal motta aksjer i SE-holdingselskapet.
 
-5. SE-holdingselskapet kan ikke registreres før det er bevist at formalitetene nevnt i artikkel 32 er gjennomført og at vilkårene nevnt i nr. 2 er oppfylt.
+5\. SE-holdingselskapet kan ikke registreres før det er bevist at formalitetene nevnt i artikkel 32 er gjennomført og at vilkårene nevnt i nr. 2 er oppfylt.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).
 
 ### Art 34
 
@@ -445,23 +509,25 @@ Selskaper og andre rettssubjekter som deltar i en slik operasjon, skal være und
 
 ### Art 37
 
-1. Et SE-selskap kan stiftes i samsvar med artikkel 2 nr. 4.
+1\. Et SE-selskap kan stiftes i samsvar med artikkel 2 nr. 4.
 
-2. Uten at artikkel 12 berøres, skal omdanning av et allmennaksjeselskap til et SE-selskap ikke føre til at selskapet oppløses eller til at det dannes en ny juridisk person.
+2\. Uten at artikkel 12 berøres, skal omdanning av et allmennaksjeselskap til et SE-selskap ikke føre til at selskapet oppløses eller til at det dannes en ny juridisk person.
 
-3. Forretningskontoret kan ikke flyttes fra en medlemsstat [EØS-stat] til en annen i henhold til artikkel 8 samtidig som omdanningen gjennomføres.
+3\. Forretningskontoret kan ikke flyttes fra en medlemsstat [EØS-stat] til en annen i henhold til artikkel 8 samtidig som omdanningen gjennomføres.
 
-4. Ledelses- eller administrasjonsorganet i det aktuelle selskapet skal utarbeide en plan for omdanningen og en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved omdanningen og som angir hvilke konsekvenser den vedtatte SE-selskapsformen får for aksjeeierne og arbeidstakerne.
+4\. Ledelses- eller administrasjonsorganet i det aktuelle selskapet skal utarbeide en plan for omdanningen og en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved omdanningen og som angir hvilke konsekvenser den vedtatte SE-selskapsformen får for aksjeeierne og arbeidstakerne.
 
-5. Omdanningsplanen skal offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),1 minst en måned før datoen for generalforsamlingen som skal ta stilling til omdanningen.
+5\. Omdanningsplanen skal offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*),1 minst en måned før datoen for generalforsamlingen som skal ta stilling til omdanningen.
 
-6. Før generalforsamlingen nevnt i nr. 7 skal en eller flere uavhengige sakkyndige som er oppnevnt eller godkjent i samsvar med de nasjonale bestemmelsene vedtatt til gjennomføring av artikkel 10 i direktiv [78/855/EØF](eu/31978l0855)2 av en rettslig myndighet eller forvaltningsmyndighet i medlemsstaten [EØS-staten] som selskapet som omdannes til et SE-selskap, er underlagt, i henhold til direktiv [77/91/EØF](eu/31977l0091)3 tilsvarende bekrefte at selskapet har netto aktiva som minst tilsvarer dets kapital pluss de reserver som i henhold til lov eller vedtektene ikke må fordeles.
+6\. Før generalforsamlingen nevnt i nr. 7 skal en eller flere uavhengige sakkyndige som er oppnevnt eller godkjent i samsvar med de nasjonale bestemmelsene vedtatt til gjennomføring av artikkel 10 i direktiv [78/855/EØF](eu/31978l0855)2 av en rettslig myndighet eller forvaltningsmyndighet i medlemsstaten [EØS-staten] som selskapet som omdannes til et SE-selskap, er underlagt, i henhold til direktiv [77/91/EØF](eu/31977l0091)3 tilsvarende bekrefte at selskapet har netto aktiva som minst tilsvarer dets kapital pluss de reserver som i henhold til lov eller vedtektene ikke må fordeles.
 
-7. Generalforsamlingen i det aktuelle selskapet skal godkjenne omdanningsplanen sammen med SE-selskapets vedtekter. Generalforsamlingens beslutning skal treffes som fastsatt i bestemmelsene i nasjonal lovgivning vedtatt til gjennomføring av artikkel 7 i direktiv [78/855/EØF](eu/31978l0855).2
+7\. Generalforsamlingen i det aktuelle selskapet skal godkjenne omdanningsplanen sammen med SE-selskapets vedtekter. Generalforsamlingens beslutning skal treffes som fastsatt i bestemmelsene i nasjonal lovgivning vedtatt til gjennomføring av artikkel 7 i direktiv [78/855/EØF](eu/31978l0855).2
 
-8. Medlemsstatene [EØS-statene] kan sette som vilkår for omdanning at det organ i selskapet som skal omdannes der arbeidstakernes innflytelse er organisert, med kvalifisert flertall eller enstemmighet har gitt sin tilslutning.
+8\. Medlemsstatene [EØS-statene] kan sette som vilkår for omdanning at det organ i selskapet som skal omdannes der arbeidstakernes innflytelse er organisert, med kvalifisert flertall eller enstemmighet har gitt sin tilslutning.
 
-9. Når det gjelder ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal rettighetene og forpliktelsene til det selskap som skal omdannes, overdras til SE-selskapet når dette registreres.
+9\. Når det gjelder ansettelses- og arbeidsvilkår som følger av lovgivning, praksis og individuelle arbeidsavtaler eller arbeidsforhold på nasjonalt plan og som eksisterer på registreringsdatoen, skal rettighetene og forpliktelsene til det selskap som skal omdannes, overdras til SE-selskapet når dette registreres.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Nå erstattet av dir [2009/101](eu/32009l0101).2 Jf. EØS-avtalen vedlegg XXII nr. 2. Nå erstattet av dir [2012/30](eu/32012l0030).3 Jf. EØS-avtalen vedlegg XXII nr. 2. Nå erstattet av dir [2012/30](eu/32012l0030).
 
 ### Avdeling III. SE-selskapets oppbygning
 
@@ -473,35 +539,37 @@ På de vilkår som er fastsatt i denne forordning, skal et SE-selskap omfatte:en
 
 ### Art 39
 
-1. Ledelsesorganet skal være ansvarlig for ledelsen av SE-selskapet. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør eller administrerende direktører skal ha ansvar for den daglige ledelsen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på medlemsstatens [EØS-statens] territorium.
+1\. Ledelsesorganet skal være ansvarlig for ledelsen av SE-selskapet. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør eller administrerende direktører skal ha ansvar for den daglige ledelsen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på medlemsstatens [EØS-statens] territorium.
 
-2. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av kontrollorganet.En medlemsstat [EØS-stat] kan likevel kreve eller tillate at vedtektene fastsetter at medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av generalforsamlingen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på statens territorium.
+2\. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av kontrollorganet.En medlemsstat [EØS-stat] kan likevel kreve eller tillate at vedtektene fastsetter at medlemmet eller medlemmene av ledelsesorganet skal oppnevnes og avsettes av generalforsamlingen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på statens territorium.
 
-3. Ingen kan samtidig være medlem av både ledelsesorganet og kontrollorganet i samme SE-selskap. Kontrollorganet kan likevel oppnevne ett av sine medlemmer til å fungere som medlem av ledelsesorganet i tilfelle av ledig plass. I slike perioder skal vedkommendes funksjoner som medlem av kontrollorganet opphøre. En medlemsstat [EØS-stat] kan fastsette at slike perioder skal være tidsbegrenset.
+3\. Ingen kan samtidig være medlem av både ledelsesorganet og kontrollorganet i samme SE-selskap. Kontrollorganet kan likevel oppnevne ett av sine medlemmer til å fungere som medlem av ledelsesorganet i tilfelle av ledig plass. I slike perioder skal vedkommendes funksjoner som medlem av kontrollorganet opphøre. En medlemsstat [EØS-stat] kan fastsette at slike perioder skal være tidsbegrenset.
 
-4. Antall medlemmer av ledelsesorganet eller reglene for fastsettelse av antallet skal fastsettes i SE-selskapets vedtekter. En medlemsstat [EØS-stat] kan likevel sette et minste og/eller et største antall.
+4\. Antall medlemmer av ledelsesorganet eller reglene for fastsettelse av antallet skal fastsettes i SE-selskapets vedtekter. En medlemsstat [EØS-stat] kan likevel sette et minste og/eller et største antall.
 
-5. Dersom det ikke finnes bestemmelser om et tonivåsystem for allmennaksjeselskaper med forretningskontor på en medlemsstats [EØS-stats] territorium, kan staten vedta hensiktsmessige tiltak angående SE-selskaper.
+5\. Dersom det ikke finnes bestemmelser om et tonivåsystem for allmennaksjeselskaper med forretningskontor på en medlemsstats [EØS-stats] territorium, kan staten vedta hensiktsmessige tiltak angående SE-selskaper.
 
 ### Art 40
 
-1. Kontrollorganet skal føre tilsyn med ledelsesorganets arbeid. Det kan ikke selv utøve ledelsen av SE-selskapet.
+1\. Kontrollorganet skal føre tilsyn med ledelsesorganets arbeid. Det kan ikke selv utøve ledelsen av SE-selskapet.
 
-2. Medlemmene av kontrollorganet skal oppnevnes av generalforsamlingen. Medlemmene av det første kontrollorganet kan likevel oppnevnes av vedtektene. Dette skal gjelde uten å berøre artikkel 47 nr. 4 eller eventuelle ordninger for arbeidstakerinnflytelse fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
+2\. Medlemmene av kontrollorganet skal oppnevnes av generalforsamlingen. Medlemmene av det første kontrollorganet kan likevel oppnevnes av vedtektene. Dette skal gjelde uten å berøre artikkel 47 nr. 4 eller eventuelle ordninger for arbeidstakerinnflytelse fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
 
-3. Antall medlemmer av kontrollorganet eller reglene for fastsettelse av antallet skal fastsettes i vedtektene. En medlemsstat [EØS-stat] kan likevel fastsette antall medlemmer i kontrollorganet for SE-selskaper registrert på dens territorium eller et minste og/eller et største antall.
+3\. Antall medlemmer av kontrollorganet eller reglene for fastsettelse av antallet skal fastsettes i vedtektene. En medlemsstat [EØS-stat] kan likevel fastsette antall medlemmer i kontrollorganet for SE-selskaper registrert på dens territorium eller et minste og/eller et største antall.
+
+1 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 41
 
-1. Ledelsesorganet skal rapportere til kontrollorganet minst en gang hver tredje måned om framdriften og den forventede utviklingen i SE-selskapets virksomhet.
+1\. Ledelsesorganet skal rapportere til kontrollorganet minst en gang hver tredje måned om framdriften og den forventede utviklingen i SE-selskapets virksomhet.
 
-2. I tillegg til jevnlig informasjon nevnt i nr. 1 skal ledelsesorganet i god tid gi kontrollorganet alle opplysninger om begivenheter som vil kunne ha en merkbar virkning på SE-selskapet.
+2\. I tillegg til jevnlig informasjon nevnt i nr. 1 skal ledelsesorganet i god tid gi kontrollorganet alle opplysninger om begivenheter som vil kunne ha en merkbar virkning på SE-selskapet.
 
-3. Kontrollorganet kan kreve at ledelsesorganet gir informasjon av enhver art som det trenger for å føre tilsyn i samsvar med artikkel 40 nr. 1. En medlemsstat [EØS-stat] kan fastsette at hvert medlem av kontrollorganet også skal ha denne muligheten.
+3\. Kontrollorganet kan kreve at ledelsesorganet gir informasjon av enhver art som det trenger for å føre tilsyn i samsvar med artikkel 40 nr. 1. En medlemsstat [EØS-stat] kan fastsette at hvert medlem av kontrollorganet også skal ha denne muligheten.
 
-4. Kontrollorganet kan foreta eller sørge for at det blir foretatt undersøkelser som er nødvendige for utøvelsen av dets oppgaver.
+4\. Kontrollorganet kan foreta eller sørge for at det blir foretatt undersøkelser som er nødvendige for utøvelsen av dets oppgaver.
 
-5. Hvert medlem av kontrollorganet skal ha rett til å undersøke alle opplysninger som blir forelagt organet.
+5\. Hvert medlem av kontrollorganet skal ha rett til å undersøke alle opplysninger som blir forelagt organet.
 
 ### Art 42
 
@@ -511,19 +579,21 @@ Kontrollorganet skal velge en leder blant medlemmene. Dersom halvparten av medle
 
 ### Art 43
 
-1. Ledelsesorganet skal lede SE-selskapet. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør eller administrerende direktører skal ha ansvar for den daglige ledelsen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på medlemsstatens [EØS-statens] territorium.
+1\. Ledelsesorganet skal lede SE-selskapet. En medlemsstat [EØS-stat] kan fastsette at en administrerende direktør eller administrerende direktører skal ha ansvar for den daglige ledelsen på samme vilkår som for allmennaksjeselskaper som har forretningskontor på medlemsstatens [EØS-statens] territorium.
 
-2. Antall medlemmer av ledelsesorganet eller reglene for fastsettelse av antallet skal fastsettes i SE-selskapets vedtekter. En medlemsstat [EØS-stat] kan likevel sette et minste antall og eventuelt et største antall medlemmer.Ledelsesorganet skal likevel bestå av minst tre medlemmer dersom arbeidstakernes innflytelse er regulert i samsvar med direktiv [2001/86/EØF](eu/32001l0086).1
+2\. Antall medlemmer av ledelsesorganet eller reglene for fastsettelse av antallet skal fastsettes i SE-selskapets vedtekter. En medlemsstat [EØS-stat] kan likevel sette et minste antall og eventuelt et største antall medlemmer.Ledelsesorganet skal likevel bestå av minst tre medlemmer dersom arbeidstakernes innflytelse er regulert i samsvar med direktiv [2001/86/EØF](eu/32001l0086).1
 
-3. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes av generalforsamlingen. Medlemmene av det første ledelsesorganet kan likevel oppnevnes av vedtektene. Dette skal gjelde uten å berøre artikkel 47 nr. 4 eller for eventuelle ordninger for arbeidstakerinnflytelse fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
+3\. Medlemmet eller medlemmene av ledelsesorganet skal oppnevnes av generalforsamlingen. Medlemmene av det første ledelsesorganet kan likevel oppnevnes av vedtektene. Dette skal gjelde uten å berøre artikkel 47 nr. 4 eller for eventuelle ordninger for arbeidstakerinnflytelse fastsatt i henhold til direktiv [2001/86/EF](eu/32001l0086).1
 
-4. Dersom det ikke finnes bestemmelser om et ettnivåsystem for allmennaksjeselskaper med forretningskontor på en medlemsstats [EØS-stats] territorium, kan staten vedta hensiktsmessige tiltak angående SE-selskaper.
+4\. Dersom det ikke finnes bestemmelser om et ettnivåsystem for allmennaksjeselskaper med forretningskontor på en medlemsstats [EØS-stats] territorium, kan staten vedta hensiktsmessige tiltak angående SE-selskaper.
+
+1 Jf. EØS-avtalen vedlegg nr. XVIII nr. 32e.
 
 ### Art 44
 
-1. Ledelsesorganet skal komme sammen minst en gang hver tredje måned med hyppighet fastsatt i vedtektene for å diskutere framdriften og den forventede utviklingen i SE-selskapets virksomhet.
+1\. Ledelsesorganet skal komme sammen minst en gang hver tredje måned med hyppighet fastsatt i vedtektene for å diskutere framdriften og den forventede utviklingen i SE-selskapets virksomhet.
 
-2. Hvert medlem av ledelsesorganet skal ha rett til å undersøke alle opplysninger som blir forelagt organet.
+2\. Hvert medlem av ledelsesorganet skal ha rett til å undersøke alle opplysninger som blir forelagt organet.
 
 ### Art 45
 
@@ -533,25 +603,31 @@ Ledelsesorganet skal velge en leder blant medlemmene. Dersom halvparten av medle
 
 ### Art 46
 
-1. Medlemmer av selskapets organer skal oppnevnes for en periode som er fastsatt i vedtektene1 og som ikke overstiger seks år.
+1\. Medlemmer av selskapets organer skal oppnevnes for en periode som er fastsatt i vedtektene1 og som ikke overstiger seks år.
 
-2. Med forbehold for eventuelle restriksjoner fastsatt i vedtektene,1 kan medlemmene gjenoppnevnes en gang eller flere ganger for den periode som er fastsatt i samsvar med nr. 1.
+2\. Med forbehold for eventuelle restriksjoner fastsatt i vedtektene,1 kan medlemmene gjenoppnevnes en gang eller flere ganger for den periode som er fastsatt i samsvar med nr. 1.
+
+1 Se art. 6.
 
 ### Art 47
 
-1. Et SE-selskaps vedtekter1 kan tillate at et selskap eller andre rettssubjekter er medlem av ett av sine organer, forutsatt at ikke annet er fastsatt i lovgivningen om allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.Selskapet eller det andre rettssubjektet skal utpeke en fysisk person til å utøve dets funksjoner i det aktuelle organet.
+1\. Et SE-selskaps vedtekter1 kan tillate at et selskap eller andre rettssubjekter er medlem av ett av sine organer, forutsatt at ikke annet er fastsatt i lovgivningen om allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.Selskapet eller det andre rettssubjektet skal utpeke en fysisk person til å utøve dets funksjoner i det aktuelle organet.
 
-2. Ingen kan være medlem av et organ i et SE-selskap eller representant for et medlem i henhold til nr. 1 dersom vedkommende:i henhold til lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, ikke kan være medlem av det tilsvarende organet i et allmennaksjeselskap underlagt medlemsstatens [EØS-statens] lovgivning, ellerikke kan være medlem av det tilsvarende organet i et allmennaksjeselskap underlagt lovgivningen i en medlemsstat [EØS-stat] på grunn av en rettsavgjørelse eller forvaltningsvedtak truffet i en medlemsstat [EØS-stat].
+2\. Ingen kan være medlem av et organ i et SE-selskap eller representant for et medlem i henhold til nr. 1 dersom vedkommende:i henhold til lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, ikke kan være medlem av det tilsvarende organet i et allmennaksjeselskap underlagt medlemsstatens [EØS-statens] lovgivning, ellerikke kan være medlem av det tilsvarende organet i et allmennaksjeselskap underlagt lovgivningen i en medlemsstat [EØS-stat] på grunn av en rettsavgjørelse eller forvaltningsvedtak truffet i en medlemsstat [EØS-stat].
 
-3. Et SE-selskaps vedtekter kan i samsvar med lovgivningen om allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, fastsette spesielle vilkår for valgbarheten til medlemmer som representerer aksjeeierne.
+3\. Et SE-selskaps vedtekter kan i samsvar med lovgivningen om allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, fastsette spesielle vilkår for valgbarheten til medlemmer som representerer aksjeeierne.
 
-4. Denne forordning skal ikke berøre nasjonal lovgivning som tillater mindretallsaksjeeiere eller andre personer eller myndigheter å oppnevne en del av medlemmene av et selskaps organer.
+4\. Denne forordning skal ikke berøre nasjonal lovgivning som tillater mindretallsaksjeeiere eller andre personer eller myndigheter å oppnevne en del av medlemmene av et selskaps organer.
+
+1 Se art. 6.
 
 ### Art 48
 
-1. I et SE-selskaps vedtekter1 skal de transaksjoner være oppført som krever at ledelsesorganet har tillatelse fra kontrollorganet i tonivåsystemet eller en uttrykkelig avgjørelse fra administrasjonsorganet i ettnivåsystemet.En medlemsstat [EØS-stat] kan likevel fastsette at kontrollorganet i tonivåsystemet selv kan bestemme at visse kategorier transaksjoner skal kreve tillatelse.
+1\. I et SE-selskaps vedtekter1 skal de transaksjoner være oppført som krever at ledelsesorganet har tillatelse fra kontrollorganet i tonivåsystemet eller en uttrykkelig avgjørelse fra administrasjonsorganet i ettnivåsystemet.En medlemsstat [EØS-stat] kan likevel fastsette at kontrollorganet i tonivåsystemet selv kan bestemme at visse kategorier transaksjoner skal kreve tillatelse.
 
-2. En medlemsstat [EØS-stat] kan bestemme de kategorier transaksjoner som minst må være oppført i vedtektene1 til SE-selskaper registrert på statens territorium.
+2\. En medlemsstat [EØS-stat] kan bestemme de kategorier transaksjoner som minst må være oppført i vedtektene1 til SE-selskaper registrert på statens territorium.
+
+1 Se art. 6.
 
 ### Art 49
 
@@ -559,11 +635,13 @@ Medlemmene av et SE-selskaps organer har, selv etter at de ikke lenger utøver s
 
 ### Art 50
 
-1. Med mindre annet er fastsatt i denne forordning eller i vedtektene,1 skal de interne reglene for beslutningsdyktighet og beslutningstaking i SE-selskapets organer være følgende:beslutningsdyktighet: minst halvparten av medlemmene må være til stede eller være representert,beslutningstaking: skjer med et flertall av medlemmene til stede eller representert.
+1\. Med mindre annet er fastsatt i denne forordning eller i vedtektene,1 skal de interne reglene for beslutningsdyktighet og beslutningstaking i SE-selskapets organer være følgende:beslutningsdyktighet: minst halvparten av medlemmene må være til stede eller være representert,beslutningstaking: skjer med et flertall av medlemmene til stede eller representert.
 
-2. Dersom det i vedtektene1 ikke finnes en relevant bestemmelse, skal lederen av hvert organ ha den avgjørende stemmen i tilfelle av stemmelikhet. Det skal likevel ikke finnes noen bestemmelse om det motsatte i vedtektene dersom halvparten av kontrollorganet består av arbeidstakernes representanter.
+2\. Dersom det i vedtektene1 ikke finnes en relevant bestemmelse, skal lederen av hvert organ ha den avgjørende stemmen i tilfelle av stemmelikhet. Det skal likevel ikke finnes noen bestemmelse om det motsatte i vedtektene dersom halvparten av kontrollorganet består av arbeidstakernes representanter.
 
-3. Dersom arbeidstakernes innflytelse er bestemt i samsvar med direktiv [2001/86/EF](eu/32001l0086),2 kan en medlemsstat [EØS-stat] fastsette at kontrollorganets beslutningsdyktighet og beslutningstaking, som unntak fra bestemmelsene nevnt i nr. 1 og 2, skal være underlagt de regler som på samme vilkår gjelder for allmennaksjeselskaper underlagt den aktuelle medlemsstatens [EØS-statens] lovgivning.
+3\. Dersom arbeidstakernes innflytelse er bestemt i samsvar med direktiv [2001/86/EF](eu/32001l0086),2 kan en medlemsstat [EØS-stat] fastsette at kontrollorganets beslutningsdyktighet og beslutningstaking, som unntak fra bestemmelsene nevnt i nr. 1 og 2, skal være underlagt de regler som på samme vilkår gjelder for allmennaksjeselskaper underlagt den aktuelle medlemsstatens [EØS-statens] lovgivning.
+
+1 Se art. 6.2 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
 
 ### Art 51
 
@@ -577,27 +655,33 @@ Generalforsamlingen skal treffe beslutning i saker der den er gitt særlig kompe
 
 Videre skal generalforsamlingen treffe beslutning i saker der det er gitt kompetanse til generalforsamlingen i et allmennaksjeselskap underlagt lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, enten i henhold til denne medlemsstatens [EØS-statens] lovgivning eller SE-selskapets vedtekter1 i samsvar med samme lovgivning.
 
+1 Se art. 6.2 Jf. EØS-avtalen vedlegg XVIII nr. 32e.
+
 ### Art 53
 
 Uten å berøre de regler som er fastsatt i dette avsnitt, skal organiseringen og gjennomføringen av generalforsamlinger samt framgangsmåte ved avstemning være regulert av lovgivningen for allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.
 
 ### Art 54
 
-1. Et SE-selskap skal holde generalforsamling minst en gang hvert kalenderår, innen seks måneder etter regnskapsårets utløp, med mindre lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger som får anvendelse på allmennaksjeselskaper som driver samme type virksomhet som SE-selskapet, fastsetter hyppigere forsamlinger. En medlemsstat [EØS-stat] kan likevel fastsette at den første generalforsamlingen kan holdes når som helst i løpet av 18 måneder etter at SE-selskapet er stiftet.
+1\. Et SE-selskap skal holde generalforsamling minst en gang hvert kalenderår, innen seks måneder etter regnskapsårets utløp, med mindre lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger som får anvendelse på allmennaksjeselskaper som driver samme type virksomhet som SE-selskapet, fastsetter hyppigere forsamlinger. En medlemsstat [EØS-stat] kan likevel fastsette at den første generalforsamlingen kan holdes når som helst i løpet av 18 måneder etter at SE-selskapet er stiftet.
 
-2. Det kan innkalles til generalforsamling når som helst av ledelsesorganet, administrasjonsorganet, kontrollorganet eller et annet organ eller vedkommende myndighet i samsvar med nasjonal lovgivning for allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.
+2\. Det kan innkalles til generalforsamling når som helst av ledelsesorganet, administrasjonsorganet, kontrollorganet eller et annet organ eller vedkommende myndighet i samsvar med nasjonal lovgivning for allmennaksjeselskaper i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.
 
 ### Art 55
 
-1. En eller flere aksjeeiere som sammen eier minst 10 % av et SE-selskaps tegnede kapital, kan anmode SE-selskapet om å innkalle til generalforsamling og fastsette dagsordenen for denne; SE-selskapets vedtekter1 eller nasjonal lovgivning kan fastsette en lavere andel på samme vilkår som dem som gjelder for allmennaksjeselskaper.
+1\. En eller flere aksjeeiere som sammen eier minst 10 % av et SE-selskaps tegnede kapital, kan anmode SE-selskapet om å innkalle til generalforsamling og fastsette dagsordenen for denne; SE-selskapets vedtekter1 eller nasjonal lovgivning kan fastsette en lavere andel på samme vilkår som dem som gjelder for allmennaksjeselskaper.
 
-2. Anmodningen om å innkalle til generalforsamling skal angi hvilke punkter som skal stå på dagsordenen.
+2\. Anmodningen om å innkalle til generalforsamling skal angi hvilke punkter som skal stå på dagsordenen.
 
-3. Dersom det etter en anmodning i henhold til nr. 1 ikke er holdt generalforsamling i rett tid, og i alle fall innen to måneder, kan vedkommende rettslige myndighet eller forvaltningsmyndighet for SE-selskapets forretningskontor pålegge innkalling til generalforsamling innen en bestemt frist eller tillate at enten aksjeeierne som har anmodet om den eller deres representanter, innkaller til generalforsamling. Dette skal ikke berøre eventuelle internrettslige bestemmelser som tillater at aksjeeierne selv innkaller til generalforsamling.
+3\. Dersom det etter en anmodning i henhold til nr. 1 ikke er holdt generalforsamling i rett tid, og i alle fall innen to måneder, kan vedkommende rettslige myndighet eller forvaltningsmyndighet for SE-selskapets forretningskontor pålegge innkalling til generalforsamling innen en bestemt frist eller tillate at enten aksjeeierne som har anmodet om den eller deres representanter, innkaller til generalforsamling. Dette skal ikke berøre eventuelle internrettslige bestemmelser som tillater at aksjeeierne selv innkaller til generalforsamling.
+
+1 Se art. 6.
 
 ### Art 56
 
 En eller flere aksjeeiere som sammen eier minst 10 % av et SE-selskaps tegnede kapital, kan anmode om at ett eller flere nye punkter settes på dagsordenen for enhver generalforsamling. Framgangsmåtene og fristene for slike anmodninger skal fastsettes i nasjonal lovgivning i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, eller i SE-selskapets vedtekter1 dersom slike bestemmelser ikke finnes. Ovennevnte andel kan reduseres i vedtektene eller lovgivningen i medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger, på samme vilkår som dem som gjelder for allmennaksjeselskaper.
+
+1 Se art. 6.
 
 ### Art 57
 
@@ -609,17 +693,19 @@ De avgitte stemmene skal ikke omfatte stemmer knyttet til aksjer som aksjeeieren
 
 ### Art 59
 
-1. Endring av et SE-selskaps vedtekter1 skal kreve beslutning fra generalforsamlingen, truffet med et flertall som ikke kan være mindre enn to tredeler av de avgitte stemmene, med mindre lovgivningen for allmennaksjeselskaper i medlemsstaten [EØS-staten] der et SE-selskaps forretningskontor ligger, krever eller tillater et større flertall.
+1\. Endring av et SE-selskaps vedtekter1 skal kreve beslutning fra generalforsamlingen, truffet med et flertall som ikke kan være mindre enn to tredeler av de avgitte stemmene, med mindre lovgivningen for allmennaksjeselskaper i medlemsstaten [EØS-staten] der et SE-selskaps forretningskontor ligger, krever eller tillater et større flertall.
 
-2. En medlemsstat [EØS-stat] kan likevel fastsette at dersom minst halvparten av et SE-selskaps tegnede kapital er representert, er det tilstrekkelig med et enkelt flertall av stemmene nevnt i nr. 1.
+2\. En medlemsstat [EØS-stat] kan likevel fastsette at dersom minst halvparten av et SE-selskaps tegnede kapital er representert, er det tilstrekkelig med et enkelt flertall av stemmene nevnt i nr. 1.
 
-3. Endringer av et SE-selskaps vedtekter1 skal offentliggjøres i samsvar med artikkel 13.
+3\. Endringer av et SE-selskaps vedtekter1 skal offentliggjøres i samsvar med artikkel 13.
+
+1 Se art. 6.
 
 ### Art 60
 
-1. Dersom et SE-selskap har to eller flere aksjeklasser, skal hver beslutning fra generalforsamlingen være underlagt en separat avstemning for hver klasse av aksjeeiere med rettigheter som berøres av beslutningen.
+1\. Dersom et SE-selskap har to eller flere aksjeklasser, skal hver beslutning fra generalforsamlingen være underlagt en separat avstemning for hver klasse av aksjeeiere med rettigheter som berøres av beslutningen.
 
-2. Dersom en beslutning fra generalforsamlingen krever flertall av stemmene fastsatt i artikkel 59 nr. 1 eller nr. 2, skal dette flertallet også kreves for den separate avstemningen for hver klasse av aksjeeiere med rettigheter som berøres av beslutningen.
+2\. Dersom en beslutning fra generalforsamlingen krever flertall av stemmene fastsatt i artikkel 59 nr. 1 eller nr. 2, skal dette flertallet også kreves for den separate avstemningen for hver klasse av aksjeeiere med rettigheter som berøres av beslutningen.
 
 ### Avdeling IV. Årsregnskap og konsolidert regnskap
 
@@ -629,9 +715,11 @@ Med forbehold for artikkel 62 skal SE-selskapet med hensyn til utarbeiding av å
 
 ### Art 62
 
-1. Et SE-selskap som er en kreditt- eller finansinstitusjon, skal med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilhørende årsberetningen samt revisjon og offentliggjøring av disse regnskapene, være underlagt reglene fastsatt i den nasjonale lovgivning i medlemsstaten [EØS-staten] der forretningskontoret ligger som er vedtatt til gjennomføring av europaparlaments- og rådsdirektiv [2000/12/EF](eu/32000l0012*) av 20. mars 2000 om adgang til å starte og utøve virksomhet som kredittinstitusjon.1
+1\. Et SE-selskap som er en kreditt- eller finansinstitusjon, skal med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilhørende årsberetningen samt revisjon og offentliggjøring av disse regnskapene, være underlagt reglene fastsatt i den nasjonale lovgivning i medlemsstaten [EØS-staten] der forretningskontoret ligger som er vedtatt til gjennomføring av europaparlaments- og rådsdirektiv [2000/12/EF](eu/32000l0012*) av 20. mars 2000 om adgang til å starte og utøve virksomhet som kredittinstitusjon.1
 
-2. Et SE-selskap som er et forsikringsforetak, skal med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilhørende årsberetningen samt revisjon og offentliggjøring av disse regnskapene, være underlagt reglene fastsatt i den nasjonale lovgivning i medlemsstaten [EØS-staten] der forretningskontoret ligger som er vedtatt til gjennomføring av rådsdirektiv [91/674/EØF](eu/31991l0674) om forsikringsforetaks årsregnskaper og konsoliderte regnskaper.2
+2\. Et SE-selskap som er et forsikringsforetak, skal med hensyn til utarbeiding av årsregnskap og eventuelt konsolidert regnskap, herunder den tilhørende årsberetningen samt revisjon og offentliggjøring av disse regnskapene, være underlagt reglene fastsatt i den nasjonale lovgivning i medlemsstaten [EØS-staten] der forretningskontoret ligger som er vedtatt til gjennomføring av rådsdirektiv [91/674/EØF](eu/31991l0674) om forsikringsforetaks årsregnskaper og konsoliderte regnskaper.2
+
+1 EFT L 126 av 26.5.2000, s. 1. Jf. EØS-avtalen vedlegg IX nr. 14, der dir. [2000/12](eu/32000l0012*) nå er erstattet av dir. [2006/48](eu/32006l0048).2 EFT L 374 av 31.12.1991, s. 7. Jf. EØS-avtalen vedlegg IX nr. 12b.
 
 ### Avdeling V. Oppløsning, avvikling, insolvens og betalingsstans
 
@@ -641,13 +729,13 @@ Med hensyn til oppløsning, avvikling, insolvens, betalingsstans og lignende beh
 
 ### Art 64
 
-1. Når et SE-selskap ikke lenger oppfyller kravet fastsatt i artikkel 7, skal medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger treffe hensiktsmessige tiltak for å pålegge SE-selskapet å bringe sin situasjon i orden innen en fastsatt frist, enten:ved å nyetablere sitt hovedkontor i medlemsstaten [EØS-staten] der forretningskontoret ligger, ellerved å flytte forretningskontoret ved hjelp av framgangsmåten fastsatt i artikkel 8.
+1\. Når et SE-selskap ikke lenger oppfyller kravet fastsatt i artikkel 7, skal medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger treffe hensiktsmessige tiltak for å pålegge SE-selskapet å bringe sin situasjon i orden innen en fastsatt frist, enten:ved å nyetablere sitt hovedkontor i medlemsstaten [EØS-staten] der forretningskontoret ligger, ellerved å flytte forretningskontoret ved hjelp av framgangsmåten fastsatt i artikkel 8.
 
-2. Medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger skal treffe nødvendige tiltak for å sikre at et SE-selskap som unnlater å bringe sin situasjon i orden i henhold til nr. 1, blir avviklet.
+2\. Medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger skal treffe nødvendige tiltak for å sikre at et SE-selskap som unnlater å bringe sin situasjon i orden i henhold til nr. 1, blir avviklet.
 
-3. Medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger skal fastsette en klageadgang med hensyn til enhver fastslått overtredelse av artikkel 7. Slik klage skal ha utsettende virkning for framgangsmåtene fastsatt i nr. 1 og 2.
+3\. Medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger skal fastsette en klageadgang med hensyn til enhver fastslått overtredelse av artikkel 7. Slik klage skal ha utsettende virkning for framgangsmåtene fastsatt i nr. 1 og 2.
 
-4. Dersom det etter initiativ fra enten myndighetene eller en berørt part fastslås at et SE-selskap har sitt hovedkontor på en medlemsstats [EØS-stats] territorium i strid med artikkel 7, skal myndighetene i denne medlemsstaten [EØS-staten] umiddelbart underrette medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.
+4\. Dersom det etter initiativ fra enten myndighetene eller en berørt part fastslås at et SE-selskap har sitt hovedkontor på en medlemsstats [EØS-stats] territorium i strid med artikkel 7, skal myndighetene i denne medlemsstaten [EØS-staten] umiddelbart underrette medlemsstaten [EØS-staten] der SE-selskapets forretningskontor ligger.
 
 ### Art 65
 
@@ -655,37 +743,45 @@ Uten å berøre internrettslige bestemmelser som krever ytterligere offentliggj�
 
 ### Art 66
 
-1. Et SE-selskap kan omdannes til et allmennaksjeselskap underlagt lovgivningen i medlemsstaten [EØS-staten] der forretningskontoret ligger. Det kan ikke treffes beslutning om omdanning før det er gått to år fra registreringen eller før de to første årsregnskapene er godkjent.
+1\. Et SE-selskap kan omdannes til et allmennaksjeselskap underlagt lovgivningen i medlemsstaten [EØS-staten] der forretningskontoret ligger. Det kan ikke treffes beslutning om omdanning før det er gått to år fra registreringen eller før de to første årsregnskapene er godkjent.
 
-2. Omdanning av et SE-selskap til et allmennaksjeselskap skal ikke føre til at selskapet oppløses eller til at det dannes en ny juridisk person.
+2\. Omdanning av et SE-selskap til et allmennaksjeselskap skal ikke føre til at selskapet oppløses eller til at det dannes en ny juridisk person.
 
-3. SE-selskapets ledelses- eller administrasjonsorgan skal utarbeide omdanningsplan og en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved omdanningen og som forklarer konsekvensene for aksjeeierne og arbeidstakerne av at selskapet omdannes til allmennaksjeselskap.
+3\. SE-selskapets ledelses- eller administrasjonsorgan skal utarbeide omdanningsplan og en rapport som forklarer og begrunner de juridiske og økonomiske sidene ved omdanningen og som forklarer konsekvensene for aksjeeierne og arbeidstakerne av at selskapet omdannes til allmennaksjeselskap.
 
-4. Omdanningsplanen skal offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*)1 minst en måned før generalforsamlingen som skal uttale seg om omdanningen.
+4\. Omdanningsplanen skal offentliggjøres på den måte som er fastsatt i hver medlemsstats [EØS-stats] lovgivning i samsvar med artikkel 3 i direktiv [68/151/EØF](eu/31968l0151*)1 minst en måned før generalforsamlingen som skal uttale seg om omdanningen.
 
-5. Før generalforsamlingen nevnt i nr. 6 skal en eller flere uavhengige sakkyndige som er oppnevnt eller godkjent i samsvar med de nasjonale bestemmelsene vedtatt til gjennomføring av artikkel 10 i direktiv [78/855/EØF](eu/31978l0855)2 av en rettslig myndighet eller forvaltningsmyndighet i medlemsstaten [EØS-staten] som SE-selskapet som omdannes til et allmennaksjeselskap, er underlagt, bekrefte at selskapet har aktiva som minst tilsvarer dets kapital.
+5\. Før generalforsamlingen nevnt i nr. 6 skal en eller flere uavhengige sakkyndige som er oppnevnt eller godkjent i samsvar med de nasjonale bestemmelsene vedtatt til gjennomføring av artikkel 10 i direktiv [78/855/EØF](eu/31978l0855)2 av en rettslig myndighet eller forvaltningsmyndighet i medlemsstaten [EØS-staten] som SE-selskapet som omdannes til et allmennaksjeselskap, er underlagt, bekrefte at selskapet har aktiva som minst tilsvarer dets kapital.
 
-6. Generalforsamlingen i SE-selskapet skal godkjenne omdanningsplanen sammen med allmennaksjeselskapets vedtekter. Generalforsamlingens beslutning skal treffes som fastsatt i bestemmelsene i nasjonal lovgivning vedtatt til gjennomføring av artikkel 7 i direktiv [78/855/EØF](eu/31978l0855).2
+6\. Generalforsamlingen i SE-selskapet skal godkjenne omdanningsplanen sammen med allmennaksjeselskapets vedtekter. Generalforsamlingens beslutning skal treffes som fastsatt i bestemmelsene i nasjonal lovgivning vedtatt til gjennomføring av artikkel 7 i direktiv [78/855/EØF](eu/31978l0855).2
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Dir [68/151](eu/31968l0151*) er nå erstattet av dir [2009/101](eu/32009l0101).2 Inkurie: Nå erstattet av dir [2011/35/EU](eu/32011l0035*). Jf. EØS-avtalen vedlegg XXII nr. 3.
 
 ### Avdeling VI. Tilleggsbestemmelser og overgangsbestemmelser
 
 ### Art 67
 
-1. Dersom og så lenge den tredje fasen i Den økonomiske og monetære union (ØMU) ikke gjelder for en medlemsstat [EØS-stat], kan staten underlegge SE-selskaper med forretningskontor på dens territorium de samme bestemmelser som får anvendelse på allmennaksjeselskaper som omfattes av dens lovgivning med hensyn til hvordan selskapenes kapital uttrykkes.1 Et SE-selskap kan i alle tilfeller uttrykke sin kapital også i euro. I slike tilfeller skal omregningskursen mellom nasjonal valuta og euro være kursen på den siste dagen i måneden som går forut for stiftelsen av SE-selskapet.
+1\. Dersom og så lenge den tredje fasen i Den økonomiske og monetære union (ØMU) ikke gjelder for en medlemsstat [EØS-stat], kan staten underlegge SE-selskaper med forretningskontor på dens territorium de samme bestemmelser som får anvendelse på allmennaksjeselskaper som omfattes av dens lovgivning med hensyn til hvordan selskapenes kapital uttrykkes.1 Et SE-selskap kan i alle tilfeller uttrykke sin kapital også i euro. I slike tilfeller skal omregningskursen mellom nasjonal valuta og euro være kursen på den siste dagen i måneden som går forut for stiftelsen av SE-selskapet.
 
-2. Dersom og så lenge den tredje fasen i ØMU ikke gjelder for medlemsstaten [EØS-staten] der et SE-selskap har sitt forretningskontor, kan SE-selskapet likevel utarbeide og offentliggjøre årsregnskapet og eventuelt det konsoliderte regnskapet i euro. Medlemsstaten [EØS-staten] kan kreve at SE-selskapets årsregnskap og eventuelt konsoliderte regnskap utarbeides og offentliggjøres i nasjonal valuta på samme vilkår som dem som er fastsatt for allmennaksjeselskaper i medlemsstatens [EØS-statens] lovgivning. Dette berører ikke den ekstra adgangen for SE-selskapet til å offentliggjøre sitt årsregnskap og eventuelt konsoliderte regnskap i euro i samsvar med direktiv [90/604/EØF](eu/31990l0604).2
+2\. Dersom og så lenge den tredje fasen i ØMU ikke gjelder for medlemsstaten [EØS-staten] der et SE-selskap har sitt forretningskontor, kan SE-selskapet likevel utarbeide og offentliggjøre årsregnskapet og eventuelt det konsoliderte regnskapet i euro. Medlemsstaten [EØS-staten] kan kreve at SE-selskapets årsregnskap og eventuelt konsoliderte regnskap utarbeides og offentliggjøres i nasjonal valuta på samme vilkår som dem som er fastsatt for allmennaksjeselskaper i medlemsstatens [EØS-statens] lovgivning. Dette berører ikke den ekstra adgangen for SE-selskapet til å offentliggjøre sitt årsregnskap og eventuelt konsoliderte regnskap i euro i samsvar med direktiv [90/604/EØF](eu/31990l0604).2
+
+1 Jf. art. 4 og [lovens § 12](lov/2005-04-01-14/§12).2 Rådsdirektiv [90/604/EØF](eu/31990l0604) av 8. november 1990 om endring av direktiv [78/660/EØF](eu/31978l0660) om årsregnskaper og direktiv [83/349/EØF](eu/31983l0349*) om konsoliderte regnskaper med hensyn til unntak for små og mellomstore selskaper og offentliggjøring av regnskaper i ECU (EFT L 317 av 16.11.1990, s. 57). Disse direktivene er erstattet av dir [2013/34](eu/32013l0034), se EØS-avtalen vedlegg XXII nr. 10i.
 
 ### Avdeling VII. Sluttbestemmelser
 
 ### Art 68
 
-1. Medlemsstatene [EØS-statene] skal treffe alle hensiktsmessige tiltak for å sikre effektiv gjennomføring av denne forordning.
+1\. Medlemsstatene [EØS-statene] skal treffe alle hensiktsmessige tiltak for å sikre effektiv gjennomføring av denne forordning.
 
-2. Hver medlemsstat [EØS-stat] skal utpeke vedkommende myndigheter i henhold til artikkel 8, 25, 26, 54, 55 og 64. Den skal underrette Kommisjonen og de øvrige medlemsstatene [EØS-statene] om dette.1
+2\. Hver medlemsstat [EØS-stat] skal utpeke vedkommende myndigheter i henhold til artikkel 8, 25, 26, 54, 55 og 64. Den skal underrette Kommisjonen og de øvrige medlemsstatene [EØS-statene] om dette.1
+
+1 For EFTA-statene: EFTAS overvåkingsorgan, jf. EØS-avtalen protokoll 1 nr. 4.
 
 ### Art 69
 
 Senest fem år etter at denne forordning er trådt i kraft, skal Kommisjonen oversende Rådet og Europaparlamentet en rapport om anvendelsen av forordningen og eventuelt forslag til endringer. Rapporten skal særlig undersøke:om det bør tillates at et SE-selskaps hovedkontor og forretningskontor lokaliseres i forskjellige medlemsstater [EØS-stater],om fusjonsbegrepet i artikkel 17 nr. 2 bør utvides til å omfatte også andre fusjonstyper enn dem som er nevnt i artikkel 3 nr. 1 og artikkel 4 nr. 1 i direktiv [78/855/EØF](eu/31978l0855),om domsmyndighetsreglene i artikkel 8 nr. 16 bør revideres i lys av en eventuell bestemmelse tatt inn i Brussel-konvensjonen av 1968 eller i en tekst som erstatter denne konvensjonen og som medlemsstatene [EØS-statene] eller Rådet eventuelt vedtar,om det bør tillates at en medlemsstat [EØS-stat] i lovgivningen den vedtar i samsvar med fullmakter gitt ved denne forordning eller for å sikre effektiv anvendelse av denne forordning, tillater at et SE-selskap tar inn i sine vedtekter bestemmelser som avviker fra eller utfyller denne lovgivningen, selv om slike bestemmelser ikke ville være tillatt i vedtektene til et allmennaksjeselskap med forretningskontor i medlemsstaten [EØS-staten].
+
+1 Jf. EØS-avtalen protokoll 1 nr. 5: For EFTA-statenes vedkommende vil en tilsvarende oppgave tilligge EFTAs overvåkingsorgan eller EFTA-statens faste komité.
 
 ### Art 70
 
@@ -693,95 +789,165 @@ Denne forordning trer i kraft 8. oktober 2004.
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater [EØS-stater].1
 
+1 Jf. EØS-avtalen art. 7 bokstav a: Dette gjelder ikke for EFTA-statene.
+
 Utferdiget i Luxembourg, 8. oktober 2001.
 
 ### Vedlegg I. Allmennaksjeselskaper nevnt i artikkel 2 nr. 11
 
+BELGIA:
+
 - la société anonyme/de naamloze vennootschap
+
+*DANMARK:*
 
 - aktieselskaber
 
+*TYSKLAND:*
+
 - die Aktiengesellschaft
 
-- /* Greske tegn utelatt, se EØS-tillegget nr. 23/2003/s. 465.
+*HELLAS:*
+
+- /\* Greske tegn utelatt, se EØS-tillegget nr. 23/2003/s. 465.
+
+*SPANIA:*
 
 - la sociedad anónima
 
+*FRANKRIKE:*
+
 - la société anonyme
+
+*IRLAND:*
 
 - public companies limited by shares
 - public companies limited by guarantee having a share capital
+
+*ITALIA:*
 
 - società per azioni
 
+*LUXEMBOURG:*
+
 - la société anonyme
+
+*NEDERLAND:*
 
 - de naamloze vennootschap
 
+*ØSTERRIKE:*
+
 - die Aktiengesellschaft
+
+*PORTUGAL:*
 
 - a sociedade anónima de responsabilidade limitada
 
+*FINLAND:*
+
 - julkinen osakeyhtiö/publikt aktiebolag
+
+*SVERIGE:*
 
 - publikt aktiebolag
 
+*DET FORENTE KONGERIKE:*
+
 - public companies limited by shares
 - public companies limited by guarantee having a share capital
+
+Tilføyd til vedlegg I ved EØS-avtalen vedlegg XXII nr. 10a:
 
 - Island:Hlutafèlag
 - Lichtenstein:die Aktiengesellschaftdie Kommandanditaktiengesellschaft
 - Norge:Allmennaksjeselskap
 
+1 Tilsvarende nomenklatur for de 12 nye stater i EU og EØS i 2004 og 2007 er tilføyd til frd. [2157/2001](eu/32001r2157) ved frd. [885/2004](eu/32004r0885) og frd. [1791/2006](eu/32006r1791), begge gjort til del også av EØS-avtalen. Tilsvarende tilføyelse for Kroatia er gjort i frd. [517/2013](eu/32013r0517), også gjort til del av EØS-avtalen. [Lovens § 1](lov/2005-04-01-14/§1) er imidlertid ikke endret.
+
 ### Vedlegg II. Allmennaksjeselskaper og private aksjeselskaper nevnt i artikkel 2 nr. 21
+
+*BELGIA:*
 
 - la société anonyme/de naamloze vennootschap,
 - la société privée à responsabilité limitée/besloten vennootschap met beperkte aansprakelijkheid
 
+*DANMARK:*
+
 - aktieselskaber,
 - anpartselskaber
+
+*TYSKLAND:*
 
 - die Aktiengesellschaft,
 - die Gesellschaft mit beschränkter Haftung
 
-- /* Greske tegn utelatt, se EØS-tillegget nr. 23/2003/s. 466.
+*HELLAS:*
+
+- /\* Greske tegn utelatt, se EØS-tillegget nr. 23/2003/s. 466.
+
+*SPANIA:*
 
 - la sociedad anónima,
 - la sociedad de responsabilidad limitada
 
+*FRANKRIKE:*
+
 - la société anonyme,
 - la société à responsabilité limitée
+
+*IRLAND:*
 
 - public companies limited by shares,
 - public companies limited by guarantee having a share capital,
 - private companies limited by shares,
 - private companies limited by guarantee having a share capital,
 
+*ITALIA:*
+
 - società per azioni,
 - società a responsabilità limitata
+
+*LUXEMBOURG:*
 
 - la société anonyme,
 - la société à responsabilité limitée
 
+*NEDERLAND:*
+
 - de naamloze vennootschap,
 - de besloten vennootschap met beperkte aansprakelijkheid
+
+*ØSTERRIKE:*
 
 - die Aktiengesellschaft,
 - die Gesellschaft mit beschränkter Haftung
 
+*PORTUGAL:*
+
 - a sociedade anónima de responsabilidade limitada,
 - a sociedade por quotas de responsabilidade limitada,
+
+*FINLAND:*
 
 - osakeyhtiö
 - aktiebolag
 
+*SVERIGE:*
+
 - aktiebolag
+
+*DET FORENTE KONGERIKE:*
 
 - public companies limited by shares,
 - public companies limited by guarantee having a share capital,
 - private companies limited by shares,
 - private companies limited by guarantee having a share capital
 
+Tilføyd til vedlegg II ved EØS-avtalen vedlegg XXII nr. 10a:
+
 - Island:HlutafèlagEikahlutafèlag
 - Lichtenstein:die Aktiengesellschaftdie Kommandanditaktiengesellschaftdie Gesellschaft mit beschränkter Haftung
 - Norge:AllmennaksjeselskapAksjeselskap
+
+1 Tilsvarende nomenklatur for de 12 nye stater i EU og EØS i 2004 og 2007 er tilføyd til frd. [2157/2001](eu/32001r2157) ved frd. [885/2004](eu/32004r0885) og frd. [1791/2006](eu/32006r1791), begge gjort til del også av EØS-avtalen. Tilsvarende tilføyelse for Kroatia er gjort i frd. [517/2013](eu/32013r0517), også gjort til en del av EØS-avtalen. [Lovens § 1](lov/2005-04-01-14/§1) er imidlertid ikke endret.

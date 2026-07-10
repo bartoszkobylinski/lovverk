@@ -506,6 +506,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette bestemmelsene i kr
 
 Fra den tid loven trer i kraft, oppheves [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann og [lov 15. august 2014 nr. 61](lov/2014-08-15-61) om losordningen. Kongen kan oppheve de enkelte bestemmelser til forskjellig tid.
 
+1 Fra 1 jan 2020 iflg. [res. 21 juni 2019 nr. 872](forskrift/2019-06-21-872).
+
 ### § 53. Overgangsbestemmelser
 
 Enkeltvedtak og forskrifter gitt i medhold av [lov 17. april 2009 nr. 19](lov/2009-04-17-19) om havner og farvann og [lov 15. august 2014 nr. 61](lov/2014-08-15-61) om losordningen gjelder også etter at loven her har trådt i kraft.

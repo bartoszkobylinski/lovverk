@@ -109,3 +109,5 @@ Kongen kan gi nærmere forskrifter til gjennomføring av denne lov.
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 Kongen kan sette loven i kraft særskilt overfor enkelte av de stater som er nevnt i [§ 1](lov/1970-06-05-35/§1).
+
+1 Iflg. res. 18 des 1970 fra 1 jan 1971 i forhold til Danmark, Finland og Sverige, i forhold til Island fra den tid Justisdepartementet bestemmer.

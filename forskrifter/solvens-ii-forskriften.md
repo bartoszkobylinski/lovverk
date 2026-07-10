@@ -616,6 +616,17 @@ Minstekapitalkravet skal ikke være mindre enn kravet til startkapital i [finans
 
 Ved anvendelse av standardmetoden skal solvenskapitalkravet beregnes på følgende måte:
 
+\\(SCR=BSCR+SCR_{OR}+Adj_{\\text{TA_US}}\\),
+
+derSCR = solvenskapitalkravet beregnet etter standardmetoden,BSCR = basiskravet til solvenskapital beregnet etter standardmetoden,SCROR = bidraget til solvenskapitalkravet fra operasjonell risiko beregnet etter standardmetoden ogAdjTA_US = justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger (herunder fremtidig overskuddstildeling) og utsatt skatt.
+
 Basiskravet til solvenskapital skal beregnes på følgende måte:
+
+\\(BSCR={\\sqrt{\\displaystyle\\sum\\limits_{i}\\displaystyle\\sum\\limits_{j}Korr_{i,j}\\times{SCR_{i}}\\times{SCR_{j}}}+SCR_{IR}}\\),
+der indeksene i og j har en av følgende verdier: MR, KR, LR, HR eller SR.
+
+Videre erKorri,j = korrelasjonen mellom risikomodul i og risikomodul j,SCRMR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for markedsrisiko,SCRKR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for motpartsrisiko (kredittrisiko),SCRLR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for livsforsikringsrisiko,SCRHR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for helseforsikringsrisiko,SCRSR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for skadeforsikringsrisiko
+
+ogSCRIR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for immaterielle eiendeler.
 
 Korrelasjonen mellom risikomodul i og risikomodul j er gitt ved cellen i rad i og kolonne j i følgende korrelasjonsmatrise:

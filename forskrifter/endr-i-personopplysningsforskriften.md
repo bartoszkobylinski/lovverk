@@ -28,13 +28,7 @@ I [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandlin
 
 – – –
 
-Behandling av personopplysninger for kommunikasjons- og faktureringsformål, samt for å oppfylle plikten til å lagre data i medhold av [ekomloven § 2-7a](lov/2003-07-04-83/§2-7a), er konsesjonspliktig etter personopplysningsloven.
-
-Ved utferdigelse av konsesjonen skal Datatilsynet vurdere om det skal stilles vilkår om kryptering av de data som faller inn under lagringsplikten etter [ekomloven § 2-7a](lov/2003-07-04-83/§2-7a). Kryptering skal tilfredsstille etablerte internasjonale standarder der slike foreligger. Ved pålegg om kryptering skal Datatilsynet i den enkelte konsesjon fastsette nærmere omfang av krypteringen, herunder vilkår knyttet til lagringsmåte, lagringstidspunkt og lokalisering, samt krav til sikker overføring.
-
-For tilbydere som er lagringspliktige i henhold til [ekomloven § 2-7a](lov/2003-07-04-83/§2-7a), skal Datatilsynet i konsesjonen pålegge nødvendige vilkår for å sikre lukket lagring. For å sikre lukket lagring skal det blant annet fastsettes nærmere krav om:identitetskontroll ved innpassering til de lokaler hvor data lagres,behovsbegrenset adgang til lokaler hvor lagringspliktige data lagres og tilgang til lagringspliktige data,fysisk sikring av lagringsmediet og omgivelsene rundt,elektronisk sikring av lagringsmediet (brannmur mv.),begrensninger i muligheter for direkte adgang til data fra andre lokaler enn der hvor lagringsmediet fysisk befinner seg, ogkryptering ved forsendelse av data over landegrensene, i henhold til retningslinjer om krypteringsgrad fra Nasjonal sikkerhetsmyndighet.
-
-– – –
+[§ 7-1](forskrift/2000-12-15-1265/§7-1) skal lyde:
 
 ## II
 

@@ -26,6 +26,8 @@ eu_basis: []
 
 ### Kapittel 1. Innhaldet i grunnskoleopplæringa
 
+([privatskolelova § 2-3](lov/2003-07-04-84/§2-3))
+
 ### § 1-1. Læreplanar
 
 Opplæringa skal vere i samsvar med den læreplanen skolen har fått godkjend, jf. [privatskolelova § 2-3](lov/2003-07-04-84/§2-3).
@@ -86,6 +88,8 @@ Elevar som forserer fag kan ta i bruk timane til valfag og opp til 60 prosent av
 
 ### Kapittel 2. Leksehjelp
 
+([privatskolelova § 7-1e](lov/2003-07-04-84/§7-1e))
+
 ### § 2-1. Tilbod om leksehjelp
 
 Skolen skal ha eit tilbod om leksehjelp på minst åtte timar kvar veke. Skolen fordeler timane fritt på alle trinna i grunnskolen. Skolar som ikkje tilbyr alle trinn i grunnskolen, kan redusere timetalet etter kor mange trinn dei tilbyr.
@@ -93,6 +97,8 @@ Skolen skal ha eit tilbod om leksehjelp på minst åtte timar kvar veke. Skolen 
 ## Andre delen – vidaregåande opplæring
 
 ### Kapittel 3. Inntak til vidaregåande opplæring
+
+([privatskolelova § 3-1](lov/2003-07-04-84/§3-1))
 
 ### § 3-1. Elevstatus
 
@@ -186,6 +192,8 @@ Skolen kan også ta inn søkjarar som har gjennomført vidaregåande trinn 1 ell
 
 ### Kapittel 4. Innhaldet i den vidaregåande opplæringa
 
+([privatskolelova § 2-3](lov/2003-07-04-84/§2-3))
+
 ### § 4-1. Læreplanar
 
 Opplæringa skal vere i samsvar med dei læreplanane skolen har fått godkjend, jf. [privatskolelova § 2-3](lov/2003-07-04-84/§2-3).
@@ -246,6 +254,8 @@ Elevar kan velje å følgje læreplanen i norsk for språklege minoritetar med k
 
 ### Kapittel 5. Krav til læreplanane
 
+([privatskolelova § 2-3](lov/2003-07-04-84/§2-3))
+
 ### § 5-1. Generelle krav til læreplanane
 
 Alle læreplanane som blir godkjende etter [privatskolelova § 2-3 første ledd](lov/2003-07-04-84/§2-3/ledd/1), må oppfylle krava i denne paragrafen. Læreplanane må vere jamgode med læreplanane i læreplanverket for Kunnskapsløftet.
@@ -281,6 +291,8 @@ Ved toppidrettsgymnas skal opplæringa vere i samsvar med krava som går fram av
 Ved skolar som er godkjende etter det tidlegare grunnlaget særskild profil, skal opplæringa vere i samsvar med den læreplanen og fag- og timefordelinga som skolane har fått godkjend etter [privatskolelova § 2-3](lov/2003-07-04-84/§2-3). Læreplanen synleggjer ein særskild profil med spesiell fagleg merksemd retta mot eit emne.
 
 ### Kapittel 6. Individuell vurdering
+
+([privatskolelova § 2-3a](lov/2003-07-04-84/§2-3a))
 
 ### I. Generelle reglar
 
@@ -752,6 +764,8 @@ Dersom dokumentasjonen går tapt, skal det utferdast ny dokumentasjon som er så
 
 ### Kapittel 7. Klage på sluttvurderingar
 
+([privatskolelova § 2-3a](lov/2003-07-04-84/§2-3a))
+
 > Endra ved forskrift [11 nov 2025 nr. 2261](forskrift/2025-11-11-2261).
 
 ### § 7-1. Kva kapittelet gjeld og forholdet til forvaltningsloven
@@ -842,6 +856,8 @@ Kandidatar som får karakteren oppheva, må gå opp til fag- eller sveineprøve 
 
 ### Kapittel 8. Samarbeid med foreldra
 
+([privatskolelova § 5A-3 andre ledd](lov/2003-07-04-84/§5A-3/ledd/2))
+
 ### § 8-1. Foreldremøte og foreldresamtale
 
 Frå 1. trinn i grunnskolen til vidaregåande trinn 2 skal skolen i starten av kvart skoleår halde eit foreldremøte der dei gir informasjon om innhaldet i og organiseringa av opplæringa, om korleis foreldra kan medverke, og om rutinar og andre relevante forhold.
@@ -854,6 +870,8 @@ Skolen skal gi foreldra til elevar som ikkje er myndige, skriftleg eller munnleg
 
 ### Kapittel 9. Tilleggskompetanse
 
+([privatskolelova § 4-2](lov/2003-07-04-84/§4-2))
+
 ### § 9-1. Spesialkompetanse i skolar som er godkjende for å drive på grunnlag av ei anerkjend pedagogisk retning
 
 I skolar som er godkjende til å drive på grunnlag av ei anerkjend pedagogisk retning, skal minst halvparten av dei som er tilsett i lærarstilling, ha spesialkompetanse til å gjennomføre den anerkjende pedagogiske retninga.
@@ -865,6 +883,8 @@ Som spesialkompetanse reknar ein høgare utdanning innanfor den anerkjende pedag
 I skolar som er godkjende for å drive særskilt tilrettelagd vidaregåande opplæring i kombinasjon med toppidrett, skal dei som er tilsett i lærarstilling, ha spisskompetanse i dei idrettane skolen er godkjend for å tilby. Kravet gjeld berre for dei som skal undervise i dei aktuelle idrettane.
 
 ### Kapittel 10. Politiattest og yrkesforbod
+
+([privatskolelova § 4-3 fjerde ledd](lov/2003-07-04-84/§4-3/ledd/4))
 
 ### § 10-1. Politiattest ved tilsetjing
 
@@ -888,6 +908,8 @@ Ein person kan ikkje tilsetjast eller ha praksis i skolar eller tilbod som er ne
 
 ### Kapittel 11. Spesielt for skolar som driv særskilt tilrettelagd opplæring for elevar med dokumenterte behov
 
+([privatskolelova § 6-1 fjerde ledd](lov/2003-07-04-84/§6-1/ledd/4))
+
 > Tilføyd ved forskrift [17 juni 2024 nr. 1048](forskrift/2024-06-17-1048) (i kraft 1 aug 2024).
 
 ### § 11-1. Krav til dokumentasjon av den nedsette funksjonsevna og lærevanskane til eleven
@@ -909,6 +931,8 @@ Heimkommunen eller heimfylket skal dekkje kostnadene for elevar som har rett til
 ## Fjerde delen – forskjellige reglar
 
 ### Kapittel 12. Ulykkesforsikring
+
+([privatskolelova § 7-1b](lov/2003-07-04-84/§7-1b))
 
 ### § 12-1. Krav til forsikringa
 
@@ -955,6 +979,8 @@ Eigendelen kan ikkje vere høgare enn 0,015 G.
 Forsikringa kan vere avgrensa til ikkje å dekkje ulykkesskade som kjem avforgifting gjennom mat, drikke eller nytingsmiddelinfeksjon forårsaka av stikk eller bit av insekt eller liknande, som malaria, flekktyfus eller borreliosesmitte gjennom bakteriar, til dømes E. coli eller salmonella, eller gjennom virus eller anna smittekjeldepsykiske skadar, som sjokkliding, depresjon og angst, med mindre det til same tid har oppstått fysisk skade som gir livsvarig medisinsk invaliditet.
 
 ### Kapittel 13. Rapportering og evaluering av opplæringsverksemda
+
+([privatskolelova § 7-2d](lov/2003-07-04-84/§7-2d))
 
 > Endra ved forskrift [13 april 2026 nr. 591](forskrift/2026-04-13-591).
 
@@ -1044,6 +1070,8 @@ Utdanningsdirektoratet kan fastsetje nærare retningslinjer for gjennomføringa 
 
 ### Kapittel 14. Behandling av personopplysningar
 
+([privatskolelova § 7-8](lov/2003-07-04-84/§7-8) og [§ 7-9](lov/2003-07-04-84/§7-9))
+
 ### § 14-1. Innhenting av opplysningar frå Folkeregisteret
 
 Når det er nødvendig for å utføre oppgåver etter [privatskolelova](lov/2003-07-04-84), kan offentlege styresmakter utan hinder av teieplikt hente inn opplysningar frå Folkeregisteret omkven som er foreldra til barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84)kven som har foreldreansvaret for barn som får eller skal få tenester etter [privatskolelova](lov/2003-07-04-84).
@@ -1076,6 +1104,8 @@ Ikkje-anonyme skolemiljøundersøkingar må gjennomførast slik at dei grip mins
 
 ### Kapittel 15. Delbetaling for læremiddel og digitalt utstyr i vidaregåande opplæring
 
+([privatskolelova § 6-2](lov/2003-07-04-84/§6-2) fjerde ledd)
+
 ### § 15-1. Eigendel for berbar PC
 
 Skolen kan krevje ein årleg eigendel frå elevar for å dekkje delar av kostnaden for ein berbar PC. Eigendelen kan ikkje setjast høgare enn den lågaste stipendsatsen i det årlege ikkje-behovsprøvde utstyrsstipendet. Etter vidaregåande skole skal elevane få behalde PC-en.
@@ -1083,6 +1113,8 @@ Skolen kan krevje ein årleg eigendel frå elevar for å dekkje delar av kostnad
 Elevar som avbryt den vidaregåande opplæringa, skal få tilbod om å kjøpe PC-en. Den samla betalinga kan ikkje overstige tre gonger den lågaste stipendsatsen i det årlege ikkje-behovsprøvde utstyrsstipendet utrekna på tidspunktet då eleven avbraut opplæringa.
 
 ### Kapittel 16. Søknadsfrist
+
+([privatskolelova § 2-1](lov/2003-07-04-84/§2-1) sjuande ledd)
 
 ### § 16-1. Søknadsfrist
 
@@ -1111,6 +1143,8 @@ Lovbrotsgebyr etter [privatskolelova § 7-2c](lov/2003-07-04-84/§7-2c) skal ikk
 ## Femte delen – sluttreglar
 
 ### Kapittel 17. Innføringstakt og overgangsordningar
+
+([privatskolelova § 2-3](lov/2003-07-04-84/§2-3))
 
 ### § 17-1. Innføringstakt for Læreplanverket for Kunnskapsløftet
 

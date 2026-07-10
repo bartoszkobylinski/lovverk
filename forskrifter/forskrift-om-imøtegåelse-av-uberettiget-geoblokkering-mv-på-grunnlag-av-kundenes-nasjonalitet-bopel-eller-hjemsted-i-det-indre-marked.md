@@ -24,7 +24,7 @@ eu_basis: []
 
 ## § 1.
 
-[EØS-avtalen vedlegg X](avtale/avt-1992-05-02-1-v10)[forordning (EU) 2018/302](eu/32018r0302) (om geoblokkering og andre former for diskriminering på bakgrunn av nasjonalitet, bosted eller etableringssted (geoblokkeringsforordningen)) gjelder som forskrift med de tilpasninger som følger av vedlegg X, protokoll 1 til avtalen og avtalen for øvrig.
+[EØS-avtalen vedlegg X](avtale/avt-1992-05-02-1-v10) [forordning (EU) 2018/302](eu/32018r0302) (om geoblokkering og andre former for diskriminering på bakgrunn av nasjonalitet, bosted eller etableringssted (geoblokkeringsforordningen)) gjelder som forskrift med de tilpasninger som følger av vedlegg X, protokoll 1 til avtalen og avtalen for øvrig.
 
 ## § 2.
 

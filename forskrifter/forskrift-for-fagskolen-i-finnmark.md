@@ -391,11 +391,17 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 5-1. Generelt om vurdering
 
-(1) Vurdering blir gjennomført på en slik måte at skolen på et mest mulig sikkert grunnlag kan vurdere i hvilken grad studenten har nådd læringsutbyttet som er beskrevet i studieplanen for utdanningen, jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21). Følgende vurderingsformer kan benyttes ved Fagskolen i Finnmark:Skriftlig skoleeksamenSkriftlig, individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsett tid for utlevering av oppgave og innleveringsfrist.
-Eksamens varighet i antall timer skal gå fram av studieplanen. Eksamen kan gjennomføres på papir eller digitalt.Muntlig eksamenMuntlig eksamen der studenten/-ene blir eksaminerte av minimum to sensorer.Praktisk eksamenVurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon.Løpende vurderingVurderingsform med veiledning underveis der karakteren blir fastsett på grunnlag av innleveringer som kan etterprøves, prøver eller andre produkt som blir samlet i en vurderingsmappe. Innholdet kan samles over tid og må være fullført til fastsett frist. Den løpende vurderingen kan bygges opp som en samlet vurderingsmappe eller deles i en læringsmappe med påfølgende vurderingsmappe.
-a Læringsmappe er en samling tekster og/eller andre arbeider som er produserte gjennom en viss periode. Samlingen dokumenterer prosess og/eller produkt, og skal vise studenten sine faglige refleksjoner og utviklingen av kompetanse. Læringsmappen inngår ikke i den løpende summative vurderingen, men er et element i den formative vurderingen
-b Vurderingsmappe er et utvalg av element fra læringsmappen eller tester, prøver, innleveringer eller andre elementer som danner grunnlag for fastsetting av karakter. Vurderingen kan skje underveis i emnet og som formell sluttvurdering. Studieplanene skal beskrive hvilke elementer i et emne som danner vurderingsgrunnlaget for karakterfastsetting ved den.HjemmeeksamenSkriftlig eksamen der studentene blir tildelt oppgave på et fastsatt tidspunkt, og med fastsatt frist for innlevering. Hjemmeeksamen kan være individuell eller i gruppe. Antall eksamensdager skal gå fram av studieplanen.HovedprosjektHovedprosjekt er et eget emne som blir gjennomført mot slutten av studiet. Studenter arbeider med en problemstilling og leverer en rapport.
-Hovedprosjektet blir avsluttet med en muntlig/skriftlig eksamen.PraksisPraksis er en del av utdanningen som foregår i et relevant yrkesfelt med rettledning og avsluttende vurdering.
+(1) Vurdering blir gjennomført på en slik måte at skolen på et mest mulig sikkert grunnlag kan vurdere i hvilken grad studenten har nådd læringsutbyttet som er beskrevet i studieplanen for utdanningen, jf. [lov om høyere yrkesfaglig utdanning § 21](lov/2018-06-08-28/§21). Følgende vurderingsformer kan benyttes ved Fagskolen i Finnmark:
+
+|  |  |
+| --- | --- |
+| Skriftlig skoleeksamen | Skriftlig, individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsett tid for utlevering av oppgave og innleveringsfrist.<br>Eksamens varighet i antall timer skal gå fram av studieplanen. Eksamen kan gjennomføres på papir eller digitalt. |
+| Muntlig eksamen | Muntlig eksamen der studenten/-ene blir eksaminerte av minimum to sensorer. |
+| Praktisk eksamen | Vurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i grupper og kan inkludere element av skriftlig og/eller muntlig eksaminasjon. |
+| Løpende vurdering | Vurderingsform med veiledning underveis der karakteren blir fastsett på grunnlag av innleveringer som kan etterprøves, prøver eller andre produkt som blir samlet i en vurderingsmappe. Innholdet kan samles over tid og må være fullført til fastsett frist. Den løpende vurderingen kan bygges opp som en samlet vurderingsmappe eller deles i en læringsmappe med påfølgende vurderingsmappe.<br>a Læringsmappe er en samling tekster og/eller andre arbeider som er produserte gjennom en viss periode. Samlingen dokumenterer prosess og/eller produkt, og skal vise studenten sine faglige refleksjoner og utviklingen av kompetanse. Læringsmappen inngår ikke i den løpende summative vurderingen, men er et element i den formative vurderingen<br>b Vurderingsmappe er et utvalg av element fra læringsmappen eller tester, prøver, innleveringer eller andre elementer som danner grunnlag for fastsetting av karakter. Vurderingen kan skje underveis i emnet og som formell sluttvurdering. Studieplanene skal beskrive hvilke elementer i et emne som danner vurderingsgrunnlaget for karakterfastsetting ved den. |
+| Hjemmeeksamen | Skriftlig eksamen der studentene blir tildelt oppgave på et fastsatt tidspunkt, og med fastsatt frist for innlevering. Hjemmeeksamen kan være individuell eller i gruppe. Antall eksamensdager skal gå fram av studieplanen. |
+| Hovedprosjekt | Hovedprosjekt er et eget emne som blir gjennomført mot slutten av studiet. Studenter arbeider med en problemstilling og leverer en rapport.<br>Hovedprosjektet blir avsluttet med en muntlig/skriftlig eksamen. |
+| Praksis | Praksis er en del av utdanningen som foregår i et relevant yrkesfelt med rettledning og avsluttende vurdering. |
 
 (2) Vurdering med emnekarakter for hvert emne blir gjort på grunnlag av løpende vurdering og/eller eksamen i emnet. For å bestå emnet må arbeidskravene være bestått/godkjent. Når emnekarakteren blir fastsatt, blir det gjort på grunnlag av arbeidskravene. Dersom en student ikke har oppfylt alle arbeidskrav i et eller flere tema, vil sluttkarakter i emnet bli F – ikke bestått, og studenten har således ikke rett til å gå opp til eksamen. Se også [§ 5-4](forskrift/2024-01-05-300/§5-4) Rett til å gå opp til eksamen.
 
@@ -413,11 +419,38 @@ Hovedprosjektet blir avsluttet med en muntlig/skriftlig eksamen.PraksisPraksis e
 
 ### § 5-2. Karakterskala jf. forskrift om høyere yrkesfaglig utdanning § 40
 
-(1) Bokmål*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som skiller seg klart ut. Studenten har svært gode kunnskaper, ferdigheter og generell kompetanse.BMeget godMeget god prestasjon. Studenten har meget gode kunnskaper, ferdigheter og generell kompetanse.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten har gode kunnskaper, ferdigheter og generell kompetanse.DNokså godAkseptabel prestasjon med noen vesentlige mangler. Studenten har nokså gode kunnskaper, ferdigheter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten har oppfylt minimumskravene som blir stilt til kunnskaper, ferdigheter og generell kompetanse.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene. Studenten har ikke bestått på grunn av vesentlige mangler når det gjelder faglige kunnskaper, ferdigheter og generell kompetanse.
+(1) Bokmål
 
-(2) Nynorsk*Symbol**Nemning**Generell, ikkje fagspesifikk omtale av vurderingskriterium*AFramifråFramifrå prestasjon som skil seg klårt ut. Studenten har svært gode kunnskapar, ferdigheiter og generell kompetanseBMykje godMykje god prestasjon. Studenten har mykje gode kunnskapar, ferdigheiter og generell kompetanse.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten har gode kunnskapar, ferdigheiter og generell kompetanse.DNokså godAkseptabel prestasjon med nokre vesentlege manglar. Studenten har nokså gode kunnskapar, ferdigheiter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten har oppfylt minimumskrava som blir stilt til kunnskapar, ferdigheiter og generell kompetanse.FIkkje beståttPrestasjon som ikkje tilfredsstiller minimumskrava. Studenten har ikkje bestått på grunn av vesentlege manglar når det gjeld faglege kunnskapar, ferdigheiter og generell kompetanse.
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som skiller seg klart ut. Studenten har svært gode kunnskaper, ferdigheter og generell kompetanse. |
+| B | Meget god | Meget god prestasjon. Studenten har meget gode kunnskaper, ferdigheter og generell kompetanse. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten har gode kunnskaper, ferdigheter og generell kompetanse. |
+| D | Nokså god | Akseptabel prestasjon med noen vesentlige mangler. Studenten har nokså gode kunnskaper, ferdigheter og generell kompetanse. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten har oppfylt minimumskravene som blir stilt til kunnskaper, ferdigheter og generell kompetanse. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. Studenten har ikke bestått på grunn av vesentlige mangler når det gjelder faglige kunnskaper, ferdigheter og generell kompetanse. |
 
-(3) Engelsk*Symbol**Description**General, qualitative, non-subject specific description of the assessment valuation criteria*AExcellentAn excellent performance, clearly outstanding. The candidate demonstrates excellent knowledge, skills and general competence.BVery GoodA very good performance. The candidate demonstrates very good knowledge, skills and general competence.CGoodA good performance in most areas. The candidate demonstrates good knowledge, skills and general competence.DSatisfactoryA satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of knowledge, skills and general competence.ESufficientA performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited degree of knowledge, skills and general competence.FFailedA performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject.
+(2) Nynorsk
+
+| *Symbol* | *Nemning* | *Generell, ikkje fagspesifikk omtale av vurderingskriterium* |
+| --- | --- | --- |
+| A | Framifrå | Framifrå prestasjon som skil seg klårt ut. Studenten har svært gode kunnskapar, ferdigheiter og generell kompetanse |
+| B | Mykje god | Mykje god prestasjon. Studenten har mykje gode kunnskapar, ferdigheiter og generell kompetanse. |
+| C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten har gode kunnskapar, ferdigheiter og generell kompetanse. |
+| D | Nokså god | Akseptabel prestasjon med nokre vesentlege manglar. Studenten har nokså gode kunnskapar, ferdigheiter og generell kompetanse. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten har oppfylt minimumskrava som blir stilt til kunnskapar, ferdigheiter og generell kompetanse. |
+| F | Ikkje bestått | Prestasjon som ikkje tilfredsstiller minimumskrava. Studenten har ikkje bestått på grunn av vesentlege manglar når det gjeld faglege kunnskapar, ferdigheiter og generell kompetanse. |
+
+(3) Engelsk
+
+| *Symbol* | *Description* | *General, qualitative, non-subject specific description of the assessment valuation criteria* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. The candidate demonstrates excellent knowledge, skills and general competence. |
+| B | Very Good | A very good performance. The candidate demonstrates very good knowledge, skills and general competence. |
+| C | Good | A good performance in most areas. The candidate demonstrates good knowledge, skills and general competence. |
+| D | Satisfactory | A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of knowledge, skills and general competence. |
+| E | Sufficient | A performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited degree of knowledge, skills and general competence. |
+| F | Failed | A performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject. |
 
 (4) I det enkelte emne kan det benyttes vurderingsuttrykket «bestått – ikke bestått». Hvilket emne dette gjelder kommer fram av studieplanen. Karakterskalaen bestått/ikke bestått er et selvstendig vurderingsuttrykk uten sammenheng med gradert skala (A–F).
 

@@ -82,7 +82,34 @@ For inntektsåret 2026 svares folketrygdavgifter etter følgende regler og satse
 
 ### § 5. Særregel om avgiftssats for aktiviteter knyttet til produkter som ikke omfattes av EØS-avtalen
 
-Arbeidsgivere som utfører aktiviteter knyttet til produksjon, foredling og engroshandel av produkter som ikke omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl), jf. avtalens § 8, beregner arbeidsgiveravgift med 5,1 pst. når virksomheten drives i sone IVa, og med 10,6 pst. når den drives i sone Ia. Dette gjelder aktiviteter som er omfattet av næringskodene i tabellen nedenfor. Dersom arbeidsgiver også utfører andre aktiviteter enn de som er nevnt nedenfor, gjelder [§ 4 annet ledd](forskrift/2025-12-18-2748/§4/ledd/2) om blandet virksomhet tilsvarende.*Næringskode, jf. Norsk standard for næringsgruppering (SN2007)*01.1–01.3Dyrking av ettårige vekster, flerårige vekster og planteformering01.4Husdyrhold01.5Kombinert husdyrhold og planteproduksjon01.6Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting01.7Jakt, viltstell og tjenester tilknyttet jakt og viltstell02.1–02.3Skogskjøtsel og andre skogbruksaktiviteter, avvirkning og innsamling av viltvoksende produkter av annet enn tre og del av 16.10 (produksjon av pæler)02.40Tjenester tilknyttet skogbruk (med unntak av tømmermåling)03.11–03.12Hav- og kystfiske og fangst og ferskvannsfiske03.21–03.22Hav- og kystbasert akvakultur og ferskvannsbasert akvakultur10.11–10.13Bearbeiding og konservering av kjøtt og fjørfekjøtt og produksjon av kjøtt- og fjørfevarer10.20Bearbeiding og konservering av fisk, skalldyr og bløtdyr10.3Bearbeiding og konservering av frukt og grønnsaker10.4Produksjon av vegetabilske og animalske oljer og fettstoffer10.5Produksjon av meierivarer og iskrem10.6Produksjon av kornvarer, stivelse og stivelsesprodukter, samt del av 10.89 (produksjon av kunstig honning og karamell)10.85Produksjon av ferdigmat10.9Produksjon av fôrvarer46.2Engroshandel med jordbruksråvarer og levende dyr46.31Engroshandel med frukt og grønnsaker, samt del av 10.39 (produksjon av skrellede grønnsaker og blandede salater)46.32Engroshandel med kjøtt og kjøttvarer46.33Engroshandel med meierivarer, egg, matolje og -fett46.381Engroshandel med fisk, skalldyr og bløtdyr50.202Innenriks sjøtransport med gods, men bare for så vidt gjelder drift av brønnbåter52.10Lagring, men bare for så vidt gjelder drift av kornsiloer.
+Arbeidsgivere som utfører aktiviteter knyttet til produksjon, foredling og engroshandel av produkter som ikke omfattes av [EØS-avtalen](lov/1992-11-27-109/eøsl), jf. avtalens § 8, beregner arbeidsgiveravgift med 5,1 pst. når virksomheten drives i sone IVa, og med 10,6 pst. når den drives i sone Ia. Dette gjelder aktiviteter som er omfattet av næringskodene i tabellen nedenfor. Dersom arbeidsgiver også utfører andre aktiviteter enn de som er nevnt nedenfor, gjelder [§ 4 annet ledd](forskrift/2025-12-18-2748/§4/ledd/2) om blandet virksomhet tilsvarende.
+
+| *Næringskode, jf. Norsk standard for næringsgruppering (SN2007)* |  |
+| --- | --- |
+| 01.1–01.3 | Dyrking av ettårige vekster, flerårige vekster og planteformering |
+| 01.4 | Husdyrhold |
+| 01.5 | Kombinert husdyrhold og planteproduksjon |
+| 01.6 | Tjenester tilknyttet jordbruk og etterbehandling av vekster etter innhøsting |
+| 01.7 | Jakt, viltstell og tjenester tilknyttet jakt og viltstell |
+| 02.1–02.3 | Skogskjøtsel og andre skogbruksaktiviteter, avvirkning og innsamling av viltvoksende produkter av annet enn tre og del av 16.10 (produksjon av pæler) |
+| 02.40 | Tjenester tilknyttet skogbruk (med unntak av tømmermåling) |
+| 03.11–03.12 | Hav- og kystfiske og fangst og ferskvannsfiske |
+| 03.21–03.22 | Hav- og kystbasert akvakultur og ferskvannsbasert akvakultur |
+| 10.11–10.13 | Bearbeiding og konservering av kjøtt og fjørfekjøtt og produksjon av kjøtt- og fjørfevarer |
+| 10.20 | Bearbeiding og konservering av fisk, skalldyr og bløtdyr |
+| 10.3 | Bearbeiding og konservering av frukt og grønnsaker |
+| 10.4 | Produksjon av vegetabilske og animalske oljer og fettstoffer |
+| 10.5 | Produksjon av meierivarer og iskrem |
+| 10.6 | Produksjon av kornvarer, stivelse og stivelsesprodukter, samt del av 10.89 (produksjon av kunstig honning og karamell) |
+| 10.85 | Produksjon av ferdigmat |
+| 10.9 | Produksjon av fôrvarer |
+| 46.2 | Engroshandel med jordbruksråvarer og levende dyr |
+| 46.31 | Engroshandel med frukt og grønnsaker, samt del av 10.39 (produksjon av skrellede grønnsaker og blandede salater) |
+| 46.32 | Engroshandel med kjøtt og kjøttvarer |
+| 46.33 | Engroshandel med meierivarer, egg, matolje og -fett |
+| 46.381 | Engroshandel med fisk, skalldyr og bløtdyr |
+| 50.202 | Innenriks sjøtransport med gods, men bare for så vidt gjelder drift av brønnbåter |
+| 52.10 | Lagring, men bare for så vidt gjelder drift av kornsiloer. |
 
 ## Trygdeavgift
 

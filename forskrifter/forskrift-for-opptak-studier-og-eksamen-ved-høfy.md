@@ -316,7 +316,16 @@ Skolen fastsetter hvilke hjelpemidler som kan benyttes ved eksamen.
 
 ### § 31. Karaktersystem
 
-(1) Karaktersystemet ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått som følgende tabell viser:*Symbol**Betegnelse**Generell, kvalitativ beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(1) Karaktersystemet ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått som følgende tabell viser:
+
+| *Symbol* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 (2) Mer fagspesifikke beskrivelser kan utarbeides i den enkelte fagavdeling med utgangspunkt i hva som er gitt av nasjonale føringer innen hvert fagområde.
 

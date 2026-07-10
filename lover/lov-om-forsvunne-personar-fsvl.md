@@ -192,6 +192,8 @@ Kongen kan fastsetje overgangsføresegner.
 
 > Endra ved lov [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
+1 Frå 1 juli 2015 iflg. [res. 12 mai 2015 nr. 469](forskrift/2015-05-12-469).
+
 ### § 24. Endringar i andre lover
 
 Frå den tida lova trer i kraft blir det gjort følgjande endringar i andre lover: – – –

@@ -136,9 +136,15 @@ Denne forskrift trer i kraft 1. mai 2001.
 
 ## Vedlegg I. Næringsmidler som tillates behandlet med ioniserende stråling
 
+| *Næringsmiddel eller næringsmiddelgruppe* | *Maksimalt tillatt strålingsdose* |
+| --- | --- |
+| Tørkede aromatiske urter, krydder og vegetabilske smaksgivere | 10 kGy |
+
 ## Vedlegg II
 
 ### 1. Dosimetri
+
+*Den samlede gjennomsnittlige absorberte dose*
 
 Ved bestemmelse av om næringsmidler som er behandlet med en samlet gjennomsnittlig dose på 10 kGy eller mindre egner seg til folkemat, kan det gås ut fra at alle strålingsfremkalte kjemiske virkninger i dette doseområdet er proporsjonale med dosen.
 
@@ -150,19 +156,35 @@ Dersom dosefordelingskurvens form gjennom varen er fastsatt, kjennes også minim
 
 I visse tilfeller vil middelverdien av den gjennomsnittlige minimumsdose (Ƌmin) og maksimumsdose (Ƌmax) gi et godt estimat over den samlede gjennomsnittlige dose. I disse tilfeller blir såledesden samlede gjennomsnittlige dose ≈ (Ƌmax + Ƌmin) / 2
 
+Forholdet Ƌmax / Ƌmin skal ikke overstige 3.
+
 ### 2. Prosedyrer
+
+2.1.
 
 Før rutinebestråling av en gitt type næringsmidler påbegynnes ved et bestrålingsanlegg, skal minimums- og maksimumsdosenes posisjon fastslås ved hjelp av dosemålinger i hele varens volum. Disse valideringsmålingene skal utføres et passende antall ganger (for eksempel 3-5), slik at det tas hensyn til variasjoner i varens tetthet og geometri.
 
+2.2.
+
 Målingene skal gjentas ved enhver endring av varen, dens geometri eller bestrålingsforholdene.
+
+2.3.
 
 Under bestrålingen skal det foretas rutinemessige dosemålinger for å kontrollere at dosegrensene ikke overskrides. Målingene skal utføres ved å anbringe dosimetre i minimums- eller maksimumsposisjonen, eller i en referanseposisjon. Dosen i referanseposisjonen skal knyttes kvantitativt til maksimums- og minimumsdosen. Referanseposisjonen skal plasseres i et passende punkt i eller på varen, hvor dosevariasjonene er lave.
 
+2.4.
+
 Det skal foretas rutinemessig dosemåling av hvert enkelt parti og med passende intervaller under behandlingen.
+
+2.5.
 
 Ved bestråling av en løpende strøm av uemballerte varer kan minimums- og maksimumsdosenes posisjon ikke fastslås. I stedet kan disses verdier bestemmes ved hjelp av stikkprøvemålinger i vilkårlige punkter.
 
+2.6.
+
 Dosemålingene foretas ved hjelp av anerkjente dosimetrisystemer, og målingene skal kunne henføres til grunnleggende normer.
+
+2.7.
 
 Under bestrålingen skal det føres kontroll med de relevante anleggsparametre, og disse skal registreres løpende. For så vidt angår de radioaktive isotoper omfatter disse parametre produktets fremføringshastighet og den tid det tilbringer i bestrålingssonen, samt positiv indikasjon av at strålingskilden befinner seg i den riktige posisjon. For partikkelakselleratoren omfatter disse parametre produktets fremføringshastighet, samt anleggets energinivå, elektronstrøm og scanningsbredde.
 

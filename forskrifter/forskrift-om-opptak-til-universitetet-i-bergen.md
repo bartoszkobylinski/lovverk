@@ -178,6 +178,21 @@ eu_basis: []
 
 (2) For søkjarar med bokstavkarakterar blir følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter: A=5, B=4, C=3, D=2, E=1. Ved utrekning av karaktersnitt i rangeringsgrunnlaget, blir kvar karakter erstatta med det tilsvarande talet. For kvart emne som inngår i rangeringsgrunnlaget, blir talet multiplisert med talet på studiepoeng og produktet blir summert. Denne summen blir dividert på totalt tal på studiepoeng, og resultatet blir utrekna med to desimal.
 
+Døme på utrekning med opptaksgrunnlag på 90 studiepoeng:
+
+| *Bokstavkarakter* | *Tallekvivalent* | *Studiepoeng* | *Tallekvivalent ganger studiepoeng* |
+| --- | --- | --- | --- |
+| A | 5 | 15 | 75 |
+| C | 3 | 15 | 45 |
+| B | 4 | 15 | 60 |
+| C | 3 | 20 | 60 |
+| B | 4 | 10 | 40 |
+| B | 4 | 10 | 40 |
+| D | 2 | 5 | 10 |
+| SUM |  | 90 | 330 |
+
+Rangeringsgrunnlag: 330 delt på 90 = 3,66
+
 (3) For utrekning av kvalifiseringskrav etter [§ 2-2 (3) bokstav e](forskrift/2018-11-27-1907/§2-2/ledd/3/bokstav/e), skal avrunding skje til næraste heile tal etter vanlege avrundingsreglar.
 
 (4) Nærare føresegn om omrekning av karakterar frå andre karakterskalaer er gitt i retningsliner for opptak til Universitetet i Bergen.

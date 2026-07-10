@@ -52,7 +52,25 @@ Departementet kan i forskrift gi nærare reglar for gjennomføring av [EØS-avta
 
 Lova gjeld frå den tid Kongen fastset.1
 
+1 Frå 1 jan 2016 iflg. [res. 11 des 2015 nr. 1437](forskrift/2015-12-11-1437).
+
 ## EØS-avtalen protokoll 31 artikkel 1 nr. 12 (forordning (EF) nr. 723/2009 av 25. juni 2009 om Fellesskapets rettslige ramme for et konsortium for en europeisk forskningsinfrastruktur (ERIC-konsortium))
+
+Teksten er hentet fra [Prop. 157 L (2014–2015)](forarbeid/prop-157-l-201415). Det er ikke foretatt noen «EØS-tilpasning» av forordningsteksten.
+
+Rådet for Den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 171 og artikkel 172 første ledd,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Europaparlamentet,1
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,2
+
+under henvisning til uttalelse fra Regionkomiteen3 og
+
+ut fra følgende betraktninger:
 
 1. I henhold til traktatens artikkel 171 kan Fellesskapet opprette fellesforetak eller andre strukturer som er nødvendige for effektiv gjennomføring av fellesskapsprogrammer for forskning, teknologisk utvikling og demonstrasjon (FTD).
 2. Støtte til og utvikling av forskningsinfrastrukturer i Europa har vært et løpende mål i Fellesskapet, sist gjenspeilet i europaparlaments- og rådsbeslutning nr. [1982/2006/EF](eu/32006d1982) av 18. desember 2006 om Det europeiske fellesskaps sjuende rammeprogram for forskning, teknologisk utvikling og demonstrasjon (2007–2013),4 og særlig i rådsbeslutning [2006/974/EF](eu/32006d0974) av 19. desember 2006 om særprogrammet «Kapasitet».5
@@ -80,6 +98,28 @@ Lova gjeld frå den tid Kongen fastset.1
 24. Ettersom målene for denne forordning, som er å fastsette en ramme for europeiske forskningsinfrastrukturer mellom medlemsstatene, ikke kan nås i tilstrekkelig grad av medlemsstatene innenfor deres nasjonale forfatningsmessige rammer og derfor på grunn av problemets grensekryssende karakter bedre kan nås på fellesskapsplan, kan Fellesskapet treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.
 25. Ettersom denne forordning først og fremst er opprettet for å oppnå effektiv gjennomføring av Felleskapets programmer for forskning, teknologisk utvikling og demonstrasjon, og ettersom de tiltak som er nødvendige for å gjennomføre forordningen hovedsakelig er forvaltningstiltak, bør de vedtas etter framgangsmåten med forvaltningskomité fastsatt i artikkel 4 i rådsbeslutning 1999/468/EF av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er gitt Kommisjonen10 –
 
+1 Uttalelse avgitt 19.2.2009 (ennå ikke offentliggjort i EUT).
+
+2 Uttalelse avgitt 14.1.2009 (ennå ikke offentliggjort i EUT).
+
+3 EUT C 76 av 31.3.2009, s. 6.
+
+4 EUT L 412 av 30.12.2006, s. 1.
+
+5 EUT L 54 av 22.2.2007, s. 101.
+
+6 EFT L 248 av 16.9.2002, s. 1.
+
+7 EUT L 347 av 11.12.2006, s. 1.
+
+8 EFT L 76 av 23.3.1992, s. 1.
+
+9 EUT L 134 av 30.4.2004, s. 114.
+
+10 EFT L 184 av 17.7.1999, s. 23.
+
+vedtatt denne forordning:
+
 ### Art 1. Formål
 
 Ved denne forordning fastsettes en rettslig ramme for kravene til og framgangsmåtene for samt virkningene av opprettelse av et konsortium for europeisk forskningsinfrastruktur (heretter kalt «ERIC-konsortium»).
@@ -90,11 +130,11 @@ I denne forordning menes med:«forskningsinfrastruktur» anlegg, ressurser og ti
 
 ### Art 3. Oppgave og annen virksomhet
 
-1. Et ERIC-konsortium har som hovedoppgave å opprette og drive en forskningsinfrastruktur.
+1\. Et ERIC-konsortium har som hovedoppgave å opprette og drive en forskningsinfrastruktur.
 
-2. Et ERIC-konsortium skal utføre sin hovedoppgave på et ikke-økonomisk grunnlag. Konsortiet kan imidlertid drive begrenset økonomisk virksomhet forutsatt at den er nært knyttet til hovedoppgaven og ikke setter gjennomføringen av denne i fare.
+2\. Et ERIC-konsortium skal utføre sin hovedoppgave på et ikke-økonomisk grunnlag. Konsortiet kan imidlertid drive begrenset økonomisk virksomhet forutsatt at den er nært knyttet til hovedoppgaven og ikke setter gjennomføringen av denne i fare.
 
-3. Et ERIC-konsortium skal registrere kostnadene og inntektene ved sin økonomiske virksomhet separat og fakturere slik virksomhet til markedspris eller, dersom markedspris ikke kan fastsettes, til selvkost pluss en rimelig margin.
+3\. Et ERIC-konsortium skal registrere kostnadene og inntektene ved sin økonomiske virksomhet separat og fakturere slik virksomhet til markedspris eller, dersom markedspris ikke kan fastsettes, til selvkost pluss en rimelig margin.
 
 ### Art 4. Krav til infrastruktur
 
@@ -102,45 +142,45 @@ Forskningsinfrastrukturen som opprettes av et ERIC-konsortium, skal oppfylle fø
 
 ### Art 5. Søknad om opprettelse av et ERIC-konsortium
 
-1. Enheter som ønsker å opprette et ERIC-konsortium (heretter kalt «søkere»), skal sende en søknad til Kommisjonen. Søknaden skal framlegges skriftlig på et av EU-institusjonenes offisielle språk og inneholde følgende:en anmodning til Kommisjonen om opprettelse av ERIC-konsortiet,et forslag til vedtekter for ERIC-konsortiet, nevnt i artikkel 10,en teknisk og vitenskapelig beskrivelse av forskningsinfrastrukturen som skal opprettes og drives av ERIC-konsortiet, herunder særlig kravene i artikkel 4,en erklæring der vertsstaten anerkjenner ERIC-konsortiet som et internasjonalt organ i henhold til artikkel 143 bokstav g) og artikkel 151 nr. 1 bokstav b) i direktiv [2006/112/EF](eu/32006l0112) og som en internasjonal organisasjon i henhold til artikkel 23 nr. 1 annet strekpunkt i direktiv [92/12/EØF](eu/31992ec0044-0012), fra og med tidspunktet for opprettelsen. Begrensningene og vilkårene for unntak fastsatt i disse bestemmelsene skal angis i en avtale mellom medlemmene av ERIC-konsortiet.
+1\. Enheter som ønsker å opprette et ERIC-konsortium (heretter kalt «søkere»), skal sende en søknad til Kommisjonen. Søknaden skal framlegges skriftlig på et av EU-institusjonenes offisielle språk og inneholde følgende:en anmodning til Kommisjonen om opprettelse av ERIC-konsortiet,et forslag til vedtekter for ERIC-konsortiet, nevnt i artikkel 10,en teknisk og vitenskapelig beskrivelse av forskningsinfrastrukturen som skal opprettes og drives av ERIC-konsortiet, herunder særlig kravene i artikkel 4,en erklæring der vertsstaten anerkjenner ERIC-konsortiet som et internasjonalt organ i henhold til artikkel 143 bokstav g) og artikkel 151 nr. 1 bokstav b) i direktiv [2006/112/EF](eu/32006l0112) og som en internasjonal organisasjon i henhold til artikkel 23 nr. 1 annet strekpunkt i direktiv [92/12/EØF](eu/31992ec0044-0012), fra og med tidspunktet for opprettelsen. Begrensningene og vilkårene for unntak fastsatt i disse bestemmelsene skal angis i en avtale mellom medlemmene av ERIC-konsortiet.
 
-2. Kommisjonen skal vurdere søknaden i lys av kravene fastsatt i denne forordning. Under vurderingen skal den innhente uttalelser fra uavhengige eksperter, særlig innenfor de områder der ERIC-konsortiet akter å drive virksomhet. Resultatet av en slik vurdering skal meddeles søkerne, som eventuelt skal bli bedt om å utfylle eller endre søknaden.
+2\. Kommisjonen skal vurdere søknaden i lys av kravene fastsatt i denne forordning. Under vurderingen skal den innhente uttalelser fra uavhengige eksperter, særlig innenfor de områder der ERIC-konsortiet akter å drive virksomhet. Resultatet av en slik vurdering skal meddeles søkerne, som eventuelt skal bli bedt om å utfylle eller endre søknaden.
 
 ### Art 6. Beslutning om søknaden
 
-1. Kommisjonen skal, idet den tar hensyn til resultatene av vurderingen nevnt i artikkel 5 nr. 2 og etter framgangsmåten nevnt i artikkel 20,treffe en beslutning om opprettelse av ERIC-konsortiet etter å ha forvisset seg om at kravene fastsatt i denne forordning er oppfylt, elleravslå søknaden dersom den konkluderer med at kravene fastsatt i denne forordning ikke er oppfylt, herunder at erklæringen nevnt i artikkel 5 nr. 1 bokstav d) mangler.
+1\. Kommisjonen skal, idet den tar hensyn til resultatene av vurderingen nevnt i artikkel 5 nr. 2 og etter framgangsmåten nevnt i artikkel 20,treffe en beslutning om opprettelse av ERIC-konsortiet etter å ha forvisset seg om at kravene fastsatt i denne forordning er oppfylt, elleravslå søknaden dersom den konkluderer med at kravene fastsatt i denne forordning ikke er oppfylt, herunder at erklæringen nevnt i artikkel 5 nr. 1 bokstav d) mangler.
 
-2. Beslutningen om søknaden skal meddeles søkerne. Dersom søknaden avslås, skal beslutningen begrunnes klart og tydelig overfor søkerne.Beslutningen om opprettelse av ERIC-konsortiet skal også offentliggjøres i L-serien av *Den europeiske unions tidende*.
+2\. Beslutningen om søknaden skal meddeles søkerne. Dersom søknaden avslås, skal beslutningen begrunnes klart og tydelig overfor søkerne.Beslutningen om opprettelse av ERIC-konsortiet skal også offentliggjøres i L-serien av *Den europeiske unions tidende*.
 
-3. De viktigste delene av vedtektene som er nevnt i artikkel 10 bokstav b)-f) og i bokstav g) i)-vi), og som inngår i søknaden, skal være vedlagt beslutningen om opprettelse av ERIC-konsortiet.
+3\. De viktigste delene av vedtektene som er nevnt i artikkel 10 bokstav b)-f) og i bokstav g) i)-vi), og som inngår i søknaden, skal være vedlagt beslutningen om opprettelse av ERIC-konsortiet.
 
 ### Art 7. Et ERIC-konsortiums status
 
-1. Et ERIC-konsortium skal være et rettssubjekt fra og med den dagen beslutningen om opprettelse trer i kraft.
+1\. Et ERIC-konsortium skal være et rettssubjekt fra og med den dagen beslutningen om opprettelse trer i kraft.
 
-2. Et ERIC-konsortium skal i alle medlemsstater ha den mest omfattende rettslige handleevnen som tildeles rettssubjekter i henhold til lovgivningen i medlemsstaten. Det kan særlig erverve, eie og avhende løsøre, fast eiendom og immaterialrett, inngå avtaler og være part i en rettssak.
+2\. Et ERIC-konsortium skal i alle medlemsstater ha den mest omfattende rettslige handleevnen som tildeles rettssubjekter i henhold til lovgivningen i medlemsstaten. Det kan særlig erverve, eie og avhende løsøre, fast eiendom og immaterialrett, inngå avtaler og være part i en rettssak.
 
-3. Et ERIC-konsortium er en internasjonal organisasjon i henhold til artikkel 15 bokstav c) i direktiv [2004/18/EF](eu/32004l0018).
+3\. Et ERIC-konsortium er en internasjonal organisasjon i henhold til artikkel 15 bokstav c) i direktiv [2004/18/EF](eu/32004l0018).
 
 ### Art 8. Sete og navn
 
-1. Et ERIC-konsortium skal ha et vedtektsbestemte sete på et av sine medlemmers territorium, enten en medlemsstat eller en assosiert stat.
+1\. Et ERIC-konsortium skal ha et vedtektsbestemte sete på et av sine medlemmers territorium, enten en medlemsstat eller en assosiert stat.
 
-2. Et ERIC-konsortium skal ha et navn som inneholder forkortelsen «ERIC».
+2\. Et ERIC-konsortium skal ha et navn som inneholder forkortelsen «ERIC».
 
 ### Art 9. Kriterier for sammensetning
 
-1. Følgende enheter kan bli medlem av et ERIC-konsortium:medlemsstater,assosierte stater,andre tredjestater enn assosierte stater,mellomstatlige organisasjoner.
+1\. Følgende enheter kan bli medlem av et ERIC-konsortium:medlemsstater,assosierte stater,andre tredjestater enn assosierte stater,mellomstatlige organisasjoner.
 
-2. Et ERIC-konsortium skal ha minst tre medlemsstater som medlemmer. Ytterligere medlemsstater kan når som helst bli medlemmer på rettferdige og rimelige vilkår angitt i vedtektene og observatører uten stemmerett på vilkårene som er angitt i vedtektene. Ytterligere assosierte stater og andre tredjestater enn assosierte stater samt mellomstatlige organisasjoner kan også bli medlemmer av et ERIC-konsortium, forutsatt at medlemsforsamlingen nevnt i artikkel 12 bokstav a) gir sitt samtykke, i samsvar med vilkårene og framgangsmåtene for medlemskap fastsatt i vedtektene.
+2\. Et ERIC-konsortium skal ha minst tre medlemsstater som medlemmer. Ytterligere medlemsstater kan når som helst bli medlemmer på rettferdige og rimelige vilkår angitt i vedtektene og observatører uten stemmerett på vilkårene som er angitt i vedtektene. Ytterligere assosierte stater og andre tredjestater enn assosierte stater samt mellomstatlige organisasjoner kan også bli medlemmer av et ERIC-konsortium, forutsatt at medlemsforsamlingen nevnt i artikkel 12 bokstav a) gir sitt samtykke, i samsvar med vilkårene og framgangsmåtene for medlemskap fastsatt i vedtektene.
 
-3. Medlemsstatene skal i fellesskap inneha flertallet av stemmerettene i medlemsforsamlingen.
+3\. Medlemsstatene skal i fellesskap inneha flertallet av stemmerettene i medlemsforsamlingen.
 
-4. Enhver medlemsstat, assosiert tredjestat eller tredjestat kan, når det gjelder utøvelsen av særlige rettigheter og oppfyllelse av særlige plikter som medlem av ERIC-konsortiet, representeres av en eller flere offentlige enheter, herunder regioner, eller av en eller flere private enheter som har fått et oppdrag om offentlig tjenesteyting.
+4\. Enhver medlemsstat, assosiert tredjestat eller tredjestat kan, når det gjelder utøvelsen av særlige rettigheter og oppfyllelse av særlige plikter som medlem av ERIC-konsortiet, representeres av en eller flere offentlige enheter, herunder regioner, eller av en eller flere private enheter som har fått et oppdrag om offentlig tjenesteyting.
 
-5. Assosierte stater, tredjestater og mellomstatlige organisasjoner som søker om å opprette et ERIC-konsortium eller å bli medlemmer i et, skal anerkjenne at ERIC-konsortiet er et rettssubjekt og har rettslig handleevne i samsvar med artikkel 7 nr. 1 og 2, og at det omfattes av regler fastsatt ved anvendelse av artikkel 15.
+5\. Assosierte stater, tredjestater og mellomstatlige organisasjoner som søker om å opprette et ERIC-konsortium eller å bli medlemmer i et, skal anerkjenne at ERIC-konsortiet er et rettssubjekt og har rettslig handleevne i samsvar med artikkel 7 nr. 1 og 2, og at det omfattes av regler fastsatt ved anvendelse av artikkel 15.
 
-6. Assosierte stater og tredjestater som søker om å opprette et ERIC-konsortium eller bli medlemmer i et, skal samtykke i å behandle ERIC-konsortiet på en måte som tilsvarer den som følger av artikkel 5 nr. 1 bokstav d) og artikkel 7 nr. 3.
+6\. Assosierte stater og tredjestater som søker om å opprette et ERIC-konsortium eller bli medlemmer i et, skal samtykke i å behandle ERIC-konsortiet på en måte som tilsvarer den som følger av artikkel 5 nr. 1 bokstav d) og artikkel 7 nr. 3.
 
 > Endres ved frd. [1261/2013](eu/32013r1261), inntatt nedenfor.
 
@@ -152,15 +192,15 @@ Vedtektene skal være offentlig tilgjengelig på ERIC-konsortiets nettsted og p�
 
 ### Art 11. Endringer av vedtektene
 
-1. ERIC-konsortiet skal framlegge enhver endring av vedtektene som gjelder spørsmål omhandlet i bokstav b)-f) eller i artikkel 10 bokstav g) i)-vi) for Kommisjonen for godkjenning. En slik endring skal ikke tre i kraft før beslutningen om godkjenning har trådt i kraft. Kommisjonen skal anvende artikkel 5 nr. 2 og artikkel 6 tilsvarende.
+1\. ERIC-konsortiet skal framlegge enhver endring av vedtektene som gjelder spørsmål omhandlet i bokstav b)-f) eller i artikkel 10 bokstav g) i)-vi) for Kommisjonen for godkjenning. En slik endring skal ikke tre i kraft før beslutningen om godkjenning har trådt i kraft. Kommisjonen skal anvende artikkel 5 nr. 2 og artikkel 6 tilsvarende.
 
-2. ERIC-konsortiet skal framlegge for Kommisjon enhver vedtektsendring som ikke er nevnt i nr. 1 innen ti dager etter at den er vedtatt.
+2\. ERIC-konsortiet skal framlegge for Kommisjon enhver vedtektsendring som ikke er nevnt i nr. 1 innen ti dager etter at den er vedtatt.
 
-3. Kommisjonen kan gjøre innsigelse mot en slik endring innen 60 dager fra den ble framlagt og skal grunngi hvorfor endringen ikke oppfyller kravene i denne forordning.
+3\. Kommisjonen kan gjøre innsigelse mot en slik endring innen 60 dager fra den ble framlagt og skal grunngi hvorfor endringen ikke oppfyller kravene i denne forordning.
 
-4. Endringen skal ikke tre i kraft før fristen for innsigelse har utløpt eller er opphevet av Kommisjonen, eller før en innsigelse er trukket tilbake.
+4\. Endringen skal ikke tre i kraft før fristen for innsigelse har utløpt eller er opphevet av Kommisjonen, eller før en innsigelse er trukket tilbake.
 
-5. Søknaden om endring skal inneholde følgende:teksten til den foreslåtte eller eventuelt vedtatte endringen, herunder datoen den trer i kraft,den endrede konsoliderte utgaven av vedtektene.
+5\. Søknaden om endring skal inneholde følgende:teksten til den foreslåtte eller eventuelt vedtatte endringen, herunder datoen den trer i kraft,den endrede konsoliderte utgaven av vedtektene.
 
 ### Art 12. ERIC-konsortiets organisasjon
 
@@ -170,55 +210,55 @@ Det skal framgå av vedtektene hvordan styremedlemmene er lovlige representanter
 
 ### Art 13. Budsjettprinsipper, regnskap og revisjon
 
-1. Alle inntekt- og utgiftsposter for et ERIC-konsortium skal inngå i overslag for hvert regnskapsår og skal oppføres i budsjettet. Budsjettets inntekter og utgifter skal være i balanse.
+1\. Alle inntekt- og utgiftsposter for et ERIC-konsortium skal inngå i overslag for hvert regnskapsår og skal oppføres i budsjettet. Budsjettets inntekter og utgifter skal være i balanse.
 
-2. Medlemmene av et ERIC-konsortium skal sikre at bevilgningene brukes i samsvar med prinsippene om god økonomistyring.
+2\. Medlemmene av et ERIC-konsortium skal sikre at bevilgningene brukes i samsvar med prinsippene om god økonomistyring.
 
-3. Budsjettet skal fastsettes og gjennomføres og regnskapet framlegges i samsvar med prinsippet om gjennomsiktighet.
+3\. Budsjettet skal fastsettes og gjennomføres og regnskapet framlegges i samsvar med prinsippet om gjennomsiktighet.
 
-4. Et ERIC-konsortiums regnskap skal ledsages av en rapport om budsjett- og økonomistyringen i regnskapsåret.
+4\. Et ERIC-konsortiums regnskap skal ledsages av en rapport om budsjett- og økonomistyringen i regnskapsåret.
 
-5. Et ERIC-konsortium skal omfattes av kravene i gjeldende lovgivning med hensyn til oppstilling, registrering, revisjon og offentliggjøring av regnskap.
+5\. Et ERIC-konsortium skal omfattes av kravene i gjeldende lovgivning med hensyn til oppstilling, registrering, revisjon og offentliggjøring av regnskap.
 
 ### Art 14. Ansvar og forsikring
 
-1. Et ERIC-konsortium skal være ansvarlig for egen gjeld.
+1\. Et ERIC-konsortium skal være ansvarlig for egen gjeld.
 
-2. Medlemmenes økonomiske ansvar for ERIC-konsortiets gjeld skal være begrenset til deres respektive bidrag til ERIC-konsortiet. Medlemmene kan angi i vedtektene at de vil påta seg et fast ansvar utover sine respektive bidrag eller ubegrenset ansvar.
+2\. Medlemmenes økonomiske ansvar for ERIC-konsortiets gjeld skal være begrenset til deres respektive bidrag til ERIC-konsortiet. Medlemmene kan angi i vedtektene at de vil påta seg et fast ansvar utover sine respektive bidrag eller ubegrenset ansvar.
 
-3. Dersom medlemmenes økonomiske ansvar ikke er ubegrenset, skal ERIC-konsortiet tegne hensiktsmessige forsikringer for å dekke de risikoene som er forbundet med infrastrukturens opprettelse og drift.
+3\. Dersom medlemmenes økonomiske ansvar ikke er ubegrenset, skal ERIC-konsortiet tegne hensiktsmessige forsikringer for å dekke de risikoene som er forbundet med infrastrukturens opprettelse og drift.
 
-4. Fellesskapet skal ikke være ansvarlig for ERIC-konsortiets eventuelle gjeld.
+4\. Fellesskapet skal ikke være ansvarlig for ERIC-konsortiets eventuelle gjeld.
 
 ### Art 15. Gjeldende lovgivning og domsmyndighet
 
-1. Opprettelsen av og den interne virkemåten til et ERIC-konsortium skal styresav Fellesskapets regelverk, særlig denne forordning, og beslutningene nevnt i artikkel 6 nr. 1 bokstav a) og artikkel 11 nr. 1,av lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete i saker som ikke eller bare delvis reguleres av rettsaktene nevnt i bokstav a),av vedtektene og gjennomføringsreglene for dem.
+1\. Opprettelsen av og den interne virkemåten til et ERIC-konsortium skal styresav Fellesskapets regelverk, særlig denne forordning, og beslutningene nevnt i artikkel 6 nr. 1 bokstav a) og artikkel 11 nr. 1,av lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete i saker som ikke eller bare delvis reguleres av rettsaktene nevnt i bokstav a),av vedtektene og gjennomføringsreglene for dem.
 
-2. De europeiske fellesskaps domstol skal ha domsmyndighet i tvister mellom medlemmene når det gjelder ERIC-konsortiet, mellom medlemmene og ERIC-konsortiet og i eventuelle tvister som Fellesskapet er del i.
+2\. De europeiske fellesskaps domstol skal ha domsmyndighet i tvister mellom medlemmene når det gjelder ERIC-konsortiet, mellom medlemmene og ERIC-konsortiet og i eventuelle tvister som Fellesskapet er del i.
 
-3. Fellesskapets regelverk om domsmyndighet får anvendelse i tvister mellom et ERIC-konsortium og tredjemenn. I saker som ikke omfattes av Fellesskapets regelverk, skal lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete avgjøre hvilken domsmyndighet som skal avgjøre slike tvister.
+3\. Fellesskapets regelverk om domsmyndighet får anvendelse i tvister mellom et ERIC-konsortium og tredjemenn. I saker som ikke omfattes av Fellesskapets regelverk, skal lovgivningen i den staten der ERIC-konsortiet har sitt vedtektsbestemte sete avgjøre hvilken domsmyndighet som skal avgjøre slike tvister.
 
 ### Art 16. Avvikling og insolvens
 
-1. Den framgangsmåten som skal benyttes ved avvikling av et ERIC-konsortium etter beslutning i medlemsforsamlingen, skal fastsettes i vedtektene. Avvikling kan omfatte overføring av virksomhet til et annet rettssubjekt.
+1\. Den framgangsmåten som skal benyttes ved avvikling av et ERIC-konsortium etter beslutning i medlemsforsamlingen, skal fastsettes i vedtektene. Avvikling kan omfatte overføring av virksomhet til et annet rettssubjekt.
 
-2. Når medlemsforsamlingen har truffet en beslutning om å avvikle et ERIC-konsortium, skal ERIC-konsortiet så snart som mulig og innen ti dager etter en slik beslutning, underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*.
+2\. Når medlemsforsamlingen har truffet en beslutning om å avvikle et ERIC-konsortium, skal ERIC-konsortiet så snart som mulig og innen ti dager etter en slik beslutning, underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*.
 
-3. Når framgangsmåten for avvikling er avsluttet, skal ERIC-konsortiet så snart som mulig og innen ti dager etter avslutningen, underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*. ERIC-konsortiet skal oppløses den dagen meldingen publiseres.
+3\. Når framgangsmåten for avvikling er avsluttet, skal ERIC-konsortiet så snart som mulig og innen ti dager etter avslutningen, underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*. ERIC-konsortiet skal oppløses den dagen meldingen publiseres.
 
-4. Dersom et ERIC-konsortium ikke er i stand til å betale egen gjeld, skal det umiddelbart underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*.
+4\. Dersom et ERIC-konsortium ikke er i stand til å betale egen gjeld, skal det umiddelbart underrette Kommisjonen om dette. Kommisjonen skal offentliggjøre en egnet melding i C-serien av *Den europeiske unions tidende*.
 
 ### Art 17. Rapportering og kontroll
 
-1. Et ERIC-konsortium skal utarbeide en årlig virksomhetsrapport som særlig skal inneholde konsortiets vitenskapelige, driftsmessige og økonomiske virksomhet nevnt i artikkel 3. Rapporten skal godkjennes av medlemsforsamlingen og sendes til Kommisjonen og vedkommende offentlige myndigheter innen seks måneder etter utgangen av det regnskapsåret rapporten gjelder. Rapporten skal offentliggjøres.
+1\. Et ERIC-konsortium skal utarbeide en årlig virksomhetsrapport som særlig skal inneholde konsortiets vitenskapelige, driftsmessige og økonomiske virksomhet nevnt i artikkel 3. Rapporten skal godkjennes av medlemsforsamlingen og sendes til Kommisjonen og vedkommende offentlige myndigheter innen seks måneder etter utgangen av det regnskapsåret rapporten gjelder. Rapporten skal offentliggjøres.
 
-2. Et ERIC-konsortium og de berørte medlemsstater skal underrette Kommisjonen om eventuelle forhold som kan føre til at det oppstår alvorlig fare for at ERIC-konsortiet ikke kan utføre sine oppgaver, eller som kan hindre det i å oppfylle kravene fastsatt i denne forordning.
+2\. Et ERIC-konsortium og de berørte medlemsstater skal underrette Kommisjonen om eventuelle forhold som kan føre til at det oppstår alvorlig fare for at ERIC-konsortiet ikke kan utføre sine oppgaver, eller som kan hindre det i å oppfylle kravene fastsatt i denne forordning.
 
-3. Dersom Kommisjonen får mistanke om at et ERIC-konsortium alvorlig misligholder denne forordning, beslutninger som er truffet på grunnlag av denne eller annen gjeldende lovgivning eller regelverk, skal Kommisjonen anmode om forklaring fra ERIC-konsortiet og/eller dets medlemmer.
+3\. Dersom Kommisjonen får mistanke om at et ERIC-konsortium alvorlig misligholder denne forordning, beslutninger som er truffet på grunnlag av denne eller annen gjeldende lovgivning eller regelverk, skal Kommisjonen anmode om forklaring fra ERIC-konsortiet og/eller dets medlemmer.
 
-4. Dersom Kommisjonen, etter å ha gitt ERIC-konsortiet og/eller dets medlemmer en rimelig frist til å framlegge sine synspunkter, konkluderer med at ERIC-konsortiet alvorlig misligholder denne forordning, beslutninger som er truffet på grunnlag av den eller annen gjeldende lovgivning eller regelverk, kan Kommisjonen foreslå korrigerende tiltak for ERIC-konsortiet og dets medlemmer.
+4\. Dersom Kommisjonen, etter å ha gitt ERIC-konsortiet og/eller dets medlemmer en rimelig frist til å framlegge sine synspunkter, konkluderer med at ERIC-konsortiet alvorlig misligholder denne forordning, beslutninger som er truffet på grunnlag av den eller annen gjeldende lovgivning eller regelverk, kan Kommisjonen foreslå korrigerende tiltak for ERIC-konsortiet og dets medlemmer.
 
-5. Dersom det ikke treffes korrigerende tiltak, kan Kommisjonen oppheve beslutningen om opprettelse av ERIC-konsortiet etter framgangsmåten nevnt i artikkel 20. En slik beslutning skal underrettes ERIC-konsortiet og offentliggjøres i L-serien av *Den europeiske unions tidende*. Dette skal føre til at ERIC-konsortiet avvikles.
+5\. Dersom det ikke treffes korrigerende tiltak, kan Kommisjonen oppheve beslutningen om opprettelse av ERIC-konsortiet etter framgangsmåten nevnt i artikkel 20. En slik beslutning skal underrettes ERIC-konsortiet og offentliggjøres i L-serien av *Den europeiske unions tidende*. Dette skal føre til at ERIC-konsortiet avvikles.
 
 ### Art 18. Egnede bestemmelser
 
@@ -230,9 +270,9 @@ Kommisjonen skal senest 27. juli 2014 framlegge for Europaparlamentet og Rådet 
 
 ### Art 20. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av en forvaltningskomité.
+1\. Kommisjonen skal bistås av en forvaltningskomité.
 
-2. Når det vises til dette nummer, får artikkel 4 og 7 i beslutning 1999/468/EF anvendelse.Tidsrommet fastsatt i artikkel 4 nr. 3 i beslutning 1999/468/EF skal være to måneder.
+2\. Når det vises til dette nummer, får artikkel 4 og 7 i beslutning 1999/468/EF anvendelse.Tidsrommet fastsatt i artikkel 4 nr. 3 i beslutning 1999/468/EF skal være to måneder.
 
 ### Art 21. Ikrafttredelse
 
@@ -244,6 +284,24 @@ Utferdiget i Luxembourg, 25. juni 2009.
 
 ## EØS-avtalen protokoll 31 artikkel 1 nr. 12 (forordning (EF) nr. 1261/2013 av 2. desember 2013 om endring av forordning (EF) nr. 723/2009 om Fellesskapets rettslige ramme for et konsortium for en europeisk forskningsinfrastruktur (ERIC-konsortium))
 
+Teksten er hentet fra [Prop. 157 L (2014–2015)](forarbeid/prop-157-l-201415). Det er ikke foretatt noen «EØS-tilpasning» av forordningsteksten.
+
+Rådet for Den europeiske union har –
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 187 og 188,
+
+under henvisning til forslag fra Europakommisjonen,
+
+etter oversending av utkast til regelverksakt til de nasjonale forsamlingene,
+
+under henvisning til uttalelse fra Europaparlamentet,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+under henvisning til uttalelse fra Regionkomiteen og
+
+ut fra følgende betraktninger:
+
 1. Ved rådsforordning [(EF) nr. 723/2009](eu/32009r0723)2 er det fastsatt en rettslig ramme med kravene til og framgangsmåtene for samt virkningen av å opprette et konsortium for europeisk forskningsinfrastruktur (ERIC-konsortium).
 2. Støtten til og utviklingen av forskningsinfrastrukturer i Europa har vært et løpende mål for Unionen, sist gjenspeilet i europaparlaments- og rådsbeslutning nr. [1982/2006/EC](eu/32006d1982),3 og særlig i rådsbeslutning [2006/974/EF](eu/32006d0974).4
 3. Det europeiske strategiforum for forskningsinfrastrukturer (ESFRI) og refleksjonsgruppen for e-infrastruktur (e-IRG) har utarbeidet og ajourført den første europeiske kjøreplan for forskningsinfrastrukturer.
@@ -251,6 +309,16 @@ Utferdiget i Luxembourg, 25. juni 2009.
 5. Medlemskap i et ERIC-konsortium er åpent for medlemsstater, assosierte stater, andre tredjestater enn assosierte stater og mellomstatlige organisasjoner.
 6. Assosierte stater spiller en viktig rolle i forberedelsen og gjennomføringen av europeiske forskningsinfrastrukturer og bør kunne delta i ERIC-konsortier på samme vilkår som medlemsstatene, ettersom de gjennom sin støtte bidrar til fremragende EU-forskning og Unionens økonomiske konkurranseevne.
 7. For å lette de assosierte statenes deltaking i ERIC-konsortier bør artikkel 9 nr. 2) og 3) i forordning [(EF) nr. 723/2009](eu/32009r0723) endres, slik at de assosierte statenes bidrag fullt ut kan gjenspeiles i medlemskap og stemmeretter –
+
+1 EUT C 161 av 6.6 2013, s. 58.
+
+2 Rådsforordning [(EF) nr. 723/2009](eu/32009r0723) av 25. juni 2009 om Fellesskapets rettslige ramme for et konsortium for en europeisk forskningsinfrastruktur (ERIC-konsortium) (EUT L 206, av 8.8.2009, s. 1).
+
+3 Europaparlaments- og rådsbeslutning nr. [1982/2006/EF](eu/32006d1982) av 18. desember 2006 om Det europeiske fellesskaps sjuende rammeprogram for forskning, teknologisk utvikling og demonstrasjon (2007–2013) (EUT L 412 av 30.12.2006, s. 1).
+
+4 Rådsbeslutning [2006/974/EF](eu/32006d0974) av 19. desember 2006 om særprogrammet «Kapasitet» for gjennomføring av Det europeiske fellesskaps sjuende rammeprogram for forskning, teknologisk utvikling og demonstrasjon (2007–2013) (EUT L 54 av 22.2.2007, s. 101).
+
+vedtatt denne forordning:
 
 ### Art 1
 

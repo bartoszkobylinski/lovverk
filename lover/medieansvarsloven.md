@@ -114,6 +114,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de en
 
 Fra den tid loven trer i kraft, oppheves [lov 13. juni 2008 nr. 41](lov/2008-06-13-41) om redaksjonell fridom i media.
 
+1 Fra 1 juli 2020 iflg. [res. 29 mai 2020 nr. 1107](forskrift/2020-05-29-1107).
+
 ### § 15. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

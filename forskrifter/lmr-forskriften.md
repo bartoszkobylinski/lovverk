@@ -114,6 +114,12 @@ Mottakeren må ikke offentliggjøre resultatet av behandlingen av opplysningene 
 
 Forskriften trer i kraft fra den tiden departementet bestemmer.1 Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tid.
 
+1 Trer i kraft 15 april 2021 med unntak av [§ 5-2](forskrift/2021-03-26-969/§5-2) nr. 1, jf. vedtak [8 april 2021 nr. 1110](forskrift/2021-04-08-1110).
+
 ### § 5-2. Endringer i andre forskrifter
 
 Fra den tiden departementet bestemmer, gjøres følgende endringer i andre forskrifter:
+
+1\. [Forskrift 17. oktober 2003 nr. 1246 om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister](forskrift/2003-10-17-1246), oppheves.
+
+2\. I [forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter](forskrift/2007-12-21-1610), gjøres følgende endringer: – – –

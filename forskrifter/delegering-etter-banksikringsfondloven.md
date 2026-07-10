@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet etter lov om Statens Banksikringsfond til Finans- og tolldepartementet.
 
 Kongens myndighet etter [lov av 15. mars 1991 nr. 2](lov/1991-03-15-2) om Statens Banksikringsfond, § 21 annet ledd første setning, etter § 101 om i forskrift å fastsette nærmere regler om Fondet, dets virksomhet og administrasjon samt Kongens myndighet i henhold til lovvedtakets del III om ikrafttredelse delegeres til Finans- og tolldepartementet.
+
+1 Skal vel være §§ 3 og 11.

@@ -188,7 +188,16 @@ Eksamen gjennomføres i henhold til de eksamens- og vurderingsformer som er fast
 
 (2) Vurderingsuttrykket «bestått» eller «ikke bestått» er en separat vurderingsskala og skal ikke kobles til et trinn i vurderingsuttrykket A–F. For å oppnå «bestått» skal kandidaten ha oppnådd kravene til læringsutbytte og viser nødvendig kunnskap, ferdighet og kompetanse.
 
-(3) Fagskolen Kristiania har fastsatt følgende generelle beskrivelser for graderte karakterskala:AFremragende Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget god Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGod Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså god En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkelig Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke bestått Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(3) Fagskolen Kristiania har fastsatt følgende generelle beskrivelser for graderte karakterskala:
+
+|  |  |
+| --- | --- |
+| A | Fremragende Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått Prestasjon som ikke tilfredsstiller minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 ### § 4-3. Vitnemål
 

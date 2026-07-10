@@ -588,11 +588,17 @@ Retten kan tillate at andre personer med utenlandsk advokatbevilling enn persone
 
 ## Forskrift om advokater og andre som yter rettslig bistand vedlegg 1 – Regler for God Advokatskikk
 
+1\.
+
 Innledning
+
+1.1
 
 Reglenes formål
 
 Regler for god advokatskikk har som formål å sikre at advokatvirksomhet utføres etter etiske prinsipper som er grunnlag for advokatens virke i alle siviliserte rettssamfunn. Brudd på reglene er grunnlag for disiplinære følger for advokaten.
+
+1.2
 
 Advokatens oppgave
 
@@ -606,39 +612,65 @@ Advokaten plikter både å være rådgiver og talsperson for sin klient.
 
 Advokaten avgjør selv om han eller hun vil påta seg et oppdrag.
 
+1.3
+
 Advokatens opptreden
 
 En advokat skal i sitt virke opptre saklig og korrekt. Advokaten må unngå en opptreden som er egnet til å skade profesjonens og yrkets anseelse.
 
+2\.
+
 Alminnelige prinsipper
+
+2.1
 
 Uavhengighet
 
+2.1.1
+
 For å leve opp til forpliktelsene som en advokat påtar seg, er det nødvendig at advokaten er uavhengig slik at hans eller hennes råd og handlinger ikke påvirkes av uvedkommende hensyn. Særlig er det påkrevet at advokaten ikke lar seg påvirke av egne personlige interesser eller press utenfra. Advokaten må unngå at egen uavhengighet svekkes og må ikke gå på akkord med sin profesjonelle standard for å tekkes sin klient, retten eller tredjepart.
+
+2.1.2
 
 En advokat må ikke påta seg oppdrag hvor advokatens personlige økonomiske interesser kan komme i konflikt med klientens interesser eller ha innflytelse på hans eller hennes frie og uavhengige stilling som advokat.
 
 En advokat må ikke gjøre seg økonomisk interessert i utfallet av et oppdrag ved at klientens krav eller en del av dette overtas av advokaten. Advokaten må ikke påta seg kausjon for klienten. En advokat som representerer egne økonomiske interesser helt eller delvis – plikter å gjøre sine medkontrahenter og andre interesserte oppmerksom på dette.
 
+2.1.3
+
 En advokat må ikke organisere sin virksomhet på en måte som medfører at advokaten ikke fritt og uavhengig kan rådgi og bistå sine klienter eller slik at egen uavhengighet på annen måte blir svekket.
+
+2.2
 
 Tillitsforhold
 
 I sin virksomhet er advokaten avhengig av tillit som bare kan oppnås når advokatens hederlighet og integritet er hevet over tvil.
 
+2.3
+
 Fortrolighet
+
+2.3.1
 
 Det er av sentral betydning for advokatens virke at klienter og andre kan gi advokaten opplysninger som advokaten er forpliktet til ikke å meddele videre. Advokatens plikt til å behandle opplysningene fortrolig er en nødvendig forutsetning for tillit og er derfor en grunnleggende og overordnet rett og plikt for advokaten.
 
 Advokatens plikt til å bevare taushet om opplysninger han eller hun mottar, fremmer rettspleien så vel som klientens interesser og har derfor krav på en særlig beskyttelse fra statens side.
 
+2.3.2
+
 En advokat skal overholde den taushetsplikt som advokaten er pålagt gjennom lovgivningen.
 
 Opplysninger advokaten blir kjent med i sitt virke som advokat, må behandles fortrolig også når opplysningene ikke omfattes av den lovbestemte taushetsplikten. Plikten til fortrolighet er ikke tidsbegrenset.
 
+2.3.3
+
 Advokaten skal kreve at advokatfullmektiger, personale og enhver person som engasjeres i forbindelse med advokatvirksomheten, overholder den samme taushets- og fortrolighetsplikt.
 
+2.4
+
 Advokatens reklame og forhold til media
+
+2.4.1
 
 En advokats reklame skal i form og innhold være saklig og korrekt og følgelig ikke inneholde noe som er uriktig, misvisende eller villedende.
 
@@ -646,55 +678,89 @@ Det er tillatt å fremheve ett eller flere fagfelt innenfor advokatvirksomheten 
 
 Advokaten bør medvirke til å fremme objektiv informasjon om sitt yrke på en slik måte at dette kommer advokatprofesjonen og det rettssøkende publikum til gode.
 
+2.4.2
+
 En advokat plikter ved enhver omtale av rettssaker å ta tilbørlig hensyn til partenes interesser og domstolens verdighet, herunder hindre faren for påvirkning av dommere, meddommere og vitner. Advokaten skal vise særskilt tilbakeholdenhet når det gjelder medieomtale av forestående eller verserende rettssaker der advokaten selv er eller har vært engasjert.
 
 I ethvert tilfelle der en advokat uttaler seg i en sak der vedkommende har eller har hatt oppdrag, må det gjøres uttrykkelig oppmerksom på dette.
 
+3\.
+
 Forholdet til klienten
 
+3.1
+
 Aksept, gjennomføring og avslutning av oppdrag
+
+3.1.1
 
 En advokat må ikke påta seg oppdrag uten etter anmodning direkte fra klienten, fra en annen advokat på en klients vegne eller fra et kompetent organ.
 
 Påtar en advokat seg et oppdrag i tilknytning til en økonomisk transaksjon skal advokaten undersøke identiteten til klienten eller medhjelper som advokaten påtar seg oppdrag for.
 
+3.1.2
+
 En advokat skal gi råd til klienten og ivareta klientens interesser raskt, samvittighetsfullt og påpasselig. Advokaten er personlig ansvarlig for å utføre de oppgaver han eller hun påtar seg. Advokaten skal holde klienten underrettet om sakens gang.
 
+3.1.3
+
 En advokat skal søke å oppnå minnelige ordninger i den utstrekning klientens interesser tilsier det.
+
+3.1.4
 
 En advokat skal ikke påta seg et oppdrag når advokaten vet eller bør vite at han eller hun mangler den nødvendige kompetanse. Dette gjelder likevel ikke hvis advokaten innen rimelig tid sørger for å skaffe seg den kunnskap eller innhente den kompetanse som er nødvendig for en faglig forsvarlig utførelse av oppdraget.
 
 En advokat bør ikke påta seg nye saker dersom øvrig arbeidsbelastning gjør at sakene ikke kan bli behandlet med rimelig hurtighet.
 
+3.1.5
+
 Hvis omkostningene i forbindelse med et oppdrag må antas å bli uforholdsmessig høye i forhold til klientens økonomiske stilling eller de interesser saksforholdet gjelder, skal advokaten i tide gjøre klienten oppmerksom på dette. Før en advokat engasjerer en annen advokat, sakkyndig eller andre i anledning av et oppdrag bør klientens samtykke innhentes.
+
+3.1.6
 
 En advokat som har påtatt seg et oppdrag, plikter å fullføre det hvis klienten ønsker dette, med mindre det viser seg:at advokaten har fått feilaktige eller ufullstendige opplysningerat klienten ikke vil følge advokatens råd i sakenat klienten ikke på anmodning betaler forskudd eller stiller sikkerhet for salær og omkostningerat klienten ikke på anmodning betaler a konto-regning for utført arbeid og/eller påløpte omkostningerat klienten forårsaker eller medvirker til offentliggjøring i strid med advokatens anmodning om å avstå fra slik offentliggjøring, ellerat det inntreffer slike omstendigheter at det ikke med rimelighet kan forlanges at advokaten fortsetter oppdraget.
 
 Før advokaten frasier seg et oppdrag, plikter han eller hun å utføre det som ikke kan utstå uten at klienten utsettes for rettstap.
 
+3.1.7
+
 En advokat har rett til å nekte å utlevere dokumenter som advokaten har fått i sin besittelse i forbindelse med et oppdrag, så lenge klienten ikke har dekket advokatens utestående krav for utlegg og salær i vedkommende sak. Det gjelder likevel ikke når og så langt som tilbakeholdelsen vil medføre rettstap. Er kravet omtvistet kan Advokatnemndas leder eller den leder oppnevner, bestemme hvor stor del av kravet som skal dekkes, og at resten kan deponeres eller sikres på de betingelser vedkommende fastsetter.
+
+3.1.8
 
 En advokat skal frasi seg et oppdrag hvis advokaten får mistanke om at det omfatter en transaksjon som vil medføre hvitvasking av penger og klienten ikke er villig til å avstå fra å gjennomføre transaksjonen.
 
+3.2
+
 Interessekonflikter
+
+3.2.1
 
 (Hovedregel)
 
 En advokat skal ikke påta seg oppdrag hvis det som følge av oppdraget oppstår risiko for brudd på advokatens lojalitet og fortrolighet overfor klientene eller brudd på advokatens plikt til uavhengighet.
 
+3.2.2
+
 (Dobbeltrepresentasjon)
 
 I samme sak må ikke en advokat rådgi, representere eller handle på vegne av to eller flere klienter hvis det foreligger eller oppstår motstridende interesser mellom dem i saken eller det er en klar risiko for dette.
 
+3.2.3
+
 (Klientkollisjon)
 
 En advokat kan bare ta oppdrag for en klient mot en av advokatens øvrige klienter dersom det må anses klart ubetenkelig som følge av oppdragenes forskjellige art eller type klient. Advokaten skal underrette oppdragsgiveren om forholdet.
+
+3.2.4
 
 (Oppdrag mot tidligere klient)
 
 En advokat skal være varsom med å ta oppdrag mot en tidligere klient.
 
 Advokaten skal avstå fra å påta seg oppdrag mot en tidligere klient dersom advokatens kjennskap til den tidligere klients forhold vil kunne brukes til urettmessig fordel for den nye klient eller medføre skade for den tidligere klient.
+
+3.2.5
 
 (Betydningen av klientens samtykke)
 
@@ -706,25 +772,41 @@ Et samtykke fra klienten er bare gyldig dersom det er gitt på grunnlag av en he
 
 En advokat som med klientenes uttrykkelige samtykke opptrer som mekler eller voldgiftsdommer mellom to eller flere klienter med motstridende interesser, skal ikke anses for å overtre reglene i punkt 3.2. Dersom meklingen ikke fører til en løsning av tvisten, kan advokaten ved tvistens videre behandling ikke representere noen av partene.
 
+3.2.6
+
 (Reglenes anvendelse på fellesskap)
 
 Driver en advokat virksomhet i selskap, kontorfellesskap eller lignende fellesskap, gjelder reglene i 3.2.1–3.2.5 om interessekonflikter for fellesskapet og alle dets deltakere.
 
+3.3
+
 Salærberegning
 
+3.3.1
+
 Klienten har krav på å få opplyst hvordan advokaten har beregnet sitt salær. Salæret skal stå i rimelig forhold til oppdraget og arbeidet som er utført av advokaten.
+
+3.3.2
 
 En advokat må ikke inngå avtale med klienter eller andre om at advokaten skal motta salær beregnet som prosent eller andel av sakens resultat eller gjenstand, enten dette gjelder et pengebeløp eller annen form for vederlag.
 
 Unntak fra denne regel kan bare finne sted i de tilfeller der lovgivningen eller offentlige forskrifter hjemler slik adgang.
 
+3.3.3
+
 En advokat må ikke inngå avtale med klienter eller andre om at advokaten skal motta salær i form av aksjer eller andre eierandeler i selskap hvor aksjenes eller andelenes verdi vil bli påvirket av resultatet i saken. Heller ikke i andre tilfeller må det inngås avtale om en slik oppgjørsform hvis dette vil kunne påvirke advokatens frie og uavhengige stilling under utførelsen av oppdraget.
 
+3.3.4
+
 Hvis en advokat krever forskuddsbetaling av salær og/eller utlegg, må slik betaling ikke overstige det beløpet som etter rimelig skjønn vil kunne medgå til å dekke salær og utlegg.
+
+3.4
 
 Rettshjelpsordninger
 
 En advokat plikter å opplyse sin klient om eksisterende muligheter for offentlig rettshjelp og rettshjelpforsikring.
+
+3.5
 
 Klientmidler
 
@@ -732,15 +814,23 @@ Klientmidler skal behandles i henhold til Justisdepartementets forskrift om beha
 
 En advokat som blir bedt om å forvalte midler, skal ikke motta eller håndtere midler som ikke har en navngitt kilde.
 
+3.6
+
 Ansvarsforsikring for advokaten
 
 Advokaten skal til enhver tid være ansvarsforsikret mot erstatningskrav som retter seg mot hans eller hennes yrkesutøvelse under hensyn til virksomhetens art og omfang.
 
+4\.
+
 Advokatens forhold til domstolene og andre konfliktløsende organer
+
+4.1
 
 Opptreden overfor retten
 
 En advokat skal opptre korrekt i henhold til prosesslovgivningen. Advokaten skal vise retten respekt og høflighet, men samtidig forsvare sin klients interesser ærlig, uten frykt og uten hensyn til egne interesser eller konsekvenser for seg eller andre. Advokaten har både rett og plikt til å utøve kritikk av retten i en sømmelig form.
+
+4.2
 
 Rettferdig rettergang
 
@@ -748,13 +838,19 @@ Enhver sak skal opplyses ved åpen og saklig bevisførsel og ved prosedyre for d
 
 En advokat skal ikke bevisst gi uriktige eller villedende opplysninger til retten.
 
+4.3
+
 Aktiv innsats
 
 En advokat plikter å sette seg ordentlig inn i saken og drive denne med den omsorg og det tempo som god prosesskikk tilsier. Forespørsler, anmodninger og pålegg fra retten skal besvares uten unødig opphold.
 
+4.4
+
 Forsvarlig oppdragsmengde
 
 En advokat bør påse at oppdragsmengden ikke utvikler seg slik at det hindrer advokaten i å oppfylle et rimelig krav til tempo under saksforberedelse, eller til å kunne ta berammelse av rettsmøter i løpende saker.
+
+4.5
 
 Forlikstilbud
 
@@ -762,21 +858,31 @@ En advokat må i en prosess ikke uten motpartens samtykke påberope seg forlikst
 
 En advokat har alltid adgang til å påberope seg forlikstilbud som advokaten selv har fremsatt, hvis det ikke er sluttet avtale om noe annet. Forutsetningen er likevel at egne forlikstilbud fremsettes i en slik form at eventuelle forlikstilbud fra motparten eller dennes advokat ikke røpes.
 
+4.6
+
 Forhold til vitner og sakkyndige mv.
 
 En advokat har adgang til å henvende seg til enhver som kan tenkes å ha opplysninger å gi av betydning for en sak, uansett om vedkommende allerede er oppgitt av motparten som vitne. Gjelder det vitner som har særlig tilknytning til motparten, bør henvendelse ikke skje uten at motpartens advokat er varslet på forhånd.
 
 I sivil tvist bør henvendelse til oppnevnt sakkyndig skje gjennom retten. Direkte henvendelse kan likevel skje hvis det etter forholdene er ubetenkelig og en henvendelse gjennom retten byr på vanskeligheter. Retten og motparten må i så fall samtidig underrettes om henvendelsen og må også meddeles svaret.
 
+4.7
+
 Saker hvor advokaten kan bli ført som vitne
 
 En advokat bør vise varsomhet med å motta verv som prosessfullmektig i en sak hvor det på forhånd må anses sannsynlig at advokaten vil kunne bli ført som vitne i saken.
+
+4.8
 
 Voldgiftsrett og andre konfliktløsende organer
 
 Reglene om advokatenes forhold til domstolene i 4.1 til 4.6 gjelder tilsvarende så langt de passer i sak for voldgiftsrett og andre konfliktløsende organer.
 
+5\.
+
 Forholdet mellom advokater
+
+5.1
 
 Kollegial tillit
 
@@ -784,39 +890,59 @@ Kollegial tillit og samarbeid mellom advokater er nødvendig så vel i klientene
 
 Overfor kolleger skal en advokat alltid opptre med den hensynsfullhet og imøtekommenhet som er forenlig med klientens interesse.
 
+5.2
+
 Henvisningshonorar
 
 En advokat skal verken av advokater eller andre kreve eller motta noen form for honorar eller vederlag for å henvise eller anbefale en klient. Advokaten skal heller ikke betale noen form for honorar eller vederlag for å få henvist en klient til seg.
+
+5.3
 
 Henvendelser til motpart
 
 En advokat skal ikke henvende seg direkte til motparten når denne er representert ved advokat i den sak henvendelsen gjelder, uten at sterke grunner taler for det og det ikke har vært mulig å få kontakt med advokaten. Motpartens advokat skal snarest orienteres om henvendelsen og grunnen til den.
 
+5.4
+
 Tvist mellom advokater
 
 Hvis en advokat finner at en kollega har handlet i strid med regler for god advokatskikk, skal advokaten gjøre kollegaen oppmerksom på dette. Kritikk av kollegers arbeid må være saklig og korrekt. Tvister mellom advokater av yrkesmessig karakter bør søkes løst i minnelighet. Rettssak om forhold som nevnt ovenfor mot utenlandsk kollega bør ikke innledes før de respektive advokatorganisasjonene er blitt orientert og har hatt mulighet for å bidra til en løsning av tvisten.
+
+5.5
 
 Utilbørlig påvirkning
 
 En advokat må ikke reise spørsmål om ansvar for en kollega, for derved å søke å påvirke kollegaens forsvarlige ivaretakelse av klientens interesser.
 
+5.6
+
 Opplæring
 
 For å opprettholde og styrke advokatprofesjonens faglige og etiske standard plikter en advokat å sørge for at advokatens ansatte får nødvendig opplæring og utviklingsmuligheter.
+
+5.7
 
 Advokatfullmektig
 
 Mellom advokat og advokatfullmektig skal det være et reelt ansettelsesforhold. Advokatfullmektigen skal arbeide på prinsipalens kontor. Det skal foreligge et skriftlig kontraktsforhold hvor advokatfullmektigen blant annet sikres en fast rimelig avlønning. Prinsipalen må føre tilsyn med advokatfullmektigens virksomhet, og sørge for at vedkommende får forsvarlig veiledning i sitt arbeid.
 
+5.8
+
 Skifte av advokat
 
 En advokat som engasjeres for å representere en klient til erstatning for en annen advokat i en bestemt sak, skal påse at klienten har underrettet den andre advokaten om dette, eventuelt selv gi slik underretning. Dersom klientens interesser krever at det iverksettes hastetiltak, må slik underretning skje snarest mulig etter at slike tiltak er truffet.
+
+5.9
 
 Ansvar for honorar til utenlandsk advokat
 
 Når en advokat selv engasjerer en utenlandsk advokat til en bestemt sak eller søker dennes råd, blir advokaten personlig forpliktet, selv om klienten er insolvent, til å betale den utenlandske advokats honorar og utlegg. Advokatene kan imidlertid ved engasjementets begynnelse avtale særordninger i slike saker. Dessuten kan den advokat som har engasjert en annen, til enhver tid begrense sitt personlige ansvar til størrelsen av det honorar og utlegg som er påløpt frem til det tidspunkt advokaten meddeler den andre advokat at han eller hun ikke lenger påtar seg ansvar. Et slikt ansvar gjelder ikke i de tilfeller advokaten begrenser seg til å anbefale en annen advokat eller til å introdusere advokaten for klienten.
 
+6\.
+
 Regler for advokatvirksomhet over landegrensene
+
+6.1
 
 Forholdet til CCBE Code of Conduct
 

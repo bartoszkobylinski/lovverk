@@ -727,6 +727,9 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 > Endret ved lov [21 juni 2024 nr. 42](lov/2024-06-21-42) (i kraft 1 nov 2024 iflg. [res. 11 okt 2024 nr. 2454](forskrift/2024-10-11-2454)).
 
+1 Fra 1 jan 2021 med unntak av [§ 16-3](lov/2020-11-20-128/§16-3) nr. 10 (endringene i [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov/2007-06-29-75)) iflg. [res. 20 nov 2020 nr. 2420](forskrift/2020-11-20-2420).
+Fra 1. mai 2021 for [§ 16-3](lov/2020-11-20-128/§16-3) nr. 10, endringene i [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel (verdipapirhandelloven), iflg. res. [9 april 2021 nr. 1104](forskrift/2021-04-09-1104).
+
 ### § 16-2. Overgangsregler
 
 (1) En person som ved lovens ikrafttredelse er godkjent som registrert revisor, jf. [lov 15. januar 1999 nr. 2 om revisjon og revisorer kapittel 3](lov/1999-01-15-2/kap3), er fra dette tidspunktet statsautorisert revisor.
@@ -740,3 +743,29 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 ### § 16-3. Endringer i andre lover
 
 Følgende endringer gjøres i andre lover:
+
+**1**. I [lov 7. desember 1956 nr. 1](lov/1956-12-07-1) om tilsynet med finansforetak mv. gjøres følgende endringer: – – –
+
+**2**. I [lov 21. juni 1985 nr. 78](lov/1985-06-21-78) om registrering av foretak skal [§ 3-1](lov/1985-06-21-78/§3-1) første ledd nr. 8 første punktum lyde: – – –
+
+**3**. I [lov 21. juni 1985 nr. 83](lov/1985-06-21-83) om ansvarlige selskaper og kommandittselskaper skal [§ 2-13](lov/1985-06-21-83/§2-13) nytt sjette ledd lyde: – – –
+
+**4**. I [lov 30. august 1991 nr. 71](lov/1991-08-30-71) om statsforetak skal [§ 43](lov/1991-08-30-71/§43) nytt annet ledd lyde: – – –
+
+**5**. I [lov 13. juni 1997 nr. 44](lov/1997-06-13-44) om aksjeselskaper gjøres følgende endringer: – – –
+
+**6**. I [lov 13. juni 1997 nr. 45](lov/1997-06-13-45) om allmennaksjeselskaper gjøres følgende endringer: – – –
+
+**7**. I [lov 17. juli 1998 nr. 56](lov/1998-07-17-56) om årsregnskap m.v. skal [§ 3-3a](lov/1998-07-17-56/§3-3a) ellevte ledd lyde: – – –
+
+**8**. I [lov 15. juni 2001 nr. 59](lov/2001-06-15-59) om stiftelser skal ny [§ 44 a](lov/2001-06-15-59/§44a) i [kapittel 5](lov/2001-06-15-59/kap5) lyde: – – –
+
+**9**. I [lov 19. november 2004 nr. 73](lov/2004-11-19-73) om bokføring skal [§ 13](lov/2004-11-19-73/§13) første ledd nr. 4 lyde: – – –
+
+**10**. I [lov 29. juni 2007 nr. 75](lov/2007-06-29-75) om verdipapirhandel gjøres følgende endringer: – – –
+
+**11**. I [lov 29. juni 2007 nr. 81](lov/2007-06-29-81) om samvirkeforetak skal ny [§ 101 a](lov/2007-06-29-81/§101a) i [kapittel 7](lov/2007-06-29-81/kap7) lyde: – – –
+
+**12**. I [lov 10. april 2015 nr. 17](lov/2015-04-10-17) om finansforetak og finanskonsern gjøres følgende endringer: – – –
+
+**13**. I [lov 21. juni 2019 nr. 31](lov/2019-06-21-31) om Norges Bank og pengevesenet mv. gjøres følgende endringer: – – –

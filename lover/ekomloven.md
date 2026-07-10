@@ -1465,6 +1465,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte
 
 Fra den tid loven trer i kraft, oppheves [lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon](lov/2003-07-04-83).
 
+1 Fra 1. januar 2025 iflg. [res. 13 des 2024 nr. 3095](forskrift/2024-12-13-3095).
+
 ### § 18-2. Overgangsbestemmelser
 
 Enkeltvedtak og forskrift med hjemmel i [lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon](lov/2003-07-04-83) eller eldre lover på området for elektronisk kommunikasjon som er i kraft ved denne lovs ikrafttredelse, skal fortsatt gjelde. Herunder opprettholdes forpliktelser som er pålagt tilbyder med sterk markedsstilling med hjemmel i eller i medhold av lov, inntil nye enkeltvedtak med hjemmel i denne lov er iverksatt.

@@ -108,11 +108,26 @@ Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som 
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt målesystemet er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
+
 > Endret ved [forskrift 1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016).
 
 ### § 11. Mekaniske miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter målesystem som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter målesystem som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter målesystem som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
 
@@ -121,6 +136,14 @@ Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det 
 ### § 12. Elektromagnetiske miljø
 
 Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske miljø i følgende klasser:
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter målesystem som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter målesystem som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter målesystem som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -256,6 +279,24 @@ Produsenten skal angi nominelle driftsbetingelser for målesystemet, særlig:Str
 
 For mengder på minst to liter er maksimal tillatte målefeil for visninger angitt i tabell 5. A gjelder for komplette målesystemer i felt ved normale driftsbetingelser, B gjelder for test av selve måleren i et testoppsett. For mengder på under to liter er maksimal tillatte målefeil for visninger angitt i tabell 6.
 
+*Tabell 5*
+
+| *Nøyaktighetsklasse* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 0,3 | 0,5 | 1,0 | 1,5 | 2,5 |
+| Målesystemer (A) | 0,3 % | 0,5 % | 1,0 % | 1,5 % | 2,5 % |
+| Gjennomstrømningsmålere (B) | 0,2 % | 0,3 % | 0,6 % | 1,0 % | 1,5 % |
+
+*Tabell 6*
+
+| *Målt volum V* | *Maksimal tillatte målefeil* |
+| --- | --- |
+| V < 0,1 l | 4 × verdi i tabell 5, anvendt på 0,1 l |
+| 0,1 l ≤ V < 0,2 l | 4 × verdi i tabell 5 |
+| 0,2 l ≤ V < 0,4 l | 2 × verdi i tabell 5, anvendt på 0,4 l |
+| 0,4 l ≤ V < 1 l | 2 × verdi i tabell 5 |
+| 1 l ≤ V < 2 l | Verdi i tabell 5, anvendt på 2 l |
+
 Uansett hvilken mengde som måles, er imidlertid maksimal tillatt målefeil gitt ved den største av følgende to verdier:absoluttverdien av maksimal tillatte målefeil gitt i tabell 5 eller 6absoluttverdien av maksimal tillatte målefeil for minste tillatte målekvantum (Emin ).
 
 For minste tillatte målekvantum større enn eller lik to liter gjelder følgende vilkår:Emin skal oppfylle vilkåret: Emin ≥ 2 R, der R er det minste skalaintervall for indikatorenEmin er gitt ved formelen: Emin = (2MMQ) × (A/100), der:MMQ er minste tillatte målekvantum,A er tallverdien angitt i linje A i tabell 5.
@@ -265,6 +306,15 @@ For minste tillatte målekvantum på mindre enn to liter gjelder nevnte vilkår 
 Ved konvertert visning er maksimal tillatte målefeil som i linje A i tabell 5. Maksimal tillatte målefeil på konverterte visninger fra en konverteringsanordning er lik ± (A – B), der A og B er verdiene angitt i tabell 5. Deler av konverteringsanordningene som kan testes separat:*Beregningsenhet:* Maksimal tillatte målefeil for væskemengdevisninger er, uansett fortegn, lik en tidel av maksimal tillatte målefeil som definert i linje A i tabell 5*Tilknyttede måleredskaper:* Tilknyttede måleredskaper skal ha en nøyaktighet som minst er like god som verdiene i tabell 7. Disse verdiene gjelder for visning av karakteristiske mengder av væsken som vises av konverteringsanordningen*Nøyaktighet for beregningsfunksjon:* Minste tillatte avvik for beregningen av hver karakteristiske mengde av væsken, uansett fortegn, er lik 2/5 av verdien fastsatt i bokstav b.
 
 Krav angitt i femte ledd bokstav a gjelder for enhver beregning, ikke bare konvertering.
+
+*Tabell 7*
+
+| *Maksimalt tillatte målefeil* | *Målesystemets nøyaktighetsklasse* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | *0,3* | *0,5* | *1,0* | *1,5* | *2,5* |
+| Temperatur | ± 0,3 °C | ± 0,5 °C |  |  | ± 1,0 °C |
+| Trykk | Mindre enn 1 MPa: ± 50 kPa, Fra 1 til 4 MPa: ± 5 %, Over 4 MPa: ± 200 kPa |  |  |  |  |
+| Tetthet | ± 1 kg/m3 |  | ± 2 kg/m3 |  | ± 5 kg/m3 |
 
 Målesystemet skal ikke utnytte maksimale tillatte feil eller systematisk favorisere en bestemt part.
 
@@ -325,6 +375,16 @@ Et målesystem skal enten være utstyrt med en anordning for nødstrømsforsynin
 ### § 36. Krav til nøyaktighetsklasser for målesystem som selges til ulike anvendelser
 
 Tabell 8 angir krav til nøyaktighetsklasser for målesystem som selges til ulike anvendelser. Produsenten kan imidlertid angi bedre nøyaktighet for visse typer målesystemer.
+
+*Tabell 8*
+
+| *Nøyaktighetsklasse* | *Typer målesystem* |
+| --- | --- |
+| 0,3 | Målesystemer på rørledninger.<br>Målesystemer til innkreving av skatter og avgifter på mineralolje ved lasting eller lossing av store tankskip, unntatt bunkersbåter. |
+| 0,5 | Alle målesystemer, med mindre annet er angitt annensteds i denne tabell, særlig<br>– mengdemåler for drivstoff (ikke til flytende gasser)<br>– målesystemer på tankbiler til væsker med lav viskositet (< 20 mPa.s)<br>– målesystemer til lasting/lossing av skip, jernbanetankvogner og tankbiler<br>– målesystemer for melk<br>– målesystemer for drivstoffpåfylling på luftfartøyer<br>– målesystemer til innkreving av skatter og avgifter på mineralolje ved lasting eller lossing av jernbanetankvogner og tankbiler samt skip som ikke omfattes av nøyaktighetsklasse 0,3 |
+| 1,0 | Målesystemer for flytende gasser under trykk ved en temperatur på minst –10 °C.<br>Målesystemer som normalt er i klasse 0,3 eller 0,5, men brukt til væsker<br>– med en temperatur på under –10 °C eller over 50 °C<br>– med en dynamisk viskositet på over 1000 mPa.s<br>– med maksimalt volumetrisk strømningsrate på høyst 20 l/h |
+| 1,5 | Målesystemer for flytende karbondioksid. Målesystemer for flytende gasser under trykk målt ved en temperatur under –10 °C (unntatt kryogene væsker). |
+| 2,5 | Målesystemer for kryogene væsker (temperatur under –153 °C). |
 
 > Endret ved [forskrifter 20 des 2010 nr. 1750](forskrift/2010-12-20-1750) (i kraft 1 jan 2011), [1 mars 2016 nr. 209](forskrift/2016-03-01-209) (i kraft 20 april 2016), [10 des 2018 nr. 1884](forskrift/2018-12-10-1884) (i kraft 1 jan 2019).
 

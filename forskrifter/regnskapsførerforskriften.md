@@ -65,3 +65,9 @@ Kravet i [regnskapsførerloven § 3-2](lov/2022-12-16-90/§3-2) første ledd, fe
 Forskriften trer i kraft 1. januar 2023. På samme tidspunkt oppheves [forskrift 8. februar 1999 nr. 196 om autorisasjon av regnskapsførere m.v.](forskrift/1999-02-08-196)
 
 ## § 6. Endringer i andre forskrifter
+
+Følgende endring gjøres i [forskrift 1. februar 2012 nr. 111 om klagenemnd for revisor- og regnskapsførersaker](forskrift/2012-02-01-111): – – –
+
+Følgende endring gjøres i [forskrift 14. september 2018 nr. 1324 om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsforskriften)](forskrift/2018-09-14-1324): – – –
+
+Følgende endring gjøres i [forskrift 22. september 2008 nr. 1080 om risikostyring og internkontroll](forskrift/2008-09-22-1080): – – –

@@ -493,6 +493,8 @@ Den som forsettlig eller uaktsomt overtrer denne loven, sentrale eller lokale fo
 
 > Endret ved lover [29 mai 2015 nr. 36](lov/2015-05-29-36) (ikr. 29 mai 2015 iflg. [res. 29 mai 2015 nr. 553](forskrift/2015-05-29-553)), [29 mai 2015 nr. 36](lov/2015-05-29-36) (ikr. 1 okt 2015 iflg. endringsloven del IV), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
+1 Rettet 08.02.2023 (Forsinket opphevelse av § 42 tredje og fjerde ledd jf [lov 29 mai 2015 nr. 36 kap IV](lov/2015-05-29-36/kapIV). Tredje og fjerde ledd tilføyde straffebestemmelser som forskutterte endringene i [straffeloven 2005 § 190](lov/2005-05-20-28/§190/ledd/2) annet ledd og [§ 191](lov/2005-05-20-28/§191).)
+
 ## Kapittel 8. Avsluttende bestemmelser
 
 ### § 43. Utfyllende forskrifter
@@ -510,6 +512,8 @@ Forskrifter, vedtekter og andre bestemmelser gitt i medhold av [lov 21. mai 1971
 ### § 45. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Iflg. [res. 14 juni 2002 nr. 536](forskrift/2002-06-14-536) trer loven ikr. 1 juli 2002 med følgende unntak: For Svalbard gjelder ikke [lovens § 46](lov/2002-06-14-20/§46) nr. 2 og 3.
 
 ### § 46. Endring i andre lover
 

@@ -30,16 +30,16 @@ Vegtrafikklov av 18. juni 1965 nr. 4 [§§ 1-5](lov/1965-06-18-4/§1), [7-30](lo
 
 Samferdselsdepartementet bemyndiges til å treffe nærmere bestemmelser i henhold til loven overensstemmende med et vedlagt utkast:
 
-1. Samferdselsdepartementet gis myndighet til å bestemme at loven helt eller delvis skal gjelde for annet område enn nevnt i dens § 1, eller at den helt eller delvis ikke skal gjelde for slikt område. (Lovens § 1).
+1\. Samferdselsdepartementet gis myndighet til å bestemme at loven helt eller delvis skal gjelde for annet område enn nevnt i dens § 1, eller at den helt eller delvis ikke skal gjelde for slikt område. (Lovens § 1).
 
-2. Samferdselsdepartementet gis myndighet til å fastsette de endringer som er nødvendig av hensyn til de stedlige forhold for Svalbard og Jan Mayen. (Lovens § 1).
+2\. Samferdselsdepartementet gis myndighet til å fastsette de endringer som er nødvendig av hensyn til de stedlige forhold for Svalbard og Jan Mayen. (Lovens § 1).
 
-3. Samferdselsdepartementet gis myndighet til å bestemme at også annen innretning enn definert i lovens § 2 skal anses som kjøretøy etter loven. (Lovens § 2).
+3\. Samferdselsdepartementet gis myndighet til å bestemme at også annen innretning enn definert i lovens § 2 skal anses som kjøretøy etter loven. (Lovens § 2).
 
-4. Samferdselsdepartementet gis myndighet til å gi regler om avgift for parkering av kjøretøy på offentlig veg og forbud mot slik parkering uten at avgift blir betalt på forhånd. Samferdselsdepartementet gis myndighet til å fastsette tilleggsavgift og frist for betaling av tilleggsavgift. (Lovens § 8 annet ledd og § 38 første ledd).
+4\. Samferdselsdepartementet gis myndighet til å gi regler om avgift for parkering av kjøretøy på offentlig veg og forbud mot slik parkering uten at avgift blir betalt på forhånd. Samferdselsdepartementet gis myndighet til å fastsette tilleggsavgift og frist for betaling av tilleggsavgift. (Lovens § 8 annet ledd og § 38 første ledd).
 
-5. Samferdselsdepartementet gis myndighet til å gi nærmere regler om klagemyndighet ved påklaging av forvaltningsmessige vedtak i henhold til loven og om behandlingen av saker om klager. Samferdselsdepartementet gis myndighet til å bestemme at visse vedtak ikke skal kunne omgjøres eller påklages. (Lovens § 39).
+5\. Samferdselsdepartementet gis myndighet til å gi nærmere regler om klagemyndighet ved påklaging av forvaltningsmessige vedtak i henhold til loven og om behandlingen av saker om klager. Samferdselsdepartementet gis myndighet til å bestemme at visse vedtak ikke skal kunne omgjøres eller påklages. (Lovens § 39).
 
-6. Samferdselsdepartementet gis myndighet til å gjøre unntak fra bestemmelser i eller gitt med hjemmel i loven for Forsvarets og Sivilforsvarets kjøretøyer og bruken av disse kjøretøyer. (Lovens § 42).
+6\. Samferdselsdepartementet gis myndighet til å gjøre unntak fra bestemmelser i eller gitt med hjemmel i loven for Forsvarets og Sivilforsvarets kjøretøyer og bruken av disse kjøretøyer. (Lovens § 42).
 
-7. Samferdselsdepartementet gis myndighet til å gi overgangsregler og forskrifter ellers til gjennomføring og utfylling av bestemmelsene i denne lov. (Lovens § 43).
+7\. Samferdselsdepartementet gis myndighet til å gi overgangsregler og forskrifter ellers til gjennomføring og utfylling av bestemmelsene i denne lov. (Lovens § 43).

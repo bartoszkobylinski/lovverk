@@ -41,3 +41,5 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i denne forskrift, 
 Denne forskriften trer i kraft straks.
 
 ## Vedlegg. Rapporteringsskjema for fritidsfiske etter kongekrabbe
+
+[(pdf)](static/SF/sf-20100317-0396-01-01.pdf)

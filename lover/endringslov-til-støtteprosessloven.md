@@ -24,13 +24,21 @@ eu_basis:
 
 # Lov om endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning)
 
+Endringer i følgende lov:
+
 - [Lov 4. mars 2022 nr. 7 om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven)](lov/2022-03-04-7).
 
 ## I
 
+I [lov 4. mars 2022 nr. 7 om nasjonale saksbehandlingsregler i saker om offentlig støtte](lov/2022-03-04-7) gjøres følgende endringer:
+
+I [§ 4 første ledd](lov/2022-03-04-7/§4/ledd/1) skal uttrykket «overvåkingsorgan» endres til «overvåkningsorgan».
+
+[§ 4 andre ledd bokstav d](lov/2022-03-04-7/§4/ledd/2/bokstav/d) skal lyde:
+
 anses som eksisterende støtte etter artikkel 17 i del II av [Protokoll 3 til ODA](lov/1992-11-27-109/oda/p3)
 
-Del II i [Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA) protokoll 3 om oppgaver og myndighet for EFTAs overvåkningsorgan i forbindelse med statsstøtte](lov/1992-11-27-109/oda/p3) gjelder som lov.
+Ny [§ 6 a](lov/2022-03-04-7/§6a) skal lyde:
 
 ## II
 

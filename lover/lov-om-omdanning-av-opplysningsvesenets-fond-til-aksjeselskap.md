@@ -56,6 +56,12 @@ Omregistrering av eiendeler, rettigheter og heftelser i grunnboken og andre offe
 
 Loven trer i kraft straks, med unntak av [§ 7 nr. 1](lov/2024-06-25-58/§7/nummer/1), som gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1. januar 2025 iflg. [res. 25 juni 2024 nr. 1216](forskrift/2024-06-25-1216).
+
 ## § 7. Endring i andre lover
 
 Fra det tidspunkt som følger av [§ 6](lov/2024-06-25-58/§6) gjøres følgende endringer i andre lover:
+
+**1.** [Lov 18. juni 2021 nr. 98 om Opplysningsvesenets fond](lov/2021-06-18-98) oppheves.
+
+**2.** I [lov 24. april 2020 nr. 31 om tros- og livssynssamfunn](lov/2020-04-24-31) skal [§ 14](lov/2020-04-24-31/§14) nytt åttende ledd lyde: – – –

@@ -24,15 +24,15 @@ eu_basis: []
 
 ## I
 
-Virksomheter som skal tilby persondosimetritjenester for måling av individuelle doser til yrkeseksponerte ved bruk av persondosimeter eller ved andre metoder skal ha godkjenning av Direktoratet for strålevern og atomsikkerhet.
+I [forskrift 16. desember 2016 nr. 1659 om strålevern og bruk av stråling (strålevernforskriften)](forskrift/2016-12-16-1659) gjøres følgende endringer:
 
-Godkjenning gis kun til persondosimetritjenester som er akkreditert etter ISO 17025 eller som på annen måte kan dokumentere at de oppfyller kravene i ISO 17025 eller tilsvarende standarder.
+– – –
 
-Virksomheten skal systematisk overvåke yrkeseksponerte i kategori A. Overvåkingen av effektiv dose skal være basert på individuelle målinger som utføres av en godkjent persondosimetritjeneste. Der dette ikke er praktisk mulig, skal individuell overvåking baseres på doseberegninger. I tilfeller hvor arbeidstakere kan bli eksponert for en vesentlig intern bestråling eller en vesentlig bestråling av øyelinsen eller ekstremitetene, skal det innføres et egnet overvåkingssystem.
+Ny [§ 10a](forskrift/2016-12-16-1659/§10a) skal lyde:
 
-Virksomheten skal sørge for at yrkeseksponerte i kategori B som kan få effektiv dose over 1 mSv/år får fastlagt sin individuelle stråleeksponering. Dersom det benyttes en persondosimetritjeneste til dette, skal denne ha godkjenning etter [§ 10a](forskrift/2016-12-16-1659/§10a).
+[§ 33](forskrift/2016-12-16-1659/§33) skal lyde:
 
-Arbeidstaker skal medvirke til dosemonitorering, og virksomheten skal sørge for at arbeidstaker informeres skriftlig eller elektronisk om doseavlesningene og iverksette tiltak ved behov.
+– – –
 
 ## II
 

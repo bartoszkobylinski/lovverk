@@ -364,6 +364,8 @@ Det kan bare selges alkoholholdig drikk som er levert av en som har tilvirknings
 
 > Endret ved [lover 8 jan 1993 nr. 23](lov/1993-01-08-23) (som endret fjerde ledd, skal være femte ledd), [4 des 1992 nr. 132](lov/1992-12-04-132) (ikr. 1 jan 1994), [23 juni 1995 nr. 42](lov/1995-06-23-42) (ikr. 1 jan 1996), [16 mai 1997 nr. 28](lov/1997-05-16-28) (ikr. 1 jan 1998), [22 des 1999 nr. 105](lov/1999-12-22-105) (ikr. 1 jan 2000 iflg. [res. 22 des. 1999 nr. 1373](forskrift/1999-12-22-1373)), [23 mai 2003 nr. 34](lov/2003-05-23-34) (ikr. 1 juli 2003 iflg. [res. 23 mai 2003 nr. 626](forskrift/2003-05-23-626)), [17 des 2004 nr. 86](lov/2004-12-17-86) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 599](forskrift/2005-06-17-599)), [17 juni 2005 nr. 59](lov/2005-06-17-59) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 601](forskrift/2005-06-17-601)), [6 mai 2011 nr. 13](lov/2011-05-06-13) (ikr. 1 jan 2012 iflg. [res. 6 mai 2011 nr. 466](forskrift/2011-05-06-466)), [17 juni 2016 nr. 51](lov/2016-06-17-51) (ikr. 1 juli 2016 iflg. [res. 17 juni 2016 nr. 708](forskrift/2016-06-17-708)), [22 juni 2018 nr. 76](lov/2018-06-22-76) (ikr. 1 nov 2018 iflg. [res. 28 sep 2018 nr. 1482](forskrift/2018-09-28-1482)), [23 juni 2020 nr. 111](lov/2020-06-23-111) (ikr. 1 sep 2020 iflg. [res. 23 juni 2020 nr. 1297](forskrift/2020-06-23-1297)).
 
+1 Jf. [EØS-avtalen art. 16](lov/1992-11-27-109/eøsl/a16).
+
 ### § 3-1a. Salg av alkoholholdig drikk på flyplasser
 
 Avgiftsfritt salg av alkoholholdig drikk kan skje etter tillatelse fra toll- og avgiftsetaten. Tillatelse kan kun gis for salg til reisende på vei til utland fra norske flyplasser eller til reisende som ankommer norske flyplasser fra utland. Tillatelse kan ikke gis for reisende på vei til eller fra Svalbard, Jan Mayen og kontinentalsokkelen.
@@ -902,6 +904,8 @@ Vedtak om overtredelsesgebyr ved brudd på reklameforbudene i [§§ 9-1](lov/198
 
 Loven trer i kraft fra den tid Kongen bestemmer1.
 
+1 Fra 1 jan 1990 iflg. [res. 22 sep 1989 nr. 947](forskrift/1989-09-22-947).
+
 ### § 11-2. Overgangsbestemmelser.
 
 Salgs- og skjenkebevillinger gitt med hjemmel i [alkoholloven av 5. april 1927](lov/1927-04-05) gjelder videre med følgende begrensninger:
@@ -913,6 +917,8 @@ Bestemmelsen i [§ 4-1](lov/1989-06-02-27/§4-1) får for brennevinsskjenkingens
 Bestemmelsen i [§ 4-2](lov/1989-06-02-27/§4-2) annet ledd får for kommunale bevillinger anvendelse etter utløpet av inneværende bevillingsperiode. For statlige bevillinger får bestemmelsen anvendelse 9 måneder etter lovens ikrafttredelse.
 
 > Endret ved [lov 8 jan 1993 nr. 23](lov/1993-01-08-23).
+
+1 Fra 1 jan 1990 iflg. [res. 22 sep 1989 nr. 947](forskrift/1989-09-22-947).
 
 ### § 11-3. Oppheving av andre lover.
 

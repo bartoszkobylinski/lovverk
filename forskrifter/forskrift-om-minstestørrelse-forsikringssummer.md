@@ -42,7 +42,20 @@ Enhver som benytter luftfartøy, ervervsmessig eller privat, må ha tegnet forsi
 
 ## § 4. Tredjemannsansvaret
 
-Forsikring eller annen sikkerhetsstillelse skal minst være av en slik størrelse som angitt nedenfor:*Luftfartøyets maksimale startvekt i kilo (MTOM):**Minimumsforsikring (mill. SDR)*< 500 kg0,75< 1.000 kg1,5< 2.700 kg3< 6.000 kg7< 12.000 kg18< 25.000 kg80< 50.000 kg150< 200.000 kg300< 500.000 kg500> 500.000 kg700
+Forsikring eller annen sikkerhetsstillelse skal minst være av en slik størrelse som angitt nedenfor:
+
+| *Luftfartøyets maksimale startvekt i kilo (MTOM):* | *Minimumsforsikring (mill. SDR)* |
+| --- | --- |
+| < 500 kg | 0,75 |
+| < 1.000 kg | 1,5 |
+| < 2.700 kg | 3 |
+| < 6.000 kg | 7 |
+| < 12.000 kg | 18 |
+| < 25.000 kg | 80 |
+| < 50.000 kg | 150 |
+| < 200.000 kg | 300 |
+| < 500.000 kg | 500 |
+| > 500.000 kg | 700 |
 
 > Endret ved [forskrift 1 des 2004 nr. 1537](forskrift/2004-12-01-1537) (i kraft 1 jan 2005).
 

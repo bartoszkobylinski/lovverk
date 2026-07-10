@@ -93,3 +93,5 @@ Søksmål om Medieklagenemndas vedtak i medhold av denne loven skal rettes mot s
 ### § 13. Ikraftsetting
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Loven trer i kraft 1 jan 2021 iflg. res. [18 des 2020 nr. 2835](forskrift/2020-12-18-2835).

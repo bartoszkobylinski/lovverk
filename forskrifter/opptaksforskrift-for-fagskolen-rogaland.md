@@ -128,7 +128,16 @@ eu_basis: []
 
 ### § 3-1. Poengberegning ved rangering av søkere
 
-(1) Følgende tabell benyttes ved beregning av poeng:*Beskrivelse**Poeng*Det generelle grunnlaget for opptak etter [§ 2-2 (1)](forskrift/2024-09-19-2344/§2-2/ledd/1)10 poengRelevant yrkespraksis i 100 % stilling utover det generelle grunnlaget for opptak, jf. gjeldende studieplan1 poeng per 6 md. (inntil 10 poeng)Fagprøve med «meget godt»5 poengRelevant fagprøve i anna fag utover det generelle opptakskravet inkl. praksistid5 poengRelevant fagprøve i anna fag utover det generelle opptakskravet med «meget godt»2 poengGjennomsnittlig karakterpoeng av tallkarakterene i alle fagMultipliseres med 10
+(1) Følgende tabell benyttes ved beregning av poeng:
+
+| *Beskrivelse* | *Poeng* |
+| --- | --- |
+| Det generelle grunnlaget for opptak etter [§ 2-2 (1)](forskrift/2024-09-19-2344/§2-2/ledd/1) | 10 poeng |
+| Relevant yrkespraksis i 100 % stilling utover det generelle grunnlaget for opptak, jf. gjeldende studieplan | 1 poeng per 6 md. (inntil 10 poeng) |
+| Fagprøve med «meget godt» | 5 poeng |
+| Relevant fagprøve i anna fag utover det generelle opptakskravet inkl. praksistid | 5 poeng |
+| Relevant fagprøve i anna fag utover det generelle opptakskravet med «meget godt» | 2 poeng |
+| Gjennomsnittlig karakterpoeng av tallkarakterene i alle fag | Multipliseres med 10 |
 
 (2) Ved opptak på visse vilkår etter [§ 2-3](forskrift/2024-09-19-2344/§2-3) (1) i denne forskrifta blir søkeren tildelt rangeringspoeng for å ha oppfylt det generelle grunnlaget for opptak, selv om fag- eller svenneprøven enda ikke er fullført og bestått. Opptak ved ei slik forhåndstildeling av rangeringspoeng innebærer at eventuelle tilleggspoeng oppnådd etter søknadsfristen 15. april ikke kan bli tillagt vekt.
 

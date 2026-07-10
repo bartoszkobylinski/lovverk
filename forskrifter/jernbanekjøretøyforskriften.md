@@ -189,17 +189,31 @@ Der den nasjonale tekniske regelen samsvarer med et gitt TSI-krav, refereres til
 
 ### 1. Dokumentasjon
 
+1.1*Generell dokumentasjon*
+
 Det skal være utarbeidet teknisk dokumentasjon for alle systemer, deler, komponenter og grensesnitt. Dokumentasjonen skal kunne bekrefte at systemer, deler, komponenter og grensesnitt er i samsvar med de standarder som er lagt til grunn for prosjektering og bygging av kjøretøyet. Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til kjøretøyets utforming. Eldre kjøretøy skal ha en oppdatert risikovurdering, basert på erfaringer ved tidligere drift og vedlikehold.
+
+1.2*Vedlikeholdsinstrukser og -krav*
+
+1.2.1*Vedlikeholdsinstrukser*
 
 Det skal være utarbeidet dokumentasjon som beskriver hvordan systemer, deler og komponenter skal vedlikeholdes i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for kjøretøyet. Vedlikeholdsdokumentasjonen skal sikre at ingen sikkerhetskritiske systemer, komponenter eller deler forringes i den grad at det fører til funksjonssvikt. Slitasjegrenser skal være spesifisert for komponenter som er utsatt for slitasje. Intervaller for vedlikehold og utskifting må være spesifisert for sikkerhetskritiske komponenter.
 
 Registreringer som viser vedlikehold, eventuell verifikasjon etter avsporing, og endringer av kjøretøyet skal kunne legges frem.
 
+1.2.2*Dokumentasjon av grunnlaget for vedlikeholdsprogrammet*
+
 Det skal foreligge dokumentasjon som viser grunnlaget for vedlikeholdsinstruksjoner og -krav, for eksempel vedlikeholdsintervaller, ved blant annet risikovurderinger. TSI LOC & PAS punkt 4.2.12.3.1 gjelder tilsvarende.
 
 For godsvogner gjelder TSI WAG punkt 4.5.2 tilsvarende.
 
+1.3*Instrukser og dokumentasjon for bruk*
+
+1.3.1*Bruksinstrukser for normal og redusert funksjonalitet av kjøretøyet*
+
 Det skal foreligge dokumentasjon for kjøretøyets ulike funksjoner under normal drift og bruk med nedsatt funksjonalitet inkludert nødsituasjoner, evakuering, berging og tauing. Dokumentasjonen skal være på et språk brukeren behersker.
+
+1.4*Prøving av kjøretøyet på sporet*
 
 Dokumentasjon som omhandlet i § 5-1 til § 5-3 i forskriften her skal foreligge.
 
@@ -211,11 +225,19 @@ Følgende standard skal følges: EN 50215.
 
 ### 2. Struktur og mekaniske deler
 
+2.1*Kjøretøyets konstruksjon*
+
+2.1.1*Styrke og integritet*
+
 Kjøretøyet må ha en mekanisk styrke og integritet som gjør at det tåler de kreftene som det utsettes for i alle forventede driftssituasjoner gjennom beregnet levetid. Kravene i TSI LOC & PAS punkt 4.2.2.4 gjelder tilsvarende. For godsvogner gjelder TSI WAG punkt 4.2.2.2 og 4.2.2.3 tilsvarende.
 
 For arbeidsmaskiner (OTM) er tilleggskrav beskrevet i TSI LOC & PAS Vedlegg C, punkt C.1. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 12663, UIC 566, UIC 660, UIC 617, UIC 625, UIC 577 KONTROLL, UIC 651, ERRI B 12 RP 17, ERRI B 12 RP 60 og ERRI B 12 DT 135.
+
+2.1.2*Lasteevne*
+
+2.1.2.1*Lastforhold og veid masse*
 
 Kravene i TSI LOC & PAS punkt 4.2.2.10 gjelder tilsvarende.
 
@@ -223,21 +245,31 @@ For godsvogner gjelder kravene i TSI WAG punkt 4.2.3.2. For beregning av lasteka
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 700, EN 50215, EN 15528 og EN 15663.
 
+2.1.2.2*Aksellast og hjullast*
+
 Kravene i TSI LOC & PAS 4.2.3.2 gjelder tilsvarende. For kjøretøy med høyere aksellast enn 25 tonn må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15663, EN 50215, EN 13260, EN 15528, EN 13103, EN 14363, EN 13104, UIC 700 og UIC 518.
+
+2.1.3*Sammenføyningsteknologi*
 
 Ved bruk av ulike deler eller produkter til sammenføyning gjelder leverandørenes erklæringer for delenes eller produktenes anvendelsesområde. Underliggende dokumentasjon på styrke, beregninger, anvendte standarder og sikkerhetsmarginer må medfølge slike erklæringer.
 
 Ved beregning av styrke og sikkerhetsfaktorer for enkelte sammenføyningsmetoder skal aksepterte standarder legges til grunn, blant annet: EN 15085, UIC 897, EN 12663 og UIC 566.
 
+2.1.4*Løfting og jekking*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.6 gjelder tilsvarende. For godsvogner gjelder TSI WAG punkt 4.2.2.2 tilsvarende. For OTM er tilleggskrav beskrevet i TSI LOC & PAS, Vedlegg C, punkt C.2.
 
 Ved beregning av styrke skal aksepterte standarder legges til grunn, blant annet: UIC 581, UIC 566, EN 15877 og EN 12663.
 
+2.1.5*Festing av innretninger til karosserikonstruksjonen*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.7 gjelder tilsvarende. For OTM er tilleggskrav beskrevet i TSI LOC & PAS, Vedlegg C, punkt C.1.
 
 Ved beregning av styrke skal aksepterte standarder legges til grunn, blant annet: UIC 566 og EN 12663.
+
+2.1.6*Forbindelser mellom ulike deler av kjøretøyet*
 
 Forbindelser mellom ulike deler av kjøretøyet, for eksempel mellom vognkasse og boggi, skal tåle de statiske og dynamiske belastninger de utsettes for. Kravene i TSI LOC & PAS punkt 4.2.3.5.1 gjelder tilsvarende.
 
@@ -245,23 +277,37 @@ For godsvogner gjelder TSI WAG punkt 4.2.3.6.1 tilsvarende. For kjøretøy med a
 
 Ved belastningstilfeller og beregning av styrke skal aksepterte standarder legges til grunn, blant annet: EN 12663, EN 13 749, UIC 577, ERRI B12/RP17, UIC 515-1 og UIC 615-1.
 
+2.2*Koplinger og koplingssystemer*
+
+2.2.1*Automatisk kopling*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.2.3 og 5.3.1 gjelder tilsvarende.
+
+2.2.2*Egenskaper for bergingskopling*
 
 Kravene i TSI LOC & PAS punkt 4.2.2.2.4, 4.2.2.2.5, og 5.3.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 520, EN 15020.
 
+2.2.3*Konvensjonelle skruekoplinger og andre non-automatiske koplingssytemer*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.2.2, 4.2.2.2.3, og 5.3.2 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 826, UIC 520, ERRI B12 RP17 ERRI B36 RP32, UIC 526-3, EN 15566EN 15551, UIC 527, UIC 528, UIC 526, og UIC 825.
+
+2.2.4*Buffersystemer*
 
 Kravene i TSI LOC & PAS punkt 4.2.2.2.3, 4.2.2.3, og 4.2.2.10 og kravene i TSI WAG punkt 4.2.2.1 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15551, EN 15566, ERRI B12/DT 85, UIC 527, UIC 528 og UIC 526. Ved merking av buffere aksepteres følgende standarder: UIC 527, UIC 528, UIC 526 og UIC 520.
 
+2.2.5*Overganger*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 16286, EN 12561, UIC 561, UIC 527, UIC 528 og UIC 520.
+
+2.3*Passiv sikkerhet*
 
 Kravene i TSI LOC & PAS punkt 4.2.2.5 gjelder tilsvarende for nyere kjøretøy.
 
@@ -273,11 +319,17 @@ Trekkraftkjøretøy må ha snøplog der det kan forventes snø. Ved utforming av
 
 ### 3. Samspill mellom kjøretøy og spor, samt kjøretøyets tverrsnitt
 
+3.1*Kjøretøyets profil*
+
 Kjøretøyets statiske og dynamiske profil skal være strekningsvis i overensstemmelse med de profilene som fremgår av infrastrukturforvalters nettveiledning. Kjøretøy som er i henhold til profil NO1 kan benyttes på hele jernbanenettet.
 
 Framføring av kjøretøy med større profil forutsetter aksept som spesialtransport fra infrastrukturforvalter.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 505, UIC 506, EN 15273.
+
+3.2*Kjøretøydynamikk*
+
+3.2.1*Avsporingssikkerhet og løpeegenskaper*
 
 Kjøretøyets løpeegenskaper og avsporingssikkerhet skal testes for å verifisere stabilt løp, avsporingssikkerhet og dynamisk belastning på sporet.
 
@@ -291,6 +343,8 @@ For øvrig gjelder kravene i TSI LOC & PAS 4.2.3.4. tilsvarende. For godsvogner 
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 14363, EN 15686, UIC 530-2, UIC 510, UIC 432, UIC 518, og UIC 645.
 
+3.2.2*Ekvivalent konisitet*
+
 Kravene i TSI LOC & PAS 4.2.3.4.3 gjelder tilsvarende.
 
 I tillegg gjelder følgende krav:
@@ -299,11 +353,15 @@ Det skal gjøres tester av dynamiske løpeegenskaper og man skal vurdere særski
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15302:2008, EN 13715:2006, EN 13674-1:2003, EN 14363, UIC 518, UIC 519 og UIC 510.
 
+3.2.3*Hjulprofil og grenseverdier*
+
 Hjulprofil skal medføre stabilt løp. Målinger og behandling av måleverdiene skal skje etter reglene i UIC 518 eller EN 14363. Hjulprofilet skal være i henhold til UIC 510-1 og 510-2, og skal være basert på testing og sikkerhetsvurderinger. Akseptert hjulprofil for allment bruk er eksempelvis P8 og S1002, avhengig av kjøretøytype. Basert på testing og sikkerhetsvurdering kan andre hjulprofiler aksepteres.
 
 Koordinattabeller og tegninger for skinneprofilene gis av infrastrukturforvalter. Størrelsen på hjulbanens hulløp skal ikke være mer enn 2 mm. Maksimalt hjulslag og materialutfall er 60 mm for hjul med diameter på eller over 920 mm, og 40 mm for hjul med mindre diameter.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15302:2008, EN 13715:2006, EN 13674-1:2003, EN 14363, UIC 518, UIC 519 og UIC 510.
+
+3.2.4*Akseptkriterier for sporbelastning*
 
 Kjøretøy må ikke medføre større sporbelastning enn de verdiene som er gitt av infrastrukturforvalter for å sikre forenlighet mellom kjøretøy og sporet. Kravene i TSI LOC & PAS punkt 4.2.3.4.2.2 gjelder tilsvarende. For godsvogner gjelder kravene i TSI WAG punkt 4.2.3.5 tilsvarende. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
@@ -317,7 +375,13 @@ For øvrig gjelder kravene i TSI LOC & PAS punkt 4.2.3.4.2.2 tilsvarende. For go
 
 Testbetingelsene i punkt 3.2.1 i vedlegget her gjelder tilsvarende.
 
+3.2.5*Minste horisontale kurveradius, vertikal kurveradius, vertikal konkave kurveradius og vertikal konveks kurveradius*
+
 Kravet i TSI LOC & PAS punkt 4.2.3.6 gjelder tilsvarende. Minimum kurveradius, vertikal, horisontal eller i sporveksler, skal framgå av infrastrukturforvalters nettveiledning.
+
+3.3*Boggier/løpeverk*
+
+3.3.1*Boggier*
 
 Boggier inkludert påmontert utstyr skal dimensjoneres i henhold til anerkjente standarder med tilstrekkelig sikkerhetsmargin, basert på kravene og testbetingelsene i punkt 3.2.1 i vedlegget her. Dette gjelder også for forbindelsen mellom boggirammen og vognkassen. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
@@ -325,11 +389,15 @@ Kravene i TSI LOC & PAS punkt 4.2.3.5.1 gjelder tilsvarende. For godsvogner gjel
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 515-4, UIC 615-4, EN13749, EN 15687 og EN 15827.
 
+3.3.2*Hjulsatser*
+
 Hjulsatsene skal dimensjoneres i henhold til anerkjente standarder med tilstrekkelig sikkerhetsmargin. Hjulsatsene skal tåle de påkjenningene de er utsatt for, inkludert tilleggspåkjenninger forårsaket blant annet av torsjonskrefter, friksjon mellom skinne og hjul, påregnelige uregelmessigheter i grensesnittet skinne/hjul, etc.
 
 Kravene i TSI LOC & PAS punkt 4.2.3.5.2 gjelder tilsvarende. For godsvogner gjelder kravet i TSI WAG punkt 4.2.3.6 tilsvarende. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 13260, EN 13103, EN 13104, EN 13261, EN 13715, EN 13749, EN 13979, UIC 510-3, UIC 515-4 og UIC 615-4.
+
+3.3.3*Hjul*
 
 Hjul skal dimensjoneres og utformes for å ivareta sikker kjøring på jernbanenettet.
 
@@ -339,6 +407,8 @@ Kravene i TSI LOC & PAS punkt 4.2.3.5.2.2 gjelder tilsvarende. For godsvogner gj
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 13715, EN 13262, EN 13715, EN 13979-1, UIC 510, UIC 518-2, UIC 519, UIC 810, og UIC 812.
 
+3.3.4*Grensesnitt hjul/skinne – funksjonspåvirkende systemer*
+
 Hjul/skinne-grensesnitt, geometriske egenskaper, slitasje og samspill skal være innenfor fastlagte akseptkriterier slik at kjøretøyet framføres med tilstrekkelig kjøresikkerhet. Det må tas hensyn til påregnelige uregelmessigheter i grensesnittet skinne-hjul, etc. Det må tas hensyn til belegg fra bremseklosser, sanding og/eller flensesmøring som kan hindre sikker deteksjon av tog på sporet.
 
 For geometriske egenskaper for hjulene gjelder kravene i TSI LOC & PAS punkt 4.2.3.5.2.2 tilsvarende.
@@ -347,21 +417,33 @@ For kompatibilitet med togdeteksjonssystemer gjelder kravene i TSI LOC & PAS pun
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15427, EN 12080, EN 13715, EN 12081, EN 12082, EN 50238, UIC 612, UIC 737.
 
+3.3.5*Smøring- og sandingssystem*
+
 Utstyr for smøring og sanding kan monteres i henhold til relevante standarder, og slik at det ikke kommer i strid med profilet eller påvirker negativt hjul/skinne-kontaktarealet. Det må tas hensyn til belegg fra sanding og/eller flensesmøring som kan hindre sikker deteksjon av tog på sporet. Ved montering av utstyr for smøring og sanding skal klimatiske vinterforhold tas i betraktning mht. skjerming, isolasjon, oppvarming, etc.
+
+3.3.6*Hjulsatslager*
 
 Kjøretøy skal ha hjulsatslagre som er dimensjonert for den tiltenkte bruken. Akselkassen skal være designet og dimensjonert slik at alle påregnelige belastninger og utmatting iht. levetiden for komponenter er tatt i betraktning med tilstrekkelig sikkerhetsmargin. For overvåking av aksellager og akselkassetilstand gjelder kravene i TSI LOC & PAS 4.2.3.3.2 og TSI WAG 4.3.2.6.5 tilsvarende. Se i tillegg punkt 3.3.8 i dette vedlegget.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 12082, EN 12081, EN 12080, EN 15437, UIC 515, UIC 615 og UIC 510.
 
+3.3.7*Aksel*
+
 Se i tillegg punkt 3.3.2 i dette vedlegget. TSI WAG punkt 4.2.3.6.4 og 6.1.2.4 og TSI LOC & PAS punkt 4.2.3.5.2.1 og 6.2.3.7 gjelder tilsvarende. Aksler skal være overflatebeskyttet mot ytre påkjenninger. Aksler skal ha identifikasjonsmerking og kontrollmerking.
 
+3.3.8*Hjulsatslager – tilstandsovervåking*
+
 For overvåking av aksellager og akselkassetilstand gjelder kravene i TSI LOC & PAS 4.2.3.3.2 og TSI WAG 4.3.2.6.5 tilsvarende. Se i tillegg punkt 3.3.6 i dette vedlegget.
+
+3.4*Grense for største positive/negative akselerasjon i lengderetning*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.5.1 siste ledd gjelder tilsvarende. Energiabsorberende elementer skal tas i betraktning ved beregning av ekstraordinær retardasjon eksempelvis skiftestøt, etc.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 566 og EN 12663.
 
 ### 4. Bremsing
+
+4.1*Funksjonelle krav til togbremsing*
 
 Alle kjøretøy skal ha bremser. Bremsene skal under alle forhold kunne bidra til å stanse et tog innenfor en maksimal bremseveilengde definert av infrastrukturforvalter på de enkelte strekningene kjøretøyet skal trafikkere. Bremsesystemene skal være konstruert slik at de feiler til sikker tilstand. Bremsesystemet skal virke automatisk og kontinuerlig, og ikke være utmattbart under normal drift.
 
@@ -371,19 +453,35 @@ Kravene i TSI LOC & PAS punkt 4.2.4.1, og 4.2.4.2.1 gjelder tilsvarende. Kravene
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.2*Sikkerhetskrav til togbremsing*
+
+4.2.1
+
 Pålitelighet for hovedbremsesystemets funksjon
 
 Kravene i TSI WAG punkt 4.2.4.2, og TSI LO&PAS punkt 4.2.1.3, 4.2.4.2.2 gjelder tilsvarende.
 
+4.2.2*Pålitelighet for samhandling traksjon/bremsing*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.4.1, 4.2.4.7 og punkt 4.2.4.4.2 gjelder tilsvarende så langt det passer. Se i tillegg punkt 4.4.1 i dette vedlegget.
+
+4.2.3*Pålitelighet for bremseveilengde*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.4.2, 4.2.4.4.1 gjelder tilsvarende så langt det passer.
 
+4.2.4*Pålitelighet for parkeringsbrems*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.4.2, 4.2.4.4.5 gjelder tilsvarende så langt det passer.
+
+4.3*Bremseanlegg – anerkjent arkitektur og tilhørende standarder*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.3 og TSI WAG 4.2.4.2 gjelder tilsvarende. Ved bruk av andre enn UIC-baserte bremsesystemer må det gjøres egne risikovurderinger av bremsesystemets egnethet og sikkerhet.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549 og EN 50125-1 kapittel 4.4, EN 14198.
+
+4.4*Bremsekommando*
+
+4.4.1*Styring av nødbrems*
 
 Alle trekkraftkjøretøy skal ha nødbrems. Persontogkjøretøy skal ha nødbremsutløser som kan betjenes fra alle vogner i toget. På nyere kjøretøy skal fører kunne utsette aktivering av nødbremsen. Opphevelse av nødbremsen etter at kjøretøyet har stanset må skje ved utførelse av en aktiv handling. Se ellers punkt 10.2.3 i dettet vedlegget.
 
@@ -391,29 +489,45 @@ Kravene i TSI LOC & PAS punkt 4.2.4.4.1 gjelder tilsvarende så langt det passer
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549, UIC 612.
 
+4.4.2*Styring av driftsbrems*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.4.2 og 4.2.4.3.2.1. gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549, EN 14531.
+
+4.4.3*Styring av direktebrems*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.4.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.4.4*Styring av dynamisk brems*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.4.4, og 4.2.4.7 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
+
+4.4.5*Styring av parkeringsbrems*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.4.5og TSI WAG 4.2.4.3.2.2 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.5*Bremseytelse*
+
+4.5.1*Nødbremsytelse*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.5.2 gjelder tilsvarende. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.5.2*Driftsbremsytelse*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.5.3 og TSI WAG 4.2.4.3.2.1 gjelder tilsvarende. For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne risikovurderinger, beregninger og verifikasjoner.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
+
+4.5.3*Beregninger med hensyn til termisk kapasitet*
 
 Prinsippene i TSI LOC & PAS punkt 4.2.4.5.4 og 4.2.3.5.2.2 og TSI WAG punkt 4.2.4.3.3 gjelder tilsvarende, men med en hastighet på 80 km/t som skal kunne holdes i en utforbakke med 2,2 % helling over 75 km. Den termiske kapasiteten skal fremgå av dokumentasjonen. Tillatt hastighet i starten av en utforbakke, og redusert gjennomsnittshastighet, skal være i forhold til oppgitt termisk kapasitet. Se også punkt 2.1.1.
 
@@ -423,43 +537,79 @@ For kjøretøy med aksellast høyere enn 25 tonn, må det gjennomføres egne ris
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.5.4*Parkeringsbremsytelse*
+
 Alle kjøretøy skal ha parkeringsbrems eller annet utstyr for sikker parkering og hensetting. Parkeringsbremsen skal være dimensjonert slik at den kan holde kjøretøyet med maksimal last sikkert fast inntil den bevisst frigjøres. Også andre hensiktsmessige måter å sikre at kjøretøyet ikke kommer i bevegelse på kan benyttes.
 
 For øvrig gjelder kravene i TSI LOC & PAS punkt 4.2.4.5.5 og TSI WAG 4.2.4.3.2.2 tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: Serien UIC 540-549.
 
+4.5.5*Beregning av bremseytelse*
+
 Ved beregning av bremseeffekt og bremsekontrollfunksjoner skal det tas hensyn til lavere friksjonskoeffisienter pga. vanskelige klimatiske forhold. Kravene som gjelder for vanskelige snø-, is- og haglforhold i TSI LOC & PAS punkt 4.2.6.1.2 skal legges til grunn for alle kjøretøy som skal operere uten restriksjoner på jernbanenettet.
+
+4.6*Styring av bremsefriksjon*
+
+4.6.1*Grense for friksjonsprofil hjul/skinne*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.6.1 gjelder tilsvarende. Ved beregning av bremsevirkning og utforming av bremsesystemet skal redusert bremsevirkning og lavere friksjonsverdier pga. geografiske og klimatiske forhold tas i betraktning.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 544 og UIC 546.
 
+4.6.2*Glidevernsystem*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.6.2 gjelder tilsvarende. For godsvogner gjelder kravene i TSI WAG punkt 4.2.4.1.2.6 tilsvarende. Ved beregning av bremsevirkning samt utforming og justering av glidevernsystemet skal lavere friksjonsverdier pga. klimatiske forhold tas i betraktning.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 541 og EN 15595.
 
+4.7*Utvikling av bremsekraft*
+
+4.7.1*Friksjonsbremskomponenter*
+
+4.7.1.1*Bremseklosser*
+
 Komposittmaterialer i bremseklosser må dokumenteres å fungere tilfredsstillende under alle påregnelige klimatiske forhold, særlig under vanskelige forhold som beskrevet i TSI LOC & PAS punkt 4.2.6.1.2 og CEN/TR 16256, og sørge for å gi tilstrekkelig bremseevne. Slike materialer skal i tillegg være godkjent i henhold til UIC 541-4. For at kjøretøy skal kunne brukes uten operasjonelle restriksjoner, må det ha blitt gjennomført testing som sikrer at kravene etterleves i drift.
+
+4.7.1.2*Bremseskiver*
 
 Materialkvaliteten i bremseskiver må dokumenteres å være tilpasset tilhørende friksjonsmaterialer slik at det oppnås tilfredsstillende bremsevirkning under alle påregnelige driftsmessige forhold, herunder klimatiske forhold. Aksepterte standarder skal legges til grunn, blant annet: EN 14535.
 
+4.7.1.3*Bremsebelegg*
+
 Bruk av komposittmaterialer i bremsebelegg må oppfylle tilsvarende krav som i punkt 4.7.1.1.
+
+4.7.2*Dynamisk brems knyttet til traksjon*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.7 gjelder tilsvarende.
 
+4.7.3*Magnetisk skinnebrems*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.8.2 gjelder tilsvarende.
+
+4.7.4*Virvelstrømbrems*
 
 Virvelstrømsbrems kan interferere med signalsystemer og andre elektriske anlegg. Det må derfor vurderes i det enkelte tilfellet om virvelstrømsbrems kan brukes slik at kravet til teknisk forenlighet oppfylles. Det er da krav til en komplett risikovurdering og validering ved testkjøring på jernbanenettet.
 
+4.7.5*Parkeringsbrems*
+
 Kravene i TSI LOC & PAS 4.2.4.5.5 gjelder tilsvarende. Se ellers punkt 4.5.4 i dette vedlegget.
+
+4.8*Bremsesystemets status og avviksindikering*
 
 Kravene i TSI LOC & PAS punkt 4.2.4.9 og TSI WAG punkt 4.2.4.3.2.2 gjelder tilsvarende.
 
 Følgende standard aksepteres: UIC 547. Ved bruk av andre enn UIC-baserte bremsesystemer må det gjøres egne risikovurderinger av bremsesystemets egnethet og sikkerhet.
 
+4.9*Bremsekrav ved berging*
+
 Kravene i TSI LOC & PAS punkt 4.2.4.10 gjelder tilsvarende. Kravene gjelder også for kjøretøy som skal gå i tog under 200 tonn.
 
 ### 5. Passasjerrelaterte innretninger
+
+5.1*Tilgang*
+
+5.1.1*Utvendige dører*
 
 Ytterdører skal være utformet og styrt slik at sikkerheten for passasjerer og personell ivaretas. Ved lukking skal dørene kunne registrere om passasjerer eller personell blir fastklemt, og automatisk stoppe og frigjøres for en begrenset tid. Dørene og tilhørende utstyr skal tåle de kreftene som de blir utsatt for under kjøring.
 
@@ -469,6 +619,8 @@ Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 651, UIC 
 
 For trappetrinn gjelder kravene i TSI PRM 4.2.2.11 tilsvarende så langt det er fysisk mulig uten for stor inngripen i konstruksjonen. Aksepterte standarder skal legges til grunn, blant annet: UIC 555, UIC 560 og EN 13272.
 
+5.1.2*Ombordstigningshjelpemidler*
+
 Bruk av ombordstigningshjelpemidler for å minske gapet mellom plattform og kjøretøy skal alltid vurderes. Hvis gapet mellom plattform og kjøretøyet er uforsvarlig stort, skal det av hensyn til sikkerheten finnes egnet ombordstigningshjelpemiddel på kjøretøy eller plattform for sikker ombordstigning og avstigning. Kravene i TSI PRM punkt 4.2.2.12 gjelder tilsvarende for slike ombordstigningshjelpemidler.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 565.
@@ -477,35 +629,55 @@ Ved installering av løftesystemer for reisende gjelder kravene i TSI PRM 4.2.2.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 565/3.
 
+5.2*Innvendige innretninger*
+
+5.2.1*Innvendige dører*
+
 Innvendige dører skal være utformet og styrt slik at sikkerheten for passasjerer og personell ivaretas. Ved lukking skal dørene kunne registrere om passasjerer eller personell blir fastklemt, og automatisk stoppe og frigjøres for en begrenset tid.
 
 Kravene i TSI LOC & PAS punkt 4.2.5.7 og TSI PRM punkt 4.2.2.3.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 561.
 
+5.2.2*Innvendige endedører*
+
 Innvendige endedører eller tilsvarende dørsystemer i enden av kjøretøyet skal være utstyrt med låsemekanisme slik at døren låses for å hindre utilsiktet gjennomgang ved blant annet mangel på overgang til neste kjøretøy eller togsett.
+
+5.2.3*Friganger*
 
 Kravene i TSI PRM punkt 4.2.2.6 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 567.
 
+5.2.4*Endring i gulvhøyde*
+
 Kravene i TSI PRM punkt 4.2.2.8 gjelder tilsvarende så lenge det ikke er vesentlige konstruksjonsmessige forhold til hinder for å følge kravene.
+
+5.2.5*Innvendig belysning*
 
 For interiørbelysning gjelder kravene i TSI PRM punkt 4.2.2.4 så langt det passer.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 555, UIC 560 og EN 13272.
 
+5.2.6*Seter og spesielle ordninger for bevegelseshemmede*
+
 Kravene i TSI PRM punkt 4.2.2.1 gjelder tilsvarende så lenge det ikke er vesentlige konstruksjonsmessige forhold til hinder for å følge kravene.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 565, UIC 566 og EN 12663.
+
+5.3*Håndtak og rekkverk*
 
 Kravene i TSI PRM punkt 4.2.2.9 og 4.2.2.1 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 535, UIC 560, UIC 565/3 og EN 14752.
 
+5.4*Vinduer*
+
 Vinduer skal ha utforming og egenskaper som gjør at sikkerheten for passasjerer og personell ivaretas. Kravene i TSI LOC & PAS punkt 4.2.2.9, 4.2.5.9 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 564, UIC 651, UIC 617 og UIC 625.
+
+5.5*Toaletter*
 
 Det skal installeres toaletter om bord i passasjerkjøretøy i den grad det er nødvendig. Kravene i TSI LOC & PAS punkt 4.2.5.1 og 4.2.2.9 gjelder tilsvarende. Klimatiske forhold må tas i betraktning ved design og bruk av toalettsystemer slik at funksjonaliteten ivaretas ved alle påregnelige driftsmessige forhold.
 
@@ -513,13 +685,21 @@ Hvis det installeres toaletter tilpasset rullestol gjelder kravene i TSI PRM pun
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 563.
 
+5.6*Oppvarmings-, ventilasjons- og luftkondisjoneringsanlegg*
+
 Kravene i TSI LOC & PAS punkt 4.2.5.8 gjelder tilsvarende. Ventilasjonssystemet skal utformes og styres slik at det ikke bidrar til å spre røyk eller andre giftige gasser ved brann.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 553, EN 13129, EN 14750 og EN 14813.
 
+5.7*Passasjerinformasjon*
+
+5.7.1*Personannonseringssystem*
+
 Det skal finnes et kommunikasjonssystem om bord for at fører skal kunne gi beskjeder til de reisende. Kravene i TSI LOC & PAS punkt 4.2.5.2 og TSI PRM punkt 4.2.2.7 gjelder tilsvarende så langt det passer for eksisterende kjøretøy og kommunikasjonssystem.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 176.
+
+5.7.2*Skilt og informasjon*
 
 Nødutganger og rømningsveier skal være merket slik at evakuering kan foretas på en sikkerhetsmessig forsvarlig måte.
 
@@ -527,15 +707,29 @@ For skilting og informasjon til de reisende gjelder kravene i TSI LOC & PAS punk
 
 ### 6. Miljøforhold og aerodynamiske virkninger
 
+6.1*Miljøets innvirkning på kjøretøyet*
+
+6.1.1*Miljøforhold med innvirkning på kjøretøyet*
+
+6.1.1.1*Høyde*
+
 Kjøretøy må oppfylle kravene knyttet til drift i aktuelle høyder over havet som fremgår av standarden EN 50125-1. De generelle kravene i TSI LOC & PAS punkt 4.2.6.1 og TSI WAG punkt 4.2.5 gjelder så langt det passer med hensyn til geografiske forhold.
+
+6.1.1.2*Temperatur*
 
 Kjøretøy må konstrueres i henhold til klasse T2 i standarden EN 50125-1 (-40 + 35 °C).
 
 For kjøretøy som er konstruert for høyere minimumstemperaturer enn -40 °C, må driftsmessige begrensninger vurderes. De generelle kravene i TSI LOC & PAS punkt 4.2.6.1 og TSI WAG punkt 4.2.5 gjelder så langt det passer med hensyn til geografiske forhold.
 
+6.1.1.3*Fuktighet*
+
 Kravene i TSI LOC & PAS punkt 4.2.6.1.3 gjelder tilsvarende, men den maksimale temperatursvingningen som skal tas i betraktning skal være opp til 40 °C. Det skal finnes mulighet for drenering fra alle sikkerhetskritiske rom eller åpninger hvor det kan dannes kondens. Ved design og drift av elektriske systemer og bremsesystemer skal det tas hensyn til kondens og frysing. De generelle kravene i TSI LOC & PAS punkt 4.2.6.1, TSI WAG punkt 4.2.5 og CEN/TC 16251 gjelder så langt det passer med hensyn til geografiske forhold.
 
+6.1.1.4*Regn*
+
 Kjøretøy må tåle de regnmengder som fremgår av standarden EN 50125-1 kapittel 4.6. De generelle kravene i TSI LOC & PAS punkt 4.2.6.1 og TSI WAG punkt 4.2.5 gjelder så langt det passer med hensyn til geografiske forhold.
+
+6.1.1.5*Snø, is, og hagl*
 
 Trekkraftkjøretøy skal ha snøplog i henhold til punkt 2.1.1.
 
@@ -543,47 +737,87 @@ Kjøretøyet skal vintertestes under alle påregnelige vinterforhold for å sikr
 
 Kravene i TSI LOC & PAS punkt 4.2.6.1.2 knyttet til vanskelige forhold gjelder tilsvarende. De generelle kravene i TSI LOC & PAS punkt 4.2.6.1 og TSI WAG punkt 4.2.5 gjelder så langt det passer med hensyn til geografiske forhold.
 
+6.1.1.6*Solstråling*
+
 Kjøretøy må tåle de strålebelastningene som fremgår av standarden EN 50125-1 kapittel 4.9.
+
+6.1.1.7*Motstand mot forurensing*
 
 Kjøretøy skal tåle belastninger forårsaket av kjemiske stoffer og partikler med forurensende effekt under alle påregnelige driftsforhold.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 60721.
 
+6.1.2*Aerodynamiske virkninger på kjøretøyet*
+
+6.1.2.1*Virkninger av sidevind*
+
 Ved design og konstruksjon av kjøretøy må det tas hensyn til påregnelige effekter av sidevind. Kravene i TSI LOC & PAS punkt 4.2.6.2.4 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50125, EN 14067.
+
+6.1.2.2*Største trykkvariasjon i tuneller*
 
 Ved design og konstruksjon av kjøretøy må det tas hensyn til trykkvariasjoner som oppstår ved inn- og utkjøring av og passering av kjøretøy i tunneler. Kravene i TSI LOC & PAS punkt 4.2.6.2.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50125, EN 14067, UIC 660.
 
+6.2*Kjøretøyets innvirkning på miljøet*
+
+6.2.1*Ytre utslipp*
+
+6.2.1.1*Utslipp fra toaletter*
+
 Det er ikke tillatt å bruke åpne toalettsystemer i jernbanekjøretøy. Se ellers punkt 5.5 i dette vedlegget.
+
+6.2.1.2*Eksosutslipp*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 623 og 624. Forordning [2016/1628](eu/32016r1628) gjelder tilsvarende.
 
+6.2.1.3*Kjemisk utslipp og partikkelutslipp*
+
 Ingen særlige krav gjelder.
+
+6.2.2*Grenser for støyutslipp*
+
+6.2.2.1*Stasjonær støyvirkning*
 
 Stasjonær støyvirkning må ikke overstige det som er tillatt i henhold til TSI NOI punkt 4.2.1.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 553, UIC 567 og UIC 651.
 
+6.2.2.2*Virkning av startstøy*
+
 Startstøy må ikke overstige det som er tillatt i henhold til TSI NOI punkt 4.2.2 og særtilfellet slik som beskrevet under punkt 7.3.2.3 bokstav (a), jf. [forskrift 12. november 2015 nr. 1306 om gjennomføring av TSI NOI § 2](forskrift/2015-11-12-1306/§2) bokstav (a).
+
+6.2.2.3*Forbikjøringsstøy*
 
 Forbikjøringsstøy må ikke overstige det som er tillatt i henhold til TSI NOI punkt 4.2.3 og særtilfellet slik som beskrevet under punkt 7.3.2.4 bokstav (a) jf. [forskrift 12. november 2015 nr. 1306 om gjennomføring av TSI NOI § 2](forskrift/2015-11-12-1306/§2) bokstav (b).
 
+6.2.3*Grenser for virkning av aerodynamiske belastninger*
+
+6.2.3.1*Trykkbølger i fronten av toget*
+
 Kravene i TSI LOC & PAS punkt 4.2.6.2.2 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: UIC 660.
+
+6.2.3.2*Aerodynamisk innvirkning på passasjerer/materialer på plattform*
 
 Kravene i TSI LOC & PAS punkt 4.2.6.2.1 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 660.
 
+6.2.3.3*Aerodynamisk innvirkning på sporarbeidere*
+
 Kravene i TSI LOC & PAS punkt 4.2.6.2.1 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: UIC 660.
+
+6.2.3.4*Oppløfting og utslynging av ballast til tilstøtende områder*
 
 Se punkt 6.1.1.7. Ved beregning av kjøretøys virkninger på ballast må man ta hensyn til at nominell fraksjon for ballast i Norge er 25 til 63 mm.
 
 ### 7. Krav til utvendig varsling, signalering, merking og programvareintegritet
+
+7.1*Programvareintegritet av betydning for sikkerhetsfunksjoner*
 
 Programvare som brukes til sikkerhetsfunksjoner må utvikles og verifiseres i henhold til EN 50128, EN 50129 og EN 50155. Det skal gjøres en egen risikovurdering for sikkerhetsrelevante funksjoner.
 
@@ -591,27 +825,43 @@ Aksepterte standarder skal legges til grunn, blant annet: EN 50128, EN 50129, EN
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
 
+7.2*Visuelle og hørbare identifikasjons- og varslingsfunksjoner for kjøretøyet*
+
+7.2.1*Kjøretøymerking*
+
 Kjøretøy skal merkes med operasjonell, teknisk og sikkerhetsmessig informasjon, i henhold til krav i eller i medhold av [samtrafikkforskriften](forskrift/2021-09-09-2742). Kravene i TSI LOC & PAS punkt 4.2.2.6, TSI OPE punkt 4.2.2.3 og Vedlegg H gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15877, UIC 640, UIC 580, UIC 581, UIC 438, UIC 545, UIC 552 og UIC 563.
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
 
+7.2.2*Utvendig lys*
+
+7.2.2.1*Frontlys*
+
 Kravene i TSI LOC & PAS punkt 4.2.7.1 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 15153.
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
 
+7.2.2.2*Markeringslys*
+
 Kravene i TSI LOC & PAS punkt 4.2.7.1 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 15153.
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
+
+7.2.2.3*Sluttsignal*
 
 Kravene i TSI LOC & PAS punkt 4.2.7.1 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 15153
+
+7.2.2.4*Lampestyring*
 
 Kravene i TSI LOC & PAS punkt 4.2.7.1.4 gjelder tilsvarende for nyere kjøretøy.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 534 og UIC 532.
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
+
+7.2.3*Lydsignalsystemer*
 
 Kravene i TSI LOC & PAS punkt 4.2.7.2.1, 4.2.7.2.2, 4.2.7.2.4 gjelder tilsvarende.
 
@@ -621,6 +871,8 @@ For varselhornbeskyttelse gjelder kravene i TSI LOC & PAS punkt 4.2.7.2.3 tilsva
 
 Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
 
+7.2.4*Festebraketter*
+
 Se punkt 2.1.5 i vedlegget her.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 12663, UIC 532, UIC 534, UIC 566 og UIC 644.
@@ -629,9 +881,17 @@ Denne bestemmelsen gjelder for alle kjøretøy som skal kjøres i eller som tog.
 
 ### 8. Kraftforsyning og styringssystemer ombord
 
+8.1*Krav til trekkraftytelse*
+
 Dette kapitlet gjelder for trekkraftkjøretøy, med mindre annet er angitt.
 
 For resttrekkraftevne ved redusert drift skal trekkraftkjøretøy ha tilstrekkelig resttrekkraftevne for å kunne kjøre sikkert på strekninger med stigning og tuneller. Geografiske og klimatiske forhold må tas i betraktning, herunder stigningsforhold og vanskelige vinterforhold. For krav til friksjon mellom drivhjul og skinner skal geografiske og klimatiske forhold tas i betraktning. Kravene i TSI LOC & PAS punkt 4.2.8.1.2 gjelder tilsvarende så langt de passer. Se også punkt 4.6.1 i vedlegget her.
+
+8.2*Funksjonelle og tekniske spesifikasjoner for grensesnitt mellom kjøretøyet og delsystemet energi*
+
+8.2.1*Funksjonelle og tekniske spesifikasjoner for strømforsyning*
+
+8.2.1.1*Spesifikke krav for strømforsyning*
 
 Kjøretøy skal fungere tilfredsstillende sammen med strømforsyningen på jernbaneinfrastrukturen og de andre kjøretøyene som finnes på jernbanenettet, og uten at de andre delene av jernbanesystemet påvirkes negativt.
 
@@ -643,7 +903,11 @@ For elektrisk vern gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.10 tilsvarende 
 
 For å hindre unødvendig utkobling av kontaktledningsvern skal maksimalverdien av innkoblingsstrømmen fra transformator eller annen utrustning om bord i trekkraftkjøretøyet ikke overskride 2,0 kA (toppverdi) i løpet av de to første periodene (120 ms) etter tilkobling eller oppstart (for eksempel innkobling av høyspentbryter) mot en stiv spenning på 16500 V. Dette gjelder også totalt når flere kjøretøy styres sammen. Overholdelse av kravet skal testes ved minimum 25 innkoblinger mot et nett som har kortslutningsytelse på minimum 20 kA. Dersom innkoblingen synkroniseres med spenningens nullgjennomgang, er 10 innkoblinger tilstrekkelig.
 
+8.2.1.2*Elektrisk spenning og frekvens på kontaktledningen*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.2 gjelder tilsvarende sammen med krav til testing gitt i EN 50163 og EN 50215.
+
+8.2.1.3*Regenerativ bremsing*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.3 gjelder tilsvarende sammen med krav til testing gitt i EN 50388 (2012) punkt 15.7.
 
@@ -653,6 +917,8 @@ På grunn av kontaktledningens termiske kapasitet og kontaktledningsvernenes evn
 
 Dersom trekkraftkjøretøyet på en tilfredsstillende måte automatisk stopper tilbakemating når det oppstår en kortslutning på samme seksjon som trekkraftkjøretøyet befinner seg på, kan begrensningene på grunn av kontaktledningsvernenes evne til å detektere samtidig kortslutning lempes. Denne funksjonaliteten skal dokumenteres. Se også punkt 8.2.2.9 i vedlegget her.
 
+8.2.1.4*Største effekt og største strøm som er tillatt å trekke fra kontaktledningen*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.4 gjelder tilsvarende sammen med krav til testing gitt i TSI LOC & PAS punkt 6.2.3.18.
 
 Klassifisering av jernbanenettet med tanke på største effekt og strøm som det er tillatt å trekke fra kontaktledningen, er angitt av infrastrukturforvalter i nettveiledningen.
@@ -661,43 +927,83 @@ Automatisk strømbegrensning ved lav kontaktledningsspenning, i henhold til EN 5
 
 Trekkraftkjøretøy skal ha innebygget teknisk mulighet for begrensning av maksimalt strømforbruk i henhold til grenseverdier angitt i infrastrukturforvalters nettveiledning i henhold til EN 50388 (2012) punkt 7.3.
 
+8.2.2*Funksjonelle og konstruksjonsmessige parametere for strømavtakeren*
+
+8.2.2.1*Generell utforming av strømavtakeren*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 50206-1, IEC 60494, IEC 61133 og EN 50367.
 
+8.2.2.2*Strømavtakerhodets geometri*
+
 Strømavtakeren skal ha en geometri som beskrevet i EN 50367 Figur B.6 (1800 mm). På strekninger angitt i infrastrukturforvalters nettveiledning kan strømavtakere med en geometri som beskrevet i EN 50367 Figur A.8 (1950 mm) og Figur A.7 (1600 mm) benyttes. Kravene i TSI LOC & PAS punkt 4.2.8.2.9.2 annet, tredje og fjerde ledd gjelder tilsvarende.
+
+8.2.2.3*Strømavtakerens kontaktkraft – inkludert statisk kontaktkraft, dynamisk kontaktkraft og aerodynamiske virkninger*
 
 Strømavtakeren skal ha en statisk kontaktkraft på 55 N. På strekninger angitt i infrastrukturforvalters nettveiledning gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.5 tilsvarende. For strømavtakerens kontaktkraft (herunder dynamiske egenskaper og aerodynamiske virkninger) gjelder kravene i TSI LOC & PAS punkt 4.2.8.2.9.6 tilsvarende. I tillegg skal strømavtakeren følge en målkurve angitt etter følgende formel:Hastighet v ≤ 160 km/tFm = 0,000586v2 + 70Hastighet 160 < v ≤ 250 km/tFm = 0,00097v2 + 60,2
 
 På strekninger angitt i infrastrukturforvalters nettveiledning skal strømavtakere oppfylle krav til å følge en målkurve angitt etter formler gitt i prEN 50367:2017 tabell 6a og 6b:Tabell 6a:Hastighet v ≤ 200 km/tFm = 0,00047v2 + 90Hastighet v > 200 km/hFm = 0,00097v2 + 70Tabell 6b:Hastighet v ≤ 160 km/tFm = 0,00047(1,25v)2 + 90Hastighet v > 160 km/tFm = 0,00097(1,25v)2 + 70
 
+8.2.2.4*Arbeidsområde for strømavtakere*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.1 gjelder tilsvarende. Arbeidsområdet for strømavtakere skal være som angitt i EN 50367 tabell B.3.
+
+8.2.2.5*Strømkapasitet for strømavtaker inkludert slepestykket*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50388 og EN 50206.
 
+8.2.2.6*Anordning av strømavtakere*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.7 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 50367.
 
+8.2.2.7*Isolasjon av strømavtakere fra kjøretøyet*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.9 gjelder tilsvarende.
+
+8.2.2.8*Senking av strømavtaker*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.10 gjelder tilsvarende. Nye kjøretøy skal automatisk senke strømavtaker ved feil på slepestykket, ved hjelp av pantograph dropping device (PDD). Se punkt 8.2.3.4.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50206.
 
+8.2.2.9*Kjøring gjennom faseskilleseksjoner eller systemskilleseksjoner*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.8 gjelder tilsvarende sammen med krav til testing gitt i EN 50388 punkt 15.1. Også tilbakematet effekt skal reduseres til 0 ved passering av faseskillestrekninger. Kjøretøy skal være utrustet slik at det kan passere spenningsløs seksjon som ikke er jordet ved at strømavtakeren senkes eller kobles ut.
+
+8.2.3*Funksjons- og konstruksjonsparametrer for slepestykket*
+
+8.2.3.1*Slepestykkets geometri*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.4.1 gjelder tilsvarende. Slepestykkets geometri skal være ifølge EN 50206-1 punkt 4.6 og EN 50367 vedlegg B, figur B5. For strekninger angitt i infrastrukturforvalters nettveiledning kan også EN 50367 vedlegg A, punkt A2.2 følges. Dette punktet må sees i sammenheng med punkt 8.2.2.2 i vedlegget her.
 
+8.2.3.2*Materiale i slepestykket*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2.9.4.2 gjelder tilsvarende. Materiale i slepestykke kan være rent karbon eller metallisert karbon med metallvekt opp til 35 %. Se EN 50206-1, EN 50367 og UIC 608.
+
+8.2.3.3*Vurdering av slepestykke*
 
 Kravene i TSI LOC & PAS punkt 6.1.3.8 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 50405
 
+8.2.3.4*Detektering av brudd i slepestykket*
+
 Nye kjøretøy skal automatisk senke strømavtaker ved feil på slepestykket, ved hjelp av pantograph dropping device (PDD). Se punkt 8.2.2.8 i vedlegget her.
+
+8.3*Strømforsyning og trekkraftsystem*
+
+8.3.1*Måling av energiforbruk*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.8 gjelder tilsvarende.
 
+8.3.2*Krav til elektriske installasjoner om bord i kjøretøyet*
+
 Kravene i TSI LOC & PAS punkt 4.2.8.2 gjelder tilsvarende.
 
+8.3.3*Høyspenningskomponenter*
+
 Ingen særlige krav gjelder.
+
+8.3.4*Jording*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.4 gjelder tilsvarende.
 
@@ -705,9 +1011,19 @@ Det skal være nødvendig informasjon om frakobling og jording av kjøretøy ent
 
 Jordingsinstruksjoner, -utstyr og merking er angitt i EN 50153.
 
+8.4*Elektromagnetisk kompatibilitet (EMC)*
+
+8.4.1*EMC om bord i kjøretøyet*
+
 Det må utføres tester av elektromagnetisk kompatibilitet mellom strømforsyningssystemet om bord og annen ombordutrustning, eksempelvis togkontrollsystemet, i henhold til EN 50121.
 
 Der personer om bord kan utsettes for elektromagnetiske felt må det tas hensyn til tillatte grenseverdier.
+
+8.4.2*EMC mellom kjøretøyet og med den bakkebaserte delen av jernbanesystemet*
+
+8.4.2.1*Maksimale verdier for strøm*
+
+8.4.2.1.1*Sportilbakeførende strøm*
 
 Det må utføres tester av elektromagnetisk kompatibilitet mellom kjøretøyet og signal- og telekommunikasjonsnettet i henhold til EN 50121, TS 50238-2 og TS 50238-3. Kjøretøy må ikke påvirke andre kjøretøyer og den bakkebaserte delen av jernbanesystemet negativt. Infrastrukturutstyr, eksempelvis sporfelt- og akseltellertyper, fremgår av nettveiledningen. Samsvarserklæring i henhold til [forskrift 15. april 2016 nr. 378](forskrift/2016-04-15-378) om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon må foreligge.
 
@@ -715,15 +1031,27 @@ Hovedbryteren må kobles fra automatisk hvis strøm i alle frekvensområder med 
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50121.
 
-Ingen særlige krav gjelder.
+8.4.2.1.2*Interferensstrøm fra oppvarmingsanlegg*
 
 Ingen særlige krav gjelder.
+
+8.4.2.1.3*Interferensstrøm på undersiden av kjøretøyet*
+
+Ingen særlige krav gjelder.
+
+8.4.2.1.4*Harmoniske karakteristikker og tilhørende overspenninger fra kontaktledningsspenningen*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.2.7 gjelder tilsvarende. I tillegg skal det for å sikre teknisk forenlighet også innhentes informasjon fra infrastrukturforvalter i henhold til EN 50388 vedlegg D, ettersom informasjonen i EN 50388 vedlegg D ikke er tilstrekkelig for å sikre teknisk forenelighet mellom kjøretøy og infrastrukturen på jernbanenettet.
 
 Ved testing av kjøretøyets tekniske forenlighet med strømforsyningen på jernbanenettet skal følgende forhold tas i betraktning for både trafikk og hensetting ved forsyning via strømavtaker:Generelt svak strømforsyning karakterisert med lange matestrekninger, enkeltspor (dvs. høy kontaktledningsimpedans) og roterende omformere så vel som statiske omformere fra 50 Hz til 16 2/3 Hz med liten ytelseLavfrekvente pendlinger ved mating fra roterende omformeraggregater på grunn av en elektromekanisk egenfrekvens med lav dempingHøyt innhold av overharmoniske (over 30 % THDu) i kontaktledningsspenningen, spesielt 3. og 5. harmoniske og repeterende høye toppverdier på spenningen (opptil 33 kV) på grunn av mange eksisterende trekkraftkjøretøy med halvstyrte tyristorbruerBruk av automatisk begrensning av effekt/strøm ved lav kontaktledningsspenning og kapasitiv kompensering for økt overføringskapasitet ved lange matestrekningerBruk av automatisk begrensning av effekt/strøm ved høy kontaktledningsspenning og induktiv kompensering for å begrense kontaktledningsspenningen ved tilbakematingLave elektriske resonansfrekvenser på grunn av stor andel kabel i infrastrukturen og passive filtre i eksisterende trekkraftkjøretøy
 
+8.4.2.1.5*Virkninger av likestrømsinnhold i vekselstrømforsyningen*
+
 EN 50388 (2012) punkt 13 gjelder tilsvarende. Likestrøm opp til 40 A i 60 sekunder og 70 A kortvarig er målt på eksisterende kjøretøy på det jernbanenettet på grunn av rim på kontaktledningen.
+
+8.4.2.2*Maksimale elektromagnetiske felt/induserte spenninger*
+
+8.4.2.2.1*Elektromagnetiske felt/induserte spenninger i sporet under kjøretøyet*
 
 Tilleggskrav til (ev.) andre spesifiserte grenseverdier for samme frekvenser i forbindelse med togdeteksjon:92 Hz–300 Hz, strøm skal måles og dokumenteres.300 Hz–7 kHz, maks 1 A RMS kontinuerlig 1 sek.7 kHz–9 kHz, maks 0,5 A RMS kontinuerlig 1 sek.> 9 kHz, maks 0,33 A RMS kontinuerlig 1 sek.
 
@@ -731,33 +1059,65 @@ Beregning:
 
 FFT med 8 1/3 Hz oppløsning (120 ms tidsvindu) etterfulgt av 1 sek sveipende RMS langs tidsaksen for hvert FFT intervall. Grenseverdien gjelder for hvert FFT intervall.
 
-Ingen særlige krav gjelder.
+8.4.2.2.2*Elektromagnetiske felt/induserte spenninger på utsiden av sporet*
 
 Ingen særlige krav gjelder.
+
+8.4.2.3*Kjøretøyets inngangsimpedans*
+
+Ingen særlige krav gjelder.
+
+8.4.2.4*Psofometrisk strøm*
 
 Psofometrisk støystrøm generert av toget i kontaktledningen skal ikke overstige 1,5 A. Metode for målingen av støystrøm skal følge EN 50121-1 og EN 50121-3.
 
-Ingen særlige krav gjelder.
+8.4.2.5*Tverrspenningsgrenseverdier for compatibility audio-/datakretser*
 
 Ingen særlige krav gjelder.
 
+8.4.3*EMC mellom kjøretøy og miljø*
+
+8.4.3.1*Maksimale elektromagnetiske felt*
+
 Ingen særlige krav gjelder.
+
+8.4.3.2*Indusert bredbåndinterferens på strøm/spenning*
+
+Ingen særlige krav gjelder.
+
+8.4.3.3*Psofometrisk strøm*
 
 Psofometrisk støystrøm generert av toget i kontaktledningen skal ikke overstige 1,5 A. Metode for målingen av støystrøm skal følge EN 50121-1 og EN 50121-3.
+
+8.5*Beskyttelse mot elektriske farer inkludert jording*
 
 Kravene i TSI LOC & PAS punkt 4.2.8.4 og TSI WAG punkt 4.2.6.2 gjelder tilsvarende.
 
+8.6*Krav til dieseldrevne og andre termiskbaserte trekkraftsystemer*
+
 Kravet i TSI LOC & PAS punkt 4.2.8.3 gjelder tilsvarende. For eksosutslipp se 6.2.1.2 i dette vedlegget.
 
+8.7*Systemer med behov for spesielle overvåkings- og beskyttelsestiltak*
+
+8.7.1*Tanker og rørsystemer for brannfarlige væsker*
+
 Beholdere og rørforbindelser skal være plassert og beskyttet slik at skader, lekkasjer, brann eller spredning av brann ikke er mulig under normale og påregnelige driftssituasjoner. Kravene i RID og TSI LOC & PAS punkt 4.2.10.2.2 og TSI WAG punkt 4.2.6.1.2.4 gjelder tilsvarende. Aksepterte standarder skal legges til grunn, blant annet: EN 45545, EN ISO 2719.
+
+8.7.2*Trykkbeholdersystemer/trykkutstyr*
 
 Trykkbeholdersystemer og trykkutstyr skal følge direktiv [2014/68/EU](eu/32014l0068).
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 286.
 
+8.7.3*Dampkjeleanlegg*
+
 Ingen særlige krav gjelder.
 
+8.7.4*Tekniske systemer i eksplosjonsfarlige omgivelser*
+
 Se punkt 8.7.1 i dette vedlegget.
+
+8.7.5*Hydrauliske/pneumatiske forsynings- og kontrollsystemer*
 
 Se punkt 6.1.1.3 i dette vedlegget. Kravene som gjelder for vanskelige snø-, is- og haglforhold i TSI LOC & PAS punkt 4.2.6.1.2 skal legges til grunn for alle kjøretøy som skal operere uten restriksjoner på jernbanenettet.
 
@@ -767,85 +1127,147 @@ CEN/TR 16251 gjelder tilsvarende.
 
 ### 9. Personalutstyr, grensesnitt og miljø
 
+9.1*Utforming av førerhus*
+
+9.1.1*Innvendig utforming*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.4 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 13272, EN 16186, EN 14033, EN 16116, UIC 617, og UIC 651.
+
+9.1.2*Tilgang til førerhuset*
+
+9.1.2.1*Inngang, utgang og dører*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.1.2.1 gjelder tilsvarende for nyere kjøretøy.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 14752, UIC 646 og UIC 651.
 
+9.1.2.2*Nødutganger fra førerhuset*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.2.2 og TSI SRT punkt 4.2.3.4.2 gjelder tilsvarende for nyere kjøretøy.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 14752 og UIC 651.
+
+9.1.3*Frontrute i førerhus*
+
+9.1.3.1*Mekaniske egenskaper*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.2.1 gjelder tilsvarende for nyere kjøretøy.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 651, UIC 617 og EN 15152.
 
+9.1.3.2*Optiske egenskaper*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.2.2 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 651, UIC 617 og EN 15152.
 
+9.1.3.3*Utstyr knyttet til frontrute*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.2.3 gjelder tilsvarende.
+
+9.1.3.4*Sikt framover/synsfelt*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.1.3.1 og TSI CCS 4.2.15 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 525 og EN 15152.
 
+9.1.4*Kontrollpanelets ergonomi*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.6 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC651.
+
+9.1.5*Førersete*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.1.5 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC651.
 
+9.2*Helse og sikkerhet*
+
+9.2.1*Miljøforhold*
+
+9.2.1.1*Oppvarmings-, ventilasjons- og luftkondisjoneringsanlegg i førerhus*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.7 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 14813 og EN 13129.
+
+9.2.1.2*Støy i førerhus*
 
 Det gjelder krav til støygrenser i henhold til [forskrift 6. desember 2011 nr. 1358 om tiltaks- og grenseverdier](forskrift/2011-12-06-1358), men tillatelse til ibruktaking etter forskriften her gis uavhengig av oppfyllelse av de kravene. Kravene i TSI NOI punkt 6.2.2.4 og TSI LOC & PAS punkt 4.2.9.1.1 gjelder tilsvarende. Ved endringer må ikke støynivået i førerhuset økes.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 15892
 
+9.2.1.3*Belysning i førerhus*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.8 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 13272, UIC 651 og UIC 555.
 
+9.2.2*Andre helse- og sikkerhetsmessige krav*
+
 Ingen særlige krav gjelder.
+
+9.3*Grensesnitt mellom fører og maskin*
+
+9.3.1*Hastighetsmåling*
 
 Det skal finnes en innretning som viser riktig hastighet til føreren. Kravene i TSI LOC & PAS punkt 4.2.9.3.2 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 617 og UIC 612.
 
+9.3.2*Visningsenheter og skjermer for fører*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.3.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 612.
+
+9.3.3*Betjeningsinnretninger og måleinstrumenter*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.3.4 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 612.
 
+9.3.4*Overvåking av fører*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.3.1 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 641.
 
+9.3.5*Synsfelt bakover og til siden*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.1.3.2 gjelder tilsvarende, men i tillegg må føreren kunne se bakover langs toget under kjøring. Utstyret må kunne gi sikt bakover ved alle påregnelige klimatiske forhold, særlig ved dugg, frost og isdannelse.
+
+9.4*Merking og skilting i førerhus*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.3.5 gjelder tilsvarende. Informasjonen skal være på et språk føreren behersker.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 640, UIC 612.
 
+9.5*Utstyr og andre innretninger om bord for personalet*
+
+9.5.1*Innretninger om bord for personalet*
+
+9.5.1.1*Personalets tilgang for til- og frakopling*
+
 Kravene i TSI LOC & PAS punkt 4.2.2.2.5 og TSI WAG punkt 4.7 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 50153, UIC 521, UIC 571 og UIC 536.
+
+9.5.1.2*Utvendige stigtrinn og håndlist for skiftepersonell*
 
 For godsvogner gjelder kravene i TSI LOC & PAS punkt 4.2.9.1.2.1 og TSI WAG punkt 4.2.2.2 tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 535, UIC 560 og UIC 646.
 
+9.5.1.3*Lagringsanlegg for personalet*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.5 gjelder tilsvarende, men personalets lagringsmuligheter må tilpasses behovet for lagring av nødvendig personlig utstyr med hensyn til klimatiske forhold.
+
+9.5.2*Dører for personale og gods*
 
 Dører for personale og gods skal være utformet og utstyrt slik at de kan betjenes kun av autorisert personale.
 
@@ -853,17 +1275,27 @@ Kravene i TSI LOC & PAS punkt 4.2.2.8 gjelder tilsvarende. Se også avsnitt 5.1.
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 14752 og UIC 560.
 
+9.5.3*Verktøy og bærbart utstyr om bord*
+
 Kravene i TSI LOC & PAS punkt 4.2.9.4 gjelder tilsvarende.
+
+9.5.4*Lydkommunikasjonssystem*
 
 Personvarslingssystemet i punkt 5.7.1 i dette vedlegget skal også kunne brukes til kommunikasjon mellom ombordpersonalet eller kommunikasjon mellom ombordpersonalet og utvendig personal. Kravene i TSI LOC & PAS punkt 4.2.5.2 og 4.2.5.4 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 558, UIC 561, UIC 568 og UIC 751.
 
+9.6*Ferdsskriver*
+
 Alle trekkraftkjøretøy skal være utstyrt med et teknisk registreringssystem som minst registrerer hastighet. All tilgjengelig informasjon fra det automatiske hastighetsovervåkningssystemet skal lagres og gjenopprettes sikkert til bruk ved eventuelle undersøkelse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser. Kravene i TSI LOC & PAS punkt 4.2.9.6 gjelder tilsvarende.
+
+9.7*Fjernstyringsfunksjon fra bakken*
 
 Kravene i TSI LOC & PAS punkt 4.2.9.3.6 gjelder tilsvarende. Fjernstyrte systemer må være innenfor akseptabel risiko bekreftet av en sikkerhetsvurderingsrapport.
 
 ### 10. Brannsikkerhet og evakuering
+
+10.1*Brannsikringskonsept og sikringstiltak*
 
 Kjøretøy skal ikke inneholde lett antennelige materialer. Materialene som brukes skal i minst mulig grad avgi røyk og skadelige branngasser ved en eventuell brann.
 
@@ -871,31 +1303,53 @@ Kravene i TSI LOC & PAS punkt 4.2.10 gjelder tilsvarende. Kravene i TSI WAG punk
 
 Aksepterte standarder skal legges til grunn, blant annet: EN 45545, UIC 564 og UIC 642.
 
+10.2*Nødsituasjoner*
+
+10.2.1*Evakueringskonsept for passasjerer*
+
 Kravene i TSI LOC & PAS punkt 4.2.10.5 gjelder tilsvarende. Videre skal det legges spesielt til rette for evakuering av orienterings- og bevegelseshemmede. Nødutganger på eldre materiell og nyere materiell som ikke er TSI-kompatibelt skal spesifiseres særskilt.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 560, UIC 564-1, UIC 651 og EN 13272.
+
+10.2.2*Informasjon, utstyr og tilgang for redningstjenestene*
 
 Det skal legges til rette for at redningspersonell kan drive effektivt redningsarbeid.
 
 Kjøretøy skal ha nødutstyr om bord tilpasset bruken. Nødutstyr og plassering av dette skal være merket.
 
+10.2.3*Passasjeralarm*
+
 Det skal være mulig for passasjerene å varsle føreren om en nødsituasjon ved hjelp av en alarmfunksjon eller bruk av nødstopp. Se punkt 4.4.1 i dette vedlegget for aktivering av nødbrems. Kravene i TSI LOC & PAS punkt 4.2.5.3 og 4.2.10.4.3. og TSI SRT punkt 4.2.3.3.3 gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 541.
+
+10.2.4*Nødbelysning*
 
 Kjøretøy skal ha nødlys. Kravene i TSI LOC & PAS punkt 4.2.10.4.1 gjelder tilsvarende. TSI SRT punkt 4.2.3.3.1. gjelder tilsvarende.
 
 Aksepterte standarder skal legges til grunn, blant annet: UIC 555.
 
+10.3*Kjøreevne i nødsituasjoner*
+
 Kravene i TSI LOC & PAS punkt 4.2.10.4.2 og 4.2.10.4.4 gjelder tilsvarende. Det skal utarbeides sikkerhetsvurderingsrapport, prosedyrer og sikkerhetsrelaterte tiltak ved nødsituasjoner, eksempelvis for kjøring gjennom lange tunneler med brann ombord.
 
 ### 11. Vedlikehold
 
+11.1*Anlegg for rengjøring av tog*
+
 Kravene i TSI LOC & PAS punkt 4.2.11.2 gjelder tilsvarende.
+
+11.2*Anlegg for vedlikehold og service*
+
+11.2.1*Utslippssystemer for spillvann*
 
 Kravene i TSI LOC & PAS punkt 4.2.11.3 gjelder tilsvarende. Grensesnittet for tømmesystem for spillvann kan variere. Adaptere er nødvendig for tilpasning.
 
+11.2.2*Vannforsyningsanlegg*
+
 Kravene i TSI LOC & PAS punkt 4.2.11.4 gjelder tilsvarende. Grensesnittet for vannforsyning kan variere. Adaptere er nødvendig for tilpasning.
+
+11.2.3*Andre forsyningsinnretninger*
 
 På det nasjonale jernbanenettet tilbys togvarmeposter med forsyning på trefase 400 V 50 Hz, enfase 1000 V 16,7 Hz og/eller enfase 1000 V 50 Hz på utvalgte steder. Kravene i TSI LOC & PAS punkt 4.2.11.6 gjelder så langt det passer. Alle krav gjelder hele sammensetningen av kjøretøy som skal tilkobles togvarmeposten.
 
@@ -911,63 +1365,123 @@ For å sikre selektivitet skal den første toppverdien av innkoblingsstrømmen v
 
 Maksimal effekt og strøm som det er tillatt å trekke fra én togvarmepost er angitt i nettveiledningen.
 
+11.2.4*Grensesnitt for drivstoffpåfyllsutstyr for ikke-elektriske kjøretøy*
+
 Kravene i TSI LOC & PAS punkt 4.2.11.7 gjelder tilsvarende.
 
 ### 12. Styring, kontroll og signalering om bord
 
+12.1*Radiosystem om bord*
+
+12.1.1*Andre radiosystemer enn GSM-R*
+
 Det er tillatt å bruke andre kommunikasjonssystemer i tillegg til GSM-R i forbindelse med skifting.
+
+12.1.2*GSM-R-forenlig radiosystem*
+
+12.1.2.1*Bruk av håndholdt GSM-R-enhet*
 
 Trekkraftkjøretøy skal ha fastmontert GSM-R 8W permanent montert togradio med ekstern antenne til bruk i togframføringen og for nødkommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og trafikkstyringssentralen. Slik radio skal oppfylle kravene i EIRENE-standarden. I tillegg kan det være nødvendig med en tilgjengelig håndholdt GSM-R-enhet som føreren kan bruke i de situasjonene der det må utføres oppgaver utenfor førerrommet. Utover dette gjelder ingen krav utover det som følger av EIRENE-standarden.
 
+12.1.2.2*Andre GSM-R-krav*
+
 Det må utføres en risikovurdering av forhold knyttet til kryssing av landegrenser. Dette må minst omhandle frekvensbegrensninger, installasjon av filtre for å minske forstyrrelser (se også punkt 12.2.3) og nøkkelhåndtering. Kun manuelle prosedyrer for valg av GSM-R nettverk aksepteres. For øvrig gjelder ingen krav utover det som følger av EIRENE-standarden.
 
+12.2*Ombordsignalering*
+
+12.2.1*Nasjonale signalsystemer om bord*
+
 Trekkraftkjøretøy som skal brukes på strekninger som er utstyrt med automatisk hastighetsovervåkning av klasse B skal ha utstyr som kan samvirke med dette. Klasse B-utstyr som er tillatt i Norge fremgår av ERA-dokument ERA/TD/2011-11. Aksepterte standarder skal legges til grunn, blant annet EN 50129.
+
+12.2.2*Krav til STM*
 
 Statens jernbanetilsyn skal ha utfyllende krav til STM-enheten på tilsynets nettsider. For å sikre teknisk forenlighet og sikker integrering må det foretas testing av styrings- og kontrollutstyr ved integrering av dette utstyret i kjøretøy (integrasjonstesting) jf. § 10. Infrastrukturforvalteren skal ha utfyllende bestemmelser om integrasjonstesting. STM-enheten skal kommunisere sikkert med klasse B-systemet.
 
 Følgende skal dokumenteres:Beskrivelse av STM-enheten. Beskrivelse av alle grensesnitt som ikke er en del av TSI CCS.Samsvar med spesifikasjon for STM-enheten (ref. utfyllende bestemmelser fra SJT).ISA rapport for etterlevelse av krav i EN 50126, EN 50128 og EN 50129.Sikkerhetsvurderingsrapport som bekrefter sikker integrering av STM-enheten i relevante delsystemer)Sikkerhetsvurderingsrapport som bekrefter sikker integrering mellom kjøretøyet og det norske jernbanesystemet, herunder integrasjonstester.
 
+12.2.3*Overganger*
+
 Det må utføres en risikovurdering av forhold knyttet til kommunikasjon- og datanettverk ved kryssing av landegrenser. Dette må minst omhandle frekvensbegrensninger, valg av nettverk, installasjon av filtre for å minske forstyrrelser (se også punkt 12.1.2.2) og nøkkelhåndtering. Kun manuelle prosedyrer for GSM-R nettverk valg aksepteres.
+
+12.2.4*Forenlighet mellom kjøretøy og CCS-jernbaneinfrastrukturen*
+
+12.2.4.1*Minste akselavstand*
 
 Det skal gjennomføres risikovurderinger og verifikasjon av kompatibilitet mellom kjøretøy og jernbaneinfrastrukturen. Kravene i EN 50238 for dette området gjelder. Kravene i TSI CCS Annex A sammen med kravene fra ERA/ERTMS/033281 gjelder så langt det passer. Kjøretøy som skal være kompatibel med klasse B togkontrollsystem med hensyn til togdeteksjon, må i tillegg ha minste avstand 3000 mm mellom ytre aksler og maksimalt 17500 mm avstand mellom nærmeste aksler.
 
+12.2.4.2*Minste hjuldiameter*
+
 Kravene i TSI CCS Annex A sammen med kravene fra ERA/ERTMS/033281 gjelder så langt det passer. Det skal gjennomføres risikovurderinger og verifikasjon av kompatibilitet mellom kjøretøy og jernbaneinfrastrukturen. Kravene i EN 50238 for dette området gjelder.
+
+12.2.4.3*Metallelementer og induktive elementer – fritt område mellom hjulene*
 
 Det skal gjennomføres risikovurderinger og verifikasjon av kompatibilitet mellom kjøretøy og jernbaneinfrastrukturen. Kravene i EN 50238 for dette området gjelder. Kravene i TSI CCS Annex A sammen med kravene fra ERA/ERTMS/033281 gjelder så langt det passer.
 
+12.2.4.4*Kjøretøyets metallmasse*
+
 For sikker togdeteksjon må minimum akseltrykk være over 3,5 tonn, og dessuten må påvirkning av belegg fra sanding og komposittbremseklosser vurderes særskilt – se også punkt 3.3.4 og 3.3.5 i dette vedlegget. Kravene i EN 50238 for dette området gjelder. Kravene i TSI CCS Annex A sammen med kravene fra ERA/ERTMS/033281 gjelder så langt det passer.
+
+12.2.4.5*Kompatibilitet med CCS-jernbaneinfrastruktur*
 
 Kravene i TSI CCS Annex A sammen med kravene fra ERA/ERTMS/033281 gjelder så langt det passer.
 
-Ingen særlige krav gjelder.
+12.2.5*ETCS-signalsystem for førerhuset*
+
+12.2.5.1*Planovergangsfunksjonalitet*
 
 Ingen særlige krav gjelder.
+
+12.2.5.2*Bremsesikkerhetsmarginer*
+
+Ingen særlige krav gjelder.
+
+12.2.5.3*Krav til pålitelighet, tilgjengelighet og sikkerhet*
 
 RAMS-krav for ETCS ombordutrustning spesifiseres av infrastrukturforvalter.
 
-Ingen særlige krav gjelder.
+12.2.5.4*Sikkerhetskrav*
 
 Ingen særlige krav gjelder.
+
+12.2.5.5*Ergonomiske aspekter ved DMI*
+
+Ingen særlige krav gjelder.
+
+12.2.5.6*Grensesnitt mot driftsbrems*
 
 Det må gjennomføres risikovurdering og test for validering av grensesnittet mellom ETCS-ombordutrustningen og togets bremsesystem.
+
+12.2.5.7*Andre ETCS-krav*
 
 ETCS-krav når kjøretøyet ikke styres fra førerhuset: Det må foreligge et sikkerhetsbevis hvis ETCS skal brukes ved fjernstyring, f.eks. ved skifting. Funksjonen skal være testet og validert.
 
 Krav til Key Management samsvar: Det må utføres en risikovurdering for Key Management, f.eks. krav som omhandler grensesnitt for å endre kryptonøkler.
 
+12.2.5.8*Spesifikasjon for bruksbetingelser når ikke alle funksjoner, grensesnitt og ytelser spesifisert for ETCS om bord blir iverksatt*
+
 Det må gjennomføres risikovurdering for alle ETCS-ombordfunksjoner som avviker fra tekniske spesifikasjoner, og kompatibilitetstest skal gjennomføres. Betingelser for bruk skal nevnes særskilt.
 
 ### 13. Særlige driftskrav
 
+13.1*Særlige komponenter som skal plasseres om bord*
+
 Trekkraftkjøretøy skal utstyres med blant annet førstehjelpsutstyr for personell og reisende, utstyr for kortslutning av sporfelter mm. Kjøretøy skal ha egnet utstyr for evakuering, og egnet utstyr for bergingssituasjoner. For øvrig skal kjøretøy utstyres i tråd med det som følger av kapittel 10 i vedlegget her.
+
+13.2*Fergetransport*
 
 Ingen særlige krav gjelder.
 
 ### 14. Godsinnretninger
 
+14.1*Begrensninger med hensyn til konstruksjon, drift og vedlikehold for transport av farlig gods*
+
 Ingen særlige krav gjelder utover det som følger av [forskrift 1. april 2009 nr. 384, om landtransport av farlig gods](forskrift/2009-04-01-384). Kravene i TSI WAG punkt 4.2.2.6 gjelder tilsvarende.
 
+14.2*Særlige innretninger for transport av gods*
+
 Ved bruk av særlige innretninger for transport av gods skal aksepterte standarder legges til grunn, blant annet: UIC 576.
+
+14.3*Dører og lasteinnretninger*
 
 Se punkt 9.5.2 i dette vedlegget. For godsvogner gjelder TSI WAG punkt 4.2.2.3 tilsvarende.
 

@@ -67,6 +67,18 @@ Nedenfor gjengis [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10
 
 ### EØS-avtalen vedlegg XXII nr. 10 (rådsforordning (EØF) nr. 2137/85 av 25 juli 1985 om europeiske økonomiske foretaksgrupper (EØFG)) – med de endringer som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig
 
+[Rådet for De europeiske fellesskap har1 –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 235,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Europaparlamentet,
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,
+
+og ut fra følgende betraktninger:
+
 En harmonisk utvikling av den økonomiske virksomhet og en vedvarende og avbalansert vekst i Fellesskapet som helhet avhenger av at det opprettes et felles marked som fungerer godt, og som gir vilkår som tilsvarer vilkårene på et nasjonalt marked. For å gjennomføre dette indre marked og styrke dets enhet, er det særlig ønskelig at det for fysiske personer, selskaper og andre rettssubjekter skapes en rettslig ramme som letter tilpasningen av deres virksomhet til Fellesskapets økonomiske vilkår. For dette formål er det nødvendig at disse fysiske personer, selskaper og andre rettssubjekter kan ha et reelt samarbeid over landegrensene.
 
 Samarbeid av denne art kan støte på juridiske, skattemessige eller psykologiske vanskeligheter. Opprettelse av et egnet juridisk instrument på fellesskapsnivå i form av en europeisk økonomisk foretaksgruppe vil bidra til å oppnå ovennevnte mål, og synes derfor nødvendig.
@@ -103,35 +115,43 @@ Medlemsstatene kan fritt anvende eller vedta enhver lov eller forskrift som ikke
 
 Denne forordning skal umiddelbart tre i kraft i alle deler. Gjennomføringen av enkelte bestemmelser må likevel utsettes for å gi medlemsstatene anledning til på forhånd å innføre de nødvendige ordninger for registrering av gruppene på sitt territorium og for offentliggjøring av gruppenes dokumenter. Med virkning fra den dag da denne forordning er gjennomført, kan de stiftede grupper fungere uten territoriale begrensninger –
 
+Vedtatt denne forordning:]
+
+1 Ordlyden i innledningen (fortalen) til de rettsakter som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf. EØS-avtalen protokoll 1 nr. 1. I protokoll 1 heter det at innledningen bare er relevant i den utstrekning den kan bidra til en riktig fortolkning og anvendelse av bestemmelsene i rettsakten innenfor rammen av EØS-avtalen.
+
 ### Art 1
 
-1. Europeiske økonomiske foretaksgrupper skal stiftes på de vilkår, etter de regler og med de virkninger som er fastsatt i denne forordning.De parter som har til hensikt å opprette en gruppe, skal derfor inngå en avtale og foreta registrering som fastsatt i artikkel 6.
+1\. Europeiske økonomiske foretaksgrupper skal stiftes på de vilkår, etter de regler og med de virkninger som er fastsatt i denne forordning.De parter som har til hensikt å opprette en gruppe, skal derfor inngå en avtale og foreta registrering som fastsatt i artikkel 6.
 
-2. En gruppe som er stiftet på denne måten, kan fra tidspunktet for registreringen fastsatt i artikkel 6 i eget navn ha alle slags rettigheter og forpliktelser, inngå avtaler eller foreta andre juridiske disposisjoner, samt ha partsevne ved søksmål.
+2\. En gruppe som er stiftet på denne måten, kan fra tidspunktet for registreringen fastsatt i artikkel 6 i eget navn ha alle slags rettigheter og forpliktelser, inngå avtaler eller foreta andre juridiske disposisjoner, samt ha partsevne ved søksmål.
 
-3. **EØS-statene**1 skal bestemme om en gruppe som er registrert ved deres registre i samsvar med artikkel 6, skal være eget rettssubjekt.
+3\. **EØS-statene**1 skal bestemme om en gruppe som er registrert ved deres registre i samsvar med artikkel 6, skal være eget rettssubjekt.
+
+1 Begrepet «medlemsstat» må anses også å omfatte EFTA-landene. Her er derfor ordet «EØS-statene» satt inn istedenfor «medlemsstatene».
 
 ### Art 2
 
-1. Med forbehold for bestemmelsene i denne forordning, reguleres stiftelsesavtalen av de internrettslige bestemmelser i den stat der gruppen i henhold til stiftelsesavtalen har sin offisielle adresse, med unntak av spørsmål om fysiske personers rettsevne og rettslige handleevne, juridiske personers rettsevne og spørsmål om gruppens indre organisering.
+1\. Med forbehold for bestemmelsene i denne forordning, reguleres stiftelsesavtalen av de internrettslige bestemmelser i den stat der gruppen i henhold til stiftelsesavtalen har sin offisielle adresse, med unntak av spørsmål om fysiske personers rettsevne og rettslige handleevne, juridiske personers rettsevne og spørsmål om gruppens indre organisering.
 
-2. Dersom en stat omfatter flere territoriale enheter som hver har sine egne rettsregler som får anvendelse på forhold som nevnt i nr. 1, skal hver territoriale enhet betraktes som en stat ved fastsettelse av hvilken lovgivning som får anvendelse etter denne artikkel.
+2\. Dersom en stat omfatter flere territoriale enheter som hver har sine egne rettsregler som får anvendelse på forhold som nevnt i nr. 1, skal hver territoriale enhet betraktes som en stat ved fastsettelse av hvilken lovgivning som får anvendelse etter denne artikkel.
 
 ### Art 3
 
-1. Foretaksgruppens formål skal være å lette eller utvikle deltakernes økonomiske virksomhet og å forbedre eller øke resultatet av slik virksomhet; formålet er ikke å oppnå økonomisk gevinst for gruppen selv.Gruppens virksomhet skal være knyttet til deltakernes økonomiske virksomhet og skal bare være av medvirkende karakter i forhold til denne virksomheten.
+1\. Foretaksgruppens formål skal være å lette eller utvikle deltakernes økonomiske virksomhet og å forbedre eller øke resultatet av slik virksomhet; formålet er ikke å oppnå økonomisk gevinst for gruppen selv.Gruppens virksomhet skal være knyttet til deltakernes økonomiske virksomhet og skal bare være av medvirkende karakter i forhold til denne virksomheten.
 
-2. En gruppe kan derfor ikke:direkte eller indirekte ha ledelses- eller tilsynsfunksjoner i deltakernes egne virksomheter eller i et annet foretaks virksomhet, særlig ikke i spørsmål forbundet med personale, finansiering og investering,på noe som helst grunnlag, direkte eller indirekte, eie aksjer eller andeler av noe slag i et foretak som deltar i gruppen; å eie aksjer eller andeler i et annet foretak er bare mulig i den utstrekning det er nødvendig for å oppfylle gruppens formål og dersom det skjer for deltakernes regning,ha mer enn 500 ansatte,benyttes av et selskap til å yte lån til et medlem av selskapets ledelse eller annen person med tilknytning til ham, dersom slike lån er underlagt begrensninger eller tilsyn i henhold til **EØS-statenes** selskapslovgivning. En gruppe kan heller ikke benyttes til overføring av formuesgoder mellom et selskap og et medlem av ledelsen eller annen person med tilknytning til ham, unntatt i den utstrekning dette er tillatt i henhold til **EØS-statenes** selskapslovgivning. I denne bestemmelse omfatter lån enhver transaksjon med tilsvarende virkning, og et formuesgode kan være løsøre og fast eiendom,være deltaker i en annen europeisk økonomisk foretaksgruppe.
+2\. En gruppe kan derfor ikke:direkte eller indirekte ha ledelses- eller tilsynsfunksjoner i deltakernes egne virksomheter eller i et annet foretaks virksomhet, særlig ikke i spørsmål forbundet med personale, finansiering og investering,på noe som helst grunnlag, direkte eller indirekte, eie aksjer eller andeler av noe slag i et foretak som deltar i gruppen; å eie aksjer eller andeler i et annet foretak er bare mulig i den utstrekning det er nødvendig for å oppfylle gruppens formål og dersom det skjer for deltakernes regning,ha mer enn 500 ansatte,benyttes av et selskap til å yte lån til et medlem av selskapets ledelse eller annen person med tilknytning til ham, dersom slike lån er underlagt begrensninger eller tilsyn i henhold til **EØS-statenes** selskapslovgivning. En gruppe kan heller ikke benyttes til overføring av formuesgoder mellom et selskap og et medlem av ledelsen eller annen person med tilknytning til ham, unntatt i den utstrekning dette er tillatt i henhold til **EØS-statenes** selskapslovgivning. I denne bestemmelse omfatter lån enhver transaksjon med tilsvarende virkning, og et formuesgode kan være løsøre og fast eiendom,være deltaker i en annen europeisk økonomisk foretaksgruppe.
 
 ### Art 4
 
-1. Foretaksgruppen kan bare bestå av:selskaper i henhold til traktatens artikkel 58 annet ledd, og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i samsvar med en **EØF-stats** lovgivning og som har sitt forretningskontor eller lovfestede sete og sin hovedadministrasjon i **EØS**;1 dersom et selskap eller et annet rettssubjekt i henhold til en **EØF-stats** lovgivning ikke har plikt til å ha et forretningskontor eller lovfestet sete, skal det være tilstrekkelig at et slikt selskap eller annet rettssubjekt har sin hovedadministrasjon i **EØS**,fysiske personer som utøver industri-, handels-, håndverks- eller landbruksvirksomhet eller et fritt yrke eller som yter andre tjenester i **EØS**.
+1\. Foretaksgruppen kan bare bestå av:selskaper i henhold til traktatens artikkel 58 annet ledd, og andre offentlig- eller privatrettslige rettssubjekter som er stiftet i samsvar med en **EØF-stats** lovgivning og som har sitt forretningskontor eller lovfestede sete og sin hovedadministrasjon i **EØS**;1 dersom et selskap eller et annet rettssubjekt i henhold til en **EØF-stats** lovgivning ikke har plikt til å ha et forretningskontor eller lovfestet sete, skal det være tilstrekkelig at et slikt selskap eller annet rettssubjekt har sin hovedadministrasjon i **EØS**,fysiske personer som utøver industri-, handels-, håndverks- eller landbruksvirksomhet eller et fritt yrke eller som yter andre tjenester i **EØS**.
 
-2. En gruppe skal bestå av minst:to selskaper eller andre rettssubjekter i henhold til nr. 1 som har sin hovedadministrasjon i forskjellige **EØS-stater**, ellerto fysiske personer i henhold til nr. 1, som utøver sin hovedvirksomhet i forskjellige **EØS-stater**, elleret selskap eller et annet rettssubjekt i henhold til nr. 1 og en fysisk person, der førstnevnte har sin hovedadministrasjon i en **EØS-stat** og sistnevnte utøver sin hovedvirksomhet i en annen **EØS-stat**.
+2\. En gruppe skal bestå av minst:to selskaper eller andre rettssubjekter i henhold til nr. 1 som har sin hovedadministrasjon i forskjellige **EØS-stater**, ellerto fysiske personer i henhold til nr. 1, som utøver sin hovedvirksomhet i forskjellige **EØS-stater**, elleret selskap eller et annet rettssubjekt i henhold til nr. 1 og en fysisk person, der førstnevnte har sin hovedadministrasjon i en **EØS-stat** og sistnevnte utøver sin hovedvirksomhet i en annen **EØS-stat**.
 
-3. **EØS-staten** kan bestemme at grupper som er registrert ved deres registre i samsvar med artikkel 6, ikke kan ha mer enn 20 deltakere. For dette formål kan **EØS-staten** bestemme at hver deltaker i et rettssubjekt stiftet i henhold til **EØS-statens** lovgivning, med unntak av registrerte selskaper, i henhold til denne lovgivningen skal behandles som en egen deltaker i gruppen.
+3\. **EØS-staten** kan bestemme at grupper som er registrert ved deres registre i samsvar med artikkel 6, ikke kan ha mer enn 20 deltakere. For dette formål kan **EØS-staten** bestemme at hver deltaker i et rettssubjekt stiftet i henhold til **EØS-statens** lovgivning, med unntak av registrerte selskaper, i henhold til denne lovgivningen skal behandles som en egen deltaker i gruppen.
 
-4. Enhver **EØS-stat** kan med begrunnelse i offentlige interesser bestemme at deltakelse i en gruppe skal være utelukket eller begrenset for visse kategorier fysiske personer, selskaper eller andre rettssubjekter.
+4\. Enhver **EØS-stat** kan med begrunnelse i offentlige interesser bestemme at deltakelse i en gruppe skal være utelukket eller begrenset for visse kategorier fysiske personer, selskaper eller andre rettssubjekter.
+
+1 Jf. EØS-avtalen protokoll 1 nr. 8. En henvisning til «Fellesskapets» (dvs. EUs) territorium skal forstås som en henvisning til avtalepartenes territorium. I denne sammenheng vil dette si EØS.
 
 ### Art 5
 
@@ -155,9 +175,11 @@ Opplysningene nevnt i bokstav a) og b) skal offentliggjøres i sin helhet. Dokum
 
 ### Art 9
 
-1. Foretaksgruppen kan påberope seg dokumentene og opplysningene som skal offentliggjøres i henhold til denne forordning overfor tredjemann på de vilkår som er fastsatt i gjeldende nasjonal lovgivning i samsvar med artikkel 3 nr. 5 og nr. 7 i rådsdirektiv [68/151/EØF](eu/31968l0151) av 9. mars 1968,1 med sikte på den samordning som kreves av **EØS-statene** overfor selskaper for å gjøre garantiene innbyrdes likeverdige, slik det er definert i **EØS-avtalens** artikkel **34** annet ledd,2 for å beskytte både medlemmenes og tredjemanns interesser.
+1\. Foretaksgruppen kan påberope seg dokumentene og opplysningene som skal offentliggjøres i henhold til denne forordning overfor tredjemann på de vilkår som er fastsatt i gjeldende nasjonal lovgivning i samsvar med artikkel 3 nr. 5 og nr. 7 i rådsdirektiv [68/151/EØF](eu/31968l0151) av 9. mars 1968,1 med sikte på den samordning som kreves av **EØS-statene** overfor selskaper for å gjøre garantiene innbyrdes likeverdige, slik det er definert i **EØS-avtalens** artikkel **34** annet ledd,2 for å beskytte både medlemmenes og tredjemanns interesser.
 
-2. Dersom det er foretatt handlinger i en gruppes navn før den er registrert i samsvar med artikkel 6 og gruppen etter registrering ikke påtar seg de forpliktelser som følger av disse handlinger, hefter de fysiske personer, selskaper eller andre rettssubjekter som foretok handlingene, ubegrenset og solidarisk for dem.
+2\. Dersom det er foretatt handlinger i en gruppes navn før den er registrert i samsvar med artikkel 6 og gruppen etter registrering ikke påtar seg de forpliktelser som følger av disse handlinger, hefter de fysiske personer, selskaper eller andre rettssubjekter som foretok handlingene, ubegrenset og solidarisk for dem.
+
+1 Jf. EØS-avtalen vedlegg XXII nr. 1. Direktiv [68/151](eu/31968l0151) er nå erstattet av direktiv [2009/101](eu/32009l0101), også i EØS-sammenheng. Iht. til art. 16 i dir [2009/101](eu/32009l0101) skal henvisninger i andre rettsakter til dir [68/151](eu/31968l0151) nå leses som henvisninger til direktiv [2009/101](eu/32009l0101) iht. til samsvarslisten i vedlegg II i dir [2009/101](eu/32009l0101). Art. 3 nr. 5 og 7 i direktiv [68/151](eu/31968l0151) tilsvares av art. 3 nr. 6 og nr. 7 tredje ledd i direktiv [2009/101](eu/32009l0101).2 Sml. TEUV art. 54 (tidl. EF-traktaten art. 48, før 1 mai 1999 § 58) annet ledd.
 
 ### Art 10
 
@@ -166,6 +188,8 @@ Når foretaksgruppen har et forretningssted i en annen stat enn staten der den h
 ### Art 11
 
 Melding om at en foretaksgruppe er stiftet eller at avvikling av en gruppe er avsluttet, med registreringsnummer, -dato og -sted, samt dato og sted for offentliggjøring og lysingsbladets navn, skal gis i De Europeiske Fellesskaps Tidendes **EØS-avdeling**1 etter offentliggjøring i lysingsbladet nevnt i artikkel 39 nr. 1.
+
+1 Jf. EØS-avtalen protokoll 1 nr. 6. Når EUs medlemsstater i henhold til denne rettsakt skal offentliggjøre visse opplysninger om faktiske forhold, framgangsmåter og lignende i De Europeiske Fellesskaps Tidende, skal EFTA-statene kunngjøre tilsvarende informasjon i en særskilt EØS-avdeling i De Europeiske Fellesskaps Tidende (nå: Den europeiske unions tidende).
 
 ### Art 12
 
@@ -181,37 +205,37 @@ Når slik flytting ikke fører til at en annen lovgivning får anvendelse i henh
 
 ### Art 14
 
-1. Når flytting av den offisielle adressen fører til at en annen lovgivning får anvendelse i henhold til artikkel 2, skal et forslag om flytting utarbeides, sendes inn og offentliggjøres i samsvar med vilkårene i artikkel 7 og 8.Beslutningen om flytting kan først treffes to måneder etter at forslaget er offentliggjort. Beslutningen treffes av deltakerne ved enstemmighet. Flyttingen skal tre i kraft på den dag gruppen i samsvar med artikkel 6 blir registrert ved registeret for den nye offisielle adressen. Registrering kan ikke foretas før det er dokumentert at forslaget om å flytte den offisielle adressen er offentliggjort.
+1\. Når flytting av den offisielle adressen fører til at en annen lovgivning får anvendelse i henhold til artikkel 2, skal et forslag om flytting utarbeides, sendes inn og offentliggjøres i samsvar med vilkårene i artikkel 7 og 8.Beslutningen om flytting kan først treffes to måneder etter at forslaget er offentliggjort. Beslutningen treffes av deltakerne ved enstemmighet. Flyttingen skal tre i kraft på den dag gruppen i samsvar med artikkel 6 blir registrert ved registeret for den nye offisielle adressen. Registrering kan ikke foretas før det er dokumentert at forslaget om å flytte den offisielle adressen er offentliggjort.
 
-2. Gruppen kan ikke slettes i registeret for den tidligere offisielle adressen før det er dokumentert at gruppen er registrert ved registeret for den nye offisielle adressen.
+2\. Gruppen kan ikke slettes i registeret for den tidligere offisielle adressen før det er dokumentert at gruppen er registrert ved registeret for den nye offisielle adressen.
 
-3. Når gruppens nye registrering er offentliggjort, kan den nye offisielle adressen påberopes overfor tredjemann i samsvar med vilkårene i artikkel 9 nr. 1; så lenge gruppens slettelse i registeret for den tidligere offisielle adressen ikke er offentliggjort, kan tredjemann likevel påberope seg den tidligere offisielle adressen, med mindre gruppen påviser at tredjemann hadde kjennskap til den nye offisielle adressen.
+3\. Når gruppens nye registrering er offentliggjort, kan den nye offisielle adressen påberopes overfor tredjemann i samsvar med vilkårene i artikkel 9 nr. 1; så lenge gruppens slettelse i registeret for den tidligere offisielle adressen ikke er offentliggjort, kan tredjemann likevel påberope seg den tidligere offisielle adressen, med mindre gruppen påviser at tredjemann hadde kjennskap til den nye offisielle adressen.
 
-4. Det kan i en **EØS-stats** lovgivning fastsettes at når flytting av den offisielle adressen for en gruppe som er registrert i **EØS-staten** i samsvar med artikkel 6, fører til at en annen lovgivning får anvendelse, skal flyttingen ikke få virkning dersom vedkommende myndighet i **EØS-staten** gjør innsigelse mot det i løpet av perioden på to måneder nevnt i nr. 1. Slik innsigelse kan gjøres bare av hensyn til offentlige interesser. Det skal være mulig å prøve innsigelsen for domstolene.
+4\. Det kan i en **EØS-stats** lovgivning fastsettes at når flytting av den offisielle adressen for en gruppe som er registrert i **EØS-staten** i samsvar med artikkel 6, fører til at en annen lovgivning får anvendelse, skal flyttingen ikke få virkning dersom vedkommende myndighet i **EØS-staten** gjør innsigelse mot det i løpet av perioden på to måneder nevnt i nr. 1. Slik innsigelse kan gjøres bare av hensyn til offentlige interesser. Det skal være mulig å prøve innsigelsen for domstolene.
 
 ### Art 15
 
-1. Når en foretaksgruppe er ugyldig i henhold til den lovgivning som kommer til anvendelse etter artikkel 2, skal ugyldigheten fastslås eller besluttes av retten. Den domstol som har saken, skal likevel gi gruppen en tidsfrist til å bringe forholdet i orden dersom dette er mulig.
+1\. Når en foretaksgruppe er ugyldig i henhold til den lovgivning som kommer til anvendelse etter artikkel 2, skal ugyldigheten fastslås eller besluttes av retten. Den domstol som har saken, skal likevel gi gruppen en tidsfrist til å bringe forholdet i orden dersom dette er mulig.
 
-2. Når en gruppe er ugyldig, skal den avvikles på de vilkår som er fastsatt i artikkel 35.
+2\. Når en gruppe er ugyldig, skal den avvikles på de vilkår som er fastsatt i artikkel 35.
 
-3. En avgjørelse der det fastslås eller besluttes at en gruppe er ugyldig, kan påberopes overfor tredjemann i samsvar med vilkårene i artikkel 9 nr. 1.En slik avgjørelse skal i seg selv ikke berøre gyldigheten av forpliktelser inngått av eller overfor gruppen før det tidspunkt da avgjørelsen kan påberopes overfor tredjemann, i samsvar med vilkårene i foregående ledd.
+3\. En avgjørelse der det fastslås eller besluttes at en gruppe er ugyldig, kan påberopes overfor tredjemann i samsvar med vilkårene i artikkel 9 nr. 1.En slik avgjørelse skal i seg selv ikke berøre gyldigheten av forpliktelser inngått av eller overfor gruppen før det tidspunkt da avgjørelsen kan påberopes overfor tredjemann, i samsvar med vilkårene i foregående ledd.
 
 ### Art 16
 
-1. Foretaksgruppens organer skal bestå av deltakerne som opptrer i fellesskap og forretningsføreren eller forretningsførerne.Gruppens stiftelsesavtale kan inneholde bestemmelser om andre organer; den skal i så fall fastsette deres myndighet.
+1\. Foretaksgruppens organer skal bestå av deltakerne som opptrer i fellesskap og forretningsføreren eller forretningsførerne.Gruppens stiftelsesavtale kan inneholde bestemmelser om andre organer; den skal i så fall fastsette deres myndighet.
 
-2. Gruppens deltakere kan når de opptrer som organ, treffe enhver beslutning med sikte på å oppfylle gruppens formål.
+2\. Gruppens deltakere kan når de opptrer som organ, treffe enhver beslutning med sikte på å oppfylle gruppens formål.
 
 ### Art 17
 
-1. Hver deltaker skal ha en stemme. Gruppens stiftelsesavtale kan likevel gi visse deltakere mer enn en stemme, forutsatt at ingen av deltakerne oppnår stemmeflertall.
+1\. Hver deltaker skal ha en stemme. Gruppens stiftelsesavtale kan likevel gi visse deltakere mer enn en stemme, forutsatt at ingen av deltakerne oppnår stemmeflertall.
 
-2. Det skal kreves enstemmighet ved beslutninger om:å endre gruppens formål,å endre antall stemmer hver deltaker er tildelt,å endre vilkårene for å treffe beslutning,å forlenge gruppens varighet utover det tidsrom som er fastsatt i stiftelsesavtalen,å endre hver deltakers eller enkelte deltakeres bidrag til gruppens finansiering,å endre enhver annen plikt som påhviler en deltaker, med mindre annet er fastsatt i gruppens stiftelsesavtale,å foreta andre endringer i gruppens stiftelsesavtale som ikke omfattes av dette nr., med mindre annet er fastsatt i avtalen.
+2\. Det skal kreves enstemmighet ved beslutninger om:å endre gruppens formål,å endre antall stemmer hver deltaker er tildelt,å endre vilkårene for å treffe beslutning,å forlenge gruppens varighet utover det tidsrom som er fastsatt i stiftelsesavtalen,å endre hver deltakers eller enkelte deltakeres bidrag til gruppens finansiering,å endre enhver annen plikt som påhviler en deltaker, med mindre annet er fastsatt i gruppens stiftelsesavtale,å foreta andre endringer i gruppens stiftelsesavtale som ikke omfattes av dette nr., med mindre annet er fastsatt i avtalen.
 
-3. I alle tilfeller der denne forordning ikke fastsetter at beslutninger skal være enstemmige, kan gruppens stiftelsesavtale fastlegge vilkårene for den beslutningsdyktighet og for det stemmeflertall som kreves for at beslutning eller visse beslutninger, kan treffes. Med mindre annet er fastsatt i avtalen, skal en beslutning være enstemmig.
+3\. I alle tilfeller der denne forordning ikke fastsetter at beslutninger skal være enstemmige, kan gruppens stiftelsesavtale fastlegge vilkårene for den beslutningsdyktighet og for det stemmeflertall som kreves for at beslutning eller visse beslutninger, kan treffes. Med mindre annet er fastsatt i avtalen, skal en beslutning være enstemmig.
 
-4. På initiativ fra forretningsføreren eller etter anmodning fra en deltaker skal forretningsføreren eller -førerne sørge for at deltakerne blir hørt, slik at de kan treffe en beslutning.
+4\. På initiativ fra forretningsføreren eller etter anmodning fra en deltaker skal forretningsføreren eller -førerne sørge for at deltakerne blir hørt, slik at de kan treffe en beslutning.
 
 ### Art 18
 
@@ -219,29 +243,29 @@ Hver deltaker skal ha rett til å få opplysninger fra forretningsførerne om gr
 
 ### Art 19
 
-1. En gruppe skal ledes av en eller flere fysiske personer som oppnevnes i gruppens stiftelsesavtale eller ved beslutning truffet av deltakerne.Ingen kan være forretningsfører i en gruppe dersom vedkommende:etter den lovgivning som får anvendelse for vedkommende, elleretter nasjonal lovgivning i staten der gruppen har sin offisielle adresse, ellersom følge av en rettsavgjørelse eller et forvaltningsvedtak som er truffet eller anerkjent i en **EØS-stat**,ikke kan være medlem av et selskaps administrasjons- eller ledelsesorgan, ikke kan være forretningsfører for et foretak eller ikke kan opptre som forretningsfører i en europeisk foretaksgruppe.
+1\. En gruppe skal ledes av en eller flere fysiske personer som oppnevnes i gruppens stiftelsesavtale eller ved beslutning truffet av deltakerne.Ingen kan være forretningsfører i en gruppe dersom vedkommende:etter den lovgivning som får anvendelse for vedkommende, elleretter nasjonal lovgivning i staten der gruppen har sin offisielle adresse, ellersom følge av en rettsavgjørelse eller et forvaltningsvedtak som er truffet eller anerkjent i en **EØS-stat**,ikke kan være medlem av et selskaps administrasjons- eller ledelsesorgan, ikke kan være forretningsfører for et foretak eller ikke kan opptre som forretningsfører i en europeisk foretaksgruppe.
 
-2. En **EØS-stat** kan for de grupper som er registrert ved dens registre i henhold til artikkel 6, bestemme at en juridisk person kan være forretningsfører forutsatt at den utpeker en eller flere fysiske personer som representant eller representanter, som skal være omfattet av bestemmelsene i artikkel 7 bokstav d).Dersom en **EØS-stat** benytter denne muligheten, skal den bestemme at representanten eller representantene skal ha samme ansvar som om de selv var forretningsførere for gruppen.Begrensningene i nr. 1 skal gjelde også for disse representantene.
+2\. En **EØS-stat** kan for de grupper som er registrert ved dens registre i henhold til artikkel 6, bestemme at en juridisk person kan være forretningsfører forutsatt at den utpeker en eller flere fysiske personer som representant eller representanter, som skal være omfattet av bestemmelsene i artikkel 7 bokstav d).Dersom en **EØS-stat** benytter denne muligheten, skal den bestemme at representanten eller representantene skal ha samme ansvar som om de selv var forretningsførere for gruppen.Begrensningene i nr. 1 skal gjelde også for disse representantene.
 
-3. Vilkårene for oppnevnelse og avsettelse av forretningsføreren eller -førerne, og hvilken myndighet de skal ha, skal fastsettes i stiftelsesavtalen, eller dersom det ikke er fastsatt i avtalen, ved enstemmig beslutning truffet av deltakerne.
+3\. Vilkårene for oppnevnelse og avsettelse av forretningsføreren eller -førerne, og hvilken myndighet de skal ha, skal fastsettes i stiftelsesavtalen, eller dersom det ikke er fastsatt i avtalen, ved enstemmig beslutning truffet av deltakerne.
 
 ### Art 20
 
-1. Bare forretningsføreren eller hver enkelt forretningsfører dersom det er flere, skal representere gruppen overfor tredjemann.Når en forretningsfører opptrer på vegne av gruppen, forplikter han denne overfor tredjemann, selv når vedkommendes handlinger ikke faller inn under gruppens formål, med mindre gruppen godtgjør at tredjemann visste, eller under de omstendigheter som forelå, ikke kunne ha vært uvitende om at handlingen ikke falt inn under gruppens formål; offentliggjøring av opplysningene nevnt i artikkel 5 bokstav c) skal i seg selv ikke være tilstrekkelig som bevis.Begrensninger i forretningsførerens eller -førernes myndighet som følger av gruppens stiftelsesavtale eller av en beslutning truffet av deltakerne, kan ikke påberopes overfor tredjemann, selv om den er offentliggjort.
+1\. Bare forretningsføreren eller hver enkelt forretningsfører dersom det er flere, skal representere gruppen overfor tredjemann.Når en forretningsfører opptrer på vegne av gruppen, forplikter han denne overfor tredjemann, selv når vedkommendes handlinger ikke faller inn under gruppens formål, med mindre gruppen godtgjør at tredjemann visste, eller under de omstendigheter som forelå, ikke kunne ha vært uvitende om at handlingen ikke falt inn under gruppens formål; offentliggjøring av opplysningene nevnt i artikkel 5 bokstav c) skal i seg selv ikke være tilstrekkelig som bevis.Begrensninger i forretningsførerens eller -førernes myndighet som følger av gruppens stiftelsesavtale eller av en beslutning truffet av deltakerne, kan ikke påberopes overfor tredjemann, selv om den er offentliggjort.
 
-2. Gruppens stiftelsesavtale kan fastsette at gruppen skal forpliktes rettslig bare dersom to eller flere forretningsførere opptrer i fellesskap. En slik bestemmelse kan påberopes overfor tredjemann i samsvar med vilkårene nevnt i artikkel 9 nr. 1 bare dersom den er offentliggjort i samsvar med artikkel 8.
+2\. Gruppens stiftelsesavtale kan fastsette at gruppen skal forpliktes rettslig bare dersom to eller flere forretningsførere opptrer i fellesskap. En slik bestemmelse kan påberopes overfor tredjemann i samsvar med vilkårene nevnt i artikkel 9 nr. 1 bare dersom den er offentliggjort i samsvar med artikkel 8.
 
 ### Art 21
 
-1. Overskuddet som følger av gruppens virksomhet, skal betraktes som deltakernes utbytte og skal fordeles mellom dem i det forhold som er fastsatt i gruppens stiftelsesavtale eller, i mangel av en slik bestemmelse, i like store deler.
+1\. Overskuddet som følger av gruppens virksomhet, skal betraktes som deltakernes utbytte og skal fordeles mellom dem i det forhold som er fastsatt i gruppens stiftelsesavtale eller, i mangel av en slik bestemmelse, i like store deler.
 
-2. Gruppens deltakere skal bidra til å dekke differansen når kostnadene overstiger inntektene, i det forhold som er fastsatt i gruppens stiftelsesavtale eller, i mangel av en slik bestemmelse, i like store deler.
+2\. Gruppens deltakere skal bidra til å dekke differansen når kostnadene overstiger inntektene, i det forhold som er fastsatt i gruppens stiftelsesavtale eller, i mangel av en slik bestemmelse, i like store deler.
 
 ### Art 22
 
-1. En deltaker i gruppen kan overdra sin andel i gruppen, eller en del av denne, til en annen deltaker eller til tredjemann; overdragelsen kan finne sted bare med enstemmig samtykke fra de øvrige deltakerne.
+1\. En deltaker i gruppen kan overdra sin andel i gruppen, eller en del av denne, til en annen deltaker eller til tredjemann; overdragelsen kan finne sted bare med enstemmig samtykke fra de øvrige deltakerne.
 
-2. En gruppedeltaker kan stille sin andel i gruppen som sikkerhet dersom de øvrige deltakerne har gitt sitt enstemmige samtykke, med mindre annet er bestemt i gruppens stiftelsesavtale. Innehaveren av sikkerheten kan ikke på noe tidspunkt bli deltaker i gruppen på grunnlag av denne sikkerheten.
+2\. En gruppedeltaker kan stille sin andel i gruppen som sikkerhet dersom de øvrige deltakerne har gitt sitt enstemmige samtykke, med mindre annet er bestemt i gruppens stiftelsesavtale. Innehaveren av sikkerheten kan ikke på noe tidspunkt bli deltaker i gruppen på grunnlag av denne sikkerheten.
 
 ### Art 23
 
@@ -249,9 +273,9 @@ Foretaksgruppen kan ikke offentlig innby til investering.
 
 ### Art 24
 
-1. Deltakerne i foretaksgruppen skal ha ubegrenset og solidarisk ansvar for enhver forpliktelse. Nasjonal lovgivning skal regulere følgene av slikt ansvar.
+1\. Deltakerne i foretaksgruppen skal ha ubegrenset og solidarisk ansvar for enhver forpliktelse. Nasjonal lovgivning skal regulere følgene av slikt ansvar.
 
-2. Inntil en gruppes avvikling er avsluttet, kan gruppens kreditorer ikke forfølge krav mot en deltaker for betaling av gjeld i samsvar med vilkårene i nr. 1, med mindre de først har anmodet gruppen om å betale og betaling ikke har funnet sted innen en rimelig tidsfrist.
+2\. Inntil en gruppes avvikling er avsluttet, kan gruppens kreditorer ikke forfølge krav mot en deltaker for betaling av gjeld i samsvar med vilkårene i nr. 1, med mindre de først har anmodet gruppen om å betale og betaling ikke har funnet sted innen en rimelig tidsfrist.
 
 ### Art 25
 
@@ -261,21 +285,21 @@ Ethvert forretningssted for en gruppe skal, når det er registrert i samsvar med
 
 ### Art 26
 
-1. Beslutning om å oppta nye deltakere skal treffes enstemmig av foretaksgruppens deltakere.
+1\. Beslutning om å oppta nye deltakere skal treffes enstemmig av foretaksgruppens deltakere.
 
-2. Hver ny deltaker skal hefte for gruppens gjeld i samsvar med vilkårene i artikkel 24, også gjeld som følger av gruppens virksomhet før vedkommende ble opptatt som deltaker.Deltakeren kan likevel ved en bestemmelse i gruppens stiftelsesavtale eller i opptaksdokumentet fritas for betaling av gjeld som er stiftet før vedkommende ble opptatt som deltaker. En slik klausul kan påberopes overfor tredjemann på vilkårene nevnt i artikkel 9 nr. 1 bare når den er offentliggjort i samsvar med artikkel 8.
+2\. Hver ny deltaker skal hefte for gruppens gjeld i samsvar med vilkårene i artikkel 24, også gjeld som følger av gruppens virksomhet før vedkommende ble opptatt som deltaker.Deltakeren kan likevel ved en bestemmelse i gruppens stiftelsesavtale eller i opptaksdokumentet fritas for betaling av gjeld som er stiftet før vedkommende ble opptatt som deltaker. En slik klausul kan påberopes overfor tredjemann på vilkårene nevnt i artikkel 9 nr. 1 bare når den er offentliggjort i samsvar med artikkel 8.
 
 ### Art 27
 
-1. En deltaker i foretaksgruppen kan tre ut av gruppen i samsvar med vilkårene i gruppens stiftelsesavtale eller, i mangel av slike vilkår, med enstemmig samtykke fra de øvrige deltakerne.Enhver deltaker kan i tillegg tre ut av gruppen når det foreligger vektige grunner for det.
+1\. En deltaker i foretaksgruppen kan tre ut av gruppen i samsvar med vilkårene i gruppens stiftelsesavtale eller, i mangel av slike vilkår, med enstemmig samtykke fra de øvrige deltakerne.Enhver deltaker kan i tillegg tre ut av gruppen når det foreligger vektige grunner for det.
 
-2. Enhver deltaker kan ekskluderes fra gruppen av de grunner som er angitt i gruppens stiftelsesavtale, og under alle omstendigheter dersom vedkommende grovt misligholder sine forpliktelser, eller dersom vedkommende forårsaker eller truer med å forårsake alvorlige vanskeligheter for gruppens virksomhet.Slik eksklusjon kan bare finne sted ved en rettsavgjørelse truffet etter felles anmodning fra et flertall av de øvrige deltakerne, med mindre annet er bestemt i gruppens stiftelsesavtale.
+2\. Enhver deltaker kan ekskluderes fra gruppen av de grunner som er angitt i gruppens stiftelsesavtale, og under alle omstendigheter dersom vedkommende grovt misligholder sine forpliktelser, eller dersom vedkommende forårsaker eller truer med å forårsake alvorlige vanskeligheter for gruppens virksomhet.Slik eksklusjon kan bare finne sted ved en rettsavgjørelse truffet etter felles anmodning fra et flertall av de øvrige deltakerne, med mindre annet er bestemt i gruppens stiftelsesavtale.
 
 ### Art 28
 
-1. Deltakelse i foretaksgruppen skal opphøre når deltakeren dør eller når vedkommende ikke lenger oppfyller vilkårene i artikkel 4 nr. 1.I tillegg kan en **EØS-stat** av hensyn til sin lovgivning om avvikling, oppløsning, insolvens og betalingsstans bestemme at en deltaker skal opphøre å være deltaker på et tidspunkt fastsatt i denne lovgivning.
+1\. Deltakelse i foretaksgruppen skal opphøre når deltakeren dør eller når vedkommende ikke lenger oppfyller vilkårene i artikkel 4 nr. 1.I tillegg kan en **EØS-stat** av hensyn til sin lovgivning om avvikling, oppløsning, insolvens og betalingsstans bestemme at en deltaker skal opphøre å være deltaker på et tidspunkt fastsatt i denne lovgivning.
 
-2. Dersom en fysisk person som er deltaker i gruppen dør, kan avdødes plass i gruppen bare overtas på de vilkår som er fastsatt i gruppens stiftelsesavtale, eller, i mangel av slike vilkår, dersom de gjenværende deltakerne enstemmig samtykker.
+2\. Dersom en fysisk person som er deltaker i gruppen dør, kan avdødes plass i gruppen bare overtas på de vilkår som er fastsatt i gruppens stiftelsesavtale, eller, i mangel av slike vilkår, dersom de gjenværende deltakerne enstemmig samtykker.
 
 ### Art 29
 
@@ -287,21 +311,21 @@ Med mindre annet er bestemt i foretaksgruppens stiftelsesavtale, og med forbehol
 
 ### Art 31
 
-1. En foretaksgruppe kan oppløses ved at deltakerne treffer beslutning om at gruppen skal oppløses. Beslutningen skal være enstemmig, med mindre annet er fastsatt i gruppens stiftelsesavtale.
+1\. En foretaksgruppe kan oppløses ved at deltakerne treffer beslutning om at gruppen skal oppløses. Beslutningen skal være enstemmig, med mindre annet er fastsatt i gruppens stiftelsesavtale.
 
-2. En gruppe skal oppløses ved en beslutning truffet av deltakerne der det fastslås at:tidsrommet fastlagt i gruppens stiftelsesavtale har utløpt, eller at det foreligger andre avtalefestede grunner til oppløsning, ellergruppens formål er oppnådd eller at det er umulig å forfølge det lenger.Dersom deltakerne innen tre måneder etter at en av situasjonene nevnt i første ledd har oppstått, ikke har truffet beslutning om oppløsning av gruppen, kan enhver deltaker anmode retten om å beslutte gruppen oppløst.
+2\. En gruppe skal oppløses ved en beslutning truffet av deltakerne der det fastslås at:tidsrommet fastlagt i gruppens stiftelsesavtale har utløpt, eller at det foreligger andre avtalefestede grunner til oppløsning, ellergruppens formål er oppnådd eller at det er umulig å forfølge det lenger.Dersom deltakerne innen tre måneder etter at en av situasjonene nevnt i første ledd har oppstått, ikke har truffet beslutning om oppløsning av gruppen, kan enhver deltaker anmode retten om å beslutte gruppen oppløst.
 
-3. En gruppe skal også oppløses ved beslutning truffet av deltakerne eller den gjenværende deltaker når vilkårene i artikkel 4 nr. 2 ikke lenger er oppfylt.
+3\. En gruppe skal også oppløses ved beslutning truffet av deltakerne eller den gjenværende deltaker når vilkårene i artikkel 4 nr. 2 ikke lenger er oppfylt.
 
-4. Etter at en gruppe er oppløst ved beslutning truffet av deltakerne, skal forretningsføreren eller -førerne utføre de nødvendige plikter angitt i artikkel 7 og 8. I tillegg kan enhver berørt person utføre disse pliktene.
+4\. Etter at en gruppe er oppløst ved beslutning truffet av deltakerne, skal forretningsføreren eller -førerne utføre de nødvendige plikter angitt i artikkel 7 og 8. I tillegg kan enhver berørt person utføre disse pliktene.
 
 ### Art 32
 
-1. På anmodning fra enhver berørt person eller fra vedkommende myndighet skal retten ved overtredelse av artikkel 3, eller 12, eller artikkel 31 nr. 3, beslutte gruppen oppløst, med mindre det er mulig å bringe dens forhold i orden før retten har avgjort sakens realitet.
+1\. På anmodning fra enhver berørt person eller fra vedkommende myndighet skal retten ved overtredelse av artikkel 3, eller 12, eller artikkel 31 nr. 3, beslutte gruppen oppløst, med mindre det er mulig å bringe dens forhold i orden før retten har avgjort sakens realitet.
 
-2. På anmodning fra en deltaker kan retten beslutte en gruppe oppløst når det foreligger vektige grunner for det.
+2\. På anmodning fra en deltaker kan retten beslutte en gruppe oppløst når det foreligger vektige grunner for det.
 
-3. En **EØS-stat** kan bestemme at retten, etter anmodning fra vedkommende myndighet, kan beslutte en gruppe oppløst som har sin offisielle adresse i staten der myndigheten er hjemmehørende når gruppen gjennom sin virksomhet opptrer i strid med offentlige interesser i vedkommende stat, dersom statens lovgivning gir adgang til dette når det gjelder registrerte selskaper eller andre rettssubjekter som er omfattet av denne lovgivningen.
+3\. En **EØS-stat** kan bestemme at retten, etter anmodning fra vedkommende myndighet, kan beslutte en gruppe oppløst som har sin offisielle adresse i staten der myndigheten er hjemmehørende når gruppen gjennom sin virksomhet opptrer i strid med offentlige interesser i vedkommende stat, dersom statens lovgivning gir adgang til dette når det gjelder registrerte selskaper eller andre rettssubjekter som er omfattet av denne lovgivningen.
 
 ### Art 33
 
@@ -315,13 +339,13 @@ Med forbehold for artikkel 37 nr. 1, skal enhver deltaker i foretaksgruppen som 
 
 ### Art 35
 
-1. En foretaksgruppes oppløsning skal medføre at den avvikles.
+1\. En foretaksgruppes oppløsning skal medføre at den avvikles.
 
-2. Avvikling av en gruppe og avviklingens avslutning skal være underlagt nasjonal lovgivning.
+2\. Avvikling av en gruppe og avviklingens avslutning skal være underlagt nasjonal lovgivning.
 
-3. En gruppe skal opprettholde sin rettsevne i henhold til artikkel 1 nr. 2 inntil avviklingen er avsluttet.
+3\. En gruppe skal opprettholde sin rettsevne i henhold til artikkel 1 nr. 2 inntil avviklingen er avsluttet.
 
-4. Den eller de personer som forestår avviklingen skal utføre de nødvendige plikter angitt i artikkel 7 og 8.
+4\. Den eller de personer som forestår avviklingen skal utføre de nødvendige plikter angitt i artikkel 7 og 8.
 
 ### Art 36
 
@@ -329,9 +353,9 @@ Europeiske foretaksgrupper skal være underlagt nasjonal lovgivning om insolvens
 
 ### Art 37
 
-1. Eventuelt lengre foreldelsesfrist i nasjonal lovgivning skal erstattes av en foreldelsesfrist på fem år etter offentliggjøring i samsvar med artikkel 8 om at en deltaker opphører å være deltaker, når det gjelder søksmål mot vedkommende deltaker for gjeld stiftet som følge av gruppens virksomhet før vedkommende opphørte å være deltaker.
+1\. Eventuelt lengre foreldelsesfrist i nasjonal lovgivning skal erstattes av en foreldelsesfrist på fem år etter offentliggjøring i samsvar med artikkel 8 om at en deltaker opphører å være deltaker, når det gjelder søksmål mot vedkommende deltaker for gjeld stiftet som følge av gruppens virksomhet før vedkommende opphørte å være deltaker.
 
-2. Eventuelt lengre foreldelsesfrist i nasjonal lovgivning skal erstattes av en foreldelsesfrist på fem år etter offentliggjøring i samsvar med artikkel 8 om avslutning av en gruppes avvikling, når det gjelder søksmål mot en deltaker for gjeld stiftet som følge av gruppens virksomhet.
+2\. Eventuelt lengre foreldelsesfrist i nasjonal lovgivning skal erstattes av en foreldelsesfrist på fem år etter offentliggjøring i samsvar med artikkel 8 om avslutning av en gruppes avvikling, når det gjelder søksmål mot en deltaker for gjeld stiftet som følge av gruppens virksomhet.
 
 ### Art 38
 
@@ -339,11 +363,11 @@ Når en foretaksgruppe i en **EØS-stat** utøver virksomhet som er i strid med 
 
 ### Art 39
 
-1. **EØS-statene** skal utpeke registeret eller registrene som skal foreta registreringen nevnt i artikkel 6 og 10, samt fastsette hvilke regler som skal gjelde for registreringen. De skal fastsette vilkår for innsending av dokumentene nevnt i artikkel 7 og 10. De skal påse at dokumentene og opplysningene nevnt i artikkel 8 offentliggjøres i rette lysingsblad i **EØS-staten** der gruppen har sin offisielle adresse, og eventuelt fastsette hvordan dokumentene og opplysningene nevnt i artikkel 8 bokstav c) skal offentliggjøres.**EØS-statene** skal også påse at alle kan få innsyn i dokumentene nevnt i artikkel 7 ved det register som i henhold til artikkel 6 eller eventuelt artikkel 10 skal foreta registreringen, og få fullstendige eller delvise gjenparter av disse dokumentene, om nødvendig pr. post.**EØS-statene** kan bestemme at det skal betales et gebyr for oppgavene nevnt i foregående ledd, men gebyrene kan ikke overstige administrasjonskostnadene.
+1\. **EØS-statene** skal utpeke registeret eller registrene som skal foreta registreringen nevnt i artikkel 6 og 10, samt fastsette hvilke regler som skal gjelde for registreringen. De skal fastsette vilkår for innsending av dokumentene nevnt i artikkel 7 og 10. De skal påse at dokumentene og opplysningene nevnt i artikkel 8 offentliggjøres i rette lysingsblad i **EØS-staten** der gruppen har sin offisielle adresse, og eventuelt fastsette hvordan dokumentene og opplysningene nevnt i artikkel 8 bokstav c) skal offentliggjøres.**EØS-statene** skal også påse at alle kan få innsyn i dokumentene nevnt i artikkel 7 ved det register som i henhold til artikkel 6 eller eventuelt artikkel 10 skal foreta registreringen, og få fullstendige eller delvise gjenparter av disse dokumentene, om nødvendig pr. post.**EØS-statene** kan bestemme at det skal betales et gebyr for oppgavene nevnt i foregående ledd, men gebyrene kan ikke overstige administrasjonskostnadene.
 
-2. **EFTA-statene** skal påse at opplysningene som skal offentliggjøres i De Europeiske Fellesskaps Tidendes **EØS-avdeling** i henhold til artikkel 11, oversendes Kontoret for De europeiske fellesskaps offisielle publikasjoner innen en måned etter offentliggjøring i det offisielle lysingsbladet nevnt i nr. 1.
+2\. **EFTA-statene** skal påse at opplysningene som skal offentliggjøres i De Europeiske Fellesskaps Tidendes **EØS-avdeling** i henhold til artikkel 11, oversendes Kontoret for De europeiske fellesskaps offisielle publikasjoner innen en måned etter offentliggjøring i det offisielle lysingsbladet nevnt i nr. 1.
 
-3. **EØS-statene** skal fastsette egnede sanksjoner ved overtredelse av bestemmelsene om offentlighet i artikkel 7, 8 og 10 og ved overtredelse av artikkel 25.
+3\. **EØS-statene** skal fastsette egnede sanksjoner ved overtredelse av bestemmelsene om offentlighet i artikkel 7, 8 og 10 og ved overtredelse av artikkel 25.
 
 ### Art 40
 
@@ -353,15 +377,19 @@ Resultatet som skriver seg fra gruppens virksomhet kan beskattes bare på deltak
 
 [1. *Medlemsstatene skal innen 1. juli 1989 treffe de tiltak som kreves i henhold til artikkel 39. De skal umiddelbart underrette Kommisjonen om dette.*]1
 
-2. **EFTA-statene** skal til orientering underrette **EFTAs faste komité**2 om hvilke kategorier fysiske personer, selskaper og andre rettssubjekter som de utelukker fra deltakelse i en gruppe i henhold til artikkel 4 nr. 4. **EFTAs faste komité** skal underrette de øvrige **EØS-statene** om dette.
+2\. **EFTA-statene** skal til orientering underrette **EFTAs faste komité**2 om hvilke kategorier fysiske personer, selskaper og andre rettssubjekter som de utelukker fra deltakelse i en gruppe i henhold til artikkel 4 nr. 4. **EFTAs faste komité** skal underrette de øvrige **EØS-statene** om dette.
+
+1 Jf. EØS-avtalen protokoll 1 nr. 11. Rettsaktens egne regler om ikrafttredelse og gjennomføring er ikke relevant i forhold til EØS-avtalen.2 Jf. EØS-avtalen protokoll 1 nr. 4 og avtalen om EFTA-statenes faste komité protokoll 1 artikkel 1 bokstav a, jf. veiledende liste i St.prp. nr. 101 (1991-92) s. 45. Den orientering som EU-statene etter forordningen skal gi til Kommisjonen, skal EFTA-statene gi til EFTAs faste komité.
 
 ### Art 42
 
-1. *Når denne forordning er vedtatt, skal det under Kommisjonen nedsettes en kontaktkomité, som skal ha til oppgave:**med forbehold for traktatens artikkel 169 og 170, å lette gjennomføringen av denne forordning ved regelmessig samråd, særlig om praktiske problemer i forbindelse med gjennomføringen,**om nødvendig å gi Kommisjonen råd om tilleggsbestemmelser eller endringer i denne forordning.*
+1\. *Når denne forordning er vedtatt, skal det under Kommisjonen nedsettes en kontaktkomité, som skal ha til oppgave:**med forbehold for traktatens artikkel 169 og 170, å lette gjennomføringen av denne forordning ved regelmessig samråd, særlig om praktiske problemer i forbindelse med gjennomføringen,**om nødvendig å gi Kommisjonen råd om tilleggsbestemmelser eller endringer i denne forordning.*
 
 *2. Kontaktkomiteen skal bestå av representanter for medlemsstatene og representanter for Kommisjonen. Formannen skal være en representant for Kommisjonen. Sekretariatsfunksjonene skal ivaretas av Kommisjonen.*
 
 *3. Kontaktkomiteen skal innkalles av formannen, enten på eget initiativ eller etter anmodning fra et av medlemmene*]1
+
+1 Jf. EØS-avtalen protokoll 1 nr. 2: EØS-avtalen art. 81, 100 og 101 og protokoll 31 gjelder i stedet for EUs interne komitéprosedyrer. Etter avtalen om EFTAs faste komité kan komiteen opprette underkomiteer og andre organer til hjelp i dens arbeid.
 
 ### Art 43
 

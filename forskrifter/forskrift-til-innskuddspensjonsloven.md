@@ -184,7 +184,25 @@ Ved uttak av pensjon fra egen pensjonskonto skal aktiv og tidligere opptjening b
 
 (2) Dersom foretaket har kombinerte pensjonsordninger hvor ytelsesbasert alderspensjon er fastsatt etter første ledd bokstav a, skal innskudd for et enkelt medlem et enkelt år i henhold til [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav b, c eller d ikke overstige en fastsatt prosent av lønn sett i forhold til beregnet folketrygd og pensjonsnivå i henhold til regelverket i den ytelsesbaserte pensjonsordningen som angitt i tabellen under:
 
+| *Sum av ytelsesbasert alderspensjon og beregnet folketrygd som prosent av medlemmenes lønn, jf. [lov om foretakspensjon § 5-4](lov/2000-03-24-16/§5-4)* | *Innskuddsgrense i prosent av lønn inntil 12 G* |
+| --- | --- |
+| Til og med 50 prosent | 5 prosent |
+| Til og med 55 prosent | 4 prosent |
+| Til og med 60 prosent | 3 prosent |
+| Til og med 65 prosent | 2 prosent |
+| Til og med 70 prosent | 1 prosent |
+| Over 70 prosent | 0 prosent |
+
+Det skal ikke betales innskudd for lønn over 12 G. Ved innskudd etter [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav d, kan prosentsatsen ikke settes lavere for lønn inntil 6 G enn for lønn mellom 6 G og 12 G. Innskuddsgrensene angitt i dette ledd gjelder tilsvarende for innskuddspremie for engangsbetalt alderspensjon.
+
 (3) Dersom foretaket har kombinerte pensjonsordninger hvor ytelsesbasert alderspensjon er fastsatt etter første ledd bokstav b, skal innskudd for et enkelt medlem et enkelt år i henhold til [innskuddspensjonsloven § 5-3](lov/2000-11-24-81/§5-3) første ledd bokstav b, c eller d ikke overstige en fastsatt prosent av lønn sett i forhold til pensjonsnivå i den ytelsesbaserte pensjonsordningen som angitt i tabellen under:
+
+| *Ytelsesbasert alderspensjon* | *Innskuddsgrense i prosent av lønn* |
+| --- | --- |
+| 0,5 G og lavere | 4 prosent av den delen av medlemmets lønn som ligger mellom 4 G og 6 G og<br>10 prosent av den delen av medlemmets lønn som ligger mellom 6 G og 12 G.<br>Det skal ikke betales innskudd for lønn under 4 G eller for lønn over 12 G. |
+| Over 0,5 G og til og med 1 G | 10 prosent av den delen av medlemmets lønn som ligger mellom 6 G og 12 G.<br>Det skal ikke betales innskudd for lønn under 6 G eller for lønn over 12 G. |
+
+Innskuddsgrensene angitt i dette ledd gjelder tilsvarende for innskuddspremie for engangsbetalt alderspensjon.
 
 > Tilføyd ved forskrift [3 nov 2003 nr. 1294](forskrift/2003-11-03-1294) (i kraft 1 des 2003), endret ved forskrifter [6 nov 2020 nr. 2271](forskrift/2020-11-06-2271) (i kraft 1 jan 2021, tidligere § 3-3), [24 juni 2022 nr. 1192](forskrift/2022-06-24-1192).
 
@@ -194,7 +212,14 @@ Ved uttak av pensjon fra egen pensjonskonto skal aktiv og tidligere opptjening b
 
 ### § 5-1. Alder ved uttak av alderspensjon
 
-(1) Alderspensjon kan tas ut før fylte 62 år, og på angitte tidspunkt, for følgende yrker:Uttak ved 55 år:FlypiloterDykkereRedningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havsUttak ved 60 år:Flybesetningsmedlemmer unntatt piloter
+(1) Alderspensjon kan tas ut før fylte 62 år, og på angitte tidspunkt, for følgende yrker:
+
+|  |  |
+| --- | --- |
+| Uttak ved 55 år: | Flypiloter |
+|  | Dykkere |
+|  | Redningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havs |
+| Uttak ved 60 år: | Flybesetningsmedlemmer unntatt piloter |
 
 (2) For andre yrker kan Finansdepartementet i henhold til lovens § 7-1 første ledd fastsette lavere alder for uttak av alderspensjon enn 62 år i særlige tilfelle når lovens vilkår er oppfylt.
 

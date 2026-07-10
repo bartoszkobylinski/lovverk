@@ -80,6 +80,8 @@ Kommunal- og moderniseringsdepartementet gir nærmere regler om departementenes 
 
 > Endret ved forskrift [8 okt 2021 nr. 2958](forskrift/2021-10-08-2958) (i kraft 1 nov 2021).
 
+1 Romertall IX første ledd første setning andre komma og første ledd andre punktum er erstattet av vedtak [5 juli 2022 nr. 1304](forskrift/2022-07-05-1304) del I annet ledd.
+
 ## X
 
 Statsforvalteren fører kontroll med om kommuner skal føres inn i eller meldes ut av ROBEK etter [kommuneloven § 28-1](lov/2018-06-22-83/§28-1) første ledd og [§ 28-5](lov/2018-06-22-83/§28-5).
@@ -135,6 +137,8 @@ De enkelte departementene gis fullmakt til å treffe de avgjørelser som er till
 ## XVII
 
 Vedtakene I–V, VIII, IX, XV og XVI trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1 Fra samme tidspunkt oppheves kongelig [resolusjon 27. oktober 2017 nr. 1666](forskrift/2017-10-27-1666) og kongelig [resolusjon 18. desember 1992 nr. 1079](forskrift/1992-12-18-1079).
+
+1 Antas å være 1 november 2019, se [vedtak 3 okt 2019 nr. 1294](forskrift/2019-10-03-1294).
 
 ## XVIII
 

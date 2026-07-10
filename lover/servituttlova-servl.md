@@ -181,3 +181,5 @@ Kostnaden ved avgjerd i jordskifteretten etter denne lova skal leggjast på den 
 Denne lova gjeld frå den tid Kongen fastset.1
 
 Frå same tid vert etternemnde lover og lovføresegner sette ut or kraft eller brigda såleis: – – –.
+
+1 Frå 1 jan 1969 iflg. res. 29 nov 1968.

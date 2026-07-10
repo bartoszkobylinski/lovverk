@@ -229,6 +229,10 @@ Departementet kan gi nærmere overgangsregler.
 
 > Endret ved lov [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285), tidligere § 29).
 
+1 Fra 1 juli 2016 med unntak av § 12 annet ledd, § 28 og ny § 10a tredje ledd i [lov 9 jan 2009 nr. 2](lov/2009-01-09-2) om kontroll med markedsføring og avtalevilkår mv. iflg. [res. 17 juni 2016 nr. 703](forskrift/2016-06-17-703). I kraft 25 aug 2017 for § 12 annet ledd, § 28 og ny § 10a tredje ledd i [lov 9. januar 2009 nr. 2](lov/2009-01-09-2) om kontroll med markedsføring og avtalevilkår mv. iflg. [res. 25 aug 2017 nr. 1287](forskrift/2017-08-25-1287).
+
 ### § 28. Endringer i andre lover
+
+– – –
 
 > Endret ved lov [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285), tidligere § 30).

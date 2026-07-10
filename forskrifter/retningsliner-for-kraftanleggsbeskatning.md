@@ -54,6 +54,8 @@ Med *kraftanlegg* er meint «det egentlige produksjonsanlegget – kraftverket/k
 
 Dei *driftsmiddel* som skal inngå i fordelinga skal i utgangspunktet tilsvara dei driftsmiddel som var omfatta av NVE sine berekningar av GAV etter [forskrift av 20. januar 1997 nr. 79 § 1-1](forskrift/1997-01-20-79/§1-1). I 1997 vart gjenanskaffingsverdet berekna for desse hovudtyper av driftsmiddel i kraftanlegg:
 
+*Kap. 3.0 Overføringer og reguleringsanlegg*
+
 1. Dammar
 2. Vassveger
 3. Hjelpetunnelar
@@ -62,6 +64,8 @@ Dei *driftsmiddel* som skal inngå i fordelinga skal i utgangspunktet tilsvara d
 6. Lukesjakter
 7. Pumper
 
+*Kap. 4.0 Inntak/driftsvassveg*
+
 1. Dammar
 2. Vassveger
 3. Hjelpetunnelar
@@ -69,6 +73,8 @@ Dei *driftsmiddel* som skal inngå i fordelinga skal i utgangspunktet tilsvara d
 5. Svingesjakt/trykkluftbasseng
 6. Luker og tverrslagsporter
 7. Lukesjakter
+
+*Kap. 5.0 Kraftstasjonsområdet*
 
 1. Kraftstasjonshall/-bygning med maskinteknisk utstyr
 2. Adkomst- og hjelpetunnelar
@@ -79,6 +85,8 @@ Dei *driftsmiddel* som skal inngå i fordelinga skal i utgangspunktet tilsvara d
 7. Hjelpeanlegg
 8. Kablar
 9. Kraftliner som ikkje reknast til monopoldel
+
+*Kap. 6.0 Adkomstanlegg*
 
 1. Veger med underpunkter for vegtunnelar og bruer
 2. Kaianlegg
@@ -102,7 +110,11 @@ Ved reguleringsanlegg er det oppført bl.a. lukestyringsanlegg og vasstandsmåla
 
 Kommunefordelinga skal baserast på ei berekning av kommunane sin andel av GAV for dei einskilde driftsmiddel basert på deira plassering i høve til kommunegrensene. For berekning av den einskilde kommune sin andel av GAV for driftsmiddel som krysser kommunegrenser, skal følgjande retningsliner leggast til grunn:
 
+*Dammar:*
+
 Dammar som har ein kryssande kommunegrense skal fordelast i forhold til damvolum. Luker som ligg i dammen inngår i denne fordelinga. Ved kombinasjonsdammar skal kvar einskild damtype vurderast kvar for seg. Omløps- og flomløpstunnelar skal skiljast ut som eigne einingar og bereknast som vassveg.
+
+*Vassveger:*
 
 Fordeling av vassveg skal skje ved at vassvegen med tilslutta driftsmiddel vert fordelt forholdsvis etter lengda.
 
@@ -115,6 +127,8 @@ Tverrslag vert inkludert i tilhøyrande tunnel/sjakt.
 Bekkeinntak med vassveg, luker og lukesjakter vert inkludert i tilhøyrande tunnel. Svingesystemet vert skilt ut som ei eiga eining. Dersom det er eintydig plassert i ein kommune, skal det tilordnast denne kommunen. Dersom kommunegrensa går gjennom dette området, skal svingesystemet fordelast med 50 pst. på kvar av de to kommunane.
 
 Ein vassveg i form av rørgate, består av rør og fundamenter/grøft. Røret kan være delt opp i fleire driftsmiddel avhengig av rørtype og dimensjon, og rørgata kan være både i dagen og nedgravd. Heile rørgata skal vurderast som ei eining.
+
+*Kraftstasjonar: (gjeld ein kraftstasjon)*
 
 Kraftstasjon består av bygg/hall, adkomst- og hjelpetunnelar, samt maskin- og elektrotekniske anlegg. Dei einskilde driftsmiddel i kap. 5.1 og 5.3 til 5.9 vert vurdert som eigne einingar, og vert fordelt kvar for seg. For kraftstasjonsbygg/-hall vil fordelinga bli gjort etter sprengningsvolumformelen i NVE sitt kostnadsgrunnlag for store kraftanlegg, jf. NVE publ. nr. 19/1995. Ellers skal kvart driftsmiddel fordelast med 50/50 til kvar kommune, dersom ikkje driftsmidlet er eintydig plassert i ein kommune. Driftsmiddel under pkt. 5.2 vert inkludert i kraftstasjonshallen, utanom adkomsttunnelen som vert vurdert for seg.
 

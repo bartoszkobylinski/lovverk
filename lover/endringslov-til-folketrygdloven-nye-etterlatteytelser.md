@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
+I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgende endringer:
+
+– – –
+
 ## II
+
+Ikrafttredelse og overgangsregler.
 
 1. Loven trer i kraft fra den tiden Kongen bestemmer.1 Kongen kan bestemme at de forskjellige bestemmelsene skal tre i kraft til ulik tid.
 2. For den som ved ikrafttredelsen har rett til overgangsstønad etter [§§ 16-7](lov/1997-02-28-19/§16-7) og [17-6](lov/1997-02-28-19/§17-6), uten å være omfattet av personkretsen i nytt [kapittel 17 A](lov/1997-02-28-19/kap17A), gjelder [folketrygdloven](lov/1997-02-28-19) kapitlene 16 og 17 slik disse lød før 1. januar 2024, så lenge vedtaksperioden varer. Det samme gjelder for den som ved ikrafttredelsen har rett til stønad til barnetilsyn, tilleggsstønader eller stønad til skolepenger mv. etter [§§ 16-9](lov/1997-02-28-19/§16-9) eller [17-9](lov/1997-02-28-19/§17-9). [Folketrygdloven §§ 2-9](lov/1997-02-28-19/§2-9), [2-13](lov/1997-02-28-19/§2-13), [21-6](lov/1997-02-28-19/§21-6), [22-8](lov/1997-02-28-19/§22-8), [22-10](lov/1997-02-28-19/§22-10), [25-4](lov/1997-02-28-19/§25-4), [25-9](lov/1997-02-28-19/§25-9) og [25-17](lov/1997-02-28-19/§25-17) gjelder slik de lød før 1. januar 2024 for de nevnte ytelsene.
@@ -33,3 +39,5 @@ eu_basis: []
 5. Departementet kan gi forskrifter om overgangsregler.
 
 > Endret ved [lov 16 juni 2023 nr. 36](lov/2023-06-16-36).
+
+1 Fra 1. januar 2024 iflg. [res. 16 juni 2023 nr. 929](forskrift/2023-06-16-929).

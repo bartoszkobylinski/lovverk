@@ -620,6 +620,8 @@ Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de 
 
 Fra den tiden loven trer i kraft, oppheves [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101).
 
+1 Fra 1. juli 2026 iflg. [res. 20. juni 2025 nr. 1108](forskrift/2025-06-20-1108).
+
 ### § 12-2. Overgangsbestemmelser
 
 1. Søknader innkommet før denne lovens ikrafttredelse skal behandles etter [lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser](lov/2009-06-19-101) med forskrifter. Dersom søkeren ønsker det og søknadsbehandlingen ikke har startet, kan søknaden likevel behandles etter loven her.

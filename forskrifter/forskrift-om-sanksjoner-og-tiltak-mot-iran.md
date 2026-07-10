@@ -130,59 +130,59 @@ I denne forordningen menes med:«penger»: finansielle eiendeler og fordeler av 
 
 ### Artikkel 1a
 
-1. Det er forbudt:direkte eller indirekte å selge, levere, overføre eller eksportere utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, enten det har opprinnelse i EU eller ikke, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, herunder særlig tilskudd, lån og eksportkredittforsikring, til salg, levering, overføring eller eksport av slike produkter, eller til ytelse av tilknyttet faglig bistand til personer, enheter eller organer i Iran eller til bruk i Iran,forsettlig å delta i aktiviteter som har som formål eller virkning å omgå forbudene nevnt i bokstav a, b og c.
+1\. Det er forbudt:direkte eller indirekte å selge, levere, overføre eller eksportere utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, enten det har opprinnelse i EU eller ikke, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, herunder særlig tilskudd, lån og eksportkredittforsikring, til salg, levering, overføring eller eksport av slike produkter, eller til ytelse av tilknyttet faglig bistand til personer, enheter eller organer i Iran eller til bruk i Iran,forsettlig å delta i aktiviteter som har som formål eller virkning å omgå forbudene nevnt i bokstav a, b og c.
 
-2. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, forutsatt at det utelukkende er beregnet på beskyttelse av EUs og medlemsstatenes personale i Iran, eller på ytelse av faglig bistand eller formidlingstjenester eller av finansiering eller finansiell bistand nevnt i nr. 1 bokstav b og c knyttet til slikt utstyr.
+2\. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr som kan brukes til intern undertrykkelse, og som er oppført i vedlegg III, forutsatt at det utelukkende er beregnet på beskyttelse av EUs og medlemsstatenes personale i Iran, eller på ytelse av faglig bistand eller formidlingstjenester eller av finansiering eller finansiell bistand nevnt i nr. 1 bokstav b og c knyttet til slikt utstyr.
 
 ### Artikkel 1b
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg IV, enten det har opprinnelse i EU eller ikke, til personer, enheter eller organer i Iran eller til bruk i Iran, med mindre kompetent myndighet i den aktuelle medlemsstaten, som oppført på nettstedene nevnt i vedlegg II, har gitt forhåndstillatelse.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare som er oppført i vedlegg IV, enten det har opprinnelse i EU eller ikke, til personer, enheter eller organer i Iran eller til bruk i Iran, med mindre kompetent myndighet i den aktuelle medlemsstaten, som oppført på nettstedene nevnt i vedlegg II, har gitt forhåndstillatelse.
 
-2. Kompetente myndigheter i medlemsstatene, som oppført på nettstedene nevnt i vedlegg II, skal ikke gi tillatelse etter nr. 1 dersom de har rimelig grunn til å anta at det aktuelle utstyret eller den aktuelle teknologien eller programvaren vil bli brukt til overvåking eller avlytting i Iran av internett- eller telefonkommunikasjon av Irans regjering, offentlige organer, selskaper eller byråer eller av personer eller enheter som handler på deres vegne eller etter deres instruks.
+2\. Kompetente myndigheter i medlemsstatene, som oppført på nettstedene nevnt i vedlegg II, skal ikke gi tillatelse etter nr. 1 dersom de har rimelig grunn til å anta at det aktuelle utstyret eller den aktuelle teknologien eller programvaren vil bli brukt til overvåking eller avlytting i Iran av internett- eller telefonkommunikasjon av Irans regjering, offentlige organer, selskaper eller byråer eller av personer eller enheter som handler på deres vegne eller etter deres instruks.
 
-3. Vedlegg IV omfatter utstyr, teknologi eller programvare som kan brukes til overvåking eller avlytting av internett- eller telefonkommunikasjon.
+3\. Vedlegg IV omfatter utstyr, teknologi eller programvare som kan brukes til overvåking eller avlytting av internett- eller telefonkommunikasjon.
 
-4. Den aktuelle medlemsstat skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, innen fire uker etter at tillatelsen er gitt.
+4\. Den aktuelle medlemsstat skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, innen fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 1c
 
-1. Det er forbudt:direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi eller programvare oppført i vedlegg IV, eller knyttet til levering, produksjon, vedlikehold og bruk av utstyret og teknologien oppført i vedlegg IV eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg IV, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg IV, til personer, enheter eller organer i Iran eller til bruk i Iran,å yte tjenester i form av overvåking eller avlytting av telekommunikasjon eller internetkommunikasjon direkte eller indirekte til fordel for Irans regjering, offentlige organer, selskaper eller byråer i Iran eller personer eller enheter som handler på deres vegne eller etter deres instruks, ogforsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene nevnt i bokstav a, b eller c ovenfor, med mindre kompetent myndighet i den aktuelle medlemsstaten, som oppført på nettstedene nevnt i vedlegg II, har gitt forhåndstillatelse på grunnlag av artikkel 1b nr. 2.
+1\. Det er forbudt:direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi eller programvare oppført i vedlegg IV, eller knyttet til levering, produksjon, vedlikehold og bruk av utstyret og teknologien oppført i vedlegg IV eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg IV, til personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg IV, til personer, enheter eller organer i Iran eller til bruk i Iran,å yte tjenester i form av overvåking eller avlytting av telekommunikasjon eller internetkommunikasjon direkte eller indirekte til fordel for Irans regjering, offentlige organer, selskaper eller byråer i Iran eller personer eller enheter som handler på deres vegne eller etter deres instruks, ogforsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene nevnt i bokstav a, b eller c ovenfor, med mindre kompetent myndighet i den aktuelle medlemsstaten, som oppført på nettstedene nevnt i vedlegg II, har gitt forhåndstillatelse på grunnlag av artikkel 1b nr. 2.
 
-2. I nr. 1 bokstav c skal «tjenester i form av overvåking eller avlytting av telekommunikasjon eller internettkommunikasjon» forstås som de tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare som oppført i vedlegg IV, gir adgang til og viser en persons inngående og utgående telekommunikasjon og anropstilknyttede data med henblikk på å ta ut, dekode, registrere, bearbeide, analysere og lagre dem, eller annen relatert virksomhet.
+2\. I nr. 1 bokstav c skal «tjenester i form av overvåking eller avlytting av telekommunikasjon eller internettkommunikasjon» forstås som de tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare som oppført i vedlegg IV, gir adgang til og viser en persons inngående og utgående telekommunikasjon og anropstilknyttede data med henblikk på å ta ut, dekode, registrere, bearbeide, analysere og lagre dem, eller annen relatert virksomhet.
 
 ### Artikkel 2
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter og organer som oppført i vedlegg I, skal fryses.
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter og organer som oppført i vedlegg I, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg I.
 
-3. Forsettlig deltakelse i virksomhet som direkte eller indirekte har som formål eller virkning å omgå tiltakene nevnt i nr. 1 og 2, er forbudt.
+3\. Forsettlig deltakelse i virksomhet som direkte eller indirekte har som formål eller virkning å omgå tiltakene nevnt i nr. 1 og 2, er forbudt.
 
 ### Artikkel 3
 
-1. Vedlegg I inneholder en liste over personer som Rådet, i henhold til artikkel 2 nr. 1 i beslutning [2011/235/CFSP](eu/32011d0235), har identifisert som ansvarlige for alvorlige menneskerettighetsbrudd i Iran, og personer, enheter eller organer med tilknytning til dem.
+1\. Vedlegg I inneholder en liste over personer som Rådet, i henhold til artikkel 2 nr. 1 i beslutning [2011/235/CFSP](eu/32011d0235), har identifisert som ansvarlige for alvorlige menneskerettighetsbrudd i Iran, og personer, enheter eller organer med tilknytning til dem.
 
-2. Vedlegg I inneholder begrunnelsen for at de berørte personene, enhetene og organene er listeførte.
+2\. Vedlegg I inneholder begrunnelsen for at de berørte personene, enhetene og organene er listeførte.
 
-3. Vedlegg I inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted.
+3\. Vedlegg I inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted.
 
 ### Artikkel 4
 
-1. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse, på de vilkår de mener er hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, eller stille visse penger eller formuesgoder til rådighet, etter å ha fastslått at pengene eller formuesgodene:er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerer nødvendige for ekstraordinære utgifter, forutsatt at den berørte medlemsstaten har underrettet alle andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, minst to uker før tillatelse gis.
+1\. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse, på de vilkår de mener er hensiktsmessige, til å frigi visse frosne penger eller formuesgoder, eller stille visse penger eller formuesgoder til rådighet, etter å ha fastslått at pengene eller formuesgodene:er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg I og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerer nødvendige for ekstraordinære utgifter, forutsatt at den berørte medlemsstaten har underrettet alle andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, minst to uker før tillatelse gis.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 5
 
-1. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt at følgende vilkår er oppfylt:pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter, oppført i vedlegg II, kan gjøre unntak fra artikkel 2 og gi tillatelse til å frigi visse frosne penger eller formuesgoder, forutsatt at følgende vilkår er oppfylt:pengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig tilbakeholdsrett fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I, eller for en rettslig, administrativ eller voldgiftsmessig beslutning truffet før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik tilbakeholdsrett eller anerkjent som gyldige i en slik rettslig beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,tilbakeholdsretten eller beslutningen ikke er til fordel for personer, enheter eller organer oppført i vedlegg I, oganerkjennelse av tilbakeholdsretten eller avgjørelsen ikke er i strid med grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 6
 
-1. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av:renter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I,forutsatt at slike renter eller andre avkastninger og betalinger fryses i samsvar med artikkel 2 nr. 1.
+1\. Artikkel 2 nr. 2 gjelder ikke beløp som tilføres frosne konti i form av:renter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 2 ble oppført i vedlegg I,forutsatt at slike renter eller andre avkastninger og betalinger fryses i samsvar med artikkel 2 nr. 1.
 
-2. Artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
+2\. Artikkel 2 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
 
 ### Artikkel 7
 
@@ -190,25 +190,25 @@ I tilfeller der personer, enheter eller organer oppført i vedlegg I skal betale
 
 ### Artikkel 7a
 
-1. Forbudet i artikkel 2 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
+1\. Forbudet i artikkel 2 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
 
-2. I saker som ikke omfattes av nr. 1 i denne artikkelen, og som unntak fra bestemmelsene i artikkel 2 nr. 1 og 2, kan de kompetente myndighetene i en medlemsstat gi særskilte eller alminnelige tillatelser, på de alminnelige eller særskilte vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
+2\. I saker som ikke omfattes av nr. 1 i denne artikkelen, og som unntak fra bestemmelsene i artikkel 2 nr. 1 og 2, kan de kompetente myndighetene i en medlemsstat gi særskilte eller alminnelige tillatelser, på de alminnelige eller særskilte vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
 
-3. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+3\. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
 
-4. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2 eller 3, innen to uker etter at tillatelsen er gitt.
+4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2 eller 3, innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 8
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Forbudet fastsatt i artikkel 2 nr. 2 skal ikke medføre noen form for ansvar for de fysiske og juridiske personene, enhetene og organene som stilte pengene eller formuesgodene til rådighet dersom de ikke visste og ikke hadde rimelig grunn til å anta at deres handlinger ville være i strid med det aktuelle forbudet.
+2\. Forbudet fastsatt i artikkel 2 nr. 2 skal ikke medføre noen form for ansvar for de fysiske og juridiske personene, enhetene og organene som stilte pengene eller formuesgodene til rådighet dersom de ikke visste og ikke hadde rimelig grunn til å anta at deres handlinger ville være i strid med det aktuelle forbudet.
 
 ### Artikkel 9
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer:omgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 2, til den kompetente myndigheten, som angitt på nettstedene oppført i vedlegg II, i medlemsstatene der de er bosatt eller befinner seg og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer:omgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 2, til den kompetente myndigheten, som angitt på nettstedene oppført i vedlegg II, i medlemsstatene der de er bosatt eller befinner seg og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
 
-2. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal bare benyttes til det formål de gis eller mottas for.
+2\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal bare benyttes til det formål de gis eller mottas for.
 
 ### Artikkel 10
 
@@ -220,19 +220,19 @@ Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra
 
 ### Artikkel 12
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2 nr. 1, skal vedlegg I endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 2 nr. 1, skal vedlegg I endres tilsvarende.
 
-2. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, som gir personen, enheten eller organet anledning til å fremlegge merknader
+2\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, som gir personen, enheten eller organet anledning til å fremlegge merknader
 
-3. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere personen, enheten eller organet om dette.
+3\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere personen, enheten eller organet om dette.
 
-4. Listen i vedlegg I skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg I skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
 ### Artikkel 13
 
-1. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer i dem.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer i dem.
 
 ### Artikkel 14
 
@@ -310,13 +310,19 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 - SWEDEN
 [https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
 
+Address for notifications to the European Commission:
+European Commission
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+Rue de Spa 2/Spastraat 2 B-1049 Bruxelles/Brussel,
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ### Vedlegg III til Vedlegg A. Liste over utstyr som kan brukes til intern undertrykkelse som nevnt i artikkel 1a
 
-1. Fire-arms, ammunition and related accessories therefor, as follows:Firearms not controlled by ML 1 and ML 2 of the Common Military List;Ammunition specially designed for the firearms listed in item 1.1 and specially designed components therefor;Weapon-sights not controlled by the Common Military List.
+1. Fire-arms, ammunition and related accessories therefor, as follows:Firearms not controlled by ML 1 and ML 2 of the Common Military List; Ammunition specially designed for the firearms listed in item 1.1 and specially designed components therefor; Weapon-sights not controlled by the Common Military List.
 2. Bombs and grenades not controlled by the Common Military List.
-3. Vehicles as follows:Vehicles equipped with a water cannon, specially designed or modified for the purpose of riot control;Vehicles specially designed or modified to be electrified to repel borders;Vehicles specially designed or modified to remove barricades, including construction equipment with ballistic protection;Vehicles specially designed for the transport or transfer of prisoners and/or detainees;Vehicles specially designed to deploy mobile barriers;Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control.*Note 1 This item does not control vehicles specially designed for the purposes of fire-fighting.**Note 2 For the purposes of item 3.5 the term ‘vehicles’ includes trailers.*
-4. Explosive substances and related equipment as follows:Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including firing sets, detonators, igniters, boosters and detonating cord, and specially designed components therefor; except those specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the creation of explosions (e.g., car air-bag inflaters, electric-surge arresters of fire sprinkler actuators);Linear cutting explosive charges not controlled by the Common Military List;Other explosives not controlled by the Common Military List and related substances as follows:amatol;nitrocellulose (containing more than 12,5 % nitrogen);nitroglycol;pentaerythritol tetranitrate (PETN);picryl chloride;2,4,6-trinitrotoluene (TNT).
-5. Protective equipment not controlled by ML 13 of the Common Military List as follows:Body armour providing ballistic and/or stabbing protection;Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.*Note: This item does not control:**equipment specially designed for sports activities;**equipment specially designed for safety of work requirements.*
+3. Vehicles as follows:Vehicles equipped with a water cannon, specially designed or modified for the purpose of riot control; Vehicles specially designed or modified to be electrified to repel borders; Vehicles specially designed or modified to remove barricades, including construction equipment with ballistic protection; Vehicles specially designed for the transport or transfer of prisoners and/or detainees; Vehicles specially designed to deploy mobile barriers; Components for the vehicles specified in items 3.1 to 3.5 specially designed for the purposes of riot control. *Note 1 This item does not control vehicles specially designed for the purposes of fire-fighting.* *Note 2 For the purposes of item 3.5 the term ‘vehicles’ includes trailers.*
+4. Explosive substances and related equipment as follows:Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including firing sets, detonators, igniters, boosters and detonating cord, and specially designed components therefor; except those specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the creation of explosions (e.g., car air-bag inflaters, electric-surge arresters of fire sprinkler actuators); Linear cutting explosive charges not controlled by the Common Military List; Other explosives not controlled by the Common Military List and related substances as follows:amatol; nitrocellulose (containing more than 12,5 % nitrogen); nitroglycol; pentaerythritol tetranitrate (PETN); picryl chloride; 2,4,6-trinitrotoluene (TNT).
+5. Protective equipment not controlled by ML 13 of the Common Military List as follows:Body armour providing ballistic and/or stabbing protection; Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields. *Note: This item does not control:**equipment specially designed for sports activities;* *equipment specially designed for safety of work requirements.*
 6. Simulators, other than those controlled by ML 14 of the Common Military List, for training in the use of firearms, and specially designed software therefor.
 7. Night vision, thermal imaging equipment and image intensifier tubes, other than those controlled by the Common Military List.
 8. Razor barbed wire.
@@ -326,15 +332,57 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 
 ### Vedlegg IV til Vedlegg A. Utstyr, teknologi og programvare nevnt i artikkel 1b og 1c
 
+*General Note*
+
+Notwithstanding the contents of this Annex, it shall not apply to:
+
 1. equipment, technology or software which are specified in Annex I to [Council Regulation (EC) 428/2009](eu/32009r0428)[1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) or the Common Military List; or
-2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over the counter transactions;mail order transactions;electronic transactions; ortelephone order transactions; or
+2. software which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over the counter transactions; mail order transactions; electronic transactions; or telephone order transactions; or
 3. software which is in the public domain.
 
-1. List of equipmentDeep Packet Inspection equipmentNetwork Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipmentRadio Frequency monitoring equipmentNetwork and Satellite jamming equipmentRemote Infection equipmentSpeaker recognition/processing equipmentIMSI [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), MSISDN [3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), IMEI [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), TMSI [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipmentTactical SMS [6](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GSM [7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPS [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPRS [9](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /UMTS [10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /CDMA [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /PSTN [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipmentDHCP [13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /SMTP [14](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), GTP [15](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) information interception and monitoring equipmentPattern Recognition and Pattern Profiling equipmentRemote Forensics equipmentSemantic Processing Engine equipmentWEP and WPA code breaking equipmentInterception equipment for VoIP proprietary and standard protocol
+The categories A, B, C, D and E refer to the categories referred to in [Regulation (EC) No 428/2009](eu/32009r0428).
+
+The ‘equipment, technology and software’ referred to in Article 1b is:
+
+1. List of equipmentDeep Packet Inspection equipment Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment Radio Frequency monitoring equipment Network and Satellite jamming equipment Remote Infection equipment Speaker recognition/processing equipment IMSI [2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), MSISDN [3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), IMEI [4](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), TMSI [5](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment Tactical SMS [6](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GSM [7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPS [8](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /GPRS [9](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /UMTS [10](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /CDMA [11](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /PSTN [12](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) interception and monitoring equipment DHCP [13](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) /SMTP [14](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913), GTP [15](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R0359-20240913) information interception and monitoring equipment Pattern Recognition and Pattern Profiling equipment Remote Forensics equipment Semantic Processing Engine equipment WEP and WPA code breaking equipment Interception equipment for VoIP proprietary and standard protocol
 2. Not used
 3. Not used
 4. ‘Software’ for the ‘development’, ‘production’ or ‘use’ of the equipment specified in A above.
 5. ‘Technology’ for the ‘development’, ‘production’ or ‘use’ of the equipment specified in A above.
+
+Equipment, technology and software falling within these categories is within the scope of this Annex only to the extent that it falls within the general description ‘internet, telephone and satellite communications interception and monitoring systems’.
+
+For the purpose of this Annex ‘monitoring’ means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
+
+1 [Council Regulation (EC) No 428/2009](eu/32009r0428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+2 IMSI stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card and which allows identification of such SIM via GSM and UMTS networks.
+
+3 MSISDN stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+4 IMEI stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones as well as some satellite phones. It is usually found printed inside the battery compartment of the phone. interception (wiretapping) can be specified by its IMEI number as well as IMSI and MSISDN.
+
+5 TMSI stands for Temporary Mobile Subscriber Identity. It is the identity that is most commonly sent between the mobile and the network.
+
+6 SMS stands for Short Message System.
+
+7 GSM stands for Global System for Mobile Communications.
+
+8 GPS stands for Global Positioning System.
+
+9 GPRS stands for General Package Radio Service.
+
+10 UMTS stands for Universal Mobile Telecommunication System.
+
+11 CDMA stands for Code Division Multiple Access.
+
+12 PSTN stands for Public Switch Telephone Networks.
+
+13 DHCP stands for Dynamic Host Configuration Protocol.
+
+14 SMTP stands for Simple Mail Transfer Protocol.
+
+15 GTP stands for GPRS Tunnelling Protocol.
 
 ## Vedlegg B
 
@@ -354,33 +402,33 @@ Eksport- og importrestriksjoner
 
 ### Artikkel 2
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i vedlegg I eller II, uansett om de har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i vedlegg I eller II, uansett om de har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg I omfatter varer og teknologi, herunder programvare, som er flerbruksvarer som definert i Europaparlaments- og rådsforordning [(EU) 2021/821](eu/32021r0821), med unntak av visse varer og teknologi som spesifisert i del A i vedlegg I til denne forordningen.
+2\. Vedlegg I omfatter varer og teknologi, herunder programvare, som er flerbruksvarer som definert i Europaparlaments- og rådsforordning [(EU) 2021/821](eu/32021r0821), med unntak av visse varer og teknologi som spesifisert i del A i vedlegg I til denne forordningen.
 
-3. Den berørte medlemsstaten skal innen fire uker underrette de øvrige medlemsstatene og Kommisjonen om tillatelser som gis i henhold til forordning [(EU) 2021/821](eu/32021r0821) når det gjelder varer og teknologi som spesifisert i del A i vedlegg I til denne forordningen.
+3\. Den berørte medlemsstaten skal innen fire uker underrette de øvrige medlemsstatene og Kommisjonen om tillatelser som gis i henhold til forordning [(EU) 2021/821](eu/32021r0821) når det gjelder varer og teknologi som spesifisert i del A i vedlegg I til denne forordningen.
 
-4. Vedlegg II omfatter andre varer og annen teknologi som kan bidra til Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann, til utvikling av leveringssystemer for kjernevåpen eller til aktiviteter som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål, herunder de som er fastsatt av FNs sikkerhetsråd eller Sanksjonskomiteen.
+4\. Vedlegg II omfatter andre varer og annen teknologi som kan bidra til Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann, til utvikling av leveringssystemer for kjernevåpen eller til aktiviteter som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål, herunder de som er fastsatt av FNs sikkerhetsråd eller Sanksjonskomiteen.
 
-5. Vedlegg I og II omfatter ikke varer og teknologi som er oppført på EUs felles liste over militært materiell.
+5\. Vedlegg I og II omfatter ikke varer og teknologi som er oppført på EUs felles liste over militært materiell.
 
 ### Artikkel 3
 
-1. Det kreves forhåndstillatelse for direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i vedlegg IIA, uansett om de har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det kreves forhåndstillatelse for direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi oppført i vedlegg IIA, uansett om de har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. For all eksport som det kreves tillatelse for i henhold til denne artikkelen, skal slik tillatelse gis av de kompetente myndighetene i medlemsstaten der eksportøren er etablert og være i samsvar med reglene fastsatt i artikkel 14 i forordning [(EU) 2021/821](eu/32021r0821). Tillatelsen er gyldig i hele EU.
+2\. For all eksport som det kreves tillatelse for i henhold til denne artikkelen, skal slik tillatelse gis av de kompetente myndighetene i medlemsstaten der eksportøren er etablert og være i samsvar med reglene fastsatt i artikkel 14 i forordning [(EU) 2021/821](eu/32021r0821). Tillatelsen er gyldig i hele EU.
 
-3. Vedlegg IIA omfatter alle varer og all teknologi, bortsett fra de som er oppført i vedlegg I og II, som kan bidra til Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann, til utvikling av leveringssystemer for kjernevåpen eller til aktiviteter som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
+3\. Vedlegg IIA omfatter alle varer og all teknologi, bortsett fra de som er oppført i vedlegg I og II, som kan bidra til Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann, til utvikling av leveringssystemer for kjernevåpen eller til aktiviteter som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
 
-4. Eksportører skal gi de kompetente myndighetene alle relevante opplysninger som er nødvendige for behandlingen av deres søknad om eksporttillatelse.
+4\. Eksportører skal gi de kompetente myndighetene alle relevante opplysninger som er nødvendige for behandlingen av deres søknad om eksporttillatelse.
 
-5. De kompetente myndighetene skal ikke gi tillatelse til salg, levering, overføring eller eksport av varer eller teknologi oppført i vedlegg IIA dersom de har rimelig grunn til å fastslå at salget, leveringen, overføringen eller eksporten av varene og teknologien er eller kan være beregnet på bruk i forbindelse med en av de følgende aktivitetene:Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
+5\. De kompetente myndighetene skal ikke gi tillatelse til salg, levering, overføring eller eksport av varer eller teknologi oppført i vedlegg IIA dersom de har rimelig grunn til å fastslå at salget, leveringen, overføringen eller eksporten av varene og teknologien er eller kan være beregnet på bruk i forbindelse med en av de følgende aktivitetene:Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
 
-6. Kompetente myndigheter kan, på vilkårene fastsatt i nr. 5, annullere, suspendere, endre eller tilbakekalle en eksporttillatelse de har gitt.
+6\. Kompetente myndigheter kan, på vilkårene fastsatt i nr. 5, annullere, suspendere, endre eller tilbakekalle en eksporttillatelse de har gitt.
 
-7. Dersom en kompetent myndighet avslår å gi tillatelse eller annullerer, suspenderer, i vesentlig grad endrer eller tilbakekaller en tillatelse i samsvar med nr. 5 eller 6, skal den berørte medlemsstaten underrette de øvrige medlemsstatene og Kommisjonen om dette og gi dem relevante opplysningene samtidig som den overholder bestemmelsene om taushetsplikt for slik informasjon i rådsforordning [(EF) nr. 515/97](eu/31997r0515).
+7\. Dersom en kompetent myndighet avslår å gi tillatelse eller annullerer, suspenderer, i vesentlig grad endrer eller tilbakekaller en tillatelse i samsvar med nr. 5 eller 6, skal den berørte medlemsstaten underrette de øvrige medlemsstatene og Kommisjonen om dette og gi dem relevante opplysningene samtidig som den overholder bestemmelsene om taushetsplikt for slik informasjon i rådsforordning [(EF) nr. 515/97](eu/31997r0515).
 
-8. Før en medlemsstat gir tillatelse i henhold til nr. 5 til en vesentlig identisk transaksjon, som i henhold til nr. 6 og 7 har blitt avslått av en eller flere andre medlemsstater, og hvor avslaget fortsatt er gyldig, skal denne medlemsstaten først konsultere den eller de medlemsstatene som ga avslaget. Dersom den berørte medlemsstaten etter slik konsultasjon beslutter å gi tillatelse, skal den underrette de øvrige medlemsstatene og Kommisjonen om dette og gi alle relevante opplysninger for å redegjøre for beslutningen.
+8\. Før en medlemsstat gir tillatelse i henhold til nr. 5 til en vesentlig identisk transaksjon, som i henhold til nr. 6 og 7 har blitt avslått av en eller flere andre medlemsstater, og hvor avslaget fortsatt er gyldig, skal denne medlemsstaten først konsultere den eller de medlemsstatene som ga avslaget. Dersom den berørte medlemsstaten etter slik konsultasjon beslutter å gi tillatelse, skal den underrette de øvrige medlemsstatene og Kommisjonen om dette og gi alle relevante opplysninger for å redegjøre for beslutningen.
 
 ### Artikkel 4
 
@@ -388,9 +436,9 @@ Det er forbudt direkte eller indirekte å kjøpe, importere eller transportere v
 
 ### Artikkel 4a
 
-1. Det er forbudt direkte eller indirekte å selge, levere eller eksportere varene og teknologien oppført i vedlegg III, eller andre produkter som medlemsstaten fastslår kan bidra til utvikling av leveringssystemer for kjernevåpen, uansett om varene eller teknologien har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere eller eksportere varene og teknologien oppført i vedlegg III, eller andre produkter som medlemsstaten fastslår kan bidra til utvikling av leveringssystemer for kjernevåpen, uansett om varene eller teknologien har opprinnelse i EU eller ikke, til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg III skal inneholde produktene, herunder varer og teknologi, som oppført på listen til Missile Technology Control Regime.
+2\. Vedlegg III skal inneholde produktene, herunder varer og teknologi, som oppført på listen til Missile Technology Control Regime.
 
 ### Artikkel 4b
 
@@ -402,11 +450,11 @@ Det er forbudt direkte eller indirekte å kjøpe, importere eller transportere v
 
 ### Artikkel 5
 
-1. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til varene og teknologien oppført på EUs felles liste over militært materiell, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på denne listen, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varene og teknologien oppført i vedlegg I eller II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført i vedlegg I eller II, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien oppført på EUs felles liste over militært materiell eller i vedlegg I eller II, herunder særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller for ytelse av tilknyttet faglig bistand til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til varene og teknologien oppført på EUs felles liste over militært materiell, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på denne listen, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varene og teknologien oppført i vedlegg I eller II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført i vedlegg I eller II, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien oppført på EUs felles liste over militært materiell eller i vedlegg I eller II, herunder særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller for ytelse av tilknyttet faglig bistand til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Ytelse av følgende krever tillatelse fra den berørte kompetente myndigheten:faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i vedlegg IIA, og knyttet til levering, produksjon, vedlikehold og bruk av disse produktene, direkte eller indirekte, til iranske personer, enheter eller organer eller til bruk i Iran,finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg IIA, herunder særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller i forbindelse med ytelse av tilknyttet faglig bistand, direkte eller indirekte, til iranske personer, enheter eller organer eller til bruk i Iran.
+2\. Ytelse av følgende krever tillatelse fra den berørte kompetente myndigheten:faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført i vedlegg IIA, og knyttet til levering, produksjon, vedlikehold og bruk av disse produktene, direkte eller indirekte, til iranske personer, enheter eller organer eller til bruk i Iran,finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg IIA, herunder særlig tilskudd, lån og eksportkredittforsikring i forbindelse med salg, levering, overføring eller eksport av slike produkter eller i forbindelse med ytelse av tilknyttet faglig bistand, direkte eller indirekte, til iranske personer, enheter eller organer eller til bruk i Iran.
 
-3. De kompetente myndighetene skal ikke gi tillatelse til transaksjonene nevnt i nr. 2 dersom de har rimelig grunn til å fastslå at handlingen er eller kan være beregnet på å bidra til en av følgende aktiviteter:Irans aktiviteter knyttet til anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
+3\. De kompetente myndighetene skal ikke gi tillatelse til transaksjonene nevnt i nr. 2 dersom de har rimelig grunn til å fastslå at handlingen er eller kan være beregnet på å bidra til en av følgende aktiviteter:Irans aktiviteter knyttet til anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
 
 ### Artikkel 6
 
@@ -414,19 +462,19 @@ Artikkel 2 nr. 1 og artikkel 5 nr. 1 gjelder ikkedirekte eller indirekte overfø
 
 ### Artikkel 7
 
-1. Med forbehold om artikkel 1 bokstav b i forordning [(EU) nr. 359/2011](eu/32011r0359) kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til en transaksjon nevnt i artikkel 2 nr. 1 eller til bistand eller formidlingstjenester nevnt i artikkel 5 nr. 1 i denne forordningen, forutsatt atvarene, teknologien, bistanden eller formidlingstjenestene er beregnet til matvarer, landbruk, medisinske eller andre humanitære formål, ogSanksjonskomiteen, såfremt transaksjonen gjelder varer eller teknologi oppført på listene fra Nuclear Suppliers Group og Missile Technology Control Regime, på forhånd og i hvert enkelt tilfelle har fastslått at transaksjonen klart ikke vil bidra til utvikling av teknologi som kan støtte Irans spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
+1\. Med forbehold om artikkel 1 bokstav b i forordning [(EU) nr. 359/2011](eu/32011r0359) kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til en transaksjon nevnt i artikkel 2 nr. 1 eller til bistand eller formidlingstjenester nevnt i artikkel 5 nr. 1 i denne forordningen, forutsatt atvarene, teknologien, bistanden eller formidlingstjenestene er beregnet til matvarer, landbruk, medisinske eller andre humanitære formål, ogSanksjonskomiteen, såfremt transaksjonen gjelder varer eller teknologi oppført på listene fra Nuclear Suppliers Group og Missile Technology Control Regime, på forhånd og i hvert enkelt tilfelle har fastslått at transaksjonen klart ikke vil bidra til utvikling av teknologi som kan støtte Irans spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkelen.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkelen.
 
 ### Artikkel 8
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere nøkkelutstyr eller -teknologi som er oppført i vedlegg VI og VIA til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere nøkkelutstyr eller -teknologi som er oppført i vedlegg VI og VIA til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg VI og VIA skal inneholde nøkkelutstyr og -teknologi til følgende nøkkelsektorer i Irans olje- og gassindustri:leting etter råolje og naturgass,utvinning av råolje og naturgass,raffinering,kondensering av naturgass.
+2\. Vedlegg VI og VIA skal inneholde nøkkelutstyr og -teknologi til følgende nøkkelsektorer i Irans olje- og gassindustri:leting etter råolje og naturgass,utvinning av råolje og naturgass,raffinering,kondensering av naturgass.
 
-3. Vedlegg VI og VIA skal også inneholde nøkkelutstyr og -teknologi til den petrokjemiske industrien i Iran.
+3\. Vedlegg VI og VIA skal også inneholde nøkkelutstyr og -teknologi til den petrokjemiske industrien i Iran.
 
-4. Vedlegg VI og VIA skal ikke inneholde varer som er oppført på EUs felles militære liste eller i vedlegg I, II eller IIA.
+4\. Vedlegg VI og VIA skal ikke inneholde varer som er oppført på EUs felles militære liste eller i vedlegg I, II eller IIA.
 
 ### Artikkel 9
 
@@ -434,15 +482,15 @@ Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstje
 
 ### Artikkel 10
 
-1. Forbudene i artikkel 8 og 9 gjelder ikkeoppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass, som oppført i vedlegg VI, som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, eller av en kontrakt eller avtale som er inngått før 30. september 2025, og som gjelder en investering i Iran som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav,oppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til petrokjemisk industri, som oppført i vedlegg VI, som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, eller av en kontrakt eller avtale som er inngått før 30. september 2025, og som gjelder en investering i Iran som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav,oppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass og til petrokjemisk industri, som oppført i vedlegg VIA, som er inngått før 30. september 2025, og som gjelder en investering i Iran i leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass som er foretatt før 30. september 2025, eller som gjelder en investering i Iran i petrokjemisk industri som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav, ellerytelse av faglig bistand som utelukkende er beregnet på installering av utstyr eller teknologi levert i henhold til bokstav a, b og c,forutsatt at den fysiske eller juridiske personen, enheten eller organet som ønsker å foreta slike transaksjoner eller yte bistand til slike transaksjoner, senest 20 virkedager i forkant, har underrettet den kompetente myndigheten i medlemsstaten der de er etablert om transaksjonen eller bistanden.
+1\. Forbudene i artikkel 8 og 9 gjelder ikkeoppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass, som oppført i vedlegg VI, som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, eller av en kontrakt eller avtale som er inngått før 30. september 2025, og som gjelder en investering i Iran som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav,oppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til petrokjemisk industri, som oppført i vedlegg VI, som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, eller av en kontrakt eller avtale som er inngått før 30. september 2025, og som gjelder en investering i Iran som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav,oppfyllelse innen 1. januar 2026 av transaksjoner som er nødvendige som følge av en handelskontrakt vedrørende nøkkelutstyr og -teknologi til leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass og til petrokjemisk industri, som oppført i vedlegg VIA, som er inngått før 30. september 2025, og som gjelder en investering i Iran i leting etter råolje og naturgass, utvinning av råolje og naturgass, raffinering eller kondensering av naturgass som er foretatt før 30. september 2025, eller som gjelder en investering i Iran i petrokjemisk industri som er foretatt før 30. september 2025, og de skal heller ikke være til hinder for senere oppfyllelse av en forpliktelse som følger derav, ellerytelse av faglig bistand som utelukkende er beregnet på installering av utstyr eller teknologi levert i henhold til bokstav a, b og c,forutsatt at den fysiske eller juridiske personen, enheten eller organet som ønsker å foreta slike transaksjoner eller yte bistand til slike transaksjoner, senest 20 virkedager i forkant, har underrettet den kompetente myndigheten i medlemsstaten der de er etablert om transaksjonen eller bistanden.
 
-2. Forbudene i artikkel 8 og 9 berører ikke oppfyllelse av forpliktelser som følger av kontrakter nevnt i artikkel 12 nr. 1 bokstav b og artikkel 14 nr. 1 bokstav b, forutsatt at slike forpliktelser oppstår i forbindelse med tjenesteytelseskontrakter eller tilknyttede kontrakter som er nødvendige for oppfyllelse av disse, og forutsatt at den berørte kompetente myndigheten på forhånd har gitt tillatelse til oppfyllelse av forpliktelsene, og at den berørte medlemsstaten har underrettet de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse.
+2\. Forbudene i artikkel 8 og 9 berører ikke oppfyllelse av forpliktelser som følger av kontrakter nevnt i artikkel 12 nr. 1 bokstav b og artikkel 14 nr. 1 bokstav b, forutsatt at slike forpliktelser oppstår i forbindelse med tjenesteytelseskontrakter eller tilknyttede kontrakter som er nødvendige for oppfyllelse av disse, og forutsatt at den berørte kompetente myndigheten på forhånd har gitt tillatelse til oppfyllelse av forpliktelsene, og at den berørte medlemsstaten har underrettet de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse.
 
 ### Artikkel 10a
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere nøkkelutstyr til skip eller teknologi som er oppført i vedlegg VIB, til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere nøkkelutstyr til skip eller teknologi som er oppført i vedlegg VIB, til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg VIB skal inneholde nøkkelutstyr til skip og nøkkelteknologi til bygging, vedlikehold eller reparasjon av skip, herunder utstyr og teknologi som brukes ved bygging av oljetankskip.
+2\. Vedlegg VIB skal inneholde nøkkelutstyr til skip og nøkkelteknologi til bygging, vedlikehold eller reparasjon av skip, herunder utstyr og teknologi som brukes ved bygging av oljetankskip.
 
 ### Artikkel 10b
 
@@ -450,15 +498,15 @@ Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstje
 
 ### Artikkel 10c
 
-1. Forbudene i artikkel 10a og 10b berører ikke levering av nøkkelutstyr og nøkkelteknologi til fartøyer som ikke eies eller kontrolleres av iranske personer, enheter eller organer, og som har blitt tvunget inn til iransk havn eller inn i iransk territorialfarvann på grunn av force majeure.
+1\. Forbudene i artikkel 10a og 10b berører ikke levering av nøkkelutstyr og nøkkelteknologi til fartøyer som ikke eies eller kontrolleres av iranske personer, enheter eller organer, og som har blitt tvunget inn til iransk havn eller inn i iransk territorialfarvann på grunn av force majeure.
 
-2. Forbudene i artikkel 10a og 10b gjelder ikke oppfyllelse innen 1. januar 2026 av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter.
+2\. Forbudene i artikkel 10a og 10b gjelder ikke oppfyllelse innen 1. januar 2026 av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter.
 
 ### Artikkel 10d
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere programvare som er oppført i vedlegg VIIA til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere programvare som er oppført i vedlegg VIIA til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg VIIA skal inneholde programvare for integrering av industrielle prosesser og som er relevant for industrier som direkte eller indirekte kontrolleres av Den islamske revolusjonsgarden, eller som er relevant for Irans nukleære, militære eller ballistiske missilprogram.
+2\. Vedlegg VIIA skal inneholde programvare for integrering av industrielle prosesser og som er relevant for industrier som direkte eller indirekte kontrolleres av Den islamske revolusjonsgarden, eller som er relevant for Irans nukleære, militære eller ballistiske missilprogram.
 
 ### Artikkel 10e
 
@@ -470,57 +518,57 @@ Forbudene i artikkel 10d og 10e gjelder ikke oppfyllelse innen 1. januar 2026 av
 
 ### Artikkel 11
 
-1. Det er forbudtå importere råolje eller petroleumsprodukter til EU dersom dehar opprinnelse i Iran, ellerer eksportert fra Iran,å kjøpe råolje eller petroleumsprodukter som befinner seg i eller har opprinnelse i Iran,å transportere råolje eller petroleumsprodukter som har opprinnelse i Iran eller som eksporteres fra Iran til et annet land, ogdirekte eller indirekte å yte finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring i forbindelse med import, kjøp eller transport av råolje og petroleumsprodukter som har opprinnelse i Iran eller som har blitt importert fra Iran.
+1\. Det er forbudtå importere råolje eller petroleumsprodukter til EU dersom dehar opprinnelse i Iran, ellerer eksportert fra Iran,å kjøpe råolje eller petroleumsprodukter som befinner seg i eller har opprinnelse i Iran,å transportere råolje eller petroleumsprodukter som har opprinnelse i Iran eller som eksporteres fra Iran til et annet land, ogdirekte eller indirekte å yte finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring i forbindelse med import, kjøp eller transport av råolje og petroleumsprodukter som har opprinnelse i Iran eller som har blitt importert fra Iran.
 
-2. Med råolje og petroleumsprodukter menes produktene oppført i vedlegg IV.
+2\. Med råolje og petroleumsprodukter menes produktene oppført i vedlegg IV.
 
 ### Artikkel 12
 
-1. Forbudene i artikkel 11 gjelder ikkeoppfyllelse innen 1. januar 2026 av handelskontrakter som er inngått før 30. september 2025 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter,oppfyllelsen av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, hvis det spesifikt fremgår av kontrakten at leveringen av iransk råolje og petroleumsprodukter eller inntektene fra leveringen derav skal brukes til å betale utestående beløp til personer, enheter eller organer under medlemsstatenes jurisdiksjon,råolje eller petroleumsprodukter som ble eksportert fra Iran før 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav a, senest 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav b,kjøp av bunkersolje fremstilt og levert av et annet tredjeland enn Iran beregnet på fremdrift av motorene i fartøyer,kjøp av bunkersolje til fremdrift av motorene i et fartøy som har blitt tvunget inn til iransk havn eller inn i iransk territorialfarvann på grunn av force majeure,forutsatt at personen, enheten eller organet som ønsker å oppfylle kontrakten nevnt i bokstav a, b og c, senest 20 virkedager i forkant, underretter den kompetente myndigheten i medlemsstaten der de er etablert om aktiviteten eller transaksjonen.
+1\. Forbudene i artikkel 11 gjelder ikkeoppfyllelse innen 1. januar 2026 av handelskontrakter som er inngått før 30. september 2025 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter,oppfyllelsen av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter, hvis det spesifikt fremgår av kontrakten at leveringen av iransk råolje og petroleumsprodukter eller inntektene fra leveringen derav skal brukes til å betale utestående beløp til personer, enheter eller organer under medlemsstatenes jurisdiksjon,råolje eller petroleumsprodukter som ble eksportert fra Iran før 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav a, senest 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav b,kjøp av bunkersolje fremstilt og levert av et annet tredjeland enn Iran beregnet på fremdrift av motorene i fartøyer,kjøp av bunkersolje til fremdrift av motorene i et fartøy som har blitt tvunget inn til iransk havn eller inn i iransk territorialfarvann på grunn av force majeure,forutsatt at personen, enheten eller organet som ønsker å oppfylle kontrakten nevnt i bokstav a, b og c, senest 20 virkedager i forkant, underretter den kompetente myndigheten i medlemsstaten der de er etablert om aktiviteten eller transaksjonen.
 
-2. Forbudet i artikkel 11 nr. 1 bokstav d gjelder ikke direkte eller indirekte levering innen 1. januar 2026 av ansvarsforsikring, miljøansvarsforsikring og gjenforsikring.
+2\. Forbudet i artikkel 11 nr. 1 bokstav d gjelder ikke direkte eller indirekte levering innen 1. januar 2026 av ansvarsforsikring, miljøansvarsforsikring og gjenforsikring.
 
 ### Artikkel 13
 
-1. Det er forbudtå importere petrokjemiske produkter til EU dersom dehar opprinnelse i Iran, ellerer eksportert fra Iran,å kjøpe petrokjemiske produkter som befinner seg i eller har opprinnelse i Iran,å transportere petrokjemiske produkter som har opprinnelse i Iran eller som eksporteres fra Iran til et annet land, ogdirekte eller indirekte å yte finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring vedrørende import, kjøp eller transport av petrokjemiske produkter som har opprinnelse i Iran eller som har blitt importert fra Iran.
+1\. Det er forbudtå importere petrokjemiske produkter til EU dersom dehar opprinnelse i Iran, ellerer eksportert fra Iran,å kjøpe petrokjemiske produkter som befinner seg i eller har opprinnelse i Iran,å transportere petrokjemiske produkter som har opprinnelse i Iran eller som eksporteres fra Iran til et annet land, ogdirekte eller indirekte å yte finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring vedrørende import, kjøp eller transport av petrokjemiske produkter som har opprinnelse i Iran eller som har blitt importert fra Iran.
 
-2. Med «petrokjemiske produkter» i denne artikkelen menes produktene oppført i vedlegg V.
+2\. Med «petrokjemiske produkter» i denne artikkelen menes produktene oppført i vedlegg V.
 
 ### Artikkel 14
 
-1. Forbudene i artikkel 13 gjelder ikkeoppfyllelse innen 1. januar 2026 av handelskontrakter som er inngått før 30. september 2025 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter,oppfyllelse av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter, herunder transport- eller forsikringskontrakter, som er nødvendige for oppfyllelsen av slike kontrakter, hvis det spesifikt fremgår av kontrakten at leveringen av iranske petrokjemiske produkter eller inntektene fra leveringen derav skal brukes til å betale utestående beløp til personer, enheter eller organer under medlemsstatenes jurisdiksjon,petrokjemiske produkter som ble eksportert fra Iran før 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav a, senest 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav b,forutsatt at personen, enheten eller organet som ønsker å oppfylle kontrakten, senest 20 virkedager i forkant, underretter den kompetente myndigheten i medlemsstaten vedkommende er etablert om aktiviteten eller transaksjonen.
+1\. Forbudene i artikkel 13 gjelder ikkeoppfyllelse innen 1. januar 2026 av handelskontrakter som er inngått før 30. september 2025 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter,oppfyllelse av kontrakter som er inngått før 30. september 2025, eller tilknyttede kontrakter, herunder transport- eller forsikringskontrakter, som er nødvendige for oppfyllelsen av slike kontrakter, hvis det spesifikt fremgår av kontrakten at leveringen av iranske petrokjemiske produkter eller inntektene fra leveringen derav skal brukes til å betale utestående beløp til personer, enheter eller organer under medlemsstatenes jurisdiksjon,petrokjemiske produkter som ble eksportert fra Iran før 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav a, senest 30. september 2025, eller dersom eksporten fant sted i henhold til bokstav b,forutsatt at personen, enheten eller organet som ønsker å oppfylle kontrakten, senest 20 virkedager i forkant, underretter den kompetente myndigheten i medlemsstaten vedkommende er etablert om aktiviteten eller transaksjonen.
 
-2. Forbudet i artikkel 13 nr. 1 bokstav d gjelder ikke direkte eller indirekte levering innen 1. januar 2026 av ansvarsforsikring, miljøansvarsforsikring og gjenforsikring.
+2\. Forbudet i artikkel 13 nr. 1 bokstav d gjelder ikke direkte eller indirekte levering innen 1. januar 2026 av ansvarsforsikring, miljøansvarsforsikring og gjenforsikring.
 
 ### Artikkel 14a
 
-1. Det er forbudtå kjøpe, transportere eller importere til EU naturgass som har opprinnelse i Iran eller er eksportert fra Iranå utveksle naturgass som har opprinnelse i Iran eller er eksportert fra Irandirekte eller indirekte å yte faglig bistand formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring og formidlingstjenester vedrørende forsikring og gjenforsikring, som gjelder aktivitetene i bokstav a og b.
+1\. Det er forbudtå kjøpe, transportere eller importere til EU naturgass som har opprinnelse i Iran eller er eksportert fra Iranå utveksle naturgass som har opprinnelse i Iran eller er eksportert fra Irandirekte eller indirekte å yte faglig bistand formidlingstjenester, finansiering eller finansiell bistand, herunder finansielle derivater, samt forsikring og gjenforsikring og formidlingstjenester vedrørende forsikring og gjenforsikring, som gjelder aktivitetene i bokstav a og b.
 
-2. Forbudene i nr. 1 gjelder ikkenaturgass som er eksportert fra en annen stat enn Iran når den eksporterte gassen er kombinert med gass som har opprinnelse i Iran innenfor infrastrukturen i en annen stat enn Iran,kjøp av naturgass i Iran for sivilt bruk av statsborgere i medlemsstatene herunder til boligoppvarming eller strømforsyning til boliger, eller for vedlikehold av diplomatiske stasjoner, elleroppfyllelse av kontrakter for levering av naturgass til EU som har opprinnelse i en annen stat enn Iran.
+2\. Forbudene i nr. 1 gjelder ikkenaturgass som er eksportert fra en annen stat enn Iran når den eksporterte gassen er kombinert med gass som har opprinnelse i Iran innenfor infrastrukturen i en annen stat enn Iran,kjøp av naturgass i Iran for sivilt bruk av statsborgere i medlemsstatene herunder til boligoppvarming eller strømforsyning til boliger, eller for vedlikehold av diplomatiske stasjoner, elleroppfyllelse av kontrakter for levering av naturgass til EU som har opprinnelse i en annen stat enn Iran.
 
-3. Med «naturgass» i denne artikkelen menes produktene oppført i vedlegg IVA.
+3\. Med «naturgass» i denne artikkelen menes produktene oppført i vedlegg IVA.
 
-4. Med «å utveksle» i nr. 1 menes utveksling av naturgasstrømmer med forskjellig opprinnelse.
+4\. Med «å utveksle» i nr. 1 menes utveksling av naturgasstrømmer med forskjellig opprinnelse.
 
 ### Artikkel 15
 
-1. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere gull, edle metaller og diamanter, som oppført i vedlegg VII, uansett om de har opprinnelse i EU eller ikke, til Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,direkte eller indirekte å kjøpe, importere eller transportere gull, edle metaller og diamanter, som oppført i vedlegg VII, uansett om produktet har opprinnelse i Iran eller ikke, fra Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem, ogdirekte eller indirekte å yte faglig bistand og formidlingstjenester, finansiering eller finansiell bistand knyttet til varene nevnt i bokstav a og b til Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem.
+1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere gull, edle metaller og diamanter, som oppført i vedlegg VII, uansett om de har opprinnelse i EU eller ikke, til Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem,direkte eller indirekte å kjøpe, importere eller transportere gull, edle metaller og diamanter, som oppført i vedlegg VII, uansett om produktet har opprinnelse i Iran eller ikke, fra Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem, ogdirekte eller indirekte å yte faglig bistand og formidlingstjenester, finansiering eller finansiell bistand knyttet til varene nevnt i bokstav a og b til Irans regjering, offentlige organer, selskaper og byråer, personer, enheter eller organer som handler på deres vegne eller etter deres instruks, eller enheter eller organer som eies eller kontrolleres av dem.
 
-2. Vedlegg VII skal inneholde gull, edle metaller og diamanter som omfattes av forbudene nevnt i nr. 1.
+2\. Vedlegg VII skal inneholde gull, edle metaller og diamanter som omfattes av forbudene nevnt i nr. 1.
 
 ### Artikkel 15a
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere grafitt, råmetall eller halvfabrikata av metall som oppført i vedlegg VIIB til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere grafitt, råmetall eller halvfabrikata av metall som oppført i vedlegg VIIB til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Vedlegg VIIB skal inneholde grafitt, råmetall eller halvfabrikata av metall, inkludert aluminium og stål, og som er relevant for industrier som direkte eller indirekte kontrolleres av Den islamske revolusjonsgarden, eller som er relevant for Irans nukleære, militære eller ballistiske missilprogram.
+2\. Vedlegg VIIB skal inneholde grafitt, råmetall eller halvfabrikata av metall, inkludert aluminium og stål, og som er relevant for industrier som direkte eller indirekte kontrolleres av Den islamske revolusjonsgarden, eller som er relevant for Irans nukleære, militære eller ballistiske missilprogram.
 
-3. Forbudet i nr. 1 gjelder ikke varene oppført i vedlegg I, II og IIA.
+3\. Forbudet i nr. 1 gjelder ikke varene oppført i vedlegg I, II og IIA.
 
 ### Artikkel 15b
 
-1. Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester i tilknytning til varene som er oppført i vedlegg VIIB, eller i tilknytning til levering, fremstilling, vedlikehold og bruk av varer som er oppført i vedlegg VIIB, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand i tilknytning til varene som er oppført i vedlegg VIIB til iranske personer, enheter eller organer eller til bruk i Iran.
+1\. Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester i tilknytning til varene som er oppført i vedlegg VIIB, eller i tilknytning til levering, fremstilling, vedlikehold og bruk av varer som er oppført i vedlegg VIIB, til iranske personer, enheter eller organer eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand i tilknytning til varene som er oppført i vedlegg VIIB til iranske personer, enheter eller organer eller til bruk i Iran.
 
-2. Forbudene i nr. 1 gjelder ikke varene oppført i vedlegg I, II og IIA.
+2\. Forbudene i nr. 1 gjelder ikke varene oppført i vedlegg I, II og IIA.
 
 ### Artikkel 15c
 
@@ -535,27 +583,27 @@ Restriksjoner på finansiering av visse virksomheter
 
 ### Artikkel 17
 
-1. Det er forbudtå yte lån eller kreditt til iranske personer, enheter eller organer nevnt i nr. 2,å erverve eller utvide en andel i iranske personer, enheter eller organer nevnt i nr. 2,å opprette fellesforetak med iranske personer, enheter eller organer nevnt i nr. 2.
+1\. Det er forbudtå yte lån eller kreditt til iranske personer, enheter eller organer nevnt i nr. 2,å erverve eller utvide en andel i iranske personer, enheter eller organer nevnt i nr. 2,å opprette fellesforetak med iranske personer, enheter eller organer nevnt i nr. 2.
 
-2. Forbudet i nr. 1 gjelder iranske personer, enheter eller organer som er involvert ifremstilling av varer eller teknologi som er oppført på EUs felles liste over militært materiell eller i vedlegg I eller II,leting etter eller utvinning av råolje og naturgass, raffinering av brensel eller kondensering av naturgass, ellerpetrokjemisk industri.
+2\. Forbudet i nr. 1 gjelder iranske personer, enheter eller organer som er involvert ifremstilling av varer eller teknologi som er oppført på EUs felles liste over militært materiell eller i vedlegg I eller II,leting etter eller utvinning av råolje og naturgass, raffinering av brensel eller kondensering av naturgass, ellerpetrokjemisk industri.
 
-3. Ved anvendelsen av nr. 2 bokstav b og c gjelder følgende definisjoner:«leting etter råolje og naturgass» omfatter leting og prospektering etter og forvaltning av råolje- og naturgassreserver samt yting av geologiske tjenester i forbindelse med slike reserver,«utvinning av råolje og naturgass» omfatter overføringstjenester for gass i bulk for transitt eller levering til direkte sammenkoblede nett,«raffinering» skal forstås som behandling, kondisjonering og forberedelser til, i siste instans, endelig salg av brensel,«petrokjemisk industri» skal forstås som produksjonsanlegg for fremstilling av produkter i vedlegg V.
+3\. Ved anvendelsen av nr. 2 bokstav b og c gjelder følgende definisjoner:«leting etter råolje og naturgass» omfatter leting og prospektering etter og forvaltning av råolje- og naturgassreserver samt yting av geologiske tjenester i forbindelse med slike reserver,«utvinning av råolje og naturgass» omfatter overføringstjenester for gass i bulk for transitt eller levering til direkte sammenkoblede nett,«raffinering» skal forstås som behandling, kondisjonering og forberedelser til, i siste instans, endelig salg av brensel,«petrokjemisk industri» skal forstås som produksjonsanlegg for fremstilling av produkter i vedlegg V.
 
-4. Det er forbudt å etablere samarbeid med iranske personer, enheter eller organer som er involvert i overføring av naturgass som nevnt i nr. 3 bokstav b.
+4\. Det er forbudt å etablere samarbeid med iranske personer, enheter eller organer som er involvert i overføring av naturgass som nevnt i nr. 3 bokstav b.
 
-5. Med «samarbeid» i nr. 4 menesdeling av investeringskostnader i en integrert eller styrt forsyningskjede for mottak eller levering av naturgass direkte fra eller til Irans territorium, ogdirekte samarbeid med henblikk på investering i anlegg for flytende naturgass på Irans territorium eller i anlegg for flytende naturgass som er direkte koplet til disse.
+5\. Med «samarbeid» i nr. 4 menesdeling av investeringskostnader i en integrert eller styrt forsyningskjede for mottak eller levering av naturgass direkte fra eller til Irans territorium, ogdirekte samarbeid med henblikk på investering i anlegg for flytende naturgass på Irans territorium eller i anlegg for flytende naturgass som er direkte koplet til disse.
 
 ### Artikkel 18
 
-1. Investeringer gjennom transaksjoner nevnt i artikkel 17 nr. 1 i iranske personer, enheter eller organer som er involvert i fremstilling av varer eller teknologi oppført i vedlegg IIA, krever tillatelse fra den berørte kompetente myndigheten.
+1\. Investeringer gjennom transaksjoner nevnt i artikkel 17 nr. 1 i iranske personer, enheter eller organer som er involvert i fremstilling av varer eller teknologi oppført i vedlegg IIA, krever tillatelse fra den berørte kompetente myndigheten.
 
-2. Den kompetente myndigheten skal ikke gi tillatelse til transaksjoner nevnt i nr. 1 dersom de har rimelig grunn til å fastslå at handlingen vil bidra til en av følgende aktiviteter:Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
+2\. Den kompetente myndigheten skal ikke gi tillatelse til transaksjoner nevnt i nr. 1 dersom de har rimelig grunn til å fastslå at handlingen vil bidra til en av følgende aktiviteter:Irans aktiviteter i forbindelse med anrikning, opparbeiding eller fremstilling av tungtvann,Irans utvikling av leveringssystemer for kjernevåpen, elleraktiviteter i Iran på andre områder som Det internasjonale atomenergibyrået (IAEA) har uttrykt bekymring over eller har betegnet som utestående spørsmål.
 
 ### Artikkel 19
 
-1. Som unntak fra artikkel 17 nr. 2 bokstav a kan de kompetente myndighetene gi tillatelse, på de vilkår de mener er hensiktsmessige, til en investering gjennom transaksjoner nevnt i artikkel 17 nr. 1, dersom følgende vilkår er oppfylt:investeringen er beregnet til matvarer, landbruk, medisinske eller andre humanitære formål, ogSanksjonskomiteen, såfremt investeringen er i iranske personer, enheter eller organer involvert i fremstilling av varer eller teknologi oppført på listene fra Nuclear Suppliers Group og Missile Technology Control Regime, på forhånd og i hvert enkelt tilfelle har fastslått at transaksjonen klart ikke vil bidra til utvikling av teknologi som kan støtte Irans spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
+1\. Som unntak fra artikkel 17 nr. 2 bokstav a kan de kompetente myndighetene gi tillatelse, på de vilkår de mener er hensiktsmessige, til en investering gjennom transaksjoner nevnt i artikkel 17 nr. 1, dersom følgende vilkår er oppfylt:investeringen er beregnet til matvarer, landbruk, medisinske eller andre humanitære formål, ogSanksjonskomiteen, såfremt investeringen er i iranske personer, enheter eller organer involvert i fremstilling av varer eller teknologi oppført på listene fra Nuclear Suppliers Group og Missile Technology Control Regime, på forhånd og i hvert enkelt tilfelle har fastslått at transaksjonen klart ikke vil bidra til utvikling av teknologi som kan støtte Irans spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkelen.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkelen.
 
 ### Artikkel 20
 
@@ -574,19 +622,19 @@ Frysing av penger og formuesgoder
 
 ### Artikkel 23
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personer, enheter og organer som oppført i vedlegg VIII, skal fryses. Vedlegg VIII inneholder personene, enhetene og organene som er listeført av FNs sikkerhetsråd eller Sanksjonskomiteen i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 1737 (2006), punkt 7 i FNs sikkerhetsrådsresolusjon 1803 (2008) eller punkt 11, 12 eller 19 i FNs sikkerhetsrådsresolusjon 1929 (2010).
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personer, enheter og organer som oppført i vedlegg VIII, skal fryses. Vedlegg VIII inneholder personene, enhetene og organene som er listeført av FNs sikkerhetsråd eller Sanksjonskomiteen i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 1737 (2006), punkt 7 i FNs sikkerhetsrådsresolusjon 1803 (2008) eller punkt 11, 12 eller 19 i FNs sikkerhetsrådsresolusjon 1929 (2010).
 
-2. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personer, enheter og organer som oppført i vedlegg IX, skal fryses. Vedlegg IX inneholder en liste over fysiske og juridiske personer, enheter og organer som, i henhold til artikkel 20 nr. 1 bokstav b og c i rådsbeslutning [2010/413/CFSP](eu/32010d0413), anses som:å være involvert i, direkte forbundet med eller støtte Irans spredningsfølsomme nukleære aktiviteter eller Irans utvikling av leveringssystemer for kjernevåpen, herunder ved å være involvert i kjøp av forbudte varer og forbudt teknologi, eller å være eiet eller kontrollert av en slik person, enhet eller organ, herunder ved ulovlige midler, eller som handler på deres vegne eller etter deres instruks,å være en fysisk eller juridisk person, enhet eller organ som har unndratt seg eller overtrådt, eller som har bistått en listeført person, enhet eller organ med å unndra seg eller overtre, bestemmelsene i denne forordningen, rådsbeslutning [2010/413/CFSP](eu/32010d0413) eller FNs sikkerhetsrådsresolusjon 1737 (2006), FNs sikkerhetsrådsresolusjon 1747 (2007), FNs sikkerhetsrådsresolusjon 1803 (2008) og FNs sikkerhetsrådsresolusjon 1929 (2020),å være medlem av Den islamske revolusjonsgarden (IRGC) eller en juridisk person, en enhet eller et organ som eies eller kontrolleres av IRGC eller av et eller flere av dens medlemmer, eller fysiske eller juridiske personer, enheter eller organer som handler på deres vegne, eller fysiske eller juridiske personer, enheter eller organer som leverer forsikringstjenester eller andre vesentlige tjenester til dem eller til enheter som eies eller kontrolleres av dem eller handler på deres vegne,å være andre personer, enheter eller organer som gir støtte, for eksempel materiell, logistisk eller økonomisk støtte, til Irans regjering og enheter som eies eller kontrolleres av dem eller av personer og enheter med tilknytning til dem,å være en juridisk person, en enhet eller et organ som eies eller kontrolleres av Islamic Republic of Iran Shipping Lines (IRISL), eller en fysisk eller juridisk person, en enhet eller et organ som handler på deres vegne eller leverer forsikringstjenester eller andre vesentlige tjenester til dem eller til enheter som eies eller kontrolleres av dem eller handler på deres vegne.I samsvar med plikten til å fryse pengene og formuesgodene til IRISL og listeførte enheter som eies eller kontrolleres av IRISL, er det forbudt å laste og losse gods på og fra fartøyer som eies eller chartres av IRISL eller av slike enheter i medlemsstatenes havner.Plikten til å fryse pengene og formuesgodene til IRISL og listeførte enheter som eies eller kontrolleres av IRISL, innebærer ikke krav om beslaglegging eller tilbakeholdelse av fartøyer som eies av slike enheter, eller last, dersom lasten tilhører en tredjepart, og det kreves heller ikke tilbakeholdelse av besetningsmedlemmer som er ansatt av dem.
+2\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personer, enheter og organer som oppført i vedlegg IX, skal fryses. Vedlegg IX inneholder en liste over fysiske og juridiske personer, enheter og organer som, i henhold til artikkel 20 nr. 1 bokstav b og c i rådsbeslutning [2010/413/CFSP](eu/32010d0413), anses som:å være involvert i, direkte forbundet med eller støtte Irans spredningsfølsomme nukleære aktiviteter eller Irans utvikling av leveringssystemer for kjernevåpen, herunder ved å være involvert i kjøp av forbudte varer og forbudt teknologi, eller å være eiet eller kontrollert av en slik person, enhet eller organ, herunder ved ulovlige midler, eller som handler på deres vegne eller etter deres instruks,å være en fysisk eller juridisk person, enhet eller organ som har unndratt seg eller overtrådt, eller som har bistått en listeført person, enhet eller organ med å unndra seg eller overtre, bestemmelsene i denne forordningen, rådsbeslutning [2010/413/CFSP](eu/32010d0413) eller FNs sikkerhetsrådsresolusjon 1737 (2006), FNs sikkerhetsrådsresolusjon 1747 (2007), FNs sikkerhetsrådsresolusjon 1803 (2008) og FNs sikkerhetsrådsresolusjon 1929 (2020),å være medlem av Den islamske revolusjonsgarden (IRGC) eller en juridisk person, en enhet eller et organ som eies eller kontrolleres av IRGC eller av et eller flere av dens medlemmer, eller fysiske eller juridiske personer, enheter eller organer som handler på deres vegne, eller fysiske eller juridiske personer, enheter eller organer som leverer forsikringstjenester eller andre vesentlige tjenester til dem eller til enheter som eies eller kontrolleres av dem eller handler på deres vegne,å være andre personer, enheter eller organer som gir støtte, for eksempel materiell, logistisk eller økonomisk støtte, til Irans regjering og enheter som eies eller kontrolleres av dem eller av personer og enheter med tilknytning til dem,å være en juridisk person, en enhet eller et organ som eies eller kontrolleres av Islamic Republic of Iran Shipping Lines (IRISL), eller en fysisk eller juridisk person, en enhet eller et organ som handler på deres vegne eller leverer forsikringstjenester eller andre vesentlige tjenester til dem eller til enheter som eies eller kontrolleres av dem eller handler på deres vegne.I samsvar med plikten til å fryse pengene og formuesgodene til IRISL og listeførte enheter som eies eller kontrolleres av IRISL, er det forbudt å laste og losse gods på og fra fartøyer som eies eller chartres av IRISL eller av slike enheter i medlemsstatenes havner.Plikten til å fryse pengene og formuesgodene til IRISL og listeførte enheter som eies eller kontrolleres av IRISL, innebærer ikke krav om beslaglegging eller tilbakeholdelse av fartøyer som eies av slike enheter, eller last, dersom lasten tilhører en tredjepart, og det kreves heller ikke tilbakeholdelse av besetningsmedlemmer som er ansatt av dem.
 
-3. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg VIII og IX.
+3\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg VIII og IX.
 
-4. Med forbehold om unntakene i artikkel 24, 25, 26, 27, 28, 28a eller 29, er det forbudt å yte spesialiserte finansielle meldingstjenester som brukes til å utveksle finansielle data med fysiske eller juridiske personer, enheter eller organer oppført i vedlegg VIII og IX.
+4\. Med forbehold om unntakene i artikkel 24, 25, 26, 27, 28, 28a eller 29, er det forbudt å yte spesialiserte finansielle meldingstjenester som brukes til å utveksle finansielle data med fysiske eller juridiske personer, enheter eller organer oppført i vedlegg VIII og IX.
 
-5. Vedlegg VIII og IX skal inneholde begrunnelsen for at personene, enhetene og organene er listeført, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen.
+5\. Vedlegg VIII og IX skal inneholde begrunnelsen for at personene, enhetene og organene er listeført, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen.
 
-6. Vedlegg VIII og IX skal også inneholde tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene og organene, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted. For flyselskaper og shippingselskaper skal også vedlegg VIII og IX om mulig omfatte opplysninger nødvendig for å kontrollere identiteten til hvert fartøy eller luftfartøy som tilhører et listeført selskap, for eksempel det opprinnelige registreringsnummeret eller navnet. Vedlegg VIII og IX skal også inneholde datoen for listeføringen.
+6\. Vedlegg VIII og IX skal også inneholde tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene og organene, som angitt av FNs sikkerhetsråd eller Sanksjonskomiteen. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted. For flyselskaper og shippingselskaper skal også vedlegg VIII og IX om mulig omfatte opplysninger nødvendig for å kontrollere identiteten til hvert fartøy eller luftfartøy som tilhører et listeført selskap, for eksempel det opprinnelige registreringsnummeret eller navnet. Vedlegg VIII og IX skal også inneholde datoen for listeføringen.
 
-7. Nr. 1, 2 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av:FN, herunder FNs programmer, fond og andre enheter og organer samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg VIII og av Rådet når det gjelder vedlegg IX.
+7\. Nr. 1, 2 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres av:FN, herunder FNs programmer, fond og andre enheter og organer samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-d mens og i det omfanget de handler i en slik egenskap, ellerandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg VIII og av Rådet når det gjelder vedlegg IX.
 
 ### Artikkel 24
 
@@ -598,9 +646,9 @@ Som unntak fra artikkel 23 kan de kompetente myndighetene gi tillatelse til å f
 
 ### Artikkel 26
 
-1. Som unntak fra artikkel 23 kan de kompetente myndighetene gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller til å stille visse frosne penger eller formuesgoder til rådighet, på de vilkår de mener er hensiktsmessige, dersom følgende vilkår er oppfylt:den kompetente myndigheten har fastslått at pengene eller formuesgodene:er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg VIII eller IX og familiemedlemmene disse forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerutelukkende skal gå til betaling av avgifter i forbindelse med utflagging av fartøyer, ogden berørte medlemsstaten, dersom tillatelsen gjelder en person, en enhet eller et organ oppført i vedlegg VIII, har underrettet Sanksjonskomiteen om at den har fastslått at vilkårene i bokstav a er oppfylt og at den har til hensikt å gi tillatelse og Sanksjonskomiteen ikke har fremmet innsigelser innen fem virkedager etter underretningen.
+1\. Som unntak fra artikkel 23 kan de kompetente myndighetene gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller til å stille visse frosne penger eller formuesgoder til rådighet, på de vilkår de mener er hensiktsmessige, dersom følgende vilkår er oppfylt:den kompetente myndigheten har fastslått at pengene eller formuesgodene:er nødvendige for å dekke grunnleggende behov hos personer oppført i vedlegg VIII eller IX og familiemedlemmene disse forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyrer for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ellerutelukkende skal gå til betaling av avgifter i forbindelse med utflagging av fartøyer, ogden berørte medlemsstaten, dersom tillatelsen gjelder en person, en enhet eller et organ oppført i vedlegg VIII, har underrettet Sanksjonskomiteen om at den har fastslått at vilkårene i bokstav a er oppfylt og at den har til hensikt å gi tillatelse og Sanksjonskomiteen ikke har fremmet innsigelser innen fem virkedager etter underretningen.
 
-2. Som unntak fra artikkel 23 kan de kompetente myndighetene gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller til at visse penger eller formuesgoder stilles til rådighet, på de vilkår de mener er hensiktsmessige, etter å ha fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter eller til betaling for eller overføring av varer, dersom disse ble anskaffet for en lettvannsreaktor i Iran som var påbegynt oppført før 30. september 2025, eller for varer til formålene omhandlet i artikkel 6 bokstav b og c, forutsatt at den berørte medlemsstaten, dersom tillatelsen gjelder en person, en enhet eller et organ oppført i vedlegg VIII, har underrettet Sanksjonskomiteen om at den har fastslått dette og Sanksjonskomiteen har gitt sin godkjennelse.
+2\. Som unntak fra artikkel 23 kan de kompetente myndighetene gi tillatelse til å frigi visse frosne penger eller formuesgoder, eller til at visse penger eller formuesgoder stilles til rådighet, på de vilkår de mener er hensiktsmessige, etter å ha fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter eller til betaling for eller overføring av varer, dersom disse ble anskaffet for en lettvannsreaktor i Iran som var påbegynt oppført før 30. september 2025, eller for varer til formålene omhandlet i artikkel 6 bokstav b og c, forutsatt at den berørte medlemsstaten, dersom tillatelsen gjelder en person, en enhet eller et organ oppført i vedlegg VIII, har underrettet Sanksjonskomiteen om at den har fastslått dette og Sanksjonskomiteen har gitt sin godkjennelse.
 
 ### Artikkel 27
 
@@ -616,60 +664,60 @@ Forbudene i artikkel 23 nr. 2 og 3 gjelder ikke handlinger og transaksjoner som 
 
 ### Artikkel 29
 
-1. Artikkel 23 nr. 3 er ikke til hinder for at finans- eller kredittinstitusjoner som mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, kan godskrive frosne konti, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
+1\. Artikkel 23 nr. 3 er ikke til hinder for at finans- eller kredittinstitusjoner som mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, kan godskrive frosne konti, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
 
-2. Artikkel 23 nr. 3 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i artikkel 23 ble listeført av Sanksjonskomiteen, Sikkerhetsrådet eller Rådet,forutsatt at slike renter eller andre avkastninger og betalinger fryses i samsvar med artikkel 23 nr. 1 eller 2.
+2\. Artikkel 23 nr. 3 gjelder ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i artikkel 23 ble listeført av Sanksjonskomiteen, Sikkerhetsrådet eller Rådet,forutsatt at slike renter eller andre avkastninger og betalinger fryses i samsvar med artikkel 23 nr. 1 eller 2.
 
-3. Denne artikkelen skal ikke forstås som en tillatelse til å overføre penger nevnt i artikkel 30.
+3\. Denne artikkelen skal ikke forstås som en tillatelse til å overføre penger nevnt i artikkel 30.
 
 ### Kapittel V
 Restriksjoner på pengeoverføringer og finansielle tjenester
 
 ### Artikkel 30
 
-1. Det er forbudt å overføre penger mellom, på den ene siden, finans- og kredittinstitusjoner som er omfattet av virkeområdet for denne forordningen som fastsatt i artikkel 49, og, på den andre sidenkreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran,filialer og datterselskaper, som er omfattet av denne forordningen, av kreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran,filialer og datterselskaper som ikke er omfattet av denne forordningen, av kreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran, ogkreditt- og finansinstitusjoner og vekslingskontorer som ikke er hjemmehørende i Iran, men som kontrolleres av personer, enheter eller organer hjemmehørende i Iran,med mindre slike overføringer faller inn under virkeområdet i nr. 2 og er behandlet i samsvar med nr. 3.
+1\. Det er forbudt å overføre penger mellom, på den ene siden, finans- og kredittinstitusjoner som er omfattet av virkeområdet for denne forordningen som fastsatt i artikkel 49, og, på den andre sidenkreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran,filialer og datterselskaper, som er omfattet av denne forordningen, av kreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran,filialer og datterselskaper som ikke er omfattet av denne forordningen, av kreditt- og finansinstitusjoner og vekslingskontorer hjemmehørende i Iran, ogkreditt- og finansinstitusjoner og vekslingskontorer som ikke er hjemmehørende i Iran, men som kontrolleres av personer, enheter eller organer hjemmehørende i Iran,med mindre slike overføringer faller inn under virkeområdet i nr. 2 og er behandlet i samsvar med nr. 3.
 
-2. Følgende overføringer kan gis tillatelse i samsvar med nr. 3:overføringer som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller beregnet til landbruksformål eller humanitære formål,overføringer som gjelder private pengeforsendelser,overføringer i forbindelse med en spesifikk handelskontrakt forutsatt at overføringen ikke er forbudt i henhold til denne forordningen,overføringer som gjelder utenriksstasjoner eller konsulære representasjoner eller internasjonale organisasjoner som har immunitet i henhold til folkeretten, dersom overføringene er forutsatt benyttet til offisielle formål av de diplomatiske eller konsulære representasjonene eller organisasjonene som har immunitet i henhold til folkeretten,overføringer som gjelder betaling for krav fra eller mot iranske personer, enheter eller organer, eller lignende overføringer forutsatt at de ikke bidrar til aktiviteter som er forbudt i henhold til denne forordningen, noe som skal vurderes i hvert enkelt tilfelle, dersom den aktuelle medlemsstaten minst ti dager før tillatelsen gis, har underrettet de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse,overføringer som er nødvendige for gjennomføring av forpliktelsene som følger av kontrakter nevnt i artikkel 12 nr. 1 bokstav b.
+2\. Følgende overføringer kan gis tillatelse i samsvar med nr. 3:overføringer som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller beregnet til landbruksformål eller humanitære formål,overføringer som gjelder private pengeforsendelser,overføringer i forbindelse med en spesifikk handelskontrakt forutsatt at overføringen ikke er forbudt i henhold til denne forordningen,overføringer som gjelder utenriksstasjoner eller konsulære representasjoner eller internasjonale organisasjoner som har immunitet i henhold til folkeretten, dersom overføringene er forutsatt benyttet til offisielle formål av de diplomatiske eller konsulære representasjonene eller organisasjonene som har immunitet i henhold til folkeretten,overføringer som gjelder betaling for krav fra eller mot iranske personer, enheter eller organer, eller lignende overføringer forutsatt at de ikke bidrar til aktiviteter som er forbudt i henhold til denne forordningen, noe som skal vurderes i hvert enkelt tilfelle, dersom den aktuelle medlemsstaten minst ti dager før tillatelsen gis, har underrettet de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse,overføringer som er nødvendige for gjennomføring av forpliktelsene som følger av kontrakter nevnt i artikkel 12 nr. 1 bokstav b.
 
-3. Overføringer som kan gis tillatelse i henhold til nr. 2, skal behandles som følger:Overføringer under 100 000 euro eller et tilsvarende beløp som følge av transaksjoner som vedrører matvarer, helsetjenester eller medisinsk utstyr, eller til landbruksformål eller humanitære formål, samt private pengeforsendelser under 40 000 euro eller et tilsvarende beløp, gjennomføres uten forhåndstillatelse.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Overføringer på minst 100 000 euro eller et tilsvarende beløp som følge av transaksjoner som vedrører matvarer, helsetjenester eller medisinsk utstyr, eller til landbruksformål eller humanitære formål, samt private pengeforsendelser på minst 40 000 euro eller et tilsvarende beløp, krever i henhold til nr. 2 forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som er gitt med tre måneders mellomrom.Andre overføringer på minst 10 000 euro eller et tilsvarende beløp krever i henhold til nr. 2 forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som er gitt med tre måneders mellomrom.
+3\. Overføringer som kan gis tillatelse i henhold til nr. 2, skal behandles som følger:Overføringer under 100 000 euro eller et tilsvarende beløp som følge av transaksjoner som vedrører matvarer, helsetjenester eller medisinsk utstyr, eller til landbruksformål eller humanitære formål, samt private pengeforsendelser under 40 000 euro eller et tilsvarende beløp, gjennomføres uten forhåndstillatelse.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Overføringer på minst 100 000 euro eller et tilsvarende beløp som følge av transaksjoner som vedrører matvarer, helsetjenester eller medisinsk utstyr, eller til landbruksformål eller humanitære formål, samt private pengeforsendelser på minst 40 000 euro eller et tilsvarende beløp, krever i henhold til nr. 2 forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som er gitt med tre måneders mellomrom.Andre overføringer på minst 10 000 euro eller et tilsvarende beløp krever i henhold til nr. 2 forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som er gitt med tre måneders mellomrom.
 
-4. Overføringer på under 10 000 euro eller et tilsvarende beløp krever ikke forhåndstillatelse eller underretning.
+4\. Overføringer på under 10 000 euro eller et tilsvarende beløp krever ikke forhåndstillatelse eller underretning.
 
-5. Underretninger og søknader om tillatelse som gjelder pengeoverføringer til enheter som omfattes av nr. 1 bokstav a til d, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert.Underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra enheter som omfattes av nr. 1 bokstav a til d, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert.Dersom betalerens eller betalingsmottakerens betalingstjenesteyter ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse til pengeoverføringer inngis av betaleren dersom det gjelder en overføring til en enhet som omfattes av nr. 1 bokstav a til d, og av betalingsmottakeren dersom det gjelder en overføring fra en enhet som omfattes av nr. 1 bokstav a til d, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller betalingsmottakeren er hjemmehørende.
+5\. Underretninger og søknader om tillatelse som gjelder pengeoverføringer til enheter som omfattes av nr. 1 bokstav a til d, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert.Underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra enheter som omfattes av nr. 1 bokstav a til d, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert.Dersom betalerens eller betalingsmottakerens betalingstjenesteyter ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse til pengeoverføringer inngis av betaleren dersom det gjelder en overføring til en enhet som omfattes av nr. 1 bokstav a til d, og av betalingsmottakeren dersom det gjelder en overføring fra en enhet som omfattes av nr. 1 bokstav a til d, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller betalingsmottakeren er hjemmehørende.
 
-6. Kreditt- og finansinstitusjoner som omfattes av denne forordningen skal, når de utøver sine aktiviteter med enheter som omfattes av nr. 1 bokstav a til d, og for å hindre overtredelse av bestemmelsene i denne forordningen, utvise særlig årvåkenhet som følger:løpende utvise årvåkenhet overfor kontobevegelser, særlig gjennom kundetiltaksprogrammer,kreve at alle opplysningsfelt i betalingsordrer om avsender og mottaker fylles ut, og avvise transaksjonen dersom disse opplysningene ikke foreligger,oppbevare registreringer av alle transaksjoner i fem år og på anmodning stille dem til rådighet for nasjonale myndigheter,dersom de har rimelig grunn til å mistenke at aktiviteter med kreditt- og finansinstitusjoner kan være i strid med bestemmelsene i denne forordningen, omgående rapportere til enheten for finansiell etterretning eller annen kompetent myndighet utpekt av den berørte medlemsstaten, med forbehold om artikkel 5 og 23. Enheten for finansiell etterretning eller annen kompetent myndighet skal tjene som nasjonalt senter for mottak og analyse av rapporter om mistenkelige transaksjoner som gjelder mulig overtredelse av denne forordningen. Enhet for finansiell etterretning eller annen kompetent myndighet skal gis rask direkte eller indirekte adgang til opplysninger om finansielle forhold, administrasjon og rettshåndhevelse som er nødvendige for å utføre sin funksjon, herunder analyse av rapporter om mistenkelige transaksjoner.
+6\. Kreditt- og finansinstitusjoner som omfattes av denne forordningen skal, når de utøver sine aktiviteter med enheter som omfattes av nr. 1 bokstav a til d, og for å hindre overtredelse av bestemmelsene i denne forordningen, utvise særlig årvåkenhet som følger:løpende utvise årvåkenhet overfor kontobevegelser, særlig gjennom kundetiltaksprogrammer,kreve at alle opplysningsfelt i betalingsordrer om avsender og mottaker fylles ut, og avvise transaksjonen dersom disse opplysningene ikke foreligger,oppbevare registreringer av alle transaksjoner i fem år og på anmodning stille dem til rådighet for nasjonale myndigheter,dersom de har rimelig grunn til å mistenke at aktiviteter med kreditt- og finansinstitusjoner kan være i strid med bestemmelsene i denne forordningen, omgående rapportere til enheten for finansiell etterretning eller annen kompetent myndighet utpekt av den berørte medlemsstaten, med forbehold om artikkel 5 og 23. Enheten for finansiell etterretning eller annen kompetent myndighet skal tjene som nasjonalt senter for mottak og analyse av rapporter om mistenkelige transaksjoner som gjelder mulig overtredelse av denne forordningen. Enhet for finansiell etterretning eller annen kompetent myndighet skal gis rask direkte eller indirekte adgang til opplysninger om finansielle forhold, administrasjon og rettshåndhevelse som er nødvendige for å utføre sin funksjon, herunder analyse av rapporter om mistenkelige transaksjoner.
 
 ### Artikkel 30a
 
-1. Overføringer av penger til og fra iranske personer, enheter og organer som ikke omfattes av artikkel 30 nr. 1 skal behandles som følger:Overføringer som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller er beregnet til landbruksformål eller humanitære formål, skal gjennomføres uten forhåndsgodkjenning.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Andre overføringer under 40 000 euro eller et tilsvarende beløp skal gjennomføres uten forhåndsgodkjenning.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Andre overføringer på minst 40 000 euro eller tilsvarende beløp krever forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som blir avslått med tre måneders mellomrom.
+1\. Overføringer av penger til og fra iranske personer, enheter og organer som ikke omfattes av artikkel 30 nr. 1 skal behandles som følger:Overføringer som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller er beregnet til landbruksformål eller humanitære formål, skal gjennomføres uten forhåndsgodkjenning.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Andre overføringer under 40 000 euro eller et tilsvarende beløp skal gjennomføres uten forhåndsgodkjenning.Overføringer på minst 10 000 euro eller et tilsvarende beløp skal på forhånd underrettes skriftlig til den kompetente myndigheten i den aktuelle medlemsstaten.Andre overføringer på minst 40 000 euro eller tilsvarende beløp krever forhåndstillatelse fra den kompetente myndigheten i den aktuelle medlemsstaten.Medlemsstatene skal underrette hverandre om tillatelser som blir avslått med tre måneders mellomrom.
 
-2. Overføringer på under 10 000 euro eller et tilsvarende beløp krever ikke forhåndstillatelse eller underretning.
+2\. Overføringer på under 10 000 euro eller et tilsvarende beløp krever ikke forhåndstillatelse eller underretning.
 
-3. Underretninger og søknader om tillatelse som gjelder pengeoverføringer skal behandles som følger:ved elektroniske pengeoverføringer som behandles av kreditt- eller finansinstitusjoner:underretninger og anmodninger om tillatelse som gjelder pengeoverføringer til iranske personer, enheter eller organer som befinner seg utenfor EU, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra iranske personer, enheter eller organer som befinner seg utenfor EU, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyter er etablert,dersom betalerens eller betalingsmottakerens betalingstjenesteyter, i tilfellene nevnt i romertall i og ii, ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse inngis av betaleren dersom det gjelder en overføring til iranske personer, enheter eller organer, og av betalingsmottakeren dersom det gjelder en overføring fra iranske personer, enheter eller organer, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller betalingsmottakeren er hjemmehørende,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer til iranske personer, enheter eller organer som befinner seg innenfor EU, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra iranske personer, enheter eller organer som befinner seg innenfor EU, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,dersom betalerens eller betalingsmottakerens betalingstjenesteyter, i sakene nevnt i romertall iv og v, ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse inngis av betaleren dersom det gjelder en overføring til iranske personer, enheter eller organer, og av betalingsmottakeren dersom det gjelder en overføring fra iranske personer, enheter eller organer, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller mottakeren er hjemmehørende,i forbindelse med en pengeoverføring til eller fra iranske personer, enheter eller organer der verken betaler eller betalingsmottaker, og heller ikke deres respektive betalingstjenesteytere, omfattes av denne forordningen, men der en betalingstjenesteyter som omfattes av denne forordningen opptrer som mellomledd, skal denne betalingstjenesteyteren overholde forpliktelsen til å underrette eller anmode om tillatelse, dersom vedkommende vet eller har rimelig grunn til å mistenke at overføringen er til eller fra iranske personer, enheter eller organer. Dersom det er flere enn én betalingsformidler som opptrer som mellomledd, skal bare den første betalingstjenesteyteren som behandler overføringen, være forpliktet til å overholde forpliktelsen til å underrette eller anmode om tillatelse. Underretning eller anmodning om tillatelse skal inngis til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,dersom det er flere enn én betalingstjenesteytere involvert i en rekke pengeoverføringer som har innbyrdes sammenheng med hverandre, skal overføringer innenfor EU inneholde en henvisning til tillatelsen som er gitt i henhold til denne artikkelen,ved pengeoverføringer som gjennomføres med ikke-elektroniske midler, skal underretninger og anmodninger om tillatelse som gjelder pengeoverføringer behandles som følger:underretninger og anmodninger om tillatelse som gjelder overføringer til iranske personer, enheter eller organer skal inngis av betaleren til de kompetente myndighetene i medlemsstaten der betaleren er hjemmehørende,underretninger og anmodninger om tillatelse som gjelder overføringer fra iranske personer, enheter eller organer skal inngis av betalingsmottakeren til de kompetente myndighetene i den medlemsstaten der betalingsmottakeren er hjemmehørende.
+3\. Underretninger og søknader om tillatelse som gjelder pengeoverføringer skal behandles som følger:ved elektroniske pengeoverføringer som behandles av kreditt- eller finansinstitusjoner:underretninger og anmodninger om tillatelse som gjelder pengeoverføringer til iranske personer, enheter eller organer som befinner seg utenfor EU, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra iranske personer, enheter eller organer som befinner seg utenfor EU, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyter er etablert,dersom betalerens eller betalingsmottakerens betalingstjenesteyter, i tilfellene nevnt i romertall i og ii, ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse inngis av betaleren dersom det gjelder en overføring til iranske personer, enheter eller organer, og av betalingsmottakeren dersom det gjelder en overføring fra iranske personer, enheter eller organer, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller betalingsmottakeren er hjemmehørende,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer til iranske personer, enheter eller organer som befinner seg innenfor EU, skal inngis av eller på vegne av betalingsmottakerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,underretninger og anmodninger om tillatelse som gjelder pengeoverføringer fra iranske personer, enheter eller organer som befinner seg innenfor EU, skal inngis av eller på vegne av betalerens betalingstjenesteyter til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,dersom betalerens eller betalingsmottakerens betalingstjenesteyter, i sakene nevnt i romertall iv og v, ikke er omfattet av denne forordningen, skal underretninger og anmodninger om tillatelse inngis av betaleren dersom det gjelder en overføring til iranske personer, enheter eller organer, og av betalingsmottakeren dersom det gjelder en overføring fra iranske personer, enheter eller organer, til de kompetente myndighetene i den medlemsstaten der henholdsvis betaleren eller mottakeren er hjemmehørende,i forbindelse med en pengeoverføring til eller fra iranske personer, enheter eller organer der verken betaler eller betalingsmottaker, og heller ikke deres respektive betalingstjenesteytere, omfattes av denne forordningen, men der en betalingstjenesteyter som omfattes av denne forordningen opptrer som mellomledd, skal denne betalingstjenesteyteren overholde forpliktelsen til å underrette eller anmode om tillatelse, dersom vedkommende vet eller har rimelig grunn til å mistenke at overføringen er til eller fra iranske personer, enheter eller organer. Dersom det er flere enn én betalingsformidler som opptrer som mellomledd, skal bare den første betalingstjenesteyteren som behandler overføringen, være forpliktet til å overholde forpliktelsen til å underrette eller anmode om tillatelse. Underretning eller anmodning om tillatelse skal inngis til de kompetente myndighetene i medlemsstaten der betalingstjenesteyteren er etablert,dersom det er flere enn én betalingstjenesteytere involvert i en rekke pengeoverføringer som har innbyrdes sammenheng med hverandre, skal overføringer innenfor EU inneholde en henvisning til tillatelsen som er gitt i henhold til denne artikkelen,ved pengeoverføringer som gjennomføres med ikke-elektroniske midler, skal underretninger og anmodninger om tillatelse som gjelder pengeoverføringer behandles som følger:underretninger og anmodninger om tillatelse som gjelder overføringer til iranske personer, enheter eller organer skal inngis av betaleren til de kompetente myndighetene i medlemsstaten der betaleren er hjemmehørende,underretninger og anmodninger om tillatelse som gjelder overføringer fra iranske personer, enheter eller organer skal inngis av betalingsmottakeren til de kompetente myndighetene i den medlemsstaten der betalingsmottakeren er hjemmehørende.
 
 ### Artikkel 30b
 
-1. Artikkel 30 og 30a kommer ikke til anvendelse dersom det er gitt tillatelse i samsvar med artikkel 24, 25, 26, 27, 28 eller 28a.Kravet om forhåndstillatelse til pengeoverføringer som fastsatt i artikkel 30 nr. 3 bokstav b og c, berører ikke gjennomføring av pengeoverføringer som på forhånd ble underrettet til eller tillatt av de kompetente myndighetene før 30. september 2025. Disse overføringene skal være gjennomført før 1. januar 2026.Artikkel 30 og 30a kommer ikke til anvendelse på overføring av penger som omhandlet i artikkel 29.
+1\. Artikkel 30 og 30a kommer ikke til anvendelse dersom det er gitt tillatelse i samsvar med artikkel 24, 25, 26, 27, 28 eller 28a.Kravet om forhåndstillatelse til pengeoverføringer som fastsatt i artikkel 30 nr. 3 bokstav b og c, berører ikke gjennomføring av pengeoverføringer som på forhånd ble underrettet til eller tillatt av de kompetente myndighetene før 30. september 2025. Disse overføringene skal være gjennomført før 1. januar 2026.Artikkel 30 og 30a kommer ikke til anvendelse på overføring av penger som omhandlet i artikkel 29.
 
-2. Artikkel 30 nr. 3 og 30a nr. 1 gjelder uansett om pengeoverføringen er gjennomført som en enkeltstående transaksjon eller som flere transaksjoner som tilsynelatende har innbyrdes sammenheng med hverandre.I denne forordningen omfatter «transaksjoner som tilsynelatende har innbyrdes sammenheng med hverandre»:en serie påfølgende transaksjoner fra eller til de samme finans- eller kredittinstitusjonene som omfattes av artikkel 30 nr. 1 bokstav a til d, eller fra eller til de samme iranske personene, enhetene eller organene, som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, der den enkelte overføring ligger under den relevante grensen fastsatt i artikkel 30 og 30a, men der det samlede beløpet oppfyller kriteriet for underretning eller tillatelse, elleren rekke overføringer som involverer ulike betalingstjenesteytere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
+2\. Artikkel 30 nr. 3 og 30a nr. 1 gjelder uansett om pengeoverføringen er gjennomført som en enkeltstående transaksjon eller som flere transaksjoner som tilsynelatende har innbyrdes sammenheng med hverandre.I denne forordningen omfatter «transaksjoner som tilsynelatende har innbyrdes sammenheng med hverandre»:en serie påfølgende transaksjoner fra eller til de samme finans- eller kredittinstitusjonene som omfattes av artikkel 30 nr. 1 bokstav a til d, eller fra eller til de samme iranske personene, enhetene eller organene, som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, der den enkelte overføring ligger under den relevante grensen fastsatt i artikkel 30 og 30a, men der det samlede beløpet oppfyller kriteriet for underretning eller tillatelse, elleren rekke overføringer som involverer ulike betalingstjenesteytere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
 
-3. I forbindelse med artikkel 30 nr. 3 bokstav b og c og artikkel 30a nr. 1 bokstav c skal de kompetente myndighetene gi tillatelse, på de vilkårene de finner hensiktsmessige, med mindre de har rimelig grunn til å fastslå at pengeoverføringen det søkes om tillatelse for, kan være i strid med forbudene eller forpliktelsene i denne forordningen.En kompetent myndighet kan kreve inn et gebyr for å vurdere søknader om tillatelser.
+3\. I forbindelse med artikkel 30 nr. 3 bokstav b og c og artikkel 30a nr. 1 bokstav c skal de kompetente myndighetene gi tillatelse, på de vilkårene de finner hensiktsmessige, med mindre de har rimelig grunn til å fastslå at pengeoverføringen det søkes om tillatelse for, kan være i strid med forbudene eller forpliktelsene i denne forordningen.En kompetent myndighet kan kreve inn et gebyr for å vurdere søknader om tillatelser.
 
-4. I forbindelse med artikkel 30a nr. 1 bokstav c skal en tillatelse anses som gitt dersom en kompetent myndighet har mottatt en skriftlig søknad om tillatelse og den ikke har fremmet skriftlig innsigelse mot pengeoverføringen innen fire uker. Dersom innsigelse fremmes fordi nærmere undersøkelser pågår, skal den kompetente myndigheten informere om dette og meddele sin avgjørelse omgående. Den kompetente myndigheten skal gis rask direkte eller indirekte adgang til opplysninger om finansielle forhold, administrasjon og rettshåndhevelse som er nødvendige for å gjennomføre undersøkelsene.
+4\. I forbindelse med artikkel 30a nr. 1 bokstav c skal en tillatelse anses som gitt dersom en kompetent myndighet har mottatt en skriftlig søknad om tillatelse og den ikke har fremmet skriftlig innsigelse mot pengeoverføringen innen fire uker. Dersom innsigelse fremmes fordi nærmere undersøkelser pågår, skal den kompetente myndigheten informere om dette og meddele sin avgjørelse omgående. Den kompetente myndigheten skal gis rask direkte eller indirekte adgang til opplysninger om finansielle forhold, administrasjon og rettshåndhevelse som er nødvendige for å gjennomføre undersøkelsene.
 
-5. Følgende personer, enheter og organer er ikke omfattet av artikkel 30 og 30a:personer, enheter eller organer som utelukkende konverterer papirdokumenter til elektroniske data og handler i henhold til en kontrakt med en kreditt- eller finansinstitusjon,personer, enheter eller organer som utelukkende tilbyr kreditt- eller finansinstitusjoner meldingssystemer eller andre støttesystemer for pengeoverføringer, ellerpersoner, enheter eller organer som utelukkende tilbyr kreditt- eller finansinstitusjoner avregnings- og oppgjørssystemer.
+5\. Følgende personer, enheter og organer er ikke omfattet av artikkel 30 og 30a:personer, enheter eller organer som utelukkende konverterer papirdokumenter til elektroniske data og handler i henhold til en kontrakt med en kreditt- eller finansinstitusjon,personer, enheter eller organer som utelukkende tilbyr kreditt- eller finansinstitusjoner meldingssystemer eller andre støttesystemer for pengeoverføringer, ellerpersoner, enheter eller organer som utelukkende tilbyr kreditt- eller finansinstitusjoner avregnings- og oppgjørssystemer.
 
 ### Artikkel 31
 
-1. Filialer og datterselskaper, som omfattes av denne forordningens virkeområde som fastsatt i artikkel 49, av kreditt- og finansinstitusjoner som er hjemmehørende i Iran skal underrette den kompetente myndigheten i medlemsstaten der de er etablert om alle pengeoverføringer utført eller mottatt av dem, navn på partene, beløp og dato for transaksjonen innen fem virkedager etter at den aktuelle pengeoverføringen er utført eller mottatt. Dersom opplysningene foreligger, skal underretningen inneholde informasjon om hvilken type transaksjon det er snakk om, og etter omstendighetene, hvilken type varer transaksjonen gjelder, og det skal særlig opplyses om hvorvidt varene er omfattet av vedlegg I, II, IIA, III, IV, IVA, V, VI, VIA, VIB, VII, VIIA eller VIIB til denne forordningen, og hvis det kreves tillatelse til eksport av varene, skal nummeret på lisensen angis.
+1\. Filialer og datterselskaper, som omfattes av denne forordningens virkeområde som fastsatt i artikkel 49, av kreditt- og finansinstitusjoner som er hjemmehørende i Iran skal underrette den kompetente myndigheten i medlemsstaten der de er etablert om alle pengeoverføringer utført eller mottatt av dem, navn på partene, beløp og dato for transaksjonen innen fem virkedager etter at den aktuelle pengeoverføringen er utført eller mottatt. Dersom opplysningene foreligger, skal underretningen inneholde informasjon om hvilken type transaksjon det er snakk om, og etter omstendighetene, hvilken type varer transaksjonen gjelder, og det skal særlig opplyses om hvorvidt varene er omfattet av vedlegg I, II, IIA, III, IV, IVA, V, VI, VIA, VIB, VII, VIIA eller VIIB til denne forordningen, og hvis det kreves tillatelse til eksport av varene, skal nummeret på lisensen angis.
 
-2. Med forbehold av og i samsvar med ordningene for informasjonsutveksling skal de kompetente myndighetene som mottar underretningen, om nødvendig, omgående overføre opplysningene om underretninger nevnt i nr. 1 til de kompetente myndighetene i de andre medlemsstatene der den mottakende part av en slik overføring er etablert, for å hindre enhver transaksjon som kan bidra til spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
+2\. Med forbehold av og i samsvar med ordningene for informasjonsutveksling skal de kompetente myndighetene som mottar underretningen, om nødvendig, omgående overføre opplysningene om underretninger nevnt i nr. 1 til de kompetente myndighetene i de andre medlemsstatene der den mottakende part av en slik overføring er etablert, for å hindre enhver transaksjon som kan bidra til spredningsfølsomme nukleære aktiviteter eller til utvikling av leveringssystemer for kjernevåpen.
 
 ### Artikkel 33
 
-1. Det er forbudt for kreditt- og finansinstitusjoner, som faller inn under virkeområdet til artikkel 49, å gjøre følgende:å åpne en ny bankkonto hos kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller hos en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å opprette en ny korrespondentbankforbindelse med kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller med en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å åpne et nytt representasjonskontor i Iran eller etablere en ny filial eller et nytt datterselskap i Iran,å opprette et nytt fellesforetak med kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller med en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1.
+1\. Det er forbudt for kreditt- og finansinstitusjoner, som faller inn under virkeområdet til artikkel 49, å gjøre følgende:å åpne en ny bankkonto hos kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller hos en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å opprette en ny korrespondentbankforbindelse med kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller med en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å åpne et nytt representasjonskontor i Iran eller etablere en ny filial eller et nytt datterselskap i Iran,å opprette et nytt fellesforetak med kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller med en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1.
 
-2. Det er forbudtå gi tillatelse til at det åpnes et representasjonskontor eller opprettes en filial eller et datterselskap i Den europeiske union av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å inngå avtaler for eller på vegne av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran, eller for eller på vegne av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1, om åpning av et representasjonskontor eller oppretting av en filial eller et datterselskap i Den europeiske union,å gi et representasjonskontor, en filial eller et datterselskap av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran, eller av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1, tillatelse til å starte opp og utøve virksomhet som kredittinstitusjon eller enhver annen virksomhet som krever forhåndstillatelse, dersom representasjonskontoret, filialen eller datterselskapet ikke var i drift innen 30. september 2025,for en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1 å erverve eller utvide en andel eller å erverve andre eierskapsinteresser i en kreditt- eller finansinstitusjon som omfattes av virkeområdet til artikkel 49.
+2\. Det er forbudtå gi tillatelse til at det åpnes et representasjonskontor eller opprettes en filial eller et datterselskap i Den europeiske union av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran eller av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1,å inngå avtaler for eller på vegne av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran, eller for eller på vegne av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1, om åpning av et representasjonskontor eller oppretting av en filial eller et datterselskap i Den europeiske union,å gi et representasjonskontor, en filial eller et datterselskap av kreditt- eller finansinstitusjoner som er hjemmehørende i Iran, eller av en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1, tillatelse til å starte opp og utøve virksomhet som kredittinstitusjon eller enhver annen virksomhet som krever forhåndstillatelse, dersom representasjonskontoret, filialen eller datterselskapet ikke var i drift innen 30. september 2025,for en kreditt- eller finansinstitusjon omtalt i artikkel 30 nr. 1 å erverve eller utvide en andel eller å erverve andre eierskapsinteresser i en kreditt- eller finansinstitusjon som omfattes av virkeområdet til artikkel 49.
 
 ### Artikkel 34
 
@@ -677,55 +725,55 @@ Det er forbudtdirekte eller indirekte å selge eller kjøpe statsobligasjoner el
 
 ### Artikkel 35
 
-1. Det er forbudt å yte forsikring eller gjenforsikring, samt å formidle yting av forsikring eller gjenforsikring, tilIran eller Irans regjering og landets offentlige organer, foretak og etater,iranske personer, enheter eller organer som ikke er fysiske personer, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller etter instruks fra juridiske personer, enheter eller organer omtalt i bokstav a eller b.
+1\. Det er forbudt å yte forsikring eller gjenforsikring, samt å formidle yting av forsikring eller gjenforsikring, tilIran eller Irans regjering og landets offentlige organer, foretak og etater,iranske personer, enheter eller organer som ikke er fysiske personer, ellerfysiske eller juridiske personer, enheter eller organer som handler på vegne av eller etter instruks fra juridiske personer, enheter eller organer omtalt i bokstav a eller b.
 
-2. Bestemmelsene i nr. 1 bokstav a og b gjelder ikke yting eller formidling av obligatorisk forsikring, ansvarsforsikring eller gjenforsikring til iranske personer, enheter eller organer som er hjemmehørende i EU, eller yting av forsikring til iranske diplomatiske eller konsulære representasjoner i EU.
+2\. Bestemmelsene i nr. 1 bokstav a og b gjelder ikke yting eller formidling av obligatorisk forsikring, ansvarsforsikring eller gjenforsikring til iranske personer, enheter eller organer som er hjemmehørende i EU, eller yting av forsikring til iranske diplomatiske eller konsulære representasjoner i EU.
 
-3. Bestemmelsene i nr. 1 bokstav c gjelder ikke yting av forsikring eller formidling av forsikring, herunder helse- og reiseforsikring eller gjenforsikring, til enkeltpersoner som handler som privatpersoner, med unntak av personer oppført i vedlegg VIII og IX.Bestemmelsene i nr. 1 bokstav c skal ikke være til hinder for yting av forsikring eller gjenforsikring, eller formidling av forsikring, til eieren av et fartøy, luftfartøy eller kjøretøy som chartres av personer, enheter eller organer nevnt i nr. 1 bokstav a eller b.Ved anvendelsen av nr. 1 bokstav c skal personer, enheter eller organer anses som ikke å handle etter instruks fra personer, enheter eller organer nevnt i nr. 1 bokstav a og b dersom denne instruksen gjelder dokking, lasting, lossing eller sikker transitt av et fartøy eller luftfartøy som midlertidig befinner seg i iransk farvann eller luftrom.
+3\. Bestemmelsene i nr. 1 bokstav c gjelder ikke yting av forsikring eller formidling av forsikring, herunder helse- og reiseforsikring eller gjenforsikring, til enkeltpersoner som handler som privatpersoner, med unntak av personer oppført i vedlegg VIII og IX.Bestemmelsene i nr. 1 bokstav c skal ikke være til hinder for yting av forsikring eller gjenforsikring, eller formidling av forsikring, til eieren av et fartøy, luftfartøy eller kjøretøy som chartres av personer, enheter eller organer nevnt i nr. 1 bokstav a eller b.Ved anvendelsen av nr. 1 bokstav c skal personer, enheter eller organer anses som ikke å handle etter instruks fra personer, enheter eller organer nevnt i nr. 1 bokstav a og b dersom denne instruksen gjelder dokking, lasting, lossing eller sikker transitt av et fartøy eller luftfartøy som midlertidig befinner seg i iransk farvann eller luftrom.
 
-4. Denne artikkel forbyr forlengelse eller fornyelse av forsikrings- og gjenforsikringsavtaler inngått før 30. september 2025, men, uten at det berører artikkel 23 nr. 3, forbyr ikke overholdelse av avtaler inngått før denne datoen.
+4\. Denne artikkel forbyr forlengelse eller fornyelse av forsikrings- og gjenforsikringsavtaler inngått før 30. september 2025, men, uten at det berører artikkel 23 nr. 3, forbyr ikke overholdelse av avtaler inngått før denne datoen.
 
 ### Kapittel VI
 Transportrestriksjoner
 
 ### Artikkel 36
 
-1. For å forhindre overføring av varer og teknologi som omfattes av EUs felles liste over militært materiell eller som det er forbudt å levere, selge, overføre, eksportere eller importere i henhold til denne forordningen, og i tillegg til plikten til å gi opplysninger til tollmyndighetene i forkant av ankomst eller avreise som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913) og kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454), skal personen som gir opplysningene omtalt i nr. 2 i denne artikkelen, angi om varene omfattes av EUs felles liste over militært materiell eller av denne forordningen, og hvis det kreves tillatelse til eksport av varene, skal det oppgis detaljert informasjon om eksporttillatelsen som er gitt.
+1\. For å forhindre overføring av varer og teknologi som omfattes av EUs felles liste over militært materiell eller som det er forbudt å levere, selge, overføre, eksportere eller importere i henhold til denne forordningen, og i tillegg til plikten til å gi opplysninger til tollmyndighetene i forkant av ankomst eller avreise som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913) og kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454), skal personen som gir opplysningene omtalt i nr. 2 i denne artikkelen, angi om varene omfattes av EUs felles liste over militært materiell eller av denne forordningen, og hvis det kreves tillatelse til eksport av varene, skal det oppgis detaljert informasjon om eksporttillatelsen som er gitt.
 
-2. Tilleggsopplysningene omtalt i denne artikkelen skal inngis enten i skriftlig form eller etter omstendighetene ved en tolldeklarasjon.
+2\. Tilleggsopplysningene omtalt i denne artikkelen skal inngis enten i skriftlig form eller etter omstendighetene ved en tolldeklarasjon.
 
 ### Artikkel 37
 
-1. Det er forbudt å yte bunkrings- eller skipsforsyningstjenester eller andre fartøysrelaterte tjenester til fartøyer som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at de aktuelle fartøyene transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
+1\. Det er forbudt å yte bunkrings- eller skipsforsyningstjenester eller andre fartøysrelaterte tjenester til fartøyer som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at de aktuelle fartøyene transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
 
-2. Det er forbudt å yte tekniske service- og vedlikeholdstjenester til lastefly som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at det aktuelle lasteflyet transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
+2\. Det er forbudt å yte tekniske service- og vedlikeholdstjenester til lastefly som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at det aktuelle lasteflyet transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
 
-3. Forbudene i nr. 1 og 2 i denne artikkelen gjelder frem til lasten er inspisert og om nødvendig beslaglagt eller bortskaffet.Eventuell beslaglegging og bortskaffing kan, i samsvar med nasjonal lovgivning eller vedtak truffet av en kompetent myndighet, gjennomføres for importørens regning eller kreves betalt av enhver annen person eller enhet som er ansvarlig for forsøket på ulovlig levering, salg, overføring eller eksport.
+3\. Forbudene i nr. 1 og 2 i denne artikkelen gjelder frem til lasten er inspisert og om nødvendig beslaglagt eller bortskaffet.Eventuell beslaglegging og bortskaffing kan, i samsvar med nasjonal lovgivning eller vedtak truffet av en kompetent myndighet, gjennomføres for importørens regning eller kreves betalt av enhver annen person eller enhet som er ansvarlig for forsøket på ulovlig levering, salg, overføring eller eksport.
 
 ### Artikkel 37a
 
-1. Det er forbudt å yte følgende tjenester til oljetankskip og lastefartøyer som seiler under iransk flagg, eller som direkte eller indirekte eies, chartres eller drives av iranske personer, enheter eller organer:enhver form for klassifiseringstjenester, herunder, men ikke begrenset til:utarbeiding og anvendelse av klassifiseringsregler eller tekniske spesifikasjoner som gjelder utforming, konstruksjon, utrustning og vedlikehold av skip, i tillegg til styringssystemer på skip,gjennomføring av besiktigelser og inspeksjoner i samsvar med klassifiseringsregler og prosedyrer,tildeling av en klassebetegnelse og utstedelse, godkjenning eller fornying av samsvarssertifikater som bekrefter at klassifiseringsregler eller spesifikasjoner er overholdt,tilsyn med og deltakelse i utforming, konstruksjon og reparasjon av skip og skipsdeler, herunder seksjoner, elementer, maskineri, elektriske installasjoner og kontrollinstallasjoner samt tilknyttet faglig bistand, finansiering eller finansiell bistand,inspeksjon, testing og sertifisering av utstyr, materialer og komponenter til skip samt tilsyn med installasjonen om bord og med systemintegrering,gjennomføring av besiktigelser, inspeksjoner, revisjoner og besøk samt utstedelse, fornying eller godkjenning av relevante sertifikater og samsvarsdokumenter på vegne av flaggstatens administrasjon, i samsvar med den internasjonale konvensjonen om sikkerhet til sjøs av 1974, med endringer (SOLAS 1974) og den tilhørende protokollen av 1988, den internasjonale konvensjonen om hindring av forurensning fra skip av 1973, som endret av den tilhørende protokollen av 1978, med endringer (MARPOL 73/78), konvensjonen om internasjonale regler til forebygging av sammenstøt på sjøen, med endringer (COLREG 1972), den internasjonale konvensjonen om lastelinjer av 1966 (LL 1966) og den tilhørende protokollen av 1988, den internasjonale konvensjonen om normer for opplæring, sertifikater og vakthold for sjøfolk av 1978, med endringer (STCW), og den internasjonale konvensjonen om måling av fartøyer av 1969 (TONNAGE 1969).
+1\. Det er forbudt å yte følgende tjenester til oljetankskip og lastefartøyer som seiler under iransk flagg, eller som direkte eller indirekte eies, chartres eller drives av iranske personer, enheter eller organer:enhver form for klassifiseringstjenester, herunder, men ikke begrenset til:utarbeiding og anvendelse av klassifiseringsregler eller tekniske spesifikasjoner som gjelder utforming, konstruksjon, utrustning og vedlikehold av skip, i tillegg til styringssystemer på skip,gjennomføring av besiktigelser og inspeksjoner i samsvar med klassifiseringsregler og prosedyrer,tildeling av en klassebetegnelse og utstedelse, godkjenning eller fornying av samsvarssertifikater som bekrefter at klassifiseringsregler eller spesifikasjoner er overholdt,tilsyn med og deltakelse i utforming, konstruksjon og reparasjon av skip og skipsdeler, herunder seksjoner, elementer, maskineri, elektriske installasjoner og kontrollinstallasjoner samt tilknyttet faglig bistand, finansiering eller finansiell bistand,inspeksjon, testing og sertifisering av utstyr, materialer og komponenter til skip samt tilsyn med installasjonen om bord og med systemintegrering,gjennomføring av besiktigelser, inspeksjoner, revisjoner og besøk samt utstedelse, fornying eller godkjenning av relevante sertifikater og samsvarsdokumenter på vegne av flaggstatens administrasjon, i samsvar med den internasjonale konvensjonen om sikkerhet til sjøs av 1974, med endringer (SOLAS 1974) og den tilhørende protokollen av 1988, den internasjonale konvensjonen om hindring av forurensning fra skip av 1973, som endret av den tilhørende protokollen av 1978, med endringer (MARPOL 73/78), konvensjonen om internasjonale regler til forebygging av sammenstøt på sjøen, med endringer (COLREG 1972), den internasjonale konvensjonen om lastelinjer av 1966 (LL 1966) og den tilhørende protokollen av 1988, den internasjonale konvensjonen om normer for opplæring, sertifikater og vakthold for sjøfolk av 1978, med endringer (STCW), og den internasjonale konvensjonen om måling av fartøyer av 1969 (TONNAGE 1969).
 
-2. Forbudet i nr. 1 gjelder fra 1. januar 2026.
+2\. Forbudet i nr. 1 gjelder fra 1. januar 2026.
 
 ### Artikkel 37b
 
-1. Det er forbudt å stille fartøyer beregnet til transport eller lagring av olje og petrokjemiske produkter til rådighet foriranske personer, enheter eller organer, ellerandre personer, enheter eller organer, med mindre leverandøren av fartøyene har iverksatt hensiktsmessige tiltak for å hindre at fartøyet blir brukt til å transportere eller lagre olje eller petrokjemiske produkter som har opprinnelse i Iran eller er eksportert fra Iran.
+1\. Det er forbudt å stille fartøyer beregnet til transport eller lagring av olje og petrokjemiske produkter til rådighet foriranske personer, enheter eller organer, ellerandre personer, enheter eller organer, med mindre leverandøren av fartøyene har iverksatt hensiktsmessige tiltak for å hindre at fartøyet blir brukt til å transportere eller lagre olje eller petrokjemiske produkter som har opprinnelse i Iran eller er eksportert fra Iran.
 
-2. Forbudet i nr. 1 berører ikke oppfyllelsen av forpliktelser som følger av kontrakter eller tilknyttede kontrakter nevnt i artikkel 12 nr. 1 bokstav b og c og i artikkel 14 nr. 1 bokstav b og c, forutsatt at importen og transporten av iransk råolje, petroleumsprodukter eller petrokjemiske produkter har blitt underrettet til de kompetente myndighetene i henhold til artikkel 12 nr. 1 eller artikkel 14 nr. 1.
+2\. Forbudet i nr. 1 berører ikke oppfyllelsen av forpliktelser som følger av kontrakter eller tilknyttede kontrakter nevnt i artikkel 12 nr. 1 bokstav b og c og i artikkel 14 nr. 1 bokstav b og c, forutsatt at importen og transporten av iransk råolje, petroleumsprodukter eller petrokjemiske produkter har blitt underrettet til de kompetente myndighetene i henhold til artikkel 12 nr. 1 eller artikkel 14 nr. 1.
 
 ### Kapittel VII
 Alminnelige og avsluttende bestemmelser
 
 ### Artikkel 38
 
-1. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføring er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, garanti eller motgaranti, spesielt finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes av:personer, enheter eller organer som er oppført i vedlegg VIII og IX,andre iranske personer, enheter eller organer, herunder den iranske regjeringen,personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene nevnt i bokstav a og b.
+1\. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføring er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, garanti eller motgaranti, spesielt finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes av:personer, enheter eller organer som er oppført i vedlegg VIII og IX,andre iranske personer, enheter eller organer, herunder den iranske regjeringen,personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene nevnt i bokstav a og b.
 
-2. Oppfyllelse av en kontrakt eller gjennomføring av en transaksjon anses å være påvirket av tiltakene pålagt i henhold til denne forordningen når eksistensen eller innholdet av kravet direkte eller indirekte er et resultat av disse tiltakene.
+2\. Oppfyllelse av en kontrakt eller gjennomføring av en transaksjon anses å være påvirket av tiltakene pålagt i henhold til denne forordningen når eksistensen eller innholdet av kravet direkte eller indirekte er et resultat av disse tiltakene.
 
-3. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter nr. 1.
+3\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter nr. 1.
 
-4. Denne artikkelen berører ikke den rett personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
+4\. Denne artikkelen berører ikke den rett personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
 
 ### Artikkel 39
 
@@ -733,11 +781,11 @@ I forbindelse med artikkel 8 og 9, artikkel 17 nr. 2 bokstav b og artikkel 30 og
 
 ### Artikkel 40
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer:omgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 23, til den kompetente myndigheten i medlemsstatene der de er bosatt eller befinner seg og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen.samarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organer:omgående gi slike opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 23, til den kompetente myndigheten i medlemsstatene der de er bosatt eller befinner seg og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen.samarbeide med den kompetente myndigheten om verifisering av disse opplysningene.
 
-2. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for den berørte medlemsstaten.
+2\. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for den berørte medlemsstaten.
 
-3. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal bare benyttes til det formål de gis eller mottas for.
+3\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal bare benyttes til det formål de gis eller mottas for.
 
 ### Artikkel 41
 
@@ -745,33 +793,33 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 42
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene og formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene og formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Tiltakene fastsatt i denne forordning, skal ikke føre til noen form for erstatningsansvar for de aktuelle fysiske eller juridiske personer, enheter eller organer dersom de ikke visste, og ikke hadde rimelig grunn til å ha mistanke om, at deres handlinger ville være en overtredelse av disse forbudene.
+2\. Tiltakene fastsatt i denne forordning, skal ikke føre til noen form for erstatningsansvar for de aktuelle fysiske eller juridiske personer, enheter eller organer dersom de ikke visste, og ikke hadde rimelig grunn til å ha mistanke om, at deres handlinger ville være en overtredelse av disse forbudene.
 
-3. Det forhold at personer, enheter eller organ som omfattes av denne forordningen, eller deres ledere eller ansatte, i god tro i henhold til artikkel 30 og 31 meddeler opplysningene nevnt i artikkel 30 og 31, skal ikke medføre noen form for ansvar for institusjonen eller personen eller deres ledere eller ansatte.
+3\. Det forhold at personer, enheter eller organ som omfattes av denne forordningen, eller deres ledere eller ansatte, i god tro i henhold til artikkel 30 og 31 meddeler opplysningene nevnt i artikkel 30 og 31, skal ikke medføre noen form for ansvar for institusjonen eller personen eller deres ledere eller ansatte.
 
 ### Artikkel 43
 
-1. En medlemsstat kan treffe alle tiltak den anser som nødvendig for å sikre at relevante internasjonale, europeiske eller nasjonale juridiske forpliktelser vedrørende arbeidstakeres helse og sikkerhet og miljøbeskyttelse overholdes når samarbeid med iranske personer, enheter eller organer kan påvirkes av gjennomføringen av denne forordningen.
+1\. En medlemsstat kan treffe alle tiltak den anser som nødvendig for å sikre at relevante internasjonale, europeiske eller nasjonale juridiske forpliktelser vedrørende arbeidstakeres helse og sikkerhet og miljøbeskyttelse overholdes når samarbeid med iranske personer, enheter eller organer kan påvirkes av gjennomføringen av denne forordningen.
 
-2. Med hensyn til tiltak som treffes i henhold til nr. 1, gjelder ikke forbudene i artikkel 8 og 9, artikkel 17 nr. 2 bokstav b, artikkel 23 nr. 2 og artikkel 30 og 35.
+2\. Med hensyn til tiltak som treffes i henhold til nr. 1, gjelder ikke forbudene i artikkel 8 og 9, artikkel 17 nr. 2 bokstav b, artikkel 23 nr. 2 og artikkel 30 og 35.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om tiltak i medhold av nr. 1 og at den har til hensikt å gi tillatelse minst ti virkedager før tillatelsen gis. Dersom trusler mot miljøet og/eller arbeidstakeres sikkerhet og helse krever hastetiltak, kan den berørte medlemsstaten gi tillatelse uten forutgående underretning, men medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen senest tre virkedager etter at tillatelsen er gitt.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om tiltak i medhold av nr. 1 og at den har til hensikt å gi tillatelse minst ti virkedager før tillatelsen gis. Dersom trusler mot miljøet og/eller arbeidstakeres sikkerhet og helse krever hastetiltak, kan den berørte medlemsstaten gi tillatelse uten forutgående underretning, men medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen senest tre virkedager etter at tillatelsen er gitt.
 
 ### Artikkel 43a
 
-1. Som unntak fra artikkel 8 og 9 og artikkel 17 nr. 1, når det gjelder iranske personer, enheter eller organer som nevnt i artikkel 17 nr. 2 bokstav b og artikkel 23 nr. 2 og 3, i den grad det gjelder personer, enheter og organer oppført i vedlegg IX, og artikkel 30 og 35, kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til aktiviteter tilknyttet leting etter eller utvinning av hydrokarboner i Unionen som gjennomføres i medhold av en lisens utstedt av en medlemsstat til personer, enheter eller organer oppført i vedlegg IX, dersom følgende vilkår er oppfylt:lisensen til leting etter eller utvinning av hydrokarboner i Unionen ble utstedt før datoen da personen, enheten eller organet ble oppført i vedlegg IX, ogtillatelsen er nødvendig for å unngå eller utbedre miljøskader i Unionen eller forebygge permanent ødeleggelse av lisensens verdi, herunder ved midlertidig å sikre rørledningen og infrastrukturen som brukes i forbindelse med aktivitetene som omfattes av tillatelsen. Tillatelsen kan omfatte tiltak som er iverksatt i henhold til nasjonal lovgivning.
+1\. Som unntak fra artikkel 8 og 9 og artikkel 17 nr. 1, når det gjelder iranske personer, enheter eller organer som nevnt i artikkel 17 nr. 2 bokstav b og artikkel 23 nr. 2 og 3, i den grad det gjelder personer, enheter og organer oppført i vedlegg IX, og artikkel 30 og 35, kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til aktiviteter tilknyttet leting etter eller utvinning av hydrokarboner i Unionen som gjennomføres i medhold av en lisens utstedt av en medlemsstat til personer, enheter eller organer oppført i vedlegg IX, dersom følgende vilkår er oppfylt:lisensen til leting etter eller utvinning av hydrokarboner i Unionen ble utstedt før datoen da personen, enheten eller organet ble oppført i vedlegg IX, ogtillatelsen er nødvendig for å unngå eller utbedre miljøskader i Unionen eller forebygge permanent ødeleggelse av lisensens verdi, herunder ved midlertidig å sikre rørledningen og infrastrukturen som brukes i forbindelse med aktivitetene som omfattes av tillatelsen. Tillatelsen kan omfatte tiltak som er iverksatt i henhold til nasjonal lovgivning.
 
-2. Unntaket fastsatt i nr. 1 skal bare gis for det nødvendige tidsrommet og gyldigheten skal ikke være lenger enn gyldigheten av lisensen som er utstedt til personen, enheten eller organet oppført i vedlegg IX. Dersom den kompetente myndigheten finner det nødvendig å overdra kontrakter eller utbetale erstatning, skal unntaket ikke være gyldig i mer enn fem år.
+2\. Unntaket fastsatt i nr. 1 skal bare gis for det nødvendige tidsrommet og gyldigheten skal ikke være lenger enn gyldigheten av lisensen som er utstedt til personen, enheten eller organet oppført i vedlegg IX. Dersom den kompetente myndigheten finner det nødvendig å overdra kontrakter eller utbetale erstatning, skal unntaket ikke være gyldig i mer enn fem år.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse minst ti virkedager før tillatelsen gis. Dersom trusler mot miljøet krever hastetiltak for å hindre miljøskader, kan den berørte medlemsstaten gi tillatelse uten forutgående underretning, men medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen senest tre virkedager etter at tillatelsen er gitt.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om at den har til hensikt å gi tillatelse minst ti virkedager før tillatelsen gis. Dersom trusler mot miljøet krever hastetiltak for å hindre miljøskader, kan den berørte medlemsstaten gi tillatelse uten forutgående underretning, men medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen senest tre virkedager etter at tillatelsen er gitt.
 
 ### Artikkel 44
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, med tre måneders mellomrom, særlig om:penger som er frosset i henhold til artikkel 23, og tillatelser som er gitt i henhold til artikkel 24, 25, 26 og 27,overtredelser og håndhevelsesproblemer og rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, med tre måneders mellomrom, særlig om:penger som er frosset i henhold til artikkel 23, og tillatelser som er gitt i henhold til artikkel 24, 25, 26 og 27,overtredelser og håndhevelsesproblemer og rettsavgjørelser fra nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
 ### Artikkel 45
 
@@ -779,31 +827,31 @@ Kommisjonen skal:endre vedlegg II på grunnlag av beslutninger truffet av FNs si
 
 ### Artikkel 46
 
-1. Dersom FNs sikkerhetsråd eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, skal Rådet oppføre denne fysiske eller juridiske person, enheten eller organet i vedlegg VIII.
+1\. Dersom FNs sikkerhetsråd eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, skal Rådet oppføre denne fysiske eller juridiske person, enheten eller organet i vedlegg VIII.
 
-2. Dersom Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal være omfattet av tiltakene i artikkel 23 nr. 2 og 3, endrer det vedlegg IX i samsvar med dette.
+2\. Dersom Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal være omfattet av tiltakene i artikkel 23 nr. 2 og 3, endrer det vedlegg IX i samsvar med dette.
 
-3. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til vedkommende fysiske eller juridiske person, enhet eller organ nevnt i nr. 1 og 2, enten direkte dersom adressen er kjent, eller ved offentliggjøring av kunngjøring, som gir vedkommende fysiske eller juridiske person, enhet eller organ anledning til å fremlegge merknader.
+3\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til vedkommende fysiske eller juridiske person, enhet eller organ nevnt i nr. 1 og 2, enten direkte dersom adressen er kjent, eller ved offentliggjøring av kunngjøring, som gir vedkommende fysiske eller juridiske person, enhet eller organ anledning til å fremlegge merknader.
 
-4. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+4\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-5. Dersom FN beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen, eller å endre de opplysningene som identifiserer en listeført fysisk eller juridisk person, en enhet eller et organ, endrer Rådet vedlegg VIII i samsvar med dette.
+5\. Dersom FN beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen, eller å endre de opplysningene som identifiserer en listeført fysisk eller juridisk person, en enhet eller et organ, endrer Rådet vedlegg VIII i samsvar med dette.
 
-6. Listen i vedlegg IX skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+6\. Listen i vedlegg IX skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
 ### Artikkel 47
 
-1. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av denne forordningen, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av denne forordningen, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer i dem.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer i dem.
 
 ### Artikkel 48
 
-1. Medlemsstatene skal utpeke de kompetente myndighetene nevnt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg X. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på nettsidene oppført i vedlegg X.
+1\. Medlemsstatene skal utpeke de kompetente myndighetene nevnt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg X. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på nettsidene oppført i vedlegg X.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordningen er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, herunder deres kontaktopplysninger, og om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordningen er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, herunder deres kontaktopplysninger, og om alle senere endringer.
 
-3. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg X benyttes.
+3\. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg X benyttes.
 
 ### Artikkel 49
 
@@ -821,15 +869,48 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 ### Vedlegg I til Vedlegg B. Varer og teknologi nevnt i artikkel 2(1), (2) og (4), artikkel 3(3), artikkel 5(1), artikkel 6, artikkel 8(4), artikkel 17(2) og artikkel 31(1)
 
+This Annex comprises all goods and technology listed in Annex I to [Regulation (EU) 2021/821](eu/32021r0821), as defined therein, with the exception of those specified in Part A. The relevant prohibitions shall not apply to the execution until 1 January 2026 of contracts related to goods and technology specified in Part C concluded before 30. September 2025.
+
+*PART A*
+
+|  | *Description* |
+| --- | --- |
+| 1. | «Information security» systems and equipment for final use for public telecommunication services and internet service providing or for the protection by the network operator of these services, including components necessary for operation, installation (including on-site installation), maintenance (checking), repair, overhaul and refurbishing services related to those systems and equipment as follows:<br>a. Systems, equipment, application specific «electronic assemblies», modules and integrated circuits for «information security» related to networks such as wifi, 2G, 3G, 4G or fixed networks (classical, ADSL or optic fibre), as follows, and components therefor specially designed for «information security»:<br>*N.B.: For the control of Global Navigation Satellite Systems (GNSS) receiving equipment containing or employing decryption (i.e. GPS or GLONASS), see 7A005 of Annex I to [Regulation (EU) 2021/821](eu/32021r0821).*<br>1. Designed or modified to use «cryptography» employing digital techniques performing any cryptographic function other than authentication or digital signature and having any of the following:<br>*Technical Notes:*<br>*1. Authentication and digital signature functions include their associated key management function.*<br>*2. Authentication includes all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorised access.*<br>*3. «Cryptography» does not include «fixed» data compression or coding techniques.*<br>*Note: 1.a.1. includes equipment designed or modified to use «cryptography» employing analogue principles when implemented with digital techniques.*<br>a. A «symmetric algorithm» employing a key length in excess of 56 bits; or<br>b. An «asymmetric algorithm» where the security of the algorithm is based on any of the following:<br>1. Factorisation of integers in excess of 512 bits (e.g. RSA);<br>2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g. Diffie-Hellman over Z/pZ); or<br>3. Discrete logarithms in a group other than mentioned in 1.a.1.b.2. in excess of 112 bits<br>(e.g. Diffie-Hellman over an elliptic curve); |
+| 2. | «Software» as follows, for final use for public telecommunication services, internet service providing or for the protection by the network operator of these services:<br>a. «Software» specially designed or modified for the «use» of equipment specified in 1.a.1 or «software» specified in 2.b.1;<br>b. Specific «software», as follows:<br>1. «Software» having the characteristics, or performing or simulating the functions of the equipment, specified in 5A002.a.1; |
+| 3. | «Technology» according to the General Technology Note for the «use» of equipment specified in 1.a.1 or «software» specified in 2.a. or 2.b.1 of this list, for final use for public telecommunication services and internet service providing or for the protection by the network operator of these services. |
+
+*PART B*
+
+Article 6 applies to the following goods:
+
+| *Item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* | *Description* |
+| --- | --- |
+| 0A001 | «Nuclear reactors» and specially designed or prepared equipment and components therefor, as follows:<br>a. «Nuclear reactors»;<br>b. Metal vessels, or major shop-fabricated parts therefor, including the reactor vessel head for a reactor pressure vessel, specially designed or prepared to contain the core of a «nuclear reactor»;<br>c. Manipulative equipment specially designed or prepared for inserting or removing fuel in a «nuclear reactor»;<br>d. Control rods specially designed or prepared for the control of the fission process in a «nuclear reactor», support or suspension structures therefor, rod drive mechanisms and rod guide tubes;<br>e. Pressure tubes specially designed or prepared to contain both fuel elements and the primary coolant in a «nuclear reactor»;<br>f. Zirconium metal tubes or zirconium alloy tubes (or assembles of tubes) specially designed or prepared for use as fuel cladding in a «nuclear reactor», and in quantities exceeding 10 kg;<br>*N.B. For zirconium pressure tubes see 0A001.e. and for calandria tubes see 0A001.h.*<br>g. Coolant pumps specially designed or prepared for circulating the primary coolant of «nuclear reactors»;<br>h. «Nuclear reactor internals» specially designed or prepared for use in a «nuclear reactor», including support columns for the core, fuel channels, thermal shields, baffles, core grid plates, and diffuser plates;<br>*Note: In 0A001.h. «nuclear reactor internals» means any major structure within a reactor vessel which has one or more functions such as supporting the core, maintaining fuel alignment, directing primary coolant flow, providing radiation shields for the reactor vessel, and guiding in-core instrumentation.*<br>i. Heat exchangers as follows:<br>1. Steam generators specially designed or prepared for the primary, or intermediate, coolant circuit of a «nuclear reactor»;<br>2. Other heat exchangers specially designed or prepared for use in the primary coolant circuit of a «nuclear reactor»;<br>*Note: 0A001.i. does not control heat exchangers for the supporting systems of the reactor, e.g. the emergency cooling system or the decay heat cooling system.*<br>j. Neutron detectors specially designed or prepared for determining neutron flux levels within the core of a «nuclear reactor»; or<br>k. «External thermal shields» specially designed or prepared for use in a «nuclear reactor» for the reduction of heat loss and also for the containment vessel protection.<br>*Technical Note:*<br>*In 0A001.k. «external thermal shields» means major structures placed over the reactor vessel which reduce heat loss from the reactor and reduce temperature within the containment vessel.* |
+| 0C002 | Low enriched uranium covered by 0C002 when it is incorporated in assembled nuclear fuels elements. |
+
+*PART C*
+
+| *Item from Annex I to [Regulation (EC) No 428/2009](eu/32009r0428)* | *Description* |
+| --- | --- |
+| 5A002 | «Information security» systems, equipment and components therefor, as follows:<br>a. Systems, equipment, application specific «electronic assemblies», modules and integrated circuits for «information security», as follows and other specially designed components therefor:<br>*N.B.: For the control of Global Navigation Satellite Systems (GNSS) receiving equipment containing or employing decryption (i.e. GPS or GLONASS), see 7A005.*<br>1. Designed or modified to use «cryptography» employing digital techniques performing any cryptographic function other than authentication or digital signature and having any of the following:<br>*Technical Notes:*<br>*1. Authentication and digital signature functions include their associated key management function.*<br>*2. Authentication includes all aspects of access control where there is no encryption of files or text except as directly related to the protection of passwords, Personal Identification Numbers (PINs) or similar data to prevent unauthorised access.*<br>*3. «Cryptography» does not include «fixed» data compression or coding techniques.*<br>*Note: 5A002.a.1. includes equipment designed or modified to use «cryptography» employing analogue principles when implemented with digital techniques.*<br>a. A «symmetric algorithm» employing a key length in excess of 56 bits; or<br>b. An «asymmetric algorithm» where the security of the algorithm is based on any of the following:<br>1. Factorisation of integers in excess of 512 bits (e.g. RSA);<br>2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g. Diffie-Hellman over Z/pZ); or<br>3. Discrete logarithms in a group other than mentioned in 5A002.a.1.b.2. in excess of 112 bits (e.g. Diffie-Hellman over an elliptic curve); |
+| 5D002 | «Software» as follows:<br>a. «Software» specially designed or modified for the «use» of equipment specified in 5A002.a.1 or «software» specified in 5D002.c.1;<br>c. Specific «software», as follows:<br>1. «Software» having the characteristics, or performing or simulating the functions of the equipment, specified in 5A002.a.1;<br>*Note: 5D002 does not control «software» as follows:*<br>*a. «Software» required for the «use» of equipment excluded from control by the Note to 5A002;*<br>*b. «Software» providing any of the functions of equipment excluded from control by the Note to 5A002.* |
+| 5E002 | «Technology» according to the General Technology Note for the «use» of equipment specified in 5A002.a.1 or «software» specified in 5D002.a. or 5D002.c.1 of this list. |
+
 ### Vedlegg II til Vedlegg B. Varer og teknologi nevnt i artikkel 2(1), artikkel 2(2) og 2(4), artikkel 3(3), artikkel 5(1), artikkel 8(4), artikkel 17(2), artikkel 31(1) og artikkel 45
+
+*INTRODUCTORY NOTES*
 
 1. Unless otherwise stated, reference numbers used in the column entitled «Description» refer to the descriptions of dual-use items and technology set out in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
 2. A reference number in the column entitled «Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)» means that the characteristics of the item described in the column «Description» lie outside the parameters set out in the description of the dual-use entry referred to.
 3. Definitions of terms between «single quotation marks» are given in a technical note to the relevant item.
 4. Definitions of terms between «double quotation marks» can be found in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
 
-1. The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes.*N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.*
+*GENERAL NOTES*
+
+1. The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes. *N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.*
 2. The goods specified in this Annex include both new and used goods.
+
+*GENERAL TECHNOLOGY NOTE (GTN)*
 
 1. The sale, supply, transfer or export of «technology» which is «required» for the «development», «production» or «use» of goods the sale, supply, transfer or export of which is prohibited in Part A (Goods) below, is prohibited in accordance with the provisions of Section II.B.
 2. The sale, supply, transfer or export of «technology» which is «required» for the «development» or «production» of goods the sale, supply, transfer or export of which is controlled in Part A (Goods) of Annex IIa, is prohibited in accordance with the provisions of Section II.B.
@@ -839,17 +920,117 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 ### II.A. GOODS
 
+| *A0. Nuclear Materials, Facilities, and Equipment* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A0.001 | Hollow cathode lamps as follows:<br>a. Iodine hollow cathode lamps with windows in pure silicon or quartz; or<br>b. Uranium hollow cathode lamps. | – |
+| II.A0.002 | Faraday isolators in the wavelength range 500 nm–650 nm. | – |
+| II.A0.003 | Optical gratings in the wavelength range 500 nm–650 nm. | – |
+| II.A0.004 | Optical fibres in the wavelength range 500 nm–650 nm coated with anti-reflecting layers in the wavelength range 500 nm–650 nm and having a core diameter greater than 0,4 mm but not exceeding 2 mm | – |
+| II.A0.005 | Nuclear reactor vessel components and testing equipment, other than those specified in 0A001, as follows:<br>a. Seals;<br>b. Internal components; or<br>c. Sealing, testing and measurement equipment. | 0A001 |
+| II.A0.006 | Nuclear detection systems for detection, identification or quantification of radioactive materials and radiation of nuclear origin and specially designed components thereof other than those specified in 0A001.j. or 1A004.c. | 0A001.j<br>1A004.c |
+| II.A0.007 | Bellows-sealed valves made of aluminium alloy or stainless steel type 304, 304L or 316L.<br>*Note: This item does not cover bellow valves defined in 0B001.c.6 and 2A226.* | 0B001.c.6<br>2A226 |
+| II.A0.008 | Laser mirrors, other than those specified in 6A005.e, consisting of substrates having a thermal expansion coefficient of 10-6K-1 or less at 20 °C (e.g. fused silica or sapphire).<br>*Note: This item does not cover optical systems specially designed for astronomical applications, except if the mirrors contain fused silica.* | 0B001.g.5,<br>6A005.e |
+| II.A0.009 | Laser lenses, other than those specified in 6A005.e.2, consisting of substrates having a thermal expansion coefficient of 10-6K-1 or less at 20 °C (e.g. fused silica). | 0B001.g,<br>6A005.e.2 |
+| II.A0.010 | Pipes, piping, flanges, fittings made of, or lined with, nickel or nickel alloy containing more than 40 % nickel by weight, other than those specified in 2B350.h.1. | 2B350 |
+| II.A0.011 | Vacuum pumps other than those specified in 0B002.f.2 or 2B231, as follows:<br>a. Turbomolecular pumps having a flowrate equal to or greater than 400 l/s;<br>b. Roots type vacuum roughing pumps having a volumetric aspiration flowrate greater than 200 m3/h; or<br>c. Bellows-sealed, scroll, dry compressor, and bellows-sealed, scroll, dry vacuum pumps. | 0B002.f.2,<br>2B231 |
+| II.A0.012 | Shielded enclosures for the manipulation, storage and handling of radioactive substances (Hot cells). | 0B006 |
+| II.A0.013 | «Natural uranium» or «depleted uranium» or thorium in the form of metal, alloy, chemical compound or concentrate and any other material containing one or more of the foregoing, other than those specified in 0C001. | 0C001 |
+| II.A0.014 | Detonation chambers having a capacity of explosion absorption of more than 2,5 kg TNT equivalent. | – |
+
+| *A1. Materials, chemicals, «microorganisms» and «toxins»* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A1.001 | Bis (2-ethylhexyl) phosphoric acid (HDEHP or D2HPA) (CAS 298-07-7) solvent in any quantity, with a purity greater than 90 %. | – |
+| II.A1.002 | Fluorine gas (CAS 7782-41-4), with a purity of at least 95 %. | – |
+| II.A1.005 | Electrolytic cells for fluorine production with an output capacity greater than 100 g of fluorine per hour.<br>*Note: This item does not cover electrolytic cells defined in item 1B225.* | 1B225 |
+| II.A1.006 | Catalysts, other than those prohibited by 1A225, containing platinum, palladium or rhodium, usable for promoting the hydrogen isotope exchange reaction between hydrogen and water for the recovery of tritium from heavy water or for the production of heavy water. | 1B231,<br>1A225 |
+| II.A1.007 | Aluminium and its alloys, other than those specified in 1C002.b.4 or 1C202.a, in crude or semi-fabricated form having either of the following characteristics:<br>a. Capable of an ultimate tensile strength of 460 MPa or more at 293 K (20 °C); or<br>b. Having a tensile strength of 415 MPa or more at 298 K (25 °C). | 1C002.b.4,<br>1C202.a |
+| II.A1.008 | Magnetic metals, of all types and of whatever form, having an initial relative permeability of 120 000 or more and a thickness between 0,05 and 0,1 mm. | 1C003.a |
+| II.A1.009 | «Fibrous or filamentary materials» or prepregs, as follows:<br>*N.B. see also II.A1.019.a.*<br>a. Carbon or aramid «fibrous or filamentary materials» having either of the following characteristics:<br>1. A «specific modulus» exceeding 10 × 106 m; or<br>2. A «specific tensile strength» exceeding 17 × 104 m;<br>b. Glass «fibrous or filamentary materials» having either of the following characteristics:<br>1. A «specific modulus» exceeding 3,18 × 106 m; or<br>2. A «specific tensile strength» exceeding 76,2 × 103 m;<br>c. Thermoset resin-impregnated continuous «yarns», «rovings», «tows» or «tapes» with a width of 15 mm or less (once prepregs), made from carbon or glass «fibrous or filamentary materials» other than those specified in II.A1.010.a. or b.<br>Note: This item does not cover «fibrous or filamentary materials» defined in items 1C010.a, 1C010.b, 1C210.a and 1C210.b. | 1C010.a<br>1C010.b<br>1C210.a<br>1C210.b |
+| II.A1.010 | Resin-impregnated or pitch-impregnated fibres (prepregs), metal or carbon-coated fibres (preforms) or «carbon fibre preforms», as follows:<br>a. Made from «fibrous or filamentary materials» specified in II.A1.009 above;<br>b. Epoxy resin «matrix» impregnated carbon «fibrous or filamentary materials» (prepregs), specified in 1C010.a, 1C010.b or 1C010.c, for the repair of aircraft structures or laminates, of which the size of individual sheets does not exceed 50 cm × 90 cm;<br>c. Prepregs specified in 1C010.a, 1C010.b or 1C010.c, when impregnated with phenolic or epoxy resins having a glass transition temperature (Tg) less than 433 K (160 °C) and a cure temperature lower than the glass transition temperature.<br>*Note: This item does not cover «fibrous or filamentary materials» defined in item 1C010.e.* | 1C010.e.<br>1C210 |
+| II.A1.011 | Reinforced silicon carbide ceramic composites usable for nose tips, re-entry vehicles, nozzle flaps, usable in «missiles», other than those specified in 1C107. | 1C107 |
+| II.A1.012 | Maraging steels, other than those specified in 1C116 or 1C216, «capable of» an ultimate tensile strength of 2 050 MPa or more, at 293 K (20 °C).<br>*Technical Note:*<br>*The phrase «maraging steel capable of» encompasses maraging steel before or after heat treatment.* | 1C216 |
+| II.A1.013 | Tungsten, tantalum, tungsten carbide, tantalum carbide and alloys, having both of the following characteristics:<br>a. In forms having a hollow cylindrical or spherical symmetry (including cylinder segments) with an inside diameter between 50 mm and 300 mm; and<br>b. A mass greater than 5 kg.<br>*Note: This item does not cover tungsten, tungsten carbide and alloys defined in item 1C226.* | 1C226 |
+| II.A1.014 | Elemental powders of cobalt, neodymium or samarium or alloys or mixtures thereof containing at least 20 % by weight of cobalt, neodymium or samarium, with a particle size less than 200 μm. | – |
+| II.A1.015 | Pure tributyl phosphate (TBP) (CAS No 126-73-8) or any mixture having a TBP content of more than 5 % by weight. | – |
+| II.A1.016 | «Maraging steel», other than those prohibited by 1C116, 1C216 or II.A1.012<br>*Technical Note:*<br>*«Maraging steels» are iron alloys generally characterised by high nickel, very low carbon content and the use of substitutional elements or precipitates to produce strengthening and age-hardening of the alloy.* | – |
+| II.A1.017 | Metals, metal powders and material as follows:<br>a. Tungsten and tungsten alloys, other than those prohibited by 1C117, in the form of uniform spherical or atomized particles of 500 μm diameter or less with a tungsten content of 97 % by weight or more;<br>b. Molybdenum and molybdenum alloys, other than those prohibited by 1C117, in the form of uniform spherical or atomized particles of 500 μm diameter or less with a molybdenum content of 97 % by weight or more; or<br>c. Tungsten materials in the solid form, other than those prohibited by 1C226, or II.A1.013 having material compositions as follows:<br>1. Tungsten and alloys containing 97 % by weight or more of tungsten;<br>2. Copper infiltrated tungsten containing 80 % by weight or more of tungsten; or<br>3. Silver infiltrated tungsten containing 80 % by weight or more of tungsten. | – |
+| II.A1.018 | Soft magnetic alloys having a chemical composition as follows:<br>a. Iron content between 30 % and 60 %; or<br>b. Cobalt content between 40 % and 60 %. | – |
+| II.A1.019 | «Fibrous or filamentary materials» or prepregs, not prohibited by Annex I or by Annex II (under II.A1.009, II.A1.010) of this Regulation, or not specified by Annex I of [Regulation (EU) 2021/821](eu/32021r0821), as follows:<br>a. Carbon «fibrous or filamentary materials»;<br>*Note: II.A1.019a. does not cover fabrics.*<br>b. Thermoset resin-impregnated continuous «yarns», «rovings», «tows», or «tapes», made from carbon «fibrous or filamentary materials»; or<br>c. Polyacrylonitrile (PAN) continuous «yarns», «rovings», «tows» or «tapes» | – |
+
+| *A2. Materials Processing* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A2.001 | Vibration test systems, equipment and components thereof, other than those specified in 2B116:<br>a. Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at an acceleration equal to or greater than 0,1 g rms between 0,1 Hz and 2 kHz and imparting forces equal to or greater than 50 kN, measured «bare table»;<br>*Technical Note:*<br>*«Vibration test systems incorporating a digital controller» are those systems, the functions of which are, partly or entirely, automatically controlled by stored and digitally coded electrical signals.*<br>b. Digital controllers, combined with specially designed vibration test «software», with a real-time bandwidth greater than 5 kHz designed for use with vibration test systems specified in 2B116.a.;<br>*Technical Note:*<br>*«Real-time control bandwidth» means the maximum rate at which a controller can execute complete cycles of sampling, processing data and transmitting control signals.*<br>c. Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force equal to or greater than 50 kN, measured «bare table», and usable in vibration test systems specified in 2B116.a.; or<br>d. Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force equal to or greater than 50 kN, measured «bare table», and usable in vibration systems specified in 2B116.a.<br>*Technical Note:*<br>«Bare table» means a flat table, or surface, with no fixture or fittings. | 2B116 |
+| II.A2.002 | Machine tools and components and numerical controls for machine tools, as follows:<br>a. Machine tools for grinding having positioning accuracies with «all compensations available» equal to or less (better) than 15 μm according to ISO 230/2 (1988) or national equivalents along any linear axis;<br>*Note: This item does not cover machine tools for grinding defined in items 2B201.b and 2B001.c.*<br>b. Components and numerical controls, specially designed for machine tools specified in 2B001, 2B201, or under a. | 2B201.b<br>2B001.c |
+| II.A2.003 | Balancing machines and related equipment as follows:<br>a. Balancing machines, designed or modified for dental or other medical equipment, having all the following characteristics:<br>1. Not capable of balancing rotors/assemblies having a mass greater than 3 kg;<br>2. Capable of balancing rotors/assemblies at speeds greater than 12 500 rpm;<br>3. Capable of correcting imbalance in two planes or more; and<br>4. Capable of balancing to a residual specific imbalance of 0,2 g × mm per kg of rotor mass;<br>*Note: II.A2.003 does not control balancing machines designed or modified for dental or other medical equipment.*<br>b. «Indicator heads» designed or modified for use with machines specified in 2B119.a. above.<br>*Technical Note:*<br>*«Indicator heads» are sometimes known as balancing instrumentation.* | 2B119 |
+| II.A2.004 | Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, other than those specified in 2B225, having either of the following characteristics:<br>a. A capability of penetrating a hot cell wall of 0,3 m or more (through the wall operation); or<br>b. A capability of bridging over the top of a hot cell wall with a thickness of 0,3 m or more (over the wall operation). | 2B225 |
+| II.A2.006 | Furnaces capable of operation at temperatures above 400 °C as follows:<br>a. Oxidation furnaces<br>b. Controlled atmosphere heat treatment furnaces<br>*Note: This item does not cover tunnel kilns with roller or car conveyance, tunnel kilns with conveyor belt, pusher type kilns or shuttle kilns, specially designed for the production of glass, tableware ceramics or structural ceramics.* | 2B226<br>2B227 |
+| II.A2.007 | «Pressure transducers», other than those defined in 2B230, capable of measuring absolute pressures at any point in the range 0 to 200 kPa and having both of the following characteristics:<br>a. Pressure sensing elements made of or protected by «Materials resistant to corrosion by uranium hexafluoride (UF6)», and<br>b. Having either of the following characteristics:<br>1. A full scale of less than 200 kPa and an «accuracy» of better than ± 1 % of full scale; or<br>2. A full scale of 200 kPa or greater and an «accuracy» of better than 2 kPa. | 2B230 |
+| II.A2.011 | Centrifugal separators, capable of continuous separation without the propagation of aerosols and manufactured from:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Fluoropolymers;<br>c. Glass (including vitrified or enamelled coating or glass lining);<br>d. Nickel or alloys with more than 40 % nickel by weight;<br>e. Tantalum or tantalum alloys;<br>f. Titanium or titanium alloys; or<br>g. Zirconium or zirconium alloys.<br>*Note: This item does not cover centrifugal separators defined in item 2B352.c.* | 2B352.c |
+| II.A2.012 | Sintered metal filters made of nickel or nickel alloy with more than 40 % nickel by weight.<br>*Note: This item does not cover filters defined in item 2B352.d.* | 2B352.d |
+| II.A2.013 | Spin-forming machines and flow-forming machines, other than those controlled by 2B009, 2B109 or 2B209, having a roller force of more than 60 kN and specially designed components therefor.<br>*Technical Note:*<br>For the purpose of II.A2.013, machines combining the functions of spin-forming and flow-forming are regarded as flow-forming machines. | – |
+| II.A2.014 | Liquid-liquid contacting equipment (mixer-settlers, pulsed columns, centrifugal contactors); and liquid distributors, vapour distributors or liquid collectors designed for such equipment where all surfaces that come in direct contact with the chemical(s) being processed are any of the following:<br>*N.B. see also III.A2.008.*<br>a. Made from any of the following materials:<br>1. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>2. Fluoropolymers;<br>3. Glass (including vitrified or enamelled coating or glass lining);<br>4. Graphite or «carbon graphite»;<br>5. Nickel or alloys with more than 40 % nickel by weight;<br>6. Tantalum or tantalum alloys;<br>7. Titanium or titanium alloys;<br>8. Zirconium or zirconium alloys; or<br>9. Niobium (columbium) or niobium alloys; or<br>b. Made from both stainless steel and one or more of the materials specified in II.A2.014.a.<br>*Technical Note:*<br>«Carbon graphite» is a composition consisting of amorphous carbon and graphite, in which the graphite content is 8 % or more by weight. | 2B350.e |
+| II.A2.015 | Industrial equipment and components, other than those specified in 2B350.d, as follows:<br>*N.B. see also III.A2.009.*<br>Heat exchangers or condensers with a heat transfer surface area greater than 0,05 m2, and less than 30 m2; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) are any of the following:<br>a. Made from any of the following materials:<br>1. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>2. Fluoropolymers;<br>3. Glass (including vitrified or enamelled coating or glass lining);<br>4. Graphite or «carbon graphite»;<br>5. Nickel or alloys with more than 40 % nickel by weight;<br>6. Tantalum or tantalum alloys;<br>7. Titanium or titanium alloys;<br>8. Zirconium or zirconium alloys;<br>9. Silicon carbide;<br>10. Titanium carbide; or<br>11. Niobium (columbium) or niobium alloys; or<br>b. Made from both stainless steel and one or more of the materials specified in II.A2.015.a.<br>*Note: This item does not cover vehicle radiators.*<br>*Technical Note:*<br>The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the heat exchanger. | 2B350.d |
+| II.A2.016 | Multiple-seal, and seal-less pumps, other than those specified in 2B350.i, suitable for corrosive fluids, with manufacturer’s specified maximum flow-rate greater than 0,6 m3/hour, or vacuum pumps with manufacturer’s specified maximum flow-rate greater than 5 m3/hour [measured under standard temperature (273 K or 0 °C) and pressure (101,3 kPa) conditions]; and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are any of the following:<br>*NB. see also III.A2.010.*<br>a. Made from any of the following materials:<br>1. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>2. Ceramics;<br>3. Ferrosilicon;<br>4. Fluoropolymers;<br>5. Glass (including vitrified or enamelled coatings or glass lining);<br>6. Graphite or «carbon graphite»<br>7. Nickel or alloys with more than 40 % nickel by weight;<br>8. Tantalum or tantalum alloys;<br>9. Titanium or titanium alloys;<br>10. Zirconium or zirconium alloys;<br>11. Niobium (columbium) or niobium alloys; or<br>12. Aluminium alloys; or<br>b. Made from both stainless steel and one or more of the materials specified in II.A2.016.a.<br>*Technical Note:*<br>*The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the pump.* | 2B350.i |
+
+| *A3. Electronics* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A3.001 | High voltage direct current power supplies having both of the following characteristics:<br>a. Capable of continuously producing, over a time period of eight hours, 10 kV or more, with output power of 5 kW or more with or without sweeping; and<br>b. Current or voltage stability better than 0,1 % over a time period of four hours.<br>*Note: This item does not cover power supplies defined in items 0B001.j.5 and 3A227.* | 3A227 |
+| II.A3.002 | Mass spectrometers, other than those specified in 3A233 or 0B002.g, capable of measuring ions of 200 atomic mass units or more and having a resolution of better than 2 parts in 200, as follows, and ion sources thereof:<br>a. Inductively coupled plasma mass spectrometers (ICP/MS);<br>b. Glow discharge mass spectrometers (GDMS);<br>c. Thermal ionisation mass spectrometers (TIMS);<br>d. Electron bombardment mass spectrometers having both of the following features:<br>1. A molecular beam inlet system that injects a collimated beam of analyte molecules into a region of the ion source where the molecules are ionised by an electron beam; and<br>2. One or more «cold traps» that can be cooled to a temperature of 193 K (– 80 °C);<br>e. Not used<br>f. Mass spectrometers equipped with a microfluorination ion source designed for actinides or actinide fluorides.<br>*Technical Notes:*<br>*1. Electron bombardment mass spectrometers in II.A3.002.d. are also known as electron impact mass spectrometers or electron ionisation mass spectrometers.*<br>*2. In II.A3.002.d.2., a «cold trap» is a device that traps gas molecules by condensing or freezing them on cold surfaces. For the purposes of II.A3.002.d.2., a closed-loop gaseous helium cryogenic vacuum pump is not a «cold trap».* | 3A233 |
+| II.A3.004 | Frequency changers or generators, other than those specified in 0B001.b.13., usable as a variable or fixed frequency motor drive, having all of the following characteristics:<br>a. Multiphase output providing a power of 40 VA or greater;<br>b. Operating at a frequency of 600 Hz or more; and<br>c. Frequency control better (less) than 0,2 %.<br>*Technical Notes:*<br>*1. Frequency changers in II.A3.004 are also known as converters or inverters.*<br>*2. Frequency changers in II.A3.004 may be marketed as Generators, Electronic Test Equipment, AC Power Supplies, Variable Speed Motors Drives, Variable Speed Drives (VSDs), Variable Frequency Drives (VFDs), Adjustable Frequency Drives (AFDs), or Adjustable Speed Drives (ASDs).* | 3A225<br>0B001.b.13 |
+
+| *A6. Sensors and Lasers* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A6.001 | Yttrium aluminium garnet (YAG) rods | – |
+| II.A6.002 | Optical equipment and components, other than those specified in 6A002, 6A004.b as follows:<br>Infrared optics in the wavelength range 9 000 nm–17 000 nm and components thereof, including cadmium telluride (CdTe) components. | 6A002<br>6A004.b |
+| II.A6.003 | Wave front corrector systems for use with a laser beam having a diameter exceeding 4 mm, and specially designed components thereof, including control systems, phase front sensors and «deformable mirrors» including bimorph mirrors.<br>*Note: This item does not cover mirrors defined in 6A004.a, 6A005.e and 6A005.f.* | 6A003 |
+| II.A6.004 | Argon ion «lasers» having an average output power equal to or greater than 5 W.<br>*Note: This item does not cover argon ion «lasers» defined in items 0B001.g.5, 6A005 and 6A205.a.* | 6A005.a.6<br>6A205.a |
+| II.A6.005 | Semiconductor «lasers» and components thereof, as follows:<br>a. Individual semiconductor «lasers» with an output power greater than 200 mW each, in quantities larger than 100; or<br>b. Semiconductor «laser» arrays having an output power greater than 20 W.<br>*Notes:*<br>*1. Semiconductor «lasers» are commonly called «laser» diodes.*<br>*2. This item does not cover «lasers» defined in items 0B001.g.5, 0B001.h.6 and 6A005.b.*<br>*3. This item does not cover «laser» diodes with a wavelength in the range 1 200 nm–2 000 nm.* | 6A005.b |
+| II.A6.006 | «Tunable» semiconductor «lasers» and «tunable» semiconductor «laser» arrays, of a wavelength between 9 μm and 17 μm, as well as array stacks of semiconductor «lasers» containing at least one «tunable» semiconductor «laser» array of such wavelength.<br>*Notes:*<br>*1. Semiconductor «lasers» are commonly called «laser» diodes.*<br>*2. This item does not cover semiconductor «lasers» defined in items 0B001.h.6 and 6A005.b* | 6A005.b |
+| II.A6.007 | Solid state «tunable» «lasers» and specially designed components thereof as follows:<br>a. Titanium-sapphire «lasers»; or<br>b. Alexandrite «lasers».<br>*Note: This item does not cover titanium-sapphire and alexandrite «lasers» defined in items 0B001.g.5, 0B001.h.6 and 6A005.c.1.* | 6A005.c.1 |
+| II.A6.008 | Neodymium-doped (other than glass) «lasers», having an output wavelength greater than 1 000 nm but not exceeding 1 100 nm and output energy exceeding 10 J per pulse.<br>*Note: This item does not cover neodymium-doped (other than glass) «lasers» defined in item 6A005.c.2.b.* | 6A005.c.2 |
+| II.A6.009 | Components of acousto-optics, as follows:<br>a. Framing tubes and solid-state imaging devices having a recurrence frequency equal to or exceeding 1 kHz;<br>b. Recurrence frequency supplies; or<br>c. Pockels cells. | 6A203.b.4.c |
+| II.A6.010 | Radiation-hardened cameras, or lenses thereof, other than those specified in 6A203.c., specially designed, or rated as radiation-hardened, to withstand a total radiation dose greater than 50 × 103 Gy (silicon) (5 × 106 rad (silicon)) without operational degradation.<br>*Technical Note:*<br>*The term Gy(silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionising radiation.* | 6A203.c |
+| II.A6.011 | «Tunable» pulsed dye laser amplifiers and oscillators, having all of the following characteristics:<br>a. Operating at wavelengths between 300 nm and 800 nm;<br>b. An average output power greater than 10 W but not exceeding 30 W;<br>c. A repetition rate greater than 1 kHz; and<br>d. Pulse width less than 100 ns.<br>*Notes:*<br>*1. This item does not cover single mode oscillators.*<br>*2. This item does not cover «tunable» pulsed dye «laser» amplifiers and oscillators defined in item 6A205.c, 0B001.g.5 and 6A005.* | 6A205.c |
+| II.A6.012 | Pulsed carbon dioxide «lasers» having all of the following characteristics:<br>1. Operating at wavelengths between 9 000 nm and 11 000 nm;<br>2. A repetition rate greater than 250 Hz;<br>3. An average output power greater than 100 W but not exceeding 500 W; and<br>4. Pulse width less than 200 ns.<br>*Note: This item does not cover pulsed carbon dioxide «laser» amplifiers and oscillators defined in item 6A205.d., 0B001.h.6. and 6A005.d.* | 6A205.d |
+| II.A6.013 | Copper vapour «lasers» having both of the following characteristics:<br>1. Operating at wavelengths between 500 and 600 nm; and<br>2. An average output power equal to or greater than 15 W. | 6A005.b |
+| II.A6.014 | Pulsed carbon monoxide «lasers» having all of the following characteristics:<br>1. Operating at wavelengths between 5 000 and 6 000 nm;<br>2. A repetition rate greater than 250 Hz;<br>3. An average output power greater than 100 W; and<br>4. Pulse width of less than 200 ns.<br>*Note: This item does not control the higher power (typically 1 to 5 kW) industrial carbon monoxide «lasers» used in applications such as cutting and welding, as these latter «lasers» are either continuous wave or are pulsed with a pulse width greater than 200 ns.* |  |
+
+| *A7. Navigation and Avionics* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A7.001 | Inertial navigation systems and specially designed components thereof, as follows:<br>I. Inertial navigation systems which are certified for use on «civil aircraft» by civil authorities of a State participating in the Wassenaar Arrangement, and specially designed components thereof, as follows:<br>a. Inertial navigation systems (INSs) (gimballed or strapdown) and inertial equipment designed for «aircraft», land vehicle, vessels (surface or underwater) or «spacecraft» for attitude, guidance or control, having any of the following characteristics, and specially designed components thereof:<br>1. Navigation error (free inertial) subsequent to normal alignment of 0,8 nautical mile per hour (nm/hr) «Circular Error Probable»«(CEP)» or less (better); or<br>2. Specified to function at linear acceleration levels exceeding 10 g;<br>b. Hybrid Inertial Navigation Systems embedded with Global Navigation Satellite Systems(s) (GNSS) or with «Data-Based Referenced Navigation» («DBRN») System(s) for attitude, guidance or control, subsequent to normal alignment, having an INS navigation position accuracy, after loss of GNSS or «DBRN» for a period of up to four minutes, of less (better) than 10 metres «CEP»;<br>c. Inertial Equipment for Azimuth, Heading, or North Pointing having any of the following characteristics, and specially designed components thereof:<br>1. Designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc/ minutes RMS at 45 degrees latitude; or<br>2. Designed to have a non-operating shock level of at least 900 g at a duration of at least 1 msec.<br>*Note: The parameters of I.a. and I.b. are applicable with any of the following environmental conditions:*<br>*1. Input random vibration with an overall magnitude of 7,7 g rms in the first half hour and a total test duration of one and a half hours per axis in each of the three perpendicular axes, when the random vibration meets the following:*<br>*a. A constant power spectral density (PSD) value of 0,04 g2/Hz over a frequency interval of 15 to 1 000 Hz; and*<br>*b. The PSD attenuates with a frequency from 0,04 g2/Hz to 0,01 g2/Hz over a frequency interval from 1 000 to 2 000 Hz;*<br>*2. A roll and yaw rate equal to or greater than +2,62 radian/s (150 deg/s); or*<br>*3. According to national standards equivalent to 1. or 2. above.*<br>*Technical Note:*<br>*I.b. refers to systems in which an INS and other independent navigation aids are built into a single unit (embedded) in order to achieve improved performance.*<br>II. Theodolite systems incorporating inertial equipment specially designed for civil surveying purposes and designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc minutes RMS at 45 degrees latitude, and specially designed components thereof.<br>III. Inertial or other equipment using accelerometers specified in 7A001 or 7A101, where such accelerometers are specially designed and developed as MWD (Measurement While Drilling) sensors for use in downhole well services operations. | 7A003<br>7A103 |
+
+| *A9. Aerospace and Propulsion* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| II.A9.001 | Explosive bolts. | – |
+
 ### II.B. TECHNOLOGY
 
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| --- | --- | --- |
+| II.B.001 | Technology required for the development, production, or use of the items in Part II.A. (Goods) above.<br>*Technical Note:*<br>*The term «technology» includes software.* | – |
+
 ### Vedlegg IIa til Vedlegg B. Varer og teknologi nevnt i artikkel 3(1), 3(3) og 3(5), artikkel 5(2), artikkel 8(4), artikkel 18(1), artikkel 31(1) og artikkel 45
+
+*INTRODUCTORY NOTES*
 
 1. Unless otherwise stated, reference numbers used in the column below entitled «Description» refer to the descriptions of dual use items and technology set out in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
 2. A reference number in the column below entitled «Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)» means that the characteristics of the item described in the «Description» column lie outside the parameters set out in the description of the dual use entry referred to.
 3. Definitions of terms between «single quotation marks» are given in a technical note to the relevant item.
 4. Definitions of terms between «double quotation marks» can be found in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
 
-1. The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components is/are the principal element of the goods and can feasibly be removed or used for other purposes.*N.B.: In judging whether the controlled component or components is/are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured.*
+*GENERAL NOTES*
+
+1. The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components is/are the principal element of the goods and can feasibly be removed or used for other purposes. *N.B.: In judging whether the controlled component or components is/are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured.*
 2. The goods specified in this Annex include both new and used goods.
+
+*GENERAL TECHNOLOGY NOTE (GTN)*
 
 1. The sale, supply, transfer or export of «technology» which is «required» for the «use» of goods the sale, supply, transfer or export of which is controlled in Part A (Goods) below, is controlled in accordance with the provisions of Section III.B.
 2. The sale, supply, transfer or export of «technology» which is «required» for the «development» or «production» of goods the sale, supply, transfer or export of which is controlled in Part A (Goods) below, is prohibited in accordance with the provisions of Annex II, Section II.B.
@@ -859,7 +1040,70 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 ### III.A. GOODS
 
+| *A0. Nuclear Materials, Facilities, and Equipment* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A0.015 | «Glove Boxes», specially designed for radioactive isotopes, radioactive sources or radionuclides.<br>*Technical Note:*<br>*«Glove Boxes» means equipment providing protection to the user, from hazardous vapour, particles or radiation, from materials inside the equipment being handled or processed by a person outside the equipment, by means of manipulators or gloves integrated into the equipment.* | 0B006 |
+| III.A0.016 | Toxic gas monitoring systems designed for continuous operation and detection of hydrogen sulphide, and specially designed detectors therefore. | 0A001<br>0B001.c |
+| III.A0.017 | Helium leak detectors. | 0A001<br>0B001.c |
+
+| *A1. Materials, chemicals, «micro-organisms» and «toxins»* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A1.003 | Ring-shaped seals and gaskets, having an inner diameter of 650 mm or less, made of any of the following materials:<br>a. Copolymers of vinylidene fluoride having 75 % or more beta crystalline structure without stretching;<br>b. Fluorinated polyimides containing 10 % by weight or more of combined fluorine;<br>c. Fluorinated phosphazene elastomers containing 30 % by weight or more of combined fluorine;<br>d. Polychlorotrifluoroethylene (PCTFE, e.g. Kel-F ®);<br>e. Fluoro-elastomers (e.g. Viton ®, Tecnoflon ®);<br>f. Polytetrafluoroethylene (PTFE). |  |
+| III.A1.004 | Personal equipment for detecting radiation of nuclear origin, including personal dosimeters.<br>*Note: This item does not cover nuclear detection systems defined in item 1A004.c.* | 1A004.c |
+| III.A1.020 | Steel alloys in sheet or plate form, having any of the following characteristics:<br>(a) Steel alloys «capable of» ultimate tensile strength of 1 200 MPa or more, at 293 K (20 °C); or<br>(b) Nitrogen-stabilised duplex stainless steel.<br>*Note: The phrase alloys «capable of» encompasses alloys before or after heat treatment.*<br>*Technical Note:*<br>*«Nitrogen-stabilised duplex stainless steel» has a two-phase microstructure consisting of grains of ferritic and austenitic steel with the addition of nitrogen to stabilise the microstructure.* | 1C116<br>1C216 |
+| III.A1.021 | Carbon-Carbon composite material. | 1A002.b.1 |
+| III.A1.022 | Nickel alloys in crude or semi-fabricated form, containing 60 % by weight or more nickel. | 1C002.c.1.a |
+| III.A1.023 | Titanium alloys in sheet or plate form «capable of» an ultimate tensile strength of 900 MPa or more at 293 K (20 °C).<br>*Note: The phrase alloys «capable of» encompasses alloys before or after heat treatment.* | 1C002.b.3 |
+| III.A1.024 | Propellants and constituent chemicals for propellants as follows:<br>a. Toluene Diisocyanate (TDI);<br>b. Methyl Diphenyl Diisocyanate (MDI);<br>c. Isophorone Diiscocyanate (IPDI);<br>d. Sodium perchlorate;<br>e. Xylidine;<br>f. Hydroxy Terminated Polyether (HTPE); or<br>g. Hydroxy Terminated Caprolactone Ether (HTCE).<br>*Technical Note:*<br>*This item refers to pure substance and any mixture containing at least 50 % of one of the chemicals mentioned above.* | 1C111 |
+| III.A1.025 | «Lubricating materials» containing, as their principal ingredients, any of the following:<br>a. Perfluoroalkylether, (CAS 60164-51-4);<br>b. Perfluoropolyalkylether, PFPE, (CAS 6991-67-9).<br>*Technical Note:*<br>*«Lubricating materials» means oils and fluids.* | 1C006 |
+| III.A1.026 | Beryllium-copper or copper-beryllium alloys in plate, sheet, strip or rolled bar form, having a composition comprising copper as the major element by weight and other elements including less than 2 % by weight beryllium. | 1C002.b |
+
+| *A2. Materials Processing* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A2.008 | Liquid-liquid contacting equipment (mixer-settlers, pulsed columns, centrifugal contactors); and liquid distributors, vapour distributors or liquid collectors designed for such equipment, where all surfaces that come in direct contact with the chemical(s) being processed are made from stainless steel.<br>*N.B. see also II.A2.014.*<br>*Note: for stainless steel with more than 25 % nickel and 20 % chromium by weight see entry II.A2.014.a* | 2B350.e |
+| III.A2.009 | Industrial equipment and components, other than those specified in 2B350.d, as follows:<br>*N.B. see also II.A2.015.*<br>Heat exchangers or condensers with a heat transfer surface area greater than 0,05 m2, and less than 30 m2; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) are made from stainless steel.<br>*Note 1: For stainless steel with more than 25 % nickel and 20 % chromium by weight see entry II.A2.015a.*<br>*Note 2: This item does not cover vehicle radiators.*<br>*Technical Note:*<br>*The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the heat exchanger.* | 2B350.d |
+| III.A2.010 | Multiple-seal, and seal-less pumps, other than those specified in 2B350.i, suitable for corrosive fluids, with manufacturer’s specified maximum flow-rate greater than 0,6 m3/hour, or vacuum pumps with manufacturer’s specified maximum flow-rate greater than 5 m3/hour [measured under standard temperature (273 K or 0 °C) and pressure (101,3 kPa) conditions]; and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from stainless steel.<br>*N.B. see also II.A2.016.*<br>*Note: for stainless steel with more than 25 % nickel and 20 % chromium by weight see entry II.A2.016a.*<br>*Technical Note:*<br>*The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the pump.* | 2B350.i |
+| III.A2.017 | Electrical Discharge Machine (EDM) tools for removing or cutting metals, ceramics or «composites», as follows, and specially designed ram, sinker or wire electrodes therefor:<br>a. Ram or sinker electrode Electrical Discharge Machines;<br>b. Wire electrode Electrical Discharge Machines.<br>*Note: Electrical Discharge Machines are also known as Spark Erosion Machines or Wire Erosion Machines.* | 2B001.d |
+| III.A2.018 | Computer controlled or «numerically controlled» co-ordinate measuring machines (CMM), or dimensional inspection machines, having a three dimensional (volumetric) maximum permissible error of indication (MPPE) at any point in the operating range of the machine (i.e. within the length axes) equal to or less (better) than (3 + L/1 000 ) μm (L is the measured length in mm), tested according to ISO 10360-2 (2001), and measurement probes designed therefor. | 2B006.a<br>2B206.a |
+| III.A2.019 | Computer controlled or «numerically controlled» Electron Beam Welding Machines, and specially designed components therefor. | 2B001.e.1.b |
+| III.A2.020 | Computer controlled or «numerically controlled» Laser Welding and Laser Cutting Machines, and specially designed components therefor. | 2B001.e.1.c |
+| III.A2.021 | Computer controlled or «numerically controlled» Plasma Cutting Machines, and specially designed components therefor. | 2B001.e.1 |
+| III.A2.022 | Vibration Monitoring Equipment specially designed for rotors or rotating equipment and machinery, capable of measuring any frequency in the range 600-2 000 Hz. | 2B116 |
+| III.A2.023 | Liquid ring vacuum pumps, and specially designed components therefore. | 2B231<br>2B350.i |
+| III.A2.024 | Rotary vane vacuum pumps, and specially designed components therefore.<br>*Note 1: III.A2.024 does not control rotary vane vacuum pumps that are specially designed for specific other equipment.*<br>*Note 2: The control status of rotary vane vacuum pumps that are specially designed for specific other equipment is determined by the control status of the other equipment.* | 2B231<br>2B235.i<br>0B002.f |
+| III.A2.025 | Air filters, as follows, having one or more physical size dimension exceeding 1 000 mm:<br>a. High Efficiency Particulate Air (HEPA) filters;<br>b. Ultra-Low Penetration Air (ULPA) filters.<br>*Note: III.A2.025 does not control air filters specially designed for medical equipment.* | 2B352.d |
+
+| *A3. Electronics* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A3.004 | Spectrometers and diffractometers, designed for the indicative test or quantitative analysis of the elemental composition of metals or alloys without chemical decomposition of the material. |  |
+| III.A3.005 | «Frequency changers», frequency generators and variable speed electrical drives, having all the following characteristics:<br>a. Multiphase output power of 10 W or greater;<br>b. Capable of operating at a frequency of 600 Hz or more; and<br>c. Frequency control better (less) than 0,2 %.<br>*Technical Note:*<br>*«Frequency Changers» includes frequency converters and frequency inverters.*<br>*Notes:*<br>*1. Item III.A3.005 does not control frequency changers that include communication protocols or interfaces designed for specific industrial machinery (such as machine tools, spinning machines, printed circuit board machines) so that the frequency changers cannot be used for other purposes while meeting the performance characteristics above.*<br>*2. Item III.A3.005 does not control frequency changers specially designed for vehicles and which operate with a control sequence that is mutually communicated between the frequency changer and the vehicle control unit.* | 3A225<br>0B001.b.13 |
+
+| *A6. Sensors and Lasers* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to Regulation (EU)* 2021/821 |
+| III.A6.012 | «Vacuum pressure gauges», being electrically powered and having measurement accuracy of 5 % or less (better).<br>*Technical Note:*<br>*«Vacuum pressure gauges» include Pirani Gauges, Penning Gauges and Capacitance Manometers.* | 0B001.b |
+| III.A6.013 | Microscopes and related equipment and detectors, as follows:<br>a. Scanning Electron Microscopes;<br>b. Scanning Auger Microscopes;<br>c. Transmission Electron Microscopes;<br>d. Atomic Force Microscopes;<br>e. Scanning Force Microscopes;<br>f. Equipment and detectors, specially designed for use with the microscopes specified in III.A6.013 a) to e) above, employing any of the following materials analysis techniques:<br>1. X-ray Photo Spectroscopy (XPS);<br>2. Energy-dispersive X-ray Spectroscopy (EDX, EDS); or<br>3. Electron Spectroscopy for Chemical Analysis (ESCA). | 6B |
+
+| *A7. Navigation and Avionics* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A7.002 | Accelerometers containing piezoelectric ceramic transducer element, having a sensitivity of 1 000 mV/g or better (higher) | 7A001 |
+
+| *A9. Aerospace and Propulsion* |  |  |
+| --- | --- | --- |
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| III.A9.002 | «Load Cells» capable of measuring rocket motor thrust having a capacity exceeding 30 kN.<br>*Technical Note:*<br>*«Load Cells» means devices and transducers for the measurement of force in both tension and in compression.*<br>*Note: III.A9.002 does not include equipment, devices or transducers, specially designed for the measurement of the weight of vehicles, e.g. weigh bridges.* | 9B117 |
+| III.A9.003 | Electrical power generation gas turbines, components and related equipment as follows:<br>a. Gas turbines specially designed for electrical power generation, having an output exceeding 200 MW;<br>b. Vanes, stators, combustion chambers and fuel injection nozzles, specially designed for electrical power generation gas turbines specified in III.A9.003.a;<br>c. Equipment specially designed for the «development» and «production» of electrical power generation gas turbines specified in III. A9.003.a. | 9A001<br>9A002<br>9A003<br>9B001<br>9B003<br>9B004 |
+
 ### III.B. TECHNOLOGY
+
+| *No* | *Description* | *Related item from Annex I to [Regulation (EU) 2021/821](eu/32021r0821)* |
+| --- | --- | --- |
+| III.B.001 | «Technology» required for the use of the items in Part III.A. (Goods) above.<br>*Technical Note:*<br>*The term «technology» includes software.* |  |
 
 ### Vedlegg III til Vedlegg B. Kategori 1 – spesielle materialer og relatert utstyr
 
@@ -867,50 +1111,144 @@ For å lese vedlegg III, se her: [pdf-fil](static/SF/sf-20070209-0149-vb-v3-01-0
 
 ### Vedlegg IV til Vedlegg B. Liste over «råolje og petroleumsprodukter» nevnt i artikkel 11 og 31(1)
 
+| *HS code* | *Description* |
+| --- | --- |
+| 2709 00 | Petroleum oils and oils obtained from bituminous minerals, crude. |
+| 2710 | Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils (save that the purchase, in Iran, of kerosene jet fuel of CN code 2710 19 21 is not prohibited provided that it is intended and used solely for the purpose of the continuation of the flight operation of the aircraft into which it is loaded). |
+| 2712 | Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured. |
+| 2713 | Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals. |
+| 2714 | Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks. |
+| 2715 00 00 | Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs).’; |
+
 ### Vedlegg IVa til Vedlegg B. Produkter nevnt i artikkel 14a og artikkel 31(1) Naturgass og andre gassformige hydrokarboner
+
+| *HS code* | *Description* |
+| --- | --- |
+| 2709 00 10 | Natural gas condensates |
+| 2711 11 00 | Natural Gas – in liquefied state |
+| 2711 21 00 | Natural Gas – in gaseous state |
+| 2711 12 | Propane |
+| 2711 13 | Butanes |
+| 2711 19 00 | Other liquefied petroleum gases |
 
 ### Vedlegg V til Vedlegg B. Liste over «petrokjemiske produkter» nevnt i artikkel 13 og artikkel 31(1)
 
+| *HS code* | *Description* |
+| --- | --- |
+| 2812 11 00 | Phosgene (carbonyl chloride) |
+| 2814 | Ammonia |
+| 2901 21 00 | Ethylene |
+| 2901 22 00 | Propene (propylene) |
+| 2902 20 00 | Benzene |
+| 2902 30 00 | Toluene |
+| 2902 41 00 | *o*-Xylene |
+| 2902 42 00 | *m*-Xylene |
+| 2902 43 00 | *p*-Xylene |
+| 2902 44 00 | Mixed xylene isomers |
+| 2902 50 00 | Styrene |
+| 2902 60 00 | Ethyl benzene |
+| 2902 70 00 | Cumene |
+| 2903 11 00 | Chloromethane (methyl chloride) and chloroethane (ethyl chloride) |
+| 2903 29 00 | Unsaturated chlorinated derivatives of acyclic hydrocarbons – other |
+| 2903 81 00 | 1,2,3,4,5,6-Hexachlorocyclohexane (HCH (ISO)), including lindane (ISO, INN) |
+| 2903 82 00 | Aldrin (ISO), chlordane (ISO) and heptachlor (ISO) |
+| 2903 89 70 | – Halogenated derivatives of cyclanic, cyclenic or cycloterpenic hydrocarbons; -- Other; --- Other |
+| 2903 91 00 | Chlorobenzene, o-dichlorobenzene and p-dichlorobenzene |
+| 2903 92 00 | Hexachlorobenzene (ISO) and DDT (ISO) [clofenotane (DCI), 1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane] |
+| 2903 99 80 | – Halogenated derivatives of aromatic hydrocarbons; -- Other; --- Other |
+| 2905 11 00 | Methanol (methyl alcohol) |
+| 2905 12 00 | Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol) |
+| 2905 13 00 | Butan-1-ol (n-butyl alcohol) |
+| 2905 31 00 | Ethylene glycol (ethanediol) |
+| 2907 11 – 2907 19 | Phenols |
+| 2909 | Ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives |
+| 2909 41 00 | 2, 2′-Oxydiethanol (diethylene glycol, digol) |
+| 2909 43 00 | Monobutyl ethers of ethylene-glycol or diethylene glycol |
+| 2909 44 00 | Other monoalkyl ethers of ethylene-glycol or diethylene glycol |
+| 2909 49 | Other ether-alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives |
+| 2910 10 00 | Oxirane (ethylene oxide) |
+| 2910 20 00 | Methyloxirane (propylene oxide) |
+| 2914 11 00 | Acetone |
+| 2917 14 00 | Maleic anhydride (MA) |
+| 2917 35 00 | Phthalic anhydride (PA) |
+| 2917 36 00 | Terephthalic acid and its salts |
+| 2917 37 00 | Dimethyl terephthalate (DMT) |
+| 2926 10 00 | Acrylonitrile |
+| ex 2929 10 00 | Methylene diphenyl diisocyanate (MDI) |
+| ex 2929 10 00 | Hexamethylene diisocyanate (HDI) |
+| ex 2929 10 00 | Toluene diisocyanate (TDI) |
+| 3102 30 | Ammonium Nitrate |
+| 3901 | Polymers of ethylene, in primary forms |
+
+| *HS code* | *Description* |
+| --- | --- |
+| 2707 10 00 | Benzol (benzene) |
+| 2707 20 00 | Toluol (toluene) |
+| 2707 30 00 | Xylol (xylenes) |
+| 2707 40 00 | Naphthalene |
+| 2707 99 80 | Phenols |
+| 2711 14 00 | Ethylene, propylene, butadiene |
+
 ### Vedlegg VI til Vedlegg B. Liste over nøkkelutstyr og -teknologi nevnt i artikkel 8 og 31(1)
 
-1. The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes.*N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.*
+*GENERAL NOTES*
+
+1. The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes. *N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.*
 2. The goods specified in this Annex include both new and used goods.
 3. Definitions of terms between «single quotation marks» are given in a technical note to the relevant item.
 4. Definitions of terms between «double quotation marks» can be found in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
+
+*GENERAL TECHNOLOGY NOTE (GTN)*
 
 1. The «technology» «required» for the «development», «production» or «use» of prohibited goods remains under prohibition even when applicable to non-prohibited goods.
 2. Prohibitions do not apply to that «technology» which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not prohibited or the export of which has been authorised in accordance with [Regulation (EC) No 423/2007](eu/32007r0423), [Regulation (EU) No 961/2010](eu/32010r0961) or this Regulation.
 3. Prohibitions on «technology» transfer do not apply to information «in the public domain», to «basic scientific research» or to the minimum necessary information for patent applications.
 
+*EXPLORATION AND PRODUCTION OF CRUDE OIL AND NATURAL GAS*
+
+*1.A Equipment*
+
 1. Geophysical survey equipment, vehicles, vessels and aircraft specially designed or adapted to acquire data for oil and gas exploration and specially designed components therefore.
 2. Sensors specially designed for downhole well operations in oil and gas wells, including sensors used for measurement whilst drilling and the associated equipment specially designed to acquire and store data from such sensors.
 3. Drilling equipment designed to drill rock formations, specifically for the purpose of exploring for, or producing oil, gas and other naturally occurring, hydrocarbon materials.
 4. Drill bits, drill pipes, drill collars, centralisers and other equipment, specially designed for use in and with oil and gas well drilling equipment.
-5. Drilling wellheads, «blowout preventers» and «Christmas or production trees» and the specially designed components thereof, meeting the «API and ISO specifications» for use with oil and gas wells.Technical Notes:A «blowout preventer» is a device typically used at ground level (or if drilling underwater, at the seabed) during drilling to prevent the uncontrolled escape of oil and/or gas from the well.A «Christmas tree or production tree» is a device typically used to control flow of fluids from the well when it is complete and oil and/or gas production has started.For the purpose of this item, «API and ISO specifications» refers to the American Petroleum Institute specifications 6A, 16A, 17D and 11IW and/or the International Standards Organisation specifications 10423 and 13533 for blowout preventers, wellhead and Christmas trees for use on oil and/or gas wells.
+5. Drilling wellheads, «blowout preventers» and «Christmas or production trees» and the specially designed components thereof, meeting the «API and ISO specifications» for use with oil and gas wells. Technical Notes:A «blowout preventer» is a device typically used at ground level (or if drilling underwater, at the seabed) during drilling to prevent the uncontrolled escape of oil and/or gas from the well. A «Christmas tree or production tree» is a device typically used to control flow of fluids from the well when it is complete and oil and/or gas production has started. For the purpose of this item, «API and ISO specifications» refers to the American Petroleum Institute specifications 6A, 16A, 17D and 11IW and/or the International Standards Organisation specifications 10423 and 13533 for blowout preventers, wellhead and Christmas trees for use on oil and/or gas wells.
 6. Drilling and production platforms for crude oil and natural gas.
 7. Vessels and barges incorporating drilling and/or petroleum processing equipment used for producing oil, gas and other naturally occurring flammable materials.
 8. Liquid/gas separators meeting API specification 12J, specially designed to process the production from an oil or gas well, to separate the petroleum liquids from any water and any gas from the liquids.
 9. Gas compressor with a design pressure of 40 bar (PN 40 and/or ANSI 300) or more and having a suction volume capacity of 300 000 Nm3/h or more, for the initial processing and transmission of natural gas, excluded gas compressors for CNG (Compressed Natural Gas) filling stations, and specially designed components therefore.
-10. Subsea production control equipment and the components thereof meeting «API and ISO specifications» for use with oil and gas wells.*Technical Note:**For the purposes of this entry, «API and ISO specifications» refers to the American Petroleum Institute specification 17 F and/or the International Standards Organisation specification 13268 for subsea production control systems.*
+10. Subsea production control equipment and the components thereof meeting «API and ISO specifications» for use with oil and gas wells. *Technical Note:* *For the purposes of this entry, «API and ISO specifications» refers to the American Petroleum Institute specification 17 F and/or the International Standards Organisation specification 13268 for subsea production control systems.*
 11. Pumps, typically high capacity and/or high pressure (in excess of 0,3 m3 per minute and/or 40 bar), specially designed to pump drilling muds and/or cement into oil and gas wells.
+
+*1.B Test and inspection equipment*
 
 1. Equipment specially designed for sampling, testing and analysing the properties of drilling mud, oil well cements and other materials specially designed and/or formulated for use in oil and gas wells.
 2. Equipment specially designed for sampling, testing and analysing the properties of rock samples, liquid and gaseous samples and other materials taken from an oil and/or gas well either during or after drilling, or from the initial processing facilities attached thereto.
 3. Equipment specially designed for collecting and interpreting information about the physical and mechanical condition of an oil and/or gas well, and for determining the in situ properties of the rock and reservoir formation.
 
+*1.C Materials*
+
 1. Drilling mud, drilling mud additives and the components thereof, specially formulated to stabilise oil and gas wells during drilling, to recover drill cuttings to the surface and to lubricate and cool the drilling equipment in the well.
-2. Cements and other materials meeting the «API and ISO specifications» for use in oil and gas wells.*Technical Note:**«API and ISO specification» refers to the American Petroleum Institute specification 10A or the International Standards Organisation specification 10426 for oil well cements and other materials specially formulated for use in the cementing of oil and gas wells.*
+2. Cements and other materials meeting the «API and ISO specifications» for use in oil and gas wells. *Technical Note:* *«API and ISO specification» refers to the American Petroleum Institute specification 10A or the International Standards Organisation specification 10426 for oil well cements and other materials specially formulated for use in the cementing of oil and gas wells.*
 3. Corrosion inhibiting, emulsion treatment, defoaming agents and other chemicals specially formulated to be used in the drilling for, and the initial processing of, petroleum produced from an oil and/or gas well.
+
+*1.D Software*
 
 1. «Software» specially designed to collect and interpret data acquired from seismic, electromagnetic, magnetic or gravity surveys for the purpose of establishing oil or gas prospectivity.
 2. «Software» specially designed for storing, analysing and interpreting information acquired during drilling and production to assess the physical characteristics and behaviour of oil or gas reservoirs.
 3. «Software» specially designed for the «use» of petroleum production and processing facilities or specific sub-units of such facilities.
 
+*1.E Technology*
+
 1. «Technology» «required» for the «development», «production» and «use» of equipment specified in 1.A.01 – 1.A.11.
 
-1. Heat exchangers as follows and specially designed components therefore:Plate-fin heat exchangers with a surface/volume ratio greater than 500 m2/m3, specially designed for pre-cooling of natural gas;Coil-wound heat exchangers specially designed for liquefaction or sub-cooling of natural gas.
+*REFINING OF CRUDE OIL AND LIQUEFACTION OF NATURAL GAS*
+
+*2.A Equipment*
+
+1. Heat exchangers as follows and specially designed components therefore:Plate-fin heat exchangers with a surface/volume ratio greater than 500 m2/m3, specially designed for pre-cooling of natural gas; Coil-wound heat exchangers specially designed for liquefaction or sub-cooling of natural gas.
 2. Cryogenic pumps for the transport of media at a temperature below – 120 °C having a transport capacity of more than 500 m3/h and specially designed components therefore.
-3. «Coldbox» and «coldbox» equipment not specified by 2.A.1.*Technical Note:**«Coldbox» equipment refers to a specially designed construction, which is specific for LNG plants and incorporates the process stage of liquefaction. The «coldbox» comprises heat exchangers, piping, other instrumentation and thermal insulators. The temperature inside the «coldbox» is below – 120 °C (conditions for condensation of natural gas). The function of the «coldbox» is the thermal insulation of the above described equipment.*
+3. «Coldbox» and «coldbox» equipment not specified by 2.A.1. *Technical Note:* *«Coldbox» equipment refers to a specially designed construction, which is specific for LNG plants and incorporates the process stage of liquefaction. The «coldbox» comprises heat exchangers, piping, other instrumentation and thermal insulators. The temperature inside the «coldbox» is below – 120 °C (conditions for condensation of natural gas). The function of the «coldbox» is the thermal insulation of the above described equipment.*
 4. Equipment for shipping terminals of liquefied gases having a temperature below – 120 °C and specially designed components therefore.
 5. Flexible and non-flexible transfer line having a diameter greater than 50 mm for the transport of media below – 120 °C.
 6. Maritime vessels specially designed for the transport of LNG.
@@ -920,59 +1258,242 @@ For å lese vedlegg III, se her: [pdf-fil](static/SF/sf-20070209-0149-vb-v3-01-0
 10. Catalytic reformers specially designed for conversion of desulphurised gasoline into high-octane gasoline, and specially designed components therefore.
 11. Refinery units for C5-C6 cuts isomerisation, and refinery units for alkylation of light olefins, to improve the octane index of the hydrocarbon cuts.
 12. Pumps specially designed for the transport of crude oil and fuels, having a capacity of 50 m3/h or more and specially designed components therefore.
-13. Tubes with an outer diameter of 0,2 m or more and made from any of the following materials:Stainless steels with 23 % chromium or more by weight;Stainless steels and nickel bases alloys with a «Pitting resistance equivalent» number higher than 33.*Technical Note:**«Pitting resistance equivalent» (PRE) number characterises the corrosion resistance of stainless steels and nickel alloys to pitting or crevice corrosion. The pitting resistance of stainless steels and nickel alloys is primarily determined by their compositions, primarily: chromium, molybdenum, and nitrogen. The formula to calculate the PRE number is: PRE = % Cr +3,3 * % Mo + 30 * % N*
+13. Tubes with an outer diameter of 0,2 m or more and made from any of the following materials:Stainless steels with 23 % chromium or more by weight; Stainless steels and nickel bases alloys with a «Pitting resistance equivalent» number higher than 33. *Technical Note:* *«Pitting resistance equivalent» (PRE) number characterises the corrosion resistance of stainless steels and nickel alloys to pitting or crevice corrosion. The pitting resistance of stainless steels and nickel alloys is primarily determined by their compositions, primarily: chromium, molybdenum, and nitrogen. The formula to calculate the PRE number is: PRE = % Cr +3,3 \* % Mo + 30 \* % N*
 14. «Pigs» (Pipeline Inspection Gauge(s)) and specially designed components therefore.
-15. «Pig» launchers and «pig» catchers for the integration or removing of «pigs»*Technical Note:**«Pig» is a device typically used for cleaning or inspection of a pipeline from inside (corrosion state or crack formation) and is propelled by the pressure of the product in the pipeline.*
-16. Tanks for the storage of crude oil and fuels with a volume greater than 1 000 m3 (1 000 000 litres) as follows, and specially designed components therefore:fixed roof tanks;floating roof tanks.
+15. «Pig» launchers and «pig» catchers for the integration or removing of «pigs» *Technical Note:* *«Pig» is a device typically used for cleaning or inspection of a pipeline from inside (corrosion state or crack formation) and is propelled by the pressure of the product in the pipeline.*
+16. Tanks for the storage of crude oil and fuels with a volume greater than 1 000 m3 (1 000 000 litres) as follows, and specially designed components therefore:fixed roof tanks; floating roof tanks.
 17. Subsea flexible pipes specially designed for the transportation of hydrocarbons and injection fluids, water or gas, having a diameter greater than 50 mm.
 18. Flexible pipes used for high pressure for topside and subsea application.
 19. Isomeration equipment specially designed for production of high-octane gasoline based on light hydrocarbons as feed, and specially designed components therefore.
 
+*2.B Test and inspection equipment*
+
 1. Equipment specially designed for testing and analysing of quality (properties) of crude oil and fuels.
 2. Interface control systems specially designed for controlling and optimising of the desalting process.
+
+*2.C Materials*
 
 1. Diethyleneglycol (CAS 111-46-6), triethylene glycol (CAS 112-27-6)
 2. N-Methylpyrrolidone (CAS 872-50-4), sulfolane (CAS 126-33-0)
 3. Zeolites, of natural or synthetic origin, specially designed for fluid catalytic cracking or for the purification and/or dehydration of gases, including natural gases.
-4. Catalysts for the cracking and conversion of hydrocarbons as follows:Single metal (platinum group) on alumina type or on zeolite, specially designed for catalytic reforming process;Mixed metal species (platinum in combination with other noble metals) on alumina type or on zeolite, specially designed for catalytic reforming process;Cobalt and nickel catalysts doped with molybdenum on alumina type or on zeolite, specially designed for catalytic desulphurisation process;Palladium, nickel, chromium and tungsten catalysts on alumina type or on zeolite, specially designed for catalytic hydrocracking process.
+4. Catalysts for the cracking and conversion of hydrocarbons as follows:Single metal (platinum group) on alumina type or on zeolite, specially designed for catalytic reforming process; Mixed metal species (platinum in combination with other noble metals) on alumina type or on zeolite, specially designed for catalytic reforming process; Cobalt and nickel catalysts doped with molybdenum on alumina type or on zeolite, specially designed for catalytic desulphurisation process; Palladium, nickel, chromium and tungsten catalysts on alumina type or on zeolite, specially designed for catalytic hydrocracking process.
 5. Gasoline additives specially formulated for increasing the octane number of gasoline.
+
+*Note:*
+
+*This entry includes Ethyl tertiary butyl ether (ETBE) (CAS 637-92-3) and Methyl tertiary butyl ether (MTBE) (CAS 1634-04-4).*
+
+*2.D Software*
 
 1. «Software» specially designed for the «use» of LNG plants or specific sub-units of such plants.
 2. «Software» specially designed for the «development», «production» or «use» of plants (including their sub-units) for oil refining.
+
+*2.E Technology*
 
 1. «Technology» «required» for the «development», «production» or «use» of equipment for the conditioning and purification of raw natural gas (dehydration, sweetening, removal of impurities).
 2. «Technology» for the liquefaction of natural gas, including «technology» required for the «development», «production» or «use» of LNG plants.
 3. «Technology» «required» for the «development», «production» or «use» of equipment for the shipment of liquefied natural gas.
 4. «Technology» «required» for the «development», «production» or «use» of maritime vessels specially designed for the transport of liquefied natural gas.
 5. «Technology» «required» for the «development», «production» or «use» of tanks for the storage of crude oil and fuels.
-6. «Technology» «required» for the «development», «production» or «use» of a refinery plant, such as:«Technology» for conversion of light olefin to gasoline;Catalytic reforming and isomerisation technology;Catalytic and thermal cracking technology.
+6. «Technology» «required» for the «development», «production» or «use» of a refinery plant, such as:«Technology» for conversion of light olefin to gasoline; Catalytic reforming and isomerisation technology; Catalytic and thermal cracking technology.
 
-1. *Reactors*specially designed for production of phosgene (CAS 75-44-5) and specially designed components therefor;for phosgenation specially designed for the production of HDI, TDI, MDI and specially designed components therefor, with the exception of secondary reactors;specially designed for low pressure (up to max 40 bar) polymerisation of ethylene and propylene and specially designed components therefore;specially designed for the thermal cracking of EDC (ethylene dichloride) and specially designed components therefor, with the exception of secondary reactors;specially designed for chlorination and oxychlorination in the production of vinyl chloride and specially designed components therefor, with the exception of secondary reactors;
+*PETROCHEMICAL INDUSTRY*
+
+*3.A Equipment*
+
+1. *Reactors*specially designed for production of phosgene (CAS 75-44-5) and specially designed components therefor; for phosgenation specially designed for the production of HDI, TDI, MDI and specially designed components therefor, with the exception of secondary reactors; specially designed for low pressure (up to max 40 bar) polymerisation of ethylene and propylene and specially designed components therefore; specially designed for the thermal cracking of EDC (ethylene dichloride) and specially designed components therefor, with the exception of secondary reactors; specially designed for chlorination and oxychlorination in the production of vinyl chloride and specially designed components therefor, with the exception of secondary reactors;
 2. Thin film evaporators and falling film evaporators consisting of materials resistant to hot concentrated acetic acid and specially designed components therefor, and the relevant software developed therefor;
 3. Plants for the separation of hydrochloric acid by electrolysis and specially designed components therefore, and the relevant software developed therefor;
 4. Columns having a diameter larger than 5 000 mm and specially designed components therefor;
 5. Ball valves and plug valves with ceramic balls or plugs, having a nominal diameter of 10 mm or more, and specially designed components therefor;
 6. Centrifugal and/or reciprocating compressor having an installed power above 2 MW and meeting specification API 617 or API 618;
 
+*3.B Test and inspection equipment*
+
+*3.C Materials*
+
 1. Catalysts applicable to processes of production of trinitrotoluene, ammonium nitrate and other chemical and petrochemical processes used for explosive manufacturing, and the relevant software developed therefor;
 2. Catalysts used for the production of monomers such as ethylene and propylene (steam cracking units and/or Gas to petrochemicals units), and the relevant software developed therefor;
 
+*3.D Software*
+
 1. «Software» specially designed for the «development», «production» or «use» of equipment specified in 3.A;
 2. «Software» specially designed for the «use» in methanol plants;
+
+*3.E Technology*
 
 1. «Technology» for the «development», «production» or «use» of Gas-To-Liquid (GTL) or Gas-To-Petrochemicals (GTP) processes or for GTL- or GTP- plants;
 2. «Technology» «required» for the «development», «production» or «use» of equipment designed for the manufacture of ammonia and methanol plants;
 3. «Technology» for the «production» of MEG (Mono ethylene glycol), EO (Ethylene oxide)/EG (Ethylene glycol)
 
+*Note:*
+
+*«Technology» means specific information necessary for the «development», «production» or «use» of goods. This information takes the form of «technical data» or «technical assistance».*
+
 ### Vedlegg VIa til Vedlegg B. Nøkkelutstyr og -teknologi nevnt i artikkel 8, 10(1)(c) og 31(1)
+
+| *HS code* | *Description* |
+| --- | --- |
+|  | ###– Casing, tubing and drill pipe, of a kind used in drilling for oil or gas: |
+| 7304 22 | – Drill pipe of stainless steel |
+| 7304 23 | – – Other drill pipe |
+| 7304 24 | – – Other, of stainless steel |
+| 7304 29 | – – Other |
+| ex ex ex 7305 | Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406,4 mm, of iron or steel, with a chrome content of 1 % or more and with a cold resistance that can go below – 120 °C |
+|  | – Line pipe of a kind used for oil or gas pipelines: |
+| 7306 11 – – Welded, of stainless steel |  |
+| 7306 19 – – Other |  |
+|  | – Casing and tubing of a kind used in drilling for oil or gas: |
+| 7306 21 00 | – – Welded, of stainless steel |
+| 7306 29 00 | – – Other |
+|  | Containers for compressed or liquefied gas, of iron or steel: |
+| 7311 00 99 | – Other, of a capacity of 1 000 l or more |
+| ex ex ex 7613 | Aluminium containers for compressed or liquefied gas, of a capacity of 1 000 l or more’; |
 
 ### Vedlegg VIb til Vedlegg B. Nøkkelutstyr og -teknologi nevnt i artikkel 10a, 10b, 10c og artikkel 31(1)
 
+| *HS code* | *Description* |
+| --- | --- |
+| 8406 10 | Steam and other vapour turbines for marine propulsion |
+| ex 8406 90 | Parts of steam turbines for marine propulsion |
+| 8407 21 | Marine propulsion engines, outboard motors |
+| ex 8407 29 | Marine propulsion engines, other |
+| 8408 10 | Marine propulsion engines |
+| ex 8409 91 00 | Parts suitable for use solely or principally with machines of subheadings 8407 21 or 8407 29 |
+| ex 8409 99 00 | Parts suitable for use solely or principally with machines of subheading 8408 10° |
+| ex 8411 81 | Other gas turbine of a power not exceeding 5 000 kW, for marine propulsion |
+| ex 8411 82 | Other gas turbines of a power exceeding 5 000 kW, for marine propulsion |
+| ex 8468 | Machinery and apparatus for soldering, brazing or welding whether or not capable of cutting, other than those of heading 8515; gas-operated surface tempering machines and appliances |
+| ex 8483 | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints), designed for the propulsion of vessels at the maximum possible deadweight tonnage at scantling draught of 55 000 dwt or more |
+| 8487 10 | Ships’ or boats’ propellers and blades therefor |
+| ex 8515 | Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets |
+| ex 9014 10 00 | Direction finding compasses, solely for the maritime industry |
+| ex 9014 80 00 | Other navigational instruments and appliances, solely for the maritime industry |
+| ex 9014 90 00 | Parts and accessories of subheadings 9014 10 00 and 9014 80 00, solely for the maritime industry |
+| ex 9015 | Surveying (including photogram metrical surveying), hydro graphic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders, solely for the maritime industry’ |
+
 ### Vedlegg VII til Vedlegg B. Liste over gull, edle metaller og diamanter nevnt i artikkel 15 og 31(1)
+
+| *HS code* | *Description* |
+| --- | --- |
+| 7102 | Diamonds, whether or not worked, but not mounted or set |
+| 7106 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
+| 7108 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+| 7109 | Base metals or silver, clad with gold, not further worked than semi-manufactured. |
+| 7110 | Platinum, unwrought or in semi-manufactured forms, or in powder form |
+| 7111 | Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured. |
+| 7112 | Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal’; |
 
 ### Vedlegg VIIa til Vedlegg B. Programvare for integrering av industrielle prosesser nevnt i artikkel 10d, 10e, 10f og 31(1)
 
+1\. Enterprise Resource Planning software, designed specifically for use in nuclear, military, gas, oil, navy, aviation, financial and construction industries.
+
+*Explanatory note: Enterprise Resource Planning software is software used for financial accounting, management accounting, human resources, manufacturing, supply chain management, project management, customer relationship management, data services, or access control.*
+
 ### Vedlegg VIIb til Vedlegg B. Grafitt, råmetall eller halvfabrikata av metall nevnt i artikkel 15a, 15b, 15c og artikkel 31(1)
+
+*Graphite and raw or semi-finished metals referred to in Articles 15a, 15b and 15c and Article 31(1)*
+
+Introductory note: The inclusion of goods in this Annex is without prejudice to the rules applicable to the goods included in Annexes I, II and III.
+
+| *1. Graphite* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 2504 | Natural graphite |
+| 3801 | Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semi-manufactures |
+| 6815 11 | Carbon fibres |
+| 6815 12 | Fabrics of carbon fibres |
+| 6815 13 | Other articles of carbon fibres |
+| 6815 19 | Other articles of graphite or other carbon for non-electrical uses |
+| 6903 10 | Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths, rods and slide gates), other than those of siliceous fossil meals or of similar siliceous earths: containing, by weight, more than 50 % of free carbon |
+| 8545 | Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes |
+
+| *2. Iron and Steel* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7201 | Pig iron and spiegeleisen in pigs, blocks or other primary forms |
+| 7202 | Ferro-alloys |
+| 7203 | Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94 %, in lumps, pellets or similar forms |
+| 7204 | Ferrous waste and scrap; remelting scrap ingots of iron or steel |
+| 7205 | Granules and powders, of pig iron, spiegeleisen, iron or steel |
+| 7206 | Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 7203) |
+| 7207 | Semi-finished products of iron or non-alloy steel |
+| 7218 | Stainless steel in ingots or other primary forms; semi-finished products of stainless steel |
+| 7224 | Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel |
+
+| *3. Copper and articles thereof* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7401 00 00 | Copper mattes; cement copper (precipitated copper) |
+| 7402 00 00 | Unrefined copper; copper anodes for electrolytic refining |
+| 7403 | Refined copper and copper alloys, unwrought |
+| 7404 00 | Copper waste and scrap |
+| 7405 00 00 | Master alloys of copper |
+| 7406 | Copper powders and flakes |
+| 7407 | Copper bars, rods and profiles |
+| 7410 | Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0,15 mm |
+| 7413 00 00 | Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated |
+
+| *4. Nickel and articles thereof* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7501 | Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy |
+| 7502 | Unwrought nickel |
+| 7503 00 | Nickel waste and scrap |
+| 7504 00 00 | Nickel powders and flakes |
+| 7505 | Nickel bars, rods, profiles and wire |
+| 7506 | Nickel plates, sheets, strip and foil |
+| 7507 | Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves) |
+
+| *5. Aluminium* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7601 | Unwrought aluminium |
+| 7602 | Aluminium waste and scrap |
+| 7603 | Aluminium powders and flakes |
+| 7605 | Aluminium wire |
+| 7606 | Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm |
+| 7609 00 00 | Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves) |
+| 7614 | Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated |
+
+| *6. Lead* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7801 | Unwrought lead |
+| 7802 00 00 | Lead waste and scrap |
+| 7804 | Lead plates, sheets, strip and foil; lead powders and flakes |
+
+| *7. Zinc* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 7901 | Unwrought zinc |
+| 7902 00 00 | Zinc waste and scrap |
+| 7903 | Zinc dust, powders and flakes |
+| 7904 00 00 | Zinc bars, rods, profiles and wire |
+| 7905 00 00 | Zinc plates, sheets, strip and foil |
+
+| *8. Tin* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| 8001 | Unwrought tin |
+| 8002 00 00 | Tin waste and scrap |
+| 8003 00 00 | Tin bars, rods, profiles and wire |
+
+| *9. Other base metals, cermets, articles thereof* |  |
+| --- | --- |
+| *HS code* | *Description* |
+| ex 8101 | Tungsten (wolfram) and articles thereof, including waste and scrap, other than anti-cathodes for X-ray tubes |
+| ex 8102 | Molybdenum and articles thereof, including waste and scrap, other than articles specifically designed for use in dentistry |
+| ex 8103 | Tantalum and articles thereof, including waste and scrap, other than dental instruments and surgical tools and articles specially designed for orthopaedic and surgical purposes |
+| 8104 | Magnesium and articles thereof, including waste and scrap |
+| 8105 | Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap |
+| ex 8106 | Bismuth and articles thereof, including waste and scrap, other than that specially prepared for the preparation of chemical compounds for pharmaceutical use |
+| 8108 | Titanium and articles thereof, including waste and scrap |
+| 8109 | Zirconium and articles thereof, including waste and scrap |
+| 8110 | Antimony and articles thereof, including waste and scrap |
+| 8111 00 | Manganese and articles thereof, including waste and scrap |
+| ex 8112 | Beryllium, chromium, hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium), and articles of these metals, including waste and scrap other than windows for X-ray tubes |
+| 8113 00 | Cermets and articles thereof, including waste and scrap’ |
 
 ### Vedlegg VIII til Vedlegg B. Liste over personer og enheter nevnt i artikkel 23 nr. 1
 
@@ -1040,6 +1561,13 @@ EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er 
 - SWEDEN
 [https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
 
+Address for notifications to the European Commission:
+European Commission Directorate-General for Financial Stability,
+Financial Services and Capital Markets Union (DG FISMA)
+Rue de Spa 2/Spastraat 2
+B-1049 Bruxelles/Brussel,
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ## Vedlegg C
 
 > Tilføyd ved forskrift [13 aug 2025 nr. 1670](forskrift/2025-08-13-1670) (i kraft 14 aug 2025).
@@ -1052,33 +1580,33 @@ I denne forordningen menes med:«formidlingstjenester»:forhandlinger eller orga
 
 ### Artikkel 2
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som kan bidra til Irans evne til å produsere ubemannede luftfartøyer (UAV-er) eller missiler som oppført i vedlegg II, enten de har opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran.Transitt via Irans territorium av varene og teknologien omtalt i første avsnitt, som eksporteres fra EU, er forbudt.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som kan bidra til Irans evne til å produsere ubemannede luftfartøyer (UAV-er) eller missiler som oppført i vedlegg II, enten de har opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran.Transitt via Irans territorium av varene og teknologien omtalt i første avsnitt, som eksporteres fra EU, er forbudt.
 
-2. Det er forbudt:direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omtalt i nr. 1, og knyttet til levering, produksjon, vedlikehold og bruk av varene og teknologien, til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien nevnt i nr. 1 i forbindelse med salg, levering, overføring eller eksport av varene og teknologien eller ytelse av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller utgjør forretningshemmeligheter knyttet til varene og teknologien nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av varene og teknologien til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran.
+2\. Det er forbudt:direkte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omtalt i nr. 1, og knyttet til levering, produksjon, vedlikehold og bruk av varene og teknologien, til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varene og teknologien nevnt i nr. 1 i forbindelse med salg, levering, overføring eller eksport av varene og teknologien eller ytelse av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter, samt gi rett til å få adgang til eller gjenbruk av materiale eller opplysninger som er beskyttet av immaterialrettigheter eller utgjør forretningshemmeligheter knyttet til varene og teknologien nevnt i nr. 1 og til levering, produksjon, vedlikehold og bruk av varene og teknologien til fysiske eller juridiske personer, enheter eller organer i Iran eller til bruk i Iran.
 
-3. Som unntak fra nr. 1 og 2 i denne artikkelen, og uten at det berører tillatelseskravet i forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring, transitt eller eksport av varene og teknologien nevnt i nr. 1, eller ytelse av tilknyttet faglig eller finansiell bistand, til ikke-militært bruk og til en ikke-militær sluttbruker, etter å ha fastslått at varene eller teknologien eller den tilknyttede faglige eller finansielle bistanden er nødvendig for:medisinske eller farmasøytiske formål, ellerhumanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
+3\. Som unntak fra nr. 1 og 2 i denne artikkelen, og uten at det berører tillatelseskravet i forordning [(EU) 2021/821](eu/32021r0821), kan den kompetente myndigheten tillate salg, levering, overføring, transitt eller eksport av varene og teknologien nevnt i nr. 1, eller ytelse av tilknyttet faglig eller finansiell bistand, til ikke-militært bruk og til en ikke-militær sluttbruker, etter å ha fastslått at varene eller teknologien eller den tilknyttede faglige eller finansielle bistanden er nødvendig for:medisinske eller farmasøytiske formål, ellerhumanitære formål, helsekriser, omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
 
-4. Kompetente myndigheter kan annullere, suspendere, endre eller tilbakekalle en tillatelse de har gitt i henhold til nr. 3, dersom de mener at slik annullering, suspendering, endring eller tilbakekallelse er nødvendig for effektiv gjennomføring av denne forordningen.
+4\. Kompetente myndigheter kan annullere, suspendere, endre eller tilbakekalle en tillatelse de har gitt i henhold til nr. 3, dersom de mener at slik annullering, suspendering, endring eller tilbakekallelse er nødvendig for effektiv gjennomføring av denne forordningen.
 
-5. Tillatelser som kreves etter forordning [(EU) 2021/821](eu/32021r0821) for eksport av varer og teknologi nevnt i nr. 1, skal gis særskilt av den relevante kompetente myndigheten i samsvar med reglene og prosedyrene fastsatt i forordning [(EU) 2021/821](eu/32021r0821). Slike tillatelser er gyldige i hele EU.
+5\. Tillatelser som kreves etter forordning [(EU) 2021/821](eu/32021r0821) for eksport av varer og teknologi nevnt i nr. 1, skal gis særskilt av den relevante kompetente myndigheten i samsvar med reglene og prosedyrene fastsatt i forordning [(EU) 2021/821](eu/32021r0821). Slike tillatelser er gyldige i hele EU.
 
-6. Underretning om tillatelser som er gitt i henhold til forordning [(EU) 2021/821](eu/32021r0821), skal følge gjeldende prosedyrer gjennom relevante kanaler omtalt i den nevnte forordningens artikkel 23 nr. 6 («DUES-systemet»).
+6\. Underretning om tillatelser som er gitt i henhold til forordning [(EU) 2021/821](eu/32021r0821), skal følge gjeldende prosedyrer gjennom relevante kanaler omtalt i den nevnte forordningens artikkel 23 nr. 6 («DUES-systemet»).
 
-7. Forbudene i nr. 1 og 2 i denne artikkelen får ikke anvendelse før 27. oktober 2023 på forpliktelser i henhold til en kontrakt inngått før 26. juli 2023, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av en slik kontrakt.
+7\. Forbudene i nr. 1 og 2 i denne artikkelen får ikke anvendelse før 27. oktober 2023 på forpliktelser i henhold til en kontrakt inngått før 26. juli 2023, eller tilknyttede kontrakter som er nødvendige for oppfyllelse av en slik kontrakt.
 
 ### Artikkel 2a
 
-1. Det er forbudt direkte eller indirekte å delta i transaksjoner med havner og sluser som oppført i vedlegg IV.
+1\. Det er forbudt direkte eller indirekte å delta i transaksjoner med havner og sluser som oppført i vedlegg IV.
 
-2. Vedlegg IV omfatter havner og sluser som:eies, drives eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg III,eies, drives eller kontrolleres av juridiske personer, enheter eller organer som eies direkte eller indirekte 50 % eller mer av en enhet oppført i vedlegg III,eies, drives eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller etter instruks fra en enhet som omtalt i bokstav a eller b, ellerbenyttes til overføring av iranske UAV-er eller missiler eller relaterte teknologier eller komponenter til Russland til støtte for dets angrepskrig mot Ukraina.
+2\. Vedlegg IV omfatter havner og sluser som:eies, drives eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg III,eies, drives eller kontrolleres av juridiske personer, enheter eller organer som eies direkte eller indirekte 50 % eller mer av en enhet oppført i vedlegg III,eies, drives eller kontrolleres av fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller etter instruks fra en enhet som omtalt i bokstav a eller b, ellerbenyttes til overføring av iranske UAV-er eller missiler eller relaterte teknologier eller komponenter til Russland til støtte for dets angrepskrig mot Ukraina.
 
-3. Nr. 1 får ikke anvendelse på et fartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet, eller for å redde liv til sjøs, eller for humanitære formål eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
+3\. Nr. 1 får ikke anvendelse på et fartøy som har behov for hjelp og søker nødhavn, nødhavnanløp av hensyn til maritim sikkerhet, eller for å redde liv til sjøs, eller for humanitære formål eller for omgående hindring eller begrensning av en hendelse som sannsynligvis vil få alvorlige og betydelige følger for menneskers helse og sikkerhet eller miljøet, eller som respons ved naturkatastrofer.
 
 ### Artikkel 3
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter og organer:som er ansvarlige for, støtter eller er involvert i Irans UAV- eller missilprogramsom leverer, selger eller på annen måte er involvert i overføring av Irans UAV-er eller missiler eller relaterte teknologier eller komponentertil Russland til støtte for Russlands angrepskrig mot Ukrainatil væpnede grupper og enheter som undergraver fred og sikkerhet i Midtøsten og Rødehavsregionentil fysiske eller juridiske personer, enheter eller organer som handler i strid med De forente nasjoners sikkerhetsrådsresolusjon 2216 (2015), ellersom har tilknytning til fysiske eller juridiske personer, enheter eller organer som nevnt i bokstav a eller b, og som er oppført på listen i vedlegg III, skal fryses.
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter og organer:som er ansvarlige for, støtter eller er involvert i Irans UAV- eller missilprogramsom leverer, selger eller på annen måte er involvert i overføring av Irans UAV-er eller missiler eller relaterte teknologier eller komponentertil Russland til støtte for Russlands angrepskrig mot Ukrainatil væpnede grupper og enheter som undergraver fred og sikkerhet i Midtøsten og Rødehavsregionentil fysiske eller juridiske personer, enheter eller organer som handler i strid med De forente nasjoners sikkerhetsrådsresolusjon 2216 (2015), ellersom har tilknytning til fysiske eller juridiske personer, enheter eller organer som nevnt i bokstav a eller b, og som er oppført på listen i vedlegg III, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet for, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg III.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet for, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg III.
 
 ### Artikkel 3a
 
@@ -1094,117 +1622,117 @@ I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført
 
 ### Artikkel 3ca
 
-1. Som unntak fra artikkel 3 kan de kompetente myndighetene gi tillatelse til at visse penger eller formuesgoder stilles til rådighet for enheter som er oppført under listenummer 10, 11 og 12 i vedlegg III til denne forordningen (forordning [2023/1529](eu/32023r1529)), på de vilkår som de kompetente myndighetene finner hensiktsmessige og etter å ha fastslått at pengene eller formuesgodene er nødvendige for lufthavnrelaterte tjenester som definert i artikkel 3 nr. 23 i europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139).
+1\. Som unntak fra artikkel 3 kan de kompetente myndighetene gi tillatelse til at visse penger eller formuesgoder stilles til rådighet for enheter som er oppført under listenummer 10, 11 og 12 i vedlegg III til denne forordningen (forordning [2023/1529](eu/32023r1529)), på de vilkår som de kompetente myndighetene finner hensiktsmessige og etter å ha fastslått at pengene eller formuesgodene er nødvendige for lufthavnrelaterte tjenester som definert i artikkel 3 nr. 23 i europaparlaments- og rådsforordning [(EU) 2018/1139](eu/32018r1139).
 
-2. Som unntak fra artikkel 3 kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller å stille visse penger eller formuesgoder til rådighet etter å ha fastslått at pengene eller formuesgodene er nødvendige for å håndtere kritiske og klart identifiserte luftfartssikkerhetsspørsmål etter forutgående konsultasjon med Det europeiske byrå for flysikkerhet.
+2\. Som unntak fra artikkel 3 kan de kompetente myndighetene gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller å stille visse penger eller formuesgoder til rådighet etter å ha fastslått at pengene eller formuesgodene er nødvendige for å håndtere kritiske og klart identifiserte luftfartssikkerhetsspørsmål etter forutgående konsultasjon med Det europeiske byrå for flysikkerhet.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel innen to uker etter at tillatelsen er gitt.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 3d
 
-1. Artikkel 3 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
+1\. Artikkel 3 nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført fra tredjeparter til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette den kompetente myndigheten om slike transaksjoner.
 
-2. Artikkel 3 nr. 1 gjelder ikke beløp som tilføres frosne konti i form av renter eller annen avkastning, beløp forfalt i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da kontiene ble omfattet av tiltakene fastsatt i artikkel 3, eller beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i EU eller som er rettskraftige i den berørte medlemsstaten, forutsatt at alle renter, avkastninger og betalinger forblir underlagt tiltakene fastsatt i den nevnte bestemmelsen.
+2\. Artikkel 3 nr. 1 gjelder ikke beløp som tilføres frosne konti i form av renter eller annen avkastning, beløp forfalt i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da kontiene ble omfattet av tiltakene fastsatt i artikkel 3, eller beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er truffet i EU eller som er rettskraftige i den berørte medlemsstaten, forutsatt at alle renter, avkastninger og betalinger forblir underlagt tiltakene fastsatt i den nevnte bestemmelsen.
 
 ### Artikkel 3e
 
-1. Artikkel 3 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
+1\. Artikkel 3 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av organisasjoner og byråer som er søylevurdert av EU, og som EU har undertegnet en rammeavtale om finansielt partnerskap med, der rammeavtalen er grunnlaget for at organisasjonene og byråene fungerer som EUs humanitære partnere, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
 
-2. I saker som ikke omfattes av nr. 1 i denne artikkelen, og som unntak fra artikkel 3, kan de kompetente myndighetene gi særskilte eller alminnelige tillatelser, på de alminnelige eller særskilte vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
+2\. I saker som ikke omfattes av nr. 1 i denne artikkelen, og som unntak fra artikkel 3, kan de kompetente myndighetene gi særskilte eller alminnelige tillatelser, på de alminnelige eller særskilte vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet, forutsatt at levering av pengene eller formuesgodene er nødvendig utelukkende for humanitære formål i Iran.
 
-3. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse etter nr. 2, skal tillatelsen anses som gitt.
+3\. Dersom den kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse etter nr. 2, skal tillatelsen anses som gitt.
 
-4. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2 og 3, innen to uker etter at tillatelsen er gitt.
+4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 2 og 3, innen to uker etter at tillatelsen er gitt.
 
 ### Artikkel 3f
 
-1. Artikkel 3 får ikke anvendelse på penger eller formuesgoder som er nødvendige for:humanitære formål, evakuering eller repatriering av personer eller initiativer om støtte til ofre for naturkatastrofer eller nukleære eller kjemiske katastrofer,flyvninger som er nødvendige for deltakelse i møter med henblikk på å finne en løsning på Irans militære støtte til Russlands angrepskrig mot Ukraina og til væpnede grupper og enheter i Midtøsten og Rødehavsregionen eller med henblikk på å fremme de restriktive tiltakenes politiske mål,nødlanding, avgang eller overflyvning i en nødsituasjon, ellerreiser for offisielle formål for medlemmer av medlemsstatenes diplomatiske eller konsulære representasjoner i Iran eller for internasjonale organisasjoner som har immunitet i henhold til folkeretten.
+1\. Artikkel 3 får ikke anvendelse på penger eller formuesgoder som er nødvendige for:humanitære formål, evakuering eller repatriering av personer eller initiativer om støtte til ofre for naturkatastrofer eller nukleære eller kjemiske katastrofer,flyvninger som er nødvendige for deltakelse i møter med henblikk på å finne en løsning på Irans militære støtte til Russlands angrepskrig mot Ukraina og til væpnede grupper og enheter i Midtøsten og Rødehavsregionen eller med henblikk på å fremme de restriktive tiltakenes politiske mål,nødlanding, avgang eller overflyvning i en nødsituasjon, ellerreiser for offisielle formål for medlemmer av medlemsstatenes diplomatiske eller konsulære representasjoner i Iran eller for internasjonale organisasjoner som har immunitet i henhold til folkeretten.
 
-2. Fysiske og juridiske personer, enheter og organer skal opplyse den kompetente myndigheten i medlemsstaten hvor de er bosatt, befinner seg, etablert eller stiftet om alle penger eller formuesgoder som er stilt til rådighet i henhold til nr. 1 innen to uker etter at de er stilt til rådighet. Den berørte medlemsstat underretter de øvrige medlemsstater og Kommisjonen om alle opplysninger den mottar i medhold av dette nummer innen to uker etter de er mottatt.
+2\. Fysiske og juridiske personer, enheter og organer skal opplyse den kompetente myndigheten i medlemsstaten hvor de er bosatt, befinner seg, etablert eller stiftet om alle penger eller formuesgoder som er stilt til rådighet i henhold til nr. 1 innen to uker etter at de er stilt til rådighet. Den berørte medlemsstat underretter de øvrige medlemsstater og Kommisjonen om alle opplysninger den mottar i medhold av dette nummer innen to uker etter de er mottatt.
 
 ### Artikkel 5
 
-1. Fysiske og juridiske personer, enheter og organer skal:omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er etablert eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om verifisering av opplysningene nevnt i bokstav a.
+1\. Fysiske og juridiske personer, enheter og organer skal:omgående gi opplysninger som kan fremme overholdelse av denne forordningen, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 3 nr. 1, til den kompetente myndigheten i medlemsstaten der de er etablert eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om verifisering av opplysningene nevnt i bokstav a.
 
-2. Forpliktelsen i nr. 1 skal gjelde med forbehold om nasjonale regler om fortrolighet for opplysninger som innehas av rettsmyndigheter, og i samsvar med respekten for fortroligheten av kommunikasjon mellom advokater og deres klienter som er garantert ved artikkel 7 i Den europeiske unions pakt om grunnleggende rettigheter.
+2\. Forpliktelsen i nr. 1 skal gjelde med forbehold om nasjonale regler om fortrolighet for opplysninger som innehas av rettsmyndigheter, og i samsvar med respekten for fortroligheten av kommunikasjon mellom advokater og deres klienter som er garantert ved artikkel 7 i Den europeiske unions pakt om grunnleggende rettigheter.
 
-3. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
+3\. Alle tilleggsopplysninger som Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
-4. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
+4\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 6
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig informasjon om:penger som er frosset i henhold til artikkel 3 og tillatelser som er gitt i henhold til artikkel 2, 3a, 3b og 3c, ogovertredelser, håndhevelsesproblemer og rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordningen, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordningen, særlig informasjon om:penger som er frosset i henhold til artikkel 3 og tillatelser som er gitt i henhold til artikkel 2, 3a, 3b og 3c, ogovertredelser, håndhevelsesproblemer og rettsavgjørelser fra nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordningen.
 
 ### Artikkel 7
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 3 overfor, skal vedlegg III endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 3 overfor, skal vedlegg III endres tilsvarende.
 
-2. Rådet skal meddele sin beslutning i henhold til nr. 1, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+2\. Rådet skal meddele sin beslutning i henhold til nr. 1, herunder begrunnelsen for listeføring, til vedkommende fysiske eller juridiske person, enhet eller organ enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
 
-3. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listen i vedlegg III skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg III skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
-5. Kommisjonen har fullmakt til å endre vedlegg I på grunnlag av informasjon fra medlemsstatene.
+5\. Kommisjonen har fullmakt til å endre vedlegg I på grunnlag av informasjon fra medlemsstatene.
 
 ### Artikkel 8
 
-1. Vedlegg III inneholder begrunnelsen for at de fysiske eller juridiske personene, enhetene og organene er listeført.
+1\. Vedlegg III inneholder begrunnelsen for at de fysiske eller juridiske personene, enhetene og organene er listeført.
 
-2. Vedlegg III inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn og dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted.
+2\. Vedlegg III inneholder også tilgjengelige opplysninger som er nødvendige for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn og dekknavn, fødselsdato og fødested, statsborgerskap, pass- og identitetskortnummer, kjønn, adresse, dersom den er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringssted og -dato, registreringsnummer og forretningssted.
 
 ### Artikkel 9
 
-1. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordningen, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner som får anvendelse ved overtredelse av bestemmelsene i denne forordningen, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om fastsettelse av reglene nevnt i nr. 1 umiddelbart etter at denne forordning er trådt i kraft, og alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om fastsettelse av reglene nevnt i nr. 1 umiddelbart etter at denne forordning er trådt i kraft, og alle senere endringer.
 
 ### Artikkel 10
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro og på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.
 
 ### Artikkel 11
 
-1. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, garanti eller motgaranti, eller finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes av:fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg III,andre iranske personer, enheter eller organer,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ nevnt i bokstav a og b.
+1\. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, garanti eller motgaranti, eller finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes av:fysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg III,andre iranske personer, enheter eller organer,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ nevnt i bokstav a og b.
 
-2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
+2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsene i nr. 1.
 
-3. Denne artikkelen berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
+3\. Denne artikkelen berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordningen.
 
 ### Artikkel 12
 
-1. Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene fastsatt i denne forordningen.
+1\. Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkning å omgå forbudene fastsatt i denne forordningen.
 
-2. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg III skal:senest seks uker fra datoen for oppføring i vedlegg III innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den berørte kompetente myndigheten om verifisering av disse opplysningene.
+2\. Fysiske eller juridiske personer, enheter eller organer oppført i vedlegg III skal:senest seks uker fra datoen for oppføring i vedlegg III innberette penger eller formuesgoder innenfor en medlemsstats jurisdiksjon som tilhører, eies, innehas eller kontrolleres av dem, til de kompetente myndighetene i medlemsstaten der disse pengene eller formuesgodene befinner seg, ogsamarbeide med den berørte kompetente myndigheten om verifisering av disse opplysningene.
 
-3. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 3.
+3\. Manglende overholdelse av nr. 2 skal betraktes som deltakelse, som nevnt i nr. 1, i virksomhet som har som formål eller virkning å omgå tiltakene omtalt i artikkel 3.
 
-4. Den berørte medlemsstaten skal innen to uker underrette Kommisjonen om innberetningen av opplysninger i henhold til nr. 2 bokstav a.
+4\. Den berørte medlemsstaten skal innen to uker underrette Kommisjonen om innberetningen av opplysninger i henhold til nr. 2 bokstav a.
 
-5. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
+5\. Alle opplysninger som gis eller mottas i henhold til denne artikkelen, skal benyttes bare til det formål de gis eller mottas for.
 
-6. All behandling av personopplysninger i henhold til denne artikkelen skal utføres i samsvar med denne forordningen og forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725), og bare i den grad det er nødvendig for anvendelsen av denne forordningen.
+6\. All behandling av personopplysninger i henhold til denne artikkelen skal utføres i samsvar med denne forordningen og forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725), og bare i den grad det er nødvendig for anvendelsen av denne forordningen.
 
 ### Artikkel 13
 
-1. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet i:for Rådets del å utarbeide og foreta endringer av vedlegg III,for høyrepresentantens del å utarbeide endringer av vedlegg III,for Kommisjonens del:å føre innholdet i vedlegg III inn i den elektroniske konsoliderte listen over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
+1\. Rådet, Kommisjonen og EUs høyrepresentant for utenrikssaker og sikkerhetspolitikk (heretter kalt «høyrepresentanten») kan behandle personopplysninger for å kunne utføre oppgavene som er pålagt dem i henhold til denne forordningen. Disse oppgavene består blant annet i:for Rådets del å utarbeide og foreta endringer av vedlegg III,for høyrepresentantens del å utarbeide endringer av vedlegg III,for Kommisjonens del:å føre innholdet i vedlegg III inn i den elektroniske konsoliderte listen over personer, grupper og enheter underlagt EUs økonomiske sanksjoner og i det interaktive kartet over EUs sanksjoner, som begge er offentlig tilgjengelige,å behandle opplysninger om virkningen av tiltakene fastsatt i denne forordningen, for eksempel verdien av frosne penger og opplysninger om tillatelser gitt av de kompetente myndighetene.
 
-2. Der det er aktuelt, skal Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad slik behandling er nødvendig for å utarbeide vedlegg III.
+2\. Der det er aktuelt, skal Rådet, Kommisjonen og høyrepresentanten behandle relevante data om straffbare handlinger begått av listeførte fysiske personer og om straffedom eller sikkerhetstiltak mot slike personer, bare i den grad slik behandling er nødvendig for å utarbeide vedlegg III.
 
-3. Med henblikk på denne forordningen skal Rådet, Kommisjonen og høyrepresentanten utpekes som «behandlingsansvarlige» i henhold til artikkel 3 nr. 8 i forordning [(EU) 2018/1725](eu/32018r1725) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til forordning [(EU) 2018/1725](eu/32018r1725).
+3\. Med henblikk på denne forordningen skal Rådet, Kommisjonen og høyrepresentanten utpekes som «behandlingsansvarlige» i henhold til artikkel 3 nr. 8 i forordning [(EU) 2018/1725](eu/32018r1725) for å sikre at de berørte fysiske personene kan utøve sine rettigheter i henhold til forordning [(EU) 2018/1725](eu/32018r1725).
 
 ### Artikkel 14
 
-1. Medlemsstatene skal utpeke de kompetente myndighetene nevnt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg I. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på nettsidene oppført i vedlegg I.
+1\. Medlemsstatene skal utpeke de kompetente myndighetene nevnt i denne forordningen og identifisere dem på nettsidene oppført i vedlegg I. Medlemsstatene skal underrette Kommisjonen om enhver adresseendring på nettsidene oppført i vedlegg I.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordningen er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, herunder deres kontaktopplysninger, og om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordningen er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt, herunder deres kontaktopplysninger, og om alle senere endringer.
 
-3. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg I benyttes.
+3\. Der denne forordningen inneholder et pålegg om å underrette, informere eller på annet vis kommunisere med Kommisjonen, skal adressen og andre kontaktopplysninger angitt i vedlegg I benyttes.
 
 ### Artikkel 15
 
@@ -1278,14 +1806,157 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 - SWEDEN
 [https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
 
+Address for notifications to the European Commission:
+European Commission
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+Rue Joseph II 54
+B-1049 Brussels, Belgium
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ### Vedlegg II til Vedlegg C. Liste over gjenstander nevnt i artikkel 2
+
+*INTRODUCTORY NOTES*
 
 1. Where «ex» precedes the HS/CN code, the goods covered by [Regulation (EU) 2023/1529](eu/32023r1529) constitute only a part of the scope of the HS/CN code and are determined by both the description given in this Annex and the scope of the HS/CN code.
 2. Definitions of terms between «single quotation marks» are given in a technical note to the relevant item.
 3. Definitions of terms between «double quotation marks» can be found in Annex I to [Regulation (EU) 2021/821](eu/32021r0821).
+
+*Category 1 – Special materials and related equipment*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Energetic materials as follows and mixtures thereof: |  |
+| Ammonium picrate (CAS 131-74-8); | ex 2908 99 00 |
+| Black powder; | ex 3601 00 00 |
+| Hexanitrodiphenylamine (CAS 131-73-7); | ex 2921 44 00 |
+| Difluoroamine(CAS 10405-27-3); | ex 2812 90 00 |
+| Nitrostarch (CAS 9056-38-6); | ex 3505 10 50 |
+| Tetranitronaphthalene (CAS 28995-89-3, CAS 4793-98-0); | ex 2902 90 00 |
+| Trinitroanisol (CAS 606-35-9); | ex 2909 30 90 |
+| Trinitronaphthalene (CAS 55810-17-8, CAS 2243-94-9); | ex 2902 90 00 |
+| Trinitroxylene (CAS 632-92-8); | ex 2902 41 00<br>ex 2902 42 00<br>ex 2902 43 00<br>ex 2902 44 00 |
+| N-methyl-2-pyrrolidinone; 1-methyl-2-pyrrolidinone (CAS 872-50-4); | ex 2939 79 90 |
+| Dioctylmaleate (CAS 142-16-5); | ex 2917 19 80 |
+| Ethylhexylacrylate (CAS 103-11-7); | ex 2916 12 00 |
+| Triethylaluminium (TEA) (CAS 97-93-8), trimethylaluminium (TMA) (CAS 75-24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron; | ex 2931 90 00 |
+| Nitrocellulose (CAS 9004-70-0); | 3912 20 |
+| Nitroglycerin (or glyceroltrinitrate, trinitroglycerine) (NG) (CAS 55-63-0); | ex 2920 90 70 |
+| 2,4,6-trinitrotoluene (TNT) (CAS 118-96-7); | ex 2904 20 00 |
+| Ethylenediaminedinitrate (EDDN) (CAS 20829-66-7); | ex 2920 90 70 |
+| Pentaerythritoltetranitrate (PETN) (CAS 78-11-5); | ex 2920 90 70 |
+| Lead azide (CAS 13424-46-9), normal lead styphnate(CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes; | ex 2850 00 60<br>ex 2908 99 00 |
+| Diethyldiphenylurea (CAS 85-98-3); dimethyldiphenylurea(CAS 611-92-7); methylethyldiphenyl urea | ex 2924 21 00 |
+| N,N-diphenylurea (unsymmetrical diphenylurea) (CAS 603-54-3); | ex 2924 21 00 |
+| Methyl-N,N-diphenylurea (methyl unsymmetrical diphenylurea) (CAS 13114-72-2); | ex 2924 21 00 |
+| Ethyl-N,N-diphenylurea (ethyl unsymmetrical diphenylurea) (CAS 64544-71-4); | ex 2924 21 00 |
+| 4-Nitrodiphenylamine (4-NDPA)(CAS 836-30-6); | ex 2921 44 00 |
+| 2,2-dinitropropanol (CAS 918-52-5); | ex 2905 59 98 |
+| Fibrous and filamentary materials, not controlled by 1C010 or 1C210, for use in «composite» structures and with a specific modulus of 3,18 x 106 m or greater and a specific tensile strength of 7,62 x 104 m or greater | ex 5402 11<br>ex 5501 11<br>ex 5503 11<br>ex 6815 11<br>ex 6815 12<br>ex 6815 19<br>ex 7019 19 10 |
+| Nanomaterials as follows:<br>a. Semiconductor nanomaterials;<br>b. Composite-based nanomaterials; or<br>c. Any of the following carbon-based nanomaterials:<br>1. Carbon nanotubes;<br>2. Carbon nanofibres;<br>3. Fullerenes;<br>4. Graphenes; or<br>5. Carbon onions.<br>Notes: For the purposes of this control, nanomaterial means a material that meets at least one of the following criteria:<br>1. Consists of particles, with one or more external dimensions in the size range 1–100 nm for more than 1 % of their number size distribution;<br>2. Has internal or surface structures in one or more dimensions in the size range 1–100 nm; or<br>3. Has a specific surface area by volume greater than 60 m2/cm3, excluding materials consisting of particles with a size lower than 1 nm | ex 2805 30<br>ex 2846 10<br>ex 2846 90<br>ex 5402 11<br>ex 5501 11<br>ex 5503 11<br>ex 6815 11<br>ex 6815 12<br>ex 6815 13<br>ex 6815 19<br>ex 7019 12<br>ex 7019 19 |
+| Tungsten, tungsten carbide and alloys, not controlled by 1C117, 1C226, II.A1.013 or II.A1.017, containing more than 90 % tungsten by weight.<br>Note 1: For the purposes of this control, wire is excluded<br>Note 2: For the purposes of this control, surgical or medical instruments are excluded | 2849 90 30<br>ex 8101 10<br>ex 8101 94<br>ex 8101 97<br>ex 8101 99 |
+| Ultra-High-Molecular-Weight Polyethylene (UHMWPE), not controlled by 1C010 or 1C210, presented in any of the following forms:<br>a. Primary forms;<br>b. Filament yarn or monofilaments;<br>c. Filament tows;<br>d. Rovings;<br>e. Staple or chopped fibres;<br>f. Fabrics;<br>g. Pulp or flocks. | ex 3901 20 10<br>ex 3901 20 90<br>ex 5402 39<br>ex 5402 49<br>ex 5402 59<br>ex 5402 69<br>ex 5404 90 90<br>ex 5407 20 11<br>ex 5407 20 19<br>ex 5501 90<br>ex 5503 90<br>ex 5506 90<br>ex 5601 30 |
+
+*Category 2 – Materials processing*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Bearings and bearing systems not controlled by 2A001 and 2A101:<br>a. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics;<br>1. Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; or<br>2. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»;<br>b. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/ABMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics:<br>1. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million «DN»; or<br>2. Manufactured for use at operating temperatures below 219 K (–54 °C) or above 423 K (150 °C);<br>c. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 °C) or higher and a unit load capacity exceeding 1 MPa;<br>d. Active magnetic bearing systems;<br>e. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (–54 °C) or above 423 K (150 °C). | ex 8482 10<br>ex 8482 20<br>ex 8482 30<br>ex 8482 40<br>ex 8482 50<br>ex 8482 80<br>ex 8482 91 |
+| *Technical Notes:*<br>1. «DN» is the product of the bearing bore diameter in mm and the bearing rotational velocity in rpm.<br>2. Operating temperatures include those temperatures obtained when a gas turbine engine has stopped after operation |  |
+| Concealed object detection equipment operating in the frequency range from 30 GHz to 3 000 GHz and having a spatial resolution of 0,1 mrad (milliradian) up to and including 1 mrad (milliradian) at a standoff distance of 100 m; and components, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).<br>*Note: Concealed object detection equipment includes but is not limited to equipment for screening people, documents, baggage, other personal effects, cargo and/or mail.*<br>*Technical Note:*<br>*The range of frequencies span what is generally considered as the millimetre-wave, submillimetre-wave and terahertz frequency regions.* | ex 8526 10<br>ex 8526 92<br>ex 8482 10 90 |
+| «Numerical control» units for machine tools and «numerically controlled» machine tools, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821) (see List of Items Controlled):<br>a. «Numerical control» units for machine tools:<br>1. Having four interpolating axes that can be coordinated simultaneously for contouring control; or<br>2. Having two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm;<br>3. «Numerical control» units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or<br>b. Motion control boards specially designed for machine tools and having any of the following characteristics:<br>1. Interpolation in more than four axes;<br>2. Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following:<br>a. Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; or<br>b. Adaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; or<br>3. Capable of receiving and processing CAD data for internal preparation of machine instructions;<br>c. «Numerically controlled» machine tools that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics:<br>1. Two or more axes that can be coordinated simultaneously for contouring control; and<br>2. Positioning accuracies according to ISO 230/2 (2006), with all compensations available:<br>a. Better than 15 μm along any linear axis (overall positioning) for grinding machines;<br>b. Better than 15 μm along any linear axis (overall positioning) for milling machines; or<br>c. Better than 15 μm along any linear axis (overall positioning) for turning machines; or<br>d. Machine tools, as follows, for removing or cutting metals, ceramics or «composites», that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes:<br>1. Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics:<br>a. One or more contouring «tilting spindles»;<br>Note: this applies to machine tools for grinding or milling only.<br>b. «Camming» (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);<br>Note: this applies to machine tools for turning only.<br>c. «Run-out» (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); or<br>d. The positioning accuracies, with all compensations available, are less (better) than: 0,001 o on any rotary axis;<br>2. Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control. | ex 8537 10 10<br>ex 8537 10 98<br>ex 8456 30<br>ex 8457 10<br>ex 8457 20<br>ex 8457 30<br>ex 8458 11<br>ex 8458 91<br>ex 8459 10<br>ex 8459 31<br>ex 8459 51<br>ex 8459 61<br>ex 8460 12<br>ex 8460 22<br>ex 8460 23<br>ex 8460 24 |
+| Assemblies, circuit boards or inserts specially designed for machine tools controlled in this annex:<br>a. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial («run-out») or axial («camming») axis motion in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR);<br>b. Single point diamond cutting tool inserts, having all of the following characteristics:<br>1. Flawless and chip-free cutting edge when magnified 400 times in any direction;<br>2. Cutting radius from 0,1 to 5 mm inclusive; and<br>3. Cutting radius out-of-roundness less (better) than 0,002 mm TIR.<br>c. Specially designed printed circuit boards with mounted components capable of upgrading, according to the manufacturer’s specifications, «numerical control» units, machine tools or feed-back devices to or above the levels specified in this Annex.<br>*Technical Note:*<br>*This entry does not control measuring interferometer systems, without closed or open loop feedback, containing a laser to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment.* | ex 8207 19<br>ex 8207 20<br>ex 8207 50<br>ex 8207 60<br>ex 8207 90<br>ex 8466 10<br>ex 8466 20 20<br>ex 8466 20 91<br>ex 8466 20 98<br>ex 8466 30<br>ex 8466 93 |
+| «Software» specially designed for the «development», «production», or «use» of the machine tools controlled in this Annex |  |
+| «Numerical controlled» machine tools, having one or more linear axis with a travel length greater than 8 000 mm. | ex 8456<br>ex 8457<br>ex 8458<br>ex 8459<br>ex 8460 |
+
+*Category 3 – Electronics*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Integrated circuits as follows: Field Programable Gate Array (FPGA), microcontrollers, microprocessors, signal processors, signal analysers, Analogue-to-Digital Converters (ADC), voltage regulators, video encoders and DC-DC converters | ex 8542 31<br>ex 8542 39 |
+| «Monolithic Microwave Integrated Circuits» («MMIC») amplifiers and devices | ex 8542 33<br>8543 70 02 |
+| RF filters or Electromagnetic Interference (EMI) filters | ex 8548 00 |
+| Tantalum capacitors | 8532 21 |
+| Aluminium electrolytic capacitors | 8532 22 |
+| Ceramic dielectric multilayer capacitors | 8532 24 |
+| Storage integrated circuits, as follows:<br>a. Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity;<br>1. Exceeding 16 Mbits per package for flash memory types; or<br>2. Exceeding either of the following limits for all other EEPROM types:<br>a. Exceeding 1 Mbit per package; or<br>b. Exceeding 256 kbit per package and a maximum access time of less than 80 ns;<br>b. Static random access memories (SRAMs) with a storage capacity:<br>1. Exceeding 1 Mbit per package; or<br>2. Exceeding 256 kbit per package and a maximum access time of less than 25 ns | ex 8542 32 |
+| Mounted piezo-electric crystals | 8541 60 |
+| «Semiconductor devices» fulfilling the military standard MIL-STD-750D or other equivalent standard.<br><br>*Technical note: For the purposes of this control «semiconductor devices» are electronic components that rely on the electronic properties of a semiconductor material, such as diodes, transducers, photosensitive devices, thyristors, diacs, triacs or transistors, including metal-oxide-semiconductor field-effect transistors (MOSFETs), FETs, FINFETs, IGBT, etc* | ex 8541 10<br>ex 8541 21<br>ex 8541 29<br>ex 8541 30<br>ex 8541 49<br>ex 8541 51<br>ex 8541 59 |
+| Electrical plugs, connectors, jacks, jumpers, terminals, sockets or adapters, having any of the following:<br>a. Rated for operation at an ambient temperature above 398K (125 °C);<br>b. Rated for operation at an ambient temperature below 218K (–55 °C); or<br>c. Rated for operation over the entire ambient temperature range from 218K (–55 °C) to 398K (125 °C). | ex 8536 69<br>ex 8536 90 |
+| Equipment for the manufacture of Printed Circuit Boards (PCBs) and specially designed components and accessories therefor, as follows:<br>a. Film processing equipment;<br>b. Solder mask coating equipment;<br>c. Photo plotter equipment;<br>d. Plating or electroplating deposition equipment;<br>e. Vacuum chambers and presses;<br>f. Roll laminators;<br>g. Alignment equipment; or<br>h. Etching equipment. | ex 8424 89 40<br>ex 8479 89 70<br>ex 8543 30 40<br>ex 8486 40<br>ex 8420 10 81<br>ex 8479 90 15 |
+| Automated optical inspection equipment for testing Printed Circuit Boards (PCBs), based on optical or electrical sensors, and capable to detect any of the following quality defects:<br>a. Spacing, area, volume or height;<br>b. Bill boarding;<br>c. Components (presence, absence, flipped, offset, polarity, or skew);<br>d. Solder (bridging, insufficient solder joints);<br>e. Leads (insufficient paste, lifting);<br>f. Tombstoning; or<br>g. Electrical (shorts, opens, resistance, capacitance, power, grid performance). | ex 9030 31<br>ex 9030 32<br>ex 9030 33 20<br>ex 9030 33 70<br>ex 9030 39 00<br>ex 9030 84<br>ex 9030 89<br>ex 9031 49 10<br>ex 9031 49 90<br>ex 9031 80 20<br>ex 9031 80 80 |
+| Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows:<br>a. PCB «composite» substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR 6, CEM-1, G-10, etc.);<br>b. Multilayer PCB substrates, containing at least one layer of any of the following materials:<br>1. Aluminium;<br>2. Polytetrafluoroethylene (PTFE); or<br>3. Ceramic materials (e.g. alumina, titanium oxide, etc.);<br>c. Etchant chemicals;<br>1. Ferric chloride (7705-08-0);<br>2. Cupric chloride (7447-39-4);<br>3. Ammonium persulphate (7727-54-0);<br>4. Sodium persulphate (7775-27-1); or<br>5. Chemical preparations specially designed for etching and containing any of the chemicals included in points 1 to 4.<br>Note: This control does not control «chemical mixtures» containing one or more of the chemicals specified in this entry in which no individually specified chemical constitutes more than 10 % by the weight of the mixture.<br>d. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm;<br>e. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows:<br>1. Aromatic polyimides;<br>2. Parylenes;<br>3. Benzocyclobutenes (BCBs); or<br>4. Polybenzoxazoles. | ex 3921 90 55<br>ex 8534 00<br>ex 2827 39 20<br>ex 2827 39 85<br>ex 2833 40<br>ex 3824 99 96<br>ex 7410 11<br>ex 7410 21<br>ex 3919 10 80<br>ex 3919 90 80 |
+| «Software» specially designed for the test, «development» or «production» of Printed Circuit Boards (PCBs). | N/A |
+| Radio frequency systems and equipment not included in [Regulation (EU) 2021/821](eu/32021r0821), components and accessories, specially designed or modified to develop any of the following functions:<br>a. Take control and command of UAVs.<br>b. Deliberately and selectively interfere with, deny, inhibit, degrade or deceive radio frequency signals for the control and command of unmanned aircraft.<br>c. Use the specific features of the radio frequency protocol used by drones to interfere with their operation. | ex 8517 62<br>ex 8517 71<br>ex 8517 79<br>ex 8525 50<br>ex 8526 92<br>ex 8529 10<br>ex 8543 70 90 |
+
+*Category 4 – Computers*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Electronic computers and related equipment, and «electronic assemblies» and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 °C) | ex 8471 |
+| «Digital computers», including equipment of «signal processing» or «image enhancement», having an «Adjusted Peak Performance» («APP») equal to or greater than 0,0128 Weighted TeraFLOPS (WT); | ex 8471 |
+| Hybrid computers and «electronic assemblies» and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics:<br>a. 32 channels or more; and<br>b. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more | ex 8471 |
+
+*Category 5 – Telecommunications and information security*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Telecommunications apparatus, devices or machines, for «aircraft» | ex 8517 62<br>ex 8517 69 |
+
+*Category 6 – Sensors and lasers*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Cameras for aerial survey | ex 9006 30 |
+| Optical Sensors as follows:<br>a. Image intensifier tubes and specially designed components therefor, as follows:<br>1. Image intensifier tubes having all the following:<br>a. A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;<br>b. A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; and<br>c. Having any of the following:<br>1. An S-20, S-25 or multialkali photocathode; or<br>2. A GaAs or GaInAs photocathode;<br>2. Specially designed microchannel plates having both of the following characteristics:<br>a. 15 000 or more hollow tubes per plate; and<br>b. Hole pitch (centre-to-centre spacing) of less than 25 μm<br>b. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics of the image intensifier tube included in this control. | ex 8529 90<br>ex 8542 39<br>ex 9006 91<br>ex 9013 80<br>ex 9025 80<br>ex 9025 90<br>ex 9026 80<br>ex 9026 90<br>ex 9027 50<br>ex 9032 10 |
+| Night vision cameras | 8525 83 |
+| Cameras that meet the criteria of Note 3 to 6A003.b.4 | ex 8525 89<br>ex 9006 30 |
+| Airborne laser rangefinders | ex 9013 20 00<br>ex 9013 80 00<br>ex 9013 90 80<br>ex 9015 10<br>ex 9015 80<br>ex 9015 90<br>ex 9031 80 20<br>ex 9031 80 80<br>ex 9031 90 00<br>ex 9033 00 90 |
+| «Primary cells» or batteries and components having an energy density of 150 Wh/kg or more at 293 K (20 °C)<br>Technical Notes:<br>1. For the purposes of this control, «energy density» (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in ohms and the mass in kilograms.<br>2. For the purposes of this control, a «cell» is defined as an electrochemical device, which has positive and negative electrodes, an electrolyte, and is a source of electrical energy. It is the basic building block of a battery.<br>3. For the purposes of this control, a «primary cell» is a «cell» that is not designed to be charged by any other source. | ex 8506 |
+| Radar systems, equipment and major components, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), and specially designed components therefor, as follows:<br>a. Airborne radar equipment, other than those specified in the CML or in Regulation (EU) 2021/821, and specially designed components therefor;<br>b. «Space-qualified»«laser» radar or Light Detection and Ranging (LIDAR) equipment specially designed for surveying or for meteorological observation;<br>c. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:<br>1. Operates at a frequency of 94 GHz;<br>2. An average output power of less than 20 mW;<br>3. Radar beam width of 1 degree; and<br>4. Operating range equal to or greater than 1 500 m | ex 8526 10<br>ex 8529 90<br>ex 9015 10<br>ex 90 |
+| «Magnetometers», «Superconductive» electromagnetic sensors, and specially designed components therefor, as follows:<br>a. «Magnetometers», other than those specified in the CML or in Regulation (EU) 2021/821, having a «sensitivity» lower (better) than 1,0 nT (rms) per square root Hz<br>Technical Note: For the purposes of this control, «sensitivity» (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured<br>b. «Superconductive» electromagnetic sensors, components manufactured from «superconductive» materials:<br>1. Designed for operation at temperatures below the «critical temperature» of at least one of their «superconductive» constituents (including Josephson effect devices or «superconductive» quantum interference devices (SQUIDS));<br>2. Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and<br>3. Having any of the following characteristics:<br>a. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;<br>b. Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;<br>c. Designed to function without magnetic shielding in the earth’s ambient magnetic field; or<br>d. Having a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K | ex 9015 80<br>ex 9031 80 |
+| Gravity meters (gravimeters) designed or modified for ground use, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), as follows: | ex 9015 80 |
+| «Software», other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821), specially designed for the «development», «production», or «use» of goods controlled by 6A002, 6A003, and radars, magnetometers and gravity meters included in Category 6 of this Regulation. | N/A |
+
+*Category 7 – Navigation and avionics*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| Inertial Navigation systems, Inertial Measuring Units (IMU), accelerometers or gyros, and parts and accessories thereof | ex 9014 20<br>ex 9014 80<br>ex 9014 90 |
+| Aerials and aerial reflectors for «aircraft» or guidance systems, parts suitable for use therewith | ex 8517 71<br>ex 8529 10 |
+| «Satellite navigation system» equipment, including aerials and antennas suitable for the reception of GNSS signals, and parts thereof | ex 8526 91<br>ex 8529 90<br>ex 8526 10<br>ex 8526 92<br>ex 8517 71<br>ex 8529 10 |
+| Digital flight data recorders<br>*Note: This control does not cover those digital flight data recorders which meet all of the following:*<br>a. Certified by the civil aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States; and<br>b. Intended for non-military «aircraft» for which any of the following has been issued by civil aviation authorities of one or more EU Member States or Wassenaar Arrangement Participating States for the «aircraft» with this specific engine type:<br>1. A civil type certificate; or<br>2. An equivalent document recognised by the International Civil Aviation Organization (ICAO). | 8543 70 04 |
+| Radio navigational aid apparatus for «aircraft» and specially designed components thereof | ex 8526 91<br>ex 8529 90 |
+| Flight control units for «Unmanned Aerial Vehicles» («UAVs»), and parts thereof | ex 8537 10<br>ex 8807 30 |
+| Remote control units for «Unmanned Aerial Vehicles» («UAVs»), and parts thereof | ex 8517 61<br>ex 8526 92<br>ex 8537 10<br>ex 8543 70 90<br>ex 8807 30 |
+
+*Category 9 – Aerospace and propulsion*
+
+| *Description* | *HS/CN code* |
+| --- | --- |
+| «Unmanned aerial vehicles» («UAVs») other than those designed for carrying passengers, and parts thereof | 8806 21<br>8806 22<br>8806 23<br>8806 24<br>8806 29<br>8806 91<br>8806 92<br>8806 93<br>8806 94<br>8806 99<br>ex 8807 30 |
+| Aero gas turbine engines (turboprop, turbojet and turbofan) for «aircraft», and specially designed components thereof | ex 8411 11<br>ex 8411 12<br>ex 8411 21<br>ex 8411 22<br>ex 8411 91 |
+| Spark-ignition reciprocating or rotary internal combustion piston engines for «aircraft» | 8407 10 |
+| Parts suitable for use solely or principally with internal combustion piston engine for «aircraft» | 8409 10 |
+| Compression-ignition internal combustion piston engines for «aircraft» | ex 8408 90 |
+| Servomotor for «Unmanned Aerial Vehicles» («UAVs») | ex 8501<br>ex 8807 30 |
+| Launch systems for «UAVs», and parts thereof | ex 8805 10<br>ex 8807 30 |
+| Ground support equipment for «UAVs» | ex 8805 10 |
+| Testing equipment for aerospace and propulsion, and specially designed components therefor, other than those specified in the CML or in [Regulation (EU) 2021/821](eu/32021r0821).<br>*Note: this control includes the following items, and the related «software»:*<br>- Load release test bench and other facilities to simulate safe separation from the «aircraft» or launch system.<br>- Salt spray chambers for temperature and humidity ranges to perform oxidation tests.<br>- Chambers to perform fungus tests.<br>- Devices for acceleration, shock and transport shock tests.<br>- Vibration chambers with altitude, temperature and humidity ranges.<br>- Chambers for explosive decompression tests.<br>- Chambers for temperature, humidity and solar radiation tests.<br>- Devices to estimate the captured solar radiation for solar radiation tests.<br>- Vibrators for sinusoidal, random and shock tests, combinable with altitude, temperature and humidity tests.<br>- Vibration table for longitudinal and lateral tests combined with temperature chambers.<br>- Overpressure chambers. | ex 9031 20<br>ex 9031 80 |
+| «Flight termination» systems and specifically designed components.<br>*Note: this control covers digital and analogic communications standards for Flight Termination Systems, including encrypted operational modes.*<br>*Technical notes:*<br>1. For the purposes of this control, «flight termination» can involve a controlled descent, self-destruction, or detonation of the warhead to minimize the risk of collateral damage<br>2. For the purposes of this control, components include ground and on board equipment, command exciters, encoders, amplifier controllers, command verification receivers, amplifiers, transmitters, decoders and receivers. | ex 8526 92<br>ex 8529 90 |
+
+*Category 10 – Technology*
+
+«Technology», designed or specifically adapted for the test, development or production of equipment controlled in this Annex
+
+«Technology» for the «use» of machine tools controlled in this Annex.’
 
 ### Vedlegg III til Vedlegg C. Liste over fysiske og juridiske personer
 
 EUs konsoliderte liste over personer og enheter underlagt restriktive tiltak er tilgjengelig [her](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en). Listeførte med landkode («programme») IRN (Iran) er listeført under denne forskrift.
 
 ### Vedlegg IV til Vedlegg C. Liste over havner og sluser som nevnt i artikkel 2a
+
+|  | *Name* | *Grounds for inclusion* | *Date of application* |
+| --- | --- | --- | --- |
+| 1. | Amirabad Port, Iran | Article 2a(1), point (d): used for the transfer of Iranian UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine | 18.11.2024 |
+| 2. | Anzali Port, Iran | Article 2a(1), point (d): used for the transfer of Iranian UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine | 18.11.2024 |

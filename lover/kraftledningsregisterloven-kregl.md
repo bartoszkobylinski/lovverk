@@ -106,6 +106,8 @@ Ved overdragelse av eiendomsrett til og stiftelse av pant eller annen rettighet 
 
 > Endret ved lover 24 juni 1949 nr. 2, [8 feb 1980 nr. 2](lov/1980-02-08-2).
 
+1 Inkurie: Skal vel være lov nr. 2.
+
 ## § 8. (Opphevet)
 
 > Opphevet ved [lov 20 juni 2014 nr. 45](lov/2014-06-20-45) (ikr. 18 apr 2017 iflg. [res. 31 mars 2017 nr. 414](forskrift/2017-03-31-414)).
@@ -179,3 +181,5 @@ Gebyravgjørelser som gjelder registrering og anmerkning, kan ankes etter de reg
 ## § 17.
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 juni 1928 iflg. res. 13 apr 1928 del VI.

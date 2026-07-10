@@ -349,3 +349,5 @@ Fagskolestudentene ved Neste Steg Norge AS vil ha tilgang til et studentombud:St
 ### § 8-1. Ikrafttredelse
 
 (1) Forskriften trer i kraft når fagskoleutdanningen er endelig akkreditert.1
+
+1 I kraft 3 februar 2023, jf. meddelelse [8 sep 2025 nr. 1809](forskrift/2025-09-08-1809).

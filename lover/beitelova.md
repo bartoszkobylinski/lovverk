@@ -127,3 +127,5 @@ Denne lova tek til å gjelda frå den tid Kongen fastset.1 Samstundes held desse
 – – –
 
 Dei beiteforbod som er fastsette etter § 15 i lov om skogvern skal gjelda inntil dei vert brigda eller oppheva med heimel i [denne lov](lov/1961-06-16-12/§15)a.
+
+1 Frå 1 jan 1962 iflg. res. 8 des 1961.

@@ -94,9 +94,13 @@ Etter avtaleperiodens utløp opphører partenes rettigheter og plikter i henhold
 
 ### § 5-5. Avslutning før avtalt tid
 
+*Frivillig avslutning:*
+
 Kandidaten og institusjonen kan avtale at ph.d.-utdanningen avsluttes før avtalt tid. Ved slik avslutning av ph.d.-utdanningen skal det fastsettes skriftlig hvordan spørsmål knyttet til eventuelle tilsettingsforhold, finansiering, rettigheter til resultater mv. skal ordnes.
 
 Ved frivillig avslutning som skyldes kandidatens ønske om å skifte prosjekt eller overgang til annet program, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.
+
+*Tvungen avslutning:*
 
 Forskningsutvalget kan vedta tvungen avslutning av ph.d.-utdanningen før avtalt tid. Slik avslutning kan besluttes hvis ett eller flere av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, herunder unnlatt innsendelse av fremdriftsrapport, jf. [§ 9](forskrift/2012-06-05-645/§9).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet, herunder fusk som rammes av reglene i universitets- og [høyskoleloven § 4-7](lov/2005-04-01-15/§4-7).Opptreden fra en kandidat som bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av ph.d.-utdanningen.
 
@@ -318,11 +322,15 @@ Ph.d.-kandidaten kan etter innlevering søke om tillatelse til å rette formelle
 
 Rektor fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om ph.d.-avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling, kan rektor fatte vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom rektor finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal det søkes nærmere avklaring fra bedømmelseskomiteen og/eller oppnevnes to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader.
 
 Rektor fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir *delt* innstilling, behandles saken i Forskningsutvalget. Dersom Forskningsutvalget anbefaler å legge flertallets uttalelser til grunn, fatter rektor vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og Forskningsutvalget anbefaler å legge mindretallets uttalelser til grunn for vedtak, skal rektor søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges.
 
@@ -449,6 +457,8 @@ I avtaler om fellesgradssamarbeid og cotutelle kan det gjøres unntak for de øv
 Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i denne forskrift. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne. For fullført fellesgrad utstedes felles vitnemål i form av: a) et vitnemålsdokument utstedt av alle konsortiemedlemmene, b) et vitnemål fra hver av konsortiedeltakerne, eller en kombinasjon av a) og b).
 
 Fellesgrader skal normalt bare inngås dersom det fra før er et etablert, stabilt faglig samarbeid mellom institusjonen og minst en av de andre konsortiedeltakerne. Styret vedtar nærmere retningslinjer for fellesgradssamarbeid, herunder mal for samarbeidsavtaler, jf. første ledd.
+
+1[http://www.uhr.no/documents/En_h_ndbok_for_fellegradssamarbeid_rev_2009__2_.pdf](https://www.uhr.no/documents/En_h_ndbok_for_fellegradssamarbeid_rev_2009__2_.pdf)
 
 ### § 24-3. Cotutelle-avtaler
 

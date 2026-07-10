@@ -632,6 +632,10 @@ Den som handler i strid med beslutning om tilrettelegging etter [§ 7-3](lov/202
 
 Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
 
+1 Fra 1 jan 2021 iflg. res. [10 nov 2020 nr. 2296](forskrift/2020-11-10-2296), med unntak av kapittel 7 og 8.
+Fra 1 jan 2022 for kapittel 7 og 8 iflg. res. [26 aug 2021 nr. 2581](forskrift/2021-08-26-2581), med unntak av [§ 7-3](lov/2020-06-19-77/§7-3).
+Fra 2 sep 2022 for [§ 7-3](lov/2020-06-19-77/§7-3) iflg. [res. 2 sep 2022 nr. 1524](forskrift/2022-09-02-1524).
+
 ### § 12-2. Opphevelse
 
 Fra det tidspunktet loven trer i kraft, oppheves [lov 20. mars 1998 nr. 11](lov/1998-03-20-11) om Etterretningstjenesten.

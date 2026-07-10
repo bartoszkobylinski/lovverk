@@ -48,6 +48,8 @@ Dette gjelder likevel ikke:transport med motorvogn med største tillatte hastigh
 
 > Endret ved [forskrifter 25 feb 2005 nr. 170](forskrift/2005-02-25-170) (i kraft 1 april 2005), [20 des 2010 nr. 1752](forskrift/2010-12-20-1752) (i kraft 1 jan 2011), [21 nov 2014 nr. 1453](forskrift/2014-11-21-1453) (i kraft 1 jan 2015, se denne for overgangsbestemmelser), [6 des 2019 nr. 1646](forskrift/2019-12-06-1646) som endret ved [forskrift 23 juni 2020 nr. 1355](forskrift/2020-06-23-1355) (i kraft 1 nov 2020, se endringsforskriften for overgangsbestemmelser), [12 okt 2022 nr. 1757](forskrift/2022-10-12-1757) (i kraft 1 nov 2022), [25 mai 2023 nr. 734](forskrift/2023-05-25-734) (i kraft 1 juni 2023, se endringsforskriften for overgangsbestemmelser), [22 jan 2025 nr. 54](forskrift/2025-01-22-54) (i kraft 1 jan 2026).
 
+1 Som definert i [yrkestransportlova § 5 (2)](lov/2002-06-21-45/§5/ledd/2).
+
 ### § 3. Løyvemyndighet mv.
 
 Statens vegvesen er løyvemyndighet for løyve etter [yrkestransportlova § 4](lov/2002-06-21-45/§4) og [§ 5](lov/2002-06-21-45/§5). Den fylkeskommune hvor løyvesøker har sin forretningsadresse er løyvemyndighet for løyve etter [yrkestransportlova § 6](lov/2002-06-21-45/§6), [§ 7](lov/2002-06-21-45/§7), [§ 9](lov/2002-06-21-45/§9) og [§ 9b](lov/2002-06-21-45/§9b), med unntak av løyver for riksvegferjer. For en løyvesøker som skal drive behovsprøvd transport innen et annet fylke, er vedkommende fylkeskommune løyvemyndighet. Statens vegvesen er løyvemyndighet for riksvegferjer.
@@ -156,9 +158,28 @@ Løyvemyndigheten kan i særlige tilfeller forlenge denne fristen.
 
 ### § 12. Behandlingsgebyr
 
-Følgende gebyrsatser gjelder for behandling av søknad om løyve mv.:*Tjeneste**Ordinær betalingsmåte, kr**Betaling ved bruk av selvbetjeningsløsning, kr**Betalingsmottaker*Løyve for godstransport, turvogn og internasjonalt varebilløyve2 290–LøyvemyndighetenAttestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve1 520–LøyvemyndighetenAttestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve ved tapt løyve–1 520LøyvemyndighetenNasjonalt varebilløyve960–LøyvemyndighetenDrosjeløyve3700–LøyvemyndighetenDuplikatdokument for drosjeløyve3700–LøyvemyndighetenSentralløyve3700–LøyvemyndighetenRuteløyve3400–Løyvemyndigheten
+Følgende gebyrsatser gjelder for behandling av søknad om løyve mv.:
 
-Følgende gebyrsatser gjelder for gjennomføring av eksamen mv.:*Tjeneste**Ordinær betalingsmåte, kr**Betaling ved bruk av selvbetjeningsløsning, kr**Betalingsmottaker*Løyveeksamen for gods-, persontransport og internasjonalt varebilløyve1 2001 100Statens vegvesenUtstedelse av bevis for bestått løyveeksamen for gods-, persontransport og internasjonalt varebilløyve120–Statens vegvesenLøyveeksamen for nasjonalt varebilløyve610–Statens vegvesenLøyveeksamen for drosje470–Statens vegvesenTeoretisk førereksamen for drosje460400Statens vegvesen
+| *Tjeneste* | *Ordinær betalingsmåte, kr* | *Betaling ved bruk av selvbetjeningsløsning, kr* | *Betalingsmottaker* |
+| --- | --- | --- | --- |
+| Løyve for godstransport, turvogn og internasjonalt varebilløyve | 2 290 | – | Løyvemyndigheten |
+| Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve | 1 520 | – | Løyvemyndigheten |
+| Attestert kopi av løyve for godstransport, turvognløyve og internasjonalt varebilløyve ved tapt løyve | – | 1 520 | Løyvemyndigheten |
+| Nasjonalt varebilløyve | 960 | – | Løyvemyndigheten |
+| Drosjeløyve | 3700 | – | Løyvemyndigheten |
+| Duplikatdokument for drosjeløyve | 3700 | – | Løyvemyndigheten |
+| Sentralløyve | 3700 | – | Løyvemyndigheten |
+| Ruteløyve | 3400 | – | Løyvemyndigheten |
+
+Følgende gebyrsatser gjelder for gjennomføring av eksamen mv.:
+
+| *Tjeneste* | *Ordinær betalingsmåte, kr* | *Betaling ved bruk av selvbetjeningsløsning, kr* | *Betalingsmottaker* |
+| --- | --- | --- | --- |
+| Løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 1 200 | 1 100 | Statens vegvesen |
+| Utstedelse av bevis for bestått løyveeksamen for gods-, persontransport og internasjonalt varebilløyve | 120 | – | Statens vegvesen |
+| Løyveeksamen for nasjonalt varebilløyve | 610 | – | Statens vegvesen |
+| Løyveeksamen for drosje | 470 | – | Statens vegvesen |
+| Teoretisk førereksamen for drosje | 460 | 400 | Statens vegvesen |
 
 Vegdirektoratet kan fastsette behandlingsgebyr for utstedelse av de øvrige tillatelser og kontrolldokumenter for internasjonal transport, herunder kabotasje.
 

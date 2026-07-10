@@ -151,6 +151,8 @@ Avtale som innskrenker eller begrenser ansvar etter loven er ugyldig.
 
 > Endret ved lov [24 juni 1994 nr. 40](lov/1994-06-24-40) (ikr. 1 juli 1994).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1 (direktiv [2009/138](eu/32009l0138) som endret ved direktiv [2013/58](eu/32013l0058)).
+
 ### § 3-5. (Legemiddelansvarsforeningen)
 
 (1) Produsenter og importører av legemiddel som blir omsatt i Norge, må for å kunne drive slik virksomhet være tilsluttet en forening av slike produsenter og importører (Legemiddelansvarsforeningen). Det samme gjelder andre som ved arbeid med utvikling av legemidler plikter å ha forsikring etter [§ 3-4](lov/1988-12-23-104/§3-4). Legemiddelansvarsforeningen skal ha vedtekter som er godkjent av Kongen.
@@ -214,6 +216,8 @@ Erstatningskrav foreldes etter reglene i [lov 18 mai 1979 nr 18](lov/1979-05-18-
 (1) Loven tar til å gjelde fra den tid Kongen bestemmer.1 [Kapittel](lov/1988-12-23-104/kap3) 3 kan settes i kraft særskilt til annen tid enn loven ellers.
 
 (2) [Lovens kapittel 1](lov/1988-12-23-104/kap1) og 2 får ikke anvendelse på produkter som har forlatt produsentens kontroll (jf [§ 1-2](lov/1988-12-23-104/§1-2) tredje ledd) før lovens ikraftredelse. [Lovens kapittel 3](lov/1988-12-23-104/kap3) får ikke anvendelse på produkter som er gitt til forbruk (jf [§ 1-2](lov/1988-12-23-104/§1-2) annet ledd) før lovens ikrafttredelse.
+
+1 Loven trådte ikr. 1 jan 1989 iflg. res. 23 des 1988 nr. 1065, unntatt kapittel 3 om særregler om legemiddelansvaret, som ble satt ikr. 1 juli 1989 iflg. [res. 21 apr 1989 nr. 268](forskrift/1989-04-21-268).
 
 ### § 4-2. (endring i andre lover)
 

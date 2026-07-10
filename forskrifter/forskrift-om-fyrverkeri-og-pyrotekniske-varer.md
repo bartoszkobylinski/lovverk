@@ -282,6 +282,8 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ## Kapittel 3. Markedsføring og kontroll
 
+Bestemmelsene i dette kapittelet gjennomfører de tekniske bestemmelsene i direktiv [93/15/EØF](eu/31993l0015*) av 5. april 1993 om harmonisering av bestemmelsene om markedsføring og kontroll med eksplosive varer til sivilt bruk.
+
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
 ### § 3-1. Virkeområde for dette kapittelet
@@ -532,23 +534,29 @@ Pga. fare for splinter og utkast skal sikkerhetsavstanden ikke være mindre enn 
 
 Ved samlagring av flere faregrupper, blir strengeste krav til avstand gjeldende for totalmengden.
 
-Sikkerhetsavstander og faktorer for faregruppe 1.1:*Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til: Bolighus**Avstand i meter til: Offentlig veg, kai, jernbane o.l.**Avstand i meter mellom magasiner med barrikade**Avstand i meter mellom magasiner uten barrikade*k = 44,4,
-n = 1/3k = 22,2,
-n = 1/3k = 14,8,
-n = 1/3k = 2,4,
-n = 1/3k = 22,2,
-n =1/3Dmin = 800Dmin = 400Dmin = 180Dmin = 8Dmin = 180
+Sikkerhetsavstander og faktorer for faregruppe 1.1:
 
-Sikkerhetsavstander og faktorer for faregruppe 1.2:*Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til: Bolighus**Avstand i meter til: Offentlig veg, kai, jernbane o.l.**Avstand i meter mellom magasiner med/uten barrikade*k = 136,
-n = 0.18k = 68,
-n = 0.18k = 68,
-n = 0.18---------------Dmin = 400Dmin = 270Dmin = 135Dmin = 90
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til: Bolighus* | *Avstand i meter til: Offentlig veg, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med barrikade* | *Avstand i meter mellom magasiner uten barrikade* |
+| k = 44,4,<br>n = 1/3 | k = 22,2,<br>n = 1/3 | k = 14,8,<br>n = 1/3 | k = 2,4,<br>n = 1/3 | k = 22,2,<br>n =1/3 |
+| Dmin = 800 | Dmin = 400 | Dmin = 180 | Dmin = 8 | Dmin = 180 |
 
-Sikkerhetsavstander og faktorer for faregruppe 1.3:*Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til: Bolighus**Avstand i meter til: Offentlig vei, kai, jernbane o.l.**Avstand i meter mellom magasiner med/uten barrikade*k = 12,8,
-n = 1/3k = 6,4,
-n = 1/3k = 6,4,
-n = 1/3k = 0,22,
-n = 1/2Dmin = 240Dmin = 60Dmin = 60Dmin = 25
+Sikkerhetsavstander og faktorer for faregruppe 1.2:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til: Bolighus* | *Avstand i meter til: Offentlig veg, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med/uten barrikade* |
+| k = 136,<br>n = 0.18 | k = 68,<br>n = 0.18 | k = 68,<br>n = 0.18 | --------------- |
+| Dmin = 400 | Dmin = 270 | Dmin = 135 | Dmin = 90 |
+
+Sikkerhetsavstander og faktorer for faregruppe 1.3:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *Avstand i meter til: Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til: Bolighus* | *Avstand i meter til: Offentlig vei, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med/uten barrikade* |
+| k = 12,8,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 0,22,<br>n = 1/2 |
+| Dmin = 240 | Dmin = 60 | Dmin = 60 | Dmin = 25 |
 
 Sikkerhetsavstander for eksplosive varer i faregruppe 1.4:Sikkerhetsavstanden er 25 meter til nærmeste nabo for mengder opp til 10 tonn og 50 meter for mengder over 10 tonn.
 
@@ -1538,9 +1546,13 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ## Vedlegg I. Grunnleggende sikkerhetskrav
 
+*I. Alminnelige krav*
+
 1. Hver eksplosiv vare skal utformes, fremstilles og leveres slik at det utgjør en minst mulig fare for menneskers liv og helse, og at skade på eiendom og miljø unngås under vanlige og forventede forhold, særlig med hensyn til sikkerhetsregler og vanlig praksis, også i tidsrommet før det brukes.
 2. Hver eksplosiv vare skal ha de ytelsesegenskaper produsenten har spesifisert for å sikre størst mulig sikkerhet og pålitelighet.
 3. Hver eksplosiv vare skal utformes og fremstilles slik at det ved anvendelse av en hensiktsmessig metode kan tilintetgjøres med minst mulige virkninger på miljøet.
+
+*II. Særlige krav*
 
 1. Som et minstekrav skal følgende opplysninger og egenskaper tas i betraktning eller kontrolleres, der det er hensiktsmessig. Slik kontroll skal foretas under realistiske forhold. Dersom dette ikke er mulig i et laboratorium, skal prøvene utføres under forhold som tilsvarer den eksplosive vares virkelige bruksforhold.Oppbygging og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsforhold og om nødvendig dimensjoner og kornstørrelsesfordeling.Den eksplosive vares fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for.Følsomhet for støt og friksjon.Alle bestanddelenes forenlighet med hensyn til deres fysiske og kjemiske stabilitet.Den eksplosive vares kjemiske renhet.Den eksplosive vares motstandsdyktighet mot vann, når den er beregnet på å brukes under fuktige eller våte forhold og der vann kan svekke den eksplosive vares sikkerhet og pålitelighet.Motstandsdyktighet mot høye og lave temperaturer, når det er fastsatt at den eksplosive varen skal lagres eller brukes ved slike temperaturer, og dens sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av selve den eksplosive varen.Den eksplosive vares egnethet til bruk i farlige omgivelser (f.eks. omgivelser utsatt for gruvegass, varme masser osv.), dersom det er fastsatt at den skal brukes under slike forhold.Sikkerhetsinnretninger beregnet på å forhindre at antenning eller initiering skjer i utide eller ved uaktsomhet.Riktig lading av og virkemåte til den eksplosive varen når den brukes i samsvar med sitt formål.Passende bruksanvisning og om nødvendig merking på mottakerstatens offisielle språk, med hensyn til sikker håndtering, lagring, bruk og tilintetgjøring.Den evne den eksplosive varen, dens innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt.Spesifisering av alle innretninger og alt tilbehør som er nødvendig for at den eksplosive varen skal fungere pålitelig og sikkert.
 2. De forskjellige gruppene av eksplosive varer skal også minst oppfylle følgende krav:
@@ -1553,6 +1565,8 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ## Vedlegg II.
 
+*1) Modul B: EF-typeprøving*
+
 1. Denne modulen beskriver den del av fremgangsmåten som angår hvordan et teknisk kontrollorgan skal vurdere om en eksplosiv vare, som er representativ for den påtenkte produksjon, samsvarer med de bestemmelser i denne forskrift som kommer til anvendelse på den.
 2. Søknad om EF-typeprøving skal være fremsatt av produsenten eller dennes representant etablert innenfor EØS-området til et teknisk kontrollorgan etter eget valg. Søknaden skal omfatte:produsentens navn og adresse og, dersom søknaden er fremsatt ved en representant, representantens navn og adresse,en skriftlig erklæring om at samme søknad ikke er fremsatt for et annet teknisk kontrollorgan,den tekniske dokumentasjon, som beskrevet i nr. 3.Søkeren skal stille til det tekniske kontrollorgans rådighet en representativ prøve på den planlagte produksjon, heretter kalt «type». Det tekniske kontrollorgan kan be om flere prøveeksemplarer dersom dette er nødvendig for å utføre prøvingsprogrammet.
 3. Den tekniske dokumentasjonen må gjøre det mulig å vurdere om produktet er i samsvar med forskriftens krav. Så langt det er nødvendig for vurderingen, skal den omfatte produktets utforming, produksjon og funksjon samt, i den grad det er nødvendig for vurderingen, inneholde:en alminnelig beskrivelse av «typen»,konstruksjons- og produksjonstegninger samt diagrammer som viser komponenter, delsammenstillinger, kretser osv.,de nødvendige beskrivelser og forklaringer for å kunne forstå nevnte tegninger og diagrammer samt produktets funksjon,en oversikt over de standarder nevnt i [§ 3-2](forskrift/2002-06-26-922/§3-2) som helt eller delvis får anvendelse, og en beskrivelse av de løsninger som er valgt for å oppfylle forskriftens grunnleggende krav når standardene i nevnte paragraf ikke er blitt anvendt,resultatene av de foretatte konstruksjonsberegninger og undersøkelser,prøverapportene.
@@ -1563,10 +1577,14 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 8. De øvrige tekniske kontrollorganer kan få kopi av EF-typeprøvingssertifikatene og/eller tilleggene til dem. Vedleggene til sertifikatene skal stilles til rådighet for de øvrige tekniske kontrollorganer.
 9. Produsenten eller hans representant etablert innenfor EØS-området skal sammen med den tekniske dokumentasjonen oppbevare en kopi av EF-typeprøvingssertifikatene og tilleggene til dem i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i Fellesskapet.
 
+*2) Modul C: typesamsvar*
+
 1. Denne modulen beskriver den del av fremgangsmåten som angår hvordan produsenten eller hans representant etablert innenfor EØS-området skal erklære at de aktuelle eksplosive varer er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de relevante krav i denne forskrift. Produsenten skal sette CE-merket på hver eksplosiv vare og utstede en skriftlig samsvarserklæring.
 2. Produsenten skal treffe alle nødvendige tiltak for å påse at produksjonsprosessen ivaretar det produserte produkts samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og med forskriftens krav.
 3. Produsenten eller hans representant skal beholde en kopi av samsvarserklæringen i et tidsrom på minst ti år regnet fra siste produksjonsdato for produktet.Dersom verken produsenten eller hans representant er etablert innenfor EØS-området, påhviler plikten til å kunne fremlegge den tekniske dokumentasjon den person som markedsfører produktet i EØS-området.
 4. Et teknisk kontrollorgan som er valgt av produsenten, skal med vilkårlige mellomrom utføre eller få utført kontroller av produktet. En egnet prøve av de ferdige produktene, som skal tas på stedet av det tekniske kontrollorgan, skal kontrolleres, og hensiktsmessige prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver, skal utføres for å kontrollere produktets samsvar med kravene i denne forskrift. I tilfelle en eller flere av produktprøvene som kontrolleres ikke er i samsvar, skal det tekniske kontrollorgan treffe de nødvendige tiltak.Produsenten skal på det tekniske kontrollorgans ansvar påføre organets identifikasjonssymbol i løpet av produksjonsprosessen.
+
+*3) Modul D: kvalitetssikring av produksjonen*
 
 1. Denne modulen beskriver den fremgangsmåten en produsent som oppfyller forpliktelsene i nr. 2, skal følge for å påse og erklære at de aktuelle eksplosive varer er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de grunnleggende krav i denne forskrift. Produsenten skal påføre hver eksplosiv vare CE-merket og utstede en skriftlig samsvarserklæring. Sammen med CE-merket skal påføres identifikasjonssymbolet til det tekniske kontrollorgan som har ansvaret for kontrollen omtalt i nr. 4.
 2. Produsenten skal anvende et akseptert kvalitetssikringssystem for produksjon, sluttinspeksjon og prøving som beskrevet i nr. 3. Han er underlagt kontrollen omtalt i nr. 4.
@@ -1575,6 +1593,8 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato:dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd ogdet tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
 6. Hver av de tekniske kontrollorganer skal gi de øvrige tekniske kontrollorganer alle nødvendige opplysninger om utstedte og tilbakekalte godkjennelser av kvalitetssikringssystemer.
 
+*4) Modul E: kvalitetssikring av produktet*
+
 1. Denne modulen beskriver den fremgangsmåten en produsent som oppfyller forpliktelsene i nr. 2, skal følge for å påse og erklære at de eksplosive varene er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet. Produsenten skal sette CE-merket på hver eksplosiv vare og utstede en skriftlig samsvarserklæring. Sammen med CE-merket skal påføres identifikasjonssymbolet til det tekniske kontrollorgan som har ansvaret for kontrollen omtalt i nr. 4.
 2. Produsenten skal anvende et godkjent kvalitetssikringssystem for sluttinspeksjon og prøving av eksplosive varer som beskrevet i nr. 3. Vedkommende er underlagt kontrollen omtalt i nr. 4.
 3. *Kvalitetssikringssystem*Produsenten skal sende en søknad om å få vurdert sitt kvalitetssikringssystem for eksplosive varer til et teknisk kontrollorgan etter eget valg.Søknaden skal inneholde:alle relevante opplysninger om den planlagte kategori eksplosive varer,dokumentasjon om kvalitetssikringssystemet,teknisk dokumentasjon om den vurderte «typen» samt kopi av EF-typeprøvingssertifikatet.I henhold til kvalitetssikringssystemet skal hver eksplosiv vare undersøkes, og egnede prøver som angitt i standarden(e), jf. forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2) eller tilsvarende prøver skal utføres for å kontrollere at den eksplosive varen er i samsvar med de gjeldende krav i denne forskrift. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, må dokumenteres på en systematisk og ordentlig måte i form av skriftlige forholdsregler, fremgangsmåter og instrukser. Denne dokumentasjonen om kvalitetssikringssystemet skal muliggjøre en ensartet tolkning av programmer, planer, håndbøker og kvalitetsregistre.Den skal bl.a. inneholde en hensiktsmessig beskrivelse av:kvalitetsmål, organisasjonsstruktur, samt ledelsens plikter og myndighet med hensyn til produktenes kvalitet,de undersøkelser og prøver som vil bli foretatt etter produksjonen,hvordan det kontrolleres at kvalitetssikringssystemet virker på en effektiv måte,kvalitetsregistre, som f.eks. inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om personalets kvalifikasjoner.Det tekniske kontrollorgan skal vurdere kvalitetssikringssystemet for å avgjøre om det oppfyller kravene i nr. 3.2. Det skal anse kravene som oppfylt dersom kvalitetssikringssystemet etterkommer den harmoniserte standard på området.Revisjonsgruppen må ha minst ett medlem med erfaring i å vurdere vedkommende produktteknologi. Vurderingen skal innbefatte et inspeksjonsbesøk til produsentens anlegg.Produsenten skal underrettes om avgjørelsen. Meddelelsen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.Produsenten skal påta seg å oppfylle sine forpliktelser i henhold til kvalitetssikringssystemet slik det er vurdert, og opprettholde det på et forsvarlig og effektivt nivå.Produsenten eller hans representant skal holde det tekniske kontrollorgan som har vurdert kvalitetssikringssystemet, underrettet om alle endringsforslag til dette.Det tekniske kontrollorgan skal vurdere endringsforslagene og bestemme om det endrede kvalitetssikringssystem fremdeles oppfyller kravene i nr. 3.2 eller om det må foretas ny vurdering.Det skal gi produsenten underretning om sin beslutning. Underretningen skal inneholde konklusjonene fra undersøkelsen samt den grunngitte avgjørelsen med hensyn til vurderingen.
@@ -1582,11 +1602,15 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 5. Produsenten skal stille følgende til rådighet for de nasjonale myndigheter i minst ti år regnet fra siste produksjonsdato for produktet:dokumentasjonen nevnt i nr. 3.1 annet strekpunkt,eventuelle endringsforslag som nevnt i nr. 3.4 annet ledd, ogdet tekniske kontrollorgans beslutninger og rapporter nevnt i nr. 3.4 siste ledd samt i nr. 4.3 og 4.4.
 6. Hvert av de tekniske kontrollorganer skal gi de øvrige tekniske kontrollorganer alle nødvendige opplysninger om utstedte og tilbakekalte vurderinger av kvalitetssikringssystemer.
 
+*5) Modul F: produktverifisering.*
+
 1. Denne modulen beskriver fremgangsmåten som angår hvordan produsenten eller hans representant etablert innenfor EØS-området skal sikre og erklære at de eksplosive varer som er underlagt bestemmelsene i nr. 3, er i samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og oppfyller de krav i denne forskrift som kommer til anvendelse.
 2. Produsenten skal treffe alle de nødvendige tiltak for å påse at produksjonsprosessen ivaretar de eksplosive varenes samsvar med «typen» beskrevet i EF-typeprøvingssertifikatet og med forskriftens krav. Vedkommende skal sette CE-merket på hver eksplosiv vare og utstede en samsvarserklæring.
 3. Det tekniske kontrollorgan skal utføre de nødvendige undersøkelser og prøver for å verifisere at den eksplosive varen er i samsvar med de relevante krav i forskriften ved å undersøke og prøve hver eksplosiv vare som beskrevet i nr. 4.
 4. Produsenten eller hans representant skal beholde en kopi av samsvarserklæringen i et tidsrom på minst ti år regnet fra siste produksjonsdato for den eksplosive varen.
 5. *Verifisering ved undersøkelse og prøving av hver eksplosiv vare*Alle de eksplosive varene skal undersøkes enkeltvis og egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens [§ 3-2](forskrift/2002-06-26-922/§3-2), eller tilsvarende prøver skal utføres for å vurdere samsvar med den «type» og de krav som gjelder i henhold til forskriften.Produsenten skal sette eller sørge for å få satt sitt identifikasjonssymbol på hver godkjent eksplosiv vare og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.Produsenten eller hans representant skal på oppfordring være i stand til å fremlegge det tekniske kontrollorgans samsvarsvurdering.
+
+*6) Modul G: verifisering av enkelteksemplarer*
 
 1. Denne modulen beskriver den fremgangsmåten som angår hvordan produsenten skal forsikre seg om og erklære at den eksplosive vare sertifikatet nevnt i nr. 2 er utstedt for, samsvarer med de krav i denne forskrift som får anvendelse. Produsenten skal sette CE-merket på den eksplosive varen og utstede en samsvarserklæring.
 2. Det tekniske kontrollorgan skal undersøke den eksplosive varen og utføre egnede prøver som angitt i den eller de relevante standarder nevnt i forskriftens § 3-2, eller tilsvarende prøver for å forsikre seg om at de er i samsvar med de grunnleggende krav i forskriften.Det tekniske kontrollorgan skal sette eller få satt sitt identifikasjonssymbol på den godkjente eksplosive varen og utstede en skriftlig samsvarsvurdering i forbindelse med de prøvene som er blitt utført.
@@ -1616,10 +1640,101 @@ Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske mi
 
 ## Vedlegg V. Artikler, som i henhold til FNs rekommandasjoner for transport av farlig gods betraktes som pyrotekniske artikler eller ammunisjon
 
+| *FN-nummer* | *Navn og beskrivelse* | *Klassifiseringskoder* | *Ordliste* (kun brukes som informasjon) |
+| --- | --- | --- | --- |
+| *Gruppe G* |  |  |  |
+| 0009 | Ammunisjon, brann, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | *Ammunisjon*<br>Generell betegnelse, som hovedsaklig vedrører gjenstander til militær bruk og omfatter alle slags bomber, granater, raketter, miner, prosjektiler og andre lignende anordninger.<br>*Ammunisjon, brannstiftende*<br><br>Ammunisjon, som inneholder et brennbart stoff. Med unntak av tilfelle hvor det brennbare stoffet er et sprengstoff i seg selv, inneholder det også en eller flere av følgende bestanddeler: drivladning med tennsats og tenner, brannrør med sprengladning eller utkasterladning. |
+| 0010 | Ammunisjon, brannstiftende, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se under FN-nr. 0009 |
+| 0015 | Ammunisjon, røyk, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | *Ammunisjon, røyk-*<br>Ammunisjon, som inneholder et tåreframkallende stoff. Med unntak av tilfeller, hvor stoffet er et sprengstoff i seg selv, inneholder ammunisjonen også en eller flere av følgende bestanddeler: En drivladning med tennladning og tennsats, et brannrør med sprengladning eller utstøterladning. |
+| 0016 | Ammunisjon, røyk, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se under FN-nr. 0015 |
+| 0018 | Ammunisjon, tåregass, med sprengladning, utstøterladning eller drivladning | 1.2 G | *Ammunisjon, tåregass, med sprengladning, utstøterladning eller drivladning*<br>Ammunisjon, som inneholder et tåreframkallende stoff. Det inneholder dessuten en eller flere av følgende bestanddeler: pyroteknisk stoff, en drivladning med tennladning og tennsats, et brannrør med sprengladning eller utstøterladning. |
+| 0019 | Ammunisjon, tåregass, med sprengladning, utstøterladning eller drivladning | 1.3 G | Se under FN-nr. 0018 |
+| 0039 | Bomber, fotoflash | 1.2 G | *Bomber*<br>Eksplosivgjenstand som droppes fra fly. Kan inneholde en brennbar væske med sprengladning, en fotoflashsats eller en sprengladning. Betegnelsen omfatter: fotobomber. |
+| 0049 | Patroner, lys- | 1.1 G | *Patroner, lys-*<br>Gjenstand, som består av en hylse, en tennladning og blitzlyspulver samlet i ett og klar til avfyring. |
+| 0050 | Patroner, lys- | 1.3 G | Se under FN-nr. 0049 |
+| 0054 | Patroner, signal- | 1.3 G | *Patroner, signal-*<br>Gjenstand beregnet til å avfyre fargede signalbluss eller andre signaler fra signalpistoler og lignende. |
+| 0066 | Lunte, tenn | 1.4 G | *Lunte, tenn*<br>Gjenstand bestående av tekstilgarn dekket med svartkrutt eller en annen hurtigbrennende pyroteknisk blanding og med en bøyelig beskyttelsesomspinning. Den kan også bestå av en kjerne av svartkrutt omhyllet av bøyelig vevet stoff. Den brenner i lengderetning med en ytre flamme og anvendes til å overføre tenning fra en anordning til en ladning. |
+| 0092 | Bluss, bakke | 1.3 G | *Signalbluss*<br>Gjenstand som inneholder pyrotekniske stoffer som er beregnet til anvendelse med henblikk på lyseffekt, identifikasjon, signalering eller advarsel. |
+| 0093 | Bluss, luft | 1.3 G | Se under FN-nr. 0092 |
+| 0101 | Lunte, ikke detonerende | 1.3 G | *Lunte/brannrør*<br>De engelske betegnelsene for lunte/brannrør (fuse/fuze) har felles opprinnelse (fransk fusee, fusil) og ansees somme tider for å være forskjellige stavemåter, men det er viktig å fastholde at fuse (lunte) betegner en snorlignende tennanordning, mens fuze (brannrør) betegner en anordning som inneholder mekaniske, elektriske, kjemiske eller hydrostatiske komponenter til initiering av serietenning ved deflagrasjon eller detonasjon.<br>*Lunte, hurtigvirkende, ikke-detonerende (quickmatch)*<br>Gjenstand bestående av bomullsgarn impregnert med fint svartkrutt (quickmatch). Brenner med en utvendig flamme og anvendes ved serietenning av fyrverkeri m.m. |
+| 0103 | Lunte, tenn, rørformet, metalldekket | 1.4 G | *Brannrør, metalldekket*<br>Gjenstand bestående av et metallrør med en kjerne av et deflagrerende sprengstoff. |
+| 0171 | Ammunisjon, lys, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | *Ammunisjon, lys, med eller uten sprengladning, utstøterladning eller drivladning*<br>Ammunisjon beregnet på å frambringe en enkel sterk lyskilde til opplysning av et område. Betegnelsen omfatter lyspatroner, lysgranater og lysprosjektiler samt målidentifikasjonsbomber. |
+| 0191 | Signalmidler, hånd | 1.4 G | *Gjenstand beregnet på å frambringe signaler* |
+| 0192 | Signaler, jernbanespor, eksplosive | 1.1 G | Se under FN-nr. 0191 |
+| 0194 | Signaler, nød, skip | 1.1 G | Se under FN-nr. 0191 |
+| 0195 | Signaler, nød, skip | 1.3 G | Se under FN-nr. 0191 |
+| 0196 | Signaler, røyk | 1.1 G | Se under FN-nr. 0191 |
+| 0197 | Signaler, røyk | 1.4 G | Se under FN-nr. 0191 |
+| 0212 | Sporlys for ammunisjon | 1.3 G | *Sporlys for ammunisjon*<br>Hermetisk lukket gjenstand, som inneholder pyrotekniske stoffer beregnet på å vise et prosjektils bane. |
+| 0254 | Ammunisjon, lys, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se under FN-nr. 0171 |
+| 0297 | Ammunisjon, lys, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se under FN-nr. 0254 |
+| 0299 | Bomber, fotoflash | 1.3 G | Se under FN-nr. 0039 |
+| 0300 | Ammunisjon, brann, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se under FN-nr. 0009 |
+| 0301 | Ammunisjon, tåregass, med sprengladning, utstøterladning eller drivladning | 1.4 G | Se under FN-nr. 0018 |
+| 0303 | Ammunisjon, røyk, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se under FN-nr. 0015 |
+| 0306 | Sporlys for ammunisjon | 1.4 G | Se under FN-nr. 0015 |
+| 0312 | Patroner, signal | 1.4 G | *Patroner, signal-*<br>Gjenstand beregnet til å avfyre fargede signalbluss eller andre signaler fra signalpistol |
+| 0313 | Signaler, røyk | 1.2 G | Se under FN-nr. 0195 |
+| 0318 | Granater, øvelse, hånd eller gevær | 1.3 G | *Granater, øvelse, hånd eller gevær*<br>Gjenstand som er beregnet til å bli kastet med hånden eller skutt ut med gevær. Betegnelsen omfatter granater, øvelses-, hånd- eller gevær- |
+| 0319 | Tennpatroner | 1.3 G | *Tennpatroner*<br>Gjenstand som består av en tennladning til tenning og en hjelpeladning bestående av et deflagrerende sprengstoff som f.eks. svartkrutt, som anvendes til å antenne drivladningen i hylstre til f.eks. kanoner. |
+| 0320 | Tennpatroner | 1.4 G | Se under FN-nr. 0319 |
+| 0333 | Fyrverkeri | 1.1 G | *Fyrverkeri*<br>Pyrotekniske gjenstander beregnet til underholdning. |
+| 0334 | Fyrverkeri | 1.2 G | Se under FN-nr. 0333 |
+| 0335 | Fyrverkeri | 1.3 G | Se under FN-nr. 0333 |
+| 0336 | Fyrverkeri | 1.4 G | Se under FN-nr. 0333 |
+| 0362 | Ammunisjon, øvelses | 1.4 G | *Ammunisjon, øvelses*<br>Ammunisjon uten hovedladning, som inneholder en sprengladning eller utstøterladning. Normalt inneholder den også et brannrør og en drivladning |
+| 0363 | Ammunisjon, kalibrerings | 1.4 G | *Ammunisjon, kalibrerings*<br>Ammunisjon som inneholder pyrotekniske stoffer. Anvendes til prøving av ytelse eller kraft av ny ammunisjon, våpenkomponenter eller -kombinasjoner. |
+| 0372 | Granater, øvelses, hånd eller gevær | 1.2 G | Se under FN-nr. 0318 |
+| 0373 | Signalmidler, hånd | 1.4 S | Se under FN-nr. 0191 |
+| 0403 | Bluss, luft | 1.4 G | Se under FN-nr. 0092 |
+| 0418 | Bluss, bakke | 1.2 G | Se under FN-nr. 0092 |
+| 0419 | Bluss, bakke | 1.1 G | Se under FN-nr. 0092 |
+| 0420 | Bluss, luft | 1.1 G | Se under FN-nr. 0092 |
+| 0421 | Bluss, luft | 1.2 G | Se under FN-nr. 0092 |
+| 0424 | Prosjektiler, kalde med sporlys | 1.3 G | *Prosjektiler*<br>Gjenstand som f.eks. granater eller kuler, som utskytes fra en kanon eller lignende, et gevær eller et annet håndskytevåpen. Kan være inerte med eller uten lysspor eller kan inneholde en spreng- eller utstøterladning eller sprengladning. Betegnelsen omfatter: Prosjektiler, inerte med lysspor, prosjektiler med sprengladning eller utstøterladning, prosjektiler med sprengladning |
+| 0425 | Prosjektiler, kalde med sporlys | 1.4 G | Se under FN-nr. 0424 |
+| 0428 | Pyrotekniske gjenstander for teknisk bruk | 1.1 G | *Pyrotekniske gjenstander for teknisk bruk*<br>Gjenstand som inneholder pyrotekniske stoffer og anvendes til tekniske formål som f.eks. frambringing av varme, gass, teatereffekter osv. Betegnelsen omfatter ikke følgende gjenstander som er oppført separat: all ammunisjon, patroner, signal, kabelkuttere, eksplosiver, fyrverkeri, lysbomber, signalbluss, utløseranordninger, sprengnagler, signalbluss, nødsignaler, jernbaneknallkapsler, røyksignaler |
+| 0429 | Pyrotekniske gjenstander for teknisk bruk | 1.2 G | Se under FN-nr. 0428 |
+| 0430 | Pyrotekniske gjenstander for teknisk bruk | 1.3 G | Se under FN-nr. 0428 |
+| 0431 | Pyrotekniske gjenstander for teknisk bruk | 1.4 G | Se under FN-nr. 0428 |
+| 0434 | Prosjektiler med spreng- eller utstøterladning | 1.2 G | *Prosjektiler*<br>Gjenstand som f.eks. granater eller kuler som utskytes fra en kanon eller lignende, et gevær eller annet håndskytevåpen. Kan være inerte, med eller uten lysspor eller kan inneholde spreng- eller utstøterladning eller en sprengladning. Betegnelsen omfatter prosjektiler, inerte, med lysspor, prosjektiler med sprengladning eller utstøterladning, prosjektiler med sprengladning. |
+| 0435 | Prosjektiler med spreng- eller utstøterladning | 1.4 G | Se under FN-nr. 0434 |
+| 0452 | Granater, øvelses, hånd eller gevær | 1.4 G | Se under FN-nr. 0372 |
+| 0487 | Signaler, røyk | 1.3 G | Se under FN-nr. 0194 |
+| 0488 | Ammunisjon, øvelses | 1.3 G | *Ammunisjon, øvelses*<br>Ammunisjon uten hovedladning, som inneholder en sprengladning eller en utstøterladning. Normalt inneholder den også et brannrør og en drivladning. Betegnelsen utelukker følgende artikler: granater, øvelses |
+| 0492 | Signaler, jernbanespor, eksplosive | 1.3 G | Se under FN-nr. 0194 |
+| 0493 | Signaler, jernbanespor, eksplosive | 1.4 G | Se under FN-nr. 0194 |
+| 0503 | Kollisjonsputeladninger eller kollisjonsputeenheter eller beltestrammere | 1.4 G |  |
+| *Gruppe S* |  |  |  |
+| 0110 | Granater, øvelses, hånd eller gevær | 1.4 S | Se under FN-nr. 0318 |
+| 0193 | Signaler, jernbanespor, eksplosive | 1.4 S | Se under FN-nr. 0194 |
+| 0337 | Fyrverkeri | 1.4 S | Se under FN-nr. 0334 |
+| 0345 | Prosjektiler, kalde med sporlys | 1.4 S | *Prosjektiler*<br>Gjenstand som f.eks. granater eller kuler som utskytes fra en kanon eller lignende, et gevær eller et annet håndskytevåpen. Kan være inerte, med eller uten lysspor eller kan inneholde en spreng- eller utstøterladning eller en sprengladning. |
+| 0376 | Tennpatroner | 1.4 S | Se under FN-nr. 0319 |
+| 0404 | Bluss, luft | 1.4 S | Se under FN-nr. 0092 |
+| 0405 | Patroner, signal | 1.4 S | *Patroner, signal*<br>Gjenstand beregnet til å avfyre fargede signalbluss eller andre signaler fra signalpistol og lignende. |
+| 0432 | Pyrotekniske gjenstander for teknisk bruk. | 1.4 S |  |
+
 > Tilføyd ved [forskrift 23 juni 2006 nr. 699](forskrift/2006-06-23-699) (i kraft 1 juli 2006), endret ved [forskrift 15 okt 2008 nr. 1114](forskrift/2008-10-15-1114).
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.
 
 ## Vedlegg VI. Artikler hvor det må nærmere fastsettes om de er pyrotekniske artikler eller eksplosiver
+
+| *FN-nr.* | *Navn og beskrivelse* | *Klassifiseringskoder* | *Ordliste* (kun brukes som informasjon) |
+| --- | --- | --- | --- |
+| *Gruppe G* |  |  |  |
+| 0121 | Tennere | 1.1 G | *Tennere*<br>Gjenstand inneholdende et eller flere eksplosiver beregnet til å utløse en deflagrasjon i en tennkjede. Gjenstandene kan utløses kjemisk, elektrisk eller mekanisk |
+| 0314 | Tennere | 1.2 G | Se under FN-nr. 0121 |
+| 0315 | Tennere | 1.3 G | Se under FN-nr. 0121 |
+| 0316 | Tennmekanismer | 1.3 G |  |
+| 0317 | Tennmekanismer | 1.4 G |  |
+| 0325 | Tennere | 1.4 G | Se under FN-nr. 0121 |
+| 0353 | Gjenstander, eksplosive N.O.S. | 1.4 G |  |
+| 0454 | Tennere | 1.4 S | Se under FN-nr. 0121 |
+| *Gruppe S* |  |  |  |
+| 0131 | Luntetennere | 1.4 S | *Luntetennere*<br>Gjenstand som kan være konstruert på forskjellige måter og som tjener til antenning av sikkerhetslunte. De utløses ved riving eller slag eller elektrisk |
+| 0349 | Gjenstander, eksplosive N.O.S. | 1.4 S |  |
+| 0368 | Tennmekanismer | 1.4 S |  |
 
 Opphevet fra 1 juli 2017 med unntak av bestemmelsene som gjelder pyrotekniske midler.

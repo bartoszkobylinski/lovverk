@@ -149,23 +149,61 @@ eu_basis: []
 
 ### § 3-2. Karakterskala og vurderingsuttrykk
 
-(1) Fagskolen Rogaland benytter disse vurderingsuttrykkene, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40):Bokmål:*Symbol**Betegnelse**Generell, ikke-fagspesifikk beskrivelse av vurderingskriteriene*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet. Bokmål:*Symbol**Betegnelse**Generell, ikke-fagspesifikk beskrivelse av vurderingskriteriene*BeståttBeståttPrestasjon som tilfredsstiller de faglige minimumskravene.
-Studenten viser både tilfredsstillende vurderingsevne og selvstendighet.Ikke beståttIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet. Nynorsk:*Symbol**Nemning**Generell, ikkje-fagspesifikk framstilling av vurderingskriteria*AFramifråFramifrå prestasjon som skil seg klårt ut.
-Studenten syner særs god vurderingsevne og originalitet.BMykje godMykje god prestasjon.
-Studenten syner mykje god evne til vurdering og originalitet.CGodJamt god prestasjon som er tilfredsstillande på dei fleste områda.
-Studenten syner god evne til vurdering og originalitet på dei viktigaste områda.DNokså godEin akseptabel prestasjon med nokre vesentlege manglar.
-Studenten syner ei viss grad av evne til vurdering og originalitet.ETilstrekkeligPrestasjonen dekkjer minimumskrava, men heller ikkje meir.
-Studenten syner lita evne til vurdering og originalitet.FIkke beståttPrestasjon som ikkje dekkjer de faglege minstekrava.
-Studenten syner både manglande evne vurdering og originalitet. Nynorsk:*Symbol**Betegnelse**Generell, ikkje-fagspesifikk omtale av vurderingskriteria*BeståttBeståttPrestasjon som dekkjer dei faglege minstekrava.
-Studenten syner både tilfredsstillande evne til vurdering og originalitet.Ikkje beståttIkkje beståttPrestasjon som ikkje dekkjer dei faglege minstekrava.
-Studenten syner både manglande evne til vurdering og originalitet. Engelsk:*Symbol**Description**General, qualitative, non-subject specific description of the assessment valuation criteria*AExcellentAn excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and independent skills and/or understanding.BVery GoodA very good performance. The candidate demonstrates very good judgement and independent skills and/or understanding.CGoodA good performance in most areas. The candidate demonstrates good judgement and independent skills and/or understanding.DSatisfactoryA satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent skills and/or understanding.ESufficientA performance that meets the minimum criteria, but not more. The candidate meets the minimum criteria and demonstrates a very limited judgement and independent skills and/or understanding.FFailedA performance that does not meet the minimum criteria. The candidate has failed because of an absence of judgement and independent skills and/or understanding of the subject.Engelsk:*Symbol**Description**General, qualitative, non-subject specific description of the assessment valuation criteria*PassedPassedA satisfactory performance. The candidate demonstrates a satisfactory degree of knowledge, skills and general competence.Not passedNot passedA performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject.
+(1) Fagskolen Rogaland benytter disse vurderingsuttrykkene, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40):
+
+Bokmål:
+
+| *Symbol* | *Betegnelse* | *Generell, ikke-fagspesifikk beskrivelse av vurderingskriteriene* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
+
+Bokmål:
+
+| *Symbol* | *Betegnelse* | *Generell, ikke-fagspesifikk beskrivelse av vurderingskriteriene* |
+| --- | --- | --- |
+| Bestått | Bestått | Prestasjon som tilfredsstiller de faglige minimumskravene.<br>Studenten viser både tilfredsstillende vurderingsevne og selvstendighet. |
+| Ikke bestått | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
+
+Nynorsk:
+
+| *Symbol* | *Nemning* | *Generell, ikkje-fagspesifikk framstilling av vurderingskriteria* |
+| --- | --- | --- |
+| A | Framifrå | Framifrå prestasjon som skil seg klårt ut.<br>Studenten syner særs god vurderingsevne og originalitet. |
+| B | Mykje god | Mykje god prestasjon.<br>Studenten syner mykje god evne til vurdering og originalitet. |
+| C | God | Jamt god prestasjon som er tilfredsstillande på dei fleste områda.<br>Studenten syner god evne til vurdering og originalitet på dei viktigaste områda. |
+| D | Nokså god | Ein akseptabel prestasjon med nokre vesentlege manglar.<br>Studenten syner ei viss grad av evne til vurdering og originalitet. |
+| E | Tilstrekkelig | Prestasjonen dekkjer minimumskrava, men heller ikkje meir.<br>Studenten syner lita evne til vurdering og originalitet. |
+| F | Ikke bestått | Prestasjon som ikkje dekkjer de faglege minstekrava.<br>Studenten syner både manglande evne vurdering og originalitet. |
+
+Nynorsk:
+
+| *Symbol* | *Betegnelse* | *Generell, ikkje-fagspesifikk omtale av vurderingskriteria* |
+| --- | --- | --- |
+| Bestått | Bestått | Prestasjon som dekkjer dei faglege minstekrava.<br>Studenten syner både tilfredsstillande evne til vurdering og originalitet. |
+| Ikkje bestått | Ikkje bestått | Prestasjon som ikkje dekkjer dei faglege minstekrava.<br>Studenten syner både manglande evne til vurdering og originalitet. |
+
+Engelsk:
+
+| *Symbol* | *Description* | *General, qualitative, non-subject specific description of the assessment valuation criteria* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and independent skills and/or understanding. |
+| B | Very Good | A very good performance. The candidate demonstrates very good judgement and independent skills and/or understanding. |
+| C | Good | A good performance in most areas. The candidate demonstrates good judgement and independent skills and/or understanding. |
+| D | Satisfactory | A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent skills and/or understanding. |
+| E | Sufficient | A performance that meets the minimum criteria, but not more. The candidate meets the minimum criteria and demonstrates a very limited judgement and independent skills and/or understanding. |
+| F | Failed | A performance that does not meet the minimum criteria. The candidate has failed because of an absence of judgement and independent skills and/or understanding of the subject. |
+
+Engelsk:
+
+| *Symbol* | *Description* | *General, qualitative, non-subject specific description of the assessment valuation criteria* |
+| --- | --- | --- |
+| Passed | Passed | A satisfactory performance. The candidate demonstrates a satisfactory degree of knowledge, skills and general competence. |
+| Not passed | Not passed | A performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject. |
 
 (2) I enkelte emner kan vurderingsuttrykket «bestått / ikke bestått» benyttes, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40). Hvilke emner dette gjelder framgår av studieplanen. Vurderingsuttrykket «bestått / ikke bestått» er et selvstendig vurderingsuttrykk og uten sammenheng med karakterskalaen A–F.
 

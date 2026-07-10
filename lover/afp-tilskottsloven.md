@@ -267,3 +267,5 @@ Endringene i [skatteloven §§ 5-15](lov/1999-03-26-14/§5-15) og [17-1](lov/199
 Endringene i [folketrygdloven § 3-19](lov/1997-02-28-19/§3-19) og skatteloven § 2-30 trer i kraft 1. januar 2011.
 
 ### § 32. Endringer i andre lover
+
+– – –

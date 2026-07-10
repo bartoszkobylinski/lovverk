@@ -705,4 +705,6 @@ Denne lov trer helt eller delvis i kraft fra det tidspunkt1 Kongen bestemmer.
 
 Fra samme tidspunkt oppheves – – –
 
+1 Fra 1 nov 1993 for [kapittel 1](lov/1992-12-04-127/kap1), [§ 2-1](lov/1992-12-04-127/§2-1) og [kapittel 3](lov/1992-12-04-127/kap3) iflg. [res. 29 okt 1993 nr. 954](forskrift/1993-10-29-954). 1 jan 1994 for §§ 2-2 til 2-6 og kapitlene 4 til 10 iflg. [res. 26 nov 1993 nr. 1065](forskrift/1993-11-26-1065).
+
 > Endret ved [lover 16 juni 1994 nr. 18](lov/1994-06-16-18), tidligere § 10-2, (ikr. 28 feb 1997 iflg. [res. 28 feb 1997 nr. 147](forskrift/1997-02-28-147)), [17 juni 2005 nr. 98](lov/2005-06-17-98), tidligere § 10-5 (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 631](forskrift/2005-06-17-631)).

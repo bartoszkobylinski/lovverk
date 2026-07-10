@@ -24,13 +24,9 @@ eu_basis: []
 
 ## I
 
-Som part i saker etter loven her og forskrifter til loven regnes søkeren eller, i saker som ikke beror på en søknad, den som en avgjørelse i saken retter seg direkte mot.
+I [lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her](lov/2008-05-15-35) gjøres følgende endring:
 
-En part har rett til å la seg bistå av fullmektig i saken. En fullmektig som ikke er advokat, skal legge frem skriftlig fullmakt. Dersom det på grunn av krig, manglende infrastruktur, helsemessige forhold eller tilsvarende grunner er umulig eller uforholdsmessig vanskelig å fremlegge skriftlig fullmakt, kan det legges til grunn at en annen opptrer som fullmektig uten skriftlig fullmakt.
-
-Kongen kan gi forskrift som utfyller reglene eller utvider rettighetene etter første og annet ledd.
-
-Kongen kan gi forskrift om hvem som har rett til å fremme klage, herunder bestemmelser som begrenser klageretten etter [forvaltningsloven § 28](lov/1967-02-10/§28) første ledd om at enkeltvedtak kan påklages av en part eller annen med rettslig klageinteresse. Det kan også fastsettes begrensninger i partsrettighetene til den som blir part gjennom å benytte klageretten. Det må ikke fastsettes strengere begrensninger enn det som er nødvendig.
+Ny [§ 80 a](lov/2008-05-15-35/§80a) skal lyde:
 
 ## II
 

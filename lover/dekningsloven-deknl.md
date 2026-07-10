@@ -160,6 +160,8 @@ Bortsett fra ved innfordring av krav som nevnt i [§ 2-8 første ledd bokstav a]
 
 > Endret ved [lover 15 juni 1990 nr. 28](lov/1990-06-15-28), [26 juni 1992 nr. 86](lov/1992-06-26-86), [3 sep 1999 nr. 72](lov/1999-09-03-72) (ikr. 1 jan 2000 iflg. [res. 3 sep 1999 nr. 983](forskrift/1999-09-03-983)), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [14 mai 2014 nr. 17](lov/2014-05-14-17) (ikr. 1 juli 2014 iflg. [res. 13 juni 2014 nr. 723](forskrift/2014-06-13-723)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2023 nr. 111](lov/2023-12-20-111) (i kraft 8 april 2024 iflg. [res. 22 mars 2024 nr. 488](forskrift/2024-03-22-488)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a, endring endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124)).
 
+1 Lovdatas anmerkning: Paragrafen ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). Se tidligere [historisk versjon datert 8. april 2024](HIST/lov/1984-06-08-59-20240408/§2-7) for paragrafen slik den lød før endringene.
+
 ### § 2-8. Prioriteten for krav i utleggstrekk
 
 Dersom flere krav mot samme skyldner skal dekkes ved utleggstrekk, deltar alle kravene i det samme trekket. Dersom trekket ikke er tilstrekkelig til å dekke alle kravene, har kravene prioritet som følger:krav fra den bidragsberettigede som grunner seg på lovbestemt forsørgelsesplikt,krav på erstatning eller oppreisning for skade voldt ved en straffbar handling,krav på bøter,krav på skatt, offentlig avgift, statens regresskrav etter [voldserstatningsloven § 11](lov/2022-06-17-57/§11) og folketrygdens regresskrav etter [forskotteringsloven § 10](lov/1989-02-17-2/§10),andre krav.
@@ -171,6 +173,8 @@ Dersom de krav som ikke kan dekkes samtidig er likt prioritert etter første og 
 For krav som nevnt i første ledd bokstav a, c og d og krav som nevnt i annet ledd som knytter seg til slike krav, kan Kongen ved forskrift fastsette en annen fordeling enn den som følger av tredje ledd.
 
 > Tilføyd ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86), endret ved lover [17 juni 2022 nr. 57](lov/2022-06-17-57) (i kraft 1 jan 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a).
+
+1 Lovdatas anmerkning: Paragrafen ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). Se tidligere [historisk versjon datert 8. april 2024](HIST/lov/1984-06-08-59-20240408/§2-8) for paragrafen slik den lød før endringene.
 
 ### § 2-9. Avkall på beslagsfriheten
 

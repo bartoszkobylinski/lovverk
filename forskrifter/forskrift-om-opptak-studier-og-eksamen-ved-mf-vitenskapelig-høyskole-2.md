@@ -334,7 +334,7 @@ Studieåret starter normalt i høstsemesteret og har undervisningsterminer i hø
 
 (3) Det kan dispenseres fra søknadsfristen etter andre ledd hvis behovet for tilrettelegging har oppstått etter utløpet av fristen, eller hvis det foreligger andre særlige grunner for å fravike den.
 
-4) Søknad om tilrettelegging skal sendes MF hvert semester. Det kan i vedtaket om tilrettelegging gjøres unntak fra dette hvis behovet for tilrettelegging er permanent.
+4\) Søknad om tilrettelegging skal sendes MF hvert semester. Det kan i vedtaket om tilrettelegging gjøres unntak fra dette hvis behovet for tilrettelegging er permanent.
 
 ### § 5-7. Opphør av studierett
 
@@ -446,7 +446,16 @@ Muntlig eksamen kan telle som en oppgitt del av den endelige karakteren eller v�
 
 (1) Karakteruttrykket ved sensur av eksamen skal være bestått eller ikke bestått eller en gradert skala med fem trinn fra A til E for bestått og F for ikke bestått.
 
-(2) Karakterene A til F gis etter følgende generelle, ikke fagspesifikke beskrivelser:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten vise god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godAkseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(2) Karakterene A til F gis etter følgende generelle, ikke fagspesifikke beskrivelser:
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten vise god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | Akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 (3) Alle deleksamener i samme emne skal ha samme karakteruttrykk.
 

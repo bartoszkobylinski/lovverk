@@ -26,6 +26,8 @@ Vi viser til søknad 26. august 2011 som bl.a. gjelder unntak fra plikten til å
 
 Etter en samlet vurdering har departementet kommet fram til at det innvilges merverdiavgiftsunntak for omsetning av inngangsbilletter til arrangementet, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Dette innebærer at det på omsetning av inngangsbilletter til arrangementet ikke skal beregnes utgående merverdiavgift, samtidig som en ikke vil ha fradragsrett for inngående merverdiavgift på anskaffelser til bruk i den avgiftsunntatte delen av virksomheten. Unntaket gis inntil videre. Vedtaket gis med virkning fra søknadstidspunktet, 26. august 2011. En nærmere redegjørelse for vedtaket følger nedenfor.
 
+*Sakens bakgrunn*
+
 Etter det opplyste startet arrangementet Lyngdal Dyrskue (heretter LD) opp i 1987. Arrangementet arrangeres av Lyngdal Idrettslag (håndballgruppen), Lyngdal Røde Kors, Ungdomslaget Lyngdølen og Lyngdal Skytterlag første helgen i september.
 
 Inngangsbilletten til det årlige arrangementet gir de besøkende tilgang til et avgrenset område hvor det er tivoli, utstillinger, salgsboder med kunst og håndverk mm., samt en rekke kulturaktiviteter som fesjå, hestemønstring og andre aktiviteter.
@@ -40,11 +42,15 @@ I tråd med ovennevnte har advokatfirmaet i brev 26. august 2011, på vegne av L
 
 I Skattedirektoratets brev 9. september 2011 til Finansdepartementet har direktoratet konkludert med at det ikke vil tilrå at det blir fattet vedtak etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Skattedirektoratet antar at man etter [endringslov 25. juni 2010 nr. 32](lov/2010-06-25-32) ikke lenger kan hevde at «det ikke har vært lovgivers intensjon at arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig».
 
+*Søkers anførsler*
+
 Advokatfirmaet har gitt utfyllende merknader til lempningssøknaden i brev til Finansdepartementet 29. mars 2012.
 
 I brevet påpekes at mye av de tjenestene som inngangsbilletten gir adgang til i seg selv ikke ville være avgiftspliktige, eller at de vil være avgiftspliktig med lav sats, dersom man tok særskilt betaling for hver tjeneste. Det vil dermed være uheldig at det skal beregnes merverdiavgift med alminnelig sats på inngangsbillettene. Det må også få betydning at de fire organisasjonene som står bak Lyngdal Dyrskue benytter alle inntektene til veldedige, allmennyttige og/eller ideelle formål. Det må være uten betydning hvorvidt foreningene arrangerer Lyngdal Dyrskue hver for seg eller om de går sammen om arrangementet. Formålet er uansett å skaffe inntekter til de samme ideelle formålene. Det vises også til at man er kjent med at andre dyrskuearrangementer, herunder arrangementer som er større enn LD, og som blir drevet gjennom aksjeselskap, har blitt fritatt med hjemmel i [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) fra plikten til å beregne merverdiavgift på inngangsbillettene.
 
 Subsidiært anføres at inngangspenger til LD må vurderes som betaling for adgang til et opplevelsessenter, jf. [merverdiavgiftsloven § 5-10](lov/2009-06-19-58/§5-10), slik at det kun skal beregnes merverdiavgift med redusert sats. Det anføres bl.a. at arrangementet for de besøkende fremstår som en type opplevelsessenter, med mange av de elementer et opplevelsessenter eller en fornøyelsespark har, herunder tivoli, matboder, salgsboder, konserter mm. Det skal lite til av tilretteleggelse før et område anses som et opplevelsessenter.
+
+*Finansdepartementets vurderinger*
 
 Finansdepartementet finner det hensiktsmessig først å knytte noen merknader til merverdiavgiftsreglene på dette spesifikke området.
 

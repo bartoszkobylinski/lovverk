@@ -32,6 +32,8 @@ Utøvelse av reindrift i de kommunene loven omfatter krever særskilt tillatelse
 
 > Endret ved [lov 15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)).
 
+1 Landbruks- og matdepartementet iflg. [res. 21. des 1984 nr. 2059](forskrift/1984-12-21-2059).
+
 ## § 3. Ekspropriasjon
 
 I kommunene Meldal, Midtre Gauldal, Oppdal, Rennebu, Rindal, Sunndal og Surnadal kan Kongen mot vederlag etter skjønn kreve avstått til staten rett til å utøve reindrift slik denne beskrives i [reindriftsloven §§ 19](lov/2007-06-15-40/§19) til [24](lov/2007-06-15-40/§24), når dette finnes nødvendig for å sikre fortsatt samisk reindrift i området og det må regnes med at inngrepet utvilsomt vil være til mer gagn enn skade.
@@ -53,3 +55,5 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 Fra samme tid gjøres følgende endringer i andre lover:
 
 – – –
+
+1 Fra 21 des 1984 iflg. [res. 21 des 1984 nr. 2059](forskrift/1984-12-21-2059).

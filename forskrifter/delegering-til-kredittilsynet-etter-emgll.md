@@ -22,4 +22,16 @@ eu_basis: []
 
 # Delegering av myndighet til Kredittilsynet etter lov om eiendomsmegling.
 
-Departementet delegerer myndighet til Kredittilsynet etter følgende bestemmelser fra og med ikrafttredelsestidspunktet1 for [lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling:§ 2-1– om bevilling§ 2-2– om opprettelse av filial§ 2-3– om utstedelse av eiendomsmeglerbrev§ 2-5 (2)– om godkjennelse av annen betryggende sikkerhet§ 2-6 (3)– om samtykke til å drive annen virksomhet§ 2-8– om tilbakekall av bevillling§ 2-9– om tilbakekall av eiendomsmeglerbrev
+Departementet delegerer myndighet til Kredittilsynet etter følgende bestemmelser fra og med ikrafttredelsestidspunktet1 for [lov 16. juni 1989 nr. 53](lov/1989-06-16-53) om eiendomsmegling:
+
+|  |  |
+| --- | --- |
+| § 2-1 | – om bevilling |
+| § 2-2 | – om opprettelse av filial |
+| § 2-3 | – om utstedelse av eiendomsmeglerbrev |
+| § 2-5 (2) | – om godkjennelse av annen betryggende sikkerhet |
+| § 2-6 (3) | – om samtykke til å drive annen virksomhet |
+| § 2-8 | – om tilbakekall av bevillling |
+| § 2-9 | – om tilbakekall av eiendomsmeglerbrev |
+
+1 1 april 1990, jf. [vedtak 20 mars 1990 nr. 176](forskrift/1990-03-20-176).

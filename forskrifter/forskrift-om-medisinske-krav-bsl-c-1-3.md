@@ -34,17 +34,29 @@ Forskriften setter videre krav til den senere kontroll med sertifikatinnehaveren
 
 ## 3. Alminnelige bestemmelser
 
+3.1.*Skjema*
+
 Ved utstedelse, forlengelse og gjenutstedelse av legeattest til luftfartssertifikater og -bevis, skal legen etter at han har undersøkt søkeren gi en erklæring på skjema som beskrevet i BSL C 1-2 punkt 5.1.
+
+3.2.*Dokumentasjon*
 
 Før legeundersøkelsen skal søkeren dokumentere sin identitet, og på skjema som beskrevet i BSL C 1-2 punkt 5.1 gi en erklæring om sin helse, samt bekrefte opplysningene ved underskrift i legens påsyn.
 
+3.3.*Opplysningsplikt*
+
 Søkeren skal informeres om at han plikter å gi fullstendige opplysninger. Hvis legen blir kjent med at søkeren har gitt uriktige opplysninger, skal legen melde dette til Luftfartstilsynet.
+
+3.4.*Undersøkelse*
 
 Kravene i denne forskriften er ikke tilstrekkelig spesifisert til å dekke alle individuelle forhold.
 
 Mange avgjørelser om søkerens skikkethet må derfor overlates til den undersøkende leges vurdering. I denne vurderingen skal det tas hensyn til resultatet av den fullstendige flymedisinske undersøkelsen foretatt i samsvar med forsvarlig legevirksomhet. Kravene for vedkommende type sertifikat og under hvilke forhold søkeren skal utføre sin tjeneste skal også tas med i vurderingen.
 
+3.5.*Skjønn*
+
 Hvis søkeren ikke oppfyller enkelte krav i denne forskrift, kan vedkommende etter særskilt utredning og bedømmelse godkjennes under forutsetning av at det kan kompenseres for den medisinske defekt ved utvist dyktighet, øvelse og erfaring og uten at det går ut over sikkerheten.
+
+3.6.*Krav ved forlengelse av legeattest*
 
 Ved forlengelse av legeattest gjelder de samme medisinske krav som ved utstedelse.
 
@@ -54,79 +66,169 @@ Den medisinske bedømmelsen av søkeren skal skje på grunnlag av resultatene so
 
 ## 5. Fysiske og psykiske helsekrav
 
+5.1.*Generelt*
+
 Søkeren skal ikke vise symptomer eller tegn til:medfødt eller ervervet defekt eller lyteaktiv, latent, akutt eller kronisk funksjonsforstyrrelseskade eller tilstand som følge av kirurgisk inngrep som kan medføre at søkeren ikke er i stand til å utføre tjenesten på en sikker måte eller utføre annen tjeneste som sertifikatet gir rett til.
 
+5.2.*Latente forhold*
+
 Søkeren skal ikke vise tegn til sykdom eller funksjonsforstyrrelse som plutselig kan medføre at tjenesten som det aktuelle sertifikatet gir rett til, ikke kan utføres på en sikker måte.
+
+5.3.*Mentale forhold og nervesystem*
+
+5.3.1.
 
 Sykdomstilstandene som er nevnt nedenfor kan føre til at søkeren ikke blir i stand til å utføre tjenesten på en sikker måte:psykosealkoholismeandre former for misbruk av stimulerende eller bedøvende midlerpersonlighetsforstyrrelse av alvorlig artmental abnormitet eller nevrose.
 
 Dette kan medføre udyktighet.
 
+5.3.2.
+
 Søkeren skal ikke ha noen av de anamnestiske eller klinisk diagnostiserte sykdommene som er nevnt nedenfor:aktiv eller latent sykdom i nervesystemetepilepsi eller øket risiko for andre krampetilstanderbevissthetsforstyrrelser eller bevissthetstap uten tilfredsstillende medisinsk forklaring.alvorlige hjerne- eller hodeskader
+
+5.4.*Hjerte og sirkulasjonsorganer*
+
+5.4.1.
 
 Medfødt eller ervervet hjerteabnormitet som kan føre til at søkeren ikke er i stand til å utføre tjenesten på en sikker måte, medfører udyktighet. Gjennomgått hjerteinfarkt medfører udyktighet.
 
+5.4.2.
+
 Ubehandlet blodtrykk skal ligge innenfor normalområdet (< 160/90 mmHg).
+
+5.4.3.
 
 Blodtrykksforhøyelse som kontrolleres tilfredsstillende med medikamentell behandling, kan godkjennes etter særskilt bedømmelse av Flymedisinsk seksjon.
 
+5.4.4.
+
 Betydningsfull funksjonell eller anatomisk abnormitet i karsystemet medfører udyktighet.
+
+5.5.*Lunger*
+
+5.5.1.
 
 Tilfeldig eller permanent reduksjon i lungefunksjonen som under lufttjeneste kan gi respirasjonsbesvær, medfører udyktighet. Det samme gjelder for aktiv sykdom i lunger, pleura eller mediastinum. Røntgenundersøkelse av thorax kan i tvilstilfelle kreves utført i tillegg til det obligatoriske kravet.
 
+5.5.2.
+
 Redusert lungevolum som følge av thoraxskade eller kirurgisk inngrep som kan medføre respirasjonsbesvær under lufttjeneste, medfører udyktighet.
+
+5.5.3.
 
 Aktiv lungetuberkulose medfører udyktighet.
 
+5.6.*Abdomen, mage og tarmkanal*
+
+5.6.1.
+
 Sykdom med betydningsfull forstyrrelse av mage og tarmkanalens eller tilknyttede organers funksjon, medfører udyktighet.
+
+5.6.2.
 
 Følgetilstand etter sykdom eller kirurgisk inngrep i mage og tarmkanal og tilknyttede organer som kan forårsake inkapasitet under lufttjeneste, særlig passasjehindring som følge av konkrement, striktur, kompresjon eller tarmslyng, medfører udyktighet.
 
+5.6.3.
+
 Brokk med fare for inneklemming medfører udyktighet.
+
+5.7.*Stoffskifte og endokrine organer*
+
+5.7.1
 
 Betydningsfulle metabolske-, ernærings- og endokrine forstyrrelser medfører udyktighet.
 
+5.7.2.
+
 Sukkersyke som behandles med antidiabetiske legemidler medfører udyktighet.
+
+5.8.*Blod og lymfatisk system*
+
+5.8.1.
 
 Sykdom i blod og bloddannende organer som kan medføre at tjenesten ikke kan utføres på en sikker måte, medfører udyktighet.
 
+5.8.2.
+
 Miltforstørrelse samt generalisert eller lokal lymfeknutesvulst medfører udyktighet.
+
+5.9.*Nyrer, urinveier og kjønnsorgan*
+
+5.9.1.
 
 Symptomer på alvorlig sykdom i nyrer, urinveier eller kjønnsorgan medfører udyktighet. Urinen skal ikke inneholde elementer som bedømmes å være uttrykk for sykdom som setter flysikkerheten i fare.
 
+5.9.2.
+
 Tilstand som følge av sykdom eller kirurgisk inngrep i nyrer og urinvei som kan medføre inkapasitet, særlig passasjehindring forårsaket av konkrement, striktur eller kompresjon, medfører udyktighet.
+
+5.9.3.
 
 Tilstand etter nefrectomi uten hypertensjon eller uremi medfører ikke udyktighet.
 
+5.9.4.
+
 Søker som har hatt syfilis, skal fremlegge dokumentasjon for gjennomgått behandling med tilfredsstillende resultat.
+
+5.9.5.
 
 Alvorlige menstruasjonsforstyrrelser som er utilgjengelige for behandling og som kan medføre at lufttjeneste ikke kan utføres på en sikker måte, medfører udyktighet.
 
+5.10.*Graviditet*
+
+5.10.1.
+
 Graviditet medfører midlertidig udyktighet.
+
+5.10.2.
 
 Inntil utgangen av 26. svangerskapsuke kan det gis tillatelse til å utføre lufttjeneste, dersom søker godtgjør overfor Flymedisinsk seksjon i Luftfartstilsynet at regelmessig svangerskapskontroll gjennomføres og at svangerskapet forløper normalt.
 
+5.11.*Bevegelsesapparatet*
+
 Sykdom i knokler, ledd, muskler eller sener av alvorlig art samt betydningsfull medfødt eller ervervet funksjonsforstyrrelse i nevnte organer, medfører udyktighet.
+
+5.12.*Øyne*
 
 Aktiv sykdom i øyne, tilgrensende strukturer og i øynenes bevegelsesapparat som kan medføre slik forstyrrelse av synsfunksjonen at tjenesten ikke kan utføres på sikker måte, medfører udyktighet.
 
+5.13.*Øre, nese- og halsorganer*
+
+5.13.1.
+
 Det skal være fri luftpassasje gjennom begge nesebor.
+
+5.13.2.
 
 Søkeren skal ikke ha noen klinisk diagnostisert tilstand som nevnt nedenfor:aktiv sykelig prosess i det indre øret eller mellomøret. Enkel tørr perforasjon av trommehinnen medfører ikke udyktighetpermanent passasjehindring i tuba Eustachiiforstyrrelse i vestibularapparatets funksjonalvorlig deformitet eller sykdom i munnhule eller øvre luftveiertalefeil eller stamming.
 
 ## 6. Synskrav
 
+6.1.
+
 Søkeren skal ha normale synsfelt.
+
+6.2.
 
 Søkeren skal ha en synsstyrke (fjern) på hvert øye for seg, med eller uten korreksjon, som ikke er dårligere enn 6/12 (20/40, 0,5). Hvis minste tillatte synsstyrke bare kan oppnås med korreksjon, kan søkeren godkjennes under forutsetning av at alle følgende krav kan oppfylles:søkerens synsstyrke uten korreksjon på hvert øye for seg ikke er dårligere enn 6/60 (20/200, 0,1)øyets refraksjon i akkomodasjonshvile ikke overstiger ±5 dioptrier i noen meridian. Søkere med refraksjon fra -5 til -8 dioptrier kan godkjennes hvis synsstyrken kan korrigeres til 6/9 på hvert øyekorreksjonsglass bæres under tjenesteutøvelsenden nødvendige korreksjon ikke medfører dobbeltsyntilsvarende reservebriller medbringes og er umiddelbart tilgjengelige for bruk.
 
+6.3.
+
 Søkeren skal med eller uten korreksjon kunne lese skrift med bokstavstørrelse N5 i en av søkeren valgt avstand mellom 30 og 50 cm og skrift med bokstavstørrelse N14 i en avstand av 100 cm.
+
+6.4.
 
 Oppfylles kravet til nærsyn i henhold til pkt. 6.2 ved hjelp av korreksjonsglass, skal slike finnes umiddelbart tilgjengelige og brukes når tjenesten krever det.
 
+6.5.
+
 Kravet til synsstyrke for fjern og nær skal oppfylles ved bruk av et par korreksjonsglass hvis korreksjon er nødvendig. Kontaktlinser kan brukes når kravet til synsstyrke oppfylles.
 
+6.6.
+
 Betydningsfull innskrenkning i øynenes bevegelser som kan medføre at tjenesten ikke kan utføres på en sikker måte, medfører udyktighet.
+
+6.7.
 
 Søkere som har en velkompensert medfødt eller tidlig ervervet spontan diplopi (dobbeltsyn) i annen enn primær blikkretning, kan godkjennes etter særskilt bedømmelse av Legenemnda for flygere.
 

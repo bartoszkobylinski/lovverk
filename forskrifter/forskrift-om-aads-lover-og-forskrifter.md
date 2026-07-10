@@ -35,6 +35,8 @@ eu_basis: []
 
 ### II. Forskrifter
 
+*Forskrifter gitt med hjemmel i [lov av 27. juni 1947 nr. 9](lov/1947-06-27-9) om tiltak til å fremme sysselsetting (syssl.):*
+
 - [Forskrift av 5. desember 1990 nr. 950](forskrift/1990-12-05-950) om mobilitetsfremmende stønad gjennom arbeidsformidlingen. (Hjemmel: syssl. §§ 15, 16 og 17.)
 - [Forskrift av 4. desember 1990 nr. 948](forskrift/1990-12-04-948) om tilskudd under opplæring med sikte på høvelig arbeid. (Hjemmel: syssl. §§ 15, 16 og 17.)
 - [Forskrift av 29. juni 1993 nr. 578](forskrift/1993-06-29-578) om vikarplass for arbeidsledige. (Hjemmel: syssl. §§ 15, 16 og 17.)
@@ -50,15 +52,23 @@ eu_basis: []
 - [Forskrift av 10. november 1993 nr. 1015](forskrift/1993-11-10-1015) om unntak fra forbudet mot privat arbeidsformidling. (Hjemmel: syssl. § 26 femte ledd.)
 - [Forskrift av 30. april 1997 nr. 388](forskrift/1997-04-30-388) om unntak fra plikten til å gi melding om vedtak ved stans i utbetaling av dagpenger under arbeidsløyse. (Hjemmel: syssl. § 32 annet ledd.)
 
+*Forskrifter gitt med hjemmel i lov av 17. juni 1966 nr. 12 om folketrygd kapittel 4 (og [endringslov av 28. juni 1996 nr. 56](lov/1996-06-28-56))*
+
 - Forskrift av 26. november 1996 nr. 1086 om dagpenger under arbeidsløshet. (Hjemmel: [kap. 4](forskrift/1996-11-26-1086/kap4) i folketrygdloven av 1966.)
 - [Forskrift av 11. november 1996 nr. 1049](forskrift/1996-11-11-1049) om overgangsregler i forbindelse med endringer i bestemmelsene i [folketrygdlovens kapittel 4](lov/1997-02-28-19/kap4) og i lov om tiltak til å fremme sysselsetting. (Hjemmel: [endringslov av 28. juni 1996 nr. 56](lov/1996-06-28-56).)
+
+*Forskrifter gitt med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) kapittel [11](lov/1997-02-28-19/kap11) om ytelser under yrkesrettet attføring (og [endringslov av 11. juni 1993 nr. 84](lov/1993-06-11-84))*
 
 - [Forskrift av 30. september 1993 nr. 916](forskrift/1993-09-30-916) om attføringsstønad. (Hjemmel: [ftrl. § 11-7](lov/1997-02-28-19/§11-7) tredje ledd.)
 - [Forskrift av 30. september 1993 nr. 917](forskrift/1993-09-30-917) om overgangsregler ved yrkesrettet attføring. (Hjemmel: [endringslov av 11. juni 1993 nr. 84](lov/1993-06-11-84).)
 - [Forskrift av 20. september 1994 nr. 898](forskrift/1994-09-20-898) om attføringspenger i ventetid på høvelig arbeid. (Hjemmel: [ftrl. § 11-8](lov/1997-02-28-19/§11-8) tredje ledd.)
 - [Forskrift av 5. mai 1997 nr. 428](forskrift/1997-05-05-428) om gradering av attføringspenger. (Hjemmel: [ftrl. § 11-10](lov/1997-02-28-19/§11-10) fjerde ledd.)
 
+*Forskrifter gitt med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) kapittel 1 om formål og definisjoner*
+
 - [Forskrift av 4. desember 1992 nr. 884](forskrift/1992-12-04-884) om arbeidsledighetstrygd ved tilpasning av EØS-avtalen vedlegg VI kap 1 (Rfo [(EØF) nr 1408/71](eu/31971r1408) kap 6) og kap 4 i [lov av 17. juni 1966 nr. 12](lov/1966-06-17-12) om folketrygd. (Hjemmel: [ftrl. § 1-3](lov/1997-02-28-19/§1-3).)
+
+*Forskrifter gitt med hjemmel i [lov av 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidervern og arbeidsmiljø m.v.*
 
 - [Forskrift av 19. september 1994 nr. 897](forskrift/1994-09-19-897) om hvordan retten til utsettelse av oppsigelser og masseoppsigelser skal nyttes og Arbeidsformidlingens rolle ved slik utsettelse. (Hjemmel: aml. § 56A nr. 7.)
 - [Forskrift av 18. september 1997 nr. 1010](forskrift/1997-09-18-1010) om adgang til midlertidig tilsetting i arbeidsmarkedstiltak i regi av eller i samarbeid med arbeidsmarkedsetaten. (Hjemmel: aml. § 58A nr. 1 første ledd bokstav c.)

@@ -38,9 +38,21 @@ Forskriften omfatter ikke overvåkning i besetninger og tiltak mot forekomst av 
 
 > Endret ved [forskrift 8 juni 2007 nr. 604](forskrift/2007-06-08-604).
 
+1 Jf. [forskrift 31. januar 1995 nr. 107](forskrift/1995-01-31-107) om overvåkning av og kontroll med forekomsten av salmonella hos levende storfe og svin.
+
 ### § 3. Definisjoner
 
 I denne forskriften forstås med:
+
+*Salmonella:* Alle arter av Salmonella.
+
+*Kjøtt:* Alle spiselige deler av storfe, svin, sau og geit.
+
+*Ferskt kjøtt:* Kjøtt, herunder vakuumpakket kjøtt og kjøtt pakket i kontrollert atmosfære, uten annen konservering enn kuldebehandling.
+
+*Tilsynsveterinær:* Veterinær som av Mattilsynet er utpekt for å forestå kjøttkontroll og føre tilsyn med virksomheter.
+
+*Virksomhet:* Slakteribedrift, nedskjæringsbedrift, kjøle- og fryselager eller anlegg som omfatter flere av disse virksomhetene og som skal autoriseres eller godkjennes i henhold til bestemmelser med hjemmel i matloven.
 
 > Endret ved [forskrifter 9 jan 2004 nr. 121](forskrift/2004-01-09-121), [8 juni 2007 nr. 604](forskrift/2007-06-08-604).
 
@@ -203,5 +215,31 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 Denne forskrift trer i kraft straks.
 
 ## Vedlegg 1
+
+Tabell 1
+
+| Antall enheter | Antall enheter som skal undersøkes | Antall enheter | Antall enheter som skal undersøkes |
+| --- | --- | --- | --- |
+| 1 – 5 | 5 | 161 – 180 | 50 |
+| 6 – 10 | 10 | 181 – 200 | 51 |
+| 11 – 20 | 19 | 201 – 250 | 53 |
+| 21 – 30 | 26 | 251 – 300 | 53 |
+| 31 – 40 | 31 | 301 – 350 | 54 |
+| 41 – 50 | 35 | 351 – 400 | 55 |
+| 51 – 60 | 38 | 401 – 450 | 55 |
+| 61 – 70 | 40 | 451 – 500 | 56 |
+| 71 – 80 | 42 | 501 – 600 | 56 |
+| 81 – 90 | 43 | 601 – 1200 | 57 |
+| 91 – 100 | 45 | 1201 – 4000 | 58 |
+| 101 – 120 | 47 | > 4000 | 59 |
+| 121 – 160 | 49 |  |  |
+
+Tabell 2
+
+| *Enhetsvekt* | *Multiplikasjonsfaktor* |
+| --- | --- |
+| < 10 kg | x 0,5 |
+| 10-20 kg | x 0,75 |
+| > 20 kg, og ferskt kjøtt i form av hele, halve og kvarte slakt | x 1,0 |
 
 > Endret ved [forskrift 8 juni 2007 nr. 604](forskrift/2007-06-08-604).

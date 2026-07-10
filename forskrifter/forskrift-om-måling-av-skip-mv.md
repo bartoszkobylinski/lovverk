@@ -159,6 +159,8 @@ Forskriften trer i kraft 1. juli 2015. Fra samme tidspunkt oppheves [forskrift 1
 ## Internasjonal konvensjon om måling av fartøyer, 1969
 (1969-konvensjonen)
 
+*Uoffisiell oversettelse, slik Sjøfartsdirektoratet forstår konvensjonen*
+
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ### Del 1
@@ -299,21 +301,37 @@ Alminnelige bestemmelser
 ### Regel 2
 Definisjoner av uttrykk benyttet i bilagene
 
+*1. Øverste dekk*
+
 Det øverste dekket er det aller øverste fullstendige dekket som er utsatt for vær og sjø og som har permanente værtette lukningsmidler til alle åpninger i ubeskyttede deler av dekket, samt under hvilket alle åpninger i skipssidene er forsynt med permanente vanntette lukningsmidler. I fartøyer som har et øverste dekk med trinn, tas som øverste dekk den laveste linje av det værutsatte dekket og forlengelsen av denne linjen parallelt med øverste del av dekket.
+
+*2. Dybde i risset*
 
 1. Dybden i risset er den loddrette avstand målt fra overkanten av kjølen til underkanten av øverste dekk i borde. På tre- og komposittfartøyer måles avstanden fra underkant av kjøl-spunningen. Når formen på den nedre delen av midtskipsseksjonen er hul, eller det forekommer tykke kjølganger, måles avstanden fra det punktet der linjen fra den flate delen av bunnen, forlenget innover, skjærer kjølens side.
 2. På fartøyer med avrundede dekkshjørner skal dybden i risset måles til skjæringspunktet mellom konstruksjonslinjene fra dekk og ytre hudkledning, med disse linjene forlenget som om dekkshjørnene var vinkelformet.
 3. Når det er trinn i øverste dekk og den løftede delen av dekket strekker seg over det punktet der dybden i risset skal bestemmes, skal dybden i risset måles til en referanselinje som går fra den laveste delen av dekket langs en linje som er parallell med den løftede delen.
 
+*3. Bredde*
+
 Bredden er fartøyets største bredde målt midtskips på spant for fartøyer med hud av stål eller annet metall og målt utvendig på hud for fartøyer der huden er av ethvert annet materiale.
+
+*4. Lukkede rom*
 
 Lukkede rom er alle rom som er avgrenset av fartøyets skrog, av faste eller flyttbare skillevegger eller skott, av dekk eller dekninger bortsett fra faste eller flyttbare soltak. Ingen avbrytelse i et dekk, heller ikke noen åpning i fartøyets skrog, i et dekk eller i et roms overdekning, eller i et roms skillevegger eller skott, eller mangelen av en skillevegg eller skott, skal frita et rom fra å bli tatt med i det lukkede rom.
 
+*5. Utelatte rom*
+
 Uten hensyn til bestemmelsene i punkt 4 i denne regelen, skal rom nevnt i punktene 5 (a) til og med 5 (e) benevnes utelatte rom og skal ikke tas med i volumet av lukkede rom. Dog skal ethvert slikt rom behandles som et lukket rom når det oppfyller minst én av følgende tre betingelser:rommet er utstyrt med hyller eller andre arrangementer for sikring av last eller forråd,åpningen er forsynt med et hvilket som helst slags lukningsmiddel,konstruksjonen muliggjør en hvilken som helst slags lukning av slike åpninger:Et rom i en oppbygning innenfor en endeåpning som strekker seg fra dekk til dekk, bortsett fra en øvre karmplate som ikke må være mer enn 25 millimeter (én tomme) dypere enn de tilstøtende dekksbjelker, der slik åpning skal ha en bredde lik eller større enn 90 prosent av dekksbredden ved endeåpningen. Denne bestemmelsen skal anvendes således at det fra lukkede rom bare utelates rommet mellom den faktiske endeåpningen og en linje trukket parallell med denne i en avstand lik halvparten av dekksbredden ved åpningen (fig. 1 i Appendiks 1).Skulle vidden av rommet på grunn av ett eller annet arrangement, bortsett fra en konvergering av den ytre platekledning, bli mindre enn 90 prosent av dekksbredden ved åpningen, skal bare rommet mellom endeåpningen og en linje trukket parallell med denne gjennom punktet der tverrskipsvidden av rommet blir lik eller mindre enn 90 prosent av dekksbredden, utelates fra volumet av lukkede rom (fig. 2, 3 og 4 i Appendiks 1).Når et mellomrom som er fullstendig åpent, bortsett fra skansekledning eller åpent rekkverk, skiller to rom der det ene eller begge er tillatt utelatt i henhold til punktene 5 (a) (i) og/eller 5 (a) (ii) i denne regelen, skal slik utelatelse være betinget av at avstanden mellom de to rommene ikke er mindre enn den minste halve dekksbredde i mellomrommet (fig. 5 og 6 i Appendiks 1).Et rom under et tak/dekk åpent for sjø og vær som på de værutsatte sider ikke har annen forbindelse med skroget enn nødvendige bærestøtter. Et slikt rom kan være forsynt med åpent rekkverk, skansekledning og en øvre karmplate eller ste festet ved skipssiden såfremt avstanden mellom toppen av rekkverket eller skansekledningen og karmplaten ikke er mindre enn 0,75 meter (2,5 fot) eller en tredjedel av rommets høyde, eller hva som er størst (fig. 7 i Appendiks 1).Et, i en oppbygning som strekker seg fra borde til borde, beliggende rom like inn for sideåpninger, anbrakt like overfor hverandre, med høyde ikke mindre enn 0,75 meter (2,5 fot) eller en tredjedel av oppbygningens høyde, etter hva som er størst. Hvis åpningen i en slik oppbygning kun er anbrakt i en side, skal den utelatte del av det lukkede roms volum være begrenset innover fra åpningen til høyst halvdelen av dekksbredden på stedet (fig. 8 i Appendiks 1),Et rom i en oppbygning like under en udekket åpning i dekket over, såfremt åpningen er utsatt for været. Den utelatte delen av det lukkede rommet skal være begrenset til åpningens areal (fig. 9 i Appendiks 1).En recess i det ytre skottet av en oppbygning som er utsatt for været, og der åpningen strekker seg fra dekk til dekk uten lukningsmidler, såfremt den indre vidden ikke overstiger vidden ved åpningen og recessens utstrekning inn i oppbygningen ikke er større enn to ganger åpningens vidde (fig. 10 i Appendiks 1).
+
+*6. Passasjerer*
 
 En passasjer er enhver person med unntak av:skipsføreren og medlemmer av besetningen eller andre personer ansatt eller beskjeftiget i fartøyets tjeneste i en hvilken som helst stilling om bord, oget barn under ett år.
 
+*7. Lasterom*
+
 Lasterom som skal tas med i beregningen av et fartøys nettotonnasje, skal være lukkede rom bestemt til og skikket for føring av gods som skal losses fra fartøyet, forutsatt at rommene er tatt med ved beregningen av fartøyets bruttotonnasje. Slike lasterom skal være permanent merket med bokstavene CC (cargo compartment) på et godt synlig sted. Bokstavene skal være minst 100 millimeter (4 tommer) høye.
+
+*8. Værtett*
 
 Værtett betyr at det under hvilke som helst forhold på sjøen ikke vil trenge vann inn i fartøyet.
 
@@ -325,7 +343,7 @@ Et fartøys bruttotonnasje (GT) skal beregnes og fastsettes etter følgende form
 ### Regel 4
 Nettotonnasje
 
-1. Et fartøys nettotonnasje (NT) skal beregnes og fastsettes etter følgende formel: $$NT \qquad = \qquad K_2 V_c \left( \frac{4d}{3D} \right)^2 + K_3 \left( N_1 + \frac{N_2}{10}\right)$$der:faktoren \(\left( \frac{4d}{3D} \right)^2\) ikke skal være større enn 1,uttrykket \(K_2 V_c \left( \frac{4d}{3D} \right)^2\) ikke skal være mindre enn 0,25GT, ogNT ikke skal være mindre enn 0,30 GT, og der:Vc = lasterommets totale volum målt i kubikkmeter,K2 = 0,2 + 0,02 log10 Vc (eller som angitt i tabellen i Appendiks 2),\(K_3=1,25\frac{GT+10000}{10000}\)D = dybde i risset midtskips som definert i regel 2 (2) og målt i meter,d = dypgående midtskips som definert i punkt 2 i denne regelen, og målt i meter,N1 = antall passasjerer i lugarer med ikke flere enn 8 køyer,N2 = antall øvrige passasjerer,N1 + N2 = største antall passasjerer fartøyet har tillatelse til å føre i henhold til dets passasjersertifikat. Når N1 + N2 er mindre enn 13, skal N1 og N2 settes til ,GT = fartøyets bruttotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 3.
+1. Et fartøys nettotonnasje (NT) skal beregnes og fastsettes etter følgende formel: $$NT \\qquad = \\qquad K_2 V_c \\left( \\frac{4d}{3D} \\right)^2 + K_3 \\left( N_1 + \\frac{N_2}{10}\\right)$$der:faktoren \\(\\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være større enn 1,uttrykket \\(K_2 V_c \\left( \\frac{4d}{3D} \\right)^2\\) ikke skal være mindre enn 0,25GT, ogNT ikke skal være mindre enn 0,30 GT, og der:Vc = lasterommets totale volum målt i kubikkmeter,K2 = 0,2 + 0,02 log10 Vc (eller som angitt i tabellen i Appendiks 2),\\(K_3=1,25\\frac{GT+10000}{10000}\\)D = dybde i risset midtskips som definert i regel 2 (2) og målt i meter,d = dypgående midtskips som definert i punkt 2 i denne regelen, og målt i meter,N1 = antall passasjerer i lugarer med ikke flere enn 8 køyer,N2 = antall øvrige passasjerer,N1 + N2 = største antall passasjerer fartøyet har tillatelse til å føre i henhold til dets passasjersertifikat. Når N1 + N2 er mindre enn 13, skal N1 og N2 settes til ,GT = fartøyets bruttotonnasje beregnet og fastsatt i samsvar med bestemmelsene i regel 3.
 2. Det dypgående (d) som er nevnt i punkt 1 i denne regelen, skal være ett av følgende:for fartøyer for hvilke den gjeldende internasjonale konvensjon om lastelinjer skal anvendes, det dypgående som svarer til sommerlastelinjen (ikke trelastelinjer) fastsatt i samsvar med nevnte konvensjon,for passasjerfartøyer, det dypgående som svarer til den dypeste oppdelingslastelinje fastsatt i samsvar med den gjeldende internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs,](traktat/1974-11-01-1) eller annen internasjonal avtale når anvendelig,for fartøyer for hvilke Den internasjonale konvensjon om lastelinjer ikke gjelder, men som har fått fastsatt en lastelinje ifølge nasjonale regler, det dypgående som svarer til den etter slike regler fastsatte sommerlastelinje,for fartøyer som ikke har fått fastsatt noen lastelinje, men hvis dypgående er begrenset ifølge nasjonale regler, det største tillatte dypgående,for andre fartøyer, 75 prosent av dybden i risset midtskips som definert i regel 2 (2).
 
 > Endret ved [forskrift 25 mai 2022 nr. 944](forskrift/2022-05-25-944) (i kraft 1 juli 2022).
@@ -365,7 +383,44 @@ I fartøyer med avrundede dekkshjørner skal bredden måles som angitt i Figur 1
 ### Appendiks 2.
 Koeffisientene K1 og K2 nevnt i regel 3 og 4(1)
 
-V eller Vc = volum i kubikkmeterV eller VcK1 eller K2V eller VcK1 eller K2V eller VcK1 eller K2V eller VcK1 eller K2100,220045 0000,2931330 0000,3104670 0000,3165200,226050 00002940340 0000,3106680 0000,3167300,229555 00002948350 0000,3109690 00002168400,232060 0000,2956360 0000,3111700 0000,3169500,234065 00002963370 00002114710 0000,3170600,235670 00002969380 00002116720 0000,3171700,236975 0000,2975390 0000,3118730 0000,3173800,238180 0000,2981400 00002120740 0000,3174900,239185 0000,2986410 0000,3123750 0000,31751000,240090 0000,2991420 0000,3125760 0000,31762000,246095 0000,2996430 00002127770 000021773000,2495100 0000,3000440 00002129780 0000,31784000,2520110 00002008450 00002131790 0000,31805000,2540120 0000,3016460 0000,3133800 000021816000,2556130 0000,3023470 0000,3134810 0000,31827000,2569140 0000,3029480 0000,3136820 000021838000,2581150 0000,3035490 0000,3138830 0000,31849000,2591160 00002041500 0000,3140840 0000,31851 000OL600170 0000,3046510 00002142850 0000,31862 00002660180 00002051520 0000,3143860 000021873 0000,2695190 00002056530 00002145870 0000,31884 0000,2720200 0000,3060540 0000,3146880 0000,31895 0000,2740210 0000,3064550 0000,3148890 000021906 0000,2756220 0000,3068560 0000,3150900 0000,31917 0000,2769230 0000,3072570 0000,3151910 0000,31928 00002781240 0000,3076580 0000,3153920 0000,31939 00002791250 00002080590 00002154930 0000219410 0000,2800260 0000,3083600 0000,3156940 0000,319515 0000,2835270 0000,3086610 0000,3157950 0000,319620 0000,2860280 0000,3089620 0000,3158960 0000219625 0000,2880290 0000,3092630 0000,3160970 0000,319730 0000,2895300 0000,3095640 00002161980 0000,319835 0000,2909310 00002098650 0000,3163990 0000219940 0000,2920320 0000,3101660 0000,31641 000 0000,3200
+V eller Vc = volum i kubikkmeter
+
+| V eller Vc | K1 eller K2 | V eller Vc | K1 eller K2 | V eller Vc | K1 eller K2 | V eller Vc | K1 eller K2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | 0,2200 | 45 000 | 0,2931 | 330 000 | 0,3104 | 670 000 | 0,3165 |
+| 20 | 0,2260 | 50 000 | 02940 | 340 000 | 0,3106 | 680 000 | 0,3167 |
+| 30 | 0,2295 | 55 000 | 02948 | 350 000 | 0,3109 | 690 000 | 02168 |
+| 40 | 0,2320 | 60 000 | 0,2956 | 360 000 | 0,3111 | 700 000 | 0,3169 |
+| 50 | 0,2340 | 65 000 | 02963 | 370 000 | 02114 | 710 000 | 0,3170 |
+| 60 | 0,2356 | 70 000 | 02969 | 380 000 | 02116 | 720 000 | 0,3171 |
+| 70 | 0,2369 | 75 000 | 0,2975 | 390 000 | 0,3118 | 730 000 | 0,3173 |
+| 80 | 0,2381 | 80 000 | 0,2981 | 400 000 | 02120 | 740 000 | 0,3174 |
+| 90 | 0,2391 | 85 000 | 0,2986 | 410 000 | 0,3123 | 750 000 | 0,3175 |
+| 100 | 0,2400 | 90 000 | 0,2991 | 420 000 | 0,3125 | 760 000 | 0,3176 |
+| 200 | 0,2460 | 95 000 | 0,2996 | 430 000 | 02127 | 770 000 | 02177 |
+| 300 | 0,2495 | 100 000 | 0,3000 | 440 000 | 02129 | 780 000 | 0,3178 |
+| 400 | 0,2520 | 110 000 | 02008 | 450 000 | 02131 | 790 000 | 0,3180 |
+| 500 | 0,2540 | 120 000 | 0,3016 | 460 000 | 0,3133 | 800 000 | 02181 |
+| 600 | 0,2556 | 130 000 | 0,3023 | 470 000 | 0,3134 | 810 000 | 0,3182 |
+| 700 | 0,2569 | 140 000 | 0,3029 | 480 000 | 0,3136 | 820 000 | 02183 |
+| 800 | 0,2581 | 150 000 | 0,3035 | 490 000 | 0,3138 | 830 000 | 0,3184 |
+| 900 | 0,2591 | 160 000 | 02041 | 500 000 | 0,3140 | 840 000 | 0,3185 |
+| 1 000 | OL600 | 170 000 | 0,3046 | 510 000 | 02142 | 850 000 | 0,3186 |
+| 2 000 | 02660 | 180 000 | 02051 | 520 000 | 0,3143 | 860 000 | 02187 |
+| 3 000 | 0,2695 | 190 000 | 02056 | 530 000 | 02145 | 870 000 | 0,3188 |
+| 4 000 | 0,2720 | 200 000 | 0,3060 | 540 000 | 0,3146 | 880 000 | 0,3189 |
+| 5 000 | 0,2740 | 210 000 | 0,3064 | 550 000 | 0,3148 | 890 000 | 02190 |
+| 6 000 | 0,2756 | 220 000 | 0,3068 | 560 000 | 0,3150 | 900 000 | 0,3191 |
+| 7 000 | 0,2769 | 230 000 | 0,3072 | 570 000 | 0,3151 | 910 000 | 0,3192 |
+| 8 000 | 02781 | 240 000 | 0,3076 | 580 000 | 0,3153 | 920 000 | 0,3193 |
+| 9 000 | 02791 | 250 000 | 02080 | 590 000 | 02154 | 930 000 | 02194 |
+| 10 000 | 0,2800 | 260 000 | 0,3083 | 600 000 | 0,3156 | 940 000 | 0,3195 |
+| 15 000 | 0,2835 | 270 000 | 0,3086 | 610 000 | 0,3157 | 950 000 | 0,3196 |
+| 20 000 | 0,2860 | 280 000 | 0,3089 | 620 000 | 0,3158 | 960 000 | 02196 |
+| 25 000 | 0,2880 | 290 000 | 0,3092 | 630 000 | 0,3160 | 970 000 | 0,3197 |
+| 30 000 | 0,2895 | 300 000 | 0,3095 | 640 000 | 02161 | 980 000 | 0,3198 |
+| 35 000 | 0,2909 | 310 000 | 02098 | 650 000 | 0,3163 | 990 000 | 02199 |
+| 40 000 | 0,2920 | 320 000 | 0,3101 | 660 000 | 0,3164 | 1 000 000 | 0,3200 |
 
 For mellomliggende verdier av V eller Vc finnes koeffisientene K1 eller K2 ved lineær interpolasjon.
 

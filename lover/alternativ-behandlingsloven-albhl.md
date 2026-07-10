@@ -108,6 +108,10 @@ Det fritar ikke for straff etter første og andre ledd at vedkommende ikke forst
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
 
+1 Fra 1 jan 2004 iflg. [res. 12 des 2003 nr. 1473](forskrift/2003-12-12-1473).
+
 ## § 11. Opphevelse av og endring i andre lover
 
 Fra den tid loven trer i kraft oppheves [lov 19. juni 1936 nr. 9](lov/1936-06-19-9) om innskrenkning i adgangen for den som ikke er helsepersonell til å ta syke i kur.
+
+– – –

@@ -406,6 +406,10 @@ Forskriften trer i kraft 1. juli 2003. Fra samme tidspunkt oppheves [forskrift a
 
 Følgende sykdommer skal meldes:
 
+*1. Sykdommer i gruppe A*
+
+*1.1 Sykdommer som forebygges gjennom Barnevaksinasjonsprogrammet:*
+
 - Difteri
 - HPV-infeksjon som har forårsaket kreft eller forstadier til kreft
 - Kikhoste
@@ -418,9 +422,13 @@ Følgende sykdommer skal meldes:
 - Tetanus (stivkrampe)
 - Tuberkulose.
 
+*1.2 Virushepatitter:*
+
 - Hepatitt A
 - Hepatitt B
 - Hepatitt C.
+
+*1.3 Mat- og vannbårne sykdommer*
 
 - Botulisme
 - Campylobacteriose
@@ -432,6 +440,8 @@ Følgende sykdommer skal meldes:
 - Salmonellose
 - Yersiniose.
 
+*1.4 Zoonoser:*
+
 - Brucellose
 - Ekinokokkose
 - Lyme borreliose
@@ -440,6 +450,8 @@ Følgende sykdommer skal meldes:
 - Rabies
 - Trikinose
 - Tularemi.
+
+*1.5* Alvorlige importsykdommer:
 
 - Denguefeber
 - Flekktyfus
@@ -455,10 +467,14 @@ Følgende sykdommer skal meldes:
 - Viralhemoragisk feber
 - Zikavirus-infeksjon.
 
+*1.6 Alvorlige miljøsykdommer:*
+
 - Legionellose
 - Shewanellainfeksjon
 - Vibrioinfeksjon
 - Leptospirose
+
+*1.7 Alvorlige, systemiske sykdommer:*
 
 - Aids
 - Alvorlig, akutt luftveissyndrom – sars
@@ -477,11 +493,15 @@ Følgende sykdommer skal meldes:
 - Tyfoidfeber
 - Viraleinfeksjoner i sentralnervesystemet
 
+*1.8 Sykdommer forårsaket av visse resistente mikrober:*
+
 - Smittebærertilstand og infeksjoner med mikrober med spesielle resistensmønstre
 - Smittebærertilstand eller infeksjoner med meticillinresistente gule stafylokokker
 - Smittebærertilstand eller infeksjoner med penicillinresistente pneumokokker
 - Smittebærertilstand eller infeksjoner med toksinproduserende Clostridium difficile
 - Smittebærertilstand eller infeksjoner med vankomycinresistente enterokokker.
+
+*1.9 Seksuelt overførbare sykdommer:*
 
 - Genital chlamydiainfeksjon
 - Lymfogranuloma venereum
@@ -489,8 +509,14 @@ Følgende sykdommer skal meldes:
 - Hiv-infeksjon
 - Syfilis.
 
+*1.10 Andre sykdommer:*
+
 - Influensa
 - Respiratorisk syncytialvirus (RSV)
+
+*2. (Opphevet)*
+
+*3. Sykdommer i gruppe C*
 
 - – – –
 

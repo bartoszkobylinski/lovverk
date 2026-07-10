@@ -410,6 +410,8 @@ Forskriften trer i kraft 1. mai 2014. Fra samme tidspunkt oppheves [forskrift 1.
 
 ## Vedlegg 3
 
+[Pdf-fil](static/SF/sf-20140404-0377-v3-01-01.pdf)
+
 > Endret ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025).
 
 ## Vedlegg 4
@@ -417,6 +419,8 @@ Forskriften trer i kraft 1. mai 2014. Fra samme tidspunkt oppheves [forskrift 1.
 ## Vedlegg 5
 
 ## Vedlegg 6
+
+[Pdf-fil](static/SF/sf-20140404-0377-v6-01-02.pdf)
 
 > Tilføyd ved forskrift [9 feb 2024 nr. 231](forskrift/2024-02-09-231) (i kraft 1 jan 2025, endringen endret ved forskrift [15 nov 2024 nr. 2783](forskrift/2024-11-15-2783) fra samme dato).
 

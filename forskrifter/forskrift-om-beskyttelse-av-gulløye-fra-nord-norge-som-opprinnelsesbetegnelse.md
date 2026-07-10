@@ -32,11 +32,17 @@ Produsentorganisasjonen Ottar.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
+1\. *Produkt beskrivelse:*
+
 Gulløye fra Nord-Norge er betegnelsen på potet av sorten Gulløye som er dyrket nord for polarsirkelen.
 
 Poteten skal ha lys gul skallfarge med rødfarge i og rundt grohull og gul kjøttfarge. Knollene skal være runde eller rundovale og svakt flattrykte. Gulløye fra Nord-Norge skal ha et tørrstoffinnhold over 22 %, og skal etter pakking hos produsent ha maksimum 12,00 feilenheter.
 
+2\. *Geografisk område:*
+
 Gulløye fra Nord-Norge skal produseres i Nord-Norge nord for polarsirkelen avgrenset mot sør av kommunene Saltdal, Beiarn og Meløy.
+
+3\. *Produksjonsmetode:*
 
 Utgangsmaterialet av Gulløye fra Nord-Norge skal være oppformert ved et godkjent klonsavlsenter.
 
@@ -45,6 +51,8 @@ Gulløye fra Nord-Norge skal dyrkes i moldblandet sandjord eller siltholdig sand
 Settepotetene skal forgroes før setting, vanligvis i slutten av april måned. Groene skal være tykke og seige. Potetene skal settes fra midten av mai til begynnelsen av juni. Det skal gjødsles sparsomt med nitrogen.
 
 Opptak skal fortrinnsvis skje i første halvdel av september. Poteten skal tas opp på en mest mulig skånsom måte, og leveres i storsekk før pakking i forbruksenheter. Poteten skal lagres ved relativ fuktighet på 90–95 %.
+
+4\. *Merking av produktet:*
 
 Gulløye fra Nord-Norge kan merkes med figurmerket for Beskyttet opprinnelsesbetegnelse.
 

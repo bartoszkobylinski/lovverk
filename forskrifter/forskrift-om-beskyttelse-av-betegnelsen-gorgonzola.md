@@ -52,26 +52,69 @@ I produktforskriften § 3, om vilkår for bruk av produktbetegnelsen, har vi der
 
 Nedenfor følger til informasjon og som et hjelpemiddel ved lesing av § 3 i produktforskriften, en konsolidert engelsk versjon av Summary slik det fremgår av Official Journal OJ C 111, 6.5.2008 s. 51. Ingen av de rettslige dokumentene som ligger til grunn for beskyttelse av betegnelsen i EU vil bli oversatt til norsk. Teksten nedenfor er som nevnt innledningsvis kun ment til informasjon og er ikke en del av forskriften.
 
-Ministero delle Politiche agricole alimentari e forestali – Dipartimento delle Politiche di sviluppo – Direzione generale per la Qualità dei prodotti agroalimentariAddress:Via XX Settembre, 20
-I-00187 RomaTel.(39) 06 481 99 68Fax(39) 06 420 31 26E-mail:qpa3@politicheagricole.gov.it
+*SUMMARY*
+
+*COUNCIL REGULATION [(EC) No 510/2006](eu/32006r0510)*
+
+*«GORGONZOLA»*
+
+*EC No: IT-PDO-117/0010/12.4.2002*
+
+*PGI ( ) PDO (X)*
+
+1\. *Responsible department in the member state:*
+
+Ministero delle Politiche agricole alimentari e forestali – Dipartimento delle Politiche di sviluppo – Direzione generale per la Qualità dei prodotti agroalimentari
+
+|  |  |
+| --- | --- |
+| Address: | Via XX Settembre, 20<br>I-00187 Roma |
+| Tel. | (39) 06 481 99 68 |
+| Fax | (39) 06 420 31 26 |
+| E-mail: | qpa3@politicheagricole.gov.it |
+
+2\. *Group:*
+
+|  |  |
+| --- | --- |
+| Name: | Consorzio per la tutela del formaggio Gorgonzola |
+| Address: | Via A. Costa, 5/c<br>I-28100 Novara |
+| Tel. | (39) 0321 62 66 13 |
+| Fax | (39) 0321 39 09 36 |
+| E-mail: | consorzio.gorgonzola@gorgonzola.it |
+| Composition: | Producers/processors (X) Other ( ) |
+
+3\. *Type of product:*
 
 Class 1.3 – Cheeses
 
+4\. *Specification:*
+
 (Summary of requirements under Article 4(2) of Regulation [(EC) No 510/2006](eu/32006r0510))
 
+4.1. *Name:*
+
 «Gorgonzola»
+
+4.2. *Desciption:*
 
 «Gorgonzola» is a soft, fat, raw paste cheese made exclusively from whole cows' milk.
 
 The finished product has the following characteristics:Shape: cylindrical, with flat ends and a high, straight side.Dimensions: minimum height of the side 13 cm; diameter of between 20 and 32 cm.Weight:large wheel, mild type: 10–13 kg with a mild or slightly tangy taste,medium wheel, tangy type: 9–12 kg with a pronounced tangy taste,small wheel, tangy type: 6–8 kg with a pronounced tangy taste.Rind: grey and/or pink in colour, non-edible.Paste: homogeneous, white or pale yellow, with mould (marbling) producing characteristic blue-green veins.Fat content over dry matter: 48 % minimum.
 
+4.3. *Geographical area:*
+
 The area in which the cheese is produced and matured includes the whole of the following provinces:Bergamo, Biella, Brescia, Como, Cremona, Cuneo, Lecco, Lodi, Milan, Monza, Novara, Pavia, Varese, Verbano Cusio-Ossola and Vercelli.Alessandria: solely the municipalities of Casale Monferrato, Villanova Monferrato, Balzola, Morano Po, Coniolo, Pontestura, Serralunga di Crea, Cereseto, Treville, Ozzano Monferrato, San Giorgio Monferrato, Sala Monferrato, Cellamonte, Rosignano Monferrato, Terruggia, Ottiglio, Frassinello Monferrato, Olivola, Vignale, Camagna, Conzano, Occimiano, Mirabello Monferrato, Giarole, Valenza, Pomaro Monferrato, Bozzole, Valmacca, Ticineto, Borgo San Martino and Frassineto Po.
+
+4.4. *Proof of origin:*
 
 Every stage in the production process must be monitored and a record made of the inputs and outputs at each stage. Product traceability is ensured by this, and by compiling specific registers managed by the inspection body of livestock farmers, dairies and maturers, by keeping production registers and by notification to the inspection body of the quantities produced. The raw material itself is carefully monitored by the responsible inspection body through all stages of production. All natural and legal persons whose names appear in the registers will be subject to control by the inspection body in accordance with the specification and the control plan.
 
 The «Gorgonzola» PDO is shown clearly by two marks to be affixed in the area of production and maturation in order to allow the inspection body to verify beforehand that the product has acquired the qualitative and organoleptic characteristics set out under point 4.2.
 
 The two marks are affixed as follows:one at the point of production, on each of the flat ends displaying the identification number of the dairy, as taken from the tables distributed by the protection body under delegation from the Ministry of Agricultural, Food and Forestry Policy,the other, to be affixed once the product has acquired the requisite characteristics to be released for consumption, consists of goffered aluminium foil wrapped around the whole cheese, or around the half-cheese after it has been cut horizontally, such that the mark of origin with the identification number of the dairy remains clearly visible on the flat end of the cheese and bearing, on the other side, the goffered identifying mark as a guarantee of the authenticity and traceability of the product.
+
+4.5. *Method of production:*
 
 Production: «Gorgonzola» PDO is produced as follows:whole cows' milk from the production area is pasteurised,curdling: after pasteurisation, the whole cows' milk is inoculated with milk enzymes and with a suspension of Penicillium spores and selected yeasts; calf rennet is then added at a temperature of 28–36 °C,the curd is then put into fasceruoli (perforated cylindrical containers) and the origin mark with the identification number of the dairy is placed on both flat ends,the resulting wheel is dry salted over a period of several days at a temperature of 18–24 °C;during maturation, the varieties and strains of Penicillium characteristic of «Gorgonzola» develop, giving it its blue-green colour (marbling).
 
@@ -83,11 +126,25 @@ During maturation, holes are made in the paste on several occasions to promote t
 
 At the end of the maturation period, the inspection body checks that the product has acquired the requisite characteristics to be released for consumption and the cheese is wrapped in goffered aluminium foil with the goffered identifying mark.
 
+4.6. *Link:*
+
 The natural factors are tied in with the production area's climatic conditions, which foster the abundance of quality fodder for dairy cows and the development of the microbiological agents that ensure the cheese's organoleptic characteristics and colouring.
 
 As regards human factors, it should be pointed out that consumption for the product is widespread, thanks in particular to its use in traditional cereal-based preparations that are typical of the area of production.
 
+4.7. *Inspection body:*
+
+|  |  |
+| --- | --- |
+| Name: | CSQA – Certificazioni S.r.l. |
+| Address: | Via S. Gaetano, 74<br>I-36016 Thiene (VI) |
+| Tel. | (39) 0445 36 60 94 |
+| Fax | (39) 0445 38 26 72 |
+| E-mail: | csqa@csqa.it |
+
 The inspection body fulfils the conditions applicable under standard EN 45011.
+
+4.8. *Labelling:*
 
 Individual cheeses must bear the identifying marks issued by the protection body.
 

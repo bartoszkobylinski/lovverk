@@ -166,6 +166,8 @@ Når staten er eier kan vedkommende myndighet etter loven her – etter at funne
 
 > Endret ved [lov 3 juli 1992 nr. 96](lov/1992-07-03-96).
 
+1 Inkurie: Skal vel være [§ 12](lov/1978-06-09-50/§12) første ledd a-c.
+
 ## Kapittel IV. Skipsfunn og fartøyvern
 
 > Overskriften endret ved [lov 3 mars 2000 nr. 14](lov/2000-03-03-14) (ikr. 1 juni 2000 iflg. [res. 3 mars 2000 nr. 209](forskrift/2000-03-03-209)).
@@ -270,15 +272,15 @@ Eier eller bruker må varsles før skjøtsel etter første ledd iverksettes.
 
 ### § 22. Regler for saksbehandling.
 
-1. Når et arbeid med fredning etter denne lov (jf. [§§ 15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20)) starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner for å drøfte avgrensing av området, innhold i fredningsbestemmelser og spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift om samordnet behandling av planer etter [plan- og bygningsloven](lov/2008-06-27-71) og fredning etter denne lov.Fredningsmyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte fredningstiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.På et tidlig tidspunkt i forberedelse av fredningssaken skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.
+1\. Når et arbeid med fredning etter denne lov (jf. [§§ 15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20)) starter opp skal det tas kontakt med berørte fylkeskommuner og kommuner for å drøfte avgrensing av området, innhold i fredningsbestemmelser og spørsmål om samtidig oppstart av kommunalt eller regionalt planarbeid og spørsmål for øvrig av betydning for kommunens og fylkeskommunens planarbeid. Kongen kan gi forskrift om samordnet behandling av planer etter [plan- og bygningsloven](lov/2008-06-27-71) og fredning etter denne lov.Fredningsmyndigheten skal kunngjøre en melding, som regel i minst 2 aviser som er alminnelig lest på stedet, der det gjøres rede for det påtenkte fredningstiltak og de følger det antas å få. Såvidt mulig bør grunneiere og rettighetshavere underrettes ved brev og gis en rimelig frist for å komme med merknader før forslag utformes.På et tidlig tidspunkt i forberedelse av fredningssaken skal det søkes samarbeid med offentlige myndigheter, organisasjoner m.v. som har særlig interesse i tiltaket.
 
-2. Når forslag om fredning er utarbeidet skal det kunngjøres i Norsk Lysingsblad og i minst 2 aviser som er alminnelig lest på stedet at forslag om fredning er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive hva forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere i området underrettes ved brev.I samarbeid med kunngjøringen skal saken legges fram for berørte statlige fagorganer til uttalelse.
+2\. Når forslag om fredning er utarbeidet skal det kunngjøres i Norsk Lysingsblad og i minst 2 aviser som er alminnelig lest på stedet at forslag om fredning er utlagt til offentlig ettersyn. Kunngjøringen skal beskrive hva forslaget omfatter og gi en rimelig frist for uttalelse som ikke må settes kortere enn 6 uker fra kunngjøringen. Såvidt mulig bør grunneiere og rettighetshavere i området underrettes ved brev.I samarbeid med kunngjøringen skal saken legges fram for berørte statlige fagorganer til uttalelse.
 
-3. Før vedtak om fredning treffes, skal forslaget forelegges kommunestyret. Det kan settes en frist for kommunestyrets uttalelse.
+3\. Før vedtak om fredning treffes, skal forslaget forelegges kommunestyret. Det kan settes en frist for kommunestyrets uttalelse.
 
-4. Departementet kan treffe vedtak om midlertidig fredning inntil saken er avgjort.
+4\. Departementet kan treffe vedtak om midlertidig fredning inntil saken er avgjort.
 
-5. Vedtak etter [§§ 6](lov/1978-06-09-50/§6), [15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20) skal tinglyses.
+5\. Vedtak etter [§§ 6](lov/1978-06-09-50/§6), [15](lov/1978-06-09-50/§15), [19](lov/1978-06-09-50/§19) og [20](lov/1978-06-09-50/§20) skal tinglyses.
 
 > Endret ved [lover 14 juni 1985 nr. 77](lov/1985-06-14-77), [21 apr 1989 nr. 17](lov/1989-04-21-17), [3 juli 1992 nr. 96](lov/1992-07-03-96), [3 mars 2000 nr. 14](lov/2000-03-03-14) (ikr. 1 juni 2000 iflg. [res. 3 mars 2000 nr. 209](forskrift/2000-03-03-209)), [27 juni 2008 nr. 71](lov/2008-06-27-71) (ikr. 1 juli 2009 iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638)) som endret ved [lov 19 juni 2009 nr. 100](lov/2009-06-19-100).
 
@@ -336,6 +338,8 @@ Søksmål om tilbakelevering kan ikke finne sted dersom utførselen ikke lenger 
 
 > Tilføyd ved [lov 24 nov 1995 nr. 63](lov/1995-11-24-63), endret ved [lover 6 apr 2001 nr. 12](lov/2001-04-06-12) (ikr. 1 mars 2002, se dens IV), [10 juni 2005 nr. 52](lov/2005-06-10-52) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1434](forskrift/2006-12-15-1434)).
 
+1 Inkurie: Skal vel være [§ 23 b](lov/1978-06-09-50/§23b) første ledd annet punktum.
+
 ### § 23 e. Eiendomsrett
 
 Ved tilbakelevering til en stat som inngår i Det europeiske økonomiske samarbeidsområdet (EØS), skal eiendomsretten til en kulturgjenstand etter tilbakeleveringen avgjøres etter lovgivningen i den anmodende stat.
@@ -387,3 +391,5 @@ Departementet kan gi nærmere regler om utfylling og gjennomføring av loven.
 ### § 29. Ikrafttreden. Oppheving og endring av andre lover.
 
 1. Denne loven trer i kraft fra den tid Kongen bestemmer.1 Fra lovens ikrafttreden oppheves – – –.
+
+1 Fra 15 feb 1979 iflg. res. 9 feb 1979. I [lov 3 juli 1992 nr. 96](lov/1992-07-03-96) II annet og tredje ledd er bestemt:«Lovens §§ 15 a – 18 gjelder også for bygninger, anlegg m.v. som er fredet med hjemmel i [§ 15](lov/1978-06-09-50/§15) før lovens ikrafttreden.[Lovens § 21](lov/1978-06-09-50/§21) om skjøtsel gjelder også for områder som er fredet med hjemmel i [§ 21](lov/1978-06-09-50/§21) før lovens ikrafttreden.»

@@ -114,6 +114,8 @@ Loven gjelder fra den tid Kongen bestemmer.1
 
 Fra samme tidspunkt oppheves [lov 27. november 1992 nr. 110](lov/1992-11-27-110) om konkurranseregler i EØS-avtalen mv.
 
+1 Loven ble satt i kraft fra 1 mai 2004 iflg. [res. 5 mars 2004 nr. 478](forskrift/2004-03-05-478), men denne bestemmelsen ble opphevet iflg. [res. 30 apr 2004 nr. 681](forskrift/2004-04-30-681). Satt ikr. 19 mai 2005 iflg. [res. 19 mai 2005 nr. 434](forskrift/2005-05-19-434).
+
 ## § 11. Overgangsbestemmelser
 
 Overtredelsesgebyr og straff etter denne lov kommer bare til anvendelse på overtredelser som er begått etter lovens ikrafttredelse.

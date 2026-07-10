@@ -114,6 +114,8 @@ Rabatter ved litteraturabonnement etter [§ 8](lov/2023-06-16-64/§8) gjelder ua
 
 Departementet kan gi forskrift om innkjøpsrabatt for e-bøker og digitale lydbøker.
 
+1 Ikke i kraft (i kraft fra den tid Kongen bestemmer).
+
 ## § 13. Forholdet til konkurranseloven
 
 Innenfor denne lovens virkeområde skal bestemmelsene i loven ved motstrid gå foran bestemmelsene i [konkurranseloven](lov/2004-03-05-12).
@@ -123,6 +125,8 @@ Innenfor denne lovens virkeområde skal bestemmelsene i loven ved motstrid gå f
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Departementet kan gi forskrift om overgangsbestemmelser for bøker som omfattes av fastpris etter en gjeldende bokavtale på det tidspunktet loven begynner å gjelde.
+
+1 Fra 1 jan 2024 med unntak av [§ 7](lov/2023-06-16-64/§7) som trer i kraft 1 jan 2025 og med unntak av [§ 12](lov/2023-06-16-64/§12), iflg. [res. 1 sep 2023 nr. 1379](forskrift/2023-09-01-1379).
 
 ## § 15. Endringer i andre lover
 

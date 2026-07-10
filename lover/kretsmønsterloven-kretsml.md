@@ -61,6 +61,8 @@ Utnyttelse av kretsmønsteret i fortrolig sammenheng regnes ikke som ervervsmess
 
 > Endret ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994).
 
+1 Inntatt her etter [lov 27 nov 1992 nr. 109](lov/1992-11-27-109).
+
 ## § 5 a. Forbud mot inngrep
 
 Den som har gjort inngrep i en annens rett etter denne loven, eller medvirket til det, kan ved dom forbys å gjenta handlingen. Den som har gjort vesentlige forberedelsestiltak med sikte på å utføre en handling som vil utgjøre inngrep, eller på annen måte har opptrådt slik at det er særlig grunn til å frykte at vedkommende vil gjøre inngrep, kan ved dom forbys å gjennomføre handlingen.
@@ -132,3 +134,5 @@ Loven kommer også til anvendelse på kretsmønstre som er frembrakt før loven 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lov [20 juli 1991 nr. 68](lov/1991-07-20-68).
+
+1 Fra 1 jan 1992 iflg. [res. 6 sep 1991 nr. 570](forskrift/1991-09-06-570).

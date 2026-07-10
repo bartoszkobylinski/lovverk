@@ -534,3 +534,155 @@ Forbudet mot hold av vilt i [viltressursloven § 49](lov/2025-06-20-102/§49) gj
 > Endret ved forskrift [26 juni 2026 nr. 1384](forskrift/2026-06-26-1384) (i kraft 1 juli 2026).
 
 ## Vedlegg 1. Oversikt over registrerings- og merkepliktige arter
+
+| *Art* |  | *Registrerings-*<br>*pliktig* | *Merkepliktig* |
+| --- | --- | --- | --- |
+| ***Flaggermus*** |  |  |  |
+| Vannflaggermus | *Myotis daubentonii* | X |  |
+| Skogflaggermus | *Myotis brandtii* | X |  |
+| Skjeggflaggermus | *Myotis mystacinus* | X |  |
+| Børsteflaggermus | *Myotis nattereri* | X |  |
+| Storflaggermus | *Nyctalus noctula* | X |  |
+| Tusseflaggermus | *Pipistrellus pipistrellus* | X |  |
+| Dvergflaggermus | *Pipistrellus pygmaeus* | X |  |
+| Trollflaggermus | *Pipistrellus nathusii* | X |  |
+| Skimmelflaggermus | *Vespertilio murinus* | X |  |
+| Nordflaggermus | *Eptesicus nilssonii* | X |  |
+| Bredøre | *Barbastella barbastellus* | X |  |
+| Brunlangøre | *Plecotus auritus* | X |  |
+| ***Rovdyr*** |  |  |  |
+| Ulv | *Canis lupus* | X | X |
+| Fjellrev | *Vulpes lagopus* | X | X |
+| Oter | *Lutra lutra* | X |  |
+| Brunbjørn | *Ursus arctos* | X | X |
+| Jerv | *Gulo gulo* | X | X |
+| Gaupe | *Lynx lynx* | X | X |
+| ***Andefugler*** |  |  |  |
+| Sædgås | *Anser fabalis* | X |  |
+| Dverggås | *Anser erythropus* | X | X |
+| Ringgås | *Branta bernicla* | X | X |
+| Gravand | *Tadorna tadorna* | X |  |
+| Snadderand | *Anas strepera* | X |  |
+| Stjertand | *Anas acuta* | X |  |
+| Knekkand | *Anas querquedula* | X |  |
+| Skjeand | *Anas clypeata* | X |  |
+| Taffeland | *Aythya ferina* | X |  |
+| Bergand | *Aythya marila* | X |  |
+| Praktærfugl | *Somateria spectabilis* | X |  |
+| Stellerand | *Polysticta stelleri* | X |  |
+| Sjøorre | *Melanitta fusca* | X |  |
+| Lappfiskand | *Mergellus albellus* | X |  |
+| ***Lommer*** |  |  |  |
+| Smålom | *Gavia stellata* | X |  |
+| Storlom | *Gavia arctica* | X |  |
+| Islom | *Gavia immer* | X |  |
+| Gulnebblom | *Gavia adamsii* | X |  |
+| ***Lappedykkere*** |  |  |  |
+| Dvergdykker | *Tachybaptus ruficollis* | X |  |
+| Toppdykker | *Podiceps cristatus* | X |  |
+| Horndykker | *Podiceps auritus* | X |  |
+| Svarthalsdykker | *Podiceps nigricollis* | X |  |
+| Gråstrupedykker | *Podiceps grisegena* | X |  |
+| ***Stormfugler*** |  |  |  |
+| Havsvale | *Hydrobates pelagicus* | X |  |
+| Stormsvale | *Osceanodroma leucorhoa* | X |  |
+| Grålire | *Puffinus griseus* | X |  |
+| Havlire | *Puffinus puffinus* | X |  |
+| ***Rovfugler*** |  |  |  |
+| Vepsevåk | *Pernis apivorus* | X | X |
+| Havørn | *Haliaeetus albicilla* | X | X |
+| Sivhauk | *Circus aeruginosus* | X | X |
+| Myrhauk | *Circus cyaneus* | X | X |
+| Hønsehauk | *Accipiter gentilis* | X | X |
+| Fjellvåk | *Buteo lagopus* | X |  |
+| Musvåk | *Buteo buteo* | X |  |
+| Kongeørn | *Aquila chrysaetos* | X | X |
+| Fiskeørn | *Pandion haliaetus* | X | X |
+| Tårnfalk | *Falco tinnunculus* | X |  |
+| Dvergfalk | *Falco columbarius* | X |  |
+| Lerkefalk | *Falco subbuteo* | X |  |
+| Jaktfalk | *Falco rusticolus* | X | X |
+| Vandrefalk | *Falco peregrinus* | X | X |
+| ***Tranefugler*** |  |  |  |
+| Vannrikse | *Rallus aquaticus* | X |  |
+| Myrrikse | *Porzana porzana* | X |  |
+| Åkerrikse | *Crex crex* | X | X |
+| ***Vade-, måke- og alkefugler*** |  |  |  |
+| Dverglo | *Charadrius dubius* | X |  |
+| Boltit | *Charadrius morinellus* | X |  |
+| Fjellmyrløper | *Limicola falcinellus* | X | X |
+| Kvartbekkasin | *Lymnocryptes minimus* | X |  |
+| Dobbeltbekkasin | *Gallinago media* | X | X |
+| Svarthalespove | *Limosa limosa* | X |  |
+| Lappspove | *Limosa lapponica* | X |  |
+| Småspove | *Numenius phaeopus* | X |  |
+| Sotsnipe | *Tringa erythropus* | X |  |
+| Svømmesnipe | *Phalaropus lobatus* | X |  |
+| Polarjo | *Stercorarius pomarinus* | X |  |
+| Tyvjo | *Stercorarius parasiticus* | X |  |
+| Fjelljo | *Stercorarius longicaudus* | X |  |
+| Storjo | *Stercorarius skua* | X |  |
+| Dvergmåke | *Hydrocoloeus minutus* | X |  |
+| Sildemåke nordlig | *Larus fuscus fuscus* | X | X |
+| Ismåke | *Pagophila eburnea* | X |  |
+| Lomvi | *Uria aalge* | X |  |
+| Polarlomvi | *Uria lomvia* | X |  |
+| Lunde | *Fratercula arctica* | X |  |
+| ***Duefugler*** |  |  |  |
+| Skogdue | *Columba oenas* | X |  |
+| ***Ugler*** |  |  |  |
+| Hubro | *Bubo bubo* | X | X |
+| Snøugle | *Nyctea scandiaca* | X | X |
+| Haukugle | *Surnia ulula* | X |  |
+| Spurveugle | *Glaucidium passerinum* | X |  |
+| Kattugle | *Strix aluco* | X |  |
+| Slagugle | *Strix uralensis* | X | X |
+| Lappugle | *Strix nebulosa* | X | X |
+| Hornugle | *Asio otus* | X |  |
+| Jordugle | *Asio flammeus* | X |  |
+| Perleugle | *Aegolius funereus* | X |  |
+| ***Nattravn-, og spettefugler*** |  |  |  |
+| Nattravn | *Caprimulgus europaeus* | X | X |
+| Isfugl | *Alcedo atthis* | X |  |
+| Vendehals | *Jynx torquilla* | X |  |
+| Gråspett | *Picus canus* | X |  |
+| Grønnspett | *Picus viridis* | X |  |
+| Hvitryggspett | *Dendrocopos leucotos* | X | X |
+| Dvergspett | *Dendrocopos minor* | X |  |
+| Tretåspett | *Picoides tridactylus* | X |  |
+| ***Spurvefugler*** |  |  |  |
+| Trelerke | *Lullula arborea* | X |  |
+| Fjellerke | *Eremophila alpestris* | X | X |
+| Lappiplerke | *Anthus cervinus* | X |  |
+| Vintererle | *Motacilla cinerea* | X |  |
+| Nattergal | *Luscinia luscinia* | X |  |
+| Svartrødstjert | *Phoenicurus ochruros* | X |  |
+| Svartstrupe | *Saxicola torquata* | X |  |
+| Myrsanger | *Acrocephalus palustris* | X |  |
+| Hauksanger | *Sylvia nisoria* | X |  |
+| Lappsanger | *Phylloscopus borealis* | X |  |
+| Bøksanger | *Phylloscopus sibilatrix* | X |  |
+| Skjeggmeis | *Panurus biarmicus* | X |  |
+| Lappmeis | *Parus cinctus* | X |  |
+| Tornskate | *Parus cinctus* | X |  |
+| Varsler | *Lanius excubitor* | X |  |
+| Kornkråke | *Corvus frugilegus* | X |  |
+| Nøttekråke | *Nucifraga caryocatactes* | X |  |
+| Bergirisk | *Carduelis flavirostris* | X |  |
+| Rosenfink | *Carpodacus erythrinus* | X |  |
+| Konglebit | *Pinicola enucleator* | X |  |
+| Kjernebiter | *Coccothraustes coccothraustes* | X |  |
+| Hortulan | *Emberiza hortulana* | X | X |
+| Vierspurv | *Emberiza rustica* | X |  |
+| Dvergspurv | *Emberiza pusilla* | X |  |
+| ***Krypdyr*** |  |  |  |
+| Slettsnok | Coronella austriaca | X | X |
+| Buorm | Natrix natrix | X |  |
+| Stålorm | Anguis fragilis | X |  |
+| ***Amfibier*** |  |  |  |
+| Damfrosk | Pelophylax lessonae | X |  |
+| Storsalamander | Triturus cristatus | X |  |
+| Småsalamander | Lissotriton vulgaris | X |  |
+| ***Egg*** |  |  |  |
+| Alle fugleegg |  | X | X |
+| Fallvilt av viltarter som ikke har fast tilhold eller reproduserer i Norge, men som finnes dødt innenfor forskriftens stedlige virkeområde |  | X |  |

@@ -40,6 +40,8 @@ Det må betales avgift selv om mottakeren brukes lite. Dette gjelder også om mo
 
 > Endret ved [forskrifter 19 feb 1997 nr. 235](forskrift/1997-02-19-235), [4 juli 2007 nr. 844](forskrift/2007-07-04-844) (i kraft straks med virkning fra og med innkreving av andre termin av kringkastingsavgiften for 2007).
 
+1 Ved ikrafttredelse av endringen av 4 juli 2007 gjelder følgende overgangsregel til [§ 2](forskrift/1980-10-23-8798/§2) første ledd: I 2007 betales avgiften i to deler. Avgift for perioden 1. mars til 31. august betales med forfall 1. mars og avgift for perioden 1. september til 31. desember betales med forfall 1. september.
+
 ## § 3. Tilleggsavgift
 
 1. Den som ikke har betalt kringkastingsavgiften ved forfall,
@@ -47,6 +49,8 @@ Det må betales avgift selv om mottakeren brukes lite. Dette gjelder også om mo
 3. den som har mottaker uten å være registrert i NRK,
 4. den som bruker eller har oppsatt mottaker som ikke etter forskriftene går inn under kringkastingskortet hans/hennes,
 5. den som unnlater å gi slik melding som er nevnt i [§ 6](forskrift/1980-10-23-8798/§6)
+
+kan foruten den ordinære avgift pålegges å betale tilleggsavgift.
 
 Dette gjelder selv om krav på kringkastingsavgiften ikke er mottatt av årsaker som ikke skyldes NRK. Tilleggsavgiften ble til og med 2019 fastsatt av Stortinget.
 

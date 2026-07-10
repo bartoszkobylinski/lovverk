@@ -370,14 +370,30 @@ Kravene i [energiloven § 4-6](lov/1990-06-29-50/§4-6) og [§ 4-7](lov/1990-06-
 
 I dette kapittelet forstås med:
 
+*Engrosenergiprodukt:* Engroskontrakter for fysisk levering av elektrisk energi, samt kontrakter til sluttbrukere med en forbrukskapasitet på minst 600 GWh årlig. Med kontrakter forstås også ordre og transaksjoner. Avståelse, mottak samt konsesjonskraftberettigedes disponering av konsesjonskraft er ikke et engrosenergiprodukt etter denne bestemmelsen, med mindre det handles på organisert markedsplass.
+
+*Engrosenergimarked:* Ethvert marked hvor engrosenergiprodukter handles.
+
+*Markedsaktør:* Person, inkludert systemansvarlig nettselskap, som forestår produksjon, omforming, overføring, omsetning, fordeling eller bruk av energi, og som inngår en eller flere kontrakter knyttet til et engrosenergiprodukt i ett eller flere engrosenergimarkeder.
+
+*Innsideinformasjon:* Presis informasjon som direkte eller indirekte vedrører ett eller flere engrosenergiprodukter, som ikke er offentliggjort, og som det er sannsynlig at kan påvirke prisen på et engrosenergiprodukt merkbart dersom den blir offentliggjort.
+
+*Informasjon:*
+
 1. opplysninger om kapasiteten og anvendelsen av anlegg for produksjon, forbruk eller overføring av energi, herunder planlagte eller uforutsette utfall,
 2. opplysninger som skal offentliggjøres i henhold til lov, forskrift, øvrige markedsregler eller relevant handelspraksis, dersom disse sannsynligvis vil påvirke prisene på engrosenergiprodukter merkbart, eller
 3. andre opplysninger som en markedsaktør sannsynligvis ville benytte som en del av grunnlaget for sin beslutning om å inngå i en transaksjon eller inngi en handelsordre for et engrosenergiprodukt.
+
+*Presis informasjon:* opplysninger som indikerer at en eller flere omstendigheter eller begivenheter har inntruffet, eller med rimelighet kan ventes å inntreffe. Opplysningene må være tilstrekkelig spesifikke til å trekke slutning om mulig påvirkning av disse omstendighetene eller begivenhetene på prisen på et engrosenergiprodukt.
+
+*Markedsmanipulasjon:*
 
 1. inngåelse av transaksjon eller inngivelse av handelsordre for et engrosenergiprodukt som gir eller er egnet til å gi uriktige eller villedende signaler om tilbud, etterspørsel eller pris på et engrosenergiprodukt,
 2. inngåelse av transaksjon eller inngivelse av handelsordre for et engrosenergiprodukt hvor én eller flere personer i fellesskap sikrer eller forsøker å sikre at prisen ligger på et kunstig nivå. Dette gjelder ikke dersom den som har inngått transaksjonen eller inngitt handelsordren kan påvise at begrunnelsen er legitim, og at transaksjonen eller handelsordren er i overensstemmelse med akseptert markedspraksis på det gjeldende engrosenergimarkedet,
 3. inngåelse av transaksjon eller inngivelse av handelsordre for et engrosenergiprodukt hvor det benyttes eller forsøkes benyttet villedende adferd eller andre former for opptreden eller unnlatelse, som gir eller er egnet til å gi uriktige eller villedende signaler vedrørende tilbud, etterspørsel, eller pris på et engrosenergiprodukt, eller
 4. spredning av opplysninger gjennom media, internett eller på annen måte, når opplysningene gir eller er egnet til å gi uriktige eller villedende signaler om tilbud, etterspørsel eller pris på et engrosenergiprodukt. Det samme gjelder spredning av rykter eller villedende nyheter som vedkommende visste eller burde ha visst var uriktige eller villedende.
+
+*Forsøk på markedsmanipulasjon:*
 
 1. inngåelse av transaksjon, inngivelse av handelsordre eller annen handling vedrørende et engrosenergiprodukt med hensikt å gi uriktige eller villedende signaler om tilbud, etterspørsel eller pris på et engrosenergiprodukt,
 2. inngåelse av transaksjon, inngivelse av handelsordre eller annen handling med hensikt å sikre at prisen på et engrosenergiprodukt ligger på et kunstig nivå. Dette gjelder ikke dersom den som har inngått transaksjonen eller inngitt handelsordren kan påvise at begrunnelsen er legitim, og at transaksjonen eller handelsordren er i overensstemmelse med akseptert markedspraksis på det gjeldende engrosenergimarkedet,

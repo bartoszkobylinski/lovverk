@@ -68,4 +68,9 @@ Obligatorisk liste skal lyde:Eurocontrol-standard for direktekobla datakommunika
 
 ## Vedlegg II. Offentleg oppdragsgivar med ansvar for kjøp av utstyr til lufttrafikktenesten
 
+Avinor AS
+Wergelandsveien 1
+Postboks 8124 Dep
+0032 Oslo
+
 > Endra ved [delegeringsvedtak 10 des 1999 nr. 1280](forskrift/1999-12-10-1280) (i kraft 1 jan 2000), [forskrift 22 sep 2003 nr. 1166](forskrift/2003-09-22-1166).

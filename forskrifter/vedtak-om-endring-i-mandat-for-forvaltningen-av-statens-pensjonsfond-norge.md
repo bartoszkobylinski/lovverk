@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [mandat 21. desember 2010 nr. 1790 om forvaltningen av Statens pensjonsfond Norge](forskrift/2010-12-21-1790) gjøres følgende endring:
+
+[§ 3-6 annet ledd](forskrift/2010-12-21-1790/§3-6/ledd/2) skal lyde:
+
 Det skal ikke tas aktive valutaposisjoner fra obligasjonsindeksens sammensetning i renteforvaltningen av fondet.
 
 ## II

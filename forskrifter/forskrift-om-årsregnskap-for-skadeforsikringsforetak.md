@@ -252,6 +252,8 @@ Kontantstrømoppstillingen skal gi en oversikt over innbetalinger og utbetalinge
 
 Resultatregnskapet skal ha følgende oppstillingsplan:
 
+TEKNISK REGNSKAP
+
 1. **Premieinntekter mv.**Opptjente bruttopremier– Gjenforsikringsandel av opptjente bruttopremier*Sum premieinntekter for egen regning*
 2. **Andre forsikringsrelaterte inntekter**
 3. **Erstatningskostnader**Brutto erstatningskostnader– Gjenforsikringsandel av brutto erstatningskostnader*Sum erstatningskostnader for egen regning*
@@ -259,6 +261,8 @@ Resultatregnskapet skal ha følgende oppstillingsplan:
 5. **Andre forsikringsrelaterte driftskostnader**
 6. **Endring i avsetning for ikke avløpt risiko**
 7. **Resultat av teknisk regnskap**
+
+IKKE-TEKNISK REGNSKAP
 
 1. **Netto inntekter fra investeringer**Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretakRenteinntekt og utbytte mv. på finansielle eiendelerNetto driftsinntekt fra eiendomVerdiendringer på investeringerRealisert gevinst og tap på investeringerAdministrasjonskostnader knyttet til investeringer, herunder rentekostnader*Sum netto inntekter fra investeringer*
 2. **Andre inntekter**
@@ -276,12 +280,18 @@ Resultatregnskapet skal ha følgende oppstillingsplan:
 
 Balansen skal ha følgende oppstillingsplan:
 
+EIENDELER
+
 1. **Immaterielle eiendeler**GoodwillAndre immaterielle eiendeler*Sum immaterielle eiendeler*
 2. **Investeringer**Bygninger og andre faste eiendommerInvesteringseiendommerEierbenyttet eiendomDatterforetak, tilknyttede foretak og felleskontrollerte foretakAksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretakFordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretakFinansielle eiendeler som måles til amortisert kostRentebærende verdipapirerUtlån og fordringerFinansielle eiendeler som måles til virkelig verdiAksjer og andeler (inkl. aksjer og andeler målt til kost)Rentebærende verdipapirerUtlån og fordringerFinansielle derivaterAndre finansielle eiendelerGjenforsikringsdepoter*Sum investeringer*
 3. **Gjenforsikringsandel av brutto forsikringsforpliktelser**Gjenforsikringsandel av ikke opptjent bruttopremieGjenforsikringsandel av brutto erstatningsavsetning*Sum gjenforsikringsandel av brutto forsikringsforpliktelser*
 4. **Fordringer**Fordringer i forbindelse med direkte forretningerForsikringstakereMellommennFordringer i forbindelse med gjenforsikringAndre fordringer*Sum fordringer*
 5. **Andre eiendeler**Anlegg og utstyrKasse, bankEiendeler ved skattAndre eiendeler betegnet etter sin art*Sum andre eiendeler*
 6. **Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter**Opptjente, ikke mottatte leieinntekterForskuddsbetalte direkte salgskostnaderAndre forskuddsbetalte kostnader og opptjente ikke mottatte inntekter*Sum forskuddsbetalte kostnader og opptjente ikke mottatte inntekter*
+
+SUM EIENDELER
+
+EGENKAPITAL OG FORPLIKTELSER
 
 1. **Innskutt egenkapital**SelskapskapitalAksjekapital/eierandelskapital/garantifondBeholdning av egne aksjer/egenkapitalbevisOverkursEgenkapitalandel av sammensatte finansielle instrumenter og andre egenkapitalinstrumenterAnnen innskutt egenkapital*Sum innskutt egenkapital*
 2. **Opptjent egenkapital**Fond mv.Fond for vurderingsforskjellerFond for urealiserte gevinsterAvsetning til naturskadekapitalAvsetning til garantiordningenAnnen opptjent egenkapital*Sum opptjent egenkapital*
@@ -291,6 +301,10 @@ Balansen skal ha følgende oppstillingsplan:
 6. **Premiedepot fra gjenforsikringsforetak**
 7. **Forpliktelser**Forpliktelser i forbindelse med direkte forsikringForpliktelser i forbindelse med gjenforsikringForpliktelser til kredittinstitusjonerFinansielle derivaterAndre forpliktelser*Sum forpliktelser*
 8. **Påløpte kostnader og mottatte ikke opptjente inntekter**Mottatte, ikke opptjente leieinntekterAndre påløpte kostnader og mottatte ikke opptjente inntekter*Sum påløpte kostnader og mottatte ikke opptjente inntekter*
+
+SUM EGENKAPITAL OG FORPLIKTELSER
+
+POSTER UTENOM BALANSEN
 
 1. **Betingede forpliktelser**
 2. **Forpliktelser**
@@ -627,9 +641,15 @@ Det skal gis opplysninger om virkelig verdi for balansepost 2.3.1 og 2.3.2. Oppl
 
 (6) Dersom de kvantitative dataene det opplyses om ved slutten av regnskapsåret ikke er representative for risiko i løpet av perioden, skal foretaket legge frem ytterligere informasjon som er representativ.
 
+*Kredittrisiko*
+
 (7) Det skal gis opplysninger om kredittrisiko i samsvar med IFRS 7.35A–38.
 
+*Likviditetsrisiko*
+
 (8) Det skal presenteres en forfallsanalyse av finansielle forpliktelser som viser de gjenværende kontraktsmessige forfallene. Det skal i tillegg gis en beskrivelse av hvordan den iboende likviditetsrisikoen i forfallsanalysen håndteres.
+
+*Markedsrisiko*
 
 (9) Det skal gis en sensitivitetsanalyse for hver type markedsrisiko som foretaket er eksponert for ved slutten av regnskapsåret, som viser hvordan resultatet og egenkapitalen ville blitt påvirket av endringer i den relevante risikovariabelen innenfor et rimelig mulighetsområde på det tidspunktet. Det skal opplyses om metodene og forutsetningene som ble benyttet ved utarbeidelsen av sensitivitetsanalysen. Eventuelle endringer fra forrige periode i metoder og forutsetninger skal opplyses og begrunnes. Dersom foretaket utarbeider «value-at-risk»-analyse, skal det gis opplysninger i henhold til IFRS 7.41.
 
@@ -769,11 +789,15 @@ Ansvarlig lånekapital i datterforetak, tilknyttede foretak og felleskontrollert
 
 (2) Det skal opplyses om endring i avskrivningsplan.
 
+*Immaterielle eiendeler*
+
 (3) For hver post under immaterielle eiendeler skal økonomisk levetid og valg av avskrivningsplan opplyses.
 
 (4) Goodwill skal spesifiseres for hvert enkelt virksomhetskjøp. Avskrivningsplan for goodwill som er lenger enn fem år, skal begrunnes.
 
 (5) Dersom immaterielle eiendeler regnskapsføres i samsvar med IAS 38, skal det gis opplysninger i samsvar med IAS 38 nr. 122 bokstav a, nr. 124 og nr. 125.
+
+*Anlegg og utstyr*
 
 (6) For hver post under anlegg og utstyr skal det opplyses om økonomisk levetid og valg av avskrivningsplan. For hver post skal det opplyses om balanseførte leieavtaler.
 
@@ -872,6 +896,8 @@ Det skal gis opplysninger om transaksjoner med nærstående parter enten i samsv
 ### § 5-54. Kostnad (inntekt) ved skatt
 
 Det skal gis opplysninger om skatt i henhold til foreløpig norsk regnskapsstandard
+
+*Resultatskatt*
 
 > Endret ved [forskrifter 20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018, tidligere § 5-53), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225), tidligere § 5-56).
 

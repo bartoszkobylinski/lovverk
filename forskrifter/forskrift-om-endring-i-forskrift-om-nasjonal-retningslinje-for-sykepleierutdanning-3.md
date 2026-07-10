@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 4. juli 2025 nr. 1477 om nasjonal retningslinje for sykepleierutdanning](forskrift/2025-07-04-1477) gjøres følgende endring:
+
+[§ 5 bokstav j](forskrift/2025-07-04-1477/§5/bokstav/j) skal lyde
+
 kan anvende smittevernstiltak for å forhindre spredning av uønskede mikrober.
 
 ## II

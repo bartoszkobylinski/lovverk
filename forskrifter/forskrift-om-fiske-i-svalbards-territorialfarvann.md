@@ -52,7 +52,29 @@ Fartøy som kommer fra Norges økonomiske sone eller fra fiskevernsonen ved Sval
 
 Fartøyet kan ikke påbegynne fiske i territorialfarvannet før melding om fiskestart (COE) er bekreftet mottatt av Fiskeridirektoratet i henhold til [§ 10](forskrift/2010-08-30-1230/§10) i denne forskriften.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOE, melding om fiskestartMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)KanselleringREVAngivelse av at meldingen er en kanselleringKvantum om bordOBPFangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt.Posisjon breddeXTVPosisjon bredde ved sending av rapport N/SGGDD (WGS-84)Posisjon lengdeXGVPosisjon lengde ved sending av rapport E/WGGGDD (WGS-84)FangstområdeRAVICES område der fisket skal starteDatoPDPDato for fiskestart i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for fiskestart i UTC (TTMM)Posisjon breddeLAPAntatt posisjon bredde for fiskestart N/SGGDD (WGS-84)Posisjon lengdeLOPAntatt posisjon lengde for fiskestart E/WGGGDD (WGS-84)MålartDSPPlanlagt målart (FAO fiskeslagskode), angi kun én
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COE, melding om fiskestart |
+| Meldingsnummer | RN | P | Serienummer for meldingen inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Kansellering | RE | V | Angivelse av at meldingen er en kansellering |
+| Kvantum om bord | OB | P | Fangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt. |
+| Posisjon bredde | XT | V | Posisjon bredde ved sending av rapport N/SGGDD (WGS-84) |
+| Posisjon lengde | XG | V | Posisjon lengde ved sending av rapport E/WGGGDD (WGS-84) |
+| Fangstområde | RA | V | ICES område der fisket skal starte |
+| Dato | PD | P | Dato for fiskestart i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P | Antatt tidspunkt for fiskestart i UTC (TTMM) |
+| Posisjon bredde | LA | P | Antatt posisjon bredde for fiskestart N/SGGDD (WGS-84) |
+| Posisjon lengde | LO | P | Antatt posisjon lengde for fiskestart E/WGGGDD (WGS-84) |
+| Målart | DS | P | Planlagt målart (FAO fiskeslagskode), angi kun én |
 
 > Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 5).
 
@@ -60,9 +82,25 @@ Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Val
 
 Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som rapporterer per telefaks skal sende melding om fangst ([CAT)](traktat/1984-12-10-1) ved overgang til fiske i annet ICES-statistikkområde, og ellers ukentlig, ved utløpet av hver sjuende dag etter at melding om fiskestart (COE) er sendt.
 
-Melding om fangst skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Innhold*MeldingstypeTMPCAT, FangstmeldingMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringPosisjon lengdeLAPDPosisjon lengde på meldingstidspunktet
-PD: påkrevd dersom fartøyet ikke sender posisjonsrapporterPosisjon breddeLOPDPosisjon bredde på meldingstidspunktet
-PD: påkrevd dersom fartøyet ikke sender posisjonsrapporterFangstCAPFangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.FangstområdeRAPICES-område der fangsten er tattSoneZOPSone der fangsten er tatt (ISO-3)
+Melding om fangst skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Innhold* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | CAT, Fangstmelding |
+| Meldingsnummer | RN | P | Serienummer for meldingen inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Kansellering eller korrigering | RE | V | Angivelse av om meldingen er en kansellering eller en korrigering |
+| Posisjon lengde | LA | PD | Posisjon lengde på meldingstidspunktet<br>PD: påkrevd dersom fartøyet ikke sender posisjonsrapporter |
+| Posisjon bredde | LO | PD | Posisjon bredde på meldingstidspunktet<br>PD: påkrevd dersom fartøyet ikke sender posisjonsrapporter |
+| Fangst | CA | P | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. |
+| Fangstområde | RA | P | ICES-område der fangsten er tatt |
+| Sone | ZO | P | Sone der fangsten er tatt (ISO-3) |
 
 > Endret ved [forskrifter 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 7), [3 juni 2020 nr. 1126](forskrift/2020-06-03-1126).
 
@@ -74,10 +112,28 @@ Fartøy som har mottatt fangst, skal umiddelbart og senest en time etter at den 
 
 Det er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Norge, Russland, Færøyene, Grønland, Island og Storbritannia, samt fartøy fra NEAFC-samarbeidsland.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPTRA, melding om omlastingMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringPosisjon breddeLTPAntatt posisjon bredde for omlasting N/SGGDD (WGS-84)Posisjon lengdeLGPAntatt posisjon lengde for omlasting E/WGGGDD (WGS-84)Kvantum om bordOBPDFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
-PD: påkrevd dersom fartøyet avgir fangstKvantum som skal overføresKGPKvantum som skal overføres fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittOverført fraTFPDRadiokallesignal på fartøyet det overføres fra
-PD: påkrevd dersom fartøyet mottar fangstOverført tilTTPDRadiokallesignal på fartøyet det overføres til.
-PD: påkrevd dersom fartøyet avgir fangstDatoPDPDAntatt dato for omlasting i UTC (ÅÅÅÅMMDD). PD: påkrevd dersom fartøyet avgir fangstTidPTPDAntatt tidspunkt for omlasting i UTC (TTMM). PD: påkrevd dersom fartøyet avgir fangst
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | TRA, melding om omlasting |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Kansellering eller korrigering | RE | V | Angivelse av om meldingen er en kansellering eller en korrigering |
+| Posisjon bredde | LT | P | Antatt posisjon bredde for omlasting N/SGGDD (WGS-84) |
+| Posisjon lengde | LG | P | Antatt posisjon lengde for omlasting E/WGGGDD (WGS-84) |
+| Kvantum om bord | OB | PD | Fangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt<br>PD: påkrevd dersom fartøyet avgir fangst |
+| Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt |
+| Overført fra | TF | PD | Radiokallesignal på fartøyet det overføres fra<br>PD: påkrevd dersom fartøyet mottar fangst |
+| Overført til | TT | PD | Radiokallesignal på fartøyet det overføres til.<br>PD: påkrevd dersom fartøyet avgir fangst |
+| Dato | PD | PD | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD). PD: påkrevd dersom fartøyet avgir fangst |
+| Tid | PT | PD | Antatt tidspunkt for omlasting i UTC (TTMM). PD: påkrevd dersom fartøyet avgir fangst |
 
 > Endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 8), [18 jan 2021 nr. 148](forskrift/2021-01-18-148).
 
@@ -87,9 +143,26 @@ Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal uavhengig av om 
 
 Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1) som har mottatt fangst fra et annet fartøy, skal senest 24 timer før landing finner sted sende melding om havneanløp.
 
-Melding om havneanløp skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPPOR, melding om havneanløpMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og en endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellering eller korrigeringREVAngivelse av om meldingen er en kansellering eller en korrigeringAnløpshavnPOPInternasjonal kode for havnen som anløpes, ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)LandingsanleggLSPDNavnet på landingsanlegget (Tekst maks 60 karakterer)
-PD: påkrevd dersom fangst skal landesDatoPDPDato for havneanløp i UTC (ÅÅÅÅMMDD)TidPTPTidspunkt for havneanløp i UTC (TTMM)Kvantum som skal landesKGPDKvantum som skal landes fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
-PD: påkrevd dersom fangst skal landesKvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt
+Melding om havneanløp skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | POR, melding om havneanløp |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og en endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Kansellering eller korrigering | RE | V | Angivelse av om meldingen er en kansellering eller en korrigering |
+| Anløpshavn | PO | P | Internasjonal kode for havnen som anløpes, ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations) |
+| Landingsanlegg | LS | PD | Navnet på landingsanlegget (Tekst maks 60 karakterer)<br>PD: påkrevd dersom fangst skal landes |
+| Dato | PD | P | Dato for havneanløp i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P | Tidspunkt for havneanløp i UTC (TTMM) |
+| Kvantum som skal landes | KG | PD | Kvantum som skal landes fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt<br>PD: påkrevd dersom fangst skal landes |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt |
 
 > Endret ved [forskrift 29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 9).
 
@@ -97,7 +170,25 @@ PD: påkrevd dersom fangst skal landesKvantum om bordOBPFangst om bord fordelt p
 
 Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal sende melding om havneavgang senest 2 timer etter havneavgang, men før fisket starter.
 
-Melding om havneavgang skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPDEP, melding om havneavgangMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)AvgangshavnPOPInternasjonal kode for havnen som forlates ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)Dato avgang havnZDPDato for avgang havn (ÅÅÅÅMMDD)Tid avgang havnZTPTidspunkt for avgang havn i UTC (TTMM)Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittFiskeriaktivitetACPFIS = i fiske, STE = stimer (NEAFC koder)KanselleringREVAngivelse om at meldingen er en kansellering
+Melding om havneavgang skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | DEP, melding om havneavgang |
+| Meldingsnummer | RN | P | Serienummer for meldingen inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Avgangshavn | PO | P | Internasjonal kode for havnen som forlates ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations) |
+| Dato avgang havn | ZD | P | Dato for avgang havn (ÅÅÅÅMMDD) |
+| Tid avgang havn | ZT | P | Tidspunkt for avgang havn i UTC (TTMM) |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt |
+| Fiskeriaktivitet | AC | P | FIS = i fiske, STE = stimer (NEAFC koder) |
+| Kansellering | RE | V | Angivelse om at meldingen er en kansellering |
 
 > Endret ved [forskrift 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 10).
 
@@ -105,9 +196,24 @@ Melding om havneavgang skal inneholde følgende opplysninger:*Dataelement**Kode*
 
 Fartøy som nevnt i [§ 1](forskrift/2010-08-30-1230/§1), skal sende melding om avslutning av fiske når fisket i territorialfarvannet avsluttes og senest ved utgang av dette området. Fartøy som bistår fiskeflåten, skal sende melding om avslutning av fiske hver gang det går ut av territorialfarvannet.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOX, melding om avslutning av fiskeMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)KanselleringREVAngivelse om at meldingen er en kanselleringAnløpshavnPOVInternasjonal kode for havnen som skal anløpes. ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations)FangstCAPDFangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.
-PD: påkrevd dersom det rapporteres manueltSoneZOPDSone der fangsten er tatt (ISO alfa-3). Se vedlegg 2.
-PD: påkrevd dersom det rapporteres manueltKvantum om bordOBVFangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt.
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COX, melding om avslutning av fiske |
+| Meldingsnummer | RN | P | Serienummer for meldingen inneværende år |
+| Sekvensnummer | SQ | V | Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Skipper | MA | P | Skippers navn |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+| Kansellering | RE | V | Angivelse om at meldingen er en kansellering |
+| Anløpshavn | PO | V | Internasjonal kode for havnen som skal anløpes. ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations) |
+| Fangst | CA | PD | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.<br>PD: påkrevd dersom det rapporteres manuelt |
+| Sone | ZO | PD | Sone der fangsten er tatt (ISO alfa-3). Se vedlegg 2.<br>PD: påkrevd dersom det rapporteres manuelt |
+| Kvantum om bord | OB | V | Fangst ombord fordelt på fiskesort (FAO fiskesortkode) (SN) i kilo rund vekt (WT). Parvis angitt. |
 
 > Endret ved [forskrifter 17 jan 2012 nr. 68](forskrift/2012-01-17-68), [28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere § 11).
 
@@ -217,6 +323,25 @@ Denne forskrift trer i kraft 1. oktober 2010. Samtidig oppheves [forskrift 17. m
 
 ## Vedlegg. Forklaring til angivelse av soner (ZO)
 
-Følgende områder/soner med tilhørende koder benyttes for dataelementet ZO:*Sone**Kode*Norges økonomiske soneNORFiskevernsonen ved SvalbardXSVFiskerisonen ved Jan MayenXJMSkagerrakXSKEU-sonenXEURussisk soneRUSGrønlandsk soneGRLFærøysk soneFROIslandsk soneISLBritisk soneGBRNEAFC-områdetXNENAFO-områdetXNWCCAMLR-områdetXCASvalbards territorialfarvannXSI
+Følgende områder/soner med tilhørende koder benyttes for dataelementet ZO:
+
+|  |  |
+| --- | --- |
+| *Sone* | *Kode* |
+| Norges økonomiske sone | NOR |
+| Fiskevernsonen ved Svalbard | XSV |
+| Fiskerisonen ved Jan Mayen | XJM |
+| Skagerrak | XSK |
+| EU-sonen | XEU |
+| Russisk sone | RUS |
+| Grønlandsk sone | GRL |
+| Færøysk sone | FRO |
+| Islandsk sone | ISL |
+| Britisk sone | GBR |
+|  |  |
+| NEAFC-området | XNE |
+| NAFO-området | XNW |
+| CCAMLR-området | XCA |
+| Svalbards territorialfarvann | XSI |
 
 > Tilføyd ved [forskrift 17 jan 2012 nr. 68](forskrift/2012-01-17-68), endret ved [forskrifter 28 juni 2013 nr. 846](forskrift/2013-06-28-846), [29 april 2020 nr. 915](forskrift/2020-04-29-915) (i kraft 1 juni 2020, tidligere Vedlegg 2), [18 jan 2021 nr. 148](forskrift/2021-01-18-148).

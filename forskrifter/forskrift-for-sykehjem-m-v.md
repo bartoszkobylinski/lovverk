@@ -42,6 +42,8 @@ Boformen skal være innrettet på en eller flere av følgende oppgaver:medisinsk
 
 ### § 3-1
 
+(Opphevet ved [forskrift 11 nov 1997 nr. 1158](forskrift/1997-11-11-1158).)
+
 ### § 3-2
 
 Boformen skal ha tilknyttet:en administrativ lederen lege som skal ha ansvaret for den medisinske behandlingen offentlig godkjent sykepleier som skal ha ansvaret for sykepleiendet antall personell for øvrig som er nødvendig for å sikre beboer nødvendig omsorg og bistand.

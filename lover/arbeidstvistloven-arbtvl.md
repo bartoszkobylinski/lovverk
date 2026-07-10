@@ -544,4 +544,8 @@ For åpenbart grunnløs anke kan Høyesteretts ankeutvalg ilegge bøter og omkos
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Fra den tid loven trer i kraft, oppheves [lov 5. mai 1927 nr. 1](lov/1927-05-05-1) om arbeidstvister.
 
+1 Fra 1 mars 2012 iflg. [res. 27 jan 2012 nr. 71](forskrift/2012-01-27-71).
+
 ### § 65. Endringer i andre lover
+
+– – –

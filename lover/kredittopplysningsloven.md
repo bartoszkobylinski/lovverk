@@ -218,6 +218,8 @@ Kongen kan gi forskrift om dekning av Datatilsynets kostnader ved kontroll med e
 
 Loven trer i kraft fra den tid Kongen bestemmer1.
 
+1 Fra 1 juli 2022 iflg. [res. 20 mai 2022 nr. 872](forskrift/2022-05-20-872).
+
 ### § 31. Endringer i andre lover
 
 Fra den tiden loven her trer i kraft, gjøres følgende endringer i andre lover: – – –

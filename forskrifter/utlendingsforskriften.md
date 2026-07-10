@@ -797,6 +797,8 @@ Tillatelse etter første ledd gjelder en bestemt type arbeid, mens tillatelse et
 
 > Opphevet ved [forskrift 4 jan 2013 nr. 11](forskrift/2013-01-04-11) (i kraft 15 jan 2013).
 
+1 En utlending med oppholdstillatelse etter utlendingsforskriftens tidligere [§ 6-2](forskrift/2009-10-15-1286/§6-2) har etter søknad rett til fornyet oppholdstillatelse dersom vilkårene etter denne bestemmelsen fortsatt er oppfylt. Tillatelsen gis etter [§ 6-1](forskrift/2009-10-15-1286/§6-1) første ledd og danner grunnlag for permanent oppholdstillatelse. Jf. [forskrift 4 jan 2013 nr. 11](forskrift/2013-01-04-11) romertall II.
+
 ### § 6-3. Oppholdstillatelse til sesongarbeidstakere mv.
 
 Arbeidstakere som ikke fyller vilkårene for tillatelse til faglærte, jf. [§ 6-1](forskrift/2009-10-15-1286/§6-1), kan få oppholdstillatelse for inntil seks måneder for arbeid innen sesongbasert virksomhet eller i forbindelse med ordinær ferieavvikling. Utlendingsdirektoratet kan gi nærmere retningslinjer.
@@ -1839,7 +1841,17 @@ Permanent oppholdstillatelse kan gis til en utlending som ikke fyller kravet til
 
 ### § 11-5. Tilleggstid på grunn av idømt ubetinget fengselsstraff eller forvaring for forhold som nevnt i lovens § 66 første ledd bokstav c
 
-Når søkeren er idømt ubetinget fengselsstraff eller forvaring, beregnes tilleggstid før permanent oppholdstillatelse innvilges etter følgende tabell:Inntil 90 dager:2 årInntil 6 måneder:3 årInntil 1 år:4 årInntil 2 år:5 årInntil 3 år:6 årInntil 4 år:7 årosv.osv.
+Når søkeren er idømt ubetinget fengselsstraff eller forvaring, beregnes tilleggstid før permanent oppholdstillatelse innvilges etter følgende tabell:
+
+|  |  |
+| --- | --- |
+| Inntil 90 dager: | 2 år |
+| Inntil 6 måneder: | 3 år |
+| Inntil 1 år: | 4 år |
+| Inntil 2 år: | 5 år |
+| Inntil 3 år: | 6 år |
+| Inntil 4 år: | 7 år |
+| osv. | osv. |
 
 Det skal ikke beregnes tilleggstid når søkeren er dømt til ubetinget fengselsstraff i inntil 6 måneder og det er mer enn 3 år siden dommen falt. Når søkeren er dømt til ubetinget fengselsstraff i mer enn 6 måneder, eller til forvaring eller sikring, skal det ikke beregnes tilleggstid når det er mer enn 10 år siden søkeren ble løslatt. Skjæringstidspunktet for 3- og 10-årsfristen er tidspunktet for Utlendingsdirektoratets vedtak om tilleggstid.
 
@@ -1863,7 +1875,14 @@ Er søkeren dømt til samfunnsstraff, gjøres det et tillegg i botiden på ett �
 
 ### § 11-5b. Tilleggstid på grunn av ilagt bot for forhold som nevnt i lovens § 66 første ledd bokstav c
 
-Er søkeren bøtelagt, beregnes tilleggstiden etter følgende skala:Inntil kr 3000:6 månederInntil kr 5000:1 årOver kr 5000:1–2 årGjentatte bøter:Maksimum 2 år.
+Er søkeren bøtelagt, beregnes tilleggstiden etter følgende skala:
+
+|  |  |
+| --- | --- |
+| Inntil kr 3000: | 6 måneder |
+| Inntil kr 5000: | 1 år |
+| Over kr 5000: | 1–2 år |
+| Gjentatte bøter: | Maksimum 2 år. |
 
 Når det er mer enn 3 år siden utlendingen ved dom eller forelegg ble ilagt bot, skal det ikke beregnes tilleggstid. Skjæringstidspunktet for 3-årsfristen er tidspunktet for Utlendingsdirektoratets vedtak om tilleggstid.
 
@@ -3915,6 +3934,8 @@ Sjøfolk som er omfattet av følgende bilaterale skipsfartsavtaler, er unntatt f
 
 Innehavere av følgende diplomat-, tjeneste- og spesialpass er unntatt fra visumplikten pr. 14. august 2025, jf. [utlendingsforskriften § 1-8](forskrift/2009-10-15-1286/§1-8) første ledd:Albansk diplomatpass (gjelder kun akkreditert ambassadør til Norge og dennes ektefelle og barn)Armensk diplomatpass1Aserbajdsjansk diplomatpass1Boliviansk diplomat- og tjenestepassEmiratarabisk diplomat- og spesialpassFilippinsk diplomat-, tjeneste- og spesialpassIndisk diplomatpass1Indonesisk diplomat- og tjenestepass1Jordansk diplomatpass1Kasakhstansk diplomatpass1Kinesisk diplomatpass1Laotiske diplomatpass1Makedonsk diplomat- og tjenestepassMarokkansk diplomat-, tjeneste- og spesialpassMoldovsk diplomatpassPakistansk diplomat- og tjenestepassSør-afrikansk diplomat- og offisielt passThailandsk diplomat- og tjenestepassTunisisk diplomatpassTyrkisk diplomat-, tjeneste- og spesialpassUkrainsk diplomatpass.
 
+1 Fritar ikke innehavere av gyldig diplomatpass som er ansatt ved diplomatiske eller konsulære stasjoner, eller personer som er ansatt i mellomstatlige organisasjoner eller konvensjonsorganer som ligger på den annen avtaleparts territorium, eller deres familiemedlemmer, for krav om visum med henblikk på akkreditering fra mottakerstaten forut for ankomst.
+
 > Endret ved [forskrifter 23 mars 2010 nr. 441](forskrift/2010-03-23-441), [16 des 2011 nr. 1399](forskrift/2011-12-16-1399), [14 mars 2012 nr. 223](forskrift/2012-03-14-223) (i kraft 15 mars 2012), [4 feb 2015 nr. 84](forskrift/2015-02-04-84) (i kraft 7 feb 2015), [30 nov 2015 nr. 1366](forskrift/2015-11-30-1366) (i kraft 1 des 2015), [1 sep 2016 nr. 1647](forskrift/2016-09-01-1647), [12 juni 2017 nr. 842](forskrift/2017-06-12-842) (i kraft 26 juni 2017), [29 juni 2017 nr. 1062](forskrift/2017-06-29-1062), [14 aug 2017 nr. 1265](forskrift/2017-08-14-1265) (i kraft 24 aug 2017), [16 nov 2018 nr. 1729](forskrift/2018-11-16-1729) (i kraft 9 des 2018), [23 mai 2019 nr. 669](forskrift/2019-05-23-669) (i kraft 1 juni 2019), [1 okt 2022 nr. 1701](forskrift/2022-10-01-1701), [12 nov 2024 nr. 2899](forskrift/2024-11-12-2899), [14 aug 2025 nr. 1644](forskrift/2025-08-14-1644).
 
 ## Vedlegg 3. Liste over Schengenland
@@ -3933,11 +3954,25 @@ Følgende identitetsdokumenter er pr. 8. juli 2024 godkjent som reisedokumenter,
 
 Utlendinger fra følgende stater, spesielle administrative regioner og oversjøiske territorier er visumfrie ved innreise i Norge pr. 14. august 2025, jf. [utlendingsforskriften § 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav e og [§ 3-3](forskrift/2009-10-15-1286/§3-3) annet ledd:Albania4Amerikas Forente StaterAndorraAntigua og BarbudaArgentinaAustraliaBahamasBarbadosBelgiaBermuda1Bosnia-Hercegovina4BrasilBruneiBulgariaCanadaChileColombiaCosta RicaDanmarkDominicaEl SalvadorEstlandFinlandForente arabiske emiraterFrankrikeGeorgia4 7GrenadaGuatemalaHellasHondurasHongkong2IrlandIslandIsraelItaliaJapanKiribatiKosovo4KroatiaKyprosLatviaLiechtensteinLitauenLuxembourgMacao3MalaysiaMaltaMarshalløyeneMauritiusMexicoMikronesiaMoldova4MonacoMontenegro4NederlandNew ZealandNicaraguaNord-Makedonia4PalauPanamaParaguayPeruPolenPortugalRomaniaSt. Kitts og NevisSt. LuciaSt. Vincent og GrenadineneSalomonøyeneSamoaSan MarinoSerbia4SeychelleneSingaporeSlovakiaSloveniaSpaniaStorbritannia6SveitsSverigeSør-KoreaTaiwan5TongaTrinidad og TobagoTsjekkiaTuvaluTysklandUkraina4UngarnUruguayVatikanstatenVenezuelaØsterrikeØst-Timor
 
+1 Gjelder kun innehavere av BDTC (Bermuda)-pass.
+
+2 Gjelder innehavere av Hongkong SAR-pass og BN(0)-pass.
+
+3 Gjelder innehavere av Macao SAR-pass.
+
+4 Gjelder innehavere av biometriske pass.
+
+5 Gjelder kun for innehavere av pass utstedt av Taiwan som inneholder identitetskortnummer.
+
+6 Gjelder også følgende britiske borgere:
+
 - British nationals (Overseas)
 - British overseas territories citizens (BOTC)
 - British overseas citizens (BOC)
 - British protected persons (BPP)
 - British subjects (BS).
+
+7 Avtalen om visumfrihet er midlertidig suspendert for georgiske statsborgere med diplomatiske, tjeneste- og offisielle pass.
 
 > Endret ved [forskrifter 14 des 2009 nr. 1747](forskrift/2009-12-14-1747) (i kraft 1 jan 2010), [23 mars 2010 nr. 441](forskrift/2010-03-23-441), [9 nov 2010 nr. 1448](forskrift/2010-11-09-1448) (i kraft 15 des 2010 jf. [forskrift 25 nov 2010 nr. 1474](forskrift/2010-11-25-1474)), [12 jan 2011 nr. 21](forskrift/2011-01-12-21), [31 mars 2011 nr. 341](forskrift/2011-03-31-341), [20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [3 april 2014 nr. 521](forskrift/2014-04-03-521) (i kraft 28 april 2014), [6 juni 2014 nr. 707](forskrift/2014-06-06-707) (i kraft 9 juni 2014), [6 mai 2015 nr. 456](forskrift/2015-05-06-456), [2 juni 2015 nr. 603](forskrift/2015-06-02-603) (i kraft 26 mai 2015), [2 juni 2015 nr. 604](forskrift/2015-06-02-604) (i kraft 28 mai 2015), [24 nov 2015 nr. 1355](forskrift/2015-11-24-1355) (i kraft 21 nov 2015), [2 des 2015 nr. 1379](forskrift/2015-12-02-1379) (i kraft 3 des 2015), [7 des 2015 nr. 1413](forskrift/2015-12-07-1413) (i kraft 8 des 2015), [7 mars 2016 nr. 233](forskrift/2016-03-07-233) (i kraft 15 mars 2016), [23 juni 2016 nr. 780](forskrift/2016-06-23-780) (i kraft 24 juni 2016), [27 juni 2016 nr. 825](forskrift/2016-06-27-825) (i kraft 28 juni 2016), [1 juli 2016 nr. 870](forskrift/2016-07-01-870) (i kraft 2 juli 2016), [20 sep 2016 nr. 1076](forskrift/2016-09-20-1076), [5 okt 2016 nr. 1170](forskrift/2016-10-05-1170) (i kraft 8 okt 2016), [8 mars 2017 nr. 353](forskrift/2017-03-08-353) (i kraft 28 mars 2017), [22 mai 2017 nr. 703](forskrift/2017-05-22-703) (i kraft 11 juni 2017), [28 mars 2022 nr. 522](forskrift/2022-03-28-522) (i kraft 4 mai 2022), [4 jan 2023 nr. 103](forskrift/2023-01-04-103) (i kraft 4 feb 2023), [20 des 2023 nr. 2332](forskrift/2023-12-20-2332) (i kraft 1 jan 2024), [12 juni 2024 nr. 1516](forskrift/2024-06-12-1516), [14 jan 2025 nr. 32](forskrift/2025-01-14-32) (i kraft 3 feb 2025), [15 mai 2026 nr. 816](forskrift/2026-05-15-816) (i kraft 14 aug 2025).
 
@@ -3946,6 +3981,8 @@ Utlendinger fra følgende stater, spesielle administrative regioner og oversjøi
 Følgende stater er parter i Den europeiske overenskomst av 20. april 1959 nr. 4 om opphevelse av visumtvangen for flyktninger, pr. 23. mars 2023, jf. [§ 3-1](forskrift/2009-10-15-1286/§3-1) første ledd bokstav f:BelgiaDanmarkFinlandIrland1IslandItaliaLiechtensteinLuxembourgMaltaNederlandNorgePolenPortugalRomaniaSlovakiaSpaniaSveitsSverigeTsjekkiaTysklandUngarn.
 
 > Endret ved [forskrifter 20 des 2012 nr. 1392](forskrift/2012-12-20-1392), [19 mars 2013 nr. 322](forskrift/2013-03-19-322), [23 mars 2023 nr. 407](forskrift/2023-03-23-407) (i kraft straks med virkning fra 19. juli 2022).
+
+1 Overenskomsten om opphevelse av visumtvangen for flyktninger er midlertidig suspendert med unntak av bestemmelsene i artikkel 5.
 
 ## Vedlegg 7. Liste over stater som har tiltrådt overenskomst 23. november 1957 nr. 1 om flyktningsjømenn
 
@@ -3959,6 +3996,8 @@ Følgende stater er parter i ILO-konvensjon nr. 108 vedrørende sjømanns identi
 
 Følgende stater er parter i ILO-konvensjon nr. 185 vedrørende sjømanns identitetskort pr. 22. november 2024 jf. [utlendingsforskriften § 3-1 bokstav i](forskrift/2009-10-15-1286/§3-1/bokstav/i):AlbaniaAntigua og BarbudaAserbajdsjanBahamasBangladeshBosnia-HercegovinaBrasilCôte d'IvoireFilippineneFrankrikeGeorgiaIndiaIndonesiaIrakJordanKasakhstanKenyaKiribatiKroatiaLuxembourgMadagaskarMaldiveneMarshalløyeneMoldovaMontenegroMyanmarNigeriaPakistanRepublikken Kongo (Brazzaville)RusslandSpaniaSri LankaSør-KoreaTanzaniaTunisiaTurkmenistanUngarnVanuatuYemen
 
+1 Følgende britiske oversjøiske territorier (British Overseas Territories) har ratifisert ILO-konvensjon nr. 108:
+
 - Anguilla
 - Bermuda
 - De britiske Jomfruøyer
@@ -3966,6 +4005,8 @@ Følgende stater er parter i ILO-konvensjon nr. 185 vedrørende sjømanns identi
 - Gibraltar
 - Montserrat
 - Saint Helena, Ascension og Tristan da Cunha.
+
+Følgende britiske kronbesittelser (Crown Dependencies) har også ratifisert ILO-konvensjon nr. 108:
 
 - Guernsey
 - Isle of Man
@@ -4001,14 +4042,24 @@ Krav om lufthavnstransittvisum gjelder ikke for borgere av ovennevnte stater som
 
 Liste over hvem som har unntak fra krav om lufthavntransittvisum i medhold av [§ 3-11](forskrift/2009-10-15-1286/§3-11) annet ledd.
 
+*Del I:*
+
 Følgende oppholdstillatelser i EØS-stater, unntar fra kravet om lufthavntransittvisum i [vedlegg 12](forskrift/2009-10-15-1286/vedlegg12)
 
+*Irland:*
+
 - «Residence permit» sammen med et «re-entry visa».
+
+*Liechtenstein:*
 
 - Livret pour étranger B.
 - Livret pour étranger C.
 
+*Del II:*
+
 Følgende oppholdstillatelser med ubegrenset returadgang, unntar fra kravet om lufthavntransittvisum i vedlegg 12:
+
+*Andorra:*
 
 - Tarjeta provisional de estancia y de trabajo
 - Tarjeta de estancia y de trabajo
@@ -4021,21 +4072,33 @@ Følgende oppholdstillatelser med ubegrenset returadgang, unntar fra kravet om l
 - Autorización ordinaria de residencia y de trabajo
 - Autorización privilegiada de residencia y de trabajo.
 
+*Canada:*
+
 - Returning Resident Permit.
 
+*Japan:*
+
 - Re-entry permit to Japan.
+
+*Monaco:*
 
 - Carte de séjour de résident temporaire de Monaco
 - Carte de séjour de résident ordinaire de Monaco
 - Carte de séjour de résident privilégié
 - Carte de séjour de conjoint de ressortissant monégasque.
 
+*San Marino:*
+
 - Permesso di soggiorno ordinario (validità illimitata)
 - Permesso di soggiorno continuativo speciale (validità illimitata)
 - Carta d'identità de San Marino (validità illimitata).
 
+*Sveits:*
+
 - Livret pour étranger B
 - Livret pour étranger C.
+
+*USA:*
 
 - Form I-551 permanent resident card
 - Form I-551 Alien registration receipt card (2-10 år)
@@ -4051,39 +4114,51 @@ Følgende oppholdstillatelser med ubegrenset returadgang, unntar fra kravet om l
 
 Norske utenriksstasjoner med myndighet til å avgjøre søknader om besøksvisum (avgjørelsesmyndighet) og til å utstede slikt visum pr. 1. september 2025, jf. [§ 3-14](forskrift/2009-10-15-1286/§3-14) tredje ledd første punktum og [§ 3-15](forskrift/2009-10-15-1286/§3-15) annet ledd første punktum:
 
-- Afghanistan, Kabul*
-- Algerie, Alger*
+Ambassaden i:
+
+- Afghanistan, Kabul\*
+- Algerie, Alger\*
 - Cuba, Havanna
 - Danmark, København
 - De forente arabiske emirater, Abu Dhabi
-- Egypt, Kairo*
-- Filippinene, Manila* 1
+- Egypt, Kairo\*
+- Filippinene, Manila\* 1
 - Hellas, Athen
 - India, New Delhi
-- Iran, Teheran*
+- Iran, Teheran\*
 - Italia, Roma
 - Jordan, Amman
 - Kenya, Nairobi
 - Kina, Beijing
-- Libanon, Beirut*
+- Libanon, Beirut\*
 - Nederland, Haag
-- Russland, Moskva*
-- Pakistan, Islamabad*
+- Russland, Moskva\*
+- Pakistan, Islamabad\*
 - Spania, Madrid
 - Storbritannia, London
 - Sverige, Stockholm
-- Sudan, Karthoum* 2
+- Sudan, Karthoum\* 2
 - Sør-Afrika, Pretoria
-- Sør-Sudan, Juba*
+- Sør-Sudan, Juba\*
 - Thailand, Bangkok
 - Tyrkia, Ankara
-- Ukraina, Kiev*
+- Ukraina, Kiev\*
+
+Generalkonsulatet i:
 
 - Kina, Shanghai
-- Russland, Murmansk*
+- Russland, Murmansk\*
 - USA, New York
 
+Sysselmester:
+
 - Norge, Svalbard.
+
+\* Stasjonene har kun adgang til å utstede visum jf. [§ 3-15](forskrift/2009-10-15-1286/§3-15) annet ledd første punktum.
+
+1 Utstedelsesadgang gjelder bare myndighet til å utstede visum til delegasjoner og personer som er invitert av Norge.
+
+2 Stasjonen kun har utstedelsesadgang for innreisevisum i henhold til [utlendingsloven § 12](lov/2008-05-15-35/§12).
 
 > Endret ved [forskrifter 25 jan 2010 nr. 53](forskrift/2010-01-25-53), [25 nov 2011 nr. 1340](forskrift/2011-11-25-1340), [22 feb 2012 nr. 184](forskrift/2012-02-22-184), [7 nov 2012 nr. 1042](forskrift/2012-11-07-1042), [12 nov 2012 nr. 1049](forskrift/2012-11-12-1049), [15 mai 2013 nr. 500](forskrift/2013-05-15-500), [30 okt 2014 nr. 1374](forskrift/2014-10-30-1374) (i kraft 1 nov 2014), [19 juli 2017 nr. 1208](forskrift/2017-07-19-1208), [19 juli 2017 nr. 1315](forskrift/2017-07-19-1315), [7 feb 2019 nr. 358](forskrift/2019-02-07-358) (i kraft 1 april 2019), [28 sep 2020 nr. 1915](forskrift/2020-09-28-1915), [28 sep 2020 nr. 1947](forskrift/2020-09-28-1947), [16 feb 2021 nr. 460](forskrift/2021-02-16-460), [11 juni 2021 nr. 1926](forskrift/2021-06-11-1926) (i kraft 1 juli 2021), [1 juni 2023 nr. 787](forskrift/2023-06-01-787) (med virkning fra 1 april 2023), [15 juni 2023 nr. 1277](forskrift/2023-06-15-1277), [15 april 2024 nr. 639](forskrift/2024-04-15-639), [15 april 2024 nr. 648](forskrift/2024-04-15-648), [7 aug 2025 nr. 1599](forskrift/2025-08-07-1599) (i kraft 1 sep 2025).
 
@@ -4091,7 +4166,78 @@ Norske utenriksstasjoner med myndighet til å avgjøre søknader om besøksvisum
 
 Andre Schengenlands utenriksstasjoner med myndighet til å avgjøre søknader om visum (avgjørelsesmyndighet) og til å utstede slikt visum pr. 3. oktober 2025, jf. [§ 3-14](forskrift/2009-10-15-1286/§3-14) tredje ledd annet punktum og [§ 3-15](forskrift/2009-10-15-1286/§3-15) annet ledd annet punktum.
 
-Norge blir representert av:*Belgia i:*JamaicaKingston2Kongo DRKinshasa2Kongo DRLubumbashi2*Danmark i:*BangladeshDhaka2Burkina FasoOuagadougou2IrlandDublin2IsraelTel Aviv2MaliBamako2MarokkoRabat2 inkluderer MauritaniaMexicoMexico by2SingaporeSingapore2SyriaDamaskus2 (visumseksjonen er for tiden stengt)*Finland i:*KinaHongkong2NamibiaWindhoek2PeruLima2TunisiaTunis2*Frankrike i:*ArmeniaJerevan2GeorgiaTbilisi2HaitiPort-au-Prince2KambodsjaPhnom Penh2MauritiusPort Louis2SeychelleneVictoria2*Italia i:*UsbekistanTasjkent2*Litauen i:*KasakhstanAlmaty2KasakhstanAstana2RusslandKaliningrad2*Nederland i:*ArubaOranjestad2CuracaoWillemstad2Den dominikanske republikkSanto Domingo2New ZealandWellington2OmanMuscat2SurinamParamaribo2Trinidad og TobagoPort of Spain2ZimbabweHarare2*Portugal i:*Guinea BissauBissau2Kapp VerdePraia2São Tomé og PrincipeSão Tomé2Øst-TimorDili2AngolaLuanda2MosambikMaputo2*Sveits i:*MadagaskarAntananarivo2*Sverige i:*BoliviaLa Paz4ChileSantiago2ColombiaBogotá2CubaHavana2EquadorQuito1GuatemalaGuatemala by, inkludert personer bosatt i Belize, Costa Rica, El Salvador, Honduras, Nicaragua og Panama2Nord-KoreaPyongyang2Nord-MakedoniaSkopje2SudanKhartoum2Sør-KoreaSeoul2ZambiaLusaka2*Spania i:*VenezuelaCaracas2*Tyskland i:*BahrainManama2KirgisistanBisjkek2KuwaitKuwait2KyprosNicosia2LibyaTripoli2 (visumseksjonen er for tiden stengt)TadsjikistanDusjanbe2TurkmenistanAsjkhabad2
+Norge blir representert av:
+
+|  |  |  |
+| --- | --- | --- |
+| *Belgia i:* | Jamaica | Kingston2 |
+|  | Kongo DR | Kinshasa2 |
+|  | Kongo DR | Lubumbashi2 |
+| *Danmark i:* | Bangladesh | Dhaka2 |
+|  | Burkina Faso | Ouagadougou2 |
+|  | Irland | Dublin2 |
+|  | Israel | Tel Aviv2 |
+|  | Mali | Bamako2 |
+|  | Marokko | Rabat2 inkluderer Mauritania |
+|  | Mexico | Mexico by2 |
+|  | Singapore | Singapore2 |
+|  | Syria | Damaskus2 (visumseksjonen er for tiden stengt) |
+| *Finland i:* | Kina | Hongkong2 |
+|  | Namibia | Windhoek2 |
+|  | Peru | Lima2 |
+|  | Tunisia | Tunis2 |
+| *Frankrike i:* | Armenia | Jerevan2 |
+|  | Georgia | Tbilisi2 |
+|  | Haiti | Port-au-Prince2 |
+|  | Kambodsja | Phnom Penh2 |
+|  | Mauritius | Port Louis2 |
+|  | Seychellene | Victoria2 |
+| *Italia i:* | Usbekistan | Tasjkent2 |
+| *Litauen i:* | Kasakhstan | Almaty2 |
+|  | Kasakhstan | Astana2 |
+|  | Russland | Kaliningrad2 |
+| *Nederland i:* | Aruba | Oranjestad2 |
+|  | Curacao | Willemstad2 |
+|  | Den dominikanske republikk | Santo Domingo2 |
+|  | New Zealand | Wellington2 |
+|  | Oman | Muscat2 |
+|  | Surinam | Paramaribo2 |
+|  | Trinidad og Tobago | Port of Spain2 |
+|  | Zimbabwe | Harare2 |
+| *Portugal i:* | Guinea Bissau | Bissau2 |
+|  | Kapp Verde | Praia2 |
+|  | São Tomé og Principe | São Tomé2 |
+|  | Øst-Timor | Dili2 |
+|  | Angola | Luanda2 |
+|  | Mosambik | Maputo2 |
+| *Sveits i:* | Madagaskar | Antananarivo2 |
+| *Sverige i:* | Bolivia | La Paz4 |
+|  | Chile | Santiago2 |
+|  | Colombia | Bogotá2 |
+|  | Cuba | Havana2 |
+|  | Equador | Quito1 |
+|  | Guatemala | Guatemala by, inkludert personer bosatt i Belize, Costa Rica, El Salvador, Honduras, Nicaragua og Panama2 |
+|  | Nord-Korea | Pyongyang2 |
+|  | Nord-Makedonia | Skopje2 |
+|  | Sudan | Khartoum2 |
+|  | Sør-Korea | Seoul2 |
+|  | Zambia | Lusaka2 |
+| *Spania i:* | Venezuela | Caracas2 |
+| *Tyskland i:* | Bahrain | Manama2 |
+|  | Kirgisistan | Bisjkek2 |
+|  | Kuwait | Kuwait2 |
+|  | Kypros | Nicosia2 |
+|  | Libya | Tripoli2 (visumseksjonen er for tiden stengt) |
+|  | Tadsjikistan | Dusjanbe2 |
+|  | Turkmenistan | Asjkhabad2 |
+
+1 Visumsøknader til Norge fra borgere av Ecuador blir behandlet ved den svenske ambassaden i Bogotá, Colombia. Gjelder også avslagsmyndighet.
+
+2 Også avslagsmyndighet.
+
+3 – – –
+
+4 Visumsøknader til Norge fra borgere av Bolivia blir behandlet ved den svenske ambassaden i Bogotá, Colombia. Gjelder også avslagsmyndighet.
 
 > Endret ved [forskrifter 1 juni 2010 nr. 735](forskrift/2010-06-01-735), [7 okt 2010 nr. 1328](forskrift/2010-10-07-1328), [10 aug 2011 nr. 816](forskrift/2011-08-10-816), [10 okt 2011 nr. 1198](forskrift/2011-10-10-1198), [22 juni 2012 nr. 637](forskrift/2012-06-22-637) (i kraft 1 juli 2012), [20 nov 2012 nr. 1085](forskrift/2012-11-20-1085), [15 mai 2013 nr. 501](forskrift/2013-05-15-501), [8 okt 2013 nr. 1205](forskrift/2013-10-08-1205) (i kraft 15 okt 2013), [19 nov 2013 nr. 1329](forskrift/2013-11-19-1329) (i kraft 11 nov 2013), [4 juli 2014 nr. 950](forskrift/2014-07-04-950) (i kraft 14 juli 2014), [14 juli 2014 nr. 976](forskrift/2014-07-14-976), [23 okt 2014 nr. 1372](forskrift/2014-10-23-1372) (i kraft 1 nov 2014), [17 des 2014 nr. 1771](forskrift/2014-12-17-1771) (i kraft 1 jan 2015), [17 des 2014 nr. 1909](forskrift/2014-12-17-1909) (i kraft 1 feb 2015), [10 feb 2015 nr. 179](forskrift/2015-02-10-179), [10 mars 2015 nr. 225](forskrift/2015-03-10-225) (i kraft 1 april 2015), [7 april 2015 nr. 364](forskrift/2015-04-07-364) (i kraft 15 april 2015), [12 feb 2015 nr. 223](forskrift/2015-02-12-223) (i kraft 20 april 2015), [7 april 2015 nr. 380](forskrift/2015-04-07-380) (i kraft 20 april 2015), [19 juni 2015 nr. 715](forskrift/2015-06-19-715) (i kraft 22 juni 2015), [13 mai 2015 nr. 704](forskrift/2015-05-13-704) (i kraft 30 juni 2015), [27 juli 2015 nr. 917](forskrift/2015-07-27-917) (i kraft 31 juli 2015), [14 okt 2015 nr. 1197](forskrift/2015-10-14-1197) (i kraft 1 okt 2015), [30 nov 2015 nr. 1405](forskrift/2015-11-30-1405) (i kraft 1 des 2015), [23 des 2015 nr. 1862](forskrift/2015-12-23-1862) (i kraft 1 jan 2016), [7 jan 2016 nr. 18](forskrift/2016-01-07-18) (i kraft 16 jan 2016), [29 feb 2016 nr. 189](forskrift/2016-02-29-189) (i kraft 1 mars 2016), [10 mars 2016 nr. 224](forskrift/2016-03-10-224), [15 april 2016 nr. 385](forskrift/2016-04-15-385), [28 feb 2017 nr. 240](forskrift/2017-02-28-240) (i kraft 1 mars 2017), [19 juli 2017 nr. 1206](forskrift/2017-07-19-1206) (med virkning fra 1 april 2016), [12 juli 2017 nr. 1190](forskrift/2017-07-12-1190) som endret ved [forskrift 19 juli 2017 nr. 1207](forskrift/2017-07-19-1207) (i kraft 1 aug 2017), [27 juli 2017 nr. 1219](forskrift/2017-07-27-1219) (i kraft 1 sep 2017), [20 des 2017 nr. 2310](forskrift/2017-12-20-2310) (se endringsforskriften for ulike virkningstidspunkter), [23 mai 2019 nr. 668](forskrift/2019-05-23-668) (i kraft 1 juni 2019), [17 juni 2019 nr. 738](forskrift/2019-06-17-738) (i kraft 1 juli 2019), [7 jan 2020 nr. 4](forskrift/2020-01-07-4) (se endringsforskriften for virkningstidspunkter), [23 jan 2020 nr. 68](forskrift/2020-01-23-68), [16 feb 2021 nr. 461](forskrift/2021-02-16-461) (med virkning fra 1 jan 2021), [3 des 2021 nr. 3373](forskrift/2021-12-03-3373) (med virkning fra 1 des 2021), [1 nov 2022 nr. 1899](forskrift/2022-11-01-1899), [13 nov 2023 nr. 1828](forskrift/2023-11-13-1828) (se endringsforskriften for ulike virkningstidspunkter), [1 mars 2024 nr. 363](forskrift/2024-03-01-363) (i kraft 4 mars 2024), [24 jan 2025 nr. 65](forskrift/2025-01-24-65) (i kraft 31 jan 2025), [3 okt 2025 nr. 1990](forskrift/2025-10-03-1990) (med virkning fra 28 okt 2024).
 
@@ -4115,6 +4261,9 @@ Følgende norske utenriksstasjoner kan pr. 15. juni 2023 innvilge søknader om o
 
 ## Vedlegg 19. Avtale mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon
 
+*AVTALE
+mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon*
+
 Kongeriket Norges regjering og Den Russiske Føderasjons regjering (heretter kalt «partene»),
 
 Som viser til Avtale mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om lettelser i utstedelsen av visa til norske og russiske statsborgere, undertegnet den 8. juni 2007,
@@ -4127,6 +4276,8 @@ Som søker å forenkle ordningen for gjensidige reiser,
 
 Er blitt enige om følgende:
 
+*Artikkel 1*
+
 Uttrykk som er brukt i denne avtalen:
 
 Med «grenseområde» forstås de territoriale områdene i Kongeriket Norge og Den Russiske Føderasjon som spesifisert i vedlegg til denne avtalen;
@@ -4137,105 +4288,160 @@ Med «gyldig reisedokument» forstås et dokument anerkjent av partene som bekre
 
 Med «grenseboerbevis» forstås et særskilt dokument som utstedes til grenseboere i staten til en av partene, som gir dem rett til gjentatte innreiser, utreiser og opphold utelukkende i grenseområdet til den andre partens stat, jf. denne avtalens artikkel 6.
 
-1. Denne avtalen regulerer den lokale grensetrafikkordningen for grenseboere.
+*Artikkel 2*
 
-2. På forhold som ikke reguleres av bestemmelsene i denne avtalen, slik som anerkjennelse av reisedokumenter, iverksettelse av utvisningstiltak, godstransport over riksgrensen og arbeidsforhold, får lovgivningen i Kongeriket Norge og krav i Den europeiske unions rettsakter på den ene siden, og lovgivningen i Den Russiske Føderasjon på den andre siden, anvendelse.
+1\. Denne avtalen regulerer den lokale grensetrafikkordningen for grenseboere.
 
-1. Grenseboere i den ene partens stat skal reise inn og ut av grenseområdet til den andre partens stat bare over det internasjonale grensepasseringsstedet Storskog-Borisoglebsk på den norsk-russiske riksgrensen.
+2\. På forhold som ikke reguleres av bestemmelsene i denne avtalen, slik som anerkjennelse av reisedokumenter, iverksettelse av utvisningstiltak, godstransport over riksgrensen og arbeidsforhold, får lovgivningen i Kongeriket Norge og krav i Den europeiske unions rettsakter på den ene siden, og lovgivningen i Den Russiske Føderasjon på den andre siden, anvendelse.
 
-2. Grenseboere kan krysse grensen ved grensepasseringsstedet som er vist til i denne artikkelens nr. 1 under den lokale grensetrafikkordningen på betingelse av at de:innehar gyldig grenseboerbevis og gyldig reisedokument;ikke er personer som anses å være en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+*Artikkel 3*
 
-3. Grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag, skal nektes innreise i Kongeriket Norge.
+1\. Grenseboere i den ene partens stat skal reise inn og ut av grenseområdet til den andre partens stat bare over det internasjonale grensepasseringsstedet Storskog-Borisoglebsk på den norsk-russiske riksgrensen.
 
-4. Grenseboere i Kongeriket Norge som ikke har tillatelse til å reise inn på Den Russiske Føderasjons territorium i henhold til Den Russiske Føderasjons lovgivning, særlig av hensyn til nasjonal sikkerhet, offentlig orden eller folkehelsen, skal nektes innreise til Den Russiske Føderasjon.
+2\. Grenseboere kan krysse grensen ved grensepasseringsstedet som er vist til i denne artikkelens nr. 1 under den lokale grensetrafikkordningen på betingelse av at de:innehar gyldig grenseboerbevis og gyldig reisedokument;ikke er personer som anses å være en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
 
-5. Ingen stempler eller andre merker skal festes til det gyldige reisedokumentet eller grenseboerbeviset.
+3\. Grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag, skal nektes innreise i Kongeriket Norge.
 
-1. Grenseboerbeviset skal gi grenseboere i en parts stat rett til å krysse den norsk-russiske riksgrensen og oppholde seg utelukkende i grenseområdet i staten til den andre part, hver gang i en tidsperiode som ikke overstiger 15 etterfølgende dager. Den samlede oppholdstiden i grenseområdet i staten til den andre part innenfor grenseboerbevisets gyldighetsperiode skal ikke begrenses.
+4\. Grenseboere i Kongeriket Norge som ikke har tillatelse til å reise inn på Den Russiske Føderasjons territorium i henhold til Den Russiske Føderasjons lovgivning, særlig av hensyn til nasjonal sikkerhet, offentlig orden eller folkehelsen, skal nektes innreise til Den Russiske Føderasjon.
 
-2. Dersom grenseboere i staten til en av partene på grunn av inntruffet force majeure ikke er i stand til å forlate den andre partens stats grenseområde innen den tidsperioden som er angitt i denne artikkelens nummer 1, kan de bli værende på denne statens territorium i den tidsperioden som er nødvendig for å reise tilbake til staten de er bosatt i. I slikt tilfelle må de underrette den kompetente lokale myndigheten om dette og dokumentere at det foreligger slik force majeure. Forlengelsen av oppholdet skal være gebyrfritt. Samme ordning skal gjelde i situasjoner hvor grenseboere i staten til den ene part på grunn av inntruffet force majeure må reise ut av grenseområdet i staten til den andre part.
+5\. Ingen stempler eller andre merker skal festes til det gyldige reisedokumentet eller grenseboerbeviset.
 
-3. Grenseboerbeviset gir ikke innehaverne rett til å arbeide eller drive næringsvirksomhet når en egen tillatelse er påkrevet gjennom lovverket til staten de oppholder seg i.
+*Artikkel 4*
 
-1. Grenseboere i Den Russiske Føderasjon skal fremme søknad om utstedelse av grenseboerbevis til Kongeriket Norges Generalkonsulat i Murmansk.
+1\. Grenseboerbeviset skal gi grenseboere i en parts stat rett til å krysse den norsk-russiske riksgrensen og oppholde seg utelukkende i grenseområdet i staten til den andre part, hver gang i en tidsperiode som ikke overstiger 15 etterfølgende dager. Den samlede oppholdstiden i grenseområdet i staten til den andre part innenfor grenseboerbevisets gyldighetsperiode skal ikke begrenses.
 
-2. Grenseboere i Kongeriket Norge skal fremme søknad om utstedelse av grenseboerbevis til Den Russiske Føderasjons Generalkonsulat i Kirkenes.
+2\. Dersom grenseboere i staten til en av partene på grunn av inntruffet force majeure ikke er i stand til å forlate den andre partens stats grenseområde innen den tidsperioden som er angitt i denne artikkelens nummer 1, kan de bli værende på denne statens territorium i den tidsperioden som er nødvendig for å reise tilbake til staten de er bosatt i. I slikt tilfelle må de underrette den kompetente lokale myndigheten om dette og dokumentere at det foreligger slik force majeure. Forlengelsen av oppholdet skal være gebyrfritt. Samme ordning skal gjelde i situasjoner hvor grenseboere i staten til den ene part på grunn av inntruffet force majeure må reise ut av grenseområdet i staten til den andre part.
 
-1. Grenseboerbevis som utstedes av Kongeriket Norge, skal være i samsvar med de relevante bestemmelsene i Den europeiske unions rettsakter som fastsetter et felles format for oppholdstillatelser for tredjelandsborgere, og skal minst inneholde følgende informasjon:et fotografi av innehaveren;innehaverens fornavn, etternavn, fødselsdato, nasjonalitet og adresse;utstedende myndighet, utstedelsesdato og gyldighetsperiode;det gyldige reisedokumentets nummer;biometriske kjennetegn.
+3\. Grenseboerbeviset gir ikke innehaverne rett til å arbeide eller drive næringsvirksomhet når en egen tillatelse er påkrevet gjennom lovverket til staten de oppholder seg i.
 
-2. Grenseboerbevis som utstedes av Den Russiske Føderasjon, skal være i samsvar med Den Russiske Føderasjons lovgivning om fremgangsmåte for visumutstedelse, under hensyn til bestemmelsene i denne avtalen.
+*Artikkel 5*
 
-1. Grenseboerbevis skal utstedes til grenseboere i staten til den ene part for å reise til grenseområdet til staten til den andre part på betingelse av at de:er i besittelse av et gyldig reisedokument;fremlegger dokumentasjon som bekrefter at de har vært lovlig bosatt i grenseområdet i minst de 3 foregående årene;underbygger at det finnes legitime grunner til regelmessig kryssing av den norsk-russiske landegrensen under den lokale grensetrafikkordningen, for eksempel av sosiale, kulturelle eller økonomiske grunner, eller på grunn av familieforhold;ikke er personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+1\. Grenseboere i Den Russiske Føderasjon skal fremme søknad om utstedelse av grenseboerbevis til Kongeriket Norges Generalkonsulat i Murmansk.
 
-2. Grenseboerbevis skal ikke utstedes til grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller til personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag.
+2\. Grenseboere i Kongeriket Norge skal fremme søknad om utstedelse av grenseboerbevis til Den Russiske Føderasjons Generalkonsulat i Kirkenes.
 
-3. Grenseboerbevis skal ikke utstedes til grenseboere i Kongeriket Norge som ikke har tillatelse til å reise inn på Den Russiske Føderasjons territorium i henhold til Den Russiske Føderasjons lovgivning, særlig av hensyn til nasjonal sikkerhet, offentlig orden eller folkehelsen.
+*Artikkel 6*
 
-4. Vilkåret i denne artikkelens nr. 1 b) om botid gjelder ikke grenseboeres ektefeller, mindreårige eller voksne, arbeidsuføre barn som forsørges av grenseboerne og som er bosatt sammen med dem.
+1\. Grenseboerbevis som utstedes av Kongeriket Norge, skal være i samsvar med de relevante bestemmelsene i Den europeiske unions rettsakter som fastsetter et felles format for oppholdstillatelser for tredjelandsborgere, og skal minst inneholde følgende informasjon:et fotografi av innehaveren;innehaverens fornavn, etternavn, fødselsdato, nasjonalitet og adresse;utstedende myndighet, utstedelsesdato og gyldighetsperiode;det gyldige reisedokumentets nummer;biometriske kjennetegn.
 
-1. Utenriksstasjonene som det vises til i denne avtalens artikkel 5, skal innen 10 kalenderdager etter å ha mottatt søknad og dokumenter som nevnt i denne avtalens artikkel 7 nr. 1 vurdere og fatte vedtak etter søknaden om utstedelse av grenseboerbevis.
+2\. Grenseboerbevis som utstedes av Den Russiske Føderasjon, skal være i samsvar med Den Russiske Føderasjons lovgivning om fremgangsmåte for visumutstedelse, under hensyn til bestemmelsene i denne avtalen.
 
-2. Denne perioden kan forlenges til maksimalt 60 kalenderdager i enkelte tilfeller, særlig når det er nødvendig med videre behandling av den innleverte søknaden.
+*Artikkel 7*
+
+1\. Grenseboerbevis skal utstedes til grenseboere i staten til den ene part for å reise til grenseområdet til staten til den andre part på betingelse av at de:er i besittelse av et gyldig reisedokument;fremlegger dokumentasjon som bekrefter at de har vært lovlig bosatt i grenseområdet i minst de 3 foregående årene;underbygger at det finnes legitime grunner til regelmessig kryssing av den norsk-russiske landegrensen under den lokale grensetrafikkordningen, for eksempel av sosiale, kulturelle eller økonomiske grunner, eller på grunn av familieforhold;ikke er personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+
+2\. Grenseboerbevis skal ikke utstedes til grenseboere i Den Russiske Føderasjon som er registrert i Schengen Information System (SIS) i den hensikt å nekte dem innreise, eller til personer som anses som en trussel mot nasjonal sikkerhet, offentlig orden, folkehelsen eller Kongeriket Norges internasjonale forbindelser, og særlig de som er registrert i Kongeriket Norges nasjonale databaser i den hensikt å nekte dem innreise på samme grunnlag.
+
+3\. Grenseboerbevis skal ikke utstedes til grenseboere i Kongeriket Norge som ikke har tillatelse til å reise inn på Den Russiske Føderasjons territorium i henhold til Den Russiske Føderasjons lovgivning, særlig av hensyn til nasjonal sikkerhet, offentlig orden eller folkehelsen.
+
+4\. Vilkåret i denne artikkelens nr. 1 b) om botid gjelder ikke grenseboeres ektefeller, mindreårige eller voksne, arbeidsuføre barn som forsørges av grenseboerne og som er bosatt sammen med dem.
+
+*Artikkel 8*
+
+1\. Utenriksstasjonene som det vises til i denne avtalens artikkel 5, skal innen 10 kalenderdager etter å ha mottatt søknad og dokumenter som nevnt i denne avtalens artikkel 7 nr. 1 vurdere og fatte vedtak etter søknaden om utstedelse av grenseboerbevis.
+
+2\. Denne perioden kan forlenges til maksimalt 60 kalenderdager i enkelte tilfeller, særlig når det er nødvendig med videre behandling av den innleverte søknaden.
+
+*Artikkel 9*
 
 Grenseboerbevis utstedes for en periode på 3 år, likevel ikke lenger enn gyldighetsperioden til reisedokumentet som grenseboerbeviset er utstedt på grunnlag av.
 
-1. Gebyret for behandlingen av søknad om grenseboerbevis skal beløpe seg til 20 euro.
+*Artikkel 10*
 
-2. Grenseboerbevis skal utstedes gebyrfritt til:mindreårige;fulltidsstudenter;personer som er 60 år og eldre.
+1\. Gebyret for behandlingen av søknad om grenseboerbevis skal beløpe seg til 20 euro.
 
-3. Dersom det ikke er mulig å fortsette å benytte seg av grenseboerbeviset eller det gyldige reisedokumentet som den lokale grenseboerbeviset er utstedt på grunnlag av, skal nytt grenseboerbevis utstedes gebyrfritt for den resterende gyldighetsperioden til det tidligere grenseboerbeviset.
+2\. Grenseboerbevis skal utstedes gebyrfritt til:mindreårige;fulltidsstudenter;personer som er 60 år og eldre.
 
-1. Dersom grenseboere i staten til en av partene har mistet eller ødelagt sitt gyldige reisedokument eller grenseboerbevis under oppholdet i grenseområdet i staten til den andre part, skal de umiddelbart underrette den kompetente lokale myndigheten i grenseområdet i staten de oppholder seg i. Sistnevnte skal gebyrfritt utstede et dokument som bekrefter slik underretning til disse personene.
+3\. Dersom det ikke er mulig å fortsette å benytte seg av grenseboerbeviset eller det gyldige reisedokumentet som den lokale grenseboerbeviset er utstedt på grunnlag av, skal nytt grenseboerbevis utstedes gebyrfritt for den resterende gyldighetsperioden til det tidligere grenseboerbeviset.
 
-2. Hvis et gyldig reisedokument eller passérbrev er nødvendig for retur til staten de er bosatt i, skal grenseboere som nevnt i denne artikkelens nr. 1, ha rett til å besøke utenriksstasjonen til staten de er bosatt i, vist til i denne avtalens artikkel 5.
+*Artikkel 11*
 
-3. Grenseboere kan reise til staten hvor de er bosatt uten visum eller andre tillatelser, på grunnlag av dokumentet som er nevnt i denne artikkelens nr. 1 sammen med sine gyldige reisedokumenter eller passérbrev.
+1\. Dersom grenseboere i staten til en av partene har mistet eller ødelagt sitt gyldige reisedokument eller grenseboerbevis under oppholdet i grenseområdet i staten til den andre part, skal de umiddelbart underrette den kompetente lokale myndigheten i grenseområdet i staten de oppholder seg i. Sistnevnte skal gebyrfritt utstede et dokument som bekrefter slik underretning til disse personene.
 
-1. Grenseboere i staten til en av partene skal under innreise og opphold i grenseområdet i staten til den andre part overholde denne statens lovgivning.
+2\. Hvis et gyldig reisedokument eller passérbrev er nødvendig for retur til staten de er bosatt i, skal grenseboere som nevnt i denne artikkelens nr. 1, ha rett til å besøke utenriksstasjonen til staten de er bosatt i, vist til i denne avtalens artikkel 5.
 
-2. Dersom grenseboere i staten til en av partene bryter reglene som er nedfelt i denne avtalen, herunder reiser ut av grenseområdet til den andre partens stat, får tiltak nedfelt i lovgivningen i staten de oppholder seg i anvendelse.
+3\. Grenseboere kan reise til staten hvor de er bosatt uten visum eller andre tillatelser, på grunnlag av dokumentet som er nevnt i denne artikkelens nr. 1 sammen med sine gyldige reisedokumenter eller passérbrev.
 
-3. Partenes kompetente myndigheter skal uten opphold informere hverandre gjennom diplomatiske kanaler om bestemmelser i nasjonal lovgivning samt relevante endringer i nasjonal lovgivning for så vidt de angår tiltak som nevnt i denne artikkelens nr. 2.
+*Artikkel 12*
 
-1. Hver av partene har rett til å annullere eller inndra grenseboerbevis, eller redusere oppholdsperioden i sin stats grenseområde for den andre partens stats grenseboere som kan utgjøre en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+1\. Grenseboere i staten til en av partene skal under innreise og opphold i grenseområdet i staten til den andre part overholde denne statens lovgivning.
 
-2. Hver av partene har rett til å nekte å utstede grenseboerbevis, annullere eller inndra grenseboerbevis, eller redusere oppholdsperioden for grenseboere i staten til den andre part i tilfeller hvor det er fastslått at grenseboerne forsettlig har brutt bestemmelser nedfelt i denne avtalen.
+2\. Dersom grenseboere i staten til en av partene bryter reglene som er nedfelt i denne avtalen, herunder reiser ut av grenseområdet til den andre partens stat, får tiltak nedfelt i lovgivningen i staten de oppholder seg i anvendelse.
+
+3\. Partenes kompetente myndigheter skal uten opphold informere hverandre gjennom diplomatiske kanaler om bestemmelser i nasjonal lovgivning samt relevante endringer i nasjonal lovgivning for så vidt de angår tiltak som nevnt i denne artikkelens nr. 2.
+
+*Artikkel 13*
+
+1\. Hver av partene har rett til å annullere eller inndra grenseboerbevis, eller redusere oppholdsperioden i sin stats grenseområde for den andre partens stats grenseboere som kan utgjøre en trussel mot nasjonal sikkerhet, offentlig orden eller folkehelsen.
+
+2\. Hver av partene har rett til å nekte å utstede grenseboerbevis, annullere eller inndra grenseboerbevis, eller redusere oppholdsperioden for grenseboere i staten til den andre part i tilfeller hvor det er fastslått at grenseboerne forsettlig har brutt bestemmelser nedfelt i denne avtalen.
+
+*Artikkel 14*
 
 Partene skal utveksle informasjon om de kompetente lokale myndighetene som er nevnt i denne avtalens artikkel 4 og artikkel 11 via diplomatiske kanaler senest samme dag som denne avtalen trer i kraft. Grenseboere skal informeres om disse kompetente myndighetene ved utstedelsen av deres grenseboerbevis.
 
-1. Partenes staters kompetente myndigheter skal via diplomatiske kanaler utveksle specimen av grenseboerbevis, samt eksempler på dokumenter som er nevnt i denne avtalens artikkel 7 nr. 1 b), innen 30 dager etter at den siste skriftlige underretningen om at partene har fullført de interne prosedyrene som er nødvendige for at denne avtalen skal tre i kraft, er mottatt.
+*Artikkel 15*
 
-2. Ved endringer i dokumentene som er omhandlet i denne artikkelens nr. 1 skal partenes staters kompetente myndigheter via diplomatiske kanaler utveksle relevante specimen senest 30 dager før de trer i kraft.
+1\. Partenes staters kompetente myndigheter skal via diplomatiske kanaler utveksle specimen av grenseboerbevis, samt eksempler på dokumenter som er nevnt i denne avtalens artikkel 7 nr. 1 b), innen 30 dager etter at den siste skriftlige underretningen om at partene har fullført de interne prosedyrene som er nødvendige for at denne avtalen skal tre i kraft, er mottatt.
 
-1. Begge parter kan midlertidig oppheve anvendelsen av denne avtalen helt eller delvis for å ivareta nasjonal sikkerhet, og verne offentlig orden eller folkehelsen. Skriftlig underretning om den midlertidige opphevelsen sendes den andre parten via diplomatiske kanaler senest 48 timer før slik midlertidig opphevelse.
+2\. Ved endringer i dokumentene som er omhandlet i denne artikkelens nr. 1 skal partenes staters kompetente myndigheter via diplomatiske kanaler utveksle relevante specimen senest 30 dager før de trer i kraft.
 
-2. Den part som har besluttet å midlertidig oppheve anvendelsen av denne avtalen av grunner som angitt i denne artikkelens nr. 1 skal anvende samme prosedyre for å underrette den andre parten om at anvendelsen av denne avtalen gjenopptas.
+*Artikkel 16*
+
+1\. Begge parter kan midlertidig oppheve anvendelsen av denne avtalen helt eller delvis for å ivareta nasjonal sikkerhet, og verne offentlig orden eller folkehelsen. Skriftlig underretning om den midlertidige opphevelsen sendes den andre parten via diplomatiske kanaler senest 48 timer før slik midlertidig opphevelse.
+
+2\. Den part som har besluttet å midlertidig oppheve anvendelsen av denne avtalen av grunner som angitt i denne artikkelens nr. 1 skal anvende samme prosedyre for å underrette den andre parten om at anvendelsen av denne avtalen gjenopptas.
+
+*Artikkel 17*
 
 Spørsmål i forbindelse med gjennomføring og tolkning av denne avtalen skal løses av de kompetente myndighetene i partenes stater ved konsultasjoner og forhandlinger, som vil kunne føre til undertegning av protokoller.
 
+*Artikkel 18*
+
 Ved gjensidig enighet mellom partene kan denne avtalen endres.
 
-1. Denne avtalen inngås uten tidsbegrensning, og trer i kraft 60 dager etter datoen for mottakelse via diplomatiske kanaler av den siste skriftlige underretningen om at partene har fullført de interne prosedyrene som er nødvendige for at denne avtalen skal tre i kraft.
+*Artikkel 19*
 
-2. Hver av partene kan bringe denne avtalen til opphør ved å sende via diplomatiske kanaler relevant skriftlig underretning til den andre parten. Denne avtalen opphører 60 dager etter datoen for mottakelse av en slik underretning fra den andre parten.Utferdiget i ______________ den _________________________ 20_____ i to originale eksemplarer, hvert på norsk, russisk og engelsk, hvor alle tekstene har samme gyldighet. Hvis det oppstår uenighet om tolkningen, skal partene bruke den engelske teksten.
+1\. Denne avtalen inngås uten tidsbegrensning, og trer i kraft 60 dager etter datoen for mottakelse via diplomatiske kanaler av den siste skriftlige underretningen om at partene har fullført de interne prosedyrene som er nødvendige for at denne avtalen skal tre i kraft.
+
+2\. Hver av partene kan bringe denne avtalen til opphør ved å sende via diplomatiske kanaler relevant skriftlig underretning til den andre parten. Denne avtalen opphører 60 dager etter datoen for mottakelse av en slik underretning fra den andre parten.Utferdiget i ______________ den _________________________ 20_____ i to originale eksemplarer, hvert på norsk, russisk og engelsk, hvor alle tekstene har samme gyldighet. Hvis det oppstår uenighet om tolkningen, skal partene bruke den engelske teksten.
+
+|  |  |
+| --- | --- |
+| For Kongeriket Norges<br>regjering | For Den Russiske<br>Føderasjons regjering |
 
 > Vedlegg 19 opphevet 5 april 2010 ved [forskrift 12 mars 2010 nr. 388](forskrift/2010-03-12-388). Vedlegg 19 tilføyd ved [forskrift 11 mai 2012 nr. 418](forskrift/2012-05-11-418) (i kraft 29 mai 2012), endret ved [forskrift 16 feb 2017 nr. 190](forskrift/2017-02-16-190) (i kraft 4 mars 2017).
 
 ### Vedlegg til Avtalen mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Den Russiske Føderasjon og Kongeriket Norge
 
-1. Den Russiske Føderasjons grenseområde består av territoriene i Nikel og Petsjenga kommuner som ligger innenfor en sone på 30 km fra riksgrensen mellom Kongeriket Norge og Den Russiske Føderasjon, samt territoriene til Zapoljarnyj og Korzunovo kommuner.
+*Grenseområder i Kongeriket Norge og Den Russiske Føderasjon*
 
-2. Kongeriket Norges grenseområde består av territoriet i Sør-Varanger kommune som ligger innenfor en sone på 30 km fra riksgrensen mellom Kongeriket Norge og Den Russiske Føderasjon, samt territoriet i bygda Neiden, avgrenset til Neiden grunnkrets.
+1\. Den Russiske Føderasjons grenseområde består av territoriene i Nikel og Petsjenga kommuner som ligger innenfor en sone på 30 km fra riksgrensen mellom Kongeriket Norge og Den Russiske Føderasjon, samt territoriene til Zapoljarnyj og Korzunovo kommuner.
+
+2\. Kongeriket Norges grenseområde består av territoriet i Sør-Varanger kommune som ligger innenfor en sone på 30 km fra riksgrensen mellom Kongeriket Norge og Den Russiske Føderasjon, samt territoriet i bygda Neiden, avgrenset til Neiden grunnkrets.
+
+Bemerkning:
 
 Partene skal, før avtalen trer i kraft, informere hverandre gjennom diplomatiske kanaler om de spesifikke tiltakene som skal igangsettes for å markere grenseområdets utstrekning i deres stat.
+
+*PROTOKOLL
+om endring av vedlegget*
+
+til avtalen mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon av 2. november 2010.
+
+Kongeriket Norges regjering og Den Russiske Føderasjons regjering, heretter kalt «Partene»,
 
 er i samsvar med artikkel 18 i avtalen mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon av 2. november 2010
 
 blitt enige om følgende:
 
+*Artikkel 1*
+
 I vedlegget til avtalen mellom Kongeriket Norges regjering og Den Russiske Føderasjons regjering om forenkling av gjensidige reiser for grenseboere i Kongeriket Norge og Den Russiske Føderasjon av 2. november 2010 skal [punkt](forskrift/2009-10-15-1286) nr. 2 lyde:
 
 «Kongeriket Norges grenseområde består av territoriet i Sør-Varanger kommune som ligger innenfor or en sone på 30 km fra Riksgrensen mellom Kongeriket Norge og Den Russiske Føderasjon, samt territoriet i bygda Neiden, avgrenset til Neiden grunnkrets».
+
+*Artikkel 2*
 
 Denne protokoll inngås uten tidsbegrensning, og trer i kratt 60 (seksti) dager etter datoen for mottakelse via diplomatiske kanaler av den siste skriftlige underretningen om at Partene har fullført de interne prosedyrene som er nødvendige for at protokollen skal tre i kraft.
 
@@ -4245,8 +4451,24 @@ Utferdiget i Moskva den 20. januar 2016 i to originale eksemplarer, hvert på no
 
 ## Forordninger
 
-Uoffisiell versjon.
+For å lese norsk versjon av forordning [(EF) nr. 810/2009](eu/32009r0810*) se her: [(pdf)](static/SF/32009r0810tra.pdf)
+
+For å lese engelsk versjon av forordning [(EF) nr. 810/2009](eu/32009r0810*) se her: [(pdf)](static/SF/32009r0810e.pdf)
+
+For å lese norsk versjon av forordning [(EU) nr. 154/2012](eu/32012r0154) se her: [(pdf)](static/SF/32012r0154u.pdf)
 
 Uoffisiell versjon.
+
+For å lese engelsk versjon av forordning [(EU) nr. 154/2012](eu/32012r0154) se her: [(pdf)](static/SF/32012r0154e.pdf)
+
+For å lese norsk versjon av forordning [(EU) nr. 610/2013](eu/32013r0610*) se her: [(pdf)](static/SF/32013r0610u-jd.pdf)
+
+Uoffisiell versjon.
+
+For å lese engelsk versjon av forordning [(EU) nr. 610/2013](eu/32013r0610*) se her: [(pdf)](static/SF/32013r0610e.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2016/399](eu/32016r0399) se her: [(pdf)](static/SF/32016r0399e.pdf)
+
+For å lese dansk versjon av forordning [(EU) 2016/399](eu/32016r0399) se her: [(pdf)](static/SF/32016r0399d.pdf)
 
 > Tilføyd ved [forskrift 27 mars 2014 nr. 366](forskrift/2014-03-27-366) (i kraft 7 april 2014), endret 28 mai 2014 og 17 juni 2016 uten kunngjøring i Norsk Lovtidend.

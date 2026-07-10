@@ -42,9 +42,15 @@ Matdepartementenes forskriftskompetanse etter § 3, § 21 annet, tredje og fjerd
 
 ## 3. Delegering av forskriftskompetanse
 
+*Helse- og omsorgsdepartementets forskriftskompetanse under følgende bestemmelser:*
+
 [Lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) [§ 5](lov/2003-12-19-124/§5), [§ 6](lov/2003-12-19-124/§6) fjerde og femte ledd, [§ 7](lov/2003-12-19-124/§7) annet, tredje og fjerde ledd, [§ 8](lov/2003-12-19-124/§8) annet ledd, [§ 9](lov/2003-12-19-124/§9), [§ 10](lov/2003-12-19-124/§10) annet ledd, [§ 11](lov/2003-12-19-124/§11), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13) sjette ledd, [§ 14](lov/2003-12-19-124/§14) tredje ledd, [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16) annet ledd, [§ 29](lov/2003-12-19-124/§29) annet ledd, [§ 33](lov/2003-12-19-124/§33) og
 
+*Landbruks- og matdepartementets forskriftskompetanse under følgende bestemmelser:*
+
 [Lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) [§ 5](lov/2003-12-19-124/§5), [§ 6](lov/2003-12-19-124/§6) fjerde og femte ledd, [§ 7](lov/2003-12-19-124/§7) annet og tredje ledd, [§ 8](lov/2003-12-19-124/§8) annet ledd, [§ 9](lov/2003-12-19-124/§9), [§ 10](lov/2003-12-19-124/§10) annet ledd, [§ 11](lov/2003-12-19-124/§11), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13) sjette ledd, [§ 14](lov/2003-12-19-124/§14) tredje ledd, [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16) annet ledd, [§ 17](lov/2003-12-19-124/§17) annet ledd, [§ 18](lov/2003-12-19-124/§18) tredje ledd, [§ 19](lov/2003-12-19-124/§19) tredje ledd, [§ 29](lov/2003-12-19-124/§29) annet ledd, [§ 30](lov/2003-12-19-124/§30), [§ 33](lov/2003-12-19-124/§33) og
+
+*Nærings- og fiskeridepartementets forskriftskompetanse under følgende bestemmelser:*
 
 [Lov 19. desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet mv. (matloven) [§ 5](lov/2003-12-19-124/§5), [§ 6](lov/2003-12-19-124/§6) fjerde og femte ledd, [§ 7](lov/2003-12-19-124/§7) annet og tredje ledd, [§ 8](lov/2003-12-19-124/§8) annet ledd, [§ 9](lov/2003-12-19-124/§9), [§ 10](lov/2003-12-19-124/§10) annet ledd, [§ 11](lov/2003-12-19-124/§11), [§ 12](lov/2003-12-19-124/§12), [§ 13](lov/2003-12-19-124/§13) sjette ledd, [§ 14](lov/2003-12-19-124/§14) tredje ledd, [§ 15](lov/2003-12-19-124/§15), [§ 16](lov/2003-12-19-124/§16) annet ledd, [§ 17](lov/2003-12-19-124/§17) annet ledd, [§ 19](lov/2003-12-19-124/§19) tredje ledd, [§ 29](lov/2003-12-19-124/§29) annet ledd, [§ 30](lov/2003-12-19-124/§30), [§ 33](lov/2003-12-19-124/§33),delegeres til det sentrale Mattilsynet på følgende måte:
 

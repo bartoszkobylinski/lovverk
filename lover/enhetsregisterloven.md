@@ -318,6 +318,8 @@ En enhets nettsider, brev og forretningsdokumenter skal, uavhengig av hvilket me
 
 (5) Departementet kan gi forskrift med nærmere regler om sletting etter denne paragrafen.
 
+1 Første ledd tredje og fjerde punktum trer i kraft fra den tid Kongen bestemmer, se [§ 13-1](lov/2025-06-20-105/§13-1).
+
 ## Kapittel 9. Utlevering og utveksling av opplysninger fra Enhetsregisteret
 
 ### § 9-1. Utlevering av opplysninger fra Enhetsregisteret
@@ -395,6 +397,9 @@ Dersom Enhetsregisteret gir feil opplysning ved utskrift eller på annen dokumen
 (1) Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 3. juni 1994 nr. 15 om Enhetsregisteret](lov/1994-06-03-15).
+
+1 Fra 1. januar 2026, med unntak av [enhetsregisterloven § 6-5 andre ledd](lov/2025-06-20-105/§6-5/ledd/2) og [§ 8-3 første ledd tredje](lov/2025-06-20-105/§8-3/ledd/1/setning/3) og [fjerde punktum](lov/2025-06-20-105/§8-3/ledd/1/setning/4), iflg. [res. 20. juni 2025 nr. 1094](forskrift/2025-06-20-1094).
+Fra 1. juli 2026 for [enhetsregisterloven § 6-5 andre ledd](lov/2025-06-20-105/§6-5/ledd/2), iflg. [res. 29 mai 2026 nr. 919](forskrift/2026-05-29-919).
 
 ### § 13-2. Overgangsregler
 

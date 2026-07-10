@@ -148,6 +148,8 @@ Dersom komitéen finner at dyptgripende endringer vedrørende teori, problemstil
 
 Bedømmelseskomiteens innstilling oversendes fakultetet som forelegger denne for kandidaten. Kandidaten gis en frist på ti (10) arbeidsdager til å fremme skriftlige merknader til innstillingen. Dersom kandidatens eventuelle merknader kan ha betydning for spørsmålet om avhandlingen kan godkjennes, bør merknadene forelegges bedømmelseskomitéen før fakultetet gjør vedtak i saken. Hvis kandidaten ikke ønsker å fremme merknader, skal fakultetet snarest underrettes om dette.
 
+*Delt innstilling*
+
 Dersom komitéen avgir delt innstilling og fakultetet velger å legge flertallets uttalelser til grunn for sitt vedtak, fatter fakultetet vedtak i samsvar med flertallets innstilling.
 
 Dersom fakultetet selv finner at det foreligger begrunnet tvil om komiteens innstilling eller dersom komitéen avgir delt innstilling og fakultetet vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, skal fakultetet selv søke nærmere avklaring fra bedømmelseskomitéen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. De sakkyndige skal ikke være ansatt ved universitetet, og de skal ikke ha hatt noe med avhandlingen å gjøre.

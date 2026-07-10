@@ -193,6 +193,8 @@ Om det senere viser seg at den bestanddelen av merket som har blitt unntatt fra 
 
 Varemerker registreres for bestemte varer eller tjenester innenfor bestemte vare- eller tjenesteklasser. Inndelingen i vare- og tjenesteklasser fastsettes av Kongen.1
 
+1 Patentstyret iflg. res. 19 nov 1971.
+
 ### § 19. Prioritet
 
 Den som har innlevert en søknad om registrering av et varemerke i en fremmed stat tilsluttet Pariskonvensjonen 20. mars 1883 om beskyttelse av industriell eiendomsrett eller WTO-avtalen 15. april 1994 om opprettelse av Verdens handelsorganisasjon, og som innen seks måneder etter dette søker om registrering av varemerket her i riket, kan kreve at den nye søknaden skal anses som innlevert samtidig som den første søknaden.
@@ -829,4 +831,8 @@ Søknader om registrering av varemerke og fellesmerker som er innlevert før lov
 
 Registrering av varemerke eller fellesmerke som er skjedd før loven trer i kraft, kan bare oppheves etter innsigelse eller settes til side som ugyldig i den utstrekning det ville vært grunnlag for det etter [lov 3. mars 1961 nr. 4](lov/1961-03-03-4) om varemerker og [lov 3. mars 1961 nr. 5](lov/1961-03-03-5) om fellesmerker. Reglene om sletting i [§§ 36](lov/2010-03-26-8/§36), [37](lov/2010-03-26-8/§37), [42](lov/2010-03-26-8/§42) og [43](lov/2010-03-26-8/§43) gjelder likevel også for registreringer som har skjedd før loven trer i kraft. For øvrig gjelder loven også for registreringer som har skjedd før ikrafttredelsen.
 
+1 Fra 1 juli 2010 iflg. [res. 25 juni 2010 nr. 936](forskrift/2010-06-25-936).
+
 ### § 84. Endringer i andre lover
+
+– – –

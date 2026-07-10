@@ -102,15 +102,15 @@ Den ansvarlige myndigheten skal sikre at utveksling av opplysninger vedrørende 
 
 ### § 3-1. Kvalifikasjonsnivåer
 
-Ved vurdering av vilkår for godkjenning etter dette kapittelet skal yrkeskvalifikasjonene inndeles i følgende nivå:Nivå AKursbevis for kvalifikasjon utstedt av ansvarlig myndighet, på grunnlag av
-1. opplæring som ikke leder til en formell kvalifikasjon
-2. særskilt eksamen uten forutgående opplæring
-3. utøvelse av yrket i tre sammenhengende år på fulltid eller av tilsvarende varighet på deltid i løpet av de siste ti år
-4. dokumentasjon på antall år eller fullførte fag på grunnskole, eller kompetansebevis fra videregående opplæring dersom denne ikke er fullførtNivå BVitnemål for fullført videregående opplæring. Med dette menes:
-1. studieforberedende videregående opplæring
-2. yrkesfaglig videregående opplæring, fag- og svennebrevNivå CVitnemål for fullført annen utdanning ut over videregående opplæringsnivå enn nivå D og E, dette gjelder
-1. utdanning med en varighet på minst ett år
-2. yrkesopplæring med særlig struktur som går utover det som kreves i nivå BNivå DVitnemål for fullført høyere utdanning med en varighet på minst tre år og høyst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS).Niva EVitnemål for fullført høyere utdanning med en varighet på minst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS).
+Ved vurdering av vilkår for godkjenning etter dette kapittelet skal yrkeskvalifikasjonene inndeles i følgende nivå:
+
+|  |  |
+| --- | --- |
+| Nivå A | Kursbevis for kvalifikasjon utstedt av ansvarlig myndighet, på grunnlag av<br>1. opplæring som ikke leder til en formell kvalifikasjon<br>2. særskilt eksamen uten forutgående opplæring<br>3. utøvelse av yrket i tre sammenhengende år på fulltid eller av tilsvarende varighet på deltid i løpet av de siste ti år<br>4. dokumentasjon på antall år eller fullførte fag på grunnskole, eller kompetansebevis fra videregående opplæring dersom denne ikke er fullført |
+| Nivå B | Vitnemål for fullført videregående opplæring. Med dette menes:<br>1. studieforberedende videregående opplæring<br>2. yrkesfaglig videregående opplæring, fag- og svennebrev |
+| Nivå C | Vitnemål for fullført annen utdanning ut over videregående opplæringsnivå enn nivå D og E, dette gjelder<br>1. utdanning med en varighet på minst ett år<br>2. yrkesopplæring med særlig struktur som går utover det som kreves i nivå B |
+| Nivå D | Vitnemål for fullført høyere utdanning med en varighet på minst tre år og høyst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS). |
+| Niva E | Vitnemål for fullført høyere utdanning med en varighet på minst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS). |
 
 > Endret ved forskrift [8 sep 2021 nr. 2753](forskrift/2021-09-08-2753) (i kraft 1 jan 2022).
 
@@ -534,6 +534,8 @@ Forskriften trer i kraft 1. januar 2018 med unntak av bestemmelsene i [kapittel 
 
 > Endret ved forskrift [28 nov 2023 nr. 1934](forskrift/2023-11-28-1934) (i kraft 1 des 2023, tidligere § 10-1).
 
+1 [Kapittel 6](forskrift/2017-12-22-2384/kap6) og [7](forskrift/2017-12-22-2384/kap7) i kraft 1 mars 2019 ved [vedtak 1 mars 2019 nr. 161](forskrift/2019-03-01-161).
+
 ### § 12-2. Gjennomføring av Kommisjonens gjennomføringsforordning 2015/983 og 2020/1190
 
 [EØS-avtalens vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1b Kommisjonens gjennomføringsforordning [(EU) 2015/983](eu/32015r0983) av 24. juni 2015 om prosedyren for utstedelse av europeisk profesjonskort og bruk av varslingsmekanismer i henhold til Europaparlamentets og Rådets direktiv [2005/36/EF](eu/32005l0036) gjelder som norsk forskrift med de generelle tilpasninger som følger av [EØS-avtalens protokoll 1](avtale/avt-1992-05-02-1-p1) og [EØS-avtalen](lov/1992-11-27-109/eøsl) for øvrig.
@@ -551,14 +553,141 @@ Næringshovedgrupper som omfattes av direktiv 64/427/EØF, endret ved direktiv 6
 (liberaliseringsdirektiv 64/429/EØF)
 NICE-nomenklatur (tilsvarer Nærings- hovedgruppene 23–40 ISIC)
 
+|  |  |  |
+| --- | --- | --- |
+| Nærings-<br>hovedgruppe | 23 | Tekstilindustri |
+|  | 232 | Foredling av tekstilråvarer på ullbearbeidingsmaskiner |
+|  | 233 | Foredling av tekstilråvarer på bomullsbearbeidingsmaskiner |
+|  | 234 | Foredling av tekstilråvarer på silkebearbeidingsmaskiner |
+|  | 235 | Foredling av tekstilråvarer på lin- og hampbearbeidingsmaskiner |
+|  | 236 | Annen tekstilfiberindustri (jute, harde fibrer osv.), repslageri |
+|  | 237 | Veving og strikking |
+|  | 238 | Etterbehandling av tekstiler |
+|  | 239 | Annen tekstilindustri |
+| Nærings-<br>hovedgruppe | 24 | Produksjon av sko, klær og sengetøy |
+|  | 241 | Serieproduksjon av sko (unntatt gummi- og tresko) |
+|  | 242 | Håndsøm og reparasjon av sko |
+|  | 243 | Produksjon av klær (unntatt pelsvarer) |
+|  | 244 | Produksjon av madrasser og sengetøy |
+|  | 245 | Pelsvareindustri |
+| Nærings-<br>hovedgruppe | 25 | Tre- og korkindustri, unntatt tremøbelindustri |
+|  | 251 | Sagbruk og høvleri |
+|  | 252 | Produksjon av halvfabrikata av tre |
+|  | 253 | Serieproduksjon av byggeelementer av tre og parkett |
+|  | 254 | Produksjon av treemballasje |
+|  | 255 | Produksjon av andre trevarer (unntatt møbler) |
+|  | 259 | Produksjon av strå-, kurv-, kork-, flette- og børstevarer |
+| Nærings-<br>hovedgruppe | 26 | 260 Tremøbelindustri |
+| Nærings-<br>hovedgruppe | 27 | Treforedlingsindustri |
+|  | 271 | Produksjon av tremasse, cellulose, papir og papp |
+|  | 272 | Foredling av papir og papp |
+| Nærings-<br>hovedgruppe | 28 | 280 Grafisk virksomhet og forlagsvirksomhet |
+| Nærings-<br>hovedgruppe | 29 | Produksjon av lær og lærvarer |
+|  | 291 | Produksjon av lær (garving og beredning) |
+|  | 292 | Produksjon av lærvarer |
+| ex nærings-<br>hovedgruppe | 30 | Produksjon av gummi, basisplast, kunstige og syntetiske fibrer og stivelsesprodukter |
+|  | 301 | Gummi- og asbestforedling |
+|  | 302 | Foredling av basisplast |
+|  | 303 | Produksjon av kunstige og syntetiske fibrer |
+| ex nærings-<br>hovedgruppe | 31 | Kjemisk industri |
+|  | 311 | Produksjon av kjemiske grunnstoffer og videreforedling av disse produkter |
+|  | 312 | Spesialisert produksjon av kjemiske produkter, hovedsakelig for anvendelse innenfor industri og landbruk (herunder produksjon av industrielt fett og oljer av vegetabilsk eller animalsk opprinnelse innbefattet i næringsgruppe 312 ISIC) |
+|  | 313 | Spesialisert produksjon av kjemiske produkter hovedsakelig for privat forbruk og for kontorbruk (bortsett fra framstilling av legemidler og farmasøytiske produkter (ex næringsgruppe 319 ISIC) |
+| Nærings-<br>hovedgruppe | 32 | 320 Petroleumsindustri |
+| Nærings-<br>hovedgruppe | 33 | Produksjon av mineralprodukter (unntatt metaller) |
+|  | 331 | Teglverk |
+|  | 332 | Produksjon av glass og glassvarer |
+|  | 333 | Produksjon av steintøy, porselen, fajanse og ildfaste produkter |
+|  | 334 | Produksjon av sement, foredling av kalkstein og gipsstein |
+|  | 335 | Produksjon av bygningsmaterialer og materialer til offentlige arbeider av betong, sement og gips |
+|  | 339 | Bearbeiding og foredling av naturstein og produksjon av andre ikke-metalliske mineralprodukter |
+| Nærings-<br>hovedgruppe | 34 | Jern- og metallindustri |
+|  | 341 | Jern- og stålproduserende industri (i henhold til EKSF-traktaten, herunder smelteovner) |
+|  | 342 | Stålrørsproduksjon |
+|  | 343 | Trekkerier og kaldvalseverk |
+|  | 344 | Produksjon og første foredling av ikke-jernholdige metaller |
+|  | 345 | Støperier |
+| Nærings-<br>hovedgruppe | 35 | Jern- og metallvareindustri (unntatt maskiner og transportmidler) |
+|  | 351 | Smi-, press- og hammerverk |
+|  | 352 | Videreforedling og overflatebehandling av stål |
+|  | 353 | Produksjon av stål- og lettmetallkonstruksjoner |
+|  | 354 | Bygging av kjeler og beholdere |
+|  | 355 | Produksjon av verktøy og artikler av metall (unntatt elektrisk materiell) |
+|  | 359 | Forskjellig hjelpevirksomhet for mekanisk industri |
+| Nærings-<br>hovedgruppe | 36 | Maskinindustri |
+|  | 361 | Produksjon av landbruksmaskiner og traktorer |
+|  | 362 | Produksjon av kontormaskiner |
+|  | 363 | Produksjon av metallbearbeidingsmaskiner, innretninger for maskiner og maskinverktøy |
+|  | 364 | Produksjon av tekstilmaskiner med tilbehør og symaskiner |
+|  | 365 | Produksjon av maskiner og apparater for nærings- og nytelsesmiddelindustrien, kjemisk industri og tilknyttet industri |
+|  | 366 | Produksjon av smelte- og valseverksinnretninger, bergverksmaskiner, støperimaskiner, bygningsmaskiner, løfte- og frakteinnretninger |
+|  | 367 | Produksjon av tannhjul, drivhjul, valselagre og andre drivkraftelementer |
+|  | 368 | Produksjon av maskiner for andre bestemte industribransjer |
+|  | 369 | Produksjon av andre maskiner og apparater |
+| Nærings-<br>hovedgruppe | 37 | Elektronisk industri |
+|  | 371 | Produksjon av isolerte elektrokabler og ledninger |
+|  | 372 | Produksjon av elektromotorer, generatorer og transformatorer og fordelings- og installasjonsutstyr |
+|  | 373 | Produksjon av industrielt elektrisk utstyr |
+|  | 374 | Produksjon av telekommunikasjonsutstyr, måle- og regneapparater og elektromedisinske apparater |
+|  | 375 | Produksjon av radio- og fjernsynsmottakere, elektroakustisk utstyr og elektronisk utstyr |
+|  | 376 | Produksjon av elektriske husholdningsapparater |
+|  | 377 | Produksjon av lamper og belysningsartikler |
+|  | 378 | Produksjon av batterier og akkumulatorer |
+|  | 379 | Reparasjon montering og teknisk installasjon av elektroniske produkter |
+| ex nærings-<br>hovedgruppe | 38 | Produksjon av transportmidler |
+|  | 383 | Produksjon av motorvogner og motorvogndeler |
+|  | 384 | Motorvogn- og sykkelreparasjonsverksteder |
+|  | 385 | Produksjon av motorsykler, sykler og deler til disse |
+|  | 389 | Produksjon av andre transportmidler |
+| Nærings-<br>hovedgruppe | 39 | Finmekanikk, optikk og annen foredlingsvirksomhet |
+|  | 391 | Produksjon av finmekaniske produkter, måle- og kontrollapparater |
+|  | 392 | Produksjon av medisinsk-mekaniske og ortopedisk-mekaniske produkter (unntatt ortopedisk skotøy) |
+|  | 393 | Produksjon av optisk og fotografisk utstyr |
+|  | 394 | Produksjon og reparasjon av ur |
+|  | 395 | Produksjon av smykke- og gullsmedvarer, bearbeiding av edelstener |
+|  | 396 | Produksjon og reparasjon av musikkinstrumenter |
+|  | 397 | Produksjon av leke- og sportsvarer |
+|  | 399 | Annen foredlingsvirksomhet |
+| Nærings-<br>hovedgruppe | 40 | Bygge- og anleggsvirksomhet |
+|  | 400 | Alminnelig bygge- og anleggsvirksomhet (ikke spesialisert), nedrivningsvirksomhet |
+|  | 401 | Oppføring av råbygg (for beboelseshus og annet) |
+|  | 402 | Anleggsvirksomhet, bygging av veier, broer, jernbaner osv. |
+|  | 403 | Installasjonsvirksomhet |
+|  | 404 | Innredningsvirksomhet |
+
 ### 2
 Direktiv 68/366/EØF
 (liberaliseringsdirektiv 68/365/EØF)
 NICE-nomenklatur
 
+|  |  |  |
+| --- | --- | --- |
+| Nærings-<br>hovedgruppe | 20A | 200 Produksjon av vegetabilske og animalske oljer og fett |
+|  | 20B | Produksjon av næringsmidler, unntatt drikkevarer |
+|  | 201 | Slakting og produksjon av kjøttvarer, herunder kjøtthermetikk |
+|  | 202 | Produksjon av meierivarer |
+|  | 203 | Konservering av frukt og grønnsaker |
+|  | 204 | Konservering av fisk og andre produkter fra havet |
+|  | 205 | Produksjon av kornvarer |
+|  | 206 | Produksjon av baker- og konditorvarer |
+|  | 207 | Sukkerindustri |
+|  | 208 | Produksjon av kakao, sjokolade og andre sukkervarer |
+|  | 209 | Produksjon av næringsmidler ellers |
+| Nærings-<br>hovedgruppe | 21 | Produksjon av drikkevarer |
+|  | 211 | Produksjon av etylalkohol ved gjæring, gjær og sprit |
+|  | 212 | Produksjon av vin og alkoholholdige drikkevarer uten malt |
+|  | 213 | Produksjon av øl, malt og maltdrikker |
+|  | 214 | Tapping av mineralvann og produksjon av alkoholfrie drikkevarer |
+|  | ex 30 | Foredling av gummi, basisplast, kunstige og syntetiske fibrer og stivelsesprodukter |
+|  | 304 | Produksjon av stivelsesprodukter |
+
 ### 3
 Direktiv 82/489/EØF
 ISIC-nomenklatur
+
+|  |  |
+| --- | --- |
+| ex 855 | frisørvirksomhet (unntatt fotterapeutvirksomhet og fagskoler for skjønnhetspleie) |
 
 ### Liste II
 Næringshovedgrupper som omfattes av direktiv 75/368/EØF, 75/369/EØF, og 82/470/EØF
@@ -566,6 +695,26 @@ Næringshovedgrupper som omfattes av direktiv 75/368/EØF, 75/369/EØF, og 82/47
 ### 1
 Direktiv 75/368/EØF (virksomhet vist til i artikkel 5 nr. 1))
 ISIC-nomenklatur
+
+|  |  |  |
+| --- | --- | --- |
+| ex 04 | Fiske |  |
+|  | 043 | Innlandsfiske |
+| ex 38 | Produksjon av transportmidler |  |
+|  | 381 | Skipsbygging og reparasjon av skip |
+|  | 382 | Produksjon av jernbanemateriell |
+|  | 386 | Produksjon av luftfartøy (herunder romfartsmateriell) |
+| ex 71 | Virksomhet knyttet til transport og annen virksomhet enn transport innenfor følgende grupper: |  |
+|  | ex 711 | Drift av sove- og spisevogner; vedlikehold av jernbanemateriell på reparasjonsverksteder; rengjøring av jernbanevogner |
+|  | ex 712 | Vedlikehold av materiell til persontransport i by- og forstadsområder samt mellom byer |
+|  | ex 713 | Vedlikehold av annet materiell til persontransport på landevei (f.eks. biler, rutebiler, drosjer) |
+|  | ex 714 | Drift og vedlikehold av anlegg i forbindelse med landeveistransport (f.eks. landeveier, tunneler og broer med bompenger, rutebilstasjoner, parkeringsplasser, vognstaller for buss og sporvogner) |
+|  | ex 716 | Virksomhet knyttet til transport på innlands vannvei (f.eks. drift og vedlikehold av vannvei, havner og andre anlegg for transport på innlands vannvei; bukserings- og losvirksomhet i havner, merking av farvann, lasting og lossing av fartøy og andre tilsvarende virksomheter som f.eks. berging av skip, tauing, drift av båthus) |
+| 73 | Kommunikasjon: posttjenester og telekommunikasjoner |  |
+| ex 85 | Personlige tjenesteytelser |  |
+|  | 854 | Vask, kjemisk rensing, farging |
+|  | ex 856 | Fotografatelier: portrettfotografering, kommersiell fotografering, unntatt pressefotografer |
+|  | ex 859 | Personlige tjenesteytelser ikke nevnt andre steder (kun vedlikehold og rengjøring av bygninger eller lokaler) |
 
 ### 2
 Direktiv 75/369/EØF (artikkel 6: der virksomheten anses for å være industri- eller håndverksvirksomhet)
@@ -600,7 +749,21 @@ Direktiv 68/364/EØF
 
 Ex næringsgruppe 612 ISIC: Detaljhandel
 
-Virksomheter som ikke omfattes:012Utleie av landbruksmaskiner640Omsetning av fast eiendom, utleie713Utleie av motorvogner, vogner og hester718Utleie av jernbanevogner og -godsvogner839Utleie av maskiner til handelsbedrifter841Utleie av kinoplasser og -filmer842Utleie av teaterplasser og teaterutstyr843Utleie av skip, båter, sykler og myntautomater853Utleie av møblerte rom854Utleie av hvitvask859Utleie av klær
+Virksomheter som ikke omfattes:
+
+|  |  |
+| --- | --- |
+| 012 | Utleie av landbruksmaskiner |
+| 640 | Omsetning av fast eiendom, utleie |
+| 713 | Utleie av motorvogner, vogner og hester |
+| 718 | Utleie av jernbanevogner og -godsvogner |
+| 839 | Utleie av maskiner til handelsbedrifter |
+| 841 | Utleie av kinoplasser og -filmer |
+| 842 | Utleie av teaterplasser og teaterutstyr |
+| 843 | Utleie av skip, båter, sykler og myntautomater |
+| 853 | Utleie av møblerte rom |
+| 854 | Utleie av hvitvask |
+| 859 | Utleie av klær |
 
 ### 3
 Direktiv 68/368/EØF
@@ -613,6 +776,22 @@ Ex Næringshovedgruppe 85 ISIC:Restauranter og skjenkesteder (næringsgruppe 852
 Direktiv 75/368/EØF (artikkel 7)
 All virksomhet oppført i vedlegget til direktiv 75/368/EØF, bortsett fra virksomhet som vist til i artikkel 5 nr. 1 i dette direktiv (liste II nr. 1 i dette vedlegg).
 ISIC-nomenklatur
+
+|  |  |  |
+| --- | --- | --- |
+| ex 62 | Banker og andre finansinstitusjoner |  |
+|  | ex 620 | Foretak som kjøper og lisensierer patentrettigheter |
+| ex 71 | Transport |  |
+|  | ex 713 | Persontransport på landevei, unntatt transport med motorkjøretøyer |
+|  | ex 719 | Transport i rørledninger av hydrokarboner og andre flytende kjemiske produkter |
+| ex 82 | Tjenesteytelser til allmennheten |  |
+|  | 827 | Biblioteker, museer, botaniske og zoologiske hager |
+| ex 84 | Fritidsaktiviteter |  |
+|  | 843 | Fritidsaktiviteter som ikke er oppført andre steder:<br>– Idrettsaktiviteter (idrettsplasser, arrangement av idrettsstevner osv.), unntatt virksomhet som idrettsinstruktør<br>– Spill (veddeløpsstaller, spillebaner, veddeløpsbaner osv.)<br>– Andre fritidstilbud (sirkus, fornøyelsesparker og annen underholdning osv.) |
+| ex 85 | Personlige tjenesteytelser |  |
+|  | ex 851 | Hushjelp |
+|  | ex 855 | Skjønnhetspleie og manikyrevirksomhet, unntatt pedikyrevirksomhet, fagskoler for skjønnhetspleie og frisører |
+|  | ex 859 | Personlige tjenesteytelser ikke nevnt andre steder, unntatt idrettsmassasje og paramedisinsk massasje utført av ikke-legeutdannede personer, og dessuten fjellførervirksomhet, gruppert som følger:<br>– Desinfeksjon og skadedyrbekjempelse<br>– Utleie av klær og oppbevaring<br>– Ekteskapsbyråer og liknende virksomhet<br>– Virksomhet som har karakter av sannsiger- og spådomsvirksomhet<br>– Tjenester innenfor hygiene og virksomhet knyttet til dette<br>– Begravelsesbyråer og vedlikehold av kirkegårder<br>– Reiseledere og turisttolker |
 
 ### 5
 Direktiv 75/369/EØF (artikkel 5)
@@ -651,6 +830,8 @@ Denne veiledning er ikke juridisk bindende og bygger på Kunnskapsdepartementets
 
 ### Kapittel 1. Innledende bestemmelser
 
+*Til [§ 1-1](forskrift/2017-12-22-2384/§1-1) – Forskriftens formål og virkeområde*
+
 I *første ledd* er det presisert at forskriften gir bestemmelser som utfyller og presiserer yrkeskvalifikasjonsloven.
 
 Yrkeskvalifikasjonsloven skal gjøre det enklere for yrkesutøvere som er statsborger av en EØS-stat eller Sveits å utøve det yrket de er kvalifisert for i hjemstaten (dvs. i en annen EØS-stat eller Sveits). Yrkesutøvelsen skal skje på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Retten gjelder det samme yrket, i yrkeskvalifikasjonsdirektivets artikkel 4 nr. 2 er det en omtale av hva som regnes som samme yrke.
@@ -668,6 +849,8 @@ I *andre ledd andre punktum* presiseres at reglene for felles opplæringsramme o
 Ved at det kun er de aktuelle [kapitlene som](forskrift/2017-12-22-2384) er unntatt vil de andre ordningene som innføres i endringsdirektivet gjelde for borgere fra Sveits, dette gjelder for eksempel ordningen med delvis adgang til et yrke, jf. [§ 2-6](forskrift/2017-12-22-2384/§2-6) og [§ 3-7](forskrift/2017-12-22-2384/§3-7).
 
 *Andre ledd tredje punktum* angir hvilke bestemmelser som skal gjelde for personer med yrkeskvalifikasjoner fra tredjeland, og hvilke som skal gjelde i modifisert form. Reglene gjelder for alle borgere med yrkeskvalifikasjoner fra et tredjeland, også norske borgere.
+
+*Til [§ 1-2](forskrift/2017-12-22-2384/§1-2) – Definisjoner*
 
 Bestemmelsen utfyller [yrkeskvalifikasjonslovens § 3](lov/2017-06-16-69/§3) om definisjoner, jf. yrkeskvalifikasjonsdirektivet artikkel 3. Definisjonene er gjentatt mer eller mindre ordrett for å sikre at direktivet gjennomføres korrekt i norsk rett. Forskriften inneholder definisjoner av begreper som blir benyttet i forskriften. De andre definisjonene er i loven.
 
@@ -711,6 +894,8 @@ Nedenfor følger en omtale av definisjonene som er i yrkeskvalifikasjonsloven.
 
 ### Kapittel 2. Midlertidig tjenesteytelse
 
+*Til [§ 2-1](forskrift/2017-12-22-2384/§2-1) – Krav til yrkesutøver ved midlertidig tjenesteytelse*
+
 Bestemmelsen utfyller prinsippet om midlertidig tjenesteytelse i [yrkeskvalifikasjonsloven § 4](lov/2017-06-16-69/§4) første ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 5.
 
 *Første ledd første punktum* slår gjengir lovens bestemmelse § 4 første ledd om at en yrkesutøver i en annen EØS-stat eller Sveits har rett til å utøve yrket midlertidig i Norge. Det er et krav om at yrkesutøveren må være etablert i den andre staten og at vedkommende har rett til å utøve det samme yrket i den staten for å komme inn under reglene om midlertidig tjenesteyting.
@@ -720,6 +905,8 @@ Bestemmelsen utfyller prinsippet om midlertidig tjenesteytelse i [yrkeskvalifika
 *Andre ledd* presiserer hva som menes med midlertidig tjenesteytelse. Ved vurdering av hva som er midlertidig yrkesutøvelse skal det legges vekt på ytelsens varighet, hyppighet, regelmessighet og kontinuitet, jf. yrkeskvalifikasjonsdirektivet artikkel 5 nr. 2 andre ledd. EU-domstolen har i en dom [C-55/94](eu/61994*0055*) § 39, bl.a. uttalt at en yrkesutøver kan innrette de fasiliteter som er nødvendig for å kunne utøve ytelsen i vertsstaten. Samtidig slo domstolen fast at dersom en yrkesutøver på en stabil og vedvarende måte utøver yrket i en annen medlemsstat, og har et forretningssted hvor vedkommende tilbyr sine tjenester vil det ikke omfattes av midlertidig yrkesutøvelse. Det skal være en individuell og skjønnsmessig vurdering fra sak til sak. I vurderingen vil det være avgjørende om yrkesutøveren kan anses for å være etablert eller ikke. Europakommisjonen har uttalt at det kan være ulike tidsgrenser for når yrkesutøvelse anses for midlertidig. Det kan være både et yrke som typisk er sesongbetont og et yrke tilknyttet en aktivitet som gjelder et byggeprosjekt over en lengre periode. EU-domstolen har lagt til grunn at et byggeprosjekt over en lengre periode kan være midlertidig tjenesteytelse dersom yrkesutøver ikke hadde til hensikt å etablere seg i staten, jf. sak [C-215/01](eu/62001*0215*). I denne saken hadde et portugisisk bygg- og anleggsforetak et oppdrag i Tyskland i tre år uten at foretaket ble ansett som etablert i Tyskland av EU-domstolen.
 
 *Tredje ledd* presiserer at yrkesutøveren er underlagt norske bestemmelser som gjelder for utøvelsen av yrket i Norge. I dette ligger at yrkesutøveren ikke nødvendigvis kan utøve yrket på samme måte som vedkommende utøvet yrket på i hjemstaten. Er de norske standardene for yrkesutførelsen videre eller strengere enn det som yrkesutøveren er vant med i hjemstaten, må vedkommende likevel følge de reglene som gjelder i Norge. Det betyr at yrkesutøveren må følge tekniske regler eller standarder samt relevante HMS-reguleringer og arbeidslivskunnskap som er gjeldende på den aktuelle arbeidsplassen i Norge.
+
+*Til [§ 2-2](forskrift/2017-12-22-2384/§2-2) – Krav til dokumentasjon ved forhåndsmelding*
 
 Bestemmelsen utfyller prinsippene om forhåndsmelding i [yrkeskvalifikasjonsloven § 5](lov/2017-06-16-69/§5), jf. yrkeskvalifikasjonsdirektivet artikkel 7 nr. 1 og 2 bokstav a til g. Yrkeskvalifikasjonsdirektivets artikkel 6 bokstav a gjennomføres ikke fordi det ikke er krav til medlemskap i yrkesorganisasjoner eller fagforeninger for å kunne utøve et yrke i Norge. Direktivets artikkel 6 bokstav b gjennomføres ikke fordi dette ikke omfattes av virkeområdet til loven, jf. § 2 andre ledd. Direktivets artikkel 7 nr. 2a bokstav a til d gjennomføres ikke siden Norge ikke har begrensninger for utøvelse av lovregulerte yrker i forhold til territorier i Norge.
 
@@ -747,6 +934,8 @@ Med undervisning av mindreårige menes yrkesutøvelse som vil omfatte kontakt me
 
 Etter *andre ledd* kan den ansvarlige myndigheten kreve at yrkesutøveren leverer en ny forhåndsmelding dersom det har skjedd vesentlige endringer i yrkesutøverens tidligere innleverte dokumentasjon. Med vesentlige endringer i yrkesutøverens situasjon kan f.eks. hvor yrkesutøveren har endret navn siden den første forhåndsmeldingen ble sendt, jf. bokstav a.
 
+*Til [§ 2-3](forskrift/2017-12-22-2384/§2-3) – Saksbehandlingsfrister for midlertidig tjenesteytelse som krever forhåndsgodkjenning*
+
 Bestemmelsen setter saksbehandlingsfrister for behandling av melding om midlertidig tjenesteyting, jf. [yrkeskvalifikasjonsloven § 7](lov/2017-06-16-69/§7) og yrkeskvalifikasjonsdirektivet artikkel 7 nr. 3 og 4. Det er en forutsetning at yrket kommer inn under reglene i [yrkeskvalifikasjonsloven § 6](lov/2017-06-16-69/§6) og at det derfor skal foretas en forhåndskontroll av yrkeskvalifikasjonene til yrkesutøver.
 
 *Første ledd* slår fast at den ansvarlige myndigheten innen en måned etter mottak av forhåndsmeldingen må informere yrkesutøveren om de vil tillate yrkesutøvelsen uten videre kontroll av yrkeskvalifikasjonene, eller om de vil foreta en kontroll. Resultatet av kontrollen kan være at yrkesutøveren må gjennomføre en egnethetsprøve som nevnt i tredje ledd, eller at de tillater yrkesutøveren å utøve yrket uten en egnethetsprøve. Etter [yrkeskvalifikasjonsloven § 6](lov/2017-06-16-69/§6) kan ansvarlig myndighet foreta kontroll av kvalifikasjoner dersom yrket har konsekvenser for offentlig helse eller sikkerhet. I følge [yrkeskvalifikasjonsloven § 7](lov/2017-06-16-69/§7) vil yrkesutøveren få rett til å utøve yrket dersom den ansvarlige myndigheten ikke følger de fristene som er gitt i forskriften. Det vil si at i de tilfellene den ansvarlige myndigheten ikke finner det nødvendig å foreta en kontroll kan de sende varsel om det, men dersom de ikke foretar seg noe vil yrkesutøveren få rett til å utøve yrket en måned etter at meldingen ble sendt.
@@ -763,6 +952,8 @@ Oppsummert har den ansvarlige myndigheten som hovedregel en måneds saksbehandli
 
 Det er svært viktig at den ansvarlige myndigheten overholder de fristene som er gitt i direktivet. Det vil også si at der yrkesutøver ikke svarer eller ikke gjennomfører en egnethetsprøve må den ansvarlige myndigheten treffe et vedtak om avslag.
 
+*Til [§ 2-4](forskrift/2017-12-22-2384/§2-4) – Yrkesutøvers bruk av yrkestittel*
+
 Bestemmelsen regulerer hvilken yrkestittel yrkesutøveren har rett til å benytte ved midlertidig tjenesteytelse hvor kvalifikasjonen ikke skal forhåndsgodkjennes og i tilfeller hvor den skal forhåndsgodkjennes, jf. yrkeskvalifikasjonsdirektivet artikkel 7 nr. 3.
 
 *Første ledd* presiserer hvilke språk som skal benyttes ved bruk av yrkestitler. Yrkesutøveren skal bruke tittelen på yrkeskvalifikasjonen som er gitt i etableringsstaten, dvs. at tittelen skal gjengis på etableringsstatens offisielle språk. Hvis yrkesutøverens kvalifikasjon er ervervet i for eksempel Spania er dette hjemstaten og i utgangspunktet etableringsstaten, og da skal yrkesutøver benytte den spanske tittelen på kvalifikasjonen når vedkommende arbeider i Norge. Dersom yrkesutøveren er etablert i et annet land en Spania, skal yrkesutøveren benytte den yrkestittelen vedkommende har i etableringsstaten.
@@ -771,15 +962,21 @@ Etter *andre ledd* skal yrkesutøveren benytte tittelen på kvalifikasjonsbevise
 
 *Tredje ledd* er et unntak fra kravet om at yrkesutøveren skal benytte etableringsstatens tittel. Etter bestemmelsen kan yrkesutøveren benytte den norske lovbeskyttede yrkestittel dersom kvalifikasjonene til yrkesutøveren har blitt forhåndsgodkjent etter [§ 2-3](forskrift/2017-12-22-2384/§2-3).
 
+*Til [§ 2-5](forskrift/2017-12-22-2384/§2-5) – Informasjon til tjenestebrukere*
+
 Bestemmelsen er gitt med hjemmel i [yrkeskvalifikasjonsloven § 4](lov/2017-06-16-69/§4) tredje ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 9 bokstav a til f, med unntak av bokstav e, gjennomføres ikke fordi dette gjelder skatt. EØS-avtalen har spesifikt unntatt regler om skatt og direktivets artikkel 9 bokstav e omfattes ikke av EØS-avtalen.
 
 I de tilfeller yrkesutøveren benytter etableringsstatens yrkestittel eller kvalifikasjon, kan den ansvarlige myndigheten kreve at yrkesutøveren fremlegger tilleggsopplysninger til tjenestemottakeren. Dette er en kan-regel og det er derfor ikke et ubetinget krav til yrkesutøveren, men opptil den ansvarlige myndighetens skjønn. Bestemmelsen lister fem alternative tilleggsopplysninger som den ansvarlige myndigheten kan kreve at yrkesutøveren fremlegger men den ansvarlige myndigheten kan bare kreve at yrkesutøveren fremlegger de tilleggsopplysningene som fremgår av denne bestemmelsen. Listen er uttømmende.
+
+*Til [§ 2-6](forskrift/2017-12-22-2384/§2-6) – Delvis adgang ved midlertidig tjenesteytelse*
 
 Bestemmelsen utfyller prinsippet om delvis adgang i [yrkeskvalifikasjonsloven § 4](lov/2017-06-16-69/§4) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4f nr. 4 og 5.
 
 Formålet med bestemmelsen er å legge til rette for at en yrkesutøvere kan utøve et yrke de er fullt ut kvalifisert for i hjemstaten uten å måtte ta hele utdanningen på nytt i vertstaten.
 
 Bestemmelsen slår fast at en yrkesutøver som ikke gis rett til å utøve yrket midlertidig, kan gis delvis adgang til yrket. Dette gjelder kun i de tilfeller det skal gjennomføres en forhåndskontroll og den viser at yrkesutøver ikke vil bli godkjent, da skal den ansvarlige myndigheten vurdere om yrkesutøveren kan gis delvis adgang til yrket. Vurderingen skjer i samsvar med bestemmelsene i [kapittel 2](forskrift/2017-12-22-2384/kap2) om midlertidig tjenesteytelse, og vil kun gjelde for yrker hvor yrkesutøvelsen har konsekvenser for offentlig helse og sikkerhet, jf. lovens § 6. Yrker som omfattes av offentlig sikkerhet er omtalt under merknad [§ 2-3](forskrift/2017-12-22-2384/§2-3). Noen av disse yrkene vil også kunne omfattes av bestemmelsen om delvis adgang. Ved vurdering av delvis adgang gjelder vilkårene i [§ 3-7](forskrift/2017-12-22-2384/§3-7). Se nærmere omtale til den bestemmelsen.
+
+*Til [§ 2-7](forskrift/2017-12-22-2384/§2-7) – Administrativt samarbeid*
 
 Bestemmelsen utfyller prinsippet om administrativt samarbeid i [yrkeskvalifikasjonsloven § 19](lov/2017-06-16-69/§19), jf. yrkeskvalifikasjonsdirektivet artikkel 8 nr. 1 og 2.
 
@@ -794,6 +991,8 @@ Etter *andre ledd* gis den ansvarlige myndigheten som ønsker å kontrollere yrk
 *Fjerde ledd* angir at tjenestemottakeren skal underrettes i de tilfeller tjenestemottakeren klager på tjenesteytelsen. Dette skal sikre at klager fra en tjenestemottaker over en tjenesteyter behandles korrekt og tjenestemottakeren skal underrettes om klagens resultat. I denne sammenheng betyr tjenestemottaker en som har betalt for en tjeneste, for eksempel en som har behov for elektriker eller en som har barna sine i en barnehage. Dersom en yrkesutøver utfører arbeidet på en slik måte at tjenestemottakeren ønsker å klage på vedkommende, skal den ansvarlige myndigheten behandle denne klagen. Når den ansvarlige myndigheten har behandlet klagen, skal tjenestemottakeren få kopi av avgjørelsen.
 
 ### Kapittel 3. Etablering – godkjenning etter generell ordning
+
+*Til [§ 3-1](forskrift/2017-12-22-2384/§3-1) – Kvalifikasjonsnivåer*
 
 Bestemmelsen utfyller reglene om kvalifikasjonsnivåer i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 11 bokstav a til e. Bestemmelsen presiserer innholdet i de ulike kvalifikasjonene og plasserer oppnådde kvalifikasjoner i forskjellige nivåer fra uformell opplæring til universitetsutdanning.
 
@@ -819,9 +1018,13 @@ For at en utdanning skal falle inn under *nivå C nr. 1*, må det være utdannin
 
 *Nivå D og E* gjelder høyere utdanning på minimum tre år (nivå D) eller minimum fire år (nivå E) som er fullført ved et akkreditert lærested, for eksempel en høyskole eller et universitet. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng, disse må samsvare med det europeiske ECTS-systemet (European Credit Transfer and Accumulation System). Slik utdanningen kan være bachelorgrad, mastergrad eller doktorgrad.
 
+*Til [§ 3-2](forskrift/2017-12-22-2384/§3-2) – Likebehandling av kvalifikasjonsbevis*
+
 Bestemmelsen utfyller reglene om kvalifikasjonsnivåer i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 12. Bestemmelsen gjelder likebehandling av kvalifikasjonsbevis og presiserer at kvalifikasjoner som er oppnådd i andre EØS-stater eller Sveits skal likestilles med kvalifikasjoner oppnådd i Norge, og at de nevnte kvalifikasjonene skal gi adgang til utøvelsen av et yrke.
 
 Denne bestemmelsen gjelder for kvalifikasjoner som ikke oppfyller kravene i [§ 3-1](forskrift/2017-12-22-2384/§3-1). Selv om kvalifikasjonene ikke oppfyller betingelsene er det likevel et krav om at den ansvarlige myndigheten likebehandler disse kvalifikasjonene. For at et kvalifikasjonsbevis etter denne bestemmelsen skal bli likestilt med kvalifikasjoner etter [§ 3-1](forskrift/2017-12-22-2384/§3-1) må begge vilkårene være oppfylt. Opplæringen kan være fullført på fulltid eller deltid, og innenfor eller utenfor formelle programmer.
+
+*Til [§ 3-3](forskrift/2017-12-22-2384/§3-3) – Vilkår for godkjenning*
 
 Bestemmelsen utfyller reglene om vilkår for godkjenning i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 13. Det er en forutsetning at yrkesutøveren har en rett til å utøve yrket i etableringsstaten, dette kommer frem av [yrkeskvalifikasjonslovens § 8](lov/2017-06-16-69/§8) andre ledd.
 
@@ -838,6 +1041,8 @@ I *femte ledd* er det et unntak fra at yrkesutøveren har rett til å utøve et 
 I *sjette ledd* slås det fast at yrkesutøver med yrkeskvalifikasjoner fra tredjeland kan få en tilsvarende rett som de etter første ledd. Dette er en kan-regel og ingen rett. For yrkesutøvere med kvalifikasjoner tilsvarende nivå A fra hjemstaten, gjelder regelen uansett ikke, jf. andre setning siste ledd. Tilsvarende gjelder det ikke for yrker hvor kvalifikasjonskravet i Norge er kort utdanning, dvs. nivå A, jf. siste ledd tredje punktum. Dette gjelder bl.a. yrker som godkjennes av Arbeidstilsynet, som dykker, truckfører i ulike klasser, maskinførere m.m.
 
 Etter *syvende ledd* kan den ansvarlige myndigheten avslå søknad fra yrkesutøver med yrkeskvalifikasjoner fra tredjeland dersom hensynet til offentlig helse og sikkerhet tilsier det. Dette kan være i de tilfellene hvor en eventuell godkjenning kan føre til fare for offentlig helse og sikkerhet, f.eks. faren for at eksplosiver havner utenfor den lovlige håndteringskjeden og de konsekvenser dette vil kunne medføre og/eller at eksplosiver havner i ukvalifiserte hender og de konsekvenser dette vil kunne medføre. Det er også en avslagsmulighet etter [§ 3-4](forskrift/2017-12-22-2384/§3-4) fjerde ledd, men dette gjelder kun dersom kravene i bokstav a og b i den bestemmelsen er oppfylt. Avslagsmuligheten etter [§ 3-3](forskrift/2017-12-22-2384/§3-3) syvende ledd gjelder uansett, men kun i de tilfellene hvor det er fare for offentlig helse og sikkerhet.
+
+*Til [§ 3-4](forskrift/2017-12-22-2384/§3-4) – Utligningstiltak*
 
 Bestemmelsen utfyller kravene til utligningstiltak i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 14 nr. 1 bokstav a og b. Bestemmelsen omhandler vilkår for å iverksette utligningstiltak. Utligningstiltak kan være en prøveperiode på inntil tre år eller en egnethetsprøve. Bestemmelsen må leses sammen med [§ 3-5](forskrift/2017-12-22-2384/§3-5) og [§ 3-6](forskrift/2017-12-22-2384/§3-6).
 
@@ -856,6 +1061,8 @@ Utlikningstiltak forutsetter at den ansvarlige myndigheten vurderer og treffer e
 Etter *fjerde ledd* kan godkjenningsmyndigheten avslå søknaden fra en yrkesutøver med yrkeskvalifikasjoner fra et tredjeland. Dette gjelder uansett om yrkesutøver har oppholdstillatelse i Norge eller ikke.
 
 Etter *siste ledd* kan en prøveperiode for yrkesutøver med yrkeskvalifikasjoner fra tredjeland ikke være lenger enn to år. Dette fordi [utlendingsforskriften](forskrift/2009-10-15-1286) setter begrensning i oppholdstillatelsen til søkere som søker opphold på bakgrunn av at de trenger tilleggsutdanning eller praksis for å få godkjenning eller autorisasjon, se [utlendingsforskriften § 6-19](forskrift/2009-10-15-1286/§6-19). Siste ledd gjelder også for yrkesutøver som har oppholdstillatelse i Norge. Dette for å likebehandle yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
+
+*Til [§ 3-5](forskrift/2017-12-22-2384/§3-5) – Unntak fra yrkesutøvers valgfrihet ved prøveperiode eller egnethetsprøve*
 
 Bestemmelsen har noen unntak fra yrkesutøverens valg av utligningstiltak i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 14 nr. 2 og 3. Enkelte avsnitt i direktivet gjennomføres ikke fordi dette er krav som er rettet mot Europakommisjonen og ikke den enkelte medlemsstat eller yrkesutøver.
 
@@ -877,6 +1084,8 @@ Etter *andre ledd* kan den ansvarlige myndigheten kreve at yrkesutøveren både 
 
 I *siste ledd* slås det fast at den ansvarlige myndigheten kan bestemme hvilket utligningstiltak yrkesutøver med yrkeskvalifikasjoner fra et tredjeland skal gjennomføre. Det gis ingen valgfrihet for yrkesutøver med yrkeskvalifikasjoner fra tredjeland. Dette gjelder uansett om vedkommende har oppholdstillatelse i Norge eller ikke. Dette for å likebehandle yrkesutøvere med yrkeskvalifikasjoner fra tredjeland.
 
+*Til [§ 3-6](forskrift/2017-12-22-2384/§3-6) – Særlige krav som stilles til vedtak om utligningstiltak*
+
 Bestemmelsen utfyller reglene i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 14 nr. 4, 5, 6 og 7. Bestemmelsen pålegger den ansvarlige myndigheten å vurdere yrkeserfaringen til yrkesutøveren før de eventuelt fatter vedtak om utligningstiltak. Bestemmelsen stiller også krav til vedtakets innhold.
 
 Etter *første ledd* skal den ansvarlige myndigheten der de har funnet at yrkesutøveren har vesentlig mangler i utdanningen, vurdere om den kunnskap eller livslang læring yrkesutøveren har tilegnet seg, helt eller delvis, veier opp for de vesentlige forskjellene i utdanningen som kreves i Norge, før vedtak om prøveperiode eller egnethetsprøve treffes. Den ansvarlige myndigheten må vurdere det faktiske innholdet i yrkesaktiviteten og eventuelle kurs yrkesutøveren har fullført, både formelle og uformelle før det eventuelt fattes vedtak om prøveperiode eller egnethetsprøve. Det kan være at yrkesutøveren ved sin yrkeserfaring eller eventuelle kurs oppveier for de mangler yrkesutøveren har i utdanningen fra sin hjemstat.
@@ -886,6 +1095,8 @@ Etter *første ledd* skal den ansvarlige myndigheten der de har funnet at yrkesu
 *Tredje ledd* stiller krav til at yrkesutøveren skal gis mulighet til å ta en egnethetsprøve senest seks måneder etter at vedtak om utligningstiltak er truffet.
 
 For saker om godkjenning av yrkeskvalifikasjoner for yrkesutøvere med yrkeskvalifikasjoner fra tredjeland må bestemmelsen leses sammen med [§ 3-3](forskrift/2017-12-22-2384/§3-3) siste ledd og [§ 3-4](forskrift/2017-12-22-2384/§3-4) fjerde ledd, hvor det slås fast at godkjenningsmyndigheten kan avslå søknad om godkjenning fra en yrkesutøver med yrkeskvalifikasjoner fra et tredjeland. Det er viktig at vedtaket er godt begrunnet, ikke minst fordi Utlendingsdirektoratet vil kunne benytte dette vedtaket for å vurdere om yrkesutøver skal få oppholdstillatelse etter [utlendingsforskriften § 6-19](forskrift/2009-10-15-1286/§6-19).
+
+*Til [§ 3-7](forskrift/2017-12-22-2384/§3-7) – Delvis adgang til et yrke ved etablering*
 
 Bestemmelsen utfyller prinsippet om delvis adgang til et yrke i [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8) tredje ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4f nr. 1 bokstav a til c.
 
@@ -905,6 +1116,8 @@ I følge *fjerde ledd* skal en yrkesutøver som har fått delvis adgang til yrke
 
 ### Kapittel 4. Etablering – Automatisk godkjenning på grunnlag av yrkeserfaring
 
+*Til [§ 4-1](forskrift/2017-12-22-2384/§4-1) – Anvendelsesområde*
+
 Bestemmelsen utfyller prinsippet om automatisk godkjenning av yrkeserfaring i [yrkeskvalifikasjonsloven § 9](lov/2017-06-16-69/§9) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 16. Bestemmelsen angir hva slags type yrkeserfaring og opplæring som kreves for å bli godkjent.
 
 Yrket må omfattes av de aktivitetene som er oppført i vedlegg 1 til forskriften, det er aktiviteter innenfor håndverks-, industri- og handelsvirksomhet. Da kan vedkommende bli godkjent automatisk som en følge av yrkeserfaring. Det er ikke mange yrker i Norge som omfattes av denne ordningen. Det er typisk yrker hvor det kreves en yrkesfagutdanning enten fra videregående eller fagskole. Det vil i Norge f.eks. være yrker innenfor elektrosektoren inkludert heismontør, samt teknisk leder ved godkjent kontrollorgan for periodisk kjøretøykontroll.
@@ -913,11 +1126,21 @@ Det er et krav om at yrkeserfaring og eller opplæringen skal være tilstrekkeli
 
 Dersom yrkesutøver ikke oppfyller kravene i kapittelet til automatisk godkjenning skal vedkommende vurderes etter den generelle ordningen i [kapittel 3](forskrift/2017-12-22-2384/kap3), dette kommer frem av [yrkeskvalifikasjonsloven § 8](lov/2017-06-16-69/§8).
 
+1 Brugervejledning Direktiv [2005/36/EF](eu/32005l0036*): Alt, hvad du altid har ønsket at vide om anerkendelse af faglige kvalifikationer, 66 spørgsmål 66 svar.
+
+*Til [§ 4-2](forskrift/2017-12-22-2384/§4-2) – Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i liste 1, vedlegg 1*
+
 Bestemmelsen utfyller prinsippet om godkjenning av yrkeserfaring og krav til yrkeserfaringens lengde i [yrkeskvalifikasjonsloven § 9](lov/2017-06-16-69/§9) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 17 nr. 1 bokstav a til e. Artikkel 17 nr. 3 gjennomføres ikke fordi frisør ikke er et lovregulert yrke i Norge. Bestemmelsen lister fem alternative vilkår for at yrkeserfaring skal kunne bli godkjent. Eksempel på slike yrker er elektriker og heismontør. For andre yrker, vises det til liste 1, vedlegg 1.
+
+*Til [§ 4-3](forskrift/2017-12-22-2384/§4-3) Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i liste 2, vedlegg 1*
 
 Bestemmelsen utfyller prinsippet om godkjenning av yrkeserfaring og krav til yrkeserfaringens lengde i [yrkeskvalifikasjonsloven § 9](lov/2017-06-16-69/§9) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 18 nr. 1 bokstav a til f. Bestemmelsen lister seks alternative vilkår for at yrkeserfaring skal kunne bli godkjent. Det er ingen lovregulerte yrker som faller inn under denne kategorien i Norge. For andre yrker, vises det til liste 2, vedlegg 1.
 
+*Til [§ 4-4](forskrift/2017-12-22-2384/§4-4) Krav til yrkeserfaringens lengde som omfattes av yrker nevnt i liste 3, vedlegg 1*
+
 Bestemmelsen utfyller prinsippet om godkjenning av yrkeserfaring og krav til yrkeserfaringens lengde i [yrkeskvalifikasjonsloven § 9](lov/2017-06-16-69/§9) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 19 nr. 1 bokstav a til d. Bestemmelsen lister fire alternative vilkår for at yrkeserfaring skal kunne bli godkjent. Eksempel på et slikt yrke er teknisk leder ved kontrollorgan for periodisk kjøretøykontroll. For andre yrker, vises det til liste 3, vedlegg 1.
+
+*Til § 4-5 – Krav til dokumentasjon av yrkeserfaring og eventuell opplæring*
 
 Bestemmelsen utfyller prinsippet om godkjenning av yrkeserfaring i [yrkeskvalifikasjonsloven § 9](lov/2017-06-16-69/§9) andre ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 17 nr. 2, artikkel 18 nr. 2 og artikkel 19 nr. 2. Videre yrkeskvalifikasjonsdirektivets artikkel 50 nr. 1 og vedlegg VII nr. 1 bokstav c). Bestemmelsen oppstiller krav til dokumentasjon, yrkeserfaringens varighet og dokumentasjon på eventuell opplæring.
 
@@ -929,6 +1152,8 @@ Etter *tredje ledd* er det et krav om at yrkeserfaringen ikke skal være eldre e
 
 ### Kapittel 5. Etablering – godkjenning etter felles opplæringsramme og opplæringsprøve
 
+*Til [§ 5-1](forskrift/2017-12-22-2384/§5-1) – Felles opplæringsrammer og opplæringsprøver*
+
 Bestemmelsen utfyller prinsippet om felles opplæringsprinsipper, herunder opplæringsrammer og opplæringsprøver, i [yrkeskvalifikasjonsloven § 11](lov/2017-06-16-69/§11) og [§ 12](lov/2017-06-16-69/§12), jf. yrkeskvalifikasjonsdirektivet artikkel 49a og 49b.
 
 Europakommisjonen har foreløpig ikke utarbeidet noen felles opplæringsprinsipper, men har startet flere prosjekter for å se på yrker hvor dette kan være aktuelt. Det er usikkert når Europakommisjonen vil foreslå slike prinsipper.
@@ -938,6 +1163,8 @@ Europakommisjonen har foreløpig ikke utarbeidet noen felles opplæringsprinsipp
 Departementet vil understreke at selv om det omtales som et profesjonskort utstedes det ikke et fysisk kort, det er mer en elektronisk prosedyre for å godkjenne yrkesutøverens yrkeskvalifikasjonsdokumenter. Yrkesutøver vil kunne skrive ut et dokument som viser at dokumentene er gjennomgått. Det er også mulig for potensielle arbeidsgivere å undersøke på en nettside utarbeidet av Europakommisjonen om yrkesutøveren har et gyldig profesjonskort.
 
 Bestemmelsene i dette kapittelet trer i kraft når direktiv [2013/55/EU](eu/32013l0055) som endrer yrkeskvalifikasjonsdirektivet og innfører ordningen med europeisk profesjonskort, trer i kraft i EØS-avtalen.
+
+*Til [§ 6-1](forskrift/2017-12-22-2384/§6-1) – Yrker regulert av yrkeskvalifikasjonsloven som omfattes av profesjonskort*
 
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) første ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4a nr. 2. Yrkeskvalifikasjonsdirektivets artikkel 4a nr. 1 gjennomføres ikke fordi det er krav til Europakommisjonen og ikke til en medlemsstat eller yrkesutøver.
 
@@ -949,6 +1176,8 @@ Ordningen med profesjonskort kan bli utvidet til andre yrker på et senere tidsp
 
 Det er foreløpig ikke mulig å søke om profesjonskort for å utøve et yrke i Sveits, jf. [§ 1-1](forskrift/2017-12-22-2384/§1-1) andre ledd.
 
+*Til [§ 6-2](forskrift/2017-12-22-2384/§6-2) – Søknad om profesjonskort*
+
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4.
 
 *Første ledd* slår fast at søknaden om profesjonskort gjøres via en nettportal fra EU. Profesjonskortet er et elektronisk sertifikat som bekrefter yrkesutøvers yrkeskvalifikasjoner og som behandles via IMI. Yrkesutøver som ønsker profesjonskort må opprette brukerprofil og søke via nettportalen «Your Europe», [http://europa.eu/youreurope](https://europa.eu/youreurope). Det er Europakommisjonen som har etablert og vedlikeholder nettportalen.
@@ -957,11 +1186,15 @@ Etter *andre ledd* skal søker legge den informasjon og laste opp de dokumentene
 
 *Tredje ledd* slår fast at yrkesutøver som har et profesjonskort og som ønsker å arbeide i en annen EØS-stat enn der hvor personen har fått innvilget profesjonskort, må søke om nytt profesjonskort for den EØS-staten. Dette fordi profesjonskortet kun gjelder for den staten som det er søkt for. Det er ikke være nødvendig å laste opp dokumentasjonen på nytt, ettersom dokumentene vil være tilgjengelig i yrkesutøverens profil i nettportalen.
 
+*Til [§ 6-3](forskrift/2017-12-22-2384/§6-3) – Ansvarlig myndighet for behandling av profesjonskort hvor Norge er etableringsstat*
+
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4a nr. 5 og 6. I direktivets artikkel 4a nr. 5 andre står det at ved etablering, vil utstedelse av et profesjonskort ikke automatisk gi en rett til å utøve et bestemt yrke dersom det finnes registreringskrav eller andre fremgangsmåter for kontroll i vertsstaten. Direktivets artikkel 4a nr. 7 gjennomføres ikke fordi det er krav til Europakommisjonen.
 
 *Første ledd* slår fast at det er den ansvarlige myndigheten for godkjenningen av yrkeskvalifikasjonene som er ansvarlig for profesjonskort for det aktuelle yrket. Etter bestemmelsens andre punktum kan dette delegeres til andre myndigheter.
 
 Etter *andre ledd* er det Nasjonalt organ for kvalitet i utdanningen (NOKUT) som er ansvarlig myndighet for behandling av profesjonskort for ikke-lovregulerte yrker i Norge. De er ansvarlig myndighet for behandling av profesjonskort for yrket fjellfører, da dette yrket ikke er lovregulert i Norge. Ved en eventuell utvidelse av ordningen for andre ikke-regulerte yrker i Norge og som ikke er helsepersonell- eller dyrehelsepersonellyrker, vil NOKUT være ansvarlig myndighet.
+
+*Til [§ 6-4](forskrift/2017-12-22-2384/§6-4) – Generelle regler for behandling av profesjonskort hvor Norge er etableringsstat*
 
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4b nr. 3. Direktivets artikkel 4b nr. 1, 2 og 4 gjennomføres ikke fordi dette er krav til Europakommisjonen. Bestemmelsen angir prosedyrer for hvordan ansvarlig myndighet i Norge skal behandle søknad om profesjonskort når Norge er etableringsstat. Dette er tilfelle der en yrkesutøver som er etablert i Norge søker om profesjonskort for å utøve sitt yrke i en annen stat, f.eks. Sverige.
 
@@ -983,6 +1216,8 @@ I de tilfellene yrkesutøver er etablert i Norge og har oppgitt Norge som etable
 
 Den ansvarlige myndigheten i etableringsstaten kan i gitte tilfeller utstede eventuelle tilleggsdokumentasjon som den ansvarlige myndigheten i vertsstaten ber om i forbindelse med søknad om profesjonskort. Dette er kun dokumentasjon som direktivet åpner for at vertsstaten kan be om. I direktivet omtales dette som støtteerklæring, en slik erklæring kan for eksempel være bekreftelse på at yrkesutøver er lovlig etablert jf. artikkel 7 nr. 2 bokstav b.
 
+*Til [§ 6-5](forskrift/2017-12-22-2384/§6-5) – Behandling av profesjonskort ved midlertidig tjenesteytelse når det ikke kreves forhåndskontroll i vertsstaten og hvor Norge er etableringsstat*
+
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4c. Bestemmelsen angir prosedyrer for behandling av profesjonskort og saksbehandlingsfrister ved søknad om profesjonskort ved midlertidig tjenesteytelse. Bestemmelsen gjelder der Norge er etableringsstat og bestemmelsene i kapittel 2 er i denne sammenheng ikke relevant. Dette er tilfelle der yrkesutøver som er etablert i Norge søker om profesjonskort for å utøve sitt yrke midlertidig, f.eks. i Sverige, og der svenske myndigheter har sagt at de ikke foretar noen forhåndskontroll av opplysningene.
 
 *Første ledd* oppstiller krav til saksbehandlingstid ved søknad om profesjonskort ved midlertidig tjenesteytelse hvor det ikke skal foretas forhåndskontroll etter lovens § 6. I slike tilfeller skal den ansvarlige myndigheten behandle søknaden og dokumentene til yrkesutøveren, og utstede profesjonskort innen tre uker etter at søknad om profesjonskort er komplett. Det betyr at ansvarlig myndighet har 4 ukers saksbehandlingstid totalt; 1 uke for komplettering av søknaden og 3 uker for behandling av søknaden. Det vil være ansvarlig myndighet i Norge som utsteder profesjonskort, dette fordi Norge er hjemstat og det skal ikke foretas noen forhåndskontroll av kvalifikasjonene i vertsstaten. Den ansvarlige myndigheten i Norge vil sende profesjonskortet til den ansvarlige myndigheten i vertsstaten via IMI og skal underrette søker om dette.
@@ -991,9 +1226,13 @@ Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjons
 
 *Tredje ledd* sier at yrkesutøver må levere ny dokumentasjon hvis det har skjedd endringer siden sist søknaden ble vurdert. Ansvarlig myndighet skal deretter sende et oppdatert profesjonskort til yrkesutøveren og ansvarlig myndighet i vertsstaten.
 
+*Til [§ 6-6](forskrift/2017-12-22-2384/§6-6) – Behandling av profesjonskort ved etablering eller midlertidig tjenesteytelse når det kreves forhåndskontroll i vertsstaten og hvor Norge er etableringsstat*
+
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonslovens § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4d nr. 1. Bestemmelsen angir prosedyrer for saksbehandling og saksbehandlingsfrister ved søknad om profesjonskort ved etablering eller midlertidig tjenesteytelse hvor kvalifikasjonene skal forhåndskontrolleres og hvor Norge er etableringsstat. Dette er tilfelle der yrkesutøver som er etablert i Norge søker om profesjonskort for å utøve sitt yrke midlertidig, f.eks. i Sverige, og der svenske myndigheter krever at dokumentene kontrolleres før yrkesutøver kan starte. Videre vil det gjelde der yrkesutøver i Norge har sagt at han eller hun ønsker å etablere seg i vertsstaten.
 
 Bestemmelsen setter krav til saksbehandlingstid ved søknad om profesjonskort ved etablering og midlertidig tjenesteytelse hvor det skal foretas forhåndskontroll. I slike tilfeller skal den ansvarlige myndigheten i Norge behandle søknaden og dokumentene til yrkesutøveren innen én måned etter at søknaden er komplett, og sende søknaden til vertsstaten via IMI. Det betyr at ansvarlig myndighet har noe over fem ukers saksbehandlingstid totalt; én uke for komplettering av søknaden og én måned for behandling av søknaden. Når søknaden sendes til vertsstaten for endelig behandling og eventuell utstedelse av profesjonskort, skal ansvarlig myndighet i Norge informere yrkesutøveren om at den er sendt til vertsstaten.
+
+*Til [§ 6-7](forskrift/2017-12-22-2384/§6-7) – Behandling av profesjonskort ved etablering hvor Norge er vertsstat*
 
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4d.
 
@@ -1011,6 +1250,8 @@ Etter *fjerde ledd* kan den ansvarlige myndigheten i Norge be den ansvarlige myn
 
 I *femte ledd* gis den ansvarlige myndigheten i Norge rett til å avslå søknaden om profesjonskort dersom den ikke mottar de nødvendige opplysningene som de kan kreve fra etableringsstaten, hjemstaten eller fra søker. De opplysningene som mangler må være nødvendige for å fatte vedtak om profesjonskort. Dette er en *kan*-bestemmelse, og ansvarlig myndighet kan velge å gi profesjonskort selv om de ikke har alle opplysningene. Hvis det gis avslag må et slikt avslag begrunnes, dette følger også av forvaltningslovens regler.
 
+*Til [§ 6-8](forskrift/2017-12-22-2384/§6-8) – Oppdateringer og tilgang til informasjon i IMI*
+
 Bestemmelsen utfyller reglene om europeisk profesjonskort i [yrkeskvalifikasjonsloven § 14](lov/2017-06-16-69/§14) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 4e nr. 3, 5 og 7. Artikkel 4e nr. 4 gjennomføres ikke fordi dette er krav til automatiske opplysninger i IMI-filen. Artikkel 4e nr. 6 gjennomføres ikke fordi dette er krav til Europakommisjonen, og ikke til medlemsstat eller yrkesutøver. Artikkel 4e nr. 5 andre ledd gjennomføres ikke, da dette gjelder for midlertidig tjenesteyting og yrker som omfattes av forhåndskontroll og som nevnt under [§ 6-7](forskrift/2017-12-22-2384/§6-7) er det ikke slike yrker hvor det kreves forhåndskontroll og som omfattes av profesjonskortet i Norge.
 
 I direktivet artikkel 4e nr. 1 er det også et krav om at de opplysningene som ansvarlig myndighet får i forbindelse med melding om disiplinære eller straffbare sanksjoner skal behandles etter personverndirektivet (direktiv [95/46/EF](eu/31995l0046)) og kommunikasjonsverndirektivet (direktiv [2002/58/EF](eu/32002l0058)). Dette gjennomføres ikke da det er krav til myndigheter.
@@ -1022,6 +1263,8 @@ I *andre ledd* påligger det en plikt for den ansvarlige myndigheten å oppdater
 I *tredje ledd* slås det fast at opplysningene om yrkesutøveren er registrert i IMI så lenge yrkesutøveren har et profesjonskort. Videre kan yrkesutøveren kostnadsfritt be om retting av feilaktig eller ufullstendig informasjon. Det samme gjelder sletting eller blokkering av yrkesutøverens opplysninger, dette gjelder dog ikke i de tilfellene hvor ansvarlig myndighet har sendt varsel etter [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20) og kapittel 7 i denne forskriften. Yrkesutøver skal få informasjon automatisk via IMI om denne retten når profesjonskortet utstedes.
 
 ### Kapittel 7. Varslingsplikt hvor yrkesutøver har fått begrenset retten til å utøve yrket
+
+*Til [§ 7-1](forskrift/2017-12-22-2384/§7-1) – Innholdet i varslingen*
 
 Bestemmelsen utfyller reglene om varslingsplikt i [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 56a nr. 2, 5 og 7. Direktivets artikkel 56a nr. 4 gjennomføres ikke fordi dette er krav til nasjonale myndigheter og ikke bestemmende for yrkesutøverens rettigheter eller plikter. Direktivets artikkel 56a nr. 8 gjennomføres ikke fordi det er krav til Europakommisjonen, og ikke en medlemsstat eller yrkesutøveren. Bestemmelsen presiserer hva slags type dokumentasjon den ansvarlige myndigheten må laste opp i IMI dersom den ansvarlige myndigheten skal sende varsel til de andre medlemsstatene i tilfeller hvor en yrkesutøver mister retten til å utøve yrket i Norge. Yrkeskvalifikasjonsdirektivet legger ikke opp til at informasjon om bakgrunnen for varslingen skal gå automatisk via IMI. Det er derfor ikke mulig i IMI å legge inn bakgrunnen for varslingen. Dersom den ansvarlige myndigheten ønsker å få motta informasjon om hva som er grunnlaget for et varsel må den ta kontakt med den ansvarlige myndigheten i landet som har utstedt varsel IMI.
 
@@ -1045,9 +1288,13 @@ Sveits er foreløpig ikke med i varslingsordningen.
 
 *Tredje ledd* gir prosedyrer for hvor lenge informasjonen skal fremgå av IMI-filen og om sletting av informasjonen. Informasjonen skal være i IMI så lenge vedtaket om begrensningen er gyldig. Dersom vedtaket eller en dom opphører skal den ansvarlige myndigheten opplysningene i IMI slettes og de andre statene skal få melding om dette uten ugrunnet opphold og senest innen tre dager. Det er de samme tidsfrister den ansvarlige myndigheten for å melde fra om opphør som ved innføring av begrensningen.
 
+*Til [§ 7-2](forskrift/2017-12-22-2384/§7-2) – Klagerett på varslingen*
+
 Bestemmelsen utfyller reglene om varslingsplikten i [yrkeskvalifikasjonsloven § 20](lov/2017-06-16-69/§20) fjerde ledd, jf. yrkeskvalifikasjonsdirektivet artikkel 56a nr. 6. Bestemmelsen fastsetter at den ansvarlige myndigheten skal samtidig med at varsel sendes via IMI, underrette den aktuelle yrkesutøveren skriftlig om at varsel er sendt. Yrkesutøver gis en rett til å klage på varslingen som blir sendt til alle medlemsstatene og en rett til å søke om erstatning dersom varslingen skulle vise seg å være feil. Varslingen vil derfor måtte utformes som et enkeltvedtak slik at det gis klagerett og en eventuell klage skal behandles etter forvaltningslovens regler.
 
 ### Kapittel 8. Saksbehandlingsregler
+
+*Til [§ 8-1](forskrift/2017-12-22-2384/§8-1) – Krav til dokumentasjon*
 
 Bestemmelsen utfyller reglene om krav til dokumentasjon i [yrkeskvalifikasjonsloven § 12](lov/2017-06-16-69/§12), jf. yrkeskvalifikasjonsdirektivet artikkel 50. Direktivets artikkel 50 nr. 4 er ikke gjennomført fordi det der krav til nasjonale myndigheter og ikke bestemmende for yrkesutøvers rettigheter eller plikter.
 
@@ -1067,11 +1314,15 @@ Etter *syvende ledd* kan godkjenningsmyndigheten kreve at søker med yrkeskvalif
 
 Etter *siste ledd* kan ikke en flyktning pålegges å ta kontakt med hjemlandets myndigheter hvis dette kan komme i konflikt med beskyttelsesbehovet, jf. [utlendingsloven § 83](lov/2008-05-15-35/§83) andre ledd og [utlendingsforskriften § 17-7](forskrift/2009-10-15-1286/§17-7) andre ledd. Videre kan ikke godkjenningsmyndighetene ta kontakt med hjemlandets myndigheter hvis det kan komme i konflikt med beskyttelsesbehovet, jf. faren for represalier mot familien i hjemlandet og flyktningspionasje. Dette innebærer en praktisk begrensning i flyktningers mulighet til å nyttiggjøre seg muligheten for yrkesgodkjenning etter loven og forskriften. Med flyktninger menes her personer som har fått opphold etter [§ 28](lov/2008-05-15-35/§28) eller [§ 35 i utlendingsloven](lov/2008-05-15-35/§35).
 
+*Til [§ 8-2](forskrift/2017-12-22-2384/§8-2) – Generelle saksbehandlingsfrister ved søknad om etablering*
+
 Bestemmelsen utfyller reglene om saksbehandlingsfrister i [yrkeskvalifikasjonsloven § 13](lov/2017-06-16-69/§13), jf. yrkeskvalifikasjonsdirektivet artikkel 51. En eventuell oversittelse av saksbehandlingsfristene gir yrkesutøver en klagerett etter [yrkeskvalifikasjonsloven § 13](lov/2017-06-16-69/§13). Merk at det er egne saksbehandlingsfrister for behandling av godkjenning for midlertidig tjenesteytelse i kapittel 2 i forskriften, se § 2-3. Forskjellen er bl.a. at en oversittelse av fristene i [§ 2-3](forskrift/2017-12-22-2384/§2-3) gir yrkesutøver en automatisk rett til å utøve yrket, dette er ikke tilfelle ved en oversittelse av fristene i [§ 8-2](forskrift/2017-12-22-2384/§8-2). Det er også egen saksbehandlingsfrister for behandling av profesjonskort i [kapittel 6](forskrift/2017-12-22-2384/kap6).
 
 Etter *første ledd* skal den ansvarlige myndigheten innen en måned etter at søknad om godkjenning er mottatt, bekrefte mottakelsen av søknaden og opplyse om eventuelle manglende dokumenter eller mangler ved søknaden. Dersom det foreligger mangler ved søknaden, skal den ansvarlige myndigheten gi yrkesutøveren beskjed om hvilke dokumenter som mangler. I løpet av denne fristen er det ingen plikt for ansvarlig myndighet å realitetsbehandle søknaden.
 
 Etter *andre ledd første punktum* skal søknad om godkjenning behandles innen tre måneder etter at søknaden er komplett. Saksbehandlingstiden begynner derfor å løpe fra søknaden er komplett, ikke automatisk etter at kompletteringsfristen på en måned er oversittet. En søknad vil være komplett der eventuelle manglende dokumentasjon er mottatt hos den ansvarlige myndigheten. I flere tilfeller kan yrkesutøveren bruke mer enn en måned på å fremskaffe nødvendig dokumentasjon. I *andre ledd andre punktum* kan fristen i første punktum forlenges med en måned for yrker som omfattes av kapittel tre og fire i forskriften (den generelle ordningen eller automatisk godkjenning på grunnlag av yrkeserfaring). Det betyr at den ansvarlige myndigheten vil kunne få en mulighet for fire måneders saksbehandlingstid i tilfeller som omfattes av den generelle ordningen eller automatisk godkjenning på grunnlag av yrkeserfaring.
+
+*Til [§ 8-3](forskrift/2017-12-22-2384/§8-3) – Språkkontroll*
 
 Bestemmelsen utfyller reglene om krav til språkkunnskaper i [yrkeskvalifikasjonsloven § 15](lov/2017-06-16-69/§15), jf. yrkeskvalifikasjonsdirektivet artikkel 53 nr. 1, 3 og 4. Direktivets artikkel 53 nr. 2 gjennomføres ikke da det er krav til myndighetene.
 
@@ -1085,9 +1336,15 @@ Etter *andre ledd* kan språkkontroll bare kreves hvor det foreligger alvorlig o
 
 *Tredje ledd andre punktum* slår fast at yrkesutøveren kan påklage eventuelt vedtak om språkkontrollen.
 
+1 Brugervejledning Direktiv [2005/36/EF](eu/32005l0036*): Alt, hvad du altid har ønsket at vide om anerkendelse af faglige kvalifikationer, 66 spørgsmål 66 svar.
+
+*Til [§ 8-4](forskrift/2017-12-22-2384/§8-4) – Bruk av akademisk tittel*
+
 Bestemmelsen utfyller reglene om krav til bruk av akademisk tittel i [yrkeskvalifikasjonsloven § 16](lov/2017-06-16-69/§16), jf. yrkeskvalifikasjonsdirektivet artikkel 54.
 
 Bestemmelsen presiserer at yrkesutøveren har rett til å benytte hjemstatens språk ved bruk av akademisk tittel, men hvis den utenlandske tittelen kan forveksles med en norsk tittel hvor det kreves en tilleggsutdanning som yrkesutøver ikke har, kan yrkesutøveren benytte den norske tittelen. Et eksempel på en mulig forveksling av utenlandsk og norsk tittel er gamle, nederlandske grader. På 90-tallet kunne en person studere fire år og oppnå kvalifikasjonen «doctoraal» eller «doctorandus» innenfor mange ulike fagområder. Dette er verken en doktorgradsutdanning (ph.d.) eller en legeutdanning innenfor medisin. En slik tittel kan være misvisende og ansvarlig myndighet kan i slike tilfeller pålegge at yrkesutøveren benytter en annen tittel som ikke forveksles med eksisterende «doktortitler» i Norge. Hensikten med bestemmelsen er å unngå at yrkesutøveren benytter en tittel som kan gi inntrykk av at vedkommende har en annen utdanning eller kvalifikasjoner enn det vedkommende egentlig har.
+
+*Til [§ 8-5](forskrift/2017-12-22-2384/§8-5) – Elektronisk søknad*
 
 Bestemmelsen utfyller reglene om krav til elektronisk søknad i [yrkeskvalifikasjonsloven § 17](lov/2017-06-16-69/§17), jf. yrkeskvalifikasjonsdirektivet artikkel 57a nr. 1 og 2. Direktivets artikkel 57a nr. 3 og 4 gjennomføres ikke fordi det er krav til nasjonale myndigheter og ikke bestemmende for yrkesutøvers rettigheter eller plikter. Elektronisk informasjon om de lovregulerte yrkene finnes på nettsidene til Altinn, [www.altinn.no](https://www.altinn.no).
 
@@ -1095,13 +1352,21 @@ Bestemmelsen utfyller reglene om krav til elektronisk søknad i [yrkeskvalifikas
 
 *Andre ledd* presiserer at bestemmelsen ikke gjelder dersom søknaden innebærer at yrkesutøveren må fullføre en prøveperiode eller en egnethetsprøve.
 
+*Til [§ 8-6](forskrift/2017-12-22-2384/§8-6) – Kvalifikasjonsbevis ervervet i tredjeland og tredjelandsborger*
+
 Bestemmelsen utfyller reglene om kvalifikasjonsbevis ervervet i tredjeland og tredjelandsborger i [yrkeskvalifikasjonsloven § 2](lov/2017-06-16-69/§2) første ledd tredje punktum, jf. yrkeskvalifikasjonsdirektivet artikkel 3 nr. 3.
 
 *Første ledd* slår fast at en yrkesutøver fra en EØS-stat med kvalifikasjonsbevis utstedt i ett tredjeland har rett til å få sin søknad vurdert etter kapittel 3 i forskriften. Det forutsettes da at søker har fått godkjent sine kvalifikasjoner i en annen EØS-stat og har minst tre års yrkeserfaring fra den staten.
 
 Etter *andre ledd* kan en yrkesutøver fra et tredjeland og som omfattes av direktiv [2004/38/EF](eu/32004l0038*) også bli vurdert etter direktivet dersom vedkommende har et kvalifikasjonsbevis utstedt i EØS-stat. Dette vil f.eks. gjelde en ektefelle av en EØS-statsborger med statsborgerskap fra et tredjeland, jf. merknad til [§ 1-1](forskrift/2017-12-22-2384/§1-1). Hvis ektefellen omfattes av direktiv [2004/38/EF](eu/32004l0038*) vil denne ha rett til å få vurdert en søknad om godkjenning for å kunne utøve et lovregulert yrke.
 
+*Til [§ 8-7](forskrift/2017-12-22-2384/§8-7) – Prøveperiode*
+
 Bestemmelsen utfyller reglene om krav til prøveperiode i [yrkeskvalifikasjonsloven § 3](lov/2017-06-16-69/§3) bokstav g, jf. yrkeskvalifikasjonsdirektivet artikkel 3 bokstav g. Prøveperiode er definert i yrkeskvalifikasjonsloven. Prøveperioden skal avsluttes med en vurdering om yrkesutøveren er kvalifisert til å utøve det aktuelle lovregulerte yrket. De nærmere praktiske regler for prøveperiode skal fastsettes av den ansvarlige myndigheten. Yrkesutøveren kan motta lønn under prøveperioden. Tilretteleggelse og avvikling av prøveperioden kan settes ut til en institusjon og/eller godkjente veiledere. Europakommisjonen har uttalt i brukerveiledning1 til direktivet at det er viktig at yrkesutøveren kan gjennomføre prøveperioden ikke alt for langt vekk i forhold til bosted/etableringssted eller at betingelsene under prøveperioden er for restriktive.
+
+1 Brugervejledning Direktiv [2005/36/EF](eu/32005l0036*): Alt, hvad du altid har ønsket at vide om anerkendelse af faglige kvalifikationer, 66 spørgsmål 66 svar.
+
+*Til [§ 8-8](forskrift/2017-12-22-2384/§8-8) – Egnethetsprøve*
 
 Bestemmelsen utfyller reglene om krav til egnethetsprøve i [yrkeskvalifikasjonsloven § 3](lov/2017-06-16-69/§3) bokstav h, jf. yrkeskvalifikasjonsdirektivet artikkel 3 bokstav h. Egnethetsprøve er definert i yrkeskvalifikasjonsloven. Den ansvarlige myndigheten skal vurdere den utdanning yrkesutøveren har fra hjemstaten opp mot den utdanningen som kreves i Norge. Hensikten med prøven er å etterprøve de faglige kvalifikasjonene til yrkesutøveren, og skal kun være for de fag som er en forutsetning for utøvelsen av yrket i Norge og hvor det er konstatert betydelig forskjell i utdanningen fra hjemstaten og det som kreves i Norge. Prøven skal avdekke om yrkesutøveren er kvalifisert til å utøve yrket i Norge. Det er verdt å merke seg at kunnskaper i norsk ikke anses som en vesentlig forskjell i utdanningen, med noen unntak, se merknad til [§ 8-3](forskrift/2017-12-22-2384/§8-3) om språkkontroll.
 
@@ -1111,16 +1376,24 @@ Europakommisjonen har i veiledning til direktivet uttalt at der det stilles krav
 
 ### Kapittel 9. Administrative bestemmelser
 
+*Til [§ 9-1](forskrift/2017-12-22-2384/§9-1) – Assistansesenter*
+
 Bestemmelsen utfyller reglene om krav til opprettelse av assistansesenter i [yrkeskvalifikasjonsloven § 23](lov/2017-06-16-69/§23), jf. yrkeskvalifikasjonsdirektivet artikkel 57b nr. 1, 2 og 3. Direktivets artikkel 57b nr. 4 gjennomføres ikke fordi det er krav til nasjonale myndigheter og ikke bestemmende for yrkesutøvers rettigheter eller plikter.
 
 I følge *første ledd* skal assistansesenteret veilede yrkesutøvere og assistansesentre i andre EØS-stater. Det er viktig å påpeke at assistansesenteret ikke overtar den veiledningsplikt som den ansvarlige myndigheten har etter forvaltningsloven. Assistansesenteret vil ha mange av de samme oppgavene som det tidligere kontaktpunktet for yrkeskvalifikasjonsdirektivet hadde ansvaret for. Assistansesenteret kan i tillegg til oppgavene nevnt i denne bestemmelsen også være ansvarlig myndighet. Dette gjelder blant annet utstedelse av profesjonskort for ikke-lovregulerte yrker.
 
 I *andre ledd* er det sagt at Nasjonalt organ for kvalitet i utdanningen (NOKUT) er assistansesenter i Norge. Det er kun ett assistansesenter og NOKUT vil også være assistansesenter for helsepersonell- og dyrehelsepersonellyrker.
 
+*Til [§ 9-2](forskrift/2017-12-22-2384/§9-2) – Statistikk*
+
 Bestemmelsen utfyller reglene om statistikkrapportering i [yrkeskvalifikasjonsloven § 24](lov/2017-06-16-69/§24), jf. yrkeskvalifikasjonsdirektivet artikkel 60 nr. 1. Direktivets artikkel 60 nr. 2 gjennomføres ikke fordi det er krav til Europakommisjonen, og ikke medlemsstat eller yrkesutøver. Bestemmelsen gir Kunnskapsdepartementet hjemmel til å innhente statistikk fra andre departement eller godkjenningskontorer vedrørende søknader om godkjenning, saksbehandlingstid, avslag med mer. Det er gitt hjemmel i forskriften til at Kunnskapsdepartementet kan gi nærmere retningslinjer for innholdet i statistikkrapporteringen. Det er Nasjonalt organ for kvalitet i utdanningen (NOKUT) som innhenter statistikk fra ansvarlige myndigheter, også for helsepersonell- og dyrehelsepersonellyrker.
 
 ### Kapittel 10. Avsluttende bestemmelser
 
+*Til [§ 10-1](forskrift/2017-12-22-2384/§10-1) – Ikrafttredelse*
+
 Forskriften trer i kraft 1. januar 2018, med unntak av bestemmelsene i [kapittel 5](forskrift/2017-12-22-2384/kap5) om godkjenning etter felles opplæringsramme og opplæringsprøve, 6 om europeisk profesjonskort og [kapittel 7](forskrift/2017-12-22-2384/kap7) om varslingsplikt hvor yrkesutøver har fått begrenset retten til å utøve yrket. De bestemmelsene vil tre i kraft senere. Dette fordi de gjennomfører bestemmelser i direktiv [2013/55/EU](eu/32013l0055) og som ikke kan tre i kraft før endringen i EØS-avtalen som tar inn det direktivet har trådt i kraft.
+
+*Til [§ 10-2](forskrift/2017-12-22-2384/§10-2) – Gjennomføring av Kommisjonens gjennomføringsforordning [2015/983](eu/32015r0983)*
 
 Det er i forskriften lagt inn en henvisning til kommisjonens gjennomføringsforordning [2015/983](eu/32015r0983) om europeisk profesjonskort og varslingsmekanismer. I forordningen er det nærmere regler for den ansvarlige myndigheten til profesjonskort og varslingsmekanismer. Forordningen gjelder som norsk forskrift.

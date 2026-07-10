@@ -245,3 +245,5 @@ Justis- og beredskapsdepartementet kan ved behov og i samråd med andre aktuelle
 ## Kapittel 5 Ikrafttredelse mv.
 
 Denne kongelige resolusjonen trer i kraft fra det tidspunktet departementet bestemmer.1 Fra samme tid oppheves kongelig [resolusjon 19. juni 2015 nr. 677](forskrift/2015-06-19-677).
+
+1 I kraft 1 feb 2020, jf. [vedtak 29 jan 2020 nr. 90](forskrift/2020-01-29-90), og gis så langt som det er adgang til det virkning for 2020.

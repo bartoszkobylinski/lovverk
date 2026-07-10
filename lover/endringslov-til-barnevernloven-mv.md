@@ -24,30 +24,32 @@ eu_basis: []
 
 ## I
 
-Når barneverntjenesten har besluttet å fremme sak for fylkesnemnda etter [§§ 4-12](lov/1992-07-17-100/§4-12) eller [4-24](lov/1992-07-17-100/§4-24), eller har truffet vedtak om frivillig plassering etter [§§ 4-4](lov/1992-07-17-100/§4-4) sjette ledd eller [4-26](lov/1992-07-17-100/§4-26), skal den anmode Barne-, ungdoms- og familieetaten om tverrfaglig helsekartlegging etter [§ 2-3](lov/1992-07-17-100/§2-3) tredje ledd bokstav c.
+I [lov 17. juli 1992 nr. 100 om barneverntjenester](lov/1992-07-17-100) gjøres følgende endringer:
 
-Barneverntjenesten kan unnlate anmodning etter første ledd dersom helsekartlegging anses åpenbart unødvendig.
+– – –
 
-Er det vedtatt omsorgsovertakelse etter [§ 4-12](lov/1992-07-17-100/§4-12) eller besluttet å fremme sak om dette for fylkesnemnda, skal kartleggingen gjennomføres etter at barnet er flyttet ut av hjemmet.
+Ny [§ 4-3 a](lov/1992-07-17-100/§4-3a) skal lyde:
 
-En tverrfaglig helsekartlegging kan bare gjennomføres med samtykke fra barnets foreldre. Barneverntjenesten kan samtykke til helsekartleggingen dersom det er truffet vedtak etter [§ 4-6](lov/1992-07-17-100/§4-6) annet ledd, [§ 4-8](lov/1992-07-17-100/§4-8) eller [§ 4-12](lov/1992-07-17-100/§4-12). Har barnet fylt 15 år, er barnets samtykke tilstrekkelig.
-
-> Endret ved lov [17 juni 2022 nr. 45](lov/2022-06-17-45).
+– – –
 
 ## II
 
+I [lov 12. februar 2010 nr. 4 om pensjonsordning for oppdragstaker i statlige beredskaps- eller familiehjem](lov/2010-02-12-4) gjøres følgende endringer:
+
+– – –
+
 ## III
 
-Når barnevernstjenesten har besluttet å fremme sak for barneverns- og helsenemnda etter [§§ 5-1](lov/2021-06-18-97/§5-1) eller [6-2](lov/2021-06-18-97/§6-2) eller har truffet vedtak om frivillig plassering etter [§§ 3-2](lov/2021-06-18-97/§3-2) eller [6-1](lov/2021-06-18-97/§6-1), skal den anmode barne-, ungdoms- og familieetaten om tverrfaglig helsekartlegging etter [§ 16-3](lov/2021-06-18-97/§16-3) fjerde ledd bokstav d.
+I [lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven)](lov/2021-06-18-97) gjøres følgende endringer:
 
-Barnevernstjenesten kan unnlate anmodning etter første ledd dersom helsekartlegging anses åpenbart unødvendig.
+Ny [§ 2-6](lov/2021-06-18-97/§2-6) skal lyde:
 
-Er det vedtatt omsorgsovertakelse etter [§ 5-1](lov/2021-06-18-97/§5-1) eller besluttet å fremme sak om dette for nemnda, skal kartleggingen gjennomføres etter at barnet er flyttet ut av hjemmet.
+[§ 13-1](lov/2021-06-18-97/§13-1) tredje ledd skal lyde: – – –
 
-En tverrfaglig helsekartlegging kan bare gjennomføres med samtykke fra barnets foreldre. Barnevernstjenesten kan samtykke til helsekartleggingen dersom det er truffet vedtak etter [§ 4-2](lov/2021-06-18-97/§4-2) eller [§ 5-1](lov/2021-06-18-97/§5-1). Har barnet fylt 15 år, er barnets samtykke tilstrekkelig.
-
-> Endret ved lov [17 juni 2022 nr. 45](lov/2022-06-17-45).
+[§ 16-3](lov/2021-06-18-97/§16-3) fjerde ledd skal lyde: – – –
 
 ## IV
 
 Loven gjelder fra den tiden1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
+
+1 Fra 1 juni 2022 for del I unntatt ny [§ 4-3a](lov/1992-07-17-100/§4-3a), fra 1 juni 2022 for del II og fra 25 mars 2022 for del III unntatt ny [§ 2-6](lov/2021-06-18-97/§2-6), iflg. [res. 25 mars 2022 nr. 465](forskrift/2022-03-25-465).

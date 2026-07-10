@@ -559,3 +559,5 @@ Desse føresegnene i andre lover endrast slik: – – –
 Lova gjeld frå den tid Kongen fastset.1 Lova får berre verknad for avtalar som blir gjorde etter at ho tek til å gjelde.
 
 § 65 nr. 1 (endringar i [lov av 18. mai 1979 nr. 18](lov/1979-05-18-18) om foreldelse av fordringer), § 65 nr. 3 (endring i [lov av 23. desember 1988 nr. 104](lov/1988-12-23-104) om produktansvar) og § 65 nr. 6 (endring i [lov av 25. august 1995 nr. 57](lov/1995-08-25-57) om pakkereiser) tek likevel til å gjelde straks. Endringane i [lov av 18. mai 1979 nr. 18](lov/1979-05-18-18) om foreldelse av fordringer gjeld også tidlegare oppkomne krav som ikkje er forelda når lova tek til å gjelde.
+
+1 Frå 1 juli 1998 iflg. [res. 3 okt 1997 nr. 1072](forskrift/1997-10-03-1072).

@@ -64,6 +64,8 @@ Departementet kan gi forskrift om utfylling og gjennomføring av bestemmelsene i
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 juli 2016 iflg. [res. 17 juni 2016 nr. 702](forskrift/2016-06-17-702).
+
 ## § 9. Endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i [lov 7. juni 2002 nr. 19](lov/2002-06-07-19) om personnavn: – – –

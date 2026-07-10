@@ -32,29 +32,51 @@ Fenalår fra Norge SA.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
+1\. *Produktbeskrivelse:*
+
 Fenalår fra Norge er saltet, tørket og modnet og eventuelt røkt lår av lam og sau av norsk opprinnelse. Fenalår fra Norge skal ha en jevn rødlig farge, en mør og middels fast til fast konsistens, mild til middels saltsmak, speket og ikke avvikende lukt og smak og det skal være fritt for mugg. Fenalåret skal ikke ha tørkekant, og fettet skal ha en lys gyllen farge. Fenalår fra Norge kan være smaksatt med krydder, urter, bær, honning, etc.
 
 Fenalår fra Norge omfatter variantene Tradisjonelt og Modnet. Varianten Tradisjonelt skal ha et saltinnhold på maksimalt 9 % og et svinn på minst 30 %. Varianten Modnet skal ha et saltinnhold på maksimalt 7 % og et vekttap på minst 35 %.
 
+2\. *Geografisk område:*
+
 Fenalår fra Norge skal være produsert, bearbeidet og foredlet i Norge.
+
+3\. *Produksjonsmetode:*
+
+*Beskrivelse og dokumentasjon av produksjonsprosessen:*
 
 Produksjonsprosessen skal beskrives og dokumenteres, og være en del av virksomhetens internkontroll og HACCP-plan. Følgende skal være beskrevet: Råvarekontroll, definisjon av et parti, saltemetode, saltkonsentrasjon, salttype og eventuell bruk av nitritt, sukker (type og mengde) eller andre tilsetninger, eventuell røyking, tid- og temperaturforløp gjennom spekeprosessen, tørkegrad og sluttkontroll.
 
+*Råvarer:*
+
 Som råvare til Fenalår fra Norge skal det brukes lår av lam eller sau, som er født, oppvokst, slaktet og foredlet i Norge. Både ferske og fryste/tinte lår kan brukes, men fryste/tinte lår skal ikke være eldre enn 12 måneder. Kjøttet skal ha en pH målt i flatbiff på minimum 5,5 og maksimum 5,8.
+
+*Salting:*
 
 Før salting skal lårene ha jevn og lav temperatur. Pressing eller massering av hele lår for å presse ut blodrester og leddvæske før salting er anbefalt for Tradisjonelt og et krav for Modnet Fenalår fra Norge. Lårene skal sorteres i grupper etter vekt eller saltes individuelt etter vekt for å sikre riktig saltmengde og sensorisk kvalitet på sluttproduktet. Sprøytesalting er ikke tillatt.
 
+*Saltfordeling:*
+
 Lårene skal ligge kjølig til kjøttet er gjennomsaltet.
+
+*Vasking:*
 
 Etter saltfordeling skal lårene rengjøres for salt og forurensninger på overflaten.
 
+*Tørking:*
+
 Fenalår fra Norge skal tørkes til rett svinnprosent er oppnådd.
+
+*Sluttkontroll:*
 
 Hvert parti skal kontrolleres for svinn, sensorisk for farge, konsistens, lukt og smak, og kjemisk for saltinnhold og vannaktivitet (aW ). Salt og aW for et parti regnes som snittet av prøvene fra partiet.
 
 I hele lår skal kontrollstykket skjæres ut i den bredeste mest kjøttfulle delen, mest mulig vinkelrett mot lårbenet, fra kula eller isbenet og mot skanken. Stykket nærmest kula skal testes kjemisk, mens stykket nærmest skanken skal testes sensorisk. Stykket inkluderer normalt flatbiff, bankekjøtt og lårtunge. Fettklump ved knoke og ytre fettlag skal fjernes før analyse. I benfritt fenalår skal det etterstrebes et prøveuttak som beskrevet over, ellers skal det skjæres ett stykke fra midten til sensorikk mens kjemisk analyse skal gjøres på en samleprøve som omfatter midtstykket og en ende uten skalk.
 
 Fenalår fra Norge skal som hovedregel omsettes med aW lavere enn 0,90. Velges en høyere aW enn 0,90 må matvaretryggheten sikres gjennom fareanalyse og risikovurdering av produksjonsprosessen, og sluttproduktet bør vurderes merket som kjølevare.
+
+4\. *Merking av produktet:*
 
 Fenalår fra Norge kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
 

@@ -22,9 +22,13 @@ eu_basis: []
 
 # Vedtak etter merverdiavgiftsloven § 19-3 om unntak fra plikten til å beregne merverdiavgift på inngangsbilletter til Hallingmarken
 
+*Svar på søknad om avgiftslempning for omsetning av inngangsbilletter, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd – Hallingmarken*
+
 Vi viser til søknad 29. august 2011 om lempning i plikten til å beregne utgående merverdiavgift på inngangsbilletter til arrangementet Hallingmarken, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd.
 
 Etter en samlet vurdering har departementet kommet fram til at det innvilges merverdiavgiftsunntak for omsetning av inngangsbilletter til arrangementet, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Dette innebærer at det på omsetning av inngangsbilletter til arrangementet ikke skal beregnes utgående merverdiavgift, samtidig som en ikke vil ha fradragsrett for inngående merverdiavgift på anskaffelser til bruk i den avgiftsunntatte delen av virksomheten. Unntaket gis inntil videre. Vedtaket gis med virkning fra søknadstidspunktet, 29. august 2011. En nærmere redegjørelse for vedtaket følger nedenfor.
+
+*Sakens bakgrunn*
 
 Hallingmarken (heretter HM) er etter det opplyste et arrangement som drives av Nesbyen Idrettslag og Nesbyen Røde Kors Hjelpekorps. Arrangementet ble for første gang arrangert i 1968.
 
@@ -38,9 +42,13 @@ I tråd med ovennevnte har advokatfirmaet i brev 29. august 2011, på vegne av H
 
 I Skattedirektoratets brev 14. november 2011 til Finansdepartementet har direktoratet konkludert med at en i denne saken ikke kan se at en står overfor en situasjon som ikke har vært overveid av lovgiver, og at vilkårene etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd sånn sett ikke kan anses oppfylt. I sin begrunnelse skriver Skattedirektoratet bl.a. at man etter [endringslov 25. juni 2010 nr. 32](lov/2010-06-25-32) ikke lenger kan hevde at «det ikke har vært lovgivers intensjon at arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig».
 
+*Søkers anførsler*
+
 Prinsipalt hevdes det at samme begrunnelse som gjorde at man ga fritak tidligere, også gjelder nå. I den forbindelse anfører søker at arrangementet HM drives på dugnadsbasis, samtidig som overskuddet tilfaller de to frivillige organisasjonene Nesbyen Røde Kors Hjelpekorps og Nesbyen Idrettslag. Det er dessuten snakk om et årlig arrangement, som varer i fire dager, slik at konkurransehensyn vil ha begrenset vekt. For øvrig vises det til at tjenestene som inngangsbilletten til arrangementet gir adgang til vil ha ulik avgiftsbehandling dersom man hadde tatt særskilt betalt for hver tjeneste.
 
 Subsidiært søkes det om fritak fra å beregne merverdiavgift med mer enn 8 pst. Det anføres at når Finansdepartementet kan innvilge fullt fritak etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd, må det etter alminnelige forvaltningsrettslige prinsipper også kunne gjøre det mindre, dvs. frita fra ordinær sats ned til lav sats.
+
+*Finansdepartementets vurderinger*
 
 Finansdepartementet finner det hensiktsmessig først å knytte noen merknader til merverdiavgiftsreglene på dette spesifikke området.
 

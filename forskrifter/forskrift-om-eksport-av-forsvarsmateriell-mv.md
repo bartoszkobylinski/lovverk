@@ -233,14 +233,20 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 10. jan
 ## Vedlegg I
 Liste I – forsvarsrelaterte varer (2025)
 
+For å lese vedlegg I se her: [pdf-fil](static/SF/sf-20130619-0718-01-14.pdf)
+
 > Endret ved forskrifter [30 juni 2014 nr. 898](forskrift/2014-06-30-898), [13 feb 2015 nr. 124](forskrift/2015-02-13-124), [21 des 2016 nr. 1831](forskrift/2016-12-21-1831), [6 juni 2017 nr. 740](forskrift/2017-06-06-740), [26 jan 2018 nr. 136](forskrift/2018-01-26-136), [9 april 2019 nr. 494](forskrift/2019-04-09-494), [9 april 2019 nr. 622](forskrift/2019-04-09-622), [11 mai 2020 nr. 994](forskrift/2020-05-11-994), [26 jan 2022 nr. 304](forskrift/2022-01-26-304), [9 mars 2023 nr. 635](forskrift/2023-03-09-635), [18 april 2024 nr. 686](forskrift/2024-04-18-686), [20 aug 2025 nr. 1674](forskrift/2025-08-20-1674), [19 sep 2025 nr. 1883](forskrift/2025-09-19-1883).
 
 ## Vedlegg II
 Liste II – nasjonal liste over flerbruksvarer (2025)
 
+For å lese vedlegg II se her: [pdf-fil](static/SF/sf-20130619-0718-02-13.pdf).
+
 > Endret ved forskrifter [13 feb 2015 nr. 124](forskrift/2015-02-13-124), [12 jan 2016 nr. 32](forskrift/2016-01-12-32), [21 des 2016 nr. 1831](forskrift/2016-12-21-1831), [26 jan 2018 nr. 136](forskrift/2018-01-26-136), [9 april 2019 nr. 494](forskrift/2019-04-09-494), [11 mai 2020 nr. 994](forskrift/2020-05-11-994), [26 jan 2022 nr. 304](forskrift/2022-01-26-304), [9 mars 2023 nr. 635](forskrift/2023-03-09-635), [22 jan 2024 nr. 96](forskrift/2024-01-22-96), [6 sep 2024 nr. 2089](forskrift/2024-09-06-2089), [4 nov 2024 nr. 2898](forskrift/2024-11-04-2898), [8 jan 2026 nr. 36](forskrift/2026-01-08-36).
 
 ## Vedlegg III
 Liste III – nasjonal liste (2025)
+
+For å lese vedlegg III se her: [pdf-fil](static/SF/sf-20130619-0718-03-03.pdf).
 
 > Tilføyd ved forskrift [2 okt 2024 nr. 2386](forskrift/2024-10-02-2386) (i kraft 1 nov 2024), endret ved forskrifter [4 nov 2024 nr. 2898](forskrift/2024-11-04-2898), [8 jan 2026 nr. 36](forskrift/2026-01-08-36).

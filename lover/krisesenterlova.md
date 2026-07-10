@@ -138,6 +138,8 @@ Kongen kan gi forskrifter om bruken av lova på Svalbard og har høve til å fas
 
 Lova blir sett i kraft frå den tid Kongen bestemmer.1 Departementet kan i forskrift gi nærmare overgangsreglar.
 
+1 Frå 1 jan 2010 iflg. [res. 4 sep 2009 nr. 1155](forskrift/2009-09-04-1155).
+
 ## § 12. Endring i anna lovgjeving
 
 Med verknad frå ikraftsetjinga av lova gjer ein denne endringa i anna lovgjeving: – – –

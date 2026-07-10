@@ -64,3 +64,5 @@ Departementet kan ved forskrift gi nærmare reglar til gjennomføring og utfylli
 ## § 8.
 
 Kongen fastset kva tid lova skal ta til å gjelda.1
+
+1 Frå 16 juni 1994 iflg. [res. 16 juni 1994 nr. 481](forskrift/1994-06-16-481).

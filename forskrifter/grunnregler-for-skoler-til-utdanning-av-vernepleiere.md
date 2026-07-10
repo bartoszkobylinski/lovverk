@@ -83,7 +83,16 @@ Undervisningen er gratis, men studenten betaler selv de øvrige omkostningene. D
 
 ## § 10. Rammeplan for utdanningen.
 
-Undervisningen fordeler seg slik:Praksisundervisning2.000 timerTeoretisk undervisning1.680 timer---------------Sum3.680 timer
+Undervisningen fordeler seg slik:
+
+|  |  |
+| --- | --- |
+| Praksisundervisning | 2.000 timer |
+| Teoretisk undervisning | 1.680 timer |
+|  | --------------- |
+| Sum | 3.680 timer |
+
+*A. Teoretisk undervisning.*
 
 1. *Vernepleie:  ca. 40 %*Vernepleie er et yrkesrettet metodefag som primært skal sette studentene i stand til å ivareta en helhetlig og kontinuerlig omsorgs- og opplæringsfunksjon i forhold til psykisk utviklingshemmede. Dette innebærer bl.a. at studentene blir dyktiggjorte til å imøtekomme klientens behov for opplæring/aktivisering, generell sykepleie, tilrettelegging av miljøet og koordinering av tiltak.De andre fagområdene (støttefagene) forutsettes integrert i vernepleierfaget. Praksisundervisningen er en videreføring og utdyping av vernepleiefaget.
 2. *Medisinske fag:  ca. 20 %*Støttefag som bl.a. skal gi studentene grunnlag for å forstå årsaksforhold ved funksjonsvansker og forutsetninger for å kunne delta i forebyggende helsearbeid, medisinsk/medikamentell behandling og rehabilitering.
@@ -91,8 +100,12 @@ Undervisningen fordeler seg slik:Praksisundervisning2.000 timerTeoretisk undervi
 4. *Samfunnsfag og lovgivning:  ca. 15 %*Støttefag som skal gi studentene forståelse for de systemer og den samfunnsmessige sammenheng de skal arbeide i. Dette innebærer bl.a. forståelse for og orientering om sosiologiske begreper og metode, helsepolitikk/helseplanlegging, forvaltning, administrasjon og helse/sosiallovgivning.
 5. *Til disposisjon:  ca. 5 %*
 
+*B. Praktisk undervisning.*
+
 1. *Obligatoriske praksisområder.*Helsevern for psykisk utviklingshemmede (HVPU)Omsorgen for psykisk utviklingshemmedeHovedtyngden av praksis forutsettes gitt innen HVPU.
 2. *Valgfritt praksisområde.*Det valgfrie området kan utgjøre ca. 1/6 av praksistiden.Ett av de ovennevnte praksisområder må gi praksis innen medisinsk (somatisk) behandling og pleie og utgjøre minst 1/6 av praksistiden.
+
+*C. Skoleplanens innhold, undervisningsmetoder.*
 
 I henhold til rammeplanen fastsettes det teoretiske og praktiske innhold i semestrene av den enkelte skole.
 

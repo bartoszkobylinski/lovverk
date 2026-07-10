@@ -482,6 +482,10 @@ Denne loven trer i kraft fra den tid1 Kongen bestemmer.
 
 Bestemmelsene i loven gjelder også krav som har oppstått før loven trådte i kraft.
 
+1 Fra 1 jan 1993 iflg. [res. 23 okt 1992 nr. 766](forskrift/1992-10-23-766).
+
 ### § 8-2. Endringer i andre lover
 
 Fra den tid1 loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+1 Fra 1 jan 1993 iflg. [res. 23 okt 1992 nr. 766](forskrift/1992-10-23-766).

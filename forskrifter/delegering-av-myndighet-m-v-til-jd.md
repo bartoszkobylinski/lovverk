@@ -30,6 +30,8 @@ eu_basis: []
 
 Kongens myndighet etter §§ 5, 6, 7, 8, 9, 10, 11, 12, 14, 17, 19, 22, 23, 24, 25, 26, 37, 42, 43, 45, 48, 49 og 50 i utlendingsloven, herunder til å supplere og endre [utlendingsforskriften,](forskrift/1990-12-21-1028/§5) delegeres til Justis- og politidepartementet.1 Justis- og politidepartementet gis også myndighet til å sette § 93 i kraft.
 
+1 Delegeringsvedtak opphevet fra 29 april 2005, jf. [forskrift 29 april 2005 nr. 378](forskrift/2005-04-29-378).
+
 ## III.
 
 Med hjemmel i [forvaltningslovens §§ 24](lov/1967-02-10/§24) fjerde ledd og 28 tredje ledd bestemmes at forvaltningslovens regler om at enkeltvedtak skal grunngis og kan påklages, ikke gjelder for vedtak om utplassering av asylsøkere i mottak etter forskriftens § 59, jf. § 60. Vedtak etter § 59 tredje ledd skal likevel grunngis.

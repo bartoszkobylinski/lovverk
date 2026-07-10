@@ -198,6 +198,8 @@ Departementet kan gi forskrift om etablering av en klagenemnd for behandling av 
 
 Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 jan 2022 iflg. [res. 3 sep 2021 nr. 2653](forskrift/2021-09-03-2653).
+
 ### § 24. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

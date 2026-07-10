@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om plasstjeneste (BSL E 4-2)
 
+Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:Vedlegg 1) Innhold i banerapport.Vedlegg 2) Merking av midlertidig flyttet terskel, stengt rullebane og stengt taksebane.
+
 ## § 1. Formål
 
 Forskriftens formål er å forebygge luftfartsuhell som skyldes mangler ved drift og vedlikehold av ferdselsområdet, sikkerhetsområdene, hinderfriheten, skilt og merking på en flyplass.
@@ -206,43 +208,101 @@ Vedlegget er en del av forskrift om plasstjeneste (BSL E 4-2).
 
 Resultatet av observasjoner og målinger av forholdene på ferdselsområdet skal umiddelbart nedtegnes i en banerapport. Rapporten skal inneholde data i den form, rekkefølge og detalj som angitt i dette vedlegget.
 
+*A – Flyplassindikator*
+
 Flyplassens ICAO-indikator (4 bokstaver). Eksempel: ENBR (Bergen lufthavn, Flesland)
 
+*B – Tidspunkt for observasjon og måling*
+
 Tidspunktet angis som årstall (4 siffer) strek – måned, dag UTC-tid (8 siffer). Eksempel: 2001-11230825. Dersom friksjonsnivå skal måles, angis tidspunktet for påbegynt måling.
+
+*C – Rullebane*
 
 Laveste rullebanenummer (2 siffer).
 
 Hver rullebaneretning skal rapporteres med eget rullebanenummer. Uavhengig av hvilken av disse rullebaner som er i bruk, skal banerapporten alltid angi det laveste nummeret.
 
+*D – Ryddet rullebanelengde*
+
 Dersom ryddet og preparert rullebanelengde er mer enn 10% kortere enn kunngjort startrulledistanse (TORA), skal ny rullebanelengde rapporteres i hele meter.
+
+*E – Ryddet rullebanebredde*
 
 Dersom ryddet og preparert rullebanebredde er mer enn 10% smalere enn kunngjort bredde, skal ny rullebanebredde rapporteres i hele meter. Redusert rullebanebredde skal alltid være symmetrisk om senterlinjen.
 
-Overflaten på rullebanen beskrives med en kode/tallkode for hver tredjedel av rullebanen sett fra terskel med laveste banenummer. Rubrikken skal alltid fylles ut, og følgende kode/tallkode skal benyttes:NIL– Ren og tørr bane5– Våt snø1– Fuktig bane6– Slaps2– Våt bane7– Is3– Rim (vanligvis mindre enn 1 mm)8– Kompakt eller fast snødekke4– Tørr snø9– Frosne hjulspor eller kanter
+*F – Rullebanens overflate*
+
+Overflaten på rullebanen beskrives med en kode/tallkode for hver tredjedel av rullebanen sett fra terskel med laveste banenummer. Rubrikken skal alltid fylles ut, og følgende kode/tallkode skal benyttes:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| NIL | – Ren og tørr bane | 5 | – Våt snø |
+| 1 | – Fuktig bane | 6 | – Slaps |
+| 2 | – Våt bane | 7 | – Is |
+| 3 | – Rim (vanligvis mindre enn 1 mm) | 8 | – Kompakt eller fast snødekke |
+| 4 | – Tørr snø | 9 | – Frosne hjulspor eller kanter |
 
 Flere tall skal kombineres dersom dette er nødvendig for å beskrive forholdene. Hvis samme del av rullebanen er dekket med flere typer belegg, angis disse i rekkefølge fra overflaten og nedover. Ytterligere beskrivelser angis om nødvendig i rubrikk T.
 
-Følgende kombinasjoner kan brukes:– 27– 67– 579– 28– 68– 589– 29– 69– 679– 37– 78– 689– 38– 79– 789– 39– 87– 879– 47– 89– 48– 279– 49– 379– 57– 389– 58– 479– 59– 489
+Følgende kombinasjoner kan brukes:
+
+|  |  |  |
+| --- | --- | --- |
+| – 27 | – 67 | – 579 |
+| – 28 | – 68 | – 589 |
+| – 29 | – 69 | – 679 |
+| – 37 | – 78 | – 689 |
+| – 38 | – 79 | – 789 |
+| – 39 | – 87 | – 879 |
+| – 47 | – 89 |  |
+| – 48 | – 279 |  |
+| – 49 | – 379 |  |
+| – 57 | – 389 |  |
+| – 58 | – 479 |  |
+| – 59 | – 489 |  |
+
+*G – Gjennomsnittlig dybde*
 
 Dersom det rapporteres løs snø og/eller slaps i rubrikk F, skal gjennomsnittlig dybde på snøen eller slapset rapporteres for hver tredjedel av rullebanen, sett fra terskel med laveste banenummer. Dybden rapporteres i millimeter i intervaller på 8 mm for tørr snø, 6 mm for våt snø, og 3 mm for slaps, og avrundes oppover.
+
+*H – Friksjonsnivå*
 
 Friksjonsnivået på rullebanen kan rapporteres som målt eller anslått. Dersom bakketjenesten ikke kan innestå for friksjonsnivået eller forholdene er utenfor gyldighetsområdet til friksjonsmåleren, skal tallet 9 rapporteres.
 
 Målt friksjonsnivå kan bare rapporteres når forholdene er innenfor gyldighetsområdet til friksjonsmåleren. Målt friksjonsnivå rapporteres for hver tredjedel av rullebanen sett fra terskel med laveste banenummer, og angis med 2 siffer (0 og desimalkomma utelates), etterfulgt av forkortelsen for friksjonsmåleren. Aksepterte friksjonsmålere og tilhørende gyldighetsområder er kunngjort i AIP Norge AD 1.2.
 
-Anslått friksjonsnivå rapporteres for hver tredjedel av rullebanen sett fra terskel med laveste banenummer, og rapporteres med ett siffer etter følgende skala:5GodTilsvarer friksjonstall 0,40 og høyere4Middels godTilsvarer friksjonstall 0,36 – 0,393MiddelsTilsvarer friksjonstall 0,30 – 0,352Middels dårligTilsvarer friksjonstall 0,26 – 0,291DårligTilsvarer friksjonstall 0,25 og lavere9Kan ikke anslås
+Anslått friksjonsnivå rapporteres for hver tredjedel av rullebanen sett fra terskel med laveste banenummer, og rapporteres med ett siffer etter følgende skala:
+
+|  |  |  |
+| --- | --- | --- |
+| 5 | God | Tilsvarer friksjonstall 0,40 og høyere |
+| 4 | Middels god | Tilsvarer friksjonstall 0,36 – 0,39 |
+| 3 | Middels | Tilsvarer friksjonstall 0,30 – 0,35 |
+| 2 | Middels dårlig | Tilsvarer friksjonstall 0,26 – 0,29 |
+| 1 | Dårlig | Tilsvarer friksjonstall 0,25 og lavere |
+| 9 | Kan ikke anslås |  |
+
+*J – Kritiske snøkanter*
 
 Benyttes ikke.
 
 Kritiske snøkanter er ikke tillatt verken på eller ved siden av en rullebane som er åpen for trafikk.
 
+*K – Rullebanekantlys*
+
 Benyttes ikke.
 
 Tildekkede rullebanekantlys er ikke tillatt på rullebane som er åpen for trafikk.
 
+*L – Fortsatt brøyting*
+
 Dersom fortsatt brøyting og preparering vil øke rullebanelengden og/eller rullebanebredden i forhold til tallene angitt i rubrikk D eller E, skal ny lengde og/eller bredde oppgis i hele meter. Dersom det ved fortsatt brøyting oppnås full lengde og bredde på rullebanen, angis dette med «TOTAL».
 
+*M – Avsluttet brøyting*
+
 Antatt tidspunkt for avslutning av brøyting og preparering skal angis i måned og dag, UTC-tid (8 siffer).
+
+*N – Taksebanenes overflate*
 
 Overflaten på alle taksebaner som er åpne for trafikk, skal rapporteres med samme kode/tallkode som brukes for rullebanen, jf. rubrikk F.
 
@@ -250,9 +310,13 @@ Eksempel:TWY A – NILTWY B – 4
 
 Stengt taksebane rapporteres med «CLOSED».
 
+*P – Snøkanter langs taksebanene*
+
 Dersom det er snøkanter høyere enn 30 cm langs en taksebane som er åpen for trafikk, angis taksebane, YES, etterfulgt av avstanden mellom kantene i hele meter. Dersom det bare er snøkanter på én side, angis avstanden mellom snøkantene og motstående banekant.
 
 Eksempel: TWY A – YES – 22
+
+*R – Oppstillingsplattformenes overflate*
 
 Overflaten på alle oppstillingsplattformer som er åpne for trafikk, skal rapporteres med samme kode/tallkode som brukes for rullebanen, jf. rubrikk F.
 
@@ -260,13 +324,19 @@ Eksempel:APRON TERMINAL – 2APRON GA – 6
 
 Stengt oppstillingsplattform rapporteres med «CLOSED».
 
+*S – Ny banerapport*
+
 Forventet tidspunkt for ny banerapport skal angis i måned, dato, UTC-tid (8 siffer). Ny banerapport skal uansett utarbeides dersom det oppstår signifikante endringer i forhold til siste rapport. Signifikante endringer har oppstått dersom ett eller flere av følgende forhold observeres eller måles, jf. punktene foran i vedlegget:*D – Ryddet rullebanelengde*Ryddet rullebanelengde har endret seg mer enn 10% av kunngjort TORA.*E – Ryddet rullebanebredde*Ryddet rullebanebredde har endret seg mer enn 10% av kunngjort rullebanebredde.*F – Rullebanens overflate*Forholdene har endret seg slik at ny kode er nødvendig på minst en av tredjedelene.*G – Gjennomsnittlig dybde*Gjennomsnittlig dybde på minst en av tredjedelene har endret seg slik at ny dybde må rapporteres.*H – Friksjonsnivå*Forholdene på minst en av tredjedelene har endret seg slik at:der det var målt friksjonsnivå er forholdene nå utenfor gyldighetsområdet for friksjonsmåleren.målt friksjonsnivå har endret seg med 5 eller flere sifferverdieranslått friksjonsnivå har endret seg med 1 eller flere sifferverdier.*N – Taksebanenes overflate*Forholdene har endret seg slik at ny kode er nødvendig på minst en av taksebanene.*P – Snøkanter langs taksebanene*Snøkanter over 30 cm har oppstått eller høyden på angitte snøkanter er redusert til under 30 cm eller avstanden mellom angitte snøkanter er endret med 1 meter eller mer.*R – Oppstillingsplattformens overflate*Forholdene har endret seg slik at ny kode er nødvendig på minst en av oppstillingsplattformene.*T – Tekstmerknader**Ikke ryddet del av rullebanen*Rubrikk D er endret.*Dekke på rullebanen*Ny prosentdel er nødvendig på en tredjedelene (10%, 25%, 50%, 100%).*Preparering av rullebane*Endring fra YES til NO eller omvendt for minst et av alternativene.*Merking på snø*Endring fra YES til NO eller omvendt.*Banetemperatur*En av sensorene har endret seg mer enn 2.*Merknader*Enhver endring som anses vesentlig ut fra erfaring eller lokale prosedyrer.
 
-Følgende format benyttes:*Ikke ryddet del av rullebanen*Dersom rubrikk D er utfylt, skal differensen mellom kunngjort TORA og angitt lengde i rubrikk D rapporteres i hele meter.*Dekke på rullebanen*Størrelsen på den del av rullebanen som er dekket med snø, slaps, is etc. skal for hver tredjedel av banen rapporteres som i følgende tabell:10%Hvis inntil 10% er dekket25%Hvis 11-25% er dekket50%Hvis 26-50% er dekket100%Hvis 51-100% er dekketEksempel: 1: 20%. 2: 50%. 3: 50%.*Preparering av rullebane*Sanding:YES eller NO.De-icing:YES eller NO. Hvis YES angi enten solid, liquid eller urea.Anti-icing:YES eller NO.Eksempel: Sanding: NO. De-icing: YES liquid. Anti-icing: NO.*Merking på snø*Rapporter YES eller NO. Hvis YES oppgi hva som er merket; CL, TCL, R Edge, TH.Eksempel: YES: CL, TH*Banetemperatur*Kan rapporteres. Dersom flere sensorer benyttes, rapporteres temperaturene i rekkefølge fra laveste terskelnummer.*Merknader*Beskriv med ord enhver endring som anses vesentlig ut fra erfaring eller lokale prosedyrer.
+*T – Tekstmerknader*
+
+Følgende format benyttes:*Ikke ryddet del av rullebanen*Dersom rubrikk D er utfylt, skal differensen mellom kunngjort TORA og angitt lengde i rubrikk D rapporteres i hele meter.*Dekke på rullebanen*Størrelsen på den del av rullebanen som er dekket med snø, slaps, is etc. skal for hver tredjedel av banen rapporteres som i følgende tabell:10%Hvis inntil 10% er dekket25%Hvis 11-25% er dekket50%Hvis 26-50% er dekket100%Hvis 51-100% er dekketEksempel: 1: 20%. 2: 50%. 3: 50%.*Preparering av rullebane* Sanding:YES eller NO.De-icing:YES eller NO. Hvis YES angi enten solid, liquid eller urea.Anti-icing:YES eller NO.Eksempel: Sanding: NO. De-icing: YES liquid. Anti-icing: NO.*Merking på snø*Rapporter YES eller NO. Hvis YES oppgi hva som er merket; CL, TCL, R Edge, TH.Eksempel: YES: CL, TH*Banetemperatur*Kan rapporteres. Dersom flere sensorer benyttes, rapporteres temperaturene i rekkefølge fra laveste terskelnummer.*Merknader*Beskriv med ord enhver endring som anses vesentlig ut fra erfaring eller lokale prosedyrer.
 
 ## Vedlegg 2
 
 Vedlegget er en del av forskrift om plasstjeneste (BSL E 4-2).
+
+*Merking av midlertidig flyttet terskel, stengt rullebane og stengt taksebane*
 
 ## Veiledende materiale til forskrift 27. april 2004 nr. 670 om plasstjeneste (BSL E 4-2)
 
@@ -330,75 +400,171 @@ Merking av snødekte områder bør utføres ved farging på snøen. Kvister, kje
 
 ### Del 2. Akseptabel minstestandard
 
+1.*Generelt*
+
+1.1
+
 Forskrift om plasstjeneste inneholder formuleringer som tilsier utøvelse av skjønn. Eksempler på slikt skjønn er formuleringer som «tilstrekkelig» og «som nødvendig». Skjønnet må både utøves av den som skal etterleve forskriften og av luftfartsmyndigheten som skal føre tilsyn. Dersom det oppstår uenighet er det den myndighet som har fastsatt forskriften, dvs. Luftfartstilsynet, som avgjør skjønnsutøvelsen.
+
+1.2
 
 Denne veiledningen skal gi flyplassoperatøren tilstrekkelig informasjon for en tilfredsstillende praktisering av forskriften. Veiledningen angir det sikkerhetsnivå Luftfartstilsynet vil legge til grunn for sin skjønnsutøvelse, og angir en akseptabel minstestandard.
 
+2.*Arbeider på flyplassområdet*
+
+2.1*Generelt*
+
+2.1.1
+
 Flyplassoperatøren bør være forberedt på at vedlikeholdsarbeider og andre anleggsarbeider krever spesiell planlegging og prosedyrer for gjennomføring.
+
+2.1.2
 
 Ved arbeider på ferdselsområdet, sikkerhetsområdene og tilstøtende områder gjelder i utgangspunktet kravene til jevnhet, bæreevne, hinderfrihet etc. i aktuelle forskrift om utformingStore flyplasser BSL E 3-2Små flyplasser BSL E 3-3Store helikopterplasser BSL E 3-5Små helikopterplasser BSL E 3-6.
 
 Med tilstøtende områder menes de områder som omfattes av flyplassens hinderflater og så langt ut at arbeidene kan medføre at hinderflatene blir gjennomtrengt av maskiner, jordvoller, konstruksjoner etc.
 
+2.1.3
+
 Arbeider som ikke berører ferdselsområdet og sikkerhetsområdene og som ikke gjennomtrenger noen av hinderflatene, kan som hovedregel gjennomføres uavhengig av lufttrafikken. Flyplassens brukere/fartøysjefer må imidlertid være informert om virksomheten. Det må påses at det ikke forekommer farlige og villedende lys og at navigasjonshjelpemidlene ikke påvirkes.
+
+2.1.4
 
 Som hovedregel bør arbeider i størst mulig grad legges opp slik at de pågår når det ikke er lufttrafikk, at områdene bringes i samsvar med utformingskravene, og at maskiner etc. flyttes slik at de ikke utgjør hinder når lufttrafikken gjenopptas.
 
 Små flyplasser og helikopterplasser og store flyplasser med liten trafikk bør vurderes stengt i hele tiden arbeidene pågår.
 
+2.2.*Planlegging*
+
+2.2.1
+
 Det bør utarbeides en plan for arbeidet i god tid før igangsetting. I vurderingen av hvor lang tid i forkant planen må utarbeides skal det bl.a. tas hensyn til flyoperatørenes behov for forhåndsinformasjon.
 
 For store flyplasser og andre flyplasser der det er krav om kvalitetssystem, bør det utarbeides en kvalitetsplan for arbeidene, jf. NS-EN-ISO-9001 pkt. 7.1.
 
+2.2.2
+
 For store flyplasser skal kvalitetsplanen for arbeidene behandles av flytryggingskomiteen, jf. BSL E 4-1 [§ 5](forskrift/2004-04-27-670/§5) tredje ledd bokstav c. For øvrige flyplasser, herunder helikopterplasser, bør det etableres en liknende komité. Komiteen bør ledes av flyplassjefen og flyoperatørenes representanter bør ha flyoperativ kompetanse.
+
+2.2.3
 
 I tillegg til flytryggingskomiteen bør det etableres et forum der anleggsleder og entreprenører deltar. Alternativt kan disse delta når flytryggingskomiteen behandler planen for arbeidene.
 
+2.2.4
+
 I planen for arbeidene bør inngå:Metoder for overvåking av forflytning og plassering av anleggsmaskiner (med og uten radioforbindelse).Tidstabell for arbeidene slik at disse i størst mulig grad kan henlegges til perioder med liten eller ingen lufttrafikk, dersom total stenging ikke er mulig.Plassering av jordvoller, byggemateriell og utstyr.Opprydning etter arbeidene før lufttrafikken gjenopptas.
+
+2.3*Risikoanalyse*
+
+2.3.1
 
 I den grad arbeidene på store flyplasser medfører avvik fra kravene til utforming i BSL E 3-2 mens lufttrafikk pågår, må det gjennomføres en risikoanalyse. Ved store flyplasser skal det gjennomføres risikoanalyse for alle faste og bevegelige objekter som utgjør hinder, jf. BSL E 3-2.
 
+2.3.2
+
 Også for andre flyplasser bør det gjennomføres en risikoanalyse eller en gjennomgang basert på samme metodikk. Hensiktsmessig metodikk er beskrevet i NS-5814 Krav til risikoanalyser.
+
+2.4*Gjennomføring*
+
+2.4.1*Generelt*
+
+2.4.1.1
 
 Som hovedregel bør alle arbeider gjennomføres slik at kravene til utforming og bakketjeneste til enhver tid blir etterlevd. Dersom dette ikke lar seg gjøre, bør arbeidene gjennomføres så raskt som mulig, og de berørte områdene snarest bringes i samsvar med utformingskravene. Spesiell oppmerksomhet må rettes mot jord, stein og lignende som kan komme inn på ferdselsområdene.
 
+2.4.2*Rullebane*
+
+2.4.2.1
+
 En rullebane bør være stengt i den tiden det pågår arbeider. Se BSL E 4-2 [§ 17](forskrift/2004-04-27-670/§17) for merking av en stengt rullebane.
+
+2.4.2.2
 
 Det kan pågå arbeider på en del av en rullebane dersom den gjenværende delen tilfredsstiller kravene i aktuell forskrift om utforming, jf. pkt. 1.2 over. Dersom det er aktuelt å tillate trafikk på gjenværende del med for eksempel små fly eller helikopter, og i den forbindelse legge kravene i annen utformingsforskrift til grunn, må forholdet godkjennes av Luftfartstilsynet, jf. BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) fjerde ledd bokstav a.
 
+2.4.2.3
+
 Dersom det skal pågå arbeider på en del av rullebanen samtidig med trafikk på den gjenværende delen, må kravene til sikkerhetsområdet og hinderfrihet tilfredsstilles: plassering av terskel og baneende, inn- og utflygingsflater. Se BSL E 4-2 [§ 16](forskrift/2004-04-27-670/§16) for merking av midlertidig flyttet terskel.
+
+2.4.3*Øvrige deler av ferdselsområdet*
+
+2.4.3.1
 
 Det kan pågå arbeider på taksebane, avisingsplattform eller oppstillingsplattform samtidig med lufttrafikk. Ubrukbare områder og midlertidige hinder skal merkes, jf. henholdsvis BSL E 4-2 [§ 19](forskrift/2004-04-27-670/§19) og BSL E 4-1 [§ 8](forskrift/2004-04-27-670/§8) tredje ledd. Senterlinjer og ledelinjer må legges om dersom det er nødvendig for å sikre tilstrekkelig klaring til hindringer. Merk at kravene til bredde på taksebane relatert til luftfartøyets størrelse gjelder også ved kortvarige arbeider på taksebane som ikke er stengt.
 
+2.4.4*Sikkerhetsområdene*
+
+2.4.4.1
+
 Som hovedregel bør arbeider på sikkerhetsområdene, også taksebanesikkerhetsområdene, bare pågå når det ikke er lufttrafikk, og områdene bør i størst mulig utstrekning bringes i samsvar med utformingskravene før trafikken gjenopptas.
+
+2.4.4.2
 
 Dersom taksebanesikkerhetsområdene ikke er i samsvar med utformingskravene på grunn av arbeider, og det samtidig skal være trafikk på taksebanen, skal eventuelle hinder merkes, jf. BSL E 4-1 [§ 8](forskrift/2004-04-27-670/§8) tredje ledd. Grøfter og andre forhold som medfører fare for luftfartøy ved utforkjøring bør merkes som ubrukbare, jf. BSL E 4-2 [§ 19](forskrift/2004-04-27-670/§19).
 
+3.*Vintervedlikehold*
+
+3.1*Generelt*
+
+3.1.1
+
 Flyging under vinterforhold stiller store krav til operatørene. Vinterstid er både vær- og siktforhold vanskeligere enn om sommeren, og kravene til utforming og vedlikehold av ferdselsområdet og sikkerhetsområdene blir derfor minst de samme som om sommeren. Kravene til utforming av ferdselsområdet og sikkerhetsområdene fremgår av aktuell forskrift i BSL E 3-serien, mens kravene til vedlikehold fremgår av BSL E 4-2. Veiledning i vintervedlikehold fremgår dessuten av ICAO Doc 9137 Part 2 Pavement Surface Conditions.
+
+3.1.2
 
 Kravene til utforming av ferdselsområdet og sikkerhetsområdene fremgår av:Store flyplasser BSL E 3-2Små flyplasser BSL E 3-3Store helikopterplasser BSL E 3-5Små helikopterplasser BSL E 3-6.
 
+3.1.3
+
 Vintervedlikehold omfatter:Inspeksjoner, jf. BSL E 4-2 [§ 6](forskrift/2004-04-27-670/§6),Brøyting, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8), [§ 10](forskrift/2004-04-27-670/§10), [§ 12](forskrift/2004-04-27-670/§12) og [§ 13](forskrift/2004-04-27-670/§13),Preparering, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8),Rapportering, jf. BSL E 4-2 [§ 7](forskrift/2004-04-27-670/§7).
+
+3.1.4
 
 Vintervedlikeholdet skal utføres på en slik måte og i et slikt omfang at lufttrafikken kan avvikles trygt og sikkert, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8). Dessuten bør det være en målsetting at lufttrafikken opprettholdes i størst mulig grad.
 
+3.1.5
+
 Prosedyrer for vintervedlikeholdet, herunder konkrete krav til utførelse, skal behandles av flytryggingkomiteen, jf. BSL E 4-1 [§ 5](forskrift/2004-04-27-670/§5) tredje ledd. Det samme skal øvrige spørsmål og problemer omkring vintervedlikehold og trafikkavvikling. Når komiteen behandler konkrete krav til utførelse av vintervedlikeholdet, for eksempel til brøyting og preparering av rullebaner, forutsettes at de aktuelle flyoperatører har en flyoperativ representant i komiteen eller har avgitt skriftlige uttalelser som komiteen kan behandle. Slik kan flyplassoperatøren sikre at de flyoperative behov blir lagt til grunn for vintervedlikeholdet. Det kan være hensiktsmessig at en stor flyplassoperatør har en felles flytryggingskomité for flere flyplasser. En slik komité vil kunne ha større kompetanse og det vil kunne være enklere å få med flyoperative representanter.
+
+3.2*Prosedyrer for vintervedlikehold*
+
+3.2.1
 
 Leder av plasstjenesten skal utarbeide prosedyrer for vintervedlikehold, jf. BSL E 4-2 [§ 5](forskrift/2004-04-27-670/§5) første ledd bokstav a. Prosedyrene bør minst omfatte:Inspeksjoner under vinterforhold (dersom dette ikke er dekket av andre prosedyrer)Metoder for brøyting og preparering (bruk av maskiner, kjøremønstre etc.)Konkrete krav til brøyting og preparering av de enkelte områderPrioritering av områdene som skal brøytes og prepareres (brøytekart)Utforming av brøytekanter og plassering av snødeponierMerking av snødekte områder, brøytekanter m.m.Metoder for observasjon og måling av forholdene (kontaminering, dybder, friksjon etc.)Rapportering av forholdene.
 
+3.2.2
+
 Normalt brøytes og prepareres flyplassens forskjellige områder etter følgende prioritet:*Prioritet 1:*Rullebane i bruk.Adkomst for utrykningskjøretøyene til rullebane i bruk og utrykningsveier ut i innflygingssektorene.Taksebane mellom oppstillingsplattform og rullebane i bruk.Oppstillingsplattform/oppstillingsplass i bruk.Områder nødvendig for trafikkavviklingen, så som rundt navigasjons-, kommunikasjons- og lysanlegg, skilt og meteorologisk utstyr.*Prioritet 2:*Andre rulle- og taksebaner enn under prioritet 1.Andre oppstillingsplattformer/oppstillingsplasser. Andre områder, slik som veier og parkeringsplasser for kjøretøy.
+
+3.2.3
 
 Prosedyrene for vintervedlikehold kan i tillegg til krav til ferdig brøytet og preparerte områder, også inneholde krav til midlertidig brøyting/preparering. Det er viktig at slike reduserte krav, for eksempel til brøytet rullebanebredde, er basert på flyoperative behov og er utarbeidet i nært samarbeid med de aktuelle flyoperatørene, jf. pkt. 3.1.5 ovenfor om behandling i flytryggingskomiteen.
 
+3.3*Stenging*
+
+3.3.1
+
 Flyplassjefen skal stenge hele eller deler av ferdselsområdet under forhold som medfører risiko for lufttrafikken, jf. BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) femte ledd.
 
+3.3.2
+
 Rulle- og taksebaner hvor brøyting og preparering pågår kan ikke brukes av luftfartøyer. Områdene kan ikke gjenåpnes for trafikk før de tilfredsstiller de krav som er fastsatt for vinterforhold.
+
+3.3.3
 
 For store flyplasser skal prosedyrene for vintervedlikehold inneholde klare, konkrete krav til utførelse, og flyplassjefen eller den flyplassen har bemyndiget, skal ikke tillate trafikk på de deler av ferdselsområdet som ikke tilfredsstiller disse kravene, jf. BSL E 4-2 [§ 5](forskrift/2004-04-27-670/§5) fjerde ledd. Disse områdene må derfor holdes stengt.
 
 En stor flyplass er en flyplass som skal godkjennes for fly med største tillatte startmasse over 5700 kg eller som er godkjent for 10 eller flere passasjerseter.
 
+3.4*Brøyting*
+
+3.4.1*Rullebanene*
+
+3.4.1.1
+
 Snø, slaps og is skal fjernes fra rullebanene så hurtig som mulig, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8).
+
+3.4.1.2
 
 Brøyting av rullebaner utføres normalt sammenhengende i banens fulle lengde og bredde. Lys må ikke dekkes eller skjermes av snø.
 
@@ -406,47 +572,101 @@ Brøyting av rullebaner utføres normalt sammenhengende i banens fulle lengde og
 
 *Rullebanens bredde* følger av avstanden mellom kantlysene eller kantmerkingen. Dersom rullebanen bare skal brukes av fly med referansekode som ikke krever full bredde, kan brøyting reduseres til den rullebanebredde de aktuelle flyene trenger. Flyoperatøren/fartøysjefen er ansvarlig for å opplyse om hvilken rullebanebredde flyet trenger. Uansett gjelder minstekravene til rullebanebredde i BSL E 3-2. Den reduserte rullebanebredden må være symmetrisk om rullebanens senterlinje.
 
+3.4.1.3
+
 Brøytingen rundt og ved lys utføres slik at lysenes synlighet og styrke ikke påvirkes, jf. aktuell utformingsforskrift, jf. pkt. 1.2 over. Aktuelle lys er kantlys, terskel- og baneendelys og nedfelte lys. Se også pkt. 3.4.5.2 nedenfor.
+
+3.4.1.4
 
 På en ferdig brøytet rullebane skal det ikke ligge igjen snøkanter. Trafikk kan likevel tillates på en rullebane som helt eller delvis er dekket av snø eller is. Det vises til pkt. 3.1.4, 3.2.3 og 3.3.3 over om hvilke forutsetninger som da må være til stede.
 
+3.4.1.5
+
 Prinsippene som legges til grunn for brøyting av en rullebane gjelder også for start- og landingsområdet (FATO) og for settings- og løfteområdet (TLOF) på en helikopterplass.
+
+3.4.2*Taksebanene*
+
+3.4.2.1
 
 Taksebanene skal holdes fri for snø, slaps og is i den grad det er nødvendig for at luftfartøyene kan takse sikkert, BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8).
 
+3.4.2.2
+
 Prosedyrene som skal inneholde så klare og konkrete krav til brøytingen av taksebanene som mulig. Dette gjelder spesielt for store flyplasser. Se BSL E 4-2 [§ 5](forskrift/2004-04-27-670/§5) fjerde ledd.
+
+3.4.2.3
 
 Kravene til brøyting av taksebanene baseres på de enkelte luftfartøyers behov/ytelser. Flyoperatørene/fartøysjefene er ansvarlig for å opplyse om dette. Ved store flyplasser skal kravene behandles av flytryggingskomiteen som bør ha flyoperativ kompetanse, jf. pkt. 3.1.5 og 3.2.3 over.
 
+3.4.3*Oppstillingsplattformene*
+
+3.4.3.1
+
 Oppstillingsplattformene skal holdes så rene for snø, slaps og is at luftfartøyene kan manøvrere sikkert, og slik at de kan flyttes med traktor, se BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8).
+
+3.4.3.2
 
 Prosedyrene skal inneholde så klare og konkrete krav til brøytingen av oppstillingsplattformene som mulig. Dette gjelder spesielt for store flyplasser, se BSL E 4-2 [§ 5](forskrift/2004-04-27-670/§5) fjerde ledd.
 
+3.4.3.3
+
 Kravene til brøyting av oppstillingsplattformene baseres på de enkelte luftfartøyers behov/ytelser. Flyoperatørene/fartøysjefene er ansvarlig for å opplyse om dette. Ved store flyplasser skal kravene behandles av flytryggingskomiteen.
+
+3.4.4*Sikkerhetsområdene*
+
+3.4.4.1
 
 Snø på sikkerhetsområdene kan redde liv og begrense skadene på luftfartøy som går ut av rullebanen dersom den behandles riktig. Mangler ved bl.a. utstrekning og jevnhet på sikkerhetsområdene kan dels kompenseres med snø.
 
+3.4.4.2
+
 Overgangen mellom brøytet rullebane og sikkerhetsområdene bearbeides best mulig for å unngå skader på luftfartøyene. Snøen på sikkerhetsområdene behandles om nødvendig slik at den ikke kommer i konflikt med motorer, propellere og rotorer. Vinkelen på brøytekanten skal være minst mulig, og mindre enn 45° ved snødybde under 1 m. Ved større snømengder må kanten likevel slakkes av mer, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8). Snøen på sikkerhetsområdene bør aldri være dypere enn at det er en klaring på minst 30 cm til propellere/rotorer, og på minst 50 cm til jetmotorer. Klaringen måles når flyets ytterhjul står på banekanten.
+
+3.4.4.3
 
 Brøytekanter og snødybder på sikkerhetsområdene til taksebanene bearbeides best mulig for å unngå berøring med/skade på motorer, propellere og rotorer. Snøen på sikkerhetsområdene bør aldri være dypere enn at det er en klaring på minst 30 cm. Klaringen måles når flyets ytterhjul står på banekanten.
 
+3.4.5*Andre områder*
+
+3.4.5.1
+
 Snø som ikke brukes på sikkerhetsområdene, deponeres slik at den ikke gjennomtrenger noen av hinderflatene. Dette er særlig viktig for hinderflaten for de visuelle glidebaneanleggene (PAPI, APAPI, PLASI), jf. BSL E 3-2.
+
+3.4.5.2
 
 Områdene foran skilt og lysanlegg brøytes slik at anleggene er synlige fra et luftfartøy, jf. kravene til synlighet i aktuell utformingsforskrift, pkt. 1.2 over. Snøen på områdene foran visuelle glidebaneanlegg bearbeides slik at den ikke påvirker lysutstrålingen og innflygingslysene.
 
+3.4.5.3
+
 Områdene der utstyr for navigasjon, kommunikasjon, overvåking og meteorologisk tjeneste er plassert, brøytes om nødvendig. Krav til brøytingen utarbeides sammen med flynavigasjonstjenesten. I kritisk område for glidebanesender (GP) bør snøen ikke være dypere enn 10 cm i de første 100 m fra antennen, og ikke mer en 40 cm i resten av området. I kritisk område for retningsfyr (LLZ) bør snøen ikke være dypere enn 75 cm. Overganger mellom områdene jevnes, og brøytekanter bør ikke overstige 60 cm.
+
+3.5*Preparering*
+
+3.5.1*Rullebanene*
 
 Vedlikehold av overflaten på rullebanene skal sikre god friksjon, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8) andre ledd. For å bedre friksjonen brukes mekanisk behandling, sand/eller kjemikalier. På store flyplasser skal det om nødvendig brukes kjemikalier dersom det har positiv effekt, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8).
 
+3.5.2*Taksebanene og oppstillingsplattformene*
+
 Taksebanene og oppstillingsplattformene skal holdes fri for snø, slaps og is slik at luftfartøy kan manøvrere sikkert, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8). Dette kan skje ved å fjerne all kontaminering, eller ved å preparere fast snø og is. Prosedyrene skal angi ønsket til friksjonsnivå, jf. pkt. 3.1.5 og 3.2.1 over.
+
+3.5.3*Sand*
 
 Sand på rullebanen skal benyttes slik at den ikke påfører luftfartøyer skade, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8) første ledd. Sandkornene bør være mindre enn 4 mm («skal kunne passere 4 mm firkantsikt»).
 
+3.5.4*Kjemikalier*
+
 Bruk av kjemikalier som kan ha korroderende eller andre negative effekter på luftfartøyer og miljøet bør unngås, jf. BSL E 4-2 [§ 8](forskrift/2004-04-27-670/§8). Valg av kjemikalier baseres på en helhetsvurdering med sikkerhet som viktigste hensyn, jf. pkt. 3.1.5 over om behandling i flytryggingskomiteen.
+
+3.5.5*Prosedyrer*
 
 Prosedyrene for store flyplasser skal inneholde konkrete krav til preparering av de enkelte områdene, jf. BSL E 4-2 [§ 5](forskrift/2004-04-27-670/§5) og pkt. 3.1 over, for eksempel ved tallfesting av friksjonsnivå, jf. pkt. 3.6.4 nedenfor. Måling av friksjon med sikte på preparering kan gjennomføres selv om friksjonsnivået ikke kan rapporteres.
 
 Prosedyrene behandles av flytryggingskomiteen, jf. pkt. 3.1.5 over. Plasstjenestens leder er ansvarlig for at personellet har nødvendig kompetanse kompetanse til å kunne forstå og anvende prosedyrene.
+
+3.6*Rapportering*
+
+3.6.1*Generelt*
 
 Utfyllende og komplette opplysninger om baneforholdene er avgjørende for sikker flyging.
 
@@ -454,9 +674,15 @@ Plasstjenesten skal derfor rapportere alle opplysninger om forholdene på ferdse
 
 Ved øvrige flyplasser må behovet for opplysninger avklares med aktuelle flyoperatører/flygere.
 
+3.6.2*Banerapport*
+
 Banerapporten skal utformes i henhold til kravene i vedlegg 1 til BSL E 4-2. Den lokale prosedyren skal gi nærmere anvisning på hvordan rapporteringen skal skje. Dataene skal oppbevares i minst to år. Ny rapport skal utarbeides hver gang ett eller flere av de forholdene som skal rapporteres har endret seg signifikant, jf. spesifikasjonene i vedlegg 1.
 
+3.6.3*Måling av snødybder*
+
 Gjennomsnittsdybden på dekket av løs snø og slaps som rapporteres i rapportens rubrikk F, skal rapporteres i rubrikk G. Dybden på eventuelt dekke av kompakt snø eller is skal ikke rapporteres. Den lokale prosedyren skal angi metode for og nøyaktighet på målingene.
+
+3.6.4*Måling av friksjon*
 
 Dersom banerapporten skal inneholde målt friksjonsnivå, må følgende forutsetninger være til stede:Rullebanen må være brøytet til forholdene er innenfor gyldighetsområdet til friksjonsmåleren.Dersom det snør, må hele rullebanen være innenfor gyldighetsområdet før den gjenåpnes, og det må ikke snø så mye at friksjonsnivået har endret seg signifikant.
 

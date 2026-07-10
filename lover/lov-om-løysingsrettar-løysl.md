@@ -194,6 +194,8 @@ Lova gjeld ikkje for løysingsrettar der løysingskrav er framsett før lova har
 
 Føresegnene om lengstetid i [§ 6](lov/1994-12-09-64/§6) gjeld såleis at løysingsrett tidlegast fell bort 20 år etter at lova har teke til å gjelde.
 
+1 Frå 1 juli 1995 iflg. [res. 9 des 1994 nr. 1078](forskrift/1994-12-09-1078).
+
 ## § 24. Endringar i andre lover
 
 Frå den tida lova tek til å gjelde, skal fylgjande føresegner i andre lover endrast slik: – – –

@@ -1078,6 +1078,8 @@ Departementet kan gjøre tidsavgrensede unntak fra denne loven med forskrifter i
 
 Loven trer i kraft fra den tiden1 Kongen bestemmer. Samtidig oppheves [lov 1. april 2005 nr. 15 om universiteter og høyskoler](lov/2005-04-01-15). Kongen kan sette i kraft de ulike reglene til ulik tid.
 
+1 Fra 1 aug 2024 iflg. [res. 8 mars 2024 nr. 407](forskrift/2024-03-08-407).
+
 ### § 17-3. Overgangsregler
 
 Forskrifter og enkeltvedtak som er fastsatt med hjemmel i regler som blir opphevet eller endret med denne loven, gjelder til departementet fastsetter noe annet. Departementet kan gi forskrift med overgangsregler.
@@ -1087,6 +1089,8 @@ Forskrifter og enkeltvedtak som er fastsatt med hjemmel i regler som blir opphev
 Fra lovens ikrafttredelse gjøres følgende endringer i andre lover: – – –
 
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-lenke](static/NL/nl-20240308-009-01-01.pdf).
 
 > Oversettelsen av universitets- og høyskoleloven er levert av Kunnskapsdepartementet. Oversettelsen er à jour per 1. august 2025.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

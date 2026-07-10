@@ -298,8 +298,12 @@ Loven får bare virkning for markedsføringstiltak og betalinger foretatt etter 
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324), tidligere § 43).
 
+1 Fra 20 juni 2014 iflg. [res. 20 juni 2014 nr. 776](forskrift/2014-06-20-776).
+
 ### § 31. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:[Lov 21. desember 2000 nr. 105](lov/2000-12-21-105) om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted oppheves.
+
+– – –
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324), tidligere § 44).

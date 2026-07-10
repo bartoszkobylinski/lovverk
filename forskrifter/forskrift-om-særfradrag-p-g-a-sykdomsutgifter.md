@@ -34,6 +34,8 @@ Statsforvalteren avgjør om følgende vilkår er oppfylt:om behandling m.v. har 
 
 > Endret ved [forskrifter 1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
 
+1 Det vises til forskrift om ligningsbehandlingen ved særfradrag etter [skatteloven § 6-82](lov/1999-03-26-14/§6-82) og [§ 6-83](lov/1999-03-26-14/§6-83). fastsatt ved [kgl.res. 5 feb 1988 nr. 121](forskrift/1988-02-05-121) med hjemmel i [ligningslovens § 3-14](lov/1980-06-13-24/§3-14).
+
 ## § 3.
 
 Som behandling gitt utenfor offentlig helse- og sosialvesen anses:Behandling, pleie eller opphold ved private helseinstitusjoner som ikke er drevet av det offentlige og som heller ikke er tatt med på offentlige helseplaner eller på annen måte drevet for offentlig regning,behandling m.v. som bare gir rett til stykkprisrefusjon, herunder tjenester som gis ved private medisinske røntgeninstitutter og laboratorier som ikke står i offentlig helseplan,behandling m.v. gitt av privatpraktiserende helsepersonell som ikke har avtale med fylkeskommune eller kommune,behandling gitt i utlandet uten offentlig bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat,behandling gitt på rekonvalesenthjem og liknende helseinstitusjoner som ikke står i offentlig helseplan og hvor det ikke ytes bidrag etter [folketrygdlovens § 2-13](lov/1997-02-28-19/§2-13) eller direkte fra kommune eller stat.

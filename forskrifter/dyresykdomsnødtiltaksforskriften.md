@@ -96,4 +96,16 @@ Denne forskrift trer i kraft straks.
 
 ## Forordninger og beslutninger
 
+For å finne oppdatert versjon av forordningene og beslutningene gjennomført i denne forskriften, vises det til lenker gitt på Mattilsynets nettsider.
+
+Beskyttelses- og bekjempelsestiltak mot afrikansk svinepest ([§ 2-1](forskrift/2021-05-05-1407/§2-1)) jf. forordning [(EU) 2023/594](eu/32023*0594) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/afrikansk-svinepest/tiltak-fra-eu-kommisjonen-mot-afrikansk-svinepest](https://www.mattilsynet.no/dyr/dyresykdommer/afrikansk-svinepest/tiltak-fra-eu-kommisjonen-mot-afrikansk-svinepest)
+
+Beskyttelses- og bekjempelsestiltak mot klassisk svinepest ([§ 2-2](forskrift/2021-05-05-1407/§2-2)) jf. forordning [(EU) 2021/934](eu/32021*0934) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/klassisk-svinepest/hva-gjores-for-a-bekjempe-klassisk-svinepest-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/klassisk-svinepest/hva-gjores-for-a-bekjempe-klassisk-svinepest-i-europa)
+
+Nødtiltak mot høypatogen fugleinfluensa [(§ 3-1)](forskrift/2021-05-05-1407/§3-1) jf. beslutning [(EU) 2023/2447](eu/32023d2447) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/fugleinfluensa/bekjempe-fugleinfluensa-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/fugleinfluensa/bekjempe-fugleinfluensa-i-europa).
+
+Nødtiltak mot liten kubebille ([§ 3-2](forskrift/2021-05-05-1407/§3-2)) jf. beslutning [(EU) 2023/110](eu/32023*0110) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/liten-kubebille/hva-gjores-for-a-bekjempe-liten-kubebille-i-europa](https://www.mattilsynet.no/dyr/dyresykdommer/liten-kubebille/hva-gjores-for-a-bekjempe-liten-kubebille-i-europa)
+
+Nødtiltak mot munn- og klauvsjuke ([§ 3-3](forskrift/2021-05-05-1407/§3-3)) jf. beslutning [(EU) 2022/575](eu/32022*0575) med endringer: [https://www.mattilsynet.no/dyr/dyresykdommer/munn-og-klauvsyke/hva-gjores-for-a-hindre-introduksjon-av-munn-og-klauvsjuke-til-europa](https://www.mattilsynet.no/dyr/dyresykdommer/munn-og-klauvsyke/hva-gjores-for-a-hindre-introduksjon-av-munn-og-klauvsjuke-til-europa)
+
 > Rettet uten kunngjøring i Norsk Lovtidend 7. februar 2023, endret ved forskrift [[20 april 2023 nr. 524](forskrift/2023-04-20-524)](forskrift/2023-04-20-524) (i kraft 21 april 2023), rettet uten kunngjøring i Norsk Lovtidend 1 juni 2023, endret ved forskrifter [14 aug 2023 nr. 1321](forskrift/2023-08-14-1321), [31 okt 2023 nr. 1746](forskrift/2023-10-31-1746) (i kraft 1 nov 2023), [13 aug 2025 nr. 1641](forskrift/2025-08-13-1641) (i kraft 14 aug 2025).

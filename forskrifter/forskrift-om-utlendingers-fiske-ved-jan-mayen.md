@@ -76,13 +76,55 @@ Fartøy som nevnt i [§ 1](forskrift/1999-12-21-1396/§1) skal sende de meldinge
 
 Slike meldinger kan sendes elektronisk via flaggstatens bakkestasjon eller pr. telefaks til Fiskeridirektoratet.
 
+*a) Melding om fiskestart*
+
 Melding om fiskestart skal sendes tidligst 12 timer og senest 6 timer før inngang til sonen.
 
 Meldingen skal inneholde følgende opplysninger:
 
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Innhold* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COE, Melding om fiskestart |
+| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Posisjon bredde | LA | P | Posisjon bredde for fiskestart, NDDMM |
+| Posisjon lengde | LO | P | Posisjon lengde for fiskestart, E/WDDDMM |
+| Kvantum om bord | OB | K | Fangst om bord fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Fangstområde | RA | P | ICES-område der fisket skal starte |
+| Sone | ZO | P | Sone der fisket skal starte (ISO-3) |
+| Dato | PD | P | Dato for fiskestart i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P | Tidspunkt for fiskestart i UTC (TTMM) |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Påkrevd ved elektroniske meldinger.
+
+*b) Fangstmelding*
+
 Fangstmelding skal sendes ved overgang til fiske i annet ICES-område, og ellers ukentlig, ved utløpet av hver sjuende dag etter fiskestart.
 
 Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Innhold* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | CAT, Fangstmelding |
+| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Posisjon lengde | LA | P2 | Posisjon lengde på meldingstidspunktet |
+| Posisjon bredde | LO | P2 | Posisjon bredde på meldingstidspunktet |
+| Fangst | CA | P | Fangst siden forrige COE- eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Fangstområde | RA | P | ICES-område der fangsten er tatt |
+| Sone | ZO | P | Sone der fangsten er tatt (ISO-3) |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.
+
+*c) Omlastingsmelding*
 
 Det er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Russland, Færøyene, Grønland, Island og Storbritannia samt fartøy fra NEAFC-samarbeidsland.
 
@@ -90,13 +132,76 @@ Fartøy som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes s
 
 Meldingen skal inneholde følgende opplysninger:
 
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | TRA, Melding om omlasting |
+| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Overført fra | TF | P2 | Radiokallesignal på fartøyet det overføres fra |
+| Overført til | TT | P2 | Radiokallesignal på fartøyet det overføres til |
+| Posisjon bredde | LA | P | Posisjon bredde for omlasting |
+| Posisjon lengde | LO | P | Posisjon lengde for omlasting |
+| Dato | PD | P3 | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P3 | Antatt tidspunkt for omlasting i UTC (TTMM) |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Påkrevd ved elektroniske meldinger.2 Etter hva som er relevant.3 Valgfritt ved meldinger sendt av mottaksfartøyet etter omlastingen.
+
+*d) Melding om havneanløp*
+
 Fartøy som har mottatt fangst fra annet fartøy skal senest 24 timer før landing finner sted sende melding om havneanløp.
 
 Meldingen skal inneholde følgende opplysninger:
 
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | POR, Melding om havneanløp |
+| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Posisjon lengde | LA | P2 | Posisjon lengde på meldingstidspunktet |
+| Posisjon bredde | LO | P2 | Posisjon bredde på meldingstidspunktet |
+| Kyststat | CS | P | Landingshavnens kyststat |
+| Havn | PO | P | Navnet på havnen der det skal landes |
+| Dato | PD | P | Dato for havneanløp i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P | Tidspunkt for havneanløp i UTC (TTMM) |
+| Kvantum som skal landes | KG | P | Kvantum som skal leveres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på kilo rund vekt. Parvis angitt |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.
+
+*e) Melding om avslutning av fiske*
+
 Melding om avslutning av fiske skal sendes tidligst 6 timer og senest 4 timer før fartøyet går ut av sonen.
 
 Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COX, Melding om avslutning av fiske |
+| Meldingsnummer | RN | P1 | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Posisjon lengde | LA | P2 | Posisjon lengde på meldingstidspunktet |
+| Posisjon bredde | LO | P2 | Posisjon bredde på meldingstidspunktet |
+| Fangst | CA | P | Fangst siden forrige COE- eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Fangstområde | RA | P | ICES-område der fangsten er tatt |
+| Sone | ZO | P | Sone der fangsten er tatt (ISO-3) |
+| Havn | PO | P3 | Navnet på havnen der det skal landes |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Påkrevd ved elektroniske meldinger.2 Valgfritt for fartøy underlagt satellittsporing.3 Påkrevd dersom det skal landes i havn som ikke er norsk eller russisk.
+
+*f) Gjennomføring*
 
 Dersom elektronisk rapportering skal benyttes plikter fartøyet før fiske kan starte, å forvisse seg om at rapporteringssystemet fungerer tilfredsstillende.
 
@@ -106,7 +211,11 @@ Dersom meldingen ikke bekreftes med returmelding må meldingen sendes på ny, ev
 
 Dersom elektronisk rapportering benyttes, skal fartøyets navn og registreringsmerke ikke angis i meldingene.
 
+*g) Hjelpefartøy*
+
 Fartøy som bistår fiskeflåten skal sende melding om fiskestart og melding om avslutning av fiske til Fiskeridirektoratet i henhold til bokstav a og e.
+
+*h) Gjennomseiling*
 
 Fartøy som er gitt tillatelse til å drive fiske og fangst i sonen og som er i gjennomseiling uten å fiske i sonen, er unntatt fra plikten til å sende melding om fiskestart og melding om avslutning av fiske til Fiskeridirektoratet.
 
@@ -162,11 +271,27 @@ Denne forskrift trer i kraft straks. Samtidig oppheves [forskrift av 23. desembe
 
 ## Vedlegg 1. Automatisk Returmelding ved elektronisk rapportering
 
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | RET, Returmelding fra Fiskeridirektoratet |
+| Meldingsnummer | RN | P | Nummeret på den kvitterte meldingen |
+| Avsender | FR | P | NOR for norsk kvotekontroll |
+| Mottaker | RC | P | Fartøyets radiokallesignal |
+| Autentisering | AU | P | Autentiseringskode fra kvotekontrollen |
+| Meldingstatus | RS | P | ACK for godkjent/NAK for ikke godkjent |
+| Returnert feilmelding | RE | P | Feilmeldingsnummer:<br>101 = Uleselig, 102 = Inkonsistent, 103 = Sekvensfeil |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
 > Vedlegg 1 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
 
 ## Vedlegg 2
 
+*1) Sending av elektroniske meldinger:*
+
 Elektronisk rapportering på NAF-format skal sendes til Fiskeridirektoratets X.25 nummer 24 22 45 00 883 eller til e-postadressen satrap@fiskeridir.no .
+
+*2) Sending av manuelle meldinger på telefaks:*
 
 Dersom en ikke benytter elektronisk rapportering skal meldingene utformes som i eksemplene nedenfor:
 
@@ -178,7 +303,31 @@ Manuelle meldinger skal sendes til Fiskeridirektoratets telefaksnr. +4755238276.
 
 Melding om fiskestart skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
 
+EKS. 1: (Når fartøyet har fangst om bord ved fiskestart)
+
+|  |  |  |
+| --- | --- | --- |
+| TM | = | COE |
+| RC | = | OWAA |
+| NA | = | KONTIKI |
+| XR | = | S458 eller M-101-AK |
+| LA | = | N6132 |
+| LO | = | E00415 |
+| OB | = | TORSK 50000, HYSE 13000, SEI 25600, LANGE 11300 |
+| RA | = | 4A |
+| ZO | = | NOR |
+| PD | = | 20040312 |
+| PT | = | 1430 |
+| DA | = | 20040311 |
+| TI | = | 0835 |
+
+EKS. 2: (Når fartøyet ikke har fangst om bord ved fiskestart)
+
 Som over, med unntak av
+
+|  |  |  |
+| --- | --- | --- |
+| OB | = | 0 |
 
 > Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
 
@@ -186,7 +335,27 @@ Som over, med unntak av
 
 Fangstmelding skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
 
+EKS. 1: (Når fangst er tatt)
+
+|  |  |  |
+| --- | --- | --- |
+| TM | = | [CAT](traktat/1984-12-10-1) |
+| RC | = | OWAA |
+| NA | = | KONTIKI |
+| XR | = | S458 eller M-101-AK |
+| CA | = | TORSK 35000, HYSE 8500, SEI 5800, UER 1200 |
+| RA | = | 4A |
+| ZO | = | NOR |
+| DA | = | 20040319 |
+| TI | = | 0955 |
+
+EKS. 2: (Når ingen fangst er tatt)
+
 Som over, med unntak av
+
+|  |  |  |
+| --- | --- | --- |
+| CA | = | 0 |
 
 NB! Det skal alltid sendes fangstmelding for foregående periode ved kryssing av grensen til nytt ICES-område.
 
@@ -196,6 +365,25 @@ NB! Det skal alltid sendes fangstmelding for foregående periode ved kryssing av
 
 Omlastingsmelding skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
 
+EKS. 1: (Når fangst er omlastet *fra* et annet fartøy)
+
+|  |  |  |
+| --- | --- | --- |
+| TM | = | TRA |
+| RC | = | OWAA |
+| NA | = | KONTIKI |
+| XR | = | S458 eller M-101-AK |
+| KG | = | TORSK 10000 |
+| TF | = | LMHJ |
+| LA | = | N6130 |
+| LO | = | E00400 |
+| PD | = | 20050617 |
+| PT | = | 1430 |
+| DA | = | 20040321 |
+| TI | = | 0600 |
+
+EKS. 2: (Når fangst er omlastet *til* et annet fartøy)
+
 Som over, men TF erstattes med TT og radiokallesignalet til fartøyet fangst er omlastet *til.*
 
 > Vedlegg 2 tilføyd ved [forskrift 16 feb 2005 nr. 153](forskrift/2005-02-16-153) (i kraft 1 mars 2005).
@@ -203,6 +391,25 @@ Som over, men TF erstattes med TT og radiokallesignalet til fartøyet fangst er 
 ### 4. Melding om havneanløp
 
 Melding om havneanløp skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+|  |  |  |
+| --- | --- | --- |
+| TM | = | POR |
+| RC | = | JXHB |
+| NA | = | OTTAR BIRTING |
+| XR | = | S458 eller M-101-AK |
+| LA | = | N6130 |
+| LO | = | E00400 |
+| CS | = | NOR |
+| PO | = | ÅLESUND |
+| PD | = | 20040322 |
+| PT | = | 1000 |
+| KG | = | TORSK 65000, HYSE 14000 |
+| OB | = | TORSK 100000, HYSE 14000 |
+| DA | = | 20040321 |
+| TI | = | 0830 |
+
+EKS. 2: (Når fangst ikke skal leveres)
 
 Som over, med unntak av KG = 0.
 
@@ -213,6 +420,26 @@ NB! Ved havneanløp regnes fisket som avsluttet og det skal også sendes melding
 ### 5. Melding om avslutning av fiske
 
 Melding om avslutning av fiske skal, dersom en ikke benytter elektronisk rapportering, utformes slik:
+
+EKS. 1: (Når fangst er tatt siden forrige melding)
+
+|  |  |  |
+| --- | --- | --- |
+| TM | = | COX |
+| RC | = | OWAA |
+| NA | = | KONTIKI |
+| XR | = | S458 |
+| LA | = | N6130 |
+| LO | = | E00400 |
+| OB | = | TORSK 110000, HYSE 24000, SEI 31400, LANGE 11300, UER 1200 |
+| CA | = | TORSK 15000, HYSE 2500 |
+| RA | = | 4A |
+| ZO | = | NOR |
+| PO | = | HULL |
+| DA | = | 20040321 |
+| TI | = | 1700 |
+
+EKS. 2: (Når ingen fangst er tatt siden forrige melding)
 
 Som over, med unntak av CA = 0
 

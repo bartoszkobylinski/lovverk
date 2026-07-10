@@ -191,19 +191,38 @@ Kart over «Barents SRS» virkeområde med nærmere angivelse av det norske ansv
 ## Vedlegg 3
 Rapporteringskrav og rapporteringsalternativer
 
+*Sammendrag:*
+
 Rapporteringen ønskes primært utført elektronisk gjennom en kombinasjon av AIS og en forhåndsmelding gitt i SafeSeaNet Norway, faks eller e-post.
 
 Dersom et fartøy er forhindret fra å sende elektronisk, eller fremsende en forhåndsmelding innen tidskravet, kan hele rapporten eller deler av denne formidles på VHF eller telefon.Et fartøy kan imøtekomme rapporteringskravene for betegnelsene A, B, C, E, F, I, O og W gjennom at riktige og oppdaterte AIS-data kringkastes fra fartøyets AIS-system om bord.Et fartøy kan videre imøtekomme rapporteringskravene for betegnelsene A, H, P, Q, T og X gjennom at en elektronisk forhåndsmelding blir avgitt i SafeSeaNet Norway, faks eller e-post.
 
-Tabellen nedenfor beskriver en optimal bruk av rapporteringssystemet og mulighetene for å kombinere ulike kommunikasjonsmidler for å fremsende de pålagte data. I tillegg gir den utfyllende informasjon om hvilke data som fartøyet er pliktig til å fremsende under hver av bokstavbetegnelsene.*Betegnelse**AIS**Elektronisk**VHF/telefon**Innhold**Påkrevd informasjon**A*JaJaJaFartøy1) Navn på fartøy
-2) MMSI nummer
-3) Kallsignal
---og når tilgjengelig-
-4) IMO-nummer
-5) Kontaktinformasjon:
-– e-post
-– Inmarsat (tekst/data og tale)
-– faks
-– mobilnummer*B*JaDato og tidspunktEn 6-sifret gruppe som angir dag i måneden, time og minutter i universell tid UTC.*C*JaPosisjonEn 5-sifret gruppe som gir bredden i grader og minutter, desimal, etterfulgt av N (nord) og en 6-sifret gruppe som gir breddegrad i grader og minutter, desimal, etterfulgt av E (øst) eller W (vest).*E*JaFartøyets sanne kursEn 3-sifret gruppe*F*JaFartøyets fart i knop og tidels knopEn 3-sifret gruppe*H*JaDato, tid og sted for antatt innseiling i Barents SRSDenne informasjonen er kun påkrevd dersom et fartøy fremsender en elektronisk forhåndsmelding på betegnelsene P, T og X før ankomst rapporteringsområdet. Dato og tid angis likt som under betegnelse (B) og posisjon angis likt som under betegnelse (C).*I*JaFartøyets destinasjon og estimert ankomsttidNavn på neste havn gitt i UN LOCODE via AIS. For detaljer og prosedyrer henvises det til IMO SN/Circ.244 og [www.unece.org/cefact/locode/service/main.htm](https://www.unece.org/cefact/locode/service/main.htm)
-Estimert ankomsttid angis likt som for betegnelsen (B).*O*JaFartøyets største dypgående i nåværende lastetilstand angitt i meterEn 2- eller 3-sifret gruppe som angir største nåværende dypgående i meter (eks: 6.1 eller 10.4).*P*JaFartøyets lastFartøyets last, og dersom farlig last også angivelse av mengde og IMO klasse.
-Informasjon om farlig last må oppsummeres i antall tonn pr. IMO-klasse når dataene fremsendes.*Q*JaDefekter og manglerDetaljer om feil og mangler som påvirker utstyret om bord på fartøyet eller andre omstendigheter som påvirker normal navigasjon og manøvrering.*T*JaFartøyets eier og representantAdresse og opplysninger om hvor detaljert informasjon om lasten kan oppnås.*W*JaAntall personer om bordAngi antall*X*JaDiverseType og estimert mengde bunkersolje i metriske tonn. Må oppsummeres i totale tonn per type i dataene som oversendes.
+Tabellen nedenfor beskriver en optimal bruk av rapporteringssystemet og mulighetene for å kombinere ulike kommunikasjonsmidler for å fremsende de pålagte data. I tillegg gir den utfyllende informasjon om hvilke data som fartøyet er pliktig til å fremsende under hver av bokstavbetegnelsene.
+
+| *Betegnelse* | *AIS* | *Elektronisk* | *VHF/telefon* | *Innhold* | *Påkrevd informasjon* |
+| --- | --- | --- | --- | --- | --- |
+| *A* | Ja | Ja | Ja | Fartøy | 1) Navn på fartøy<br>2) MMSI nummer<br>3) Kallsignal<br>--og når tilgjengelig-<br>4) IMO-nummer<br>5) Kontaktinformasjon:<br>– e-post<br>– Inmarsat (tekst/data og tale)<br>– faks<br>– mobilnummer |
+| *B* | Ja |  |  | Dato og tidspunkt | En 6-sifret gruppe som angir dag i måneden, time og minutter i universell tid UTC. |
+| *C* | Ja |  |  | Posisjon | En 5-sifret gruppe som gir bredden i grader og minutter, desimal, etterfulgt av N (nord) og en 6-sifret gruppe som gir breddegrad i grader og minutter, desimal, etterfulgt av E (øst) eller W (vest). |
+| *E* | Ja |  |  | Fartøyets sanne kurs | En 3-sifret gruppe |
+| *F* | Ja |  |  | Fartøyets fart i knop og tidels knop | En 3-sifret gruppe |
+| *H* |  | Ja |  | Dato, tid og sted for antatt innseiling i Barents SRS | Denne informasjonen er kun påkrevd dersom et fartøy fremsender en elektronisk forhåndsmelding på betegnelsene P, T og X før ankomst rapporteringsområdet. Dato og tid angis likt som under betegnelse (B) og posisjon angis likt som under betegnelse (C). |
+| *I* | Ja |  |  | Fartøyets destinasjon og estimert ankomsttid | Navn på neste havn gitt i UN LOCODE via AIS. For detaljer og prosedyrer henvises det til IMO SN/Circ.244 og [www.unece.org/cefact/locode/service/main.htm](https://www.unece.org/cefact/locode/service/main.htm)<br>Estimert ankomsttid angis likt som for betegnelsen (B). |
+| *O* | Ja |  |  | Fartøyets største dypgående i nåværende lastetilstand angitt i meter | En 2- eller 3-sifret gruppe som angir største nåværende dypgående i meter (eks: 6.1 eller 10.4). |
+| *P* |  | Ja |  | Fartøyets last | Fartøyets last, og dersom farlig last også angivelse av mengde og IMO klasse.<br>Informasjon om farlig last må oppsummeres i antall tonn pr. IMO-klasse når dataene fremsendes. |
+| *Q* |  |  | Ja | Defekter og mangler | Detaljer om feil og mangler som påvirker utstyret om bord på fartøyet eller andre omstendigheter som påvirker normal navigasjon og manøvrering. |
+| *T* |  | Ja |  | Fartøyets eier og representant | Adresse og opplysninger om hvor detaljert informasjon om lasten kan oppnås. |
+| *W* |  | Ja |  | Antall personer om bord | Angi antall |
+| *X* |  | Ja |  | Diverse | Type og estimert mengde bunkersolje i metriske tonn. Må oppsummeres i totale tonn per type i dataene som oversendes. |
+
+*Kontaktinformasjon – Vardø Sjøtrafikksentral*
+
+|  |  |
+| --- | --- |
+| VHF: | Ta kontakt med nærmeste kystradiostasjon og be om «NOR VTS» (kanal 16) |
+| MMSI: | 002573550 |
+| E-post: | [nor.vts kystverket.no](mailto:nor.vts%20kystverket.no) |
+| Faks: | +47 78 98 98 99 |
+| Telefon: | +47 78 98 98 98 |
+
+SafeSeaNet Norway: [www.shiprep.no](https://www.shiprep.no)

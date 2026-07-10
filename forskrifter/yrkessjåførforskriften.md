@@ -616,22 +616,26 @@ Forskriften trer i kraft i straks.
 
 ## Vedlegg 1 – Særskilt bevis for yrkessjåførkompetanse
 
-De fysiske egenskaper ved yrkessjåførbeviset skal være i overensstemmelse med ISO 7810 og ISO 7816-1. De metoder som anvendes for å kontrollere at yrkessjåførbevisets egenskaper oppfyller de internasjonale standardene skal være i samsvar med ISO 10373.
+Side 1:
 
-Beviset skal inneholde sikkerhetselementer som skal utelukke risiko for forfalskning og manipulasjon og avsløre slike forsøk. Sikkerhetsnivået skal minst tilsvare sikkerhetsnivået på førerkortet.
+Side 2:
 
-Yrkessjåførbeviset skal ha to sider og være utformet i samsvar med bestemmelsene i dette vedlegget jf. EØS-avtalen vedlegg XIII nr. 36a (direktiv [2003/59/EF](eu/32003l0059)) om grunnleggende kvalifikasjonskrav og etterutdanningskrav for førere av visse kjøretøy, som benyttes til person- eller godstransport på veg, og om endring av Rådets forordning [(EØF) nr. 3820/85](eu/31985r3820*) samt Rådets direktiv [91/439/EØF](eu/31991l0439*) og om opphevelse av Rådets direktiv [76/914/EØF](eu/31976l0914) og de tilpasninger som følger av [EØS-komiteens beslutning nr. 64/2006](eu/22006d0064).
+| *YSK-bevis – Forside* |  |  |
+| --- | --- | --- |
+| Feltnr. | *Beskrivelse* | *Format* |
+| 1. | Etternavn |  |
+| 2. | Fornavn |  |
+| 3. | Fødselsdato | DD.MM.YYYY – |
+| 4a. | Utstedt | DD.MM.YYYY |
+| 4b. | Gyldig til | DD.MM.YYYY |
+| 4c. | Utstedt av | STATENS VEGVESEN |
+| 4d. | Referansenummer | 010169 49945 (Skal være Fnr., Dnr. eller Vnr., 6+5) |
+| 5a. | Førerkortnummer | 67 08 123456 7 (2+2+6+1) |
+| 5b. | Løpenummer | 95 13 123456 7 (2+2+6+1) |
 
-Yrkessjåførbeviset utstedes på begge målformer.
-
-Yrkessjåførbevisets forside skal ha blå bakgrunn. Ordet yrkessjåførbevis og Norge eller yrkessjåførprov og Noreg trykkes med store bokstaver. Nasjonalitetsmerket N omgitt av en ellipse trykkes i svart.
-
-Bevisets spesifikke opplysninger skrives på bokmål eller nynorsk og nummereres som følgerinnehaverens etternavninnehaverens fornavninnehaverens fødselsdato og fødestedutstedelsesdatoutløpsdatoangivelse av utstedende myndighetreferansenummerførerkortnummerbevisets løpenummerfotografi av innehavereninnehaverens underskriftde høyeste førerkortklasser hvor innehaveren har gyldig yrkessjåførkompetansefellesskapskode 95.Fødested angis i førerkortregisteret, men angis på yrkessjåførbeviset med en strek.
-
-Betegnelsen yrkessjåførbevis på de øvrige fellesskapsspråkene og betegnelsen EØS-modell trykkes i blått på en slik måte at det utgjør bevisets bakgrunn.
-
-Yrkessjåførbevisets bakside skal ha blå bakgrunn. Av bevisets bakside skal det framgå gjennom fellesskapskode 95 for hvilke førerkortklasser innehaveren innehar yrkessjåførkompetanse og når kompetansen utløper.
-
-Bevisets bakside skal inneholde en forklaring på de nummererte rubrikkene på bevisets for- og bakside.
+| *YSK-bevis – Bakside* |  |  |
+| --- | --- | --- |
+| *Feltnr.* | *Beskrivelse* | *Format* |
+| 10. | Fellesskapskode og utløpsdato | 95 (DD.MM.YY) |
 
 > Vedlegg 1 endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [20 sep 2022 nr. 1604](forskrift/2022-09-20-1604), [20 feb 2023 nr. 234](forskrift/2023-02-20-234) (i kraft 1 mars 2023).

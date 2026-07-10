@@ -212,6 +212,8 @@ Taushetsplikt etter denne loven eller etter [lov 18. desember 2009 nr. 131](lov/
 
 Loven trer i kraft fra den tiden Kongen bestemmer.1
 
+1 Fra 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631).
+
 ### § 18. Overgangsbestemmelser
 
 Inntil Arbeids- og velferdsetaten har inngått avtale med den enkelte kommunen etter [§§ 13](lov/2006-06-16-20/§13) og [14](lov/2006-06-16-20/§14) og felles lokale kontorer er etablert, gjelder bestemmelsene i loven her, inkludert de endringene i [arbeidsmarkedsloven,](lov/2004-12-10-76/§13) [folketrygdloven](lov/1997-02-28-19) og andre lover som følger av [§ 19](lov/2004-12-10-76/§19), bare så langt de passer.

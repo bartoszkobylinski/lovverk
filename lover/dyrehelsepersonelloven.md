@@ -84,6 +84,8 @@ Autorisasjon, lisens og andre godkjenninger kan gis etter gjensidig avtale med f
 
 > Endret ved [lov 19 des 2008 nr. 120](lov/2008-12-19-120) (ikr. 1 jan 2009 iflg. [res. 19 des 2008 nr. 1483](forskrift/2008-12-19-1483)).
 
+1 Jf. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1 (direktiv [2005/36/EF](eu/32005l0036)).
+
 ### § 7. Grensepraksis
 
 Autoriserte veterinærer som driver praksis i Sverige og Finland i veterinærdistrikter som grenser til Norge, kan i særlige tilfeller yte veterinære tjenester i tilgrensende norsk veterinærdistrikt uten autorisasjon eller lisens fra departementet.
@@ -141,6 +143,8 @@ For den hjelp dyrehelsepersonell har ytt etter foregående ledd, kan hun eller h
 Departementet kan gi forskrifter om når øyeblikkelig hjelp er påtrengende nødvendig, hva som er nødvendig hjelp, passende godtgjørelse og om andre vilkår for godtgjørelse etter denne bestemmelsen.
 
 > Endret ved [lov 19 juni 2009 nr. 97](lov/2009-06-19-97) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 703](forskrift/2009-06-19-703)).
+
+1 Inkurie: Loven har ikke offisiell korttittel.
 
 ### § 15. Bruk av medhjelper
 
@@ -339,6 +343,8 @@ Avgifter og gebyrer er tvangsgrunnlag for utlegg.
 Denne loven trer i kraft fra den tid Kongen bestemmer.1 Samtidig oppheves [lov 10. desember 1948 nr. 3](lov/1948-12-10-3) om veterinærer m.v.
 
 Bestemmelsene i [§ 17](lov/2001-06-15-75/§17) annet ledd om fiskehelsebiologers rett til rekvirering av legemidler gjelder ikke før det tidspunkt departementet bestemmer.2
+
+1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 711](forskrift/2001-06-15-711), med unntak av § 17 (2), som trådte ikr. 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).2 Fra 15 aug 2005 iflg. [vedtak 12 juli 2005 nr. 820](forskrift/2005-07-12-820).
 
 ### § 39. Overgangsordninger
 

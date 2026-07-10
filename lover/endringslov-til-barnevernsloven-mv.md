@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om endringer i barnevernsloven mv. (kvalitetsløftet i barnevernet)
 
+Endringer i følgende lover:
+
 1. [Lov 4. juli 1991 nr. 47 om ekteskap (ekteskapsloven)](lov/1991-07-04-47).
 2. [Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)](lov/1997-02-28-19).
 3. [Lov 19. juni 1997 nr. 62 om familievernkontorer](lov/1997-06-19-62).
@@ -37,43 +39,47 @@ eu_basis: []
 
 ## I
 
+I [lov 18. juni 2021 nr. 97 om barnevern](lov/2021-06-18-97) gjøres følgende endringer:
+
+– – –
+
+[§ 3-2](lov/2021-06-18-97/§3-2) paragrafoverskriften skal lyde:
+
+[§ 3-2 første punktum](lov/2021-06-18-97/§3-2/setning/1) skal lyde:
+
 Barnevernstjenesten kan tilby fosterhjem, kommunale botiltak med døgnbemanning eller institusjon som hjelpetiltak når vilkårene i [§ 3-1 første ledd](lov/2021-06-18-97/§3-1/ledd/1) er til stede og barnets behov ikke kan ivaretas på annen måte.
 
-Kommunale botiltak med døgnbemanning skal gi barn som oppholder seg i tiltaket, forsvarlig omsorg og beskyttelse. Botiltaket skal møte barn hensynsfullt og ivareta barnets rettigheter og rettssikkerhet.
+– – –
 
-Barnet har rett til vern av sin personlige integritet, forsvarlig omsorg og beskyttelse under opphold i kommunale botiltak med døgnbemanning.
+Nytt [kapittel 9 A](lov/2021-06-18-97/kap9A) skal lyde:
 
-Barn har rett til å medvirke i alle forhold som vedrører barnet under opphold i botiltaket, jf. [§ 1-4](lov/2021-06-18-97/§1-4). Barnet skal få tilstrekkelig og tilpasset informasjon og har rett til fritt å gi uttrykk for sine meninger. Barnet skal bli lyttet til, og barnets meninger skal vektlegges i samsvar med barnets alder og modenhet. Botiltaket må sørge for at barnets rett til medvirkning blir ivaretatt ved utformingen av tiltakets daglige liv og ved andre forhold som vedrører barnet.
+– – –
 
-Botiltaket har rett og plikt til å sette grenser for barnet når det er nødvendig for å gi barnet forsvarlig omsorg og beskyttelse ut fra dets alder og modenhet. Botiltaket kan på tilsvarende måte som foreldre sette grenser for barnets bevegelsesfrihet, besøk, bruk av elektroniske kommunikasjonsmidler og internett.
-
-Hvilke grenser som kan settes i medhold av omsorgsansvaret, må vurderes ut fra barnets individuelle behov for omsorg og beskyttelse. Grensesettingen må være egnet til å oppnå formålet og stå i rimelig forhold til de interesser som skal ivaretas, både i omfang og varighet. Botiltaket kan også sette grenser for barnet hvis det er nødvendig for å ivareta trygghet og trivsel for andre i botiltaket.
-
-Hvis det er åpenbart nødvendig for å gi barnet forsvarlig omsorg og beskyttelse, kan botiltaket benytte milde former for fysisk makt, som å holde barnet kortvarig fast eller lede barnet. Slike tiltak kan også benyttes hvis det åpenbart er nødvendig for å ivareta trygghet og trivsel for andre i botiltaket.
-
-Barnet og foreldrene kan klage direkte til statsforvalteren ved brudd på bestemmelser i [§§ 9 A-2](lov/2021-06-18-97/§9A-2) og [9 A-3](lov/2021-06-18-97/§9A-3). Statsforvalteren kan prøve alle sider av saken.
-
-Barn kan bare gis opphold i kommunale botiltak med døgnbemanning som er godkjent av barne-, ungdoms- og familieetaten. Reglene om godkjenning i [§ 10-19](lov/2021-06-18-97/§10-19) gjelder så langt de passer.
-
-Botiltaket skal til enhver tid ha forsvarlig bemanning og kompetanse. Botiltaket skal ha en stillingsplan som sikrer kontinuitet for barna og en faglig forsvarlig drift.
-
-Botiltaket skal ha en leder og en stedfortreder for lederen.
-
-Botiltaket skal sørge for at de ansatte får nødvendig faglig veiledning og opplæring.
-
-Barnevernstjenesten i omsorgskommunen skal ivareta sitt løpende og helhetlige ansvar for å følge opp barnet under opphold i botiltaket.
-
-Departementet kan gi forskrift med nærmere krav til kvalitet, godkjenning, bemanning og kompetanse, innholdet i barns rettigheter, gjennomføring av grensesetting og om saksbehandling og klagebehandling ved opphold i kommunale botiltak med døgnbemanning.
+[§ 12-11 andre ledd](lov/2021-06-18-97/§12-11/ledd/2) skal lyde:
 
 Personer som skal ansettes i eller utføre oppgaver på vegne av et botiltak med døgnbemanning etter [kapittel 9 A](lov/2021-06-18-97/kap9A), en barnevernsinstitusjon etter [kapittel 10](lov/2021-06-18-97/kap10), et senter for foreldre og barn etter [kapittel 10](lov/2021-06-18-97/kap10) eller et omsorgssenter etter [kapittel 11](lov/2021-06-18-97/kap11), skal legge frem politiattest som nevnt i [politiregisterloven § 39 første ledd](lov/2010-05-28-16/§39/ledd/1). Tilsvarende gjelder for personer som utfører andre oppgaver for botiltaket, institusjonen, senteret for foreldre og barn eller omsorgssenteret, og som har direkte kontakt med barn og unge eller foreldre som oppholder seg der.
 
+– – –
+
+[§ 16-3 tredje ledd bokstav c](lov/2021-06-18-97/§16-3/ledd/3/bokstav/c) skal lyde:
+
 godkjenne kommunale botiltak med døgnbemanning i samsvar med [§ 9 A-5](lov/2021-06-18-97/§9A-5), barnevernsinstitusjoner i samsvar med [§ 10-19](lov/2021-06-18-97/§10-19), sentre for foreldre og barn i samsvar med [§ 10-23](lov/2021-06-18-97/§10-23) og omsorgssentre for enslige mindreårige asylsøkere i samsvar med [§ 11-5](lov/2021-06-18-97/§11-5).
+
+– – –
+
+[§ 17-2 første ledd første punktum](lov/2021-06-18-97/§17-2/ledd/1/setning/1) skal lyde:
 
 Statens helsetilsyn har det overordnede faglige tilsynet med barnevernsvirksomheten i de enkelte kommuner og med barnevernsinstitusjoner, kommunale botiltak med døgnbemanning, sentre for foreldre og barn og omsorgssentre for enslige mindreårige asylsøkere, samt med andre statlige tjenester og tiltak etter denne loven.
 
+[§ 17-3 andre ledd første punktum](lov/2021-06-18-97/§17-3/ledd/2/setning/1) skal lyde:
+
 Statsforvalteren skal føre tilsyn med at barnevernsinstitusjoner, kommunale botiltak med døgnbemanning, sentre for foreldre og barn og omsorgssentre for enslige mindreårige asylsøkere drives i samsvar med denne loven og forskrifter til loven.
 
+[§ 17-4 første punktum](lov/2021-06-18-97/§17-4/ledd/1/setning/1) skal lyde:
+
 Statens helsetilsyn og statsforvalteren kan kreve at kommunale organer som hører inn under loven, barne-, ungdoms- og familieetaten, barnevernsinstitusjoner, kommunale botiltak med døgnbemanning, sentre for foreldre og barn og omsorgssentre for enslige mindreårige asylsøkere, gir de opplysninger og meldinger som er nødvendige for at myndighetene skal kunne utøve sine tilsynsoppgaver.
+
+[§ 17-5 andre ledd](lov/2021-06-18-97/§17-5/ledd/2) skal lyde:
 
 Dersom det avdekkes uforsvarlig drift ved en institusjon, et kommunalt botiltak med døgnbemanning eller et senter, kan statsforvalteren gi institusjonens, botiltakets eller senterets leder eller eier pålegg om å rette forholdet eller å nedlegge driften.
 
@@ -83,16 +89,29 @@ I følgende bestemmelser skal formuleringene «har vist alvorlige atferdsvansker
 
 ## III
 
+I [lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter](lov/1999-07-02-63) gjøres følgende endringer: – – –
+
 ## IV
+
+I [lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot](lov/2003-07-04-84) gjøres følgende endringer: – – –
 
 ## V
 
+I [lov 17. juni 2005 nr. 64 om barnehager (barnehageloven)](lov/2005-06-17-64) gjøres følgende endringer: – – –
+
 ## VI
 
+I [lov 19. juni 2009 nr. 44 om kommunale krisesentertilbod](lov/2009-06-19-44) gjøres følgende endringer: – – –
+
 ## VII
+
+I [lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa](lov/2023-06-09-30) gjøres følgende endringer: – – –
 
 ## VIII
 
 Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Departementet kan gi overgangsbestemmelser.
+
+1 Fra 1. januar 2026 for del I (med unntak av [§ 3-2](lov/2021-06-18-97/§3-2) paragrafoverskriften, [§ 3-2 første punktum](lov/2021-06-18-97/§3-2/setning/1), nytt [kapittel 9 A](lov/2021-06-18-97/kap9A), [§ 12-11 andre ledd](lov/2021-06-18-97/§12-11/ledd/2), [§ 16-3 tredje ledd bokstav c](lov/2021-06-18-97/§16-3/ledd/3/bokstav/c), [§ 17-2 første ledd første punktum](lov/2021-06-18-97/§17-2/ledd/1/setning/1), [§ 17-3 andre ledd første punktum](lov/2021-06-18-97/§17-3/ledd/2/setning/1), [§ 17-4 første punktum](lov/2021-06-18-97/§17-4/setning/1) og [§ 17-5 andre ledd](lov/2021-06-18-97/§17-5/ledd/2)), del II, del III, del IV, del V, del VI og del VII,
+fra 1. januar 2027 for del I [§ 3-2](lov/2021-06-18-97/§3-2) paragrafoverskriften, [§ 3-2 første punktum](lov/2021-06-18-97/§3-2/setning/1), nytt [kapittel 9 A](lov/2021-06-18-97/kap9A), [§ 12-11 andre ledd](lov/2021-06-18-97/§12-11/ledd/2), [§ 16-3 tredje ledd bokstav c](lov/2021-06-18-97/§16-3/ledd/3/bokstav/c), [§ 17-2 første ledd første punktum](lov/2021-06-18-97/§17-2/ledd/1/setning/1), [§ 17-3 andre ledd første punktum](lov/2021-06-18-97/§17-3/ledd/2/setning/1), [§ 17-4 første punktum](lov/2021-06-18-97/§17-4/setning/1) og [§ 17-5 andre ledd](lov/2021-06-18-97/§17-5/ledd/2), iflg. [res. 19 des 2025 nr. 2711](forskrift/2025-12-19-2711).

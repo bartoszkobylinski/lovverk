@@ -144,6 +144,8 @@ Når direktoratet skal ta stilling til om slike paraplyorganisasjoner eller orga
 
 Som det vil fremgå kreves det i enkelte av vilkårene at utøverorganisasjonen skal ha vedtekter som for eksempel stiller faglige krav for medlemskap eller fastsetter yrkesetiske regler som medlemmene må følge, jf. vilkår nr. 1 og nr. 2. Med dette menes ikke at den nærmere utforming av slike krav eller regler nødvendigvis må være inntatt i selve vedtektene til organisasjonen. Det vil være tilstrekkelig at det av vedtektene fremgår at det stilles slike krav eller er fastsatt slike regler, at disse vil være avgjørende for rett til medlemskap/bindende for medlemmets yrkesutøvelse og at det er inntatt en henvisning til eller angivelse av hvor disse kan finnes. På bakgrunn av vedtektene skal det være mulig for blant annet organisasjonens medlemmer, helsepersonell, helsemyndigheter og pasienter, å kunne identifisere fagkravene/retningslinjene.
 
+*Nr. 1 – faglige krav til den som ønsker å bli medlem av organisasjonen*
+
 For at en utøverorganisasjon skal bli godkjent, må organisasjonen ha fastsatt nærmere bestemte faglige krav for rett til medlemskap. Det er opp til organisasjonen selv å fastsette de faglige kravene for medlemskap, og det må fremgå av organisasjonens vedtekter at det stilles slike krav. Dersom fagkravene i seg selv ikke er inntatt i vedtektene, må det som nevnt av vedtektene klart fremgå at det gjelder særskilte fagkrav, eventuelt hvor disse kan finnes og hvem som fastsetter disse. Ved søknad om godkjenning av organisasjonen må redegjørelse for slike fagkrav i så fall vedlegges sammen med vedtektene.
 
 Helsedirektoratet skal kun påse at organisasjonene har vedtekter som stiller faglige krav til den som ønsker å bli medlem i organisasjonen. Det nærmere innhold av disse skal ikke være gjenstand for godkjenning av direktoratet, men direktoratet må påse at de vedtekter som stiller faglige krav for medlemskap ikke er i strid med relevante lover og forskrifter, for eksempel lov om alternativ behandling av sykdom mv., konkurranselovgivningen osv. Eksempel i forhold til sistnevnte kan være dersom vedtektene inneholder bestemmelser som regulerer konkurransen mellom organisasjonenes medlemmer.
@@ -151,6 +153,8 @@ Helsedirektoratet skal kun påse at organisasjonene har vedtekter som stiller fa
 Direktoratet må videre foreta en realitetsvurdering av om det kan sies å foreligge klart fastsatte faglige krav. I forskriften er det ikke inntatt noen nærmere regulering av hva slike fagkrav skal inneholde og hvor detaljerte og omfangsrike de skal være, men det skal likevel være mulig både for offentlige myndigheter, den enkelte utøver som ønsker å bli medlem av organisasjonen, pasienter og andre, å identifisere hvilke fagkrav som organisasjonen setter til sine medlemmer. Organisasjonens faglige krav må foreligge i skriftlig form, og beskrivelsen av fagkravene bør være av et slikt omfang og ha et slikt detaljeringsnivå at de mest sentrale bestanddeler av fagkravene eller hovedtrekkene fremgår. Det kreves således et visst minimum av detaljering og presisjonsnivå ved beskrivelsen av fagkrav. Det vil her måtte foretas en helhetsvurdering, men normalt vil vilkåret måtte sies å være oppfylt dersom det klart fremgår hva slags utdanning eller faglig bakgrunn organisasjonen krever at medlemmet skal ha.
 
 Enkelte utøvere mener at deres behandlingsform i hovedsak bygger på naturgitte kunnskaper og evner hos den enkelte utøver, og dermed slik at den enkelte utøver ikke eller bare i mindre utstrekning kan erverve seg slike kunnskaper og evner gjennom teoretiske og praktiske studier. Dette vil typisk gjelde for healing eller terapeutisk berøring. Også organisasjoner for slike utøvergrupper kan godkjennes dersom organisasjonen klart definerer hvilke egenskaper og kunnskaper det enkelte medlem må dokumentere eller beskrive å ha. I slike tilfeller hvor det ikke foreligger klart definerte teoretiske fagkrav i forhold til den terapiform som utøveren benytter seg av, bør det også legges vekt på om det stilles andre krav av mer faglig karakter til medlemmene, for eksempel krav om visse medisinske eller helsefaglige basiskunnskaper, krav om at det enkelte medlem er forpliktet til å motta veiledning eller ha veiledet praksis, osv.
+
+*Nr. 2 – yrkesetiske regler for medlemmene*
 
 For å kunne bli godkjent må organisasjonene ha fastsatt yrkesetiske regler som det enkelte medlem er forpliktet til å etterleve i sin virksomhetsutøvelse.
 
@@ -160,6 +164,8 @@ Yrkesetiske eller fagetiske regler bør også inneholde regler om informasjonspl
 
 I likhet med hva som gjelder i forhold til vurderingen av organisasjonens faglige krav i henhold til vilkår nr. 1, skal direktoratet heller ikke foreta en vurdering av de yrkesetiske reglenes innhold, men kun påse at organisasjonen har fastsatt slike. Hvorvidt den enkelte organisasjon kan sies å ha fastsatt yrkesetiske regler må bero på en helhetsvurdering. Som utgangspunkt skal det ikke stilles for strenge krav, men også her kreves et visst minimum av detaljering og presisjonsnivå ved beskrivelsen av de yrkesetiske reglene før vilkåret kan sies å være oppfylt. De yrkesetiske reglene eller retningslinjene må foreligge i skriftlig form, og bør også være av et slikt omfang at de dekker de mest sentrale aspekter knyttet til yrkesutøvelsen, jf. momentene ovenfor. Også her skal det være mulig både for offentlige myndigheter, den enkelte utøver som ønsker å bli medlem av organisasjonen, pasienter og andre, å identifisere hvilke yrkesetiske regler som organisasjonen setter overfor sine medlemmer. I likhet med hva som gjelder for vilkår nr. 1, må direktoratet også påse at de yrkesetiske reglene ikke er i strid med relevante lover og forskrifter.
 
+*Nr. 3 – plikt til å drive forsvarlig virksomhet*
+
 For å bli godkjent må utøverorganisasjonen ha vedtektsfestet at organisasjonens medlemmer må forplikte seg til å drive forsvarlig virksomhet.
 
 Vilkåret tydeliggjør at alternative behandlere har en plikt til å utøve sin virksomhet forsvarlig, og at det også på dette området stilles visse faglighets- og kvalitetskrav til utøverne.
@@ -167,6 +173,8 @@ Vilkåret tydeliggjør at alternative behandlere har en plikt til å utøve sin 
 Den enkelte utøverorganisasjon må selv vurdere hva som er å anse for forsvarlig virksomhet innenfor den eller de alternative behandlingsformer som organisasjonens medlemmer tilbyr. Innføring av en slik forsvarlighetsplikt gjennom registerordningen vil derfor i første rekke innebære at medlemmene må forplikte seg til å utøve sin virksomhet i henhold til de kvalifikasjoner de besitter og i samsvar med faglige krav og yrkesetiske retningslinjer fastsatt av utøverorganisasjonen.
 
 Videre vil det være opp til den enkelte organisasjon å vurdere i hvilken utstrekning og på hvilken måte den ønsker å utdype innholdet i dette forsvarlighetskravet. I tillegg til det som følger av organisasjonens faglige krav og yrkesetiske retningslinjer, kan det tenkes at organisasjonen utvikler faglige «bransjestandarder» til utfylling eller konkretisering av fagkrav/yrkesetiske retningslinjer. I den grad det foreligger skriftlige retningslinjer eller «bransjestandarder» vil det være naturlig for utøverorganisasjonen å tillegge disse en viss vekt, for eksempel ved behandling av en eventuell klagesak. Ved at det enkelte medlem må forplikte seg til å drive forsvarlig virksomhet, vil også dette inngå som et vurderingstema klageorganet vil måtte vurdere ved pasientklager, jf. nedenfor om vilkår nr. 6.
+
+*Nr. 4 – plikt til å gi nødvendig informasjon*
 
 For å bli godkjent må utøverorganisasjonen ha vedtektsfestet at organisasjonens medlemmer må forplikte seg til å gi nødvendig informasjon til sine pasienter.
 
@@ -176,11 +184,15 @@ Når det gjelder utøverens adgang til å markedsføre sin virksomhet, vises det
 
 Ved at det enkelte medlem må forplikte seg til å ivareta informasjonsplikten overfor pasienten, vil også dette inngå som et vurderingstema klageorganet vil måtte vurdere ved pasientklager, jf. nedenfor om vilkår nr. 6.
 
+*Nr. 5 – plikt til å behandle helse- og personopplysninger på en forsvarlig måte*
+
 For å bli godkjent må utøverorganisasjonen ha vedtektsfestet at organisasjonens medlemmer må forplikte seg til å behandle helse- og personopplysninger på en forsvarlig måte. Av § 4 i [lov om alternativ behandling av sykdom mv. fremgår](lov/2003-06-27-64/§4) at alternative behandlere i tillegg er pålagt taushetsplikt.
 
 Vilkåret innebærer ikke at alternative behandler pålegges en dokumentasjonsplikt tilsvarende den plikt helsepersonell har til å føre journal etter [helsepersonelloven § 39](lov/1999-07-02-64/§39) og [§ 40](lov/1999-07-02-64/§40), og vilkåret innebærer dermed ikke en plikt for behandleren til ut fra en faglig vurdering å sørge for å dokumentere de undersøkelser som er gjort, den behandling som er igangsatt, effekten av disse og lignende.
 
 Med krav om forsvarlig behandling av helse- og personopplysninger, siktes det i denne forskriften imidlertid til at opplysninger som den enkelte utøver får kjennskap til gjennom sin behandlingsvirksomhet, skal oppbevares, behandles og brukes i samsvar med det som følger av personvernregelverket, særlig [lov av 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger og [forskrift av 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) til personopplysningsloven. Dersom en utøver velger å føre pasientjournal, vil dette typisk innebære en behandling av helse- og personopplysninger som må skje i samsvar nevnte regelverk. Hovedreglene etter personopplysningsloven er at det for behandling av sensitive personopplysninger (typisk helseopplysninger) vil være nødvendig med konsesjon eller overholdelse av meldeplikt til Datatilsynet. I tillegg må den enkelte utøver ha pasientens samtykke for å behandle personopplysningene (typisk nedtegne opplysninger i en pasientjournal) og utøveren må ved behandlingen av opplysningene overholde de vilkår som følger av eller i medhold av loven. Blant annet er pasienten med hjemmel i personopplysningsloven gitt en rekke rettigheter, for eksempel rett til innsyn, rett til informasjon når det samles inn opplysninger og rett til å kreve retting og/eller sletting av mangelfulle personopplysninger. Utøveren vil måtte sørge for at pasienten kan ivareta sine rettigheter etter loven.
+
+*Nr. 6 – klagerett*
 
 For å bli godkjent må utøverorganisasjonen ha vedtektsfestet en klagerett for pasienter. En pasient skal kunne klage til organisasjonens yrkesetiske råd eller et særskilt opprettet klageorgan over et medlems yrkesfaglige adferd.
 
@@ -190,6 +202,8 @@ Det er utøverens «yrkesfaglige adferd» som det kan klages på. Begrepet skal 
 
 Klageorganet må være slik sammensatt at det har kompetanse til å behandle saker av faglig karakter, så vel som spørsmål av mer etisk karakter eller forretningsmessig art.
 
+*Nr. 7 – mulighet for utelukkelse av medlemmer*
+
 For å bli godkjent må utøverorganisasjon ha vedtektsfestet en mulighet for å utelukke eller ekskludere medlemmer på nærmere fastsatte vilkår.
 
 Det er den enkelte utøverorganisasjon som bestemmer hvilket organ som skal ha myndighet til å beslutte utelukkelse/eksklusjon fra organisasjonen. Slik myndighet kan for eksempel være tillagt organisasjonens styre, eventuelt med krav om at styret på forhånd skal ha innhentet uttalelse fra organisasjonens klageorgan eller yrkesetiske råd. Utøverorganisasjonen må selv fastsette den nærmere saksgang og saksbehandlingsregler for denne type saker.
@@ -198,11 +212,15 @@ Likedan må organisasjonen selv bestemme hvilke vilkår som må være oppfylt f�
 
 Ved vurderingen av om en utøverorganisasjon skal godkjennes, skal Helsedirektoratet heller ikke i forhold til reglene om utelukkelse/eksklusjon foreta noen faglig vurdering av de nærmere reglers materielle eller prosessuelle innhold, men direktoratet må påse at organisasjonen har vedtektsfestet regler som reelt sett medfører at organisasjonen har mulighet til å utelukke medlemmer på nærmere bestemte vilkår. I likhet med hva som er nevnt tidligere må det imidlertid stilles visse minimumskrav til dette regelverket før vilkåret kan sies å være oppfylt. Som utgangspunkt skal det ikke stilles for strenge krav, men også i disse tilfellene må det kreves et visst minimum av detaljering og presisjonsnivå ved beskrivelsen av den vedtektsfestede muligheten for å utelukke/ekskludere medlemmer før vilkåret kan sies å være oppfylt. Også her må det være mulig både for offentlige myndigheter, den enkelte utøver som ønsker å bli medlem av organisasjonen, pasienter og andre, å identifisere hvilken adgang og på hvilke vilkår utøverorganisasjonen kan utelukke/ekskludere medlemmer.
 
+*Nr. 8 – et visst antall medlemmer*
+
 For å bli godkjent må utøverorganisasjon ha minst 30 medlemmer. Et slikt minimumsantall medlemmer vil være nødvendig for at organisasjonen skal kunne ha et reelt klageorgan, og for å kunne drive dette klageorganet på en forsvarlig måte. Videre vil det være nødvendig med et visst antall medlemmer slik at organisasjonen har tilgang til nødvendige personellressurser for å kunne drive faglig og yrkesetisk oppdatering og utvikling ovenfor organisasjonens medlemmer.
 
 Med «medlemmer» siktes det i forskriften til fullverdige medlemmer av organisasjonen, og som selv driver eller har drevet behandlingsvirksomhet. Med sistnevnte siktes det til tidligere utøvere som for tiden ikke driver behandlingsrettet virksomhet, for eksempel på grunn av arbeid med tillitsverv i organisasjonen, svangerskapspermisjon, permisjon på grunn av sykdom eller som driver med etter-/videreutdanning. Støttemedlemmer eller studentmedlemmer i organisasjonen vil imidlertid ikke være å anse for «medlemmer» i henhold til bestemmelsen.
 
 For å motvirke eventuelle uheldige utslag av en så vidt bastant regel, er det åpnet for at Helsedirektoratet kan dispensere fra kravet om minst 30 medlemmer dersom særlige grunner tilsier dette, jf. nærmere om dette nedenfor i merknadene til bestemmelsens andre ledd.
+
+*Nr. 9 – registrering i Enhetsregisteret*
 
 Av hensyn til forenkling og samordning av opplysninger er det hensiktsmessig at utøverorganisasjonenes organisasjonsnummer kan brukes i forhold til registerordningen for utøverne. Utøverorganisasjoner som ønsker å bli godkjent som organisasjoner i registerordningen for alternative behandlere, må derfor være registrert i Enhetsregisteret ved Brønnøysundregistrene.
 

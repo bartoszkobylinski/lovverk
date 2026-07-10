@@ -32,6 +32,10 @@ Forskriften her gir regler til utfylling og gjennomføring av bestemmelsene i [f
 
 Med «frihetsberøvelse» menes fengselsopphold mv. som angitt i loven § 2-17 første ledd første punktum.
 
+Med «utvisning fra riket» menes utvisning på grunnlag av de samme forhold som begrunnet frihetsberøvelsen.
+
+Med «pensjon» menes enhver ytelse som tilstås og beregnes på grunnlag av tidsrom med medlemskap i folketrygden.
+
 ### § 3. Medlemskap under frihetsberøvelse
 
 Frihetsberøvelse gir ikke grunnlag for medlemskap i folketrygden, jf. loven § 2-17 første ledd første punktum. Personer som var medlemmer da frihetsberøvelsen tok til, opprettholder likevel sitt medlemskap, jf. loven § 2-17 første ledd andre punktum. Slikt medlemskap har samme omfang som medlemskapet før frihetsberøvelsen tok til.

@@ -329,7 +329,11 @@ Forskriften trer i kraft 11. oktober 2017. Fra samme tidspunkt oppheves [forskri
 
 ## Vedlegg I. Grunnleggende krav
 
+*1. Allmenne krav*
+
 Apparater og faste installasjoner skal være konstruert og produsert i tråd med den nyeste utviklingen slik atden elektromagnetiske forstyrrelsen som oppstår, ikke er sterkere enn at radio- og telekommunikasjonsutstyr eller andre apparater og faste installasjoner kan fungere som planlagtdet har en grad av immunitet mot elektromagnetisk forstyrrelse som kan forventes i forbindelse med tilsiktet bruk, som gjør at det fungerer uten at den planlagte yteevnen reduseres i uakseptabel grad.
+
+*2. Særlige krav til faste installasjoner*
 
 Installering og tilsiktet bruk for komponenter
 
@@ -339,23 +343,39 @@ En fast installasjon skal installeres i samsvar med god teknisk praksis samtidig
 
 ### Modul A: Intern produksjonskontroll
 
+1\.
+
 Med «intern produksjonskontroll» menes framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3, 4 og 5 i dette vedlegg, og sikrer og erklærer på eget ansvar at det berørte apparat oppfyller gjeldende krav i forskriften.
+
+2.*Vurdering av elektromagnetisk kompatibilitet*
 
 Produsenten skal foreta en vurdering av apparatets elektromagnetiske kompatibilitet på grunnlag av de relevante fenomener, med sikte på å oppfylle de grunnleggende krav fastsatt i vedlegg I nr. 1.
 
 I vurderingen av elektromagnetisk kompatibilitet skal det tas hensyn til alle vanlige planlagte driftsforhold. Dersom apparatet kan konfigureres på ulike måter, skal det gjennom vurderingen av elektromagnetisk kompatibilitet fastslås om apparatet oppfyller de grunnleggende krav fastsatt i vedlegg I nr. 1, i alle de mulige konfigurasjoner produsenten har angitt som representative for apparatets planlagte bruk.
 
+3.*Teknisk dokumentasjon*
+
 Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med de relevante krav, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.
 
 Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en allmenn beskrivelse av apparatet,konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
 
+4.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte apparatene er i samsvar med den tekniske dokumentasjonen nevnt i nr. 3 i dette vedlegg og med de grunnleggende krav fastsatt i vedlegg I nr. 1.
 
+5.*CE-merking og samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre CE-merkingen på hvert enkelt apparat som oppfyller gjeldende krav i forskriften.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver apparatmodell og oppbevare den sammen med den tekniske dokumentasjonen og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning. Samsvarserklæringen skal angi hvilket apparat den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+6.*Representant*
 
 Produsentens forpliktelser angitt i nr. 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
@@ -365,17 +385,29 @@ Produsentens forpliktelser angitt i nr. 5 kan oppfylles av vedkommendes represen
 
 ### Modul B: EU-typeprøving
 
+1\.
+
 Med EU-typeprøving menes den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker et apparats tekniske konstruksjon og kontrollerer og bekrefter at apparatets tekniske konstruksjon oppfyller de grunnleggende krav fastsatt i vedlegg 1 nr. 1.
 
+2\.
+
 EU-typeprøving skal gjennomføres som en vurdering av egnetheten til apparatets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen nevnt i nr. 3, uten en undersøkelse av eksemplaret (konstruksjonstype). Den kan begrenses til visse aspekter ved de grunnleggende krav i henhold til produsenten eller hans representants spesifikasjon.
+
+3\.
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
 Søknaden skal angi de aspekter ved de grunnleggende krav anmodningen om prøving gjelder, og skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om apparatet er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke apparatets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en allmenn beskrivelse av apparatet,konstruksjons- og produksjonstegninger samt lister over komponenter, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og apparatets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende krav i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
 
+4\.
+
 Det tekniske kontrollorganet skal undersøke den tekniske dokumentasjonen for å vurdere om apparatets tekniske konstruksjon er velegnet i forhold til de aspekter ved de grunnleggende krav anmodningen om prøving gjelder.
 
+5\.
+
 Det tekniske kontrollorganet skal utarbeide en vurderingsrapport som beskriver tiltakene som er gjennomført i henhold til nr. 4, og resultatene av dem. Uten at det berører dets forpliktelser overfor Direktoratet for samfunnssikkerhet og beredskap, skal det tekniske kontrollorganet ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
+
+6\.
 
 Når typen oppfyller kravene i forskriften som gjelder for det berørte apparat, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, aspektene ved de grunnleggende krav som er prøvet, eventuelle gyldighetsvilkår for det, og opplysningene som kreves for å identifisere den godkjente typen. EU-typeprøvingssertifikatet kan ha et eller flere vedlegg.
 
@@ -383,9 +415,13 @@ EU-typeprøvingssertifikatet og dets vedlegg skal inneholde alle opplysninger so
 
 Dersom typen ikke oppfyller gjeldende krav i forskriften, skal det tekniske kontrollorganet avslå å utstede et EF-typeprøvingssertifikat og underrette søkeren om dette, samt gi søkeren en detaljert begrunnelse for avslaget.
 
+7\.
+
 Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i forskriften, og avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det tekniske kontrollorganet underrette produsenten om dette.
 
 Produsenten skal underrette det tekniske kontrollorganet som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om apparatet er i samsvar med de grunnleggende krav i forskriften eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EU-typeprøvingssertifikatet.
+
+8\.
 
 Hvert teknisk kontrollorgan skal underrette Direktoratet for samfunnssikkerhet og beredskap om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for Direktoratet for samfunnssikkerhet og beredskap fortegnelser over slike sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
@@ -393,7 +429,11 @@ Hvert teknisk kontrollorgan skal underrette de andre tekniske kontrollorganene o
 
 Kommisjonen, EØS-statene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og/eller tillegg til dem. På anmodning kan Kommisjonen og EØS-statene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene som er gjennomført av det tekniske kontrollorganet. Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og de tekniske dataene, herunder dokumentasjonen innsendt av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
 
+9\.
+
 Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning.
+
+10\.
 
 Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forpliktelsene angitt i nr. 7 og 9, forutsatt at de er angitt i fullmakten.
 
@@ -401,33 +441,63 @@ Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forplikt
 
 ### Modul C: Typesamsvar basert på intern produksjonskontroll
 
+1\.
+
 Typesamsvar basert på intern produksjonskontroll er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 3 og sikrer og erklærer at de berørte apparatene er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet, og oppfyller gjeldende krav i forskriften.
+
+2.*Produksjon*
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte apparatene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.
 
+3.*CE-merking og samsvarserklæring*
+
+3.1
+
 Produsenten skal påføre CE-merkingen på hvert enkelt apparat som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og som oppfyller gjeldende krav i forskriften.
+
+3.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver apparatmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at apparatet er brakt i omsetning. Samsvarserklæringen skal angi hvilken apparatmodell den er utarbeidet for.
 
+3.3
+
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+4.*Representant*
 
 Produsentens forpliktelser angitt i nr. 3 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg IV. Samsvarserklæring1
 
+1\.
+
 Apparatmodell/produkt (entydig identifikasjon av apparatet; produkt, type-, parti eller serienummer):
+
+2\.
 
 Navn og adresse til produsenten eller eventuelt produsentens representant:
 
+3\.
+
 Denne samsvarserklæringen er utstedt på produsentens ansvar alene.
+
+4\.
 
 Gjenstand for erklæringen (identifikasjon av apparatet som gjør det mulig å spore det; dette kan ved behov omfatte et bilde for å identifisere apparatet):
 
+5\.
+
 Gjenstand for erklæringen beskrevet over er i samsvar med relevante deler av EØS sitt harmoniseringsregelverk:
+
+6\.
 
 Henvisninger til de relevante harmoniserte standarder som er anvendt, herunder datoen for standarden, eller henvisninger til andre tekniske spesifikasjoner, herunder datoen for spesifikasjonen, det erklæres samsvar med:
 
+7\.
+
 Dersom det er relevant: Det tekniske kontrollorganet ... (navn, nummer) ... har utført ... (beskrivelse av inngrepet) ... og utstedt sertifikatet:
+
+8\.
 
 Tilleggsopplysninger:
 
@@ -436,6 +506,8 @@ Undertegnet for og på vegne av:
 (sted og dato for utstedelse):
 
 (navn, funksjon) (underskrift):
+
+1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 
 ## Vedlegg V. Utforming av CE-merkingen
 

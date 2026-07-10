@@ -26,12 +26,16 @@ eu_basis: []
 
 Follo og Nordre Østfold tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Follo (rettssted Ski)
+
 - Enebakk kommune
 - Frogn kommune
 - Nesodden kommune
 - Nordre Follo kommune
 - Vestby kommune
 - Ås kommune.
+
+Trekningskrets 2 Heggen og Frøland (rettssted Mysen)
 
 - Indre Østfold kommune
 - Marker kommune

@@ -84,6 +84,8 @@ Denne forskriften trer i kraft 12. juli 2003. Samtidig oppheves [forskrift av 20
 
 ## Vedlegg 1. Varebetegnelser og produktdefinisjoner
 
+I
+
 - *Syltetøy* er en blanding med passende geléaktig konsistens, framstilt av sukker, fruktkjøtt og/eller puré av ett eller flere fruktslag, samt vann. Syltetøy av sitrusfrukt kan framstilles av hel frukt som er skåret i strimler og/eller skiver.I produkter som inneholder mer enn 60% løselig tørrstoff, skal 1.000 g ferdig produkt være framstilt av minst 350 g fruktkjøtt og/eller puré med unntak av250 g for rips, rognebær, tindved, solbær, nype og kvede,150 g for ingefær,160 g for kasjueple og60 g for pasjonsfrukt.I produkter som inneholder mindre enn 60% løselig tørrstoff, skal 1.000 g ferdig produkt være framstilt av minst 400 g fruktkjøtt og/eller puré med unntak av250 g for solbær og330 g for nype.
 - *Syltetøy ekstra* er en blanding med passende geléaktig konsistens, framstilt av sukker, ikke-konsentrert fruktkjøtt fra ett eller flere fruktslag, samt vann. Syltetøy ekstra kan framstilles helt eller delvis, av ikke-konsentrert kjernefri puré av nyper, bringebær, bjørnebær, solbær, blåbær og rips. Syltetøy ekstra av sitrusfrukt kan framstilles av hel frukt som er skåret i strimler og/eller skiver.Til framstilling av syltetøy ekstra får følgende fruktslag ikke benyttes i blanding med andre fruktslag: eple, pære, clingstoneplomme, melon, vannmelon, drue, gresskar, agurk og tomat.1.000 g ferdig produkt skal være framstilt av minst 450 g fruktkjøtt og/eller puré med unntak av350 g for rips, rognebær, tindved, solbær, nype og kvede,250 g for ingefær,230 g for kasjueple og80 g for pasjonsfrukt.
 - *Gelé* er en blanding med passende geléaktig konsistens, framstilt av sukker, juice og/eller vandig ekstrakt av ett eller flere fruktslag.Mengden juice og/eller vandig ekstrakt som benyttes til framstillingen av 1.000 g ferdig produkt skal ikke være under den som er fastsatt for framstillingen av syltetøy. De angitte mengdene skal beregnes etter fradrag av vekten av vannet som er brukt til framstillingen av de vandige ekstraktene.I produkter som inneholder mer enn 60% løselig tørrstoff, skal 1.000 g ferdig produkt være framstilt av minst 350 g juice og/eller vandig ekstrakt med unntak av250 g for rips, rognebær, tindved, solbær, nype og kvede,150 g for ingefær,160 g for kasjueple og60 g for pasjonsfrukt.I produkter som inneholder mindre enn 60% løselig tørrstoff, skal 1.000 g ferdig produkt være framstilt av minst 400 g juice og/eller vandig ekstrakt med unntak av250 g for solbær og330 g for nype
@@ -92,7 +94,11 @@ Denne forskriften trer i kraft 12. juli 2003. Samtidig oppheves [forskrift av 20
 - *Gelémarmelade* kan betegne den marmeladen som ikke inneholder noen uløselige fruktdeler unntatt små mengder finskåret skall.
 - *Søtet kastanjepuré* er en blanding med passende geléaktig konsistens, framstilt av vann, sukker og kastanjepuré. 1.000 g ferdig produkt skal være framstilt av minst 380 g kastanjepuré (fra Castanea sativa).
 
+II
+
 Produktene som er definert i del I skal inneholde minimum 60% løselig tørrstoff bestemt ved refraktometer. Syltetøy og gelé kan være unntatt denne bestemmelsen. Den gjelder heller ikke hvis sukkeret, helt eller delvis, er erstattet med søtestoff.
+
+III
 
 For blandinger av frukt skal minsteinnholdet som er fastsatt i del I for de forskjellige fruktslagene reduseres proporsjonalt med den prosentandel som er benyttet.
 
@@ -102,7 +108,11 @@ Følgende ingredienser kan benyttes i produktene som er definert i vedlegg 1:Hon
 
 ## Vedlegg 3
 
+*A Definisjoner*
+
 I denne forskriften menes med:*Frukt:*Fersk, frisk, tilstrekkelig moden frukt med alle vesentlige bestanddeler i behold, etter at den er renset, renskåret og topp- og stilkparti er fjernet.I denne forskriften anses bær, tomat, spiselig del av rabarbrastilker, gulrot, søtpotet, agurk, gresskar, melon og vannmelon som frukt.Med «ingefær» menes den spiselige roten av ingefærplanten. Den kan brukes fersk eller konservert ved tørking eller nedlegging i sukkerlake.*Fruktkjøtt (pulp):*Den spiselige delen av hele frukten eventuelt uten skall, skinn, frø, kjerner og lignende. Denne kan være skåret i stykker eller knust, men ikke laget til puré.*Fruktpuré (puré):*Den spiselige delen av hele frukten eventuelt uten skall, skinn, frø, kjerner og lignende. Denne er laget til puré ved pressing gjennom sikt eller ved en lignende prosess.*Vandig ekstrakt av frukt (vandig ekstrakt):*Vandig ekstrakt som inneholder alle de vannløselige bestanddelene i den frukten som benyttes, med forbehold om svinn som er uunngåelig ved en hensiktsmessig framstilling.*Sukker:*Tillatte former for sukker er:De som er definert i gjeldende forskrift om sukkerFruktosesirupUlike former for sukker som er utvunnet fra fruktBrunt sukker.
+
+*B Behandling av råvarer*
 
 1. Produktene som er definert i avsnitt A [pkt. 1](forskrift/2003-07-03-939/kap1), 2, 3 og 4 kan behandles på følgende måterVarme- eller kuldebehandlingFrysetørkingKonsentrering i den grad det er teknisk muligSvoveldioksid (E 220) eller dets salter (E 221, E 222, E 223, E 224, E 226 og E 227) kan brukes som hjelpemiddel i framstillingen av produktene som er definert i vedlegg I del I med unntak av produktene med betegnelsen «ekstra». Det maksimale svoveldioksidinnholdet må ikke overstige mengdebegrensningene som er gitt i gjeldende forskrift om tilsetningsstoffer til næringsmidler.
 2. Aprikoser og plommer til framstilling av syltetøy kan tørkes på andre måter enn ved frysetørking.

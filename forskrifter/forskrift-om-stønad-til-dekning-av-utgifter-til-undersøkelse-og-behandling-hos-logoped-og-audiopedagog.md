@@ -52,32 +52,71 @@ Hvis medlemmet ikke kan møte fram på behandlingsstedet på grunn av sin helset
 
 ## Kapittel 2. Takster
 
+*Kodeforklaringer:*
+
 - Ugyldig takstkombinasjon betyr at takstene ikke kan kombineres i samme behandling / på samme regning.
+
+*Repetisjoner:*
 
 - *0* – betyr at taksten ikke kan repeteres i samme behandling, det vil si at en prosedyre/undersøkelse/behandling bare refunderes én gang selv om den gjentas.
 - *Rep.* – betyr at taksten kan repeteres flere ganger i samme behandling. Står det i stedet et tall, kan taksten repeteres dette antallet ganger.
+
+| *Takst* | *Tekst* | *Refusjon* | *Merknad* | *Repetisjon* |
+| --- | --- | --- | --- | --- |
+|  | A. *Undersøkelse og behandling* |  |  |  |
+| A1a | Undersøkelse<br>Ugyldig takstkombinasjon: Alle unntatt A1b, B10, B1 | 745 | M1, M2 | 0 |
+| A1b | Tillegg for undersøkelse ut over 30 minutter per påbegynte 15 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A1a, B10, B1 | 372 | M1, M2 | 5 |
+| A2a | Behandling<br>Ugyldig takstkombinasjon: Alle unntatt A2b, B10 og B1 | 680 | M1, M2 | 0 |
+| A2b | Tillegg for behandling ut over 30 minutter per påbegynte 15 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A2a, B10 og B1 | 341 | M1, M2 | 5 |
+| A3a | Behandling i grupper på inntil 8 personer – 60 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A3b | 1369 | M3, M5 | 0 |
+| A3b | Tillegg per pasient i gruppen<br>Ugyldig takstkombinasjon: Alle unntatt A3a | 39 | M3, M5 | 0 |
+| A4a | Behandling i grupper på inntil 8 personer – 90 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A4b | 2048 | M3, M5 | 0 |
+| A4b | Tillegg per pasient i gruppen<br>Ugyldig takstkombinasjon: Alle unntatt A4a | 46 | M3, M5 | 0 |
+| A5a | Møtegodtgjørelse med reisetid når logopeden eller audiopedagogen deltar i planlagt tverrfaglig eller flerfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst A5a beregnes for arbeid i inntil en halv time og deretter utløses takst A5b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene A5a og A5b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst A5a og A5b kan ikke benyttes ved samtidig konsultasjon eller dersom møtet blir avlyst.<br>Ugyldig takstkombinasjon: Alle unntatt A5b | 635 |  | 0 |
+| A5b | Tillegg når møtet varer ut over 30 minutter, per påbegynte 30 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A5a | 635 |  | Rep. |
+| A6 | Telefonsamtale/skriftlig kommunikasjon om enkeltpasient med fagpersoner i kommunal helse- og omsorgstjeneste og i spesialisthelsetjenesten<br>Ugyldig takstkombinasjon: Alle | 139 |  | 0 |
+| A7a | Behandling ved videokonsultasjon<br>Ugyldig takstkombinasjon: Alle unntatt A7b | 680 | M1, M2, M3 | 0 |
+| A7b | Tillegg for behandling ved videokonsultasjon ut over 30 minutter per påbegynte 15 minutter<br>Ugyldig takstkombinasjon: Alle unntatt A7a | 341 | M1, M2, M3 | 5 |
+| A7c | Faglig råd og veiledning via fysisk fremmøte, telefon eller video av pårørende eller personell som følger opp pasient, 15 minutter. Taksten kan også benyttes ved skriftlig veiledning når denne er utformet spesifikt for pasienten det gis faglig råd og veiledning om. Taksten kan repeteres ved tidsbruk ut over 15 minutter.<br>Ugyldig takstkombinasjon: Alle | 345 | M4 | 5 |
+|  | *B. Tillegg for behandling i pasientens hjem og reisetillegg* |  |  |  |
+| B10 | Tillegg ved behandling i pasientens hjem<br>Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B1 | 181 | M6 | 0 |
+| B1 | Reisetillegg per kilometer<br>Ugyldig takstkombinasjon: Alle unntatt A1a, A1b, A2a, A2b, B10 | 11 | M6, M7 | Rep. |
 
 > Endret ved forskrifter [28 juni 2022 nr. 1246](forskrift/2022-06-28-1246) (i kraft 1 juli 2022), [26 juni 2023 nr. 1103](forskrift/2023-06-26-1103) (i kraft 1 juli 2023), [21 juni 2024 nr. 1164](forskrift/2024-06-21-1164) (i kraft 1 juli 2024), [23 juni 2025 nr. 1293](forskrift/2025-06-23-1293) (i kraft 1 juli 2025), [18 juni 2026 nr. 1241](forskrift/2026-06-18-1241) (i kraft 1 juli 2026).
 
 ### Merknader:
 
+*M1*
+
 Hver av takstene A1a, A2a, A3a, A4a, og A7a teller som én behandling. Disse takstene kan ikke kombineres i samme behandling/på samme regning. Overlapping i tid mellom pasientbehandlinger godtas ikke.
 
 Inkludert i takstene ligger for- og etterarbeid, men tidsangivelsen angir den tiden pasienten er til stede ved undersøkelsen eller behandlingen.
 
+*M2*
+
 Vurdering av behov for kommunikasjonshjelpemidler og nødvendig veiledning og opplæring kan inngå i taksten når dette er et ledd i pasientens behandlings- eller rehabiliteringsopplegg. Opplæring i alternativ og supplerende kommunikasjon (ASK) kan også inngå i taksten.
+
+*M3*
 
 Utgifter til undersøkelse og behandling via video dekkes på følgende vilkår:Pasienten har vært til fysisk undersøkelse hos logopeden/audiopedagogen, og avtalt oppfølging via video skjer som ledd i et behandlings- eller rehabiliteringsopplegg.Videokonsultasjon foregår i henhold til krav til informasjonssikkerhet, jf. norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten.
 
 Det kan gjøres unntak fra krav til fysisk undersøkelse ved oppstart av behandling når særskilte forhold gjør dette nødvendig, og behovet er dokumentert i journal.
 
+*M4*
+
 Takst A7c kan kun benyttes når logopeden eller audiopedagogen gir konkret veiledning om oppfølging av en enkeltpasient til pårørende eller personell som følger opp pasienten i det daglige, for eksempel personell i hjemmetjenesten eller i kommunale helse- og omsorgsinstitusjoner.
+
+*M5*
 
 Utgifter til behandling i grupper dekkes på følgende vilkår:Pasienten må ha vært til individuell undersøkelse og/eller behandling.Lokaler og utstyr må være tilpasset antall personer i gruppen.
 
 Gruppebehandling kan gis via video forutsatt at vilkårene i merknad M3 er oppfylt.
 
+*M6*
+
 Det er et vilkår for å utløse takstene B10 og B1 at pasienten på grunn av sin helsetilstand ikke kan møte fram på behandlingsstedet. Dersom logopeden eller audiopedagogen velger å reise hjem til pasienten av andre årsaker, utløses ikke rett til reisegodtgjørelse, reisetillegg eller tillegg for behandling i hjemmet.
+
+*M7*
 
 Beregningsgrunnlaget for reisetillegget er antall tilbakelagte kilometer. Ved beregning av veilengden avrundes samlet antall kilometer ved fram- og tilbakereisen til nærmeste hele antall kilometer.
 

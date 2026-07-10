@@ -410,11 +410,11 @@ Politiet skal informere utlendingsmyndighetene ved kopi av siktelsen når utlend
 
 Når dom eller forelegg er rettskraftig oversendes kopi av dommen eller forelegget, sammen med annen informasjon som er nødvendig for å behandle saken i følgende tilfeller:
 
-1. Utlendingen kan vurderes bortvist, jf. [utlendingsloven § 17](lov/2008-05-15-35/§17) eller [§ 121](lov/2008-05-15-35/§121).
+1\. Utlendingen kan vurderes bortvist, jf. [utlendingsloven § 17](lov/2008-05-15-35/§17) eller [§ 121](lov/2008-05-15-35/§121).
 
-2. Utlendingen kan vurderes utvist, jf. [utlendingsloven § 66](lov/2008-05-15-35/§66) til [§ 68](lov/2008-05-15-35/§68) eller [§ 122](lov/2008-05-15-35/§122).
+2\. Utlendingen kan vurderes utvist, jf. [utlendingsloven § 66](lov/2008-05-15-35/§66) til [§ 68](lov/2008-05-15-35/§68) eller [§ 122](lov/2008-05-15-35/§122).
 
-3. Utlendingen har søkt permanent oppholdstillatelse, jf. [utlendingsloven § 62](lov/2008-05-15-35/§62), og politiet forbereder saken, jf. [utlendingsloven § 65](lov/2008-05-15-35/§65) annet ledd, jf. [utlendingsforskriften § 13-3](forskrift/2009-10-15-1286/§13-3).
+3\. Utlendingen har søkt permanent oppholdstillatelse, jf. [utlendingsloven § 62](lov/2008-05-15-35/§62), og politiet forbereder saken, jf. [utlendingsloven § 65](lov/2008-05-15-35/§65) annet ledd, jf. [utlendingsforskriften § 13-3](forskrift/2009-10-15-1286/§13-3).
 
 ### § 10-14. Underretning til folkeregistermyndighetene
 
@@ -1830,11 +1830,11 @@ Analyseinstitusjonen skal gjennomføre analyse av det materialet som oversendes 
 
 I DNA-registeret kan det registreres følgende opplysninger:
 
-1. I identitetsregisteret kan det registreres opplysninger om DNA-profiler fra personer som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) annet ledd og vedkommendes identitetsopplysninger/personalia. Beslutning om registrering direkte i identitetsregisteret treffes av påtalemyndigheten i politiet. Beslutning om overføring fra etterforskningsregisteret til identitetsregisteret kan treffes av Kripos med mindre påtalemyndigheten beslutter at registrering ikke skal skje.
+1\. I identitetsregisteret kan det registreres opplysninger om DNA-profiler fra personer som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) annet ledd og vedkommendes identitetsopplysninger/personalia. Beslutning om registrering direkte i identitetsregisteret treffes av påtalemyndigheten i politiet. Beslutning om overføring fra etterforskningsregisteret til identitetsregisteret kan treffes av Kripos med mindre påtalemyndigheten beslutter at registrering ikke skal skje.
 
-2. I etterforskningsregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) tredje ledd og vedkommendes identitetsopplysninger/personalia.
+2\. I etterforskningsregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) tredje ledd og vedkommendes identitetsopplysninger/personalia.
 
-3. I sporregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) fjerde ledd. Blandingsprofil kan registreres i sporregisteret dersom profilen bare består av uidentifiserte personer. Tilsvarende gjelder dersom profilen delvis er identifisert og den som identifiseres er død. Dersom profilen delvis er identifisert og den som identifiseres er den fornærmede eller vitne, skal det innhentes skriftlig samtykke fra vedkommende for å kunne legge blandingen inn i registeret. Dersom den identifiserte allerede er registrert i DNA-registeret eller er mistenkt i saken, kan blandingen beholdes eller registreres uten samtykke.Før sporprofiler registreres i sporregisteret skal det foretas søk i eliminasjonsregisteret.I DNA-registeret kan det også registreres sakskorrespondanse, opplysninger om straffesaken DNA-profilen ble innhentet i og saker profilen treffer i DNA-registeret.
+3\. I sporregisteret kan det registreres opplysninger om DNA-profiler som nevnt i [politiregisterloven § 12](lov/2010-05-28-16/§12) fjerde ledd. Blandingsprofil kan registreres i sporregisteret dersom profilen bare består av uidentifiserte personer. Tilsvarende gjelder dersom profilen delvis er identifisert og den som identifiseres er død. Dersom profilen delvis er identifisert og den som identifiseres er den fornærmede eller vitne, skal det innhentes skriftlig samtykke fra vedkommende for å kunne legge blandingen inn i registeret. Dersom den identifiserte allerede er registrert i DNA-registeret eller er mistenkt i saken, kan blandingen beholdes eller registreres uten samtykke.Før sporprofiler registreres i sporregisteret skal det foretas søk i eliminasjonsregisteret.I DNA-registeret kan det også registreres sakskorrespondanse, opplysninger om straffesaken DNA-profilen ble innhentet i og saker profilen treffer i DNA-registeret.
 
 > Endret ved [forskrift 20 juni 2014 nr. 790](forskrift/2014-06-20-790) (i kraft 1 juli 2014).
 
@@ -2330,6 +2330,8 @@ For øvrig gjelder bestemmelsene i forskriften kapittel 2.
 
 Til formål som nevnt i [§ 49-1](forskrift/2013-09-20-1097/§49-1) kan det registreres person- og foretaksopplysninger og politiopplysninger, herunder:
 
+*Person- og foretaksopplysninger*
+
 1. navn, oppnavn og aliasnavn,
 2. fødselsnummer og kjønn,
 3. statsborgerskap, fødested og fødeland,
@@ -2339,6 +2341,8 @@ Til formål som nevnt i [§ 49-1](forskrift/2013-09-20-1097/§49-1) kan det regi
 7. informasjon om registrert biometri (foto, DNA, fingeravtrykk med mer),
 8. øvrige opplysninger fra personaliarapporten i den grad det anses nødvendig, jf. [påtaleinstruksen § 8-15](forskrift/1985-06-28-1679/§8-15), jf. [politiregisterloven § 5](lov/2010-05-28-16/§5),
 9. foretaksinformasjon.
+
+*Politiopplysninger*
 
 1. melding om anmeldelse mot person eller foretak
 2. tiltak som gir den registrerte status som siktet i straffesak, jf. [straffeprosessloven § 82](lov/1981-05-22-25/§82) første ledd

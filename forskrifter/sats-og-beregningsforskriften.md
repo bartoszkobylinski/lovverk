@@ -58,21 +58,33 @@ Ved svikt i planteproduksjon, jf. [kap. 2](forskrift/2018-08-01-1215/kap2), kan 
 
 ### § 4. Generelle regler
 
+*Areal*
+
 Alt fulldyrket og overflatedyrket jordbruksareal benyttet til vekster i aktuell vekstgruppe i skadeåret og i gjennomsnittsårene inngår i arealgrunnlaget. Areal fra søknad om produksjonstilskudd benyttes.
 
 Grovfôr høstet fra arealer søker ikke mottar produksjonstilskudd for, inngår i beregningen som fått eller kjøpt fôr.
 
 Uhøstet areal for hver enkelt vekst skal oppgis.
 
+*Vekstgrupper*
+
 Vekstgruppene under ordningen er:grovfôrkorn og annet frø til modningfruktbærpotetergrønnsaker.
+
+*Dokumentasjon og melding*
 
 Foretaket må kunne dokumentere *produksjons*svikt og klimaårsak.
 
 Ved melding til kommunen med etterfølgende kontroll kan dokumentasjonskravet være oppfylt.
 
+*Økologisk drift*
+
 Økologisk produksjon gis et 25 % tillegg i fastsatt sats for veksten og 25 % reduksjon i normavling grovfôr når mer enn 50 % av foretakets areal i vekstgruppen dyrkes økologisk i skadeåret. Areal under omlegging fra konvensjonell til økologisk drift regnes ikke som økologisk areal i skadeåret.
 
+*Tilskuddsmessig kvalitetsforringelse*
+
 Statsforvalteren kan fatte vedtak om at kvalitetsforringelse på frukt og bær regnes som produksjonssvikt dersom kvalitetsforringelsen skyldes haglskade, store nedbørsmengder eller frost.
+
+*Følgeskader etter frostskade på frukttrær*
 
 Det kan gis tilskudd ved produksjonssvikt som skyldes følgeskader etter frostskade på frukttrær. Tilskuddet kan gis i inntil 5 år etter skaden oppsto. Statsforvalteren kan i slike tilfeller fastsette gjennomsnittsavlingen skjønnsmessig med utgangspunkt i foretakets forventede avling dersom skaden ikke hadde oppstått. Det forutsettes at berørt areal replantes så raskt som mulig og senest innen 3 år etter at skaden oppsto.
 
@@ -172,6 +184,79 @@ Ved svikt i honningproduksjon skal kommunen foreta stedlig kontroll på minimum 
 
 ### § 13. Standardsatser for tilskudd ved klimabetinget produksjonssvikt
 
+| *Vekstgruppe: Korn og annet frø til modning* |  |
+| --- | --- |
+| *Vekst* | *Sats, kr pr. kg* |
+| Hvete | 4,25 |
+| Rug/rughvete | 3,85 |
+| Bygg | 3,60 |
+| Havre | 3,65 |
+| Oljefrø | 7,25 |
+| Erter til modning og konserveserter | 5,10 |
+| Bønner til konserves (høstet før modning) | 4,70 |
+| Raigras | 19,10 |
+| Timotei og engsvingel | 40,10 |
+| Rødsvingel, engrapp, kløver mfl. | 93,30 |
+
+| *Vekstgruppe: Grovfôr* |  |
+| --- | --- |
+| Grovfôr salgsproduksjon | Sats, kr 3,05 pr. kg |
+| Grovfôr i foretak med husdyr | Sats, kr 4,75 pr. FEm |
+
+| *Vekstgruppe: Potet* |  |
+| --- | --- |
+| *Vekst* | *Sats, kr pr. kg* |
+| Potet til konsum | 4,30 |
+| Potet til industri | 3,30 |
+| Spesialpotet | 7,00 |
+
+| *Vekstgruppe: Grønnsaker* |  |
+| --- | --- |
+| *Vekst* | *Sats, kr pr. kg* |
+| Kålrot | 9,10 |
+| Hodekål til konsum | 7,60 |
+| Hodekål til industri | 2,90 |
+| Blomkål til konsum | 16,10 |
+| Blomkål til industri | 8,00 |
+| Brokkoli | 26,50 |
+| Rosenkål til konsum<br>Rosenkål til industri | 44,40<br>12,40 |
+| Kinakål | 14,40 |
+| Rødbeter til konsum<br>Rødbeter til industri | 13,80<br>3,00 |
+| Knollselleri til konsum<br>Knollselleri til industri | 18,70<br>5,90 |
+| Purre til konsum<br>Purre til industri | 19,80<br>11,00 |
+| Løk | 6,80 |
+| Sylteagurk | 8,20 |
+| Gulrot til konsum | 5,60 |
+| Gulrot til industri | 2,00 |
+| Salat på friland til konsum | 47,80 |
+| Salat på friland til industri | 22,30 |
+| Isbergsalat til konsum | 22,40 |
+| Isbergsalat til industri | 14,20 |
+
+| *Vekstgruppe: Frukt* |  |
+| --- | --- |
+| *Vekst* | *Sats, kr pr. kg* |
+| Epler | 21,50 |
+| Epler til press | 10,50 |
+| Pærer | 19,90 |
+| Plommer | 32,60 |
+| Moreller | 70,00 |
+| Kirsebær | 11,70 |
+
+| *Vekstgruppe: Bær* |  |
+| --- | --- |
+| *Vekst* | *Sats, kr pr. kg* |
+| Jordbær til konsum | 71,20 |
+| Bringebær til konsum | 102,70 |
+| Jordbær og bringebær til industri | 31,80 |
+| Solbær til industri | 11,70 |
+| Hageblåbær/kostbare bær til konsum | 108,60 |
+
+| *Honningproduksjon* |  |
+| --- | --- |
+|  | *Sats, kr pr. kg* |
+| Honning | 150,15 |
+
 Standardsatsene gjelder fra og med skadeåret 2023.
 
 > Endret ved [forskrifter 22 nov 2018 nr. 1740](forskrift/2018-11-22-1740), [1 aug 2019 nr. 1038](forskrift/2019-08-01-1038), [10 aug 2020 nr. 1628](forskrift/2020-08-10-1628), [14 sep 2022 nr. 1581](forskrift/2022-09-14-1581), [6 feb 2023 nr. 163](forskrift/2023-02-06-163), [22 des 2023 nr. 2336](forskrift/2023-12-22-2336).
@@ -182,9 +267,74 @@ Standardsatsene gjelder fra og med skadeåret 2023.
 
 ### § 14. Normavlinger for grovfôr i FEm/daa
 
+|  | *Normavling*<br>*gruppe 1* | *Normavling*<br>*gruppe 2* | *Normavling*<br>*gruppe 3* | *Normavling*<br>*gruppe 4* | *Normavling*<br>*gruppe 5* |
+| --- | --- | --- | --- | --- | --- |
+| Fulldyrket eng, til slått og beite,<br>jf. produksjonstilskudd 210 | 310 | 390 | 540 | 580 | 700 |
+| Overflatedyrket eng, til slått og beite,<br>jf. produksjonstilskudd 211 | 250 | 310 | 430 | 460 | 560 |
+| Andre grovfôrvekster,<br>jf. produksjonstilskudd 213 | 340 | 430 | 430 | 430 | 430 |
+
+*Kommunenes innplassering i normavlingsgruppe*
+
+| *Kommuner* | *Normavlingsgruppe* |
+| --- | --- |
+| *Østfold* |  |
+| Halden, Moss, Sarpsborg, Fredrikstad, Hvaler, Aremark, Marker, Indre Østfold, Skiptvet, Rakkestad, Råde og Våler | 4 |
+| *Akershus* |  |
+| Vestby, Nordre Follo, Ås, Frogn, Nesodden, Bærum, Asker, Aurskog-Høland, Rælingen, Enebakk, Lørenskog, Lillestrøm, Ullensaker, Nes og Eidsvoll | 4 |
+| Nittedal, Gjerdrum, Nannestad, Hurdal, Lunner og Jevnaker | 3 |
+| *Buskerud* |  |
+| Drammen og Lier | 4 |
+| Kongsberg, Ringerike, Hole, Flå, Sigdal, Krødsherad, Modum, Øvre Eiker og Flesberg | 3 |
+| Nesbyen, Gol, Hemsedal, Ål, Hol, Rollag og Nore og Uvdal | 2 |
+| *Oslo* | 4 |
+| *Innlandet* |  |
+| Kongsvinger, Hamar, Ringsaker, Løten, Stange, Nord-Odal, Sør-Odal, Eidsskog, Grue, Åsnes, Våler, Elverum, Lillehammer, Gausdal, Gjøvik, Sel, Sør-Fron, Ringebu, Øyer, Østre Toten, Vestre Toten, Gran, Søndre Land, Nordre Land og Sør- Aurdal | 3 |
+| Trysil, Åmot, Stor-Elvdal, Rendalen, Engerdal, Tolga, Tynset, Alvdal, Folldal, Os, Dovre, Lesja, Skjåk, Lom, Vågå, Nord-Fron, Etnedal, Nord-Aurdal, Vestre Slidre, Øystre Slidre og Vang | 2 |
+| *Vestfold* |  |
+| Horten, Holmestrand, Tønsberg, Sandefjord, Larvik og Færder | 4 |
+| *Telemark* |  |
+| Porsgrunn, Bamble og Kragerø | 4 |
+| Skien, Notodden, Siljan, Drangedal, Nome, Midt-Telemark og Kviteseid | 3 |
+| Tinn, Hjartdal, Seljord, Nissedal, Fyresdal, Tokke og Vinje | 2 |
+| *Agder* |  |
+| Risør, Grimstad, Arendal, Tvedestrand, Lillesand, Kristiansand, Farsund, Flekkefjord, Lindesnes og Lyngdal | 4 |
+| Gjerstad, Vegårdshei, Froland, Birkenes, Åmli, Iveland, Evje og Hornnes, Bygland Vennesla, Åseral, Hægebostad, Kvinesdal og Sirdal | 3 |
+| Valle og Bykle | 2 |
+| *Rogaland* |  |
+| Sandnes, Stavanger, Hå, Klepp, Time, Sola og Randaberg | 5 |
+| Eigersund, Haugesund, Kvitsøy, Bokn, Tysvær, Karmøy, Utsira og Vindafjord | 4 |
+| Lund, Bjerkreim, Gjesdal, Sokndal, Strand, Hjelmeland, Suldal og Sauda | 3 |
+| *Vestland* |  |
+| Alle kommuner | 3 |
+| *Møre og Romsdal* |  |
+| Alle kommuner | 3 |
+| *Trøndelag* |  |
+| Trondheim, Heim, Hitra, Frøya, Ørland, Orkland, Midtre Gauldal, Melhus, Skaun, Malvik, Selbu, Steinkjer, Namsos, Stjørdal, Frosta, Indre Fosen, Levanger, Verdal, Snåsa, Grong, Høylandet, Overhalla, Flatanger, Nærøysund, Leka og Inderøy | 3 |
+| Rindal, Åfjord, Osen, Oppdal, Rennebu, Røros, Holtålen, Tydal, Meråker, Lierne, Røyrvik og Namsskogan | 2 |
+| *Nordland* |  |
+| Bindal, Sømna, Brønnøy og Vega | 3 |
+| Alle kommuner med unntak av Bindal, Sømna, Brønnøy og Vega | 2 |
+| *Troms* |  |
+| Harstad, Kvæfjord, Tjeldsund, Ibestad, Gratangen, Salangen, Målselv, Sørreisa, Dyrøy og Senja | 2 |
+| Tromsø, Lavangen, Bardu, Balsfjord, Karlsøy, Lyngen, Storfjord, Kåfjord, Skjervøy, Nordreisa og Kvænangen | 1 |
+| *Finnmark* |  |
+| Alta, Vardø, Vadsø, Hammerfest, Kautokeino, Loppa, Hasvik, Måsøy, Nordkapp, Porsanger, Karasjok, Lebesby, Gamvik, Berlevåg, Tana, Nesseby, Båtsfjord og Sør-Varanger | 1 |
+
 > Endret ved forskrifter [14 sep 2022 nr. 1581](forskrift/2022-09-14-1581), [22 des 2023 nr. 2336](forskrift/2023-12-22-2336) (i kraft 1 jan 2024).
 
 ### § 15. Normer ved beregning av fôrlager og fôropptak
+
+| *Fôrverdi av fôrmidler på lager (kg fôr pr. FEm)* |  |
+| --- | --- |
+| Høy | 1,6 |
+| Grassurfôr i silo og «Andre grovfôrvekster» | 5,2 |
+| Grassurfôr i rundballer | 4,7 |
+| Høysilasje | 2,0 |
+
+| *Normer for fôropptak på grovforareal i vekstsesongen* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | *Melkekyr og ammekyr* | *Øvrige storfe* | *Søyer*<br>*med lam* | *Øvrige*<br>*Småfe* | *Hester* |
+| Grovfôr,<br>FEm/dag | 7,5 | 3,5 | 3 | 1 | 4 |
 
 ### § 16. Ikrafttredelse
 

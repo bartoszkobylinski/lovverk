@@ -43,6 +43,8 @@ Forskriften trer i kraft 17. mars 2004.
 
 ## Vedlegg: Beskrivelse av produktets opprinnelse og tilknytning til det geografiske området
 
+*Opprinnelse:*
+
 Tjukkmjølk er et tradisjonelt melkeprodukt fra distriktet Nord-Østerdal/Røros, hvor framstilling av tjukkmjølk minst kan føres tilbake til 1850-tallet. Mye på grunn av sin lange holdbarhet var tjukkmjølk på denne tiden en viktig del av kosten, bl.a. for gruvearbeiderne på Røros og deres familier.
 
 Opprinnelig ble tjukkmjølk fremstilt ved at nysilt melk ble slått over blader av tettegressplanten (Pinguicula Vulgaris), og satt over natten på et lunt sted for syrning og koagulering. Skummet melk som ikke var for mager ble også brukt. Tettekulturene ble holdt i live ved å tilsette litt av tettemelka til råmelk.
@@ -50,5 +52,7 @@ Opprinnelig ble tjukkmjølk fremstilt ved at nysilt melk ble slått over blader 
 Tettegressplanten er en liten kjøttetende plante som vokser i fjellmyrområder flere steder i Norge, deriblant i området i og rundt Røros. Det er melkesyrebakterier som finnes på tettegressplantens blader som bidrar til at melken syrner og koagulerer.
 
 Tettekulturen som brukes til dagens produksjon av tjukkmjølk er en blanding av tre utvalgte tradisjonelle tettekulturer fra det definerte geografiske området.
+
+*Tilknytning til det geografiske området:*
 
 Bruk av stedlig og tradisjonell tettekultur gir produktet dets særpregede aroma og konsistens. Bakteriefloraen i tettekulturen fra Røros har andre egenskaper enn annen undersøkt tettekultur med hensyn til sitratmetabolisme og viskositet. Dette kan tilskrives ulikheter i bakteriefloraen på tettegrasplantens blader avhengig av plantens geografiske voksested.

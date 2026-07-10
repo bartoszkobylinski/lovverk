@@ -29,3 +29,5 @@ I forbindelse med lovens ikrafttredelse eller senere kan departementet gi nødve
 ## III. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 797](forskrift/1992-11-13-797).

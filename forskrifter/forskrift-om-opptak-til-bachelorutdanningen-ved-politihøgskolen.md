@@ -161,3 +161,5 @@ Klager behandles i henhold til forvaltningslovens bestemmelser.
 ### § 8-1. Ikrafttredelse
 
 Denne forskrift trer i kraft 1 måned etter at den er stadfestet av Politidirektoratet. Fra samme tid oppheves forskrift 16. mars 2015 om medisinske krav ved opptak til Politihøgskolen1 og regler 4. juli 2008 om opptak til bachelorutdanningen ved Politihøgskolen.1
+
+1 Ikke kunngjort i Norsk Lovtidend.

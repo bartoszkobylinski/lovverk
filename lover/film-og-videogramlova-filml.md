@@ -135,3 +135,5 @@ Den som ved vilje eller aktlaust bryt denne lova eller forskrifter givne med hei
 ### § 17. Ikraftsetjing
 
 Lova tek til å gjelda frå den tid Kongen fastset1.
+
+1 Frå 1 jan 1988 iflg. [res. 18 des 1987 nr. 965](forskrift/1987-12-18-965).

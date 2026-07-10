@@ -385,7 +385,16 @@ Alle kurs skal ha gjennomført sensur med ekstern sensor minst en gang hvert 3. 
 - Ved Bestått – Ikke bestått tilsvarer Bestått karakterene A–D, mens Ikke bestått tilsvarer E–F
 - Det skal utarbeides skriftlige evalueringer for alle studiokurs i masterundervisningen, etter kriterier gitt av Undervisningsutvalget.
 
-Karaktertrinnene gis følgende betegnelse og generelle beskrivelse:KarakterBetegnelseGenerell kvalitativ beskrivelse av vurderingskriterierAFremragendeFremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet.BMeget godMeget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+Karaktertrinnene gis følgende betegnelse og generelle beskrivelse:
+
+| Karakter | Betegnelse | Generell kvalitativ beskrivelse av vurderingskriterier |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 Sensur av studiokurs med mer enn 6 sp. skal også omfatte en muntlig gjennomgang og kritikk.
 

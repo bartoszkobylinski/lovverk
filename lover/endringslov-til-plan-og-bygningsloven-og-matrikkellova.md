@@ -22,21 +22,31 @@ eu_basis: []
 
 # Lov om endringer i plan- og bygningsloven og matrikkellova (nye virkemidler ved fortetting og transformasjon, grunneierfinansiering av infrastruktur mv.)
 
+Endringer i følgende lover:
+
 1. [Lov 17. juni 2005 nr. 101 om eigedomsregistrering (matrikkellova)](lov/2005-06-17-101).
 2. [Lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven)](lov/2008-06-27-71).
 
 ## I
 
+I [lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling](lov/2008-06-27-71) gjøres følgende endringer:
+
+– – –
+
 ## II
 
-Ved matrikkelomforming kan det opprettast nye grunneigedommar og nye anleggseigedommar, og grensene mellom eksisterande grunneigedommar og anleggseigedommar kan endrast. Før ei slik matrikkelomforming kan matrikkelførast, skal det vere gitt løyve som for oppretting av ei ny matrikkeleining, og liggje føre nødvendige fråsegner om overdraging av eigedomsrett, pantefråfall og konsesjonar for alt areal som blir overført mellom matrikkeleiningar.
+I [lov 17. juni 2005 nr. 101 om eigedomsregistrering](lov/2005-06-17-101) gjøres følgende endringer:
 
-Ei matrikkelomforming kan krevjast av dei som er nemnde i [§ 9 første ledd bokstav a](lov/2005-06-17-101/§9/ledd/1/bokstav/a) til f. Matrikkelomformingar som omfattar umatrikulerte einingar, kan berre skje i saker som er kravde etter [§ 9 første ledd bokstav f](lov/2005-06-17-101/§9/ledd/1/bokstav/f), og berre samtidig med at einingane blir matrikulerte. Kravet skal innehalde samtykke frå dei som har grunnboksheimel som eigar eller festar av dei matrikkeleiningane som omforminga får verknad for, og dei som har andre tinglyste rettar som omforminga får verknad for.
+– – –
 
-Departementet kan gi forskrift om matrikkelomforming.
+Ny [§ 15 a](lov/2005-06-17-101/§15a) skal lyde:
+
+– – –
 
 ## III
 
 Loven gjelder fra den tiden Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 Departementet kan gi nærmere overgangsbestemmelser.
+
+1 Fra 1. juli 2025 for endringsloven del I (plan- og bygningsloven) og endringsloven del II (matrikkellova) med unntak av ny § 15a, iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328).

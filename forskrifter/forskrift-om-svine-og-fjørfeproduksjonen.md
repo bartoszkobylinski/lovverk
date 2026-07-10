@@ -76,11 +76,19 @@ Navet plikter å rapportere til statsforvalteren hvilke besetninger som inngår 
 
 ## § 8. Standardisert erstatning
 
-Drives produksjonen ut over gjeldende konsesjonsgrenser eller innvilget konsesjon, ilegges standardisert erstatning etter følgende satser i kroner pr. dyr:*Dyreslag**Sats pr. dyr for andel produksjon
-≤ 20 % over konsesjonsgrensen**Sats pr. dyr for andel av produksjon
-> 20 % over konsesjonsgrensen*1. Slaktekylling4,54,252. Kalkun45253. Verpehøne100754. Slaktegris4502005. Avlspurke21 00010 8006. Avlspurke i satellitt i purkering32 00023 9007. Avlspurke i nav i purkering2 6501 975
+Drives produksjonen ut over gjeldende konsesjonsgrenser eller innvilget konsesjon, ilegges standardisert erstatning etter følgende satser i kroner pr. dyr:
 
-Sats for utrangert avlspurke (inntil 150 for mange utrangerte) beregnes med jevnt avtakende sats ved bruk av formelen hvor S = 6 050, t = 6 og n = antall: \(\text{Standardisert erstatning} = \sum\limits_{n=0}^{150} (S-tn)\)
+| *Dyreslag* | *Sats pr. dyr for andel produksjon<br>≤ 20 % over konsesjonsgrensen* | *Sats pr. dyr for andel av produksjon<br>> 20 % over konsesjonsgrensen* |
+| --- | --- | --- |
+| 1. Slaktekylling | 4,5 | 4,25 |
+| 2. Kalkun | 45 | 25 |
+| 3. Verpehøne | 100 | 75 |
+| 4. Slaktegris | 450 | 200 |
+| 5. Avlspurke | 21 000 | 10 800 |
+| 6. Avlspurke i satellitt i purkering | 32 000 | 23 900 |
+| 7. Avlspurke i nav i purkering | 2 650 | 1 975 |
+
+Sats for utrangert avlspurke (inntil 150 for mange utrangerte) beregnes med jevnt avtakende sats ved bruk av formelen hvor S = 6 050, t = 6 og n = antall: \\(\\text{Standardisert erstatning} = \\sum\\limits_{n=0}^{150} (S-tn)\\)
 
 Utrangeres mer enn 150 avlspurker for mye, er satsen 5 150 for alle utover de 150.
 

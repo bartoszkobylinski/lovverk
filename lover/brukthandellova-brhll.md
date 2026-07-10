@@ -68,6 +68,8 @@ Lova gjeld frå den tid1 Kongen fastset. Frå same tidspunkt vert [lov av 6. jun
 
 Løyve frå politiet gitt med heimel i [lov av 6. juni 1980 nr. 21](lov/1980-06-06-21) om handelsvirksomhet gjeld òg etter ikraftsetjinga av lova her.
 
+1 Frå 1 jan 2000 iflg. [res. 22 des 1999 nr. 1373](forskrift/1999-12-22-1373).
+
 ## § 7. Endringar i andre lover
 
 Frå den tid lova trer i kraft vert det gjort følgjande endringar i andre lover: – – –

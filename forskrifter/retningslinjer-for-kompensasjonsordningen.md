@@ -26,7 +26,11 @@ eu_basis: []
 
 Ved forvaltningen av kompensasjonsordningen, jf. [delegeringsvedtak av 9. juli 2002 nr. 829](forskrift/2002-07-09-829) av myndighet til Skattedirektoratet til å behandle søknader og foreta tildeling etter kompensasjonsordningen, skal følgende retningslinjer legges til grunn:
 
+*1 Omfanget av kompensasjonen*
+
 Kompensasjonsordningen gjelder for frivillige organisasjoners merkostnader som følge av Merverdiavgiftsreformen 2001.
+
+*2 Hvilke organisasjoner kan søke refusjon*
 
 Refusjonsordningen gjelder for veldedige og allmennyttige organisasjoner – såkalte frivillige organisasjoner, jf. avgrensningen i [merverdiavgiftsloven § 5](lov/1969-06-19-66/§5) første ledd nr. 1 bokstav d. Det legges særlig vekt på om organisasjonen arbeider for å ivareta mer allmenne samfunnsinteresser på tvers av særinteresser og om den er tilgjengelig for et bredt spekter av mennesker.
 
@@ -38,23 +42,43 @@ Eksempler på organisasjoner som vil falle utenfor ordningen:Nærings-, yrkes- o
 
 Det er kun den veldedige og allmennyttige delen av organisasjonens virksomhet som omfattes av refusjonsordningen. For eksempel vil ikke drift av skoler, sykehjem eller behandlingshjem anses som en del av denne virksomheten.
 
+*3 Refusjonen*
+
+*3-1 Hvilke merutgifter er refusjonsberettigede*
+
 Refusjonsordningen gjelder merutgifter som følge av Merverdiavgiftsreformen 2001. Med merutgifter menes merverdiavgift på tjenester som ble merverdi avgiftsbelagt som følge av Merverdiavgiftsreformen 2001, eksempelvis porto, regnskapstjenester og advokattjenester.
 
 Refusjonsordningen omfatter ikke merverdiavgift knyttet til:Anskaffelser som var merverdiavgiftsbelagt før reformen, for eksempel utgifter til kontorutstyr, telefon- og strømabonnement og annonser.Anskaffelser til en merverdiavgiftspliktig del av virksomheten i organisasjonen, dersom den inngående avgiften er fradragsberettiget. Det samme gjelder ved såkalte fellesanskaffelser, det vil si anskaffelser til bruk i både en merverdiavgiftspliktig del av virksomheten og i den delen av virksomheten som ikke er merverdiavgiftspliktig.Økte utgifter som følge av justeringen av merverdiavgiftssatsen fra 23 prosent til 24 prosent fra 1. januar 2001.Anskaffelser som omfattes av andre offentlige tilskudds- eller kompensasjonsordninger mv.
 
+*3-2 Minstegrense*
+
 Minstegrensen for refusjon er kr 10.000 pr. søknad. Se imidlertid særregel for år 2002 i punkt 11.
+
+*3-3 Refusjonsperioden*
 
 Refusjonsbeløpet skal referere seg til merutgifter pr. år. Se imidlertid særregel for år 2002 i punkt 11.
 
 Merverdiavgift som knytter seg til anskaffelser fra tidligere år kan ikke tas med i søknad for senere år. Leveringstidspunktet legges til grunn for vurderingen av når en anskaffelse er foretatt.
 
+*3-4 Avkorting i refusjonen*
+
 Dersom det totale søknadsbeløpet overstiger bevilgningen for det aktuelle året, vil alle refusjonskrav bli prosentvis avkortet.
+
+*4 Forvaltningsansvar*
 
 Skattedirektoratet har forvaltningsansvaret for kompensasjonsordningen.
 
+*5 Kunngjøring*
+
 Kompensasjonsordningen skal kunngjøres årlig i god tid før søknadsfristens utløp. Kunngjøringen skal inneholde blant annet opplysninger om formålet med ordningen, kravene som gjelder for ordningen, søknadsskjema og søknadsfrist. Det skal videre informeres om at det vil kunne bli iverksatt kontrolltiltak.
 
+*6 Saksbehandling*
+
+*6-1 Søknad om refusjon*
+
 Søknaden skal:Fremmes av organisasjonens sentrale ledd.Skrives på søknadsskjema som fås ved henvendelse til Hedmark fylkes skattekontor eller som kan lastes ned fra nettstedet *http://www.skatteetaten.no*.Inneholde bekreftelse på at søker har gjort seg kjent med retningslinjene for refusjonsordningen.Underskrives av en person som har fullmakt til å fremsette søknad på vegne av søker og sendes skriftlig til Hedmark fylkesskattekontor.Vedlegges særrapport fra revisor, jf. punkt 6-2.
+
+*6-2 Krav om særrapport fra revisor*
 
 Søknader som overstiger kr 25.000 skal vedlegges særrapport fra registrert eller statsautorisert revisor. Særrapporten avgis, på eget skjema som vedlegg til søknadsskjemaet, jf. punkt 6-1. Revisors uttalelse skal baseres på revisjonsstandard RS 800 Revisors uttalelser ved revisjonsoppdrag med spesielle formål.
 
@@ -62,9 +86,13 @@ I særrapporten skal det bekreftes at:Organisasjonen omfattes av refusjonsordnin
 
 Fylkesskattekontoret kan, dersom de anser det nødvendig i det konkrete tilfellet, stille krav om særrapport fra revisor uavhengig av refusjonskravets størrelse.
 
+*6-3 Søknadsfrist*
+
 Søknad skal sendes én gang pr. år til Hedmark fylkesskattekontor. Søknaden må innen 15. april enten være poststemplet eller innlevert til fylkesskattekontoret. For år 2002 er det særlige frister, se punkt 11 om overgangsordning.
 
 Søknader som er innkommet etter fristen kan ikke påregnes behandlet. Det samme gjelder ufullstendige søknader, jf. punkt 6-2. Det gis ikke fristutsettelse eller oppreisning for fristoversittelse.
+
+*6-4 Brev om foreløpig tilsagn*
 
 Brev om foreløpig tilsagn skal sendes hver enkelt søker som har fått søknaden innvilget. Brevet utformes i henhold til bestemmelsene i «Funksjonelle krav til økonomiforvaltningen i staten» punkt 11-3.4 og må inneholde:Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.Den totale bevilgningen for året, foreløpig beregnet refusjonsbeløp og prosentvis dekning av refusjonskravet.Forbehold om at refusjonsbeløpet vil kunne avkortes ytterligere dersom summen av refusjonsberettigede krav øker på bakgrunn av klagebehandingen.At refusjonen vil bli utbetalt så snart alle søknader er ferdigbehandlet.Henvisning til Finansdepartementets retningslinjer av 9. juli 2002 nr. 829, som skal vedlegges brevet om foreløpig tilsagn.
 
@@ -72,13 +100,19 @@ Foreløpig tilsagn skal også inneholde et forbehold om adgang for kontrollmyndi
 
 Foreløpig tilsagn er å anse som enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2) første ledd bokstav b.
 
+*6-5 Avslag på søknad om refusjon*
+
 Vedtak om avslag på søknad om refusjon er å betrakte som enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2) første ledd bokstav b. Begrunnelsen for avslaget skal angis, jf. [forvaltningsloven § 24](lov/1967-02-10/§24). Det samme gjelder ved delvis avslag på søknaden. Det skal videre opplyses om klageadgangen i [forvaltningsloven kapittel VI](lov/1967-02-10/kapvi).
 
 Prosentvis avkortning av refusjonskravet på grunn av at det totale søknadsbeløpet overstiger bevilgningen for det aktuelle året, anses ikke som et avslag. En slik avkorting kan ikke påklages.
 
 Eventuelle søknader under minstegrensen, søknader som er innkommet etter søknadsfristen eller søknader som er ufullstendige, skal avvises.
 
+*6-6 Klageadgang*
+
 Avslag på søknad om refusjon og beslutning om å avvise vedtaket anses som enkeltvedtak etter [forvaltningsloven § 2](lov/1967-02-10/§2) første ledd bokstav b, og kan påklages etter lovens kapittel VI. Klagen sendes Skattedirektoratet via Hedmark fylkesskattekontor senest tre uker fra det tidspunktet underretning om vedtaket er kommet frem til søkeren.
+
+*6-7 Tilsagnsbrev*
 
 Etter at alle klagene er behandlet, vil fylkesskattekontoret foreta en endelig fordeling av det beløpet som er bevilget til refusjon for søknadsperioden/-året. Et tilsagnsbrev sendes mottakerne av refusjonen, med:Mottakers navn, adresse, bankkontonummer og organisasjonsnummer.Henvisning til det foreløpige tilsagnsbrevet med vedlegg.Det endelige refusjonsbeløpet og prosentvis dekning av refusjonskravet.Tidspunktet for når utbetalingen vil bli foretatt.
 
@@ -86,21 +120,35 @@ Tilsagnsbrevet skal også inneholde et forbehold om adgang for kontrollmyndighet
 
 Det endelige tilsagnet kan ikke påklages.
 
+*7 Bortfall av refusjon, krav på tilbakebetaling*
+
 Organisasjonen har plikt til straks å melde til Hedmark fylkesskattekontor dersom den blir oppmerksom på at refusjonen er gitt på feil grunnlag.
 
 Dersom det er gitt refusjon på uriktig eller ufullstendig grunnlag, kan refusjonsvedtaket endres og det uriktige refunderte beløpet kreves tilbakebetalt med tillegg av renter etter bestemmelsene om betaling av merverdiavgift, jf. merverdiavgiftsloven § 36 og § 37 annet ledd. Rentesatsen skal settes lik den til enhver tid gjeldende rente fastsatt med hjemmel i forsinkelsesrenteloven. Uriktig refundert beløp med tillegg av renter kan motregnes ved senere refusjonssøknad, jf. også punkt 9.
 
 Vedtak om endring kan treffes inntil 10 år etter vedtaket om refusjon.
 
+*8 Rutiner i skatteetaten for registrering av tilsagn*
+
 Tilsagn må registreres i henhold til «Funksjonelle krav til økonomiforvaltningen i staten», herunder punkt 11-3.5.
+
+*9 Rutiner i skatteetaten for utbetaling, regnskapsføring og behandling av eventuelt for mye utbetalt refusjon*
 
 Det må etableres rutiner for utbetaling, regnskapsføring og behandling av eventuelt for mye utbetalt refusjon i samsvar med «Funksjonelle krav til økonomiforvaltningen i staten».
 
+*10 Oppfølging og kontroll*
+
+*10-1 Krav til intern kontroll i skatteetaten*
+
 Det må være etablert metoder og tiltak hos den som forvalter refusjonsordningen, som har til oppgave å avdekke og korrigere feil og mangler, jf. blant annet Økonomireglement for staten § 21.3 og «Funksjonelle krav til økonomiforvaltningen i staten» punktene 2-6 og 11-5.
+
+*10-2 Oppfølging og kontroll med søker/refusjonsmottaker*
 
 Underlagsdokumentasjonen for refusjonskravet må av mottaker:oppbevares i 10 år etter søknadsåret,være ordnet på en måte som muliggjør en hurtig gjennomføring av kontroll ogvære betryggende sikret mot ødeleggelse og tyveri.
 
 Den som har søkt om eller har mottatt refusjon, må ved forespørsel fra kontrollmyndigheten, herunder Riksrevisjonen, gi innsyn i Underlagsdokumentasjonen for refusjonskravet. Denne skal også gi kontrollmyndigheten nødvendig bistand til innsyn og eventuelt stille til disposisjon utstyr og programvare for dette. Dette gjelder også den som eventuelt registrerer og oppbevarer regnskapsmaterialet på vegne av søkeren/refusjonsmottakeren.
+
+*11 Overgangsordning i forbindelse med utbetaling i 2002*
 
 I statsbudsjettet for 2002 er det vedtatt å bevilge 195 mill. kroner til refusjon av merverdiavgift for frivillige organisasjoner. Dette gjelder perioden fra Merverdiavgiftsreformen 2001 ble iverksatt, det vil si perioden 1. juli 2001 – 31. desember 2002.
 

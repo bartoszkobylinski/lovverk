@@ -24,9 +24,15 @@ eu_basis: []
 
 ## I
 
+I [forskrift 27. oktober 2003 nr. 1283 om godkjenning av private og kommunale institusjoner som skal benyttes for barn som plasseres utenfor hjemmet med hjemmel i barnevernloven](forskrift/2003-10-27-1283), skal [§ 4](forskrift/2003-10-27-1283/§4) andre ledd nytt tredje punktum lyde: – – –
+
 ## II
 
+I [forskrift 11. desember 2003 nr. 1564 om tilsyn med barn i barneverninstitusjoner for omsorg og behandling](forskrift/2003-12-11-1564) skal [§ 8](forskrift/2003-12-11-1564/§8) nytt syvende ledd lyde: – – –
+
 ## III
+
+I [forskrift 18. desember 2003 nr. 1659 om fosterhjem](forskrift/2003-12-18-1659) gjøres følgende endringer: – – –
 
 ## IV
 

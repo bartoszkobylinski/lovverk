@@ -97,3 +97,5 @@ Statsministerens kontor gir regler om regnskapsordningen ved regjeringsadvokatem
 ## II
 
 Instruksen trer i kraft fra det tidspunkt Justisdepartementet bestemmer.1
+
+1 Fra 1 okt 1962 iflg. vedtak 9 aug 1962.

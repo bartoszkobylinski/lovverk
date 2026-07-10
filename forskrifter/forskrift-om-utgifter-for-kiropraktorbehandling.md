@@ -60,12 +60,20 @@ Hvis medlemmet ikke kan møte fram på behandlingsstedet på grunn av sin helset
 
 ## § 7. Takster
 
-*Takst**Tekst**Honorar*K1Undersøkelse ved igangsetting av et behandlingsopplegg4 kronerK2Behandling hos kiropraktor, per gang4 kronerK3aMøtegodtgjørelse med reisetid når kiropraktoren deltar i planlagt tverrfaglig eller flerfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst K3a beregnes for arbeid i inntil en halv time og deretter utløses takst K3b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene K3a og K3b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst K3a og K3b kan ikke benyttes:
-• ved samtidig konsultasjon
-• når kiropraktor deltar i dialogmøte med arbeidsgiver, arbeidstaker og/eller NAV. Deltakelse i slike møter godtgjøres av NAV etter L-takster.
-• dersom møtet blir avlyst4 kronerK3bSenere per påbegynt halvtime4 kronerK4Telefonsamtale / skriftlig kommunikasjon om enkeltpasient med lege, fysioterapeut i spesialisthelsetjenesten, kiropraktor i spesialisthelsetjenesten, kommunal helse- og sosialtjeneste og bedriftshelsetjeneste.4 kronerK6Videokonsultasjon i henhold til Norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten. Videokonsultasjon må være avtalt med pasienten på forhånd.4 kroner
+| *Takst* | *Tekst* | *Honorar* |
+| --- | --- | --- |
+| K1 | Undersøkelse ved igangsetting av et behandlingsopplegg | 4 kroner |
+| K2 | Behandling hos kiropraktor, per gang | 4 kroner |
+| K3a | Møtegodtgjørelse med reisetid når kiropraktoren deltar i planlagt tverrfaglig eller flerfaglig samarbeidsmøte om enkeltpasient. Møtet må være ledd i pasientens behandlings- eller rehabiliteringsopplegg. Taksten kan også utløses når møtet foregår via telefon eller video. Takst K3a beregnes for arbeid i inntil en halv time og deretter utløses takst K3b per påbegynte halvtime. Hvis møtet gjelder flere pasienter, beregnes takstene K3a og K3b for den samlede møte- og reisetid, ikke per pasient. Hvilke instanser/personer som har deltatt på møtet, tidspunkt for møtet og hvor møtet fant sted må kunne dokumenteres. Takst K3a og K3b kan ikke benyttes:<br>• ved samtidig konsultasjon<br>• når kiropraktor deltar i dialogmøte med arbeidsgiver, arbeidstaker og/eller NAV. Deltakelse i slike møter godtgjøres av NAV etter L-takster.<br>• dersom møtet blir avlyst | 4 kroner |
+| K3b | Senere per påbegynt halvtime | 4 kroner |
+| K4 | Telefonsamtale / skriftlig kommunikasjon om enkeltpasient med lege, fysioterapeut i spesialisthelsetjenesten, kiropraktor i spesialisthelsetjenesten, kommunal helse- og sosialtjeneste og bedriftshelsetjeneste. | 4 kroner |
+| K6 | Videokonsultasjon i henhold til Norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten. Videokonsultasjon må være avtalt med pasienten på forhånd. | 4 kroner |
+
+*Merknad til takstene K1 og K2:*
 
 Takst K1 og K2 kan ikke kombineres i samme konsultasjon. Takst K1 kan kun benyttes en gang per behandlingsserie. Med behandlingsserie menes det antall behandlinger som er nødvendig for samme sykdom/skade/lyte.
+
+*Merknad til taksten K3a:*
 
 Samarbeidet kan omfatte diagnostisering, kartlegging av rehabiliteringsbehov, utarbeiding og oppfølging av rehabiliteringsplan, vurdering av funksjonsnivå, tilrettelegging av miljø mv. Skyssgodtgjørelse kan kreves i tillegg etter [forskrift om dekning av utgifter til transport av helsepersonell m.m. i forbindelse med reise for å foreta undersøkelse eller behandling](forskrift/2003-12-19-1728).
 

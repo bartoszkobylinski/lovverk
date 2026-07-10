@@ -46,6 +46,8 @@ Første og andre ledd gjelder ikke for politiets fartøy, brannvesenets fartøy,
 
 Bestemmelsen i andre ledd gjelder ikke for fartøy som kommunen bruker i forbindelse med drift og vedlikehold av badeplassen.
 
+1 Jf. IALA-merkesystem – spesialmerker.
+
 ## § 4. Melding til Kartverket om kommunale forskrifter og skilting
 
 Kommunen skal sende melding om forskrifter gitt i medhold av [havne- og farvannsloven § 8](lov/2019-06-21-70/§8) til Kartverket. Melding skal sendes straks etter at forskriften er kunngjort i Norsk Lovtidend.

@@ -72,43 +72,47 @@ Oppsigelse i henhold til denne artikkel skal foretas ad diplomatisk vei og skrif
 
 – – –
 
+Til bekreftelse av foranstående har de undertegnede etter behørig fullmakt undertegnet denne protokoll og forsynt den med sine segl.
+
+Denne protokoll er utferdiget i to eksemplarer på det norske og svenske språk. Begge tekster har samme gyldighet.
+
 ## Bilag 1
 
 ### Vilkår for lån fra «Fonden för svenskt-norskt industriellt samarbete».
 
-1. For å fremme industrielt utviklingssamarbeid mellom norske og svenske bedrifter kan det gis støtte fra fondet.Støtten gis i form av lån for finansiering av større prosjekter som har teknisk eller markedsmessig utviklingsarbeid som formål.
+1\. For å fremme industrielt utviklingssamarbeid mellom norske og svenske bedrifter kan det gis støtte fra fondet.Støtten gis i form av lån for finansiering av større prosjekter som har teknisk eller markedsmessig utviklingsarbeid som formål.
 
-2. Lån kan gis til prosjekter som fra et kommersielt eller tekniskt synspunkt innebærer høy risiko og som på relativt kort sikt kan gi bedriftøkonomisk lønnsomhet.
+2\. Lån kan gis til prosjekter som fra et kommersielt eller tekniskt synspunkt innebærer høy risiko og som på relativt kort sikt kan gi bedriftøkonomisk lønnsomhet.
 
-3. Lån kan gis til prosjekter av felles norsk/ svensk industriell interesse og som initieres av norske og svenske bedrifter i samarbeid. Lån kan deles opp mellom bedriftene.
+3\. Lån kan gis til prosjekter av felles norsk/ svensk industriell interesse og som initieres av norske og svenske bedrifter i samarbeid. Lån kan deles opp mellom bedriftene.
 
-4. Lån kan ikke gis dersom prosjektet er av en slik art at finansieringen hensiktsmessig antas å kunne skje på det alminnelige kredittmarked på normale markedsmessige vilkår.
+4\. Lån kan ikke gis dersom prosjektet er av en slik art at finansieringen hensiktsmessig antas å kunne skje på det alminnelige kredittmarked på normale markedsmessige vilkår.
 
 ### Størrelsen på lån
 
-5. Lån kan gis med høyst 50 pst. av kostnaden for det utviklingsprosjekt lånet gjelder. Hensyn skal tas til om annen norsk eller svensk statlig støtte er blitt gitt for samme formål. Om helt særlige grunner foreligger, kan et lån gis til en større del av kostnaden. Lån til ett prosjekt får dog ikke overstige 50 mill. svenske kroner. Et lån kan ikke gis med større beløp enn det som er nødvendig for å oppnå formålet med støtten.Prosjekter hvis totale kostnader er mindre enn 3 mill. svenske kroner skal ikke støttes. Prosjekter som gjelder utvinning av olje og gass skal ikke støttes.
+5\. Lån kan gis med høyst 50 pst. av kostnaden for det utviklingsprosjekt lånet gjelder. Hensyn skal tas til om annen norsk eller svensk statlig støtte er blitt gitt for samme formål. Om helt særlige grunner foreligger, kan et lån gis til en større del av kostnaden. Lån til ett prosjekt får dog ikke overstige 50 mill. svenske kroner. Et lån kan ikke gis med større beløp enn det som er nødvendig for å oppnå formålet med støtten.Prosjekter hvis totale kostnader er mindre enn 3 mill. svenske kroner skal ikke støttes. Prosjekter som gjelder utvinning av olje og gass skal ikke støttes.
 
 ### Låne- og tilbakebetalingsvilkår
 
-6. Lånets løpetid, rente og tilbakebetalingsbetingelser skal bestemmes under hensyntagen til prosjektets risiko og det forventede økonomiske resultat.
+6\. Lånets løpetid, rente og tilbakebetalingsbetingelser skal bestemmes under hensyntagen til prosjektets risiko og det forventede økonomiske resultat.
 
-7. Lån kan gis i norske eller svenske kroner. Norske bedrifter bør fortrinnsvis få lån i norske kroner og svenske bedrifter i svenske kroner.
+7\. Lån kan gis i norske eller svenske kroner. Norske bedrifter bør fortrinnsvis få lån i norske kroner og svenske bedrifter i svenske kroner.
 
-8. Av et lån beregnes rente fra dagen for utbetalingen. Henstand med rentebetaling kan gis hvorved påløpt rente legges til lånebeløpet. Renten bestemmes under hensyntagen til den valuta som lånet gis i og til rentenivået hos tilsvarende finansieringsinstitusjoner i landene.
+8\. Av et lån beregnes rente fra dagen for utbetalingen. Henstand med rentebetaling kan gis hvorved påløpt rente legges til lånebeløpet. Renten bestemmes under hensyntagen til den valuta som lånet gis i og til rentenivået hos tilsvarende finansieringsinstitusjoner i landene.
 
-9. Dersom det anses hensiktsmessig, kan tilbakebetaling av et lån helt eller delvis erstattes med royalty eller annen løpende avgift inntil lånet med renter er tilbakebetalt
+9\. Dersom det anses hensiktsmessig, kan tilbakebetaling av et lån helt eller delvis erstattes med royalty eller annen løpende avgift inntil lånet med renter er tilbakebetalt
 
-10. Et lån skal for øvrig være betinget av de vilkår og forskrifter som anses nødvendige med hensyn til støttens formål. Dog behøver særskilt sikkerhet ikke stilles.
+10\. Et lån skal for øvrig være betinget av de vilkår og forskrifter som anses nødvendige med hensyn til støttens formål. Dog behøver særskilt sikkerhet ikke stilles.
 
-11. Tilbakebetalingsforpliktelsen kan helt eller delvis ettergis dersom låntageren påviser at forutsetningene for å utnytte prosjektets resultater lønnsomt åpenbart mangler.
+11\. Tilbakebetalingsforpliktelsen kan helt eller delvis ettergis dersom låntageren påviser at forutsetningene for å utnytte prosjektets resultater lønnsomt åpenbart mangler.
 
 ### Oppsigelse av lån
 
-12. Et lån kan sies opp til umiddelbar betaling dersom:låntageren gjennom uriktige eller vil ledende opplysninger har foranlediget at lånet er blitt bevilget,låntageren ikke oppfyller sine forpliktelser i henhold til de vilkår eller forskrifter som gjelder for lånet, ellerslike forhold har inntruffet at låntageren med hensyn til formålet for lånet åpenbart ikke lenger bør gis anledning til å opprettholde lånet.
+12\. Et lån kan sies opp til umiddelbar betaling dersom:låntageren gjennom uriktige eller vil ledende opplysninger har foranlediget at lånet er blitt bevilget,låntageren ikke oppfyller sine forpliktelser i henhold til de vilkår eller forskrifter som gjelder for lånet, ellerslike forhold har inntruffet at låntageren med hensyn til formålet for lånet åpenbart ikke lenger bør gis anledning til å opprettholde lånet.
 
-13. En søknad om lån skal være skriftlig og oversendes til fondet gjennom det norske Industrifondet respektive den svenske «Fonden för industriellt utvecklingsarbete». En søknad skal inneholde innformasjoner omde bedrifter som søknaden gjelder, deres virksomhet og økonomiske stilling,formålet med lånet og øvrige grunner som påberopes for søknaden, ognorsk eller svensk statlig støtte i annen form er søkt eller er blitt bevilget for det prosjekt som søknaden gjelder. Søkeren skal forøvrig bringe til veie det grunnlagsmateriale som stiftelsen måtte finne nødvendig.
+13\. En søknad om lån skal være skriftlig og oversendes til fondet gjennom det norske Industrifondet respektive den svenske «Fonden för industriellt utvecklingsarbete». En søknad skal inneholde innformasjoner omde bedrifter som søknaden gjelder, deres virksomhet og økonomiske stilling,formålet med lånet og øvrige grunner som påberopes for søknaden, ognorsk eller svensk statlig støtte i annen form er søkt eller er blitt bevilget for det prosjekt som søknaden gjelder. Søkeren skal forøvrig bringe til veie det grunnlagsmateriale som stiftelsen måtte finne nødvendig.
 
-14. Stiftelsen skal følge virksomheten hos dem som har mottatt lån og derved ha tilsyn med at lånevilkårene blir overholdt.
+14\. Stiftelsen skal følge virksomheten hos dem som har mottatt lån og derved ha tilsyn med at lånevilkårene blir overholdt.
 
 ## Bilag 2
 
@@ -139,6 +143,8 @@ Stiftelsen ledes av et styre og en administrerende direktør.
 ### § 5
 
 Styret består av høyst seks medlemmer og høyst seks vararepresentanter. Administrerende direktør er ikke medlem av styret. Medlemmene og vararepresentantene oppnevnes for en tid av høyst 3 år av den norske, respektive den svenske regjering, med tre hver. Formannen, respektive varaformannen, oppnevnes blant medlemmene av den norske, respektive den svenske regjering, vekselvis for en tid av høyst 1 år.
+
+1 Endret 20 des 1991.
 
 ### § 6
 
@@ -205,6 +211,8 @@ Styret skal årlig før 15. mars avgi til regjeringene årsregnskap med resultat
 Hvert lands regjering utpeker en, høyst to revisorer, hvorav minst en autorisert, for å granske årlig styrets forvaltning og stiftelsens regnskaper. Det skal være to autoriserte vararepresentanter for revisorene, hvorav den svenske og norske regjering utpeker en hver. Revisorene og vararepresentantene utpekes for en periode av høyst tre år.
 
 Revisorene skal senest 1. mai hvert år avgi en revisjonsberetning til regjeringene. Beretningen skal inneholde uttalelser om ansvarsfrihet for styret.
+
+1 Endret 20 des 1991.
 
 ### Øvrige bestemmelser
 

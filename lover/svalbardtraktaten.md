@@ -108,23 +108,23 @@ Utferdiget i Paris den niende februar 1920, i to eksemplarer, hvorav det ene til
 
 ### § 1
 
-1. Notifikasjon om alle krav på landområder som måtte ha vært fremsatt for en regjering før undertegningen av denne traktat, skal innen 3 måneder efterat denne traktat er trådt i kraft, av *kravsmannens* regjering tilstilles en kommissær som har i opdrag å prøve kravene. Kommissæren skal være en dommer eller rettslærd av dansk nasjonalitet og i besiddelse av de nødvendige kvalifikasjoner og utpekes av den danske regjering.
+1\. Notifikasjon om alle krav på landområder som måtte ha vært fremsatt for en regjering før undertegningen av denne traktat, skal innen 3 måneder efterat denne traktat er trådt i kraft, av *kravsmannens* regjering tilstilles en kommissær som har i opdrag å prøve kravene. Kommissæren skal være en dommer eller rettslærd av dansk nasjonalitet og i besiddelse av de nødvendige kvalifikasjoner og utpekes av den danske regjering.
 
-2. Notifikasjonen må inneholde en nøiaktig angivelse av grensene for det felt der gjøres krav på, og være ledsaget av et kart i en målestokk ikke under 1/1.000.000 og hvorpå feltet skal være klart avlagt.
+2\. Notifikasjonen må inneholde en nøiaktig angivelse av grensene for det felt der gjøres krav på, og være ledsaget av et kart i en målestokk ikke under 1/1.000.000 og hvorpå feltet skal være klart avlagt.
 
-3. Notifikasjonen må være ledsaget av et depositum av 1 penny pr. acre (40 ar) av det felt, der gjøres krav på, til dekning av omkostningene ved prøvelsen av kravene.
+3\. Notifikasjonen må være ledsaget av et depositum av 1 penny pr. acre (40 ar) av det felt, der gjøres krav på, til dekning av omkostningene ved prøvelsen av kravene.
 
-4. Kommissæren kan forlange av kravsmennene at de skaffer frem alle andre dokumenter, aktstykker eller oplysninger som han måtte finne nødvendig.
+4\. Kommissæren kan forlange av kravsmennene at de skaffer frem alle andre dokumenter, aktstykker eller oplysninger som han måtte finne nødvendig.
 
-5. Kommissæren skal prøve de krav som således er notifisert. I dette øiemed kan han ty til sådan sakkyndig hjelp som han måtte finne nødvendig og i tilfelle gå til undersøkelser på åstedet.
+5\. Kommissæren skal prøve de krav som således er notifisert. I dette øiemed kan han ty til sådan sakkyndig hjelp som han måtte finne nødvendig og i tilfelle gå til undersøkelser på åstedet.
 
-6. Kommissærens godtgjørelse skal fastsettes ved overenskomst av den danske regjering og de andre interesserte regjeringer. Kommissæren fastsetter selv godtgjørelsen for de medhjelpere som han finner det nødvendig å benytte sig av.
+6\. Kommissærens godtgjørelse skal fastsettes ved overenskomst av den danske regjering og de andre interesserte regjeringer. Kommissæren fastsetter selv godtgjørelsen for de medhjelpere som han finner det nødvendig å benytte sig av.
 
-7. Når kommissæren har prøvd kravene, skal han utarbeide en redegjørelse som nøiaktig angir de krav der efter hans mening bør godkjennes straks som begrunnet, og dem som han, enten på grunn av tvist eller av nogen annen årsak, mener bør undergis voldgift som nedenfor omhandlet. Kopier av denne redegjørelse skal av kommissæren tilstilles de interesserte regjeringer.
+7\. Når kommissæren har prøvd kravene, skal han utarbeide en redegjørelse som nøiaktig angir de krav der efter hans mening bør godkjennes straks som begrunnet, og dem som han, enten på grunn av tvist eller av nogen annen årsak, mener bør undergis voldgift som nedenfor omhandlet. Kopier av denne redegjørelse skal av kommissæren tilstilles de interesserte regjeringer.
 
-8. Hvis summen av de beløp som er deponert i henhold til post 3 ikke er tilstrekkelig til å dekke omkostningene ved prøvelsen av kravene, skal kommissæren, hvis han synes kravet er begrunnet, straks angi det tilleggsbeløp som kravsmannen skal betale. Størrelsen av dette beløp skal fastsettes efter utstrekningen av det felt hvortil kravsmannens rett er anerkjent.Dersom størrelsen av de beløp som er deponert i henhold til post 3 overskrider de nevnte omkostninger, skal det overskytende brukes til å dekke utgiftene ved den nedenfor omhandlede voldgift.
+8\. Hvis summen av de beløp som er deponert i henhold til post 3 ikke er tilstrekkelig til å dekke omkostningene ved prøvelsen av kravene, skal kommissæren, hvis han synes kravet er begrunnet, straks angi det tilleggsbeløp som kravsmannen skal betale. Størrelsen av dette beløp skal fastsettes efter utstrekningen av det felt hvortil kravsmannens rett er anerkjent.Dersom størrelsen av de beløp som er deponert i henhold til post 3 overskrider de nevnte omkostninger, skal det overskytende brukes til å dekke utgiftene ved den nedenfor omhandlede voldgift.
 
-9. Innen 3 måneder fra datoen for den redegjørelse som er nevnt i post 7 i denne paragraf skal den norske regjering ta de nødvendige skritt til å meddele dem, hvis krav kommissæren har anerkjent, gyldig hjemmelsdokument, som sikrer dem den utelukkende eiendomsrett til vedkommende felt, overensstemmende med de lover og forskrifter som måtte gjelde eller bli gjeldende for de områder som er nevnt i artikkel 1 i denne traktat og med forbehold av den bergverksordning som er nevnt i traktatens artikkel 8.I tilfelle av at en tilleggsbetaling måtte bli nødvendig efter post 8 ovenfor, skal der dog bare utferdiges et midlertidig hjemmelsdokument, som blir endelig når kravsmannen innen en sådan passende frist som den norske regjering måtte fastsette, har betalt nevnte ytterligere beløp.
+9\. Innen 3 måneder fra datoen for den redegjørelse som er nevnt i post 7 i denne paragraf skal den norske regjering ta de nødvendige skritt til å meddele dem, hvis krav kommissæren har anerkjent, gyldig hjemmelsdokument, som sikrer dem den utelukkende eiendomsrett til vedkommende felt, overensstemmende med de lover og forskrifter som måtte gjelde eller bli gjeldende for de områder som er nevnt i artikkel 1 i denne traktat og med forbehold av den bergverksordning som er nevnt i traktatens artikkel 8.I tilfelle av at en tilleggsbetaling måtte bli nødvendig efter post 8 ovenfor, skal der dog bare utferdiges et midlertidig hjemmelsdokument, som blir endelig når kravsmannen innen en sådan passende frist som den norske regjering måtte fastsette, har betalt nevnte ytterligere beløp.
 
 ### § 2
 

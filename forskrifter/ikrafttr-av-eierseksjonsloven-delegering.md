@@ -22,6 +22,6 @@ eu_basis: []
 
 # Ikrafttredelse av lov 23. mai 1997 nr. 31 om eierseksjoner (eierseksjonsloven). Overføring av myndighet etter eierseksjonsloven §§ 7, 9 og 10.
 
-1. [Lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner (eierseksjonsloven) trer i kraft 1. januar 1998.
+1\. [Lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner (eierseksjonsloven) trer i kraft 1. januar 1998.
 
-2. Den myndighet som i [eierseksjonsloven §§ 7](lov/1997-05-23-31/§7), [9](lov/1997-05-23-31/§9) [og 10](lov/1997-05-23-31/§10) er tillagt departementet, legges til Kommunal- og moderniseringsdepartementet.
+2\. Den myndighet som i [eierseksjonsloven §§ 7](lov/1997-05-23-31/§7), [9](lov/1997-05-23-31/§9) [og 10](lov/1997-05-23-31/§10) er tillagt departementet, legges til Kommunal- og moderniseringsdepartementet.

@@ -40,6 +40,8 @@ For Svalbard gjelder loven med de begrensninger Kongen fastsetter.
 
 > Endret ved [lover 26 juni 1992 nr. 90](lov/1992-06-26-90), [16 feb 2007 nr. 9](lov/2007-02-16-9) (ikr. 1 juli 2007 iflg. [res. 16 feb 2007 nr. 170](forskrift/2007-02-16-170)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 2. Brannfarlige varer.
 
 Brannfarlig vare er etter denne lov:Vare i flytende eller halvfast form som har et flammepunkt ved høyst + 55° C samt – uansett flammepunkt – motorbrensel og fyringsolje (brannfarlig væske).Gass som etter antennelse kan forbrenne i luft, (brannfarlig gass).Annen vare enn nevnt under bokstav a) og b) når Kongen fastsetter at den skal regnes som brannfarlig vare.
@@ -49,6 +51,8 @@ Som brannfarlig vare etter denne paragrafs første ledd bokstav a eller b regnes
 Direktoratet for brann- og eksplosjonsvern skal utarbeide og offentliggjøre en fortegnelse over de brannfarlige varer som til en hver tid vanlig forekommer i handelen. I fortegnelsen skal gis de opplysninger som er av interesse for å vurdere hvordan denne lov skal anvendes på varen.
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [11 juni 1993 nr. 88](lov/1993-06-11-88).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 3. Fareklasser.
 
@@ -62,11 +66,15 @@ Klasse C: Motorbrensel og fyringsolje med flammepunkt over + 55° C samt væsker
 
 Departementet kan ved forskrift fastsette hvordan flammepunktet for en væske skal bestemmes. Oppstår det tvil om hvilken fareklasse en brannfarlig væske skal henføres til, avgjøres spørsmålet av departementet.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 4. Avvikende forskrifter.
 
 Finnes en væske som nevnt i [§ 2](lov/1971-05-21-47/§2) første ledd bokstav a) å være mer eller mindre brannfarlig enn dens flammepunkt angir, kan Kongen fastsette forskrifter for væsken som avviker fra denne lov. Det samme gjelder for gass som nevnt i [§ 2](lov/1971-05-21-47/§2) første ledd bokstav b) når dens brannfarlighet tilsier at den bør falle inn under særlige forskrifter.
 
 Kongen kan fastsette at bare nærmere angitte bestemmelser i denne lov skal få anvendelse for vare som nevnt under [§ 2](lov/1971-05-21-47/§2) første ledd bokstav c) og kan for slik vare fastsette forskrifter som avviker fra denne lov.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 5. Særlige vilkår eller forbud.
 
@@ -75,6 +83,8 @@ Når det etter denne lov og forskrifter i medhold av loven blir gitt tillatelse,
 Når oppbevaring eller behandling av brannfarlig vare kan foregå uten tillatelse, kan brannsjefen, når varen etter forholdene på stedet finnes å medføre særlig fare for brann eller eksplosjon, fastsette nærmere vilkår for oppbevaringen eller behandlingen, eller fastsette begrensninger i eller forbud mot slik oppbevaring eller behandling som ellers lovlig kunne skje. Reglene her gjelder tilsvarende for lasting, lossing og midlertidig oppbevaring av brannfarlig vare under annen transport enn nevnt i [§ 29](lov/1971-05-21-47/§29).
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 6. Om utførelse og montering av beholder, apparat eller annen innretning og om godkjenning.
 
@@ -86,6 +96,8 @@ Produkt som er produsert og kontrollert i overensstemmelse med regelverk som Nor
 
 > Endret ved [lover 11 juni 1993 nr. 88](lov/1993-06-11-88), [27 nov 1992 nr. 115](lov/1992-11-27-115) (ikr. 1 jan 1994).
 
+1 Loven gjelder bare for Svalbard.2 Jf. [EØS-avtalen vedlegg II](avtale/avt-1992-05-02-1-v2).
+
 ### § 7. Undersøkelse av brannfarlig vare, innhenting av prøver o.l.
 
 Direktoratet for brann- og eksplosjonsvern kan kreve at den som eier, tilvirker, innfører eller markedsfører brannfarlig vare eller innretning o.l. som nevnt i [§ 6](lov/1971-05-21-47/§6), fremlegger representativ prøve av varen eller innretningen, eller iverksetter undersøkelser som finnes nødvendige for å vurdere varens eller innretningens egenskaper eller virkninger. Det samme gjelder annen vare enn nevnt i [§ 2](lov/1971-05-21-47/§2) første ledd bokstav a) og b) når dette er nødvendig for å avgjøre om den skal bringes inn under loven. Direktoratet for brann- og eksplosjonsvern kan selv iverksette slike undersøkelser eller foreta nødvendig prøvetaking og kontroll.
@@ -93,6 +105,8 @@ Direktoratet for brann- og eksplosjonsvern kan kreve at den som eier, tilvirker,
 Kostnadene etter første ledd bæres av den som kravet om undersøkelser, prøvetaking og kontroll er rettet mot. Departementet kan likevel bestemme at kostnadene skal fordeles på flere eiere, tilvirkere, importører eller markedsførere eller at de helt eller delvis skal dekkes av det offentlige. Krav på refusjon av kostnadene er tvangsgrunnlag for utlegg.
 
 > Endret ved [lover 11 juni 1993 nr. 88](lov/1993-06-11-88), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 8. Varigheten av tillatelse og godkjenning.
 
@@ -112,11 +126,15 @@ Er innehaver av tillatelse eller godkjenning avgått ved døden eller gått konk
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 9. Melding om at innretning m.v. for brannfarlig vare kan tas i bruk.
 
 Oppbevaring, behandling eller transport som det er gitt tillatelse til etter [§§ 21](lov/1971-05-21-47/§21), [22](lov/1971-05-21-47/§22), [27](lov/1971-05-21-47/§27), [28](lov/1971-05-21-47/§28) eller [29](lov/1971-05-21-47/§29) og handel som er meldt etter [§ 34](lov/1971-05-21-47/§34), må ikke påbegynnes før tilsynsmyndighetene har inspisert beholder, ledning eller annen innretning med tilbehør til bruk for brannfarlig vare i den tillatte virksomhet, og ved skriftlig melding har godkjent at den kan tas i bruk. Ved handel gjelder det samme utsalgsstedet.
 
 Med samtykke av den myndighet som har gitt tillatelsen, kan prøvedrift for så vidt gjelder behandling og transport foretas uten hinder av reglene i første ledd.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 10. Særskilt ansvarshavende for opplag og virksomhet.
 
@@ -128,11 +146,15 @@ Departementet kan fastsette at det skal være ansvarshavende også ved annet uts
 
 > Endret ved [lov 11 juni 1993 nr. 85](lov/1993-06-11-85).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 11. Merking av beholder.
 
 Tank som går inn under reglene i [§ 30](lov/1971-05-21-47/§30) samt annen større beholder som blir brukt til transport av brannfarlig vare, skal være tydelig merket. Tilsvarende gjelder også annen beholder som inneholder brannfarlig gass eller brannfarlig væske av klasse A eller B og som blir transportert eller omsatt i handel. Departementet kan gi forskrifter om hvordan merkingen skal være, og om merkeplikt også for beholdere som ikke er nevnt i første og annet punktum.
 
 Er beholderen emballert, gjelder reglene i første ledd også emballasjen.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 11 a. Sikkerhetsdatablad og stoffregister
 
@@ -140,9 +162,13 @@ Departementet kan gi forskrifter om krav til utarbeidelse av sikkerhetsdatablad 
 
 > Tilføyd ved [lov 11 juni 1993 nr. 88](lov/1993-06-11-88), endret ved [lov 8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 12. Oppslag om fare.
 
 Hvor brannfarlig vare forekommer i større mengder, skal det med mindre det åpenbart må anses unødvendig, være oppslag som gir opplysning om faren for brann eller eksplosjon. Oppslag skal anbringes slik at det er lett synlig og i et tilstrekkelig antall.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 13. Åpen ild og røyking.
 
@@ -152,6 +178,8 @@ Kommunestyret kan gi tillatelse til å fravike forbudet for enkelt anledning. Ko
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 14. Forsiktighet for å forebygge brann eller eksplosjon.
 
 Enhver som har befatning med brannfarlig vare, skal iaktta nødvendig forsiktighet for å forebygge fare for brann eller eksplosjon.
@@ -159,6 +187,8 @@ Enhver som har befatning med brannfarlig vare, skal iaktta nødvendig forsiktigh
 Departementet gir nærmere regler om internkontroll og internkontrollsystemer for å sikre at krav fastsatt i og i medhold av denne lov overholdes.
 
 > Endret ved [lov 27 juli 1990 nr. 52](lov/1990-07-27-52).
+
+1 Loven gjelder bare for Svalbard.
 
 ## Kap. 2. Oppbevaring.
 
@@ -168,15 +198,21 @@ Beholder med tilbehør for oppbevaring av brannfarlig vare skal være utført i 
 
 Unntatt fra reglene i dette kapittel er fast drivstoffbeholder med innhold for transportmiddel eller bevegelig arbeidsredskap. Tilsvarende gjelder fast drivstoffbeholder med innhold for stasjonær motor når beholderens volum ikke overstiger 100 liter.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 16. Rom og åpen lagerplass.
 
 Rom som blir brukt til oppbevaring av brannfarlig vare, skal være utført og innredet slik at det has betryggende sikkerhet for at det ikke oppstår fare for brann eller eksplosjon.
 
 Blir brannfarlig vare oppbevart på åpen lagerplass, skal nødvendige tiltak treffes for å hindre at det oppstår slik særlig fare for omgivelsene.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 17. Plassering av beholder.
 
 Beholder som inneholder brannfarlig vare, må ikke være plassert slik at den blir utsatt for oppvarming eller noe annet som kan medføre særlig fare for brann eller eksplosjon. I bygning skal beholder være plassert slik at den ikke medføre særlig fare.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 18. Tiltak for å hindre spill eller lekkasje.
 
@@ -190,6 +226,8 @@ Anlegg i fjell skal være sikret på betryggende måte for å hindre at den bran
 
 Beholder under jord skal, når forholdene tilsier det, være særskilt sikret mot lekkasje.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 19. Avstand til omkringliggende bebyggelse m.v.
 
 Blir brannfarlig vare oppbevart i slik mengde at det kreves tillatelse etter [§ 21](lov/1971-05-21-47/§21) eller [§ 22](lov/1971-05-21-47/§22), jfr. [§ 20](lov/1971-05-21-47/§20), skal det anlegg eller den lagerplass der oppbevaringen skjer, være omgitt av et sikringsfelt (sikkerhetssone).
@@ -197,6 +235,8 @@ Blir brannfarlig vare oppbevart i slik mengde at det kreves tillatelse etter [§
 Er det innen samme anlegg eller lagerplass flere faste beholdere, skal de ligge i betryggende avstand. I den utstrekning det anses nødvendig, skal branngater være anlagt. Det skal likeledes i nødvendig utstrekning sørges for at brannvernets kjøretøyer kan komme fram. Anlegg eller lagerplass skal, hvis forholdene gjør det nødvendig, være innhegnet på hensiktsmessig måte.
 
 Ved vurdering av sikringsfelt, avstander og behovet for branngater og innhegning som nevnt i de foregående ledd, skal det tas hensyn til arten og mengden av de brannfarlige varer som blir oppbevart, til anleggets utførelse, til sikkerhetstiltakene for øvrig, til beskaffenheten av brannvernet og til andre særlige forhold.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 20. Oppbevaring uten særskilt tillatelse.
 
@@ -210,6 +250,8 @@ Unntatt fra reglene i annet ledd annet punktum og tredje ledd første punktum er
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88), [11 des 1998 nr. 71](lov/1998-12-11-71) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1191](forskrift/1998-12-11-1191)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 21. Oppbevaring med tillatelse fra kommunestyret.
 
 Tillatelse til oppbevaring av brannfarlig vare utover det som kan oppbevares etter forskrift som nevnt i [§ 20](lov/1971-05-21-47/§20) første ledd, gis av kommunestyret med mindre departementet ved forskrift har bestemt noe annet.
@@ -218,11 +260,15 @@ Søknad om tillatelse skal være skriftlig og inneholde de opplysninger som er n
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 des 1998 nr. 71](lov/1998-12-11-71) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1191](forskrift/1998-12-11-1191)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 22. Oppbevaring med tillatelse fra departementet.
 
 Tillatelse til oppbevaring som ikke kan gis av kommunestyret, gis av departementet. Før tillatelse gis, skal søknaden legges fram for kommunestyret. Reglene i [§ 21](lov/1971-05-21-47/§21) annet ledd gjelder tilsvarende.
 
 > Endret ved [lov 11 juni 1993 nr. 85](lov/1993-06-11-85).
+
+1 Loven gjelder bare for Svalbard.
 
 ## Kap. 3. Behandling.
 
@@ -230,17 +276,25 @@ Tillatelse til oppbevaring som ikke kan gis av kommunestyret, gis av departement
 
 Med behandling forstås i denne lov:Tilvirkning, bearbeiding, forbruk eller annen bruk av brannfarlig vare.Fylling eller tapping av brannfarlig vare til eller fra beholder, apparat eller annen innretning.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 24. Fyllingsgrense for beholder.
 
 Beholder må ikke fylles med mer brannfarlig vare enn hva den måtte være bestemt for.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 25. Rom, bygning og annet anlegg.
 
 Rom, bygning eller annet anlegg der brannfarlig vare blir behandlet, skal være utført og innredet slik at det ikke oppstår særlig fare for brann eller eksplosjon.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 26. Avstand til omkringliggende bebyggelse m.v.
 
 For bygning eller annet anlegg der brannfarlig vare i større mengde blir behandlet, gjelder bestemmelsene i [§ 19](lov/1971-05-21-47/§19) tilsvarende.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 27. Tillatelse til tilvirkning og bearbeiding.
 
@@ -251,6 +305,8 @@ Tillatelse etter første ledd gis av kommunestyret, men av departementet etter a
 Departementet kan i forskrift unnta behandling som nevnt i første ledd fra kravet om tillatelse. I forskriftene kan departementet bestemme at melding om behandling skal gis til kommunestyret eller Direktoratet for brann- og eksplosjonsvern.
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88), [11 des 1998 nr. 71](lov/1998-12-11-71) (ikr. 1 jan 1999 iflg. [res. 11 des 1998 nr. 1191](forskrift/1998-12-11-1191)).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 28. Tillatelse til omtapping.
 
@@ -264,6 +320,8 @@ Tillatelser til omtapping gis som i [§ 27](lov/1971-05-21-47/§27) annet ledd b
 
 Departementet kan i forskrifter fastsette andre regler for omtapping enn nevnt i de foregående ledd.
 
+1 Loven gjelder bare for Svalbard.
+
 ## Kap. 4. Transport.
 
 ### § 29. Tillatelse til transport i rørledning.
@@ -273,6 +331,8 @@ Den som fra havn, opplag eller annet anlegg vil transportere brannfarlig vare i 
 Tillatelse gis av departementet, som skal forelegge søknaden for kommunestyret i de kommuner som blir berørt av transporten. Departementet kan bestemme at tillatelser til kortere lokal transport skal gis av brannsjefen. Reglene i [§ 21](lov/1971-05-21-47/§21) annet ledd gjelder tilsvarende.
 
 > Endret ved [lov 11 juni 1993 nr. 85](lov/1993-06-11-85).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 30. Tankbil m.v.
 
@@ -286,9 +346,13 @@ Bevis for godkjenning av kjøretøy og i tilfelle av fører, skal bringes med n�
 
 > Endret ved [lov 11 juni 1993 nr. 88](lov/1993-06-11-88).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 31. Transport i beholder.
 
 Brannfarlig vare som blir transportert i annen beholder enn tank nevnt i [§ 30](lov/1971-05-21-47/§30), skal holdes betryggende innelukket i beholderen. Likeledes skal beholder som har inneholdt brannfarlig vare, holdes lukket på betryggende måte under transport om den ikke er rengjort.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 32. Forskrifter om transport.
 
@@ -296,17 +360,23 @@ Departementet fastsetter de forskrifter som for øvrig er nødvendige for betryg
 
 Forskrifter som nevnt i første ledd gjelder også transport til og fra riket, med mindre annet er bestemt eller følger av internasjonal overenskomst som Norge er bundet til å følge. For så vidt det er nødvendig for gjennomføringen av slik overenskomst, kan det ved forskrifter gjøres unntak fra denne lov.
 
+1 Loven gjelder bare for Svalbard.
+
 ## Kap. 5. Handel.
 
 ### § 33. Utsalgssted.
 
 Utsalgssted hvor brannfarlig vare blir forhandlet, skal være utført og innredet slik at det ikke oppstår særlig fare for brann eller eksplosjon.
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 34. Melding om utsalgssted.
 
 Departementet kan i forskrift bestemme at den som fra utsalgssted vil drive handel med brannfarlig vare, må melde fra til kommunestyret, jfr. [§ 9](lov/1971-05-21-47/§9) første ledd.
 
 > Endret ved [lov 11 juni 1993 nr. 85](lov/1993-06-11-85).
+
+1 Loven gjelder bare for Svalbard.
 
 ## Kap. 6. Tilsyn. Forskrifter. Klage.
 
@@ -328,6 +398,8 @@ For Forsvaret og for transport med jernbane, fly eller annet transportmiddel, ka
 
 > Endret ved [lover 5 juni 1987 nr. 26](lov/1987-06-05-26), [11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 36. (Opphevet)
 
 > Opphevet ved [lov 11 juni 1993 nr. 88](lov/1993-06-11-88).
@@ -348,11 +420,15 @@ Dersom pålegg ikke oppfylles innen fristen kan tilsynsmyndigheten helt eller de
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85) [11 juni 1993 nr. 88](lov/1993-06-11-88), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 38. Klage.
 
 Klageinstans for vedtak etter loven med forskrifter og vedtekter er:Kommunestyret for så vidt avgjørelsen er truffet av brannvesenets eller feiervesenets tjenestemenn.Direktoratet for brann- og eksplosjonsvern for så vidt avgjørelsen er truffet av kommunestyret. Dersom kommunestyret har delegert sin myndighet til en kommunal nemnd, eller brannsjefen, er Direktoratet for brann- og eksplosjonsvern klageinstans for vedkommende vedtak.Departementet for så vidt avgjørelsen er truffet av Direktoratet for brann- og eksplosjonsvern.
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [5 juni 1987 nr. 26](lov/1987-06-05-26), [11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 39. Stedlige undersøkelser og opplysninger. Kontakt med og rapport til arbeidsgivere og arbeidstakere
 
@@ -368,9 +444,13 @@ Med mindre tungtveiende hensyn tilsier noe annet, skal tilsynsmyndigheten gi skr
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [11 juni 1993 nr. 88](lov/1993-06-11-88), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 40. Inspeksjonsbok.
 
 Tilsynsmyndighetene kan kreve at bedrift hvor brannfarlig vare forekommer, skal holde inspeksjonsbok. Departementet kan gi nærmere forskrifter om hvordan boken skal innrettes, føres og oppbevares.
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 41. (Opphevet)
 
@@ -384,6 +464,8 @@ Medlem av kommunestyre kan ikke ta del i undersøkelser eller tilsynsvirksomhet 
 
 > Endret ved [lover 14 juni 1974 nr. 39](lov/1974-06-14-39), [11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 43. Avgiftsplikt.
 
 Kongen kan bestemme at bedrifter som er underlagt tilsyn etter denne lov skal betale avgift til dekning av utgiftene ved Direktoratet for brann- og eksplosjonsvern.
@@ -393,6 +475,8 @@ Nærmere forskrifter om avgifter etter første ledd fastsettes av Kongen.
 Avgiftene er tvangsgrunnlag for utlegg.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [11 juni 1993 nr. 88](lov/1993-06-11-88), [16 juni 1994 nr. 16](lov/1994-06-16-16), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [11 jan 2013 nr. 3](lov/2013-01-11-3) (ikr. 1 juni 2013 iflg. [res. 24 mai 2013 nr. 533](forskrift/2013-05-24-533)).
+
+1 Loven gjelder bare for Svalbard.
 
 ## Kap. 7. Straffeansvar, forelegg, tvangsfullbyrdelse.
 
@@ -404,11 +488,15 @@ Den som legger hindringer i veien for undersøkelser som offentlig myndighet ive
 
 > Endret ved [lover 8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 45. Tvangsmulkt
 
 I pålegg etter loven her kan det fastsettes en løpende tvangsmulkt for hver dag/uke/måned som går etter utløpet av den frist som er satt for oppfylling av pålegget, inntil pålegget er oppfylt. Tvangsmulkt kan også fastsettes som engangsmulkt. Direktoratet for brann- og eksplosjonsvern kan frafalle påløpt tvangsmulkt.
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
+
+1 Loven gjelder bare for Svalbard.
 
 ### § 46. Forelegg om plikt til å etterkomme pålegg eller forbud
 
@@ -420,6 +508,8 @@ Forelegg kan ikke påklages.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 46 a. Tvangsfullbyrdelse
 
 Blir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet, kan vedkommende tilsynsmyndighet selv besørge eller få besørget at pålegget utføres for regning av den som dommen eller forelegget er rettet mot uten at det er nødvendig med kjennelse etter [tvangsfullbyrdelsesloven § 13-14](lov/1992-06-26-86/§13-14).
@@ -427,6 +517,8 @@ Blir pålegg i rettskraftig dom eller dermed likestilt forelegg ikke etterkommet
 Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelsesloven § 13-14](lov/1992-06-26-86/§13-14) uten at dom eller forelegg kreves.
 
 > Tilføyd ved [lov 8 des 2000 nr. 85](lov/2000-12-08-85) (ikr. 1 jan 2001 iflg. [res. 8 des 2000 nr. 1234](forskrift/2000-12-08-1234)).
+
+1 Loven gjelder bare for Svalbard.
 
 ## Kap. 8. Overgangsbestemmelser. Ikrafttreden. Oppheving av andre lover.
 
@@ -440,8 +532,12 @@ Ved overhengende fare kan pålegg fullbyrdes etter reglene i [tvangsfullbyrdelse
 
 > Endret ved [lover 11 juni 1993 nr. 85](lov/1993-06-11-85), [11 juni 1993 nr. 88](lov/1993-06-11-88).
 
+1 Loven gjelder bare for Svalbard.
+
 ### § 48. Ikrafttreden. Oppheving og endring av andre lover.
 
 1. Denne lov trer i kraft fra den tid1 Kongen bestemmer. Det kan fastsettes særskilt tidspunkt for lovens ikrafttreden på Svalbard.2
 2. Fra samme tid oppheves: – – –
 3. Fra samme tid gjøres følgende endringer – – –
+
+1 Loven trådte ikr. 1 jan 1975 iflg. res. 6 des 1974.2 Ved [res. 30 okt 1987 nr. 840](forskrift/1987-10-30-840) er loven med forskrifter, retningslinjer m.v. gitt i medhold av loven, satt ikr. for Svalbard fra 1 jan 1988, med endringer i medhold av [lovens § 1](lov/1971-05-21-47/§1), siste ledd. – Se [lov 17 juli 1925 nr. 11 § 1](lov/1925-07-17-11/§1) (2).

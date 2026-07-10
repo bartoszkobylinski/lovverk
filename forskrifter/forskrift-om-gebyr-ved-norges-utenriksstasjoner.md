@@ -84,4 +84,24 @@ Forskriften trer i kraft 1. juli 2014. Fra samme tidspunkt oppheves [forskrift 2
 
 ## Vedlegg
 
+| *Behandlingen av følgende gebyrpliktige tjenester* | *Gebyrets størrelse* |  |
+| --- | --- | --- |
+|  | *NOK* | *I fremmed valuta, fastsatt av fagstasjon i samsvar med [§ 6](forskrift/2014-06-20-780/§6)* |
+| *A. Pass, utlendingssaker og statsborgerskap* |  |  |
+| 1. Søknad om pass | Se [§ 2](forskrift/2014-06-20-780/§2) |  |
+| 2. Tjenester etter [utlendingsforskriften](forskrift/2009-10-15-1286) | Se [§ 2](forskrift/2014-06-20-780/§2) |  |
+| 3. Behandling av søknad om statsborgerskap | Se [§ 2](forskrift/2014-06-20-780/§2) |  |
+| *B. Vigsel ved norsk utenriksstasjon* | 2 Rettsgebyr |  |
+| *C. Sjøfartssaker* |  |  |
+| 1. Utstedelse av midlertidig nasjonalitetsbevis etter [sjøloven § 5 tredje ledd](lov/1994-06-24-39/§5/ledd/3) | 0,5 Rettsgebyr |  |
+| 2. Utstedelse av midlertidig farts- eller sikkerhetssertifikat eller påtegning om forlenget gyldighet for sertifikat etter [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 37](forskrift/2014-12-22-1893/§37) (gjelder for lasteskip, passasjerskip, lektere, flyttbare innretninger og dessuten for fiskefartøy med største lengde 15 meter eller mer) | 0,5 Rettsgebyr |  |
+| 3. Bekreftelse av å ha mottatt komplett søknad om midlertidig tjeneste i sertifikatpliktig stilling (Certificate of Receipt of Application – CRA) etter [forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk § 86](forskrift/2011-12-22-1523/§86) | 0,5 Rettsgebyr |  |
+| *D. Økonomisk bistand*<br>Lån eller bistand ved pengeoverføringer |  |  |
+| 10 % av beløpet,<br>men ikke mindre enn<br>og ikke mer enn | 0,25 Rettsgebyr<br>4 Rettsgebyr |  |
+| *E. Notarialforretninger*<br>Utstedelse av attester og bekreftelse av underskrifter | 0,25 Rettsgebyr |  |
+| *F. Utstedelse av midlertidig nasjonalitetsbevis for luftfartøy* etter [luftfartsloven § 3-14](lov/1993-06-11-101/§3-14), jf. [§ 3-9](lov/1993-06-11-101/§3-9) | 4 Rettsgebyr |  |
+| *G. For bistand i kommersielle saker kan det kreves følgende timesats:*<br>Alle oppdrag bør kostnadsberegnes og oversendes oppdragsgiver for godkjenning før arbeidet påbegynnes. | 1,5 Rettsgebyr |  |
+| *H. Brukerbetaling for arrangement fra første time:*<br>Alle oppdrag skal kostnadsberegnes og oversendes oppdragsgiver for godkjenning før arbeidet påbegynnes. | 0,5 Rettsgebyr |  |
+| *I. Tilleggsgebyr og dekning av ekstra utgifter* | Se [§ 3](forskrift/2014-06-20-780/§3) og [§ 4](forskrift/2014-06-20-780/§4) |  |
+
 > Endret ved forskrifter [11 april 2025 nr. 730](forskrift/2025-04-11-730) (i kraft 1 juni 2025), [17 des 2025 nr. 2653](forskrift/2025-12-17-2653) (i kraft 1 jan 2026).

@@ -390,6 +390,8 @@ Lova tek til å gjelde frå den tida Kongen fastset.1
 
 For festeavtaler inngått før 1976 gjeld føresegnene i [kapittel VI](lov/1996-12-20-106/kapvi) der festetida går ut to år eller meir etter at lova har teke til å gjelde. For krav om innløysing i festehøve der festetida går ut tidlegare, gjeld [lov av 30. mai 1975 nr. 20](lov/1975-05-30-20) om tomtefeste [§ 33](lov/1975-05-30-20/§33) så framt søknad om innløysing er sett fram seinast to år etter at lova her har teke til å gjelde.
 
+1 Frå 1 jan 2002 iflg. [res. 8 juni 2001 nr. 571](forskrift/2001-06-08-571).
+
 ### § 45. Oppheving av og endringar i andre lover
 
 Frå den tida lova tek til å gjelde, vert [lov av 30. mai 1975 nr. 20](lov/1975-05-30-20) om tomtefeste oppheva, med dei unnatak som fylgjer av § 44 tredje ledd.

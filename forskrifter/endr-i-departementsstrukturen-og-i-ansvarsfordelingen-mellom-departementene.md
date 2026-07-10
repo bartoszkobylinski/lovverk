@@ -35,11 +35,17 @@ eu_basis: []
 
 ### Utenriksdepartementet
 
+*Oversikt over lover statsråd Nikolai Eivindssøn Astrup har forvaltningsansvar for etter endringene:*
+
 - [Lov 9. mai 1997 nr. 26](lov/1997-05-09-26) om Statens investeringsfond for næringsvirksomhet i utviklingsland (Norfundloven).
+
+*Oversikt over lover utenriksminister Ine Eriksen Søreide har forvaltningsansvar for etter endringene:*
 
 - Alle øvrige lover under Utenriksdepartementet.
 
 ### Helse- og omsorgsdepartementet
+
+*Oversikt over lover statsråd Åse Michaelsen har forvaltningsansvar for etter endringene:*
 
 - [Lov 19. juni 1931 nr. 18](lov/1931-06-19-18) om Aktieselskapet Vinmonopolet (vinmonopolloven)
 - [Lov 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet (atomenergiloven)
@@ -54,9 +60,13 @@ eu_basis: []
 - [Lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven) for så vidt gjelder:§ 2-1a for så vidt gjelder tjenester nevnt i lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-2 første ledd nr. 6 bokstav a, b og c, § 3-2a, § 3-6, § 3-7, § 3-8, kapittel 9, samt § 11-2 og § 12-6. Dette omfatter likevel ikke helse- og omsorgstjenester som tilbys som følge av rusmiddelproblemer og psykisk sykdom eller lidelse, og helse- og omsorgstjenester til mennesker som har vært utsatt for vold eller seksuelle overgrep. Det omfatter heller ikke institusjoner som nevnt i [forskrift 16. desember 2011 nr. 1254](forskrift/2011-12-16-1254) om kommunal helse- og omsorgsinstitusjon [§ 1](forskrift/2011-12-16-1254/§1) første ledd bokstav b og e.§ 2-1d§ 2-1e§ 2-8
 - [Lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling av helseopplysninger (helseregisterloven) [§ 11](lov/2014-06-20-43/§11) annet ledd bokstav d og e.
 
+*Oversikt over lover statsråd Bent Høie har forvaltningsansvar for etter endringene:*
+
 - Alle øvrige lover under Helse- og omsorgsdepartementet.
 
 ### Kunnskapsdepartementet
+
+*Oversikt over lover statsråd Jan Tore Sanner har forvaltningsansvar for etter endringene:*
 
 - [Lov 17. desember 1971 nr. 106](lov/1971-12-17-106) om kristendomsundervisning ved vidaregåande skole, høgskole og universitet
 - [Lov 17. juli 1998 nr. 61](lov/1998-07-17-61) om grunnskolen og den vidaregåande opplæringa (opplæringslova)
@@ -69,6 +79,8 @@ eu_basis: []
 - [Lov om 19. juni 2009 nr. 95](lov/2009-06-19-95) om voksenopplæring (voksenopplæringsloven)
 - [Lov 16. juni 2017 nr. 69](lov/2017-06-16-69) om godkjenning av yrkeskvalifikasjoner (yrkeskvalifikasjonsloven).
 
+*Oversikt over lover statsråd Iselin Nybø har forvaltningsansvar for etter endringene:*
+
 - [Lov 1. april 2005 nr. 15](lov/2005-04-01-15) om universiteter og høyskoler (universitets- og høyskoleloven)
 - [Lov 14. desember 2007 nr. 116](lov/2007-12-14-116) om studentsamskipnader (studentsamskipnadsloven)
 - [Lov 3. juni 2005 nr. 37](lov/2005-06-03-37) om utdanningsstøtte (utdanningsstøtteloven)
@@ -76,6 +88,8 @@ eu_basis: []
 - [Lov 11. desember 2015 nr. 99](lov/2015-12-11-99) om konsortium for europeisk forskingsinfrastruktur (ERIC-lova).
 
 ### Klima- og miljødepartementet
+
+*Oversikt over lover Klima- og miljødepartementet har forvaltningsansvar for etter endringene:*
 
 - [Lov 7. juni 1845](lov/1845-06-07) om Perlefiskeriet
 - [Lov 29. mai 1901 nr. 6](lov/1901-05-29-6) om forskjellige forhold vedkommende Røros Kobberverks Skogvæsen
@@ -108,6 +122,8 @@ eu_basis: []
 - [Lov 16. juni 2017 nr. 60](lov/2017-06-16-60) om klimamål (klimaloven).
 
 ### Landbruks- og matdepartementet
+
+*Oversikt over lover Landbruks- og matdepartementet har forvaltningsansvar for etter endringene:*
 
 - [Lov 6. juni 1975 nr. 31](lov/1975-06-06-31) om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova) for så vidt gjelder de bestemmelser som ikke er lagt til Klima- og miljødepartementet
 - [Lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om jakt og fangst av vilt (viltloven) for så vidt gjelder de bestemmelsene som ikke er lagt til Klima- og miljødepartementet.

@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Skattedirektoratet etter lov om betaling og innkreving av skatt (skattebetalingsloven) § 47 nr. 5.
 
 Finansdepartementets myndighet til å gi forskrift etter skattebetalingsloven § 47 nr. 51 delegeres til Skattedirektoratet.
+
+1 Nå nr. 4 etter [lovendring 21 des 2000 nr. 115](lov/2000-12-21-115).

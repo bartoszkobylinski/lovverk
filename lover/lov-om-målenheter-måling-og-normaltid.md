@@ -238,6 +238,8 @@ Departementet kan gi forskrifter om gebyrer for behandling av godkjenninger og a
 
 Dersom det ikke anses hensiktsmessig å pålegge den enkelte gebyrer direkte, kan departementet i forskrift fastsette en generell avgift som skal dekke kostnadene ved den måletekniske virksomheten.
 
+– – –
+
 Ved forsinket betaling av gebyrer og avgifter, skal det betales rente i samsvar med [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m.
 
 Pålegg om gebyrer og avgifter er tvangsgrunnlag for utlegg.
@@ -254,9 +256,13 @@ Departementet kan fastsette utfyllende forskrifter om saksbehandling etter denne
 
 Denne loven trer i kraft fra den tid Kongen bestemmer.1
 
+1 Satt ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 86](forskrift/2007-01-26-86).
+
 ### § 34. Oppheving og endring av andre lover
 
 Når denne loven trer i kraft, oppheves følgende lover:[Lov 29. juni 1894 nr. 1](lov/1894-06-29-1) um sams normaltid fyr kongeriket Norig.[Lov 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt.
+
+– – –
 
 ### § 35. Overgangsbestemmelser
 

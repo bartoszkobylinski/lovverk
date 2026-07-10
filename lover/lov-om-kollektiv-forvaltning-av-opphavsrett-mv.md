@@ -29,6 +29,8 @@ eu_basis:
 
 Formålet med loven er å sørge for at kollektiv forvaltning av opphavsrett og nærstående rettigheter håndteres på en ansvarlig, effektiv og åpen måte overfor både rettighetshavere og brukere. Loven skal også sikre rettighetshaveres valgfrihet ved kollektiv forvaltning av rettigheter.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 1).
+
 ### § 2. Lovens virkeområde
 
 Loven gjelder kollektiv rettighetsforvaltning og for kollektive forvaltningsorganisasjoner.
@@ -45,9 +47,13 @@ Bestemmelsene i [§§ 36](lov/2021-05-28-49/§36) og [49](lov/2021-05-28-49/§49
 
 Loven gjelder også for Svalbard og Jan Mayen.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 2).
+
 ### § 3. Definisjoner
 
 I denne loven menes med:kollektiv forvaltningsorganisasjon: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og som har dette som eneste eller viktigste formål, og som er eiet eller kontrollert av sine medlemmer, eller som er organisert uten økonomisk vinning som formål.uavhengig forvaltningsenhet: enhver organisasjon som ved lov eller ved overdragelse, lisens eller annen avtale har fullmakt til å forvalte opphavsrett eller nærstående rettigheter på vegne av mer enn én rettighetshaver til felles nytte for disse rettighetshaverne, og har dette som eneste eller viktigste formål, og som verken er eiet eller kontrollert, direkte eller indirekte, helt eller delvis, av rettighetshaverne, og som er organisert med økonomisk vinning som formål.rettighetshaver: enhver person eller enhet, med unntak av kollektive forvaltningsorganisasjoner, som er innehaver av opphavsrett eller nærstående rettigheter, eller som etter avtale om bruk av rettigheter eller som ved lov har rett til en andel av inntektene fra slike rettigheter.medlem: en rettighetshaver eller en organisasjon som representerer en rettighetshaver, medregnet kollektive forvaltningsorganisasjoner og sammenslutninger av rettighetshavere, som oppfyller kravene for medlemskap i en kollektiv forvaltningsorganisasjon og som er medlem av denne.vedtekter: vedtektene, reglene eller dokumentene om opprettelsen av en kollektiv forvaltningsorganisasjon.årsmøtet: det organet i en kollektiv forvaltningsorganisasjon hvor medlemmene deltar og utøver sin stemmerett, uavhengig av organisasjonens rettslige form.rettighetsvederlag: vederlag som kreves inn av en kollektiv forvaltningsorganisasjon på vegne av rettighetshaverne, uavhengig av om inntektene er et resultat av en enerett, rett til vederlag eller rett til kompensasjon.administrasjonskostnader: de beløpene som en kollektiv forvaltningsorganisasjon debiterer, trekker fra eller motregner mot rettighetsvederlag eller andre inntekter fra investering av rettighetsvederlag, for å dekke kostnadene ved forvaltning av opphavsrett eller nærstående rettigheter.representasjonsavtale: enhver avtale mellom kollektive forvaltningsorganisasjoner der en kollektiv forvaltningsorganisasjon gir en annen kollektiv forvaltningsorganisasjon fullmakt til å forvalte rettigheter den representerer, herunder avtaler gjort i medhold av [§§ 44](lov/2021-05-28-49/§44) til [46](lov/2021-05-28-49/§46).bruker: enhver person eller enhet som utfører handlinger som krever rettighetshavernes samtykke, vederlag til rettighetshaverne eller betaling av kompensasjon til rettighetshaverne, og som ikke handler i egenskap av å være forbruker.repertoar: verk i henhold til [åndsverkloven § 2](lov/2018-06-15-40/§2) og nærstående rettigheter i henhold til [åndsverkloven kapittel 2](lov/2018-06-15-40/kap2), som en kollektiv forvaltningsorganisasjon forvalter rettighetene til.grensekryssende lisens: tillatelser til bruk, som omfatter flere enn én EØS-stat.nettrettigheter til musikkverk: rettigheter i henhold til [åndsverkloven § 3](lov/2018-06-15-40/§3) som kreves for å kunne tilby en nettbasert tjeneste.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 3).
 
 ## Kapittel 2 Rettighetshavernes rettigheter
 
@@ -55,11 +61,15 @@ I denne loven menes med:kollektiv forvaltningsorganisasjon: enhver organisasjon 
 
 Kollektive forvaltningsorganisasjoner skal handle til beste for rettighetshaverne de representerer. Organisasjonene skal ikke pålegge rettighetshaverne plikter som ikke er nødvendige for å verne deres rettigheter eller interesser eller for effektiv forvaltning av deres rettigheter.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 4).
+
 ### § 5. Rettighetshaverens rett til å velge kollektiv forvaltningsorganisasjon
 
 En rettighetshaver kan etter eget valg gi en kollektiv forvaltningsorganisasjon fullmakt til å forvalte rettighetshaverens rettigheter, kategorier av rettigheter eller typer verk eller andre vernede arbeider. Fullmakten skal være uttrykkelig og spesifisert.
 
 Med mindre den kollektive forvaltningsorganisasjonen har saklig grunn til å nekte å påta seg forvaltningen, er den forpliktet til å forvalte rettighetene, kategorier av rettigheter eller typer verk eller andre vernede arbeider, forutsatt at slik forvaltning omfattes av organisasjonens virksomhetsområde.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 5 nr. 2 og 7).
 
 ### § 6. Rettighetshaverens rett til selv å gi tillatelse til bruk
 
@@ -67,15 +77,21 @@ Selv om det er inngått forvaltningsavtale etter [§ 5](lov/2021-05-28-49/§5), 
 
 Kollektive forvaltningsorganisasjoner kan i forvaltningsavtalen stille krav om at rettighetshaveren må informere organisasjonen om ikke-ervervsmessige tillatelser etter første ledd.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 5 nr. 3).
+
 ### § 7. Rettighetshaverens rett til oppsigelse av forvaltningsavtale
 
 En rettighetshaver kan si opp en avtale om forvaltning av rettigheter. Oppsigelsen kan omfatte rettigheter, kategori av rettigheter eller typer verk eller andre vernede arbeider i geografiske områder etter eget valg. Rettighetshaveren skal varsle den kollektive forvaltningsorganisasjonen innen rimelig tid, og senest seks måneder før avtalen skal opphøre å gjelde. Organisasjonen kan bestemme at oppsigelsen først får virkning fra utgangen av regnskapsåret.
 
 En kollektiv forvaltningsorganisasjon kan ikke begrense adgangen etter første ledd ved å kreve som vilkår at forvaltningen av rettighetene som er omfattet av oppsigelsen, skal overdras til en annen forvaltningsorganisasjon. Dette gjelder likevel ikke der kollektiv forvaltning av rettigheter er obligatorisk.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 5 nr. 4 til 6).
+
 ### § 8. Informasjon om rettigheter og vilkår
 
 Før det inngås forvaltningsavtale skal den kollektive forvaltningsorganisasjonen gi rettighetshaveren informasjon om rettighetene etter [§§ 4](lov/2021-05-28-49/§4) til [7](lov/2021-05-28-49/§7) og om vilkår knyttet til retten til selv å gi tillatelse til bruk etter [§ 6](lov/2021-05-28-49/§6).
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 5 nr. 8).
 
 ### § 9. Forholdet til åndsverkloven
 
@@ -93,9 +109,13 @@ En kollektiv forvaltningsorganisasjon skal gi sine medlemmer mulighet til å kom
 
 En kollektiv forvaltningsorganisasjon skal føre register over sine medlemmer og holde registrene oppdatert.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 6).
+
 ### § 11. Rettigheter for rettighetshavere som ikke er medlemmer i den kollektive forvaltningsorganisasjonen
 
 Bestemmelsene i [§ 10](lov/2021-05-28-49/§10) tredje ledd, [§ 34](lov/2021-05-28-49/§34), [§ 45](lov/2021-05-28-49/§45) første ledd og [§ 48](lov/2021-05-28-49/§48) gjelder for kollektive forvaltningsorganisasjoner og rettighetshavere som ikke er medlemmer i organisasjonen, men som har en tilknytning til organisasjonen ved lov eller overdragelse, lisens eller annen avtale.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 7).
 
 ### § 12. Årsmøte
 
@@ -108,6 +128,8 @@ Kollektive forvaltningsorganisasjoner skal minst én gang i året innkalle til o
 I samsvar med bestemmelsene i dette kapitlet skal årsmøtet minst treffe beslutning om følgende:generelle prinsipper for fordeling av vederlag til rettighetshaveregenerelle prinsipper for bruk av beløp som ikke kan fordelesden generelle investeringsstrategien for inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektenegenerelle prinsipper for fradrag fra inntekter fra rettigheter og eventuelle inntekter fra investering av disse inntektene, herunder fradrag for bruk av midler til kollektiv fordelingbruken av beløp som ikke kan fordelesrisikohåndteringsstrategiengodkjenning av kjøp, salg eller pantsettelse av fast eiendomgodkjenning av fusjoner og allianser, oppretting av datterselskap og kjøp av andre enheter eller aksjer eller rettigheter i andre enhetergodkjenning av låneopptak, utlån eller lånegarantivalg av revisorgodkjenning av en årlig åpenhetsrapport.
 
 Årsmøtet kan ved beslutning eller ved bestemmelser i vedtektene delegere oppgavene i fjerde ledd bokstav f til i til det organet som etter [§ 14](lov/2021-05-28-49/§14) skal utøve den interne kontrollfunksjonen.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 8 nr. 1 til 8).
 
 ### § 13. Medlemmenes stemmerett
 
@@ -125,6 +147,8 @@ En kollektiv forvaltningsorganisasjon kan i vedtektene bestemme at stemmeretten 
 
 En kollektiv forvaltningsorganisasjon hvor medlemmene består av organisasjoner som representerer rettighetshavere, kan bestemme at alle eller noen av oppgavene til årsmøtet skal utøves av en forsamling av disse rettighetshaverne.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 8 nr. 9 til 13).
+
 ## Kapittel 4 Styring og intern kontroll
 
 ### § 14. Intern kontrollfunksjon
@@ -139,6 +163,8 @@ Organet som utøver kontrollfunksjonen, skal møtes regelmessig. Det skal gjenno
 
 Organet som utøver kontrollfunksjonen, skal rapportere til årsmøtet minst én gang i året.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 9).
+
 ### § 15. Pliktene til kollektive forvaltningsorganisasjoners daglige ledelse
 
 En kollektiv forvaltningsorganisasjon skal ta alle nødvendige forholdsregler for å sikre at personene som leder virksomheten, gjør dette på en forsvarlig og egnet måte ved god forvaltning av rettigheter, god regnskapspraksis og gode kontrollrutiner.
@@ -147,11 +173,15 @@ Kollektive forvaltningsorganisasjoner skal ha rutiner for å unngå interessekon
 
 Fremgangsmåtene som nevnt i andre ledd skal omfatte en individuell årlig erklæring til årsmøtet fra hver av personene omfattet av første ledd. Erklæringen skal inneholde opplysninger om:alle interesser i den kollektive forvaltningsorganisasjonenalle godtgjørelser mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåret, inkludert lønn, pensjonsytelser og naturalytelseralle rettighetsvederlag mottatt fra den kollektive forvaltningsorganisasjonen i det foregående regnskapsåreteksisterende eller potensielle konflikter mellom personlige interesser og interessene til den kollektive forvaltningsorganisasjonen eller mellom forpliktelser overfor den kollektive forvaltningsorganisasjonen og eventuelle forpliktelser overfor andre personer eller enheter.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 10).
+
 ## Kapittel 5 Forvaltning av vederlagsmidler
 
 ### § 16. Generelle krav
 
 En kollektiv forvaltningsorganisasjon skal utvise aktsomhet ved innkreving av rettighetsvederlag og forvaltning av vederlagsmidler. Med vederlagsmidler menes rettighetsvederlag og inntekter fra investering av rettighetsvederlag.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 2).
 
 ### § 17. Adskillelse av vederlagsmidler i regnskapet
 
@@ -159,15 +189,21 @@ En kollektiv forvaltningsorganisasjon skal i sine regnskaper holde vederlagsmidl
 
 Kan vederlagsmidlene som tilfaller rettighetshaverne ikke fordeles innen fristen i [§ 21](lov/2021-05-28-49/§21) andre ledd, skal disse beløpene regnskapsføres adskilt.2
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 3).2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 13 nr. 2).
+
 ### § 18. Bruk av vederlagsmidler
 
 Alle vederlagsmidler skal fordeles til rettighetshavere, med unntak av administrasjonskostnader etter [§ 20](lov/2021-05-28-49/§20) andre ledd og midler som er besluttet brukt på annen måte, jf. [§ 12](lov/2021-05-28-49/§12) fjerde ledd.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 4).
 
 ### § 19. Investering av vederlagsmidler
 
 En kollektiv forvaltningsorganisasjon som investerer vederlagsmidler, skal plassere midlene på en måte som fremmer rettighetshavernes interesser og i samsvar med investeringsstrategien vedtatt etter [§ 12](lov/2021-05-28-49/§12) fjerde ledd bokstav c.
 
 Den kollektive forvaltningsorganisasjonen skal ved potensielle interessekonflikter sikre at investeringenes eneste formål er å ivareta rettighetshavernes interesser. Hensynet til sikkerhet, likviditet og avkastning skal ivaretas ved investering av vederlagsmidler, og investeringene skal spres slik at uforholdsmessig avhengighet og konsentrasjon i porteføljen unngås.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 11 nr. 5).
 
 ### § 20. Fradrag
 
@@ -179,6 +215,8 @@ Fradrag skal stå i et rimelig forhold til organisasjonens ytelser til rettighet
 
 Dersom en kollektiv forvaltningsorganisasjon tilbyr sosiale, kulturelle eller utdanningsmessige ytelser finansiert ved fradrag som nevnt i første ledd, skal ytelsene tilbys rettighetshaverne på rimelige vilkår.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 12).
+
 ### § 21. Fordeling og utbetaling
 
 En kollektiv forvaltningsorganisasjon skal fordele vederlagsmidler til rettighetshavere på en betryggende og nøyaktig måte og i overenstemmelse med de generelle fordelingsprinsippene, jf. [§ 12](lov/2021-05-28-49/§12) fjerde ledd bokstav a.
@@ -186,6 +224,8 @@ En kollektiv forvaltningsorganisasjon skal fordele vederlagsmidler til rettighet
 Vederlagsmidler skal fordeles og utbetales uten ugrunnet opphold, og senest ni måneder etter utløpet av regnskapsåret da de aktuelle vederlagsmidlene ble krevd inn, med mindre det er saklig grunn til at fristen ikke kan overholdes.
 
 Dersom rettighetshaveren ikke er funnet innen tre år etter utløpet av det regnskapsåret inntektene ble krevd inn, kan vederlagsmidlene benyttes i henhold til vedtak etter [§ 12](lov/2021-05-28-49/§12) fjerde ledd bokstav b.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 13 nr. 1, 4 og 5).
 
 ### § 22. Tiltak for å finne rettighetshavere
 
@@ -197,15 +237,21 @@ Opplysningene skal så langt det er mulig omfatte tittel på verk eller arbeider
 
 Dersom rettighetshaveren ikke er funnet innen ett år etter utløpet av fristen etter andre ledd, skal opplysningene gjøres tilgjengelig for allmennheten.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 13 nr. 3).
+
 ## Kapittel 6 Forvaltning på vegne av andre kollektive forvaltningsorganisasjoner
 
 ### § 23. Rettigheter som forvaltes gjennom representasjonsavtaler
 
 En kollektiv forvaltningsorganisasjon som forvalter rettigheter gjennom en representasjonsavtale, skal ikke forskjellsbehandle rettighetshavere som omfattes av avtalen.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 14).
+
 ### § 24. Fradrag ved representasjonsavtaler
 
 En kollektiv forvaltningsorganisasjon skal ikke gjøre andre fradrag enn administrasjonskostnader fra vederlagsmidler som stammer fra rettigheter som den forvalter på grunnlag av en representasjonsavtale, med mindre den andre kollektive forvaltningsorganisasjonen som er part i avtalen gir uttrykkelig samtykke til slike fradrag.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 15 nr. 1).
 
 ### § 25. Fordeling og utbetaling av rettighetsvederlag ved representasjonsavtaler
 
@@ -215,31 +261,45 @@ Utbetalingen til den andre kollektive forvaltningsorganisasjonen skal foretas ut
 
 Den kollektive forvaltningsorganisasjonen som mottar rettighetsvederlag etter andre ledd, skal fordele og utbetale vederlaget uten ugrunnet opphold, og senest seks måneder etter at vederlaget er mottatt, med mindre det er saklig grunn til at fristen ikke kan overholdes.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 15 nr. 2 og 3).
+
 ## Kapittel 7 Organisasjonens forhold til brukere
 
 ### § 26. Avtaleforhandlinger om lisens
 
 Kollektive forvaltningsorganisasjoner og brukere skal forhandle om lisensiering av rettigheter i god tro, og de skal gi hverandre opplysninger som er nødvendige for forhandlingene.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 16 nr. 1).
+
 ### § 27. Tilbud om lisens
 
 Kollektive forvaltningsorganisasjoner skal uten ugrunnet opphold besvare forespørsler fra brukere, herunder gi informasjon om hvilke opplysninger som er nødvendige for at organisasjonen kan tilby lisens. Når nødvendige opplysninger er mottatt, skal organisasjonen uten ugrunnet opphold tilby brukeren en lisens eller begrunne hvorfor organisasjonen ikke vil tilby lisens.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 16 nr. 3).
 
 ### § 28. Lisensvilkår mv.
 
 Lisensvilkårene skal baseres på objektive og ikke-diskriminerende kriterier. Vederlaget for tillatt bruk skal være rimelig. I vurderingen av om vederlaget er rimelig skal det blant annet legges vekt på om tariffene står i et rimelig forhold til brukens økonomiske handelsverdi, både med hensyn til arten og omfanget av bruken, og den økonomiske verdien av tjenesten som den kollektive forvaltningsorganisasjonen leverer. En kollektiv forvaltningsorganisasjon skal informere brukere om kriteriene som er brukt for å fastsette tariffene.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 16 nr. 2).
+
 ### § 29. Lisens til nye typer tjenester
 
 Dersom en kollektiv forvaltningsorganisasjon har gitt lisens til en ny type nettbasert tjeneste som har vært tilgjengelig for allmennheten innen EØS-området i mindre enn tre år, er organisasjonen ikke forpliktet til å bruke tilsvarende vilkår ved lisensiering av andre nettbaserte tjenester.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 16 nr. 2).
 
 ### § 30. Elektronisk kommunikasjon
 
 En kollektiv forvaltningsorganisasjon skal gi brukerne anledning til å kommunisere elektronisk med organisasjonen, herunder ved eventuell rapportering om bruken av lisensen.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 16 nr. 4).
+
 ### § 31. Brukerens rapporteringsplikt
 
 Når rettigheter er lisensiert fra en kollektiv forvaltningsorganisasjon, plikter brukeren innen avtalt tid og i avtalt format å gi organisasjonen slik relevant informasjon som brukeren har tilgjengelig om bruken av rettighetene. Rapporteringsplikten gjelder i den utstrekning det er nødvendig for at organisasjonen kan innkreve og fordele vederlag til rettighetshavere. Når rapporteringsformat skal avgjøres, skal partene i størst mulig grad ta hensyn til frivillige bransjestandarder.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 17).
 
 ## Kapittel 8 Rapportering og innsyn
 
@@ -249,9 +309,13 @@ En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgen
 
 Dersom en medlemsorganisasjon har ansvar for å fordele og utbetale rettighetsvederlag til rettighetshaverne, skal den kollektive forvaltningsorganisasjonen sørge for at medlemsorganisasjonen har de nødvendige opplysningene til å oppfylle plikten.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 18).
+
 ### § 33. Opplysninger til andre kollektive forvaltningsorganisasjoner
 
 En kollektiv forvaltningsorganisasjon skal minst én gang i året gjøre følgende opplysninger elektronisk tilgjengelig for andre kollektive forvaltningsorganisasjoner som den gjennom en representasjonsavtale i perioden har forvaltet rettigheter for:rettighetsvederlag som er tilordnet den andre organisasjonenbeløp den kollektive forvaltningsorganisasjonen har utbetalt til den andre organisasjonen for rettigheter som er forvaltet gjennom representasjonsavtalen, fordelt på hver kategori av rettigheter og type brukrettighetsvederlag som er tilordnet den andre organisasjonen for en viss periode, men ikke utbetaltfradrag som er gjort for administrasjonskostnaderfradrag som er gjort for andre formål enn administrasjonskostnader i samsvar med [§ 24](lov/2021-05-28-49/§24)lisenser som er gitt, samt lisenser som har blitt nektetårsmøtevedtak som er relevante for forvaltningen av rettighetene omfattet av representasjonsavtalen.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 19).
 
 ### § 34. Opplysningsplikt om repertoaret
 
@@ -261,9 +325,13 @@ Dersom det på grunn av omfanget av virksomheten til organisasjonen ikke er muli
 
 En kollektiv forvaltningsorganisasjon kan kreve betaling for å behandle en forespørsel om opplysninger etter første og andre ledd. Betalingssatsene skal fastsettes slik at de samlede inntektene ikke overstiger de faktiske kostnadene ved å behandle slike forespørsler. Departementet kan gi forskrift om vilkår for betaling og betalingssatser.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 20).
+
 ### § 35. Offentliggjøring av opplysninger på organisasjonens nettsted
 
 En kollektiv forvaltningsorganisasjon skal på sitt nettsted offentliggjøre og oppdatere følgende informasjon om organisasjonen:vedtektenemedlemsvilkårenestandardlisensavtaler og gjeldende standardtariffer, inkludert rabatterliste over personer som utgjør den daglige ledelsengenerelle prinsipper for fordeling av vederlag til rettighetshaveregenerelle prinsipper for administrasjonskostnadergenerelle prinsipper for andre fradrag fra rettighetsvederlag enn administrasjonskostnaderoversikt over de representasjonsavtalene som organisasjonen har inngått, med navnene på de kollektive forvaltningsorganisasjonene som avtalene er inngått medgenerelle prinsipper for bruk av beløp som ikke kan fordelesrutiner for klagehåndtering i samsvar med [§ 48](lov/2021-05-28-49/§48) og fremgangsmåter for tvisteløsning.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 21).
 
 ### § 36. Årlig åpenhetsrapport
 
@@ -277,6 +345,8 @@ Departementet kan i forskrift fastsette krav til hvilke opplysninger som skal gi
 
 Åpenhetsrapporter som utarbeides av medlemsorganisasjonene, skal offentliggjøres og være tilgjengelige både på medlemsorganisasjonens nettsted og den kollektive forvaltningsorganisasjonens nettsted i minst fem år. Medlemsorganisasjonene skal sikre at deres medlemmer gis mulighet til å godkjenne åpenhetsrapporten.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 22).
+
 ## Kapittel 9 Grensekryssende lisensiering av nettrettigheter til musikkverk
 
 ### § 37. Kapitlets virkeområde
@@ -284,6 +354,8 @@ Departementet kan i forskrift fastsette krav til hvilke opplysninger som skal gi
 Bestemmelsene i dette kapitlet gjelder for kollektive forvaltningsorganisasjoner og andre organisasjoner og enheter etter [§ 2](lov/2021-05-28-49/§2) andre ledd som tilbyr grensekryssende lisenser for nettrettigheter til musikkverk.1 Bestemmelsene gjelder likevel ikke ved grensekryssende lisensiering avnettrettigheter til musikkverk i form av noternettrettigheter til musikkverk som et kringkastingsforetak må ha for å gjøre sine radio- eller fjernsynsprogram tilgjengelig for allmennheten samtidig med eller etter den opprinnelige sendingen.2
 
 Første ledd bokstav b omfatter også ethvert annet nettmateriale som er produsert av eller for kringkastingsforetaket, og som er tilknyttet den opprinnelige sendingen av radio- eller fjernsynsprogrammet, uavhengig av når materialet gjøres tilgjengelig for allmennheten.3
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 2 nr. 2 og art. 23).2 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).3 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 32).
 
 ### § 38. Krav til organisasjonens behandlingskapasitet
 
@@ -295,11 +367,15 @@ Organisasjonen skal benytte unike identifikasjonskoder for å identifisere retti
 
 Organisasjonen skal ha rutiner som sikrer at opplysningene som gis etter andre ledd, er i samsvar med tilsvarende opplysninger som gis av andre kollektive forvaltningsorganisasjoner. Avvik som avdekkes, skal utbedres innen rimelig tid.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 24).
+
 ### § 39. Innsyn i repertoar
 
 En kollektiv forvaltningsorganisasjon skal, etter en begrunnet forespørsel fra en tilbyder av en nettbasert tjeneste, en rettighetshaver som organisasjonen representerer, eller en annen kollektiv forvaltningsorganisasjon, utlevere oppdaterte opplysninger om de musikkverkene og de rettighetene organisasjonen forvalter, og de EØS-statene som forvaltningen omfatter. Opplysningene skal gis elektronisk. Bestemmelsen i [§ 34](lov/2021-05-28-49/§34) tredje ledd om betaling gjelder tilsvarende.
 
 Organisasjonen kan treffe rimelige tiltak for å sikre at opplysningene som gis er nøyaktige, og for å kontrollere bruken av opplysningene. Organisasjonen kan også treffe rimelige tiltak for å verne forretningsmessig sensitive opplysninger.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 25).
 
 ### § 40. Retting av feilaktige opplysninger mv.
 
@@ -309,17 +385,23 @@ En kollektiv forvaltningsorganisasjon skal ha ordninger som sikrer at en rettigh
 
 Andre ledd gjelder også der en kollektiv forvaltningsorganisasjon forvalter rettigheter på bakgrunn av en representasjonsavtale med en annen kollektiv forvaltningsorganisasjon etter [§§ 23](lov/2021-05-28-49/§23) til [25](lov/2021-05-28-49/§25), med mindre organisasjonene har avtalt noe annet seg imellom.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 26).
+
 ### § 41. Kontroll og rapportering av faktisk bruk av rettigheter
 
 En kollektiv forvaltningsorganisasjon som har inngått en lisensavtale med en tilbyder av en nettbasert tjeneste om rettigheter til musikkverk, skal føre kontroll med bruken av rettighetene som omfattes av lisensen.
 
 Tilbyderen av den nettbaserte tjenesten plikter å rapportere til organisasjonen om den faktiske bruken av nettrettighetene til musikkverk som omfattes av avtalen. For dette formålet skal organisasjonen tilrettelegge for at tilbyderen kan rapportere elektronisk på en måte som i størst mulig grad følger frivillige bransjestandarder på området. Organisasjonen kan nekte å ta imot opplysninger som er innrapportert i andre formater enn den bransjestandarden som tilbys.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 27 nr. 1 og 2).
+
 ### § 42. Fakturering av tilbydere av nettbaserte tjenester
 
 En kollektiv forvaltningsorganisasjon skal fakturere tilbyderen av en nettbasert tjeneste elektronisk og i et format som i størst mulig grad er i samsvar med frivillige bransjestandarder. Fakturaen skal inneholde opplysninger om de lisensierte rettighetene og faktisk bruk basert på innrapporterte opplysninger etter [§ 41](lov/2021-05-28-49/§41) andre ledd.
 
 Faktureringen skal være nøyaktig og skje uten opphold etter at faktisk bruk er innrapportert. Organisasjonen skal ha egnede ordninger som gjør det mulig for tilbyderen av den nettbaserte tjenesten å komme med innvendinger til fakturagrunnlaget.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 27 nr. 3 til 5).
 
 ### § 43. Fordeling og utbetaling av vederlag til rettighetshaverne
 
@@ -329,15 +411,21 @@ I forbindelse med hver enkelt utbetaling skal organisasjonen oppgi følgende opp
 
 I tilfeller hvor en kollektiv forvaltningsorganisasjon har gitt en annen kollektiv forvaltningsorganisasjon fullmakt til å representere nettrettigheter til musikkverk som den forvalter, skal organisasjonen som er gitt fullmakten, uten opphold fordele vederlaget og gi de opplysningene som er nevnt i andre ledd, til den andre organisasjonen. Den kollektive forvaltningsorganisasjonen som har gitt fullmakten, har ansvaret for at beløpet blir utbetalt til rettighetshaverne sammen med opplysningene som nevnt i andre ledd, om ikke annet er avtalt organisasjonene imellom.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 28).
+
 ### § 44. Forbud mot å inngå representasjonsavtaler om enerett til grensekryssende lisensiering
 
 En kollektiv forvaltningsorganisasjon som inngår en representasjonsavtale med en annen kollektiv forvaltningsorganisasjon om forvaltning av nettrettigheter til musikkverk i eget repertoar, kan ikke gi den andre kollektive forvaltningsorganisasjonen enerett til grensekryssende lisensiering av repertoaret.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 29 nr. 1).
 
 ### § 45. Opplysningsplikt om vilkår i representasjonsavtaler
 
 En kollektiv forvaltningsorganisasjon som overlater til en annen kollektiv forvaltningsorganisasjon å forvalte nettrettigheter til musikkverk i eget repertoar gjennom grensekryssende lisensiering, skal informere medlemmene sine om hovedvilkårene i avtalen.
 
 Den kollektive forvaltningsorganisasjonen som har fått fullmakt til å representere rettighetene, skal informere den andre organisasjonen om de lisensavtalene som inngås, og hovedvilkårene i avtalene.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 29 nr. 2 og 3).
 
 ### § 46. Plikt til å representere andre kollektive forvaltningsorganisasjoner
 
@@ -349,9 +437,13 @@ Administrasjonskostnadene som organisasjonen krever for forvaltningen av rettigh
 
 Den kollektive forvaltningsorganisasjonen som sender en forespørsel om å inngå representasjonsavtale, skal gi den andre organisasjonen de opplysningene om repertoaret som er nødvendige for at denne skal kunne tildele grensekryssende lisenser for nettrettigheter til musikkverk. Dersom opplysningene er ufullstendige, kan den kollektive forvaltningsorganisasjonen som forvalter rettighetene, kreve dekket rimelige kostnader ved å avhjelpe manglene eller utelate fra forvaltningen de musikkverkene hvor opplysningene er ufullstendige.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 30).
+
 ### § 47. Rett til grensekryssende lisensiering
 
 En rettighetshaver som har gitt en kollektiv forvaltningsorganisasjon fullmakt til å representere nettrettigheter til musikkverk ved grensekryssende lisensiering, kan tilbakekalle fullmakten dersom organisasjonen ikke tildeler eller tilbyr lisensavtaler og den heller ikke har overlatt dette til en annen kollektiv forvaltningsorganisasjon gjennom en representasjonsavtale. Rettighetshaveren kan velge å la den kollektive forvaltningsorganisasjonen beholde nettrettigheter til musikkverk for lisensiering i én enkelt stat.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 31).
 
 ## Kapittel 10 Håndheving, tilsyn og administrative reaksjoner
 
@@ -360,6 +452,8 @@ En rettighetshaver som har gitt en kollektiv forvaltningsorganisasjon fullmakt t
 En kollektiv forvaltningsorganisasjon skal ha effektive rutiner for å håndtere klager fra medlemmer og fra andre kollektive forvaltningsorganisasjoner som den forvalter rettigheter for.
 
 Klager skal besvares skriftlig innen rimelig tid. Tas klagen ikke til følge, skal det gis en begrunnelse.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 33).
 
 ### § 49. Tilsyn
 
@@ -373,11 +467,15 @@ Klagenemnda for mediesaker (Medieklagenemnda) er klageinstans for avgjørelser f
 
 Departementet kan gi forskrift om organisering, gjennomføring og avgrensning av tilsynsoppgavene, omfanget og gjennomføringen av opplysningsplikten og Patentstyrets og klageinstansens saksbehandling.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 36).
+
 ### § 50. Overtredelsesgebyr
 
 Patentstyret kan ilegge den som overtrer [§§ 4](lov/2021-05-28-49/§4), [5](lov/2021-05-28-49/§5), [8](lov/2021-05-28-49/§8), [10](lov/2021-05-28-49/§10), [12](lov/2021-05-28-49/§12) og [13](lov/2021-05-28-49/§13), [14](lov/2021-05-28-49/§14) tredje til femte ledd, [15](lov/2021-05-28-49/§15) andre og tredje ledd, [18](lov/2021-05-28-49/§18) til [28](lov/2021-05-28-49/§28), [32](lov/2021-05-28-49/§32) til [36](lov/2021-05-28-49/§36), [39](lov/2021-05-28-49/§39), [42](lov/2021-05-28-49/§42) til [44](lov/2021-05-28-49/§44), [46](lov/2021-05-28-49/§46) og [52](lov/2021-05-28-49/§52), overtredelsesgebyr til staten beregnet etter forskrift fastsatt av departementet. Det samme gjelder ved overtredelse av forskrift gitt i medhold av loven, når det er fastsatt i forskriften at overtredelsen kan medføre slik sanksjon. Departementet kan gi forskrift om forhøyet gebyr ved gjentatt overtredelse.
 
 Departementet kan gi forskrift om gjennomføringen av bestemmelsene i denne paragrafen, herunder om inndrivelse og om betalingsfrist. Det kan i forskrift fastsettes at det skal betales renter av ilagt overtredelsesgebyr.
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 36).
 
 ### § 51. Tvangsmulkt
 
@@ -389,13 +487,19 @@ Patentstyret kan i særlige tilfeller redusere eller frafalle påløpt tvangsmul
 
 Departementet kan gi forskrift om ileggelse av tvangsmulkt, vilkår for tvangsmulkt, tvangsmulktens størrelse og renter ved forsinket betaling.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 36).
+
 ### § 52. Registreringsplikt
 
 Den som driver aktivitet som omfattes av tilsynet etter [§ 49](lov/2021-05-28-49/§49), har plikt til å registrere seg hos Patentstyret. Registeret skal være offentlig tilgjengelig.
 
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 36 og 39).
+
 ### § 53. Tvister om foreslåtte lisensvilkår
 
 Brukere kan uten hinder av [tvisteloven § 1-3](lov/2005-06-17-90/§1-3) reise sak for domstolene om prøving av om kollektive forvaltningsorganisasjoners forslag til lisensvilkår er i samsvar med kravene i [§ 28](lov/2021-05-28-49/§28).
+
+1 [EØS-avtalen vedlegg XVII](avtale/avt-1992-05-02-1-v17) nr. 11 (direktiv [2014/26/EU](eu/32014l0026) art. 35 nr. 1).
 
 ### § 54. Tvungent verneting
 
@@ -408,6 +512,9 @@ Sivilt søksmål om overtredelser av loven og søksmål om prøving av avgjørel
 Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid.
 
 Loven gjelder ikke handlinger som er utført eller rettigheter som er ervervet før denne loven trer i kraft. Bestemmelsene i kapitlene 5 og 6 gjelder kun for rettighetsvederlag som er innkrevd tidligst året etter at loven trer i kraft. Kongen kan gi nærmere overgangsregler.
+
+1 Fra 1 juli 2021 iflg. [res. 28 mai 2021 nr. 1685](forskrift/2021-05-28-1685) med unntak av endringen i [§ 56](lov/2021-05-28-49/§56) av [åndsverkloven § 118](lov/2018-06-15-40/§118). Se [res. 28 mai 2021 nr. 1685](forskrift/2021-05-28-1685) nr. 3 for overgangsregler.
+Fra 1 september 2021 for [§ 56](lov/2021-05-28-49/§56) nr. 2 om opphevelse av [åndsverkloven § 118](lov/2018-06-15-40/§118) andre ledd andre punktum, iflg. [res. 26 aug 2021 nr. 2609](forskrift/2021-08-26-2609).
 
 ### § 56. Endringer i andre lover
 

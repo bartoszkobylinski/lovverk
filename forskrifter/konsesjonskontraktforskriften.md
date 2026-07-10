@@ -732,27 +732,154 @@ Forskriften gjelder fra 1. januar 2017.
 
 ## Vedlegg 1. Bygge- og anleggsaktiviteter
 
-Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.*NACE Rev. 1*1*CPV-kode**HOVEDAVDELING F**BYGGE- OG ANLEGGSVIRKSOMHET**Hovedgruppe**Gruppe**Undergruppe**Beskrivelse*45Bygge- og anleggsvirksomhet4500000045,1Forberedende anleggsarbeid4510000045,11Nedrivning av bygninger og jordarbeid4511000045,12Prøvedrilling og -boring4512000045,2Deler av eller komplette byggekonstruksjoner samt anleggsarbeider4520000045,21Oppføring av bygninger og anleggsarbeider45210000
-Unntatt:
--45213316
-45220000
-45231000 4523200045,22Montasje av takkonstruksjoner og taktekking samt følgearbeid4526100045,23Bygging av veier, flyplasser og idrettsanlegg45212212 og DA03 (offentlig* )
-45230000
-Unntatt:
--45231000
--45232000
--4523411545,24Anleggsarbeider i forbindelse med vannprosjekter4524000045,25Andre spesialiserte bygge- og anleggsarbeider45250000
-4526200045,3Bygningsinstallasjonsarbeid4530000045,31Installasjon av elektriske ledninger og armaturer45213316
-45310000
-Unntatt:
--4531600045,32Isoleringsarbeid4532000045,33Blikkenslager- og rørleggerarbeid4533000045,34Annet bygningsinstallasjonsarbeid45234115
-45316000
-4534000045,4Ferdigstillende bygningsarbeid4540000045,41Pussearbeid4541000045,42Snekkermonteringsarbeid4542000045,43Utførelse av gulvlegging og veggbekledning4543000045,44Maler- og glassarbeid4544000045,45Øvrige arbeider i forbindelse med ferdiggjøring av bygninger45212212 og DA04 (private* )
-4545000045,5Utleie av entreprenørmateriell og -utstyr med operatør4550000045,50Utleie av entreprenørmateriell og -utstyr med operatør45500000
+Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
+
+| *NACE Rev. 1*1 |  |  |  | *CPV-kode* |
+| --- | --- | --- | --- | --- |
+| *HOVEDAVDELING F* |  |  | *BYGGE- OG ANLEGGSVIRKSOMHET* |  |
+| *Hovedgruppe* | *Gruppe* | *Undergruppe* | *Beskrivelse* |  |
+| 45 |  |  | Bygge- og anleggsvirksomhet | 45000000 |
+|  | 45,1 |  | Forberedende anleggsarbeid | 45100000 |
+|  |  | 45,11 | Nedrivning av bygninger og jordarbeid | 45110000 |
+|  |  | 45,12 | Prøvedrilling og -boring | 45120000 |
+|  | 45,2 |  | Deler av eller komplette byggekonstruksjoner samt anleggsarbeider | 45200000 |
+|  |  | 45,21 | Oppføring av bygninger og anleggsarbeider | 45210000<br>Unntatt:<br>-45213316<br>45220000<br>45231000 45232000 |
+|  |  | 45,22 | Montasje av takkonstruksjoner og taktekking samt følgearbeid | 45261000 |
+|  |  | 45,23 | Bygging av veier, flyplasser og idrettsanlegg | 45212212 og DA03 (offentlig\* )<br>45230000<br>Unntatt:<br>-45231000<br>-45232000<br>-45234115 |
+|  |  | 45,24 | Anleggsarbeider i forbindelse med vannprosjekter | 45240000 |
+|  |  | 45,25 | Andre spesialiserte bygge- og anleggsarbeider | 45250000<br>45262000 |
+|  | 45,3 |  | Bygningsinstallasjonsarbeid | 45300000 |
+|  |  | 45,31 | Installasjon av elektriske ledninger og armaturer | 45213316<br>45310000<br>Unntatt:<br>-45316000 |
+|  |  | 45,32 | Isoleringsarbeid | 45320000 |
+|  |  | 45,33 | Blikkenslager- og rørleggerarbeid | 45330000 |
+|  |  | 45,34 | Annet bygningsinstallasjonsarbeid | 45234115<br>45316000<br>45340000 |
+|  | 45,4 |  | Ferdigstillende bygningsarbeid | 45400000 |
+|  |  | 45,41 | Pussearbeid | 45410000 |
+|  |  | 45,42 | Snekkermonteringsarbeid | 45420000 |
+|  |  | 45,43 | Utførelse av gulvlegging og veggbekledning | 45430000 |
+|  |  | 45,44 | Maler- og glassarbeid | 45440000 |
+|  |  | 45,45 | Øvrige arbeider i forbindelse med ferdiggjøring av bygninger | 45212212 og DA04 (private\* )<br>45450000 |
+|  | 45,5 |  | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
+|  |  | 45,50 | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
+
+1 Forordning [(EØF) nr. 3037/90](eu/31990r3037) av 9. oktober 1990 om statistisk klassifisering av økonomisk virksomhet innen De europeiske fellesskap.
+
+\* Jf. hovedgruppe D, gruppe A i EU-kommisjonens forordning [(EF) nr. 213/2008](eu/32008r0213) av 28. november 2007 om en felles klassifikasjon for offentlige innkjøp (CPV).
 
 ## Vedlegg 2. Særlige tjenester
 
+| *CPV-kode* | *Beskrivelse* |
+| --- | --- |
+| 75200000 | Samfunnstjenester |
+|  |  |
+| 79611000 | Jobbsøkingstjenester |
+| 79622000 | Formidling av hushjelpspersonal |
+| 79624000 | Formidling av pleiepersonal |
+| 79625000 | Formidling av medisinsk personal |
+|  |  |
+| 98133000 | Tjenester levert av sosiale medlemskapsorganisasjoner |
+| 98200000 | Konsulenttjenester for likestilling |
+| 98500000 | Lønnet arbeid i private husholdninger |
+|  |  |
+| 75000000 | Offentlig administrasjon, forsvars- og trygdetjenester |
+| 75124000 | Administrative tjenester i forbindelse med rekreasjon, kultur og religion |
+| 79995000 | Administrasjon av bibliotek |
+| 79995100 | Arkiveringstjenester |
+| 79995200 | Katalogisering |
+| 92000000–92700000 | Rekreasjon, kultur og sport |
+| 79950000 | Organisering av utstillinger, messer og kongresser |
+| 79951000 | Organisering av seminarer |
+| 79952000 | Organisering av arrangement |
+| 79952100 | Organisering av kulturarrangement |
+| 79953000 | Organisering av festival |
+| 79954000 | Organisering av selskap |
+| 79955000 | Organisering av moteshow |
+| 79956000 | Organisering av messer og utstillinger |
+| 79957000 | Organisering av auksjoner |
+|  |  |
+| 75300000 | Obligatoriske trygdetjenester |
+|  |  |
+| 75310000 | Bidragstjenester |
+| 75311000 | Sykebidrag |
+| 75312000 | Bidrag i forbindelse med svangerskap og fødsel |
+| 75313000 | Uføretrygd |
+| 75313100 | Bidrag ved midlertidig uførhet |
+| 75314000 | Arbeidsledighetstrygd |
+| 75320000 | Pensjonsordninger for statlige ansatte |
+| 75330000 | Familiebidrag |
+| 75340000 | Barnebidrag |
+|  |  |
+| 98000000 | Andre kommunale, sosiale og personlige tjenester |
+| 98120000 | Tjenester levert av fagforeninger |
+| 98132000 | Tjenester levert av politiske organisasjoner |
+| 98133110 | Tjenester utført av ungdomsorganisasjoner |
+| 98130000 | Diverse medlemsorganisasjonstjenester |
+|  |  |
+| 98131000 | Religiøse tjenester |
+|  |  |
+| 55100000–55410000 | Hotelltjenester |
+| 55521000–55521200 | Catering til private |
+| 55521100 | Matombringingstjenester |
+| 55521200 | Matleveransetjenester |
+| 55520000 | Cateringvirksomhet |
+| 55522000 | Catering til transportvirksomheter |
+| 55523000 | Catering til andre virksomheter eller institusjoner |
+| 55524000 | Catering til skoler |
+| 55510000 | Kantinevirksomhet |
+| 55511000 | Kantine- og annen kafeteriavirksomhet med begrenset adgang |
+| 55512000 | Drift av kantiner |
+| 55523100 | Tjenesteytelser i forbindelse med skolemåltider |
+|  |  |
+| 79100000–79140000 | Juridiske tjenester |
+| 75231100 | Administrative tjenester vedrørende domstoler |
+|  |  |
+| 75100000–75120000 | Offentlig forvaltning |
+| 75125000–75131000 | Administrative tjenester vedrørende turisme, støttetjenester for staten, statlige tjenester |
+|  |  |
+| 75200000–75231000 | Samfunnstjenester |
+|  |  |
+| 75240000–75252000 | Tjenester vedrørende allmenn sikkerhet, lov og orden og brannvesen og redningstjenester |
+| 79430000 | Krisehåndteringstjenester |
+| 98113100 | Kjernefysiske sikkerhetstjenester |
+|  |  |
+| 79700000–79723000 | Etterforsknings- og sikkerhetstjenester |
+|  |  |
+| 98900000 | Tjenester utført av internasjonale organisasjoner og organer |
+| 98910000 | Tjenester særskilt knyttet til internasjonale organisasjoner og organ |
+|  |  |
+| 64000000 | Post- og telekommunikasjonstjenester |
+| 64100000 | Post- og budtjenester |
+| 64110000 | Posttjenester |
+| 64111000 | Posttjenester tilknyttet aviser og tidsskrifter |
+| 64112000 | Posttjenester tilknyttet brev |
+| 64113000 | Posttjenester tilknyttet pakker |
+| 64114000 | Postkontortjenester |
+| 64115000 | Utleie av postbokser |
+| 64116000 | Poste restantetjenester |
+| 64122000 | Interne post- og budtjenester |
+|  |  |
+| 50116510 | Regummiering av dekk |
+| 71550000 | Smedtjenester |
+
 ## Vedlegg 3. Helse- og sosialtjenester
+
+| *CPV-kode* | *Beskrivelse* |
+| --- | --- |
+| 85000000–85323000 | Helse- og sosialtjenesteyting |
+| 85321000 | Administrative tjenester i forbindelse med sosialtjenester |
+| 85322000 | Kommunale handlingsprogrammer |
+|  |  |
+| 98133100 | Forbedring av samfunnet og støttetjenester til befolkningen |
+| 98513000–98514000 | Arbeidskrafttjenester innen private husholdninger og husarbeid |
+|  |  |
+| 75121000 | Administrative utdanningstjenester |
+| 75122000 | Administrative helsetjenester |
+| 75123000 | Administrative boligtjenester |
+| 75231200 | Tjenester tilknyttet forvaring eller rehabilitering av kriminelle |
+| 75231210– 75231230 | Tjenester i forbindelse med fengsling og fangeledsagelse og fengselstjenester |
+| 75231240 | Tilsynsvergetjenester |
+|  |  |
+| 80000000– 80660000 | Tjenester i forbindelse med trening og utdannelse |
 
 ## Vedlegg 4. Internasjonale konvensjoner
 

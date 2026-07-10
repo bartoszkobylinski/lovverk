@@ -37,3 +37,5 @@ Justis- og politidepartementet er vedkommende departement etter konvensjonens ar
 ## § 4.
 
 Forskriften trer i kraft når endringsoverenskomst 26. januar 2006 trer i kraft mellom de nordiske landene.1
+
+1 1 des 2008 iflg [vedtak 22 sep 2008 nr. 1108](forskrift/2008-09-22-1108).

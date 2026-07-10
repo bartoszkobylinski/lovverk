@@ -76,6 +76,8 @@ Forbudene i første og annet ledd omfatter ikke de bruksområder for kvikksølvf
 
 > Endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113), [26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), [22 juli 2014 nr. 995](forskrift/2014-07-22-995), [22 juli 2014 nr. 995](forskrift/2014-07-22-995) (i kraft 10 okt 2017), [2 mai 2023 nr. 665](forskrift/2023-05-02-665), [25 nov 2024 nr. 3026](forskrift/2024-11-25-3026) (i kraft 31 des 2025).
 
+1 Jf. REACH-forordningen vedlegg XVII post 18a nr. 1 og nr. 2, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften).
+
 ### § 2-4. Gjennomføring av forordningen om kvikksølv
 
 Forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv (kvikksølvforordningen), som inntatt i [EØS-avtalen vedlegg XX kapittel IV](avtale/avt-1992-05-02-1-v20/kapIV) nr. 22a, gjelder som forskrift, med de tilpasninger som følger av [vedlegg XX](avtale/avt-1992-05-02-1-v20) kapittel IV, protokoll 1 til avtalen og avtalen for øvrig.
@@ -340,7 +342,54 @@ Frostvæske med etylenglykol som produseres, importeres, eksporteres eller omset
 
 ### § 2-30. Stoff, stoffblandinger og produkter som reguleres i REACH-forordningen vedlegg XVII
 
-Det er forbudt å eksportere stoff, stoffblandinger eller produkter som i henhold til følgende poster i REACH-forordningen vedlegg XVII ikke er tillatt å bringe i omsetning, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften):*Post:**Stoff/stoffblanding*1Post 1Polyklorerte terfenyler (PCT)2Post 3 nr. 3Visse farlige og flytende stoffer og stoffblandinger3Post 4Tris(2,3 dibromopropyl)fosfat4Post 5Benzen5Post 6Asbestfibrer6Post 7Tris-aziridinyl-fosfinoksid7Post 8Polybrombifenyler (PBB)8Post 122-naftylamin og dets salter9Post 13Benzidin og dets salter10Post 144-nitrobifenyl11Post 154-aminobifenyl xenylamin og dets salter12Post 16Blykarbonater13Post 17Blysulfater14Post 18Kvikksølvforbindelser15Post 18aKvikksølv16Post 19Arsenforbindelser17Post 20 nr. 1–3Organiske tinnforbindelser18Post 21Dibutyltinnhydrogenborat (DBB)19––20Post 23Kadmium21Post 24Monometyltetraklordifenylmetan (Ugilec 141)22Post 25Monometyldiklordifenylmetan, (Ugilec 121, Ugilec 21)23Post 26Monometyldibromdifenylmetan brombenzylbromtoluen (DBBT)24Post 27Nikkel25Post 31Kreosot, kreosotolje, steinkulltjære og antracenolje26Post 32Kloroform27Post 341,1,2-trikloretaen28Post 351,2,2-tetrakloretan29Post 361,1,1,2-tetrakloretan30Post 37Pentakloretan31Post 381,1-dikloreten32Post 40Brannfarlige, svært brannfarlige eller ekstremt brannfarlige stoffer33Post 43Azofargestoffer34Post 45Oktabromdifenyleter35Post 46Nonylfenol, nonylfenoletoksylater36Post 48Toluen37Post 49Triklorbenzen38Post 50 nr. 1–4Polysykliske aromatiske hydrokarboner (PAH)39Post 51 nr. 2Di(2-ethylheksyl)ftalat (DEHP), dibutylftalat (DBP) og butylbenzylftalat (BBP)40Post 52Ftalater41Post 62Fenylkvikksølvforbindelser42––43Post 72Formaldehyd44Post 75Tatoveringskjemikalier
+Det er forbudt å eksportere stoff, stoffblandinger eller produkter som i henhold til følgende poster i REACH-forordningen vedlegg XVII ikke er tillatt å bringe i omsetning, jf. [forskrift 30. mai 2008 nr. 516](forskrift/2008-05-30-516) om registrering, vurdering, godkjenning og begrensning av kjemikalier (REACH-forskriften):
+
+|  | *Post:* | *Stoff/stoffblanding* |
+| --- | --- | --- |
+| 1 | Post 1 | Polyklorerte terfenyler (PCT) |
+| 2 | Post 3 nr. 3 | Visse farlige og flytende stoffer og stoffblandinger |
+| 3 | Post 4 | Tris(2,3 dibromopropyl)fosfat |
+| 4 | Post 5 | Benzen |
+| 5 | Post 6 | Asbestfibrer |
+| 6 | Post 7 | Tris-aziridinyl-fosfinoksid |
+| 7 | Post 8 | Polybrombifenyler (PBB) |
+| 8 | Post 12 | 2-naftylamin og dets salter |
+| 9 | Post 13 | Benzidin og dets salter |
+| 10 | Post 14 | 4-nitrobifenyl |
+| 11 | Post 15 | 4-aminobifenyl xenylamin og dets salter |
+| 12 | Post 16 | Blykarbonater |
+| 13 | Post 17 | Blysulfater |
+| 14 | Post 18 | Kvikksølvforbindelser |
+| 15 | Post 18a | Kvikksølv |
+| 16 | Post 19 | Arsenforbindelser |
+| 17 | Post 20 nr. 1–3 | Organiske tinnforbindelser |
+| 18 | Post 21 | Dibutyltinnhydrogenborat (DBB) |
+| 19 | – | – |
+| 20 | Post 23 | Kadmium |
+| 21 | Post 24 | Monometyltetraklordifenylmetan (Ugilec 141) |
+| 22 | Post 25 | Monometyldiklordifenylmetan, (Ugilec 121, Ugilec 21) |
+| 23 | Post 26 | Monometyldibromdifenylmetan brombenzylbromtoluen (DBBT) |
+| 24 | Post 27 | Nikkel |
+| 25 | Post 31 | Kreosot, kreosotolje, steinkulltjære og antracenolje |
+| 26 | Post 32 | Kloroform |
+| 27 | Post 34 | 1,1,2-trikloretaen |
+| 28 | Post 35 | 1,2,2-tetrakloretan |
+| 29 | Post 36 | 1,1,1,2-tetrakloretan |
+| 30 | Post 37 | Pentakloretan |
+| 31 | Post 38 | 1,1-dikloreten |
+| 32 | Post 40 | Brannfarlige, svært brannfarlige eller ekstremt brannfarlige stoffer |
+| 33 | Post 43 | Azofargestoffer |
+| 34 | Post 45 | Oktabromdifenyleter |
+| 35 | Post 46 | Nonylfenol, nonylfenoletoksylater |
+| 36 | Post 48 | Toluen |
+| 37 | Post 49 | Triklorbenzen |
+| 38 | Post 50 nr. 1–4 | Polysykliske aromatiske hydrokarboner (PAH) |
+| 39 | Post 51 nr. 2 | Di(2-ethylheksyl)ftalat (DEHP), dibutylftalat (DBP) og butylbenzylftalat (BBP) |
+| 40 | Post 52 | Ftalater |
+| 41 | Post 62 | Fenylkvikksølvforbindelser |
+| 42 | – | – |
+| 43 | Post 72 | Formaldehyd |
+| 44 | Post 75 | Tatoveringskjemikalier |
 
 Med eksport i denne bestemmelsen menes eksport fra Norge til land utenfor EØS-området.
 
@@ -394,9 +443,64 @@ Symbolet for tungmetallinnhold, Hg, Cd og Pb, skal trykkes under symbolet med ov
 
 ### Vedlegg II. Forordning om kapasitetsmerking av batterier
 
+Forordning [(EU) nr. 1103/2010](eu/32010r1103): [(pdf)](static/SF/32010r1103u.pdf)
+
 > Endret ved [forskrifter 17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg II til kapittel 3), [24 okt 2012 nr. 988](forskrift/2012-10-24-988).
 
 ### Vedlegg III. Materialer og deler som er unntatt fra forbudet i § 2-19
+
+| *Materialer og deler* | *Omfang av og utløpsdato for unntaket* | *Komponenter og materialer som skal fjernes før videre behandling* |
+| --- | --- | --- |
+| *Bly som bestanddel i legeringer* |  |  |
+| 1 a) Stål beregnet på bearbeiding og satsvis varmgalvaniserte ståldeler som inneholder opptil 0,35 vektprosent bly. |  |  |
+| 1 b) Kontinuerlig galvanisert stålplate som inneholder opptil 0,35 vektprosent bly. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler til disse kjøretøyene. |  |
+| 2 a) Aluminium beregnet på bearbeiding med et blyinnhold på opptil 2 vektprosent. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2005. |  |
+| 2 b) Aluminium med et blyinnhold på opptil 1,5 vektprosent. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2008. |  |
+| 2 c) a) Aluminiumlegeringer beregnet på bearbeiding med et blyinnhold på opptil 0,4 vektprosent. | Kjøretøyer typegodkjent før 1. januar 2028 og reservedeler til disse kjøretøyene. |  |
+| 2 c) b) Aluminiumlegeringer som ikke omfattes av 2 c) a) med et blyinnhold på opptil 0,4 vektprosent og hvor bly ikke er bevisst tilsatt, men til stede som følge av bruk av materialgjenvunnet aluminium |  |  |
+| 3. Kobberlegering som inneholder opptil 4 vektprosent bly. |  |  |
+| 4 a) Lagerskåler og -hylser. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2008. |  |
+| 4 b) Lagerskåler og -hylser i motorer, overføringsinnretninger og kompressorer til klimaanlegg. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2011. |  |
+| *Bly og blyforbindelser i deler* |  |  |
+| 5 a) Bly i batterier i høyspenningssystemer, som har en merkespenning over 75 V for likestrøm, og som utelukkende benyttes til fremdrift av kjøretøyer i gruppe M1 og N1. | Kjøretøyer typegodkjent før 1. januar 2019 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| 5 b) Bly i batterier:<br>1. Til bruk i 12 V-anvendelser.<br>2. Til bruk i 24 V-anvendelser i spesialkjøretøy som definert i artikkel 3 i europaparlamentets- og rådsforordning [(EU) 2018/858](eu/32018r0858). |  | Skal fjernes. |
+| 5 c) Bly i batterier til bruk som ikke omfattes av 5 a) eller 5 b). | Kjøretøyer typegodkjent før 1. januar 2024 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| 6. Vibrasjonsdempere. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| 7 a) Vulkaniseringsmidler og stabilisatorer til elastomerer som brukes i bremseslanger, drivstoffslanger, ventilasjonsslanger, elastomerer-/metalldeler i karosseriet samt motoroppheng. | Som reservedeler for kjøretøyer som er markedsført før 1. juli 2005. |  |
+| 7 b) Vulkaniseringsmidler og stabilisatorer til elastomerer som brukes i bremseslanger, drivstoffslanger, ventilasjonsslanger, elastomerer-/metalldeler i karosseriet samt motoroppheng, som inneholder opptil 0,5 vektprosent bly. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2006. |  |
+| 7 c) Bindemidler til elastomerer brukt til kraftoverføring som inneholder opptil 0,5 vektprosent bly. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2009. |  |
+| 8 a) Bly i loddemateriale som brukes til å feste elektriske og elektroniske deler til elektroniske kretskort, og bly i belegg til avslutninger på komponenter med unntak av elektrolyttkondensatorer av aluminium på komponentben og elektroniske kretskort. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 b) Bly i loddemateriale til annen anvendelse enn lodding på elektroniske kretskort eller glass | Kjøretøyer typegodkjent før 1. januar 2011 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 c) Bly i belegg til avslutninger på elektrolyttkondensatorer av aluminium. | Kjøretøyer typegodkjent før 1. januar 2013 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 d) Bly som brukes til lodding på glass i luftmengdemålere. | Kjøretøyer typegodkjent før 1. januar 2015 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 e) Bly i loddemateriale med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer). |  | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 f) a) Bly som blir brukt i koplingssystemer med bøyelige stifter. | Kjøretøyer typegodkjent før 1. januar 2017 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 f) b) Bly i koblingssystemer med bøyelige stifter, bortsett fra i kontaktflater i koblingssystemer for kabelføringer i kjøretøyer. | Kjøretøyer typegodkjent før 1. januar 2024 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 g) i) Bly i loddemateriale til bruk for stabil elektrisk forbindelse mellom halvlederskive og substrat i Flip Chip-pakker med integrerte kretser | Kjøretøyer typegodkjent før 1. oktober 2022 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 g) ii) Bly i loddemateriale til bruk for stabil elektrisk forbindelse mellom halvlederskive og substrat i Flip Chip-pakker med integrerte kretser, der nevnte elektriske forbindelse består av ett av følgende:<br>i) En halvlederteknologinode på 90 nm eller mer.<br>ii) En enkelt skive på 300 mm2 eller mer i enhver halvlederteknologinode.<br>iii) Stacked Die-pakker med skivestørrelse på 300 mm2 eller mer, eller silisiummellomlegg på 300 mm2 eller mer. | Gjelder for kjøretøyer typegodkjent fra og med 1. oktober 2022 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 h) Bly i loddemateriale som brukes til å feste varmespredere til kjøleribber i halvlederenheter med en chipstørrelse på minst 1 cm2 av projeksjonsflaten og en nominell strømtetthet på minst 1 A/mm2 av silisiumchipflaten. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 i) Bly i loddemateriale til elektriske anvendelser på glass, bortsett fra lodding på laminert glass. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 j) Bly i loddemateriale for lodding av laminert glass. | Kjøretøyer typegodkjent før 1. januar 2020 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 8 k) Lodding av varmeanvendelser med en glødestrøm på 0,5 A eller mer per loddefuge på enkeltruter av laminert glass med en tykkelse på høyst 2,1 mm. Dette unntaket omfatter ikke lodding på kontakter som er innkapslet i det mellomliggende polymerlaget. | Kjøretøyer typegodkjent før 1. januar 2024 og reservedeler til disse kjøretøyene. | Skal fjernes dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 10 a). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten. |
+| 9. Ventilseter. | Som reservedeler til motortyper som er utviklet før 1. juli 2003. |  |
+| 10 a) Elektriske og elektroniske deler som inneholder bly i glass eller keramisk materiale, i en matrise av glass eller keramisk materiale, i glasskeramisk materiale eller i en matrise av glasskeramisk materiale. Dette unntaket omfatter ikke bruk av bly i:<br>– glass i lyspærer og glasur på tennplugger<br>– dielektrisk keramikk i bestanddelene som er oppført i 10 b, 10 c og 10 d |  | Skal fjernes (for andre deler enn piezoelektriske motorer) dersom en gjennomsnittlig grenseverdi på 60 gram per kjøretøy er overskredet (i forbindelse med 8 a til 8 j). Ved anvendelsen av denne bestemmelsen skal det ikke tas hensyn til elektroniske innretninger som ikke er montert av produsenten |
+| 10 b) Bly i piezobasert dielektrisk keramikk i kondensatorer som inngår i integrerte kretser eller diskrete halvledere. |  |  |
+| 10 c) Bly i dielektrisk keramikk i kondensatorer med merkespenning som er lavere enn 125 V AC eller 250 V DC. | Kjøretøyer typegodkjent før 1. januar 2016 og reservedeler for disse kjøretøyene. |  |
+| 10 d) Bly i dielektrisk keramikk i kondensatorer som kompenserer for avvik knyttet til temperatur hos følere i sonarsystemer med ultralyd. | Kjøretøyer typegodkjent før 1. januar 2017 og reservedeler til disse kjøretøyene. |  |
+| 11. Pyrotekniske tennere. | Kjøretøyer typegodkjent før 1. juli 2006 og reservedeler til disse kjøretøyene. |  |
+| 12. Blyholdige termoelektriske materialer i elektriske anvendelser i motorvogner for å redusere CO2-utslipp ved gjenvinning av varme fra avgasser. | Kjøretøyer typegodkjent før 1. januar 2019 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| *Seksverdig krom* |  |  |
+| 13 a) Korrosjonshindrende belegg. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2007. |  |
+| 13 b) Korrosjonshindrende belegg på bolter og muttere til bruk på understell. | Som reservedeler til kjøretøyer som er markedsført før 1. juli 2008. |  |
+| 14. Seksverdig krom som korrosjonshemmende stoff (høyst 0,75 vektprosent i kjølemiddelet) i kjølesystemet av karbonstål i absorpsjonskjøleskap som er |  | X |
+| i) konstruert for helt eller delvis å fungere med et elektrisk varmeanlegg med gjennomsnittlig utnyttet elektrisk inngangseffekt <75 W ved konstante driftsforhold, | Kjøretøyer typegodkjent før 1. januar 2020 og reservedeler til disse kjøretøyene |  |
+| ii) konstruert for helt eller delvis å fungere med et elektrisk varmeanlegg med gjennomsnittlig utnyttet elektrisk inngangseffekt ≥75 W ved konstante driftsforhold, | Kjøretøyer typegodkjent før 1. januar 2026 og reservedeler til disse kjøretøyene |  |
+| iii) konstruert for helt å fungere med et ikke-elektrisk varmeanlegg |  |  |
+| *Kvikksølv* |  |  |
+| 15 a) Utladningslamper til frontlykter. | Kjøretøyer typegodkjent før 1. juli 2012 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| 15 b) Lysrør som brukes i belysning i instrumentpaneler. | Kjøretøyer typegodkjent før 1. juli 2012 og reservedeler til disse kjøretøyene. | Skal fjernes. |
+| *Kadmium* |  |  |
+| 16. Batterier til elektriske kjøretøyer. | Som reservedeler til kjøretøyer som er markedsført før 31. desember 2008. |  |
 
 > Endret ved [forskrifter 3 juli 2006 nr. 879](forskrift/2006-07-03-879), [17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg III til kapittel 3), [8 mars 2013 nr. 287](forskrift/2013-03-08-287), [23 juni 2016 nr. 1128](forskrift/2016-06-23-1128), [6 juni 2018 nr. 834](forskrift/2018-06-06-834), [2 juni 2021 nr. 1924](forskrift/2021-06-02-1924), [1 juli 2021 nr. 2323](forskrift/2021-07-01-2323), [19 juni 2023 nr. 973](forskrift/2023-06-19-973).
 
@@ -404,11 +508,67 @@ Symbolet for tungmetallinnhold, Hg, Cd og Pb, skal trykkes under symbolet med ov
 
 ### Tabell 1
 
+*Krav til bensin*
+
+| *Parameter*1 | *Enhet* | *Grenseverdier*2 |  |
+| --- | --- | --- | --- |
+|  |  | *Kriterium* |  |
+| Research-oktantall (RON) | – | Min. | 953 |
+| Motor-oktantall (MON) | – | Min. | 853 |
+| RVP – sommer4 | kPa | Maks. | 70,0 |
+| Destillasjon: |  |  |  |
+| – fordampet ved 100 °C | % v/v | Min. | 46,0 |
+| – fordampet ved 150 °C | % v/v | Min. | 75,0 |
+| Hydrokarboner: |  |  |  |
+| – olefiner | % v/v | Maks. | 18,0 |
+| – aromater | % v/v | Maks. | 35,0 |
+| – benzen | % v/v | Maks. | 1,0 |
+| Oksygeninnhold | % m/m | Maks. | 3,7 |
+| Oksygenater: |  |  |  |
+| – metanol | % v/v | Maks. | 3 |
+| – etanol, stabilisatorer kan være tilsatt | % v/v | Maks. | 10 |
+| – isopropylalkohol | % v/v | Maks. | 12 |
+| – tertbutylalkohol | % v/v | Maks. | 15 |
+| – isobutylalkohol | % v/v | Maks. | 15 |
+| – etere som inneholder 5 karbonatomer pr. molekyl eller flere | % v/v | Maks. | 22 |
+| – andre oksygenater5 | % v/v | Maks. | 15 |
+| Svovelinnhold | mg/kg | Maks. | 10 |
+| Blyinnhold | g/l | Maks. | 0,005 |
+
 > Endret ved [forskrifter 12 mai 2005 nr. 430](forskrift/2005-05-12-430), [24 mars 2009 nr. 351](forskrift/2009-03-24-351), [17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg IV til kapittel 3), [2 nov 2015 nr. 1261](forskrift/2015-11-02-1261).
+
+1 Testmetodene er i overensstemmelse med de som er angitt i NS-EN 228:2012. Det kan anvendes en annen analysemetode dersom nøyaktighets- og presisjonsnivået er tilsvarende som ved den analysemetoden som erstattes.
+
+2 De anførte verdier er «virkelige verdier». Ved fastsettelse av grenseverdiene har vilkårene i ISO 4259 «Petroleumsprodukter – bestemmelser og anvendelse av presisjonsdata i forhold til testmetoder» blitt lagt til grunn, og ved fastsettelse av en minimumsverdi har en minste forskjell på 2R over null (R = reproduserbarhet) vært anvendt. Resultatene av de enkelte målingene skal tolkes på basis av kriteriene beskrevet i ISO 4259 (publisert i 1995).
+
+3 Dette utelukker ikke at bensin med lavere oktantall kan markedsføres. Research-oktantallet og motor-oktantallet skal i det minste være henholdsvis 91 og 81.
+
+4 Sommerperioden skal begynne senest 1. juni og slutte tidligst 31. august.
+
+5 Andre monoalkoholer og etere med sluttkokepunkt som ikke er høyere enn det sluttkokepunktet som er fastsatt i NS-EN 228:2012.
 
 ### Tabell 2
 
+*Krav til autodiesel*
+
+| *Parameter*1 | *Enhet* | *Grenseverdier*2 |  |
+| --- | --- | --- | --- |
+|  |  | *Kriterium* |  |
+| Cetantall | – | Min. | 51,0 |
+| Densitet ved 15 °C | kg/m3 | Maks. | 845 |
+| Destillasjon: |  |  |  |
+| – 95 % v/v gjenvunnet ved | °C | Maks. | 360 |
+| Polyaromatiske hydrokarboner (PAH) | % m/m | Maks. | 8 |
+| Svovelinnhold | mg/kg | Maks. | 10 |
+| FAME-innhold EN 14078 | % v/v | Maks. | 73 |
+
 > Endret ved [forskrifter 12 mai 2005 nr. 430](forskrift/2005-05-12-430), [24 mars 2009 nr. 351](forskrift/2009-03-24-351), [17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg IV til kapittel 3), [2 nov 2015 nr. 1261](forskrift/2015-11-02-1261).
+
+1 Testmetodene er i overensstemmelse med de som er angitt i NS-EN 590:2013. Det kan anvendes en annen analysemetode dersom nøyaktighets- og presisjonsnivået er tilsvarende som ved den analysemetoden som erstattes.
+
+2 De anførte verdier er «virkelige verdier». Ved fastsettelse av grenseverdiene har vilkårene i ISO 4259 «Petroleumsprodukter – bestemmelser og anvendelse av presisjonsdata i forhold til testmetoder» blitt lagt til grunn, og ved fastsettelse av en minimumsverdi har en minste forskjell på 2R over null (R = reproduserbarhet) vært anvendt. Resultatene av de enkelte målingene skal tolkes på basis av kriteriene beskrevet i ISO 4259.
+
+3 Biodrivstoff basert på fettsyremetylester (FAME) skal tilfredsstille kravene i NS-EN 14214.
 
 ### Vedlegg V. Beregning av klimagassintensitet for drivstoff og energi
 
@@ -419,14 +579,18 @@ Klimagassintensiteten for drivstoff og energi uttrykkes i gram karbondioksidekvi
 
 De klimagassene som det skal tas hensyn til ved beregningen av klimagassintensiteten for drivstoff, er karbondioksid (CO2), metan (CH4) og dinitrogenoksid (N2O). Ved beregning av CO2-ekvivalens vurderes disse gassene med hensyn til CO2-ekvivalente utslipp som følger:
 
+CO2: 1 CH4: 25 N2O: 298
+
 Utslipp fra produksjon av maskiner og utstyr som brukes ved utvinning, produksjon, raffinering og forbruk av fossile brensler skal ikke tas i betraktning ved klimagassberegningen.
 
 Den samlede intensiteten av en leverandørs livsyklusmiljøgassutslipp for alle leverte drivstoff og energi skal beregnes i samsvar med følgende formel:
 
+der:
+
 1. «x» er drivstoff- og energityper som omfattes. Disse er definert ut i fra tolltariffkoder.
-2. «MJx» er den samlede energien som leveres, og som omregnes fra de rapporterte mengdene av drivstoff «x», uttrykt i megajoule. Denne variabelen beregnes som følger:*Mengden av hvert drivstoff per drivstofftype*Utledes fra innrapportert mengde drivstoff og omregnes til energimengde ved deres respektive nedre brennverdi. For ikke-biologiske drivstoff benyttes nedre brennverdi som fastsatt i tillegg 1 til Joint Research Centre-EUCAR-CONCAWE (JEC) Well-to-Tank-rapport (4. utgave) av juli 2013, se tabell I og II nedenfor. For biodrivstoff benyttes nedre brennverdi som fastsatt i vedlegg II til direktiv [2009/98/EF](eu/32009l0098), se tabell III nedenfor.*Tabell I. Nedre brennverdier for gassformige ikke-biologiske drivstoff**Drivstoff**MJ/kg**MJ/Nm3**kg/kWh**kWh/kg*Metan50,035,70,07213,89Naturgass
+2. «MJx» er den samlede energien som leveres, og som omregnes fra de rapporterte mengdene av drivstoff «x», uttrykt i megajoule. Denne variabelen beregnes som følger:*Mengden av hvert drivstoff per drivstofftype*Utledes fra innrapportert mengde drivstoff og omregnes til energimengde ved deres respektive nedre brennverdi. For ikke-biologiske drivstoff benyttes nedre brennverdi som fastsatt i tillegg 1 til Joint Research Centre-EUCAR-CONCAWE (JEC) Well-to-Tank-rapport (4. utgave) av juli 2013, se tabell I og II nedenfor. For biodrivstoff benyttes nedre brennverdi som fastsatt i vedlegg II til direktiv [2009/98/EF](eu/32009l0098), se tabell III nedenfor.*Tabell I. Nedre brennverdier for gassformige ikke-biologiske drivstoff* *Drivstoff**MJ/kg**MJ/Nm3**kg/kWh**kWh/kg*Metan50,035,70,07213,89Naturgass
 (EU-mix)45,135,70,08012,53Naturgass
-(Russland)49,235,80,07313,67LPG46,00,07812,78Hydrogen120,110,70,0333,36*Tabell II. Nedre brennverdier for flytende ikke-biologiske drivstoff**kg/m3**MJ/kg**GJ/m3**kg/kWh**kWh/kg*Bensin74543,232,20,08312,0Diesel83243,135,90,08411,97Nafta72043,731,50,08212,14Syn diesel78044,034,30,08212,22Syn nafta70044,531,20,08112,36Metanol79319,915,80,18112,36DME67028,419,00,1277,90MTBE74535,126,10,1039,75ETBE75036,327,20,09910,07*Tabell III. Nedre brennverdier for biodrivstoff**Drivstoff**Energiinnhold per vektenhet (MJ/kg)**Energiinnhold per volumenhet (MJ/l)*Bioetanol2721Bio-ETBE (etyltertiærbutyleter)36 (herav 37 % fra fornybare energikilder)27 (herav 37 % fra fornybare energikilder)Biometanol2016Bio-MTBE (metyltertbutyleter)35 (herav 22 % fra fornybare energikilder)26 (herav 22 % fra fornybare energikilder)Bio-DME (dimetyleter)2819Bio-TAEE (tertiæramyletyleter)38 (herav 29 % fra fornybare energikilder)29 (herav 29 % fra fornybare energikilder)Biobutanol3327Biodiesel (metylester)3733Fischer-Tropsch-diesel4434Hydrogenbehandlet vegetabilske olje (HVO)4434Ren vegetabilsk olje3734Biogass50–*Sambehandling av fossile brensler og biodrivstoff*Behandling omfatter enhver endring i løpet av et levert drivstoffs eller en energis livssyklus som forårsaker en endring i produktets molekylstruktur. Tilsetting av denatureringsmiddel omfattes ikke av denne behandling. Mengden av biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, gjenspeiler biodrivstoffets tilstand etter behandlingen. Mengden av sambehandlet biodrivstoff bestemmes i henhold til energibalansen og effektiviteten av sambehandlingsprosessen i henhold til punkt C (17) i vedlegg II til kapittel 3 i denne forskrift.Dersom flere biodrivstoff blandes med fossile brensler, tas det hensyn til mengden og typen av hvert enkelt biodrivstoff ved beregningen og ved leverandørenes rapportering til medlemsstatene.E85 bensin-etanolblandinger skal beregnes som et separat drivstoff i henhold til artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 443/2009](eu/32009r0443).*Elektrisitetsforbruk*Dette er den mengden elektrisk kraft som benyttes i veigående kjøretøyer eller motorsykler, og som leverandøren rapporterer til Miljødirektoratet etter følgende formel:
+(Russland)49,235,80,07313,67LPG46,00,07812,78Hydrogen120,110,70,0333,36*Tabell II. Nedre brennverdier for flytende ikke-biologiske drivstoff* *kg/m3**MJ/kg**GJ/m3**kg/kWh**kWh/kg*Bensin74543,232,20,08312,0Diesel83243,135,90,08411,97Nafta72043,731,50,08212,14Syn diesel78044,034,30,08212,22Syn nafta70044,531,20,08112,36Metanol79319,915,80,18112,36DME67028,419,00,1277,90MTBE74535,126,10,1039,75ETBE75036,327,20,09910,07*Tabell III. Nedre brennverdier for biodrivstoff* *Drivstoff**Energiinnhold per vektenhet (MJ/kg)**Energiinnhold per volumenhet (MJ/l)*Bioetanol2721Bio-ETBE (etyltertiærbutyleter)36 (herav 37 % fra fornybare energikilder)27 (herav 37 % fra fornybare energikilder)Biometanol2016Bio-MTBE (metyltertbutyleter)35 (herav 22 % fra fornybare energikilder)26 (herav 22 % fra fornybare energikilder)Bio-DME (dimetyleter)2819Bio-TAEE (tertiæramyletyleter)38 (herav 29 % fra fornybare energikilder)29 (herav 29 % fra fornybare energikilder)Biobutanol3327Biodiesel (metylester)3733Fischer-Tropsch-diesel4434Hydrogenbehandlet vegetabilske olje (HVO)4434Ren vegetabilsk olje3734Biogass50–*Sambehandling av fossile brensler og biodrivstoff*Behandling omfatter enhver endring i løpet av et levert drivstoffs eller en energis livssyklus som forårsaker en endring i produktets molekylstruktur. Tilsetting av denatureringsmiddel omfattes ikke av denne behandling. Mengden av biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, gjenspeiler biodrivstoffets tilstand etter behandlingen. Mengden av sambehandlet biodrivstoff bestemmes i henhold til energibalansen og effektiviteten av sambehandlingsprosessen i henhold til punkt C (17) i vedlegg II til kapittel 3 i denne forskrift.Dersom flere biodrivstoff blandes med fossile brensler, tas det hensyn til mengden og typen av hvert enkelt biodrivstoff ved beregningen og ved leverandørenes rapportering til medlemsstatene.E85 bensin-etanolblandinger skal beregnes som et separat drivstoff i henhold til artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 443/2009](eu/32009r0443).*Elektrisitetsforbruk*Dette er den mengden elektrisk kraft som benyttes i veigående kjøretøyer eller motorsykler, og som leverandøren rapporterer til Miljødirektoratet etter følgende formel:
 Årlig elektrisitetsforbruk = kjørt strekning (km) × elektrisitetsforbruk (MJ/km)
 3. Oppstrømsutslipp og oppstrøms utslippsreduksjon (upstream emission reduction (UER))Oppstrømsutslipp er alle klimagassutslipp som forekommer før råstoffet når fram til raffinerings- eller behandlingsanlegget der drivstoffet som omhandles i dette vedlegget, ble produsert.UER er den oppstrøms utslippsreduksjon av klimagasser som av leverandøren hevdes å foreligge, målt i gCO2eq dersom den er kvantifisert og rapportert i samsvar med følgende krav:*Berettigelse*UER-er får bare anvendelse på oppstrømsutslippsdelen av gjennomsnittlige standardverdier for bensin, diesel, CNG eller LPG.UER-er som oppstår i et hvilket som helst land kan medregnes som en reduksjon i klimagassutslipp i forhold til drivstoff fra enhver råstoffkilde som leveres av en hvilken som helst leverandør.UER-er skal bare medregnes dersom de er knyttet til prosjekter som har startet etter 1. januar 2011.Det er ikke nødvendig å bevise at UER-er ikke ville ha funnet sted uten rapporteringskravet angitt i [§ 2-21](forskrift/2004-06-01-922/§2-21) første ledd.*Beregning*UER-er skal anslås og valideres i samsvar med prinsippene og standardene som er angitt i internasjonale standarder, særlig i ISO 14064, ISO 14065 og ISO 14066.UER-er og referanseutslipp overvåkes, rapporteres og verifiseres i samsvar med ISO 14064 og gir resultater med tilsvarende pålitelighet som kommisjonsforordning [(EU) nr. 600/2012](eu/32012r0600) og kommisjonsforordning [(EU) nr. 601/2012](eu/32012r0601*). Verifiseringen av metoder for å anslå UER-er må gjøres i samsvar med ISO 14064-3, og organisasjonen som verifiserer dette skal være akkreditert i samsvar med ISO 14065.
 4. «GHGix» er klimagassintensiteten for drivstoff eller energi «x» uttrykt i gCO2eq/MJ. Omsettere skal beregne klimagassintensiteten for hvert drivstoff eller energi slik:Klimagassintensiteten for drivstoff som ikke er av biologisk opprinnelse er «den veide klimagassintensiteten» per drivstofftype oppført i siste kolonne i tabellen under punkt 2 i del II i dette vedlegg.Elektrisk kraft beregnes som beskrevet i punkt 3 i del II.*Klimagassintensitet for biodrivstoff*Klimagassintensiteten for biodrivstoff som oppfyller bærekraftskriteriene beregnes i samsvar med [§ 3-5](forskrift/2004-06-01-922/§3-5) til [§ 3-9](forskrift/2004-06-01-922/§3-9). Dersom data om livssyklusutslipp av klimagasser for biodrivstoff ble fremskaffet i samsvar med en avtale eller ordning som er gjenstand for en beslutning i henhold til artikkel 7c nr. 4 i direktiv [98/70/EF](eu/31998l0070) som omfatter artikkel 7b nr. 2 i nevnte direktiv, skal disse data også brukes til å bestemme klimagassintensiteten for biodrivstoff i henhold til samme direktivs artikkel 7b nr. 1.*Sambehandling av drivstoff som ikke er av biologisk opprinnelse og biodrivstoff*Klimagassintensiteten for biodrivstoff som sambehandles med drivstoff som ikke er av biologisk opprinnelse, skal gjenspeile biodrivstoffets tilstand etter behandlingen.
@@ -436,7 +600,7 @@ Den samlede intensiteten av en leverandørs livsyklusmiljøgassutslipp for alle 
 Rapportering for omsettere av andre drivstoff enn biodrivstoff
 
 1. *UER-er for fossile brensler*For at UER-er skal være berettiget for rapporterings- og beregningsmetoden, skal omsettere rapportere følgende:Startdatoen for prosjektet, som må være senere enn 1. januar 2011,de årlige utslippsreduksjonene i gCO2eq,varigheten av den perioden da reduksjonene fant sted,prosjektsted nærmest kilden til utslippene, i bredde- og lengdegradskoordinater i grader med fire desimaler,de årlige referanseutslippene før installeringen av reduksjonstiltakene og de årlige utslippene etter at reduksjonstiltakene har blitt gjennomført, i gCO2eq/MJ av produsert utgangsmateriale,ikke-gjenbrukelig sertifikatnummer som entydig identifiserer ordningen og de påståtte klimagassreduksjonene,ikke-gjenbrukelig nummer som entydig identifiserer beregningsmetoden og den tilhørende ordningen, ogdersom prosjektet er tilknyttet oljeutvinning, rapporteres gjennomsnittlig årlig historisk og rapporteringsårets gass-til-olje-forhold (GOR) i løsning, reservoartrykk, dybde og brønnproduksjonsrate for råoljen.
-2. *Gjennomsnittlige normalverdier for klimagassintensitet under hele livssyklusen for andre drivstoff enn biodrivstoff og elektrisitet**Råstoffkilde og prosess**Drivstoff brakt i omsetning**Vektet livssyklus-klimagassintensitet (gCO2eq/MJ)*Konvensjonell råoljeBensin93,3Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferKonvensjonell råoljeDiesel eller gassolje95,1Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferAlle fossile kilderFlytende petroleumsgass i en motor med gnisttenning73,6Naturgass, EU-blandingKomprimert naturgass i en motor med gnisttenning69,3Naturgass, EU-blandingFlytende naturgass i en motor med gnisttenning74,5Sabatier-reaksjon av hydrogen ved bruk av elektrolyse med ikke-biologisk fornybar energiKomprimert syntetisk metan i en gnisttenningsmotor3,3Naturgass gjennom dampreformeringKomprimert hydrogen i en brenselcelle104,3Elektrolyse som fullt ut drives av fornybar ikke-biologisk energiKomprimert hydrogen i en brenselcelle9,1KullKomprimert hydrogen i en brenselcelle234,4Kull med karbonfangst og lagring av prosessutslippKomprimert hydrogen i en brenselcelle52,7Plastavfall som utvinnes av fossile råstofferBensin, diesel eller gassolje86
+2. *Gjennomsnittlige normalverdier for klimagassintensitet under hele livssyklusen for andre drivstoff enn biodrivstoff og elektrisitet* *Råstoffkilde og prosess**Drivstoff brakt i omsetning**Vektet livssyklus-klimagassintensitet (gCO2eq/MJ)*Konvensjonell råoljeBensin93,3Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferKonvensjonell råoljeDiesel eller gassolje95,1Naturgass til flytendeKull til flytendeNaturlig bitumenOljeskiferAlle fossile kilderFlytende petroleumsgass i en motor med gnisttenning73,6Naturgass, EU-blandingKomprimert naturgass i en motor med gnisttenning69,3Naturgass, EU-blandingFlytende naturgass i en motor med gnisttenning74,5Sabatier-reaksjon av hydrogen ved bruk av elektrolyse med ikke-biologisk fornybar energiKomprimert syntetisk metan i en gnisttenningsmotor3,3Naturgass gjennom dampreformeringKomprimert hydrogen i en brenselcelle104,3Elektrolyse som fullt ut drives av fornybar ikke-biologisk energiKomprimert hydrogen i en brenselcelle9,1KullKomprimert hydrogen i en brenselcelle234,4Kull med karbonfangst og lagring av prosessutslippKomprimert hydrogen i en brenselcelle52,7Plastavfall som utvinnes av fossile råstofferBensin, diesel eller gassolje86
 3. *Elektrisk kraft*For rapportering av klimagassintensitet for elektrisk kraft til veitransport skal det tas utgangspunkt i den nasjonale kraftproduksjonen.
 
 > Opphevet ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), tilføyd igjen ved [forskrift 21 des 2017 nr. 2398](forskrift/2017-12-21-2398).
@@ -453,11 +617,21 @@ Se her for å lese forordning [(EU) nr. 259/2012](eu/32012r0259): [(pdf)](static
 
 ### Vedlegg VII: Vedlegg til § 2-24 til § 2-26 om organiske forbindelser i maling- og lakkeringsprodukter
 
+**Avsnitt 1: Virkeområde**
+
+1\.
+
 [§ 2-24](forskrift/2004-06-01-922/§2-24) til [§ 2-26](forskrift/2004-06-01-922/§2-26) omfatter maling- og lakkeringsprodukter i de underkategoriene som er angitt under pkt. 1.1. Aerosoler omfattes ikke. Underkategoriene gjelder belegg som med dekorative, funksjonelle og beskyttende formål brukes til bygninger, disses utsmykning og beslag, samt dertil knyttede strukturer.
+
+1.1.
 
 Underkategorier*Matt innendørs vegg- og takmaling:* maling med glansverdi < 25 60° beregnet til bruk på vegger og tak innendørs.*Blank innendørs vegg- og takmaling:* maling med glansverdi >25 60° beregnet til bruk på vegger og tak innendørs.*Utendørs maling for mineralske flater:* maling beregnet til bruk på yttervegger av mur, murstein eller puss.*Maling for treverk, metall og plast innendørs/utendørs:* maling beregnet til utsmykking og kledning, og som danner en dekkende film. Disse malingene er beregnet for enten tre-, metall- eller plastunderlag. Denne underkategorien omfatter også grunninger uten spesielle egenskaper og mellomstrøksmalinger.*Lakk, lasur og beis for innendørs/utendørs behandling av tre, metall og plast:* transparente eller halvtransparente malinger beregnet til dekorasjon og beskyttelse av tre, metall og plast. Denne underkategori omfatter også dekkbeis. Med dekkbeis menes beis som gir en dekkende film for dekorasjon og beskyttelse av tre mot værpåvirkning jf. definisjonen i EN 927-1 i kategorien halvstabil.*Tynnsjiktet lasur, olje eller beis:* produkter til tre som har en gjennomsnittlig filmtykkelse på under 5μm, når de testes etter ISO 2808: 1997, metode 5A jf. EN 927-1:1996.*Grunning:* grunning med forseglings- og/eller isoleringsegenskaper beregnet til bruk som grunnlag på tre, vegger og tak.*Heftgrunning:* produkt beregnet til å stabilisere løse underlag eller å gi vannavvisende egenskaper og/eller beskytte treverk mot blåved (soppangrep).*Enkomponent spesialmaling:* overflatebehandlingsprodukter basert på filmdannende materiale. De er beregnet til bruksområder som krever spesielle egenskaper, som f.eks. grunning og topplag til plast, grunning til jernunderlag, grunning til reaktive metaller som f.eks. sink og aluminium, korrosjonshindrende topplag, overflatebehandlingsprodukter til gulv, herunder tre- og sementgulv, produkter med graffitiavvisende og brannhemmende egenskaper, og produkter som skal overholde helsekrav i næringsmiddelindustrien eller i helsesektoren.*Tokomponent spesialmaling:* overflatebehandlingsprodukter med samme bruksområde som enkomponents spesialmaling, men hvor det tilsettes ennå en komponent (f.eks. tertiære aminer) før påføring.*Flerfargede malinger:* malinger beregnet å gi tofarget eller flerfarget effekt direkte ved første påføring.*Effektmaling:* maling beregnet å gi spesielle estetiske effekter på spesielt forberedte og allerede malte eller grunnede underlag, og som deretter behandles med forskjellig verktøy under tørkingen.
 
+2\.
+
 [§ 2-24](forskrift/2004-06-01-922/§2-24) til [§ 2-26](forskrift/2004-06-01-922/§2-26) omfatter lakkeringsprodukter for reparasjon av kjøretøy i de underkategoriene som framgår av pkt. 2.1. Produktene benyttes til overflatebehandling som utføres som del av reparasjonsarbeid, vedlikehold eller dekorering av motorkjøretøy eller til deler av motorkjøretøy utenfor bilfabrikkene jf. kjøretøyforskriften jf. direktiv [70/156/EØF](eu/31970l0156*).
+
+2.1.*Underkategorier*
 
 1. *Forbehandlings- og rengjøringsprodukter:* produkter beregnet på fjerning av gamle lakklag og rust, mekanisk eller kjemisk eller for å gi feste for ny lakkoppbygging.*forbehandlingsprodukter:* vasketynnere (et produkt beregnet for rengjøring av sprøytepistol og annet utstyr), maling-/lakkfjerner, avfettingsmiddel (herunder antistatprodukter for plast) og silikonfjernere.*rengjøringsprodukter:* produkter for rengjøring av overflateforurensning ved klargjøring til og før påføring av dekklag.
 2. *Sparkelmasse:* fyldige materialer beregnet for å påføres for å utfylle dype overflateskader før påføring av grunning.
@@ -465,18 +639,75 @@ Underkategorier*Matt innendørs vegg- og takmaling:* maling med glansverdi < 25 
 4. *Topplakk:* pigmentert lakk beregnet for påføring enten i ett enkelt lag eller i flere lag, for å gi glans og holdbarhet. Det omfatter alle anvendte produkter som f.eks. baselakk og klarlakk.*baselakk:* pigmentert lakkprodukt beregnet på å gi farge og optiske virkninger, men ikke glans eller overflatebestandighet.*klarlakk:* transparent lakkprodukt beregnet på å sikre lakkoppbyggingen den endelige glans og bestandighet.
 5. *Spesiallakker:* topplakkprodukter med spesielle egenskaper, som f.eks. metallik- eller perlemorseffekt i et enkelt lag, dekkende og klare lakker (f.eks. ripefast og fluorholdig klarlakk), reflekterende baselakk, strukturlakk (f.eks. hammerlakk), sklisikker lakk, understellmasse, steinslagsbeskyttende lakk, interiørlakk og aerosoler.
 
-Tillatt analysemetode når VOC-innholdet er under 15 vektprosent og reaktive fortynnere ikke er til stede*Prøving**Parameter**Måleenhet**Metode**Tidspunkt offentliggjort*VOC-innholdg/lISO 11890-22006
+**Avsnitt 2: Grenseverdier for maksimalt VOC-innhold**
 
-Tillatt analysemetode når VOC-innholdet er 15 vektprosent eller mer, og reaktive fortynnere ikke er til stede*Prøving**Parameter**Måleenhet**Metode**Tidspunkt offentliggjort*VOC-innholdg/lISO 11890-12007VOC-innholdg/lISO 11890-22006
+*Tabell A: maksimalt VOC-innhold i bygningsmaling og -lakk*
 
-Tillatt analysemetode for VOC-innhold når reaktive fortynnere er til stede*Prøving**Parameter**Måleenhet**Metode**Tidspunkt offentliggjort*VOC-innholdg/lASTMD 23692003
+|  | *Underkategori av produkter* | *Type\*\** | *Fase I VOC g/l\* fra 1.1.2007* | *Fase II VOC g/l\* fra 1.1.2010* |
+| --- | --- | --- | --- | --- |
+| a | Matt vegg- og takmaling (glansnivå < 25 60°) | VF<br>LB | 75<br>400 | 30<br>30 |
+| b | Blank vegg- og takmaling (glansnivå >25 60°) | VF<br>LB | 150<br>400 | 100<br>100 |
+| c | Utendørs maling for mineralske flater | VF<br>LB | 75<br>450 | 40<br>430 |
+| d | Maling for treverk, metall eller plast innendørs/utendørs | VF<br>LB | 150<br>400 | 130<br>300 |
+| e | Lakk, lasur og beis for innendørs/utendørs behandling av tre, metall og plast | VF<br>LB | 150<br>500 | 130<br>400 |
+| f | Tynnsjiktet lasur, olje eller beis | VF<br>LB | 150<br>700 | 130<br>700 |
+| g | Grunning | VF<br>LB | 50<br>450 | 30<br>350 |
+| h | Heftgrunning | VF<br>LB | 50<br>750 | 30<br>750 |
+| i | Enkomponent spesialmaling | VF<br>LB | 140<br>600 | 140<br>500 |
+| j | Tokomponent spesialmaling | VF<br>LB | 140<br>550 | 140<br>500 |
+| k | Flerfargede malinger | VF<br>LB | 150<br>400 | 100<br>100 |
+| l | Effektmaling | VF<br>LB | 300<br>500 | 200<br>200 |
+
+\* g/l bruksklart produkt. For maling- og lakkeringsprodukter som skal ha tilsatt løsemidler eller løsemiddelholdige komponenter for å bli bruksklare, gjelder grenseverdiene for produktet i bruksklar tilstand.
+
+\*\* (VF) = vannfortynnbar maling, dvs. maling/middel hvor viskositeten er regulert med vann. (LB) = løsemiddelbasert maling, dvs. maling/middel hvor viskositeten er regulert med organiske løsemidler
+
+*Tabell B: maksimalt VOC-innhold i lakkeringsprodukter reparasjon av kjøretøy*
+
+|  | *Produktkategori* | *Overflatebehandlingsmiddel* | *VOC g/l\* fra 1.1.2007* |
+| --- | --- | --- | --- |
+| a | Produkter til forbehandling og rensing | Forbehandlingsprodukt<br>Rengjøringsprodukter | 850<br>200 |
+| b | Sparkelmasse | Alle typer | 250 |
+| c | Grunningsprodukter | Fyller og generell metallgrunning<br>Etsgrunning, wash-primer | 540<br>780 |
+| d | Topplakk | Alle typer | 420 |
+| e | Spesiallakk | Alle typer | 840 |
+
+\* bruksklart produkt. Med unntak for kategori a skal det ses bort fra eventuelt vanninnhold i det bruksklare produktet. For maling- og lakkeringsprodukter som skal ha tilsatt løsemidler eller løsemiddelholdige komponenter for å bli bruksklare, gjelder grenseverdiene for produktet i bruksklar tilstand.
+
+*Avsnitt 3: Analysemetoder*
+
+Tillatt analysemetode når VOC-innholdet er under 15 vektprosent og reaktive fortynnere ikke er til stede
+
+|  |  | *Prøving* |  |
+| --- | --- | --- | --- |
+| *Parameter* | *Måleenhet* | *Metode* | *Tidspunkt offentliggjort* |
+| VOC-innhold | g/l | ISO 11890-2 | 2006 |
+
+Tillatt analysemetode når VOC-innholdet er 15 vektprosent eller mer, og reaktive fortynnere ikke er til stede
+
+|  |  | *Prøving* |  |
+| --- | --- | --- | --- |
+| *Parameter* | *Måleenhet* | *Metode* | *Tidspunkt offentliggjort* |
+| VOC-innhold | g/l | ISO 11890-1 | 2007 |
+| VOC-innhold | g/l | ISO 11890-2 | 2006 |
+
+Tillatt analysemetode for VOC-innhold når reaktive fortynnere er til stede
+
+|  |  | *Prøving* |  |
+| --- | --- | --- | --- |
+| *Parameter* | *Måleenhet* | *Metode* | *Tidspunkt offentliggjort* |
+| VOC-innhold | g/l | ASTMD 2369 | 2003 |
 
 > Tilføyd ved [forskrift 26 okt 2005 nr. 1272](forskrift/2005-10-26-1272), endret ved [forskrifter 6 mars 2006 nr. 295](forskrift/2006-03-06-295) (tidligere vedlegg VI), [17 nov 2011 nr. 1113](forskrift/2011-11-17-1113) (tidligere Vedlegg VII til kapittel 3), [9 juli 2012 nr. 755](forskrift/2012-07-09-755).
 
 ### Vedlegg VIII. Vedlegg til § 2-33 om N-nitrosaminer og N-nitrosamindannende stoffer i narresmokker
 
+**I. Grunnregler for å bestemme utlekking av N-nitrosaminer og av N-nitrosamindannende stoffer**
+
 1. *Væske brukt i utlekkingstester (spyttestløsning)*Væsken som skal brukes i utlekkingstesten, fremstilles ved å løse opp 4,2 g natriumbikarbonat (NaHCO3), 0,5 g natriumklorid (NaCl), 0,2 g kaliumkarbonat (K2CO3) og 30 mg natriumnitritt (NaNO2) i 1 liter destillert vann eller vann av tilsvarende kvalitet. Løsningens pH-verdi skal være lik 9.
 2. *Prøvevilkår*Materialprøver fra et passende antall narresmokker senkes ned i spyttestløsningen i 24 timer ved en temperatur på 40° C (+/– 2° C).
+
+**II. Kriterier for metoden for å bestemme utlekking av N-nitrosaminer og N-nitrosamindannende stoffer**
 
 1. Utlekking av N-nitrosaminer bestemmes i en delmengde av hver løsning fremstilt i samsvar med grunnreglene i dette vedlegget punkt I. N-nitrosaminene ekstraheres med diklorometan (DCM) uten frie nitrosaminer og bestemmes ved gasskromatografi. Utlekking av N-nitrosamindannende stoffer bestemmes i en annen delmengde av hver løsning fremstilt i samsvar med grunnreglene i dette vedlegget punkt I. De N-nitrosamindannende stoffene omdannes til nitrosaminer ved syrning av delmengden med saltsyre. Deretter ekstraheres nitrosaminene fra løsningen med DCM og bestemmes ved gasskromatografi.
 
@@ -675,13 +906,205 @@ Miljødirektoratet kan ved overtredelse av bestemmelser i dette kapitlet ilegge 
 ### Vedlegg 1
 Bruksområder som er unntatt fra forbudet i § 2a-3
 
+| Unntak |  | Unntaket gjelder i perioden: |
+| --- | --- | --- |
+| 1 | *Kvikksølv i (kompakte) lysrør med én sokkel, høyst (per brenner):* |  |
+| 1(a) | For generelle belysningsformål < 30 W: 2,5 mg | Utløper 24. februar 2023 |
+| 1(b) | For generelle belysningsformål ≥ 30 W og < 50 W: 3,5 mg | Utløper 24. februar 2023 |
+| 1(c) | For generelle belysningsformål ≥ 50 W and < 150 W: 5 mg | Utløper 24. februar 2023 |
+| 1(d) | For generelle belysningsformål ≥ 150 W: 15 mg | Utløper 24. februar 2023 |
+| 1(e) | For generelle belysningsformål med rund eller kvadratisk utforming og rørdiameter ≤ 17 mm: 7 mg | Utløper 24. februar 2023 |
+| 1(f)-I | For lamper utformet for å sende ut lys hovedsakelig i det ultrafiolette spekteret: 5 mg | Utløper 24. februar 2027 |
+| 1 (f)-II | For spesielle formål: 5 mg | Utløper 24. februar 2025 |
+| 1(g) | For generelle belysningsformål < 30 W med en levetid på minst 20 000 timer: 3,5 mg | Utløper 24. august 2023 |
+| 2(a) | *Kvikksølv i rette lysrør med to sokler for generelle belysningsformål, høyst (per lampe):* |  |
+| 2(a)(1) | Trifosforlysrør med normal levetid og rørdiameter < 9 mm (f.eks. T2): 4 mg | Utløper 24. februar 2023 |
+| 2(a)(2) | Trifosforlysrør med normal levetid og rørdiameter ≥ 9 mm og ≤ 17 mm (f.eks. T5): 3 mg | Utløper 24. august 2023 |
+| 2(a)(3) | Trifosforlysrør med normal levetid og rørdiameter > 17 mm og ≤ 28 mm (f.eks. T8): 3,5 mg | Utløper 24. august 2023 |
+| 2(a)(4) | Trifosforlysrør med normal levetid og rørdiameter < 28 mm (f.eks. T12): 3,5 mg | Utløper 24. februar 2023 |
+| 2(a)(5) | Trifosforlysrør med lang levetid (≥ 25 000 h): 5 mg. | Utløper 24. februar 2023 |
+| 2(b) | *Kvikksølv i andre lysrør, høyst (per lampe):* |  |
+| 2(b)(1) | Lineære halofosfatlamper med rør > 28 mm (f.eks. T10 og T12): 10 mg | Utløp 13. april 2012 |
+| 2(b)(2) | Ikke-lineære halofosfatlamper (alle diametre): 15 mg | Utløp 13. april 2016 |
+| 2(b)(3) | Ikke-lineære trifosforlysrør med rørdiameter > 17 mm (f.eks. T9): 15 mg | Utløper 24. februar 2023; 10 mg kan brukes per lampe fra 25. februar 2023 til 24. februar 2025 |
+| 2(b)(4)-I | Lamper for andre generelle belysningsformål og for spesielle formål (f.eks. induksjonslamper): 15 mg | Utløper 24. februar 2025 |
+| 2(b)(4)-II | Lamper som hovedsakelig sender ut lys i det ultrafiolette spekteret: 15 mg | Utløper 24. februar 2027 |
+| 2(b)(4)-III | Lamper for nødbelysning: 15 mg | Utløper 24. februar 2027 |
+| 3 | *Kvikksølv i kalde katodelysrør og lysrør med eksterne elektroder (CCFL og EEFL) for spesielle formål, brukt i elektrisk og elektronisk utstyr brakt i omsetning før 24. februar 2022, høyst (per lampe):* |  |
+| 3(a) | Korte (≤ 500 mm): 3,5 mg | Utløper 24. februar 2025 |
+| 3(b) | Middels lange (> 500 mm og ≤ 1500 mm): 5 mg | Utløper 24. februar 2025 |
+| 3(c) | Lange (> 1500 mm): 13 mg | Utløper 24. februar 2025 |
+| 4(a) | Kvikksølv i andre lavtrykksutladningslamper (per lampe): 15 mg | Utløper 24. februar 2023 |
+| 4(a)-I | Kvikksølv i lavtrykksutladningslamper som ikke er fosforbelagt, for bruksområder som krever at hovedområdet for lampens spektraleffekt skal være i det ultrafiolette spekteret: opptil 15 mg kvikksølv kan brukes per lampe | Utløper 24. februar 2027 |
+| 4(b) | Kvikksølv i høytrykksnatriumlamper (damplamper) for generelle belysningsformål, som i lamper med forbedret fargegjengivelsesindeks Ra > 80, ikke overstiger (per brenner): P ≤ 105 W: 16 mg kan brukes per brenner | Utløper 24. februar 2027 |
+| 4(b)-I | Kvikksølv i høytrykksnatriumlamper (damplamper) for generelle belysningsformål, som i lamper med forbedret fargegjengivelsesindeks Ra > 60, ikke overstiger (per brenner): P ≤ 155 W: 30 mg kan brukes per brenner | Utløper 24. februar 2023 |
+| 4(b)-II | Kvikksølv i høytrykksnatriumlamper (damplamper) for generelle belysningsformål, som i lamper med forbedret fargegjengivelsesindeks Ra > 60, ikke overstiger (per brenner): 155 W < P ≤ 405 W: 40 mg kan brukes per brenner | Utløper 24. februar 2023 |
+| 4(b)-III | Kvikksølv i høytrykksnatriumlamper (damplamper) for generelle belysningsformål, som i lamper med forbedret fargegjengivelsesindeks Ra > 60, ikke overstiger (per brenner): P > 405 W: 40 mg kan brukes per brenner | Utløper 24. februar 2023 |
+| 4(c) | *Kvikksølv i andre høytrykksnatriumlamper (damplamper) for generelle belysningsformål, høyst (per brenner):* |  |
+| 4(c)-I | P ≤ 155 W: 20 mg | Utløper 24. februar 2027 |
+| 4(c)-II | 155 W < P ≤ 405 W: 25 mg | Utløper 24. februar 2027 |
+| 4(c)-III | P > 405 W: 25 mg | Utløper 24. februar 2027 |
+| 4(d) | Kvikksølv i høytrykkskvikksølvlamper (HPMV) (damplamper) |  |
+| 4(e) | Kvikksølv i metallhalogenlamper (MH) | Utløper 24. februar 2027 |
+| 4(f)-I | Kvikksølv i andre utladningslamper for spesielle formål, som ikke er særskilt nevnt i dette vedlegg | Utløper 24. februar 2025 |
+| 4(f)-II | Kvikksølv i høytrykkskvikksølvlamper (damp) som brukes i projektorer der det kreves en effekt på ≥ 2000 lumen ANSI | Utløper 24. februar 2027 |
+| 4(f)-III | Kvikksølv i høytrykksnatriumlamper (damp) til belysning i hagebruk | Utløper 24. februar 2027 |
+| 4(f)-IV | Kvikksølv i lamper som sender ut lys i det ultrafiolette spekteret | Utløper 24. februar 2027 |
+| 4(g) | Kvikksølv i håndlagede gassutladningslamper (HLDT) til bruk i skilt, dekorativ eller arkitektonisk belysning samt spesialbelysning og lyskunst | Utløp 31. desember 2018 |
+| 5(a) | Bly i glass i katodestrålerør | Fram til:<br>Kategori 1–7 og 10: utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 5(b) | Bly i glass i lysrør, høyst 0,2 vektprosent | i |
+| 6(a) | Bly som legeringselement i stål for maskineringsformål og i galvanisert stål som inneholder opptil 0,35 vektprosent bly | Utløper 11. desember 2026 |
+| 6(a)-I | Bly som legeringselement i stål for maskineringsformål som inneholder opptil 0,35 vektprosent blyii | Utløper 30. juni 2027 for alle kategorier |
+| 6(a)-II | Bly som legeringselement i satsvis varmgalvaniserte stålkomponenter som inneholder opptil 0,2 vektprosent blyii | Utløper 30. juni 2027 for alle kategorier |
+| 6(b) | Bly som legeringselement i aluminium som inneholder opptil 0,4 vektprosent bly | Utløper 11. juni 2027 |
+| 6(b)-I | Bly som legeringselement i aluminium som inneholder opptil 0,4 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrapii | Fram til:<br>Kategori 1–7 og 10: 11. desember 2026.<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
+| 6(b)-II | Bly som legeringselement i aluminium for maskineringsformål med et blyinnhold på opptil 0,4 vektprosentii | Fram til:<br>Kategori 1–7 og 10: 11. juni 2027<br>Kategori 9 industrielle overvåkings- og kontrollinstrumenter, og 11: 30. juni 2027 |
+| 6(b)-III | Bly som legeringselement i støpegods av aluminiumslegeringer som inneholder opptil 0,3 vektprosent bly, forutsatt at det stammer fra gjenvinning av blyholdig aluminiumskrapii | Frem til:<br>Kategori 1–8, 9 unntatt industrielle overvåkings- og kontrollinstrumenter, og 10: 30. juni 2027 |
+| 6(c) | Kobberlegeringer som inneholder opptil 4 vektprosent blyii | Utløper 30. juni 2027 |
+| 7(a) | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) | Gjelder alle produktkategorier (unntatt bruksområder som dekkes av punkt 24 i dette vedlegget) og utløper 30. juni 2027 |
+| 7(a)-I | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for innvendige sammenkoplinger for å feste brikker eller andre komponenter sammen med en brikke i halvledersammenstillinger med stasjonære eller variable/impulsstrømmer på 0,1 A eller mer eller blokkeringsspenninger over 10 V, eller brikker med kantstørrelser større enn 0,3 mm × 0,3 mm | Gjelder alle produktkategorier (unntatt bruksområder som dekkes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-II | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for integrerte (dvs. interne og eksterne) tilkoplinger for å feste brikker i elektriske og elektroniske komponenter, dersom alle følgende vilkår er oppfylt:<br><br>- varmeledningsevnen til det herdede/sintrede loddematerialet er > 35 W/(m × K),<br>- den elektriske ledningsevnen til det herdede/sintrede loddematerialet er > 4,7 MS/m,<br>- solidus-smeltetemperaturen er høyere enn 260 °C | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-III | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) i loddepunkter på første nivå (interne eller integrerte tilkoplinger – dvs. interne og eksterne) for produksjon av komponenter, slik at påfølgende montering av elektroniske komponenter på sokler (dvs. moduler, underkretskort, underlag eller punkt-til-punkt-lodding) med et sekundært loddemateriale ikke blandes med loddematerialet på første nivå. Denne underposten omfatter ikke påføring av brikkesokkel og hermetiske forseglinger | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-IV | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) i loddepunkter på andre nivå for festing av komponenter til kretskort eller blyrammer:<br>1. i loddekuler for festing av loddekulerutenett (BGA)<br>2. i plastoverstøpninger med høy temperatur (> 220 °C) | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-V | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) som et hermetisk tetningsmateriale mellom:<br>1. en keramisk kapsel eller plugg og et metallhus<br>2. elektrisk innfesting og en intern delkomponent | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-VI | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for å etablere elektriske tilkoplinger mellom komponenter i varmerør for infrarød oppvarming, høyintensive utladningslamper (damplamper) eller stekeovnslamper | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(a)-VII | Bly i loddematerialer med høy smeltetemperatur (dvs. blylegeringer som inneholder 85 vektprosent bly eller mer) for lydtransdusere der høyeste driftstemperatur overstiger 200 °C | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 24 i dette vedlegget) og utløper 31. desember 2027 |
+| 7(b) | Bly i loddemateriale for servere, lagringssystemer og arraylagringssystemer, nettinfrastruktursystemer for kobling, signalering, overføring og nettverksdrift for telekommunikasjon | Fram til:<br>Kategori 1–7 og 10: utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 7(c)-I | Elektriske og elektroniske komponenter som inneholder bly i glass eller keramikk, unntatt dielektrisk keramikk i kondensatorer, f.eks. piezoelektronisk utstyr, eller i glass- eller keramikkmatrisemateriale | Gjelder alle produktkategorier og utløper 31. juni 2027 |
+| 7(c)-II | Bly i dielektrisk keramikk i kondensatorer for en merkespenning på 125 V vekselstrøm eller 250 V likestrøm eller høyere | Gjelder alle kategorier (med unntak av bruksområder som omfattes av 7(c)-I eller 7(c)-IV) og utløper 31. desember 2027 |
+| 7(c)-III | Bly i dielektrisk keramikk i kondensatorer for en merkespenning på mindre enn 125 V vekselstrøm eller 250 V likestrøm | Utløp 21. juli 2013<br>Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 7(c)-IV | Bly i PZT-baserte dielektriske keramiske materialer til kondensatorer som inngår i integrerte kretsløp eller diskrete halvledere | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 7(c)-V | Elektriske og elektroniske komponenter som inneholder bly i glass- eller glassmatrisemateriale, og som oppfyller en av følgende funksjoner:<br>- for beskyttelse og elektrisk isolasjon i glassperler av høyspenningsdioder og glasslag for waferskiver<br>- for hermetisk forsegling mellom keramikk-, metall- og/eller glassdeler<br>- for bindingsformål i et prosessparametervindu ved < 500 °C kombinert med en viskositet på 1 013,3 dPas («glassovergangstemperatur»)<br>- for bruk som et resistivt materiale som blekk, med et resistivitetsområde fra 1 ohm/kvadrat til 100 megohm/kvadrat, unntatt trimmerpotensiometre<br>- for bruk i kjemisk modifiserte glassoverflater for mikrokanalplater (MCP), kanalelektronmultiplikatorer (CEM) og resistive glassprodukter (RGP) | Gjelder alle kategorier og<br>utløper 31. desember 2027 |
+| 7(c)-VI | Elektriske og elektroniske komponenter som inneholder bly i et keramisk materiale, og som oppfyller en av følgende funksjoner:<br>- for bruk i piezoelektrisk blyzirkoniumtitanat (PZT)-keramikk<br>- for framstilling av keramikk med en positiv temperaturkoeffisient (PTC) | Gjelder alle kategorier (med unntak av bruksområder som omfattes av punkt 7(c)-II, 7(c)-III og 7(c)-IV i dette vedlegget samt punkt 14 i vedlegg 2) og utløper 31. desember 2027 |
+| 8(a) | Kadmium og dets forbindelser i termiske engangssikringer av pellettypen (smeltesikringer) | Utløp 21. juli 2012<br>Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 8(b) | Kadmium og kadmiumforbindelser i elektriske kontakter | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 8(b).1 | Kadmium og kadmiumforbindelser i elektriske kontakter til bruk i<br>– sikringer,<br>– temperaturfølere,<br>– termiske motorbeskyttere (unntatt hermetiske termiske motorbeskyttere),<br>– sporveksler for vekselstrøm med nominell verdi på<br>   – 6 A og mer ved 250 V vekselstrøm eller mer, eller<br>   – 12A og mer ved 125 V vekselstrøm eller mer,<br>– sporveksler for likestrøm med nominell verdi på 20 A og mer ved 18 V likestrøm eller mer, og<br>– strømbrytere til bruk ved forsyningsspenning med frekvens ≥200 Hz. | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 9 | Seksverdig krom som antikorrosjonsmiddel i karbonstålkjølesystemet i absorpsjonskjøleskap, høyst 0,75 vektprosent i kjølemiddelet | Fra 1. april 2021 og fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 9(a)-(I) | Opptil 0,75 vektprosent seksverdig krom brukt som antikorrosjonsmiddel i kjølemiddelet for karbonstålkjølesystemet i absorpsjonskjøleskap (herunder minibarer) konstruert for helt eller delvis å fungere med et elektrisk varmeanlegg med gjennomsnittlig utnyttet inngangseffekt <75 W ved konstante driftsforhold | Fram til:<br>Kategori 1–7 og 10: 5. mars 2021 |
+| 9(a)-(II) | Opptil 0,75 vektprosent seksverdig krom brukt som antikorrosjonsmiddel i kjølemiddelet for karbonstålkjølesystemet i absorpsjonskjøleskap<br>– konstruert for helt eller delvis å fungere med et elektrisk varmeanlegg med en gjennomsnittlig utnyttet inngangseffekt ≥75 W ved konstante driftsforhold,<br>– konstruert for helt å fungere med et ikke-elektrisk varmeanlegg. | Fra 1. april 2021 fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 9(a)-(III) | Opptil 0,7 vektprosent seksverdig krom brukt som antikorrosjonsmiddel i arbeidsvæsken i lukkede kretsløp av karbonstål i gassabsorpsjonsdrevne varmepumper for rom- og vannoppvarming. | Fram til:<br>Kategori 1: 31. desember 2026 |
+| 9(b) | Bly i lagerskåler og bøssinger for kjølemiddelkompressorer for oppvarmings-, ventilasjon-, luftkondisjonerings- og kjøleanvendelser (HVACR) | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 9(b)-(I) | Bly i lagerskåler og bøssinger for kjølemiddelkompressorer med en opplyst Inngangseffekt på 9 kW eller mindre for oppvarmings-, ventilasjon-, luftkondisjonerings- og kjøleanvendelser (HVACR) | Kategori 1: Utløp21. juli 2019 |
+| 11(a) | Bly brukt i «C-press»-koplingssystemer med bøyelige kontaktpinner | Utløp 24. september 2010. Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 11(b) | Bly brukt i andre koplingssystemer enn «C-press»-koplingssystemer med bøyelige kontaktpinner | Utløp 1. januar 2013. Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 12 | Bly som beleggmateriale for C-ring i varmeledende modul | Utløp 24. september 2010. Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 13(a) | Bly i hvitt glass brukt til optiske anvendelser | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 13(b) | Kadmium og bly i filterglass og glass som brukes til reflektansstandarder | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 13(b)-(I) | Bly i optiske filterglasstyper som er farget med ioner | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 13(b)-(II) | Kadmium i fargeskiftende optiske filterglassystemer, unntatt anvendelser som kommer inn under unntak 39 | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 13(b)-(III) | Kadmium og bly i glass til bruk som refleksstandarder | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 14 | Bly i loddemateriale som inneholder mer enn to elementer for forbindelsen mellom pinnene og mikroprosessorpakken, med et blyinnhold på mer enn 80 vektprosent og mindre enn 85 vektprosent | Utløp 1. januar 2011. Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 15 | Bly i loddemateriale til bruk for stabil elektrisk forbindelse mellom halvlederskive og kapsling i Flip Chip-pakker med integrerte kretser | Fram til:<br>Kategori 1–7 og 10: Utløp 29. februar 2020<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 15.a | Bly i loddemateriale til bruk for stabil elektrisk forbindelse mellom halvlederskive og kapsling i Flip Chip-pakker med integrerte kretser, der minst ett av følgende kriterier gjelder:<br>– En halvlederteknologinode på 90 nm eller mer.<br>– En enkelt skive på 300 mm2 eller mer i enhver halvlederteknologinode.<br>– Stacked Die-pakker med skivestørrelse på 300 mm2<br>eller mer, eller silisiummellomlegg på 300 mm2 eller mer. | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 16 | Bly i rette glødelamper med silikatbelagte rør | Utløp 1. september 2013 |
+| 17 | Blyhalogenid som strålekilde i høyintensive utladningslamper (HID) i reprografianvendelser for yrkesmessig bruk | Utløp 21. juli 2016 |
+| 18(a) | Bly som aktivator i lyspulveret (én vektprosent bly eller mindre) i utladningslamper som brukes som spesiallamper for reprografi, litografi, insektfeller, fotokjemiske prosesser og herdingsprosesser, og som inneholder lysstoff, som f.eks. SMS ((Sr,Ba) 2 MgSi2 O7 :Pb) | Utløp 1. januar 2011 |
+| 18(b) | Bly som aktivator i det fluorescerende lyspulveret (én vektprosent bly eller mindre) i utladningslamper som brukes som bruningslamper, og som inneholder lysstoff, som f.eks. BSP (BaSi2 O5:Pb) | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 18(b)-(I) | Bly som aktivator i det fluorescerende lyspulveret (én vektprosent bly eller mindre) i utladningslamper som brukes som bruningslamper, og som inneholder lysstoff, som f.eks. BSP (BaSi2 O5:Pb) som brukes i medisinsk fototerapiutstyr | Fram til:<br>Kategori 5 og 8, unntatt bruk som er omfattet av punkt 34 i vedlegg 2: 21. juli 2021 |
+| 19 | Bly med PbBiSn-Hg og PbInSn-Hg i særskilte forbindelser som hovedlegering og med PbSn-Hg som tilleggslegering i svært kompakte energisparelamper (ESL) | Utløp 1. juni 2011 |
+| 20 | Blyoksid i glassloddemateriale som brukes til å feste fremre og bakre underlag av flate lysrør brukt i flytende krystall-skjermer (LCD-er) | Utløp 1. juni 2011 |
+| 21 | Bly og kadmium i trykkfarge for påføring av emalje på glass, som f.eks. borsilikat- og natronkalkglass | Fram til:<br>Kategori 1–7 og 10: Utløp 29. februar 2020<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 21(a) | Kadmium til bruk i glass med fargetrykk for å gi filtreringsfunksjoner, brukt som bestanddel i belysning installert i skjermer og kontrollpaneler i elektrisk og elektronisk utstyr | Fram til:<br>Kategori 1–7 og 10 unntatt bruk som er omfattet av punkt 21(b) eller 39 i dette vedlegget: 21. juli 2021 |
+| 21(b) | Kadmium i trykkfarger til påføring av emalje på glass, som f.eks. borsilikat- og natronkalkglass | Fram til:<br>Kategori 1–7 og 10 unntatt bruk som er omfattet av punkt 21(a) eller 39 i dette vedlegget: 21. juli 2021 |
+| 21(c) | Bly i trykkfarger til påføring av emalje på glass enn borsilikatglass | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021 |
+| 23 | Bly i overflatebelegg på «fine pitch»-bestanddeler, unntatt stikkontakter med en høyde på 0,65 mm og mindre | Utløp 24. september 2010. Tillatt brukt i reservedeler til produkter som ble satt på markedet før denne dato |
+| 24 | Bly i loddematerialer for lodding av skiveformede og flate keramiske flerlagskondensatorer med maskinerte, gjennomgående hull | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2014<br>Kategori 11: 21. juli 2024 |
+| 25 | Blyoksid i strukturelementer i elektronstråleskjermer (SED) med overflateledning, særlig i tetningsfritten og fritteringen | Fram til:<br>Kategori 1–7 og 10: Utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 26 | Blyoksid i glassmantelen til lamper av typen «black light blue» (BLB) | Utløp 1. juni 2011 |
+| 27 | Blylegeringer som loddemateriale for omformere brukt i høyeffekthøyttalere (beregnet for bruk i flere timer ved akustiske effektnivåer på 125 dB SPL og mer) | Utløp 24. september 2010 |
+| 29 | Bly bundet i krystallglass som definert i vedlegg I (kategori 1, 2, 3 og 4) i rådsdirektiv [69/493/EØF](eu/31969l0493*) | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2014<br>Kategori 11: 21. juli 2024 |
+| 30 | Kadmiumlegeringer som elektromekanisk loddemetall for elektriske ledere plassert direkte på svingespolen i omformere brukt som høyeffekthøyttalere med lydtrykknivåer på 100 dB (A) og mer | Fram til:<br>Kategori 1–7 og 10: Utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 31 | Bly i loddemateriale i kvikksølvfrie flate lysrør (som f.eks. brukes i flytende krystallskjermer, design- eller industribelysning) | Fram til:<br>Kategori 1–7 og 10: Utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 32 | Blyoksid i tetningsfritte for montering av vinduer for argon- og kryptonlaserrør | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2014<br>Kategori 11: 21. juli 2024 |
+| 33 | Bly i loddemateriale for lodding av tynne koppertråder med en diameter på 100 μm og mindre i nettransformatorer | Fram til:<br>Kategori 1–7 og 10: Utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 34 | Bly i metallkeramikkbaserte trimpotensiometere | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2014<br>Kategori 11: 21. juli 2024 |
+| 36 | Kvikksølv som middel for å hindre katodesprut i likestrømsplasmaskjermer med et innhold på inntil 30 mg per skjerm | Utløp 1. juli 2010 |
+| 37 | Bly i pletteringslaget på høyspenningsdioder med en kropp av sinkboratglass | Fram til:<br>Kategori 1–7 og 10: 21. juli 2021<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2014<br>Kategori 11: 21. juli 2024 |
+| 38 | Kadmium og kadmiumoksid i tykkfilmpasta brukt på aluminiumsbundet berylliumoksid | Fram til:<br>Kategori 1–7 og 10: Utløp 21. juli 2016<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024<br>Kategori 11: 21. juli 2024 |
+| 39(a) | Kadmiumselenid i kadmiumbaserte nanokrystall-kvanteprikker av halvledermateriale til frekvenstransformasjon (downshifting) av skjermbelysning (< 0,2 µg Cd pr mm2 visningsareal) | Fram til:<br>Alle kategorier: 21. november 2025 |
+| 39(b) | Kadmium i nanokrystall-kvanteprikker av halvledermateriale til frekvenstransformasjon (downshifting) direkte avsatt på LED-halvlederbrikker for bruk i skjerm- og projeksjonssystemer (< 5 µg Cd pr mm2 LED-brikkeoverflate) med en maksimal mengde per enhet på 1 mg | Fram til:<br>Alle kategorier: 31. desember 2027 |
+| 40 | Kadmium i fotoresistorer til analoge oppkoblere til bruk i profesjonelt lydutstyr | Utløp 31. desember 2013 |
+| 41 | Bly i loddemateriale og overflatebehandling på termineringer på elektriske og elektroniske komponenter og overflatebehandling på kretskort som brukes i tenningsmoduler og andre elektriske og elektroniske motorstyringssystemer, som av tekniske årsaker må monteres direkte på eller i veivhuset eller sylinderen på håndholdte forbrenningsmotorer | Fra 1. april 2021 fram til:<br>Kategori 1–7, 10 og 11: 31. mars 2022<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 42 | Bly i lagre og bøssinger i forbrenningsmotorer som er drevet av diesel eller gassformig drivstoff som brukes i utstyr til yrkesmessig bruk utenfor veinettet<br>– med samlet slagvolum ≥15 liter, eller<br>– med et totalt slagvolum på <15 liter og motoren er konstruert for å fungere i bruk hvor tidsrommet mellom startsignal og full belastning må være mindre enn 10 sekunder, eller der regelmessig vedlikehold vanligvis utføres i et utfordrende og skittent utendørsmiljø, for eksempel bergverksdrift, bygg og anlegg og landbruk. | Fram til:<br>Kategori 11, unntatt bruk som er omfattet av punkt 6(c) i dette vedlegget: 21. juli 2024. |
+| 43 | Bis (2-etylheksyl)ftalat i gummikomponenter i motorsystemer, utformet for å inngå i utstyr som ikke utelukkende er ment til å brukes av forbrukere, forutsatt at ingen mykgjorte materialer kommer i kontakt med menneskers slimhinner eller i langvarig kontakt med menneskers hud, og konsentrasjonen av bis (2-etylheksyl) ftalat ikke overstiger:<br>(a) 30 vektprosent av gummien for:<br>(i) belegg på tetningsringer;<br>(ii) tetningsringer av massiv gummi, eller<br>(iii) gummikomponenter som inngår i enheter på minst tre komponenter som bruker elektrisk, mekanisk eller hydraulisk energi for å virke, og som er festet til motoren.<br>(b) 10 vektprosent av gummien i komponenter som inneholder gummi, og som ikke er nevnt i bokstav a).<br>I dette punkt menes med «langvarig kontakt med menneskers hud» kontinuerlig kontakt av mer enn 10 minutters varighet eller periodisk kontakt i et tidsrom på 30 minutter per dag. | Fra 1. mai 2020 fram til:<br>Kategori 11: 21. juli 2024 |
+| 44 | Bly i loddemateriale for følere, aktuatorer og styringsenheter i forbrenningsmotorer som omfattes av virkeområdet i europaparlaments- og rådsforordning [(EU) 2016/1628](eu/32016r1628*), innebygd i utstyr som i drift er fast plassert, og som er konstruert for yrkesmessig brukere, men som også brukes av ikke-yrkesbrukere. | Fra 1. mai 2020 fram til:<br>Kategori 11: 21. juli 2024 |
+| 45 | Blydiazid, blystyfnat, blypikromat, oransjemønje (blytetraoksid), blydioksid i elektriske og elektroniske initiatorer for sprengstoff for yrkesmessig bruk og bariumkromat i pyrotekniske langtidsforsinkelsesladninger i elektriske tennhetter til sprengstoff for yrkesmessig bruk | Fra 1. november 2021 og fram til:<br>Kategori 11: 20. april 2026 |
+| 46 | Kadmium og bly i plastprofiler som inneholder blandinger laget av avfall av polyvinylklorid (heretter kalt «gjenvunnet hard PVC»), brukt til elektriske og elektroniske vinduer og dører, hvor konsentrasjonen i materialet av gjenvunnet hard PVC ikke overstiger 0,1 vektprosent kadmium og 1,5 vektprosent bly.<br><br>Fra 28. mai 2026 kan hard PVC som er gjenvunnet fra elektriske og elektroniske vinduer og dører, kun brukes til framstilling av nye produkter i kategoriene angitt i post 63, nr. 18, bokstavene a–d i vedlegg XVII til forordning [(EF) nr. 1907/2006](eu/32006r1907).<br><br>Leverandører av PVC-produkter som inneholder gjenvunnet hard PVC med en blykonsentrasjon i PVC-materialet på 0,1 vektprosent eller mer, skal før disse produktene bringes i omsetning, sørge for at de er synlig, lett leselig og uutslettelig merket med det følgende: «Inneholder ≥ 0,1 % bly». Dersom merkingen ikke kan påføres produktet på grunn av produktets art, skal den påføres produktets emballasje.<br><br>Leverandører av PVC-produkter som inneholder gjenvunnet hard PVC, skal på forespørsel gi Miljødirektoratet dokumentasjon som underbygger påstandene om opprinnelsen til det gjenvunne PVC-materialet i disse produktene. Sertifikater utstedt av ordninger for å dokumentere sporbarhet og materialgjenvunnet innhold, for eksempel sertifikater utviklet i henhold til EN 15343:2007 eller tilsvarende anerkjente standarder, kan brukes for å underbygge slike påstander om PVC-produkter produsert i EØS. Påstander om opprinnelsen til gjenvunnet PVC i importerte produkter må være ledsaget av et sertifikat som gir tilsvarende bevis på sporbarhet og materialgjenvunnet innhold. Sertifikatet skal være utstedt av en uavhengig tredjepart. | Fra 1. august 2024 fram til:<br>Kategori 11: 28. mai 2028 |
+
+i Det er søkt om fornyelse av unntaket. Unntaket gjelder inntil det er fattet nytt vedtak i EU/EØS
+
+ii Unntaket skal ikke omfatte elektrisk og elektronisk utstyr som tilbys allmennheten der utstyret eller tilgjengelige deler av utstyret ved normale eller forventede bruksforhold kan puttes i munnen av barn. Unntaket får imidlertid anvendelse dersom følgende kan påvises:
+
 - Mengden bly som avgis fra slikt elektrisk og elektronisk utstyr eller enhver tilgjengelig del, uansett om den er belagt eller ikke, ikke overskrider 0,05 μg/cm2 per time (som tilsvarer 0,05 μg/g/t).
 - For belagte produkter, at belegget er tilstrekkelig til å sikre at denne mengden ikke overskrides i løpet av minst to års bruk under normale eller forventede bruksforhold.
+
+I denne fotnoten anses at et elektrisk og elektronisk utstyr eller en tilgjengelig del av utstyret kan puttes i munnen av et barn dersom utstyret eller delen er mindre enn 5 cm i en dimensjon eller har en avtakbar eller utstikkende del av den størrelsen.
 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [12 juni 2018 nr. 848](forskrift/2018-06-12-848), [4 des 2018 nr. 1795](forskrift/2018-12-04-1795), [25 juni 2019 nr. 918](forskrift/2019-06-25-918), [12 feb 2020 nr. 127](forskrift/2020-02-12-127), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494), [15 juni 2022 nr. 1088](forskrift/2022-06-15-1088), [19 juni 2023 nr. 977](forskrift/2023-06-19-977), [18 mars 2024 nr. 509](forskrift/2024-03-18-509), [8 okt 2024 nr. 2424](forskrift/2024-10-08-2424), [12 mai 2026 nr. 810](forskrift/2026-05-12-810) (i kraft 1 juli 2026).
 
 ### Vedlegg 2
 Bruksområder som er unntatt fra forbudet i § 2a-3 som gjelder særskilt for medisinsk utstyr og overvåkings- og kontrollinstrumenter
+
+| *Unntak* | *Unntaket gjelder i perioden:* |
+| --- | --- |
+| *Utstyr som utnytter eller påviser ioniserende stråling* |  |
+| 1. Bly, kadmium og kvikksølv i detektorer for ioniserende stråling. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 2. Blylagre i røntgenrør. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 3. Bly i amplifikasjonsutstyr for elektromagnetisk stråling: mikrokanalplate og kapillærplate. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 4. Bly i glassfritte i røntgenrør og bildeforsterkere, og bly i bindemiddel av glassfritte for montering av gasslasere og til vakuumrør for omdanning av elektromagnetisk stråling til elektroner. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 5. Bly i utstyr for skjerming mot ioniserende stråling. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 6. Bly i testgjenstander for røntgen. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 7. Blystearatkrystaller til røntgendiffraksjon. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 8. Radioaktiv kadmiumisotopkilde for bærbare røntgenfluorescensspektrometre. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| *Sensorer, detektorer og elektroder* |  |
+| 1a. Bly og kadmium i ionselektive elektroder, herunder glass i pH-elektroder. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 1b. Blyanoder i elektrokjemiske oksygensensorer. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 1c. Bly, kadmium og kvikksølv i detektorer for infrarødt lys. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 1d. Kvikksølv i referanseelektroder: kvikksølvklorid med lavt kloridinnhold, kvikksølvsulfat og kvikksølvoksid. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| *Annet* |  |
+| 9. Kadmium i helium-kadmium-lasere. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 10. Bly og kadmium i atomabsorpsjonsspektroskopilamper. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 11. Bly i legeringer som superleder og varmeleder i MRI. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 12. Bly og kadmium i metalliske bindinger som skaper superledende magnetkretser i MR-detektorer, SQUID-detektorer, NMR-detektorer (kjernemagnetisk resonans) eller FTMS-detektorer (massespektrometer med fouriertransformasjon) | Fram til:<br>30. juni 2021 |
+| 13. Bly i motvekter. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 14. Bly i piezoelektriske enkeltkrystallmaterialer for ultralyd-omformere. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 15. Bly i loddemateriale for ultralyd-omformere. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 16. Kvikksølv i kapasitets- og tapsmålebroer med svært høy nøyaktighet og i høyfrekvente RF-svitsjer og -releer i overvåkings- og kontrollinstrumenter, høyst 20 mg kvikksølv per svitsj eller relé. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 17. Bly i loddemateriale i bærbare førstehjelpsdefibrillatorer. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 18. Bly i loddemateriale for IR-avbildingsmoduler med høy ytelse for påvisning i området 8–14 μm. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 19. Bly i LCoS-skjermer (flytende krystall på silikon). | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 20. Kadmium i røntgenmålefiltre. | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 21. Kadmium i fosforbelegg i bildeforsterkere for røntgenbilder og i reservedeler for røntgensystemer som bringes i omsetning i EU før 1. januar 2020 | Utløp 31. desember 2019. I reservedeler for røntgensystemer som bringes i omsetning i EU før 1. januar 2020. |
+| 22. Blyacetatmarkører i stereotaktiske hoderammer til bruk ved CT og MR og i posisjoneringssystemer for gammastråle- og partikkelterapiutstyr | Fram til:<br>Kategori 8 og 9 generelt: 30. juni 2021<br>Kategori 8 in vitro: 30. juni 2021 |
+| 23. Bly som legeringsstoff i lagre og sliteflater i medisinsk utstyr som utsettes for ioniserende stråling | Fram til:<br>Kategori 8 og 9 generelt: 30. juni 2021<br>Kategori 8 in vitro: 30. juni 2021 |
+| 24. Bly for å oppnå vakuumtette forbindelser mellom aluminium og stål i bildeforsterkere for røntgenbilder | Utløp 31. desember 2019. |
+| 25. Bly i overflatebelegg på koplingssystemer med stifter som krever ikke-magnetiske koplinger, og som brukes varig ved en temperatur under –20 °C ved normale bruks- og lagringsforhold | Fram til:<br>30. juni 2021 |
+| 26. Bly som brukes varig ved en temperatur under –20 °C ved normale drifts- og lagringsforhold i<br>a. loddemateriale på kretskort,<br>b. belegg på termineringer på elektriske og elektroniske komponenter og belegg på kretskort,<br>c. loddemateriale for tilkopling av ledninger og kabler,<br>d. loddemateriale for tilkopling av transdusere og sensorer<br>Bly i loddemateriale i elektriske forbindelser til temperatursensorer i anordninger, som er beregnet til periodevis anvendelse ved temperaturer under –150 °C. | Fram til:<br>30. juni 2021 |
+| 27. Bly i:<br>– loddemateriale,<br>– belegg på termineringer på elektriske og elektroniske komponenter og kretskort,<br>– forbindelsespunkter på elektroniske ledninger, skjermer og innkapslede koplinger som brukes i:<br>a. magnetfelt som befinner seg innenfor en radius på én meter fra isosenteret til magneten i medisinsk MR-utstyr, herunder pasientmonitorer som skal brukes innenfor denne radiusen, eller<br>b. magnetfelt som befinner seg innenfor en avstand på én meter fra den utvendige overflaten til syklotronmagneter, og magneter som brukes til transport av stråler og regulering av stråleretning til bruk ved partikkelterapi.<br>c. Ikke-integrerte MR-spoler for hvilke samsvarserklæringen for denne modellen utstedes for første gang før 23. september 2022, eller<br>d. MR-utstyr med integrerte spoler som brukes i magnetfelt som befinner seg innenfor en radius på én meter fra isosenteret til magneten i medisinsk MR-utstyr, for hvilket samsvarserklæringen utstedes for første gang før 30. juni 2024. | Fram til:<br>30. juni 2020<br><br><br><br><br><br>c. og d:<br>Utløper 30. juni 2027 |
+| 28. Bly til loddemateriale til montering av digitale array-detektorer av kadmiumtellurid og kadmiumsinktellurid på kretskort | Utløp 31. desember 2017 |
+| 29. Bly som superleder eller varmeleder i legeringer som brukes i kjølehoder i kryokjølere og/eller i kryokjølte kjølesonder og/eller i kryokjølte ekvipotensialutjevningssystemer i medisinsk utstyr (kategori 8) og/eller i industrielle overvåkings- og kontrollinstrumenter | Fram til:<br>30. juni 2021 |
+| 30. Seksverdig krom i alkalidispensere som brukes til framstilling av fotokatoder i bildeforsterkere for røntgenbilder. | Utløp 31. desember 2019. I reservedeler til røntgensystemer som bringes i omsetning i EU før 1. januar 2020. |
+| 31a. Bly, kadmium, seksverdig krom og polybromerte difenyletere (PBDE) i reservedeler fra og anvendt til reparasjon eller fornyelse av medisinsk utstyr, herunder medisinsk utstyr til in vitro-diagnostikk eller elektronmikroskoper og deres utstyr, forutsatt at ombruken finner sted i kontrollerbare, lukkede retursystemer mellom bedrifter, og at kunden informeres om at delene er ombrukte | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 32. Bly i loddemateriale på kretskort i detektorer og dataregistreringsutstyr for positronemisjonstomografer som er integrert i MR-utstyr | Utløp 31. desember 2019 |
+| 33. Bly i loddemateriale på bestykkede kretskort som brukes i annet mobilt medisinsk utstyr i klasse IIa og IIb i henhold til direktiv [93/42/EØF](eu/31993l0042), enn bærbare defibrillatorer til bruk i akuttsituasjoner | Kategori 8 og 9 generelt: Utløp 30. juni 2016 for klasse IIa<br>Fram til:<br>31. desember 2020 for klasse IIb |
+| 34. Bly som aktivator i fluorescerende pulver i utladningslamper som brukes som ekstrakorporale fotofereselamper som inneholder BSP-fosfor (BaSi2O5:Pb) | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2021 |
+| 35. Kvikksølv i kaldkatodelysstoffrør (CCFL) til bakbelysning i LCD-skjermer (høyst 5 mg kvikksølv pr. lyskilde) | Fram til:<br>Kategori 9 industriell: 21. juli 2024 |
+| 36. Bly brukt i andre ledersystemer enn «C-press» ledersystemer med deformerbare ben (compliant pins) | Fram til:<br>Kategori 9 industriell: 31. desember 2020. Kan etter denne dato brukes i reservedeler til industrielle overvåknings- og reguleringsinstrumenter som bringes i omsetning innen den 1. januar 2021 |
+| 37. Bly i platinerte platinaelektroder som brukes til måling av konduktivitet, og der minst ett av følgende vilkår er oppfylt:<br>a. måling av konduktivitet i et bredt måleområde som omfatter mer enn én størrelsesorden (f.eks. mellom 0,1 mS/m og 5 mS/m), til bruk på laboratorier i forbindelse med ukjente konsentrasjoner,<br>b. målinger av løsninger der det kreves en nøyaktighet på +/– 1 % av prøveområdet, og der det kreves at elektroden har høy korrosjonsbestandighet for noe av det følgende:<br>i. løsninger med en surhetsgrad på <pH 1,<br>ii. løsninger med en alkalitet på >pH 13,<br>iii. etsende løsninger som inneholder halogengass,<br>c. målinger av konduktivitet over 100 mS/m som må utføres med bærbare instrumenter. | Fra 1. april 2021 fram til:<br>Kategori 8 og 9 generelt: 31. desember 2025 |
+| 38. Bly i loddemateriale i en grenseflate av SDE (stacked die element) med stor flate | Utløp 31. desember 2019. Kan etter denne dato brukes i reservedeler til CT- og røntgensystemer som bringes i omsetning innen 1. januar 2020. |
+| 39. Bly i mikrokanalplater (MCP) som brukes i utstyr som har minst en av følgende egenskaper;<br>a. kompakt størrelse av elektron/ionedetektoren hvor plassen er begrenset til maksimalt 3 mm/MCP (detektortykkelse + plass til installasjon av MCP). maksimalt 6 mm i alt, og hvor en alternativ utforming som gir mer plass til detektoren, ikke er vitenskapelig og teknisk gjennomførbart i praksis<br>b. en todimensjonal romlig oppløsning for deteksjon av elektroner eller ioner hvor minst et av følgende forhold gjør seg gjeldende:<br>a. en svartid <25 ns;<br>b. i et prøvedeteksjonsområde >149 mm2;<br>c. en multiplikasjonsfaktor >1,3 x 103;<br>c. en svartid <5 ns for elektroner eller ioner;<br>d. et prøvedeteksjonsområde >314 mm2 for deteksjon av elektroner eller ioner;<br>e. en multiplikasjonsfaktor >4,0 x 107 | Fram til:<br>Kategori 8 og 9 generelt: 21. juli 2021<br>Kategori 8 in vitro: 21. juli 2023<br>Kategori 9 industriell: 21. juli 2024 |
+| 40. Bly i dielektrisk keramikk i kondensatorer med merkespenning på mindre enn 125 V AC eller 250 V DC | Fram til:<br>Kategori 9 industriell: 31. desember 2020. Kan etter denne dato brukes i reservedeler til industrielle overvåknings- og reguleringsinstrumenter som bringes i omsetning innen den 1. januar 2021. |
+| 41. Bly som termisk stabilisator i polyvinylklorid (PVC) brukt som basismateriale i amperometriske, potensiometriske og konduktometriske elektrokjemiske sensorer som brukes i medisinsk utstyr til in vitro-diagnostikk for analyse av blod og andre kroppsvæsker og kroppsgasser. | Fra 1. april 2021 fram til:<br>Kategori 8 in-vitro: 31. mars 2022 |
+| 41a. Bly som termisk stabilisator i polyvinylklorid (PVC) brukt som basismateriale i amperometriske, potensiometriske og konduktometriske elektrokjemiske sensorer som brukes i medisinsk utstyr til in vitro-diagnostikk ved analyse av kreatinin og karbamid i fullblod. | Fram til:<br>Kategori 8: 31. desember 2023 |
+| 42. Kvikksølv i elektriske roterende konnektorer i intravaskulære ultralydbildesystemer, som er egnet til drift med høy driftsfrekvens (> 50MHz). | Fram til:<br>30. juni 2026 |
+| 43. Kadmiumanoder i Herschceller for oksygensensorer som brukes i industrielle overvåknings- og kontrollinstrumenter som krever følsomhet på under 10 ppm. | Fram til:<br>Kategori 9 industriell: 15. juli 2023 |
+| 44. Kadmium i strålingstolerante videokamerarør konstruert for kameraer med en senteroppløsning på mer enn 450 TV-linjer til bruk i miljøer med eksponering for ioniserende stråling på mer enn 100 Gy per time og en samlet dose på over 100 kGy | Fram til:<br>Kategori 9: 31. mars 2027 |
+| *Utstyr som utnytter eller påviser ioniserende stråling* |  |
+| 45. Bis(2-etylheksyl)ftalat (DEHP) i ioneselektive elektroder brukt i pasientnær analyse av ioniske stoffer i kroppsvæsker fra mennesker og/eller i dialysatvæsker. | Fram til 21. juli 2028 |
+| 46. Bis(2-etylheksyl)ftalat (DEHP) i plastkomponenter i detektorspoler (MR-utstyr). | Fram til 1. januar 2024 |
+| 47. Bis(2-etylheksyl)ftalat (DEHP), butylbenzylftalat (BBP), dibutylftalat (DBP) og diisobutylftalat (DIBP) i reservedeler som er gjenvunnet fra og brukes til reparasjon eller renovering av medisinsk utstyr, inkludert medisinsk utstyr til in vitro-diagnostikk, og deres tilbehør, forutsatt at ombruk skjer i kontrollerbare, lukkede retursystemer mellom bedrifter, og at enhver ombruk av deler meddeles kunden. | Fram til 21. juli 2028 |
+| 48. Bly i superledende kabler og ledninger av vismutstrontiumkalsiumkobberoksid samt bly i de elektriske forbindelsene til disse ledningene | Utløper 30. juni 2027 |
+| 49. Kvikksølv i smeltetrykkgivere for kapillære reometre ved temperaturer over 300 °C og trykk på over 1000 bar. | Fram til:<br>Kategori 9: 31. desember 2025 |
 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved [forskrifter 5 nov 2014 nr. 1401](forskrift/2014-11-05-1401), [11 juli 2015 nr. 893](forskrift/2015-07-11-893), [16 jan 2017 nr. 39](forskrift/2017-01-16-39), [30 mars 2020 nr. 526](forskrift/2020-03-30-526), [2 juli 2020 nr. 1480](forskrift/2020-07-02-1480), [5 nov 2021 nr. 3159](forskrift/2021-11-05-3159), [4 mai 2022 nr. 788](forskrift/2022-05-04-788), [14 des 2022 nr. 2230](forskrift/2022-12-14-2230), [6 nov 2023 nr. 1793](forskrift/2023-11-06-1793).
 
@@ -713,6 +1136,12 @@ Søknader om unntak, fornyelse eller tilsvarende tilbakekalling av et unntak, ka
 5. Erklæringens gjenstand beskrevet ovenfor er i samsvar med kapittel 2a.:
 6. Der det er relevant, henvisninger til de relevante harmoniserte standardene som er brukt eller henvisninger til de spesifikasjonene det erklæres samsvar med:
 7. Tilleggsopplysninger:
+
+Undertegnet for og på vegne av: ....................................... .................................................................
+
+(sted og utstedelsesdato):
+
+(navn, stilling) (underskrift):
 
 > Tilføyd ved [forskrift 26 juni 2013 nr. 811](forskrift/2013-06-26-811) (i kraft 1 juli 2013), endret ved forskrift [12 aug 2021 nr. 2494](forskrift/2021-08-12-2494).
 
@@ -987,7 +1416,13 @@ Dersom omsetter av flytende drivstoff eller flytende brensel ikke oppfyller krav
 
 ### § 3-13. Gebyr for kontrolltiltak ved rapportering
 
-Omsetter skal betale et gebyr til statskassen for Miljødirektoratets arbeid med rapportering i henhold til [§ 3-10](forskrift/2004-06-01-922/§3-10). Gebyret fastsettes etter antall omsetningskrav den enkelte omsetter rapporterer på og hvilken type dokumentasjon som er brukt til å dokumentere oppfyllelse av bærekraftskriteriene:*Antall krav omsetter rapporterer på**Bruk av dokumentasjon iht. [§ 3-10 sjuende ledd](forskrift/2004-06-01-922/§3-10/ledd/7) (egen dokumentasjon)**Bruk av dokumentasjon iht. [§ 3-10 femte ledd](forskrift/2004-06-01-922/§3-10/ledd/5) (frivillige ordninger)*1110 000,–75 000,–2183 000,–126 000,–3238 000,–163 000,–
+Omsetter skal betale et gebyr til statskassen for Miljødirektoratets arbeid med rapportering i henhold til [§ 3-10](forskrift/2004-06-01-922/§3-10). Gebyret fastsettes etter antall omsetningskrav den enkelte omsetter rapporterer på og hvilken type dokumentasjon som er brukt til å dokumentere oppfyllelse av bærekraftskriteriene:
+
+| *Antall krav omsetter rapporterer på* | *Bruk av dokumentasjon iht. [§ 3-10 sjuende ledd](forskrift/2004-06-01-922/§3-10/ledd/7) (egen dokumentasjon)* | *Bruk av dokumentasjon iht. [§ 3-10 femte ledd](forskrift/2004-06-01-922/§3-10/ledd/5) (frivillige ordninger)* |
+| --- | --- | --- |
+| 1 | 110 000,– | 75 000,– |
+| 2 | 183 000,– | 126 000,– |
+| 3 | 238 000,– | 163 000,– |
 
 Gebyret forfaller til betaling 30 dager etter at virksomheten har mottatt faktura fra Miljødirektoratet.
 
@@ -995,7 +1430,15 @@ Gebyret forfaller til betaling 30 dager etter at virksomheten har mottatt faktur
 
 ### § 3-14. Gebyr for saksbehandling av unntakssøknader
 
-For behandling av søknad om unntak fra omsetningskravene i [§§ 3-3](forskrift/2004-06-01-922/§3-3), [3-3a](forskrift/2004-06-01-922/§3-3a), [3-3b](forskrift/2004-06-01-922/§3-3b) og [3-3c](forskrift/2004-06-01-922/§3-3c), dokumentasjonskrav i [§ 3-3d](forskrift/2004-06-01-922/§3-3d) og kvalitetskrav i [§ 2-20](forskrift/2004-06-01-922/§2-20), skal omsetter betale gebyr til statskassen etter følgende satser:*Sats**2025*152 900,–242 400,–331 800,–421 200,–510 600,–
+For behandling av søknad om unntak fra omsetningskravene i [§§ 3-3](forskrift/2004-06-01-922/§3-3), [3-3a](forskrift/2004-06-01-922/§3-3a), [3-3b](forskrift/2004-06-01-922/§3-3b) og [3-3c](forskrift/2004-06-01-922/§3-3c), dokumentasjonskrav i [§ 3-3d](forskrift/2004-06-01-922/§3-3d) og kvalitetskrav i [§ 2-20](forskrift/2004-06-01-922/§2-20), skal omsetter betale gebyr til statskassen etter følgende satser:
+
+| *Sats* | *2025* |
+| --- | --- |
+| 1 | 52 900,– |
+| 2 | 42 400,– |
+| 3 | 31 800,– |
+| 4 | 21 200,– |
+| 5 | 10 600,– |
 
 Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelse av gebyrsats, skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -1039,9 +1482,51 @@ For oppfyllelse av kravet til klimagassreduksjon i [§ 3-6](forskrift/2004-06-01
 
 ### A. Standardverdier for biodrivstoff som produseres uten netto karbonutslipp som følge av arealbruksendring
 
+| *Produksjonsprosess for biodrivstoff* | *Standard reduksjon av klimagassutslipp* |
+| --- | --- |
+| Etanol fra sukkerbete | 52 % |
+| Etanol fra hvete (prosessbrensel ikke angitt) | 16 % |
+| Etanol fra hvete (lignitt som prosessbrensel i kraftvarmeanlegg) | 16 % |
+| Etanol fra hvete (naturgass som prosessbrensel i konvensjonell kjele) | 34 % |
+| Etanol fra hvete (naturgass som prosessbrensel i kraftvarmeverk) | 47 % |
+| Etanol fra hvete (halm som prosessbrensel i kraftvarmeverk) | 69 % |
+| Etanol fra mais, produsert i EØS (naturgass som prosessbrensel i kraftvarmeverk) | 49 % |
+| Etanol fra sukkerrør | 71 % |
+| Andelen fra fornybare kilder i etyltertiærbutyleter (ETBE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Andelen fra fornybare kilder av tertiæramyletyleter (TAEE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Biodiesel fra rapsfrø | 38 % |
+| Biodiesel fra solsikke | 51 % |
+| Biodiesel fra soyabønner | 31 % |
+| Biodiesel fra palmeolje (prosess ikke angitt) | 19 % |
+| Biodiesel fra palmeolje (prosess med metanfangst ved oljemølle) | 56 % |
+| Biodiesel fra vegetabilsk eller animalsk\* avfallsolje | 83 % |
+| Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 47 % |
+| Hydrogenbehandlet vegetabilsk olje fra solsikke | 62 % |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess ikke angitt) | 26 % |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess med metanfangst ved oljemølle) | 65 % |
+| Ren vegetabilsk olje fra rapsfrø | 57 % |
+| Biogass fra organisk kommunalt avfall, som komprimert naturgass | 73 % |
+| Biogass fra bløtgjødsel som komprimert naturgass | 81 % |
+| Biogass fra fast gjødsel som komprimert naturgass | 82 % |
+
+\* Omfatter ikke animalsk olje produsert av animalske biprodukter klassifisert som kategori 3-materiale i samsvar med Europaparlaments- og Rådsforordning [(EF) nr. 1774/2002](eu/32002r1774*) av 3. oktober 2002 om hygieneregler for animalske biprodukter som ikke er beregnet på konsum, jf. EFT L, 273 av 10.10.2002, s. 1.
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### B. Beregnede standardverdier for framtidig biodrivstoff som i januar 2008 ikke var tilgjengelig på markedet, eller som fantes på markedet bare i ubetydelige mengder, og som produseres uten netto karbonutslipp som følge av arealbruksendring
+
+| *Produksjonsprosess for biodrivstoff* | *Standard reduksjon av klimagassutslipp* |
+| --- | --- |
+| Etanol fra hvetehalm | 85 % |
+| Etanol fra treavfall | 74 % |
+| Etanol fra dyrket skog | 70 % |
+| Fischer-Tropsch-diesel fra treavfall | 95 % |
+| Fischer-Tropsch-diesel fra dyrket skog | 93 % |
+| Dimetyleter (DME) fra treavfall | 95 % |
+| Dimetyleter (DME) fra dyrket skog | 92 % |
+| Metanol fra treavfall | 94 % |
+| Metanol fra dyrket skog | 91 % |
+| Andelen fra fornybare kilder av metyltertbutyleter (MTBE) | Lik den produksjonsprosessen for metanol som er brukt. |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1067,7 +1552,7 @@ EF = samlet utslipp fra fossilt brensel som de sammenlignes med.
 N2O = 296
 CH4 = 23
 6. Utslipp fra utvinning eller dyrking av råstoff, eec, skal omfatte utslipp fra selve utvinnings- eller dyrkingsprosessen, fra innsamlingen av råstoff, fra svinn og lekkasjer, og fra produksjonen av kjemikalier eller produkter brukt ved utvinning eller dyrking. CO2-fangst ved dyrking av råstoff skal ikke regnes med. Sertifiserte reduksjoner av klimagassutslipp fra gassavbrenning ved oljeproduksjonsanlegg overalt i verden skal trekkes fra. Beregninger av utslipp fra dyrking kan utledes fra bruken av gjennomsnitt beregnet for mindre geografiske områder enn dem som er brukt ved beregningen av standardverdiene, som et alternativ til å bruke faktiske verdier.
-7. Utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring, el, skal beregnes ved å fordele samlede utslipp likt over 20 år. Til beregning av disse utslippene skal følgende regel gjelde:el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB *,* = Kvotienten som framkommer ved å dele molekylvekten av CO2 (44,010 g/mol) med molekylvekten av karbon (12,011 g/mol), er lik 3,664.Der:el = Klimagassutslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring (målt som masse CO2-ekvivalenter per enhet biodrivstoffenergi),
+7. Utslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring, el, skal beregnes ved å fordele samlede utslipp likt over 20 år. Til beregning av disse utslippene skal følgende regel gjelde:el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB \*,\* = Kvotienten som framkommer ved å dele molekylvekten av CO2 (44,010 g/mol) med molekylvekten av karbon (12,011 g/mol), er lik 3,664.Der:el = Klimagassutslipp på årsbasis fra endringer i karbonlagre forårsaket av arealbruksendring (målt som masse CO2-ekvivalenter per enhet biodrivstoffenergi),
 CSR = Karbonlageret per arealenhet tilknyttet referansearealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). Referansearealbruken skal være arealbruken i januar 2008 eller 20 år før råstoffet ble hentet ut, avhengig av hva som er senest,
 CSA = Karbonlageret per arealenhet tilknyttet den faktiske arealbruken (målt som masse karbon per arealenhet, herunder både jord og vegetasjon). I tilfeller der karbonlageret akkumuleres over mer enn ett år, skal verdien som tilskrives CSA, være det beregnede lageret per arealenhet etter 20 år, eller når avlingen er moden, avhengig av hva som er tidligst,
 P = Avlingens produktivitet (målt som biodrivstoffets eller det flytende biobrenselets energiinnhold per arealenhet per år), og
@@ -1093,17 +1578,115 @@ eB = Bonus på 29 g CO2eq/MJ biodrivstoff eller flytende biobrensel dersom bioma
 
 ### Disaggregerte standardverdier for dyrking, eec, som definert i del C i dette vedlegget
 
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp (g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra sukkerbete | 12 |
+| Etanol fra hvete | 23 |
+| Etanol fra mais, produsert i EØS | 20 |
+| Etanol fra sukkerrør | 14 |
+| Andelen fra fornybare kilder av etyltertiærbutyleter (ETBE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Andelen fra fornybare kilder av tertiæramyletyleter (TAEE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Biodiesel fra rapsfrø | 29 |
+| Biodiesel fra solsikke | 18 |
+| Biodiesel fra soyabønner | 19 |
+| Biodiesel fra palmeolje | 14 |
+| Biodiesel fra vegetabilsk eller animalsk avfallsolje\* | 0 |
+| Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 30 |
+| Hydrogenbehandlet vegetabilsk olje fra solsikke | 18 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje | 15 |
+| Ren vegetabilsk olje fra rapsfrø | 30 |
+| Biogass fra organisk kommunalt avfall som komprimert naturgass | 0 |
+| Biogass fra bløtgjødsel som komprimert naturgass | 0 |
+| Biogass fra fast gjødsel som komprimert naturgass | 0 |
+
+\* Omfatter ikke animalsk olje produsert av animalske biprodukter klassifisert som kategori 3-materiale i samsvar med forordning [(EF) nr. 1774/2002](eu/32002r1774*).
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### Disaggregerte standardverdier for foredling (herunder overskuddselektrisitet); ep – eee som definert i del C i dette vedlegget
+
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp (g CO2eq /MJ)* |
+| --- | --- |
+| Etanol fra sukkerbete | 26 |
+| Etanol fra hvete (prosessbrensel ikke angitt) | 45 |
+| Etanol fra hvete (lignitt som prosessbrensel i kraftvarmeanlegg) | 45 |
+| Etanol fra hvete (naturgass som prosessbrensel i konvensjonell kjel) | 30 |
+| Etanol fra hvete (naturgass som prosessbrensel i kraftvarmeanlegg) | 19 |
+| Etanol fra hvete (halm som prosessbrensel i kraftvarmeanlegg) | 1 |
+| Etanol fra mais, produsert i EØS (naturgass som prosessbrensel i kraftvarmeanlegg) | 21 |
+| Etanol fra sukkerrør | 1 |
+| Andelen fra fornybare kilder i etyltertiærbutyleter (ETBE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Andelen fra fornybare kilder i tertiæramyletyleter (TAEE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Biodiesel fra rapsfrø | 22 |
+| Biodiesel fra solsikke | 22 |
+| Biodiesel fra soyabønner | 26 |
+| Biodiesel fra palmeolje (prosess ikke angitt) | 49 |
+| Biodiesel fra palmeolje (prosess med metanfangst ved oljemølle) | 18 |
+| Biodiesel fra vegetabilsk eller animalsk avfallsolje | 13 |
+| Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 13 |
+| Hydrogenbehandlet vegetabilsk olje fra solsikke | 13 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess ikke angitt) | 42 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess med metanfangst ved oljemølle) | 9 |
+| Ren vegetabilsk olje fra rapsfrø | 5 |
+| Biogass fra organisk kommunalt avfall som komprimert naturgass | 20 |
+| Biogass fra bløtgjødsel som komprimert naturgass | 11 |
+| Biogass fra fast gjødsel som komprimert naturgass | 11 |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### Disaggregerte standardverdier for transport og distribusjon, etd, som definert i del C i dette vedlegg
 
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp (g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra sukkerbete | 2 |
+| Etanol fra hvete | 2 |
+| Etanol fra mais, produsert i EØS | 2 |
+| Etanol fra sukkerrør | 9 |
+| Andelen fra fornybare kilder av etyltertiærbutyleter (ETBE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Andelen fra fornybare kilder av tertiæramyletyleter (TAEE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Biodiesel fra rapsfrø | 1 |
+| Biodiesel fra solsikke | 1 |
+| Biodiesel fra soyabønner | 13 |
+| Biodiesel fra palmeolje | 5 |
+| Biodiesel fra vegetabilsk eller animalsk avfallsolje | 1 |
+| Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 1 |
+| Hydrogenbehandlet vegetabilsk olje fra solsikke | 1 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje | 5 |
+| Ren vegetabilsk olje fra rapsfrø | 1 |
+| Biogass fra organisk kommunalt avfall som komprimert naturgass | 3 |
+| Biogass fra bløtgjødsel som komprimert naturgass | 5 |
+| Biogass fra fast gjødsel som komprimert naturgass | 4 |
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### I alt for dyrking, foredling, transport og distribusjon
+
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp<br>(g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra sukkerbete | 40 |
+| Etanol fra hvete (prosessbrensel ikke angitt) | 70 |
+| Etanol fra hvete (lignitt som prosessbrensel i kraftvarmeanlegg) | 70 |
+| Etanol fra hvete (naturgass som prosessbrensel i konvensjonell kjel) | 55 |
+| Etanol fra hvete (naturgass som prosessbrensel i kraftvarmeanlegg) | 44 |
+| Etanol fra hvete (halm som prosessbrensel i kraftvarmeanlegg) | 26 |
+| Etanol fra mais, produsert i EØS (naturgass som prosessbrensel i kraftvarmeanlegg) | 43 |
+| Etanol fra sukkerrør | 24 |
+| Andelen fra fornybare kilder av etyltertiærbutyleter (ETBE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Andelen fra fornybare kilder av tertiæramyletyleter (TAEE) | Lik den produksjonsprosessen for etanol som er brukt |
+| Biodiesel fra rapsfrø | 52 |
+| Biodiesel fra solsikke | 41 |
+| Biodiesel fra soyabønner | 58 |
+| Biodiesel fra palmeolje (prosess ikke angitt) | 68 |
+| Biodiesel fra palmeolje (prosess med metanfangst ved oljemølle) | 37 |
+| Biodiesel fra vegetabilsk eller animalsk avfallsolje | 14 |
+| Hydrogenbehandlet vegetabilsk olje fra rapsfrø | 44 |
+| Hydrogenbehandlet vegetabilsk olje fra solsikke | 32 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess ikke angitt) | 62 |
+| Hydrogenbehandlet vegetabilsk olje fra palmeolje (prosess med metanfangst ved oljemølle) | 29 |
+| Ren vegetabilsk olje fra rapsfrø | 36 |
+| Biogass fra organisk kommunalt avfall som komprimert naturgass | 23 |
+| Biogass fra bløtgjødsel som komprimert naturgass | 16 |
+| Biogass fra fast gjødsel som komprimert naturgass | 15 |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1113,17 +1696,65 @@ eB = Bonus på 29 g CO2eq/MJ biodrivstoff eller flytende biobrensel dersom bioma
 
 ### Disaggregerte standardverdier for dyrking, eec, som definert i del C i dette vedlegg
 
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp (g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra hvetehalm | 3 |
+| Etanol fra treavfall | 1 |
+| Etanol fra dyrket skog | 6 |
+| Fischer-Tropsch-diesel fra treavfall | 1 |
+| Fischer-Tropsch-diesel fra dyrket skog | 4 |
+| Dimethylether (DME) fra treavfall | 1 |
+| Dimethylether (DME) fra dyrket skog | 5 |
+| Metanol fra treavfall | 1 |
+| Metanol fra dyrket skog | 5 |
+| Andelen fra fornybare kilder i metyltertbutyleter (MTBE) | Lik den produksjonsprosessen for metanol som er brukt |
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### Disaggregerte standardverdier for foredling (herunder overskuddselektrisitet), ep – eee, som definert i del C i dette vedlegg
+
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp<br>(g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra hvetehalm | 7 |
+| Etanol fra skog | 17 |
+| Fischer-Tropsch-diesel fra skog | 0 |
+| Dimethylether (DME) fra skog | 0 |
+| Metanol fra skog | 0 |
+| Andelen fra fornybare kilder av metyltertbutyleter (MTBE) | Lik den produksjonsprosessen for metanol som er brukt |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### Disaggregerte standardverdier for transport og distribusjon, etd, som definert i del C i dette vedlegg
 
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp<br>(g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra hvetehalm | 2 |
+| Etanol fra treavfall | 4 |
+| Etanol fra dyrket skog | 2 |
+| Fischer-Tropsch-diesel fra treavfall | 3 |
+| Fischer-Tropsch-diesel fra dyrket skog | 2 |
+| Dimethylether (DME) fra treavfall | 4 |
+| Dimethylether (DME) fra dyrket skog | 2 |
+| Metanol fra treavfall | 4 |
+| Metanol fra dyrket skog | 2 |
+| Andelen fra fornybare kilder av metyltertbutyleter (MTBE) | Lik den produksjonsprosessen for metanol som er brukt |
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### I alt for dyrking, foredling, transport og distribusjon
+
+| *Produksjonsprosess for biodrivstoff og flytende biobrensel* | *Standardverdier for klimagassutslipp<br>(g CO2eq/MJ)* |
+| --- | --- |
+| Etanol fra hvetehalm | 13 |
+| Etanol fra treavfall | 22 |
+| Etanol fra dyrket skog | 25 |
+| Fischer-Tropsch-diesel fra treavfall | 4 |
+| Fischer-Tropsch-diesel fra dyrket skog | 6 |
+| Dimethylether (DME) fra treavfall | 5 |
+| Dimethylether (DME) fra dyrket skog | 7 |
+| Metanol fra treavfall | 5 |
+| Metanol fra dyrket skog | 7 |
+| Andelen fra fornybare kilder av metyltertbutyleter (MTBE) | Lik den produksjonsprosessen for metanolen som er brukt |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1159,8 +1790,12 @@ I nr. 8 angis verdier for karbonlageret i vegetasjonen over og under jorden og r
 ### Figur 1
 Klimasoner
 
+Forklaring: Forklaring: 1 = Tropisk fjellklima, 2 = Tropisk vått klima, 3 = Tropisk fuktig klima, 4 = Tropisk tørt klima, 5 = Varmtemperert fuktig klima, 6 = Varmtemperert tørt klima, 7 = Kaldtemperert fuktig klima, 8 = Kaldtemperert tørt klima, 9 = Borealt fuktig klima, 10 = Borealt tørt klima, 11 = Polarklima, fuktig, 12 = Polarklima, tørt.
+
 ### Figur 2
 Geografisk fordeling av jordtyper
+
+Forklaring: 1 = Organisk jord, 2 = Sandjord, 3 = Våtmarksjord, 4 = Vulkansk jord, 5 = Podsoljord, 6 = Leirjord med høy aktivitet, 7 = Leirjord med lav aktivitet, 8 = Andre områder.
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
@@ -1174,9 +1809,23 @@ Ved beregning av det karbonlageret per arealenhet som er tilknyttet *CSR*og *CSA
 
 Ved beregning av *CSR*og *CSA* brukes følgende formel:
 
+*CSi* = (SOC + C*VEG*) × *A*
+
+der:
+
+CSI = karbonlageret per arealenhet tilknyttet arealbruken *i* (målt som masse karbon per arealenhet, herunder både jord og vegetasjon),
+
+SOC = organisk karbon i jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 4,
+
+CVEG = karbonlageret i vegetasjonen over og under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5 eller i samsvar med egnede verdier i nr. 8,
+
+A = faktor for skalering til aktuelt areal (målt som hektar per arealenhet).
+
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### 4. Lager av organisk karbon i jord
+
+4.1.*Mineraljord*
 
 Ved beregning av SOC kan følgende formel brukes:
 *SOC* = *SOCST*× *FLU*× *FMG*× *FI*
@@ -1193,6 +1842,8 @@ For *FLU*, *FMG* og *FI* gjelder de egnede verdiene angitt i nr. 7.
 
 Som et alternativ til formelen ovenfor, kan andre egnede metoder, herunder målinger, brukes for å bestemme *SOC*. Dersom slike metoder ikke er basert på målinger, skal de ta hensyn til klima, jordtype, arealdekke, arealforvaltning og tilførsel.
 
+4.2.*Organisk jord (histosol)*
+
 Ved bestemmelse av SOC skal det brukes egnede metoder. Slike metoder skal ta hensyn til hele dybden av det organiske jordlaget samt klimaet, arealdekket, arealforvaltningen og tilførselen. Metodene kan omfatte målinger.
 
 Når det gjelder karbonlagre som påvirkes av jorddrenering, skal det tas hensyn til karbontap etter drenering med egnede metoder. Slike metoder kan være basert på årlige karbontap etter drenering.
@@ -1203,7 +1854,15 @@ Når det gjelder karbonlagre som påvirkes av jorddrenering, skal det tas hensyn
 
 Når det ikke brukes en verdi for *CVEG* i henhold til nr. 8, beregnes *CVEG* med følgende formel:
 
+*CVEG*= *CBM*+ *CDOM*
+der:
+CVEG = karbonlageret i vegetasjon over og under jorden (målt som masse karbon per hektar),
+CBM = karbonlageret i levende biomasse over og under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.1,
+CDOM = karbonlageret i dødt organisk materiale over og under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.2.
+
 For *CDOM*kan verdien 0 brukes, men ikke når det gjelder skogkledde områder (med unntak av skogbeplantning) med en trekronedekning på over 30 %.
+
+5.1.*Levende biomasse*
 
 Ved beregning av *CBM*brukes følgende formel:
 *CBM*= *CAGB*+ *CBGB*
@@ -1211,6 +1870,8 @@ der:
 CBM = karbonlageret i levende biomasse over og under jorden (målt som masse karbon per hektar),
 CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.1.1,
 CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.1.2.
+
+5.1.1.*Levende biomasse over jord*
 
 Ved beregning av *CAGB*brukes følgende formel:
 *CAGB*= *BAGB*× *CFB*
@@ -1223,6 +1884,8 @@ For dyrket mark, flerårige vekster og skogbeplantning skal verdien av *BAGB*væ
 
 For *CFB*kan verdien 0,47 brukes.
 
+5.1.2.*Levende biomasse under jord*
+
 Ved beregning av *CBGB*brukes en av følgende to formler:*CBGB*= *BBGB*× *CFB*
 der:
 CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per hektar),
@@ -1233,12 +1896,16 @@ CBGB = karbonlageret i levende biomasse under jorden (målt som masse karbon per
 CAGB = karbonlageret i levende biomasse over jorden (målt som masse karbon per hektar),
 R = forholdet mellom karbonlageret i levende biomasse under jorden og karbonlageret i levende biomasse over jorden.For *R* kan det brukes egnede verdier fra nr. 8.
 
+5.2.*Dødt organisk materiale*
+
 Ved beregning av *CDOM*brukes følgende formel:
 *CDOM*= *CDW*+ *CLI*
 der:
 CDOM = karbonlageret i dødt organisk materiale over og under jorden (målt som masse karbon per hektar),
 CDW = karbonlageret i død ved (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.2.1,
 CLI = karbonlageret i strø (målt som masse karbon per hektar), beregnet i samsvar med nr. 5.2.2.
+
+5.2.1.*Karbonlager i død ved*
 
 Ved beregning av *CDW*brukes følgende formel:
 *CDW*= *DOMDW*× *CFDW*
@@ -1248,6 +1915,8 @@ DOMDW = vekten av død ved (målt som masse tørrstoff per hektar),
 CFDW = karbonandelen av tørrstoffet i død ved (målt som masse karbon per masse tørrstoff).
 
 For *CFDW*kan verdien 0,5 brukes.
+
+5.2.2.*Karbonlager i strø*
 
 Ved beregning av *CLI*brukes følgende formel:
 *CLI*= *DOMLI*× *CFLI*
@@ -1262,10 +1931,33 @@ For *CFLI*kan verdien 0,4 brukes.
 
 ### 6. Standardverdi for karbonlager i mineraljord
 
+Fra tabell 1 skal det velges en verdi for *SOCST*som tilsvarer klimasonen og jordtypen for det aktuelle området, som angitt i nr. 6.1 og 6.2.
+
 ### Tabell 1
 SOCST, standardverdi for organisk karbon i det øverste jordlaget (0–30 cm)
 
+|  |  |
+| --- | --- |
+|  | (tonn karbon per hektar) |
+
+| *Klimasone* | *Jordtype* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | *Leirjord med høy aktivitet* | *Leirjord med lav aktivitet* | *Sandjord* | *Podsoljord* | *Vulkansk jord* | *Våtmarksjord* |
+| Borealt klima | 68 | – | 10 | 117 | 20 | 146 |
+| Kaldtemperert tørt klima | 50 | 33 | 34 | – | 20 | 87 |
+| Kaldtemperert fuktig klima | 95 | 85 | 71 | 115 | 130 | 87 |
+| Varmtemperert tørt klima | 38 | 24 | 19 | – | 70 | 88 |
+| Varmtemperert fuktig klima | 88 | 63 | 34 | – | 80 | 88 |
+| Tropisk tørt klima | 38 | 35 | 31 | – | 50 | 86 |
+| Tropisk fuktig klima | 65 | 47 | 39 | – | 70 | 86 |
+| Tropisk vått klima | 44 | 60 | 66 | – | 130 | 86 |
+| Tropisk fjellklima | 88 | 63 | 34 | – | 80 | 86 |
+
+6.1.*Klimasone*
+
 Hvilken klimasone det skal velges en *SOCST*-verdi for, bestemmes på grunnlag av de datalagene om klimasoner som er tilgjengelige gjennom den åpenhetsplattformen som er innført ved artikkel 24 i direktiv [2009/28/EF](eu/32009l0028).
+
+6.2.*Jordtype*
 
 Jordtypen skal bestemmes i samsvar med figur 3. De datalagene om jordtype som er tilgjengelige gjennom åpenhetsplattformen innført ved artikkel 24 i direktiv [2009/28/EF](eu/32009l0028), kan brukes som veiledning ved bestemmelse av jordtypen.
 
@@ -1276,66 +1968,550 @@ Klassifisering av jordtyper
 
 ### 7. Faktorer som gjenspeiler forskjellen mellom organisk karbon i jord og standardverdien for organisk karbon i jord
 
+Egnede verdier for *FLU*, *FMG*og *FI* skal velges fra tabellene i dette nummer. Ved beregning av *CSR*er egnede forvaltnings- og tilførselsfaktorer dem som gjaldt i januar 2008. Ved beregning av *CSA*er egnede forvaltnings- og tilførselsfaktorer dem som gjelder nå og som fører til likevekt for det aktuelle karbonlageret.
+
+7.1.*Dyrket mark*
+
 ### Tabell 2
 Faktorer for dyrket mark
+
+| *Klimasone* | *Arealbruk*<br>(*FLU*) | *Forvaltning*<br>(*FMG*) | *Tilførsel*<br>(*FI*) | *FLU* | *FMG* | *FI* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Temperert/borealt tørt klima | Dyrket | Omfattende jordbearbeiding | Lav | 0,8 | 1 | 0,95 |
+|  |  |  | Middels | 0,8 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,8 | 1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,8 | 1 | 1,04 |
+|  |  | Redusert jordbearbeiding | Lav | 0,8 | 1,02 | 0,95 |
+|  |  |  | Middels | 0,8 | 1,02 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,8 | 1,02 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,8 | 1,02 | 1,04 |
+|  |  | Ingen jordbearbeiding | Lav | 0,8 | 1,1 | 0,95 |
+|  |  |  | Middels | 0,8 | 1,1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,8 | 1,1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,8 | 1,1 | 1,04 |
+| Temperert/borealt, fuktig/vått klima | Dyrket | Omfattende jordbearbeiding | Lav | 0,69 | 1 | 0,92 |
+|  |  |  | Middels | 0,69 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,69 | 1 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,69 | 1 | 1,11 |
+|  |  | Redusert jordbearbeiding | Lav | 0,69 | 1,08 | 0,92 |
+|  |  |  | Middels | 0,69 | 1,08 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,69 | 1,08 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,69 | 1,08 | 1,11 |
+|  |  | Ingen jordbearbeiding | Lav | 0,69 | 1,15 | 0,92 |
+|  |  |  | Middels | 0,69 | 1,15 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,69 | 1,15 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,69 | 1,15 | 1,11 |
+| Tropisk tørt klima | Dyrket | Omfattende jordbearbeiding | Lav | 0,58 | 1 | 0,95 |
+|  |  |  | Middels | 0,58 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,58 | 1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,58 | 1 | 1,04 |
+|  |  | Redusert jordbearbeiding | Lav | 0,58 | 1,09 | 0,95 |
+|  |  |  | Middels | 0,58 | 1,09 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,58 | 1,09 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,58 | 1,09 | 1,04 |
+|  |  | Ingen jordbearbeiding | Lav | 0,58 | 1,17 | 0,95 |
+|  |  |  | Middels | 0,58 | 1,17 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,58 | 1,17 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,58 | 1,17 | 1,04 |
+| Tropisk fuktig/vått klima | Dyrket | Omfattende jordbearbeiding | Lav | 0,48 | 1 | 0,92 |
+|  |  |  | Middels | 0,48 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,48 | 1 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,48 | 1 | 1,11 |
+|  |  | Redusert jordbearbeiding | Lav | 0,48 | 1,15 | 0,92 |
+|  |  |  | Middels | 0,48 | 1,15 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,48 | 1,15 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,48 | 1,15 | 1,11 |
+|  |  | Ingen jordbearbeiding | Lav | 0,48 | 1,22 | 0,92 |
+|  |  |  | Middels | 0,48 | 1,22 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,48 | 1,22 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,48 | 1,22 | 1,11 |
+| Tropisk fjellklima | Dyrket | Omfattende jordbearbeiding | Lav | 0,64 | 1 | 0,94 |
+|  |  |  | Middels | 0,64 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,64 | 1 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,64 | 1 | 1,08 |
+|  |  | Redusert jordbearbeiding | Lav | 0,64 | 1,09 | 0,94 |
+|  |  |  | Middels | 0,64 | 1,09 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,64 | 1,09 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,64 | 1,09 | 1,08 |
+|  |  | Ingen jordbearbeiding | Lav | 0,64 | 1,16 | 0,94 |
+|  |  |  | Middels | 0,64 | 1,16 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 0,64 | 1,16 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 0,64 | 1,16 | 1,08 |
+
+Tabell 3 inneholder retningslinjer for valg av egnede verdier fra tabell 2 og 4.
 
 ### Tabell 3
 Retningslinjer for forvaltning og tilførsel for dyrket mark og flerårige vekster
 
+| *Forvaltning/tilførsel* | *Retningslinjer* |
+| --- | --- |
+| Omfattende jordbearbeiding | Vesentlig forstyrrelse av jorden med fullstendig vending og/eller hyppig jordbearbeiding (i løpet av ett år). På plantetidspunktet er bare en liten del (f.eks. < 30 %) av overflaten dekket av rester. |
+| Redusert jordbearbeiding | Primær og/eller sekundær jordbearbeiding, men med redusert forstyrrelse av jorden (vanligvis på liten dybde og uten fullstendig vending av jorden). På plantetidspunktet er normalt > 30 % av overflaten dekket av rester. |
+| Ingen jordbearbeiding | Direktesåing uten primær jordbearbeiding, og bare med minimal forstyrrelse av jorden i området hvor det sås. Til bekjempelse av ugress brukes normalt ugressmidler. |
+| Lav | Lav tilbakeføring av rester på grunn av fjerning av rester (oppsamling eller brenning), hyppig brakklegging, produksjon av avlinger som gir liten mengde rester (f.eks. grønnsaker, tobakk, bomull), ingen bruk av mineralgjødsel eller nitrogenbindende vekster. |
+| Middels | Typisk for ettårige avlinger av korn, hvor alle avlingsrester føres tilbake til åkeren. Dersom rester fjernes, tilføres supplerende organisk materiale (f.eks. husdyrgjødsel). Krever også bruk av mineralgjødsel eller nitrogenbindende vekster i vekselbruk. |
+| Høy, med husdyrgjødsel | Betydelig høyere karbontilførsel enn for dyrkingssystemer med middels høy karbontilførsel, på grunn av ytterligere regelmessig tilførsel av husdyrgjødsel. |
+| Høy, uten husdyrgjødsel | Representerer betydelig større tilførsel av avlingsrester enn for dyrkingssystemer med middels høy karbontilførsel, noe som skyldes ytterligere tiltak, som produksjon av avlinger som gir store mengder rester, bruk av grønngjødsel, dekkvekster, brakkmark med forbedret vegetasjon, vanning, hyppig bruk av flerårig gress i ettårig vekselbruk, men uten bruk av husdyrgjødsel (se delen ovenfor). |
+
+7.2.*Flerårige vekster*
+
 ### Tabell 4
 Faktorer for flerårige vekster, dvs. vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omløpstid og oljepalmer
+
+| *Klimasone* | *Arealbruk* (*FLU*) | *Forvaltning* (*FMG*) | *Tilførsel* (*FI*) | *FLU* | *FMG* | *FI* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Temperert/borealt tørt klima | Flerårige vekster | Omfattende jordbearbeiding | Lav | 1 | 1 | 0,95 |
+|  |  |  | Middels | 1 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1 | 1,04 |
+|  |  | Redusert jordbearbeiding | Lav | 1 | 1,02 | 0,95 |
+|  |  |  | Middels | 1 | 1,02 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,02 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,02 | 1,04 |
+|  |  | Ingen jordbearbeiding | Lav | 1 | 1,1 | 0,95 |
+|  |  |  | Middels | 1 | 1,1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,1 | 1,04 |
+| Temperert/borealt, fuktig/vått klima | Flerårige vekster | Omfattende jordbearbeiding | Lav | 1 | 1 | 0,92 |
+|  |  |  | Middels | 1 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1 | 1,11 |
+|  |  | Redusert jordbearbeiding | Lav | 1 | 1,08 | 0,92 |
+|  |  |  | Middels | 1 | 1,08 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,08 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,08 | 1,11 |
+|  |  | Ingen jordbearbeiding | Lav | 1 | 1,15 | 0,92 |
+|  |  |  | Middels | 1 | 1,15 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,15 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,15 | 1,11 |
+| Tropisk tørt klima | Flerårige vekster | Omfattende jordbearbeiding | Lav | 1 | 1 | 0,95 |
+|  |  |  | Middels | 1 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1 | 1,04 |
+|  |  | Redusert jordbearbeiding | Lav | 1 | 1,09 | 0,95 |
+|  |  |  | Middels | 1 | 1,09 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,09 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,09 | 1,04 |
+|  |  | Ingen jordbearbeiding | Lav | 1 | 1,17 | 0,95 |
+|  |  |  | Middels | 1 | 1,17 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,17 | 1,37 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,17 | 1,04 |
+| Tropisk fuktig/vått klima | Flerårige vekster | Omfattende jordbearbeiding | Lav | 1 | 1 | 0,92 |
+|  |  |  | Middels | 1 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1 | 1,11 |
+|  |  | Redusert jordbearbeiding | Lav | 1 | 1,15 | 0,92 |
+|  |  |  | Middels | 1 | 1,15 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,15 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,15 | 1,11 |
+|  |  | Ingen jordbearbeiding | Lav | 1 | 1,22 | 0,92 |
+|  |  |  | Middels | 1 | 1,22 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,22 | 1,44 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,22 | 1,11 |
+| Tropisk fjellklima | Flerårige vekster | Omfattende jordbearbeiding | Lav | 1 | 1 | 0,94 |
+|  |  |  | Middels | 1 | 1 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1 | 1,08 |
+|  |  | Redusert jordbearbeiding | Lav | 1 | 1,09 | 0,94 |
+|  |  |  | Middels | 1 | 1,09 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,09 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,09 | 1,08 |
+|  |  | Ingen jordbearbeiding | Lav | 1 | 1,16 | 0,94 |
+|  |  |  | Middels | 1 | 1,16 | 1 |
+|  |  |  | Høy, med husdyrgjødsel | 1 | 1,16 | 1,41 |
+|  |  |  | Høy, uten husdyrgjødsel | 1 | 1,16 | 1,08 |
+
+Tabell 3 i nr. 7.1 inneholder retningslinjer for valg av egnede verdier fra tabell 4.
+
+7.3.*Gressmark*
 
 ### Tabell 5
 Faktorer for gressmark, herunder savanner
 
+| *Klimasone* | *Arealbruk* (*FLU*) | *Forvaltning* (*FMG*) | *Tilførsel* (*FI*) | *FLU* | *FMG* | *FI* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Temperert/borealt tørt klima | Gressmark | Forbedret | Middels | 1 | 1,14 | 1 |
+|  |  |  | Høy | 1 | 1,14 | 1,11 |
+|  |  | Minimalt forvaltet | Middels | 1 | 1 | 1 |
+|  |  | Moderat forringet | Middels | 1 | 0,95 | 1 |
+|  |  | Kraftig forringet | Middels | 1 | 0,7 | 1 |
+| Temperert/borealt, fuktig/vått klima | Gressmark | Forbedret | Middels | 1 | 1,14 | 1 |
+|  |  |  | Høy | 1 | 1,14 | 1,11 |
+|  |  | Minimalt forvaltet | Middels | 1 | 1 | 1 |
+|  |  | Moderat forringet | Middels | 1 | 0,95 | 1 |
+|  |  | Kraftig forringet | Middels | 1 | 0,7 | 1 |
+| Tropisk tørt klima | Gressmark | Forbedret | Middels | 1 | 1,17 | 1 |
+|  |  |  | Høy | 1 | 1,17 | 1,11 |
+|  |  | Minimalt forvaltet | Middels | 1 | 1 | 1 |
+|  |  | Moderat forringet | Middels | 1 | 0,97 | 1 |
+|  |  | Kraftig forringet | Middels | 1 | 0,7 | 1 |
+| Tropisk fuktig/vått klima | Savanne | Forbedret | Middels | 1 | 1,17 | 1 |
+|  |  |  | Høy | 1 | 1,17 | 1,11 |
+|  |  | Minimalt forvaltet | Middels | 1 | 1 | 1 |
+|  |  | Moderat forringet | Middels | 1 | 0,97 | 1 |
+|  |  | Kraftig forringet | Middels | 1 | 0,7 | 1 |
+| Tropisk tørt fjellklima | Gressmark | Forbedret | Middels | 1 | 1,16 | 1 |
+|  |  |  | Høy | 1 | 1,16 | 1,11 |
+|  |  | Minimalt forvaltet | Middels | 1 | 1 | 1 |
+|  |  | Moderat forringet | Middels | 1 | 0,96 | 1 |
+|  |  | Kraftig forringet | Middels | 1 | 0,7 | 1 |
+
+Tabell 6 inneholder retningslinjer for valg av egnede verdier fra tabell 5.
+
 ### Tabell 6
 Retningslinjer for forvaltning og tilførsel for gressmark
+
+| *Forvaltning/tilførsel* | *Retningslinjer* |
+| --- | --- |
+| Forbedret | Representerer gressmark som forvaltes på en bærekraftig måte med moderat beitetrykk, og som er gjenstand for minst ett forbedringstiltak (f.eks. gjødsling, artsforbedring, vanning). |
+| Minimalt forvaltet | Representerer ikke-forringet og bærekraftig forvaltet gressmark, men uten vesentlige forvaltningsforbedringer. |
+| Moderat forringet | Representerer overbeitet eller moderat forringet gressmark med noe redusert produktivitet (i forhold til opprinnelig eller minimalt forvaltet gressmark), som ikke får tilførsel gjennom forvaltning. |
+| Kraftig forringet | Innebærer stort langvarig tap av produktivitet og plantedekke som følge av alvorlig mekanisk skade på vegetasjonen og/eller alvorlig jorderosjon. |
+| Middels | Gjelder dersom det ikke er utført ytterligere tilførsler gjennom forvaltning. |
+| Høy | Gjelder for forbedret gressmark hvor det er utført en eller flere ytterligere tilførsler/forbedringer gjennom forvaltning (utover det som kreves for klassifisering som forbedret gressmark). |
+
+7.4.*Skogarealer*
 
 ### Tabell 7
 Faktorer for skogarealer med en trekronedekning på minst 10 %
 
+| *Klimasone* | *Arealbruk*<br>(*FLU*) | *Forvaltning*<br>(*FMG*) | *Tilførsel*<br>(*FI*) | *FLU* | *FMG* | *FI* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alle | Naturskog (ikke-forringet) | Ikke relevant1 | Ikke relevant | 1 |  |  |
+| Alle | Forvaltet skog | Alle | Alle | 1 | 1 | 1 |
+| Tropisk fuktig/tørt klima | Svedjebruk – kort brakkleggingstid | Ikke relevant | Ikke relevant | 0,64 |  |  |
+|  | Svedjebruk – full brakkleggingstid | Ikke relevant | Ikke relevant | 0,8 |  |  |
+| Temperert/ borealt, fuktig/tørt klima | Svedjebruk – kort brakkleggingstid | Ikke relevant | Ikke relevant | 1 |  |  |
+|  | Svedjebruk – full brakkleggingstid | Ikke relevant | Ikke relevant | 1 |  |  |
+
+1 I disse tilfellene skal *FMG*og *FI* ikke brukes, og for beregning av *SOC* kan følgende formel brukes: *SOC = SOC ST*× *F LU*.
+
+Tabell 8 inneholder retningslinjer for valg av egnede verdier fra tabell 7.
+
 ### Tabell 8
 Retningslinjer for arealbruk for skogarealer
+
+| *Arealbruk* | *Retningslinjer* |
+| --- | --- |
+| Naturskog (ikke-forringet) | Representerer naturskog eller langsiktig, ikke-forringet og bærekraftig forvaltet skog. |
+| Svedjebruk | Permanent svedjebruk, hvor tropisk skog eller skogarealer ryddes for dyrking av ettårige vekster i en kort periode (f.eks. 3-5 år) og deretter får vokse til igjen. |
+| Full brakkleggingstid | Representerer situasjoner hvor skogvegetasjonen innhenter seg fullstendig eller nesten fullstendig før den ryddes på nytt for å brukes som dyrket mark. |
+| Kort brakkleggingstid | Representerer situasjoner hvor skogvegetasjonen ikke innhenter seg innen den ryddes på nytt. |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### 8. Verdier for karbonlager i vegetasjon over og under jord
 
+For *CVEG*eller *R* kan de egnede verdiene i dette nummer brukes.
+
+8.1.*Dyrket mark*
+
 ### Tabell 9
 Vegetasjonsverdier for dyrket mark (generelt)
+
+| *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- |
+| Alle | 0 |
 
 ### Tabell 10
 Vegetasjonsverdier for sukkerrør (spesifikt)
 
+| *Sone* | *Klimasone* | *Miljøsone* | *Kontinent* | *CVEG* *(tonn karbon per hektar)* |
+| --- | --- | --- | --- | --- |
+| Tropisk | Tropisk tørt klima | Tropisk tørr skog | Afrika | 4,2 |
+|  |  |  | Asia (kontinent, øyer) | 4 |
+|  |  | Tropisk krattmark | Asia (kontinent, øyer) | 4 |
+|  | Tropisk fuktig klima | Tropisk fuktig løvskog | Afrika | 4,2 |
+|  |  |  | Mellom- og Sør-Amerika | 5 |
+|  | Tropisk vått klima | Tropisk regnskog | Asia (kontinent, øyer) | 4 |
+|  |  |  | Mellom- og Sør-Amerika | 5 |
+| Subtropisk | Varmtemperert tørt klima | Subtropisk steppe | Nord-Amerika | 4,8 |
+|  | Varmtemperert fuktig klima | Subtropisk fuktig skog | Mellom- og Sør-Amerika | 5 |
+|  |  |  | Nord-Amerika | 4,8 |
+
+8.2.*Flerårige vekster, dvs. vekster med en stamme som vanligvis ikke høstes hvert år, som småskog med kort omløpstid og oljepalmer*
+
 ### Tabell 11
 Vegetasjonsverdier for flerårige vekster (generelt)
+
+| *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- |
+| Temperert klima (alle fuktighetsgrader) | 43,2 |
+| Tropisk tørt klima | 6,2 |
+| Tropisk fuktig klima | 14,4 |
+| Tropisk vått klima | 34,3 |
 
 ### Tabell 12
 Vegetasjonsverdier for visse flerårige vekster
 
+| *Klimasone* | *Veksttype* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- | --- |
+| Alle | Kokosnøtt | 75 |
+|  | Jatropha | 17,5 |
+|  | Jojoba | 2,4 |
+|  | Oljepalme | 60 |
+
+8.3.*Gressmark*
+
 ### Tabell 13
 Vegetasjonsverdier for gressmark, unntatt krattmark (generelt)
+
+| *Klimasone* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- |
+| Borealt tørt og vått klima | 4,3 |
+| Kaldtemperert tørt klima | 3,3 |
+| Kaldtemperert vått klima | 6,8 |
+| Varmtemperert tørt klima | 3,1 |
+| Varmtemperert vått klima | 6,8 |
+| Tropisk tørt klima | 4,4 |
+| Tropisk fuktig og vått klima | 8,1 |
 
 ### Tabell 14
 Vegetasjonsverdier for Miscanthus (spesifikt)
 
+| *Sone* | *Klimasone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- | --- | --- | --- |
+| Subtropisk | Varmtemperert tørt klima | Subtropisk tørr skog | Europa | 10 |
+|  |  |  | Nord-Amerika | 14,9 |
+|  |  | Subtropisk steppe | Nord-Amerika | 14,9 |
+
 ### Tabell 15
 Vegetasjonsverdier for krattmark, dvs. områder med vegetasjon som hovedsaklig består av vedaktige planter som er lavere enn 5 meter, og som ikke entydig har samme kjennetegn som trær
+
+| *Sone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- | --- |
+| Tropisk | Afrika | 46 |
+|  | Nord- og Sør-Amerika | 53 |
+|  | Asia (kontinent) | 39 |
+|  | Asia (øyer) | 46 |
+|  | Australia | 46 |
+| Subtropisk | Afrika | 43 |
+|  | Nord- og Sør-Amerika | 50 |
+|  | Asia (kontinent) | 37 |
+|  | Europa | 37 |
+|  | Asia (øyer) | 43 |
+| Temperert | Globalt | 7,4 |
+
+8.4.*Skogarealer*
 
 ### Tabell 16
 Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekning på mellom 10 % og 30 %
 
+| *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* | *R* |
+| --- | --- | --- | --- | --- |
+| Tropisk | Tropisk regnskog | Afrika | 40 | 0,37 |
+|  |  | Nord- og Sør-Amerika | 39 | 0,37 |
+|  |  | Asia (kontinent) | 36 | 0,37 |
+|  |  | Asia (øyer) | 45 | 0,37 |
+|  | Tropisk fuktig skog | Afrika | 30 | 0,24 |
+|  |  | Nord- og Sør-Amerika | 26 | 0,24 |
+|  |  | Asia (kontinent) | 21 | 0,24 |
+|  |  | Asia (øyer) | 34 | 0,24 |
+|  | Tropisk tørr skog | Afrika | 14 | 0,28 |
+|  |  | Nord- og Sør-Amerika | 25 | 0,28 |
+|  |  | Asia (kontinent) | 16 | 0,28 |
+|  |  | Asia (øyer) | 19 | 0,28 |
+|  | Tropiske fjellområder | Afrika | 13 | 0,24 |
+|  |  | Nord- og Sør-Amerika | 17 | 0,24 |
+|  |  | Asia (kontinent) | 16 | 0,24 |
+|  |  | Asia (øyer) | 26 | 0,28 |
+| Subtropisk | Subtropisk fuktig skog | Nord- og Sør-Amerika | 26 | 0,28 |
+|  |  | Asia (kontinent) | 22 | 0,28 |
+|  |  | Asia (øyer) | 35 | 0,28 |
+|  | Subtropisk tørr skog | Afrika | 17 | 0,28 |
+|  |  | Nord- og Sør-Amerika | 26 | 0,32 |
+|  |  | Asia (kontinent) | 16 | 0,32 |
+|  |  | Asia (øyer) | 20 | 0,32 |
+|  | Subtropisk steppe | Afrika | 9 | 0,32 |
+|  |  | Nord- og Sør-Amerika | 10 | 0,32 |
+|  |  | Asia (kontinent) | 7 | 0,32 |
+|  |  | Asia (øyer) | 9 | 0,32 |
+| Temperert | Temperert oseanisk skog | Europa | 14 | 0,27 |
+|  |  | Nord-Amerika | 79 | 0,27 |
+|  |  | New Zealand | 43 | 0,27 |
+|  |  | Sør-Amerika | 21 | 0,27 |
+|  | Temperert kontinental skog | Asia, Europa (≤ 20 år) | 2 | 0,27 |
+|  |  | Asia, Europa (> 20 år) | 14 | 0,27 |
+|  |  | Nord- og Sør-Amerika (≤ 20 år) | 7 | 0,27 |
+|  |  | Nord- og Sør-Amerika (> 20 år) | 16 | 0,27 |
+|  | Tempererte fjellområder | Asia, Europa (≤ 20 år) | 12 | 0,27 |
+|  |  | Asia, Europa (> 20 år) | 16 | 0,27 |
+|  |  | Nord- og Sør-Amerika (≤ 20 år) | 6 | 0,27 |
+|  |  | Nord- og Sør-Amerika (> 20 år) | 6 | 0,27 |
+| Borealt | Boreal barskog | Asia, Europa, Nord-Amerika | 12 | 0,24 |
+|  | Boreal tundraskog | Asia, Europa, Nord-Amerika (≤ 20 år) | 0 | 0,24 |
+|  |  | Asia, Europa, Nord-Amerika (> 20 år) | 2 | 0,24 |
+|  | Boreale fjellområder | Asia, Europa, Nord-Amerika (≤ 20 år) | 2 | 0,24 |
+|  |  | Asia, Europa, Nord-Amerika (> 20 år) | 6 | 0,24 |
+
 ### Tabell 17
 Vegetasjonsverdier for skogarealer (unntatt skogbeplantning) med en trekronedekning på over 30 %
 
+| *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* |
+| --- | --- | --- | --- |
+| Tropisk | Tropisk regnskog | Afrika | 204 |
+|  |  | Nord- og Sør-Amerika | 198 |
+|  |  | Asia (kontinent) | 185 |
+|  |  | Asia (øyer) | 230 |
+|  | Tropisk fuktig løvskog | Afrika | 156 |
+|  |  | Nord- og Sør-Amerika | 133 |
+|  |  | Asia (kontinent) | 110 |
+|  |  | Asia (øyer) | 174 |
+|  | Tropisk tørr skog | Afrika | 77 |
+|  |  | Nord- og Sør-Amerika | 131 |
+|  |  | Asia (kontinent) | 83 |
+|  |  | Asia (øyer) | 101 |
+|  | Tropiske fjellområder | Afrika | 77 |
+|  |  | Nord- og Sør-Amerika | 94 |
+|  |  | Asia (kontinent) | 88 |
+|  |  | Asia (øyer) | 130 |
+| Subtropisk | Subtropisk fuktig skog | Nord- og Sør-Amerika | 132 |
+|  |  | Asia (kontinent) | 109 |
+|  |  | Asia (øyer) | 173 |
+|  | Subtropisk tørr skog | Afrika | 88 |
+|  |  | Nord- og Sør-Amerika | 130 |
+|  |  | Asia (kontinent) | 82 |
+|  |  | Asia (øyer) | 100 |
+|  | Subtropisk steppe | Afrika | 46 |
+|  |  | Nord- og Sør-Amerika | 53 |
+|  |  | Asia (kontinent) | 41 |
+|  |  | Asia (øyer) | 47 |
+| Temperert | Temperert oseanisk skog | Europa | 84 |
+|  |  | Nord-Amerika | 406 |
+|  |  | New Zealand | 227 |
+|  |  | Sør-Amerika | 120 |
+|  | Temperert kontinental skog | Asia, Europa (≤ 20 år) | 27 |
+|  |  | Asia, Europa (> 20 år) | 87 |
+|  |  | Nord- og Sør-Amerika (≤ 20 år) | 51 |
+|  |  | Nord- og Sør-Amerika (> 20 år) | 93 |
+|  | Tempererte fjellområder | Asia, Europa (≤ 20 år) | 75 |
+|  |  | Asia, Europa (> 20 år) | 93 |
+|  |  | Nord- og Sør-Amerika (≤ 20 år) | 45 |
+|  |  | Nord- og Sør-Amerika (> 20 år) | 93 |
+| Borealt | Boreal barskog | Asia, Europa, Nord-Amerika | 53 |
+|  | Boreal tundraskog | Asia, Europa, Nord-Amerika (≤ 20 år) | 26 |
+|  | Boreale fjellområder | Asia, Europa, Nord-Amerika (> 20 år) | 35 |
+|  |  | Asia, Europa, Nord-Amerika (≤ 20 år) | 32 |
+|  |  | Asia, Europa, Nord-Amerika (> 20 år) | 53 |
+
 ### Tabell 18
 Vegetasjonsverdier for skogbeplantning
+
+| *Sone* | *Miljøsone* | *Kontinent* | *CVEG*<br>*(tonn karbon per hektar)* | *R* |
+| --- | --- | --- | --- | --- |
+| Tropisk | Tropisk regnskog | Afrika, løvtrær > 20 år | 87 | 0,24 |
+|  |  | Afrika, løvtrær ≤ 20 år | 29 | 0,24 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 58 | 0,24 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 17 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 58 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 87 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 70 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 44 | 0,24 |
+|  |  | Asia, løvtrær | 64 | 0,24 |
+|  |  | Asia, annet | 38 | 0,24 |
+|  | Tropisk fuktig løvskog | Afrika, løvtrær > 20 år | 44 | 0,24 |
+|  |  | Afrika, løvtrær ≤ 20 år | 23 | 0,24 |
+|  |  | ≤ 20 år Afrika, *Pinus* sp. > 20 år | 35 | 0,24 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 12 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 26 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 79 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 35 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 29 | 0,24 |
+|  |  | Asia, løvtrær | 52 | 0,24 |
+|  |  | Asia, annet | 29 | 0,24 |
+|  | Tropisk tørr skog | Afrika, løvtrær > 20 år | 21 | 0,28 |
+|  |  | Afrika, løvtrær ≤ 20 år | 9 | 0,28 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 18 | 0,28 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 6 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 27 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 33 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 27 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 18 | 0,28 |
+|  |  | Asia, løvtrær | 27 | 0,28 |
+|  |  | Asia, annet | 18 | 0,28 |
+|  | Tropisk buskmark | Afrika, løvtrær | 6 | 0,27 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 6 | 0,27 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 4 | 0,27 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 18 | 0,27 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 18 | 0,27 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 15 | 0,27 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 9 | 0,27 |
+|  |  | Asia, løvtrær | 12 | 0,27 |
+|  |  | Asia, annet | 9 | 0,27 |
+|  | Tropiske fjellområder | Afrika, løvtrær > 20 år | 31 | 0,24 |
+|  |  | Afrika, løvtrær ≤ 20 år | 20 | 0,24 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 19 | 0,24 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 7 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 22 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 29 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 23 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 16 | 0,24 |
+|  |  | Asia, løvtrær | 28 | 0,24 |
+|  |  | Asia, annet | 15 | 0,24 |
+| Subtropisk | Subtropisk fuktig skog | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 42 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 81 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 36 | 0,28 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 30 | 0,28 |
+|  |  | Asia, løvtrær | 54 | 0,28 |
+|  |  | Asia, annet | 30 | 0,28 |
+|  | Subtropisk tørr skog | Afrika, løvtrær > 20 år | 21 | 0,28 |
+|  |  | Afrika, løvtrær ≤ 20 år | 9 | 0,32 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 19 | 0,32 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 6 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 34 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 34 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 28 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 19 | 0,32 |
+|  |  | Asia, løvtrær | 28 | 0,32 |
+|  |  | Asia, annet | 19 | 0,32 |
+|  | Subtropisk steppe | Afrika, løvtrær | 6 | 0,32 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 6 | 0,32 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 5 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 19 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 19 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 16 | 0,32 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 9 | 0,32 |
+|  |  | Asia, løvtrær > 20 år | 25 | 0,32 |
+|  |  | Asia, løvtrær ≤ 20 år | 3 | 0,32 |
+|  |  | Asia, barskog > 20 år | 6 | 0,32 |
+|  |  | Asia, barskog ≤ 20 år | 34 | 0,32 |
+|  | Subtropiske fjellområder | Afrika, løvtrær > 20 år | 31 | 0,24 |
+|  |  | Afrika, løvtrær ≤ 20 år | 20 | 0,24 |
+|  |  | Afrika, *Pinus* sp. > 20 år | 19 | 0,24 |
+|  |  | Afrika *Pinus* sp. ≤ 20 år | 7 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Eucalyptus* sp. | 22 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Pinus* sp. | 34 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, *Tectona grandis* | 23 | 0,24 |
+|  |  | Nord-, Mellom- og Sør-Amerika, andre løvtrær | 16 | 0,24 |
+|  |  | Asia, løvtrær | 28 | 0,24 |
+|  |  | Asia, annet | 15 | 0,24 |
+| Temperert | Temperert oseanisk skog | Asia, Europa, løvskog > 20 år | 60 | 0,27 |
+|  |  | Asia, Europa, løvskog ≤ 20 år | 9 | 0,27 |
+|  |  | Asia, Europa, barskog > 20 år | 60 | 0,27 |
+|  |  | Asia, Europa, barskog ≤ 20 år | 12 | 0,27 |
+|  |  | Nord-Amerika | 52 | 0,27 |
+|  |  | New Zealand | 75 | 0,27 |
+|  |  | Sør-Amerika | 31 | 0,27 |
+|  | Temperert kontinental skog og tempererte fjellområder | Asia, Europa, løvskog > 20 år | 60 | 0,27 |
+|  |  | Asia, Europa, løvskog ≤ 20 år | 4 | 0,27 |
+|  |  | Asia, Europa, barskog > 20 år | 52 | 0,27 |
+|  |  | Asia, Europa, barskog ≤ 20 år | 7 | 0,27 |
+|  |  | Nord-Amerika | 52 | 0,27 |
+|  |  | Sør-Amerika | 31 | 0,27 |
+| Borealt | Boreal barskog og boreale fjellområder | Asia, Europa > 20 år | 12 | 0,24 |
+|  |  | Asia, Europa ≤ 20 år | 1 | 0,24 |
+|  |  | Nord-Amerika | 13 | 0,24 |
+|  | Boreal tundraskog | Asia, Europa > 20 år | 7 | 0,24 |
+|  |  | Asia, Europa ≤ 20 år | 1 | 0,24 |
+|  |  | Nord-Amerika | 7 | 0,24 |
 
 > Tilføyd ved [forskrift 11 sep 2013 nr. 1122](forskrift/2013-09-11-1122) (i kraft 1 jan 2014).
 
 ### Vedlegg V. Råstoff som gir grunnlag for medregning i delkrav og dobbeltelling av biodrivstoff
 
 > Overskriften endret ved forskrift [11 des 2025 nr. 2608](forskrift/2025-12-11-2608) (i kraft 1 jan 2026).
+
+A. Råstoff fra vedlegg IX del A til direktiv [2009/28/EF](eu/32009l0028):
 
 1. alger dersom de dyrkes på land i dammer eller fotobioreaktorer
 2. biomassefraksjon av blandet kommunalt avfall, men ikke sortert husholdningsavfall som omfattes av gjenvinningsmålene i artikkel 11 nr. 2 bokstav a) i direktiv [2008/98/EF](eu/32008l0098)
@@ -1356,12 +2532,22 @@ Vegetasjonsverdier for skogbeplantning
 17. annet lignocellulosemateriale som definert i [§ 3-2](forskrift/2004-06-01-922/§3-2) bokstav f), unntatt sag- og finértømmer
 18. bakterier, dersom energikilden er fornybar i samsvar med artikkel 2 annet ledd bokstav a) i direktiv [2009/28/EF](eu/32009l0028).
 
+B. Råstoff fra vedlegg IX del B til direktiv [2009/28/EF](eu/32009l0028):
+
 1. brukt matolje.
 2. animalsk fett klassifisert som kategori 1 og 2 i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
 
 > Tilføyd ved [forskrift 21 nov 2018 nr. 1731](forskrift/2018-11-21-1731).
 
 ### Vedlegg VI. Utslipp fra indirekte arealbruksendringer
+
+A. Foreløpig beregnede utslipp fra indirekte arealbruksendringer knyttet til råstoff til biodrivstoff og flytende biobrensler (gCO2eq/MJ).
+
+| *Råstoffgruppe* | *Gjennomsnitt* | *Interprosentilområdet utledet av følsomhetsanalysen* |
+| --- | --- | --- |
+| Korn og andre stivelsesrike vekster | 12 | 8–16 |
+| Sukkerarter | 13 | 4–17 |
+| Oljeholdige vekster | 55 | 33–66 |
 
 Gjennomsnittsverdiene angitt over utgjør et veid gjennomsnitt av de individuelt modellberegnede råstoffverdiene. Størrelsen på verdiene i vedlegget er følsom for rekken av antakelser (f.eks. behandling av biprodukter, avkastningens utvikling, karbonlagre og forskyvning av andre råvarer) som brukes i de økonomiske modellene utarbeidet med henblikk på beregning av dem. Selv om det derfor ikke er mulig fullt ut å definere usikkerhetsmarginen forbundet med slike beregninger, ble det utført en følsomhetsanalyse av resultatene på grunnlag av en tilfeldig variasjon i nøkkelparametrer, en såkalt Monte Carlo-analyse.
 
@@ -1376,6 +2562,8 @@ Biodrivstoff og flytende biobrensler produsert av følgende råstoffkategorier a
 ### Forordninger
 
 Nedenfor gjengis uoffisiell norsk oversettelse av forordning [(EU) nr. 1307/2014](eu/32014r1307).
+
+Forordning [(EU) nr. 1307/2014](eu/32014r1307) [(pdf)](static/SF/32014r1307u-01.pdf)
 
 Oversettelsen er uoffisiell.
 
@@ -1483,11 +2671,19 @@ Miljødirektoratet er ansvarlig myndighet etter forordningene.
 
 Nedenfor gjengis EØS-avtalen vedlegg XX kapittel III nr. 21aa (forordning [(EF) nr. 1005/2009](eu/32009r1005), forordning [(EU) nr. 744/2010](eu/32010r0744) og forordning [(EU) nr. 1087/2013](eu/32013r1087)) og nr. 21aaa (forordning [(EU) nr. 291/2011](eu/32011r0291)).
 
-Engelsk versjon.
+For å lese forordning [(EF) nr. 1005/2009](eu/32009r1005) se her: [(pdf)](static/SF/32009r1005e.pdf)
 
 Engelsk versjon.
 
+For å lese forordning [(EU) nr. 744/2010](eu/32010r0744) se her: [(pdf)](static/SF/32010r0744e.pdf)
+
 Engelsk versjon.
+
+For å lese forordning [(EU) nr. 291/2011](eu/32011r0291) se her: [(pdf)](static/SF/32011r0291e.pdf)
+
+Engelsk versjon.
+
+For å lese forordning [(EU) nr. 1087/2013](eu/32013r1087) se her: [(pdf)](static/SF/32013r1087u.pdf)
 
 Uoffisiell norsk oversettelse.
 
@@ -1551,9 +2747,19 @@ For ileggelse av overtredelsesgebyr gjelder bestemmelsene i kapittel 6b.
 
 ### Vedlegg 1
 
-Nedfasingsplan for import av HFK til Norge:*Utregning av basisnivå**Gjennomsnittlig forbruksnivå av HFK i 2011–2013*1. trinnFra og med 2019 – 10 prosent reduksjon i forhold til basisnivå2. trinnFra og med 2024 – 40 prosent reduksjon i forhold til basisnivå3. trinnFra og med 2029 – 70 prosent reduksjon i forhold til basisnivå4. trinnFra og med 2034 – 80 prosent reduksjon i forhold til basisnivåPlatåFra og med 2036 – 85 prosent reduksjon i forhold til basisnivå
+Nedfasingsplan for import av HFK til Norge:
+
+| *Utregning av basisnivå* | *Gjennomsnittlig forbruksnivå av HFK i 2011–2013* |
+| --- | --- |
+| 1. trinn | Fra og med 2019 – 10 prosent reduksjon i forhold til basisnivå |
+| 2. trinn | Fra og med 2024 – 40 prosent reduksjon i forhold til basisnivå |
+| 3. trinn | Fra og med 2029 – 70 prosent reduksjon i forhold til basisnivå |
+| 4. trinn | Fra og med 2034 – 80 prosent reduksjon i forhold til basisnivå |
+| Platå | Fra og med 2036 – 85 prosent reduksjon i forhold til basisnivå |
 
 Forbruk er lik importert mengde HFK i bulk minus eksportert mengde HFK i bulk, angitt i CO2-ekvivalenter.
+
+*Tildelingskriterier:*Virksomheter som har dokumentert import av HFK i referanseperioden for tildeling kan tildeles sin relative andel av 89 % av den totale importkvoten for kommende år.Nye virksomheter som ønsker å importere HFK (som ikke har dokumentert import i referanseperioden) og virksomheter med dokumentert import i referanseperioden som har økt behov for import av HFK, kan tildeles en forholdsmessig del av de resterende 11 % av den totale importkvoten.Importkvoter tildeles iht. forordning [(EU) nr. 517/2014](eu/32014r0517) vedlegg VI.Referanseperioden for tildeling for årene 2019–2023 er årene 2015 til og med år 2017.Referanseperioden for tildeling for årene 2024–2028 er årene 2020 til og med år 2022.Referanseperioden for tildeling for årene 2029–2033 er årene 2025 til og med år 2027.Referanseperioden for tildeling for årene 2034–2036 er årene 2030 til og med år 2032.
 
 > Tilføyd ved [forskrift 6 mai 2010 nr. 722](forskrift/2010-05-06-722), endret ved [forskrift 14 des 2018 nr. 2032](forskrift/2018-12-14-2032).
 
@@ -1561,33 +2767,53 @@ Forbruk er lik importert mengde HFK i bulk minus eksportert mengde HFK i bulk, a
 
 Nedenfor gjengis forordning [(EU) nr. 517/2014](eu/32014r0517) om fluorholdige gasser, forordning [(EU) 2015/2065](eu/32015r2065) om format for rapportering av sertifiseringsprogrammer, forordning [(EU) 2015/2066](eu/32015r2066) om sertifisering av personell som utfører arbeid på elektriske brytere med fluorholdige klimagasser, forordning [(EU) 2015/2067](eu/32015r2067) om sertifisering vedr. kjøleanlegg, forordning [(EU) 2015/2068](eu/32015r2068) om merking av produkter og utstyr, forordning [(EF) nr. 1497/2007](eu/32007r1497) om lekkasjekontroll ved stasjonære brannslukkingsanlegg, forordning [(EF) nr. 1516/2007](eu/32007r1516) om lekkasjekontroll ved kjøleanlegg, forordning [(EF) nr. 304/2008](eu/32008r0304) om sertifisering vedr. stasjonære brannslukkingsanlegg, forordning [(EF) nr. 306/2008](eu/32008r0306*) om sertifisering vedr. løsemidler, forordning [(EF) nr. 307/2008](eu/32008r0307) om opplæringsbevis vedr. luftkondisjoneringsanlegg i biler.
 
+*Forordning [(EU) nr. 517/2014](eu/32014r0517)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32014r0517u-02.pdf)
 
 Uoffisiell oversettelse.
+
+*Forordning [(EU) 2015/2065](eu/32015r2065)*
 
 For å lese forordningen se her: [(pdf)](static/SF/32015r2065e-01.pdf)
 
 Engelsk versjon.
 
+*Forordning [(EU) nr. 2015/2066](eu/32015r2066)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32015r2066e-01.pdf)
 
 Engelsk versjon.
+
+*Forordning [(EU) 2015/2067](eu/32015r2067)*
 
 For å lese forordningen se her: [(pdf)](static/SF/32015r2067e-01.pdf)
 
 Engelsk versjon.
 
+*Forordning [(EU) 2015/2068](eu/32015r2068)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32015r2068e-01.pdf)
 
 Engelsk versjon.
 
+*Forordning [(EF) nr. 1497/2007](eu/32007r1497)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32007r1497.pdf)
+
+*Forordning [(EF) nr. 1516/2007](eu/32007r1516)*
 
 For å lese forordningen se her: [(pdf)](static/SF/32007r1516.pdf)
 
+*Forordning [(EF) nr. 304/2008](eu/32008r0304)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32008r0304.pdf)
 
+*Forordning [(EF) nr. 306/2008](eu/32008r0306*)*
+
 For å lese forordningen se her: [(pdf)](static/SF/32008r0306.pdf)
+
+*Forordning [(EF) nr. 307/2008](eu/32008r0307)*
 
 For å lese forordningen se her: [(pdf)](static/SF/32008r0307.pdf)
 

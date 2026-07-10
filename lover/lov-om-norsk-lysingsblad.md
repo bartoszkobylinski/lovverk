@@ -37,3 +37,5 @@ Kongen fastsett reglar for bladdrifta, soleis også reglar for kva lysingar som 
 ## § 4.
 
 Denne lova gjeld frå den dagen Kongen fastsett.1 – – –
+
+1 Frå 1 jan 1948 iflg. res. 5 des 1947.

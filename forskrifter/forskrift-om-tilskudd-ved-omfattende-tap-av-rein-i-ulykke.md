@@ -38,6 +38,8 @@ Tilskudd kan innvilges den enkelte siidaandel/reinlag dersom følgende vilkår e
 
 Hvis flere siidaandeler blir berørt av samme ulykke og det ikke er mulig å fastslå hvem som eier reinen, kan tilskudd innvilges til reinbeitedistriktet eller siidaen. I slike tilfeller skal reinbeitedistriktet eller siidaen fordele tilskuddet mellom de berørte siidaandelene som oppfyller vilkår for tilskudd, jf. første ledd.
 
+1 jf. [forskrift om tilskudd til siidaandeler og reinlag § 10](forskrift/2019-06-20-865/§10).2 jf. [forskrift om tilskudd til siidaandeler og reinlag § 9](forskrift/2019-06-20-865/§9).
+
 ## § 4. Dokumentasjon
 
 Statsforvalteren, veterinær, offentlig oppsynsmyndighet eller representant for en av disse skal dokumentere antall tapte dyr gjennom besiktigelse og opptelling av kadaver.

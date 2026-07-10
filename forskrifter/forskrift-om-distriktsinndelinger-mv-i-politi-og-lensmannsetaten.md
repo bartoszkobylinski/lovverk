@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om fastsetting av inndeling i politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten
 
+*Innledning*I henhold til [forskrift 20. november 2015 nr. 1331](forskrift/2015-11-20-1331) om endringer i distriktsinndelingen mv. i politi- og lensmannsetaten og klagebehandlingen i Justis- og beredskapsdepartementet, jf. [forskrift 22. juni 2016 nr. 815](forskrift/2016-06-22-815) om klageordning for kommuner som berøres av ny tjenestestedsstruktur i politi- og lensmannsetaten, er det fastsatt følgende inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder.
+
 ## I
 
 ### 1. Oslo politidistrikt

@@ -44,147 +44,291 @@ Forskriften trer i kraft straks.
 
 ## Forordninger
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1126/2008](eu/32008r1126) se her: [pdf-fil](static/SF/32008r1126u-01.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) nr. 1260/2008](eu/32008r1260) se her: [pdf-fil](static/SF/32008r1260u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) nr. 1261/2008](eu/32008r1261) se her: [pdf-fil](static/SF/32008r1261u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1262/2008](eu/32008r1262) se her: [pdf-fil](static/SF/32008r1262u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1263/2008](eu/32008r1263) se her: [pdf-fil](static/SF/32008r1263u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1274/2008](eu/32008r1274) se her: [pdf-fil](static/SF/32008r1274u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 53/2009](eu/32009r0053*) se her: [pdf-fil](static/SF/32009r0053u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 69/2009](eu/32009r0069) se her: [pdf-fil](static/SF/32009r0069u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 70/2009](eu/32009r0070) se her: [pdf-fil](static/SF/32009r0070u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 254/2009](eu/32009r0254) se her: [pdf-fil](static/SF/32009r0254u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 460/2009](eu/32009r0460) se her: [pdf-fil](static/SF/32009r0460u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 494/2009](eu/32009r0494) se her: [pdf-fil](static/SF/32009r0494u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 495/2009](eu/32009r0495) se her: [pdf-fil](static/SF/32009r0495u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 636/2009](eu/32009r0636) se her: [pdf-fil](static/SF/32009r0636u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 824/2009](eu/32009r0824) se her: [pdf-fil](static/SF/32009r0824u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 839/2009](eu/32009r0839) se her: [pdf-fil](static/SF/32009r0839u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1136/2009](eu/32009r1136) se her: [pdf-fil](static/SF/32009r1136u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1142/2009](eu/32009r1142) se her: [pdf-fil](static/SF/32009r1142u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1164/2009](eu/32009r1164) se her: [pdf-fil](static/SF/32009r1164u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EF) nr. 1165/2009](eu/32009r1165) se her: [pdf-fil](static/SF/32009r1165u.pdf)
 
 Uoffisiell oversettelse.
 
+For å lese forordning [(EF) nr. 1171/2009](eu/32009r1171) se her: [pdf-fil](static/SF/32009r1171u.pdf)
+
 Uoffisiell oversettelse.
+
+For å lese forordning [(EF) nr. 1293/2009](eu/32009r1293) se her: [pdf-fil](static/SF/32009r1293u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 243/2010](eu/32010r0243) se her: [pdf-fil](static/SF/32010r0243u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 244/2010](eu/32010r0244) se her: [pdf-fil](static/SF/32010r0244u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 550/2010](eu/32010r0550) se her: [pdf-fil](static/SF/32010r0550u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 574/2010](eu/32010r0574) se her: [pdf-fil](static/SF/32010r0574u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 632/2010](eu/32010r0632) se her: [pdf-fil](static/SF/32010r0632u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 633/2010](eu/32010r0633) se her: [pdf-fil](static/SF/32010r0633u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 662/2010](eu/32010r0662) se her: [pdf-fil](static/SF/32010r0662u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 149/2011](eu/32011r0149) se her: [pdf-fil](static/SF/32011r0149u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1205/2011](eu/32011r1205) se her: [pdf-fil](static/SF/32011r1205u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 475/2012](eu/32012r0475) se her: [pdf-fil](static/SF/32012r0475u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1254/2012](eu/32012r1254) se her: [pdf-fil](static/SF/32012r1254u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1255/2012](eu/32012r1255) se her: [pdf-fil](static/SF/32012r1255u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1256/2012](eu/32012r1256) se her: [pdf-fil](static/SF/32012r1256u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 183/2013](eu/32013r0183) se her: [pdf-fil](static/SF/32013r0183u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 301/2013](eu/32013r0301) se her: [pdf-fil](static/SF/32013r0301u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 313/2013](eu/32013r0313) se her: [pdf-fil](static/SF/32013r0313u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1174/2013](eu/32013r1174) se her: [pdf-fil](static/SF/32013r1174u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1374/2013](eu/32013r1374) se her: [pdf-fil](static/SF/32013r1374u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 1375/2013](eu/32013r1375) se her: [pdf-fil](static/SF/32013r1375u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 634/2014](eu/32014r0634) se her: [pdf-fil](static/SF/32014r0634e.pdf)
 
 Engelsk versjon.
 
-Engelsk versjon.
+For å lese forordning [(EU) nr. 1361/2014](eu/32014r1361*) se her: [pdf-fil](static/SF/32014r1361e.pdf)
 
 Engelsk versjon.
 
-Engelsk versjon.
-
-Uoffisiell oversettelse.
+For å lese forordning [(EU) 2015/28](eu/32015r0028) se her: [pdf-fil](static/SF/32015r0028e.pdf)
 
 Engelsk versjon.
 
+For å lese forordning [(EU) 2015/29](eu/32015r0029) se her: [pdf-fil](static/SF/32015r0029e.pdf)
+
 Engelsk versjon.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) 2015/2113](eu/32015r2113) se her: [pdf-fil](static/SF/32015r2113u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) 2015/2173](eu/32015r2173) se her: [pdf-fil](static/SF/32015r2173e.pdf)
+
+Engelsk versjon.
+
+For å lese forordning [(EU) 2015/2231](eu/32015r2231) se her: [pdf-fil](static/SF/32015r2231e.pdf)
+
+Engelsk versjon.
+
+For å lese forordning [(EU) 2015/2343](eu/32015r2343) se her: [pdf-fil](static/SF/32015r2343u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) 2015/2406](eu/32015r2406) se her: [pdf-fil](static/SF/32015r2406u.pdf)
 
 Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2015/2441](eu/32015r2441) se her: [pdf-fil](static/SF/32015r2441u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2016/1703](eu/32016r1703) se her: [pdf-fil](static/SF/32016r1703u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2016/1905](eu/32016r1905) se her: [pdf-fil](static/SF/32016r1905u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2016/2067](eu/32016r2067) se her: [pdf-fil](static/SF/32016r2067u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2017/1986](eu/32017r1986) se her: [pdf-fil](static/SF/32017r1986d-01.pdf)
 
 Dansk versjon.
 
-Dansk versjon.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
-
-Uoffisiell oversettelse.
+For å lese forordning [(EU) 2017/1990](eu/32017r1990) se her: [pdf-fil](static/SF/32017r1990d-01.pdf)
 
 Dansk versjon.
 
-Dansk versjon.
+For å lese forordning [(EU) 2018/182](eu/32018r0182) se her: [pdf-fil](static/SF/32018r0182u-01.pdf)
 
 Uoffisiell oversettelse.
 
-Dansk versjon.
+For å lese forordning [(EU) 2018/289](eu/32018r0289) se her: [pdf-fil](static/SF/32018r0289u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2018/400](eu/32018r0400) se her: [pdf-fil](static/SF/32018r0400u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2018/498](eu/32018r0498) se her: [pdf-fil](static/SF/32018r0498u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2018/519](eu/32018r0519) se her: [pdf-fil](static/SF/32018r0519u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2017/1987](eu/32017r1987) se her: [pdf-fil](static/SF/32017r1987u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2017/1988](eu/32017r1988) se her: [pdf-fil](static/SF/32017r1988u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2017/1989](eu/32017r1989) se her: [pdf-fil](static/SF/32017r1989u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2018/1595](eu/32018r1595) se her: [pdf-fil](static/SF/32018r1595u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2019/237](eu/32019r0237) se her: [pdf-fil](static/SF/32019r0237d-01.pdf)
 
 Dansk versjon.
 
+For å lese forordning [(EU) 2019/402](eu/32019r0402) se her: [pdf-fil](static/SF/32019r0402d-01.pdf)
+
 Dansk versjon.
+
+For å lese forordning [(EU) 2019/412](eu/32019r0412) se her: [pdf-fil](static/SF/32019r0412u-01.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) 2019/2075](eu/32019r2075) se her: [pdf-fil](static/SF/32019r2075d-01.pdf)
+
+Dansk versjon.
+
+For å lese forordning [(EU) 2019/2104](eu/32019r2104) se her: [pdf-fil](static/SF/32019r2104d-01.pdf)
+
+Dansk versjon.
+
+For å lese forordning [(EU) 2020/0034](eu/32020r0034) se her: [pdf-fil](static/SF/32020r0034d-01.pdf)
+
+Dansk versjon.
+
+For å lese forordning [(EU) 2023/1803](eu/32023r1803) se her: [pdf-fil](static/SF/32023r1803d-01.pdf)
 
 Dansk versjon.
 

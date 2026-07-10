@@ -59,3 +59,5 @@ Departementet kan gi forskrift om aksjeselskapets organisering og saksbehandling
 ## § 6. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen1 bestemmer.
+
+1 Fra 1 jan 2001 iflg. [res. 7. juli 2000 nr. 728](forskrift/2000-07-07-728).

@@ -279,6 +279,8 @@ Bestemmelsene om utlevering i kapitlene I, II og IV og bestemmelsene i samband m
 2. Kongen kan gi nærmere bestemmelser til gjennomføring av loven.
 3. Fra lovens ikrafttreden oppheves – – –.
 
+1 Fra 1 aug 1975 iflg. res. 13 juni 1975.
+
 ### § 29
 
 – – –

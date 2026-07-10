@@ -804,6 +804,8 @@ Loven her trer i kraft fra den tid1 Kongen i statsråd bestemmer. Kongen i stats
 
 Fra lovens ikrafttredelse oppheves [lov av 28. april 1961 nr. 2](lov/1961-04-28-2) om psykisk helsevern.
 
+1 Fra 1 jan 2001 iflg. [res. 1 des 2000 nr. 1197](forskrift/2000-12-01-1197), med unntak av [§ 4-1](lov/1999-07-02-62/§4-1) som ble satt ikr. 1 juli 2001 iflg. [res. 8 juni 2001 nr. 595](forskrift/2001-06-08-595). ved [lov 15 juni 2001 nr. 64](lov/2001-06-15-64) er [kapittel 5](lov/1999-07-02-62/kap5) satt ikr. 1 jan 2002.
+
 ### § 8-3. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

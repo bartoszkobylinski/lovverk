@@ -22,11 +22,15 @@ eu_basis: []
 
 # Retningslinjer for lokalisering av statlege arbeidsplassar og statleg tenesteproduksjon
 
+Retningslinjene erstattar tidlegare retningslinjer, jf. [kgl.res. 12. august 2022 nr. 1435](forskrift/2022-08-12-1435).
+
 ## 1. Innleiing
 
 Retningslinjene fastset føremål for den statlege lokaliseringspolitikken, og vurderings- og prosedyrekrav i samband med lokalisering av statlege arbeidsplassar og statleg tenesteproduksjon. Eigne retningslinjer gjeld for den konkrete plasseringa i eit senterområde og for bygge- og leigesaker i statleg sivil sektor1.
 
 Retningslinjene kjem i tillegg til og ikkje til erstatning for krava som følgjer av [utgreiingsinstruksen](forskrift/2016-02-19-184).
+
+1 Sjå [Statlige planretningslinjer for samordnet bolig-, areal- og transportplanlegging](forskrift/2014-09-26-1222)Sjå [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39)
 
 ## 2. Føremål
 
@@ -36,14 +40,20 @@ Regjeringa har som mål å halde oppe norske samfunn på Svalbard. Flytting av s
 
 ## 3. Virkeområde
 
+*Retningslinjene gjeld*
+
 - For statsforvaltinga, det vil seie ordinære forvaltingsorgan, forvaltingsorgan med særskilde fullmakter og forvaltingsverksemder. Departementa sin eigen organisasjon er unnateken.
 - Ved oppretting av nye verksemder, inkludert nye statlege verksemder som blir etablerte på grunnlag av personale frå eksisterande verksemder.
 - Ved omlokalisering av verksemder, funksjoner, oppgåver og nedlegging av organisasjonseiningar.
 - Ved etablering av nye einingar eller utviding som følgje av nye oppgåver, under eksisterande verksemder. Det kan gjerast unntak ved mindre endringar og justeringar i eiga verksemd.
 
+*Retningslinjene gjeld ikkje*
+
 Retningslinjene gjeld ikkje for stiftingar, statsføretak, særlovsselskap, statsselskap eller andre føretak som staten eig. Retningslinjene gjeld heller ikkje for Forsvaret si operative verksemd, og den delen av Arbeids- og velferdsetaten (NAV) som er regulert gjennom avtale mellom NAV og kommunane.
 
 Retningslinjene gjeld vidare ikkjefor klart tidsavgrensa oppretta arbeidsplassarfor kollegiale organ som råd og utvalved flytting innanfor same kommune som følgje av at leigekontraktar går ut2der ei verksemd berre skifter namn og organisasjonsnummer.
+
+2 [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39) gjeld likevel her, sjå desse retningslinjene pkt. 1.
 
 ## 4. Ansvar og roller
 
@@ -82,6 +92,8 @@ Ved omlokalisering av verksemder, funksjonar eller oppgåver, skal moglegheitene
 Ved utviding som følgje av nye oppgåver eller funksjonar under eksisterande verksemder med ein regional struktur, eller ved mindre endringar og justeringar i eiga verksemd, skal veksten i hovudsak skje ved lokalitetane utanfor Oslo og sentrale kommunar i Oslo-området.
 
 I dei tilfella der det berre er mindre justeringar i verksemda, til dømes nedlegging av ein einskild organisasjonseining, er det tilstrekkeleg å gjere greie for årsaka til nedlegginga, utviklinga i statlege arbeidsplassar i det aktuelle området og eventuelle avbøtande tiltak for det lokale og regionale tenestetilbodet.
+
+3 [https://www.ssb.no/befolkning/folketall/artikler/sentralitetsindeksen](https://www.ssb.no/befolkning/folketall/artikler/sentralitetsindeksen).
 
 ### 5.2 Vurdering av alternative stader for lokalisering
 

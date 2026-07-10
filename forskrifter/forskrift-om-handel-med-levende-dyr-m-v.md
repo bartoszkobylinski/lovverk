@@ -138,6 +138,8 @@ Bestemmelsene i dette kapittelet gjelder ved innførsel fra land utenfor EØS av
 
 > Endret ved [forskrift 18 okt 1999 nr. 1164](forskrift/1999-10-18-1164).
 
+1 [Forskrift 18. oktober 1999 nr. 1163](forskrift/1999-10-18-1163) om tilsyn og kontroll ved import og transitt mv. av animalske næringsmidler og av produkter av animalsk opprinnelse mv. fra tredjeland.
+
 ### § 14. Kontroll ved veterinær grensekontrollstasjon
 
 Alle forsendelser fra tredjestater skal underkastes kontroll av en offentlig veterinær på en veterinær grensekontrollstasjon i henhold til liste utarbeidet av Mattilsynet over norske grensekontrollstasjoner og kontrollsentre for import av levende dyr, næringsmidler og andre produkter av animalsk opprinnelse.
@@ -149,6 +151,8 @@ Etter gjennomført kontroll utsteder offentlig veterinær på grensekontrollstas
 Nærmere bestemmelser om prosedyrene som skal følges etter gjennomført kontroll, er fastsatt i [forskrift 9. mars 2020 nr. 708](forskrift/2020-03-09-708) om offentlig kontroll – generelle regler for grensekontroll forordning [(EU) 2019/2123](eu/32019r2123), forordning [2019/2126](eu/32019r2126), forordning [2019/2129](eu/32019r2129) og forordning [2019/2130](eu/32019r2130) og [forskrift 9. mars 2020 nr. 715](forskrift/2020-03-09-715) om offentlig kontroll – IMSOC – forordning [(EU) 2019/1715](eu/32019r1715*).
 
 > Endret ved [forskrifter 18 okt 1999 nr. 1164](forskrift/1999-10-18-1164), [30 nov 2005 nr. 1354](forskrift/2005-11-30-1354), [9 mars 2020 nr. 719](forskrift/2020-03-09-719) (i kraft 7 april 2020).
+
+1 Instruks 11. februar 2000 nr. 1710 til Statens dyrehelsetilsyn – distriktsveterinærene (grenseveterinæren) ved tilsyn og kontroll av levende dyr fra land utenfor EØS.
 
 ### § 15. Videresending og transitt av forsendelser
 
@@ -215,5 +219,7 @@ Denne forskrift trer i kraft 1. januar 1999.
 > Endret ved [forskrift 18 okt 1999 nr. 1164](forskrift/1999-10-18-1164).
 
 ## Vedlegg I. Sertifikat til bruk ved handel innen EØS-området med tilhørende veiledning for utfylling av sertifikatet
+
+Se her for å lese vedlegg I: [(pdf)](static/SF/sf-20051130-1354-01-01.pdf)
 
 > Tilføyd ved [forskrift 30 nov 2005 nr. 1354](forskrift/2005-11-30-1354) (tidligere vedlegg I opphevet).

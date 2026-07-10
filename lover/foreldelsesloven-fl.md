@@ -24,9 +24,11 @@ eu_basis: []
 
 ## § 1. (Innledende bestemmelser.)
 
-1. Fordring på penger eller andre ytelser foreldes etter reglene i denne lov når ikke annet er lovbestemt.
+1\. Fordring på penger eller andre ytelser foreldes etter reglene i denne lov når ikke annet er lovbestemt.
 
-2. Om foreldelse i internasjonale kjøpsforhold gjelder New York-konvensjonen av 14. juni 1974, slik den lyder i norsk oversettelse inntatt i Norsk Lovtidend. Kongen kan likevel bestemme at konvensjonen ikke skal få anvendelse på kjøpsavtaler der både selger og kjøper har sitt relevante forretningssted i de nordiske land (Norge, Danmark, Finland, Island og Sverige).1
+2\. Om foreldelse i internasjonale kjøpsforhold gjelder New York-konvensjonen av 14. juni 1974, slik den lyder i norsk oversettelse inntatt i Norsk Lovtidend. Kongen kan likevel bestemme at konvensjonen ikke skal få anvendelse på kjøpsavtaler der både selger og kjøper har sitt relevante forretningssted i de nordiske land (Norge, Danmark, Finland, Island og Sverige).1
+
+1 Ikr. 1 aug 1988 iflg. [res. 8 juli 1988 nr. 552](forskrift/1988-07-08-552), som også bestemmer at New York-konvensjonen 14 juni 1974 om foreldelse i internasjonale kjøpsforhold ikke gjelder kjøpavtaler der både selger og kjøper har sitt relevante forretningssted i Norge, Danmark, Finland, Island og Sverige.
 
 ## Den alminnelige foreldelsesfrist.
 
@@ -36,31 +38,31 @@ Den alminnelige foreldelsesfrist er 3 år.
 
 ### § 3. (Fristens utgangspunkt.)
 
-1. Foreldelsesfristen regnes fra den dag da fordringshaveren tidligst har rett til å kreve å få oppfyllelse.
+1\. Foreldelsesfristen regnes fra den dag da fordringshaveren tidligst har rett til å kreve å få oppfyllelse.
 
-2. For krav som oppstår ved mislighold, regnes foreldelsesfristen fra den dag da misligholdet inntrer.
+2\. For krav som oppstår ved mislighold, regnes foreldelsesfristen fra den dag da misligholdet inntrer.
 
-3. Kan eller skal en avtale anses hevet før oppfyllelsestiden eller en fordring forfalt før den ellers bestemte tid, på grunn av skyldnerens mislighold eller et annet inntruffet forhold, blir foreldelsesfristen for krav som bygger på slikt forhold, først regnet fra den dag da fordringshaveren varsler skyldneren om at han gjør hevnings- eller forfallsgrunnen gjeldende. Blir denne ikke gjort gjeldende, regnes fristen fra den forfallsdag som ellers er bestemt.
+3\. Kan eller skal en avtale anses hevet før oppfyllelsestiden eller en fordring forfalt før den ellers bestemte tid, på grunn av skyldnerens mislighold eller et annet inntruffet forhold, blir foreldelsesfristen for krav som bygger på slikt forhold, først regnet fra den dag da fordringshaveren varsler skyldneren om at han gjør hevnings- eller forfallsgrunnen gjeldende. Blir denne ikke gjort gjeldende, regnes fristen fra den forfallsdag som ellers er bestemt.
 
-4. Når selgeren eller et tidligere omsetningsledd har garantert for salgstingen ved å påta seg avhjelp eller annet ansvar, blir foreldelsesfristen for krav som bygger på denne garanti, regnet fra den dag da kjøperen gir varsel om det forhold kravet grunner seg på, men senest fra den dag garantien løper ut. Tilsvarende gjelder når en tjenesteyter e.l. har garantert for resultatet av oppdraget.
+4\. Når selgeren eller et tidligere omsetningsledd har garantert for salgstingen ved å påta seg avhjelp eller annet ansvar, blir foreldelsesfristen for krav som bygger på denne garanti, regnet fra den dag da kjøperen gir varsel om det forhold kravet grunner seg på, men senest fra den dag garantien løper ut. Tilsvarende gjelder når en tjenesteyter e.l. har garantert for resultatet av oppdraget.
 
 ## Særskilte foreldelsesfrister.
 
 ### § 4. (Bankinnskudd m.m.)
 
-1. Fordring på bank eller offentlig kasse i anledning innskudd eller verdier som er gitt i forvaring, samt rentekrav i tilknytning til slik fordring, foreldes først 20 år etter at det er gitt melding etter [finansavtaleloven § 4-46](lov/2020-12-18-146/§4-46). Dette gjelder selv om kontoen påføres renter etter at slik melding er gitt. Foreldelse inntrer bare dersom institusjonen forut for foreldelsesfristens utløp har gjort det som med rimelighet kan forventes for å komme i kontakt med kontohaveren eller arvingene.
+1\. Fordring på bank eller offentlig kasse i anledning innskudd eller verdier som er gitt i forvaring, samt rentekrav i tilknytning til slik fordring, foreldes først 20 år etter at det er gitt melding etter [finansavtaleloven § 4-46](lov/2020-12-18-146/§4-46). Dette gjelder selv om kontoen påføres renter etter at slik melding er gitt. Foreldelse inntrer bare dersom institusjonen forut for foreldelsesfristens utløp har gjort det som med rimelighet kan forventes for å komme i kontakt med kontohaveren eller arvingene.
 
-2. Foreldelse avbrytes når fordringshaveren melder seg for institusjonen eller kontoen disponeres over ved uttak eller ved at midler settes inn på kontoen. Med bank likestilles annen innretning som med hjemmel i lov skaffer seg midler til sin virksomhet ved å motta innskudd fra en ubestemt krets av innskytere.
+2\. Foreldelse avbrytes når fordringshaveren melder seg for institusjonen eller kontoen disponeres over ved uttak eller ved at midler settes inn på kontoen. Med bank likestilles annen innretning som med hjemmel i lov skaffer seg midler til sin virksomhet ved å motta innskudd fra en ubestemt krets av innskytere.
 
-3. [Finansavtaleloven § 4-46](lov/2020-12-18-146/§4-46) gjelder tilsvarende for fordring på offentlig kasse.
+3\. [Finansavtaleloven § 4-46](lov/2020-12-18-146/§4-46) gjelder tilsvarende for fordring på offentlig kasse.
 
 > Endret ved [lover 4 nov 1994 nr. 59](lov/1994-11-04-59) (ikr. 1 jan 1995), [5 jan 1996 nr. 1](lov/1996-01-05-1), [25 juni 1999 nr. 46](lov/1999-06-25-46) (ikr. 1 juli 2000 iflg. [res. 25 juni 1999 nr. 702](forskrift/1999-06-25-702), endringen gjelder iflg. [finansavtaleloven § 93](lov/1999-06-25-46/§93) nr. 2 litra v for fordringer som ikke er foreldet før loven tar til å gjelde), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [18 des 2020 nr. 146](lov/2020-12-18-146) (i kraft 1 jan 2023 iflg. [res. 2 sep 2022 nr. 1528](forskrift/2022-09-02-1528)).
 
 ### § 5. (Gjeldsbrev og pengelån.)
 
-1. Når det er utstedt gjeldsbrev for en fordring, eller fordringen er registrert i en verdipapirsentral, er foreldelsesfristen 10 år, bortsett fra senere forfalt rente eller selskapsutbytte og senere forfalte terminytelser som omhandlet i [§ 6](lov/1979-05-18-18/§6).
+1\. Når det er utstedt gjeldsbrev for en fordring, eller fordringen er registrert i en verdipapirsentral, er foreldelsesfristen 10 år, bortsett fra senere forfalt rente eller selskapsutbytte og senere forfalte terminytelser som omhandlet i [§ 6](lov/1979-05-18-18/§6).
 
-2. Etter 10 år foreldes også fordring som grunner seg på pengelån, renter unntatt. Denne tiårsfrist gjelder ikke lån som gis av selgeren eller av noen annen etter avtale med selgeren til finansiering av et kredittkjøp.
+2\. Etter 10 år foreldes også fordring som grunner seg på pengelån, renter unntatt. Denne tiårsfrist gjelder ikke lån som gis av selgeren eller av noen annen etter avtale med selgeren til finansiering av et kredittkjøp.
 
 > Endret ved [lover 14 juni 1985 nr. 70](lov/1985-06-14-70), [5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)).
 
@@ -78,11 +80,11 @@ Hefter flere skyldnere overfor fordringshaveren, og en av dem innfrir sin forpli
 
 ### § 9. (Krav på skadeserstatning.)
 
-1. Krav på skadeserstatning eller oppreising foreldes 3 år etter den dag da skadelidte fikk eller burde skaffet seg nødvendig kunnskap om skaden og den ansvarlige. Ved krav etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) tredje ledd løper fristen likevel tidligst fra den dagen da den skadelidte fikk rett til å kreve oppfyllelse. Ved brudd på varslingsplikten etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) fjerde ledd er fristen etter første punktum 6 år i stedet for 3 år.
+1\. Krav på skadeserstatning eller oppreising foreldes 3 år etter den dag da skadelidte fikk eller burde skaffet seg nødvendig kunnskap om skaden og den ansvarlige. Ved krav etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) tredje ledd løper fristen likevel tidligst fra den dagen da den skadelidte fikk rett til å kreve oppfyllelse. Ved brudd på varslingsplikten etter [skadeserstatningsloven § 3-2 a](lov/1969-06-13-26/§3-2a) fjerde ledd er fristen etter første punktum 6 år i stedet for 3 år.
 
-2. Kravet foreldes likevel seinest 20 år etter at den skadegjørende handling eller annet ansvarsgrunnlag opphørte. Dette gjelder ikke ved personskade, dersomskaden er voldt i ervervsvirksomhet eller dermed likestilt virksomhet, eller er voldt mens skadelidte er under 18 år, ogden ansvarlige, eller noen denne hefter for, før opphøret av det skadegjørende forhold kjente eller burde kjenne til at dette kunne medføre fare for liv eller alvorlig helseskade.
+2\. Kravet foreldes likevel seinest 20 år etter at den skadegjørende handling eller annet ansvarsgrunnlag opphørte. Dette gjelder ikke ved personskade, dersomskaden er voldt i ervervsvirksomhet eller dermed likestilt virksomhet, eller er voldt mens skadelidte er under 18 år, ogden ansvarlige, eller noen denne hefter for, før opphøret av det skadegjørende forhold kjente eller burde kjenne til at dette kunne medføre fare for liv eller alvorlig helseskade.
 
-3. Paragrafen gjelder ikke krav som springer ut av kontrakt, bortsett fra krav på erstatning for personskade.
+3\. Paragrafen gjelder ikke krav som springer ut av kontrakt, bortsett fra krav på erstatning for personskade.
 
 > Endret ved [lover 8 juli 1988 nr. 71](lov/1988-07-08-71), [5 jan 1996 nr. 1](lov/1996-01-05-1) (gjelder også tidligere oppståtte krav som ikke er foreldet når endringen trer i kraft), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [15 juni 2007 nr. 36](lov/2007-06-15-36), [18 des 2015 nr. 124](lov/2015-12-18-124) (ikr. 1 mars 2018 iflg. [res. 16 feb 2018 nr. 235](forskrift/2018-02-16-235)).
 
@@ -90,13 +92,13 @@ Hefter flere skyldnere overfor fordringshaveren, og en av dem innfrir sin forpli
 
 ### § 10. (Uvitenhet og andre hindringer.)
 
-1. Dersom fordringshaveren ikke har gjort fordringen gjeldende fordi han manglet nødvendig kunnskap om fordringen eller skyldneren, inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde skaffet seg slik kunnskap.
+1\. Dersom fordringshaveren ikke har gjort fordringen gjeldende fordi han manglet nødvendig kunnskap om fordringen eller skyldneren, inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde skaffet seg slik kunnskap.
 
-2. Kan foreldelse ikke avbrytes på grunn av norsk eller fremmed lov eller annen uovervinnelig hindring som ikke beror på fordringshaverens egne forhold, inntrer foreldelse tidligst 1 år etter den dag da hindringen opphørte.
+2\. Kan foreldelse ikke avbrytes på grunn av norsk eller fremmed lov eller annen uovervinnelig hindring som ikke beror på fordringshaverens egne forhold, inntrer foreldelse tidligst 1 år etter den dag da hindringen opphørte.
 
-3. Dersom skyldneren har forlatt landet etter at fordringen oppsto, og fordringshaveren bare kan avbryte foreldelse ved skritt etter [§ 23](lov/1979-05-18-18/§23), inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde ha skaffet seg kunnskap om at skyldneren igjen har alminnelig verneting her i riket, eller om at foreldelsen kan avbrytes ved andre skritt enn etter [§ 23](lov/1979-05-18-18/§23).
+3\. Dersom skyldneren har forlatt landet etter at fordringen oppsto, og fordringshaveren bare kan avbryte foreldelse ved skritt etter [§ 23](lov/1979-05-18-18/§23), inntrer foreldelse tidligst 1 år etter den dag da fordringshaveren fikk eller burde ha skaffet seg kunnskap om at skyldneren igjen har alminnelig verneting her i riket, eller om at foreldelsen kan avbrytes ved andre skritt enn etter [§ 23](lov/1979-05-18-18/§23).
 
-4. Foreldelsestiden kan ikke forlenges etter denne paragraf med mer enn til sammen 10 år. Fristene i [§ 9](lov/1979-05-18-18/§9) nr. 2 for krav på skadeserstatning m.m. kan ikke forlenges etter nærværende paragraf. Ellers gjelder paragrafen for andre frister og tilleggsfrister etter denne lov.
+4\. Foreldelsestiden kan ikke forlenges etter denne paragraf med mer enn til sammen 10 år. Fristene i [§ 9](lov/1979-05-18-18/§9) nr. 2 for krav på skadeserstatning m.m. kan ikke forlenges etter nærværende paragraf. Ellers gjelder paragrafen for andre frister og tilleggsfrister etter denne lov.
 
 > Endret ved [lover 13 juni 1997 nr. 43](lov/1997-06-13-43), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
 
@@ -106,9 +108,9 @@ Selv om foreldelsestiden er ute, kan krav på erstatning, oppreisning og inndrag
 
 ### § 12. (Krav mot verge m.v. og visse krav i selskapsforhold.)
 
-1. Når fordringen tilkommer:person under vergemål mot verge, ellerupersonlig rettshaver, så som aksjeselskap, allmennaksjeselskap, lag eller stiftelse – mot medeier eller medlem av organ for rettshaveren,inntrer foreldelse for ansvar vedkommende har pådratt seg i denne egenskap, tidligst 1 år etter at vervet er opphørt. Er rette vedkommende som kan gjøre kravet gjeldende på fordringshaverens vegne, før vervets opphør blitt kjent med de omstendigheter som kravet grunnes på, løper fristen fra dette tidligere tidspunkt. Regelen gjelder også forholdet mellom konkursskyldneren og boets organer.
+1\. Når fordringen tilkommer:person under vergemål mot verge, ellerupersonlig rettshaver, så som aksjeselskap, allmennaksjeselskap, lag eller stiftelse – mot medeier eller medlem av organ for rettshaveren,inntrer foreldelse for ansvar vedkommende har pådratt seg i denne egenskap, tidligst 1 år etter at vervet er opphørt. Er rette vedkommende som kan gjøre kravet gjeldende på fordringshaverens vegne, før vervets opphør blitt kjent med de omstendigheter som kravet grunnes på, løper fristen fra dette tidligere tidspunkt. Regelen gjelder også forholdet mellom konkursskyldneren og boets organer.
 
-2. For fordring ifølge forpliktelse som i henhold til selskapskontrakt påhviler et medlem til å gjøre tilskudd til selskapets masse, tar foreldelse først til å løpe når medlemskapet er opphørt og selskapet har fått underretning om det.
+2\. For fordring ifølge forpliktelse som i henhold til selskapskontrakt påhviler et medlem til å gjøre tilskudd til selskapets masse, tar foreldelse først til å løpe når medlemskapet er opphørt og selskapet har fått underretning om det.
 
 > Endret ved [lover 13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
 
@@ -126,11 +128,11 @@ Foreldelse avbrytes når skyldneren overfor fordringshaveren uttrykkelig eller v
 
 ### § 15. (Rettslig skritt m.m.)
 
-1. Foreldelse avbrytes når fordringshaveren tar rettslig skritt mot skyldneren for å få dom, skjønn, voldgiftsdom eller tilsvarende avgjørelse. Det samme gjelder når skyldneren tar slikt skritt for å få fastsettelsesdom om fordringen. Foreldelse avbrytes også ved at fornærmede begjærer at påtalemyndigheten fremmer kravet i straffesak etter [straffeprosessloven § 427](lov/1981-05-22-25/§427).
+1\. Foreldelse avbrytes når fordringshaveren tar rettslig skritt mot skyldneren for å få dom, skjønn, voldgiftsdom eller tilsvarende avgjørelse. Det samme gjelder når skyldneren tar slikt skritt for å få fastsettelsesdom om fordringen. Foreldelse avbrytes også ved at fornærmede begjærer at påtalemyndigheten fremmer kravet i straffesak etter [straffeprosessloven § 427](lov/1981-05-22-25/§427).
 
-2. Blir fordringen gjort gjeldende ved domstol, skjer avbrudd:ved forliksklage eller stevning, ellerved at krav om fordringen blir framsatt eller påberopt til motregning under sak som er reist mellom partene.når fornærmede fremmer krav til pådømmelse i straffesak etter [straffeprosessloven § 428](lov/1981-05-22-25/§428).
+2\. Blir fordringen gjort gjeldende ved domstol, skjer avbrudd:ved forliksklage eller stevning, ellerved at krav om fordringen blir framsatt eller påberopt til motregning under sak som er reist mellom partene.når fornærmede fremmer krav til pådømmelse i straffesak etter [straffeprosessloven § 428](lov/1981-05-22-25/§428).
 
-3. Er det avtalt at tvist om en fordring skal avgjøres ved voldgift, avbrytes foreldelse når voldgiftsak er innledet etter [voldgiftsloven § 23](lov/2004-05-14-25/§23). Er det ellers hjemmel for annen særskilt avgjørelsesmåte, avbrytes foreldelse ved at fordringshaveren gjør det som fra dennes side trengs for å sette saken i gang. Bestemmelsen i nr. 2 bokstav b gjelder tilsvarende.
+3\. Er det avtalt at tvist om en fordring skal avgjøres ved voldgift, avbrytes foreldelse når voldgiftsak er innledet etter [voldgiftsloven § 23](lov/2004-05-14-25/§23). Er det ellers hjemmel for annen særskilt avgjørelsesmåte, avbrytes foreldelse ved at fordringshaveren gjør det som fra dennes side trengs for å sette saken i gang. Bestemmelsen i nr. 2 bokstav b gjelder tilsvarende.
 
 > Endret ved [lover 14 mai 2004 nr. 25](lov/2004-05-14-25) (ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lover 26 jan 2007 nr. 3](lov/2007-01-26-3) og [21 des 2007 nr. 127](lov/2007-12-21-127), [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200)) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
 
@@ -146,39 +148,39 @@ Foreldelse avbrytes når skyldneren overfor fordringshaveren uttrykkelig eller v
 
 ### § 16. (Administrativ avgjørelse m.m.)
 
-1. Foreldelse avbrytes når tvist om kravet bringes inn til avgjørelse ved et forvaltningsorgan som har særskilt myndighet til å avgjøre slik tvist. Dette gjelder selv om vedtaket kan overprøves av andre organer eller bringes inn for domstolene. Dersom saken blir forberedt av et annet organ, er det tilstrekkelig at kravet er brakt inn til dette organ for å få det avgjort.
+1\. Foreldelse avbrytes når tvist om kravet bringes inn til avgjørelse ved et forvaltningsorgan som har særskilt myndighet til å avgjøre slik tvist. Dette gjelder selv om vedtaket kan overprøves av andre organer eller bringes inn for domstolene. Dersom saken blir forberedt av et annet organ, er det tilstrekkelig at kravet er brakt inn til dette organ for å få det avgjort.
 
-2. Reglene i nr. 1 gjelder tilsvarende for:tvist om krav som bringes inn for en klage- eller reklamasjonsnemnd som er opprettet av skyldneren eller bransjeorganisasjon han er tilsluttet eller under deres medvirkning. Det samme gjelder hvis vedtektene for nemnda er offentlig godkjent etter særskilt lovbestemmelse eller hvis skyldneren godtar at tvist om kravet bringes inn for en opprettet klage- eller reklamasjonsnemnd.tvist om krav som bringes inn for Forbrukertilsynet eller annet meklingsorgan som er innmeldt etter [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd.tvist om krav som bringes inn for Diskrimineringsnemnda.tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet.
+2\. Reglene i nr. 1 gjelder tilsvarende for:tvist om krav som bringes inn for en klage- eller reklamasjonsnemnd som er opprettet av skyldneren eller bransjeorganisasjon han er tilsluttet eller under deres medvirkning. Det samme gjelder hvis vedtektene for nemnda er offentlig godkjent etter særskilt lovbestemmelse eller hvis skyldneren godtar at tvist om kravet bringes inn for en opprettet klage- eller reklamasjonsnemnd.tvist om krav som bringes inn for Forbrukertilsynet eller annet meklingsorgan som er innmeldt etter [godkjenningsloven § 25](lov/2016-06-17-29/§25) første ledd.tvist om krav som bringes inn for Diskrimineringsnemnda.tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet.
 
 > Endret ved lover [13 juni 1997 nr. 43](lov/1997-06-13-43), [26 juni 1998 nr. 46](lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](forskrift/1998-06-26-600)), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [17 feb 2017 nr. 7](lov/2017-02-17-7) (ikr. 1 mars 2017 iflg. [res. 17 feb 2017 nr. 196](forskrift/2017-02-17-196)), [16 juni 2017 nr. 50](lov/2017-06-16-50) (ikr. 1 jan 2018 iflg. [res. 16 juni 2017 nr. 750](forskrift/2017-06-16-750)), [23 juni 2020 nr. 98](lov/2020-06-23-98) (ikr. 1 jan 2021 iflg. [res. 23 juni 2020 nr. 1285](forskrift/2020-06-23-1285)), [20 des 2022 nr. 115](lov/2022-12-20-115).
 
 ### § 17. (Tvangsfullbyrdelse.)
 
-1. Har fordringshaveren tvangsgrunnlag for sin fordring, avbrytes foreldelsen ved begjæring om tvangsfullbyrdelse (utlegg eller dekning).
+1\. Har fordringshaveren tvangsgrunnlag for sin fordring, avbrytes foreldelsen ved begjæring om tvangsfullbyrdelse (utlegg eller dekning).
 
-2. For krav som skal inndrives i fremmed stat, avbrytes foreldelse ved at det settes fram begjæring om inndrivelse overfor vedkommende myndighet her i riket eller i den fremmede stat i samsvar med lov eller overenskomst mellom statene om inndrivelse i den fremmede staten.
+2\. For krav som skal inndrives i fremmed stat, avbrytes foreldelse ved at det settes fram begjæring om inndrivelse overfor vedkommende myndighet her i riket eller i den fremmede stat i samsvar med lov eller overenskomst mellom statene om inndrivelse i den fremmede staten.
 
-3. For krav som inndrives etter innkrevingsloven, avbrytes foreldelsen når skyldneren er gitt varsel etter [innkrevingsloven § 25](lov/2025-04-25-12/§25). I tilfeller der slikt varsel ikke er gitt, avbrytes foreldelsen når utleggspant, utleggstrekk eller tvangsdekning er besluttet, eller inndrivingsforsøket er avsluttet med beslutning om intet til utlegg. For krav som kan inndrives i fremmed stat etter lov eller overenskomst, avbrytes foreldelse også ved at det settes fram begjæring om inndrivelse overfor rette myndighet i den fremmede staten.
+3\. For krav som inndrives etter innkrevingsloven, avbrytes foreldelsen når skyldneren er gitt varsel etter [innkrevingsloven § 25](lov/2025-04-25-12/§25). I tilfeller der slikt varsel ikke er gitt, avbrytes foreldelsen når utleggspant, utleggstrekk eller tvangsdekning er besluttet, eller inndrivingsforsøket er avsluttet med beslutning om intet til utlegg. For krav som kan inndrives i fremmed stat etter lov eller overenskomst, avbrytes foreldelse også ved at det settes fram begjæring om inndrivelse overfor rette myndighet i den fremmede staten.
 
-4. For krav som kommunene inndriver som særnamsmyndighet, avbrytes foreldelsen når skyldneren er gitt varsel etter [tvangsfullbyrdelsesloven § 2-15 annet ledd](lov/1992-06-26-86/§2-15/ledd/2). For øvrig gjelder nr. 3 tilsvarende.
+4\. For krav som kommunene inndriver som særnamsmyndighet, avbrytes foreldelsen når skyldneren er gitt varsel etter [tvangsfullbyrdelsesloven § 2-15 annet ledd](lov/1992-06-26-86/§2-15/ledd/2). For øvrig gjelder nr. 3 tilsvarende.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a).
 
 ### § 18. (Konkurs, gjeldsforhandling og skifte).
 
-1. Når fordringshaveren begjærer konkurs eller offentlig skifte, blir dermed foreldelse av hans fordring avbrutt.
+1\. Når fordringshaveren begjærer konkurs eller offentlig skifte, blir dermed foreldelse av hans fordring avbrutt.
 
-2. Er skyldnerens bo under konkurs, gjeldsforhandling etter [konkursloven](lov/1984-06-08-58), offentlig skifte, eller er det åpnet gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), avbrytes ellers foreldelse når fordringshaveren anmelder fordringen i boet eller til namsmyndigheten. Foreldelse av alle fordringer som blir anmeldt innen utløpet av meldefristen i boet anses avbrutt den dag da det ble åpnet konkurs, gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller offentlig skifte.
+2\. Er skyldnerens bo under konkurs, gjeldsforhandling etter [konkursloven](lov/1984-06-08-58), offentlig skifte, eller er det åpnet gjeldsforhandling etter [gjeldsordningsloven](lov/1992-07-17-99), avbrytes ellers foreldelse når fordringshaveren anmelder fordringen i boet eller til namsmyndigheten. Foreldelse av alle fordringer som blir anmeldt innen utløpet av meldefristen i boet anses avbrutt den dag da det ble åpnet konkurs, gjeldsforhandling etter konkursloven eller gjeldsordningsloven eller offentlig skifte.
 
-3. Avbrudd har virkning også i forhold til skyldneren og hans arvinger.
+3\. Avbrudd har virkning også i forhold til skyldneren og hans arvinger.
 
 > Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [7 juni 1985 nr. 52](lov/1985-06-07-52), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 19. (Prosessvarsel.)
 
-1. Er forfølgning i samsvar med [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) nr. [1](lov/1979-05-18-18/§1) i rett tid innledet mot en av flere skyldnere, skal fordringen anses rettidig påtalt overfor de øvrige når fordringshaveren, før foreldelse er inntrådt, har gitt dem varsel om forfølgningen på den måten som er fastsatt i [tvisteloven § 15-9](lov/2005-06-17-90/§15-9), og senere forfølger sin fordring mot vedkommende innen 1 år etter at saken er avsluttet ved forlik, dom eller på annen måte.
+1\. Er forfølgning i samsvar med [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) nr. [1](lov/1979-05-18-18/§1) i rett tid innledet mot en av flere skyldnere, skal fordringen anses rettidig påtalt overfor de øvrige når fordringshaveren, før foreldelse er inntrådt, har gitt dem varsel om forfølgningen på den måten som er fastsatt i [tvisteloven § 15-9](lov/2005-06-17-90/§15-9), og senere forfølger sin fordring mot vedkommende innen 1 år etter at saken er avsluttet ved forlik, dom eller på annen måte.
 
-2. Samme regel gjelder når fordringen avhenger av et rettsforhold som det er reist sak om av eller mot fordringshaveren.
+2\. Samme regel gjelder når fordringen avhenger av et rettsforhold som det er reist sak om av eller mot fordringshaveren.
 
 > Endret ved [lov 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3).
 
@@ -190,49 +192,49 @@ Når foreldelse avbrytes ved erkjennelse etter [§ 14](lov/1979-05-18-18/§14), 
 
 ### § 21. (Ny frist etter påtale, avgjørelse m.m.)
 
-1. Er foreldelse avbrutt ved påtale etter [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), skjer ingen foreldelse så lenge forfølgningen pågår. Beslutter en namsmyndighet at fordringen skal dekkes ved utleggstrekk, skjer ingen foreldelse så lenge utleggstrekket består. Foreldelse inntrer likevel dersom fordringshaveren ikke meddeler Innkrevingsmyndigheten at kravet fortsatt består innen 10 år fra trekkbeslutningen ble truffet, siste utbetaling til fordringshaveren fant sted, eller fordringshaveren sist ga slik meddelelse. Tredje punktum gjelder ikke krav som Innkrevingsmyndigheten har i trekket.
+1\. Er foreldelse avbrutt ved påtale etter [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), skjer ingen foreldelse så lenge forfølgningen pågår. Beslutter en namsmyndighet at fordringen skal dekkes ved utleggstrekk, skjer ingen foreldelse så lenge utleggstrekket består. Foreldelse inntrer likevel dersom fordringshaveren ikke meddeler Innkrevingsmyndigheten at kravet fortsatt består innen 10 år fra trekkbeslutningen ble truffet, siste utbetaling til fordringshaveren fant sted, eller fordringshaveren sist ga slik meddelelse. Tredje punktum gjelder ikke krav som Innkrevingsmyndigheten har i trekket.
 
-2. Blir fordringen bindende fastslått ved rettsforlik, dom eller annen avgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16), løper en ny foreldelsesfrist på 10 år fra den dag da rettsforlik er inngått, dom er avsagt eller annen avgjørelse er truffet, eller fra den dag da fordringshaveren tidligst kan kreve å få oppfyllelse. Oppnår fordringshaveren avgjørelse som nevnt uten at fordringen blir bindende fastslått, er den nye foreldelsesfristen 3 år. Det samme gjelder tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet, dersom ombudet gir uttrykk for et standpunkt som nevnt i [sivilombudsloven § 12](lov/2021-06-18-121/§12) første ledd og ber forvaltningsorganet behandle saken på nytt. Fordring på senere forfalt rente eller selskapsutbytte foreldes likevel etter [§§ 2](lov/1979-05-18-18/§2) og 3, og senere forfalt terminytelse etter [§ 6](lov/1979-05-18-18/§6).
+2\. Blir fordringen bindende fastslått ved rettsforlik, dom eller annen avgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16), løper en ny foreldelsesfrist på 10 år fra den dag da rettsforlik er inngått, dom er avsagt eller annen avgjørelse er truffet, eller fra den dag da fordringshaveren tidligst kan kreve å få oppfyllelse. Oppnår fordringshaveren avgjørelse som nevnt uten at fordringen blir bindende fastslått, er den nye foreldelsesfristen 3 år. Det samme gjelder tvist om krav mot den offentlige forvaltning som bringes inn for Sivilombudet, dersom ombudet gir uttrykk for et standpunkt som nevnt i [sivilombudsloven § 12](lov/2021-06-18-121/§12) første ledd og ber forvaltningsorganet behandle saken på nytt. Fordring på senere forfalt rente eller selskapsutbytte foreldes likevel etter [§§ 2](lov/1979-05-18-18/§2) og 3, og senere forfalt terminytelse etter [§ 6](lov/1979-05-18-18/§6).
 
-3. Fremmes tvangsfullbyrdelse etter [§ 17](lov/1979-05-18-18/§17) uten at fordringshaveren får full dekning for sin fordring, blir det regnet ny frist på 10 år fra sakens avslutning. Blir fordringen anerkjent under konkurs eller offentlig skifte, blir det regnet ny frist på 10 år fra bobehandlingens slutning, i tilfelle ved avgjørelse i høyere instans, selv om fordringen er særskilt anerkjent tidligere. Nr. 2 fjerde punktum gjelder tilsvarende. Dersom fordringen blir omfattet av en gjeldsordning etter gjeldsordningsloven, blir det regnet en ny frist på 10 år fra den dag da fristen for å ta stilling til frivillig gjeldsordning etter [gjeldsordningsloven § 4-12](lov/1992-07-17-99/§4-12) første ledd er løpt ut, eller fra den dag da tvungen gjeldsordning ble stadfestet.
+3\. Fremmes tvangsfullbyrdelse etter [§ 17](lov/1979-05-18-18/§17) uten at fordringshaveren får full dekning for sin fordring, blir det regnet ny frist på 10 år fra sakens avslutning. Blir fordringen anerkjent under konkurs eller offentlig skifte, blir det regnet ny frist på 10 år fra bobehandlingens slutning, i tilfelle ved avgjørelse i høyere instans, selv om fordringen er særskilt anerkjent tidligere. Nr. 2 fjerde punktum gjelder tilsvarende. Dersom fordringen blir omfattet av en gjeldsordning etter gjeldsordningsloven, blir det regnet en ny frist på 10 år fra den dag da fristen for å ta stilling til frivillig gjeldsordning etter [gjeldsordningsloven § 4-12](lov/1992-07-17-99/§4-12) første ledd er løpt ut, eller fra den dag da tvungen gjeldsordning ble stadfestet.
 
-4. For krav der foreldelsen er avbrutt etter [§ 17 nr. 3](lov/1979-05-18-18/§17/ledd/3) eller [nr. 4](lov/1979-05-18-18/§17/ledd/4), løper en ny foreldelsesfrist på 10 år fra den dag foreldelsen ble avbrutt. For senere forfalte renter er den nye fristen 3 år.
+4\. For krav der foreldelsen er avbrutt etter [§ 17 nr. 3](lov/1979-05-18-18/§17/ledd/3) eller [nr. 4](lov/1979-05-18-18/§17/ledd/4), løper en ny foreldelsesfrist på 10 år fra den dag foreldelsen ble avbrutt. For senere forfalte renter er den nye fristen 3 år.
 
-5. Er foreldelse avbrutt etter [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), løper ikke foreldelsesfristen for senere forfalte renter så lenge den rentebærende fordringen består.
+5\. Er foreldelse avbrutt etter [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), løper ikke foreldelsesfristen for senere forfalte renter så lenge den rentebærende fordringen består.
 
 > Endret ved [lover 11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 aug 1993 iflg. [res. 23 juli 1993 nr. 764](forskrift/1993-07-23-764) – får også virkning for tilfeller der foreldelsesfristen er avbrutt etter § 17 før ikrafttredelsen, med mindre fordringen ved ikrafttredelsen allerede var foreldet), [26 juni 1998 nr. 46](lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](forskrift/1998-06-26-600)), [25 jan 2002 nr. 2](lov/2002-01-25-2), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [25 juni 2004 nr. 51](lov/2004-06-25-51) (ikr. 1 juli 2004 iflg. [res. 25 juni 2004 nr. 980](forskrift/2004-06-25-980), gjelder også fordringer som ikke er foreldet når endringen trer i kraft), [20 des 2022 nr. 115](lov/2022-12-20-115), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a).
 
 ### § 22. (Tilleggsfrist etter avvisning m.m.)
 
-1. Dersom påtale etter [§§ 15](lov/1979-05-18-18/§15), [16](lov/1979-05-18-18/§16) eller [17](lov/1979-05-18-18/§17) ikke fører til forlik eller realitetsavgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) eller til at tvangsfullbyrdelse fremmes, og dette ikke skyldes forsettlig forhold fra fordringshaverens side, varer virkningen av den rettidige påtale i 1 år etter at saken er avsluttet. Har ikke fordringshaveren fått melding om dette innen rimelig tid, regnes fristen fra den dag da fordringshaveren fikk kjennskap til at saken var avsluttet eller burde søkt opplysning om det. Virkningen opphører likevel senest 3 år etter sakens slutning. Det samme gjelder også for så vidt fordringshaveren ikke får fullt medhold i avgjørelse etter [§ 16](lov/1979-05-18-18/§16). Når fornærmede trekker sin begjæring om å få pådømt krav i straffesak, varer virkningen av rettidig påtale etter [§ 15](lov/1979-05-18-18/§15) i ett år fra fornærmede meddelte domstolen eller påtalemyndigheten om tilbaketrekkingen.
+1\. Dersom påtale etter [§§ 15](lov/1979-05-18-18/§15), [16](lov/1979-05-18-18/§16) eller [17](lov/1979-05-18-18/§17) ikke fører til forlik eller realitetsavgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) eller til at tvangsfullbyrdelse fremmes, og dette ikke skyldes forsettlig forhold fra fordringshaverens side, varer virkningen av den rettidige påtale i 1 år etter at saken er avsluttet. Har ikke fordringshaveren fått melding om dette innen rimelig tid, regnes fristen fra den dag da fordringshaveren fikk kjennskap til at saken var avsluttet eller burde søkt opplysning om det. Virkningen opphører likevel senest 3 år etter sakens slutning. Det samme gjelder også for så vidt fordringshaveren ikke får fullt medhold i avgjørelse etter [§ 16](lov/1979-05-18-18/§16). Når fornærmede trekker sin begjæring om å få pådømt krav i straffesak, varer virkningen av rettidig påtale etter [§ 15](lov/1979-05-18-18/§15) i ett år fra fornærmede meddelte domstolen eller påtalemyndigheten om tilbaketrekkingen.
 
-2. Blir en begjæring om konkurs eller offentlig skifte, jfr. [§ 18](lov/1979-05-18-18/§18), ikke tatt til følge eller en rettidig anmeldt fordring ikke anerkjent i boet, varer virkningen av avbruddet i 1 år etter at det ble truffet avgjørelse, i tilfelle i høyere instans, om ikke å ta begjæringen til følge eller om ikke å anerkjenne eller prøve fordringen. Er formell beslutning om dette ikke truffet og meddelt fordringshaveren, regnes fristen fra den dag da behandlingen ble avsluttet, i tilfelle ved avgjørelse i høyere instans. Blir et forslag til frivillig eller tvungen gjeldsordning etter gjeldsordningsloven ikke vedtatt eller stadfestet, jf. [gjeldsordningsloven §§ 4-12](lov/1992-07-17-99/§4-12) og [5-4](lov/1992-07-17-99/§5-4), varer virkningen av avbruddet i 1 år etter at det ble truffet avgjørelse, i tilfelle i høyere instans, om å nekte stadfestelse av tvungen gjeldsordning, eller i 1 år etter at fristen for å ta stilling til frivillig gjeldsordning etter [gjeldsordningsloven § 4-12](lov/1992-07-17-99/§4-12) er løpt ut.
+2\. Blir en begjæring om konkurs eller offentlig skifte, jfr. [§ 18](lov/1979-05-18-18/§18), ikke tatt til følge eller en rettidig anmeldt fordring ikke anerkjent i boet, varer virkningen av avbruddet i 1 år etter at det ble truffet avgjørelse, i tilfelle i høyere instans, om ikke å ta begjæringen til følge eller om ikke å anerkjenne eller prøve fordringen. Er formell beslutning om dette ikke truffet og meddelt fordringshaveren, regnes fristen fra den dag da behandlingen ble avsluttet, i tilfelle ved avgjørelse i høyere instans. Blir et forslag til frivillig eller tvungen gjeldsordning etter gjeldsordningsloven ikke vedtatt eller stadfestet, jf. [gjeldsordningsloven §§ 4-12](lov/1992-07-17-99/§4-12) og [5-4](lov/1992-07-17-99/§5-4), varer virkningen av avbruddet i 1 år etter at det ble truffet avgjørelse, i tilfelle i høyere instans, om å nekte stadfestelse av tvungen gjeldsordning, eller i 1 år etter at fristen for å ta stilling til frivillig gjeldsordning etter [gjeldsordningsloven § 4-12](lov/1992-07-17-99/§4-12) er løpt ut.
 
-3. Ved gjeldsforhandling etter loven gjelder bestemmelsen i nr. 2 annet punktum tilsvarende for rettidig anmeldt fordring.
+3\. Ved gjeldsforhandling etter loven gjelder bestemmelsen i nr. 2 annet punktum tilsvarende for rettidig anmeldt fordring.
 
-4. Opphører et utleggstrekk som fordringen tar del i, inntrer ikke foreldelse før tidligst 1 år etter opphøret. Nr. 1 annet og tredje punktum gjelder tilsvarende.
+4\. Opphører et utleggstrekk som fordringen tar del i, inntrer ikke foreldelse før tidligst 1 år etter opphøret. Nr. 1 annet og tredje punktum gjelder tilsvarende.
 
 > Endret ved [lover 8 juni 1984 nr. 60](lov/1984-06-08-60), [11 juni 1993 nr. 83](lov/1993-06-11-83) (ikr. 1 aug 1993 iflg. [res. 23 juli 1993 nr. 764](forskrift/1993-07-23-764) – får også virkning for tilfeller der foreldelsesfristen er avbrutt etter § 17 før ikrafttredelsen, med mindre fordringen ved ikrafttredelsen allerede var foreldet), [10 jan 2003 nr. 1](lov/2003-01-10-1) (ikr. 1 juli 2003 iflg. [res. 10 jan 2003 nr. 15](forskrift/2003-01-10-15)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a). **Endres** ved lov [19 juni 2026 nr. 48](lov/2026-06-19-48) (i kraft fra den tid Kongen bestemmer).
 
 ### § 23. (Avbrudd og avgjørelse i utlandet.)
 
-1. Dersom fordringshaveren før utløpet av foreldelsesfristen etter denne lov tar avbrytende skritt som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) nr. [1](lov/1979-05-18-18/§1) mot skyldneren i fremmed stat, hvor det er rimelig verneting for saken, får avbruddet virkning også her i riket så lenge forfølgningen pågår. Fører ikke denne til forlik eller realitetsavgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16), gjelder [§ 22](lov/1979-05-18-18/§22) nr. [1](lov/1979-05-18-18/§1) tilsvarende.
+1\. Dersom fordringshaveren før utløpet av foreldelsesfristen etter denne lov tar avbrytende skritt som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16) nr. [1](lov/1979-05-18-18/§1) mot skyldneren i fremmed stat, hvor det er rimelig verneting for saken, får avbruddet virkning også her i riket så lenge forfølgningen pågår. Fører ikke denne til forlik eller realitetsavgjørelse som nevnt i [§§ 15](lov/1979-05-18-18/§15) eller [16](lov/1979-05-18-18/§16), gjelder [§ 22](lov/1979-05-18-18/§22) nr. [1](lov/1979-05-18-18/§1) tilsvarende.
 
-2. Blir fordringen fastslått ved rettsforlik eller realitetsavgjørelse som anerkjennes her i riket, løper en ny foreldelsesfrist på 10 år etter reglene i [§ 21](lov/1979-05-18-18/§21) nr. 2. Kan avgjørelsen ikke anerkjennes her i riket, varer likevel virkningen av fordringens rettidige påtale etter nr. 1 i nærværende paragraf i 1 år regnet fra den dag da avgjørelsen ble tatt, men bare i den utstrekning avgjørelsen godkjenner fordringen.
+2\. Blir fordringen fastslått ved rettsforlik eller realitetsavgjørelse som anerkjennes her i riket, løper en ny foreldelsesfrist på 10 år etter reglene i [§ 21](lov/1979-05-18-18/§21) nr. 2. Kan avgjørelsen ikke anerkjennes her i riket, varer likevel virkningen av fordringens rettidige påtale etter nr. 1 i nærværende paragraf i 1 år regnet fra den dag da avgjørelsen ble tatt, men bare i den utstrekning avgjørelsen godkjenner fordringen.
 
 ## Foreldelsens virkninger.
 
 ### § 24. (Tap av rett til oppfyllelse, rente m.m.)
 
-1. Ved foreldelse taper fordringshaveren sin rett til oppfyllelse.
+1\. Ved foreldelse taper fordringshaveren sin rett til oppfyllelse.
 
-2. Foreldelse av en fordring omfatter også rente, utbytte og lignende tilleggsytelse.
+2\. Foreldelse av en fordring omfatter også rente, utbytte og lignende tilleggsytelse.
 
 ### § 25. (Forholdet hvor det er flere skyldnere.)
 
-1. At foreldelse er inntrådt overfor en av flere skyldnere, er uten innflytelse på fordringshaverens krav mot de andre, for så vidt ikke annet følger av avtale.
+1\. At foreldelse er inntrådt overfor en av flere skyldnere, er uten innflytelse på fordringshaverens krav mot de andre, for så vidt ikke annet følger av avtale.
 
-2. Ved kausjon eller tilsvarende garanti anses likevel fordringen mot garantisten som foreldet når foreldelsen er inntrådt i forhold til hovedskyldneren før fordringen er gjort gjeldende mot garantisten ved skritt som nevnt i [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), for så vidt ikke annet følger av avtale.
+2\. Ved kausjon eller tilsvarende garanti anses likevel fordringen mot garantisten som foreldet når foreldelsen er inntrådt i forhold til hovedskyldneren før fordringen er gjort gjeldende mot garantisten ved skritt som nevnt i [§§ 15](lov/1979-05-18-18/§15) til [19](lov/1979-05-18-18/§19), for så vidt ikke annet følger av avtale.
 
 ### § 26. (Motregning.)
 
@@ -240,33 +242,33 @@ Foreldelse av en fordring medfører ikke at fordringshaveren taper motregningsre
 
 ### § 27. (Pant m.m.)
 
-1. Når fordringen foreldes, bortfaller:lovbestemt underpant som ikke er tinglyst eller registrert i særskilt rettsregister,underpant i henhold til skadesløsbrev til sikkerhet for mulig inntredende gjeldsansvar,underpant for krav på rente eller annen ytelse som forfaller med bestemte mellomrom og ikke er avdrag på en skyldig hovedstol.
+1\. Når fordringen foreldes, bortfaller:lovbestemt underpant som ikke er tinglyst eller registrert i særskilt rettsregister,underpant i henhold til skadesløsbrev til sikkerhet for mulig inntredende gjeldsansvar,underpant for krav på rente eller annen ytelse som forfaller med bestemte mellomrom og ikke er avdrag på en skyldig hovedstol.
 
-2. Rett etter eiendomsforbehold til eller salgspant i levert løsøre faller bort når fordringen på kjøpesummen foreldes. Dette gjelder likevel ikke når retten i medhold av lov er tinglyst eller registrert i særskilt rettsregister.
+2\. Rett etter eiendomsforbehold til eller salgspant i levert løsøre faller bort når fordringen på kjøpesummen foreldes. Dette gjelder likevel ikke når retten i medhold av lov er tinglyst eller registrert i særskilt rettsregister.
 
-3. Ellers har foreldelse ingen innflytelse på panterett og tilbakeholdsrett.
+3\. Ellers har foreldelse ingen innflytelse på panterett og tilbakeholdsrett.
 
-4. Av rettighet som hviler som grunnbyrde på fast eiendom, foreldes bare de enkelte ytelser.
+4\. Av rettighet som hviler som grunnbyrde på fast eiendom, foreldes bare de enkelte ytelser.
 
 ## Alminnelige bestemmelser.
 
 ### § 28. (Avtale om å forlenge eller forkorte foreldelsestiden.)
 
-1. Skyldneren kan ikke bindende vedta at foreldelse ikke skal inntre i samsvar med reglene i denne lov. Etter at fordringen er oppstått, kan han likevel vedta fristforlengelse med virkning for inntil 3 år om gangen regnet fra vedtagelsen, likevel ikke ut over 10 år fra den dag da foreldelsesfristen ellers ville løpt ut.
+1\. Skyldneren kan ikke bindende vedta at foreldelse ikke skal inntre i samsvar med reglene i denne lov. Etter at fordringen er oppstått, kan han likevel vedta fristforlengelse med virkning for inntil 3 år om gangen regnet fra vedtagelsen, likevel ikke ut over 10 år fra den dag da foreldelsesfristen ellers ville løpt ut.
 
-2. Foreldelsesfristen for fordring etter mengdegjeldsbrev kan forlenges ved uttrykkelig bestemmelse i gjeldsbrevet.
+2\. Foreldelsesfristen for fordring etter mengdegjeldsbrev kan forlenges ved uttrykkelig bestemmelse i gjeldsbrevet.
 
-3. Foreldelsesfristen for fordring etter rente- eller utbyttekupong kan forlenges ved avtale, men ikke forkortes.
+3\. Foreldelsesfristen for fordring etter rente- eller utbyttekupong kan forlenges ved avtale, men ikke forkortes.
 
 > Endret ved [lov 4 mars 1983 nr. 4](lov/1983-03-04-4).
 
 ### § 29. (Beregning av frister m.m.)
 
-1. I frister etter denne lov medregnes den dag som etter sitt tall i måneden svarer til den dag som fristen regnes fra. I mangel av tilsvarende dag løper fristen ut på den siste dag i måneden.
+1\. I frister etter denne lov medregnes den dag som etter sitt tall i måneden svarer til den dag som fristen regnes fra. I mangel av tilsvarende dag løper fristen ut på den siste dag i måneden.
 
-2. Ender fristen på en lørdag, helgedag eller dag som etter lovgivningen er likestilt med helgedag, forlenges fristen til den nærmest følgende virkedag.
+2\. Ender fristen på en lørdag, helgedag eller dag som etter lovgivningen er likestilt med helgedag, forlenges fristen til den nærmest følgende virkedag.
 
-3. Rettidig avbrudd er skjedd når det nødvendige skrift er kommet fram til vedkommende myndighet eller person, eller når det her i riket er postlagt til vedkommende før fristen er ute. Bestemmelsene i lov av 13. august nr. 5 om domstolene § 146 tredje og fjerde ledd gjelder tilsvarende.
+3\. Rettidig avbrudd er skjedd når det nødvendige skrift er kommet fram til vedkommende myndighet eller person, eller når det her i riket er postlagt til vedkommende før fristen er ute. Bestemmelsene i lov av 13. august nr. 5 om domstolene § 146 tredje og fjerde ledd gjelder tilsvarende.
 
 > Endret ved [lov 26 juni 1998 nr. 46](lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](forskrift/1998-06-26-600)).
 
@@ -280,11 +282,15 @@ Når det i annen lov er fastsatt særlige foreldelsesfrister eller andre særlig
 
 Loven tar til å gjelde 1. januar 1980, men [§ 1](lov/1979-05-18-18/§1) nr. 2 fra den tid Kongen fastsetter.1 Den får anvendelse også på tidligere oppståtte fordringer, som ikke før den nevnte dag var foreldet etter de da gjeldende regler. Foreldelse etter denne lov skal likevel ikke i noe tilfelle inntre før utgangen av året 1982, med mindre fordringen ville være foreldet på tidligere tidspunkt også etter de regler som gjaldt da loven trådte i kraft.
 
+1 Fra 1 aug 1988 iflg. [res. 8 juli 1988 nr. 552](forskrift/1988-07-08-552).
+
 ### § 32. (Opphevelse eller endring av andre lover.)
 
 Fra den dag loven tar til å gjelde, gjøres følgende endringer i lovgivningen ellers: – – –
 
 ## Konvensjon av 14 juni 1974 om forelding i internasjonale kjøpsforhold.1
+
+1 Kunngjort som konvensjon 8 juli 1988 nr. 553. – Se [lov 18 mai 1979 nr. 18 § 1](lov/1979-05-18-18/§1) nr. 2.
 
 ### Innleiing
 
@@ -296,11 +302,11 @@ De stater som har sluttet seg til denne konvensjon, og som tar i betraktning at 
 
 ### Art 1
 
-1. Denne konvensjon fastsetter vilkåra for når innbyrdes krav mellom en kjøper og en selger som utspringer av en internasjonal avtale om løsørekjøp eller vedrører dennes mislighold, bortfall eller ugyldighet, ikke lenger kan gjøres gjeldende på grunn av at en tidsfrist løper ut. Denne tidsfrist kalles heretter «foreldingsfristen».
+1\. Denne konvensjon fastsetter vilkåra for når innbyrdes krav mellom en kjøper og en selger som utspringer av en internasjonal avtale om løsørekjøp eller vedrører dennes mislighold, bortfall eller ugyldighet, ikke lenger kan gjøres gjeldende på grunn av at en tidsfrist løper ut. Denne tidsfrist kalles heretter «foreldingsfristen».
 
-2. Denne konvensjon berører ikke tidsfrister som en part har for å varsle den annen part eller treffe andre tiltak enn saksanlegg, som vilkår for å erverve eller gjøre gjeldende sitt krav.
+2\. Denne konvensjon berører ikke tidsfrister som en part har for å varsle den annen part eller treffe andre tiltak enn saksanlegg, som vilkår for å erverve eller gjøre gjeldende sitt krav.
 
-3. I denne konvensjon:betyr «kjøper», «selger» og «part»: personer som kjøper eller selger eller som avtaler å kjøpe eller selge gjenstander, samt etterfølgere i og erververe av deres rettigheter og plikter etter kjøpavtalen;betyr «kreditor»: en part som gjør et krav gjeldende, hva enten det gjelder betaling av et pengebeløp eller ikke;betyr «debitor»: en part som kreditor gjør gjeldende et krav mot;betyr «mislighold»: en parts ikke-oppfylling av sine plikter etter avtalen eller enhver oppfylling som ikke er i samsvar med avtalen;omfatter «sak»: rettssak, voldgiftsak og forvaltningsak;omfatter «person» også privatrettslig eller offentligrettslig selskap, forening, sammenslutning, stiftelse eller enhet, som kan saksøke eller bli saksøkt;omfatter «skriftlig» også meddelelser ved telegram eller teleks;betyr «år»: et år reknet etter den gregorianske kalender.
+3\. I denne konvensjon:betyr «kjøper», «selger» og «part»: personer som kjøper eller selger eller som avtaler å kjøpe eller selge gjenstander, samt etterfølgere i og erververe av deres rettigheter og plikter etter kjøpavtalen;betyr «kreditor»: en part som gjør et krav gjeldende, hva enten det gjelder betaling av et pengebeløp eller ikke;betyr «debitor»: en part som kreditor gjør gjeldende et krav mot;betyr «mislighold»: en parts ikke-oppfylling av sine plikter etter avtalen eller enhver oppfylling som ikke er i samsvar med avtalen;omfatter «sak»: rettssak, voldgiftsak og forvaltningsak;omfatter «person» også privatrettslig eller offentligrettslig selskap, forening, sammenslutning, stiftelse eller enhet, som kan saksøke eller bli saksøkt;omfatter «skriftlig» også meddelelser ved telegram eller teleks;betyr «år»: et år reknet etter den gregorianske kalender.
 
 ### Art 2
 
@@ -308,11 +314,11 @@ I denne konvensjon:anses en kjøpavtale som internasjonal dersom kjøper og selg
 
 ### Art 3
 
-1. Denne konvensjon gjelder bare dersom partene i en internasjonal kjøpavtale ved avtaleslutningen har sine forretningsteder i konvensjonstater.
+1\. Denne konvensjon gjelder bare dersom partene i en internasjonal kjøpavtale ved avtaleslutningen har sine forretningsteder i konvensjonstater.
 
-2. For så vidt ikke annet er bestemt i denne konvensjon, gjelder den uten omsyn til den lov som ellers skulle bli å anvende etter den internasjonale privatretts regler.
+2\. For så vidt ikke annet er bestemt i denne konvensjon, gjelder den uten omsyn til den lov som ellers skulle bli å anvende etter den internasjonale privatretts regler.
 
-3. Denne konvensjon gjelder ikke når partene ved uttrykkelig avtale har bestemt at denne ikke skal anvendes.
+3\. Denne konvensjon gjelder ikke når partene ved uttrykkelig avtale har bestemt at denne ikke skal anvendes.
 
 ### Art 4
 
@@ -324,9 +330,9 @@ Denne konvensjon gjelder ikke krav som grunner seg på:personskade eller en pers
 
 ### Art 6
 
-1. Denne konvensjon får ikke anvendelse på avtaler der den overveiende del av selgerens plikter består i å utføre arbeid eller andre tjenester.
+1\. Denne konvensjon får ikke anvendelse på avtaler der den overveiende del av selgerens plikter består i å utføre arbeid eller andre tjenester.
 
-2. Avtaler om å skaffe ting som skal tilvirkes eller produseres, reknes som kjøp, med mindre den part som bestiller tingen skal yte en vesentlig del av det materiale som trengs for slik tilvirking eller produksjon.
+2\. Avtaler om å skaffe ting som skal tilvirkes eller produseres, reknes som kjøp, med mindre den part som bestiller tingen skal yte en vesentlig del av det materiale som trengs for slik tilvirking eller produksjon.
 
 ### Art 7
 
@@ -340,17 +346,17 @@ Foreldingsfristen er fire år.
 
 ### Art 9
 
-1. For så vidt ikke annet følger av artiklene 10, 11 og 12, løper foreldingsfristen fra den dag kravet forfaller.
+1\. For så vidt ikke annet følger av artiklene 10, 11 og 12, løper foreldingsfristen fra den dag kravet forfaller.
 
-2. Foreldingsfristens utgangspunkt utsettes ikke ved at:det kreves at parten skal varsles som nevnt i artikkel 1 paragraf 2, elleren voldgiftavtale bestemmer at ingen rett skal oppstå før voldgiftavgjerd er truffet.
+2\. Foreldingsfristens utgangspunkt utsettes ikke ved at:det kreves at parten skal varsles som nevnt i artikkel 1 paragraf 2, elleren voldgiftavtale bestemmer at ingen rett skal oppstå før voldgiftavgjerd er truffet.
 
 ### Art 10
 
-1. Et krav som følger av mislighold, forfaller på den dag da misligholdet inntrer.
+1\. Et krav som følger av mislighold, forfaller på den dag da misligholdet inntrer.
 
-2. Et krav som følger av en mangel, forfaller på den dag da gjenstanden faktisk er overgitt til kjøperen eller da tilbudt overlevering er avvist av ham.
+2\. Et krav som følger av en mangel, forfaller på den dag da gjenstanden faktisk er overgitt til kjøperen eller da tilbudt overlevering er avvist av ham.
 
-3. Et krav grunnet på svik eller svindel foretatt før eller ved avtaleslutningen eller under avtalens oppfylling, forfaller på den dag da det svikaktige forhold ble eller med rimelighet kunne ha blitt oppdaget.
+3\. Et krav grunnet på svik eller svindel foretatt før eller ved avtaleslutningen eller under avtalens oppfylling, forfaller på den dag da det svikaktige forhold ble eller med rimelighet kunne ha blitt oppdaget.
 
 ### Art 11
 
@@ -358,9 +364,9 @@ Dersom selgeren uttrykkelig har påtatt seg å innestå for salgstingen for en v
 
 ### Art 12
 
-1. Dersom en part etter den lov som gjelder for avtalen, under visse forhold har rett til å erklære avtalen hevet eller bortfalt før den fastsatte tid for oppfylling er inne, og han utøver denne rett, skal foreldingsfristen for krav som grunner seg på noe slikt forhold, løpe fra den dag da erklæringen gis til den annen part. Blir avtalen ikke erklært hevet eller bortfalt før oppfyllingstiden er inne, skal foreldingsfristen løpe fra denne forfallsdag.
+1\. Dersom en part etter den lov som gjelder for avtalen, under visse forhold har rett til å erklære avtalen hevet eller bortfalt før den fastsatte tid for oppfylling er inne, og han utøver denne rett, skal foreldingsfristen for krav som grunner seg på noe slikt forhold, løpe fra den dag da erklæringen gis til den annen part. Blir avtalen ikke erklært hevet eller bortfalt før oppfyllingstiden er inne, skal foreldingsfristen løpe fra denne forfallsdag.
 
-2. Foreldingsfristen for krav som utspringer av en parts mislighold av en avtale om levering eller betaling i avdrag, skal i forhold til hvert enkelt avdrag begynne å løpe fra den dag da vedkommende mislighold inntrer. Dersom en part etter den lov som gjelder for avtalen, har rett til å erklære avtalen hevet eller bortfalt p g a slikt mislighold, og han utøver denne rett, skal foreldingsfristen for alle relevante avdrag løpe fra den dag erklæringen gis til den annen part.
+2\. Foreldingsfristen for krav som utspringer av en parts mislighold av en avtale om levering eller betaling i avdrag, skal i forhold til hvert enkelt avdrag begynne å løpe fra den dag da vedkommende mislighold inntrer. Dersom en part etter den lov som gjelder for avtalen, har rett til å erklære avtalen hevet eller bortfalt p g a slikt mislighold, og han utøver denne rett, skal foreldingsfristen for alle relevante avdrag løpe fra den dag erklæringen gis til den annen part.
 
 ### Opphør og forlenging av fristens løp
 
@@ -370,9 +376,9 @@ Foreldingsfristen opphører å løpe når kreditor utfører noen handling som, e
 
 ### Art 14
 
-1. Dersom partene har avtalt å underkaste seg voldgift, opphører foreldingsfristen å løpe når en av partene innleier voldgiftsak på den måten det er bestemt i voldgiftavtalen eller i den lov som gjelder for slik voldgift.
+1\. Dersom partene har avtalt å underkaste seg voldgift, opphører foreldingsfristen å løpe når en av partene innleier voldgiftsak på den måten det er bestemt i voldgiftavtalen eller i den lov som gjelder for slik voldgift.
 
-2. I mangel av slik bestemmelse anses voldgiftsak påbegynt den dag da begjæring om voldgift er levert på den annen parts bopel eller forretningsted eller – om slikt mangler – på hans sist kjente bopel eller forretningsted.
+2\. I mangel av slik bestemmelse anses voldgiftsak påbegynt den dag da begjæring om voldgift er levert på den annen parts bopel eller forretningsted eller – om slikt mangler – på hans sist kjente bopel eller forretningsted.
 
 ### Art 15
 
@@ -384,17 +390,17 @@ I forhold til artiklene 13, 14 og 15 skal enhver handling i form av motkrav anse
 
 ### Art 17
 
-1. Når et krav er blitt gjort gjeldende innen foreldingsfristens utløp i samsvar med artiklene 13, 14, 15 eller 16, men saken avsluttes uten å ha ført til realitetsavgjerd, anses foreldingsfristen å ha fortsatt å løpe.
+1\. Når et krav er blitt gjort gjeldende innen foreldingsfristens utløp i samsvar med artiklene 13, 14, 15 eller 16, men saken avsluttes uten å ha ført til realitetsavgjerd, anses foreldingsfristen å ha fortsatt å løpe.
 
-2. Dersom foreldingsfristen ved sakens avslutning er utløpt eller har mindre enn et år igjen å løpe, får kreditor en tilleggsfrist på ett år fra den dag da saken ble avsluttet.
+2\. Dersom foreldingsfristen ved sakens avslutning er utløpt eller har mindre enn et år igjen å løpe, får kreditor en tilleggsfrist på ett år fra den dag da saken ble avsluttet.
 
 ### Art 18
 
-1. Når sak er reist mot en debitor, skal foreldingsfristen etter denne konvensjon opphøre å løpe overfor enhver annen part som er solidarisk ansvarlig med debitor, såframt kreditor innen fristens utløp skriftlig varsler vedkommende part om at sak er reist.
+1\. Når sak er reist mot en debitor, skal foreldingsfristen etter denne konvensjon opphøre å løpe overfor enhver annen part som er solidarisk ansvarlig med debitor, såframt kreditor innen fristens utløp skriftlig varsler vedkommende part om at sak er reist.
 
-2. Når en etterfølgende kjøper har reist sak mot kjøperen, skal foreldingsfristen etter denne konvensjon opphøre å løpe for kjøperens regresskrav mot selgeren, såframt kjøperen innen fristens utløp skriftlig varsler selgeren om at sak er reist.
+2\. Når en etterfølgende kjøper har reist sak mot kjøperen, skal foreldingsfristen etter denne konvensjon opphøre å løpe for kjøperens regresskrav mot selgeren, såframt kjøperen innen fristens utløp skriftlig varsler selgeren om at sak er reist.
 
-3. Når sak som nevnt i denne artikkels paragraf 1 eller 2 er avsluttet, skal foreldingsfristen for kreditors eller kjøperens regresskrav mot den solidarisk ansvarlige part eller mot selgeren anses for ikke å ha opphørt å løpe etter de nevnte paragrafer, men kreditor eller kjøperen får en tilleggfrist på ett år fra den dag saken ble avsluttet, dersom foreldingsfristen på den tid var utløpt eller hadde mindre enn ett år igjen å løpe.
+3\. Når sak som nevnt i denne artikkels paragraf 1 eller 2 er avsluttet, skal foreldingsfristen for kreditors eller kjøperens regresskrav mot den solidarisk ansvarlige part eller mot selgeren anses for ikke å ha opphørt å løpe etter de nevnte paragrafer, men kreditor eller kjøperen får en tilleggfrist på ett år fra den dag saken ble avsluttet, dersom foreldingsfristen på den tid var utløpt eller hadde mindre enn ett år igjen å løpe.
 
 ### Art 19
 
@@ -402,9 +408,9 @@ Når kreditor, i den stat der debitor har sitt forretningsted og før utløpet a
 
 ### Art 20
 
-1. Når debitor før utløpet av foreldingsfristen skriftlig erkjenner sin forpliktelse overfor kreditor, løper en ny foreldingsfrist på fire år fra den dag da forpliktelsen ble erkjent.
+1\. Når debitor før utløpet av foreldingsfristen skriftlig erkjenner sin forpliktelse overfor kreditor, løper en ny foreldingsfrist på fire år fra den dag da forpliktelsen ble erkjent.
 
-2. Debitors betaling av renter eller delvis oppfylling av en forpliktelse skal ha samme virkning som en erkjennelse etter paragraf 1 i denne artikkel, dersom betalingen eller oppfyllingen med rimelighet kan forstås slik at debitor erkjenner forpliktelsen.
+2\. Debitors betaling av renter eller delvis oppfylling av en forpliktelse skal ha samme virkning som en erkjennelse etter paragraf 1 i denne artikkel, dersom betalingen eller oppfyllingen med rimelighet kan forstås slik at debitor erkjenner forpliktelsen.
 
 ### Art 21
 
@@ -414,11 +420,11 @@ Dersom kreditor, på grunn av forhold som er utafor hans kontroll og som han ver
 
 ### Art 22
 
-1. Foreldingsfristen eller dens løp kan ikke fravikes eller endres ved noen erklæring eller avtale mellom partene, unntatt det som er bestemt i paragraf 2.
+1\. Foreldingsfristen eller dens løp kan ikke fravikes eller endres ved noen erklæring eller avtale mellom partene, unntatt det som er bestemt i paragraf 2.
 
-2. Debitor kan under foreldingsfristens løp til enhver tid forlenge fristen ved en skriftlig erklæring til kreditor. Denne erklæring kan fornyes.
+2\. Debitor kan under foreldingsfristens løp til enhver tid forlenge fristen ved en skriftlig erklæring til kreditor. Denne erklæring kan fornyes.
 
-3. Bestemmelsene i denne artikkel berører ikke gyldigheten av en klausul i kjøpavtalen som fastsetter at voldgiftsak skal reises innen en kortere foreldingsfrist enn bestemt i denne konvensjon, såframt denne klausul er gyldig etter loven som gjelder for kjøpavtalen.
+3\. Bestemmelsene i denne artikkel berører ikke gyldigheten av en klausul i kjøpavtalen som fastsetter at voldgiftsak skal reises innen en kortere foreldingsfrist enn bestemt i denne konvensjon, såframt denne klausul er gyldig etter loven som gjelder for kjøpavtalen.
 
 ### Alminnelig grense for foreldingsfristen
 
@@ -434,9 +440,9 @@ Det at foreldingsfristen er utløpt, skal en bare ta omsyn til dersom det er på
 
 ### Art 25
 
-1. Med mindre annet følger av bestemmelsene i denne artikkels paragraf 2 og i artikkel 24, skal ikke noe krav anerkjennes eller fullbyrdes i noen sak som er reist etter utløpet av foreldingsfristen.
+1\. Med mindre annet følger av bestemmelsene i denne artikkels paragraf 2 og i artikkel 24, skal ikke noe krav anerkjennes eller fullbyrdes i noen sak som er reist etter utløpet av foreldingsfristen.
 
-2. Selv om foreldingsfristen er utløpt, kan en part gjøre gjeldende sitt krav som innsigelse eller til motrekning mot et krav fra den annen part, men i sistnevnte tilfelle bare såframt:begge krav utspringer av samme avtale eller av flere avtaler som er ledd i samme mellomværende; ellerkravene kunne ha blitt motreknet på noe tidspunkt før utløpet av foreldingsfristen.
+2\. Selv om foreldingsfristen er utløpt, kan en part gjøre gjeldende sitt krav som innsigelse eller til motrekning mot et krav fra den annen part, men i sistnevnte tilfelle bare såframt:begge krav utspringer av samme avtale eller av flere avtaler som er ledd i samme mellomværende; ellerkravene kunne ha blitt motreknet på noe tidspunkt før utløpet av foreldingsfristen.
 
 ### Art 26
 
@@ -450,9 +456,9 @@ Utløpet av foreldingsfristen for hovedkravet har samme virkning for plikt til �
 
 ### Art 28
 
-1. Foreldingsfristen bereknes slik at den løper ut ved slutten av den dag som i dato svarer til den dag da fristen tok til å løpe. Dersom det ikke er noen slik tilsvarende dag, utløper fristen ved slutten av den siste dag av fristens siste måned.
+1\. Foreldingsfristen bereknes slik at den løper ut ved slutten av den dag som i dato svarer til den dag da fristen tok til å løpe. Dersom det ikke er noen slik tilsvarende dag, utløper fristen ved slutten av den siste dag av fristens siste måned.
 
-2. Foreldingsfristen bereknes etter dateringen på det sted der saken er reist.
+2\. Foreldingsfristen bereknes etter dateringen på det sted der saken er reist.
 
 ### Art 29
 
@@ -468,11 +474,11 @@ De handlinger og forhold som er nevnt i artiklene 13 til 19 og som har funnet st
 
 ### Art 31
 
-1. Dersom en konvensjonstat omfatter to eller flere territorier som etter dens forfatning har ulike rettssystem for så vidt angår de forhold denne konvensjon omhandler, kan staten ved undertegningen, ratifikasjonen eller tiltredingen erklære at konvensjonen skal omfatte alle dens territorier eller bare en eller flere av dem, og kan til enhver tid endre sin erklæring ved å avgi en ny erklæring.
+1\. Dersom en konvensjonstat omfatter to eller flere territorier som etter dens forfatning har ulike rettssystem for så vidt angår de forhold denne konvensjon omhandler, kan staten ved undertegningen, ratifikasjonen eller tiltredingen erklære at konvensjonen skal omfatte alle dens territorier eller bare en eller flere av dem, og kan til enhver tid endre sin erklæring ved å avgi en ny erklæring.
 
-2. Generalsekretæren i De forente nasjoner skal underrettes om disse erklæringer, som uttrykkelig skal angi de territorier konvensjonen omfatter.
+2\. Generalsekretæren i De forente nasjoner skal underrettes om disse erklæringer, som uttrykkelig skal angi de territorier konvensjonen omfatter.
 
-3. Dersom en konvensjonstat som nevnt i denne artikkels paragraf 1 ikke avgir noen erklæring ved undertegningen, ratifikasjonen eller tiltredingen, skal konvensjonen gjelde for alle statens territorier.
+3\. Dersom en konvensjonstat som nevnt i denne artikkels paragraf 1 ikke avgir noen erklæring ved undertegningen, ratifikasjonen eller tiltredingen, skal konvensjonen gjelde for alle statens territorier.
 
 ### Art 32
 
@@ -502,9 +508,9 @@ Denne konvensjon skal ikke fravike konvensjoner som er eller måtte bli inngått
 
 ### Art 38
 
-1. En konvensjonstat som er tilsluttet en gjeldende konvensjon om internasjonale løsørekjøp, kan ved deponeringen av sitt ratifikasjons- eller tiltredingsdokument erklære at den vil anvende konvensjonen her utelukkende på internasjonale kjøpavtaler slik disse er definert i den nevnte annen konvensjon.
+1\. En konvensjonstat som er tilsluttet en gjeldende konvensjon om internasjonale løsørekjøp, kan ved deponeringen av sitt ratifikasjons- eller tiltredingsdokument erklære at den vil anvende konvensjonen her utelukkende på internasjonale kjøpavtaler slik disse er definert i den nevnte annen konvensjon.
 
-2. Virkningen av en slik erklæring skal opphøre første dag i den måned som følger nærmest etter utløpet av 12 måneder etter at en ny konvensjon om internasjonale løsørekjøp vedtatt i De forente nasjoners regi er trådt i kraft.
+2\. Virkningen av en slik erklæring skal opphøre første dag i den måned som følger nærmest etter utløpet av 12 måneder etter at en ny konvensjon om internasjonale løsørekjøp vedtatt i De forente nasjoners regi er trådt i kraft.
 
 ### Art 39
 
@@ -512,9 +518,9 @@ Det er ikke tillatt å ta noe annet forbehold enn slike som kan tas i medfør av
 
 ### Art 40
 
-1. Erklæringer avgitt etter denne konvensjon rettes til De forente nasjoners generalsekretær og får virkning samtidig med at konvensjonen trer i kraft for vedkommende stat, unntatt erklæringer avgitt deretter. De sistnevnte erklæringer får virkning fra første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at de er mottatt av De forente nasjoners generalsekretær.
+1\. Erklæringer avgitt etter denne konvensjon rettes til De forente nasjoners generalsekretær og får virkning samtidig med at konvensjonen trer i kraft for vedkommende stat, unntatt erklæringer avgitt deretter. De sistnevnte erklæringer får virkning fra første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at de er mottatt av De forente nasjoners generalsekretær.
 
-2. Enhver stat som har avgitt en erklæring etter denne konvensjon, kan til enhver tid trekke erklæringen tilbake ved å gi underretning til De forente nasjoners generalsekretær. Slik tilbaketrekking får virkning fra første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at underretningen er mottatt av De forente nasjoners generalsekretær. Dersom det er avgitt en erklæring etter konvensjonens artikkel 34, medfører tilbaketrekkingen også at enhver motsvarende gjensidig erklæring avgitt av en annen stat etter samme artikkel, blir uvirksom fra den dag tilbaketrekkingen får virkning.
+2\. Enhver stat som har avgitt en erklæring etter denne konvensjon, kan til enhver tid trekke erklæringen tilbake ved å gi underretning til De forente nasjoners generalsekretær. Slik tilbaketrekking får virkning fra første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at underretningen er mottatt av De forente nasjoners generalsekretær. Dersom det er avgitt en erklæring etter konvensjonens artikkel 34, medfører tilbaketrekkingen også at enhver motsvarende gjensidig erklæring avgitt av en annen stat etter samme artikkel, blir uvirksom fra den dag tilbaketrekkingen får virkning.
 
 ### Del IV. Avsluttende bestemmelser.
 
@@ -532,15 +538,15 @@ Denne konvensjon skal stå åpen for tiltreding av enhver stat. Tiltredingsdokum
 
 ### Art 44
 
-1. Denne konvensjon trer i kraft første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at det tiende ratifikasjons- eller tiltredingsdokument er deponert.
+1\. Denne konvensjon trer i kraft første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at det tiende ratifikasjons- eller tiltredingsdokument er deponert.
 
-2. For hver stat som ratifiserer eller tiltrer denne konvensjon etter at det tiende ratifikasjons- eller tiltredingsdokument er deponert, trer konvensjonen i kraft første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredingsdokument.
+2\. For hver stat som ratifiserer eller tiltrer denne konvensjon etter at det tiende ratifikasjons- eller tiltredingsdokument er deponert, trer konvensjonen i kraft første dag i den måned som følger nærmest etter utløpet av 6 måneder etter at vedkommende stat har deponert sitt ratifikasjons- eller tiltredingsdokument.
 
 ### Art 45
 
-1. Enhver konvensjonstat kan si opp denne konvensjon ved å underrette De forente nasjoners generalsekretær om det.
+1\. Enhver konvensjonstat kan si opp denne konvensjon ved å underrette De forente nasjoners generalsekretær om det.
 
-2. Oppsiingen får virkning fra første dag i den måned som følger nærmest etter utløpet av 12 måneder etter at underretningen er mottatt av De forente nasjoners generalsekretær.
+2\. Oppsiingen får virkning fra første dag i den måned som følger nærmest etter utløpet av 12 måneder etter at underretningen er mottatt av De forente nasjoners generalsekretær.
 
 ### Art 46
 

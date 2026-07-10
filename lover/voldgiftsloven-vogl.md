@@ -420,6 +420,8 @@ Domstolen kan utsette avgjørelsen om anerkjennelse og fullbyrding dersom den fi
 
 Loven gjelder fra det tidspunktet Kongen bestemmer.1
 
+1 Ikr. 1 jan 2005 iflg. [res. 14 mai 2004 nr. 751](forskrift/2004-05-14-751).
+
 ### § 49. Overgangsregler
 
 Loven gjelder for voldgift der voldgiftssaken innledes etter at loven er trådt i kraft, med de unntak som følger av annet til femte ledd.

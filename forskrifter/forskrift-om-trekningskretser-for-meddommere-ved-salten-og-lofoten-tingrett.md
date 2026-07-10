@@ -26,10 +26,14 @@ eu_basis: []
 
 Salten og Lofoten tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Lofoten (rettssted Svolvær)
+
 - Flakstad kommune
 - Moskenes kommune
 - Vestvågøy kommune
 - Vågan kommune.
+
+Trekningskrets 2 Salten (rettssted Bodø)
 
 - Beiarn kommune
 - Bodø kommune

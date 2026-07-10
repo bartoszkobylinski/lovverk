@@ -438,6 +438,8 @@ Kongen kan gi nærmere regler om Finnmarkskommisjonen og utmarksdomstolen for Fi
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
+1 Iflg. [res. 25 nov 2005 nr. 1325](forskrift/2005-11-25-1325) er § 49 syvende og åttende ledd satt ikr. 25 nov 2005. Iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509). er resten av loven med unntak av kapittel 5 satt ikr. 1 juli 2006. Iflg. res. 14 mars 2008 nr. 248 er kapittel 5 satt ikr. 14 mars 2008.
+
 ### § 49. Overgangsregler
 
 Ved ikrafttredelsen av [kapittel 2](lov/2005-06-17-85/kap2) overtar Finnmarkseiendommen de faste eiendommer i Finnmark fylke som Statskog SF har grunnbokshjemmel til eller eier uten å ha grunnbokshjemmel. Tilsvarende gjelder begrensede rettigheter i fast eiendom. Omregistrering i grunnboken skjer ved navneendring. Overføringen skjer med skattemessig kontinuitet og utløser ikke skatteplikt for Statskog SF etter [skatteloven § 5-2](lov/1999-03-26-14/§5-2).
@@ -461,6 +463,8 @@ For øvrig kan Kongen gi nærmere overgangsregler.
 Fra den tid Kongen bestemmer gjøres følgende endringer i annen lovgivning: – – –
 
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på samisk: [pdf-lenke](static/NL/nl-20050617-085-01-02.pdf).
 
 > Oversettelsen er à jour per 1. januar 2025 ifølge Kommunal- og distriktsdepartementet.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

@@ -246,4 +246,8 @@ Fra samme tidspunkt oppheves [lov 18. juni 1938 nr. 1](lov/1938-06-18-1) om bruk
 
 Forskrifter samt andre bestemmelser og vedtak som er gitt med hjemmel i [lov 18. juni 1938 nr. 1](lov/1938-06-18-1) om bruk av røntgenstråler og radium m.v., gjelder også etter at loven her er trådt i kraft, så langt de ikke strider mot bestemmelser gitt i eller i medhold av denne loven.
 
+1 Fra 1 juli 2000 iflg. [res. 12 mai 2000 nr. 432](forskrift/2000-05-12-432).
+
 ### § 25. Endringer i andre lover
+
+– – –

@@ -74,6 +74,8 @@ Departementet kan gi forskrift om at fylkeskommunen og kommunen tildeles ansvare
 
 > Endret ved [lover 9 jan 2009 nr. 4](lov/2009-01-09-4) (ikr. 1 jan 2010), [14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
 
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ## Kapittel III. Vern og utvikling av fiskestammer og biotoper.
 
 ### § 7. Regulering av utbygging og annen virksomhet
@@ -89,6 +91,8 @@ Er det nødvendig for å gjennomføre pålegg etter tredje ledd, kan det gjøres
 Annet ledd gjelder ikke for kraftutbyggingstiltak som krever konsesjon etter vassdragsreguleringsloven eller vannressursloven, og heller ikke for andre tiltak som krever konsesjon etter vannressursloven, med mindre formålet med tiltaket er å øke fangsten av fisk på stedet, forskyve fangsten av fisk i vassdraget, eller forandre én eller flere arters produksjon, bestandsstørrelse eller utbredelse.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [21 juni 2017 nr. 101](lov/2017-06-21-101) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2034](forskrift/2017-12-15-2034)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
+
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 7 a. Nasjonale laksevassdrag og nasjonale laksefjorder
 
@@ -116,11 +120,15 @@ Departementet1 kan gi forskrift om etablering og drift av kultiveringsanlegg for
 
 > Endret ved [lov 17 juni 2005 nr. 79](lov/2005-06-17-79) (ikr. 1 jan 2006).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 11. Spesielle reguleringer i en fiskesesong
 
 Selv om det er tillatt å fiske i henhold til bestemmelser gitt i eller i medhold av denne lov, kan departementet1 for å sikre en rasjonell utnytting eller for å sikre fiskebestanden, gi regler om fangstintensiteten og tillatt oppfisket mengde i vassdrag eller fastsette andre hensiktsmessige tiltak innenfor vedkommende fiskesesong.
 
 Departementet2 kan med øyeblikkelig virkning forlenge eller stoppe et fiske når vannføringen eller andre særlige forhold tilsier det.
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 12. Tiltak i særskilte situasjoner
 
@@ -134,9 +142,13 @@ Denne paragraf får ikke anvendelse på sykdom hos fisk eller andre forhold hos 
 
 > Endret ved [lov 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 13. Dispensasjon for tiltak som har vern eller utvikling av fiskestammer som formål
 
 Departementet1 kan uten hensyn til den enkelte grunneier eller rettighetshaver, eller til bestemmelser gitt i eller i medhold av denne lov, gi tillatelse til å fange stamfisk og settefisk og til vitenskapelige undersøkelser eller praktiske forsøk og fiskekulturtiltak. Før fangst eller arbeid igangsettes, skal grunneiere og fiskeberettigete varsles.
+
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 14. Sperreanordninger
 
@@ -146,6 +158,8 @@ Etterkommes ikke pålegg gitt i medhold av første ledd, kan departementet1 iver
 
 > Endret ved [lov 26 juni 1992 nr. 86](lov/1992-06-26-86).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 15. Fisketrapp, fiskerenne o.l.
 
 Det er forbudt å fange fisk i fisketrapp, fiskerenne eller liknende anlegg, øke eller minske vannføringen eller hindre eller forsøke å hindre fisk i å komme inn i eller gjennom anlegget. Forbudet gjelder også på en strekning fra 50 meter ovenfor og til 50 meter nedenfor fisketrapp, fiskerenne eller liknende anlegg. Departementet1 kan fastsette en annen fredningssone der dette er nødvendig.
@@ -153,6 +167,8 @@ Det er forbudt å fange fisk i fisketrapp, fiskerenne eller liknende anlegg, øk
 Grensene skal avmerkes med tydelige merker. Utgiftene til dette dekkes av statskassen. Departementet2 kan ta i bruk privat grunn til merking av grenser fastsatt med hjemmel i denne bestemmelsen. Det samme gjelder for merking av grenser fastsatt med hjemmel i [§ 31](lov/1992-05-15-47/§31) og [§ 40](lov/1992-05-15-47/§40). Økonomisk tap som følge av departementets bruk etter tredje og fjerde punktum kan kreves erstattet av staten i samsvar med alminnelige rettsgrunnsetninger. For vedlikehold eller nedlegging av slike anlegg gjelder bestemmelsene i [vannressursloven §§ 37](lov/2000-11-24-82/§37), [41](lov/2000-11-24-82/§41) og [42](lov/2000-11-24-82/§42).
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
+
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ## Kapittel IV. Bestemmelser om fiskeretten.
 
@@ -184,6 +200,8 @@ Bestemmelsene i denne paragraf gjelder ikke for kreps.
 
 > Endret ved [lov 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 19. Fraskillelse av fiskeretten
 
 Fiskerett som hører til fast eiendom kan ikke skilles fra eiendomsretten for lengre tid enn 10 år om gangen, uten når fiskerett følger bruksrett til eiendommen.
@@ -200,9 +218,13 @@ Når mindre grunnstykker som tomter med eller uten bebyggelse, hager og liknende
 
 > Endret ved [lov 17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)).
 
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 20. Fritt fiske
 
 Hvor fisket i vassdrag er fritt, jfr. [§ 5](lov/1992-05-15-47/§5) bokstav d, gir departementet1 bestemmelser om hvordan fisket skal forvaltes.
+
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 21. Fiske i bygdeallmenninger
 
@@ -220,6 +242,8 @@ Departementet1 kan fastsette nærmere regler om fiske på statens grunn utenom s
 
 > Endret ved [lover 17 juni 2005 nr. 85](lov/2005-06-17-85) (ikr. 1 juli 2006 iflg. [res. 12 mai 2006 nr. 509](forskrift/2006-05-12-509)), [15 juni 2007 nr. 40](lov/2007-06-15-40) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627)).
 
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 23. Fiske på kommunal og fylkeskommunal grunn
 
 Kommunen og fylkeskommunen skal utnytte retten til fiske etter anadrome laksefisk og innlandsfisk på sine eiendommer i samsvar med lovens formål, samt gi et best mulig tilbud om fiske for allmennheten blant annet ved salg av fiskekort. Inntektene skal gå til fiskekulturtiltak og til administrasjon av fisket. Kommunen og fylkeskommunen kan overlate administrasjonen av fisket til en organisasjon med fremme av fiske som formål eller delformål.
@@ -235,6 +259,8 @@ Bestemmelsene i første og annet ledd gjelder for all kommunal og fylkeskommunal
 Denne lov medfører ingen endringer i de særlige regler som gjelder for den lokale befolknings rett til fiske i Finnmark etter kgl. res. av 27. mai 17751 angående Jorddelingen i Finnmarken samt Bopladses Udvisning og Skyldlægning sammesteds, [finnmarksloven kapittel 4](lov/2005-06-17-85/kap4) og Tanaloven.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [20 juni 2014 nr. 51](lov/2014-06-20-51) (ikr. 1 juli 2014 iflg. [res. 20 juni 2014 nr. 802](forskrift/2014-06-20-802)).
+
+1 Inkurie: Skal være [kgl. res. 8. juni 1775](lov/1775-06-08), jf. korrigering av resolusjonens dato.
 
 ## Kapittel V. Organisering av fiskeforvaltningen i vassdrag. Driftsplaner. Pålegg om salg av fiskekort
 
@@ -261,6 +287,8 @@ Utgifter knyttet til fellesforvaltningen er tvangsgrunnlag for utlegg.
 For gjennomføring av felles organisering kan bruksordning kreves etter jordskiftelova. Departementet2 kan kreve bruksordning etter [jordskiftelova § 3-8](lov/2013-06-21-100/§3-8) når ingen av partene vil kreve det eller resultatet av minnelig ordning ikke er hensiktsmessig.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 25 a. Driftsplanlegging
 
@@ -294,6 +322,8 @@ Kongen2 kan gi regler om forbud mot framleie av fiskerett.
 
 > Endret ved [lover 17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88)) som endret ved [lov 26 jan 2007 nr. 3](lov/2007-01-26-3), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).2 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 28. Pålegg om fiskekulturtiltak
 
 Fiskeforvaltningen skal påse at hensiktsmessige tiltak for vern og utvikling av fiskestammer blir organisert og utført på en tilfredsstillende måte for de enkelte vassdrag.
@@ -308,6 +338,8 @@ Lov av 23. oktober 1959 om oreigning av fast eiendom gjelder ikke for pålegg el
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ## Kapittel VI. Statens fiskefond, statlig fiskeravgift og finansieringsmåter.
 
 > Overskrift endret ved lov [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
@@ -320,6 +352,8 @@ Fondet styres av departementet1 innenfor de rammene Kongen gir for fondets forva
 
 > Endret ved lov [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
 
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 30. Statlig fiskeravgift
 
 Den som vil fiske etter anadrome laksefisk etter å ha fylt 18 år, skal betale avgift til Statens fiskefond. Departementet kan gi forskrift om avgift på faststående redskap som benyttes til fangst av anadrome laksefisk.
@@ -331,6 +365,8 @@ Betaling av avgift til Statens fiskefond er et vilkår for utøving av fiske, me
 Departementet1 fastsetter størrelsen på avgiften og for hvilket tidsrom betalingen gjelder. Departementet kan gi forskrift om dispensasjon fra plikten til å betale avgift, om betalingen og om kontroll med slik betaling.
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
+
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ## Kapittel VII. Administrative og rettslige avgjørelser.
 
@@ -346,6 +382,8 @@ Nytt vedtak av departementet1 kan kreves når det kan påvises at forholdene i v
 
 > Endret ved [lover 14 juni 2013 nr. 48](lov/2013-06-14-48) (ikr. 1 juli 2013), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 jan 2018 iflg. [res. 11 mai 2017 nr. 563](forskrift/2017-05-11-563)), [7 mai 2021 nr. 34](lov/2021-05-07-34) (ikr. 1 juni 2021 iflg. [res. 7 mai 2021 nr. 1416](forskrift/2021-05-07-1416)).
 
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 32. Tvist om fiske mellom naboeiendommer
 
 Når redskap til fiske etter anadrome laksefisk er satt ut fra en eiendom og forringer eller gjør det umulig å fiske med slike redskaper fra naboeiendommen, kan hver av partene kreve avgjort av jordskifteretten hvor stor rett hver eiendom har, og hvordan fisket skal drives for at eiendommene såvidt mulig skal få utnyttet retten sin.
@@ -359,6 +397,8 @@ I samsvar med naturmangfoldloven og formålet i loven her kan Kongen tillate fis
 Departementet1 kan gi utfyllende bestemmelser. Det kan fastsettes ulike bestemmelser for de enkelte områder og vassdrag.
 
 > Endret ved [lov 19 juni 2009 nr. 100](lov/2009-06-19-100) (ikr. 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704)).
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 34. Regler for fangst av innlandsfisk
 
@@ -378,6 +418,8 @@ Departementet1 kan innskrenke eller utvide friløpets bredde.
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
 
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 36. Fiske i friløpet og tilstopping
 
 Det er forbudt å sette fiskeredskaper slik at redskapet enten alene eller i forbindelse med ledegarn, stein eller andre naturlige hindringer for fiskens frie gang kommer ut i friløpet. Unntatt fra denne bestemmelse er fiske med stang eller håndsnøre, oter, drivgarn, kastenot som trekkes inn straks etter utsettingen og håv som tas opp av vannet like etter nedsenkingen.
@@ -389,6 +431,8 @@ Departementet1 kan gi pålegg om gjenoppretting av endring av friløpet i strid 
 Er oppfylling eller utdyping skjedd uten noens skyld, gjelder vannressurslovens regler for gjenoppretting av friløpet.
 
 > Endret ved [lover 24 nov 2000 nr. 82](lov/2000-11-24-82) (ikr. 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)), [20 juni 2025 nr. 88](lov/2025-06-20-88) (i kraft 1 juli 2025).
+
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 37. Hensynet til dyrevelferd, forbudte tiltak og fiske- og avlivingsmetoder
 
@@ -408,9 +452,13 @@ Departementet1 kan for det enkelte tilfelle dispensere fra bestemmelsene i tredj
 
 > Endret ved [lover 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 38. Særlige bestemmelser om konsesjon
 
 Kongen1 kan bestemme at det skal være konsesjonsplikt for bestemte fangstmetoder for anadrome laksefisk. Kongen1 kan ved forskrift gi nærmere regler om adgangen til å få konsesjon og om vilkår som kan knyttes til den enkelte konsesjon.
+
+1 Klima- og miljødepartementet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 39. Fiske og ferdsel ved faststående redskap
 
@@ -426,9 +474,13 @@ Departementet1 kan gi regler om ferdsel i nærheten av faststående redskap som 
 
 Departementet1 kan gi regler om avstanden mellom redskaper som står til fangst av anadrome laksefisk.
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 40. Regulering av alt fiske
 
 Departementet1 kan forby eller gi regler om utøvelsen av alt fiske, herunder saltvannsfiske, ved utløpet av vassdrag, i saltvannsstrøm, i sund og mellom elv og vann der det går anadrome laksefisk. Reguleringen skal ikke overstige 2 km fra munningen når ikke særlige forhold gjør det påkrevet. Det regulerte området skal avmerkes tydelig for statskassens regning.
+
+1 Fylkesmannen iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 41. Nedsenking av redskap og bruk av visse redskapstyper i fredningstiden for anadrome laksefisk
 
@@ -454,6 +506,8 @@ Kongen kan gi forskrift om overvåking av anadrome laksefisk og andre arter som 
 
 > Endret ved [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 43. Registrering
 
 Den som i sjø eller vassdrag fisker anadrome laksefisk med andre redskap enn stang, håndsnøre, dorg og oter, plikter å registrere redskapet før fisket tar til. Er fisket bortleid er såvel eier som leier ansvarlig for at registrering skjer.
@@ -463,6 +517,8 @@ Departementet kan nekte registrering av redskap for inntil to år for den som ha
 Departementet1 gir nærmere regler om registrering og merking av redskap. Departementet kan utvide plikten til registrering til å gjelde fiske etter innlandsfisk.
 
 > Endret ved [lov 19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 44. Oppgaveplikt
 
@@ -480,11 +536,15 @@ Opplysninger gitt i medhold av denne bestemmelse er underlagt taushetsplikt. Det
 
 > Endret ved [lov 14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)).
 
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
+
 ### § 45. Oppgave fra næringsdrivende
 
 Den som i sin næring omsetter, foredler eller bruker anadrome laksefisk eller innlandsfisk plikter å oppgi vekt og verdi, hver fiskeart for seg, og selgerens navn og adresse til bruk for den offentlige statistikk.
 
 Departementet1 gir nærmere bestemmelser om oppgaveplikten og hvem oppgavene skal sendes til.
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ## Kapittel X. Erstatningsansvar.
 
@@ -511,6 +571,8 @@ Verdien av ulovlig fanget fisk er tvangsgrunnlag for utlegg.
 Departementet1 kan gi nærmere bestemmelser om utkasting og inndragning herunder om ulovlig fanget innlandsfisk.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [14 des 2012 nr. 94](lov/2012-12-14-94) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1204](forskrift/2012-12-14-1204)), [19 juni 2020 nr. 84](lov/2020-06-19-84) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1251](forskrift/2020-06-19-1251)).
+
+1 Miljødirektoratet iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).
 
 ### § 47 a. Administrativt beslag
 
@@ -557,3 +619,5 @@ Den som krenker en annens rett ved å fiske, straffes med bøter. Forsøk er str
 1. Denne lov trer i kraft fra den tid Kongen bestemmer1. Det kan bestemmes at de enkelte bestemmelser i loven skal tre i kraft til ulike tider. Fra samme tid oppheves [lov av 6. mars 1964](lov/1964-03-06) om laksefisket og innlandsfisket.
 2. Bestemmelser gitt i medhold av [lov av 6. mars 1964](lov/1964-03-06) om laksefisket og innlandsfisket og eldre lover gjelder fortsatt i den utstrekning de fortsatt har hjemmel i eller i bestemmelser gitt i medhold av loven her.
 3. Fra lovens ikrafttreden gjøres følgende endringer i andre lover: – – –
+
+1 Fra 1 jan 1993 iflg. [res. 27 nov 1992 nr. 864](forskrift/1992-11-27-864).

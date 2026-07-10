@@ -170,6 +170,8 @@ Denne forskrift trer i kraft 1. januar 1982. Sertifikater eller andre godkjennel
 
 ## Vedlegg I. Geografiske avgrensninger for fartsområde. Helt innelukket farvann
 
+*1. Fredrikstad Distrikt (kart nr. 1 – 2 – 3)*
+
 Innenfor en linje:
 
 Blecksundholmen – Andholmen lykt – nordsiden Herføl – Homlungen lykt.
@@ -180,13 +182,23 @@ Nordspissen Akerø – Jylteholmen – Papperhamn – Grindskjær – Lyngholmen
 
 Nordspissen Hankø – Bratholmen – Rauøtangen.
 
+*2. Oslo Distrikt (kart nr. 3 – 4)*
+
+*Oslofjorden*
+
 Innenfor Drøbak.
 
+*Drammensfjorden*
+
 Innenfor Holmsbu – sydspissen Krok.
+
+*Sandebukta*
 
 Innenfor en linje:
 
 Horten Havn – nordspissen Østøen – sørspissen Langøya – Blindesandodden.
+
+*3. Porsgrunn Distrikt (kart nr. 1 – 2 – 3 – 5 – 6)*
 
 Innenfor en linje:
 
@@ -202,9 +214,13 @@ Mefjorden innenfor Kolholmen.
 
 Kvernberget – Haaholmen – Kisteholmen.
 
+*Viksfjorden*
+
 Vesta – østsiden Malmø.
 
 Innenfor Sundskjærene.
+
+*Larvikfjorden*
 
 Innenfor Oterø – Lilleviksodden.
 
@@ -224,6 +240,10 @@ Stølefjorden innenfor Tviskjær.
 
 Sildholmen – Varø – Risø – Lekerø – Lyngholmen – Engholmen – Furuø – Troldværviken.
 
+*4. Kristiansand Distrikt (kart nr. 7 – 8 – 9 – 10 – 11 – 12)*
+
+*Farvannet Askerø til Hisø*
+
 Innenfor en linje:
 
 Risø – Kjeholmen – Lyngør – Askerø – Store Bastholm – Kaarholmen – vestsiden Sandøen – Galgeholmene – Svineholmen – Borøkilen.
@@ -238,11 +258,15 @@ Innenfor en linje:
 
 Hoveodden – Store Gjesø – Mardø – Hafsø.
 
+*Farvannet Hisø til Justø*
+
 Innenfor en linje:
 
 Hafsø – Ærø – Skjellbergholmene – Jerkholmen – Hasla.
 
 Stangholmen – Kvalø – Hesnesø – Øia – Svartskjær – Indre og Ytre Leiholmene – Teistholmen – Haaø – Risholmen – Herø. Saltø – Bjørø – Pølseskjær. Sundholmen – Homborø – Aalesø – Vaskjær – Lyngholmen – Skjød. Svinø – Langø – Hestholmen – Græsholmene – Ransholmen.
+
+*Farvannet Justø til Monsø*
 
 Brekkestø – Ullerø – østsiden Aagerø – Øygholmen – Kalvø – Kjeholmene – Tronderø – Helleø – Natvigtangen.
 
@@ -251,6 +275,8 @@ Steinarsnes – Bratholmen – Eftervaag.
 Stangodden – Torsø – Guriholmen – nordsiden Randø – Stokken – Herø – Dvergsø – Kinnskjær – Store og Lille Risø. Trulsnesodde – Torstenneset.
 
 Langvigen – Herø – Nordre Hellersø – Helleø – Kabelø – Langø.
+
+*Farvannet Monsø til Lindesnes*
 
 Innenfor en linje:
 
@@ -262,6 +288,10 @@ Skudevær – Steinsø – Naudholmen. Ramsø – Mærraføllet – Fløiholmen 
 
 Nordvestspissen Langø – Urø – Prestø – Eigerø.
 
+*5. Stavanger Distrikt (kart nr. 12 – 13 – 16 – 205)*
+
+*Flekkefjordsområdet*
+
 Innenfor en linje:
 
 Skarvehelleren – sydspissen Andabelø – Klubben.
@@ -270,11 +300,19 @@ Nesodden – Hummerø – Kaalø.
 
 Grodø – Ullerø – Dragerø – Bratbø – innsiden Præstø – Kvalsberget – Napp lykt.
 
+*Aana Sira*
+
 Innenfor Egdeholmen.
+
+*Jøssingfjord*
 
 Innenfor Kvalen.
 
+*Rægefjord*
+
 Innenfor Nordfjordholmene og Alterodden.
+
+*Egersundområdet*
 
 Innenfor en linje:
 
@@ -282,9 +320,15 @@ Ruskodden lykt over Sundsgabholmen til fastlandet.
 
 Innenfor Vibberodden fyr.
 
+*Risavika*
+
 Innenfor Tananger lykt.
 
+*Hafrsfjord*
+
 Innenfor Smiodden.
+
+*Ryfylkefjordene*
 
 Innenfor en linje:
 
@@ -298,41 +342,65 @@ Mjølsnes – Mjølsnesholmene – Erholmen – Lundarøy.
 
 Vestsiden Kyrkjøy – Nordheimsøy – Tveiteneset.
 
+*6. Haugesund Distrikt (kart nr. 17 – 19 – 20 – 205 – 206)*
+
+*Skjoldafjorden*
+
 Innenfor Borgøy.
+
+*Farvannet ved Bokn*
 
 Innenfor en linje:
 
 Tungeneset – Ognøy – Grønnavik.
 
+*Boknasund*
+
 Innenfor Aksdalsnes lykt.
+
+*Åkrefjorden*
 
 Innenfor en linje:
 
 Straumneset – Søllesvik.
 
+*Martrefjorden*
+
 Innenfor en linje:
 
 Utåker – Martre.
+
+*Stokksund*
 
 Innenfor en linje:
 
 Austneset – Nordreneset – Hornalandsneset.
 
+*Ålfjorden*
+
 Innenfor en linje:
 
 Tittelsnes – Utbjoa.
+
+*Etnefjorden. Ølsfjorden*
 
 Innenfor en linje:
 
 Haugsgjerdet – Skjersvik.
 
+*Førdespollen*
+
 Innenfor en linje:
 
 Eikelandsneset – Eidsvåg.
 
+*Børøyfjord*
+
 Innenfor en linje:
 
 Avløypet – Store Lambøy.
+
+*Farvannet rundt Hiskjo og Alsvaag*
 
 Innenfor en linje:
 
@@ -342,31 +410,49 @@ Lelandsholmen – Hiskholmen.
 
 Eholmen – sydlige Svinøy.
 
+*Farvannet på innsiden av Rogøy*
+
 Innenfor en linje:
 
 Dannemark – Krossholmen – Kvitingen – Sammungsøy – sydspissen Rogøy.
 
 Bukkøysund – vestsiden Gloadungsøy – sørspissen Rørøy.
 
+*Goddeosen*
+
 Innenfor Ylvesøy. (Se Bergen distrikt.)
+
+*Skjoldafjorden*
 
 Innenfor en linje:
 
 Hervik – Bargøy – Kvitholmen.
 
+*Førdesfjorden og Førlandsfjorden sør til Bokn*
+
 Se Stavanger distrikt.
+
+*Karmsundet*
 
 Grense sør: Boknehove – sydspissen Lauvøy – Smørstakk – Kvernvik.
 
 Grense nord: Osnesgavlen – Vibrandsøy.
 
+*Veavaagen*
+
 Innenfor Veavaag lykt.
+
+*7. Bergen Distrikt (kart nr. 19 – 20 – 21 – 22 – 23 – 117 – 206 – 209 – 210)*
+
+*Høylandsund på nordsiden av Halsenøy*
 
 Innenfor Toftekalven – Ølfernesholmen.
 
 Innenfor en linje:
 
 Svinø – Bjellandsholmen – Bjelland.
+
+*Fjellbersund. Sydnæssund*
 
 Innenfor en linje:
 
@@ -376,11 +462,15 @@ Katnak – Olværtangen.
 
 Kvædenæs – Rosnæsholmen – Arnevigsnæs.
 
+*Storesund på sydsiden av Skorpen og Snilstveitøy*
+
 Innenfor en linje:
 
 Berget – Skorpengavlen.
 
 Kalvtangen – Taanes.
+
+*Innsiden av Varaldsøy*
 
 Innenfor en linje:
 
@@ -388,9 +478,13 @@ Gjermundshavn – Skjeldnesodden.
 
 Haukanes – Apalvikneset.
 
+*Maurangerfjorden*
+
 Innenfor en linje:
 
 Ænes – Maurangnes.
+
+*Sundene mellom Aandugl – Sæløy – Skorpen – Huglen*
 
 Innenfor en linje:
 
@@ -400,19 +494,27 @@ Storneset – Huglaneset.
 
 Ytreneset – Seløytangen – Teistholmen – nordspissen Aandugl.
 
+*Langenuen*
+
 Innenfor en linje:
 
 Flateraaker – Mehammer.
 
 Nordsiden Baardsund – Ostrenæs.
 
+*Stokksund ved Stord*
+
 Innenfor en linje:
 
 Ølversø – Gisø – Selø – Hanø – Ægø – Seglø – Fandø – Ostrenæs.
 
+*Baardsund ved Reksteren*
+
 Innenfor en linje:
 
 Lambø – Instø – Fluøen – Godø – Malkenes.
+
+*Loksund. Lygrefjord*
 
 Innenfor en linje:
 
@@ -420,9 +522,13 @@ Malkenes – Næsbjørg – Hjartaker.
 
 Sandø – Hammerhaug.
 
+*Severeidfjorden*
+
 Innenfor en linje:
 
 Aakre – Stegleholmen – Revne.
+
+*Fusafjorden. Lysefjorden*
 
 Hatvikneset – Vengjaneset.
 
@@ -452,6 +558,8 @@ Bestut – Bergsholm på Store Kallsø.
 
 Stensnes – nordspissen Navø – Skaarsholmen – Skorpa – Taugholm – Lauerø – Trælsø – Øspø – Saltkjerholmen.
 
+*Sundene rundt Toftarøy*
+
 Innenfor en linje:
 
 Fisnes – innsiden Haakholmen – Hilderen.
@@ -459,6 +567,8 @@ Fisnes – innsiden Haakholmen – Hilderen.
 Mulen – Narøy – Store Vardø – Skardholmen – innsiden store Risø.
 
 Nordvestpynten store Risø – vestsiden Nordø – sydøstpynten Golten samt Goltesund.
+
+*Fanafjorden. Lerøosen*
 
 Innenfor en linje:
 
@@ -468,17 +578,25 @@ Roksnes – Hisø – Lille Narø – Geitarøy – Lokø – Algerø – Dyrø 
 
 Olderø – østsiden Storeø – østsiden Olderøen – Olderkalv – Lågøyneset.
 
+*Hjeltefjorden*
+
 Innenfor en linje:
 
 Knapsko – sørsiden Gjeitanger – Bratholmen – Rotøene – Ramsø – nordsiden Hanøen.
+
+*Herløfjorden*
 
 Innenfor en linje:
 
 Kvitholmen – Ringholmen – Agnø – Sjelanger.
 
+*Radøyfjorden*
+
 Innenfor en linje:
 
 Gjernes – nordspissen Bognø – Straumsnes lykt.
+
+*Helleosen på innsiden av Torsken*
 
 Torskens sydside til Stenholmen.
 
@@ -494,6 +612,8 @@ Innenfor en linje:
 
 Kilsheim – Kvalvaagsheim – sydsiden Ulvøen – Vordetuen.
 
+*Østfjorden. Mastfjorden. Brandangersund*
+
 Innenfor en linje:
 
 Apenes – sydspissen Kvammeø.
@@ -504,6 +624,8 @@ Sydsiden Dyrøy – sydsiden Hokksøy – vestsiden Gjeitøy – Skarholmen – 
 
 Grimmø – Koksø.
 
+*Baarø. Lauø. Lille Hille. Store Hille. Guleskjær*
+
 Innenfor en linje:
 
 Grytenes – Vikingvåg.
@@ -512,15 +634,23 @@ Jettøy – Grønøy – Koksøy – Bårøy – Lauvøy – Stensøy – Lille 
 
 Havneholmen – Glavær – Rosnes.
 
+*Hisø*
+
 Innenfor en linje:
 
 Geiteskjær – Klubben.
 
 Torkelholmen – Nardal.
 
+*Sognefjorden*
+
 Innenfor en linje:
 
 Sylvarnes – Seleneset.
+
+*8. Florø Distrikt (kart nr. 24 – 25 – 26 – 27 – 29 – 210 – 212 – 214 – 251)*
+
+*Sognefjorden og farvannet rundt Ytre og Indre Sulen*
 
 Innenfor en linje:
 
@@ -534,6 +664,8 @@ Kraakenes lykt – Grønholmen – Oddeskjær – Kværeknapp lykt – Oslette �
 
 Olderø – østsiden Storeø – østsiden Olderøen – Olderkalv – Lågøyneset.
 
+*Farvannet rundt Værø, Alden, Atleø, Stavenes og fjordene innenfor*
+
 Innenfor en linje:
 
 Lågøyneset – Lågøyhl.ene – Hestevikneset.
@@ -545,6 +677,8 @@ Hamnaneset – Barsneset.
 Kjørrvikskj. – Ytsteneset – Råneset.
 
 Austneset lykt – Ytste Geita – Lamhl. – Hovden lykt – Skallen lykt – Blesundskj. – Landøy – Nordneshl.ene.
+
+*Brufjord. Hellefjord. Farvannet innenfor Hovden*
 
 Innenfor en linje:
 
@@ -562,6 +696,8 @@ Stoknes – Sandsnes.
 
 Østspissen Nordhovden – Rognene – Olaskjær – Sletten.
 
+*Farvannet rundt Frøjsjøen*
+
 Innenfor en linje:
 
 Gulstø – Aaspenæs.
@@ -574,13 +710,19 @@ Bakkene – Sjønæs.
 
 Berdlepollen innenfor Berdle.
 
+*Faafjord*
+
 Innenfor en linje:
 
 Oldeid – Krabbesteig.
 
+*Vaagsfjorden*
+
 Innenfor en linje:
 
 Hovdeneset – Vombaneset.
+
+*Sildfjord og fjordene innenfor*
 
 Røya – Rekvikholmene ved Silda – Vikaneset på Barmøy.
 
@@ -588,9 +730,15 @@ Kraakstein – Ilshaugen på Selje.
 
 Ersholmen – Selje lykt.
 
+*9. Ålesund Distrikt (kart nr. 29 – 30 – 31 – 33 – 214 – 215 – 216)*
+
+*Vanylvsfjorden*
+
 Innenfor en linje:
 
 Otneimsneset – Hundsnes.
+
+*Voldenfjorden. Røvdefjorden. Søvdefjorden. Ørstafjorden*
 
 Innfor en linje:
 
@@ -598,15 +746,21 @@ Innfor en linje:
 
 Eiksund – Rjånes.
 
+*Storfjorden. Hjørundfjorden*
+
 Innenfor en linje:
 
 Festø – Solevågen.
+
+*Farvannet vest av Hareidlandet*
 
 Innenfor en linje:
 
 Ryssnes – Eggebøsten.
 
 Torvik – sydspissen Store Hatleø – østsiden Store Hatleø – Osnes.
+
+*Borgundfjord. Ellingsfjord. Grytefjord*
 
 Innenfor en linje:
 
@@ -616,13 +770,21 @@ Stenvåg – Olsskjærboen – Kverodden.
 
 Gildrenes – Hamnsund.
 
+*Tresfjorden*
+
 Innenfor en linje:
 
 Furuneset – Gjermundnes.
 
+*Romsdalsfjorden. Langfjorden*
+
 Innenfor en linje:
 
 Lanshammeren – Veø.
+
+*10. Kristiansund Distrikt (kart nr. 33 – 34 – 35 – 37 – 217 – 219 – 308 – 309)*
+
+*Langfjord og Fonnefjorden*
 
 Innenfor en linje:
 
@@ -636,6 +798,8 @@ Turunes – Sæterø.
 
 Orholmen – Reknesholmene – Reknes.
 
+*Julsundet og Frænfjorden*
+
 Innenfor en linje:
 
 Hegneset – Julneset.
@@ -645,6 +809,8 @@ Sundsbø – Bollene – Forholmen.
 Kjerringholmen – Trollvik.
 
 Steinsneset – Korsberg.
+
+*Kornstadfjorden. Kvernesfjord. Bremsnesfjord. Freifjord. Bottenfjorden. Bergsøfjord. Tingvoldfjord.*
 
 Innenfor en linje:
 
@@ -656,13 +822,19 @@ Leitnes – Sildvaagnes.
 
 Kristiansund havn.
 
+*Halsefjord med fjordene innenfor*
+
 Innenfor en linje:
 
 Furunes – Fjærvik.
 
+*Solemsundet*
+
 Innenfor Steintangskjærflu lykt.
 
 Innenfor Halsneset – Flesaskjær.
+
+*Nordheimsund. Imarsund. Arasvikfjorden*
 
 Innenfor en linje:
 
@@ -670,19 +842,29 @@ Høvik – Hæringsø – Solskjel.
 
 Korsnes – Fjælnesdal.
 
+*Gjerdesviken. Auresundet med fjordene innenfor*
+
 Innenfor en linje:
 
 Husfesthammeren – Kvitskjær.
 
+*Dromnessundet*
+
 Innenfor en linje:
 
 Rognan – Dromnestangen.
+
+*11. Trondheim Distrikt (kart nr. 37 – 38 – 39 – 40 – 41 – 43 – 44 – 45 – 220 – 221 – 309)*
+
+*Hemnefjorden med fjordene innenfor*
 
 Innenfor en linje:
 
 Stamnesø – Knubben på Hemnskjel.
 
 Leiknes – Meholmen – Slåttavik.
+
+*Farvannet rundt Hitra og Fjeldværøy*
 
 Innenfor en linje:
 
@@ -694,21 +876,31 @@ Kuøodden – Gulholmen.
 
 Røitholmen – Bjørnø – Borøholmen fyr – østsiden Stora – sydspissen Veddø – Grønholmen – Tranholmen – Jøssenø – Terningen fyr – Storvik.
 
+*Farvannet rundt Frøya*
+
 Innenfor en linje:
 
 Midtre Maasø – Langø – Haaksteinø – Hjortholmen – Bremholmen – Kalskjærene – Lyngøholmen – Bremø – Langø – Oløen – Hestø – Nordstø – Mannholmen – Dolsøfluene – Aursø – Langø – Hansholmen – Bleika.
 
 Stølholmene – Sandskjær – Grønholmen – Lokskjærene – Masø – Kjølholmen – Fagerholmen – Kløftskjær – Flesa – Ildsø – Vaholmen – Laksholmen – Håvikskaget.
 
+*Indre Trondheimsfjord, Aasenfjorden og Beistadfjord*
+
 Innenfor en linje:
 
 Vaagberget – Frostatangen – Tautra – Tangen.
 
+*Stjørnfjorden*
+
 Innenfor Flesagalten lykt.
+
+*Bjugnfjorden*
 
 Innenfor en linje:
 
 Uthaug lykt – Nes.
+
+*Farvannet fra Bjugn til Stoksund*
 
 Innenfor en linje:
 
@@ -718,9 +910,15 @@ Korsodden – Tækkersundholmen.
 
 Innenfor Langtarren lykt.
 
+*Farvannet Roan – Rødø*
+
 Innenfor en linje:
 
 Kiran – Maaø – Været – Kaura lykt – Ertnaskjærene – Flatøen – Ytre Skjervøen – Aunøen – Hepsøen lykt – S. Vedøen – S. Hestholmen – N. Rødø – Helviknes.
+
+*12. Rørvik Distrikt (kart nr. 46 – 47 – 48 – 49 – 51 – 224)*
+
+*Farvannet Jøssundfjord – Gyltefjord*
 
 Innenfor en linje:
 
@@ -730,13 +928,19 @@ Nordspissen Kvalø – Knarholmen – nordsiden Vella – Ellingsraasa lykt – 
 
 Løkø – Vardsund lykt.
 
+*Namsenfjorden, Rødsundet og Gyltefjord*
+
 Innenfor en linje:
 
 Knopsholmane lykt – Aurstøskjærene – Stamnesodden – Grønø – Bølø – Skogø – Nordbø – Rypeneset.
 
+*Indre Foldenfjorden. Kvisten. Opløifjorden*
+
 Innenfor en linje:
 
 Øksningen – Kjeø – Stasø – Skogsholmen – Guroneset – Digernesodden.
+
+*Farvannet rundt Vikna, Risværfjord, Eiterfjord og Aarsetfjord*
 
 Innenfor en linje:
 
@@ -750,35 +954,55 @@ Nordøstspissen Rauø – nordspissen Kvalø – Olsøholmen – Bjørnstaren �
 
 Humulen – Sandvikholmen – nordøstspissen Gjerdingen – Bliksø – Fornøyta – Lerø – Stensø – Hornboen stake – Langø – Kvitholmen lykt – Dolma – Småholmene ved Austra.
 
+*13. Sandnessjøen Distrikt (kart nr. 53 – 55 – 56 – 57 – 58 – 59 – 60 – 224 – 310)*
+
+*Ursfjorden, indre del av Tosenfjorden*
+
 Innenfor en linje:
 
 Skogviknes – Hamaren.
+
+*Øyene rundt Brønnøysund*
 
 Innenfor en linje:
 
 Karijorden – Stokholmen lykt – østsiden av Torget – sydsiden av Torgværet – Vestsiden av Helløy – vestsiden av Burøy – Arnlangø – Trollholmen lykt – Likviken på Store Torgnes – Kraakholmen – Løkholmen.
 
+*Trætnesfjorden*
+
 Innenfor Jarholmen.
+
+*Velfjorden og fjordene innenfor*
 
 Innenfor en linje:
 
 Oknes – Nevervik.
 
+*Vistenfjord*
+
 Innenfor en linje:
 
 Granmoen – Ytteraakran.
+
+*Halsfjorden*
 
 Innenfor en linje:
 
 Skaveneset – Juvik.
 
+*Vefsenfjorden*
+
 Innenfor en linje:
 
 Prestneset – Aakvik.
 
+*Leirfjorden*
+
 Innenfor en linje:
 
 Selvaagan – Tømmervik.
+
+*Ranenfjorden. Sjona*
 
 Innenfor en linje:
 
@@ -786,11 +1010,17 @@ Velsvaag – innsiden Feøy – innsiden Hugla – Dilleren.
 
 Finviken – rett nord til Sjonalandet.
 
+*Silavaagen*
+
 Innenfor en linje:
 
 Indre og ytre Silaneset.
 
+*Aldersund*
+
 Fra en linje Kleivhalsodden – Hjertnebben til 66° 25′ N.
+
+*Farvannet nordøst av Vega*
 
 Innenfor en linje:
 
@@ -798,9 +1028,13 @@ Rørøhaug – Sørø – Aaborholmen.
 
 Likholmen – Ytre Hilholmen – Engelsø – Durmaalskjærene – Kraaktaren lykt – Andø – Husø – Nes.
 
+*Farvannet rundt Blomsøy*
+
 Innenfor en linje:
 
 Sørøen – Hestø – Kvernholmene – Maaseholmene – Indre Vallø – Kirstiø – Andersholmen – Hestholmen – Langneset – Kobskjær – sydspissen Aakerø – nordspissen Alterøerne – Bukholmen – Buøen – Moneset på Alteren.
+
+*Farvannet rundt Herøy*
 
 Innenfor en linje:
 
@@ -810,15 +1044,23 @@ Innenfor Aakvik lykt.
 
 Skaar – Skjellfiskholmen – østsiden Hjartø – Gjesvær – nordspissen Buøen.
 
+*Farvannet på vestsiden av Dønna*
+
 Innenfor en linje:
 
 Klubben ved Nordviken – Sandholmen – Stangholmskjær – varden på østsiden av Slapø.
 
 Stormoneset – Sørø – Buskø – Lamø – Krusøerne – vestsiden Vandved – vestsiden Lille Vandved – Hansø – Aansø – Rensø.
 
+*Farvannet rundt Solvær*
+
 Innenfor en linje:
 
 Østsiden Relø – østsiden Sør Solvær – Værholmen – Slaatholmen – Græsholmen – sydspissen Buø – Goholmen – Langø – Guldsø – Ørnholmen – Store Kvartelsøy – sørspissen Gaasø – Pigholmen – Store Odø – Paalholmen – Bukholmen – Skolten – Bremholmene – nordsiden Relø.
+
+*14. Bodø Distrikt (kart nr. 62 – 63 – 64 – 65 – 227)*
+
+*Sørfjorden – Melfjorden*
 
 Innenfor en linje:
 
@@ -830,11 +1072,15 @@ Kjølsø – Ødegårdneset.
 
 Rangsundøy – Bjørnøy – Kvalneset.
 
+*Værangsfjorden – Tjongsfjorden*
+
 Innenfor en linje:
 
 Raunes – Esjeholmbukta.
 
 Innenfor Kjetneset.
+
+*Holandsfjorden – Bjærangsfjorden*
 
 Innenfor en linje:
 
@@ -842,9 +1088,13 @@ Skålsvik – Arhaug.
 
 Saura – Halsosen.
 
+*Indre Værangfjord*
+
 Innenfor en linje:
 
 Raunes – Ivarø lykt – Pladsholmen.
+
+*Horsdalsfjorden – Nordfjorden*
 
 Innenfor en linje:
 
@@ -854,11 +1104,15 @@ Sundsodden – Horsdal.
 
 Kransvik – Røsnesodden.
 
+*Innsiden Straumøya*
+
 Innenfor en linje:
 
 Rundhl. – Laukeng.
 
 Vik – Dalbukta.
+
+*Saltdalsfjorden*
 
 Innenfor en linje:
 
@@ -869,6 +1123,8 @@ Innsjøene innenfor Finneid.
 Misværfjorden innenfor Stabben lykt.
 
 Bodø havn.
+
+*Sørfolla og Nordfolla*
 
 Innenfor en linje:
 
@@ -890,15 +1146,21 @@ Hopneset – Seilvikneset.
 
 Håkjerringneset – Ørnesodden.
 
+*Helligvær*
+
 Innenfor en linje:
 
 Vokkøy – Ladegaardøy – Indre Baagøy – Prestøy – Store og Lille Kvannøy – Valøy – Grimsholmen – Kvinøy – Netøy – Brønnøy.
 
 Kalven – Lille Sørøy – Færøy Vokkøy.
 
+*Leinesfjorden*
+
 Innenfor en linje:
 
 Leiranger – Alpøyskjæran.
+
+*Sagfjorden*
 
 Innenfor en linje:
 
@@ -906,19 +1168,31 @@ Sirines – Svartfjellskallen.
 
 Vinsnesodden – Storøy.
 
+*15. Svolvær Distrikt (kart nr. 72 – 73 – 74 – 75 – 68 – 69 – 311)*
+
+*Kirkefjorden*
+
 Innenfor en linje:
 
 Reine – Olnilsø – Havnø.
+
+*Skjelfjorden. Selfjord*
 
 Innenfor en linje:
 
 Sæterbøen – nordspissen Kunna – Store Grimsholmen – Lille og Store Solø – Soløvik. Torvø – Guldresø. Flakstad – Kvandalen.
 
+*Nusfjord*
+
 Innenfor Boneset.
+
+*Buksnesfjorden*
 
 Innenfor en linje:
 
 Bukholmen – Nordspissen Moholmen – Brandsholmen – Kjeklubben – Kjeø – Balstadø – Balstad.
+
+*Sundklakkstraumen. Gimsøystraumen*
 
 Innenfor en linje:
 
@@ -928,9 +1202,13 @@ Rekdal – sydspissen Vikerø – Vikspollen lykt.
 
 Klokkerboen lykt – Gjertrudvik.
 
+*Austnesfjorden. Øyhellesundet*
+
 Innenfor en linje:
 
 Teisthaugene – Hysskjær – Hundbergholmene.
+
+*Raftsundet*
 
 Innenfor en linje:
 
@@ -938,9 +1216,13 @@ Klipa – Skogjordhalsen.
 
 Hanøyholmen – Brotøy – nordsiden Hamnes.
 
+*Sløverfjorden*
+
 Innenfor en linje:
 
 Kalvøy – Galten.
+
+*Farvannet på innsiden av Hamarøy*
 
 Innenfor en linje:
 
@@ -948,33 +1230,51 @@ Sandneset – Store Trennøy – Nordkilklubben – Frammundneset – Hundsøy �
 
 Rødtangen – Straumsnesøy – Straumsnes.
 
+*16. Harstad Distrikt (kart nr. 69 – 76 – 77 – 78 – 79 – 80 – 229 – 230 – 311)*
+
+*Ofotfjorden*
+
 Innenfor en linje:
 
 Migan – Spira.
+
+*Tjeldsundet*
 
 Innenfor en linje:
 
 Andklakken – Hjertholmskallen stake.
 
+*Efjorden*
+
 Innenfor en linje:
 
 Hamnes – Buholmen – østsiden Barøy – Osen.
+
+*Tysfjorden*
 
 Innfor en linje:
 
 Korsnes lykt – Bekkenesholmen – Sølvneset.
 
+*Kanstadfjord*
+
 Innenfor en linje:
 
 Nesodden – Rinøy lykt.
+
+*Øksfjorden*
 
 Innenfor en linje:
 
 Klubben – Oines.
 
+*Lonkanfjord*
+
 Innenfor en linje:
 
 Lonkanneset – Kaldjord.
+
+*Langsøysund*
 
 Innenfor en linje:
 
@@ -982,37 +1282,59 @@ Skagen – Risøy.
 
 Tennholmen – Holmsøynes.
 
+*Eidsfjorden*
+
 Innenfor en linje:
 
 Kjøldragøy – Grunnvika.
+
+*Olderfjorden*
 
 Innenfor en linje:
 
 Hamneset – Kråkungodden.
 
+*Melfjorden*
+
 Innenfor Jakopvikøy.
 
+*Hellfjord*
+
 Innenfor Storøy.
+
+*Jørgenfjord*
 
 Innenfor en linje:
 
 Lille og Store Buøy – Rødholmen – Dragan.
 
+*Malnesfjord*
+
 Innenfor en linje:
 
 Brurboen – Lyngøy – Hovden.
 
+*Stavsund*
+
 Innenfor Senholmen lykt.
+
+*Børøyfjord*
 
 Innenfor en linje:
 
 Tunstad – Børøy – Børøyvågen.
 
+*Prestfjord. Romsetfjord. Steinlandsfjord*
+
 Innenfor en linje:
 
 Bremneset – Kråknes.
 
+*Lifjorden*
+
 Innenfor Kvaløy.
+
+*Sortlandsund*
 
 Innenfor en linje:
 
@@ -1020,13 +1342,19 @@ Bremnesskagen – Gavlnesset.
 
 Strand – Natland.
 
+*Sigerfjord*
+
 Innenfor en linje:
 
 Kjerringnesøy – Aaserøy – Brokløyshamn.
 
+*Risøysund*
+
 Innenfor en linje:
 
 Breines – Tennskagan – Lovik.
+
+*Kvæfjorden. Topsundet. Øyene ved Harstad. Astafjorden*
 
 Innenfor en linje:
 
@@ -1040,15 +1368,23 @@ Klubben – Akkarnes.
 
 Oterneset – Aakerøy – Tjøtta – østsiden Store Maagøy – Tjuvholmen – Laukholmen – Arnøy – vestsiden Lille Rogla – Storholmen – Rollnes – Kleiva – Hamran.
 
+*Gratangen. Lavangen. Salangen*
+
 Innenfor en linje:
 
 Årbostadnova – Larsevika.
 
 Straumbotn innenfor Straumen.
 
+*17. Tromsø Distrikt (kart nr. 80 – 83 – 84 – 90 – 91 – 94 – 321)*
+
+*Eidepollen*
+
 Innenfor en linje:
 
 Drageskjær – Holsneset.
+
+*Dyrøysund*
 
 Innenfor en linje:
 
@@ -1056,33 +1392,49 @@ Miklebostad – Kastnesskjær.
 
 Klauvholmen – Finnlandsneset.
 
+*Gisund*
+
 Innenfor en linje:
 
 Russevåg – Sørreisa.
 
 Rødbergsodden – Vardneset.
 
+*Stønnesbotn*
+
 Innenfor en linje:
 
 Gamneset – Gavlen.
+
+*Indre Malangen*
 
 Innenfor en linje:
 
 Indrefjord – Vikaneset.
 
+*Balsfjord. Tromsøysund. Sandnessund. Kvalsund*
+
 Innenfor en linje:
 
 Daavdejord – Klubba.
 
+*Finnkroken – Jøvika*
+
 Innenfor Ryøy.
+
+*Langsund*
 
 Innfor en linje:
 
 Prestøra – Sirivollen.
 
+*Ullsfjorden. Sørfjorden. Kjosenfjorden*
+
 Innenfor en linje:
 
 Nebbøra – Jegervatn.
+
+*Lyngenfjorden. Kaafjorden*
 
 Innenfor en linje:
 
@@ -1090,35 +1442,55 @@ Innenfor en linje:
 
 Derfra rett linje i retning 270° over fjorden.
 
+*Kjølmangen. Rotsund. Maursund*
+
 Innenfor en linje:
 
 Værvika – Follesøyan – Bratteng – Skagen – Kvalen.
 
 Oterstokken – Fuglberget.
 
+*Nordreisa*
+
 Innenfor en linje:
 
 Indre Eidet – Storneset.
 
+*Straumfjorden*
+
 Innenfor Øyra.
+
+*Kvænangen*
 
 Innenfor en linje:
 
 Hjellberget – Skorpøyra – Sandøyra – Høgholman – Klubben – Vassnesgrunnen.
 
+*Jøkelfjorden*
+
 Innenfor en linje:
 
 Klubben – Næverneset.
 
+*18. Hammerfest Distrikt (kart nr. 322 – 323 – 324 – 325)*
+
+*Langfjorden*
+
 Innenfor sydspissen av Silda.
+
+*Øksfjorden*
 
 Innenfor en linje:
 
 Arneneset – Bardineset.
 
+*Altafjord. Langfjord*
+
 Innenfor en linje:
 
 Klubbeneset – Skagen vest – Skagen Øst – Kvitevik.
+
+*Magerøysundet*
 
 Innenfor en linje:
 
@@ -1126,19 +1498,31 @@ Stikkelvaagnæringen – Straumsneset.
 
 Hysaksla – Skatøra.
 
+*Porsangerfjorden. Indre del (Roddenesfjorden)*
+
 Innenfor en linje:
 
 Børselvneset – Auskarholmen – Trollholmen.
+
+*19. Båtsfjord Distrikt (kart nr. 324 – 325)*
+
+*Smalfjorden*
 
 Innenfor en linje:
 
 Kjeldneset – Smalfjord lykt.
 
+*Austertana*
+
 Innenfor en linje:
 
 Stangneset – Grønneset.
 
+*Bugøyfjord*
+
 Innenfor Bugøyfjord lykt.
+
+*Kjøfjord. Bøkfjord. Korsfjord*
 
 Innenfor en linje:
 
@@ -1148,17 +1532,25 @@ Gannholmen – Kobbvaagens nordre side.
 
 Kjelmøys nordøstlige odde – Bøkfjord lykt.
 
+*Jarfjorden*
+
 Innenfor Jarfjordneset lykt.
 
 > Vedlegg I endret ved [forskrifter 4 feb 2005 nr. 133](forskrift/2005-02-04-133), [21 juni 2022 nr. 1152](forskrift/2022-06-21-1152) (i kraft 1 juli 2022).
 
 ## Vedlegg II. Geografiske avgrensninger for fartsområde. Beskyttet farvann
 
+*1. Fredrikstad Distrikt (kart nr. 3)*
+
 Nordenfor en linje:
 
 Veslekalv lykt – Torgersø lykt. (Se Oslo Distrikt.)
 
+*2. Oslo Distrikt (kart nr. 4)*
+
 Syd av Drøbak og Svelvik til en linje Veslekalv lykt til Torgersø lykt. (Se Fredrikstad Distrikt.)
+
+*3. Porsgrunn Distrikt (kart nr. 2 – 5 – 6)*
 
 Innenfor en linje:
 
@@ -1174,13 +1566,21 @@ Stråholmsteinene – Stråholmen – Øitangen.
 
 Sydspissen Jomfruland – Fjordboen Varde – Styrmannsholmen.
 
+*4. Kristiansand Distrikt (kart nr. 7 – 8 – 9 – 10 – 11)*
+
+*Farvannet Askerø til Hisø*
+
 Innenfor en linje:
 
 Græsholmen – Flatskjærene – sydspissen Kjeholmen – østsiden Lyngør – Flatskjærene – Mærholmen – Klaaholmene – Haaholmene – Knubben – østsiden Sandskjærene – Kilsund.
 
+*Farvannet Hisø til Justø*
+
 Innenfor en linje:
 
 Haaø – Store Maagholmen – Hals på Bjørø.
+
+*Farvannet Justø til Monsø*
 
 Innenfor en linje:
 
@@ -1190,6 +1590,8 @@ Innenfor en linje:
 
 Trulseodde – Ryvingen – østspissen Kjønsø – Store Lyngholmen – Fladskjær – Hellersø.
 
+*Farvannet Monsø til Lista*
+
 Innenfor en linje:
 
 Sydspissen Helleø – Skarvø – Grønningen – Store Gjævø – Hovde – Østre Hærholmen – Vestre Hærholmen – Valø – Kniplingholmen – Lille Sæsø – Knuten på Store Sæsø – sydspissen Sandø – Store og Lille Vengselsholmene – Ryvingen fyr – Færø.
@@ -1198,25 +1600,43 @@ Innenfor en linje:
 
 Sutne – Herreholmen – sydspissen Ullerø – Vikelen – Steinsholmen – sydspissen Lindholmen – Katland – Kalven.
 
+*5. Stavanger Distrikt (kart nr. 16 – 205)*
+
+*Farvannet utenfor Tananger*
+
 Innenfor en linje:
 
 Tjora – Hjøringane – Rott – Buøy – Haastein – Grønningen – Bragen – Tungenes.
+
+*Nedstrandsfjord*
 
 Innenfor en linje:
 
 Erholmen – sydspissen Stong.
 
+*6. Haugesund Distrikt (kart nr. 16 – 17 – 19 – 205 – 206)*
+
+*Farvannet mellom Østre Bokn og Stong*
+
 Innenfor en linje:
 
 Sveinane – Følje – Brattholmen – Nautøy – nordre Vaagaholmen.
+
+*Bømlafjorden og fjordene innenfor*
 
 Innenfor en linje:
 
 Klubben – Totsholmen – Nappholmen lykt – Tjernagelneset.
 
+*Hiskosen*
+
 Innenfor en linje:
 
 Hisken lykt – Tverborgvik.
+
+*7. Bergen Distrikt (kart nr. 20 – 21 – 22 – 23 – 24 – 206 – 209 – 210 – 251)*
+
+*Bjørnefjorden. Korsfjorden*
 
 Innenfor en linje:
 
@@ -1224,25 +1644,39 @@ Nordspissen Fandø – Økshammer.
 
 Stensnes – østspissen Hilderen.
 
+*Hjeltefjorden*
+
 Innenfor en linje:
 
 Røbbegamstangen – Flesen.
+
+*Fensfjorden*
 
 Innenfor en linje:
 
 Kyrholmen – Nordspissen Børilden – Høge Islendingen (Stongi) – Vikingnæs lykt.
 
+*Øyene på utsiden av Store Hille*
+
 Innenfor en linje:
 
 Sjømerket på Store Kvernø – Maageøerne – Rosflue – Bunæs.
+
+*Sognefjorden*
 
 Innenfor en linje:
 
 Lyngholmen – Lille Lihelle – Store Lihelle – Kraakeneset.
 
+*8. Florø Distrikt (kart nr. 24 – 25 – 26 – 27 – 210 – 212 – 214)*
+
+*Sognefjorden*
+
 Innenfor en linje:
 
 Lyngholmen – Lille Lihelle – Store Lihelle – Kraakenes.
+
+*Området rundt Værøy*
 
 Gavletaren – Myrbærskja – Geita.
 
@@ -1250,21 +1684,33 @@ Ytste Geita – Austneset.
 
 Nordneshl.ene – Trollneset – Lammeneset – N. Fugleneset – Kuøy – Guriøy – Hamnehl. – Ryggene – Tansøya.
 
+*Stavfjorden*
+
 Innenfor en linje:
 
 Dalen på Stavenæs – Langfolden – Tansø.
+
+*Frøjsjøen*
 
 Innenfor en linje:
 
 Nordspissen Hovden – Lisæt.
 
+*Bremangerpollen*
+
 Innenfor en linje:
 
 Nesje – Indre Grotle.
 
+*9. Ålesund Distrikt (kart nr. 29 – 30 – 31 – 32 – 33 – 214 – 215 – 216 – 217 – 308)*
+
+*Sulenfjorden*
+
 Innenfor en linje:
 
 Korsnes – Sulebostad.
+
+*Farvannet rundt Valderø*
 
 Innenfor en linje:
 
@@ -1276,17 +1722,27 @@ Finnøen – Skarholmen.
 
 Gjøsundnes – Kalveholmen – Hamnsund.
 
+*Mifjorden. Misundet*
+
 Innenfor en linje:
 
 Drønesundshaug – Synderlandspynten.
 
 Bjørnø – Magerø.
 
+*10. Kristiansund Distrikt (kart nr. 35 – 217 – 219)*
+
+*Moldefjorden. Karlsøfjorden*
+
 Kfr. Ålesund distrikt.
+
+*Løvøfjord*
 
 Innenfor en linje:
 
 Klippen – Skarvø – Flatskjær – Ildhusø – Store Løvø – Storesvik.
+
+*Langøysund*
 
 Innenfor en linje:
 
@@ -1296,19 +1752,29 @@ Farvannet innenfor Kjenø – Ramsø – Orø – Rushaue – Galten – Galtesk
 
 Sveggesundet innenfor Hundvik.
 
+*Bremsnesfjorden. Bolgsvaet. Ormsundet*
+
 Innenfor en linje:
 
 Smørvikneset – Høgnes.
 
 Innenfor Omsbrødrene.
 
+*Aarsundfjorden*
+
 Innenfor en linje:
 
 Seivik på Nordlandet – Sandholmen varde (Golma).
 
+*Gjerdesviken*
+
 Innenfor en linje:
 
 Kjeøy – Svartskjær – Lille og Store Bærø – Gavlhaue.
+
+*11. Trondheim Distrikt (kart nr. 37 – 38 – 43 – 44 – 45 – 220)*
+
+*Trondheimsleden. Kraakvaagfjorden. Tarvafjorden. Trondheimsfjorden*
 
 Innenfor en linje:
 
@@ -1318,31 +1784,49 @@ Gullholmen – Flessa – Rundholmen – Sjåholmen.
 
 Stangdraget ved Storfosen – Store Gyltingen – Karlsø – Stavø – Vidflua – Skjelholmen.
 
+*Farvannet utenfor Skjørafjord*
+
 Innenfor en linje:
 
 Nordspissen Vaagsøen – Lyngø – Flessa – Almenningen – Været.
+
+*12. Rørvik Distrikt (kart nr. 46 – 47 – 48 – 49 – 51 – 224)*
+
+*Foldenfjorden*
 
 Innenfor en linje:
 
 Stamnesodden – Flattra – Steinene – Abelvær lykt.
 
+*Farvannet sør for Vikna*
+
 Innenfor en linje:
 
 Oterholmsundet lykt – Grinna fyr – Store Krokø – Bondø.
+
+*Kjellfjorden*
 
 Innenfor en linje:
 
 Brudeneset – Langmarken.
 
+*Ursfjorden*
+
 Innenfor en linje:
 
 Solstad – Storvik.
+
+*13. Sandnessjøen Distrikt (kart nr. 51-53 – 56 – 57 – 55 – 62 – 58 – 59 – 224 – 310)*
+
+*Lyngvær, Torgfjorden og Trillremfjorden*
 
 Innenfor en linje:
 
 Nordspissen Kvaløy – Lyngværøy – Skaalvik – Kirstimarken – sørspissen Ytre Andklakken – Sandværodtaren lysbøye – Klubholmen lykt – Blaabakflua – Rotholmen.
 
 Gulddraget – Tvibergø – Haugen – Salterneset.
+
+*Velfjorden. Mindverfjord, Skaalvær, Herøy, Dønna, Solvær til Hestmandøy*
 
 Vevelstadsundet innenfor nordre Høyholm.
 
@@ -1372,17 +1856,25 @@ Breiviken – Ytre Kvarøy – Andklakken lykt – Hestmandø.
 
 Movikodden – Skagahella.
 
+*Kvarøfjord*
+
 Innenfor en linje:
 
 Breiviken – Ytre Kvarø – Kleivholmen.
 
 Brensmoen – Skagahella.
 
+*14. Bodø Distrikt (kart nr. 62 – 63 – 64 – 65 – 66 – 67 – 68 og 227)*
+
+*Melfjorden – Tjongsfjorden*
+
 Innenfor en linje:
 
 Langnesodden – Høinestangen.
 
 Skarhalsen – Klepppan.
+
+*Farvannet Skarsfjorden – Støttvær*
 
 Innenfor en linje:
 
@@ -1406,25 +1898,37 @@ Reinskaarneset – Skaanland.
 
 Straumvik – Kapstøen.
 
+*Mistfjorden*
+
 Innenfor en linje:
 
 Kulbakneset – Misten.
+
+*Sørfolla*
 
 Innenfor en linje:
 
 Kantsteinfloget – Måsøyodden.
 
+*Bratfjord*
+
 Innenfor en linje:
 
 Stiodden – Kvitneset.
+
+*Nordfolla*
 
 Innenfor en linje:
 
 Vikneset – Aaborneset.
 
+*Skotsfjorden*
+
 Innenfor en linje:
 
 Okshl. – Skjerodden.
+
+*Flagsund, Skagstadsund, Økssundet, Sagfjorden*
 
 Innenfor en linje:
 
@@ -1434,71 +1938,113 @@ Brunnes – Tralsneset.
 
 Kalvholsneset – Naustnesodden.
 
+*15. Svolvær Distrikt (kart nr. 69 – 72 – 73 – 74 – 75 – 311)*
+
+*Økssundet. Sagfjorden*
+
 Innenfor en linje:
 
 Kalvholmneset – Naustnesodden. (Se Bodø Distrikt.)
+
+*16. Harstad Distrikt (kart nr. 76 – 77 – 78 – 79 – 229 – 230 – 311)*
+
+*Tysfjorden*
 
 Innenfor en linje:
 
 Korsnes – Bremneset.
 
+*Ofotfjorden*
+
 Innenfor en linje:
 
 Østsiden Barøy – Korsneset.
+
+*Tjeldsundet*
 
 Innenfor en linje:
 
 Andklakken – Rotvær fyr.
 
+*Kanstadfjord*
+
 Innenfor en linje:
 
 Rotvær fyr – Rinøy lykt.
+
+*Hadselfjorden*
 
 Innenfor en linje:
 
 Ertsholmen – Sandøy – Henneneshl. – Hennes.
 
+*Sortlandsund*
+
 Innenfor en linje:
 
 Risøy – Kartnes lykt.
+
+*Eidsfjorden*
 
 Innenfor en linje:
 
 Haangvær – Lyngøy.
 
+*Straumfjorden*
+
 Innenfor Vikanøy.
+
+*Aasanfjord*
 
 Innenfor en linje:
 
 Husøy – Kalarneset.
 
+*Børøyfjord*
+
 Innenfor en linje:
 
 Hjellsand – Hjellsandøy – Terøy – Senholmen.
+
+*Gavlfjord*
 
 Innenfor en linje:
 
 Instøy – Græsholman – Sandnes lykt.
 
+*Andfjorden*
+
 Innenfor en linje:
 
 Jaktvikneset – Gapøyholmen – Kasholmen – Maasskjær – Skipperøy – Burøy – Smaløy.
+
+*Kvernsundet*
 
 Innenfor en linje:
 
 Skarsteinneset – Gaardsøy – Flatøy – Svennevik – Varneset – Svinøy.
 
+*17. Tromsø Distrikt (kart nr. 80 – 84 – 85 – 86 – 87 – 88 – 90 – 91 – 321)*
+
+*Tranøyfjorden*
+
 Innenfor en linje:
 
 Gammeneset – Gaasneset.
+
+*Bergsfjorden. Nordfjorden*
 
 Innenfor en linje:
 
 Hamn – Bøvær.
 
+*Malangen*
+
 Innenfor en linje:
 
 Bakkejord – Tennskjer.
+
+*Kaldfjorden*
 
 Innenfor en linje:
 
@@ -1506,9 +2052,13 @@ Hamarneset – Jektvik.
 
 Barbrovik – Nautnesvik.
 
+*Kvalsundet*
+
 Innenfor en linje:
 
 Valen – Trollbåtneset.
+
+*Skagøysund*
 
 Innenfor en linje:
 
@@ -1516,17 +2066,27 @@ Klokkarholmen – Skagøy.
 
 Finnesklubben lykt – Bromnes.
 
+*Lyngenfjorden*
+
 Innenfor en linje:
 
 Rapsgammen – Skjeret.
+
+*Lauksund*
 
 Innenfor en linje:
 
 Singla – Nikkeby – Laukenga – Storelv.
 
+*18. Hammerfest Distrikt (kart nr. 322 – 323)*
+
+*Øksfjord*
+
 Innenfor en linje:
 
 Klubbneset – Ystnes.
+
+*Altafjorden. Vargsundet. Kvalsund. Sammelsund*
 
 Innenfor en linje:
 
@@ -1536,9 +2096,13 @@ Kvalvika – Ytre Torskefjorden.
 
 Skjåholman – Storkholmen – Indre Junkerhamna.
 
+*Vannfjorden*
+
 Innenfor en linje:
 
 Stikkelvaagnæringen – Vannfjordnæringen.
+
+*Lafjorden*
 
 Innenfor en linje:
 
@@ -1548,51 +2112,83 @@ Gamnes – Skatøra.
 
 ## Vedlegg III. Geografiske avgrensninger for fartsområde. Innaskjærs fart hvor åpne havstrekninger på over 5 nautiske mil ikke passeres
 
+*1. Fredrikstad Distrikt (kart nr. 1 – 2)*
+
 Innenfor en linje:
 
 N. Halsø – Tresteinene fyr – søndre Søstrene – Struten fyr – søndre Missingen – Fuglehuk fyr.
 
+*2. Oslo Distrikt*
+
 Distriktet ligger i sin helhet innenfor dette fartsområdet.
+
+*3. Porsgrunn Distrikt (kart nr. 2 – 56)*
 
 Innenfor en linje:
 
 Fulehuk fyr – Færder fyr – Tjømeboen – Bonden varde – Hetta – Svenner fyr – Stavernsodden fyr – Herregårdsboen – Tvistein fyr – Napa – Stråholmsteinen.
 
+*4. Kristiansand Distrikt (kart nr. 7 – 8 – 9 – 10)*
+
+*Farvannet utenfor Flostaøen*
+
 Innenfor en linje:
 
 Maakeskjær – Ytre Møkkalasset lykt – Bonden – Flatskjærene – Gitmertangen.
+
+*Farvannet Hisø til Justø*
 
 Innenfor en linje:
 
 Lakseberget på Mærdø – Ytre Torungen fyr – Ryvingen – yttersiden Valøerne – Bregegrunnen – Haabogrunnen – Steinene – Homborsund fyr – Drevholmen – Svartskjær – Svertinggrunnene – Reierskjær.
 
+*Farvannet Justø til Torsø*
+
 Innenfor en linje:
 
 Reierskjær – Nodingen – Skaarebokslerne – Tronderøholmen – Grønningen – Ramsø – Ytre Ulvø – Torsø.
+
+*Farvannet Monsø til Lindesnes*
 
 Innenfor en linje:
 
 Skarvø – Hellersø – Kubbø – sydsiden Udvaar – Valø. Færø – Storø – Langskjær – Naudholmen – Aasgard. Vragvig – Hjorten – Hummerholmen – nordspissen Vaare – Agneskjær – Klippeskjær – Indreodden.
 
+*5. Stavanger Distrikt (kart nr. 16 – 205)*
+
+*Farvannet Tananger til Vestre Bokn*
+
 Innenfor en linje:
 
 Nesodden – Sørskot varde – Kjør – Haastein – Rauholmen – Sandholmen – Skarssteinen på Kvitsøy – Areneset på Vestre Bokn.
+
+*Fedefjorden*
 
 Innenfor en linje:
 
 Varnes lykt – Klubben.
 
+*6. Haugesund Distrikt (kart nr. 16 – 17 – 19 – 205 – 206)*
+
+*Karmsundet*
+
 Innenfor en linje:
 
 Dalhamn – Nordstøvik.
+
+*Bømlafjord og farvannet vest av Bømlo*
 
 Innenfor en linje:
 
 Eltravaagneset – Bømlahuk – Markholmene lykt – Sanøy – Kvaløy – Torgersholmen – Rangkalsøy – Irsholmene – Ærøy – Slagøy – Lyngøy – Nautøy – Toska – Hiskjø.
 
+*Vestsiden av Karmøy*
+
 Innenfor en linje:
 
 Stonghamar – Mortholmen – Varholmen – Svendsholmen – Geining – Marøy – Salvøy – Kavholmen – Kvitingane – Kvalevaag.
+
+*Farvannet innenfor Fedøy*
 
 Innenfor en linje:
 
@@ -1602,17 +2198,29 @@ Gitterøy – Reidungen – Hanseskjær lykt – Broteskjær – Storøy – Has
 
 Ruten Haugesund – Stavanger. Indre led (Innsiden av Bokn og Rennesøy).
 
+*7. Bergen Distrikt (kart nr. 21 – 23 – 24 – 206 – 209 – 219)*
+
+*Selbjørnsfjorden*
+
 Innenfor en linje:
 
 Slotterø fyr – Furen – Gjeitingen på Stolmen.
+
+*Skoltefjorden. Møgsterfjorden. Korsfjorden*
 
 Innenfor en linje:
 
 Vestpynten Fugløy – Maagsten – Marsten fyr – Texlen.
 
+*Skjærgården vest for Sotra nordover til Sognesjøen*
+
 Innenfor en linje:
 
 Texlen – Oddene – Lyngø – Løna – vestsiden Laagø – Vestre Odden – Greipingskjær – Storodden – Braken – Gangvarskjær – Leste Odde – Nordøen – utsiden Fedje – Store Frelsø – Holmengrå fyr – Kråkene lykt – 0,5 n. mil syd av Kværeknapp lykt.
+
+*8. Florø Distrikt (kart nr. 24 – 25 – 26 – 27 – 29 – 210 – 212 – 214)*
+
+*Sognefjorden. Farvannet utenfor ytre Sulen. Aspø til Værø*
 
 Innenfor en linje:
 
@@ -1620,21 +2228,31 @@ Kråkene lykt – 0,5 nautiske mil syd av Kværeknapp lykt – Nautø – Utvær
 
 Hovden lykt – Sandø – Svartskjær.
 
+*Farvannet utenfor Atleø – Askeroven, Kinn, Batalden og Hovden til Bremanger*
+
 Innenfor en linje:
 
 Skallen lykt – Molvær – Æsø – Store Kvalsten – Sydvestspissen Kinn – Ytterøen fyr – vestsiden Batalden – Gaasø – Mulen på Frøjen – Tarasundhammaren på Bremanger.
+
+*Faafjorden*
 
 Innenfor en linje:
 
 Skarvenykjen – Baasundhalsen.
 
+*Farvannet mellom Vaagsø og Selje*
+
 Innenfor en linje:
 
 Skongenes fyr – Kjeholmen ved Selje.
 
+*Vanelvsgab*
+
 Innenfor en linje:
 
 Eltevik på Stadtlandet – Ristø.
+
+*9. Ålesund Distrikt (kart nr. 29 – 30 – 31 – 32 – 214 – 215 – 216 – 217)*
 
 Innenfor en linje:
 
@@ -1648,109 +2266,175 @@ Langenes – nordvestpynten Lepsøy – nordsiden Haramsøy – nordsiden Flems�
 
 Nordøstpynten Harøya – sydspissen Sandøy.
 
+*10. Kristiansund Distrikt (kart nr. 33 – 34 – 35 – 36 – 37 – 217 – 219)*
+
 Innenfor en linje:
 
 Sørspissen Sandø – Flatflesa fyr – Orsholmen – Grøningen – Bjørnsund fyr – Bud.
 
 Ruten Kristiansund – Grip samt ruten på yttersiden av Averø til Ljosø. (Rute 42 og 43 MRF.)
 
+*Ytrefjord. Edøfjord. Talgsjø. Aarsundfjord*
+
 Innenfor en linje:
 
 Nordøstspissen Skorpa – Odskjærene – Langholmen lykt – Solværsboen – Fjordprakkene – Buarnø – Otterø.
+
+*Ramsøfjorden*
 
 Innenfor en linje:
 
 Dyrø – Ramsø.
 
+*11. Trondheim Distrikt (kart nr. 39 – 40 – 41 – 42 – 43 – 44 – 45)*
+
+*Farvannet rundt Frøya samt langs kysten til Buholmraasa*
+
 Innenfor en linje:
 
 Store Værsø – 0,5 nautiske mil vest av Sletringen fyr – Homlingsvær fyr – Maltsækken lykt på Sula – Vingleia fyr – Gjæslingen lykt – Finnvær fyr – Halten fyr – Gimsan – Sauø Lykt – Storflua – Store Svingla – Nordboen – N. 63° 42′ Ø. 9° 10′ – Leiafald – Grundene.
+
+*12. Rørvik Distrikt (kart nr. 46 – 47 – 48 – 49 – 50 – 51 – 224)*
+
+*Farvannet fra Buholmraasa langs kysten til Vikna*
 
 Innenfor en linje:
 
 Leiafald – Grundene – Allegaarden – Gjæslingane fyr – Tronflesene lykt – Sørøyane lykt – Nordøyane – Hesvik.
 
+*Farvannet mellom Vikna og Leka*
+
 Innenfor en linje:
 
 Kvalø – Brunflesan lykt – Vaagsøy – Indre Hortensvær – Galboflesan på Onsteinen.
+
+*Farvannet innenfor Leka*
 
 Innenfor en linje:
 
 Kvitholmen lykt – Solsemholmen – Skeipynten – Sundsviken.
 
+*13. Sandnessjøen Distrikt (kart nr. 51 – 53 – 54 – 55 – 56 – 58 – 59 – 61 – 62 – 310)*
+
 Innenfor en linje:
 
 Vågsøy indre Hortensvær – Galtboflesa på Onsteinen – Kversteinen lykt – Mudvær lykt – Vestsiden Søla – Ravnøy – Nordsten på Laanan – Ytre Flesan – Innerholmen – Ytterholmen fyr – Lyngholmen – Skarvholmene – Store Lyngvær – Skarholmen lykt – Moholmen – Gjæsnakken Lykt – Seisundholmene – Lille og Store Fossan – Naustholmen – Værholmen – Store Lyngø – N. 66° 25′ Ø. 12° 40′ – Kjønholmene – Store Helø. (Se Bodø Distrikt.)
+
+*14. Bodø Distrikt (kart nr. 310 – 311 – 61 – 62 – 63 – 64 – 65 – 227 – 66 – 67)*
+
+*Farvannet Nesø – Landego*
 
 Innenfor en linje:
 
 Store Helø – N. Hjartø – Lammø – innsiden Blekvær – Store Skarvholmen i Skjærvær – Gaasholmbøen – Støtkuven – Lyngholmen – Ytre Hagerholmen – Nupen – yttersiden Fleinvær – Bliksvær – sydspissen Landegode.
 
+*Farvannet Brennsund – Hamarøy*
+
 Innenfor en linje:
 
 Bjørnøy fyr – Fjærkvittingen – Helløyskjær – Breifaldet – Guliskjær lykt – Brokskjær lykt – Flatøy lykt.
+
+*15. Svolvær Distrikt (kart nr. 69 – 72 – 73 – 74 – 75 – 311)*
+
+*Nappstraumen*
 
 Innenfor en linje:
 
 Napp lykt – Flesa.
 
+*Vestfjorden*
+
 Innenfor en linje:
 
 Nusneset – Roholmen – Svinø – Brandsholmsbøen – Bremholmen – Odden – Hagbaren – Bikkja – Valbergflesene – Store Rødholmen – Flesene – Moholmen fyr – Skrova fyr – Raustavene – Store Ingjelsø – Aarstein – Kvitbaren. (Se Harstad Distrikt.)
+
+*Nordsiden av Vestvågøy*
 
 Innenfor en linje:
 
 Eggum – Været – Kvanholmen – Store Borgen – Grytholmen – Sandø.
 
+*Hadselfjorden*
+
 Innenfor en linje:
 
 Engøy – Haugneset.
+
+*16. Harstad Distrikt (kart nr. 69 – 76 – 77 – 78 – 79 – 229 – 230 – 311)*
+
+*Vestfjorden/Ofotfjorden*
 
 Innenfor en linje:
 
 Herøy – Barøyodden – Rotvær fyr – Rindbøtværskjær – Vadholmen – Gamøy – Kvitbaren. (Se Svolvær Distrikt.)
 
+*Sydvestsiden av Langøy*
+
 Innenfor en linje:
 
 Langneset – Gjersøy – Odden – Purkholmen – Gaukværøy – Lyngøy – Bergodden.
+
+*Gavlfjord*
 
 Innenfor en linje:
 
 Kloneset – Kloøy – Bjørnen – Aaknes.
 
+*Andfjorden*
+
 Innenfor en linje:
 
 Stoksteinneset – Kinnholmen – Store Brunøy – Nordstøy – Ytstøy – Gaasholman – Langholmen – Ersholman – Kvitskjeran – Skjeldnes.
+
+*Indre Vaagsfjord*
 
 Innenfor en linje:
 
 Nordskagneset – Nordre Rollnes – Engenes.
 
+*17. Tromsø Distrikt (kart nr. 80 – 82 – 83 – 84 – 85 – 86 – 87 – 88 – 89 – 90 – 91 – 92 – 93 – 94 – 95 – 321)*
+
+*Farvannet mellom Stanglandet og Senja*
+
 Innenfor en linje:
 
 Stangodden – Lemmingvær – Senjahestneset.
+
+*Selfjorden*
 
 Innenfor en linje:
 
 Doveneset – Storskjær.
 
+*Sifjorden*
+
 Innenfor en linje:
 
 Prestjora – Nattmålnes.
+
+*Torskenfjorden. Gryllefjorden*
 
 Innenfor en linje:
 
 Senholmen – Hovda.
 
+*Mefjorden*
+
 Innenfor en linje:
 
 Mefjord lykt – Holmen.
 
+*Øyfjorden*
+
 Innenfor Ytre Melsneset.
+
+*Malangen*
 
 Innenfor en linje:
 
 Nøringen – Hekkingen – Edøy – Hillesøy.
+
+*Haajafjorden*
 
 Innenfor en linje:
 
@@ -1758,9 +2442,13 @@ Avløys – Klubben – Trollbåten – Bremnespynten – Skjaavikneset.
 
 Nordre Portneset – Bryggeskjær – Nordneset – Madseng.
 
+*Vengsøyfjorden*
+
 Innenfor en linje:
 
 Sethaugneset – Gjøssøy – Haugan.
+
+*Farvannet ved Ribbenesøy, Nordre Kvaløy, Vannøy, Fugløy, Arnøy, Laukøy, Skjervøy, Haukøy og Rødøy*
 
 Innenfor en linje:
 
@@ -1776,9 +2464,15 @@ Rambergbukt – Valholmen Lykt – Brusen – Pankekeila lykt.
 
 Ramberg på Laukøy – Skjervøyskjær lykt – Finnvik på Haukøy – Skarvberget på Haukøy – Rødøy – Nakkefjell.
 
+*18. Hammerfest Distrikt (kart nr. 322 – 323 – 324 – 325)*
+
+*Frakkfjorden. Søndre Bergsfjord*
+
 Innenfor en linje:
 
 Andsnes – sydvestpynten Loppekalven – sydvestpynten Loppa – Mareholmen – Avløysingen.
+
+*Nordre Bergsfjord*
 
 Innenfor en linje:
 
@@ -1786,9 +2480,13 @@ Ivervær – Lørsneset.
 
 Hele Ullsfjorden og Nuvsfjorden.
 
+*Stjernsundet*
+
 Innenfor en linje:
 
 Kariholmen – Klubbneset.
+
+*Sørøysund*
 
 Innenfor en linje:
 
@@ -1796,9 +2494,13 @@ Baardveggen – Gaashopen.
 
 Akkarfjordnæringen – Mylingen.
 
+*Revsbotn*
+
 Innenfor en linje:
 
 Revsneset – Ytre Sauhamnneset.
+
+*Snefjord. Breisundet. Kulfjorden. Maasøyfjord*
 
 Innenfor en linje:
 
@@ -1806,35 +2508,53 @@ Bustadnæringen – Reinøy – Store Latøy – Nipa – Havøygavlen – Geiti
 
 Svartviknæringen – Nordvestspissen av Maasøy – Maasneset – Storholmen.
 
+*Magerøysundet*
+
 Innenfor en linje:
 
 Juledagsneset – Hjellneset.
+
+*Porsangerfjord*
 
 Innenfor en linje:
 
 Jarnøy – Lille Tamsøy – Haarvikneset.
 
+*Laksefjorden (Indre del)*
+
 Innenfor en linje:
 
 Arenes – Langholmen – Bekkarfjordklubben.
+
+*Hopsfjorden. Langfjorden*
 
 Innenfor en linje:
 
 Segelneset – Digermulen.
 
+*19. Båtsfjord distrikt (kart nr. 324 – 325)*
+
+*Indre Tanafjord*
+
 Innenfor en linje:
 
 Digermulen – Gulgoodden.
 
+*Båtsfjord*
+
 Innenfor en linje:
 
 Rossmaal – Seiboneset.
+
+*Syltefjord*
 
 Innenfor en linje:
 
 Svartneset – Russevika.
 
 Farvannet fastlandet – Vardø – Reinøy.
+
+*Varangerfjorden. Bugøyfjorden*
 
 Innenfor en linje:
 
@@ -1844,55 +2564,91 @@ Vadsø – Bugøy – Kjøøy.
 
 ## Vedlegg IV. Geografiske avgrensninger for fartsområde. Innaskjærs fart hvor åpne havstrekninger på over 25 nautiske mil ikke passeres
 
+*1. Fredrikstad Distrikt (kart nr. 1)*
+
 Nordenfor en linje:
 
 Nordre Hallsø – Tisler – Mefjordboen – Færder fyr.
 
+*2. Oslo Distrikt*
+
 Distriktet ligger i sin helhet innenfor dette fartsområde.
+
+*3. Porsgrunn Distrikt (kart nr. 2 – 5 – 6)*
 
 Innenfor en linje:
 
 Svenner fyr – Tvistein fyr – Risør.
 
+*4. Kristiansand Distrikt*
+
 I distriktet finnes ingen slike farvann, idet farvannet utenfor punktene nevnt i Vedlegg III, nr. 4, samt Listalandet regnes som Liten kystfart.
+
+*5. Stavanger Distrikt (kart nr. 16 – 205)*
 
 Innenfor en linje:
 
 Vestsiden Kvitsøy – Geitungen fyr.
 
+*6. Haugesund Distrikt (kart nr. 17 – 306)*
+
+*Ruten Haugesund – Utsira*
+
 Denne rute blir i tiden 1. oktober til 30. april regnet som Liten kystfart.
+
+*Farvannet nord av Haugesund. Sletta*
 
 Innenfor en linje:
 
 Nordspissen Kvaløy – Bjørkevær – sørspissen Røvær – Værodden – Lyngsøy – Raudholmen – Espevær.
 
+*7. Bergen Distrikt (kart nr. 24 – 210)*
+
 Innenfor en linje:
 
 Holmengraa fyr – Utvær fyr.
+
+*8. Florø Distrikt (kart nr. 29 – 214)*
+
+*Sildegabet*
 
 Innenfor en linje:
 
 Skongenes fyr – Faakornet på Stadtlandet.
 
+*9. Ålesund Distrikt*
+
 I distriktet finnes ingen slike farvann, idet farvannet utenfor punktene nevnt i Vedlegg III, nr. 9, regnes som Liten kystfart.
 
+*10. Kristiansund Distrikt*
+
 I distriktet finnes ingen slike farvann, idet farvannet utenfor punktene i Vedlegg III, nr. 10, regnes som Liten kystfart.
+
+*11. Trondheim Distrikt (kart nr. 309)*
 
 Innenfor en linje:
 
 Halten fyr – Kya fyr – Gjæsingen fyr.
 
+*12. Rørvik Distrikt (kart nr. 309)*
+
 Innenfor en linje:
 
 Kya fyr – Gjæsingen fyr – Frelsø – Sklinna fyr – Høgbraken – Bremstein fyr.
+
+*13. Sandnessjøen Distrikt (kart nr. 310 – 224 – 61 – 59 – 58 – 56 – 54 – 53 – 52)*
 
 Innenfor en linje:
 
 Høgbraken – Bremstein fyr – 1 nautisk mil vest av Ytterholmen fyr – Træna fyr – Store Floan – Bøvarden – Aalvorsneset – Store Lammø – Rosøerne – Varø – Myken fyr. (Se Bodø Distrikt.)
 
+*14. Bodø Distrikt*
+
 Innenfor en linje:
 
 Myken fyr – Grønna – Tenholmen fyr – yttersiden Helligvær – Maaløy – Skaarholmen fyr – Flatøy fyr. (Se Svolvær og Harstad Distrikter.)
+
+*15. Svolvær Distrikt (kart nr. 311)*
 
 Innenfor en linje:
 
@@ -1900,35 +2656,61 @@ Yttertuven – Grundskallen – Brandsholmsbøen – Hagbaren – Flatøy fyr.
 
 Gimsøy – Litløy fyr.
 
+*16. Harstad Distrikt (kart nr. 311)*
+
 Innenfor en linje:
 
 Litløy fyr – Floholmen – Anda fyr – Andenes fyr – Maaneset.
+
+*17. Tromsø Distrikt (kart nr. 80 – 82 – 83 – 84 – 85 – 86 – 87 – 88 – 89 – 90 – 91 – 92 – 93 – 94 – 95 – 321)*
+
+*Andfjorden*
 
 Innenfor en linje:
 
 Maaneset – Røra – Okseneset – Kjølva – Edøy.
 
+*Farvannet på yttersiden av Kvaløy, Ringvassøy, Ribbenesøy, Grøtøy, Nordre Kvaløy, Vannøy,*
+
+*Fugløy og Arnøy*
+
 Innenfor en linje:
 
 Edøy – Haaja – Fugløy – Bonskjær – Bratnæringen – Store Grimsholmen – Fugløykalven fyr – Arnøybåen.
+
+*18. Hammerfest Distrikt (kart nr. 322 – 323 – 324 – 325)*
+
+*Farvannet Arnøy – Sørøya*
 
 Innenfor en linje:
 
 Arnøybåen – Loppas nordspiss – Fuglen.
 
+*Farvannet Sørøya – Ingøy – Hjelmsøy – Magerøy*
+
 Innenfor en linje:
 
 Tarhalsen – Fruholmen fyr – Hjelmsøystauren – Knivskjærodden.
+
+*Porsangerfjorden. Laksefjorden*
 
 Innenfor en linje:
 
 Helnes fyr – Kjøllefjordneset.
 
+*Tanafjorden*
+
 Innenfor en linje:
 
 Slettnes fyr – Kjølnes fyr. (Båtsfjord distrikt.)
 
+*19. Båtsfjord Distrikt (kart nr. 324 – 325)*
+
+*Tanafjorden*
+
 Sletnes fyr (Hammerfest distrikt) – Kjølnes fyr.
+
+*Varangerfjorden*
 
 Innenfor en linje:
 

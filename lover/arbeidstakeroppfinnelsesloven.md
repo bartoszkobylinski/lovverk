@@ -129,3 +129,5 @@ Er en sak innbrakt til mekling i nemnda, trer denne mekling ved søksmål i sted
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 – – –
+
+1 Fra 1 sep 1970 iflg. res. 3 juli 1970. Jf. res. 24 juni 1983 om Jan Mayen.

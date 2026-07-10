@@ -340,7 +340,16 @@ Enkelte utdanninger og emner har obligatoriske arbeidskrav som må være levert 
 
 (2) Ved eksamen, bedømmelse av oppgave eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller fra en gradert skala fra A til F, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40). Laveste karakter som godkjennes for bestått eksamen er E.
 
-(3) Vurderingsuttrykkene som benyttes for den graderte skalaen er:AFremragendeFremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet.BMeget godtMeget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+(3) Vurderingsuttrykkene som benyttes for den graderte skalaen er:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet. |
+| B | Meget godt | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 ### § 6-15. Vitnemål og karakterutskrift
 

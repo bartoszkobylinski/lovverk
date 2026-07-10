@@ -36,7 +36,11 @@ I forskriften menes med:*Bru:* Konstruksjon som bærer trafikklaster, inkludert 
 
 ## § 3. Trafikklast på ferjekaier
 
-Alle deler av en ferjekai som inngår i det offentlige vegnettet, med unntak av ferjekaibrua, skal belastes med trafikklast som for bruer. Ferjekaibrua skal dimensjoneres med karakteristiske verdier som angitt i NS-EN 1991-2+NA, med følgende korreksjonsfaktorer for lastmodell 1 (LM1) og lastmodell 2 (LM2):*αQi* = 0,8*αq1* = 0,48*αqi* = 0,8*αqr* = 0,8*βQi* = 0,8
+Alle deler av en ferjekai som inngår i det offentlige vegnettet, med unntak av ferjekaibrua, skal belastes med trafikklast som for bruer. Ferjekaibrua skal dimensjoneres med karakteristiske verdier som angitt i NS-EN 1991-2+NA, med følgende korreksjonsfaktorer for lastmodell 1 (LM1) og lastmodell 2 (LM2):
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *αQi* = 0,8 | *αq1* = 0,48 | *αqi* = 0,8 | *αqr* = 0,8 | *βQi* = 0,8 |
 
 ## § 4. Trafikklast på fylling inntil konstruksjoner
 
@@ -68,6 +72,8 @@ Figur 2 – Trafikklast på fylling inntil konstruksjoner, snitt A–A
 3. Korreksjonsfaktorene i 4) interpoleres lineært for spennvidder mellom 200 m og 1000 m.
 *α*fk = 1,0 for spennvidde lik 200 m. Konsentrerte laster («tandem system») interpoleres ikke.Antall lastfelt («notional lanes») settes som det faktiske antallet kjørefelt. Bruas resterende areal belastes som «remaining area» i henhold til NS-EN 1991-2+NA.
 4. Trafikklast på bruer med spennvidde ≥ 1000 m skal dimensjoneres med karakteristiske verdier som angitt i NS-EN 1991-2+NA med følgende endrede korreksjonsfaktorer:*α*q1 = 0,5*α*qr = 0Jevnt fordelt last på gang- og sykkelanlegg (*q*fk ) multipliseres med korreksjonsfaktor:
+
+*α*fk = 0,25
 
 ## § 7. Ikrafttreden
 

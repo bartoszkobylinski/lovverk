@@ -32,6 +32,8 @@ Departementet kan gi utfyllende bestemmelser om kriteriene for tildeling av stø
 
 > Endret ved [lover 9 juni 1989 nr. 31](lov/1989-06-09-31), [4 des 1992 nr. 128](lov/1992-12-04-128), [23 juni 2000 nr. 52](lov/2000-06-23-52) (ikr. 1 jan 2002 iflg. [res. 5 okt 2001 nr. 1146](forskrift/2001-10-05-1146)), [15 juni 2018 nr. 40](lov/2018-06-15-40) (ikr. 1 juli 2018 iflg. [res. 15 juni 2018 nr. 879](forskrift/2018-06-15-879)).
 
+1 Jf. [EØS-avtalen](lov/1992-11-27-109/eøsl) art. 4.
+
 ## § 2.
 
 Fondet ledes av et styre som oppnevnes av Kongen. Vedkommende departement fastsetter godtgjørelse for styrets medlemmer.

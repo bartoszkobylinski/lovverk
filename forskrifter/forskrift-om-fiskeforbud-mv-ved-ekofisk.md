@@ -24,7 +24,16 @@ eu_basis: []
 
 ## § 1.
 
-Disse forskrifter er fastsatt med hjemmel i lov av 21. juni 1963 om utforskning og utnyttelse av undersjøiske naturforekomster [§ 3](lov/1963-06-21-12/§3) og [lov av 17. desember 1976](lov/1976-12-17-91) om Norges økonomiske sone [§ 4](lov/1976-12-17-91/§4), og får anvendelse i området innenfor rette linjer trukket gjennom koordinatene for følgende installasjoner på Ekofiskfeltet:1. A-plattformenN 56°31′15″O 03°13′22″2. B-plattformenN 56°33′55″O 03°12′15″3. Lastebøye SBM IIN 56°33′36″O 03°15′25″4. Lastebøye SBM IN 56°32′06″O 03°15′34″samt i en 500 meters sone rundt nevnte område.
+Disse forskrifter er fastsatt med hjemmel i lov av 21. juni 1963 om utforskning og utnyttelse av undersjøiske naturforekomster [§ 3](lov/1963-06-21-12/§3) og [lov av 17. desember 1976](lov/1976-12-17-91) om Norges økonomiske sone [§ 4](lov/1976-12-17-91/§4), og får anvendelse i området innenfor rette linjer trukket gjennom koordinatene for følgende installasjoner på Ekofiskfeltet:
+
+|  |  |  |
+| --- | --- | --- |
+| 1. A-plattformen | N 56°31′15″ | O 03°13′22″ |
+| 2. B-plattformen | N 56°33′55″ | O 03°12′15″ |
+| 3. Lastebøye SBM II | N 56°33′36″ | O 03°15′25″ |
+| 4. Lastebøye SBM I | N 56°32′06″ | O 03°15′34″ |
+
+samt i en 500 meters sone rundt nevnte område.
 
 ## § 2.
 

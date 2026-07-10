@@ -150,13 +150,34 @@ Når styremaskinen har flere kraftenheter som kan brukes samtidig, skal minst to
 
 ### § 15. Navigasjonshjelpemidler
 
-(1) Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) 1. juli 2002 eller senere, og flyttbare innretninger skal ha følgende navigasjonshjelpemidler om bord:*Bruttotonnasje**Passasjerskip**Lasteskip og flyttbare innretninger*Globalt navigasjonssatellittsystem (GNSS)AlleAlleAutomatisk identifikasjonssystem (AIS)AlleAlleBrovaktalarmAlleAlleKursindikator (THD) for skip og flyttbare innretninger som ikke har gyrokompassAlleAlleRadarreflektor< 150< 150Magnetkompass klasse B< 150< 150Standard magnetkompass klasse A som kan vise kursen ved hovedstyreposisjon≥ 150≥ 150Peileinnretning til magnetkompass≥ 150≥ 150Reserve magnetkompass klasse A eller gyrokompass≥ 150≥ 150Dagslyssignallampe i fartsområde 3 og større≥ 150≥ 150EkkoloddAlle≥ 3009 GHz (3 cm) radarAlle≥ 300Elektronisk plottehjelp (EPA), automatisk plottehjelp (ATA) eller automatisk radar plottehjelp (ARPA)< 500≥ 300, < 500Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannetAlle≥ 300Gyrokompass≥ 500≥ 500Peileinnretning til gyrokompass≥ 500≥ 500Indikatorer som kan leses fra kommandoposisjonen og som viser
-• rorvinkel
-• propellhastighet
-• fremdriftskraftens styrke og retning
-• styrke og retning på sideveis skyvekraft
-• stigning
-• driftsmodus≥ 500≥ 500ATA eller ARPA≥ 500, < 3000≥ 500, < 30003 GHz (10 cm) radar≥ 3000≥ 3000To uavhengige hjelpemidler med ATA eller ARPA. På skip med bruttotonnasje 10 000 eller mer og flyttbare innretninger skal ett av disse være ARPA≥ 3000≥ 3000Kurskontrollsystem eller rutekontrollsystem (selvstyreanlegg)≥ 10 000≥ 10 000Svinghastighetsindikator som kan leses fra kommandoposisjonen≥ 50 000≥ 50 000Måleutstyr for hastighet og distanse som skal vise langskips og tverrskips hastighet og distanse over grunnen≥ 50 000≥ 50 000
+(1) Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) 1. juli 2002 eller senere, og flyttbare innretninger skal ha følgende navigasjonshjelpemidler om bord:
+
+|  | *Bruttotonnasje* |  |
+| --- | --- | --- |
+|  | *Passasjerskip* | *Lasteskip og flyttbare innretninger* |
+| Globalt navigasjonssatellittsystem (GNSS) | Alle | Alle |
+| Automatisk identifikasjonssystem (AIS) | Alle | Alle |
+| Brovaktalarm | Alle | Alle |
+| Kursindikator (THD) for skip og flyttbare innretninger som ikke har gyrokompass | Alle | Alle |
+| Radarreflektor | < 150 | < 150 |
+| Magnetkompass klasse B | < 150 | < 150 |
+| Standard magnetkompass klasse A som kan vise kursen ved hovedstyreposisjon | ≥ 150 | ≥ 150 |
+| Peileinnretning til magnetkompass | ≥ 150 | ≥ 150 |
+| Reserve magnetkompass klasse A eller gyrokompass | ≥ 150 | ≥ 150 |
+| Dagslyssignallampe i fartsområde 3 og større | ≥ 150 | ≥ 150 |
+| Ekkolodd | Alle | ≥ 300 |
+| 9 GHz (3 cm) radar | Alle | ≥ 300 |
+| Elektronisk plottehjelp (EPA), automatisk plottehjelp (ATA) eller automatisk radar plottehjelp (ARPA) | < 500 | ≥ 300, < 500 |
+| Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannet | Alle | ≥ 300 |
+| Gyrokompass | ≥ 500 | ≥ 500 |
+| Peileinnretning til gyrokompass | ≥ 500 | ≥ 500 |
+| Indikatorer som kan leses fra kommandoposisjonen og som viser<br>• rorvinkel<br>• propellhastighet<br>• fremdriftskraftens styrke og retning<br>• styrke og retning på sideveis skyvekraft<br>• stigning<br>• driftsmodus | ≥ 500 | ≥ 500 |
+| ATA eller ARPA | ≥ 500, < 3000 | ≥ 500, < 3000 |
+| 3 GHz (10 cm) radar | ≥ 3000 | ≥ 3000 |
+| To uavhengige hjelpemidler med ATA eller ARPA. På skip med bruttotonnasje 10 000 eller mer og flyttbare innretninger skal ett av disse være ARPA | ≥ 3000 | ≥ 3000 |
+| Kurskontrollsystem eller rutekontrollsystem (selvstyreanlegg) | ≥ 10 000 | ≥ 10 000 |
+| Svinghastighetsindikator som kan leses fra kommandoposisjonen | ≥ 50 000 | ≥ 50 000 |
+| Måleutstyr for hastighet og distanse som skal vise langskips og tverrskips hastighet og distanse over grunnen | ≥ 50 000 | ≥ 50 000 |
 
 (2) Dersom skipet har nødstyreposisjon, skal det være kommunikasjonsutstyr som kan formidle kursinformasjon til nødstyreposisjonen.
 
@@ -340,9 +361,47 @@ Forskriften trer i kraft 15. september 2014. Fra samme tid oppheves [forskrift 1
 
 ## Vedlegg I
 
-1. Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) før 1. juli 2002, og som ikke oppfyller forskriftens [§ 15](forskrift/2014-09-05-1157/§15) første ledd fullt ut, skal ha følgende navigasjonshjelpemidler om bord:*Bruttotonnasje*Globalt navigasjonssatellittsystem (GNSS)AlleAutomatisk identifikasjonssystem (AIS)AlleBrovaktalarmAlleKursindikator (THD), med mindre skipet har gyrokompass som kan overføre kursinformasjon til AISAlleMagnetkompass klasse B< 150Standard magnetkompass klasse A≥ 150Styremagnetkompass klasse A som kan vise kursen ved hovedstyreposisjonen, med mindre standard magnetkompass oppfyller dette.≥ 150Peileinnretning til magnetkompass≥ 150Reservemagnetkompass klasse A med mindre skipet har styremagnetkompass eller gyrokompass≥ 150Dagslyssignallampe unntatt fartsområde 2 eller mindre≥ 150Ekkolodd– skip bygget 25. mai 1980 eller senere i utenriksfart≥ 500– skip bygget før 25. mai 1980 i utenriksfart≥ 1 6009 GHz (3 cm) radar– passasjerskip på internasjonal reiseAlle– skip som ikke er passasjerskip på internasjonal reise≥ 300– skip bygget 1. september 1984 eller senere som ikke er på internasjonal reise≥ 500– skip bygget før 1. september 1984 som ikke er på internasjonal reise≥ 1600Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannet– skip bygget 1. september 1984 eller senere i utenriksfart≥ 500– skip som er utstyrt med ARPAAlleGyrokompass– skip bygget 1. september 1984 eller senere≥ 500– skip bygget før 1. september 1984 på internasjonal reise≥ 1600Peileinnretning til gyrokompass≥ 1600Indikatorer som kan leses fra kommandoposisjonen, og som viser rorvinkel, propellhastighet, fremdriftskraftens styrke og retning, styrke og retning på sideveis skyvekraft, stigning og driftsmodus– skip bygget 1. september 1984 eller senere≥ 500– skip bygget før 1. september 1984≥ 1600Ekstra radar i tillegg til 9 GHz (3 cm) radar≥ 10 000Automatisk radarplotteanlegg (ARPA)– skip bygget 1. september 1984 eller senere≥ 10 000– tankskip bygget før 1. september 1984≥ 10 000– skip som ikke er tankskip bygget før 1. september 1984≥ 15 000Svinghastighetsindikator som kan leses fra kommandoposisjonen– skip bygget 1. september 1984 eller senere≥ 100 000
+1\. Skip som var kjølstrukket eller på et tilsvarende byggetrinn (bygget) før 1. juli 2002, og som ikke oppfyller forskriftens [§ 15](forskrift/2014-09-05-1157/§15) første ledd fullt ut, skal ha følgende navigasjonshjelpemidler om bord:
 
-2. Navigasjonshjelpemidlene i nr. 1 skal oppfylle ytelseskravene som gjaldt på tidspunktet de ble plassert om bord. Når navigasjonshjelpemidler byttes ut, gjelder [forskrift 30. august 2016 nr. 1042 om skipsutstyr](forskrift/2016-08-30-1042).
+|  | *Bruttotonnasje* |
+| --- | --- |
+| Globalt navigasjonssatellittsystem (GNSS) | Alle |
+| Automatisk identifikasjonssystem (AIS) | Alle |
+| Brovaktalarm | Alle |
+| Kursindikator (THD), med mindre skipet har gyrokompass som kan overføre kursinformasjon til AIS | Alle |
+| Magnetkompass klasse B | < 150 |
+| Standard magnetkompass klasse A | ≥ 150 |
+| Styremagnetkompass klasse A som kan vise kursen ved hovedstyreposisjonen, med mindre standard magnetkompass oppfyller dette. | ≥ 150 |
+| Peileinnretning til magnetkompass | ≥ 150 |
+| Reservemagnetkompass klasse A med mindre skipet har styremagnetkompass eller gyrokompass | ≥ 150 |
+| Dagslyssignallampe unntatt fartsområde 2 eller mindre | ≥ 150 |
+| Ekkolodd |  |
+| – skip bygget 25. mai 1980 eller senere i utenriksfart | ≥ 500 |
+| – skip bygget før 25. mai 1980 i utenriksfart | ≥ 1 600 |
+| 9 GHz (3 cm) radar |  |
+| – passasjerskip på internasjonal reise | Alle |
+| – skip som ikke er passasjerskip på internasjonal reise | ≥ 300 |
+| – skip bygget 1. september 1984 eller senere som ikke er på internasjonal reise | ≥ 500 |
+| – skip bygget før 1. september 1984 som ikke er på internasjonal reise | ≥ 1600 |
+| Måleutstyr for hastighet og distanse som skal vise hastighet og distanse gjennom vannet |  |
+| – skip bygget 1. september 1984 eller senere i utenriksfart | ≥ 500 |
+| – skip som er utstyrt med ARPA | Alle |
+| Gyrokompass |  |
+| – skip bygget 1. september 1984 eller senere | ≥ 500 |
+| – skip bygget før 1. september 1984 på internasjonal reise | ≥ 1600 |
+| Peileinnretning til gyrokompass | ≥ 1600 |
+| Indikatorer som kan leses fra kommandoposisjonen, og som viser rorvinkel, propellhastighet, fremdriftskraftens styrke og retning, styrke og retning på sideveis skyvekraft, stigning og driftsmodus |  |
+| – skip bygget 1. september 1984 eller senere | ≥ 500 |
+| – skip bygget før 1. september 1984 | ≥ 1600 |
+| Ekstra radar i tillegg til 9 GHz (3 cm) radar | ≥ 10 000 |
+| Automatisk radarplotteanlegg (ARPA) |  |
+| – skip bygget 1. september 1984 eller senere | ≥ 10 000 |
+| – tankskip bygget før 1. september 1984 | ≥ 10 000 |
+| – skip som ikke er tankskip bygget før 1. september 1984 | ≥ 15 000 |
+| Svinghastighetsindikator som kan leses fra kommandoposisjonen |  |
+| – skip bygget 1. september 1984 eller senere | ≥ 100 000 |
+
+2\. Navigasjonshjelpemidlene i nr. 1 skal oppfylle ytelseskravene som gjaldt på tidspunktet de ble plassert om bord. Når navigasjonshjelpemidler byttes ut, gjelder [forskrift 30. august 2016 nr. 1042 om skipsutstyr](forskrift/2016-08-30-1042).
 
 > Endret ved [forskrifter 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [28 juni 2022 nr. 1234](forskrift/2022-06-28-1234) (i kraft 1 juli 2022).
 

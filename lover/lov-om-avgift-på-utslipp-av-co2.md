@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
 
+**Oppheves** ved lov [20 des 2023 nr. 96](lov/2023-12-20-96) (i kraft fra den tid Kongen bestemmer).
+
 ## § 1.
 
 For så vidt Stortinget vedtar at det til statskassen skal betales CO2-avgift på brenning av petroleum og utslipp av naturgass i forbindelse med petroleumsvirksomhet på kontinentalsokkelen, gjelder reglene i denne lov når ikke annet er særskilt fastsatt i Stortingets vedtak om avgiften.

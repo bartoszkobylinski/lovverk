@@ -26,6 +26,8 @@ eu_basis: []
 
 Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart (luftfartsloven) for så vidt gjelder:
 
+*Kapittel VI. Fartøysjefen og tjenesten om bord*
+
 - § 6-13 Alkotest, utåndingsprøve, blodprøveBestemmelsens fjerde ledd om forskrifter om tester og undersøkelser.
 
 ## II

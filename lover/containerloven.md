@@ -90,3 +90,5 @@ Forsettlig eller uaktsom overtredelse av loven her eller forskrift gitt med hjem
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
 > Endret ved [lov 11 nov 1983 nr. 67](lov/1983-11-11-67), tidligere § 9.
+
+1 Fra 1 mai 1984 iflg. [res. 2 apr 1984 nr. 826](forskrift/1984-04-02-826).

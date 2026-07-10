@@ -95,3 +95,5 @@ Departementet kan i forskrift gi regler om Bankenes sikringsfond og dets virksom
 (1) Loven gjelder fra den tid1 Kongen bestemmer.
 
 (2) Departementet kan gi overgangsregler.
+
+1 Fra 1 jan 2019 iflg. [res. 23 mars 2018 nr. 452](forskrift/2018-03-23-452).

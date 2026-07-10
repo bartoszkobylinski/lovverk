@@ -187,3 +187,5 @@ Opplysninger og humant biologisk materiale som er innhentet før forskriften tre
 ### § 6-2. Ikrafttredelse
 
 Forskriften trer i kraft når departementet bestemmer.1
+
+1 I kraft 13 aug 2018 iflg. [forskrift 13 aug 2018 nr. 1231](forskrift/2018-08-13-1231).

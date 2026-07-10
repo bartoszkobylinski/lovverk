@@ -36,6 +36,10 @@ Statens jernbanetilsyn utøver myndighet etter denne forskriften.
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2015/171](eu/32015r0171) av 14. februar 2015 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 803](forskrift/2022-05-06-803).
+
 ## Forordninger
 
 Forordningen er gyldig på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning [(EU) 2015/171](eu/32015r0171) se her: [(pdf)](static/SF/32015r0171e-01.pdf)

@@ -190,13 +190,129 @@ Forskriften trer i kraft 1. januar 2017. Fra samme tidspunkt oppheves [forskrift
 
 ### Pristilskudd
 
+| *Art/sort* | *Sats, kr pr. kg* |
+| --- | --- |
+| Bladfaks | 10 |
+| Engkvein | 30 |
+| Engrapp | 25 |
+| Hvitkløver | 15 |
+| Krypkvein | 30 |
+| Løkfrø | 300 |
+| Rødsvingel | 20 |
+| Sauesvingel | 25 |
+| Strandrør | 10 |
+| Tetraploid rødkløver | 15 |
+| Økologisk stikkløk | 7 |
+
 ### Arealtilskudd
+
+1\. *Gjenlegg*
+
+| *Art/sort* | *Sats, kr pr. dekar* |
+| --- | --- |
+| Bladfaks | 700 |
+| Engrapp | 700 |
+| Krypkvein | 700 |
+| Rødsvingel | 700 |
+| Sauesvingel | 700 |
+| Strandrør | 700 |
+
+2\. *Garantitilskudd*
+
+| *Art/sort* | *Sats, kr pr. dekar* |
+| --- | --- |
+| Brytsukkerert Aslaug | 10 000 |
+| Hvitkløver | 800 |
+| Rødkløver | 800 |
+| Rotvekster, vinterlagrer inne | 15 000 |
+| Rotvekster, vernalisert i kjølelager | 15 000 |
+| Rotvekster, overvintrer ute | 3 000 |
+
+3\. *Slått av 1. års eng ved økologisk frøavl*
 
 Sats, 500 kr pr dekar for alle arter.
 
 ### Tilskudd til overlagring
 
+| *Art/sort* | *Maksimal sats, kr pr. kg* |
+| --- | --- |
+| Alsikekløver | 8,90 |
+| Bladfaks | 6,80 |
+| Engkvein | 5,20 |
+| Engrapp | 6,60 |
+| Engsvingel | 4,60 |
+| Hundegras | 4,40 |
+| Hvitkløver | 10,00 |
+| Krypkvein | 5,20 |
+| Luserne | 10,00 |
+| Raigras | 4,30 |
+| Sauesvingel | 6,60 |
+| Strandrør | 6,10 |
+| Timotei | 4,30 |
+| Rødkløver | 10,00 |
+| Rødsvingel | 4,90 |
+
 ## Vedlegg 2
 Artsliste blomstrende arter
+
+| *Norsk navn:* | *Vitenskapelig navn:* | *Sats*<br>*Pristilskudd per kg* | *Sats*<br>*Gjenlegg per daa* | *Sats*<br>*Garantitilskudd per daa* | *Sats*<br>*Overlagrings-*<br>*tilskudd per kg* |
+| --- | --- | --- | --- | --- | --- |
+| Aksveronika | *Veronica spicata* | 1000 | 1400 | 3400 | 500 |
+| Aurikkelsveve | *Pilosella lactucella* | 1000 | 1400 | 3400 | 500 |
+| Ballblom | *Trollius europaeus* | 1000 | 1400 | 3400 | 500 |
+| Bergmynte | *Origanum vulgare* | 1000 | 1400 | 3400 | 500 |
+| Blodtopp | *Saguisorba officinalis* | 1000 | 1400 | 3400 | 500 |
+| Blåklokke | *Campanula rotundifolia* | 1000 | 1400 | 3400 | 500 |
+| Blåknapp | *Succica pratensis* | 1000 | 1400 | 3400 | 500 |
+| Blåkoll | *Prunella vulgaris* | 1000 | 1400 | 3400 | 500 |
+| Blåmunke | *Jasione montana* | 1000 | 1400 | 3400 | 500 |
+| Engfiol | *Viola canina* | 1000 | 1400 | 3400 | 500 |
+| Enghumleblom | *Geum rivale* | 1000 | 1400 | 3400 | 500 |
+| Engknoppurt | *Centaurea jacea* | 1000 | 1400 | 3400 | 500 |
+| Engnellik | *Dianthus deltoides* | 1000 | 1400 | 3400 | 500 |
+| Engsmelle | *Silene vulgaris* | 1000 | 1400 | 3400 | 500 |
+| Engsoleie | *Ranunculus acris* | 1000 | 1400 | 3400 | 500 |
+| Engtjæreblom | *Lychnis viscaria* | 1000 | 1400 | 3400 | 500 |
+| Fagerknoppurt | *Centaurea scabiosa* | 1000 | 1400 | 3400 | 500 |
+| Firkantperikum | *Hypericum maculatum* | 1000 | 1400 | 3400 | 500 |
+| Fjellgullris | *Solidago virgaurea* subsp. *lapponica* | 1000 | 1400 | 3400 | 500 |
+| Fjellsmelle | *Silene acaulis* | 1000 | 1400 | 3400 | 500 |
+| Fjellsyre | *Oxyria digyna* | 1000 | 1400 | 3400 | 500 |
+| Fjelltistel | *Saussurea alpina* | 1000 | 1400 | 3400 | 500 |
+| Flekkgrisøre | *Hypochaeris maculata* | 1000 | 1400 | 3400 | 500 |
+| Fuglevikke | *Vicia cracca* | 1000 | 1400 | 3400 | 500 |
+| Føllblom | *Scorzoneroides autumnalis* | 1000 | 1400 | 3400 | 500 |
+| Gjeldkarve | *Pimpinella saxifraga* | 1000 | 1400 | 3400 | 500 |
+| Gjerdevikke | *Vicia sepium* | 1000 | 1400 | 3400 | 500 |
+| Gulflatbelg | *Lathyrus pratensis* | 1000 | 1400 | 3400 | 500 |
+| Gullkløver | *Trifolium aureum* | 1000 | 1400 | 3400 | 500 |
+| Gullris | *Solidago virgaurea* | 1000 | 1400 | 3400 | 500 |
+| Gulmaure | *Galium verum* | 1000 | 1400 | 3400 | 500 |
+| Hanekam | *Lychnis flos-cuculi* | 1000 | 1400 | 3400 | 500 |
+| Harekløver | *Trifolium arvense* | 1000 | 1400 | 3400 | 500 |
+| Harerug | *Bistorta vivipara* | 1000 | 1400 | 3400 | 500 |
+| Hårsveve | *Pilosella officinarum* | 1000 | 1400 | 3400 | 500 |
+| Jordnøtt | *Conopodium majus* | 1000 | 1400 | 3400 | 500 |
+| Kattefot | *Antennaria dioica* | 1000 | 1400 | 3400 | 500 |
+| Kvitbladtistel | *Cirsium heterophyllum* | 1000 | 1400 | 3400 | 500 |
+| Marianøkleblom | *Primula veris* | 1000 | 1400 | 3400 | 500 |
+| Markjordbær | *Fragaria vesca* | 1000 | 1400 | 3400 | 500 |
+| Nyseryllik | *Achillea ptarmica* | 1000 | 1400 | 3400 | 500 |
+| Ormehode | *Echium vulgare* | 1000 | 1400 | 3400 | 500 |
+| Prestekrage | *Leucantemum vulgare* | 1000 | 1400 | 3400 | 500 |
+| Prikkperikum | *Hypericum perforatum* | 1000 | 1400 | 3400 | 500 |
+| Rundbelg | *Anthyllis vulneraria* | 1000 | 1400 | 3400 | 500 |
+| Ryllik | *Achillea millefolium* | 1000 | 1400 | 3400 | 500 |
+| Rød jonsokblom | *Silene dioca* | 1000 | 1400 | 3400 | 500 |
+| Rødknapp | *Knautia arvensis* | 1000 | 1400 | 3400 | 500 |
+| Setermjelt | *Astragalus alpinus* | 1000 | 1400 | 3400 | 500 |
+| Smalkjempe | *Plantago lanceolata* | 1000 | 1400 | 3400 | 500 |
+| Smørbukk | *Hylotelephium maximum* | 1000 | 1400 | 3400 | 500 |
+| Småengkall | *Rhinanthus minor* | 1000 | – | 3400 | 500 |
+| Stemorsblomst | *Viola tricolor* | 1000 | 1400 | 3400 | 500 |
+| Svartknoppurt | *Centaurea nigra* | 1000 | 1400 | 3400 | 500 |
+| Sølvmure | *Potentilla argentea* | 1000 | 1400 | 3400 | 500 |
+| Søstermarihånd | *Dactylorhiza samhicina* | 1000 | 1400 | 3400 | 500 |
+| Tepperot | *Potentilla erecta* | 1000 | 1400 | 3400 | 500 |
 
 > Tilføyd ved forskrift [29 juni 2022 nr. 1249](forskrift/2022-06-29-1249) (i kraft 1 juli 2022).

@@ -82,7 +82,52 @@ For nærmere informasjon om de fredete byggverkene og anleggene vises det til la
 
 ### § 2-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Halden sykehusgnr./bnr. 66/811Halden kommune[Vedlegg 1](static/SF/sf-20111109-1088-k2-01-02.pdf)Kolstadgnr./bnr. 2057/4Sarpsborg kommune[Vedlegg 2](static/SF/sf-20111109-1088-k2-02-01.pdf)SSE Nevroklinikken Sandvikagnr./bnr. 5/1Bærum kommune[Vedlegg 3](static/SF/sf-20111109-1088-k2-03-01.pdf)Bjerketungnr./bnr. 59/10Bærum kommune[Vedlegg 4](static/SF/sf-20111109-1088-k2-04-01.pdf)Bærum sykehusgnr./bnr. 84/241Bærum kommune[Vedlegg 5](static/SF/sf-20111109-1088-k2-05-01.pdf)Dikemark sykehusgnr./bnr. 89/1Asker kommune[Vedlegg 6](static/SF/sf-20111109-1088-k2-06-01.pdf)Nedre Vardåsengnr./bnr. 89/1Asker kommune[Vedlegg 7](static/SF/sf-20111109-1088-k2-07-01.pdf)Diakonhjemmet avd. Vindern psykiatriske klinikkgnr./bnr. 42/130Oslo kommune[Vedlegg 8](static/SF/sf-20111109-1088-k2-08-01.pdf)Ullvin, Sognsveien 9Agnr./bnr. 47/342Oslo kommune[Vedlegg 9](static/SF/sf-20111109-1088-k2-09-01.pdf)Hausmannsgate 11gnr./bnr. 208/934Oslo kommune[Vedlegg 10](static/SF/sf-20111109-1088-k2-10-02.pdf)Aker sykehusgnr./bnr. 85/265, 85/280, 85/281, 85/282Oslo kommune[Vedlegg 11](static/SF/sf-20111109-1088-k2-11-02.pdf)Gaustad sykehusgnr./bnr. 42/175, 42/176, 42/179, 42/181, 42/185, 42/188, 42/189, 42/190Oslo kommune[Vedlegg 12](static/SF/sf-20111109-1088-k2-12-01.pdf)SSBU Statens senter for barne- og ungdomspsykiatrignr./bnr. 42/132Oslo kommune[Vedlegg 13](static/SF/sf-20111109-1088-k2-13-01.pdf)Josefinesgate 30gnr./bnr. 214/176Oslo kommune[Vedlegg 14](static/SF/sf-20111109-1088-k2-14-01.pdf)Geitmyrsveien 67gnr./bnr. 220/44Oslo kommune[Vedlegg 15](static/SF/sf-20111109-1088-k2-15-01.pdf)Ullevål sykehusgnr./bnr. 47/330, 47/349, 47/350, 47/351, 47/352, 47/354, 47/355Oslo kommune[Vedlegg 16](static/SF/sf-20111109-1088-k2-16-01.pdf)Folkehelseinstituttet, Oslognr./bnr. 220/49Oslo kommune[Vedlegg 17](static/SF/sf-20111109-1088-k2-17-01.pdf)Fysikalsk medisin og rehabilitering Ottestadgnr./bnr. 6/3Stange kommune[Vedlegg 18](static/SF/sf-20111109-1088-k2-18-01.pdf)Elverum – Heimengnr./bnr. 30/102Elverum kommune[Vedlegg 19](static/SF/sf-20111109-1088-k2-19-01.pdf)Habiliteringsavdelingen, Valbrottveiengnr./bnr. 116/637Drammen kommune[Vedlegg 20](static/SF/sf-20111109-1088-k2-20-01.pdf)Hovedkompleks somatikk – Drammengnr./bnr. 114/1500Drammen kommune[Vedlegg 21](static/SF/sf-20111109-1088-k2-21-01.pdf)Kongsberg sykehusgnr./bnr. 8443/8Kongsberg kommune[Vedlegg 22](static/SF/sf-20111109-1088-k2-22-01.pdf)SiV – Sykehuset i Vestfold – Tønsberggnr./bnr. 1009/202Tønsberg kommune[Vedlegg 23](static/SF/sf-20111109-1088-k2-23-01.pdf)SiV – Sykehuset i Vestfold – Kysthospitalet i Staverngnr./bnr. 4040/5Larvik kommune[Vedlegg 24](static/SF/sf-20111109-1088-k2-24-02.pdf)Faretgnr./bnr. 217/31, 217/73, 218/1Skien kommune[Vedlegg 25](static/SF/sf-20111109-1088-k2-25-01.pdf)SSHF – Sørlandet sykehus avd. Arendal (SSA)gnr./bnr. 503/8, 503/10, 503/66, 503/84, 503/110, 503/209, 503/210, 503/222, 503/237Arendal kommune[Vedlegg 26](static/SF/sf-20111109-1088-k2-26-02.pdf)SSHF – Sørlandet sykehus avd. Kristiansand (SSK)gnr./bnr. 150/1768Kristiansand kommune[Vedlegg 27](static/SF/sf-20111109-1088-k2-27-03.pdf)Haukeland universitetssjukehusgnr./bnr. 162/913Bergen kommune[Vedlegg 28](static/SF/sf-20111109-1088-k2-28-01.pdf)Stord sjukehusgnr./bnr. 27/86, 27/506, 27/526, 27/586, 27/588Stord kommune[Vedlegg 29](static/SF/sf-20111109-1088-k2-29-01.pdf)Valen sjukehusgnr./bnr. 185/182, 185/185Kvinnherad kommune[Vedlegg 30](static/SF/sf-20111109-1088-k2-30-01.pdf)Jonatunetgnr./bnr. 31/13Ullensvang kommune[Vedlegg 31](static/SF/sf-20111109-1088-k2-31-02.pdf)Askviknes Voksenpsykiatrisk Sentergnr./bnr. 24/6Bjørnafjorden kommune[Vedlegg 32](static/SF/sf-20111109-1088-k2-32-02.pdf)Kysthospitalet i Hagevik (KiH)gnr./bnr. 33/138Bjørnafjorden kommune[Vedlegg 33](static/SF/sf-20111109-1088-k2-33-02.pdf)Psykiatrisk klinikk avd. Tronvikgnr./bnr. 48/23Høyanger kommune[Vedlegg 34](static/SF/sf-20111109-1088-k2-34-01.pdf)Førde sentralsjukehus (FSS)gnr./bnr. 43/85Sunnfjord kommune[Vedlegg 35](static/SF/sf-20111109-1088-k2-35-02.pdf)St. Olavs Hospitalgnr./bnr. 404/333Trondheim kommune[Vedlegg 36](static/SF/sf-20111109-1088-k2-36-01.pdf)St. Olavs Hospital psykisk helsevern avd. Brøsetgnr./bnr. 51/3, 51/7Trondheim kommune[Vedlegg 37](static/SF/sf-20111109-1088-k2-37-01.pdf)St. Olavs Hospital psykisk helsevern avd. Østmarkagnr./bnr. 413/122, 413/124Trondheim kommune[Vedlegg 38](static/SF/sf-20111109-1088-k2-38-01.pdf)Nordlandssykehuset Rønvikgnr./bnr. 38/659, 38/697, 38/286, 38/287Bodø kommune[Vedlegg 39](static/SF/sf-20111109-1088-k2-39-01.pdf)Helgelandssykehuset Sandnessjøengnr./bnr. 37/1072Alstahaug kommune[Vedlegg 40](static/SF/sf-20111109-1088-k2-40-01.pdf)Universitetssykehuset Nord-Norge Åsgårdgnr./bnr. 118/1561Tromsø kommune[Vedlegg 41](static/SF/sf-20111109-1088-k2-41-01.pdf)Helse Finnmark Kirkenesgnr./bnr. 27/9, gnr./bnr./fnr. 27/9/16Sør-Varanger kommune[Vedlegg 42](static/SF/sf-20111109-1088-k2-42-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Halden sykehus | gnr./bnr. 66/811 | Halden kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k2-01-02.pdf) |
+| Kolstad | gnr./bnr. 2057/4 | Sarpsborg kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k2-02-01.pdf) |
+| SSE Nevroklinikken Sandvika | gnr./bnr. 5/1 | Bærum kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k2-03-01.pdf) |
+| Bjerketun | gnr./bnr. 59/10 | Bærum kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k2-04-01.pdf) |
+| Bærum sykehus | gnr./bnr. 84/241 | Bærum kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k2-05-01.pdf) |
+| Dikemark sykehus | gnr./bnr. 89/1 | Asker kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k2-06-01.pdf) |
+| Nedre Vardåsen | gnr./bnr. 89/1 | Asker kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k2-07-01.pdf) |
+| Diakonhjemmet avd. Vindern psykiatriske klinikk | gnr./bnr. 42/130 | Oslo kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k2-08-01.pdf) |
+| Ullvin, Sognsveien 9A | gnr./bnr. 47/342 | Oslo kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k2-09-01.pdf) |
+| Hausmannsgate 11 | gnr./bnr. 208/934 | Oslo kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k2-10-02.pdf) |
+| Aker sykehus | gnr./bnr. 85/265, 85/280, 85/281, 85/282 | Oslo kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k2-11-02.pdf) |
+| Gaustad sykehus | gnr./bnr. 42/175, 42/176, 42/179, 42/181, 42/185, 42/188, 42/189, 42/190 | Oslo kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k2-12-01.pdf) |
+| SSBU Statens senter for barne- og ungdomspsykiatri | gnr./bnr. 42/132 | Oslo kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k2-13-01.pdf) |
+| Josefinesgate 30 | gnr./bnr. 214/176 | Oslo kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k2-14-01.pdf) |
+| Geitmyrsveien 67 | gnr./bnr. 220/44 | Oslo kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k2-15-01.pdf) |
+| Ullevål sykehus | gnr./bnr. 47/330, 47/349, 47/350, 47/351, 47/352, 47/354, 47/355 | Oslo kommune | [Vedlegg 16](static/SF/sf-20111109-1088-k2-16-01.pdf) |
+| Folkehelseinstituttet, Oslo | gnr./bnr. 220/49 | Oslo kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k2-17-01.pdf) |
+| Fysikalsk medisin og rehabilitering Ottestad | gnr./bnr. 6/3 | Stange kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k2-18-01.pdf) |
+| Elverum – Heimen | gnr./bnr. 30/102 | Elverum kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k2-19-01.pdf) |
+| Habiliteringsavdelingen, Valbrottveien | gnr./bnr. 116/637 | Drammen kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k2-20-01.pdf) |
+| Hovedkompleks somatikk – Drammen | gnr./bnr. 114/1500 | Drammen kommune | [Vedlegg 21](static/SF/sf-20111109-1088-k2-21-01.pdf) |
+| Kongsberg sykehus | gnr./bnr. 8443/8 | Kongsberg kommune | [Vedlegg 22](static/SF/sf-20111109-1088-k2-22-01.pdf) |
+| SiV – Sykehuset i Vestfold – Tønsberg | gnr./bnr. 1009/202 | Tønsberg kommune | [Vedlegg 23](static/SF/sf-20111109-1088-k2-23-01.pdf) |
+| SiV – Sykehuset i Vestfold – Kysthospitalet i Stavern | gnr./bnr. 4040/5 | Larvik kommune | [Vedlegg 24](static/SF/sf-20111109-1088-k2-24-02.pdf) |
+| Faret | gnr./bnr. 217/31, 217/73, 218/1 | Skien kommune | [Vedlegg 25](static/SF/sf-20111109-1088-k2-25-01.pdf) |
+| SSHF – Sørlandet sykehus avd. Arendal (SSA) | gnr./bnr. 503/8, 503/10, 503/66, 503/84, 503/110, 503/209, 503/210, 503/222, 503/237 | Arendal kommune | [Vedlegg 26](static/SF/sf-20111109-1088-k2-26-02.pdf) |
+| SSHF – Sørlandet sykehus avd. Kristiansand (SSK) | gnr./bnr. 150/1768 | Kristiansand kommune | [Vedlegg 27](static/SF/sf-20111109-1088-k2-27-03.pdf) |
+| Haukeland universitetssjukehus | gnr./bnr. 162/913 | Bergen kommune | [Vedlegg 28](static/SF/sf-20111109-1088-k2-28-01.pdf) |
+| Stord sjukehus | gnr./bnr. 27/86, 27/506, 27/526, 27/586, 27/588 | Stord kommune | [Vedlegg 29](static/SF/sf-20111109-1088-k2-29-01.pdf) |
+| Valen sjukehus | gnr./bnr. 185/182, 185/185 | Kvinnherad kommune | [Vedlegg 30](static/SF/sf-20111109-1088-k2-30-01.pdf) |
+| Jonatunet | gnr./bnr. 31/13 | Ullensvang kommune | [Vedlegg 31](static/SF/sf-20111109-1088-k2-31-02.pdf) |
+| Askviknes Voksenpsykiatrisk Senter | gnr./bnr. 24/6 | Bjørnafjorden kommune | [Vedlegg 32](static/SF/sf-20111109-1088-k2-32-02.pdf) |
+| Kysthospitalet i Hagevik (KiH) | gnr./bnr. 33/138 | Bjørnafjorden kommune | [Vedlegg 33](static/SF/sf-20111109-1088-k2-33-02.pdf) |
+| Psykiatrisk klinikk avd. Tronvik | gnr./bnr. 48/23 | Høyanger kommune | [Vedlegg 34](static/SF/sf-20111109-1088-k2-34-01.pdf) |
+| Førde sentralsjukehus (FSS) | gnr./bnr. 43/85 | Sunnfjord kommune | [Vedlegg 35](static/SF/sf-20111109-1088-k2-35-02.pdf) |
+| St. Olavs Hospital | gnr./bnr. 404/333 | Trondheim kommune | [Vedlegg 36](static/SF/sf-20111109-1088-k2-36-01.pdf) |
+| St. Olavs Hospital psykisk helsevern avd. Brøset | gnr./bnr. 51/3, 51/7 | Trondheim kommune | [Vedlegg 37](static/SF/sf-20111109-1088-k2-37-01.pdf) |
+| St. Olavs Hospital psykisk helsevern avd. Østmarka | gnr./bnr. 413/122, 413/124 | Trondheim kommune | [Vedlegg 38](static/SF/sf-20111109-1088-k2-38-01.pdf) |
+| Nordlandssykehuset Rønvik | gnr./bnr. 38/659, 38/697, 38/286, 38/287 | Bodø kommune | [Vedlegg 39](static/SF/sf-20111109-1088-k2-39-01.pdf) |
+| Helgelandssykehuset Sandnessjøen | gnr./bnr. 37/1072 | Alstahaug kommune | [Vedlegg 40](static/SF/sf-20111109-1088-k2-40-01.pdf) |
+| Universitetssykehuset Nord-Norge Åsgård | gnr./bnr. 118/1561 | Tromsø kommune | [Vedlegg 41](static/SF/sf-20111109-1088-k2-41-01.pdf) |
+| Helse Finnmark Kirkenes | gnr./bnr. 27/9, gnr./bnr./fnr. 27/9/16 | Sør-Varanger kommune | [Vedlegg 42](static/SF/sf-20111109-1088-k2-42-01.pdf) |
 
 > Tilføyd ved [forskrift 16 feb 2012 nr. 153](forskrift/2012-02-16-153), endret ved [forskrifter 15 feb 2013 nr. 210](forskrift/2013-02-15-210), [3 mars 2017 nr. 295](forskrift/2017-03-03-295), [18 feb 2020 nr. 847](forskrift/2020-02-18-847), [8 mars 2022 nr. 341](forskrift/2022-03-08-341), [20 sep 2022 nr. 1601](forskrift/2022-09-20-1601), [1 mars 2023 nr. 284](forskrift/2023-03-01-284), [1 sep 2023 nr. 2526](forskrift/2023-09-01-2526).
 
@@ -136,7 +181,13 @@ For Nasjonalgalleriet med forhage gjelder følgende særbestemmelser:Romstruktur
 
 ### § 4-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Sikkilsdalen Hesteavlssetergnr./bnr. 216/2Nord-Fron kommune[Vedlegg 1](static/SF/sf-20111109-1088-k4-01-01.pdf)Staur Gårdgnr./bnr. 75/1Stange kommune[Vedlegg 2](static/SF/sf-20111109-1088-k4-02-01.pdf)Veterinærinstituttetgnr./bnr. 220/87Oslo kommune[Vedlegg 3](static/SF/sf-20111109-1088-k4-03-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Sikkilsdalen Hesteavlsseter | gnr./bnr. 216/2 | Nord-Fron kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k4-01-01.pdf) |
+| Staur Gård | gnr./bnr. 75/1 | Stange kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k4-02-01.pdf) |
+| Veterinærinstituttet | gnr./bnr. 220/87 | Oslo kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k4-03-01.pdf) |
 
 > Tilføyd ved [forskrift 15 feb 2013 nr. 210](forskrift/2013-02-15-210).
 
@@ -152,7 +203,13 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2013.
 
 ### § 5-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Bioforsk Øst, Løkengnr./bnr. 34/1, 53/1Øystre Slidre kommune[Vedlegg 1](static/SF/sf-20111109-1088-k5-01-01.pdf)Bioforsk Nord, Tjøttagnr./bnr. 84/1Alstahaug kommune[Vedlegg 2](static/SF/sf-20111109-1088-k5-02-01.pdf)Bioforsk Jord og Miljø, Svanhovdgnr./bnr. 20/71, 19/1Sør-Varanger kommune[Vedlegg 3](static/SF/sf-20111109-1088-k5-03-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Bioforsk Øst, Løken | gnr./bnr. 34/1, 53/1 | Øystre Slidre kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k5-01-01.pdf) |
+| Bioforsk Nord, Tjøtta | gnr./bnr. 84/1 | Alstahaug kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k5-02-01.pdf) |
+| Bioforsk Jord og Miljø, Svanhovd | gnr./bnr. 20/71, 19/1 | Sør-Varanger kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k5-03-01.pdf) |
 
 > Tilføyd ved [forskrift 15 feb 2013 nr. 210](forskrift/2013-02-15-210).
 
@@ -168,7 +225,31 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2014.
 
 ### § 6-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Jeløgata 2gnr./bnr. 2/1250Moss kommune[Vedlegg 1](static/SF/sf-20111109-1088-k6-01-01.pdf)Tollbodbrygga 2gnr./bnr. 300/1290Fredrikstad kommune[Vedlegg 2](static/SF/sf-20111109-1088-k6-02-01.pdf)Kjørbo gårdgnr./bnr. 52/80, 152, 153, 157, 158Bærum kommune[Vedlegg 3](static/SF/sf-20111109-1088-k6-03-01.pdf)Cort Adelers gate 30gnr./bnr. 209/21Oslo kommune[Vedlegg 4](static/SF/sf-20111109-1088-k6-04-01.pdf)Henrik Ibsens gate 110gnr./bnr. 211/47Oslo kommune[Vedlegg 5](static/SF/sf-20111109-1088-k6-05-01.pdf)Kristian Augusts gate 21gnr./bnr. 209/164Oslo kommune[Vedlegg 6](static/SF/sf-20111109-1088-k6-06-01.pdf)Schweigaards gate 15gnr./bnr. 234/20Oslo kommune[Vedlegg 7](static/SF/sf-20111109-1088-k6-07-01.pdf)Tollbugata 1 Agnr./bnr. 207/242Oslo kommune[Vedlegg 8](static/SF/sf-20111109-1088-k6-08-01.pdf)Wergelandsveien 29gnr./bnr. 209/428Oslo kommune[Vedlegg 9](static/SF/sf-20111109-1088-k6-09-01.pdf)Hans Kiærs gate 1 B–Cgnr./bnr. 111/247Drammen kommune[Vedlegg 10](static/SF/sf-20111109-1088-k6-10-01.pdf)Storgata 19 Agnr./bnr. 3020/1985Larvik kommune[Vedlegg 11](static/SF/sf-20111109-1088-k6-11-01.pdf)Storgata 162gnr./bnr. 200/2563Porsgrunn kommune[Vedlegg 12](static/SF/sf-20111109-1088-k6-12-01.pdf)Langbrygga 1gnr./bnr. 300/2526Skien kommune[Vedlegg 13](static/SF/sf-20111109-1088-k6-13-01.pdf)Gamle Kragerøvei 9gnr./bnr. 32/267Kragerø kommune[Vedlegg 14](static/SF/sf-20111109-1088-k6-14-01.pdf)Vestre Strandgate 21gnr./bnr. 150/1484, 1486Kristiansand kommune[Vedlegg 15](static/SF/sf-20111109-1088-k6-15-01.pdf)Skansegaten 2gnr./bnr. 55/1215Stavanger kommune[Vedlegg 16](static/SF/sf-20111109-1088-k6-16-01.pdf)Kalfarveien 31gnr./bnr. 166/1121Bergen kommune[Vedlegg 17](static/SF/sf-20111109-1088-k6-17-01.pdf)Strømgaten 1gnr./bnr. 166/950Bergen kommune[Vedlegg 18](static/SF/sf-20111109-1088-k6-18-01.pdf)Tollbodallmenningen 2 Agnr./bnr. 165/454Bergen kommune[Vedlegg 19](static/SF/sf-20111109-1088-k6-19-01.pdf)Brattørkaia 13 Bgnr./bnr. 439/18Trondheim kommune[Vedlegg 20](static/SF/sf-20111109-1088-k6-20-01.pdf)Erling Skakkes gate 60/Kongens gate 85gnr./bnr. 403/227, 289Trondheim kommune[Vedlegg 21](static/SF/sf-20111109-1088-k6-21-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Jeløgata 2 | gnr./bnr. 2/1250 | Moss kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k6-01-01.pdf) |
+| Tollbodbrygga 2 | gnr./bnr. 300/1290 | Fredrikstad kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k6-02-01.pdf) |
+| Kjørbo gård | gnr./bnr. 52/80, 152, 153, 157, 158 | Bærum kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k6-03-01.pdf) |
+| Cort Adelers gate 30 | gnr./bnr. 209/21 | Oslo kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k6-04-01.pdf) |
+| Henrik Ibsens gate 110 | gnr./bnr. 211/47 | Oslo kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k6-05-01.pdf) |
+| Kristian Augusts gate 21 | gnr./bnr. 209/164 | Oslo kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k6-06-01.pdf) |
+| Schweigaards gate 15 | gnr./bnr. 234/20 | Oslo kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k6-07-01.pdf) |
+| Tollbugata 1 A | gnr./bnr. 207/242 | Oslo kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k6-08-01.pdf) |
+| Wergelandsveien 29 | gnr./bnr. 209/428 | Oslo kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k6-09-01.pdf) |
+| Hans Kiærs gate 1 B–C | gnr./bnr. 111/247 | Drammen kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k6-10-01.pdf) |
+| Storgata 19 A | gnr./bnr. 3020/1985 | Larvik kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k6-11-01.pdf) |
+| Storgata 162 | gnr./bnr. 200/2563 | Porsgrunn kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k6-12-01.pdf) |
+| Langbrygga 1 | gnr./bnr. 300/2526 | Skien kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k6-13-01.pdf) |
+| Gamle Kragerøvei 9 | gnr./bnr. 32/267 | Kragerø kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k6-14-01.pdf) |
+| Vestre Strandgate 21 | gnr./bnr. 150/1484, 1486 | Kristiansand kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k6-15-01.pdf) |
+| Skansegaten 2 | gnr./bnr. 55/1215 | Stavanger kommune | [Vedlegg 16](static/SF/sf-20111109-1088-k6-16-01.pdf) |
+| Kalfarveien 31 | gnr./bnr. 166/1121 | Bergen kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k6-17-01.pdf) |
+| Strømgaten 1 | gnr./bnr. 166/950 | Bergen kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k6-18-01.pdf) |
+| Tollbodallmenningen 2 A | gnr./bnr. 165/454 | Bergen kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k6-19-01.pdf) |
+| Brattørkaia 13 B | gnr./bnr. 439/18 | Trondheim kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k6-20-01.pdf) |
+| Erling Skakkes gate 60/Kongens gate 85 | gnr./bnr. 403/227, 289 | Trondheim kommune | [Vedlegg 21](static/SF/sf-20111109-1088-k6-21-01.pdf) |
 
 > Tilføyd ved [forskrift 25 juni 2013 nr. 764](forskrift/2013-06-25-764).
 
@@ -190,7 +271,18 @@ For Kristian Augusts gate 21, gnr./bnr. 209/164, Oslo kommune, kan det tillates 
 
 ### § 7-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Vien-senteretgnr./bnr. 4/4Hamar kommune[Vedlegg 1](static/SF/sf-20111109-1088-k7-01-01.pdf)Iras husgnr./bnr. 58/45Tønsberg kommune[Vedlegg 2](static/SF/sf-20111109-1088-k7-02-01.pdf)Munk & Klemgnr./bnr. 223/338Skien kommune[Vedlegg 3](static/SF/sf-20111109-1088-k7-03-01.pdf)Eikhaugen/Nylignr./bnr. 507/2303Arendal kommune[Vedlegg 4](static/SF/sf-20111109-1088-k7-04-01.pdf)Villa Rødgnr./bnr. 56/1558Stavanger kommune[Vedlegg 5](static/SF/sf-20111109-1088-k7-05-01.pdf)Bergen barn- og foreldresenter avd. Bønesgnr./bnr. 20/823Bergen kommune[Vedlegg 6](static/SF/sf-20111109-1088-k7-06-01.pdf)Helgeland ungdomssentergnr./bnr. 8/124Alstahaug kommune[Vedlegg 7](static/SF/sf-20111109-1088-k7-07-01.pdf)Røvika ungdomssenterGnr./bnr. 44/8Fauske kommune[Vedlegg 8](static/SF/sf-20111109-1088-k7-08-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Vien-senteret | gnr./bnr. 4/4 | Hamar kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k7-01-01.pdf) |
+| Iras hus | gnr./bnr. 58/45 | Tønsberg kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k7-02-01.pdf) |
+| Munk & Klem | gnr./bnr. 223/338 | Skien kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k7-03-01.pdf) |
+| Eikhaugen/Nyli | gnr./bnr. 507/2303 | Arendal kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k7-04-01.pdf) |
+| Villa Rød | gnr./bnr. 56/1558 | Stavanger kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k7-05-01.pdf) |
+| Bergen barn- og foreldresenter avd. Bønes | gnr./bnr. 20/823 | Bergen kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k7-06-01.pdf) |
+| Helgeland ungdomssenter | gnr./bnr. 8/124 | Alstahaug kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k7-07-01.pdf) |
+| Røvika ungdomssenter | Gnr./bnr. 44/8 | Fauske kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k7-08-01.pdf) |
 
 > Tilføyd ved [forskrift 19 juni 2013 nr. 1008](forskrift/2013-06-19-1008).
 
@@ -264,6 +356,8 @@ Forvaltningsplanen skal være utarbeidet innen 31. desember 2013.
 
 ### Vedlegg 8
 
+For å lese vedlegg 8 se her: [(pdf)](static/SF/sf-20111109-1088-k8-06-01.pdf)
+
 > Tilføyd ved [forskrift 15 nov 2012 nr. 1071](forskrift/2012-11-15-1071).
 
 ## Kapittel 9. Fredete eiendommer i landsverneplan for Kunnskapsdepartementet
@@ -272,7 +366,50 @@ Forvaltningsplanen skal være utarbeidet innen 31. desember 2013.
 
 ### § 9-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Høgskolen i Finnmark, Altagnr./bnr. 28/5Alta kommune[Vedlegg 1](static/SF/sf-20111109-1088-k9-01-01.pdf)Høgskolen i Harstadgnr./bnr. 61/338Harstad kommune[Vedlegg 2](static/SF/sf-20111109-1088-k9-02-01.pdf)Høgskolen i Nord-Trøndelag, Røstadgnr./bnr. 274/1Levanger kommune[Vedlegg 3](static/SF/sf-20111109-1088-k9-03-01.pdf)Høgskolen i Sør-Trøndelag, Bispegatagnr./bnr. 403/54Trondheim kommune[Vedlegg 4](static/SF/sf-20111109-1088-k9-04-01.pdf)Høgskolen Stord/Haugesund, Rommetveitgnr./bnr. 21/1Stord kommune[Vedlegg 5](static/SF/sf-20111109-1088-k9-05-01.pdf)Høgskolen i Hedmark, Elverum–Lærergnr./bnr. 28/95Elverum kommune[Vedlegg 6](static/SF/sf-20111109-1088-k9-06-01.pdf)Høgskolen i Hedmark, Elverum–Sykepleiergnr./bnr. 30/984Elverum kommune[Vedlegg 7](static/SF/sf-20111109-1088-k9-07-01.pdf)NMBU, Norges veterinærhøgskolegnr./bnr. 220/87, 55/22 og 220/87Oslo kommune[Vedlegg 8](static/SF/sf-20111109-1088-k9-08-01.pdf)Norges idrettshøgskolegnr./bnr. 51/14Oslo kommune[Vedlegg 9](static/SF/sf-20111109-1088-k9-09-01.pdf)Nordlysobservatorietgnr./bnr. 118/49Tromsø kommune[Vedlegg 10](static/SF/sf-20111109-1088-k9-10-01.pdf)Tromsø Museumgnr./bnr. 119/1-1Tromsø kommune[Vedlegg 11](static/SF/sf-20111109-1088-k9-11-01.pdf)NTNU, Kalvskinnetgnr./bnr. 403/43, 44 og 403/134, 238, 248Trondheim kommune[Vedlegg 12](static/SF/sf-20111109-1088-k9-12-01.pdf)NTNU, Gløshaugengnr./bnr. 62/400, 405/177Trondheim kommune[Vedlegg 13](static/SF/sf-20111109-1088-k9-13-01.pdf)UiB, Allégaten 70gnr./bnr. 164/732Bergen kommune[Vedlegg 14](static/SF/sf-20111109-1088-k9-14-01.pdf)UiB, Samfunnsvitenskapelig Fakultetgnr./bnr. 164/1148, 1150, 1152, 621Bergen kommune[Vedlegg 15](static/SF/sf-20111109-1088-k9-15-01.pdf)UiB, De kulturhistoriske samlingergnr./bnr. 164/465Bergen kommune[Vedlegg 16](static/SF/sf-20111109-1088-k9-16-01.pdf)UiB, Adm. avd. Langesgate 1–3gnr./bnr. 164/523, 521Bergen kommune[Vedlegg 17](static/SF/sf-20111109-1088-k9-17-01.pdf)UiB, Universitetsadm. Muséplass 1 m.fl.gnr./bnr. 164/517, 1153Bergen kommune[Vedlegg 18](static/SF/sf-20111109-1088-k9-18-01.pdf)UiB, Muséplass 3, De naturhistoriske samlingergnr./bnr. 164/519Bergen kommune[Vedlegg 19](static/SF/sf-20111109-1088-k9-19-01.pdf)UiB, Fastings Mindegnr./bnr. 164/364Bergen kommune[Vedlegg 20](static/SF/sf-20111109-1088-k9-20-01.pdf)UiB, Parkveiengnr./bnr. 164/533Bergen kommune[Vedlegg 21](static/SF/sf-20111109-1088-k9-21-01.pdf)UiB, Sydneshaugkvartaletgnr./bnr. 164/495, 498, 500, 493, 492, 496, 513, 514, 578, 576Bergen kommune[Vedlegg 22](static/SF/sf-20111109-1088-k9-22-01.pdf)UiB, Villaveiengnr./bnr. 164/471Bergen kommune[Vedlegg 23](static/SF/sf-20111109-1088-k9-23-01.pdf)UiB, Tingvikagnr./bnr. 108/26-30Ullensvang herad[Vedlegg 24](static/SF/sf-20111109-1088-k9-24-01.pdf)UiB, Realfagbyggetgnr./bnr. 164/715, 548, 549, 682, 713, 721, 725, 726Bergen kommune[Vedlegg 25](static/SF/sf-20111109-1088-k9-25-01.pdf)UiB, Universitetsbiblioteketgnr./bnr. 164/364Bergen kommune[Vedlegg 26](static/SF/sf-20111109-1088-k9-26-01.pdf)UiB, Psykologibygget, Bjørn Christiansens husgnr./bnr. 164/1145Bergen kommune[Vedlegg 27](static/SF/sf-20111109-1088-k9-27-01.pdf)UiB, Sydneshaugen skolegnr./bnr. 164/510Bergen kommune[Vedlegg 28](static/SF/sf-20111109-1088-k9-28-01.pdf)Andre Bygg UiOgnr./bnr. 86/897Frogn kommune[Vedlegg 29](static/SF/sf-20111109-1088-k9-29-01.pdf)UiO, Blinderngnr./bnr. 38/4, 46/109, 46/102, 44/85, 44/3, 44/254, 38/287, 38/289Oslo kommune[Vedlegg 30](static/SF/sf-20111109-1088-k9-30-01.pdf)UiO, Sentrumgnr./bnr. 209/44, 211/196Oslo kommune[Vedlegg 31](static/SF/sf-20111109-1088-k9-31-01.pdf)UiO, Tøyengnr./bnr. 229/110, 165, 166 og 999/261Oslo kommune[Vedlegg 32](static/SF/sf-20111109-1088-k9-32-02.pdf)NMBUgnr./bnr. 42/1Ås kommune[Vedlegg 33](static/SF/sf-20111109-1088-k9-33-01.pdf)Sem Øvregnr./bnr. 20/2Asker kommune[Vedlegg 34](static/SF/sf-20111109-1088-k9-34-01.pdf)Nedre Gausen, Holmestrandgnr./bnr. 129/91Holmestrand kommune[Vedlegg 35](static/SF/sf-20111109-1088-k9-35-01.pdf)Skådalen Kompetansesentergnr./bnr. 35/60Oslo kommune[Vedlegg 36](static/SF/sf-20111109-1088-k9-36-01.pdf)Bredtvetveien 4-6-8-10, Oslognr./bnr. 91/141Oslo kommune[Vedlegg 37](static/SF/sf-20111109-1088-k9-37-01.pdf)Langnesveien 3b, Tromsøgnr./bnr. 119/410Tromsø kommune[Vedlegg 38](static/SF/sf-20111109-1088-k9-38-01.pdf)Dømmesmoengnr./bnr. 9/1Grimstad kommune[Vedlegg 39](static/SF/sf-20111109-1088-k9-39-01.pdf)St. Olavsgt. 32gnr./bnr. 209/268Oslo kommune[Vedlegg 40](static/SF/sf-20111109-1088-k9-40-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Høgskolen i Finnmark, Alta | gnr./bnr. 28/5 | Alta kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k9-01-01.pdf) |
+| Høgskolen i Harstad | gnr./bnr. 61/338 | Harstad kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k9-02-01.pdf) |
+| Høgskolen i Nord-Trøndelag, Røstad | gnr./bnr. 274/1 | Levanger kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k9-03-01.pdf) |
+| Høgskolen i Sør-Trøndelag, Bispegata | gnr./bnr. 403/54 | Trondheim kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k9-04-01.pdf) |
+| Høgskolen Stord/Haugesund, Rommetveit | gnr./bnr. 21/1 | Stord kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k9-05-01.pdf) |
+| Høgskolen i Hedmark, Elverum–Lærer | gnr./bnr. 28/95 | Elverum kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k9-06-01.pdf) |
+| Høgskolen i Hedmark, Elverum–Sykepleier | gnr./bnr. 30/984 | Elverum kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k9-07-01.pdf) |
+| NMBU, Norges veterinærhøgskole | gnr./bnr. 220/87, 55/22 og 220/87 | Oslo kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k9-08-01.pdf) |
+| Norges idrettshøgskole | gnr./bnr. 51/14 | Oslo kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k9-09-01.pdf) |
+| Nordlysobservatoriet | gnr./bnr. 118/49 | Tromsø kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k9-10-01.pdf) |
+| Tromsø Museum | gnr./bnr. 119/1-1 | Tromsø kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k9-11-01.pdf) |
+| NTNU, Kalvskinnet | gnr./bnr. 403/43, 44 og 403/134, 238, 248 | Trondheim kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k9-12-01.pdf) |
+| NTNU, Gløshaugen | gnr./bnr. 62/400, 405/177 | Trondheim kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k9-13-01.pdf) |
+| UiB, Allégaten 70 | gnr./bnr. 164/732 | Bergen kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k9-14-01.pdf) |
+| UiB, Samfunnsvitenskapelig Fakultet | gnr./bnr. 164/1148, 1150, 1152, 621 | Bergen kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k9-15-01.pdf) |
+| UiB, De kulturhistoriske samlinger | gnr./bnr. 164/465 | Bergen kommune | [Vedlegg 16](static/SF/sf-20111109-1088-k9-16-01.pdf) |
+| UiB, Adm. avd. Langesgate 1–3 | gnr./bnr. 164/523, 521 | Bergen kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k9-17-01.pdf) |
+| UiB, Universitetsadm. Muséplass 1 m.fl. | gnr./bnr. 164/517, 1153 | Bergen kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k9-18-01.pdf) |
+| UiB, Muséplass 3, De naturhistoriske samlinger | gnr./bnr. 164/519 | Bergen kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k9-19-01.pdf) |
+| UiB, Fastings Minde | gnr./bnr. 164/364 | Bergen kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k9-20-01.pdf) |
+| UiB, Parkveien | gnr./bnr. 164/533 | Bergen kommune | [Vedlegg 21](static/SF/sf-20111109-1088-k9-21-01.pdf) |
+| UiB, Sydneshaugkvartalet | gnr./bnr. 164/495, 498, 500, 493, 492, 496, 513, 514, 578, 576 | Bergen kommune | [Vedlegg 22](static/SF/sf-20111109-1088-k9-22-01.pdf) |
+| UiB, Villaveien | gnr./bnr. 164/471 | Bergen kommune | [Vedlegg 23](static/SF/sf-20111109-1088-k9-23-01.pdf) |
+| UiB, Tingvika | gnr./bnr. 108/26-30 | Ullensvang herad | [Vedlegg 24](static/SF/sf-20111109-1088-k9-24-01.pdf) |
+| UiB, Realfagbygget | gnr./bnr. 164/715, 548, 549, 682, 713, 721, 725, 726 | Bergen kommune | [Vedlegg 25](static/SF/sf-20111109-1088-k9-25-01.pdf) |
+| UiB, Universitetsbiblioteket | gnr./bnr. 164/364 | Bergen kommune | [Vedlegg 26](static/SF/sf-20111109-1088-k9-26-01.pdf) |
+| UiB, Psykologibygget, Bjørn Christiansens hus | gnr./bnr. 164/1145 | Bergen kommune | [Vedlegg 27](static/SF/sf-20111109-1088-k9-27-01.pdf) |
+| UiB, Sydneshaugen skole | gnr./bnr. 164/510 | Bergen kommune | [Vedlegg 28](static/SF/sf-20111109-1088-k9-28-01.pdf) |
+| Andre Bygg UiO | gnr./bnr. 86/897 | Frogn kommune | [Vedlegg 29](static/SF/sf-20111109-1088-k9-29-01.pdf) |
+| UiO, Blindern | gnr./bnr. 38/4, 46/109, 46/102, 44/85, 44/3, 44/254, 38/287, 38/289 | Oslo kommune | [Vedlegg 30](static/SF/sf-20111109-1088-k9-30-01.pdf) |
+| UiO, Sentrum | gnr./bnr. 209/44, 211/196 | Oslo kommune | [Vedlegg 31](static/SF/sf-20111109-1088-k9-31-01.pdf) |
+| UiO, Tøyen | gnr./bnr. 229/110, 165, 166 og 999/261 | Oslo kommune | [Vedlegg 32](static/SF/sf-20111109-1088-k9-32-02.pdf) |
+| NMBU | gnr./bnr. 42/1 | Ås kommune | [Vedlegg 33](static/SF/sf-20111109-1088-k9-33-01.pdf) |
+| Sem Øvre | gnr./bnr. 20/2 | Asker kommune | [Vedlegg 34](static/SF/sf-20111109-1088-k9-34-01.pdf) |
+| Nedre Gausen, Holmestrand | gnr./bnr. 129/91 | Holmestrand kommune | [Vedlegg 35](static/SF/sf-20111109-1088-k9-35-01.pdf) |
+| Skådalen Kompetansesenter | gnr./bnr. 35/60 | Oslo kommune | [Vedlegg 36](static/SF/sf-20111109-1088-k9-36-01.pdf) |
+| Bredtvetveien 4-6-8-10, Oslo | gnr./bnr. 91/141 | Oslo kommune | [Vedlegg 37](static/SF/sf-20111109-1088-k9-37-01.pdf) |
+| Langnesveien 3b, Tromsø | gnr./bnr. 119/410 | Tromsø kommune | [Vedlegg 38](static/SF/sf-20111109-1088-k9-38-01.pdf) |
+| Dømmesmoen | gnr./bnr. 9/1 | Grimstad kommune | [Vedlegg 39](static/SF/sf-20111109-1088-k9-39-01.pdf) |
+| St. Olavsgt. 32 | gnr./bnr. 209/268 | Oslo kommune | [Vedlegg 40](static/SF/sf-20111109-1088-k9-40-01.pdf) |
 
 > Endret ved [forskrift 29 jan 2019 nr. 315](forskrift/2019-01-29-315).
 
@@ -296,8 +433,35 @@ På følgende bygninger kan det tillates eksteriørmessige endringer:Sem Øvre a
 
 ### § 10-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Ila fengsel, forvarings- og sikringsanstaltgnr./bnr. 28/2Bærum kommune[Vedlegg 1](static/SF/sf-20111109-1088-k10-01-01.pdf)Bredtveit fengsel, forvarings- og sikringsanstaltgnr./bnr. 91/1Oslo kommune[Vedlegg 2](static/SF/sf-20111109-1088-k10-02-01.pdf)Grefsenkollen alarmplassgnr./bnr. 75/1Oslo kommune[Vedlegg 3](static/SF/sf-20111109-1088-k10-03-01.pdf)Høyesteretts hus, Oslognr./bnr. 208/266Oslo kommune[Vedlegg 4](static/SF/sf-20111109-1088-k10-04-01.pdf)Oslo fengselgnr./bnr. 230/2, 230/100 og 230/104Oslo kommune[Vedlegg 5](static/SF/sf-20111109-1088-k10-05-01.pdf)Politihøgskolen, Oslognr./bnr. 38/8Oslo kommune[Vedlegg 6](static/SF/sf-20111109-1088-k10-06-01.pdf)Rytterkorpsets bygningergnr./bnr. 207/161 og 207/447Oslo kommune[Vedlegg 7](static/SF/sf-20111109-1088-k10-07-01.pdf)Bastøy fengselgnr./bnr. 16/1Horten kommune[Vedlegg 8](static/SF/sf-20111109-1088-k10-08-01.pdf)Sem fengselgnr./bnr. 51/1/8 og 9522/1Tønsberg kommune[Vedlegg 9](static/SF/sf-20111109-1088-k10-09-01.pdf)Søndre Vestfold fengsel, Berg avdelinggnr./bnr. 56/1Tønsberg kommune[Vedlegg 10](static/SF/sf-20111109-1088-k10-10-01.pdf)Søndre Vestfold fengsel, Larvik avdelinggnr./bnr. 3020/771Larvik kommune[Vedlegg 11](static/SF/sf-20111109-1088-k10-11-01.pdf)Magasin Skiengnr./bnr. 300/2027Skien kommune[Vedlegg 12](static/SF/sf-20111109-1088-k10-12-01.pdf)Bergen tinghusgnr./bnr. 165/173Bergen kommune[Vedlegg 13](static/SF/sf-20111109-1088-k10-13-02.pdf)Hordaland sivilforsvarsleir Espelandgnr./bnr. 290/159 og
-290/1–6, 8–9, 41Bergen kommune[Vedlegg 14](static/SF/sf-20111109-1088-k10-14-01.pdf)Ravneberget kommandoplass, utkikkskioskgnr./bnr. 161/49Bergen kommune[Vedlegg 15](static/SF/sf-20111109-1088-k10-15-01.pdf)Hardanger tingrett, Sjogardengnr./bnr. 73/14Ullensvang herad[Vedlegg 16](static/SF/sf-20111109-1088-k10-16-01.pdf)Vik fengselgnr./bnr. 2/3Vik kommune[Vedlegg 17](static/SF/sf-20111109-1088-k10-17-01.pdf)Møre og Romsdal sivilforsvarsleir, Isfjordengnr./bnr. 53/26-28Rauma kommune[Vedlegg 18](static/SF/sf-20111109-1088-k10-18-01.pdf)Kriminalasylet i Trondheimgnr./bnr. 403/231Trondheim kommune[Vedlegg 19](static/SF/sf-20111109-1088-k10-19-01.pdf)Trondheim fengsel, Kongens gate avdelinggnr./bnr. 403/231 og 403/289Trondheim kommune[Vedlegg 20](static/SF/sf-20111109-1088-k10-20-01.pdf)Trondheim fengsel, Leira avdelinggnr./bnr. 92/16Trondheim kommune[Vedlegg 21](static/SF/sf-20111109-1088-k10-21-01.pdf)Utkikkskiosk Kuhaugengnr./bnr. 411/2Trondheim kommune[Vedlegg 22](static/SF/sf-20111109-1088-k10-22-01.pdf)Sama Harstad kommandoplassgnr./bnr. 62/6, 62/301, 62/310, 62/317, 62/391, 61/54, 61/57, 61/58 og 61/466Harstad kommune[Vedlegg 23](static/SF/sf-20111109-1088-k10-23-01.pdf)Sommervann/Geassejávrignr./bnr. 16/1/5Tana kommune[Vedlegg 24](static/SF/sf-20111109-1088-k10-24-01.pdf)Nyrud politistasjongnr./bnr. 15/3Sør-Varanger kommune[Vedlegg 25](static/SF/sf-20111109-1088-k10-25-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Ila fengsel, forvarings- og sikringsanstalt | gnr./bnr. 28/2 | Bærum kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k10-01-01.pdf) |
+| Bredtveit fengsel, forvarings- og sikringsanstalt | gnr./bnr. 91/1 | Oslo kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k10-02-01.pdf) |
+| Grefsenkollen alarmplass | gnr./bnr. 75/1 | Oslo kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k10-03-01.pdf) |
+| Høyesteretts hus, Oslo | gnr./bnr. 208/266 | Oslo kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k10-04-01.pdf) |
+| Oslo fengsel | gnr./bnr. 230/2, 230/100 og 230/104 | Oslo kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k10-05-01.pdf) |
+| Politihøgskolen, Oslo | gnr./bnr. 38/8 | Oslo kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k10-06-01.pdf) |
+| Rytterkorpsets bygninger | gnr./bnr. 207/161 og 207/447 | Oslo kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k10-07-01.pdf) |
+| Bastøy fengsel | gnr./bnr. 16/1 | Horten kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k10-08-01.pdf) |
+| Sem fengsel | gnr./bnr. 51/1/8 og 9522/1 | Tønsberg kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k10-09-01.pdf) |
+| Søndre Vestfold fengsel, Berg avdeling | gnr./bnr. 56/1 | Tønsberg kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k10-10-01.pdf) |
+| Søndre Vestfold fengsel, Larvik avdeling | gnr./bnr. 3020/771 | Larvik kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k10-11-01.pdf) |
+| Magasin Skien | gnr./bnr. 300/2027 | Skien kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k10-12-01.pdf) |
+| Bergen tinghus | gnr./bnr. 165/173 | Bergen kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k10-13-02.pdf) |
+| Hordaland sivilforsvarsleir Espeland | gnr./bnr. 290/159 og<br>290/1–6, 8–9, 41 | Bergen kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k10-14-01.pdf) |
+| Ravneberget kommandoplass, utkikkskiosk | gnr./bnr. 161/49 | Bergen kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k10-15-01.pdf) |
+| Hardanger tingrett, Sjogarden | gnr./bnr. 73/14 | Ullensvang herad | [Vedlegg 16](static/SF/sf-20111109-1088-k10-16-01.pdf) |
+| Vik fengsel | gnr./bnr. 2/3 | Vik kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k10-17-01.pdf) |
+| Møre og Romsdal sivilforsvarsleir, Isfjorden | gnr./bnr. 53/26-28 | Rauma kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k10-18-01.pdf) |
+| Kriminalasylet i Trondheim | gnr./bnr. 403/231 | Trondheim kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k10-19-01.pdf) |
+| Trondheim fengsel, Kongens gate avdeling | gnr./bnr. 403/231 og 403/289 | Trondheim kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k10-20-01.pdf) |
+| Trondheim fengsel, Leira avdeling | gnr./bnr. 92/16 | Trondheim kommune | [Vedlegg 21](static/SF/sf-20111109-1088-k10-21-01.pdf) |
+| Utkikkskiosk Kuhaugen | gnr./bnr. 411/2 | Trondheim kommune | [Vedlegg 22](static/SF/sf-20111109-1088-k10-22-01.pdf) |
+| Sama Harstad kommandoplass | gnr./bnr. 62/6, 62/301, 62/310, 62/317, 62/391, 61/54, 61/57, 61/58 og 61/466 | Harstad kommune | [Vedlegg 23](static/SF/sf-20111109-1088-k10-23-01.pdf) |
+| Sommervann/Geassejávri | gnr./bnr. 16/1/5 | Tana kommune | [Vedlegg 24](static/SF/sf-20111109-1088-k10-24-01.pdf) |
+| Nyrud politistasjon | gnr./bnr. 15/3 | Sør-Varanger kommune | [Vedlegg 25](static/SF/sf-20111109-1088-k10-25-01.pdf) |
 
 > Tilføyd ved [forskrift 18 nov 2014 nr. 1448](forskrift/2014-11-18-1448), endret ved forskrift [29 sep 2021 nr. 4064](forskrift/2021-09-29-4064).
 
@@ -345,7 +509,22 @@ For Eidsvollsbygningen gjelder følgende særbestemmelser:Tekniske oppgraderinge
 
 ### § 12-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Gravningsund tidligere tollstasjongnr./bnr. 29/14, 30/27Hvaler kommune[Vedlegg 1](static/SF/sf-20111109-1088-k12-01-01.pdf)Herføl tidligere tollstasjongnr./bnr. 30/24Hvaler kommune[Vedlegg 2](static/SF/sf-20111109-1088-k12-02-01.pdf)Otteid tidligere tollstasjongnr./bnr. 128/9Marker kommune[Vedlegg 3](static/SF/sf-20111109-1088-k12-03-01.pdf)Larkollen tidligere tollstasjongnr./bnr. 34/405Moss kommune[Vedlegg 4](static/SF/sf-20111109-1088-k12-04-02.pdf)Årøysund tidligere tollstasjongnr./bnr. 42/5, 12, 42/85Færder kommune[Vedlegg 5](static/SF/sf-20111109-1088-k12-05-02.pdf)Sandøsund tidligere tollstasjongnr./bnr. 31/3, 31/133Færder kommune[Vedlegg 6](static/SF/sf-20111109-1088-k12-06-02.pdf)Borøy tidligere tollstasjongnr./bnr. 76/104Tvedestrand kommune[Vedlegg 7](static/SF/sf-20111109-1088-k12-07-01.pdf)Hesnes tidligere tollstasjongnr./bnr. 33/15Grimstad kommune[Vedlegg 8](static/SF/sf-20111109-1088-k12-08-01.pdf)Brekkestø tidligere tollstasjongnr./bnr. 6/25, 6/26Lillesand kommune[Vedlegg 9](static/SF/sf-20111109-1088-k12-09-01.pdf)Møvik tidligere tollstasjongnr./bnr. 7/585Kristiansand kommune[Vedlegg 10](static/SF/sf-20111109-1088-k12-10-01.pdf)Ny-Hellesund tidligere tollstasjongnr./bnr. 21/55Kristiansand kommune[Vedlegg 11](static/SF/sf-20111109-1088-k12-11-02.pdf)Vauldalen tidligere tollstasjongnr./bnr. 95/2Røros kommune[Vedlegg 12](static/SF/sf-20111109-1088-k12-12-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Gravningsund tidligere tollstasjon | gnr./bnr. 29/14, 30/27 | Hvaler kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k12-01-01.pdf) |
+| Herføl tidligere tollstasjon | gnr./bnr. 30/24 | Hvaler kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k12-02-01.pdf) |
+| Otteid tidligere tollstasjon | gnr./bnr. 128/9 | Marker kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k12-03-01.pdf) |
+| Larkollen tidligere tollstasjon | gnr./bnr. 34/405 | Moss kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k12-04-02.pdf) |
+| Årøysund tidligere tollstasjon | gnr./bnr. 42/5, 12, 42/85 | Færder kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k12-05-02.pdf) |
+| Sandøsund tidligere tollstasjon | gnr./bnr. 31/3, 31/133 | Færder kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k12-06-02.pdf) |
+| Borøy tidligere tollstasjon | gnr./bnr. 76/104 | Tvedestrand kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k12-07-01.pdf) |
+| Hesnes tidligere tollstasjon | gnr./bnr. 33/15 | Grimstad kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k12-08-01.pdf) |
+| Brekkestø tidligere tollstasjon | gnr./bnr. 6/25, 6/26 | Lillesand kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k12-09-01.pdf) |
+| Møvik tidligere tollstasjon | gnr./bnr. 7/585 | Kristiansand kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k12-10-01.pdf) |
+| Ny-Hellesund tidligere tollstasjon | gnr./bnr. 21/55 | Kristiansand kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k12-11-02.pdf) |
+| Vauldalen tidligere tollstasjon | gnr./bnr. 95/2 | Røros kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k12-12-01.pdf) |
 
 > Tilføyd ved [forskrift 15 sep 2014 nr. 1174](forskrift/2014-09-15-1174), endret ved [forskrift 18 feb 2020 nr. 847](forskrift/2020-02-18-847).
 
@@ -355,13 +534,19 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2015.
 
 > Tilføyd ved [forskrift 15 sep 2014 nr. 1174](forskrift/2014-09-15-1174).
 
+1 Jf. [§ 1-6](forskrift/2011-11-09-1088/§1-6).
+
 ## Kapittel 13. Fredning av Historisk museum, Frederiks gate 2, Oslo
 
 > Kapitlet tilføyd ved [forskrift 26 nov 2014 nr. 1461](forskrift/2014-11-26-1461).
 
 ### § 13-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Historisk museum, Frederiks gate 2, Oslognr./bnr. 209/43Oslo kommune[Vedlegg 1](static/SF/sf-20111109-1088-k13-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Historisk museum, Frederiks gate 2, Oslo | gnr./bnr. 209/43 | Oslo kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k13-01-01.pdf) |
 
 > Tilføyd ved [forskrift 26 nov 2014 nr. 1461](forskrift/2014-11-26-1461).
 
@@ -377,7 +562,23 @@ Forvaltningsplanen skal være utarbeidet innen utgangen av juni 2016.
 
 ### § 14-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Auglend-Vandringshavn, Eigersundgnr./bnr. 11/3Eigersund kommune[Vedlegg 1](static/SF/sf-20111109-1088-k14-01-01.pdf)Høgevarden, Skjernøy, Mandalgnr./bnr. 23/27Lindesnes kommune[Vedlegg 2](static/SF/sf-20111109-1088-k14-02-02.pdf)Kjeholmen, Fitjargnr./bnr. 15/1,3Fitjar kommune[Vedlegg 3](static/SF/sf-20111109-1088-k14-03-01.pdf)Kongsvold fjellstue, Oppdalgnr./bnr. 62/1Oppdal kommune[Vedlegg 4](static/SF/sf-20111109-1088-k14-04-01.pdf)Penne, Farsundgnr./bnr. 44/16Farsund kommune[Vedlegg 5](static/SF/sf-20111109-1088-k14-05-01.pdf)Portør, Kragerøgnr./bnr. 7/29Kragerø kommune[Vedlegg 6](static/SF/sf-20111109-1088-k14-06-01.pdf)Sildevika, Porsgrunngnr./bnr. 27/12Porsgrunn kommune[Vedlegg 7](static/SF/sf-20111109-1088-k14-07-01.pdf)Sognli Forsøksgård, Orkdalgnr./bnr. 248/1, 266/7Orkdal kommune[Vedlegg 8](static/SF/sf-20111109-1088-k14-08-01.pdf)Sotåsen, Randesund, Kristiansandgnr./bnr. 80/7Kristiansand kommune[Vedlegg 9](static/SF/sf-20111109-1088-k14-09-01.pdf)Stangnes, Kragerøgnr./bnr. 6/23Kragerø kommune[Vedlegg 10](static/SF/sf-20111109-1088-k14-10-01.pdf)Vernebygget, Hamargnr./bnr. 1/870Hamar kommune[Vedlegg 11](static/SF/sf-20111109-1088-k14-11-01.pdf)Vingen LVO, Vakthytte, Bremangergnr./bnr. 78/3Bremanger kommune[Vedlegg 12](static/SF/sf-20111109-1088-k14-12-01.pdf)Årosveten, Søgnegnr./bnr. 20/13Kristiansand kommune[Vedlegg 13](static/SF/sf-20111109-1088-k14-13-02.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Auglend-Vandringshavn, Eigersund | gnr./bnr. 11/3 | Eigersund kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k14-01-01.pdf) |
+| Høgevarden, Skjernøy, Mandal | gnr./bnr. 23/27 | Lindesnes kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k14-02-02.pdf) |
+| Kjeholmen, Fitjar | gnr./bnr. 15/1,3 | Fitjar kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k14-03-01.pdf) |
+| Kongsvold fjellstue, Oppdal | gnr./bnr. 62/1 | Oppdal kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k14-04-01.pdf) |
+| Penne, Farsund | gnr./bnr. 44/16 | Farsund kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k14-05-01.pdf) |
+| Portør, Kragerø | gnr./bnr. 7/29 | Kragerø kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k14-06-01.pdf) |
+| Sildevika, Porsgrunn | gnr./bnr. 27/12 | Porsgrunn kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k14-07-01.pdf) |
+| Sognli Forsøksgård, Orkdal | gnr./bnr. 248/1, 266/7 | Orkdal kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k14-08-01.pdf) |
+| Sotåsen, Randesund, Kristiansand | gnr./bnr. 80/7 | Kristiansand kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k14-09-01.pdf) |
+| Stangnes, Kragerø | gnr./bnr. 6/23 | Kragerø kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k14-10-01.pdf) |
+| Vernebygget, Hamar | gnr./bnr. 1/870 | Hamar kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k14-11-01.pdf) |
+| Vingen LVO, Vakthytte, Bremanger | gnr./bnr. 78/3 | Bremanger kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k14-12-01.pdf) |
+| Årosveten, Søgne | gnr./bnr. 20/13 | Kristiansand kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k14-13-02.pdf) |
 
 > Tilføyd ved [forskrift 14 aug 2015 nr. 961](forskrift/2015-08-14-961), endret ved [forskrift 18 feb 2020 nr. 847](forskrift/2020-02-18-847).
 
@@ -393,7 +594,15 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2018.
 
 ### § 15-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Krutthuset, Rørosgnr./bnr. 135/115Røros kommune[Vedlegg 1](static/SF/sf-20111109-1088-k15-01-01.pdf)Malmplassen, Rørosgnr./bnr. 135/115, 137/1, 136/ 1, 136/51, 136/71Røros kommune[Vedlegg 2](static/SF/sf-20111109-1088-k15-02-01.pdf)Nedre Storwartz, Rørosgnr./bnr. 141/6Røros kommune[Vedlegg 3](static/SF/sf-20111109-1088-k15-03-01.pdf)Olavsgruva, Rørosgnr./bnr. 141/6, 141/7Røros kommune[Vedlegg 4](static/SF/sf-20111109-1088-k15-04-01.pdf)Øvre Storwartz, Rørosgnr./bnr. 141/6, 141/7Røros kommune[Vedlegg 5](static/SF/sf-20111109-1088-k15-05-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Krutthuset, Røros | gnr./bnr. 135/115 | Røros kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k15-01-01.pdf) |
+| Malmplassen, Røros | gnr./bnr. 135/115, 137/1, 136/ 1, 136/51, 136/71 | Røros kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k15-02-01.pdf) |
+| Nedre Storwartz, Røros | gnr./bnr. 141/6 | Røros kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k15-03-01.pdf) |
+| Olavsgruva, Røros | gnr./bnr. 141/6, 141/7 | Røros kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k15-04-01.pdf) |
+| Øvre Storwartz, Røros | gnr./bnr. 141/6, 141/7 | Røros kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k15-05-01.pdf) |
 
 > Tilføyd ved [forskrift 14 aug 2015 nr. 962](forskrift/2015-08-14-962).
 
@@ -409,7 +618,11 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2018.
 
 ### § 16-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Baroniet Rosendalgnr./bnr. 85/43, 87/1, 87/4, 87/5, 87/59, 87/60, 88/1.Kvinnherad kommune[Vedlegg 1](static/SF/sf-20111109-1088-k16-01-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Baroniet Rosendal | gnr./bnr. 85/43, 87/1, 87/4, 87/5, 87/59, 87/60, 88/1. | Kvinnherad kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k16-01-01.pdf) |
 
 > Tilføyd ved [forskrift 20 nov 2015 nr. 1333](forskrift/2015-11-20-1333).
 
@@ -431,7 +644,11 @@ På Avlsgård, driftsbygningens østre fløy – Baroniet Rosendal, gnr. 88, bnr
 
 ### § 17-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Norges Banks tidligere avdelingskontor i Stavangergnr./bnr. 55/191, 194 og 1814Stavanger kommune[Vedlegg 1](static/SF/sf-20111109-1088-k17-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Norges Banks tidligere avdelingskontor i Stavanger | gnr./bnr. 55/191, 194 og 1814 | Stavanger kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k17-01-01.pdf) |
 
 > Tilføyd ved [forskrift 10 feb 2016 nr. 133](forskrift/2016-02-10-133).
 
@@ -441,7 +658,14 @@ Fredningen omfatter følgende eiendom:Norges Banks tidligere avdelingskontor i S
 
 ### § 18-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Norges Banks tidligere avdelingskontor i Vardø, Brodtkorpsg. 1gnr./bnr. 20/197.Vardø kommune[Vedlegg 18.1](static/SF/sf-20111109-1088-k18-01-01.pdf)Norges Banks tidligere avdelingskontor i Tromsø, Bankgata 9/11gnr./bnr. 200/96Tromsø kommune[Vedlegg 18.2](static/SF/sf-20111109-1088-k18-02-01.pdf)Norges Banks tidligere avdelingskontor i Lillehammer, Stortorget 1gnr./bnr. 200/135Lillehammer kommune[Vedlegg 18.3](static/SF/sf-20111109-1088-k18-03-01.pdf)Norges Banks tidligere avdelingskontor i Kristiansand, Dronningens gate 30gnr./bnr. 150/42Kristiansand kommune[Vedlegg 18.4](static/SF/sf-20111109-1088-k18-04-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Norges Banks tidligere avdelingskontor i Vardø, Brodtkorpsg. 1 | gnr./bnr. 20/197. | Vardø kommune | [Vedlegg 18.1](static/SF/sf-20111109-1088-k18-01-01.pdf) |
+| Norges Banks tidligere avdelingskontor i Tromsø, Bankgata 9/11 | gnr./bnr. 200/96 | Tromsø kommune | [Vedlegg 18.2](static/SF/sf-20111109-1088-k18-02-01.pdf) |
+| Norges Banks tidligere avdelingskontor i Lillehammer, Stortorget 1 | gnr./bnr. 200/135 | Lillehammer kommune | [Vedlegg 18.3](static/SF/sf-20111109-1088-k18-03-01.pdf) |
+| Norges Banks tidligere avdelingskontor i Kristiansand, Dronningens gate 30 | gnr./bnr. 150/42 | Kristiansand kommune | [Vedlegg 18.4](static/SF/sf-20111109-1088-k18-04-01.pdf) |
 
 > Tilføyd ved [forskrift 19 juni 2016 nr. 787](forskrift/2016-06-19-787).
 
@@ -451,7 +675,11 @@ Fredningen omfatter følgende eiendommer:Norges Banks tidligere avdelingskontor 
 
 ### § 19-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Samtidskunstmuseet, Bankplassen 4, Oslognr./bnr. 209/43Oslo kommune[Vedlegg 19.1](static/SF/sf-20111109-1088-k19-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Samtidskunstmuseet, Bankplassen 4, Oslo | gnr./bnr. 209/43 | Oslo kommune | [Vedlegg 19.1](static/SF/sf-20111109-1088-k19-01-01.pdf) |
 
 > Tilføyd ved [forskrift 19 juni 2016 nr. 788](forskrift/2016-06-19-788).
 
@@ -467,7 +695,31 @@ Forvaltningsplanen skal være utarbeidet innen medio 2017.
 
 ### § 20-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Brattestø fiskerihavngnr./bnr. 38/1, 19, 130Hvaler kommune[Vedlegg 1](static/SF/sf-20111109-1088-k20-01-01.pdf)Gitmertangen lyktergnr./bnr. 224/2, 167Arendal kommune[Vedlegg 2](static/SF/sf-20111109-1088-k20-02-01.pdf)Heia vardekoordinaterHvaler kommune[Vedlegg 3](static/SF/sf-20111109-1088-k20-03-01.pdf)Hekkingen vardegnr./bnr. 109/1Senja kommune[Vedlegg 4](static/SF/sf-20111109-1088-k20-04-02.pdf)HelgelandsflesakoordinaterSømna kommune[Vedlegg 5](static/SF/sf-20111109-1088-k20-05-01.pdf)Hesnes båkekoordinaterGrimstad kommune[Vedlegg 6](static/SF/sf-20111109-1088-k20-06-01.pdf)Husholmen fyrlyktkoordinaterVågan kommune[Vedlegg 7](static/SF/sf-20111109-1088-k20-07-01.pdf)Kjøttvikvardengnr./bnr. 3/1Hammerfest kommune[Vedlegg 8](static/SF/sf-20111109-1088-k20-08-01.pdf)Laagebarden vardekoordinaterStad kommune[Vedlegg 9](static/SF/sf-20111109-1088-k20-09-02.pdf)Mærdø fyrlyktgnr./bnr. 209/25Arendal kommune[Vedlegg 10](static/SF/sf-20111109-1088-k20-10-01.pdf)Merdø loshyttegnr./bnr. 209/86Arendal kommune[Vedlegg 11](static/SF/sf-20111109-1088-k20-11-01.pdf)Nesland støgnr./bnr. 41/7, 19Flakstad kommune[Vedlegg 12](static/SF/sf-20111109-1088-k20-12-01.pdf)Nordøyan fiskerihavngnr./bnr. 55/6Nærøysund kommune[Vedlegg 13](static/SF/sf-20111109-1088-k20-13-02.pdf)Papperhavn fyrlyktgnr./bnr. 48/135Hvaler kommune[Vedlegg 14](static/SF/sf-20111109-1088-k20-14-01.pdf)Ryvingen vardegnr./bnr. 23/1, 3–6, 9–10, 35, 25Lindesnes kommune[Vedlegg 15](static/SF/sf-20111109-1088-k20-15-02.pdf)Sandøy båkegnr./bnr. 78/151Tvedestrand kommune[Vedlegg 16](static/SF/sf-20111109-1088-k20-16-01.pdf)Silda fiskerihavngnr./bnr. 96/2, 3, 51Kinn kommune[Vedlegg 17](static/SF/sf-20111109-1088-k20-17-02.pdf)Skjærvær fiskerihavngnr./bnr. 32/1, 2Vega kommune[Vedlegg 18](static/SF/sf-20111109-1088-k20-18-01.pdf)Turøyvardengnr./bnr. 60/9Øygarden kommune[Vedlegg 19](static/SF/sf-20111109-1088-k20-19-02.pdf)Tønsberg Tønnegnr./bnr. 101/84Sandefjord kommune[Vedlegg 20](static/SF/sf-20111109-1088-k20-20-01.pdf)Vardø bymoloergnr./bnr. 19/353, 486, gnr./bnr. 20/109, 127Vardø kommune[Vedlegg 21](static/SF/sf-20111109-1088-k20-21-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Brattestø fiskerihavn | gnr./bnr. 38/1, 19, 130 | Hvaler kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k20-01-01.pdf) |
+| Gitmertangen lykter | gnr./bnr. 224/2, 167 | Arendal kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k20-02-01.pdf) |
+| Heia varde | koordinater | Hvaler kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k20-03-01.pdf) |
+| Hekkingen varde | gnr./bnr. 109/1 | Senja kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k20-04-02.pdf) |
+| Helgelandsflesa | koordinater | Sømna kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k20-05-01.pdf) |
+| Hesnes båke | koordinater | Grimstad kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k20-06-01.pdf) |
+| Husholmen fyrlykt | koordinater | Vågan kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k20-07-01.pdf) |
+| Kjøttvikvarden | gnr./bnr. 3/1 | Hammerfest kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k20-08-01.pdf) |
+| Laagebarden varde | koordinater | Stad kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k20-09-02.pdf) |
+| Mærdø fyrlykt | gnr./bnr. 209/25 | Arendal kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k20-10-01.pdf) |
+| Merdø loshytte | gnr./bnr. 209/86 | Arendal kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k20-11-01.pdf) |
+| Nesland stø | gnr./bnr. 41/7, 19 | Flakstad kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k20-12-01.pdf) |
+| Nordøyan fiskerihavn | gnr./bnr. 55/6 | Nærøysund kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k20-13-02.pdf) |
+| Papperhavn fyrlykt | gnr./bnr. 48/135 | Hvaler kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k20-14-01.pdf) |
+| Ryvingen varde | gnr./bnr. 23/1, 3–6, 9–10, 35, 25 | Lindesnes kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k20-15-02.pdf) |
+| Sandøy båke | gnr./bnr. 78/151 | Tvedestrand kommune | [Vedlegg 16](static/SF/sf-20111109-1088-k20-16-01.pdf) |
+| Silda fiskerihavn | gnr./bnr. 96/2, 3, 51 | Kinn kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k20-17-02.pdf) |
+| Skjærvær fiskerihavn | gnr./bnr. 32/1, 2 | Vega kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k20-18-01.pdf) |
+| Turøyvarden | gnr./bnr. 60/9 | Øygarden kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k20-19-02.pdf) |
+| Tønsberg Tønne | gnr./bnr. 101/84 | Sandefjord kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k20-20-01.pdf) |
+| Vardø bymoloer | gnr./bnr. 19/353, 486, gnr./bnr. 20/109, 127 | Vardø kommune | [Vedlegg 21](static/SF/sf-20111109-1088-k20-21-01.pdf) |
 
 > Tilføyd ved [forskrift 8 aug 2016 nr. 958](forskrift/2016-08-08-958), endret ved [forskrift 18 feb 2020 nr. 847](forskrift/2020-02-18-847).
 
@@ -483,7 +735,11 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2019.
 
 ### § 21-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Tidligere Rikstrygdeverket, Drammensveien 60 og Observatorie terrasse 17, Oslognr./bnr. 211/73, 211/248, 999/873Oslo kommune[Vedlegg 1](static/SF/sf-20111109-1088-k21-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Tidligere Rikstrygdeverket, Drammensveien 60 og Observatorie terrasse 17, Oslo | gnr./bnr. 211/73, 211/248, 999/873 | Oslo kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k21-01-01.pdf) |
 
 > Tilføyd ved [forskrift 13 mars 2017 nr. 323](forskrift/2017-03-13-323).
 
@@ -493,7 +749,30 @@ Fredningen omfatter følgende eiendom:Tidligere Rikstrygdeverket, Drammensveien 
 
 ### § 22-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Abborhøgda, Kongsvingergnr./bnr. 71/1Kongsvinger kommune[Vedlegg 1](static/SF/sf-20111109-1088-k22-01-01.pdf)Nordre Varaldskogen, Kongsvingergnr./bnr. 71/77Kongsvinger kommune[Vedlegg 2](static/SF/sf-20111109-1088-k22-02-01.pdf)Bekken brakkeleir, Rendalengnr./bnr. 80/1Rendalen kommune[Vedlegg 3](static/SF/sf-20111109-1088-k22-03-01.pdf)Ljørbu ved Galtstrømmen, Engerdalgnr./bnr. 165/1Engerdal kommune[Vedlegg 4](static/SF/sf-20111109-1088-k22-04-01.pdf)Trollhaug, Ringebugnr./bnr. 196/1-129Ringebu kommune[Vedlegg 5](static/SF/sf-20111109-1088-k22-05-01.pdf)Sigurdshellerhyttene, Sirdalgnr./bnr. 1/10Sirdal kommune[Vedlegg 6](static/SF/sf-20111109-1088-k22-06-01.pdf)Fautbua, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 7](static/SF/sf-20111109-1088-k22-07-01.pdf)Kløfthåbua, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 8](static/SF/sf-20111109-1088-k22-08-01.pdf)Langtjønnbua, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 9](static/SF/sf-20111109-1088-k22-09-01.pdf)Litjrennbua, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 10](static/SF/sf-20111109-1088-k22-10-01.pdf)Lortholbua, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 11](static/SF/sf-20111109-1088-k22-11-01.pdf)Fløterbu ved Rismosjøen, Rørosgnr./bnr. 56/1Røros kommune[Vedlegg 12](static/SF/sf-20111109-1088-k22-12-01.pdf)Fløterbu ved Roasten, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 13](static/SF/sf-20111109-1088-k22-13-01.pdf)Furubakken, Rørosgnr./bnr. 132/307Røros kommune[Vedlegg 14](static/SF/sf-20111109-1088-k22-14-01.pdf)Stormoen, Midtre Gauldalgnr./bnr. 405/1Midtre Gauldal kommune[Vedlegg 15](static/SF/sf-20111109-1088-k22-15-01.pdf)Granneset, Ranagnr./bnr. 78/2Rana kommune[Vedlegg 16](static/SF/sf-20111109-1088-k22-16-01.pdf)Steinbu Krukki, Ranagnr./bnr. 147/17Rana kommune[Vedlegg 17](static/SF/sf-20111109-1088-k22-17-01.pdf)Storjord, Saltdalgnr./bnr. 71/1Saltdal kommune[Vedlegg 18](static/SF/sf-20111109-1088-k22-18-01.pdf)Storjord løe, Saltdalgnr./bnr. 73/1Saltdal kommune[Vedlegg 19](static/SF/sf-20111109-1088-k22-19-01.pdf)Fossbua, Målselvgnr./bnr. 95/1Målselv kommune[Vedlegg 20](static/SF/sf-20111109-1088-k22-20-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Abborhøgda, Kongsvinger | gnr./bnr. 71/1 | Kongsvinger kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k22-01-01.pdf) |
+| Nordre Varaldskogen, Kongsvinger | gnr./bnr. 71/77 | Kongsvinger kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k22-02-01.pdf) |
+| Bekken brakkeleir, Rendalen | gnr./bnr. 80/1 | Rendalen kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k22-03-01.pdf) |
+| Ljørbu ved Galtstrømmen, Engerdal | gnr./bnr. 165/1 | Engerdal kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k22-04-01.pdf) |
+| Trollhaug, Ringebu | gnr./bnr. 196/1-129 | Ringebu kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k22-05-01.pdf) |
+| Sigurdshellerhyttene, Sirdal | gnr./bnr. 1/10 | Sirdal kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k22-06-01.pdf) |
+| Fautbua, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k22-07-01.pdf) |
+| Kløfthåbua, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k22-08-01.pdf) |
+| Langtjønnbua, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k22-09-01.pdf) |
+| Litjrennbua, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k22-10-01.pdf) |
+| Lortholbua, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k22-11-01.pdf) |
+| Fløterbu ved Rismosjøen, Røros | gnr./bnr. 56/1 | Røros kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k22-12-01.pdf) |
+| Fløterbu ved Roasten, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k22-13-01.pdf) |
+| Furubakken, Røros | gnr./bnr. 132/307 | Røros kommune | [Vedlegg 14](static/SF/sf-20111109-1088-k22-14-01.pdf) |
+| Stormoen, Midtre Gauldal | gnr./bnr. 405/1 | Midtre Gauldal kommune | [Vedlegg 15](static/SF/sf-20111109-1088-k22-15-01.pdf) |
+| Granneset, Rana | gnr./bnr. 78/2 | Rana kommune | [Vedlegg 16](static/SF/sf-20111109-1088-k22-16-01.pdf) |
+| Steinbu Krukki, Rana | gnr./bnr. 147/17 | Rana kommune | [Vedlegg 17](static/SF/sf-20111109-1088-k22-17-01.pdf) |
+| Storjord, Saltdal | gnr./bnr. 71/1 | Saltdal kommune | [Vedlegg 18](static/SF/sf-20111109-1088-k22-18-01.pdf) |
+| Storjord løe, Saltdal | gnr./bnr. 73/1 | Saltdal kommune | [Vedlegg 19](static/SF/sf-20111109-1088-k22-19-01.pdf) |
+| Fossbua, Målselv | gnr./bnr. 95/1 | Målselv kommune | [Vedlegg 20](static/SF/sf-20111109-1088-k22-20-01.pdf) |
 
 > Tilføyd ved [forskrift 24 okt 2017 nr. 1655](forskrift/2017-10-24-1655).
 
@@ -509,7 +788,23 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2019.
 
 ### § 23-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Uranienborg, Roald Amundsens hjemgnr./bnr. 35/62Nordre Follo kommune[Vedlegg 1](static/SF/sf-20111109-1088-k23-01-02.pdf)Bankplassen 3, Oslognr./bnr. 207/27Oslo kommune[Vedlegg 2](static/SF/sf-20111109-1088-k23-02-01.pdf)NRK Marienlystgnr./bnr. 46/107Oslo kommune[Vedlegg 3](static/SF/sf-20111109-1088-k23-03-01.pdf)Granittsøyler med statuer ved Nationaltheatretgnr./bnr. 209/354Oslo kommune[Vedlegg 4](static/SF/sf-20111109-1088-k23-04-01.pdf)Wergelandsveien 4, Grottengnr./bnr. 209/417Oslo kommune[Vedlegg 5](static/SF/sf-20111109-1088-k23-05-01.pdf)Bjørgan prestegårdgnr./bnr. 169/3, 169/1Tynset kommune[Vedlegg 6](static/SF/sf-20111109-1088-k23-06-01.pdf)Publikumsbygget ved Bjerkebæk, Sigrid Undsets hjemgnr./bnr. 50/49Lillehammer kommune[Vedlegg 7](static/SF/sf-20111109-1088-k23-07-01.pdf)Aulestad, Bjørnstjerne Bjørnsons eiendomgnr./bnr./fnr. 140/9, 140/9/1Gausdal kommune[Vedlegg 8](static/SF/sf-20111109-1088-k23-08-01.pdf)Statsarkivet i Bergengnr./bnr. 163/229Bergen kommune[Vedlegg 9](static/SF/sf-20111109-1088-k23-09-01.pdf)Erkebispegården i Trondheimgnr./bnr. 400/5, 403/74, 400/213Trondheim kommune[Vedlegg 10](static/SF/sf-20111109-1088-k23-10-01.pdf)Pyramiden og parken ved Austråttborgengnr./bnr. 82/51Ørland kommune[Vedlegg 11](static/SF/sf-20111109-1088-k23-11-01.pdf)Nordnorsk Kunstmuseum, Tromsøgnr./bnr. 200/1240Tromsø kommune[Vedlegg 12](static/SF/sf-20111109-1088-k23-12-01.pdf)NRK Sápmi, Karasjokgnr./bnr. 9/121, 9/134, 9/319Kárášjoga gielda – Karasjok kommune[Vedlegg 13](static/SF/sf-20111109-1088-k23-13-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Uranienborg, Roald Amundsens hjem | gnr./bnr. 35/62 | Nordre Follo kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k23-01-02.pdf) |
+| Bankplassen 3, Oslo | gnr./bnr. 207/27 | Oslo kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k23-02-01.pdf) |
+| NRK Marienlyst | gnr./bnr. 46/107 | Oslo kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k23-03-01.pdf) |
+| Granittsøyler med statuer ved Nationaltheatret | gnr./bnr. 209/354 | Oslo kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k23-04-01.pdf) |
+| Wergelandsveien 4, Grotten | gnr./bnr. 209/417 | Oslo kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k23-05-01.pdf) |
+| Bjørgan prestegård | gnr./bnr. 169/3, 169/1 | Tynset kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k23-06-01.pdf) |
+| Publikumsbygget ved Bjerkebæk, Sigrid Undsets hjem | gnr./bnr. 50/49 | Lillehammer kommune | [Vedlegg 7](static/SF/sf-20111109-1088-k23-07-01.pdf) |
+| Aulestad, Bjørnstjerne Bjørnsons eiendom | gnr./bnr./fnr. 140/9, 140/9/1 | Gausdal kommune | [Vedlegg 8](static/SF/sf-20111109-1088-k23-08-01.pdf) |
+| Statsarkivet i Bergen | gnr./bnr. 163/229 | Bergen kommune | [Vedlegg 9](static/SF/sf-20111109-1088-k23-09-01.pdf) |
+| Erkebispegården i Trondheim | gnr./bnr. 400/5, 403/74, 400/213 | Trondheim kommune | [Vedlegg 10](static/SF/sf-20111109-1088-k23-10-01.pdf) |
+| Pyramiden og parken ved Austråttborgen | gnr./bnr. 82/51 | Ørland kommune | [Vedlegg 11](static/SF/sf-20111109-1088-k23-11-01.pdf) |
+| Nordnorsk Kunstmuseum, Tromsø | gnr./bnr. 200/1240 | Tromsø kommune | [Vedlegg 12](static/SF/sf-20111109-1088-k23-12-01.pdf) |
+| NRK Sápmi, Karasjok | gnr./bnr. 9/121, 9/134, 9/319 | Kárášjoga gielda – Karasjok kommune | [Vedlegg 13](static/SF/sf-20111109-1088-k23-13-01.pdf) |
 
 > Tilføyd ved [forskrift 25 mai 2018 nr. 758](forskrift/2018-05-25-758), endret ved [forskrift 18 feb 2020 nr. 847](forskrift/2020-02-18-847).
 
@@ -532,7 +827,16 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2018.
 
 ### § 24-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Pollmak Tollstasjon, Tanagnr./bnr. 40/4Tana kommune[Vedlegg 1](static/SF/sf-20111109-1088-k24-01-01.pdf)Flødevigen, Arendalgnr./bnr. 305/173Arendal kommune[Vedlegg 2](static/SF/sf-20111109-1088-k24-02-01.pdf)Munkholmen, Trondheimgnr./bnr. 440/1Trondheim kommune[Vedlegg 3](static/SF/sf-20111109-1088-k24-03-01.pdf)Det gml. sykehusomr. Kongensg. 93, Trondheimgnr./bnr. 403/230Trondheim kommune[Vedlegg 4](static/SF/sf-20111109-1088-k24-04-01.pdf)Frogner Hovedgård, Skiengnr./bnr. 62/469Skien kommune[Vedlegg 5](static/SF/sf-20111109-1088-k24-05-01.pdf)Blaker Skanse, Sørumgnr./bnr. 118/3Sørum kommune[Vedlegg 6](static/SF/sf-20111109-1088-k24-06-02.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Pollmak Tollstasjon, Tana | gnr./bnr. 40/4 | Tana kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k24-01-01.pdf) |
+| Flødevigen, Arendal | gnr./bnr. 305/173 | Arendal kommune | [Vedlegg 2](static/SF/sf-20111109-1088-k24-02-01.pdf) |
+| Munkholmen, Trondheim | gnr./bnr. 440/1 | Trondheim kommune | [Vedlegg 3](static/SF/sf-20111109-1088-k24-03-01.pdf) |
+| Det gml. sykehusomr. Kongensg. 93, Trondheim | gnr./bnr. 403/230 | Trondheim kommune | [Vedlegg 4](static/SF/sf-20111109-1088-k24-04-01.pdf) |
+| Frogner Hovedgård, Skien | gnr./bnr. 62/469 | Skien kommune | [Vedlegg 5](static/SF/sf-20111109-1088-k24-05-01.pdf) |
+| Blaker Skanse, Sørum | gnr./bnr. 118/3 | Sørum kommune | [Vedlegg 6](static/SF/sf-20111109-1088-k24-06-02.pdf) |
 
 > Tilføyd ved [forskrift 21 sep 2018 nr. 1401](forskrift/2018-09-21-1401), endret ved [forskrift 18 feb 2020 nr. 847](forskrift/2020-02-18-847).
 
@@ -548,7 +852,11 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2019.
 
 ### § 25-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Trandumskogen, tanksskytebane og seremoniplassen, Ullensakergnr./bnr.190/1Ullensaker kommune[Vedlegg 1](static/SF/sf-20111109-1088-k25-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Trandumskogen, tanksskytebane og seremoniplassen, Ullensaker | gnr./bnr.190/1 | Ullensaker kommune | [Vedlegg 1](static/SF/sf-20111109-1088-k25-01-01.pdf) |
 
 > Tilføyd ved [forskrift 8 mai 2020 nr. 965](forskrift/2020-05-08-965).
 
@@ -564,7 +872,16 @@ Forvaltningsplan og skjøtselplan skal være utarbeidet innen utgangen av 2022.
 
 ### § 26-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Hakavik kraftverkgnr./bnr. 115/31, 115/1, 115/2, 115/3Øvre Eiker kommune[Vedlegg 26.1](static/SF/sf-20111109-1088-k26-01-01.pdf)Tokke Kraftverkgnr./bnr. 22/93Tokke kommune[Vedlegg 26.2](static/SF/sf-20111109-1088-k26-02-01.pdf)Sauda III kraftverkgnr./bnr. 46/249Sauda kommune[Vedlegg 26.3](static/SF/sf-20111109-1088-k26-03-01.pdf)Aura kraftverkgnr./bnr. 53/59, 54/5Sunndal kommune[Vedlegg 26.4](static/SF/sf-20111109-1088-k26-04-01.pdf)Nedre Røssåga kraftverkgnr./bnr. 108/14Hemnes kommune[Vedlegg 26.5](static/SF/sf-20111109-1088-k26-05-01.pdf)Glomfjord kraftverkgnr./bnr. 45/1, 45/2Meløy kommune[Vedlegg 26.6](static/SF/sf-20111109-1088-k26-06-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Hakavik kraftverk | gnr./bnr. 115/31, 115/1, 115/2, 115/3 | Øvre Eiker kommune | [Vedlegg 26.1](static/SF/sf-20111109-1088-k26-01-01.pdf) |
+| Tokke Kraftverk | gnr./bnr. 22/93 | Tokke kommune | [Vedlegg 26.2](static/SF/sf-20111109-1088-k26-02-01.pdf) |
+| Sauda III kraftverk | gnr./bnr. 46/249 | Sauda kommune | [Vedlegg 26.3](static/SF/sf-20111109-1088-k26-03-01.pdf) |
+| Aura kraftverk | gnr./bnr. 53/59, 54/5 | Sunndal kommune | [Vedlegg 26.4](static/SF/sf-20111109-1088-k26-04-01.pdf) |
+| Nedre Røssåga kraftverk | gnr./bnr. 108/14 | Hemnes kommune | [Vedlegg 26.5](static/SF/sf-20111109-1088-k26-05-01.pdf) |
+| Glomfjord kraftverk | gnr./bnr. 45/1, 45/2 | Meløy kommune | [Vedlegg 26.6](static/SF/sf-20111109-1088-k26-06-01.pdf) |
 
 > Tilføyd ved [forskrift 31 aug 2020 nr. 1699](forskrift/2020-08-31-1699).
 
@@ -580,7 +897,11 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av 2021.
 
 ### § 27-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Master med linjetrasegnr./bnr. 45/4Meløy kommune[Vedlegg 27.1](static/SF/sf-20111109-1088-k27-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Master med linjetrase | gnr./bnr. 45/4 | Meløy kommune | [Vedlegg 27.1](static/SF/sf-20111109-1088-k27-01-01.pdf) |
 
 > Tilføyd ved [forskrift 31 aug 2020 nr. 1700](forskrift/2020-08-31-1700).
 
@@ -602,44 +923,47 @@ Forvaltningsplan for mastene og tilhørende område skal være utarbeidet innen 
 
 ### § 28-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Vadsø basisKoordinater
-gnr./bnr. 8/1Vadsø kommune[Vedlegg 28.1](static/SF/sf-20111109-1088-k28-01-01.pdf)Seilandstuva vardeKoordinater
-gnr./bnr. 9/1Hammerfest kommune[Vedlegg 28.2](static/SF/sf-20111109-1088-k28-02-01.pdf)Tromsdalstinden vardeKoordinater
-gnr./bnr. 16/3, 28/3Tromsø kommune[Vedlegg 28.3](static/SF/sf-20111109-1088-k28-03-01.pdf)Store Blåmannen vardeKoordinater
-gnr./bnr. 0/0Tromsø kommune[Vedlegg 28.4](static/SF/sf-20111109-1088-k28-04-01.pdf)Blåtinden vardeKoordinater
-gnr./bnr. 0/0Balsfjord kommune[Vedlegg 28.5](static/SF/sf-20111109-1088-k28-05-01.pdf)Matmora vardeKoordinater
-gnr./bnr. 0/0Vågan kommune[Vedlegg 28.6](static/SF/sf-20111109-1088-k28-06-01.pdf)Lofotodden vardeKoordinater
-gnr./bnr. 0/0Moskenes kommune[Vedlegg 28.7](static/SF/sf-20111109-1088-k28-07-01.pdf)Kråktindan vardeKoordinater
-gnr./bnr. 1/2, 0/0Steigen kommune[Vedlegg 28.8](static/SF/sf-20111109-1088-k28-08-01.pdf)Majaklumpen vardeKoordinater
-gnr./bnr. 62/1Grane kommune[Vedlegg 28.9](static/SF/sf-20111109-1088-k28-09-01.pdf)Rinnleiret basisKoordinater
-gnr./bnr.17/3, 253/5Verdal kommune (basis N) Levanger kommune (basis S)[Vedlegg 28.10](static/SF/sf-20111109-1088-k28-10-01.pdf)Fonnfjellet vardeKoordinater
-gnr./bnr. 49/1Meråker kommune[Vedlegg 28.11](static/SF/sf-20111109-1088-k28-11-01.pdf)Hestgrovheia vardeKoordinater
-gnr./bnr. 97/2, 0/0Orkland kommune[Vedlegg 28.12](static/SF/sf-20111109-1088-k28-12-01.pdf)Sissihøa vardeKoordinater
-gnr./bnr. 356/1Oppdal kommune[Vedlegg 28.13](static/SF/sf-20111109-1088-k28-13-01.pdf)Blåhøa vardeKoordinater
-gnr./bnr. 356/1Oppdal kommune[Vedlegg 28.14](static/SF/sf-20111109-1088-k28-14-01.pdf)Melen vardeKoordinater
-gnr./bnr. 121/29, 13-21, 25, 34, 79/1, 0/0Hustadvika kommune[Vedlegg 28.15](static/SF/sf-20111109-1088-k28-15-01.pdf)Auskjeret vardeKoordinater
-gnr./bnr. 0/0Sykkylven kommune[Vedlegg 28.16](static/SF/sf-20111109-1088-k28-16-01.pdf)Elgspiggen vardeKoordinater
-gnr./bnr. 77/29, 10000/1Tolga kommune[Vedlegg 28.17](static/SF/sf-20111109-1088-k28-17-01.pdf)Rondslottet vardeKoordinater
-gnr./bnr. 229/1Folldal kommune[Vedlegg 28.18](static/SF/sf-20111109-1088-k28-18-01.pdf)Sølen vardeKoordinater
-gnr./bnr. 0/0Rendalen kommune[Vedlegg 28.19](static/SF/sf-20111109-1088-k28-19-01.pdf)Kvien vardeKoordinater
-gnr./bnr. 194/1, 197/1Ringebu kommune[Vedlegg 28.20](static/SF/sf-20111109-1088-k28-20-01.pdf)Prestkampen vardeKoordinater
-gnr./bnr. 240/1Gausdal kommune[Vedlegg 28.21](static/SF/sf-20111109-1088-k28-21-01.pdf)Tisleia basisKoordinater
-gnr./bnr. 9002/2Nord-Aurdal kommune[Vedlegg 28.22](static/SF/sf-20111109-1088-k28-22-02.pdf)Store Dyrhaugstind vardeKoordinater
-gnr./bnr. 215/1Luster kommune[Vedlegg 28.23](static/SF/sf-20111109-1088-k28-23-01.pdf)Alden vardeKoordinater
-gnr./bnr. 59/1Askvoll kommune[Vedlegg 28.24](static/SF/sf-20111109-1088-k28-24-01.pdf)Radøy basisKoordinater
-gnr./bnr. 93/4, 99/6Alver kommune[Vedlegg 28.25](static/SF/sf-20111109-1088-k28-25-01.pdf)Hårteigen vardeKoordinater
-gnr./bnr. 155/1Ullensvang kommune[Vedlegg 28.26](static/SF/sf-20111109-1088-k28-26-01.pdf)Melderskin vardeKoordinater
-gnr./bnr. 0/0Kvinnherad kommune[Vedlegg 28.27](static/SF/sf-20111109-1088-k28-27-01.pdf)Snønuten vardeKoordinater
-gnr./bnr. 55/1, 187/1Suldal kommune[Vedlegg 28.28](static/SF/sf-20111109-1088-k28-28-01.pdf)Synesvarden vardeKoordinater
-gnr./bnr. 51/4Time kommune[Vedlegg 28.29](static/SF/sf-20111109-1088-k28-29-01.pdf)Grubba vardeKoordinater
-gnr./bnr. 3/5, 3/6, 3/11Sirdal kommune[Vedlegg 28.30](static/SF/sf-20111109-1088-k28-30-01.pdf)Rustfjell vardeKoordinater
-gnr./bnr. 4/3, 9/2, 0/0Bygland kommune[Vedlegg 28.31](static/SF/sf-20111109-1088-k28-31-01.pdf)Tregde, Normal Null av 1954Koordinater
-gnr./bnr. 32/3Lindesnes kommune[Vedlegg 28.32](static/SF/sf-20111109-1088-k28-32-01.pdf)Bossnuten vardeKoordinater
-gnr./bnr. 157/1, 157/4Vinje kommune[Vedlegg 28.33](static/SF/sf-20111109-1088-k28-33-01.pdf)Nystølvarden vardeKoordinater
-gnr./bnr. 4/136Gol kommune[Vedlegg 28.34](static/SF/sf-20111109-1088-k28-34-01.pdf)Ustetind vardeKoordinater
-gnr./bnr. 69/2Hol kommune[Vedlegg 28.35](static/SF/sf-20111109-1088-k28-35-01.pdf)Ekeberg basisKoordinater
-gnr./bnr. 183/247, 151/5Oslo kommune[Vedlegg 28.36](static/SF/sf-20111109-1088-k28-36-01.pdf)Meridianmerket på LindøyaKoordinater
-gnr./bnr. 205/1Oslo kommune[Vedlegg 28.37](static/SF/sf-20111109-1088-k28-37-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Vadsø basis | Koordinater<br>gnr./bnr. 8/1 | Vadsø kommune | [Vedlegg 28.1](static/SF/sf-20111109-1088-k28-01-01.pdf) |
+| Seilandstuva varde | Koordinater<br>gnr./bnr. 9/1 | Hammerfest kommune | [Vedlegg 28.2](static/SF/sf-20111109-1088-k28-02-01.pdf) |
+| Tromsdalstinden varde | Koordinater<br>gnr./bnr. 16/3, 28/3 | Tromsø kommune | [Vedlegg 28.3](static/SF/sf-20111109-1088-k28-03-01.pdf) |
+| Store Blåmannen varde | Koordinater<br>gnr./bnr. 0/0 | Tromsø kommune | [Vedlegg 28.4](static/SF/sf-20111109-1088-k28-04-01.pdf) |
+| Blåtinden varde | Koordinater<br>gnr./bnr. 0/0 | Balsfjord kommune | [Vedlegg 28.5](static/SF/sf-20111109-1088-k28-05-01.pdf) |
+| Matmora varde | Koordinater<br>gnr./bnr. 0/0 | Vågan kommune | [Vedlegg 28.6](static/SF/sf-20111109-1088-k28-06-01.pdf) |
+| Lofotodden varde | Koordinater<br>gnr./bnr. 0/0 | Moskenes kommune | [Vedlegg 28.7](static/SF/sf-20111109-1088-k28-07-01.pdf) |
+| Kråktindan varde | Koordinater<br>gnr./bnr. 1/2, 0/0 | Steigen kommune | [Vedlegg 28.8](static/SF/sf-20111109-1088-k28-08-01.pdf) |
+| Majaklumpen varde | Koordinater<br>gnr./bnr. 62/1 | Grane kommune | [Vedlegg 28.9](static/SF/sf-20111109-1088-k28-09-01.pdf) |
+| Rinnleiret basis | Koordinater<br>gnr./bnr.17/3, 253/5 | Verdal kommune (basis N) Levanger kommune (basis S) | [Vedlegg 28.10](static/SF/sf-20111109-1088-k28-10-01.pdf) |
+| Fonnfjellet varde | Koordinater<br>gnr./bnr. 49/1 | Meråker kommune | [Vedlegg 28.11](static/SF/sf-20111109-1088-k28-11-01.pdf) |
+| Hestgrovheia varde | Koordinater<br>gnr./bnr. 97/2, 0/0 | Orkland kommune | [Vedlegg 28.12](static/SF/sf-20111109-1088-k28-12-01.pdf) |
+| Sissihøa varde | Koordinater<br>gnr./bnr. 356/1 | Oppdal kommune | [Vedlegg 28.13](static/SF/sf-20111109-1088-k28-13-01.pdf) |
+| Blåhøa varde | Koordinater<br>gnr./bnr. 356/1 | Oppdal kommune | [Vedlegg 28.14](static/SF/sf-20111109-1088-k28-14-01.pdf) |
+| Melen varde | Koordinater<br>gnr./bnr. 121/29, 13-21, 25, 34, 79/1, 0/0 | Hustadvika kommune | [Vedlegg 28.15](static/SF/sf-20111109-1088-k28-15-01.pdf) |
+| Auskjeret varde | Koordinater<br>gnr./bnr. 0/0 | Sykkylven kommune | [Vedlegg 28.16](static/SF/sf-20111109-1088-k28-16-01.pdf) |
+| Elgspiggen varde | Koordinater<br>gnr./bnr. 77/29, 10000/1 | Tolga kommune | [Vedlegg 28.17](static/SF/sf-20111109-1088-k28-17-01.pdf) |
+| Rondslottet varde | Koordinater<br>gnr./bnr. 229/1 | Folldal kommune | [Vedlegg 28.18](static/SF/sf-20111109-1088-k28-18-01.pdf) |
+| Sølen varde | Koordinater<br>gnr./bnr. 0/0 | Rendalen kommune | [Vedlegg 28.19](static/SF/sf-20111109-1088-k28-19-01.pdf) |
+| Kvien varde | Koordinater<br>gnr./bnr. 194/1, 197/1 | Ringebu kommune | [Vedlegg 28.20](static/SF/sf-20111109-1088-k28-20-01.pdf) |
+| Prestkampen varde | Koordinater<br>gnr./bnr. 240/1 | Gausdal kommune | [Vedlegg 28.21](static/SF/sf-20111109-1088-k28-21-01.pdf) |
+| Tisleia basis | Koordinater<br>gnr./bnr. 9002/2 | Nord-Aurdal kommune | [Vedlegg 28.22](static/SF/sf-20111109-1088-k28-22-02.pdf) |
+| Store Dyrhaugstind varde | Koordinater<br>gnr./bnr. 215/1 | Luster kommune | [Vedlegg 28.23](static/SF/sf-20111109-1088-k28-23-01.pdf) |
+| Alden varde | Koordinater<br>gnr./bnr. 59/1 | Askvoll kommune | [Vedlegg 28.24](static/SF/sf-20111109-1088-k28-24-01.pdf) |
+| Radøy basis | Koordinater<br>gnr./bnr. 93/4, 99/6 | Alver kommune | [Vedlegg 28.25](static/SF/sf-20111109-1088-k28-25-01.pdf) |
+| Hårteigen varde | Koordinater<br>gnr./bnr. 155/1 | Ullensvang kommune | [Vedlegg 28.26](static/SF/sf-20111109-1088-k28-26-01.pdf) |
+| Melderskin varde | Koordinater<br>gnr./bnr. 0/0 | Kvinnherad kommune | [Vedlegg 28.27](static/SF/sf-20111109-1088-k28-27-01.pdf) |
+| Snønuten varde | Koordinater<br>gnr./bnr. 55/1, 187/1 | Suldal kommune | [Vedlegg 28.28](static/SF/sf-20111109-1088-k28-28-01.pdf) |
+| Synesvarden varde | Koordinater<br>gnr./bnr. 51/4 | Time kommune | [Vedlegg 28.29](static/SF/sf-20111109-1088-k28-29-01.pdf) |
+| Grubba varde | Koordinater<br>gnr./bnr. 3/5, 3/6, 3/11 | Sirdal kommune | [Vedlegg 28.30](static/SF/sf-20111109-1088-k28-30-01.pdf) |
+| Rustfjell varde | Koordinater<br>gnr./bnr. 4/3, 9/2, 0/0 | Bygland kommune | [Vedlegg 28.31](static/SF/sf-20111109-1088-k28-31-01.pdf) |
+| Tregde, Normal Null av 1954 | Koordinater<br>gnr./bnr. 32/3 | Lindesnes kommune | [Vedlegg 28.32](static/SF/sf-20111109-1088-k28-32-01.pdf) |
+| Bossnuten varde | Koordinater<br>gnr./bnr. 157/1, 157/4 | Vinje kommune | [Vedlegg 28.33](static/SF/sf-20111109-1088-k28-33-01.pdf) |
+| Nystølvarden varde | Koordinater<br>gnr./bnr. 4/136 | Gol kommune | [Vedlegg 28.34](static/SF/sf-20111109-1088-k28-34-01.pdf) |
+| Ustetind varde | Koordinater<br>gnr./bnr. 69/2 | Hol kommune | [Vedlegg 28.35](static/SF/sf-20111109-1088-k28-35-01.pdf) |
+| Ekeberg basis | Koordinater<br>gnr./bnr. 183/247, 151/5 | Oslo kommune | [Vedlegg 28.36](static/SF/sf-20111109-1088-k28-36-01.pdf) |
+| Meridianmerket på Lindøya | Koordinater<br>gnr./bnr. 205/1 | Oslo kommune | [Vedlegg 28.37](static/SF/sf-20111109-1088-k28-37-01.pdf) |
 
 > Tilføyd ved forskrift [10 nov 2022 nr. 1957](forskrift/2022-11-10-1957), endret ved forskrift [2 des 2022 nr. 2072](forskrift/2022-12-02-2072).
 
@@ -655,7 +979,58 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av år 2026.
 
 ### § 29-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Jordanfoss trallebaneKoordinaterSør-Varanger kommune[Vedlegg 29.1](static/SF/sf-20111109-1088-k29-01-01.pdf)Finnkongkeila fiskeværsvegKoordinaterGamvik kommune[Vedlegg 29.2](static/SF/sf-20111109-1088-k29-02-01.pdf)Riksveg 50 – BørselvfjelletKoordinaterLebesby og Porsanger – Porsánjgu – Porsanki kommuner[Vedlegg 29.3](static/SF/sf-20111109-1088-k29-03-01.pdf)Børselvfjellet høyfjellsvegKoordinaterLebesby kommune[Vedlegg 29.4](static/SF/sf-20111109-1088-k29-04-01.pdf)Bæskades varderekkeKoordinaterAlta og Kautokeino – Guovdageaidnu kommune[Vedlegg 29.5](static/SF/sf-20111109-1088-k29-05-01.pdf)BæskadesvegenKoordinaterAlta og Kautokeino – Guovdageaidnu kommune[Vedlegg 29.6](static/SF/sf-20111109-1088-k29-06-01.pdf)Kobbevåg gamle vegKoordinaterHasvik kommune[Vedlegg 29.7](static/SF/sf-20111109-1088-k29-07-01.pdf)Kobbevåg – HasvågveienKoordinaterHasvik kommune[Vedlegg 29.8](static/SF/sf-20111109-1088-k29-08-01.pdf)Gammelvegen – ØksfjordKoordinaterLoppa og Alta kommuner[Vedlegg 29.9](static/SF/sf-20111109-1088-k29-09-01.pdf)EfjordKoordinaterNarvik kommune[Vedlegg 29.10](static/SF/sf-20111109-1088-k29-10-01.pdf)SulitjelmavegenKoordinaterFauske – Fuossko kommune[Vedlegg 29.11](static/SF/sf-20111109-1088-k29-11-01.pdf)Junkerdalsura mellomriksvegKoordinaterSaltdal kommune[Vedlegg 29.12](static/SF/sf-20111109-1088-k29-12-01.pdf)Riksveg 50 – SaltfjelletKoordinaterSaltdal og Rana kommuner[Vedlegg 29.13](static/SF/sf-20111109-1088-k29-13-01.pdf)StraumholvegenKoordinaterOsen kommune[Vedlegg 29.14](static/SF/sf-20111109-1088-k29-14-01.pdf)Karl Johans vegKoordinaterVerdal kommune[Vedlegg 29.15](static/SF/sf-20111109-1088-k29-15-01.pdf)AtlanterhavsvegenKoordinaterHustadvika og Averøy kommuner[Vedlegg 29.16](static/SF/sf-20111109-1088-k29-16-01.pdf)Gamle hovedveg SkiriKoordinaterRauma kommune[Vedlegg 29.17](static/SF/sf-20111109-1088-k29-17-01.pdf)Romsdalsvegen Marstein–SkiriKoordinaterRauma kommune[Vedlegg 29.18](static/SF/sf-20111109-1088-k29-18-01.pdf)GeirangervegenKoordinaterStranda kommune[Vedlegg 29.19](static/SF/sf-20111109-1088-k29-19-01.pdf)Gamle StrynefjellsvegKoordinaterStryn og Skjåk kommuner[Vedlegg 29.20](static/SF/sf-20111109-1088-k29-20-01.pdf)Nye StrynefjellsvegKoordinaterStryn og Skjåk kommuner[Vedlegg 29.21](static/SF/sf-20111109-1088-k29-21-01.pdf)Trondhjemske Postvei – GulenKoordinaterGulen kommune[Vedlegg 29.22](static/SF/sf-20111109-1088-k29-22-01.pdf)Bergenske eldste Hovedveg – 1840-talletKoordinaterLærdal kommune[Vedlegg 29.23](static/SF/sf-20111109-1088-k29-23-01.pdf)Bergenske Hovedveg – 1870-talletKoordinaterLærdal kommune[Vedlegg 29.24](static/SF/sf-20111109-1088-k29-24-01.pdf)Bergenske kongevegKoordinaterLærdal kommune[Vedlegg 29.25](static/SF/sf-20111109-1088-k29-25-01.pdf)Lærdal omkjøringsvegKoordinaterLærdal kommune[Vedlegg 29.26](static/SF/sf-20111109-1088-k29-26-01.pdf)StalheimskleivaKoordinaterVoss kommune[Vedlegg 29.27](static/SF/sf-20111109-1088-k29-27-01.pdf)Tokagjelet hovedvegKoordinaterKvam kommune[Vedlegg 29.28](static/SF/sf-20111109-1088-k29-28-01.pdf)Måbødalen hovedvegKoordinaterEidfjord kommune[Vedlegg 29.29](static/SF/sf-20111109-1088-k29-29-01.pdf)Gamle Haukeliveg – AustmannaliaKoordinaterUllensvang kommune[Vedlegg 29.30](static/SF/sf-20111109-1088-k29-30-01.pdf)Gamle HaukelivegKoordinaterUllensvang kommune[Vedlegg 29.31](static/SF/sf-20111109-1088-k29-31-01.pdf)Bratlandsdalen hovedvegKoordinaterSuldal kommune[Vedlegg 29.32](static/SF/sf-20111109-1088-k29-32-01.pdf)Vestlandske hovedveg – TronåsenKoordinaterFlekkefjord og Lund kommuner[Vedlegg 29.33](static/SF/sf-20111109-1088-k29-33-01.pdf)Vestlandske hovedveg – Lavoll–FlikkeidKoordinaterFlekkefjord kommune[Vedlegg 29.34](static/SF/sf-20111109-1088-k29-34-01.pdf)Sørlandske hovedveg – FosselandsheiaKoordinaterKvinesdal og Flekkefjord kommuner[Vedlegg 29.35](static/SF/sf-20111109-1088-k29-35-01.pdf)Setesdalske postveg – FånefjellKoordinaterBygland kommune[Vedlegg 29.36](static/SF/sf-20111109-1088-k29-36-01.pdf)Gamle Setesdalsveg – FånefjellKoordinaterBygland kommune[Vedlegg 29.37](static/SF/sf-20111109-1088-k29-37-01.pdf)FånefjelltunnelenKoordinaterBygland kommune[Vedlegg 29.38](static/SF/sf-20111109-1088-k29-38-01.pdf)Setesdalsvegen – LangevatnKoordinaterVennesla kommune[Vedlegg 29.39](static/SF/sf-20111109-1088-k29-39-01.pdf)Simonstad kompensasjonsvegKoordinaterÅmli kommune[Vedlegg 29.40](static/SF/sf-20111109-1088-k29-40-01.pdf)ParadisbakkeneKoordinaterLier kommune[Vedlegg 29.41](static/SF/sf-20111109-1088-k29-41-01.pdf)E18 LierKoordinaterLier kommune[Vedlegg 29.42](static/SF/sf-20111109-1088-k29-42-01.pdf)Korketrekkeren ÅmotKoordinaterModum kommune[Vedlegg 29.43](static/SF/sf-20111109-1088-k29-43-01.pdf)Veien gang- og sykkelvegKoordinaterRingerike kommune[Vedlegg 29.44](static/SF/sf-20111109-1088-k29-44-01.pdf)E6 HølenKoordinaterVestby kommune[Vedlegg 29.45](static/SF/sf-20111109-1088-k29-45-01.pdf)BerbyvegenKoordinaterHalden kommune[Vedlegg 29.46](static/SF/sf-20111109-1088-k29-46-01.pdf)St. Halvardsgate/StrømsveienKoordinaterOslo kommune[Vedlegg 29.47](static/SF/sf-20111109-1088-k29-47-01.pdf)MesnadalsarmenKoordinaterLillehammer kommune[Vedlegg 29.48](static/SF/sf-20111109-1088-k29-48-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Jordanfoss trallebane | Koordinater | Sør-Varanger kommune | [Vedlegg 29.1](static/SF/sf-20111109-1088-k29-01-01.pdf) |
+| Finnkongkeila fiskeværsveg | Koordinater | Gamvik kommune | [Vedlegg 29.2](static/SF/sf-20111109-1088-k29-02-01.pdf) |
+| Riksveg 50 – Børselvfjellet | Koordinater | Lebesby og Porsanger – Porsánjgu – Porsanki kommuner | [Vedlegg 29.3](static/SF/sf-20111109-1088-k29-03-01.pdf) |
+| Børselvfjellet høyfjellsveg | Koordinater | Lebesby kommune | [Vedlegg 29.4](static/SF/sf-20111109-1088-k29-04-01.pdf) |
+| Bæskades varderekke | Koordinater | Alta og Kautokeino – Guovdageaidnu kommune | [Vedlegg 29.5](static/SF/sf-20111109-1088-k29-05-01.pdf) |
+| Bæskadesvegen | Koordinater | Alta og Kautokeino – Guovdageaidnu kommune | [Vedlegg 29.6](static/SF/sf-20111109-1088-k29-06-01.pdf) |
+| Kobbevåg gamle veg | Koordinater | Hasvik kommune | [Vedlegg 29.7](static/SF/sf-20111109-1088-k29-07-01.pdf) |
+| Kobbevåg – Hasvågveien | Koordinater | Hasvik kommune | [Vedlegg 29.8](static/SF/sf-20111109-1088-k29-08-01.pdf) |
+| Gammelvegen – Øksfjord | Koordinater | Loppa og Alta kommuner | [Vedlegg 29.9](static/SF/sf-20111109-1088-k29-09-01.pdf) |
+| Efjord | Koordinater | Narvik kommune | [Vedlegg 29.10](static/SF/sf-20111109-1088-k29-10-01.pdf) |
+| Sulitjelmavegen | Koordinater | Fauske – Fuossko kommune | [Vedlegg 29.11](static/SF/sf-20111109-1088-k29-11-01.pdf) |
+| Junkerdalsura mellomriksveg | Koordinater | Saltdal kommune | [Vedlegg 29.12](static/SF/sf-20111109-1088-k29-12-01.pdf) |
+| Riksveg 50 – Saltfjellet | Koordinater | Saltdal og Rana kommuner | [Vedlegg 29.13](static/SF/sf-20111109-1088-k29-13-01.pdf) |
+| Straumholvegen | Koordinater | Osen kommune | [Vedlegg 29.14](static/SF/sf-20111109-1088-k29-14-01.pdf) |
+| Karl Johans veg | Koordinater | Verdal kommune | [Vedlegg 29.15](static/SF/sf-20111109-1088-k29-15-01.pdf) |
+| Atlanterhavsvegen | Koordinater | Hustadvika og Averøy kommuner | [Vedlegg 29.16](static/SF/sf-20111109-1088-k29-16-01.pdf) |
+| Gamle hovedveg Skiri | Koordinater | Rauma kommune | [Vedlegg 29.17](static/SF/sf-20111109-1088-k29-17-01.pdf) |
+| Romsdalsvegen Marstein–Skiri | Koordinater | Rauma kommune | [Vedlegg 29.18](static/SF/sf-20111109-1088-k29-18-01.pdf) |
+| Geirangervegen | Koordinater | Stranda kommune | [Vedlegg 29.19](static/SF/sf-20111109-1088-k29-19-01.pdf) |
+| Gamle Strynefjellsveg | Koordinater | Stryn og Skjåk kommuner | [Vedlegg 29.20](static/SF/sf-20111109-1088-k29-20-01.pdf) |
+| Nye Strynefjellsveg | Koordinater | Stryn og Skjåk kommuner | [Vedlegg 29.21](static/SF/sf-20111109-1088-k29-21-01.pdf) |
+| Trondhjemske Postvei – Gulen | Koordinater | Gulen kommune | [Vedlegg 29.22](static/SF/sf-20111109-1088-k29-22-01.pdf) |
+| Bergenske eldste Hovedveg – 1840-tallet | Koordinater | Lærdal kommune | [Vedlegg 29.23](static/SF/sf-20111109-1088-k29-23-01.pdf) |
+| Bergenske Hovedveg – 1870-tallet | Koordinater | Lærdal kommune | [Vedlegg 29.24](static/SF/sf-20111109-1088-k29-24-01.pdf) |
+| Bergenske kongeveg | Koordinater | Lærdal kommune | [Vedlegg 29.25](static/SF/sf-20111109-1088-k29-25-01.pdf) |
+| Lærdal omkjøringsveg | Koordinater | Lærdal kommune | [Vedlegg 29.26](static/SF/sf-20111109-1088-k29-26-01.pdf) |
+| Stalheimskleiva | Koordinater | Voss kommune | [Vedlegg 29.27](static/SF/sf-20111109-1088-k29-27-01.pdf) |
+| Tokagjelet hovedveg | Koordinater | Kvam kommune | [Vedlegg 29.28](static/SF/sf-20111109-1088-k29-28-01.pdf) |
+| Måbødalen hovedveg | Koordinater | Eidfjord kommune | [Vedlegg 29.29](static/SF/sf-20111109-1088-k29-29-01.pdf) |
+| Gamle Haukeliveg – Austmannalia | Koordinater | Ullensvang kommune | [Vedlegg 29.30](static/SF/sf-20111109-1088-k29-30-01.pdf) |
+| Gamle Haukeliveg | Koordinater | Ullensvang kommune | [Vedlegg 29.31](static/SF/sf-20111109-1088-k29-31-01.pdf) |
+| Bratlandsdalen hovedveg | Koordinater | Suldal kommune | [Vedlegg 29.32](static/SF/sf-20111109-1088-k29-32-01.pdf) |
+| Vestlandske hovedveg – Tronåsen | Koordinater | Flekkefjord og Lund kommuner | [Vedlegg 29.33](static/SF/sf-20111109-1088-k29-33-01.pdf) |
+| Vestlandske hovedveg – Lavoll–Flikkeid | Koordinater | Flekkefjord kommune | [Vedlegg 29.34](static/SF/sf-20111109-1088-k29-34-01.pdf) |
+| Sørlandske hovedveg – Fosselandsheia | Koordinater | Kvinesdal og Flekkefjord kommuner | [Vedlegg 29.35](static/SF/sf-20111109-1088-k29-35-01.pdf) |
+| Setesdalske postveg – Fånefjell | Koordinater | Bygland kommune | [Vedlegg 29.36](static/SF/sf-20111109-1088-k29-36-01.pdf) |
+| Gamle Setesdalsveg – Fånefjell | Koordinater | Bygland kommune | [Vedlegg 29.37](static/SF/sf-20111109-1088-k29-37-01.pdf) |
+| Fånefjelltunnelen | Koordinater | Bygland kommune | [Vedlegg 29.38](static/SF/sf-20111109-1088-k29-38-01.pdf) |
+| Setesdalsvegen – Langevatn | Koordinater | Vennesla kommune | [Vedlegg 29.39](static/SF/sf-20111109-1088-k29-39-01.pdf) |
+| Simonstad kompensasjonsveg | Koordinater | Åmli kommune | [Vedlegg 29.40](static/SF/sf-20111109-1088-k29-40-01.pdf) |
+| Paradisbakkene | Koordinater | Lier kommune | [Vedlegg 29.41](static/SF/sf-20111109-1088-k29-41-01.pdf) |
+| E18 Lier | Koordinater | Lier kommune | [Vedlegg 29.42](static/SF/sf-20111109-1088-k29-42-01.pdf) |
+| Korketrekkeren Åmot | Koordinater | Modum kommune | [Vedlegg 29.43](static/SF/sf-20111109-1088-k29-43-01.pdf) |
+| Veien gang- og sykkelveg | Koordinater | Ringerike kommune | [Vedlegg 29.44](static/SF/sf-20111109-1088-k29-44-01.pdf) |
+| E6 Hølen | Koordinater | Vestby kommune | [Vedlegg 29.45](static/SF/sf-20111109-1088-k29-45-01.pdf) |
+| Berbyvegen | Koordinater | Halden kommune | [Vedlegg 29.46](static/SF/sf-20111109-1088-k29-46-01.pdf) |
+| St. Halvardsgate/Strømsveien | Koordinater | Oslo kommune | [Vedlegg 29.47](static/SF/sf-20111109-1088-k29-47-01.pdf) |
+| Mesnadalsarmen | Koordinater | Lillehammer kommune | [Vedlegg 29.48](static/SF/sf-20111109-1088-k29-48-01.pdf) |
 
 > Tilføyd ved [forskrift 17 nov 2022 nr. 1970](forskrift/2022-11-17-1970).
 
@@ -677,7 +1052,47 @@ På Romsdalsvegen Marstein–Skiri tillates det oppgradering av veien i gjeldend
 
 ### § 30-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Strømmen bruKoordinaterBåtsfjord kommune[Vedlegg 30.1](static/SF/sf-20111109-1088-k30-01-01.pdf)Kalvebakken hvelvbruKoordinaterTromsø kommune[Vedlegg 30.2](static/SF/sf-20111109-1088-k30-02-01.pdf)Kalvebakken bjelkebruKoordinaterTromsø kommune[Vedlegg 30.3](static/SF/sf-20111109-1088-k30-03-01.pdf)Kalvebakken bruKoordinaterTromsø kommune[Vedlegg 30.4](static/SF/sf-20111109-1088-k30-04-01.pdf)TromsøbruaKoordinaterTromsø kommune[Vedlegg 30.5](static/SF/sf-20111109-1088-k30-05-01.pdf)SaltstraumbruaKoordinaterBodø kommune[Vedlegg 30.6](static/SF/sf-20111109-1088-k30-06-01.pdf)Djevledalsbekken bruKoordinaterSaltdal kommune[Vedlegg 30.7](static/SF/sf-20111109-1088-k30-07-01.pdf)Kollstraumen bru og tunnelKoordinaterBindal kommune[Vedlegg 30.8](static/SF/sf-20111109-1088-k30-08-01.pdf)Leir bruKoordinaterGrong kommune[Vedlegg 30.9](static/SF/sf-20111109-1088-k30-09-01.pdf)NamsbruaKoordinaterNamsos – Nåavmesjenjaelmie kommune[Vedlegg 30.10](static/SF/sf-20111109-1088-k30-10-01.pdf)StraumbruaKoordinaterInderøy kommune[Vedlegg 30.11](static/SF/sf-20111109-1088-k30-11-01.pdf)SkarnsundbruaKoordinaterInderøy kommune[Vedlegg 30.12](static/SF/sf-20111109-1088-k30-12-01.pdf)Elgeseter bruKoordinaterTrondheim – Tråante kommune[Vedlegg 30.13](static/SF/sf-20111109-1088-k30-13-01.pdf)BergsøysundbruaKoordinaterGjemnes og Tingvoll kommuner[Vedlegg 30.14](static/SF/sf-20111109-1088-k30-14-01.pdf)Salhus ferjekaiKoordinaterBergen kommune[Vedlegg 30.15](static/SF/sf-20111109-1088-k30-15-01.pdf)Grjotland bruKoordinaterVoss kommune[Vedlegg 30.16](static/SF/sf-20111109-1088-k30-16-01.pdf)Trolljuv bru og tunnelerKoordinaterEtne kommune[Vedlegg 30.17](static/SF/sf-20111109-1088-k30-17-01.pdf)Strømsund bruKoordinaterKarmøy kommune[Vedlegg 30.18](static/SF/sf-20111109-1088-k30-18-01.pdf)Terland KloppKoordinaterEigersund kommune[Vedlegg 30.19](static/SF/sf-20111109-1088-k30-19-01.pdf)Gamle Bjelland bruKoordinaterLindesnes kommune[Vedlegg 30.20](static/SF/sf-20111109-1088-k30-20-01.pdf)Bjelland bruKoordinaterLindesnes kommune[Vedlegg 30.21](static/SF/sf-20111109-1088-k30-21-01.pdf)Kjevik bruKoordinaterKristiansand kommune[Vedlegg 30.22](static/SF/sf-20111109-1088-k30-22-01.pdf)Østerhus bruKoordinaterÅseral kommune[Vedlegg 30.23](static/SF/sf-20111109-1088-k30-23-01.pdf)Storstraumen gamle bruerKoordinaterBygland kommune[Vedlegg 30.24](static/SF/sf-20111109-1088-k30-24-01.pdf)Storstraumen nye bruerKoordinaterBygland kommune[Vedlegg 30.25](static/SF/sf-20111109-1088-k30-25-01.pdf)Fosstveit bruKoordinaterTvedestrand kommune[Vedlegg 30.26](static/SF/sf-20111109-1088-k30-26-01.pdf)Brevik bruKoordinaterBamble og Porsgrunn kommuner[Vedlegg 30.27](static/SF/sf-20111109-1088-k30-27-01.pdf)GrenlandsbruaKoordinaterBamble og Porsgrunn kommuner[Vedlegg 30.28](static/SF/sf-20111109-1088-k30-28-01.pdf)Bommestad bruKoordinaterLarvik kommune[Vedlegg 30.29](static/SF/sf-20111109-1088-k30-29-01.pdf)Tønsberg kanalbruKoordinaterTønsberg kommune[Vedlegg 30.30](static/SF/sf-20111109-1088-k30-30-01.pdf)Gulsvik gamle bruKoordinaterFlå kommune[Vedlegg 30.31](static/SF/sf-20111109-1088-k30-31-01.pdf)Løka gamle bruKoordinaterKongsberg kommune[Vedlegg 30.32](static/SF/sf-20111109-1088-k30-32-01.pdf)Fredrikstad bruKoordinaterFredrikstad kommune[Vedlegg 30.33](static/SF/sf-20111109-1088-k30-33-01.pdf)Langset bruKoordinaterEidsvoll kommune[Vedlegg 30.34](static/SF/sf-20111109-1088-k30-34-01.pdf)Minnesund bruKoordinaterEidsvoll kommune[Vedlegg 30.35](static/SF/sf-20111109-1088-k30-35-01.pdf)Sagkrakken gangbruKoordinaterOslo kommune[Vedlegg 30.36](static/SF/sf-20111109-1088-k30-36-01.pdf)Fiskevollbukta gang- og sykkelbruKoordinaterOslo kommune[Vedlegg 30.37](static/SF/sf-20111109-1088-k30-37-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Strømmen bru | Koordinater | Båtsfjord kommune | [Vedlegg 30.1](static/SF/sf-20111109-1088-k30-01-01.pdf) |
+| Kalvebakken hvelvbru | Koordinater | Tromsø kommune | [Vedlegg 30.2](static/SF/sf-20111109-1088-k30-02-01.pdf) |
+| Kalvebakken bjelkebru | Koordinater | Tromsø kommune | [Vedlegg 30.3](static/SF/sf-20111109-1088-k30-03-01.pdf) |
+| Kalvebakken bru | Koordinater | Tromsø kommune | [Vedlegg 30.4](static/SF/sf-20111109-1088-k30-04-01.pdf) |
+| Tromsøbrua | Koordinater | Tromsø kommune | [Vedlegg 30.5](static/SF/sf-20111109-1088-k30-05-01.pdf) |
+| Saltstraumbrua | Koordinater | Bodø kommune | [Vedlegg 30.6](static/SF/sf-20111109-1088-k30-06-01.pdf) |
+| Djevledalsbekken bru | Koordinater | Saltdal kommune | [Vedlegg 30.7](static/SF/sf-20111109-1088-k30-07-01.pdf) |
+| Kollstraumen bru og tunnel | Koordinater | Bindal kommune | [Vedlegg 30.8](static/SF/sf-20111109-1088-k30-08-01.pdf) |
+| Leir bru | Koordinater | Grong kommune | [Vedlegg 30.9](static/SF/sf-20111109-1088-k30-09-01.pdf) |
+| Namsbrua | Koordinater | Namsos – Nåavmesjenjaelmie kommune | [Vedlegg 30.10](static/SF/sf-20111109-1088-k30-10-01.pdf) |
+| Straumbrua | Koordinater | Inderøy kommune | [Vedlegg 30.11](static/SF/sf-20111109-1088-k30-11-01.pdf) |
+| Skarnsundbrua | Koordinater | Inderøy kommune | [Vedlegg 30.12](static/SF/sf-20111109-1088-k30-12-01.pdf) |
+| Elgeseter bru | Koordinater | Trondheim – Tråante kommune | [Vedlegg 30.13](static/SF/sf-20111109-1088-k30-13-01.pdf) |
+| Bergsøysundbrua | Koordinater | Gjemnes og Tingvoll kommuner | [Vedlegg 30.14](static/SF/sf-20111109-1088-k30-14-01.pdf) |
+| Salhus ferjekai | Koordinater | Bergen kommune | [Vedlegg 30.15](static/SF/sf-20111109-1088-k30-15-01.pdf) |
+| Grjotland bru | Koordinater | Voss kommune | [Vedlegg 30.16](static/SF/sf-20111109-1088-k30-16-01.pdf) |
+| Trolljuv bru og tunneler | Koordinater | Etne kommune | [Vedlegg 30.17](static/SF/sf-20111109-1088-k30-17-01.pdf) |
+| Strømsund bru | Koordinater | Karmøy kommune | [Vedlegg 30.18](static/SF/sf-20111109-1088-k30-18-01.pdf) |
+| Terland Klopp | Koordinater | Eigersund kommune | [Vedlegg 30.19](static/SF/sf-20111109-1088-k30-19-01.pdf) |
+| Gamle Bjelland bru | Koordinater | Lindesnes kommune | [Vedlegg 30.20](static/SF/sf-20111109-1088-k30-20-01.pdf) |
+| Bjelland bru | Koordinater | Lindesnes kommune | [Vedlegg 30.21](static/SF/sf-20111109-1088-k30-21-01.pdf) |
+| Kjevik bru | Koordinater | Kristiansand kommune | [Vedlegg 30.22](static/SF/sf-20111109-1088-k30-22-01.pdf) |
+| Østerhus bru | Koordinater | Åseral kommune | [Vedlegg 30.23](static/SF/sf-20111109-1088-k30-23-01.pdf) |
+| Storstraumen gamle bruer | Koordinater | Bygland kommune | [Vedlegg 30.24](static/SF/sf-20111109-1088-k30-24-01.pdf) |
+| Storstraumen nye bruer | Koordinater | Bygland kommune | [Vedlegg 30.25](static/SF/sf-20111109-1088-k30-25-01.pdf) |
+| Fosstveit bru | Koordinater | Tvedestrand kommune | [Vedlegg 30.26](static/SF/sf-20111109-1088-k30-26-01.pdf) |
+| Brevik bru | Koordinater | Bamble og Porsgrunn kommuner | [Vedlegg 30.27](static/SF/sf-20111109-1088-k30-27-01.pdf) |
+| Grenlandsbrua | Koordinater | Bamble og Porsgrunn kommuner | [Vedlegg 30.28](static/SF/sf-20111109-1088-k30-28-01.pdf) |
+| Bommestad bru | Koordinater | Larvik kommune | [Vedlegg 30.29](static/SF/sf-20111109-1088-k30-29-01.pdf) |
+| Tønsberg kanalbru | Koordinater | Tønsberg kommune | [Vedlegg 30.30](static/SF/sf-20111109-1088-k30-30-01.pdf) |
+| Gulsvik gamle bru | Koordinater | Flå kommune | [Vedlegg 30.31](static/SF/sf-20111109-1088-k30-31-01.pdf) |
+| Løka gamle bru | Koordinater | Kongsberg kommune | [Vedlegg 30.32](static/SF/sf-20111109-1088-k30-32-01.pdf) |
+| Fredrikstad bru | Koordinater | Fredrikstad kommune | [Vedlegg 30.33](static/SF/sf-20111109-1088-k30-33-01.pdf) |
+| Langset bru | Koordinater | Eidsvoll kommune | [Vedlegg 30.34](static/SF/sf-20111109-1088-k30-34-01.pdf) |
+| Minnesund bru | Koordinater | Eidsvoll kommune | [Vedlegg 30.35](static/SF/sf-20111109-1088-k30-35-01.pdf) |
+| Sagkrakken gangbru | Koordinater | Oslo kommune | [Vedlegg 30.36](static/SF/sf-20111109-1088-k30-36-01.pdf) |
+| Fiskevollbukta gang- og sykkelbru | Koordinater | Oslo kommune | [Vedlegg 30.37](static/SF/sf-20111109-1088-k30-37-01.pdf) |
 
 > Tilføyd ved [forskrift 17 nov 2022 nr. 1976](forskrift/2022-11-17-1976), endret ved forskrift [10 nov 2023 nr. 2028](forskrift/2023-11-10-2028).
 
@@ -699,7 +1114,29 @@ På Fredrikstad bru tillates det å henge på gang- og sykkelbane. Tiltak skal p
 
 ### § 31-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendommer:Langvasseid tjenesteboliggnr./bnr. 22/54Sør-Varanger kommune[Vedlegg 31.1](static/SF/sf-20111109-1088-k31-01-01.pdf)Vegsletta verkstedgnr./bnr. 8/332Vadsø kommune[Vedlegg 31.2](static/SF/sf-20111109-1088-k31-02-01.pdf)Talvik vegstasjongnr./bnr. 12/78Alta kommune[Vedlegg 31.3](static/SF/sf-20111109-1088-k31-03-01.pdf)Hatteng tjenesteboliggnr./bnr. 52/42Storfjord – Omasvuotna – Omasvuono kommune[Vedlegg 31.4](static/SF/sf-20111109-1088-k31-04-01.pdf)Sørelva oppsynsmannskapsbrakkegnr./bnr. 76/5Saltdal kommune[Vedlegg 31.5](static/SF/sf-20111109-1088-k31-05-01.pdf)Grønnbakken smiegnr./bnr. 62/2Oppdal kommune[Vedlegg 31.6](static/SF/sf-20111109-1088-k31-06-01.pdf)Blåfjellbrakkagnr./bnr. 119/14Stranda kommune[Vedlegg 31.7](static/SF/sf-20111109-1088-k31-07-01.pdf)Skodje vegstasjongnr./bnr. 515/1Ålesund kommune[Vedlegg 31.8](static/SF/sf-20111109-1088-k31-08-01.pdf)Dyrskar anleggsbrakkegnr./bnr. 01/10Ullensvang kommune[Vedlegg 31.9](static/SF/sf-20111109-1088-k31-09-01.pdf)Nupshadlane tjenesteboliggnr./bnr. 01/10Ullensvang kommune[Vedlegg 31.10](static/SF/sf-20111109-1088-k31-10-01.pdf)Haukeli brøytestasjongnr./bnr. 99/244Vinje kommune[Vedlegg 31.11](static/SF/sf-20111109-1088-k31-11-01.pdf)Naglestad brøytestasjongnr./bnr. 8/14Hægebostad kommune[Vedlegg 31.12](static/SF/sf-20111109-1088-k31-12-01.pdf)Kullerødlia oppmøtestasjongnr./bnr. 635/1Sandefjord kommune[Vedlegg 31.13](static/SF/sf-20111109-1088-k31-13-01.pdf)Solum kontrollstasjongnr./bnr. 4076/14Larvik kommune[Vedlegg 31.14](static/SF/sf-20111109-1088-k31-14-01.pdf)Ørje vegstasjongnr./bnr. 91/64Marker kommune[Vedlegg 31.15](static/SF/sf-20111109-1088-k31-15-01.pdf)Veggli vegstasjongnr./bnr. 11/12Rollag kommune[Vedlegg 31.16](static/SF/sf-20111109-1088-k31-16-01.pdf)Fokstugu veggarasjegnr./bnr. 2/1/6Dovre kommune[Vedlegg 31.17](static/SF/sf-20111109-1088-k31-17-01.pdf)Tynset vegstasjongnr./bnr. 75/197Tynset kommune[Vedlegg 31.18](static/SF/sf-20111109-1088-k31-18-01.pdf)Skougsand strøsandsilognr./bnr. 435/17Ringsaker kommune[Vedlegg 31.19](static/SF/sf-20111109-1088-k31-19-01.pdf)
+Fredningen omfatter følgende eiendommer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Langvasseid tjenestebolig | gnr./bnr. 22/54 | Sør-Varanger kommune | [Vedlegg 31.1](static/SF/sf-20111109-1088-k31-01-01.pdf) |
+| Vegsletta verksted | gnr./bnr. 8/332 | Vadsø kommune | [Vedlegg 31.2](static/SF/sf-20111109-1088-k31-02-01.pdf) |
+| Talvik vegstasjon | gnr./bnr. 12/78 | Alta kommune | [Vedlegg 31.3](static/SF/sf-20111109-1088-k31-03-01.pdf) |
+| Hatteng tjenestebolig | gnr./bnr. 52/42 | Storfjord – Omasvuotna – Omasvuono kommune | [Vedlegg 31.4](static/SF/sf-20111109-1088-k31-04-01.pdf) |
+| Sørelva oppsynsmannskapsbrakke | gnr./bnr. 76/5 | Saltdal kommune | [Vedlegg 31.5](static/SF/sf-20111109-1088-k31-05-01.pdf) |
+| Grønnbakken smie | gnr./bnr. 62/2 | Oppdal kommune | [Vedlegg 31.6](static/SF/sf-20111109-1088-k31-06-01.pdf) |
+| Blåfjellbrakka | gnr./bnr. 119/14 | Stranda kommune | [Vedlegg 31.7](static/SF/sf-20111109-1088-k31-07-01.pdf) |
+| Skodje vegstasjon | gnr./bnr. 515/1 | Ålesund kommune | [Vedlegg 31.8](static/SF/sf-20111109-1088-k31-08-01.pdf) |
+| Dyrskar anleggsbrakke | gnr./bnr. 01/10 | Ullensvang kommune | [Vedlegg 31.9](static/SF/sf-20111109-1088-k31-09-01.pdf) |
+| Nupshadlane tjenestebolig | gnr./bnr. 01/10 | Ullensvang kommune | [Vedlegg 31.10](static/SF/sf-20111109-1088-k31-10-01.pdf) |
+| Haukeli brøytestasjon | gnr./bnr. 99/244 | Vinje kommune | [Vedlegg 31.11](static/SF/sf-20111109-1088-k31-11-01.pdf) |
+| Naglestad brøytestasjon | gnr./bnr. 8/14 | Hægebostad kommune | [Vedlegg 31.12](static/SF/sf-20111109-1088-k31-12-01.pdf) |
+| Kullerødlia oppmøtestasjon | gnr./bnr. 635/1 | Sandefjord kommune | [Vedlegg 31.13](static/SF/sf-20111109-1088-k31-13-01.pdf) |
+| Solum kontrollstasjon | gnr./bnr. 4076/14 | Larvik kommune | [Vedlegg 31.14](static/SF/sf-20111109-1088-k31-14-01.pdf) |
+| Ørje vegstasjon | gnr./bnr. 91/64 | Marker kommune | [Vedlegg 31.15](static/SF/sf-20111109-1088-k31-15-01.pdf) |
+| Veggli vegstasjon | gnr./bnr. 11/12 | Rollag kommune | [Vedlegg 31.16](static/SF/sf-20111109-1088-k31-16-01.pdf) |
+| Fokstugu veggarasje | gnr./bnr. 2/1/6 | Dovre kommune | [Vedlegg 31.17](static/SF/sf-20111109-1088-k31-17-01.pdf) |
+| Tynset vegstasjon | gnr./bnr. 75/197 | Tynset kommune | [Vedlegg 31.18](static/SF/sf-20111109-1088-k31-18-01.pdf) |
+| Skougsand strøsandsilo | gnr./bnr. 435/17 | Ringsaker kommune | [Vedlegg 31.19](static/SF/sf-20111109-1088-k31-19-01.pdf) |
 
 > Tilføyd ved forskrift [17 nov 2022 nr. 1977](forskrift/2022-11-17-1977).
 
@@ -715,7 +1152,11 @@ Forvaltningsplanene skal være utarbeidet innen utgangen av år 2027.
 
 ### § 32-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Victoria terrassegnr./bnr. 209/367, 402, 404, 407Oslo kommune[Vedlegg 32.1](static/SF/sf-20111109-1088-k32-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Victoria terrasse | gnr./bnr. 209/367, 402, 404, 407 | Oslo kommune | [Vedlegg 32.1](static/SF/sf-20111109-1088-k32-01-01.pdf) |
 
 > Tilføyd ved forskrift [21 mars 2025 nr. 499](forskrift/2025-03-21-499).
 
@@ -738,7 +1179,11 @@ Forvaltningsplan skal være utarbeidet før avhending.
 
 ### § 33-1. Omfang og vedlegg
 
-Fredningen omfatter følgende eiendom:Sinsenveien 76gnr./bnr. 85/263Oslo kommune[Vedlegg 33.1](static/SF/sf-20111109-1088-k33-01-01.pdf)
+Fredningen omfatter følgende eiendom:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Sinsenveien 76 | gnr./bnr. 85/263 | Oslo kommune | [Vedlegg 33.1](static/SF/sf-20111109-1088-k33-01-01.pdf) |
 
 > Tilføyd ved forskrift [23 okt 2025 nr. 2079](forskrift/2025-10-23-2079).
 

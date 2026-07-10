@@ -59,3 +59,5 @@ Materiale som i utgangspunktet inngår i kommisjonens arkiv, men som ikke skal a
 Loven trer i kraft straks.
 
 §§ 2 og 4 oppheves når kommisjonen har avsluttet sitt arbeid.1
+
+1 Kommisjonen leverte avsluttende rapport 26. april 2022 iflg. [NOU 2022:5](forarbeid/nou-2022-5).

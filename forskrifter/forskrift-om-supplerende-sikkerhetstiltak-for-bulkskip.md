@@ -44,6 +44,8 @@ Forskriften trer i kraft 15. september 2014.
 
 > SOLAS 74 [kapittel XII](forskrift/2014-07-01-956/kapxii) tilføyd ved [forskrift 15 sep 2014 nr. 1218](forskrift/2014-09-15-1218).
 
+Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)SOLAS) kapittel XII om Supplerende sikkerhetstiltak for bulkskip, slik Sjøfartsdirektoratet tolker denne del av konvensjonen tatt inn i konsolidert utgave 2009 med endringer til og med IMO-resolusjon MSC.216(82).
+
 ### Kapittel XII
 Supplerende sikkerhetstiltak for bulkskip
 
@@ -51,9 +53,13 @@ Supplerende sikkerhetstiltak for bulkskip
 
 I dette kapittel gjelder følgende definisjoner:*«Bulkskip»* betyr et skip som hovedsakelig er ment å frakte tørrlast i bulk, herunder skipstyper som malmskip og kombinasjonsskip.1 2*«Bulkskip med enkel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der:en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden, ellerett eller flere lasterom er avgrenset av en dobbel platehud med en bredde på under 760 mm på bulkskip bygget før 1. januar 2000 og under 1000 mm på bulkskip bygget 1. januar 2000 eller senere, men før 1. juli 2006, der avstanden skal måles vinkelrett på den utvendige platehuden.Slike skip omfatter kombinasjonsskip der en hvilken som helst del av et lasterom avgrenses av den utvendige platehuden.*«Bulkskip med dobbel platehudskonstruksjon»* betyr et bulkskip som definert i nr. 1, der alle lasterom er avgrenset av en dobbel platehud, unntatt som definert i nr. 2.2.*«Dobbel platehud»* betyr en konfigurasjon der hver skipsside er konstruert av den utvendige platehuden og et langskipsskott som knytter sammen dobbeltbunnen og dekket. Muddervingtanker og topptanker kan, der slike er installert, være integrerte deler i den doble platehudskonfigurasjonen.*«Lengde»* på et bulkskip betyr lengde som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.*«Fast bulklast»* betyr alt materiale, med unntak av væske eller gass, som består av en kombinasjon av partikler, granulater eller større biter av materiale, generelt enhetlig i sammensetning, og som lastes direkte inn i lasterommene i et skip uten noen mellomliggende form for inneslutting/oppbevaring.*«Standardene for styrken på skott og dobbeltbunn i bulkskip»* betyr «the Standards for the evaluation of scantlings of the transverse watertight vertically corrugated bulkhead between the two foremost cargo holds and for the evaluation of allowable hold loading of the foremost cargo hold», vedtatt 27. november 1997 ved resolusjon 4 fra konferansen av kontraherende staters regjeringer til Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) eventuelle endringer foretatt av Organisasjonen, forutsatt at slike endringer vedtas, trer i kraft og får virkning i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget, med unntak av kapittel I.*«Bulkskip bygget»* betyr bulkskip hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn.*«Et tilsvarende byggetrinn»* betyr det trinnet der:bygging som kan identifiseres med et bestemt skip, begynner, ogmontering av vedkommende skip er begynt og utgjør minst 50 tonn eller 1 % av den beregnede massen av alle konstruksjonsmaterialer, når denne verdien er mindre.*«Bredden (B)»* på et bulkskip betyr bredden som definert i gjeldende bestemmelser i Den internasjonale konvensjon om lastelinjer.
 
+1 Det vises til:
+
 1. For skip bygget før 1. juli 2006, resolusjon 6, tolkning av definisjonen av «bulkskip», som er gitt i kapittel IX i SOLAS 1974, endret i 1994, vedtatt på SOLAS-konferansen 1997.
 2. Tolkningen av bestemmelsene i SOLAS-kapittel XII om Supplerende sikkerhetstiltak for bulkskip, vedtatt av Organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.79(70).
 3. Anvendelsesbestemmelsene i vedlegg 1 til tolkningen av bestemmelsene i SOLAS kapittel XII om Supplerende sikkerhetstiltak for bulkskip, vedtatt av Organisasjonens Sjøsikkerhetskomité ved resolusjon MSC.79(71).
+
+2 For bulkskip bygget 1. januar 2009 eller senere vises det til tolkning av definisjonen av «bulkskip» i resolusjon MSC.277(85).
 
 ### Regel 2 Anvendelse
 
@@ -84,6 +90,8 @@ Bulkskip bygget før 1. juli 1999 som regel 4 eller 6 får anvendelse på, skal 
 1 Bulkskip med lengde 150 meter eller mer med enkel platehudskonstruksjon, som er utformet for å frakte faste bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget 1. juli 1999 eller senere, skal ha en styrke som er tilstrekkelig til å motstå vannfylling av et hvilket som helst enkelt lasterom til vannhøyden utenfor skipet i den fylte tilstanden i alle laste- og ballasttilstander, idet det også tas hensyn til dynamiske virkninger knyttet til forekomsten av vann i lasterommet, og dessuten til anbefalinger vedtatt av Organisasjonen.1
 
 2 Bulkskip med lengde 150 meter eller mer med dobbel platehudskonstruksjon, der en hvilken som helst del av langskipsskottet befinner seg innenfor B/5 eller 11,5 meter, avhengig av hva som er minst, innover fra skipssiden i rett vinkel på senterlinjen ved den fastsatte sommerlastelinjen, og som er utformet for å frakte bulklaster med en densitet på 1000 kg/m3 eller mer, og som er bygget før 1. juli 2006, skal oppfylle kravene til konstruksjonsstyrke i nr. 1.
+
+1 Det vises til resolusjon 3 – Anbefaling om overholdelse av regel XII/5 i [SOLAS,](traktat/1974-11-01-1) vedtatt av SOLAS-konferansen 1997.
 
 ### Regel 6 Konstruksjonskrav og andre krav til bulkskip
 
@@ -119,7 +127,11 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 2 For bulkskip som omfattes av regel 6, med mindre slike bulkskip oppfyller alle relevante krav i dette kapittelet som gjelder for frakt av faste bulklaster med en densitet på 1780 kg/m3 eller mer, skal densiteten til enhver last som oppgis å ha en densitet mellom 1250 kg/m3 og 1780 kg/m3 , verifiseres av en akkreditert prøvingsorganisasjon.1
 
+1 Ved verifiseringen av densiteten til fast bulklast, skal det vises til en ensartet målemetode for bulklastens densitet (MSC/Circ.908).
+
 ### Regel 11 Lasteinstrument
+
+*(Med mindre annet er fastsatt, gjelder denne regelen for bulkskip uavhengig av byggedato)*
 
 1 Bulkskip med lengde 150 meter eller mer skal utstyres med et lasteinstrument som kan gi informasjon om aktuelle belastende bøyemomenter og skjærkrefter på skrogbjelken, idet det tas hensyn til anbefalingene vedtatt av Organisasjonen.1
 
@@ -127,7 +139,13 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 3 Bulkskip med lengde under 150 meter bygget 1. juli 2006 eller senere skal utstyres med et lasteinstrument som kan gi informasjon om skipets stabilitet i intakt tilstand. Dataprogrammet skal være godkjent for stabilitetsberegninger av administrasjonen og skal inneholde standardbetingelser for prøvingsformål knyttet til den godkjente stabilitetsinformasjonen.2
 
+1 Det vises til resolusjon 5 – Rekommandasjon om lasteinstrumenter, vedtatt av SOLAS-konferansen 1997.
+
+2 Det vises til de relevante delene av vedlegget til Retningslinjer for bruk av datamaskiner om bord (MSC/Circ.891).
+
 ### Regel 12 Alarmer for vanninntrenging i lasterom, ballastrom og tørrtanker
+
+*(Denne regelen gjelder for bulkskip uavhengig av byggedato)*
 
 1 Bulkskip skal være utstyrt med detektorer for vannhøyde:i hvert lasterom, som avgir en lydalarm og en visuell alarm, én alarm når vannhøyden over den innerste bunnen i ethvert lasterom når en høyde på 0,5 m og en annen alarm ved en høyde som utgjør ikke mindre enn 15 % av lasterommets dybde, men ikke over 2 m. På bulkskip som regel 9 nr. 2 får anvendelse på, er det bare nødvendig å installere detektorer med sistnevnte alarm. Detektorene for vannhøyde skal installeres i lasterommenes akterdel. For lasterom som brukes til vannballast, kan det installeres en innretning som opphever alarmen. De visuelle alarmene skal skille klart mellom de to forskjellige vannhøydene som detekteres i hvert lasterom.i enhver ballasttank forut for kollisjonsskottet som krevet etter regel II-1/12, som avgir en lydalarm og en visuell alarm når væsken i tanken når en høyde som ikke overstiger 10 % av tankens kapasitet. En innretning som opphever alarmen når tanken er i bruk, kan installeres, ogi ethvert tørt eller tomt område unntatt avlukke for ankerkjetting, der en hvilken som helst derav strekker seg forut for det forreste lasterommet, som avgir en lydalarm og en visuell alarm ved en vannhøyde på 0,1 m over dekk. Det er ikke nødvendig å anbringe slike alarmer i lukkede rom med et volum som ikke overstiger 0,1 % av skipets maksimale volum for deplasement.
 
@@ -137,9 +155,13 @@ For bulkskip bygget før 1. juli 1999 som faller innenfor anvendelsesområdet fo
 
 ### Regel 13 Lensesystemenes tilgjengelighet1
 
+*(Denne regelen gjelder for bulkskip uavhengig av byggedato)*
+
 1 På bulkskip skal midlene for tømming og pumping av ballasttanker forut for kollisjonsskottet og lensebrønner i tørre rom der en hvilken som helst del av rommet strekker seg forut for det forreste lasterommet, kunne settes i drift fra et lett tilgjengelig, innelukket rom som skal være tilgjengelig fra kommandobroen eller kontrollposisjonen for fremdriftsmaskineriet uten å måtte krysse åpne fribord eller overbygde dekk. Hvor rør som betjener slike tanker eller lensebrønner, føres gjennom kollisjonsskottet, kan bruk av fjernstyrte aktuatorer for betjening av ventilen godtas som et alternativ til betjeningen av ventiler angitt i regel II-1/12, forutsatt at plasseringen av slike ventilbetjeningsinnretninger oppfyller kravene i denne regelen.
 
 2 Bulkskip bygget før 1. juli 2004 skal oppfylle kravene i denne regelen senest ved datoen for første mellomliggende besiktelse eller fornyelsesbesiktelse av skipet etter 1. juli 2004, men under ingen omstendigheter senere enn 1. juli 2007.
+
+1 Det vises til fortolkningen av [SOLAS](traktat/1974-11-01-1) regel XII/13 (MSC/Circ.1069).
 
 ### Regel 14 Begrensninger i å seile med tomt lasterom
 

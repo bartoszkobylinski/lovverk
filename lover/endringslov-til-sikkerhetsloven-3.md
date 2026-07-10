@@ -22,13 +22,13 @@ eu_basis: []
 
 # Lov om endringer i sikkerhetsloven (organisering av klareringsmyndigheten)
 
+Endringer i følgende lov:
+
 - [Lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven)](lov/2018-06-01-24).
 
 ## I
 
-Kongen utpeker ett eller flere forvaltningsorganer med klareringsmyndighet. Kongen kan gi forskrift om klareringsmyndighetenes oppgaver.
-
-Kongen kan gi forskrift om opprettelsen av et sentralt register for klareringsavgjørelser.
+I [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet](lov/2018-06-01-24) skal [§ 8-16](lov/2018-06-01-24/§8-16) lyde:
 
 ## II
 

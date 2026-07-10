@@ -52,6 +52,10 @@ Denne forskrift trer i kraft straks.
 
 ## Vedlegg til forskrift om fredning av truede arter
 
+*Artsliste datert (juli 2005) knyttet til forskrift om fredning av truede arter*
+
+*1. Karplanter:*
+
 - Huldrenøkkel (*Botrychium matricariifolium*)
 - Høstmarinøkkel (*Botrychium multifidum)*
 - Dvergmarinøkkel (*Botrychium simplex*)
@@ -91,9 +95,15 @@ Denne forskrift trer i kraft straks.
 - Flueblom (*Ophrys insectifera*)
 - Sibirnattfiol (*Platanthera obtusata* ssp. *oligantha*)
 
+*2. Kryptogamer:*
+
 1. *Moser:*Råtetvebladmose (*Scapania carinthiaca* var. *massalongi*)Sylmose (*Atractylocarpus alpinus*)Grønnsko (*Buxbaumia viridis*)Storskortemose (*Cynodontium suecicum*)Stammesigd (*Dicranum viride*)Alvemose (*Hamatocaulis vernicosus*)Stakesvanemose (*Meesia longiseta*)Sporebustehette (*Orthotrichium rogeri*)
 2. *Lav:* (ingen)
 3. *Sopp:* (ingen)
+
+*3. Alger:* (ingen)
+
+*4. Virvelløse dyr:*
 
 - Legeigle (*Hirudo medicinalis*)
 - Vannlilje-torvlibelle (*Leucorrhinia caudalis*)

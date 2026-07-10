@@ -22,12 +22,12 @@ eu_basis: []
 
 # Forskrift om ikrafttredelse av lov om skogproduksjon og skogvern. Delegering av myndighet.
 
-1. Kapittel VIII i lov om skogproduksjon og skogvern av 21. mai 1965 trer i kraft 1. september 1965.
+1\. Kapittel VIII i lov om skogproduksjon og skogvern av 21. mai 1965 trer i kraft 1. september 1965.
 
-2. Lovens øvrige kapitler trer i kraft fra 1. januar 1966.
+2\. Lovens øvrige kapitler trer i kraft fra 1. januar 1966.
 
-3. Valg, ansettelser og oppnevninger i medhold av lovens §§ 5, 6, 8, 9 og 10 kan finne sted før loven trer i kraft.
+3\. Valg, ansettelser og oppnevninger i medhold av lovens §§ 5, 6, 8, 9 og 10 kan finne sted før loven trer i kraft.
 
-4. Den fullmakt som i loven er tillagt departementet, legges til Landbruksdepartementet.
+4\. Den fullmakt som i loven er tillagt departementet, legges til Landbruksdepartementet.
 
-5. I medhold av § 19 i lov av 9. juni 1939 om husbruksskog, jfr. § 57, punkt 4 i lov om skogproduksjon og skogvern, bestemmes at husbruksskog ikke kan opprettes etter 1. januar 1966.
+5\. I medhold av § 19 i lov av 9. juni 1939 om husbruksskog, jfr. § 57, punkt 4 i lov om skogproduksjon og skogvern, bestemmes at husbruksskog ikke kan opprettes etter 1. januar 1966.

@@ -49,3 +49,7 @@ Forskriften trer i kraft 1. oktober 2024.
 ## § 5. Endringer i andre forskrifter
 
 Fra 1. oktober 2024 gjøres følgende endringer i andre forskrifter:
+
+**1.** I [forskrift 26. juni 2014 nr. 877 til lov om forvaltning av alternative investeringsfond (AIF-forskriften)](forskrift/2014-06-26-877) gjøres følgende endringer: – – –
+
+**2.** I [forskrift 21. desember 2011 nr. 1467 til verdipapirfondloven (verdipapirfondforskriften)](forskrift/2011-12-21-1467) gjøres følgende endringer: – – –

@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+Lov om suppleringsskatt på underbeskattet inntekt i konsern (suppleringsskatteloven)
+
 ### Kapittel 1 Alminnelige bestemmelser
 
 ### § 1-1. Virkeområde

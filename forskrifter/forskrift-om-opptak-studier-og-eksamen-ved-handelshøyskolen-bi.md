@@ -86,27 +86,51 @@ Handelshøyskolen BI tar forbehold om eventuelle trykkfeil i studieinformasjon, 
 
 ### § 2-1. Definisjoner
 
+*Søker*
+
 Person som søker opptak til studier, programmer eller enkeltkurs ved Handelshøyskolen BI.
+
+*Student*
 
 Person med en skriftlig, bindende og ikke avsluttet studiekontrakt med Handelshøyskolen BI, herunder deltakere på enkeltkurs, virksomhetsinterne kurs og ikke-studiepoenggivende kurs.
 
+*Studiekontrakt*
+
 Individuell kontrakt mellom student og Handelshøyskolen BI som regulerer hvilket studium studenten har studierett til, jf. [§ 3-1](forskrift/2018-06-01-1546/§3-1), og hvilke rettigheter og forpliktelser som tilkommer. Denne forskrift anses som en del av studentens studiekontrakt.
+
+*Studieavgift*
 
 Avgift som studenten betaler for sin utdanning. Studieavgiften faktureres pr. semester.
 
+*Utdanning*
+
 Samlebetegnelse for studium, program, enkeltkurs eller ikke-studiepoenggivende kurs.
+
+*Fag*
 
 Samlebetegnelse for programmer, enkeltkurs og ikke-studiepoenggivende kurs.
 
+*Studium*
+
 Utdanning av 60 studiepoengs omfang eller mer.
+
+*Program*
 
 Utdanning av 15 inntil 59 studiepoengs omfang.
 
+*Enkeltkurs*
+
 Utdanning av inntil 29 studiepoengs omfang. Kan i noen tilfeller inngå som del av et studium.
+
+*Ikke-studiepoenggivende kurs*
 
 Utdanning uten studiepoeng.
 
+*Individuell utdanning*
+
 Utdanning der enkeltstudenten søker om opptak eller deltakelse på utdanning eller ikke-studiepoenggivende kurs og får studiekontrakt eller bekreftelse på slik deltakelse.
+
+*Virksomhetsinterne kurs*
 
 Utdanning der en virksomhet inngår avtale med Handelshøyskolen BI om å avholde utdanning for en gruppe studenter og der virksomheten betaler kontraktssum direkte til Handelshøyskolen BI. Omfanget av utdanningen bestemmes i den enkelte kontrakt.
 
@@ -216,23 +240,43 @@ Søknad om faglig godkjenning av utdanning og dokumentert realkompetanse vurdere
 
 ### § 3-1. Definisjoner
 
+*Studierett*
+
 Rettigheter tilknyttet det å være tatt opp som student ved et studium, program eller enkeltkurs og inneha studentstatus. Det tildeles ordinær studierett innenfor samme tidsperiode som studiet er normert til. I tillegg tildeles retten til forlenget studietid. Studieretten innebærer rett til deltakelse i all organisert undervisning, veiledning (individuell og i grupper), øvelser og oppgaveløsning mv. i det studiet studenten er tatt opp til. I forlenget studietid vil det være begrensinger mht. rett til deltakelse i pedagogiske aktiviteter. Studieretten tildeles etter lærestedets tilbud om og studentens aksept av studieplass.
+
+*Studieplan*
 
 Plan for hvordan studiet normert skal gjennomføres for at det skal føre til et bestemt læringsmål, herunder oppbygging, faglig innhold og krav til godkjent kompetanse.
 
+*Utdanningsplan*
+
 Individuell plan for gjennomføring av et studium/studieprogram som utarbeides mellom Handelshøyskolen BI og den enkelte student, med sikte på at studenten skal kunne nå sitt læringsmål på normert tid. Planen inneholder bestemmelser om høyskolens ansvar og forpliktelser overfor studenten, og studentens forpliktelser overfor høyskolen og medstudenter.
+
+*Studiepoeng*
 
 Mål på studiebelastningen på et studium/program/enkeltkurs, der 60 studiepoeng tilsvarer ett studieårs arbeidsinnsats. Hvert studium/program/enkeltkurs er tillagt et antall studiepoeng etter forventet arbeidsmengde.
 
+*Normert studietid*
+
 Tiden et studium er normert til, og som det er forventet at en student skal kunne fullføre dette studiet på.
+
+*Studieprogresjon*
 
 Måles ved antall studiepoeng en student har avlagt ift. antall studiepoeng som er normert på angitt tidspunktet i studiet. Normal studieprogresjon er 60 studiepoeng pr. studieår. Studieprogresjonen regnes ut fra hvor mange studiepoeng studenten har bestått tilhørende det studiet studenten har kontrakt på.
 
+*Forlenget studietid*
+
 Studietid en student tildeles utover normert studietid. Forlenget studietid gir studenten mulighet til å fullføre sitt studium dersom vedkommende er blitt forsinket ift. normert studietid.
+
+*Studiested*
 
 Det studiestedet ved Handelshøyskolen BI som studenten har tegnet sin studiekontrakt med. Dersom studenten ønsker å bytte studiested, må dette søkes om.
 
+*Permisjon*
+
 Frivillig eller tvunget opphold i studiet.
+
+*Force majeure*
 
 En uforutsett, ikke påvirkbar omstendighet som medfører at studenten ikke er i stand til å ta del i studiene på vanlig måte eller å oppfylle sine forpliktelser som student.
 
@@ -298,9 +342,15 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven § 11-1](lov/2024-03-08-
 
 ### § 4-1. Definisjoner
 
+*Grad*
+
 Utdanning av bestemt omfang og sammensetning, og som gir rett til å bruke en bestemt tittel. Tittelen dokumenteres i et vitnemål.
 
+*Diploma Supplement*
+
 Vitnemålstillegg på engelsk som skal gi informasjon om utdanningssystemet ved norske universiteter og høyskoler og den enkelte students utdanning og kvalifikasjoner.
+
+*Selvstendig arbeid*
 
 Skriftlig arbeid av et nærmere angitt omfang som inngår i mastergradseksamen og som skal vise selvstendig forståelse, refleksjon og modning. Gjerne omtalt som masteroppgave.
 
@@ -376,25 +426,47 @@ Fastsatt med hjemmel i [universitets- og høyskoleloven kapittel 11](lov/2024-03
 
 ### § 5-1. Definisjoner
 
+*Kandidat*
+
 En person som skal avlegge eksamen og har eksamensrett iht. forskriften [§ 5-4](forskrift/2018-06-01-1546/§5-4).
+
+*Eksamen*
 
 Arrangementet som formelt prøver kandidatens kunnskaper og ferdigheter i de tilfeller det gis en karakter som angis på vitnemålet/kursbeviset, eller som inngår i beregningsgrunnlaget for en karakter som angis på vitnemålet/kursbeviset.
 
+*Deleksamen*
+
 En av flere vurderinger i et kurs som gir separat karakter som inngår i beregningen av endelig karakter i kurset. Vekten av hver deleksamen er angitt i kursbeskrivelsen.
+
+*Eksamenselement*
 
 Et vurderingselement som inngår i programmets/kursets sluttvurdering.
 
+*Vurderingsform*
+
 Formen en eksamen, en deleksamen eller et eksamenselement har.
+
+*Arbeidskrav*
 
 Alle former for arbeider og oppgaver som settes som vilkår for å gå opp til eksamen, og der resultatet ikke inngår i beregningsgrunnlaget for den karakteren som angis på vitnemålet.
 
+*Kontinuasjonseksamen*
+
 En eksamen som en kandidat går opp til etter enten å ha avlagt tilsvarende eksamen tidligere, eller ikke å ha meldt seg av eksamen innen avmeldingsfristen, jf. [§ 5-6](forskrift/2018-06-01-1546/§5-6) (1).
+
+*Avsluttende oppgave og selvstendig arbeid i høyere grad*
 
 Betegnelse for bacheloroppgaven i bachelorstudiet og masteroppgaven for masterstudiene. Forskriftsmessig omtales avsluttende masteroppgaver som selvstendig arbeid i høyere grad.
 
+*Pensum*
+
 Med pensum forstås i denne forskrift «Obligatorisk litteratur slik dette er fastsatt i kursbeskrivelsen».
 
+*Bedømmelsessensor*
+
 Sensor som deltar i den enkelte vurderingen av kandidatenes avlagte eksamen. Kan være intern og ekstern.
+
+*Tilsynssensor*
 
 Sensor som vurderer vurderingsordningene. Kan bare være ekstern.
 

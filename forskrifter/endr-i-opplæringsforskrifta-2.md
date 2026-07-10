@@ -24,13 +24,9 @@ eu_basis: []
 
 ## I
 
-I organiseringa av retten til gratis skolefritidsordning etter [opplæringslova § 4-5 andre ledd](lov/2023-06-09-30/§4-5/ledd/2), kan kommunen ikkje rekne om dei tolv timane til gjennomsnitt over lengre tid enn ei veke.
+I [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta)](forskrift/2024-06-03-900) blir denne endringa gjort:
 
-Retten til gratis skolefritidsordning etter [opplæringslova § 4-5 andre ledd](lov/2023-06-09-30/§4-5/ledd/2) gjeld også dersom kommunen tilbyr skolefritidsordning i skoleferiane.
-
-Kommunen skal gi foreldra tilbod om å fordele dei tolv timane på alle dagane kommunen til vanleg har eit tilbod om skolefritidsordning, så langt det er praktisk mogleg. Dette gjeld ikkje ved tilbod om skolefritidsordning i skoleferiane.
-
-Kommunen kan krevje betaling for kost.
+[§ 2-2](forskrift/2024-06-03-900/§2-2) skal lyde:
 
 ## II
 

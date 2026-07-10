@@ -32,7 +32,7 @@ I brev 19. desember 2016 delegerte Klima- og miljøverndepartementet (KLD) myndi
 
 Longyearbyen lokalstyre vedtok i henhold til delegert myndighet 1. mars 2023 ny lokal [forskrift om avfallshåndtering og avfalls- og avløpsgebyrer i Longyearbyen planområde](forskrift/2023-03-01-435), jf. [forskrift 3. juli 2020 nr. 1517 om forurensning og avfall på Svalbard](forskrift/2020-07-03-1517) og [delegeringsvedtak 22. desember 2020 nr. 3401](forskrift/2020-12-22-3401).
 
-7. juni 2024 ble [svalbardmiljøloven](lov/2001-06-15-79) endret. Endringene innebærer blant annet av det ble gitt hjemmel i loven til å kunne delegere oppfølgingshjemler til Longyearbyen lokalstyre og til å gi forskrifter om gebyr for behandling av private planforslag. Endringene trer i kraft 1. januar 2025.
+7\. juni 2024 ble [svalbardmiljøloven](lov/2001-06-15-79) endret. Endringene innebærer blant annet av det ble gitt hjemmel i loven til å kunne delegere oppfølgingshjemler til Longyearbyen lokalstyre og til å gi forskrifter om gebyr for behandling av private planforslag. Endringene trer i kraft 1. januar 2025.
 
 ## 2. Vurdering av hvilken myndighet Longyearbyen lokalstyre bør få delegert
 

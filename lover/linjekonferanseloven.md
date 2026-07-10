@@ -34,6 +34,8 @@ eu_basis: []
 
 > Tilføyd ved [lov 4 des 1992 nr. 121](lov/1992-12-04-121), jf. forordning [(EF) 1490/2007](eu/32007r1490).
 
+1 Inkurie: EØS-avtalen vedlegg XIII nr. 52 er opphevet ved EØS-komitéens beslutning nr. [130/2010](eu/22010d0130).
+
 ## § 2. Definisjoner.
 
 I loven forstås med«Konvensjonen»: De forente nasjoners konvensjon 6. april 1974 om et regelverk for linjekonferansers virksomhet;«konvensjonsstat»: en stat som er bundet av konvensjonen;«EF-stat»: en stat som er medlem av Det europeiske fellesskap;«OECD-stat»: en stat som er medlem av Organisasjonen for økonomisk samarbeid og utvikling;«linjekonferanse» eller «konferanse»: to eller flere linjerederier som driver internasjonal linjefart for godsbefordring i en eller flere bestemte ruter innenfor et avgrenset geografisk område, og som driver virksomheten under ensartede eller felles fraktrater og andre omforente vilkår for slik linjefart;«transportbrukerorganisasjon»: en sammenslutning som fremmer, representerer og ivaretar transportbrukernes interesser, og som om nødvendig er godkjent som sådan av offentlig myndighet i staten hvor de transportbrukere det gjelder, hører hjemme. Departementet kan ved enkeltvedtak eller forskrift fastsette hva som skal forstås med transportbrukerorganisasjon; og«internasjonal megling»: internasjonal tvungen megling som omhandlet i kapittel VI i konvensjonen.
@@ -100,3 +102,5 @@ Vedtak etter første eller annet ledd kan ikke påklages. Søksmål om lovmessig
 
 1. Denne lov trer i kraft fra den tid Kongen fastsetter.1
 2. – – –
+
+1 Fra 28 des 1985 iflg. [res. 6 des 1985 nr. 2075](forskrift/1985-12-06-2075).

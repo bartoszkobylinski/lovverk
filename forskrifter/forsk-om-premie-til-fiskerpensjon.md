@@ -60,6 +60,8 @@ Garantikassen for fiskere skal gi medlemmet kvittering for innbetalt premie og o
 
 ## §§ 6-8.1 Opphevet.
 
+1 Opphevet ved Sosialdepartementets vedtak av 13. november 1978.
+
 ## § 9.
 
 Pliktig eller frivillig medlem av trygden kan kreve premierefusjon eller premiefritak for den tid han avtjener verneplikt, eller tar utdanning som har studieretning om sjøfartsfag, fiskerifag, tekniske fag eller andre fag som fiskere kan ha nytte av.

@@ -38,11 +38,15 @@ Den som ikke er norsk statsborger eller statsborger i annet nordisk land, har re
 
 ## § 4. Avhandlingen
 
+4.1 *Krav til avhandlingen*
+
 Avhandlingen skal være et selvstendig, vitenskapelig arbeid på et høyt faglig nivå som oppfyller internasjonale publiseringsstandarder innen fagområdet når det gjelder problemformuleringer, begrepsmessig presisering, metodisk og teoretisk grunnlag, dokumentasjon og framstillingsform.
 
 Avhandlingen kan være et frittstående arbeid eller en videreføring av tidligere arbeider.
 
 Flere mindre arbeider kan godkjennes som deler av doktoravhandlingen når de etter sitt innhold utgjør et hele i den grad doktorandens selvstendige innsats kan identifiseres og dokumenteres. I tillegg til de enkelte delene skal det i disse tilfellene utarbeides et sammendrag som gjør rede for helheten i avhandlingen.
+
+4.2 *Arbeider som ikke godtas*
 
 Arbeid som har vært godtatt som grunnlag for tidligere eksamener, kan ikke antas til bedømmelse med mindre arbeidet inngår som en mindre del av en avhandling som består av flere, sammenhengende arbeider.
 
@@ -54,7 +58,11 @@ En avhandling kan leveres til bedømmelse ved kun én institusjon. Dersom avhand
 
 Som hovedregel er det ikke anledning til å avslutte et organisert doktorgradsprogram for å fremstille seg for dr.philos.-graden. Dersom en avhandling helt eller delvis er blitt til innenfor rammen av et organisert doktorgradsprogram, skal det begrunnes særskilt hvorfor avhandlingen skal forsvares for en dr.philos.-grad og ikke for ph.d.-graden.
 
+4.3 *Ny innlevering*
+
 En doktorgradsavhandling innlevert ved MF som ikke er blitt godkjent ved en tidligere bedømmelse, kan bedømmes i omarbeidet skikkelse, enten som eneste arbeid eller som ett av flere sammenhengende arbeider, først seks måneder etter at rektor har fattet beslutning om å forkaste avhandlingen. Ny bedømmelse kan bare finne sted en gang.
+
+4.4 *Offentlig tilgjengelighet*
 
 Avhandlingen skal være offentlig tilgjengelig.
 

@@ -120,6 +120,8 @@ I område som er omfatta av [deltakerloven § 21](lov/1999-03-26-15/§21) tredje
 
 > Endra ved [lov 21 sep 2012 nr. 66](lov/2012-09-21-66) (ikr. 1 jan 2013 iflg. [res. 21 sep 2012 nr. 913](forskrift/2012-09-21-913)). **Vert endra** med [lov 5 mars 2021 nr. 7](lov/2021-03-05-7) (ikr. frå den tid Kongen bestemmer).
 
+1 Inkurie: Skal vel være fjerde ledd.
+
 ### § 12. Kvotar for fartøy
 
 Departementet kan i forskrift fastsetje kvotar for enkeltfartøy målt i kvantum, individ, haustingsdøgn eller andre innsatsfaktorar. Kvotane kan fastsetjast for visse tidsrom eller per tur og for ein bestand eller samla for fleire bestandar.
@@ -615,6 +617,8 @@ Forskrifter som er fastsette i medhald av [lov 3. juni 1983 nr. 40 om saltvannsf
 ### § 69. Ikraftsetjing
 
 Lova gjeld frå den tid Kongen fastset.1 Frå same tid vert [lov 3. juni 1983 nr. 40 om saltvannsfiske mv](lov/1983-06-03-40). oppheva. Kongen kan setje i kraft dei enkelte føresegnene til ulik tid og på same måte oppheve dei enkelte føresegnene i [saltvannsfiskeloven](lov/1983-06-03-40) til ulik tid. Frå den tid [§ 38](lov/2008-06-06-37/§38) vert sett i kraft, vert [lov 24. juni 1994 nr. 34 om registrering som kjøper i første hånd av råfisk m.v](lov/1994-06-24-34). oppheva.
+
+1 Frå 1 jan 2009 iflg. [res. 12 des 2008 nr. 1355](forskrift/2008-12-12-1355).
 
 ### § 70. Endringar i andre lover
 

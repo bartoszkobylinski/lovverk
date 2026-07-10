@@ -105,6 +105,8 @@ Loven gjelder fra den tid Kongen bestemmer.1
 
 Kongen kan gi overgangsregler.
 
+1 Fra 1 juli 2004 iflg. [res. 26 mars 2004 nr. 575](forskrift/2004-03-26-575).
+
 ## § 11. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

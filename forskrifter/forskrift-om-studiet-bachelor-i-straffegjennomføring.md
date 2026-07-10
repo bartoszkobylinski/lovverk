@@ -258,7 +258,7 @@ Emner med ledige plasser kan gjøres tilgjengelige for enkeltemnestudenter. Dire
 
 (8) De første 60 minutter etter at oppgaven er utlevert, har kandidatene ikke adgang til å trekke seg fra eksamen eller forlate eksamenslokalet.
 
-9) Kandidater som har spørsmål, skal henvende seg til en av eksamensinspektørene. Det er ikke tillatt å kommunisere med andre kandidater eller andre personer under eksamen. Det gjelder både inne i lokalet og utenfor.
+9\) Kandidater som har spørsmål, skal henvende seg til en av eksamensinspektørene. Det er ikke tillatt å kommunisere med andre kandidater eller andre personer under eksamen. Det gjelder både inne i lokalet og utenfor.
 
 (10) Hjelpemidler skal framgå på forsiden av eksamensoppgaven. Det er kandidatens eget ansvar å skaffe til veie tillatte hjelpemidler. Lån av hjelpemidler fra andre kandidater under eksamen er ikke tillatt.
 
@@ -362,7 +362,16 @@ Emner med ledige plasser kan gjøres tilgjengelige for enkeltemnestudenter. Dire
 
 ### § 9-3. Karaktersystem
 
-(1) Ved Kriminalomsorgens høgskole og utdanningssenter KRUS benyttes den graderte karakterskalaen i universitets- og høyskoleloven med følgende generelle, kvalitative beskrivelser:*Symbol**Betegnelse**Beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DBrukbarEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+(1) Ved Kriminalomsorgens høgskole og utdanningssenter KRUS benyttes den graderte karakterskalaen i universitets- og høyskoleloven med følgende generelle, kvalitative beskrivelser:
+
+| *Symbol* | *Betegnelse* | *Beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Brukbar | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 (2) Når universitets- og høyskolelovens karakterskala bestått/ikke bestått benyttes ved Kriminalomsorgens høgskole og utdanningssenter KRUS skal dette være et selvstendig vurderingsuttrykk uten sammenheng med den graderte karakterskalaen.
 

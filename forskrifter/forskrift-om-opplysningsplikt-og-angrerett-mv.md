@@ -30,6 +30,8 @@ Ved avtaler om varer og tjenester som ikke er finansielle tjenester, skal angres
 
 > Endret ved forskrift [16 jan 2024 nr. 78](forskrift/2024-01-16-78).
 
+1 Skjemaer finnes her: [http://www.signform.no/dss/statlige-blanketter?view=forms&id=12](https://www.signform.no/dss/statlige-blanketter?view=forms&id=12), Lovdatas anm.
+
 ## § 2. Opplysningsskjema
 
 Ved avtaler om varer og tjenester som ikke er finansielle tjenester, kan den næringsdrivende gi forbrukeren opplysningsskjema for angrerett som tilsvarer malen inntatt i forbrukerrettighetsdirektivet (Europaparlaments- og Rådsdirektiv [2011/83/EU](eu/32011l0083)) vedlegg 1 A.

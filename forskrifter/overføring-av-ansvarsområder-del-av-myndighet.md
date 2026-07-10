@@ -32,6 +32,8 @@ eu_basis: []
 6. Det administrative ansvaret for Regjeringsadvokaten overføres fra Justis- og politidepartementet til Statsministerens kontor med virkning fra 1. januar 2001.
 7. Forvaltningsansvaret for [lov av 28. juni 1974 nr. 58](lov/1974-06-28-58) om odelsretten og åsetesretten, med unntak for lovbestemmelsene om rettergangen ved odelsløsning, overføres fra Justis- og politidepartementet til Landbruksdepartementet med virkning fra 1. april 2001.
 
+1 Delegeringsvedtak opphevet fra 29 april 2005, jf. [forskrift 29 april 2005 nr. 378](forskrift/2005-04-29-378) romertall II.
+
 ## II
 
 Det delegeres myndighet til de departementene som ansvarsområder overføres til, til å foreta endringer i forskrifter, avtaler, instrukser og bestemmelser som er en nødvendig følge av overføringen.

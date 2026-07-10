@@ -42,6 +42,8 @@ Statsforvalteren har ansvar for koordinering av beredskapen på regionalt nivå.
 
 ## 2. Kriseutvalget for atomberedskap
 
+2.1 Følgende etater skal oppnevne en representant med vararepresentant til Kriseutvalget for atomberedskap:
+
 - Direktoratet for strålevern og atomsikkerhet
 - Direktoratet for samfunnssikkerhet og beredskap
 - Forsvaret
@@ -53,9 +55,17 @@ Statsforvalteren har ansvar for koordinering av beredskapen på regionalt nivå.
 
 Representantene skal utpekes blant lederne i etatene.
 
+2.2 Kriseutvalget for atomberedskap ledes av direktøren ved Direktoratet for strålevern og atomsikkerhet. Lederen kommer i tillegg til det ordinære medlem fra denne etaten.
+
+2.3 Kriseutvalget for atomberedskap har i akuttfasen av en atomhendelse fullmakt til å fatte beslutninger og gi pålegg om nærmere fastsatte tiltak i henhold til [strålevernloven § 16](lov/2000-05-12-36/§16) annet ledd. Disse tiltakene er nærmere presisert i vedlegg II om fullmakter i akuttfasen av en atomhendelse. Der hvor situasjonen og tiden tillater det, skal Kriseutvalget ta kontakt med ansvarlige fagdepartementer med sikte på å informere og drøfte beslutninger som bør fattes. Kriseutvalget avgjør selv om situasjonen og tiden muliggjør drøfting med departementene. Tiltak som berører militære forhold og operasjoner, skal alltid klareres med Forsvarsdepartementet. Kriseutvalget har plikt til å gi ansvarlige departementer melding om beslutninger og pålegg om tiltak.
+
+2.4 Kriseutvalget kan i akuttfasen av en atomhendelse benytte sine fullmakter så lenge de finner det nødvendig for å beskytte liv, helse, miljø eller andre viktige samfunnsinteresser.
+
 > Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 
 ## 3. Kriseutvalgets rådgivere
+
+3.1 Følgende institusjoner peker ut rådgivere med vararepresentanter:
 
 - Bioforsk
 - Fiskeridirektoratet
@@ -71,19 +81,29 @@ Representantene skal utpekes blant lederne i etatene.
 - Universitetet for miljø- og biovitenskap
 - Veterinærinstituttet.
 
+3.2 Det kan fremmes forslag til endringer i sammensetningen av Kriseutvalgets rådgivere for eksempel på bakgrunn av nye erfaringer, organisasjonsmessige endringer i den sivile beredskap og/eller endringer i trusselbildet. Forslag kan fremmes av de representerte institusjoner eller av de berørte departementer. Forslag behandles i Kriseutvalget og fremmes overfor Helse- og omsorgsdepartementet, som fatter vedtak etter samråd med andre berørte departementer.
+
 For øvrig kan Kriseutvalget etter behov knytte til seg rådgivere fra andre etater eller institusjoner når situasjonen tilsier det.
 
 ## 4. Kriseutvalgets og rådgivernes arbeidsmåte
 
 ### I akuttfasen av en hendelse
 
+4.1 Kriseutvalget skal med støtte fra rådgiverne:
+
 - gi samordnede pålegg i henhold til [strålevernloven § 16](lov/2000-05-12-36/§16) annet ledd med sikte på å beskytte liv, helse, miljø og andre viktige samfunnsinteresser,
 - innhente og bearbeide informasjon og måledata, om nødvendig gjennom pålegg til private og offentlige virksomheter, for å utarbeide en best mulig oversikt over situasjonen, samt prognoser for hvordan situasjonen vil utvikle seg, og
 - sørge for samordnet informasjon til myndigheter, publikum og medier (jf. pkt. 6.5).
 
+4.2 Myndigheter med ansvar for oppfølging av de beslutninger som er fattet, rapporterer om sin gjennomføring til Kriseutvalget. Berørte myndigheter, som har relevant informasjon om situasjonen på sine respektive områder, skal uten unødig opphold formidle denne til Kriseutvalget.
+
 ### I senfasen av en hendelse
 
+4.3 I senfasen skal Kriseutvalget støttet av rådgiverne gi faglig koordinerte råd angående mer langsiktige tiltak, for eksempel ytterligere planmessige målinger og restriksjoner i produksjon og omsetning av matvarer. Det kan i denne fasen være aktuelt å sammenkalle relevante myndigheter til konferanser der tiltakene kan samordnes.
+
 ### I det løpende beredskapsarbeidet
+
+4.4 Kriseutvalget og rådgiverne skal
 
 - ta initiativ med sikte på å få bygget opp, vedlikeholdt og koordinert beredskapsorganisasjonen, materiell og tjenester med sikte på en mest mulig effektiv innsats ved en atomhendelse
 - holde kontakt med ansvarlige myndigheter på alle nivåer, bistå med informasjon og råd i forbindelse med beredskapsspørsmål,
@@ -91,6 +111,12 @@ For øvrig kan Kriseutvalget etter behov knytte til seg rådgivere fra andre eta
 - holde løpende oversikt over det aktuelle trusselbildet,
 - bistå med å forebygge og redusere konsekvensene av terrorhandlinger gjennom å legge til rette for at atomberedskapens ressurser, herunder måleressurser, kan mobiliseres, og
 - avholde øvelser, eventuelt i samarbeid med andre organer.
+
+4.5 I det løpende beredskapsarbeidet innkaller lederen av Kriseutvalget medlemmene av Kriseutvalget, rådgiverne og statsforvaltere til møter eller øvelser etter behov.
+
+4.6 Kriseutvalget skal holdes løpende orientert om de forberedelser som ansvarlige myndigheter gjør i forhold til å bygge opp og vedlikeholde sin egen beredskap.
+
+4.7 Kriseutvalget har ansvaret for å utarbeide og vedlikeholde en beredskapsmanual med blant annet:
 
 - beskrivelse av beredskapsnivåer med klare prosedyrer for varsling/innkalling av Kriseutvalget med rådgivere, ansvarlige myndigheter og andre impliserte,
 - klare rutiner for samarbeid mellom Kriseutvalget, Kriseutvalgets sekretariat, Kriseutvalgets rådgivere og statsforvalteren både ved atomhendelser og i det løpende beredskapsarbeidet,
@@ -103,12 +129,28 @@ Den enkelte medlemsetat/-institusjon forutsettes å utarbeide beredskapsmanualer
 
 ## 5. Innkalling av Kriseutvalget og rådgiverne
 
+5.1 Kriseutvalget benytter prinsippet om trinnvis beredskap. Lederen for Kriseutvalget bestemmer i samråd med Sekretariatet beredskapsnivået i en gitt situasjon.
+
+5.2 Når en hendelse/mulig hendelse blir kjent, skal beredskapsorganisasjonen varsles i henhold til fastlagte prosedyrer.
+
+5.3 Kriseutvalget innkalles når lederen eller et av medlemmene krever det. Lederen avgjør hvilke av Kriseutvalgets rådgivere som skal innkalles i tillegg. Kriseutvalget sitter samlet så lenge det finner det nødvendig. Det kan vedtas permisjoner etter behov.
+
+5.4 Ved varsling og innkallingsordre skal Kriseutvalget møte umiddelbart og senest to timer etter varsling i Kriseutvalgets operasjonssentral, om ikke annet er oppgitt.
+
 ## 6. Kriseutvalgets sekretariat – oppgaver
+
+6.1 Direktoratet for strålevern og atomsikkerhet er sekretariat for Kriseutvalget.
+
+6.2 Direktoratet for strålevern og atomsikkerhet er nasjonalt og internasjonalt kontaktpunkt og skal som sekretariat kunne innkalle Kriseutvalget gjennom døgnkontinuerlige vaktordninger. Sekretariatet varsler Kriseutvalgets leder, medlemmer, rådgivere og ev. informasjonsmedarbeidere fra andre etater, samt fylkesmenn, departementer og andre aktuelle myndigheter eller virksomheter.
+
+6.3 Ved hendelser som omfattes av Kriseutvalgets mandat, skal Sekretariatet:
 
 - bistå Kriseutvalget med vurderinger,
 - bistå institusjoner og myndigheter på alle nivåer ved aktuelle problemstillinger,
 - håndtere mindre hendelser etter retningslinjer gitt av Kriseutvalget, og
 - drifte operasjonslokalene med kommunikasjons- og datasystemer.
+
+6.4 I det løpende beredskapsarbeidet skal Sekretariatet:
 
 - tilrettelegge for virksomheten i Kriseutvalget,
 - bistå med den praktiske gjennomføringen av Kriseutvalgets oppgaver,
@@ -116,6 +158,8 @@ Den enkelte medlemsetat/-institusjon forutsettes å utarbeide beredskapsmanualer
 - bistå institusjoner og myndigheter på alle nivåer ved aktuelle problemstillinger,
 - representere det løpende beredskapsarbeidet og være et bindeledd for dette,
 - tilrettelegge for og delta i øvelser, samt følge opp erfaringene fra slike øvelser.
+
+6.5 Sekretariatet har ansvaret for at det etableres tilstrekkelige informasjonsressurser for å håndtere hendelser innenfor Kriseutvalgets mandat. Sekretariatet skal søke samarbeid med andre etater og direktorater som har oppgaver innenfor informasjonsberedskap, med sikte på å samordne og koordinere informasjonsarbeidet innenfor ulike beredskapsområder.
 
 Ved en akutt atomhendelse kan Kriseutvalget styrke Sekretariatets informasjonsarbeid ved å be om informasjonsfaglig bistand og få tilført ressurser fra den informasjonspoolen som er opprettet og som administreres av Direktoratet for samfunnssikkerhet og beredskap. Informasjonsenheten skal under en akutt hendelse:bistå Kriseutvalget med å utarbeide kommunikasjonsstrategier tilpasset den aktuelle hendelsen,foreslå og iverksette kommunikasjonstiltak for Kriseutvalget i de ulike fasene av hendelsen, ogbistå Kriseutvalget med formidling av koordinert informasjon til publikum og medier.
 
@@ -126,6 +170,10 @@ Andre etater/institusjoner som er representert i Kriseutvalget/Kriseutvalgets r�
 > Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 
 ## 7. Operasjonssentral
+
+7.1 Som operasjonssentral for Kriseutvalget benyttes lokaler som stilles til disposisjon av Direktoratet for strålevern og atomsikkerhet.
+
+7.2 Operasjonssentralen med kommunikasjons- og datasystemer bygges opp i samarbeid mellom Kriseutvalget, Direktoratet for strålevern og atomsikkerhet og Helse- og omsorgsdepartementet. Sekretariatet ved Direktoratet for strålevern og atomsikkerhet står for vedlikehold og drift av systemene.
 
 > Endret ved [forskrift 20 des 2018 nr. 2067](forskrift/2018-12-20-2067) (i kraft 1 jan 2019).
 

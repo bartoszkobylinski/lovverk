@@ -55,3 +55,5 @@ Den som setter i verk boikott som er rettsstridig etter denne lov, straffes med 
 ## § 6.
 
 Denne lov trer i kraft den dag1 Kongen fastsetter.
+
+1 Fra 16 jan 1948 iflg. res. 16 jan 1948.

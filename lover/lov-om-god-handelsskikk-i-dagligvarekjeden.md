@@ -165,3 +165,5 @@ Loven gjelder fra den tid1 Kongen bestemmer.
 Konkurransetilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft.
 
 > Endret ved lov [22 des 2025 nr. 129](lov/2025-12-22-129) (i kraft 30 april 2026 iflg. [res. 17 april 2026 nr. 601](forskrift/2026-04-17-601)).
+
+1 Loven trer i kraft 1. januar 2021 iflg. res. [21 des 2020 nr. 2887](forskrift/2020-12-21-2887).

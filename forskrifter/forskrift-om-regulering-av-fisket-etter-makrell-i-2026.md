@@ -72,7 +72,14 @@ Bestemmelsene i første til fjerde ledd gjelder ikke for gruppekvoten nevnt i [�
 
 ### § 7. Fartøykvoter
 
-Fartøy med ringnottillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:1500 hl +40 % av konsesjonskapasiteten fra0–4000 hl30 % av konsesjonskapasiteten fra4000–6000 hl20 % av konsesjonskapasiteten fra6000–10 000 hl10 % av konsesjonskapasitetenover 10 000 hl
+Fartøy med ringnottillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:
+
+|  |  |  |
+| --- | --- | --- |
+| 1500 hl + | 40 % av konsesjonskapasiteten fra | 0–4000 hl |
+|  | 30 % av konsesjonskapasiteten fra | 4000–6000 hl |
+|  | 20 % av konsesjonskapasiteten fra | 6000–10 000 hl |
+|  | 10 % av konsesjonskapasiteten | over 10 000 hl |
 
 Kvotefaktoren blir omregnet til tonn ved at 1 hektoliter = 0,1 tonn (100 kilo).
 
@@ -96,7 +103,15 @@ Fartøy som i 2026 benytter slumpfiskeordningen i henhold til [forskrift 4. mars
 
 ### § 9. Fartøykvoter
 
-Fartøy med makrelltråltillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:50 tonn +50 % av bruttotonnasje fra0–10040 % av bruttotonnasje fra101–20030 % av bruttotonnasje fra201–30020 % av bruttotonnasje fra301–40010 % av bruttotonnasje fra401–600
+Fartøy med makrelltråltillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:
+
+|  |  |  |
+| --- | --- | --- |
+| 50 tonn + | 50 % av bruttotonnasje fra | 0–100 |
+|  | 40 % av bruttotonnasje fra | 101–200 |
+|  | 30 % av bruttotonnasje fra | 201–300 |
+|  | 20 % av bruttotonnasje fra | 301–400 |
+|  | 10 % av bruttotonnasje fra | 401–600 |
 
 Ved beregning av fartøyets kvotefaktor gjelder tonnasje i henhold til Skipskontrollens målebrev eller identitetsbevis utstedt senest 31. desember 2001, eventuelt fartøyets tonnasje i henhold til Skipskontrollens målebrev eller identitetsbevis etter foretatt utskifting eller ombygging i overensstemmelse med utskifting- eller ombyggingstillatelse gitt senest samme dato. Ved eierskifte nyttes bruttotonnasje per nevnte tidspunkt for det fartøy reder hadde konsesjon på ved årets begynnelse eller tidligere.
 
@@ -124,7 +139,20 @@ Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektor
 
 ### § 12. Fartøy- og maksimalkvoter for fartøy i lukket gruppe
 
-Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta makrell:*Hjemmelslengde**Deltakeradgang**Kvotefaktor**Fartøykvote (garantert) for fartøy med st. l. og hj. l. under 15 meter (tonn)**Fartøykvote (garantert) for fartøy med st. l. på eller over 15 meter og hj. l. under 15 meter samt fartøy med hjemmelslengde på eller over 15 meter (tonn)*0–9,99Garn og snøre1,354415,53721,195Not1,424616,34222,29310–12,99Garn og snøre2,370127,18937,090Not1,812920,79728,37013–14,99Garn og snøre2,370127,18937,090Not4,977757,10277,89615–17,99Garn og snøre2,884745,143Not7,0565110,42718–21,35Garn og snøre2,884745,143Not11,0682173,206
+Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta makrell:
+
+| *Hjemmelslengde* | *Deltakeradgang* | *Kvotefaktor* | *Fartøykvote (garantert) for fartøy med st. l. og hj. l. under 15 meter (tonn)* | *Fartøykvote (garantert) for fartøy med st. l. på eller over 15 meter og hj. l. under 15 meter samt fartøy med hjemmelslengde på eller over 15 meter (tonn)* |
+| --- | --- | --- | --- | --- |
+| 0–9,99 | Garn og snøre | 1,3544 | 15,537 | 21,195 |
+| Not | 1,4246 | 16,342 | 22,293 |  |
+| 10–12,99 | Garn og snøre | 2,3701 | 27,189 | 37,090 |
+| Not | 1,8129 | 20,797 | 28,370 |  |
+| 13–14,99 | Garn og snøre | 2,3701 | 27,189 | 37,090 |
+| Not | 4,9777 | 57,102 | 77,896 |  |
+| 15–17,99 | Garn og snøre | 2,8847 |  | 45,143 |
+| Not | 7,0565 |  | 110,427 |  |
+| 18–21,35 | Garn og snøre | 2,8847 |  | 45,143 |
+| Not | 11,0682 |  | 173,206 |  |
 
 Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten for fartøy med største lengde på eller over 15 meter og hjemmelslengde under 15 meter, samt fartøy med hjemmelslengde på eller over 15 meter, er 15,6489 tonn. Kvoteenheten for fartøy med største lengde og hjemmelslengde under 15 meter er 11,4715 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 4,8657 tonn fiskes i Storbritannias økonomiske sone.
 

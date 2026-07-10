@@ -247,3 +247,5 @@ Heving av forpaktingsavtalen får ikkje rettsverknad utan at ho er skriftleg og 
 Denne lova tek til å gjelde frå den tid Kongen fastset.1 Lova gjeld ikkje for forpaktingsavtale som er inngått før ho tar til å gjelde.
 
 Frå same tid blir sette ut av kraft: – – –
+
+1 Frå 1 jan 1966 iflg. res. 25 juni 1965.

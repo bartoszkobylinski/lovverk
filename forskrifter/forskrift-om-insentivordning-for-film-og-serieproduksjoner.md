@@ -166,4 +166,46 @@ Forskriften trer i kraft 1. januar 2016.
 
 Den omsøkte filmen/serieproduksjonen må oppnå minimum 4 poeng i Del 1 – Kulturtesten og minimum 20 poeng totalt sett (for Del 1 – Kulturtesten og Del 2 – Produksjonstesten). Maksimalt antall poeng det er mulig å oppnå er 51.
 
-Poengene i kategoriene 10-14 blir gitt ut fra hvordan filmen/serieproduksjonen oppfyller hvert av kriteriene. Norsk filminstitutt vurderer i hvilken grad filmingen/leveransen av varer og tjenester/etterarbeid finner sted i Norge og hvordan de bidrar til å styrke kompetansen til norske filmarbeidere og leverandører innenfor filmnæringen.*Del I – Kulturtest**Mulige poeng*1Fortellingen, manuskriptet, hovedtemaet i filmen/serieproduksjonen er basert på hendelser som er en del av norsk eller europeisk kultur eller historie0–22Filmen/serieproduksjonen er basert på en karakter eller person fra norsk eller europeisk kultur, historie eller samfunn0–23Filmen/serieproduksjonens historie er knyttet til en norsk eller europeisk sted; arkitektonisk, fysisk eller kulturelt0–24Filmen/serieproduksjonens manuskript eller sentrale tema er basert på et litterært verk eller eller tilpasset fra en annen kunstnerisk disiplin (billedkunst, teater, musikk osv.)0–25Historien, manuskriptet, det sentrale temaet i filmen/serieproduksjonen dreier seg om samtidige kulturelle, sosiologiske eller politiske temaer eller hendelser.0–26Filmen/serieproduksjonen reflekterer norske eller europeiske verdier, kultur, identitet, skikker eller tradisjoner0–27Regissør, manusforfatter eller forfatter av litterært forelegg er norsk eller europeisk0–28Filmen/serieproduksjonen er på norsk eller et annet europeisk språk0–2*Totalsum kulturelle kriterier (minimumskravet er 4 poeng)**16**Del II Produksjonstest*9Filmen/serieproduksjonen er er et filmatisk verk som bidrar til utviklingen av sin sjanger0–310Filmen/serieproduksjonen er egnet til å øke de involverte filmskapernes kompetanse og evne til å lage ambisiøse og krevende prosjekter med høy kvalitet og kulturell verdi0–411Filmskaperne er norske borgere, britiske borgere eller EØS-borgere (et poeng gis for hvert punkt under. Maksimalt 8 poeng totalt)0–8i. Regissør1ii. Produsent/samprodusent1iii. Fotograf1iv. B-fotograf1v. Manusforfatter1vi. Ledende skuespiller1vii. Birolle1viii. Komponist1ix. Lydsjef/lyddesigner1x. Produksjonsdesigner1xi. Kostymedesigner1xii. Klipper1xiii. Make-up-ansvarlig1xiv. Utøvende produsent/linjeprodusent/post-produsent/vfx-produsent1xv. Animation Director/Lead Animator1xvi. Colourist1xvii. Concept Artist1xviii. Lead vfx-artist (compositor, modellør, rigger, lyssetter, teksturer, matte-painter, fx Technical director)1xix. Etterarbeids- eller vfx supervisor112Minimum 51 % av filmarbeiderne (funksjoner som ikke listes opp i punkt 11) er norske borgere, britiske borgere eller EØS-borgere0–413Filmen spilles inn på norske locations/studioer i Norge0–414Produksjonen bruker leverandører fra Norge, Storbritannia eller et annet EØS-land0–415Hele eller deler av etterarbeidet (inklusive lyd, visuelle effekter, klipping, musikkinnspilling med mer) gjøres i Norge, Storbritannia eller et EØS-land0–616Produksjonen har en strategi for bærekraftig og miljøvennlig innspilling0–2*Totalsum produksjonskriterier**35**Totalsum kulturelle kriterier og produksjonskriterier (minimumskravet er 20 poeng)**51*
+Poengene i kategoriene 10-14 blir gitt ut fra hvordan filmen/serieproduksjonen oppfyller hvert av kriteriene. Norsk filminstitutt vurderer i hvilken grad filmingen/leveransen av varer og tjenester/etterarbeid finner sted i Norge og hvordan de bidrar til å styrke kompetansen til norske filmarbeidere og leverandører innenfor filmnæringen.
+
+|  | *Del I – Kulturtest* | *Mulige poeng* |
+| --- | --- | --- |
+| 1 | Fortellingen, manuskriptet, hovedtemaet i filmen/serieproduksjonen er basert på hendelser som er en del av norsk eller europeisk kultur eller historie | 0–2 |
+| 2 | Filmen/serieproduksjonen er basert på en karakter eller person fra norsk eller europeisk kultur, historie eller samfunn | 0–2 |
+| 3 | Filmen/serieproduksjonens historie er knyttet til en norsk eller europeisk sted; arkitektonisk, fysisk eller kulturelt | 0–2 |
+| 4 | Filmen/serieproduksjonens manuskript eller sentrale tema er basert på et litterært verk eller eller tilpasset fra en annen kunstnerisk disiplin (billedkunst, teater, musikk osv.) | 0–2 |
+| 5 | Historien, manuskriptet, det sentrale temaet i filmen/serieproduksjonen dreier seg om samtidige kulturelle, sosiologiske eller politiske temaer eller hendelser. | 0–2 |
+| 6 | Filmen/serieproduksjonen reflekterer norske eller europeiske verdier, kultur, identitet, skikker eller tradisjoner | 0–2 |
+| 7 | Regissør, manusforfatter eller forfatter av litterært forelegg er norsk eller europeisk | 0–2 |
+| 8 | Filmen/serieproduksjonen er på norsk eller et annet europeisk språk | 0–2 |
+|  | *Totalsum kulturelle kriterier (minimumskravet er 4 poeng)* | *16* |
+|  | *Del II Produksjonstest* |  |
+| 9 | Filmen/serieproduksjonen er er et filmatisk verk som bidrar til utviklingen av sin sjanger | 0–3 |
+| 10 | Filmen/serieproduksjonen er egnet til å øke de involverte filmskapernes kompetanse og evne til å lage ambisiøse og krevende prosjekter med høy kvalitet og kulturell verdi | 0–4 |
+| 11 | Filmskaperne er norske borgere, britiske borgere eller EØS-borgere (et poeng gis for hvert punkt under. Maksimalt 8 poeng totalt) | 0–8 |
+|  | i. Regissør | 1 |
+|  | ii. Produsent/samprodusent | 1 |
+|  | iii. Fotograf | 1 |
+|  | iv. B-fotograf | 1 |
+|  | v. Manusforfatter | 1 |
+|  | vi. Ledende skuespiller | 1 |
+|  | vii. Birolle | 1 |
+|  | viii. Komponist | 1 |
+|  | ix. Lydsjef/lyddesigner | 1 |
+|  | x. Produksjonsdesigner | 1 |
+|  | xi. Kostymedesigner | 1 |
+|  | xii. Klipper | 1 |
+|  | xiii. Make-up-ansvarlig | 1 |
+|  | xiv. Utøvende produsent/linjeprodusent/post-produsent/vfx-produsent | 1 |
+|  | xv. Animation Director/Lead Animator | 1 |
+|  | xvi. Colourist | 1 |
+|  | xvii. Concept Artist | 1 |
+|  | xviii. Lead vfx-artist (compositor, modellør, rigger, lyssetter, teksturer, matte-painter, fx Technical director) | 1 |
+|  | xix. Etterarbeids- eller vfx supervisor | 1 |
+| 12 | Minimum 51 % av filmarbeiderne (funksjoner som ikke listes opp i punkt 11) er norske borgere, britiske borgere eller EØS-borgere | 0–4 |
+| 13 | Filmen spilles inn på norske locations/studioer i Norge | 0–4 |
+| 14 | Produksjonen bruker leverandører fra Norge, Storbritannia eller et annet EØS-land | 0–4 |
+| 15 | Hele eller deler av etterarbeidet (inklusive lyd, visuelle effekter, klipping, musikkinnspilling med mer) gjøres i Norge, Storbritannia eller et EØS-land | 0–6 |
+| 16 | Produksjonen har en strategi for bærekraftig og miljøvennlig innspilling | 0–2 |
+|  | *Totalsum produksjonskriterier* | *35* |
+|  | *Totalsum kulturelle kriterier og produksjonskriterier (minimumskravet er 20 poeng)* | *51* |

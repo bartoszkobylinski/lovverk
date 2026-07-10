@@ -86,6 +86,8 @@ Loven gjelder permittering som iverksettes fra og med den dag loven trer i kraft
 
 > Endret ved [lover 15 juni 1990 nr. 31](lov/1990-06-15-31), [22 mars 1991 nr. 14](lov/1991-03-22-14), [20 juni 1991 nr. 39](lov/1991-06-20-39), [26 juni 1992 nr. 91](lov/1992-06-26-91).
 
+1 Fra 1 okt 1990 iflg. [res. 29 juni 1990 nr. 483](forskrift/1990-06-29-483) (som opphevet [res. 15 juni 1990 nr. 451](forskrift/1990-06-15-451), som opphevet [res. 1 des 1989 nr. 1188](forskrift/1989-12-01-1188) som satte ikr. loven 1 jan 1991 (som samtidig opphevet [res. 25 nov 1988 nr. 937](forskrift/1988-11-25-937) som fastsatte ikrafttredelse 1 jan 1990 og samtidig opphevet [res. 6 mai 1988 nr. 343](forskrift/1988-05-06-343) som fastsatte ikrafttredelse 1 jan 1989)).
+
 ## § 6. Endring i andre lover
 
 Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover – – –.

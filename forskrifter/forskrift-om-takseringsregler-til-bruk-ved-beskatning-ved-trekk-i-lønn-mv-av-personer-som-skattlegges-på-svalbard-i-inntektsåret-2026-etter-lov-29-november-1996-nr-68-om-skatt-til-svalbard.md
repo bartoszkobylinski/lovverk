@@ -24,9 +24,29 @@ eu_basis: []
 
 ## § 1. Verdsettelse av naturalytelser
 
-Når arbeidstakeren skattlegges ved trekk i lønn (lønnstrekkordningen), skal følgende naturalytelser verdsettes slik:Fritt opphold per døgn (kost og losji)kr 151 pr. døgnKost (alle måltider)kr 107 pr. døgnKost (to måltider)kr 83 pr. døgnKost (ett måltid)kr 55 pr. døgnLosji (eget rom eller delt rom)kr 44 pr. døgn
+Når arbeidstakeren skattlegges ved trekk i lønn (lønnstrekkordningen), skal følgende naturalytelser verdsettes slik:
 
-Dersom arbeidsgiver subsidierer den skattepliktiges bokostnader skal det foretas beskatning dersom den faktiske husleie er lavere enn fordelssatsen for fri bolig. Skattepliktig fordel fastsettes til differansen mellom fordelssatsen for fri bolig og faktisk husleie.Fri bil:kr 2 850 pr. måned
+|  |  |
+| --- | --- |
+| Fritt opphold per døgn (kost og losji) | kr 151 pr. døgn |
+| Kost (alle måltider) | kr 107 pr. døgn |
+| Kost (to måltider) | kr 83 pr. døgn |
+| Kost (ett måltid) | kr 55 pr. døgn |
+| Losji (eget rom eller delt rom) | kr 44 pr. døgn |
+
+|  |  |  |
+| --- | --- | --- |
+| Fri bolig: | inntil 40 kvm | kr 5 000 pr. måned |
+|  | 41–65 kvm | kr 7 000 pr. måned |
+|  | 66–90 kvm | kr 10 000 pr. måned |
+|  | 91–125 kvm | kr 12 000 pr. måned |
+|  | over 125 kvm | kr 14 000 pr. måned |
+
+Dersom arbeidsgiver subsidierer den skattepliktiges bokostnader skal det foretas beskatning dersom den faktiske husleie er lavere enn fordelssatsen for fri bolig. Skattepliktig fordel fastsettes til differansen mellom fordelssatsen for fri bolig og faktisk husleie.
+
+|  |  |
+| --- | --- |
+| Fri bil: | kr 2 850 pr. måned |
 
 Ved beregning av fordel ved arbeidsgiverfinansiert elektronisk kommunikasjon skal det legges til grunn de samme regler og satser som gjelder på fastlandet for 2026.
 

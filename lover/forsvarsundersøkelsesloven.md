@@ -197,3 +197,7 @@ Den som uaktsomt eller forsettlig overtrer §§ 9 første ledd, 16, 19 eller 25 
 ## § 27. Ikrafttredelse og endringer i andre lover
 
 Loven trer i kraft fra den tid1 Kongen bestemmer.
+
+– – –
+
+1 Fra 1 nov 2017 iflg. [res. 15 sep 2017 nr. 1420](forskrift/2017-09-15-1420).

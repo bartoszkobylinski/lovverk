@@ -108,6 +108,10 @@ Ordet EKSPERIMENT eller EXPERIMENTAL skal plasseres i minst 30 mm høye latinske
 
 I selvbygd luftfartøy skal det monteres et skilt lett synlig for alle ombordværende med følgende tekst:
 
+*ADVARSEL*
+
+*DET ER IKKE VERIFISERT AT DETTE LUFTFARTØYET FYLLER KRAVENE TIL LUFTDYKTIGHET I KLASSE NORMAL*
+
 ## § 13. (Prøveflygingsprogram)
 
 Prøveflygingsprogram skal godkjennes av Luftfartstilsynet. Bakkeprøving skal være avsluttet før søknad om prøveflyging sendes Luftfartstilsynet.

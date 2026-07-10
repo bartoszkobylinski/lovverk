@@ -36,7 +36,13 @@ I denne forskriften menes med*samfunnsnyttige og humanitære organisasjoner:* la
 
 ## § 3. Tilskudd til sentrale beredskapsoppgaver
 
-Følgende tre beredskapsorganisasjoner skal i løpet av andre kvartal motta følgende prosentandel av samlet tilskudd, uten søknad:Røde Kors:31,6 pst.Redningsselskapet:19,5 pst.Norsk Folkehjelp:2,4 pst.
+Følgende tre beredskapsorganisasjoner skal i løpet av andre kvartal motta følgende prosentandel av samlet tilskudd, uten søknad:
+
+|  |  |
+| --- | --- |
+| Røde Kors: | 31,6 pst. |
+| Redningsselskapet: | 19,5 pst. |
+| Norsk Folkehjelp: | 2,4 pst. |
 
 ## § 4. Tilskuddsberettigede organisasjoner
 
@@ -54,7 +60,7 @@ Lotteri- og stiftelsestilsynet vurderer om en organisasjon er tilskuddsberettige
 
 Tilskuddet til fordeling mellom tilskuddsberettigede etter [§ 4](forskrift/2022-12-05-2123/§4) utgjør samlet tilskudd med fradrag for tilskudd som er fordelt etter [§ 3](forskrift/2022-12-05-2123/§3), og eventuelle innestående rentemidler.
 
-Tilskudd fordeles av Lotteri- og stiftelsestilsynet etter søknad. Tilskuddet fordeles mellom tilskuddsberettigede etter følgende formel: $$\text{Tilskudd} =\frac{\text{Fordelingsgrunnlag for den enkelte søker}}{\text{Sum av fordelingsgrunnlag for alle godkjente søkere}} \cdot \text{beløp til fordeling}$$
+Tilskudd fordeles av Lotteri- og stiftelsestilsynet etter søknad. Tilskuddet fordeles mellom tilskuddsberettigede etter følgende formel: $$\\text{Tilskudd} =\\frac{\\text{Fordelingsgrunnlag for den enkelte søker}}{\\text{Sum av fordelingsgrunnlag for alle godkjente søkere}} \\cdot \\text{beløp til fordeling}$$
 
 Fordelingsgrunnlag for den enkelte søker består av sentralleddets eller sentralorganisasjonens driftskostnader i henhold til forrige års regnskap, med følgende fradrag:kostnader og virksomhet som ikke er kompensasjonsberettiget etter forskrift om merverdiavgiftskompensasjon for frivillige organisasjoner [§ 7 første ledd](forskrift/2025-12-18-2719/§7/ledd/1) bokstav d til k,kontantoverføringer til egen organisasjon og samarbeidspartnere i utlandet, lønnskostnader til personell stasjonert i utlandet samt øvrige kostnader i utlandet, ogtotale driftskostnader knyttet til virksomhet som er kompensasjonsberettiget gjennom [lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.](lov/2003-12-12-108), herunder frivillige organisasjoner som på vegne av kommune eller fylkeskommune produserer helse-, undervisnings- eller sosiale tjenester som kommune eller fylkeskommune er lovpålagt å utføre.
 

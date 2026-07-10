@@ -504,4 +504,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enke
 
 Kongen kan gi overgangsregler i forskrift.
 
+1 Fra 1 juli 2009 iflg. [res. 26 juni 2009 nr. 865](forskrift/2009-06-26-865).
+
 ### § 56. Endringer i andre lover
+
+– – –

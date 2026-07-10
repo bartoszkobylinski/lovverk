@@ -256,6 +256,8 @@ Ansvarlig myndighet kan frafalle en påløpt tvangsmulkt. Avgjørelsen regnes ik
 
 Loven gjelder fra den tid1 Avtalen trer i kraft for Norge.
 
+1 Fra 17. januar 2026 iflg. [meddelelse 7 nov 2025 nr. 2226](forskrift/2025-11-07-2226).
+
 ### § 6-2. Endringer i andre lover
 
 Fra den tid loven begynner å gjelde, skal [§ 14-4 i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling](lov/2008-06-27-71/§14-4) lyde: – – –

@@ -52,4 +52,10 @@ Disse forskrifter trer i kraft den 1. mars 1966.
 
 ## Vedlegg
 
+Kart A: [(pdf)](static/SF/sf-19660211-3449-01-01.pdf)
+
+Kart B: [(pdf)](static/SF/sf-19660211-3449-02-01.pdf)
+
+Kart C: [(pdf)](static/SF/sf-19660211-3449-03-01.pdf)
+
 > Vedlegg tilføyd ved forskrift [13 juli 2021 nr. 2423](forskrift/2021-07-13-2423).

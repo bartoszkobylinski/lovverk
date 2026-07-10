@@ -400,7 +400,16 @@ Ved søknad om driftstillatelse for godstaubaner skal følgende dokumenteres:ove
 
 Taubanevirksomheten skal ha rutiner for vedlikehold, kontroll og utskifting av bæretau, trekktau, balansetau og strammetau.
 
-Ståltau skal repareres eller skiftes når tverrsnittsreduksjonen på et hvilket som helst sted på tauet overstiger verdiene i tabellen nedenfor. *Reduksjon i prosent**Målelengde**Reduksjon i prosent**Målelengde**Reduksjon i prosent**Målelengde**Tillegg*Bæretau– lukket10180 x D530 x DTrådbrudd i profiltråder som ligger ved siden av hverandre skal ha en minsteavstand på 18 x D.– partspiral20180 x D1020 x DPartspiraltau skal i en part ha maksimalt 35 % tverrsnittsreduksjon på grunn av trådbrudd over en lengde på 4 x D.spiraltau10Alle trådbrudd i yttertråder over hele taulengden skal medregnes.Trekk- og balansetau25500 x D1040 x D66 x DSom over.Strammetau840 x D46 x DSom over.
+Ståltau skal repareres eller skiftes når tverrsnittsreduksjonen på et hvilket som helst sted på tauet overstiger verdiene i tabellen nedenfor.
+
+|  | *Reduksjon i prosent* | *Målelengde* | *Reduksjon i prosent* | *Målelengde* | *Reduksjon i prosent* | *Målelengde* | *Tillegg* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Bæretau |  |  |  |  |  |  |  |
+| – lukket | 10 | 180 x D | 5 | 30 x D |  |  | Trådbrudd i profiltråder som ligger ved siden av hverandre skal ha en minsteavstand på 18 x D. |
+| – partspiral | 20 | 180 x D | 10 | 20 x D |  |  | Partspiraltau skal i en part ha maksimalt 35 % tverrsnittsreduksjon på grunn av trådbrudd over en lengde på 4 x D. |
+| spiraltau | 10 |  |  |  |  |  | Alle trådbrudd i yttertråder over hele taulengden skal medregnes. |
+| Trekk- og balansetau | 25 | 500 x D | 10 | 40 x D | 6 | 6 x D | Som over. |
+| Strammetau | 8 | 40 x D | 4 | 6 x D |  |  | Som over. |
 
 ## Kapittel 6. Krav til kabelkraner
 
@@ -507,3 +516,7 @@ Forskriften trer i kraft 1. juli 2023. Fra samme dato oppheves [forskrift 21. ju
 > Endret ved forskrift [8 des 2025 nr. 2457](forskrift/2025-12-08-2457) (i kraft 1 jan 2026, tidligere § 7-5).
 
 ## Forordninger
+
+For å lese forordning [(EU) 2016/424](eu/32016r0424) se her: [(pdf)](static/SF/32016r0424o-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2016/424](eu/32016r0424) se her: [(pdf)](static/SF/32016r0424e-01.pdf)

@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
+I [forskrift 3. januar 2018 nr. 7 om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6](forskrift/2018-01-03-7) gjøres følgende endringer:
+
+[§ 1](forskrift/2018-01-03-7/§1) første ledd skal lyde:
+
 For beslutning om å unnlate revisjon etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) gjelder følgende terskelverdier for driftsinntekter og balansesum etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) første ledd første punktum nr. 1 og 2:Driftsinntektene av den samlede virksomheten må være mindre enn 7 millioner kroner.Selskapets balansesum må være mindre enn 27 millioner kroner.
+
+[§ 2](forskrift/2018-01-03-7/§2) første ledd skal lyde:
 
 Har selskapet ikke fastsatt sitt første årsregnskap, gjelder følgende terskelverdi for aksjeinnskudd etter [aksjeloven § 7-6](lov/1997-06-13-44/§7-6) annet ledd annet punktum:Aksjeinnskuddene i forbindelse med stiftelsen må være mindre enn 27 millioner kroner.
 

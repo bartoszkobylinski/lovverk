@@ -73,3 +73,5 @@ Rett til pensjon etter loven har ledsager som fyller vilkårene i [§ 3](lov/199
 For ektefeller medregnes også ledsagertid opparbeidet før loven trer i kraft ved beregning av pensjonen. Det gjelder likevel en sperrefrist på 15 år ved ordningens ikrafttreden, slik at for å få rett til pensjon, må ektefellen da ha minst 15 års ledsagertid i utlandet. Denne sperregrensen reduseres med ett år pr. år fra ordningens ikrafttreden, inntil man når en karenstid på 10 år, jf. [§ 3](lov/1999-01-15-1/§3).
 
 > Endret ved [lov 20 des 2016 nr. 105](lov/2016-12-20-105) (i kraft 1 jan 2017).
+
+1 Med virkning fra 1 jan 1999 iflg. [res. 15 jan 1999 nr. 20](forskrift/1999-01-15-20).

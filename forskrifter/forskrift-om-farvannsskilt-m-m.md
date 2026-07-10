@@ -100,13 +100,24 @@ Farvannsskilt skal utformes med standardiserte skiltelementer (symboler, tekst o
 
 Varsel, forbuds og opplysningsskilt skal normalt utføres i fire ulike størrelser, liten størrelse 0 (LS 0), liten størrelse 1 (LS 1), middels størrelse (MS) og stor størrelse (SS).
 
-Valg av skiltstørrelse skal gjøres ut fra vurderinger av farvannets beskaffenhet, bruk av farvannet mv., og slik at de er synlige på en avstand hvor sjøfarende kan tilpasse sin ferdsel etter forholdene i rett tid.*Tabell 1. Skiltstørrelse og leseavstand (veiledende)**Størrelse**Leseavstand*LS 0Kanaler og trange farvannLS 1Opp til 200 meterMSFra 200 til 500 meterSSOver 500 meter
+Valg av skiltstørrelse skal gjøres ut fra vurderinger av farvannets beskaffenhet, bruk av farvannet mv., og slik at de er synlige på en avstand hvor sjøfarende kan tilpasse sin ferdsel etter forholdene i rett tid.*Tabell 1. Skiltstørrelse og leseavstand (veiledende)* *Størrelse**Leseavstand*LS 0Kanaler og trange farvannLS 1Opp til 200 meterMSFra 200 til 500 meterSSOver 500 meter
 
 Grafisk utforming av skilt, herunder også tall og bokstaver, skal være i samsvar med det som fremgår under pkt. 5.8 (jf. datafiler for produksjon av skilt som utgis av Kystverket).
 
 ### 2.2 Form
 
 Varsel, forbuds- og opplysningsskilt skal ha kvadratisk form.
+
+*Figur 1. Skilt med kvadratisk form*
+
+*Tabell 2. Mål for skilt med kvadratisk form*
+
+| *Størrelse* | *Sidelengde A (mm)* | *Bordbredde b (mm)* | *Hjørneradius r (mm)* |
+| --- | --- | --- | --- |
+| LS 0 | 600 | 60 | b x 3/10 |
+| LS 1 | 1000 | 100 |  |
+| MS | 1500 | 150 |  |
+| SS | 2000 | 200 |  |
 
 Forbudsskiltet «Fartsgrense opphører» og opplysningsskilt skal utføres uten bord.
 
@@ -130,9 +141,17 @@ Underskilt til opplysningsskilt skal utføres uten bord.
 
 Markeringsskilt med trekant form skal ha to like lange sider og høyde like lang som grunnlinjen.
 
+*Figur 2. Skilt med trekantet form*
+
+*Tabell 3. Mål for skilt med trekant form* *Størrelse**Grunnlinje / høyde A (mm)**Hjørneradius r (mm)*LS 0600A x 3/100LS 11000MS1500SS2000
+
 ### 3.2 Sirkel form
 
 Markeringsskilt med sirkel form skal ha mål som i tabellen under.
+
+*Figur 3. Skilt med sirkel form*
+
+*Tabell 4. Mål for skilt med sirkel form* *Størrelse**Diameter D (mm)*LS 0600LS 11000MS1500SS2000
 
 ### 4. Utførelse av farvannsskilt
 
@@ -228,13 +247,55 @@ Farvannsskiltene skal ha utforming som det fremgår under.
 
 ### 5.9 Varselskilt
 
+|  |  |
+| --- | --- |
+| *Kabelferge*<br>Anvendelse:<br>Angir kabelstyrt eller kabeldrevet ferge. |  |
+| *Livsfarlig ledning*<br>Anvendelse:<br>Angir strømførende ledning med livsfarlig spenning. |  |
+| *Vertikal klaring og sikker vertikal klaring*<br>Anvendelse:<br>Angir vertikal klaring under bru eller lignende og sikker vertikal klaring under luftlinje med elektrisk energi eller elektronisk kommunikasjon.<br>Ved lave bruer kan skiltet «Annen fare» med underskilt «Lav bru» anvendes. |  |
+| *Horisontal klaring*<br>Anvendelse:<br>Angir horisontal klaring i en farledsinnsnevring, utdypet renne eller lignende. |  |
+| *Bevegelig bru*<br>Anvendelse:<br>Angir alle typer bevegelig bru, for eksempel klaffebru og svingbru. |  |
+| *Annen fare*<br>Anvendelse:<br>Angir en fare som det ikke finnes eget skilt for. Farens art skal angis på underskilt. |  |
+
 ### 5.10 Forbudsskilt
+
+|  |  |
+| --- | --- |
+| *Dykking forbudt*<br>Anvendelse:<br>Angir at dykking er forbudt. Forbud kan være gitt ved ordensforskrift eller lignende. |  |
+| *Ankring forbudt*<br>Anvendelse:<br>Angir at ankring er forbudt. |  |
+| *Sjøtrafikk forbudt*<br>Anvendelse:<br>Angir at sjøtrafikk er forbudt innenfor et sjøområde. |  |
+| *Fartsgrense*<br>Anvendelse:<br>Angir høyeste tillatte fart (for eksempel 5 knop). |  |
+| *Fartsgrense opphører*<br>Anvendelse:<br>Angir at fartsgrense opphører. |  |
 
 ### 5.11 Opplysningsskilt
 
+|  |  |
+| --- | --- |
+| *Sakte fart*<br>Anvendelse:<br>Angir at fartøyer skal utvise forsiktighet og avpasse farten. |  |
+| *Anropskanal VHF*<br>Anvendelse:<br>Angir anropskanal som skal brukes for å kontakte havn eller lignende. |  |
+
 ### 5.12 Underskilt
 
+|  |  |
+| --- | --- |
+| *Strekningens lengde fra skiltet i meter*<br>Anvendelse:<br>Angir strekning fra hovedskiltet i meter (m). |  |
+| *Strekningens lengde fra skiltet i nautiske mil*<br>Anvendelse:<br>Angir strekning fra skiltet i nautiske mil (M). |  |
+| *Strekningens lengde bortenfor skiltet i meter*<br>Anvendelse:<br>Angir en strekning som begynner bortenfor hovedskiltet i meter (m). |  |
+| *Strekningens lengde bortenfor skiltet i nautiske mil*<br>Anvendelse:<br>Angir en strekning som begynner bortenfor hovedskiltet i nautiske mil (M). |  |
+| *Tid*<br>Anvendelse:<br>Angir tiden for når hovedskiltet gjelder. |  |
+| *Dato*<br>Anvendelse:<br>Angir dato for når hovedskiltet gjelder. |  |
+| *Fartøy større enn ... BT*<br>Anvendelse:<br>Angir størrelsen i bruttotonn (BT) på fartøy hovedskiltet gjelder for. |  |
+| *Kabel, rørledning, vannledning, avløpsledning*<br>Anvendelse:<br>Angir at hovedskiltet gjelder kabel, rørledning eller lignende sjøledning. |  |
+| *Lav bru*<br>Anvendelse:<br>Angir at hovedskiltet gjelder lav bru. |  |
+| *Virkeområde*<br>Anvendelse:<br>Angir hovedskiltets virkeområde en eller begge sider i meter (m). |  |
+
 ### 5.13 Markeringsskilt
+
+|  |  |
+| --- | --- |
+| *Sidemarkering styrbord*<br>Anvendelse:<br>Angir sidemarkering til styrbord i forhold til merkesystemets hovedretning for begrenset høyde under bru. |  |
+| *Sidemarkering babord*<br>Anvendelse:<br>Angir sidemarkering til babord i forhold til merkesystemets hovedretning for begrenset høyde under bru. |  |
+| *Beste punkt for passering*<br>Anvendelse:<br>Angir beste punkt for passering under bru. |  |
+| *Overett*<br>Anvendelse:<br>Viser traseen på sjøbunnen for kabel, rørledning eller lignende sjøledning.<br>Merknad:<br>Som overettmerker bør likesidede trekanter anvendes.<br>Trekantene skal ha rød bunnfarge og en vertikal gul stripe på midten.<br>Trekanten nærmest sjøen monteres med spissen opp og trekanten lengst fra sjøen over dette og med spissen ned. |  |
 
 ## Vedlegg 2 – Merking av akvakulturanlegg
 
@@ -286,7 +347,7 @@ For IALA-spesialmerke som anvendes til formål etter dette vedlegget gjelder kra
 
 ### 3.3.1 Overflatefarge
 
-Gul overflatefarge skal være innenfor de verdier som er angitt med hjørnekoordinater i henhold til CIE (International Commission on Illumination) standard kromatiske diagram i tabellen under.*Tabell 5. Fargekoordinater for vanlig overflatefarge i dagslys*1234xYxyxyxyGul0,5220,4770,4700,4400,4270,4830,4650,534
+Gul overflatefarge skal være innenfor de verdier som er angitt med hjørnekoordinater i henhold til CIE (International Commission on Illumination) standard kromatiske diagram i tabellen under.*Tabell 5. Fargekoordinater for vanlig overflatefarge i dagslys* 1234xYxyxyxyGul0,5220,4770,4700,4400,4270,4830,4650,534
 
 Standardfargene RAL 1023 TRAFIKKGUL og NCS S 1080-Y GUL møter kravet til gul overflatefarge.
 
@@ -353,5 +414,11 @@ Montasjen bør være i følgende rekkefølge ovenfra og ned:lyssignalradarreflek
 ### 3.5.2 Bære- og støttekonstruksjoner
 
 Bære- og støttekonstruksjon bør tilfredsstille krav til oppsettingsutstyr etter Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav – Del 5 Oppsettingsutstyr (Vegdirektoratet), så langt disse er anvendelige.
+
+*Eksempler på merking av akvakulturanlegg*
+
+*Figur 3. Flytende akvakulturanlegg i sjø – oversikt*
+
+Figur 4. Flytende akvakulturanlegg i sjø – IALA spesialmerke
 
 > Endret ved [forskrift 19 des 2014 nr. 1813](forskrift/2014-12-19-1813) (i kraft 1 jan 2015).

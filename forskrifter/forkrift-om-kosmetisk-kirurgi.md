@@ -94,6 +94,8 @@ Forskriften er begrenset til å omfatte inngrep med bruk av kirurgisk kniv. Ved 
 
 Bestemmelsen angir hvilke spesialister som kan gis spesiell tillatelse til å utføre kosmetisk kirurgiske inngrep. Det er statsforvalteren som gir slik tillatelse.
 
+*Til ikrafttredelsen:*
+
 Endringene av 1 juli 2005 nr. 750 trer i kraft 1. juli 2005. Når det gjelder tannleger som er godkjente spesialister i henhold til ny [§ 4](forskrift/2000-12-21-1387/§4) bokstav e) trer forskriften i kraft 1. januar 2006, slik at aktuelt helsepersonell kan informeres om forskriftsendringen og sørge for å skaffe seg tillatelse innen ikrafttredelsestidspunktet.
 
 > Merknadene tilføyd ved [forskrift 1 juli 2005 nr. 750](forskrift/2005-07-01-750), endret som følge av forskrift [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).

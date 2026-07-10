@@ -144,3 +144,5 @@ Departementet kan gi forskrift om at reguleringsmyndigheten kan gi forskrift i m
 Loven gjelder fra den tid Kongen bestemmer.1
 
 > Tilføyd ved [lov 30 juni 2006 nr. 60](lov/2006-06-30-60) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 741](forskrift/2006-06-30-741)), endret ved [lov 25 mai 2018 nr. 22](lov/2018-05-25-22) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), tidligere § 8.
+
+1 Fra 1 aug 2002 iflg. [res. 28 juni 2002 nr. 654](forskrift/2002-06-28-654).

@@ -454,7 +454,16 @@ Direktoratet for samfunnssikkerhet og beredskap kan ilegge overtredelsesgebyr ve
 
 ### § 61. Utmåling av overtredelsesgebyr
 
-For handlinger og unnlatelser som nevnt i tabellen, ilegges overtredelsesgebyr etter følgende satser:*Unnlatelse eller handling**Størrelsen på overtredelsesgebyrene i kr*a. Unnlater å gi opplysninger av betydning for å vurdere om vedkommende skal pålegges tjenesteplikt, videre tjenestegjøring og for å holde personellregister oppdatert eller unnlater å dokumentere nevnte opplysninger3 000b. Unnlater å skriftlig bekrefte eller svare på innkallinger, varsel om og pålegg om tjenesteplikt eller øvrig informasjon om at tjenesteplikt er mottatt3 000c. Unnlater å møte på rekrutteringsmøtet6 000d. Unnlater å møte på kurs8 000e. Forlater tjenesten uten tillatelsefra 4 000 til 8 000f. Nyter alkohol eller andre berusende eller bedøvende midler under tjenesten eller møter påvirket til tjeneste4 000
+For handlinger og unnlatelser som nevnt i tabellen, ilegges overtredelsesgebyr etter følgende satser:
+
+| *Unnlatelse eller handling* | *Størrelsen på overtredelsesgebyrene i kr* |
+| --- | --- |
+| a. Unnlater å gi opplysninger av betydning for å vurdere om vedkommende skal pålegges tjenesteplikt, videre tjenestegjøring og for å holde personellregister oppdatert eller unnlater å dokumentere nevnte opplysninger | 3 000 |
+| b. Unnlater å skriftlig bekrefte eller svare på innkallinger, varsel om og pålegg om tjenesteplikt eller øvrig informasjon om at tjenesteplikt er mottatt | 3 000 |
+| c. Unnlater å møte på rekrutteringsmøtet | 6 000 |
+| d. Unnlater å møte på kurs | 8 000 |
+| e. Forlater tjenesten uten tillatelse | fra 4 000 til 8 000 |
+| f. Nyter alkohol eller andre berusende eller bedøvende midler under tjenesten eller møter påvirket til tjeneste | 4 000 |
 
 Brytes et alternativ i første ledd på nytt innenfor en to-årsperiode, økes overtredelsesgebyret med 50 % for hver gjentagelse, men likevel innenfor rammen i fjerde ledd.
 

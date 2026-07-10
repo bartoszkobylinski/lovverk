@@ -1682,11 +1682,15 @@ Fra den tid loven trer i kraft oppheves [lov 17. juli 1992 nr. 100 om barnevernt
 
 Departementet kan gi overgangsbestemmelser.
 
+1 Fra 1. januar 2023, med unntak av [§ 2-6](lov/2021-06-18-97/§2-6) og [§ 15-7](lov/2021-06-18-97/§15-7) fjerde ledd. Loven § 15-7 fjerde ledd trer i kraft 1. juli 2023, iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739).
+
 ### § 18-2. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-versjon](static/NL/nl-20210618-097-01-01.pdf)
 
 > Oversettelsen av barnevernsloven til nordsamisk er levert av Barne- og familiedepartementet og er oppdatert per 1. januar 2026.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

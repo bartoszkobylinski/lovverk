@@ -88,6 +88,10 @@ Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Det er ikke 
 
 Bankgarantien sendes med rekommandert brev senest 11. juni 2018 til:
 
+Fiskeridirektoratet
+Pb. 185 Sentrum
+5804 Bergen
+
 Budgiver skal ved registering laste opp en elektronisk kopi av bankgarantien. Dersom budgiver ikke har fått anskaffet en bankgaranti innen registreringsfristen, kan elektronisk kopi av bankgarantien lastes opp frem til og med 8. juni 2018 kl. 23:59. Original bankgaranti skal sendes med rekommandert brev. Sendingen merkes med «Auksjon 2018».
 
 Fiskeridirektoratet vil avvise registrereringen dersom den er levert for sent. Direktoratet vil også avvise registreringen dersom den inneholder vesentlige feil og mangler.
@@ -139,6 +143,11 @@ Vinnere gis mulighet til å fritt å dele opp, eller fordele tildelt kapasitet p
 ### § 16. Innbetaling av vederlag
 
 Vinner plikter å betale budsummen innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til
+
+Fiskeridirektoratet,
+Økonomiseksjonen,
+Postboks 185 Sentrum,
+5804 Bergen.
 
 Beløpet betales til kontonummer 7694 05 09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.
 

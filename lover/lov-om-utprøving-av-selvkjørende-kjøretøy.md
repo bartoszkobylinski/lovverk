@@ -143,3 +143,5 @@ Departementet kan videre gi forskrift om lovens anvendelse på Svalbard, herunde
 ### § 20. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Fra 1 jan 2018 iflg. [res. 15 des 2017 nr. 2040](forskrift/2017-12-15-2040).

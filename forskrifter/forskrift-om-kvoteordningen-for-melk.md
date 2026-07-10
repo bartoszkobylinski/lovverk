@@ -208,8 +208,41 @@ Fra det tidspunkt forskriften trer i kraft gjøres følgende endringer i andre f
 
 ## Vedlegg 1: Omregningsfaktorene ved lokal foredling av melk:
 
+| *Produktgrupper* |  | *Beskrivelse<br>Gjelder både ku- og geitemelk* | *Omregningsfaktorer* |
+| --- | --- | --- | --- |
+| 1. | – Smør | – Smør kjernet av fløte/rømme. | 21,6 |
+| 2. | – Pultost | – Mager hvitost ystet av surmelk. | 14,0 |
+| 3. | – Helfet brunost, Tinn-type | – Brunost der alt kasein er fjernet fra mysen. | 13,0 |
+| 4. | – Helfet brunost<br>– Hvitost | – Brunost tilsatt under 30 % melk.<br>– Fast og halvfast hvitost. | 11,0 |
+| 5. | – Rømme<br>– Fløte | – Syrnet fløte med 30–40 % fett.<br>– Fløte med 30–40 % fett. | 10,0 |
+| 6. | – Brunost med melk | – Brunost tilsatt over 30 % melk. | 8,5 |
+| 7. | – Bløt hvitost | – Bløt hvitost. | 7,5 |
+| 8. | – Smørbar ost<br>– Rømmegrøt | – Fersk hvitost med smørbar konsistens.<br>– Brunostprodukt med primlignende konsistens.<br>– Rømmegrøt. | 5,0 |
+| 9. | – Gomme<br>– Ostekake | – Melkeprodukt med gomme-/grøtkonsistens.<br>– Kake laget med ost som råstoff. | 3,0 |
+| 10. | – Melk<br>– Spesialprodukt | – Melk uten tilsetning og melk syrnet med yoghurtkultur eller annen bakteriekultur, solgt som konsummelk.<br>– Spesialprodukt med mer enn 50 % vektandel av melkeråstoff i produktet (kaker, paier etc.). | 1,0 |
+| 11. | – Fløteis | – Iskrem laget av egen melk og fløte. | 2,0 |
+| 12. | – Fløteis | – Iskrem laget av egen melk og innkjøpt fløte. | 0,35 |
+
 > Endret ved [forskrift 20 april 2018 nr. 614](forskrift/2018-04-20-614) (med virkning fra 1 jan 2018).
 
 ## Vedlegg 2: Oppkjøpsmengde og pris for den enkelte produksjonsregion.
+
+| *Produksjonsregion* | *Oppkjøp, liter* | *Kroner per liter* |
+| --- | --- | --- |
+| Tidligere Østfold og Vestfold fylke | 1 335 400 | 12,50 |
+| Oslo og tidligere Akershus fylke | 750 474 | 12,50 |
+| Tidligere Hedmark fylke | 2 300 691 | 15,50 |
+| Tidligere Oppland fylke | 4 468 140 | 14,00 |
+| Tidligere Buskerud fylke | 876 780 | 10,00 |
+| Tidligere Telemark fylke | 366 344 | 10,00 |
+| Agder | 1 256 136 | 15,50 |
+| Rogaland | 7 139 073 | 15,50 |
+| Vestland | 4 892 498 | 12,50 |
+| Møre og Romsdal | 3 667 115 | 14,00 |
+| Trøndelag | 8 687 139 | 14,00 |
+| Nordland | 2 779 210 | 12,50 |
+| Tidligere Troms fylke | 915 551 | 10,00 |
+| Tidligere Finnmark fylke | 565 447 | 10,00 |
+| *Totalt* | 40 000 000 |  |
 
 > Tilføyd ved [forskrift 6 des 2019 nr. 1655](forskrift/2019-12-06-1655) som endret ved [forskrift 16 des 2019 nr. 1817](forskrift/2019-12-16-1817) (i kraft 1 jan 2020).

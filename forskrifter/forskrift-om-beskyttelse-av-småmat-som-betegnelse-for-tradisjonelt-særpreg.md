@@ -47,10 +47,16 @@ Småmat har lange tradisjoner i Hallingdal. Det er litt usikkert hvor gammel den
 
 Småmaten var og er festmat i Hallingdal og er fremdeles vanlig i bryllup og begravelser. Småmat brukes ikke til forrett, den har alltid blitt brukt som hovedrett og serveres gjerne med lefsekling.
 
+*Tradisjonelle råvarer og sammensetning*
+
 I Småmat ble det tradisjonelt brukt råvarer som man hadde tilgjengelig, slik som saltet og tørket kjøtt av svin og får, ferskt kjøtt av storfe, sau og svin, erter, potet og gulrot. Ingredienser som kålrot, selleri og purre er også en del av tradisjonen.
+
+*Tradisjonell produksjonsmetode*
 
 Alle ingredienser kokes i henhold til tradisjonen hver for seg og alle bitene kuttes like store. Fra gammelt av ble bitene kuttet for hånd, men i dag foregår kutting som oftest på maskin.
 
 Kraften trekkes på rikelig av spekeknoker og eventuelt kraftbein, samt kjøttet som brukes i småmaten. Det tilsettes salt og kraften trekkes over lang tid til den får en rik smak. Underveis skummer man av toppen av kraften for å få en klarest mulig kraft.
+
+*Næringsmidlets særlige kjennetegn*
 
 Småmat er kjennetegnet av en klar kjøttkraft med kjøtt og grønnsaker kuttet i små og like store biter. Ferdig Småmat skal være pen å se på. Den skal lukte svakt av spekekjøtt, smake rikelig av spekekjøtt og et hint av grønnsaker.

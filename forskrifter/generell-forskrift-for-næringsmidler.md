@@ -36,23 +36,23 @@ Forskriften omfatter ikke primærproduksjon av landbruksprodukter.
 
 ### § 2. Definisjoner
 
-1. *Næringsmiddel:* ethvert stoff eller produkt, uansett om det er bearbeidet, delvis bearbeidet eller ubearbeidet, som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker. Næringsmidler omfatter drikke, tyggegummi og ethvert stoff, herunder vann, som bevisst tilsettes næringsmiddelet når det framstilles, tilberedes eller behandles. Næringsmidler omfatter vann etter det sted for overholdelse som er fastsatt i artikkel 6 i direktiv [98/83/EF](eu/31998l0083*) (drikkevannsdirektivet), og uten at kravene i direktiv [80/778/EØF](eu/31980l0778*) og direktiv [98/83/EF](eu/31998l0083*) berøres.
+1\. *Næringsmiddel:* ethvert stoff eller produkt, uansett om det er bearbeidet, delvis bearbeidet eller ubearbeidet, som er bestemt til, eller med rimelighet kan forventes, å inntas av mennesker. Næringsmidler omfatter drikke, tyggegummi og ethvert stoff, herunder vann, som bevisst tilsettes næringsmiddelet når det framstilles, tilberedes eller behandles. Næringsmidler omfatter vann etter det sted for overholdelse som er fastsatt i artikkel 6 i direktiv [98/83/EF](eu/31998l0083*) (drikkevannsdirektivet), og uten at kravene i direktiv [80/778/EØF](eu/31980l0778*) og direktiv [98/83/EF](eu/31998l0083*) berøres.
 
-2. ---
+2\. ---
 
-3. Næringsmiddelvirksomhet eller -bedrift er ethvert foretagende som produserer, pakker, lagrer, transporterer, omsetter eller importerer næringsmidler.
+3\. Næringsmiddelvirksomhet eller -bedrift er ethvert foretagende som produserer, pakker, lagrer, transporterer, omsetter eller importerer næringsmidler.
 
-4. ---
+4\. ---
 
-5. ---
+5\. ---
 
-6. ---
+6\. ---
 
-7. ---
+7\. ---
 
-8. ---
+8\. ---
 
-9. *Lett bedervelig næringsmiddel:* næringsmiddel som på grunn av mikrobiologisk eller enzymatisk aktivitet kan bli helseskadelig eller få vesentlig nedsatt hygienisk kvalitet allerede ved kortvarig lagring ved romtemperatur.
+9\. *Lett bedervelig næringsmiddel:* næringsmiddel som på grunn av mikrobiologisk eller enzymatisk aktivitet kan bli helseskadelig eller få vesentlig nedsatt hygienisk kvalitet allerede ved kortvarig lagring ved romtemperatur.
 
 > Endret ved [forskrifter 14 okt 1991 nr. 795](forskrift/1991-10-14-795), [21 des 1993 nr. 1378](forskrift/1993-12-21-1378), [18 feb 1996 nr. 201](forskrift/1996-02-18-201), [10 des 2002 nr. 1671](forskrift/2002-12-10-1671) (i kraft 1 jan 2003), [15 jan 2004 nr. 227](forskrift/2004-01-15-227), [22 des 2008 nr. 1635](forskrift/2008-12-22-1635) som endret ved [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316) (i kraft 1 mars 2010).
 

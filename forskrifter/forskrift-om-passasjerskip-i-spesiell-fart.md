@@ -34,6 +34,8 @@ I denne forskrift betyr:*Eksisterende passasjerskip i spesiell fart:* Passasjers
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
+1 For skip kjølstrukket eller som er på et tilsvarende byggetrinn, på eller etter den 26. mai 1965, men før 25. mai 1980, betyr «Sjøsikkerhetskonvensjonen»: Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1960.](traktat/1974-11-01-1)
+
 ## § 3. Plikter
 
 Rederiet, skipsføreren og andre som har sitt arbeid om bord skal utføre sine plikter i henhold til skipssikkerhetsloven og med de utfyllende bestemmelser som følger av forskriften her.
@@ -291,6 +293,26 @@ De skip som denne overenskomst gjelder for skal være underlagt de internasjonal
 
 ### Sikkerhetssertifikat for passasjerskip i spesiell fart
 
+|  |  |
+| --- | --- |
+| (Offisielt segl) | (Land) |
+| for en / (en kort) internasjonal reise i spesiell fart |  |
+| Utstedt i henhold til bestemmelsene i |  |
+
+OVERENSKOMSTEN OM PASSASJERSKIP I SPESIELL FART, 1971
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Skipets navn | Kjennings- nummer eller bokstaver | Hjemsted | Brutto- tonnasje | Oppgave over reiser som i tilfelle er godkjent i samsvar med regel 27 (c) (vii) i kapittel III i SOLAS | Dato for kjølstrekkingen (Se merknad under) |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+|  |  |
+| --- | --- |
+| Den | (Navn) regjering bevitner |
+| Jeg, undertegnede | (navn) bevitner |
+
 1. At det ovenfor nevnte skip er blitt behørig besiktet i samsvar med bestemmelsene i de regler som er knyttet til overenskomsten om passasjerskip i spesiell fart, 1971, og som gjelder for reiser innenfor de områder som er definert under spesiell fart i disse regler.
 2. At besiktelsen viser at skipet, når det fører passasjerer i spesiell fart og har om bord et samlet antall (mannskap og passasjerer) som ikke overstiger ..... personer, tilfredsstiller kravene i de nevnte regler for så vidt angår:ordningen av og detaljene vedrørende den vanntette oppdeling,følgende oppdelingslastelinjer:Oppdelingslastelinjer som er bestemtFribordÅ benytte når de rom somog avmerket på skipets sider midt-passasjerer føres i,skips (regel 13 i overenskomstenomfatter følgendeom passasjerskip i spesiell fart, 1971)alternative rom:D.1.D.2.D.3.livredningsutstyr tilstrekkelig for et samlet antall av ikke over.......... personer, nemlig:.......... livbåter (herunder ......... motorlivbåter eller mekanisk drevne livbåter), for ......... personer, og ..... ..... motorlivbåter utstyrt med radiotelegrafianlegg og lyskaster (innbefattet i det ovennevnte samlede antall livbåter, se ovenfor) som krever ........ sertifiserte førere av redningsfarkost,.......... redningsflåter som det kreves godkjente utsetningsanordninger for, for ............ personer, og.......... redningsflåter som det ikke kreves godkjente utsetningsanordninger for, for ............ personer,.......... flyteredskaper for ........... personer,.......... livbøyer,.......... redningsvester.livbåtene og redningsflåtene var utstyrt i samsvar med bestemmelsene i reglene,skipet var utstyrt med et linekastende apparat og bærbare radioapparater for livbåter og redningsflåter i samsvar med bestemmelsene i reglene.
 3. At skipet i alle andre henseender tilfredsstiller fordringene i de regler som er knyttet til den nevnte overenskomst, i den utstrekning kravene gjelder for det.Dette sertifikat er utstedt på vegne av den ............ regjering.Det er gyldig inntil ............Utstedt i ............. den ............ 19 .......
@@ -299,7 +321,13 @@ De skip som denne overenskomst gjelder for skal være underlagt de internasjonal
 
 *Dersom undertegnet, skal følgende tilføyes:*
 
-Undertegnede erklærer at undertegnede er behørig bemyndiget av den nevnte regjering til å utstede dette sertifikat.(Underskrift)
+Undertegnede erklærer at undertegnede er behørig bemyndiget av den nevnte regjering til å utstede dette sertifikat.
+
+|  |  |
+| --- | --- |
+|  | (Underskrift) |
+
+*Merknad:*
 
 *Det vil være tilstrekkelig å anføre året for kjølstrekkingen eller året da skipet var på et liknende byggetrinn, unntatt for det år da overenskomsten om passasjerskip i spesiell fart 1971, trådte i kraft, da den aktuelle dato skal oppgis. For et skip som er omgjort som foreskrevet i regel 2 (14) i overenskomsten om passasjerskip i spesiell fart, 1971, må datoen da arbeidet med ombyggingen ble påbegynt angis.*
 
@@ -505,10 +533,71 @@ De skip som disse regler gjelder for skal være underlagt De internasjonale hels
 
 ### Tillegg I. Tabell for rom-normer
 
+|  |  |  |
+| --- | --- | --- |
+| Beliggenhet | Reisens varighet | Minimum romtildeling pr. passasjer |
+| Værdekk (bare under godværssesongen) | Mindre enn 24 timer | 0,74 m2 (8 kvadratfot) |
+|  | 24 timer og derover, men mindre enn 72 timer | 1,12 m2 (12 kvadratfot) |
+| Øvre dekk | Mindre enn 24 timer | 0,74 m2 (8 kvadratfot) |
+|  | 24 timer og derover, men mindre enn 72 timer | 1,12 m2 (12 kvadratfot) |
+| Øvre mellomdekk | Mindre enn 24 timer | 0,88 m2 (9 1/2 kvadratfot) |
+|  | 24 timer og derover, men mindre enn 72 timer | 1,12 m2 (12 kvadratfot) |
+| Nedre mellomdekk | Mindre enn 24 timer | 0,88 m2 (9 1/2 kvadratfot) |
+|  | 24 timer og derover, men mindre enn 72 timer | 1,40 m2 (15 kvadratfot) |
+
 ### Tillegg II. Skjema for sertifikat
 
 ### Sertifikat for romkrav for passasjerskip i spesiell fart
 
-*Det vil være tilstrekkelig å anføre året for kjølstrekkingen, eller året da skipet var på et liknende byggetrinn, unntatt for det år da Overenskomst om passasjerskip i spesiell fart, 1971 trådte i kraft, da den aktuelle dato skal oppgis. For et skip som er omgjort som foreskrevet i regel 2, 14) i Overenskomst om passasjerskip i spesiell fart, 1971, må datoen da arbeidet med ombyggingen ble påbegynt angis.*Anvendbare rom for befordring av passasjerer i spesiell fartAntall passasjerer i spesiell fart tillatt på reisenMindre enn24 timer derover,72 timer ogBARE FOR24 timermen mindre ennderoverEKSISTERENDEtimer 72SKIP 24 timerLokalitetog derover, menmindre enn 48 timeri godværsesonger
+|  |  |
+| --- | --- |
+| (Offisielt segl) | (Land) |
+| Utstedt i henhold til bestemmelsene i Protokoll om romkrav for passasjerskip i spesiell fart, 1973, etter fullmakt fra regjeringen i |  |
+|  | (landets fullstendige offisielle navn) |
+| av |  |
+|  | (full offisiell betegnelse av den autoriserte person eller organisasjon ifølge bestemmelsene i Protokoll om romkrav for passasjerskip i spesiell fart, 1973) |
 
-Det bekreftes herved at skipet har vært besiktet og at de rom som det er vist til ovenfor har blitt funnet å tilfredsstille kravene i Regler for romkrav for passasjerskip i spesiell fart, 1973, og at de er funnet tilfredsstillende for befordring av det antall passasjerer i spesiell fart som tabellen inneholder.Dette sertifikat er gyldig inntil19 ........Utstedt i(Sted hvor sertifikatet er utstedt)
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Skipets navn | Kjenningsnummer | Hjemsted | Brutto | Dato for kjølstrekkingen |
+|  | eller bokstaver |  | tonnasje | (Se merknad under) |
+
+*MERK:*
+
+*Det vil være tilstrekkelig å anføre året for kjølstrekkingen, eller året da skipet var på et liknende byggetrinn, unntatt for det år da Overenskomst om passasjerskip i spesiell fart, 1971 trådte i kraft, da den aktuelle dato skal oppgis. For et skip som er omgjort som foreskrevet i regel 2, 14) i Overenskomst om passasjerskip i spesiell fart, 1971, må datoen da arbeidet med ombyggingen ble påbegynt angis.*
+
+Anvendbare rom for befordring av passasjerer i spesiell fart
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Antall passasjerer i spesiell fart tillatt på reisen |  |  |  |
+|  | Mindre enn | 24 timer derover, | 72 timer og | BARE FOR |
+|  | 24 timer | men mindre enn | derover | EKSISTERENDE |
+|  |  | timer 72 |  | SKIP 24 timer |
+| Lokalitet |  |  |  | og derover, men |
+|  |  |  |  | mindre enn 48 timer |
+|  |  |  |  | i godværsesonger |
+
+Det bekreftes herved at skipet har vært besiktet og at de rom som det er vist til ovenfor har blitt funnet å tilfredsstille kravene i Regler for romkrav for passasjerskip i spesiell fart, 1973, og at de er funnet tilfredsstillende for befordring av det antall passasjerer i spesiell fart som tabellen inneholder.
+
+|  |  |
+| --- | --- |
+| Dette sertifikat er gyldig inntil | 19 ........ |
+| Utstedt i |  |
+| (Sted hvor sertifikatet er utstedt) |  |
+
+............ 19 ....
+
+(Utstedelsesdato)
+
+Underskrift av den som er bemyndiget til å utstede sertifikatet
+og/eller
+(Den utstedende myndighets stempel)
+
+*Hvis sertifikatet er undertegnet skal følgende passus tilføyes:*
+
+Undertegnede bekrefter at undertegnede er behørig autorisert av nevnte regjering til å utstede dette sertifikat.
+
+..................
+
+(Underskrift)

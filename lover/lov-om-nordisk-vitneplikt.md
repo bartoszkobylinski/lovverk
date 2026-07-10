@@ -107,3 +107,5 @@ Avgjerd av ein dansk, finsk, islandsk eller svensk domstol, som pålegg ein pers
 Denne lova tek til å gjelde frå den tida1 Kongen fastset.
 
 Kongen kan setje lova i kraft særskilt i høve til einskilde av dei statane den skal omfatte.
+
+1 Frå 1 juli 1975 iflg. res. 21 mars 1975.

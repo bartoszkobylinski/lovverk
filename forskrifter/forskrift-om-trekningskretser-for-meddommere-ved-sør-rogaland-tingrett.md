@@ -26,6 +26,8 @@ eu_basis: []
 
 Sør-Rogaland tingrett deles i tre trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Stavanger (rettssted Stavanger)
+
 - Hjelmeland kommune
 - Kvitsøy kommune
 - Randaberg kommune
@@ -33,11 +35,15 @@ Sør-Rogaland tingrett deles i tre trekningskretser for meddommere. Kommunene so
 - Stavanger kommune
 - Strand kommune.
 
+Trekningskrets 2 Jæren (rettssted Sandnes)
+
 - Gjesdal kommune
 - Hå kommune
 - Klepp kommune
 - Sandnes kommune
 - Time kommune.
+
+Trekningskrets 3 Dalane (rettssted Egersund)
 
 - Bjerkreim kommune
 - Eigersund kommune

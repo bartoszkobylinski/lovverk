@@ -54,14 +54,14 @@ Korreksjon for overgang til markedsrente skal foretas for porteføljer som nevnt
 
 Pensjonskasser med forvaltningskapital over 10 milliarder kroner skal beregne verdien av garanterte ytelser og verdien av fremtidig bonus etter tredje og fjerde ledd med tilpasningen som følger femte ledd.
 
-Verdien av garanterte ytelser beregnes som $$GY = FA \cdot \frac{(1+g)^D}{(1+r)^D}$$ der
+Verdien av garanterte ytelser beregnes som $$GY = FA \\cdot \\frac{(1+g)^D}{(1+r)^D}$$ der
 *GY* = verdien av garanterte ytelser,
 *FA* = verdien av forsikringsmessige avsetninger angitt i [§ 3](forskrift/2018-11-09-1689/§3) annet ledd,
 *g* = gjennomsnittlig beregningsrente i porteføljen,
 *r* = risikofri markedsrente tilsvarende gjennomsnittlig durasjon i porteføljen, og
 *D* = gjennomsnittlig durasjon i porteføljen når beregningsrenten i kontraktene legges til grunn.
 
-Verdien av fremtidig bonus beregnes som $$\begin{align} FB_{off} &= maks \{ FA_{off} - GY_{off} ; 0\}, \\ FB_{priv} &= maks \{ FA_{priv} - GY_{priv} ; 0\}, \text{ og} \\ FB_{fri} &= 0{,}8 \cdot maks \{ FA_{fri} - GY_{fri} ; 0\} \\ \end{align} $$ der
+Verdien av fremtidig bonus beregnes som $$\\begin{align} FB_{off} &= maks \\{ FA_{off} - GY_{off} ; 0\\}, \\\\ FB_{priv} &= maks \\{ FA_{priv} - GY_{priv} ; 0\\}, \\text{ og} \\\\ FB_{fri} &= 0{,}8 \\cdot maks \\{ FA_{fri} - GY_{fri} ; 0\\} \\\\ \\end{align} $$ der
 *FB* = verdien av fremtidig bonus.
 
 For pensjonskasser som benytter tilpasning med bruk av årlige kontantstrømmer gjelder beregningen i tredje og fjerde ledd med følgende endringer:Alle størrelser skal baseres på årlige kontantstrømmer basert på hvor stor andel av forsikringsmessige avsetninger som kan henføres til kontantstrømmer i det aktuelle året.Garanterte ytelser og fremtidig bonus skal beregnes for det enkelte år og deretter summeres.I stedet for durasjonen *D* angitt i tredje ledd skal det for hvert år (T) benyttes en faktor som er lik T–0,5.Den gjennomsnittlige beregningsrenten *g* for det enkelte år skal reflektere beregningsrenten for forpliktelsene som forventes utbetalt det aktuelle året.Den risikofrie markedsrenten *r* for det enkelte år T skal reflektere gjennomsnittet av risikofrie markedsrenter med rentebindingstid på T år og T–1 år.
@@ -88,7 +88,9 @@ For individuell forsikring med rett til fornyelse uten ny helsevurdering, skal o
 
 ### § 9. Risikomargin
 
-Risikomarginen skal beregnes på følgende måte: $$RM=0{,}03\cdot\left({BE}_{off}+{BE}_{priv}{+BE}_{fri}+{BE}_{inv.valg}+BF\right)+maks\lbrace0{,}1\cdot BE_{ettår}\text{;}0{,}08\cdot FA_{ettår}\rbrace$$
+Risikomarginen skal beregnes på følgende måte: $$RM=0{,}03\\cdot\\left({BE}_{off}+{BE}_{priv}{+BE}_{fri}+{BE}_{inv.valg}+BF\\right)+maks\\lbrace0{,}1\\cdot BE_{ettår}\\text{;}0{,}08\\cdot FA_{ettår}\\rbrace$$
+
+der
 
 - RM = verdien av risikomarginen,
 - BE = verdien av beste estimat for den enkelte portefølje beregnet i samsvar med § 3,
@@ -134,18 +136,24 @@ Det forenklede solvenskapitalkravet skal beregnes på følgende måte $$SK=BSK+S
 *SKOP* = kapitalkravet for operasjonell risiko, og
 *TEUS* = justering for den tapsabsorberende evnen til utsatt skatt.
 
-Basissolvenskapitalkravet skal beregnes på følgende måte $$BSK=\sqrt{\sum_{i,j}Korr_{i,j}\cdot SK_{i}\cdot SK_{j}}$$ der
+Basissolvenskapitalkravet skal beregnes på følgende måte $$BSK=\\sqrt{\\sum_{i,j}Korr_{i,j}\\cdot SK_{i}\\cdot SK_{j}}$$ der
 *Korri,j* = korrelasjonsparameteren for risikomodul *i* og *j* og,
 *SKi* og *SKj* = kapitalkravet for henholdsvis risikomodul *i* og *j*.
 
 Korrelasjonsparameterne som skal anvendes ved beregning av basissolvenskapitalkravet er gitt ved følgende matrise:
-i\jMarkedsrisikoMotpartsrisikoLivsforsikringsrisikoHelseforsikringsrisikoMarkedsrisiko10,250,250,25Motpartsrisiko0,2510,250,25Livsforsikringsrisiko0,250,2510,25Helseforsikringsrisiko0,250,250,251
+
+| i\\j | Markedsrisiko | Motpartsrisiko | Livsforsikringsrisiko | Helseforsikringsrisiko |
+| --- | --- | --- | --- | --- |
+| Markedsrisiko | 1 | 0,25 | 0,25 | 0,25 |
+| Motpartsrisiko | 0,25 | 1 | 0,25 | 0,25 |
+| Livsforsikringsrisiko | 0,25 | 0,25 | 1 | 0,25 |
+| Helseforsikringsrisiko | 0,25 | 0,25 | 0,25 | 1 |
 
 ### § 15. Markedsrisiko
 
 Derivatavtaler skal hensyntas i beregningen av kapitalkravet for de ulike undermodulene i kapitalkravet for markedsrisiko.
 
-Kapitalkravet for markedsrisiko skal beregnes på følgende måte: $$SK_{MA} = \sqrt{ \sum_{i,j} Korr_{i,j} \cdot SK_i \cdot SK_j }$$ der
+Kapitalkravet for markedsrisiko skal beregnes på følgende måte: $$SK_{MA} = \\sqrt{ \\sum_{i,j} Korr_{i,j} \\cdot SK_i \\cdot SK_j }$$ der
 *SKMA* = kapitalkravet for markedsrisiko,
 *Korri,j* = korrelasjonsparameteren for undermodul *i* og *j* for markedsrisiko, og
 *SKi* og *SKj* = kapitalkravet for henholdsvis undermodul *i* og *j*.
@@ -153,10 +161,26 @@ Kapitalkravet for markedsrisiko skal beregnes på følgende måte: $$SK_{MA} = \
 Kapitalkravene for undermodulene skal summeres ved å anvende en av korrelasjonsmatrisene som angitt i femte og sjette ledd, avhengig av om kapitalkravet for renterisiko er beregnet ved en rentenedgang eller en renteoppgang.
 
 Dersom kapitalkravet for renterisiko er beregnet ved en rentenedgang skal følgende matrise benyttes:
-i\jRenteAksjerEiendomValutaKredittmarginKonsentrasjonRente10,50,50,250,50Aksjer0,510,750,250,750Eiendom0,50,7510,250,50Valuta0,250,250,2510,250Kredittmargin0,50,750,50,2510Konsentrasjon000001
+
+| i\\j | Rente | Aksjer | Eiendom | Valuta | Kredittmargin | Konsentrasjon |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rente | 1 | 0,5 | 0,5 | 0,25 | 0,5 | 0 |
+| Aksjer | 0,5 | 1 | 0,75 | 0,25 | 0,75 | 0 |
+| Eiendom | 0,5 | 0,75 | 1 | 0,25 | 0,5 | 0 |
+| Valuta | 0,25 | 0,25 | 0,25 | 1 | 0,25 | 0 |
+| Kredittmargin | 0,5 | 0,75 | 0,5 | 0,25 | 1 | 0 |
+| Konsentrasjon | 0 | 0 | 0 | 0 | 0 | 1 |
 
 Dersom kapitalkravet for renterisiko er beregnet ved en renteoppgang skal følgende matrise benyttes:
-i\jRenteAksjerEiendomValutaKredittmarginKonsentrasjonRente1000,2500Aksjer010,750,250,750Eiendom00,7510,250,50Valuta0,250,250,2510,250Kredittmargin00,750,50,2510Konsentrasjon000001
+
+| i\\j | Rente | Aksjer | Eiendom | Valuta | Kredittmargin | Konsentrasjon |
+| --- | --- | --- | --- | --- | --- | --- |
+| Rente | 1 | 0 | 0 | 0,25 | 0 | 0 |
+| Aksjer | 0 | 1 | 0,75 | 0,25 | 0,75 | 0 |
+| Eiendom | 0 | 0,75 | 1 | 0,25 | 0,5 | 0 |
+| Valuta | 0,25 | 0,25 | 0,25 | 1 | 0,25 | 0 |
+| Kredittmargin | 0 | 0,75 | 0,5 | 0,25 | 1 | 0 |
+| Konsentrasjon | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ### § 16. Gjennomskjæring
 
@@ -168,18 +192,36 @@ Når beregningen etter første ledd ikke er gjennomførbar, skal kapitalkravet b
 
 Undermodulen for renterisiko skal dekke renterisiko knyttet til posisjoner i rentebærende finansielle instrumenter, samt renterisiko knyttet til forsikringstekniske avsetninger.
 
-Kapitalkravet for renterisiko skal beregnes på følgende måte $$SK_R = maks \{ R_{opp} ; R_{ned} \}$$ der
+Kapitalkravet for renterisiko skal beregnes på følgende måte $$SK_R = maks \\{ R_{opp} ; R_{ned} \\}$$ der
 *SKR* = kapitalkravet for renterisiko,
 *Ropp* = tap ved renteoppgang, og
 *Rned* = tap ved rentenedgang.
 
-Tap ved renteoppgang og tap ved rentenedgang skal beregnes på følgende måte $$\begin{align} R_{opp} &= maks \{ \Delta FF_{opp} - \Delta FI_{opp} ; 0 \} \text{ og} \\ R_{ned} &= maks \{ \Delta FF_{ned} - \Delta FI_{ned} ; 0 \} \end{align} $$ der
+Tap ved renteoppgang og tap ved rentenedgang skal beregnes på følgende måte $$\\begin{align} R_{opp} &= maks \\{ \\Delta FF_{opp} - \\Delta FI_{opp} ; 0 \\} \\text{ og} \\\\ R_{ned} &= maks \\{ \\Delta FF_{ned} - \\Delta FI_{ned} ; 0 \\} \\end{align} $$ der
 *ΔFFopp* = beregnet verdiendring av forsikringstekniske avsetninger ved renteoppgang,
 *ΔFIopp* = beregnet verdiendring av finansielle instrumenter ved renteoppgang,
 *ΔFFned* = beregnet verdiendring av forsikringstekniske avsetninger ved rentenedgang, og
 *ΔFFned* = beregnet verdiendring av finansielle instrumenter ved rentenedgang.
 
-Tap ved renteoppgang og tap ved rentenedgang skal beregnes som effekten av relative endringer av risikofri markedsrente, der de relative endringene er fastsatt som følger:Rentebindingstid (år)0–12345678910Relativ endring opp0,700,700,640,590,550,520,490,470,440,42Relativ endring ned–0,75–0,65–0,56–0,50–0,46–0,42–0,39–0,36–0,33–0,31Rentebindingstid (år)11121314151617181920Relativ endring opp0,390,370,350,340,330,310,300,290,270,26Relativ endring ned–0,30–0,29–0,28–0,28–0,27–0,28–0,28–0,28–0,29–0,29Rentebindingstid (år)21222324252627282930+Relativ endring opp0,260,260,260,260,260,250,250,250,250,25Relativ endring ned–0,29–0,29–0,29–0,28–0,28–0,28–0,28–0,28–0,28–0,28
+Tap ved renteoppgang og tap ved rentenedgang skal beregnes som effekten av relative endringer av risikofri markedsrente, der de relative endringene er fastsatt som følger:
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rentebindingstid (år) | 0–1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Relativ endring opp | 0,70 | 0,70 | 0,64 | 0,59 | 0,55 | 0,52 | 0,49 | 0,47 | 0,44 | 0,42 |
+| Relativ endring ned | –0,75 | –0,65 | –0,56 | –0,50 | –0,46 | –0,42 | –0,39 | –0,36 | –0,33 | –0,31 |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rentebindingstid (år) | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| Relativ endring opp | 0,39 | 0,37 | 0,35 | 0,34 | 0,33 | 0,31 | 0,30 | 0,29 | 0,27 | 0,26 |
+| Relativ endring ned | –0,30 | –0,29 | –0,28 | –0,28 | –0,27 | –0,28 | –0,28 | –0,28 | –0,29 | –0,29 |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Rentebindingstid (år) | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30+ |
+| Relativ endring opp | 0,26 | 0,26 | 0,26 | 0,26 | 0,26 | 0,25 | 0,25 | 0,25 | 0,25 | 0,25 |
+| Relativ endring ned | –0,29 | –0,29 | –0,29 | –0,28 | –0,28 | –0,28 | –0,28 | –0,28 | –0,28 | –0,28 |
 
 ### § 18. Renterisiko knyttet til forsikringstekniske avsetninger
 
@@ -187,10 +229,10 @@ Pensjonskasser med forvaltningskapital over 10 milliarder kroner skal beregne re
 
 Renterisikoen for forsikringstekniske avsetninger skal beregnes med utgangspunkt i garanterte ytelser beregnet etter [§ 5](forskrift/2018-11-09-1689/§5) tredje ledd. Risikoen skal beregnes for porteføljene angitt i [§ 2](forskrift/2018-11-09-1689/§2) bokstav a til c.
 
-For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved renteoppgang beregnes på følgende måte $$\begin{align} \Delta FF_{off,opp} = &- GY_{off} \cdot \frac{D_{off}}{1 + r_{off}} \cdot min \big\{ \Delta r_{off,opp} ; maks \{ g_{off} - r_{off} ; 0 \} \big\} \cdot 0{,}1, \\ \Delta FF_{priv,opp} = &- GY_{priv} \cdot \frac{D_{priv}}{1 + r_{priv}} \cdot min \big\{ \Delta r_{priv,opp} ; maks \{ g_{priv} - r_{priv} ; 0 \} \big\} \cdot 0{,}5, \text{ og} \\ \Delta FF_{fri,opp} = &- GY_{fri} \cdot \frac{D_{fri}}{1 + r_{fri}} \cdot min \big\{ \Delta r_{fri,opp} ; maks \{ g_{fri} - r_{fri} ; 0 \} \big\} \\ &- GY_{fri} \cdot \frac{D_{fri}}{1 + r_{fri}} \cdot min \big\{ \Delta r_{fri,opp} ; maks \{ r_{fri} + \Delta r_{fri,opp} - g_{fri} ; 0 \} \big\} \cdot 0{,}2 \end{align} $$ der
+For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved renteoppgang beregnes på følgende måte $$\\begin{align} \\Delta FF_{off,opp} = &- GY_{off} \\cdot \\frac{D_{off}}{1 + r_{off}} \\cdot min \\big\\{ \\Delta r_{off,opp} ; maks \\{ g_{off} - r_{off} ; 0 \\} \\big\\} \\cdot 0{,}1, \\\\ \\Delta FF_{priv,opp} = &- GY_{priv} \\cdot \\frac{D_{priv}}{1 + r_{priv}} \\cdot min \\big\\{ \\Delta r_{priv,opp} ; maks \\{ g_{priv} - r_{priv} ; 0 \\} \\big\\} \\cdot 0{,}5, \\text{ og} \\\\ \\Delta FF_{fri,opp} = &- GY_{fri} \\cdot \\frac{D_{fri}}{1 + r_{fri}} \\cdot min \\big\\{ \\Delta r_{fri,opp} ; maks \\{ g_{fri} - r_{fri} ; 0 \\} \\big\\} \\\\ &- GY_{fri} \\cdot \\frac{D_{fri}}{1 + r_{fri}} \\cdot min \\big\\{ \\Delta r_{fri,opp} ; maks \\{ r_{fri} + \\Delta r_{fri,opp} - g_{fri} ; 0 \\} \\big\\} \\cdot 0{,}2 \\end{align} $$ der
 Δropp = renteoppgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til porteføljens durasjon D multiplisert med relativ endring opp som angitt i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd.
 
-For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved rentenedgang beregnes på følgende måte $$\begin{align} \Delta FF_{off,ned} = &- GY_{off} \cdot \frac{D_{off}}{1 + r_{off}} \cdot maks \big\{ \Delta r_{off,ned} ; min \{ r_{off} + \Delta r_{off,ned} - g_{off} ; 0 \} \big\} \cdot 0{,}1, \\ \Delta FF_{priv,ned} = &- GY_{priv} \cdot \frac{D_{priv}}{1 + r_{priv}} \cdot maks \big\{ \Delta r_{priv,ned} ; min \{ r_{priv} + \Delta r_{priv,ned} - g_{priv} ; 0 \} \big\} \cdot 0{,}5, \text{ og} \\ \Delta FF_{fri,ned} = &- GY_{fri} \cdot \frac{D_{fri}}{1 + r_{fri}} \cdot maks \big\{ \Delta r_{fri,ned} ; min \{ r_{fri} + \Delta r_{fri,ned} - g_{fri} ; 0 \} \big\} \\ &- GY_{fri} \cdot \frac{D_{fri}}{1 + r_{fri}} \cdot maks \big\{ \Delta r_{fri,ned} ; min \{ g_{fri} - r_{fri} ; 0 \} \big\} \cdot 0{,}2 \end{align} $$ der
+For de ulike porteføljene skal endringen i verdien av forsikringstekniske avsetninger ved rentenedgang beregnes på følgende måte $$\\begin{align} \\Delta FF_{off,ned} = &- GY_{off} \\cdot \\frac{D_{off}}{1 + r_{off}} \\cdot maks \\big\\{ \\Delta r_{off,ned} ; min \\{ r_{off} + \\Delta r_{off,ned} - g_{off} ; 0 \\} \\big\\} \\cdot 0{,}1, \\\\ \\Delta FF_{priv,ned} = &- GY_{priv} \\cdot \\frac{D_{priv}}{1 + r_{priv}} \\cdot maks \\big\\{ \\Delta r_{priv,ned} ; min \\{ r_{priv} + \\Delta r_{priv,ned} - g_{priv} ; 0 \\} \\big\\} \\cdot 0{,}5, \\text{ og} \\\\ \\Delta FF_{fri,ned} = &- GY_{fri} \\cdot \\frac{D_{fri}}{1 + r_{fri}} \\cdot maks \\big\\{ \\Delta r_{fri,ned} ; min \\{ r_{fri} + \\Delta r_{fri,ned} - g_{fri} ; 0 \\} \\big\\} \\\\ &- GY_{fri} \\cdot \\frac{D_{fri}}{1 + r_{fri}} \\cdot maks \\big\\{ \\Delta r_{fri,ned} ; min \\{ g_{fri} - r_{fri} ; 0 \\} \\big\\} \\cdot 0{,}2 \\end{align} $$ der
 Δrned = rentenedgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til porteføljens durasjon D multiplisert med relativ endring ned som angitt i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd.
 
 For pensjonskasser som benytter tilpasningen med bruk av årlige kontantstrømmer, skal beregningene baseres på samme beregninger som i tredje og fjerde ledd, med de samme endringene som er angitt i [§ 5](forskrift/2018-11-09-1689/§5) femte ledd. For hvert år skal renteendringen *Δr* beregnes som risikofri markedsrente multiplisert med relativ endring som angitt i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd.
@@ -201,7 +243,7 @@ For pensjonskasser som benytter tilpasningen med bruk av årlige kontantstrømme
 
 Pensjonskasser skal beregne renterisiko knyttet til finansielle instrumenter etter bestemmelsene i annet og tredje ledd eller ved bruk av årlige kontantstrømmer som angitt i fjerde ledd.
 
-Renterisikoen for rentebærende instrumenter ved renteoppgang skal beregnes på følgende måte $$\Delta\text{FI}_{opp}=-FI\cdot\frac{D_{FI}}{1+r_{FI}}\cdot\Delta\text{r}_{FI,opp}+\Delta\text{RD}_{opp}$$
+Renterisikoen for rentebærende instrumenter ved renteoppgang skal beregnes på følgende måte $$\\Delta\\text{FI}_{opp}=-FI\\cdot\\frac{D_{FI}}{1+r_{FI}}\\cdot\\Delta\\text{r}_{FI,opp}+\\Delta\\text{RD}_{opp}$$
 der
 FI = markedsverdi av rentebærende verdipapirer,
 DFI = gjennomsnittlig durasjon i porteføljen av rentebærende verdipapirer,
@@ -209,7 +251,7 @@ rFI = risikofri markedsrente svarende til gjennomsnittlig durasjon,
 &Delta;rFI,opp = renteoppgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til durasjonen multiplisert med relativ endring opp som angitt i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd, og
 &Delta;RDopp = endring i markedsverdi på rentederivater ved en umiddelbar endring i rentenivået som spesifisert i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd.
 
-Renterisikoen for rentebærende instrumenter ved rentenedgang skal beregnes på følgende måte $$\Delta\text{FI}_{ned}=-FI\cdot\frac{D_{FI}}{1+r_{FI}}\cdot\Delta\text{r}_{FI,ned}+\Delta\text{RD}_{ned}$$
+Renterisikoen for rentebærende instrumenter ved rentenedgang skal beregnes på følgende måte $$\\Delta\\text{FI}_{ned}=-FI\\cdot\\frac{D_{FI}}{1+r_{FI}}\\cdot\\Delta\\text{r}_{FI,ned}+\\Delta\\text{RD}_{ned}$$
 der
 *ΔrFI,ned* = rentenedgang for den aktuelle porteføljen, beregnet som risikofri markedsrente svarende til durasjonen multiplisert med relativ endring ned som angitt i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd, og
 *ΔRDned* = endring i markedsverdi på rentederivater ved en umiddelbar endring i rentenivået som spesifisert i [§ 17](forskrift/2018-11-09-1689/§17) fjerde ledd.
@@ -222,7 +264,7 @@ For pensjonskasser som benytter metoden med bruk av årlige kontantstrømmer, sk
 
 Undermodulen for aksjerisiko skal dekke markedsrisiko knyttet til posisjoner i egenkapitalinstrumenter, herunder plasseringer i belånte eiendomsselskaper og belånte eiendomsfond. Egenkapitalinstrumenter skal inndeles i kategoriene type 1-aksjer, type 2-aksjer eller kvalifiserende infrastrukturaksjer, dertype 1-aksjer omfatter aksjer og andre verdipapirer som kan sidestilles med aksjer som er notert på regulerte markeder i land som er medlem av Det europeiske økonomiske samarbeidsområdet (EØS) eller Organisasjonen for økonomisk samarbeid og utvikling (OECD), og aksjer som nevnt i artikkel 168 nr. 6 i forordningen,type 2-aksjer omfatter børsnoterte aksjer i land som ikke er medlem av EØS eller OECD, aksjer som ikke er notert, posisjoner i råvarer, og alternative investeringer, herunder alle former for aktiv eierkapital (private equity) og hedgefond, ogkvalifiserende infrastrukturaksjer omfatter aksjeinvesteringer i infrastrukturprosjektenheter som oppfyller kriteriene angitt i artikkel 164a i forordningen.
 
-Kapitalkravet for aksjerisiko skal beregnes på følgende måte $$SK_A = \sqrt{SK_1^2 + 2 \cdot 0{,}75 \cdot SK_1 \cdot (SK_2 + SK_{inf}) + (SK_2 + SK_{inf} )^2 }$$ der
+Kapitalkravet for aksjerisiko skal beregnes på følgende måte $$SK_A = \\sqrt{SK_1^2 + 2 \\cdot 0{,}75 \\cdot SK_1 \\cdot (SK_2 + SK_{inf}) + (SK_2 + SK_{inf} )^2 }$$ der
 *SKA* = kapitalkrav for aksjerisiko,
 *SK1* = kapitalkrav for type 1-aksjer,
 *SK2* = kapitalkrav for type 2-aksjer, og
@@ -250,7 +292,7 @@ Kapitalkravet for valutarisiko skal være lik det største tapet i basiskapitale
 
 Undermodulen for kredittmarginrisiko skal dekke risikoen knyttet til endring i verdien av obligasjoner og andre rentebærende investeringer som følge av endringer i kredittmarginer.
 
-Kapitalkravet for kredittmarginrisiko skal beregnes på følgende måte $$SK_S = \sum_i MV_i \cdot m(dur_i) \cdot F(rating_i) - \Delta D_s$$ der
+Kapitalkravet for kredittmarginrisiko skal beregnes på følgende måte $$SK_S = \\sum_i MV_i \\cdot m(dur_i) \\cdot F(rating_i) - \\Delta D_s$$ der
 *SKS* = kapitalkrav for kredittmarginrisiko,
 *MVi* = markedsverdi av samlet kreditteksponering i risikoklasse *i*,
 *duri* = gjennomsnittlig effektiv durasjon (kredittdurasjon) knyttet til risikoklasse *i*,
@@ -259,9 +301,43 @@ Kapitalkravet for kredittmarginrisiko skal beregnes på følgende måte $$SK_S =
 *F(ratingi )* = kredittmarginendring i prosentpoeng som tilordnes eksponering i risikoklasse *i* basert på den eksterne kredittvurderingen, og
 Δ *DS* = endring i markedsverdi på kredittderivater ved en økning i kredittmarginene.
 
-Funksjonen *m(duri )* skal fastsettes i henhold til følgende tabell:*Risikoklasse**m(duri )*0maks(1, min(*duri* , 111))1maks(1, min(*duri* , 91))2maks(1, min(*duri* , 71))3maks(1, min(*duri* , 40))4maks(1, min(*duri* , 22))5maks(1, min(*duri* , 13))6maks(1, min(*duri* , 13))Ikke kredittvurdertmaks(1, min(*duri* , 33))Obligasjoner med fortrinnsrett, risikoklasse 0maks(1, min(*duri* , 142))Obligasjoner med fortrinnsrett, risikoklasse 1maks(1, min(*duri* , 111))Infrastruktur, risikoklasse 0maks(1, min(*duri* , 156))Infrastruktur, risikoklasse 1maks(1, min((*duri* , 128))Infrastruktur, risikoklasse 2maks(1, min(*duri* , 100))Infrastruktur, risikoklasse 3 eller ikke kredittvurdertmaks(1, min(*duri* , 60))
+Funksjonen *m(duri )* skal fastsettes i henhold til følgende tabell:
 
-Funksjonen *F(ratingi )* skal fastsettes i henhold til følgende tabell:*Risikoklasse**F(ratingi )*00,9 %11,1 %21,4 %32,5 %44,5 %57,5 %67,5 %Ikke kredittvurdert3,0 %Obligasjoner med fortrinnsrett, risikoklasse 00,7 %Obligasjoner med fortrinnsrett, risikoklasse 10,9 %Infrastruktur, risikoklasse 00,64 %Infrastruktur, risikoklasse 10,78 %Infrastruktur, risikoklasse 21,0 %Infrastruktur, risikoklasse 3 eller ikke kredittvurdert1,67 %
+| *Risikoklasse* | *m(duri )* |
+| --- | --- |
+| 0 | maks(1, min(*duri* , 111)) |
+| 1 | maks(1, min(*duri* , 91)) |
+| 2 | maks(1, min(*duri* , 71)) |
+| 3 | maks(1, min(*duri* , 40)) |
+| 4 | maks(1, min(*duri* , 22)) |
+| 5 | maks(1, min(*duri* , 13)) |
+| 6 | maks(1, min(*duri* , 13)) |
+| Ikke kredittvurdert | maks(1, min(*duri* , 33)) |
+| Obligasjoner med fortrinnsrett, risikoklasse 0 | maks(1, min(*duri* , 142)) |
+| Obligasjoner med fortrinnsrett, risikoklasse 1 | maks(1, min(*duri* , 111)) |
+| Infrastruktur, risikoklasse 0 | maks(1, min(*duri* , 156)) |
+| Infrastruktur, risikoklasse 1 | maks(1, min((*duri* , 128)) |
+| Infrastruktur, risikoklasse 2 | maks(1, min(*duri* , 100)) |
+| Infrastruktur, risikoklasse 3 eller ikke kredittvurdert | maks(1, min(*duri* , 60)) |
+
+Funksjonen *F(ratingi )* skal fastsettes i henhold til følgende tabell:
+
+| *Risikoklasse* | *F(ratingi )* |
+| --- | --- |
+| 0 | 0,9 % |
+| 1 | 1,1 % |
+| 2 | 1,4 % |
+| 3 | 2,5 % |
+| 4 | 4,5 % |
+| 5 | 7,5 % |
+| 6 | 7,5 % |
+| Ikke kredittvurdert | 3,0 % |
+| Obligasjoner med fortrinnsrett, risikoklasse 0 | 0,7 % |
+| Obligasjoner med fortrinnsrett, risikoklasse 1 | 0,9 % |
+| Infrastruktur, risikoklasse 0 | 0,64 % |
+| Infrastruktur, risikoklasse 1 | 0,78 % |
+| Infrastruktur, risikoklasse 2 | 1,0 % |
+| Infrastruktur, risikoklasse 3 eller ikke kredittvurdert | 1,67 % |
 
 Infrastruktur som angitt i tredje og fjerde ledd omfatter obligasjoner og andre rentebærende investeringer som oppfyller kriteriene angitt i artikkel 164a i forordningen.
 
@@ -277,7 +353,7 @@ Eksponeringer mot ikke-kredittvurderte lokale og regionale myndigheter som ikke 
 
 Undermodulen for konsentrasjonsrisiko skal dekke risikoen for tap ved endringer i verdien av aksjer og andre verdipapirer som kan sidestilles med aksjer, obligasjoner og andre gjeldsinstrumenter, som følge av vesentlig konsentrasjon mot en enkelt motpart.
 
-Kapitalkravet for konsentrasjonsrisiko skal beregnes på følgende måte $$SK_K=\sqrt{\sum_{i}(XS_{i}\cdot r_{i})^2}$$ der
+Kapitalkravet for konsentrasjonsrisiko skal beregnes på følgende måte $$SK_K=\\sqrt{\\sum_{i}(XS_{i}\\cdot r_{i})^2}$$ der
 *XSi* = overskytende eksponering over terskelverdi for eksponering *i*, og
 *ri* = risikofaktor for eksponering *i*.
 
@@ -287,7 +363,20 @@ Beregningen av konsentrasjonsrisiko skal baseres på samlet eksponering mot en e
 
 Konsentrasjonsrisiko skal beregnes dersom samlet eksponering overfor én enkelt motpart overstiger en terskelverdi, gitt som en prosentandel av samlede eiendeler som inngår i undermodulene for renterisiko, aksjerisiko og eiendomsrisiko. Eksponeringer utover terskelverdien tilordnes en risikofaktor.
 
-Følgende terskelverdier og risikofaktorer gjelder i beregningen av konsentrasjonsrisiko:*Risikoklasse**Terskelverdi**Risikofaktor (ri )*03 %12 %13 %12 %23 %21 %31,5 %27 %41,5 %73 %51,5 %73 %61,5 %73 %Ikke kredittvurdert1,5 %73 %Obligasjoner med fortrinnsrett, risikoklasse 015 %12 %Obligasjoner med fortrinnsrett, risikoklasse 115 %12 %
+Følgende terskelverdier og risikofaktorer gjelder i beregningen av konsentrasjonsrisiko:
+
+| *Risikoklasse* | *Terskelverdi* | *Risikofaktor (ri )* |
+| --- | --- | --- |
+| 0 | 3 % | 12 % |
+| 1 | 3 % | 12 % |
+| 2 | 3 % | 21 % |
+| 3 | 1,5 % | 27 % |
+| 4 | 1,5 % | 73 % |
+| 5 | 1,5 % | 73 % |
+| 6 | 1,5 % | 73 % |
+| Ikke kredittvurdert | 1,5 % | 73 % |
+| Obligasjoner med fortrinnsrett, risikoklasse 0 | 15 % | 12 % |
+| Obligasjoner med fortrinnsrett, risikoklasse 1 | 15 % | 12 % |
 
 Risikoklassene skal fastsettes i samsvar med [§ 23](forskrift/2018-11-09-1689/§23) sjette og syvende ledd.
 
@@ -297,7 +386,7 @@ Dersom samlet eksponering overfor én motpart består av ulike eksponeringer med
 
 Motpartsrisiko skal dekke risiko som følge av at motparter ikke kan møte sine forpliktelser.
 
-Kapitalkravet for motpartsrisiko skal beregnes på følgende måte $$SK_{MP} = \sqrt{ SK_{E1}^2 + 2 \cdot 0{,}75 \cdot SK_{E1} \cdot SK_{E2} + SK_{E2}^2 }$$ der
+Kapitalkravet for motpartsrisiko skal beregnes på følgende måte $$SK_{MP} = \\sqrt{ SK_{E1}^2 + 2 \\cdot 0{,}75 \\cdot SK_{E1} \\cdot SK_{E2} + SK_{E2}^2 }$$ der
 *SKMP* = Kapitalkravet for motpartsrisiko,
 *SKE1* = Kapitalkravet for type 1-eksponeringer, og
 *SKE2* = Kapitalkravet for type 2-eksponeringer.
@@ -312,20 +401,31 @@ Motparter som tilhører samme konsern skal behandles som én motpart.
 
 ### § 26. Type 1-eksponeringer i motpartsrisiko
 
-Kapitalkravet for type 1-eksponeringer skal beregnes på følgende måte $$SK_{E1} = \begin{cases} 3 \cdot \sigma & hvis & \sigma \le 7\% \cdot \sum_i LGD_i \\ 5 \cdot \sigma & hvis & 7\% \cdot \sum_i LGD_i \le \sigma \le 20\% \cdot \sum_i LGD_i \\ \sum_i LGD_i & hvis & \sigma \gt 20\% \cdot \sum_i LGD_i \end{cases} $$ der
+Kapitalkravet for type 1-eksponeringer skal beregnes på følgende måte $$SK_{E1} = \\begin{cases} 3 \\cdot \\sigma & hvis & \\sigma \\le 7\\% \\cdot \\sum_i LGD_i \\\\ 5 \\cdot \\sigma & hvis & 7\\% \\cdot \\sum_i LGD_i \\le \\sigma \\le 20\\% \\cdot \\sum_i LGD_i \\\\ \\sum_i LGD_i & hvis & \\sigma \\gt 20\\% \\cdot \\sum_i LGD_i \\end{cases} $$ der
 *LGDi* = antatt tap ved mislighold av motpart *i*, og
 *σ* = standardavviket til tapsfordelingen til type 1-eksponering.
 
-Standardavviket til tapsfordelingen til type 1-eksponering skal beregnes som $$\sigma = \sqrt{V_{inter} + V_{intra}}$$
+Standardavviket til tapsfordelingen til type 1-eksponering skal beregnes som $$\\sigma = \\sqrt{V_{inter} + V_{intra}}$$
 
-*Vinter* skal beregnes som $$V_{inter} = \sum\limits_{j,k} \frac{PD_j \cdot (1 - PD_j) \cdot PD_k \cdot (1 - PD_k)}{1{,}25 \cdot (PD_j + PD_k) - PD_j \cdot PD_k} \cdot TLGD_j \cdot TLGD_k$$ der
+*Vinter* skal beregnes som $$V_{inter} = \\sum\\limits_{j,k} \\frac{PD_j \\cdot (1 - PD_j) \\cdot PD_k \\cdot (1 - PD_k)}{1{,}25 \\cdot (PD_j + PD_k) - PD_j \\cdot PD_k} \\cdot TLGD_j \\cdot TLGD_k$$ der
 *j* og *k* går over alle risikoklasser,
 *TLGDj* og *TLGDk* = summen av antatt tap ved mislighold av avtaler med motparter i henholdsvis risikoklasse *j* og *k*, og
 *PDj* og *PDk* = sannsynligheten for mislighold i henholdsvis risikoklasse *j* og *k*.
 
-*Vintra* skal beregnes som $$V_{intra} = \sum\limits_j \frac{1{,}5 \cdot PD_j \cdot (1 - PD_j)}{2{,}5 - PD_j} \cdot \sum\limits_{PD_j} LGD_i^2$$
+*Vintra* skal beregnes som $$V_{intra} = \\sum\\limits_j \\frac{1{,}5 \\cdot PD_j \\cdot (1 - PD_j)}{2{,}5 - PD_j} \\cdot \\sum\\limits_{PD_j} LGD_i^2$$
 
-Følgende misligholdsannsynligheter skal benyttes ved beregningen av kapitalkravet for type 1-eksponeringer:*Risikoklasse**Misligholdsannsynlighet (PD)*00,002 %10,010 %20,050 %30,240 %41,200 %54,175 %64,175 %Ikke kredittvurdert4,175 %
+Følgende misligholdsannsynligheter skal benyttes ved beregningen av kapitalkravet for type 1-eksponeringer:
+
+| *Risikoklasse* | *Misligholdsannsynlighet (PD)* |
+| --- | --- |
+| 0 | 0,002 % |
+| 1 | 0,010 % |
+| 2 | 0,050 % |
+| 3 | 0,240 % |
+| 4 | 1,200 % |
+| 5 | 4,175 % |
+| 6 | 4,175 % |
+| Ikke kredittvurdert | 4,175 % |
 
 Risikoklassene skal fastsettes i samsvar med [§ 23](forskrift/2018-11-09-1689/§23) sjette og syvende ledd.
 
@@ -337,12 +437,12 @@ Dersom pensjonskassen har flere motparter innenfor samme konsern, skal konsernet
 
 Pensjonskassene kan benytte en forenkling der motparter deles inn i grupper basert på risikoklasse. Beregningen modifiseres slik at ved fastsettelse av tap ved mislighold skal hver gruppe behandles som én motpart.
 
-For en gjenforsikringsavtale skal tap ved mislighold (*LGD*) beregnes som $$LGD=\text{maks}(50\%\cdot (\text{Fordringer}+50\%\cdot RE)-0{,}75\cdot\mathit{Sikkerhet;}\text{ }0)$$ der
+For en gjenforsikringsavtale skal tap ved mislighold (*LGD*) beregnes som $$LGD=\\text{maks}(50\\%\\cdot (\\text{Fordringer}+50\\%\\cdot RE)-0{,}75\\cdot\\mathit{Sikkerhet;}\\text{ }0)$$ der
 *Fordringer* = beste estimat på fordringer fra gjenforsikringsavtalen pluss eventuelle utestående fordringer mot samme motpart,
 *RE* = risikoreduserende effekt på forsikringsrisiko av gjenforsikringsavtalen, og
 *Sikkerhet* = markedsverdi av sikkerhetsstillelse knyttet til gjenforsikringsavtalen.
 
-For en derivatavtale skal tap ved mislighold beregnes som $$LGD=\text{maks}((90\%\cdot(MV+RE)-0{,}75\cdot\mathit{Sikkerhet;}\text{ }0)$$ der
+For en derivatavtale skal tap ved mislighold beregnes som $$LGD=\\text{maks}((90\\%\\cdot(MV+RE)-0{,}75\\cdot\\mathit{Sikkerhet;}\\text{ }0)$$ der
 *MV* = markedsverdien av derivatet,
 *RE* = den risikoreduserende effekten derivatet har på markedsrisiko, og
 *Sikkerhet* = verdien av sikkerhetstillelse knyttet til derivatet.
@@ -351,7 +451,7 @@ Den risikoreduserende effekten skal beregnes som forskjellen mellom det teoretis
 
 ### § 27. Type 2-eksponeringer i motpartsrisiko
 
-Kapitalkravet for type 2-eksponeringer beregnes på følgende måte $$SK_{E2} = 15\% \cdot (E + Bolig_{\gt 60pst}) + 90\% \cdot E_{\text{forfalt}}$$ der
+Kapitalkravet for type 2-eksponeringer beregnes på følgende måte $$SK_{E2} = 15\\% \\cdot (E + Bolig_{\\gt 60pst}) + 90\\% \\cdot E_{\\text{forfalt}}$$ der
 *E* = summen av verdi av type 2-eksponering, eksklusive boliglån og fordringer på formidlere forfalt i mer enn 3 måneder,
 *Bolig>60pst* = boliglån utover 60 prosent av panteverdi, og
 *Eforfalt* = summen av fordringer på formidlere forfalt i mer enn 3 måneder.
@@ -360,13 +460,19 @@ Kapitalkravet for type 2-eksponeringer beregnes på følgende måte $$SK_{E2} = 
 
 Kapitalkravet for livsforsikringsrisiko skal omfatte risikoen for endrede forutsetninger om døds-, opplevelses-, uføre- og avgangsrisiko som kan påvirke verdien av forpliktelsene.
 
-Det samlede kapitalkravet for livsforsikringsrisiko skal beregnes som $$SK_{LF} = \sqrt{ \sum_{i,j} Korr_{i,j} \cdot SK_i \cdot SK_j}$$ der
+Det samlede kapitalkravet for livsforsikringsrisiko skal beregnes som $$SK_{LF} = \\sqrt{ \\sum_{i,j} Korr_{i,j} \\cdot SK_i \\cdot SK_j}$$ der
 *SKLF* = kapitalkravet for livsforsikringsrisiko,
 *Korri,j* = korrelasjonsparameteren for risiko og knyttet til livsforsikring, *i* og *j*.
 *SKi* og *SKj* = kapitalkravet for henholdsvis risiko *i* og *j*.
 
 Kapitalkravene for de ulike risikoene knyttet til livsforsikring skal summeres ved å anvende følgende korrelasjonsmatrise:
-i\jDødsrisikoOpplevelsesrisikoUførerisikoAvgangsrisikoDødsrisiko1-0,250,250Opplevelsesrisiko-0,25100,25Uførerisiko0,25010Avgangsrisiko00,2501
+
+| i\\j | Dødsrisiko | Opplevelsesrisiko | Uførerisiko | Avgangsrisiko |
+| --- | --- | --- | --- | --- |
+| Dødsrisiko | 1 | -0,25 | 0,25 | 0 |
+| Opplevelsesrisiko | -0,25 | 1 | 0 | 0,25 |
+| Uførerisiko | 0,25 | 0 | 1 | 0 |
+| Avgangsrisiko | 0 | 0,25 | 0 | 1 |
 
 ### § 29. Døds- og opplevelsesrisiko
 
@@ -392,7 +498,7 @@ Kapitalkravet for uførerisiko skal utgjøre differansen mellom avsetningene nå
 
 Avgangsrisiko omfatter risikoen for tap som følge av at kunden avslutter kontrakten med pensjonskassen før kontraktens utløp, f.eks. ved å flytte kontrakten til en annen pensjonstilbyder eller ved å stoppe videre premieinnbetaling.
 
-Kapitalkravet for avgangsrisiko skal beregnes som $$\begin{align} SK_{AR} = \: \: maks &( 0{,}7 \cdot (FA_{off} - BE_{off});0) + maks (0{,}7 \cdot (FA_{priv} - BE_{priv});0) \\ + maks &( 0{,}4 \cdot (FA_{fri} - BE_{fri});0) + maks (0{,}4 \cdot (FA_{ettår} - BE_{ettår});0) \\ + maks &( 0{,}4 \cdot (FA_{inv.valg} - BE_{inv.valg});0) \end{align} $$ der
+Kapitalkravet for avgangsrisiko skal beregnes som $$\\begin{align} SK_{AR} = \\: \\: maks &( 0{,}7 \\cdot (FA_{off} - BE_{off});0) + maks (0{,}7 \\cdot (FA_{priv} - BE_{priv});0) \\\\ + maks &( 0{,}4 \\cdot (FA_{fri} - BE_{fri});0) + maks (0{,}4 \\cdot (FA_{ettår} - BE_{ettår});0) \\\\ + maks &( 0{,}4 \\cdot (FA_{inv.valg} - BE_{inv.valg});0) \\end{align} $$ der
 *SKAR* = kapitalkravet for avgangsrisiko.
 
 ### § 32. Helseforsikringsrisiko
@@ -405,7 +511,7 @@ For beregning av uførerisiko gjelder [§ 29](forskrift/2018-11-09-1689/§29) an
 
 Operasjonell risiko skal dekke risiko for tap som følge av svikt i interne prosesser, menneskelig svikt, systemsvikt eller svikt som følge av eksterne hendelser.
 
-Kapitalkravet for operasjonell risiko skal beregnes på følgende måte $$SK_{OP}=\text{min}(0{,}3\cdot BSK;0{,}0045\cdot BE)$$
+Kapitalkravet for operasjonell risiko skal beregnes på følgende måte $$SK_{OP}=\\text{min}(0{,}3\\cdot BSK;0{,}0045\\cdot BE)$$
 der
 *BSK* = basissolvenskapitalkravet, og
 *BE* = beste estimat.

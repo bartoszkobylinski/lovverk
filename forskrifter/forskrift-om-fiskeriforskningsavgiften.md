@@ -58,7 +58,16 @@ Terminoppgaven gis på skjema fastsatt av Fiskeridirektoratet, og skal være und
 
 ## § 5. Forfall, renter mv.
 
-Oppgjørsperiodene og forfallstidspunktet for periodene er:januar–februar25. marsmars–april25. maimai–juni31. augustjuli–august25. septemberseptember–oktober25. novembernovember–desember25. januar.
+Oppgjørsperiodene og forfallstidspunktet for periodene er:
+
+|  |  |
+| --- | --- |
+| januar–februar | 25. mars |
+| mars–april | 25. mai |
+| mai–juni | 31. august |
+| juli–august | 25. september |
+| september–oktober | 25. november |
+| november–desember | 25. januar. |
 
 Når avgiften forfaller til betaling på lørdag eller helligdag utskytes forfallstidspunktet til nærmeste påfølgende hverdag.
 

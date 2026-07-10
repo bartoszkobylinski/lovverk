@@ -48,7 +48,13 @@ Statens tilskudd til tilfluktsrom plassert i bygg eller som frittliggende betong
 
 ## § 6.
 
-Statens tilskudd til fjellanlegg må ikke overstige følgende beløp pr. person tilfluktsrommet er beregnet for:a.For anlegg som nevnt i [§§ 1](forskrift/1984-09-21-1674/§1) og [2](forskrift/1984-09-21-1674/§2) for inntil 2.000 personerkr. 4.020,-.For 2.001 personer eller merkr. 2.675,-.b.For anlegg som nevnt i [§ 3](forskrift/1984-09-21-1674/§3)Pr. m2 takflate kr.   200,-.
+Statens tilskudd til fjellanlegg må ikke overstige følgende beløp pr. person tilfluktsrommet er beregnet for:
+
+|  |  |  |
+| --- | --- | --- |
+| a. | For anlegg som nevnt i [§§ 1](forskrift/1984-09-21-1674/§1) og [2](forskrift/1984-09-21-1674/§2) for inntil 2.000 personer | kr. 4.020,-. |
+|  | For 2.001 personer eller mer | kr. 2.675,-. |
+| b. | For anlegg som nevnt i [§ 3](forskrift/1984-09-21-1674/§3) | Pr. m2 takflate kr.   200,-. |
 
 ## § 7.
 

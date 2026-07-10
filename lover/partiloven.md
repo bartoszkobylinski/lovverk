@@ -290,6 +290,8 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 
 > Tilføyd ved [lov 1 feb 2013 nr. 6](lov/2013-02-01-6) (ikr. 1 mars 2013 iflg. [res. 1 feb 2013 nr. 128](forskrift/2013-02-01-128)).
 
+1 Se nå [lov 20 nov 2020 nr. 128 § 10-1](lov/2020-11-20-128/§10-1).
+
 ### § 22. Offentliggjøring
 
 (1) Det opprettes et sentralt register for innberetninger etter denne loven.
@@ -335,6 +337,8 @@ Det er tillatt for alle å gi bidrag til politiske partier og partiledd med de b
 (7) Enhver som utfører tjeneste eller arbeid for Partilovnemnda eller Partirevisjonsutvalget, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om partiinterne forhold. [Forvaltningsloven § 13 a](lov/1967-02-10/§13a) første ledd nr. 1 til 3 og [§ 13 b](lov/1967-02-10/§13b) første ledd nr. 2 til 7 får likevel anvendelse.
 
 > Endret ved [lover 1 feb 2013 nr. 6](lov/2013-02-01-6) (ikr. 1 mars 2013 iflg. [res. 1 feb 2013 nr. 128](forskrift/2013-02-01-128)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [18 juni 2021 nr. 127](lov/2021-06-18-127) (ikr. 1 juli 2021 iflg. [res. 18 juni 2021 nr. 2026](forskrift/2021-06-18-2026)).
+
+1 Se nå [lov 20 nov 2020 nr. 128 § 10-1](lov/2020-11-20-128/§10-1).
 
 ### § 25. Oppnevning av Partilovnemnda. Sammensetning
 
@@ -395,3 +399,6 @@ Departementet kan i forskrift gi nærmere bestemmelser om nemndas virksomhet og 
 (3) Departementet kan gi nærmere overgangsbestemmelser.
 
 > Endret ved [lov 1 feb 2013 nr. 6](lov/2013-02-01-6) (ikr. 1 mars 2013 iflg. [res. 1 feb 2013 nr. 128](forskrift/2013-02-01-128), tidligere § 28).
+
+1 Kapittel 4 i kraft fra 1 juli 2005 iflg. [res. 17 juni 2005 nr. 635](forskrift/2005-06-17-635). [Lov 22 mai 1998 nr. 30](lov/1998-05-22-30) om offentliggjøring av politiske partiers inntekter ble opphevet fra samme dato.
+Øvrige deler av loven ble satt i kraft 1 jan 2006. Kapittel 5 i [lov 28 juni 2002 nr. 57](lov/2002-06-28-57) om valg til Stortinget, fylkesting og kommunestyrer (valgloven) ble opphevet fra samme dato.

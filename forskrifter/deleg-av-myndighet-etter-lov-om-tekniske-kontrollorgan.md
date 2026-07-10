@@ -25,3 +25,5 @@ eu_basis: []
 Justis- og beredskapsdepartementet delegerer med dette departementets myndighet etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurdering [§ 2](lov/1994-06-16-20/§2), [§ 3](lov/1994-06-16-20/§3), [§ 4](lov/1994-06-16-20/§4) og [§ 7](lov/1994-06-16-20/§7) til Direktoratet for samfunnssikkerhet og beredskap.
 
 Samtidig oppheves Justis- og politidepartementets delegering 15. januar 20091 til Direktoratet for samfunnssikkerhet og beredskap av departementets myndighet til å utpeke tekniske kontrollorgan etter [lov 16. juni 1994 nr. 20](lov/1994-06-16-20) om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurdering.
+
+1 Ikke kunngjort i Norsk Lovtidend.

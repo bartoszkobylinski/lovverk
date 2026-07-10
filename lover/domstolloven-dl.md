@@ -260,6 +260,8 @@ Kommuner som har samme sekretariat for forliksrådet og dessuten ligger i samme 
 
 > Endret ved lover [17 des 1982 nr. 86](lov/1982-12-17-86), [27 juni 1986 nr. 48](lov/1986-06-27-48), [25 juni 2004 nr. 53](lov/2004-06-25-53) (ikr. 1 jan 2006 iflg. [res. 19 aug 2005 nr. 901](forskrift/2005-08-19-901), endring endret ved lov [17 juni 2005 nr. 84](lov/2005-06-17-84)), [11 mai 2017 nr. 26](lov/2017-05-11-26) (ikr. 1 juni 2017 iflg. res. 11 mai nr. 563), [19 juni 2026 nr. 45](lov/2026-06-19-45) (i kraft 1 juli 2026 iflg. [res. 19 juni 2026 nr. 1146](forskrift/2026-06-19-1146)).
 
+1 Inkurie: Loven er opphevet. Se nå [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).
+
 ### § 28
 
 Forliksrådene skal holde møte en gang i måneden og oftere dersom saksmengden krever det. Forliksrådet kan unnlate å holde møte i juli. Forliksrådet kan også unnlate å holde møte en måned dersom det til møtet ikke foreligger saker til behandling.
@@ -331,6 +333,8 @@ Når styret er tilsettingsmyndighet, skal minst to representanter for de ansatte
 Styret fastsetter eventuell stillingsinstruks for direktøren og instruks for saksbehandlingen i domstoladministrasjonen.
 
 > Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 aug 2001 iflg. [res. 15 juni 2001 nr. 619](forskrift/2001-06-15-619)), endret ved lov [19 mai 2006 nr. 16](lov/2006-05-19-16) (ikr. 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118)).
+
+1 Inkurie: Loven er opphevet. Se nå [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).2 Inkurie: Opphevet. Se nå [lov 16 juni 2017 nr. 67 §§ 15](lov/2017-06-16-67/§15) til [16](lov/2017-06-16-67/§16), [§§ 24](lov/2017-06-16-67/§24) til [27](lov/2017-06-16-67/§27), [§§ 29](lov/2017-06-16-67/§29) til [31](lov/2017-06-16-67/§31).
 
 ### § 33 c
 
@@ -448,6 +452,8 @@ EFTA-domstolen kan i samsvar med Avtalen mellom EFTA-statene om opprettelse av e
 
 > Endret ved lover [13 juni 1975 nr. 39](lov/1975-06-13-39), [1 juni 1979 nr. 24](lov/1979-06-01-24), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
 
+1 Se overenskomster 30 jan 1931 art. 6 til 10, 1 mars 1954 II.
+
 ### § 47
 
 Den rett som har en sak til behandling kan beslutte at bevisopptak skal søkes foretatt ved utenlandsk myndighet. Står saken ikke for noen rett, kan slik beslutning etter søknad treffes av tingretten på det sted hvor søkeren bor, eller hvor det er et verneting for saken.
@@ -459,6 +465,8 @@ Den part, som begjærer bevisoptagelsen, maa stille sikkerhet for omkostningene,
 For bevisopptak i straffesak ved utenlandsk myndighet gjelder også [lov 13. juni 1975 nr. 39](lov/1975-06-13-39) om utlevering av lovbrytere m.v. [§ 23 b](lov/1975-06-13-39/§23b).
 
 > Endret ved lover 13 feb 1976 nr. 2, [14 des 2001 nr. 98](lov/2001-12-14-98) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1416](forskrift/2001-12-14-1416)), [17 juni 2005 nr. 90](lov/2005-06-17-90) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 88](forskrift/2007-01-26-88), endring endret ved lov [26 jan 2007 nr. 3](lov/2007-01-26-3)), [22 juni 2012 nr. 52](lov/2012-06-22-52) (ikr. 1 jan 2013 iflg. [res. 14 des 2012 nr. 1208](forskrift/2012-12-14-1208)).
+
+1 Jf. overenskomster 30 jan 1931 art. 6 til 10, 1 mars 1954 II.
 
 ### § 48
 
@@ -604,6 +612,8 @@ Beslutning om konstitusjon som nevnt i første ledd, gjøres av Innstillingsråd
 
 > Tilføyd ved lov [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)), endret ved lover [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 apr 2004 iflg. [res. 20 feb 2004 nr. 399](forskrift/2004-02-20-399)), [20 feb 2004 nr. 7](lov/2004-02-20-7) (ikr. 1 jan 2006 iflg. [res. 30 sep 2005 nr. 1099](forskrift/2005-09-30-1099)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
+1 Men se nå [el. § 12](lov/1991-07-04-47/§12).
+
 ### § 55 f
 
 Dersom behov som nevnt i [§ 55 e](lov/1915-08-13-5/§55e) første ledd ikke dekkes ved konstitusjon ved siden av fast dommerstilling etter [§ 55 e](lov/1915-08-13-5/§55e) tredje ledd eller ved en flyttbar dommer etter [§ 33 c](lov/1915-08-13-5/§33c) annet ledd, kan ny dommer konstitueres for inntil to år. [§ 55 e](lov/1915-08-13-5/§55e) første ledd annet punktum gjelder tilsvarende.
@@ -709,6 +719,8 @@ For tjenestemenn ved domstolene gjelder [lov 4. mars 1983 nr. 3](lov/1983-03-04-
 Etter bestemmelser gitt av domstoladministrasjonen kan domstollederen for kortere eller lengre tid eller for den enkelte sak oppnevne stedfortredere for domstolens tjenestemenn.
 
 > Endret ved lover 14 aug 1918 nr. 4 § 84, [4 des 1964 nr. 2](lov/1964-12-04-2), [18 juni 1965 nr. 5](lov/1965-06-18-5), [28 apr 2000 nr. 34](lov/2000-04-28-34) (ikr. 1 juli 2000 iflg. [res. 28 apr 2000 nr. 366](forskrift/2000-04-28-366)), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421)).
+
+1 Inkurie: Loven er opphevet. Se nå [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).
 
 ### § 62 a
 
@@ -2230,8 +2242,12 @@ Dette gjelder på tilsvarende måte når denne eller annen lov krever jordskifte
 
 > Tilføyd ved lov [25 mai 1973 nr. 27](lov/1973-05-25-27), endret ved lover [4 juli 1991 nr. 44](lov/1991-07-04-44) (ikr. 1 feb 1992, tidligere § 231), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), tidligere § 235), [15 jan 2010 nr. 2](lov/2010-01-15-2) (ikr. 1 mars 2010 iflg. [res. 15 jan 2010 nr. 33](forskrift/2010-01-15-33)), [21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
 
+1 Jf. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1 (dir [2005/36](eu/32005l0036*)).
+
 ### § 242
 
 Tida for ikraftsetting av denne loven fastsettes ved særskilt lov.1
 
 > Paragrafnummer tilføyd ved lov [25 mai 1973 nr. 27](lov/1973-05-25-27), endret ved lover [4 juli 1991 nr. 44](lov/1991-07-04-44) (ikr. 1 feb 1992, tidligere § 232), [15 juni 2001 nr. 62](lov/2001-06-15-62) (ikr. 1 nov 2002 iflg. [res. 7 mai 2002 nr. 421](forskrift/2002-05-07-421), tidligere § 236).
+
+1 Fra 1 juli 1927 iflg. [lov 14 aug 1918 nr. 4 § 1](lov/1918-08-14-4/§1).

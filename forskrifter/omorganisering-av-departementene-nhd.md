@@ -182,6 +182,8 @@ eu_basis: []
 - Oppnevning av styret i Designrådet.
 - Oppnevning av styreformann i NORTRA.
 
+1 Skal være 29. februar 1952.
+
 ### 2. Instrukser
 
 - Skipsreparasjonsdirektivet. Fastsatt 15. juni 1982.
@@ -202,5 +204,20 @@ Forvaltningen av følgende selskaper ligger i Nærings- og handelsdepartementet 
 - Utfyllende bestemmelser til OEDs forskrifter om oljerasjonering ved beredskap i krig.
 
 ## Statlige utvalg, styrer og råd m.v. under Utenriksdepartementet som skal overføres til Nærings- og handelsdepartementet pr. 1. januar 1997
+
+| Navn | Opprettet år/mnd/dato | I henhold til |
+| --- | --- | --- |
+| Skipsfartsstyret | Kgl.res. 8. juni 1995 |  |
+| Styret for Statens varekrigsforsikring | Kgl.res. 5. november 1954 | § 4 i lov 3. desember 1948 om Statens varekrigsforsikring jf. kgl.res. av 5. november 1954 |
+| Rådet for arbeidstilsyn på skip | Kgl.res. 12. september 1975 | ILO-konv. no. 134: Forebygging av ulykker (sjøfolk) |
+| Det rådgivende utvalg for Sjøfartsdirektoratet | Kgl.res. 20. september 1963 | Lov av 27. april 1962 |
+| Rådet for maritime sertifikater (RMS) | Kgl.res. 13. april 1982 |  |
+| Sakkyndig råd for lasteskip | Kgl.res. 8. september 1995 | § 17, jf. § 16 lov av 3. juni 1977 nr. 50. Sjødl. § 3, 4. ledd |
+| Sakkyndig råd for passasjerskip | Kgl.res. 8. september 1995 | § 17, jf. § 16 lov av 3. juni 1977 nr. 50. Sjødl. § 3, 4. ledd |
+| Sakkyndig råd for fiskefartøyer | Kgl.res. 8. september 1995 | § 17, jf. § 16 lov av 3. juni 1977 nr. 50. Sjødl. § 3, 4. ledd |
+| Sakkyndig råd for flyttbare innretninger | Kgl.res. 8. september 1995 | § 17, jf. § 16 lov av 3. juni 1977 nr. 50. innretninger Sjødl. § 3, 4. ledd |
+| Det felles ekspertutvalg | Kgl.res. 8. september 1995 | § 17, jf. § 16 lov av 3. juni 1977 nr. 50. Sjødl. § 3, 4. ledd |
+| Styret for Carnegies Heltefond for Norge | 25. oktober 1912 | Fondets statutter gitt av fondet |
+| Styret for Nortraships Sjømannsfond | 18. februar 1949 |  |
 
 I tillegg vil ansvaret for Sjøfartsdirektoratet og Skipsregistrene følge med Skipsfartsavdelingen til Nærings- og handelsdepartementet. Tilsvarende vil ansvaret for Garantiinstituttet for Eksportkreditt og for AS Garantiinstituttet for skip og borerigger samt forholdet til Norges Eksportråd overføres fra UD til Nærings- og handelsdepartementet. Overføringen av ansvaret for Norges Eksportråd medfører at vedtektene fastsatt ved kgl.res. av 22. desember 1995 må endres. Ansvaret for å oppnevne Norges Eksportråds styre og råd går også over til Nærings- og handelsdepartementet.

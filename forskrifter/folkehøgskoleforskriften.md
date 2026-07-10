@@ -199,5 +199,7 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 13. okt
 
 ## Vedlegg: Samisk versjon
 
+Se her for å lese forskriften i nordsamisk oversettelse: [pdf-lenke](static/SF/sf-20250821-1693-01-01.pdf)
+
 > Oversettelsen av folkehøgskoleforskriften til nordsamisk er levert av Kunnskapsdepartementet og er oppdatert per 21. august 2025.
 Dette er en uoffisiell oversettelse av den norske versjonen av forskriften. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

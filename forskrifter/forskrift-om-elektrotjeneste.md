@@ -132,11 +132,15 @@ Forskriften trer i kraft 1. januar 2005.
 
 Vedlegget er en del av [forskrift 26. august 2004 nr. 1245](forskrift/2004-08-26-1245) om elektrotjeneste (BSL E 4-3).
 
+1\.
+
 Systemet for forebyggende vedlikehold av lysanlegg ved store flyplasser skal ha til hensikt å sikre at alle innflygings- og banelys er operative.
 
 Når flyging pågår, skal minst 85% av lysenhetene være operative i hvert av følgende anlegg:innflygingslysene,terskellysene,banekantlysene,baneendelysene.
 
 Systemet for forebyggende vedlikehold skal ikke tillate at to lysenheter inntil hverandre er ikke-operative med mindre montasjeavstand mellom lysenhetene er vesentlig mindre enn foreskrevet, unntatt i en innflygingslys tverrekke eller en barett.
+
+2\.
 
 Systemet skal ha til hensikt å sikre at lysenhetene ved lysanlegg på rullebane som skal kunne benyttes for start ved rullebanesikt mindre enn 550 m, er operative under disse forholdene.
 
@@ -144,9 +148,15 @@ Systemet skal minst sikre at:95% av lysenhetene i rullebanesenterlinjelys (hvor 
 
 Systemet skal ikke tillate at to lysenheter inntil hverandre er ikke-operative.
 
+3\.
+
 Systemet for forebyggende vedlikehold av lysanleggene på en presisjonsrullebane i kategori II og III skal minimum inneholde følgende:På-stedet-måling av:lysintensitet,spredning og retning for enhetene i innflygings- og banelysanleggene.Kontroll/måling av spenning og strømstyrke for de enkelte kretser som inngår i innflygings- og banelysanleggene.Kontroll av systemet for regulering/justering av lysintensiteten.
 
+4\.
+
 På-stedet-måling av lysintensitet, -spredning og retning for enhetene i innflygings- og banelysanleggene for en presisjonsrullebane i kategori II og III skal, så langt praktisk mulig, omfatte alle lysenhetene for å sikre overensstemmelse med punkt 3 ovenfor.
+
+5\.
 
 Systemet skal ha til hensikt å sikre at alle innflygings- og banelys på en presisjonsrullebane i kategori II og III er operative.
 
@@ -154,7 +164,11 @@ Systemet skal minst sikre at:95% av lysenhetene i hvert av de følgende lysanleg
 
 Systemet skal ikke tillate ikke-operative lysenheter i antall eller sammenhenger hvor det kan forandre tilsiktet lysmønster. Dessuten skal det ikke tillates to ikke-operative enheter i samme lysanlegg uten at det minimum er én operativ i mellom, unntatt i en innflygingslys tverrekke og i en barett.
 
+6\.
+
 For stopplysrekke plassert ved venteposisjon for rullebane som skal brukes ved rullebanesikt mindre enn 400 m skal systemet ha til hensikt å sikre at:det ikke er flere enn to ikke-operative lysenheter, ogdet ikke er to ikke-operative lysenheter inntil hverandre, med mindre montasjeavstanden mellom dem er vesentlig mindre enn foreskrevet.
+
+7\.
 
 For lysanlegg på taksebane som skal brukes ved rullebanesikt mindre enn 400 m, skal systemet ha til hensikt å sikre at to ikke-operative lysenheter i senterlinje ikke får være naboenheter.
 
@@ -162,17 +176,75 @@ For lysanlegg på taksebane som skal brukes ved rullebanesikt mindre enn 400 m, 
 
 ### Del 1. Kommentarer til de enkelte bestemmelser
 
+|  |  |
+| --- | --- |
+| *Til [§ 2](forskrift/2004-04-27-670/§2)* | Forskriften bør også i størst mulig utstrekning legges til grunn for elektrotjenesten ved flyplasser som ikke trenger Luftfartstilsynets godkjenning. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 4](forskrift/2004-04-27-670/§4)* | Lys i forbindelse med skilt, både innvendig og utvendig belysning, regnes i denne sammenheng som lysanlegg.<br>I tillegg til kravene etter denne forskrift skal anleggene tilfredsstille elektrofaglige krav. Elektroansvarlig plikter å varsle om, og om nødvendig frakoble, anlegg vedkommende ikke lenger kan innestå for sikkerheten ved.<br>Flyplassjefen og leder av elektrotjenesten kan være samme person, men da må flyplassjefen ha sin daglige tjeneste på flyplassen. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 5](forskrift/2004-04-27-670/§5)*<br>(1) | Den dokumentasjon som nevnes i bestemmelsens første ledd kan være håndbøker, tegninger, skjemaer, prosedyrer, instrukser og informasjon.<br>De generelle krav til faglig utdanning, praksis og godkjenning for personer som skal utføre eller lede arbeider på elektriske anlegg, samt være ansvarlig for sikkerhet ved samme, fremgår blant annet av Forskrift om kvalifikasjoner for elektrofagfolk og Forskrifter for elektriske anlegg/Sikkerhet ved drift av og arbeid i elektriske anlegg.<br>For faglig ledelse/utførelse av arbeider på elektriske installasjoner/anlegg kreves sertifisering. Faglig ledelse/utførelse av arbeider kan, dersom leder for elektrotjenesten ikke besitter nødvendige godkjenninger, tillegges utenforstående installatør, basert på kontrakt med henblikk på bl.a. omfang, innsatstid, ansvarsforhold og andre forpliktelser, eller det kan være ansatt elektrofagkyndig som er autorisert som bedriftselektriker. |
+
+|  |  |
+| --- | --- |
+| (2) | Se veiledning til BSL E 4-3 – del 2 – vedlikehold.<br>Se veiledning til BSL E 4-3 – del 2 – lysanleggenes brukbarhet. |
+
+|  |  |
+| --- | --- |
+| (3) | Mennesker har, på samme måte som luftfartøyer, begrensninger i sin ytelsesevne, og disse begrensningene må det tas hensyn til ved utarbeidelse av prosedyrer. For eksempel bør en unngå fremgangsmåter/metoder som er spesielt ulystbetont eller krever ferdigheter som er vanskelige å oppnå og opprettholde.<br>Prosedyrene må dessuten ta høyde for at mennesker gjør feil ved at prosedyrene inneholder kontrollsystemer som sikrer at menneskelige feil blir avdekket og korrigert før de får flysikkerhetsmessige konsekvenser, jf. også krav til kvalitetssystem, BSL A 1-1. Ytterligere veiledning om den menneskelige faktor finnes i ICAO Human Factors Training Manual. |
+
+|  |  |
+| --- | --- |
+| (5) | Beredskapsplanene har til hensikt å redusere forstyrrelser i flyvirksomheten som følge av svikt ved de elektrotekniske anleggene, samt å forebygge skade på personer, utstyr og eiendom. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 6](forskrift/2004-04-27-670/§6)* | Se veiledning til BSL E 4-3 – del 2 – inspeksjoner. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 8](forskrift/2004-04-27-670/§8)* | Se veiledning til BSL E 4-3 – del 2 – lysanleggenes brukbarhet. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 9](forskrift/2004-04-27-670/§9)* | Eksempler på forhold som fartøysjefen trenger opplysninger om:<br>– Lysanlegg som er satt ut av drift.<br>Lysenheter som er slokket eller har redusert intensitet.<br>Lysenheter som er ute av stilling.<br>– Farlige eller villedende lys i flyplassens omgivelser.<br>– Markante lys i flyplassens omgivelser som er slokket.<br>Lufttrafikktjenesten vil formidle opplysningene videre til fartøysjefene etter fastsatte rutiner. Ved øvrige flyplasser skal flyplassjefen ha etablert rutiner for videreformidling, jf. BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) fjerde ledd og den aktuelle forskrift om utforming, [kapittel om](forskrift/2004-08-26-1245) flyplassdata. |
+
+|  |  |
+| --- | --- |
+| *Til [§ 13](forskrift/2004-04-27-670/§13)* | Den angitte dokumentasjon er vital for personsikkerheten og nødvendig for effektivt vedlikehold og feilretting, og bør i størst mulig grad også forefinnes ved andre enn bare de store flyplassene.<br>Entydig merking av utstyrsenheter/posisjoner er nødvendig for personsikkerheten, spesielt ved flere like enheter/anlegg, samt for effektivt vedlikehold og feilretting, og bør i størst mulig grad også forefinnes ved andre enn bare de store flyplassene. |
+
 ### Del 2. Akseptabel minstestandard
+
+1.*Generelt*
+
+1.1
 
 Forskrift om elektrotjeneste inneholder formuleringer som tilsier utøvelse av skjønn. Eksempler på slikt skjønn er formuleringer som «trygt og sikkert» og «tilstrekkelig». Skjønnet må både utøves av den som skal etterleve forskriften og av luftfartsmyndigheten som skal føre tilsyn med at forskriften blir etterlevd. Dersom det oppstår uenighet er det den myndighet som har fastsatt forskriftene, dvs. Luftfartstilsynet, som avgjør skjønnsutøvelsen.
 
+1.2
+
 Nedenstående veiledning skal gi flyplassoperatøren tilstrekkelig informasjon for en tilfredsstillende praktisering av forskriften. Veiledningen angir det sikkerhetsnivå Luftfartstilsynet vil legge til grunn for sin skjønnsutøvelse. Den angir således en akseptabel minstestandard som flyplassoperatøren kan legge til grunn for sin etterlevelse av forskriften.
+
+2.*Inspeksjon, kontroll og oppfølging m.m.*
+
+2.1*Inspeksjoner*
+
+2.1.1
 
 Krav til inspeksjon av lysanlegg relatert til flyplass og type trafikk fremgår av BSL E 4-3 [§ 6](forskrift/2004-04-27-670/§6). Generelt inspiseres lysanleggene så ofte som trafikken og utstyrets tilstand tilsier, dog minimum før første flyging i mørke finner sted til eller fra flyplassen. For flyplasser der det er lenge mellom hver mørkeflyging bør lysanleggene inspiseres minimum hvert fjerde døgn.
 
+2.1.2
+
 Utover de inspeksjonene som fremgår av BSL E 4-3 [§ 6](forskrift/2004-04-27-670/§6), inspiseres ved/etter forhold som kan ha påvirket utstyret, som uvær, brøyting eller start/landing av store luftfartøyer.
 
+2.1.3
+
 En inspeksjon kan anses dekket ved tilbakemelding fra personell i plasstjenesten, flygere eller andre kvalifiserte informanter. Anses mottatte tilbakemelding ikke betryggende eller tilstrekkelige, kompletteres med «på-stedet-kontroll», eventuelt kontrollflyging.
+
+2.1.4
 
 Overvåking av flyplassens omgivelser for å oppdage farlige eller villedende lys, eller markante lys som er blitt borte, gjennomføres minimum *månedlig*. I tillegg gjennomføres slik overvåking dersom forholdene tilsier det, for eksempel ved bygge- eller anleggsarbeider eller andre forhold som medfører spesiell belysning.
 
@@ -186,13 +258,31 @@ Farlige eller villedende lys skal *fjernes eller endres*, jf. BSL E 4-3 [§ 8](f
 
 For effektivt å kunne kontrollere lys utenfor flyplassens område, bør de aktuelle områdene være regulert i kommuneplan eller reguleringsplan, eller det bør på annen måte være inngått avtaler med berørte grunneiere. Dersom lys, som vurderes som farlige eller villedende, ikke kan fjernes eller endres, skal forholdet rapporteres til Luftfartstilsynet, og om nødvendig skal lufttrafikken stoppes eller begrenses, jf. BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) fjerde ledd bokstav a) og femte ledd. I alle tilfeller skal forholdet gjøres kjent for flyplassens brukere, jf. BSL E 4-3 [§ 9](forskrift/2004-04-27-670/§9) og BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) fjerde ledd bokstav b. Se også pkt. 2.1.4 ovenfor.
 
+2.2*Kontroll*
+
+2.2.1
+
 Innflygings- og banelysene ved flyplasser med lufttrafikktjeneste kontrolleres med betryggende korte intervaller for å sikre at lysanleggene danner forutsatt lysbillede, dvs: fungerer som forutsatt, er korrekt innstilt og fri for forurensninger, avsetninger eller fremmedelementer som kan hindre eller skjerme lysfunksjonen. Kontroll som betinger åpning av utstyr/tilgang til elektriske komponenter, forutsetter minimum at utøveren er instruert.
 
-Kontroll foretas så ofte anleggenes standard og stedlige forhold tilsier, dog:* Innflygingslysminimum vinkelkontroll vår og høst, årlig full kontroll.* Rullebanekantlysminimum hvert år.* Terskel- og baneendelysminimum 2 ganger pr. måned vinkelkontroll, årlig full kontroll.* Nedfelte lysminimum 2 ganger pr. uke prismerens/-kontroll, årlig full kontroll.* Visuelt glidebaneanleggminimum 2 ganger pr. måned vinkelkontroll, årlig full kontroll.* Taksebanekantlysminimum hvert år.* Skiltbelysningminimum hvert år.
+2.2.2
+
+Kontroll foretas så ofte anleggenes standard og stedlige forhold tilsier, dog:
+
+|  |  |
+| --- | --- |
+| \* Innflygingslys | minimum vinkelkontroll vår og høst, årlig full kontroll. |
+| \* Rullebanekantlys | minimum hvert år. |
+| \* Terskel- og baneendelys | minimum 2 ganger pr. måned vinkelkontroll, årlig full kontroll. |
+| \* Nedfelte lys | minimum 2 ganger pr. uke prismerens/-kontroll, årlig full kontroll. |
+| \* Visuelt glidebaneanlegg | minimum 2 ganger pr. måned vinkelkontroll, årlig full kontroll. |
+| \* Taksebanekantlys | minimum hvert år. |
+| \* Skiltbelysning | minimum hvert år. |
 
 Kontrollen vil normalt innbefatte noen grad av demontering for service; rengjøring, justering, utskifting til ny/overhalt del eller enhet.
 
 Krav til farge, lysutbytte, åpnings-/utstrålingsvinkler etc. fremgår av Annex 14, Appendix 1 og 2.
+
+2.2.3
 
 For kontrollene utarbeides et system som angir tidspunkter/intervaller for kontrollene. Dette knyttes opp mot beskrivelser (også leverandørens) av hver enhets/hver type enheters oppbygging/funksjon, omfang av kontroll og test, prosedyre for test, vedlikehold og justeringer, inkludert skifting av lamper og annet forbruksmateriell, oversikt over nødvendig verktøy, hjelpemidler og type reservedeler, samt registrering av utskiftingers omfang, tidspunkt og innskiftede forbruksmateriells forventbare levetid.
 
@@ -202,9 +292,13 @@ Dessuten vurdering av kabler, kabelføringer og utstyrets generelle tilstand, me
 
 Kontroll og justering skal utføres iht. utstyrets manualer, om nødvendig supplert med lokale instrukser/beskrivelser.
 
+2.2.4
+
 For lavintensitets lysanlegg og ikke separat beskrevne anlegg, hvor ikke hyppigere eller mer omfattende på-stedet-kontroller er beskrevet for den enkelte type/gruppe utstyr, utføres kontroll som beskrevet ovenfor så ofte utstyrets standard og stedlige forhold tilsier, dog *minimum årlig*.
 
 I den utstrekning det er relevant må også, ved enheter hvor flere lamper inngår oghvor disse skal lyse samtidig, kontrolleres at så er tilfelle,hvor ny skal kople inn ved feil, kontrolleres at skifteautomatikken fungerer, og at fungerende reservelampe(r) er på plass, samt at eventuell innebygget feil-/tilstandsvarsling fungerer.
+
+2.2.5
 
 For innflygingslys, innflygingsledelys, sirklingslys og hinderlys (faste og blinkende) kontrolleres minst *en gang pr. uke* at lysanleggene fungerer som forutsatt, er tilsynelatende korrekt innstilt og fri for avsetninger eller fremmedelementer som kan virke hindrende eller skjermer for lysfunksjonen.
 
@@ -214,15 +308,25 @@ På-stedet-kontroll foretas så ofte som forholdene tilsier, og avhengig av anle
 
 Intervaller for faste på-stedet-kontroll av spesielt utilgjengelig plassert utstyr kan ytterligere forlenges dersom det godtgjøres at utførelse, montasje, dubleringer, serviceomfang og/eller andre forhold ved den enkelte enhet gjør dette forsvarlig.
 
+2.2.6
+
 Beslutning om kontrollflyging baseres på grad av usikkerhet og hvor mye et lysanlegg har vært ute av stilling.
 
 Visuelt glidebaneanlegg skal alltid kontrollflys dersom et anlegg har vært ute av stilling pga. fysisk påkjenning, for eksempel brøyting. Som anlegg regnes tre eller fire enheter i et APAPI-anlegg, begge enheter i et APAPI-anlegg og en enhet i et PLASI-anlegg. Dersom bare en eller to enheter i et PAPI-anlegg eller en enhet i et APAPI – anlegg har vært ute av stilling, kan anlegget settes i drift etter bakkekontroll av enhetene og kontrollflyging utsettes inntil en måned.
 
+2.2.7
+
 På-stedet-måling av egenskapene, spesielt for presisjonsrullebaner i kategori II og III, bør utføres ved hjelp av mobilt måleutstyr med tilstrekkelig nøyaktighet til å analysere data for hver enkelt enhet. Hyppigheten av slike målinger bør under ingen omstendigheter bli lavere enn *to ganger årlig* for nedfelte armaturer og *en gang årlig* for andre.
+
+2.2.8
 
 Signallampe i kontrolltårn kontrolleres *ukentlig.*
 
+2.3*Inspeksjon og kontroll med flyplasstekniske anlegg og utstyr*
+
 Utstyret vil primært være:konstantstrømregulatorer for banetilknyttede lysanlegg,variacer og andre regulertransformatorer,skilletransformatorer for seriekretser,kabelanlegg og føringsveier, inkludert kummer.
+
+2.3.1
 
 Konstantstrømregulatorer inspiseres *ukentlig*, og fagkyndig kontroll foretas *månedlig*.
 
@@ -230,13 +334,25 @@ Inspiseres med tanke på lukt, lyd, temperatur, lekkasje og andre indikasjoner p
 
 Kontroll i henhold til leverandørens retningslinjer/manualer:Regulerings-/styre-/betjeningsanlegget testes.Kontroll av funksjon/strøm på de ulike trinn, ev. korrigering.Belastning/trinn registreres.
 
+2.3.2
+
 Variacer og andre regulertransformatorer kontrolleres som under 2.3.1 så langt det kan tillempes.
+
+2.3.3
 
 Skilletransformatorer for seriekretser, plassert i kum, inspiseres for ytre tegn på skade/overlast *årlig* .
 
+2.3.4
+
 Kabel og kabelarbeider, samt føringsveier, *minimum årlig:*inspiseres for tildekking på kabelbroer og andre tracéer som betinger lufting (lastførende kabler skal ikke være forlagt direkte på gulv, og ikke inntil hverandre),inspiseres for tegn på ytre påvirkning/skade i utsatte områder,inspiseres for varmgang i tilkoplinger,inspeksjon og rengjøring av trafo- og tilkoplingskummer.
 
+2.4*Tilsyn og kontroll med forsynings- og distribusjonsanlegg*
+
+2.4.1
+
 Flyplassens lysanlegg og installasjoner omfatter alt etter det punkt energileverandør betegner som leveringspunkt. Hvor energileverandør avregner høyspent, men besørger fremføring til og nedtransformering på flyplassen, må sikres avtale om at leverandøren foretar nødvendig tilsyn, kontroll og vedlikehold av linje, transformator og bryteranlegg.
+
+2.4.2
 
 Intern distribusjon omfatter koplings-/fordelingsanlegg og underfordelinger, med distribusjonskabling til de enkelte fordelinger og anlegg, som lys- og varmefordelinger, konstantstrømregulatorer med mer.
 
@@ -248,19 +364,30 @@ Isolasjonsnivå kontrolleres *årlig*.
 
 Det utarbeides gjennomføringsplan for tiltrekkingskontroll (ev. termofotografering under belastning) av lastforbindelser (skinne-, rekkeklemme-, apparat- og batteritilkoplinger) med tanke på metallflyt/oksidasjon/varmgang. Fremdrift/konklusjoner loggføres.
 
+2.4.3
+
 Reservekraftaggregat, med tilhørende start-/overvåkingssystem, inspiseres og kontrolleres, og eventuelt startes/kjøres, med betryggende hyppighet, vanligvis *ukentlig.*
 
-Start med lastovertak foretas minimum *månedlig.* Anm. 1:Kontroll/aggregatdrift i samkjøring mot matende nett må bare gjøres etter avtale, og under kontakt med netteier (som kun unntaksvis er energileverandøren).Anm. 2:Før slik kjøring må det avklares at aggregatet og koplingsutrustningen om nødvendig vil beherske de kortslutningsytelser matende nett kan levere.Anm. 3:Det må avklares at kopling av flyplassens ordinære fullastuttak ikke kan/vil forårsake sjenerende forstyrrelser på matende nett.Anm. 4:Kontroll/prøvekjøring utføres i henhold til aggregatprodusentens/-leverandørens anvisning, basert på:
-1) utkopling av matende nett slik at aggregat starter opp og kopler seg inn automatisk, dersom lastkjøring skal foretas,
-2) betjeningsstart av aggregater for kjøring uten lastovertak.
+Start med lastovertak foretas minimum *månedlig.*
+
+|  |  |
+| --- | --- |
+| Anm. 1: | Kontroll/aggregatdrift i samkjøring mot matende nett må bare gjøres etter avtale, og under kontakt med netteier (som kun unntaksvis er energileverandøren). |
+| Anm. 2: | Før slik kjøring må det avklares at aggregatet og koplingsutrustningen om nødvendig vil beherske de kortslutningsytelser matende nett kan levere. |
+| Anm. 3: | Det må avklares at kopling av flyplassens ordinære fullastuttak ikke kan/vil forårsake sjenerende forstyrrelser på matende nett. |
+| Anm. 4: | Kontroll/prøvekjøring utføres i henhold til aggregatprodusentens/-leverandørens anvisning, basert på:<br>1) utkopling av matende nett slik at aggregat starter opp og kopler seg inn automatisk, dersom lastkjøring skal foretas,<br>2) betjeningsstart av aggregater for kjøring uten lastovertak. |
 
 Dersom reservekraft leveres av flere parallelt arbeidende aggregater, med innfasingsautomatikk, må testprosedyrer basert på (ukontrollert) nettutfall utarbeides, også for å garantere innkoplingstid for påkrevde lys-, navigasjons-, kommunikasjons- og varslingsanlegg.
 
 Automatisk frakopling/prioritering, for begrensing av effektuttak fra nødstrømsaggregat, prøves sammen med lastkjøring av aggregatet(ene).
 
+2.4.4
+
 Automatisk omkopling mellom ordinær kraftforsyning og annen alternativ forsyning (reservelinje, dublert utrustning og tilsvarende) prøves og kontrolleres minimum *månedlig*.
 
 Innkoblingstiden måles fra utkobling av matende nett og til aktuelle lysenheter lyser med foreskrevet minimumsintensitet.
+
+2.4.5
 
 Stabilspenningsaggregat (UPS) er primært en utjamningsenhet som skal sikre stabil spenning til følsomt utstyr, uavhengig av variasjoner, blink og kortere utfall av matende forsyning.
 
@@ -270,9 +397,13 @@ Normalbelastning registreres.
 
 Batteri testes for kapasitet minimum *årlig*.
 
+2.4.6
+
 Like- og vekselrettere, i alle kombinasjoner og utførelser, for levering av like- eller vekselstrøm av variabel spenning og/eller frekvens, ofte kombinert med batteribank, som UPS.
 
 Inspeksjon og kontroll utføres som for UPS så langt det kan tillempes.
+
+2.4.7
 
 Batteribanker og startbatterier for reservekraftaggregater, annet nødutstyr og utrykningskjøretøyer kontrolleres for ladespenning *ukentlig*.
 
@@ -280,44 +411,94 @@ Kontroll av ladetilstand, syrevekt og syrenivå foretas *månedlig*, så langt b
 
 Kapasitetstest *minimum før hver vintersesong*.
 
+2.4.8
+
 Transformatorer til andre spenninger inspiseres *ukentlig* for lukt, lyd, lekkasje eller andre indikasjoner på feil under utvikling.
 
 Kjøling, filtertilstand kontrolleres *månedlig*.
 
 Belastning registreres.
 
+2.5*Tilsyn med manøver- og overvåkingsutstyr*
+
+2.5.1
+
 Strømforsyninger for manøver- og overvåkingssystemer kontrolleres med hensyn på batteritilstand, spenning og lading minimum *månedlig*, og det foretas belastnings-/kapasitetstest minimum *årlig*.
+
+2.5.2
 
 Like- og vekselrettere som inngår i strømforsyninger kontrolleres med tanke på renhold/filtertilstand/uhindret kjøleluftsirkulasjon, samt yteevne/belastning minimum *månedlig*.
 
+2.5.3
+
 På flyplass med høyintensive lys skal utgående spenning og/eller strømstyrke i forhold til innstilt intensitetsgrad (fra lufttrafikktjenestens posisjon) kontrolleres minimum en gang pr. *måned.*
+
+2.5.4
 
 Omfattende elektroniske manøver- og overvåkingssystemer funksjonsprøves, utover fullstendig utprøving av berørte seksjoner etter inngrep som utskiftinger, utvidelser og omgjøringer, minimum *en gang pr. år* ved å mate inn samtlige typer manøver- og overvåkingssignaler, samt ved simulering av kritiske feil/tilstander (fysisk påvirking av detektorer og andre meldeenheter, og konstatering av aktivering/utløsing av tilhørende reaksjoner).
 
+2.5.5
+
 Kabler som inngår i overvåkingssystem isolasjonsprøves minimum *årlig.*
+
+2.5.6
 
 Manøver- og overvåkingssystemenes øvrige komponenter, som releer og indikerings-/betjeningstablåer, funksjonsprøves minimum *hvert annet år*.
 
+2.6*Oppfølging*
+
+2.6.1
+
 Det skal føres logg over inspeksjoner og kontroller og tiltak i den forbindelse, jf. BSL E 4-3 [§ 5](forskrift/2004-04-27-670/§5) annet ledd. I dette inngår registrering av feil og mangler samt utførte utbedringer på alle anlegg. Registreringene vil også være til støtte ved langtidsplanlegging for mer omfattende gjennomganger med større utbedringer og utskiftinger.
+
+2.6.2
 
 Loggene skal oppbevares minimum 2 år, jf. BSL E 4-3 [§ 5](forskrift/2004-04-27-670/§5) annet ledd.
 
+2.6.3
+
 Basert på de enkelte anlegg/enheters alder, daglige påvirkning/slitasje samt registerte feil og utbedringer, utarbeides plan for løpende vedlikehold i form av utskifting eller mer omfattende reparasjoner, slik at anlegg og utstyr til enhver tid kan fremstå i forskriftsmessig stand, og at tilfredsstillende funksjon kan påregnes.
+
+3.*Vedlikehold*
+
+3.1*Generelt*
+
+3.1.1
 
 Basert på plan for løpende vedlikehold, utarbeidet med støtte fra logger og annen oppfølging av anleggene, samt manualer og annen anleggsdokumentasjon, skal det føres et løpende, forebyggende vedlikehold, med nødvendig utskifting av slitasje- og aldringsutsatt materiell. Det forebyggende vedlikeholdet skal sikre at lysanleggene med nødvendige bakenforliggende forsynings- og fordelingsanlegg til enhver tid tilfredsstiller flyplassens godkjenningsvilkår og slik at pålitelig funksjon sikres, jf. BSL E 4-3 [§ 5](forskrift/2004-04-27-670/§5) første ledd bokstav c.
 
+3.1.2
+
 Vedlikehold og reparasjon av elektriske anlegg og enheter kan bare foretas av eller under direkte tilsyn av fagkyndig. Utskifting av utbrent lampe eller annen enhet, uten inngripen i elektriske kretser, kan tillates utført av instruert, inspiserende personale dersom nødvendig sikkerhetsutstyr er utdelt og instruksjoner om bruk og faremomenter er gitt.
+
+3.1.3
 
 Omgjøringer av lysanlegg eller lysenheter, som kan endre eller ha innvirkning på utstyrets funksjon, kan ikke foretas uten forhåndsgodkjennelse fra Luftfartstilsynet, jf. BSL E 4-1 [§ 4](forskrift/2004-04-27-670/§4) fjerde ledd bokstav a. og godkjenningsvilkårene.
 
+3.1.4
+
 Retningslinjer for vedlikehold av lysanlegg finnes i ICAO Doc 9137 – Part 9 – Airport Maintenance Practices.
+
+4.*Lysanleggenes brukbarhet*
+
+4.1*Generelt*
+
+4.1.1
 
 Kravene, som er satt i BSL E 4-3 [kapittel 4](forskrift/2004-04-27-670/kap4) og vedlegg 1, definerer mål for vedlikehold og angir ikke direkte krav til lysanleggenes brukbarhet. Vurdering av om lysanlegg skal settes ut av drift gjøres av flyplassjefen, i samarbeide med lufttrafikktjenesten og om mulig med flyplassens brukere.
 
+4.1.2
+
 For store flyplasser skal det utarbeides klare kriteria for når lysanleggene skal settes ut av drift, jf. BSL E 4-3 [§ 8](forskrift/2004-04-27-670/§8) annet ledd og [§ 5](forskrift/2004-04-27-670/§5) tredje ledd. Kriteriene skal forelegges flytryggingskomiteen, jf. BSL E 4-1 [§ 5](forskrift/2004-04-27-670/§5) tredje ledd bokstav d. Flyplassjefen bør dessuten vurdere å delegere myndigheten til å sette anlegg ut av drift til en vakthavende person.
+
+4.1.3
 
 Et anlegg som på grunn av avvik eller feil kan mistolkes eller skape tvil, eller som ikke formidler den fulle forventede eller kunngjorte informasjon, skal settes ut av drift, dvs. slås av, jf. BSL E 4-3 [§ 8](forskrift/2004-04-27-670/§8) første ledd.
 
+4.1.4
+
 Innflygings-, terskel-, banekant-, baneende- og taksebanelysanleggene kan vanligvis anses som fungerende dersom mindre enn ca. 15% av enhetene i det enkelte anlegg må bedømmes som ikke operativt, forutsatt en spredning av de underkjente lysene slik at ingen vesentlige forandringer av anleggenes lysbillede, eller villedende mønstre, har oppstått. Lufttrafikktjenesteenheten skal være varslet, jf. BSL E 4-3 [§ 5](forskrift/2004-04-27-670/§5) femte ledd, [§ 8](forskrift/2004-04-27-670/§8) første til fjerde ledd og [§ 9](forskrift/2004-04-27-670/§9). Utbedring bør ha høy prioritet.
+
+4.1.5
 
 For presisjons innflyging og start ved RVR mindre enn 550 m vises til beskrivelser i Annex 14.

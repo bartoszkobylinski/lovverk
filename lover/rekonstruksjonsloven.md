@@ -498,6 +498,8 @@ Når denne loven får anvendelse, skal omtale i andre lover og forskrifter av gj
 
 > Endret ved lover [22 des 2021 nr. 167](lov/2021-12-22-167), [26 mai 2023 nr. 14](lov/2023-05-26-14), [20 juni 2025 nr. 79](lov/2025-06-20-79), [19 juni 2026 nr. 48](lov/2026-06-19-48).
 
+1 Fra 11. mai 2020 iflg. [res. 7 mai 2020 nr. 947](forskrift/2020-05-07-947).
+
 ### § 65. Overgangsregler
 
 (1) En begjæring om åpning av gjeldsforhandling etter konkurslovens første del som er fremmet, men ikke avgjort av retten, når denne lov trer i kraft, skal anses som en begjæring om forhandling om rekonstruksjon etter denne loven.

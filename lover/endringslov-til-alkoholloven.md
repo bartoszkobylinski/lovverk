@@ -22,9 +22,13 @@ eu_basis: []
 
 # Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 
+Endring i følgende lov:
+
 - [Lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. (alkoholloven)](lov/1989-06-02-27).
 
 ## I
+
+I [lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v.](lov/1989-06-02-27) skal [§ 4-4](lov/1989-06-02-27/§4-4) nytt niende ledd lyde: – – –
 
 ## II
 

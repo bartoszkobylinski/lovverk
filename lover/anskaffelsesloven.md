@@ -333,3 +333,5 @@ Departementet kan gi oppdragsgiveren pålegg som er nødvendige for å sikre opp
 Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 16. juli 1999 nr. 69](lov/1999-07-16-69) om offentlige anskaffelser.
 
 Departementet kan gi forskrift om overgangsregler.
+
+1 Fra 1 jan 2017 iflg. [res. 9 des 2016 nr. 1459](forskrift/2016-12-09-1459).

@@ -23,3 +23,5 @@ eu_basis: []
 # Vedtak om opphevelse av rundskriv vedrørende unntak for beregning av forsinkelsesrente ved for sen innbetaling av skatt og oppgjør for skattetrekk innen fiske- og fangstvirksomhet.
 
 Rundskriv nr. 26 av 10. mai 19571 vedrørende unntak for beregning av forsinkelsesrente ved for sen innbetaling av skatt og oppgjør for skattetrekk innen fiske- og fangstvirksomhet oppheves med virkning fra og med 1. juli 2006. Opphevelsen av rundskrivet innebærer at det også innen fiske- og fangstvirksomhet skal beregnes forsinkelsesrenter på ordinær måte i samsvar med [forskrift 6. mai 1994 nr. 332](forskrift/1994-05-06-332) om renteberegning ved for sen innbetaling av skatt og oppgjør for skattetrekk.
+
+1 Ikke kunngjort i Norsk Lovtidend.

@@ -58,6 +58,8 @@ Forsikringsgivere som tilbyr forsikring etter loven, må være tilsluttet en for
 
 > Endret ved lov [24 juni 1994 nr. 40](lov/1994-06-24-40) (ikr. 1 juli 1994).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (direktiv [92/49](eu/31992l0049) art. 55).
+
 ### § 5. Direkte krav mot forsikringsgiveren, hvilken forsikringsgiver som svarer.
 
 Yrkesskadeforsikringen gjelder direkte til fordel for skadelidte.
@@ -77,6 +79,8 @@ Forsikringsgiveren skal i betalingsvarsel eller oppsigelse gjøre arbeidsgiveren
 Dersom ingen forsikringsgiver er ansvarlig etter [§§ 5](lov/1989-06-16-65/§5) eller [6](lov/1989-06-16-65/§6), svarer de forsikringsgivere som tilbyr yrkesskadeforsikring etter loven, i fellesskap for arbeidstakerens tap. Forsikringsgiverne er solidarisk ansvarlige. Kongen kan gi nærmere regler om fordelingen av skadesummen mellom dem.
 
 > Endret ved lov [24 juni 1994 nr. 40](lov/1994-06-24-40) (ikr. 1 juli 1994 iflg. [res. 1 juli 1994 nr. 534](forskrift/1994-07-01-534)).
+
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1 (direktiv [2009/138](eu/32009l0138) art. 207).
 
 ### § 8. Personlig ansvar, regress.
 
@@ -159,6 +163,8 @@ Ved forsettlig eller uaktsom overtredelse av [§ 3](lov/1989-06-16-65/§3) straf
 ### § 20. Ikrafttredelse.
 
 Loven trer ikraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 1990 iflg. [res. 13 okt 1989 nr. 1040](forskrift/1989-10-13-1040).
 
 ### § 21. Overgangsregler.
 

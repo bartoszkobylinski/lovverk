@@ -854,6 +854,8 @@ Kongen kan gi overgangsbestemmelser, herunder bestemme i hvilken grad bestemmels
 
 > Endret ved [lov 16 sep 2016 nr. 81](lov/2016-09-16-81) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1645](forskrift/2016-12-16-1645), tidligere § 82).
 
+1 Fra 1 juli 2007 iflg. [res. 15 juni 2007 nr. 627](forskrift/2007-06-15-627).
+
 ### § 84. Endringer i andre lover
 
 Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –
@@ -861,6 +863,8 @@ Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: �
 > Endret ved [lov 16 sep 2016 nr. 81](lov/2016-09-16-81) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1645](forskrift/2016-12-16-1645), tidligere § 83).
 
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-lenke](static/NL/nl-20070615-040-01-01.pdf).
 
 > Oversettelsen er levert av Landbruks- og matdepartementet. Oversettelsen er à jour per 1. juli 2025.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

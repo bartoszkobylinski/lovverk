@@ -26,7 +26,11 @@ eu_basis: []
 
 I [lov 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker vert det gjort følgjande endringar:
 
+§ 163 fyrste ledd skal lyde:
+
 Personundersøkelse utføres av en skikket person som kriminalomsorgen utpeker, om ikke retten oppnevner en bestemt person til å foreta undersøkelsen.
+
+– – –
 
 ## IV. Ikraftsetjing
 

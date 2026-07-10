@@ -42,6 +42,18 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 2. juli
 
 ## Rettsakter
 
+For å lese vedtak [2009/965/EF i](eu/32009d0965) engelsk versjon se her: [(pdf)](static/SF/32009d0965e.pdf)
+
+For å lese vedtak [2009/965/EF i](eu/32009d0965) uoffisiell norsk oversettelse se her: [(pdf)](static/SF/32009d0965u.pdf)
+
+For å lese vedtak [2011/155/EU i](eu/32011d0155) engelsk versjon se her: [(pdf)](static/SF/32011d0155e.pdf)
+
 Engelsk versjon.
+
+For å lese vedtak [2011/155/EU i](eu/32011d0155) uoffisiell norsk oversettelse se her: [(pdf)](static/SF/32011d0155u.pdf)
+
+For å lese Kommisjonens gjennomføringsbeslutning [(EU) 2015/2299 i](eu/32015d2299) engelsk versjon se her: [(pdf)](static/SF/32015d2299e.pdf)
+
+For å lese Kommisjonens gjennomføringsbeslutning [(EU) 2015/2299 i](eu/32015d2299) uoffisiell norsk oversettelse se her: [(pdf)](static/SF/32015d2299u.pdf)
 
 > Endret ved [forskrift 7 juni 2016 nr. 589](forskrift/2016-06-07-589).

@@ -60,6 +60,12 @@ Denne forskrift trer i kraft 1. mars 1993. Samtidig oppheves Sikkerhetsforskrift
 
 Arbeidstilsynet skal klassifisere gruver etter følgende inndeling:
 
+*Klasse 1,* steder med liten gassfare. Gruve eller fløts i gruve hvor det selv uten ventilering aldri er oppdaget metangass på noe sted, ansees i denne forskrift som sted hvor det er liten gassfare.
+
+*Klasse 2,* steder med midlere gassfare. Gruve eller fløts i gruve hvor det er oppdaget metangass, men hvor metaninnholdet i luften med igangværende ventilasjon er under 1,0 volumprosent, eller hvor det er under 0,3 volumprosent metan i returluften, ansees i denne forskrift som sted hvor det er midlere gassfare.
+
+*Klasse 3,* steder med særlig gassfare. Gruve eller fløts i gruve hvor metaninnholdet i luften med igangværende ventilasjon er 1 volumprosent eller mer, eller hvor det måles 0,3 volumprosent metan i returluften eller mer, ansees i denne forskrift som sted hvor det er særlig gassfare.
+
 ### § 7
 
 Ved åpning av gruver på fløts hvor det tidligere har vært drevet gruvedrift i området, skal den nye gruve settes i minst samme fareklasse som tidligere gruver var i, inntil man har vunnet nødvendige erfaringer for spesiell klassifisering av den nye gruve. Overskrides grensene for den klassen som en gruve er klassifisert til, skal dette straks meldes Arbeidstilsynet.

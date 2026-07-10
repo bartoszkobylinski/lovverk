@@ -26,6 +26,8 @@ eu_basis: []
 
 ### § 1
 
+(Opphevd)
+
 > Opphevd ved [forskrift 15 okt 2004 nr. 1337](forskrift/2004-10-15-1337) (i kraft 1 nov 2004).
 
 ### § 2. (Innkrevjing av festeavgift på grunnlag av eldre festeavtaler)
@@ -37,6 +39,8 @@ For tida fram til festeavgifta i det einskilde festehøvet første gong er blitt
 > Overskrifta endra ved [forskrift 24 juni 2005 nr. 675](forskrift/2005-06-24-675).
 
 ### § 3
+
+(Opphevd)
 
 > Opphevd ved [forskrift 15 okt 2004 nr. 1337](forskrift/2004-10-15-1337) (i kraft 1 nov 2004).
 

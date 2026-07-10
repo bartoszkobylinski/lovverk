@@ -76,6 +76,8 @@ Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser i eller i med
 
 > Tilføyd ved [forskrift 1 sep 2017 nr. 1325](forskrift/2017-09-01-1325).
 
+1 Skal vel være [forskrift 20. desember 2011 nr. 1437](forskrift/2011-12-20-1437). Lovtidend-redaksjonens anm.
+
 ## § 8. Straff og andre sanksjoner ved brudd på leveringsplikten
 
 Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften straffes etter [deltakerloven § 31](lov/1999-03-26-15/§31) og [§ 31a](lov/1999-03-26-15/§31a) og [havressursloven § 60](lov/2008-06-06-37/§60), [§ 64](lov/2008-06-06-37/§64) og [§ 65](lov/2008-06-06-37/§65). På samme måte straffes medvirkning og forsøk.

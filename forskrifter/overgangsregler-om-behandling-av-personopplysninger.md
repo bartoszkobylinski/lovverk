@@ -34,6 +34,8 @@ Pålegg vedtatt etter [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandli
 
 Tvangsmulkt som løper ved lovens ikrafttreden, opphører å løpe. Datatilsynet kan fastsette tvangsmulkt i medhold av [personopplysningsloven § 29](lov/2018-06-15-38/§29) så langt pålegget fortsetter å gjelde i henhold til første ledd.
 
+1 Fra 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195, jf. [res. 15 juni 2018 nr. 875](forskrift/2018-06-15-875).
+
 ## § 3. Opphevelse av konsesjoner og tillatelser
 
 Konsesjoner gitt i medhold av [lov 14. april 2000 nr. 31](lov/2000-04-14-31) om behandling av personopplysninger, [forskrift 15. desember 2000 nr. 1265](forskrift/2000-12-15-1265) om behandling av personopplysninger og [lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling av helseopplysninger opphører å gjelde med mindre annet er bestemt.

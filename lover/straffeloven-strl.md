@@ -2656,6 +2656,8 @@ Straffen for hvitvasking er bot eller fengsel inntil 2 år.
 
 > Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74), endret ved lov [4 des 2020 nr. 135](lov/2020-12-04-135) (ikr. 4 des 2020 iflg. res. [4 des 2020 nr. 2592](forskrift/2020-12-04-2592)).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 23b (dir [2005/60](eu/32005l0060)).
+
 ### § 338. Grov hvitvasking
 
 Grov hvitvasking straffes med fengsel inntil 6 år. Ved avgjørelsen av om hvitvaskingen er grov skal det særlig legges vekt på hva slags handling utbyttet stammer fra, om utbyttet hvitvaskeren har hatt befatning med er av betydelig verdi, og om lovbryteren har drevet hvitvasking regelmessig. Gjelder det utbytte av narkotikalovbrudd, skal det også legges vekt på art og mengde av det stoffet utbyttet knytter seg til.
@@ -2663,6 +2665,8 @@ Grov hvitvasking straffes med fengsel inntil 6 år. Ved avgjørelsen av om hvitv
 Dersom utbyttet stammer fra grovt ran, grov menneskehandel eller særlig grov narkotikaovertredelse, er straffen fengsel inntil 15 år.
 
 > Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
+
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 23b (dir [2005/60](eu/32005l0060)).
 
 ### § 339. Mindre hvitvasking
 
@@ -2972,6 +2976,8 @@ Med stilling, verv eller oppdrag i første ledd menes også stilling, verv eller
 
 > Tilføyd ved lov [19 juni 2009 nr. 74](lov/2009-06-19-74).
 
+1 Jf. [lov 13 nov 1998 nr. 67](lov/1998-11-13-67) del II om samtykke til ratifikasjon av OECD-konvensjonen 21 nov 1997 om motarbeiding av bestikkelse av utenlandske offentlige tjenestemenn i internasjonale forretningsforhold.
+
 ### § 388. Grov korrupsjon
 
 Grov korrupsjon straffes med fengsel inntil 10 år. Ved avgjørelsen av om korrupsjonen er grov skal det særlig legges vekt på om handlingener forøvd av eller overfor en offentlig tjenestemann eller noen annen ved brudd på den særlige tillit som følger med hans stilling, verv eller oppdrag,om den har eller kunne ha hatt til følge betydelig økonomisk fordel,om det forelå risiko for betydelig skade av økonomisk eller annen art, ogom det er registrert uriktige regnskapsopplysninger, utarbeidet uriktig regnskapsdokumentasjon eller uriktig årsregnskap.
@@ -3113,6 +3119,8 @@ Loven trer i kraft 1. oktober 2015. Fra samme tid oppheves [straffeloven 22. mai
 [Kapittel](lov/2005-05-20-28/kap16) 16 kan settes i kraft fra den tid Kongen bestemmer.1 Fra samme tid som [kapittel 16](lov/2005-05-20-28/kap16) settes i kraft, gjelder første del i straffeloven 2005 for bestemmelsene i [kapittel 16](lov/2005-05-20-28/kap16). Alminnelig del i straffeloven 1902 gjelder ikke for [kapittel 16](lov/2005-05-20-28/kap16). Fra den tid [kapittel 16](lov/2005-05-20-28/kap16) tar til å gjelde,1 gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lover [7 mars 2008 nr. 4](lov/2008-03-07-4), tidligere § 101, [19 juni 2009 nr. 74](lov/2009-06-19-74), tidligere § 401, [19 juni 2015 nr. 65](lov/2015-06-19-65).
+
+1 Fra 7 mars 2008 iflg. [res. 7 mars 2008 nr. 225](forskrift/2008-03-07-225).
 
 ### § 412. (Opphevet)
 

@@ -56,4 +56,8 @@ Opplysninger som utvalget mottar i medhold av [§ 2](lov/2009-06-19-73/§2) kan 
 
 [§§ 1](lov/2009-06-19-73/§1) til [3](lov/2009-06-19-73/§3) gjelder til og med 30. juni 2012.
 
+1 Fra 1 juli 2009 iflg. [res. 26 juni 2009 nr. 866](forskrift/2009-06-26-866).
+
 ## § 7. Endringer i andre lover
+
+– – –

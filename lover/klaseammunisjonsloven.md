@@ -42,6 +42,8 @@ Den som bryter denne loven eller forskrifter gitt med hjemmel i loven, straffes 
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 aug 2010 iflg. [res. 26 mars 2010 nr. 446](forskrift/2010-03-26-446).
+
 ## § 5.
 
 Fra den tid denne lov trer i kraft, gjøres følgende endringer i Almindelig borgerlig Straffelov [22. mai 1902 nr. 10](lov/1902-05-22-10): – – –

@@ -1528,6 +1528,8 @@ Ein kommune eller fylkeskommune skal oppfylle eit vedtak frå eit statleg forval
 
 Lova gjeld frå den tida1 Kongen fastset. Samstundes blir [lov 17. juli 1998 nr. 61 om grunnskolen og den vidaregåande opplæringa](lov/1998-07-17-61) oppheva. Kongen kan setje i verk ulike kapittel eller reglar i lova til ulik tid.
 
+1 Frå 1. august 2024 iflg. [res. 31 mai 2024 nr. 1028](forskrift/2024-05-31-1028).
+
 ### § 30-2. Overgangsreglar
 
 Forskrifter og enkeltvedtak med heimel i reglar som blir oppheva eller endra med denne lova, står ved lag til Kongen fastset noko anna. Kongen kan gi forskrift med overgangsreglar for tilpassing til denne lova.
@@ -1539,6 +1541,8 @@ Personale i grunnskolen som var tilsett i uoppseieleg stilling 1. august 1999, k
 Frå den tida lova trer i kraft, blir det gjort følgjande endringar i andre lover: – – –
 
 ## Vedlegg. Samisk omsetting
+
+Sjå her for å lese lova på nordsamisk: [pdf-lenke](static/NL/nl-20230609-030-01-01.pdf).
 
 > Omsatt utgåve av opplæringslova er levert av Kunnskapsdepartementet og er oppdatert per 1. august 2024.
 Dette er ei uoffisiell omsetting av den norske utgåva av lova. Om det er skilnadar mellom den samiske og den norske utgåva, gjeld den norske slik ho er kunngjord i Norsk Lovtidend.

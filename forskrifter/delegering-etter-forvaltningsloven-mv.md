@@ -30,6 +30,8 @@ eu_basis: []
 
 > Pkt. 1-6 og 8 opphevet ved [forskrift 16 des 1977 nr. 12](forskrift/1977-12-16-12) (i kraft 1. jan 1978).
 
+1 Myndigheten ble overført til Justis- og politidepartementet fra 1. mai 1992, jf. [kgl.res. 20. mars 1992 nr. 176](forskrift/1992-03-20-176) pkt. 2.
+
 ## II
 
 > Opphevet ved [forskrift 16 des 1977 nr. 12](forskrift/1977-12-16-12) (i kraft 1 jan 1978).

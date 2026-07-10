@@ -430,6 +430,8 @@ Erstatningsansvar etter første ledd kan lempes for såvidt dette finnes rimelig
 
 Denne lov trer i kraft fra det tidspunkt1 Kongen bestemmer.
 
+1 Fra 1 jan 2000 iflg. [res. 22 okt 1999 nr. 1098](forskrift/1999-10-22-1098).
+
 ## § 40. (Opphevet)
 
 > Endret ved [lov 12 des 2003 nr. 114](lov/2003-12-12-114), opphevet ved lov [2 juni 2023 nr. 22](lov/2023-06-02-22) (i kraft 1 jan 2024 iflg. [res. 2 juni 2023 nr. 769](forskrift/2023-06-02-769)).

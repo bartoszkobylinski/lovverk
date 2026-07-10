@@ -44,6 +44,8 @@ Nye pensjonsavtaler etter denne loven kan ikke inngås etter ikrafttredelse av d
 
 (3) Pensjonsavtale kan også inngås med kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i annen stat innenfor Det europeiske økonomiske samarbeidsområdet, og som har adgang til å drive tilsvarende virksomhet som nevnt i annet ledd her i riket.1
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 1 (direktiv [2009/138](eu/32009l0138*)), nr. 14 (direktiv [2006/48](eu/32006l0048)), nr. 30 (direktiv [2009/65](eu/32009l0065)) og nr. 31d (direktiv [2003/41](eu/32003l0041)).
+
 ### § 1-3. Krav til pensjonsytelser mv.
 
 (1) Pensjonsavtalen skal gi kunden rett til alderspensjon i samsvar med bestemmelsene i loven her. Minst en tredjedel av samlet årlig innskudd, premier og vederlag for administrasjon av avtalen, herunder vederlag for forvaltning av årets innskudd og premie, skal benyttes til oppbygging av alderspensjon.

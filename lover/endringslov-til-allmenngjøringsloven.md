@@ -24,8 +24,12 @@ eu_basis: []
 
 ## I
 
-4. *(Svalbard)*Loven gjelder for Svalbard.
+I [lov 4. juni 1993 nr. 58 om allmenngjøring av tariffavtaler m.v.](lov/1993-06-04-58) skal [§ 2](lov/1993-06-04-58/§2) nr. 4 lyde:
+
+4\. *(Svalbard)*Loven gjelder for Svalbard.
 
 ## II
 
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan bestemme at loven skal gjøres gjeldende for ulike deler av Svalbard til ulik tid.
+
+1 Fra 1 juli 2025 iflg. [res. 28 mars 2025 nr. 545](forskrift/2025-03-28-545), gjelder for Longyearbyen og Ny-Ålesund.

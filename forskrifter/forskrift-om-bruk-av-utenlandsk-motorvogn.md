@@ -116,7 +116,17 @@ Eieren skal ved registreringen underskrive erklæring om at den særskilt regist
 
 Særskilt registrert motorvogn tildeles egne kjennemerker.
 
-Kjennemerkene skal bestå av et nummer innen følgende serier:For bilFor annet kjøretøyFor Oslo politikammer fra10.000-19.9991.000-1.999For Larvik politikammer fra20.000-29.9992.000-2.999For Kristiansand politikammer fra30.000-39.9993.000-3.999For Stavanger politikammer fra40.000-49.9994.000-4.999For Bergen politikammer fra50.000-59.9995.000-5.999For Trondheim politikammer fra60.000-69.9996.000-6.999For Tromsø politikammer fra70.000-79.9097.000-7.999
+Kjennemerkene skal bestå av et nummer innen følgende serier:
+
+|  | For bil | For annet kjøretøy |
+| --- | --- | --- |
+| For Oslo politikammer fra | 10.000-19.999 | 1.000-1.999 |
+| For Larvik politikammer fra | 20.000-29.999 | 2.000-2.999 |
+| For Kristiansand politikammer fra | 30.000-39.999 | 3.000-3.999 |
+| For Stavanger politikammer fra | 40.000-49.999 | 4.000-4.999 |
+| For Bergen politikammer fra | 50.000-59.999 | 5.000-5.999 |
+| For Trondheim politikammer fra | 60.000-69.999 | 6.000-6.999 |
+| For Tromsø politikammer fra | 70.000-79.909 | 7.000-7.999 |
 
 Kjennemerkene utformes etter bestemmelsene for vanlige kjennemerker, og skal i tillegg ha en 45 mm loddrett, rød bord på hver side. Den venstre bord skal med hvit skrift være påført tallet for den måned, og den høyre bord de to siste siffere av tallet for det år, da registreringens gyldighet utløper.
 

@@ -258,3 +258,5 @@ Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, h
 Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 > Endret ved lov [18 feb 2022 nr. 6](lov/2022-02-18-6) (i kraft 7 mars 2023 iflg. [res. 10 feb 2023 nr. 173](forskrift/2023-02-10-173), tidligere § 27).
+
+1 Fra 1 jan 2001 iflg. [res. 21 des 2000 nr. 1347](forskrift/2000-12-21-1347).

@@ -58,7 +58,15 @@ Skadelidte har krav på renter etter morarenteloven fra én måned etter at krav
 
 Framtidige utgifter erstattes individuelt, jf [skadeserstatningsloven § 3-1](lov/1969-06-13-26/§3-1).
 
-Engangserstatning for gjennomsnittlige framtidige årlige utgifter fastsettes slik:Skadelidtes alder:under 35 år– 21 ganger årlige utgiftermellom 35 og 49 år– 19 ganger årlige utgiftermellom 50 og 59 år– 16 ganger årlige utgiftermellom 60 og 69 år– 14 ganger årlige utgifterover 70 år–  8 ganger årlige utgifter
+Engangserstatning for gjennomsnittlige framtidige årlige utgifter fastsettes slik:
+
+| Skadelidtes alder: |  |
+| --- | --- |
+| under 35 år | – 21 ganger årlige utgifter |
+| mellom 35 og 49 år | – 19 ganger årlige utgifter |
+| mellom 50 og 59 år | – 16 ganger årlige utgifter |
+| mellom 60 og 69 år | – 14 ganger årlige utgifter |
+| over 70 år | –  8 ganger årlige utgifter |
 
 ### § 2-3. Tapt inntekt
 
@@ -80,7 +88,15 @@ Hvis det er særlige holdepunkter for å anta at grunnlaget for beregningen ette
 
 ### § 3-2. Grunnerstatning
 
-Grunnerstatningen fastsettes slik:Inntektsgrunnlaget for beregningen:Grunnerstatning:Til og med 7 G22 GOver 7 G til og med 8 G24 GOver 8 G til og med 9 G26 GOver 9 G til og med 10 G28 GOver 10 G30 G
+Grunnerstatningen fastsettes slik:
+
+| Inntektsgrunnlaget for beregningen: | Grunnerstatning: |
+| --- | --- |
+| Til og med 7 G | 22 G |
+| Over 7 G til og med 8 G | 24 G |
+| Over 8 G til og med 9 G | 26 G |
+| Over 9 G til og med 10 G | 28 G |
+| Over 10 G | 30 G |
 
 Fastsettelsen av inntektsgrunnlaget for beregningen skjer i forhold til G den 1. januar i det inntektsåret inntekten er opptjent.
 
@@ -100,7 +116,21 @@ Var skadelidte uavhengig av den aktuelle skaden eller sykdommen 50 % ervervsmess
 
 ### § 4-1. Grunnerstatning
 
-Grunnerstatningen fastsettes slik:medisinsk invaliditet:grunnerstatning:1. 15 – 24 %0,75G2. 25 – 34 %1G3. 35 – 44 %1,5G4. 45 – 54 %2G5. 55 – 64 %2,5G6. 65 – 74 %3G7. 75 – 84 %3,75G8. 85 – 100 %4,5G9. Skade som er betydelig størreenn skade som gir grunnlag forinvaliditetsgrad på 100 %5,5G
+Grunnerstatningen fastsettes slik:
+
+| medisinsk invaliditet: | grunnerstatning: |  |
+| --- | --- | --- |
+| 1. 15 – 24 % | 0,75 | G |
+| 2. 25 – 34 % | 1 | G |
+| 3. 35 – 44 % | 1,5 | G |
+| 4. 45 – 54 % | 2 | G |
+| 5. 55 – 64 % | 2,5 | G |
+| 6. 65 – 74 % | 3 | G |
+| 7. 75 – 84 % | 3,75 | G |
+| 8. 85 – 100 % | 4,5 | G |
+| 9. Skade som er betydelig større |  |  |
+| enn skade som gir grunnlag for |  |  |
+| invaliditetsgrad på 100 % | 5,5 | G |
 
 ### § 4-2. Skadelidtes alder
 
@@ -134,7 +164,31 @@ Den erstatningsberettigede har krav på morarenter etter morarenteloven fra en m
 
 ### § 6-2. Erstatning til barn ved tap av forsørger
 
-Erstatningen fastsettes slik:Barnets alderErstatning:da forsørgeren døde:under 1 år6,5G1 år6G2 år6G3 år5,5G4 år5G5 år5G6 år4,5G7 år4G8 år4G9 år3,5G10 år3,5G11 år3G12 år2,5G13 år2,5G14 år2G15 år2G16 år1,5G17 år1,5G18 år1G19 år1G
+Erstatningen fastsettes slik:
+
+| Barnets alder | Erstatning: |  |
+| --- | --- | --- |
+| da forsørgeren døde: |  |  |
+| under 1 år | 6,5 | G |
+| 1 år | 6 | G |
+| 2 år | 6 | G |
+| 3 år | 5,5 | G |
+| 4 år | 5 | G |
+| 5 år | 5 | G |
+| 6 år | 4,5 | G |
+| 7 år | 4 | G |
+| 8 år | 4 | G |
+| 9 år | 3,5 | G |
+| 10 år | 3,5 | G |
+| 11 år | 3 | G |
+| 12 år | 2,5 | G |
+| 13 år | 2,5 | G |
+| 14 år | 2 | G |
+| 15 år | 2 | G |
+| 16 år | 1,5 | G |
+| 17 år | 1,5 | G |
+| 18 år | 1 | G |
+| 19 år | 1 | G |
 
 Erstatningen beregnes særskilt for hvert barn.
 

@@ -268,6 +268,8 @@ Kongen kan gi forskrift om planprogram, planbeskrivelse og konsekvensutredninger
 
 > Endret ved lov [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1a (direktiv [2011/92](eu/32011l0092) som endret ved direktiv [2014/52](eu/32014l0052)) og nr. 1g (direktiv [2001/42](eu/32001l0042)).
+
 ### § 4-3. Samfunnssikkerhet og risiko- og sårbarhetsanalyse
 
 Ved utarbeidelse av planer for utbygging skal planmyndigheten påse at risiko- og sårbarhetsanalyse gjennomføres for planområdet, eller selv foreta slik analyse. Analysen skal vise alle risiko- og sårbarhetsforhold som har betydning for om arealet er egnet til utbyggingsformål, og eventuelle endringer i slike forhold som følge av planlagt utbygging. Område med fare, risiko eller sårbarhet avmerkes i planen som hensynssone, jf. [§§ 11-8](lov/2008-06-27-71/§11-8) og [12-6](lov/2008-06-27-71/§12-6). Planmyndigheten skal i arealplaner vedta slike bestemmelser om utbyggingen i sonen, herunder forbud, som er nødvendig for å avverge skade og tap.
@@ -1095,6 +1097,8 @@ I forbindelse med statlig planlegging etter [§§ 6-3](lov/2008-06-27-71/§6-3) 
 
 ### Kapittel 14. Konsekvensutredninger for tiltak og planer etter annet lovverk1
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1a (direktiv [2011/92](eu/32011l0092) som endret ved direktiv [2014/52](eu/32014l0052)) og nr. 1g (direktiv [2001/42](eu/32001l0042)).
+
 ### § 14-1. Virkeområde og formål
 
 Reglene i dette kapittel gjelder for tiltak etter annen lovgivning som kan få vesentlige virkninger for miljø og samfunn og for nærmere bestemte verneplaner etter [naturmangfoldloven kapittel V](lov/2009-06-19-100/kapv) eller eldre vernevedtak som nevnt i [naturmangfoldloven § 77](lov/2009-06-19-100/§77).
@@ -1528,6 +1532,8 @@ Følgende tiltak omfattes av byggesaksbestemmelsene i denne lov:oppføring, tilb
 Departementet kan gi forskrifter om hvilke tiltak som omfattes av bestemmelsen.
 
 > Tilføyd ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27), endret ved lover [25 juni 2010 nr. 48](lov/2010-06-25-48), [20 juni 2014 nr. 52](lov/2014-06-20-52) (ikr. 1 juli 2015 iflg. [res. 6 feb 2015 nr. 91](forskrift/2015-02-06-91)), [21 juni 2017 nr. 97](lov/2017-06-21-97) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 834](forskrift/2017-06-21-834)), [20 apr 2018 nr. 12](lov/2018-04-20-12) (i kraft 1 jan 2021 iflg. [res. 29 april 2020 nr. 885](forskrift/2020-04-29-885)), [11 mai 2021 nr. 37](lov/2021-05-11-37) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1738](forskrift/2022-10-14-1738)), [20 juni 2025 nr. 93](lov/2025-06-20-93) (i kraft 1 juli 2025 iflg. [res. 20. juni 2025 nr. 1328](forskrift/2025-06-20-1328)).
+
+1 I kraft 1. juli 2010, se [§ 34-3](lov/2008-06-27-71/§34-3). Iflg. [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896) er installasjon av nytt ildsted frem til 1. juli 2011 unntatt fra krav om søknad og tillatelse, jf. første ledd bokstav f, dersom arbeidet kontrolleres av kvalifisert kontrollør.
 
 ### § 20-2. Søknadsplikt
 
@@ -2605,6 +2611,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer.
 
 Fra samme tidspunkt oppheves plan- og bygningsloven av 14. juni 1985 nr. 77 kapittel I til VII-a.2
 
+1 Iflg. [res. 12 juni 2009 nr. 638](forskrift/2009-06-12-638) trådte plandelen, med unntak av [kapittel 15](lov/2008-06-27-71/kap15), ikr. 1 juli 2009. Fra samme tidspunkt ble endringene i kapittel 1 og 19 og [lovens tittel fastsatt i lov 8 mai 2009 nr. 27](lov/2009-05-08-27) satt ikr. Ved res. 18 juni 2010 nr. 896 ble kapittel 15 samt byggesaksdelen satt ikr. 1 juli 2010 med unntak av § 23-7 første ledd andre punktum, § 24-1 første ledd andre punktum bokstav a og § 24-2 som iflg. [res. 29 apr 2011 nr. 479](forskrift/2011-04-29-479) skulle tre ikr. 1 juli 2012. Ved [res. 22 juni 2012 nr. 574](forskrift/2012-06-22-574) ble dette endret slik at [§ 24-1](lov/2008-06-27-71/§24-1) første ledd andre punktum bokstav a og [§ 24-2](lov/2008-06-27-71/§24-2) trådte ikr. 1 jan 2013, og ikraftsettingen av [§ 23-7](lov/2008-06-27-71/§23-7) første ledd andre punktum ble utsatt.2 Iflg. res. 12 juni 2009 nr. 638 ble kapittel I til VII, med unntak av § 6, § 21 og § 32 opphevet fra 1 juli 2009. Iflg. res. 26 juni 2009 nr. 859 ble kapittel VII a opphevet fra 1 juli 2009. Ved [res. 18 juni 2010 nr. 896](forskrift/2010-06-18-896) er resten av loven opphevet.
+
 ### § 34-2. Overgangsbestemmelser til plandelen
 
 Kongen skal snarest mulig og innen to år etter lovens ikrafttreden presentere et dokument med nasjonale forventninger til regional og kommunal planlegging, jf. [§ 6-1](lov/2008-06-27-71/§6-1).
@@ -2641,6 +2649,8 @@ Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid. Det kan fa
 
 > Tilføyd ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
 
+1 Iflg. res. 18 juni 2010 nr. 896 ble kapittel 15 samt byggesaksdelen satt ikr. 1 juli 2010 med unntak av § 23-7 første ledd andre punktum, § 24-1 første ledd andre punktum bokstav a og § 24-2 som iflg. [res. 29 apr 2011 nr. 479](forskrift/2011-04-29-479) trer ikr. 1 juli 2012. Iflg. [res. 22 juni 2012 nr. 574](forskrift/2012-06-22-574) ble dette endret slik at [§ 24-1](lov/2008-06-27-71/§24-1) første ledd andre punktum bokstav a og [§ 24-2](lov/2008-06-27-71/§24-2) trådte ikr. 1 jan 2013, og ikraftsettingen av [§ 23-7](lov/2008-06-27-71/§23-7) første ledd andre punktum ble utsatt.
+
 ### § 34-4. Overgangsbestemmelser til byggesaksdelen
 
 Særskilte skjønnsretter vedtatt etter plan- og bygningsloven 14. juni 1985 § 60 kan behandle skjønn som er begjært innen en frist departementet fastsetter, men ikke senere enn 1. januar 2013. For oppnevning av skjønnsrettens leder og medlemmer gjelder reglene i plan- og [bygningsloven 14. juni 1985 nr. 77 § 60](lov/1985-06-14-77/§60). Ved regulativ kan også fastsettes gebyr for avskrifter og attester fra de særskilte skjønnsretter.
@@ -2659,6 +2669,8 @@ Refusjonskrav forfalt før ikrafttreden behandles etter de regler som gjaldt da 
 
 ### § 35-1. Endringer i andre lover – del I
 
+– – –
+
 ### § 35-2. Endringer i andre lover – del II
 
 Fra den tid loven trer i kraft, endres følgende lover: – – –
@@ -2666,6 +2678,8 @@ Fra den tid loven trer i kraft, endres følgende lover: – – –
 > Tilføyd ved [lov 8 mai 2009 nr. 27](lov/2009-05-08-27).
 
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-lenke](static/NL/nl-20080627-071-01-01.pdf).
 
 > Oversettelsen av plan- og bygningloven er levert av Kommunal- og distriktsdepartementet. Oversettelsen er à jour per 1. januar 2025.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

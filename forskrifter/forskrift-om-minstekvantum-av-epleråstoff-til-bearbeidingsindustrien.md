@@ -26,13 +26,26 @@ eu_basis: []
 
 Minstekvantumet kan oppfylles ved kjøp av eplekonsentrat, eplesaft eller epler til press.
 
-Minstekvantumet for perioden 1. oktober 2025–30. september 2026 er fastsatt til å være:*Foretaksstørrelse**Minstekvantum**Konsentrat**Saft**Epler*Lite foretak1 000 kg6 400 kg8 000 kgMellomstore foretak10 000 kg64 000 kg80 000 kgStore foretak30 000 kg192 000 kg240 000 kg
+Minstekvantumet for perioden 1. oktober 2025–30. september 2026 er fastsatt til å være:
+
+| *Foretaksstørrelse* | *Minstekvantum* |  |  |
+| --- | --- | --- | --- |
+|  | *Konsentrat* | *Saft* | *Epler* |
+| Lite foretak | 1 000 kg | 6 400 kg | 8 000 kg |
+| Mellomstore foretak | 10 000 kg | 64 000 kg | 80 000 kg |
+| Store foretak | 30 000 kg | 192 000 kg | 240 000 kg |
 
 > Endret ved forskrifter [1 des 2022 nr. 2066](forskrift/2022-12-01-2066), [1 des 2023 nr. 1951](forskrift/2023-12-01-1951), [29 nov 2024 nr. 3537](forskrift/2024-11-29-3537) (i kraft 1 des 2024), [1 des 2025 nr. 2605](forskrift/2025-12-01-2605).
 
 ## § 2. Grupper av foretak
 
-Foretak inndeles i grupper etter samlet forbruk av eplekonsentrat, eplesaft og epler til press, omregnet til konsentrat, i perioden 1. oktober 2024–30. september 2025.*Foretaksstørrelse**Samlet forbruk omregnet til konsentrat*Lite foretakOpptil 100 000 kgMellomstore foretakMellom 100 000 kg og 500 000 kgStore foretakOver 500 000 kg
+Foretak inndeles i grupper etter samlet forbruk av eplekonsentrat, eplesaft og epler til press, omregnet til konsentrat, i perioden 1. oktober 2024–30. september 2025.
+
+| *Foretaksstørrelse* | *Samlet forbruk omregnet til konsentrat* |
+| --- | --- |
+| Lite foretak | Opptil 100 000 kg |
+| Mellomstore foretak | Mellom 100 000 kg og 500 000 kg |
+| Store foretak | Over 500 000 kg |
 
 Med et foretaks samlede forbruk menes summen av lagerbeholdning per 1. oktober 2024 og innkjøp av råvare i perioden 1. oktober 2024–30. september 2025.
 

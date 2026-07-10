@@ -80,25 +80,43 @@ For å holde sorteringsristsystemet i rett posisjon skal det på hver side monte
 
 Reglene i denne paragrafen får anvendelse for fartøy på 30 meter største lengde og over, samt russiske trålere med hovedmotor på 1000 kWt eller større som benytter russiske firepanelstråler.
 
+*a) Ristene*
+
 Ristene som benyttes skal ha følgende minimum lengde og bredde:1. hovedrist: 1500 x 1167 mm, krummes (R200 ) i akterkant.2. hovedrist: 1200 x 1167 mm, krummes (R200 ) i akterkant.Stopperist: 1800 x 1167 mm
+
+*b) Nettseksjonen*
 
 Nettseksjonen som bærer selve sorteringssystemet skal ha en omkrets i forkant og akterkant på 112 masker (2 x 56#) og en lengde på 39,5 masker i 135 mm maskevidde.
 
 På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes maskerett med forkant av 2. hovedrist.
 
+*c) Forlengelsen*
+
 Foran nettseksjonen som bærer sorteringssystemet skal det være montert en minimum 9,0 meter lang forlengelse. Fremste del av forlengelsen skal fortrinnsvis være laget i samme materiale og maskevidde som belgen. Forlengelsens omkrets skal være 162 masker (2 x 81 #) i forkant, skråskjært ned til den omkrets som passer til omkretsen av den sylindriske del av forlengelsen. Maskevidden skal her være minimum 135 mm. Den sylindriske del av forlengelsen skal være et rettskåret stykke med et maskeantall i omkrets på 112 masker (2 x 56 #) med minimum lengde på 19,5 masker. Maskevidden skal her være den samme som i nettseksjonen.
+
+*d) Kobling av støttekjetting i system der det benyttes kassett i 1. hovedrist*
 
 Ved kobling av støttekjetting i system der det benyttes kassett i 1. hovedrist skal det være 20 fløytkuler i 1. hovedrist, 10 fløytkuler i 2. hovedrist og 10 fløytkuler i stopperisten. Øvre rammeavstand skal være 436 cm.
 
+*e) Kobling av støttekjetting i system uten kassett*
+
 Ved kobling av støttekjetting i system uten kassett skal det være 15 fløytkuler i 1. hovedrist, 10 fløytkuler i 2. hovedrist og 10 fløytkuler i stopperisten. Øvre rammeavstand skal være 424 cm.
+
+*f) Kobling av støttekjetting i system der det benyttes kassett i 1. og 2. hovedrist*
 
 Ved kobling av støttekjetting i system der det benyttes kassett i 1. og 2. hovedrist skal det være 20 fløytkuler i 1. hovedrist, 14 fløytkuler i 2. hovedrist og 10 fløytkuler i stopperisten. Øvre rammeavstand skal være 446 cm.
 
+*g) Kobling av støttekjetting i system der kassett benyttes i 1. hovedrist og stenger benyttes langs 2. hovedrist*
+
 Ved kobling av støttekjetting i system der kassett benyttes i 1. hovedrist og stenger benyttes langs 2. hovedrist skal det være 20 fløytkuler i 1. hovedrist, 12/14 fløytkuler i 2. hovedrist og 10 fløytkuler i stopperisten. Øvre rammeavstand skal være 436 cm.
+
+*h) Måling av øvre rammeavstand*
 
 Ved måling av øvre rammeavstand skal ristsystemet være utspent med tilstrekkelig kraft, slik at ristsystemet er i naturlig utspent tilstand. Ved utspenning av ristsystemet skal det settes lik kraft på de fire øvre ytterpunktene av ristsystemet.
 
 Øvre rammeavstand måles fra innsiden av rammens overkant på 1. hovedrist til innsiden av rammens overkant på stopperisten. Målingen foretas fra midten av begge ristene.
+
+*i) Dispensasjon*
 
 Fiskeridirektoratet kan i særlige tilfeller gi tillatelse til bruk av sorteringsristsystem som nevnt i [§ 10](forskrift/2010-12-20-1786/§10) for fartøy på 30 meter største lengde og over.
 
@@ -106,21 +124,37 @@ Fiskeridirektoratet kan i særlige tilfeller gi tillatelse til bruk av sortering
 
 Reglene i denne paragrafen får anvendelse for fartøy under 30 meter største lengde, samt russiske trålere med hovedmotor mindre enn 1000 kWt som benytter russiske firepanelstråler.
 
+*a) Ristene*
+
 Ristene som benyttes skal ha følgende minimum lengde og bredde:1. hovedrist: 1000 x 1167 mm, krummes (R200 ) i akterkant.2. hovedrist: 750 x 1167 mm, krummes (R200 ) i akterkant.Stopperist: 1000 x 1167 mm.
+
+*b) Nettseksjonen*
 
 Nettseksjonen som bærer selve sorteringssystemet skal ha en omkrets i forkant og akterkant på 112 masker (2 x 56 #) og en lengde på 26 masker i 135 mm maskevidde.
 
 På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes maskerett med forkant av 2. hovedrist.
 
+*c) Forlengelsen*
+
 Foran nettseksjonen skal det være montert en minimum 7,5 meter lang forlengelse. Fremste del av forlengelsen skal fortrinnsvis være laget i samme materiale og maskevidde som belgen. Bakerste del (minimum 19,5 masker) av forlengelsen skal fortrinnsvis være laget i samme materiale som nettseksjonen. Forlengelsens omkrets skal være 140 masker (2 x 70 #) i forkant, skråskjært ned til den omkrets som passer til omkretsen av nettseksjonen. Maskevidden skal her være minimum 135 mm.
+
+*d) Kobling av støttekjetting i system der det benyttes kassett i 1. hovedrist*
 
 Ved kobling av støttekjetting i system der det benyttes kassett i 1. hovedrist skal det være 15 fløytkuler i 1. hovedrist, 6 fløytkuler i 2. hovedrist og 6 fløytkuler i stopperisten. Øvre rammeavstand skal være 270 cm.
 
+*e) Kobling av støttekjetting i system uten kassett*
+
 Ved kobling av støttekjetting i system uten kassett skal det være 10 fløytkuler i 1. hovedrist, 6 fløytkuler i 2. hovedrist og 6 fløytkuler i stopperisten. Øvre rammeavstand skal være 260 cm.
+
+*f) Kobling av støttekjetting i system der det benyttes kassett i 1. og 2. hovedrist*
 
 Ved kobling av støttekjetting i system der det benyttes kassett i 1. og 2. hovedrist skal det være 15 fløytkuler i 1. hovedrist, 8 fløytkuler i 2. hovedrist og 6 fløytkuler i stopperisten. Øvre rammeavstand skal være 282 cm.
 
+*g) Kobling av støttekjetting i system der kassett benyttes i 1. hovedrist og stenger benyttes langs 2. hovedrist*
+
 Ved kobling av støttekjetting i system der kassett benyttes i 1. hovedrist og stenger benyttes langs 2. hovedrist skal det være 15 fløytkuler i 1. hovedrist, 8 fløytkuler i 2. hovedrist og 6 fløytkuler i stopperisten. Øvre rammeavstand skal være 270 cm.
+
+*h) Måling av øvre rammeavstand*
 
 Ved måling av øvre rammeavstand skal ristsystemet være utspent med tilstrekkelig kraft, slik at ristsystemet er i naturlig utspent tilstand. Ved utspenning av ristsystemet skal det settes lik kraft på de fire øvre ytterpunktene av ristsystemet.
 
@@ -150,9 +184,13 @@ I en fire-panels nettseksjon skal sorteringsristsystemet monteres på følgende 
 
 ### § 14. Utforming av sorteringsristsystemet
 
+*a) Risten og kassetten*
+
 Risten som benyttes skal ha følgende minimum lengde og bredde:Ramme lengde: 1650 mmRamme bredde: 1234 mm
 
 Kassetten som kan benyttes skal ha følgende lengde og bredde:Kassettlengde: 1880 mmKassettbredde: 1360 mm.
+
+*b) Nettseksjonen*
 
 To- og firepanels nettseksjon skal være utformet som vist i vedlegg 3 figurene 1 – 4 (to-panel) eller vedlegg 3.1 figur 1 (fire-panel).
 
@@ -160,13 +198,19 @@ En to-panels nettseksjon skal utformes på følgende måte:Nettseksjonen skal ha
 
 En fire-panels nettseksjon skal være utformet på følgende måte:Nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne delen av nettseksjonen skal bestå av fire sider for kobling mot to- eller fire-panels trålbelg. Den skal ha en omkrets i forkant på 4 x 40 frie masker (160 frie masker) skråskjæres ned til 4 x 26 frie masker i bakkant (104 frie masker). For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (totalt 160 frie masker). I denne delen av forlengelsen skal det fortrinnsvis benyttes samme maskevidde og materiale som i belgen, men med dobbel tråd.Den rettskårne delen av nettseksjonen hvor sorteringsristen eller sorteringsristkassetten, løftepanelet og ledepanelet skal være innmontert, skal være formet med fire like store sider, med omkrets på 4 x 26 frie masker (totalt 104 frie masker) og en lengde på 50,5 masker i minimum 135 mm maskevidde.På undersiden av nettseksjonen kan det festes en slitematte eller et slitenett på inntil 2 meters lengde dersom matten eller nettet kun festes i forkant og langs sidene. Forkant av matten eller nettet festes i forkant 1 meter fremfor sorteringsristens bakkant.
 
+*c) Løftepanel*
+
 Løftepanelet i en to-panels nettseksjon skal være innmontert i underpanelet og langs stolpe opp mot sideleis. Deretter skal løftepanelet være montert langs 6 masker i sideleis før det monteres ned langs stolpe mot bunnen i underpanelet. Det skal være 4 masker mellom bakerste punkt for løftepanel langs leis og fremre hjørner av sorteringsrist. Maskevidden i løftepanelet skal være maksimum 60 mm, og løftepanelet skal ha en minimum og maksimum bredde på henholdsvis 45 masker i for- og bakkant og 115 masker på midten. Under løftepanelets fremre del skal det være montert 5 fløytkuler. Løftepanelet skal være laget i P.E. (courlene), jf. figur 7, vedlegg 3.
 
 Løftepanelet i en fire-panels nettseksjon skal lages av kvadratmasket lin eller nett med maksimum maskevidde på 80 mm og minimum 60 mm. Løftepanelet skal være innmontert i underpanelet og opp langs stolpene til midten av sidepanelene for så å følge stolpene ned til bunnpanelet. Det skal være 6 masker mellom toppen av løftepanelet til fremre hjørner av sorteringsristen. Løftepanelet skal ha en maksimum bredde tilsvarende ristens bredde. Under midten av løftepanelet skal det være montert tre fløytkuler på 8 tommer (200 mm) jevnt fordelt i panelets bredde. Løftepanelet skal være laget i P.E. (courlene).
 
+*d) Ledepanel*
+
 Ledepanelet i en to-panels nettseksjon skal ha en bredde på 60 masker og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs, pluss 10 %. Ledepanelet skal ha en maskevidde på maksimum 60 mm og skal være laget i P.E. (courlene), jf. figur 8 i vedlegg 3.
 
 Ledepanelet i en fire-panels nettseksjon skal ha en maksimum bredde tilsvarende ristens bredde og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs. Ledepanelet skal lages i kvadratmasket lin eller nett og skal ha en maskevidde på maksimum 80 mm og minimum 60 mm og skal være laget i P.E. (courlene).
+
+*e) Fløytkuler*
 
 For å nøytralisere vekten av sorteringsristen og/eller sorteringsristkassetten skal det benyttes fløytkuler.
 
@@ -175,6 +219,8 @@ Ved bruk av sorteringsrist uten sorteringsristkassett, skal det benyttes totalt 
 Ved bruk av rist med kassett skal det i tillegg monteres 6 kuler festet til sidene på kassetten, hvor en fester 3 kuler på hver side.
 
 Kulene skal monteres tett og skal sitte rett over sidene på sorteringsristen eller sorteringsristkassetten.
+
+*f) Støttekjettinger/støttetau*
 
 I en to-panels nettseksjon skal det på hver side av sorteringsristen eller sorteringsristkassetten monteres en støttekjetting eller et støttetau som beskrevet i [§ 13](forskrift/2010-12-20-1786/§13) andre ledd nr. 2. Kjettingene eller tauene skal monteres i sorteringsristens eller sorteringsristkassettens øvre hjørner og bakover for feste i sideleis (sammenføyning mellom overpanelet og underpanelet.). Støttekjettingene eller støttetauene skal være festet i leisen 0 til 35 cm foran bakenden på nettseksjonen. Lengden på støttekjettingen eller støttetauene skal være 112 cm uten kassett og 118 cm med sorteringsristkassett pluss lengden fra sorteringsristen eller sorteringsristkassettens festepunkt i leis til støttekjettingens eller støttetauets festepunkt i leis. For å ha et stødig festepunkt til støttekjetting eller støttetau i leis, kan det bendsles fast en 20 til 25 cm lang kjetting fra bakenden av nettseksjonen og forover. Lengden på støttekjettingen eller støttetauet måles fra innsiden av enden av GM-lås på risten til innsiden av enden av GM-lås som er festet i leis.
 
@@ -194,9 +240,13 @@ Fleksiristene skal være laget i sort fiberarmert polyamid (nylon) og gummi.
 
 ### § 17. Utforming av fleksiristene
 
+*a) Ristene*
+
 Ristene skal være utformet som vist i figur 4, vedlegg 7.
 
 Ristene som benyttes skal ha følgende minimum lengde og bredde:Lengde 1500 mm (målt på spilene)Bredde 955 mm (målt på tverrbånd)Spiletykkelse, maksimum 20,5 mm.
+
+*b) Nettseksjonen*
 
 To- og firepanels nettseksjon skal være utformet som vist i vedlegg 7 figurene 1, 2 og 5 (to-panel) eller vedlegg 3.1 figur 1 (fire-panel).
 
@@ -204,9 +254,13 @@ En to-panels nettseksjon skal utformes på følgende måte:Sorteringsristsysteme
 
 En fire-panels nettseksjon skal utformes på følgende måte:Sorteringsristsystemet nettseksjonen skal ha en maskevidde på 135 mm. Nettseksjonen skal bestå av 2 deler, en skråskåret nettseksjon foran en rettskåret nettseksjon.Den skråskårne delen skal bestå av fire like store sider og skal gi en omkrets i forkant på 4 x 40 frie masker (160 frie masker) for kobling mot fire-panels trålbelg, og skjæres ned til 4 x 24 frie masker (96 frie masker) i bakkant. Dette gir en lengde på 45 masker. For overgang til to-panels trålbelg skal sidepanelene skråskjæres fra 26 frie masker i bakkant til 0 frie masker i forkant. Omkretsen i forkant vil da være 2 x 80 frie masker (160 frie masker).Den rettskårne delen av nettseksjonen hvor sorteringsrister ledepanel og fiskeutslipp skal være innmontert, skal ha en omkrets på 4 x 24 frie masker (96 frie masker) og en minimum lengde på 40,5 masker.
 
+*c) Ledepanel*
+
 Ledepanelet i en to-panels nettseksjon skal ha en bredde på 60 masker og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs, pluss 10 %. Ledepanelet skal ha en maskevidde på maksimum 60 mm og skal være laget i P.E. (courlene).
 
 Ledepanelet i en fire-panels nettseksjon skal ha en maksimum bredde tilsvarende ristens bredde og en lengde som tilsvarer lengden av stolpene i nettseksjonen det er montert langs. Ledepanelet skal lages i kvadratmasket lin eller nett og skal ha en maskevidde på maksimum 80 mm og minimum 60 mm og skal være laget i P.E. (courlene).
+
+*d) Fiskeutslipp*
 
 I nettseksjonens rettskårne del skal det være fiskeutslipp i over- og underpanelet. Fiskeutslippet utformes som vist i vedlegg 7 figur 2 og vedlegg 7.1 figur 1. Alt lin i det indikerte området skal fjernes. På to-panels nettseksjon skal det lages en leis på 2 masker i fiskeutslippets langsgående (N-retningen) kanter.
 
@@ -246,7 +300,11 @@ Sorteringsristen monteres mellom den kjegleformede og den sylindriske delen av t
 
 ### § 21. Utforming av sorteringsristsystemet
 
+*a) Sorteringsristen*
+
 Minste lengde og bredde i sorteringsristen skal være følgende:1,5 x 1,2 meter på fartøy med hovedmotor på 1000 kWt og større.1,2 x 1,0 meter på fartøy med hovedmotor mindre enn 1000 kWt.
+
+*b) Nettseksjonen*
 
 På fartøy med hovedmotor på 1000 kWt og større, skal omkretsen av nettseksjonen være 76 frie masker, seksjonslengden skal være 43,5 frie masker med maskevidde ikke mindre enn 135 mm.
 
@@ -254,13 +312,19 @@ På fartøy med hovedmotor mindre enn 1000 kWt, skal omkretsen av nettseksjonen 
 
 I underpanelet kan det monteres en 2 meter lang slitematte forutsatt at den kun er festet i forkant og langs sidene. Forkanten på slitenettet skal festes parallelt med bakenden på sorteringsristen.
 
+*c) Ledepanelet*
+
 På fartøy med hovedmotor på 1000 kWt og større skal ledepanelets lengde være 1,6 meter og ledepanelets bredde være 3,1 meter. Antallet masker bestemmes ut fra størrelsen på maskevidden som benyttes. Avviket i størrelsen på ledepanelet målt på strukket lin skal ikke overstige +/10 %.
 
 På fartøy med hovedmotor mindre enn 1000 kWt skal ledepanelets lengde være 1,3 meter, og ledepanelets bredde være 2,5 meter. Antallet masker bestemmes ut fra størrelsen på maskevidden som benyttes. Avviket i størrelsen på ledepanelet målt på strukket lin skal ikke overstige +/10 %.
 
+*d) Løftepanelet*
+
 På fartøy med hovedmotor på 1000 kWt og større skal løftepanelets lengde være 3,1 meter og løftepanelets bredde være 3,1 meter. Avviket i størrelsen på løftepanelet målt på strukket lin skal ikke overstige +/– 10 %.
 
 På fartøy med hovedmotor mindre enn 1000 kWt skal løftepanelets lengde være 2,6 meter og løftepanelets bredde være 2,6 meter. Avviket i størrelsen på løftepanelet målt på strukket lin skal ikke overstige +/– 10 %.
+
+*e) Fiskeutslippet*
 
 Fiskeutslippet skal være fullstendig åpen over sorteringsristen og ledepanelet.
 

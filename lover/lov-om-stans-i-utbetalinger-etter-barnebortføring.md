@@ -129,3 +129,5 @@ Lova gjeld frå den tid Kongen fastset.1
 Lova gjeld også der barnet vart bortført før lova tok til å gjelde.
 
 Ytingar eller barnebidrag for tidsrom før lova tok til å gjelde, kan ikkje haldast tilbake med heimel i lova.
+
+1 Frå 1 jan 2015 iflg. [res. 19 des 2014 nr. 1784](forskrift/2014-12-19-1784).

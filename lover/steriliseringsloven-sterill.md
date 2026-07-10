@@ -130,3 +130,5 @@ Kongen kan bestemme at loven helt eller delvis skal gjelde for Svalbard og kan h
 
 1. Denne lov trer i kraft fra den dag Kongen bestemmer.1
 2. Fra samme tid oppheves – – –.
+
+1 Fra 1 jan 1978.

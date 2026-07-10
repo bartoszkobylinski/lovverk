@@ -72,8 +72,18 @@ eu_basis:
 
 (2) Departementet kan fastsette overgangsregler.
 
+1 Fra 1. juli 2025 med unntak av [§ 6 nr. 1](lov/2025-05-27-18/§6/nummer/1) om endringer i [verdipapirhandelloven § 17-1 første ledd](lov/2007-06-29-75/§17-1/ledd/1), som trer i kraft fra den tid Kongen bestemmer iflg. [res. 20 juni 2025 nr. 1084](forskrift/2025-06-20-1084).
+
 ## § 6. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov/2007-06-29-75) gjøres følgende endringer:
+
+– – –
+
+[§ 17-1 første ledd](lov/2007-06-29-75/§17-1/ledd/1) skal lyde:
+
 (1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 31bc (forordning [(EU) nr. 648/2012](eu/32012r0648)) om OTC-derivater, sentrale motparter og transaksjonsregistre (EMIR), som endret ved direktiv [(EU) 2015/849](eu/32015l0849) og forordning [(EU) 2022/2554](eu/32022r2554), jf. lov om digital operasjonell motstandsdyktighet i finanssektoren [§ 1](lov/2025-05-27-18/§1), gjelder som lov med de tilpasninger som følger av [vedlegg IX](avtale/avt-1992-05-02-1-v9), [protokoll 1](avtale/avt-1992-05-02-1-p1) til avtalen og avtalen for øvrig.
+
+– – –

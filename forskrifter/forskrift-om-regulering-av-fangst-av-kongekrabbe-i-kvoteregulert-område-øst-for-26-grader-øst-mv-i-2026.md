@@ -54,7 +54,13 @@ Det kan også legges til grunn omsetning fra sjølaksefiske i 2025, som blir til
 
 I tilfeller hvor fartøyeier har flyttet til en kommune i Finnmark, kan det ikke legges til grunn omsetning fra tidspunktet før flyttingen. Det kan i denne sammenheng ikke legges til grunn et tidligere tidspunkt for flytting enn da melding om flytting i medhold av [forskrift 18. desember 2008 nr. 1436 om manntall for fiskere og fangstmenn § 8](forskrift/2008-12-18-1436/§8) kom frem til fiskerimyndighetene.
 
-Høyere fartøykvote tildeles etter følgende stige:*Førstehåndsverdi (kr) fra annet fiskeri i 2025**Kvotefaktor**Fartøykvote (kg)*25 000–49 9990,2517550 000–199 9990,50350200 000 ≤1,00700
+Høyere fartøykvote tildeles etter følgende stige:
+
+| *Førstehåndsverdi (kr) fra annet fiskeri i 2025* | *Kvotefaktor* | *Fartøykvote (kg)* |
+| --- | --- | --- |
+| 25 000–49 999 | 0,25 | 175 |
+| 50 000–199 999 | 0,50 | 350 |
+| 200 000 ≤ | 1,00 | 700 |
 
 Fiskeridirektoratet kan dispensere fra kravet til omsetning dersom eier av fartøyet på grunn av sykdom eller foreldrepermisjon har vært forhindret fra å delta i fiske i 2025. Det må fremlegges sykmelding, dokumentasjon på foreldrepermisjon og fangstinntekter fra annet fiskeri i 2022, 2023 og 2024. Kvoten kan da baseres på et gjennomsnitt av fartøyeiers sluttseddelførte omsetning av annen fisk enn kongekrabbe med fartøyet i disse årene. I slike tilfeller skal det gjelde tilsvarende vilkår som nevnt i annet ledd for hvilken omsetning som kan legges til grunn.
 

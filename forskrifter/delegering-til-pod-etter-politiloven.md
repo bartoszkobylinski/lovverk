@@ -24,6 +24,8 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+[Lov av 4. august 1995 nr. 53](lov/1995-08-04-53) om politiet (politiloven).
+
 - Myndighet til å stadfeste politivedtekter i medhold av [politiloven § 14](lov/1995-08-04-53/§14).
 - Myndighet til å gi bestemmelser om organisatoriske spørsmål i medhold av [politiloven § 16](lov/1995-08-04-53/§16) tredje ledd.
 - Myndighet til å gi nærmere bestemmelser om tildeling og anvendelse av begrenset politimyndighet etter [politiloven § 20](lov/1995-08-04-53/§20) tredje ledd.

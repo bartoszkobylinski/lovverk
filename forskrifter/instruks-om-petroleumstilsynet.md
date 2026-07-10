@@ -38,9 +38,13 @@ En viktig del av sikkerheten i petroleumsvirksomheten er de forebyggende sikkerh
 
 Petroleumstilsynet skal delta i nasjonalt og internasjonalt arbeid knyttet til utvikling av normerende dokumenter, herunder myndighets- og industrinormer. For å sikre en rasjonell utnyttelse av offentlige ressurser, skal deltakelse i standardiseringsarbeid og annet normerende arbeid skje i et koordinert samarbeid mellom berørte myndigheter.
 
+*Storulykkesforskriften*
+
 Petroleumsanlegg på land har et storulykkespotensial og omfattes derfor av [kgl.res. av 8. oktober 1999 nr. 1082](forskrift/1999-10-08-1082) om tiltak for å avverge og begrense skadevirkningene av storulykker i virksomheter der farlige kjemikalier forekommer (storulykkesforskriften).
 
 Direktoratet for samfunnssikkerhet og beredskap (DSB) er nasjonal koordinerende myndighet etter denne forskriften. Dette innebærer at den ansvarlige for virksomheten ved anleggene på land skal sende rapporter og opplysninger fra virksomhetene knyttet til storulykkesforskriften til DSB. Dersom DSB i denne sammenheng finner det nødvendig å be om endringer som berører sikkerheten ved anleggene, vil DSB ta dette opp med Petroleumstilsynet som ansvarlig sikkerhetsmyndighet.
+
+*Tilstøtende virksomhet*
 
 For å bedre sikkerheten i petroleumsvirksomheten på sokkelen, og i virksomhet i tilknytning til denne, skal Petroleumstilsynet i samarbeid med andre ansvarlige myndigheter se mer helhetlig på den samlede virksomheten i tilsynssammenheng. Eksempler på slike områder er kran- og løfteoperasjoner, ankerhåndtering og rørleggingsoperasjoner. På samme måte er det nødvendig å sette et sterkere fokus på sikkerheten i forbindelse med helikoptertransporten til og fra innretningene.
 
@@ -60,7 +64,11 @@ I forbindelse med tilsynet med virksomheten på de berørte landanleggene i anle
 
 ### 2. Prinsipper for utforming av regelverk og oppfølging
 
+*Generelt*
+
 En forutsetning for regulering og oppfølging av helse, miljø og sikkerhet i petroleumsvirksomheten på sokkelen og for virksomheten ved de berørte anleggene på land, er at enhver som driver eller deltar i virksomheten plikter å drive forsvarlig, og å sikre at lov, forskrifter og enkeltvedtak som regulerer forhold knyttet til denne virksomheten, etterleves. Rettighetshaver/den som eier, eller operatør/den som driver og/eller eier, petroleumsanlegg eller rørledningssystemer har i tillegg et særlig ansvar for å følge opp (påse) at enhver som utfører arbeid for seg, enten personlig, ved ansatte eller ved entreprenører, overholder bestemmelsene.
+
+*Samordnet og helhetlig HMS-regelverk*
 
 Petroleumstilsynet er tillagt en koordinerende rolle i forbindelse med utarbeidelse, videreutvikling og vedlikehold av et helhetlig regelverk for helse, miljø og sikkerhet for virksomheten på kontinentalsokkelen og for de berørte landanleggene.
 
@@ -69,6 +77,8 @@ Prinsippene for reguleringen skal ta utgangspunkt i den gjeldende reguleringen p
 Regelverket skal så langt dette er mulig og hensiktsmessig utformes slik at myndighetene gir rammene for forsvarlig helse, miljø og sikkerhet. For å gi nødvendig forutberegnelighet skal funksjonskrav utdypes med referanse til detaljert normering som framgår av anerkjente normer, herunder industristandarder eller veiledninger utarbeidet av myndighetene. Regelverket skal blant annet stille krav om en helhetlig styring av virksomheten, plassere ansvar for forsvarlig virksomhet hos deltakerne i virksomheten, og stille krav til oppfølging av underleverandører/kontraktører. Regelverket skal utformes med sikte på at det er ulike deltakergrupperinger som gis rettigheter og plikter. Plikter og rettigheter skal klart fremgå av forskriftsbestemmelsene.
 
 Mer detaljerte planer for regelverksarbeidet skal utarbeides av Petroleumstilsynet i nært samarbeid med de øvrig berørte HMS-myndighetene.
+
+*Samordnet og helhetlig oppfølging*
 
 Koordineringsordningen skal søke å oppnå en samlet og koordinert myndighetsutøvelse slik at vedtak ikke er i motstrid med hverandre eller på annen måte griper inn i virksomheten på en uheldig måte ut fra en helhetlig vurdering av helse, miljø og sikkerhet. Ved uenighet mellom myndighetene skal problemstillingene forelegges foresatte departementer for avklaring.
 

@@ -118,4 +118,22 @@ Forskriften trer i kraft 1. januar 2007.
 
 ## Vedlegg: Oversikt over norske mynter, medaljer, pengesedler og ordener av nasjonal betydning yngre enn 1537 som det skal søkes utførselstillatelse for
 
+Gjenstander som omfattes av [lov 9. Juni 1978 nr. 50](lov/1978-06-09-50) om kulturminner [§ 12](lov/1978-06-09-50/§12) første ledd bokstav b) og [§ 15](lov/1978-06-09-50/§15) første ledd kan ikke føres ut av landet.
+
+Ellers kreves det utførselstillatelse for følgende:
+
+*Mynter:*Christian III, sølvgylden 1546 (Gimsøydaler) [sølv]Christian III, mark 1543-46 [sølv]Christian III, 8 skilling 1545 [sølv]Christian III, skilling 1533, 1543 og 1546 [sølv]
+
+Christian IV, 4 speciedaler 1643, 1644-45 og 1648 [sølv]Christian IV, 3 speciedaler 1643-1644 [sølv]
+
+Frederik III, 2 dukat 1665 [gull]Frederik III, dukat 1665 og 1669 [gull]Frederik III, 1/2 dukat 1666 og uten årstall [gull]Frederik III, Speciedaler uten årstall (Akershuusspecien) [sølv]Frederik III, 4 speciedaler 1656-58 og 1661 [sølv]Frederik III, 3 speciedaler 1649-68 [sølv]
+
+Christian V, 4 dukat 1671 [gull]Christian V, 3 dukat 1671 og 1673 [gull]Christian V, 2 dukat 1673 og uten årstall [gull]Christian V, dukat uten årstall [gull]Christian V, 1/2 dukat uten årstall [gull]Christian V, 4 speciedaler 1674, 1678-80 [sølv]Christian V, 3 speciedaler 1674, 1678-80 [sølv]
+
+*Medaljer:*Frederik III, Akershuusmedaljen uten årstall
+
+*Pengesedler:*100 speciedaler 1818-46
+
+*Ordenstegn:*Den Norske Løve.
+
 > Vedlegg tilføyd ved [forskrift 27 mars 2009 nr. 355](forskrift/2009-03-27-355) (i kraft 1 april 2009).

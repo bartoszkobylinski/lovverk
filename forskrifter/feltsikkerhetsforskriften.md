@@ -108,6 +108,8 @@ Svalbardguider skal forevise godkjenningsbeviset ved tilsyn, jf. [§ 21](forskri
 
 Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis. Gebyr skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.1
 
+1 Rundskriv 112/2015
+
 ## § 13. Godkjenningens varighet og fornyelse
 
 Godkjenningen som Svalbardguide gjelder i fem år.
@@ -137,6 +139,8 @@ Endres innholdet i kurset kan forhåndsgodkjenningen trekkes tilbake dersom innh
 Dersom kravene i [§ 11](forskrift/2025-06-06-940/§11) endres eller kurs- og læringskravene gitt av Sysselmesteren endres vesentlig, skal det gis rimelig varsel om dette til de opplæringsinstitusjonene som har gyldig forhåndsgodkjenning.
 
 Sysselmesteren fastsetter gebyr for behandling av søknader. Gebyret skal dekke kostnadene ved å produsere og levere tjenesten basert på kostnadseffektiv drift. Prinsippene for statlig gebyr- og forskriftsfinansiering skal legges til grunn.2
+
+2 Rundskriv 112/2015
 
 ## § 16. Forsikring for og dekning av redningsutgifter mv.
 
@@ -228,4 +232,8 @@ Sysselmesterens vedtak etter første ledd kan påklages til Nærings- og fiskeri
 
 ## Vedlegg I. Ferdselsområde, jf. [§ 3 bokstav g](forskrift/2025-06-06-940/§3/bokstav/g)
 
+[Pdf-fil](static/SF/sf-20250606-0940-01-01.pdf)
+
 ## Vedlegg II. Forsikringssoner, jf. [§ 16](forskrift/2025-06-06-940/§16)
+
+[Pdf-fil](static/SF/sf-20250606-0940-02-01.pdf)

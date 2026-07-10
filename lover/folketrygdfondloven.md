@@ -140,8 +140,12 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
+1 Fra 1 jan 2008 iflg. [res. 29 juni 2007 nr. 937](forskrift/2007-06-29-937).
+
 ## § 17. Overgangsbestemmelser
 
 Overføring til det selvstendige rettssubjektet Folketrygdfondet av forpliktelser knyttet til forvaltningsorganet Folketrygdfondet har frigjørende virkning for staten. Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.
+
+– – –
 
 Øvrige overgangsbestemmelser fastsettes av Kongen.

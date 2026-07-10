@@ -548,6 +548,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enke
 
 Fra samme tid oppheves [lov 21. juni 1963 nr. 17](lov/1963-06-21-17) om drift av apotek m.v.
 
+1 Iflg. [res. 2 juni 2000 nr. 565](forskrift/2000-06-02-565) Helse- og omsorgsdepartementet, som ved [forskr. 4 sep 2000 nr. 894](forskrift/2000-09-04-894) har bestemt at loven, med unntak av § 8-1, trer i kraft 1 mars 2001.
+
 ### § 10-2. Eldre forskrifter
 
 Forskrifter gitt i medhold av [lov 21. juni 1963 nr. 17](lov/1963-06-21-17) om drift av apotek m.v. gjelder også etter at loven her har trådt i kraft.
@@ -561,6 +563,8 @@ Bevillingshavere til apotek som var lovlig etablert som filialapotek ved denne l
 > Endret ved [lover 19 juni 2009 nr. 71](lov/2009-06-19-71) (ikr. 1 jan 2010 iflg. [res. 19 juni 2009 nr. 689](forskrift/2009-06-19-689)), [22 juni 2018 nr. 76](lov/2018-06-22-76).
 
 ### § 10-4. Eldre apotek og medisinutsalg
+
+– – –
 
 ### § 10-5. Endringer i andre lover
 

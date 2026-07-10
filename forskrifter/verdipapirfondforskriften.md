@@ -646,6 +646,8 @@ Kravene i [§ 2-40](forskrift/2011-12-21-1467/§2-40) til [§ 2-42](forskrift/20
 
 (12) Dersom et verdipapirfond skal kunne benytte teknikker som nevnt i første ledd, skal det fremgå av fondets vedtekter, jf. [verdipapirfondloven § 4-4](lov/2011-11-25-44/§4-4) første ledd nr. 2.
 
+(13) Annet og tredje ledd begrenser ikke adgangen for en sentral motpart med tillatelse etter [verdipapirhandelloven § 13-1](lov/2007-06-29-75/§13-1), eller tilsvarende institusjon fra annen EØS-stat eller som er anerkjent innenfor EØS-området, til å tre inn som part i avtale om teknikker som nevnt i første ledd.
+
 > Endret ved [forskrift 28 juni 2016 nr. 832](forskrift/2016-06-28-832) (i kraft 1 juli 2016, se endringsforskriften for overgangsregel).
 
 ### § 6-9. Plassering i derivater
@@ -1189,6 +1191,8 @@ EØS-avtalen vedlegg IX forordning [(EU) 2016/1212](eu/32016r1212) (om fastsette
 ### § 14-2. Endringer i andre forskrifter
 
 (1) Fra 1. januar 2012 gjøres følgende endringer i andre forskrifter:
+
+1\. [Forskrift 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital for finansinstitusjoner, oppgjørssentraler og verdipapirforetak: – – –2. [Forskrift 28. mai 1999 nr. 654](forskrift/1999-05-28-654) om årsregnskap m.m. for verdipapirfond: – – –3. [Forskrift 29. juni 2007 nr. 747](forskrift/2007-06-29-747) om forsvarlig likviditetsstyring: – – –4. [Forskrift 29. juni 2007 nr. 876](forskrift/2007-06-29-876) til verdipapirhandelloven (verdipapirforskriften): – – –5. [Forskrift 17. desember 2007 nr. 1456](forskrift/2007-12-17-1456) skadeforsikringsselskapers kapitalforvaltning: – – –6. [Forskrift 17. desember 2007 nr. 1457](forskrift/2007-12-17-1457) om livsforsikringsselskapers og pensjonsforetaks kapitalforvaltning: – – –7. [Forskrift 1. desember 2010 nr. 1507](forskrift/2010-12-01-1507) om godtgjørelsesordninger i finansinstitusjoner, verdipapirforetak og forvaltningsselskap for verdipapirfond: – – –§ 14-3. *Overgangsbestemmelser*
 
 (1) For norske verdipapirfond som er godkjent før denne forskrifts ikrafttredelse kan det frem til 1. juli 2012, i stedet for nøkkelinformasjon, benyttes forenklet prospekt som definert i vedlegg 1 til direktiv [2001/107/EF](eu/32001l0107).
 

@@ -40,11 +40,23 @@ Gebyrene etter denne forskriften er gjenstand for årlig indeksregulering.
 
 ## § 3. Gebyrsatser for utstedelse av sertifikater
 
-Gebyr for søknad om:*Sertifikattype**Pris NOK*ROC/GOC-sertifikat1059Utstedelse av SRC/LRC-sertifikat706Påtegning – ROC/GOC1059Fornyelse – ROC/GOC1059
+Gebyr for søknad om:
+
+| *Sertifikattype* | *Pris NOK* |
+| --- | --- |
+| ROC/GOC-sertifikat | 1059 |
+| Utstedelse av SRC/LRC-sertifikat | 706 |
+| Påtegning – ROC/GOC | 1059 |
+| Fornyelse – ROC/GOC | 1059 |
 
 ## § 4. Gebyrsatser for utstedelse av lisenser
 
-Årlig gebyr for lisens til skipsradio:*Lisenstype**Pris NOK*Grunnlisens VHF og AIS200Utvidet lisens (A1, A2, A3 og A4)500
+Årlig gebyr for lisens til skipsradio:
+
+| *Lisenstype* | *Pris NOK* |
+| --- | --- |
+| Grunnlisens VHF og AIS | 200 |
+| Utvidet lisens (A1, A2, A3 og A4) | 500 |
 
 Den som er registrert som innehaver av lisens 1. januar er ansvarlig for betaling av gebyr.
 

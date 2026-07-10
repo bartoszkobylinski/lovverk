@@ -26,7 +26,22 @@ Vi viser til ny [forskrift om narkotika 14. februar 2013 nr. 199](forskrift/2013
 
 Med dette delegerer Helse- og omsorgsdepartementet sin kompetanse etter visse bestemmelser i [forskrift 14. februar 2013 nr. 199](forskrift/2013-02-14-199) om narkotika til Direktoratet for medisinske produkter og Helsedirektoratet.
 
-Delegeringen gjelder følgende bestemmelser:*Forskrift**Myndighet**Myndighet i forskrift lagt til**Delegert til**Dato*§ 4 første leddFastsettelse av narkotikalistenDepartementetDirektoratet for medisinske produkter14.02.2013§ 5 annet leddGjøre unntak fra forbudet i første leddDepartementetDirektoratet for medisinske produkter og Helsedirektoratet14.02.2013§ 6 annet leddGi tillatelse om industriell brukDepartementetDirektoratet for medisinske produkter14.02.2013§ 9Utstede sertifikat for innførsel og utførselDepartementetDirektoratet for medisinske produkter14.02.2013§ 11 første leddInnvilgelse av transitt i særlige tilfellerDepartementetDirektoratet for medisinske produkter14.02.2013§ 13 første leddMotta kvartalsregnskapDepartementetDirektoratet for medisinske produkter14.02.2013§ 13 annet leddBestemme at kvartalsregnskap skal leveres på fastsatt skjemaDepartementetDirektoratet for medisinske produkter14.02.2013§ 14 første leddMotta årsregnskapDepartementetDirektoratet for medisinske produkter14.02.2013§ 14 annet leddBestemme at årsregnskapet skal leveres på fastsatt skjemaDepartementetDirektoratet for medisinske produkter14.02.2013§ 17Tilbakekalle tillatelse og sette vilkårDepartementetDirektoratet for medisinske produkter14.02.2013§ 19Gjøre unntak – mengde-begrensningDepartementetDirektoratet for medisinske produkter14.02.2013§ 20Gi tillatelse til å sende/ta med narkotiske legemidler til førstehjelps-formålDepartementetDirektoratet for medisinske produkter14.02.2013
+Delegeringen gjelder følgende bestemmelser:
+
+| *Forskrift* | *Myndighet* | *Myndighet i forskrift lagt til* | *Delegert til* | *Dato* |
+| --- | --- | --- | --- | --- |
+| § 4 første ledd | Fastsettelse av narkotikalisten | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 5 annet ledd | Gjøre unntak fra forbudet i første ledd | Departementet | Direktoratet for medisinske produkter og Helsedirektoratet | 14.02.2013 |
+| § 6 annet ledd | Gi tillatelse om industriell bruk | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 9 | Utstede sertifikat for innførsel og utførsel | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 11 første ledd | Innvilgelse av transitt i særlige tilfeller | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 13 første ledd | Motta kvartalsregnskap | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 13 annet ledd | Bestemme at kvartalsregnskap skal leveres på fastsatt skjema | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 14 første ledd | Motta årsregnskap | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 14 annet ledd | Bestemme at årsregnskapet skal leveres på fastsatt skjema | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 17 | Tilbakekalle tillatelse og sette vilkår | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 19 | Gjøre unntak – mengde-begrensning | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
+| § 20 | Gi tillatelse til å sende/ta med narkotiske legemidler til førstehjelps-formål | Departementet | Direktoratet for medisinske produkter | 14.02.2013 |
 
 Delegeringsbestemmelsene trer i kraft straks.
 

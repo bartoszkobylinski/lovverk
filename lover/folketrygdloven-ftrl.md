@@ -81,6 +81,8 @@ Kongen gir forskrifter med nærmere regler om regulering av grunnbeløpet,1 heru
 
 > Endret ved lover [5 juni 2009 nr. 32](lov/2009-06-05-32) (ikr. 1 jan 2011), [11 mai 2012 nr. 24](lov/2012-05-11-24), [5 apr 2017 nr. 15](lov/2017-04-05-15) (ikr. 1 jan 2019 iflg. [res. 20 apr 2018 nr. 591](forskrift/2018-04-20-591), se del II).
 
+1 Til og med 2010 fastsatt av Stortinget. Grunnbeløpet var pr 1 mai 1996 kr. 41.000, pr 1 mai 1997 kr. 42.500, pr 1 mai 1998 kr. 45.370, pr 1 mai 1999 kr. 46.950, pr 1 mai 2000 kr. 49.090, pr 1 mai 2001 kr. 51.360, pr 1 mai 2002 kr. 54.170, pr 1 mai 2003 kr. 56.861, pr 1 mai 2004 kr. 58.778, pr 1 mai 2005 kr. 60.699, pr 1 mai 2006 kr. 62.892, pr 1 mai 2007 kr. 66.812, pr 1 mai 2008 kr. 70.256, pr 1 mai 2009 kr. 72.881, pr 1 mai 2010 kr. 75.641, pr 1 mai 2011 kr. 79.216, pr 1 mai 2012 kr. 82.122, pr 1 mai 2013 kr. 85.245, pr 1 mai 2014 kr. 88.370, pr 1 mai 2015 kr. 90.068, pr 1 mai 2016 kr. 92.576, pr 1 mai 2017 kr. 93.634, pr 1 mai 2018 kr. 96.883, pr 1 mai 2019 kr. 99.858, pr 1 mai 2020 kr. 101.351, pr 1 mai 2021 kr. 106.399, pr 1 mai 2022 kr. 111.477, pr 1 mai 2023 kr. 118 620, pr 1 mai 2024 kr. 124 028, pr 1 mai 2025 kr. 130 160, pr 1 mai 2026 kr. 136 549.
+
 ### § 1-5. Sivilstand
 
 Når en persons rettsstilling etter denne loven er avhengig av om vedkommende er ugift, gift eller skilt, er det avgjørende om ekteskap er inngått eller oppløst etter ekteskapsloven. Likestilt med slikt ekteskap er utenlandsk ekteskap som anerkjennes i Norge.
@@ -2891,6 +2893,8 @@ Departementet oppretter et rådgivende yrkessykdomsutvalg som regelmessig skal v
 
 > Endret ved lov [10 juni 2025 nr. 30](lov/2025-06-10-30) (i kraft 1 jan 2026 iflg. [res. 29 aug 2025 nr. 1743](forskrift/2025-08-29-1743)). **Endres** ved lov [10 juni 2025 nr. 30](lov/2025-06-10-30) (i kraft 1 jan 2027 iflg. [res. 29 aug 2025 nr. 1743](forskrift/2025-08-29-1743), gjelder tredje og fjerde ledd). **Endres** ved lov [23 juni 2026 nr. 64](lov/2026-06-23-64) (i kraft fra den tid Kongen bestemmer, se endringsloven for overgangsregel).
 
+1 Fjerde ledd blir tilføyd ved lov [10 juni 2025 nr. 30](lov/2025-06-10-30) (i kraft 1 jan 2027), Lovdatas anm.
+
 ### § 13-5. Skadetidspunktet
 
 Skadetidspunktet er det tidspunktet da en arbeidsulykke skjedde.
@@ -3094,6 +3098,8 @@ Likestilt med yrkesaktivitet er tidsrom da det er gitt en ytelse til livsopphold
 Likestilt med yrkesaktivitet er også tidsrom medlønn fra arbeidsgiver under permisjon i forbindelse med videre- og etterutdanning,ventelønn etter [lov av 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. [§ 13](lov/1983-03-04-3/§13) nr. 6,vartpenger etter [lov av 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 24](lov/1949-07-28-26/§24) tredje ledd,etterlønn fra arbeidsgiver,avtjening av militærtjeneste eller obligatorisk sivilforsvarstjeneste,1ytelse i medhold av midlertidig lov om kompensasjonsytelse for selvstendig næringsdrivende og frilansere som har mistet inntekt som følge av utbrudd av covid-19.
 
 > Endret ved lover [30 juni 2000 nr. 58](lov/2000-06-30-58) (ikr. 1 juli 2000), [21 apr 2006 nr. 10](lov/2006-04-21-10) (ikr. 1 jan 2007 iflg. [res. 21 apr 2006 nr. 428](forskrift/2006-04-21-428)), [27 juni 2008 nr. 52](lov/2008-06-27-52), [19 des 2008 nr. 106](lov/2008-12-19-106) (ikr. 1 mars 2010 iflg. [res. 19 feb 2010 nr. 189](forskrift/2010-02-19-189)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)), [19 des 2017 nr. 116](lov/2017-12-19-116) (ikr. 1 jan 2019 iflg. [res. 7 des 2018 nr. 1818](forskrift/2018-12-07-1818)), [12 juni 2020 nr. 62](lov/2020-06-12-62).
+
+1 Inkurie: Ved en inkurie ble bokstav e vedtatt som bokstav f i [lov 12 aug 2016 nr. 77](lov/2016-08-12-77).
 
 ### § 14-7. Beregning av foreldrepenger
 

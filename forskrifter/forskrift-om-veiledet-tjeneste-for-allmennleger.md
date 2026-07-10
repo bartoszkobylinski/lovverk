@@ -118,19 +118,31 @@ Leger som per 31. desember 2005 innehar en fastlegehjemmel eller stilling ved ko
 
 ## Merknader til de enkelte bestemmelsene
 
+*Til [§ 1](forskrift/2005-12-19-1653/§1)*
+
 Det overordnede formålet med veiledet tjeneste er å styrke pasientsikkerheten og heve kvaliteten på arbeidet som utføres av allmennleger. Gjennom veiledet tjeneste skal legen skaffe seg praktiske tilleggskunnskaper for å kunne utøve virksomhet som allmennlege. Tjenesten skal gi leger opplæring i blant annet trygdemedisin, takstbruk, rekvirering av legemidler og drift av egen praksis.
 
 Beskrivelsen av kravene til veiledet tjeneste følger av dette rundskrivet. Annen særlig målbeskrivelse foreligger ikke.
 
+*Til [§ 2](forskrift/2005-12-19-1653/§2)*
+
 Bestemmelsen angir virkeområdet for forskriften.
+
+*Første ledd – allmennleger med rett til trygderefusjon*
 
 Forskriften gjelder de som ønsker å praktisere som allmennlege med refusjon fra folketrygden. Alle leger med norsk autorisasjon, dvs. autorisasjon etter [helsepersonelloven §§ 48](lov/1999-07-02-64/§48) flg., har adgang til å praktisere som allmennlege. Dersom de praktiserer uten trygderefusjon gjelder ikke forskriften, se merknadene til [§ 3](lov/1999-07-02-64/§3).
 
+*Andre ledd – veileder og kommunen*
+
 Forskriften gjelder for veiledere og kommuner der veiledet tjeneste utføres. Dette omfatter tjeneste i fastlegestilling og stilling ved kommunal legevakt.
+
+*Tredje ledd – veiledet tjeneste i helseforetak*
 
 Enkelte av forskriftens bestemmelser gjelder også for veiledet tjeneste som utføres i helseforetak, dvs. mens legen er under spesialisering i sykehus (LIS). Dette gjelder:obligatorisk opplæring, jf. 5 andre ledd andre punktumveiledningsattest og kursbevis, jf. [§ 6](forskrift/2005-12-19-1653/§6) fjerde leddgodkjenning av veiledet tjeneste, jf. [§ 8](forskrift/2005-12-19-1653/§8) første ledd.
 
 Etter [spesialisthelsetjenesteloven § 3-5](lov/1999-07-02-61/§3-5) skal de regionale helseforetakene sørge for å dekke behovet for undervisning og opplæring av blant annet spesialister innen helseregionen. Forhold knyttet til gjennomføring, omfang, innhold, individuell godkjenning mv. av spesialistutdanningen, er regulert i forskrift om spesialistgodkjenning av helsepersonell.
+
+*Til [§ 3](forskrift/2005-12-19-1653/§3)*
 
 Bestemmelsen regulerer vilkårene for å kunne praktisere som allmennlege med rett til trygderefusjon. Bestemmelsen regulerer både retten til å praktisere selvstendig og til å praktisere under veiledning. Disse reglene gjennomfører EUs yrkeskvalifikasjonsdirektiv artikkel 29 andre ledd, som sier at for å kunne få trygderefusjon må legen enten oppfylle de norske kravene til allmennleger, ha allmennlegebevis fra et annet EØS-land eller være under utdanning som allmennlege.
 
@@ -140,6 +152,8 @@ Hovedregelen er at en lege må ha gjennomført tre års veiledet tjeneste for å
 
 En lege kan også få rett til trygderefusjon mens legen praktiserer *under veiledning* i den kommunale allmennlegetjenesten. Vilkårene for dette følger av [§ 3](forskrift/2005-12-19-1653/§3) første ledd bokstav b, c og d.
 
+*Hvilke leger gjelder vilkårene i [§ 3](forskrift/2005-12-19-1653/§3) for?*
+
 Det er leger som arbeider i den kommunale allmennlegetjenesten som må oppfylle vilkårene i [§ 3](forskrift/2005-12-19-1653/§3). Dette er leger som utøver kurativ, pasientrettet virksomhet innenfor kommunal allmennlegetjeneste som helt eller delvis finansieres gjennom stykkprisrefusjon fra folketrygden. Trygderefusjonen ytes etter reglene i forskrift om trygderefusjon, som i [§ 1](forskrift/2005-12-19-1653/§1) nr. 1 viser til forskrift om veiledet tjeneste [§ 3](forskrift/2005-12-19-1653/§3) flg.
 
 I hovedsak gjelder vilkårene for leger i tre typer legetjenester:privatpraktiserende leger som inngår fastlegeavtale med kommunenleger som ansettes i kommunale fastlegestillingerleger som ansettes i kliniske stillinger ved kommunal legevakt.
@@ -148,11 +162,15 @@ Dette omfatter også leger som vikarierer i slike stillinger.
 
 Vilkårene i [§ 3](forskrift/2005-12-19-1653/§3) gjelder ikke ved etablering av privat legevirksomhet uten offentlig finansiering. Allmennleger som utfører pasientbehandling i rent privat virksomhet uten fastlegeavtale med kommunen og trygdefinansiering, må derfor ikke oppfylle vilkårene. Vilkårene gjelder heller ikke for leger som er ansatt i kommunale stillinger hvor offentlig legearbeid og annen virksomhet som det ikke ytes trygderefusjon for, utgjør hoveddelen av det daglige arbeidet. Dette kan for eksempel være leger som er ansatt ved sykehjem. Leger som har sitt daglige arbeid i bedriftshelsetjeneste, fengsel, forsvaret, legemiddelindustri, offentlig forvaltning, i forsknings- og undervisningsstillinger mv., omfattes heller ikke.
 
+*Første ledd bokstav a – selvstendig*
+
 Bestemmelsen regulerer legers adgang til å praktisere selvstendig som allmennlege med rett til trygderefusjon. Med «selvstendig» menes at legen kan praktisere uten å være under veiledning.
 
 Følgende leger har godkjenning som allmennlege og har dermed adgang til å praktisere selvstendig med rett til trygderefusjon: leger som har gjennomført tre års veiledet tjeneste, leger som arbeidet som allmennlege med trygderefusjon da forskriften trådte i kraft, spesialister i allmennmedisin og leger som er godkjente allmennleger i andre EØS-land.*Leger som har gjennomført tre års veiledet tjeneste:* Den veiledete tjenesten må foregå i til sammen minst tre år etter at legen har fullført sin grunnleggende legeutdanning. Med grunnleggende legeutdanning menes utdanning og praksis som må være gjennomført for å kunne få autorisasjon i Norge, se merknadene til [§ 4](forskrift/2005-12-19-1653/§4).Minst seks måneder av den veiledete tjenesten skal være gjennomført i godkjent sykehus og minst seks måneder skal være gjennomført i allmennlegepraksis. Leger som har gjennomført norsk turnus har gjennom det oppfylt disse kravene. Med godkjent sykehus menes sykehusavdeling som er godkjent for å ha turnusleger eller godkjent utdanningsinstitusjon for leger i spesialisering.Alle skal gjennomføre obligatorisk opplæring som del av den veiledete tjenesten, jf. [§ 5](forskrift/2005-12-19-1653/§5).Tjenesten skal som hovedregel gjennomføres på heltid. Legen kan likevel gjennomføre tjenesten med redusert arbeidstid, men ikke mindre enn 60 prosent av ukentlig normalarbeidstid. Hvis legen har arbeidet deltid, må dette regnes om til heltid. Det vises til merknadene til [§ 5](forskrift/2005-12-19-1653/§5) første ledd, som må gjelde tilsvarende for alle typer veiledet tjeneste. I tillegg kreves det at en tjenesteperiode må være minst to måneder sammenhengende for at tjenesten skal kunne godkjennes som veiledet tjeneste.Nærmere regler om gjennomføring, innhold, omfang og organisering av den veiledete tjenesten følger av [§ 4](forskrift/2005-12-19-1653/§4), [§ 5](forskrift/2005-12-19-1653/§5) og [§ 6](forskrift/2005-12-19-1653/§6).Det er Helsedirektoratet som vurderer og avgjør om kravet om tre års veiledet tjeneste er oppfylt, jf. forskriften [§ 8](forskrift/2005-12-19-1653/§8) første ledd første punktum. Direktoratets avgjørelse er samtidig et vedtak om at legen er godkjent allmennlege.*Leger som arbeidet som allmennlege med trygderefusjon da forskriften trådte i kraft:* Leger som praktiserte selvstendig som allmennleger med rett til trygderefusjon da kravet om tre års veiledet tjeneste fra 1. januar 2006 ble innført, jf. [§ 11](forskrift/2005-12-19-1653/§11) fjerde ledd.*Spesialister i allmennmedisin:* Disse legene vil som regel ha gjennomført tre års veiledet tjeneste i samsvar med forskriften, og ha fått en godkjenning som allmennlege underveis i spesialiseringen (for å kunne få trygderefusjon). Det kan imidlertid tenkes leger som blir spesialist i allmennmedisin uten å ha gjennomført tre års veiledet tjeneste, men som likevel får adgang til å praktisere selvstendig med trygderefusjon. Eksempel: EØS-utdannet lege med fire år i helprivat allmennpraksis uten trygderefusjon og ett års sykehuspraksis i LIS-stilling. Disse legene har lengre praksis og har deltatt i andre former for veiledning. Det er Helsedirektoratet som godkjenner legespesialister etter forskrift om spesialistgodkjenning av leger, jf. [helsepersonelloven § 51](lov/1999-07-02-64/§51). Leger med godkjenning i andre spesialiteter enn allmennmedisin, har ikke adgang til å praktisere selvstendig med trygderefusjon.*Leger som er godkjente allmennleger i andre EØS-land:* En lege med et allmennlegebevis fra annet EØS-land har rett til å arbeide som allmennlege på linje med leger som har sin allmennlegeutdanning fra Norge (EØS-forskriften [§ 3](forskrift/2005-12-19-1653/§3) jf. [§ 10](forskrift/2005-12-19-1653/§10)).
 
 I tillegg har leger som deltar mer sporadisk i kommunalt legevaktarbeid utenom sitt ordinære arbeid og leger som arbeider i kortidsvikariater av inntil to måneders varighet, adgang til å praktisere selvstendig som allmennlege med rett til trygderefusjon (jf. [§ 3](forskrift/2005-12-19-1653/§3) tredje ledd).
+
+*Første ledd bokstav b, c og d – under veiledning*
 
 Bestemmelsene regulerer legers adgang til å praktisere med rett til trygderefusjon mens de er under veiledning. Grensen i tid for hvor lenge de kan motta trygderefusjon under veiledning følger ikke direkte av forskriftens bestemmelser, men av merknadene til [§ 6](forskrift/2005-12-19-1653/§6) andre ledd.
 
@@ -164,19 +182,29 @@ Det er videre et vilkår for å få rett til trygderefusjon at legen arbeider *u
 
 I forskriften [§ 3](forskrift/2005-12-19-1653/§3) første ledd bokstav b står det at også leger med praktisk tjeneste i et annet land som i det vesentlige tilsvarer norsk turnustjeneste, kan praktisere under veiledning. Alternativet har ikke lenger praktisk betydning. Leger med grunnleggende utdanning fra andre EØS-land har siden 2014 kunnet få trygderefusjon under veiledning etter [§ 3](forskrift/2005-12-19-1653/§3) første ledd bokstav c. Helsedirektoratet gjennomfører ikke jevngodhetsvurdering av tjeneste gjennomført i land utenfor EØS.
 
+*Tredje ledd – korttidsvikariater mv.*
+
 Leger som deltar mer sporadisk i kommunalt legevaktarbeid utenom sitt ordinære arbeid og leger som arbeider i kortidsvikariater, kan også praktisere som allmennleger med trygderefusjon uten å være under veiledning. Dette har sammenheng med hensynet til rekrutteringen av fastleger til rekrutteringssvake kommuner samt rekruttering til legevakttjeneste. I motsetning til leger som på dagtid er ansatt ved kommunale legevakter, vil sporadisk deltagelse i legevaktarbeid utenom legens ordinære arbeid ikke regnes som veiledet tjeneste, jf. [§ 4](forskrift/2005-12-19-1653/§4).
 
 Dette unntaket fra kravet om veiledning gjelder leger som tiltrer et vikariat av inntil to måneders varighet i fastlegehjemmel eller i stilling i kommunal legevakt og leger som deltar i kommunalt organisert legevakt utenom sitt ordinære arbeid. Leger med grunnleggende legeutdanning fra Norge, må ha gjennomført norsk turnus. Et slikt vilkår gjelder ikke leger som har grunnleggende legeutdanning fra et annet EØS-land. Det samme gjelder ifølge bestemmelsen også leger som har søkt om godkjenning av veiledningsavtale før 1. mai 2014.
 
 Unntaket for kortere vikariater gjelder uavhengig av om fastlegehjemmelen er tilknyttet en privat praksis eller en kommunal stilling.
 
+*Fjerde ledd – turnusleger*
+
 Reglene om trygderefusjon i [§ 3](forskrift/2005-12-19-1653/§3) er ikke til hinder for at en turnuslege som har gjennomført turnustjeneste i sykehus kan delta i kommunal legevakt eller arbeide hos en fastlege. Turnuslegen skal være underlagt veiledning.
 
 Se forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege [§ 2](forskrift/2005-12-19-1653/§2) nr. 3, for refusjon utløst av turnusleger og andre som mottar lønn fra kommunen.
 
+*Til [§ 4](forskrift/2005-12-19-1653/§4)*
+
 Tre års veiledet tjeneste er ett av flere alternative vilkår for å kunne få godkjenning som allmennlege etter [§ 3](forskrift/2005-12-19-1653/§3) første ledd bokstav a, jf. [§ 8](forskrift/2005-12-19-1653/§8) første ledd. Hva slags praksis som er tellende veiledet tjeneste er uttømmende oppregnet i forskriften [§ 4](forskrift/2005-12-19-1653/§4). I dette rundskrivet punkt 3 beskrives de vanligste måtene å gjennomføre veiledet tjeneste på.
 
+*Hva slags praksis er tellende?*
+
 Den veiledete tjenesten kan settes sammen med ulike kombinasjoner av disse typene praksis:*Turnustjeneste:* Inntil 18 måneders turnustjeneste teller som veiledet tjeneste. Turnustjenesten er regulert i turnusforskriften. Helsedirektoratet har laget informasjons- og veiledningsmateriell om turnustjenesten som kan lastes ned fra direktoratets hjemmeside. Legen må ha fått godkjent turnustjeneste etter retningslinjer og målbeskrivelse gitt i medhold av turnusforskriften. Full turnustjeneste omfatter ett år i sykehus og et halvt år i den kommunale allmennlegetjenesten etter at legen har fått autorisasjon. Også deler av norsk turnustjeneste kan godkjennes, dvs. at det ikke kreves at full turnustjeneste på et og et halvt år er gjennomført. Noen tar den grunnleggende legeutdanningen i et EØS-land der det er en obligatorisk praksisperiode etter eksamen, for eksempel i Polen og Danmark. Hvis denne praksisperioden gjennomføres i en norsk turnusstilling, vil dette likevel ikke være tellende veiledet tjeneste fordi turnusen blir en del av den grunnleggende legeutdanningen, se nedenfor.*Tjeneste i fastlegehjemmel eller ved kommunal legevakt:* Tjeneste under veiledning i den kommunale allmennlegetjenesten teller som veiledet tjeneste. Denne praktiske opplæringen kan gjennomføres ved at legen tiltrer, eventuelt som vikar, i en ledig fastlegehjemmel eller stilling med klinisk aktivitet ved kommunal legevakt hvor det følger med et veiledningsopplegg i samsvar med forskriftens [§§ 5](forskrift/2005-12-19-1653/§5) flg. Formuleringen «fastlegehjemmel med veiledning» innebærer ikke at det skal opprettes egne utdanningsstillinger til dette formålet. Veiledningen forutsettes å foregå i eksisterende hjemler/stillinger som lyses ledig.*Stilling som lege under spesialisering (LIS):* Stilling i et helseforetak hvor legen er under spesialisering og arbeider under veiledning av en godkjent legespesialist, teller som veiledet tjeneste. Dette gjelder ikke bare spesialisering i allmennmedisin, men også annen spesialisering. Disse legene vil få kunnskap om allmennlegers arbeid ved å ta obligatorisk opplæring etter [§ 5](forskrift/2005-12-19-1653/§5). Veiledning i sykehus for øvrig er knyttet til den spesialiteten legen tar. Det er ellers ikke gitt nærmere retningslinjer eller målbeskrivelse for veiledet tjeneste i sykehus. Se for øvrig [§ 6](forskrift/2005-12-19-1653/§6) fjerde ledd om veiledningsattest og kursbevis og [§ 8](forskrift/2005-12-19-1653/§8) første ledd om godkjenning av veiledet tjeneste, som gjelder også for tjeneste som gjennomføres i helseforetak.*Vernepliktig militærlege:* Dette er leger som etter fullført turnustjeneste innkalles til et års militær verneplikt i underordnet legestilling, med faglig veiledning av overordnede leger i sine respektive avdelinger. Tjenesten er av klinisk karakter.
+
+*Praksis etter den grunnleggende legeutdanningen*
 
 Den veiledete tjenesten skal gjennomføres i etterkant av fullført grunnleggende legeutdanning. Klinisk praksis under den grunnleggende legeutdanningen skal derfor ikke regnes som tellende veiledet tjeneste. Dette er i samsvar med forskriftens ordlyd, siden slik praksis ikke følger av oppregningen i [§ 4](forskrift/2005-12-19-1653/§4) om hva slags praksis som skal være tellende.
 
@@ -186,6 +214,8 @@ For leger utdannet i andre EØS-land vil den grunnleggende legeutdanningen følg
 
 Noen land har altså en obligatorisk praksisperiode som skal gjennomføres etter eksamen og eventuelt etter autorisasjonen, men som likevel er en del av den grunnleggende legeutdanningen ifølge direktivet. I Sverige og Danmark gjelder dette henholdsvis AT-tjenesten og klinisk basisutdanning. Denne praksisen skal ikke telle som veiledet tjeneste. Dette betyr at heller ikke leger som gjennomfører den obligatoriske praksisperioden som en del av den grunnleggende legeutdanningen (for eksempel leger fra Polen eller Danmark) gjennom å ta norsk turnus, får denne godkjent som veiledet tjeneste. Disse legene må gjennomføre tre års veiledet tjeneste etter dette.
 
+*Overgangsordninger*
+
 Tidligere kunne deler av praksis under den grunnleggende legeutdanningen telle med som veiledet tjeneste. For å sikre forutberegnelighet for legene som har påbegynt veiledet tjeneste og som kan ha innrettet seg etter dette, gjelder det en overgangsordning.
 
 For leger som fikk autorisasjon før 1. desember 2012 teller norsk turnustjeneste med som veiledet tjeneste, selv om turnus ble gjennomført før legen fikk autorisasjon (dvs. da turnus var en del av den grunnleggende legeutdanningen). For å være omfattet av overgangsordningen må disse legene innen 1. januar 2017 ha søkt om å få godkjenning som allmennlege. Søker de senere må de gjennomføre tre års veiledet tjeneste i tillegg til turnusen de allerede har gjennomført.
@@ -194,9 +224,13 @@ For leger med grunnleggende legeutdanning fra Norge som søker om registrering a
 
 Det gjelder også en overgangsordning for leger som har grunnleggende legeutdanning fra et annet EØS-land, men som har gjennomført *norsk* turnustjeneste som den praktiske delen av den grunnleggende legeutdanningen fra dette landet (turnuslisens). Søker disse legene om registrering av første veiledningsavtale før 1. september 2015, teller den norske turnustjenesten som 1 ½ års veiledet tjeneste. Dette forutsetter at veiledningsavtalen var reell og at legen faktisk gjennomførte veiledet tjeneste i samsvar med denne avtalen. Leger som søker om registrering av første veiledningsavtale etter 1. september 2015, må derimot gjennomføre tre års veiledet tjeneste etter autorisasjonstidspunktet for å få godkjenning som allmennlege.
 
+*Den veiledete tjenesten skal som hovedregel gjennomføres i Norge*
+
 Den veiledete tjenesten skal som hovedregel gjennomføres i Norge. Leger som ikke har noe veiledet tjeneste fra Norge, kan derfor ikke få godkjenning som allmennlege på bakgrunn av tre års veiledet tjeneste.
 
 Forskriften regulerer ikke spørsmålet om praktisk tjeneste i andre land skal være tellende. Det har likevel blitt lagt til grunn at leger kan få godkjent noe tjeneste som er gjennomført i andre EØS-land som del av veiledet tjeneste etter forskriften. Noen leger har noe klinisk praksis før de kommer til Norge og kan etter nærmere vilkår få godkjent deler av denne tjenesten, se nedenfor.
+
+*Inntil 18 måneder av den veiledete tjenesten kan gjennomføres i andre EØS-land*
 
 Bare klinisk praksis gjennomført i et annet EØS-land kan telle med som veiledet tjeneste. Praksis gjennomført i land utenfor EØS kan ikke telle med.
 
@@ -216,11 +250,17 @@ En praksisperiode må ha vært på minst to måneder. Tjenesten må være gjenno
 
 Søkeren må dokumentere praksisen. Søkeren skal fremlegge attest undertegnet av medisinsk faglig ansvarlig og avdelingsleder ved tjenestestedet. Det skal fremgå av attesten hvor tjenesten har funnet sted, at legen har gjennomført tjeneste under veiledning, navnet på veileder og om tjenesten har blitt gjennomført på tilfredsstillende måte. Helst bør standardattest fra landets godkjennende myndigheter benyttes.
 
+*Til [§ 5](forskrift/2005-12-19-1653/§5)*
+
 Bestemmelsen regulerer innhold og omfang av den delen av den veiledete tjenesten som gjennomføres i den kommunale allmennlegetjenesten, jf. [§ 4](forskrift/2005-12-19-1653/§4) bokstav b eller c. Se nærmere om gjennomføring av veiledet tjeneste i kommunen under punkt 4.
+
+*Første ledd – heltidsopplæring*
 
 Bestemmelsen fastsetter prinsippet om heltidsopplæring. Den veiledete tjenesten skal som hovedregel gjennomføres på heltid.
 
 Det er likevel anledning til å gjennomføre den veiledete tjenesten på deltid. Den totale veiledningstiden må imidlertid ikke avkortes. Legen kan ha redusert arbeidstid, men legen kan ikke arbeide mindre enn 60 prosent av ukentlig normalarbeidstid. Hvis legen arbeider deltid, skal praksisperioden forlenges forholdsmessig. Leger som arbeider under veiledning i en fastlegehjemmel med fastlegeavtale kan ha avkortet listelengde. Dette må i tilfelle avtales med kommunen, jf. [fastlegeforskriften § 34](forskrift/2012-08-29-842/§34).
+
+*Andre ledd – veiledning*
 
 Legen skal få veiledning i minimum to timer per uke i gjennomsnitt. Dette må justeres forholdsmessig for leger som arbeider deltid.
 
@@ -228,15 +268,23 @@ Kommunen har ansvaret for å organisere opplæringen, oppnevne veileder, inngå 
 
 Veilederen skal være tilstrekkelig tilgjengelig for legen som er under veiledning. Veiledningen må ta utgangspunkt i den enkelte leges behov for veiledning. Elementer fra det obligatoriske kurset skal vektlegges i veiledningen. Dersom veiledningen stopper som følge av sykdom, svangerskap, permisjon eller lignende, stopper også veileders forpliktelser til å veilede. Veilederen skal etter fullført veiledet tjeneste utstede attest, jf. [§ 6](forskrift/2005-12-19-1653/§6) tredje ledd. Kommunen kan søke refusjon for utgifter til veileder, se merknadene til [§ 7](forskrift/2005-12-19-1653/§7).
 
+*Andre ledd – obligatorisk opplæring*
+
 I tillegg til løpende veiledning skal den veiledete tjenesten omfatte obligatorisk opplæring i «utvalgte emner». Kravet om obligatorisk opplæring gjelder alle leger som skal få godkjenning som allmennlege. Dette gjelder ikke bare de som gjennomfører veiledet tjeneste i den kommunale allmennlegetjenesten, men også de som gjennomfører veiledet tjeneste i stilling som lege under spesialisering (LIS) eller på andre måter etter [§ 4](forskrift/2005-12-19-1653/§4). Kravet gjelder likevel ikke leger som har gjennomført en allmennlegeutdanning i et annet EØS-land og allerede har et allmennlegebevis.
 
 Kommunen (eller helseforetaket) skal sørge for at det utstedes bevis for gjennomført obligatorisk opplæring, jf. forskriften [§ 6](forskrift/2005-12-19-1653/§6) tredje ledd.
 
 Se nærmere om opplæringen i punkt 5.
 
+*Til [§ 6](forskrift/2005-12-19-1653/§6)*
+
 Bestemmelsen gjelder kommunens ansvar for organiseringen av den delen av den veiledete tjenesten som gjennomføres i den kommunale allmennlegetjenesten, jf. [§ 4](forskrift/2005-12-19-1653/§4) bokstav b eller c. Kommunen har ansvar for å organisere veiledning når legen som tilbys stilling i den kommunale allmennlegetjenesten ikke har godkjenning som allmennlege. Bestemmelsen regulerer også kommunenes og helseforetakenes plikt til å gi attester på gjennomført veiledet tjeneste. Se også punkt 6.4 om kommunens oppgaver og punkt 4 om veiledet tjeneste i kommunen.
 
+*Første ledd – kommunens ansvar for å sørge for veiledning*
+
 Kommunen har plikt til å skaffe veileder. Kommunen må sørge for at det ved utlysning av fastlegehjemmel, vikariat mv., legges til rette for veiledning. Kommunen skal sørge for at det gis veiledning også for vikariater av mer enn to måneders varighet. Dersom veiledet lege skal arbeide deltid må det tilbys veiledning i tilsvarende lengre periode.
+
+*Andre ledd – veiledningsavtaler*
 
 Kommunen skal sørge for at det inngås avtale mellom kommunen, veiledet lege og veileder om veiledningsforholdet. Se nærmere om veiledningsavtaler under punkt 4.5.
 
@@ -246,11 +294,17 @@ Legen har ansvaret for å sende veiledningsavtalen til Helsedirektoratet for reg
 
 Det er satt en grense for hvor lenge en lege kan være under veiledning med rett til å utløse trygderefusjon og dekning av utgifter til veiledning:Veiledningsperioden stopper når legen ikke er under veiledning, for eksempel under foreldrepermisjon eller sykdom. Refusjon kan bare gis for den perioden legen faktisk er under veiledning i kommunen for å kvalifisere seg som allmennlege.Leger med grunnutdanning fra Norge, kan være under veiledning med trygderefusjon i inntil 1 ½ år etter fullført turnustjeneste. Disse legene vil frem til 1. september 2016 få registrert veiledningsavtaler for inntil 12 måneder. Det er imidlertid adgang til å søke om forlengelse av avtalen eller en ny avtale for inntil 6 ytterligere måneder dersom det er behov for det, for eksempel for å få gjennomført de obligatoriske kursene. Etter 1. september 2016 skal leger med grunnutdanning fra Norge ha 18 måneders veiledet tjeneste etter turnus, se om overgangsordningen i merknadene til [§ 4](forskrift/2005-12-19-1653/§4). Disse legene skal da få registrert veiledningsavtaler for totalt 18 måneder.For leger utdannet i et annet EØS-land og som ikke har gjennomført turnus, kan det by på utfordringer å få nødvendig sykehuspraksis i forlengelsen av en stilling i den kommunale tjenesten. For å sikre en smidig overgang mellom kommunalt arbeid og arbeid i spesialisthelsetjenesten, er perioden en lege kan være under veiledning i kommunen noe lenger enn perioden som kan telle som veiledet tjeneste i kommunen (maksimalt 2 ½ år). For leger utdannet i et annet EØS-land er derfor perioden legen kan være under veiledning i kommunen 3 år. For leger som får underkjent veiledet tjeneste kan perioden i særlige tilfeller forlenges utover disse rammene.
 
+*Tredje ledd – veiledningsattest*
+
 Kommunen skal sørge for at veilederen etter endt tjeneste utsteder attest. Kommunen skal påtegne attesten, som dokumentasjon på at den veiledete tjenesten helt eller delvis er gjennomført. Tjenestens varighet må framgå av attesten. Den faktiske veiledningsperioden føres på veiledningsattesten, dvs. med fradrag for eksempel for sykdom og foreldrepermisjon. Dersom den veiledete tjenesten, på bakgrunn av en skriftlig begrunnelse fra veilederen ikke anbefales godkjent, har kommunen plikt til umiddelbart å varsle Helsedirektoratet. Søknad om godkjenning som allmennlege skal da avslås.
 
 Kommunen har også en plikt til å utstede bevis for gjennomført obligatorisk opplæring etter [§ 5](forskrift/2005-12-19-1653/§5).
 
+*Fjerde ledd – helseforetakenes plikt*
+
 Helseforetak har samme plikt som kommunen til å utstede attester og bevis for leger som er under spesialisering. Se merknadene til [§ 6](forskrift/2005-12-19-1653/§6) tredje ledd og rundskrivet punkt 6.5 og 4.6.
+
+*Til [§ 7](forskrift/2005-12-19-1653/§7)*
 
 Utgiftene til veiledningen dekkes av kommunen. Kommunen kan imidlertid etterskuddsvis søke om tilskudd til å dekke utgifter i forbindelse med godtgjøring av veileder. Søknaden sendes til Helsedirektoratet.
 
@@ -260,7 +314,11 @@ Dersom veiledningsperioden har vært lenger enn 30 måneder (2 ½ år), får kom
 
 Se også punkt 4.7 om tilskuddordningen.
 
+*Til [§ 8](forskrift/2005-12-19-1653/§8)*
+
 Bestemmelsen regulerer retten til å få godkjenning som allmennlege og til å få utstedt allmennlegebevis. Systemet er tosporet. Leger som helt eller delvis gjennomfører veiledet tjeneste i Norge skal godkjennes etter denne forskriften, mens leger som har fullført allmennlegeutdanningen og fått utstedt allmennlegebevis (EU-legebevis/EØS-legebevis) i et annet EØS-land før de kommer til Norge, skal godkjennes etter EØS-forskriften.
+
+*Første ledd – godkjenning som allmennlege og utstedelse av allmennlegebevis*
 
 Bestemmelsen gir lege som har gjennomført tre års veiledet tjeneste i samsvar med forskriften, rett til å få godkjenning som allmennlege.
 
@@ -272,26 +330,54 @@ Vilkårene for godkjenning som allmennlege og vilkårene for å få utstedt allm
 
 Godkjenningen som allmennlege er tidsubegrenset og kan ikke gjøres midlertidig. Frem til 31. desember 2014 ble det utstedt midlertidige tillatelser til leger som ikke hadde gjennomført de obligatoriske kursene i forbindelse med den veiledete tjenesten, blant annet på grunn av venteliste på kursene. Forlengelse av disse midlertidige godkjenningene vil ikke bli gitt ut over 1. januar 2016.
 
+*Andre ledd – godkjenning av leger med allmennlegebevis fra andre EØS-land*
+
 Bestemmelsen viser til EØS-forskriftens bestemmelser om godkjenning som allmennlege for leger med utdanning fra andre EØS-land. Det er et vilkår at legen har norsk autorisasjon og fremlegger et allmennlegebevis, jf. EØS-forskriften [§ 10](forskrift/2005-12-19-1653/§10). Med allmennlegebevis menes et kvalifikasjonsbevis etter EØS-forskriften vedlegg II 5.1.4. Allmennlegebeviset er dokumentasjon på at legen har gjennomført allmennlegeutdanningen. Dersom vilkårene er oppfylt kan legen utøve selvstendig virksomhet som allmennlege i Norge med refusjon fra folketrygden.
 
 Myndigheten til å avgjøre søknader om godkjenning som allmennlege for søkere med allmennlegebevis fra andre EØS-land, er lagt til Helsedirektoratet. Klageinstans er Nasjonalt klageorgan for helsetjenesten.
+
+*Til [§ 9](forskrift/2005-12-19-1653/§9)*
 
 Retningslinjene for praktiseringen av reglene i forskriften, er forankret i denne bestemmelsen.
 
 Bestemmelsen gir også direktoratet en hjemmel til å gjøre unntak fra bestemmelsene i forskriften. Dette er en meget snever unntaksbestemmelse som er ment som en sikkerhetsventil i særlige tilfeller. Bestemmelsen ble tatt inn særlig med sikte på eventuelle uforutsette utfordringer da reglene var nye. Krav til forutberegnelighet og likebehandling tilsier at bestemmelsen bør anvendes med stor varsomhet.
 
+*Til [§ 10](forskrift/2005-12-19-1653/§10)*
+
 Avslag på søknad om godkjenning av allmennlege eller om utstedelse av allmennlegebevis, kan påklages til Nasjonalt klageorgan for helsetjenesten. Det samme gjelder vedtak som gjelder registrering av veiledningsavtaler og veiledningsperioder.
+
+*Til [§ 11](forskrift/2005-12-19-1653/§11)*
 
 Bestemmelsen gir overgangsregler.
 
 Første ledd andre punktum må ses i sammenheng med ny forskrift om kompetansekrav til leger i den kommunale helse- og omsorgstjenesten fastsatt i [kgl.res. 17. februar 2017 nr. 192](forskrift/2017-02-17-192). Kravet om veiledet tjeneste for å utløse refusjoner fra folketrygden vil bli erstattet av et krav om å være spesialist i allmennmedisin eller under spesialisering. Leger som har inngått avtale om veiledet tjeneste med kommunen før 1. mars 2017 får mulighet til å gjennomføre avtalt tjeneste innenfor rammene denne forskriften setter. § 9 – § 10 videreføres fordi det er hjemmelen for norske myndigheter til å bekrefte at den veiledete tjenesten er gjennomført i samsvar med bestemmelsene i direktiv [2005/36/EF](eu/32005l0036*). Leger som gjennomfører spesialiteten i allmennmedisin gis slikt bevis med hjemmel i denne bestemmelsen. [§ 11](forskrift/2005-12-19-1653/§11) fjerde ledd er en særskilt overgangsregel for en gruppe leger. Disse rettighetene videreføres i ny ordning.
 
+*Tredje ledd – leger i fastlegehjemmel e.l. per 31. desember 2005*
+
 Bestemmelsen sier at forskriftens krav om tre års veiledet tjeneste gjelder for leger som etter 31. desember 2005 tiltrer en fastlegehjemmel eller stilling ved kommunal legevakt for første gang. Dette vil særlig gjelde nyutdannede leger.
 
 Det følger av dette at retten til å utøve virksomhet som allmennlege med trygderefusjon i Norge med mindre enn tre års veiledet tjeneste, anses ervervet av leger som per 31. desember 2005 arbeidet i en fastlegehjemmel. For disse legene er det tilstrekkelig at de oppfyller kravet om minst to års veiledet tjeneste. Reglene gjelder tilsvarende for leger i stilling ved kommunal legevakt. Bestemmelsen implementerer artikkel 30 i yrkeskvalifikasjonsdirektivet som krever at hver medlemsstat spesifiserer de ervervede rettigheter den anerkjenner.
 
+*Fjerde ledd – leger som tiltrer ny fastlegehjemmel e.l.*
+
 For leger som per 31. desember 2005 utøvet virksomhet som allmennlege med trygderefusjon i Norge er det tilstrekkelig med to års veiledet tjeneste for å beholde retten til trygderefusjon. Det samme gjelder dersom legen på et senere tidspunkt skifter jobb ved å begynne i en ny fastlegehjemmel/legevaktstilling. Leger som var fastleger per 31. desember 2005 trenger dermed ikke søke direktoratet om godkjenning når de på et senere tidspunkt tiltrer en annen fastlegehjemmel. Dette gjelder tilsvarende for leger i stilling ved kommunal legevakt.
 
 Leger som ikke utøvet virksomhet som allmennlege med rett til trygderefusjon per 31. desember 2005, men som utøvet slik virksomhet over kortere eller lengre tid før dette tidspunktet og som på nytt tiltrer en fastlegehjemmel e.l. etter 1. januar 2006, omfattes derimot av kravet til tre års veiledet tjeneste.
+
+*Lover, forskrifter og direktiv*
+
+|  |  |
+| --- | --- |
+| *EØS-forskriften* | [Forskrift 8. oktober 2008 nr. 1130](forskrift/2008-10-08-1130) om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits |
+| *Fastlegeforskriften* | [Forskrift 29. august 2012 nr. 842](forskrift/2012-08-29-842) om fastlegeordning i kommunene |
+| *Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege* | [Forskrift 25. juni 2014 nr. 872](forskrift/2014-06-25-872) |
+| *Forskrift om trygderefusjon* | [Forskrift 18. juni 1998 nr. 590](forskrift/1998-06-18-590) om rett til trygderefusjon for leger, spesialister i klinisk psykologi og fysioterapeuter |
+| *Forskrift om veiledet tjeneste* | [Forskrift 19. desember 2005 nr. 1653](forskrift/2005-12-19-1653) om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon |
+| *Forvaltningsloven* | [Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker |
+| *Helsepersonelloven* | Lov 2. juli 1999 nr. 64 om helsepersonell m.v. |
+| *Spesialistgodkjenningsforskriften* | [Forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger |
+| *Spesialisthelsetjenesteloven* | Lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. |
+| *Turnusforskriften* | [Forskrift 20. desember 2001 nr. 1549](forskrift/2001-12-20-1549) om praktisk tjeneste (turnustjeneste) for lege ved loddtrekning |
+| *Yrkeskvalifikasjonsdirektivet* | Direktiv [2005/26/EF](eu/32005l0026) om godkjenning av faglige kvalifikasjoner |
 
 > Merknadene endret ved [forskrifter 21 juni 2006 nr. 693](forskrift/2006-06-21-693) (i kraft 1 juli 2006) og [8 jan 2009 nr. 5](forskrift/2009-01-08-5). Endret uten kunngjøring i Norsk Lovtidend 8 jan 2009 og 6 des 2012. Endret ved [forskrift 19 des 2013 nr. 1641](forskrift/2013-12-19-1641). Endret uten kunngjøring i Norsk Lovtidend 14 juli 2014, 5 aug 2014, 1 sep 2014, 17 april 2015 (i kraft 1 april 2015) og 20 april 2016. Endret ved [forskrifter 24 feb 2017 nr. 219](forskrift/2017-02-24-219) (i kraft 1 mars 2017), [2 juni 2022 nr. 977](forskrift/2022-06-02-977) (i kraft 16 sep 2022).

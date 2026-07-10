@@ -26,9 +26,13 @@ eu_basis: []
 
 Vestre Finnmark tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Alta (rettssted Alta)
+
 - Alta kommune
 - Loppa kommune
 - Kvænangen kommune.
+
+Trekningskrets 2 Hammerfest (rettssted Hámmerfeasta/Hammerfest)
 
 - Hámmerfeasta/Hammerfest kommune
 - Hasvik kommune

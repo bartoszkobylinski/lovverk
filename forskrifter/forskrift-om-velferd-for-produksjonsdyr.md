@@ -98,6 +98,8 @@ Ingen legemidler eller andre substanser skal tilføres dyr, unntatt dersom form�
 
 Dette gjelder ikke dersom etablert erfaring eller vitenskapelig undersøkelse viser at substansen ikke har skadelige virkninger på dyrets helse eller velferd.
 
+1 Zooteknisk behandling er beskrevet i direktiv [96/22/EF](eu/31996l0022) art. 1 (2) c av 29. april 1996 om forbud mot anvendelse av visse stoffer med hormonal og thyreostatisk virkning og av β-agonister i husdyrbruk.
+
 ## § 12. Avl
 
 Avl, herunder bruk av naturlige eller kunstige avlsmetoder, skal ikke gjennomføres hvis det medfører eller kan medføre lidelse eller skade for noen av de involverte dyrene.

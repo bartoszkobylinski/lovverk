@@ -40,9 +40,19 @@ Denne forskriften trer i kraft straks.
 
 Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EU) 2017/2158](eu/32017r2158).
 
+► **B** Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158) av 20. november 2017
+
 ### Kommisjonsforordning [(EU) 2017/2158](eu/32017r2158)
 av 20. november 2017
 om fastsettelse av begrensende tiltak og referansenivåer for å redusere forekomsten av akrylamid i næringsmidler
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1 særlig artikkel 4 nr. 4, og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EF) nr. 852/2004](eu/32004r0852*) har som mål å sikre et høyt nivå av forbrukervern med hensyn til næringsmiddeltrygghet. Den definerer «næringsmiddelhygiene» som et sett av tiltak og vilkår som er nødvendige for å kontrollere farer og sikre at et næringsmiddel er egnet til konsum med hensyn til dets bruksområde. Risikoer for næringsmiddeltryggheten oppstår når næringsmiddelet er utsatt for farlige stoffer som fører til forurensning av næringsmiddelet. Næringsmiddelfarer kan være biologiske, kjemiske eller fysiske.
 2. Akrylamid er et forurensende stoff som definert i rådsforordning [(EØF) nr. 315/93](eu/31993r0315)2 og utgjør som sådan en kjemisk fare i næringsmiddelkjeden.
@@ -62,39 +72,55 @@ om fastsettelse av begrensende tiltak og referansenivåer for å redusere foreko
 16. De driftsansvarlige for næringsmiddelforetaks gjennomføring av begrensende tiltak kan innebære endringer i deres nåværende produksjonsprosess, og det bør derfor fastsettes en overgangsperiode før tiltakene fastsatt i denne forordning får anvendelse.
 17. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 139 av 30.4.2004, s. 1.
+
+2 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).
+
+3 Kommisjonsrekommandasjon [2013/647/EU](eu/32013h0647) av 8. november 2013 om undersøkelser av akrylamidinnhold i næringsmidler (EUT L 301 av 12.11.2013, s. 15).
+
+4 EFSA Journal 2015, 13(6):4104.
+
+5 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Virkeområde
 
-1. Uten at det berører gjeldende bestemmelser i unionsretten på næringsmiddelområdet, skal driftsansvarlige for næringsmiddelforetak som produserer og bringer i omsetning næringsmidler som er oppført i nr. 2, i samsvar med artikkel 2 iverksette begrensende tiltak fastsatt i vedlegg I og II, med henblikk på å oppnå så lavt akrylamidinnhold som det med rimelighet er mulig å oppnå og under referansenivåene fastsatt i vedlegg IV.
+1\. Uten at det berører gjeldende bestemmelser i unionsretten på næringsmiddelområdet, skal driftsansvarlige for næringsmiddelforetak som produserer og bringer i omsetning næringsmidler som er oppført i nr. 2, i samsvar med artikkel 2 iverksette begrensende tiltak fastsatt i vedlegg I og II, med henblikk på å oppnå så lavt akrylamidinnhold som det med rimelighet er mulig å oppnå og under referansenivåene fastsatt i vedlegg IV.
 
-2. Næringsmidlene nevnt i nr. 1 er som følger:Pommes frites, andre oppskårede (frityrstekte) produkter og skivet potetgull framstilt av ferske poteter.Potetgull, snacks, kjeks og andre potetprodukter framstilt av potetdeig.Brød.Frokostkorn (unntatt grøt).Fine bakervarer: småkaker, kjeks, kavringer, kornstenger, scones, iskjeks, vaffelkjeks, engelske muffins (crumpets) og pepperkaker (gingerbread), samt smørbrødkjeks (cracker), knekkebrød og brøderstatninger. I denne kategorien er cracker en tørr kjeks (et bakverk basert på mel).Kaffe.Brent kaffe.Pulverkaffe (oppløselig).Kaffeerstatninger.Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609).6
+2\. Næringsmidlene nevnt i nr. 1 er som følger:Pommes frites, andre oppskårede (frityrstekte) produkter og skivet potetgull framstilt av ferske poteter.Potetgull, snacks, kjeks og andre potetprodukter framstilt av potetdeig.Brød.Frokostkorn (unntatt grøt).Fine bakervarer: småkaker, kjeks, kavringer, kornstenger, scones, iskjeks, vaffelkjeks, engelske muffins (crumpets) og pepperkaker (gingerbread), samt smørbrødkjeks (cracker), knekkebrød og brøderstatninger. I denne kategorien er cracker en tørr kjeks (et bakverk basert på mel).Kaffe.Brent kaffe.Pulverkaffe (oppløselig).Kaffeerstatninger.Barnemat og bearbeidede kornbaserte næringsmidler beregnet på spedbarn og småbarn som definert i europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609).6
+
+6 Europaparlaments- og rådsforordning [(EU) nr. 609/2013](eu/32013r0609) av 12. juni 2013 om næringsmidler til spedbarn og småbarn, næringsmidler til spesielle medisinske formål og totale kosterstatninger for vektkontroll og om oppheving av rådsdirektiv [92/52/EØF](eu/31992l0052), kommisjonsdirektiv [96/8/EF](eu/31996l0008), [1999/21/EF](eu/31999l0021*), [2006/125/EF](eu/32006l0125) og [2006/141/EF](eu/32006l0141), europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039) og kommisjonsforordning [(EF) nr. 41/2009](eu/32009r0041) og (EF) [nr. 953/2009](eu/32009r0953) (EUT L 181 av 29.6.2013, s. 35).
 
 ### Artikkel 2. Begrensende tiltak
 
-1. Driftsansvarlige for næringsmiddelforetak som produserer og bringer i omsetning næringsmidler som er oppført i artikkel 1 nr. 2, skal iverksette begrensende tiltak fastsatt i vedlegg I.
+1\. Driftsansvarlige for næringsmiddelforetak som produserer og bringer i omsetning næringsmidler som er oppført i artikkel 1 nr. 2, skal iverksette begrensende tiltak fastsatt i vedlegg I.
 
-2. Som unntak fra nr. 1 kan driftsansvarlige for næringsmiddelforetak som produserer næringsmidlene oppført i artikkel 1 nr. 2, som driver detaljsalg og/eller leverer direkte bare til lokale detaljister, iverksette begrensende tiltak fastsatt i del A i vedlegg II.
+2\. Som unntak fra nr. 1 kan driftsansvarlige for næringsmiddelforetak som produserer næringsmidlene oppført i artikkel 1 nr. 2, som driver detaljsalg og/eller leverer direkte bare til lokale detaljister, iverksette begrensende tiltak fastsatt i del A i vedlegg II.
 
-3. Driftsansvarlige for næringsmiddelforetak som nevnt i nr. 2, som driver virksomhet i anlegg som står under direkte kontroll, og som driver virksomhet under ett varemerke eller en kommersiell lisens, som en del av eller franchise av en større, sammenkoplet virksomhet, og som får instruksjoner fra den driftsansvarlige for næringsmiddelforetaket som sentralt leverer de næringsmidlene som er nevnt i artikkel 1 nr. 2, skal iverksette ytterligere begrensende tiltak fastsatt i del B i vedlegg II.
+3\. Driftsansvarlige for næringsmiddelforetak som nevnt i nr. 2, som driver virksomhet i anlegg som står under direkte kontroll, og som driver virksomhet under ett varemerke eller en kommersiell lisens, som en del av eller franchise av en større, sammenkoplet virksomhet, og som får instruksjoner fra den driftsansvarlige for næringsmiddelforetaket som sentralt leverer de næringsmidlene som er nevnt i artikkel 1 nr. 2, skal iverksette ytterligere begrensende tiltak fastsatt i del B i vedlegg II.
 
-4. Når referansenivåene overskrides, skal den driftsansvarlige for næringsmiddelforetak gjennomgå de begrensende tiltakene som er iverksatt, og tilpasse prosessene og kontrollene med sikte på å oppnå akrylamidinnhold som er så lavt som det med rimelighet er mulig å oppnå og under referansenivåene fastsatt i vedlegg IV. Driftsansvarlige for næringsmiddelforetak skal ta hensyn til næringsmiddeltryggheten, særlige produksjonsforhold og geografiske forhold eller produktegenskaper.
+4\. Når referansenivåene overskrides, skal den driftsansvarlige for næringsmiddelforetak gjennomgå de begrensende tiltakene som er iverksatt, og tilpasse prosessene og kontrollene med sikte på å oppnå akrylamidinnhold som er så lavt som det med rimelighet er mulig å oppnå og under referansenivåene fastsatt i vedlegg IV. Driftsansvarlige for næringsmiddelforetak skal ta hensyn til næringsmiddeltryggheten, særlige produksjonsforhold og geografiske forhold eller produktegenskaper.
 
 ### Artikkel 3. Definisjoner
 
 I denne forordning menes med«næringsmidler», «driftsansvarlig for næringsmiddelforetak», «detaljhandel», «bringe i omsetning» og «sluttforbruker» de definisjonene som er fastsatt i artikkel 2 og 3 europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178).7«referansenivåer» ytelsesindikatorer som brukes til å kontrollere effektiviteten av de begrensende tiltakene, og som bygger på erfaringer og forekomst for store næringsmiddelkategorier.
 
+7 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
 ### Artikkel 4. Prøvetaking og analyse
 
-1. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 skal opprette et program for sin egen prøvetaking og analyse av akrylamidinnholdet i næringsmidler oppført i artikkel 1 nr. 2.
+1\. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 skal opprette et program for sin egen prøvetaking og analyse av akrylamidinnholdet i næringsmidler oppført i artikkel 1 nr. 2.
 
-2. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 skal føre et register over de iverksatte begrensende tiltakene fastsatt i vedlegg I.
+2\. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 skal føre et register over de iverksatte begrensende tiltakene fastsatt i vedlegg I.
 
-3. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 3 skal føre et register over de iverksatte begrensende tiltakene fastsatt i del A og B i vedlegg II.
+3\. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 3 skal føre et register over de iverksatte begrensende tiltakene fastsatt i del A og B i vedlegg II.
 
-4. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 og 3 skal utføre prøvetaking og analyse for å bestemme akrylamidinnholdet i næringsmidler i samsvar med kravene fastsatt i vedlegg III, og skal registrere resultatene av prøvetakingen og analysen.
+4\. Driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 1 og 3 skal utføre prøvetaking og analyse for å bestemme akrylamidinnholdet i næringsmidler i samsvar med kravene fastsatt i vedlegg III, og skal registrere resultatene av prøvetakingen og analysen.
 
-5. Dersom resultatene av prøvetakingen og analysen viser at akrylamidinnholdet ikke er lavere enn referansenivåene fastsatt i vedlegg IV, skal driftsansvarlige for næringsmiddelforetak nevnt i artikkel 2 nr. 1 og 3, omgående vurdere de begrensende tiltakene i samsvar med artikkel 2 nr. 4.
+5\. Dersom resultatene av prøvetakingen og analysen viser at akrylamidinnholdet ikke er lavere enn referansenivåene fastsatt i vedlegg IV, skal driftsansvarlige for næringsmiddelforetak nevnt i artikkel 2 nr. 1 og 3, omgående vurdere de begrensende tiltakene i samsvar med artikkel 2 nr. 4.
 
-6. Som unntak får denne artikkel ikke anvendelse på driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 2. Disse driftsansvarlige for næringsmiddelforetak skal kunne dokumentere at de begrensende tiltakene fastsatt i del A i vedlegg II, er iverksatt.
+6\. Som unntak får denne artikkel ikke anvendelse på driftsansvarlige for næringsmiddelforetak som nevnt i artikkel 2 nr. 2. Disse driftsansvarlige for næringsmiddelforetak skal kunne dokumentere at de begrensende tiltakene fastsatt i del A i vedlegg II, er iverksatt.
 
 ### Artikkel 5. Gjennomgåelse av akrylamidinnholdet
 
@@ -110,29 +136,53 @@ Den får anvendelse fra 11. april 2018.
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
+Utferdiget i Brussel 20. november 2017.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG I
 BEGRENSENDE TILTAK NEVNT I ARTIKKEL 2 NR. 1
 
 Dersom de begrensende tiltakene nevnt i dette vedlegg omfatter bruk av tilsetningsstoffer i næringsmidler og andre stoffer, skal tilsetningsstoffene i næringsmidler og andre stoffer brukes i samsvar med bestemmelsene fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332)8 og (EF) [nr. 1333/2008](eu/32008r1333)9 samt kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231).10
 
+I.
+
 PRODUKTER BASERT PÅ RÅ POTETER
+
+*Utvalg av egnede potetsorter*
 
 1. De driftsansvarlige for næringsmiddelforetak (heretter kalt «driftsansvarlige») skal identifisere og bruke potetsorter som er egnet til produkttypen og som for de regionale forholdene har det laveste innholdet av forløpere til akrylamid, for eksempel reduserende sukker (fruktose og glukose) og asparagin.
 2. De driftsansvarlige skal bruke potetsorter som har vært lagret under de forholdene som gjelder for en bestemt potetsort og i den lagringsperioden som er fastsatt for denne sorten. De lagrede potetene skal brukes innenfor sin optimale lagringstid.
 3. De driftsansvarlige skal identifisere potetsorter med lavere potensial for dannelse av akrylamid under dyrking, lagring og bearbeiding av næringsmidler. Resultatene skal dokumenteres.
 
+*Godkjenningskriterier*
+
 1. De driftsansvarlige skal i sine ordninger for levering av poteter angi det høyeste tillatte innholdet av reduserende sukker i poteter og også den maksimale mengden av poteter med støtskader, flekker eller andre skader.
 2. Dersom det angitte innholdet av reduserende sukker i poteter og mengden av poteter med støtskader, flekker eller andre skader overskrides, kan de driftsansvarlige motta potetleveringen ved å angi ytterligere tilgjengelige begrensende tiltak som skal treffes for å sikre at forekomsten av akrylamid i sluttproduktet er så lav som det med rimelighet er mulig å oppnå og under referansenivået fastsatt i vedlegg IV.
+
+*Lagring og transport av poteter*
 
 1. Når de driftsansvarlige driver sine egne lagringsanleggskal temperaturen være tilpasset den potetsorten som lagres, og være over 6 °C,skal fuktigheten være på et nivå som sikrer minst mulig sukkerdannelse i potene på grunn av aldring,groing skal hindres i langtidslagrede poteter når det er tillatt, ved hjelp av egnede midler,skal innholdet av reduserende sukker i poteter testes under lagringen.
 2. Potetpartier skal overvåkes for reduserende sukker på tidspunktet for innhøsting.
 3. De driftsansvarlige skal angi transportvilkårene for poteter med hensyn til temperatur og varighet, særlig dersom utendørstemperaturen er betydelig lavere enn de temperaturene potetene lagres under, for å sikre at temperaturen under transport av poteter ikke er lavere enn temperaturen under lagring. Disse spesifikasjonene skal dokumenteres.SKIVET POTETGULL*Oppskrift og prosessutforming*For hver produktutforming skal de driftsansvarlige angi frityroljetemperaturene ved utgangen av frityrapparatet. Temperaturene skal være så lave som praktisk mulig for en bestemt produksjonslinje og for det bestemte produktet, i samsvar med standardene for kvalitet og næringsmiddeltrygghet og med hensyn til relevante faktorer som frityrapparatprodusent, frityrapparattype, potetsort, tørrstoff i alt, potetstørrelse, vekstforhold, sukkerinnhold, sesongvariasjoner og bestemte svingninger og målvanninnhold for produktet.Dersom frityroljetemperaturen ved utgangen av frityrapparatet er høyere enn 168 °C på grunn av et bestemt produkt, en bestemt utforming eller en bestemt teknologi, skal de driftsansvarlige framlegge opplysninger som viser at akrylamidinnholdet i det ferdige produktet er så lavt som det med rimelighet er mulig å oppnå, og at referansenivået fastsatt i vedlegg IV er oppnådd.For hver produktutforming skal de driftsansvarlige angi vanninnholdet etter fritering, da det skal være så høyt som mulig for en bestemt produksjonslinje og for et bestemt produkt, i samsvar med forventede standarder for kvalitet og næringsmiddeltrygghet, og idet det tas hensyn til relevante faktorer som potetsort, sesongvariasjoner, knollstørrelse og temperaturen ved utgangen av frityrapparatet. Minste vanninnhold skal ikke være lavere enn 1,0 %.De driftsansvarlige skal bruke fargesortering i produksjonslinjen (manuell og/eller optisk–elektronisk sortering) for potetgull etter frityrsteking.POMMES FRITES OG ANDRE OPPSKÅREDE FRITYRSTEKTE ELLER OVNSSTEKTE POTETPRODUKTER*Oppskrift og prosessutforming*Poteter skal testes for reduserende sukker før de brukes. Dette kan gjøres ved hjelp av friteringstester med bruk av farger som en indikator på potensielt høyt innhold av reduserende sukker: veiledende friteringstest av 20–25 midtbiter, som frityrstekes for å vurdere de frityrstekte potetbitenes farge mot fargespesifikasjonen ved hjelp av et USDA/Munsell-fargekart eller kalibrerte foretaksspesifikke diagrammer for små virksomheter. Alternativt kan den samlede ferdige friteringsfargen måles med spesialutstyr (f.eks. Agtron).De driftsansvarlige skal fjerne umodne rotknoller med lav vekt under vann og høyt nivå av reduserende sukker. Dette kan skje ved at rotknollene føres gjennom en saltlake eller lignende systemer som gjør at umodne rotknoller flyter, eller ved å forvaske potetene for å oppdage dårlige rotknoller.De driftsansvarlige skal fjerne småbiter fra oppskjæringen umiddelbart etter oppskjæringen for å unngå brente biter i det tilberedte sluttproduktet.De driftsansvarlige skal blansjere potetbiter for å fjerne noe av det reduserende sukkeret fra utsiden av bitene.De driftsansvarlige skal tilpasse blansjeringen til den innkommende råvarens særlige kvalitetsegenskaper, og de skal holde seg innenfor spesifikasjonsgrensene for det ferdige produktets farge.De driftsansvarlige skal hindre (enzymatisk) misfarging og at potetproduktene mørkner etter koking. Dette kan gjøres ved å bruke dinatriumdifosfat (E450), som også senker pH-verdien i vaskevannet og hindrer bruningsreaksjonen.Det bør unngås å bruke reduserende sukker som bruningsmiddel. Det kan bare brukes dersom det er nødvendig for konsekvent å holde seg innenfor spesifikasjonsgrensene. De driftsansvarlige skal kontrollere fargen på sluttproduktet ved å utføre fargekontroller av det tilberedte sluttproduktet. Dersom det er behov for det etter blansjering, gjør en kontrollert tilsetting av dekstrose det mulig å oppnå den endelige fargespesifikasjonen. Kontrollert tilsetting av dekstrose etter blansjering fører til lavere akrylamidinnhold i det tilberedte sluttproduktet, med samme farge som ublansjerte produkter med bare naturlig akkumulert reduserende sukker.*Informasjon til sluttbrukerne*For sluttbrukerne skal de driftsansvarlige angi anbefalte tilberedningsmetoder med angivelse av tid, temperatur, mengde for stekeovn/frityrapparat/stekepanne på emballasjen og/eller via andre kommunikasjonskanaler. For forbrukerne skal de anbefalte tilberedningsanvisningene vises godt synlig på all produktemballasje i samsvar med europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*)11 om næringsmiddelopplysninger til forbrukerne.De anbefalte tilberedningsmetodene skal være i samsvar med kundens spesifikasjoner og krav fra profesjonelle sluttbrukere, og de skal valideres per produkttype for å sikre at produktene har optimal organoleptisk kvalitet ved den lyseste akseptable fargen, per angitt tilberedningsmetode (f.eks. frityrapparat eller stekeovn), og har et akrylamidinnhold som ligger under referansenivået fastsatt i vedlegg IV.De driftsansvarlige skal anbefale andre sluttbrukere enn forbrukere å ha verktøy til rådighet for brukere (f.eks. kokker) for å sikre korrekte tilberedningsmetoder, og at de leverer kalibrert utstyr (f.eks. tidsmålere, friteringsdiagrammer, fargekart (f.eks. USDA/Munsell) og som minimum tydelige bilder med ønsket endelig farge på det tilberedte sluttproduktet.De driftsansvarlige skal særlig anbefale sluttbrukerne følgende:Å holde temperaturen på mellom 160 og 175 °C ved frityrsteking, og mellom 180 og 220 °C når det brukes en stekeovn. Lavere temperatur kan brukes dersom viften er slått på.Å forvarme tilberedningsapparatet (f.eks. stekeovn, frityrapparat med varmluft) til korrekt temperatur mellom 180 og 220 °C i henhold til tilberedningsanvisningene på emballasjen, avhengig av produktspesifikasjonene og lokale krav.Å tilberede potetene til de får gyllen farge.Å ikke tilberede dem for lenge.Å snu ovnsprodukter etter 10 minutter eller halvveis gjennom den samlede tilberedningstiden.Å følge de anbefalte tilberedningsanvisningene, som angitt av produsenten.Å redusere tilberedningstiden når mindre mengder poteter enn det som er angitt på emballasjen tilberedes, for å unngå overdreven brunfarging av produktet.Å ikke fylle frityrkurven for mye. Fyll kurven halvveis opp til midtmerket for å unngå for stort opptak av olje som følge av lengre friteringstid.
 
+II.
+
 POTETGULL, SNACKS, KJEKS OG ANDRE PRODUKTER FRAMSTILT AV POTETDEIG.
+
+*Råvarer*
 
 1. For hvert produkt skal de driftsansvarlige fastsette målverdier for reduserende sukker i de dehydrerte potetingrediensene.
 2. Målverdien for reduserende sukker i de berørte produktene skal settes så lavt som mulig, samtidig som det tas hensyn til alle relevante faktorer i utformingen og produksjonen av det ferdige produktet, som for eksempel mengden av potetingredienser i oppskriften, eventuelle ytterligere begrensende tiltak, for videreforedling av deigen, sesongvariasjoner og vanninnholdet i det ferdige produktet.
 3. Dersom innholdet av reduserende sukker er høyere enn 1,5 % skal de driftsansvarlige framlegge opplysninger som viser at akrylamidinnholdet i det ferdige produktet er så lavt som det med rimelighet er mulig å oppnå og under referansenivået fastsatt i vedlegg IV.
+
+*Oppskrift og prosessutforming*
 
 1. Dehydrerte potetingredienser skal analyseres før de brukes, enten av leverandøren eller av brukeren for å bekrefte at sukkerinnholdet ikke overskrider det angitte nivået.
 2. Dersom de dehydrerte potetingrediensene overskrider det angitte sukkerinnholdet, skal de driftsansvarlige angi hvilke ytterligere begrensende tiltak som skal treffes for å sikre at akrylamidinnholdet i sluttproduktet er så lavt som det med rimelighet er mulig å oppnå og under referansenivået fastsatt i vedlegg IV.
@@ -145,23 +195,37 @@ POTETGULL, SNACKS, KJEKS OG ANDRE PRODUKTER FRAMSTILT AV POTETDEIG.
 9. Dersom produkttemperaturen er høyere enn 175 °C ved utgangen av bake-/tørkeprosessen, skal de driftsansvarlige framlegge opplysninger som viser at akrylamidinnholdet i det ferdige produktet er lavere enn referansenivået fastsatt i vedlegg IV.
 10. For hvert produkt skal de driftsansvarlige angi vanninnholdet etter frityrsteking eller ovnsbaking, da dette skal være så høyt som mulig for en bestemt produksjonslinje og for et bestemt produkt, i samsvar med kravene til produktkvalitet og næringsmiddeltrygghet, og med hensyn til temperaturen ved utgangen av frityrapparatet, under baking eller tørking. Vanninnholdet i sluttproduktet skal ikke være lavere enn 1,0 %.
 
+III.
+
 FINE BAKERVARER
 
 De begrensende tiltakene i dette kapittelet gjelder for fine bakervarer som småkaker, kjeks, kavringer, kornstenger, scones, iskjeks, vaffelkjeks, engelske muffins (crumpets) og pepperkaker (gingerbread), samt usøtede produkter som smørbrødkjeks (crackers), knekkebrød og brøderstatninger. I denne kategorien er cracker en tørr kjeks (et bakverk basert på mel), f.eks. salte kjeks, rugknekkebrød og matzot (usyret brød).
 
+*Agronomi*
+
 For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:Å følge god landbrukspraksis for gjødsling, særlig med hensyn til å opprettholde et balansert svovelinnhold i jorden og sikre en korrekt nitrogentilførsel.Å følge god plantehelsepraksis for å sikre gjennomføring av planteverntiltak for å hindre soppinfeksjoner.
 
 De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.
+
+*Oppskrift og produktutforming*
 
 I produksjonsprosessen skal de driftsansvarlige iverksette følgende begrensende tiltak:For relevante produkter skal de driftsansvarlige vurdere helt eller delvis å redusere eller erstatte ammoniumbikarbonat med alternative hevemidler, for eksempelnatriumbikarbonat og syregivende midler, ellernatriumbikarbonat og dinatriumdifosfat med organiske syrer eller kaliumvarianter av disse.Som et ledd i denne betraktningen skal de driftsansvarlige sikre at bruken av nevnte alternative hevemidler ikke fører til organoleptiske endringer (smak, utseende, tekstur osv.) eller øker det samlede natriuminnholdet som påvirker produktidentiteten og forbrukernes aksept.For produkter der produktets utforming gjør det mulig, skal de driftsansvarlige erstatte fruktose eller ingredienser som inneholder fruktose, som sirup og honning med glukose eller ikke-reduserende sukker som sukrose, særlig i oppskrifter som inneholder ammoniumbikarbonat når det er mulig, og idet det tas hensyn til at erstatning av fruktose eller andre reduserende sukker kan føre til at produktidentiteten endres som følge av tap av aroma og fargedannelse.De driftsansvarlige skal bruke asparaginase når det er effektivt og mulig for å redusere asparagin og begrense risikoen for at det dannes akrylamid. De driftsansvarlige skal ta hensyn til at bruken av asparaginase har begrenset eller ingen innvirkning på akrylamidinnholdet i oppskrifter med høyt fettinnhold, lavt vanninnhold eller høy pH-verdi.Dersom en produktegenskap tillater det, skal de driftsansvarlige vurdere om det er mulig delvis å erstatte hvetemel med alternative mel, f.eks. av ris, idet det tas hensyn til at enhver endring vil få innvirkning på bakeprosessen og produktets organoleptiske egenskaper. Forskjellige typer korn har vist seg å ha ulikt innhold av asparagin (typisk er asparagininnholdet høyest i rug og i fallende orden lavere i havre, hvete, mais og lavest i ris).De driftsansvarlige skal i risikovurderingen ta hensyn til virkningen av ingrediensene i fine bakervarer som kan øke akrylamidinnholdet i sluttproduktet, og bruke ingredienser som ikke har slike virkninger, men bevarer produktenes fysiske og organoleptiske egenskaper (f.eks. mandler som er ristet ved lavere snarere enn høyere temperaturer, og tørket frukt som kilde til fruktose).De driftsansvarlige skal sikre at leverandørene av varmebehandlede ingredienser som kan danne akrylamid, utfører en risikovurdering for akrylamid og gjennomfører egnede begrensende tiltak.De driftsansvarlige skal sikre at en endring i produkter som kommer fra leverandører, ikke fører til økt akrylamidinnhold i slike tilfeller.De driftsansvarlige skal vurdere å tilsette organiske syrer i produksjonsprosessen eller å senke pH-verdien så mye som mulig og rimelig i kombinasjon med andre begrensende tiltak, idet det tas hensyn til at dette kan føre til organoleptiske endringer (mindre brunfarging, endring av smaken).
 
+*Bearbeiding*
+
 De driftsansvarlige skal treffe følgende begrensende tiltak ved framstilling av fine bakervarer og skal sikre at tiltakene som treffes, er forenlige med produktegenskapene og kravene til næringsmiddeltrygghet:De driftsansvarlige skal bruke den varmetilførselen, dvs. den kombinasjonen av tid og temperatur, som er mest effektiv for å redusere dannelsen av akrylamid, samtidig med at de ønskede produktegenskapene oppnås.De driftsansvarlige skal øke vanninnholdet i sluttproduktet slik at de berørte produktenes kvalitet, påkrevde holdbarhetstid og standarder for næringsmiddeltrygghet kan oppnås.Produkter skal bakes til en lysere sluttfarge i sluttproduktet slik at de berørte produktenes kvalitet, påkrevde holdbarhetstid og standarder for næringsmiddeltrygghet kan oppnås.Ved utvikling av nye produkter skal de driftsansvarlige i sin risikovurdering ta hensyn til størrelsen og overflatearealet av et bestemt produkt, idet det tas hensyn til at små produktstørrelser potensielt fører til høyere akrylamidinnhold på grunn av varmepåvirkning.Ettersom visse ingredienser som brukes ved framstilling av fine bakervarer kan bli varmebehandlet flere ganger (f.eks. på grunn av forbehandlede kornbiter, nøtter, frø, tørket frukt osv.), noe som fører til et økt akrylamidinnhold i sluttproduktene, skal de driftsansvarlige justere produkt- og prosessutformingen tilsvarende for å overholde referansenivåene for akrylamidinnhold fastsatt i vedlegg IV. De driftsansvarlige skal særlig ikke bruke brente produkter til ny bearbeiding.For ferdige produktblandinger som er brakt i omsetning for å bakes ferdig hjemme eller i cateringvirksomheter, skal de driftsansvarlige levere tilberedningsanvisninger til sine kunder for å sikre at akrylamidinnholdet i sluttproduktene er så lavt som det med rimelighet er mulig å oppnå og under referansenivåene.
 
+IV.
+
 FROKOSTKORN
+
+*Agronomi*
 
 For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:Å følge god landbrukspraksis for gjødsling, særlig med hensyn til å opprettholde et balansert svovelinnhold i jorden og sikre en korrekt nitrogentilførsel.Å følge god plantehelsepraksis for å sikre gjennomføring av planteverntiltak for å hindre soppinfeksjoner.
 
 De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.
+
+*Oppskrift*
 
 1. Ettersom produkter basert på mais og ris som oftest inneholder mindre akrylamid enn dem som er framstilt av hvete, rug, havre og bygg, skal de driftsansvarlige vurdere å bruke mais og ris ved utvikling av nye produkter når det er relevant, og idet det tas hensyn til at eventuelle endringer vil få innvirkning på produksjonsprosessen og produktenes organoleptiske egenskaper.
 2. De driftsansvarlige skal kontrollere tilsetningsmengdene ved det punktet der reduserende sukker (f.eks. fruktose og glukose) og ingredienser som inneholder reduserende sukker (f.eks. honning) tilsettes, idet det tas hensyn til deres innvirkning på organoleptiske egenskaper og prosessfunksjoner (bindende klynger for klyngedannelse), og som kan fungere som forløpere til dannelse av akrylamid når de tilsettes før varmebehandlingen.
@@ -169,37 +233,61 @@ De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gj
 4. For varmebehandlede ingredienser som inneholder 150 mikrogram akrylamid per kilo (μg/kg) eller mer, skal de driftsansvarlige treffe følgende tiltak:Opprette et register over slike ingredienser.Foreta kontroller av leverandører og/eller analyser.Sikre at leverandøren ikke foretar noen endringer av slike ingredienser som øker akrylamidinnholdet.
 5. Når kornet er i form av en deig av mel og produksjonsprosessen gjør at det er tilstrekkelig tid, temperatur og vanninnhold til at asparaginase kan redusere asparagininnholdet, skal de driftsansvarlige bruke asparaginase dersom det er påkrevd, forutsatt at det ikke har noen negativ innvirkning på aromaen eller risiko for restenzymaktivitet.
 
+*Bearbeiding*
+
 Ved framstilling av frokostkorn skal de driftsansvarlige iverksette følgende begrensende tiltak og skal sikre at tiltakene som treffes, er forenlige med produktegenskapene og kravene til næringsmiddeltrygghet:De driftsansvarlige skal ved hjelp av en risikovurdering identifisere kritiske varmebehandlingstrinn i produksjonsprosessen som genererer akrylamid.Ettersom høyere oppvarmingstemperaturer og lengre oppvarmingstid genererer høyere akrylamidinnhold, skal de driftsansvarlige identifisere en effektiv kombinasjon av temperatur og oppvarmingstid for å minimere dannelsen av akrylamid uten at det går ut over produktets smak, tekstur, farge, sikkerhet og holdbarhetstid.For å unngå at det dannes akrylamidtopper skal de driftsansvarlige kontrollere oppvarmingstemperaturer, -tid og matehastigheter for å oppnå følgende minste vanninnhold i sluttproduktet etter den siste varmebehandlingen, slik at ønsket produktkvalitet, påkrevd holdbarhetstid og standarder for næringsmiddeltrygghet kan oppnås:Ristede produkter: 1 g/100 g for ekstruderte produkter, 1 g/100 g for produkter tilberedt i partier, 2 g/100 g for dampvalsede produkter.Direkte ekspanderte produkter: 0,8 g/100 g for ekstruderte produkter.Bakte produkter: 2 g/100 g for kontinuerlig tilberedte produkter.Fylte produkter: 2 g/100 g for ekstruderte produkter.Annen tørking: 1 g/100 g for produkter tilberedt i partier, 0,8 g/100 g for puffede produkter.De driftsansvarlige skal måle vanninnholdet og uttrykke akrylamidkonsentrasjonen i tørrvekt for å unngå feiltolking av endringer i vanninnholdet.Ny bearbeiding av produktet tilbake gjennom prosessen kan potensielt generere høyere innhold av akrylamid som følge av gjentatt eksponering for varmebehandlingstrinnene. De driftsansvarlige skal derfor vurdere virkningen av ny bearbeiding på akrylamidinnholdet og redusere eller unngå ny bearbeiding.De driftsansvarlige skal ha innført prosedyrer som temperaturkontroll og overvåking, for å hindre forekomsten av brente produkter.
+
+V.
 
 KAFFE
 
+*Oppskrift*
+
 Ved sammensetningen av kaffeblandinger skal de driftsansvarlige ved risikovurderingen ta hensyn til at produkter basert på Robusta-bønner pleier å ha høyere innhold av akrylamid enn produkter basert på Arabica-bønner.
+
+*Bearbeiding*
 
 1. De driftsansvarlige skal identifisere kritiske brenningsforhold for å sikre minst mulig dannelse av akrylamid for den ønskede smaksprofilen.
 2. Kontroll av brenningsforholdene skal inngå i programmets grunnforutsetninger som en del av god framstillingspraksis.
 3. De driftsansvarlige skal vurdere bruk av behandling med asparaginase, i den grad det er mulig og effektivt for å redusere forekomsten av akrylamid.
 
+VI.
+
 KAFFEERSTATNINGER SOM INNEHOLDER MER ENN 50 % KORN
+
+*Agronomi*
 
 For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:Å følge god landbrukspraksis for gjødsling, særlig med hensyn til å opprettholde et balansert svovelinnhold i jorden og sikre en korrekt nitrogentilførsel.Å følge god plantehelsepraksis for å sikre gjennomføring av planteverntiltak for å hindre soppinfeksjoner.
 
 De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.
 
+*Oppskrift*
+
 1. Ettersom produkter basert på mais og ris som oftest inneholder mindre akrylamid enn dem som er framstilt av hvete, rug, havre og bygg, skal de driftsansvarlige vurdere å bruke mais og ris ved utvikling av nye produkter når det er relevant, idet det tas hensyn til at eventuelle endringer vil få innvirkning på produksjonsprosessen og produktenes organoleptiske egenskaper.
 2. De driftsansvarlige skal kontrollere tilsetningsmengdene ved det punktet der reduserende sukker (f.eks. fruktose og glukose) og ingredienser som inneholder reduserende sukker (f.eks. honning) tilsettes, idet det tas hensyn til innvirkningen på organoleptiske egenskaper og prosessfunksjoner (bindende klynger), og som kan fungere som forløpere til dannelse av akrylamid når de tilsettes før varmebehandlingstrinnet.
 3. Dersom kaffeerstatninger ikke utelukkende består av korn, skal de driftsansvarlige når det er relevant, bruke andre ingredienser som fører til lavere akrylamidinnhold etter behandling ved høy temperatur.
 
+*Bearbeiding*
+
 1. De driftsansvarlige skal identifisere kritiske brenningsforhold for å sikre minst mulig dannelse av akrylamid for den ønskede smaksprofilen.
 2. Kontroll av brenningsforholdene skal inngå i programmets grunnforutsetninger som en del av god framstillingspraksis.
+
+VII.
 
 KAFFEERSTATNINGER SOM INNEHOLDER MER ENN 50 % SIKORI
 
 De driftsansvarlige skal bare kjøpe kultivatorer med lavt asparagininnhold, og de skal sikre at ingen sen og altfor stor nitrogentilførsel har funnet sted under dyrkingen av sikori.
 
+*Oppskrift*
+
 Dersom kaffeerstatninger ikke utelukkende består av sikori, dvs. om sikoriinnholdet er mindre enn 100 % og mer enn 50 %, skal de driftsansvarlige tilsette andre ingredienser, for eksempel sikorifibrer og ristet korn, ettersom disse har vist seg å være effektive for å redusere akrylamidinnholdet i sluttproduktet.
+
+*Bearbeiding*
 
 1. De driftsansvarlige skal identifisere kritiske brenningsforhold for å sikre minst mulig dannelse av akrylamid for den ønskede smaksprofilen. Konklusjonene skal dokumenteres.
 2. Kontroll av brenningsforholdene skal inngå i produsentens system for styring av næringsmiddeltrygghet.
+
+VIII.
 
 KJEKS OG KORNBASERTE NÆRINGSMIDLER TIL SPEDBARN OG SMÅBARN12
 
@@ -207,16 +295,22 @@ For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige
 
 De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.
 
+*Produktutforming, bearbeiding og oppvarming*
+
 1. De driftsansvarlige skal bruke asparaginase til å redusere asparagininnholdet i melråvaren i den grad det er mulig. De driftsansvarlige som ikke kan bruke asparaginase på grunn av for eksempel krav til bearbeiding eller produktutforming, skal bruke melråvarer med lavt innhold av forløpere til akrylamid, som fruktose, glukose og asparagin.
 2. De driftsansvarlige skal foreta en vurdering under utviklingen av oppskriften, som gir opplysninger om reduserende sukker og asparagin, og omfatter ulike alternativer for å oppnå lavt innhold av reduserende sukker i den endelige oppskriften. Behovet for denne vurderingen vil avhenge av bruken av asparaginase i oppskriften.
 3. De driftsansvarlige skal sikre at varmebehandlede ingredienser som kan danne akrylamid, kommer fra leverandører som kan dokumentere at de har truffet egnede begrensende tiltak for å redusere forekomsten av akrylamid i disse ingrediensene.
 4. De driftsansvarlige skal ha innført en prosedyre for håndtering av endringer for å sikre at de ikke foretar noen leverandørendringer som øker akrylamidinnholdet.
 5. Dersom bruken av varmebehandlede råvarer og ingredienser fører til at referansenivået for akrylamid i sluttproduktet angitt i vedlegg IV, overskrides, skal de driftsansvarlige gjennomgå bruken av disse produktene med sikte på å oppnå et akrylamidinnhold som er så lavt som det med rimelighet er mulig å oppnå og under referansenivået fastsatt i vedlegg IV.
 
+*Oppskrift*
+
 1. Ettersom produkter basert på mais og ris som oftest inneholder mindre akrylamid enn dem som er framstilt av hvete, rug, havre og bygg, skal de driftsansvarlige vurdere å bruke mais og ris ved utvikling av nye produkter når det er relevant, idet det tas hensyn til at eventuelle endringer vil få innvirkning på produksjonsprosessen og produktenes organoleptiske egenskaper.
 2. De driftsansvarlige skal særlig ved sin risikovurdering ta hensyn til at produkter basert på fullkorn og/eller med et høyt innhold av kornkli, har et høyere akrylamidinnhold.
 3. De driftsansvarlige skal kontrollere tilsetningsmengdene ved det punktet der reduserende sukker (f.eks. fruktose og glukose) og ingredienser som inneholder reduserende sukker (f.eks. honning) tilsettes, idet det tas hensyn til innvirkningen på organoleptiske egenskaper og prosessfunksjoner (bindende klynger), og som kan fungere som forløpere til dannelse av akrylamid når de tilsettes før varmebehandlingstrinnet.
 4. De driftsansvarlige skal fastsette akrylamidbidraget fra varmebehandlede og tørkede ingredienser, for eksempel ristede nøtter og ovnstørkede frukter, og bruke alternative ingredienser dersom bruken av disse ingrediensene fører til at det ferdige produktet overstiger referansenivået fastsatt i vedlegg IV.
+
+*Bearbeiding*
 
 1. De driftsansvarlige skal ved hjelp av en risikovurdering identifisere kritiske varmebehandlingstrinn i produksjonsprosessen som genererer akrylamid.
 2. De driftsansvarlige skal måle vanninnholdet og uttrykke akrylamidkonsentrasjonen i tørrvekt for å unngå feiltolking av endringer i vanninnholdet.
@@ -224,21 +318,33 @@ De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gj
 4. De driftsansvarlige skal kontrollere oppvarmingstemperatur, -tid og matehastighet. Målesystemer for kontroll av matehastighet og temperatur bør kalibreres regelmessig, og disse driftsforholdene bør kontrolleres innenfor fastsatte grenser. Disse oppgavene skal inngå i HACCP-prosedyrene.
 5. Overvåking og kontroll av produktenes vanninnhold etter de kritiske varmebehandlingstrinnene har vist seg å være effektivt for å kontrollere akrylamidinnholdet i enkelte prosesser, og under disse omstendigheten kan denne prosessen derfor være et passende alternativ for å kontrollere oppvarmingstemperatur og -tid, og skal derfor benyttes.
 
+IX.
+
 BARNEMAT PÅ GLASS (NÆRINGSMIDDEL MED LAVT SYREINNHOLD OG BASERT PÅ SVISKER13Til framstilling av barnemat på glass skal de driftsansvarlige velge råvarer med lavt innhold av forløpere til akrylamid, f.eks. reduserende sukker som fruktose, glukose og asparagin.For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:Å følge god landbrukspraksis for gjødsling, særlig med hensyn til å opprettholde et balansert svovelinnhold i jorden og sikre en korrekt nitrogentilførsel.Å følge god plantehelsepraksis for å sikre gjennomføring av planteverntiltak for å hindre soppinfeksjoner.De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.De driftsansvarlige skal i kjøpekontrakter for plommepuré ta med krav som sikrer at det i prosessen for framstilling av plommepuré brukes varmebehandling som sikter mot å redusere forekomsten av akrylamid i dette produktet.De driftsansvarlige skal sikre at varmebehandlede ingredienser som kan danne akrylamid, kommer fra leverandører som kan dokumentere at de har truffet begrensende tiltak for å redusere forekomsten av akrylamid i disse ingrediensene.Dersom bruken av varmebehandlede råvarer og ingredienser fører til at referansenivået for akrylamid i sluttproduktet angitt i vedlegg IV, overskrides, skal de driftsansvarlige gjennomgå bruken av disse materialene og ingrediensene med sikte på å oppnå et akrylamidinnhold som er så lavt som det med rimelighet er mulig å oppnå og under referansenivået fastsatt i vedlegg IV.
+
+*Oppskrift*
 
 1. De driftsansvarlige skal ved sin risikovurdering av *akrylamid* i de berørte næringsmidlene ta hensyn til at produkter basert på fullkorn og/eller med et høyt innhold av kornkli, har et høyere akrylamidinnhold.
 2. De driftsansvarlige skal velge sorter av søtpoteter og svisker som har så lavt innhold som mulig av forløpere til akrylamid, som reduserende sukker (f.eks. fruktose og glukose) og asparagin.
 3. De driftsansvarlige skal kontrollere tilsetningsmengdene ved det punktet der reduserende sukker (f.eks. fruktose og glukose) og ingredienser som inneholder reduserende sukker (f.eks. honning) tilsettes av organoleptiske grunner og for prosessfunksjoner (bindende klynger), og som kan fungere som forløpere til dannelse av akrylamid når de tilsettes før varmebehandlingstrinnet.
 
+*Bearbeiding*
+
 1. De driftsansvarlige skal identifisere de viktigste varmebehandlingstrinnene i prosessen som genererer mest akrylamid, for å fokusere innsatsen for ytterligere akrylamidreduksjon/-kontroll så effektivt som mulig. Dette skal oppnås enten gjennom en risikovurdering eller ved direkte måling av akrylamidinnholdet i produktet før og etter hvert varmebehandlingstrinn.
 2. For å unngå at det dannes akrylamidtopper skal de driftsansvarlig kontrollere oppvarmingstemperatur, -tid og matehastigheter. Målesystemer for kontroll av matehastighet og temperatur bør kalibreres regelmessig, og disse driftsforholdene bør kontrolleres innenfor fastsatte grenser. Disse oppgavene skal inngå i HACCP-prosedyrene.
 3. De driftsansvarlige skal sikre at reduksjon av varmetilførselen for å senke akrylamidinnholdet i næringsmidler med lavt syreinnhold og basert på svisker, ikke påvirker de berørte næringsmidlenes mikrobiologiske trygghet.
 
+X.
+
 BRØD
+
+*Agronomi*
 
 For kontraktslandbruk, dersom landbruksprodukter leveres til de driftsansvarlige direkte fra produsentene, skal de driftsansvarlige sikre at følgende krav for å hindre forhøyet asparagininnhold i korn, oppfylles:Å følge god landbrukspraksis for gjødsling, særlig med hensyn til å opprettholde et balansert svovelinnhold i jorden og sikre en korrekt nitrogentilførsel.Å følge god plantehelsepraksis for å sikre gjennomføring av planteverntiltak for å hindre soppinfeksjoner.
 
 De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gjennomføring av ovennevnte krav.
+
+*Produktutforming, bearbeiding og oppvarming*
 
 1. De driftsansvarlige skal sikre at brød bakes til en lysere sluttfarge for å redusere dannelsen av akrylamid, samtidig som det tas hensyn til individuell produktutforming og tekniske muligheter.
 2. De driftsansvarlige skal forlenge gjæringstiden, samtidig som det tas hensyn til produktutformingen og de tekniske mulighetene.
@@ -247,6 +353,18 @@ De driftsansvarlige skal gjennomføre kontroller for å bekrefte den faktiske gj
 5. De driftsansvarlige skal erstatte ingredienser som potensielt kan øke akrylamidinnholdet i sluttproduktet dersom dette er forenlig med produktutforming og tekniske muligheter, som for eksempel omfatter nøtter og frø som er ristet ved lavere snarere enn høyere temperaturer.
 6. De driftsansvarlige skal erstatte fruktose med glukose særlig i oppskrifter som inneholder ammoniumbikarbonat (E503) dersom produktets utforming tillater det og i den grad det er mulig. Dette omfatter for eksempel å erstatte sirup av invertsukker og honning, som inneholder høyere nivåer av fruktose, med glukosesirup.
 7. I produkter med lavt vanninnhold skal de driftsansvarlige bruke asparaginase for å redusere asparagin i den grad det er mulig og idet det tas hensyn til produktets oppskrift, ingredienser, vanninnhold og prosess.
+
+8 Europaparlaments- og rådsforordning [(EF) nr. 1332/2008](eu/32008r1332) av 16. desember 2008 om næringsmiddelenzymer og om endring av rådsdirektiv [83/417/EØF](eu/31983l0417), rådsforordning [(EF) nr. 1493/1999](eu/31999r1493), direktiv [2000/13/EF](eu/32000l0013*), rådsdirektiv [2001/112/EF](eu/32001l0112) og forordning [(EF) nr. 258/97](eu/31997r0258) (EUT L 354 av 31.12.2008, s. 7).
+
+9 Europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) av 16. desember 2008 om tilsetningsstoffer i næringsmidler (EUT L 354 av 31.12.2008, s. 16).
+
+10 Kommisjonsforordning [(EU) nr. 231/2012](eu/32012r0231) av 9. mars 2012 om fastsettelse av spesifikasjoner for tilsetningsstoffer i næringsmidler oppført i vedlegg II og III til europaparlaments- og rådsforordning [(EF) nr. 1333/2008](eu/32008r1333) (EUT L 83 av 22.3.2012, s. 1).
+
+11 Europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169*) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne, om endring av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) og (EF) [nr. 1925/2006](eu/32006r1925) og om oppheving av kommisjonsdirektiv [87/250/EØF](eu/31987l0250), rådsdirektiv [90/496/EØF](eu/31990l0496), kommisjonsdirektiv [1999/10/EF](eu/31999l0010), europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*), kommisjonsdirektiv [2002/67/EF](eu/32002l0067) og [2008/5/EF](eu/32008l0005) og kommisjonsforordning [(EF) nr. 608/2004](eu/32004r0608) (EUT L 304 av 22.11.2011 s. 18).
+
+12 Som definert i forordning [(EU) nr. 609/2013](eu/32013r0609).
+
+13 Som definert i forordning [(EU) nr. 609/2013](eu/32013r0609).
 
 ### VEDLEGG II
 
@@ -268,9 +386,13 @@ BEGRENSENDE TILTAK SOM SKAL IVERKSETTES AV DRIFTSANSVARLIGE FOR NÆRINGSMIDDELFO
 ### VEDLEGG III
 KRAV TIL PRØVETAKING OG ANALYSE FOR OVERVÅKINGEN NEVNT I ARTIKKEL 4
 
+I.*Prøvetaking*
+
 1. Prøven skal være representativ for partiet det er tatt prøve av.
 2. De driftsansvarlige skal sikre at de gjennomfører en representativ prøvetaking og analyse av sine produkter for forekomst av akrylamid for å sikre at de begrensende tiltakene er effektive, dvs. at akrylamidinnholdet konsekvent er lavere enn referansenivåene.
 3. De driftsansvarlige skal sikre at en representativt prøve tas av hver produkttype for analyse av akrylamidkonsentrasjonen. En «produkttype» omfatter grupper av produkter med samme eller lignende ingredienser, oppskrift, prosessutforming og/eller prosesskontroller dersom disse har en potensiell innvirkning på akrylamidinnholdet i det ferdige produktet. Overvåkingsprogrammene skal prioritere produkttyper som har vist seg å kunne overskride referansenivået, og skal være risikobaserte når ytterligere begrensende tiltak er gjennomførbare.
+
+II.*Analyse*
 
 1. De driftsansvarlige skal framlegge tilstrekkelige data for å muliggjøre en vurdering av akrylamidinnholdet og av sannsynligheten for at produkttypen kan overskride referansenivået.
 2. Prøven skal analyseres i et laboratorium som deltar i relevante ordninger for egnethetsprøving (som er i samsvar med «International Harmonised Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories»14 utarbeidet i regi av IUPAC/ISO/AOAC) og bruker godkjente analysemetoder for påvisning og mengdebestemmelse. Laboratoriene skal kunne vise at de har tatt i bruk prosedyrer for intern kvalitetskontroll. Eksempler på slike er å finne i «ISO/AOAC/IUPAC Guidelines on Internal Quality Control in Analytical Chemistry Laboratories»15.Dersom det er mulig, skal analysens nøyaktighet vurderes ved å inkludere egnet sertifisert referansemateriale i analysen.
@@ -278,15 +400,57 @@ KRAV TIL PRØVETAKING OG ANALYSE FOR OVERVÅKINGEN NEVNT I ARTIKKEL 4
 For referansenivå ≥125 μg/kg: ≤50 μg/kg
 4. Analysen av akrylamid kan erstattes med måling av produktegenskaper (f.eks. farge) eller prosessparametrer, forutsatt at en statistisk korrelasjon kan påvises mellom produktegenskaper eller prosessparametrer og akrylamidinnhold.
 
+III.*Prøvetakingsfrekvens*
+
 1. De driftsansvarlige skal gjennomføre prøvetaking og analyse minst én gang i året for produkter som har et kjent og velkontrollert akrylamidinnhold. De driftsansvarlige skal utføre hyppigere prøvetaking og analyse av produkter som har vist seg å kunne overskride referansenivået, og skal være risikobaserte når ytterligere begrensende tiltak er gjennomførbare.
 2. På grunnlag av denne vurderingen nevnt i punkt II.1 skal de driftsansvarlige angi passende frekvens for analyser for hver produkttype. Vurderingen skal gjentas dersom et produkt eller en prosess endres på en måte som kan føre til en endring av akrylamidinnholdet i sluttproduktet.
 
+IV.*Begrensende tiltak*
+
 Dersom analyseresultatet, korrigert for gjenfinning, men uten at det tas hensyn til måleusikkerheten, angir at et produkt har overskredet referansenivået eller har et høyere akrylamidinnhold enn forventet (idet det tas hensyn til tidligere analyser, men lavere enn referansenivået), skal de driftsansvarlige gjennomgå de begrensende tiltakene som er iverksatt, og treffe ytterligere tilgjengelige begrensende tiltak for å sikre at akrylamidinnhold i det ferdige produktet er under referansenivået. Dette skal vises ved å gjennomføre en ny representativ prøvetaking og analyse, etter innføringen av de ytterligere begrensende tiltakene.
 
+V.*Opplysninger til vedkommende myndigheter*
+
 De driftsansvarlige skal på anmodning gjøre analyseresultatene fra den årlige analysen tilgjengelig for vedkommende myndighet sammen med beskrivelser av de analyserte produktene. For produkter som overskrider referansenivået, skal det framlegges opplysninger om de begrensende tiltakene som er truffet for å redusere akrylamidinnholdet til under referansenivået.
+
+14 M. Thompson et al, Pure and Applied Chemistry, 2006, 78, s. 145–196.
+
+15 M. Thompson og R. Wood (red.): Pure and Applied Chemistry, 1995, 67, s. 649–666.
 
 ### VEDLEGG IV
 REFERANSENIVÅER NEVNT I ARTIKKEL 1 NR. 1
 
-Referansenivåene for forekomsten av akrylamid i næringsmidler som nevnt i artikkel 1 nr. 1, er som følger:*Næringsmidler**Referansenivå*
-*(μg/kg)*Pommes frites (spiseferdige)500Potetgull framstilt av ferske poteter og av potetdeig750Kjeks framstilt av poteterAndre potetprodukter framstilt av potetdeigMykt brøda. Brød framstilt av hvete50b. Annet mykt brød enn brød framstilt av hvete100Frokostkorn (unntatt grøt)– Kliprodukter og kornvarer med hele korn, puffet korn300– Produkter framstilt av hvete og rug1300– Produkter framstilt av mais, havre, spelthvete, bygg og ris1150Kjeks og vaffelkjeks350Kjeks unntatt kjeks framstilt av poteter400Knekkebrød350Honningkaker800Produkter som ligner de øvrige produktene i denne kategorien300Brent kaffe400Pulverkaffe (oppløselig)850Kaffeerstatningera. Kaffeerstatninger utelukkende framstilt av korn500b. Kaffeerstatninger framstilt av en blanding av korn og sikori2c. Kaffeerstatninger utelukkende framstilt av sikori4 000Barnemat, bearbeidede kornbaserte næringsmidler for spedbarn og småbarn, unntatt kjeks og kavringer340Kjeks og kavringer for spedbarn og småbarn3150
+Referansenivåene for forekomsten av akrylamid i næringsmidler som nevnt i artikkel 1 nr. 1, er som følger:
+
+| *Næringsmidler* | *Referansenivå*<br>*(μg/kg)* |
+| --- | --- |
+| Pommes frites (spiseferdige) | 500 |
+| Potetgull framstilt av ferske poteter og av potetdeig | 750 |
+| Kjeks framstilt av poteter |  |
+| Andre potetprodukter framstilt av potetdeig |  |
+| Mykt brød |  |
+| a. Brød framstilt av hvete | 50 |
+| b. Annet mykt brød enn brød framstilt av hvete | 100 |
+| Frokostkorn (unntatt grøt) |  |
+| – Kliprodukter og kornvarer med hele korn, puffet korn | 300 |
+| – Produkter framstilt av hvete og rug1 | 300 |
+| – Produkter framstilt av mais, havre, spelthvete, bygg og ris1 | 150 |
+| Kjeks og vaffelkjeks | 350 |
+| Kjeks unntatt kjeks framstilt av poteter | 400 |
+| Knekkebrød | 350 |
+| Honningkaker | 800 |
+| Produkter som ligner de øvrige produktene i denne kategorien | 300 |
+| Brent kaffe | 400 |
+| Pulverkaffe (oppløselig) | 850 |
+| Kaffeerstatninger |  |
+| a. Kaffeerstatninger utelukkende framstilt av korn | 500 |
+| b. Kaffeerstatninger framstilt av en blanding av korn og sikori | 2 |
+| c. Kaffeerstatninger utelukkende framstilt av sikori | 4 000 |
+| Barnemat, bearbeidede kornbaserte næringsmidler for spedbarn og småbarn, unntatt kjeks og kavringer3 | 40 |
+| Kjeks og kavringer for spedbarn og småbarn3 | 150 |
+
+1 Kornvarer uten hele korn og/eller uten kli. Kategorien blir bestemt av kornslaget det er mest av.
+
+2 Det referansenivået som skal gjelde for kaffeerstatninger framstilt av en blanding av korn og sikori, skal ta hensyn til den relative andelen av disse ingrediensene i sluttproduktet.
+
+3 Som definert i forordning [(EU) nr. 609/2013](eu/32013r0609).

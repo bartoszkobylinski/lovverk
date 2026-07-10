@@ -66,7 +66,16 @@ Det skal innbetales full produktavgift for all fangst, selv om fartøyet er helt
 
 ## § 6. Forfall, renter mv
 
-Oppgjørsperiodene og forfallsdatoer er:januar – februar25. marsmars – april25. maimai – juni25. julijuli – august25. septemberseptember – oktober25. novembernovember – desember25. januar
+Oppgjørsperiodene og forfallsdatoer er:
+
+|  |  |
+| --- | --- |
+| januar – februar | 25. mars |
+| mars – april | 25. mai |
+| mai – juni | 25. juli |
+| juli – august | 25. september |
+| september – oktober | 25. november |
+| november – desember | 25. januar |
 
 Ved fangst der omsetningen ikke foregår gjennom salgslag, er forfallsdatoen for innbetaling av produktavgift til Fiskeridirektoratet 25 dager etter at det er foretatt oppgjør med eget mannskap.
 

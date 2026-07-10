@@ -110,6 +110,8 @@ Formelt opptakskrav er:Fullført og bestått videregående opplæring i ett av u
 
 Søkere som ikke tilfredsstiller opptakskravet for formell kompetanse, kan søke om opptak på grunnlag av realkompetanse. Minimumsalder for opptak på bakgrunn av realkompetanse er at søker fyller 19 år i løpet av året det søkes opptak. Opptakskomite som består av rektor og studieleder foretar realkompetansevurdering. Rektor fatter vedtak om opptak på bakgrunn av realkompetanse. Realkompetansen vurderes opp mot læringsutbytte på nivå 4A i Nasjonalt kvalifikasjonsrammeverk for livslang læring. Realkompetansevurdering skjer etter følgende retningslinjer:Søkere:Må levere dokumentasjon på realkompetanse som tilsvarer fullført og bestått videregående opplæring i det oppgitte svennebrev eller vitnemål fra utdanningsprogram som gjelder for formelt opptakskravMå levere dokumentasjon for fellesfag som tilsvarer læreplanene i vg1 og vg2 i yrkesfaglige programområder.Dokumentasjon:Må være utformet slik at den kan vurderes mot læringsutbyttebeskrivelsene/kompetansemålene i det oppgitte svennebrev for formell kompetanse og for fellesfagene på vg1 og vg2 i yrkesfaglige programområder.Realkompetansen kan være oppnådd både gjennom utdanning og praktisk relevant yrkeserfaring over 3 år.
 
+Oversikt som viser hva som godkjennes av realkompetanse:
+
 - Et av følgende fagbrev + 1 års relevant yrkeserfaring:Negletekniker/makeupartist som vurderes mot utdanningsprogrammet hudpleiefagAktivitør som vurderes mot utdanningsprogrammet formgivingsfagBlomsterdekoratør som vurderes mot utdanningsprogrammet formgivingsfag.
 - Et av følgende svennebrev + 1 års relevant yrkeserfaring:GullsmedSølvsmedHåndveverKjole- og draktsyerModistBunadtilvirkerHerreskredderMediedesignerMediegrafiker.
 - Relevant yrkeserfaring som godkjennes er medarbeider på en eller flere av følgende arbeidsplasser:HudpleieklinikkApotekButikker innen klær, mote og accessoirerTeater og sceneTv, film og reklamebyråFrisørsalongHudpleiesalong/spaNegleklinikkModellbyråParfymeriBedrifter innen tekstilbransjenBrudesalongBedrifter som jobber med:mediedesignblogging/videoblogging (vloggere) innen skjønnhet og velværefotterapidesignstyling av moteinteriørutstillingsdesign.
@@ -126,7 +128,11 @@ Realkompetanse vurderes av opptaksansvarlig. Dersom en søkers realkompetanse er
 
 ### § 2-4. Tilstrekkelig norskkunnskaper
 
+*Formell kompetanse:*
+
 Søkeren må ha kompetanse i norsk hovedmål og norsk muntlig tilsvarende Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring. Dokumentasjon av formell kompetanse i norskkunnskaper må fremlegges i form av karakterutskrift enten fra Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglig utdanningsprogram i videregående.
+
+*Ikke-formell kompetanse:*
 
 Søkere som ikke har formell kompetanse i norskkunnskaper må fremlegge dokumentasjon hvor det bekreftes at søker har tilstrekkelig norskkunnskaper som tilsvarer Norsk vg1 studieforberedende eller Norsk vg1 og vg2 yrkesfaglige utdanningsprogram i videregående opplæring.
 
@@ -246,7 +252,16 @@ Mappeinnhold og formelle krav om utforming av mappen spesifiseres i et eget info
 
 ### § 4-4. Karakterer og vitnemål
 
-Fagskolen benytter følgende karakterskala:AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser stor grad av selvstendighet.BMeget godMeget god prestasjon som er tilfredsstillende på de fleste områder.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon som er under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+Fagskolen benytter følgende karakterskala:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon som er tilfredsstillende på de fleste områder. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon som er under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 Eksamenskarakterene vil normalt bli offentliggjort samme dag som studenten avslutter. Etter fullført og bestått utdanning vil vitnemål bli tilsendt 30 virkedager etter studentene avslutter. I de tilfeller der studieavgiften ikke er betalt, vil ikke kandidaten kunne få noen resultater av eksamen.
 

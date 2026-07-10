@@ -55,6 +55,8 @@ Den næringsdrivende skal kostnadsfritt gi opplysningene skriftlig på papir ell
 
 Opplysningene skal gis på et offisielt språk i staten der forbrukeren har sitt bosted eller er statsborger. Dersom flere språk er aktuelle, kan forbrukeren velge språk, forutsatt at dette språket er et offisielt språk etter EØS-avtalen.1
 
+1 Se [EØS-avtalen art. 129](lov/1992-11-27-109/eøsl/a129).
+
 ### § 6. Markedsføring
 
 Ved markedsføring av produkter som omfattes av denne lov, skal den næringsdrivende opplyse om muligheten til å få opplysninger som nevnt i [§ 5](lov/2012-05-25-27/§5) første, jf. annet ledd, og hvor opplysningene kan fås.
@@ -74,6 +76,8 @@ Avtalen skal utformes på et offisielt språk i staten der forbrukeren har sitt 
 Forbrukeren skal få kopi av avtalen når den inngås.
 
 Avtale som ikke er opprettet i samsvar med første og annet ledd, er ikke bindende for forbrukeren.
+
+1 Se [EØS-avtalen art. 129](lov/1992-11-27-109/eøsl/a129).
 
 ### § 8. Avtalens innhold
 
@@ -144,6 +148,8 @@ Avtaler om kreditt som innvilges forbrukeren av den næringsdrivende eller av en
 Loven gjelder fra den tid Kongen bestemmer.1
 
 Fra samme tidspunkt oppheves [lov 13. juni 1997 nr. 37](lov/1997-06-13-37) om salg av tidsparter i fritidsbolig.
+
+1 Ikr. 1 juli 2012 iflg. [res. 25 mai 2012 nr. 472](forskrift/2012-05-25-472).
 
 ### § 17. Endringer i andre lover
 

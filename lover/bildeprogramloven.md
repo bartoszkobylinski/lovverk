@@ -35,6 +35,8 @@ I denne loven forstås med*mindreårige*: personer som ikke har fylt 18 år*bild
 
 Departementet kan gi forskrift om forståelsen av definisjonene i denne bestemmelsen.
 
+1 Jf. [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) art. 12 og 27).
+
 ### § 3. Virkeområde
 
 Loven gjelder for tilgjengeliggjøring av bildeprogram og tilknyttet materiale til allmennheten vedfjernsyn og audiovisuelle bestillingstjenester omfattet av kringkastingslovenfremvisning ved allmenn sammenkomst i Norge, inkludert kino eller annet visningsstedtilgjengeliggjøring av videogram i Norge når bildeprogrammet tilgjengeliggjøres av et foretak som er registrert i Norge eller har forretningssted i Norge, av en person som er norsk statsborger eller har bosted i Norge, eller beslutningen om tilgjengeliggjøring er tatt i Norge.
@@ -77,6 +79,8 @@ Informasjon om bildeprogrammets aldersgrense skal som minimum gjøres tilgjengel
 
 Departementet kan gi forskrift om informasjonsplikt, inkludert om unntak og merking.
 
+1 Jf. [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013/a27) art. 27 nr. 3).
+
 ## Kapittel 3. Alderskontroll og andre beskyttelsestiltak
 
 ### § 8. Plikt til å iverksette beskyttelsestiltak
@@ -97,6 +101,8 @@ Personopplysninger som gjelder mindreårige, og som innhentes eller på annen m�
 
 > Endret ved lov [28 feb 2025 nr. 2](lov/2025-02-28-2) (i kraft 1 mai 2025 iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601)).
 
+1 Jf. [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013/a27) art. 27 nr. 1 og 2).
+
 ### § 10. Beskyttelsestiltak ved tilgjengeliggjøring i audiovisuelle bestillingstjenester
 
 Tjenestetilbyder skal iverksette tiltak som sikrer at mindreårige normalt ikke får tilgang til bildeprogrammer eller tilknyttet materiale med alvorlig skadelig innhold.
@@ -106,6 +112,8 @@ Tjenestetilbyder skal tilby tiltak som kan aktiveres av foresatte eller andre i 
 Personopplysninger som gjelder mindreårige, og som innhentes eller på annen måte genereres av tjenestetilbyderen som ledd i beskyttelsestiltak etter denne paragrafen, skal ikke behandles for kommersielle formål, for eksempel direkte markedsføring, profilering eller atferdsbasert reklame.
 
 > Endret ved lov [28 feb 2025 nr. 2](lov/2025-02-28-2) (i kraft 1 mai 2025 iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601)).
+
+1 Jf. [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5p (direktiv [2010/13/EU](eu/32010l0013) art. 12).
 
 ### § 11. Beskyttelsestiltak for fremvisning ved allmenn sammenkomst
 
@@ -200,6 +208,8 @@ Departementet kan gi forskrift om ileggelse av tvangsmulkt, herunder om vilkår 
 ### § 21. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+1 Fra 1 juli 2015 iflg. [res. 12 juni 2015 nr. 633](forskrift/2015-06-12-633).
 
 ### § 22. Endringer i andre lover
 

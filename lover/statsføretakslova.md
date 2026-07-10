@@ -656,6 +656,8 @@ Rettargangsreglane i [aksjeloven § 18-1](lov/1997-06-13-44/§18-1) og [§ 18-3]
 
 (2) Frå den tida lova tek til å gjelde, blir [lov 30. august 1991 nr. 71 om statsforetak](lov/1991-08-30-71) oppheva.
 
+1 Frå 1. januar 2026 iflg. [res. 10 april 2025 nr. 644](forskrift/2025-04-10-644).
+
 ### § 10-2. Overgangsføresegner
 
 (1) Eit statsføretak som er oppretta før lova tek til å gjelde, blir rekna som statsføretak og følger reglane i lova her.

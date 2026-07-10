@@ -360,6 +360,8 @@ Privatimport av legemidler følger reglene i [§ 3-2](forskrift/2004-11-02-1441/
 
 > Endret ved [forskrifter 5 jan 2006 nr. 34](forskrift/2006-01-05-34) (i kraft 1 mars 2006), [18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010), [18 des 2009 nr. 1840](forskrift/2009-12-18-1840) (i kraft 12 jan 2010), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [21 aug 2018 nr. 1262](forskrift/2018-08-21-1262), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
+1 Jf. [forskrift 21. desember 1993 nr. 1219](forskrift/1993-12-21-1219) om grossistvirksomhet med legemidler [§ 3a](forskrift/1993-12-21-1219/§3a).
+
 ### § 3-2. Personlig import
 
 Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS,et rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjeland.
@@ -380,9 +382,7 @@ Denne bestemmelsen gjelder ikke for legemidler som omfattes av [forskrift 14. fe
 
 > Endret ved [forskrifter 9 mars 2008 nr. 243](forskrift/2008-03-09-243), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [7 nov 2013 nr. 1303](forskrift/2013-11-07-1303) (i kraft 1 okt 2015 jf. [forskrift 22 sep 2015 nr. 1091](forskrift/2015-09-22-1091)), [24 mars 2017 nr. 388](forskrift/2017-03-24-388), [23 juni 2020 nr. 1384](forskrift/2020-06-23-1384) (i kraft 1 juli 2020), [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 
-1. et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS-området
-2. et rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjeland
-3. ved forsendelse fra EØS-området, i løpet av en tremåneders periode, legemidler som samlet utgjør høyst tre måneders forbruk. Slik import er ikke tillatt for personer under 18 år.
+1 For elektroniske sigaretter, som regnes som legemidler etter [legemiddelloven § 2](lov/1992-12-04-132/§2), gjelder iflg [forskrift 22 sep 2015 nr. 1091](forskrift/2015-09-22-1091) tidligere versjon av § 3-2:[§ 3-2](forskrift/2004-11-02-1441/§3-2). *Personlig import*, slik bestemmelsen lød før endring som ble satt i kraft 1 okt 2015:Privatpersoner kan til personlig bruk og uten hinder av [§ 3-1](forskrift/2004-11-02-1441/§3-1) første ledd importere:et rimelig kvantum legemidler som tilsvarer høyst ett års forbruk ved innreise fra land i EØS-områdetet rimelig kvantum legemidler som utgjør høyst tre måneders forbruk ved innreise fra tredjelandved forsendelse fra EØS-området, i løpet av en tremåneders periode, legemidler som samlet utgjør høyst tre måneders forbruk. Slik import er ikke tillatt for personer under 18 år.Det må kunne dokumenteres overfor tollvesenet at legemidlene er til personlig bruk og er lovlig ervervet i innkjøpslandet.Import ved forsendelse fra tredjeland er ikke tillatt.Direktoratet for medisinske produkter kan gjøre unntak fra forbudet mot import ved forsendelse fra tredjeland når særlige grunner knyttet til menneskers eller dyrs liv eller helse taler for det.Egne bestemmelser gjelder for import av narkotika og legemidler som omfattes av [forskrift 30. april 1993 nr. 318](forskrift/1993-04-30-318) om hva som skal anses som dopingmidler.
 
 ### § 3-2a. Tilbakehold, beslagleggelse og destruksjon av legemidler ved personlig import ved forsendelse
 

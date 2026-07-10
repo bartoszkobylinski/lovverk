@@ -49,3 +49,7 @@ Samferdselsdepartementet kan gi utfyllende bestemmelser etter forskriften her.
 Forskriften trer i kraft straks.
 
 ## Forordning (EU) nr. 913/2010
+
+For å lese forordning [(EU) nr. 913/2010 i](eu/32010r0913) norsk uoffisiell oversettelse se her: [(pdf)](static/SF/32010r0913u.pdf)
+
+For å lese forordning [(EU) nr. 913/2010 i](eu/32010r0913) engelsk versjon se her: [(pdf)](static/SF/32010r0913e.pdf)

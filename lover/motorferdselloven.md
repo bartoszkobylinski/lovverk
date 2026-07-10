@@ -152,6 +152,8 @@ Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 Fra lovens ikrafttreden gjøres følgende endringer i andre lover: – – –
 
+1 Fra 1 jan 1978 iflg. res. 2 des 1977.
+
 ## § 14 a. (opphevelse av midlertidig bestemmelse)
 
 [§ 4 b](lov/1977-06-10-82/§4b) oppheves 1. juni 2015.

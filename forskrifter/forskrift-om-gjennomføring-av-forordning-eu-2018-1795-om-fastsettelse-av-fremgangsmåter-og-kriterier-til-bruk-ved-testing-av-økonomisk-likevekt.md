@@ -31,3 +31,5 @@ eu_basis: []
 ## § 2. Ikrafttredelse
 
 Forskriften trer i kraft straks.
+
+Se her for å lese engelsk versjon av forordning [(EU) 2018/1795](eu/32018r1795): [(pdf)](static/SF/32018r1795e-01.pdf)

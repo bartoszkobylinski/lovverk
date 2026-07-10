@@ -154,7 +154,15 @@ Dersom tilbakebetaling ikke skjer innen den frist som blir gitt, kan det kreves 
 
 ### § 15. Definisjoner
 
-I forskriften her gjelder følgende definisjoner:Nord-Norge:Nordland, Troms og Finnmark.Vestlandet:Hordaland, Sogn og Fjordane og Møre og Romsdal.Tung rase:Charolais, Simmental, Limousin, Blonde d'Aquitaine samt alle krysninger som inneholder 7/8 eller mer av disse raser.Lett rase:Øvrige raser herunder Aberdeen Angus, Hereford, Høylandsfe, NRF og Tiroler Grauvieh.Sone for distriktstilskudd:Områder slik de er angitt i, eller i medhold av, jordbruksavtalen.
+I forskriften her gjelder følgende definisjoner:
+
+|  |  |
+| --- | --- |
+| Nord-Norge: | Nordland, Troms og Finnmark. |
+| Vestlandet: | Hordaland, Sogn og Fjordane og Møre og Romsdal. |
+| Tung rase: | Charolais, Simmental, Limousin, Blonde d'Aquitaine samt alle krysninger som inneholder 7/8 eller mer av disse raser. |
+| Lett rase: | Øvrige raser herunder Aberdeen Angus, Hereford, Høylandsfe, NRF og Tiroler Grauvieh. |
+| Sone for distriktstilskudd: | Områder slik de er angitt i, eller i medhold av, jordbruksavtalen. |
 
 ### § 16. Fraktkostnader
 
@@ -164,7 +172,38 @@ Ved beregning av erstatning etter pålagt nedslakting av dyr benyttet eller tilt
 
 Følgende standardsatser gjelder for erstatning for småfe:
 
+Lam ikke påtenkt i avl
+
+| *Sone for distriktstilskudd* | *1* | *2* | *3* | *4* | *5* |
+| --- | --- | --- | --- | --- | --- |
+| Kroner pr. dyr | 1 510 | 1 605 | 1 655 | 1 765 | 1 775 |
+
+Lam som pålegges slaktet mellom lamming og 1. september
+
+| *Sone for distriktstilskudd* | *1* | *2* | *3* | *4* | *5* |
+| --- | --- | --- | --- | --- | --- |
+| Veid sats, kr pr. lam | 1 725 | 1 805 | 1 845 | 1 935 | 1 940 |
+
+*Livdyr (sau)*
+
+|  | Sats |
+| --- | --- |
+| Værlam | 3 100 |
+| Avlsværer | 5 200 |
+| Søyelam | 2 600 |
+| Søyer | 3 100 |
+
 Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 560 kroner per påbegynt måned i inntil 4 måneder. Når bedekning skjer i flokk beregnes drektighetstillegget per påbegynt måned etter at væren ble sluppet inn i flokken.
+
+*Geit*
+
+|  | *Sats* |
+| --- | --- |
+| Geitekje | 1 350 |
+| Geiter | 2 600 (1. halvår: januar–juni) |
+|  | 1 900 (2. halvår: juli–desember) |
+| Bukkelam | 1 900 |
+| Avlsbukker | 4 050 |
 
 Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 270 kroner per påbegynt måned i inntil 4 måneder. Når bedekning skjer i flokk beregnes drektighetstillegget per påbegynt måned etter at bukken ble sluppet inn i flokken.
 
@@ -188,9 +227,75 @@ For industrikalkun er standardsatsen 31 kroner ved innsett. Satsen øker lineær
 
 ### § 19. Standardsatser for storfe
 
-Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 520 kroner per påbegynt måned i inntil 8 måneder.*Standardsatser for kjøttfe, lett rase er:**Sone for distriktstilskudd**1**2**3**4**5*Okser under 3 md.5 6005 8006 0006 2006 200Okser 3–6 m.11 30011 80012 10012 50012 500Okser 6–9 md.16 60017 50017 90018 50018 600Okser 9–12 md.20 80021 90022 50023 30023 400Okser 12–15 md.22 30023 60024 30025 30025 500Okser 15–18 md.22 90024 40025 20026 30026 500Okser 18–21 md.24 20025 90026 80027 90028 100Okser 21–24 md.25 70027 50028 50029 80030 000Voksne okser26 80028 90030 10031 60031 900Kviger under 3 md.3 4003 6003 7003 9003 900Kviger 3–6 md.8 0008 5008 8009 2009 200Kviger 6–9 md.12 70013 50013 90014 40014 500Kviger 9–12 md.17 80018 70019 20019 90020 000Kviger 12–15 md.22 20023 20023 80024 60024 700Kviger 15–18 md.27 40028 60029 30030 10030 300Kviger 18–21 md.29 40030 70031 40032 40032 500Kviger 21–24 md.30 20031 70032 50033 50033 700Voksne kyr31 30033 00033 90035 10035 300
+|  | *Standardsatser for melkeraser er:* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Sone for distriktstilskudd* | *1* | *2* | *3* | *4* | *5* |
+| Okser under 3 md. | 4 500 | 4 800 | 4 900 | 5 100 | 5 100 |
+| Okser 3–6 md. | 9 600 | 10 100 | 10 400 | 10 800 | 10 800 |
+| Okser 6–9 md. | 15 000 | 15 700 | 16 100 | 16 700 | 16 800 |
+| Okser 9–12 md. | 17 600 | 18 600 | 19 200 | 19 900 | 20 000 |
+| Okser 12–15 md. | 20 200 | 21 400 | 22 100 | 23 000 | 23 100 |
+| Okser 15–18 md. | 22 900 | 24 400 | 25 200 | 26 200 | 26 400 |
+| Okser 18–21 md. | 24 300 | 26 000 | 26 800 | 28 000 | 28 200 |
+| Okser 21–24 md. | 25 500 | 27 300 | 28 300 | 29 600 | 29 800 |
+| Voksne okser | 29 000 | 31 400 | 32 700 | 34 400 | 34 700 |
+| Kviger under 3 md. | 3 600 | 3 800 | 3 900 | 4 100 | 4 100 |
+| Kviger 3–6 md. | 5 300 | 5 600 | 5 800 | 6 000 | 6 000 |
+| Kviger 6–9 md. | 8 500 | 8 900 | 9 200 | 9 500 | 9 600 |
+| Kviger 9–12 md. | 12 300 | 13 000 | 13 300 | 13 800 | 13 900 |
+| Kviger 12–15 md. | 13 400 | 14 200 | 14 600 | 15 200 | 15 300 |
+| Kviger 15–18 md. | 16 300 | 17 200 | 17 700 | 18 400 | 18 500 |
+| Kviger 18–21 md. | 17 000 | 18 000 | 18 500 | 19 300 | 19 400 |
+| Kviger 21–24 md. | 17 400 | 18 500 | 19 200 | 20 000 | 20 100 |
+| Ku | 21 200 | 22 700 | 23 400 | 24 400 | 24 600 |
 
-Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 660 kroner per påbegynte måned i inntil 8 måneder.*Standardsatser for kjøttfe, tung rase er:**Sone for distriktstilskudd**1**2**3**4**5*Okser under 3 md.7 8008 2008 3008 6008 600Okser 3–6 md.14 00014 60015 00015 40015 500Okser 6–9 md.20 50021 50022 00022 80022 900Okser 9–12 md.24 70026 10026 90027 90028 100Okser 12–15 md.24 70026 40027 30028 50028 700Okser 15–18 md.26 50028 30029 40030 70030 900Okser 18–21 md.29 00031 10032 20033 70033 900Okser 21–24 md.31 40033 60034 80036 50036 700Voksne okser36 60039 20040 50042 30042 600Kviger under 3 md.5 5005 7005 9006 1006 100Kviger 3–6 md.11 80012 30012 60013 10013 100Kviger 6–9 md.16 60017 40017 90018 50018 600Kviger 9–12 md.23 70024 80025 40026 30026 400Kviger 12–15 md.28 70030 00030 70031 70031 800Kviger 15–18 md.31 60033 00033 80034 80035 000Kviger 18–21 md.34 40036 00036 90038 00038 200Kviger 21–24 md.39 80041 50042 40043 70043 900Voksne kyr41 40043 30044 30045 70045 900
+Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 520 kroner per påbegynt måned i inntil 8 måneder.
+
+|  | *Standardsatser for kjøttfe, lett rase er:* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Sone for distriktstilskudd* | *1* | *2* | *3* | *4* | *5* |
+| Okser under 3 md. | 5 600 | 5 800 | 6 000 | 6 200 | 6 200 |
+| Okser 3–6 m. | 11 300 | 11 800 | 12 100 | 12 500 | 12 500 |
+| Okser 6–9 md. | 16 600 | 17 500 | 17 900 | 18 500 | 18 600 |
+| Okser 9–12 md. | 20 800 | 21 900 | 22 500 | 23 300 | 23 400 |
+| Okser 12–15 md. | 22 300 | 23 600 | 24 300 | 25 300 | 25 500 |
+| Okser 15–18 md. | 22 900 | 24 400 | 25 200 | 26 300 | 26 500 |
+| Okser 18–21 md. | 24 200 | 25 900 | 26 800 | 27 900 | 28 100 |
+| Okser 21–24 md. | 25 700 | 27 500 | 28 500 | 29 800 | 30 000 |
+| Voksne okser | 26 800 | 28 900 | 30 100 | 31 600 | 31 900 |
+| Kviger under 3 md. | 3 400 | 3 600 | 3 700 | 3 900 | 3 900 |
+| Kviger 3–6 md. | 8 000 | 8 500 | 8 800 | 9 200 | 9 200 |
+| Kviger 6–9 md. | 12 700 | 13 500 | 13 900 | 14 400 | 14 500 |
+| Kviger 9–12 md. | 17 800 | 18 700 | 19 200 | 19 900 | 20 000 |
+| Kviger 12–15 md. | 22 200 | 23 200 | 23 800 | 24 600 | 24 700 |
+| Kviger 15–18 md. | 27 400 | 28 600 | 29 300 | 30 100 | 30 300 |
+| Kviger 18–21 md. | 29 400 | 30 700 | 31 400 | 32 400 | 32 500 |
+| Kviger 21–24 md. | 30 200 | 31 700 | 32 500 | 33 500 | 33 700 |
+| Voksne kyr | 31 300 | 33 000 | 33 900 | 35 100 | 35 300 |
+
+Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 660 kroner per påbegynte måned i inntil 8 måneder.
+
+|  | *Standardsatser for kjøttfe, tung rase er:* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Sone for distriktstilskudd* | *1* | *2* | *3* | *4* | *5* |
+| Okser under 3 md. | 7 800 | 8 200 | 8 300 | 8 600 | 8 600 |
+| Okser 3–6 md. | 14 000 | 14 600 | 15 000 | 15 400 | 15 500 |
+| Okser 6–9 md. | 20 500 | 21 500 | 22 000 | 22 800 | 22 900 |
+| Okser 9–12 md. | 24 700 | 26 100 | 26 900 | 27 900 | 28 100 |
+| Okser 12–15 md. | 24 700 | 26 400 | 27 300 | 28 500 | 28 700 |
+| Okser 15–18 md. | 26 500 | 28 300 | 29 400 | 30 700 | 30 900 |
+| Okser 18–21 md. | 29 000 | 31 100 | 32 200 | 33 700 | 33 900 |
+| Okser 21–24 md. | 31 400 | 33 600 | 34 800 | 36 500 | 36 700 |
+| Voksne okser | 36 600 | 39 200 | 40 500 | 42 300 | 42 600 |
+| Kviger under 3 md. | 5 500 | 5 700 | 5 900 | 6 100 | 6 100 |
+| Kviger 3–6 md. | 11 800 | 12 300 | 12 600 | 13 100 | 13 100 |
+| Kviger 6–9 md. | 16 600 | 17 400 | 17 900 | 18 500 | 18 600 |
+| Kviger 9–12 md. | 23 700 | 24 800 | 25 400 | 26 300 | 26 400 |
+| Kviger 12–15 md. | 28 700 | 30 000 | 30 700 | 31 700 | 31 800 |
+| Kviger 15–18 md. | 31 600 | 33 000 | 33 800 | 34 800 | 35 000 |
+| Kviger 18–21 md. | 34 400 | 36 000 | 36 900 | 38 000 | 38 200 |
+| Kviger 21–24 md. | 39 800 | 41 500 | 42 400 | 43 700 | 43 900 |
+| Voksne kyr | 41 400 | 43 300 | 44 300 | 45 700 | 45 900 |
 
 Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et drektighetstillegg på 910 kroner per påbegynt måned i inntil 8 måneder.
 
@@ -200,7 +305,33 @@ Etter de første 30 dager etter siste bedekning eller inseminasjon gis det et dr
 
 Følgende standardsatser gjelder for erstatning for gris:
 
+*Smågris*
+
+| *Alder* | *Nord-Norge* | *Resten av landet* |
+| --- | --- | --- |
+| Smågris under 1 md. | 645 | 570 |
+| Smågris 1–2 md. | 900 | 795 |
+| Smågris 2–3 md. | 1 285 | 1 135 |
+
 SPF-besetninger får et tillegg på kr 35 pr. stk.
+
+*Slaktegris*
+
+| *Alder* | *Agder, Vestland og Møre og Romsdal* | *Nord-Norge* | *Resten av landet* |
+| --- | --- | --- | --- |
+| 3–4 md. | 1 660 | 1 760 | 1 620 |
+| 4–5 md. | 2 130 | 2 280 | 2 065 |
+| 5 md. eller mer | 2 720 | 2930 | 2 625 |
+
+*Livdyr*
+
+| *Alder* | *Nord-Norge* | *Resten av landet* |
+| --- | --- | --- |
+| Småpurker 18 uker | 4 275 | 3 775 |
+| Ubedekte ungpurker 22 uker | 5 285 | 4 785 |
+| Purker | 6 200 | 5 500 |
+| Ungråner 4–6 md. | 3 125 | 3 125 |
+| Råner | 6 250 | 6 250 |
 
 Småpurkene får et tillegg på kr 185 pr. uke over 18 uker. Ubedekte ungpurker får et tillegg på kr 185 pr. uke fra 22 til 34 uker. Landsvin får et reinrasetillegg på kr 550. SPF-besetninger får et tillegg på 20 %.
 

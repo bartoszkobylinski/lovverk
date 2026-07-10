@@ -142,6 +142,12 @@ Forskrifter og delegeringer som er gitt med hjemmel i [lov 12. januar 1995 nr. 6
 
 Kongen kan gi forskrift om ytterligere overgangsbestemmelser.
 
+1 [§ 17](lov/2020-05-07-37/§17) nr. 1 trer i kraft straks iflg. [res. 7 mai 2020 nr. 949](forskrift/2020-05-07-949). [§ 1](lov/2020-05-07-37/§1) til [§ 16](lov/2020-05-07-37/§16) og [§ 17](lov/2020-05-07-37/§17) nr. 2 trer i kraft 26. mai 2021, iflg. [res. 7 mai 2021 nr. 1454](forskrift/2021-05-07-1454). Enkelte bestemmelser i loven [§ 1](lov/2020-05-07-37/§1) til [§ 16](lov/2020-05-07-37/§16) trer i kraft i henhold til ikraftsettelsestidspunkter fastsatt i forordning [(EU) 2017/745](eu/32017r0745) og forordning [(EU) 2017/746](eu/32017r0746).
+
 ## § 17. Endringer i andre lover
 
 Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover:
+
+**1.** I [lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap](lov/2000-06-23-56) gjøres følgende endringer: – – –
+
+**2.** I [lov 21. desember 2005 nr. 126 om kosmetikk og kroppspleieprodukt m.m](lov/2005-12-21-126). skal [§ 2](lov/2005-12-21-126/§2) tredje ledd lyde: – – –

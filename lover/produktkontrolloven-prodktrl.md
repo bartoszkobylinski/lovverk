@@ -280,3 +280,5 @@ Kongen kan gi nærmere bestemmelser til gjennomføring av denne lov, herunder om
 Denne lov trer i kraft fra den tid Kongen bestemmer.1 Fra samme dag oppheves – – –.
 
 > Endret ved [lov 3 juni 1977 nr. 53](lov/1977-06-03-53).
+
+1 Fra 1 sep 1977 iflg. res. 5 aug 1977.

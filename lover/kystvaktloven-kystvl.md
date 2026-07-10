@@ -314,6 +314,8 @@ Bestemmelsen her får ikke anvendelse dersom forholdet rammes av en strengere st
 
 Loven trer i kraft fra den tid1 Kongen bestemmer.
 
+1 Fra 5 nov 1999 iflg. [res. 5 nov 1999 nr. 1143](forskrift/1999-11-05-1143).
+
 ### § 38. Endringer i annen lovgivning
 
 Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover: – – –

@@ -50,6 +50,8 @@ Ved kriser som omfattes av [§ 6](lov/2011-12-16-65/§6), har offentlige myndigh
 
 Når det på grunn av risiko for etterspørselssjokk, tilbudssvikt eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester dekkes, kan Kongen gi nærmere bestemmelser omprioritering, omfordeling, lagring og avståelse av varer, utførelse av tjenester, samt forberedelser og medvirkning hertil, herunder bestemmelser om innførsel, utførsel, distribusjon av varer og omsetning av varer og tjenester, herunder omsetningsregulerende tiltakplikt for næringsdrivende til å levere eller framstille varer eller yte tjenester til bestemte formål eller bestemte mottakereplikt for næringsdrivende til å avstå løsøre og fast eiendom for midlertidig disponeringplikt for næringsdrivende til å gi, og så langt som mulig dokumentere informasjon, herunder informasjon om varebeholdninger, rullering, produksjon, omsetning, transport og lagring, logistikk, regnskap m.m.plikt for næringsdrivende til å samarbeide med offentlige myndigheter om å finne effektive løsninger for å håndtere manglende tilgang til varer og tjenesterplikt for næringsdrivende til å gjennomføre eller bidra til gjennomføring av analysearbeid og utredninger knyttet til leveringssikkerhetplikt for næringsdrivende, næringsorganisasjon eller -sammenslutning til å delta i særskilte organer som er opprettet eller opprettes for å bidra til å sikre tilgangen på varer og tjenester i kriserplikt for næringsdrivende til å planlegge eller delta i planlegging og gjennomføring av øvelser og annen opplæring i krisehåndteringplikt for næringsdrivende til å varsle om forhold som kan gi grunnlag for særskilte tiltak1plikt for næringsdrivende til å planlegge, forberede og gjennomføre, eller bidra til planlegging, forberedelse og gjennomføring av særskilte tiltak
 
+1 Helse- og omsorgsdepartementet, Justisdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
+
 ### § 7. Tidsbegrensede forskrifter
 
 Når særlige grunner foreligger, kan departementet gi en tidsbegrenset forskrift, jf. [§ 6](lov/2011-12-16-65/§6), som gjelder for inntil en måned av gangen, maksimalt 3 måneder.
@@ -61,6 +63,8 @@ Når særlige grunner foreligger, kan departementet gi en tidsbegrenset forskrif
 Når det på grunn av risiko for tilbudssvikt, etterspørselssjokk eller logistikkbrist er nødvendig for å sørge for at befolkningens behov, det militære forsvarets behov, allierte militære styrkers behov i Norge eller internasjonale forpliktelser knyttet til varer og tjenester, dekkes, kan Kongen1 fatte vedtak om særskilte tiltak eller vedtak om forberedelser til særskilte tiltak.
 
 Kongen1 kan i forskrift gi nærmere bestemmelser om myndighet til og vilkår for å fatte vedtak om særskilte tiltak.
+
+1 Helse- og omsorgsdepartementet, Justisdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
 
 ### § 9. Begrensninger i adgangen til å fatte vedtak
 
@@ -105,6 +109,8 @@ Drifts- og forretningshemmeligheter avgitt etter denne loven, skal kun brukes ti
 ### § 17. Kompensasjon til næringsdrivende
 
 Næringsdrivendes økonomiske meromkostninger eller tap ved forberedelser til og gjennomføring av særskilte tiltak skal kompenseres etter bestemmelser fastsatt av Kongen.1 Ansvarlig myndighet for forberedelser til eller gjennomføringen av tiltaket skal utbetale kompensasjonen så snart som mulig.
+
+1 Helse. og omsorgsdepartementet, Justis- og beredskapsdepartementet, Landbruks- og matdepartementet og Nærings- og fiskeridepartementet iflg. res. [res. 16 juni 2017 nr. 820](forskrift/2017-06-16-820).
 
 ### § 18. Skjønn
 
@@ -161,6 +167,8 @@ For håndheving av sanksjoner overfor kommuner og fylkeskommuner gjelder bestemm
 ### § 23. Ikrafttredelse
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 2012 iflg. [res. 16 des 2011 nr. 1247](forskrift/2011-12-16-1247).
 
 ### § 24. Endring i andre lover
 

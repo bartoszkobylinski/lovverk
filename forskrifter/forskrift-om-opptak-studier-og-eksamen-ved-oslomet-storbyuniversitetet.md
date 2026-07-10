@@ -52,7 +52,7 @@ Fakultetet tildeler grader for de studieprogram fakultetet har det faglige og ad
 
 ### § 2-4. Tilleggsbetegnelse for graden bachelor
 
-For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:For bachelorgrad etter [§ 2-3 første ledd bokstav a](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/a): enten: «bachelor i *betegnelse på fagområde eller studieprogram i henhold til programplan*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – *betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen*».For bachelorgrad etter [§ 2-3 første ledd bokstav b](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/b): «bachelor i *betegnelse på studieprogram i henhold til programplan*».For bachelorgrad etter [§ 2-3 bokstav c](forskrift/2026-05-08-1479/§2-3/bokstav/c): «bachelor i *betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under*» som følger: enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».For bachelorgrad etter [§ 2-3 første ledd bokstav d](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/d): enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
+For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) på vitnemål som følger:For bachelorgrad etter [§ 2-3 første ledd bokstav a](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/a): enten: «bachelor i \*betegnelse på fagområde eller studieprogram i henhold til programplan\*», eventuelt med ytterligere tilleggsangivelse av linje, studieretning eller liknende, eller «bachelor – \*betegnelse på lærerutdanning i henhold til forskrift om rammeplan for den aktuelle lærerutdanningen\*».For bachelorgrad etter [§ 2-3 første ledd bokstav b](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/b): «bachelor i \*betegnelse på studieprogram i henhold til programplan\*».For bachelorgrad etter [§ 2-3 bokstav c](forskrift/2026-05-08-1479/§2-3/bokstav/c): «bachelor i \*betegnelse på faglig hovedområde som den faglige fordypningen på minimum 90 studiepoeng defineres inn under\*» som følger: enten «bachelor i helsefag» eller «bachelor i kultur- og samfunnsfag» eller «bachelor i tekniske fag».For bachelorgrad etter [§ 2-3 første ledd bokstav d](forskrift/2026-05-08-1479/§2-3/ledd/1/bokstav/d): enten «bachelor i grunnskolefag 1.–7. trinn» eller «bachelor i grunnskolefag 5.–10. trinn» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig grunnskolelærerutdanning på respektive studieretning eller «bachelor i grunnskolens undervisningsfag» når graden er oppnådd på grunnlag av fullførte 3 første studieår av 4-årig allmennlærerutdanning.
 
 ### § 2-5. Mastergrad
 
@@ -64,11 +64,11 @@ For oppnådd bachelorgrad angis gradens faglige innhold (tilleggsbetegnelsen) p�
 
 ### § 2-6. Tilleggsbetegnelse for graden master
 
-For oppnådd mastergrad av 1 ½ eller 2 års omfang angis graden på vitnemålet som følger: «master i *betegnelse på studieprogram i henhold til programplan*».
+For oppnådd mastergrad av 1 ½ eller 2 års omfang angis graden på vitnemålet som følger: «master i \*betegnelse på studieprogram i henhold til programplan\*».
 
 ### § 2-7. Tilleggsbetegnelse for graden høgskolekandidat
 
-For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekandidat i *betegnelse på studieprogrammets navn*» i henhold til programplan.
+For oppnådd grad som høgskolekandidat angis graden normalt som «høgskolekandidat i \*betegnelse på studieprogrammets navn\*» i henhold til programplan.
 
 ### § 2-8. Fellesgrader
 

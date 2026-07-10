@@ -50,7 +50,19 @@ eu_basis: []
 
 ## § 3. Struktur og innhold
 
-(1) Utdanningen har et omfang på 180 studiepoeng og har følgende oppbygning:*Studieår**Pedagogikkfaget**Praksis**Studiepoeng*1. og 2. studieårKunnskapsområde: Barns utvikling, lek og læringPedagogikkfaget skal være et sentralt og sammenbindende fag gjennom hele studieløpet og i fordypningen.Minimum 100 dager integrert i alle kunnskapsområdene, fordelt på 75 dager de to første studieårene og 25 dager det siste studieåret20 studiepoengKunnskapsområde: Samfunn, religion, livssyn og etikk20 studiepoengKunnskapsområde: Språk, tekst og matematikk20 studiepoengKunnskapsområde: Kunst, kultur og kreativitet20 studiepoengKunnskapsområde: Natur, helse og bevegelse20 studiepoengInstitusjonene disponerer 20 frie studiepoeng20 studiepoeng3. studieårKunnskapsområde: Ledelse, samarbeid og utviklingsarbeid i barnehagenPedagogikkfaget skal være et sentralt og sammenbindende fag gjennom hele studieløpet og i fordypningen.Minimum 100 dager integrert i alle kunnskapsområdene, fordelt på 75 dager de to første studieårene og 25 dager det siste studieåret15 studiepoengFordypning30 studiepoengObligatorisk bacheloroppgave15 studiepoeng
+(1) Utdanningen har et omfang på 180 studiepoeng og har følgende oppbygning:
+
+| *Studieår* |  | *Pedagogikkfaget* | *Praksis* | *Studiepoeng* |
+| --- | --- | --- | --- | --- |
+| 1. og 2. studieår | Kunnskapsområde: Barns utvikling, lek og læring | Pedagogikkfaget skal være et sentralt og sammenbindende fag gjennom hele studieløpet og i fordypningen. | Minimum 100 dager integrert i alle kunnskapsområdene, fordelt på 75 dager de to første studieårene og 25 dager det siste studieåret | 20 studiepoeng |
+| Kunnskapsområde: Samfunn, religion, livssyn og etikk | 20 studiepoeng |  |  |  |
+| Kunnskapsområde: Språk, tekst og matematikk | 20 studiepoeng |  |  |  |
+| Kunnskapsområde: Kunst, kultur og kreativitet | 20 studiepoeng |  |  |  |
+| Kunnskapsområde: Natur, helse og bevegelse | 20 studiepoeng |  |  |  |
+| Institusjonene disponerer 20 frie studiepoeng | 20 studiepoeng |  |  |  |
+| 3. studieår | Kunnskapsområde: Ledelse, samarbeid og utviklingsarbeid i barnehagen | Pedagogikkfaget skal være et sentralt og sammenbindende fag gjennom hele studieløpet og i fordypningen. | Minimum 100 dager integrert i alle kunnskapsområdene, fordelt på 75 dager de to første studieårene og 25 dager det siste studieåret | 15 studiepoeng |
+| Fordypning | 30 studiepoeng |  |  |  |
+| Obligatorisk bacheloroppgave | 15 studiepoeng |  |  |  |
 
 (2) Barnehagelærerutdanningens innhold er strukturert i seks kunnskapsområder, samt fordypning og bacheloroppgave. De to første studieårene skal ha en enhetlig oppbygging som muliggjør mobilitet etter andre studieår. Alle kunnskapsområdene skal være profesjonsrettede og integrere relevant pedagogisk, faglig og didaktisk kunnskap tilpasset barnehagens rammeplan.
 

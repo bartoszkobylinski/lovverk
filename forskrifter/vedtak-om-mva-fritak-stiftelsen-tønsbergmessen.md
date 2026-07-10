@@ -26,6 +26,8 @@ Vi viser til søknad 23. juni 2010 om unntak fra plikten til å beregne utgåend
 
 Etter en samlet vurdering har departementet kommet fram til at det tidligere administrativt gitte unntaket bør videreføres, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Vedtaket innebærer at det på omsetning av inngangsbilletter til arrangementet ikke skal beregnes utgående merverdiavgift, samtidig som en ikke vil ha fradragsrett for inngående merverdiavgift på anskaffelser til bruk i den avgiftsunntatte delen av virksomheten. Unntaket gis inntil videre. En nærmere redegjørelse for vedtaket følger nedenfor.
 
+*Sakens bakgrunn*
+
 Etter det opplyste er Stiftelsen Tønsbergmessen (heretter ST) en stiftelse med vedtektsfestet formål å yte økonomisk støtte til idrettslige aktiviteter i Tønsberg kommune. Den økonomiske støtten har blant annet blitt brukt til bygging av ishall, kunstisbane, oppgradering av friidrettsbane og nytt flomlysanlegg på Tønsberg gressbane.
 
 Hvert år arrangerer ST en messe i Tønsberg kommune. Messen avholdes i mai og strekker seg over en periode på 9–10 dager. Messen har vært arrangert årlig siden 1968. Ifølge ST gir inngangsbilletten rett til adgang til dyrepark med hester m.m., rett til adgang til tivoli, rett til å overvære korpskonserter, dukketeater, konserter med ulike kjente artister m.m., rett til å benytte busstransport til/fra Tønsberg sentrum, adgang til utstillernes stands og salgsboder, og adgang til messeområdet hvor ovennevnte aktiviteter tilbys.
@@ -38,11 +40,15 @@ I tråd med ovennevnte har advokatfirmaet på vegne av ST fremmet en søknad om 
 
 Finansdepartementet har forelagt søknaden av 23. juni 2010 for uttalelse til Skattedirektoratet. I brev 12. november 2010 har Skattedirektoratet konkludert med at unntaket ikke bør videreføres. Skattedirektoratet antar at man etter [endringslov 25. juni 2010 nr. 32](lov/2010-06-25-32) ikke lenger kan hevde at «det ikke har vært lovgivers intensjon at arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig».
 
+*Søkers anførsler*
+
 Advokatfirmaet har på vegne av ST anført flere forhold som de mener at taler for at ST bør innvilges et unntak for merverdiavgift på omsetningen av inngangsbilletter til arrangementet.
 
 Søker peker for det første på at ST i dag er unntatt fra plikt til å beregne merverdiavgift på omsetning av inngangsbilletter i medhold av departementets vedtak 30. oktober 2003. Tilsvarende er sammenlignbare arrangementer tidligere innvilget unntak. Søker kan ikke se at det har skjedd endringer verken i regelverket eller de faktiske forhold som skulle tilsi at departementet må endre standpunkt i spørsmålet om unntak. Det vises til at det frivillige arbeidet er en forutsetning for å kunne arrangere messen og at stiftelsens formål er å yte økonomisk støtte til idrettslige aktiviteter i Tønsberg kommune. Søker antar at det ikke har vært lovgivers intensjon at inngangspenger til arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig.
 
 Søker viser også til at de mest sentrale av de aktiviteter som inngangsbilletten gir adgang til, blant annet konserter, er unntatt fra merverdiavgiftsloven, også etter 1. juli 2010. Inngangsbilletten for å komme inn på Tønsbergmessen må derfor anses som betaling dels for avgiftspliktige tjenester og dels for ikke-avgiftspliktige tjenester. Som en konsekvens av dette må avgiftsberegningen for inngangsbilletten fordeles i henhold til den delen som refererer seg til avgiftspliktige tjenester og den delen som refererer seg til ikke-avgiftspliktige tjenester. Fordelingen må baseres på et konkret skjønn og representerer til dels vanskelige avgiftstekniske vurderinger. Ettersom det søkes om unntak fra plikt til å beregne utgående merverdiavgift på billettinntektene i sin helhet, går søker imidlertid ikke nærmere inn på denne fordelingen.
+
+*Finansdepartementets vurderinger*
 
 Finansdepartementet finner det hensiktsmessig først å knytte noen merknader til merverdiavgiftsreglene på dette spesifikke området.
 

@@ -26,6 +26,13 @@ eu_basis: []
 
 Forskriften får anvendelse i et område rundt/over Snorre undervannsinnretning og tauhode, som ligger ca 75 meter fra innretningen, angitt som en sirkel med radius 575 meter målt fra innretningens senter.
 
+Innretningens posisjon er:
+
+|  |  |  |
+| --- | --- | --- |
+| UTM koordinater: | 6 817 700 N | 458 800 Ø |
+| Geografiske koordinater: | 61°29′21,58″N | 02°13′34,84°Ø |
+
 ## § 2.
 
 Innenfor området som angitt i [§ 1](forskrift/1989-06-23-413/§1), forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade innretninger på eller over havbunnen.

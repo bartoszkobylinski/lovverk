@@ -44,7 +44,15 @@ I denne forskriften menes med:*Melk*: Flytende ku- og geitemelk, ubehandlet elle
 
 ## § 4. Utjevning mellom hovedmelkeanvendelser
 
-For å utjevne mellom ulike anvendelser av melk, innplasserer Landbruksdirektoratet melkeprodukter som omfattes av denne forskriften i følgende prisgrupper:*Markeder**Produktgrupper**Sure og søte smakstilsatte flytende melkeprodukter og ferske oster**Ikke smakstilsatte flytende melkeprodukter**Modnede oster, mysoster og geitemelks-produkter**Tørrmelk og kasein**Dagligvare:* Marked for innenlands og utenlands salg av melkeprodukter til detaljister, grossister, storhusholdnings-kunder, skoler, institusjoner og lignendePrisgruppe 1Prisgruppe 2Prisgruppe 3*Industri:* Marked for innenlands og utenlands salg av melkeprodukter til foredlingsindustri for bruk til fremstilling av annen videreforedlet varePrisgruppe 4*
+For å utjevne mellom ulike anvendelser av melk, innplasserer Landbruksdirektoratet melkeprodukter som omfattes av denne forskriften i følgende prisgrupper:
+
+| *Markeder* | *Produktgrupper* |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *Sure og søte smakstilsatte flytende melkeprodukter og ferske oster* | *Ikke smakstilsatte flytende melkeprodukter* | *Modnede oster, mysoster og geitemelks-produkter* | *Tørrmelk og kasein* |
+| *Dagligvare:* Marked for innenlands og utenlands salg av melkeprodukter til detaljister, grossister, storhusholdnings-kunder, skoler, institusjoner og lignende | Prisgruppe 1 | Prisgruppe 2 | Prisgruppe 3 |  |
+| *Industri:* Marked for innenlands og utenlands salg av melkeprodukter til foredlingsindustri for bruk til fremstilling av annen videreforedlet vare | Prisgruppe 4\* |  |  |  |
+
+\* Flytende produkter, ferske oster, modnede oster, mysoster og geitemelksprodukter i industrimarkedet, samt tørrmelk og kasein i industri- og dagligvaremarkedet.
 
 Det kvantum som det skal svares avgift eller kan kreves tilskudd for, skal være beregnet mengde anvendt melk bak det produserte kvantum melkeprodukter innenfor prisgruppene i første ledd.
 
@@ -58,8 +66,13 @@ For melk anvendt av meieriselskap som Tine SA ikke har bestemmende innflytelse o
 
 ## § 5. Biproduktutjevning
 
-For å utjevne mellom ulike anvendelser av fløte og myse, innplasserer Landbruksdirektoratet melkeprodukter som består av disse biproduktene i følgende grupper:*Biproduktgrupper**Avgiftspliktige**Tilskuddsberettigede*1) Flytende melkeprodukter omsatt i dagligvaremarkedet, og hvor melkedelen av produktet har høyere fettinnhold enn helmelk (kremfløteprodukter)2) Smørprodukter omsatt i dagligvaremarkedet4) Mysoster omsatt i dagligvaremarkedet og industrimarkedet3) Følgende produkter omsatt i industrimarkedet:
-Smørprodukter, blandingsprodukter av melkefett og annet fett, tørrmelks- og kaseinprodukter med fettinnhold i prisgruppe 4, melkeprodukter med fettinnhold for fremstilling av iskremprodukter
+For å utjevne mellom ulike anvendelser av fløte og myse, innplasserer Landbruksdirektoratet melkeprodukter som består av disse biproduktene i følgende grupper:
+
+| *Biproduktgrupper* |  |
+| --- | --- |
+| *Avgiftspliktige* | *Tilskuddsberettigede* |
+| 1) Flytende melkeprodukter omsatt i dagligvaremarkedet, og hvor melkedelen av produktet har høyere fettinnhold enn helmelk (kremfløteprodukter) | 2) Smørprodukter omsatt i dagligvaremarkedet |
+| 4) Mysoster omsatt i dagligvaremarkedet og industrimarkedet | 3) Følgende produkter omsatt i industrimarkedet:<br>Smørprodukter, blandingsprodukter av melkefett og annet fett, tørrmelks- og kaseinprodukter med fettinnhold i prisgruppe 4, melkeprodukter med fettinnhold for fremstilling av iskremprodukter |
 
 Det kvantum som det skal svares avgift eller kan kreves tilskudd for, skal være beregnet mengde produksjonsfløte eller myse med kumelk som råvare, bak det solgte eller produserte kvantum melkeprodukter innenfor biproduktgruppene i første ledd.
 

@@ -30,21 +30,33 @@ Denne gradsforskriften gjelder for de studieprogram som institusjonen vedtar å 
 
 ### 2. Definisjoner
 
+*2.1. Studieprogram*
+
 Et studieprogram er et flerårig studium som fører til en grad: bachelorgrad eller mastergrad.
 
 Studieprogrammet skal beskrive hovedlinjer, profil og omfang for studiet.
 
 Hvert studieprogram skal ha en eller flere studieplaner.
 
+*2.2. Studieplan*
+
 En studieplan er en plan for hvordan studiet kan/skal gjennomføres for at det skal føre til et bestemt kompetansenivå, og som gir en nærmere beskrivelse av studiets struktur og innhold samt hvilke krav som stilles for opptak og gjennomføring.
+
+*2.3. Studiekalenderen*
 
 Studiekalenderen er en oversikt som viser studieårets tilbud av undervisning og andre faglige aktiviteter, som kurs, prosjekter og seminarer.
 
 I Studiekalenderen inngår nærmere bestemte aktiviteter felles for hele institusjonen. Denne delen av Studiekalenderen betegnes som Felleskalenderen.
 
+*2.4. Studiepoeng*
+
 Studiepoeng er målestokk for arbeidsomfanget i studiet. 60 studiepoeng tilsvarer ett års studium på full tid.
 
+*2.5. Studentvurdering*
+
 Studentvurdering er en formell intern vurdering av det faglige nivået og den faglige fremgangen studenten har oppnådd ved bestemte stadier i studiet.
+
+*2.6. Eksamen*
 
 Eksamen er den formelle vurderingen av det faglige nivået studenten har oppnådd ved avslutningen av et studieprogram. I eksamensvurderingen skal eksterne sensorer delta.
 
@@ -84,6 +96,8 @@ Styret fastsetter studiekontrakten og mal for individuell utdanningsplan.
 
 ### 7. Vurderingsprosedyrer
 
+*7.1. Bachelorprogrammer*
+
 Studenten skal vurderes i forhold til faglig fremgang og nivå ved slutten av hvert semester.
 
 Studenten skal vurderes i forhold til den samlede faglige fremgang i arbeidsperioden og i henhold til de vurderingskriterier som er fastsatt i studieplanen.
@@ -96,11 +110,15 @@ I forbindelse med vurderingen skal studenten gjennom sin hovedveileder få en n�
 
 Nærmere bestemmelser om vurderingsprosedyrene kan fastsettes i studieplanen.
 
+*7.2. Masterprogrammer*
+
 Studenten skal vurderes på de tidspunkt og i forhold til de vurderingskriterier som fastsettes i studieplanen.
 
 I forbindelse med vurderingen skal studenten gjennom sin hovedveileder få en nærmere tilbakemelding om status på den faglige fremgangen. Det skal fastsettes retningslinjer for slik tilbakemelding.
 
 Nærmere bestemmelser om vurderingsprosedyrene kan fastsettes i studieplanen.
+
+*7.3. Forutsetninger for vurdering*
 
 Forutsetningen for at slike vurderinger kan foretaes, er at studenten har gjennomført/bestått de deler av studieplanen eller den individuelle utdanningsplanen som eventuelt er fastsatt/avtalt som obligatoriske.
 
@@ -118,13 +136,15 @@ Etter avsluttet eksamen skal studenten gjennom sin hovedveileder få en nærmere
 
 Styret fastsetter nærmere regler i Eksamensreglementet.
 
-### 9. Ikke bestått studiesemester/hovedelement* /eksamen
+### 9. Ikke bestått studiesemester/hovedelement\* /eksamen
 
-En student som iht. [pkt](forskrift/2003-06-25-1236/kap7). 7 ikke får godkjent semesteret/hovedelementet,* må ta det angjeldende semester/hovedelement på nytt. Studenten kan få samme semester/hovedelement vurdert ytterligere to ganger.
+En student som iht. [pkt](forskrift/2003-06-25-1236/kap7). 7 ikke får godkjent semesteret/hovedelementet,\* må ta det angjeldende semester/hovedelement på nytt. Studenten kan få samme semester/hovedelement vurdert ytterligere to ganger.
 
 En student som iht. [pkt](forskrift/2003-06-25-1236/kap8). 8 får karakteren «Ikke bestått» ved eksamensvurderingen, kan påbegynne denne eksamenen ytterligere to ganger.
 
 Hvis studenten ikke får godkjent resultat etter tredje gangs vurdering iht. [pkt](forskrift/2003-06-25-1236/kap7). 7 eller [pkt](forskrift/2003-06-25-1236/kap8). 8, mister studenten studieretten til det aktuelle studieprogrammet.
+
+\* Jf. masterprogrammenes definisjon av hovedelementer i studiet.
 
 ### 10. Klage
 

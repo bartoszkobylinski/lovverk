@@ -223,7 +223,26 @@ Disse forskrifter trer i kraft 15. september 1978. Fra samme dato oppheves:Kgl.r
 
 *Liste over jaktbare arter og jakttider:*
 
-Jakt og fangst kan, i samsvar med forskrifter om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen, gitt ved kgl.res. av 11. august 1978, drives på følgende arter og til følgende tider:f.o.m. – t.o.m.Polarrev (alopex lagopus)01.11. – 15.03.På Bjørnøya og Jan Mayen er polarrev fredet hele åretStorkobbe05.06. – 25.04Ringsel20.05. – 20.03Kortnebbgås (Anser brachyrhynchus)21.08. – 31.10.På Jan Mayen er kortnebbgås fredet hele åretSvalbardrype (Lagopus mutus hyperboreus)01.09. – 31.03.På Bjørnøya og Jan Mayen er rype fredet hele åretPolarmåke (Larus hyperboreus)Hele åretHavhest (Fulmarus glacialis)01.09. – 31.10.Polarlomvi (Uria lomvia)11.08. – 31.10.Lomvi (Uria aalge)01.09. – 31.10.Kan jaktes bare på BjørnøyaTeist (Cepphus gryle)01.09. – 31.10.Alkekonge (Alle alle)01.09. – 31.10.Lunde (Fratercula arctica)01.09. – 31.10.
+Jakt og fangst kan, i samsvar med forskrifter om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen, gitt ved kgl.res. av 11. august 1978, drives på følgende arter og til følgende tider:
+
+|  | f.o.m. – t.o.m. |
+| --- | --- |
+| Polarrev (alopex lagopus) | 01.11. – 15.03. |
+| På Bjørnøya og Jan Mayen er polarrev fredet hele året |  |
+| Storkobbe | 05.06. – 25.04 |
+| Ringsel | 20.05. – 20.03 |
+| Kortnebbgås (Anser brachyrhynchus) | 21.08. – 31.10. |
+| På Jan Mayen er kortnebbgås fredet hele året |  |
+| Svalbardrype (Lagopus mutus hyperboreus) | 01.09. – 31.03. |
+| På Bjørnøya og Jan Mayen er rype fredet hele året |  |
+| Polarmåke (Larus hyperboreus) | Hele året |
+| Havhest (Fulmarus glacialis) | 01.09. – 31.10. |
+| Polarlomvi (Uria lomvia) | 11.08. – 31.10. |
+| Lomvi (Uria aalge) | 01.09. – 31.10. |
+| Kan jaktes bare på Bjørnøya |  |
+| Teist (Cepphus gryle) | 01.09. – 31.10. |
+| Alkekonge (Alle alle) | 01.09. – 31.10. |
+| Lunde (Fratercula arctica) | 01.09. – 31.10. |
 
 For alt vilt gjelder helgedagsfredning i tiden f.o.m. 24.12. t.o.m. 31.12., langfredag og første påskedag.
 

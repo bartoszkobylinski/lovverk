@@ -35,3 +35,5 @@ Første ledd gjelder ikke for lån som faller inn under statens ansvar etter avs
 ## § 3. Ikrafttredelse
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 10 sep 2004 iflg. [res. 27 aug 2004 nr. 1220](forskrift/2004-08-27-1220).

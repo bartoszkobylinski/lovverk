@@ -56,6 +56,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av kommisjonens gjennomføri
 av 31. januar 2025
 om innsamling og overføring av molekylære analytiske data innenfor rammen av epidemiologisk undersøkelser av utbrudd av næringsmidler i samsvar med europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099)
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsdirektiv [2003/99/EF](eu/32003l0099) av 17. november 2003 om overvåking av zoonoser og zoonotiske smittestoffer, om endring av rådsvedtak [90/424/EØF](eu/31990d0424) og om oppheving av rådsdirektiv [92/117/EØF](eu/31992l0117)1, særlig artikkel 8 nr. 3, og
+
+ut fra følgende betraktninger:
+
 1. I henhold til artikkel 8 nr. 2 i direktiv [2003/99/EF](eu/32003l0099) skal vedkommende myndighet i den respektive medlemsstaten undersøke utbrudd av næringsmiddeloverført sykdom i samarbeid med vedkommende myndigheter med ansvar for å håndtere alvorlige grensekryssende trusler mot menneskers helse og konsekvensene av disse i henhold til europaparlaments- og rådsvedtak nr. [2119/98/EF](eu/31998d2119)1. Dette vedtaket ble opphevet ved europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082)2, som senere ble opphevet og erstattet ved europaparlaments- og rådsforordning [(EU) 2022/2371](eu/32022r2371)3. Disse undersøkelsene skal gi opplysninger om den epidemiologiske profilen, næringsmidlene som kan være involvert, de potensielle årsakene til utbruddene samt omfatte tilstrekkelige epidemiologiske og mikrobiologiske undersøkelser.
 2. Et effektivt og tverrsektorielt samarbeid mellom folkehelsemyndighetene og myndighetene for næringsmiddeltrygghet ved slike undersøkelser er avgjørende for å begrense konsekvensene for folkehelsen av et utbrudd og for å minimere de økonomiske konsekvensene knyttet til tilbakekalling og tilbaketrekking av næringsmidler som ikke er trygge eller potensielt ikke trygge. For dette formål er det nødvendig med rask og pålitelig identifisering av partier eller forsendelser som inneholder forurensede næringsmidler samt årsaken til utbruddet.
 3. Helgenomsekvensering er en moderne molekylær analysemetode for mikrobiologiske undersøkelser som i høy grad muliggjør rask identifisering av klynger av mikroorganismer og støtter de epidemiologiske undersøkelsene. Den gjør det mulig, under undersøkelsen av utbruddet, å fastslå forbindelser mellom isolater av patogener som overføres gjennom næringsmidler som er funnet hos mennesker, næringsmidler, dyr og fôr og det tilhørende miljøet.
@@ -64,19 +72,29 @@ om innsamling og overføring av molekylære analytiske data innenfor rammen av e
 6. Medlemsstatene og myndigheten bør gis tilstrekkelig tid til å tilpasse seg de nye kravene til innsamling av isolater som stammer fra prøver av næringsmidler, dyr, fôr og tilknyttede prøver fra miljøet, til helgenomsekvensering av disse isolatene og formidling av tilknyttede data, for å gjøre tilgjengelig de nødvendige tekniske anvendelser og finansielle midler. Kravene som er fastsatt i denne forordningen, bør derfor få anvendelse 18 måneder fra ikrafttredelsesdatoen for denne forordningen.
 7. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 Europaparlaments- og rådsvedtak nr. [2119/98/EF](eu/31998d2119) av 24. september 1998 om opprettelse av et nett for epidemiologisk overvåking av og kontroll med smittsomme sykdommer i Fellesskapet (EFT L 268 av 3.10.1998, s. 1, ELI: [https://data.europa.eu/eli/dec/1998/2119/oj](https://data.europa.eu/eli/dec/1998/2119/oj)).
+
+2 Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082) av 22. oktober 2013 om alvorlige helsetrusler over landegrensene og om oppheving av vedtak nr. [2119/98/EF](eu/31998d2119) (EUT L 293 av 5.11.2013, s. 1, ELI: [https://data.europa.eu/eli/dec/2013/1082/oj](https://data.europa.eu/eli/dec/2013/1082/oj)).
+
+3 Europaparlaments- og rådsforordning [(EU) 2022/2371](eu/32022r2371) av 23. november 2022 om alvorlige grensekryssende helsetrusler og om oppheving av beslutning nr. [1082/2013/EU](eu/32013d1082) (EUT L 314 av 6.12.2022, s. 26, ELI: [https://data.europa.eu/eli/reg/2022/2371/oj](https://data.europa.eu/eli/reg/2022/2371/oj)).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Innsamling av og helgenomsekvensering (WGS) av isolater av patogener som overføres gjennom næringsmidler som forbindes med utbrudd av næringsmiddeloverført sykdom
 
-1. Vedkommende myndighet som er ansvarlig for undersøkelsen av utbrudd av næringsmiddeloverført sykdom i henhold til artikkel 8 i direktiv [2003/99/EF](eu/32003l0099), skal uten unødig opphold samle inn isolater av *Salmonella enterica, Listeria monocytogenes*, *Escherichia coli*, *Campylobacter jejuni* og *Campylobacter coli* i de tilfeller disse patogenene er forbundet med eller mistenkes å være forbundet med et utbrudd av næringsmiddeloverført sykdom, på grunnlag av tilgjengelige analytiske eller epidemiologiske opplysninger, i vedkommende myndighets medlemsstat eller i en annen medlemsstat, og de stammer fra prøver tatt fra de mistenkte næringsmidlene, de mistenkte dyrene, det mistenkte fôret eller det tilknyttede miljøet under undersøkelser av utbrudd av næringsmiddeloverført sykdom.
+1\. Vedkommende myndighet som er ansvarlig for undersøkelsen av utbrudd av næringsmiddeloverført sykdom i henhold til artikkel 8 i direktiv [2003/99/EF](eu/32003l0099), skal uten unødig opphold samle inn isolater av *Salmonella enterica, Listeria monocytogenes*, *Escherichia coli*, *Campylobacter jejuni* og *Campylobacter coli* i de tilfeller disse patogenene er forbundet med eller mistenkes å være forbundet med et utbrudd av næringsmiddeloverført sykdom, på grunnlag av tilgjengelige analytiske eller epidemiologiske opplysninger, i vedkommende myndighets medlemsstat eller i en annen medlemsstat, og de stammer fra prøver tatt fra de mistenkte næringsmidlene, de mistenkte dyrene, det mistenkte fôret eller det tilknyttede miljøet under undersøkelser av utbrudd av næringsmiddeloverført sykdom.
 
-2. Vedkommende myndighet skal foreta helgenomsekvensering på minst ett isolat av hver serovar, biotype eller molekyltype av de innsamlede isolatene nevnt i nr. 1 i denne artikkelen i et offisielt laboratorium som nevnt i artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)4, og som er akkreditert for denne metoden i henhold til ISO 17025.
+2\. Vedkommende myndighet skal foreta helgenomsekvensering på minst ett isolat av hver serovar, biotype eller molekyltype av de innsamlede isolatene nevnt i nr. 1 i denne artikkelen i et offisielt laboratorium som nevnt i artikkel 37 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)4, og som er akkreditert for denne metoden i henhold til ISO 17025.
 
-3. Driftsansvarlige for næringsmiddel- og fôrforetak skal, på anmodning fra vedkommende myndighet, oversende myndigheten isolatene av patogenene nevnt i nr. 1 og de tilknyttede resultatene fra helgenomsekvenseringen innenfor rammen av deres egne undersøkelser, dersom de er tilgjengelige, når de er knyttet til eller mistenkes for å være knyttet til et utbrudd, sammen med de tilknyttede dataene nevnt i artikkel 2 nr. 2).
+3\. Driftsansvarlige for næringsmiddel- og fôrforetak skal, på anmodning fra vedkommende myndighet, oversende myndigheten isolatene av patogenene nevnt i nr. 1 og de tilknyttede resultatene fra helgenomsekvenseringen innenfor rammen av deres egne undersøkelser, dersom de er tilgjengelige, når de er knyttet til eller mistenkes for å være knyttet til et utbrudd, sammen med de tilknyttede dataene nevnt i artikkel 2 nr. 2).
+
+4 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999r0074), [2007/43/EF](eu/32007r0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (EUT L 95 av 7.4.2017, s. 1, ELI: [https://data.europa.eu/eli/reg/2017/625/oj](https://data.europa.eu/eli/reg/2017/625/oj)).
 
 ### Artikkel 2. Formidling av resultatene fra helgenomsekvenseringen
 
-1. Vedkommende myndighet nevnt i artikkel 1 skal uten unødig opphold formidle til myndigheten resultatene av helgenomsekvenseringen som er foretatt på isolatene av *Salmonella enterica, Listeria monocytogenes, Escherichia coli*, *Campylobacter jejuni* og *Campylobacter coli* som nevnt i artikkel 1 nr. 1.
+1\. Vedkommende myndighet nevnt i artikkel 1 skal uten unødig opphold formidle til myndigheten resultatene av helgenomsekvenseringen som er foretatt på isolatene av *Salmonella enterica, Listeria monocytogenes, Escherichia coli*, *Campylobacter jejuni* og *Campylobacter coli* som nevnt i artikkel 1 nr. 1.
 
-2. Dataene nevnt i nr. 1 skal ledsages av følgende tilknyttede data:Et entydig referansenummer for genomsekvensen av isolatet som sekvensen er generert fra.Et entydig referansenummer for prøven som patogenet er isolert fra.Arten patogen.Beskrivelsen av næringsmiddelet, dyrearten, fôret eller miljøet isolatet stammer fra.Datoen for prøvetaking.Medlemsstaten der prøvetakingen er foretatt.Henvisningen til meldingen som er knyttet til isolatet, dersom isolatet er meldt i hurtigvarslingssystemet for næringsmidler og fôr (RASFF).Et entydig referansenummer for det utbruddet av næringsmiddeloverført sykdom som undersøkes på nasjonalt plan.
+2\. Dataene nevnt i nr. 1 skal ledsages av følgende tilknyttede data:Et entydig referansenummer for genomsekvensen av isolatet som sekvensen er generert fra.Et entydig referansenummer for prøven som patogenet er isolert fra.Arten patogen.Beskrivelsen av næringsmiddelet, dyrearten, fôret eller miljøet isolatet stammer fra.Datoen for prøvetaking.Medlemsstaten der prøvetakingen er foretatt.Henvisningen til meldingen som er knyttet til isolatet, dersom isolatet er meldt i hurtigvarslingssystemet for næringsmidler og fôr (RASFF).Et entydig referansenummer for det utbruddet av næringsmiddeloverført sykdom som undersøkes på nasjonalt plan.
 
 ### Artikkel 3. Ikrafttredelse og anvendelsesdato
 
@@ -84,6 +102,6 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 23. august 2026.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 31. januar 2025.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 31. januar 2025.*For Kommisjonen*
+Ursula von der Leyen
+*President*

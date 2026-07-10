@@ -92,11 +92,26 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som den automat
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre<br>temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre<br>temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
+
 > Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
 ### § 11. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter automatiske jernbanevekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter automatiske jernbanevekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter automatiske jernbanevekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -200,9 +215,36 @@ Betjeningsanordningers grenseflater skal være tydelige og effektive. Operatøre
 
 Automatiske jernbanevekter inndeles i fire nøyaktighetsklasser. Tabell 3 viser nøyaktighetsklassene og til hvilke type veiing de skal anvendes.
 
+*Tabell 3*
+
+| *Klasse* | *Type veiing* |
+| --- | --- |
+| 0,2 | Benyttes ved veiing av gods ved handelstransaksjoner |
+| 0,5 | Benyttes ved veiing av gods ved handelstransaksjoner |
+| 1 | Benyttes ved beregning av frakt, tariff, etc. |
+| 2 | Benyttes ved beregning av frakt, tariff, etc. |
+
 ### § 29. Maksimal tillatt feil
 
 Maksimal tillatt feil for dynamisk veiing av én enkelt vogn eller et helt tog er vist i tabell 4 for automatiske jernbanevekter som selges eller tilbys for salg, og tabell 5 for automatiske jernbanevekter under bruk.
+
+*Tabell 4*
+
+| *Nøyaktighetsklasse* | *Maksimal tillatt målefeil ved salg* |
+| --- | --- |
+| 0,2 | ± 0,1 % |
+| 0,5 | ± 0,25 % |
+| 1 | ± 0,5 % |
+| 2 | ± 1,0 % |
+
+*Tabell 5*
+
+| *Nøyaktighetsklasse* | *Maksimal tillatt målefeil under bruk* |
+| --- | --- |
+| 0,2 | ± 0,2 % |
+| 0,5 | ± 0,5 % |
+| 1 | ± 1,0 % |
+| 2 | ± 2,0 |
 
 Maksimal tillatt feil for dynamisk veiing av koplede eller frakoplede vogner er den høyeste av følgende verdier:verdien beregnet etter tabell 4 og 5, avrundet til nærmeste delingverdien beregnet etter tabell 4 og 5, avrundet til nærmeste deling for en belastning lik 35 % av maksimum vognvekt (som angitt i påskriften)en minstedeling (d).
 
@@ -216,6 +258,15 @@ Ved veiing av koplede vogner kan høyest 10 % av de veieresultatene som er oppn
 
 Forholdet mellom nøyaktighetsklassen og minstedelingen skal være som angitt i tabell 6.
 
+*Tabell 6*
+
+| *Nøyaktighetsklasse* | *Minstedeling (d)* |
+| --- | --- |
+| 0,2 | d ≤ 50 kg |
+| 0,5 | d ≤ 100 kg |
+| 1 | d ≤ 200 kg |
+| 2 | d ≤ 500 kg |
+
 ### § 31. Måleområder
 
 Minimumskapasiteten skal ikke være under 1 t, og ikke over verdien av resultatet av minste vognvekt dividert med antallet partiellveiinger.
@@ -225,6 +276,14 @@ Minste vognvekt skal ikke være under 50 d.
 ### § 32. Ytelse under påvirkende faktorer og elektromagnetisk forstyrrelse
 
 Maksimal tillatte feil som følge av en påvirkningsfaktor, er som angitt i tabell 7:
+
+*Tabell 7*
+
+| *Belastning (m) uttrykt i minstedeling (d)* | *Maksimal tillatte målefeil* |
+| --- | --- |
+| 0 < m ≤ 500 | ± 0,5 d |
+| 500 < m ≤ 2 000 | ± 1,0 d |
+| 2 000 < m ≤ 10 000 | ± 1,5 d |
 
 Den kritiske endringsverdien som følge av en forstyrrelse, er en minstedeling.
 

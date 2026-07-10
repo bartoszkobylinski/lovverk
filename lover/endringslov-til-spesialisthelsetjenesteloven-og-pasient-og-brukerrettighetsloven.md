@@ -26,7 +26,11 @@ eu_basis: []
 
 I [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. gjøres følgende endringer: – – –
 
+[§ 5-5](lov/1999-07-02-61/§5-5) nytt tredje ledd skal lyde:
+
 Pasienter kan ikke betale for en høyere standard på helsehjelpen enn det som tilbys etter [§ 2-1 a](lov/1999-07-02-61/§2-1a). Den offentlige spesialisthelsetjenesten skal ikke bistå med administrering eller oppfølging av legemidler som er kjøpt av pasienten, og som er besluttet ikke tatt i bruk i den offentlige spesialisthelsetjenesten.
+
+Nåværende tredje ledd blir nytt fjerde ledd.
 
 ## II
 
@@ -35,3 +39,5 @@ I [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter 
 ## III
 
 Loven gjelder fra den tid1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.
+
+1 Fra 1 jan 2020 iflg. [res. 20 des 2019 nr. 1933](forskrift/2019-12-20-1933) med unntak av romertall I § 5-5 nytt tredje ledd.

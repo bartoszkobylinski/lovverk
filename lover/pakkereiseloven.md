@@ -379,6 +379,12 @@ Med bøter eller med fengsel i inntil tre måneder straffes den som forsettlig e
 
 Loven gjelder fra den tid1 Kongen bestemmer. Loven gjelder bare for avtaler som inngås etter lovens ikrafttredelse.
 
+1 Fra 1 juli 2018 iflg. [res. 15 juni 2018 nr. 885](forskrift/2018-06-15-885).
+
 ### § 55. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+**1.** [Lov 25. august 1995 nr. 57](lov/1995-08-25-57) om pakkereiser og reisegaranti oppheves.
+
+– – –

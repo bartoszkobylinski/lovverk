@@ -2809,6 +2809,13 @@ Dykking og opphold i dykkingen skal tilrettelegges og gjennomføres i henhold ti
 
 Dykking skal gjennomføres innenfor bunntidsbegrensningene som beskrevet i tabell:
 
+*Begrensninger i bunntid for dykking med overflatedekompresjon (OD-O2 ) og dekompresjon i vann, samt for TUP-dekompresjon (Transfer under pressure)*
+
+| *Dybde*<br>*(meter)* | 0–12 | *15* | *18* | *21* | *24* | *27* | *30* | *33* | *36* | *39* | *42* | *45* | *48* | *51* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| OD-O2<br>og i<br>vann<br>(min) | 240 | 180 | 120 | 90 | 70 | 60 | 50 | 40 | 35 | 30 | 30 | 25 | 25 | 20 |
+| TUP<br>(min) | 240 | 240 | 180 | 180 | 180 | 130 | 110 | 95 | 85 | 75 | 65 | 60 | 55 | 50 |
+
 Dykkecomputer kan kun benyttes som ekstra sikkerhetsverktøy, og under forutsetning av at dykkeleder kontrollerer dykkerens tid og dybde samt sørger for at oppstigningen og eventuelle dekompresjonsstopp er innenfor oppsatte retningslinjer i dykketabell.
 
 Det skal ikke dykkes etter flernivåtabell uten at arbeidsgiver har sikret:at det som kvalitetssikring samtidig benyttes dykkecomputer (RGBM-, Bühlmann- eller Thalmann-algoritme) der dykkingen avbrytes dersom ikke flernivåtabell og dykkecomputer til enhver tid tillater direkteoppstigning til overflaten,kontinuerlig digital dybdemonitorering på overflaten,digital loggføring av trykk-tid profil ogdigital loggføring av gjenværende tid før dekompresjonsdykk.

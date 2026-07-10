@@ -41,3 +41,5 @@ Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av 
 Disse forskrifter trer i kraft 15. mai 1978, med unntak av [§ 2](forskrift/1978-04-28-20/§2) annet ledd bokstav d, som trer i kraft fra den tid Fiskeridirektoratet bestemmer.1
 
 > Endret ved [forskrifter 16 sep 1994 nr. 875](forskrift/1994-09-16-875) (tidligere [§ 5](forskrift/1994-09-16-875/§5)), [30 mars 2005 nr. 268](forskrift/2005-03-30-268) (i kraft 1 mai 2005, tidligere § 7).
+
+1 [§ 2](forskrift/1978-04-28-20/§2) er opphevet fra 1 mai 2005, jf. [forskrift 30 mars 2005 nr. 268](forskrift/2005-03-30-268).

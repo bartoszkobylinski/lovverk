@@ -402,7 +402,7 @@ Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkomme
 
 (1) Styret oppnevner klagenemnd for Lukas høyere yrkesfagskole AS som skal behandle klager over enkeltvedtak. Klagenemnda består av 5 medlemmer med personlige varamedlemmer. Lederen og varamedlemmet for lederen fyller de lovbestemte kravene for lagdommere. Lederen og varamedlemmet for lederen er ikke ansatt ved Lukas fagskole AS. To av medlemmene er studentrepresentanter.
 
-2) Klagenemnda er vedtaksfør når lederen eller varamedlemmet for lederen og to andre medlemmer er til stede. Den lokale klagenemndas vedtak i saker om fagskolens enkeltvedtak kan ikke påklages.
+2\) Klagenemnda er vedtaksfør når lederen eller varamedlemmet for lederen og to andre medlemmer er til stede. Den lokale klagenemndas vedtak i saker om fagskolens enkeltvedtak kan ikke påklages.
 
 (3) Styret har bestemt bestemme at klagenemnda skal behandle og treffe vedtak i saker etter [fagskolelovens §§ 24](lov/2018-06-08-28/§24), [25](lov/2018-06-08-28/§25), [26](lov/2018-06-08-28/§26) og [27](lov/2018-06-08-28/§27).
 

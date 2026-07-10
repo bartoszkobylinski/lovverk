@@ -401,27 +401,49 @@ Beholderne skal følges av en bruksanvisning utarbeidet av produsenten, som omha
 
 ### 1. Framgangsmåter for EU-typeprøving (modul B)
 
+1.1
+
 EU-typeprøving er den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker en beholders tekniske konstruksjon og kontrollerer og bekrefter at beholderens tekniske utforming oppfyller gjeldende krav i forskriften.
 
+1.2
+
 EU-typeprøvingen kan gjennomføres på en av følgende måter i samsvar med [§ 17](forskrift/2017-02-10-171/§17):en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, samt en undersøkelse av en prototyp som er representativ for den planlagte produksjonen, av den komplette beholder (produksjonstype),en vurdering av egnetheten til beholderens tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen nevnt i nr. 1.3, uten undersøkelse av en prototyp for beholderen (konstruksjonstype).
+
+1.3
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
 Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om beholderen er i samsvar med gjeldende krav i forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke beholderens konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av beholderen,konstruksjons- og produksjonstegninger, delelister osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og beholderens virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i forskriften, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,instruksene og sikkerhetsinformasjonen nevnt i vedlegg II nr. 2,et dokument som beskrivervalgte materialer,valgte sveisemetoder,valgte kontrolltiltak,alle viktige opplysninger om beholderens konstruksjon,dersom det er relevant, prototyp som er representativ for den planlagte produksjonen. Det tekniske kontrollorganet kan anmode om flere prototyper for beholdere dersom det er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.Når en prototyp for beholderen er undersøkt, skal den tekniske dokumentasjonen også inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført, eller en beskrivelse av foreslåtte kontrolltiltak.
 
+1.4
+
 Det tekniske kontrollorganet skalnår det gjelder beholderen,
+
+1.4.1
 
 undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om beholderens tekniske konstruksjon er tilfredsstillende.når det gjelder prototypen for beholderen/beholderne,
 
+1.4.2
+
 verifisere at prototypen for beholderen/beholderne er produsert i samsvar med den tekniske dokumentasjonen, at den trygt kan brukes under de planlagte driftsforholdene, og identifisere elementer som er konstruert i samsvar med gjeldende bestemmelser i relevante harmoniserte standarder, og elementer som er konstruert i henhold til øvrige relevante tekniske spesifikasjoner,
+
+1.4.3
 
 utføre eller besørge utført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der produsenten har valgt å anvende dem,
 
+1.4.4
+
 gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om løsninger produsenten har valgt fra andre relevante tekniske spesifikasjoner, oppfyller de grunnleggende sikkerhetskrav i forskriften, i tilfeller der løsningene i de relevante harmoniserte standardene ikke er anvendt,
+
+1.4.5
 
 avtale med produsenten hvor undersøkelsene og prøvingene skal gjennomføres.
 
+1.5
+
 Det tekniske kontrollorganet skal utarbeide en vurderingsrapport som beskriver tiltakene som er gjennomført i henhold til nr. 1.4, og resultatene av dem. Uten at det berører dets forpliktelser overfor de utpekende myndighetene, skal det tekniske kontrollorganet ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
+
+1.6
 
 Når typen oppfyller kravene i forskriften, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, eventuelle gyldighetsvilkår for det, og opplysningene som kreves for å identifisere den godkjente typen. EU-typeprøvingssertifikatet kan ha et eller flere vedlegg.
 
@@ -429,9 +451,13 @@ EU-typeprøvingssertifikatet og dets vedlegg skal inneholde alle opplysninger so
 
 Dersom typen ikke oppfyller gjeldende krav i forskriften, skal det tekniske kontrollorganet avslå å utstede et EF-typeprøvingssertifikat og underrette søkeren om dette, samt gi søkeren en detaljert begrunnelse for avslaget.
 
+1.7
+
 Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i forskriften, og avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det tekniske kontrollorganet underrette produsenten om dette.
 
 Produsenten skal underrette det tekniske kontrollorganet som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om beholderen er i samsvar med de grunnleggende sikkerhetskravene i forskriften eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EU-typeprøvingssertifikatet.
+
+1.8
 
 Hvert teknisk kontrollorgan skal underrette sin utpekende myndighet om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for den utpekende myndigheten fortegnelser over slike sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
@@ -439,41 +465,79 @@ Hvert teknisk kontrollorgan skal underrette de andre tekniske kontrollorganene o
 
 Kommisjonen, medlemsstatene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og/eller tillegg til dem. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene som er gjennomført av det tekniske kontrollorganet. Det tekniske kontrollorganet skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og de tekniske dataene, herunder dokumentasjonen innsendt av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
 
+1.9
+
 Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen for de nasjonale myndigheter i ti år etter at beholderen er brakt i omsetning.
+
+1.10
 
 Produsentens representant kan inngi søknaden nevnt i nr. 1.3 og oppfylle forpliktelsene angitt i nr. 1.7 og 1.9, forutsatt at de er angitt i fullmakten.
 
 ### 2. Typesamsvar basert på intern produksjonskontroll samt overvåket prøving av beholdere (modul C1)
 
+2.1
+
 Typesamsvar basert på intern produksjonskontroll samt overvåket prøving av beholdere er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2.2, 2.3 og 2.4, og sikrer og erklærer på eget ansvar at de berørte beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+2.2*Produksjon*
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen med den sikrer at beholderne som produseres, er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i forskriften.
 
 Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særligden tekniske dokumentasjonen, som også skal inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført,inspeksjonsdokumentet som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas under produksjonen, samt hvordan og hvor ofte disse skal gjennomføres,EU-typeprøvingssertifikatet.
 
+2.3*Kontroll av beholdere*
+
+2.3.1
+
 For hver beholder som produseres, skal et teknisk kontrollorgan utføre hensiktsmessige undersøkelser og prøvinger for å kontrollere at beholderen er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet og med de tilsvarende krav i forskriften i samsvar med følgende punkter:Produsenten skal presentere beholderne i ensartede partier og treffe alle nødvendige tiltak for å påse at produksjonsprosessen sikrer ensartethet for hvert parti som produseres.Når det tekniske kontrollorganet undersøker et parti, skal det påse at beholderne er produsert og kontrollert i samsvar med den tekniske dokumentasjonen, og foreta en hydrostatisk trykkprøving, eller en pneumatisk trykkprøving med samme virkning, av alle beholderne i partiet der disse utsettes for et trykk Ph på 1,5 ganger beholderens beregningstrykk for å kontrollere deres styrke. Pneumatisk trykkprøving forutsetter at sikkerhetsbestemmelsene for prøven er godkjent av medlemsstaten der slik prøving foretas.For å undersøke sveisekvaliteten skal det tekniske kontrollorganet dessuten utføre prøvinger på prøvelegemer som etter produsentens valg er tatt fra et prøveemne som er representativt for produksjonen eller fra en beholder. Prøvingene foretas på langsveiser. Prøvingene skal imidlertid gjentas på rundsveiser når det benyttes ulike sveisemetoder ved rund- og langsveising.Når det gjelder beholdere nevnt i vedlegg I nr. 2.1.2, skal prøvingene på prøvelegemer erstattes av hydrostatisk prøving av fem tilfeldig valgte beholdere fra hvert parti for å kontrollere at de oppfyller de grunnleggende sikkerhetskravene i vedlegg I nr. 2.1.2.Når det gjelder godkjente partier, skal det tekniske kontrollorganet påføre sitt identifikasjonsnummer, eller sørge for at dette nummeret blir påført, på hver beholder og utarbeide et skriftlig samsvarssertifikat for de prøvingene som er utført. Alle beholdere i et parti kan bringes i omsetning, unntatt de som ikke har gått gjennom en hydrostatisk trykkprøving eller en pneumatisk trykkprøving med positivt resultat.Dersom et parti blir avvist, skal det tekniske kontrollorganet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom partier forkastes ofte, kan det tekniske kontrollorganet midlertidig oppheve ordningen med statistisk verifisering.Produsenten skal på anmodning fra de relevante myndigheter legge fram det tekniske kontrollorganets samsvarssertfikater som nevnt i bokstav e).
+
+2.3.2
 
 Det tekniske kontrollorganet skal levere en kopi av inspeksjonsrapporten til medlemsstaten som har utpekt organet, og på forespørsel til de andre tekniske kontrollorganene, de øvrige medlemsstatene og Kommisjonen.
 
+2.3.3
+
 Produsenten skal, under det tekniske kontrollorganets ansvar, påføre det tekniske kontrollorganets identifikasjonsnummer i produksjonsprosessen.
+
+2.4*CE-merking og EU-samsvarserklæring*
+
+2.4.1
 
 Produsenten skal påføre CE-merkingen på hver enkelt beholder som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
 
+2.4.2
+
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver beholdermodell og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at beholderen er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken beholder den er utarbeidet for.
 
+2.4.3
+
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+2.5*Representant*
 
 Produsentens forpliktelser angitt i nr. 2.4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### 3. Typesamsvar basert på intern produksjonskontroll samt overvåket kontroll av beholdere med ujevne mellomrom (modul C2)
 
+3.1
+
 Typesamsvar basert på intern produksjonskontroll samt overvåket kontroll av beholdere med ujevne mellomrom er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 3.2, 3.3 og 3.4, og sikrer og erklærer på eget ansvar at de berørte beholderne er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+3.2*Produksjon*
+
+3.2.1
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen med den sikrer at beholderne som produseres, er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i forskriften.
 
+3.2.2
+
 Før produksjonen settes i gang, skal produsenten gi et teknisk kontrollorgan etter eget valg alle nødvendige opplysninger, særligden tekniske dokumentasjonen, som også skal inneholdesertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport undersøkelser og prøvinger som er utført,EU-typeprøvingssertifikatetet,et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
 
+3.2.3
+
 Dokumentet nevnt i nr. 3.2.2 bokstav c. skal inneholdeen beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.
+
+3.3*Kontroll av beholdere*
 
 Det tekniske kontrollorganet skal utføre eller besørge utført stikkprøvekontroll av beholderne med ujevne mellomrom fastsatt av organet, for å kontrollere kvaliteten på den interne kontrollen av beholderen, idet det tas hensyn til blant annet hvor teknologisk kompleks beholderne er, og produksjonsmengden. Et passende prøveutvalg av de ferdige beholderne, som tas på stedet av det tekniske kontrollorganet før beholderne bringes i omsetning, skal undersøkes, og hensiktsmessige prøvinger som definert i de relevante delene av de harmoniserte standardene og/eller tilsvarende prøvinger fastsatt i øvrige relevante tekniske spesifikasjoner, skal gjennomføres for å kontrollere om beholderen er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med de relevante krav i forskriften.
 
@@ -487,39 +551,77 @@ Det tekniske kontrollorganet skal levere en kopi av inspeksjonsrapporten til med
 
 Produsenten skal, under det tekniske kontrollorganets ansvar, påføre det tekniske kontrollorganets identifikasjonsnummer under produksjonsprosessen.
 
+3.4*CE-merking og EU-samsvarserklæring*
+
+3.4.1
+
 Produsenten skal påføre CE-merkingen på hver enkelt beholder som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+3.4.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver beholdermodell og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at beholderen er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken beholder den er utarbeidet for.
 
+3.4.3
+
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+3.5*Representant*
 
 Produsentens forpliktelser angitt i nr. 3.4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### 4. Typesamsvar basert på intern produksjonskontroll (modul C)
 
+4.1
+
 Typesamsvar basert på intern produksjonskontroll er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 4.2 og 4.3, og sikrer og erklærer at de berørte beholderne er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+4.2*Produksjon*
 
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen med den, sikrer at beholderne som produseres, er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.
 
 Før produksjonen settes i gang, skal produsenten gi til det tekniske kontrollorganet som har utstedt EU-typeprøvingssertifikatet, alle nødvendige opplysninger, særligsertifikater som bekrefter at sveisemetodene er egnet, og at sveiserne eller sveiseoperatørene er kvalifisert,kontrollseddel for materialene som er benyttet i produksjonen av deler og komponenter som bidrar til beholderens styrke,en rapport om undersøkelser og prøvinger som er utført,et dokument som beskriver produksjonsprosessen og alle systematiske tiltak som er fastlagt på forhånd for å sikre at beholderne er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet.Nevnte dokument skal inneholdeen beskrivelse av produksjonsmidler og kontrollutstyr som er egnet for produksjon av beholderne,et inspeksjonsdokument som beskriver hensiktsmessige undersøkelser og prøvinger som skal foretas i løpet av produksjonsprosessen, samt hvordan og hvor ofte disse skal gjennomføres,en forpliktelse til å foreta undersøkelsene og prøvingene i samsvar med inspeksjonsdokumentet, samt til å foreta en hydraulisk trykkprøving, eller en pneumatisk trykkprøving dersom medlemsstaten samtykker til dette, med et prøvetrykk på 1,5 ganger beregningstrykket på hver enkelt beholder som produseres; kvalifisert personale som er tilstrekkelig uavhengig av produksjonsansatte, skal ha ansvaret for å utføre disse undersøkelsene og prøvingene, som skal behandles i en rapport,adressene til produksjonssteder og lagre, og dato for når produksjonen skal begynne.Det tekniske kontrollorganet skal før den dato produksjonen skal begynne, undersøke nevnte dokumenter for å bekrefte at de er i samsvar med EU-typeprøvingssertifikatet.
 
+4.3*CE-merking og EU-samsvarserklæring*
+
+4.3.1
+
 Produsenten skal påføre CE-merkingen på hver enkelt beholder som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+4.3.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver beholdermodell og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at beholderen er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken beholder den er utarbeidet for.
 
+4.3.3
+
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+4.4*Representant*
 
 Produsentens forpliktelser angitt i nr. 4.3 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg III. Øvrig merking, anvisninger, definisjoner og symboler
 
+1.*CE-merking og øvrig merking*
+
+1.1
+
 Beholdere hvor produktet av PS × V overstiger 50 bar·l, skal være påført CE-merking som vist i vedlegg V og de to siste sifrene for det året CE-merkingen ble påført.
+
+1.2
 
 Beholderne eller deres merkeplater skal minst være påført følgende opplysninger:høyeste driftstrykk (PS i bar),høyeste driftstemperatur (Tmax i °C),laveste driftstemperatur (Tmin i °C),beholderens volum (V i l),navn, registrert varemerke og kontaktadresse til produsenten,beholderens typebetegnelse og serie- eller partinummer.
 
+1.3
+
 Dersom det brukes en merkeplate, skal den være utformet slik at den ikke kan brukes på nytt, og den skal ha et ledig felt der andre opplysninger kan påføres.
 
+2.*Anvisninger og sikkerhetsinformasjon*
+
 Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, unntatt beholderens serie- eller partinummer,beholderens planlagte bruksområde,de krav til vedlikehold og installasjon som er nødvendige for beholderens sikkerhet.
+
+3.*Definisjoner og symboler*
+
+3.1*Definisjoner*
 
 1. Beregningstrykket «P» er det overtrykk som velges av produsenten, og som brukes til å fastsette tykkelsen på beholderens trykkpåkjente deler.
 2. Høyeste driftstrykk «PS» er det største overtrykk som kan benyttes under normale bruksbetingelser for beholderen.
@@ -531,7 +633,27 @@ Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, 
 8. I henhold til forskriften menes med serieproduksjon at en beholder av samme type i løpet av en gitt periode blir produsert i en ubrutt produksjonsprosess, med felles utforming og etter samme produksjonsprosess.
 9. Kontrollseddel: Et dokument der produsenten av materialene bekrefter at de leverte produktene oppfyller kravene i ordren, og der denne påfører resultater, særlig kjemisk sammensetning og mekaniske egenskaper, fra rutinemessige inspeksjonsundersøkelser foretatt på produksjonsstedet av produkter framstilt i samme produksjonsprosess som de leverte produktene, men ikke nødvendigvis av disse.
 
-*Symboler*Abruddforlengelse (Lo = 5,65√So )%A80 mmbruddforlengelse (Lo = 80 mm)%KCVbruddenergiJ/cm2PberegningstrykkbarPShøyeste driftstrykkbarPhhydrostatisk eller pneumatisk prøvingstrykkbarRp0,20,2-grenseN/mm2ReTflytegrense ved høyeste driftstemperaturN/mm2ReHøvre flytegrenseN/mm2RmstrekkfasthetN/mm2Rm, maxstørste strekkfasthetN/mm2Rp1,00,1-grenseN/mm2Tmaxhøyeste driftstemperatur°CTminlaveste driftstemperatur°CVbeholderens voluml
+3.2
+
+*Symboler*
+
+|  |  |  |
+| --- | --- | --- |
+| A | bruddforlengelse (Lo = 5,65√So ) | % |
+| A80 mm | bruddforlengelse (Lo = 80 mm) | % |
+| KCV | bruddenergi | J/cm2 |
+| P | beregningstrykk | bar |
+| PS | høyeste driftstrykk | bar |
+| Ph | hydrostatisk eller pneumatisk prøvingstrykk | bar |
+| Rp0,2 | 0,2-grense | N/mm2 |
+| ReT | flytegrense ved høyeste driftstemperatur | N/mm2 |
+| ReH | øvre flytegrense | N/mm2 |
+| Rm | strekkfasthet | N/mm2 |
+| Rm, max | største strekkfasthet | N/mm2 |
+| Rp1,0 | 0,1-grense | N/mm2 |
+| Tmax | høyeste driftstemperatur | °C |
+| Tmin | laveste driftstemperatur | °C |
+| V | beholderens volum | l |
 
 ## Vedlegg IV. Samsvarserklæring (nr. xxxx)1
 
@@ -543,6 +665,8 @@ Bruksanvisningen skal inneholde følgende opplysninger:opplysningene i nr. 1.2, 
 6. Henvisninger til de relevante harmoniserte standarder som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med
 7. Det tekniske kontrollorganet ... (navn, nummer) har utført ... (beskrivelse av inngrepet) og utstedt sertifikatet
 8. TilleggsopplysningerUndertegnet for og på vegne av:(sted og dato for utstedelse):(navn, stilling) (underskrift):(eventuelt identifikasjon av underskriftsberettiget med fullmakt til å undertegne den rettslig bindende erklæringen på vegne av produsenten eller dennes representant)
+
+1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 
 ## Vedlegg V. CE-merking
 

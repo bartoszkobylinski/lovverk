@@ -230,6 +230,8 @@ Følgende rutine for godkjennelse anlegg gjelder:
 3. Når anlegget er godkjent av NVE sendes en godkjennelse til søker og en bekreftelse til registeransvarlig som kan starte utstedelse av opprinnelsesgarantier for produksjon etter at denne godkjenningen er registrert.
 4. Når anlegget har fått utstedt opprinnelsesgarantier kan eier/driftsansvarlig til enhver tid sjekke antall opprinnelsesgarantier utstedt og disponere disse etter eget ønske i opprinnelsesgarantiregisteret.
 
+*Varighet av en anleggsgodkjennelse*
+
 Godkjennelsen av et anlegg vil ha varighet på 5 år. I tillegg vil den som har fått godkjennelsen være pålagt å innrapportere endringer av anlegg eller driftsmåte som påvirker størrelse og produksjon til NVE. Dersom det foretas endringer uten at dette innrapporteres, vil dette anses som en overtredelse som kan gi grunnlag for at gebyr ilegges dersom vilkårene i [§ 16](forskrift/2007-12-14-1652/§16) er oppfylt. Med driftsmåte menes her endringer som kan tenkes å påvirke hvilke opprinnelsesgarantier man er berettiget til å få utstedt. Eksempel på slike endringer kan være skifte av type brensel eller sammensetning av brensel benyttet i varmekraftverk.
 
 Anlegg kan få godkjenning for nye perioder med en varighet på 5 år. Av hensyn til de økonomiske og administrative konsekvensene bør det legges opp til rutiner for fornyelser som gjør det unødvendig med en fullstendig ny behandling. NVE bestemmer om særlige hensyn likevel tilsier fullstendig ny behandling. En løsning der varigheten av godkjennelsen settes lik lengden på konsesjonen har vært vurdert. Siden man står overfor ulike typer konsesjoner med ulik lengde, blir en bestemt varighet som fremgår av forskriften, enklere å forholde seg til. Forslaget fanger også opp konsesjonsfrie anlegg.
@@ -243,6 +245,8 @@ Registeransvarlig vil utstede opprinnelsesgarantiene for anlegg som er godkjent.
 Det kan utstedes opprinnelsesgarantier til produksjonsanlegg som har produksjon som faller innenfor flere kategorier samtidig. Dette gjelder for eksempel avfallsforbrenningsanlegg, der deler av brenselet er fornybart og andre deler ikke er det. Ved utstedelse av opprinnelsesgarantier til slike anlegg, skal det aktuelle anlegget få opprinnelsesgarantier i relasjon til andelen produsert elektrisk energi fra hver energikilde.
 
 Med virkning fra 1. januar 2012 ble det fastsatt i fjerde ledd nytt annet punktum at energi brukt til pumping av vann skal trekkes fra ved beregningen av den mengde produserte MWh som skal danne grunnlag for utstedelse av opprinnelsesgarantier.
+
+*Varighet av en opprinnelsesgaranti*
 
 Frem til 1. januar 2012 satte tidligere fjerde ledd (nåværende femte ledd) en maksimal varighet for opprinnelsesgarantier til fem år fra utstedelsestidspunktet. Fjerde ledd ble med virkning fra 1. januar 2012 endret til femte ledd. Innholdsmessig ble bestemmelsen også endret, slik at bestemmelsen fullt ut reflekterer de krav til varighet på maksimalt 1 år som følger av fornybardirektivet (direktiv [2009/28/EF](eu/32009l0028)) artikkel 15 nr. 3.
 

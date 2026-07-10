@@ -42,6 +42,8 @@ Dokumenter som er avfattet på finsk eller islandsk skal i nødvendig utstreknin
 
 > Endret ved overenskomst 25 feb 2000 (ikr. 1 apr 2002).
 
+1 Alt hører nå under NAV internasjonalt, med Arbeids- og velferdsdirektoratet og Arbeidsdepartementet som overordnede.
+
 ## Art 3.
 
 Den myndighet som skal iverksette inndrivingen kan, hvis det finnes nødvendig, kreve bevis for at dommen, kjennelsen, beslutningen eller avtalen oppfyller de vilkår for fullbyrdelse som gjelder etter artikkel 1, annet ledd. Bevis utferdiges av den myndighet som er fastsatt i artikkel 2, annet ledd i den stat hvor dommen, kjennelsen eller beslutningen er avsagt eller avtalen inngått.
@@ -79,3 +81,5 @@ Denne konvensjon skal ratifiseres, og ratifikasjonsdokumentene skal deponeres i 
 Konvensjonen trer i kraft den 1. januar eller den 1. juli som følger etter deponeringen av ratifikasjonsdokumentene.1 Ved konvensjonen oppheves konvensjon av 10. februar 1931 mellom de kontraherende stater om inndriving av underholdsbidrag, endret ved konvensjon av 1. april 1953.
 
 Enhver av statene kan i forhold til hver av de andre si opp konvensjonen med en frist av seks måneder til opphør den påfølgende 1. januar eller 1. juli.
+
+1 Ratifisert for Norges vedkommende i henhold til res. 26 okt 1962. Ratifikasjonsdokumentene ble deponert i Utenriksdepartementet 1 jan 1963. Konvensjonen trådte i kraft 1 juli 1963. Konvensjonen er endret ved overenskomst som i henhold til res. 29 okt 1999 ble undertegnet 25 feb 2000, i henhold til res. 27 apr 2001 ble ratifisert 13 juni 2001 og trådte i kraft 1 apr 2002. – Se [forskr. 31 mai 1963 nr. 9813](forskrift/1963-05-31-9813).

@@ -88,7 +88,46 @@ Frekvenser i det elektromagnetiske frekvensspektret under 9 kHz og over 3000 GHz
 
 (1) Frekvensbåndene 73,625–75,875 GHz/83,625–85,875 GHz kan tas i bruk i henhold til tabellene i denne paragrafen til punkt-til-punkt radiolinje for fastmontert utendørsinstallasjon. Både frekvensdelt bruk (FDD) og tidsdelt bruk (TDD) er tillatt. Det er ikke tillatt med FDD og TDD på samme lokasjon. Ved FDD bruk er det heller ikke tillatt å bruke både høy og lav senderfrekvens på samme lokasjon. Maksimal tillatt utstrålt effekt er 85 dBm e.i.r.p. Maksimal tillatt effekt tilført antenne er 30 dBm. Minimum antenneforsterkning er 38 dBi. Radioutstyr skal være i samsvar med standarden EN 302 217-2. Antenner skal være i samsvar med standarden EN 302 217-4. På grensen mellom Norge og naboland skal effekttettheten ikke overstige –122,5 dBW/m2 målt med en referansebåndbredde på 1 MHz.Følgende vilkår gjelder:Senderen kan ikke settes i drift før registrering er utført hos Nasjonal kommunikasjonsmyndighet. Registreringsskjema finnes på Nasjonal kommunikasjonsmyndighets hjemmeside. Registreringen av sambandet har en varighet på 5 år regnet fra utløpet av det kalenderår registreringen finner sted. Tillatelsen utløper uten ytterligere varsel fra Nasjonal kommunikasjonsmyndighet.Nye samband skal ikke forstyrre eksisterende samband i båndet som allerede er registrert hos Nasjonal kommunikasjonsmyndighet. Radioastronomi skal beskyttes mot interferens fra systemer i frekvensbåndet 76–86 GHz.Innehaver av sendetillatelse skal betale sektoravgift til Nasjonal kommunikasjonsmyndighet etter [forskrift 20. mars 2017 nr. 386](forskrift/2017-03-20-386) om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndigheit.
 
-(2) Senterfrekvensene i tabellen tillates brukt i samsvar med [§ 5](forskrift/2012-01-19-77/§5) første ledd.Maksimal okkupert båndbredde per kanal: 62,5 MHz73656,25/83656,25 MHz73718,75/83718,75 MHz73781,25/83781,25 MHz73843,75/83843,75 MHz73906,25/83906,25 MHz73968,75/83968,75 MHz74031,25/84031,25 MHz74093,75/84093,75 MHz74156,25/84156,25 MHz74218,75/84218,75 MHz74281,25/84281,25 MHz74343,75/84343,75 MHz74406,25/84406,25 MHz74468,75/84468,75 MHz74531,25/84531,25 MHz74593,75/84593,75 MHz74656,25/84656,25 MHz74718,75/84718,75 MHz74781,25/84781,25 MHz74843,75/84843,75 MHz74906,25/84906,25 MHz74968,75/84968,75 MHz75031,25/85031,25 MHz75093,75/85093,75 MHz75156,25/85156,25 MHz75218,75/85218,75 MHz75281,25/85281,25 MHz75343,75/85343,75 MHz75406,25/85406,25 MHz75468,75/85468,75 MHz75531,25/85531,25 MHz75593,75/85593,75 MHz75656,25/85656,25 MHz75718,75/85718,75 MHz75781,25/85781,25 MHz75843,75/85843,75 MHzMaksimal okkupert båndbredde per kanal: 125 MHz73687,5/83687,5 MHz73812,5/83812,5 MHz73937,5/83937,5 MHz74062,5/84062,5 MHz74187,5/84187,5 MHz74312,5/84312,5 MHz74437,5/84437,5 MHz74562,5/84562,5 MHz74687,5/84687,5 MHz74812,5/84812,5 MHz74937,5/84937,5 MHz75062,5/85062,5 MHz75187,5/85187,5 MHz75312,5/85312,5 MHz75437,5/85437,5 MHz75562,5/85562,5 MHz75687,5/85687,5 MHz75812,5/85812,5 MHzMaksimal okkupert båndbredde per kanal: 250 MHz73750/83750 MHz74000/84000 MHz74250/84250 MHz74500/84500 MHz74750/84750 MHz75000/85000 MHz75250/85250 MHz75500/85500 MHz75750/85750 MHzMaksimal okkupert båndbredde per kanal: 500 MHz73875/83875 MHz74375/84375 MHz74875/84875 MHz75375/85375 MHzMaksimal okkupert båndbredde per kanal: 750 MHz74000/84000 MHz74750/84750 MHz75500/85500 MHzMed maksimal okkupert båndbredde per kanal: 1000 MHz74125/84125 MHz75125/85125 MHzMaksimal okkupert båndbredde per kanal: 1250 MHz74250/84250 MHzMaksimal okkupert båndbredde per kanal: 1500 MHz74375/84375 MHzMaksimal okkupert båndbredde per kanal: 1750 MHz74500/84500 MHzMaksimal okkupert båndbredde per kanal: 2000 MHz74625/84625 MHzMaksimal okkupert båndbredde per kanal: 2250 MHz74750/84750 MHz
+(2) Senterfrekvensene i tabellen tillates brukt i samsvar med [§ 5](forskrift/2012-01-19-77/§5) første ledd.
+
+|  |  |  |
+| --- | --- | --- |
+| Maksimal okkupert båndbredde per kanal: 62,5 MHz |  |  |
+| 73656,25/83656,25 MHz | 73718,75/83718,75 MHz | 73781,25/83781,25 MHz |
+| 73843,75/83843,75 MHz | 73906,25/83906,25 MHz | 73968,75/83968,75 MHz |
+| 74031,25/84031,25 MHz | 74093,75/84093,75 MHz | 74156,25/84156,25 MHz |
+| 74218,75/84218,75 MHz | 74281,25/84281,25 MHz | 74343,75/84343,75 MHz |
+| 74406,25/84406,25 MHz | 74468,75/84468,75 MHz | 74531,25/84531,25 MHz |
+| 74593,75/84593,75 MHz | 74656,25/84656,25 MHz | 74718,75/84718,75 MHz |
+| 74781,25/84781,25 MHz | 74843,75/84843,75 MHz | 74906,25/84906,25 MHz |
+| 74968,75/84968,75 MHz | 75031,25/85031,25 MHz | 75093,75/85093,75 MHz |
+| 75156,25/85156,25 MHz | 75218,75/85218,75 MHz | 75281,25/85281,25 MHz |
+| 75343,75/85343,75 MHz | 75406,25/85406,25 MHz | 75468,75/85468,75 MHz |
+| 75531,25/85531,25 MHz | 75593,75/85593,75 MHz | 75656,25/85656,25 MHz |
+| 75718,75/85718,75 MHz | 75781,25/85781,25 MHz | 75843,75/85843,75 MHz |
+| Maksimal okkupert båndbredde per kanal: 125 MHz |  |  |
+| 73687,5/83687,5 MHz | 73812,5/83812,5 MHz | 73937,5/83937,5 MHz |
+| 74062,5/84062,5 MHz | 74187,5/84187,5 MHz | 74312,5/84312,5 MHz |
+| 74437,5/84437,5 MHz | 74562,5/84562,5 MHz | 74687,5/84687,5 MHz |
+| 74812,5/84812,5 MHz | 74937,5/84937,5 MHz | 75062,5/85062,5 MHz |
+| 75187,5/85187,5 MHz | 75312,5/85312,5 MHz | 75437,5/85437,5 MHz |
+| 75562,5/85562,5 MHz | 75687,5/85687,5 MHz | 75812,5/85812,5 MHz |
+| Maksimal okkupert båndbredde per kanal: 250 MHz |  |  |
+| 73750/83750 MHz | 74000/84000 MHz | 74250/84250 MHz |
+| 74500/84500 MHz | 74750/84750 MHz | 75000/85000 MHz |
+| 75250/85250 MHz | 75500/85500 MHz | 75750/85750 MHz |
+| Maksimal okkupert båndbredde per kanal: 500 MHz |  |  |
+| 73875/83875 MHz | 74375/84375 MHz | 74875/84875 MHz |
+| 75375/85375 MHz |  |  |
+| Maksimal okkupert båndbredde per kanal: 750 MHz |  |  |
+| 74000/84000 MHz | 74750/84750 MHz | 75500/85500 MHz |
+| Med maksimal okkupert båndbredde per kanal: 1000 MHz |  |  |
+| 74125/84125 MHz | 75125/85125 MHz |  |
+| Maksimal okkupert båndbredde per kanal: 1250 MHz |  | 74250/84250 MHz |
+| Maksimal okkupert båndbredde per kanal: 1500 MHz |  | 74375/84375 MHz |
+| Maksimal okkupert båndbredde per kanal: 1750 MHz |  | 74500/84500 MHz |
+| Maksimal okkupert båndbredde per kanal: 2000 MHz |  | 74625/84625 MHz |
+| Maksimal okkupert båndbredde per kanal: 2250 MHz |  | 74750/84750 MHz |
 
 > Opphevet ved [forskrift 24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), tilføyd ved [forskrift 24 nov 2015 nr. 1359](forskrift/2015-11-24-1359) som endret ved [forskrift 27 mars 2017 nr. 389](forskrift/2017-03-27-389) (i kraft 3 april 2017), endret ved [forskrift 28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018).
 
@@ -264,11 +303,29 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 
 (1) Følgende frekvensbånd tillates brukt til trådløse mikrofoner slik frekvensbruken er beskrevet i standardene EN 300 422-1, EN 300 422-2, og EN 300 422-3:41,0–43,6 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Amplitudemodulasjon tillates ikke.Ledige frekvenser i frekvensbåndet 494–694 MHz og 733–758 MHz1 tillates brukt. Ledige frekvenser vises gjennom internettjenesten2 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 50 mW e.r.p.823–826 MHz. Maksimal tillatt utstrålt effekt er 20 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz. For bruk som er begrenset til kroppsbåret mikrofon er maksimal tillatt utstrålt effekt 100 mW e.i.r.p.826–832 MHz. Maksimal tillatt utstrålt effekt er 100 mW e.i.r.p. Maksimal okkupert båndbredde per kanal er 200 kHz.863–865 MHz. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Frekvensbåndet tillates brukt som beskrevet i standarden EN 301 357.
 
-(2) Frekvensbåndet 1785–1805 MHz tillates brukt til håndholdt mikrofon som beskrevet i standardene EN 300 422-1, EN 300 422-2, EN 300 422-3, og i samsvar med tabellen.*Frekvensområde**Maksimal tillatt e.i.r.p. spektral effekttetthet for håndholdt mikrofon*<1785 MHz–17 dBm/200kHz1785–1785,2 MHz4 dBm/200kHz1785,2–1803,6 MHz13 dBm/kanal1803,6–1804,8 MHz10 dBm/200kHz, med en grenseverdi på 13 dBm/kanal1804,8–1805 MHz–14 dBm/200kHz>1805 MHz–37 dBm/200kHz
+(2) Frekvensbåndet 1785–1805 MHz tillates brukt til håndholdt mikrofon som beskrevet i standardene EN 300 422-1, EN 300 422-2, EN 300 422-3, og i samsvar med tabellen.
 
-(3) Frekvensbåndet 1785–1805 MHz tillates brukt til kroppsbåret mikrofon, og trådløse mikrofoner med Spectrum Scanning Procedure (SSP) implementert i frekvensbåndet 1785–1804,8 MHz, som beskrevet i standardene EN 300 422-2 og EN 300 422-3, og i samsvar med tabellen.*Frekvensområde**Maksimal tillatt e.i.r.p. spektral effekttetthet for kroppsbåret mikrofon*<1785 MHz–17 dBm/200kHz1785–1804,8 MHz17 dBm/kanal1804,8–1805 MHz0 dBm/200kHz>1805 MHz–23 dBm/200kHz
+| *Frekvensområde* | *Maksimal tillatt e.i.r.p. spektral effekttetthet for håndholdt mikrofon* |
+| --- | --- |
+| <1785 MHz | –17 dBm/200kHz |
+| 1785–1785,2 MHz | 4 dBm/200kHz |
+| 1785,2–1803,6 MHz | 13 dBm/kanal |
+| 1803,6–1804,8 MHz | 10 dBm/200kHz, med en grenseverdi på 13 dBm/kanal |
+| 1804,8–1805 MHz | –14 dBm/200kHz |
+| >1805 MHz | –37 dBm/200kHz |
+
+(3) Frekvensbåndet 1785–1805 MHz tillates brukt til kroppsbåret mikrofon, og trådløse mikrofoner med Spectrum Scanning Procedure (SSP) implementert i frekvensbåndet 1785–1804,8 MHz, som beskrevet i standardene EN 300 422-2 og EN 300 422-3, og i samsvar med tabellen.
+
+| *Frekvensområde* | *Maksimal tillatt e.i.r.p. spektral effekttetthet for kroppsbåret mikrofon* |
+| --- | --- |
+| <1785 MHz | –17 dBm/200kHz |
+| 1785–1804,8 MHz | 17 dBm/kanal |
+| 1804,8–1805 MHz | 0 dBm/200kHz |
+| >1805 MHz | –23 dBm/200kHz |
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
+
+1 Diskusjoner rundt fremtidig anvendelse av frekvensbåndet 733–758 MHz er pågående. Ved vedtatt bruk til IMT SDL vil båndet ikke lenger være regulert gjennom [fribruksforskriften](forskrift/2012-01-19-77).2 [www.finnsenderen.no](https://www.finnsenderen.no).
 
 ### § 15. Hjelpeutstyr for hørselshemmede
 
@@ -277,6 +334,8 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 (2) Ledige frekvenser i frekvensbåndet 173,965–216 MHz tillates brukt til hjelpeutstyr for hørselshemmede (ALD) slik frekvensbruken er beskrevet i standarden EN 300 422-4. Ledige frekvenser vises gjennom internettjenesten1 som tilbys av Nasjonal kommunikasjonsmyndighet. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimalt okkupert båndbredde per kanal er 50 kHz.
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018).
+
+1 [www.finnsenderen.no](https://www.finnsenderen.no).
 
 ### § 16. Trådløst lydutstyr
 
@@ -291,6 +350,8 @@ Frekvensbåndene 5725–5795 MHz og 5815–5850 MHz tillates brukt til punkt-til
 Senterfrekvensene 2327 MHz og 2390 MHz tillates brukt til mobil videolink1 med maksimal tillatt utstrålt effekt 2 W e.i.r.p. Maksimal okkupert båndbredde per kanal er 8 MHz.
 
 > Endret ved forskrift [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
+
+1 Diskusjoner rundt fremtidig anvendelse av frekvensbåndet 2300–2400 MHz er pågående. Ved vedtatt bruk til IMT vil båndet ikke lenger være regulert gjennom [fribruksforskriften](forskrift/2012-01-19-77).
 
 ## Kap. VI. Induktive systemer
 
@@ -342,7 +403,12 @@ Senterfrekvensene 2327 MHz og 2390 MHz tillates brukt til mobil videolink1 med m
 
 (1) Frekvensbåndet 430–440 MHz tillates brukt til ULP-WMCE (trådløs medisinsk kapselendoskopi med ultralav effekt) som beskrevet i standarden EN 303 520. Maksimal spektral effekttetthet er –50 dBm/100 kHz e.r.p. Maksimal tillatt utstrålt effekt er –40 dBm/10 MHz.
 
-(2) Senterfrekvensene i tabellen tillates brukt til medisinsk telemetri. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz.441,750 MHz441,775 MHz441,800 MHz441,825 MHz441,850 MHz441,875 MHz441,900 MHz441,925 MHz441,950 MHz441,975 MHz
+(2) Senterfrekvensene i tabellen tillates brukt til medisinsk telemetri. Maksimal tillatt utstrålt effekt er 10 mW e.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz.
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 441,750 MHz | 441,775 MHz | 441,800 MHz | 441,825 MHz | 441,850 MHz |
+| 441,875 MHz | 441,900 MHz | 441,925 MHz | 441,950 MHz | 441,975 MHz |
 
 (3) Frekvensbåndet 2483,5–2500 MHz tillates brukt innendørs innen helsevesenet til medisinske kroppsbårne systemer (MBANS) (Medical Body Area Network Systems) som beskrevet i standarden EN 303 203. Maksimal tillatt utstrålt effekt er 1 mW e.i.r.p. med en maksimal sendetid på 10 prosent. Maksimal okkupert båndbredde er 3 MHz.
 
@@ -470,61 +536,124 @@ Senterfrekvens 160,900 MHz tillates brukt for maritim AIS teknologi til autonome
 
 ### § 31. Diverse utstyr for ultrabredbånd
 
-Frekvenser som angitt i tabellen nedenfor tillates brukt innendørs til ultrabredbåndsutstyr (UWB), som beskrevet i standarden EN 302 065-1. Utendørsbruk tillates bare dersom det ikke er tilsluttet faste installasjoner, fast infrastruktur, fast utendørs antenne, eller utstyr montert i luftfartøy eller modellfly.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,6 GHz–90 dBm/MHz–50 dBm1,6 < f ≤ 2,7 GHz–85 dBm/MHz–45 dBm2,7 < f ≤ 3,1 GHz–70 dBm/MHz–36 dBm3,1 < f ≤ 3,4 GHz–70 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA)–36 dBm
-(0 dBm med LDC eller DAA)3,4 < f ≤ 3,8 GHz–80 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA)–40 dBm
-(0 dBm med LDC eller DAA)3,8 < f ≤ 4,8 GHz–70 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA)–30 dBm
-(0 dBm med LDC eller DAA)4,8 < f ≤ 6 GHz–70 dBm/MHz–30 dBm6 < f ≤ 8,5 GHz–41,3 dBm/MHz0 dBm8,5 < f ≤ 9,0 GHz–65 dBm/MHz
-(-41,3 dBm/MHz med DAA)–25 dBm
-(0 dBm med DAA)9,0 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmLow Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Detect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.
+Frekvenser som angitt i tabellen nedenfor tillates brukt innendørs til ultrabredbåndsutstyr (UWB), som beskrevet i standarden EN 302 065-1. Utendørsbruk tillates bare dersom det ikke er tilsluttet faste installasjoner, fast infrastruktur, fast utendørs antenne, eller utstyr montert i luftfartøy eller modellfly.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,6 GHz | –90 dBm/MHz | –50 dBm |
+| 1,6 < f ≤ 2,7 GHz | –85 dBm/MHz | –45 dBm |
+| 2,7 < f ≤ 3,1 GHz | –70 dBm/MHz | –36 dBm |
+| 3,1 < f ≤ 3,4 GHz | –70 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA) | –36 dBm<br>(0 dBm med LDC eller DAA) |
+| 3,4 < f ≤ 3,8 GHz | –80 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA) | –40 dBm<br>(0 dBm med LDC eller DAA) |
+| 3,8 < f ≤ 4,8 GHz | –70 dBm/MHz (–41,3 dBm/MHz med LDC eller DAA) | –30 dBm<br>(0 dBm med LDC eller DAA) |
+| 4,8 < f ≤ 6 GHz | –70 dBm/MHz | –30 dBm |
+| 6 < f ≤ 8,5 GHz | –41,3 dBm/MHz | 0 dBm |
+| 8,5 < f ≤ 9,0 GHz | –65 dBm/MHz<br>(-41,3 dBm/MHz med DAA) | –25 dBm<br>(0 dBm med DAA) |
+| 9,0 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Low Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Detect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021), [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 31a. Ultrabredbåndsutstyr installert i kjøretøy og skinnegående vogner
 
-(1) Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) installert i kjøretøy og skinnegående vogner, som beskrevet i standarden EN 302 065-3.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,6 GHz–90 dBm/MHz–50 dBm1,6 < f ≤ 2,7 GHz–85 dBm/MHz–45 dBm2,7 < f ≤ 3,1 GHz–70 dBm/MHz–36 dBm3,1 < f ≤ 3,4 GHz–70 dBm/MHz
-(-41,3 dBm/MHz med LDC + ext.lim.)
-(-41,3 dBm/MHz med TPC + DAA + ext.lim.)–36 dBm
-(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.)3,4 < f ≤ 3,8 GHz–80 dBm/MHz
-(–41,3 dBm/MHz med LDC + ext.lim.)
-(–41,3 dBm/MHz med TPC + DAA + ext.lim.)–40 dBm
-(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.)3,8 < f ≤ 4,8 GHz–70 dBm/MHz
-(–41,3 dBm/MHz med LDC + ext.lim.)
-(–41,3 dBm/MHz med TPC + DAA + ext.lim.)–30 dBm
-(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.)4,8 < f ≤ 6,0 GHz–70 dBm/MHz–30 dBm6,0 < f ≤ 8,5 GHz–53,3 dBm/MHz (–41,3 dBm/MHz med LDC + ext.lim.)
-(–41,3 dBm/MHz med TPC + ext.lim.)–13,3 dBm
-(0 dBm med LDC + ext.lim.) (0 dBm med TPC + ext.lim.)8,5 < f ≤ 9,0 GHz–65 dBm/MHz
-(–41,3 dBm/MHz med TPC + DAA + ext.lim.)–25 dBm
-(0 dBm med TPC + DAA + ext.lim.)9,0 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmLow Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Detect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Sendeeffektstyring (TPC): Metode og parametere skal være i samsvar med kapittel 4.7.1.1, 4.7.1.2 og 4.7.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Utvendig grenseverdi (ext.lim.): Maksimal tillatt spektral effekttetthet målt på utsiden av kjøretøy eller skinnegående vogn er –53,3 dBm/MHz, som beskrevet i kapittel 4.3.4.1, 4.3.4.2 og 4.3.4.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.
+(1) Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) installert i kjøretøy og skinnegående vogner, som beskrevet i standarden EN 302 065-3.
 
-(2) Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) for aksess systemer for kjøretøy, som beskrevet i standarden EN 302 065-3. Tekniske krav for maksimal tillatt utstråling under 3,8 GHz, i 4,2–6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31a](forskrift/2012-01-19-77/§31a) første ledd.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*3,8 < f ≤ 4,2 GHz–41,3 dBm/MHz med aktiver-før-sending + LDC ≤ 5 % (i løpet av 1 time)0 dBm6,0 < f ≤ 8,5 GHz–41,3 dBm/MHz med aktiver-før-sending + LDC ≤ 5 % (i løpet av 1 time) eller TPC0 dBmAktiver-før-sending: Sending tillates kun når systemet indikerer at UWB enheter er i nærheten. Kommunikasjonen initieres enten av bruker (for eksempel ved manuell bryter) eller kjøretøy. Påfølgende kommunikasjon anses som initiert kommunikasjon.Low Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Sendeeffektstyring (TPC): Metode og parametere skal være i samsvar med kapittel 4.7.1.1, 4.7.1.2 og 4.7.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,6 GHz | –90 dBm/MHz | –50 dBm |
+| 1,6 < f ≤ 2,7 GHz | –85 dBm/MHz | –45 dBm |
+| 2,7 < f ≤ 3,1 GHz | –70 dBm/MHz | –36 dBm |
+| 3,1 < f ≤ 3,4 GHz | –70 dBm/MHz<br>(-41,3 dBm/MHz med LDC + ext.lim.)<br>(-41,3 dBm/MHz med TPC + DAA + ext.lim.) | –36 dBm<br>(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.) |
+| 3,4 < f ≤ 3,8 GHz | –80 dBm/MHz<br>(–41,3 dBm/MHz med LDC + ext.lim.)<br>(–41,3 dBm/MHz med TPC + DAA + ext.lim.) | –40 dBm<br>(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.) |
+| 3,8 < f ≤ 4,8 GHz | –70 dBm/MHz<br>(–41,3 dBm/MHz med LDC + ext.lim.)<br>(–41,3 dBm/MHz med TPC + DAA + ext.lim.) | –30 dBm<br>(0 dBm med LDC + ext.lim.) (0 dBm med TPC + DAA + ext.lim.) |
+| 4,8 < f ≤ 6,0 GHz | –70 dBm/MHz | –30 dBm |
+| 6,0 < f ≤ 8,5 GHz | –53,3 dBm/MHz (–41,3 dBm/MHz med LDC + ext.lim.)<br>(–41,3 dBm/MHz med TPC + ext.lim.) | –13,3 dBm<br>(0 dBm med LDC + ext.lim.) (0 dBm med TPC + ext.lim.) |
+| 8,5 < f ≤ 9,0 GHz | –65 dBm/MHz<br>(–41,3 dBm/MHz med TPC + DAA + ext.lim.) | –25 dBm<br>(0 dBm med TPC + DAA + ext.lim.) |
+| 9,0 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Low Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Detect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Sendeeffektstyring (TPC): Metode og parametere skal være i samsvar med kapittel 4.7.1.1, 4.7.1.2 og 4.7.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Utvendig grenseverdi (ext.lim.): Maksimal tillatt spektral effekttetthet målt på utsiden av kjøretøy eller skinnegående vogn er –53,3 dBm/MHz, som beskrevet i kapittel 4.3.4.1, 4.3.4.2 og 4.3.4.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+
+(2) Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) for aksess systemer for kjøretøy, som beskrevet i standarden EN 302 065-3. Tekniske krav for maksimal tillatt utstråling under 3,8 GHz, i 4,2–6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31a](forskrift/2012-01-19-77/§31a) første ledd.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| 3,8 < f ≤ 4,2 GHz | –41,3 dBm/MHz med aktiver-før-sending + LDC ≤ 5 % (i løpet av 1 time) | 0 dBm |
+| 6,0 < f ≤ 8,5 GHz | –41,3 dBm/MHz med aktiver-før-sending + LDC ≤ 5 % (i løpet av 1 time) eller TPC | 0 dBm |
+| Aktiver-før-sending: Sending tillates kun når systemet indikerer at UWB enheter er i nærheten. Kommunikasjonen initieres enten av bruker (for eksempel ved manuell bryter) eller kjøretøy. Påfølgende kommunikasjon anses som initiert kommunikasjon. |  |  |
+| Low Duty Cycle (LDC): Metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Sendeeffektstyring (TPC): Metode og parametere skal være i samsvar med kapittel 4.7.1.1, 4.7.1.2 og 4.7.1.3 i standarden EN 302 065-3 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
 
 > Tilføyd ved [forskrift 28 april 2014 nr. 591](forskrift/2014-04-28-591), endret ved [forskrifter 28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021), [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 31b. Ultrabredbåndsutstyr for posisjonssporingssystemer type LT 1
 
-Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) til posisjonssporingssystemer type LT 1. LT 1 er systemer til generell posisjonssporing av mennesker og gjenstander. Utendørsbruk tillates bare dersom det ikke er tilsluttet faste installasjoner, fast infrastruktur, fast utendørs antenne, eller utstyr montert i luftfartøy eller modellfly.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,6 GHz–90 dBm/MHz–50 dBm1,6 < f ≤ 2,7 GHz–85 dBm/MHz–45 dBm2,7 < f ≤ 3,4 GHz–70 dBm/MHz–36 dBm3,4 < f ≤ 3,8 GHz–80 dBm/MHz–40 dBm3,8 < f ≤ 6,0 GHz–70 dBm/MHz–30 dBm6,0 < f ≤ 8,5 GHz–41,3 dBm/MHz0 dBm8,5 < f ≤ 9,0 GHz–65 dBm/MHz
-(-41,3 dBm/MHz med DAA)–25 dBm
-(0 dBm ved DAA)9,0 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmDetect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-2 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.
+Frekvenser som angitt i tabellen nedenfor tillates brukt for ultrabredbåndsutstyr (UWB) til posisjonssporingssystemer type LT 1. LT 1 er systemer til generell posisjonssporing av mennesker og gjenstander. Utendørsbruk tillates bare dersom det ikke er tilsluttet faste installasjoner, fast infrastruktur, fast utendørs antenne, eller utstyr montert i luftfartøy eller modellfly.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,6 GHz | –90 dBm/MHz | –50 dBm |
+| 1,6 < f ≤ 2,7 GHz | –85 dBm/MHz | –45 dBm |
+| 2,7 < f ≤ 3,4 GHz | –70 dBm/MHz | –36 dBm |
+| 3,4 < f ≤ 3,8 GHz | –80 dBm/MHz | –40 dBm |
+| 3,8 < f ≤ 6,0 GHz | –70 dBm/MHz | –30 dBm |
+| 6,0 < f ≤ 8,5 GHz | –41,3 dBm/MHz | 0 dBm |
+| 8,5 < f ≤ 9,0 GHz | –65 dBm/MHz<br>(-41,3 dBm/MHz med DAA) | –25 dBm<br>(0 dBm ved DAA) |
+| 9,0 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Detect and Avoid (DAA): Metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-2 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
 
 > Tilføyd ved [forskrift 24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), endret ved [forskrifter 28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021), [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 31c. Ultrabredbåndsutstyr for radiodeterminering, posisjonssporing, sporing og datainnsamling – faste utendørs installasjoner
 
-Frekvenser innenfor frekvensområdet 6–8,5 GHz tillates brukt for ultrabredbåndsutstyr (UWB) til radiodeterminering, posisjonssporing, sporing og datainnsamling på en fast utendørs lokasjon eller tilkoblet en fast utendørs antenne. Tekniske krav som angitt i tabellen nedenfor. Tekniske krav for UWB utstråling under 6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31](forskrift/2012-01-19-77/§31).*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,6 GHz–90 dBm/MHz–50 dBm1,6 < f ≤ 2,7 GHz–85 dBm/MHz–45 dBm2,7 < f ≤ 3,1 GHz–70 dBm/MHz–36 dBm3,1 < f ≤ 3,4 GHz–70 dBm/MHz–36 dBm3,4 < f ≤ 3,8 GHz–80 dBm/MHz–40 dBm3,8 < f ≤ 4,2 GHz–70 dBm/MHz–30 dBm4,2 < f ≤ 4,8 GHz–70 dBm/MHz–30 dBm4,8 < f ≤ 6 GHz–70 dBm/MHz–30 dBm6,0 < f ≤ 8,5 GHz (Note 1, 2 og 3)–41,3 dBm/MHz0 dBm8,5 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmNote 1: Innenfor frekvensbåndet 6–8,5 GHz er maksimal sendetid 5 % per sekund. Maksimal tillatt antennehøyde er 10 m over bakken.
-Note 2: For antennehøyder over 2,5 m over bakken er maksimal tillatt utstrålt spektral effekttetthet (t.r.p.) –46,3 dBm/MHz. Antennen må være retningsbestemt og peke under horisonten (nedover tilt).
-Note 3: For datainnsamling for autentisering/tilgangssystemer (PACS) tillates rundstrålende antenner.
+Frekvenser innenfor frekvensområdet 6–8,5 GHz tillates brukt for ultrabredbåndsutstyr (UWB) til radiodeterminering, posisjonssporing, sporing og datainnsamling på en fast utendørs lokasjon eller tilkoblet en fast utendørs antenne. Tekniske krav som angitt i tabellen nedenfor. Tekniske krav for UWB utstråling under 6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31](forskrift/2012-01-19-77/§31).
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,6 GHz | –90 dBm/MHz | –50 dBm |
+| 1,6 < f ≤ 2,7 GHz | –85 dBm/MHz | –45 dBm |
+| 2,7 < f ≤ 3,1 GHz | –70 dBm/MHz | –36 dBm |
+| 3,1 < f ≤ 3,4 GHz | –70 dBm/MHz | –36 dBm |
+| 3,4 < f ≤ 3,8 GHz | –80 dBm/MHz | –40 dBm |
+| 3,8 < f ≤ 4,2 GHz | –70 dBm/MHz | –30 dBm |
+| 4,2 < f ≤ 4,8 GHz | –70 dBm/MHz | –30 dBm |
+| 4,8 < f ≤ 6 GHz | –70 dBm/MHz | –30 dBm |
+| 6,0 < f ≤ 8,5 GHz (Note 1, 2 og 3) | –41,3 dBm/MHz | 0 dBm |
+| 8,5 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Note 1: Innenfor frekvensbåndet 6–8,5 GHz er maksimal sendetid 5 % per sekund. Maksimal tillatt antennehøyde er 10 m over bakken.<br>Note 2: For antennehøyder over 2,5 m over bakken er maksimal tillatt utstrålt spektral effekttetthet (t.r.p.) –46,3 dBm/MHz. Antennen må være retningsbestemt og peke under horisonten (nedover tilt).<br>Note 3: For datainnsamling for autentisering/tilgangssystemer (PACS) tillates rundstrålende antenner. |  |  |
 
 > Tilføyd ved forskrift [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 31d. Ultrabredbåndsutstyr for radiodeterminering, posisjonssporing, sporing og datainnsamling – innendørs bruk med høyere effekt
 
-Ultrabredbåndsutstyr (UWB) i frekvensbåndet 6–8,5 GHz som opererer innendørs tillates brukt med høyere effekt for radiodeterminering, posisjonssporing, sporing og datainnsamling i henhold til tekniske krav angitt i tabellen nedenfor. Tekniske krav for maksimal tillatt utstråling under 6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31](forskrift/2012-01-19-77/§31).*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*6,0 < f ≤ 8,5 GHz (Note 1)–31,3 dBm/MHz10 dBmNote 1: Innenfor frekvensbåndet 6–8,5 GHz er maksimal sendetid 5 % per sekund. Mobile enheter kan operere med en maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet høyere enn –41,3 dBm/MHz og en maksimal spisseffekt e.i.r.p. høyere enn 0 dBm, målt over 50 MHz, kun som en del av et identifiserbart nettverk og under kontroll av en innendørs infrastruktur.
+Ultrabredbåndsutstyr (UWB) i frekvensbåndet 6–8,5 GHz som opererer innendørs tillates brukt med høyere effekt for radiodeterminering, posisjonssporing, sporing og datainnsamling i henhold til tekniske krav angitt i tabellen nedenfor. Tekniske krav for maksimal tillatt utstråling under 6 GHz og over 8,5 GHz skal være i henhold til tabell i [§ 31](forskrift/2012-01-19-77/§31).
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| 6,0 < f ≤ 8,5 GHz (Note 1) | –31,3 dBm/MHz | 10 dBm |
+| Note 1: Innenfor frekvensbåndet 6–8,5 GHz er maksimal sendetid 5 % per sekund. Mobile enheter kan operere med en maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet høyere enn –41,3 dBm/MHz og en maksimal spisseffekt e.i.r.p. høyere enn 0 dBm, målt over 50 MHz, kun som en del av et identifiserbart nettverk og under kontroll av en innendørs infrastruktur. |  |  |
 
 > Tilføyd ved forskrift [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 32. Radaranvendelser for undersøking av grunn og vegger
 
-Frekvenser som angitt i tabellen nedenfor tillates brukt til ultrabredbånd (UWB) radar for undersøking av grunn og vegger (GPR/WPR) som beskrevet i standarden EN 302 066. Maksimale tillatte signalnivåer er angitt i tabellen. I tillegg til kravene i tabellen er maksimal tillatt spektral effekttetthet –75 dBm/kHz e.i.r.p. for utstyr som opererer i frekvensbåndene for satellittbaserte navigasjonssystemer (RNSS-båndene) 1164–1215 MHz og 1559–1610 MHz.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for uønsket stråling*30–230 MHz–65 dBm/MHz230–1000 MHz–60 dBm/MHz1000–1600 MHz–65 dBm/MHz1600–3400 MHz–51,3 dBm/MHz3400–5000 MHz–41,3 dBm/MHz5000–6000 MHz–51,3 dBm/MHz6000–12400 MHz–65 dBm/MHz
+Frekvenser som angitt i tabellen nedenfor tillates brukt til ultrabredbånd (UWB) radar for undersøking av grunn og vegger (GPR/WPR) som beskrevet i standarden EN 302 066. Maksimale tillatte signalnivåer er angitt i tabellen. I tillegg til kravene i tabellen er maksimal tillatt spektral effekttetthet –75 dBm/kHz e.i.r.p. for utstyr som opererer i frekvensbåndene for satellittbaserte navigasjonssystemer (RNSS-båndene) 1164–1215 MHz og 1559–1610 MHz.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for uønsket stråling* |
+| --- | --- |
+| 30–230 MHz | –65 dBm/MHz |
+| 230–1000 MHz | –60 dBm/MHz |
+| 1000–1600 MHz | –65 dBm/MHz |
+| 1600–3400 MHz | –51,3 dBm/MHz |
+| 3400–5000 MHz | –41,3 dBm/MHz |
+| 5000–6000 MHz | –51,3 dBm/MHz |
+| 6000–12400 MHz | –65 dBm/MHz |
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
 
@@ -538,19 +667,82 @@ Frekvenser som angitt i tabellen nedenfor tillates brukt til ultrabredbånd (UWB
 
 ### § 34a. Ultrabredbåndsutstyr for materialanalyse – kontaktbasert
 
-Frekvenser som angitt i tabellen nedenfor tillates for utstyr til kontaktbasert materialanalyse som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 065-4. Kontaktbasert utstyr er utstyr som hvor senderen kun er aktiv når enheten er i direkte kontakt med materialet som skal undersøkes. Utstyr for kontaktbasert materialanalyse, som benytter UWB-teknologi, kan enten overholde de generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) eller de spesifikke kravene i tabellen nedenfor. De generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) tillater ikke faste utendørs installasjoner. Grenseverdiene definert i tabellen nedenfor er gjeldende for alle miljøer hvor materialanalyseenheter anvendes, med unntak definert i note 5 i tabellen, som utelukker faste utendørs installasjoner i enkelte frekvensbånd.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,73 GHz–85 dBm/MHz (Note 1)–45 dBm1,73 < f ≤ 2,2 GHz–65 dBm/MHz–25 dBm2,2 < f ≤ 2,5 GHz–50 dBm/MHz–10 dBm2,5 < f ≤ 2,69 GHz–65 dBm/MHz (Note 1) (Note 2)–25 dBm2,69 < f ≤ 2,7 GHz (Note 4)–55 dBm/MHz (Note 3)–15 dBm2,7 < f ≤ 2,9 GHz–70 dBm/MHz (Note 1)–30 dBm2,9 < f ≤ 3,4 GHz–70 dBm/MHz (Note 1) (Note 6) (Note 7)–30 dBm3,4 < f ≤ 3,8 GHz (Note 4)–50 dBm/MHz (Note 2) (Note 6) (Note 7)–10 dBm3,8 < f ≤ 4,8 GHz–50 dBm/MHz (Note 6) (Note 7)–10 dBm4,8 < f ≤ 5,0 GHz (Note 4)–55 dBm/MHz (Note 2) (Note 3)–15 dBm5,0 < f ≤ 5,25 GHz–50 dBm/MHz–10 dBm5,25 < f ≤ 5,35 GHz–50 dBm/MHz–10 dBm5,35 < f ≤ 5,6 GHz–50 dBm/MHz–10 dBm5,6 < f ≤ 5,65 GHz–50 dBm/MHz–10 dBm5,65 < f ≤ 5,725 GHz–50 dBm/MHz–10 dBm5,725 < f ≤ 6,0 GHz–50 dBm/MHz–10 dBm6,0 < f ≤ 8,5 GHz–41,3 dBm/MHz (Note 5)0 dBm8,5 < f ≤ 9,0 GHz–65 dBm/MHz (Note 7)–25 dBm9,0 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmNote 1: Enheter med lytt før talemekanisme (LBT) kan operere i 1,215–1,73 GHz med en maksimal gjennomsnittlig spektraltettet (e.i.r.p.) på –70 dBm/MHz og i 2,5–2,69 GHz-båndet og 2,7–3,4 GHz-båndet med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –50 dBm/MHz og en maksimal effekt (e.i.r.p.) på –10 dBm/50 MHz. LBT metode og parametere skal være i samsvar med kapittel 4.5.2.1, 4.5.2.2 og 4.5.2.3 i standarden EN 302 065-4 V1.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Note 2: For at beskytte andre radiotjenester skal ikke-faste installasjoner oppfylle følgende krav til samlet utstrålt effekt:
-a. I frekvensområdene 2,5–2,69 GHz og 4,8–5 GHz skal total spektral effekttetthet være 10 dB under den maksimale e.i.r.p.-spektraltetthet.
-b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten være 5 dB under den maksimale e.i.r.p.-spektraltettheten.Note 3: For å beskytte radioastronomitjenester (RAS) i frekvensbåndene 2,69–2,7 GHz og 4,8–5 GHz skal total spektral effekttetthet ikke overstige –65 dBm/MHz.Note 4: Sendetidsbegrensning på maksimalt 10 % målt over 1 sekund.Note 5: Faste utendørs installasjoner tillates ikke.Note 6: Frekvensbåndet 3,1–4,8 GHz tillates brukt for enheter som anvender Low Duty Cycle (LDC), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. LDC metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når LDC anvendes, gjelder note 5.Note 7: Frekvensbåndene 3,1–4,8 GHz og 8,5–9 GHz tillates brukt for enheter som anvender Detect and Avoid (DAA), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. DAA metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når DAA anvendes, gjelder note 5.
+Frekvenser som angitt i tabellen nedenfor tillates for utstyr til kontaktbasert materialanalyse som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 065-4. Kontaktbasert utstyr er utstyr som hvor senderen kun er aktiv når enheten er i direkte kontakt med materialet som skal undersøkes. Utstyr for kontaktbasert materialanalyse, som benytter UWB-teknologi, kan enten overholde de generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) eller de spesifikke kravene i tabellen nedenfor. De generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) tillater ikke faste utendørs installasjoner. Grenseverdiene definert i tabellen nedenfor er gjeldende for alle miljøer hvor materialanalyseenheter anvendes, med unntak definert i note 5 i tabellen, som utelukker faste utendørs installasjoner i enkelte frekvensbånd.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,73 GHz | –85 dBm/MHz (Note 1) | –45 dBm |
+| 1,73 < f ≤ 2,2 GHz | –65 dBm/MHz | –25 dBm |
+| 2,2 < f ≤ 2,5 GHz | –50 dBm/MHz | –10 dBm |
+| 2,5 < f ≤ 2,69 GHz | –65 dBm/MHz (Note 1) (Note 2) | –25 dBm |
+| 2,69 < f ≤ 2,7 GHz (Note 4) | –55 dBm/MHz (Note 3) | –15 dBm |
+| 2,7 < f ≤ 2,9 GHz | –70 dBm/MHz (Note 1) | –30 dBm |
+| 2,9 < f ≤ 3,4 GHz | –70 dBm/MHz (Note 1) (Note 6) (Note 7) | –30 dBm |
+| 3,4 < f ≤ 3,8 GHz (Note 4) | –50 dBm/MHz (Note 2) (Note 6) (Note 7) | –10 dBm |
+| 3,8 < f ≤ 4,8 GHz | –50 dBm/MHz (Note 6) (Note 7) | –10 dBm |
+| 4,8 < f ≤ 5,0 GHz (Note 4) | –55 dBm/MHz (Note 2) (Note 3) | –15 dBm |
+| 5,0 < f ≤ 5,25 GHz | –50 dBm/MHz | –10 dBm |
+| 5,25 < f ≤ 5,35 GHz | –50 dBm/MHz | –10 dBm |
+| 5,35 < f ≤ 5,6 GHz | –50 dBm/MHz | –10 dBm |
+| 5,6 < f ≤ 5,65 GHz | –50 dBm/MHz | –10 dBm |
+| 5,65 < f ≤ 5,725 GHz | –50 dBm/MHz | –10 dBm |
+| 5,725 < f ≤ 6,0 GHz | –50 dBm/MHz | –10 dBm |
+| 6,0 < f ≤ 8,5 GHz | –41,3 dBm/MHz (Note 5) | 0 dBm |
+| 8,5 < f ≤ 9,0 GHz | –65 dBm/MHz (Note 7) | –25 dBm |
+| 9,0 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Note 1: Enheter med lytt før talemekanisme (LBT) kan operere i 1,215–1,73 GHz med en maksimal gjennomsnittlig spektraltettet (e.i.r.p.) på –70 dBm/MHz og i 2,5–2,69 GHz-båndet og 2,7–3,4 GHz-båndet med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –50 dBm/MHz og en maksimal effekt (e.i.r.p.) på –10 dBm/50 MHz. LBT metode og parametere skal være i samsvar med kapittel 4.5.2.1, 4.5.2.2 og 4.5.2.3 i standarden EN 302 065-4 V1.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Note 2: For at beskytte andre radiotjenester skal ikke-faste installasjoner oppfylle følgende krav til samlet utstrålt effekt:<br>a. I frekvensområdene 2,5–2,69 GHz og 4,8–5 GHz skal total spektral effekttetthet være 10 dB under den maksimale e.i.r.p.-spektraltetthet.<br>b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten være 5 dB under den maksimale e.i.r.p.-spektraltettheten. |  |  |
+| Note 3: For å beskytte radioastronomitjenester (RAS) i frekvensbåndene 2,69–2,7 GHz og 4,8–5 GHz skal total spektral effekttetthet ikke overstige –65 dBm/MHz. |  |  |
+| Note 4: Sendetidsbegrensning på maksimalt 10 % målt over 1 sekund. |  |  |
+| Note 5: Faste utendørs installasjoner tillates ikke. |  |  |
+| Note 6: Frekvensbåndet 3,1–4,8 GHz tillates brukt for enheter som anvender Low Duty Cycle (LDC), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. LDC metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når LDC anvendes, gjelder note 5. |  |  |
+| Note 7: Frekvensbåndene 3,1–4,8 GHz og 8,5–9 GHz tillates brukt for enheter som anvender Detect and Avoid (DAA), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. DAA metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når DAA anvendes, gjelder note 5. |  |  |
 
 > Tilføyd ved forskrift [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021), endret ved forskrift [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 
 ### § 34b. Ultrabredbåndsutstyr for materialanalyse – ikke-kontaktbasert
 
-(1) Frekvenser som angitt i tabellen nedenfor tillates for utstyr til ikke-kontaktbasert materialanalyse som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 065-4. Ikke-kontaktbasert utstyr er utstyr som hvor senderen kun er aktiv når enheten er i nærheten av, og senderen er retter direkte mot, materialet som skal undersøkes (f.eks. ved hjelp av nærhetssensor eller ved mekanisk design). Utstyr for ikke-kontaktbasert materialanalyse, som benytter UWB-teknologi, kan enten overholde de generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) eller de spesifikke kravene i tabellen nedenfor. De generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) tillater ikke faste utendørs installasjoner. Grenseverdiene definert i tabellen nedenfor er gjeldende for alle miljøer hvor materialanalyseenheter anvendes, med unntak definert i note 5 i tabellen, som utelukker faste utendørs installasjoner i enkelte frekvensbånd. Ytterligere krav beskrevet i [§ 34b](forskrift/2012-01-19-77/§34b) andre og tredje ledd skal også overholdes.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,73 GHz–85 dBm/MHz (Note 1)–60 dBm1,73 < f ≤ 2,2 GHz–70 dBm/MHz–45 dBm2,2 < f ≤ 2,5 GHz–50 dBm/MHz–25 dBm2,5 < f ≤ 2,69 GHz–65 dBm/MHz (Note 1) (Note 2)–40 dBm2,69 < f ≤ 2,7 GHz (Note 4)–70 dBm/MHz (Note 3)–45 dBm2,7 < f ≤ 2,9 GHz–70 dBm/MHz (Note 1)–45 dBm2,9 < f ≤ 3,4 GHz–70 dBm/MHz (Note 1) (Note 6) (Note 7)–45 dBm3,4 < f ≤ 3,8 GHz (Note 4)–70 dBm/MHz (Note 2) (Note 6) (Note 7)–45 dBm3,8 < f ≤ 4,8 GHz–50 dBm/MHz (Note 6) (Note 7)–25 dBm4,8 < f ≤ 5,0 GHz (Note 4)–55 dBm/MHz (Note 2) (Note 3)–30 dBm5,0 < f ≤ 5,25 GHz–55 dBm/MHz–30 dBm5,25 < f ≤ 5,35 GHz–50 dBm/MHz–25 dBm5,35 < f ≤ 5,6 GHz–50 dBm/MHz–25 dBm5,6 < f ≤ 5,65 GHz–50 dBm/MHz–25 dBm5,65 < f ≤ 5,725 GHz–65 dBm/MHz–40 dBm5,725 < f ≤ 6,0 GHz–60 dBm/MHz–35 dBm6,0 < f ≤ 8,5 GHz–41,3 dBm/MHz (Note 5)0 dBm8,5 < f ≤ 9,0 GHz–65 dBm/MHz (Note 7)–25 dBm9,0 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmNote 1: Enheter med lytt før talemekanisme (LBT) kan operere i 1,215–1,73 GHz med en maksimal gjennomsnittlig spektraltettet (e.i.r.p.) på –70 dBm/MHz og i 2,5–2,69 GHz-båndet og 2,7–3,4 GHz-båndet med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –50 dBm/MHz og en maksimal effekt (e.i.r.p.) på –10 dBm/50 MHz. LBT metode og parametere skal være i samsvar med kapittel 4.5.2.1, 4.5.2.2 og 4.5.2.3 i standarden EN 302 065-4 V1.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder.Note 2: For at beskytte andre radiotjenester skal ikke-faste installasjoner oppfylle følgende krav til samlet utstrålt effekt:
-a. I frekvensområdene 2,5–2,69 GHz og 4,8–5 GHz skal total spektral effekttetthet være 10 dB under den maksimale e.i.r.p.-spektraltetthet.
-b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten være 5 dB under den maksimale e.i.r.p.-spektraltettheten.Note 3: For å beskytte radioastronomitjenester (RAS) i frekvensbåndene 2,69–2,7 GHz og 4,8–5 GHz skal total spektral effekttetthet ikke overstige –65 dBm/MHz.Note 4: Sendetidsbegrensning på maksimalt 10 % målt over 1 sekund.Note 5: Faste utendørs installasjoner tillates ikke.Note 6: Frekvensbåndet 3,1–4,8 GHz tillates brukt for enheter som anvender Low Duty Cycle (LDC), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. LDC metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når LDC anvendes, gjelder note 5.Note 7: Frekvensbåndene 3,1–4,8 GHz og 8,5–9 GHz tillates brukt for enheter som anvender Detect and Avoid (DAA), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. DAA metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når DAA anvendes, gjelder note 5.
+(1) Frekvenser som angitt i tabellen nedenfor tillates for utstyr til ikke-kontaktbasert materialanalyse som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 065-4. Ikke-kontaktbasert utstyr er utstyr som hvor senderen kun er aktiv når enheten er i nærheten av, og senderen er retter direkte mot, materialet som skal undersøkes (f.eks. ved hjelp av nærhetssensor eller ved mekanisk design). Utstyr for ikke-kontaktbasert materialanalyse, som benytter UWB-teknologi, kan enten overholde de generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) eller de spesifikke kravene i tabellen nedenfor. De generiske kravene i [§ 31](forskrift/2012-01-19-77/§31) tillater ikke faste utendørs installasjoner. Grenseverdiene definert i tabellen nedenfor er gjeldende for alle miljøer hvor materialanalyseenheter anvendes, med unntak definert i note 5 i tabellen, som utelukker faste utendørs installasjoner i enkelte frekvensbånd. Ytterligere krav beskrevet i [§ 34b](forskrift/2012-01-19-77/§34b) andre og tredje ledd skal også overholdes.
 
-(2) Maksimale effektgrenseverdi for LBT mekanismen, for å sikrestille beskyttelse av eksisterende radiotjenester definert nedenfor, er definert i følgende tabell:*Frekvensområde**Radiotjeneste som skal detekteres**Maksimal effektgrenseverdi*1,215 < f ≤ 1,4 GHzRadiodeterminering (radar)+8 dBm/MHz1,61 < f ≤ 1,66 GHzMobil satellitt–43 dBm/MHz2,5 < f ≤ 2,69 GHzLand mobil–50 dBm/MHz2,9 < f ≤ 3,4 GHzRadiodeterminering (radar)–7 dBm/MHz
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,73 GHz | –85 dBm/MHz (Note 1) | –60 dBm |
+| 1,73 < f ≤ 2,2 GHz | –70 dBm/MHz | –45 dBm |
+| 2,2 < f ≤ 2,5 GHz | –50 dBm/MHz | –25 dBm |
+| 2,5 < f ≤ 2,69 GHz | –65 dBm/MHz (Note 1) (Note 2) | –40 dBm |
+| 2,69 < f ≤ 2,7 GHz (Note 4) | –70 dBm/MHz (Note 3) | –45 dBm |
+| 2,7 < f ≤ 2,9 GHz | –70 dBm/MHz (Note 1) | –45 dBm |
+| 2,9 < f ≤ 3,4 GHz | –70 dBm/MHz (Note 1) (Note 6) (Note 7) | –45 dBm |
+| 3,4 < f ≤ 3,8 GHz (Note 4) | –70 dBm/MHz (Note 2) (Note 6) (Note 7) | –45 dBm |
+| 3,8 < f ≤ 4,8 GHz | –50 dBm/MHz (Note 6) (Note 7) | –25 dBm |
+| 4,8 < f ≤ 5,0 GHz (Note 4) | –55 dBm/MHz (Note 2) (Note 3) | –30 dBm |
+| 5,0 < f ≤ 5,25 GHz | –55 dBm/MHz | –30 dBm |
+| 5,25 < f ≤ 5,35 GHz | –50 dBm/MHz | –25 dBm |
+| 5,35 < f ≤ 5,6 GHz | –50 dBm/MHz | –25 dBm |
+| 5,6 < f ≤ 5,65 GHz | –50 dBm/MHz | –25 dBm |
+| 5,65 < f ≤ 5,725 GHz | –65 dBm/MHz | –40 dBm |
+| 5,725 < f ≤ 6,0 GHz | –60 dBm/MHz | –35 dBm |
+| 6,0 < f ≤ 8,5 GHz | –41,3 dBm/MHz (Note 5) | 0 dBm |
+| 8,5 < f ≤ 9,0 GHz | –65 dBm/MHz (Note 7) | –25 dBm |
+| 9,0 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Note 1: Enheter med lytt før talemekanisme (LBT) kan operere i 1,215–1,73 GHz med en maksimal gjennomsnittlig spektraltettet (e.i.r.p.) på –70 dBm/MHz og i 2,5–2,69 GHz-båndet og 2,7–3,4 GHz-båndet med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –50 dBm/MHz og en maksimal effekt (e.i.r.p.) på –10 dBm/50 MHz. LBT metode og parametere skal være i samsvar med kapittel 4.5.2.1, 4.5.2.2 og 4.5.2.3 i standarden EN 302 065-4 V1.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. |  |  |
+| Note 2: For at beskytte andre radiotjenester skal ikke-faste installasjoner oppfylle følgende krav til samlet utstrålt effekt:<br>a. I frekvensområdene 2,5–2,69 GHz og 4,8–5 GHz skal total spektral effekttetthet være 10 dB under den maksimale e.i.r.p.-spektraltetthet.<br>b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten være 5 dB under den maksimale e.i.r.p.-spektraltettheten. |  |  |
+| Note 3: For å beskytte radioastronomitjenester (RAS) i frekvensbåndene 2,69–2,7 GHz og 4,8–5 GHz skal total spektral effekttetthet ikke overstige –65 dBm/MHz. |  |  |
+| Note 4: Sendetidsbegrensning på maksimalt 10 % målt over 1 sekund. |  |  |
+| Note 5: Faste utendørs installasjoner tillates ikke. |  |  |
+| Note 6: Frekvensbåndet 3,1–4,8 GHz tillates brukt for enheter som anvender Low Duty Cycle (LDC), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. LDC metode og parametere skal være i samsvar med kapittel 4.5.3.1, 4.5.3.2 og 4.5.3.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når LDC anvendes, gjelder note 5. |  |  |
+| Note 7: Frekvensbåndene 3,1–4,8 GHz og 8,5–9 GHz tillates brukt for enheter som anvender Detect and Avoid (DAA), med en maksimal gjennomsnittlig spektraltetthet (e.i.r.p.) på –41.3 dBm/MHz og en maksimal effekt (e.i.r.p.) på 0 dBm innenfor en båndbredde på 50 MHz. DAA metode og parametere skal være i samsvar med kapittel 4.5.1.1, 4.5.1.2 og 4.5.1.3 i standarden EN 302 065-1 V2.1.1. Det tillates også alternative spektrumaksessteknikker og interferensreduserende tiltak som gir minst samme virkning som teknikker beskrevet i harmoniserte standarder. Når DAA anvendes, gjelder note 5. |  |  |
+
+(2) Maksimale effektgrenseverdi for LBT mekanismen, for å sikrestille beskyttelse av eksisterende radiotjenester definert nedenfor, er definert i følgende tabell:
+
+| *Frekvensområde* | *Radiotjeneste som skal detekteres* | *Maksimal effektgrenseverdi* |
+| --- | --- | --- |
+| 1,215 < f ≤ 1,4 GHz | Radiodeterminering (radar) | +8 dBm/MHz |
+| 1,61 < f ≤ 1,66 GHz | Mobil satellitt | –43 dBm/MHz |
+| 2,5 < f ≤ 2,69 GHz | Land mobil | –50 dBm/MHz |
+| 2,9 < f ≤ 3,4 GHz | Radiodeterminering (radar) | –7 dBm/MHz |
 
 (3) Ytterligere krav for radardeteksjon: kontinuerlig lytting og automatisk avstengning innen 10 ms for det relevante frekvensbåndet om effektgrenseverdien overstiges (i henhold til tabell med effektgrenser for LBT mekanismen). Det er behov for stilleperioder på minst 12s med kontinuerlig lytting før senderen igjen kan aktiveres. Denne stilleperioden, hvor kun LBT-mottakeren er aktivert, skal sikres selv etter at utstyret slås av.
 
@@ -558,19 +750,59 @@ b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten v�
 
 ### § 35. Nivåmålingsradar som benytter ultrabredbåndsteknologi
 
-(1) Frekvensbåndene 6,0–8,5 GHz, 24,05–26,50 GHz, 57–64 GHz og 75–85 GHz tillates brukt til nivåmålingsradar som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 729. Bruken skal være i henhold til tekniske krav oppgitt i tabellen, samt krav i § 35 andre ledd. For å kunne ta i bruk utstyret i henhold til tabellen må det være gjennomført interferensreduserende tiltak for å begrense utstråling i alle retninger, uavhengig av installasjonens høyde og reflekterende materiale nedenfor nivåmålingsradaren. En praktisk metode er å implementere automatisk effektkontroll med et dynamisk område på 20 dB. Alternative løsninger som gir tilsvarende interferensreduserende virkning kan også brukes. Interferensreduserende tiltak som automatisk effektkontroll og andre ekvivalente tekniske løsninger er beskrevet i standarden EN 302 729. Ytterligere krav beskrevet i § 35 andre og tredje ledd skal også overholdes.*Frekvensområde**Antenne tilt**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet (dBm/MHz) (Note 1)**Maksimal tillatt spisseffekt e.i.r.p. (dBm målt over 50 MHz) (Note 2)**Antennes maksimale strålebredde (grader)**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for en halvkule (dBm/MHz) (Note 4)*ABCD6,0–8,5 GHzNedover–33+712 (Note 3)–5524,05–26,50 GHzNedover–14+2612 (Note 3)–41,357–64 GHzNedover–2+358 (Note 3)–41,375–85 GHzNedover–3+348 (Note 3)–41,375–85 GHzNedover ± 15°–3+34(Note 5)–41,375–85 GHzNedover ± 30°–10+34(Note 5)–41,375–85 GHzNedover ± 45°–20+20(Note 5)–41,3Note 1: Gjennomsnittlig e.i.r.p. spektral effekttetthet i hovedstrålen til nivåmålingsradaren er gjennomsnittlig effekt per enhet båndbredde i den retningen der utstrålingen er maksimal.Note 2: Spisseffekt e.i.r.p. i hovedstrålen er effekten over en båndbredde på 50 MHz målt ved frekvensen med høyest gjennomsnittlig utstrålt effekt. Dersom man måler båndbredden i x MHz, skal nivået oppgitt i tabell i første ledd skaleres ned med en faktor lik 20log (50/x) dB.Note 3: Antennens maksimale strålebredde defineres ved –3 dB i forhold til maksimale forsterkning. Tabellen i første ledd angir den totale åpningsvinkelen. Antennens forsterkning ved elevasjonsvinkel over 60 grader i forhold til hovedstråleretningen kan maksimalt være –10 dBi.Note 4: Den maksimale gjennomsnittlige e.i.r.p. spektrale effekttetthet-grensen for en halvkule rundt nivåmålingsradaren omfatter både antennens sidelober og refleksjoner fra materialet man måler på. Dersom de målte verdiene for installasjonen er i overensstemmelse med grenseverdiene for maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet og maksimal spisseffekt e.i.r.p. i tabellen i første ledd, vil kravet for maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet-grense for en halvkule anses for å være innfridd.Note 5: For nivåmålingsradar som ikke peker rett nedover gjelder maksimal gjennomsnittlig spektraltetthet:
-• –35,0 dBm/MHz e.i.r.p. for vinkler mellom 24° og 60°, relatert til vertikal aksel for en tiltet LPR-enhet. For positive elevasjonsvinkler gjelder –41,3 dBm/MHz.
-• –41,3 dBm/MHz e.i.r.p. for vinkler over 60°, relatert til vertikal aksel for en tiltet LPR-enhet.
+(1) Frekvensbåndene 6,0–8,5 GHz, 24,05–26,50 GHz, 57–64 GHz og 75–85 GHz tillates brukt til nivåmålingsradar som benytter ultrabredbåndsteknologi (UWB), som beskrevet i standarden EN 302 729. Bruken skal være i henhold til tekniske krav oppgitt i tabellen, samt krav i § 35 andre ledd. For å kunne ta i bruk utstyret i henhold til tabellen må det være gjennomført interferensreduserende tiltak for å begrense utstråling i alle retninger, uavhengig av installasjonens høyde og reflekterende materiale nedenfor nivåmålingsradaren. En praktisk metode er å implementere automatisk effektkontroll med et dynamisk område på 20 dB. Alternative løsninger som gir tilsvarende interferensreduserende virkning kan også brukes. Interferensreduserende tiltak som automatisk effektkontroll og andre ekvivalente tekniske løsninger er beskrevet i standarden EN 302 729. Ytterligere krav beskrevet i § 35 andre og tredje ledd skal også overholdes.
+
+| *Frekvensområde* | *Antenne tilt* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet (dBm/MHz) (Note 1)* | *Maksimal tillatt spisseffekt e.i.r.p. (dBm målt over 50 MHz) (Note 2)* | *Antennes maksimale strålebredde (grader)* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for en halvkule (dBm/MHz) (Note 4)* |
+| --- | --- | --- | --- | --- | --- |
+|  |  | A | B | C | D |
+| 6,0–8,5 GHz | Nedover | –33 | +7 | 12 (Note 3) | –55 |
+| 24,05–26,50 GHz | Nedover | –14 | +26 | 12 (Note 3) | –41,3 |
+| 57–64 GHz | Nedover | –2 | +35 | 8 (Note 3) | –41,3 |
+| 75–85 GHz | Nedover | –3 | +34 | 8 (Note 3) | –41,3 |
+| 75–85 GHz | Nedover ± 15° | –3 | +34 | (Note 5) | –41,3 |
+| 75–85 GHz | Nedover ± 30° | –10 | +34 | (Note 5) | –41,3 |
+| 75–85 GHz | Nedover ± 45° | –20 | +20 | (Note 5) | –41,3 |
+| Note 1: Gjennomsnittlig e.i.r.p. spektral effekttetthet i hovedstrålen til nivåmålingsradaren er gjennomsnittlig effekt per enhet båndbredde i den retningen der utstrålingen er maksimal. |  |  |  |  |  |
+| Note 2: Spisseffekt e.i.r.p. i hovedstrålen er effekten over en båndbredde på 50 MHz målt ved frekvensen med høyest gjennomsnittlig utstrålt effekt. Dersom man måler båndbredden i x MHz, skal nivået oppgitt i tabell i første ledd skaleres ned med en faktor lik 20log (50/x) dB. |  |  |  |  |  |
+| Note 3: Antennens maksimale strålebredde defineres ved –3 dB i forhold til maksimale forsterkning. Tabellen i første ledd angir den totale åpningsvinkelen. Antennens forsterkning ved elevasjonsvinkel over 60 grader i forhold til hovedstråleretningen kan maksimalt være –10 dBi. |  |  |  |  |  |
+| Note 4: Den maksimale gjennomsnittlige e.i.r.p. spektrale effekttetthet-grensen for en halvkule rundt nivåmålingsradaren omfatter både antennens sidelober og refleksjoner fra materialet man måler på. Dersom de målte verdiene for installasjonen er i overensstemmelse med grenseverdiene for maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet og maksimal spisseffekt e.i.r.p. i tabellen i første ledd, vil kravet for maksimal gjennomsnittlig e.i.r.p. spektral effekttetthet-grense for en halvkule anses for å være innfridd. |  |  |  |  |  |
+| Note 5: For nivåmålingsradar som ikke peker rett nedover gjelder maksimal gjennomsnittlig spektraltetthet:<br>• –35,0 dBm/MHz e.i.r.p. for vinkler mellom 24° og 60°, relatert til vertikal aksel for en tiltet LPR-enhet. For positive elevasjonsvinkler gjelder –41,3 dBm/MHz.<br>• –41,3 dBm/MHz e.i.r.p. for vinkler over 60°, relatert til vertikal aksel for en tiltet LPR-enhet. |  |  |  |  |  |
 
 (2) Nivåmålingsradar som bruker frekvensene 6,6 GHz, 24 GHz og 75 GHz tillates ikke i en radius på 4 km rundt antenneanlegg for radioastronomi uten individuell tillatelse. Installasjonshøyden for en nivåmålingsradar kan ikke overstige 15 m i en radius fra 4 til 40 km.
 
-(3) Tabellen viser grenseverdier for uønsket utstråling fra nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i frekvensområdet 6,0–8,5 GHz. For nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i de andre frekvensområdene er grenseverdien for uønsket utstråling minst 20 dB mindre enn verdiene oppgitt i tabellen i første ledd. For nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i frekvensbåndet 24,05–26,50 GHz er grenseverdien for uønsket utstråling i passivbåndet 23,6–24,0 GHz minst 30 dB mindre enn grenseverdiene som fremkommer i tabellen i denne bestemmelse første ledd.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet (dBm/MHz)**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for en halvkule (dBm/MHz)*Under 1,73 GHz–63–851,73–2,70 GHz–58–802,70–5,00 GHz–48–705,00–6,00 GHz–43–658,50–10,60 GHz–43–65Over 10,60 GHz–63–85
+(3) Tabellen viser grenseverdier for uønsket utstråling fra nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i frekvensområdet 6,0–8,5 GHz. For nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i de andre frekvensområdene er grenseverdien for uønsket utstråling minst 20 dB mindre enn verdiene oppgitt i tabellen i første ledd. For nivåmålingsradar som benytter ultrabredbåndsteknologi som opererer i frekvensbåndet 24,05–26,50 GHz er grenseverdien for uønsket utstråling i passivbåndet 23,6–24,0 GHz minst 30 dB mindre enn grenseverdiene som fremkommer i tabellen i denne bestemmelse første ledd.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet (dBm/MHz)* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet for en halvkule (dBm/MHz)* |
+| --- | --- | --- |
+| Under 1,73 GHz | –63 | –85 |
+| 1,73–2,70 GHz | –58 | –80 |
+| 2,70–5,00 GHz | –48 | –70 |
+| 5,00–6,00 GHz | –43 | –65 |
+| 8,50–10,60 GHz | –43 | –65 |
+| Over 10,60 GHz | –63 | –85 |
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021).
 
 ### § 35a. Ultrabredbåndsutstyr installert i luftfartøy
 
-(1) Frekvenser som angitt i tabellen nedenfor tillates til ultrabredbåndsutstyr (UWB) i luftfartøy i norsk luftterritorium, som beskrevet i standarden EN 302 065-5.*Frekvensområde**Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet**Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)*f ≤ 1,6 GHz–90 dBm/MHz–50 dBm1,6 < f ≤ 2,7 GHz–85 dBm/MHz–45 dBm2,7 < f ≤ 3,4 GHz–70 dBm/MHz–36 dBm3,4 < f ≤ 3,8 GHz–80 dBm/MHz–40 dBm3,8 < f ≤ 6,0 GHz–70 dBm/MHz–30 dBm6,0 < f ≤ 6,650 GHz–41,3 dBm/MHz0 dBm6,650 < f ≤ 6,6752 GHz–62,3 dBm/MHz (Note 1) (Note 4)–21 dBm6,6752 < f ≤ 8,5 GHz–41,3 dBm/MHz (Note 1) (Note 2) (Note 3)0 dBm8,5 < f ≤ 10,6 GHz–65 dBm/MHz–25 dBmf > 10,6 GHz–85 dBm/MHz–45 dBmNote 1: Alternative interferensreduserende tiltak, for eksempel bruk av skjermede vinduer, som gir minst samme virkning som effektbegrensningene, tillates som beskrevet i standarden EN 302 065-5.Note 2: Ved bruk av frekvenser i frekvensbåndet 7,25–7,75 GHz gjelder følgende effektbegrensninger for å beskytte Fixed Satellite Service (FSS) og Meteorological Satellite Service: –51,3 – 20*log (10 [km]/x[km])(dBm/MHz) for høyder over 1000 meter, hvor x er luftfartøyets høyde over bakken i kilometer. –71,3 dBm/MHz gjelder for høyde over bakken opp til og med 1 000 meter.Note 3: Ved bruk av frekvenser i frekvensbåndet 7,75–7,9 GHz gjelder følgende effektbegrensninger for å beskytte Meteorological Satellite Service: –44,3–20*log (10[km]/x[km]) (dBm/MHz) for høyder over 1000 meter, hvor x er luftfartøyets høyde over bakken i kilometer. –64,3 dBm/MHz gjelder for høyde over bakken opp til og med 1 000 meter.Note 4: Det bør anvendes notch filter med dempning på 21 dB for å nå –62,3 dBm/MHz-nivået.
+(1) Frekvenser som angitt i tabellen nedenfor tillates til ultrabredbåndsutstyr (UWB) i luftfartøy i norsk luftterritorium, som beskrevet i standarden EN 302 065-5.
+
+| *Frekvensområde* | *Maksimal tillatt gjennomsnittlig e.i.r.p. spektral effekttetthet* | *Maksimal tillatt spisseffekt e.i.r.p. (målt over 50 MHz)* |
+| --- | --- | --- |
+| f ≤ 1,6 GHz | –90 dBm/MHz | –50 dBm |
+| 1,6 < f ≤ 2,7 GHz | –85 dBm/MHz | –45 dBm |
+| 2,7 < f ≤ 3,4 GHz | –70 dBm/MHz | –36 dBm |
+| 3,4 < f ≤ 3,8 GHz | –80 dBm/MHz | –40 dBm |
+| 3,8 < f ≤ 6,0 GHz | –70 dBm/MHz | –30 dBm |
+| 6,0 < f ≤ 6,650 GHz | –41,3 dBm/MHz | 0 dBm |
+| 6,650 < f ≤ 6,6752 GHz | –62,3 dBm/MHz (Note 1) (Note 4) | –21 dBm |
+| 6,6752 < f ≤ 8,5 GHz | –41,3 dBm/MHz (Note 1) (Note 2) (Note 3) | 0 dBm |
+| 8,5 < f ≤ 10,6 GHz | –65 dBm/MHz | –25 dBm |
+| f > 10,6 GHz | –85 dBm/MHz | –45 dBm |
+| Note 1: Alternative interferensreduserende tiltak, for eksempel bruk av skjermede vinduer, som gir minst samme virkning som effektbegrensningene, tillates som beskrevet i standarden EN 302 065-5. |  |  |
+| Note 2: Ved bruk av frekvenser i frekvensbåndet 7,25–7,75 GHz gjelder følgende effektbegrensninger for å beskytte Fixed Satellite Service (FSS) og Meteorological Satellite Service: –51,3 – 20\*log (10 [km]/x[km])(dBm/MHz) for høyder over 1000 meter, hvor x er luftfartøyets høyde over bakken i kilometer. –71,3 dBm/MHz gjelder for høyde over bakken opp til og med 1 000 meter. |  |  |
+| Note 3: Ved bruk av frekvenser i frekvensbåndet 7,75–7,9 GHz gjelder følgende effektbegrensninger for å beskytte Meteorological Satellite Service: –44,3–20\*log (10[km]/x[km]) (dBm/MHz) for høyder over 1000 meter, hvor x er luftfartøyets høyde over bakken i kilometer. –64,3 dBm/MHz gjelder for høyde over bakken opp til og med 1 000 meter. |  |  |
+| Note 4: Det bør anvendes notch filter med dempning på 21 dB for å nå –62,3 dBm/MHz-nivået. |  |  |
 
 (2) Norskregistrert luftfartøy som flyr utenfor norsk luftterritorium tillates å ta i bruk frekvenser til utstyr for ultrabredbånd (UWB) som beskrevet i tabellen i § 35a første ledd dersom tillatelse foreligger fra administrasjon i den andre staten hvis luftrom det gjelder. Frekvensbruken skal innrettes slik at den er i samsvar med Norges forpliktelser overfor andre stater.
 
@@ -580,15 +812,41 @@ b. I frekvensområdet 3,4 GHz til 3,8 GHz skal total spektral effekttettheten v�
 
 ### § 36. Fjernstyring
 
-(1) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til alle typer fjernstyring. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.26,995 MHz27,045 MHz27,095 MHz27,145 MHz27,195 MHz27,255 MHz40,665 MHz40,675 MHz40,685 MHz40,695 MHz
+(1) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til alle typer fjernstyring. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.
 
-(2) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av modellfly. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.35,000 MHz35,010 MHz35,020 MHz35,030 MHz35,040 MHz35,050 MHz35,060 MHz35,070 MHz35,080 MHz35,090 MHz35,100 MHz35,110 MHz35,120 MHz35,130 MHz35,140 MHz35,150 MHz35,160 MHz35,170 MHz35,180 MHz35,190 MHz35,200 MHz35,210 MHz35,220 MHz35,230 MHz35,240 MHz35,250 MHz35,260 MHz35,270 MHz35,280 MHz35,290 MHz35,300 MHz
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 26,995 MHz | 27,045 MHz | 27,095 MHz | 27,145 MHz | 27,195 MHz |
+| 27,255 MHz | 40,665 MHz | 40,675 MHz | 40,685 MHz | 40,695 MHz |
 
-(3) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av modellkjøretøy og modellbåter. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.35,310 MHz35,320 MHz35,330 MHz35,340 MHz35,350 MHz35,360 MHz35,370 MHz35,380 MHz35,390 MHz40,705 MHz40,715 MHz40,725 MHz40,735 MHz40,745 MHz40,755 MHz40,765 MHz40,775 MHz40,785 MHz40,795 MHz
+(2) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av modellfly. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 35,000 MHz | 35,010 MHz | 35,020 MHz | 35,030 MHz | 35,040 MHz | 35,050 MHz |
+| 35,060 MHz | 35,070 MHz | 35,080 MHz | 35,090 MHz | 35,100 MHz | 35,110 MHz |
+| 35,120 MHz | 35,130 MHz | 35,140 MHz | 35,150 MHz | 35,160 MHz | 35,170 MHz |
+| 35,180 MHz | 35,190 MHz | 35,200 MHz | 35,210 MHz | 35,220 MHz | 35,230 MHz |
+| 35,240 MHz | 35,250 MHz | 35,260 MHz | 35,270 MHz | 35,280 MHz | 35,290 MHz |
+| 35,300 MHz |  |  |  |  |  |
+
+(3) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av modellkjøretøy og modellbåter. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 10 kHz.
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 35,310 MHz | 35,320 MHz | 35,330 MHz | 35,340 MHz | 35,350 MHz | 35,360 MHz |
+| 35,370 MHz | 35,380 MHz | 35,390 MHz | 40,705 MHz | 40,715 MHz | 40,725 MHz |
+| 40,735 MHz | 40,745 MHz | 40,755 MHz | 40,765 MHz | 40,775 MHz | 40,785 MHz |
+| 40,795 MHz |  |  |  |  |  |
 
 (4) Senterfrekvensene 142,400 MHz og 440,700 MHz tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av trafikklys. Maksimal tillatt utstrålt effekt er 500 mW e.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz.
 
-(5) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av kraner. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz.440,725 MHz440,750 MHz441,325 MHz441,550 MHz441,575 MHz441,600 MHz441,625 MHz441,725 MHz
+(5) Senterfrekvensene i tabellen tillates brukt som beskrevet i standarden EN 300 220-2 til fjernstyring av kraner. Maksimal tillatt utstrålt effekt er 100 mW e.r.p. Maksimal okkupert båndbredde per kanal er 25 kHz.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 440,725 MHz | 440,750 MHz | 441,325 MHz | 441,550 MHz |
+| 441,575 MHz | 441,600 MHz | 441,625 MHz | 441,725 MHz |
 
 > Endret ved [forskrifter 24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018).
 
@@ -700,9 +958,9 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 (2) For mobilterminal som er kontrollert av fartøyets basestasjon gjelder en maksimal utstrålt effekt på 0 dBm (PcMax).
 
-(3) Maksimalt tillatt effekt fra basestasjonene, målt utendørs på dekk, skal være –120 dBm/15 kHz for SSB-kanalen (–98 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal konverteringsfaktoren 10*log10(SSB BW/(15 kHz)) benyttes.
+(3) Maksimalt tillatt effekt fra basestasjonene, målt utendørs på dekk, skal være –120 dBm/15 kHz for SSB-kanalen (–98 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal konverteringsfaktoren 10\*log10(SSB BW/(15 kHz)) benyttes.
 
-(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. Ved bruk av 5G NR non-AAS systemer gjelder således følgende:Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz for SSB-kanalen (–83 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal det konverteringsfaktoren 10*log10(SSB BW/(15 kHz)) brukes.Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
+(4) Frekvensbruken skal være i samsvar med standardene EN 301 908-1, EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. Ved bruk av 5G NR non-AAS systemer gjelder således følgende:Mellom 4 og 12 nautiske mil fra grunnlinjen skal kvalitetskriteriet QRxLevMin (minimum påkrevd mottatt signalnivå i cellen) være lik eller høyere enn –105 dBm/15 kHz for SSB-kanalen (–83 dBm/5 MHz for data-kanalen). For SSB-kanaler med en kanalbredde ulik 15 kHz, skal det konverteringsfaktoren 10\*log10(SSB BW/(15 kHz)) brukes.Tiden for nytt søk etter mobile nettverk (Public Land Mobile Network selection timer) skal settes til 10 minutter.Verdi for tidsforskyvning skal settes i henhold til et celleområde på 400 meter for det distribuerte antennesystemet.Bruker inaktivitetstimer for radioressurser (Radio Resource Control user inactivity release timer) skal settes til 2 sekunder.
 
 (5) Senterfrekvensen for kanalene skal ikke samsvare med senterfrekvensen for landbaserte mobile nettverk.
 
@@ -720,23 +978,83 @@ Senterfrekvensen 449,750 MHz tillates brukt til personsøkersystem. Maksimal til
 
 ### § 44. Mobilkommunikasjon i luftfartøy i norsk luftterritorium
 
-(1) Luftfartøy i norsk luftterritorium kan ta i bruk følgende bånd og teknologier til bruk av utstyr for mobilkommunikasjon:*Teknologi**Frekvensbånd**Systeminformasjon*GSM 18001710–1785 MHz (opplink)
-1805–1880 MHz (nedlink)GSM system i samsvar med GSM standarder publisert av ETSI, i særdeleshet EN 301 502, EN 301 511 og EN 302 480, eller tilsvarende standarder.UMTS 2100 (FDD)1920–1980 MHz (opplink)
-2110–2170 MHz (nedlink)UMTS system i samsvar med UMTS standarder publisert av ETSI, i særdeleshet EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 908-11, eller tilsvarende standarder.LTE 1800 (FDD)1710–1785 MHz (opplink)
-1805–1880 MHz (nedlink)LTE i samsvar med LTE standarder publisert av ETSI, i særdeleshet EN 301 908-1, EN 301 908-13, EN 301 908-14 og EN 301 908-15, eller tilsvarende standarder.5G NR non-AAS1710–1785 MHz (opplink)
-1805–1880 MHz (nedlink)5G NR non-AAS i samsvar med 5G NR standarder publisert av ETSI, i særdeleshet EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder.
+(1) Luftfartøy i norsk luftterritorium kan ta i bruk følgende bånd og teknologier til bruk av utstyr for mobilkommunikasjon:
+
+| *Teknologi* | *Frekvensbånd* | *Systeminformasjon* |
+| --- | --- | --- |
+| GSM 1800 | 1710–1785 MHz (opplink)<br>1805–1880 MHz (nedlink) | GSM system i samsvar med GSM standarder publisert av ETSI, i særdeleshet EN 301 502, EN 301 511 og EN 302 480, eller tilsvarende standarder. |
+| UMTS 2100 (FDD) | 1920–1980 MHz (opplink)<br>2110–2170 MHz (nedlink) | UMTS system i samsvar med UMTS standarder publisert av ETSI, i særdeleshet EN 301 908-1, EN 301 908-2, EN 301 908-3 og EN 908-11, eller tilsvarende standarder. |
+| LTE 1800 (FDD) | 1710–1785 MHz (opplink)<br>1805–1880 MHz (nedlink) | LTE i samsvar med LTE standarder publisert av ETSI, i særdeleshet EN 301 908-1, EN 301 908-13, EN 301 908-14 og EN 301 908-15, eller tilsvarende standarder. |
+| 5G NR non-AAS | 1710–1785 MHz (opplink)<br>1805–1880 MHz (nedlink) | 5G NR non-AAS i samsvar med 5G NR standarder publisert av ETSI, i særdeleshet EN 301 908-24 og EN 301 908-25, eller tilsvarende standarder. |
 
 (2) Følgende operasjonelle krav skal oppfylles:Sending fra systemene er kun tillatt i høyder over 3000 meter over bakken.Luftfartøyets GSM basestasjon skal begrense uteffekten fra alle tilknyttede GSM mobilterminaler i 1800 MHz båndet til en nominell verdi av 0 dBm/200 kHz under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.Luftfartøyets LTE basestasjon skal begrense uteffekten fra alle tilknyttede LTE mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/5 MHz under alle faser av kommunikasjonen.Luftfartøyets UMTS basestasjon skal begrense uteffekten fra alle tilknyttede UMTS mobilterminaler i 2100 MHz båndet til en nominell verdi av –6 dBm/3,84 MHz under alle faser av kommunikasjonen. Maksimalt antall tilknyttede UMTS mobilterminaler skal ikke overstige 20.Luftfartøyets 5G NR basestasjon skal begrense uteffekten fra alle tilknyttede 5G NR mobilterminaler i 1800 MHz båndet til en nominell verdi av 5 dBm/kanal under alle faser av kommunikasjonen, inkludert under etablering av forbindelse til basestasjon.
 
-(3) Maksimal utstrålt effekt (e.i.r.p.) fra mobilterminalene målt utenfor luftfartøyet skal ikke overstige verdiene i tabellen nedenfor:*Høyde over bakken**Maksimal tillatt e.i.r.p. utenfor flyet fra GSM- mobilterminal målt i dBm/200 kHz**Maksimal tillatt e.i.r.p. utenfor flyet fra LTE- mobilterminal målt i dBm/5 MHz (Note 1)**Maksimal tillatt e.i.r.p. utenfor flyet fra LTE og 5G NR mobilterminal målt i dBm/5 MHz (Note 2, 3 og 4)**Maksimal tillatt e.i.r.p. utenfor flyet fra UMTS- mobilterminal målt i dBm/3,84MHz**(m)**GSM 1800 MHz**LTE 1800 MHz**LTE og 5G NR 1800 MHz**UMTS 2100 MHz*3000–3,31,703,14000–1,13,925,650000,554760001,856770002,957780003,8587Note 1: Kravene gjelder ved bruk av nettkontrollenhet (NCU), til og med 31 desember 2022.Note 2: Kravene gjelder ved bruk av nettkontrollenhet (NCU), etter 31. desember 2022.Note 3: For kanalbredder ulik 5 MHz skal konverteringsfaktoren 10*log10(kanalbåndbredde/(5 MHz)) dB legges til e.i.r.p.Note 4: E.i.r.p. er spesifisert per kanal, uavhengig av den brukte kanalbåndbredden på grunn av det faktum at flere mobilterminaler kan operere samtidig.
+(3) Maksimal utstrålt effekt (e.i.r.p.) fra mobilterminalene målt utenfor luftfartøyet skal ikke overstige verdiene i tabellen nedenfor:
+
+| *Høyde over bakken* | *Maksimal tillatt e.i.r.p. utenfor flyet fra GSM- mobilterminal målt i dBm/200 kHz* | *Maksimal tillatt e.i.r.p. utenfor flyet fra LTE- mobilterminal målt i dBm/5 MHz (Note 1)* | *Maksimal tillatt e.i.r.p. utenfor flyet fra LTE og 5G NR mobilterminal målt i dBm/5 MHz (Note 2, 3 og 4)* | *Maksimal tillatt e.i.r.p. utenfor flyet fra UMTS- mobilterminal målt i dBm/3,84MHz* |
+| --- | --- | --- | --- | --- |
+| *(m)* | *GSM 1800 MHz* | *LTE 1800 MHz* | *LTE og 5G NR 1800 MHz* | *UMTS 2100 MHz* |
+| 3000 | –3,3 | 1,7 | 0 | 3,1 |
+| 4000 | –1,1 | 3,9 | 2 | 5,6 |
+| 5000 | 0,5 | 5 | 4 | 7 |
+| 6000 | 1,8 | 5 | 6 | 7 |
+| 7000 | 2,9 | 5 | 7 | 7 |
+| 8000 | 3,8 | 5 | 8 | 7 |
+| Note 1: Kravene gjelder ved bruk av nettkontrollenhet (NCU), til og med 31 desember 2022. |  |  |  |  |
+| Note 2: Kravene gjelder ved bruk av nettkontrollenhet (NCU), etter 31. desember 2022. |  |  |  |  |
+| Note 3: For kanalbredder ulik 5 MHz skal konverteringsfaktoren 10\*log10(kanalbåndbredde/(5 MHz)) dB legges til e.i.r.p. |  |  |  |  |
+| Note 4: E.i.r.p. er spesifisert per kanal, uavhengig av den brukte kanalbåndbredden på grunn av det faktum at flere mobilterminaler kan operere samtidig. |  |  |  |  |
 
 (4) Frem til 1. januar 2026 skal mobilkommunikasjonsterminaler, ved mottak i båndene i tabellen nedenfor, hindres fra å registrere seg på bakkebaserte UMTS-nettverk. Dette gjøres ved bruk av en eller begge metoder:Inkludere en nettkontrollenhet (NCU) med formålet å høyne støygulvet inne i flykabinen i de definerte båndene.Ekstra skjerming av flykroppen for ytterligere å dempe signalene som stråler inn og ut av flykroppen.
 
-(5) Operatøren av utstyr for mobilkommunikasjon på luftfartøy kan velge å implementere NCU i henhold til [§ 44](forskrift/2012-01-19-77/§44) fjerde ledd også for følgende bånd:*Frekvensbånd (MHz)*460–470 MHz791–821 MHz925–960 MHz1805–1880 MHz2110–2170 MHz2570–2620 MHz2620–2690 MHz
+| ***Frekvensbånd (MHz)*** | ***Bakkebaserte systemer i båndet*** |
+| --- | --- |
+| 925–960 MHz | UMTS |
+| 2110–2170 MHz | UMTS |
 
-(6) Samlet maksimal utstrålt effekt (e.i.r.p) fra NCU og luftfartøyets basestasjon(er) målt utenfor luftfartøyet skal ikke overstige verdiene i tabellen nedenfor:*Høyde over bakken (m)**Maksimal tillatt e.i.r.p. utenfor flyet i dBm/kanalbåndbredde**NCU (Note 1)**Luftfartøyets GSM og LTE basestasjon(er)**Luftfartøyets 5G NR non-AAS basestasjon(er)**Luftfartøyets UMTS basestasjon(er) og NCU**Bånd: 900 MHz**Bånd: 1800 MHz**Bånd: 1800 MHz**Bånd: 2100 MHz**Kanalbåndbredde = 3,84 MHz**Kanalbåndbredde = 200 kHz (Note 2)**Kanalbåndbredde = 5 MHz (Note 3)**Kanalbåndbredde = 3,84 MHz*3000–6,2–13,0101,04000–3,7–10,5133,55000–1,7–8,5155,46000–0,1–6,9167,070001,2–5,6188,380002,3–4,4199,5Note 1: Luftfartøyets basestasjon operer ikke i 900 MHz, men en NCU er nødvendig for å hindre mobilterminaler som bruker andre tillatte frekvensbånd om bord i luftfartøyet fra å koble seg til 900 MHz UMTS bakkenett.Note 2: For kanalbredder ulik 200 kHz skal konverteringsfaktoren 10*log10(kanalbåndbredde/(200 kHz)) dB legges til e.i.r.p.Note 3: For kanalbredder ulik 5 MHz skal konverteringsfaktoren 10*log10(kanalbåndbredde/(5 MHz)) dB legges til e.i.r.p.
+Fra og med 1. januar 2026 kan operatørene selv velge fortsatt implementasjon av NCU i frekvensbåndene listet i tabell ovenfor.
 
-(7) Om operatøren velger å implementere NCU for båndene i [§ 44](forskrift/2012-01-19-77/§44) femte ledd, skal i tillegg til [§ 44](forskrift/2012-01-19-77/§44) sjette ledd samlet maksimal utstrålt effekt fra NCU og luftfartøyets basestasjon(er), e.i.r.p., målt utenfor luftfartøyet ikke overstige verdiene i tabellen nedenfor:*Meter over bakken**Maksimal tillatt e.i.r.p. utenfor flyet som skapes av nettkontrollenheten og flyets basestasjon(er)**460–470 MHz**791–821 MHz**1805–1880 MHz**2570–2690 MHz**dBm/1,25 MHz**dBm/10 MHz**dBm/200 kHz**dBm/4,75 MHz*3000–17,0–0,87–13,01,94000–14,51,63–10,54,45000–12,63,57–8,56,36000–11,05,15–6,97,97000–9,66,49–5,69,38000–8,57,65–4,410,4
+(5) Operatøren av utstyr for mobilkommunikasjon på luftfartøy kan velge å implementere NCU i henhold til [§ 44](forskrift/2012-01-19-77/§44) fjerde ledd også for følgende bånd:
+
+| *Frekvensbånd (MHz)* |
+| --- |
+| 460–470 MHz |
+| 791–821 MHz |
+| 925–960 MHz |
+| 1805–1880 MHz |
+| 2110–2170 MHz |
+| 2570–2620 MHz |
+| 2620–2690 MHz |
+
+(6) Samlet maksimal utstrålt effekt (e.i.r.p) fra NCU og luftfartøyets basestasjon(er) målt utenfor luftfartøyet skal ikke overstige verdiene i tabellen nedenfor:
+
+| *Høyde over bakken (m)* | *Maksimal tillatt e.i.r.p. utenfor flyet i dBm/kanalbåndbredde* |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *NCU (Note 1)* | *Luftfartøyets GSM og LTE basestasjon(er)* | *Luftfartøyets 5G NR non-AAS basestasjon(er)* | *Luftfartøyets UMTS basestasjon(er) og NCU* |
+|  | *Bånd: 900 MHz* | *Bånd: 1800 MHz* | *Bånd: 1800 MHz* | *Bånd: 2100 MHz* |
+|  | *Kanalbåndbredde = 3,84 MHz* | *Kanalbåndbredde = 200 kHz (Note 2)* | *Kanalbåndbredde = 5 MHz (Note 3)* | *Kanalbåndbredde = 3,84 MHz* |
+| 3000 | –6,2 | –13,0 | 10 | 1,0 |
+| 4000 | –3,7 | –10,5 | 13 | 3,5 |
+| 5000 | –1,7 | –8,5 | 15 | 5,4 |
+| 6000 | –0,1 | –6,9 | 16 | 7,0 |
+| 7000 | 1,2 | –5,6 | 18 | 8,3 |
+| 8000 | 2,3 | –4,4 | 19 | 9,5 |
+| Note 1: Luftfartøyets basestasjon operer ikke i 900 MHz, men en NCU er nødvendig for å hindre mobilterminaler som bruker andre tillatte frekvensbånd om bord i luftfartøyet fra å koble seg til 900 MHz UMTS bakkenett. |  |  |  |  |
+| Note 2: For kanalbredder ulik 200 kHz skal konverteringsfaktoren 10\*log10(kanalbåndbredde/(200 kHz)) dB legges til e.i.r.p. |  |  |  |  |
+| Note 3: For kanalbredder ulik 5 MHz skal konverteringsfaktoren 10\*log10(kanalbåndbredde/(5 MHz)) dB legges til e.i.r.p. |  |  |  |  |
+
+(7) Om operatøren velger å implementere NCU for båndene i [§ 44](forskrift/2012-01-19-77/§44) femte ledd, skal i tillegg til [§ 44](forskrift/2012-01-19-77/§44) sjette ledd samlet maksimal utstrålt effekt fra NCU og luftfartøyets basestasjon(er), e.i.r.p., målt utenfor luftfartøyet ikke overstige verdiene i tabellen nedenfor:
+
+| *Meter over bakken* | *Maksimal tillatt e.i.r.p. utenfor flyet som skapes av nettkontrollenheten og flyets basestasjon(er)* |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *460–470 MHz* | *791–821 MHz* | *1805–1880 MHz* | *2570–2690 MHz* |
+|  | *dBm/1,25 MHz* | *dBm/10 MHz* | *dBm/200 kHz* | *dBm/4,75 MHz* |
+| 3000 | –17,0 | –0,87 | –13,0 | 1,9 |
+| 4000 | –14,5 | 1,63 | –10,5 | 4,4 |
+| 5000 | –12,6 | 3,57 | –8,5 | 6,3 |
+| 6000 | –11,0 | 5,15 | –6,9 | 7,9 |
+| 7000 | –9,6 | 6,49 | –5,6 | 9,3 |
+| 8000 | –8,5 | 7,65 | –4,4 | 10,4 |
 
 > Endret ved [forskrifter 28 april 2014 nr. 591](forskrift/2014-04-28-591), [24 nov 2015 nr. 1359](forskrift/2015-11-24-1359), [28 juni 2018 nr. 1084](forskrift/2018-06-28-1084) (i kraft 1 juli 2018), [29 juni 2021 nr. 2312](forskrift/2021-06-29-2312) (i kraft 1 juli 2021), [25 april 2023 nr. 624](forskrift/2023-04-25-624) (i kraft 1 mai 2023).
 

@@ -118,4 +118,12 @@ Bare spesielt autoriserte personer som har behov for det i arbeidet, skal ha til
 
 Forskriften trer i kraft fra det tidspunktet departementet bestemmer.1 Departementet kan bestemme at ulike deler av forskriften trer i kraft til ulik tid. Departementet kan herunder bestemme at meldeplikten etter [§ 3-1](forskrift/2019-02-15-115/§3-1) trer i kraft for ulike grupper av helsepersonell til ulik tid.
 
+1 I kraft 1 jan 2020 med unntak av [§ 4-4](forskrift/2019-02-15-115/§4-4), jf. [forskrift 6 des 2019 nr. 1653](forskrift/2019-12-06-1653).
+
 ### § 6-2. Endringer i andre forskrifter
+
+1\. Fra den tid forskriften trer i kraft gjøres følgende endringer i [forskrift 18. desember 2009 nr. 1839](forskrift/2009-12-18-1839) om legemidler (legemiddelforskriften): – – –
+
+2\. Fra den tid forskriften trer i kraft skal § 2-1 fjerde ledd i [forskrift 20. juni 2003 nr. 739](forskrift/2003-06-20-739) om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister (SYSVAK-registerforskriften) lyde: – – –
+
+3\. Fra den tid forskriften trer i kraft skal ny § 17c i [forskrift 22. juni 2015 nr. 747](forskrift/2015-06-22-747) om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen lyde: – – –

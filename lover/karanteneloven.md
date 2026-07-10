@@ -249,3 +249,5 @@ Endelig vedtak om tilbakekreving av godtgjørelse er tvangsgrunnlag for utlegg. 
 Loven gjelder fra den tid Kongen bestemmer.1
 
 > Endret ved lov [7 feb 2025 nr. 1](lov/2025-02-07-1) (i kraft 1 juli 2025 iflg. [res. 7 feb 2025 nr. 145](forskrift/2025-02-07-145), tidligere § 21).
+
+1 Fra 1 jan 2016 iflg. [res. 19 juni 2015 nr. 662](forskrift/2015-06-19-662).

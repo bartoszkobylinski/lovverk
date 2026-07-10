@@ -93,7 +93,20 @@ Svin som er særlig aggressive eller som nylig har blitt angrepet av andre svin,
 
 Det skal i bygninger for svin være særskilte binger til syke dyr og dyr som trenger ekstra tilsyn. I besetninger med slaktegris og/eller purker skal det være et tilstrekkelig antall sykebinger og alltid en ledig sykebinge hvor dyr kan oppstalles enkeltvis. Sykebingen må bare benyttes til begrenset opphold, og den skal være så stor at dyrene lett kan snu seg rundt, med mindre veterinær anbefaler at dyret må stå i en trangere binge. Det skal alltid sørges for at dyr i sykebinger har tilstrekkelig varme og strø, og er sikret tilgang på vann og fôr.
 
-Når det nyttes spaltegulv til svin, skal spalteplankens bredde og spalteåpningen være i samsvar med målene som er angitt i tabellen nedenfor.*Spalteplankebredde, mm**Spalteåpning, mm*Fødebinger– plastspalter10-1610-12– metallspalter10-3010-12– betongspalter30-5010-14Binger til smågriser over 28 dager– plastspalter og metallspaltegolv10-1610-12– betongspalter30-5010-14Binger til slaktegris, ungpurker og drektige purker– betongspalterminimum 80maksimum 20– plast- og metallspalter, se åttende ledd
+Når det nyttes spaltegulv til svin, skal spalteplankens bredde og spalteåpningen være i samsvar med målene som er angitt i tabellen nedenfor.
+
+|  | *Spalteplankebredde, mm* | *Spalteåpning, mm* |
+| --- | --- | --- |
+| Fødebinger |  |  |
+| – plastspalter | 10-16 | 10-12 |
+| – metallspalter | 10-30 | 10-12 |
+| – betongspalter | 30-50 | 10-14 |
+| Binger til smågriser over 28 dager |  |  |
+| – plastspalter og metallspaltegolv | 10-16 | 10-12 |
+| – betongspalter | 30-50 | 10-14 |
+| Binger til slaktegris, ungpurker og drektige purker |  |  |
+| – betongspalter | minimum 80 | maksimum 20 |
+| – plast- og metallspalter, se åttende ledd |  |  |
 
 Forholdet mellom spaltebredde og bredden på spalteplank skal være slik at gulvet gir dyrene en tilfredsstillende flate å trå på, og slik at klauvskader ikke oppstår. Bredden av spalteåpningen skal ikke være større enn 20 mm. For andre typer spaltegolv enn betong skal spalteplankens bredde være:minst lik bredden av spalteåpningen når denne er 10-12 mm.minst lik 2 x bredden av spalteåpningen når denne er 13-20 mm.I fødebinger skal spaltegolv med spalteåpning større enn 10 mm skal tildekkes i tiden omkring grising.
 
@@ -229,11 +242,35 @@ I tillegg skal dyra ved helårs utedrift sikres beskyttelse mot ugunstige værfo
 
 Purker og ungpurker skal holdes i grupper i perioden fra senest 4 uker etter parring til en uke før forventet grising. Dette gjelder ikke for besetninger med mindre enn 10 purker og/eller ungpurker. Enkeltbinger må være så store at dyret lett kan snu seg.
 
-Binger for ungpurker og for purker skal ha minst disse målene:*Ungpurker – binge med strødd liggeunderlag**Antall purker pr. binge**Fritt areal, m2 pr. purke**Liggeareal, m2 pr. purke**Korteste side, m**Troplass pr. purke, m*13,0 m22,25 m21,5 m0,35 m2-51,8 m21,1 m22,25 m0,35 m6-401,65 m21,0 m22,4 m0,35 mOver 401,5 m20,9 m22,8 m0,35 m
+Binger for ungpurker og for purker skal ha minst disse målene:
+
+| *Ungpurker – binge med strødd liggeunderlag* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Antall purker pr. binge* | *Fritt areal, m2 pr. purke* | *Liggeareal, m2 pr. purke* | *Korteste side, m* | *Troplass pr. purke, m* |
+| 1 | 3,0 m2 | 2,25 m2 | 1,5 m | 0,35 m |
+| 2-5 | 1,8 m2 | 1,1 m2 | 2,25 m | 0,35 m |
+| 6-40 | 1,65 m2 | 1,0 m2 | 2,4 m | 0,35 m |
+| Over 40 | 1,5 m2 | 0,9 m2 | 2,8 m | 0,35 m |
+
+| *Purker – binge med strødd liggeunderlag* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Antall purker pr. binge* | *Fritt areal, m2 pr. purke* | *Liggeareal, m2 pr. purke* | *Korteste side, m* | *Troplass pr. purke, m* |
+| 1 | 3,0 m2 | 2,25 m2 | 1,5 m | 0,45 m |
+| 2-5 | 2,5 m2 | 1,4 m2 | 2,4 m | 0,45 m |
+| 6-10 | 2,25 m2 | 1,3 m2 | 2,8 m | 0,45 m |
+| 10-40 | 2,25 m2 | 1,2 m2 | 2,8 m | 0,45 m |
+| Over 40 | 2,0 m2 | 1,1 m2 | 2,8 m | 0,45 m |
 
 Liggeareal og ganger bak fôringsbåser skal være utformet slik at dyrene lett kan snu seg. Ganger bak fôringsbåser skal være minst 2 m brede. I systemer der svin holdes i grupper og fôres ved hjelp av datastyrte kraftfôrstasjoner, skal totalarealet være minst 2,5 m2 pr. purke.
 
-I fødebinger uten fiksering skal det være plass nok til at purka kan ligge på tett gulv og lett kan snu seg. Bingene skal ha følgende mål:TotalarealMinst 6 m2 .BreddeMinst 1,8 m.Ved bruk av fikseringsbås skal denne ha følgende mål:Lengde målt innvendig fra troas bakkantMinst 2 mBredde målt innvendig0,70-0,80 m avhengig av purkas størrelse
+I fødebinger uten fiksering skal det være plass nok til at purka kan ligge på tett gulv og lett kan snu seg. Bingene skal ha følgende mål:
+
+|  |  |
+| --- | --- |
+| Totalareal | Minst 6 m2 . |
+| Bredde | Minst 1,8 m. |
+
+Ved bruk av fikseringsbås skal denne ha følgende mål:Lengde målt innvendig fra troas bakkantMinst 2 mBredde målt innvendig0,70-0,80 m avhengig av purkas størrelse
 
 Det skal brukes rikelig med strø i fødebingene. Fra 3 dager før forventet grising skal purka ha passende materiale til å bygge rede av. Det skal være en åpen plass bak purka for å lette assistert eller naturlig fødsel. Smågrisene skal ha egen plass i fødebingen hvor de er beskyttet mot purka. Smågrisene skal ha god plass til å die.
 
@@ -242,6 +279,16 @@ Det skal brukes rikelig med strø i fødebingene. Fra 3 dager før forventet gri
 ### § 26. Spesielle bestemmelser for smågris, slaktegris og avlsdyr
 
 Fritt areal som er til rådighet i binger til avvente smågris og slaktegris/avlsgris som holdes i grupper skal være minst
+
+| *Levende vekt* | *m2* |
+| --- | --- |
+| Inntil 10 kg | 0,15 |
+| 10 – 20 kg | 0,20 |
+| 20 – 30 kg | 0,35 |
+| 30 – 50 kg | 0,50 |
+| 50 – 85 kg | 0,65 |
+| 85 – 110 kg | 0,80 |
+| Over 110 kg | 1,00 |
 
 Det skal være tilstrekkelig liggeareal til at samtlige griser kan ligge samtidig.
 

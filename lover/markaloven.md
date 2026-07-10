@@ -270,6 +270,8 @@ Er det inntrådt eller voldt fare for betydelig miljøskade, eller overtredelsen
 
 Loven gjelder fra den tid Kongen bestemmer.1
 
+1 Fra 1 sep 2009 iflg. [res. 5 juni 2009 nr. 618](forskrift/2009-06-05-618).
+
 ### § 22. Overgangsbestemmelse
 
 Departementet kan i forskrift gi nærmere bestemmelser om hvordan reglene i [plan- og bygningsloven 14. juni 1985 nr. 77](lov/1985-06-14-77) skal virke sammen med bestemmelser i denne lov.
@@ -281,6 +283,8 @@ I [lov om statlig naturoppsyn 21. juni 1996 nr. 38](lov/1996-06-21-38) (naturopp
 ## Klima- og miljødepartementets digitale kart «Markagrensen» datert 10. april 2019
 
 > Endret ved [forskrift 4 sep 2015 nr. 1032](forskrift/2015-09-04-1032), [kunngjøring 10 apr 2019 nr. 623](forskrift/2019-04-10-623).
+
+*Markalovens geografiske virkeområde*
 
 For å lese kartet se her: [(pdf)](static/NL/nl-20090605-035-01-02.pdf)
 

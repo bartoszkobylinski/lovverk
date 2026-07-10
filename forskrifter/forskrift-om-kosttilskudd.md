@@ -194,9 +194,53 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 
 ## Vedlegg 1. Vitaminer og mineraler som kan benyttes ved framstilling av kosttilskudd
 
+*Merknad: Vedlegget angir minimums- og maksimumsinnhold av vitaminer og mineraler per anbefalt døgndose. «Anbefalt» viser her til den døgndosen produsenten av kosttilskuddet anbefaler, og som skal framkomme i merkingen av kosttilskuddet, jf. [§ 7](forskrift/2004-05-20-755/§7).*
+
+|  |  | *Maksimumsinnhold per anbefalt døgndose for* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | *Minimums-*<br>*innhold per anbefalt døgndose* | *småbarn*<br>*fra 1 år og opptil 3 år*<br>*Særlige merkekrav:*<br>*se [§ 7a](forskrift/2004-05-20-755/§7a)–§ 7e* | *barn*<br>*fra 3 år og opptil 11 år*<br>*Særlige merkekrav:*<br>*se [§ 7a](forskrift/2004-05-20-755/§7a)–§ 7e* | *unge*<br>*fra 11 år og opptil 18 år*<br>*Særlige merkekrav:*<br>*se [§ 7a](forskrift/2004-05-20-755/§7a)–§ 7e* | *voksne*<br>*fra 18 år*<br>*Særlige merkekrav:*<br>*se [§ 7a](forskrift/2004-05-20-755/§7a)–§ 7e* |
+| *Vitaminer* |  |  |  |  |  |
+| Vitamin A (μg RE) | 120 |  |  |  |  |
+| Vitamin D (μg) | 2,5 | 16 | 16 | 40 | 80 |
+| Vitamin E (mg α-TE) | 1,8 | 50 | 70 | 170 | 250 |
+| Vitamin K (μg) | 11 |  |  |  |  |
+| Tiamin (mg) | 0,17 |  |  |  |  |
+| Riboflavin (mg) | 0,21 |  |  |  |  |
+| Niacin (mg NE) | 2,4 |  |  |  |  |
+| Folsyre (μg) | 30 | 160 | 260 | 560 | 960 |
+| Vitamin B6 (mg) | 0,21 |  |  |  |  |
+| Pantotensyre (mg) | 0,9 |  |  |  |  |
+| Vitamin B12 (μg) | 0,38 |  |  |  |  |
+| Biotin (μg) | 7,5 |  |  |  |  |
+| Vitamin C (mg) | 12 | 230 | 477 | 955 | 1000 |
+| *Mineraler* |  |  |  |  |  |
+| Kalsium (mg) | 120 | 1026 | 1052 | 776 | 705 |
+| Fosfor (mg) | 105 |  |  |  |  |
+| Magnesium (mg) | 56 | 85 | 120 | 280 | 350 |
+| Jern (mg) | 2,1 | 4,5\* | 4,5\* | 15 | 21 |
+| Kopper (mg) | 0,15 |  |  |  |  |
+| Jod (μg) | 23 |  |  |  |  |
+| Sink (mg) | 1,5 | 2\*\* | 2\*\* | 5 | 14 |
+| Mangan (mg) | 0,3 |  |  |  |  |
+| Selen (μg) | 8,3 |  |  |  |  |
+| Krom (μg) | 6 |  |  |  |  |
+| Molybden (μg) | 7,5 |  |  |  |  |
+| Natrium (mg) |  |  |  |  |  |
+| Kalium (mg) | 300 |  |  |  |  |
+| Fluorid (mg) | 0,1 |  |  |  |  |
+| Klorid (mg) |  |  |  |  |  |
+| Bor (mg) |  |  |  |  |  |
+| Silisium (mg) |  |  |  |  |  |
+
+\* Se § 7e, tredje ledd.
+
+\*\* Se § 7e, fjerde ledd.
+
 > Endret ved [forskrifter 8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [24 sep 2014 nr. 1240](forskrift/2014-09-24-1240), [1 juli 2016 nr. 869](forskrift/2016-07-01-869), [30 mai 2017 nr. 671](forskrift/2017-05-30-671), [6 sep 2021 nr. 2677](forskrift/2021-09-06-2677), [5 juli 2023 nr. 1250](forskrift/2023-07-05-1250), [6 okt 2023 nr. 1591](forskrift/2023-10-06-1591).
 
 ## Vedlegg 2. Vitamin- og mineralforbindelser som kan benyttes ved fremstilling av kosttilskudd
+
+*A. Vitaminer*
 
 1. VITAMIN Aretinolretinylacetatretinylpalmitatbetakaroten
 2. VITAMIN Dkolekalciferolkalciferolkalsidiolmonohydrat1
@@ -211,6 +255,8 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 11. VITAMIN B12cyanokobalaminhydroksokobalamin5'-deoksyadenosylkobalaminmetylkobalamin
 12. BIOTIND-biotin
 13. VITAMIN CL-askorbinsyrenatrium L-askorbatkalsium L-askorbat5kalium L-askorbatL-askorbyl 6-palmitatmagnesium L-askorbatsink L-askorbat.
+
+*B. Mineraler*
 
 - kalsiumacetat
 - kalsium L-askorbat
@@ -358,6 +404,12 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - kiselsyre8
 - organisk silisium (monomethylsilanetriol)
 
+1 Som oppført på EU-listen over nye næringsmidler i Kommisjonens gjennomføringsforordning [(EU) 2017/2470](eu/32017r2470) av 20. desember 2017 om opprettelse av EU-listen over nye næringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2015/2283](eu/32015r2283) om nye næringsmidler (EUT L 351 av 30.12.2017, s. 72, ELI: [http://data.europa.eu/eli/reg_impl/2017/2470/oj](http://data.europa.eu/eli/reg_impl/2017/2470/oj)). Forordning [(EU) 2017/2470](eu/32017r2470) er gjennomført i norsk rett [§ 1b i forskrift 25. juli 2017 nr. 1215 om ny mat](forskrift/2017-07-25-1215/§1b).
+
+2 alfa-tokoferol < 20 %, beta-tokoferol < 10 %, gamma-tokoferol 50–70 % og delta-tokoferol 10–30 %.
+
+3 Typiske nivåer av individuelle tokoferoler og tokotrienoler:
+
 - 115 mg/g alfa-tokoferol (101 mg/g minimum),
 - 5 mg/g beta-tokoferol (< 1 mg/g minimum),
 - 45 mg/g gamma-tokoferol (25 mg/g minimum),
@@ -366,5 +418,15 @@ Kosttilskudd som inneholder mer enn den maksimale døgndosen av kalsium for unge
 - < 1 mg/g beta-tokotrienol (< 1 mg/g minimum),
 - 82 mg/g gamma-tokotrienol (45 mg/g minimum),
 - 5 mg/g delta-tokotrienol (< 1 mg/g minimum).
+
+4 Menaquinon forekommer primært som menaquinon-7 og i mindre omfang som menaquinon-6.
+
+5 Kan inneholde høyst 2 % treonat.
+
+6 Selenberiket gjær som er framstilt ved dyrking med forekomst av natriumselenitt som selenkilde, og som i tørket form som markedsført høyst inneholder 2,5 mg Se/g. Den dominerende organiske formen av selen som forekommer i gjæren er selenometionin (mellom 60 og 85 % av samlet ekstrahert selen i produktet). Innholdet av andre organiske selenforbindelser, herunder selenocystein skal høyst utgjøre 10 % av samlet ekstrahert selen. Innholdet av uorganisk selen skal normalt høyst utgjøre 1 % av samlet ekstrahert selen.
+
+7 Kromberiket gjær produsert ved bruk av kulturer av Saccharomyces cerevisiae i nærvær av krom(III)klorid som kilde til krom, og som i tørr form som omsatt, inneholder 230–300 mg krom/kg. Innholdet av krom(IV) skal ikke overstige 0,2 % av total krom.
+
+8 I form av gel.
 
 > Endret ved [forskrifter 4 mai 2007 nr. 477](forskrift/2007-05-04-477), [8 des 2011 nr. 1493](forskrift/2011-12-08-1493), [19 juni 2012 nr. 648](forskrift/2012-06-19-648), [29 sep 2014 nr. 1267](forskrift/2014-09-29-1267), [12 juni 2015 nr. 682](forskrift/2015-06-12-682), [1 juli 2016 nr. 869](forskrift/2016-07-01-869), [30 mai 2017 nr. 671](forskrift/2017-05-30-671), [11 okt 2017 nr. 1612](forskrift/2017-10-11-1612), [6 sep 2021 nr. 2677](forskrift/2021-09-06-2677), [22 sep 2025 nr. 1898](forskrift/2025-09-22-1898), [9 feb 2026 nr. 172](forskrift/2026-02-09-172), [23 mars 2026 nr. 466](forskrift/2026-03-23-466).

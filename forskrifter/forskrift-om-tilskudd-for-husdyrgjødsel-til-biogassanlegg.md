@@ -44,7 +44,26 @@ Foretaket må følge krav om gjødslingsplan etter [§ 26](forskrift/2025-01-29-
 
 Tilskudd gis med maksimalt 833 kroner per tonn levert husdyrgjødsel. Tilskuddssatsen avtar med minkende andel tørrstoff i gjødselen ved at maksimalsatsen multipliseres med (2x-x2), der x er andelen tørrstoff i gjødselen og angis som et tall mellom 0 og 1. For gjødsel med kun tørrstoff er x lik 1, som gir (2x-x2) = 1 og 833 kroner i tilskudd per tonn husdyrgjødsel.
 
-Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra foretakets dyretall såfremt all husdyrgjødsel benyttes i anlegget. Satsen for de ulike dyreslagene er:*Dyreslag**Tilskudd (kroner)*Melkeku13040Ammeku11583Ungdyr av storfe11000Avlsgris1563Slaktegris2631000 Verpehøns og slaktekyllingmødre116 9931000 Livkylling321241000 Slaktekylling38501000 Slaktekalkun310 6211000 And32124Sau > 1 år1311Mjølkegeit1311Hest11296
+Der foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra foretakets dyretall såfremt all husdyrgjødsel benyttes i anlegget. Satsen for de ulike dyreslagene er:
+
+|  |  |
+| --- | --- |
+| *Dyreslag* | *Tilskudd (kroner)* |
+| Melkeku1 | 3040 |
+| Ammeku1 | 1583 |
+| Ungdyr av storfe1 | 1000 |
+| Avlsgris1 | 563 |
+| Slaktegris2 | 63 |
+| 1000 Verpehøns og slaktekyllingmødre1 | 16 993 |
+| 1000 Livkylling3 | 2124 |
+| 1000 Slaktekylling3 | 850 |
+| 1000 Slaktekalkun3 | 10 621 |
+| 1000 And3 | 2124 |
+| Sau > 1 år1 | 311 |
+| Mjølkegeit1 | 311 |
+| Hest1 | 1296 |
+
+1 Oppgitt faktor gjelder gjødselmengde per årsdyr.2 Oppgitt faktor gjelder gjødselmengde per slaktede dyr.3 Oppgitt faktor gjelder gjødselmengde per slaktede eller leverte dyr.
 
 Dersom det omsøkte volum per år overstiger det beløp som er avsatt til ordningen, reduseres tilskuddssatsen relativt slik at forbruket tilpasses bevilgningen.
 

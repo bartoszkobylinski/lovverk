@@ -54,6 +54,8 @@ Før Sysselmesteren gir pålegg om opplysningsplikt etter forskriften her, skal 
 
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
+1 Skal være [lov 21. juni 2019 nr. 32 om offisiell statistikk og Statistisk sentralbyrå (statistikkloven) § 11](lov/2019-06-21-32/§11). Lovtidend-redaksjonens anmerkning.
+
 ## § 6. Straff
 
 Overtredelse av opplysningsplikt etter denne forskriften straffes med bøter.

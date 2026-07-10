@@ -52,6 +52,8 @@ Instruksen endrer ikke gjeldende ansvar og organisering av redningstjenesten ell
 
 ## IV. Statsforvalterens ansvar for å samordne, holde oversikt over og informere om arbeidet med samfunnssikkerhet og beredskap i fylket
 
+*Statsforvalteren skal*
+
 1. ha oversikt over risiko og sårbarhet ved å utarbeide en risiko- og sårbarhetsanalyse (fylkesROS) for fylket, i nært samarbeid med regionale aktører. Svikt i kritiske samfunnsfunksjoner og kunnskap fra kommunenes helhetlige risiko- og sårbarhetsanalyser skal inngå i analysen. FylkesROS skal danne en felles plattform for å forebygge uønskede hendelser og styrke samordningen av det regionale arbeidet med samfunnssikkerhet, beredskap og krisehåndtering;
 2. med utgangspunkt i fylkesROS utarbeide en oppfølgingsplan med ansvarsavklaringer. Oppfølgingsplanen skal være fireårig og oppdateres årlig. Statsforvalteren skal revidere fylkesROS ved endringer i risiko- og sårbarhetsbildet og minimum hvert fjerde år;
 3. med bakgrunn i fylkesROS samarbeide med regionale aktører om oppfølging av samfunnssikkerhetshensyn i samfunnsplanleggingen
@@ -66,6 +68,8 @@ Instruksen endrer ikke gjeldende ansvar og organisering av redningstjenesten ell
 
 Statsforvalteren skal gi råd, veilede og være pådriver for et målrettet og systematisk arbeid med samfunnssikkerhet og beredskap i fylket.
 
+*Statsforvalteren skal*
+
 1. i samarbeid med fagetatene påse at kommunene ivaretar kravene til samfunnssikkerhet i sin samfunnsplanlegging etter plan- og bygningsloven og gi nødvendig veiledning til kommunene og fylkeskommunen i planarbeidet
 2. veilede kommunene i hvordan de skal oppfylle kravene i [sivilbeskyttelsesloven § 14](lov/2010-06-25-45/§14) og § [15](lov/2010-06-25-45/§15), bestemmelser fastsatt i medhold av disse, og øvrige beredskapsrelaterte tilsynsbestemmelser i lovverket1
 3. ta initiativ til, veilede og samordne arbeidet med den sivile beredskapsplanleggingen i fylket, samt det sivil-militære samarbeidet om beredskapsplanlegging i fylket
@@ -73,6 +77,8 @@ Statsforvalteren skal gi råd, veilede og være pådriver for et målrettet og s
 5. ta initiativ til og følge opp evalueringer etter øvelser og hendelser for å sikre læring og utvikling av samfunnssikkerhets- og beredskapsarbeidet lokalt og regionalt.
 
 > Endret ved instruks [10 des 2021 nr. 3466](forskrift/2021-12-10-3466) (i kraft 1 jan 2022).
+
+1 Se [folkehelseloven § 28](lov/2011-06-24-29/§28) jf. [§ 30](lov/2011-06-24-29/§30), [smittevernloven § 7-1](lov/1994-08-05-55/§7-1), [§ 7-2](lov/1994-08-05-55/§7-2) jf. [§ 7-4](lov/1994-08-05-55/§7-4), helse- og [omsorgstjenesteloven § 5-2](lov/2011-06-24-30/§5-2) jf. [§ 12-3](lov/2011-06-24-30/§12-3) og [spesialisthelsetjenesteloven § 2-1](lov/1999-07-02-61/§2-1).
 
 ## VI. Statsforvalterens oppgaver som tilsynsmyndighet
 
@@ -84,6 +90,8 @@ Statsforvalteren skal føre tilsyn med at kommunen oppfyller kravene i [sivilbes
 
 Statsforvalteren skal oppnevne et fylkesberedskapsråd som ledes av statsforvalteren. Hele rådet skal innkalles minst én gang i året. Statsforvalteren avgjør for øvrig hvor ofte rådet skal møtes.Fylkesberedskapsrådet skal bestå av representanter for regionale aktører med ansvar for kritisk infrastruktur og kritiske samfunnsfunksjoner, ledere fra politiet og øvrige nødetater, Forsvaret, Sivilforsvaret, frivillige organisasjoner, fylkeskommunen og statlige etater med vesentlige beredskapsoppgaver i fylket. Statsforvalteren kan invitere andre aktører.Beredskapsrådet for Svalbard ledes av Sysselmesteren og består av representanter for alle nødetatene, større institusjoner og bedrifter på Svalbard og Longyearbyen Røde Kors.
 
+*Fylkesberedskapsrådets rolle er å*
+
 1. drøfte relevante samfunnssikkerhets- og beredskapsspørsmål og være en arena for oversikt og gjensidige orienteringer
 2. bidra til et felles risiko- og sårbarhetsbilde og en felles plattform for planlegging av samfunnssikkerhets- og beredskapsarbeid i fylket jf. kapittel IV
 3. være forberedt på å bistå i statsforvalterens samordning av krisehåndtering, jf. kapittel IX.
@@ -93,6 +101,8 @@ Statsforvalteren skal oppnevne et fylkesberedskapsråd som ledes av statsforvalt
 ## VIII. Statsforvalterens ansvar for egenberedskap
 
 Statsforvalteren skal ha en forberedt og øvet kriseorganisasjon, som raskt kan etableres for å skaffe oversikt, vurdere situasjonen og etablere kontakt med berørte kommuner og berørte aktører. Statsforvalteren skal støtte aktørenes håndtering av uønskede hendelser og vurdere eventuelle behov for bistand.
+
+*Statsforvalteren skal*
 
 1. ha en beredskapsplan og gjennomføre øvelser og kompetansehevende tiltak for å kunne ivareta egen beredskap og utøve regional samordning, jf. kapittel IX. Beredskapsplanen skal til enhver tid være oppdatert og revideres minimum en gang i året. Videre skal statsforvalteren øve sin kriseorganisasjon minimum én gang i året;
 2. ha en plan for krisekommunikasjon for å sikre helhetlig og samordnet informasjon til kommuner, regionale aktører, befolkningen og media
@@ -108,6 +118,8 @@ Statsforvalteren skal ha en forberedt og øvet kriseorganisasjon, som raskt kan 
 
 Statsforvalteren skal på regionalt nivå samordne den sivile krisehåndteringen, og mellom sivile og militære myndigheter, for å sikre optimale løsninger i samarbeid med berørte aktører, og i samsvar med gitte instrukser, retningslinjer og lover. Når uønskede hendelser er varslet eller har oppstått, skal statsforvalteren og berørte politimestere umiddelbart etablere gjensidig kontakt for å vurdere situasjonen.
 
+*Statsforvalteren skal*
+
 1. etablere gjensidig informasjonsutveksling med regionale statlige etater, infrastruktureiere, fylkeskommune, berørte kommuner og eventuelt andre aktører
 2. ta initiativ til å avklare hvilke myndigheter som har ansvaret for krisehåndteringen
 3. skaffe oversikt over situasjonen i fylket, kartlegge kommunenes og andre berørte aktørers behov og gi en situasjonsrapport til sentrale myndigheter
@@ -122,6 +134,8 @@ Statsforvalteren skal på regionalt nivå samordne den sivile krisehåndteringen
 Ved uenighet mellom medlemmene i fylkesberedskapsrådet skal statsforvalteren aktivt bidra til å oppnå én felles løsning. Statsforvalteren fremlegger eventuelle saker der det ikke er enighet om hvilke sivile tiltak som bør iverksettes, for Justis- og beredskapsdepartementet via Direktoratet for samfunnssikkerhet og beredskap for videre behandling og avgjørelse. Der hvor flere fylkesmannsembeter er berørt og det ikke oppnås enighet mellom embetene om nødvendige tiltak, skal saken fremlegges for Justis- og beredskapsdepartementet via Direktoratet for samfunnssikkerhet og beredskap på samme måte.
 
 > Endret ved instruks [10 des 2021 nr. 3466](forskrift/2021-12-10-3466) (i kraft 1 jan 2022).
+
+1 Dette punktet vil være avhengig av innhold i instruks for forsvarets bistand til andre myndigheter enn politiet som er under arbeid i Forsvarsdepartementet i nært samarbeid med Justis- og beredskapsdepartementet.
 
 ## X. Særskilte bestemmelser under væpnet konflikt, krigsfare og lignende forhold
 
@@ -142,6 +156,8 @@ Lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og lik
 Instruksen trer i kraft straks.
 
 Fra samme tidspunkt opphører kgl.res. 12. desember 19971 om retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) om instruks for samfunnssikkerhets- og beredskapsarbeidet til fylkesmannen og Sysselmannen på Svalbard.
+
+1 Ikke kunngjort i Norsk Lovtidend. Lovtidend-redaksjonens anm.
 
 ## Kommentarer til fylkesmannens samfunnssikkerhetsinstruks (Instruks for fylkesmannens og Sysselmannen på Svalbards arbeid med samfunnssikkerhet, beredskap og krisehåndtering)
 
@@ -167,6 +183,8 @@ Instruksen gjelder for Sysselmannen på Svalbard etter nærmere angivelse i inst
 
 Fylkesmannens samordning av samfunnssikkerhet og beredskap gjelder i alle deler av samfunnssikkerhetskjeden og for håndtering av uønskede hendelser i fred, krise, under væpnet konflikt og i krig.
 
+Figur 1: Instruks i samfunnssikkerhetskjeden.
+
 Fylkesmannens samordningsansvar medfører ikke endringer i ansvarsforholdene for andre samfunnssikkerhetsaktører. Ansvarsprinsippet ligger fast, og den enkelte aktør og sektor skal ivareta sitt ansvar også ved uønskede hendelser . Fylkesmannens samordningsansvar innebærer et ansvar for å tilrettelegge for samarbeid mellom aktørene for å styrke samfunnssikkerhetsarbeidet både i det daglige og ved håndtering av uønskede hendelser.
 
 Under håndtering av uønskede hendelser skal samordningen være på et strategisk nivå, og understøtte kommunene eller andre berørte aktører i arbeidet med å beskytte befolkningen og opprettholde kritiske samfunnsfunksjoner.
@@ -176,6 +194,8 @@ Fylkesmannens samordning av samfunnssikkerhet og beredskap er et tverrsektorielt
 Det er ulike grader av samordning. Instruksen legger til rette for en offensiv tilnærming til samordningsrollen.
 
 På bakgrunn av instruksen, skal fylkesmannen legger til rette for at aktører med ulike ansvarsområder møter hverandre i aktiviteter og på arenaer for å diskutere felles utfordringer i arbeidet med å styrke samfunnssikkerhetsarbeidet lokalt og regionalt, også når det gjelder best mulig håndtering av uønskede hendelser.
+
+Figur 2: Samordningstrapp horisontalt.
 
 I instruksen er beredskap mot akutt forurensning og politiets ansvar for redningstjenesten spesielt nevnt. Dette er gjort for å tydeliggjøre forskjellen på ledelsen av operative innsatser på den ene siden, og fylkesmannens strategiske samordningsansvar på den andre siden.
 
@@ -278,3 +298,5 @@ Det er et pågående arbeid for at [lov 15. desember 1950 nr. 7](lov/1950-12-15-
 ### XI. Ikrafttredelse
 
 Instruksen trer i kraft straks og avløser kgl.res. 12. desember 19971 – Retningslinjer for regionalt samordningsansvar ved kriser og katastrofer i fred, og [kgl.res. 18. april 2008 nr. 388](forskrift/2008-04-18-388) – Instruks for samfunnssikkerhets- og beredskapsarbeidet til Fylkesmannen og Sysselmannen på Svalbard.
+
+1 Ikke kunngjort i Norsk Lovtidend. Lovtidend-redaksjonens anm.

@@ -62,6 +62,8 @@ Denne forskriften trer i kraft 1. juli 2005.
 
 ### Til § 1
 
+*Første ledd*
+
 Forskriften gjelder ved bruk av medleverordninger. Med medleverordninger menes arbeidstidsordninger hvor arbeidstakerne bor sammen med beboer og er en del av deres dagligliv i sammenhengende perioder på mer enn et døgn.
 
 Bruk av medleverordninger må være begrunnet i institusjonens særlige omsorgs- eller behandlingsoppgaver. Begrunnelsen for slike ordninger er at stabil kontakt med ansatte gjennom lange arbeidsperioder har positive behandlingseffekter for beboere med særlige omsorgs- og behandlingsbehov. At det er nødvendig med slike lange opphold kan for eksempel skyldes behov for stabilitet, kontinuitet og trygghet hos beboerne, som at aktiviteter ikke avbrytes av vaktskifter eller at det er viktig å forholde seg til samme voksenperson eller behandler over en lengre periode. Dette sikrer at medleverordninger etter forskriften bare kan benyttes der dette er faglig begrunnet.
@@ -70,9 +72,15 @@ På bakgrunn av de krav som stilles til hvileperioder vil forskriften som utgang
 
 Forskriften er ikke til hinder for at arbeidstakeren, i den perioden som vedkommende oppholder seg på institusjonen, også utfører annet arbeid som ikke direkte er knyttet til omsorg eller behandling. Andre arbeidstakere som arbeider på institusjonen i kortere perioder, f.eks. terapeuter på dagtid, administrasjon, renhold og lignende vil falle utenfor forskriftens anvendelsesområde. Her vil de alminnelige arbeidstidsregler i arbeidsmiljøloven komme til anvendelse. Medleverordninger vil dekke både medleverskap og medleverturnus.
 
+*Personer med rus- eller atferdsproblemer*
+
 Forskriften gjelder ulike institusjoner som gir omsorg eller behandling til barn og unge med rus- eller atferdsproblemer og institusjoner for voksne med rusproblemer. Atferdsproblemer er ikke direkte knyttet opp mot barne- og helsevernlovgivningens definisjoner av begrepet. En ungdom kan derfor falle inn under forskriftens atferdsbegrep selv om atferdsproblemene ikke er av en slik karakter at de gir grunnlag for plassering i institusjon etter barnevernlovgivningen.
 
+*Barn plassert i barneverninstitusjoner*
+
 Forskriften gjelder også arbeid med barn uten rus- eller atferdsproblemer som er plassert i barneverninstitusjoner. Dette gjelder uavhengig av hvilket rettslig grunnlag det er for plasseringen av disse barna etter barnevernloven.
+
+*Personer med utviklingshemming*
 
 Forskriften gjelder arbeid med personer med utviklingshemming. Med personer med utviklingshemming menes personer med en intellektuell funksjonsnedsettelse. Begrepet er nærmere definert i [NOU 2016:17](forarbeid/nou-2016-17) På lik linje – Åtte løft for å realisere grunnleggende rettigheter for personer med utviklingshemming, [kapittel 3](forarbeid/nou-2016-17/kap3).
 
@@ -80,13 +88,21 @@ Forskriften vil for eksempel kunne få anvendelse i enkelte bokollektiv, bofelle
 
 Det som avgjør om forskriften får anvendelse er at det også for denne gruppen er et faglig behov for stabilitet og kontinuitet i behandlingen/omsorgen. Det må være et organisert heldøgns tjenestetilbud hvor de ansatte er en del av hverdagen til beboerne. Det er ikke tilstrekkelig med et rent tilsynstilbud eller at beboerne har et felles aktivitetstilbud for eksempel på dagtid.
 
+*Enslige mindreårige asylsøkere og enslige mindreårige flyktninger bosatt i kommuner*
+
 Forskriften gjelder arbeid ved omsorgssentre for mindreårige som har kommet til riket uten foreldre eller andre med foreldreansvar og søkt asyl. Hva som regnes som omsorgssenter etter reglene her, er nærmere regulert i [barnevernloven kapittel 5A](lov/1992-07-17-100/kap5a). Omsorgssentertilbudet gjelder for barn som er under 15 år når asylsøknaden sendes, jf. [barnevernloven § 5A-1](lov/1992-07-17-100/§5a-1). Forskriften gjelder også enslige mindreårige flyktninger som bosettes i kommunene. Forskriften vil omfatte enslige mindreårige flyktninger som blir boende på omsorgssentre etter at vedtak om opphold foreligger og frem til bosetting i kommunene. Det som avgjør om forskriften får anvendelse er at det også for denne gruppen er et faglig behov for stabilitet og kontinuitet i behandlingen/omsorgen.
 
+*Andre ledd*
+
 Med lengre sammenhengende perioder menes perioder på minimum et døgn. Medleverforskriften skal kun gjelde institusjoner hvor arbeidstakerne faktisk bor sammen med beboerne, og er en del av deres dagligliv.
+
+*Tredje ledd*
 
 Med egnet rom for hvile menes at institusjonene må tilby arbeidstaker et egnet rom som muliggjør hvile uten større forstyrrelser og avbrudd. Dette gjelder forstyrrelser og avbrudd fra både beboere og ansatte. Hvilerommet må også være egnet til at arbeidstakeren kan sove uforstyrret i de tilfeller som fremgår av [§ 3](forskrift/2005-06-24-686/§3) andre ledd.
 
 Bolig på eller i tilknytning til institusjonen må som et minimum være at arbeidstaker disponerer egen boenhet som vedkommende har en eksklusiv bruksrett til i den tiden vedkommende arbeider ved institusjonen. Det vil si at ingen andre benytter boenheten i de perioder arbeidstaker ikke oppholder seg på institusjonen, og at arbeidstaker står fritt til å være på institusjonen og benytte boenheten også i de perioder vedkommende ikke er i arbeid. Videre må arbeidstaker ha mulighet til å ha egen familie boende hos seg.
+
+*Fjerde ledd*
 
 Forskriften fastsetter bare unntak fra enkelte av lovens bestemmelser om arbeidstid. De øvrige bestemmelsene i arbeidsmiljøloven kommer fullt ut til anvendelse.
 
@@ -96,7 +112,11 @@ For eksempel gjelder [arbeidsmiljøloven § 10-12](lov/2005-06-17-62/§10-12) fj
 
 ### Til § 2
 
+*Første ledd*
+
 6 ukers gjennomsnittsberegningsperiode gir anledning til å arbeide 12 dager sammenhengende, men det skal da være helt fri i litt over 4 uker i etterkant. Videre gir det mulighet for å arbeide for eksempel gjentagende 4 dager på, 7 dager fri, 2 dager på, 8 dager fri.
+
+*Andre ledd*
 
 60 timer som kan gjennomsnittsberegnes over 6 uker, gir anledning til å arbeide 15 dager sammenhengende, men da med etterfølgende fri i nesten 4 uker. Andre ledd gir videre mulighet for å praktisere langturnus med for eksempel gjentagende arbeid i 3 dager, 7 dager fri, 4 dager på, 7 dager fri.
 
@@ -104,13 +124,19 @@ For arbeidstakere som har sin bolig på eller i tilknytning til institusjonen vi
 
 Samtykket til å være tilgjengelig utover 60 timer gjelder bare for de arbeidstakere som bor på eller i tilknytning til institusjonen.
 
+*Tredje ledd*
+
 Retten til å trekke tilbake tidligere gitt samtykke til en arbeidstid utover 48 timer gjelder bare for de arbeidstakere som ikke har sin bolig på eller i tilknytning til institusjonen. Benytter arbeidstaker seg av denne retten plikter arbeidsgiver å tilby en annen arbeidstidsordning som ligger innenfor grensene i første ledd, det vil si en arbeidstidsordning som ikke går utover 48 timer i gjennomsnitt over en periode på 6 uker. Det er ingenting i veien for at arbeidstaker delvis kan trekke tilbake samtykke til å arbeide utover 48 timer for eksempel en reduksjon fra 60 til 55 timer.
 
 > Endret ved [forskrift 8 juni 2017 nr. 1042](forskrift/2017-06-08-1042) (i kraft 1 juli 2017).
 
 ### Til § 3
 
+*Første ledd*
+
 Arbeidstid vil være den tid arbeidstaker står til disposisjon/er tilgjengelig for arbeidsgiver. Hvileperiodene vil være å anse som arbeidstid dersom arbeidstaker skal være tilgjengelig for arbeidsgiver og skal derfor fullt ut tas med ved beregningen av samlet ukentlig arbeidstid. Dersom arbeidstaker ikke skal være tilgjengelig (ikke risikere å bli tilkalt) og fritt kan forlate institusjonen i hvileperioden, vil det normalt anses som fritid og dermed ikke telle med ved beregningen av den samlede ukentlige arbeidstid. Forutsetningen må imidlertid være at det er tale om faste friperioder som gir en viss forutsigbarhet og derfor oppleves som reell fritid. Kortere perioder enn to timer vil normalt ikke anses som fritid og skal derfor ikke trekkes i fra ved beregning av arbeidstiden.
+
+*Andre ledd*
 
 Det er bare krav om kompenserende hvile i de tilfeller der det har vært vesentlige forstyrrelser i hvileperioden. Det aksepteres således at det i hvileperioden kan forekomme mindre forstyrrelser og avbrudd uten noe krav om kompenserende hvile. Hva som vil være vesentlige forstyrrelser må vurderes konkret. Også kortvarige forstyrrelser kan være vesentlige dersom det er mange av dem. Det avgjørende vil være om hvileperioden totalt sett gir arbeidstakeren den nødvendige hvile og avkobling.
 
@@ -119,6 +145,8 @@ Forstyrrelser om natten vil gi arbeidstakeren avbrutt søvn og det skal her mind
 Kompenserende hvile vil si at arbeidstakeren skal ha tilsvarende hvile i erstatning for den hvilen vedkommende har tapt på grunn av forstyrrelsene. Utgangspunktet for vurderingen må her være den tid arbeidstakeren faktisk er blitt forstyrret. Ved mange hyppige, men mindre forstyrrelser vil normalt den kompenserende hvilen beregnes ut fra den tidsperioden som forstyrrelsene opptrer i. Har for eksempel arbeidstakeren sin hvileperiode om natten mellom kl. 23–07 og har blitt forstyrret to ganger mellom klokken 05–07, vil arbeidstakeren normalt ha krav på en kompenserende hvileperiode på to timer dagen etter. I tillegg må arbeidsgiver sørge for at vedkommende den påfølgende natt får sove uforstyrret. Har forstyrrelsene vært så mange at de totalt sett fratar arbeidstakeren den nødvendige hvile og avkobling, må hele perioden kompenseres. Hvis for eksempel arbeidstakeren blir forstyrret tre ganger jevnt fordelt over hele natten, kan det, etter en konkret vurdering, tilsi at hele hvileperioden på åtte timer skal kompenseres.
 
 Dersom det er vanskelig å oppfylle kravet om kompenserende hvile der det har vært vesentlige forstyrrelser i hvileperioden med den bemanningen som er, må arbeidsgiver etablere et system som gjør det mulig å tilkalle ekstrabemanning på kort tid. Bestemmelsen kan imidlertid fravikes i inntil ett døgn i ekstraordinære situasjoner, jf. [§ 4](forskrift/2005-06-24-686/§4).
+
+*Tredje ledd*
 
 Det åpnes for at det lokalt kan avtales unntak fra kravene om daglige hvileperioder. De ordninger som avtales må imidlertid være forsvarlige slik at arbeidstakerne ikke utsettes for uheldige fysiske eller psykiske belastninger, jf. [arbeidsmiljøloven § 10-2](lov/2005-06-17-62/§10-2) første ledd. Muligheten til å gjøre unntak fra første ledd er underlagt begrensninger som innebærer at avtaleadgangen i praksis er begrenset til å fastsette en annen plassering og fordeling av hvileperioden enn hva første ledd gir anvisning på. Det vil ikke være anledning til å fravike timetallet. Det vil imidlertid være mulig å avtale at det bare skal være en hvileperiode, men den må da være på minst 10 timer. Adgangen til å avtale en annen fordeling av hvileperiodene må ikke resultere i at hvileperiodene blir så korte at de i realiteten ikke gir rom for hvile. Som et utgangspunkt kan en hvileperiode på under to timer sies å ha mer karakter av pause enn av hvileperiode, men det vil igjen bero på en konkret vurdering av hvordan hele arbeidstidsordningen er lagt opp.
 

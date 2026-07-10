@@ -42,6 +42,8 @@ Det er forbudt å innføre levende storfe fra følgende områder i Spania:I prov
 
 Ved innførsel av levende storfe fra Spania utenom de områder som går frem av vedlegget til denne forskriften, skal det fremgå av det medfølgende helsesertifikatet, jf. forskrifter om handel med levende storfe,1 at dyrene kommer fra besetning hvor alle dyr som er eldre enn 12 måneder har blitt testet serologisk for ondartet lungesyke hos storfe i løpet av de siste 12 måneder uten noen reaksjon, og at dyrene som importeres har blitt testet serologisk for ondartet lungesyke hos storfe uten noen reaksjon i løpet av de siste 30 dager før opplasting for eksport. Kravet er oppfylt om det av helsesertifikatet går frem: «Levende storfe i samsvar med Kbesl. [90/208/EØF](eu/31990d0208).»
 
+1 [Forskrift 31. desember 1998 nr. 1476](forskrift/1998-12-31-1476) om dyrehelsemessige betingelser for innførsel og utførsel av storfe.
+
 ## § 6. Straff
 
 Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til [matloven § 28](lov/2003-12-19-124/§28).

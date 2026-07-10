@@ -30,6 +30,8 @@ eu_basis: []
 
 (2) Forskriften gjelder for opptak, studier og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har eller har hatt studierett og status som student ved fagskolen.
 
+1 [Lov 20. juni 2003 nr. 56](lov/2003-06-20-56) om fagskoleutdanning.2 [Forskrift 17. mars 2017 nr. 334](forskrift/2017-03-17-334) om fagskoleutdanning.
+
 ### § 1-2. Definisjoner
 
 (1) *Styringsgruppen* er fagskolens øverste ansvarlige styringsorgan, og har alt ansvar og all myndighet som er tillagt «styret» etter fagskoleloven og forskrift om fagskoleutdanning.
@@ -44,6 +46,8 @@ eu_basis: []
 
 (2) Vedtak truffet etter fagskolelovens og denne forskrifts bestemmelser om opptak, avsluttende vurdering, annullering av eksamen, bortvisning, utestenging, skikkethetsvurdering, innpassing og fritak regnes som enkeltvedtak etter forvaltningslovens bestemmelser.
 
+1 [Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker. Jf. [fagskoleloven § 1b](lov/2003-06-20-56/§1b) annet og tredje ledd.
+
 ## Kapittel 2. Opptak
 
 ### § 2-1. Kriterier for opptak
@@ -55,6 +59,8 @@ eu_basis: []
 (3) Det er en forutsetning for opptak at søkeren forstår norsk og kan kommunisere tilfredsstillende på norsk. Søkere med annet morsmål enn norsk, eller som ikke har bestått videregående opplæring i faget norsk på det nivå som kreves etter første ledd, må dokumentere tilfredsstillende språkkunnskaper ved å fremlegge:bestått test i norsk – høyere nivå («Bergenstesten») elleravsluttende prøve i norsk (norskprøven) med resultat B2 eller høyere på alle vurderinger, jf. [forskrift 20. april 2005 nr. 341](forskrift/2005-04-20-341) om opplæring i norsk og samfunnskunnskap for nyankomne innvandrere [§ 26](forskrift/2005-04-20-341/§26).
 
 (4) Dokumentasjon for den opplæring og/eller eventuell yrkeserfaring som danner grunnlag for opptaket, jf. første og annet ledd, samt eventuell dokumentasjon for språkferdigheter som er påkrevet etter tredje ledd, skal vedlegges søknaden.
+
+1 [Lov 17. juli 1998 nr. 61](lov/1998-07-17-61) om grunnskolen og den vidaregåande opplæringa.
 
 ### § 2-2. Gjennomføring av opptak
 
@@ -79,6 +85,8 @@ eu_basis: []
 (1) Fagskolen skal kreve fremlagt politiattest i henhold til lovbestemte krav1 som gjelder for yrkesutøvelse i praksisopplæringen, jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) annet ledd og forskrift om fagskoleutdanning kapittel 3. Fagskolen skal informere om kravet om politiattest, og informasjon om dette samt frist for fremleggelse av politiattest skal fremgå av tilbud om studieplass. Merknader på politiattesten kan medføre utestenging etter denne forskriftens [§ 5-4](forskrift/2017-05-22-661/§5-4), jf. [fagskoleloven § 12](lov/2003-06-20-56/§12) tredje til femte ledd og fagskoleforskriften kapittel 3. Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
 
 (2) Studenter som ikke legger frem politiattest i henhold til [fagskoleloven § 12](lov/2003-06-20-56/§12) annet ledd og forskrift om fagskoleutdanning kapittel 3, eller ikke legger frem dokumentasjon om forhold som ligger til grunn for merknader på politiattesten, har ikke rett til å delta i praksisopplæringen.
+
+1 Se [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. (helsepersonelloven) [§ 20a](lov/1999-07-02-64/§20a) og [lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) [§ 5-4](lov/2011-06-24-30/§5-4).
 
 ## Kapittel 3. Krav om deltakelse fravær og permisjon
 
@@ -138,11 +146,22 @@ eu_basis: []
 
 (1) Sensor oppnevnes av rektor når resultatet av vurderingen skal inngå på vitnemålet eller innregnes i karakter for utdanningen.1 Til gjennomføring av mappevurdering, samt for vurdering av praksisperioden, oppnevnes én sensor. Til vurdering av hjemmeeksamen oppnevnes både intern og ekstern sensor.
 
+1 Jf. [fagskoleloven § 6](lov/2003-06-20-56/§6) annet ledd og [§ 3](lov/2003-06-20-56/§3) tredje ledd.
+
 ### § 4-4. Vurderingsuttrykk
 
 (1) For praksis brukes vurderingsuttrykket bestått/ikke bestått.
 
-(2) For hjemmeeksamen og mappevurdering brukes følgende vurderingsuttrykk, i tråd med Nasjonal plan for ettårig fagskoleutdanning i helse- og oppvekstfag, generell del, godkjent av Nasjonalt utvalg for fagskoleutdanning i helse- og oppvekstfag 22. april 2013, pkt. 4.7:*Symbol**Betegnelse**Generell beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) For hjemmeeksamen og mappevurdering brukes følgende vurderingsuttrykk, i tråd med Nasjonal plan for ettårig fagskoleutdanning i helse- og oppvekstfag, generell del, godkjent av Nasjonalt utvalg for fagskoleutdanning i helse- og oppvekstfag 22. april 2013, pkt. 4.7:
+
+| *Symbol* | *Betegnelse* | *Generell beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 ### § 4-5. Adgang til å avlegge avsluttende vurdering og eksamen på nytt. Antall forsøk
 

@@ -122,6 +122,8 @@ Merknadene er en veiledning for å utdype innholdet i den enkelte bestemmelse.
 
 ### Til § 2 Virkeområde
 
+*Til første ledd*
+
 Forskriften gjelder smittefarlig avfall som er et resultat av helse- og dyrehelsepersonells yrkesutøvelse, herunder smittefarlig avfall som oppstår når helse- eller dyrehelsepersonell driver undervisning, forskning og diagnostikk. Det har ingen betydning om yrkesutøvelsen foregår innenfor eller utenfor virksomhetens lokaler. Dette betyr at forskriften også gjelder smittefarlig avfall som oppstår når helsetjenesten foregår hjemme hos pasienten, for eksempel i hjemmesykepleien og i forbindelse med ambulerende veterinær- og legevaktvirksomhet.
 
 Forskriften gjelder fra det smittefarlige avfallet oppstår i helse- og dyrehelsetjenesten og frem til det er ferdig behandlet. Forskriften stiller derfor krav til både helsetjenesten, dyrehelsetjenesten, transportør og behandlingsanlegg.
@@ -132,15 +134,23 @@ All helsehjelp som ytes i helsetjenesten (også av ikke autorisert helsepersonel
 
 Forskriften gjelder også for enmannsforetak.
 
+*Til annet ledd*
+
 Døde dyr (inkl. fisk), slakteavfall og kassert melk er eksempler på animalsk avfall som ikke er omfattet av denne forskriften. Unntatt fra dette er prøver fra dyreavfall. Avfall fra prøvetaking anses som smittefarlig avfall og omfattes av forskriften.
 
 ### Til § 3 Definisjoner
+
+*Til bokstav b – smittefarlig avfall*
 
 Avfall som kan være smittefarlig:Avfall som er direkte forurenset med sekret, puss o.l. fra pasienter med alvorlige infeksjoner (for eksempel brukte bandasjer, drensmateriell, hansker, munnbind, bleier og liknende).Stikkende/skjærende avfall, for eksempel brukte kanyler, brukte skalpellblader, brukte sakser og pinsetter, reagensrør med blod, puss eller vevsrester.Vevsbiter, organer, blod og blodprodukter (inkludert serum, plasma og andre komponenter fra blod), samt blodige bandasjer.Avfall fra luftsmitteisolater.
 
 Det er ikke alt avfall fra helse- og dyrehelsetjeneste som omfattes av forskriften. Kun der avfallet inneholder levedyktige organismer eller deres toksiner, og det er kjent for eller antatt å kunne forårsake sykdom, vil forskriften komme til anvendelse. Det er kun der for eksempel munnbind eller bleier kan forårsake smitte at det skal behandles etter forskriften. For helsetjenesten vises det for øvrig til det generelle kravet til forsvarlig virksomhet.
 
+*Til bokstav e – helsetjeneste*
+
 Begrepet helsetjeneste etter denne forskriften samsvarer med definisjonen av helsetjeneste i lov 2. juli nr. 63 om pasientrettigheter (pasientrettighetsloven) § 1-3 bokstav d), og omfatter primærhelsetjenesten, spesialisthelsetjenesten og tannhelsetjenesten. Virksomheter som er offentlig eid, privateid og offentlig drevet, og privateid eller privatdrevet som har avtale med stat, fylke eller kommune, er omfattet av helsetjenestebegrepet. Rent privat virksomhet som ikke har avtale med stat, fylke eller kommune faller også innenfor definisjonen av helsetjeneste i denne forskriften.
+
+*Til bokstav f – dyrehelsetjeneste*
 
 Uttrykket «helsehjelp til dyr» omfatter forebyggende tiltak, diagnostiske undersøkelser, behandling, rehabilitering og lignende. Det omfatter både privat og offentlig virksomhet. En veterinær som for eksempel tar en blodprøve i forbindelse med Mattilsynets overvåkning av dyresjukdommer, yter altså helsehjelp til dyr i forskriftens forstand.
 
@@ -158,21 +168,33 @@ Ambulerende dyrehelsepersonell bør gi dyreeiere råd om forsvarlig håndtering 
 
 Bestemmelsen innebærer en plikt til å hindre fare for forurensing og spredning av smitte gjennom forsvarlig håndtering mv. av avfallet. Plikt til å hindre andre negative virkninger forbundet med avfallet, for eksempel stikk- og kuttskader, kan følge av annet regelverk. Et eksempel er [lov 11. juni 1976 nr. 79](lov/1976-06-11-79) om kontroll med produkter og forbrukertjenester [§ 3](lov/1976-06-11-79/§3), som krever at alle som behandler produkter skal forebygge at produktet medfører helseskade, miljøforstyrrelse, forurensning, støy og lignende, og begrense slike virkninger.
 
+*Til første ledd – oppbevaring, håndtering og transport av smittefarlig avfall slik at det ikke medfører fare for forurensning eller spredning av smitte**Oppbevaring og håndtering av smittefarlig avfall i helsetjenesten og dyrehelsetjenesten*
+
 Smittefarlig avfall bør samles opp i støtsikre og fukttette beholdere. Beholderne bør være av et materiale og utformes slik at avrenning er forhindret ved oppbevaring og videre transport helt frem til behandlingsanlegget.
 
 Når smittefarlig avfall oppstår utenfor virksomhetens lokaler, for eksempel i forbindelse med ambulerende veterinær- og legevaktvirksomhet eller i hjemmesykepleien, bør personellet ha en beholder, som beskrevet ovenfor, til oppsamling av smittefarlig avfall.
 
 Lokaler som brukes til midlertidig oppbevaring av smittefarlig avfall bør holdes ryddig og rent og om nødvendig desinfiseres. Oppbevaringsplassen bør være sikret slik at uvedkommende mennesker eller dyr ikke har tilgang.
 
+*Transport av smittefarlig avfall*
+
 Transport av smittefarlig avfall omfattes av [forskrift 11. november 2002 nr. 1264](forskrift/2002-11-11-1264) om transport av farlig gods på veg og jernbane. Denne administreres av Direktoratet for samfunnssikkerhet og beredskap (DSB). Forskriften stiller blant annet krav til emballasje, godkjent tank, merking, samemballering og transportdokument. Dersom transporten overstiger 500 kg netto farlig gods, gjelder også krav om at fører skal ha ADR-kompetansebevis når dette kreves i ADR (ADR og RID er europeiske overenskomster for transport av farlig gods på henholdsvis veg og jernbane). Forskriften krever at enhver som har befatning med transport av farlig gods plikter å vise forsiktighet og opptre på en slik måte at det ikke oppstår fare for skade på liv, helse, miljø eller materielle verdier (§ 2-2). Ifølge samme bestemmelse skal man under transporten ta de nødvendige forholdsregler slik at transporten kan foregå og godset avleveres på en sikker og forsvarlig måte.
 
+*Håndtering av smittefarlig avfall hos behandlingsanlegg*
+
 Smittefarlig avfall som har ankommet behandlingsanlegget, bør så snart som mulig mates inn i anlegget. Mellomlagring av smittefarlig avfall på behandlingsanlegget bør normalt ikke forekomme. Dersom dette unntaksvis må skje, skal mellomlagringen skje uten risiko for økt smittefare og skal være så kortvarig som mulig.
+
+*Til tredje ledd – behandling av smittefarlig avfall slik at det ikke lenger er smittefarlig*
+
+*Behandling av smittefarlig avfall i helsetjenesten og dyrehelsetjenesten*
 
 Smittefarlig avfall fra egen virksomhet skal så tidlig som mulig behandles slik at det ikke lenger er smittefarlig. Dette kan gjøres ved for eksempel desinfeksjon eller autoklavering. Den metoden som benyttes bør være validert. Eventuell forbehandling, for eksempel kverning for å redusere volumet og derved forenkle behandlingen av eget avfall, må ikke medføre fare for smittespredning.
 
 Behandling av smittefarlig avfall fra andre virksomheter, ved blant annet autoklavering eller desinfeksjon, krever særskilt tillatelse.
 
 Når avfallet ikke lenger er smittefarlig vil forskriftens regler ikke komme til anvendelse.
+
+*Behandling av smittefarlig avfall hos behandlingsanlegg*
 
 Det vises til merknadene til [§ 4](forskrift/2005-10-11-1196/§4) første ledd vedrørende behandlingsanlegg.
 
@@ -202,15 +224,19 @@ Tillatelse etter denne forskriften fritar ikke fra plikt til å innhente nødven
 
 ### Til § 7 Emballering og merking
 
+*Til første ledd*
+
 Avfallsbesitter har ansvaret for at smittefarlig avfall emballeres på en slik måte at det ikke medfører fare for spredning av smitte. Avfallsbesitter treffer de nødvendige tiltak som står i forhold til avfallets mengde, sammensetning og farlighetsgrad for å hindre spredning av smitte. Avfallsbesitter bør utvise forsiktighet dersom det er tvil om avfallets sammensetning, om den riktige håndteringsmåten, om rekkevidden av plikter i regelverk osv. Avfallets farepotensial stiller dessuten krav til lagringsplassen, særlig beskyttelse mot ytre påvirkning, sikring mot uvedkommende/dyr/barn, avrenning og krav til at virksomheten holder orden og oversikt over avfallet (ryddig og atskilt plassering, tydelig merking mv.).
 
 Både avfallsbesitter og den som håndterer smittefarlig avfall skal sørge for at avfallet er emballert slik at det er egnet for lagring og transport. Emballeringen må tilpasses transportmåte, transportstrekning mv. Hvis avfallet ikke er forsvarlig emballert, plikter transportøren å avvise det, jf. forskrift om transport av farlig gods på veg og jernbane § 2-3 bokstav a.
 
 ### Til § 8 Dokumentasjon
 
+*Til første ledd*
+
 Når det gjelder dokumentasjon om hvordan det smittefarlige avfallet er transportert, kan relevant dokumentasjon være faktura eller avtale med transportselskapet.
 
-Ved dokumentasjon av type og opprinnelse bør følgende koder fra den europeiske avfallslisten (EAL) anvendes:Smittefarlig avfall fra helsetjenesten:18 01 03* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)Smittefarlig avfall fra dyrehelsetjenesten:18 02 02* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)
+Ved dokumentasjon av type og opprinnelse bør følgende koder fra den europeiske avfallslisten (EAL) anvendes:Smittefarlig avfall fra helsetjenesten:18 01 03\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)Smittefarlig avfall fra dyrehelsetjenesten:18 02 02\* (avfall der innsamling og disponering er underlagt særlige krav av hensyn til forebygging av infeksjoner)
 
 Den ansvarlige for virksomheten bør sørge for at dokumentasjonen inngår i virksomhetens internkontrollsystem.
 
@@ -220,11 +246,19 @@ Det forventes at de ulike tilsynsmyndighetene fokuserer på sine kjerneområder.
 
 Nødvendige vedtak omfatter også adgangen til å fatte vedtak om tvangsmulkt i den grad aktuelle lover gir slik hjemmel.
 
+*Til første ledd*
+
 Statsforvalteren fører tilsyn med at smittefarlig avfall fra helsetjenesten og dyrehelsetjenesten ikke medfører fare for forurensning. Statsforvalteren har ansvaret for å føre tilsyn med at virksomheter som behandler smittefarlig avfall, søker om tillatelse etter [§ 6](forskrift/2005-10-11-1196/§6) og overholder de krav som stilles i tillatelsen.
+
+*Til annet ledd*
 
 Tilsyn med virksomhetenes håndtering av smittefarlig avfall er en del av Helsetilsynets helhetlige tilsyn.
 
+*Til tredje ledd*
+
 Kommunene fører tilsyn med smittefarlig avfall som en del av sitt arbeid med miljørettet helsevern fra det oppstår i helsetjenesten, og frem til det er ferdig behandlet. Aktuelle bestemmelser som kommunen fører tilsyn med, er [§ 4](forskrift/2005-10-11-1196/§4) (forsvarlig oppbevaring, håndtering og transport av smittefarlig avfall), [§ 5](forskrift/2005-10-11-1196/§5) (leveringsplikt), [§ 7](forskrift/2005-10-11-1196/§7) (emballering og merking) og [§ 8](forskrift/2005-10-11-1196/§8) (dokumentasjon).
+
+*Til fjerde ledd*
 
 Mattilsynet fører tilsyn med det smittefarlige avfallet fra det oppstår i dyrehelsetjenesten, og frem til det er ferdig behandlet. Aktuelle bestemmelser som Mattilsynet fører tilsyn med at virksomheter overholder, er [§ 4](forskrift/2005-10-11-1196/§4) (forsvarlig oppbevaring, håndtering og transport av smittefarlig avfall), [§ 5](forskrift/2005-10-11-1196/§5) (leveringsplikt), [§ 7](forskrift/2005-10-11-1196/§7) (emballering og merking) og [§ 8](forskrift/2005-10-11-1196/§8) (dokumentasjon).
 

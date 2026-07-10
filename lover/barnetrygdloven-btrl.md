@@ -120,11 +120,15 @@ Det foreligger ikke rett til utvidet barnetrygd for særkullsbarn dersom stønad
 
 > Endret ved lover [7 apr 2006 nr. 6](lov/2006-04-07-6) (ikr. 1 jan 2007 iflg. [res. 7 apr 2006 nr. 392](forskrift/2006-04-07-392)), [15 juni 2007 nr. 22](lov/2007-06-15-22) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 629](forskrift/2007-06-15-629)).
 
+1 Inkurie: Skal vel være "eller".
+
 ## Kapittel 4. Barnetrygdens størrelse og utbetaling
 
 ### § 10. Barnetrygdens størrelse
 
 Barnetrygd gis med de beløp som fastsettes av Stortinget.1
+
+1 Beløpet fastsettes i forbindelse med statsbudsjettet. I årene 1996 – 2018 var stønadssatsen for ordinær barnetrygd kr. 11.640 per barn per år. Fra 1 mars 2019 er den ordinære barnetrygd kr. 1.054 per barn per måned. Fra 1 jan 2023 til og med 28 feb 2023 er satsen for ordinær barnetrygd kr 1.676 pr måned for barn i alderen 0–6 år og kr. 1.054 for barn i alderen 6–18 år. Fra 1 mars 2023 til og med 30 juni 2023 er satsen for ordinær barnetrygd kr 1.723 pr måned for barn i alderen 0–6 år og kr. 1.083 for barn i alderen 6–18 år. Fra 1 juli 2023 til og med 31 desember 2023 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.310 for barn i alderen 6–18 år. Fra 1 januar 2024 til og med 31 august 2024 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.510 for barn i alderen 6–18 år. Fra 1 september 2024 er satsen for ordinær barnetrygd kr 1.766 pr måned for barn i alderen 0–6 år og kr. 1.766 for barn i alderen 6–18 år
 
 ### § 11. Stønadsperiode
 
@@ -171,6 +175,8 @@ Når krav om barnetrygd må settes fram skal kravet i alminnelighet settes fram 
 I de tilfeller der begge foreldrene fyller vilkårene for rett til barnetrygd etter [§ 2](lov/2002-03-08-4/§2) tredje ledd må begge foreldrene fremsette krav om barnetrygd dersom de ønsker delt utbetaling.
 
 > Endret ved lover [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [22 juni 2018 nr. 59](lov/2018-06-22-59).
+
+1 Jf. [EØS-avtalen vedlegg VI](avtale/avt-1992-05-02-1-v6) nr. 1 (forordning [(EF) nr. 883/2004](eu/32004r0883)) og nr. 2 (forordning [(EF) nr. 987/2009](eu/32009r0987)).
 
 ### § 15. Hvem avgjør søknad om barnetrygd. Klage og anke
 
@@ -251,6 +257,8 @@ Departementet kan gi forskrifter om gjennomføringen av denne loven.
 ### § 25. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme dato blir [lov 24. oktober 1946 nr. 2](lov/1946-10-24-2) om barnetrygd opphevet.
+
+1 Fra 1 jan 2003 iflg. [res. 8 mars 2002 nr. 225](forskrift/2002-03-08-225).
 
 ### § 26. Overgangsbestemmelser
 

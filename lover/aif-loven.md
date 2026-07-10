@@ -83,6 +83,8 @@ Næringsorganisasjon eller tilknyttet juridisk enhet som gir opplæring til og a
 
 > Endret ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
+1 Forordning [(EU) 2016/679](eu/32016r0679*), se [lov 15 juni 2018 nr. 38 § 1](lov/2018-06-15-38/§1).
+
 ## Kapittel 1a. Gjennomføring av internasjonale forpliktelser
 
 > Kapitlet tilføyd ved lov [18 juni 2021 nr. 101](lov/2021-06-18-101) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1985](forskrift/2021-06-18-1985)).
@@ -828,6 +830,8 @@ Med bøter eller fengsel i inntil ett år straffes den som forsettlig eller uakt
 (2) Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.
 
 (3) Departementet kan gi overgangsregler.
+
+1 Fra 1 juli 2014 iflg. [res. 20 juni 2014 nr. 785](forskrift/2014-06-20-785).
 
 ### § 12-2. Endringer i andre lover
 

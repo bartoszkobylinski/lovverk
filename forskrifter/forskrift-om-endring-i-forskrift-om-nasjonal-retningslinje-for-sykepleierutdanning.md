@@ -24,17 +24,37 @@ eu_basis: []
 
 ## I
 
+I [forskrift 4. juli 2025 nr. 1477 om nasjonal retningslinje for sykepleierutdanning](forskrift/2025-07-04-1477) gjøres følgende endringer:
+
+[§ 1 første ledd](forskrift/2025-07-04-1477/§1/ledd/1) skal lyde:
+
 Forskriften gjelder for universiteter og høyskoler som tilbyr 3-årig bachelorgrad i sykepleie.
+
+[§ 1 andre ledd](forskrift/2025-07-04-1477/§1/ledd/2) oppheves.
+
+[§ 1 tredje ledd](forskrift/2025-07-04-1477/§1/ledd/3) blir nytt andre ledd.
+
+[§ 2 femte ledd](forskrift/2025-07-04-1477/§2/ledd/5) skal lyde:
 
 Utdanningen skal være i samsvar med Europaparlamentets rådsdirektiv [2005/36/EF](eu/32005l0036) av 7. september 2005 om godkjenninger av yrkeskvalifikasjoner (yrkeskvalifikasjonsdirektivet), med senere endringer, herunder direktiv [2013/55/EU](eu/32013l0055) og delegert kommisjonsdirektiv [(EU) 2024/782](eu/32024l0782).
 
+[§ 3 andre ledd](forskrift/2025-07-04-1477/§3/ledd/2) skal lyde:
+
 Læringsutbyttebeskrivelsene i [§ 4](forskrift/2025-07-04-1477/§4) k og l, [§ 5](forskrift/2025-07-04-1477/§5) b, d og f, [§ 6](forskrift/2025-07-04-1477/§6) d, f og g, [§ 7](forskrift/2025-07-04-1477/§7) f og g, [§ 8](forskrift/2025-07-04-1477/§8) a–c, [§ 11](forskrift/2025-07-04-1477/§11) a, [§ 12](forskrift/2025-07-04-1477/§12) c, [§ 13](forskrift/2025-07-04-1477/§13) d, [§ 14](forskrift/2025-07-04-1477/§14) a–c, [§ 15](forskrift/2025-07-04-1477/§15) d–f, [§ 16](forskrift/2025-07-04-1477/§16) a, [§ 18](forskrift/2025-07-04-1477/§18) a, [§ 19](forskrift/2025-07-04-1477/§19) a og [§ 21](forskrift/2025-07-04-1477/§21) a er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset utdanningen.
+
+[§ 4 ny bokstav l](forskrift/2025-07-04-1477/§4/bokstav/l) skal lyde:
 
 1. har kunnskap om kjønnsforskjeller og kjønns betydning for helse.
 
+[§ 5 bokstav c](forskrift/2025-07-04-1477/§5/bokstav/c) skal lyde:
+
 1. kan anvende kunnskap om kultur- og språkbakgrunn i vurdering, planlegging, gjennomføring og evaluering av sykepleie
 
+[§ 6](forskrift/2025-07-04-1477/§6) skal lyde:
+
 Kandidatenkan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kronisk syke og mennesker med sammensatte og komplekse behov i primær- og spesialisthelsetjenesten, samt til mennesker i palliativ fasekan planlegge og gjennomføre forsvarlig legemiddelhåndtering, herunder legemiddelregning, og kvalitetssikre den enkelte pasients legemiddelbehandlingkan planlegge og gjennomføre sykepleie til pasienter i pre- og postoperative fasekan planlegge og gjennomføre selvstendige vurderinger av sykepleiebehovet til mennesker med urfolks- og minoritetsbakgrunnkjenner til beredskapsplaner for å bevare liv og helse i krise- og katastrofesituasjonerhar innsikt i sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin yrkesutøvelse både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkluderinghar innsikt i sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus og sosioøkonomiske problemer og kan identifisere og følge opp mennesker med slike utfordringer, samt kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrep. Ferdighetstreningen skal gjennomføres på en etisk forsvarlig måte.
+
+[§ 7 bokstav d](forskrift/2025-07-04-1477/§7/bokstav/d) til [h](forskrift/2025-07-04-1477/§7/bokstav/h) skal lyde:
 
 1. har kunnskap om begrepet helsekompetanse og hvordan dette påvirker menneskets evne til å finne, forstå, vurdere og anvende helseinformasjon
 2. har kunnskap om sykepleiens historiske utvikling og dens betydning for profesjons- og yrkesutøvelse
@@ -42,33 +62,65 @@ Kandidatenkan planlegge og gjennomføre sykepleie til akutt og kritisk syke, kro
 4. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet
 5. har kunnskap om hvilken betydning kultur- og språkbakgrunn kan ha for helsekompetanse og likeverdige helse- og omsorgstjenester.
 
+[§ 8](forskrift/2025-07-04-1477/§8) skal lyde:
+
 Kandidatenkan reflektere over og håndtere etiske problemstillinger, samt justere egen praksis i sin yrkesutøvelsekan anvende kunnskap om lærings-, mestrings- og endringsprosesser i møte med pasienter, pårørende og relevant personellkan anvende kunnskap om utredning, behandling og oppfølging for å støtte pasientens beslutningsprosess gjennom forhåndssamtaler og samvalg, med utgangspunkt i pasientens helsekompetanse.
+
+[§ 9 bokstav c](forskrift/2025-07-04-1477/§9/bokstav/c) skal lyde:
 
 1. kan planlegge og gjennomføre målrettede samarbeidsprosesser med pasienter, pårørende og andre yrkesutøvere, og kan forebygge og bidra til å løse konflikter
 
+[§ 12 bokstav a](forskrift/2025-07-04-1477/§12/bokstav/a) skal lyde:
+
 1. kan planlegge og gjennomføre fagutviklings- og/eller kvalitetsforbedringsprosjekter
+
+[§ 13](forskrift/2025-07-04-1477/§13) skal lyde:
 
 Kandidatenhar bred kunnskap om ledelse og organisering av helse- og omsorgstjenestenhar bred kunnskap om relevante undervisnings- og veiledningsmetoderhar kunnskap om kvalitet og pasientsikkerhet innenfor nivåene i helse- og omsorgstjenestenhar kunnskap om helse- og sosialpolitikk, inkludert gjeldende myndighetskrav og tvangsbestemmelserhar kunnskap om samarbeidende yrkesgruppers kompetanse.
 
+[§ 14](forskrift/2025-07-04-1477/§14) skal lyde:
+
 Kandidatenkan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin yrkesutøvelsekan beherske kartleggings-, vurderings-, dokumentasjons- og kommunikasjonsverktøy i yrkesutøvelsenkan anvende kunnskap om kommunikasjon, undervisning og veiledning i møte med studenter og relevant personell.
+
+[§ 15](forskrift/2025-07-04-1477/§15) skal lyde:
 
 Kandidatenkan lede, prioritere og koordinere oppgaver i helse- og omsorgstjenestenhar innsikt i kvaliteten på sykepleie og de tjenestene brukerne mottar, og kan justere egen yrkesutøvelsehar innsikt i kvalitetsindikatorer og standard terminologi i dokumentasjon av sykepleiekan planlegge, gjennomføre, dokumentere og systematisk følge opp tiltak for å redusere uønskede hendelser og uønsket variasjon i helse- og omsorgstjenestenkan planlegge og gjennomføre tiltak som sikrer trygg overføring av pasienter mellom ulike enheter og nivåer i helse- og omsorgstjenestenhar innsikt i hvordan pasienters språklige og kulturelle bakgrunn kan påvirke ivaretakelse av kvalitet og pasientsikkerhet, samt kunnskap om bruk av tolk.
 
+[§ 18](forskrift/2025-07-04-1477/§18) skal lyde:
+
 Kandidatenkjenner til nytenking og innovasjonsprosesser og kan bidra til tjenesteinnovasjon som kan forbedre helse- og omsorgstjenesten.
+
+[§ 19 bokstav a](forskrift/2025-07-04-1477/§19/bokstav/a) skal lyde:
 
 1. har kunnskap om teknologiske og digitale løsninger som benyttes i helse- og omsorgstjenesten, inkludert kunstig intelligens
 
+[§ 20](forskrift/2025-07-04-1477/§20) skal lyde:
+
 Kandidatenkan reflektere over etiske, juridiske og samfunnsmessige utfordringer ved bruk av teknologi og digitale løsninger i helse- og omsorgstjenestenkan anvende teknologi og digitale løsninger i den hensikt å understøtte pasienters og pårørendes ressurser, mestringsmuligheter, medvirkning og kommunikasjonkan anvende digitale verktøy for effektiv dokumentasjon, samhandling og beslutningsstøtte.
+
+[§ 21](forskrift/2025-07-04-1477/§21) skal lyde:
 
 Kandidatenhar innsikt i hvordan teknologi påvirker helse- og omsorgstjenesten på individ-, gruppe- og systemnivå.
 
-Utdanningen skal være i samsvar med yrkeskvalifikasjonsdirektivet. Utdanningen skal ha et omfang på 180 studiepoeng, vare i tre år på normert tid, og bestå av minst 4 600 timers teoretisk utdanning og praksisstudier. Den teoretiske utdanningen skal utgjøre minst en tredel og den praktiske utdanningen minst halvparten av utdanningens samlede minste varighet. Den praktiske utdanningen skal gjennomføres i direkte kontakt med friske eller syke enkeltpersoner og grupper.
+[Kapittel 8](forskrift/2025-07-04-1477/kap8) overskriften skal lyde:
+
+Ny [§ 22](forskrift/2025-07-04-1477/§22) skal lyde:
+
+Tidligere [§ 22](forskrift/2025-07-04-1477/§22) blir ny [§ 23](forskrift/2025-07-04-1477/§23).
+
+[§ 23 første ledd](forskrift/2025-07-04-1477/§23/ledd/1) skal lyde:
 
 Studiets oppbygging skal sikre sammenheng og progresjon, og at teori og praksis er integrert på en måte som understøtter læringsutbyttebeskrivelsene. Det skal gis mulighet for valgbar fordypning. Hvert studieår skal inneholde teoristudier og praksisstudier.
+
+Tidligere [§ 23](forskrift/2025-07-04-1477/§23) blir ny [§ 24](forskrift/2025-07-04-1477/§24).
+
+[§ 24 femte](forskrift/2025-07-04-1477/§24/ledd/5) og [sjette ledd](forskrift/2025-07-04-1477/§24/ledd/6) skal lyde:
 
 For å sikre kvalitet og kontinuitet skal praksisstudiene ha minimum to perioder av minst syv ukers varighet, hvorav én periode skal være i kommunale helse- og omsorgstjenester og én periode i spesialisthelsetjenesten. De to periodene må inkludere døgnkontinuerlig oppfølging av pasienter. Det bør legges til rette for at studenten får erfaring med både poliklinisk-, dag- og døgnbehandling i pasientens behandlingskjede i spesialisthelsetjenesten.
 
 Praksisstudiene skal være i tråd med yrkeskvalifikasjonsdirektivet, ha en personsentrert tilnærming og omfattegenerell medisin og medisinske spesialitetergenerell kirurgi og kirurgiske spesialiteterpsykisk helse og psykiatrieldreomsorg og geriatrisvangerskaps- og barselomsorgpediatri og sykepleie til barnkommunale helse- og omsorgstjenester, herunder hjemmesykepleiee-helse.
+
+Tidligere [§ 24](forskrift/2025-07-04-1477/§24) blir ny § 25.
 
 ## II
 

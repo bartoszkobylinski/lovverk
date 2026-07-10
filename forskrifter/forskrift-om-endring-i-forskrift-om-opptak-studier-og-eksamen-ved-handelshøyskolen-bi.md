@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 1. juni 2018 nr. 1546 om opptak, studier og eksamen ved Handelshøyskolen BI](forskrift/2018-06-01-1546) gjøres følgende endring:
+
+[§ 2-6 andre ledd bokstav a](forskrift/2018-06-01-1546/§2-6/ledd/2/bokstav/a) skal lyde:
+
 1. Det kreves fullført bachelorgrad, tilsvarende 180 studiepoeng fra høyskole, universitet eller tilsvarende. Søkere må være minst 25 år i opptaksåret og kunne dokumentere minimum to års relevant arbeidserfaring i fulltidsstilling. Relevant arbeidserfaring er lønnet arbeid etter fullført bachelorgrad. Arbeidserfaring i deltidsstilling medregnes dersom det samlede omfanget tilsvarer to års fulltid. For søkere med erfaringsbasert bachelorgrad som søknadsgrunnlag, som Bachelor i ledelse fra Handelshøyskolen BI, kan arbeidserfaring oppnådd samtidig med bachelorstudiene medregnes.
 
 ## II

@@ -280,15 +280,16 @@ Annullert eksamen teller som ett eksamensforsøk, jf. [§ 4-10](forskrift/2019-1
 
 Vurderingsuttrykk ved avsluttende vurdering, eksamen, prøve, bedømmelse eller annen vurdering skal være Bestått/Ikke bestått eller en gradert skala fra A til F. All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utdanningens studieplan.
 
-Vurderingsuttrykkene som benyttes for den graderte skalaen er:A
-FremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser stor grad av selvstendighet.B
-Meget godtMeget god prestasjon som ligger over gjennomsnittet.
-Studenten viser evne til selvstendighet.C
-GodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.D
-Nokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.E
-TilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.F
-Ikke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+Vurderingsuttrykkene som benyttes for den graderte skalaen er:
+
+|  |  |
+| --- | --- |
+| A<br>Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser stor grad av selvstendighet. |
+| B<br>Meget godt | Meget god prestasjon som ligger over gjennomsnittet.<br>Studenten viser evne til selvstendighet. |
+| C<br>God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D<br>Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+| E<br>Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F<br>Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 Eksamenskarakterene vil bli offentliggjort senest 3 (tre) uker etter avholdt eksamen. Karakterer oppgis ikke muntlig, men kommuniseres skriftlig så lenge studenten er à jour med betaling. Vitnemål blir sendt studenten senest 3 (tre) uker etter siste sensur.
 

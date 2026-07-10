@@ -94,9 +94,9 @@ Nærværende Lov kommer til Anvendelse, ogsaa naar den strafbare Handling er for
 
 ### § 12
 
-1. De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i [straffeloven § 40](lov/2005-05-20-28/§40). I særlige tilfelle anvendes rettighetstap som nevnt i [straffeloven § 56](lov/2005-05-20-28/§56).
+1\. De straffer, som anvendes efter denne lov, er fengsel, arrest og bøter. Forvaring kan idømmes efter reglene i [straffeloven § 40](lov/2005-05-20-28/§40). I særlige tilfelle anvendes rettighetstap som nevnt i [straffeloven § 56](lov/2005-05-20-28/§56).
 
-2. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:Kunngjøring av dommen, hvorved [lov 13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 3-6](lov/1969-06-13-26/§3-6), jf. [nærværende lov §§ 41](lov/1902-05-22-13/§40), [59](lov/1902-05-22-13/§59) og [60](lov/1902-05-22-13/§60), får tilsvarende anvendelse;Forvisning fra bestemte Steder overensstemmende med [straffeloven § 57](lov/2005-05-20-28/§57).
+2\. Med ovennævnte Straffe kan som Tillægsstraffe forbindes:Kunngjøring av dommen, hvorved [lov 13. juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 3-6](lov/1969-06-13-26/§3-6), jf. [nærværende lov §§ 41](lov/1902-05-22-13/§40), [59](lov/1902-05-22-13/§59) og [60](lov/1902-05-22-13/§60), får tilsvarende anvendelse;Forvisning fra bestemte Steder overensstemmende med [straffeloven § 57](lov/2005-05-20-28/§57).
 
 > Endret ved lover 6 mai 1921 nr. 2, 15 des 1950 nr. 6, [22 mai 1953 nr. 3](lov/1953-05-22-3), [26 nov 1954 nr. 6](lov/1954-11-26-6), [12 des 1958 nr. 1](lov/1958-12-12-1), [26 jan 1973 nr. 2](lov/1973-01-26-2), 8 juni 1979 nr. 43, [17 jan 1997 nr. 11](lov/1997-01-17-11) (ikr. 1 jan 2002 iflg. [lov 15 juni 2001 nr. 64](lov/2001-06-15-64)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [20 des 2023 nr. 110](lov/2023-12-20-110) (i kraft 24 mai 2024 iflg. [res. 24 mai 2024 nr. 811](forskrift/2024-05-24-811)).
 

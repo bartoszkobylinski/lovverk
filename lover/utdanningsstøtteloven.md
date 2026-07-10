@@ -224,11 +224,15 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 
 > Endret ved lov [11 juni 2021 nr. 81](lov/2021-06-11-81) (ikr. 1 jan 2022 iflg. [res. 18 juni 2021 nr. 1972](forskrift/2021-06-18-1972), tidligere § 24).
 
+1 Iflg. [res. 3 juni 2005 nr. 512](forskrift/2005-06-03-512) gjelder § 23 fra 15 juli 2005, [kapittel III](lov/2005-06-03-37/kapiii) og IV gjelder i sin helhet fra 1 jan 2006, og loven i sin helhet gjelder fra 15 aug 2006.
+
 ### § 27. Opphevelse av andre lover
 
 Fra lovens ikraftsetting oppheves [lov av 26. april 1985 nr. 21](lov/1985-04-26-21) om utdanningsstøtte til elever og studenter.1
 
 > Endret ved lov [11 juni 2021 nr. 81](lov/2021-06-11-81) (ikr. 1 jan 2022 iflg. [res. 18 juni 2021 nr. 1972](forskrift/2021-06-18-1972), tidligere § 25).
+
+1 Iflg. [res. 3 juni 2005 nr. 512](forskrift/2005-06-03-512) er [§ 16](lov/1985-04-26-21/§16) i den loven opphevet fra 15 juli 2005, [§ 8](lov/1985-04-26-21/§8) til [§ 9a](lov/1985-04-26-21/§9a) er opphevet fra 1 jan 2006, og loven i sin helhet er opphevet fra 15 aug 2006.
 
 ### § 28. Overgangsregler
 

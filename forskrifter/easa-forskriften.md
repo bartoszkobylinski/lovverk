@@ -80,14 +80,30 @@ Forskriften trer i kraft 1. juli 2024. Fra samme dato oppheves [forskrift 26. fe
 
 ### § 10. Endringer i forskrift 4. desember 2007 nr. 1353 om flyselskaper som er underlagt driftsforbud og om plikt til å informere passasjerene om identiteten til det flyselskap som skal utføre en flyreise
 
+Fra ikrafttredelse endres: – – –
+
 ### § 11. Endringer i forskrift 12. august 2011 nr. 833 om lufttransporttjenester i EØS
+
+Fra ikrafttredelse endres: – – –
 
 ### § 12. Endringer i forskrift 1. juli 2016 nr. 868 om rapporterings- og varslingsplikt ved luftfartsulykker og luftfartshendelser mv.
 
+Fra ikrafttredelse endres: – – –
+
 ### § 13. Endringer i forskrift 19. desember 2014 nr. 1846 om etablering og gjennomføring av Det felles europeiske luftrom
+
+Fra ikrafttredelse endres: – – –
 
 ### § 14. Endringer i forskrift 21. desember 2023 nr. 2374 om gebyr til Luftfartstilsynet mv.
 
+Fra ikrafttredelse endres: – – –
+
 ### § 15. Endringer i forskrift 20. desember 2019 nr. 2137 om avgifter for bruk av lufthavner drevet av Avinor AS
 
+[Forskrift 20. desember 2019 nr. 2137 om avgifter for bruk av lufthavner drevet av Avinor AS](forskrift/2019-12-20-2137) endres som følger: – – –
+
 ### § 16. Endringer i andre forskrifter
+
+I Lovdata er det publisert vedlegg til forskriftene og disse skal fjernes.
+
+Vedlegg til følgende forskrifter skal slettes: – – –

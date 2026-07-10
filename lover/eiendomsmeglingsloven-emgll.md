@@ -571,3 +571,5 @@ Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av 
 (4) Fra den tid loven her trer i kraft, gjøres følgende endring i annen lov:[Lov 16. juni 1989 nr. 53 om eiendomsmegling](lov/1989-06-16-53) oppheves.
 
 > Endret ved [lov 15 des 2017 nr. 106](lov/2017-12-15-106) (ikr. 1 jan 2018 iflg. [res. 15 des 2017 nr. 2042](forskrift/2017-12-15-2042), var tidligere del II).
+
+1 Fra 1 jan 2008 iflg. [res. 29 juni 2007 nr. 754](forskrift/2007-06-29-754), men iflg. forskr. [23 nov 2007 nr. 1282](forskrift/2007-11-23-1282) trådte [§ 4-4](lov/2007-06-29-73/§4-4) (1) og (2) og [§ 6-2](lov/2007-06-29-73/§6-2) (1) annet punktum ikr. 1 juli 2011, og [§ 4-6](lov/2007-06-29-73/§4-6) trer ikr. når departementet bestemmer.

@@ -244,6 +244,13 @@ Når annet ikke er bestemt, gjelder lov om behandlingsmåten i forvaltningssaker
 
 Fra lovens ikrafttredelse gjøres følgende endringer i andre lover:
 
+1\. I [lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon skal [§ 4-4](lov/2003-07-04-83/§4-4) annet ledd lyde: – – –
+
+2\. I [lov 21. juni 1963 nr. 23](lov/1963-06-21-23) om vegar skal [§ 32](lov/1963-06-21-23/§32) andre og nytt tredje ledd lyde: – – –
+
 ### § 26. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+1 Fra 1 juli 2020, med unntak av kapittel 6 som trer i kraft når Kommunal- og moderniseringsdepartementet bestemmer, iflg. [res. 7 mai 2020 nr. 944](forskrift/2020-05-07-944).
+Fra 1 okt 2021 for kapittel 6 iflg. [res. 26 aug 2021 nr. 2589](forskrift/2021-08-26-2589).

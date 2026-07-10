@@ -526,6 +526,8 @@ Før nasjonale sikkerhetsmyndigheter gir tillatelse til ibruktaking av ERTMS-uts
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/797](eu/32016l0797) av 11. mai 2016 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 795](forskrift/2022-05-06-795).
+
 ## Vedlegg I. Elementer i jernbanesystemet
 
 1. *Jernbanenett*For denne forskriftens formål skal jernbanenettet inneholde følgende elementer:jernbanelinjer som er særskilt bygd for høyhastighetstog, og som er utstyrt for hastigheter i alminnelighet på minst 250 km/t,jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som er utstyrt for hastigheter på omkring 200 km/t,jernbanelinjer som er særskilt oppgradert for høyhastighetstog, og som har særegne trekk på grunn av topografiske eller overflatemessige begrensninger eller beliggenhet i byområder der hastigheten må tilpasses i hvert enkelt tilfelle. Denne kategorien omfatter sammenkoplede linjer mellom jernbanenettene for høyhastighetstog og konvensjonelle tog, linjer gjennom stasjoner, tilganger til terminaler, depoter osv. som trafikkeres i konvensjonell hastighet av rullende materiell for høyhastighetstog,jernbanelinjer for konvensjonelle tog, beregnet på persontransport,jernbanelinjer for konvensjonelle tog, beregnet på blandet trafikk (personer og gods),jernbanelinjer for konvensjonelle tog, beregnet på godstransport,knutepunkter for persontrafikk,knutepunkter for godstrafikk, herunder terminaler for ulike transportsystemer,jernbanelinjer som knytter disse elementene sammen.Dette jernbanenettet omfatter trafikkstyrings-, posisjonerings- og navigeringssystemer, tekniske anlegg for databehandling og telekommunikasjon beregnet på person- og godstransport med fjerntog på jernbanenettet, med henblikk på å sikre sikker og enhetlig drift av jernbanenettet og en effektiv trafikkstyring.
@@ -533,25 +535,39 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar di
 
 ## Vedlegg II. Delsystemer
 
+1.*Liste over delsystemer*
+
 For denne forskrifts formål kan systemet som utgjør jernbanesystem, inndeles i følgende delsystemer:strukturelle delsystemer:infrastruktur,energi,styring, kontroll og signal langs sporet,styring, kontroll og signal om bord,rullende materiell, ellerfunksjonelle delsystemer:drift og trafikkstyring,vedlikehold,telematikkapplikasjoner for person- og godstrafikk.
 
+2.*Beskrivelse av delsystemene*
+
 For hvert delsystem eller hver del av et delsystem skal byrået i forbindelse med utarbeiding av utkast til TSI-er, framsette et forslag til liste over komponenter og forhold knyttet til samtrafikkevne. Uten at det skal foregripe valget av forhold og komponenter knyttet til samtrafikkevne eller i hvilken rekkefølge disse vil bli underlagt TSI-er, skal delsystemene omfatte følgende:
+
+2.1
 
 Infrastruktur
 
 Spor, sporveksler, planoverganger, byggverk (broer, tunneler osv.), elementer knyttet til jernbanestasjoner (herunder innganger, plattformer, ganganlegg, serviceområder, toaletter og informasjonssystemer, samt disse elementenes tilgjengelighet for funksjonshemmede og bevegelseshemmede personer), sikkerhets- og verneutstyr.
 
+2.2
+
 Energi
 
 Elektrisitetsforsyningssystemet, herunder kontaktledninger og utstyret for måling av og takstfastsettelse for elektrisitetsforbruk som befinner seg langs sporet.
+
+2.3
 
 Styring, kontroll og signal langs sporet
 
 Alt utstyr langs sporet som er nødvendig for å kunne garantere tilstrekkelig sikkerhet for togfremføringen og for å kunne styre og kontrollere bevegelsene til tog som har tillatelse til å trafikkere jernbanenettet.
 
+2.4
+
 Styring, kontroll og signal om bord
 
 Alt utstyr om bord som er nødvendig for å kunne garantere sikkerhet og for å kunne styre og kontrollere bevegelsene til tog som har tillatelse til å trafikkere jernbanenettet.
+
+2.5
 
 Drift og trafikkstyring
 
@@ -559,13 +575,19 @@ Framgangsmåter og tilhørende utstyr som muliggjør enhetlig drift av de ulike 
 
 De faglige kvalifikasjonene som kreves for å kunne utføre alle typer jernbanefunksjoner.
 
+2.6
+
 Telematikkapplikasjoner
 
 Dette delsystemet omfatter to elementer, i samsvar med vedlegg I:applikasjoner for persontrafikk, herunder systemer som gir informasjon til reisende før og under reisen, reservasjons- og betalingssystemer, bagasjehåndtering og styring av forbindelser mellom tog og med andre transporttyper.applikasjoner for godstrafikk, herunder informasjonssystemer (sanntidsovervåkning av gods og tog), rangerings- og tildelingssystemer, reservasjons-, betalings- og faktureringssystemer, styring av forbindelser med andre transportsystemer og produksjon av elektroniske følgedokumenter.
 
+2.7
+
 Rullende materiell
 
 Karosseriets konstruksjon, system for styring og kontroll av alt utstyr i toget, strømavtakerinnretninger, trekk og energiomformingsutstyr, utstyr om bord for måling av og takstfastsettelse for elektrisitetsforbruk, bremsesystem, koplingsutstyr, løpeverk (boggier, aksler osv.) og hjuloppheng, dører, grensesnitt mellom menneske og maskin (fører, togpersonale og passasjerer, herunder tilgjengelighet for funksjonshemmede og bevegelseshemmede personer) passive eller aktive sikkerhetsinnretninger og utstyr for passasjerenes og togpersonalets helse.
+
+2.8
 
 Vedlikehold
 
@@ -573,39 +595,75 @@ De framgangsmåter, tilhørende utstyr, logistikkanlegg for vedlikeholdsarbeid o
 
 ## Vedlegg III. Grunnleggende krav
 
+1.*Generelle krav*
+
+1.1
+
 Sikkerhet
+
+1.1.1
 
 Prosjektering, bygging eller montering, samt vedlikehold og kontroll av sikkerhetskritiske komponenter, særlig komponenter med betydning for togtrafikken, skal garantere at sikkerhetsnivået tilsvarer de målene som er fastsatt for jernbane, også ved særlige driftsforstyrrelser.
 
+1.1.2
+
 Parameterne for kontakten mellom hjul og skinner skal oppfylle de krav til kjørestabilitet som er nødvendig for å garantere sikker trafikk ved høyeste tillatte hastighet. Parameterne for bremseutstyr skal garantere at det er mulig å stanse innen en gitt bremsestrekning ved høyeste tillatte hastighet.
+
+1.1.3
 
 De anvendte komponentene skal kunne motstå alle vanlige og uvanlige spesifiserte påkjenninger under hele sin brukstid. Det skal med egnede midler sørges for at enhver uforutsett svikt får begrenset innvirkning på sikkerheten.
 
+1.1.4
+
 Ved prosjekteringen av faste anlegg og rullende materiell og valg av materialer må det tas sikte på å begrense utvikling, spredning og skadevirkninger av ild og røyk i tilfelle brann.
 
+1.1.5
+
 Alle innretninger som er beregnet på å bli betjent av brukere, skal konstrueres på en slik måte at feil bruk ikke påvirker sikkerhetsfunksjonen til innretningen, og ikke vil kunne medføre noen risiko for brukernes helse og sikkerhet når de brukes på en forutsigbar måte, selv om bruken er i strid med tilgjengelige anvisninger for bruk.
+
+1.2
 
 Pålitelighet og tilgjengelighet
 
 Tilsyn med og vedlikehold av faste eller bevegelige komponenter som er en del av togtrafikken, skal tilrettelegges og foretas på en slik måte og med en slik hyppighet at komponentene kan opprettholde sin funksjonsevne under de angitte forhold.
 
+1.3
+
 Helse
+
+1.3.1
 
 Materialer som i kraft av den måten de brukes på, kan utgjøre en helsefare for dem som har adgang til dem, skal ikke brukes i tog og jernbaneinfrastruktur.
 
+1.3.2
+
 Materialer skal velges, behandles og brukes på en slik måte at utslipp av skadelig og farlig røyk eller gass begrenses, særlig i tilfelle brann.
+
+1.4
 
 Miljøvern
 
+1.4.1
+
 Miljøvirkningene ved bygging og drift av jernbanesystemet skal vurderes og tas i betraktning når systemet prosjekteres, i samsvar med EU-regelverket.
+
+1.4.2
 
 Materialene som brukes i tog og infrastruktur, skal hindre utslipp av miljøskadelig og farlig røyk eller gass, særlig i tilfelle brann.
 
+1.4.3
+
 Det rullende materiellet og systemene for energiforsyning skal utformes og framstilles på en slik måte at de er elektromagnetisk kompatible med anlegg og utstyr samt med private eller offentlige nett der det er risiko for interferens.
+
+1.4.4
 
 Utformingen og driften av jernbanesystemet skal ikke føre til at systemet genererer et uakseptabelt støynivå:i områder i nærheten av jernbaneinfrastruktur, som definert i artikkel 3 nr. 3 i direktiv [2012/34/EU](eu/32012l0034), ogi førerrommet.
 
+1.4.5
+
 Driften av jernbanesystemet skal ved normalt vedlikehold ikke forårsake et vibrasjonsnivå i grunnen som er uakseptabelt for virksomhet og omgivelser nær infrastrukturen.
+
+1.5
 
 Teknisk forenlighet
 
@@ -613,13 +671,25 @@ Infrastrukturens og de faste anleggenes tekniske egenskaper skal være innbyrdes
 
 Dersom det i visse deler av jernbanenettet viser seg vanskelig å forene disse egenskapene, kan det iverksettes midlertidige løsninger som sikrer framtidig forenelighet.
 
+1.6
+
 Tilgjengelighet
+
+1.6.1
 
 Delsystemene «Infrastruktur» og «Rullende materiell» skal være tilgjengelige for funksjonshemmede og bevegelseshemmede personer for å sikre adgang på like vilkår som andre ved å forebygge eller fjerne barrierer, og ved hjelp av andre hensiktsmessige tiltak. Dette skal omfatte prosjektering, bygging, fornying, oppgradering, vedlikehold og drift av de relevante delene av delsystemene publikum har adgang til.
 
+1.6.2
+
 Delsystemene «Drift» og «Telematikkapplikasjoner for persontrafikk» skal inneholde den funksjonalitet som er nødvendig for å lette adgangen for funksjonshemmede og bevegelseshemmede personer på like vilkår som andre ved å forebygge eller fjerne barrierer, og ved hjelp av andre hensiktsmessige tiltak.
 
+2*Særskilte krav til de enkelte delsystemene*
+
+2.1
+
 Infrastruktur
+
+2.1.1
 
 Sikkerhet
 
@@ -631,29 +701,45 @@ Infrastruktur der publikum har adgang, skal konstrueres og bygges på en slik m�
 
 Det skal fastsettes egnede bestemmelser for å ta hensyn til de særskilte sikkerhetsforholdene i svært lange tunneler og viadukter.
 
+2.1.2
+
 Tilgjengelighet
 
 Områder som publikum har adgang til, skal være tilgjengelige for funksjonshemmede og bevegelseshemmede personer i samsvar med nr. 1.6.
 
+2.2
+
 Energi
+
+2.2.1
 
 Sikkerhet
 
 Driften av energiforsyningssystemet skal ikke svekke sikkerheten, verken for tog eller personer (brukere, driftspersonell, beboere langs jernbanelinjen og tredjepersoner).
 
+2.2.2
+
 Miljøvern
 
 Driften av systemene for forsyning av elektrisk og termisk energi skal ikke gi miljøbelastninger utover de spesifiserte grensene.
+
+2.2.3
 
 Teknisk forenlighet
 
 Systemer for forsyning av elektrisk eller termisk energi skal:gjøre det mulig for togene å oppnå de spesifiserte nivåene for yteevne,når det gjelder systemer for forsyning av elektrisk energi, være forenelige med strømavtakerne som togene er utstyr med.
 
+2.3
+
 Styring, kontroll og signal
+
+2.3.1
 
 Sikkerhet
 
 Anlegg og framgangsmåter for styring, kontroll og signal som skal brukes, skal gi mulighet for togtrafikk med et sikkerhetsnivå som tilsvarer de målene som er fastsatt for jernbanenettet. Systemer for styring, kontroll og signal skal gi fortsatt sikker framføring for tog som har tillatelse til å kjøre ved driftsforstyrrelser.
+
+2.3.2
 
 Teknisk forenlighet
 
@@ -661,7 +747,11 @@ All ny infrastruktur og alt nytt rullende materiell framstilt eller utviklet ett
 
 Utstyr for styring, kontroll og signal som monteres i førerrom, skal tillate normal drift under de angitte forholdene i hele jernbanesystemet.
 
+2.4
+
 Rullende materiell
+
+2.4.1
 
 Sikkerhet
 
@@ -687,9 +777,13 @@ Togene skal være utstyrt med et personvarslingssystem som gir togpersonalet mul
 
 Både på jernbanestasjoner og på togene skal passasjerene få lettfattelig og grundig informasjon om reglene som gjelder for dem.
 
+2.4.2
+
 Pålitelighet og tilgjengelighet
 
 Det vitale utstyret i forbindelse med hjul, trekkraft, bremser og styring og kontroll skal være konstruert slik at toget i en gitt situasjon med driftsforstyrrelser kan fortsette uten at det medfører skadevirkninger for det utstyret som fortsatt er i drift.
+
+2.4.3
 
 Teknisk forenlighet
 
@@ -699,29 +793,45 @@ Når det gjelder tog med elektrisk trekkraft, skal strømavtakerne ha slike egen
 
 Det rullende materiellet skal ha slike egenskaper at det kan være i trafikk på alle de jernbanelinjene togene er forventet å trafikkere, idet det tas hensyn til relevante klimatisk forhold.
 
+2.4.4
+
 Kontroll
 
 Tog skal være utstyrt med en registreringsinnretning. De opplysningene som samles inn av denne innretningen og behandlingen av dem, skal være harmonisert.
+
+2.4.5
 
 Tilgjengelighet
 
 Delsystemer for rullende materiell som publikum har adgang til, skal være tilgjengelige for funksjonshemmede og bevegelseshemmede personer i samsvar med nr. 1.6.
 
+2.5
+
 Vedlikehold
+
+2.5.1
 
 Helse og sikkerhet
 
 De tekniske anleggene og de framgangsmåtene som følges i vedlikeholdssentralene, skal sikre drift av delsystemet, og skal ikke utgjøre noe sikkerhets- og helsefare.
 
+2.5.2
+
 Miljøvern
 
 De tekniske anleggene og de framgangsmåtene som følges i vedlikeholdssentralene, skal ikke overskride de tillatte nivåene for miljøbelastninger.
+
+2.5.3
 
 Teknisk forenlighet
 
 Vedlikeholdsanlegg for rullende materiell skal være slik at arbeidsoppgavene i tilknytning til sikkerhet, helse og komfort kan utføres på alt materiell de er konstruert for.
 
+2.6
+
 Drift og trafikkstyring
+
+2.6.1
 
 Sikkerhet
 
@@ -729,19 +839,29 @@ Tilpasningen av reglene for drift av jernbanenettet og kvalifikasjonene til loko
 
 Vedlikeholdsarbeidene og hyppigheten av disse, vedlikeholds- og kontrollpersonalets opplæring og kvalifikasjoner samt kvalitetssikringssystemene iverksatt av de berørte operatører ved kontroll- og vedlikeholdssentralene, skal være av en slik art at de sikrer et høyt sikkerhetsnivå.
 
+2.6.2
+
 Pålitelighet og tilgjengelighet
 
 Vedlikeholdsarbeidene og hyppigheten av disse, vedlikeholds- og kontrollpersonalets opplæring og kvalifikasjoner samt kvalitetsstyringssystemene iverksatt av de berørte operatører ved kontroll- og vedlikeholdssentralene, skal være av en slik art at de sikrer et høyt nivå for systemets pålitelighet og tilgjengelighet.
+
+2.6.3
 
 Teknisk forenlighet
 
 Tilpasningen av reglene for drift av jernbanenettet og kvalifikasjonene til lokomotivførerne, togpersonalet og til trafikkstyringspersonalet skal være av en slik art at effektiv drift av det transeuropeiske jernbanesystemet for konvensjonelle tog kan sikres, idet de ulike kravene som gjelder for innenlands trafikk og for trafikk over landegrensene, tas i betraktning.
 
+2.6.4
+
 Tilgjengelighet
 
 Det skal treffes egnede tiltak for å sikre at driftsreglene gir den funksjonalitet som er nødvendig for å sikre tilgjengelighet for funksjonshemmede og bevegelseshemmede personer.
 
+2.7
+
 Telematikkapplikasjoner for gods- og persontrafikk
+
+2.7.1
 
 Teknisk forenlighet
 
@@ -749,17 +869,25 @@ De grunnleggende kravene på området telematikkapplikasjoner som skal garantere
 
 Det skal treffes tiltak for å sikre:at databaser, programvare og datakommunikasjonsprotokoller er utviklet på en måte som muliggjør størst mulig datautveksling mellom ulike programmer og mellom ulike operatører, unntatt fortrolige forretningsdata,at brukerne lett får tilgang til opplysningene.
 
+2.7.2
+
 Pålitelighet og tilgjengelighet
 
 Databasene, programvaren og datakommunikasjonsprotokollene skal brukes, forvaltes, oppdateres og vedlikeholdes på måter som sikrer systemenes effektivitet og tjenestens kvalitet.
+
+2.7.3
 
 Helse
 
 Grensesnittene mellom systemer og brukerne skal overholde minsteregler for ergonomi og helsevern.
 
+2.7.4
+
 Sikkerhet
 
 Med hensyn til lagring og overføring av sikkerhetsrelaterte opplysninger skal det sørges for tilstrekkelig grad av kvalitet og pålitelighet.
+
+2.7.5
 
 Tilgjengelighet
 
@@ -767,7 +895,13 @@ Det skal treffes egnede tiltak for å sikre at delsystemer for telematikkapplika
 
 ## Vedlegg IV. Framgangsmåte for EF-verifisering av delsystemer
 
+1.*Allmenne prinsipper*
+
 Med «EF-verifisering» menes en framgangsmåte utført av søkeren i henhold til [§ 4-6](forskrift/2021-09-09-2742/§4-6), med sikte på å dokumentere at kravene i det relevante EU-regelverket og eventuelle relevante nasjonale regler som gjelder for et delsystem, er oppfylt, og at delsystemet kan få tillatelse til å tas i bruk.
+
+2.*Verifiseringssertifikat utstedt av et meldt organ*
+
+2.1
 
 Innledning
 
@@ -775,15 +909,23 @@ I henhold til dette direktiv er verifisering på grunnlag av TSI-er framgangsmå
 
 Dette berører ikke søkerens plikt til å overholde andre gjeldende unionsrettsakter og eventuell verifisering foretatt av vurderingsorganene i henhold til andre regler.
 
+2.2
+
 Attest for mellomliggende verifisering
+
+2.2.1
 
 Prinsipper
 
 På forespørsel fra søkeren kan verifiseringene utføres for deler av et delsystem, eller de kan begrenses til bestemte faser i framgangsmåten for verifisering. I slike tilfeller kan resultatene av verifisering dokumenteres i en attest for mellomliggende verifisering som utstedes av det meldte organet som er valgt av søkeren. I attesten for mellomliggende verifisering skal det vises til TSI-ene som det er vurdert om det foreligger samsvar med.
 
+2.2.2
+
 Deler av delsystemet
 
 Søkeren kan søke om en attest for mellomliggende verifisering for enhver del vedkommende beslutter å dele inn delsystemet i. Hver del skal kontrolleres i hver fase som beskrevet i nr. 2.2.3.
+
+2.2.3
 
 Faser av verifiseringen
 
@@ -791,31 +933,55 @@ Delsystemet, eller bestemte deler av delsystemet, skal kontrolleres i hver av f�
 
 Søkeren kan søke om en attest for mellomliggende verifisering når det gjelder prosjekteringsfasen (herunder typeprøvingene) og produksjonsfasen for hele delsystemet, eller for enhver del søkeren beslutter å dele det inn i (se nr. 2.2.2).
 
+2.3
+
 Verifiseringssertifikat
+
+2.3.1
 
 De tekniske kontrollorganene som er ansvarlige for verifiseringen, vurderer prosjekteringen, produksjonen og den endelige prøvingen av delsystemet og utarbeider verifiseringssertifikatet beregnet på søkeren, som i sin tur skal utarbeide EF-verifiseringserklæringen. I verifiseringssertifikatet skal det vises til TSI-ene som det er vurdert om det foreligger samsvar med.
 
 Dersom det ikke er vurdert om et delsystem er i samsvar med alle relevante TSI-er (f.eks. ved unntak, delvis anvendelse av TSI-ene ved oppgradering eller fornying, en overgangsperiode i en TSI eller i et særtilfelle), skal verifiseringssertifikatet inneholde en nøyaktig henvisning til den eller de TSI-ene eller de delene av TSI-ene som det meldte organet under framgangsmåten for verifiseringen ikke har undersøkt om det foreligger samsvar med.
 
+2.3.2
+
 Dersom det er utstedt attester for mellomliggende verifisering, skal det meldte organet som er ansvarlig for verifiseringen av delsystemet, ta hensyn til disse attestene, og før det utsteder verifiseringssertifikatet:forsikre seg om at attestene for mellomliggende verifisering oppfyller de relevante kravene i TSI-ene,kontrollere alle forhold som ikke omfattes av attestene for mellomliggende verifisering, ogkontrollere den endelige prøvingen av delsystemet som helhet.
+
+2.3.3
 
 Når det gjelder en endring av et delsystem som allerede omfattes av et verifiseringssertifikat, skal det meldte organet utføre bare de undersøkelsene og prøvingene som er relevante og nødvendige, dvs. at vurderingen bare skal gjelde de delene av delsystemet som er endret samt deres grensesnitt mot uendrede deler av delsystemet.
 
+2.3.4
+
 Hvert meldt organ som deltar i verifiseringen av et delsystem, skal utarbeide dokumentasjon i samsvar med [§ 4-6](forskrift/2021-09-09-2742/§4-6) tredje ledd som dekker virkeområdet for deres virksomhet.
+
+2.4
 
 Teknisk dokumentasjon vedlagt EF-verifiseringserklæringen
 
 Den tekniske dokumentasjonen som er vedlagt EF-verifiseringserklæringen, skal settes sammen av søkeren og inneholde følgende:opplysninger om de tekniske egenskapene knyttet til prosjekteringen, herunder helhetlige og detaljerte tegninger som svarer til utførelsen, elektriske og hydrauliske diagrammer, styrekretsskjemaer, beskrivelser av databehandlingssystemet og automatiske systemer, i slik detalj at det er tilstrekkelig til å dokumentere den samsvarskontrollen som er utført, drifts- og vedlikeholdshåndbøker osv. som er relevante for det aktuelle delsystemet,en liste over delsystemets samtrafikkomponenter, nevnt i artikkel 4 nr. 3 bokstav d) i direktiv [(EU) 2016/797](eu/32016l0797),dokumentasjon nevnt i artikkel [§ 4-6](forskrift/2021-09-09-2742/§4-6) tredje ledd, satt sammen av hvert av de meldte organene som deltar i verifiseringen av delsystemet, som skal inneholde:kopier av EF-verifiseringserklæringene og eventuelt EF-erklæringene om bruksegnethet som er utarbeidet for samtrafikkomponentene nevnt i artikkel 4 nr. 3 bokstav d. i direktiv [(EU) 2016/797](eu/32016l0797), eventuelt vedlagt tilhørende beregninger og en kopi av rapportene om prøvinger og undersøkelser foretatt av de meldte organene på grunnlag av de felles tekniske spesifikasjonene,eventuelle attester for mellomliggende verifisering som følger med verifiseringssertifikatet, herunder resultatet av det meldte organets kontroll av attestenes gyldighet,verifiseringssertifikatet vedlagt tilhørende beregninger og undertegnet av det meldte organet med ansvar for verifiseringen, der det bekreftes at delsystemet oppfyller kravene i den eller de relevante TSI-ene og der eventuelle forbehold som er tatt under utførelsen av arbeidet og ikke er trukket tilbake, oppgis; verifiseringssertifikatet skal også være vedlagt de inspeksjons- og kontrollrapportene som nevnte organ har utarbeidet som del av sin oppgave, som angitt i nr. 2.5.2 og 2.5.3verifiseringssertifikater utstedt i samsvar med andre unionsrettsakter,dersom det kreves sikker integrering i samsvar med [§ 5-5](forskrift/2021-09-09-2742/§5-5) og [§ 6-3](forskrift/2021-09-09-2742/§6-3) annet ledd, skal den relevante tekniske dokumentasjonen inneholde vurderingsrapporten(e) om de felles sikkerhetsmetodene for risikovurdering nevnt i artikkel 6 nr. 3 i direktiv [2004/49/EF](eu/32004l0049).
 
+2.5
+
 Tilsyn ved meldte organer
+
+2.5.1
 
 Det meldte organet som har ansvaret for å kontrollere framstillingen, skal hele tiden ha adgang til byggeplasser, produksjonsanlegg, lagerområder og eventuelt prefabrikkerings- eller prøvingsanlegg og i sin alminnelighet til ethvert sted det anser som nødvendig for å utføre sin oppgave. Det meldte organet skal motta fra søkeren alle nødvendige dokumenter for dette formål, særlig gjennomføringsplaner og teknisk dokumentasjon for delsystemet.
 
+2.5.2
+
 Det meldte organet som har ansvaret for å kontrollere gjennomføringen skal jevnlig foreta kontroller for å bekrefte samsvar med de relevante TSI-ene. Det meldte organet skal gi de ansvarlige for gjennomføringen en kontrollrapport. Det kan være nødvendig at meldt organ er til stede under visse faser av byggearbeidet.
+
+2.5.3
 
 Det meldte organet kan dessuten foreta uanmeldte besøk på byggeplassen eller i produksjonslokalene. Under slike besøk kan det meldte organet foreta fullstendige eller delvise kontroller. Organet skal gi de ansvarlige for gjennomføringen en inspeksjonsrapport og eventuelt en kontrollrapport.
 
+2.5.4
+
 Det meldte organet skal kunne føre tilsyn med et delsystem der en samtrafikkomponent er montert, for å kunne vurdere dets bruksegnethet i det jernbanemiljøet der det er ment å inngå, dersom dette kreves i henhold til den relevante TSI-en.
+
+2.6
 
 Deponering
 
@@ -823,17 +989,27 @@ Søkeren skal oppbevare en kopi av den tekniske dokumentasjonen som følger med 
 
 Dokumentasjon som deponeres for en søknad om tillatelse til ibruktaking, skal deponeres hos den myndigheten der det søkes om tillatelse. Statens jernbanetilsyn kan be om at en eller flere deler av dokumentene som deponeres sammen med tillatelsen oversettes til myndighetens eget språk.
 
+2.7
+
 Offentliggjøring
 
 Hvert meldte organ skal jevnlig offentliggjør relevante opplysninger om:mottatte søknader om verifisering og attester for mellomliggende verifisering,søknader om samsvarsvurdering og vurdering av bruksegnethet for samtrafikkomponenter,utstedte eller avslåtte attester for midlertidig verifisering,utstedte eller avslåtte verifiseringssertifikater og EF-sertifikater for bruksegnethet,utstedte eller avslåtte verifiseringssertifikater.
+
+2.8
 
 Språk
 
 Dokumentasjonen og korrespondansen om framgangsmåten for EF-verifisering skal skrives på et offisielt EU-språk i den medlemsstaten der søkeren er etablert eller på et offisielt EU-språk som søkeren godtar.
 
+3.*Verifiseringssertifikat utstedt av et utpekt organ*
+
+3.1
+
 Innledning
 
 Dersom nasjonale regler får anvendelse, skal verifiseringen omfatte en framgangsmåte der organet utpekt i henhold til forskrift om meldermyndighet og samsvarsvurderingsorganer [§ 6-1](forskrift/2021-09-09-2742/§6-1) kontrollerer og attesterer at delsystem er i samsvar med de nasjonale reglene som er meldt i samsvar med samtrafikkforskriften § 4-3, for hver medlemsstat der det er beregnet at delsystemet skal få tillatelse til ibruktaking.
+
+3.2
 
 Verifiseringssertifikat
 
@@ -843,13 +1019,19 @@ Sertifikatet skal inneholde en nøyaktig henvisning til den eller de nasjonale r
 
 Når det gjelder nasjonale regler som gjelder de delsystemene et kjøretøy består av, skal det utpekte organet dele sertifikatet i to deler, der en del viser til de nasjonale reglene som utelukkende gjelder den tekniske forenligheten mellom kjøretøyet og det aktuelle jernbanenettet, og den andre delen til alle øvrige nasjonale regler.
 
+3.3
+
 Dokumentasjon
 
 Dokumentasjonen som er satt sammen av det utpekte organet og er vedlagt verifiseringssertifikatet når nasjonale regler får anvendelse, skal inngå i den tekniske dokumentasjonen som følger EF-verifiseringserklæringen nevnt i nr. 2.4, og inneholde de tekniske dataene som er relevante for vurderingen av delsystemets samsvar med disse nasjonale reglene.
 
+3.4
+
 Språk
 
 Dokumentasjonen og korrespondansen om framgangsmåten for EF-verifisering skal skrives på et offisielt EU-språk i den medlemsstaten der søkeren er etablert, eller på et offisielt EU-språk som søkeren godtar.
+
+4.*Verifisering av deler av delsystemer i samsvar med [§ 4-6](forskrift/2021-09-09-2742/§4-6) femte ledd annet punktum*
 
 Dersom et verifiseringssertifikat skal utstedes for visse deler av et delsystem, skal bestemmelsene i dette vedlegget få tilsvarende anvendelse for disse delene.
 

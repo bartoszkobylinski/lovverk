@@ -35,3 +35,5 @@ eu_basis: []
 Bestemmelsene trer i kraft 1. januar 2018.
 
 Fra samme tidspunkt oppheves kongelig resolusjon 10. juni 19831 om erstatning til statstilsatte ved skade på eller tap av private eiendeler i forbindelse med tjenesten.
+
+1 Ikke kunngjort i Norsk Lovtidend.

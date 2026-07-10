@@ -88,6 +88,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 
 Kongen bestemmer om og i hvilken utstrekning bestemmelser som er gitt i eller i medhold av denne lov skal gjelde for Svalbard.
 
+1 Fra 1 jan 1994 iflg. [res. 12 nov 1993 nr. 1023](forskrift/1993-11-12-1023).
+
 ## § 8. Endring i andre lover.
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

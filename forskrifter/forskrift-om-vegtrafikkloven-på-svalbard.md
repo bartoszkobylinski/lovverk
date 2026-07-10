@@ -26,6 +26,8 @@ eu_basis: []
 
 For Svalbard fastsettes følgende endringer i vegtrafikkloven og i forskrifter gitt i medhold av loven:
 
+*Til loven § 4:*
+
 Forskrift med hjemmel i første ledd om konkurransekjøring på veg åpen for alminnelig ferdsel gjelder ikke. Forskrift med hjemmel i første ledd om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
 
 Annet ledd gjelder ikke.
@@ -34,9 +36,13 @@ I tillegg gjelder:
 
 Departementet eller Sysselmesteren kan gi særlige trafikkbestemmelser for Svalbard.
 
+*Til loven § 5:*
+
 I tillegg til tredje ledd gjelder:
 
 Utgift til offentlig trafikkskilt kan kreves dekket av den som er ansvarlig for vegstrekningen.
+
+*Til loven § 6:*
 
 Forskrift med hjemmel i fjerde ledd om hastighetsgrenser ved prøving av bremser gjelder ikke. Forskrift med hjemmel i fjerde ledd om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
 
@@ -44,25 +50,45 @@ I tillegg til fjerde ledd gjelder:
 
 Sysselmesteren kan for bestemte steder eller bestemte strekninger fastsette særskilt fartsgrense for kjøring med beltemotorsykkel.
 
+*Til loven § 7 og § 8:*
+
 Gjelder ikke.
+
+*Til loven § 11:*
 
 Forskrift med hjemmel i paragraf 11 om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel gjelder ikke.
 
+*Til loven § 13:*
+
 Tredje ledd gjelder ikke.
 
+*Til loven § 13, § 19, § 19a, § 26, § 27 og § 43:*
+
 [Forskrift 6. august 2012 nr. 795](forskrift/2012-08-06-795) om godkjenning av yrkeskvalifikasjoner fra annen EØS-stat på vegtrafikkloven område gjelder ikke.
+
+*Til loven [§ 15](forskrift/2012-08-06-795/§15):*
 
 I tillegg til forskrift med hjemmel i første ledd om bruk av kjøretøy § 2-5 nr. 2 bokstav a gjelder:
 
 Kjøretøy som bare skal nyttes på Svalbard, registreres med kjennemerke med lysegule tegn på sort bunn.
 
+*Til loven [§ 18](forskrift/2012-08-06-795/§18)*:
+
 [Forskrift 30. mai 2018 nr. 777](forskrift/2018-05-30-777) om alkolås, alkolåsverksteder mv. gjelder ikke.
+
+*Til loven § 20:*
 
 Forskrift med hjemmel blant annet i denne paragraf om trekking av uregistrerte belgiske, britiske og nederlandske semitrailere i internasjonal trafikk i Norge med norsk trekkvogn gjelder ikke.
 
+*Til loven § 21:*
+
 Annet ledd gjelder ikke.
 
+*Til loven § 24 og § 29:*
+
 [Forskrift 16. april 2008 nr. 362](forskrift/2008-04-16-362) om grunnutdanning og etterutdanning for yrkessjåfører (yrkessjåførforskriften) gjelder ikke.
+
+*Til loven § 24, § 26, § 27 og § 30*:
 
 [Forskrift 12. juni 2009 nr. 637 om krav til opplæring, prøve og kompetanse for utrykningskjøring](forskrift/2009-06-12-637) gjelder ikke.
 
@@ -144,17 +170,31 @@ I stedet for [forskrift om trafikkopplæring og førerprøve § 29-1](forskrift/
 
 På Svalbard kan det bare avlegges førerprøve i klasse S. Det kan avlegges praktisk prøve i stedet for teoriprøve. Hvis praktisk prøve avlegges etter 30. juni 2006 gir den kun førerett på Svalbard. Praktisk prøve avvikles på den måten Statens vegvesen finner mest hensiktsmessig.
 
+*Til loven § 31:*
+
 Femte ledd gjelder ikke.
+
+*Til loven § 31a:*
 
 Annet ledd gjelder ikke.
 
-Gjelder ikke.
+*Til loven § 32:*
 
 Gjelder ikke.
+
+*Til loven § 36a og § 36b:*
+
+Gjelder ikke.
+
+*Til loven § 37:*
 
 Annet og tredje ledd gjelder ikke.
 
+*Til loven § 40a og § 40b:*
+
 Gjelder ikke.
+
+*Til loven § 42:*
 
 Gjelder ikke.
 

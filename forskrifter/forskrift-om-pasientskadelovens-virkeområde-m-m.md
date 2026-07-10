@@ -112,9 +112,35 @@ Den som er ansvarlig for å betale tilskudd til Norsk Pasientskadeserstatning, s
 
 ## § 10. Tilskuddssatser og risikoklasser
 
-Tabellen nedenfor viser hvilken tilskuddssats (NOK) Norsk Pasientskadeerstatning skal legge til grunn per årsverk for hver risikoklasse av helsepersonell ved fastsettelse av tilskudd etter [§ 5](forskrift/2008-10-31-1166/§5).*År**Øvrig helsepersonell**Tannleger**Leger**1**2**4**5**6a**6**7**9**9a*20205601 8506 90015 00024 20026 00056 000186 000243 00020215601 8506 90016 80024 20026 00060 000200 000261 00020225601 8506 90018 60024 20026 00064 000214 000280 00020235601 8506 90020 40024 20026 00068 000227 000298 00020245601 8506 90022  20024 20026 00070 000241 000317 00020255601 8506 90024 20026 40072 000247 000325 00020265601 8506 90024 20027 00074 000254 000334 00020275601 8506 90024 20027 80076 000261 000343 00020285601 8506 90024 20028 60078 000268 000353 00020295601 8506 90024 20029 40080 000275 000362 000
+Tabellen nedenfor viser hvilken tilskuddssats (NOK) Norsk Pasientskadeerstatning skal legge til grunn per årsverk for hver risikoklasse av helsepersonell ved fastsettelse av tilskudd etter [§ 5](forskrift/2008-10-31-1166/§5).
 
-Plassering av helsepersonell i risikoklasser:*Risikoklasser**Helsepersonellgruppe*1Ambulansearbeider, apotektekniker, bioingeniør, ergoterapeut, fotterapeut, helsefagarbeider, helsesekretær, hjelpepleier, klinisk ernæringsfysiolog, omsorgsarbeider, ortoptist, provisorfarmasøyt, reseptarfarmasøyt, sykepleier, tannhelsesekretær, tannpleier, tanntekniker, vernepleier, audiograf, radiograf, perfusjonist2Alt helsepersonell i bedriftshelsetjenesten, fysioterapeut, optiker, ortopediingeniør, psykolog, jordmor, naprapat, osteopat, manuellterapeut4Kiropraktor, paramedisiner5Øvrige tannleger6Øvrige leger6aTannlegespesialist innen oral kirurgi/medisin og protetikk samt tannleger som driver med implantat7Øvrige legespesialister9Øyespesialister9aKirurger
+| *År* | *Øvrig helsepersonell* |  |  | *Tannleger* |  | *Leger* |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *1* | *2* | *4* | *5* | *6a* | *6* | *7* | *9* | *9a* |
+| 2020 | 560 | 1 850 | 6 900 | 15 000 | 24 200 | 26 000 | 56 000 | 186 000 | 243 000 |
+| 2021 | 560 | 1 850 | 6 900 | 16 800 | 24 200 | 26 000 | 60 000 | 200 000 | 261 000 |
+| 2022 | 560 | 1 850 | 6 900 | 18 600 | 24 200 | 26 000 | 64 000 | 214 000 | 280 000 |
+| 2023 | 560 | 1 850 | 6 900 | 20 400 | 24 200 | 26 000 | 68 000 | 227 000 | 298 000 |
+| 2024 | 560 | 1 850 | 6 900 | 22  200 | 24 200 | 26 000 | 70 000 | 241 000 | 317 000 |
+| 2025 | 560 | 1 850 | 6 900 | 24 200 |  | 26 400 | 72 000 | 247 000 | 325 000 |
+| 2026 | 560 | 1 850 | 6 900 | 24 200 |  | 27 000 | 74 000 | 254 000 | 334 000 |
+| 2027 | 560 | 1 850 | 6 900 | 24 200 |  | 27 800 | 76 000 | 261 000 | 343 000 |
+| 2028 | 560 | 1 850 | 6 900 | 24 200 |  | 28 600 | 78 000 | 268 000 | 353 000 |
+| 2029 | 560 | 1 850 | 6 900 | 24 200 |  | 29 400 | 80 000 | 275 000 | 362 000 |
+
+Plassering av helsepersonell i risikoklasser:
+
+| *Risikoklasser* | *Helsepersonellgruppe* |
+| --- | --- |
+| 1 | Ambulansearbeider, apotektekniker, bioingeniør, ergoterapeut, fotterapeut, helsefagarbeider, helsesekretær, hjelpepleier, klinisk ernæringsfysiolog, omsorgsarbeider, ortoptist, provisorfarmasøyt, reseptarfarmasøyt, sykepleier, tannhelsesekretær, tannpleier, tanntekniker, vernepleier, audiograf, radiograf, perfusjonist |
+| 2 | Alt helsepersonell i bedriftshelsetjenesten, fysioterapeut, optiker, ortopediingeniør, psykolog, jordmor, naprapat, osteopat, manuellterapeut |
+| 4 | Kiropraktor, paramedisiner |
+| 5 | Øvrige tannleger |
+| 6 | Øvrige leger |
+| 6a | Tannlegespesialist innen oral kirurgi/medisin og protetikk samt tannleger som driver med implantat |
+| 7 | Øvrige legespesialister |
+| 9 | Øyespesialister |
+| 9a | Kirurger |
 
 Fra og med 2025 skal alle tannleger være i risikoklasse 5.
 

@@ -26,9 +26,9 @@ eu_basis: []
 
 ### § 1
 
-1. Rettskraftig avgjørelse om et privatrettslig krav som i sivil sak eller straffesak er truffet av dansk, finsk, islandsk eller svensk domstol, har bindende virkning i Norge når ikke annet følger av reglene i [§§ 7](lov/1977-06-10-71/§7) og 8.
+1\. Rettskraftig avgjørelse om et privatrettslig krav som i sivil sak eller straffesak er truffet av dansk, finsk, islandsk eller svensk domstol, har bindende virkning i Norge når ikke annet følger av reglene i [§§ 7](lov/1977-06-10-71/§7) og 8.
 
-2. Ved avgjørelse forstås i denne lov bare avgjørelsen av selve det krav eller rettsforhold som er sakens gjenstand, med mindre annet følger av [§ 5](lov/1977-06-10-71/§5) første ledd.
+2\. Ved avgjørelse forstås i denne lov bare avgjørelsen av selve det krav eller rettsforhold som er sakens gjenstand, med mindre annet følger av [§ 5](lov/1977-06-10-71/§5) første ledd.
 
 ### § 2
 
@@ -50,11 +50,11 @@ Det samme gjelder:Forlik om et privatrettslig krav som er inngått for domstol e
 
 ### § 5
 
-1. Rettslige og administrative avgjørelser, herunder midlertidige avgjørelser, som er truffet i Danmark, Finland, Island eller Sverige om foreldremyndighet over barn, om rett til personlig samvær med barn eller om overlevering av barn i annet høve, og som kan være grunnlag for fullbyrding i opphavsstaten, skal på begjæring fullbyrdes her. Det kreves ikke at avgjørelsen er rettskraftig. Det samme gjelder forlik som er inngått for en domstol og avtaler som er godkjent av en administrativ myndighet i nevnte land.
+1\. Rettslige og administrative avgjørelser, herunder midlertidige avgjørelser, som er truffet i Danmark, Finland, Island eller Sverige om foreldremyndighet over barn, om rett til personlig samvær med barn eller om overlevering av barn i annet høve, og som kan være grunnlag for fullbyrding i opphavsstaten, skal på begjæring fullbyrdes her. Det kreves ikke at avgjørelsen er rettskraftig. Det samme gjelder forlik som er inngått for en domstol og avtaler som er godkjent av en administrativ myndighet i nevnte land.
 
-2. Avgjørelser, forlik og avtaler som strider mot avgjørelser som er truffet eller forlik som er inngått her i landet, kan bare fullbyrdes her, dersom de førstnevnte skal gjelde etter særlige regler om det.
+2\. Avgjørelser, forlik og avtaler som strider mot avgjørelser som er truffet eller forlik som er inngått her i landet, kan bare fullbyrdes her, dersom de førstnevnte skal gjelde etter særlige regler om det.
 
-3. Reglene i første ledd gjelder ikke avgjørelser som er truffet av fullbyrdingsmyndighet eller som helse- og sosialstyret eller annen myndighet har truffet etter vedkommende stats lovgivning om det offentlige barne- og ungdomsvern eller dermed likestilt omsorg.
+3\. Reglene i første ledd gjelder ikke avgjørelser som er truffet av fullbyrdingsmyndighet eller som helse- og sosialstyret eller annen myndighet har truffet etter vedkommende stats lovgivning om det offentlige barne- og ungdomsvern eller dermed likestilt omsorg.
 
 > Endret ved [lov 12 juni 1987 nr. 70](lov/1987-06-12-70).
 
@@ -68,9 +68,9 @@ Avgjørelse som går ut på betaling av penger, og som etter loven her kan få b
 
 ### § 7
 
-1. Denne lov gjelder ikke:avgjørelse eller forlik om oppheving av formuesfellesskapet, separasjon, skilsmisse, omstøting av ekteskap, stiftelse eller oppheving av adopsjonsforhold, hel eller delvis fratakelse av rettslig handleevne eller endring av vedtak om dette, eller om deling av formue eller erstatning i forbindelse med separasjon, skilsmisse eller omstøting av ekteskap, for så vidt gjelder fullbyrding får loven dog anvendelse på avgjørelse som har bindende virkning her i landet etter artikkel 22 i konvensjon 6 februar 1931 mellom Danmark, Finland, Island, Norge og Sverige angående internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål,avgjørelse eller forlik om foreldremyndighet over barn, om rett til personlig samvær med barn eller om overlevering av barn i annet høve, med mindre annet følger av [§ 5](lov/1977-06-10-71/§5),avgjørelse eller forlik om familierettslig underholdsplikt,avgjørelse eller forlik om slektskap,avgjørelse eller forlik om rett til arv eller legat, gjenlevende ektefelles rettigheter, dødsboskifte eller ansvar for en arvelaters gjeld, med mindre avdøde var statsborger i Danmark, Finland, Island, Norge eller Sverige og bosatt i en av disse stater,avgjørelse eller forlik om konkursbehandling eller offentlig akkordforhandling, omstøting eller tilsidesetting av rettsstiftelser på grunn av konkurs, dersom ikkje avgjørelsen eller forliket gjelder omstøting eller tilsidesetting av rettsstiftelser på grunn av en konkurs som er åpnet i Danmark, Finland, Island, Norge eller Sverige, og retten ved åpningen av konkurs grunnet sin kompetanse på at skyldneren er eller ved sin død var bosatt i landet, eller at et selskap, et samvirkeforetak, en forening eller en stiftelse hadde sitt sete i landet.avgjørelse eller forlik i sak som skal bringes inn direkte for de særlige domstoler som behandler spørsmål om kollektive avtaler i arbeidsforhold.
+1\. Denne lov gjelder ikke:avgjørelse eller forlik om oppheving av formuesfellesskapet, separasjon, skilsmisse, omstøting av ekteskap, stiftelse eller oppheving av adopsjonsforhold, hel eller delvis fratakelse av rettslig handleevne eller endring av vedtak om dette, eller om deling av formue eller erstatning i forbindelse med separasjon, skilsmisse eller omstøting av ekteskap, for så vidt gjelder fullbyrding får loven dog anvendelse på avgjørelse som har bindende virkning her i landet etter artikkel 22 i konvensjon 6 februar 1931 mellom Danmark, Finland, Island, Norge og Sverige angående internasjonal-privatrettslige bestemmelser om ekteskap, adopsjon og vergemål,avgjørelse eller forlik om foreldremyndighet over barn, om rett til personlig samvær med barn eller om overlevering av barn i annet høve, med mindre annet følger av [§ 5](lov/1977-06-10-71/§5),avgjørelse eller forlik om familierettslig underholdsplikt,avgjørelse eller forlik om slektskap,avgjørelse eller forlik om rett til arv eller legat, gjenlevende ektefelles rettigheter, dødsboskifte eller ansvar for en arvelaters gjeld, med mindre avdøde var statsborger i Danmark, Finland, Island, Norge eller Sverige og bosatt i en av disse stater,avgjørelse eller forlik om konkursbehandling eller offentlig akkordforhandling, omstøting eller tilsidesetting av rettsstiftelser på grunn av konkurs, dersom ikkje avgjørelsen eller forliket gjelder omstøting eller tilsidesetting av rettsstiftelser på grunn av en konkurs som er åpnet i Danmark, Finland, Island, Norge eller Sverige, og retten ved åpningen av konkurs grunnet sin kompetanse på at skyldneren er eller ved sin død var bosatt i landet, eller at et selskap, et samvirkeforetak, en forening eller en stiftelse hadde sitt sete i landet.avgjørelse eller forlik i sak som skal bringes inn direkte for de særlige domstoler som behandler spørsmål om kollektive avtaler i arbeidsforhold.
 
-2. Loven gjelder heller ikke for nordiske dommer m.v. som anerkjennes og fullbyrdes her i riket etter Luganokonvensjonen 2007 og heller ikke for så vidt annet følger av regler om anerkjennelse og fullbyrding i særlige forhold.
+2\. Loven gjelder heller ikke for nordiske dommer m.v. som anerkjennes og fullbyrdes her i riket etter Luganokonvensjonen 2007 og heller ikke for så vidt annet følger av regler om anerkjennelse og fullbyrding i særlige forhold.
 
 > Endret ved [lover 8 jan 1993 nr. 21](lov/1993-01-08-21), [29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), [19 juni 2009 nr. 79](lov/2009-06-19-79) (ikr. 1 jan 2010 iflg. [res. 16 okt 2009 nr. 1279](forskrift/2009-10-16-1279)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338)) som endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
 
@@ -84,27 +84,27 @@ Reglene om anerkjennelse og fullbyrding gjelder ikke:Når grunnlaget for avgjør
 
 ### § 9
 
-1. Begjæring om fullbyrding rettes til tingretten.
+1\. Begjæring om fullbyrding rettes til tingretten.
 
-2. Med begjæring om fullbyrding skal følge avskrift av avgjørelsen bekreftet av vedkommende myndighet samt bevis for at avgjørelsen er rettskraftig. Er avgjørelsen ikke rettskraftig, skal isteden følge med bevis for at avgjørelsen er tvangskraftig.
+2\. Med begjæring om fullbyrding skal følge avskrift av avgjørelsen bekreftet av vedkommende myndighet samt bevis for at avgjørelsen er rettskraftig. Er avgjørelsen ikke rettskraftig, skal isteden følge med bevis for at avgjørelsen er tvangskraftig.
 
-3. Når det begjæres fullbyrding av forlik, skal det legges fram bekreftet avskrift av forliket og bevis for at forliket kan kreves fullbyrdet i opphavsstaten.
+3\. Når det begjæres fullbyrding av forlik, skal det legges fram bekreftet avskrift av forliket og bevis for at forliket kan kreves fullbyrdet i opphavsstaten.
 
-4. Med begjæring om fullbyrding av utenrettslig forlik eller gjeldsbrev som nevnt i [§ 4](lov/1977-06-10-71/§4) annet ledd bokstav b, skal følge dokumentet i original og bekreftelse fra det danske justisministerium om at fordringen i Danmark ville kunne inndrives hos skyldneren uten søksmål.
+4\. Med begjæring om fullbyrding av utenrettslig forlik eller gjeldsbrev som nevnt i [§ 4](lov/1977-06-10-71/§4) annet ledd bokstav b, skal følge dokumentet i original og bekreftelse fra det danske justisministerium om at fordringen i Danmark ville kunne inndrives hos skyldneren uten søksmål.
 
-5. Med begjæring om fullbyrdelse av avgjørelse, forlik og avtale som omfattes av [§ 5](lov/1977-06-10-71/§5) skal følge bekreftet avskrift av dokumentet og bevis for at det kan være grunnlag for fullbyrding i opphavsstaten.
+5\. Med begjæring om fullbyrdelse av avgjørelse, forlik og avtale som omfattes av [§ 5](lov/1977-06-10-71/§5) skal følge bekreftet avskrift av dokumentet og bevis for at det kan være grunnlag for fullbyrding i opphavsstaten.
 
-6. Med dokumenter som er skrevet på andre språk enn dansk, norsk og svensk skal følge bekreftet omsetting til et av disse språk, med mindre fullbyrdingsmyndigheten bestemmer noe annet.
+6\. Med dokumenter som er skrevet på andre språk enn dansk, norsk og svensk skal følge bekreftet omsetting til et av disse språk, med mindre fullbyrdingsmyndigheten bestemmer noe annet.
 
-7. Kongen kan gi forskrifter om bevis og andre dokumenter som kan kreves etter paragrafen her.
+7\. Kongen kan gi forskrifter om bevis og andre dokumenter som kan kreves etter paragrafen her.
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
 
 ### § 10
 
-1. Beslutning om hvorvidt fullbyrding skal skje, fattes uten at saksøkte høres. Kan det skje uten skadelig forhaling, kan han likevel etter omstendighetene få adgang til å uttale seg.
+1\. Beslutning om hvorvidt fullbyrding skal skje, fattes uten at saksøkte høres. Kan det skje uten skadelig forhaling, kan han likevel etter omstendighetene få adgang til å uttale seg.
 
-2. Ved begjæring om fullbyrding av utenrettslig forlik eller gjeldsbrev som nevnt i [§ 4](lov/1977-06-10-71/§4) annet ledd bokstav b, skal saksøkte få adgang til å uttale seg, om ikke særlige grunner taler mot det. Inneholder et utenrettslig dokument bestemmelse om kostnadene ved gjennomføringen av kravet, kan beløpet nedsettes under fullbyrdingen dersom namsmyndighetene finner det uforholdsmessig høyt.
+2\. Ved begjæring om fullbyrding av utenrettslig forlik eller gjeldsbrev som nevnt i [§ 4](lov/1977-06-10-71/§4) annet ledd bokstav b, skal saksøkte få adgang til å uttale seg, om ikke særlige grunner taler mot det. Inneholder et utenrettslig dokument bestemmelse om kostnadene ved gjennomføringen av kravet, kan beløpet nedsettes under fullbyrdingen dersom namsmyndighetene finner det uforholdsmessig høyt.
 
 ### § 11
 
@@ -120,17 +120,19 @@ Reises søksmål for norsk domstol, og søksmål om samme krav mellom de samme p
 
 ### § 13
 
-1. Norske rettskraftige avgjørelser m.m. kan begjæres anerkjent og fullbyrdet i Danmark, Finland, Island og Sverige i samsvar med lovgivningen herom i disse land.
+1\. Norske rettskraftige avgjørelser m.m. kan begjæres anerkjent og fullbyrdet i Danmark, Finland, Island og Sverige i samsvar med lovgivningen herom i disse land.
 
-2. Kongen kan gi forskrifter om framgangsmåten her i riket ved begjæring om fullbyrding i annet nordisk land, herunder om bevis og attester som måtte kreves i fullbyrdingslandet, samt om hvem begjæring om fullbyrding skal rettes til i annet nordisk land.
+2\. Kongen kan gi forskrifter om framgangsmåten her i riket ved begjæring om fullbyrding i annet nordisk land, herunder om bevis og attester som måtte kreves i fullbyrdingslandet, samt om hvem begjæring om fullbyrding skal rettes til i annet nordisk land.
 
 ## Ikrafttredelse m.m.
 
 ### § 14
 
-1. Denne lov trer i kraft fra den tid1 Kongen bestemmer. Loven kan settes i kraft særskilt i forhold til ett eller flere av de nordiske land.
+1\. Denne lov trer i kraft fra den tid1 Kongen bestemmer. Loven kan settes i kraft særskilt i forhold til ett eller flere av de nordiske land.
 
-2. Den får ikke anvendelse på avgjørelse som er truffet eller forlik som er inngått før lovens ikrafttredelse.
+2\. Den får ikke anvendelse på avgjørelse som er truffet eller forlik som er inngått før lovens ikrafttredelse.
+
+1 Fra 1 jan 1978 i forhold til Danmark, Finland og Sverige, iflg. res. 2 des 1977. Om eldre dommer og forholdet til Island se note 1 til konvensjon 16 mars 1932 foran.
 
 ### § 15
 

@@ -172,15 +172,121 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 ### Vedlegg I til Vedlegg A
 
+Internettsider for informasjon om kompetente myndigheter og adresse for å underrette EU-kommisjonen
+
+BELGIUM
+[https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
+
+BULGARIA
+[https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
+
+CZECHIA
+[https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+DENMARK
+[https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+
+GERMANY
+[https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
+
+ESTONIA
+[https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
+
+IRELAND
+[https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
+
+GREECE
+[https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN
+[https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
+
+FRANCE
+[https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+
+CROATIA
+[https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
+
+ITALY
+[https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
+
+CYPRUS
+[https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
+
+LATVIA
+[https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+LITHUANIA
+[https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+LUXEMBOURG
+[https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
+
+HUNGARY
+[https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
+
+MALTA
+[https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
+
+NETHERLANDS
+[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+
+AUSTRIA
+[https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
+
+POLAND
+[https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
+[https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
+
+PORTUGAL
+[https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+
+ROMANIA
+[https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+SLOVENIA
+[https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
+
+SLOVAKIA
+[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+
+FINLAND
+[https://um.fi/pakotteet](https://um.fi/pakotteet)
+
+SWEDEN
+[https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
+
+Address for notifications to the European Commission:
+
+European Commission
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+Rue de Spa 2
+1049 Brussels
+BELGIUM
+
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ### Vedlegg II til Vedlegg A
+
+Følgende varer er omfattet av begrepet «trekull»:
+
+| *HS Code* | *Description* |
+| --- | --- |
+| 4402 | Wood charcoal (including shell or nut charcoal), whether or not agglomerated |
 
 ### Vedlegg III til Vedlegg A
 
+Liste med varer nevnt i artikkel 3c
+
 1. Equipment and devices, not specified by item 3 in Annex IV to Council Decision [2010/231/CFSP](eu/32010d0231), that are specially designed to initiate explosives by electrical or non-electrical means (e.g. firing sets, detonators, igniters, detonating chord).
 2. ‘Technology’ ‘required’ for the ‘production’ or ‘use’ of the items listed at paragraphs 1 and 3. (The definitions of the terms ‘technology’, ‘required’, ‘production’ and ‘use’ are from the Common Military List of the European Union)
-3. Explosive materials and precursors, as follows, and mixtures containing one or more thereof: *Name of the substance**Chemical Abstracts Service Registry number (CAS RN)**Combined Nomenclature (CN) code [1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)*Nitroglycerin (except when packaged/prepared in individual medicinal doses) unless compounded or mixed with the ‘energetic material’ specified by ML8.a. or powdered metals specified by ML8.c. of the EU Common Military List55-63-0ex 2920 90 70Nitric acid7697-37-2ex 28 08Sulphuric acid7664-93-9ex 28 07
+3. Explosive materials and precursors, as follows, and mixtures containing one or more thereof: *Name of the substance* *Chemical Abstracts Service Registry number (CAS RN)* *Combined Nomenclature (CN) code [1](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02003R0147-20240320)* Nitroglycerin (except when packaged/prepared in individual medicinal doses) unless compounded or mixed with the ‘energetic material’ specified by ML8.a. or powdered metals specified by ML8.c. of the EU Common Military List 55-63-0 ex 2920 90 70 Nitric acid 7697-37-2 ex 28 08 Sulphuric acid 7664-93-9 ex 28 07
+
+1 The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of [Council Regulation (EEC) No 2658/87](eu/31987r2658) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1) and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
 
 ### Vedlegg IV til Vedlegg A
+
+Liste med varer nevnt i artikkel 3 nr. 2 bokstav a
 
 1. Surface to air missiles, including Man-Portable Air-Defence Systems (MANPADS).
 2. Weapons with a calibre greater than 12,7 mm, and components specially designed for them, and associated ammunition. (This does not include shoulder fired anti-tank rocket launchers such as RPGs (rocket propelled grenades) or LAWs (light anti-tank weapon), recoilless rifles, rifle grenades, or grenade launchers.)
@@ -193,6 +299,8 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 9. Uncrewed combat aerial vehicles (listed as Category IV in the UN Register of Conventional Arms).
 
 ### Vedlegg V til Vedlegg A
+
+Liste med varer nevnt i artikkel 3 nr. 2 bokstav b
 
 1. All types of weapons with a calibre up to 12,7 mm, and associated ammunition.
 2. Type-7 rocket propelled grenades (RPG-7s), LAWs (light anti-tank weapons) and recoilless rifles, and associated ammunition.
@@ -299,6 +407,102 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 ### Vedlegg I til Vedlegg B
 
+Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2 og 8
+
 Liste over fysiske og juridiske personer, enheter og organer nevnt i artikkel 2 og 8, er tilgjengelig [her](https://main.un.org/securitycouncil/en/sanctions/2713/materials/summaries).
 
 ### Vedlegg II til Vedlegg B
+
+Internettsider for informasjon om kompetente myndigheter og adresse for å underrette EU-kommisjonen
+
+BELGIUM
+[https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
+
+BULGARIA
+[https://www.mfa.bg/en/EU-sanctions](https://www.mfa.bg/en/EU-sanctions)
+
+CZECHIA
+[https://www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+DENMARK
+[https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/)
+
+GERMANY
+[https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html](https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html)
+
+ESTONIA
+[https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid](https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid)
+
+IRELAND
+[https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/](https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/)
+
+GREECE
+[https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN
+[https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx](https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx)
+
+FRANCE
+[https://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+
+CROATIA
+[https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955](https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955)
+
+ITALY
+[https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/](https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/)
+
+CYPRUS
+[https://mfa.gov.cy/themes/](https://mfa.gov.cy/themes/)
+
+LATVIA
+[https://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+LITHUANIA
+[https://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+LUXEMBOURG
+[https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html](https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html)
+
+HUNGARY
+[https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato](https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato)
+
+MALTA
+[https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx](https://foreignandeu.gov.mt/en/Government/SMB/Pages/SMB-Home.aspx)
+
+NETHERLANDS
+[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+
+AUSTRIA
+[https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/](https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/)
+
+POLAND
+[https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe](https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe)
+[https://www.gov.pl/web/diplomacy/international-sanctions](https://www.gov.pl/web/diplomacy/international-sanctions)
+
+PORTUGAL
+[https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+
+ROMANIA
+[https://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+SLOVENIA
+[https://www.gov.si/teme/omejevalni-ukrepi/](https://www.gov.si/teme/omejevalni-ukrepi/)
+
+SLOVAKIA
+[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+
+FINLAND
+[https://um.fi/pakotteet](https://um.fi/pakotteet)
+
+SWEDEN
+[https://www.regeringen.se/sanktioner](https://www.regeringen.se/sanktioner)
+
+Address for notifications to the European Commission:
+
+European Commission
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+Rue de Spa 2
+1049 Brussels
+BELGIUM
+
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)

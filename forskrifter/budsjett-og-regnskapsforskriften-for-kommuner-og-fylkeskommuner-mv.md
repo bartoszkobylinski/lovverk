@@ -270,12 +270,20 @@ Inntektene, utgiftene, avsetningene og bruken av avsetninger i økonomiplanens d
 
 Eiendeler, egenkapital og gjeld skal stilles opp slik:
 
+*Eiendeler*
+
 1. AnleggsmidlerVarige driftsmidlerFaste eiendommer og anleggUtstyr, maskiner og transportmidlerFinansielle anleggsmidlerAksjer og andelerObligasjonerUtlånImmaterielle eiendelerPensjonsmidler
 2. OmløpsmidlerBankinnskudd og kontanterFinansielle omløpsmidlerAksjer og andelerObligasjonerSertifikaterDerivaterKortsiktige fordringerKundefordringerAndre kortsiktige fordringerPremieavvik
+
+Sum eiendeler
+
+*Egenkapital og gjeld*
 
 1. EgenkapitalEgenkapital driftDisposisjonsfondBundne driftsfondMerforbruk i driftsregnskapetEgenkapital investeringUbundet investeringsfondBundne investeringsfondUdekket beløp i investeringsregnskapetAnnen egenkapitalKapitalkontoPrinsippendringer som påvirker arbeidskapitalen driftPrinsippendringer som påvirker arbeidskapitalen investering
 2. Langsiktig gjeldLånGjeld til kredittinstitusjonerObligasjonslånSertifikatlånPensjonsforpliktelse
 3. Kortsiktig gjeldKortsiktig gjeldLeverandørgjeldLikviditetslånDerivaterAnnen kortsiktig gjeldPremieavvik
+
+Sum egenkapital og gjeld
 
 1. MemoriakontiUbrukte lånemidlerAndre memoriakontiMotkonto for memoriakontiene
 

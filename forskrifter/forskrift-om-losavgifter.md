@@ -138,7 +138,20 @@ Fartøyet skal alltid som et minimum betale for tre timer.
 
 Når fartøyet anløper for å ta ombord eller landsette passasjerer, laste eller losse eller for ordre, og skipsføreren anmoder losen om å vente, belastes timer på vanlig måte.
 
-Timesatsen er differensiert etter fartøyets størrelse på følgende måte:*Tonnasje**Timesats*Fra 0 til og med 1 000 BTkr 2 040,–Fra 1 001 til og med 2 000 BTkr 2 562,–Fra 2 001 til og med 4 000 BTkr 3 020,–Fra 4 001 til og med 8 000 BTkr 3 466,–Fra 8 001 til og med 12 000 BTkr 3 796,–Fra 12 001 til og med 20 000 BTkr 4 219,–Fra 20 001 til og med 30 000 BTkr 4 613,–Fra 30 001 til og med 50 000 BTkr 4 942,–Fra 50 001 til og med 100 000 BTkr 5 265,–Fra 100 001 BT og overkr 5 606,–
+Timesatsen er differensiert etter fartøyets størrelse på følgende måte:
+
+| *Tonnasje* | *Timesats* |
+| --- | --- |
+| Fra 0 til og med 1 000 BT | kr 2 040,– |
+| Fra 1 001 til og med 2 000 BT | kr 2 562,– |
+| Fra 2 001 til og med 4 000 BT | kr 3 020,– |
+| Fra 4 001 til og med 8 000 BT | kr 3 466,– |
+| Fra 8 001 til og med 12 000 BT | kr 3 796,– |
+| Fra 12 001 til og med 20 000 BT | kr 4 219,– |
+| Fra 20 001 til og med 30 000 BT | kr 4 613,– |
+| Fra 30 001 til og med 50 000 BT | kr 4 942,– |
+| Fra 50 001 til og med 100 000 BT | kr 5 265,– |
+| Fra 100 001 BT og over | kr 5 606,– |
 
 > Tilføyd ved [forskrift 28 des 2010 nr. 1825](forskrift/2010-12-28-1825) (i kraft 1 jan 2011), endret ved [forskrifter 22 des 2011 nr. 1490](forskrift/2011-12-22-1490) (i kraft 1 jan 2012), [21 des 2012 nr. 1422](forskrift/2012-12-21-1422) (i kraft 1 jan 2013), [20 des 2013 nr. 1652](forskrift/2013-12-20-1652) (i kraft 1 jan 2014), [19 des 2014 nr. 1795](forskrift/2014-12-19-1795) (i kraft 1 jan 2015), [21 des 2015 nr. 1793](forskrift/2015-12-21-1793) (i kraft 1 jan 2016), [22 des 2016 nr. 1862](forskrift/2016-12-22-1862) (i kraft 1 jan 2017), [21 des 2017 nr. 2356](forskrift/2017-12-21-2356) (i kraft 1 jan 2018), [19 des 2019 nr. 2028](forskrift/2019-12-19-2028) (i kraft 1 jan 2020), [21 des 2020 nr. 3088](forskrift/2020-12-21-3088) (i kraft 1 jan 2021), [28 feb 2022 nr. 301](forskrift/2022-02-28-301) (i kraft 1 mars 2022), [23 jan 2023 nr. 72](forskrift/2023-01-23-72) (i kraft 1 feb 2023), [26 jan 2024 nr. 118](forskrift/2024-01-26-118) (i kraft 1 feb 2024), [28 jan 2025 nr. 82](forskrift/2025-01-28-82) (i kraft 1 feb 2025), [10 des 2025 nr. 2583](forskrift/2025-12-10-2583) (i kraft 1 jan 2026 kl. 00.00).
 

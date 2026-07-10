@@ -50,7 +50,41 @@ Tilsynsmyndigheten kan ved særlige forhold gi dispensasjon fra denne forskrifte
 
 ### § 1-5. Definisjoner
 
+*Berøringsspenning (UT ):* del av potensialstigning ved jordfeil som kan påvirke en person ved at strømmen går gjennom kroppen fra hand til fot (horisontal avstand en meter fra utsatt del).
+
+*Elektrisk sjokk (elektrisk støt):* Virkning på kroppen som følge av elektrisk strøm gjennom et menneske eller dyr.
+
+*Høyspenningsinstallasjon:* anlegg med nominell spenning høyere enn 1000 V vekselspenning eller høyre enn 1500 V likespenning.
+
+*Jord:* det ledende jordsmonn hvis elektriske potensial pr. definisjon overalt blir betraktet lik null.
+
+*Jordfeilstrøm:* strøm som går fra faseleder til jord eller jordede deler på feilstedet.
+
 For enpolet jordfeil er dette:i system med isolert nøytralpunkt den kapasitive jordfeilstrømmen *IC*i spolejorede system den resterende jordfeilstrømmen *IRes*i system med lavimpedansjording kortslutningstrømmen, fase til jord *I″kl*
+
+*Jording:* alle metoder og tiltak som gir en god ledende forbindelse til jord.
+
+*Kabel:* en isolert leder, eller flere fra hverandre isolerte ledere, omgitt av en eller flere felles beskyttende kapper.
+
+*Kontaktledningsanlegg:* komplette system som inngår i kraftmating til traksjonsmateriell som ledninger, kabler, master, utliggere, åk, fester, brytere, sugetransformatorer, impedansspoler, skinneforbindere, jordinger etc.
+
+*Lavspenningsinstallasjon:* elektrisk anlegg for nominell spenning opp til og med 1000 V vekselspenning eller opp til og med 1500 V likespenning.
+
+*Ledning:* en eller flere ledere; eller en eller flere isolerte ledere; eller en eller flere kabler; med felles anvendelse i en elektrisk installasjon, et apparat eller annen konstruksjon.
+
+*Luftlinje:* hele systemet av master, ledninger, isolatorer, barduner mv. Synonymt med luftledning.
+
+*Nettstasjon:* fordelingstransformator med tilhørende anlegg for forsyning til sluttbruker.
+
+*Nominell verdi:* verdi for en størrelse som benyttes til å identifisere en komponent, innretning, utstyr eller system.
+
+*Returtid:* middel intervall mellom påfølgende gjentagelser av klimatisk definerte størrelser.
+
+*Sugetransformator:* en strømtransformator med omsetningsforhold 1:1 med en vikling for kontaktledningsstrømmen og en vikling for returstrømmen. En transformator som reduserer vagabonderende strømmer i og utenfor jernbaneanlegget.
+
+*Teleanlegg (telenett):* Anlegg for overføring av elektronisk kommunikasjon med tilhørende infrastruktur, utstyr og installasjoner.
+
+*Uisolert del:* anleggsdel som ikke har slik isolasjon, kapsling eller skjerm at den kan betraktes som berøringssikker.
 
 ## Andre del: Generelle bestemmelser
 
@@ -176,7 +210,19 @@ Anlegg skal overvåkes slik at isolasjonsfeil blir detektert og frakoblet.
 
 Topolet jordfeil og kortslutning skal koples ut hurtig og automatisk.
 
-Enpolet jordfeil skal utkoples hurtigst mulig og innen følgende tider. Tidene inkluderer ikke eventuelle gjeninnkoplinger:– Direktejordet nett:8sek– Motstandsjordet nett:30sek– Isolert og spolejordet nett:– Luftnett og blandet kabel/luft-nett med tilknyttet distribusjonstransformator:10sek– Luftnett og blandet kabel/luft-nett uten tilknyttet distribusjonstransformator:120min– Industrinett med luftnett og blandet kabel/luft-nett:120min– Kabelnett (uten luftledning) med global jording:240minNett skal overvåkes kontinuerlig, og klarering for bortkopling av jordfeilen igangsettes umiddelbart.
+Enpolet jordfeil skal utkoples hurtigst mulig og innen følgende tider. Tidene inkluderer ikke eventuelle gjeninnkoplinger:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| – Direktejordet nett: |  | 8 | sek |
+| – Motstandsjordet nett: |  | 30 | sek |
+| – Isolert og spolejordet nett: |  |  |  |
+|  | – Luftnett og blandet kabel/luft-nett med tilknyttet distribusjonstransformator: | 10 | sek |
+|  | – Luftnett og blandet kabel/luft-nett uten tilknyttet distribusjonstransformator: | 120 | min |
+|  | – Industrinett med luftnett og blandet kabel/luft-nett: | 120 | min |
+|  | – Kabelnett (uten luftledning) med global jording: | 240 | min |
+
+Nett skal overvåkes kontinuerlig, og klarering for bortkopling av jordfeilen igangsettes umiddelbart.
 
 ### § 4-4. Utstyr og kabler
 

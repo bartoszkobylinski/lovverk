@@ -104,17 +104,27 @@ I tillegg til dette vil det innenfor rammen av styringsdialogen holdes møter av
 
 ### 4.1 Rapportering (jf. bestemmelsene 1.6)
 
+*Årsrapport*
+
 Jernbanedirektoratet skal utarbeide en årsrapport. Årsrapporten skal gi et dekkende bilde av etatens resultater og utarbeides etter fastsatt mal og i henhold til de krav som Samferdselsdepartementet har fastsatt i tildelingsbrevet med vedlegg og i eventuelle supplerende tildelingsbrev. Rapporten sendes til Samferdselsdepartementet med kopi til Riksrevisjonen innen fristen gitt i tildelingsbrevet.
 
 Årsrapporten og Riksrevisjonens revisjonsberetning skal publiseres på Jernbanedirektoratet nettsider innen 1. mai. Før publisering skal årsrapporten ha vært behandlet i etatsstyringsdialogen. Dersom revisjonsberetningen ikke foreligger innen 1. mai skal beretningen publiseres så snart den foreligger
 
+*Tertialrapporter*
+
 Krav til innholdet i tertialrapportene for budsjettåret går fram av tildelingsbrevet.
+
+*Årsregnskap*
 
 Jernbanedirektoratet skal ved årets slutt utarbeide og avlegge et årsregnskap med noter i tråd med pkt. 3.4 i [bestemmelser om økonomistyring i staten](forskrift/2003-12-12-1939), rundskriv R-115 fra Finansdepartementet og krav fra Samferdselsdepartementet.
 
 Årsregnskapet skal gi et dekkende bilde av Jernbanedirektoratets disponible bevilgninger og av regnskapsførte utgifter, inntekter, eiendeler og gjeld. Det inngår som en del av årsrapporten.
 
+*Rapportering til statsregnskapet*
+
 Jernbanedirektoratet skal rapportere til statsregnskapet i henhold til pkt. 3.4 i [bestemmelser om økonomistyring i staten](forskrift/2003-12-12-1939).
+
+*Informasjon ved viktige hendelser og avvik*
 
 I tillegg til den periodiske rapporteringen skal Jernbanedirektoratet gjennom året på eget initiativ informere om vesentlige avvik fra vedtatte planer eller fra tildelingsbrev og supplerende tildelingsbrev og om viktige saker som berører virksomhetens ansvarsområde straks virksomheten får kjennskap til dette. Videre skal virksomheten foreslå mulige korrigerende tiltak.
 

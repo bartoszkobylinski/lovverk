@@ -122,23 +122,49 @@ Forskrifta gjeld frå 2. september 2006.
 
 ### Til § 2
 
+*[§ 2](forskrift/2006-09-01-1019/§2) første ledd:*
+
 Departementet har her valt same løysing som i Danmark. Lagringsplikta ligg på verksemder som importerer til Noreg eller i landet framstiller lagringspliktige produkt. Verksemder som berre står for sal av lagringspliktige produkt, men ikkje sjølve importerer eller framstiller slike, er ikkje pålagt lagringsplikt. Ved utrekning av kor vidt det er importert eller framstilt så mykje lagringspliktige produkt at det medfører lagringsplikt for ei verksemd, vil det vere avgjerande om den samla importen og/eller produksjonen av lagringspliktige produkt overstig 10.000 m3 . Ved utrekninga skal det gjerast same frådrag som oppgitt i [§ 5](forskrift/2006-09-01-1019/§5).
 
 Føresegna i andre punktum skal sikre at ikkje nye importørar eller produsentar frir seg frå lagringsplikt eller at verksemder vert lagt ned ved utgangen av lagringsåret for så å stå fram att under anna namn neste lagerår. Den aktuelle verksemda må sjølv vurdere kor vidt lagringsplikt ligg føre, jf. [§ 10](forskrift/2006-09-01-1019/§10) andre ledd.
+
+*[§ 2](forskrift/2006-09-01-1019/§2) andre ledd:*
 
 Formålet med denne føresegna er å hindre at verksemda vert splitta opp i fleire mindre føretak som kvar importerer eller produserer lagringspliktige produkt i storleiksorden mindre enn 10.000 m3 . Ved vurderinga av kor vidt det ligg føre eit konsern vil lovgivinga omkring aksje- og allmennaksjeselskap bli lagt til grunn.
 
 ### Til § 4
 
+*[§ 4](forskrift/2006-09-01-1019/§4) første ledd:*
+
 Føresegna inneber at den lagringspliktige skal kunne selje og forbruke lagringspliktige produkt i minst 20 dagar utan tilførsel av nye produkt. Ved utrekninga av forbruk i 20 dagar skal eit gjennomsnittleg normalforbruk, utrekna på bakgrunn av sal og/eller forbruk i føregåande lagerår leggjast til grunn. Føresegna må tolkast med dei avgrensingane som følgjer av [§ 6](forskrift/2006-09-01-1019/§6) andre ledd.
+
+*[§ 4](forskrift/2006-09-01-1019/§4) andre ledd:*
 
 Føresegna skal, som føresegna i [§ 2](forskrift/2006-09-01-1019/§2) første ledd andre punktum, sikre at ikkje nye importørar eller produsentar frir seg frå lagringsplikt eller at verksemder vert lagt ned ved utgangen av lagringsåret, for så å stå fram att under anna namn neste lagerår.
 
 ### Til § 5
 
+*[§ 5](forskrift/2006-09-01-1019/§5) første ledd bokstav a)*
+
+Eksempel:
+
+|  |  |
+| --- | --- |
+| A produserer sjølv | 10.000 m3 |
+| A importerer sjølv | 5.000 m3 |
+| A kjøper av annan lagringspliktig | 25.000 m3 |
+| Sum | 40.000 m3 |
+| Av dette er A lagringspliktig for | 15.000 m3 |
+
+*[§ 5](forskrift/2006-09-01-1019/§5) første ledd bokstav b)*
+
 Dette vil dreie seg om små volum og bør derfor ikkje medreknast, på same måten som produsentar og importørar som framstiller eller importerer volum under 10.000 m3 er unnatekne frå lagringsplikta, jf. [§ 2](forskrift/2006-09-01-1019/§2).
 
+*[§ 5](forskrift/2006-09-01-1019/§5) første ledd bokstav d)*
+
 Med skip i utanriksfart er meint skip som seglar mellom norsk hamn der bunkring skjer og utanlandsk hamn.
+
+*[§ 5](forskrift/2006-09-01-1019/§5) andre ledd:*Eksempel:A produserer sjølv10.000 m3A importerer sjølv10.000 m3A kjøper av annan lagringspliktig30.000 m3Sum50.000 m3
 
 Her er A i utgangspunktet lagringspliktig for 20.000 m3 .
 
@@ -148,7 +174,11 @@ A er lagringspliktig for 16.000 m3 .
 
 Dersom A kan dokumentere at alt av dei voluma som er selde til forsvarsstyresmakta kom frå dei importerte voluma, kan han gjere fullt ut frådrag for desse voluma. A er lagringspliktig for 10.000 m3 .
 
+*[§ 5](forskrift/2006-09-01-1019/§5) tredje ledd:*
+
 Denne føresegna gir lagringspliktig produsent eller importør høve til å trekkje frå volum som er selde på ein slik måte at dei i utgangspunktet ikkje gir frådragsrett ved utrekning av lagerplikt, dersom desse voluma er selde vidare på ein slik måte at dei gir frådragsrett. Kjøparen opplyser seljaren om kor mykje av det samla volumet som ikkje vil vere lagringspliktig etter føresegna her, men kan ikkje opplyse om kven voluma skal seljast vidare til. Dokumentasjon for vidaresal eller forbruk som her nemnt skal sendast til Olje- og energidepartementet. Det er kjøparen som er pliktig til å sende inn denne informasjonen.
+
+Eksempel:
 
 A er produsent og sel 20.000 m3 til B. Av desse voluma sel B 10.000 m3 til skip i utanriksfart. Desse voluma hadde B kunna trekkje frå, dersom B var lagringspliktig.
 
@@ -158,23 +188,39 @@ Det følgjer antitetisk av føresegna at volum medgått til sal til eller forbru
 
 ### Til § 6
 
+[§ 6](forskrift/2006-09-01-1019/§6) første ledd:
+
 Lager som lagringspliktig har tilgang til gjennom for eksempel leigeavtale er omfatta av føresegna. Opprekninga over lageralternativ er ikkje uttømmande. Kva lager som ikkje inngår følgjer av [§ 7](forskrift/2006-09-01-1019/§7). Tankanlegg i tilknyting til installasjonar på kontinentalsokkelen, utanfor territorialfarvatnet, er ikkje i Noreg og volum lagra her kan ikkje inngå i oppfylling av lagringsplikta.
 
+[§ 6](forskrift/2006-09-01-1019/§6) andre ledd:
+
 Føresegna medfører at lagerplikt for produkt i ein kategori kan erstattast av produkt i ein annan kategori med inntil 60 prosent. Dvs. at har ein plikt til å halde lager med 1000 m3 bensin og 1000 m3 diesel, kan lagerplikta oppfyllast ved å halde lager av 400 m3 bensin og 1600 m3 diesel.
+
+[§ 6](forskrift/2006-09-01-1019/§6) tredje og fjerde ledd:
 
 Føresegna inneber at ein ikkje kan erstatte f.eks. lagerplikt for bensin liter for liter med råolje. Om det berre er bensin som skal lagrast, kan 40 prosent av volumet erstattast av råolje. Om lagerplikta er 1000 m3 bensin kan inntil 400 m3 erstattast med råolje, men det må då haldast 2000 m3 råolje for at dette skal kunne erstatte bensin.
 
 Om råolje i tillegg skal erstatte ei lagringsplikt for diesel på 1000 m3 kan inntil 400 m3 diesel erstattast. Det må då haldast 800 m3 råolje. Då ein kan få både bensin og diesel frå råoljen, kan dei same voluma råolje gå til erstatning for både diesel og bensin.
 
+[§ 6](forskrift/2006-09-01-1019/§6) femte ledd:
+
 Føresegna inneber at produkt i alle tre kategoriar kan erstattast av komponentar. Andre og tredje punktum medfører at det ikkje kan givast frådrag for større volum enn det som maksimalt kan framstillast av dei tilgjengelege komponentane. Dersom det er små eller ingen volum tilgjengelege av ein komponent kan det ikkje givast frådrag for meir enn kva voluma av den eine komponenten tillet. Manglar denne komponenten heilt, kan det ikkje givast frådrag i det heile teke, sjølv om det finst tilgjengeleg store volum av dei andre komponentane.
 
 ### Til § 7
 
+[§ 7](forskrift/2006-09-01-1019/§7) bokstav a)
+
 Med dette er meint råolje og kondensat som enno er i reservoar under havbotnen.
+
+[§ 7](forskrift/2006-09-01-1019/§7) bokstav b)
 
 Med detaljsalsanlegg er først og fremst meint bensinstasjonar, men andre detaljsalsanlegg som marinaer for fritidsbåtar vil òg falle inn under denne føresegna.
 
+[§ 7](forskrift/2006-09-01-1019/§7) bokstav c)
+
 Volum av lagringspliktige produkt som er lagra etter denne forskrifta, og volum lagra på vegner av forsvarsstyresmaktene skal tene ulike formål. Volum lagra på vegner av forsvarsstyresmaktene kan slik ikkje telje med ved utrekninga av oppfylt lagerplikt. Føresegna harmonerer med frådraget etter [§ 5](forskrift/2006-09-01-1019/§5) for volum selde til forsvarsstyresmaktene.
+
+[§ 7](forskrift/2006-09-01-1019/§7) bokstav d)
 
 Dette er skip som seglar mellom utanlandske hamner, eller mellom ei norsk hamn og hamner i utlandet.
 
@@ -186,16 +232,26 @@ Føresegna opnar òg for felles lagring av lagringspliktige produkt gjennom eit 
 
 ### Til § 9
 
+[§ 9](forskrift/2006-09-01-1019/§9) første ledd første setning:
+
 Det er for tida ikkje inngått noko slik bilateral avtale mellom Noreg og andre land om beredskapslagring. Olje- og energidepartementet vil i samarbeid med Utanriksdepartementet ta initiativ til å inngå slike avtaler med aktuelle land.
 
+[§ 9](forskrift/2006-09-01-1019/§9) første ledd andre setning:
+
 Ved vurderinga av om det skal givast samtykke til at meir enn 20 prosent av lagerplikta kan oppfyllast i eit anna land vil det bl.a. bli lagt vekt på kor nært lageret er Noreg geografisk, kva slag høve til transport som ligg føre for å få bringa produkta til Noreg og norske marknader, i kva grad produkta som er lagra er tilpassa den norske marknaden og kva rett den lagringspliktige har til produkta.
+
+[§ 9](forskrift/2006-09-01-1019/§9) første ledd tredje setning:
 
 Samtykke frå departementet til lagring i utlandet vil bl.a. avhenge av kva slag avtale om lagring ein ønskjer samtykke til og at beredskapsformål vert sikra i god nok grad.
 
 ### Til § 11
 
+[§ 11](forskrift/2006-09-01-1019/§11) andre ledd:
+
 Føresegna inneber inga endring i statleg politikk når det gjeld å ta i bruk beredskapsvolum. Forskjellen er at lagringspliktige med den nye ordninga får pålegg om eller løyve til bruk av volum, mens det tidlegare var staten som tok i bruk reservane sine når det var aktuelt. I situasjonar der Det internasjonale energibyrået ber Noreg om bidrag til ein krisehandteringsplan krev dette vanlegvis ei rask avgjerd. Mynde til å vedta trekk i beredskapslager som verkemiddel vert derfor delegert til Olje- og energidepartementet etter konsultasjonar med Utanriksdepartementet. Olje- og energidepartementet og Utanriksdepartementet avgjer om Noreg skal medverke til krisehandteringsplanen, mens Olje- og energidepartementet avgjer kva slag tiltak som skal setjast i verk.
 
 ### Til § 15
+
+[§ 15](forskrift/2006-09-01-1019/§15) første ledd:
 
 Høve til dispensasjon er tenkt avgrensa til dei situasjonane der tungtvegande omsyn tilseier at dispensasjon skal givast. Departementet har særleg sett for seg at dispensasjon kan givast i ein overgangsfase der selskapa byggjer opp beredskapslagra sine, og vidare for selskap som er i ein etableringsfase. Det kan òg vere aktuelt å dispensere frå forskrifta dersom det skulle oppstå mellombels problem av forskjellig karakter. Ovannemnde eksempel er ikkje uttømmande. Departementet vil konkret vurdere kvar enkelt søknad.

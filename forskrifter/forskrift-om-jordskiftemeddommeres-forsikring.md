@@ -36,6 +36,12 @@ Før det avgis forsikring skal jordskiftedommeren gjøre jordskiftemeddommeren k
 
 Forsikringen har følgende ordlyd:
 
+*Bokmål*«Forsikrer du at du i denne saken og i alle framtidige saker etter jordskifteloven, vil følge med på og ta hensyn til alt som kommer fram, og utføre dine plikter samvittighetsfullt og etter beste overbevisning, så gjenta etter meg: Det forsikrer jeg.»
+
+*Nynorsk*«Lovar du at du i denne saka og i alle framtidige saker etter jordskiftelova, vil følgja med på og ta omsyn til alt som kjem fram, og utføra pliktene dine samvitsfullt og etter beste overtyding, så sei etter meg: Det lovar eg.»
+
+*Nordsamisk*«Dáhkidat go dán áššis ja buot boahtteáiggi áššiin mat gusket eanajuohkinláhkii, ahte áiggut čuovvut mielde ja váldit vuhtii buot mii boahtá ovdan, ja doaimmahit iežat geatnegasvuođaid oamedovddolaččat ja nu bures go vejolaš, de gearddut mu sániid: dan mun dáhkidan.»
+
 ## § 4.
 
 Jordskiftemeddommere som har avgitt forsikring etter bestemmelsene i [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte [§ 11](lov/1979-12-21-77/§11) trenger ikke avgi forsikring på nytt.

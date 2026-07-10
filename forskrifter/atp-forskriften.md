@@ -74,13 +74,13 @@ I medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2) har Sosialdepar
 
 ### I. Prøving, godkjenning m.v.
 
-1. For å oppnå godkjenning skal materiellet prøves etter bestemmelser gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.Godkjenningen kan skje ved typegodkjenning.
+1\. For å oppnå godkjenning skal materiellet prøves etter bestemmelser gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.Godkjenningen kan skje ved typegodkjenning.
 
-2. Materiellet skal underkastes prøving ved den (de) av Mattilsynet utpekte myndighet(er)før det tas i bruk første gangminst en gang hvert sjette årnår Mattilsynet ellers bestemmer det.
+2\. Materiellet skal underkastes prøving ved den (de) av Mattilsynet utpekte myndighet(er)før det tas i bruk første gangminst en gang hvert sjette årnår Mattilsynet ellers bestemmer det.
 
-3. Søknad om godkjenning stiles til den myndighet som er utpekt til å forestå prøvingen. Med søknaden skal følge tegninger og andre opplysninger som institusjonen krever.
+3\. Søknad om godkjenning stiles til den myndighet som er utpekt til å forestå prøvingen. Med søknaden skal følge tegninger og andre opplysninger som institusjonen krever.
 
-4. Det kan anvendes materiell som er registrert og godkjent i et annet land og er forsynt med dokumentasjon og merket i henhold til ATP-traktaten.Mattilsynet kan tillate at materiell som er registrert i Norge blir prøvet av andre organer jf. forskriftenes [§ 3](forskrift/1980-06-27-9645/§3).
+4\. Det kan anvendes materiell som er registrert og godkjent i et annet land og er forsynt med dokumentasjon og merket i henhold til ATP-traktaten.Mattilsynet kan tillate at materiell som er registrert i Norge blir prøvet av andre organer jf. forskriftenes [§ 3](forskrift/1980-06-27-9645/§3).
 
 > Endret ved [forskrift 15 jan 2004 nr. 214](forskrift/2004-01-15-214).
 
@@ -88,39 +88,39 @@ I medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2) har Sosialdepar
 
 ### III. Typegodkjenning m.v.
 
-1. Typegodkjenning gjelder materiell som i konstruksjon og utførelse helt svarer til hverandre. Typegodkjenning kan gis på grunnlag av prøver foretatt på tilfeldig utvalgte enheter av samme produksjonsserie.
+1\. Typegodkjenning gjelder materiell som i konstruksjon og utførelse helt svarer til hverandre. Typegodkjenning kan gis på grunnlag av prøver foretatt på tilfeldig utvalgte enheter av samme produksjonsserie.
 
-2. Typegodkjenning kan gis for inntil 100 enheter av samme produksjonsserie. En hver endring i konstruksjon eller utførelse skal meldes til prøvemyndigheten, som avgjør om ny fullstendig prøving og godkjenning skal foretas.
+2\. Typegodkjenning kan gis for inntil 100 enheter av samme produksjonsserie. En hver endring i konstruksjon eller utførelse skal meldes til prøvemyndigheten, som avgjør om ny fullstendig prøving og godkjenning skal foretas.
 
-3. Nytt materiell som er framstilt i serieproduksjon kan godkjennes uten særskilt prøving når det svarer til det som er typegodkjent.Med søknad om godkjenning skal følge bevitnelse fra fabrikanten om at materiellet er i samsvar med det som er typegodkjent samt opplysninger som spesifikasjoner og fabrikasjonsnummer.Materiell fra slik produksjonsserie kan godkjennes for høyst 6 år.Regler for tillatte avvik i serieproduksjon er gitt i bestemmelsene gitt i medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.
+3\. Nytt materiell som er framstilt i serieproduksjon kan godkjennes uten særskilt prøving når det svarer til det som er typegodkjent.Med søknad om godkjenning skal følge bevitnelse fra fabrikanten om at materiellet er i samsvar med det som er typegodkjent samt opplysninger som spesifikasjoner og fabrikasjonsnummer.Materiell fra slik produksjonsserie kan godkjennes for høyst 6 år.Regler for tillatte avvik i serieproduksjon er gitt i bestemmelsene gitt i medhold av forskriftenes [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten.
 
 ### IV. Enkeltgodkjenning.
 
-1. Materiell som ikke er gjenstand for typegodkjenning skal gjennomgå fullstendig utprøving før det kan godkjennes. Godkjenningen gjelder i høyst 6 år.
+1\. Materiell som ikke er gjenstand for typegodkjenning skal gjennomgå fullstendig utprøving før det kan godkjennes. Godkjenningen gjelder i høyst 6 år.
 
-2. Materiell som er godkjent kan få godkjenningen forlenget etter forenklet prøve. Slik forlengelse kan vare inntil 3 år.Prøvemyndigheten kan likevel når som helst i løpet av perioden kreve materiellet underkastet fullstendig prøve. Godkjenningen kan deretter forlenges inntil 6 år.
+2\. Materiell som er godkjent kan få godkjenningen forlenget etter forenklet prøve. Slik forlengelse kan vare inntil 3 år.Prøvemyndigheten kan likevel når som helst i løpet av perioden kreve materiellet underkastet fullstendig prøve. Godkjenningen kan deretter forlenges inntil 6 år.
 
 ### V. Tilsyn med produksjonen.
 
-1. Prøvemyndigheten skal følge oppgitte typegodkjenninger ved hensiktsmessig kontroll i produksjonen eller ved stikkprøver for å overvåke at materiellet holder de angitte spesifikasjoner.
+1\. Prøvemyndigheten skal følge oppgitte typegodkjenninger ved hensiktsmessig kontroll i produksjonen eller ved stikkprøver for å overvåke at materiellet holder de angitte spesifikasjoner.
 
 ### VI. Sertifikat, identifikasjonsmerker m.v.
 
-1. Som bevis på at materiellet er godkjent, utsteder godkjenningsmyndighetene ATP-sertifikat, eller bekreftet kopi av samme. ATP-sertifikatet skal følge med under transport.
+1\. Som bevis på at materiellet er godkjent, utsteder godkjenningsmyndighetene ATP-sertifikat, eller bekreftet kopi av samme. ATP-sertifikatet skal følge med under transport.
 
-2. På godkjent materiell skal det være et merke som viser hvilken klasse materiellet hører til samt måned og år når ny prøving senest skal finne sted. Hva angår merkets utforming og plassering, vises til bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten. Materiellets identitet skal framgå av varig merking på selve materiellet.
+2\. På godkjent materiell skal det være et merke som viser hvilken klasse materiellet hører til samt måned og år når ny prøving senest skal finne sted. Hva angår merkets utforming og plassering, vises til bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten. Materiellets identitet skal framgå av varig merking på selve materiellet.
 
-3. ATP-sertifikat og merking som beskrevet ovenfor får bare benyttes så lenge sertifikatet er gyldig og bare til det materiell som sertifikatet gjelder for.
+3\. ATP-sertifikat og merking som beskrevet ovenfor får bare benyttes så lenge sertifikatet er gyldig og bare til det materiell som sertifikatet gjelder for.
 
 ### VII. Grense-passering m.v.
 
-1. Ved tollundersøkelse av transport som omfattes av disse forskrifter, skal transportutøveren legge fram ATP-sertifikat og ellers gi tollvesenet slik assistanse som er nødvendig for rask og effektiv kontroll.
+1\. Ved tollundersøkelse av transport som omfattes av disse forskrifter, skal transportutøveren legge fram ATP-sertifikat og ellers gi tollvesenet slik assistanse som er nødvendig for rask og effektiv kontroll.
 
-2. Kan gyldig ATP-sertifikat ikke framlegges, skal tollvesenet gi melding til det stedlige næringsmiddeltilsyn. Hvis det dreier seg om innførsel skal også varemottakeren underrettes.
+2\. Kan gyldig ATP-sertifikat ikke framlegges, skal tollvesenet gi melding til det stedlige næringsmiddeltilsyn. Hvis det dreier seg om innførsel skal også varemottakeren underrettes.
 
-3. Melding om at gyldig ATP-sertifikat mangler skal gis skriftlig på skjema, se bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten. Meldingen utstedes i to eksemplarer hvorav det ene gis til transportutøveren, og det andre sendes det stedlige næringsmiddeltilsyn. Hvis det dreier seg om innførsel, skal transportøren gi meldingen videre til varemottakeren.
+3\. Melding om at gyldig ATP-sertifikat mangler skal gis skriftlig på skjema, se bestemmelsene gitt i medhold av [§ 2](forskrift/1980-06-27-9645/§2), jfr. traktaten. Meldingen utstedes i to eksemplarer hvorav det ene gis til transportutøveren, og det andre sendes det stedlige næringsmiddeltilsyn. Hvis det dreier seg om innførsel, skal transportøren gi meldingen videre til varemottakeren.
 
-4. Kan gyldig ATP-sertifikat for materiellet ikke framlegges, er det forbudt for varemottakeren å iverksette lossing eller på annen måte forføye over varepartiet med mindre det stedlige næringsmiddeltilsyn har undersøkt varene og gitt tillatelse til dette.
+4\. Kan gyldig ATP-sertifikat for materiellet ikke framlegges, er det forbudt for varemottakeren å iverksette lossing eller på annen måte forføye over varepartiet med mindre det stedlige næringsmiddeltilsyn har undersøkt varene og gitt tillatelse til dette.
 
 ### VIII. Kostnader.
 

@@ -232,7 +232,13 @@ Ved brudd på bestemmelser etter denne forskriften kan Luftfartstilsynet pålegg
 
 ### § 39. Endring i annen forskrift
 
+I [forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv.](forskrift/2015-11-30-1404) gjøres følgende endringer:
+
+[§ 2](forskrift/2015-11-30-1404/§2) nytt tredje ledd skal lyde
+
 Forskriften gjelder ikke for luftfart som er regulert i [forskrift 15. januar 2026 nr. 48 om sivil statsluftfart med ubemannet luftfartøy mv.](forskrift/2026-01-15-48)
+
+[§ 20](forskrift/2015-11-30-1404/§20), [§ 69](forskrift/2015-11-30-1404/§69) og [§ 70](forskrift/2015-11-30-1404/§70) oppheves.
 
 ### § 40. Ikrafttredelse
 

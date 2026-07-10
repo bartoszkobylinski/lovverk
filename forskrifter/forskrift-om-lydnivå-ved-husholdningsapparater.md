@@ -90,6 +90,8 @@ Forskriften trer i kraft straks.
 
 ## III. Kommentarer til forskriften
 
+Til [§ 5](forskrift/1996-05-29-566/§5)
+
 For at forbrukerne skal kunne ta stilling til opplysninger om husholdningsapparaters lydnivå, må dette være målt etter nærmere beskrevne målemetoder. Kravene til prøvingsmetoder er gjengitt i artikkel 6 i direktivet om lydnivå ved husholdningsapparater ([86/594/EØF](eu/31986l0594)), og gjengis nedenfor;
 
 *Artikkel 6.*Den alminnelige målemetode som brukes for å fastslå lydnivå ved husholdningsapparater, skal være tilstrekkelig presis til at unøyaktigheten ved målingen av A-veide lydstyrkenivåer ikke overskrider et standardavvik på 2 dB.Det standardavvik som er nevnt i første ledd, skal uttrykke den samlede effekt av alle usikkerhetsmomenter ved målingene, med unntak av variasjonene i apparatets lydnivå fra den ene prøvingen til den annen.For hver gruppe husholdningsapparater skal den alminnelige målemetode som er nevnt i bokstav a), suppleres med en beskrivelse av husholdningsapparatets plassering, montering, strømbelastning og virkemåte under prøveforhold som skal simulere vanlig bruk og sikre tilfredsstillende repeterbarhet og reproduserbarhet. Standardavviket for reproduserbarhet skal spesifiseres for hver gruppe husholdningsapparater.Ved kontrollmåling av det angitte lydnivå for et parti husholdningsapparat skal avviket mellom kravet til lydnivå og middelverdien av tre målte verdier ikke være større enn ca. 7 dB.

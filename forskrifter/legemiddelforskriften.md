@@ -1855,29 +1855,175 @@ Ved avgjørelsen av om fysiske personer skal ilegges overtredelsesgebyr skal det
 
 Gebyr etter [§ 15-3](forskrift/2009-12-18-1839/§15-3), [§ 15-3A](forskrift/2009-12-18-1839/§15-3A) og [§ 15-3B](forskrift/2009-12-18-1839/§15-3B) oppgitt i norske kroner
 
-*Søknad om markedsføringstillatelse (Nasjonale)**Søknadstype**Human*Fullstendig søknad, veletablert bruk (WEU), faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b.512 044Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c.192 016Flere former og styrker søkt samtidig19 202Annex I: søknader unntatt nye former og styrker115 209Annex I (line extension): Nye former/styrker128 012Duplikatsøknad (søkt samtidig)38 402Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi192 016Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi256 023Søknad om markedsføringstillatelse for naturlegemidler256 023Søknad som trekkes før prosedyrestart – administrasjonsgebyr25 602
+*Søknad om markedsføringstillatelse (Nasjonale)*
 
-*Endringssøknader og søknad om fornyelse (Nasjonale)**Søknadstype**Human*Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 210 881Endring type II; indikasjonsendring1 2 396 009Endring type II; endring i reseptstatus1 296 009Øvrige endringer type II1 2 416 002Fornyelser551 204Tradisjonelle plantebaserte legemidler; Endring type II; nytt bruksområde1 2 328 802Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 210 881Tradisjonelle plantebaserte legemidler; Øvrige endringer type II1 216 002Tradisjonelle plantebaserte legemidler; Fornyelser525 602
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Fullstendig søknad, veletablert bruk (WEU), faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b. | 512 044 |
+| Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c. | 192 016 |
+| Flere former og styrker søkt samtidig | 19 202 |
+| Annex I: søknader unntatt nye former og styrker | 115 209 |
+| Annex I (line extension): Nye former/styrker | 128 012 |
+| Duplikatsøknad (søkt samtidig) | 38 402 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi | 192 016 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi | 256 023 |
+| Søknad om markedsføringstillatelse for naturlegemidler | 256 023 |
+| Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
 
-*Parallellimport (Nasjonale)**Søknadstype**Human*Søknad om markedsføringstillatelse20 481Fornyelser56 400
+*Endringssøknader og søknad om fornyelse (Nasjonale)*
 
-*Søknad om markedsføringstillatelse (MRP-RMS)**Søknadstype**Human*Inngåelse av avtale om RMS-oppdrag664 005Igangsetting av MRP-oppdrag, alle typer MT-søknader7128 012Repeat use, alle typer MT-søknader128 012Annex I: søknader unntatt nye former og styrker,115 209Annex I (line extension): Nye former/styrker160 013
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 10 881 |
+| Endring type II; indikasjonsendring1 2 3 | 96 009 |
+| Endring type II; endring i reseptstatus1 2 | 96 009 |
+| Øvrige endringer type II1 2 4 | 16 002 |
+| Fornyelser5 | 51 204 |
+| Tradisjonelle plantebaserte legemidler; Endring type II; nytt bruksområde1 2 3 | 28 802 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 10 881 |
+| Tradisjonelle plantebaserte legemidler; Øvrige endringer type II1 2 | 16 002 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser5 | 25 602 |
 
-*Endringssøknader og søknad om fornyelse (MRP-RMS)**Søknadstype**Human*Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 214 079Endring type II; indikasjonsendring1 2 396 009Øvrige endringer type II1 2 415 362Worksharing; indikasjonsendring 3 896 009Worksharing; Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 812 802Worksharing; harmonisering av SmPC32 002Worksharing; øvrige endringer type II816 002Fornyelser551 204Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 210 241Tradisjonelle plantebaserte legemidler; Endringer, type II 1 215 362Tradisjonelle plantebaserte legemidler; Fornyelser525 602
+*Parallellimport (Nasjonale)*
 
-*Søknad om markedsføringstillatelse (MRP-CMS)**Søknadstype**Human*Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b.128 012Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c.96 009Flere former og styrker søkt samtidig19 202Annex I: søknader unntatt nye former og styrker64 005Annex I: Nye former/styrker (line extension)64 005Søknad om registrering av tradisjonelle plantebaserte legemidler med HMPC-monografi96 009Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi (etter avtale)128 012Søknad som trekkes før prosedyrestart – administrasjonsgebyr25 602
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Søknad om markedsføringstillatelse | 20 481 |
+| Fornyelser5 | 6 400 |
 
-*Endringssøknader og søknad om fornyelser (MRP-CMS)**Søknadstype**Human*Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 28 321Endring type II; indikasjonsendring 1 2 344 804Øvrige endringer type II 1 2 412 802Worksharing; indikasjonsendring 838 402Worksharing Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 812 802Worksharing harmonisering av SmPC25 602Worksharing øvrige endringer type II 812 802Fornyelser 521 762Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 26 400Tradisjonelle plantebaserte legemidler; Endringer, type II 1 28 959Tradisjonelle plantebaserte legemidler; Fornyelser 56 400
+MRP der Norge er RMS
 
-*Søknad om markedsføringstillatelse (DCP-RMS)**Søknadstype**Human*Inngåelse av avtale om RMS-oppdrag664 005Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b.448 040Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c.192 016Flere former og styrker søkt samtidig.19 202Annex I: søknader unntatt nye former og styrker140 811Annex I: Nye former/styrker (line extension)160 013Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi192 016Søknad om registrering av tradisjonelle plantebaserte legemidler, uten HMPC-monografi (etter avtale)320 028
+*Søknad om markedsføringstillatelse (MRP-RMS)*
 
-*Søknad om markedsføringstillatelse (DCP-CMS)**Søknadstype**Human*Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b.128 012Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c.96 009Flere former og styrker søkt samtidig19 202Duplikatsøknad (søkt samtidig)38 402Annex I: søknader unntatt nye former og styrker64 005Annex I: Nye former/styrker (line extension)64 005Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi96 009Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi (etter avtale)128 012Søknad som trekkes før prosedyrestart – Administrasjonsgebyr25 602
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Inngåelse av avtale om RMS-oppdrag6 | 64 005 |
+| Igangsetting av MRP-oppdrag, alle typer MT-søknader7 | 128 012 |
+| Repeat use, alle typer MT-søknader | 128 012 |
+| Annex I: søknader unntatt nye former og styrker, | 115 209 |
+| Annex I (line extension): Nye former/styrker | 160 013 |
 
-*Homøopatiske legemidler**Søknadstype**Human*Søknad om registrering, gebyret dekker alle fortynningsgrader av en legemiddelform25 261Endring type II1 279Fornyelse1 279
+*Endringssøknader og søknad om fornyelse (MRP-RMS)*
 
-*Kliniske utprøvinger**Søknadstype**Human*Ny søknad – Norge som referanseland (Forordning [(EU) nr. 536/2014](eu/32014r0536))78 588Ny søknad – Norge som berørt land (Forordning [(EU) nr. 536/2014](eu/32014r0536))33 680Endringssøknad6 736Sikkerhetsvurderinger – Norge som referanseland4 491Sikkerhetsvurderinger – Norge som berørt land2 245
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking1 2 | 14 079 |
+| Endring type II; indikasjonsendring1 2 3 | 96 009 |
+| Øvrige endringer type II1 2 4 | 15 362 |
+| Worksharing; indikasjonsendring 3 8 | 96 009 |
+| Worksharing; Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 8 | 12 802 |
+| Worksharing; harmonisering av SmPC | 32 002 |
+| Worksharing; øvrige endringer type II8 | 16 002 |
+| Fornyelser5 | 51 204 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 10 241 |
+| Tradisjonelle plantebaserte legemidler; Endringer, type II 1 2 | 15 362 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser5 | 25 602 |
 
-*Søknader – WHO-sertifikat**Søknadstype**Human*WHO-sertifikat6 250
+MRP der Norge er CMS
+
+*Søknad om markedsføringstillatelse (MRP-CMS)*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b. | 128 012 |
+| Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c. | 96 009 |
+| Flere former og styrker søkt samtidig | 19 202 |
+| Annex I: søknader unntatt nye former og styrker | 64 005 |
+| Annex I: Nye former/styrker (line extension) | 64 005 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler med HMPC-monografi | 96 009 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi (etter avtale) | 128 012 |
+| Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
+
+*Endringssøknader og søknad om fornyelser (MRP-CMS)*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 8 321 |
+| Endring type II; indikasjonsendring 1 2 3 | 44 804 |
+| Øvrige endringer type II 1 2 4 | 12 802 |
+| Worksharing; indikasjonsendring 8 | 38 402 |
+| Worksharing Type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 8 | 12 802 |
+| Worksharing harmonisering av SmPC | 25 602 |
+| Worksharing øvrige endringer type II 8 | 12 802 |
+| Fornyelser 5 | 21 762 |
+| Tradisjonelle plantebaserte legemidler; Endring type IB som fører til endring i preparatomtale, pakningsvedlegg og merking 1 2 | 6 400 |
+| Tradisjonelle plantebaserte legemidler; Endringer, type II 1 2 | 8 959 |
+| Tradisjonelle plantebaserte legemidler; Fornyelser 5 | 6 400 |
+
+DCP der Norge er RMS
+
+*Søknad om markedsføringstillatelse (DCP-RMS)*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Inngåelse av avtale om RMS-oppdrag6 | 64 005 |
+| Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b. | 448 040 |
+| Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c. | 192 016 |
+| Flere former og styrker søkt samtidig. | 19 202 |
+| Annex I: søknader unntatt nye former og styrker | 140 811 |
+| Annex I: Nye former/styrker (line extension) | 160 013 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi | 192 016 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler, uten HMPC-monografi (etter avtale) | 320 028 |
+
+DCP der Norge er CMS
+
+*Søknad om markedsføringstillatelse (DCP-CMS)*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Fullstendige søknader, bibliografiske, faste kombinasjoner – Direktiv [2001/83/EF](eu/32001l0083) art. 8(3), 10a, 10b. | 128 012 |
+| Forenklet søknad, generisk, hybrid, biosimilar, «informed consent» – Direktiv [2001/83/EF](eu/32001l0083) art. 10(1), 10(3), 10(4), 10c. | 96 009 |
+| Flere former og styrker søkt samtidig | 19 202 |
+| Duplikatsøknad (søkt samtidig) | 38 402 |
+| Annex I: søknader unntatt nye former og styrker | 64 005 |
+| Annex I: Nye former/styrker (line extension) | 64 005 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler, med HMPC-monografi | 96 009 |
+| Søknad om registrering av tradisjonelle plantebaserte legemidler uten HMPC-monografi (etter avtale) | 128 012 |
+| Søknad som trekkes før prosedyrestart – Administrasjonsgebyr | 25 602 |
+
+*Homøopatiske legemidler*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Søknad om registrering, gebyret dekker alle fortynningsgrader av en legemiddelform | 25 261 |
+| Endring type II | 1 279 |
+| Fornyelse | 1 279 |
+
+*Kliniske utprøvinger*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| Ny søknad – Norge som referanseland (Forordning [(EU) nr. 536/2014](eu/32014r0536)) | 78 588 |
+| Ny søknad – Norge som berørt land (Forordning [(EU) nr. 536/2014](eu/32014r0536)) | 33 680 |
+| Endringssøknad | 6 736 |
+| Sikkerhetsvurderinger – Norge som referanseland | 4 491 |
+| Sikkerhetsvurderinger – Norge som berørt land | 2 245 |
+
+*Søknader – WHO-sertifikat*
+
+| *Søknadstype* | *Human* |
+| --- | --- |
+| WHO-sertifikat | 6 250 |
+
+*Noter*
+
+1 Dersom én endring gjelder flere former og styrker av samme preparat betales ett gebyr.
+
+2 En endring som fører til flere endringer anses i gebyrsammenheng som én endring.
+
+3 Gjelder ikke språklige endringer, flytting av tekst eller informasjon om manglende data til barn. Disse er øvrige type II-endringer.
+
+4 Gjelder også doseringsendringer.
+
+5 Gjelder for hver MT.
+
+6 Gjelder per oppdrag. Refunderes ikke.
+
+7 Gjelder uansett søkergrunnlag.
+
+8 Ett gebyr per gebyrpliktig endring (uavhengig av antall preparater som inngår i worksharing-prosedyren.
+
+*Merk:*
 
 - For grupperte endringer i henhold til forordning [(EF) nr. 1234/2008](eu/32008r1234) vil det bli tatt gebyr for hver endring som er gebyrpliktig.
 - Det skal også betales gebyr for endringer og fornyelser for preparater som har markedsføringstillatelse uten norsk produktinformasjon.
@@ -1920,21 +2066,57 @@ Forskriftens [§ 3-29](forskrift/2009-12-18-1839/§3-29) fjerde, femte, sjette o
 
 ## Forordninger
 
-Uoffisiell oversettelse.
+*Forordning [(EF) nr. 726/2004](eu/32004r0726)*
+
+For å lese forordning [(EF) nr. 726/2004](eu/32004r0726) se her: [(pdf)](static/SF/32004r0726u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+*Forordning [(EF) nr. 1905/2005](eu/32005r1905)*
+
+For å lese forordning [(EF) nr. 1905/2005](eu/32005r1905) se her: [(pdf)](static/SF/32005r1905u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+*Forordning [(EF) nr. 2049/2005](eu/32005r2049)*
+
+For å lese forordning [(EF) nr. 2049/2005](eu/32005r2049) se her: [(pdf)](static/SF/32005r2049u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+*Forordning [(EF) nr. 507/2006](eu/32006r0507)*
+
+For å lese forordning [(EF) nr. 507/2006](eu/32006r0507) se her: [(pdf)](static/SF/32006r0507u.pdf)
 
 Uoffisiell oversettelse.
+
+*Forordning [(EF) nr. 1394/2007](eu/32007r1394*)*
+
+For å lese forordning [(EF) nr. 1394/2007](eu/32007r1394*) se her: [(pdf)](static/SF/32007r1394u.pdf)
+
+Uoffisiell oversettelse.
+
+*Forordning [(EU) nr. 488/2012](eu/32012r0488*)*
+
+For å lese forordning [(EU) nr. 488/2012](eu/32012r0488*) se her: [(pdf)](static/SF/32012r0488u-01.pdf)
+
+Uoffisiell oversettelse.
+
+*Forordning [(EF) nr. 1901/2006](eu/32006r1901)*
+
+For å lese forordning [(EF) nr. 1901/2006](eu/32006r1901) se her: [(pdf)](static/SF/32006r1901u-01.pdf)
+
+Uoffisiell oversettelse.
+
+*Forordning [(EF) nr. 1902/2006](eu/32006r1902)*
+
+For å lese forordning [(EF) nr. 1902/2006](eu/32006r1902) se her: [(pdf)](static/SF/32006r1902u-01.pdf)
+
+Uoffisiell oversettelse.
+
+*Beslutning 92/2017*
+
+For å lese beslutning 92/2017 se her: [(pdf)](static/SF/22017d0092u-01.pdf)
 
 Uoffisiell oversettelse.
 

@@ -65,7 +65,34 @@ Fangst av fisk på 25 cm og mer rapporteres (merkes med garn eller håndsnøre, 
 
 Det er åpnet for fiske i følgende vann/innsjøer, knyttet til maksimalkvoter for fisk over 25 cm og redskapstyper. I tilhørende elvestrenger og ut til 200 m fra inn- og utløp er det kun tillatt å fiske med stang og håndsnøre. Maksimalkvoten gjelder hele vassdraget.
 
-Det er åpnet for fiske i følgende vassdrag, knyttet til redskapstyper og maksimalkvoter for fisk over 25 cm. I alle disse vassdragene er det tillatt med håndsnøre og stang.*Vassdrag**Maksimalkvote**Garnfiske tillatt*Richardvatnet (Raudfjorden)40NeiRabotvatna (Rabotfjorden)10NeiArresjøen (Danskøya)10NeiGjøavatnet (Amsterdamøya)10NeiÅsøvatnet (v for Flathukfjellet)10NeiPytten (Danskøya)20NeiPervatnet (Sjubrean)30NeiNordre Dieset (Mitrahalvøya)40JaSøndre Dieset (Mitrahalvøya)30JaErlingvatnet (Mitrahalvøya)50NeiMurraytjørnene (Forlandet)25NeiVårfluesjøen (Woodfjorden)150JaLovénvatnet (Trygghamna)10JaStraumsjøen (Erdmannflya)100NeiLinnévatnet100JaKongressvatnet40JaBretjønna (Grønnfjordbotnen)10JaRevvatnet (n for Hornsund)25NeiSvartvatnet (s for Hornsund)25NeiMosselvatnet75NeiFemmilsjøen (Ny-Friesland)150NeiLakssjøen (Ny-Friesland)75NeiStrøen (Ny-Friesland)25NeiEinsteinvatnet (Austbotn)50Nei
+Det er åpnet for fiske i følgende vassdrag, knyttet til redskapstyper og maksimalkvoter for fisk over 25 cm. I alle disse vassdragene er det tillatt med håndsnøre og stang.
+
+| *Vassdrag* | *Maksimalkvote* | *Garnfiske tillatt* |
+| --- | --- | --- |
+| Richardvatnet (Raudfjorden) | 40 | Nei |
+| Rabotvatna (Rabotfjorden) | 10 | Nei |
+| Arresjøen (Danskøya) | 10 | Nei |
+| Gjøavatnet (Amsterdamøya) | 10 | Nei |
+| Åsøvatnet (v for Flathukfjellet) | 10 | Nei |
+| Pytten (Danskøya) | 20 | Nei |
+| Pervatnet (Sjubrean) | 30 | Nei |
+| Nordre Dieset (Mitrahalvøya) | 40 | Ja |
+| Søndre Dieset (Mitrahalvøya) | 30 | Ja |
+| Erlingvatnet (Mitrahalvøya) | 50 | Nei |
+| Murraytjørnene (Forlandet) | 25 | Nei |
+| Vårfluesjøen (Woodfjorden) | 150 | Ja |
+| Lovénvatnet (Trygghamna) | 10 | Ja |
+| Straumsjøen (Erdmannflya) | 100 | Nei |
+| Linnévatnet | 100 | Ja |
+| Kongressvatnet | 40 | Ja |
+| Bretjønna (Grønnfjordbotnen) | 10 | Ja |
+| Revvatnet (n for Hornsund) | 25 | Nei |
+| Svartvatnet (s for Hornsund) | 25 | Nei |
+| Mosselvatnet | 75 | Nei |
+| Femmilsjøen (Ny-Friesland) | 150 | Nei |
+| Lakssjøen (Ny-Friesland) | 75 | Nei |
+| Strøen (Ny-Friesland) | 25 | Nei |
+| Einsteinvatnet (Austbotn) | 50 | Nei |
 
 ## § 11. Iverksettelse m.m.
 

@@ -56,4 +56,6 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg 1. Oversikt over kommuner innenfor Oslofjordens nedbørsfelt
 
+[(pdf)](static/SF/sf-20230901-1388-01-02.pdf)
+
 > Endret ved forskrift [8 jan 2024 nr. 57](forskrift/2024-01-08-57).

@@ -30,6 +30,8 @@ Departementet kan gi nærmere bestemmelser om tildeling av støtte etter denne l
 
 > Endret ved [lov 4 des 1992 nr. 128](lov/1992-12-04-128).
 
+1 Jf. [EØS-avtalen](lov/1992-11-27-109/eøsl) art. 4.
+
 ## § 2.
 
 Fondet ledes av et styre på fem medlemmer med personlige varamenn, oppnevnt av Kongen for 4 år om gangen.

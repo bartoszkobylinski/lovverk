@@ -316,7 +316,7 @@ Med grunnlag i disse vilkårene fastsetter Finanstilsynet basisrentene for flyte
 
 Fra basisrentene trekker Husbanken fra 0,75 prosentpoeng for å komme fram til årlige effektive renter for fast og flytende rente. Årlig effektiv rente kan likevel ikke være negativ.
 
-Husbanken beregner de nominelle rentene ut fra de årlige effektive rentene. Formelen for å beregne de nominelle rentene er:$$r_n = \left[ (1 + r_e)^{\frac 1n} -1\right] n$$
+Husbanken beregner de nominelle rentene ut fra de årlige effektive rentene. Formelen for å beregne de nominelle rentene er:$$r_n = \\left[ (1 + r_e)^{\\frac 1n} -1\\right] n$$
 der:
 rn = årlig nominell rente i prosent
 re = årlig effektiv husbankrente i prosent, før gebyr

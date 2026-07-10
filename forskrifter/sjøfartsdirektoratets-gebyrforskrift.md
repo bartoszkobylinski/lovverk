@@ -42,25 +42,43 @@ Gebyrenes størrelse fastsettes (årlig) av Nærings- og fiskeridepartementet, v
 
 ### § 1. Virkeområde
 
+1\.
+
 Denne forskriften gjelder for oppkreving av gebyr for besiktelse, sertifikatutstedelse m.v. for:
+
+1.1
 
 Norske sertifikatpliktige skip herunder lektere,
 
+1.2.
+
 Norske ikke sertifikatpliktige skip som får utstedt identitetsbevis, tillatelser mv.
+
+1.3
 
 Norske flyttbare innretninger, herunder undervannsfartøy,
 
+1.4
+
 Utenlandske skip, og flyttbare innretninger samt skip tilhørende Det norske Sjøforsvar, som anmoder om besiktelse eller utstedelse av sertifikat, målebrev eller annen dokumentasjon.
+
+1.5
 
 Forskriften gjelder bareboatregistrerte og bareboat-utflaggede skip og flyttbare innretninger.
 
+1.6
+
 Ikke-sertifikatpliktige næringsfartøy fra og med 7 meter som registreres i NOR-registeret.
+
+2\.
 
 Forskriften gjelder også for utstyrsprodusenter og andre som anmoder om besiktelse, revisjon, godkjenning av utstyr mv.
 
 > Endret ved [forskrifter 28 feb 2001 nr. 263](forskrift/2001-02-28-263) (tidligere § 2), [26 juni 2020 nr. 1403](forskrift/2020-06-26-1403) (i kraft 1 juli 2020), [23 des 2020 nr. 3166](forskrift/2020-12-23-3166) (i kraft 1 jan 2021).
 
 ### § 2. Definisjoner
+
+1\.
 
 Definisjoner.
 
@@ -80,23 +98,33 @@ Eier av skipet eller den flyttbare innretningen og/eller den som har anmodet om 
 
 ### § 4. Beregningsgrunnlaget for gebyr
 
+1\.
+
 Tonnasje.
 
 Tonnasje er basert på Den Internasjonale konvensjon om måling av fartøyer, 1969, som trådte i kraft 18. juli 1994.
 
 For beregning av Sjøfartsdirektoratets gebyrer legges følgende kriterier til grunn: For fartøy med flere målebrev er det sistdaterte målebrev som legges til grunn for gebyrberegningen. Dersom det i målebrevet er innført sikkerhetstonnasje på side 4, skal denne legges til grunn.
 
+2\.
+
 Oljetankskip.
 
 For oljetankskip med segregerte ballasttanker reduseres fartøyets bruttotonnasje med:
+
+2.1.
 
 kapasiteten av ballasttankene uttrykt i tonnasjeenheter for fartøy utstyrt med Internasjonalt målebrev (1969-konvensjonen),
 
 eller
 
+2.2.
+
 kapasiteten av ballasttanker uttrykt i registertonn og som ikke er fratrukket i bruttotonnasjen i fartøyets gyldige målebrev, jf. § 8 nr. 2 i forskriften.
 
 Eier må selv søke om å få redusert bruttotonnasje lagt til grunn for gebyrberegningen.
+
+3\.
 
 Skip som ikke er målt.
 
@@ -104,13 +132,21 @@ Er skipet ikke målt beregnes bruttotonnasjen etter følgende formel:0,26 (L x B
 
 Alle mål angis i meter. Benyttes engelske fot er formelen:0,0075 (L x B x D)
 
+4\.
+
 Bruttotonnasjen etter nr. 1 til 3 avrundes nedover til nærmeste hele tonn.
 
+5\.
+
 Gebyr beregnet på grunnlag av største lengde.
+
+6\.
 
 Gebyr beregnet på grunnlag av anvendt tid.
 
 Når gebyret skal beregnes på grunnlag av anvendt tid, skal tid til og med 30 minutter regnes som halv time og tid over 30 minutter til og med 60 minutter regnes som hel time. Den som er ansvarlig for betaling av gebyret kan kreve fremlagt spesifikasjon over medgått tid.
+
+7\.
 
 For skip med flere hovedsertifikater skal årsgebyr beregnes etter det sertifikatet som har høyest gebyr. I gebyrsammenheng er hovedsertifikatene: Fartssertifikat for lasteskip og lektere, Sikkerhetssertifikat for utstyr, Passasjersertifikat, Sikkerhetssertifikat for passasjerskip, Dynamically Supported Craft, Sikkerhetssertifikat for hurtiggående fartøy, Fartssertifikat for fiske- og fangstfartøy, Fartøyinstruks for fiske- og fangstfartøy med største lengde fra 9–15 meter og Fartøyinstruks for lasteskip med største lengde fra 8–15 meter.
 
@@ -120,9 +156,13 @@ For flyttbare innretninger mv. er hovedsertifikatene i gebyrsammenheng: Safety E
 
 ### § 5. Gebyr- og timesatser
 
+1\.
+
 Gebyrenes størrelse, herunder timesatsene, som skal legges til grunn ved beregning av gebyr på grunnlag av anvendt tid, fastsettes av departementet i egen forskrift, forskrift om tariff for tjenester som utføres av Sjøfartsdirektoratet (Sjøfartsdirektoratets gebyrtariff).
 
 Dersom ikke annet fremgår av bestemmelsene i denne forskriften, skal forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på det tidspunkt tjenesten ble utført/avsluttet, legges til grunn.
+
+2\.
 
 For gebyr beregnet etter anvendt tid i henhold til kapittel 7 (Gebyr for flyttbare innretninger samt kombinerte flyttbare innretninger og for undervannsfartøy), gjelder timesatsene i [forskrift 27. juni 1997 nr. 652](forskrift/1997-06-27-652) om refusjon av utgifter for tilsyn med sikkerhet, arbeidsmiljø og ressursforvaltning i petroleumsvirksomheten.
 
@@ -130,15 +170,27 @@ For gebyr beregnet etter anvendt tid i henhold til kapittel 7 (Gebyr for flyttba
 
 ### § 6. Reiseutgifter, besiktelser utenom ordinær kontortid, ventetid m.v.
 
+1\.
+
 Bestemmelsene i denne paragrafen gjelder for alle tjenester med unntak av tjenester som inngår i førstegangsgebyr [kapittel 3](forskrift/1996-02-02-115/kap3).
+
+2\.
 
 For besiktelser og revisjoner i utlandet, oppkreves reiseutgifter etter statens regulativ for tjenestereiser i utlandet.
 
+3\.
+
 For tjenester i utlandet, oppkreves utgifter i forbindelse med tjenesten utover reiseutgifter.
+
+4\.
 
 Når den begjærte tjeneste ikke kan utføres ved tjenestemannens ankomst og dette ikke kan lastes tjenestemannen, skal reiseutgifter dekkes etter statens regulativ for tjenestereiser.
 
+5\.
+
 Når rekvirenten har begjært en tjeneste utført utenom ordinær kontortid (kl. 0800-1600), eller det skyldes rekvirenten at tjenesten må utføres utenom kontortid, skal det beregnes overtid pr. time for anvendt tid. Reisetid på lørdager, søndager, helligdager og offisielle høytidsdager skal medregnes ved beregning av anvendt tid.
+
+6\.
 
 Ventetid utover en time før tjenesten kan påbegynnes, som ikke kan lastes tjenestemannen, skal medregnes ved beregning av medgått tid. For tjenester som inngår i førstegangsgebyret, skal ventetid ikke oppkreves jf. nr. 1. For ventetid på overtid kommer overtidstillegget i tillegg til ventetid utover en time.
 
@@ -152,7 +204,11 @@ Ved betaling etter forfallsdato, beregnes forsinkelsesrenter etter lov om renter
 
 ### § 8. Fravik
 
+1\.
+
 Dersom gebyr i henhold til denne forskriften og i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet, i spesielle tilfeller finnes urimelige, kan Sjøfartsdirektoratet fastsette gebyret i det enkelte tilfelle.
+
+2\.
 
 For oljetankskip med segregerte ballasttanker må eier selv søke om reduksjon av gebyret innen den frist forvaltningsloven setter.
 
@@ -164,17 +220,31 @@ For oljetankskip med segregerte ballasttanker må eier selv søke om reduksjon a
 
 ### § 9. Gebyrplikt
 
+1\.
+
 Førstegangsgebyr og årsgebyr skal betales for:
+
+1.1.
 
 Alle norske sertifikatpliktige skip som er registrert eller skal registreres i NOR,
 
+1.2.
+
 Alle norske sertifikatpliktige skip som ikke er registreringspliktige,
+
+1.3.
 
 Ikke sertifikatpliktige skip som skal førstegangsmåles.
 
+1.4.
+
 Skip som bareboatregistreres i norsk skipsregister.
 
+2\.
+
 Sjøfartsdirektoratet kan etter søknad innrømme helt eller delvis fritak for gebyr som utstedes til verneverdige skip og skoleskip som har et myndighetsgodkjent maritimt undervisningsopplegg. Innsjøbåter som har fartsområde i innsjøer og elver kan etter søknad innvilges halvt årsgebyr.
+
+3\.
 
 I tillegg skal det betales gebyr for tjenester som følger av [kapittel 5](forskrift/1996-02-02-115/kap5) (Andre gebyr for sertifikatpliktige skip (NOR og NIS)) og [kapittel 8](forskrift/1996-02-02-115/kap8) (Gebyr for måling mv.).
 
@@ -182,21 +252,33 @@ I tillegg skal det betales gebyr for tjenester som følger av [kapittel 5](forsk
 
 ### § 10. Ansvar
 
+1\.
+
 Førstegangsgebyr.
+
+1.1.
 
 Skip som bygges i Norge:
 
 Verkstedet er ansvarlig for betaling av førstegangsgebyret når verkstedet plikter å sende byggeanmeldelse. I andre tilfeller skal gebyret betales av den som overtar skipet fra verkstedet.
 
+1.2.
+
 Skip eller skrog som bygges i utlandet og innkjøpt skip:
 
 Den eier som innfører skipet, er ansvarlig for førstegangsgebyret. For innført skrog som utrustes i Norge er verkstedet i Norge ansvarlig for førstegangsgebyret. Gebyret beregnes etter satsen for skrogbyggelandet uavhengig om det er utført tjenester i skrogbyggelandet.
+
+1.3.
 
 Kansellering av nybygg:
 
 For skip som bygges i Norge, er verkstedet ansvarlig for gebyret når det plikter å sende melding om kansellering. For skip eller skrog som bygges i utlandet, er rederen (bestilleren) ansvarlig når denne plikter å sende melding om kansellering.
 
+1.4.
+
 Bareboatregistreres et skip, er befrakter ansvarlig for førstegangsgebyret.
+
+2\.
 
 Årsgebyr
 
@@ -206,31 +288,55 @@ Eier av skipet pr. 1. mars er ansvarlig for betaling av årsgebyr. Bareboatregis
 
 ### § 11. Utstedelse av førstegangsgebyr
 
+1\.
+
 Førstegangsgebyr er et engangsgebyr som dekker alt arbeid som Sjøfartsdirektoratet utfører i forbindelse med førstegangsutstedelse av nasjonale og internasjonale sertifikater, inklusive førstegangsmåling/kjenningsmåling og sertifikatutstedelse på nybygg samt eksisterende skip som skal ha sertifikat for første gang, blant annet innkjøpte skip.
 
 Førstegangsgebyret dekker ikke:Kostnader som påløper ved at begjærte besiktelser i utlandet ikke kan utføres, blant annet på grunn av mangelfull planlegging fra oppdragsgiver. I disse tilfeller oppkreves reiseutgifter samt nærmere angitte timebaserte tjenester, jf. [§ 6](forskrift/1996-02-02-115/§6). Gebyret oppkreves i henhold til timesatsene i [Sjøfartsdirektoratets gebyrtariff](forskrift/2009-12-21-1738).Behandling av dispensasjonssøknader i forbindelse med arbeidstid og/eller bemanning, jf. [§ 23](forskrift/1996-02-02-115/§23).Revisjon og sertifisering i henhold til Internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning (ISM-koden).Tilsyn og sertifisering for nye og innførte skip som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).Inspeksjon og sertifisering av MLC.
 
+2\.
+
 Førstegangsgebyrer utstedes av Sjøfartsdirektoratet i to faser som følger:
+
+2.1.
 
 For skip eller skrog som byggeanmeldes utstedes et stipulert førstegangsgebyr på 50 pst. av fullt førstegangsgebyr, basert på de data som fremgår av byggemeldingen. Når målebrev/identitetsbevis utstedes første gang utstedes resten av førstegangsgebyret basert på data som fremgår av målebrevet/identifikasjonsbeviset.
 
 Gebyr i henhold til forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet, på henholdsvis dato for byggeanmeldelse og dato for utstedelse av målebrev/identitetsbevis utstedes, legges til grunn.
 
+2.2.
+
 For skip som ikke er byggeanmeldingspliktig og for innkjøpt skip, utstedes førstegangsgebyr i sin helhet etter tildeling av norsk kjenningssignal. Gebyret i henhold til forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på dato for registrering i Skipsregistrene NIS/NOR, legges til grunn.
+
+3\.
 
 Førstegangsgebyret er inndelt i følgende kategorier:
 
+3.1.
+
 Passasjerskip, herunder hurtiggående passasjerskip.
+
+3.2.
 
 Klassifiserte lasteskip, unntatt beredskapsfartøy.
 
+3.3.
+
 Uklassifiserte lasteskip, unntatt beredskapsfartøy.
+
+3.4.
 
 Beredskapsfartøy.
 
+3.5.
+
 Klassifiserte fiske- og fangstfartøy.
 
+3.6.
+
 Uklassifiserte fiske- og fangstfartøy.
+
+3.7.
 
 Ikke sertifikatpliktige skip og lektere, samt skip som har seilt uten målebrev/identitetsbevis.
 
@@ -238,29 +344,51 @@ Ikke sertifikatpliktige skip og lektere, samt skip som har seilt uten målebrev/
 
 ### § 12. Utstedelse av årsgebyr mv.
 
+1\.
+
 Årsgebyr er et fast årlig gebyr som dekker alt arbeid som Sjøfartsdirektoratet/skipskontrollen utfører i forbindelse med opprettholdelse og fornyelse av nasjonale og internasjonale sertifikater mv. med unntak som gitt i annet ledd.
 
 Gebyret dekker ikke:Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)Sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl etter Ansvarskonvensjonen 1992 (CLC-sertifikat)Sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001 (CLB-sertifikat)Sertifikatbesiktelser som utføres utenom ordinær arbeidstid ved stasjoneneSertifikat om forsikring eller annen økonomisk sikkerhet etter Aten-konvensjonen 2002 (PLR-sertifikat)Inspeksjon og sertifisering av MLCTilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)Sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
 
 Årsgebyret betales hvert år, uavhengig av om skipet mottar tjenester fra Sjøfartsdirektoratet eller ikke.
 
+2\.
+
 Årsgebyr utstedes av Sjøfartsdirektoratet som følger:
+
+2.1.
 
 Årsgebyr utstedes første gang året etter at skipet registreres i NOR.
 
+2.2.
+
 Årsgebyr utstedes i sin helhet en gang hvert år.
+
+2.3.
 
 For fiske- og fangstfartøy mellom 9 og 15 meters største lengde, og lasteskip mellom 8 og 15 meters største lengde, skal det betales årsgebyr etter satsene i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. I de tilfeller Sjøfartsdirektoratet krever, eller reder anmoder om, fremstilling av fartøyet for kontroll ved Sjøfartsdirektoratet, oppkreves et timebasert gebyr samt eventuelle reiseutgifter, i tillegg til årsgebyret. Gebyret oppkreves i henhold til [§ 35](forskrift/1996-02-02-115/§35) Øvrige tjenester.
 
+2.4
+
 Alle næringsfartøy fra og med 7 meter samt fritidsfartøy fra og med 24 meter, og som ikke mottar årsgebyr for sertifisering/fartøyinstruks, skal betale et årsgebyr for å opprettholde NOR-registreringen.
+
+3\.
 
 Årsgebyret er inndelt i følgende kategorier:
 
+3.1.
+
 Passasjerskip, herunder hurtiggående passasjerskip
+
+3.2.
 
 Lasteskip
 
+3.3.
+
 Fiske- og fangstfartøy
+
+3.4.
 
 Lekter
 
@@ -272,43 +400,79 @@ For hurtiggående passasjerskip beregnes årsgebyret etter satsen for skip i st�
 
 Det må foreligge søknad om fritak for å få innvilget reduksjon/fritak av førstegangsgebyr.
 
+1\.
+
 Førstegangsgebyr.
+
+1.1.
 
 Innkjøpt skip som tidligere har vært registrert i NOR eller NIS, er fritatt for førstegangsgebyr.
 
+1.2.
+
 Ved kansellering av nybygg skal førstegangsgebyr betales som følger:
+
+1.2.1.
 
 Når tegningsbehandling er påbegynt, betales 40 % av førstegangsgebyret.
 
+1.2.2.
+
 Når byggetilsyn er påbegynt, betales 80 % av førstegangsgebyret.
+
+1.2.3.
 
 Er sluttbesiktelse avsluttet, betales 100 % av førstegangsgebyret.
 
 Gebyr i henhold til forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på det tidspunkt melding om kansellering kommer til Sjøfartsdirektoratet legges til grunn.
 
+1.3.
+
 For skip som endrer status fra NIS til NOR under bygging, skal det betales førstegangsgebyr etter reglene for NOR skip.
+
+1.4.
 
 For fiske- og fangstfartøy mellom 9 og 15 meters største lengde, skal det etter 1. januar 2001 ikke betales førstegangsgebyr.
 
+1.5.
+
 For skip med begrenset passasjerbefordring betales førstegangsgebyr som for ikke sertifikatpliktig fartøy.
+
+1.6.
 
 Førstegangsgebyret reduseres/tilbakebetales ikke selv om skipet kort tid etter at det er registrert, selges for registrering i annet lands skipsregister, overføres til NIS, kondemneres, eller på annen måte går tapt.
 
+2\.
+
 Årsgebyr.
+
+2.1.
 
 Skip som blir overført fra NOR til NIS eller fra NIS til NOR betaler årsgebyr for det registeret skipet er registrert i 1. januar.
 
+2.2.
+
 Registrerte skip som selges til utlandet, og som slettes i NOR før 1. mars, fritas for årsgebyr.
 
+2.3.
+
 Skip som bareboat-utflagges fra NOR før 1. mars, fritas for årsgebyr.
+
+2.4.
 
 Når et skips sertifikater ikke fornyes eller når gyldigheten på annen måte utgår opphører den videre oppkrevingen av årsgebyr.
 
 Gebyroppkrevingen opphører ikke dersom sertifikatene bare er midlertidig ugyldige og blir fornyet i løpet av ett år.
 
+2.5.
+
 For skip som ligger i opplag eller av annen grunn ikke er i drift, må sertifikatene, eventuelt fartøyinstruks, sendes Sjøfartsdirektoratet før 1. mars for at gyldigheten skal anses opphørt og gebyrfritak gis. Dette gjelder også for ikke-registrerte skip som selges til utlandet.
 
+2.6.
+
 Eier må selv søke om fritak for årsgebyr innen 3 uker fra mottak av regning.
+
+2.7.
 
 Det er fritak for årsgebyr det året skipet registreres i NOR.
 
@@ -328,19 +492,29 @@ I tillegg skal det betales gebyr for tjenester som følger av [kapittel 5](forsk
 
 ### § 15. Ansvar
 
+1\.
+
 Førstegangsgebyr.
+
+1.1.
 
 Skip som bygges i Norge:
 
 Verkstedet er ansvarlig for betaling av førstegangsgebyret når verkstedet plikter å sende byggeanmeldelse. I andre tilfeller skal gebyret betales av den som overtar skipet fra verkstedet.
 
+1.2.
+
 Skip som bygges i utlandet og innkjøpt skip:
 
 Den eier som innfører skipet i NIS er ansvarlig for førstegangsgebyret. Gjelder det en bareboatregistrering, er befrakter ansvarlig. Når skipet er registrert i henhold til [NIS-loven § 1 nr. 3](lov/1987-06-12-48/§1/nummer/3), er registrert representant ansvarlig for betaling av førstegangsgebyret.
 
+1.3.
+
 Kansellering av nybygg:
 
 Ved kansellering av nybygg som bygges i Norge, er verkstedet ansvarlig for gebyret i de tilfeller verkstedet plikter å sende melding om kansellering. For nybygg som bygges i utlandet, er rederen (bestilleren) ansvarlig når denne plikter å sende melding om kansellering.
+
+2\.
 
 Årsgebyr
 
@@ -350,17 +524,31 @@ Eier av skipet pr. 1. januar er ansvarlig for betaling av årsgebyr. Gjelder det
 
 ### § 16. Utstedelse av førstegangsgebyr
 
+1\.
+
 Førstegangsgebyret er et engangsgebyr. Sjøfartsdirektoratet utsteder gebyret i to faser. Ved mottak av byggemelding utstedes et stipulert førstegangsgebyr på 50 pst. av fullt førstegangsgebyr, basert på data som fremgår av byggemeldingen. Når skipet er registrert i NIS utstedes resten av førstegangsgebyret. Gjeldende forskrift om tariff for tjenester som utføres av Sjøfartsdirektoratet på henholdsvis dato for byggemelding og registreringsdatoen legges til grunn.
+
+2\.
 
 Ved kansellering av nybygg utstedes førstegangsgebyr når melding om kansellering er mottatt. Gjeldende forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet, på dato for melding om kansellering, legges til grunn.
 
+3\.
+
 For nybygg som er kontrahert for registrering i NOR, men hvor kontraheringen senere omgjøres for registrering i NIS eller skipet registreres i NIS, fastsetter Sjøfartsdirektoratet førstegangsgebyrets størrelse i hvert enkelt tilfelle.
+
+4\.
 
 Førstegangsgebyret er inndelt i følgende kategorier:
 
+4.1.
+
 Passasjerskip, herunder hurtiggående passasjerfartøy.
 
+4.2.
+
 Lasteskip under 500 BRT, samt beredskapsfartøy og forsyningsskip
+
+4.3.
 
 Lasteskip på 500 BRT og derover, unntatt beredskapsfartøy og forsyningsskip
 
@@ -370,15 +558,27 @@ Lasteskip på 500 BRT og derover, unntatt beredskapsfartøy og forsyningsskip
 
 Årsgebyr er et fast årlig gebyr som utstedes av Sjøfartsdirektoratet som følger:
 
+1\.
+
 Årsgebyr utstedes første gang året etter at skipet registreres i NIS.
+
+2\.
 
 Årsgebyr utstedes i sin helhet en gang hvert år.
 
+3\.
+
 Årsgebyret er inndelt i følgende kategorier:
+
+3.1
 
 Passasjerskip
 
+3.2
+
 Lasteskip
+
+3.3
 
 Opprettholde registreringen av skipet i norsk internasjonalt skipsregister.
 
@@ -386,31 +586,57 @@ Opprettholde registreringen av skipet i norsk internasjonalt skipsregister.
 
 ### § 18. Fritak m.v. for førstegangsgebyr og årsgebyr
 
+1\.
+
 Førstegangsgebyr.
+
+1.1.
 
 For skip som overføres fra NOR, og for skip som tidligere har vært registrert i NOR eller NIS, skal det ikke betales førstegangsgebyr.
 
+1.2.
+
 Ved kansellering av nybygg, når dette er lasteskip på 500 brt. og derover og ikke er beredskapsfartøy eller forsyningsskip skal det ikke betales førstegangsgebyr.
+
+1.3.
 
 Ved kansellering av nybygg, unntatt nybygg som nevnt i nr. 1.2., skal førstegangsgebyr betales som følger:
 
+1.3.1.
+
 Når tegningsbehandling er påbegynt, skal det betales 40% av førstegangsgebyret.
 
+1.3.2.
+
 Når byggetilsyn er påbegynt, skal det betales 80% av førstegangsgebyret.
+
+1.3.3.
 
 Når sluttbesiktelse er foretatt, skal det betales 100% av førstegangsgebyret.
 
 Gebyr i henhold til gjeldende forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet, på det tidspunkt melding om kansellering kommer til Sjøfartsdirektoratet, skal legges til grunn.
 
+1.4.
+
 Førstegangsgebyret reduseres/tilbakebetales ikke selv om skipet kort tid etter at det er registrert, selges for registrering i annet lands skipsregister, overføres til NOR, kondemneres, eller på annen måte går tapt.
+
+2\.
 
 Årsgebyr.
 
+2.1.
+
 Skip som blir overført fra NOR til NIS eller fra NIS til NOR betaler årsgebyr for det registeret skipet er registrert i 1. januar.
+
+2.2.
 
 Årsgebyr NIS skal betales i sin helhet dersom skipets registrering i NIS opphører og skipet registreres på nytt i NIS innen et år.
 
+2.3.
+
 Det er fritak for årsgebyr det året skipet registreres i NIS.
+
+2.4.
 
 Skip som bareboat-utflagges fra NIS, fritas for årsgebyr fra 1. januar påfølgende år.
 
@@ -422,13 +648,23 @@ Skip som bareboat-utflagges fra NIS, fritas for årsgebyr fra 1. januar påfølg
 
 ### § 19. Generelt om andre gebyr for sertifikatpliktige skip
 
+1\.
+
 Gebyrene i dette kapittel kommer i tillegg til årsgebyret, jf. [§ 12](forskrift/1996-02-02-115/§12) nr. 1.
+
+2\.
 
 Når tjenester omhandlet i dette kapittel utføres ved førstegangs behandling av nybygg eller innkjøpte skip, skal gebyr ikke betales.
 
+3\.
+
 Unntatt fra bestemmelser i nr. 2, er førstegangs behandling av dispensasjonssøknader i forbindelse med arbeidstid/bemanning, jf. [§ 23](forskrift/1996-02-02-115/§23). Gebyr for disse tjenestene skal betales i tillegg til førstegangsgebyret.
 
+4\.
+
 Lasteskip med bruttotonnasje 500 eller mer som er registrert klasset i NIS og som ikke er beredskapsfartøy eller forsyningsskip, er unntatt fra bestemmelsene i dette kapittel. Dette gjelder likevel ikke for:Utstedelse av sertifikat om forsikring og annen sikkerhet for oljesølansvar for skip etter Bunkerskonvensjonen 2001, jf. [§ 24 nr. 3](forskrift/1996-02-02-115/§24/nummer/3) (CLB-sertifikat)Utstedelse av sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar etter Aten-konvensjonen 2002 eller Aten-forordningen, jf. § 24 nr. 5 (PLR-sertifikat)Tilsyn og sertifisering etter [forskrift 8. september 2017 nr. 1368 om ballastvannbehandling på skip og flyttbare innretninger](forskrift/2017-09-08-1368), jf. [forskrift 22. desember 2014 nr. 1893 om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b](forskrift/2014-12-22-1893/§34b) og [§ 34c](forskrift/2014-12-22-1893/§34c) (IBWC-sertifikat)Tilsyn og sertifisering etter [forskrift 6. desember 2018 nr. 1813 om gjenvinning av skip og flyttbare innretninger](forskrift/2018-12-06-1813) (IHM-sertifikat, IIHM-sertifikat, RRC-sertifikat og IRRC-sertifikat)Utstedelse av sertifikat om forsikring eller annen sikkerhet for ansvar etter Vrakfjerningskonvensjonen 2007 (WRC-sertifikat).
+
+5\.
 
 Regning for gebyr omhandlet i dette kapittel utstedes når tjenesten er utført.
 
@@ -436,7 +672,11 @@ Regning for gebyr omhandlet i dette kapittel utstedes når tjenesten er utført.
 
 ### § 20. Utstedelse av gebyr – ansvar
 
+1\.
+
 Gebyrene skal betales av eier på det tidspunkt tjenesten er utført. Dersom skipet er solgt til utlandet, kondemnert, eller på annen måte gått tapt før regning er utstedt, betales gebyret av den som sist var eier av fartøyet. Hvis skipet er registrert i henhold til [NIS-loven § 1 nr. 3](lov/1987-06-12-48/§1/nummer/3), er registrert representant ansvarlig for betaling av gebyret.
+
+2\.
 
 For skip som overføres fra NOR til NIS før regning er utstedt, betales gebyret av den som sist var registrert eier i NOR.
 
@@ -450,7 +690,11 @@ For gjentatt besiktelse av at pålegg som er gitt under en tidligere besiktelse 
 
 ### § 22. Bortfall av klasse
 
+1\.
+
 For skip som endrer status fra klassifisert til uklassifisert, skal det betales et gebyr tilsvarende 50% av førstegangsgebyret for uklassifisert nybygg (NOR) som bygges i Norge. Gebyr i henhold til forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på dato for bortfall av klasse, legges til grunn.
+
+2\.
 
 Denne bestemmelse gjelder ikke for passasjerskip.
 
@@ -472,31 +716,59 @@ Særskilte gebyr i samsvar med [forskrift om gebyr for tjenester som utføres av
 
 Gebyr beregnet etter anvendt tid, i samsvar med timesatser fastsatt i [forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet](forskrift/2009-12-21-1738), betales for:
 
+1\.
+
 Besiktelse, beregningsarbeid og tegnings- og rapportgjennomgang i forbindelse med
+
+1.1.
 
 krengeprøve unntatt førstegangs og obligatorisk oppfølging for fiske- og fangstfartøy hvert 10. år, 5-årig lettskipsmåling for passasjerskip, stabilitetsberegning fiske- og fangstfartøy og/eller 10 årlig lettskipsmåling for mindre lasteskip under 24 meter
 
+1.2.
+
 ombygging, herunder verifikasjon av dokumentasjon. Eventuell videre oppfølging og annen gangs saksbehandling
+
+1.3.
 
 bytte av motor.
 
+2\.
+
 Besiktelse for, og/eller utstedelse av:
+
+2.1.
 
 fartstillatelse,
 
+2.2.
+
 passasjersertifikat for skip som har gyldig fartssertifikat eller fartøyinstruks for fiske- og fangstfartøy,
+
+2.3.
 
 slepetillatelse,
 
+2.4.
+
 flytteattest,
+
+2.5.
 
 endring av sertifikat,
 
+2.6.
+
 forlengelse av sertifikater,
+
+2.7.
 
 besiktelse utenom tidsvinduet som følge av forlengelse av sertifikat, utsettelse av deler av inspeksjonen, eller at fartøyet har seilt uten å begjære inspeksjon tidsnok til å overholde sertifikatets tidsintervall (tidsvindu).
 
+3\.
+
 Besiktelse av skip og/eller maskineri i forbindelse med havari.
+
+4\.
 
 Tilstedeværelse ved forurensning.
 
@@ -504,13 +776,23 @@ Tilstedeværelse ved forurensning.
 
 ### § 26. Revisjoner og sertifiseringer etter internasjonale normer og sertifisering av skip som bruker drivstoff med flammepunkt under 60° C
 
+1\.
+
 For revisjon og sertifisering av skip betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid om bord i skipet og etterarbeid i forbindelse med revisjonen.
+
+2\.
 
 For revisjon av rederi betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid hos rederiet og etterarbeid i forbindelse med revisjonen.
 
+3\.
+
 For sertifisering av skip som skal ha sertifikat som kreves etter [forskrift 23. november 2016 nr. 1363](forskrift/2016-11-23-1363) om sikkerhetstiltak for skip som opererer i polare farvann, jf. SOLAS kapittel XIV, betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid med og etterarbeid i forbindelse med sertifiseringen.
 
+4\.
+
 For sertifisering av skip som bruker drivstoff med flammepunkt under 60° C, betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid med og etterarbeid i forbindelse med sertifiseringen.
+
+5\.
 
 For sertifisering av og tilsyn med skip som skal ha sertifikat eller tilsyn etter [forskrift 8. september 2017 nr. 1368](forskrift/2017-09-08-1368) om ballastvannbehandling på skip og flyttbare innretninger, jf. [forskrift 22. desember 2014 nr. 1893](forskrift/2014-12-22-1893) om tilsyn og sertifikat for norske skip og flyttbare innretninger § 34b og § 34c, betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Anvendt tid inkluderer forarbeid, arbeid med og etterarbeid i forbindelse med sertifiseringen og tilsynet.
 
@@ -534,13 +816,23 @@ Når Sjøfartsdirektoratet har nedlagt forbud mot at norsk skip forlater utenlan
 
 ### § 29. Utstedelse av gebyr – ansvar
 
+1\.
+
 Gebyr for tjenester som ytes ikke sertifikatpliktige skip, skip uten gyldig sertifikat, utenlandske skip, skip som tilhører Det norske Sjøforsvar og verksteder m.v., utstedes når tjenesten er utført.
+
+2\.
 
 Den som begjærer tjenesten er ansvarlig for betaling av gebyret når tjenesten utføres i Norge.
 
+3\.
+
 Eier er ansvarlig for betaling av gebyret når tjenesten utføres i utlandet.
 
+4\.
+
 Verkstedet er ansvarlig for gebyret for tjenester som ytes skip som bygges i Norge for utenlandsk regning.
+
+5\.
 
 Eier, eller den tjenesten utføres for, er ansvarlig for gebyret når en tjeneste er utført på begjæring av Sjøfartsdirektoratet.
 
@@ -562,7 +854,11 @@ For utenlandsk skip som tilbakeholdes i norsk havn, skal eier dekke alle utgifte
 
 ### § 32. Godkjenning av tegninger og utstyr m.v.
 
+1\.
+
 For tegningsgjennomgåelse i forbindelse med kontroll og godkjenning av instrumenter og utstyr mv. som er bestemt til skipsbruk, skal det betales gebyr beregnet etter anvendt tid i samsvar med timesatser fastsatt i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Det skal ikke oppkreves gebyr for utstyr som allerede er plassert om bord i sertifikatpliktig fartøy.
+
+2\.
 
 I tillegg skal det betales de utgifter som påløper ved undersøkelser eller prøver.
 
@@ -576,15 +872,27 @@ For tjenester i forbindelse med utstedelse av dyktighetssertifikatet oppkreves g
 
 ### § 34. Gebyr for nybygg som skal registreres i utlandet
 
+1\.
+
 Når Sjøfartsdirektoratet etter anmodning utfører tjenester for nybygg som skal registreres i utlandet, skal det betales gebyr etter forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet for førstegangsgebyr NOR som følger:
+
+1.1.
 
 For tegningsgjennomgåelse betales 40% av førstegangsgebyret.
 
+1.2.
+
 For byggetilsyn betales 60% av førstegangsgebyret.
+
+1.3.
 
 Er sluttbesiktelse avsluttet betales 100% av førstegangsgebyret.
 
+2\.
+
 Gebyr etter denne bestemmelse skal betales forskuddsvis.
+
+3\.
 
 Ved kansellering refunderes ikke gebyret dersom tjenesten er påbegynt.
 
@@ -602,11 +910,19 @@ For andre tjenester, herunder bekreftelse på førstegangsbesiktelse (tidligere 
 
 ### § 36. Gebyrplikt
 
+1\.
+
 For enhver norsk flyttbar innretning og undervannsfartøy skal det betales et førstegangsgebyr samt årsgebyr og øvrige gebyr som fastsatt i dette kapittel. Gebyr for måling og utstedelse av målebrev betales i samsvar med bestemmelsen i [kapittel 8](forskrift/1996-02-02-115/kap8).
+
+2\.
 
 Ved utstedelse av «Letter of Compliance» for utenlandske flyttbare innretninger, skal betales gebyr tilsvarende førstegangsgebyr som for norske flyttbare innretninger. Deretter betales årsgebyr som for norske flyttbare innretninger.
 
+3\.
+
 Dersom den begjærte tjeneste ikke kan utføres til avtalt tid skal betales kanselleringsgebyr i samsvar med [forskrift 27. juni 1997 nr. 652](forskrift/1997-06-27-652) om refusjon av utgifter for tilsyn med sikkerhet, arbeidsmiljø og ressursforvaltning i petroleumsvirksomhet.
+
+4\.
 
 For kombinerte flyttbare innretninger fastsettes gebyr i hvert enkelt tilfelle.
 
@@ -614,7 +930,11 @@ For kombinerte flyttbare innretninger fastsettes gebyr i hvert enkelt tilfelle.
 
 ### § 37. Ansvar
 
+1\.
+
 Førstegangsgebyr.
+
+1.1.
 
 Norske flyttbare innretninger og undervannsfartøy.
 
@@ -622,21 +942,31 @@ Den som begjærer besiktelse for maritime sertifikater er ansvarlig for betaling
 
 Ved bygging i utlandet kan Sjøfartsdirektoratet forlange bankgaranti til sikkerhet for førstegangsgebyret.
 
+1.2.
+
 Utenlandske flyttbare innretninger.
 
 Den som begjærer Letter of Compliance er ansvarlig for betaling av gebyret.
 
 Begjæres Letter of Compliance av utenlandsk selskap kan Sjøfartsdirektoratet kreve bankgaranti til sikkerhet for førstegangsgebyret.
 
+2\.
+
 Årsgebyr.
+
+2.1.
 
 Norske flyttbare innretninger og undervannsfartøy.
 
 Registrert eier er ansvarlig for betaling av gebyret. Gjelder det en bareboatregistrering, er befrakter ansvarlig.
 
+2.2.
+
 Utenlandske flyttbare innretninger.
 
 Den som av eier er oppgitt som forretningsadresse er ansvarlig for årsgebyret. Sjøfartsdirektoratet kan trekke Letter of Compliance tilbake dersom årsgebyret ikke betales i rett tid.
+
+3\.
 
 Andre gebyr.
 
@@ -646,17 +976,29 @@ Den som begjærer tjenesten er ansvarlig for betaling av gebyret. Dersom det er 
 
 ### § 38. Utstedelse av førstegangsgebyr
 
+1\.
+
 Førstegangsgebyr er et engangsgebyr som dekker utgiftene ved gjennomgåelse av tegninger, byggetilsyn av nybygg og annen førstegangsbesiktelse, gjennomgåelse av rapporter fra Sjøfartsdirektoratet, utstedelse av sertifikater, førstegangsmåling og utstedelse av målebrev.
+
+2\.
 
 Hvis det i byggeperioden blir nødvendig å utføre ekstrakontroll på grunn av dårlig planlegging, eller kontrollen blir forsinket grunnet forhold som ikke skyldes Sjøfartsdirektoratets inspektører, kan Sjøfartsdirektoratet beregne tilleggsgebyr etter medgått tid i henhold til de timesatser som er fastsatt i [forskrift 8. januar 2013 nr. 16 om adgang til å kreve gebyr og sektoravgift for tilsyn og annen oppfølging med arbeidsmiljø og sikkerhet i petroleumsvirksomheten](forskrift/2013-01-08-16).
 
 Førstegangsgebyret dekker ikke:Tjenester som omfattes av SUT.Tilsyn og sertifisering for nye og innførte flyttbare innretninger og undervannsfartøy som skal ha fortegnelse over farlige materialer (IHM-sertifikat og IIHM-sertifikat).
 
+3\.
+
 Førstegangsgebyr utstedes etter førstegangsutstedelse av sertifikater/Letter of Compliance. Forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet på tidspunktet for avsluttet besiktelse legges til grunn.
+
+4\.
 
 Førstegangsgebyret er inndelt i følgende kategorier:
 
+4.1.
+
 Flyttbare innretninger.
+
+4.2.
 
 Undervannsfartøy.
 
@@ -664,21 +1006,35 @@ Undervannsfartøy.
 
 ### § 39. Utstedelse av årsgebyr
 
+1\.
+
 Årsgebyr dekker enhver periodisk og mellomliggende besiktelse for fornyelse av maritime sertifikater/Letter of Compliance. Årsgebyret dekker også tegningsgjennomgåelse, avgjørelse av bemanningsspørsmål og andre oppgaver i forbindelse med mindre ombygginger, samt utgifter i forbindelse med ett tilsyn i året. Årsgebyret dekker ikke tjenester som omfattes av SUT.
 
 Utgifter til reiser utenfor norsk sokkel kan oppkreves etter statens regulativ for tjenestereiser i utlandet.
 
+2\.
+
 Sjøfartsdirektoratet utsteder årsgebyr som følger:
+
+2.1.
 
 Første gang en flyttbar innretning får utstedt sertifikat/Letter of Compliance betales redusert årsgebyr.
 
 Redusert årsgebyr er 1/12 årsgebyr multiplisert med det gjenværende antall måneder i året, inklusiv måneden for utstedelse av sertifikat/Letter of Compliance.
 
+2.2.
+
 Årsgebyr utstedes deretter i sin helhet en gang hvert år.
+
+3\.
 
 Årsgebyret er inndelt i følgende kategorier:
 
+3.1.
+
 Flyttbare innretninger.
+
+3.2.
 
 Undervannsfartøy.
 
@@ -712,7 +1068,11 @@ Vedkommende etat kan selv kreve opp gebyr beregnet etter anvendt tid, basert på
 
 ### § 43. Gebyrplikt
 
+1\.
+
 Ethvert norsk eller utenlandsk skip, flyttbare innretninger og andre flytende innretninger som ikke er å anse som skip, skal ilegges gebyr for måling/kjenningsmåling og utstedelse av målebrev/identitetsbevis i henhold til forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet.
+
+2\.
 
 For norske skip og lektere som har fått utstedt førstegangsgebyr skal det ikke betales særskilt gebyr for førstegangsmåling/kjenningsmåling eller førstegangsutstedelse av målebrev/identitetsbevis.
 
@@ -720,7 +1080,11 @@ For norske skip og lektere som har fått utstedt førstegangsgebyr skal det ikke
 
 ### § 44. Utstedelse av gebyr – ansvar
 
+1\.
+
 Gebyr for måling/ommåling (herunder kjenningsmåling) og utstedelse av målebrev/identitetsbevis, utstedes av Sjøfartsdirektoratet i henhold til satsene i forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet. Gebyret utstedes når tjenesten er utført. Endringer av målebrev/identitesbevis som medfører utstedelse av nytt målebrev/identitetsbevis er gebyrpliktig.
+
+2\.
 
 Den som begjærer tjenesten er ansvarlig for betaling av gebyret. Dersom det er et utenlandsk selskap som begjærer tjenesten, kan Sjøfartsdirektoratet forlange bankgaranti.
 
@@ -732,7 +1096,11 @@ Den som begjærer tjenesten er ansvarlig for betaling av gebyret. Dersom det er 
 
 ### § 45. Klassifiserte skip
 
+1\.
+
 For utstedelse av lastelinjesertifikat med det forutgående arbeid som er nødvendig for å fastsette og kontrollere lastelinjenes plass, betales gebyr til vedkommende klasseinstitusjon i samsvar med institusjonens egne satser.
+
+2\.
 
 Når Sjøfartsdirektoratet utsteder lastelinjesertifikat for skip i anerkjent klasseinstitusjon skal det betales gebyr til Sjøfartsdirektoratet i samsvar med timesatser i den enhver tid gjeldende forskrift om gebyr for tjenester som utføres av Sjøfartsdirektoratet.
 
@@ -750,9 +1118,13 @@ Besiktelse og forarbeid for lastelinjesertifikat og merking av lastelinje inngå
 
 ### § 47. Tjenester som utføres av anerkjente klasseselskaper
 
+1\.
+
 Generell bemyndigelse
 
 For tjenester som anerkjente klasseselskaper utfører i henhold til generell bemyndigelse for skip registrert i NOR eller i NIS, skal klasseinstitusjonen selv kreve opp godtgjørelsen hos reder eller andre etter satser som klasseinstitusjonen selv fastsetter.
+
+2\.
 
 Spesiell bemyndigelse
 
@@ -772,7 +1144,11 @@ Det kan også kreves godtgjørelse for tjenester som utføres av andre iht. egen
 
 ### § 49. Ikrafttredelse m.v.
 
+1\.
+
 Denne forskrift trer i kraft 5. februar 1996.
+
+2\.
 
 Fra samme tid oppheves [forskrift av 4. februar 1994 nr. 113](forskrift/1994-02-04-113) om oppkreving av gebyrer til statskassen for besiktelser, sertifikatutstedelse m.v. som foretas i henhold til sjødyktighetsloven m.v. (gebyrforskriften).
 

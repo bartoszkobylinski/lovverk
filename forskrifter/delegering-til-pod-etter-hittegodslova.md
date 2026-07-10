@@ -24,4 +24,6 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+[Lov av 29. mai 1953 nr. 3](lov/1953-05-29-3) om hittegods [§ 11](lov/1953-05-29-3/§11) annet ledd.
+
 - Klager over vedtak truffet i medhold av [lov av 29. mai 1953 nr. 3](lov/1953-05-29-3) om hittegods, jf. lovens § 11 annet ledd 2. punktum.

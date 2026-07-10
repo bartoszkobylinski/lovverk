@@ -68,9 +68,19 @@ Fangstdelen skal ha sidevegger og bunn, og en eller flere kiler som danner en sp
 
 Enkel kilenot har inngang for fisken bare på den ene siden av ledegarnet og har ett eller to fangstkammer (figur 1 og 2).
 
+*Figur 1. Enroms og toroms kilenot.*
+
+*Figur 2. Enkel kilenot satt i forlengelsen av ledegarnet.*
+
 ### § 8. Dobbel kilenot
 
 Dobbel kilenot har inngang for fisken på begge sider av ledegarnet og har ett til fire fangstkammer (figur 3 og 4). Kilenot med to ledegarn regnes som dobbelnot (figur 5).
+
+*Figur 3. Dobbel kilenot.*
+
+*Figur 4. Dobbel kilenot satt i forlengelsen av ledegarnet.*
+
+*Figur 5. Dobbel kilenot (Altanot).*
 
 ### § 9. Lakseverp
 
@@ -120,6 +130,8 @@ Kjenningsbokstav og registreringsnummer skal være tydelige og i avvikende farge
 
 I tillegg skal det ved innerste enden av redskapet festes et horisontalt kjennemerke som skal være lett synlig fra lufta. Kjennemerket skal være festet slik at det alltid ligger over vannet, og slik at en tydelig kan se hvilket redskap det hører til. Kjennemerket skal være minst 70 x 35 cm og på begge sider ha mørke kjenningsbokstaver og tall på lys bunn. Tall og bokstaver skal være minst 30 cm høye og ha en fargebredde på minst 5 cm. Når forholdene gjør det mulig, kan merket plasseres på land rett inn for redskapet og så nær dette som mulig.
 
+*Figur 6. Merke for kilenot og lakseverp.*
+
 ## Kapittel 4. Stenging av kilenot og lakseverp
 
 ### § 16. Krav om stenging av kilenot og lakseverp
@@ -139,6 +151,8 @@ Doble kilenøter skal stenges på en av måtene som er nevnt i punktene 1 til 4 
 ### § 19. Stenging av dobbeltvirkende kilenot
 
 Dobbeltvirkende kilenot (not satt i forlengelsen av ledegarnet) skal stenges ved at hele ledegarnet, eller minst så mye av dette, regnet fra stanga, som det dobbelte av største bredden på nota, tas opp av sjøen. Tungene bindes kloss sammen.
+
+*Figur 13. Stengingsmåte for dobbeltvirkende not.*
 
 ### § 20. Unntak fra krav om stenging
 

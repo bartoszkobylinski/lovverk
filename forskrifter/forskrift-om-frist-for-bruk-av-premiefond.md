@@ -22,8 +22,8 @@ eu_basis: []
 
 # Forskrifter om frist for anvendelse av midler avsatt til premiefond til folketrygda.
 
-1. Avsatte midler etter [lov av 7. juli 1967 nr. 8](lov/1967-07-07-8) med tillegg av renter, må anvendes til betaling av arbeidsgiveravgift innen 30. november 1977.
+1\. Avsatte midler etter [lov av 7. juli 1967 nr. 8](lov/1967-07-07-8) med tillegg av renter, må anvendes til betaling av arbeidsgiveravgift innen 30. november 1977.
 
-2. Norges Bank tilbakebetaler arbeidsgiveren midler som er innestående pr. 1. desember 1977.
+2\. Norges Bank tilbakebetaler arbeidsgiveren midler som er innestående pr. 1. desember 1977.
 
-3. Ved anvendelse av midlene i samsvar med punkt 1 og tilbakebetaling etter punkt 2, kommer de alminnelige regler i loven med tilhørende forskrifter til anvendelse.Disse forskrifter trer i kraft straks.
+3\. Ved anvendelse av midlene i samsvar med punkt 1 og tilbakebetaling etter punkt 2, kommer de alminnelige regler i loven med tilhørende forskrifter til anvendelse.Disse forskrifter trer i kraft straks.

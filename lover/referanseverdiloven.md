@@ -166,3 +166,5 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av gebyr
 (2) Departementet kan fastsette overgangsregler.
 
 > Endret ved [lov 6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913), tidligere § 7).
+
+1 Fra 1 jan 2016 iflg. [res. 4 des 2015 nr. 1399](forskrift/2015-12-04-1399).

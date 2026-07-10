@@ -70,17 +70,31 @@ Forskriften trer i kraft straks.
 
 ## Forordninger
 
+For å lese [EØS-komiteens beslutning nr. 205/2016](eu/22016d0205) se her: [(pdf)](static/SF/22016d0205u.pdf)
+
 Uoffisiell oversettelse
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) nr. 272/2012](eu/32012r0272) se her: [(pdf)](static/SF/32012r0272u.pdf)
 
 Uoffisiell oversettelse.
 
-Uoffisiell oversettelse.
+For å lese forordning [(EU) nr. 446/2012](eu/32012r0446) se her: [(pdf)](static/SF/32012r0446u.pdf)
 
 Uoffisiell oversettelse.
 
+For å lese forordning [(EU) nr. 447/2012](eu/32012r0447) se her: [(pdf)](static/SF/32012r0447u.pdf)
+
 Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 448/2012](eu/32012r0448) se her: [(pdf)](static/SF/32012r0448u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 449/2012](eu/32012r0449) se her: [(pdf)](static/SF/32012r0449u.pdf)
+
+Uoffisiell oversettelse.
+
+For å lese forordning [(EU) nr. 946/2012](eu/32012r0946) se her: [(pdf)](static/SF/32012r0946u.pdf)
 
 Uoffisiell oversettelse.
 

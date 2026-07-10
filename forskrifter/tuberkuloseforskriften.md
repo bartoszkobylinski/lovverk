@@ -258,17 +258,25 @@ Bestemmelsen regulerer hvilke personer som har plikt til å gjennomgå tuberkulo
 
 ### Til § 3-1
 
+*Til [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) Utlendinger*
+
 Personer fra land med høy forekomst av tuberkulose, og som skal oppholde seg mer enn tre måneder i Norge, har plikt til å gjennomgå tuberkuloseundersøkelse kort tid etter ankomst. Plikten gjelder ikke personer som er unntatt fra utlendingslovens krav om arbeidstillatelse eller oppholdstillatelse, dvs. personer fra de andre nordiske landene eller diplomater (inkludert ektefelle/samboer og forsørget barn av diplomater). Nasjonalt folkehelseinstitutt skal i henhold til forskriften [§ 4-5](forskrift/2009-02-13-205/§4-5) angi hvilke land som har høy forekomst av tuberkulose.
 
 Etter utlendingsforskriften § 51 skal politiet, når søknad om arbeidstillatelse eller oppholdstillatelse foreligger, opplyse søkeren om plikten til å fremstille seg til tuberkuloseundersøkelse. Når vedkommende melder seg skal politiet informere vedkommende kommunelege om utlendingens navn og adresse. Det forutsettes at kommunelegen, eventuelt annet personell i kommunehelsetjenesten, tar kontakt med personer som ikke innen rimelig tid møter frem av eget initiativ, slik at undersøkelsen blir foretatt. Etter [smittevernloven § 5-2](lov/1994-08-05-55/§5-2) er det på visse vilkår adgang til å vedta nødvendig tvungen legeundersøkelse.
 
 Bestemmelsen [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav a) gjelder for flyktninger og asylsøkere uavhengig om de oppholder seg i flyktning- eller asylmottak. Flyktninger som er kommet til Norge via FNs Høykommissær for flyktninger (overføringsflyktninger) omfattes også av bestemmelsen. Begrunnelsen for bestemmelsen er dels at mange av utlendingene oppholder seg i flyktning- og asylmottak hvor faren for smittespredning antas å være større enn andre steder, og dels at de kan komme fra land hvor smitterisikoen for tuberkulose er forholdsvis høy.
 
+*Til [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav b) Arbeidstaker i helse- og omsorgstjeneste, stillinger i barneomsorg mv.*
+
 Arbeidstakere som i løpet av de tre siste år har oppholdt seg i land med høy forekomst av tuberkulose i minst tre måneder og som skal tiltre eller gjeninntre i stillingen i helse- og omsorgstjenesten i lærerstillinger eller i andre stillinger knyttet til barneomsorg har plikt til tuberkuloseundersøkelse før tiltredelse. Kommunale omsorgstjenester består i hovedsak av ulike former for hjemmetjenester, hjemmesykepleie, omsorgsboliger, aldershjem og sykehjem. [Barnehageloven § 23](lov/2005-06-17-64/§23), andre ledd oppstiller en korresponderende plikt i andre ledd til å gjennomgå tuberkulosekontroll i henhold til gjeldende regelverk. Plikten til tuberkuloseundersøkelse gjelder også personer under opplæring og hospitering. Forsvaret gir retningslinjer for undersøkelse av militært personell. Nasjonalt folkehelseinstitutt angir hvilke land som har høy forekomst av tuberkulose, jf. [§ 4-5](forskrift/2009-02-13-205/§4-5).
+
+*Til [§ 3-1](forskrift/2009-02-13-205/§3-1) bokstav c) Andre risikogrupper*
 
 Med medisinsk mistanke menes blant annet personer som er eksponert for personer med smitteførende tuberkulose på en slik måte at smitteoverføring kan ha skjedd. Personer med typiske symptomer på tuberkulose (hoste med over tre ukers varighet, særlig med oppspytt, feber og vekttap) har plikt til snarest å gi beskjed til lege og oppsøke legen for nødvendig undersøkelse, jf. [smittevernloven § 5-1](lov/1994-08-05-55/§5-1).
 
 Andre grupper kan i henhold til denne bestemmelsen ha plikt til tuberkuloseundersøkelse dersom de er eller har vært i risiko for å bli smittet.
+
+*Vaksinasjon*
 
 Tilbud om vaksinasjon skal i henhold til forskriften [§ 2-2](forskrift/2009-02-13-205/§2-2) være et tiltak i tuberkulosekontrollprogrammet. Kommunenes tuberkulosekontrollprogram skal også ha rutiner for gjennomføring av vaksinasjon i den enkelte kommune. Vaksinasjon mot tuberkulose skal være gratis for personer i målgruppen.
 

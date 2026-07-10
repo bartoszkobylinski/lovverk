@@ -466,6 +466,8 @@ Vert kjøpesummen eller annan uteståande sum ikkje betalt i tide, kan det krevj
 
 > Endra med [lov 20 des 1996 nr. 106](lov/1996-12-20-106) (ikr. 1 jan 2002 iflg. [res. 8 juni 2001 nr. 571](forskrift/2001-06-08-571)).
 
+1 Frå 1 jan 1993 iflg. [res. 18 sep 1992 nr. 676](forskrift/1992-09-18-676).
+
 ### § 8-2. Endringar i andre lover
 
 Frå den tida lova tek til å gjelde, skal følgjande føresegner i andre lover endrast slik: – – –

@@ -24,23 +24,19 @@ eu_basis: []
 
 ## I
 
+I [forskrift 2. juli 2025 nr. 1462 om enkelte klagenemnder på Kunnskapsdepartementets område](forskrift/2025-07-02-1462) gjøres følgende endringer:
+
+[§ 1 første ledd](forskrift/2025-07-02-1462/§1/ledd/1) skal lyde:
+
 Forskriften gjelder følgende klagenemnder på Kunnskapsdepartementets område:NOKUTs klagenemndKlagenemnd for godkjenning av utenlandsk utdanning og yrkesgodkjenningLånekassens klagenemnd.
+
+[§ 6](forskrift/2025-07-02-1462/§6) nytt andre ledd skal lyde:
 
 Klagenemnda skal også behandle klager over enkeltvedtak om godkjenning av utenlandske yrkeskvalifikasjoner som lærer etter [opplæringsloven § 17-3](lov/2023-06-09-30/§17-3), og som styrer og pedagogisk leder i barnehage etter [barnehageloven §§ 24](lov/2005-06-17-64/§24) og [25](lov/2005-06-17-64/§25).
 
-Lånekassens klagenemnd skal behandle klager på enkeltvedtak etter [lov om utdanningsstøtte](lov/2005-06-03-37) og tilhørende forskrifter.
+Nytt [kapittel 4](forskrift/2025-07-02-1462/kap4) skal lyde:
 
-Klagenemnda oppnevnes av departementet.
-
-Klagenemnda skal ha tre medlemmer og skal være sammensatt slik:En leder og en nestleder som skal være jurister, jf. [advokatloven § 67](lov/2022-05-12-28/§67). Nestleder er vara for leder, og skal ha personlig varamedlem. Departementet utpeker leder og nestleder.Ett medlem, med personlig varamedlem, som skal representere elever og studenter. Medlemmet skal oppnevnes i samsvar med forslag fra representative elev- eller studentorganisasjoner.
-
-Medlemmene oppnevnes for inntil fire år, med unntak av student- og elevrepresentantene som oppnevnes for inntil to år. Medlemmene kan gjenoppnevnes én gang. Personer som har vært varamedlemmer kan oppnevnes i to perioder som fast medlem.
-
-Kravene i [likestillings- og diskrimineringsloven § 28 første ledd](lov/2017-06-16-51/§28/ledd/1) skal oppfylles for studentrepresentantene og de øvrige medlemmene hver for seg.
-
-Klagenemnda er vedtaksfør når alle medlemmer deltar i behandlingen. Vedtak treffes ved alminnelig flertall av de avgitte stemmene.
-
-Klagenemnda kan delegere til nemndas leder å fatte vedtak i enkle saker. Beslutningen om delegering må være enstemmig.
+Nåværende [kapittel 4](forskrift/2025-07-02-1462/kap4) blir kapittel 5, og nåværende [§ 10](forskrift/2025-07-02-1462/§10) blir ny § 14.
 
 ## II
 

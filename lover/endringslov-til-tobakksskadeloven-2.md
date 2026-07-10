@@ -24,11 +24,23 @@ eu_basis: []
 
 ## I
 
+I [lov 9. mars 1973 nr. 14 om vern mot tobakksskader](lov/1973-03-09-14) gjøres følgende endringer:
+
+– – –
+
+[§ 30 første ledd](lov/1973-03-09-14/§30/ledd/1) skal lyde:
+
 Det er forbudt å innføre eller selge tobakkspakninger og tobakksvarer som ikke har standardisert utforming etter nærmere bestemmelser fastsatt av departementet i forskrift. Det samme gjelder for elektroniske sigaretter og gjenoppfyllingsbeholdere. Standardiseringen kan for eksempel gjelde farge, form, utseende, materiale og merking, herunder bruk av varemerke, logo og andre elementer knyttet til merkevarebygging.
+
+– – –
 
 ## II
 
+I [lov 10. februar 2017 nr. 5 om endringer i tobakksskadeloven (gjennomføring av direktiv 2014/40/EU og standardiserte tobakkspakninger)](lov/2017-02-10-5) gjøres følgende endringer: – – –
+
 ## III
+
+I [lov av 22. juni 2018 nr. 77 om endringer i tobakksskadeloven (ulovlig handel med tobakksvarer mv.)](lov/2018-06-22-77) gjøres følgende endringer: – – –
 
 ## IV
 
@@ -36,3 +48,6 @@ Det er forbudt å innføre eller selge tobakkspakninger og tobakksvarer som ikke
 2. Endringene under II og III trer i kraft straks.
 
 Kongen kan gi overgangsregler.
+
+1 Fra 1. januar 2024 for del I med unntak av [§ 30 første ledd](lov/1973-03-09-14/§30/ledd/1) og [§ 32a](lov/1973-03-09-14/§32a),
+fra 1. juli 2024 for [§ 32a](lov/1973-03-09-14/§32a) iflg. [res. 20 des 2023 nr. 2137](forskrift/2023-12-20-2137).

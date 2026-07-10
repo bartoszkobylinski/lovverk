@@ -24,9 +24,9 @@ eu_basis: []
 
 ## I
 
-1. [Lov 15. mars 1991 nr. 3](lov/1991-03-15-3) om megling i konfliktråd trer i kraft 1. september 1992. Lovens § 2 første og tredje ledd, trer dog i kraft bare med virkning for Oslo, Akershus, Hedmark, Telemark, Rogaland og Nordland fylker og ellers for Kristiansand, Lindesnes, Mandal, Marnadal, Ålesund, Trondheim og Tromsø kommuner. For andre deler av landet trer § 2 første og tredje ledd i kraft fra det tidspunkt Justis- og politidepartementet bestemmer.
+1\. [Lov 15. mars 1991 nr. 3](lov/1991-03-15-3) om megling i konfliktråd trer i kraft 1. september 1992. Lovens § 2 første og tredje ledd, trer dog i kraft bare med virkning for Oslo, Akershus, Hedmark, Telemark, Rogaland og Nordland fylker og ellers for Kristiansand, Lindesnes, Mandal, Marnadal, Ålesund, Trondheim og Tromsø kommuner. For andre deler av landet trer § 2 første og tredje ledd i kraft fra det tidspunkt Justis- og politidepartementet bestemmer.
 
-2. [Lov 15. mars 1991 nr. 5](lov/1991-03-15-5) om endringer i Alminnelig borgerlig straffelov [m.m. av 22. mai 1902 nr. 10](lov/1902-05-22-10) m.m, endringene i [straffeprosessloven § 67](lov/1981-05-22-25/§67) nytt fjerde ledd og ny [§ 71 a](lov/1981-05-22-25/§71a), trer i kraft 1. september 1992.
+2\. [Lov 15. mars 1991 nr. 5](lov/1991-03-15-5) om endringer i Alminnelig borgerlig straffelov [m.m. av 22. mai 1902 nr. 10](lov/1902-05-22-10) m.m, endringene i [straffeprosessloven § 67](lov/1981-05-22-25/§67) nytt fjerde ledd og ny [§ 71 a](lov/1981-05-22-25/§71a), trer i kraft 1. september 1992.
 
 ## II
 

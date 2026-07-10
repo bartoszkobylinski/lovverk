@@ -50,6 +50,8 @@ Sjøfartsdirektoratet fører kontroll med at betingelsene etterleves.
 
 > Endret ved [forskrifter 8 okt 2015 nr. 1170](forskrift/2015-10-08-1170) (i kraft 1 jan 2016), [17 des 2015 nr. 1735](forskrift/2015-12-17-1735) (i kraft 1 jan 2016).
 
+1 Jf. petroleumsloven § 1-6 a).
+
 ### § 4. Utvidelse av fartsområdet for spesielle lasteskip
 
 Utover den utvidelse av fartsområde som følger av [§ 3](forskrift/1989-08-11-802/§3), tillates lasteskip som er bygget eller utrustet for å transportere spesielle typer last, å føre slik last mellom norske havner, når skipet er på vei til eller fra utenlandsk havn og frakten ikke er ledd i et fast ruteopplegg. Skipsfører må være norsk statsborger eller statsborger fra land som omfattes av EØS-avtalen. Det er et vilkår at slik transport fører til en rasjonell utnyttelse av den tonnasje som er tilgjengelig, og ikke medfører uønskede konsekvenser for skip registrert i det ordinære skipsregisteret.

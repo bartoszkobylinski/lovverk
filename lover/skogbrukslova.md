@@ -216,6 +216,8 @@ Lova tek til å gjelde frå den tid Kongen fastset.1
 
 Frå same tid held desse lovane opp å gjelde:[Lov 9. juni 1939 nr. 17](lov/1939-06-09-17) om husbruksskog.[Lov 9. november 1956 nr. 4](lov/1956-11-09-4) om avgift på skogsvirke til fremme av fellestiltak for skogbruket.[Lov 21. mai 1965](lov/1965-05-21) om skogbruk og skogvern.
 
+1 Frå 1 jan 2006 iflg. [res. 27 mai 2005 nr. 487](forskrift/2005-05-27-487).
+
 ### § 25. Overgangsreglar
 
 Forskrifter og vedtak med heimel i dei lovane som er nemnde i § 24 andre ledd skal gjelde fram til departementet gjer nye vedtak eller fastset nye forskrifter med heimel i lova her.

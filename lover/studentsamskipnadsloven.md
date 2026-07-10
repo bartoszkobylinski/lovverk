@@ -163,3 +163,5 @@ Loven gjelder fra den tid Kongen bestemmer.1
 Fra samme tidspunkt oppheves [lov 28. juni 1996 nr. 54](lov/1996-06-28-54) om studentsamskipnader.
 
 Kongen kan gi nærmere overgangsregler.
+
+1 Fra 1 aug 2008 iflg. [res. 14 des 2007 nr. 1439](forskrift/2007-12-14-1439).

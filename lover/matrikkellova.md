@@ -108,6 +108,8 @@ Departementet kan gi forskrift om krav til klarlagd grense før tinglysing av he
 
 > Endra ved [lover 29 juni 2007 nr. 94](lov/2007-06-29-94) (ikr. 29 juni 2007 iflg. [res. 29 juni 2007 nr. 760](forskrift/2007-06-29-760)), [20 apr 2018 nr. 12](lov/2018-04-20-12) (ikr. 20 apr 2018 iflg. [res. 20 apr 2018 nr. 593](forskrift/2018-04-20-593)), [8 mars 2019 nr. 5](lov/2019-03-08-5) (ikr. 8 mars 2019 iflg. [res. 8 mars 2019 nr. 195](forskrift/2019-03-08-195)).
 
+1 Ikkje ikr.
+
 ### § 8. Krav om matrikkelføring
 
 Saman med krav om matrikkelføring, skal det leggjast ved dokumentasjon som er nødvendig for føring av matrikkelen og grunnboka. Når det er rekvirert oppmålingsforretning etter [§ 35](lov/2005-06-17-101/§35), skal det ikkje setjast fram særskilt krav om matrikkelføring.
@@ -588,6 +590,8 @@ Departementet kan i forskrift gi nærare reglar om iverksetjing, under dette reg
 
 > Endra ved [lover 29 juni 2007 nr. 94](lov/2007-06-29-94) (ikr. 29 juni 2007 iflg. [res. 29 juni 2007 nr. 760](forskrift/2007-06-29-760)), [3 sep 2010 nr. 56](lov/2010-09-03-56) (ikr. 3 sep 2010 iflg. [res. 3 sep 2010 nr. 1246](forskrift/2010-09-03-1246)).
 
+1 Etter [res. 9 feb 2007 nr. 150](forskrift/2007-02-09-150) er § 1, § 2, § 3, § 4, § 22, § 28, [§ 30](lov/2005-06-17-101/§30), [§ 31](lov/2005-06-17-101/§31), [§ 32](lov/2005-06-17-101/§32) (2) og (3), [§ 50](lov/2005-06-17-101/§50) og [§ 51](lov/2005-06-17-101/§51) (5) ikr. 9 feb 2007. Etter [res. 27 feb 2009 nr. 242](forskrift/2009-02-27-242) er § 5a og § 51 (2) og (3) ikr. 27 feb 2009. Etter [res. 5 juni 2009 nr. 600](forskrift/2009-06-05-600), som endra ved [res. 4 des 2009 nr. 1453](forskrift/2009-12-04-1453), er § 5, § 6, § 8 til § 21, § 23 til [§ 27](lov/2005-06-17-101/§27), [§ 29](lov/2005-06-17-101/§29), [§ 32](lov/2005-06-17-101/§32) første ledd, [§ 33](lov/2005-06-17-101/§33) til [§ 49](lov/2005-06-17-101/§49), [§ 51](lov/2005-06-17-101/§51) første ledd og [§ 52](lov/2005-06-17-101/§52) nr. 1, 2, 4 til 8, 9 med unnatak for endringane i [jordskiftelova § 24](lov/1979-12-21-77/§24) og [§ 29](lov/1979-12-21-77/§29) tredje ledd, og 10 til 16 sette ikr. frå 1 jan 2010. [Lov 3 sep 2010 nr. 56](lov/2010-09-03-56) (ikr. 3 sep 2010 iflg. [res. 3 sep 2010 nr. 1246](forskrift/2010-09-03-1246)) opphevde endringane i § 52 nr. 9 og nr. 12. Etter [res. 17 des 2021 nr. 3632](forskrift/2021-12-17-3632) er [§ 52](lov/2005-06-17-101/§52) nr. 3 sette i ikr. frå 1 jan 2022. Etter dette er det berre [§ 7](lov/2005-06-17-101/§7) som ikkje er sette ikr.
+
 ### § 51. Overgangsreglar
 
 Kart- og delingsforretningar som er kravd før lova trer i kraft, skal fullførast etter reglane i delingsloven. Krav om seksjonering av fast eigedom etter eierseksjonsloven skal fullførast etter reglane som gjaldt då lova her tok til å gjelde.
@@ -601,5 +605,11 @@ Departementet kan i forskrift gi nærare overgangsreglar, under dette reglar om 
 ### § 52. Endring av andre lover
 
 Frå den tid Kongen bestemmer, blir det gjort følgjande endringar i andre lover:
+
+1\. [Lov 23. juni 1978 nr. 70](lov/1978-06-23-70) om kartlegging, deling og registrering av grunneiendom (Delingsloven) blir oppheva.
+
+2\. [Lov 9. juli 1923 nr. 1](lov/1923-07-09-1) om anbringelse av signaler og merker for målearbeider blir oppheva.
+
+– – –
 
 > Endra ved [lov 3 sep 2010 nr. 56](lov/2010-09-03-56) (ikr. 3 sep 2010 iflg. [res. 3 sep 2010 nr. 1246](forskrift/2010-09-03-1246)).

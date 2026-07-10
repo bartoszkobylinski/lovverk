@@ -362,11 +362,19 @@ Forsøket skal klassifiseres etter graden av smerte, frykt, varig skade eller an
 
 ### Del I. Klassene
 
+*Terminale forsøk*
+
 Forsøk som utelukkende gjennomføres under generell anestesi, og hvor dyret ikke skal gjenvinne bevisstheten, skal klassifiseres som «terminale».
+
+*Lett belastende forsøk*
 
 Forsøk som medfører at dyrene sannsynligvis vil oppleve kortvarig mild smerte, frykt eller annen belastning, skal klassifiseres som «lett belastende». Det samme gjelder forsøk uten noen vesentlig svekkelse av dyrenes velvære eller allmenntilstand.
 
+*Moderat belastende forsøk*
+
 Forsøk som medfører at dyrene sannsynligvis vil oppleve kortvarig moderat smerte, frykt eller annen belastning, eller langvarig mild smerte, frykt eller annen belastning, skal klassifiseres som «moderat belastende». Det samme gjelder forsøk som sannsynligvis vil forårsake moderat svekkelse av dyrenes velvære eller allmenntilstand.
+
+*Betydelig belastende forsøk*
 
 Forsøk som medfører at dyrene sannsynligvis vil oppleve alvorlig smerte, frykt eller annen belastning, eller langvarig moderat smerte, frykt eller annen belastning, skal klassifiseres som «betydelig belastende». Det samme gjelder forsøk som sannsynligvis vil forårsake alvorlig svekkelse av dyrenes velvære eller allmenntilstand.
 
@@ -415,16 +423,24 @@ Utdannings- og praksisopplegget skal minst omfattebestemmelsene i denne forskrif
 
 ### 1. Fysiske anlegg
 
+1.1*Funksjoner og generell utforming*
+
 1. Alle anlegg skal konstrueres slik at dyrene får et levemiljø som tar hensyn til dyreartens fysiologiske og atferdsmessige behov. Anleggene skal også utformes og drives slik at de hindrer adgang for uvedkommende, og at dyr kommer seg inn eller ut.
 2. Oppdrettere, formidlere og brukere skal ha aktive vedlikeholdsprogrammer for å forebygge og utbedre feil og mangler ved bygninger eller utstyr.
+
+1.2*Dyrerom*
 
 1. Dyrerommene skal rengjøres regelmessig og effektivt og ha en tilfredsstillende hygienisk standard.
 2. Vegger og gulv skal ha overflatematerialer som motstår slitasjen som forårsakes av dyrene og rengjøringen. Materialene skal ikke være helseskadelige for dyrene eller være slik at dyrene kan skade seg. Alt utstyr og fast inventar skal være beskyttet slik at det ikke kan skades av dyrene eller forårsaker skade på dyrene.
 3. Dyrearter som er fiendtlige mot hverandre, for eksempel rovdyr og byttedyr, eller dyr som har forskjellige krav til miljøforhold, skal ikke holdes i samme rom. Rovdyr og byttedyr skal holdes slik at de ikke kan se, lukte eller høre hverandre.
 
+1.3*Lokaler til generelle og spesielle forsøksformål*
+
 1. Oppdrettere, formidlere og brukere skal, hvis det er relevant, ha tilgang til laboratorieutstyr for å kunne utføre enkle diagnostiske tester, obduksjoner og/eller innsamling av prøver for mer omfattende laboratorieundersøkelser et annet sted. Lokaler til generelle og spesielle forsøksformål skal være tilgjengelige for bruk i situasjoner hvor det ikke er ønskelig å gjennomføre forsøkene eller observasjonene i dyrerommene.
 2. Det skal være lokaler til rådighet hvor nyanskaffede dyr kan holdes isolert til deres helsetilstand er fastslått og potensiell helserisiko for etablerte dyr er vurdert og gjort så liten som mulig.
 3. Det skal være egnet plass for separat oppstalling av syke og skadde dyr.
+
+1.4*Servicerom*
 
 1. Lagerrom skal utformes, brukes og vedlikeholdes slik at kvaliteten på fôr og strø og annet liggemateriale sikres. Rommene skal være beskyttet mot skadedyr og insektangrep så langt det er mulig. Andre materialer som kan bli kontaminert eller utgjøre en fare for dyr, skal lagres separat.
 2. Rengjørings- og vaskearealer skal være store nok til å romme de installasjonene som er nødvendige for å dekontaminere og rense brukt utstyr. Rengjøringsprosessen skal tilrettelegges slik at flyten av rent og urent utstyr holdes atskilt.
@@ -433,18 +449,26 @@ Utdannings- og praksisopplegget skal minst omfattebestemmelsene i denne forskrif
 
 ### 2. Miljøet og miljøstyring
 
+2.1*Ventilasjon og temperatur*
+
 1. Isolasjon, varme og ventilasjon i dyrerommet skal sikre at luftsirkulasjon, støvinnhold og gasskonsentrasjoner holdes innenfor grenseverdier som ikke er skadelig for dyrene.
 2. Temperaturen og den relative fuktigheten i dyrerommene skal avpasses etter dyrenes art og alder. Temperaturen skal måles og registreres daglig.
 3. Dyr skal ikke være henvist til utendørsarealer under værforhold som kan forårsake belastning.
+
+2.2*Belysning*
 
 1. Dersom naturlig lys ikke gir egnet lys-mørke-syklus, skal det brukes kontrollert belysning for å imøtekomme dyrenes biologiske behov.
 2. Belysningen skal være slik at dyrene kan røktes og inspiseres på en tilfredsstillende måte.
 3. Daglengden og lysintensiteten skal tilpasses dyrearten.
 4. Ved hold av albinodyr skal lyset tilpasses disse dyrenes lysømfintlighet.
 
+2.3*Støy*
+
 1. Støynivået, inkludert ultralyd, skal ikke ha negativ innvirkning på dyrenes velferd.
 2. Alarmsystemer skal ha lyd som ligger utenfor dyrenes sensitive høreområde, dersom dette ikke går ut over hørbarheten for mennesker.
 3. Dyrerom skal ved behov være utstyrt med støyisolering og lydabsorberende materialer.
+
+2.4*Alarmsystemer*
 
 1. Oppdrettere, formidlere og brukere som er avhengig av elektrisk eller mekanisk utstyr til styring og kontroll av levemiljøet, skal ha et reservesystem som kan opprettholde vesentlige servicefunksjoner og nødbelysning og sikre at alarmsystemene fungerer til enhver tid.
 2. Varme- og ventilasjonssystemer skal være utstyrt med overvåkningsutstyr og alarm.
@@ -452,26 +476,40 @@ Utdannings- og praksisopplegget skal minst omfattebestemmelsene i denne forskrif
 
 ### 3. Stell av dyr
 
+3.1*Helse*
+
 1. Oppdrettere, formidlere og brukere skal ha en strategi for å sikre en god dyrehelse som trygger dyrevelferden og imøtekommer vitenskapelig krav. Strategien skal omfatte regelmessig helseovervåkning, et program for mikrobiologisk overvåkning, planer for håndtering av sykdomsutbrudd og en beskrivelse av helseparametere og prosedyrer ved introduksjon av nye dyr.
 2. Dyrene skal kontrolleres minst én gang daglig av en kompetent person. Kontrollen skal sikre at alle syke eller skadde dyr identifiseres, og at det iverksettes hensiktsmessige tiltak.
 
+3.2*Innfangede ville dyr*
+
 (tom)
+
+3.3*Oppstalling og beriking*
 
 1. *Oppstalling*Dyr som ikke er naturlig solitære, skal holdes i stabile sosiale grupper av individer som går godt sammen. Hvis Mattilsynet har tillatt individuell oppstalling, skal varigheten begrenses til det absolutt nødvendige. Dyrene skal hele tiden kunne se, høre, lukte og berøre hverandre. Introduksjon eller re-introduksjon av dyr i etablerte grupper skal overvåkes nøye for å unngå konflikt og oppløste sosiale relasjoner.
 2. *Beriking*Alle dyr skal ha tilgang til arealer med tilstrekkelig kompleksitet for å kunne utøve et bredt spekter av normal atferd. For å redusere stressindusert atferd, skal dyrene gis mulighet til å kontrollere og velge sitt miljø. Oppdrettere, formidlere og brukere skal ta i bruk egnede berikingsmetoder som øker antallet aktiviteter dyrene har tilgang til, og som gir dem større mulighet til å mestre sin situasjon. Beriking kan oppnås gjennom fysisk trening, fødesøk og finmotoriske og kognitive aktiviteter som er egnet for arten. I dyreinnhegninger skal miljøberikingen tilpasses dyrearten og dyrenes individuelle behov. Berikingsprogram skal revideres og oppdateres regelmessig.
 3. *Dyreinnhegninger*Dyreinnhegninger skal være laget av materialer som ikke er helseskadelige for dyrene, og utformet og konstruert slik at dyrene ikke påføres skader. De skal være laget av engangssartikler eller av materialer som tåler rengjøring og desinfeksjon. Underlaget i innhegningen skal være tilpasset dyrenes art og alder, og utformet for enkel fjerning av urin og avføring.
+
+3.4*Fôring*
 
 1. Fôr skal ha et innhold og gis i en form og på en måte som tilfredsstiller dyrets ernæringsmessige behov og eteatferd.
 2. Fôret skal være smakelig og holde god hygienisk kvalitet. Ved valg av råvarer og metode for fremstilling, tilbereding og tildeling av fôr skal det sørges for minst mulig kjemisk, fysisk og mikrobiologisk forurensning av fôret.
 3. Pakking, transport og lagring skal foregå slik at forurensing, forringelse eller ødeleggelse av fôret unngås. Alle fôrbeholdere, trau og annet utstyr som brukes til fôring, skal rengjøres regelmessig og steriliseres ved behov.
 4. Hvert enkelt dyr skal ha tilgang til fôret. Fôringsarealet skal være så stort at konkurransen begrenses.
 
+3.5*Vanning*
+
 1. Dyrene skal til enhver tid ha tilgang til rent drikkevann.
 2. Automatiske drikkevannsanlegg skal kontrolleres, vedlikeholdes og gjennomspyles regelmessig. Ved bruk av bur med tett bunn skal det sørges for at risikoen for oversvømmelse er så liten som mulig.
 3. For akvatiske dyr skal vannforsyningen i akvarier og kar være tilpasset behovet og toleransegrensene til den enkelte dyreart.
 
+3.6*Hvile- og soveplasser*
+
 1. Dyrene skal til enhver tid ha tilgang til liggeunderlag og soveplasser som er tilpasset dyrearten. I forplantningsperioden skal dyrene ha tilgang til egnet redemateriale eller rede.
 2. I dyreinnhegninger skal det for alle dyrene være et komfortabelt hvileområde med fast underlag egnet til den aktuelle dyrearten. Alle hvilearealer skal holdes rene og tørre.
+
+3.7*Håndtering*
 
 Oppdrettere, formidlere og brukere skal iverksette tilvennings- og treningsprogrammer som er tilpasset dyrene og forsøkenes varighet.
 
@@ -486,17 +524,55 @@ Ved planlegging av forsøk skal eventuell vekst hos dyrene tas i betraktning for
 ### Tabell 1.1
 Mus
 
+|  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| I besetning og under forsøk | opp til 20<br>fra 20 til 25<br>fra 25 til 30<br>over 30 | 330<br>330<br>330<br>330 | 60<br>70<br>80<br>100 | 12<br>12<br>12<br>12 |
+| Avl |  | 330<br><br>For et monogamt par (utavl/innavl) eller en trio (innavl). For hvert ytterligere hunndyr med kull skal det legges til 180 cm2 |  | 12 |
+| Besetning hos oppdrettere\*<br><br>Oppholdsenhetens størrelse 950 cm2 | mindre enn 20 | 950 | 40 | 12 |
+| Oppholdsenhetens størrelse 1500 cm2 | mindre enn 20 | 1500 | 30 | 12 |
+
+\* Avvente mus kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner.
+
 ### Tabell 1.2
 Rotter
+
+|  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| I besetning og under forsøk\* | opp til 200<br>fra 200 til 300<br>fra 300 til 400<br>fra 400 til 600<br>over 600 | 800<br>800<br>800<br>800<br>1500 | 200<br>250<br>350<br>450<br>600 | 18<br>18<br>18<br>18<br>18 |
+| Avl |  | 800<br><br>Mor med kull.<br>For hvert ytterligere voksent dyr som settes permanent inn i oppholdsenheten, skal det legges til 400 cm2 |  | 18 |
+| Besetning hos oppdrettere\*\*<br><br>Oppholdsenhetens størrelse 1500 cm2 | mindre enn 50<br>fra 50 til 100<br>fra 100 til 150<br>fra 150 til 200 | 1500<br>1500<br>1500<br>1500 | 100<br>125<br>150<br>175 | 18<br>18<br>18<br>18 |
+| Besetning hos oppdrettere\*\*<br><br>Oppholdsenhetens størrelse 2500 cm2 | opp til 100<br>fra 100 til 150<br>fra 150 til 200 | 2500<br>2500<br>2500 | 100<br>125<br>150 | 18<br>18<br>18 |
+
+\* Hvis tilgjengelig areal per dyr kommer under de angitte arealkrav på slutten av langtidsstudier, skal det prioriteres å opprettholde stabile sosiale strukturer.
+
+\*\* Avvente rotter kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner.
 
 ### Tabell 1.3
 Ørkenrotter
 
+|  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| I besetning og under forsøk | opp til 40<br>over 40 | 1200<br>1200 | 150<br>250 | 18<br>18 |
+| Avl |  | 1200<br><br>Monogame par eller trio med avkom |  | 18 |
+
 ### Tabell 1.4
 Hamstere
 
+|  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| I besetning og under forsøk | opp til 60<br>fra 60 til 100<br>over 100 | 800<br>800<br>800 | 150<br>200<br>250 | 14<br>14<br>14 |
+| Avl |  | 800<br><br>Mor eller monogame par med kull |  | 14 |
+| I besetning hos oppdretter\* | Mindre enn 60 | 1500 | 100 | 14 |
+
+\* Avvente hamstere kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner.
+
 ### Tabell 1.5
 Marsvin
+
+|  | *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Gulvareal per dyr<br>(cm2 )* | *Minste høyde i oppholdsenhet<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| I besetning og under forsøk | opp til 200<br>fra 200 til 300<br>fra 300 til 450<br>fra 450 til 700<br>over 700 | 1800<br>1800<br>1800<br>2500<br>2500 | 200<br>350<br>500<br>700<br>900 | 23<br>23<br>23<br>23<br>23 |
+| Avl |  | 2500<br><br>Par med kull.<br>For hver ytterligere avlshunn som settes inn, skal det legges til 1000 cm2 |  | 23 |
 
 ### 2. Kaniner
 
@@ -507,34 +583,34 @@ Oppholdsenheten skal være utstyrt med et hevet område (hylle) som ligger høye
 ### Tabell 2.1
 Kaniner eldre enn 10 uker
 
-Tabell 2.1 skal brukes for både bur og innhegninger. For hver kanin over to skal det legges til et gulvareal på minst 3000 cm2 til og med den sjette kaninen, og deretter minst 2500 cm2 for hver kanin over seks.*Endelig kroppsvekt
-(kg)**Minste gulvareal for ett eller to sosialt harmoniske dyr
-(cm2 )**Minste høyde
-(cm)*mindre enn 3
-fra 3 til 5
-over 53500
-4200
-540045
-45
-60
+Tabell 2.1 skal brukes for både bur og innhegninger. For hver kanin over to skal det legges til et gulvareal på minst 3000 cm2 til og med den sjette kaninen, og deretter minst 2500 cm2 for hver kanin over seks.
+
+| *Endelig kroppsvekt<br>(kg)* | *Minste gulvareal for ett eller to sosialt harmoniske dyr<br>(cm2 )* | *Minste høyde<br>(cm)* |
+| --- | --- | --- |
+| mindre enn 3<br>fra 3 til 5<br>over 5 | 3500<br>4200<br>5400 | 45<br>45<br>60 |
 
 ### Tabell 2.2
 Kaninhunn med kull
 
+| *Hunnens kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Tillegg for redekasser<br>(cm2 )* | *Minste høyde<br>(cm)* |
+| --- | --- | --- | --- |
+| mindre enn 3<br>fra 3 til 5<br>over 5 | 3500<br>4200<br>5400 | 1000<br>1200<br>1400 | 45<br>45<br>60 |
+
 ### Tabell 2.3
 Kaniner yngre enn 10 uker
 
-Tabell 2.3 gjelder både bur og innhegninger.*Alder**Minsteareal i oppholdsenhet
-(cm2 )**Minste gulvareal per dyr
-(cm2 )**Minste høyde
-(cm)*Avvenning til 7 uker
-Fra 7 til 10 uker4000
-4000800
-120040
-40
+Tabell 2.3 gjelder både bur og innhegninger.
+
+| *Alder* | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Minste gulvareal per dyr<br>(cm2 )* | *Minste høyde<br>(cm)* |
+| --- | --- | --- | --- |
+| Avvenning til 7 uker<br>Fra 7 til 10 uker | 4000<br>4000 | 800<br>1200 | 40<br>40 |
 
 ### Tabell 2.4
 Kaniner: Optimal størrelse på hevet område i oppholdsenhet med størrelse som angitt i tabell 2.1
+
+| *Alder i uker* | *Endelig kroppsvekt<br>(kg)* | *Optimal størrelse<br>(cm x cm)* | *Optimal høyde fra gulvet i oppholdsenheten<br>(cm)* |
+| --- | --- | --- | --- |
+| over 10 | mindre enn 3<br>fra 3 til 5<br>over 5 | 55 x 25<br>55 x 30<br>60 x 35 | 25<br>25<br>30 |
 
 ### 3. Katter
 
@@ -545,10 +621,14 @@ Katter
 
 Minste tillatte areal for hold av hunnkatter med unger er det samme som for en enkelt katt. Arealet skal økes gradvis slik at kullet senest ved 4 måneders alder er oppstallet etter arealkravene for voksne dyr.
 
-Fôringsplasser og avføringskasser skal ikke være mindre enn 0,5 meter fra hverandre, og disse skal ikke bytte plass med hverandre.*Gulv*
-(m2 )**Hyller
-(m2 )**Høyde
-(m)*Minimum for ett voksent dyr1,50,52For hvert dyr i tillegg0,750,25–
+Fôringsplasser og avføringskasser skal ikke være mindre enn 0,5 meter fra hverandre, og disse skal ikke bytte plass med hverandre.
+
+|  | *Gulv\*<br>(m2 )* | *Hyller<br>(m2 )* | *Høyde<br>(m)* |
+| --- | --- | --- | --- |
+| Minimum for ett voksent dyr | 1,5 | 0,5 | 2 |
+| For hvert dyr i tillegg | 0,75 | 0,25 | – |
+
+\* Gulvareal utenom hyller.
 
 ### 4. Hunder
 
@@ -563,25 +643,27 @@ Hunder
 
 Hunder som holdes i par eller grupper, kan holdes enkeltvis på halvparten av det totale arealet (2m2 for en hund under 20 kg, 4m2 for en hund over 20 kg) mens de er i forsøk, hvis denne adskillelsen er nødvendig av vitenskapelige årsaker. En hund skal ikke begrenses til dette arealet i mer enn 4 timer av gangen.
 
-En diende tispe med valpekull skal ha samme arealtilgang som en enkelt tispe med samme vekt. Valpeenheten skal være utformet slik at tispen kan bevege seg til en annen avdeling eller et hevet område, vekk fra valpene.*Vekt
-(kg)**Minsteareal i oppholdsenhet
-(m2 )**Minste gulvareal for ett eller to dyr
-(m2 )**Minste tillegg for hvert ytterligere dyr
-(m2 )**Minste høyde
-(m)*opp til 20
-over 204
-84
-82
-42
-2
+En diende tispe med valpekull skal ha samme arealtilgang som en enkelt tispe med samme vekt. Valpeenheten skal være utformet slik at tispen kan bevege seg til en annen avdeling eller et hevet område, vekk fra valpene.
+
+| *Vekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste gulvareal for ett eller to dyr<br>(m2 )* | *Minste tillegg for hvert ytterligere dyr<br>(m2 )* | *Minste høyde<br>(m)* |
+| --- | --- | --- | --- | --- |
+| opp til 20<br>over 20 | 4<br>8 | 4<br>8 | 2<br>4 | 2<br>2 |
 
 ### Tabell 4.2
 Hunder – avvente dyr
+
+| *Hundens vekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste gulvareal/dyr<br>(m2 )* | *Minste høyde<br>(m)* |
+| --- | --- | --- | --- |
+| opp til 5<br>fra 5 til 10<br>fra 10 til 15<br>fra 15 til 20<br>over 20 | 4<br>4<br>4<br>4<br>8 | 0,5<br>1,0<br>1,5<br>2<br>4 | 2<br>2<br>2<br>2<br>2 |
 
 ### 5. Ildere
 
 ### Tabell 5
 Ildere
+
+|  | *Minsteareal i oppholdsenhet<br>(cm2 )* | *Minste gulvareal per dyr<br>(cm2 )* | *Minste høyde<br>(cm)* |
+| --- | --- | --- | --- |
+| Dyr opp til 600 g<br>Dyr over 600 g<br>Voksne hanner<br>Hunndyr med kull | 4500<br>4500<br>6000<br>5400 | 1500<br>3000<br>6000<br>5400 | 50<br>50<br>50<br>50 |
 
 ### 6. Primater
 
@@ -592,20 +674,61 @@ Miljøet skal tilrettelegges slik at primater kan utføre komplekse aktivitetspr
 ### Tabell 6.1
 Silkeaper og tamariner
 
+|  | *Minsteareal i oppholdsenhet for ett\* eller to dyr pluss avkom opp til 5 måneders alder<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 5 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)*\*\* |
+| --- | --- | --- | --- |
+| Silkeaper | 0,5 | 0,2 | 1,5 |
+| Tamariner | 1,5 | 0,2 | 1,5 |
+
+\* Dyr kan holdes enkeltvis bare i unntakstilfeller.
+
+\*\* Oppholdsenhetens topp skal være minst 1,8 m fra gulvet.
+
 Silkeaper og tamariner skal ikke skilles fra moren før de er 8 måneder gamle.
 
 ### Tabell 6.2
 Ekornaper
 
+| *Minste gulvareal for ett\* eller to dyr<br>(m2 )* | *Minste volum for hvert ytterligere dyr over 6 måneder<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
+| --- | --- | --- |
+| 2,0 | 0,5 | 1,8 |
+
+\* Dyr kan holdes enkeltvis bare i unntakstilfeller.
+
 Ekornaper skal ikke skilles fra moren før de er 6 måneder gamle.
 
 ### Tabell 6.3
-Makaker og vervetaper*
+Makaker og vervetaper\*
+
+|  | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste volum i oppholdsenhet<br>(m3 )* | *Minste volum per dyr<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
+| --- | --- | --- | --- | --- |
+| Dyr yngre enn 3 år\*\* | 2,0 | 3,6 | 1,0 | 1,8 |
+| Dyr fra 3 års alder\*\*\* | 2,0 | 3,6 | 1,8 | 1,8 |
+| Avlsdyr\*\*\*\* |  |  | 3,5 | 2,0 |
+
+\* Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller.
+
+\*\* I oppholdsenhet med minstemål kan det holdes maksimum tre dyr.
+
+\*\*\* I oppholdsenhet med minstemål kan det holdes maksimum to dyr.
+
+\*\*\*\* I avlsgrupper kreves ikke tilleggsareal/volum for unge dyr opp til 2 års alder som holdes sammen med moren.
 
 Makaker og vervetaper skal ikke skilles fra moren før de er 8 måneder gamle.
 
 ### Tabell 6.4
-Bavianer*
+Bavianer\*
+
+|  | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste volum i oppholdsenhet<br>(m3 )* | *Minste volum per dyr<br>(m3 )* | *Minste høyde i oppholdsenhet<br>(m)* |
+| --- | --- | --- | --- | --- |
+| Dyr yngre enn 4 år\*\* | 4,0 | 7,2 | 3,0 | 1,8 |
+| Dyr fra 4 års alder\*\* | 7,0 | 12,6 | 6,0 | 1,8 |
+| Avlsdyr\*\*\* |  |  | 12,0 | 2,0 |
+
+\* Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller.
+
+\*\* I oppholdsenhet med minstemål kan det holdes maksimum to dyr.
+
+\*\*\* I avlsgrupper kreves ikke tilleggsareal/volum for unge dyr opp til 2 års alder som holdes sammen med moren.
 
 Bavianer skal ikke skilles fra moren før de er 8 måneder gamle.
 
@@ -616,29 +739,37 @@ I forbindelse med landbruksrelaterte forsøk hvor formålet krever at dyrene hol
 ### Tabell 7.1
 Storfe
 
+| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste gulvareal per dyr<br>(m2 /dyr)* | *Eteplass til ad libitum fôring av avhornet storfe<br>(m/dyr)* | *Eteplass til restriktiv fôring av avhornet storfe<br>(m/dyr)* |
+| --- | --- | --- | --- | --- |
+| opp til 100<br>fra 100 til 200<br>fra 200 til 400<br>fra 400 til 600<br>fra 600 til 800<br>over 800 | 2,50<br>4,25<br>6,00<br>9,00<br>11,00<br>16,00 | 2,30<br>3,40<br>4,80<br>7,50<br>8,75<br>10,00 | 0,10<br>0,15<br>0,18<br>0,21<br>0,24<br>0,30 | 0,30<br>0,50<br>0,60<br>0,70<br>0,80<br>1,00 |
+
 ### Tabell 7.2
 Sauer og geiter
+
+| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste gulvareal per dyr<br>(m2 /dyr)* | *Minste høyde på skillevegg<br>(m)* | *Eteplass til ad libitum fôring<br>(m/dyr)* | *Eteplass til restriktiv fôring<br>(m/dyr)* |
+| --- | --- | --- | --- | --- | --- |
+| mindre enn 20<br>fra 20 til 35<br>fra 35 til 60<br>over 60 | 1,0<br>1,5<br>2,0<br>3,0 | 0,7<br>1,0<br>1,5<br>1,8 | 1,0<br>1,2<br>1,2<br>1,5 | 0,10<br>0,10<br>0,12<br>0,12 | 0,25<br>0,30<br>0,40<br>0,50 |
 
 ### Tabell 7.3
 Griser og minigriser
 
+| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet\*<br>(m2 )* | *Minste gulvareal per dyr<br>(m2 /dyr)* | *Minste liggeareal per dyr (under termonøytrale forhold)<br>(m2 /dyr)* |
+| --- | --- | --- | --- |
+| opp til 5<br>fra 5 til 10<br>fra 10 til 20<br>fra 20 til 30<br>fra 30 til 50<br>fra 50 til 70<br>fra 70 til 100<br>fra 100 til 150<br>over 150<br>voksne (konvensjonelle)<br>råner | 2,0<br>2,0<br>2,0<br>2,0<br>2,0<br>3,0<br>3,0<br>4,0<br>5,0<br>7,5 | 0,20<br>0,25<br>0,35<br>0,50<br>0,70<br>0,80<br>1,00<br>1,35<br>2,50 | 0,10<br>0,11<br>0,18<br>0,24<br>0,33<br>0,41<br>0,53<br>0,70<br>0,95<br>1,30 |
+
+\* Griser kan holdes i mindre oppholdsenheter for kortere perioder, for eksempel ved å dele opp hovedenheten med skillevegger når dette er berettiget ut fra veterinærmedisinske eller eksperimentelle grunner. For eksempel når individuelt fôropptak er påkrevd.
+
 ### Tabell 7.4
 Hester
 
-Den korteste siden skal være minst 1,5 ganger dyrets mankehøyde i stangmål. Høyden i innendørs oppholdsenheter skal være så stor at dyrene kan steile i full høyde.*Mankehøyde
-(m)**Minste gulvareal per dyr
-(m2 /dyr)**Minste høyde i oppholdsenhet
-(m)**For hvert dyr oppstallet enkeltvis eller i grupper på opp til 3 dyr**For hvert dyr holdt i grupper på 4 dyr eller flere**Føllingsboks/hoppe med føll*1,00 til 1,40
-fra 1,40 til 1,60
-over 1,609,0
-12,0
-16,06,0
-9,0
-(2 x MH)2  *16
-20
-203,00
-3,00
-3,00
+Den korteste siden skal være minst 1,5 ganger dyrets mankehøyde i stangmål. Høyden i innendørs oppholdsenheter skal være så stor at dyrene kan steile i full høyde.
+
+| *Mankehøyde<br>(m)* | *Minste gulvareal per dyr<br>(m2 /dyr)* |  |  | *Minste høyde i oppholdsenhet<br>(m)* |
+| --- | --- | --- | --- | --- |
+|  | *For hvert dyr oppstallet enkeltvis eller i grupper på opp til 3 dyr* | *For hvert dyr holdt i grupper på 4 dyr eller flere* | *Føllingsboks/hoppe med føll* |  |
+| 1,00 til 1,40<br>fra 1,40 til 1,60<br>over 1,60 | 9,0<br>12,0<br>16,0 | 6,0<br>9,0<br>(2 x MH)2  \* | 16<br>20<br>20 | 3,00<br>3,00<br>3,00 |
+
+\* For å sikre tilstrekkelig plass skal tilgjengelig areal for hvert enkelt dyr beregnes ut fra mankehøyden (MH – stangmål).
 
 ### 8. Fugler
 
@@ -647,203 +778,173 @@ I forbindelse med landbruksrelaterte forsøk hvor formålet krever at dyrene hol
 ### Tabell 8.1
 Tamhøns
 
-Hvis det av vitenskapelige grunner ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 .*Kroppsvekt
-(g)**Minsteareal i oppholdsenhet
-(m2 )**Minsteareal per fugl
-(m2 )**Minste høyde
-(cm)**Minste lengde på fôrtrau per fugl
-(cm)*opp til 200
-fra 200 til 300
-fra 300 til 600
-fra 600 til 1200
-fra 1200 til 1800
-fra 1800 til 2400
-over 24001,00
-1,00
-1,00
-2,00
-2,00
-2,00
-2,000,025
-0,03
-0,05
-0,09
-0,11
-0,13
-0,2130
-30
-40
-50
-75
-75
-753
-3
-7
-15
-15
-15
-15
+Hvis det av vitenskapelige grunner ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 .
+
+| *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minsteareal per fugl<br>(m2 )* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 200<br>fra 200 til 300<br>fra 300 til 600<br>fra 600 til 1200<br>fra 1200 til 1800<br>fra 1800 til 2400<br>over 2400 | 1,00<br>1,00<br>1,00<br>2,00<br>2,00<br>2,00<br>2,00 | 0,025<br>0,03<br>0,05<br>0,09<br>0,11<br>0,13<br>0,21 | 30<br>30<br>40<br>50<br>75<br>75<br>75 | 3<br>3<br>7<br>15<br>15<br>15<br>15 |
 
 ### Tabell 8.2
 Tamkalkun
 
-Alle sidene i oppholdsenheten skal minst være 1,5 m lange. Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenehetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,75m2 og høyden minst 50 cm for fugler under 0,6 kg, 75 cm for fugler under 4 kg og 100 cm for fugler over 4 kg. Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.2.*Kroppsvekt
-(kg)**Minsteareal i oppholdsenhet
-(m2 )**Minsteareal per fugl
-(m2 )**Minste høyde
-(cm)**Minste lengde på fôrtrau per fugl
-(cm)*opp til 0,3
-fra 0,3 til 0,6
-fra 0,6 til 1
-fra 1 til 4
-fra 4 til 8
-fra 8 til 12
-fra 12 til 16
-fra 16 til 20
-over 202,00
-2,00
-2,00
-2,00
-2,00
-2,00
-2,00
-2,00
-3,000,13
-0,17
-0,30
-0,35
-0,40
-0,50
-0,55
-0,60
-1,0050
-50
-100
-100
-100
-150
-150
-150
-1503
-7
-15
-15
-15
-20
-20
-20
-20
+Alle sidene i oppholdsenheten skal minst være 1,5 m lange. Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenehetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,75m2 og høyden minst 50 cm for fugler under 0,6 kg, 75 cm for fugler under 4 kg og 100 cm for fugler over 4 kg. Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.2.
+
+| *Kroppsvekt<br>(kg)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minsteareal per fugl<br>(m2 )* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 0,3<br>fra 0,3 til 0,6<br>fra 0,6 til 1<br>fra 1 til 4<br>fra 4 til 8<br>fra 8 til 12<br>fra 12 til 16<br>fra 16 til 20<br>over 20 | 2,00<br>2,00<br>2,00<br>2,00<br>2,00<br>2,00<br>2,00<br>2,00<br>3,00 | 0,13<br>0,17<br>0,30<br>0,35<br>0,40<br>0,50<br>0,55<br>0,60<br>1,00 | 50<br>50<br>100<br>100<br>100<br>150<br>150<br>150<br>150 | 3<br>7<br>15<br>15<br>15<br>20<br>20<br>20<br>20 |
 
 ### Tabell 8.3
 Vaktler
 
+| *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minsteareal per fugl, parvis oppstallet<br>(m2 )* | *Minsteareal per fugl i tillegg, gruppeoppstallet fugl<br>(m2 )* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
+| --- | --- | --- | --- | --- | --- |
+| opp til 150<br>over 150 | 1,00<br>1,00 | 0,5<br>0,6 | 0,10<br>0,15 | 20<br>30 | 4<br>4 |
+
 ### Tabell 8.4
 Ender og gjess
 
-Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 . Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.4.*Kroppsvekt
-(g)**Minsteareal i oppholdsenhet
-(m2 )**Areal per fugl
-(m2 )***Minste høyde
-(cm)**Minste lengde på fôrtrau per fugl
-(cm)**Ender*opp til 300
-fra 300 til 1200**
-fra 1200 til 3500
-over 35002,00
-2,00
-2,00
-2,000,10
-0,20
-0,25
-0,5050
-200
-200
-20010
-10
-15
-15*Gjess*opp til 500
-fra 500 til 2000
-over 20002,00
-2,00
-2,000,20
-0,33
-0,50200
-200
-20010
-15
-15
+Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 . Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.4.
+
+| *Kroppsvekt<br>(g)* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Areal per fugl<br>(m2 )*\* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| *Ender* |  |  |  |  |
+| opp til 300<br>fra 300 til 1200\*\*<br>fra 1200 til 3500<br>over 3500 | 2,00<br>2,00<br>2,00<br>2,00 | 0,10<br>0,20<br>0,25<br>0,50 | 50<br>200<br>200<br>200 | 10<br>10<br>15<br>15 |
+| *Gjess* |  |  |  |  |
+| opp til 500<br>fra 500 til 2000<br>over 2000 | 2,00<br>2,00<br>2,00 | 0,20<br>0,33<br>0,50 | 200<br>200<br>200 | 10<br>15<br>15 |
+
+\* Dette skal inkludere en dam med et minsteareal på 0,5m2 per 2,0m2 oppholdsenhet og en minste dybde på 30 cm. Dammen kan utgjøre opp til 50 % av oppholdsenhetens minsteareal.
+
+\*\* Fugler som ennå ikke er flyvedyktige, kan holdes i oppholdsenheter med en minste høyde på 75 cm.
 
 ### Tabell 8.5
-Ender og gjess: Minste damstørrelser*
+Ender og gjess: Minste damstørrelser\*
+
+|  | *Areal<br>(m2 )* | *Dybde<br>(cm)* |
+| --- | --- | --- |
+| Ender | 0,5 | 30 |
+| Gjess | 0,5 | fra 10 til 30 |
+
+\* Damarealene er per 2m2 oppholdsenhet. Dammen kan utgjøre opp til 50 % av oppholdsenhetens minsteareal.
 
 ### Tabell 8.6
 Duer
 
-Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) i stedet for kvadratiske slik at fuglene kan foreta korte flyveturer.*Gruppestørrelse**Minsteareal i oppholdsenhet
-(m2 )**Minste høyde
-(cm)**Minste lengde på fôrtrau per fugl
-(cm)**Minste sittepinnelengde per fugl
-(cm)*opp til 6
-fra 7 til 12
-for hver fugl i tillegg over 122
-3
-0,15200
-2005
-5
-530
-30
-30
+Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) i stedet for kvadratiske slik at fuglene kan foreta korte flyveturer.
+
+| *Gruppestørrelse* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste høyde<br>(cm)* | *Minste lengde på fôrtrau per fugl<br>(cm)* | *Minste sittepinnelengde per fugl<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 6<br>fra 7 til 12<br>for hver fugl i tillegg over 12 | 2<br>3<br>0,15 | 200<br>200 | 5<br>5<br>5 | 30<br>30<br>30 |
 
 ### Tabell 8.7
 Sebrafinker
 
-Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) slik at fuglene kan foreta korte flyveturer. I avlsstudier kan par oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,5m2 og høyden minst 40 cm. Forsøkslederen skal i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet.*Gruppestørrelse**Minsteareal i oppholdsenhet
-(m2 )**Minste høyde
-(cm)**Minste antall fôrskåler*opp til 6
-7 til 12
-13 til 20
-for hver fugl i tillegg over 201,0
-1,5
-2,0
-0,05100
-200
-2002
-2
-3
-1 per 6 fugler
+Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) slik at fuglene kan foreta korte flyveturer. I avlsstudier kan par oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,5m2 og høyden minst 40 cm. Forsøkslederen skal i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet.
+
+| *Gruppestørrelse* | *Minsteareal i oppholdsenhet<br>(m2 )* | *Minste høyde<br>(cm)* | *Minste antall fôrskåler* |
+| --- | --- | --- | --- |
+| opp til 6<br>7 til 12<br>13 til 20<br>for hver fugl i tillegg over 20 | 1,0<br>1,5<br>2,0<br>0,05 | 100<br>200<br>200 | 2<br>2<br>3<br>1 per 6 fugler |
 
 ### 9. Amfibier
 
 ### Tabell 9.1
 Vannlevende salamandere
 
+| *Kroppslengde\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- |
+| opp til 10<br>fra 10 til 15<br>fra 15 til 20<br>fra 20 til 30<br>over 30 | 262,5<br>525<br>875<br>1837,5<br>3150 | 50<br>110<br>200<br>440<br>800 | 13<br>13<br>15<br>15<br>20 |
+
+\* Målt fra snute til kloakkåpning.
+
 ### Tabell 9.2
-Vannlevende springpadder*
+Vannlevende springpadder\*
+
+| *Kroppslengde\*\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal per dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- |
+| mindre enn 6<br>fra 6 til 9<br>fra 9 til 12<br>over 12 | 160<br>300<br>600<br>920 | 40<br>75<br>150<br>230 | 6<br>8<br>10<br>12,5 |
+
+\* Disse kravene gjelder for oppstalling i tanker (dvs. dyrehold), og ikke for tanker som av effektiviteshensyn benyttes for naturlig paring og superovulasjon, da disse prosedyrene krever mindre individuelle tanker. Arealkravene gjelder voksne dyr i de angitte størrelseskategoriene. Ungdyr og rumpetroll skal enten ikke regnes med, eller tankmålene endres på en forholdsmessig måte.
+
+\*\* Målt fra snute til kloakkåpning.
 
 ### Tabell 9.3
 Delvis vannlevende springpadder
 
+| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 5,0<br>fra 5,0 til 7,5<br>over 7,5 | 1500<br>3500<br>4000 | 200<br>500<br>700 | 20<br>30<br>30 | 10<br>10<br>15 |
+
+\* Målt fra snute til kloakkåpning.
+
+\*\* En tredjedel land og to tredjedeler vann, nok til at dyrene kan ligge helt under vannflaten.
+
+\*\*\* Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen.
+
 ### Tabell 9.4
 Landlevende springpadder
 
+| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 5,0<br>fra 5,0 til 7,5<br>over 7,5 | 1500<br>3500<br>4000 | 200<br>500<br>700 | 20<br>30<br>30 | 10<br>10<br>15 |
+
+\* Målt fra snute til kloakkåpning.
+
+\*\* To tredjedeler land og en tredjedel vann, nok til at dyrene kan ligge helt under vannflaten.
+
+\*\*\* Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen.
+
 ### Tabell 9.5
 Trelevende springpadder
+
+| *Kroppslengde\*<br>(cm)* | *Minsteareal i oppholdsenhet\*\*<br>(cm2 )* | *Minsteareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*\*<br>(cm)* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- | --- |
+| opp til 3,0<br>over 3,0 | 900<br>1500 | 100<br>200 | 30<br>30 | 10<br>10<br>15 |
+
+\* Målt fra snute til kloakkåpning.
+
+\*\* To tredjedeler land og en tredjedel vann, nok til at dyrene kan ligge helt under vannflaten.
+
+\*\*\* Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen.
 
 ### 10. Krypdyr
 
 ### Tabell 10.1
 Vannlevende skilpadder
 
+| *Kroppslengde\*<br>(cm)* | *Minste vannoverflateareal<br>(cm2 )* | *Minste vannoverflateareal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste vanndybde<br>(cm)* |
+| --- | --- | --- | --- |
+| opp til 5<br>fra 5 til 10<br>fra 10 til 15<br>fra 15 til 20<br>fra 20 til 30<br>over 30 | 600<br>1600<br>3500<br>6000<br>10000<br>20000 | 100<br>300<br>600<br>1200<br>2000<br>5000 | 10<br>15<br>20<br>30<br>35<br>40 |
+
+\* Målt i rett linje fra fremre til bakre kant av skallet.
+
 ### Tabell 10.2
 Landlevende slanger
 
+| *Kroppslengde\*<br>(cm)* | *Minste gulvareal<br>(cm2 )* | *Minste areal for hvert dyr i tillegg i gruppehold<br>(cm2 )* | *Minste høyde i oppholdsenhet\*\*<br>(cm)* |
+| --- | --- | --- | --- |
+| opp til 30<br>fra 30 til 40<br>fra 40 til 50<br>fra 50 til 75<br>over 75 | 300<br>400<br>600<br>1200<br>2500 | 150<br>200<br>300<br>600<br>1200 | 10<br>12<br>15<br>20<br>28 |
+
+\* Målt fra snute til halespiss.
+
+\*\* Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen.
+
 ### 11. Fisk
+
+11.1*Vanntilførsel og vannkvalitet*
 
 Det skal til enhver tid være nok vann av egnet kvalitet. Vannstrømmen i resirkuleringssystemer eller filtrering i karene skal være tilstrekkelig til å sikre at vannkvalitetsparameterne holdes innenfor akseptable nivåer. Vanntilførselen skal om nødvendig filtreres eller behandles for å fjerne stoffer som er skadelige for fisken. Vannkvalitetsparameterne skal hele tiden være innenfor akseptable grenser slik at normal aktivitet og normale fysiologiske prosesser opprettholdes for den aktuelle art og utviklingsstadium. Vannstrømmen skal avpasses slik at fisken kan svømme på normal måte og utøve normal atferd. Fisken skal gis passe tid til å akklimatisere og tilpasse seg endringer i vannkvaliteten.
 
+11.2*Oksygen, nitrogenforbindelser, pH og salinitet*
+
 Oksygenkonsentrasjonen skal avpasses til den enkelte arts behov og forholdene fisken holdes under. Om nødvendig skal det foretas ekstra lufting av vannet i karene. Konsentrasjonen av nitrogenforbindelser skal holdes lav. pH-verdien skal tilpasses arten og holdes så stabil som mulig. Saliniteten skal tilpasses artens behov og utviklingsstadium. Endringer i saliniteten skal skje gradvis.
+
+11.3*Temperatur, belysning, støy*
 
 Temperaturen skal holdes så stabil som mulig innenfor optimumsgrensene for den aktuelle fiskearten. Endringer i temperaturen skal skje gradvis. Fisk skal holdes i en fotoperiode som er tilpasset artens behov. Støynivået skal holdes på et minimum. Der det er mulig, skal utstyr som forårsaker støy eller vibrasjoner, så som generatorer eller filtreringsanlegg, være atskilt fra fiskekarene.
 
+11.4*Fisketetthet og miljøkompleksitet*
+
 Tettheten av fisk skal være basert på fiskens samlede behov når det gjelder miljøforhold, helse og velferd. Fisk skal ha tilgang til et vannvolum som er stort nok til at den kan svømme normalt, tatt i betraktning fiskens størrelse, alder, helse og fôropptak. Fisk skal tilbys egnet miljøberiking, slik som skjulesteder eller bunnsubstrat, hvis ikke atferdsmessige egenskaper indikerer at det ikke er behov for dette.
+
+11.5*Fôring og håndtering*
 
 Fisk skal fôres med et egnet fiskefôr i riktig mengde og med intervaller tilpasset artens behov. Ved fôring av fiskelarver skal enhver overgang fra levende til tilvirket fôr vies spesiell oppmerksomhet. Fisk skal håndteres så lite som mulig.

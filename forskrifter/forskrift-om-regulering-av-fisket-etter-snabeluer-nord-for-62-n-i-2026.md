@@ -64,13 +64,19 @@ Fiske med bunntrål etter snabeluer er likevel tillatt fra og med 1. juli innenf
 
 Fiske med flytetrål etter snabeluer er bare tillatt innenfor følgende områder:
 
+*Område A*
+
 Før 1. mars er det bare tillatt å fiske innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 017° 30′, og videre tilN 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 66° 11,00′ Ø 004° 56,00′N 65° 20,00′ Ø 004° 25,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
 
 Fra og med 10. mai er det bare tillatt å fiske innenfor følgende område i Norges økonomiske sone nord og vest for rette linjer trukket mellom følgende posisjoner:Fra yttergrensen av Norges økonomiske sone på Ø 024° 00′, og videre tilN 73° 00,00′ Ø 023° 00,00′N 73° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 017° 30,00′N 72° 00,00′ Ø 014° 40,00′N 71° 45,00′ Ø 014° 45,00′N 71° 00,00′ Ø 016° 48,00′N 70° 27,81′ Ø 016° 53,00′N 68° 00,00′ Ø 009° 24,00′N 66° 11,00′ Ø 004° 56,00′N 65° 20,00′ Ø 004° 25,00′Videre langs N 65° 20,00′ til yttergrensen av Norges økonomiske sone.
 
 Det er ikke tillatt å benytte flytetrål med bunnkontakt under fiske utenfor områder som er åpnet for direkte fiske med flytetrål.
 
+*Område B*
+
 I fiskerisonen ved Jan Mayen.
+
+*Område C*
 
 I internasjonalt farvann i ICES' statistikkområde 2.
 

@@ -154,6 +154,8 @@ Første ledd gjelder ikketiltak som arbeidsgiveren iverksetter med hovedformål 
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette de enkelte bestemmelser i loven i kraft til forskjellig tid.
 
+1 [§§ 1](lov/2017-06-16-56/§1), [2](lov/2017-06-16-56/§2), [4](lov/2017-06-16-56/§4) og [20](lov/2017-06-16-56/§20) trer i kraft 15 juni 2018 iflg. [res. 15 juni 2018 nr. 878](forskrift/2018-06-15-878). [§ 3](lov/2017-06-16-56/§3), [§ 5](lov/2017-06-16-56/§5) til [§ 19](lov/2017-06-16-56/§19) og [§ 21](lov/2017-06-16-56/§21) trer i kraft 1 mai 2019 iflg. [res 26 apr 2019 nr. 541](forskrift/2019-04-26-541).
+
 ## § 21. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

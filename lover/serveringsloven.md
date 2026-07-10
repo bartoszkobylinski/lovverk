@@ -262,8 +262,12 @@ Fra samme tidspunkt gjøres følgende endringer:
 
 – – –
 
+1 Fra 1 jan 1998 iflg. [res. 13 juni 1997 nr. 579](forskrift/1997-06-13-579).
+
 ### § 29. Overgangsbestemmelse
 
 Loven gjelder også for den som har serveringsbevilling gitt med hjemmel i [lov av 3. juni 1983 nr. 52](lov/1983-06-03-52) om overnattings- og serveringssteder (hotelloven).1 Vedkommende kan fortsette virksomheten uten å søke om ny bevilling fra kommunen.
 
 For den person som er styrer ved et igangværende serveringssted ved denne lovs ikrafttredelse2 gjøres det unntak fra kravet i [§ 5](lov/1997-06-13-55/§5). For øvrig må lovens krav om gjennomført etablererprøve i [§ 5](lov/1997-06-13-55/§5) være oppfylt senest seks måneder etter ikrafttredelsestidspunktet, med mindre departementet bestemmer noe annet.
+
+1 Inkurie: Opphevet.2 1 jan 1998 iflg. [res. 13 juni 1997 nr. 579](forskrift/1997-06-13-579).

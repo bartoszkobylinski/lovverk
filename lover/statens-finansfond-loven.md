@@ -96,6 +96,8 @@ Departementet kan gi forskrift med nærmere regler for Finansfondet og dets virk
 
 ## § 11. Andre lovendringer
 
+– – –
+
 ## § 12. Ikrafttredelse og overgangsbestemmelser
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
@@ -103,3 +105,5 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 Det er adgang til å sette i kraft forskjellige deler av loven til forskjellig tid.
 
 Kongen kan gi overgangsregler.
+
+1 Fra 6 mars 2009 iflg. [res. 6 mars 2009 nr. 266](forskrift/2009-03-06-266).

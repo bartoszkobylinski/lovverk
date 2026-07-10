@@ -128,7 +128,7 @@ Ved fastsettelse av kostnadsnormen skal det i størst mulig utstrekning tas hens
 
 ### § 3-3. Referanserente
 
-Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en referanserente som fremkommer ved: $$r = (1 - G) \cdot [\frac{Rf + Infl + β_{e} \cdot MP}{1 - s}] + G \cdot (Swap + KP)$$*G:* Fast gjeldsandel fastsatt til 60 prosent*Rf:* Fast nøytral realrente fastsatt til 1,5 prosent*Infl:* Årlig justering for inflasjon beregnet som gjennomsnittet av de to siste årenes faktiske inflasjon basert på KPI og anslag for inflasjon de to neste årene. Alle tall publisert av SSB. Dersom beregnet gjennomsnitt er negativt settes det til*βe:* Egenkapitalbeta fastsatt til 0,875*MP:* Fast markedspremie fastsatt til 5 prosent*Swap:* Årlig gjennomsnitt av 5-årig swaprente*KP:* Årlig gjennomsnittlig bransjespesifikk kredittrisikopremie, som fremkommer av spreaden mellom 5-årige kraftobligasjoner og 5-årige swaprenter for kraftselskap med god kredittkvalitet*s:* Skattesats lik gjeldende skattesats for nettselskaper.
+Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en referanserente som fremkommer ved: $$r = (1 - G) \\cdot [\\frac{Rf + Infl + β_{e} \\cdot MP}{1 - s}] + G \\cdot (Swap + KP)$$*G:* Fast gjeldsandel fastsatt til 60 prosent*Rf:* Fast nøytral realrente fastsatt til 1,5 prosent*Infl:* Årlig justering for inflasjon beregnet som gjennomsnittet av de to siste årenes faktiske inflasjon basert på KPI og anslag for inflasjon de to neste årene. Alle tall publisert av SSB. Dersom beregnet gjennomsnitt er negativt settes det til*βe:* Egenkapitalbeta fastsatt til 0,875*MP:* Fast markedspremie fastsatt til 5 prosent*Swap:* Årlig gjennomsnitt av 5-årig swaprente*KP:* Årlig gjennomsnittlig bransjespesifikk kredittrisikopremie, som fremkommer av spreaden mellom 5-årige kraftobligasjoner og 5-årige swaprenter for kraftselskap med god kredittkvalitet*s:* Skattesats lik gjeldende skattesats for nettselskaper.
 
 ### § 3-4. Referansepris på kraft
 
@@ -164,27 +164,85 @@ Hvem som er ansvarlig og berørt konsesjonær ved avbrutt effekt, ikke levert en
 
 ### § 4-2. Avbruddskostnader
 
-Spesifikke avbruddskostnader, kP,ref, angitt i 2017-kroner per kW for hver kundegruppe beregnes for et ikke varslet avbrudd på referansetidspunktet på bakgrunn av følgende kostnadsfunksjoner, der t er avbruddets varighet:*Kundegruppe**Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)*< 1 min≥ 1 min og < 1 timer≥ 1 timer og < 4 timer≥ 4 timer og < 8 timer≥ 8 timerJordbruk5,6 + 16,1 * t5,6 + 16,1 * t21,4 + 17,5 * (t – 1)74,2 + 16,1* (t – 4)74,2 + 16,1 * (t – 4)Industri38,238,2 + 95,2 * t132,6 + 92,5 * (t–1)410,3 + 62,5 * (t – 4)660,9 + 41 * (t – 8)Handel og tjenester1831,5 + 189,2 * t220,3 + 102,4 * (t – 1)527,2 + 158,8 * (t – 4)1162,2 + 115,1 * (t – 8)Offentlig virksomhet7,967,4 + 127,2 * t194,5 + 31,4 * (t – 1)288,9 + 58,2 * (t – 4)521,5 + 19,8 * (t – 8)Industri med eldrevne prosesser55,1 + 3,1 * t55,1 + 3,1 * t55,1 + 3,1 * t102,3 + 3,1 * t102,3 + 3,1 * t
+Spesifikke avbruddskostnader, kP,ref, angitt i 2017-kroner per kW for hver kundegruppe beregnes for et ikke varslet avbrudd på referansetidspunktet på bakgrunn av følgende kostnadsfunksjoner, der t er avbruddets varighet:
 
-*Kundegruppe**Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)*< 1 min≥ 1 min og < 2 timer≥ 2 timer og < 6 timer≥ 6 timer og < 12 timer≥ 12 timer og < 24 timer≥ 24 timer og < 72 timer≥ 72 timerHusholdning8,88,8 + 14,7 * t38,4 + 21,9 * (t – 2)126,0 + 13,0 * (t – 6)204+20,1 * (t – 12)445,5 + 13,3 * (t – 24)1081,5 + 13,3 * (t – 72)
+| *Kundegruppe* | *Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | < 1 min | ≥ 1 min og < 1 timer | ≥ 1 timer og < 4 timer | ≥ 4 timer og < 8 timer | ≥ 8 timer |
+| Jordbruk | 5,6 + 16,1 \* t | 5,6 + 16,1 \* t | 21,4 + 17,5 \* (t – 1) | 74,2 + 16,1\* (t – 4) | 74,2 + 16,1 \* (t – 4) |
+| Industri | 38,2 | 38,2 + 95,2 \* t | 132,6 + 92,5 \* (t–1) | 410,3 + 62,5 \* (t – 4) | 660,9 + 41 \* (t – 8) |
+| Handel og tjenester | 18 | 31,5 + 189,2 \* t | 220,3 + 102,4 \* (t – 1) | 527,2 + 158,8 \* (t – 4) | 1162,2 + 115,1 \* (t – 8) |
+| Offentlig virksomhet | 7,9 | 67,4 + 127,2 \* t | 194,5 + 31,4 \* (t – 1) | 288,9 + 58,2 \* (t – 4) | 521,5 + 19,8 \* (t – 8) |
+| Industri med eldrevne prosesser | 55,1 + 3,1 \* t | 55,1 + 3,1 \* t | 55,1 + 3,1 \* t | 102,3 + 3,1 \* t | 102,3 + 3,1 \* t |
 
-Referansetidspunktene for de respektive kundegruppene er:*Jordbruk**Husholdning**Industri**Handel og tjenester**Offentlig virksomhet**Industri med eldrevne prosesser*Torsdag i januar kl. 06:00Hverdag i januar kl. 17:00Hverdag i januar kl. 10:00Hverdag i januar kl. 10:00Hverdag i januar kl. 10:00Hverdag i januar kl. 10:00
+| *Kundegruppe* | *Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | < 1 min | ≥ 1 min og < 2 timer | ≥ 2 timer og < 6 timer | ≥ 6 timer og < 12 timer | ≥ 12 timer og < 24 timer | ≥ 24 timer og < 72 timer | ≥ 72 timer |
+| Husholdning | 8,8 | 8,8 + 14,7 \* t | 38,4 + 21,9 \* (t – 2) | 126,0 + 13,0 \* (t – 6) | 204+20,1 \* (t – 12) | 445,5 + 13,3 \* (t – 24) | 1081,5 + 13,3 \* (t – 72) |
+
+Referansetidspunktene for de respektive kundegruppene er:
+
+| *Jordbruk* | *Husholdning* | *Industri* | *Handel og tjenester* | *Offentlig virksomhet* | *Industri med eldrevne prosesser* |
+| --- | --- | --- | --- | --- | --- |
+| Torsdag i januar kl. 06:00 | Hverdag i januar kl. 17:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 |
 
 Kostnaden (Kj) for et vilkårlig avbrudd på tidspunkt j, skal beregnes som:Kj = kP,ref · fK,m · fK,d · fK,h · PrefderKj = kostnad i kr for avbrudd på tidspunkt jderPref = avbrutt effekt i rapporteringspunktet dersom tilsvarende avbrudd hadde skjedd på referansetidspunktet (kWh/h), se annet leddkP,ref = spesifikk avbruddskostnad (i kr/kW) på referansetidspunktet for en gitt varighet, se første leddfK,m = korreksjonsfaktor for avbruddskostnad (i kr) i måned m, se fjerde leddfK,d = korreksjonsfaktor for avbruddskostnad (i kr) på dag d, se femte leddfK,h = korreksjonsfaktor for avbruddskostnad (i kr) i time h, se sjette ledd.
 
-Korreksjonsfaktoren fK,m er gitt ved følgende verdier for ulike kundegrupper for ulike måneder:*Måned**Jordbruk**Husholdning**Industri**Handel og tjenester**Offentlig virksomhet**Industri med eldrevne prosesser*Januar1,001,001,001,001,001,00Februar1,101,001,001,001,001,00Mars1,100,900,871,000,671,00April1,100,900,871,000,671,00Mai0,900,800,871,000,671,00Juni0,900,700,861,020,511,00Juli0,900,600,861,020,511,00August0,900,600,861,020,511,00September1,000,700,881,060,581,00Oktober1,000,900,881,060,581,00November1,100,900,881,060,581,00Desember1,101,001,001,001,001,00
+Korreksjonsfaktoren fK,m er gitt ved følgende verdier for ulike kundegrupper for ulike måneder:
+
+| *Måned* | *Jordbruk* | *Husholdning* | *Industri* | *Handel og tjenester* | *Offentlig virksomhet* | *Industri med eldrevne prosesser* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Januar | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 |
+| Februar | 1,10 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 |
+| Mars | 1,10 | 0,90 | 0,87 | 1,00 | 0,67 | 1,00 |
+| April | 1,10 | 0,90 | 0,87 | 1,00 | 0,67 | 1,00 |
+| Mai | 0,90 | 0,80 | 0,87 | 1,00 | 0,67 | 1,00 |
+| Juni | 0,90 | 0,70 | 0,86 | 1,02 | 0,51 | 1,00 |
+| Juli | 0,90 | 0,60 | 0,86 | 1,02 | 0,51 | 1,00 |
+| August | 0,90 | 0,60 | 0,86 | 1,02 | 0,51 | 1,00 |
+| September | 1,00 | 0,70 | 0,88 | 1,06 | 0,58 | 1,00 |
+| Oktober | 1,00 | 0,90 | 0,88 | 1,06 | 0,58 | 1,00 |
+| November | 1,10 | 0,90 | 0,88 | 1,06 | 0,58 | 1,00 |
+| Desember | 1,10 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 |
 
 Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.
 
-Korreksjonsfaktoren fK,d er gitt ved følgende verdier for ulike kundegrupper for ulike ukedager:*Ukedag**Jordbruk**Husholdning**Industri**Handel og tjenester**Offentlig virksomhet**Industri med eldrevne prosesser*Hverdag1,001,001,001,001,001,00Lørdag1,101,150,130,450,301,00Søn-/helligdager1,101,150,140,110,291,00
+Korreksjonsfaktoren fK,d er gitt ved følgende verdier for ulike kundegrupper for ulike ukedager:
+
+| *Ukedag* | *Jordbruk* | *Husholdning* | *Industri* | *Handel og tjenester* | *Offentlig virksomhet* | *Industri med eldrevne prosesser* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hverdag | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 |
+| Lørdag | 1,10 | 1,15 | 0,13 | 0,45 | 0,30 | 1,00 |
+| Søn-/helligdager | 1,10 | 1,15 | 0,14 | 0,11 | 0,29 | 1,00 |
 
 Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.
 
-Korreksjonsfaktoren fK,h er gitt ved følgende verdier for ulike kundegrupper for ulike klokkeslett:*Klokkeslett**Jordbruk**Husholdning**Industri**Handel og tjenester**Offentlig virksomhet**Industri med eldrevne prosesser*0000–06000,800,650,120,110,431,000600–08001,001,051,001,001,001,000800–09000,901,051,001,001,001,000900–12000,900,751,001,001,001,001200–16000,700,751,001,001,001,001600–18001,001,051,001,001,001,001800–20001,001,050,140,300,311,002000–21000,801,050,140,290,311,002100–24000,800,800,140,290,311,00
+Korreksjonsfaktoren fK,h er gitt ved følgende verdier for ulike kundegrupper for ulike klokkeslett:
+
+| *Klokkeslett* | *Jordbruk* | *Husholdning* | *Industri* | *Handel og tjenester* | *Offentlig virksomhet* | *Industri med eldrevne prosesser* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0000–0600 | 0,80 | 0,65 | 0,12 | 0,11 | 0,43 | 1,00 |
+| 0600–0800 | 1,00 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00 |
+| 0800–0900 | 0,90 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00 |
+| 0900–1200 | 0,90 | 0,75 | 1,00 | 1,00 | 1,00 | 1,00 |
+| 1200–1600 | 0,70 | 0,75 | 1,00 | 1,00 | 1,00 | 1,00 |
+| 1600–1800 | 1,00 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00 |
+| 1800–2000 | 1,00 | 1,05 | 0,14 | 0,30 | 0,31 | 1,00 |
+| 2000–2100 | 0,80 | 1,05 | 0,14 | 0,29 | 0,31 | 1,00 |
+| 2100–2400 | 0,80 | 0,80 | 0,14 | 0,29 | 0,31 | 1,00 |
 
 Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.
 
-Den totale kostnaden for et avbrudd på et vilkårlig tidspunkt j, skal multipliseres med følgende faktor for den respektive kundegruppe dersom avbruddet er varslet:*Kundegruppe**Varslet avbrudd - spesifikk avbruddskostnad multipliseres med faktor:*Jordbruk0,80Husholdning0,50Industri0,50Handel og tjenester0,70Offentlig virksomhet0,82Industri med eldrevne prosesser1,00
+Den totale kostnaden for et avbrudd på et vilkårlig tidspunkt j, skal multipliseres med følgende faktor for den respektive kundegruppe dersom avbruddet er varslet:
+
+| *Kundegruppe* | *Varslet avbrudd - spesifikk avbruddskostnad multipliseres med faktor:* |
+| --- | --- |
+| Jordbruk | 0,80 |
+| Husholdning | 0,50 |
+| Industri | 0,50 |
+| Handel og tjenester | 0,70 |
+| Offentlig virksomhet | 0,82 |
+| Industri med eldrevne prosesser | 1,00 |
 
 De totale avbruddskostnadene skal justeres årlig for den generelle pris- og kostnadsutviklingen i samfunnet ved bruk av Statistisk sentralbyrås konsumprisindeks (KPI). Avbruddskostnaden ved serier av avbrudd under én og samme driftsforstyrrelse beregnes som summen av kostnaden for avbruddene hver for seg, begrenset oppad til kostnaden ved ett sammenhengende avbrudd.
 

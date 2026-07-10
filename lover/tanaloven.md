@@ -64,6 +64,8 @@ Loven gjelder fra den tid Kongen bestemmer.1
 
 Forskrifter gitt med hjemmel i [finnmarksloven § 28](lov/2005-06-17-85/§28) annet ledd og [lov 23. juni 1888 nr. 1](lov/1888-06-23-1) om Retten til Fiskeri i Tanavasdraget i Finmarkens Amt gjelder også etter at loven her har trådt i kraft.
 
+1 Fra 1 juli 2014 iflg. [res. 20 juni 2014 nr. 802](forskrift/2014-06-20-802).
+
 ## § 9. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

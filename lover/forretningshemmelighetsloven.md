@@ -111,6 +111,8 @@ Loven [§§ 5](lov/2020-03-27-15/§5) til [11](lov/2020-03-27-15/§11) gjelder f
 
 Kongen kan gi nærmere overgangsregler.
 
+1 Loven gjelder fra 1 jan 2021 iflg. [res. 11 des 2020 nr. 2721](forskrift/2020-12-11-2721).
+
 ## § 13. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

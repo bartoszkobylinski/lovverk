@@ -24,6 +24,18 @@ eu_basis: []
 
 ## I
 
+I [forskrift 15. mars 2021 nr. 798 om fiske etter anadrome laksefisk i vassdrag](forskrift/2021-03-15-798) gjøres følgende enderinger i [vedlegg I](forskrift/2021-03-15-798/vedleggI) og [II](forskrift/2021-03-15-798/vedleggII), jf. [§ 2](forskrift/2021-03-15-798/§2):
+
+– – –
+
+Følgende vassdrag flyttes fra [vedlegg I](forskrift/2021-03-15-798/vedleggI) til [vedlegg II](forskrift/2021-03-15-798/vedleggII) og skal da lyde som følger:
+
+| *Fylke* | *Kommune* | *V.nr.* | *Vassdrag* |
+| --- | --- | --- | --- |
+| Møre og Romsdal | Gjemnes | 108.3Z | Batnfjordelva |
+| Møre og Romsdal | Sunndal | 109.Z | Drivavassdraget |
+| Møre og Romsdal | Sunndal | 109.5Z | Litledalselva |
+
 ## II
 
 Forskriften trer i kraft straks.

@@ -114,6 +114,8 @@ Opplysninger kommisjonen mottar i medhold av [§ 7](lov/2025-03-28-5/§7), kan i
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 april 2025 iflg. [res. 28 mars 2025 nr. 544](forskrift/2025-03-28-544).
+
 ## § 14. Endringer i andre lover
 
 Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover: – – –

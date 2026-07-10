@@ -308,8 +308,12 @@ Denne forskriften trer i kraft straks.
 
 ## Vedlegg 1: Definisjonen av små og mellomstore bedrifter, forskriften [§ 3](forskrift/2020-03-27-490/§3) annet ledd
 
+[(pdf)](static/SF/sf-20200327-0490-01-02.pdf)
+
 > Endret ved [forskrift 2 april 2020 nr. 566](forskrift/2020-04-02-566).
 
 ## Vedlegg 2: Finansforetakenes andel av garantirammen (mill. kroner), jf. forskriften [§ 7](forskrift/2020-03-27-490/§7) første ledd
+
+[(pdf)](static/SF/sf-20200327-0490-02-04.pdf)
 
 > Endret ved [forskrifter 12 mai 2020 nr. 996](forskrift/2020-05-12-996), [25 sep 2020 nr. 1826](forskrift/2020-09-25-1826), [27 okt 2020 nr. 2143](forskrift/2020-10-27-2143).

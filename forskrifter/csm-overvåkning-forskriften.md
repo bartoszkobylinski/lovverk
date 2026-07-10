@@ -38,4 +38,8 @@ Forskriften trer i kraft straks.
 
 Rettsakten er gyldig på alle offisielle språk i EU. Vi legger ved den engelske teksten. Den uoffisielle norske oversettelsen legges kun ved av informasjonshensyn i påvente av den offisielle norske oversettelsen.
 
+Se her for å lese engelsk versjon av forordning [(EU) nr. 1078/2012](eu/32012r1078): [(pdf)](static/SF/32012r1078e.pdf)
+
+Se her for å lese uoffisiell norsk oversettelse av forordning [(EU) nr. 1078/2012](eu/32012r1078): [(pdf)](static/SF/32012r1078u.pdf)
+
 > Endret 29 jan 2015 uten kunngjøring i Norsk Lovtidend.

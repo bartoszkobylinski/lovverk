@@ -136,12 +136,14 @@ Fritatt for avgift er sluttsedler ved overføring av aksjer:mellom fonds- og aks
 
 ### § 17
 
-1. Denne lov trer i kraft fra den tid Kongen bestemmer.1
+1\. Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
-2. Departementet kan gi overgangsbestemmelser.
+2\. Departementet kan gi overgangsbestemmelser.
 
-3. Fra den tid denne lov trer i kraft oppheves følgende lover: – – –
+3\. Fra den tid denne lov trer i kraft oppheves følgende lover: – – –
 
-4. Fra den tid denne lov trer i kraft foretas følgende endringer i andre lover: – – –
+4\. Fra den tid denne lov trer i kraft foretas følgende endringer i andre lover: – – –
 
 > Endret ved [lov 18 des 1987 nr. 83](lov/1987-12-18-83) (tidligere § 15).
+
+1 Fra 1 jan 1976 iflg. res. 12 des 1975.

@@ -46,11 +46,15 @@ Forskningsrådets administrasjon ledes av administrerende direktør.
 
 ## § 4. Styret
 
+1\. *Oppnevning, sammensetning og funksjonstid*
+
 Kunnskapsdepartementet oppnevner styret for fire år. Styret skal settes sammen av personer med bred innsikt i forskning og innovasjon, næringsliv, offentlig sektor og samfunnsspørsmål for øvrig. Styret skal ha syv medlemmer. Kunnskapsdepartementet utpeker styrets leder og nestleder.
 
 Medlemmene kan gjenoppnevnes, men ingen kan sitte sammenhengende i styret i mer enn to perioder. Ved behandling av administrative saker suppleres styret med to styremedlemmer valgt av og blant de ansatte.
 
 Kunnskapsdepartementet fastsetter godtgjøring til styrets medlemmer.
+
+2\. *Oppgaver*
 
 Styret skal i sitt arbeid følge opp forskningspolitikken som er fastsatt av regjeringen og Stortinget, og skal gi myndighetene råd i forskningspolitiske saker.
 
@@ -59,6 +63,8 @@ Styret har hovedansvar for Forskningsrådets strategi og for at denne blir lagt 
 Styret representerer Forskningsrådet i styringsdialogen med Kunnskapsdepartementet. Departementet fastsetter i samråd med Forskningsrådet styringsdialogens form og innhold.
 
 Styrettilsetter administrerende direktør (jf. [§ 5](forskrift/2016-06-10-658/§5))fastsetter administrerende direktørs lønn og annen godtgjøring, etter konsultasjon med Kunnskapsdepartementetfastsetter instruks for administrerende direktørfastsetter retningslinjer for godtgjøring til ledende ansatte.
+
+3\. *Forretningsorden*
 
 Styrets leder innkaller til møter. Styret holder møter så ofte lederen bestemmer, eller når minst fire medlemmer ønsker det.
 

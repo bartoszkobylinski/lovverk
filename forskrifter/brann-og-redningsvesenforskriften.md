@@ -352,6 +352,8 @@ Stedfortrederen til leder av brann- og redningsvesen skal ha kvalifikasjoner ent
 
 Direktoratet for samfunnssikkerhet og beredskap kan etter søknad dispensere fra bestemmelsen når det foreligger særlige grunner.
 
+1 Krav om yrkesutdanning i forebyggende brannvern gjelder ikke leder av brann- og redningsvesen som er ansatt før denne forskrifts ikrafttredelsestidspunkt.
+
 ## Kapittel 9 – Avsluttende bestemmelser
 
 ### § 46. Ikrafttredelse

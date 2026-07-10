@@ -38,7 +38,16 @@ Forskriften gjelder tildeling av ny produksjonskapasitet til akvakultur med matf
 
 ### § 3. Fordeling av produksjonskapasitet i denne tildelingsrunden
 
-Forskriften gjelder tildeling av produksjonskapasitet i bestemte produksjonsområder. Produksjonskapasiteten fordeler seg over fem ulike produksjonsområder på følgende måte:*Produksjonsområde**Tilgjengelig produksjonskapasitet (tonn MTB)*1 – Svenskegrensen til Jæren1 2498 – Helgeland til Bodø60311 – Kvaløya til Loppa14812 – Vest-Finnmark5 17213 – Øst-Finnmark1 071*Totalt**8 243*
+Forskriften gjelder tildeling av produksjonskapasitet i bestemte produksjonsområder. Produksjonskapasiteten fordeler seg over fem ulike produksjonsområder på følgende måte:
+
+| *Produksjonsområde* | *Tilgjengelig produksjonskapasitet (tonn MTB)* |
+| --- | --- |
+| 1 – Svenskegrensen til Jæren | 1 249 |
+| 8 – Helgeland til Bodø | 603 |
+| 11 – Kvaløya til Loppa | 148 |
+| 12 – Vest-Finnmark | 5 172 |
+| 13 – Øst-Finnmark | 1 071 |
+| *Totalt* | *8 243* |
 
 De nærmere grenser for produksjonsområdene følger av [forskrift 16. januar 2017 nr. 61 om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret (produksjonsområdeforskriften)](forskrift/2017-01-16-61).
 

@@ -166,11 +166,31 @@ Vannverkseieren skal sikre at prøvetakingsplanen er oppdatert og følges.
 
 Vannverkseieren skal ta råvannsprøver i samsvar med prøvetakingsplanen omtalt i [§ 19](forskrift/2016-12-22-1868/§19). Minstekravet til antall råvannsprøver er:
 
+*Minste antall råvannsprøver*
+
+| *Produsert vann per døgn (m3 )* | *Råvannsprøver per år* |
+| --- | --- |
+| a) Til og med 10 | 1 |
+| b) Fra 10 til og med 2 000 | 4 |
+| c) Fra 2 000 til og med 6 000 | 8 |
+| d) Fra 6 000 | 12 |
+
 Råvannsprøvene skal minst analyseres for *E. coli*. Ved vannforsyningssystemer med minst 10 m3 produsert vann per døgn skal råvannsprøvene i tillegg minst analyseres for intestinale enterokokker, koliforme bakterier, pH, turbiditet og farge. Uttak og analyser av råvannsprøver skal foretas i samsvar med internasjonale eller nasjonale standarder når slike foreligger. Der vedlegg 1 eller vedlegg 2 angir krav til analysemetoder, skal disse benyttes. Laboratoriene som benyttes, skal være akkreditert for de aktuelle analysene.
 
 ## § 21. Minstekrav til drikkevannsprøver
 
 Vannverkseieren skal ta drikkevannsprøver i samsvar med prøvetakingsplanen omtalt i [§ 19](forskrift/2016-12-22-1868/§19). Parameterne det er minstekrav for, er inndelt i prøvegruppe A og B etter hvor ofte prøvene skal tas. Minstekravet til frekvensen på drikkevannsprøvene er:
+
+*Minste antall drikkevannsprøver*
+
+| *Produsert vann per døgn (m3 )* | *Drikkevannsprøver per år for prøvegruppe A X er m3 produsert vann per døgn* | *Drikkevannsprøver per år for prøvegruppe B X er m3 produsert vann per døgn* |
+| --- | --- | --- |
+| a) Til og med 10 og ingen sårbare abonnenter | 1 |  |
+| b) Fra 10 til og med 100, eller mindre med sårbare abonnenter | 4 | 0,5 = 1 hvert annet år |
+| c) Fra 100 til og med 1000 | 4 | 1 |
+| d) Fra 1000 til og med 10 000 | 4 + (3X / 1 000) | 1 + (X / 3 300) |
+| e) Fra 10 000 til og med 100 000 | 4 + (3X / 1 000 ) | 3 + (X / 10 000) |
+| f) Fra 100 000 | 4 + (3X / 1 000) | 10 + (X / 25 000) |
 
 Drikkevannsprøvene for prøvegruppe A skal analyseres for parameterne som er angitt med prøvegruppe A i vedlegg 1 og vedlegg 2. Drikkevannsprøvene for prøvegruppe B skal analyseres for parameterne som er angitt med prøvegruppe B i vedlegg 1 og vedlegg 2. Uttak av drikkevannsprøver skal foretas i samsvar med NS-ISO 5667-5 og NS-EN ISO 19458. Analyser av drikkevannsprøver skal foretas i samsvar med internasjonale eller nasjonale standarder når slike foreligger. Der vedlegg 1 eller vedlegg 2 angir krav til analysemetoder, skal disse benyttes. Laboratoriene som benyttes, skal være akkreditert for de aktuelle analysene.
 
@@ -255,10 +275,67 @@ I [vedlegg 1](forskrift/2016-12-22-1868/vedlegg1) tilføyes følgende rad etter 
 ## Vedlegg 1
 Grenseverdier
 
+|  | *Grense-*<br>*verdi* | *Enhet* | *Prøve-*<br>*gruppe* | *Analyse-*<br>*metode* | *Analyse-*<br>*usikkerhet*<br>(prosent av<br>grense-<br>verdi) | *Merknad* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1,2-dikloretan | 3,0 | µg/l | B |  | 40 |  |
+| Akrylamid | 0,10 | µg/l | B |  |  | Parameteren trenger ikke analyseres, men skal beregnes dersom farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6) viser at parameteren kan være relevant. Maksimal mengde monomerer beregnes ut fra hva spesifikasjonene sier om polymerens overføring til drikkevannet ved kontakt. |
+| Antimon | 5,0 | µg/l | B |  | 40 |  |
+| Arsen | 10 | µg/l | B |  | 30 |  |
+| Benzen | 1,0 | µg/l | B |  | 40 |  |
+| Benzo(a)pyren | 0,010 | µg/l | B |  | 50 | I de tilfellene det ikke er mulig å overholde kravene til analyseusikkerhet, skal den beste tilgjengelige teknikken benyttes (opptil 60 prosent). |
+| Bly | 10 | µg/l | B |  | 25 | Prøven skal tas slik at den gir et representativt bilde av et ukentlig gjennomsnitt for vannet som brukes. |
+| Bor | 1,0 | mg/l | B |  | 25 |  |
+| Bromat | 10 | µg/l | B |  | 40 |  |
+| Cyanid | 50 | µg/l | B |  | 30 | Metoden bestemmer den totale mengden cyanid, uavhengig av kjemisk form. |
+| *E. coli* | 0 | Antall/100 ml | A | NS-EN ISO 9308-1 eller NS-EN ISO 9308-2 |  | Analysemetode godkjent i samsvar med forskrift 12. april 2001 nr. 1372 om vannforsyning og drikkevann kan benyttes inntil 30. juni 2017. |
+| Epiklorhydrin | 0,10 | µg/l | B |  |  | Parameteren trenger ikke analyseres, men skal beregnes dersom farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6) viser at parameteren kan være relevant. Maksimal mengde monomerer beregnes ut fra hva spesifikasjonene sier om polymerens overføring til drikkevannet ved kontakt. |
+| Farge | Akseptabel for abonnentene |  | A |  |  | Mattilsynet anbefaler at fargetallet ikke overskrider 20 mg/l Pt. Se også vedlegg 2. |
+| Fluorid | 1,5 | mg/l | B |  | 20 |  |
+| Intestinale enterokokker | 0 | Antall/100 ml | A | NS-EN ISO 7899-2 |  |  |
+| Kadmium | 5,0 | µg/l | B |  | 25 |  |
+| Kobber | 2,0 | mg/l | B |  | 25 | Prøven skal tas slik at den gir et representativt bilde av et ukentlig gjennomsnitt for vannet som brukes. |
+| Krom | 50 | µg/l | B |  | 30 |  |
+| Kvikksølv | 1,0 | µg/l | B |  | 30 |  |
+| Lukt | Akseptabel for abonnentene |  | A |  |  | Se også vedlegg 2. |
+| Nikkel | 20 | µg/l | B |  | 25 | Prøven skal tas slik at den gir et representativt bilde av et ukentlig gjennomsnitt for vannet som brukes. |
+| Nitrat | 50 | mg/l | B |  | 15 |  |
+| Nitritt | 0,5 | mg/l | A eller B |  | 20 | Er bare i prøvegruppe A i de tilfellene det benyttes kloramin. Er ellers i prøvegruppe B. |
+| Sum 4 PFAS | 0,004 | µg/l | B |  | 50 | Summen av perfluoroktansulfonsyra (PFOS), perfluoroktansyra (PFOA), perfluornonansyra (PFNA), perfluorhexansulfonsyra (PFHxS). Bare obligatorisk å analysere for der farekartleggingen viser at de kan forekomme i vanntilsigsområdet. |
+| Plantevernmidler, enkeltvis | 0,10 | µg/l | B |  | 30–80 | Grenseverdien gjelder hvert enkelt plantevernmiddel enkeltvis. Den gjelder også for plantevernmidlenes relevante metabolitter, nedbrytnings- og reaksjonsprodukter. For aldrin, dieldrin, heptaklor og heptaklorepoksid er grenseverdien 0,030 µg/l. Det er bare nødvendig å analysere for plantevernmidler som med en viss sannsynlighet kan være til stede i det aktuelle vannforsyningssystemet. Analyseusikkerheten for plantevernmidler varierer. |
+| Plantevernmidler, totalt | 0,50 | µg/l | B |  | 30–80 | Summen av de enkelte plantevernmidlene som analyseres i vannforsyningssystemets prøvetakingsplan. Grenseverdien gjelder også for plantevernmidlenes relevante metabolitter, nedbrytnings- og reaksjonsprodukter. Det er bare nødvendig å analysere for plantevernmidler som med en viss sannsynlighet kan være til stede i det aktuelle vannforsyningssystemet. Analyseusikkerheten for plantevernmidler varierer. |
+| Polyaromatiske hydrokarboner (PAH) | 0,10 | µg/l | B |  | 50 | Summen av benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen og indeno(1,2,3-cd)pyren. Analyseusikkerheten gjelder for enkeltsubstanser som utgjør 25 prosent av grenseverdien. |
+| Selen | 10 | µg/l | B |  | 40 |  |
+| Smak | Akseptabel for abonnentene |  | A |  |  | Se også vedlegg 2. |
+| Tetrakloreten | 10 | µg/l | B |  | 30 | Summen av tetrakloreten og trikloreten skal ikke overskride 10 µg/l. Analyseusikkerheten gjelder for enkeltsubstanser som utgjør 50 prosent av grenseverdien. |
+| Trikloreten | 10 | µg/l | B |  | 40 | Summen av tetrakloreten og trikloreten skal ikke overskride 10 µg/l. Analyseusikkerheten gjelder for enkeltsubstanser som utgjør 50 prosent av grenseverdien. |
+| Trihalometaner, totalt | 100 | µg/l | B |  | 40 | Summen av kloroform, bromoform, dibromklormetan og bromdiklormetan. Analyseusikkerheten gjelder for enkeltsubstanser som utgjør 25 prosent av grenseverdien. |
+| Turbiditet | Akseptabel for abonnentene |  | A | NS-EN ISO 7027 | 30 | Mattilsynet anbefaler at turbiditeten ut fra vannbehandlingsanlegget ikke overskrider 1 NTU ved vannforsyningssystemer som benytter overflatevann. Målingen av analyseusikkerhet estimeres ved 1 NTU. Se også vedlegg 2. |
+| Vinylklorid | 0,50 | µg/l | B |  |  | Parameteren trenger ikke analyseres, men skal beregnes dersom farekartleggingen i [§ 6](forskrift/2016-12-22-1868/§6) viser at parameteren kan være relevant. Maksimal mengde monomerer beregnes ut fra hva spesifikasjonene sier om polymerens overføring til drikkevannet ved kontakt. |
+
 > Endret ved denne forskriftens [§ 32](forskrift/2016-12-22-1868/§32) (i kraft 1 jan 2026).
 
 ## Vedlegg 2
 Tiltaksgrenser
+
+|  | *Tiltaks-*<br>*grense* | *Enhet* | *Prøve-*<br>*gruppe* | *Analyse-*<br>*metode* | *Analyse-*<br>*usikkerhet*<br>(prosent av<br>tiltaks-<br>grense) | *Merknad* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aluminium | 0,2 | mg/l | A eller B |  | 25 | Er i prøvegruppe A i de tilfellene der aluminium blir benyttet som vannbehandlingskjemikalie. Er ellers i prøvegruppe B. |
+| Ammonium | 0,50 | mg/l | A eller B |  | 40 | Er i prøvegruppe A i de tilfellene der kloramin blir benyttet. Er ellers i prøvegruppe B. |
+| *Clostridium perfringens* (inkludert sporer) | 0 | Antall/100 ml | B | NS-EN ISO 14189 |  | *Clostridium perfringens* er bare obligatorisk å analysere for dersom råvannet er overflatevann, eller er påvirket av overflatevann. Dersom tiltaksgrensen overskrides, skal vannverkseieren undersøke om patogene mikroorganismer eller parasitter, som for eksempel *Cryptosporidium*, er tilstede.<br>Analysemetode godkjent i samsvar med forskrift 12. april 2001 nr. 1372 om vannforsyning og drikkevann kan benyttes inntil 30. juni 2017. |
+| Farge | Ingen unormal endring |  | A |  |  | Mattilsynet anbefaler at fargetallet ikke overskrider 20 mg/l Pt. Se også vedlegg 1. |
+| Jern | 0,2 | mg/l | A eller B |  | 30 | Er bare i prøvegruppe A i de tilfellene der jern blir benyttet som vannbehandlingskjemikalie. Er ellers i prøvegruppe B. |
+| Kimtall 22°C | 100 og ingen unormal endring | Antall/ml | A | NS-EN ISO 6222 |  |  |
+| Klorid | 250 | mg/l | B |  | 15 | Vannet skal ikke være korrosivt. |
+| Koliforme bakterier | 0 | Antall/100 ml | A | NS-EN ISO 9308-1 eller NS-EN ISO 9308-2 |  | Analysemetode godkjent i samsvar med forskrift 12. april 2001 nr. 1372 om vannforsyning og drikkevann kan benyttes inntil 30. juni 2017. |
+| Ledningsevne | 250 | mS/m ved 20°C | A |  | 20 | Vannet skal ikke være korrosivt. |
+| Lukt | Ingen unormal endring |  | A |  |  | Se også vedlegg 1. |
+| Mangan | 0,05 | mg/l | B |  | 30 |  |
+| Natrium | 200 | mg/l | B |  | 15 |  |
+| pH | 6,5-9,5 |  | A |  | 0,2 | Analyseusikkerheten er ikke i prosent av pH, men i pH-enheter. Vannet skal ikke være korrosivt. |
+| Smak | Ingen unormal endring |  | A |  |  | Se også vedlegg 1. |
+| Sulfat | 250 | mg/l | B |  | 15 | Vannet skal ikke være korrosivt. |
+| Totalt organisk karbon (TOC) | Ingen unormal endring |  | B | CEN 1484 | 30 | Målingen av analyseusikkerhet skal estimeres ved 3 mg/l av TOC. |
+| Turbiditet | Ingen unormal endring |  | A | NS-EN ISO 7027 | 30 | Mattilsynet anbefaler at turbiditeten ut fra vannbehandlingsanlegget ikke overskrider 1 NTU ved vannforsyningssystemer som bruker overflatevann. Målingen av analyseusikkerhet estimeres ved 1 NTU. Se også vedlegg 1. |
 
 ## Vedlegg 3
 Søknad om godkjenning av vannbehandlingskjemikalier skal inneholde følgende dokumentasjon:

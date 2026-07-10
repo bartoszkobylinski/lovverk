@@ -122,7 +122,11 @@ Ved betaling av avgiften via bank skal forhåndstrykket blankett med kundeidenti
 
 ## Kap. III. Sluttsedler ved overføring av aksjer.1
 
+1 Opphevet ved [forskrift 12. desember 1983 nr. 1807](forskrift/1983-12-12-1807).
+
 ## Kap. IV. Firmameldinger.1
+
+1 Opphevet ved [forskrift 12. desember 1983 nr. 1807](forskrift/1983-12-12-1807).
 
 ## Kap. V. Bestemmelser om ikrafttreden m.v.
 

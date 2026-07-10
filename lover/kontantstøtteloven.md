@@ -166,6 +166,8 @@ Søkeren plikter å gi de opplysninger og levere de erklæringer og attester som
 
 > Endret ved lover [21 des 2005 nr. 122](lov/2005-12-21-122) (ikr. 1 jan 2006), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
+1 Inkurie: Skal vel vise til [§ 10](lov/2005-06-17-64/§10) etter endring 1 jan 2021.
+
 ### § 17. Saksbehandling
 
 Ved behandlingen av saker etter loven her gjelder reglene i [forvaltningsloven](lov/1967-02-10), likevel slik at reglene i [folketrygdloven § 21-4](lov/1997-02-28-19/§21-4), [§ 21-10](lov/1997-02-28-19/§21-10) første ledd og [§ 21-11](lov/1997-02-28-19/§21-11) gjelder så langt de passer.

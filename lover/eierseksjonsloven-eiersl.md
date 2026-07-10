@@ -666,6 +666,8 @@ Loven gjelder fra den tiden1 Kongen bestemmer.
 
 Fra samme tidspunkt oppheves [lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner.
 
+1 Fra 1 jan 2018, med unntak av § 9, som trer i kraft 1 juli 2018 iflg. [res. 15 sep 2017 nr. 1393](forskrift/2017-09-15-1393).
+
 ### § 67. Overgangsbestemmelser
 
 [§ 3](lov/2017-06-16-65/§3) første og annet ledd gjelder ikke dersom bruksretten er stiftet før [lov 23. mai 1997 nr. 31](lov/1997-05-23-31) om eierseksjoner trådte i kraft. Utvidelse, fornyelse eller forlengelse regnes som stiftelse av ny bruksrett hvis brukeren ikke hadde krav på endringen. [§ 3](lov/2017-06-16-65/§3) tredje og fjerde ledd gjelder ikke dersom panteretten har fått rettsvern mot seksjonseiernes kreditorer før loven her trer i kraft.

@@ -358,6 +358,8 @@ Loven gjelder fra den tid1 Kongen bestemmer.
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 25).
 
+1 Fra 1 juli 2017 iflg. [res. 22 mai 2017 nr. 618](forskrift/2017-05-22-618).
+
 ### § 27. Opphevelse av andre lover
 
 Fra det tidspunktet loven trer i kraft, oppheves [lov 7. juni 1991 nr. 24](lov/1991-06-07-24) om godkjenning og drift av innretninger til bruk i tivoli og fornøyelsesparker.

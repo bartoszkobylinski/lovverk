@@ -128,4 +128,6 @@ Luftfartstilsynet kan i særlige tilfeller gjøre unntak fra disse bestemmelsene
 
 ## Forordning (EF) nr. 859/2008
 
+For å lese forordning [(EF) nr. 859/2008](eu/32008r0859) se her: [(pdf)](static/SF/32008r0859e.pdf)
+
 > Tilføyd ved [forskrift 2 juni 2009 nr. 614](forskrift/2009-06-02-614).

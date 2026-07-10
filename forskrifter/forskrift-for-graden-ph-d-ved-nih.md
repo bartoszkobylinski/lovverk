@@ -44,6 +44,8 @@ Doktorgradsutdanningen omfatter:Gjennomføring av et selvstendig forskningsarbei
 
 ## § 5. Opptak
 
+*Opptakskrav*
+
 For å bli tatt opp på et doktorgradsprogram må søkeren normalt ha femårig mastergrad eller tilsvarende utdanning som institusjonen har godkjent som grunnlag for opptak innen doktorgradsprogrammet hvor vedkommende søker opptak.
 
 For å bli opptatt til doktorgradsprogrammet ved NIH, må søkeren ha oppnådd mastergraden i idrettsvitenskap/graden idrettskandidat eller ha annen utdanning på samme nivå med idrett i fagkretsen, eller på annen måte kunne dokumentere idrettsfaglig kunnskap og innsikt.
@@ -51,6 +53,8 @@ For å bli opptatt til doktorgradsprogrammet ved NIH, må søkeren ha oppnådd m
 Søkere til doktorgradsstudiet skal som hovedregel ha oppnådd minimum gjennomsnittskarakteren B/2,5 eller bedre i mastergraden/hovedfagsstudiet.
 
 Søkere som kan dokumentere omfattende idrettsvitenskapelig kunnskap kan i særskilte tilfeller på bakgrunn av en helhetsvurdering, med særlig vekt på FoU-arbeid, gis dispensasjon fra kravet om 2,5/B i gjennomsnittskarakter.
+
+*Søknaden*
 
 Søknad om opptak skal inneholde:ProsjektbeskrivelseFremdriftsplan for gjennomføring av utdanningenFinansieringsplanRedegjørelse for nødvendig infrastrukturRedegjørelse for veiledningsbehov og forslag til veiledereEventuelle planer for opphold ved andre, herunder utenlandske, forskningsinstitusjoner eller virksomheterPlan for faglig formidlingDokumentasjon av den utdanning som skal ligge til grunn for opptaketOpplysninger om eventuelle immaterialrettslige restriksjoner for å beskytte andres rettigheter.
 
@@ -60,7 +64,11 @@ Prosjektbeskrivelsen kan utarbeides i samarbeid med hovedveileder og skal gjøre
 
 Søknad om opptak til dr.gradsstudiet ved NIH kan gjøres på to måter: To-trinns behandling av søknad om opptak eller ett-trinns behandling av søknad om opptak.
 
+*To-trinns behandling av søknad om opptak*
+
 Ved søknad leverer kandidaten et utkast til prosjektbeskrivelse. I utkastet til prosjektbeskrivelse skal det gjøres rede for tema, problemstillinger samt valg av teori og metode. Pkt. 2-9 skal følge som vedlegg til søknaden. På bakgrunn av søknaden tildeler KFU hovedveileder til søkeren. Søker skal i samarbeid med hovedveileder utarbeide en fullstendig prosjektbeskrivelse innen 6 måneder etter at hovedveileder er tildelt. Den fullstendige prosjektbeskrivelsen skal utgjøre maks. 10 sider, ekskl. litteraturliste (12 punktskrift, 1 ½ linjeavstand). KFU foretar endelig opptak etter en vurdering av fullstendig prosjektbeskrivelse og pkt. 2-9.
+
+*Ett-trinns behandling av søknad om opptak*
 
 Ved søknad leverer kandidaten en fullstendig prosjektbeskrivelse. Prosjektbeskrivelsen kan utarbeides i samarbeid med hovedveileder og skal gjøre rede for tema, problemstillinger samt valg av teori og metode. Den fullstendige prosjektbeskrivelsen skal utgjøre maks. 10 sider ekskl. litteraturliste (12 punktskrift, 1 ½ linjeavstand). Pkt. 2-9 er vedlegg til søknaden.
 
@@ -69,6 +77,8 @@ For veiledere utenfor NIH skal CV vedlegges.
 Ved søknad om stipendiatstilling skal kandidaten ikke tilsettes før KFU har foretatt endelig opptak. Unntatt fra denne regelen er stipendiatstillinger, hvor tilsettingen skjer i et predefinert prosjekt, hvor hovedveileder er utpekt og prosjektet beskrevet av det relevante fagmiljø. Tilsettingen kan i slike tilfelle skje under forutsetning av at søknad om opptak blir forelagt KFU til behandling i tråd med ovenstående regler senest 2 måneder fra tilsetting.
 
 Søknaden skal leveres i 5 eksemplarer.
+
+*Avgjørelse om opptak*
 
 Avgjørelse om opptak baseres på en samlet vurdering av søknaden. Institusjonen kan fastsette kriterier for rangering mellom kvalifiserte søkere når antallet søkere overstiger opptakskapasiteten.
 
@@ -108,9 +118,13 @@ Fast ansatte ved NIH med hovedfag kan delta på opplæringsprogrammet og avlegge
 
 Det stilles krav om oppnådd laudabelt resultat/B for å få bestått ved samtlige eksamener i opplæringsdelen.
 
+*Vitenskapsteori (5 studiepoeng)*
+
 Det avholdes et obligatorisk kurs i vitenskapsteori og etikk for doktorgradsprogrammet med en ramme på 5 studiepoeng.
 
 Ved kursslutt skal studenten levere utkast til et essay om vitenskapsteoretiske forhold ved eget prosjekt. Essayet vurderes til bestått/ikke bestått. Ekstern sensor benyttes i bedømmingen.
+
+*Fag- og metodefordypning (30 studiepoeng)*
 
 Det skal avlegges en idrettsfaglig eksamen innen 2 år etter at studiet har startet. Denne eksamen skal inneholde en skriftlig og en muntlig komponent.
 
@@ -140,6 +154,8 @@ Høgskolen kan terminere studiet dersom eksamen/søknad om utsettelse i henhold 
 
 Høgskolen kan gjennomføre årlige kurs/seminar for doktorgradsstudentene.
 
+*Formidling (5 studiepoeng)*
+
 Det stilles krav om at dr.gradsstudenten i løpet av studiet utfører faglig formidling enten ved:Forelesninger eller seminar på til sammen 15-20 timerEt populærvitenskapelig arbeidAnnet formidlingsarbeid som utstillinger, videoer eller lignende.
 
 Det skal gis veiledning i tilknytning til dr.gradsstudentenes formidlingsoppgaver. Omfanget av veiledningen skal nedfelles i avtale for doktorgradsutdanningen.
@@ -156,19 +172,29 @@ Dr.gradsstudentene skal knyttes til en fagseksjon. Seksjonsleder er i samråd me
 
 ## § 9. Avhandlingen
 
+*Krav til avhandlingen*
+
 Avhandlingen skal være et selvstendig, vitenskapelig arbeid som oppfyller internasjonale standarder innen fagområdet. Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den vil kunne publiseres som en del av fagets vitenskapelige litteratur.
 
 Del av fellesarbeid godtas som avhandling i den grad doktorandens selvstendige innsats kan identifiseres og dokumenteres.
 
 Sammenstillinger av flere, mindre arbeider godtas som avhandling i den grad doktorandens selvstendige innsats kan identifiseres og dokumenteres.
 
+*Arbeider som ikke godtas*
+
 Arbeid som har vært godtatt som grunnlag for tidligere eksamener, kan ikke antas til bedømmelse med mindre arbeidet inngår som en mindre del av en avhandling som består av flere, sammenhengende arbeider.
 
+*Ny innlevering*
+
 En doktorgradsavhandling som tidligere er blitt underkjent ved institusjonen, kan bedømmes i omarbeidet skikkelse først seks måneder etter at institusjonen har fattet beslutning om å forkaste avhandlingen. Bedømmelse på nytt kan bare finne sted en gang.
+
+*Offentlig tilgjengelighet*
 
 Avhandlingen skal være offentlig tilgjengelig senest to uker før disputasen holdes.
 
 Det kan ikke legges restriksjoner på offentliggjøring og publisering av en doktorgradsavhandling, med unntak for en på forhånd avtalt utsettelse av datoen for offentliggjøring/publisering. Slik utsettelse kan skje når forskerutdanningen delvis eller i sin helhet er finansiert av en ekstern part, for at den eksterne part skal kunne ta stilling til patentering/kommersialisering. Ekstern part kan ikke stille vilkår om at hele eller deler av doktorgradsavhandlingen ikke skal kunne offentliggjøres eller publiseres.
+
+*Rettigheter ved bruk av resultater*
 
 Kandidatens rettigheter til bruk av egne resultater, utnyttelse av patenterbare oppfinnelser, opphavsrettigheter m.m., er regulert av institusjonens generelle regler på dette området samt de regler som er bestemt i Arbeidstakeroppfinnerloven.
 
@@ -228,25 +254,37 @@ Veileder foreslår medlemmer av kommisjonen overfor leder av den fagseksjon kand
 
 ## § 16. Komiteens arbeid
 
+*Tilbaketrekning og bearbeiding*
+
 Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det er verdig til å forsvares for doktorgraden. Doktorgradskandidaten kan likevel rette formelle feil i avhandlingen ved innlevering. Det må i tilfelle innleveres en oversikt over rettingene senest en måned før disputasen.
 
 Uten hensyn til det foregående kan institusjonen tillate omarbeiding av avhandlingen på grunnlag av bedømmelseskomiteens foreløpige kommentarer. Det skal gis en frist for slik omarbeiding, normalt ikke lengre enn 6 måneder.
 
 Hvis avhandlingen ikke godkjennes, kan ny innlevering først finne sted etter 6 måneder.
 
+*Opplysningsplikt*
+
 Veileder kan innkalles til møter i bedømmelseskomiteen for å gjøre rede for veiledningen og arbeidet med avhandlingen.
 
 Komiteen kan kreve doktorgradskandidatens grunnlagsmateriale og utfyllende eller oppklarende tilleggsinformasjon fremlagt.
+
+*Innstilling*
 
 Komiteen avgir innstilling om hvorvidt arbeidet er verdig til å forsvares for doktorgraden. Innstilling og eventuelle dissenser skal begrunnes.
 
 Bedømmelseskomiteens innstilling forelegges doktorgradskandidaten, som gis frist på 14 dager til å fremme skriftlige merknader til innstillingen. Hvis doktorgradskandidaten ikke ønsker å fremme skriftlige merknader, underrettes komiteen snarest om dette.
 
+*Frister*
+
 Komiteens innstilling skal foreligge innen tre måneder etter at komiteen har mottatt avhandlingen, med mindre institusjonen har bestemt noe annet. Tillater komiteen omarbeiding av avhandlingen, løper ny frist fra den datoen avhandlingen leveres på nytt.
 
 ## § 17. Komiteens innstilling og behandling av innstillingen
 
+*Behandling av enstemmig innstilling*
+
 En enstemmig komitéinnstilling skal tas til følge, såfremt et flertall av styret eller det beslutningsorganet som styret bemyndiger stemmer for dette. Dersom et flertall finner at det til tross for en enstemmig komitéinnstilling foreligger begrunnet tvil om en avhandling bør godkjennes, skal institusjonen søke nærmere avklaring fra bedømmelseskomiteen eller oppnevne to nye sakkyndige, som avgir individuelle uttalelser om avhandlingen. Doktorgradskandidatens merknader vedlegges. Etter dette fatter beslutningsorganet selv vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Behandling av delt innstilling*
 
 Dersom det foreligger dissens i komiteen, kan institusjonen uten ytterligere bedømmelse fatte vedtak i saken, eller søke nærmere avklaring fra bedømmelseskomiteen, eller oppnevne to nye sakkyndige, som avgir individuelle uttalelser om avhandlingen. Doktorkandidatens merknader vedlegges. Etter dette fatter institusjonen selv vedtak i saken på grunnlag av innstillingen og de innhentede uttalelser.
 
@@ -292,9 +330,13 @@ Når institusjonen har godkjent opplæring, avhandling, prøveforelesning og dis
 
 ## § 21. Klage
 
+*Klage på opptak og søknadsbehandling*
+
 Avslag på søknad om opptak etter [§ 5](forskrift/2003-12-16-4680/§5) kan påklages etter reglene i [forvaltningslovens § 28](lov/1967-02-10/§28) flg. Grunngitt klage sendes til institusjonen. Blir avslaget opprettholdt, sendes klagen til institusjonens sentrale klagenemnd til avgjørelse.
 
 Klage på opptaks- og søknadsbehandling sendes Komité for forskerutdanning (KFU). Hvis KFU opprettholder tidligere vedtak, kan klagen ankes inn til Den sentrale klagenemd.
+
+*Klage på godkjenning av opplæringsprogrammet*
 
 Ved klage på avslag på søknad om godkjenning av kurs eller andre deler av opplæringsprogrammet, gjelder [§ 12](forskrift/2003-12-16-4680/§12) nr. 1 i forvaltningsloven tilsvarende. Ved klage over sensur ved særskilt eksamen eller prøver, gjelder likevel lov om universiteter og høyskoler.
 

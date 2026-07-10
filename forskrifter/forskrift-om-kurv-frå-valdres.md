@@ -32,15 +32,28 @@ Kurv frå Valdres BA.
 
 ## § 3. Vilkår for bruk av produktnemninga
 
+*1. Produktskildring*
+
 Kurv frå Valdres er spekjepølse laga i samsvar med gammal tradisjon i Valdres. Nemninga omfattar tre hovudtypar: storfe, småfe og vilt. Kurv frå Valdres skal vere urøykt.
 
 Kurv frå Valdres finst i eit mangfald av storleikar og former. Kurven skal ha mørk ytterkant og raudfarga kjerne og er kjenneteikna ved ein søtleg smak og variabel konsistens. Kurven kan vere både finhakka og grovhakka.
 
+2\. *Geografisk område*
+
 Kurv frå Valdres skal vere foredla i regionen Valdres, som omfattar kommunane Etnedal, Nord-Aurdal, Sør-Aurdal, Vang, Vestre Slidre og Øystre Slidre.
+
+*3. Produksjonsmetode*
 
 Til foredling av Kurv frå Valdres kan det brukast ulike typar kjøtt avhengig av type spekjepølse. Nærmare krav til innhald av kjøttråvare i dei tre hovudtypane er sette opp i tabell 1.
 
-Tabell 1 Krav til råvareinnhald i Kurv frå Valdres*Råvare**Kurv frå Valdres Storfe**Kurv frå Valdres Småfe**Kurv frå Valdres Vilt*Storfekjøtt≥ 35 %Småfekjøtt≥ 40 %Viltkjøtt≥ 40 %Spekk/småflesk≤ 30 %≤ 30 %≤ 30 %
+Tabell 1 Krav til råvareinnhald i Kurv frå Valdres
+
+| *Råvare* | *Kurv frå Valdres Storfe* | *Kurv frå Valdres Småfe* | *Kurv frå Valdres Vilt* |
+| --- | --- | --- | --- |
+| Storfekjøtt | ≥ 35 % |  |  |
+| Småfekjøtt |  | ≥ 40 % |  |
+| Viltkjøtt |  |  | ≥ 40 % |
+| Spekk/småflesk | ≤ 30 % | ≤ 30 % | ≤ 30 % |
 
 Andre ingrediensar som kan brukast til foredling av Kurv frå Valdres, er blod eller hemoglobin, innmat, potet, løk og krydder. Raudvin, sirup, saft, øl og sprit kan brukast som smakstilsetjing.
 
@@ -51,6 +64,8 @@ Kjøtt, spekk/småflesk og eventuelt løk skal kvernast ein gong. Alle ingredien
 Foredling av kurv skal skje i tidsrommet frå 1. november til 1. april. Temperatur og luftråme skal målast minst éin gong i veka og regulerast ved opning eller lukking av lufttilførselen. I nødstilfelle kan det brukast vifter. Kunstig regulering av klimaet ved hjelp av klimarom skal ikkje brukast.
 
 Berre spekjepølser som har hatt ein vektreduksjon på minimum 30 % og vassaktivitet på maksimum 0,8 aw, kan bruke nemninga Kurv frå Valdres.
+
+*4. Merking av produktet*
 
 Kurv frå Valdres kan merkjast med teksten og figurmerket for beskytta geografisk nemning.
 

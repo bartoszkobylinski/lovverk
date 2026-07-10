@@ -254,11 +254,17 @@ Forskriften trer i kraft 11. oktober 2017. Fra samme tidspunkt oppheves [forskri
 
 ## Vedlegg I. Grunnleggende sikkerhetskrav
 
+1\. *Alminnelige vilkår*
+
 1. Opplysninger som det er nødvendig å kjenne til for å sikre at det elektriske utstyret blir brukt uten fare til det formålet det er laget for, skal angis på det elektriske utstyret, eller dersom dette ikke er mulig, i et følgedokument.
 2. Det elektriske utstyret skal, sammen med dets enkelte deler, være utført slik at det kan settes sammen og tilkoples på en korrekt og sikker måte.
 3. Det elektriske utstyret skal konstrueres og produseres på en slik måte at beskyttelse mot farene beskrevet i nr. 2 og 3 er sikret, forutsatt at utstyret blir brukt til det formålet det er laget for, og at det blir forsvarlig vedlikeholdt.
 
+2\. *Beskyttelse mot farer som kan skyldes det elektriske utstyret*
+
 Det elektriske utstyret skal være konstruert og produsert i samsvar med nr. 1 slik atpersoner og husdyr blir forsvarlig beskyttet mot fare for fysisk skade eller andre skader som kan forårsakes av direkte eller indirekte berøring,det ikke kan oppstå temperaturer, lysbuer eller stråling som kan medføre fare,personer, husdyr og eiendom blir tilstrekkelig beskyttet mot farer av ikke-elektrisk art som erfaringsmessig skyldes det elektriske utstyret,utstyrets isolasjon er tilpasset de forhold som kan forutses.
+
+3\. *Beskyttelse mot farer som kan forårsakes av ytre påvirkninger på det elektriske utstyret*
 
 Det elektriske utstyret skal være konstruert og produsert i samsvar med nr. 1 slik at det elektriske utstyretoppfyller de forventede mekaniske kravene, slik at personer, husdyr og eiendom ikke utsettes for fare,kan motstå ikke-mekaniske påvirkninger under de miljømessige forhold utstyret forventes brukt, slik at personer, husdyr og eiendom ikke utsettes for fare,ikke utsetter personer, husdyr og eiendom for fare ved overbelastning og andre påregnelige feil.
 
@@ -279,6 +285,8 @@ Det elektriske utstyret skal være konstruert og produsert i samsvar med nr. 1 s
 5. Erklæringens gjenstand beskrevet over er i samsvar med relevante deler av EØS-regelverket:
 6. Henvisninger til de relevante harmoniserte standardene som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med:
 7. Tilleggsopplysninger:Undertegnet for og på vegne av:(sted og utstedelsesdato):(navn, stilling) (underskrift):
+
+1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 
 ## Vedlegg IV. Utforming av CE-merkingen
 

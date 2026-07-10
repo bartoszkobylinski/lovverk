@@ -26,9 +26,9 @@ eu_basis: []
 
 I [lov 17. desember 2004 nr. 99](lov/2004-12-17-99) om kvoteplikt og handel med kvoter for utslipp av klimagasser gjøres følgende endringer:
 
-Kongen kan på begjæring av forurensningsmyndighetene fatte vedtak om driftsforbud innenfor EØS dersom en luftfartøysoperatør overtrer bestemmelsene om innlevering av kvoter i § 13,2 om rapportering i § 163 eller om overvåkings- og rapporteringsplan fastsatt i forskrift i medhold av loven her.
+– – –
 
-Kongen kan i forskrift gi nærmere bestemmelser om vilkårene for å begjære driftsforbud og om krav til saksbehandlingen.
+Ny § 21 a skal lyde:
 
 ## II
 
@@ -37,3 +37,7 @@ Loven trer i kraft straks med følgende unntak:
 For luftfartsaktiviteter gjelder [§ 4](lov/2004-12-17-99/§4) fra 1. januar 2012 og § 131 første ledd fra 1. januar 2013.
 
 § 21 a2 gjelder fra den tid Kongen bestemmer.
+
+1 Inkurie: Ved [endringslov 25 mai 2012 nr. 29](lov/2012-05-25-29) er bestemmelsene i § 13 flyttet til § 12 og endret slik at luftfartsaktiviteter ikke lenger er nevnt særskilt. Det er dermed uklart om denne ikrafttredelsesbestemmelsen har noen mening.
+
+2 Inkurie: Ved [endringslov 25 mai 2012 nr. 29](lov/2012-05-25-29) er paragrafnummeret i klimakvoteloven endret fra § 21 a til § 20.

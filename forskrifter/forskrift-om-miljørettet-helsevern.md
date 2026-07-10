@@ -290,13 +290,19 @@ Bestemmelsene i [kapittel 2](forskrift/2003-04-25-486/kap2) retter seg mot kommu
 
 ### Til § 4 Kommunens ansvar og tilsyn
 
+*Kommunens ansvar*
+
 Bestemmelsen fastslår kommunens ansvar for å fremme folkehelse og bidra til å beskytte befolkningen mot faktorer i miljøet som kan ha negativ innvirkning på helsen. Bestemmelsen må ses i sammenheng med kommunens ansvar etter [folkehelseloven § 4](lov/2011-06-24-29/§4). Gjennom folkehelseloven har kommunen et bredt fundament for å bidra til en samfunnsutvikling som fremmer folkehelse og utjevner sosiale helseforskjeller. At miljørettet helsevern er i et eget kapittel innebærer ikke at tjenesten er avgrenset til virksomhetstilsyn framfor å bidra i tverrsektorielt folkehelsearbeid. Miljørettet helsevern er et viktig innsatsområde og virkemiddel i kommunens helhetlige folkehelsearbeid.
+
+*Tilsyn*
 
 Kommunen skal føre tilsyn med virksomhet og eiendom som omfattes av denne forskriften og deres etterlevelse av regelverket. Kommunen skal påse at virksomhet som skal føre internkontroll, fører denne kontrollen med sin egen virksomhet på en slik måte at regelverket etterleves. Det presiseres at kommunens tilsynsoppgave også omfatter kommunale virksomheter. Kravet om at kommunen skal prioritere sin tilsynsvirksomhet etter en vurdering av helserisiko innebærer at kommunens gjennomføring av tilsyn må ses helhetlig og baseres på helhetlige ROS-analyser.
 
 Kommunens tilsynsplikt innebærer blant annet at kommunen skal:ha oversikt over hvilke virksomheter dette dreier seg om,påse at virksomhetene er orientert om hvilke krav som er rettet mot dem,gjennomføre tilsyn med virksomheter etter fastsatt plan, ogfølge opp at virksomheten lukker sine avvik etter en fastsatt tid.
 
 Det følger av [folkehelseloven § 30](lov/2011-06-24-29/§30) at kommunen skal føre internkontroll for å sikre at de krav som er lagt til kommunen etter folkehelseloven med forskrifter overholdes. Etter [folkehelseloven § 30](lov/2011-06-24-29/§30) annet ledd skal kommunen dokumentere særskilt hvordan tilsynsoppgaven ivaretas. Kommunen fører innen miljørettet helsevern blant annet tilsyn med virksomheter som er kommunale. Det forsterkede dokumentasjonskravet innebærer at kommunen skal dokumentere blant annet hvem som skal ivareta oppgavene innen miljørettet helsevern, og at disse er gitt nødvendige forutsetninger for å kunne utføre oppgavene, herunder myndighet, kapasitet og kompetanse. Det er her særlig viktig å sikre at det kommunale tilsynsorganet er tilstrekkelig uavhengig i forhold til de kommunale virksomhetene som det føres tilsyn med.
+
+*Virkemidler*
 
 Når kommunen utøver sin myndighets- og tilsynsoppgave, enten ved planlagte tilsyn eller ved å behandle klager/henvendelser fra berørte, vil kommunen kunne benytte de virkemidler og påleggshjemler som ligger i [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3); oppfølging av meldeplikt/godkjenning etter [§ 10](lov/2011-06-24-29/§10), helsekonsekvensutredning etter [§ 11](lov/2011-06-24-29/§11), opplysningsplikt etter [§ 12](lov/2011-06-24-29/§12), gransking etter [§ 13](lov/2011-06-24-29/§13), retting etter [§ 14](lov/2011-06-24-29/§14) (eventuelt etterfulgt av vedtak om tvangsmulkt etter [§ 15](lov/2011-06-24-29/§15)) og stansing etter [§ 16](lov/2011-06-24-29/§16). De ulike lovbestemmelsene har vilkår som skal være oppfylt.
 
@@ -316,11 +322,19 @@ Selv om det påvises brudd på forskriften, har ikke kommunen noen ubetinget pli
 
 ### Til § 5 Kommunens helseberedskap ved miljøhendelser
 
+*Miljøhendelser*
+
 Miljøhendelser defineres vidt og inkluderer hele CBRNE-området, i tillegg til hendelser som er rent fysiske og ikke inkluderer farlige stoffer (for eksempel jordskred, flom eller andre naturkatastrofer som kan få betydning for befolkningens helse). Den internasjonale fellesbetegnelsen CBRNE-hendelse omfatter hendelser med kjemiske, biologiske, radioaktive eller nukleære stoffer eller eksplosiver. Miljøhendelser er altså hendelser med både biologiske, fysiske eller kjemiske stoffer eller ukjente miljøfaktorer. Fysiske faktorer omfatter også radiologiske og nukleære miljøfaktorer. Miljøhendelser er hendelser uavhengig av påvirkningsfaktor, og omfatter både ulykker, villede handlinger og andre situasjoner som kan utgjøre en helsetrussel. En miljøhendelse kan for eksempel være et utbrudd av sykdom eller enkelttilfeller av sykdom, kjemikaliehendelse, radioaktiv eller nukleær hendelse, eller annen miljøhendelse med ukjent opprinnelse.
+
+*Oversikt og beredskapsplaner*
 
 I samsvar med folkehelseloven skal kommunene ha oversikt over helsetilstanden i befolkningen og faktorer som kan påvirke denne. Forskriftens [§ 5](forskrift/2003-04-25-486/§5) presiserer kommunens ansvar for risiko- og sårbarhetsanalyse (ROS-analyse) av faktorer i miljøet som kan ha negativ innvirkning på helsen og beredskapsplanlegging for miljørettet helsevern. Bestemmelsen må ses i sammenheng med kommunens beredskapsplikt etter [helseberedskapsloven § 2-2](lov/2000-06-23-56/§2-2) og har til formål å bidra til en mer integrert helseberedskap i kommunene. ROS-analysene skal gi grunnlag for kommunens beredskapsplaner, og helseberedskapsplanene skal ses i sammenheng med kommunens øvrige beredskapsplaner. Helseberedskapsplanene bør inneholde tilstrekkelige vurderinger og planer for informasjon, opplæring og veiledning av ulike ansatte med ansvar ved en hendelse.
 
+*Kommunens tiltaksplikt*
+
 Bestemmelsen reflekterer kommunens tiltaksplikt ved en miljøhendelse eller mistanke om utbrudd av sykdom knyttet til helseskadelige miljøfaktorer. Kommunenes tiltaksplikt må ses i sammenheng med virkemidlene i [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3) om miljørettet helsevern og tiltaksplikten etter [folkehelseloven § 7](lov/2011-06-24-29/§7). Kommunens hjemler i [folkehelselovens kapittel 3](lov/2011-06-24-29/kap3) vil i mange tilfeller tilsvare de tiltakshjemlene som ligger i smittevernloven, for eksempel stenging av virksomheter.
+
+*Bistand fra relevant kompetansemiljø*
 
 Bestemmelsen i [§ 5](forskrift/2003-04-25-486/§5) andre ledd andre punktum gir kommunene plikt til å vurdere egen kompetanse og kapasitet til å håndtere situasjonen og beskytte befolkningen ved en miljøhendelse. Plikten gjelder både i beredskapsplanleggingen og i håndtering av en konkret hendelse. Kommunen skal spille på den kompetansen den selv besitter. Der kommunen vurderer egen kapasitet og kompetanse som utilstrekkelig skal kommunen innhente bistand fra Folkehelseinstituttet eller annet relevant kompetansemiljø. Kompetansemiljøene skal kun bidra med råd og veiledning (herunder råd om eksponeringsvurderinger, helserisiko, kartlegging og identifisering av smittekilder og råd om tiltak), prøvetaking og lignende. Det er fremdeles kommunen som skal håndtere hendelsen, og kommunen er ansvarlig for valg og gjennomføring av tiltak.
 
@@ -380,7 +394,11 @@ Ettersom forskriften dekker mange forskjellige virksomhetstyper, vil ikke alle k
 
 Kravene i forskriften er gitt som funksjonskrav, og det nærmere innholdet må søkes i faglige normer, retningslinjer og veiledere. Flere av miljøfaktorene er nærmere regulert i annet lovverk. Dette gjelder særlig forurensningsloven med forskrifter, det vises til merknadene til [§ 3](forskrift/2003-04-25-486/§3) om forholdet til annet regelverk. Sentrale helsemyndigheter skal ha oversikt og gjøre tilgjengelig hvilke normer som til enhver tid er gjeldende. For nærmere beskrivelse av de ulike funksjonskrav vises det til Veileder i miljørettet helsevern (IS-1104) som er utarbeidet av Helsedirektoratet.
 
+*Til bokstav a*
+
 [Forskrift 9. oktober 1974 nr. 2](forskrift/1974-10-09-2) om begrensning av støy – tillegg til helseforskriftene, Oslo kommune, er en lokal helseforskrift som gjelder for Oslo kommune. Støyforskriftene er kun rettslig bindende for Oslo kommune, men blir i dag benyttet i stor utstrekning også i andre kommuner. Styrken til Oslo kommunes støyforskrift er at den gjelder generelt og at den tar høyde for maksimalstøy, gjennomsnittsstøy og hvilket tidspunkt på døgnet støyen forekommer. Den vil kunne gi uttrykk for hvordan støyspørsmål kan håndteres også i andre kommuner.
+
+*Til bokstav c*
 
 Bestemmelsen omfatter både det å redusere risikoen for at ulykker skal skje og skadebegrensning dersom ulykke skjer.
 
@@ -392,15 +410,25 @@ Bestemmelsen erstattet i 2003 en rekke eldre forskrifter hvor det var stilt krav
 
 Også i forhold til denne bestemmelsen vil det være slik at annet regelverk inneholder krav til de samme forhold som bestemmelsen her, eksempelvis er det i forskrift om krav til byggverk og produkter til byggverk etter plan- og bygningsloven gitt regler om sikkerhet i bruk og innemiljø. Det vises til merknadene til forskriften § 3.
 
+*Til bokstav a*
+
 Begrepet inneklima/innemiljø kan inndeles i følgende fem miljøfaktorer: Det er termisk miljø, akustisk miljø, atmosfærisk miljø, strålemiljø og mekanisk miljø. Annen setning om lydforhold og belysning er ikke uttrykk for at disse inneklimafaktorene er viktigere for helsen enn andre inneklimafaktorer, men er mer tatt inn i informasjonsøyemed.
 
 Termisk miljø sikter til miljøfaktorer av betydning for kroppens varmebalanse. Akustisk miljø sikter til miljøfaktorer som har betydning for hørsel, lydoppfattelse og støypåkjenninger. Atmosfærisk miljø sikter til miljøfaktorer som har særlig har betydning for respirasjon og sykelighet i luftveier og plager knyttet til hud og slimhinner. Strålemiljø også kalt aktinisk miljø sikter til miljøfaktorer som har betydning for lysoppfattelse og påvirkning på kroppen fra ioniserende og ikke-ioniserende stråling. Mekaniske og ergonomiske forhold er miljøfaktorer av betydning for føle- og smertesans og bevegelsesapparatets funksjon (slitasjesykdommer etc.).
 
+*Til bokstav b*
+
 Forsvarlig renhold omfatter også forsvarlige avfallsrutiner.
+
+*Til bokstav c*
 
 Bestemmelsen omfatter også publikumstoaletter på serveringssteder mv.
 
+*Til bokstav d*
+
 Bestemmelsen vil først og fremst ha betydning for institusjoner, internater og lignende, for eksempel sykehus, sykehjem, boform for heldøgns omsorg og pleie, aldershjem, annen bolig med heldøgns omsorgstjenester, asylmottak, skoleinternat, barnevernsinstitusjon og fengsler.
+
+*Til bokstav e*
 
 Bestemmelsen omfatter både det å redusere risikoen for at ulykker skal skje og skadebegrensning dersom ulykker skjer.
 
@@ -436,9 +464,13 @@ Det finnes enkelte luftskrubbere som drives ved betingelser som gjør at det ikk
 
 ### Til § 11c Meldeplikt til kommunen og inspeksjonsordning
 
+*Meldeplikt til kommunen*
+
 Virksomheter med kjøletårn og luftskrubbere skal melde til kommunen for alternativ a og b. Meldingen bør inneholde kortfattet informasjon om virksomheten, innretningen, ansvarsforhold og aktuelle kontaktpersoner. Det skal også foreligge en kort redegjørelse for hvordan forskriftens krav om forebygging av *Legionella* blir ivaretatt. Forskriftsteksten presiserer at det skal sendes melding ved første gangs oppstart. For virksomheter som for eksempel har kjøletårn i bruk kun i sommerhalvåret, vil det ikke kreves at de sender ny melding ved oppstart hvert år. Det skal imidlertid sendes ny melding dersom det gjøres vesentlige utvidelser eller endringer.
 
 Badeanlegg og offentlig tilgjengelige boblebad har meldeplikt etter forskrift for badeanlegg, bassengbad og badstu mv.
+
+*Vurdering fra akkreditert inspeksjonsorgan*
 
 Virksomheter med kjøletårn og luftskrubbere skal også legge frem vurdering av innretningen fra akkreditert inspeksjonsorgan. Vurderingen skal legges frem i forbindelse med oppstart, vesentlige utvidelser eller endringer og deretter hvert femte år.
 

@@ -51,3 +51,5 @@ Materiale som ikke skal avleveres til Arkivverket, skal kasseres når utvalget h
 ## § 7. Ikrafttredelse og opphør
 
 Loven trer i kraft straks. [§§ 2](lov/2019-12-20-85/§2) og [4](lov/2019-12-20-85/§4) gjelder fram til utvalget har levert sin utredning.1
+
+1 Utvalget leverte utredningen 4. august 2020 iflg. [NOU 2020:9](forarbeid/nou-2020-9).

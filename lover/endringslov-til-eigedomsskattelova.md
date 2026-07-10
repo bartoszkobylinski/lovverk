@@ -26,6 +26,8 @@ eu_basis: []
 
 I [lov 6. juni 1975 nr 29](lov/1975-06-06-29) om eigedomsskatt til kommunane (eigedomsskattelova) gjøres følgende endringer: – – –
 
+Overgangsregel til [eigedomsskattelova §§ 3](lov/1975-06-06-29/§3) og 4:
+
 Kommunar som i skatteåret 2018 skreiv ut eigedomsskatt på verk og bruk kan frå og med skatteåret 2019 til og med skatteåret 2024 i staden for eller i tillegg til utskriving etter [§ 3](lov/1975-06-06-29/§3) skrive ut eigedomsskatt på eit særskilt fastsett grunnlag. Det særskilte grunnlaget skal baserast på differansen mellom eigedomsskattegrunnlaget i 2018 og 2019 som er forårsaka av at produksjonsutstyr og -installasjonar ikkje skal reknast med i grunnlaget. Dette særskilte grunnlaget skal i 2019 vere lik seks sjudelar av differansen, og reduserast med ein sjudel kvart påfølgjande år. Skattesatsen ved slik avtrappa utskriving kan ikkje vere høgare enn den som blei nytta for dei same eigedomane for skatteåret 2018.
 
 Kommunar som ikkje skriv ut eigedomsskatt på næringseigedom etter [§ 3](lov/1975-06-06-29/§3), men som i skatteåret 2018 skreiv ut eigedomsskatt på verk og bruk, kan i perioden nemnd i første ledd første punktum skrive ut eigedomsskatt på bygningar og grunnareal så langt desse var omfatta av eigedomsskattegrunnlaget for verk og bruk i skatteåret 2018.

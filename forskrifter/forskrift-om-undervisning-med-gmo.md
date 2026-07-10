@@ -66,20 +66,64 @@ Alt arbeid med DNA utenfor cellen og isolering av DNA fra organismer som på for
 
 Nedenfor gis det liste på bakterie-/gjærstammer og vektorer som kan anvendes i undervisningen. Dersom virksomheten omfatter andre vertsorganismer enn disse, skal det gjøres en risikovurdering etter skjema gitt i vedlegg III med veiledning i vedlegg IV i forskrift om innesluttet bruk av genmodifiserte mikroorganismer. Denne risikovurderingen skal vise at bruken av GMM i undervisning sannsynligvis ikke vil forårsake sykdom hos mennesker, dyr eller planter eller sannsynligvis ha skadelige virkninger for miljøet.
 
+E. coli K-12-stammer som kan anvendes:
+
 - DH5α, HB101, JM83, JM101, JM105, JM107, JM109, MC1000
 
 Gjærstammer som kan anvendes:S.cerevisiae M1-2BS.cerevisiae TD28
 
+Plasmider til transformasjon av bakterier:
+
 - M13mp18/19, pBluescript, pBR 322, pBR 325, pGEM3Z, pUC 18/19
+
+Plasmid til transformasjon av gjær:
 
 - YRp17
 
+Plasmider som kan anvendes både i bakterier og gjær:
+
 - pC508, YEp 24, pFN8-x-wt
+
+*Agrobacterium tumefasciens*-stammer som kan anvendes:
 
 - LBA 4404
 - EHA 101
+
+Plasmider til transformasjon av *Agrobacterium tumefasciens*:
 
 - pBIN 19
 - pBIN 6
 
 ## Vedlegg II. Melding om undervisningsvirksomhet ved innesluttet bruk av genmodifiserte mikroorganismer
+
+1\. Undervisningsinstitusjon
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Adresse: |  |
+| Generell beskrivelse: |  |
+| Tlf.: | Faks: |
+
+2\. Ansvarlig person for virksomheten, herunder kontroll og sikkerhet:
+
+|  |  |
+| --- | --- |
+| Navn: |  |
+| Kvalifikasjoner/utdannelse: |  |
+| E-post: | Tlf.: |
+
+3\. Hvilke genmodifiserte organismer som skal benyttes og hvilke forsøk som skal utføres:
+
+|  |  |
+| --- | --- |
+| Vertsorganisme: |  |
+| Vektor: |  |
+| Donororganisme/innsatt genmateriale: |  |
+| Forsøk: |  |
+
+4\. Sikkerhetstiltakene er i overensstemmelse med [§ 5](forskrift/2001-12-21-1601/§5).
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavende underskrift: |

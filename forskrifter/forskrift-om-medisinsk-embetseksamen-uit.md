@@ -30,6 +30,8 @@ Medisinsk eksamen består av de to første trinn til embetseksamen og skal norma
 
 Hvert trinn inndeles i avsnitt/semestre/kurs etter universitetstingets bestemmelser.
 
+1 Jf forskrift om examen philosophicum ved Universitetet i Tromsø av [19. februar 1987 nr. 130](forskrift/1987-02-19-130).
+
 ## § 2.
 
 Etter forslag fra Studiestyret for medisin fastsetter universitetstinget hvilke fag/fagkombinasjoner det skal avlegges eksamen i, oppmeldingsprosedyre, prøveformer og til hvilken tid eksamen skal være avlagt.

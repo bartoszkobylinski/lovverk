@@ -27,24 +27,44 @@ eu_basis: []
 
 ## Vedlegg:
 
+*Oslo statsadvokatembeter*
+
 - Oslo politidistrikt
 - Øst politidistrikt
 
+*Hedmark og Oppland statsadvokatembeter*
+
 - Innlandet politidistrikt
+
+*Agder statsadvokatembeter*
 
 - Agder politidistrikt
 
+*Vestfold, Telemark og Buskerud statsadvokatembeter*
+
 - Sør-Øst politidistrikt
+
+*Rogaland statsadvokatembeter*
 
 - Sør-Vest politidistrikt
 
+*Hordaland, Sogn og Fjordane statsadvokatembeter*
+
 - Vest politidistrikt
+
+*Møre og Romsdal statsadvokatembeter*
 
 - Møre og Romsdal politidistrikt
 
+*Trøndelag statsadvokatemebeter*
+
 - Trøndelag politidistrikt
 
+*Nordland statsadvokatembeter*
+
 - Nordland politidistrikt
+
+*Troms og Finnmark statsadvokatembeter*
 
 - Finnmark politidistrikt
 - Troms politidistrikt

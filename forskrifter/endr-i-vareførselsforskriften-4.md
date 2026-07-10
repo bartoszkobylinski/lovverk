@@ -24,7 +24,15 @@ eu_basis: []
 
 ## I
 
+I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
+
+[§ 2-2-1 første ledd](forskrift/2022-10-27-1901/§2-2-1/ledd/1) skal lyde:
+
 (1) Fører av fartøy skal sørge for at fartøyet går direkte til sted som er angitt i melding etter [§ 2-3-1](forskrift/2022-10-27-1901/§2-3-1), med mindre tollmyndighetene pålegger fører å gå til sted hvor tollmyndighetene er stasjonert.
+
+[§ 2-3-1 annet ledd](forskrift/2022-10-27-1901/§2-3-1/ledd/2) oppheves. Nåværende tredje og fjerde ledd blir nye annet og tredje ledd.
+
+[§ 2-3-2](forskrift/2022-10-27-1901/§2-3-2) skal lyde:
 
 (1) Melding om ankomst etter [§ 2-3-1 første ledd](forskrift/2022-10-27-1901/§2-3-1/ledd/1) skal inneholde opplysninger som er fastsatt i [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5) og andre opplysninger etter FAL-konvensjonen om:fartøylastvarer medbragt av besetningenproviant.Referanse til deklarasjon, jf. [vedlegg 5](forskrift/2022-10-27-1901/vedlegg5), skal leveres før eller senest ved ankomst til bestemmelsessted der varen skal losses.
 
@@ -46,7 +54,11 @@ eu_basis: []
 
 (10) Fører av forsyningsfartøy fra norsk del av kontinentalsokkelen er unntatt fra kravet til å overføre opplysninger om fartøy, besetning og proviant etter første ledd, dersom fartøyet ikke bringer med proviant som ikke har gått over til fri disponering.
 
+[§ 2-3-3 første ledd](forskrift/2022-10-27-1901/§2-3-3/ledd/1) nytt annet punktum skal lyde:
+
 Dette gjelder også fører av motorvogn som ankommer tollområdet med fartøy.
+
+[§ 2-5-1](forskrift/2022-10-27-1901/§2-5-1) skal lyde:
 
 Fører av fartøy med vare som ikke er tollbehandlet, skal ved videre transport i tollområdet levere melding etter [§ 2-3-1](forskrift/2022-10-27-1901/§2-3-1) med opplysningskrav som følger av [§ 2-3-2](forskrift/2022-10-27-1901/§2-3-2), unntatt referanse til deklarasjon. Referanse til deklarasjon skal leveres senest ved ankomst til bestemmelsessted hvor varen skal losses. Tillatelse til videre transport i tollområdet anses gitt når denne meldingen leveres.
 

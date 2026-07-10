@@ -28,6 +28,8 @@ Kommunen kan fastsette tvangsmulkt ved oversittelse av frist for å etterkomme p
 
 > Endret ved [forskrift 5 mars 2012 nr. 202](forskrift/2012-03-05-202).
 
+*Merknad til [§ 1](forskrift/1988-10-10-836/§1)*:
+
 *Bestemmelsen er i samsvar med [kommunehelsetjenestelovens § 4a-7](lov/1982-11-19-66/§4a-7) og fastslår at tvangsmulkt kan anvendes der det i medhold av samme lovs [§ 4a-6](lov/1982-11-19-66/§4a-6) er gitt pålegg, og hvor pålegget ikke er oppfylt innen fristens utløp.*
 
 ## § 2. Definisjoner
@@ -35,6 +37,8 @@ Kommunen kan fastsette tvangsmulkt ved oversittelse av frist for å etterkomme p
 *Tvangsmulkt:* er et tvangsmiddel som anvendes for å gjennomtvinge et krav som går ut på annet enn penger. Fastsetting av tvangsmulkt er en administrativ forføyning.
 
 *Pålegg:* er et påbud om eller et forbud mot å foreta en nærmere bestemt handling.
+
+*Merknad til [§ 2](forskrift/1988-10-10-836/§2)*:
 
 *Definisjonene er en generell rettslig definisjon av begrepene tvangsmulkt og pålegg. Viktig å merke seg er at fastsettelse av tvangsmulkt er en administrativ forføyning, og ikke en straff i strafferettslig forstand. Saksbehandlingen ved fastsettelse av tvangsmulkt skal således følge de vanlige forvaltningsmessige regler i forvaltningloven.*
 
@@ -48,6 +52,8 @@ Tvangsmulkt skal ikke anvendes i stedet for stansing av virksomhet når det fore
 
 > Endret ved [forskrift 5 mars 2012 nr. 202](forskrift/2012-03-05-202).
 
+*Merknad til [§ 3](forskrift/1988-10-10-836/§3)*:
+
 *Forutsetningen for at det skal kunne bli aktuelt å fastsette en tvangsmulkt er at det er blitt gitt pålegg om å rette et forhold ved eiendom eller virksomhet i medhold av § 4a-6 i [kommunehelsetjenesteloven.](lov/1982-11-19-66/§4a-6) Tvangsmulkt i medhold av denne lov kommer altså ikke til anvendelse for et pålegg gitt med hjemmel i annen lov. Som hovedregel kan tvangsmulkt bare fastsettes der en frist for oppfylling av pålegg allerede er oversittet. Tvangsmulkt fastsettes da i forbindelsen med at det settes en ny frist for oppfylling av pålegget. Tvangsmulkt vil således først begynne å løpe når den andre fristen er oversittet. Det understrekes at det må utvises stor varsomhet ved bruk av den reaksjonsform tvangsmulkt representerer. Tvangsmulkt skal kun fastsettes der det anses nødvendig for at pålegget skal bli oppfylt innen rimelig tid. Hva som skal anses som rimelig tid må vurderes ut fra det arbeid og de kostnader det vil medføre å oppfylle pålegget. Det må også tas hensyn til i hvilken grad forholdet som er pålagt retten har negativ innvirkning på helsen. Har adressaten for pålegget gitt uttrykk for at pålegget ikke vil bli oppfylt, vil det være naturlig å fastsette en tvangsmulkt. Tvangsmulkt bør dog ikke fastsettes ved helt bagatelmessige saker.*
 
 *Foreligger det helt spesielle forhold kan helse- og sosialstyret bestemme at tvangsmulkt skal fastsettes samtidig med at pålegget gis. Tvangsmulkten vil da begynne å løpe allerede idet den første fristen oversittes. Forutsetningen for at tvangsmulkt skal kunne fastsettes samtidig med at pålegg gis, er at det er særlig nødvendig at fristen overholdes. Dette vil bl.a. være tilfellet der man har en begrunnet frykt for at de forhold som er pålagt rettet vil kunne medføre en overhengende fare for helseskade dersom de ikke rettes innen fristens utløp.*
@@ -57,6 +63,8 @@ Tvangsmulkt skal ikke anvendes i stedet for stansing av virksomhet når det fore
 ## § 4. Gjentatt tvangsmulkt
 
 Dersom et pålegg ikke blir etterkommet innen fristens utløp til tross for at det er fastsatt tvangsmulkt for oversittelse av fristen, kan ny tvangsmulkt fastsettes i forbindelse med fastsettelse av ny frist. Det skal i denne forbindelse vurderes hvorvidt tvangsmulkten bør forhøyes.
+
+*Merknad til [§ 4](forskrift/1988-10-10-836/§4)*:
 
 *I de tilfeller hvor den som pålegget er rettet til, har unnlatt å oppfylle pålegget til tross for at tvangsmulkt er fastsatt, skal helse- og sosialstyret fastsette en ny frist for å oppfylle pålegget. Det bør i denne sammenheng vurderes hvorvidt det er nødvendig å fastsette ny tvangsmulkt for eventuell oversittelse av den nye frist. Ny tvangsmulkt skal ikke fastsettes med mindre man anser det nødvendig for at den nye fristen skal overholdes. Helse- og sosialstyret må således vurdere saken på samme måte som ved første gang fastsettelse av tvangsmulkt. Fastsettes ny tvangsmulkt bør det vurderes om den bør forhøyes. Ved denne vurdering bør det tas hensyn til om unnlatelse av å oppfylle pålegget innen fristen skyldes manglende vilje eller manglende evne. Skyldes unnlatelsen manglende even vil en forhøyelse av tvangsmulkten neppe ha noen positiv effekt. Dersom tvangsmulkt etter [§ 3](forskrift/1988-10-10-836/§3) har form av løpende dagmulkt, vil det ha lite hensikt å fastsette ny løpende dagmulkt etter [§ 4](forskrift/1988-10-10-836/§4), dersom denne ikke bør forhøyes. Løpende dagmulkt løper jo inntil pålegget er oppfylt. Se merknad til [§ 5](forskrift/1988-10-10-836/§5).*
 
@@ -70,6 +78,8 @@ For øvrig skal det brukes løpende dagmulkt.
 
 Gjentatt tvangsmulkt, jfr. [§ 4](forskrift/1988-10-10-836/§4), fastsettes normalt som løpende dagmulkt.
 
+*Merknad til [§ 5](forskrift/1988-10-10-836/§5)*:
+
 *Hovedregelen er at tvangsmulkten fastsettes som en løpende dagmulkt. Mulkten løper såvel på virkedager som på fridager. Mulkten løper inntil pålegget er oppfylt. Engangsmulkt kan brukes dersom det er særlig påkrevd at pålegget oppfylles innen fristens utløp. Det vil således ofte være naturlig med engangsmulkt der tvangsmulkt fastsettes samtidig med at pålegg gis, jfr. [§ 3](forskrift/1988-10-10-836/§3), 2. ledd.*
 
 *Ved gjentatt tvangsmulkt vil det naturlige være at det fastsettes løpende dagmulkt. Det kan imidlertid også her foreligge forhold som tilsier at det fastsettes engangsmulkt. Vurderingen vil bli den samme som når engangsmulkt fastsettes første gang.*
@@ -77,6 +87,8 @@ Gjentatt tvangsmulkt, jfr. [§ 4](forskrift/1988-10-10-836/§4), fastsettes norm
 ## § 6. Fastsettelse av tvangsmulktens størrelse
 
 Tvangsmulkt utmåles i forhold til kostnadene ved å gjennomføre det pålegg som er gitt, og settes minst så høyt at det blir ulønnsomt å oversitte fristen.
+
+*Merknad til [§ 6](forskrift/1988-10-10-836/§6)*:
 
 *En tvangsmulkt skal være så stor at den er effektiv uten å være urimelig. For å oppnå dette bør helse- og sosialstyret ved vurderingen av tvangsmulktens størrelse ta hensyn til hvor viktig det er at det påtalte forhold rettes og hvor store kostnader det må antas å medføre.*
 
@@ -92,6 +104,8 @@ Løpende dagmulkt forfaller til betaling i daglige terminer fra og med første v
 
 Blir en klage over pålegg eller over at tvangsmulkt er fastsatt gitt oppsettende virkning, påløper ingen tvangsmulkt før klagen er avgjort.
 
+*Merknad til [§ 7](forskrift/1988-10-10-836/§7)*:
+
 *Tvangsmulkten forfaller til betaling første virkedag etter fristens utløp. Løpende dagmulkt forfaller i daglige terminer.*
 
 *Gis en klage over pålegg om retting eller over at tvangsmulkt er fastsatt oppsettende virkning etter [forvaltningslovens § 42](lov/1967-02-10/§42), påløper ingen tvangsmulkt før klagen er blitt endelig avgjort.*
@@ -104,6 +118,8 @@ Fastsetting av tvangsmulkt er et forvaltningsvedtak som kan påklages til overor
 
 > Endret ved [forskrifter 1 sep 2003 nr. 1111](forskrift/2003-09-01-1111), [17 sep 2021 nr. 2821](forskrift/2021-09-17-2821).
 
+*Merknad til [§ 8](forskrift/1988-10-10-836/§8)*:
+
 *Fastsetting av tvangsmulkt er et enkeltvedtak og kan påklages etter forvaltningslovens bestemmelser til statsforvalteren. Det kan klages over at det er fastsatt tvangsmulkt og/eller tvangsmulktens størrelse.*
 
 ## § 9. Inndriving av tvangsmulkt
@@ -115,6 +131,8 @@ Tvangsmulkten tilfaller statskassen.
 Det skal sendes påkrav om løpende dagmulkt med regelmessige mellomrom, som ikke i noe tilfelle skal overstige 8 uker.
 
 > Endret ved [forskrift 5 mars 2012 nr. 202](forskrift/2012-03-05-202).
+
+*Merknad til [§ 9](forskrift/1988-10-10-836/§9)*:
 
 *Helse- og sosialstyret har ansvaret for at det blir sendt påkrav om forfalt tvangsmulkt. Blir tvangsmulkten ikke betalt skal namsmyndigheten foreta inndrivelsen. Tvangsmulkten inndrives ved utpanting og følger reglene i tvangsfullbyrdelseloven. Dersom løpende tvangsmulkt ikke blir betalt med forfall, jfr. [§ 7](forskrift/1988-10-10-836/§7), bør påkrav sendes med regelmessige mellomrom. Mellomrommene bør i utgangspunkt være på 2 til 4 uker og skal ikke overskride 8 uker.*
 

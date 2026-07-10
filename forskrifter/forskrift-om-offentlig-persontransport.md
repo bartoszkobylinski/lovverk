@@ -53,3 +53,7 @@ Denne forskrift trer i kraft 1. januar 2011.
 Samtidig oppheves § 1 nr. 4 og 7 i [forskrift 11. august 1995 nr. 716](forskrift/1995-08-11-716) om gjennomføring av fellesregler om innenlands transport i EØS-avtalen.
 
 ## Forordninger
+
+For å lese engelsk versjon av forordning [(EF) nr. 1370/2007](eu/32007r1370) se her: [(pdf)](static/SF/32007r1370e.pdf)
+
+For å lese norsk oversettelse av forordning [(EF) nr. 1370/2007](eu/32007r1370) se her: [(pdf)](static/SF/32007r1370.pdf)

@@ -22,6 +22,10 @@ eu_basis: []
 
 # Forskrift om utforming av store flyplasser (BSL E 3-2)
 
+Vedlegg 1 til 5 gjelder som forskrift.
+
+*(Bestemmelser som er merket med asterisk (\*) har veiledende materiale)*
+
 ## Kapittel 1. Innledende bestemmelser
 
 ### § 1-1. Formål
@@ -50,9 +54,73 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 ### § 1-4. Definisjoner
 
+*AIP: (aeronautical information publication):* Håndbok som inneholder opplysninger av varig art av betydning for gjennomføring av flyging, og som er utgitt av en stat eller etter fullmakt av en stat.
+
+*Baneskulder:* Område som tilslutter rullebanen symmetrisk på begge sider, og som har nærmere angitt fasthet og bæreevne.
+
+*Data:* Fakta, utkast eller instruksjoner som kan formidles, tolkes eller behandles av mennesker eller maskiner.
+
+*Flyplass:* Ethvert område på land, vann, bygning, skip eller annen fast eller flyttbar innretning der luftfartøy foretar start, landing, taksing eller er oppstilt.
+
+*Flyplassdata:* Data som flyplassoperatøren i henhold til forskrift om flyplassens utforming skal gjøre kjent for flyplassens brukere.
+
+*Geoideundulasjon:* Distansen geoiden har over eller under den matematiske referanseelipsoiden.
+
+*IFR (Instrument Flight Rules):* Betegnelse for instrumentflygereglene.
+
+*IFR-flyging:* Flyging utført i samsvar med instrumentflygereglene.
+
+*IFR-forhold (instrument meteorological conditions):* Værforhold, uttrykt i sikt, avstand fra skyer og skydekkehøyde, som er dårligere enn minstekravene til VFR-forhold.
+
+*Ikke-instrumentrullebane:* Rullebane som kun er ment for luftfartøy som benytter prosedyrer for landing ved hjelp av visuelle hjelpemidler.
+
+*Ikke-presisjonsrullebane:* Typebetegnelse på instrumentrullebane som ikke er presisjonsrullebane.
+
+*Instrumentrullebane:* Rullebane ment for luftfartøy som benytter prosedyrer for landing ved hjelp av instrumenter. Se også ikke-presisjonsrullebane og presisjonsrullebane.
+
+*Integritet:* Graden av sikring av at data ikke er forstyrret, forvrengt eller ødelagt fra opprinnelse til kunngjøring for bruk.
+
+*Kjøretøy:* Innretning som er bestemt til å kjøres på bakken uten skinner.
+
+*Luftfartøy:* Ethvert apparat som kan holdes oppe i atmosfæren ved reaksjoner fra luften, dog ikke ved reaksjoner av luft mot jordoverflaten.
+
+*Manøvreringsområde:* Den del av landingsplass, unntatt oppstillingsplattformer, som brukes av luftfartøyer ved avgang, landing og under taksing.
+
+*Nøyaktighet:* Graden av konformitet mellom en anslått eller målt verdi og den virkelige verdi.
+
+*Oppstillingsplass (aircraft stand):* Et nærmere bestemt område på en oppstillingsplattform avsatt til oppstilling av luftfartøy.
+
+*Oppstillingsplattform (apron):* Et nærmere bestemt område på en flyplass på land, avsatt til bruk for luftfartøyer som tar om bord eller setter av passasjerer, laster eller losser, fyller brennstoff, er parkert eller som det foretas vedlikeholdsarbeider på.
+
+*Presisjonsrullebane:* Rullebane som enten minst har utstyr for kategori 1-operasjoner eller annet utstyr som gir minst samme nøyaktighet som kategori 1-operasjoner. Rullebanen skal i tillegg ha visuelt glidebaneanlegg og merket siktepunkt.
+
+*Rullebane:* Et avgrenset, rektangulært område på en flyplass på land innrettet for start og landing med luftfartøyer.
+
+*Rullebanesikt:* Den distanse innenfor hvilken en flyger i et luftfartøy på rullebanens senterlinje kan se oppmerkinger eller lys som viser banens begrensninger eller markerer dens senterlinje.
+
+*Siktepunkt:* Merket [punkt](forskrift/2006-07-06-968/kapi) innenfor rullebanens landingssone, som luftfartøy kan sikte etter for landing.
+
+*Syklisk redundanskontroll:* En matematisk algoritme brukt på digitale data som sikrer dataene mot forstyrrelse, forvrengning eller ødeleggelse.
+
+*Taksebane:* En avgrenset vei eller rute på en flyplass på land opprettet til bruk for taksende luftfartøyer i den hensikt å virke som en forbindelse mellom deler av flyplassen, herunder:
+
 1. de deler av en oppstillingsplattform som er fastsatt som taksebane for å gi atkomst til luftfartøyers parkeringsplasser,
 2. de deler av et taksebanesystem på en oppstillingsplattform som gir luftfartøyer en gjennomgående takserute over oppstillingsplattformen,
 3. spesielt utformede taksebaner som er forbundet med en rullebane i en spiss vinkel for å gi landende luftfartøyer avkjøringsmuligheter ved større hastigheter enn taksebaner for avkjøring normalt gjør, og for derved å begrense den tid fartøyet legger beslag på rullebanen.
+
+*Terskel:* Begynnelsen av den del av rullebanen som er brukbar for landing.
+
+*Venteposisjon:* Et nærmere angitt sted, med hensikt å beskytte en rullebane, en hinderflate eller kritisk/følsomt område for navigasjonshjelpemidler, hvor taksende luftfartøy og kjøretøy skal stoppe og vente dersom andre klareringer/instruksjoner ikke er gitt av kontrolltårnet.
+
+*Ventefelt:* Et nærmere angitt sted, med hensikt å beskytte en rullebane, en hinderflate eller kritisk/følsomt område for navigasjonshjelpemidler, hvor flere taksende luftfartøy og kjøretøy skal stoppe ved siden av hverandre og vente dersom andre klareringer/instruksjoner ikke er gitt av kontrolltårnet.
+
+*VFR (Visual Flight Rules):* Betegnelse for visuelle flygeregler.
+
+*VFR-flyging:* Flyging utført i samsvar med de visuelle flygeregler.
+
+*VFR-forhold:* Værforhold uttrykt i sikt, avstand fra skyer og skydekkehøyde, som er lik eller bedre enn angitte minstekrav fastsatt i [forskrift 23. september 2014 nr. 1242](forskrift/2014-09-23-1242) om lufttrafikkregler og operative prosedyrer og forordning [(EU) nr. 923/2012](eu/32012r0923) SERA.5001.
+
+*Visuelt glidebaneanlegg:* Et lyssystem som (ved hjelp av røde og hvite lyssektorer) gir flygeren visuell indikasjon av glidebanen under innflyging før landing.
 
 > Endret ved [forskrift 23 sep 2014 nr. 1242](forskrift/2014-09-23-1242) (i kraft 13 nov 2014).
 
@@ -60,7 +128,18 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 (1) For hver av flyplassens rullebaner skal det fastsettes en kode bestående av et kodetall og en kodebokstav i henhold til tabellen i annet ledd. Fastsettelse av kodetallet skal skje på bakgrunn av rullebanelengden, jf. [§ 2-1](forskrift/2006-07-06-968/§2-1).
 
-(2) For hver av flyplassens taksebaner og oppstillingsplasser skal det fastsettes en kode bestående av en kodebokstav i henhold til tabellen nedenfor.*Kodetall**Rullebanelengde**Kodebokstav**Vingespenn**Avstand mellom ytterside hovedhjul*1Inntil 800 mAInntil 15 mInntil 4,5 m2800 m inntil 1200 mB15 m inntil 24 m4,5 m inntil 6 m31200 m inntil 1800 mC24 m inntil 36 m6 m inntil 9 m41800 m og overD36 m inntil 52 m9 m inntil 14 mE52 m inntil 65 m9 m inntil 14 mF65 m inntil 80 m14 m inntil 16 mTabellen ovenfor skal leses slik at inntil ikke betyr inklusive.
+(2) For hver av flyplassens taksebaner og oppstillingsplasser skal det fastsettes en kode bestående av en kodebokstav i henhold til tabellen nedenfor.
+
+| *Kodetall* | *Rullebanelengde* | *Kodebokstav* | *Vingespenn* | *Avstand mellom ytterside hovedhjul* |
+| --- | --- | --- | --- | --- |
+| 1 | Inntil 800 m | A | Inntil 15 m | Inntil 4,5 m |
+| 2 | 800 m inntil 1200 m | B | 15 m inntil 24 m | 4,5 m inntil 6 m |
+| 3 | 1200 m inntil 1800 m | C | 24 m inntil 36 m | 6 m inntil 9 m |
+| 4 | 1800 m og over | D | 36 m inntil 52 m | 9 m inntil 14 m |
+|  |  | E | 52 m inntil 65 m | 9 m inntil 14 m |
+|  |  | F | 65 m inntil 80 m | 14 m inntil 16 m |
+
+Tabellen ovenfor skal leses slik at inntil ikke betyr inklusive.
 
 (3) For hver rullebane som skal brukes for landing skal det også fastsettes hvilken av følgende typer innflygingssystem rullebanen skal kunne ha:Ikke-instrumentrullebaneIkke-presisjonsrullebanePresisjonsrullebane.
 
@@ -70,32 +149,66 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 ### § 2-1. Rullebanens lengde
 
-*(1) For hver rullebane (baneretning) skal følgende banelengder fastsettes:Tilgjengelig startrulledistanse (TORA)Tilgjengelig startdistanse (TODA)Tilgjengelig akselerasjons-stopp distanse (ASDA)Tilgjengelig landingsdistanse (LDA).
+\*(1) For hver rullebane (baneretning) skal følgende banelengder fastsettes:Tilgjengelig startrulledistanse (TORA)Tilgjengelig startdistanse (TODA)Tilgjengelig akselerasjons-stopp distanse (ASDA)Tilgjengelig landingsdistanse (LDA).
 
 (2) Med rullebanes lengde skal i denne forskrift forstås den lengste av distansene tilgjengelig startrulledistanse (TORA), tilgjengelig akselerasjons- og stoppdistanse (ASDA) og tilgjengelig landingsdistanse (LDA).
 
 ### § 2-2. Rullebanens bredde
 
-(1) En rullebane skal minst ha bredde i henhold til nedenstående tabell.*Kodebokstav
-Kodetall**A**B**C**D**E**F*118 m18 m23 m–––223 m23 m30 m–––330 m30 m30 m45 m––4––45 m45 m45 m60 m
+(1) En rullebane skal minst ha bredde i henhold til nedenstående tabell.
+
+| *Kodebokstav<br>Kodetall* | *A* | *B* | *C* | *D* | *E* | *F* |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 18 m | 18 m | 23 m | – | – | – |
+| 2 | 23 m | 23 m | 30 m | – | – | – |
+| 3 | 30 m | 30 m | 30 m | 45 m | – | – |
+| 4 | – | – | 45 m | 45 m | 45 m | 60 m |
 
 (2) En presisjonsrullebane skal minst ha bredde 30 m.
 
 ### § 2-3. Avstand mellom parallelle rullebaner
 
-(1) Dersom parallelle ikke-instrumentrullebaner skal brukes for samtidige innflyginger, landinger, start og utflyginger, skal avstanden mellom rullebanenes senterlinjer minst være følgende:*Kodetall**Minsteavstand*1120 m2150 m3 og 4210 m
+(1) Dersom parallelle ikke-instrumentrullebaner skal brukes for samtidige innflyginger, landinger, start og utflyginger, skal avstanden mellom rullebanenes senterlinjer minst være følgende:
+
+| *Kodetall* | *Minsteavstand* |
+| --- | --- |
+| 1 | 120 m |
+| 2 | 150 m |
+| 3 og 4 | 210 m |
 
 (2) Dersom parallelle rullebaner, hvorav minst en er instrumentrullebane, skal brukes for samtidige innflyginger, landinger, start og utflyginger, skal avstanden mellom rullebanenes senterlinjer fastsettes av Luftfartstilsynet i hvert enkelt tilfelle.
 
 ### § 2-4. Rullebanens lengdehelning
 
-(1) Den lengdehelning som fremkommer ved å dividere forskjellen mellom høyeste og laveste punkt på rullebanen med rullebanelengden, skal ikke overstige følgende verdier:*Kodetall**Største gjennomsnittshelning*1 og 22%3 og 41%
+(1) Den lengdehelning som fremkommer ved å dividere forskjellen mellom høyeste og laveste punkt på rullebanen med rullebanelengden, skal ikke overstige følgende verdier:
 
-(2) Ingen del av en rullebane skal ha lokal helning som overstiger følgende verdier:*Kodetall**Største lokale helning*1 og 22%31,5%unntatt for første og siste fjerdedel der den ikke skal overstige 0,8% dersom den skal være presisjonsrullebane i kategori II eller III.41,25%unntatt for første og siste fjerdedel der den ikke skal overstige 0,8%.
+| *Kodetall* | *Største gjennomsnittshelning* |
+| --- | --- |
+| 1 og 2 | 2% |
+| 3 og 4 | 1% |
 
-(3) Forskjellen i helning mellom to påfølgende lokale helninger skal ikke overstige følgende verdier:*Kodetall**Største forskjell mellom lokale helninger*1 og 22%3 og 41,5%
+(2) Ingen del av en rullebane skal ha lokal helning som overstiger følgende verdier:
 
-(4) Overgangen fra en lengdehelning til en annen skal være en kurve der helningsendringen ikke overstiger følgende verdier:*Kodetall**Største lokale helningsendring**Tilsvarende minste kurveradius*1 og 20,4% pr. 30 m7.500 m30,2% pr. 30 m15.000 m40,1% pr. 30 m30.000 m
+| *Kodetall* | *Største lokale helning* |  |
+| --- | --- | --- |
+| 1 og 2 | 2% |  |
+| 3 | 1,5% | unntatt for første og siste fjerdedel der den ikke skal overstige 0,8% dersom den skal være presisjonsrullebane i kategori II eller III. |
+| 4 | 1,25% | unntatt for første og siste fjerdedel der den ikke skal overstige 0,8%. |
+
+(3) Forskjellen i helning mellom to påfølgende lokale helninger skal ikke overstige følgende verdier:
+
+| *Kodetall* | *Største forskjell mellom lokale helninger* |
+| --- | --- |
+| 1 og 2 | 2% |
+| 3 og 4 | 1,5% |
+
+(4) Overgangen fra en lengdehelning til en annen skal være en kurve der helningsendringen ikke overstiger følgende verdier:
+
+| *Kodetall* | *Største lokale helningsendring* | *Tilsvarende minste kurveradius* |
+| --- | --- | --- |
+| 1 og 2 | 0,4% pr. 30 m | 7.500 m |
+| 3 | 0,2% pr. 30 m | 15.000 m |
+| 4 | 0,1% pr. 30 m | 30.000 m |
 
 (5) En rullebanes variasjon i lengdehelninger skal ikke være større enn at det kan dras en ubrutt siktelinje i henhold til følgende krav:*Rullebaner som skal ha kodebokstav C, D, E eller F:*Fra et hvilket som helst punkt 3 m over rullebanen til alle andre punkter som ligger 3 m over banen innenfor en avstand av minst halve rullebanelengden.*Rullebaner som skal ha kodebokstav B:*Fra hvilket som helst punkt 2 m over rullebanen til alle andre punkt som ligger 2 m over banen innenfor en avstand av minst halve rullebanelengden.*Rullebaner som skal ha kodebokstav A:*Fra hvilket som helst [punkt](forskrift/2006-07-06-968/kap1) 1,5 m over rullebanen til alle andre punkt som ligger 1,5 m over banen innenfor en avstand av minst halve rullebanelengden.
 
@@ -105,7 +218,12 @@ Kodetall**A**B**C**D**E**F*118 m18 m23 m–––223 m23 m30 m–––330 m30 m
 
 (1) En rullebane skal ha tilstrekkelig tverrhelning til å sikre god vannavrenning. Tverrhelningen skal være symmetrisk om senterlinjen dersom ikke vindforholdene tilsier annen tverrhelning.
 
-(2) En rullebanes tverrhelning skal ikke være mindre enn 1%, og skal normalt ikke overstige følgende verdier:*Kodebokstav**Største tverrhelning*A og B2%C, D, E og F1,5%
+(2) En rullebanes tverrhelning skal ikke være mindre enn 1%, og skal normalt ikke overstige følgende verdier:
+
+| *Kodebokstav* | *Største tverrhelning* |
+| --- | --- |
+| A og B | 2% |
+| C, D, E og F | 1,5% |
 
 ### § 2-6. Rullebanens bæreevne og overflate
 
@@ -127,7 +245,12 @@ Kodetall**A**B**C**D**E**F*118 m18 m23 m–––223 m23 m30 m–––330 m30 m
 
 ### § 2-8. Baneskuldres bredde
 
-Baneskuldre skal strekke seg symmetrisk på begge sider av rullebanen slik at den samlede bredde av rullebane og skuldre ikke er mindre enn:*Kodebokstav**Samlet bredde av rullebane og skuldre*D, E60 mF75 m
+Baneskuldre skal strekke seg symmetrisk på begge sider av rullebanen slik at den samlede bredde av rullebane og skuldre ikke er mindre enn:
+
+| *Kodebokstav* | *Samlet bredde av rullebane og skuldre* |
+| --- | --- |
+| D, E | 60 m |
+| F | 75 m |
 
 ### § 2-9. Baneskuldres helning
 
@@ -141,11 +264,23 @@ Baneskuldre skal ha slik jevnhet og bæreevne at risikoen for strukturelle skade
 
 (1) Dersom det ikke leder en taksebane inn på rullebanen der startrulledistansen begynner, skal det etableres en snuplass som gjør det mulig for det største luftfartøy som bruker rullebanen å gjøre en 180° sving.
 
-*(2) En snuplass kan plasseres enten på høyre eller venstre side av rullebanen, og påkjøringsvinkelen til rullebanen skal ikke være større enn 30°.
+\*(2) En snuplass kan plasseres enten på høyre eller venstre side av rullebanen, og påkjøringsvinkelen til rullebanen skal ikke være større enn 30°.
 
 ### § 2-12. Utforming av snuplass
 
-(1) En snuplass skal utformes slik at avstanden mellom et hvilket som helst av luftfartøyets hjul og kanten av snuplassen ikke blir mindre enn følgende minsteavstander:*Kodebokstav**Minsteavstand*A1,5 mB2,25 mC3 mdersom snuplassen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m.4,5 mdersom snuplassen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer.D4,5 mE6 mF6 m
+(1) En snuplass skal utformes slik at avstanden mellom et hvilket som helst av luftfartøyets hjul og kanten av snuplassen ikke blir mindre enn følgende minsteavstander:
+
+| *Kodebokstav* | *Minsteavstand* |  |
+| --- | --- | --- |
+| A | 1,5 m |  |
+| B | 2,25 m |  |
+| C | 3 m | dersom snuplassen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m. |
+|  | 4,5 m | dersom snuplassen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer. |
+| D | 4,5 m |  |
+| E | 6 m |  |
+| F | 6 m |  |
+|  |  |  |
+|  |  |  |
 
 (2) Både lengdehelning og tverrhelning på en snuplass skal være tilstrekkelig til å sikre god vannavrenning, og helningene skal være de samme som på rullebanen den er tilknyttet.
 
@@ -165,13 +300,30 @@ En rullebane og eventuell stoppbane skal omsluttes symmetrisk av et sikkerhetsom
 
 ### § 3-2. Sikkerhetsområdets lengde og bredde
 
-(1) Et sikkerhetsområde skal strekke seg minst følgende lengde etter rullebaneenden eller enden av en eventuell stoppbane:*Kodetall**Lengde etter rullebaneenden eller enden av eventuell stoppbane*1 og 2180 m3 og 4300 mPå en presisjonsrullebane skal sikkerhetsområdet begynne minst 60 m foran terskelen.På øvrige rullebaner skal sikkerhetsområdet begynne minst følgende lengde foran terskelen:*Kodetall**Lengde foran terskelen*1 og 2180 m3 og 4300 m
+(1) Et sikkerhetsområde skal strekke seg minst følgende lengde etter rullebaneenden eller enden av en eventuell stoppbane:
 
-(2) Et sikkerhetsområde skal strekke seg ut til minst følgende bredde på hver side av rullebanens senterlinje og forlengede senterlinje:*Kodetall**Avstand fra senterlinjen*1 og 275 m3 og 4150 m
+| *Kodetall* | *Lengde etter rullebaneenden eller enden av eventuell stoppbane* |
+| --- | --- |
+| 1 og 2 | 180 m |
+| 3 og 4 | 300 m |
+
+På en presisjonsrullebane skal sikkerhetsområdet begynne minst 60 m foran terskelen.På øvrige rullebaner skal sikkerhetsområdet begynne minst følgende lengde foran terskelen:*Kodetall**Lengde foran terskelen*1 og 2180 m3 og 4300 m
+
+(2) Et sikkerhetsområde skal strekke seg ut til minst følgende bredde på hver side av rullebanens senterlinje og forlengede senterlinje:
+
+| *Kodetall* | *Avstand fra senterlinjen* |
+| --- | --- |
+| 1 og 2 | 75 m |
+| 3 og 4 | 150 m |
 
 ### § 3-3. Sikkerhetsområdets jevnhet og bæreevne
 
-(1) Et sikkerhetsområde skal være planert i full lengde og ut til minst følgende bredde på hver side av rullebanens senterlinje og forlengede senterlinje:*Kodetall**Avstand fra senterlinjen*1 og 240 m3 og 475 m
+(1) Et sikkerhetsområde skal være planert i full lengde og ut til minst følgende bredde på hver side av rullebanens senterlinje og forlengede senterlinje:
+
+| *Kodetall* | *Avstand fra senterlinjen* |
+| --- | --- |
+| 1 og 2 | 40 m |
+| 3 og 4 | 75 m |
 
 (2) Sikkerhetsområdet skal være utformet slik at det i størst mulig grad reduserer faren for personskader. Sikkerhetsområdets planerte del skal derfor ha slik jevnhet og bæreevne samt være så fri for hindringer at risikoen for skader på luftfartøy som lander før terskelen, ruller forbi baneenden eller stoppbaneenden eller ut for sidene på rullebanen, reduseres til et minimum, og sikkerhetsområdets ikke planerte del skal være så fri for hindringer at det ikke representerer fare for luftfartøy som foretar en utilsiktet overflyging i lav høyde. Overflaten skal dessuten være slik at tilstrekkelig bremsevirkning opprettholdes.
 
@@ -181,7 +333,13 @@ En rullebane og eventuell stoppbane skal omsluttes symmetrisk av et sikkerhetsom
 
 ### § 3-4. Sikkerhetsområdets lengdehelning
 
-(1) Den planerte del av et sikkerhetsområde skal primært følge rullebanens helning, og lengdehelningen mellom terskelen og baneenden, eller enden av eventuell stoppbane, skal ikke overstige følgende verdier:*Kodetall**Største lengdehelning*1 og 22%31,75%41,5%
+(1) Den planerte del av et sikkerhetsområde skal primært følge rullebanens helning, og lengdehelningen mellom terskelen og baneenden, eller enden av eventuell stoppbane, skal ikke overstige følgende verdier:
+
+| *Kodetall* | *Største lengdehelning* |
+| --- | --- |
+| 1 og 2 | 2% |
+| 3 | 1,75% |
+| 4 | 1,5% |
 
 (2) Endringer i sikkerhetsområdets lengdehelninger skal være så små som mulig, og brå endringer skal ikke forekomme.
 
@@ -193,7 +351,14 @@ En rullebane og eventuell stoppbane skal omsluttes symmetrisk av et sikkerhetsom
 
 ### § 3-5. Sikkerhetsområdets tverrhelning
 
-(1) Den planerte del av et sikkerhetsområde skal ha tilstrekkelig tverrhelning til å sikre god vannavrenning, og de nærmeste 3 m fra rullebane- og stoppbanekanten skal tverrhelningen være negativ, likevel maksimalt 5%. Både positiv og negativ tverrhelning skal for øvrig være slik at minst 70% av bredden på den planerte del av sikkerhetsområdet, regnet fra rullebanens senterlinje, ikke overstiger følgende verdier:*Kodebokstav**Største tverrhelning*A og B3%C, D, E og F2,5%De resterende 30% av sikkerhetsområdets planerte del kan ha positiv tverrhelning inntil 5% og negativ tverrhelning inntil 10%.
+(1) Den planerte del av et sikkerhetsområde skal ha tilstrekkelig tverrhelning til å sikre god vannavrenning, og de nærmeste 3 m fra rullebane- og stoppbanekanten skal tverrhelningen være negativ, likevel maksimalt 5%. Både positiv og negativ tverrhelning skal for øvrig være slik at minst 70% av bredden på den planerte del av sikkerhetsområdet, regnet fra rullebanens senterlinje, ikke overstiger følgende verdier:
+
+| *Kodebokstav* | *Største tverrhelning* |
+| --- | --- |
+| A og B | 3% |
+| C, D, E og F | 2,5% |
+
+De resterende 30% av sikkerhetsområdets planerte del kan ha positiv tverrhelning inntil 5% og negativ tverrhelning inntil 10%.
 
 (2) Endringer i tverrhelningen på sikkerhetsområdets planerte del skal være så små som mulig, og brå endringer skal ikke forekomme.
 
@@ -215,7 +380,7 @@ En rullebane og eventuell stoppbane skal omsluttes symmetrisk av et sikkerhetsom
 
 (1) Et hinderfritt stigeområde skal være slik at ingen del av stigeområdet eller objekter på stigeområdet gjennomtrenger en flate med stigning 1,25%. Flatens innerkant skal være en linje vinkelrett på rullebanens senterlinje gjennom et punkt der tilgjengelig startrulledistanse slutter. Flatens horisontalprojeksjon skal falle sammen med ytterkantene til det hinderfrie stigeområdet.
 
-*(2) Et hinderfritt stigeområde skal ha slik jevnhet at det ikke har uheldig innvirkning på et luftfartøys stigeevne.
+\*(2) Et hinderfritt stigeområde skal ha slik jevnhet at det ikke har uheldig innvirkning på et luftfartøys stigeevne.
 
 ## Kapittel 5. Krav til stoppbane
 
@@ -235,7 +400,7 @@ En stoppbanes helninger skal tilfredsstille kravene i [§ 2-4](forskrift/2006-07
 
 (1) En stoppbane skal ha bæreevne tilpasset de luftfartøy som tillates brukt på den rullebane den er tilsluttet.
 
-*(2) En stoppbane skal ha slik overflate at bremsevirkningen er tilnærmet den samme som på den rullebanen den er tilsluttet også når banen er våt.
+\*(2) En stoppbane skal ha slik overflate at bremsevirkningen er tilnærmet den samme som på den rullebanen den er tilsluttet også når banen er våt.
 
 ## Kapittel 6. Krav til område for radiohøydemåler
 
@@ -259,11 +424,30 @@ På et område for radiohøydemåler skal helningsendringer unngås. Der helning
 
 (1) Dersom det ved enden av en rullebane ikke er tilknyttet en taksebane, skal det vurderes om det er nødvendig å etablere en snuplass i enden av rullebanen. For slike snuplasser gjelder samme krav til jevnhet og bæreevne som for ventefelt.
 
-(2) En taksebane skal utformes slik at når førerrommet på luftfartøy som takser på banen, befinner seg over taksebanens senterlinje, skal avstanden mellom ethvert hjul og taksebanekanten minst være så stor som angitt i tabellen nedenfor:*Kodebokstav**Minste avstand mellom et hjul og taksebanekant*A1,5 mB2,5 mC3,0 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m.4,5 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer.D, E og F4,5 m
+(2) En taksebane skal utformes slik at når førerrommet på luftfartøy som takser på banen, befinner seg over taksebanens senterlinje, skal avstanden mellom ethvert hjul og taksebanekanten minst være så stor som angitt i tabellen nedenfor:
+
+| *Kodebokstav* | *Minste avstand mellom et hjul og taksebanekant* |  |
+| --- | --- | --- |
+| A | 1,5 m |  |
+| B | 2,5 m |  |
+| C | 3,0 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m. |
+|  | 4,5 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer. |
+| D, E og F | 4,5 m |  |
 
 ### § 7-2. Taksebanens bredde
 
-På rette strekninger skal en taksebane minst ha følgende bredde:*Kodebokstav**Minste taksebanebredde*A7,5 mB10,5 mC15 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m.18 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer.D18 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom yttersiden av hovedhjulene mindre enn 9 m.23 mdersom taksebanen skal trafikkeres av luftfartøy med avstand mellom yttersiden av hovedhjulene på 9 m og mer.E23 mF25 m
+På rette strekninger skal en taksebane minst ha følgende bredde:
+
+| *Kodebokstav* | *Minste taksebanebredde* |  |
+| --- | --- | --- |
+| A | 7,5 m |  |
+| B | 10,5 m |  |
+| C | 15 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul mindre enn 18 m. |
+|  | 18 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom nesehjul og hovedhjul på 18 m og mer. |
+| D | 18 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom yttersiden av hovedhjulene mindre enn 9 m. |
+|  | 23 m | dersom taksebanen skal trafikkeres av luftfartøy med avstand mellom yttersiden av hovedhjulene på 9 m og mer. |
+| E | 23 m |  |
+| F | 25 m |  |
 
 ### § 7-3. Taksebanens kurve (jf. vedlegg 1 fig. 1)
 
@@ -281,17 +465,46 @@ På rette strekninger skal en taksebane minst ha følgende bredde:*Kodebokstav**
 
 (3) Avstanden mellom et objekt og senterlinjen til en taksebane eller taksebane på oppstillingsplattform skal minst være i henhold til tabell 7-A.
 
+*Tabell 7-A – Minsteavstander mellom rullebaner, taksebaner og objekter*
+
+|  | *Avstand i meter mellom rullebane og taksebane senterlinjer:* |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *Ikke-instrumentrullebane:<br>Kodetall* |  |  |  | *Instrumentrullebane:<br>Kodetall* |  |  |  | *Avstand senterlinjer parallelle taksebaner* | *Avstand mellom objekt og senterlinje:* |  |
+|  |  |  |  |  |  |  |  |  |  | *Taksebane* | *Taksebane på plattform* |
+| *Kode<br>bokstav* | *1* | *2* | *3* | *4* | *1* | *2* | *3* | *4* |  |  |  |
+| A | 38 | 48 | – | – | 83 | 83 | – | – | 24 | 16 | 12 |
+| B | 42 | 52 | – | – | 87 | 87 | – | – | 34 | 22 | 17 |
+| C | 87 | 87 | 93 | 93 | 87 | 87 | 168 | 168 | 44 | 26 | 25 |
+| D | – | – | 101 | 101 | – | – | 176 | 176 | 67 | 41 | 36 |
+| E | – | – | – | 108 | – | – | – | 183 | 80 | 48 | 43 |
+| F | – | – | – | 115 | – | – | – | 190 | 98 | 58 | 51 |
+
 ### § 7-5. Taksebanens helning
 
 (1) En taksebanes helninger skal ikke være så store og så nær hverandre at det påvirker sikkerheten til de luftfartøy som skal bruke taksebanen.
 
-(2) En taksebanes langsgående helning skal ikke overstige følgende verdier:*Kodebokstav**Største helning*A og B3%C, D, E og F1,5%
+(2) En taksebanes langsgående helning skal ikke overstige følgende verdier:
 
-(3) Overgangen fra en langsgående helning til en annen skal være en kurve der krumningsradiusen ikke overstiger følgende verdier:*Kodebokstav**Krumningsradius*A og B2500 m1% pr. 25 mC, D, E og F3000 m1% pr. 30 m
+| *Kodebokstav* | *Største helning* |
+| --- | --- |
+| A og B | 3% |
+| C, D, E og F | 1,5% |
+
+(3) Overgangen fra en langsgående helning til en annen skal være en kurve der krumningsradiusen ikke overstiger følgende verdier:
+
+| *Kodebokstav* | *Krumningsradius* |  |
+| --- | --- | --- |
+| A og B | 2500 m | 1% pr. 25 m |
+| C, D, E og F | 3000 m | 1% pr. 30 m |
 
 (4) En taksebanes langsgående helning skal være slik at det fra et hvilket som helst punkt;3 m over taksebanen skal være mulig å se hele overflaten på taksebanen i en lengde av 300 m dersom taksebanen skal ha kodebokstav C, D, E eller F,2 m over taksebanen skal være mulig å se hele overflaten på taksebanen i en lengde av 200 m dersom taksebanen skal ha kodebokstav B,1,5 m over taksebanen skal være mulig å se hele overflaten på taksebanen i en lengde av 150 m dersom taksebanen skal ha kodebokstav A.
 
-(5) En taksebanes tverrhelning skal være tilstrekkelig til å sikre god vannavrenning, men skal likevel ikke overstige følgende verdier:*Kodebokstav**Største tverrhelning*A og B2%C, D, E og F1,5%
+(5) En taksebanes tverrhelning skal være tilstrekkelig til å sikre god vannavrenning, men skal likevel ikke overstige følgende verdier:
+
+| *Kodebokstav* | *Største tverrhelning* |
+| --- | --- |
+| A og B | 2% |
+| C, D, E og F | 1,5% |
 
 ### § 7-6. Taksebanens bæreevne og overflate
 
@@ -309,7 +522,7 @@ På rette strekninger skal en taksebane minst ha følgende bredde:*Kodebokstav**
 
 (3) Taksebane for hurtigavkjøring skal etter avkjøringskurven ha en rett distanse som er tilstrekkelig for at et avkjørende/taksende fly skal kunne stoppe helt før kryssende taksebane.
 
-*(4) Den innvendige vinkelen mellom taksebanen for hurtigavkjøring og rullebanen må ikke være større enn 45 grader, og ikke mindre enn 25 grader.
+\*(4) Den innvendige vinkelen mellom taksebanen for hurtigavkjøring og rullebanen må ikke være større enn 45 grader, og ikke mindre enn 25 grader.
 
 ### § 7-8. Taksebane på bru
 
@@ -325,11 +538,26 @@ På rette strekninger skal en taksebane minst ha følgende bredde:*Kodebokstav**
 
 (2) Taksebanesikkerhetsområde skal strekke seg ut på hver side av taksebanens senterlinje til samme avstand som minsteavstanden til et objekt i tabell 7-A.
 
-(3) Taksebanesikkerhetsområde skal være planert ut til minst følgende bredde på hver side av taksebanens senterlinje:*Kodebokstav**Minste planerte bredde*A11 mB og C12,5 mD19 mE22 mF30 m
+(3) Taksebanesikkerhetsområde skal være planert ut til minst følgende bredde på hver side av taksebanens senterlinje:
+
+| *Kodebokstav* | *Minste planerte bredde* |
+| --- | --- |
+| A | 11 m |
+| B og C | 12,5 m |
+| D | 19 m |
+| E | 22 m |
+| F | 30 m |
 
 (4) Innenfor et taksebanesikkerhetsområde skal det ikke være andre objekter enn de som tillates innenfor et sikkerhetsområde for rullebane, og kravene i [kapittel 11](forskrift/2006-07-06-968/kap11) gjelder tilsvarende.
 
-(5) Den planerte del av et taksebanesikkerhetsområde skal ha tverrhelning som sikrer god vannavrenning, og tverrhelningen skal ligge mellom følgende verdier:*Kodebokstav**Største tverrhelning*A og B+3% og -5%C, D, E og F+2,5% og -5%De nærmeste 3 m fra taksebanekanten skal tverrhelningen være negativ, og den kan være så stor som -5%.
+(5) Den planerte del av et taksebanesikkerhetsområde skal ha tverrhelning som sikrer god vannavrenning, og tverrhelningen skal ligge mellom følgende verdier:
+
+| *Kodebokstav* | *Største tverrhelning* |
+| --- | --- |
+| A og B | +3% og -5% |
+| C, D, E og F | +2,5% og -5% |
+
+De nærmeste 3 m fra taksebanekanten skal tverrhelningen være negativ, og den kan være så stor som -5%.
 
 (6) Overgangen mellom taksebanen og sikkerhetsområdet skal være jevn og plan, og på den planerte del av taksebanesikkerhetsområdet skal plutselige helningsendringer ikke forekomme.
 
@@ -339,7 +567,7 @@ På rette strekninger skal en taksebane minst ha følgende bredde:*Kodebokstav**
 
 ## Kapittel 8. Krav til venteposisjon og ventefelt
 
-### § 8-1. Generelle krav til venteposisjon og ventefelt*
+### § 8-1. Generelle krav til venteposisjon og ventefelt\*
 
 (1) Venteposisjon for rullebane skal etableres:På den del av taksebanen som tilslutter en rullebane.På den del av en rullebane som utgjør en standard takserute, når den rullebanen, som utgjør en standard takserute, tilslutter en annen rullebane.
 
@@ -375,7 +603,13 @@ For et ventefelt og en venteposisjon gjelder samme krav til helning, bæreevne o
 
 ### § 9-2. Minsteavstand
 
-(1) Oppstillingsplass skal plasseres slik at avstanden mellom et parkert luftfartøy og et annet parkert luftfartøy, bygning eller objekt ikke er mindre enn nedenstående verdier. Avstanden måles der avstanden er minst, dvs. mellom vingetupper, rotortupper, bygningsutspring og lignende.*Kodebokstav**Minsteavstand til annet objekt*A og B3 mC4,5 mD, E og F7,5 m
+(1) Oppstillingsplass skal plasseres slik at avstanden mellom et parkert luftfartøy og et annet parkert luftfartøy, bygning eller objekt ikke er mindre enn nedenstående verdier. Avstanden måles der avstanden er minst, dvs. mellom vingetupper, rotortupper, bygningsutspring og lignende.
+
+| *Kodebokstav* | *Minsteavstand til annet objekt* |
+| --- | --- |
+| A og B | 3 m |
+| C | 4,5 m |
+| D, E og F | 7,5 m |
 
 (2) Dersom oppstillingsplasser benyttes av luftfartøy med forskjellig kodebokstav gjelder minsteavstanden for det største luftfartøyet.
 
@@ -493,6 +727,48 @@ Dersom det etableres en plattform for avvikskontroll av magnetkompass, skal plat
 
 Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsvar med nedenstående tabell 10-A.
 
+*Tabell 10-A*
+
+| *Hinderflate og verdier* | *Kodetall* |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *1* | *2* | *3* | *4* |
+| *Utflygingsflate* |  |  |  |  |
+| Lengde på innerkant | 60 m | 80 m | 180 m | 180 m |
+| Divergens på sidekanter | 10% | 10% | 12,5% | 12,5% |
+| Ytre bredde | 380 m | 580 m | 1200 m | 1200 m<br>1800 ma |
+| Lengde | 1600 m | 2500 m | 15000 m | 15000 m |
+| Helning | 5% | 4% | 2% | 2% |
+| *Innflygingsflate* |  |  |  |  |
+| Lengde innerkant | 150 m | 150 m | 300 m | 300 m |
+| Divergens på sidekanter | 15% | 15% | 15% | 15% |
+| Samlet lengde | 15000 m | 15000 m | 15000 m | 15000 m |
+| *Første seksjon:* |  |  |  |  |
+| Lengde | 3000 m | 3000 m | 3000 m | 3000 m |
+| Helning | 2,5% | 2,5% | 2% | 2% |
+| *Andre seksjon:* |  |  |  |  |
+| Lengdeb | 12000 m | 12000 m | 3600 m | 3600 m |
+| Helning | 3% | 3% | 2,5% | 2,5% |
+| *Horisontal seksjon* |  |  |  |  |
+| Lengdeb | – | – | 8400 m | 8400 m |
+| *Horisontalflate* |  |  |  |  |
+| Radius | 3500 m | 3500 m | 4000 m | 4000 m |
+| *Sideflate* |  |  |  |  |
+| Helning | 14,3% | 14,3% | 14,3% | 14,3% |
+| *Konisk flate* |  |  |  |  |
+| Høyde over horisontalflaten | 60 m | 60 m | 100 m | 100 m |
+| *Indre innflygingsflate* |  |  |  |  |
+| Lengde på innerkant | 90 m | 90 m | 120 m | 120 m |
+| Lengde | 900 m | 900 m | 900 m | 900 m |
+| *Utflygingsflate for avbrutt landing* |  |  |  |  |
+| Lengde på innerkant | 90 m | 90 m | 120 m | 120 m |
+| Avstand fra terskelc | – | – | 1800 m | 1800 m |
+| Divergens | 10% | 10% | 10% | 10% |
+| Helning | 4% | 4% | 3,33% | 3,33% |
+| *Indre sideflate* |  |  |  |  |
+| Helning | 40% | 40% | 33,3% | 33,3% |
+
+a 1800 m dersom utflygingstraseen legges i sving og kursendringen er større enn 15°.b Lengden på andre og horisontal seksjon varierer avhengig av hvor innflygingsflaten blir horisontal, jf. [§ 10-3](forskrift/2006-07-06-968/§10-3) fjerde ledd.c Se [§ 10-8](forskrift/2006-07-06-968/§10-8) tredje ledd.
+
 ## Kapittel 11. Krav til identifisering, begrensning og merking av hinder
 
 ### § 11-1. Generelt
@@ -501,13 +777,13 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (2) Innenfor sikkerhetsområde, jf. [kapittel 3](forskrift/2006-07-06-968/kap3), skal alle faste objekter anses som hinder. Luftfartøy på oppstillingsplass skal anses som fast objekt.
 
-*(3) Bevegelige objekter skal anses som hinder dersom de gjennomtrenger indre sideflate, indre innflygingsflate eller den del av utflygingsflaten som er mellom de indre sideflatene, eller dersom de er på sikkerhetsområdet innenfor disse flatenes innerkant.
+\*(3) Bevegelige objekter skal anses som hinder dersom de gjennomtrenger indre sideflate, indre innflygingsflate eller den del av utflygingsflaten som er mellom de indre sideflatene, eller dersom de er på sikkerhetsområdet innenfor disse flatenes innerkant.
 
 (4) Bevegelige objekter som utgjør hinder skal fjernes eller sikres slik at de ikke utgjør et hinder før rullebanen brukes for start eller landing av luftfartøy.
 
 ### § 11-2. Risikoanalyse
 
-*(1) Flyplassens innehaver skal besørge en risikoanalyse etter en anerkjent standard for hinder som ikke fjernes.
+\*(1) Flyplassens innehaver skal besørge en risikoanalyse etter en anerkjent standard for hinder som ikke fjernes.
 
 (2) Ved risikoanalysen skal det vurderes hvilken risiko for luftfarten hindrene representerer og hvilke kompenserende tiltak som eventuelt må fastsettes. Kompenserende tiltak fastsettes av Luftfartstilsynet i henhold til bestemmelsene i [§ 18-3](forskrift/2006-07-06-968/§18-3), og skal fremgå av flyplassens godkjenningsdokument.
 
@@ -517,7 +793,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (2) Navigasjonshjelpemidler og meteorologiske instrumenter skal, så langt det er forenlig med deres funksjon for lufttrafikken, ikke gjennomtrenge indre innflygingsflate, utflygingsflate for avbrutt landing eller indre sideflate.
 
-*(3) Faste hinder, som må være innenfor sikkerhetsområdet, skal være så lave og ha så liten masse som mulig. Slike hinder skal også være brekkbare i den grad dette er praktisk mulig. Luftfartstilsynet kan fastsette nærmere krav til masse og brekkbarhet.
+\*(3) Faste hinder, som må være innenfor sikkerhetsområdet, skal være så lave og ha så liten masse som mulig. Slike hinder skal også være brekkbare i den grad dette er praktisk mulig. Luftfartstilsynet kan fastsette nærmere krav til masse og brekkbarhet.
 
 (4) Eventuelle fundamenter skal være i plan med området omkring, og området inntil fundamentet skal være utjevnet.
 
@@ -543,7 +819,19 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (6) Hinder med hovedsakelig ubrutt overflate og som er minst 4,5 m både horisontalt og vertikalt, skal merkes i rutemønster. Rutene skal være rektangulære med sider på minimum 1,5 og maksimum 3 m. Hjørnene skal være røde eller oransje.
 
-(7) Hinder med hovedsakelig ubrutt overflate og som er minst 1,5 m enten horisontalt eller vertikalt og som er mindre enn 4,5 m i den andre utstrekningen, skal merkes med bånd. Med bånd merkes også alle objekter med gjennombrutt overflate. Båndene skal plasseres på tvers på hinderets største utstrekning (enten vertikalt eller horisontalt), og bredden på båndene skal være i henhold til nedenstående tabell.*Hinderets utstrekning**Båndets største bredde*Mindre enn 3 m0,50 m3 – 10 m1,00 m10 – 20 m1,50 m20 – 30 m2,00 m30 – 40 m3,00 m40 – 50 m4,00 m50 – 60 m5,00 m60 – 200 m6,00 mover 200 m10,00 m
+(7) Hinder med hovedsakelig ubrutt overflate og som er minst 1,5 m enten horisontalt eller vertikalt og som er mindre enn 4,5 m i den andre utstrekningen, skal merkes med bånd. Med bånd merkes også alle objekter med gjennombrutt overflate. Båndene skal plasseres på tvers på hinderets største utstrekning (enten vertikalt eller horisontalt), og bredden på båndene skal være i henhold til nedenstående tabell.
+
+| *Hinderets utstrekning* | *Båndets største bredde* |
+| --- | --- |
+| Mindre enn 3 m | 0,50 m |
+| 3 – 10 m | 1,00 m |
+| 10 – 20 m | 1,50 m |
+| 20 – 30 m | 2,00 m |
+| 30 – 40 m | 3,00 m |
+| 40 – 50 m | 4,00 m |
+| 50 – 60 m | 5,00 m |
+| 60 – 200 m | 6,00 m |
+| over 200 m | 10,00 m |
 
 (8) Hinder som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.
 
@@ -555,11 +843,11 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 ### § 12-1. Generelle krav til merking
 
-*(1) All merking skal utformes slik at den ikke utgjør fare for luftfartøy. Merkemaling skal utføres slik at det blir minst mulig forskjell mellom friksjonen på rullebanen og de malte flatene.
+\*(1) All merking skal utformes slik at den ikke utgjør fare for luftfartøy. Merkemaling skal utføres slik at det blir minst mulig forskjell mellom friksjonen på rullebanen og de malte flatene.
 
 (2) Områder med fast dekke skal merkes med maling, og øvrige områder skal merkes som angitt i bestemmelsene i dette kapittel, eller på annen hensiktsmessig måte. Er det forskjellige overflater som asfalt, gress, grus og lignende skal det om nødvendig brukes kombinasjoner av maling og annen merking.
 
-*(3) Merking av ferdselsområdet skal være godt synlig fra luftfartøy i luften og på ferdselsområdet under de siktforhold ferdselsområdet skal brukes. Det skal tas hensyn til de lys- og siktforhold området skal brukes under, herunder rullebane som er dekket av snø, og kontrasten til underlaget. Med merkemaling menes gul reflekterende trafikkmaling, om ikke annet fremgår av nedenstående punkter. På lyst underlag skal det om nødvendig brukes svarte konturlinjer. Luftfartstilsynet kan fastsette nærmere krav til merkemaling.
+\*(3) Merking av ferdselsområdet skal være godt synlig fra luftfartøy i luften og på ferdselsområdet under de siktforhold ferdselsområdet skal brukes. Det skal tas hensyn til de lys- og siktforhold området skal brukes under, herunder rullebane som er dekket av snø, og kontrasten til underlaget. Med merkemaling menes gul reflekterende trafikkmaling, om ikke annet fremgår av nedenstående punkter. På lyst underlag skal det om nødvendig brukes svarte konturlinjer. Luftfartstilsynet kan fastsette nærmere krav til merkemaling.
 
 (4) Store merkeflater, som terskel-, siktepunkt- og landingssonemerking, kan bestå av en serie smale, langsgående linjer med bredde 0,30 m og avstand ca. 0,15 m mellom linjene. Avstanden tilpasses slik at merkeflatene avgrenses av linjer langs begge sidene.
 
@@ -593,7 +881,15 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (4) De langsgående stripene skal begynne 6 m fra terskelen og de skal være 30 m lange. Stripene skal være 1,80 m brede og mellomrommet skal være 1,80 m, unntatt for stripene nærmest senterlinjen der mellomrommet skal være 3,60 m.
 
-(5) Antallet langsgående striper skal stå i forhold til rullebanebredden på følgende måte:*Rullebanebredde**Antall striper*18 m inntil 23 m4 striper23 m inntil 30 m6 striper30 m inntil 45 m8 striper45 m inntil 60 m12 striper60 m og over16 striper
+(5) Antallet langsgående striper skal stå i forhold til rullebanebredden på følgende måte:
+
+| *Rullebanebredde* | *Antall striper* |
+| --- | --- |
+| 18 m inntil 23 m | 4 striper |
+| 23 m inntil 30 m | 6 striper |
+| 30 m inntil 45 m | 8 striper |
+| 45 m inntil 60 m | 12 striper |
+| 60 m og over | 16 striper |
 
 (6) Dersom terskelen er innflyttet skal området foran terskelen merkes med piler med plassering og dimensjoner som vist i vedlegg 3 fig. 1. Terskelen skal anses som innflyttet dersom den er plassert mer enn 60 m etter begynnelsen av kunngjort startrulledistanse (TORA). Avstanden mellom pilene skal være 20 m og bredden den samme som senterlinjen.
 
@@ -603,9 +899,21 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (2) Merkingen av siktepunkt skal bestå av to langsgående striper plassert symmetrisk på hver side av senterlinjen, jf. vedlegg 3 fig. 3.
 
-(3) For rullebaner med visuelt glidebaneanlegg skal merkingens begynnelse samsvare med plasseringen av det visuelle glidebaneanlegget, unntatt når glidebanevinkelen til det visuelle glidebaneanlegget er 4,5° og høyere. Siktepunktets dimensjoner skal være:*Siktepunkt**Tilgjengelig landingsdistanse (LDA)**Dimensjoner**Inntil 800 m**800 inntil 1200 m**1200 inntil 2400 m**2400 m og over*Lengde på stripene30 m30 m45 m45 mBredde på stripene4 m6 m6 m6 mAvstand mellom stripenes innerkant6 m9 m18 m18 m
+(3) For rullebaner med visuelt glidebaneanlegg skal merkingens begynnelse samsvare med plasseringen av det visuelle glidebaneanlegget, unntatt når glidebanevinkelen til det visuelle glidebaneanlegget er 4,5° og høyere. Siktepunktets dimensjoner skal være:
 
-(4) For rullebaner uten visuelt glidebaneanlegg skal plasseringen av siktepunktet være i henhold til nedenstående tabell:*Siktepunkt**Tilgjengelig landingsdistanse (LDA)**Plassering**Inntil 800 m**800 inntil 1200 m**1200 inntil 2400 m**2400 m og over*Avstand fra terskel til merkingens begynnelse150 m250 m300 m400 m
+| *Siktepunkt* | *Tilgjengelig landingsdistanse (LDA)* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Dimensjoner* | *Inntil 800 m* | *800 inntil 1200 m* | *1200 inntil 2400 m* | *2400 m og over* |
+| Lengde på stripene | 30 m | 30 m | 45 m | 45 m |
+| Bredde på stripene | 4 m | 6 m | 6 m | 6 m |
+| Avstand mellom stripenes innerkant | 6 m | 9 m | 18 m | 18 m |
+
+(4) For rullebaner uten visuelt glidebaneanlegg skal plasseringen av siktepunktet være i henhold til nedenstående tabell:
+
+| *Siktepunkt* | *Tilgjengelig landingsdistanse (LDA)* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Plassering* | *Inntil 800 m* | *800 inntil 1200 m* | *1200 inntil 2400 m* | *2400 m og over* |
+| Avstand fra terskel til merkingens begynnelse | 150 m | 250 m | 300 m | 400 m |
 
 (5) For rullebaner med visuelt glidebaneanlegg innstilt med glidebanevinkel på 4,5° og høyere, skal plasseringen av siktepunktet fastsettes av Luftfartstilsynet i hvert enkelt tilfelle.
 
@@ -721,7 +1029,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 ### § 12-16. Merking med sikkerhetslinjer
 
-*(1) Sikkerhetslinjer skal merkemales på oppstillingsplattform med fast dekke dersom det:er nødvendig å angi særskilte områder for kjøretøyer og utstyr av hensyn til å oppnå sikker avstand til luftfartøy, ellerdet følger av flyplassens lokale oppstillingsbestemmelser.
+\*(1) Sikkerhetslinjer skal merkemales på oppstillingsplattform med fast dekke dersom det:er nødvendig å angi særskilte områder for kjøretøyer og utstyr av hensyn til å oppnå sikker avstand til luftfartøy, ellerdet følger av flyplassens lokale oppstillingsbestemmelser.
 
 (2) Merkemaling for sikkerhetslinjer skal være rød. Merkingen utformes som heltrukket linje med bredde minst 0,10 m.
 
@@ -739,7 +1047,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (1) Taksebaner med bredde over 60 m skal ha instruksjonsmerking i tillegg til påbudsskilt. Taksebaner, som er slik utformet at påbudsskiltene ikke er godt synlige fra alle luftfartøyer og kjøretøyer som bruker taksebanen, skal også ha instruksjonsmerking i tillegg til påbudsskiltene.
 
-*(2) Instruksjonsmerkingen skal plasseres på venstre side av taksebanen og foran venteposisjonsmerkingen. Avstanden mellom nærmeste kant av instruksjonsmerkingen og venteposisjonsmerkingen og senterlinjemerkingen skal ikke være mindre enn 1 m.
+\*(2) Instruksjonsmerkingen skal plasseres på venstre side av taksebanen og foran venteposisjonsmerkingen. Avstanden mellom nærmeste kant av instruksjonsmerkingen og venteposisjonsmerkingen og senterlinjemerkingen skal ikke være mindre enn 1 m.
 
 (3) Instruksjonsmerking skal utføres i hvitt på rød bakgrunn, og skal, med unntak for forbud mot innkjøring, inneholde samme informasjon som påbudsskiltet. Forbud mot innkjøring skal ha bokstavene NO ENTRY. Om nødvendig skal den røde bakgrunnen omgis av svarte eller hvite konturlinjer.
 
@@ -757,7 +1065,7 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 ### § 13-1. Generelle krav til lysanlegg
 
-*(1) Alle lys og lysanlegg skal være i samsvar med de krav til lysintensitet, åpningsvinkler, blinkfrekvenser og andre spesifikasjoner som følger av bestemmelsene i dette kapittel. Luftfartstilsynet kan om nødvendig fastsette tilleggskrav.
+\*(1) Alle lys og lysanlegg skal være i samsvar med de krav til lysintensitet, åpningsvinkler, blinkfrekvenser og andre spesifikasjoner som følger av bestemmelsene i dette kapittel. Luftfartstilsynet kan om nødvendig fastsette tilleggskrav.
 
 (2) Lysanlegg, og tilhørende forsynings- og fordelingsanlegg, skal konstrueres og installeres slik at feil eller annen påvirkning ikke resulterer i at flygeren får et utilstrekkelig eller villedende lysbilde, eller slik at flysikkerheten på annen måte svekkes.
 
@@ -781,9 +1089,9 @@ Hinderflater etter dette kapittel skal ha dimensjoner, avvik og helning i samsva
 
 (3) Flyplassens innehaver skal spesielt iaktta farlige eller villedende lys innenfor følgende områder:På instrumentrullebaner med kodetall 4: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 4500 m fra terskelen.På instrumentrullebaner med kodetall 2 og 3: Innenfor 750 m på hver side av rullebanens forlengede senterlinje og ut til 3000 m fra terskelen.På instrumentrullebaner med kodetall 1 og ikke-instrumentrullebaner: Innenfor det område som omfattes av innflygingsflaten.
 
-*(4) Flyplassens innehaver skal spesielt iaktta laserlys innenfor følgende soner:Laserfri sone som strekker seg 3700 m på hver side av rullebanens senterlinje, og ut til 9300 m fra terskelen, hvor bredden på de ytterste 5600 m fra terskelen er 750 m på hver side av rullebanens forlengede senterlinje.Laserkritisk sone som begrenses av en sirkel med radius 18500 m omkring flyplassens geometriske sentrum.Lasersensitiv sone som flyplassens innehaver skal fastsette ut fra de lokale flyoperative forhold.
+\*(4) Flyplassens innehaver skal spesielt iaktta laserlys innenfor følgende soner:Laserfri sone som strekker seg 3700 m på hver side av rullebanens senterlinje, og ut til 9300 m fra terskelen, hvor bredden på de ytterste 5600 m fra terskelen er 750 m på hver side av rullebanens forlengede senterlinje.Laserkritisk sone som begrenses av en sirkel med radius 18500 m omkring flyplassens geometriske sentrum.Lasersensitiv sone som flyplassens innehaver skal fastsette ut fra de lokale flyoperative forhold.
 
-### § 13-4. Armaturer og master*
+### § 13-4. Armaturer og master\*
 
 (1) Lysarmaturer på bakken, som ikke er nedfelt, skal ha så liten masse som mulig og festeinnretningene skal være brekkbare.
 
@@ -841,7 +1149,7 @@ Rullebane som skal kunne brukes i mørke, skal ha rullebanekantlys. Presisjonsru
 
 (4) Rullebanekantlys som er fordelt på to eller flere serieringer skal arrangeres slik at lys som står på hver side av rullebanen parvis er knyttet til samme seriering.
 
-*(5) Rullebanekantlys for instrumentrullebane skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*(5) Rullebanekantlys for instrumentrullebane skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
 ### § 13-12. Krav om terskellys
 
@@ -859,7 +1167,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha terskellys.
 
 (2) Terskellys skal ha minimum lysintensitet på 15 cd grønt lys og tilstrekkelig spredning til å være godt synlig fra luftfartøy under innflyging under de sikt- og lysforhold rullebanen skal kunne brukes under for landing.
 
-*(3) Terskellys for instrumentrullebane skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*(3) Terskellys for instrumentrullebane skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
 ### § 13-15. Krav om baneendelys
 
@@ -877,7 +1185,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (2) Baneendelys skal ha minimum lysintensitet på 10 cd rødt lys og tilstrekkelig spredning til å være godt synlig fra luftfartøy under rulling på rullebanen under de sikt- og lysforhold rullebanen skal brukes under for start eller landing.
 
-*(3) Baneendelys for rullebane med instrumentinnflygingsprosedyre skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*(3) Baneendelys for rullebane med instrumentinnflygingsprosedyre skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
 ### § 13-18. Krav om stoppbanelys
 
@@ -925,7 +1233,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (2) Dersom hinderet er et objekt, skal hinderlys plasseres på toppen av hinderet slik at de markerer det punkt eller den kant som ligger høyest i forhold til hinderflaten. På skorstein som kan påføre korrosjon eller belegg på armaturglassene, skal hinderlysene plasseres inntil 3 m under toppen.
 
-*(3) Dersom hinderet skal ha høyintensitets hinderlys om dagen, og objektet har en tynn konstruksjon på toppen som er høyere enn 12 m og ikke kan påmonteres høyintensitetslys, skal høyintensitetslyset plasseres på høyest mulig punkt. På toppen av den tynne konstruksjonen skal det i slike tilfeller plasseres et mellomintensitets hinderlys type A.
+\*(3) Dersom hinderet skal ha høyintensitets hinderlys om dagen, og objektet har en tynn konstruksjon på toppen som er høyere enn 12 m og ikke kan påmonteres høyintensitetslys, skal høyintensitetslyset plasseres på høyest mulig punkt. På toppen av den tynne konstruksjonen skal det i slike tilfeller plasseres et mellomintensitets hinderlys type A.
 
 (4) Dersom hinderet er et stort objekt eller det er flere objekter ved siden av hverandre som alle utgjør hinder, skal flere hinderlys plasseres på hinderets/hindrenes høyeste punkter slik at hinderets utstrekning markeres. Dersom det brukes lavintensitets hinderlys, skal avstanden mellom lysene horisontalt ikke overstige 45 m. Dersom det brukes mellomintensitets hinderlys, skal avstanden mellom lysene horisontalt ikke overstige 900 m.
 
@@ -943,7 +1251,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 ### § 13-23. Utforming av hinderlys
 
-*(1) Hinderlys skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*(1) Hinderlys skal utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
 (2) Lavintensitets hinderlys type A og B skal gi fast rødt lys. Mellomintensitets hinderlys type A skal gi blinkende hvitt lys, type B skal gi blinkende rødt lys og type C skal gi fast rødt lys. Høyintensitets hinderlys type A og B skal gi blinkende hvitt lys.
 
@@ -975,13 +1283,13 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (6) Tverrekken i et enkelt innflygingslysanlegg skal dannes av lys i en horisontal linje i rett vinkel på senterlinjerekken. Den skal være plassert ved enden av senterrekken, dog ikke lenger fra terskelen enn 300 m, jf. vedlegg 4 fig. 2.
 
-*(7) Tverrekken skal bestå av i alt 6 lys, hvorav 3 lys på hver side av det tilhørende lys i senterrekken. Avstanden mellom lysene skal være 5 m slik at tverrekken blir 30 m lang.
+\*(7) Tverrekken skal bestå av i alt 6 lys, hvorav 3 lys på hver side av det tilhørende lys i senterrekken. Avstanden mellom lysene skal være 5 m slik at tverrekken blir 30 m lang.
 
 (8) Lysene i et enkelt innflygingslysanlegg skal gi fast hvitt lys, og de skal tydelig skille seg fra øvrige lysanlegg og andre lys i området.
 
 (9) Lavintensitetslys skal ha lysintensitet på minst 50 cd.Høyintensitetslys skal være utformet i samsvar med de krav som settes av Luftfartstilsynet.
 
-*(10) Innflygingslysanlegget til rullebane med instrumentinnflygingsprosedyre, som kan ha enkelt innflygingslysanlegg, skal ha høyintensitetslys.
+\*(10) Innflygingslysanlegget til rullebane med instrumentinnflygingsprosedyre, som kan ha enkelt innflygingslysanlegg, skal ha høyintensitetslys.
 
 ### § 13-26. Kategori I innflygingslysanlegg
 
@@ -999,17 +1307,17 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (7) Endene på tverrekkene skal ligge på en rett linje som konvergerer mot et punkt på rullebanens senterlinje 300 m innenfor terskelen, jf. vedlegg 4 fig. 3.
 
-*(8) Tverrekkene skal bestå av det antall lys som er nødvendig for å danne tverrekkens lengde, slik som vist i vedlegg 4 fig. 3. Lysene fordeles likt på hver side av det tilhørende lys i senterrekken. Det skal være lik avstand mellom lysene, og avstanden skal ikke overstige 6 m.
+\*(8) Tverrekkene skal bestå av det antall lys som er nødvendig for å danne tverrekkens lengde, slik som vist i vedlegg 4 fig. 3. Lysene fordeles likt på hver side av det tilhørende lys i senterrekken. Det skal være lik avstand mellom lysene, og avstanden skal ikke overstige 6 m.
 
-*(9) Lysene i et kategori I innflygingslysanlegg skal gi fast hvitt lys, og de skal tydelig skille seg fra øvrige lysanlegg og andre lys i området.
+\*(9) Lysene i et kategori I innflygingslysanlegg skal gi fast hvitt lys, og de skal tydelig skille seg fra øvrige lysanlegg og andre lys i området.
 
-*(10) Lavintensitetslys skal ha lysintensitet på minst 50 cd.
+\*(10) Lavintensitetslys skal ha lysintensitet på minst 50 cd.
 
-*(11) Høyintensitetslys skal være utformet i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*(11) Høyintensitetslys skal være utformet i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
-*(12) Hvert av lysene for de innerste 300 m av senterrekken skal bestå av en lyskilde, for de neste 300 m skal hvert lys bestå av to lyskilder, og for de ytre 300 m skal hvert lys bestå av tre lyskilder.
+\*(12) Hvert av lysene for de innerste 300 m av senterrekken skal bestå av en lyskilde, for de neste 300 m skal hvert lys bestå av to lyskilder, og for de ytre 300 m skal hvert lys bestå av tre lyskilder.
 
-*(13) Innflygingslysanlegget til rullebane med instrumentinnflygingsprosedyre skal ha høyintensitetslys. Innflygingslysanlegg med høyintensitetslys kan i tillegg ha rundtstrålende lavintensitetslys.
+\*(13) Innflygingslysanlegget til rullebane med instrumentinnflygingsprosedyre skal ha høyintensitetslys. Innflygingslysanlegg med høyintensitetslys kan i tillegg ha rundtstrålende lavintensitetslys.
 
 ### § 13-26A. Forsterket innflygingslysanlegg
 
@@ -1021,7 +1329,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 ### § 13-27. Kategori II/III innflygingslysanlegg
 
-*Et kategori II/III innflygingslysanlegg skal tilfredsstille de krav som settes av Luftfartstilsynet.
+\*Et kategori II/III innflygingslysanlegg skal tilfredsstille de krav som settes av Luftfartstilsynet.
 
 ### § 13-28. Krav om visuelt glidebaneanlegg
 
@@ -1035,7 +1343,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (5) Lysenhetene i et visuelt glidebanesystem skal være slik at forurensninger av vann, is, snø, støv o.l. ikke påvirker kontrasten mellom rødt og hvitt lys, og slik at lysutstrålingen for øvrig påvirkes minst mulig.
 
-### § 13-29. Visuelt glidebaneanlegg – PAPI- og APAPI-anlegg*
+### § 13-29. Visuelt glidebaneanlegg – PAPI- og APAPI-anlegg\*
 
 (1) PAPI-anlegg skal bestå av 4 lysenheter, mens et APAPI-anlegg skal bestå av to lysenheter. Lysenhetene i et PAPI- og APAPI-anlegg skal være plassert på venstre side av rullebanen, med lik avstand mellom lysenhetene og på en rett horisontal linje i rett vinkel på rullebanens senterlinje.
 
@@ -1053,15 +1361,15 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (8) For en ikke-instrument- og en ikke-presisjonsrullebane skal PAPI- og APAPI-anlegg plasseres i slik avstand fra terskelen at den laveste høyde hvor flygeren kan se indikering i henhold til alternativ a i [§ 13-29](forskrift/2006-07-06-968/§13-29) tredje og fjerde ledd (dvs. at luftfartøyet befinner seg på eller nær glidebanen) gir den lavest tillatte hjulhøyde over terskelen i henhold til tabell 13-A nedenfor.
 
-*(9) For en presisjonsrullebane skal PAPI- og APAPI-anlegg plasseres i slik avstand fra terskelen at det blir best mulig overensstemmelse mellom instrumentglidebanen og den visuelle glidebanen, og slik at lavest tillatte hjulhøyde over terskelen i henhold til tabell 13-A nedenfor ikke underskrides.
+\*(9) For en presisjonsrullebane skal PAPI- og APAPI-anlegg plasseres i slik avstand fra terskelen at det blir best mulig overensstemmelse mellom instrumentglidebanen og den visuelle glidebanen, og slik at lavest tillatte hjulhøyde over terskelen i henhold til tabell 13-A nedenfor ikke underskrides.
 
 ### § 13-30. Visuelt glidebaneanlegg – PLASI-anlegg
 
-*(1) PLASI-anlegg (Puls Light Approach Slope Indicator) skal, i tillegg til kravene for slike anlegg i dette kapittel, være i samsvar med de krav som settes av Luftfartstilsynet.
+\*(1) PLASI-anlegg (Puls Light Approach Slope Indicator) skal, i tillegg til kravene for slike anlegg i dette kapittel, være i samsvar med de krav som settes av Luftfartstilsynet.
 
 (2) PLASI-anlegg skal bestå av en lysenhet plassert på venstre side av rullebanen og 10 m fra rullebanekanten for rullebaner med kodetall 1 og 2.
 
-(3) PLASI-anlegg skal ha følgende egenskaper under innflyging:Når luftfartøyet befinner seg på eller nær glidebanen, skal flygeren kunne se fast hvitt lys.Når luftfartøyet befinner seg over glidebanen, skal flygeren kunne se blinkende hvitt lys med kortere blink jo høyere luftfartøyet kommer.* Når luftfartøyet befinner seg umiddelbart under glidebanen, skal flygeren kunne se fast rødt lys som går over til blinkende når luftfartøyet kommer lavere. Flygeren skal også kunne se at blinkene blir kortere jo lavere luftfartøyet kommer.
+(3) PLASI-anlegg skal ha følgende egenskaper under innflyging:Når luftfartøyet befinner seg på eller nær glidebanen, skal flygeren kunne se fast hvitt lys.Når luftfartøyet befinner seg over glidebanen, skal flygeren kunne se blinkende hvitt lys med kortere blink jo høyere luftfartøyet kommer.\* Når luftfartøyet befinner seg umiddelbart under glidebanen, skal flygeren kunne se fast rødt lys som går over til blinkende når luftfartøyet kommer lavere. Flygeren skal også kunne se at blinkene blir kortere jo lavere luftfartøyet kommer.
 
 (4) Lysenheten i et PLASI-anlegg skal være som følger:Ha lampearmatur med automatisk skifting og varsel for når siste lampe tas i bruk.Være så lav og ha så liten masse som mulig, og være brekkbar.Ha en nivåbryter som automatisk slår av anlegget dersom det bringes ut av stilling.Ha slik rekkevidde at signalene er godt synlig ut til 6500 m i dagslys og mørke.Ha lysutstråling i horisontalplanet på 16 ° og i vertikalplanet i samsvar med vedlegg 4 fig. 4.
 
@@ -1071,7 +1379,7 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (7) For en presisjonsrullebane skal PLASI-anlegg plasseres i slik avstand fra terskelen at det blir best mulig overensstemmelse mellom instrumentglidebanen og den visuelle glidebanen, dog under alle omstendigheter slik at lavest tillatte hjulhøyde over terskelen i henhold til tabell 13-A nedenfor aldri underskrides.
 
-### § 13-31. Hinderflate for visuelt glidebananlegg*
+### § 13-31. Hinderflate for visuelt glidebananlegg\*
 
 (1) For hver rullebane som skal ha visuelt glidebaneanlegg, skal det fastsettes en hinderflate for visuelt glidebaneanlegg.
 
@@ -1083,11 +1391,33 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 
 (5) Dersom hinderflaten for visuelt glidebananlegg gjennomtrenges av terreng eller objekter, skal ett eller flere av følgende tiltak gjennomføres slik at luftfartøy som bruker glidebaneanlegget går klar alle hinder med god margin:Glidebanevinkelen økes så mye at hinderflaten ikke lenger gjennomtrenges.Terskelen flyttes så langt inn at hinderflaten ikke lenger gjennomtrenges.Glidebaneanleggets avstand fra terskelen økes slik at luftfartøyets høyde over terskelen økes for derved å oppnå at luftfartøyet går klar hinderet med god margin.Den horisontale utstrålingsvinkelen begrenses slik at hinderet kommer utenfor glidebaneanleggets utstråling.Glidebaneanleggets senterlinje, og dermed hinderflaten, vris inntil 5°.Det fastsettes begrensninger i bruken av glidebaneanlegget.
 
+*Tabell 13-A – Hjulhøyde over terskel for visuelt glidebaneanlegg*
+
+| *Luftfartøyets «øye-hjulhøyde»* | *Normal hjulhøyde* | *Minimum hjulhøyde* |
+| --- | --- | --- |
+| Inntil 3 m | 6 m | 3 m |
+| 3 m inntil 5 m | 9 m | 4 m |
+| 5 m inntil 8 m | 9 m | 5 m |
+| 8 m inntil 14 m | 9 m | 6 m |
+
+Med «øye-hjulhøyde» menes vertikalhøyden mellom flygerens øye og luftfartøyets hovedhjul når luftfartøyet er under innflyging.«Øye-hjulhøyden» skal relateres til det luftfartøy som har størst slik høyde av de luftfartøy som normalt skal bruke rullebanen.Kravene til minimum hjulhøyde kan bare legges til grunn når anlegget er innstilt for bratt innflyging.
+
+*Tabell 13-B – Hinderflate for visuelt glidebaneanlegg*
+
+|  | *Ikke-instrumentrullebane* |  |  |  | *Instrumentrullebane* |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| *Hinderflate dimensjoner* | *Kodetall* |  |  |  | *Kodetall* |  |  |  |
+|  | *1* | *2* | *3* | *4* | *1* | *2* | *3* | *4* |
+| Lengde på innerkant | 60 m | 80 m | 150 m | 150 m | 150 m | 150 m | 300 m | 300 m |
+| Avstand fra terskel | 30 m | 60 m | 60 m | 60 m | 60 m | 60 m | 60 m | 60 m |
+| Divergens | 10% | 10% | 10% | 10% | 15% | 15% | 15% | 15% |
+| Total lengde\* | 7500 m | 7500 m | 15000 m | 15000 m | 7500 m | 7500 m | 15000 m | 15000 m |
+
 ### § 13-32. Krav til innflygingsledelys
 
 Rullebane skal ha innflygingsledelys dersom det av hensyn til flysikkerheten er nødvendig å gi visuelle referanser langs en spesiell innflygingsløype, f.eks. for å unngå hinder.
 
-### § 13-33. Plassering av innflygingsledelys*
+### § 13-33. Plassering av innflygingsledelys\*
 
 Innflygingsledelys skal bestå av grupper av lys slik plassert at en spesiell innflygingsløype angis, jf. [§ 13-32](forskrift/2006-07-06-968/§13-32) og gruppene skal plasseres slik at neste gruppe kan ses fra foregående gruppe. Avstanden mellom gruppene skal ikke være større enn 1600 m.
 
@@ -1105,7 +1435,7 @@ Rullebane skal ha sirklingslys dersom øvrig flyplassbelysning (innflygingslys o
 
 ### § 13-36. Plassering av sirklingslys
 
-*Antall sirklingslys og plassering skal være slik at spesiell sirklingsløype angis. Avstanden mellom lysene skal være slik at neste lys er synlig fra foregående lys under de sikt- og lysforhold rullebanen skal brukes under for landing.
+\*Antall sirklingslys og plassering skal være slik at spesiell sirklingsløype angis. Avstanden mellom lysene skal være slik at neste lys er synlig fra foregående lys under de sikt- og lysforhold rullebanen skal brukes under for landing.
 
 ### § 13-37. Utforming av sirklingslys
 
@@ -1129,19 +1459,19 @@ Terskelidentifiseringslys skal være retningsbestemt og gi hvite lysblink i innf
 
 (1) Rullebane som skal brukes for start med rullebanesikt under 400 m og presisjonsrullebane i kategori II og III skal ha rullebanesenterlinjelys.
 
-*(2) Rullebanesenterlinjelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
+\*(2) Rullebanesenterlinjelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
 
 ### § 13-42. Krav til landingssonelys
 
 (1) Presisjonsrullebane i kategori II og III skal ha landingssonelys.
 
-*(2) Landingssonelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
+\*(2) Landingssonelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
 
 ### § 13-43. Krav til indikeringslys for hurtigavkjøring
 
 (1) Taksebane for hurtigavkjøring skal ha indikeringslys for hurtigavkjøringen dersom den skal brukes ved rullebanesikt under 350 m
 
-*(2) Lys for hurtigavkjøring skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
+\*(2) Lys for hurtigavkjøring skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
 
 ### § 13-44. Krav til taksebanesenterlinjelys
 
@@ -1151,11 +1481,11 @@ Terskelidentifiseringslys skal være retningsbestemt og gi hvite lysblink i innf
 
 (3) Taksebanesenterlinjelys er ikke påkrevet hvor trafikktettheten er liten og dersom taksebanekantlys og senterlinjemerking gir tilstrekkelig veiledning.
 
-*(4) Taksebanesenterlinjelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
+\*(4) Taksebanesenterlinjelys skal tilfredsstille de krav som Luftfartstilsynet fastsetter.
 
 ### § 13-45. Plassering og utforming av taksebanesenterlinjelys
 
-*Taksebanesenterlinjelys skal plasseres og utformes i samsvar med de krav som Luftfartstilsynet fastsetter.
+\*Taksebanesenterlinjelys skal plasseres og utformes i samsvar med de krav som Luftfartstilsynet fastsetter.
 
 ### § 13-46. Krav til taksebanekantlys
 
@@ -1179,7 +1509,7 @@ Taksebanekantlys skal gi fast blått lys, og de skal være rundtstrålende og sy
 
 ### § 13-50. Plassering og utforming av stopplysrekke
 
-*Stopplysrekke skal plasseres og utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
+\*Stopplysrekke skal plasseres og utformes i samsvar med de krav som fastsettes av Luftfartstilsynet.
 
 ### § 13-51. Krav til mellomliggende venteposisjonslys
 
@@ -1225,19 +1555,25 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 (1) Flomlys skal ha slik farge at merking av luftfartøy, kjøretøy, hinder, oppstillingsplattform, oppstillingsplasser m.m. og hinderlys kan identifiseres og tjene sin hensikt.
 
-(2) Flomlys skal gi følgende gjennomsnittbelysning:a.Oppstillingsplasser:Horisontalt:20 lux med en fordeling mellom gjennomsnitt og minimum som ikke overstiger 4:1.Vertikalt:20 lux i en høyde av 2 m over plattformen.b.Øvrige deler av plattformen:Horisontalt:50% av gjennomsnittbelysningen for oppstillingsplass.
+(2) Flomlys skal gi følgende gjennomsnittbelysning:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| a. | Oppstillingsplasser: | Horisontalt: | 20 lux med en fordeling mellom gjennomsnitt og minimum som ikke overstiger 4:1. |
+|  |  | Vertikalt: | 20 lux i en høyde av 2 m over plattformen. |
+| b. | Øvrige deler av plattformen: | Horisontalt: | 50% av gjennomsnittbelysningen for oppstillingsplass. |
 
 ### § 13-60. Visuelt dokkinganlegg
 
 (1) Flyplass skal ha visuelt dokkinganlegg dersom det er nødvendig å indikere presis posisjon til luftfartøy på oppstillingsplattform med visuelle hjelpemidler, og det ikke foreligger muligheter for anvendelse av alternative hjelpemidler.
 
-*(2) Luftfartstilsynet kan fastsette nærmere vilkår for visuelt dokkinganlegg når slikt anlegg anses nødvendig i henhold til første ledd.
+\*(2) Luftfartstilsynet kan fastsette nærmere vilkår for visuelt dokkinganlegg når slikt anlegg anses nødvendig i henhold til første ledd.
 
 ### § 13-62. Ledelys for oppstillingsplass
 
 (1) Oppstillingsplass skal ha ledelys dersom det er nødvendig for å lette luftfartøys posisjonering på oppstillingsplass på oppstillingsplattform eller på avisingsplattform og avisingsplass som skal kunne brukes under forhold med dårlig sikt, og det ikke foreligger muligheter for anvendelse av alternative hjelpemidler.
 
-*(2) Luftfartstilsynet kan fastsette nærmere vilkår for ledelys for oppstillingsplass når slike lys anses nødvendig i henhold til første ledd.
+\*(2) Luftfartstilsynet kan fastsette nærmere vilkår for ledelys for oppstillingsplass når slike lys anses nødvendig i henhold til første ledd.
 
 ### § 13-63. Venteposisjonslys for kjøretøy
 
@@ -1257,7 +1593,7 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 ### § 13-66. Krav til reservekraft
 
-*(1) Flyplass med minst en instrumentrullebane skal ha reservekraft til følgende elektriske anlegg:Hinderlys, innflygingsledelys og sirklingslys som er vesentlige for flysikkerheten,Lysanlegg (og tilhørende styringssystemer) i henhold til [§ 13-67](forskrift/2006-07-06-968/§13-67),Flyplassens meteorologiske utstyr,Flomlys av gjerder som er vesentlige for å hindre ulovlig inntrenging,Utstyr og fasiliteter for håndtering av ulykker og ulovlige anslag, herunder kommandorom, brannstasjon og sambandsutstyr/alarmsystemer.
+\*(1) Flyplass med minst en instrumentrullebane skal ha reservekraft til følgende elektriske anlegg:Hinderlys, innflygingsledelys og sirklingslys som er vesentlige for flysikkerheten,Lysanlegg (og tilhørende styringssystemer) i henhold til [§ 13-67](forskrift/2006-07-06-968/§13-67),Flyplassens meteorologiske utstyr,Flomlys av gjerder som er vesentlige for å hindre ulovlig inntrenging,Utstyr og fasiliteter for håndtering av ulykker og ulovlige anslag, herunder kommandorom, brannstasjon og sambandsutstyr/alarmsystemer.
 
 (2) Flyplass som ikke har instrumentrullebane, skal ha reservekraft dersom Luftfartstilsynet bestemmer det.
 
@@ -1269,7 +1605,39 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 (3) Uavhengig kraftforsyning utenfra skal kunne forsyne lysanlegg i henhold til nedenstående tabell fra annen kraftstasjon enn primærforsyningen og gjennom separate forsyningslinjer på en slik måte at sannsynligheten for samtidig bortfall av begge forsyninger er redusert til et minimum.
 
-*(4) Reservekraft skal kunne forsyne lysanlegg i mørke og under IFR-forhold slik at bortfallet av lys ikke varer lenger enn angitt i nedenstående tabell:*Rullebane**Lysanlegg som skal ha reservekraft**Maksimal tid for bortfall av lys*Ikke-instrument rullebaneVisuelt glidebaneanlegg2 min.Rullebanekantlys2 min.Terskel- og baneendelys2 min.Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft.2 min.Ikke-presisjonsrullebaneInnflygingslys15 sek.Visuelt glidebaneanlegg15 sek.Rullebanekantlys15 sek.Terskel- og baneendelys15 sek.Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft15 sek.Presisjonsrullebane kategori IInnflygingslys15 sek.Visuelt glidebaneanlegg15 sek.Rullebanekantlys15 sek.Terskel- og baneendelys15 sek.Taksebanelys til bane i bruk15 sek.Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft15 sek.Presisjonsrullebane kategori II og IIIInnerste 300 m av innflygingslysanlegget1 sek.Resten av innflygingslysanlegget15 sekRullebanekantlys15 sekTerskel- og baneendelys1 sekRullebanesenterlinjelys og landingssonelys1 sekStopplysrekker1 sekTaksebanelys til bane i bruk15 sekHinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft15 sek.Rullebane for start ved rullebanesikt under 800 mRullebanekantlys1 sek.Baneendelys1 sek.Rullebanesenterlinjelys1 sek.Alle stopplysrekker1 sek.Taksebanelys til bane i bruk15 sek.Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft15 sek.
+\*(4) Reservekraft skal kunne forsyne lysanlegg i mørke og under IFR-forhold slik at bortfallet av lys ikke varer lenger enn angitt i nedenstående tabell:
+
+| *Rullebane* | *Lysanlegg som skal ha reservekraft* | *Maksimal tid for bortfall av lys* |
+| --- | --- | --- |
+| Ikke-instrument rullebane | Visuelt glidebaneanlegg | 2 min. |
+|  | Rullebanekantlys | 2 min. |
+|  | Terskel- og baneendelys | 2 min. |
+|  | Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft. | 2 min. |
+| Ikke-presisjonsrullebane | Innflygingslys | 15 sek. |
+|  | Visuelt glidebaneanlegg | 15 sek. |
+|  | Rullebanekantlys | 15 sek. |
+|  | Terskel- og baneendelys | 15 sek. |
+|  | Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft | 15 sek. |
+| Presisjonsrullebane kategori I | Innflygingslys | 15 sek. |
+|  | Visuelt glidebaneanlegg | 15 sek. |
+|  | Rullebanekantlys | 15 sek. |
+|  | Terskel- og baneendelys | 15 sek. |
+|  | Taksebanelys til bane i bruk | 15 sek. |
+|  | Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft | 15 sek. |
+| Presisjonsrullebane kategori II og III | Innerste 300 m av innflygingslysanlegget | 1 sek. |
+|  | Resten av innflygingslysanlegget | 15 sek |
+|  | Rullebanekantlys | 15 sek |
+|  | Terskel- og baneendelys | 1 sek |
+|  | Rullebanesenterlinjelys og landingssonelys | 1 sek |
+|  | Stopplysrekker | 1 sek |
+|  | Taksebanelys til bane i bruk | 15 sek |
+|  | Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft | 15 sek. |
+| Rullebane for start ved rullebanesikt under 800 m | Rullebanekantlys | 1 sek. |
+|  | Baneendelys | 1 sek. |
+|  | Rullebanesenterlinjelys | 1 sek. |
+|  | Alle stopplysrekker | 1 sek. |
+|  | Taksebanelys til bane i bruk | 15 sek. |
+|  | Hinderlys, innflygingsledelys og sirklingslys som skal ha reservekraft | 15 sek. |
 
 (5) For instrumentrullebane skal reservekraften kunne forsyne visuelt glidebaneanlegg, rullebanekantlys og terskellys innenfor en innkoblingstid på 1 sekund dersom innflyging foregår over så vanskelig terreng at det av hensyn til flysikkerheten vurderes nødvendig med så kort innkoblingstid.
 
@@ -1311,7 +1679,13 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 (9) Skilt som skal brukes for flyging i mørke skal være belyst. For ikke-instrument rullebaner kode 1 og 2 er det tilstrekkelig at skiltene er reflekterende.
 
-(10) For belyste skilt skal gjennomsnittsverdien for lysintensitet minst være som i nedenstående tabell. I områder med høy bakgrunnsbelysning skal høyere verdier om nødvendig benyttes. For skilt som ikke skal brukes for flyging med rullebanesikt under 800 m, kan Luftfartstilsynet godkjenne lavere lysintensitet.*Farge**cd/m2*Rød30Gul150Hvit300
+(10) For belyste skilt skal gjennomsnittsverdien for lysintensitet minst være som i nedenstående tabell. I områder med høy bakgrunnsbelysning skal høyere verdier om nødvendig benyttes. For skilt som ikke skal brukes for flyging med rullebanesikt under 800 m, kan Luftfartstilsynet godkjenne lavere lysintensitet.
+
+| *Farge* | *cd/m2* |
+| --- | --- |
+| Rød | 30 |
+| Gul | 150 |
+| Hvit | 300 |
 
 (11) Variable skilt, dvs. skilt som kan variere mht. tegn og symboler, skal være konstruert slik at:de viser blankt når de er avslått,de ikke kan gi feilinformasjon som medfører fare, og slik atdet ikke tar mer enn 5 sekunder å skifte fra én type informasjon til en annen.
 
@@ -1329,7 +1703,7 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 ### § 14-4. Plassering av påbudsskilt
 
-*(1) Venteposisjonsskilt for rullebane skal plasseres på begge sider av taksebanen der venteposisjonen er merket med mønster A i henhold til [§ 12-11](forskrift/2006-07-06-968/§12-11) annet ledd.For taksebane uten fast dekke skal skiltet plasseres der slik venteposisjonen er plassert i henhold til [§ 8-2](forskrift/2006-07-06-968/§8-2).
+\*(1) Venteposisjonsskilt for rullebane skal plasseres på begge sider av taksebanen der venteposisjonen er merket med mønster A i henhold til [§ 12-11](forskrift/2006-07-06-968/§12-11) annet ledd.For taksebane uten fast dekke skal skiltet plasseres der slik venteposisjonen er plassert i henhold til [§ 8-2](forskrift/2006-07-06-968/§8-2).
 
 (2) Venteposisjonsskilt for presisjonsrullebane skal plasseres på begge sider av taksebanen der venteposisjon er merket med mønster B i henhold til [§ 12-11](forskrift/2006-07-06-968/§12-11) tredje ledd.
 
@@ -1345,8 +1719,14 @@ Flomlys skal plasseres og utformes slik at hele plattformen og alle oppstillings
 
 (2) Venteposisjonsskilt for rullebane skal vise rullebanens nummer. Dersom venteposisjonen ikke er ved rullebanens begynnelse, skal skiltet vise begge rullebanenummer slik at retningen til respektive rullebaners begynnelse blir angitt.
 
-*(3) Venteposisjonsskilt for presisjonsrullebane skal også angi aktuell kategori I, II og/eller III.Eksempler:25Angir venteposisjon for innkjøring til begynnelsen av rullebane 25.25 – 07Angir venteposisjon for innkjøring til rullebane;
-begynnelsen av bane 25 til venstre og bane 07 til høyre.25[CAT I](traktat/1984-12-10-1) Angir kategori I-venteposisjon ved begynnelsen av bane 25.25[CAT](traktat/1984-12-10-1) II/III Angir kombinert kategori II og III-venteposisjon til bane 25.
+\*(3) Venteposisjonsskilt for presisjonsrullebane skal også angi aktuell kategori I, II og/eller III.
+
+|  |  |  |
+| --- | --- | --- |
+| Eksempler: | 25 | Angir venteposisjon for innkjøring til begynnelsen av rullebane 25. |
+|  | 25 – 07 | Angir venteposisjon for innkjøring til rullebane;<br>begynnelsen av bane 25 til venstre og bane 07 til høyre. |
+|  | 25 | [CAT I](traktat/1984-12-10-1) Angir kategori I-venteposisjon ved begynnelsen av bane 25. |
+|  | 25 | [CAT](traktat/1984-12-10-1) II/III Angir kombinert kategori II og III-venteposisjon til bane 25. |
 
 (4) Venteposisjonsskilt for taksebane skal vise taksebanens bokstavbetegnelse.
 
@@ -1392,6 +1772,31 @@ Det skal settes opp retningsskilt eller kombinasjon av posisjons- og retningsski
 
 Det skal settes opp startdistanseskilt dersom det av hensyn til flysikkerheten er nødvendig å angi gjenværende startrulledistanse (TORA). Startdistanseskiltet skal settes opp på venstre side av taksebanen og avstanden fra rullebanesenterlinjen skal ikke være mindre enn 60 m fra rullebaner med kodetall 3 og 4, og ikke mindre enn 45 m fra rullebaner med kodetall 1 og 2. Startdistanseskiltet skal angi gjenværende startrulledistanse i meter og en pil som viser retningen for den gjenværende startrulledistanse, jf. vedlegg 5 side 2.
 
+*Tabell 14-A – Minstehøyde på tall og bokstaver*
+
+| *Kodetall* | *Påbudsskilt* | *Informasjonsskilt<br>Retningsskilt* | *Andre skilt* |
+| --- | --- | --- | --- |
+| 1, 2 | 0,3 m | 0,3 m | 0,2 m |
+| 3, 4 | 0,4 m | 0,4 m | 0,3 m |
+
+*Tabell 14-B – Strekbredde på bokstaver, tall og piler*
+
+| *Høyde* | *Bredde på streken som danner tegnet* |
+| --- | --- |
+| 0,2 m | 32 mm |
+| 0,3 m | 48 mm |
+| 0,4 m | 64 mm |
+
+*Tabell 14-C – Skilthøyde og plasseringsavstand*
+
+|  | *Skiltets høyde* | *Total høyde over bakken* |  | *Avstand fra taksebanekant til nærmeste skiltkant* | *Avstand fra rullebanekant til nærmeste skiltkant* |
+| --- | --- | --- | --- | --- | --- |
+| *Kodetall* | *Tegnhøyde* | *(minimum)* | *(maksimum)* |  |  |
+| 1 og 2 | 0,2 m | 0,4 m | 0,7 m | 5 – 11 m | 3 – 10 m |
+| 1 og 2 | 0,3 m | 0,6 m | 0,9 m | 5 – 11 m | 3 – 10 m |
+| 3 og 4 | 0,3 m | 0,6 m | 0,9 m | 11- 21 m | 8 – 15 m |
+| 3 og 4 | 0,4 m | 0,8 m | 1,1 m | 11- 21 m | 8 – 15 m |
+
 ### § 14-12. Skilt for VOR-kontrollpunkt
 
 (1) På flyplass der det er etablert kontrollpunkt for VOR-mottaker, skal det settes opp skilt. Skilt for VOR-kontrollpunkt skal settes opp så nært kontrollpunktet som mulig og slik at teksten er synlig fra førerrommet på luftfartøy som er plassert i henhold til merkingen av kontrollpunktet.
@@ -1434,7 +1839,7 @@ Det skal settes opp startdistanseskilt dersom det av hensyn til flysikkerheten e
 
 (2) Flyplass skal utstyres med gjerder og porter for å forhindre at verken ville eller tamme dyr kan ta seg inn på ferdselsområdet samtidig med at lufttrafikk pågår.
 
-*(3) Flyplass som er omfattet av [forskrift 30. april 2004 nr. 715](forskrift/2004-04-30-715) om forebyggelse av anslag mot sikkerheten i luftfarten (BSL A 2-1), skal ha slik inngjerding og andre sikkerhetsforanstaltninger som der er fastsatt.
+\*(3) Flyplass som er omfattet av [forskrift 30. april 2004 nr. 715](forskrift/2004-04-30-715) om forebyggelse av anslag mot sikkerheten i luftfarten (BSL A 2-1), skal ha slik inngjerding og andre sikkerhetsforanstaltninger som der er fastsatt.
 
 ## Kapittel 16. Krav til flyplassdata
 
@@ -1494,7 +1899,7 @@ For hver av flyplassens rullebaner skal kodetall, kodebokstav og rullebanetype m
 
 (1) Bæreevnen til faste dekker på alle rullebaner, taksebaner og oppstillingsplattformer skal fastsettes.
 
-*(2) Bæreevnen for områder med fast dekke som skal benyttes av luftfartøy med største tillatte startmasse på 5.700 kg eller større skal meddeles Kunngjøringstjenesten for luftfarten etter ACN/PCN (Aircraft Classification Number/Pavement Classification Number) -metoden som inneholder følgende opplysninger:Dekkets klassifiseringsnummer (PCN)OverflatetypeBærelagets styrkeStørste tillate dekktrykkVurderingsmetode.
+\*(2) Bæreevnen for områder med fast dekke som skal benyttes av luftfartøy med største tillatte startmasse på 5.700 kg eller større skal meddeles Kunngjøringstjenesten for luftfarten etter ACN/PCN (Aircraft Classification Number/Pavement Classification Number) -metoden som inneholder følgende opplysninger:Dekkets klassifiseringsnummer (PCN)OverflatetypeBærelagets styrkeStørste tillate dekktrykkVurderingsmetode.
 
 (3) Dekkets klassifiseringsnummer (PCN) skal angi at et luftfartøy med klassifiseringsnummer (ACN) lik eller lavere enn det som er kunngjort av Kunngjøringstjenesten for luftfarten, skal kunne benytte dekket uten begrensing verken for lufttrykk i hjulene eller luftfartøyets totale masse.
 
@@ -1502,19 +1907,19 @@ For hver av flyplassens rullebaner skal kodetall, kodebokstav og rullebanetype m
 
 (5) For å kunne fastsette klassifiseringsnummeret for luftfartøyet (ACN) skal dekkets egenskaper angis som enten hardt eller fleksibelt.
 
-*(6) Informasjon om dekkets egenskaper, styrkekategori, maksimum lufttrykk i hjulene og evalueringsmetode skal meddeles Kunngjøringstjenesten ved bruk av følgende koder:*Dekkets egenskaper:*Hardt dekkeRFleksibelt dekkeF*Styrkekategori:*Høy styrkeAMiddels styrkeBLav styrkeCSvært lav styrkeD*Maksimum lufttrykk i hjulene:*HøytWMiddelsXLavtYSvært lavtZ*Evalueringsmetode:*Teknisk evalueringTBruk av erfaringUKodenes betydning og definisjon skal være som angitt i Annex 14 Vol I til Chicagokonvensjonen.
+\*(6) Informasjon om dekkets egenskaper, styrkekategori, maksimum lufttrykk i hjulene og evalueringsmetode skal meddeles Kunngjøringstjenesten ved bruk av følgende koder:*Dekkets egenskaper:* Hardt dekkeRFleksibelt dekkeF*Styrkekategori:* Høy styrkeAMiddels styrkeBLav styrkeCSvært lav styrkeD*Maksimum lufttrykk i hjulene:* HøytWMiddelsXLavtYSvært lavtZ*Evalueringsmetode:* Teknisk evalueringTBruk av erfaringUKodenes betydning og definisjon skal være som angitt i Annex 14 Vol I til Chicagokonvensjonen.
 
 (7) Flyplassens innehaver skal meddele Kunngjøringstjenesten for luftfarten om bæreevnen for områder med fast dekke som skal nyttes av luftfartøy med største tillatte startmasse på mindre enn 5.700 kg. Meddelelsen skal omfatte følgende opplysninger:Største tillatte totalmasse, ogstørste tillatte lufttrykk i hjulene.Eksempel: 4000 kg/0,50 Mpa.
 
 ### § 16-10. Kontrollplass for høydemåler
 
-*(1) Flyplassens innehaver skal fastsette en eller flere plasser for kontroll av luftfartøys høydemåler.
+\*(1) Flyplassens innehaver skal fastsette en eller flere plasser for kontroll av luftfartøys høydemåler.
 
 (2) Kontrollplassens beliggenhet og høyde i fot skal meddeles Kunngjøringstjenesten for luftfarten. For å kunne oppgi en middelverdi for oppstillingsplattformen, skal ingen punkter på plattformen ha høydeavvik fra middelverdien med mer enn 3 m.
 
 ### § 16-11. Banelengder
 
-*Flyplassens innehaver skal fastsette følgende banelengder for hver rullebane (baneretning), og meddele banelengdene til Kunngjøringstjenesten for luftfarten:Tilgjengelig startrulledistanse (TORA)Tilgjengelig startdistanse (TODA)Tilgjengelig akselerasjons-stopp distanse (ASDA)Tilgjengelig landingsdistanse (LDA).
+\*Flyplassens innehaver skal fastsette følgende banelengder for hver rullebane (baneretning), og meddele banelengdene til Kunngjøringstjenesten for luftfarten:Tilgjengelig startrulledistanse (TORA)Tilgjengelig startdistanse (TODA)Tilgjengelig akselerasjons-stopp distanse (ASDA)Tilgjengelig landingsdistanse (LDA).
 
 ### § 16-12. Visuelt glidebaneanlegg
 
@@ -1532,15 +1937,15 @@ For hver av flyplassens rullebaner skal kodetall, kodebokstav og rullebanetype m
 
 Kunngjøringstjenesten for luftfarten skal stille krav til flyplassoperatører, som skal kunngjøre flyplassdata i AIP Norge, slik at kravene til kunngjøring av flyplassdata i denne forskrift etterkommes.
 
-### § 17-2. Retningslinjer for kunngjøring*
+### § 17-2. Retningslinjer for kunngjøring\*
 
 Kunngjøringstjenesten for luftfarten skal utarbeide regler for flyplassoperatører, som skal kunngjøre flyplassdata i AIP Norge, som sikrer at alle forhold ved flyplassen av midlertidig eller permanent art som kan påvirke flysikkerheten eller flyplassens bruksområde rapporteres til kunngjøringstjenesten for luftfarten uten forsinkelser. Følgende informasjon skal rapporteres:forholdene på ferdselsområdet,nye eller endrede luftfartshinder,operativ status på visuelle hjelpemidler og navigasjons- og kommunikasjonsanlegg,andre forhold av betydning for flysikkerheten.
 
-### § 17-3. Nøyaktighet og integritet*
+### § 17-3. Nøyaktighet og integritet\*
 
 (1) Kunngjøring av flyplassdata skal være i samsvar med den nøyaktighet og integritet som fremgår av Annex 14 til Chicagokonvensjonen.
 
-*(2) Kravene til flyplassdataenes nøyaktighet skal baseres på at 95% av dataene skal være korrekte, og i den forbindelse skal følgende typer posisjonsdata identifiseres:posisjoner befart i marken (for eksempel terskler),beregnede posisjoner (matematisk beregnet fra kjente befarte posisjoner av posisjoner i rommet, fiks),fastsatte posisjoner (for eksempel skillet mellom oppstillingsplattform og manøvreringsområdet).
+\*(2) Kravene til flyplassdataenes nøyaktighet skal baseres på at 95% av dataene skal være korrekte, og i den forbindelse skal følgende typer posisjonsdata identifiseres:posisjoner befart i marken (for eksempel terskler),beregnede posisjoner (matematisk beregnet fra kjente befarte posisjoner av posisjoner i rommet, fiks),fastsatte posisjoner (for eksempel skillet mellom oppstillingsplattform og manøvreringsområdet).
 
 (3) Integriteten til flyplassdataene skal opprettholdes gjennom hele dataprosessen fra opprinnelse til kunngjøring, og det skal tas hensyn til at dataene kan bli forstyrret, forvrengt, ødelagt eller misbrukt. Derfor skal følgende klassifisering og integritetsnivåer benyttes:Kritiske data, integritetsnivå 1 x 10-8 : Det er stor sannsynlighet for at feil ved kritiske data kan resultere i en luftfartsulykke.Viktige data, integritetsnivå 1 x 10-5 : Det er liten sannsynlighet for at feil ved viktige data kan resultere i en luftfartsulykke.Rutinedata, integritetsnivå 1 x 10-3 : Det er liten sannsynlighet for at feil ved rutinedata kan resultere i en luftfartsulykke.
 
@@ -1552,7 +1957,7 @@ Elektroniske data, både lagrede og under overføring, skal overvåkes og beskyt
 
 Geografiske koordinater skal fastsettes og kunngjøres i World Geodetic System 1984 (WGS84). Geografiske koordinater, som er omregnet til WGS84 og der nøyaktigheten i feltarbeidene ikke tilfredsstiller kravene i Annex 14 til Chicago-konvensjonen, skal identifiseres.
 
-### § 17-6. Feltarbeider og befaringer*
+### § 17-6. Feltarbeider og befaringer\*
 
 Feltarbeider og befaringer skal gjennomføres slik at flyplassdataene tilfredsstiller kravene til nøyaktighet i Annex 14 til Chicago-konvensjonen.
 
@@ -1592,7 +1997,7 @@ For flyplasser, som skal kunngjøre flyplassdata i AIP Norge, skal det kunngjør
 
 (2) Fastsettelse av kompenserende tiltak kan unnlates dersom flyplassens utforming etter en konkret vurdering antas å gi tilfredsstillende sikkerhet uten at slike tiltak fastsettes. Ved den konkrete vurderingen kan tas hensyn til den sikkerhetsmessige gevinst som forventes oppnådd ved kompenserende tiltak sammenholdt med de ulemper slike tiltak vil kunne medføre for flyplassens innehaver.
 
-*(3) Avgjørelse om fastsettelse av kompenserende tiltak og det nærmere innhold av slike tiltak treffes i alle tilfelle av Luftfartstilsynet, etter en konkret vurdering for den enkelte flyplass. Flyplassens innehaver skal gis anledning til å utarbeide forslag til kompenserende tiltak, som skal vurderes av Luftfartstilsynet før avgjørelse treffes.
+\*(3) Avgjørelse om fastsettelse av kompenserende tiltak og det nærmere innhold av slike tiltak treffes i alle tilfelle av Luftfartstilsynet, etter en konkret vurdering for den enkelte flyplass. Flyplassens innehaver skal gis anledning til å utarbeide forslag til kompenserende tiltak, som skal vurderes av Luftfartstilsynet før avgjørelse treffes.
 
 ### § 18-4. Ikrafttredelse
 
@@ -1604,21 +2009,43 @@ For flyplasser som eksisterer på tidspunktet for forskriftens ikrafttredelse gj
 
 ## Vedlegg 1 til 5:
 
+[(pdf)](static/SF/sf-20060801-0968-01-01.pdf)
+
 ## Veiledende materiale til forskrift 6. juli 2006 nr. 968 om utforming av store flyplasser (BSL E 3-2)
+
+Oppdatert desember 2008.
 
 > Endret ved [forskrift 16 des 2008 nr. 1468](forskrift/2008-12-16-1468) (i kraft 1 juli 2009).
 
 ### A. Kompenserende tiltak
 
+(Veiledningen om kompenserende tiltak gjelder generelt der hvor dette kan være aktuelt i henhold til forskriften.)
+
+1.*Generelt*
+
+1.1.
+
 Dersom forskriftens krav til utforming av flyplassen ikke etterkommes fullt ut, kan dette delvis kompenseres ved at flyplassen bringes så nært opp til kravene som mulig. De deler av anlegget som ikke tilfredsstiller kravene utformes slik at de flysikkerhetsmessige ideer som ligger til grunn for idealkravene mest mulig tilfredsstilles.
 
+1.2
+
 De mangler som gjenstår etter at anlegget mest mulig tilfredsstiller de flysikkerhetsmessige ideer, kan helt eller delvis kompenseres ved at det stilles spesielle krav til:flyplassens utformingbakketjenestenflyoperasjonene.
+
+1.3
 
 Kompensasjonens omfang avgjøres av i hvilken grad tilfredsstillende sikkerhetsnivå blir opprettholdt for de luftfartøyer som konkret trafikkerer flyplassen. Et forslag til kompenserende tiltak skal underbygges med en risikoanalyse etter anerkjent metode (NS-5814 eller tilsvarende angitt internasjonal standard), slik at det aktuelle avviket er tilstrekkelig beskrevet, risikoene knyttet til avviket er beskrevet, effekten av kompensasjonen er bedømt, og en vurdering om tolererbarhet for den forhøyede risikoen er foretatt.
 
 Det er tilstrekkelig å vurdere relativ risikoendring i forhold til forskriftens krav. Det kan brukes dokumenterte ekspertvurderinger der data ikke finnes. Det skal også vurderes om det foreslåtte kompenserende tiltaket vil føre til forhøyet risiko for andre områder innen flyplassen.
 
+2*Flyplassens utforming*
+
+*Sikkerhetsområdene*
+
+2.1.1*Hensikt*
+
 Hensikten med sikkerhetsområdene er å redusere skader på luftfartøy som kjører ut av rullebanen, lander før terskelen eller overflyr områdene i svært lav høyde.
+
+2.1.2*Utforkjøring*
 
 Dersom områdene omkring rullebanen ikke tilfredsstiller forskriftskravene fullt ut til utstrekning og jevnhet, bør områdene jevnes ut best mulig; skjæringer, grøfter, hauger, stein etc. unngås. Stigende terreng er i denne sammenheng bedre enn fallende med henblikk på å stoppe luftfartøyet. Inntil en rimelig grense er det bedre jo brattere det stigende terrenget er, men dette må vurderes mot kravet til hinderfrihet for overflyging.
 
@@ -1630,19 +2057,35 @@ Dersom de utjevnede delene av omkringliggende terreng utformes for å øke luftf
 
 Dersom den aktuelle rullebane er en presisjonsrullebane og mer enn halvparten av de mest rullebanekrevende luftfartøyene kan operere med en LDA som er minst 150 meter kortere enn den kunngjorte LDA for den aktuelle rullebane, kan Luftfartstilsynet akseptere at sikkerhetsområdets lengde bare er 150 meter etter baneende.
 
+2.1.3*Landing før terskel*
+
 Sikkerhetsområdet som skal redusere skader på luftfartøy som lander før terskel, må primært være helt jevnt og ha god bæreevne. Området foran rullebanen er viktigst.
 
 Dersom området foran terskel med tilstrekkelig jevnhet og bæreevne ikke har foreskrevet lengde eller dersom bredden ikke tilsvarer minst to rullebanebredder, kan dette normalt bare kompenseres fullt ut ved å flytte terskelen lenger inn på rullebanen.
+
+2.1.4*Overflyging i lav høyde*
 
 Sikkerhetsområdet skal danne et hinderfritt område for luftfartøy som må gjennomføre en ikke planlagt overflyging av flyplassen. Slik overflyging kan forekomme til side for senterlinjen, og luftfartøyet kan komme svært lavt.
 
 Innenfor sikkerhetsområdet vil ethvert objekt eller terreng som rager over rullebanenivået utgjøre en hindring for slik overflyging. Utformingsmessig kan slike hindringer kompenseres ved at de gjøres lette og brekkbare, jf. forskriftens krav til objekter som må være på sikkerhetsområdet på grunn av sin funksjon. Terreng kan således, hva gjelder overflyging, ikke utformes slik at det kompenserer for forskriftskravene.
 
+2.1.5*Rullebane likestilt med presisjonsrullebane («presisjonslik rullebane»)*
+
 Luftfartstilsynet kan etter en konkret vurdering akseptere at ikke-presisjonsrullebaner behandles som presisjonsrullebaner i henhold til kravene i forskriften. Dette vil kunne innebære en lemping av kravene på de områder hvor kravene er strengere for ikke-presisjonsrullebaner enn for presisjonsrullebaner. Forutsetningen for at en rullebane skal kunne betraktes som presisjonslik er at den har et visuelt glidebaneanlegg og merket siktepunkt og om nødvendig slikt utstyr at settingspunktet blir med minst samme nøyaktighet som en kategori 1-operasjon.
+
+3.*Bakketjenesten*
+
+3.1*Hensikt*
 
 Hensikten med bakketjenesten er å drifte og vedlikeholde flyplassen slik at Luftfartstilsynets og flyplassens egne krav tilfredsstilles. Bakketjenesten innbefatter plasstjenesten, elektrotjenesten og brann- og havaritjenesten.
 
+3.2*Plasstjenesten*
+
+3.2.1
+
 Plasstjenesten drifter og vedlikeholder ferdselsområdene, sikkerhetsområdene og hinderfriheten, og spesielt vintervedlikehold stiller store krav.
+
+3.2.2
 
 Mangler ved sikkerhetsområdene som ikke permanent er jevnet ut, jf. pkt. 2.1.2 ovenfor, kan helt eller delvis utbedres med snø. Snø i tilstrekkelige mengder og med passende konsistens kan jevne ut grøfter og groper og overgangen mellom planerte og ikke planerte områder. Snø, igjen i tilstrekkelig mengde og med passende konsistens, vil dessuten øke luftfartøyets retardasjon
 
@@ -1650,9 +2093,15 @@ Dersom deler av sikkerhetsområdet består av vann eller myrområder, kan disse 
 
 Bruk av snø og is som kompenserende tiltak vil (selvsagt) bare gjelde deler av året.
 
+3.2.3
+
 En av hensiktene med sikkerhetsområdene er å hindre skader på luftfartøy som kjører ut av rullebanen. Fordi sannsynligheten for utforkjøring i Norge har vist seg størst under vinterforhold, kan derfor økte krav til vintervedlikehold delvis kompensere for mangler ved sikkerhetsområdet.
 
+3.2.4
+
 For store langsgående helninger på taksebanene utgjør primært en risiko fordi det kan føre til redusert kontroll av luftfartøy under taksing, og sannsynligheten er størst under glatte forhold; vann, snø eller is.
+
+4*Flyoperasjonene*
 
 Restriksjoner og tilleggskrav på flyoperatørene vil ikke kunne påregnes å kompensere fullt ut for alle svakheter i flyplassens utforming. Uansett ekstra pålagte krav til trening, operative begrensninger i forhold til minima, vind, banestatus med mer vil uhell likevel kunne forekomme.
 
@@ -1667,6 +2116,8 @@ For en fullstendig gjennomgang av tilleggskravene vises til ovennevnte rapport, 
 ### B. Merknader til de enkelte bestemmelsene
 
 ### Til § 1-4 Definisjoner
+
+*Taksebane*
 
 Ved flyplasser der taksebaner/taksebanesystemer, som nevnt i definisjonens a. og b. utgjør en del av oppstillingsplattformen, inngår disse ikke i manøvreringsområdet (se definisjon) hvor ansvaret for å gi opplysninger og utstede klareringer er tillagt kontrolltårnet, med mindre annet er bestemt og publisert.
 
@@ -1720,6 +2171,8 @@ Nærmere veiledning angående merking er gitt i ICAO Doc 9157, Aerodrome Design 
 
 ### Til § 12-4 Merking av terskel
 
+*Vedrørende sjette ledd:* For merking av midlertidig innflyttet terskel vises til [forskrift 27. april 2004 nr. 670](forskrift/2004-04-27-670) om plasstjeneste (BSL E 4-2) [§ 16](forskrift/2004-04-27-670/§16).
+
 ### Til § 12-16 Merking med sikkerhetslinjer
 
 Sikkerhetslinjer kan for eksempel være avstandslinjer til luftfartøy/vingetupp og veier for kjøretøyer. For å bedre trafikkavviklingen på oppstillingsplattformen, kan det i tillegg til sikkerhetslinjer være aktuelt med trafikkmerking.
@@ -1734,9 +2187,15 @@ Veiledning om brekkbarhet for lysarmaturer, master og andre objekter som utgjør
 
 ### Til § 13-11 Utforming av rullebanekantlys
 
+*Vedrørende femte ledd:* Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikasjonene angitt i Annex 14 Vol I til Chicago-konvensjonen, Appendix 2.
+
 ### Til § 13-14 Utforming av terskellys
 
+*Vedrørende tredje ledd:* Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikasjonene angitt i Annex 14 Vol I til Chicago-konvensjonen, Appendix 2.
+
 ### Til § 13-17 Utforming av baneendelys
+
+*Vedrørende tredje ledd:* Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikasjonene angitt i Annex 14 Vol I til Chicago-konvensjonen, Appendix 2.
 
 ### Til § 13-22 Plassering av hinderlys
 
@@ -1748,7 +2207,15 @@ Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikas
 
 ### Til § 13-25 Enkelt innflygingsanlegg:
 
+*Vedrørende sjette ledd:* Veiledning om monteringstoleranser for lysene i et enkelt innflygingslysanlegg er gitt i Annex 14 Vol I til Chicago-konvensjonen, Attachment A [pkt](forskrift/2006-07-06-968/kap11). 11.
+
 ### Til § 13-26 Kategori I innflygingslysanlegg
+
+*Vedrørende åttende ledd:* Veiledning om monteringstoleranser for lysene i et kategori I innflygingslysanlegg er gitt i Annex 14 Vol I til Chicago-konvensjonen, Attachment A [pkt](forskrift/2006-07-06-968/kap11). 11.
+
+*Vedrørende niende ledd:* Innflygingslysanlegg med høyintensitetslys kan i tillegg ha rundtstrålende lavintensitetslys dersom dette kan velges uten å komme i konflikt med bestemmelsene i [§ 13-32](forskrift/2006-07-06-968/§13-32) og [§ 13-35](forskrift/2006-07-06-968/§13-35).
+
+*Vedrørende tiende til trettende ledd:* Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikasjonene angitt i Annex 14 Vol I til Chicago-konvensjonen, Appendix 2, Figure 2.1.
 
 ### Til § 13-27 Kategori II/III innflygingslysanlegg
 
@@ -1759,6 +2226,10 @@ Luftfartstilsynet vil etter gjeldende praksis normalt legge til grunn spesifikas
 Nærmere informasjon om PAPI- og APAPI-anlegg, herunder harmonisering med instrumentglidebane, er gitt i ICAO Aerodrome Design Manual Part 4.
 
 ### Til § 13-30 Visuelt glidebaneanlegg – PLASI-anlegg
+
+*Generelt:* Eventuelle tilleggskrav til PLASI-anlegg vil etter den praksis som er etablert av Luftfartstilsynet normalt være basert på FAA (Federal Aviation Administration) AC 150/5345-52.
+
+*Vedrørende tredje ledd:* Blinkenes og mellomrommenes lengde angir hvor nær den korrekte glidebanen luftfartøyet befinner seg; lange blink med kort mellomrom nær glidebanen og kortere blink og tilsvarende lange mellomrom jo lenger luftfartøyet er fra glidebanen.
 
 ### Til § 13-31 Hinderflate for visuelt glidebaneanlegg
 
@@ -1801,6 +2272,10 @@ I henhold til Luftfartstilsynets gjeldende praksis skal visuelt dokkinganlegg v�
 I henhold til Luftfartstilsynets gjeldende praksis skal ledelys for oppstillingsplass være i samsvar med Annex 14 Vol I til Chicago-konvensjonen, pkt. 5.3.25 (aircraft stand manoeuvring guidance lights).
 
 ### Til § 13-66 Krav til reservekraft
+
+*Generelt:* Krav til reservekraft for navigasjonshjelpemidler og sambandsutstyr er gitt i Annex 10 Vol I til Chicago-konvensjonen.
+
+*Vedrørende første ledd bokstav a:* Vurderingen av om det er vesentlig for flysikkerheten å ha reservekraft til hinderlys, innflygingsledelys og sirklingslys må skje konkret etter en helhetsvurdering. Følgende momenter kan eksempelvis tillegges vekt ved en slik vurdering:
 
 Dersom innflyging eller utflyging må foregå i sving pga. terreng eller objekt er dette et moment som taler for at det bør etableres reservekraft. Det samme gjelder dersom luftfartøy under innflyging eller utflyging befinner seg i nær avstand til terreng eller objekt både horisontalt og vertikalt.
 

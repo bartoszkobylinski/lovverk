@@ -50,7 +50,13 @@ Trafikkforsikringsforeningen sender kravet til den som er registrert som eier av
 
 ## § 5. Gebyrets størrelse
 
-Gebyr etter denne forskriften skal betales med følgende beløp per påbegynte døgn:*Gebyrgruppe**Kr*1. Moped, traktor, motorredskap, veterankjøretøy502. Personbil, varebil, campingbil, beltebil, motorsykkel, beltemotorsykkel (snøscootere)1503. Buss, lastebil250
+Gebyr etter denne forskriften skal betales med følgende beløp per påbegynte døgn:
+
+| *Gebyrgruppe* | *Kr* |
+| --- | --- |
+| 1. Moped, traktor, motorredskap, veterankjøretøy | 50 |
+| 2. Personbil, varebil, campingbil, beltebil, motorsykkel, beltemotorsykkel (snøscootere) | 150 |
+| 3. Buss, lastebil | 250 |
 
 I tillegg til gebyret som angitt i første ledd, skal Trafikkforsikringsforeningen innkreve avgift etter Stortingets vedtak om avgift på trafikkforskringer og forskrift [11. desember 2001 nr. 1451](forskrift/2001-12-11-1451) om særavgifter [kapittel 3](forskrift/2001-12-11-1451/kap3)-23.
 

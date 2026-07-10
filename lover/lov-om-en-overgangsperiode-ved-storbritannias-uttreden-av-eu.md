@@ -39,3 +39,5 @@ Kongen kan i forskrift forlenge tidsperioden fastsatt i første ledd.
 ## § 3. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Fra 1 feb 2020 iflg. [res. 10 jan 2020 nr. 14](forskrift/2020-01-10-14).

@@ -33,3 +33,5 @@ Kjøperen kan kreve tilbake fra selgeren den del av en betalt billettpris som ov
 ## § 3.
 
 Loven gjelder fra den tid1 Kongen fastsetter.
+
+1 Fra 1 juli 2007 iflg. [res. 29 juni 2007 nr. 733](forskrift/2007-06-29-733).

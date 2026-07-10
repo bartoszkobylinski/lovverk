@@ -130,6 +130,8 @@ Kongen kan ved forskrift gi regler om hvilke navnerettsregler som skal gjelde fo
 
 Loven gjelder fra den tid Kongen1 bestemmer. Fra samme tid opphører [lov 29. mai 1964 nr. 1](lov/1964-05-29-1) om personnamn å gjelde.
 
+1 Iflg. [res. 7 juni 2002 nr. 527](forskrift/2002-06-07-527) Justisdepartementet, som ved [forskr. 14 okt 2002 nr. 1126](forskrift/2002-10-14-1126) bestemte at loven trådte ikr. 1 jan 2003.
+
 ### § 16. Overgangsregler
 
 Den som ved lovens ikrafttredelse har etternavn som består av to navn adskilt av mellomrom, kan selv beholde navnet i denne formen.

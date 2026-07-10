@@ -25,3 +25,5 @@ eu_basis: []
 Kongens myndighet etter [lov av 4. desember 1992 nr. 127](lov/1992-12-04-127) om kringkasting § 2-1 andre ledd til å foreta justeringer i [forskrift av 25. august 1995 nr. 769](forskrift/1995-08-25-769) om konsesjonsområder for lokalfjernsyn1 delegeres til Kultur- og kirkedepartementet.
 
 > Endret ved [forskrift 25 mars 2002 nr. 376](forskrift/2002-03-25-376) (med virkning fra 1 jan 2002).
+
+1 Ved ikrafttredelse 1. januar 2003 av [forskrift av 6. juli 2001 nr. 822](forskrift/2001-07-06-822) om endring av forskrift om konsesjonsområder for lokalfjernsyn vil forskriftens tittel lyde «Forskrift om konsesjonsområder for analogt fjernsyn».

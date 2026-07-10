@@ -26,11 +26,15 @@ eu_basis: []
 
 Romerike og Glåmdal tingrett deles i tre trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Øvre Romerike (rettssted Eidsvoll)
+
 - Eidsvoll kommune
 - Hurdal kommune
 - Nannestad kommune
 - Nes kommune
 - Ullensaker kommune.
+
+Trekningskrets 2 Nedre Romerike (rettssted Lillestrøm)
 
 - Aurskog-Høland kommune
 - Gjerdrum kommune
@@ -38,6 +42,8 @@ Romerike og Glåmdal tingrett deles i tre trekningskretser for meddommere. Kommu
 - Lørenskog kommune
 - Nittedal kommune
 - Rælingen kommune.
+
+Trekningskrets 3 Glåmdal (rettssted Kongsvinger)
 
 - Eidskog kommune
 - Grue kommune

@@ -28,6 +28,8 @@ Kommunens myndighet etter lov om motorferdsel i utmark og vassdrag [10. juni 197
 
 Det er ikke adgang til å legge ut til landingsplasser fjelltopper, utsiktspunkter, breer og andre liknende steder, som bare har interesse i forbindelse med helikopterskiing, for kortvarig opphold, som utgangspunkt for dagsturer, eller for liknende formål.
 
+1 Endret ved departementets gjennomgang våren 1997.
+
 ## § 2.
 
 Denne forskrift trer ikraft straks.

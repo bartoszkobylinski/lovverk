@@ -486,6 +486,8 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes den som un
 
 Loven trer i kraft fra den tid1 Kongen bestemmer.
 
+1 Fra 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575).
+
 ### § 13-2. Overgangsbestemmelser
 
 Departementet kan gi forskrift om overgangsbestemmelser.

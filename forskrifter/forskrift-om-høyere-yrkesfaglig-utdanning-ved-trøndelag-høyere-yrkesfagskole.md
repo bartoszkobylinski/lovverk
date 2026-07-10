@@ -110,7 +110,17 @@ Bestemmelser knyttet til rangering av søkere er regulert i [fagskoleforskriften
 
 (1) Bestemmelser knyttet til poengberegning ved rangering av søkere er regulert i [fagskoleforskriften](forskrift/2019-07-11-1005), i tillegg til bestemmelser i denne forskriften.
 
-(2) Følgende kriterier benyttes ved poengberegning i forbindelse med opptak til THYF:*Beskrivelse**Poeng*Fullført og bestått videregående opplæring med relevant fag-/svennebrev eller generell studiekompetanse. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål.10 poengRelevant praksis uten fagbrev, og med realkompetanse i fellesfagene10 poengKan dokumentere gjennomføring av relevant fag-/svenneprøve etter opptaksfristen (innen utløpet av 1. semester)10 poengRelevant yrkespraksis/fartstid utover det generelle grunnlag for opptak, jf. gjeldende studieplan 1 poeng per 6 md.Maks 10 poengFagprøve med «bestått meget godt»5 poeng for det første, 2 poeng for det andreFor studier hvor opptaksgrunnlaget er Vg2 i skole, gis det gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg2 og tverrfaglig eksamenMultipliseres med 10For studier hvor opptaksgrunnlaget er Vg3 i skole, gis det gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg3 og ev. tverrfaglig eksamenMultipliseres med 10
+(2) Følgende kriterier benyttes ved poengberegning i forbindelse med opptak til THYF:
+
+| *Beskrivelse* | *Poeng* |
+| --- | --- |
+| Fullført og bestått videregående opplæring med relevant fag-/svennebrev eller generell studiekompetanse. Dette omfatter også utdanninger som i dag fører til fag- eller svennebrev, men som i tidligere struktur ble avsluttet med yrkesfaglig eksamen og dokumentert med vitnemål. | 10 poeng |
+| Relevant praksis uten fagbrev, og med realkompetanse i fellesfagene | 10 poeng |
+| Kan dokumentere gjennomføring av relevant fag-/svenneprøve etter opptaksfristen (innen utløpet av 1. semester) | 10 poeng |
+| Relevant yrkespraksis/fartstid utover det generelle grunnlag for opptak, jf. gjeldende studieplan 1 poeng per 6 md. | Maks 10 poeng |
+| Fagprøve med «bestått meget godt» | 5 poeng for det første, 2 poeng for det andre |
+| For studier hvor opptaksgrunnlaget er Vg2 i skole, gis det gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg2 og tverrfaglig eksamen | Multipliseres med 10 |
+| For studier hvor opptaksgrunnlaget er Vg3 i skole, gis det gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg3 og ev. tverrfaglig eksamen | Multipliseres med 10 |
 
 (3) Ved manuell poengberegning fra reform 94 skal søker rangeres på kompetansebeviset. Det vil si at både grunnkurs og VK1 skal regnes med, men overlappende fag skal bare telles med en (1) gang, jf. kunnskapsbasen i Samordna opptak (Wikien).
 
@@ -294,13 +304,16 @@ Vurdering foretas på en slik måte at THYF på et best mulig sikkert grunnlag k
 
 (1) Vurderingsuttrykket ved alle obligatoriske vurderinger skal være «bestått»/«ikke bestått» eller en gradert skala med fem (5) trinn fra A til E.
 
-(2) Følgende graderte karakterskala blir benyttet ved TYHF:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Følgende graderte karakterskala blir benyttet ved TYHF:
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (3) I den enkelte studieplan skal det fremgå hvordan vurdering fastsettes og hvilken vurderingsform som benyttes.
 

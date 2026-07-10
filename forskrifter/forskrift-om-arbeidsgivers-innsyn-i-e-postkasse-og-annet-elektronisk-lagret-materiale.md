@@ -69,3 +69,5 @@ Datatilsynet fører tilsyn med at bestemmelsene i denne forskriften blir overhol
 ## § 7. Ikrafttredelse
 
 Forskriften trer i kraft samtidig med at [lov 15. juni 2018 nr. 38](lov/2018-06-15-38) om behandling av personopplysninger trer i kraft.1
+
+1 I kraft 20 juli 2018, jf. meddelelse 17. juli 2018 nr. 1195.

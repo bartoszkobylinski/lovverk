@@ -755,6 +755,10 @@ Bestemmelsene i [foretakspensjonsloven kapittel 14](lov/2000-03-24-16/kap14) om 
 
 > Endret ved [lov 22 mai 2015 nr. 31](lov/2015-05-22-31) (ikr. 1 jan 2016 iflg. [forskr. 15 des 2015 nr. 1480](forskrift/2015-12-15-1480), tidligere § 8-1).
 
+1 Fra 1 jan 2014 iflg. [res. 13 des 2013 nr. 1444](forskrift/2013-12-13-1444).
+
 ### § 9-2. Endringer i andre lover
+
+– – –
 
 > Endret ved [lov 22 mai 2015 nr. 31](lov/2015-05-22-31) (ikr. 1 jan 2016 iflg. [forskr. 15 des 2015 nr. 1480](forskrift/2015-12-15-1480), tidligere § 8-2).

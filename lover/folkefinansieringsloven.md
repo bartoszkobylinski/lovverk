@@ -23,6 +23,8 @@ eu_basis:
 
 # Lov om folkefinansiering av næringsvirksomhet (folkefinansieringsloven)
 
+Endringer i følgende lover:
+
 1. [Lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven)](lov/2007-06-29-75).
 2. [Lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven)](lov/2015-04-10-17).
 3. [Lov 1. juni 2018 nr. 23 om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsloven)](lov/2018-06-01-23).
@@ -192,6 +194,8 @@ Dersom det er rimelig grunn til å anta at bestemmelser gitt i eller i medhold a
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1. august 2026 iflg. [res. 19 juni 2026 nr. 1152](forskrift/2026-06-19-1152).
+
 ### § 4-2. Overgangsregler
 
 Departementet kan gi nærmere overgangsregler.
@@ -200,26 +204,56 @@ Departementet kan gi nærmere overgangsregler.
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 29. juni 2007 nr. 75 om verdipapirhandel](lov/2007-06-29-75) gjøres følgende endringer:
+
+[§ 7-1 første ledd](lov/2007-06-29-75/§7-1/ledd/1) skal lyde:
+
 (1) [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29bd forordning [(EU) 2017/1129](eu/32017r1129) (om prospekter ved offentlige tilbud og notering på regulert marked ([prospektforordningen](eu/32017r1129))), som endret ved forordning [(EU) 2019/2115](eu/32019r2115) om å fremme bruken av SMB-vekstmarkeder, forordning [(EU) 2020/1503](eu/32020r1503) ([folkefinansieringsforordningen](eu/32020r1503)) og forordning [(EU) 2021/337](eu/32021r0337) om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.
 
-forvaltere av alternative investeringsfond,
+[§ 9-3 første ledd nr. 9](lov/2007-06-29-75/§9-3/ledd/1/nummer/9) og nytt nr. 10 skal lyde:
 
-folkefinansieringsforetak.
+forvaltere av alternative investeringsfond,folkefinansieringsforetak.
+
+**2.** I [lov 10. april 2015 nr. 17 om finansforetak og finanskonsern](lov/2015-04-10-17) gjøres følgende endringer:
+
+[§ 2-1 første ledd](lov/2015-04-10-17/§2-1/ledd/1) skal lyde:
 
 (1) Finansieringsvirksomhet kan bare drives av banker, kredittforetak og finansieringsforetak som etter denne loven har tillatelse til å drive slik virksomhet her i riket, med mindre annet følger av lovgivningen om verdipapirforetak, låneformidlingsforetak, forsikringsformidlingsforetak, forvaltningsselskap for verdipapirfond eller alternative investeringsfond, eiendomsmeglerforetak og folkefinansieringsforetak. Finansieringsvirksomhet kan også drives av utenlandske kredittinstitusjoner som etter denne loven har adgang til å drive slik virksomhet her i riket.
 
-finansiering som bare ytes i enkeltstående tilfeller,
+[§ 2-1 tredje ledd bokstav f](lov/2015-04-10-17/§2-1/ledd/3/bokstav/f) og ny bokstav g skal lyde:
 
-å yte kreditt til næringsvirksomhet via en folkefinansieringsplattform drevet av et folkefinansieringsforetak, med mindre den som yter kreditten, er et finansforetak.
+finansiering som bare ytes i enkeltstående tilfeller,å yte kreditt til næringsvirksomhet via en folkefinansieringsplattform drevet av et folkefinansieringsforetak, med mindre den som yter kreditten, er et finansforetak.
+
+**3.** I [lov 1. juni 2018 nr. 23 om tiltak mot hvitvasking og terrorfinansiering](lov/2018-06-01-23) gjøres følgende endring:
+
+[§ 4 første ledd ny bokstav q](lov/2018-06-01-23/§4/ledd/1/bokstav/q) skal lyde:
 
 folkefinansieringsforetak
+
+**4.** I [lov 18. desember 2020 nr. 146 om finansavtaler](lov/2020-12-18-146) gjøres følgende endringer:
+
+[§ 3-1 sjette ledd](lov/2020-12-18-146/§3-1/ledd/6) skal lyde:
 
 (6) Annet til femte ledd gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2).
 
+[§ 3-22 annet ledd bokstav a](lov/2020-12-18-146/§3-22/ledd/2/bokstav/a) skal lyde:
+
 avtaler om finansoppdrag som ikke er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2)
+
+[§ 3-56 første ledd](lov/2020-12-18-146/§3-56/ledd/1) skal lyde:
 
 (1) [§§ 3-57](lov/2020-12-18-146/§3-57) og [3-58](lov/2020-12-18-146/§3-58) gjelder ikke for tjenester som er omfattet av [verdipapirhandelloven](lov/2007-06-29-75), [verdipapirfondloven](lov/2011-11-25-44) eller [folkefinansieringsloven](lov/2026-02-06-2).
 
+**5.** I [lov 16. desember 2022 nr. 91 om låneformidling](lov/2022-12-16-91) gjøres følgende endring:
+
+[§ 1-1 annet ledd](lov/2022-12-16-91/§1-1/ledd/2) skal lyde:
+
 (2) Loven gjelder ikke for banker, kredittforetak, finansieringsforetak, folkefinansieringsforetak, forsikringsforetak og pensjonskasser.
 
+**6.** I [lov 21. juni 2024 nr. 41 om Finanstilsynet](lov/2024-06-21-41) gjøres følgende endringer:
+
+[§ 1-2 første ledd bokstav s](lov/2024-06-21-41/§1-2/ledd/1/bokstav/s) skal lyde:
+
 folkefinansieringsforetak
+
+Nåværende [bokstav s](lov/2024-06-21-41/§1-2/ledd/1/bokstav/s) til v blir bokstav t til ny bokstav w.

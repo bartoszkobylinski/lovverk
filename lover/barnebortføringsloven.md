@@ -186,7 +186,11 @@ Kongen kan gi forskrift til utfylling og gjennomføring av loven. Kongen kan i f
 
 Loven trer i kraft fra den tid1 Kongen bestemmer. Bestemmelsene om anerkjennelse og fullbyrding av avgjørelser om foreldreansvar og samværsrett og bestemmelsene om tilbakelevering av barn kan settes i kraft fra ulike tider.
 
+1 Iflg res. [17 feb 1989 nr. 93](forskrift/1989-02-17-93) trådte kapitlene I, III, IV og V i kraft 1 apr 1989 og kapittel II i kraft 1 mai 1989.
+
 ## Europeisk konvensjon av 20 mai 1980 om anerkjennelse og fullbyrding av avgjørelser om foreldreansvar og om gjenopprettelse av foreldreansvar.1
+
+1 Jf. [lov 8 juli 1988 nr. 73](lov/1988-07-08-73) om samtykke til ratifikasjon av bl.a. denne konvensjon, og [lov 8 juli 1988 nr. 72](lov/1988-07-08-72) om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m.v. og om tilbakelevering av barn.
 
 De medlemstater i Europarådet som har undertegnet denne konvensjon; Som erkjenner at hensynet til barnets beste er av avgjørende betydning i Europarådets medlemstater når det gjelder vedtak om foreldreansvar; Som tar i betraktning at tiltak for å sikre anerkjennelse og fullbyrding av avgjørelser om foreldreansvar vil føre til bedre vern om barnets beste; Som anser det ønskelig, med dette mål i sikte, å understreke at foreldres rett til samvær er en naturlig oppfølging av foreldreansvaret; Som merker seg det økende antall tilfelle der barn er blitt ulovlig bortført over en statsgrense og vanskene med å finne fullgode løsninger på de problemer som dette fører til; Som ønsker å innføre egnete bestemmelser for å gjenopprette foreldreansvar som er avbrutt på vilkårlig måte; Som er overbevist om at det er ønskelig å treffe tiltak for dette formål som er tilpasset ulike behov og forhold; Som ønsker å opprette samarbeid om rettsspørsmål mellom sine myndigheter, Er enige om følgende:
 
@@ -239,6 +243,8 @@ I denne konvensjon forstås med*barn:* en person av hvilken som helst nasjonalit
 (2) Meddelelser fra sentralmyndigheten i mottakerstaten, herunder resultater av undersøkelser som er gjort, kan skrives på det offisielle språket eller ett av de offisielle språk i mottakerstaten eller på fransk eller engelsk.
 
 (3) Enhver konvensjonstat kan helt eller delvis reservere1 seg overfor bestemmelsene i paragraf (1) punkt (b) i denne artikkel. Når en konvensjonstat har tatt et slikt forbehold, kan enhver annen konvensjonstat også pårope dette forbehold overfor den staten.
+
+1 Norge har tatt forbehold om at meddelelser til sentralmyndigheten ikke kan skrives på fransk språk og heller ikke vedlegges en oversettelse til fransk.
 
 ### Del II. Anerkjennelse og fullbyrding av avgjørelser og gjenopprettelse av foreldreansvar.
 
@@ -311,6 +317,8 @@ Ved gjennomføringen av denne konvensjon kan det ikke kreves legalisering eller 
 (1) Enhver konvensjonstat kan, i de tilfelle som er nevnt i artiklene 8 og 9, eller i en av disse artiklene, ta forbehold1 om å nekte anerkjennelse og fullbyrding av avgjørelser om foreldreansvar av de grunner som er fastsatt i artikkel 10 og som kan angis nærmere i forbeholdet.
 
 (2) Anerkjennelse og fullbyrding av avgjørelser som er truffet i en konvensjonstat som har tatt forbehold i henhold til paragraf (1) i denne artikkel, kan nektes i enhver annen konvensjonstat av alle de tilleggsgrunner som er angitt i forbeholdet.
+
+1 Norge har tatt forbehold om å nekte anerkjennelse og fullbyrding av avgjørelser om foreldreansvar av de grunner som er fastsatt i artikkel 10.
 
 ### Art 18
 
@@ -391,6 +399,8 @@ Etter utgangen av det tredje året som følger etter den dag da denne konvensjon
 (2) Til bekreftelse av foranstående har de undertegnete med behørig fullmakt undertegnet denne konvensjon.Utferdiget i Luxembourg 20 mai 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –
 
 ## Konvensjon av 25 oktober 1980 om de sivile sider ved internasjonal barnebortføring.1
+
+1 Jf. [lov 8 juli 1988 nr. 73](lov/1988-07-08-73) om samtykke til ratifikasjon av bl.a. denne konvensjon, og [lov 8 juli 1988 nr. 72](lov/1988-07-08-72) om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m.v. og om tilbakelevering av barn.
 
 De stater som har undertegnet denne konvensjon; Som er av den faste overbevisning at barnets beste er av største betydning i spørsmål vedrørende foreldreansvar for barnet; Som ønsker å beskytte barnet på internasjonalt nivå mot skadelige virkninger av ulovlig bortføring eller tilbakeholdelse og å fastsette framgangsmåter for å sikre at barnet umiddelbart blir brakt tilbake til den stat der det har sitt bosted, samt å sikre vern av samværsretten; Har besluttet å inngå en konvensjon for dette formål, og er enige om følgende bestemmelser:
 
@@ -526,6 +536,8 @@ Ingen legalisering eller liknende formalitet skal kunne kreves i sammenheng med 
 
 (2) En konvensjonstat kan likevel, ved å ta forbehold1 i samsvar med artikkel 42, motsette seg at enten fransk eller engelsk, men ikke begge språk, blir brukt i søknader, meldinger eller andre dokumenter som sendes til statens sentralmyndighet.
 
+1 Norge har tatt forbehold mot at fransk språk blir brukt i søknader, meldinger eller andre dokumenter som sendes til sentralmyndigheten.
+
 ### Art 25
 
 Statsborgere i en konvensjonstat og personer bosatt i en konvensjonstat skal ha rett til juridisk hjelp og rådgivning i en annen konvensjonstat i saker som angår anvendelsen av denne konvensjon, på samme vilkår som om de selv var statsborgere i og bosatt i denne staten.
@@ -539,6 +551,8 @@ Statsborgere i en konvensjonstat og personer bosatt i en konvensjonstat skal ha 
 (3) En konvensjonstat kan likevel ved å ta forbehold1 som fastsatt i artikkel 42, erklære at den ikke er forpliktet til å bære de kostnader som er nevnt i foregående paragraf og som er knyttet til medvirkning og advokat eller juridisk rådgiver eller til rettsforhandlinger, unntatt når disse kostnader kan dekkes ved statens ordning med fri rettshjelp.
 
 (4) Når en juridisk eller administrativ myndighet påbyr å tilbakelevere et barn eller treffer en beslutning om samværsrett innenfor rammen av denne konvensjon, kan myndigheten, når det er grunn til det pålegge den person som har bortført eller holdt tilbake barnet eller som har hindret utøvingen av samværsrett, å betale alle nødvendige utgifter som har oppstått for søkeren eller på søkerens vegne, herunder reisekostnader, kostnader til søkerens juridiske representant og kostnader i forbindelse med tilbakelevering av barnet, samt kostnader som er oppstått eller utbetalinger som er foretatt for å finne barnet.
+
+1 Norge har tatt forbehold om at Norge ikke er forpliktet til å betale kostnader til rettsforhandlinger eller juridisk rådgiver ved behandling av søknader etter konvensjonen, med mindre disse kostnadene kan kreves dekket etter reglene om fri rettshjelp, jf [lov 13 juni 1980 nr. 35](lov/1980-06-13-35).
 
 ### Art 27
 
@@ -644,19 +658,19 @@ Dersom en konvensjonstat har en styringsform der den utøvede, dømmende og lovg
 
 Utenriksdepartementet i kongeriket Nederland skal underrette konferansens medlemstater samt de stater som har tiltrådt i samsvar med artikkel 38, om:
 
-1. undertegning, ratifikasjon, vedtakelse og godkjenning som nevnt i artikkel 37;
+1\. undertegning, ratifikasjon, vedtakelse og godkjenning som nevnt i artikkel 37;
 
-2. tiltreding som nevnt i artikkel 38;
+2\. tiltreding som nevnt i artikkel 38;
 
-3. den dato konvensjonen trer i kraft i samsvar med bestemmelsene i artikkel 43;
+3\. den dato konvensjonen trer i kraft i samsvar med bestemmelsene i artikkel 43;
 
-4. utviding som nevnt i artikkel 39;
+4\. utviding som nevnt i artikkel 39;
 
-5. erklæring som nevnt i artiklene 38 og 40;
+5\. erklæring som nevnt i artiklene 38 og 40;
 
-6. forbehold som nevnt i artikkel 24 og artikkel 26 paragraf (3), og tilbaketrekking av forbehold som nevnt i artikkel 42;
+6\. forbehold som nevnt i artikkel 24 og artikkel 26 paragraf (3), og tilbaketrekking av forbehold som nevnt i artikkel 42;
 
-7. oppsiing som nevnt i artikkel 44.Til bekreftelse av foranstående har undertegnete med behørig fullmakt undertegnet denne konvensjon.Utferdiget i Haag 25 oktober 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –Den fjortende sesjon anbefaler de stater som er parter i Konvensjonen om de sivile sider ved internasjonal barnebortføring å bruke det mønster til blankett som følger nedenfor ved søknader om tilbakelevering av barn som er ulovlig bortført eller holdt tilbake:
+7\. oppsiing som nevnt i artikkel 44.Til bekreftelse av foranstående har undertegnete med behørig fullmakt undertegnet denne konvensjon.Utferdiget i Haag 25 oktober 1980 på fransk og engelsk, idet de to tekstene har samme gyldighet, i ett eksemplar – – –Den fjortende sesjon anbefaler de stater som er parter i Konvensjonen om de sivile sider ved internasjonal barnebortføring å bruke det mønster til blankett som følger nedenfor ved søknader om tilbakelevering av barn som er ulovlig bortført eller holdt tilbake:
 
 ### Søknad om tilbakelevering
 

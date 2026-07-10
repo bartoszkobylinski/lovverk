@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Finansdepartementet etter lov 15. juni 2007 nr. 29 om endringer i forsikringsloven (fellespensjonskasser) del II
 
 Kongens myndighet etter lovvedtaket del II delegeres til Finansdepartementet.1
+
+1 Kongens myndighet etter [lov 15. juni 2007 nr. 29](lov/2007-06-15-29) om endringer i forsikringsloven (fellespensjonskasser) del II delegeres til Finansdepartementet.

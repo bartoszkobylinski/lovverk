@@ -52,15 +52,33 @@ I produktforskriften § 3, om vilkår for bruk av produktbetegnelsen, har vi der
 
 Nedenfor følger til informasjon og som et hjelpemiddel ved lesing av § 3 i produktforskriften, engelsk versjon av det oppdaterte Single document for Prosciutto di Parma slik det det fremgår av vedlegg II i forordning [(EU) nr. 148/2010](eu/32010r0148). Ingen av de rettslige dokumentene som ligger til grunn for beskyttelse av betegnelsen i EU vil bli oversatt til norsk. Teksten nedenfor er som nevnt innledningsvis kun ment til informasjon og er ikke en del av forskriften.
 
+SINGLE DOCUMENT
+
+Council Regulation [(EC) No 510/2006](eu/32006r0510) on the protection of geographical indications and designations of origin«PROSCIUTTO DI PARMA»EC No: IT-PDO-0217-0067- 30.01.2009PGI ( ) PDO (X)
+
+1\. NAME
+
 «Prosciutto di Parma».
+
+2\. MEMBER STATE OR THIRD COUNTRY
 
 Italy.
 
+3\. DESCRIPTION OF THE AGRICULTURAL PRODUCT OR FOODSTUFF
+
+3.1. Type of product
+
 Class 1.2. Meat-based products.
+
+3.2. Description of the product to which the name in (1) applies
 
 Aged raw ham; identified by a heat-affixed logo on the hide; with a rounded external shape; the distal part (the foot) and any external imperfections that may compromise the product image are removed, trimming to leave a maximum of 6 cm of meat standing proud of the head of the femur; normally 8–10 kg in weight but never less than 7 kg; colour when cut: uniform pink to red, interspersed with pure white where fat is present; aroma and taste: delicate and sweet-tasting meat, not very salty with a typical fragrant aroma; specific response to precise analytical criteria measuring water content, salt and protein breakdown; after the logo is affixed, «Prosciutto di Parma» may be marketed whole, boned, packaged into pieces of variable weights and shapes or sliced and packaged appropriately.
 
+3.3. Raw materials (for processed products only)
+
 The raw material (fresh hind legs) used for the production of «Prosciutto di Parma» is characterised by the following aspects: the consistency of the fat is rated by calculating the iodine index and/or linoleic acid content taken in the internal and external fat layers of subcutaneous panniculus adiposus in the hind leg. Each sample must have a maximum iodine index of 70 and a maximum linoleic acid content of 15 %; the depth of the fat covering of the external part of the fresh, trimmed hind leg, measured vertically from the top of the femur («sottonoce»), must be approximately 20 mm for fresh hind legs used for the production of «Prosciutto di Parma» weighing between 7 and 9 kg and 30 mm for fresh hind legs used for the production of «Prosciutto di Parma» weighing more than 9 kg. The depth of this fat layer must not be less than 15 mm and 20 mm, respectively, for the two categories of fresh hind legs, including the rind. At the «crown», the layer of fat must be such that the rind cannot separate from the underlying layer of muscle fibre. Fresh trimmed hind legs should preferably weigh between 12 and 14 kg but must never weigh less than 10 kg.
+
+3.4. Feed (for products of animal origin only)
 
 Authorised feed, quantities and instructions for use are listed in two tables – the first contains authorised feed for animals with a live weight of up to 80 kg, the second with feed authorised during the fattening phase. Feed is to be administered preferably in liquid form (gruel or wet mash), traditionally with added whey.
 
@@ -68,9 +86,15 @@ During the first phase, the level of dry matter in the grain must be at least 45
 
 During the second phase (fattening), the level of dry matter in the grain must be at least 55 % of the total matter and the permitted feedstuffs are as follows: corn, wet mash from grains and/or ears of corn, sorghum, barley, wheat, triticale, oats, minor cereals, bran and other wheat-processing by-products, dehydrated potatoes, pressed and ensiled beet pulp, linseed oilcakes, dried beet pulp, apple and pear pulp, grape and tomato skins as agents assisting intestinal passage, whey, buttermilk, lucerne meal, molasses, meal from soybean, sunflower seed, sesame, coconut, corn germs, peas and/or other legume seeds, beer yeast, torula yeast and other yeasts, fats with a melting point higher than 40 °C.
 
+3.5. Specific steps in production that must take place in the identified geographical area
+
 The production and ageing steps must take place in the production area specified in (4) in order to guarantee the quality, traceability and monitoring of the product.
 
+3.6. Specific rules concerning slicing, grating, packaging, etc.
+
 After the logo is affixed, «Prosciutto di Parma» may be sold whole, boned, in pieces of variable weights and shapes or sliced, and packaged appropriately. In the case of the latter, the slicing and packaging processes must be carried out in the production area specified in (4) and the distinctive PDO logo must be affixed to the package in such a way that it is indelible and cannot be removed, in accordance with the instructions set out in (3.7) below, so as to guarantee the quality characteristics typical of «Prosciutto di Parma» and the full traceability of the product.
+
+3.7. Specific rules concerning labelling
 
 Although not part of the labelling, the first identifying feature of «Prosciutto di Parma» that distinguishes it from other products on the market is the «duke's crown» (heat-affixed mark reproducing the image of a five-point crown accompanied by the wording «Parma»). This mark fulfils a double function: firstly, it distinguishes the product from other raw hams and guarantees its authenticity (identifying mark) and secondly, it guarantees that the product itself has undergone all the proper production steps and that it has been identified by the operators in question during each of those steps. The lawful use of the PDO is subject to the presence of the logo: without the «duke's crown» the name in question may not be used to designate the product on labels, packaging or in sales documents, nor may it be used during commercial transactions (whole, sliced and prepackaged, or for retail sale in portions).
 
@@ -84,13 +108,23 @@ For sliced, pre-packaged «Prosciutto di Parma»the packages display a common se
 
 The use of adjectives such as «classic», «authentic», «extra», «super» or any other qualifying term or attribute added to the marketed product and other words not specifically provided for in the product specification is prohibited, except for the terms «disossato» (boned) and «affettato» (sliced).
 
+4\. CONCISE DEFINITION OF THE GEOGRAPHICAL AREA
+
 «Prosciutto di Parma» is produced in the defined area in the Province of Parma which includes the territory of the Province of Parma (in the Region of Emilia-Romagna, Italy) that lies no less than 5 km south of the Via Emilia at an altitude of no more than 900 metres, and bordered to the east by the Enza river and to the west by the Stirone river.
 
 The raw materials originate from a larger geographical area than the production area, which covers the following administrative regions: Emilia-Romagna, Veneto, Lombardy, Piedmont, Molise, Umbria, Tuscany, Marche, Abruzzi, Lazio (Italy).
 
+5\. LINK WITH THE GEOGRAPHICAL AREA
+
+5.1. Specificity of the geographical area
+
 The specific characteristics of «Prosciutto di Parma» and the guarantee of compliance with strict quality, hygiene and food safety standards are all closely linked to environmental conditions and to natural and human factors. Within the defined geographical macro region, only a few rare restricted areas with unique, inimitable conditions and specific human skills have developed as production areas for hams with a designation. The production area for «Prosciutto di Parma», a small part of the Province of Parma, is one of those restricted areas. The location of this micro area gives it its characteristic and unique ecological, climatic and environmental conditions brought about by the sea air from Versilia which, having calmed down after passing through the olive groves and pine belts of Val di Magra, shedding its moisture onto the passes of the Apennines and acquiring the rich fragrance of chestnut groves, dries «Prosciutto di Parma» and lends it its exclusive sweet aroma.
 
+5.2. Specificity of the product
+
 «Prosciutto di Parma» is a raw ham that has been aged for a period of at least 12 months; the only ingredients permitted are pork and salt. The finished product has a rounded external shape and the distal part (the foot) has been removed, with a maximum of 6 cm of meat standing proud of the head of the femur. The aged product normally weighs 8–10 kg, but never less than 7 kg; the colour when cut is uniform pink to red, interspersed with pure white where fat is present; the meat has a delicate, sweet flavour, is not very salty and has a fragrant and characteristic aroma. In analyses, the product satisfies precise criteria relating to water content (59–64 %), salt (4,5–6,9 %) and protein breakdown (24–31).
+
+5.3. Causal link between the geographical area and a specific quality, the reputation or other characteristic of the product
 
 The production criteria that allow the PDO «Prosciutto di Parma» to be conferred are closely linked to environmental conditions and to natural and human factors. There is a close link between the raw material and «Prosciutto di Parma» which, coupled with production trends and the socio-economic development of the geographic area, have produced unique qualities. The characteristics of the raw material have been utterly specific to the defined macro region of central, northern Italy (as specified in the second paragraph of (4)) since Etruscan times.
 
@@ -101,5 +135,7 @@ Parma is situated at the heart of the ancient lands of Cisalpine Gaul whose inha
 There are various written sources referring to the ham and its method of preparation, notably in the 1913 Chamber of Commerce lists, which mention the current production region. Traditionally, the first step was only a small-scale activity. Now, it has developed into more of an industrialised process – but one which nevertheless preserves the traditional characteristics of the product.
 
 The origin of the product is documented from a historical perspective, also with regard to the area of origin of the raw material as this production is the culmination of the typical rural culture common to the entire macro region mentioned above which is concentrated in a particular part of the Province of Parma because of the inimitable microclimate and environmental conditions there.
+
+REFERENCE TO PUBLICATION OF THE SPECIFICATION
 
 The Government has launched the national objection procedure for the proposal to amend the «Prosciutto di Parma» protected designation of origin. The full text of the product specification is available on the following website: http://www.politicheagricole.it/DocumentiPubblicazioni/Search_Documenti_Elenco.htm?txtTipoDocumento=Disciplinare%20in%20esame%20UE&txtDocArgomento=Prodotti%20di%20Qualit%E0

@@ -150,6 +150,119 @@ Forskriften trer i kraft 1. juli 2001.
 
 ### Part A: General
 
+|  |  |  |
+| --- | --- | --- |
+| 1. NAME OF RESEARCH SHIP | CRUISE NO. |  |
+| 2. DATES OF CRUISE | From: | To: |
+| 3. OPERATING AUTHORITY: |  |  |
+| TELEPHONE: |  |  |
+| TELEFAX: |  |  |
+| TELEX: |  |  |
+| 4. OWNER<br>(if different from no. 3) |  |  |
+| 5. PARTICULARS OF SHIP: |  |  |
+|  | Name: |  |
+|  | Nationality: |  |
+|  | Overall length: | metres |
+|  | Maximum draught: | metres |
+|  | Net tonnage: |  |
+|  | Propulsion: | Diesel |
+|  | Call sign: |  |
+|  | Registration port and number<br>(if registered fishing vessel) |  |
+| 6. CREW | Name of master: |  |
+|  | Number of crew: |  |
+| 7. SCIENTIFIC PERSONNEL |  |  |
+|  | Name and address of scientist in charge: |  |
+|  | Tel/telex/fax no.: |  |
+|  | No. of scientists: |  |
+| 8. GEOGRAPHICAL AREA IN WHICH SHIP WILL OPERATE (with reference to latitude and longitude) |  |  |
+| 9. BRIEF DESCRIPTION OF PURPOSE OF CRUISE |  |  |
+| 10. DATES AND NAMES OF INTENDED PORTS OF CALL |  |  |
+| 11. ANY SPECIAL REQUIREMENTS AT PORTS OF CALL |  |  |
+
 ### Part B: Details
 
+|  |  |  |
+| --- | --- | --- |
+| 1. NAME OF RESEARCH SHIP | CRUISE NO. |  |
+| 2. DATES OF CRUISE | From: | To: |
+| 3. |  |  |
+| a) PURPOSE OF RESEARCH |  |  |
+| b) GENERAL OPERATIONAL METHODS (including full description of any fish gear, trawl type, mesh size, etc.) |  |  |
+| 4. ATTACH CHART showing (on an appropriate scale) the geographical area of intended work, positions of intended stations, tracks of survey lines, positions of moored/seabed equipment, areas to be fished |  |  |
+| 5. |  |  |
+| a) TYPES OF SAMPLES REQUIRED (e.g., geological/water/plankton/fish/radionuclide) |  |  |
+| b) METHODS OF OBTAINING SAMPLES (e.g., dredging/coring/drilling/fishing, etc. When using fishing gear, indicate fish stocks being worked, quantity of each species required, and quantity of fish to be retained on board). |  |  |
+| 6. DETAILS OF MOORED EQUIPMENT |  |  |
+| Dates |  |  |
+| Laying Recovery Description Depth Latitude Longitude |  |  |
+| 7. ANY HAZARDOUS MATERIALS (chemicals/explosives/gases/radioactives, etc.<br>(Use separate sheet if necessary) |  |  |
+| a) Type and trade name NIL |  |  |
+| b) Chemical content (and formula) NIL |  |  |
+| c) IMO IMDG code (reference and UN no.) NIL |  |  |
+| d) Quantity and method of storage on board NIL |  |  |
+| e) If explosives give dates of detonation NIL |  |  |
+| - Method of detonation |  |  |
+| - Position of detonation |  |  |
+| - Frequency of detonation |  |  |
+| - Depth of detonation |  |  |
+| - Size of explosive charge in kg. |  |  |
+| 8. DETAIL AND REFERENCE OF |  |  |
+| a) Any relevant previous/future cruises |  |  |
+| b) Any previously published research data relating to the proposed cruise |  |  |
+| 9. NAMES AND ADDRESSES OF SCIENTISTS OF THE COASTAL STATE(S) IN WHOSE WATERS THE PROPOSED CRUISE TAKES PLACE WITH WHOM PREVIOUS CONTACT HAS BEEN MADE |  |  |
+| 10. STATE |  |  |
+| a) Whether visits to the ship in port by scientists of the coastal state concerned will be acceptable (Yes/No) |  |  |
+| b) Participation of an observer from the coastal state for any part of the cruise together with the dates and the ports for embarkation and disembarkation |  |  |
+| c) When research data from the intended cruise are likely to be made available to the coastal state and by what means |  |  |
+
 ### Part C. Scientific equipment
+
+Complete the following table using a separate page for each coastal state
+
+|  |  |
+| --- | --- |
+|  | Coastal state |
+|  | Port of call |
+|  | Dates |
+
+Indicate «YES» or «NO»
+
+|  |  |  |  | *Distance from coast* |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| List scientific work by function |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| e.g. |  |  |  |  |  |  |
+| Magnetometry | Water column including sediment sampling of the seabed | Fisheries research within fisihing limits | Research concerning the natural resources of the continental shelf or its physical characteristics |  |  |  |
+|  |  |  |  |  |  |  |
+| Gravity |  |  |  |  |  |  |
+| Diving |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Seismics |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Seabed sampling |  |  |  | Within | Between | Between |
+|  |  |  |  |  |  |  |
+| Bathymetry |  |  |  | 4 nm | 4-12 nm | 12-200 nm |
+|  |  |  |  |  |  |  |
+| Trawling |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Echo sounding |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Water sampling |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| U/W TV |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Moored instr. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Towed instr. |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(On behalf of the Principal Scientist)
+
+Dated
+
+NB. If any details are materially changed regarding dates/area of operation after this form has been submitted, the coastal state authorities must be notified immediately.

@@ -330,3 +330,5 @@ Når lovlig og ulovlig fangst er blandet sammen, kan hele fangsten inndras.
 6. Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved [lov 17 des 2004 nr. 88](lov/2004-12-17-88) (tidligere § 30).
+
+1 Fra 1 jan 2000 iflg. [res. 19 nov 1999 nr. 1178](forskrift/1999-11-19-1178).2 Fra 1 jan 2013 iflg. [forskr. 7 des 2012 nr. 1144](forskrift/2012-12-07-1144).

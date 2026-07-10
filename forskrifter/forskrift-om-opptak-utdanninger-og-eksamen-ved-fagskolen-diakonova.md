@@ -374,10 +374,16 @@ Listen er ikke uttømmende.
 
 (3) Fagskolen Diakonova benytter både en gradert karakterskala (A til F) og bestått/ikke bestått som vurderingsuttrykk.
 
-(4) Vurderingsuttrykket med gradert skala har fem trinn fra A til E for bestått og F for ikke bestått.SymbolBetegnelseGenerell, ikke fagspesifikk beskrivelse av vurderingskriterierAFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(4) Vurderingsuttrykket med gradert skala har fem trinn fra A til E for bestått og F for ikke bestått.
+
+| Symbol | Betegnelse | Generell, ikke fagspesifikk beskrivelse av vurderingskriterier |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (5) Vurderingsuttrykket med bestått / ikke bestått skal oppfylle kravene til læringsutbytte og viser nødvendig kunnskap, ferdighet og kompetanse.
 

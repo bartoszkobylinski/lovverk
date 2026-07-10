@@ -50,3 +50,9 @@ Sommarbeitet i Jotunheimen og Filefjell ligg gjennomgåande i høgfjellet og er 
 Medlemmane i tamreinlaga har opparbeid seg høg kompetanse om tamreindrift, noko som visar seg i høgt og stabilt slakteuttak og høg kalvetilvekst.
 
 ### Kart over beiteområder Rein frå Jotunheimen/Rein fra Jotunheimen
+
+Alle beiteområder:
+
+Vår-, sommer- og høstbeite:
+
+Vinterbeite:

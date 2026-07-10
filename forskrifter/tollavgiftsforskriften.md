@@ -100,6 +100,8 @@ Ved gjeninnførsel av industrivarer kan tollmyndighetene dispensere fra vilkåre
 
 ### § 4-1. Preferensiell opprinnelse
 
+*Preferensiell opprinnelse – frihandelsavtaler*
+
 ### § 4-1-1. Opprinnelsesprodukter
 
 (1) Vilkårene i følgende frihandelsavtaler for at produkter skal anses som opprinnelsesprodukter, gjelder som forskrift:[avtalen om opprettelse av Det europeiske økonomiske samarbeidsområde (EØS-avtalen) protokoll 4](avtale/avt-1992-05-02-1-p4)[konvensjonen om opprettelse av Det europeiske frihandelsforbund (EFTA) vedlegg A](https://www.efta.int/sites/default/files/uploads/2024-04/EFTA%20Convention%20Annex%20A.pdf)[avtale mellom Norge og Det europeiske økonomiske fellesskap (EØF) protokoll 3](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22021D1905)[frihandelsavtalen EFTA–Albania protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/albania/annexes-protocols/EFTA-Albania-JCD1_2021-PROTOCOL-B.pdf)[frihandelsavtalen EFTA-Bosnia-Hercegovina, vedlegg IX](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/bosnia-and-herzegovina/annexes-protocol/EFTA_BiH_FTA_Annex%20IX.pdf)[frihandelsavtalen EFTA–Canada vedlegg C](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/canada/oversettelse_vedlegg-c---opprinnelse-juli09.pdf)[frihandelsavtalen EFTA–Chile vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/chile/roo1.pdf)[frihandelsavtalen EFTA–Colombia vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/columbia/5_columbia_frihandel_vedlegg_v_opprinnelse.pdf)[frihandelsavtalen EFTA–Costa Rica og Panama vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/costa-rica-og-panama/vedlegg-1-opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Ecuador vedlegg I](https://www.toll.no/contentassets/04a008fb29eb4590b36c7eac5c1f31ac/efta-ecuador---opprinnelsesreglene.pdf)[frihandelsavtalen EFTA–Egypt protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/egypt/Annexes%20and%20Protocols/EFTA%20EG%20FTA%20-%20Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA–Filippinene vedlegg I](https://www.toll.no/files/59d23fc72bd937371544714a4fa10fa1512daba6.pdf)[frihandelsavtalen EFTA-Georgia, vedlegg II](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/georgia/GE_FTA-Annex_II-Rules_of_Origin.pdf)[frihandelsavtalen EFTA–GCC (Gulf Co-operation Council) vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/gcc/vedlegg-1.pdf)[avtale mellom Norge og Danmark om handelen mellom Norge og Grønland artikkel 4](https://www.toll.no/files/9ec9bf8c4976acdff7b684c3a61d12e9d3dcc159.pdf) jf. [§ 4-1-1 første ledd nr. 2](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/2) og [3](forskrift/2022-10-27-1938/§4-1-1/ledd/1/nummer/3).[frihandelsavtalen EFTA–Hongkong vedlegg IV](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/hong-kong/vedlegg_1---opprinnelsesregler.pdf)[frihandelsavtalen EFTA-India vedlegg 2.A](https://www.regjeringen.no/contentassets/36e8e1ca786e4733bcdee261bf16f2fa/no/sved/01no.pdf)[frihandelsavtalen EFTA–Indonesia vedlegg I](https://www.toll.no/contentassets/f595104429cc41ba95ed9c786102bae8/vedlegg-i---opprinnelsesregler---indonesia.pdf)[frihandelsavtalen EFTA–Israel protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/israel/Record%20of%20Understanding%20Annexes%20and%20Protocols/Protocol%20B%20-%20Rules%20of%20Origin.pdf)[frihandelsavtalen EFTA-Jordan protokoll B](https://www.efta.int/sites/default/files/uploads/2025-06/EFTA-Jordan%20%E2%80%93%20Joint%20Committee%20Decision%20No%201%20of%202025%20incorporating%20Revised%20PEM%20Convention.pdf)[frihandelsavtalen EFTA–Libanon protokoll B](https://www.efta.int/sites/default/files/media/documents/legal-texts/free-trade-relations/lebanon/annexes-rou-jd/3391CE3F49044019993F180899D7190D.pdf)[frihandelsavtalen EFTA–Marokko protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/morocco/annexes-protocols-rou-en/EFTA-Morocco%20Protocol%20B%20Originating%20products.pdf)[frihandelsavtalen EFTA–Mexico vedlegg I](https://www.toll.no/contentassets/b77a459c40ec48d9aaa27936c38147d1/opprinnelsesreglerl.pdf)[frihandelsavtalen EFTA-Moldova vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/moldova/EFTA-Moldova_Annex_Rules_of_Origin.pdf)[frihandelsavtalen EFTA–Montenegro vedlegg VIII](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/montenegro/EFTA-ME%20FTA%20-%20Annex%20VIII%20-%20Rules%20of%20Origin.PDF)[frihandelsavtalen EFTA–Nord-Makedonia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/macedonia/EFTA-North%20Macedonia%20Protocol%20B%20-%202022.pdf)[frihandelsavtalen EFTA–Peru vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/peru/opprinnelsesregler-peru.pdf)[interim frihandelsavtale EFTA–PLO på vegne av Den palestinske selvstyremyndighet protokoll B](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/plo/prot-b.nor.pdf)[frihandelsavtalen EFTA–Den sørafrikanske tollunion SACU vedlegg V](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sacu/opprinnelsesreglenesacu.pdf)[frihandelsavtalen EFTA–Serbia protokoll B](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/serbia/annexes-protocols-declaration/EFTA-Serbia-JCD-1_2021-Protocol-B.pdf)[frihandelsavtalen EFTA–Singapore vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/singapore/sg-no-vedlegg-1roo.pdf)[frihandelsavtalen Norge-Storbritannia vedlegg I](https://www.toll.no/contentassets/969794f45891449fa98e45ef6007f228/frihandelsavtale-med-storbritannia---vedlegg-i---opprinnelsesregler.pdf)[frihandelsavtalen EFTA–Sør-Korea vedlegg I](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/sor-korea/2-vedlegg-i-opprinnelsesregler-og-tollprosedyrer-norsk.pdf)[frihandelsavtalen EFTA-Tunisia protokoll B](https://www.efta.int/sites/default/files/uploads/2024-10/EFTA-Tunisia%20-%202nd%20Joint%20Committee%20meeting%20Decision%201-2024%20%289%20October%202024%29.pdf)[frihandelsavtalen EFTA–Tyrkia vedlegg I](https://www.efta.int/sites/default/files/documents/legal-texts/free-trade-relations/turkey/Goods%2BCustoms/EFTA-Turkey%20-%20Annex%20I%20-%20Rules%20of%20Origin%20and%20Methods%20of%20Administrative%20Cooperation.pdf)[frihandelsavtalen EFTA–Ukraina protokoll om opprinnelsesregler](https://www.toll.no/globalassets/00-upload/avtaler/frihandelsavtaler/ukraina/vedlegg-1--protokoll_opprinnelsesregler.pdf)[frihandelsavtalen Norge-Færøyene vedlegg 3](https://www.toll.no/files/752d23495e2f7669213ba7cadc9832f6349d9f7f.pdf)
@@ -145,6 +147,8 @@ Ved innførsel til private formål kan preferansetollavgift dokumenteres med erk
 (2) Dersom tollmyndighetene ikke innen fristen som er fastsatt i frihandelsavtalen, har mottatt svar fra eksportlandets kompetente myndighet, eller svaret ikke inneholder tilstrekkelig informasjon til å fastslå produktets opprinnelse eller at opprinnelsesbeviset er ekte, skal tollmyndighetene fastsette tollavgift med ordinær sats med mindre tollmyndighetene ikke finner grunn til å tvile på opprinnelsen.
 
 (3) Tollmyndighetene kan, i påvente av resultatene fra verifisering etter annet ledd, utsette fastsettingen av preferansetollavgift dersom det foreligger indikasjoner på at vilkårene for preferansetollavgift ikke er oppfylt. Dersom tollmyndighetene beslutter utsettelse, skal de på nærmere vilkår tilby at varen underlegges prosedyren overgang til fri disponering.
+
+*Preferensiell opprinnelse – GSP-ordningen*
 
 ### § 4-1-7. Definisjoner
 
@@ -451,8 +455,8 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 - Bhutan
 - Burkina Faso
 - Burundi
-- Den sentralafrikanske republikk*
-- Djibouti*
+- Den sentralafrikanske republikk\*
+- Djibouti\*
 - Eritrea
 - Etiopia
 - Gambia
@@ -479,11 +483,11 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 - Senegal
 - Sierra Leone
 - Salomonøyene
-- Somalia*
+- Somalia\*
 - Sudan
-- Sør-Sudan*
+- Sør-Sudan\*
 - Tanzania
-- Tsjad*
+- Tsjad\*
 - Øst-Timor
 - Togo
 - Tuvalu
@@ -495,9 +499,11 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 
 ### Land med preferansetollavgift som andre lavinntektsland med befolkning med mindre enn 75 millioner innbyggere
 
-- Korea, Den demokratiske republikken*
-- Syria*
+- Korea, Den demokratiske republikken\*
+- Syria\*
 - Zimbabwe.
+
+\* Land som ikke har notifisert norske myndigheter etter tollavgiftsforskriften § 3-1-4.
 
 > Endret ved forskrift [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023).
 
@@ -505,7 +511,7 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 
 ### Land med preferansetollavgift som lavere mellominntektsland med mindre enn 75 millioner innbyggere:
 
-- Algerie*
+- Algerie\*
 - Armenia
 - Belize
 - Bolivia
@@ -515,7 +521,7 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 - Ghana
 - Guatemala
 - Honduras
-- Kamerun*
+- Kamerun\*
 - Kapp Verde
 - Kenya
 - Kirgisistan
@@ -525,12 +531,14 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 - Mongolia
 - Nicaragua
 - Papua Ny-Guinea
-- Samoa*
+- Samoa\*
 - Sri Lanka
 - Tadsjikistan
-- Tokelau*
+- Tokelau\*
 - Usbekistan
 - Vanuatu
+
+\* Land som ikke har notifisert norske myndigheter etter tollavgiftsforskriften § 3-1-4.
 
 > Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025).
 
@@ -546,41 +554,43 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 - Cuba
 - Dominica
 - Den dominikanske republikk
-- Ekvatorial-Guinea*
+- Ekvatorial-Guinea\*
 - Fiji
 - Gabon
-- Grenada*
+- Grenada\*
 - Guyana
 - India (gjelder kun landbruksvarer iht. frihandelsavtalen EFTA-India vedlegg 2.E)
-- Irak*
+- Irak\*
 - Iran
 - Jamaica
 - Kasakhstan
 - Kina
-- Libya*
+- Libya\*
 - Malaysia
 - Maldivene
-- Marshalløyene*
+- Marshalløyene\*
 - Mauritius
-- Montserrat*
+- Montserrat\*
 - Namibia
-- Nauru*
+- Nauru\*
 - Nigeria
 - Niue
 - Pakistan
-- Palau*
+- Palau\*
 - Paraguay
 - Sør-Afrika
-- St. Helena*
-- St. Lucia*
-- St. Vincent og Grenadinene*
+- St. Helena\*
+- St. Lucia\*
+- St. Vincent og Grenadinene\*
 - Surinam
 - Thailand
-- Tonga*
-- Turkmenistan*
-- Venezuela*
+- Tonga\*
+- Turkmenistan\*
+- Venezuela\*
 - Vietnam
-- Wallis og Futuna.*
+- Wallis og Futuna.\*
+
+\* Land som ikke har notifisert norske myndigheter etter tollavgiftsforskriften § 3-1-4.
 
 > Endret ved forskrifter [19 des 2022 nr. 2288](forskrift/2022-12-19-2288) (i kraft 1 jan 2023), [24 sep 2025 nr. 1919](forskrift/2025-09-24-1919) (i kraft 1 okt 2025), [19 des 2025 nr. 2804](forskrift/2025-12-19-2804) (i kraft 1 jan 2026).
 
@@ -590,78 +600,630 @@ Ved levering av endringsmelding etter § 9-4-1 gjelder overgangsregelen i [forsk
 
 ### Anmerkning 1 – Generell innledning:
 
+1.1
+
 Dette vedlegget fastsetter opprinnelsesreglene i GSP-ordningen for alle produkter. Selv om et produkt er oppført i prosesslisten nedenfor, betyr ikke det nødvendigvis at det gis tollavgiftsnedsettelse. Det fremgår av tolltariffen hvilke produkter som gis tollavgiftsnedsettelser, og hvilke opprinnelsesland tollavgiftsettelsene gjelder for.
+
+1.2
 
 Dette vedlegget fastsetter betingelser som skal oppfylles for at produkter kan anses å ha opprinnelse i det nevnte preferanseberettigede land. Det er fire forskjellige typer regler, som varierer alt etter produktet:ved bearbeiding eller foredling må et maksimalt innhold av materialer uten opprinnelse ikke overstigesved bearbeiding eller foredling endres de fremstilte produkters 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte system i forhold til de anvendte materialers henholdsvis 4-sifrede posisjon eller 6-sifrede underposisjon i Det harmoniserte systemdet er foretatt en spesifikk bearbeiding eller foredlingdet er foretatt bearbeiding eller foredling av materialer som er fremstilt i sin helhet.
 
 ### Anmerkning 2 – Listens struktur:
 
+2.1
+
 Kolonne 1 og 2 beskriver det fremstilte produkt. I kolonne 1 angis kapittelnummer, 4-sifrede posisjoner eller 6-sifrede underposisjoner i Det harmoniserte system, alt etter hva som er relevant. Kolonne 2 inneholder de varebeskrivelser som anvendes i nevnte system for de gjeldende posisjoner eller kapitler. For hver angivelse i kolonne 1 og 2, jf. anmerkning 2.4, er det i kolonne 3 bestemt en eller flere regler («kvalifiserte behandlinger»). Disse kvalifiserte behandlinger gjelder kun materialer uten opprinnelsesstatus. Når det i enkelte tilfeller står «ex» før angivelsen i første kolonne, betyr det at regelen i kolonne 3 bare gjelder for den delen av posisjonen som er beskrevet i kolonne 2.
+
+2.2
 
 Når flere posisjoner eller underposisjoner i Det harmoniserte system er gruppert i kolonne 1 eller et kapittel er nevnt, og varebeskrivelsen i kolonne 2 derfor er angitt generelt, skal den tilsvarende regel i kolonne 3 anvendes på alle produkter som i henhold til Det harmoniserte system klassifiseres under posisjoner i kapittelet eller under en av de posisjoner eller underposisjoner som er gruppert i kolonne 1.
 
+2.3
+
 Når det er forskjellige regler i listen for forskjellige produkter innenfor en posisjon, inneholder hver «innrykking» beskrivelsen av den del av posisjonen som er omfattet av den tilsvarende regel i kolonne 3.
 
+2.4
+
 Hvis det i kolonne 3 er fastsatt to alternative regler som er avskilt av ordet «eller» kan eksportøren velge hvilken regel som skal anvendes.
+
+2.5
 
 I de fleste tilfeller gjelder de regler som er bestemt i kolonne 3 for alle preferanseberettigede land, jf. § 3-1-2 og vedlegg 1. For enkelte produkter gjelder det en mindre streng regel for produkter med opprinnelse i de minst utviklede land og andre lavinntektsland med befolkning med mindre enn 75 millioner innbyggere (MUL), jf. § 3-1-2 annet ledd bokstav a. I disse tilfellene er kolonne 3 oppdelt i to kolonner, hvor delkolonne a viser den regelen som gjelder for MUL og delkolonne b viser den regelen som gjelder for alle andre preferanseberettigede land, jf. § 3-1-2 annet ledd bokstav b og c.
 
 ### Anmerkning 3 – Eksempler på hvordan reglene skal anvendes
 
+3.1
+
 Bestemmelsen i § 4-1-10 annet ledd angående produkter som har oppnådd opprinnelsesstatus og som benyttes til fremstilling av andre produkter, kommer til anvendelse uansett om denne statusen er oppnådd på en fabrikk hvor disse produktene anvendes eller på en annen fabrikk i det preferanseberettigede land eller i Norge.
+
+3.2
 
 Ifølge § 4-1-11 skal den bearbeiding eller foredling som foretas, være mer omfattende enn de behandlinger som er angitt i nevnte paragraf. Hvis dette ikke er tilfelle, kan varene ikke oppnå tollpreferanse selv om betingelsene i prosesslisten er oppfylt.
 
 Med forbehold for de bestemmelsene som det henvises til i første avsnitt, utgjør reglene i prosesslisten den minste bearbeiding eller foredling som er nødvendig, og ytterligere bearbeiding eller foredling gir også opprinnelsesstatus. Omvendt kan en mindre grad av bearbeiding eller foredling ikke gi opprinnelsesstatus. Når et materiale uten opprinnelse ifølge en regel kan anvendes på et bestemt fremstillingstrinn er det tillatt å anvende slike materialer på et tidligere stadium i fremstillingen, men ikke på et senere stadium.
 
+3.3
+
 Når en regel angir «fremstilling fra materialer fra enhver posisjon», kan også, med forbehold for anmerking 3.2, materialer som hører under samme varebeskrivelse og posisjon som produktet, anvendes, eventuelt med spesifikke begrensinger som regelen kan inneholde.
 
 Ved «fremstilling fra materialer fra enhver posisjon, herunder andre materialer som hører under posisjon. ...» eller «fremstilling fra materialer fra enhver posisjon, herunder andre materialer under samme posisjon som produktet», menes imidlertid at materialer som hører under enhver posisjon kan anvendes, unntatt i det tilfellet hvor beskrivelsen av materialet er det samme som i varebeskrivelsen i kolonne 2 i prosesslisten.
 
+3.4
+
 Når det i en regel i prosesslisten er spesifisert at et produkt må være fremstilt av mer enn ett materiale, betyr det at ett eller flere av materialene kan anvendes. Det kreves ikke at alle materialene anvendes.
+
+3.5
 
 Når det i en regel i prosesslisten heter at et produkt skal være fremstilt av et bestemt materiale forhindrer ikke betingelsene at det anvendes andre materialer som på grunn av deres art ikke kan oppfylle betingelsen.
 
 ### Anmerkning 4 – Generelle bestemmelser vedrørende enkelte landbruksvarer
 
+4.1
+
 Landbruksvarer hjemmehørende under kapittel 6, 7, 8, 9, 10 og 12 og posisjon 24.01 som er dyrket eller høstet i et preferanseberettiget lands territorium, behandles som varer med opprinnelse i det nevnte lands territorium også selv om de er dyrket på grunnlag av frø, løk, rotstiklinger, oppskjæringer, stiklinger, podekvister eller andre levende plantedeler, som er innført fra et annet land.
+
+4.2
 
 I de tilfeller hvor innholdet av sukker uten opprinnelsesstatus i et gitt produkt er underlagt begrensninger, skal vekten av sukker hjemmehørende under posisjon 17.01 (sakkarose) og 17.02 (for eksempel fruktose, glukose, laktose, maltose, isoglukose eller invertsukker) som anvendes ved fremstilling av et ferdig produkt og som ved fremstilling av et produkt uten opprinnelsesstatus innarbeides i det ferdige produktet, også tas i betraktning ved beregningen av slike begrensninger.
 
 ### Anmerkning 5 – Terminologi som anvendes i forbindelse med enkelte tekstilvarer
 
+5.1
+
 «Naturlige fibre» anvendes i prosesslisten for alle andre fibre enn kunstige og syntetiske fibre. Utrykket er begrenset til å gjelde stadiet før spinning foretas, medregnet avfall og med mindre annet er fastsatt, omfatter det også fibre som er blitt kardet, kjemmet eller behandlet på en annen måte, men ikke spunnet.
+
+5.2
 
 «Naturlige fibre» omfatter også hestehår under posisjon 05.11 og natursilke under posisjon 50.02 og 50.03 samt ull og fine eller grove dyrehår under posisjon 51.01–51.05, bomull under posisjon 52.01–52.03 og andre vegetabilske fibre under posisjon 53.01–53.05.
 
+5.3
+
 «Spinnmasse», «kjemikalier» og «materialer til papirfremstilling» anvendes i prosesslisten til beskrivelse av materialer, som ikke klassifiseres i kapittel 50–63, og som kan anvendes til fremstilling av kunstige eller syntetiske fibre, papirfibre eller garn.
+
+5.4
 
 «Stapelfibre» anvendes i prosesslisten for syntetiske eller kunstige fiberkabel, stapelfibre eller avfall under posisjon 55.01–55.07.
 
 ### Anmerkning 6 – Toleranseregel for produkter som er fremstilt av en blanding av tekstilmaterialer
 
+6.1
+
 Når det for et bestemt produkt er henvist til denne anmerkningen, skal vilkårene fastsatt i kolonne 3 ikke anvendes på basistekstilmaterialer anvendt ved fremstilling av dette produktet som til sammen utgjør 10 % eller mindre av den totale vekten av alle basistekstilmaterialer som er benyttet (se også anmerking 6.3 og 6.4).
+
+6.2
 
 Toleranseregelen nevnt i anmerking 6.1 kan imidlertid bare anvendes for blandede produkter som er fremstilt av to eller flere basistekstilmaterialer.
 
 Følgende materialer er basistekstilmaterialer:natursilkeullgrove dyrehårfine dyrehårhestehårbomullmaterialer til papirfremstilling og papirlinhampjute og andre tekstilfibre av bastsisal og andre tekstilfibre av slekten Agavekokos, abaca-, rami- og andre vegetabilske tekstilfibresyntetiske filamenterkunstige filamenterstrømledende filamentersyntetiske stapelfibre av polypropylensyntetiske stapelfibre av polyestersyntetiske stapelfibre av polyamidsyntetiske stapelfibre av polyakrylonitrilsyntetiske stapelfibre av polyamidsyntetiske stapelfibre av polytetrafluoretylensyntetiske stapelfibre av polyfenylensulfidsyntetiske stapelfibre av polyvinylkloridandre syntetiske stapelfibrekunstige stapelfibre av viskoseandre kunstige stapelfibregarn fremstilt av polyuretan, segmentert med fleksible segmenter av polyeter, også omspunnetgarn fremstilt av polyuretan, segmentert med fleksible segmenter av polyester, også omspunnetprodukter fra posisjon 56.05 (metallisert garn) som inneholder strimler med en kjerne av aluminiumsfolie eller en kjerne av plastfilm også dekket av aluminiumspulver, med bredde høyst 5 mm, limt mellom to plastfilmer med gjennomsiktig eller farget limandre produkter under posisjon 56.05glassfibremetallfibre.
 
+*Eksempel:* Garn under posisjon 52.05 som er fremstilt av bomullsfibre fra posisjon 52.03 og syntetiske stapelfibre under posisjon 55.06 er et blandingsgarn. Derfor kan syntetiske stapelfibre som ikke oppfyller opprinnelsesreglene anvendes i en mengde opp til 10 % av vekten av garnet.
+
+*Eksempel:* En vevnad av ull under posisjon 51.12 som er fremstilt av ullgarn under posisjon 51.07 og syntetiske garn av stapelfibre under posisjon 55.09, er en blandingsvevnad. Derfor kan syntetisk garn som ikke oppfyller opprinnelsesreglene eller ullgarn som ikke oppfyller opprinnelsesreglene eller en blanding av disse anvendes forutsatt at den totale vekten ikke overstiger 10 % av vekten av vevnaden.
+
+*Eksempel:* Tuftede tekstilstoffer under posisjon 58.02 som er fremstilt av bomullsgarn under posisjon 52.05 og bomullsvevnader under posisjon 52.10 er bare et blandingsprodukt dersom bomullsvevnaden selv er en blandingsvevnad som er fremstilt av garn som hører under to forskjellige posisjoner eller dersom det anvendte bomullsgarnet selv er blandet.
+
+*Eksempel:* Dersom det omhandlede tuftede tekstilstoffet er fremstilt av bomullsgarn under posisjon 52.05 og syntetisk vevnad under posisjon 54.07, er de anvendte garnene to forskjellige basistekstilmaterialer og det tuftede tekstilstoffet er følgelig et blandingsprodukt.
+
+6.3
+
 For produkter inneholdende «garn fremstilt av polyuretan, segmentert med fleksible segmenter av polyeter også omspunnet» er toleransen 20 % for dette garnet.
+
+6.4
 
 For produkter inneholdende «strimler med en kjerne av aluminiumsfolie eller en kjerne av plastfilm også dekket av aluminiumspulver, med bredde høyst 5 mm, limt mellom to plastfilmer» er toleranse 30 % for disse strimlene.
 
 ### *Anmerkning 7 – Andre toleranseregler for enkelte tekstilvarer*
 
+7.1
+
 For tekstilprodukter som i prosesslisten er merket med en fotnote som henviser til denne anmerkning, kan tekstilmaterialer som ikke tilfredsstiller regelen i kolonne 3 i prosesslisten for den aktuelle ferdigvaren, anvendes forutsatt at de skifter posisjon og verdien av dem ikke overstiger 8 % av ferdigvarens pris fra fabrikk.
+
+7.2
 
 Materialer som ikke klassifiseres under kapittel 50–63, kan anvendes fritt til fremstilling av tekstilvarer uansett om de inneholder tekstilmaterialer, se anmerking 7.3.
 
+*Eksempel:* Dersom en regel i prosesslisten sier at det for en bestemt tekstilartikkel, for eksempel en bukse, må anvendes garn, hindrer ikke dette bruk av metallartikler for eksempel knapper, fordi knapper ikke hører under kapittel 50–63. Av samme grunn forhindres ikke bruken av glidelås selv om glidelåser normalt inneholder tekstilmaterialer.
+
+7.3 Når det gjelder en prosentregel må verdien av brukte materialer som ikke hører under kapittel 50–63 også regnes med i verdien av ikke-opprinnelsesmaterialer.
+
 ### Anmerkning 8 – Definisjon av spesielle prosesser og enkle behandlinger, som gjennomføres på enkelte produkter som hører under kapittel 27
+
+8.1
 
 Som «spesielle prosesser» under posisjon ex. 27.07 og 27.13 menes følgende:vakuumdestillasjonomdestillasjon ved en meget nøyaktig fraksjoneringsprosesskrakkingreformeringekstraksjon ved hjelp av selektive løsningsmidleren prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxittpolymerisasjonalkyleringisomerisasjon.
 
+8.2
+
 Som «spesielle prosesser» under posisjon ex. 27.10, 27.11 og 27.12 anses følgende:vakuumdestillasjonomdestillasjon ved en meget nøyaktig fraksjoneringsprosesskrakkingreformeringekstraksjon ved hjelp av selektive løsningsmidleren prosess som omfatter samtlige følgende behandlinger: behandling med konsentrert svovelsyre, oleum (rykende svovelsyre) eller svoveltrioksid, nøytralisering med alkali-stoffer, bleking og rensing med naturlig aktiv jord, aktivert jord, aktivert kull eller bauxittpolymerisasjonalkyleringisomerisasjongjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: avsvovling med hydrogen som innebærer minst 85 % reduksjon av svovelinnholdet i det bearbeidede produkt (metode ASTM D 1266-59 T)gjelder kun for produkter som klassifiseres under 27.10: avparafinering (avvoksing) på annen måte enn ved filtreringgjelder kun for tungoljer som klassifiseres under posisjon ex. 27.10: behandling med hydrogen ved et trykk på over 20 bar og en temperatur på over 250 °C med bruk av en katalysator, dersom hydrogenet danner et aktivt element i en kjemisk reaksjon og ikke bare anvendes som middel til avsvovling. Videre hydrering av smøreoljer under posisjon ex. 27.10 (for eksempel hydrofinishing eller avfarging) for særlig å forberede farge eller stabilitet, skal imidlertid ikke regnes som en spesiell prosessgjelder kun for fyringsoljer som klassifiseres under ex. 27.10: atmosfærisk destillasjon, under forutsetning av at mindre enn 30 volumprosent av disse produktene destillerer (inklusive destilleringstap) ved 300 °C i henhold til ASTM D 86-metodengjelder kun for andre tungoljer enn gassoljer eller fyringsoljer som klassifiseres under posisjon ex 27.10: bearbeiding gjennom elektrisk høyfrekvensutladninggjelder kun for produkter av råolje (andre enn vaselin, ozokeritt, montanvoks, torvvoks, parafinvoks som inneholder mindre enn 0,75 vektprosent olje) som klassifiseres under posisjon ex. 27.12, fjerning av olje ved fraksjonert krystallisasjon.
+
+8.3
 
 Når det gjelder varer under posisjon ex. 27.07 og 27.13, skal enkle operasjoner som rensing, dekatering, avsalting, vannseparering, filtrering, farging, merking, blandinger av produkter med ulikt svovelinnhold for å oppnå et bestemt svovelinnhold eller kombinasjoner av disse eller liknende prosesser, ikke gi status som opprinnelsesprodukter.
 
 ### Del II – Liste over produkter og bearbeidinger eller foredlinger som gir opprinnelsesstatus
+
+| *HS-posisjon* | *Produktbeskrivelse* | *Bearbeiding eller foredling utført på ikke-opprinnelsesmaterialer som gir opprinnelsesstatus* |  |
+| --- | --- | --- | --- |
+| *(1)* | *(2)* | *(3)* |  |
+| Kapittel 1 | Levende dyr | Alle dyr fra kapittel 1 må være fremstilt i sin helhet |  |
+| Kapittel 2 | Kjøtt og spiselig slakteavfall | Fremstilling hvor alt kjøtt og alt spiselige slakteavfall fra dette kapittel er fremstilt i sin helhet |  |
+| ex Kapittel 3 | Fisk og krepsdyr, bløtdyr og andre virvelløse dyr som lever i vann, unntatt: | All fisk, krepsdyr, bløtdyr og andre virvelløse dyr er fremstilt i sin helhet |  |
+| 03.04 | Fiskefileter og annet fiskekjøtt (også opphakket) ferskt, kjølt eller fryst | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| 03.05 | Fisk, tørket, saltet eller i saltlake; røykt fisk, også varmrøykt | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| ex 03.06 | Krepsdyr, med eller uten skall, tørkede, saltede eller i saltlake; krepsdyr med skall, dampkokt eller kokt i vann, også kjølte, fryste, tørkede, saltede eller i saltlake | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| ex 03.07 | Bløtdyr, med eller uten skall, tørkede, saltede eller i saltlake; røykte bløtdyr, med eller uten skall, også varmrøykte | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| 03.08 | Virvelløse dyr som lever i vann, unntatt krepsdyr og bløtdyr, levende, ferske, kjølte, fryste, tørkede, saltede eller i saltlake; røykte virvelløse dyr som lever i vann, unntatt krepsdyr og bløtdyr, også varmrøkte | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| 03.09 | Mel og pelleter av fisk, krepsdyr, bløtdyr og andre virvelløse dyr som lever i vann, tjenlige til menneskeføde. | Fremstilling hvor alle anvendte materialer fra kapittel 3 er fremstilt i sin helhet |  |
+| Kapittel 4 | Melk og meieriprodukter; fugleegg; naturlig honning; spiselige produkter av animalsk opprinnelse, ikke nevnt eller innbefattet annet sted | Fremstilling hvor:<br>– alle anvendte materialer fra kapittel 4 er fremstilt i sin helhet<br>– vekten av anvendt sukker1 ikke overstiger 40 vektprosent av det ferdige produkt |  |
+| ex Kapittel 5 | Produkter av animalsk opprinnelse ikke nevnt eller innbefattet annet sted, unntatt: | Fremstilling av materialer fra enhver posisjon |  |
+| ex 05.11.91 | Fiskerogn og fiskemelke, ikke spiselig | All rogn og all melke er fremstilt i sin helhet |  |
+| Kapittel 6 | Levende trær og andre planter; løker, røtter og liknende; avskårne blomster og blad til pryd | Fremstilling hvor alle anvendte materialer fra kapittel 6 er fremstilt i sin helhet |  |
+| Kapittel 7 | Grønnsaker, røtter og knoller, spiselige | Fremstilling hvor alle anvendte materialer fra kapittel 7 er fremstilt i sin helhet |  |
+| Kapittel 8 | Spiselige frukter og nøtter; skall av sitrusfrukter eller meloner | Fremstilling hvor:<br>– alle anvendte frukter, nøtter og skall av sitrusfrukter og meloner fra kapittel 8 er fremstilt i sin helhet, og<br>– vekten av anvendte sukker2 ikke overstiger 40 vektprosent av det ferdige produkt |  |
+| Kapittel 9 | Kaffe, te, maté og krydderier | Fremstilling av materialer fra enhver posisjon |  |
+| Kapittel 10 | Korn | Fremstilling hvor alle anvendte materialer fra kapittel 10 er fremstilt i sin helhet |  |
+| ex Kapittel 11 | Mølleprodukter; malt; stivelse; inulin; gluten av hvete, unntatt: | Fremstilling hvor alle anvendte materialer fra kapittel 10 og 11, posisjon 07.01 og 23.03 og underposisjon 07.10, er fremstilt i sin helhet |  |
+| ex 11.06 | Mel og pulver av tørkede belgfrukter som hører under posisjon 07.13 | Tørking og maling av belgfrukter fra posisjon 07.08 |  |
+| Kapittel 12 | Oljeholdige frø og frukter; forskjellige andre frø og frukter; planter til industriell eller medisinsk bruk; halm og fôrplanter | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| Kapittel 13 | Skjellakk og liknende; naturlige gummier, harpikser og andre vegetabilske safter og ekstrakter | Fremstilling av materialer fra enhver posisjon, hvor vekten av anvendt sukker3 ikke overstiger 40 vektprosent av det ferdige produkt |  |
+| Kapittel 14 | Vegetabilske flettematerialer; vegetabilske produkter, ikke nevnt eller innbefattet annet sted | Fremstilling av materialer fra enhver posisjon |  |
+| ex kapittel 15 | Animalske, vegetabilske eller mikrobielle oljer og fettstoffer samt spaltningsprodukter derav; tilberedt spisefett; animalsk og vegetabilsk voks; unntatt: | Fremstilling av materialer fra enhver underposisjon, unntatt av materialer fra samme underposisjon som produktet |  |
+| 15.01 til 15.04 | Fett av svin, fjærkre, storfe, sau, geiter, fisk osv. | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 15.05, 15.06 og 15.20 | Ullfett og fettstoffer utvunnet derav (herunder lanolin). Andre animalske fettstoffer og oljer samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede. Glyserol, rå; glyserolvann og glyserollut | Fremstilling av materialer fra enhver posisjon |  |
+| 15.09 og 15.10 | Olivenoljer og deres fraksjoner, men ikke kjemisk omdannede | Fremstilling hvor alle anvendte vegetabilske materialer er fremstilt i sin helhet |  |
+| 15.16 og 15.17 | Animalske, vegetabilske eller mikrobielle fettstoffer og oljer, samt deres fraksjoner, helt eller delvis hydrogenerte, interforestrede, reforestrede eller elaidiniserte, også raffinerte, men ikke videre bearbeidde.<br>Margarin; spiselige blandinger eller produkter av animalske, vegetabilske eller mikrobielle fettstoffer og oljer, eller av fraksjoner av forskjellige fettstoffer og oljer som hører under dette kapittel, unntatt spiselige fettstoffer og oljer, samt deres fraksjoner, som hører under posisjon 15.16 | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor vekten av alle anvendte materialer fra kapittel 4, ikke overstiger 40 vektprosent av det ferdige produktet |  |
+| Kapittel 16 | Produkter av kjøtt, flesk, fisk, krepsdyr, bløtdyr eller andre virvelløse dyr som lever i vann, eller av insekter | Fremstilling:<br>– av materialer fra enhver posisjon, unntatt fra kjøtt og spiselig slakteavfall fra kapittel 2 og materialer fra kapittel 16 som er fremstilt av kjøtt og spiselig slakteavfall fra kapittel 2, og<br>– hvor alle anvendte materialer fra kapittel 3 og materialer fra kapittel 16 er fremstilt av fisk, krepsdyr, bløtdyr eller andre virvelløse vanndyr fra kapittel 3 er fremstilt i sin helhet |  |
+| ex Kapittel 17 | Sukker og sukkervarer, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex 17.02 | Annet sukker, herunder kjemisk ren laktose og glukose, i fast form; sirup og andre sukkeroppløsninger uten tilsetning av smaks- eller fargestoffer, kunsthonning, også blandet med naturlig honning; karamell | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor vekten av alle anvendte materialer fra posisjon 11.01 til 11.08, 17.01 og 17.03, ikke overstiger 30 vektprosent av det ferdige produktet |  |
+| ex 17.02 | Kjemisk ren maltose og fruktose | Fremstilling av materialer fra enhver posisjon, herunder andre materialer fra posisjon 17.02 |  |
+| 17.04 | Sukkervarer (herunder hvit sjokolade), uten innhold av kakao | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor:<br>– den individuelle vekt av sukker4 og anvendte materialer frakapittel 4, ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av anvendt sukker5 og anvendte materialer fra kapittel 4, ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| Kapittel 18 | Kakao og varer derav | Fremstilling av alle materialer, unntatt av materialer fra samme posisjon som produktet, hvor:<br>– den individuelle vekt av sukker6 og anvendte materialer fra kapittel 4, ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av anvendt sukker7 og anvendte materialer fra kapittel 4, ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| Kapittel 19 | Produkter av korn, mel, stivelse eller melk; bakverk | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor:<br>– vekten av anvendte materialer fra kapittel 2, 3 og 16, ikke overstiger 20 vektprosent av det ferdige produkt, og<br>– vekten av anvendte materialer fra posisjon 10.06 og 11.01 til 11.08, ikke overstiger 20 vektprosent av det ferdige produktet, og<br>– den individuelle vekt av anvendt sukker8 og anvendte materialer, fra kapittel 4, ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av sukker9 og anvendte materialer fra kapittel 4, ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| ex Kapittel 20 | Produkter av grønnsaker, frukter, nøtter og andre plantedeler, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor vekten av anvendt sukker10 ikke overstiger 40 vektprosent av det ferdige produkt |  |
+| 20.02 og 20.03 | Tomater, sopper og trøfler, tilberedte eller konserverte på annen måte enn med eddik eller eddiksyre | Fremstilling hvor alle anvendte materialer fra kapittel 7 og 8 er fremstilt i sin helhet |  |
+| ex Kapittel 21 | Forskjellige tilberedte næringsmidler, unntatt: | Fremstilling av alle materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor:<br>– den individuelle vekt av sukker11 og anvendte materialer fra kapittel 4 ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av anvendt sukker12 og anvendte materialer fra kapittel 4 ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| 21.03 | Sauser og preparater for tillaging av sauser; tilberedte smaksstoffer; sennepsmel og tilberedt sennep: |  |  |
+|  | – Sauser og preparater for tillagning av sauser, tilberedte smaksstoffer | Fremstilling av alle materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Sennepsmel eller tilberedt sennep kan likevel anvendes |  |
+|  | – Sennepsmel og tilberedt sennep | Fremstilling av materialer fra enhver posisjon |  |
+| Kapittel 22 | Drikkevarer, etylalkohol og eddik | Fremstilling av alle materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og under posisjon 22.07 og 22.08, hvor:<br>– alle anvendte materialer, fra underposisjon 08.06.10, 20.09.61 og 20.09.69 er fremstilt i sin helhet,<br>– den individuelle vekt av sukker13 og anvendte materialer, fra kapittel 4, ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av anvendt sukker14 og anvendte materialer fra kapittel 4, ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| ex Kapittel 23 | Reststoffer og avfall fra næringsmiddelindustrien; tilberedt dyrefôr, unntatt: | Fremstilling av alle materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex 23.03 | Reststoffer fra stivelsesfremstilling | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor vekten av anvendte materialer fra kapittel 10, ikke overstiger 20 vektprosent av det ferdige produkt |  |
+| 23.09 | Tilberedte produkter av det slag som brukes til dyrefôr | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, hvor:<br>– alle anvendte materialer fra kapittel 2 og 3 er fremstilt i sin helhet, og<br>– vekten av anvendte materialer fra kapittel 10 og 11 og posisjon 23.02 og 23.03, ikke overstiger 20 vektprosent av det ferdige produktet, og<br>– den individuelle vekt av anvendt sukker15 og anvendte materialer fra kapittel 4, ikke overstiger 40 vektprosent av det ferdige produkt, og<br>– den totale kombinerte vekt av sukker16 og anvendte materialer fra kapittel 4, ikke overstiger 60 vektprosent av det ferdige produkt |  |
+| ex Kapittel 24 | Tobakk og varer framstilt av tobakkserstatninger; produkter, også med innhold av nikotin, ment for inhalering uten forbrenning; andre nikotinholdige produkter ment for opptak av nikotin i menneskekroppen | Fremstilling av materialer fra enhver posisjon, hvor vekten av anvendte materialer fra kapittel 24, ikke overstiger 30 % av den totale vekt av anvendte materialer fra kapittel 24 |  |
+| 24.01 | Tobakk, ubearbeidet; avfall av tobakk | All rå eller ubearbeidet tobakk og tobakkavfall fra kapittel 24, er fremstilt sin helhet |  |
+| 24.02 | Sigarer, cerutter, sigarilloer og sigaretter av tobakk eller tobakkerstatninger | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 24.03, og hvor vekten av alle anvendte materialer fra posisjon 24.01, ikke overstiger 50 vektprosent av anvendte materialer fra posisjon 24.01 |  |
+| ex Kapittel 25 | Salt; svovel; jord og stein; gips, kalk og sement, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktet pris fra fabrikk |  |
+| ex 25.19 | Naturlig magnesiumkarbonat (magnesitt), knust og pakket i lufttette beholdere, magnesiumoksid, også i ren tilstand, men ikke smeltet eller dødbrent (sintret) magnesium | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Naturlig magnesiumkarbonat (magnesitt) kan anvendes |  |
+| Kapittel 26 | Malm, slagg og aske | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex Kapittel 27 | Mineralsk brensel, mineralske oljer og destillasjonsprodukter derav; bituminøse stoffer; mineralsk voks, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktet pris fra fabrikk |  |
+| ex 27.07 | Oljer hvor vekten av de aromatiske bestanddeler overstiger vekten av de ikke-aromatiske bestanddeler, og som tilsvarer jordoljer utvunnet ved destillasjon av høytemperaturtjære fra steinkull, hvor mer enn 65 volumprosent destillerer ved temperaturer opptil 250 °C (herunder blanding av bensin og bensol) til bruk som drivstoff eller brensel | Raffinering og/eller en eller flere spesifikke prosesser17<br>eller<br>Andre blandinger, hvor alle anvendte materialer hører under en annen posisjon enn det ferdige produkt. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at den totale verdien ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 27.10 | Oljer utvunnet av jordolje eller av bituminøse mineraler, unntatt råoljer; produkter ikke nevnt eller innbefattet annet sted, som inneholder minst 70 vektprosent jordolje eller oljer utvunnet av bituminøse mineraler, og med disse oljer som basis for produktene; spilloljer | Raffinering og/eller en eller flere spesifikke prosesser18<br>eller<br>Andre blandinger, hvor alle anvendte materialer hører under en annen posisjon enn det ferdige produkt. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at den totale verdien ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 27.11 | Jordoljegasser og andre gassformige hydrokarboner | Raffinering og/eller en eller flere spesifikke prosesser19<br>eller<br>Andre behandlinger, hvor alle anvendte materialer hører under en annen posisjon enn det ferdige produkt. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at den totale verdien ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 27.12 | Vaselin; parafinvoks, mikrokrystallinsk jordoljevoks, «slack wax», ozokeritt, montanvoks, torvvoks og annen mineralsk voks samt liknende produkter fremstilt syntetisk eller på annen måte, også farget | Raffinering og/eller en eller flere spesifikke prosesser20<br>eller<br>Andre behandlinger, hvor alle anvendte materialer hører under en annen posisjon enn det ferdige produktet. Materialer fra samme posisjon som produkt kan anvendes, forutsatt at den totale verdien ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 27.13 | Petrolkoks, jordoljebitumen og andre reststoffer fra jordolje eller fra oljer utvunnet av bituminøse mineraler | Raffinering og/eller en eller flere spesifikke prosesser21<br>eller<br>Andre behandlinger, hvor alle anvendte materialer hører under en annen posisjon enn det ferdige produktet. Materialer fra samme posisjon som produkt kan anvendes, forutsatt at den totale verdien ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| ex Kapittel 28 | Uorganiske kjemikalier; organiske eller uorganiske forbindelser av edle metaller, av sjeldne jordmetaller, av radioaktive stoffer eller av isotoper, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan benyttes, forutsatt av deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling på basis av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan benyttes, forutsatt av deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 28.11 | Svoveltrioksid | a) Minst utviklede land (MUL):<br>Fremstilling av svoveldioksid<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av svoveldioksid<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 28.40 | Natrium perborat | a) Minst utviklede land (MUL):<br>Fremstilling av dinatriumtetraborat-pentahydrat<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av dinatriumtetraborat-pentahydrat<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 28.43 | Kolloidale, edle metaller; uorganiske eller organiske forbindelser av edle metaller, også om de ikke er kjemisk definerte; amalgamer av edle metaller | Fremstilling av materialer fra enhver posisjon, herunder andre materialer fra posisjon 28.43 |  |
+| ex 28.52 | – Kvikksølvforbindelser av indre etere og halogen-, sulfo-, nitro- eller nitrosoderivater derav | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.09, må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.09, må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+|  | – Kvikksølvforbindelser av nukleinsyrer og salter derav, også når de ikke er kjemisk definerte; andre hetrosykliske forbindelser | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 28.52, 29.32, 29.33 og 29.34, må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 28.52, 29.32, 29.33 og 29.34 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 29 | Organiske kjemikalier, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verd ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 29.05 | Metallalkoholater av alkoholer under denne posisjon og av etanol, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, herunder materialer fra posisjon 29.05. Metallalkoholater fra denne posisjon kan anvendes, forutsatt at deres totale verdi ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, herunder materialer fra posisjon 29.05. Metallalkoholater fra denne posisjon kan anvendes, forutsatt at deres totale verdi ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 2905.43 til 2905.45 | Mannitol; D-glucitol (sorbitol); glyserol | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver underposisjon, unntatt materialer fra samme underposisjon som produktet. Materialer fra samme underposisjon som produktet kan anvendes, forutsatt av deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver underposisjon, unntatt materialer fra samme underposisjon som produktet. Materialer fra samme underposisjon som produktet kan anvendes, forutsatt av deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 29.15 | Mettede, asykliske monokarboksylsyrer og deres anhydrider, halogenider, peroksider og peroksysyrer; deres halogen-, sulfo-, nitro- eller nitrosoderivater | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.15 og 29.16 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.15 og 29.16 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 29.32 | – Interne etere av deres halogen-, sulfo-, nitro- eller nitrosoderivater | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.09 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.09 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+|  | – Sykliske acetaler og indre hemiacetaler og deres halogen-, sulfo-, nitro- eller nitrosoderivater | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 29.33 | Heterosykliske forbindelser med bare nitrogen som heteroatom(er) | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer som hører under pos. 29.32 og 29.33 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Andre land:<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer som hører under pos. 29.32 og 29.33 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 29.34 | Nukleinsyrer og deres salter, også ikke kjemisk definerte; andre heterosykliske forbindelser | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon. Verdien av alle anvendte materialer fra posisjon 29.32, 29.33 og 29.34 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer. fra enhver posisjon Verdien av alle anvendte materialer fra posisjon 29.32, 29.33 og 29.34 må ikke overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 30 | Farmasøytiske produkter | Fremstilling av materialer fra enhver posisjon |  |
+| Kapittel 31 | Gjødsel | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 32 | Garvestoff- og fargestoffekstrakter; tanniner og deres derivater; farger, pigmenter og andre fargestoffer; malinger og lakker; kitt og andre fyllings- og tetningsmidler; trykkfarger, blekk og tusj | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 33 | Flyktige, vegetabilske oljer og resinoider; kosmetikk- eller toalettpreparater, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi, ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 33.01 | Flyktige, vegetabilske oljer (også terpenfrie) herunder «konkreter» og «absolutter»; resinoider; ekstraherte oleoresiner; konsentrater av flyktige, vegetabilske oljer i fett, fete oljer, voks eller liknende stoffer, utvunnet ved enfleurage eller maserasjon; terpenholdige biprodukter fra avterpenisering av flyktige, vegetabilske oljer; vandige destillater og vandige oppløsninger av flyktige, vegetabilske oljer | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, herunder materialer fra annen «gruppe»22 under denne posisjonen. Materialer fra samme «gruppe» som produktet kan anvendes, forutsatt at den totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at den totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 34 | Såpe, organiske, overflateaktive stoffer, vaskemidler, smøremidler, kunstig voks og tilberedt voks, poler- eller skuremidler, lys og liknende varer, modellermasse, «dentalvoks» og dentalpreparater på basis av gips, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 34.04 | Kunstig voks og tilberedt voks:<br>– på basis av parafin, jordoljevoks, eller voks fra bituminøse mineraler, «slack wax» eller «scale wax» | Fremstilling av materialer fra enhver posisjon |  |
+| Kapittel 35 | Proteiner; modifisert stivelse; klebemidler; enzymer | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 36 | Krutt og sprengstoffer; pyrotekniske produkter; fyrstikker; pyrofore legeringer; visse brennstoffpreparater | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land<br>Fremstilling av alle materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 37 | Varer til fotografisk eller kinematografisk bruk | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 38 | Diverse kjemiske produkter, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av alle materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet. Materialer fra samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke må overstige 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 38.03 | Tallolje, raffinert | a) Minst utviklede land (MUL):<br>Raffinering av rå tallolje<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Raffinering av rå tallolje<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 38.05 | Sulfatterpentin, renset | a) Minst utviklede land (MUL):<br>Rensing ved destillasjon eller raffinering av rå sulfatterpentin<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Rensing ved destillasjon eller raffinering av rå sulfatterpentin<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 38.06 | Esterharpikser | a) Minst utviklede land (MUL):<br>Fremstilling av harpikssyrer<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av harpikssyrer<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 38.07 | Bek utvunnet av tretjære | a) Minst utviklede land (MUL):<br>Destillasjon av tretjære<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Destillasjon av tretjære<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 38.09.10 | Midler for etterbehandling og preparater for å fremskynde farging eller fiksering av fargestoffer samt andre produkter eller preparater (f.eks. appretur og beisemidler) av det slag som brukes innenfor tekstil-, papir- og lærindustrien eller liknende industrier, ikke nevnt eller innbefattet annet sted: På basis av stivelse | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 38.23 | Industrielle monokarboksylfettsyrer; sure oljer fra raffinering; industrielle fettalkoholer | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, herunder andre materialer fra posisjon 38.23<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, herunder andre materialer fra posisjon 38.23<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 3824.60 | Sorbitol, unntatt varer som hører underposisjon 2905.44 | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver underposisjon, unntatt materialer fra samme underposisjon som produktet og under underposisjon 2905.44. Materialer fra samme underposisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver underposisjon, unntatt materialer fra samme underposisjon som produktet og under underposisjon 2905.44. Materialer fra samme underposisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 39 | Plast og varer derav, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 39.07 | – Kopolymerer, fremstilt av polykarbonat og Akrylnitril-butadien-styren (ABS) | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra den samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 50 % av produktets pris fra fabrikk23<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra den samme posisjon som produktet kan anvendes, forutsatt at deres totale verdi ikke overstiger 50 % av produktets pris fra fabrikk24<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+|  | – Polyester | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling av tetrabrompolykarbonat (bisfenol A)<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling av tetrabrompolykarbonat (bisfenol A)<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 39.20 | Plater og filmer av ionomer | a) Minst utviklede land (MUL):<br>Fremstilling av termoplastisk kopolymer av etylen og metakrylsyre som er delvis nøytralisert, hovedsakelig med sink- og natriumioner<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av termoplastisk kopolymer av etylen og metakrylsyre som er delvis nøytralisert, hovedsakelig med sink- og natriumioner<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex 39.21 | Metallbelagte bånd av plast | a) Minst utviklede land (MUL):<br>Fremstilling av svært gjennomskinnelige bånd av polyester med en tykkelse på under 23 mikron25<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av svært gjennomskinnelige bånd av polyester med en tykkelse på under 23 mikron26<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 40 | Gummi og varer derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling, hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 40.12 | Regummierte eller brukte, pneumatiske dekk av gummi; massiv- eller hulkammerringer, slitebaner og felgbånd av gummi |  |  |
+|  | – Dekk av gummi, regummierte, massive eller hulekammerringer | Regummiering av brukte dekk |  |
+|  | – Andre | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra posisjon 40.11 og 40.12<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 41 | Rå huder og skinn (unntatt pelsskinn) samt lær, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 41.01 til 41.03 | Rå huder og skinn av storfe (herunder bøfler) eller dyr av hesteslekten (ferske eller saltede, tørkede, kalkede, piklede eller preserverte på annen måte, men ikke garvede, pergamentbehandlede eller videre beredte), også avhåret eller spaltet. Rå huder og skinn av sau eller lam (ferske eller saltede, tørkede, kalkede, piklede eller preserverte på annen måte, men ikke garvede, pergamentbehandlede eller videre beredte), også med ull eller spaltet, bortsett fra de som er unntatt i henhold til note 1.c til dette kapittel.<br>Andre rå huder og skinn (ferske eller saltede, tørkede, kalkede, piklede eller preserverte på annen måte, men ikke garvede, pergamentbehandlede eller videre beredte), også avhåret eller spaltet, bortsett fra de som er unntatt i henhold til note 1.b. eller 1.c. til dette kapittel | Fremstilling av materialer fra enhver posisjon |  |
+| 41.04 til 41.06 | Garvede eller «crust» huder og skinn, uten hår, også spaltet, men ikke videre beredt | Ettergarving av garvede eller forgarvede huder og skinn fra underposisjon 4104.11, 4104.19, 4105.10, 4106.21, 41.06.31 og 4106.91<br>eller<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 41.07, 41.12, 41.13 | Lær videre beredt etter garving eller «crusting» | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Materialer fra underposisjon 4104.41, 4104.49, 4105.30, 4106.22, 4106.32 og 4106.92 kan anvendes, dersom det er foretatt en ettergarving av de garvede eller «crust» huder og skinn i tørr tilstand |  |
+| Kapittel 42 | Varer av lær; salmakerarbeider; reiseeffekter, håndvesker og liknende beholdere; varer av tarmer (unntatt av wormgut) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 43 | Pelsskinn (også kunstig) og varer derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 43.01 | Rå pelsskinn (herunder hoder, haler, labber og andre stykker eller klipp egnet til buntmakerarbeid), unntatt rå huder og skinn som hører under posisjon 41.01, 41.02 eller 41.03 | Fremstilling av materialer fra enhver posisjon |  |
+| ex 43.02 | Garvede eller beredte pelsskinn, sammensatte: |  |  |
+|  | – til plater, kryss og liknende | Bleking eller farging samt utklipping og sammensetting av garvede eller beredte ikke-sammensatte pelsskinn |  |
+|  | – ellers | Fremstilling av garvede eller beredte ikke-sammensatte pelsskinn |  |
+| 43.03 | Klær, tilbehør til klær og andre varer av pelsskinn | Fremstilling av garvede eller beredte ikke-sammensatte pelsskinn fra posisjon 43.02 |  |
+| ex Kapittel 44 | Tre og trevarer; trekull, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 44.07 | Trelast saget eller kuttet i lengderetningen, knivskåret eller skrelt, også høvlet, pusset eller endeskjøtt, av tykkelse over 6 mm | Høvling, pussing eller endeskjøting |  |
+| ex 44.08 | Plater for finering (herunder slike fremstilt ved å skjære laminert tre), for kryssfiner eller liknende laminert tre eller trelast, saget i lengderetningen, knivskåret eller skrelt, også høvlet, pusset, sammenspleiset eller endeskjøtt, av tykkelse høyst 6 mm | Sammenskjøting, høvling, pussing eller endeskjøting |  |
+| ex 44.10 til ex 44.13 | Ramme- og møbellister av tre samt profilerte lister av tre til bygningsbruk | Forarbeiding til ramme- og møbellister |  |
+| ex 44.15 | Pakkasser, esker, sprinkelkasser, dunker og liknende emballasje av tre | Fremstilling av planker og bord, ikke avskåret i ferdige lengder |  |
+| ex 44.18 | – Tømmermanns- og snekkerarbeid av tre til bygningsbruk | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan lamellplater og innvendige hulrom (celleplater) og takspon («shingles» og «shakes») anvendes |  |
+|  | – Ramme og møbellister | Foredling til ramme- og møbellister |  |
+| ex 44.21 | – Fyrstikkemner og skoplugger | Fremstilling av tre fra enhver posisjon, med unntak av tretråd under posisjon 44.09 |  |
+| Kapittel 45 | Kork og korkvarer | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 46 | Varer av strå, halm, esparto eller andre flettematerialer; kurvmakerarbeid | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 47 | Tremasse eller masse av andre cellulosefibermaterialer; papir eller papp for resirkulasjon (avfall) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 48 | Papir og papp; varer av papirmasse, papir eller papp | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 49 | Bøker, aviser, bilder og andre trykksaker; håndskrevne eller maskinskrevne arbeider samt arbeidstegninger | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 50 | Silke, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex 50.03 | Silkeavfall (herunder kokonger ikke anvendelige til avhesping, garnavfall og opprevne filler), kardet eller kjemmet | Karding eller kjemming av silkeavfall |  |
+| 50.04 til ex 50.06 | Garn av silke eller garn spunnet av silkeavfall | Spinning av naturlige fibre eller ekstrudering av kjemiske fibre ledsaget av spinning eller tvinning27 |  |
+| 50.07 | Vevnader av silke eller silkeavfall | a) Minst utviklede land (MUL):<br>Veving28<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, krøllfri behandling, dekatering, impregnering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving ledsaget av farging<br>eller<br>Garnfarging ledsaget av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, krøllfri behandling, dekatering, impregnering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk29 |
+| ex Kapittel 51 | Ull, fine eller grove dyrehår; garn og vevnader av tagl, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 51.06 til 51.10 | Garn av ull, av fine eller av grove dyrehår eller av tagl | Spinning av naturlige fibre eller ekstrudering av kjemiske fibre ledsaget av spinning30 |  |
+| 51.11 til 51.13 | Vevnader av ull, av fine og grove dyrehår eller av tagl | a) Minst utviklede land (MUL):<br>Veving31<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, krøllfri behandling, dekatering, impregnering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving ledsaget av farging<br>eller<br>Garnfarging ledsaget av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, krøllfri behandling, dekatering, impregnering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk32 |
+| ex Kapittel 52 | Bomull, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 52.04 til 52.07 | Garn og tråd av bomull | Spinning av naturlige fibre eller ekstrudering av kjemiske fibre ledsaget av spinning33 |  |
+| 52.08 til 52.12 | Vevnader av bomull | a) Minst utviklede land (MUL):<br>Veving34<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving ledsaget av farging eller belegging<br>eller<br>Garnfarging ledsaget av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk35 |
+| ex Kapittel 53 | Andre vegetabilske tekstilfibrer; papirgarn og vevnader derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 53.06 til 53.08 | Garn av andre vegetabilske tekstilmaterialer; papirgarn | Spinning av naturlige fibre eller ekstrudering av kjemiske fibre ledsaget av spinning36 |  |
+| 53.09 til 53.11 | Vevnader av andre vegetabilske tekstilfibre; vevnader av papirgarn | a) Minst utviklede land (MUL):<br>Veving37<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving ledsaget av farging eller av belegging<br>eller<br>Garnfarging ledsaget av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk38 |
+| 54.01 til 54.06 | Garn, monofilamenter og tråd av syntetiske og kunstige filamenter | Ekstrudering av kjemiske fibre ledsaget av spinning eller spinning av naturlige fibre39 |  |
+| 54.07 og 54.08 | Vevnader av garn av syntetiske og kunstige filamenter | a) Minst utviklede land (MUL):<br>Veving40 eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving etterfulgt av farging eller belegging<br>eller<br>Tvinning eller ekstrudering etterfulgt av veving, forutsatt at verdien av anvendte ikke-tvinnet/ikke-ekstrudert garn ikke overstiger 47,5 % av produktets pris fra fabrikk<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk41 |
+| 55.01 til 55.07 | Syntetiske og kunstige stapelfibrer | Ekstrudering av kjemiske fibre |  |
+| 55.08 til 55.11 | Garn og sytråd av syntetiske og kunstige stabelfibrer | Spinning av naturlige fibre eller ekstrudering av kjemiske fibre etterfulgt av spinning42 |  |
+| 55.12 til 55.16 | Vevnader av syntetiske og kunstige stapelfibrer | a) Minst utviklede land (MUL):<br>Veving43<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av fibre og/eller korte kjemiske fibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle ledsaget av veving<br>eller<br>Veving etterfulgt av farging eller belegging<br>eller<br>Garnfarging etterfulgt av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk44 |
+| ex Kapittel 56 | Vatt, filt og fiberbruk («nonwovens»); spesialgarn; hyssing, snører, liner og tau samt varer derav, unntatt: | Ekstrudering av kjemiske fibre etterfulgt av spinning eller spinning av naturlige fibre<br>eller<br>Velurisering etterfulgt av farging eller trykking45 |  |
+| 56.02 | Filt, også impregnert, overtrukket, belagt eller laminert: |  |  |
+|  | – Nålefilt | Ekstrudering av kjemiske fibre etterfulgt av fremstilling av vevnad likevel gjelder følgende for:<br>– filamenter av polypropylen som hører under posisjon 54.02,<br>– fibre av polypropylen som fører under posisjon 55.03 eller 55.06, eller<br>– bånd av filamenter av polypropylen som hører under posisjon 55.01,<br>forutsatt at de enkelte fibres finhet ikke er mindre enn 9 desitex,<br>kan anvendes, såfremt deres totale verdi ikke overstiger 40 % av produktets pris fra fabrikk<br>eller<br>Fremstilling av vevnad alene i tilfeller av filt som er fremstilt av naturlige fibre46 |  |
+|  | – Andre | Ekstrudering av kjemiske fibre, etterfulgt av fremstilling av stoff<br>eller<br>Fremstilling av vevnad alene i tilfeller av annen filt som er fremstilt av naturlige fibre47 |  |
+| 56.03 | Fiberduk («nonwovens»), også impregnert, overtrukket, belagt eller laminert | a) Minst utviklede land (MUL):<br>Enhver ikke-vevningsprosess, som omfatter gjennomstikking | b) Ordinære land:<br>Ekstrudering av kjemiske fibre eller anvendelse av naturlige fibre etterfulgt av ikke-vevningsteknikker, herunder gjennomstikking |
+| 56.04 | Tråd og snor av gummi overtrukket med tekstilmateriale; tekstilgarn samt strimler og liknende som hører under posisjon 54.04 eller 54.05 impregnert, overtrukket, belagt eller omsluttet med gummi eller plast: |  |  |
+|  | – Tråd og snor av gummi overtrukket med tekstil | Fremstilling av tråd og snor av gummi uten tekstilovertrekk |  |
+|  | – andre | Ekstrudering av kjemiske fibre etterfulgt av spinning eller spinning av naturlige fibre48 |  |
+| 56.05 | Metallisert garn, også omspunnet, fremstilt av tekstilgarn samt strimler og liknende som hører under posisjon 54.04 eller 54.05 i forbindelse med metall i form av tråd, strimler eller pulver eller overtrukket med metall | Ekstrudering av kjemiske fibre etterfulgt av spinning eller spinning av naturlige fibre og/eller kjemiske stapelfibre49 |  |
+| 56.06 | Omspunnet garn samt strimler og liknende som hører under posisjon 54.04 eller 54.05, omspunnet (unntatt garn, strimler og liknende som hører under posisjon 56.05, og omspunnet garn av tagl); chenillegarn; «chainettegarn» | Ekstrudering av kjemiske fibre etterfulgt av spinning eller spinning av naturlige fibre og/eller kjemiske stapelfibre<br>eller<br>Spinning etterfulgt av velurisering<br>eller<br>Velurisering etterfulgt av farging |  |
+| Kapittel 57 | Gulvtepper og annet gulvbelegg av tekstilmateriale | Spinning av naturlige fibre og/eller kjemiske stapelfibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle etterfulgt av veving<br>eller<br>Fremstilling av kokosgarn, sisalgarn eller jutegarn<br>eller<br>Velurisering etterfulgt av farging eller av trykking<br>eller<br>Tufting etterfulgt av farging eller av trykking<br>Ekstrudering av kjemiske fibre etterfulgt av ikke-vevingstekniker, som omfatter gjennomstikking50<br>Følgende gjelder for:<br>– filamenter av polypropylen fra posisjon 54.02,<br>– fibre av polypropylen fra posisjon 55.03 eller 55.06, eller<br>– bånd av filamenter av polypropylen fra posisjon 55.01,<br>må anvendes, forutsatt at de enkelte fibres finhet ikke er mindre enn 9 desitex,<br>og at deres totale verdi ikke overstiger 40 % av produktet pris fra fabrikk<br>Vevnad av jute kan anvendes som bunnstoff |  |
+| ex Kapittel 58 | Spesielle vevnader; tuftede tekstilstoffer; blonder og kniplinger; tapisserier; possement; broderier, unntatt: | a) Minst utviklede land (MUL):<br>Veving51<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk | b) Ordinære land:<br>Spinning av naturlige fibre og/eller kjemiske stabelfibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle etterfulgt av veving<br>eller<br>Vevning etterfulgt av farging eller av velurisering eller overtrekking<br>eller<br>Velurisering etterfulgt av farging eller av trykking<br>eller<br>Garnfarging etterfulgt av veving<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk52 |
+| 58.05 | Håndvevde tapisserier av typene gobeliner, flandern, aubusson, beauvais og liknende samt håndbroderte tapisserier (f.eks. «petit point» og korsstingsbroderier), ferdige eller som metervare | Fremstilling av materiale fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 58.10 | Broderier som metervare, bånd eller motiver | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 59.01 | Tekstilstoff overtrukket med naturlige gummier eller stivelsesholdige stoffer, av det slag som brukes til fremstilling av bokpermer eller liknende; kalkerlerret; preparert malerlerret; «rullebook» og liknende stivet tekstilstoff av det slag som brukes til fremstilling av hatter | Veving etterfulgt av farging eller velurisering eller overtrekking<br>eller<br>Velurisering etterfulgt av farging eller av trykking |  |
+| 59.02 | Kordvev for dekk av høystyrkegarn av nylon eller andre polyamider, polyestere eller viskoserayon: |  |  |
+|  | – Med et innhold av høyst 90 vektprosent tekstilmaterialer | Veving |  |
+|  | – andre | Ekstrudering av kjemisk fibre etterfulgt av veving |  |
+| 59.03 | Tekstilstoff impregnert, overtrukket, belagt eller laminert med plast, unntatt tekstilstoff som hører under posisjon 5902 | Veving etterfulgt av farging eller av belegging<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk |  |
+| 59.04 | Linoleum, også tilskåret; gulvbelegg som består av tekstilbunn med belegg, også tilskåret | Veving etterfulgt av farging eller av belegging53 |  |
+| 59.05 | Tekstiltapeter: |  |  |
+|  | – Impregnert, overtrukket, belagt eller laminert med gummi, plast eller andre materialer | Veving etterfulgt av farging eller av belegging |  |
+|  | – Andre | Spinning av naturlige fibre og/eller kjemiske stapelfibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle etterfulgt av veving<br>eller<br>Veving etterfulgt av farging eller belegging<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk54 |  |
+| 59.06 | Gummiert tekstilstoff, unntatt tekstilstoff som hører under posisjon 59.02: |  |  |
+|  | – Vevnader av trikotasje | Spinning av naturlige fibre og/eller kjemiske stapelfibre eller ekstrudering av endeløse kjemiske fibre, i hvert enkelt tilfelle etterfulgt av strikking<br>eller<br>Strikking etterfulgt av farging eller belegging<br>eller<br>Farging av garn av naturlige fibre etterfulgt av strikking55 |  |
+|  | – Andre vevnader fremstilt av syntetiske filamenter, med innhold av tekstilmaterialer på mer enn 90 vektprosent | Ekstrudering av kjemiske fibre etterfulgt av veving |  |
+|  | – ellers | Veving etterfulgt av farging eller belegging<br>eller<br>Farging av garn av naturlige fibre etterfulgt av veving |  |
+| 59.07 | Tekstilstoff som er impregnert, overtrukket eller belagt på annen måte; malte teaterkulisser, atelierbaktepper eller liknende av tekstilvevnad | Veving etterfulgt av farging eller av velurisering eller belegging<br>eller<br>Velurisering etterfulgt av farging eller trykking<br>eller<br>Trykking i forbindelse med minst to innledende eller avsluttende behandlinger som vasking, bleking, mercerisering, varmebehandling, ruing, pressing, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegning, laminering, stopping og reparasjon såfremt verdien av det anvendte utrykte stoff ikke overstiger 47,5 % av det ferdig produktets pris fra fabrikk |  |
+| 59.08 | Veker av vevde, flettede eller strikkede tekstilmaterialer, til lamper, ovner, tennere, lys eller liknende; gassglødenett og rundstrikkede varer til fremstilling av slike, også impregnerte: |  |  |
+|  | – Gassglødenett, impregnerte | Fremstilling av rørformede emner av tekstil |  |
+|  | – Andre | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 59.09 til 59.11 | Tekstilvarer til teknisk bruk: |  |  |
+|  | – Pusseskiver eller ringer av annet materiale enn filt under pos. 5911 | Veving |  |
+|  | – Tekstilvevnad av det slaget som vanligvis brukes i maskiner til fremstilling av papir eller til annen teknisk bruk, også filtet, impregnert eller belagt, rundstrikket eller i endeløs tråd med enkel eller dobbel varp og/eller veft, eller flat vevd med dobbel varp og/eller veft fra posisjon 59.11 | a) Minst utviklede land (MUL):<br>Veving56 | b) Ordinære land:<br>Ekstrudering av kjemiske fibre eller spinning av naturlige fibre og/eller kjemiske stapelfibre,<br>I hvert enkelt tilfelle etterfulgt av veving<br>eller<br>Veving etterfulgt av farging eller belegging<br>Følgende fibre kan anvendes:<br>– kokosgarn<br>– garn av polytetrafluoretylen57<br>– garn av polyamid, tvunnet og overtrukket, impregnert eller belagt med fenolharpiks<br>– garn av syntetisk tekstilfibre av aromatisk polyamid fremstilt av polykondensasjon av m-fenylendiademin og isoftalsyre<br>– monofilamenter av polytetrafluoretylen58<br>– garn av syntetiske tekstilfibre av poly(p-fenylenterefthalamid)<br>– garn av glassfibre, overtrukket med fenolharpiks og overtrukket med akrylgarn59<br>– monofilamenter av kopolyester bestående av en polyester, en tereftalsyreharpiks, 1,4-cyklohexandietanol og isoftalsyre |
+|  | – Andre | Ekstrudering av endeløse kjemiske fibre eller spinning av naturlige fibre eller kjemiske stapelfibre, etterfulgt av veving60<br>eller<br>Veving etterfulgt av farging eller belegging |  |
+| Kapittel 60 | Trikoterte stoffer | Spinning av naturlige fibre og/eller stapelfibre eller ekstrudering av endeløse fibre, i hvert enkelt tilfelle etterfulgt av strikking<br>eller<br>Strikking etterfulgt av farging eller velurisering eller belegging<br>eller<br>Velurisering etterfulgt av farging eller av trykking<br>eller<br>Farging av garn av naturlige fibre etterfulgt av strikking<br>eller<br>Tvinning eller ekstrudering etterfulgt av strikking, forutsatt av verdien av alle anvendte ikke-tvinnet/ikke-ekstrudert garn ikke overstiger 47,5 % av produktets pris fra fabrikk |  |
+| Kapittel 61 | Klær og tilbehør til klær, av trikotasje |  |  |
+|  | – Fremstilt ved sammensying eller annen samling av to eller flere stykker av trikotasjestoff som enten er skåret i form eller formtilvirket | a) Minst utviklede land (MUL):<br>Fremstilling av vevnad | b) Ordinære land:<br>Strikking av konfeksjon (herunder tilskjæring)61 62 |
+|  | – Andre | Spinning av naturlige fibre og/eller stapelfibre eller ekstrudering av endeløse fibre, i hvert enkelt tilfelle etterfulgt av strikking (varer av trikotasje fremstilt i form)<br>eller<br>Farging av garn av naturlige fibre etterfulgt av strikking (varer av trikotasje fremstilt i form)63 |  |
+| ex Kapittel 62 | Klær og tilbehør til klær, unntatt trikotasje, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling av vevnad | b) Ordinære land:<br>Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Konfeksjon foretatt etter trykking etterfulgt av minst to forberedende eller avsluttende behandlinger (som vasking, bleking, mercerisering, varmebehandling, opprulling, kalandering, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegging, laminering, stopping og reparasjon) forutsatt at verdien av anvendte utrykte vevnad ikke overstiger 47,5 % av produktets pris fra fabrikk64 65 |
+| ex 62.02,<br>ex 62.04,<br>ex 62.06,<br>ex 62.09 og<br>ex 62.11 | Klær og tilbehør til klær til kvinner, piker og spedbarn, forsynt med broderi | a) Minst utviklede land (MUL):<br>Regelen for kapitlet skal anvendes | b) Ordinære land:<br>Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Fremstilling av en ubrodert vevnad, hvis verdien av den ubroderte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk66 67 |
+| ex 62.10 og ex 62.16 | Brannsikkerhetsutstyr av vevnad belagt med et lag av aluminiumbehandlet polyester | a) Minst utviklede land (MUL):<br>Regelen for kapitlet skal anvendes | b) Ordinære land:<br>Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Belegging av vevnaden, forutsatt at verdien av den anvendte ikke-belagte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk, etterfulgt av konfeksjon (herunder tilskjæring)68 |
+| 62.13 og 62.14 | Lommetørklær, sjal, skjerf, halstørklær, mantiljer, slør og liknende varer: |  |  |
+|  | – Forsynt med broderi | Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Fremstilling av ubrodert vevnad, hvis verdien av den ubroderte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk69<br>eller<br>Konfeksjon foretatt etter trykking etterfulgt av minst to forberedende eller avsluttende behandlinger (som vasking, bleking, mercerisering, varmebehandling, opprulling, kalandering, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegging, laminering, stopping og reparasjon) forutsatt at verdien av anvendte uttrykte vevnad ikke overstiger 47,5 % av produktets pris fra fabrikk70 71 |  |
+|  | – Andre | Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Konfeksjon foretatt etter trykking etterfulgt av minst to forberedende eller avsluttende behandlinger (som vasking, bleking, mercerisering, varmebehandling, opprulling, kalandering, anti-krympebehandling, bearbeiding, impregnering, dekatering, belegging, laminering, stopping og reparasjon) forutsatt at verdien av anvendte utrykte vevnad ikke overstiger 47,5 % av produktets pris fra fabrikk72 73 |  |
+| 62.17 | Annet ferdig tilbehør til klær; deler til klær eller deler til tilbehør til klær, unntatt deler som hører under posisjon 62.12: |  |  |
+|  | – Forsynt med broderi | Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Fremstilling av ubrodert vevnad, hvis verdien av den ubroderte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk74 |  |
+|  | – Brannsikkert utstyr av vevnad belagt med et lag av aluminiumbehandlet polyester | Veving etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Belegging, forutsatt at verdien av den anvendte ikke belagte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk, etterfulgt av konfeksjon (herunder tilskjæring)75 |  |
+|  | – Innlegg til kraver og mansjetter, utskåret | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og hvor verdien av alle anvendte materialer ikke overstiger 40 % av produktets pris fra fabrikk |  |
+|  | – Andre | a) Minst utviklede land (MUL):<br>Regelen for kapitlet skal anvendes | b) Ordinære land:<br>Veving etterfulgt av konfeksjon (herunder tilskjæring)76 |
+| ex Kapitel 63 | Andre ferdige tekstilvarer; sett; brukte klær og andre brukte tekstilvarer; filler, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 63.01 til 63.04 | Pledd og liknende tepper, sengelinnet mv.; gardiner mv.; andre utstyrsvarer: |  |  |
+|  | – Av filt, av fiberduk | a) Minst utviklede land (MUL):<br>Enhver ikke-vevningsprosess, herunder gjennomstikking etterfulgt av konfeksjon (herunder tilskjæring) | b) Ordinære land:<br>Ekstrudering av kjemiske fibre eller anvendelse av naturlige fibre, i hvert tilfelle etterfulgt av ikke-vevningsprosesser herunder gjennomstikking og konfeksjon (herunder tilskjæring)77 |
+|  | – Andre varer: |  |  |
+|  | – Forsynt med broderi | Veving eller strikking etterfulgt av konfeksjon (herunder tilskjæring)<br>eller<br>Fremstilling av ubrodert vevnad, forutsatt at verdien av den ubroderte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk78 79 |  |
+|  | – Ellers | Veving eller strikking etterfulgt av konfeksjon (herunder tilskjæring) |  |
+| 63.05 | Sekker og poser, av det slag som brukes som emballasje | a) Minst utviklede land (MUL):<br>Veving eller strikking og konfeksjon (herunder tilskjæring)80 | b) Ordinære land:<br>Ekstrudering av kjemiske fibre eller spinning av naturlige fibre eller stapelfibre etterfulgt av vevning eller strikking og konfeksjon (herunder tilskjæring)81 |
+| 63.06 | Presenninger og markiser; telt (herunder midlertidige paviljonger og liknende artikler); seil til båter, seilbrett eller seilvogner; campingartikler: |  |  |
+|  | – Av fiberduk | a) Minst utviklede land (MUL):<br>Enhver ikke-vevingsprosess, herunder gjennomstikking etterfulgt av konfeksjon (herunder tilskjæring) | b) Ordinære land:<br>Ekstrudering av kjemiske fibre eller naturlige fibre, i hvert enkelt tilfelle etterfulgt av enhver form for vevningsteknikk, herunder gjennomstikking |
+|  | – Andre | Veving etterfulgt av konfeksjon (herunder tilskjæring)82 83<br>eller<br>Belegging, forutsatt at verdien av den anvendte ikke belagte vevnaden ikke overstiger 40 % av produktets pris fra fabrikk, etterfulgt av konfeksjon (herunder tilskjæring) |  |
+| 63.07 | Andre ferdige varer, herunder snittmønstre | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 40 % av produktets pris fra fabrikk |  |
+| 63.08 | Sett som består av vevnader og garn, også med tilbehør, til framstilling av tepper, tapisserier, broderte bordduker eller servietter, eller liknende tekstilvarer, i pakninger for detaljsalg | a) Minst utviklede land (MUL):<br>Hver artikkel i settet må oppfylle regelen som gjelder for artikkelen, som om artikkelen ikke inngikk i settet. Artikler uten opprinnelsesstatus kan allikevel medregnes, forutsatt at deres totale verdi ikke overstiger 25 % av settes pris fra fabrikk | b) Ordinære land:<br>Hver artikkel i settet må oppfylle den regel som gjelder for artikkelen, som om artikkelen ikke inngikk i settet. Artikler uten opprinnelsesstatus kan allikevel medregnes, forutsatt at deres totale verdi ikke overstiger 15 % av settes pris fra fabrikk |
+| ex Kapittel 64 | Fottøy, gamasjer og liknende; deler dertil, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av sammensatte deler, bestående av overdel påsatt bindsåle eller andre bunndeler som hører under posisjon 6406 |  |
+| 64.06 | Deler til fottøy (herunder overdeler, også om de er festet til andre såler enn yttersåler); løse innleggssåler, kippekapper og liknende innlegg; gamasjer, leggings og liknende varer samt deler dertil | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| Kapittel 65 | Hodeplagg og deler dertil | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| Kapittel 66 | Paraplyer, parasoller, spaserstokker, sittestokker, sveper, ridepisker og deler dertil | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 67 | Bearbeidede fjær og dun samt varer derav; kunstige blomster; varer av menneskehår | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex Kapittel 68 | Varer av stein, gips, sement, asbest, glimmer eller liknende materialer, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 68.03 | Varer av naturlig eller agglomerert skifer | Fremstilling av bearbeidet skifer |  |
+| ex 68.12 | Varer av asbestfibrer; blandinger på basis av asbest eller på basis av asbest og magnesiumkarbonat | Fremstilling av materialer fra enhver posisjon |  |
+| ex 68.14 | Varer av glimmer, herunder agglomerert eller rekonstruert glimmer, også på underlag av papir, papp eller andre materialer | Fremstilling av bearbeidet glimmer, herunder varer av agglomerert eller rekonstruert glimmer |  |
+| Kapittel 69 | Keramiske produkter | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt fra materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 70 | Glass og glassvarer, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 70.06 | Glass som hører under posisjon 70.03, 70.04 eller 70.05, bøyd, med bearbeidede kanter, gravert, gjennomhullet, emaljert eller bearbeidet på annen måte, men ikke innrammet eller i forbindelse med andre materialer |  |  |
+|  | – Glassplater (substrater) med dielektrisk belegging av metall, halvledere ifølge standarder fra SEMII84 | Fremstilling av glassplater (substrater uten belegg) fra posisjon 70.06 |  |
+|  | – Andre | Fremstilling av materialer fra posisjon 70.01 |  |
+| 70.10 | Ballonger, flasker, flakonger, krukker, ampuller og andre beholdere, av glass, av det slag som brukes til transport eller emballering av varer; konserveringsglass; propper, lokk og andre lukkeanordninger, av glass | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Sliping av varer av glass, forutsatt at den totale verdi av det anvendte uslipte glass ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| 70.13 | Husholdnings- og toalettartikler, kontorutstyr, innendørs dekorasjonsgjenstander eller liknende av glass (unntatt varer som hører under posisjon 70.10 eller 70.18) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Sliping av varer av glass, forutsatt at den totale verdi av den anvendte uslipte glass ikke overstiger 50 % av produktets pris fra fabrikk<br>eller<br>Dekorasjon, unntatt serigrafisk trykking utelukkende utført for hånd, av varer av glass, munnblåst, og forutsatt at den totale verdi av den anvendte munnblåste glass ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| ex 70.19 | Varer av glassfiber, unntatt garn: | Fremstilling av:<br>– ufargede lunter, forgarn, garn og oppskårne bunter, eller<br>– glassull |  |
+| ex Kapittel 71 | Natur- eller kulturperler, edle eller halvedle steiner, edle metaller, metaller plettert med edelt metall, og varer derav; bijouterivarer; mynter, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 71.06, 71.08 og 71.10 | Edle metaller: |  |  |
+|  | – Ubearbeidet | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra posisjon 71.06, 71.08 og 71.10<br>eller<br>Elektrolytisk, termisk eller kjemisk separering av edelt metall fra posisjon 71.06, 71.08 og 71.10<br>eller<br>Fusjon og/eller legering av edle metaller fra posisjon 71.06, 71.08 eller 71.10 med hverandre eller med andre uedle metaller |  |
+|  | – I form av halvfabrikat eller som pulver | Fremstilling av ubearbeidede edle metaller |  |
+| ex 71.07, ex 71.09 og ex 71.11 | Metall plettert med edelt metall, i form av halvfabrikater | Fremstilling av plettert metall av ubearbeidede edle metaller |  |
+| 71.15 | Andre varer av edelt metall eller av metall plettert med edelt metall | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 71.17 | Andre smykkevarer (bijouterivarer) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling av metalldeler, ikke plettert eller belagt med edle metaller, forutsatt at verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| ex Kapittel 72 | Jern og stål, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 72.07 | Halvfabrikater av jern eller ulegert stål | Fremstilling av materialer fra posisjon 72.01, 72.02, 72.03, 72.04, 72.05 eller 72.06 |  |
+| 72.08 til 72.16 | Flatvalsede produkter, stenger, profiler av jern og ulegert stål | Fremstilling av blokker (ingots) eller andre ubearbeidete former eller halvfabrikata av materialer fra posisjon 72.06 eller 72.07 |  |
+| 72.17 | Tråd av jern og ulegert stål | Fremstilling av halvfabrikata av materialer fra posisjon 72.07 |  |
+| 7218.91 og 7218.99 | Halvfabrikater | Fremstilling av materialer fra posisjon 72.01, 72.02, 72.03, 72.04, 72.05 eller underposisjon 7218.10 |  |
+| 72.19 til 72.22 | Flatvalsede produkter, stenger, profiler av rustfritt stål | Fremstilling av blokker (ingots) eller andre ubearbeidete former eller halvfabrikata av materialer fra posisjon 72.18 |  |
+| 72.23 | Tråd av rustfritt stål | Fremstilling av halvfabrikata av materialer fra posisjon 72.18 |  |
+| 72.24.90 | Halvfabrikata | Fremstilling av materialer fra posisjon 72.01, 72.02, 72.03, 72.04, 72.05 eller underposisjon 7224.10 |  |
+| 72.25 til 72.28 | Flatvalsede produkter og varmvalsede stenger i uregelmessig opprullede ringer; profiler av annet legert stål, hule borestenger av legert eller ulegert stål | Fremstilling av blokker (ingots) eller andre ubearbeidete former eller halvfabrikata av materialer fra posisjon 72.06, 72.07, 72.18 eller 72.24 |  |
+| 72.29 | Tråd av legert stål | Fremstilling av halvfabrikata av materialer fra posisjon 72.24 |  |
+| ex Kapitel 73 | Varer av jern eller stål, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex 73.01 | Spundveggjern | Fremstilling av materialer fra posisjon 72.07 |  |
+| 73.02 | Følgende skinnemateriell av jern eller stål, til jernbaner eller sporveger: skinner, motskinner og tannskinner, sporvekseltunger, sporkryss, sporvekselstag og andre deler til sporveksler, sviller, lasker, skinnestoler, stolkiler, underlagsplater, klemplater, traversjern og annet spesielt materiell til sammenføyning eller festing av skinner | Fremstilling av materialer fra posisjon 72.06 |  |
+| 73.04, 73.05 og 73.06 | Rør og hule profiler, av jern (bortsett fra støpejern) eller stål | Fremstilling av materialer fra posisjon 72.06, 72.07, 72.08, 72.09, 72.10, 72.11, 72.12, 72.18, 72.19, 72.20 eller 72.24 |  |
+| ex 73.07 | Rørdeler (fittings), av rustfritt stål | Dreiing, boring, brotsjing, gjenging, avgrading, sandblåsing av smidde emner, forutsatt at den totale verdien av smidde emner ikke overstiger 35 % av produktets pris fra fabrikk |  |
+| 73.08 | Jern- og stålkonstruksjoner (unntatt prefabrikkerte bygninger som hører under posisjon 94.06) og deler dertil (f.eks. bruer og bruseksjoner, sluseporter, tårn, master, tak, taksperrer, dører og vinduer samt rammer og karmer dertil og dørterskler, skodder, rekkverk, søyler og pilarer), av jern eller stål; plater, stenger, profiler, rør og liknende av jern eller stål, bearbeidet til bruk i konstruksjoner | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid, sveisede hjørner, former og profiler fra posisjon 73.01 kan ikke anvendes. |  |
+| ex 73.15 | Snøkjettinger | Fremstilling hvor verdien av alle materialer fra posisjon 73.15 ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| ex Kapittel 74 | Kobber og varer derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 74.03 | Raffinert kobber og kobberlegeringer, i ubearbeidet form | Fremstilling av materialer fra enhver posisjon |  |
+| Kapittel 75 | Nikkel og varer derav | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| ex Kapittel 76 | Aluminium og varer derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 76.01 | Ubearbeidet aluminium | Fremstilling av materialer fra enhver posisjon |  |
+| 76.07 | Folier av aluminium (også trykte eller med underlag av papir, papp, plast eller liknende materiale), med tykkelse høyst 0,2 mm (underlag ikke medregnet) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 76.06 |  |
+| Kapittel 77 | (Kapitlet er reservert for eventuell framtidig bruk i «Harmonized System») |  |  |
+| ex Kapittel 78 | Bly og varer derav, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| 78.01 | Ubearbeidet bly: |  |  |
+|  | – Raffinert bly | Fremstilling av materialer fra enhver posisjon |  |
+|  | – Andre | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan ikke avfall og skrot fra posisjon 78.02 anvendes |  |
+| Kapittel 79 | Sink og varer derav | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| Kapittel 80 | Tinn og varer derav | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+| Kapittel 81 | Andre uedle metaller; cermeter; varer derav | Fremstilling av materialer fra enhver posisjon |  |
+| ex Kapittel 82 | Verktøy, redskaper, kniver, skjeer og gafler av uedelt metall; deler dertil av uedelt metall, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 82.06 | Verktøy og redskaper fra to eller flere av posisjonene 82.02–82.05, pakket i sett for detaljsalg | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra posisjon 82.02 til 82.05. Imidlertid kan verktøy fra posisjon 82.02 til 82.05, medtas i sett, forutsatt at deres totale verdi ikke overstiger 15 % av settes pris fra fabrikk |  |
+| 82.11 | Kniver som ikke hører under noen annen posisjon i dette kapittel, med skjærende egg, også sagtakket (herunder gartnerkniver), og blad dertil | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan blader til kniver og håndtak av uedelt metall anvendes |  |
+| 82.14 | Andre skjære- og klipperedskaper (f.eks. hårklippere, kløyve-, hogge- og hakkeredskaper for slaktere eller til kjøkkenbruk, papirkniver); artikler og sett for manikyr eller pedikyr (herunder neglefiler) | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan håndtak av uedelt metall anvendes |  |
+| 82.15 | Skjeer, gafler, øser, sleiver, hullsleiver, kakespader, fiske- og smørkniver, sukkerklyper og liknende husholdningsartikler | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan håndtak av uedelt metall anvendes |  |
+| ex Kapittel 83 | Forskjellige varer av uedelt metall, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 83.02 | Annet beslag, tilbehør og liknende varer, til bygninger, og automatiske dørlukkere | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan andre materialer fra posisjon 83.02 anvendes, forutsatt at deres totale verdi ikke overstiger 20 % av produktets pris fra fabrikk |  |
+| ex 83.06 | Statuetter og andre dekorasjonsgjenstander av uedel metaller | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan andre materialer fra posisjon 83.06 anvendes, forutsatt at deres totale verdi ikke overstiger 30 % av produktets pris fra fabrikk |  |
+| ex Kapittel 84 | Kjernereaktorer, kjeler, maskiner, apparater og mekaniske redskaper; deler dertil, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 84.01 | Kjernereaktorer; ubestrålte brenselelementer for kjernereaktorer; maskiner og apparater for separering av isotoper | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 84.07 | Stempeldrevne forbrenningsmotorer med gnisttenning og med frem- og tilbakegående eller roterende stempel | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 84.08 | Stempeldrevne forbrenningsmotorer med kompresjonstenning (diesel- eller semidieselmotorer) | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 84.27 | Gaffeltrucker; andre trucker samt traller uten fremdriftsmotor, med løfte- eller håndteringsutstyr | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 84.82 | Kule- eller rullelagre | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 85 | Elektriske maskiner, apparater og materiell, samt deler dertil; apparater for opptak og gjengivelse av lyd og apparater for opptak og gjengivelse av bilder og lyd for fjernsyn, samt deler og tilbehør til slike apparater, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 85.01, 85.02 | Elektriske motorer og generatorer; elektriske generatoraggregater og roterende elektriske omformere | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.03<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.03<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.13 | Bærbare, elektriske lykter som virker ved egen strømkilde (f.eks. batterier, akkumulatorer eller dynamoer), unntatt lysutstyr som hører under posisjon 85.12 | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.19 | Apparater for opptak eller gjengivelse av lyd | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.22<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.22<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.21 | Apparater for opptak eller gjengivelse av videosignaler, også med innebygd videotuner | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.22<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.22<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.23 | Plater, bånd, ikke-flyktige halvlederminner, («solid state non-volatile storage devices»), aktive kort («smart cards») og annet materiell for opptak av lyd eller andre fenomener, også innspilte, herunder matriser for fremstilling av plater, men unntatt varer som hører under kapittel 37 | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.25 | Sendere for radiokringkasting eller fjernsyn, også sammenbygd med mottakere eller apparater for opptak eller gjengivelse av lyd; fjernsynskameraer, digitale kameraer og videokameraopptakere | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.26 | Radarapparater, radionavigasjonsapparater og radiofjernstyringsapparater | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.27 | Mottakere for radiokringkasting, også kombinert i felles kabinett eller kasse med apparater for opptak eller gjengivelse av lyd eller med et ur | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.28 | Monitorer og projektorer, uten innebygd fjernsynsmottaker; fjernsynsmottakere, også med innebygde radiomottakere for kringkasting eller med apparater for opptak eller gjengivelse av lyd eller videosignaler | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.29<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.35 til 85.37 | Elektriske apparater til å slutte, bryte, sikre eller forbinde elektriske strømkretser; forbindelsesdeler for optiske fibrer, optiske fiberbunter eller optiske fiberkabler; plater, tavler, konsoller, pulter, kabinetter og liknende, for elektrisk kontroll eller fordeling av elektrisitet | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.38<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet og posisjon 85.38<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 8540.11 og 8540.12 | Katodestrålebilderør for fjernsyn, herunder katodestrålerør til fjernsynsmonitorer | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 8542.31 til 8543.33 og 8542.39 | Elektroniske, integrerte kretser | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk<br>eller<br>Diffusjon (hvor integrerte kretsløp formes på et halvledersubstrat ved selektiv påføring av et passende doteringsmateriale), uansett om det samles og/eller testet i en ikke-part |  |
+| 85.44 | Isolert (herunder lakkert eller anodisert) tråd, kabel (herunder koaksialkabel) og andre isolerte, elektriske ledere, også med forbindelsesdeler; optiske fiberkabler sammensatt av fibrer som er skjermet fra hverandre, også med forbindelsesdeler | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.45 | Kullelektroder, kullbørster, lampekull, batterikull og andre varer av kull, også med metall, av det slag som brukes til elektriske formål | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 85.46 | Elektriske isolatorer, uansett materiale | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.47 | Isolasjonsdetaljer (unntatt isolatorer som hører under posisjon 85.46) til elektriske maskiner, apparater eller til elektrisk materiell, som består helt av isolerende materiale, bortsett fra mindre komponenter av metall (f.eks. gjengede hylser, muffer og liknende) som er istøpt utelukkende for sammenføyning; elektriske ledningsrør og forbindelsesdeler dertil, av uedelt metall fôret med isolerende materiale | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.48 | Elektriske deler til maskiner eller apparater, ikke nevnt eller innbefattet annet sted i dette kapittel | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 85.49 | Elektrisk og elektronisk avfall og skrap | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 86 | Lokomotiver, vogner og annet rullende materiell for jernbaner eller sporveier samt deler dertil; stasjonært materiell for jernbaner eller sporveier samt deler dertil; mekanisk (herunder elektromekanisk) trafikkreguleringsutstyr av alle slag | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 87 | Kjøretøyer samt deler og tilbehør dertil, unntatt rullende materiell for jernbaner og sporveger, unntatt: | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 87.11 | Motorsykler (herunder mopeder) og sykler med hjelpemotor, med eller uten sidevogn; sidevogner | a) Minst utviklede land (MUL):<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| ex Kapittel 88 | Luftfartøyer, romfartøyer og deler dertil, unntatt: | Fremstilling av materialer fra enhver posisjon herunder andre materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 88.04 | Rotochutes (roterende fallskjermer) | Fremstilling av materialer fra enhver posisjon, herunder andre materialer fra posisjon 88.04<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 89 | Skip, båter og annet flytende materiell | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 90 | Instrumenter og apparater til optisk, fotografisk, kinematografisk, medisinsk eller kirurgisk bruk samt måle-, kontroll- eller presisjonsinstrumenter og -apparater; deler og tilbehør dertil, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 90.02 | Linser, prismer, speil og andre optiske elementer, av ethvert materiale, innfattede, som utgjør deler eller tilbehør til instrumenter eller apparater, unntatt slike elementer av ikke-optisk bearbeidet glass | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| 90.33 | Deler og tilbehør (ikke nevnt eller innbefattet annet sted i dette kapittel) til maskiner, instrumenter eller apparater som hører under kapittel 90 | a) Minst utviklede land (MUL):<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk | b) Ordinære land:<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |
+| Kapittel 91 | Ur og urdeler | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 92 | Musikkinstrumenter; deler og tilbehør til slike instrumenter | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| Kapittel 93 | Våpen og ammunisjon; deler og tilbehør dertil | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 50 % av produktets pris fra fabrikk |  |
+| Kapittel 94 | Møbler; sengebunner og sengeutstyr, som f.eks. madrasser, puter og liknende stoppede varer; lamper og annet belysningsutstyr, ikke nevnt eller innbefattet annet sted; lysskilt og liknende; prefabrikkerte bygninger | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex Kapittel 95 | Leketøy, spill og sportsartikler samt deler og tilbehør dertil, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| ex 95.06 | Golfkøller og deler dertil | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan grovt tildannet blokker til fremstilling av golfkøllehode anvendes |  |
+| ex Kapittel 96 | Forskjellige varer, unntatt: | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet<br>eller<br>Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 96.01 og 96.02 | Elfenbein, bein, skilpaddeskall, horn, gevirer, korall, perlemor og andre animalske materialer til utskjæring, bearbeidede samt varer av disse materialer (herunder støpte varer). Vegetabilske eller mineralske materialer til utskjæring, bearbeidede samt varer av disse materialer; støpte eller utskårne varer av voks, parafin, stearin, naturlige gummier, naturlige harpikser, modellermasse og andre støpte eller utskårne varer, ikke nevnt eller innbefattet annet sted; bearbeidet, uherdet gelatin (unntatt gelatin som hører under posisjon 35.03) og varer av uherdet gelatin | Fremstilling av materialer fra enhver posisjon |  |
+| 96.03 | Koster, børster, pensler og liknende (herunder børster som utgjør deler til maskiner, apparater eller kjøretøyer), mekaniske gulvfeieapparater uten motor, mopper og fjærkoster; ferdige bindler til framstilling av børster, koster og pensler; malerputer og -ruller; naler (unntatt glatteruller) | Fremstilling hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 96.05 | Reiseetuier for toalettbruk, for sying eller for rengjøring av sko eller klær | Hver artikkel i settet må oppfylle regelen som gjelder for artikkelen som om artikkelen ikke inngikk i settet. Artikler uten opprinnelsesstatus kan likevel medregnes, forutsatt at deres totale verdi ikke overstiger 15 % av settes pris fra fabrikk |  |
+| 96.06 | Knapper, trykknapper og liknende, knappeformer og andre deler til disse varer; knappeemner | Fremstilling:<br>– av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, og<br>– hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 96.08 | Kulepenner; filtpenner og andre penner med porøse spisser; fyllepenner, stylografer og andre penner; stensilpenner (styluspenner); mekaniske blyanter; penneskaft, blyantforlengere og liknende; deler (herunder hetter og klips) til de forannevnte varer, unntatt de som hører under posisjon 96.09 | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet. Imidlertid kan pennesplitter eller pennespisser fra samme posisjon som produktet anvendes |  |
+| 96.12 | Fargebånd til skrivemaskiner og liknende fargebånd innsatt med farge eller behandlet på annen måte slik at de gir avtrykk, også på spoler eller i kassetter; stempelputer med eller uten eske, også uten farge | Fremstilling:<br>– av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet, og<br>– hvor verdien av alle anvendte materialer ikke overstiger 70 % av produktets pris fra fabrikk |  |
+| 9613.20 | Lommetennere, med gass som brennstoff, for etterfylling | Fremstilling hvor verdien av den totale verdi av anvendte materialer fra posisjon 96.13 ikke overstiger 30 % av produktets pris fra fabrikk |  |
+| 96.14 | Piper (herunder pipehoder), sigar- og sigarettmunnstykker samt deler dertil | Fremstilling av materialer fra enhver posisjon |  |
+| Kapitel 97 | Kunstverker, samlergjenstander og antikviteter | Fremstilling av materialer fra enhver posisjon, unntatt av materialer fra samme posisjon som produktet |  |
+
+1 Jf. punkt 4.2. i de innledende anmerkningene.
+
+2 Jf. punkt 4.2 i de innledende anmerkningene.
+
+3 Jf. punkt 4.2 i de innledende anmerkningene.
+
+4 Jf. punkt 4.2 i de innledende anmerkningene.
+
+5 Jf. punkt 4.2 i de innledende anmerkningene.
+
+6 Jf. punkt 4.2 i de innledende anmerkningene.
+
+7 Jf. punkt 4.2 i de innledende anmerkningene.
+
+8 Jf. punkt 4.2 i de innledende anmerkningene.
+
+9 Jf. punkt 4.2 i de innledende anmerkningene.
+
+10 Jf. punkt 4.2 i de innledende anmerkningene.
+
+11 Jf. punkt 4.2 i de innledende anmerkningene.
+
+12 Jf. punkt 4.2 i de innledende anmerkningene.
+
+13 Jf. punkt 4.2 i de innledende anmerkningene.
+
+14 Jf. punkt 4.2 i de innledende anmerkningene.
+
+15 Jf. punkt 4.2 i de innledende anmerkningene.
+
+16 Jf. punkt 4.2 i de innledende anmerkningene.
+
+17 Jf. de særlige betingelser vedrørende «spesifikke prosesser» i punkt 8.1 og 8.3 i de innledende anmerkningene.
+
+18 Jf. de særlige betingelser vedrørende «spesifikke prosesser» i punkt 8.2 i de innledende anmerkningene.
+
+19 Jf. de særlige betingelser vedrørende «spesifikke prosesser» i punkt 8.2 i de innledende anmerkningene.
+
+20 Jf. de særlige betingelser vedrørende «spesifikke prosesser» i punkt 8.2 i de innledende anmerkningene.
+
+21 Jf. de særlige betingelser vedrørende «spesifikke prosesser» i punkt 8.1 og 8.3 i de innledende anmerkningene.
+
+22 Med «gruppe» forstås enhver annen del av posisjonen, som er avskilt fra resten av posisjonsteksten med semikolon.
+
+23 For varer som består av materialer fra posisjon 39.01 til 39.06, og fra posisjon 39.07 til 39.11, er denne begrensningen kun anvendelig på den gruppe av materialer som beregnes etter vekt er den fremtredende for den påfølgende vare.
+
+24 For varer som består av materialer fra under posisjon 39.01 til 39.06, og posisjon 3907 til 3911, er denne begrensningen kun anvendelig på den gruppe av materialer som beregnes etter vekt er den fremtredende for den påfølgende vare.
+
+25 Følgende bånd betraktes som særdeles transparente: bånd hvis uklarhetsfaktor – målt etter ASTM-D 1003-16 med Gardners nefelometer (uklarhetsfaktor) – er på under 2 %.
+
+26 Følgende bånd betraktes som særdeles transparente: bånd hvis uklarhetsfaktor – målt etter ASTM-D 1003-16 med Gardners nefelometer (uklarhetsfaktor) – er på under 2 %.
+
+27 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+28 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+29 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+30 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+31 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+32 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+33 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+34 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+35 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+36 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+37 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+38 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+39 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+40 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+41 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+42 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+43 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+44 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+45 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+46 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+47 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+48 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+49 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+50 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+51 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+52 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+53 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+54 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+55 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6.1 i de innledende anmerkningene.
+
+56 Jf. de særlige betingelsene for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+57 Dette produktet anvendes kun til fremstilling av vevet stoff av denne art, som anvendes til papirmaskiner.
+
+58 Dette produktet anvendes kun til fremstilling av vevet stoff av denne art, som anvendes til papirmaskiner.
+
+59 Dette produktet anvendes kun til fremstilling av vevet stoff av denne art, som anvendes til papirmaskiner.
+
+60 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+61 Dette produktet anvendes kun til fremstilling av vevet stoff av denne art, som anvendes til papirmaskiner.
+
+62 Jf. punkt 7 i de innledende anmerkningene.
+
+63 Jf. de særlige betingelser for produkter av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+64 Jf. de særlige betingelser for produkter av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+65 Jf. punkt 7 i de innledende anmerkningene.
+
+66 Jf. punkt 7 i de innledende anmerkningene.
+
+67 Jf. punkt 7 i de innledende anmerkningene.
+
+68 Jf. punkt 7 i de innledende anmerkningene.
+
+69 Jf. punkt 7 i de innledende anmerkningene.
+
+70 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+71 Jf. punkt 7 i de innledende anmerkningene.
+
+72 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+73 Jf. punkt 7 i de innledende anmerkningene.
+
+74 Jf. punkt 7 i de innledende anmerkningene.
+
+75 Jf. punkt 7 i de innledende anmerkningene.
+
+76 Jf. punkt 7 i de innledende anmerkningene.
+
+77 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+78 Jf. punkt 7 i de innledende anmerkningene.
+
+79 Jf. punkt 7 i de innledende notene, angående artikler av trikotasje, ikke elastisk gummiert, fremstilt av sammensying eller samlet på annen måte av stykker, som er tilskåret eller direkte fremstilt.
+
+80 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+81 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+82 Jf. de særlige betingelser for produkter fremstilt av blandinger av tekstilmaterialer i punkt 6 i de innledende anmerkningene.
+
+83 Jf. punkt 7 i de innledende anmerkningene.
+
+84 SEMII – Semiconductor Equipment and Materials Institute Incorporated.

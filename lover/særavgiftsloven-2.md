@@ -22,9 +22,13 @@ eu_basis: []
 
 # Lov om særavgifter (særavgiftsloven)
 
+Følgende lover oppheves:
+
 1. [Lov 19. mai 1933 nr. 11 om særavgifter (særavgiftsloven)](lov/1933-05-19-11).
 2. [Lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)](lov/1959-06-19-2).
 3. [Lov 12. desember 1975 nr. 59 om dokumentavgift (dokumentavgiftsloven)](lov/1975-12-12-59).
+
+Endringer i følgende lover:
 
 1. [Lov 1. juli 1927 nr. 1 om registrering av elektriske kraftledninger](lov/1927-07-01-1).
 2. [Lov 21. juni 1963 nr. 23 om vegar (veglova)](lov/1963-06-21-23).
@@ -819,84 +823,146 @@ Loven trer i kraft fra det tidspunkt Kongen bestemmer. Fra samme tidspunkt opphe
 
 Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 1. juli 1927 nr. 1 om registrering av elektriske kraftledninger](lov/1927-07-01-1) [kraftledningsregisterloven] gjøres følgende endringer:
+
+[§ 14](lov/1927-07-01-1/§14) oppheves.
+
+**2.** I [lov 21. juni 1963 nr. 23 om vegar (veglova)](lov/1963-06-21-23) gjøres følgende endringer:
+
+[§ 52 andre ledd andre punktum](lov/1963-06-21-23/§52/ledd/2/setning/2) skal lyde:
+
 Det skal ikkje betalast rettsgebyr etter [tinglysingsloven § 12 b](lov/1935-06-07-2/§12b) ved overføringa.
+
+**3.** I [lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven)](lov/2001-06-15-93) gjøres følgende endringer:
+
+[§ 50 tredje ledd](lov/2001-06-15-93/§50/ledd/3) skal lyde:
 
 Det skal ikke betales rettsgebyr etter [tinglysingsloven § 12 b](lov/1935-06-07-2/§12b) i forbindelse med omdanninger i medhold av denne bestemmelsen.
 
+[§ 52 nr. 8](lov/2001-06-15-93/§52/nummer/8) oppheves.
+
+**4.** I [lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)](lov/2005-06-17-85) gjøres følgende endringer:
+
+[§ 45 andre ledd](lov/2005-06-17-85/§45/ledd/2) skal lyde:
+
 For rettigheter som er fastslått i en rettskraftig dom fra utmarksdomstolen eller i en erklæring eller avtale i samsvar med Finnmarkskommisjonens konklusjoner, er offentligrettslige begrensninger i adgangen til å stifte eller overdra slike rettigheter ikke til hinder for at rettigheten tinglyses. Det betales ikke gebyr ved tinglysingen.
+
+**5.** I [lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)](lov/2005-06-17-67) gjøres følgende endringer:
+
+[§ 1-1 andre ledd bokstav h](lov/2005-06-17-67/§1-1/ledd/2/bokstav/h) skal lyde:
 
 særavgifter etter særavgiftsloven, unntatt dokumentavgift
 
+[§ 1-1 andre ledd bokstav i](lov/2005-06-17-67/§1-1/ledd/2/bokstav/i) oppheves.
+
+[§ 3-3 første ledd](lov/2005-06-17-67/§3-3/ledd/1) skal lyde:
+
 (1) [Forvaltningsloven §§ 16](lov/1967-02-10/§16), [24](lov/1967-02-10/§24), [25](lov/1967-02-10/§25) og [42](lov/1967-02-10/§42) gjelder ikke for vedtak som treffes under avregningen.
 
-(1) Merverdiavgift forfaller til betaling samme dag som det skal leveres skattemelding etter [skatteforvaltningsloven § 8-3 første](lov/2016-05-27-14/§8-3/ledd/1) og [annet ledd](lov/2016-05-27-14/§8-3/ledd/2).
+[§ 3-3 tredje ledd](lov/2005-06-17-67/§3-3/ledd/3) oppheves.
 
-(2) Merverdiavgift for varer som innføres, forfaller til betaling samtidig som avgiften i henhold til [tollavgiftsloven § 2-1](lov/2022-03-11-8/§2-1) skal beregnes. Avgift som belastes kreditten ved innførsel, jf. [§ 14-20 første ledd](lov/2005-06-17-67/§14-20/ledd/1), eller månedsoppgjørsordningen en kalendermåned, jf. [§ 14-20 andre ledd](lov/2005-06-17-67/§14-20/ledd/2), forfaller til betaling den 18. i neste måned. Avgift som belastes dagsoppgjørsordningen, forfaller til betaling første virkedag etter frigjøring for prosedyren overgang til fri disponering. Skattekontoret kan fastsette en nærmere frist for når på forfallsdagen betaling av dagsoppgjør må ha skjedd.
+[§ 3-3](lov/2005-06-17-67/§3-3) gjeldende fjerde ledd blir nytt tredje ledd.
 
-(3) Beløp som uriktig er oppgitt som merverdiavgift, jf. [merverdiavgiftsloven § 11-4 annet ledd](lov/2009-06-19-58/§11-4/ledd/2), forfaller til betaling samme dag som det skal leveres melding etter [merverdiavgiftsloven § 15-11 annet ledd](lov/2009-06-19-58/§15-11/ledd/2).
+Gjeldende [§§ 10-31](lov/2005-06-17-67/§10-31) og [10-32](lov/2005-06-17-67/§10-32) blir nye [§§ 10-40](lov/2005-06-17-67/§10-40) og [10-41](lov/2005-06-17-67/§10-41).
 
-(4) Departementet kan i forskrift gi regler om avvikende forfallstidspunkt for enkelte situasjoner.
+Overskriften til [§§ 10-30](lov/2005-06-17-67/§10-30), [10-31](lov/2005-06-17-67/§10-31) og [10-32](lov/2005-06-17-67/§10-32) skal lyde:
 
-(1) Særavgifter forfaller til betaling samme dag som det skal leveres skattemelding etter [skatteforvaltningsloven § 8-4](lov/2016-05-27-14/§8-4) første eller fjerde ledd.
+[§§ 10-30](lov/2005-06-17-67/§10-30) til [10-32](lov/2005-06-17-67/§10-32) skal lyde:
 
-(2) Særavgifter for varer som innføres, forfaller til betaling etter reglene i [§ 10-30 annet ledd](lov/2005-06-17-67/§10-30/ledd/2) med mindre den avgiftspliktige er registrert i Særavgiftsregisteret.
+Overskriften til [§§ 10-40](lov/2005-06-17-67/§10-40) og [10-41](lov/2005-06-17-67/§10-41) skal lyde:
 
-(3) Veibruksavgift på drivstoff ved bruk av merket mineralolje og merket biodiesel til formål som ikke er fritatt for avgift, jf. [særavgiftsloven § 7-1 annet ledd](lov/2026-06-19-41/§7-1/ledd/2), forfaller til betaling tre uker etter at avgiftskravet er sendt.
-
-(4) Engangsavgift på motorvogner mv. forfaller til betaling når kjøretøyet registreres for første gang i Kjøretøyregisteret. Dersom det benyttes kreditt, jf. [§ 14-21](lov/2005-06-17-67/§14-21), forfaller avgiften til betaling den 18. i måneden etter registreringen. Engangsavgift som skal betales før eller etter første gangs registrering, forfaller til betaling samme dag som det skal leveres skattemelding etter [skatteforvaltningsloven § 8-4 sjette ledd](lov/2016-05-27-14/§8-4/ledd/6).
-
-(5) Omregistreringsavgift forfaller til betaling når kjøretøyet omregistreres i Kjøretøyregisteret.
-
-(6) Avgift på tunge kjøretøy som er registrert i Kjøretøyregisteret 1. januar, forfaller til betaling 20. februar. Avgift på tunge kjøretøy som er registrert i Kjøretøyregisteret 1. juli, forfaller til betaling 20. august.
-
-(7) Departementet kan i forskrift gi regler om forfallstidspunktene og avvikende forfallstidspunkt i enkelte situasjoner.
-
-Tollavgift forfaller til betaling etter reglene i [§ 10-30 annet ledd](lov/2005-06-17-67/§10-30/ledd/2).
+[§ 11-2 syvende ledd](lov/2005-06-17-67/§11-2/ledd/7) skal lyde:
 
 (7) Dersom arveavgift i medhold av [§ 10-40 fjerde ledd](lov/2005-06-17-67/§10-40/ledd/4) blir betalt senere enn den forfallstid som følger av [§ 10-40 første](lov/2005-06-17-67/§10-40/ledd/1) og [annet ledd](lov/2005-06-17-67/§10-40/ledd/2), skal det betales rente av avgiftsbeløpet for tiden fra ordinært forfall og fram til endelig avgiftsfastsettelse skjer.
+
+[§ 14-11 første](lov/2005-06-17-67/§14-11/ledd/1) og [andre ledd](lov/2005-06-17-67/§14-11/ledd/2) skal lyde:
 
 (1) Dersom krav på avgift på tunge kjøretøy, engangsavgift på motorvogner mv. eller omregistreringsavgift ikke betales til rett tid, kan skattekontoret bestemme at bruken av det kjøretøy som kravene knytter seg til, skal stanses inntil avgiftene er betalt. Det samme gjelder dersom merket mineralolje og merket biodiesel brukes til formål som ikke er fritatt for avgift etter [særavgiftsloven § 7-4 første](lov/2026-06-19-41/§7-4/ledd/1) og [annet ledd](lov/2026-06-19-41/§7-4/ledd/2).
 
 (2) Dersom krav som nevnt i første ledd ikke betales til rett tid, kan registreringsmyndigheten nekte på- eller omregistrering i Kjøretøyregisteret.
 
+[§ 14-11 fjerde ledd andre punktum](lov/2005-06-17-67/§14-11/ledd/4/setning/2) skal lyde:
+
 Dette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter [§ 16-40](lov/2005-06-17-67/§16-40) og [særavgiftsloven § 7-3](lov/2026-06-19-41/§7-3).
+
+Overskriften til [§ 14-20](lov/2005-06-17-67/§14-20) skal lyde:
+
+[§ 14-20 første ledd](lov/2005-06-17-67/§14-20/ledd/1) skal lyde:
 
 (1) Skattekontoret kan innvilge kreditt for merverdiavgift, særavgifter og tollavgift som oppstår ved innførsel.
 
+[§ 14-20 fjerde ledd første punktum](lov/2005-06-17-67/§14-20/ledd/4/setning/1) skal lyde:
+
 For bruk av kreditt etter første ledd skal det betales en særskilt godtgjørelse til statskassen.
 
-(1) Skattekontoret kan innvilge kreditt for engangsavgift. Det er et vilkår for kreditt at virksomheten stiller sikkerhet for skyldig avgift. De nærmere kravene til sikkerheten, herunder sikkerhetens omfang, fastsettes av skattekontoret og kan senere endres.
+[§ 14-21](lov/2005-06-17-67/§14-21) skal lyde:
 
-(2) Departementet kan i forskrift stille vilkår for kreditt, herunder krav til sikkerhetsstillelsen, samt gi regler om opphør av kreditt.
+Ny [§ 14-22](lov/2005-06-17-67/§14-22) skal lyde:
 
-(1) Skattekontoret kan kreve at virksomheter som er registrert i Særavgiftsregisteret, stiller sikkerhet for fremtidig skyldig avgift. Krav om sikkerhetsstillelse kan stilles ved registreringen eller senere. De nærmere kravene til sikkerhet, herunder sikkerhetens omfang, fastsettes av skattekontoret i det enkelte tilfellet.
+[§ 16-40](lov/2005-06-17-67/§16-40) skal lyde:
 
-(2) Departementet kan i forskrift sette nærmere vilkår for sikkerhetsstillelsen og angi hvilke momenter som skal vektlegges ved vurderingen av om sikkerhet skal kreves.
+[§§ 16-41](lov/2005-06-17-67/§16-41) og [16-42](lov/2005-06-17-67/§16-42) oppheves.
 
-Ved overdragelse av motorvogn og tilhenger til motorvogn er erverver ansvarlig for siste termin av avgift på tunge kjøretøy og for slik avgift som er påløpt etter utløpet av siste termin fram til overdragelsestidspunktet.
+**6.** I [lov 29. juni 2007 nr. 73 om eiendomsmegling (eiendomsmeglingsloven)](lov/2007-06-29-73) gjøres følgende endringer:
+
+[§ 6-10 andre ledd](lov/2007-06-29-73/§6-10/ledd/2) skal lyde:
 
 (2) Oppdragstakere som bistår med oppgaver som nevnt i første ledd nr. 1, 2 eller 4 er etter [særavgiftsloven kapittel 21](lov/2026-06-19-41/kap21), [lov 6. juni 2003 nr. 39 om burettslag](lov/2003-06-06-39) og [lov 7. juni 1935 nr. 2 om tinglysing](lov/1935-06-07-2), ansvarlig for at avgifter, gebyrer og renter knyttet til tinglysing av skjøte og andre dokumenter som har sammenheng med salget, blir betalt.
 
+**7.** I [lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven)](lov/2009-06-19-58) gjøres følgende endringer:
+
+[§ 6-7 første ledd andre punktum](lov/2009-06-19-58/§6-7/ledd/1/setning/2) skal lyde:
+
 Fritaket omfatter også lastebiler, trekkbiler, varebiler, kombinerte biler, campingbiler, beltebiler og busser som har tillatt totalvekt på 7 500 kg eller mer.
+
+**8.** I [lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven)](lov/2016-05-27-14) gjøres følgende endringer:
+
+[§ 1-1 bokstav h](lov/2016-05-27-14/§1-1/bokstav/h) skal lyde:
 
 særavgifter etter særavgiftsloven, unntatt dokumentavgift (særavgifter)
 
+[§ 1-1 bokstav i](lov/2016-05-27-14/§1-1/bokstav/i) oppheves.
+
+[§ 2-6](lov/2016-05-27-14/§2-6) oppheves.
+
+[§ 8-4 første ledd](lov/2016-05-27-14/§8-4/ledd/1) skal lyde:
+
 (1) Den som er eller skal være registrert i Særavgiftsregisteret, skal levere skattemelding med opplysninger om uttak fra virksomhetens registrerte lokale av avgiftspliktige varer, uttak av varer som er fritatt for avgift, innførte varer som ikke er lagt på registrert lokale, og andre opplysninger som har betydning for fastsetting av særavgifter.
+
+[§ 8-4 andre ledd bokstav b](lov/2016-05-27-14/§8-4/ledd/2/bokstav/b) skal lyde:
 
 registrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i særavgiftsloven.
 
+[§ 8-4 fjerde ledd](lov/2016-05-27-14/§8-4/ledd/4) nytt andre punktum skal lyde:
+
 Plikten til å levere skattemelding gjelder også den som bruker merket mineralolje og merket biodiesel til formål som ikke er fritatt for avgift etter [særavgiftsloven § 7-5 første](lov/2026-06-19-41/§7-5/ledd/1) og [andre ledd](lov/2016-05-27-14/§7-5/ledd/2).
+
+[§ 8-4 femte ledd](lov/2016-05-27-14/§8-4/ledd/5) skal lyde:
 
 (5) Skattepliktig som ikke er registrert i Særavgiftsregisteret, skal levere skattemelding med opplysninger som har betydning for fastsettingen av særavgift som oppstår ved innførsel.
 
+[§ 8-4 sjette ledd](lov/2016-05-27-14/§8-4/ledd/6) skal lyde:
+
 (6) Den som er skattepliktig for engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift, skal levere skattemelding med opplysninger om bruk eller endring av motorvognen og andre opplysninger som har betydning for fastsetting av avgiften. Dette gjelder likevel ikke når den skattepliktige har gitt riktige og fullstendige opplysninger til vegmyndighetene.
+
+Gjeldende [§ 8-4 sjette ledd](lov/2016-05-27-14/§8-4/ledd/6) blir nytt syvende ledd.
+
+[§ 8-5](lov/2016-05-27-14/§8-5) oppheves.
+
+[§ 9-1 første](lov/2016-05-27-14/§9-1/ledd/1) og [andre ledd](lov/2016-05-27-14/§9-1/ledd/2) skal lyde:
 
 (1) Skattepliktige fastsetter grunnlaget for formues- og inntektsskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn, svalbardskatt etter [Svalbardskatteloven § 3-2](lov/1996-11-29-68/§3-2), merverdiavgiftskompensasjon, suppleringsskatt og særavgifter unntatt dokumentavgift og avgiftene nevnt i annet ledd ved levering av skattemelding som nevnt i [kapittel 8](lov/2016-05-27-14/kap8).
 
 (2) Skattemyndighetene fastsetter grunnlaget for engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift.
 
+[§ 9-2 første ledd](lov/2016-05-27-14/§9-2/ledd/1) skal lyde:
+
 (1) Skattepliktige beregner merverdiavgift, arbeidsgiveravgift, finansskatt på lønn, merverdiavgiftskompensasjon, suppleringsskatt og særavgifter unntatt dokumentavgift, engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift av grunnlaget som er fastsatt etter [§ 9-1 første ledd](lov/2016-05-27-14/§9-1/ledd/1).
 
+[§ 9-4 første ledd første punktum](lov/2016-05-27-14/§9-4/ledd/1/setning/1) skal lyde:
+
 Skattepliktige kan endre opplysninger i tidligere leverte skattemeldinger for formues- og inntektsskatt, svalbardskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn og særavgifter unntatt dokumentavgift, engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift ved levering av endringsmelding.
+
+[§ 10-8 første ledd](lov/2016-05-27-14/§10-8/ledd/1) skal lyde:
 
 (1) Skattemyndighetene, tollmyndighetene, Statens vegvesen og politiet kan når som helst uten varsel kontrollere motorvogner for å påse at bestemmelsene om avgift på tunge kjøretøy og engangsavgift på motorvogner mv. og bruk av merket biodiesel og merket mineralolje blir overholdt.

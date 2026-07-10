@@ -210,7 +210,16 @@ Opplysninger om obligasjoner som nevnt i [regnskapsloven § 7-20](lov/1998-07-17
 
 Det skal opplyses om totalt volum av fordringer som foretaket har identifisert som tapsutsatt som følge av svikt i kundens betalingsevne eller betalingsvilje. Opplysningen i første punktum skal uansett omfatte fordringer som ikke er betalt innen 30 dager etter forfall.
 
-For fordringer skal det for hver balansepost opplyses om størrelsen på tapsavsetninger som er ført til fradrag. For hver av postene skal det dessuten opplyses om periodens endringer i spesifiserte tapsavsetninger etter følgende oppsett:Spesifisert tapsavsetning 1. januar–Periodens konstaterte tap, hvor det tidligere er foretatt spesifisert tapsavsetning+Økte spesifiserte tapsavsetninger i perioden+Nye spesifiserte tapsavsetninger–Tilbakeføring av spesifiserte tapsavsetninger i perioden=Spesifisert tapsavsetning 31. desember
+For fordringer skal det for hver balansepost opplyses om størrelsen på tapsavsetninger som er ført til fradrag. For hver av postene skal det dessuten opplyses om periodens endringer i spesifiserte tapsavsetninger etter følgende oppsett:
+
+|  |  |
+| --- | --- |
+|  | Spesifisert tapsavsetning 1. januar |
+| – | Periodens konstaterte tap, hvor det tidligere er foretatt spesifisert tapsavsetning |
+| + | Økte spesifiserte tapsavsetninger i perioden |
+| + | Nye spesifiserte tapsavsetninger |
+| – | Tilbakeføring av spesifiserte tapsavsetninger i perioden |
+| = | Spesifisert tapsavsetning 31. desember |
 
 ### § 5-12. Ansvarlig lånekapital i andre foretak (eiendel)
 

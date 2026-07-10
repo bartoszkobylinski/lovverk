@@ -26,11 +26,11 @@ eu_basis: []
 
 ### § 1-1. Formål og virkeområder
 
-1) Forskriften gjelder for opptak, eksamen og sensur, utestenging og bortvising, klageregler og dokumentbehandling ved Ytre kunstfagskole.
+1\) Forskriften gjelder for opptak, eksamen og sensur, utestenging og bortvising, klageregler og dokumentbehandling ved Ytre kunstfagskole.
 
-2) Skolen har 2-årig fagskoleutdanning i visuelle kunstfag på nivå 5.2 i det Nasjonale Kvalifikasjonsrammeverket og er godkjent av NOKUT.
+2\) Skolen har 2-årig fagskoleutdanning i visuelle kunstfag på nivå 5.2 i det Nasjonale Kvalifikasjonsrammeverket og er godkjent av NOKUT.
 
-3) Forskriftens formål er å sikre en upartisk og rettferdig behandling av studentene.
+3\) Forskriftens formål er å sikre en upartisk og rettferdig behandling av studentene.
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
@@ -44,11 +44,11 @@ Dersom denne forskriften strider mot lov/eller sentrale forskrifter gitt av lovg
 
 ### § 1-4. Studentens rettigheter og plikter
 
-1) Studentene ved Ytre kunstfagskole har rett til høyere yrkesfaglig utdanning i samsvar med bestemmelsene i fagskoleloven.
+1\) Studentene ved Ytre kunstfagskole har rett til høyere yrkesfaglig utdanning i samsvar med bestemmelsene i fagskoleloven.
 
-2) Enhver søker/student/kandidat plikter å sette seg inn i den til enhver tid gjeldende forskrift for skolen og de spesifikke bestemmelsene som gjelder det utdanningstilbudet søkeren søker til eller studenten følger. Manglende kjennskap til skolens forskrift er ikke en gyldig grunn for regelbrudd.
+2\) Enhver søker/student/kandidat plikter å sette seg inn i den til enhver tid gjeldende forskrift for skolen og de spesifikke bestemmelsene som gjelder det utdanningstilbudet søkeren søker til eller studenten følger. Manglende kjennskap til skolens forskrift er ikke en gyldig grunn for regelbrudd.
 
-3) Enhver student/kandidat plikter seg til å sette seg inn i relevante undervisningsplaner og holde seg oppdatert på informasjon fra skolen om blant annet utdanningen, undervisningen, eksamen og gjeldende regelverk.
+3\) Enhver student/kandidat plikter seg til å sette seg inn i relevante undervisningsplaner og holde seg oppdatert på informasjon fra skolen om blant annet utdanningen, undervisningen, eksamen og gjeldende regelverk.
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
@@ -62,9 +62,9 @@ Alle forhold knyttet til økonomi og betaling er regulert i studiekontrakten mel
 
 ### § 1-7. Mandat til å fatte enkeltvedtak
 
-1) Styret ved Ytre kunstfagskole fatter vedtak som spesifisert i lovens § 9. Enkeltvedtak ut over dette delegeres til skolens administrasjon, og defineres i skolens delegasjonsreglement.
+1\) Styret ved Ytre kunstfagskole fatter vedtak som spesifisert i lovens § 9. Enkeltvedtak ut over dette delegeres til skolens administrasjon, og defineres i skolens delegasjonsreglement.
 
-2) Styret har delegert myndighet til å fatte enkeltvedtak til den lokale klagenemda jf. fagskoleloven § 20 i saker etter: [§ 23](lov/2018-06-08-28/§23) om klage på formelle feil, [§ 24](lov/2018-06-08-28/§24) om annullering av eksamen, [§ 25](lov/2018-06-08-28/§25) om bortvisning og utestenging, [§ 26](lov/2018-06-08-28/§26) om vurdering av skikkethet og [§ 27](lov/2018-06-08-28/§27) om krav om politiattest.
+2\) Styret har delegert myndighet til å fatte enkeltvedtak til den lokale klagenemda jf. fagskoleloven § 20 i saker etter: [§ 23](lov/2018-06-08-28/§23) om klage på formelle feil, [§ 24](lov/2018-06-08-28/§24) om annullering av eksamen, [§ 25](lov/2018-06-08-28/§25) om bortvisning og utestenging, [§ 26](lov/2018-06-08-28/§26) om vurdering av skikkethet og [§ 27](lov/2018-06-08-28/§27) om krav om politiattest.
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
@@ -72,21 +72,21 @@ Alle forhold knyttet til økonomi og betaling er regulert i studiekontrakten mel
 
 ### § 2-1. Generelt om opptak
 
-1) Alle vedtak om opptak av studenter foretas av studieadministrasjonen.
+1\) Alle vedtak om opptak av studenter foretas av studieadministrasjonen.
 
-2) Opptak til Ytre kunstfagskole går gjennom Samordna opptak.
+2\) Opptak til Ytre kunstfagskole går gjennom Samordna opptak.
 
-3) Ordinær søknadsfrist er 15. april. Oppdaterte retningslinjer for søknadsprosessen finnes på skolens hjemmeside. Avvikende opptaksfrist eller restplasser vil bli kunngjort på hjemmesiden.
+3\) Ordinær søknadsfrist er 15. april. Oppdaterte retningslinjer for søknadsprosessen finnes på skolens hjemmeside. Avvikende opptaksfrist eller restplasser vil bli kunngjort på hjemmesiden.
 
-4) Tilbud om skoleplass blir gitt med forbehold om at studietilbudet blir vedtatt gjennomført, jf. [fagskoleloven § 9](lov/2018-06-08-28/§9).
+4\) Tilbud om skoleplass blir gitt med forbehold om at studietilbudet blir vedtatt gjennomført, jf. [fagskoleloven § 9](lov/2018-06-08-28/§9).
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
 ### § 2-2. Formelt opptakskrav
 
-1) Fullført og bestått videregående opplæring, eller tilsvarende realkompetanse etter denne forskriftens [§ 2-4](forskrift/2020-01-16-54/§2-4), tilsvarende nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR).
+1\) Fullført og bestått videregående opplæring, eller tilsvarende realkompetanse etter denne forskriftens [§ 2-4](forskrift/2020-01-16-54/§2-4), tilsvarende nivå 4 i Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR).
 
-2) For kunstfaglige utdanninger som omfattes av unntaket fra krav om 23 år etter [§ 2-3](forskrift/2020-01-16-54/§2-3) kreves realkompetanse etter [§ 2-4](forskrift/2020-01-16-54/§2-4).
+2\) For kunstfaglige utdanninger som omfattes av unntaket fra krav om 23 år etter [§ 2-3](forskrift/2020-01-16-54/§2-3) kreves realkompetanse etter [§ 2-4](forskrift/2020-01-16-54/§2-4).
 
 ### § 2-3. Unntak
 
@@ -96,51 +96,51 @@ Ytre kunstfagskole kan ta inn et begrenset antall søkere mellom 19 og 23 år ut
 
 ### § 2-4. Realkompetansevurdering
 
-1) Søkere som er 23 år, og eldre, men mangler generell studiekompetanse kan få sin realkompetanse vurdert av skolen. Realkompetansen vurderes på grunnlag av formell- og ikke formell utdanning og er nærmere definert i fagskoleforskriften § 2. Kompetansen må være relevant for studiet. Det samme gjelder for dem som omfattes av unntaket fra krav om 23 år etter forskriftens [§ 2-3](forskrift/2020-01-16-54/§2-3).
+1\) Søkere som er 23 år, og eldre, men mangler generell studiekompetanse kan få sin realkompetanse vurdert av skolen. Realkompetansen vurderes på grunnlag av formell- og ikke formell utdanning og er nærmere definert i fagskoleforskriften § 2. Kompetansen må være relevant for studiet. Det samme gjelder for dem som omfattes av unntaket fra krav om 23 år etter forskriftens [§ 2-3](forskrift/2020-01-16-54/§2-3).
 
-2) Realkompetansen må dokumenteres gjennom vitnemål, attester, og annen relevant dokumentasjon.
+2\) Realkompetansen må dokumenteres gjennom vitnemål, attester, og annen relevant dokumentasjon.
 
-3) Realkompetansevurderingen gjøres av opptakskomiteen.
+3\) Realkompetansevurderingen gjøres av opptakskomiteen.
 
 ### § 2-5. Opptak
 
-1) For opptak ved Ytre kunstfagskole kreves fullført og bestått videregående opplæring, eller tilsvarende realkompetanse, og faglige kvalifikasjoner som vurderes gjennom opptaksprøve.
+1\) For opptak ved Ytre kunstfagskole kreves fullført og bestått videregående opplæring, eller tilsvarende realkompetanse, og faglige kvalifikasjoner som vurderes gjennom opptaksprøve.
 
-2) De faglige kravene som vurderes gjennom opptaksprøven er nærmere fastsatt av skolen, og fremgår på skolens nettside.
+2\) De faglige kravene som vurderes gjennom opptaksprøven er nærmere fastsatt av skolen, og fremgår på skolens nettside.
 
-3) Ved opptaksprøvene vurderes og rangeres søkernes faglige kvalifikasjoner av opptakskomiteen, som består av skolens faglige leder, samt en faglærer. Ved behov kan opptakskomiteen utvides med et eksternt medlem med relevant fagkompetanse.
+3\) Ved opptaksprøvene vurderes og rangeres søkernes faglige kvalifikasjoner av opptakskomiteen, som består av skolens faglige leder, samt en faglærer. Ved behov kan opptakskomiteen utvides med et eksternt medlem med relevant fagkompetanse.
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
 ### § 2-6. Poengberegning og rangering ved opptak
 
-1) Fagskolens ledelse oppnevner hvert år en opptakskomité, og fastsetter nærmere regler for komiteens oppgaver og arbeidsform.
+1\) Fagskolens ledelse oppnevner hvert år en opptakskomité, og fastsetter nærmere regler for komiteens oppgaver og arbeidsform.
 
-2) Søkere rangeres på bakgrunn av poengberegning definert i fagskoleforskriften § 14 til § 18 og opptaksprøven. Det er den samlede poengsummen som danner grunnlaget for rangeringen.
+2\) Søkere rangeres på bakgrunn av poengberegning definert i fagskoleforskriften § 14 til § 18 og opptaksprøven. Det er den samlede poengsummen som danner grunnlaget for rangeringen.
 
 ### § 2-7. Søkere med utenlandsk utdanning
 
-1) Søkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
+1\) Søkere fra land i Norden med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifisert for opptak uten tilleggskrav i norsk.
 
-2) Søkere med utenlandsk utdanning må dokumentere at denne tilsvarer nivå 4 i NKR dersom de er mellom 19 og 23 år.
+2\) Søkere med utenlandsk utdanning må dokumentere at denne tilsvarer nivå 4 i NKR dersom de er mellom 19 og 23 år.
 
-3) Søkere over 23 år med utenlandsk utdanning og opparbeidet relevant realkompetanse må dokumentere dette gjennom vitnemål, attester, og annen relevant dokumentasjon.
+3\) Søkere over 23 år med utenlandsk utdanning og opparbeidet relevant realkompetanse må dokumentere dette gjennom vitnemål, attester, og annen relevant dokumentasjon.
 
-4) Vitnemål og annen skriftlig dokumentasjon må enten være på engelsk, eller oversatt ved bruk av autorisert translatør.
+4\) Vitnemål og annen skriftlig dokumentasjon må enten være på engelsk, eller oversatt ved bruk av autorisert translatør.
 
-5) Utfyllende regler om språkkrav for søkere med utenlandsk utdanning finnes i fagskoleforskriften § 9 (2).
+5\) Utfyllende regler om språkkrav for søkere med utenlandsk utdanning finnes i fagskoleforskriften § 9 (2).
 
 ### § 2-8. Godskriving og fritak fra emner
 
-1) Fagskolen skal godskrive beståtte emner fra annen godkjent fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige krav for emnet det søkes godskriving for.
+1\) Fagskolen skal godskrive beståtte emner fra annen godkjent fagskoleutdanning med samme antall studiepoeng i den utstrekning utdanningen oppfyller de faglige krav for emnet det søkes godskriving for.
 
-2) Godskriving kan bare skje mellom fagskoleutdanninger med samme eller nært beslektet fagområder jf. [fagskoleloven § 8](lov/2018-06-08-28/§8).
+2\) Godskriving kan bare skje mellom fagskoleutdanninger med samme eller nært beslektet fagområder jf. [fagskoleloven § 8](lov/2018-06-08-28/§8).
 
-3) Det er opp til den mottagende skole å vurdere kapasiteten til å ta imot eksterne studenter som søker innpassing med bakgrunn fra annet studiested.
+3\) Det er opp til den mottagende skole å vurdere kapasiteten til å ta imot eksterne studenter som søker innpassing med bakgrunn fra annet studiested.
 
-4) Om en student får godkjent søknad om fritak av et emne, skal dette fremkomme på vitnemålet med referansen til bestått emne ved samme eller annen institusjon.
+4\) Om en student får godkjent søknad om fritak av et emne, skal dette fremkomme på vitnemålet med referansen til bestått emne ved samme eller annen institusjon.
 
-5) Vedtak om godskriving og fritak av et emne blir fattet av rektor ved fagskolen.
+5\) Vedtak om godskriving og fritak av et emne blir fattet av rektor ved fagskolen.
 
 ### § 2-9. Klage på vedtak om opptak
 
@@ -150,11 +150,11 @@ Vedtak om opptak kan påklages. Klagen fremsettes skriftlig til skolens faglige 
 
 ### § 3-1. Generelle bestemmelser
 
-1) Styret har ansvar for at eksamen gjennomføres slik at studentenes kunnskaper, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21).
+1\) Styret har ansvar for at eksamen gjennomføres slik at studentenes kunnskaper, ferdigheter og generelle kompetanse blir prøvd og vurdert på en upartisk og faglig betryggende måte, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21).
 
-2) Beskrivelser av eksamensformer og sluttvurderinger fremgår av fagskolens læreplan.
+2\) Beskrivelser av eksamensformer og sluttvurderinger fremgår av fagskolens læreplan.
 
-3) Tid og sted for eksamen fastsettes og kunngjøres av skolen. Alle eksamenskandidater er selv ansvarlige for å holde seg orientert om dette.
+3\) Tid og sted for eksamen fastsettes og kunngjøres av skolen. Alle eksamenskandidater er selv ansvarlige for å holde seg orientert om dette.
 
 ### § 3-2. Rett til å gå opp til eksamen/sluttvurdering med sensur
 
@@ -170,33 +170,33 @@ Studenter som kommer for sent til eksamen/avsluttende vurdering og sensur skal n
 
 ### § 3-5. Ny eksamen/ny sensur
 
-1) Dersom studenten ikke møter til eksamen, eller eksamen blir vurdert til ikke bestått, har studenten rett til å ta ny eksamen ved første etterfølgende eksamen.
+1\) Dersom studenten ikke møter til eksamen, eller eksamen blir vurdert til ikke bestått, har studenten rett til å ta ny eksamen ved første etterfølgende eksamen.
 
-2) Dersom eksamen blir annullert jf. denne forskriften § 3-13 og [fagskoleloven § 24](lov/2018-06-08-28/§24), kan studenten ikke ta ny eksamen før det har gått ett år.
+2\) Dersom eksamen blir annullert jf. denne forskriften § 3-13 og [fagskoleloven § 24](lov/2018-06-08-28/§24), kan studenten ikke ta ny eksamen før det har gått ett år.
 
 ### § 3-6. Eksamen under særlige vilkår/avsluttende vurdering og sensur
 
-1) Fagskolen skal, tilrettelegge eksamen for studenter med funksjonsnedsettelse og særskilte behov i tråd med [fagskoleloven § 15](lov/2018-06-08-28/§15).
+1\) Fagskolen skal, tilrettelegge eksamen for studenter med funksjonsnedsettelse og særskilte behov i tråd med [fagskoleloven § 15](lov/2018-06-08-28/§15).
 
-2) Tilretteleggingen må ikke føre til en reduksjon av de faglige kravene som stilles.
+2\) Tilretteleggingen må ikke føre til en reduksjon av de faglige kravene som stilles.
 
-3) Søknad om tilrettelegging skal sendes til fagskolens ledelse senest fem virkedager før eksamen, og studenten må her fremlegge erklæring fra sakkyndig instans som dokumenterer behovet for særskilt tilrettelegging.
+3\) Søknad om tilrettelegging skal sendes til fagskolens ledelse senest fem virkedager før eksamen, og studenten må her fremlegge erklæring fra sakkyndig instans som dokumenterer behovet for særskilt tilrettelegging.
 
 ### § 3-7. Avsluttende vurdering av studentene/vurderingsuttrykk
 
-1) I henhold til fagskoleforskriften § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått, og med F for ikke bestått.Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
+1\) I henhold til fagskoleforskriften § 40 benytter fagskolen vurdering i form av vurderingsuttrykket bestått/ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått, og med F for ikke bestått.Bestått: Vurderingen gir uttrykk for tilfredsstillende måloppnåing i faget.Ikke bestått: Vurderingen gir uttrykk for svak eller ingen måloppnåing i faget.
 
-2) Vurderingen fastsettes på grunnlag av en helhetlig vurdering/bedømming av studentens arbeid, og skal gjenspeile studentens kunnskap, ferdigheter og generell kompetanse i forhold til fagskolens læringsutbyttebeskrivelser ut fra Nasjonalt kvalifikasjonsrammeverk NKR på nivå 5.2.
+2\) Vurderingen fastsettes på grunnlag av en helhetlig vurdering/bedømming av studentens arbeid, og skal gjenspeile studentens kunnskap, ferdigheter og generell kompetanse i forhold til fagskolens læringsutbyttebeskrivelser ut fra Nasjonalt kvalifikasjonsrammeverk NKR på nivå 5.2.
 
-3) Nærmere bestemmelser er beskrevet i fagskolens eksamensreglement, som fremgår av skolens nettside.
+3\) Nærmere bestemmelser er beskrevet i fagskolens eksamensreglement, som fremgår av skolens nettside.
 
 ### § 3-8. Sensur/eksamen/avsluttende vurdering
 
-1) Fagskolens eksamensreglement beskriver gjennomføring av eksamen.
+1\) Fagskolens eksamensreglement beskriver gjennomføring av eksamen.
 
-2) Sensur skal foreligge i tråd med [fagskoleloven § 21](lov/2018-06-08-28/§21).
+2\) Sensur skal foreligge i tråd med [fagskoleloven § 21](lov/2018-06-08-28/§21).
 
-3) Ved muntlig eksamen skal sensur/karakterfastsetting kunngjøres umiddelbart etter eksamen.
+3\) Ved muntlig eksamen skal sensur/karakterfastsetting kunngjøres umiddelbart etter eksamen.
 
 ### § 3-9. Rett til begrunnelse
 
@@ -204,43 +204,43 @@ Studenten har rett til begrunnelse for karakterfastsetting, jf. fagskoleloven §
 
 ### § 3-10. Rett til klage på karakterfastsetting
 
-1) Studenten har rett til å klage på avsluttende karakter og eksamenskarakter. Klagen sendes skriftlig, og innen tre uker etter at eksamensresultatet har blitt kunngjort, eller fra det tidspunkt begrunnelse for karakterfastsetting har blitt mottatt, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd. Klagen skal fremsettes til fagskolens rektor.
+1\) Studenten har rett til å klage på avsluttende karakter og eksamenskarakter. Klagen sendes skriftlig, og innen tre uker etter at eksamensresultatet har blitt kunngjort, eller fra det tidspunkt begrunnelse for karakterfastsetting har blitt mottatt, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd. Klagen skal fremsettes til fagskolens rektor.
 
-2) Dersom krav om begrunnelse eller klage på karakter er fremsatt, løper fristen fra det tidspunktet studenten har mottatt slik begrunnelse eller avgjørelse fra skolen, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd. En student kan ikke klage på en bedømmelse av en muntlig prestasjon, en vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) femte ledd.
+2\) Dersom krav om begrunnelse eller klage på karakter er fremsatt, løper fristen fra det tidspunktet studenten har mottatt slik begrunnelse eller avgjørelse fra skolen, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd. En student kan ikke klage på en bedømmelse av en muntlig prestasjon, en vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) femte ledd.
 
 ### § 3-11. Ny sensur
 
-1) Ved ny sensur etter klage benyttes én eller flere sensorer, hvorav minst én av disse er ekstern.
+1\) Ved ny sensur etter klage benyttes én eller flere sensorer, hvorav minst én av disse er ekstern.
 
-2) Ved ny sensur skal sensor ikke få vite opprinnelig karakter, forrige sensors begrunnelse for karakteren, eller studentens begrunnelse for klagen, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd.
+2\) Ved ny sensur skal sensor ikke få vite opprinnelig karakter, forrige sensors begrunnelse for karakteren, eller studentens begrunnelse for klagen, jf. [fagskoleloven § 22](lov/2018-06-08-28/§22) fjerde ledd.
 
-3) En student kan ikke klage på karakterfastsettingen etter ny sensur.
+3\) En student kan ikke klage på karakterfastsettingen etter ny sensur.
 
 ### § 3-12. Rett til å klage på formelle feil ved eksamen
 
-1) Studenten har rett til å klage på formelle feil ved eksamen som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, jf. [fagskoleloven § 23](lov/2018-06-08-28/§23).
+1\) Studenten har rett til å klage på formelle feil ved eksamen som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne, jf. [fagskoleloven § 23](lov/2018-06-08-28/§23).
 
-2) En student som har vært oppe til eksamen, en prøve eller annet arbeid som bedømmes med karakter kan klage på formelle feil innen tre uker etter at studenten er blitt, eller burde vært kjent med feilen. Fristen løper fra det tidspunkt studenten har mottatt begrunnelse eller avgjørelse fra fagskolen.
+2\) En student som har vært oppe til eksamen, en prøve eller annet arbeid som bedømmes med karakter kan klage på formelle feil innen tre uker etter at studenten er blitt, eller burde vært kjent med feilen. Fristen løper fra det tidspunkt studenten har mottatt begrunnelse eller avgjørelse fra fagskolen.
 
-3) Klagen rettes til fagskolens rektor og klagen skal fremsettes i henhold til bestemmelsene i kapittel 4 i denne forskrift.
+3\) Klagen rettes til fagskolens rektor og klagen skal fremsettes i henhold til bestemmelsene i kapittel 4 i denne forskrift.
 
 ## Kapittel 4. Annullering, utestenging og bortvisning
 
 ### § 4-1. Annullering
 
-1) Styret kan annullere resultatet av en eksamen, prøve eller annet arbeid som bedømmes, dersom det fremkommer at studenten har benyttet falske vitnemål eller dokumenter, har opptrådt uredelig, har forsettlig eller grovt uaktsomt fusket eller medvirket til fusk i forbindelse med eksamen eller prøve, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24).
+1\) Styret kan annullere resultatet av en eksamen, prøve eller annet arbeid som bedømmes, dersom det fremkommer at studenten har benyttet falske vitnemål eller dokumenter, har opptrådt uredelig, har forsettlig eller grovt uaktsomt fusket eller medvirket til fusk i forbindelse med eksamen eller prøve, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24).
 
-2) Styret kan vedta at en student som har opptrådt som beskrevet i [§ 3-3](forskrift/2020-01-16-54/§3-3) i denne forskrift, skal fratas retten til å gå opp til eksamen i inntil ett år.
+2\) Styret kan vedta at en student som har opptrådt som beskrevet i [§ 3-3](forskrift/2020-01-16-54/§3-3) i denne forskrift, skal fratas retten til å gå opp til eksamen i inntil ett år.
 
-3) Studenter kan klage på vedtak om annullering jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), og kapittel 4 i denne forskrift.
+3\) Studenter kan klage på vedtak om annullering jf. [fagskoleloven § 24](lov/2018-06-08-28/§24), og kapittel 4 i denne forskrift.
 
 ### § 4-2. Utestenging og bortvisning
 
-1) Hvis en student, til tross for en skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende på medstudenters arbeid eller virksomheten ved fagskolen, kan styret fatte vedtak om at studenten skal bortvises i inntil ett år. Rektor ved skolen kan fatte vedtak om bortvisning dersom vilkårene i [fagskoleloven § 12](lov/2018-06-08-28/§12) annet ledd er tilstede. Et slikt vedtak gjelder inntil styret kan fatte et endelig vedtak i saken. Bortvisningen innebærer ikke at studenten ikke gis mulighet til å fullføre studiet og gjennomføre eksamen på et senere tidspunkt.
+1\) Hvis en student, til tross for en skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende på medstudenters arbeid eller virksomheten ved fagskolen, kan styret fatte vedtak om at studenten skal bortvises i inntil ett år. Rektor ved skolen kan fatte vedtak om bortvisning dersom vilkårene i [fagskoleloven § 12](lov/2018-06-08-28/§12) annet ledd er tilstede. Et slikt vedtak gjelder inntil styret kan fatte et endelig vedtak i saken. Bortvisningen innebærer ikke at studenten ikke gis mulighet til å fullføre studiet og gjennomføre eksamen på et senere tidspunkt.
 
-2) Dersom en student forsettlig eller grovt uaktsomt har skapt fare for liv og helse, eller har opptrådt grovt usømmelig overfor noen studenten har møtt i forbindelse med undervisning eller praksisstudier, kan styret vedta at studenten skal utestenges fra all utdanning ved Ytre kunstfagskole i inntil 3 år jf. [fagskoleloven § 25](lov/2018-06-08-28/§25) tredje ledd.
+2\) Dersom en student forsettlig eller grovt uaktsomt har skapt fare for liv og helse, eller har opptrådt grovt usømmelig overfor noen studenten har møtt i forbindelse med undervisning eller praksisstudier, kan styret vedta at studenten skal utestenges fra all utdanning ved Ytre kunstfagskole i inntil 3 år jf. [fagskoleloven § 25](lov/2018-06-08-28/§25) tredje ledd.
 
-3) Vedtak om utestengning og bortvisning av en student kan bare treffes med minst to tredels flertall i styret. Studenten har rett til å uttale seg før vedtaket treffes, og vedtaket kan påklages til nasjonalt klageorgan for fagskoleutdanning, jf. [fagskoleloven § 25](lov/2018-06-08-28/§25). Klagen skal fremsettes i henhold til bestemmelsene i denne forskrifts [kapittel 4](lov/2018-06-08-28/kap4).
+3\) Vedtak om utestengning og bortvisning av en student kan bare treffes med minst to tredels flertall i styret. Studenten har rett til å uttale seg før vedtaket treffes, og vedtaket kan påklages til nasjonalt klageorgan for fagskoleutdanning, jf. [fagskoleloven § 25](lov/2018-06-08-28/§25). Klagen skal fremsettes i henhold til bestemmelsene i denne forskrifts [kapittel 4](lov/2018-06-08-28/kap4).
 
 > Endret ved forskrift [1 mai 2022 nr. 812](forskrift/2022-05-01-812).
 
@@ -252,43 +252,43 @@ Studentene har rett til å klage på enkeltvedtak jf. [fagskoleloven § 21](lov/
 
 ### § 5-2. Klagefrist
 
-1) Klagefristen er tre uker regnet fra den dagen studenten ble, eller burde ha gjort seg kjent med vedtaket.
+1\) Klagefristen er tre uker regnet fra den dagen studenten ble, eller burde ha gjort seg kjent med vedtaket.
 
-2) Klagen skal sendes eller leveres til skolens rektor.
+2\) Klagen skal sendes eller leveres til skolens rektor.
 
-3) Klage som er fremsatt etter utløpet av klagefristen skal avvises. Klagen skal likevel behandles når vilkårene i [forvaltningsloven § 31](lov/1967-02-10/§31) er oppfylt.
+3\) Klage som er fremsatt etter utløpet av klagefristen skal avvises. Klagen skal likevel behandles når vilkårene i [forvaltningsloven § 31](lov/1967-02-10/§31) er oppfylt.
 
 ### § 5-3. Klagens innhold
 
-1) En klage må være skriftlig og inneholde informasjon om vedtaket det klages på, samt endringen som ønskes i vedtaket det klages over.
+1\) En klage må være skriftlig og inneholde informasjon om vedtaket det klages på, samt endringen som ønskes i vedtaket det klages over.
 
-2) Klagen bør være begrunnet.
+2\) Klagen bør være begrunnet.
 
-3) Klagen må være undertegnet og datert.
+3\) Klagen må være undertegnet og datert.
 
 ### § 5-4. Lokal og nasjonal klagenemnd
 
-1) Klager på enkeltvedtak behandles i fagskolens lokale klagenemd, jf. [fagskoleloven § 20](lov/2018-06-08-28/§20).
+1\) Klager på enkeltvedtak behandles i fagskolens lokale klagenemd, jf. [fagskoleloven § 20](lov/2018-06-08-28/§20).
 
-2) Nasjonal klagenemnd for fagskoleutdanning skal behandle klager på annullering av eksamen, utestenging og bortvisning, vurdering av skikkethet og vedtak om utestengning, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24) til [§ 27](lov/2018-06-08-28/§27). Det er styret, eller den lokale klagenemnda som fatter vedtak i første instans i disse sakene.
+2\) Nasjonal klagenemnd for fagskoleutdanning skal behandle klager på annullering av eksamen, utestenging og bortvisning, vurdering av skikkethet og vedtak om utestengning, jf. [fagskoleloven § 24](lov/2018-06-08-28/§24) til [§ 27](lov/2018-06-08-28/§27). Det er styret, eller den lokale klagenemnda som fatter vedtak i første instans i disse sakene.
 
-3) Styret eller lokal klagenemd behandler klager på andre forhold som er relatert til studiene og studiekvaliteten.
+3\) Styret eller lokal klagenemd behandler klager på andre forhold som er relatert til studiene og studiekvaliteten.
 
-4) Prosedyrer for klagebehandling blir nærmere beskrevet i fagskolens reglement.
+4\) Prosedyrer for klagebehandling blir nærmere beskrevet i fagskolens reglement.
 
 ## Kapittel 6. Dokumentbehandling
 
 ### § 6-1. Krav på vitnemål eller annen dokumentasjon
 
-1) Studentene har krav på å få dokumentert fullført utdanning gjennom utstedelse av vitnemål, jf. [fagskoleloven § 19](lov/2018-06-08-28/§19).
+1\) Studentene har krav på å få dokumentert fullført utdanning gjennom utstedelse av vitnemål, jf. [fagskoleloven § 19](lov/2018-06-08-28/§19).
 
-2) Vitnemålet skal dokumentere det overordnede læringsutbyttet til utdanningen og oppnådd kvalifikasjon i henhold til kravene for utstedelse av vitnemål. NOKUT kan gi forskrift om krav til vitnemålets innhold.
+2\) Vitnemålet skal dokumentere det overordnede læringsutbyttet til utdanningen og oppnådd kvalifikasjon i henhold til kravene for utstedelse av vitnemål. NOKUT kan gi forskrift om krav til vitnemålets innhold.
 
-3) Alle avsluttende vurderinger og eksamenskarakterer skal fremgå av vitnemålet. Dersom kun deler av utdanningen er fullført, har studenten rett til karakterutskrift som viser beståtte emner.
+3\) Alle avsluttende vurderinger og eksamenskarakterer skal fremgå av vitnemålet. Dersom kun deler av utdanningen er fullført, har studenten rett til karakterutskrift som viser beståtte emner.
 
-4) Det gis 60 studiepoeng for ett års bestått fagskoleutdanning på heltid.
+4\) Det gis 60 studiepoeng for ett års bestått fagskoleutdanning på heltid.
 
-5) For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon på fullført utdanning, må minst 30 av studiepoengene være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene, jf. fagskoleforskriften § 38.
+5\) For at en fagskole skal kunne utstede vitnemål eller annen dokumentasjon på fullført utdanning, må minst 30 av studiepoengene være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene, jf. fagskoleforskriften § 38.
 
 ## Kapittel 7. Ikrafttredelse
 

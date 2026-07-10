@@ -35,3 +35,5 @@ For mastergradsoppgaver settes sensurfristen til to måneder fra innleveringen.
 Forskriften trer i kraft 1. januar 20241 og gjelder til og med 31. desember 2028.
 
 > Endret ved forskrift [30 nov 2023 nr. 2531](forskrift/2023-11-30-2531).
+
+1 Opprinnelig ikrafttredelse var 1. januar 2019, Lovdatas anm.

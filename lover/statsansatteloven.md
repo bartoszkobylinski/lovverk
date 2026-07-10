@@ -446,6 +446,8 @@ For å forebygge interessekonflikter, kan en virksomhet fastsette at ansatte i b
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 juli 2017 iflg. [res. 16 juni 2017 nr. 763](forskrift/2017-06-16-763).
+
 ### § 41. Overgangsregler – personalreglement
 
 Reglementer som er gitt med hjemmel i [lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. er gyldige inntil de blir opphevet eller avløst av nytt reglement for virksomheten, men likevel ikke lenger enn to år etter at loven trer i kraft.
@@ -467,3 +469,7 @@ Bestemmelsen i [§ 11](lov/2017-06-16-67/§11) fjerde ledd om stillingsvern for 
 ### § 45. Opphevelse av og endring i andre lover
 
 Fra loven trer i kraft gjøres følgende endringer i andre lover:
+
+1\. [Lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tjenestemenn m.m. oppheves
+
+– – –

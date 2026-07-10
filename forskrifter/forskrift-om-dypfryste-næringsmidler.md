@@ -104,6 +104,12 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i m
 
 Forskriften trer i kraft den tid departementet bestemmer.1 Samtidig oppheves [forskrift 22. desember 2005 nr. 1722](forskrift/2005-12-22-1722) om gjennomføring av forordning [(EF) nr. 37/2005](eu/32005r0037) av 12. januar 2005 om måling av temperatur ved lagring, transport m.v. av dypfryste næringsmidler.
 
+1 I kraft 1 mars 2010 jf. [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316).
+
 ## Forordning
+
+Nedenfor gjengis EØS-avtalen vedlegg II kapittel XII nr. 54zzr (forordning [(EF) nr. 37/2005](eu/32005r0037)).
+
+*Forordning [(EF) nr. 37/2005](eu/32005r0037)*
 
 Se her for å lese forordningen: [(pdf)](static/SF/32005r0037.pdf)

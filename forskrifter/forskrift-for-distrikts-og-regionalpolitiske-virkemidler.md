@@ -64,12 +64,18 @@ Søknaden skal sendes inn gjennom [regionalforvaltning.no](https://www.regionalf
 
 Følgende opplysninger må oppgis eller beskrives i alle søknader:
 
+*Opplysninger om søker*
+
 1. Den ansvarlig prosjekteierens navn og organisasjonsnummer.
 2. Hvem som er kontaktperson.
+
+*Økonomi*
 
 1. Hvilket tilskuddsbeløp det søkes om.
 2. Budsjett med en finansieringsplan.
 3. Om søker på søknadstidspunktet har mottatt annen offentlig støtte det inneværende år og de to siste regnskapsårene, jf. reglene om offentlig støtte. Bagatellmessig støtte utgjør 200 000 euro fordelt over tre sammenhengende regnskapsår.
+
+*Beskrivelse av tiltaket og forventede resultater*
 
 1. Tiltaket det søkes om tilskudd til, herunder mål og målgruppe.
 2. Fremdriftsplanen for aktiviteter.

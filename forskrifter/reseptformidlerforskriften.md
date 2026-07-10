@@ -84,6 +84,8 @@ Meldeplikten gjelder heller ikke dersom pasienten ønsker å få utlevert legemi
 
 > Endres ved [forskrift 8 des 2017 nr. 1952](forskrift/2017-12-08-1952) (i kraft når departementet bestemmer).
 
+1 Sjette ledd trer i kraft når departementet bestemmer.
+
 ### § 2-2. Apotekansattes og bandasjistansattes meldeplikt til Reseptformidleren
 
 Apotekansatte og bandasjistansatte skal for alle resepter, melde opplysninger som nevnt i [§ 1-7](forskrift/2007-12-21-1610/§1-7) nr. 3 og 4 til Reseptformidleren.

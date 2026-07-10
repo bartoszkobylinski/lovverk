@@ -902,6 +902,8 @@ Ved statsforvalterens og domstolenes behandling av saker etter kapitlet her anve
 
 > Endret ved [lov 5 apr 2013 nr. 12](lov/2013-04-05-12).
 
+1 Fra 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), med unntak av [§ 51](lov/2010-03-26-9/§51) annet ledd, [§ 54](lov/2010-03-26-9/§54) tredje ledd, [§ 65](lov/2010-03-26-9/§65) og [§ 66](lov/2010-03-26-9/§66) som trådte ikr. 5 apr 2013.
+
 ### § 102. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

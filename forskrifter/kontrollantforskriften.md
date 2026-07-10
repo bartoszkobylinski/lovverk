@@ -160,6 +160,8 @@ Forskriften gjelder fra 1. januar 2004.
 
 ### Til § 4
 
+*Til [§ 4](forskrift/2003-12-10-1745/§4) (1) Autorisasjon av kontrollanter**I. En ikke-uttømmende oversikt over formelle krav iht. JAR-FCL 1 og 2 er listet under:*
+
 - En kontrollantkandidat må inneha de sertifikater og rettigheter som minst tilsvarer de sertifikatene og de rettighetene han søker autorisasjon for å avholde ferdighetsprøve eller ferdighetskontroll i.
 - En kontrollantkandidat må inneha instruktørrettigheter til de sertifikater og rettigheter han søker autorisasjon for å avholde ferdighetsprøve eller ferdighetskontroll i.
 - Alle rettigheter skal være gyldige slik at kontrollantkandidaten skal kunne fungere som fartøysjef ved prøven.
@@ -167,16 +169,22 @@ Forskriften gjelder fra 1. januar 2004.
 
 For flygeledere gjelder kun første og andre strekpunkt. Det samme gjelder for AFIS/HFIS med den reservasjon at disse ikke har sertifikat, men autorisasjonsbevis og enhetsspesifikt autorisasjonsbevis.
 
+*II. En ikke-uttømmende oversikt over uformelle krav er listet under:*
+
 - EgnethetEn kontrollantkandidat må:
 - ha godt omdømme som en sikker og trygg flyger, flygeleder eller flygeinformasjonstjenesteutøver (AFIS/HFIS),være respektert i luftfartsmiljøet,ha en ansvarsfull innstilling til faget,ha god regelverksforståelse,ha god evne til kommunikasjon,være motivert for kontrollantrollen.
 - HabilitetEn kontrollantkandidat må:ha evne til å vurdere sin egen habilitet,ikke ha personlige følelser eller tilknytning, for eksempel i forbindelse med tidligere instruksjon, eller være i familie med kandidaten.
 - IntegritetKontrollantkandidaten må kunne utvise godt skjønn i sin adferd som Luftfartstilsynets representant.
+
+*III. Luftfartstilsynets øvrige vurdering*
 
 Antallet kontrollanter skal ikke være for stort. Dette må vurderes i forhold til geografisk plassering og pågang av kandidater.
 
 For kontrollanter iht. JAR-FCL skal også aktuelle fartøytyper være et vurderingsmoment.
 
 Luftfartstilsynet skal forsøke å avdekke ev. formelle årsaker til at kontrollantkandidaten ikke skulle være kvalifisert til å være kontrollant eksempelvis ved brudd på bestemmelser, upassende adferd, tidligere midlertidige tilbakekall av autorisasjon eller lignende.
+
+*Til [§ 4](forskrift/2003-12-10-1745/§4) (3) Autorisasjonsprøve*
 
 Se AMC FCL 1.425/2.425 og IEM FCL 1.425/2.425
 
@@ -226,6 +234,8 @@ En seniorkontrollant anses som en oppdragstaker.
 
 ### Kopi av Forvaltningslovens § 6 – § 10
 
+*[§ 6](forskrift/2003-12-10-1745/§6). (habilitetskrav).*
+
 En offentlig tjenestemann er ugild til å tilrettelegge grunnlaget for en avgjørelse eller til å treffe avgjørelse i en forvaltningssaknår han selv er part i saken;når han er i slekt eller svogerskap med en part i opp- eller nedstigende linje eller i sidelinje så nær som søsken;når han er eller har vært gift med eller er forlovet med eller er fosterfar, fostermor eller fosterbarn til en part;når han er verge eller fullmektig for en part etter at saken begynte; for en part i saken eller har vært verge ellernår han leder eller har ledende stilling i, eller er medlem av styret eller bedriftsforsamling for, et selskap som er part i saken og ikke helt ut eies av stat eller kommune, eller en forening, sparebank eller stiftelse som er part i saken.
 
 Likeså er han ugild når andre særegne forhold foreligger som er egnet til å svekke tilliten til hans upartiskhet; blant annet skal legges vekt på om avgjørelsen i saken kan innebære særlig fordel, tap eller ulempe for ham selv eller noen som han har nær personlig tilknytning til. Det skal også legges vekt på om ugildhetsinnsigelse er reist av en part.
@@ -236,7 +246,11 @@ Ugildhetsreglene får ikke anvendelse dersom det er åpenbart at tjenestemannens
 
 Rekkevidden av annet og fjerde ledd kan fastlegges nærmere ved forskrifter som gis av Kongen.
 
+*[§ 7](forskrift/2003-12-10-1745/§7). (foreløpig avgjørelse).*
+
 Uansett om en tjenestemann er ugild, kan han behandle eller treffe foreløpig avgjørelse i en sak dersom utsettelse ikke kan skje uten vesentlig ulempe eller skadevirkning.
+
+*[§ 8](forskrift/2003-12-10-1745/§8). (avgjørelse av habilitetsspørsmålet).*
 
 Tjenestemannen avgjør selv om han er ugild. Dersom en part krever det og det kan gjøres uten vesentlig tidsspille, eller tjenestemannen ellers selv finner grunn til det, skal han forelegge spørsmålet for sin nærmeste overordnede til avgjørelse.
 
@@ -244,11 +258,17 @@ I kollegiale organ treffes avgjørelsen av organet selv, uten at vedkommende med
 
 Medlem skal i god tid si fra om forhold som gjør eller kan gjøre ham ugild. Før spørsmålet avgjøres, bør varamann eller annen stedfortreder innkalles til å møte og delta ved avgjørelsen dersom det kan gjøres uten vesentlig tidsspille eller kostnad.
 
+*[§ 9](forskrift/2003-12-10-1745/§9). (oppnevning av stedfortreder).*
+
 Når en tjenestemann er ugild, skal om nødvendig oppnevnes eller velges stedfortreder for vedkommende.
 
 Dersom det er forbundet med særlig ulempe å få oppnevnt stedfortreder, kan Kongen for det enkelte tilfelle beslutte at saken skal overføres til sideordnet eller overordnet forvaltningsorgan.
 
+*[§ 10](forskrift/2003-12-10-1745/§10). (hvem habilitetsbestemmelsene gjelder for).*
+
 Foruten for offentlige tjenestemenn gjelder bestemmelsene i kapitlet her tilsvarende for enhver annen som utfører tjeneste eller arbeid for et forvaltningsorgan. Bestemmelsene gjelder ikke statsråd i egenskap av regjeringsmedlem.
+
+*[§ 16](forskrift/2003-12-10-1745/§16). (2) Kontrollantinspektøren kan utføre kontrollantoppdrag. Øvrige ansatte i Luftfartstilsynet skal ikke utføre kontrollantoppdrag.*
 
 En ansatt i Luftfartstilsynet kan autoriseres som kontrollant, men kun kontrollantinspektøren kan virke som kontrollant. Øvrige ansatte kan ikke virke som kontrollanter mens de er ansatt i Luftfartstilsynet. Inspektører kan imidlertid i kraft av sin stilling ta stikkprøver av treningsflyging med elever, jf. vedlegg 1a til JAR-FCL 1.055, pkt. 5. Slik treningsflyging inkluderer ferdighetsprøver og ferdighetskontroller. Inspektører kan også bli utpekt av Luftfartstilsynet til å utføre kontrollantoppdrag, jf. JAR-FCL pkt. 1.425/2.425 og AMC-FCL 1.425/2.425.
 

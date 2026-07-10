@@ -75,6 +75,8 @@ Partenes vedtakelse av en bestemt lovgivning kan, hvis alle andre relevante omst
 
 > Endret ved [lov 24 juni 1994 nr. 40](lov/1994-06-24-40).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (dir [92/49](eu/31992l0049*)), se nå nr. 1 (dir [2009/138](eu/32009l0138*)).
+
 ## § 9 a.1 Utvidet adgang til avtalt lovvalg i annen forsikring enn livsforsikring2
 
 I avtaler som gjelder følgende forsikringsklasser, kan partene alltid velge et hvilket som helst lands lovgivning:rullende jernbanemateriell,luftfartøyer,havgående fartøyer og fartøyer på innsjø, elv og kanal,gods under transport,ansvarsforsikring for luftfartøyer,ansvarsforsikring for havgående fartøyer og fartøyer på innsjø, elv og kanal.
@@ -91,6 +93,8 @@ I forhold der lovgivningen i et annet land enn Norge ville komme til anvendelse 
 
 > Tilføyd ved [lov 24 juni 1994 nr. 40](lov/1994-06-24-40), endret ved [lov 24 jan 1997 nr. 14](lov/1997-01-24-14).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7a (dir [92/49](eu/31992l0049*)), se nå dir [2009/138](eu/32009l0138*), jf. EØS-avtalen vedlegg IX nr. 2 (dir [90/618](eu/31990l0618)) og nr. 7a (dir [92/49](eu/31992l0049*), se nå dir [2009/138](eu/32009l0138*).2 Jf. frd. [593/2008](eu/32008r0593*) art 7 nr. 2 og 3.
+
 ## § 10. Den alminnelige lovvalgsregel for annen forsikring enn livsforsikring
 
 Hvis partene i en avtale om annen forsikring enn livsforsikring ikke har vedtatt et gyldig lovvalg, og lovvalget ikke følger av bestemmelsene i denne loven, står et rettsforhold under loven i det land som det har sin nærmeste tilknytning til etter de tilknytningspunkter som er nevnt i [§ 9](lov/1992-11-27-111/§9). Det skal legges til grunn at avtalen har sterkest tilknytning til det land der risikoen består, når ikke noe annet alt i alt fremgår.
@@ -100,3 +104,5 @@ Dersom en del av avtalen kan skilles ut og har en sterkere tilknytning til et an
 ## § 11. Ikrafttredelse
 
 Loven trer i kraft fra den tid1 Kongen bestemmer.
+
+1 Fra 1 jan 1993.

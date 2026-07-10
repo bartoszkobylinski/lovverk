@@ -52,6 +52,8 @@ Det gis ikke tilskudd til privatpersoner, enkeltpersonforetak eller virksomheter
 
 Virksomheten som søker om tilskudd må ha eget organisasjonsnummer, og ha eksistert og hatt aktivitet i minimum to år før søknadstidspunktet. Bufdir kan be om organisasjonens vedtekter, årsmelding og årsregnskap for disse to årene.
 
+*4.1 Særskilt om driftstilskudd*
+
 Organisasjoner som får støtte til drift må være medlemsbaserte, av og for personer i målgruppen, og arbeide for samfunnsmessig likestilling og deltakelse for organisasjonens medlemmer.
 
 Driftsstøtte gis primært til landsdekkende organisasjoner som kan vise til at de har minst 50 betalende medlemmer i minst fem – 5 – fylker pr. 31. desember i grunnlagsåret. Grunnlagsåret er to år før det året man får utbetalt tilskuddet (tilskuddsåret). Organisasjonen må kunne dokumentere antallet betalende medlemmer. Undergrupper eller lokallag av landsomfattende organisasjoner kan ikke motta driftsstøtte dersom hovedorganisasjonen innvilges slik støtte.
@@ -78,9 +80,13 @@ Det er søkers ansvar å sørge for at søknaden er innsendt, korrekt og fullste
 
 Det kan søkes om tilskudd til drift og prosjekter.
 
+*Prosjekttilskudd*
+
 Det kan søkes om tilskudd til tidsavgrensede satsinger som med stor grad av sannsynlighet vil oppfylle kriteriene for måloppnåelse.
 
 Det kan søkes om tilskudd for inntil tre år. Midlene utbetales for ett år av gangen, med forbehold om Stortingets årlige budsjettvedtak. For søknader som innvilges tilskudd for flere år, er det ikke nødvendig å søke om midler hvert år.
+
+*Driftstilskudd*
 
 Driftstilskuddet gis til organisasjonens driftsoppgaver. Driftsoppgaver forstås her som oppgaver som normalt inngår i organisasjonenes interne og eksterne kjernevirksomhet i henhold til vedtekter, formål og aktivitetsplaner.
 
@@ -90,11 +96,15 @@ Driftstilskuddet gis til organisasjonens driftsoppgaver. Driftsoppgaver forstås
 
 Bufdir avgjør om det skal gis tilskudd etter en skjønnsmessig vurdering av søknaden opp mot målene for tilskuddsordningen.
 
+*Prosjekttilskudd*
+
 Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte tiltaket,tiltakets mulighet til å oppnå målet med ordningen, se [§§ 1](forskrift/2021-10-13-3048/§1) og [3](forskrift/2021-10-13-3048/§3),målgruppe og nedslagsfelt,tiltakets størrelse og varighet, ogegenfinansieringen. Med egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
 
 Følgende prosjekter kan bli prioritert:prosjekter som gjennomføres av organisasjoner som er av og for målgruppen,prosjekter hvor flere aktører samarbeider om et tiltak,prosjekter som når personer over hele landet, ogprosjekter med egenfinansiering.
 
 Andre årlige prioriteringer vil fremgå av utlysningen av tilskuddsordningen.
+
+*Driftstilskudd*
 
 Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen på bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,arbeidsplan og budsjett,i hvilken grad organisasjonen er av og for personer som bryter med normer for seksuell orientering, kjønnsuttrykk, kjønnsidentitet eller kjønnskarakteristika,organisasjonens størrelse og lokale utbredelse, ogorganisasjonens mulighet til å oppnå målet med ordningen, se §§ 1 og 3.
 
@@ -126,6 +136,8 @@ Tilskuddsmottakeren kan ikke gjøre vesentlige endringer i prosjekter uten at de
 
 Dersom Bufdir ved en feil utbetaler uberettiget eller for høyt tilskudd skal dette tilskuddet betales tilbake til Bufdir så snart som mulig.
 
+*10.1 Transaksjoner med nærstående parter*
+
 Med nærstående parter menes personer eller virksomheter som har en nær tilknytning til tilskuddsmottakeren.
 
 Alle transaksjoner eller avtaler med nærstående parter skal skje på markedsmessige vilkår. Det skal kunne dokumenteres at betingelsene ikke avviker fra det som ville vært avtalt mellom uavhengige parter. Transaksjonene må kunne etterprøves i ettertid.
@@ -150,6 +162,8 @@ Dersom regnskapet og rapporten ikke er levert innen fristen, eller rapporten og 
 
 Dokumentasjonen som ligger til grunn for rapporten og regnskapet (herunder underbilag til regnskapet) skal oppbevares i fem – 5 – år fra og med 1. januar i tilskuddsåret.
 
+*Særskilt om prosjekttilskudd*
+
 Ved flerårige tilskudd må mottakere sende inn fremdriftsrapporter underveis i prosjektperioden.
 
 Det skal opprettes et eget kostnadssted eller prosjektnummer for det enkelte prosjektet man får støtte til. Kostnader som ikke er ført på prosjektets kostnadssted eller prosjektnummer, kan underkjennes av Bufdir.
@@ -172,11 +186,15 @@ Mottar man vedtak med tilsagn om tilskudd for flere år, er det kun nødvendig m
 
 Revisjonsstandard ISRS 4400 med avtalte kontrollhandlinger som gis av Bufdir skal følges uavhengig av om regnskapet revideres av en statsautorisert revisor, kommunerevisoren eller en annen person. De avtalte kontrollhandlingene følger med rapportoppgaven i Bufdirs søknadsportal.
 
+*Særskilt om driftstilskudd*
+
 Mottakere av driftstilskudd kan sende inn virksomhetens årsmelding/årsrapport i stedet for en egen rapport om bruken av tilskuddet.
 
 Mottakere av driftstilskudd skal sende inn spesifisert årsregnskap med revisjonsberetning fra statsautorisert revisor. Revisor må oppfylle kravene til uavhengighet fastsatt i [revisorloven § 8-1](lov/2020-11-20-128/§8-1).
 
 Regnskapet må være spesifisert slik at det går frem at tilskuddet er nyttet etter forutsetningene. Driftstilskudd som er gitt etter dette regelverket og utbetalt i tilskuddsåret, skal være spesifisert i årsregnskapet eller i note til dette.
+
+*11.1 Tilfeller som kan føre til krav om tilbakebetaling av tilskudd*
 
 Dersom et tiltak har ubenyttede tilskuddsmidler etter at alle inntekter og utgifter er regnet med, eller tiltaket ikke er gjennomført, skal disse tilskuddsmidlene tilbakebetales til Bufdir. Dersom tiltaket også har fått tilskudd fra andre tilskuddsgivere, kan Bufdir kreve at en prosentandel tilsvarende Bufdirs andel av det gitte tilskuddet tilbakebetales.
 

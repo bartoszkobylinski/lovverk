@@ -174,7 +174,19 @@ Ved overtredelse av vilkårene for avgiftsfritak kan skattekontoret nekte fritak
 
 (6) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav a](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/a) innføre nærmere bestemte mengder tobakksvarer, e-væske og andre nikotinvarer etter de satser som er fastsatt i tabellen i syvende ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:ment for videresalg eller annet ervervsmessig formål ellerkjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
-(7) Avgiften etter sjette ledd beregnes etter følgende mengder og satser:*Vare**Mengde**Sats*RøyketobakkTil sammen 500 gram397 kr per 100 gramSnus124 kr per 100 gramSkråtobakk165 kr per 100 gramSigarer og sigarillos397 kr per 100 gramSigaretterInntil 400 stk.397 kr per 100 stk.Sigarettpapir og -hylserInntil 400 stk.7,32 kr per 100 blad/hylserE-væske med nikotinInntil 40 milliliter6,78 kr per milliliterTobakk til oppvarmingInntil 400 gram397 kr per 100 gramAndre nikotinvarerInntil 400 gram64 kr per 100 gram
+(7) Avgiften etter sjette ledd beregnes etter følgende mengder og satser:
+
+| *Vare* | *Mengde* | *Sats* |
+| --- | --- | --- |
+| Røyketobakk | Til sammen 500 gram | 397 kr per 100 gram |
+| Snus | 124 kr per 100 gram |  |
+| Skråtobakk | 165 kr per 100 gram |  |
+| Sigarer og sigarillos | 397 kr per 100 gram |  |
+| Sigaretter | Inntil 400 stk. | 397 kr per 100 stk. |
+| Sigarettpapir og -hylser | Inntil 400 stk. | 7,32 kr per 100 blad/hylser |
+| E-væske med nikotin | Inntil 40 milliliter | 6,78 kr per milliliter |
+| Tobakk til oppvarming | Inntil 400 gram | 397 kr per 100 gram |
+| Andre nikotinvarer | Inntil 400 gram | 64 kr per 100 gram |
 
 > Endret ved [forskrifter 17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014), [23 juni 2021 nr. 2189](forskrift/2021-06-23-2189) (i kraft 1 juli 2021), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [23 april 2024 nr. 774](forskrift/2024-04-23-774) (i kraft 1 juni 2024), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
 
@@ -208,7 +220,14 @@ Skattekontoret kan fatte enkeltvedtak om avgiftsplikt for varer som nevnt i [§ 
 
 (4) Reisende kan på de vilkår som er fastsatt i [vareførselsforskriften § 4-1-7 første ledd bokstav b](forskrift/2022-10-27-1901/§4-1-7/ledd/1/bokstav/b) innføre nærmere bestemte mengder alkoholholdige drikkevarer etter de satser som er fastsatt i tabellen i femte ledd. Dette gjelder for varer utover avgiftsfri kvote og som er til personlig bruk. Ordningen gjelder ikke for varer som er:ment for videresalg eller annet ervervsmessig formål ellerkjøpt ved ankomst i tollavgiftsfritt utsalg (taxfree) på lufthavn.
 
-(5) Avgiften etter fjerde ledd beregnes etter følgende mengder og satser:*Vare**Mengde**Sats*Øl over 2,5 volumprosent og annen drikk med alkoholstyrke over 2,5 til og med 4,7 volumprosentTil sammen 27 liter26 kr per liter7,86 kr per 0,33 literDrikk med alkoholstyrke over 4,7 og under 15 volumprosent71 kroner per liter54 kr per 1/1 flaskeDrikk med alkoholstyrke fra og med 15 til og med 22 volumprosent136 kr per liter99 kr per 1/1 flaskeDrikk med alkoholstyrke fra og med 22 til og med 60 volumprosent4 liter432 kr per liter296 kr per 1/1 flaske
+(5) Avgiften etter fjerde ledd beregnes etter følgende mengder og satser:
+
+| *Vare* | *Mengde* | *Sats* |  |
+| --- | --- | --- | --- |
+| Øl over 2,5 volumprosent og annen drikk med alkoholstyrke over 2,5 til og med 4,7 volumprosent | Til sammen 27 liter | 26 kr per liter | 7,86 kr per 0,33 liter |
+| Drikk med alkoholstyrke over 4,7 og under 15 volumprosent | 71 kroner per liter | 54 kr per 1/1 flaske |  |
+| Drikk med alkoholstyrke fra og med 15 til og med 22 volumprosent | 136 kr per liter | 99 kr per 1/1 flaske |  |
+| Drikk med alkoholstyrke fra og med 22 til og med 60 volumprosent | 4 liter | 432 kr per liter | 296 kr per 1/1 flaske |
 
 > Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [15 des 2009 nr. 1524](forskrift/2009-12-15-1524) (i kraft 1 jan 2010), [23 april 2024 nr. 774](forskrift/2024-04-23-774) (i kraft 1 juni 2024), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
 
@@ -578,7 +597,23 @@ Det gis fritak for avgift ved utførsel av mineralolje dersom det utføres over 
 
 (1) Svovelavgiften reduseres dersom utslippet av svovel til atmosfæren er mindre enn svovelinnholdet i de benyttede avgiftsbelagte produkter skulle tilsi.
 
-(2) Det gis refusjon etter følgende tabell:*Refusjon (øre per liter) ved forskjellige rensegrader (%)**Rensegrad*Pst. svovel i oljen10–2425–3435–4445–5455–6465–7475–8485–9495–100T.o.m. 0,050,00,00,00,00,00,00,00,00,0Over 0,05 t.o.m. 0,10,00,00,016,016,016,016,016,016,0Over 0,1 t.o.m. 0,20,00,00,016,016,016,032,032,032,0Over 0,2 t.o.m. 0,30,016,016,016,016,032,048,048,048,0Over 0,3 t.o.m. 0,40,016,016,032,032,032,048,064,064,0Over 0,4 t.o.m. 0,516,016,032,032,048,048,064,080,080,0Over 0,5 t.o.m. 0,616,032,032,048,048,064,080,096,096,0Over 0,6 t.o.m. 0,716,032,048,048,064,080,080,0112,0112,0Over 0,7 t.o.m. 0,816,032,048,064,080,080,096,0128,0128,0Over 0,8 t.o.m. 0,932,048,048,064,080,096,0112,0128,0144,0Over 0,9 t.o.m. 132,048,064,080,096,0112,0128,0144,0160,0
+(2) Det gis refusjon etter følgende tabell:
+
+| *Refusjon (øre per liter) ved forskjellige rensegrader (%)* |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *Rensegrad* |  |  |  |  |  |  |  |  |
+| Pst. svovel i oljen | 10–24 | 25–34 | 35–44 | 45–54 | 55–64 | 65–74 | 75–84 | 85–94 | 95–100 |
+| T.o.m. 0,05 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| Over 0,05 t.o.m. 0,1 | 0,0 | 0,0 | 0,0 | 16,0 | 16,0 | 16,0 | 16,0 | 16,0 | 16,0 |
+| Over 0,1 t.o.m. 0,2 | 0,0 | 0,0 | 0,0 | 16,0 | 16,0 | 16,0 | 32,0 | 32,0 | 32,0 |
+| Over 0,2 t.o.m. 0,3 | 0,0 | 16,0 | 16,0 | 16,0 | 16,0 | 32,0 | 48,0 | 48,0 | 48,0 |
+| Over 0,3 t.o.m. 0,4 | 0,0 | 16,0 | 16,0 | 32,0 | 32,0 | 32,0 | 48,0 | 64,0 | 64,0 |
+| Over 0,4 t.o.m. 0,5 | 16,0 | 16,0 | 32,0 | 32,0 | 48,0 | 48,0 | 64,0 | 80,0 | 80,0 |
+| Over 0,5 t.o.m. 0,6 | 16,0 | 32,0 | 32,0 | 48,0 | 48,0 | 64,0 | 80,0 | 96,0 | 96,0 |
+| Over 0,6 t.o.m. 0,7 | 16,0 | 32,0 | 48,0 | 48,0 | 64,0 | 80,0 | 80,0 | 112,0 | 112,0 |
+| Over 0,7 t.o.m. 0,8 | 16,0 | 32,0 | 48,0 | 64,0 | 80,0 | 80,0 | 96,0 | 128,0 | 128,0 |
+| Over 0,8 t.o.m. 0,9 | 32,0 | 48,0 | 48,0 | 64,0 | 80,0 | 96,0 | 112,0 | 128,0 | 144,0 |
+| Over 0,9 t.o.m. 1 | 32,0 | 48,0 | 64,0 | 80,0 | 96,0 | 112,0 | 128,0 | 144,0 | 160,0 |
 
 > Endret ved [forskrifter 12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004, tidligere § 3-7-5), [10 des 2004 nr. 1599](forskrift/2004-12-10-1599) (i kraft 1 jan 2005), [13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [10 des 2007 nr. 1396](forskrift/2007-12-10-1396) (i kraft 1 jan 2008), [17 des 2008 nr. 1413](forskrift/2008-12-17-1413) (i kraft 1 jan 2009), [15 des 2009 nr. 1524](forskrift/2009-12-15-1524) (i kraft 1 jan 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011), [8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014), [16 des 2014 nr. 1766](forskrift/2014-12-16-1766) (i kraft 1 jan 2015), [18 des 2015 nr. 1766](forskrift/2015-12-18-1766) (i kraft 1 jan 2016), [19 des 2016 nr. 1677](forskrift/2016-12-19-1677) (i kraft 1 jan 2017), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [14 des 2018 nr. 2034](forskrift/2018-12-14-2034) (i kraft 1 jan 2019), [19 des 2019 nr. 2030](forskrift/2019-12-19-2030) (i kraft 1 jan 2020), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
 
@@ -674,7 +709,19 @@ Det gis fritak for avgift ved utførsel av bensin og bioetanol dersom det utfør
 
 (5) Søknaden skal inneholde opplysninger omsøkerens navn og postadresse,registreringskjennetegnet for motorbåten eller snøscooteren,søkerens bosted og den korteste avstanden fra bosted til bilvei eller til kai som angitt i første ledd,hva slags bruk av egen motorbåt eller snøscooter søknaden gjelder,forbruk av bensin i søknadsåret for å komme frem til vei eller kai,søkeren får tilskudd gjennom ordninger nevnt i tredje ledd.
 
-(6) Skattekontoret utbetaler tilskudd etter følgende grupper og satser:*Bensinforbruk:**Tilskudd kr:*Under 100 liter0 kr100–299 liter943 kr300–599 liter1 791 kr600–899 liter2 733 kr900–1 199 liter3 582 kr1 200-1 499 liter4 524 kr1 500 liter og over5 655 krTilskudd gis årlig. Utbetalingen skjer etterskuddsvis.
+(6) Skattekontoret utbetaler tilskudd etter følgende grupper og satser:
+
+| *Bensinforbruk:* | *Tilskudd kr:* |
+| --- | --- |
+| Under 100 liter | 0 kr |
+| 100–299 liter | 943 kr |
+| 300–599 liter | 1 791 kr |
+| 600–899 liter | 2 733 kr |
+| 900–1 199 liter | 3 582 kr |
+| 1 200-1 499 liter | 4 524 kr |
+| 1 500 liter og over | 5 655 kr |
+
+Tilskudd gis årlig. Utbetalingen skjer etterskuddsvis.
 
 > Endret ved [forskrifter 13 des 2002 nr. 1639](forskrift/2002-12-13-1639) (i kraft 1 jan 2003), [12 des 2003 nr. 1533](forskrift/2003-12-12-1533) (i kraft 1 jan 2004), [10 des 2004 nr. 1599](forskrift/2004-12-10-1599) (i kraft 1 jan 2005), [13 des 2005 nr. 1455](forskrift/2005-12-13-1455) (i kraft 1 jan 2006), [15 des 2006 nr. 1442](forskrift/2006-12-15-1442) (i kraft 1 jan 2007), [10 des 2007 nr. 1396](forskrift/2007-12-10-1396) (i kraft 1 jan 2008), [17 des 2008 nr. 1413](forskrift/2008-12-17-1413) (i kraft 1 jan 2009), [15 des 2009 nr. 1524](forskrift/2009-12-15-1524) (i kraft 1 jan 2010), [7 des 2010 nr. 1552](forskrift/2010-12-07-1552) (i kraft 1 jan 2011, tidligere § 3-9-4), [8 des 2011 nr. 1214](forskrift/2011-12-08-1214) (i kraft 1 jan 2012), [13 des 2012 nr. 1286](forskrift/2012-12-13-1286) (i kraft 1 jan 2013), [17 des 2013 nr. 1565](forskrift/2013-12-17-1565) (i kraft 1 jan 2014), [15 des 2015 nr. 1633](forskrift/2015-12-15-1633) (i kraft 1 jan 2016), [18 des 2015 nr. 1766](forskrift/2015-12-18-1766) (i kraft 1 jan 2016), [19 des 2016 nr. 1677](forskrift/2016-12-19-1677) (i kraft 1 jan 2017), [20 des 2017 nr. 2378](forskrift/2017-12-20-2378) (i kraft 1 jan 2018), [14 des 2018 nr. 2034](forskrift/2018-12-14-2034) (i kraft 1 jan 2019), [19 des 2019 nr. 2030](forskrift/2019-12-19-2030) (i kraft 1 jan 2020), [16 des 2020 nr. 2904](forskrift/2020-12-16-2904) (i kraft 1 jan 2021), [17 des 2021 nr. 3712](forskrift/2021-12-17-3712) (i kraft 1 jan 2022), [19 des 2022 nr. 2290](forskrift/2022-12-19-2290) (i kraft 1 jan 2023), [20 des 2023 nr. 2206](forskrift/2023-12-20-2206) (i kraft 1 jan 2024), [17 des 2024 nr. 3310](forskrift/2024-12-17-3310) (i kraft 1 jan 2025), [19 des 2025 nr. 2783](forskrift/2025-12-19-2783) (i kraft 1 jan 2026).
 
@@ -794,7 +841,15 @@ Frem til og med 31. desember 2025 kan merking etter første ledd bokstav a skje 
 
 (2) Mineralolje og biodiesel anses som merket når den er merket etter reglene i [§ 3-11-3](forskrift/2001-12-11-1451/§3-11-3) til [§ 3-11-6](forskrift/2001-12-11-1451/§3-11-6) og andelen merket olje overstiger 3 pst. Mineralolje og biodiesel anses også som merket når den inneholder andre lands merkestoffer, med mindre oljen er merket som høyavgiftsbelagt.
 
-(3) Dersom det urettmessig er benyttet merket mineralolje eller biodiesel, kan skattemyndighetene ilegge registrert eier av kjøretøyet en avgift. Avgift beregnes etter følgende tabell:*Motorvognens tillatte totalvekt i kg**Avgift kr*0–3 49920 000,-3 500–7 49940 000,-7 500–14 99960 000,-15 000–19 99980 000,-20 000 og over100 000,-
+(3) Dersom det urettmessig er benyttet merket mineralolje eller biodiesel, kan skattemyndighetene ilegge registrert eier av kjøretøyet en avgift. Avgift beregnes etter følgende tabell:
+
+| *Motorvognens tillatte totalvekt i kg* | *Avgift kr* |
+| --- | --- |
+| 0–3 499 | 20 000,- |
+| 3 500–7 499 | 40 000,- |
+| 7 500–14 999 | 60 000,- |
+| 15 000–19 999 | 80 000,- |
+| 20 000 og over | 100 000,- |
 
 (4) Avgiften nedsettes forholdsmessig dersom det dokumenteres at det på kjøretøyet ikke kan ha vært benyttet merket mineralolje eller biodiesel urettmessig i en toårsperiode fra oppdagelsestidspunktet. Beløpet beregnes pr. påbegynt måned, likevel for minst to måneder. Beløpet avrundes oppad til nærmeste hele 100 kroner.
 
@@ -1105,7 +1160,38 @@ Avgiften beregnes av varens nettovekt. For den enkelte forbruksenhet og fakturer
 
 ### § 3-18-1. Saklig virkeområde
 
-(1) Avgiftsplikten omfatter:*Produkttyper**Kjemisk formel**Global warming potential (GWP)**Hydrofluorkarboner (HFK)*HFK-23CHF312 400HFK-32CH2 F2677HFK-41CH3 F116HFK-43-10meeCF3 CF2 CHFCHFCF31 650HFK-125CF3 CHF23 170HFK-134CHF2 CHF21 120HFK-134aCF3 CH2 F1 300HFK-152aCHF2 CH3138HFK-143CHF2 CH2 F328HFK-143aCF3 CH34 800HFK-152CH2 F CH2 F16HFK-161CH3 CH2 F4HFK-227eaCF3 CHFCF33 350HFK-236cbCF3 CF2 CH2 F1 210HFK-236eaCF3 CHF CHF21 330HFK-236faCF3 CH2 CF38 060HFK-245caCHF2 CF2 CH2 F716HFK-245faCF3 CH2 CHF2858HFK-365mfcCF3 CH2 CF2 CH3804*Perfluorkarboner (PFK)*PFK-14CF46 630PFK-116CF3 CF311 100PFK-218CF3 CF2 CF38 900PFK-3-1-10CF3 CF2 CF2 CF39 200PFK-c318c-C4 F89 540PFK-4-1-12CF3 CF2 CF2 CF2 CF38 550PFK-5-1-14CF3 CF2 CF2 CF2 CF2 CF37 910
+(1) Avgiftsplikten omfatter:
+
+| *Produkttyper* | *Kjemisk formel* | *Global warming potential (GWP)* |
+| --- | --- | --- |
+| *Hydrofluorkarboner (HFK)* |  |  |
+| HFK-23 | CHF3 | 12 400 |
+| HFK-32 | CH2 F2 | 677 |
+| HFK-41 | CH3 F | 116 |
+| HFK-43-10mee | CF3 CF2 CHFCHFCF3 | 1 650 |
+| HFK-125 | CF3 CHF2 | 3 170 |
+| HFK-134 | CHF2 CHF2 | 1 120 |
+| HFK-134a | CF3 CH2 F | 1 300 |
+| HFK-152a | CHF2 CH3 | 138 |
+| HFK-143 | CHF2 CH2 F | 328 |
+| HFK-143a | CF3 CH3 | 4 800 |
+| HFK-152 | CH2 F CH2 F | 16 |
+| HFK-161 | CH3 CH2 F | 4 |
+| HFK-227ea | CF3 CHFCF3 | 3 350 |
+| HFK-236cb | CF3 CF2 CH2 F | 1 210 |
+| HFK-236ea | CF3 CHF CHF2 | 1 330 |
+| HFK-236fa | CF3 CH2 CF3 | 8 060 |
+| HFK-245ca | CHF2 CF2 CH2 F | 716 |
+| HFK-245fa | CF3 CH2 CHF2 | 858 |
+| HFK-365mfc | CF3 CH2 CF2 CH3 | 804 |
+| *Perfluorkarboner (PFK)* |  |  |
+| PFK-14 | CF4 | 6 630 |
+| PFK-116 | CF3 CF3 | 11 100 |
+| PFK-218 | CF3 CF2 CF3 | 8 900 |
+| PFK-3-1-10 | CF3 CF2 CF2 CF3 | 9 200 |
+| PFK-c318 | c-C4 F8 | 9 540 |
+| PFK-4-1-12 | CF3 CF2 CF2 CF2 CF3 | 8 550 |
+| PFK-5-1-14 | CF3 CF2 CF2 CF2 CF2 CF3 | 7 910 |
 
 (2) Avgiftsplikten omfatter alle blandinger av HFK og PFK, både innbyrdes blandinger og blandinger med andre stoffer.
 
@@ -1191,11 +1277,16 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 
 ### § 3-19-8. Formel for beregning av utslipp fra fly
 
-(1) For fly beregnes avgiften etter følgende formel: $$\text{Utslippsverdi} = a \cdot \text{motorer} \cdot \sum\limits_{\text{LTO-modus}} \left( \frac{60 \cdot \text{tid} \cdot \text{drivstoffrate} \cdot NO_x \text{-indeks}}{1000} \right)$$
-*a* (*average*)faktor avhengig av motorens HC (*hydro carbones*)-verdi.
-*a* = 1 dersom gjennomsnittlig HC-verdi er mindre eller lik ICAOs gjeldende standard på 19,6 g/kN.
-*a* > 1 dersom gjennomsnittlig HC-verdi er større enn ICAOs gjeldende standard.
-*a* kan maksimalt være på 4,0*motorer*antall motorer*LTO-modus*4 faser: start, stigning, innflyging, taksing (bevegelse opp til 3000 fot over bakken)*tid*standardisert tidsperiode for hver enkelt LTO-modus for en gitt motortype (minutter)*drivstoffrate*drivstoffrate per modus (kg/sek)*NOx-indeks*utslippsindeks per modus (g/kg drivstoff)
+(1) For fly beregnes avgiften etter følgende formel: $$\\text{Utslippsverdi} = a \\cdot \\text{motorer} \\cdot \\sum\\limits_{\\text{LTO-modus}} \\left( \\frac{60 \\cdot \\text{tid} \\cdot \\text{drivstoffrate} \\cdot NO_x \\text{-indeks}}{1000} \\right)$$
+
+|  |  |
+| --- | --- |
+| *a* (*average*) | faktor avhengig av motorens HC (*hydro carbones*)-verdi.<br>*a* = 1 dersom gjennomsnittlig HC-verdi er mindre eller lik ICAOs gjeldende standard på 19,6 g/kN.<br>*a* > 1 dersom gjennomsnittlig HC-verdi er større enn ICAOs gjeldende standard.<br>*a* kan maksimalt være på 4,0 |
+| *motorer* | antall motorer |
+| *LTO-modus* | 4 faser: start, stigning, innflyging, taksing (bevegelse opp til 3000 fot over bakken) |
+| *tid* | standardisert tidsperiode for hver enkelt LTO-modus for en gitt motortype (minutter) |
+| *drivstoffrate* | drivstoffrate per modus (kg/sek) |
+| *NOx-indeks* | utslippsindeks per modus (g/kg drivstoff) |
 
 (2) Ved manglende utslipps- eller motordata legges motorer med høyeste HC-verdi og NOx-indeks til grunn for avgiftsberegningen.
 
@@ -1203,12 +1294,23 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 
 ### § 3-19-9. Tabell for beregning av utslipp
 
-(1) Motorera)Turtall lavere enn 200 rpm:100 kg NOx pr. tonn energivareb)Turtall fra og med 200 rpm til 1000 rpm:53 kg NOx pr. tonn energivare (54 kg for motorer bygget før år 2000)c)Turtall fra og med 1000 rpm til 1500 rpm:50 kg NOx pr. tonn energivared)Turtall fra og med 1500 rpm:44 kg NOx pr. tonn energivare (45 kg for motorer bygget før år 2000)
+(1) Motorer
+
+|  |  |  |
+| --- | --- | --- |
+| a) | Turtall lavere enn 200 rpm: | 100 kg NOx pr. tonn energivare |
+| b) | Turtall fra og med 200 rpm til 1000 rpm: | 53 kg NOx pr. tonn energivare (54 kg for motorer bygget før år 2000) |
+| c) | Turtall fra og med 1000 rpm til 1500 rpm: | 50 kg NOx pr. tonn energivare |
+| d) | Turtall fra og med 1500 rpm: | 44 kg NOx pr. tonn energivare (45 kg for motorer bygget før år 2000) |
 
 (2) *Kjeler*9,6 kg NOx pr. tonn tungolje4,5 kg NOx pr. tonn steinkull3,6 kg NOx pr. tonn lettolje3,6 kg NOx pr. tonn marine gassolje/diesel3,6 kg NOx pr. tonn tungdestillat1,8 kg NOx pr. tonn biobrensel, jomfruelig brensel (tørrstoff)2,4 kg NOx pr. tonn biobrensel, returtrevirke (tørrstoff)1,7 g NOx pr. Sm3 naturgass, gasskjeler2,8 g NOx pr. Sm3 naturgass, konverterte kjeler2,0 g NOx pr. Sm3 LPG, gasskjeler3,4 g NOx pr. Sm3 LPG, konverterte kjeler.
 
-(3) *Turbiner* a)Turbiner:16 g NOx pr. Sm3 gass
-25 kg NOx pr. tonn flytende energivareb)Lav-NOx-turbiner:1,8 g NOx pr. Sm3 gass
+(3) *Turbiner*
+
+|  |  |  |
+| --- | --- | --- |
+| a) | Turbiner: | 16 g NOx pr. Sm3 gass<br>25 kg NOx pr. tonn flytende energivare |
+| b) | Lav-NOx-turbiner: | 1,8 g NOx pr. Sm3 gass |
 
 (4) *Fakler*4 g NOx pr. Sm3 gass, fakler i raffineri2 g NOx pr. Sm3 gass, fakling av deponigass12 g NOx pr. Sm3 gass, øvrig fakling.
 
@@ -1252,7 +1354,7 @@ Kompetent myndighet kan fastsette kildespesifikk utslippsfaktor etter søknad fr
 
 (3) Fritaket gis på vilkår av at Miljødirektoratet godkjenner gjennomføringen av miljøforpliktelsene for den enkelte periode. Dersom Miljødirektoratet ikke godkjenner gjennomføring av miljøforpliktelsene for en periode, skal avgift som det er gitt fritak for innrapporteres og betales innen 18. juli påfølgende år etter den aktuelle perioden. Av avgift som ikke blir betalt innen betalingsfristen, skal det svares renter etter [skattebetalingsloven § 11-1](lov/2005-06-17-67/§11-1).
 
-(4) Satsen for avgift som skal betales etter tredje ledd, beregnes etter følgende formel:Sats = 15 * X * Yder X er den prosentvise overskridelsen av miljøforpliktelsen for en periode, og Y er avgiftssatsen i Stortingets vedtak om avgift på utslipp av NOx. Skattedirektoratet kan fastsette forskrift om satsen.
+(4) Satsen for avgift som skal betales etter tredje ledd, beregnes etter følgende formel:Sats = 15 \* X \* Yder X er den prosentvise overskridelsen av miljøforpliktelsen for en periode, og Y er avgiftssatsen i Stortingets vedtak om avgift på utslipp av NOx. Skattedirektoratet kan fastsette forskrift om satsen.
 
 (5) Grunnlaget for fritak etter denne bestemmelsen skal dokumenteres ved tilslutningsbevis fra Næringslivets NOx-fond. NOx-fondet skal oversende kopi av tilslutningsbeviset til skattekontoret.
 
@@ -1530,7 +1632,16 @@ Avgiftsplikten omfatter laks, ørret og regnbueørret produsert av virksomhet so
 
 ### § 3-24-2. Avgiftsgrunnlag og -beregning
 
-Avgiften beregnes per kilogram sløyd fisk, eventuelt ved omregning etter følgende faktorer:*Fiskeart og tilvirkningsgrad**Omregningsfaktor til sløyd vekt*Laks, rund vekt0,889Laks, hodekappet1,125Ørret, rund vekt0,889Ørret, hodekappet1,125Regnbueørret, rund vekt0,881Regnbueørret, hodekappet1,115
+Avgiften beregnes per kilogram sløyd fisk, eventuelt ved omregning etter følgende faktorer:
+
+| *Fiskeart og tilvirkningsgrad* | *Omregningsfaktor til sløyd vekt* |
+| --- | --- |
+| Laks, rund vekt | 0,889 |
+| Laks, hodekappet | 1,125 |
+| Ørret, rund vekt | 0,889 |
+| Ørret, hodekappet | 1,125 |
+| Regnbueørret, rund vekt | 0,881 |
+| Regnbueørret, hodekappet | 1,115 |
 
 > Tilføyd ved forskrift [21 des 2020 nr. 3101](forskrift/2020-12-21-3101) (i kraft 1 jan 2021).
 

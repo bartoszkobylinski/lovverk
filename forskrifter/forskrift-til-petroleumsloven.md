@@ -30,7 +30,7 @@ Denne forskrift får anvendelse på petroleumsvirksomhet som nevnt i [lov 29. no
 
 ### § 2. Definisjoner
 
-I denne forskrift forstås med:*departementet,* Det kongelige energidepartement,*loven,*[lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,*offentlig enhet,* enhver juridisk person som de offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for den juridiske person. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til en juridisk person enten direkte eller indirekte:eier størstedelen av den juridiske persons tegnede kapital, ellerkontrollerer flertallet av stemmene knyttet til andeler utstedt av den juridiske person, ellerkan utpeke mer enn halvparten av medlemmene i den juridiske persons administrasjons-, ledelses- eller kontrollorgan,*prøveutvinning,* utvinning av petroleum i et begrenset tidsrom før ordinær utvinning. Prøveutvinning er utvinning i den hensikt å fremskaffe kunnskap om en petroleumsforekomsts drivverdighet, produksjonsegenskap eller anvendbar utvinningsteknologi.
+I denne forskrift forstås med:*departementet,* Det kongelige energidepartement,*loven,* [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet,*offentlig enhet,* enhver juridisk person som de offentlige myndigheter direkte eller indirekte kan utøve avgjørende innflytelse over i kraft av eierforhold, kapitalinteresser eller reglene for den juridiske person. Avgjørende innflytelse skal antas å foreligge når offentlige myndigheter i forhold til en juridisk person enten direkte eller indirekte:eier størstedelen av den juridiske persons tegnede kapital, ellerkontrollerer flertallet av stemmene knyttet til andeler utstedt av den juridiske person, ellerkan utpeke mer enn halvparten av medlemmene i den juridiske persons administrasjons-, ledelses- eller kontrollorgan,*prøveutvinning,* utvinning av petroleum i et begrenset tidsrom før ordinær utvinning. Prøveutvinning er utvinning i den hensikt å fremskaffe kunnskap om en petroleumsforekomsts drivverdighet, produksjonsegenskap eller anvendbar utvinningsteknologi.
 
 For avgiftsformål forstås i denne forskrift med:*avskipningspunkt:*ved skipning med skip, skipssiden,ved transport gjennom rørledning, inngangsflensen for ilandføringsrørledning, eller hvis det er installert pumpeanlegg som har til formål å drive petroleum gjennom ilandføringsrørledning, inngangsflensen til slikt pumpeanlegg,*olje,* petroleum som er flytende ved avskipningspunktet,*utvinningsområde,* det området som omfatter de petroleumsforekomster som utvinnes gjennom samme utvinningsopplegg, og som ligger i blokker som er tildelt samme rettighetshaver. Samme utvinningsopplegg kan bestå av en eller flere produksjonsinnretninger som enten har felles eller atskilte prosesserings- eller avskipningsanlegg.*CO2 -strømmer*, massestrømmen av CO2 og eventuelle tilfeldig medfølgende stoffer fra CO2 -fangstprosesser,*Lagringskompleks*, lagringslokalitet og de geologiske omgivelser som kan ha betydning for sikkerheten ved lagringen,*Lagringslokalitet*, et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 , og tilhørende overflate- og injeksjonsinnretninger,*Undersjøisk reservoar*, en geologisk enhet, avgrenset av bergarttyper ved strukturelle eller stratigrafiske grenser, som har inneholdt petroleum og/eller vann i formasjonen, eller en kombinasjon av disse. Departementet bestemmer i tvilstilfelle hva som skal anses å være et undersjøisk reservoar.
 
@@ -1129,11 +1129,15 @@ Kriterier for beskrivelse og vurdering av det mulige lagringslokalitet og omkrin
 
 Beskrivelse og vurdering av den aktuelle lagringslokaliteten og omkringliggende områder nevnt i [§ 30d](forskrift/1997-06-27-653/§30d) i denne forskrift skal foretas i tre trinn i samsvar med beste praksis på tidspunktet for vurderingen og basert på kriteriene nedenfor. Departementet kan tillate avvik fra ett eller flere av disse kriteriene, forutsatt at rettighetshaver har vist at dette ikke påvirker beskrivelsens og vurderingens egnethet som grunnlag for å treffe en beslutning i henhold til [§ 30d](forskrift/1997-06-27-653/§30d).
 
+Trinn 1: *Datainnsamling*
+
 Tilstrekkelige data skal samles inn for å etablere en volumetrisk og tredimensjonal statisk (3D) geologisk modell av lagringslokaliteten og lagringskomplekset, inkludert takbergarter og de omkringliggende områder – også hydraulisk tilknyttede områder.
 
 Disse data skal omfatte minst følgende iboende karakteristikker av lagringskomplekset:Geologiske og geofysiske data,Reservoarberegninger (herunder volumetriske beregninger av porevolum for CO2 -injeksjon og maksimal lagringskapasitet),Geokjemiske data (oppløsningshastighet, mineraliseringshastighet).Geomekaniske data (permeabilitet, oppsprekkingstrykk),Jordskjelvhyppighet,Nærvær og tilstand av naturlige og menneskeskapte strømningsveier for CO2 , herunder brønner og borehull som kan danne lekkasjeveier.
 
 Følgende karakteristikker av lagringskompleksets omgivelser skal være dokumentert:Områder som omgir lagringskomplekset og som kan bli påvirket av lagringen av CO2 – på lagringslokaliteten,Nærhet til verdifulle naturressurser,Aktiviteter rundt lagringskomplekset og mulige interaksjoner med disse aktivitetene (for eksempel undersøkelse etter, produksjon og lagring av hydrokarboner, geotermisk bruk av akviferer og bruk av undergrunnsvannreservoarer),Nærhet til den potensielle CO2 -kilden eller CO2 -kildene (herunder estimater av den totale mengde CO2 som er økonomisk tilgjengelig for lagring) samt egnede transportmuligheter,
+
+Trinn 2: *Etablering av tredimensjonal geologisk modell (for injeksjon)*
 
 - Ved å bruke dataene samlet inn i trinn 1 skal det ved hjelp av reservoarsimuleringsverktøy etableres en tredimensjonal geologisk modell, eller et sett av slike modeller av det foreslåtte lagringskomplekset, herunder takbergarter og hydraulisk tilknyttede områder og væsker.
 
@@ -1141,25 +1145,41 @@ Den statiske geologiske modellen eller modellene skal karakterisere komplekset m
 
 Usikkerheten forbundet med hver av parametrene som er brukt til å bygge modellen skal være vurdert ved å utvikle en rekke scenarier for hver parameter og beregne tilhørende konfidensgrenser. Enhver usikkerhet forbundet med modellen i seg selv skal også vurderes.
 
+Trinn 3: *Karakterisering av lagringens dynamiske utvikling, følsomhet og risikovurdering*
+
 Karakteriseringene og vurderingene skal være basert på dynamiske modeller som omfatter tidssimuleringer av CO2 -injeksjoner i lagringslokaliteten ved å bruke tredimensjonal geologisk regnemodell som er etablert for lagringskomplekset iht. trinn 2.
+
+Trinn 3.1: *Karakterisering av dynamiske forhold i lagringslokaliteten*
 
 Som et minimum skal følgende faktorer vurderes:Mulige injeksjonsrater og CO2 -strømmens egenskaper,Effekten av koplede prosessmodelleringer (dvs. hvordan forskjellige enkeltvise effekter i regnemodellen virker sammen),Reaktive prosesser (dvs. hvordan reaksjoner mellom injisert CO2 og de tilstedeværende komponentene (substansene) gir tilbakekopling i modellen),Reservoarsimuleringsmodellen som er benyttet (flere simuleringer kan være påkrevet for å validere visse funn),Kort- og langtidssimuleringer (for å etablere hva som skjer med den injiserte CO2 og utvikling over årtier og årtusener, herunder oppløsningshastighet av CO2 i vann),
 
 Den dynamiske modelleringen skal gi innsikt i:Trykk og temperatur i lagringsformasjonen som en funksjon av injeksjonshastighet og akkumulert injisert mengde over tid,Areal og vertikal utbredelse av CO2 over tid,CO2 -strømmen i reservoaret, herunder fasene den opptrer i,CO2 -felle mekanismer og hastigheter (herunder overfyllingspunktet) og laterale og vertikale forseglinger,Sekundære innesluttingssystemer for hele lagringskomplekset,Lagringskapasitet og trykkgradienter for lagringslokaliteten,Risiko for sprekkdannelser i lagringsformasjonene og takbergartene,Risiko for CO2 -inntrengning i takbergartene,Risiko for lekkasje fra lagringslokaliteten (f.eks. gjennom forlatte eller utilstrekkelig forseglede brønner),Migrasjonshastighet (i ikke-innelukkede reservoarer),Sprekkforseglingshastighet,Forandringer i formasjonenes væskekjemi og påfølgende reaksjoner (f.eks. pH-endringer, mineraldannelse) og anvendelse av modellering av reaksjoner for å vurdere konsekvensene,Erstatning av formasjonsvæsker,Økt seismisitet og overflateheving.
 
+Trinn 3.2: *Følsomhetskarakteristikk*
+
 Flere simuleringer skal utføres for å identifisere følsomhet av vurderingene av valgte forutsetninger for særskilte parametre. Simuleringene skal baseres på ulike parametre i den/de geologiske modellen(e), og på skiftende hastighetsfunksjoner og forutsetninger i den dynamiske modelleringen. Enhver vesentlig følsomhet skal tas i betraktning i risikovurderingen.
 
+Trinn 3.3: *Risikovurdering*
+
 Risikovurderingen skal blant annet omfatte følgende:
+
+3.3.1. *Farekarakteristikk*
 
 Farekarakteristikk skal gjennomføres ved karakterisering av potensialet for lekkasje fra lagringskomplekset, som etablert gjennom dynamisk modellering og sikkerhetskarakteristikk som beskrevet over. Dette skal omfatte betraktninger som blant annet:Potensielle lekkasjeveier,Potensiell størrelse på lekkasje fra identifiserte lekkasjeveier (flukshastigheter),Kritiske parametre som påvirker potensiell lekkasje (f.eks. maksimum reservoartrykk, maksimum injeksjonsrate, temperatur, sensitivitet for varierende antakelser i den eller de geologiske modellene etc.),Sekundæreffekter av lagringen, herunder fortrengt formasjonsvæske og nye substanser dannet ved lagring av CO2 ,Enhver annen faktor som kan innebære risiko for helse eller miljø (f.eks. fysiske strukturer assosiert med prosjektet).
 
 Farekarakteristikken skal omfatte hele spekteret av potensielle operasjonsbetingelser for å teste lagringskompleksets sikkerhet.
 
+3.3.2. *Eksponeringsvurdering*
+
 Denne skal være basert på karakteristikk av miljøet og aktiviteter over lagringskomplekset, og på den potensielle oppførsel og hva som skjer med CO2 som lekker fra de potensielle lekkasjeveier som er identifisert under trinn 3.3.1.
+
+3.3.3. *Effektvurderinger*
 
 Disse skal baseres på følsomheten hos spesielle arter eller habitater koplet til potensielle lekkasjehendelser identifisert under trinn 3.3.1.
 
 Hvis relevant skal vurderingene omfatte effekter av eksponering for forhøyede CO2 -konsentrasjoner i biosfæren (herunder jord, sedimenter i sjøvann og bentisk vann (oksygenmangel, forhøyet CO2 -innhold i blodet) og redusert pH i disse miljøene som følge av utlekket CO2 ). Den skal også omfatte en vurdering av effekter av andre substanser som kan være tilstede i utlekket CO2 (enten som urenheter tilstede i injeksjonsstrømmen eller nye substanser dannet gjennom lagring av CO2 ). Disse effektene skal vurderes for forskjellig varighet og arealomfang og koples til lekkasjer av forskjellig størrelsesorden.
+
+3.3.4. *Risikokarakterisering*
 
 Denne skal omfatte en vurdering av sikkerhet og integritet av lagringslokaliteten på kort og lang sikt, herunder en vurdering av risiko for lekkasje under de foreslåtte bruksbetingelser, og som verst-tenkelige miljø- og helsekonsekvenser.
 
@@ -1170,7 +1190,11 @@ Risikokarakteriseringen skal utføres basert på fare-, eksponerings- og effektv
 ## Vedlegg II
 Kriterier for etablering og oppdatering av overvåkingsplanen i § 30g og etterdriftsplan i § 30j
 
+1\. Etablering og oppdatering av overvåkingsplan
+
 Overvåkingsplanen nevnt i [§ 30g](forskrift/1997-06-27-653/§30g) annet ledd skal utarbeides i samsvar med risikovurderingsanalysen som er foretatt i trinn 3 i vedlegg I. Overvåkningsplanen skal oppdateres for å møte kravene fastsatt i [§ 30g](forskrift/1997-06-27-653/§30g) første ledd i samsvar med følgende kriterier:
+
+1.1. *Etablere planen*
 
 Overvåkingsplanen skal inneholde detaljer om overvåkingsprogrammet som vil bli gjennomført på alle hovedtrinn i prosjektet, herunder grunnlagsdata, operasjonell fase og i etterdriftsfasen.
 
@@ -1180,6 +1204,8 @@ De parametre som skal overvåkes skal være utvalgt slik at de kan oppfylle form
 
 Valget av overvåkingsteknikker skal baseres på beste praksis som er tilgjengelig på designtidspunktet. Følgende alternativer skal vurderes og anvendes om mulig:Teknologier som kan detektere nærvær, sted og migreringsvei for CO2 i undergrunnen og på overflaten,Teknologier som kan gi informasjon om utviklingen av trykk og volum og areal/vertikal metning av CO2 -skyen (plumen) for å forbedre numeriske 3D-simuleringer relatert til 3D geologiske modeller av lagringsformasjonen etablert i henhold til denne forskriftens [§ 30d](forskrift/1997-06-27-653/§30d) og vedlegg I,Teknologier som kan dekke et vidt areal for å hente informasjon om tidligere uoppdagede potensielle lekkasjeveier over arealdimensjonene av hele lagringskomplekset og over, i tilfelle vesentlige irregulariteter eller migrering av CO2 ut av lagringskomplekset.
 
+1.2. *Oppdatering av planen*
+
 Data som er innhentet fra overvåkingen skal samles og tolkes. De observerte resultatene skal sammenlignes med oppførsel som er forutsagt i den dynamiske simuleringen av 3D-trykkvolum og metningsoppførsel foretatt i forbindelse med sikkerhetskarakteristikk i samsvar med denne forskriftens [§ 30d](forskrift/1997-06-27-653/§30d) og vedlegg I trinn 3.
 
 Ved vesentlige avvik mellom observert og forutsagt oppførsel skal 3D-modellen kalibreres for å reflektere den observerte oppførselen. Kalibreringen skal være basert på dataobservasjoner fra overvåkingsplanen, og der det er nødvendig for å styrke kalibreringsantagelsene skal det samles inn ytterligere data.
@@ -1187,6 +1213,8 @@ Ved vesentlige avvik mellom observert og forutsagt oppførsel skal 3D-modellen k
 Trinn 2 og 3 i vedlegg I skal gjentas ved å bruke den kalibrerte 3D-modellen for å generere nye farescenarier og fluksrater og for å revidere og oppdatere risikovurderingen.
 
 For nye CO2 -kilder, lekkasjeveier og fluksrater eller ved observerte vesentlige avvik fra tidligere vurderinger identifisert ved sammenligning med historiske data, tilpasning og kalibrering av modellen, skal overvåkingsplanen oppdateres i samsvar med dette.
+
+2\. *Overvåking etter nedlukking*
 
 Overvåking etter at lagringslokaliteten er nedlukket skal baseres på informasjonen som er samlet og modellert under gjennomføring av overvåkingsplanen i [§ 30g](forskrift/1997-06-27-653/§30g) annet ledd og i ovennevnte nr. 1.2 i dette vedlegg. Den skal særlig tjene til å gi informasjonen som kreves for å treffe en beslutning i samsvar med denne forskriften [§ 30j](forskrift/1997-06-27-653/§30j) første ledd.
 
@@ -1212,6 +1240,8 @@ Skillet mellom oppstrøms gassrørledningsnett hvor departementet fastsetter tar
 
 ### Til § 59
 
+*[§ 59](forskrift/1997-06-27-653/§59) første ledd:*
+
 Hovedregelen i [kapittel 9](forskrift/1997-06-27-653/kap9) fremgår av [§ 59](forskrift/1997-06-27-653/§59) første ledd, hvoretter naturgassforetak og kvalifiserte kunder skal ha rett til adgang til oppstrøms gassrørledningsnett, herunder til anlegg som yter tilknyttede tekniske tjenester i forbindelse med slik adgang. Bestemmelsen reflekterer hovedregelen i gassmarkedsdirektivet artikkel 23 nr. 1. Rett til adgang innebærer at eier av oppstrøms gassrørledningsnett, eller operatør på vegne av eier, ikke kan opptre på en måte som hindrer naturgassforetak og kvalifiserte kunder å få adgang til oppstrøms gassrørledningsnett på en måte som er i strid med reglene i forskriften. Videre innebærer retten til adgang bl.a. at eier av oppstrøms gassrørledningsnett, eller operatøren, på forespørsel fra naturgassforetak og kvalifiserte kunder om rett til bruk av kapasitet, vil få en plikt til å la disse få rett til bruk av tilgjengelig kapasitet i det aktuelle oppstrøms gassrørledningsnett på objektive og ikke-diskriminerende vilkår, såfremt øvrige vilkår for slik bruk etter dette kapittel er oppfylt. Naturgassforetak og kvalifiserte kunder skal ha rett til adgang til oppstrøms gassrørledningsnett når det er ledig kapasitet og når den som i utgangspunktet har rett til bruk av kapasiteten ikke selv lenger har behørig begrunnet rimelig behov for denne kapasiteten, jf. [§ 64](forskrift/1997-06-27-653/§64) annet ledd.
 
 *«Naturgassforetak»* og *«kvalifisert kunde»* er definert i [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6) hhv. bokstav n og o. *«Eier»* defineres i § 60 første ledd. Ledig kapasitet defineres nærmere i [§ 60](forskrift/1997-06-27-653/§60) annet ledd.
@@ -1236,7 +1266,11 @@ Uttrykket *«transport og/eller behandling»* er inntatt for å understreke at e
 
 Den som ønsker å få adgang til bruk av kapasitet må selv ta initiativ for å skaffe seg slik adgang. At naturgassforetak og kvalifiserte kunder skal ha rett til adgang til oppstrøms gassrørledningsnett betyr videre ikke at tilgjengelig kapasitet skal stilles til disposisjon for disse uten betingelser. Det kan kreves betaling for å få adgang til slik kapasitet, og det kan stilles andre saklige, ikke-diskriminerende og objektive vilkår, eksempelvis krav om betalingssikkerhet. For de oppstrøms gassrørledningsnett hvor departementet fastsetter tariffene vil det, i den grad dette ikke er regulert i standardavtalen, jf. [§ 65](forskrift/1997-06-27-653/§65) annet ledd, være operatøren som avgjør hva som er øvrige vilkår som kan stilles. Generelle utfyllende vilkår og prosedyrer for anvendelse av bestemmelsen utarbeides av operatøren etter konsultasjon med eier og brukere av oppstrøms gassrørledningsnett, jf. [§ 59](forskrift/1997-06-27-653/§59) siste ledd og [§ 66](forskrift/1997-06-27-653/§66) siste ledd.
 
+*[§ 59](forskrift/1997-06-27-653/§59) annet ledd:*
+
 I annet ledd fastslås det at eier av oppstrøms gassrørledningsnett og den som har rett til bruk av dette, eller operatøren på vegne av disse, plikter å motta og sørge for at forespørsler om adgang til bruk av kapasitet behandles innen rimelig tid. På dette grunnlag vil den som har behov for transport av naturgass til enhver tid vite hvor han kan henvende seg for å få behandlet en forespørsel om adgang til bruk av kapasitet i oppstrøms gassrørledningsnett. Hva som er rimelig tid vil variere og kan ikke fastslås konkret. Dersom det dreier seg om små volumer innen kort tid må henvendelsen behandles deretter, slik at behandlingen av forespørselen ikke blokkerer for retten til adgang. Er det derimot tale om et større volum lenger frem i tid, vil det kunne brukes noe mer tid.
+
+*[§ 59](forskrift/1997-06-27-653/§59) tredje ledd:*
 
 Første punktum fastsetter at visse tekniske og operasjonelle vilkår må være oppfylt for at naturgassforetak og kvalifiserte kunder skal ha rett til bruk av oppstrøms gassrørledningsnett. For det første er det et vilkår at den aktuelle naturgassen har: *«spesifikasjoner som med rimelighet er forenlige med tekniske krav for og hensynet til effektiv drift av oppstrøms gassrørledningsnettet»*. Bakgrunnen for at det stilles krav om at den aktuelle naturgass skal ha bestemte spesifikasjoner er blant annet at det kan være store variasjoner i sammensetning av denne i de forskjellige oppstrømsrørledningene. Dette både fordi det er stor forskjell på gass fra de enkelte feltene og fordi ulike oppstrømsrørledninger transporterer både prosessert og uprosessert gass. Spesifikasjonene kan være uforenlige på grunn av forhold ved selve gassen eller ved infrastrukturen. Et hovedskille når det gjelder forhold ved gassen går mellom rikgass og tørrgass. Rikgass er stort sett ikke prosessert og inneholder våte komponenter (våtgass), mens i tørrgass er våtgassen skilt ut.
 
@@ -1248,6 +1282,8 @@ Vilkåret for rett til bruk av oppstrøms gassrørledningsnett er at spesifikasj
 
 De tekniske kravene omfatter også at den aktuelle naturgass må leveres med *«tilstrekkelig trykk ved inngangen til at slik naturgass kan nå utgangen»*. Dette kravet er begrunnet i at det er en absolutt forutsetning for transport av naturgass i rørledninger at det finnes tilstrekkelig trykk til å transportere den til utgangen av den aktuelle rørledningen. Den som ønsker å bruke kapasitet i oppstrøms gassrørledningsnett må således være i stand til å levere naturgass med tilstrekkelig trykk.
 
+*[§ 59](forskrift/1997-06-27-653/§59) fjerde ledd*
+
 I henhold til fjerde ledd første punktum skal operatøren for oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer fastsette utfyllende vilkår og prosedyrer for anvendelse av bestemmelsen etter konsultasjon med eier og bruker.
 
 Etter fjerde ledd annet punktum kan «*operatøren»* nekte adgang når vilkårene for rett til bruk etter bestemmelsen ikke er oppfylt. Det betyr at operatøren tar stilling til hvorvidt naturgassforetak og kvalifiserte kunder i det enkelte tilfelle har et behørig begrunnet rimelig behov for transport og/eller behandling av naturgass, og til hvorvidt naturgass for transport og/eller behandling har spesifikasjoner som med rimelighet er forenlig med tekniske krav for oppstrøms gassrørledningsnett og hensynet til effektiv drift. For de oppstrøms gassrørledningsnett som omfattes av Gassled er Gassco operatør. Ved utførelsen av disse oppgavene kan operatøren ikke under noen omstendighet instrueres av eier av det aktuelle oppstrøms gassrørledningsnett, jf. [§ 66](forskrift/1997-06-27-653/§66) siste ledd.
@@ -1256,19 +1292,31 @@ Etter fjerde ledd annet punktum kan «*operatøren»* nekte adgang når vilkåre
 
 Bestemmelsen gir enkelte definisjoner for dette kapittel og bestemmelser gitt i medhold av dette kapittel.
 
+*[§ 60](forskrift/1997-06-27-653/§60) første ledd:*
+
 Første ledd er en definisjon av eier. Eier er i dette kapittel både interessentskap og selskap som eier oppstrøms gassrørledningsnett, og den enkelte deltaker i slike interessentskap eller selskap. Hvorvidt en bestemmelse som bruker uttrykket *«eier»* i det konkrete tilfelle kun retter seg mot interessentskapet/selskapet eller kun den enkelte deltaker, eller begge deler, vil kunne variere. Det må foretas en fortolkning i det enkelte tilfelle for å avgjøre dette.
+
+*[§ 60](forskrift/1997-06-27-653/§60) annet ledd:*
 
 Annet ledd er en definisjon av ledig kapasitet. Ledig kapasitet i dette kapittelet er den kapasitet som er fysisk tilgjengelig når en har tatt hensyn til den kapasitet som er nødvendig for å oppfylle eksisterende forpliktelser til bruk av det aktuelle oppstrøms gassrørledningsnett, og når en har tatt hensyn til at en effektiv drift ikke alltid tilsier at det er hensiktsmessig å utnytte all fysisk tilgjengelig kapasitet i alle rørledninger. Det kan, av hensyn til en best mulig utnyttelse av flere rør samlet, eller av hensyn til vedlikehold, eller for å opprettholde et riktig trykk, være nødvendig å ikke benytte fysisk kapasitet fullt ut i enkelte rørledninger. Det er kun den kapasitet som er ledig etter at en har tatt hensyn til de nevnte forhold som er ledig kapasitet i denne forskriftens forstand.
 
 Den vesentlige begrensning i definisjonen i annet ledd av hva som er ledig kapasitet, følger av henvisningen til at ledig kapasitet ikke omfatter den kapasitet som er nødvendig for å oppfylle forpliktelser i forhold til de som allerede har en rett til bruk av oppstrøms gassrørledningsnett. Slik rett til bruk kan skrive seg fra avtaler inngått før ikrafttredelsen av denne forskriften og fra senere inngåtte avtaler. Dersom det finnes en rett til bruk av kapasiteten er denne kapasiteten som et utgangspunkt ikke ledig.
 
+*[§ 60](forskrift/1997-06-27-653/§60) tredje ledd:*
+
 Tredje ledd definerer avtale i førstehåndsmarkedet. Slik avtale er avtale inngått med eier som sådan, det vil si med eier i egenskap av eier. I et interessentskap vil det være interessentskapet som vil kunne opptre som eier i egenskap av eier. Avtale om bruk av oppstrøms gassrørledningsnett inngått med andre enn eier i denne betydning, er avtale i annenhåndsmarkedet, jf. fjerde ledd.
 
+*[§ 60](forskrift/1997-06-27-653/§60) fjerde ledd:*
+
 Fjerde ledd definerer avtale i annenhåndsmarkedet. Avtale i annenhåndsmarkedet er annen overføring av rett til bruk av kapasitet i oppstrøms gassrørledningsnett enn den som skjer ved avtale i førstehåndsmarkedet. Overføring av rett til bruk av kapasitet ved avtale i annenhåndsmarkedet vil alltid skje avledet av en rett til bruk av kapasitet ervervet ved avtale i førstehåndsmarkedet. En rett til bruk av kapasitet i oppstrøms gassrørledningsnett kan ved avtale i annenhåndsmarkedet overdras i flere ledd hvorav alle vil være avtale i annenhåndsmarkedet.
+
+*[§ 60](forskrift/1997-06-27-653/§60) femte ledd:*
 
 Femte ledd definerer tariff i forhold til [kapittel 9](forskrift/1997-06-27-653/kap9). Tariff er betaling for rett til bruk av kapasitet i oppstrøms gassrørledningsnett. For oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer vil ledig kapasitet fordeles i førstehåndsmarkedet etter reglene fastsatt i [§ 61](forskrift/1997-06-27-653/§61). Rett til bruk av kapasitet som omsettes i annenhåndsmarkedet vil ikke være undergitt regulerte tariffer – her vil tariffer i utgangspunktet bli fremforhandlet mellom partene i den aktuelle avtale i annenhåndsmarkedet eller omsatt på markedsplassen, jf. [§ 64](forskrift/1997-06-27-653/§64) fjerde ledd.
 
 ### Til § 61
+
+*[§ 61](forskrift/1997-06-27-653/§61) første ledd:*
 
 [§ 61](forskrift/1997-06-27-653/§61) unntatt sjuende ledd første punktum gjelder kun for oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer, jf. [§ 69](forskrift/1997-06-27-653/§69) første ledd. Dette vil i praksis omfatte de rørledninger som inngår i Gassled. For disse oppstrøms gassrørledningsnett følger det av [§ 61](forskrift/1997-06-27-653/§61) første ledd at all ledig kapasitet i førstehåndsmarkedet skal gjøres tilgjengelig samlet gjennom operatøren. Videre skal avtale om bruk i førstehåndsmarkedet inngås med operatøren på vegne av eier. I annet punktum fastslås det at det ikke kan inngås avtale om bruk av ledig kapasitet i oppstrøms gassrørledningsnett med andre enn naturgassforetak og kvalifiserte kunder.
 
@@ -1276,11 +1324,15 @@ Begrunnelsen for at den ledige kapasiteten i disse oppstrøms gassrørledningsne
 
 Bestemmelsen innebærer videre at også den enkelte eier i det aktuelle oppstrøms gassrørledningsnett må henvende seg til operatøren for å få adgang til bruk av ledig kapasitet i dette. I den forbindelse vises det likevel til [§ 61](forskrift/1997-06-27-653/§61) siste ledd hvoretter eier er gitt førsteprioritet ved fordeling av ledig kapasitet i førstehåndsmarkedet.
 
+*[§ 61](forskrift/1997-06-27-653/§61) annet, tredje, fjerde og femte ledd:*
+
 Bestemmelsene inneholder regler om hvordan ledig kapasitet skal gjøres tilgjengelig i oppstrøms gassrørledningsnett hvor departementet har fastsatt tariffene (Gassled). Operatøren er ansvarlig for praktiseringen av disse reglene, for Gassled vil det si Gassco. Det er kun hovedreglene som fastsettes i tredje, fjerde og femte ledd. Operatøren vil innenfor rammen av bestemmelsene selv måtte fastsette de nærmere prosedyrer for reservering av kapasitet i førstehåndsmarkedet. Departementet forutsetter at operatøren vil konsultere brukerne før slike nærmere prosedyrer fastsettes, men understreker at selve fastsettelsen av prosedyrene tilligger operatøren.
 
 Når det gjelder fastsettelse av hva som er fysisk tilgjengelig kapasitet kreves det godkjennelse også fra interessentskapet, fattet i samsvar med den alminnelige stemmeregel, jf. [§ 61](forskrift/1997-06-27-653/§61) annet ledd. Bestemmelsen presiserer at fysisk tilgjengelig kapasitet i oppstrøms gassrørledningsnett under hensyn til effektiv drift skal fastsettes høyest mulig. Fysisk tilgjengelig kapasitet er utgangspunktet for fastsettelse av ledig kapasitet, jf. definisjonen i [§ 60](forskrift/1997-06-27-653/§60) annet ledd. Naturgassforetak og kvalifiserte kunder kan reservere kapasitet for den tidsperiode de har et behørig begrunnet rimelig behov for kapasiteten.
 
 Som følge av den avsetningsinstruks Statoils generalforsamling fastsatte i mai 2001, som pålegger Statoil å avsette statens olje og gass sammen med sin egen, vil Statoil disponere Petoros rett til reservasjon av kapasitet på vegne av staten etter [§ 61](forskrift/1997-06-27-653/§61), jf. kommentarene til [§ 59](forskrift/1997-06-27-653/§59) første ledd. Dette vil videre få betydning for fastsettelsen av fordelingsnøkkelen i medhold av sjette ledd.
+
+*[§ 61](forskrift/1997-06-27-653/§61) sjette ledd:*
 
 Sjette ledd gir regler for prioritering dersom etterspurt kapasitet overstiger den ledige kapasitet som er tilgjengelig. For prioritering i slike tilfeller skal det fastsettes en fordelingsnøkkel. Fordelingsnøkkelen skal fastsettes av operatøren og skal gjelde for et gitt tidsrom. I Gassled er det som nevnt Gassco som er operatør. Det vises i denne forbindelse til [§ 66](forskrift/1997-06-27-653/§66) femte ledd hvoretter eier av det aktuelle oppstrøms gassrørledningsnett ikke vil ha innflytelse på fastsettelsen av denne fordelingsnøkkelen. Departementet antar at fordelingsnøkkelen i hovedsak vil fastsettes på årlig basis, men bestemmelsen åpner for at den kan fastsettes for andre tidsrom. Det kan også fastsettes en ny fordelingsnøkkel innenfor et allerede fastsatt tidsrom.
 
@@ -1289,6 +1341,8 @@ Ved fastsettelse av fordelingsnøkkelen skal det tas utgangspunkt i det behov de
 For å kunne oppstille en prognose for produksjon på kort sikt vil operatøren måtte ta utgangspunkt i produksjonstillatelsene. Produksjonstillatelsene fastsetter den maksimale årlige mengde petroleum som kan tas ut fra det enkelte felt. I tillegg gis det innenfor rammen av en produksjonstillatelse rett til å ta ut volumer som ikke er tatt ut innenfor tidligere års produksjonstillatelser. Produksjonstillatelser for naturgass gis for tidsperioder av ulik lengde, og vil således ikke alltid kunne danne grunnlag for fordeling av ledig kapasitet lenger frem i tid. For en prognose av hvilken produksjon et naturgassforetak eller kvalifisert kunde vil ha frem i tid, er det derimot naturlig å ta utgangspunkt i produksjonsforløpet godkjent i medhold av [petroleumsloven § 4-4](lov/1996-11-29-72/§4-4) første ledd. Godkjent produksjonsforløp må likevel justeres for eventuell kunnskap som er fremkommet etter tidspunktet for slik godkjennelse, dersom slik kunnskap sannsynliggjør at faktisk produksjon vil avvike fra dette. Det er naturlig at operatøren i slike spørsmål søker informasjon for å få et best mulig estimat for fremtidig produksjon. For felt på norsk kontinentalsokkel vil slik informasjon innhentes fra Oljedirektoratet.
 
 Det kan videre tas hensyn til planlagt produksjon fra felt hvor det ennå ikke er godkjent produksjonsforløp i medhold av § 4-4 første ledd, det vil si for felt som ennå ikke har fått godkjent PUD etter [petroleumsloven § 4-2](lov/1996-11-29-72/§4-2). Rettighetshaver vil i slike tilfeller måtte foreta et anslag for fremtidig produksjon. Det er naturlig for operatøren å ta utgangspunkt i dette anslaget og søke annen relevant informasjon for å få fastslått godheten i dette før operatøren fastsetter hvilket anslag som skal legges til grunn for reservasjonen. I den grad det for disse feltene i ettertid forekommer avvik mellom det som anslås som grunnlag for reservasjonen og den senere godkjennelsen etter § 4-4 første ledd, kan reservasjonen i ettertid justeres av operatøren på grunnlag av det godkjente produksjonsforløpet og den med rett til bruk av kapasitet har rett til å endre sin reservasjon tilsvarende. Dersom det ikke godkjennes et produksjonsforløp i medhold av § 4-4 første ledd for det aktuelle feltet, det vil si at en PUD-godkjennelse etter § 4-2 ikke gis, kan operatøren etter konsultasjon med den som har gjort reservasjonen bestemme at reservasjonen som er gjort på dette grunnlag skal bortfalle i sin helhet. Videre kan den som har gjort reservasjonen i slike tilfeller selv bestemme at denne skal bortfalle.
+
+*[§ 61](forskrift/1997-06-27-653/§61) sjuende ledd:*
 
 Av bestemmelsen fremgår det at det ved fordeling av ledig kapasitet først skal tas hensyn til eierens behørig begrunnede rimelige behov for bruk av kapasiteten. Dersom eier selv har et *«behørig begrunnet rimelig behov»* for kapasiteten, vil andre naturgassforetak og kvalifisert kunder således ikke ha rett til bruk av denne kapasiteten. Fortrinnsretten for eier etter denne bestemmelsen skal i rimelig grad ivareta hensynet til beskyttelse av foretatte investeringer og sikre produksjon av naturgass fra tilknyttede felt som eier av oppstrøms gassrørledningsnett er rettighetshaver til. I tilfeller hvor et selskap som er rettighetshaver til utvinningstillatelser har organisert eierskapet i oppstrøms gassrørledningsnett i eksempelvis et søsterselskap til selskapet som er rettighetshaver til utvinningstillatelsene, men under samme endelige morselskap, vil fortrinnsretten etter bestemmelsen her også kunne gjelde i forhold til søsterselskapet som er rettighetshaver til utvinningstillatelsene. Dette vil gjelde tilsvarende i forhold til fortrinnsretten etter [§ 62](forskrift/1997-06-27-653/§62).
 
@@ -1306,25 +1360,41 @@ Som følge av den avsetningsinstruks Statoils generalforsamling fastsatte i mai 
 
 ### Til § 63
 
+*[§ 63](forskrift/1997-06-27-653/§63) første ledd:*
+
 I første ledd fremgår det at eier av oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer, ikke kan kreve betaling for rett til bruk ut over det som fremgår av bestemmelsene fastsatt i og i medhold av [kapittel 9](forskrift/1997-06-27-653/kap9). I praksis innebærer dette at tariff i førstehåndsmarkedet for bruk av kapasitet i Gassled vil være regulert i en egen forskrift fastsatt av departementet. Bestemmelsen innebærer videre at naturgassforetak som er eier i det aktuelle oppstrøms gassrørledningsnettet og som ønsker å få rett til bruk av kapasitet i dette oppstrøms gassrørledningsnettet, må betale samme tariff som et naturgassforetak eller en kvalifisert kunde som ikke er eier. De fastsatte tariffene gjelder kun ved avtale i førstehåndsmarkedet.
 
 Departementet legger til grunn at ingen som ved forskriftens ikrafttredelse har avtaler om rett til bruk av oppstrøms gassrørledningsnett godkjent av departementet i medhold av [petroleumsloven § 4-8](lov/1996-11-29-72/§4-8), vil få økte økonomiske byrder eller for øvrig bli dårligere stilt samlet sett ved de nye tariffene som vil fastsettes av departementet i medhold av bestemmelsen. Fastsettelsen av nye tariffer med virkning for allerede godkjente avtaler vil på denne bakgrunn være innenfor rammen av den ulovfestede omgjøringslæren. Dersom det likevel skulle vise seg at et naturgassforetak samlet sett for samtlige fastsatte tariffer kommer i en dårligere økonomisk stilling i henhold til de nye forskriftene enn tilfellet var samlet sett da det ble betalt i henhold til godkjente avtaler, vil det kunne være anledning til å søke departementet om å opprettholde enkelte eksisterende avtaler, eller enkelte deler av en slik avtale, slik at denne brukeren samlet blir stilt omtrent likt under de fastsatte tariffene som tidligere. I den grad enkelte eksisterende avtaler, eller enkelte avtalevilkår i slike avtaler, skulle bli opprettholdt i henhold til ovenstående vil de eksisterende vilkår som opprettholdes i en slik avtale gjelde fullt ut for disse volumene istedenfor de nye bestemmelsene som fastsettes i og i medhold av dette kapittel.
 
+*[§ 63](forskrift/1997-06-27-653/§63) annet ledd:*
+
 I annet ledd fastslås det at for oppstrøms gassrørledningsnett hvor departementet fastsetter tariffene, skal det betales for reservert kapasitet uten hensyn til om denne benyttes eller ikke. Dette vil bidra til mer effektiv utnyttelse av kapasiteten.
+
+*[§ 63](forskrift/1997-06-27-653/§63) tredje ledd:*
 
 Tredje ledd fastslår at tariffen består av to hovedelementer, et kapitalelement og et driftselement. Hva som inngår i de to hovedelementene fremgår av fjerde og femte ledd i bestemmelsen.
 
+*[§ 63](forskrift/1997-06-27-653/§63) fjerde ledd:*
+
 Fjerde ledd gir regler for fastsettelse av kapitalelementet. Kapitalelementet fastsettes av departementet. Av annet punktum fremgår det at departementet ved fastsettelsen av kapitalelementet skal ta hensyn til at best mulig ressursforvaltning fremmes. Videre følger det av tredje punktum at kapitalelementet skal fastsettes slik at eierne kan forvente en rimelig avkastning på investert kapital. Tariffer i nyere rørledninger er fastsatt slik at eierne kan forvente en realavkastning på syv prosent før skatt på totalkapitalen, med mulighet for mindre tilleggsinntekter for å stimulere til økt utnyttelse og kostnadseffektiv drift. Avkastningsfastsettelsen for rørledninger og tilknyttede anlegg bygger blant annet på forutsetningen om at overskudd i hovedsak skal tas ut på feltet. Siste punktum i bestemmelsen fremholder at det også kan tas hensyn til *«andre særlige forhold»*. Som et slikt særlig forhold kan nevnes allerede inngåtte kontrakter om bruk av oppstrøms gassrørledningsnett, samt hensynet til at tariffnivået ikke må hindre en effektiv utnyttelse av oppstrøms gassrørledningsnett ved at tariffnivået medvirker til en kunstig eller unaturlig valg av transportvei for gasstrømmen.
 
+*[§ 63](forskrift/1997-06-27-653/§63) femte ledd:*
+
 Femte ledd inneholder regler om tariffens driftselement. I tillegg til kapitalelementet som fastsettes av departementet, kan det for oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer kreves et driftselement. Driftselementet kreves av eier av oppstrøms gassrørledningsnett eller operatør på vegne av eier, og må utmåles i henhold til det som fremgår av bestemmelsen her. Det vil si at driftselementet skal kreves slik at verken eier eller operatør av oppstrøms gassrørledningsnett har overskudd eller underskudd ved driften av dette, utover det som er fastsatt i medhold av fjerde ledd. For å sikre at driftselementet kreves slik som bestemt i første punktum, kan departementet bestemme hvilke kostnader det skal tas hensyn til ved beregning av driftselementet, herunder også hvilke kostnader det ikke kan tas hensyn til. Av siste punktum fremgår det at departementet kan samtykke i at driftselementet kreves på en annen måte enn etter prinsippet i første punktum, for å gi incitament til effektiv drift.
+
+*[§ 63](forskrift/1997-06-27-653/§63) sjette ledd:*
 
 Departementet har igangsatt et arbeid for å fastsette hvordan kostnadene knyttet til forpliktelser ved fremtidig disponering av innretninger for transport av naturgass skal dekkes.
 
 ### Til § 64
 
+*[§ 64](forskrift/1997-06-27-653/§64) første ledd:*
+
 [§ 64](forskrift/1997-06-27-653/§64) åpner for et annenhåndsmarked for rett til bruk av oppstrøms gassrørledningsnett. Overføring av rett til bruk av kapasitet i annenhåndsmarkedet kan skje ved at det inngås bilaterale avtaler mellom den som har rett til kapasitet i første- eller annenhåndsmarkedet og et naturgassforetak eller en kvalifisert kunde, eller ved at det inngås slike avtaler via den markedsplassen for omsetting av bruksrettigheter som er opprettet etter [§ 64](forskrift/1997-06-27-653/§64) fjerde ledd. En slik avtale kan enten fastsette at den som retten overføres til overtar alle rettigheter og plikter i henhold til den opprinnelige avtalen, eller i form av at rettighetene og pliktene fortsatt påligger den opprinnelige avtaleparten, det vil si en form for fremleie av retten til bruk av den aktuelle kapasiteten.
 
 Det er et vilkår for å kunne inngå avtale i annenhåndsmarkedet at det aktuelle naturgassforetak eller kvalifiserte kunde som ønsker å få rett til bruk av kapasitet, har et behørig begrunnet rimelig behov for transport av naturgass. Denne gassen må tilfredsstille de spesifikasjonskrav som gjelder for det relevante oppstrøms gassrørledningsnett. Disse kravene er nærmere definert over, jf. merknadene til [§ 59](forskrift/1997-06-27-653/§59). Operatøren tar stilling til om disse vilkårene er oppfylt, enten før eller etter at avtale er inngått. Videre er det ved avtale i annenhåndsmarkedet kun anledning til å overføre rett til bruk av kapasitet til et naturgassforetak eller en kvalifisert kunde. For de oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer i egen forskrift (Gassled), vil de fastsatte tariffene ikke gjelde i annenhåndsmarkedet. Den pris som avtales i annenhåndsmarkedet vil således kunne avvike fra tariffen i førstehåndsmarkedet. Departementet har likevel anledning etter [§ 67](forskrift/1997-06-27-653/§67) første ledd til å gi pålegg om at naturgassforetak og kvalifiserte kunder skal gis rett til bruk av kapasitet i det enkelte tilfelle, herunder fastsette til hvilken tariff og øvrige vilkår overføring av rett til bruk i annenhåndsmarkedet skal skje.
+
+*[§ 64](forskrift/1997-06-27-653/§64) annet ledd:*
 
 Annet ledd gir regler for når en som i utgangspunktet har rett til bruk av kapasitet i oppstrøms gassrørledningsnett, plikter å frigjøre sin rett til bruk av denne kapasiteten for andre. Bestemmelsen er hjemlet i [petroleumsloven § 4-8](lov/1996-11-29-72/§4-8) første ledd første punktum som sier at departementet kan bestemme at innretninger kan benyttes av andre, annet punktum som sier at naturgassforetak og kvalifiserte kunder skal ha rett til adgang til oppstrøms gassrørledningsnett, samt tredje punktum som sier at departementet gir nærmere regler, fastsetter vilkår og gir pålegg for slik adgang, jf. Ot.prp.nr.81 (2001–2002).
 
@@ -1332,9 +1402,13 @@ For at den retten naturgassforetak og kvalifiserte kunder har til adgang til opp
 
 Hva som er et *«behørig begrunnet rimelig behov»* kan ikke fastslås generelt, men må avgjøres konkret i det enkelte tilfellet. Eksempelvis vil en bruker kunne ha et rimelig behov for å ha tilgang til kapasitet han for øyeblikket ikke bruker, dersom dette er nødvendig for i fremtiden å kunne oppfylle eksisterende kontraktsforpliktelser i forhold til kjøper av naturgass. En som har inngått avtale om rett til bruk av kapasitet, vil også kunne ha et rimelig behov for denne i et kortsiktig marked for å kunne avsette gass på en hensiktsmessig måte i dette markedet. Det vises for øvrig i denne forbindelse til merknadene til [§ 59](forskrift/1997-06-27-653/§59) første ledd og [§ 61](forskrift/1997-06-27-653/§61) sjette ledd, hvor det også omtales hva som nærmere anses å ligge i vilkåret *«behørig begrunnet rimelig behov».*
 
+*[§ 64](forskrift/1997-06-27-653/§64) tredje ledd:*
+
 I tredje ledd første punktum pålegges den som har rett til bruk av kapasitet i oppstrøms gassrørledningsnett en informasjonsplikt til operatøren. Operatøren skal for det første gis informasjon om forhold som nevnt i annet ledd. Det vil si at dersom en med rett til kapasitet ikke har behov for kapasitet i fremtiden, skal han informere operatøren om dette. Videre skal operatøren underrettes om avtaler i annenhåndsmarkedet.
 
 Bestemmelsen sikrer operatøren oversikt over hvem som til enhver tid har rett til bruk av kapasitet i oppstrøms gassrørledningsnett. Informasjonsplikten er fastsatt for at operatøren skal kunne oppfylle sitt ansvar for driften av oppstrøms gassrørledningsnett, og av hensyn til at tredjeparter som ønsker adgang til bruk av oppstrøms gassrørledningsnett skal kunne få informasjon om ledig kapasitet og kapasitet som ikke benyttes, jf. [§ 66](forskrift/1997-06-27-653/§66) fjerde ledd. Operatøren plikter å hindre at andre, herunder eiere av oppstrøms gassrørledningsnett og andre brukere, får kjennskap til forretningshemmeligheter operatøren får vite om på bakgrunn av første punktum, jf. [§ 66](forskrift/1997-06-27-653/§66) fjerde ledd.
+
+*[§ 64](forskrift/1997-06-27-653/§64) fjerde ledd:*
 
 I denne bestemmelsen pålegges operatøren, det vil for de oppstrøms gassrørledningsnett som omfattes av Gassled si Gassco, å tilrettelegge og drive en markedsplass for overføring av rett til bruk av kapasitet i oppstrøms gassrørledningsnett i annenhåndsmarkedet. De reglene operatøren fastsetter for markedsplassen skal godkjennes av departementet. Det legges til grunn at operatøren vil konsultere brukerne før slike regler forelegges departementet for godkjennelse. Det er i utgangspunktet frivillig om aktørene velger å inngå avtaler i annenhåndsmarkedet på bilateralt grunnlag eller gjennom markedsplassen. Andre enn operatøren kan ikke drive en slik markedsplass uten etter samtykke fra departementet. Reglene om at det kreves samtykke til å drive markedsplass forhindrer derimot ikke den enkelte fra å markedsføre sin egen rett til bruk av kapasitet i oppstrøms gassrørledningsnett. I henhold til siste punktum kan likevel departementet bestemme at all overføring av rett til bruk i annenhåndsmarkedet skal skje gjennom markedsplassen. Det vil kunne være aktuelt å treffe en slik beslutning dersom departementet på bakgrunn av erfaringer med det nye systemet finner at dette vil bidra til å sikre en bedre utnyttelse av oppstrøms gassrørledningsnett.
 
@@ -1384,9 +1458,13 @@ I [§ 66](forskrift/1997-06-27-653/§66) fjerde ledd reguleres hvilke opplysning
 
 I [§ 66](forskrift/1997-06-27-653/§66) femte ledd reguleres forholdet mellom operatøren, Gassco og eierne i oppstrøms gassrørledningsnett hvor departementet fastsetter tariffer ved forskrift, Gassled. Slike oppstrøms gassrørledningsnett vil som nevnt over kjennetegnes av tredjepartsbruk og av at flere oppstrøms gassrørledningsnett er samlet i en eierstruktur. For å bidra til å sikre naturgassforetak og kvalifiserte kunder adgang på objektive og ikke-diskriminerende vilkår her, er det særlig viktig med en nøytral operatør. Dette ivaretas ved at operatøren ikke kan instrueres generelt eller konkret av eierne av det aktuelle oppstrøms gassrørledningsnett når det gjelder oppgaver som er tillagt ham i dette kapittel eller i medhold av dette kapittel. Dette vil eksempelvis gjelde avgjørelser om hvorvidt det i det enkelte tilfellet foreligger et behørig begrunnet rimelig behov for transport og/eller behandling av naturgass, og hva som finnes av ledig kapasitet. Bestemmelsen her påvirker likevel ikke eiers rett til bl.a., som eier, selv å fastsette budsjett og arbeidsprogram knyttet til budsjettet for de relevante oppstrøms gassrørledningsnett, eller selv å inngå avtaler om anskaffelser. Videre vil eier kunne kreve at operatøren oppfyller sine forpliktelser overfor eier i henhold til gjeldende operatøravtale for å sikre en god operasjonell drift av oppstrøms gassrørledningsnett. På den annen side vil eksempelvis spørsmål om vedlikeholdsprogram fastsettes av operatøren etter konsultasjon med rettighetshaverne til tilknyttede felt, alle brukerne av systemet og eier. I én bestemmelse er operatørens beslutning eksplisitt betinget av eierens godkjennelse, jf. [§ 61](forskrift/1997-06-27-653/§61) annet ledd om hva som skal anses som fysisk tilgjengelig kapasitet.
 
+*Til [§ 66](forskrift/1997-06-27-653/§66) som endret ved [forskrift 19 des 2008 nr. 1476](forskrift/2008-12-19-1476)*
+
 Gjeldende [§ 66](forskrift/1997-06-27-653/§66) første ledd fjerde punktum oppheves idet den erstattes av ny [§ 66A](forskrift/1997-06-27-653/§66a). Ved endringen i [§ 69](forskrift/1997-06-27-653/§69) første ledd utvides virkeområdet for bestemmelsen [§ 66](forskrift/1997-06-27-653/§66) første ledd tredje punktum slik at denne får virkning for alle felt som er tilknyttet oppstrøms gassrørledningsnett hvor Gassco er operatør. Videre oppheves bestemmelsen om operatørens taushetsplikt i [§ 66](forskrift/1997-06-27-653/§66) fjerde ledd annet punktum i forbindelse med utkast til ny [§ 68A](forskrift/1997-06-27-653/§68a) som generelt regulerer taushetsplikt.
 
 ### Til § 66A
+
+*Første ledd*
 
 [Petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) fastslår at departementet kan utpeke den som skal ha et særlig operatøransvar for den helhetlige driften av oppstrøms gassrørledningsnett og tilknyttede anlegg. Gassco AS innehar det særlige operatøransvaret etter denne bestemmelsen. § 4-9 annet ledd fastslår at den helhetlige driften av oppstrøms gassrørledningsnett og tilknyttede anlegg skal skje i samsvar med forsvarlige tekniske og sunne økonomiske prinsipper. Den som har det særlige operatøransvaret, skal opptre nøytralt og ikke-diskriminerende.
 
@@ -1402,17 +1480,25 @@ På grunn av de lange transportdistanser fra norsk kontinentalsokkel til de stø
 
 Operatøren skal i samsvar med [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) drive etter forsvarlige tekniske og sunne økonomiske prinsipper. Dette innebærer blant annet et krav om at operatørens vurderinger av videreutvikling av oppstrøms gassrørledningsnett må skje innenfor forsvarlige økonomiske rammer. Gassco vil være ansvarlig for at videreutviklingen skjer i samsvar med dette. Ettersom Gasscos kostnader til videreutvikling dekkes enten gjennom tariffene, eller av andre interessentgrupper, må selskapet ha et særlig fokus på at kostnadsnivået er forsvarlig.
 
+*[§ 66A](forskrift/1997-06-27-653/§66a) annet ledd*
+
 Når behovet for transport- eller behandlingskapasitet oppstår, følger det av annet ledd at rettighetshaver skal informere Gassco om dette. Det er viktig for Gasscos langsiktige planlegging av transportsystemet på norsk sokkel at selskapet har god oversikt over alle sannsynlige fremtidige transportbehov. Informasjonen vil også gjøre Gassco i stand til å starte vurderingen av mulige helhetlige løsninger på et så tidlig stadium som mulig. For å sikre at de vurderinger som gjøres blir så gode og kostnadseffektive som mulig, fastslås det i tredje ledd at Gassco skal få den informasjon som er nødvendig fra aktuelle rettighetshavere og eiere av eksisterende infrastruktur. Behovskriteriet refererer til at de aktuelle naturgassforetak og kvalifiserte kunder vil kunne få et behørig begrunnet rimelig behov for kapasitet i samsvar med vilkårene for dette etter [§ 59](forskrift/1997-06-27-653/§59). Dette gjelder generelt for [§ 66A](forskrift/1997-06-27-653/§66a).
 
 Informasjonsplikten i andre ledd inntrer når et kapasitetsbehov fremtrer som sannsynlig. Dette må vurderes konkret, og vil blant annet avhenge av tidspunktet for når vurdering og planlegging av ny feltproduksjon igangsettes, slik at det samtidig er tilstrekkelig tid til å foreta vurderinger av helhetlige transport- og behandlingsløsninger. I praksis vil dette være på det tidspunkt hvor funnet er vurdert som sannsynlig, men utvikling av funnet ennå ikke er besluttet (tilsvarende ressursklasse 5 i OD's klassifiseringssystem). Når informasjon om utviklingsplaner er mottatt vil Gassco ved henvendelse til rettighetshaver konkretisere den informasjon som er nødvendig iht. forskriften [§ 66A](forskrift/1997-06-27-653/§66a) tredje ledd.
 
+*[§ 66A](forskrift/1997-06-27-653/§66a) tredje ledd*
+
 Bestemmelsen i tredje ledd fastsetter en plikt for naturgassforetak og kvalifiserte kunder som kan antas å ha eller få behov for kapasitet for transport eller behandling av naturgass, til å gi operatøren opplysninger som operatøren ber om. Hensikten med bestemmelsen er at operatøren skal settes i stand til å utføre sine oppgaver mht. utredninger, vurderinger og analyser. Opplysningsplikten omfatter således forhold som er relevante for å vurdere videreutvikling av oppstrøms gassrørledningsnett. Dette gjelder ikke bare opplysninger om aktuelle transport- og behandlingsløsninger, men også opplysninger om feltutbyggingsløsninger, produksjonsprofiler, gasskvalitet, opplysninger om kommersielle vilkår mv. som vil kunne ha konsekvenser for transport eller behandling av naturgass. Det kan for eksempel være nødvendig for Gassco å ha kjennskap til betingelser knyttet til kapasitet, spesifikasjoner og tariffer knyttet til ulike transport og behandlingsløsninger for å kunne foreta en sammenligning av ulike alternativer. Det legges til grunn at opplysningsplikten ikke omfatter markedsinformasjon for avsetning av gass. Den tidsfrist Gassco fastsetter for å motta slike opplysninger må være rimelig, blant annet med hensyn til den tid det tar å fremskaffe opplysningene.
+
+*[§ 66A](forskrift/1997-06-27-653/§66a) fjerde ledd*
 
 [Petroleumsloven § 4-1](lov/1996-11-29-72/§4-1), [§ 4-7](lov/1996-11-29-72/§4-7) og [§ 4-8](lov/1996-11-29-72/§4-8) innebærer at naturgassforetak og kvalifiserte kunder har, eller vil kunne ha, rett til tilknytning av nye innretninger til eksisterende oppstrøms gassrørledningsnett og/eller videreutvikling av eksisterende oppstrøms gassrørledningsnett, dersom hensynet til rasjonell drift eller samfunnsmessige hensyn tilsier det. For å muliggjøre en eventuell tilknytning eller videreutvikling må en reell forhandlingssituasjon etableres. Dette igjen forutsetter at den part som ser behov for tilknytning eller videreutvikling må ha tilgang til relevant informasjon om den/de innretninger som det planlegges videreutvikling av eller tilknytning til.
 
 Bestemmelsen i fjerde ledd fastsetter derfor en plikt for operatøren (Gassco) til i nødvendig utstrekning å gi tekniske opplysninger om eksisterende oppstrøms gassrørledningsnett til naturgassforetak og kvalifiserte kunder som kan antas å ha eller få behov for å etablere ny kapasitet i slike anlegg. Dette vil gjelde tekniske opplysninger av relevans for tilknytning til eller utvidelse av eksisterende oppstrøms gassrørledningsnett mv.
 
 Operatøren skal, etter varsling av den som har avgitt opplysningene, kunne gi ut opplysninger som ikke er underlagt taushetsplikt i medhold av [§ 68A](forskrift/1997-06-27-653/§68a). Det presiseres at operatøren ikke skal kunne gi ut kommersiell informasjon som er innmeldt Gassco jf. tredje ledd. Operatøren kan ikke ved avtale innskrenke sin mulighet til å gi ut opplysninger i medhold av denne bestemmelsen. Det kan være ulikt syn på hvilke opplysninger som er underlagt taushetsplikt. Operatørens plikt til å informere om at informasjon som etter operatørens vurdering ikke er underlagt taushetsplikt skal gis ut, gir eier av informasjonen mulighet til å etterprøve denne vurderingen. Uenighet knyttet til om informasjonen er underlagt taushetsplikt kan bringes inn for departementet, jf. [§ 68](forskrift/1997-06-27-653/§68) nytt annet ledd.
+
+*[§ 66A](forskrift/1997-06-27-653/§66a) femte ledd*
 
 Etter at naturgassforetak og kvalifiserte kunder har informert operatøren om behov for kapasitet for transport eller behandling av naturgass iht. [§ 66A](forskrift/1997-06-27-653/§66a) annet ledd, skal Gassco som operatør i medhold av [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) foreta en vurdering av mulige løsninger etter samråd med disse. Det er i utgangspunktet naturgassforetakene og kvalifiserte kunder som legger timeplanen for når bestemte ressurser skal utvikles og transporteres. Normalt vil plikten for operatøren til å samrå seg med naturgassforetak og kvalifiserte kunder og fatte beslutning om hvilke mulige løsninger som skal vurderes, inntre etter at informasjon iht. annet ledd er gitt operatøren. Det kan imidlertid også være aktuelt for operatøren å fatte beslutning om at også mer umodne ressurser skal inkluderes i en slik vurdering ut fra et områdeperspektiv. Operatøren må uansett sikre seg at det er tilstrekkelig tid til å gjennomføre de vurderinger han skal gjøre etter [§ 66A](forskrift/1997-06-27-653/§66a).
 
@@ -1422,15 +1508,21 @@ Det understrekes for ordens skyld at dette ikke betyr at operatøren har enekomp
 
 Det presiseres også at operatøren ikke skal legge til grunn markedssyn i sine vurderinger som ikke er i tråd med gasseiernes markedssyn. Markedsvurderinger skal ene og alene ligge hos de kommersielle partene og ikke hos operatøren.
 
+*[§ 66A](forskrift/1997-06-27-653/§66a) sjette ledd*
+
 I tilfeller hvor flere kan dra nytte av videreutvikling av oppstrøms gassrørledningsnett, skal Gassco søke å identifisere hvilke aktører som kan dra nytte av en slik eventuell videreutvikling. Gassco kan i den forbindelse invitere aktuelle interessenter til å delta i konkrete videreutviklingsprosjekter etter først å ha orientert relevante eiere. Operatøren skal gjøre klart for aktuelle naturgassforetak og kvalifiserte kunder de finansielle forpliktelser som påløper ved deltakelse. Dette kan gjennomføres ved at aktuelle interessenter inviteres til å delta i finansiering av studier og i finansiering av endelig utbygging. Formålet er å få en samordnet prosess hvor relevante brukerhensyn koordineres, og de mest hensiktsmessige infrastrukturløsninger velges. Prosessene må gjennomføres på en ikke-diskriminerende og nøytral måte og Gassco skal i denne prosessen identifisere og kontakte alle relevante parter.
 
 Målsettingen med denne bestemmelsen er blant annet at Gassco så raskt som mulig skal søke å identifisere en investorgruppe for et prosjekt slik at så lite som mulig av kostnader blir lagt i O-elementet, jf. forslag til endring i tarifforskriften.
+
+*[§ 66A](forskrift/1997-06-27-653/§66a) syvende ledd*
 
 Bestemmelsen fastslår at Gasscos kostnader til vurderinger av videreutvikling av oppstrøms gassrørledningsnett knyttet til en bestemt interessentgruppes behov, skal dekkes av disse. Dette vil normalt formaliseres gjennom en avtale mellom Gassco og interessentgruppen forut for vurderingen. Plikten til kostnadsdekning gjelder bare slike vurderinger som retter seg mot denne bestemte interessentgruppens transport- og behandlingsbehov, og vil blant annet kunne gjelde alternativer som må utredes for at Gassco skal kunne foreta de helhetlige vurderinger i samsvar med [§ 66A](forskrift/1997-06-27-653/§66a). Typiske tilfeller vil kunne være at en interessentgruppe vurderer utbygging av et nytt felt eller økning av produksjon fra et eksisterende felt.
 
 Kostnader til øvrige vurderinger i samsvar med [§ 66A](forskrift/1997-06-27-653/§66a) skal dekkes av brukerne i samsvar med tarifforskriften [§ 4](forskrift/1997-06-27-653/§4). Dette gjelder kostnader som pådras frem til beslutning om oppstart av konseptstudier (DG2). Bestemmelsens siste punktum sikrer at brukere konsulteres og har mulighet til å komme med innspill på hvilke vurderinger Gassco skal gjøre før en vesentlig andel av kostnadene til slike vurderinger pådras.
 
 Uenigheter knyttet til [§ 66A](forskrift/1997-06-27-653/§66a), herunder omfanget og kostnadene knyttet til studier som Gassco planlegger på vegne av rettighetshaverne, kan bringes inn til departementet for avgjørelse i henhold til [§ 68](forskrift/1997-06-27-653/§68) annet ledd.
+
+*[§ 66A](forskrift/1997-06-27-653/§66a) åttende ledd*
 
 Gassco skal forelegge sine vurderinger av videreutvikling av oppstrøms gassrørledningsnett for departementet. Gasscos vurderinger vil bl.a. deretter tjene som grunnlag for departementets egne vurderinger med sikte på om det skal gis tillatelse til anlegg og drift av innretninger i samsvar med [petroleumsloven § 4-3](lov/1996-11-29-72/§4-3).
 
@@ -1452,6 +1544,8 @@ Bestemmelsen gir regler om en tvisteløsningsmekanisme. Bestemmelsen i [§ 68](f
 
 Det presiseres for ordens skyld at [§ 68](forskrift/1997-06-27-653/§68) ikke påvirker partenes adgang til å få en sak prøvd for de alminnelige domstoler etter tvistemålsloven.
 
+*Til [§ 68](forskrift/1997-06-27-653/§68) annet ledd*
+
 Nytt annet ledd åpner for å bringe uenighet knyttet til [§ 66A](forskrift/1997-06-27-653/§66a) om videreutvikling inn for departementet til avgjørelse. I forbindelse med tvisteløsning som nevnt, vil departementet kunne kreve fremlagt all informasjon fra partene som er nødvendig for løsning av tvisten.
 
 Det presiseres for ordens skyld at [§ 68](forskrift/1997-06-27-653/§68) ikke påvirker partenes adgang til å få en sak prøvet for de alminnelige domstoler etter tvistemålsloven.
@@ -1462,11 +1556,19 @@ Bestemmelsen fastsetter taushetsplikt for operatøren for opplysninger som opera
 
 ### Til § 69
 
+*[§ 69](forskrift/1997-06-27-653/§69) første ledd:*
+
 Første ledd angir et begrenset virkeområde for enkelte av bestemmelsene i [kapittel 9](forskrift/1997-06-27-653/kap9). For oppstrøms gassrørledningsnett som ikke er omfattet av egen forskrift om fastsettelse av tariffer, det vil per i dag si oppstrøms gassrørledningsnett som ikke er omfattet av Gassled, vil kun enkelte av bestemmelsene i [kapittel 9](forskrift/1997-06-27-653/kap9) få anvendelse. Det vises til de generelle kommentarene og kommentarene til [§ 59](forskrift/1997-06-27-653/§59) over for en nærmere begrunnelse for dette skillet.
+
+*Til [§ 69](forskrift/1997-06-27-653/§69) første ledd som endret ved [forskrift 19 des 2008 nr. 1476](forskrift/2008-12-19-1476)*
 
 Etter gjeldende [§ 69](forskrift/1997-06-27-653/§69) første ledd er Gasscos ansvar for videreutvikling av oppstrøms gassrørledningsnett jf. gjeldende [§ 66](forskrift/1997-06-27-653/§66) første ledd fjerde punktum, begrenset til oppstrøms gassrørledningsnett som er omfattet av tarifforskriften. Det samme gjelder begrensningen av Gasscos ansvar for å koordinere vedlikeholdsplanlegging for tilknyttede felt jf. [§ 66](forskrift/1997-06-27-653/§66) første ledd tredje punktum. Disse begrensningene bortfaller ved at henvisningen til [§ 66](forskrift/1997-06-27-653/§66) første ledd tredje og fjerde punktum foreslås tatt ut i [§ 69](forskrift/1997-06-27-653/§69) første ledd, og ved at [§ 66](forskrift/1997-06-27-653/§66) første ledd fjerde punktum erstattes av ny [§ 66A](forskrift/1997-06-27-653/§66a). Gasscos ansvar etter [§ 66](forskrift/1997-06-27-653/§66) første ledd tredje punktum vil således gjelde generelt for felt knyttet til oppstrøms gassrørledningsnett som Gassco er operatør for. Bakgrunnen for disse endringene er at det ikke anses hensiktsmessig å begrense disse oppgavene til oppstrøms gassrørledningsnett som er omfattet av tarifforskriften. Det vises for øvrig til merknadene til ny [§ 66A](forskrift/1997-06-27-653/§66a).
 
+*[§ 69](forskrift/1997-06-27-653/§69) annet ledd:*
+
 Annet ledd gir departementet adgang til å bestemme at også tilknyttede anlegg til oppstrøms gassrørledningsnett skal omfattes av reglene som gjelder for oppstrøms gassrørledningsnett fastsatt i og i medhold av dette kapittel. Det vil kunne være aktuelt å fastsette dette for tilknyttede anlegg for å sikre en helhetlig regulering av flere innretninger for transport og behandling av petroleum. Det kan således være behov for tilsvarende regulering som for et oppstrøms gassrørledningsnett selv om en innretning i et gitt tilfelle ikke faller inn under definisjonen av et oppstrøms gassrørledningsnett, samt for tilknyttede innretninger for transport og behandling av kondensat. Dette vil eksempelvis kunne være tilfelle for mottaksterminalene på kontinentet, som i henhold til gassmarkedsdirektivet ikke vil være å anse som oppstrøms gassrørledningsnett.
+
+*[§ 69](forskrift/1997-06-27-653/§69) tredje ledd:*
 
 Bestemmelsen pålegger departementet å innen 1. januar 2008 vurdere ordningen i [§ 61](forskrift/1997-06-27-653/§61) sjuende ledd som gir fortrinnsrett for eier ved fordeling av ledig kapasitet i førstehåndsmarkedet og å foreta nødvendige tiltak på bakgrunn av vurderingene. Bakgrunnen for at bestemmelsen tas inn er bl.a. uttalelser fra flere av høringsinstansene hvor det ble argumentert både for og imot denne fortrinnsretten for eier. En finner at det på nåværende tidspunkt er riktig å ha en fortrinnsrett for eier, men at ordningen må følges særlig nøye.
 
@@ -1479,6 +1581,8 @@ I henhold til annet ledd vil departementet kunne etablere særlige regler om unn
 > Merknader tilføyd ved [forskrift 20 des 2002 nr. 1618](forskrift/2002-12-20-1618) og [forskrift 19 des 2008 nr. 1476](forskrift/2008-12-19-1476) (i kraft 1 jan 2009).
 
 ### Kommentarer til forskrift om endring i forskrift til lov om petroleumsvirksomhet, fastsatt ved kgl.res. 20. januar 2006
+
+*1) Oversikt over endringsforslagene*
 
 Forslagene til endringer i [forskrift 27. juni 1997 nr. 653](forskrift/1997-06-27-653) til lov om petroleumsvirksomhet (petroleumsforskriften) er knyttet til forskjellige forhold.
 
@@ -1496,11 +1600,17 @@ Det foreslås endringer i bestemmelsene om opplysninger til nasjonalbudsjettpros
 
 Det tas sikte på at endringene trer i kraft straks.
 
+*2) Høringsprosessen*
+
 Olje- og energidepartementet sendte forslag til endringer i petroleumsforskriften på høring 24. august 2005 med høringsfrist til 24. oktober 2005.
 
 Det ble mottatt høringsuttalelser fra 18 høringsinstanser. Følgende høringsinstanser gav uttalelse: Arbeids- og sosialdepartementet, Finansdepartementet, Fiskeri- og kystdepartementet, Justis- og politidepartementet, Miljøverndepartementet, Oljedirektoratet, Petroleumstilsynet, Statens forurensningstilsyn, Direktoratet for naturforvaltning, Gassco AS, Oljeindustriens Landsforening, Norges Rederiforbund, Bellona, WWF-Norge, Natur og ungdom, Norges Naturvernforbund, DONG Norge AS, Lundin Norway AS og Pertra AS. Finansdepartementet og Fiskeri- og kystdepartementet hadde ingen merknader.
 
 Høringsinstansene var i hovedsak positive til endringsforslagene. I tilfeller hvor høringsinstansene hadde avvikende syn er dette reflektert i tilknytning til det enkelte forslag i punkt I) til VII) under. Flere av merknadene fra høringsinstansene er innarbeidet i forslaget til forskrift og i forarbeidene, og kommenteres da ikke videre.
+
+*3) Endringsforslagene*
+
+*I) EUs direktiv [2001/42/EF](eu/32001l0042) om vurdering miljøvirkning av visse planer og programmer (plandirektivet)*
 
 Europaparlaments- og rådsdirektiv [2001/42/EF](eu/32001l0042) om vurdering av miljøvirkningene av visse planer og programmer (plandirektivet) er innlemmet i EØS-avtalen, jf. [St.prp.nr.7 (2002–2003)](https://www.regjeringen.no/id/STP200220030007000DDDEPIS) og [Innst.S.nr.145 (2002–2003)](forarbeid/inns-s-145-200203). I forbindelse med [Ot.prp.nr.47 (2003–2004)](forarbeid/otprp-47-200304) ble det vedtatt endringer i plan- og bygningsloven for å gjennomføre direktivet innenfor denne lovens geografiske virkeområde. Plan- og bygningsloven gjelder i sjøområder ut til grunnlinjen. Plandirektivet er også relevant i forhold til utvinning av olje og gass etter petroleumsloven, som skjer utenfor grunnlinjen. Enkelte klagesaker fra miljøvernorganisasjoner har vist at det er behov for å synliggjøre hva som er virkeområdet for plandirektivet for petroleumsvirksomheten offshore.
 
@@ -1515,6 +1625,8 @@ I direktivet heter det videre at «medlemsstatene skal overvåke de betydelige m
 I forbindelse med åpning av et område for petroleumsvirksomhet etter [petroleumsloven § 3-1](lov/1996-11-29-72/§3-1) har en allerede i petroleumsloven saksbehandlingsregler av samme type som de som er omtalt i plandirektivet. Det fremgår av petroleumsloven i dag at det før åpning av nye områder for petroleumsvirksomhet skal finne sted en avveining mellom de ulike interesser som gjør seg gjeldende på det aktuelle området. Under denne avveiningen skal det foretas en vurdering av de nærings- og miljømessige virkningene av petroleumsvirksomheten og mulige farer for forurensning, samt de økonomiske og sosiale virkningene petroleumsvirksomheten kan ha. Spørsmålet om åpning av nye områder skal forelegges lokale myndigheter og interesseorganisasjoner som kan ha særlig interesse i saken. Videre skal det ved offentlig kunngjøring gjøres kjent hvilke områder det foreligger planer om å åpne for petroleumsvirksomhet, og arten og omfanget av den virksomhet det gjelder. Interesserte skal gis en frist på minst tre måneder til å uttale seg. For øvrig er det opp til departementet i det enkelte tilfelle å avgjøre hvilken saksbehandling som skal følges.
 
 Ovennevnte saksbehandlingsregler i petroleumsloven i forbindelse med åpning av områder for petroleumsvirksomhet innebærer at Norge allerede har bestemmelser som sikrer at en kan oppfylle kravene i plandirektivet. Departementet anser det likevel som hensiktsmessig at nærmere regler om dette fastsettes i petroleumsforskriften for å synliggjøre direktivets krav i norsk rett, og for å synliggjøre den saksbehandling som vil bli fulgt. Forslag om dette er inntatt i utkast til ny [§ 6a](forskrift/1997-06-27-653/§6a), [§ 6b](forskrift/1997-06-27-653/§6b), [§ 6c](forskrift/1997-06-27-653/§6c) og [§ 6d](forskrift/1997-06-27-653/§6d), i nytt [kapittel 2a](forskrift/1997-06-27-653/kap2a). Disse reglene er utformet i tråd med tilsvarende regelverk under plan- og bygningsloven. Det anses ikke nødvendig med endringer i petroleumsloven.
+
+*Høringsuttalelser og departementets kommentarer:*
 
 De fleste høringsinstansene er generelt sett positive til forslaget om en presisering av plandirektivets anvendelse for petroleumsvirksomheten.
 
@@ -1532,11 +1644,15 @@ Bellona gir i sin høringsuttalelse uttrykk for at plandirektivet også bør gis
 
 Bellona gir uttrykk for at direktivet bør få anvendelse også på andre typer utredninger som ikke gjøres på grunnlag av krav i lov eller forskrift. Direktivet vil ikke formelt sett få anvendelse ved utredninger som gjøres uten at det er krav om dette i medhold av regelverket. Departementet legger imidlertid stor vekt på at eventuelle slike utredninger skal holde et høyt faglig nivå. Dette innebærer at også eventuelle slike utredninger i praksis skal oppfylle de krav som følger av gjeldende regelverk for konsekvensutredninger, så langt dette regelverket er relevant for den aktuelle utredningen. Dette har også vært praksis så langt i forbindelse med Utredning av konsekvenser av helårig petroleumsvirksomhet i området Lofoten-Barentshavet (ULB). Departementet foreslår at dette nå tydelig slås fast i forskriften. Departementet foreslår på denne bakgrunn at det inntas en bestemmelse som fastsetter at eventuelle andre overordnede konsekvensutredninger, som ikke i dag er omtalt i petroleumsloven eller -forskriften, skal følge tilsvarende saksbehandling som for åpning av område så langt disse bestemmelsene passer. Bestemmelse om dette er foreslått i [§ 6a](forskrift/1997-06-27-653/§6a) siste ledd. Hva som vil være hensiktsmessig saksbehandling i slike tilfeller vil fastsettes konkret i forbindelse med den enkelte sak.
 
+*II) Endring i § 19 i petroleumsforskriften – avsetning av gass*
+
 Avsetning av gass fra norsk sokkel gjennom Gassforhandlingsutvalget (GFU) ble permanent avviklet fra og med 1. januar 2002. Med avviklingen av GFU ble et nytt gassforvaltningssystem etablert, der selskapene avsetter sin egen gass. Departementets godkjennelse av gassalgsavtaler er ikke nødvendig i dagens system, da selskapene vil sørge for effektiv avsetning. Den skattemessige behandlingen av gassalgsavtaler foretas av ligningsmyndighetene ved ligningsbehandlingen. Myndighetene ivaretar nødvendige ressursforvaltningshensyn ved bruk av andre virkemidler. Departementet er derfor kommet til at [§ 19](forskrift/1997-06-27-653/§19) bør endres slik at en går bort fra et system med myndighetsgodkjennelse av gassalgsavtaler.
 
 Myndighetene har imidlertid behov for samlet informasjon om forpliktelser rettighetshaver har inngått for leveranse av gass fra norsk sokkel. Slik informasjon vedrørende gassalgsforpliktelser vil benyttes som grunnlag for departementets arbeid knyttet til ressursforvaltning. Det foreslås på denne bakgrunn en bestemmelse som fastsetter at departementet skal motta opplysninger om inngåtte gassalgsforpliktelser. Som tidligere omfattes kun rik- og tørrgass av bestemmelsen. For ordens skyld presiseres det at bestemmelsen også omfatter nedkjølt rik- eller tørrgass, LNG.
 
 Etter forslaget til ny bestemmelse kan departementet i særlige tilfeller bestemme at det skal gis opplysninger om vilkår i enkeltavtaler.
+
+*Høringsuttalelser og departementets kommentarer:*
 
 Oljedirektoratet peker på at lovens § 4-2 femte ledd, som stiller krav om departementets samtykke for inngåelse av vesentlige kontraktsmessige forpliktelser før PUD er godkjent, vil gjelde for inngåelse av gassalgskontrakter selv etter at forskriftens [§ 19](forskrift/1997-06-27-653/§19) er opphevet. Departementet støtter denne påpekningen, men antar at dette i praksis kun vil være aktuelt hvor gass selges fra et bestemt felt, noe som ofte ikke er tilfellet.
 
@@ -1544,17 +1660,27 @@ Oljeindustriens Landsforening (OLF) mener det bør utarbeides en mal for rapport
 
 OLF kan ikke se behovet for at departementet skal kunne kreve opplysninger om vilkår i enkeltavtaler som foreslått i annet ledd. Departementet er enig i at en som hovedregel ikke vil ha behov for dette, men vil bemerke at det vil være aktuelt i særlige tilfeller å innhente opplysninger om vilkår i enkeltavtaler, når slike opplysninger bidrar til å bedre informasjonsgrunnlaget for de samlede leveranseforpliktelser for gass. Det er gjort tilpasninger i teksten for å ta hensyn til dette.
 
+*III) Oppdatering av bestemmelsene om PUD/PAD og KU i petroleumsforskriften*
+
+*a) Oppdatering bl.a. i forhold til lovendringer*
+
 Som følge av endringen av [petroleumsloven § 4-2](lov/1996-11-29-72/§4-2) og [§ 4-3](lov/1996-11-29-72/§4-3), jf. [Ot.prp.nr.46 (2002–2003)](forarbeid/otprp-46-200203), gjøres det enkelte tekniske justeringer i [petroleumsforskriften § 28](forskrift/1997-06-27-653/§28) og [§ 29](forskrift/1997-06-27-653/§29). Ordlyden endres fra «tillatelse til anlegg og drift av innretninger for transport og for utnyttelse av petroleum» til «tillatelse til anlegg og drift av innretninger». Kommunal- og regionaldepartementet erstattes med Arbeids- og inkluderingsdepartementet i [§ 20](forskrift/1997-06-27-653/§20), [§ 28](forskrift/1997-06-27-653/§28) og [§ 43](forskrift/1997-06-27-653/§43). Videre fastsettes det i bestemmelsene at kopi av søknad om tillatelse skal sendes til Petroleumstilsynet samtidig med at kopi sendes til Oljedirektoratet. Dette er en naturlig konsekvens av delingen av Oljedirektoratet i to enheter, Oljedirektoratet og Petroleumstilsynet. Videre strykes bestemmelsen i [§ 20](forskrift/1997-06-27-653/§20) første ledd siste punkt som fastsetter at kopi skal sendes Direktoratet for Brann- og eksplosjonsvern da disse oppgavene nå er overtatt av Petroleumstilsynet. I [§ 18](forskrift/1997-06-27-653/§18) annet ledd annet punkt erstattes Direktoratet for Brann- og eksplosjonsvern med Petroleumstilsynet med tilsvarende begrunnelse.
+
+*b) Forenklinger etter modell fra tilsvarende regelverk i plan- og bygningsloven*
 
 Departementet foreslår at det fastsettes i [§ 22](forskrift/1997-06-27-653/§22) og [§ 22a](forskrift/1997-06-27-653/§22a) fjerde ledd at rettighetshaver selv sender utredningsprogram og konsekvensutredning på høring. Dette er i tråd med nytt tilsvarende regelverk under plan- og bygningsloven, jf. [Ot.prp.nr.47 (2003–2004)](forarbeid/otprp-47-200304) pkt. 4.3.2. I tråd med tilsvarende regelverk under plan- og bygningsloven presiseres det at avgjørelser i selve konsekvensutredningsprosessen ikke er enkeltvedtak etter forvaltningsloven. Minimumsfrister fastsettes også i tråd med tilsvarende regelverk under plan- og bygningsloven.
 
 Bestemmelsene som foreslås i [§ 22a](forskrift/1997-06-27-653/§22a) nytt femte, sjette og syvende ledd og [§ 22c](forskrift/1997-06-27-653/§22c) nytt tredje ledd reflekterer tilsvarende bestemmelser under plan- og bygningsloven. Forslaget innebærer blant annet at dagens system med hensyn til utarbeidelse av et eget sluttdokument (jf. forskriftens [§ 22a](forskrift/1997-06-27-653/§22a) femte ledd) utgår. Det er etter departementets vurdering mer hensiktsmessig at de forhold som i dag omtales i sluttdokumentet, herunder oppsummering av virkninger av betydning og forslag til avbøtende tiltak og oppfølgende undersøkelser, innarbeides i det ordinære saksfremlegget.
+
+*Høringsuttalelser og departementets kommentarer:*
 
 Oljeindustriens Landsforening (OLF) og WWF-Norge er skeptiske til forslaget om å åpne for at rettighetshaver selv sender dokumenter på høring. OLF viser til at det er departementet som skal bestemme hvem som skal høres og høringsfrister, og som dermed etter OLFs oppfatning bør sende ut brev til høringsinstansene. Videre mener OLF at departementsbehandling sikrer alle parter innsyn i saksgangen i henhold til forvaltningsloven. Dersom selskapene selv skal stå for utsending av disse dokumentene, frykter OLF at det kan skapes situasjoner der den formelle prosessen blir uklar. WWF-Norge mener at utforming av høringen og oppsummeringen står i fare for å kunne få en ubalansert vinkling dersom rettighetshaver skal stå som ansvarlig.
 
 Departementet er av den oppfatning at den foreslåtte ordningen vil øke kvaliteten på konsekvensutredningene. Ansvarsforholdene vil være tilstrekkelig klare ettersom det er departementet som er ansvarlig myndighet og som fastsetter utredningsprogrammet og avgjør om konsekvensutredningen er tilfredsstillende. Ved at rettighetshaver selv, nærmere bestemt operatøren, står for utsending av utkast til utredningsprogram og konsekvensutredning for alminnelig høring, og mottar høringsuttalelser til disse får operatøren og øvrige rettighetshavere en sterkere involvering i prosessen. Dette er positivt ettersom det er operatøren sammen med øvrige rettighetshaver som senere skal gjennomføre prosjektet. Operatøren og øvrige rettighetshavere er videre nærmest til i første omgang å vurdere høringsuttalelsene. Departementet vil foreta en selvstendig vurdering av forslaget til utredningsprogram og konsekvensutredningen basert på høringsuttalelsene og operatørens kommentarer til disse. Innsyn etter forvaltningsloven er ivaretatt ved at operatøren sender forslag til utredningsprogram og innkomne høringsuttalelser til departementet for fastsettelse av utredningsprogram, samt ved at konsekvensutredning med høringsuttalelser og operatørens merknader til disse sendes til departementet etter at høringen er gjennomført. Departementet har videre lagt vekt på parallellitet i regelverket ved at den foreslåtte ordningen er tilsvarende som for konsekvensutredninger etter plan- og bygningsloven. På departementets hjemmesider vil det videre legges ut veiledning til rettighetshaver om hvordan prosessen bør gjennomføres, herunder om høringsinstanser og -frister. Departementet mener således at de forholdene som OLF og WWF-Norge peker på er ivaretatt.
 
 Pertra AS peker på at det bør gå tydeligere frem når rettighetshaver selv skal stå for utsendelse av forslag til utredningsprogram og konsekvensutredning, samt motta høringsuttalelser til disse, og når departementet skal gjøre dette. Departementet er enig i at dette bør avklares i forskriftsteksten. Departementet legger til grunn at den klare hovedregel vil være at rettighetshaver selv, det vil i praksis si operatøren, skal gjøre dette. På denne bakgrunn er ordlyden i forskriftsforslaget noe endret på dette punkt i forhold til det som ble sendt på høring. Dersom det er spesielle hensyn som tilsier det vil departementet derimot kunne bestemme at dette skal gjøres av departementet selv.
+
+*IV) Samtykke til oppstart og videreføring*
 
 Petroleumsvirksomheten er over tid blitt mer kompleks, bl.a. som følge av at deler av kontinentalsokkelen er blitt mer moden, og som følge av teknologiutviklingen. Innretninger til produksjon og rørledninger brukes over tid ofte til å betjene mer enn ett felt. Det innebærer igjen at virksomheten kan fremstå som mer faseinndelt enn tidligere. Også etter at plan for utbygging og drift (PUD) er godkjent eller tillatelse til anlegg og drift (PAD) av bl.a. rørledninger er gitt, endres og modifiseres innretningene for å tilpasses nye forutsetninger på feltet og/eller for å betjene andre felt. Innretninger vil også ofte kunne få anvendelse lenger enn opprinnelig antatt, som følge av at ressursgrunnlaget på feltet øker over tid.
 
@@ -1578,6 +1704,8 @@ Når en innretning er ombygget eller modifisert slik at dens levetid forlenges u
 
 Det følger av utkastet til ny bestemmelse at samtykke kreves fra departementet, eller den departementet bemyndiger. Det siktes i dette tilfellet til at det kan være aktuelt å delegere denne myndigheten til Oljedirektoratet.
 
+*Høringsuttalelser og departementets kommentarer:*
+
 Arbeids- og sosialdepartementet (ASD) og Petroleumstilsynet (Ptil) mener det kan være uheldig å bruke begrepet samtykke, da det allerede foreligger samtykkeordninger på HMS-området. Ptil foreslår begrepsbruk i retning av tillatelse til enkelte petroleumsaktiviteter, deltillatelse eller lignende.
 
 Departementet vil peke på at samtykkebegrepet i dag allerede brukes flere steder utenfor HMS-området, herunder i petroleumsloven (§ 3-9, [§ 4-2](lov/1996-11-29-72/§4-2), [§ 5-1](lov/1996-11-29-72/§5-1), [§ 5-5](lov/1996-11-29-72/§5-5), [§ 6-4](lov/1996-11-29-72/§6-4), [§ 7-7](lov/1996-11-29-72/§7-7), [§ 10-5](lov/1996-11-29-72/§10-5), [§ 10-12](lov/1996-11-29-72/§10-12)) og petroleumsforskriften (bl.a. § 20, § 66, § 72, § 73). Det avgjørende for å unngå sammenblanding blir derfor hva en samtykker til. Departementet foreslår på denne bakgrunn å gjøre en tilføyelse i [§ 30a](forskrift/1997-06-27-653/§30a) som følger: samtykke til oppstart og videreføring. Departementet anser at dette tar hensyn til kommentarene fra ASD og Ptil.
@@ -1590,11 +1718,17 @@ Oljeindustriens Landsforbund (OLF) og Rederiforbundet, sammen med de ovennevnte 
 
 OLF mener det bør presiseres i forskriftsteksten at samtykke kan innhentes før bygging/modifisering/ombygging settes i gang, ikke bare før bruk, slik at man ikke risikerer å sette i gang tiltak som ikke blir godkjent. Departementet vil bemerke at det er hovedregelen i lovens § 4-2 og § 4-3 om godkjennelse av PUD og PAD-tillatelse at prosjekter godkjennes/tillatelse gis før byggearbeidene starter. Disse bestemmelsene vil gjelde som tidligere. Den foreslåtte bestemmelsen kommer i tillegg og vil få anvendelse når innretningen er bygget/modifisert/ombygget. Vedtak etter [§ 30a](forskrift/1997-06-27-653/§30a) blir således en slags «ferdigattest» på det arbeidet som en har gjennomført i tråd med forutsetningene i vedtaket etter lovens § 4-2 eller § 4-3.
 
+*V) Gassco og forholdet til forvaltningsloven*
+
 Etter [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) siste ledd er det anledning til å unnta den som har et særlig operatøransvar etter [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) første ledd fra forvaltningslovens virkeområde. Gassco AS er utpekt til å ha et særlig operatøransvar etter bestemmelsen, og i det følgende vurderes anvendelse av forvaltningsloven på selskapet og behov for unntak i medhold av [§ 4-9](lov/1996-11-29-72/§4-9) siste ledd.
+
+*Gasscos virksomhet:*
 
 Gassco er tillagt en sentral rolle i det norske gassforvaltningssystemet. De fleste gassrørledningene og transportrelaterte anleggene på og fra norsk kontinentalsokkel, gassterminalene på Kårstø og Kollsnes, samt de norske mottaksterminalene i utlandet er samlet i en enhetlig eierstruktur kalt Gassled hvor Gassco er operatør. Gassco har også operatøroppgaver tilknyttet enkelte anlegg som ikke er en del av Gassled. Gassco har som operatør ansvar for driften og for samordning av videreutviklingen av gassforvaltningssystemet. Gasscos operatøransvar er blant annet fastslått i [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) samt i [petroleumsforskriften § 66](forskrift/1997-06-27-653/§66) og [§ 59](forskrift/1997-06-27-653/§59) siste ledd. Videre er det i disse bestemmelsene slått fast at Gassco er ansvarlig for håndhevelse av adgangsregimet for Gassled, samt at Gassco i enkelte tilfeller kan gi pålegg til brukere og rettighetshavere. Dette er et utvidet operatørbegrep i forhold til det alminnelige operatøransvaret som er avtalebasert, bl.a. gjennom operatøravtaler mellom operatøren og rettighetshaver. Det alminnelige operatøransvaret er omhandlet i petroleumsloven § 1-6 k) og § 3-7. Det utvidede operatøransvaret betegnes i [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) som det særlige operatøransvar. Det alminnelige og særlige operatøransvaret betegnes i det følgende også med samlebetegnelsen operatøransvaret/-oppgavene.
 
 For så vidt gjelder Gasscos utførelse av operatøroppgavene er det fastslått i [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) annet ledd og i forskriftens [§ 66](forskrift/1997-06-27-653/§66) første ledd at Gassco skal opptre nøytralt og ikke-diskriminerende. Det er videre fastslått at utførelsen av operatøroppgavene skal skje i tråd med forsvarlig tekniske og sunne økonomiske prinsipper. Videre plikter Gassco å hindre at andre får adgang eller kjennskap til forretningshemmeligheter selskapet får vite om. Gassco har ikke eierinteresser i gasstransportsystemet og eier ikke egen gass. Gassco er således godt posisjonert til å løse operatøroppgavene nøytralt og effektivt.
+
+*Rettstilstanden i dag med hensyn til anvendelse av forvaltningsloven for Gassco*
 
 [Forvaltningsloven § 1](lov/1967-02-10/§1) første punktum fastsetter at loven får anvendelse på virksomhet som drives av et forvaltningsorgan. Gassco er organisert som et aksjeselskap. Selskapet ivaretar et bredt spekter av oppgaver, hovedsakelig av privatrettslig art. Gasscos virksomhet er regulert både i petroleumsloven og -forskriften, samt i operatøravtaler med rettighetshaverne. Departementet er av den oppfatning at selskapet er å anse som et privat rettssubjekt og ikke et forvaltningsorgan. Forvaltningsloven vil således ikke få anvendelse på selskapets virksomhet generelt.
 
@@ -1602,7 +1736,13 @@ Det følger av [forvaltningsloven § 1](lov/1967-02-10/§1) tredje punktum at pr
 
 Forvaltningsloven vil få anvendelse for Gasscos virksomhet i de ovenfor nevnte saker.
 
+*Bakgrunnen for hjemmel i [petroleumsloven § 4-9](lov/1996-11-29-72/§4-9) fjerde ledd til å gjøre unntak fra forvaltningsloven*
+
 I [Ot.prp.nr.46 (2002–2003)](forarbeid/otprp-46-200203) under særmerknadene til lovens § 4-9 fjerde ledd sies det følgende om behovet for å fastsette unntak for Gasscos virksomhet under operatøransvaret:
+
+«Den som tillegges det særlige operatøransvaret vil måtte ta en mengde beslutninger på kort tid. Disse beslutningene vil kunne være av ulik karakter, blant annet beslutninger om hvem som skal få adgang til oppstrøms gassrørledningsnett og tilknyttede anlegg, samt pålegg til brukere og rettighetshavere (...). I den grad tidsaspektet og beslutningenes karakter innebærer at forvaltningslovens bestemmelser ikke er anvendelige i praksis, gir bestemmelsen mulighet til å unnta operatørens virksomhet fra forvaltningsloven (...). I tillegg vil usikkerhet med hensyn til om forvaltningsloven (...) kommer til anvendelse på beslutninger, i seg selv kunne være problematisk for operatøren som løpende skal operere et komplekst og sammensatt system og således gi grunnlag for unntak etter bestemmelsen her.»
+
+*Forslaget til ny bestemmelse om anvendelse av forvaltningsloven for Gassco*
 
 Det foreslås presisert i petroleumsforskriften at forvaltningsloven ikke kommer til anvendelse for Gasscos virksomhet med unntak av tilfeller hvor Gassco fatter enkeltvedtak i medhold av nærmere fastsatte bestemmelser i petroleumsforskriften. Dette omfatter [§ 59](forskrift/1997-06-27-653/§59) fjerde ledd siste punktum, [§ 61](forskrift/1997-06-27-653/§61), [§ 62](forskrift/1997-06-27-653/§62), [§ 64](forskrift/1997-06-27-653/§64) første ledd siste punktum og [§ 66](forskrift/1997-06-27-653/§66) tredje ledd.
 
@@ -1614,6 +1754,8 @@ Forslaget til ny [§ 66](forskrift/1997-06-27-653/§66) sjette ledd tilsvarer i 
 
 Operatørens vedtak kan bringes inn for departementet etter [petroleumsforskriftens § 68](forskrift/1997-06-27-653/§68) og vil da behandles etter reglene i [forvaltningsloven kapittel VI](lov/1967-02-10/kapvi).
 
+*Høringsuttalelser og departementets kommentarer:*
+
 Lovavdelingen i Justis- og politidepartementet (JD) foreslår at en gjør en lovteknisk tilpasning i bestemmelsen i forhold til det utkastet som ble sendt på høring. Endringen er innarbeidet i utkastet her. Lovavdelingens forslag er å eksplisitt fastslå at forvaltningsloven ikke gjelder for Gassco, med unntak for saker hvor Gassco treffer enkeltvedtak etter de nevnte bestemmelser.
 
 Oljeindustriens Landsforbund (OLF) mener det bør fastsettes at vilkår og prosedyrer som fastsettes av Gassco i henhold til [petroleumsforskriftens § 59](forskrift/1997-06-27-653/§59) fjerde ledd første punktum anses som enkeltvedtak etter forvaltningsloven. Første punktum lyder: «(o)peratøren fastsetter de nærmere vilkår og prosedyrer for anvendelsen av denne bestemmelsen etter konsultasjon med eiere og brukere av oppstrøms gassrørledningsnett.» OLF peker på at dette for eksempel kan være fastsettelse av endringer i bookingmanual, som er en nærmere operasjonalisering av prinsippene av adgang. OLF mener at det er viktig at man her har en klageadgang til departementet. Videre peker OLF på at dette kan omfatte betingelser knyttet til kvalifisering av skipere, herunder finansielle krav. OLF peker på at det kan være tvilsomt hvorvidt avgjørelser etter [§ 59](forskrift/1997-06-27-653/§59), fjerde ledd første punktum er et enkeltvedtak. I flere relasjoner mener OLF det er mer naturlig å klassifisere slike vedtak som forskrift. Det vil da etter OLFs oppfatning være naturlig å anvende reglene om enkeltvedtak analogisk slik at reglene i [forvaltningslovens kap. IV](lov/1967-02-10/kapiv), V og VI anvendes. Det pekes i denne forbindelse spesielt på at Gasscos avgjørelser relatert til bl.a. utforming av booking manualen skal kunne påklages til departementet. I samme stilling som de ovennevnte vilkår og prosedyrer, plasserer OLF de prosedyrer som skal utarbeides i medhold av [§ 66](forskrift/1997-06-27-653/§66) tredje ledd tredje punktum, om tilpasning av leveranser av gass. Disse bør etter OLFs oppfatning også kunne påklages til departementet.
@@ -1621,6 +1763,8 @@ Oljeindustriens Landsforbund (OLF) mener det bør fastsettes at vilkår og prose
 Gassco har i sin høringsuttalelse kommentert på synspunktene fra OLF på dette punktet. Etter Gasscos vurdering er vilkår og prosedyrer fastsatt med hjemmel i [§ 59](forskrift/1997-06-27-653/§59) fjerde ledd første punktum og [§ 66](forskrift/1997-06-27-653/§66) tredje ledd tredje punktum ikke å oppfatte som enkeltvedtak og kan følgelig ikke påklages med hjemmel i forvaltningsloven. Gassco kan ikke se at det foreligger et reelt behov for å innføre klageadgang i forhold til disse vilkårene og prosedyrene så lenge det er adgang til å påklage enkeltvedtak etter [§ 59](forskrift/1997-06-27-653/§59) fjerde ledd siste punktum og tilpasninger etter [§ 66](forskrift/1997-06-27-653/§66) tredje ledd utover kortere tidsrom krever departementets samtykke. Gassco viser også til at prosedyren blir fastlagt etter en prosess der alle berørte parter blir gitt anledning til å uttale seg.
 
 Departementet finner at det ikke vil være hensiktsmessig å ha en klageadgang på generelle prosedyrer og vilkår fastsatt av Gassco i medhold av forskriftens [§ 59](forskrift/1997-06-27-653/§59) fjerde ledd første punktum og 66 tredje ledd tredje punktum. Departementet kan i hovedsak slutte seg til Gasscos vurdering. Prosedyrene og vilkårene det er tale om er mer å sammenligne med forskrifter enn enkeltvedtak. Etter forvaltningsloven kan forskrifter som hovedregel ikke påklages, men enkeltvedtak fattet i medhold av en forskrift kan påklages. Det er altså som hovedregel gjennom konkrete saker en part kan få prøvet om et vedtak er gyldig. Dette bidrar til å sikre at myndighetene ved klagebehandling behandler saker som det er et konkret behov for å løse og som er brakt inn av den som en avgjørelse direkte retter seg mot eller som saken ellers direkte gjelder, det vil si krav om s.k. rettslig klageinteresse.
+
+*VI) Opplysninger om planer og budsjett til nasjonalbudsjettprosessen*
 
 Petroleumsloven har en vid angivelse av hvilke opplysninger som kan kreves avgitt av en rettighetshaver, blant annet i § 10-4. Departementet ønsker å presisere rammen for gjeldende praksis om innhenting av opplysninger som grunnlag for innsamling av data til nasjonalbudsjett og revidert nasjonalbudsjett (RNB), samt investeringsstatistikk. Justeringene innebærer ikke en utvidet innrapportering i forhold til gjeldende praksis, men presiserer denne.
 
@@ -1630,11 +1774,17 @@ Ny [§ 50a](forskrift/1997-06-27-653/§50a) om rapportering til nasjonalbudsjett
 
 Det er ikke siktemålet med de nevnte forslagene til endringer å øke den samlede innrapportering til myndighetene.
 
+*Høringsuttalelser*
+
 Ingen av høringsinstansene hadde merknader til dette punktet.
+
+*VII) Varsling og rapportering*
 
 Det er behov for at Oljedirektoratet (OD) får rask informasjon om faktiske forhold av betydning knyttet til gjennomføringen av vedtak om leteboringer, utbygginger (PUD/PAD) og felt i drift. OD vil rapportere til departementet. Det foreslås derfor en bestemmelse som pålegger rettighetshaver en varslingsplikt for hendelser og andre forhold som medfører nedstengning, reduksjon av utvinning eller påvirker gjennomføring av aktiviteter i tråd med vedtak fattet i medhold av loven og forskriften. Departementet kan fastsette nærmere bestemmelser om varsling og rapportering. Bestemmelsen foreslås tatt inn som § 79a i forskriften. Ordlyden er noe endret i forhold til den teksten som ble sendt på høring.
 
 Bestemmelsen omfatter forhold som har betydning for leting etter, utvinning og leveranse av petroleum både for offshore- og landanlegg. Bestemmelsen er ment å omfatte forhold av en viss varighet eller størrelse. I hvilke tilfeller et forhold skal varsles vil også til en viss grad være avhengig av feltets eller anleggets størrelse og betydning. Olje- og energidepartementet og OD har, som sektorforvaltere, et informasjonsbehov som omfatter alle forhold knyttet til ressursforvaltning. Departementet vil, i tett samarbeid med og etter innspill fra OD, se på hvilke nærmere bestemmelser som skal oppstilles om varsling og rapportering etter denne bestemmelsen.
+
+*Høringsuttalelser og departementets kommentarer:*
 
 Arbeids- og sosialdepartementet (ASD) viser til varslingsplikten på HMS-området, jf. [opplysningspliktforskriften § 11](forskrift/2001-09-03-1107/§11). ASD peker i den forbindelse på at en regelfestet varslingsplikt på ressursforvaltningsområdet kan innebære en plikt til rapportering etter forskjellige regelverk fra samme pliktsubjekter. Dette mener ASD er uheldig fordi det kan føre til uklare ansvarsforhold på myndighetssiden, i tillegg til at det må anses som lite brukervennlig overfor næringen. ASD er derfor av den oppfatning at det er mest hensiktsmessig å legge til grunn den eksisterende administrative ordningen mellom Petroleumstilsynet (Ptil) og Oljedirektoratet for formidling av informasjon.
 
@@ -1646,15 +1796,25 @@ Departementet merker seg uttalelsene fra både ASD og de øvrige instansene som 
 
 ### Merknader til forskrift 24. juni 2011 nr. 640 om endring i forskrift til lov om petroleumsvirksomhet
 
+*Til [§ 59](forskrift/1997-06-27-653/§59) tredje ledd*
+
 Det tas sikte på at dagens særskilte regelverk under betegnelsen «ATU» (Ability To Use) bortfaller. Dette er bestemmelser som fastsettes av Gassco AS i henhold til delegert myndighet. Selv om ATU-regelverket ikke opprettholdes, vil det imidlertid fortsatt være relevant å opprettholde krav til trykk ved inngangen, i henhold til spesifikasjonene i Terms and Conditions, Appendix A. Dagens [§ 59](forskrift/1997-06-27-653/§59) tredje ledd stiller bl.a. som vilkår for rett til bruk at naturgassen har «tilstrekkelig trykk ved inngangen til at slik naturgass kan nå utgangen». I høringsnotatet ble det foreslått at denne kun bør lyde «tilstrekkelig trykk ved inngangen». Dette for å tydeliggjøre at det ikke nødvendigvis vil kreves at den aktuelle naturgassen har tilstrekkelig trykk ved inngangen til at denne kan nå utgangen.
 
 Etter høringsrunden er det departementets vurdering at det synes uhensiktsmessig å beholde ordlyden «tilstrekkelig trykk ved inngangen» da dette er dekket av «spesifikasjoner». Det foreslås derfor å ta bort hele ordlyden «herunder tilstrekkelig trykk ved inngangen til at slik naturgass kan nå utgangen». Det vil imidlertid fortsatt være relevant å opprettholde krav til trykk ved inngangen, i henhold til spesifikasjonene i Terms and Conditions, Appendix A.
 
+*Til [§ 60](forskrift/1997-06-27-653/§60) tredje ledd*
+
 [Petroleumsforskriften § 60](forskrift/1997-06-27-653/§60) tredje ledd inneholder en definisjon av «avtale i førstehåndsmarkedet». Innføring av avbrytbar kapasitet i [§ 61](forskrift/1997-06-27-653/§61) nytt syvende ledd vil innebære en avtale med «eier av oppstrøms gassrørledningsnett i egenskap av eier, eller med operatøren på vegne av eier i egenskap av eier» jf. [§ 60](forskrift/1997-06-27-653/§60) tredje ledd. Gjeldende definisjon av «avtale i førstehåndsmarkedet» i [§ 60](forskrift/1997-06-27-653/§60) tredje ledd begrenser imidlertid «avtale i førstehåndsmarkedet» til «avtale om rett til bruk av ledig kapasitet». En avtale om avbrytbar kapasitet etter forslaget til [§ 61](forskrift/1997-06-27-653/§61) nytt syvende ledd, vil være en avtale om rett til bruk av kapasitet som ikke er ledig. Departementet finner imidlertid at også avbrytbar kapasitet bør omfattes av definisjonen av «avtale i førstehåndsmarkedet». Det foreslås derfor at definisjonen endres slik at «avtale i førstehåndsmarkedet» også omfatter avbrytbar kapasitet.
+
+*Til opphevelse av [§ 61](forskrift/1997-06-27-653/§61) syvende ledd og opphevelse av [§ 69](forskrift/1997-06-27-653/§69) tredje ledd*
 
 Det følger av [petroleumsforskriften § 69](forskrift/1997-06-27-653/§69) tredje ledd at departementet senest innen 1. januar 2008 skal vurdere om ordningen med fortrinnsrett for eiere som beskrevet i [§ 61](forskrift/1997-06-27-653/§61) syvende ledd skal videreføres. Som det fremgår i [pkt](forskrift/1997-06-27-653/kap2). 2 ovenfor har det vært gjennomført en grundig prosess i forhold til dette og departementet har kommet til at det i dagens situasjon er formålstjenlig å fjerne fortrinnsretten for eierne. Fortrinnsretten er nedfelt i [petroleumsforskriften § 61](forskrift/1997-06-27-653/§61) syvende ledd. Departementet foreslår således at gjeldende [§ 61](forskrift/1997-06-27-653/§61) syvende ledd oppheves. Ettersom vurderingen som nevnt i [petroleumsforskriften § 69](forskrift/1997-06-27-653/§69) tredje ledd er gjennomført, foreslås også den bestemmelsen opphevet.
 
+*Til endring av [§ 69](forskrift/1997-06-27-653/§69) første ledd*
+
 [Petroleumsforskriften § 69](forskrift/1997-06-27-653/§69) første ledd angir bestemmelser i [petroleumsforskriften kapittel 9](forskrift/1997-06-27-653/kap9) som kun får anvendelse for oppstrøms gassrørledningsnett som omfattes av forskrift om fastsettelse av tariffer. En av bestemmelsene som angis er [§ 61](forskrift/1997-06-27-653/§61) unntatt syvende ledd første punktum. Når gjeldende [§ 61](forskrift/1997-06-27-653/§61) syvende ledd oppheves, kan også unntaket for syvende ledd første punktum i [§ 69](forskrift/1997-06-27-653/§69) første ledd oppheves.
+
+*Til [§ 61](forskrift/1997-06-27-653/§61) nytt syvende ledd*
 
 Bestemmelsen gjør det mulig for operatøren å tilby såkalt «avbrytbar kapasitet» i Gassled. Hensikten med dette er å sikre bedre utnyttelse av transportsystemet.
 

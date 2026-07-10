@@ -66,4 +66,10 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kap. I innledende del punkt 7 (forordning [(EU) 2021/405](eu/32021r0405)) konsolidert til og med forordning [(EU) 2023/514](eu/32023r0514).
 
+For å lese konsolidert forordning [(EU) 2021/405](eu/32021r0405) i dansk versjon trykk her: [pdf-fil](static/SF/32021r0405d-k-07.pdf)
+
+For å lese forordning [(EU) 2024/334](eu/32024r0334) i dansk versjon trykk her: [pdf-fil](static/SF/32024r0334d-01.pdf)
+
+For å lese forordning [(EU) 2025/354](eu/32025r0354) i dansk versjon trykk her: [pdf-fil](static/SF/32025r0354d-01.pdf).
+
 > Endret ved forskrifter [10 sep 2021 nr. 2746](forskrift/2021-09-10-2746), [30 nov 2021 nr. 3313](forskrift/2021-11-30-3313), [8 mars 2022 nr. 344](forskrift/2022-03-08-344), [8 aug 2022 nr. 1412](forskrift/2022-08-08-1412), [3 okt 2022 nr. 1712](forskrift/2022-10-03-1712), [12 des 2022 nr. 2538](forskrift/2022-12-12-2538) (i kraft 15 des 2022), [27 mars 2023 nr. 484](forskrift/2023-03-27-484) (i kraft 29 mars 2023), [8 feb 2024 nr. 248](forskrift/2024-02-08-248) (i kraft 11 feb 2024), [13 mars 2025 nr. 442](forskrift/2025-03-13-442).

@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om barn og foreldre (barnelova)
 
+Endringar i følgjande lover:
+
 1. [Lov 21. mars 1975 nr. 9 om nordisk vitneplikt](lov/1975-03-21-9).
 2. [Lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35).
 3. [Lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven)](lov/1981-05-22-25).
@@ -980,94 +982,218 @@ Departementet kan gi nærmare overgangsreglar.
 
 Frå den tid lova tek til å gjelde, blir det gjort følgande endringar i andre lover:
 
+**1.** I [lov 21. mars 1975 nr. 9 om nordisk vitneplikt](lov/1975-03-21-9) gjøres følgende endringer:
+
+[§ 3](lov/1975-03-21-9/§3) skal lyde:
+
 Ingen må påleggast å gje vitneforklaring i strid med reglane i [straffeprosessloven §§ 117](lov/1981-05-22-25/§117) til [125](lov/1981-05-22-25/§125) eller [tvisteloven kapittel 22](lov/2005-06-17-90/kap22) eller med lovgjevinga i det landet der vitnet er busett.
+
+[§ 8 første ledd første punktum](lov/1975-03-21-9/§8/ledd/1/setning/1) skal lyde:
 
 [§§ 1 første](lov/1975-03-21-9/§1/ledd/1) og [andre leden](lov/1975-03-21-9/§1/ledd/2), [2](lov/1975-03-21-9/§2), [3](lov/1975-03-21-9/§3) og [6](lov/1975-03-21-9/§6) gjeld tilsvarande for partar i saker om foreldreskap og foreldretvistar etter barnelova.
 
+**2.** I [lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35) gjøres følgende endringer:
+
+[§ 11 andre ledd nummer 1](lov/1980-06-13-35/§11/ledd/2/nummer/1) skal lyde:
+
 i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven kapittel 6](lov/1981-04-08-7/kap6) til [8](lov/1981-04-08-7/kap8) og [10](lov/1981-04-08-7/kap10) til [14](lov/1981-04-08-7/a14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
+
+[§ 16 første ledd nummer 6](lov/1980-06-13-35/§16/ledd/1/nummer/6) skal lyde:
 
 til den det oppnevnes advokat for i medhold av [barneloven § 12-11](lov/2025-06-20-40/§12-11)
 
+[§ 16 andre ledd nummer 1](lov/1980-06-13-35/§16/ledd/2/nummer/1) skal lyde:
+
 saker etter [barnelova kapittel 6](lov/2025-06-20-40/kap6) til [14](lov/2025-06-20-40/kap14), herunder saker om tvangsfullbyrdelse og midlertidig sikring
+
+**3.** I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-25) gjøres følgende endringer:
+
+[§ 118 b andre ledd tredje punktum](lov/1981-05-22-25/§118b/ledd/2/setning/3) skal lyde:
 
 Om den mindreåriges medbestemmelsesrett ved rettens beslutning gjelder reglene i [barnelova §§ 1-2](lov/2025-06-20-40/§1-2) og [12-6](lov/2025-06-20-40/§12-6).
 
+**4.** I [lov 17. desember 1982 nr. 86 om rettsgebyr](lov/1982-12-17-86) gjøres følgende endringer:
+
+[§ 14 første ledd andre punktum](lov/1982-12-17-86/§14/ledd/1/setning/2) skal lyde:
+
 Det betales ikke gebyr for begjæring om utlegg for underholdsbidrag mv. og for tvangsbot etter [barnelova § 14-5](lov/2025-06-20-40/§14-5) eller når en kommune fremsetter en beslutning om utleggstrekk for namsmannen etter [tvangsfullbyrdelsesloven § 2-17](lov/1992-06-26-86/§2-17).
+
+**5.** I [lov 8. juli 1988 nr. 72 om anerkjennelse og fullbyrding av utenlandske avgjørelser om foreldreansvar m v og om tilbakelevering av barn](lov/1988-07-08-72) gjøres følgende endringer:
+
+[§ 18 første ledd første](lov/1988-07-08-72/§18/ledd/1/setning/1) og [andre punktum](lov/1988-07-08-72/§18/ledd/1/setning/2) skal lyde:
 
 Bestemmelsene i [barneloven § 12-7](lov/2025-06-20-40/§12-7) og [kapittel 14](lov/2025-06-20-40/kap14) gjelder for saker om tvangsfullbyrding etter [§ 6](lov/1988-07-08-72/§6) og tilbakelevering etter [§ 11](lov/1988-07-08-72/§11). [Barneloven § 14-1 fjerde ledd](lov/2025-06-20-40/§14-1/ledd/4) og [§ 14-2 første ledd](lov/2025-06-20-40/§14-2/ledd/1) gjelder også ved tvangsfullbyrding av samværsrett.
 
+[§ 18 tredje ledd andre punktum](lov/1988-07-08-72/§18/ledd/3/setning/2) skal lyde:
+
 Beslutter retten at barnet skal være hos en av foreldrene mens sak som nevnt behandles, jf. [barneloven § 12-7](lov/2025-06-20-40/§12-7), kan det settes vilkår for å utøve samværet.
+
+[§ 19 første ledd](lov/1988-07-08-72/§19/ledd/1) skal lyde:
 
 (1) Dersom det under behandlingen av en sak om foreldreansvar eller samværsrett etter [barneloven](lov/1981-04-08-7) blir brakt på det rene at barnet er begjært tilbakelevert etter § 11 i loven her, skal retten ikke treffe avgjørelse i saken før begjæringen er endelig avgjort.
 
+[§ 20 første ledd tredje punktum](lov/1988-07-08-72/§20/ledd/1/setning/3) skal lyde:
+
 Bortføring eller ulovlig tilbakeholdelse etter forrige punktum foreligger ikke dersom utenlandsoppholdet skjer med samtykke av den annen part eller det gjelder et kort opphold og det synes åpenbart at barnet vil komme tilbake som planlagt, jf [barneloven § 6-9 første ledd](lov/2025-06-20-40/§6-9/ledd/1) og [§ 6-10 første](lov/2025-06-20-40/§6-10/ledd/1) og [andre ledd](lov/2025-06-20-40/§6-10/ledd/2).
 
-Ektefeller med felles barn under 16 år, skal i saker om separasjon og skilsmisse etter [§§ 20](lov/1991-07-04-47/§20) og [22](lov/1991-07-04-47/§22) delta i mekling før saken bringes inn for retten eller statsforvalteren, jf. [§ 27](lov/1991-07-04-47/§27). [Barneloven kapittel 10](lov/1981-04-08-7/kap10) gjelder tilsvarende.
+**6.** I [lov 17. februar 1989 nr. 2 om bidragsforskott](lov/1989-02-17-2) gjøres følgende endringer:
 
-Mekling etter første ledd kreves ikke når saken allerede er brakt inn for retten med påstand om skilsmisse etter [§ 23](lov/1991-07-04-47/§23) eller oppløsning etter [§ 24](lov/1991-07-04-47/§24). Mekling og orientering er heller ikke nødvendig når sak reises av vergen etter [§ 28 andre ledd](lov/1991-07-04-47/§28/ledd/2).
+I følgende bestemmelser skal uttrykket «bidragsfogden» endres til «Arbeids- og velferdsetaten»: [§ 3 andre ledd](lov/1989-02-17-2/§3/ledd/2), [§ 5 tredje ledd](lov/1989-02-17-2/§5/ledd/3), [§ 6 andre ledd](lov/1989-02-17-2/§6/ledd/2), [§ 7 andre ledd](lov/1989-02-17-2/§7/ledd/2) og [§ 9 andre](lov/1989-02-17-2/§9/ledd/2), [tredje](lov/1989-02-17-2/§9/ledd/3) og [fjerde ledd](lov/1989-02-17-2/§9/ledd/4).
+
+**7.** I [lov 4. juli 1991 nr. 47 om ekteskap](lov/1991-07-04-47) gjøres følgende endringer:
+
+[§ 26](lov/1991-07-04-47/§26) skal lyde:
+
+[§ 30 d tredje ledd](lov/1991-07-04-47/§30d/ledd/3) skal lyde:
 
 Når spørsmål etter barnelova om felles barn trekkes inn i saken etter første ledd, får saksbehandlingsreglene i [barnelova kapittel 10](lov/2025-06-20-40/kap10) til [13](lov/2025-06-20-40/kap13) anvendelse for behandlingen av disse spørsmålene.
 
+[§ 30 d femte ledd tredje punktum](lov/1991-07-04-47/§30d/ledd/5/setning/3) skal lyde:
+
 For spørsmål som bringes inn i saken etter første ledd bokstav b, gjelder [barnelova § 15-5](lov/2025-06-20-40/§15-5) om norske domstolers kompetanse tilsvarende, med mindre noe annet følger av overenskomst med annen stat.
 
-Partene kan inngå avtale om bidrag. Dersom partene ikke er enige om bidragsspørsmålet, kan hver av dem kreve at det avgjøres av domstolene. Dersom begge parter ønsker det, kan spørsmålet isteden avgjøres av Arbeids- og velferdsetaten. Arbeidsgivers opplysningsplikt etter [barnelova § 9-5 syvende ledd andre punktum](lov/2025-06-20-40/§9-5/ledd/7/setning/2) gjelder tilsvarende. Arbeids- og velferdsetatens vedtak kan påklages til nærmeste overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Partene kan kreve avgjørelse av bidragsspørsmålet selv om de tidligere har inngått avtale om det.
+[§ 83](lov/1991-07-04-47/§83) skal lyde:
 
-Hver av partene kan kreve at bidrag som er fastsatt av Arbeids- og velferdsetaten eller domstol, blir endret eller opphevet dersom særlige grunner foreligger. Når sterke grunner taler for det, kan avgjørelsen også gjelde bidrag som er forfalt før krav om endring ble satt fram. Bestemmelsene i [barnelova § 9-9 tredje ledd](lov/2025-06-20-40/§9-9/ledd/3) gjelder tilsvarende. Hver av partene kan kreve endringskravet avgjort av Arbeids- og velferdsetaten hvis bidraget er fastsatt av Arbeids- og velferdsetaten. Hvis begge partene ønsker det, skal endringskravet avgjøres av domstolen. Er bidraget fastsatt av domstol, gjelder [§ 83 andre](lov/1991-07-04-47/§83/ledd/1/setning/2) og [tredje punktum](lov/1991-07-04-47/§83/ledd/1/setning/3).
+[§ 84](lov/1991-07-04-47/§84) skal lyde:
+
+[§ 85 andre ledd](lov/1991-07-04-47/§85/ledd/2) skal lyde:
 
 Reglene i [barnelova § 9-13](lov/2025-06-20-40/§9-13) om gjennomføring av bidrag gjelder tilsvarende.
 
+**8.** I [lov 17. juli 1992 nr. 99 om frivillig og tvungen gjeldsordning for privatpersoner](lov/1992-07-17-99) gjøres følgende endringer:
+
+[§ 4-3 første ledd tredje punktum](lov/1992-07-17-99/§4-3/ledd/1/setning/3) skal lyde:
+
 Dersom skyldneren utøver samvær med barn, jf. [barneloven kapittel 8](lov/1981-04-08-7/kap8), skal det tas hensyn til skyldnerens rimelige utgifter i forbindelse med samværet.
+
+**9.** I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgende endringer:
+
+[§ 14-5 andre ledd](lov/1997-02-28-19/§14-5/ledd/2) skal lyde:
 
 Det kan ytes foreldrepenger som ved adopsjon til person som har foreldreansvar når den andre av foreldrene dør, eller får tildelt foreldreansvaret i medhold av [barnelova § 6-2](lov/2025-06-20-40/§6-2) og [kapittel 12](lov/2025-06-20-40/kap12), såfremt vedkommende ikke har hatt samvær eller har hatt samvær av mindre omfang.
 
+[§ 14-17 andre ledd](lov/1997-02-28-19/§14-17/ledd/2) skal lyde:
+
 Engangsstønad kan ytes også til person som har foreldreansvar når den andre av foreldrene dør, eller får tildelt foreldreansvaret i medhold av [barnelova § 6-2](lov/2025-06-20-40/§6-2) og [kapittel 12](lov/2025-06-20-40/kap12), såfremt vedkommende ikke har hatt samvær, eller har hatt samvær av mindre omfang.
+
+[§ 14-17 fjerde ledd første punktum](lov/1997-02-28-19/§14-17/ledd/4/setning/1) skal lyde:
 
 Faren har rett til engangsstønad også dersom han i stønadsperioden har overtatt omsorgen for barnet med sikte på å overta foreldreansvaret alene etter [barneloven kapittel 6](lov/1981-04-08-7/kap6).
 
+[§ 15-4 andre ledd](lov/1997-02-28-19/§15-4/ledd/2) skal lyde:
+
 Som mor eller far regnes også den som på grunn av dødsfall har fått foreldreansvaret etter [barnelova § 6-2](lov/2025-06-20-40/§6-2).
 
-De avgifter og tilskott som dette kapitlet omfatter, herunder tilskott fra staten, skal dekke utgiftene til ytelsene etter denne loven, til statsgaranti for lønnskrav ved konkurs etter [lov av 14. desember 1973 nr. 61](lov/1973-12-14-61), til bidragsforskott etter [lov av 17. februar 1989 nr. 2](lov/1989-02-17-2) og til tilbakebetaling etter [barnelova § 9-15](lov/2025-06-20-40/§9-15).
+[§ 23-1](lov/1997-02-28-19/§23-1) skal lyde:
+
+[§ 23-10 tredje ledd](lov/1997-02-28-19/§23-10/ledd/3) skal lyde:
 
 Tilskottet skal minst dekke utgiftene til ytelsene etter [§ 3-22](lov/1997-02-28-19/§3-22), [§ 7-2 annet ledd](lov/1997-02-28-19/§7-2/ledd/2), [§ 10-6](lov/1997-02-28-19/§10-6), [§ 12-13 tredje ledd](lov/1997-02-28-19/§12-13/ledd/3), [§§ 14-17](lov/1997-02-28-19/§14-17), [17-10](lov/1997-02-28-19/§17-10), [17-15](lov/1997-02-28-19/§17-15), kapitlene 6 og 15 og til tilbakebetaling etter [barnelova § 9-15](lov/2025-06-20-40/§9-15).
 
+**10.** I [lov 19. juni 1997 nr. 62 om familievernkontorer](lov/1997-06-19-62) gjøres følgende endringer:
+
+[§ 1 første ledd tredje](lov/1997-06-19-62/§1/ledd/1/setning/3) og [fjerde punktum](lov/1997-06-19-62/§1/ledd/1/setning/4) skal lyde:
+
 Familievernkontorene skal foreta mekling etter [ekteskapsloven § 26](lov/1991-07-04-47/§26) og [barneloven § 10-2](lov/2025-06-20-40/§10-2). Familievernkontorene skal bistå der retten oppnevner en ansatt fra familievernet etter [barnelova §§ 12-6](lov/2025-06-20-40/§12-6), [12-9](lov/2025-06-20-40/§12-9) eller [14-4](lov/2025-06-20-40/§14-4).
+
+[§ 5 a første ledd første punktum](lov/1997-06-19-62/§5a/ledd/1/setning/1) skal lyde:
 
 Den som foretar mekling etter [ekteskapsloven § 26](lov/1991-07-04-47/§26) og [barneloven §§ 10-2](lov/2025-06-20-40/§10-2), [12-6](lov/2025-06-20-40/§12-6), [12-9](lov/2025-06-20-40/§12-9) og [14-4](lov/2025-06-20-40/§14-4) har taushetsplikt om det som kommer fram om personlige forhold i forbindelse med oppdraget.
 
+[§ 11 tredje ledd](lov/1997-06-19-62/§11/ledd/3) skal lyde:
+
 Plikten til å føre journal gjelder ikke ved mekling etter [ekteskapsloven § 26](lov/1991-07-04-47/§26) og [barneloven §§ 10-2](lov/2025-06-20-40/§10-2), [12-9](lov/2025-06-20-40/§12-9) og [14-4](lov/2025-06-20-40/§14-4).
+
+**11.** I [lov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldre](lov/1998-06-26-41) gjøres følgende endringer:
+
+[§ 9 andre ledd første punktum](lov/1998-06-26-41/§9/ledd/2/setning/1) skal lyde:
 
 Hvis foreldrene ikke bor sammen og skriftlig har avtalt delt bosted i samsvar med [barneloven § 7-1](lov/2025-06-20-40/§7-1), kan foreldrene få utbetalt kontantstøtte med en halvpart på hver dersom de er enige om en slik deling.
 
+**12.** I [lov 26. mars 1999 nr. 14 om skatt av formue og inntekt](lov/1999-03-26-14) gjøres følgende endringer:
+
+[§ 5-43 første ledd bokstav h](lov/1999-03-26-14/§5-43/ledd/1/bokstav/h) skal lyde:
+
 Barnebidrag og særbidrag etter [barneloven kapittel 9](lov/1981-04-08-7/kap9), oppfostringsbidrag etter [barnevernsloven](lov/2021-06-18-97) og bidragsforskudd etter [forskotteringsloven](lov/1989-02-17-2).
+
+**13.** I [lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter](lov/1999-07-02-63) gjøres følgende endringer:
+
+[§ 4-4 andre ledd første punktum](lov/1999-07-02-63/§4-4/ledd/2/setning/1) skal lyde:
 
 Det er tilstrekkelig at én av foreldrene, eller andre som har foreldreansvaret, samtykker til helsehjelp som regnes som del av den daglige og ordinære omsorgen for barnet, jf. [barnelova §§ 7-2](lov/2025-06-20-40/§7-2) og [8-4 andre ledd](lov/2025-06-20-40/§8-4/ledd/2).
 
+**14.** I [lov 2. juli 1999 nr. 64 om helsepersonell m.v.](lov/1999-07-02-64) gjøres følgende endringer:
+
+[§ 35 første ledd andre punktum](lov/1999-07-02-64/§35/ledd/1/setning/2) skal lyde:
+
 I meldingen skal det opplyses hvem som er foreldrene til barnet etter [barnelova kapittel 2](lov/2025-06-20-40/kap2), eller hvem moren har oppgitt som far eller medmor til barnet i tilfeller der det ikke er klarlagt.
+
+[§ 35 andre ledd](lov/1999-07-02-64/§35/ledd/2) skal lyde:
 
 Dersom farskapet eller medmorskapet ikke er klarlagt eller foreldrene ikke lever sammen, skal fødselsmeldingen også sendes til Arbeids- og velferdsetaten.
 
+**15.** I [lov 8. mars 2002 nr. 4 om barnetrygd](lov/2002-03-08-4) gjøres følgende endringer:
+
+[§ 2 tredje ledd](lov/2002-03-08-4/§2/ledd/3) skal lyde:
+
 Hvis foreldrene ikke bor sammen og skriftlig har avtalt at barnet skal bo hos begge eller det foreligger rettskraftig avgjørelse om at barnet skal bo hos begge, jf. [barneloven § 7-1](lov/2025-06-20-40/§7-1), kan hver av foreldrene få rett til 50 prosent barnetrygd, hvis de fremsetter krav om dette.
+
+**16.** I [lov 29. april 2005 nr. 20 om innkreving av underholdsbidrag mv.](lov/2005-04-29-20) gjøres følgende endringer:
+
+[§ 2 fjerde ledd](lov/2005-04-29-20/§2/ledd/4) skal lyde:
 
 I den utstrekning avtaler som nevnt i første og andre ledd har regler om utveksling av informasjon mellom medlemslandene, kan andre medlemsland gis opplysninger om identitet, adresse eller inntekts- og formuesforhold for partene i en bidragssak uten hinder av taushetsplikt, eventuelt etter at opplysningene er innhentet etter [innkrevingsloven](lov/2025-04-25-12) eller [barnelova § 9-5 syvende ledd](lov/2025-06-20-40/§9-5/ledd/7).
 
+[§ 2 femte ledd](lov/2005-04-29-20/§2/ledd/5) skal lyde:
+
 Når en part begjærer innkreving av en privat bidragsavtale, jf. [barnelova § 9-5 første ledd](lov/2025-06-20-40/§9-5/ledd/1), i medhold av en avtale som nevnt i første og andre ledd, skal den private avtalen sendes Arbeids- og velferdsetaten for godkjenning. Arbeids- og velferdsetaten skal kontrollere at vilkårene for innkreving av avtalen etter norske regler er oppfylt. Om vilkårene er oppfylt, skal Innkrevingsmyndigheten gi skriftlig erklæring om at avtalen er godkjent og tvangskraftig i Norge.
+
+[§ 8 første ledd](lov/2005-04-29-20/§8/ledd/1) skal lyde:
 
 Arbeids- og velferdsetaten skal straks overføre saken til innkreving når henvendelse om dette er mottatt og det er klart at det foreligger grunnlag for innkreving, jf. [§ 5](lov/2005-04-29-20/§5) og [barneloven § 9-13](lov/2025-06-20-40/§9-13).
 
+[§ 29 første ledd første punktum](lov/2005-04-29-20/§29/ledd/1/setning/1) skal lyde:
+
 Vedtak om tilbakekreving etter [§§ 25](lov/2005-04-29-20/§25) og [26](lov/2005-04-29-20/§26) og pålegg etter [§ 27](lov/2005-04-29-20/§27) treffes av Arbeids- og velferdsetaten.
+
+**17.** I [lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister](lov/2005-06-17-90) gjøres følgende endringer:
+
+[§ 22-3 a andre ledd tredje punktum](lov/2005-06-17-90/§22-3a/ledd/2/setning/3) skal lyde:
 
 Om den mindreåriges medbestemmelsesrett ved rettens beslutning gjelder reglene i [barnelova § 12-6](lov/2025-06-20-40/§12-6).
 
+**18.** I [lov 26. mars 2010 nr. 9 om vergemål](lov/2010-03-26-9) gjøres følgende endringer:
+
+[§ 17 andre ledd første punktum](lov/2010-03-26-9/§17/ledd/2/setning/1) skal lyde:
+
 Har ingen foreldreansvar for den mindreårige, treffer vergen de avgjørelser som tilkommer den som har foreldreansvaret, jf. [barneloven § 6-5](lov/2025-06-20-40/§6-5).
+
+[§ 17 fjerde ledd tredje punktum](lov/2010-03-26-9/§17/ledd/4/setning/3) skal lyde:
 
 Om den mindreåriges medbestemmelsesrett i personlige forhold gjelder reglene i [barneloven § 6-6](lov/2025-06-20-40/§6-6).
 
+**19.** I [lov 6. juni 2014 nr. 19 om stans i utbetalinga av offentlege ytingar og barnebidrag når ein av foreldra har bortført eit barn til utlandet](lov/2014-06-06-19) gjøres følgende endringer:
+
+[§ 6 andre punktum](lov/2014-06-06-19/§6/setning/2) skal lyde:
+
 Det kan ikkje krevjast endring av bidraget etter [barnelova § 9-9 første ledd](lov/2025-06-20-40/§9-9/ledd/1) så lenge bortføringa varar.
+
+**20.** I [lov 9. desember 2016 nr. 88 om folkeregistrering](lov/2016-12-09-88) gjøres følgende endringer:
+
+[§ 3-3 første ledd](lov/2016-12-09-88/§3-3/ledd/1) skal lyde:
 
 For personer som fødes i Norge, registreres fødselsdato på grunnlag av fødselsmeldingen gitt i medhold av [barnelova § 3-1](lov/2025-06-20-40/§3-1).
 
+[§ 6-4 første ledd](lov/2016-12-09-88/§6-4/ledd/1) skal lyde:
+
 Fødsel som har skjedd uten at en lege eller jordmor er til stede, skal meldes til skattekontoret av moren selv, jf. [barnelova § 3-1](lov/2025-06-20-40/§3-1).
 
+**21.** I [lov 18. juni 2021 nr. 97 om barnevern](lov/2021-06-18-97) gjøres følgende endringer:
+
+[§ 3-4 tredje ledd](lov/2021-06-18-97/§3-4/ledd/3) skal lyde:
+
 Pålegg om hjelpetiltak kan rettes mot både foreldre som barnet bor sammen med, og foreldre som har samvær med barnet.
+
+[§ 15-12 andre ledd](lov/2021-06-18-97/§15-12/ledd/2) skal lyde:
 
 Krav om bidrag eller endring av fastsatt bidrag etter første ledd skal sendes til Arbeids- og velferdsetaten. Arbeids- og velferdsetaten avgjør kravet og fastsetter beløpet. Den bidragspliktige kan sette frem krav om å få endret fastsatt bidrag eller ettergitt bidragsgjeld. Bidraget kan fastsettes eller endres med virkning fra inntil tre måneder før kravet ble mottatt. Bidrag som er fastsatt etter [barneloven](lov/1981-04-08-7) faller bort fra det tidspunktet bidrag kan fastsettes etter denne bestemmelsen. Barnevernstjenesten skal, uten hinder av taushetsplikt, gi Arbeids- og velferdsetaten de opplysninger som er nødvendige i den enkelte saken.

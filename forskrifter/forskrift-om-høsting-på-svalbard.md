@@ -60,7 +60,19 @@ Høsting og sanking skal skje uten unødig lidelse for faunaen og uten at det op
 
 ### § 7. (høstbare pattedyr, fuglearter, røye og annen anadrom laksefisk)
 
-Jakt er tillatt på følgende arter innenfor følgende tidsrom:På følgende arter:I tidsrommet:Fjellrev1. november–15. marsSvalbardrein15. august–20. septemberSvalbardrype10. september–23. desemberKortnebbgås20. august–31. oktoberHavhest21. september–31. oktoberTeist1. september–31. oktoberRingsel1. februar–20. mars og 20. mai–30. novemberStorkobbe1. februar–27. april og 5. juni–30. november
+Jakt er tillatt på følgende arter innenfor følgende tidsrom:
+
+|  |  |
+| --- | --- |
+| På følgende arter: | I tidsrommet: |
+| Fjellrev | 1. november–15. mars |
+| Svalbardrein | 15. august–20. september |
+| Svalbardrype | 10. september–23. desember |
+| Kortnebbgås | 20. august–31. oktober |
+| Havhest | 21. september–31. oktober |
+| Teist | 1. september–31. oktober |
+| Ringsel | 1. februar–20. mars og 20. mai–30. november |
+| Storkobbe | 1. februar–27. april og 5. juni–30. november |
 
 Fangst er tillatt på fjellrev i tidsrommet 1. november-15. mars.
 
@@ -246,9 +258,13 @@ Til jakt er bruk av haglgevær for mer enn to skudd og helautomatisk rifle forbu
 
 ### § 28. (våpen- og ammunisjonskrav for de enkelte arter)
 
+*Fugl og fjellrev*
+
 Til jakt på fugl og fjellrev kan det benyttes både haglgevær og rifle.
 
 Til jakt på svalbardrype må det når jakten utøves med rifle minst brukes ammunisjon av typen cal. 22 LR med hullspiss. Til jakt på kortnebbgås og fjellrev må det når jakten utøves med rifle, brukes ammunisjon med anslagsenergi på minst 294 joule (30 kgm) på 100 meter.
+
+*Svalbardrein og sjøpattedyr*
 
 Til jakt på svalbardrein og sjøpattedyr skal det kun brukes rifle og jaktammunisjon med ekspanderende prosjektil.
 

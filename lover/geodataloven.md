@@ -87,6 +87,8 @@ Loven trer i kraft fra det tidspunktet Kongen1 bestemmer.
 
 Departementet kan gi nærmere overgangsbestemmelser.
 
+1 Iflg. [res. 3 sep 2010 nr. 1246](forskrift/2010-09-03-1246) trådte § 1, § 2, § 3, § 4, § 6, § 7, [§ 9](lov/2010-09-03-56/§9), [§ 10](lov/2010-09-03-56/§10) og [§ 11](lov/2010-09-03-56/§11) nr. 1 og 3 ikr. 3 sep 2010. [§ 11](lov/2010-09-03-56/§11) nr. 2 ble opphevet ved [lov 20 jan 2012 nr. 7](lov/2012-01-20-7) (ikr. 20 jan 2012 iflg. [res. 20 jan 2012 nr. 36](forskrift/2012-01-20-36)). Iflg. [res. 30 mars 2012 nr. 275](forskrift/2012-03-30-275) trådte § 5 og § 8 ikr. 1 mai 2012.
+
 ## § 11. Endringer i andre lover
 
 Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover: – – –

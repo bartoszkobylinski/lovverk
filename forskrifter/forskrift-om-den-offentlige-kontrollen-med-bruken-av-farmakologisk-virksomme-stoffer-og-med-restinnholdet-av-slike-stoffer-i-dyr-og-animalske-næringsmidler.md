@@ -54,6 +54,14 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 av 19. juni 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 19 nr. 2 bokstav a) og artikkel 19 nr. 2 bokstav b), og
+
+ut fra følgende betraktninger:
+
 1. I forordning [(EU) 2017/625](eu/32017r0625*) er det fastsatt regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes, blant annet på området næringsmiddeltrygghet i alle ledd i produksjon, bearbeiding og distribusjon. Den inneholder særlige regler for offentlig kontroll av stoffer hvis bruk kan føre til restmengder i næringsmidler og fôr.
 2. I henholdsvis artikkel 137 og 138 i forordning [(EU) 2017/625](eu/32017r0625*) fastsettes vedkommende myndigheters forpliktelser med hensyn til tiltak som skal treffes ved mistanke om manglende overholdelse, og det gis en oversikt over tiltak som skal treffes ved fastslått manglende overholdelse.
 3. Forordning [(EU) 2017/625](eu/32017r0625*) opphever direktiv [96/23/EF](eu/31996l0023)2 med virkning fra 14. desember 2019. Nevnte direktiv fastsetter på nåværende tidspunkt kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og angir særlig hvilke håndhevingstiltak som skal treffes av vedkommende myndigheter i tilfelle mistanke om eller fastslått manglende overholdelse i forbindelse med stoffer og deres restmengder innenfor direktivets virkeområde.
@@ -67,6 +75,34 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 11. I henhold til artikkel 50 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)13 skal medlemsstatene underrette om næringsmidler eller fôr som utgjør en direkte eller indirekte helserisiko for mennesker, gjennom det nettverket som er opprettet til dette formålet. Det bør derfor underrettes om manglende overholdelse i forbindelse med restmengder av farmakologisk virksomme stoffer, som utgjør slike risikoer. Dersom det påvises manglende overholdelse i forbindelse med dyr eller produkter av animalsk opprinnelse som har sin opprinnelse i en annen medlemsstat, skal myndighetene i medlemsstaten som har påvist den manglende overholdelsen, og opprinnelsesstaten benytte bestemmelsene om bistand fastsatt i forordning [(EU) 2017/625](eu/32017r0625*) og treffe egnede oppfølgingstiltak, som definert i denne forordning.
 12. Ettersom reglene fastsatt i direktiv [96/23/EF](eu/31996l0023) for oppfølging av særtilfeller av fastslått manglende overholdelse eller mistanke om manglende overholdelse i forbindelse med stoffer og deres restmengder innenfor direktivets virkeområde, oppheves med virkning fra 14. desember 2019, bør denne forordning få anvendelse fra denne datoen.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469*) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+3 Europaparlaments- og rådsforordning [(EF) nr. 470/2009](eu/32009r0470) av 6. mai 2009 om framgangsmåter i Fellesskapet for å fastsette grenseverdier for restmengder av farmakologisk virksomme stoffer i næringsmidler av animalsk opprinnelse, om oppheving av rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) og om endring av europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) (EUT L 152 av 16.6.2009, s. 11).
+
+4 Kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037*) av 22. desember 2009 om farmakologisk virksomme stoffer og deres klassifisering med hensyn til grenseverdier for restmengder i næringsmidler av animalsk opprinnelse (EUT L 15 av 20.1.2010, s. 1)
+
+5 Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
+
+6 Kommisjonsforordning [(EF) nr. 1950/2006](eu/32006r1950) av 13. desember 2006 om opprettelse av en liste over stoffer som er vesentlige for behandling av dyr av hestefamilien, i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater (EUT L 367 av 22.12.2006, s. 33).
+
+7 Kommisjonsforordning [(EF) nr. 124/2009](eu/32009r0124) av 10. februar 2009 om fastsettelse av grenseverdier for forekomst av koksidiostatika eller histomonostatika i næringsmidler som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen (EUT L 40 av 11.2.2009, s. 7).
+
+8 Manglende overholdelse av disse øvre grenseverdiene anses som manglende overholdelse av regler som gjelder for bruken og restmengder av veterinærpreparater.
+
+9 Rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av fremgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler (EFT L 37 av 13.2.1993, s. 1).
+
+10 Rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold og om oppheving av direktiv [81/602/EØF](eu/31981l0602), [88/146/EØF](eu/31988l0146) og [88/299/EØF](eu/31988l0299*) (EFT L 125 av 23.5.1996, s. 3).
+
+11 Europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) av 6. november 2001 om innføring av et fellesskapsregelverk for veterinærpreparater (EFT L 311 av 28.11.2001, s. 1).
+
+12 Europaparlaments- og rådsdirektiv (EU) [2019/6](eu/32019*0006) av 11. desember 2018 om veterinærpreparater og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).
+
+13 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Formål
 
 Denne forordning fastsetter regler for særlige krav til offentlige kontroller og gjeldende tiltak i tilfeller av manglende overholdelse eller mistanke om manglende overholdelse av Unionens regler som gjelder for bruken av godkjente, ikke-tillatte eller forbudte farmakologisk aktive stoffer til dyr bestemt til næringsmiddelproduksjon, og restmengder av disse.
@@ -77,59 +113,63 @@ I denne forordning får definisjonene fastsatt i forordning [(EU) 2017/625](eu/3
 
 ### Artikkel 3. Tiltak som skal treffes på slakteriet ved manglende overholdelse eller mistanke om manglende overholdelse
 
-1. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, har mistanke om eller dokumentasjon på at dyrene har fått ulovlig behandling, skal den offentlige veterinæren sikre at følgende tiltak treffes:Pålegge den næringsdrivende å holde de berørte dyrene atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på de vilkårene som skal fastsettes av vedkommende myndighet.Sørge for at dyrene slaktes atskilt fra andre partier av dyr som befinner seg på slakteriet.Pålegge den driftsansvarlige å skille skrotter, kjøtt, slakteavfall og biprodukter fra de berørte dyrene og umiddelbart identifisere og holde dem atskilt fra andre produkter av animalsk opprinnelse, og kreve at slike produkter ikke flyttes, behandles eller sluttbehandles uten forhåndsgodkjenning fra vedkommende myndighet.Pålegge at det tas prøver som er nødvendige for å påvise forekomst av forbudte eller ikke-tillatte stoffer eller av godkjente stoffer, dersom det er mistanke om eller fastslått bruk på andre vilkår enn dem som er fastsatt i regelverket.
+1\. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, har mistanke om eller dokumentasjon på at dyrene har fått ulovlig behandling, skal den offentlige veterinæren sikre at følgende tiltak treffes:Pålegge den næringsdrivende å holde de berørte dyrene atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på de vilkårene som skal fastsettes av vedkommende myndighet.Sørge for at dyrene slaktes atskilt fra andre partier av dyr som befinner seg på slakteriet.Pålegge den driftsansvarlige å skille skrotter, kjøtt, slakteavfall og biprodukter fra de berørte dyrene og umiddelbart identifisere og holde dem atskilt fra andre produkter av animalsk opprinnelse, og kreve at slike produkter ikke flyttes, behandles eller sluttbehandles uten forhåndsgodkjenning fra vedkommende myndighet.Pålegge at det tas prøver som er nødvendige for å påvise forekomst av forbudte eller ikke-tillatte stoffer eller av godkjente stoffer, dersom det er mistanke om eller fastslått bruk på andre vilkår enn dem som er fastsatt i regelverket.
 
-2. Dersom ulovlig behandling er fastslått, skal vedkommende myndighet pålegge den driftsansvarlige å sluttbehandle skrottene, kjøttet, slakteavfallet og biprodukter som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)14, uten godtgjøring eller kompensasjon.
+2\. Dersom ulovlig behandling er fastslått, skal vedkommende myndighet pålegge den driftsansvarlige å sluttbehandle skrottene, kjøttet, slakteavfallet og biprodukter som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)14, uten godtgjøring eller kompensasjon.
 
-3. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, mistenker at dyr som befinner seg på slakteriet, er blitt behandlet med et godkjent veterinærpreparat, men at tilbakeholdingstiden nevnt i direktiv [2001/82/EF](eu/32001l0082) ikke er overholdt, skal den offentlige veterinæren kreve at de berørte dyrene holdes atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på vilkår som skal fastsettes av vedkommende myndighet. Den offentlige veterinæren skal ogsåutsette slaktingen for den driftsansvarliges regning, inntil tilbakeholdingstiden er overholdt, ellerpåby at dyrene slaktes separat, og i påvente av resultatene av en undersøkelse, påby at skrotter, kjøtt, slakteavfall og biprodukter fra de berørte dyrene straks identifiseres og holdes atskilt fra andre produkter av animalsk opprinnelse.Slaktingen bare kan utsettes midlertidig, forutsatt at den offentlige veterinæren har verifisert at Unionens regelverk om dyrevelferd overholdes, og at de berørte dyrene kan holdes atskilt fra andre dyr.
+3\. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, mistenker at dyr som befinner seg på slakteriet, er blitt behandlet med et godkjent veterinærpreparat, men at tilbakeholdingstiden nevnt i direktiv [2001/82/EF](eu/32001l0082) ikke er overholdt, skal den offentlige veterinæren kreve at de berørte dyrene holdes atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på vilkår som skal fastsettes av vedkommende myndighet. Den offentlige veterinæren skal ogsåutsette slaktingen for den driftsansvarliges regning, inntil tilbakeholdingstiden er overholdt, ellerpåby at dyrene slaktes separat, og i påvente av resultatene av en undersøkelse, påby at skrotter, kjøtt, slakteavfall og biprodukter fra de berørte dyrene straks identifiseres og holdes atskilt fra andre produkter av animalsk opprinnelse.Slaktingen bare kan utsettes midlertidig, forutsatt at den offentlige veterinæren har verifisert at Unionens regelverk om dyrevelferd overholdes, og at de berørte dyrene kan holdes atskilt fra andre dyr.
 
-4. Når slaktingen utsettes i samsvar med nr. 3, skal tilbakeholdingstiden under ingen omstendigheter være kortere ennden tilbakeholdingstiden som er fastsatt i preparatomtalen som ledsager markedsføringstillatelsen for veterinærpreparater,den tilbakeholdingstiden som er fastsatt i henhold til forordningen som tillater bruk av et bestemt farmakologisk virksomt stoff som tilsetningsstoff i fôrvarer i samsvar med forordning [(EF) nr. 1831/2003](eu/32003r1831),den tilbakeholdingstiden som er foreskrevet av veterinæren for bruk i samsvar med artikkel 11 i direktiv [2001/82/EF](eu/32001l0082), eller, dersom ingen tilbakeholdingstid er fastsatt for slike bruksområder, den minste tilbakeholdingstiden som er fastsatt i artikkel 11 i direktiv [2001/82/EF](eu/32001l0082).Når slaktingen er blitt utsatt, kan vedkommende myndighet ta prøver for den driftsansvarliges regning for å verifisere overholdelse av øvre grenseverdi for restmengder så snart dyrene er slaktet etter utløpet av tilbakeholdingstiden.
+4\. Når slaktingen utsettes i samsvar med nr. 3, skal tilbakeholdingstiden under ingen omstendigheter være kortere ennden tilbakeholdingstiden som er fastsatt i preparatomtalen som ledsager markedsføringstillatelsen for veterinærpreparater,den tilbakeholdingstiden som er fastsatt i henhold til forordningen som tillater bruk av et bestemt farmakologisk virksomt stoff som tilsetningsstoff i fôrvarer i samsvar med forordning [(EF) nr. 1831/2003](eu/32003r1831),den tilbakeholdingstiden som er foreskrevet av veterinæren for bruk i samsvar med artikkel 11 i direktiv [2001/82/EF](eu/32001l0082), eller, dersom ingen tilbakeholdingstid er fastsatt for slike bruksområder, den minste tilbakeholdingstiden som er fastsatt i artikkel 11 i direktiv [2001/82/EF](eu/32001l0082).Når slaktingen er blitt utsatt, kan vedkommende myndighet ta prøver for den driftsansvarliges regning for å verifisere overholdelse av øvre grenseverdi for restmengder så snart dyrene er slaktet etter utløpet av tilbakeholdingstiden.
 
-5. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, har dokumentasjon på at dyr som befinner seg på slakteriet, er blitt behandlet med et godkjent veterinærpreparat, men at tilbakeholdingstiden nevnt i direktiv [2001/82/EF](eu/32001l0082) ikke er overholdt, skal den offentlige veterinæren kreve at de berørte dyrene holdes atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på vilkår som skal fastsettes av vedkommende myndighet. Den offentlige veterinæren skal ogsåutsette slaktingen for den driftsansvarliges regning på vilkårene fastsatt i artikkel 3 nr. 3 annet ledd og i artikkel 3 nr. 4 inntil tilbakeholdingstiden er overholdt, ellerpålegge den driftsansvarlige å avlive dyrene separat. I dette tilfellet fall skal den offentlige veterinæren angi at de er uegnede til konsum, og samtidig ta alle nødvendige forholdsregler for å verne dyrs og menneskers helse.
+5\. Dersom den offentlige veterinæren som gjennomfører offentlig kontroll på et slakteri, eller den offentlige kontrollteknikeren som utfører visse oppgaver innenfor rammen av disse kontrollene, har dokumentasjon på at dyr som befinner seg på slakteriet, er blitt behandlet med et godkjent veterinærpreparat, men at tilbakeholdingstiden nevnt i direktiv [2001/82/EF](eu/32001l0082) ikke er overholdt, skal den offentlige veterinæren kreve at de berørte dyrene holdes atskilt fra andre dyrepartier som befinner seg på eller ankommer slakteriet, på vilkår som skal fastsettes av vedkommende myndighet. Den offentlige veterinæren skal ogsåutsette slaktingen for den driftsansvarliges regning på vilkårene fastsatt i artikkel 3 nr. 3 annet ledd og i artikkel 3 nr. 4 inntil tilbakeholdingstiden er overholdt, ellerpålegge den driftsansvarlige å avlive dyrene separat. I dette tilfellet fall skal den offentlige veterinæren angi at de er uegnede til konsum, og samtidig ta alle nødvendige forholdsregler for å verne dyrs og menneskers helse.
 
-6. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra den offentlige veterinæren eller vedkommende myndighet i samsvar med artikkel 3 nr. 1, artikkel 3 nr. 2, artikkel 3 nr. 3, artikkel 3 nr. 4, artikkel 3 nr. 5 og artikkel 3 nr. 6 i denne forordning, skal den offentlige veterinæren eller vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
+6\. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra den offentlige veterinæren eller vedkommende myndighet i samsvar med artikkel 3 nr. 1, artikkel 3 nr. 2, artikkel 3 nr. 3, artikkel 3 nr. 4, artikkel 3 nr. 5 og artikkel 3 nr. 6 i denne forordning, skal den offentlige veterinæren eller vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
+
+14 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
 
 ### Artikkel 4. Undersøkelser
 
-1. Dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, fastsatt på grunnlag av forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EF) nr. 1831/2003](eu/32003r1831), eller dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen, fastsatt på grunnlag av forordning [(EF) nr. 315/93](eu/31993r0315), er blitt overskredet, og manglende overholdelse dermed er konstatert, skal vedkommende myndighet gjøre følgende:Utføre alle nødvendige tiltak eller undersøkelser som den anser som hensiktsmessig i forbindelse med det aktuelle funnet. Dette kan omfatte undersøkelser på dyrenes opprinnelses- eller avsenderenhet, herunder kontroll av dyr eller dyrepartier på deres opprinnelses- eller avsenderenhet, for å fastslå omfanget av og årsaken til manglende overholdelse og for å fastslå omfanget av den driftsansvarliges forpliktelser.Anmode dyreholderen eller den ansvarlige veterinæren om å framlegge resepten og behandlingsrapporter samt all dokumentasjon som begrunner behandlingens art.
+1\. Dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, fastsatt på grunnlag av forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EF) nr. 1831/2003](eu/32003r1831), eller dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen, fastsatt på grunnlag av forordning [(EF) nr. 315/93](eu/31993r0315), er blitt overskredet, og manglende overholdelse dermed er konstatert, skal vedkommende myndighet gjøre følgende:Utføre alle nødvendige tiltak eller undersøkelser som den anser som hensiktsmessig i forbindelse med det aktuelle funnet. Dette kan omfatte undersøkelser på dyrenes opprinnelses- eller avsenderenhet, herunder kontroll av dyr eller dyrepartier på deres opprinnelses- eller avsenderenhet, for å fastslå omfanget av og årsaken til manglende overholdelse og for å fastslå omfanget av den driftsansvarliges forpliktelser.Anmode dyreholderen eller den ansvarlige veterinæren om å framlegge resepten og behandlingsrapporter samt all dokumentasjon som begrunner behandlingens art.
 
-2. Dersom restmengder er identifisert i konsentrasjoner under de øvre grenseverdiene for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, men der forekomsten av slike restmengder ikke er i samsvar med opplysninger om næringsmiddelkjeden, slik at det oppstår mistanke om manglende overholdelse eller ulovlig behandling, skal vedkommende myndighet utføre alle undersøkelsestiltak som den anser som hensiktsmessige for å undersøke kilden til disse restmengdene eller manglene i opplysningene om næringsmiddelkjeden.
+2\. Dersom restmengder er identifisert i konsentrasjoner under de øvre grenseverdiene for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, men der forekomsten av slike restmengder ikke er i samsvar med opplysninger om næringsmiddelkjeden, slik at det oppstår mistanke om manglende overholdelse eller ulovlig behandling, skal vedkommende myndighet utføre alle undersøkelsestiltak som den anser som hensiktsmessige for å undersøke kilden til disse restmengdene eller manglene i opplysningene om næringsmiddelkjeden.
 
-3. Dersom det er mistanke om restmengder på nivåer som overskrider øvre grenseverdier for restmengder eller øvre grenseverdier for farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, som fastsatt i Unionens regelverk, skal vedkommende myndighet utføre alle undersøkelsestiltak som den anser som hensiktsmessige.
+3\. Dersom det er mistanke om restmengder på nivåer som overskrider øvre grenseverdier for restmengder eller øvre grenseverdier for farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, som fastsatt i Unionens regelverk, skal vedkommende myndighet utføre alle undersøkelsestiltak som den anser som hensiktsmessige.
 
-4. Dersom det er mistanke om eller fastslått ulovlig behandling, eller når stoffer som hører inn under virkeområdet for direktiv [96/22/EF](eu/31996l0022), oppdages i uvedkommende personers eller driftsansvarliges besittelse, eller dersom forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers eller driftsansvarliges besittelse, skal vedkommende myndighet gjøre følgende:Straks holde tilbake dyr og produkter som omfattes av undersøkelsen.Ved tilbakeholding skal vedkommende myndighetpålegge at de dyrene som omfattes av undersøkelsen, ikke flyttes uten forhåndsgodkjenning fra vedkommende myndighet og så lenge undersøkelsen varer,pålegge at skrotter, kjøtt, slakteavfall, biprodukter, melk, egg og honning fra disse dyrene ikke forlater driftsenheten eller opprinnelsesvirksomheten og ikke overleveres til noen annen person uten forhåndsgodkjenning fra vedkommende myndighet,pålegge, dersom det er relevant, at fôr, vann eller andre berørte produkter holdes atskilt og ikke flyttes fra driftsenheten eller opprinnelsesvirksomheten,sørge for at dyrene som omfattes av undersøkelsen, forsynes med et offisielt merke eller en annen form for identifikasjon, eller når det gjelder fjørfe, fisk og bier, at de holdes i et rom eller en bikube som er merket,treffe passende forebyggende tiltak i samsvar med det identifiserte stoffets/de identifiserte stoffenes art.Anmode dyreholderen og den ansvarlige veterinæren om å framlegge all dokumentasjon som begrunner behandlingens art.Gjennomføre alle andre offentlige kontroller av dyr eller dyrepartier på dyrenes opprinnelsesenhet eller avgangssted, som er nødvendige for å fastslå slik bruk.Gjennomføre alle andre offentlige kontroller som er nødvendige for å fastslå ervervelse og forekomst av ikke-tillatte eller forbudte stoffer.Gjennomføre alle andre offentlige kontroller som anses som nødvendige for å fastslå de forbudte eller ikke-tillatte stoffenes eller produktenes opprinnelse, eller behandlede dyrs opprinnelse.
+4\. Dersom det er mistanke om eller fastslått ulovlig behandling, eller når stoffer som hører inn under virkeområdet for direktiv [96/22/EF](eu/31996l0022), oppdages i uvedkommende personers eller driftsansvarliges besittelse, eller dersom forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers eller driftsansvarliges besittelse, skal vedkommende myndighet gjøre følgende:Straks holde tilbake dyr og produkter som omfattes av undersøkelsen.Ved tilbakeholding skal vedkommende myndighetpålegge at de dyrene som omfattes av undersøkelsen, ikke flyttes uten forhåndsgodkjenning fra vedkommende myndighet og så lenge undersøkelsen varer,pålegge at skrotter, kjøtt, slakteavfall, biprodukter, melk, egg og honning fra disse dyrene ikke forlater driftsenheten eller opprinnelsesvirksomheten og ikke overleveres til noen annen person uten forhåndsgodkjenning fra vedkommende myndighet,pålegge, dersom det er relevant, at fôr, vann eller andre berørte produkter holdes atskilt og ikke flyttes fra driftsenheten eller opprinnelsesvirksomheten,sørge for at dyrene som omfattes av undersøkelsen, forsynes med et offisielt merke eller en annen form for identifikasjon, eller når det gjelder fjørfe, fisk og bier, at de holdes i et rom eller en bikube som er merket,treffe passende forebyggende tiltak i samsvar med det identifiserte stoffets/de identifiserte stoffenes art.Anmode dyreholderen og den ansvarlige veterinæren om å framlegge all dokumentasjon som begrunner behandlingens art.Gjennomføre alle andre offentlige kontroller av dyr eller dyrepartier på dyrenes opprinnelsesenhet eller avgangssted, som er nødvendige for å fastslå slik bruk.Gjennomføre alle andre offentlige kontroller som er nødvendige for å fastslå ervervelse og forekomst av ikke-tillatte eller forbudte stoffer.Gjennomføre alle andre offentlige kontroller som anses som nødvendige for å fastslå de forbudte eller ikke-tillatte stoffenes eller produktenes opprinnelse, eller behandlede dyrs opprinnelse.
 
-5. Den offentlige kontrollen nevnt i denne artikkel kan også omfatte kontroll av produsenter, distributører, transportører, produksjonssteder for farmakologisk virksomme stoffer og veterinærpreparater, apoteker, alle relevante aktører i av forsyningskjeden og alle andre anlegg som omfattes av undersøkelsen.
+5\. Den offentlige kontrollen nevnt i denne artikkel kan også omfatte kontroll av produsenter, distributører, transportører, produksjonssteder for farmakologisk virksomme stoffer og veterinærpreparater, apoteker, alle relevante aktører i av forsyningskjeden og alle andre anlegg som omfattes av undersøkelsen.
 
-6. Den offentlige kontrollen nevnt i denne artikkel kan også omfatte offisiell prøvetaking, herunder av vann, fôr, kjøtt, slakteavfall, blod, animalske biprodukter, hår, urin, avføring og andre animalske matriser. Vedkommende myndighet skal ta det antall prøver som den anser som nødvendig for å undersøke den mistenkte eller fastslåtte manglende overholdelsen eller ulovlige behandlingen. Når det gjelder akvakulturdyr kan det være påkrevd med prøver fra de farvannene der de oppdrettes eller fanges, og når det gjelder honningbier, kan det være påkrevd med prøver fra bikubene.
+6\. Den offentlige kontrollen nevnt i denne artikkel kan også omfatte offisiell prøvetaking, herunder av vann, fôr, kjøtt, slakteavfall, blod, animalske biprodukter, hår, urin, avføring og andre animalske matriser. Vedkommende myndighet skal ta det antall prøver som den anser som nødvendig for å undersøke den mistenkte eller fastslåtte manglende overholdelsen eller ulovlige behandlingen. Når det gjelder akvakulturdyr kan det være påkrevd med prøver fra de farvannene der de oppdrettes eller fanges, og når det gjelder honningbier, kan det være påkrevd med prøver fra bikubene.
 
 ### Artikkel 5. Oppfølging i tilfelle restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, overskrider gjeldende øvre grenseverdier for restmengder eller øvre grenseverdier
 
-1. Dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, fastsatt på grunnlag av forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EF) nr. 1831/2003](eu/32003r1831), er blitt overskredet, eller dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen, fastsatt på grunnlag av forordning [(EF) nr. 315/93](eu/31993r0315), er blitt overskredet, skal vedkommende myndighet gjøre følgende:Erklære skrottene og produktene som omfattes av manglende overholdelse, som uegnede til konsum, og pålegge den driftsansvarlige å sluttbehandle alle produkter som kategori 2-materiale, som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).Treffe alle andre tiltak som er nødvendige for å verne folkehelsen, og som kan omfatte forbud mot at dyr forlater den berørte driftsenheten eller mot at produkter forlater den berørte driftsenheten eller virksomheten i et bestemt tidsrom.Pålegge den driftsansvarlige å treffe passende tiltak for å utbedre årsakene til den manglende overholdelsen.Gjennomføre ytterligere offentlig kontroll for å verifisere at tiltakene som er truffet av den driftsansvarlige for å utbedre årsaken til den manglende overholdelsen, er effektive. Dette kan innebære å ta så mange oppfølgingsprøver av dyr eller produkter fra samme driftsenhet eller virksomhet som anses som nødvendige.
+1\. Dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, fastsatt på grunnlag av forordning [(EF) nr. 470/2009](eu/32009r0470) og forordning [(EF) nr. 1831/2003](eu/32003r1831), er blitt overskredet, eller dersom øvre grenseverdier for restmengder av farmakologisk virksomme stoffer som følge av uunngåelig overføring av disse stoffene til fôr til dyr utenfor målgruppen, fastsatt på grunnlag av forordning [(EF) nr. 315/93](eu/31993r0315), er blitt overskredet, skal vedkommende myndighet gjøre følgende:Erklære skrottene og produktene som omfattes av manglende overholdelse, som uegnede til konsum, og pålegge den driftsansvarlige å sluttbehandle alle produkter som kategori 2-materiale, som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).Treffe alle andre tiltak som er nødvendige for å verne folkehelsen, og som kan omfatte forbud mot at dyr forlater den berørte driftsenheten eller mot at produkter forlater den berørte driftsenheten eller virksomheten i et bestemt tidsrom.Pålegge den driftsansvarlige å treffe passende tiltak for å utbedre årsakene til den manglende overholdelsen.Gjennomføre ytterligere offentlig kontroll for å verifisere at tiltakene som er truffet av den driftsansvarlige for å utbedre årsaken til den manglende overholdelsen, er effektive. Dette kan innebære å ta så mange oppfølgingsprøver av dyr eller produkter fra samme driftsenhet eller virksomhet som anses som nødvendige.
 
-2. I tilfelle gjentatt manglende overholdelse hos den samme driftsansvarlige, kan vedkommende myndighet gjennomføre regelmessig ytterligere offentlig kontroll, herunder prøvetaking og analyse, av den berørte driftsansvarliges dyr og produkter i et tidsrom på minst seks måneder fra den datoen da manglende overholdelse ble fastslått for andre gang. Myndigheten skal også pålegge den driftsansvarlige å sikre at de berørte dyrene samt skrotter, kjøtt, slakteavfall, biprodukter, melk, egg og honning fra disse dyrene holdes atskilt fra andre dyr, og at de ikke forlater driftsenheten eller opprinnelsesvirksomheten og ikke overleveres til noen annen person uten forhåndsgodkjenning fra vedkommende myndighet.
+2\. I tilfelle gjentatt manglende overholdelse hos den samme driftsansvarlige, kan vedkommende myndighet gjennomføre regelmessig ytterligere offentlig kontroll, herunder prøvetaking og analyse, av den berørte driftsansvarliges dyr og produkter i et tidsrom på minst seks måneder fra den datoen da manglende overholdelse ble fastslått for andre gang. Myndigheten skal også pålegge den driftsansvarlige å sikre at de berørte dyrene samt skrotter, kjøtt, slakteavfall, biprodukter, melk, egg og honning fra disse dyrene holdes atskilt fra andre dyr, og at de ikke forlater driftsenheten eller opprinnelsesvirksomheten og ikke overleveres til noen annen person uten forhåndsgodkjenning fra vedkommende myndighet.
 
-3. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra vedkommende myndighet i samsvar med denne artikkel, skal vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
+3\. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra vedkommende myndighet i samsvar med denne artikkel, skal vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
 
 ### Artikkel 6. Oppfølging av ulovlig behandling og besittelse av forbudte eller ikke-tillatte stoffer eller produkter
 
-1. Dersom stoffer som omfattes av virkeområdet for direktiv [96/22/EF](eu/31996l0022), forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers besittelse, slik at det oppstår mistanke om ulovlig behandling, bør disse stoffene eller produktene holdes tilbake inntil vedkommende myndighet har truffet de tiltakene som er fastsatt i nr. 2, 3 og 4 i denne artikkel, uten at det berører den påfølgende destrueringen av produktene og mulige sanksjoner mot overtrederen/overtrederne.
+1\. Dersom stoffer som omfattes av virkeområdet for direktiv [96/22/EF](eu/31996l0022), forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers besittelse, slik at det oppstår mistanke om ulovlig behandling, bør disse stoffene eller produktene holdes tilbake inntil vedkommende myndighet har truffet de tiltakene som er fastsatt i nr. 2, 3 og 4 i denne artikkel, uten at det berører den påfølgende destrueringen av produktene og mulige sanksjoner mot overtrederen/overtrederne.
 
-2. Dersom ulovlig behandling er fastslått, eller når stoffer som hører inn under virkeområdet for direktiv [96/22/EF](eu/31996l0022), forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers eller driftsansvarliges besittelse, skal vedkommende myndighet gjøre følgende:Oppbevare eller holde dyr og skrotter, kjøtt, slakteavfall og biprodukter fra dyr som omfattes av ulovlig behandling, sammen med melk, egg og honning fra disse dyrene som holdes tilbake som fastsatt i artikkel 4 nr. 4 bokstav b).Ta prøver fra alle berørte partier av dyr som tilhører driftsenheten.Pålegge den driftsansvarlige å avlive dyret eller dyrene som det er fastslått har fått ulovlig behandling, og sluttbehandle dem som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).Erklære alle skrotter eller produkter som omfattes av ulovlig behandling, som uegnede til konsum, og pålegge den driftsansvarlige å sluttbehandle dem som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).
+2\. Dersom ulovlig behandling er fastslått, eller når stoffer som hører inn under virkeområdet for direktiv [96/22/EF](eu/31996l0022), forbudte eller ikke-tillatte stoffer eller produkter oppdages i uvedkommende personers eller driftsansvarliges besittelse, skal vedkommende myndighet gjøre følgende:Oppbevare eller holde dyr og skrotter, kjøtt, slakteavfall og biprodukter fra dyr som omfattes av ulovlig behandling, sammen med melk, egg og honning fra disse dyrene som holdes tilbake som fastsatt i artikkel 4 nr. 4 bokstav b).Ta prøver fra alle berørte partier av dyr som tilhører driftsenheten.Pålegge den driftsansvarlige å avlive dyret eller dyrene som det er fastslått har fått ulovlig behandling, og sluttbehandle dem som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).Erklære alle skrotter eller produkter som omfattes av ulovlig behandling, som uegnede til konsum, og pålegge den driftsansvarlige å sluttbehandle dem som fastsatt i forordning [(EF) nr. 1069/2009](eu/32009r1069).
 
-3. Ved anvendelse av nr. 2 gjelder følgende:Alle dyr fra det partiet eller de partiene der det er bekreftet at ett eller flere dyr har fått ulovlig behandling med forbudte eller ikke-tillatte stoffer, skal også anses å ha fått ulovlig behandling, med mindre vedkommende myndighet på anmodning fra den driftsansvarlige og på dennes regning samtykker i å gjennomføre ytterligere offentlige kontroller av alle dyr fra det eller de berørte partiene for å fastslå at dyrene ikke har fått noen ulovlig behandling.Alle dyr fra det partiet eller de partiene der det er bekreftet at ett eller flere dyr har fått ulovlig behandling som følge av at stoffer eller veterinærpreparater godkjent i henhold til Unionens regelverk til andre formål eller på andre vilkår enn dem som er fastsatt i nevnte regelverk, eller eventuelt i nasjonal rett, skal også anses å ha fått ulovlig behandling, med mindre vedkommende myndighet på anmodning fra den driftsansvarlige og på dennes regning samtykker i å gjennomføre ytterligere offentlige kontroller av dyr fra det eller de berørte partiene, som mistenkes å ha blitt ulovlig behandlet, for å fastslå at dyrene ikke har fått noen ulovlig behandling.
+3\. Ved anvendelse av nr. 2 gjelder følgende:Alle dyr fra det partiet eller de partiene der det er bekreftet at ett eller flere dyr har fått ulovlig behandling med forbudte eller ikke-tillatte stoffer, skal også anses å ha fått ulovlig behandling, med mindre vedkommende myndighet på anmodning fra den driftsansvarlige og på dennes regning samtykker i å gjennomføre ytterligere offentlige kontroller av alle dyr fra det eller de berørte partiene for å fastslå at dyrene ikke har fått noen ulovlig behandling.Alle dyr fra det partiet eller de partiene der det er bekreftet at ett eller flere dyr har fått ulovlig behandling som følge av at stoffer eller veterinærpreparater godkjent i henhold til Unionens regelverk til andre formål eller på andre vilkår enn dem som er fastsatt i nevnte regelverk, eller eventuelt i nasjonal rett, skal også anses å ha fått ulovlig behandling, med mindre vedkommende myndighet på anmodning fra den driftsansvarlige og på dennes regning samtykker i å gjennomføre ytterligere offentlige kontroller av dyr fra det eller de berørte partiene, som mistenkes å ha blitt ulovlig behandlet, for å fastslå at dyrene ikke har fått noen ulovlig behandling.
 
-4. I tilfelle det er fastslått ulovlig behandling i akvakultur, skal det tas prøver fra alle relevante dammer, innhegninger og bur. Dersom ulovlig behandling fastslås i akvakultur, og dersom prøven som tas fra en bestemt dam, en bestemt innhegning eller et bestemt bur, er positiv, skal alle dyrene i denne dammen, denne innhegningen eller dette buret anses å ha fått ulovlig behandling.
+4\. I tilfelle det er fastslått ulovlig behandling i akvakultur, skal det tas prøver fra alle relevante dammer, innhegninger og bur. Dersom ulovlig behandling fastslås i akvakultur, og dersom prøven som tas fra en bestemt dam, en bestemt innhegning eller et bestemt bur, er positiv, skal alle dyrene i denne dammen, denne innhegningen eller dette buret anses å ha fått ulovlig behandling.
 
-5. Vedkommende myndighet skal gjennomføre regelmessige ytterligere offentlig kontroller i et tidsrom på minst 12 måneder fra den datoen da den manglende overholdelsen ble fastslått på driftsenheten eller driftsenhetene som hører inn under den samme driftsansvarliges ansvar, og av dyr og varer som tilhører den eller de berørte driftsenhetene.
+5\. Vedkommende myndighet skal gjennomføre regelmessige ytterligere offentlig kontroller i et tidsrom på minst 12 måneder fra den datoen da den manglende overholdelsen ble fastslått på driftsenheten eller driftsenhetene som hører inn under den samme driftsansvarliges ansvar, og av dyr og varer som tilhører den eller de berørte driftsenhetene.
 
-6. De driftsenhetene eller virksomhetene som forsyner den driftsenheten som berøres av manglende overholdelse, samt alle driftsenheter i samme forsyningskjede for dyr og fôrvarer som opprinnelses- eller avsenderenheten, kan omfattes av offentlig kontroll for å fastslå opprinnelsen til det aktuelle stoffetunder transport, distribusjon, salg eller innkjøp av farmakologisk virksomme stoffer,under hele produksjons- og distribusjonskjeden for fôr,i hele produksjonskjeden for dyr og produkter av animalsk opprinnelse.
+6\. De driftsenhetene eller virksomhetene som forsyner den driftsenheten som berøres av manglende overholdelse, samt alle driftsenheter i samme forsyningskjede for dyr og fôrvarer som opprinnelses- eller avsenderenheten, kan omfattes av offentlig kontroll for å fastslå opprinnelsen til det aktuelle stoffetunder transport, distribusjon, salg eller innkjøp av farmakologisk virksomme stoffer,under hele produksjons- og distribusjonskjeden for fôr,i hele produksjonskjeden for dyr og produkter av animalsk opprinnelse.
 
-7. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra vedkommende myndighet i samsvar med denne artikkel, skal vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
+7\. Dersom den driftsansvarlige unnlater å treffe alle nødvendige tiltak for å overholde pålegg fra vedkommende myndighet i samsvar med denne artikkel, skal vedkommende myndighet treffe tiltak med samme virkning for den driftsansvarliges regning.
 
 ### Artikkel 7. Krav til analysemetoder og prøvetaking
 
 Alle prøvene nevnt i denne forordning skal tas og analyseres i samsvar med forordning [(EU) 2017/625](eu/32017r0625*), kommisjonsvedtak [1998/179/EF](eu/31998d0179)15 og kommisjonsvedtak [2002/657/EF](eu/32002d0657*)16.
+
+15 Kommisjonsvedtak [1998/179/EF](eu/31998d0179) av 23. februar 1998 om fastsettelse av nærmere regler for offisiell prøvetaking for overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter (EFT L 65 av 5.3.1998, s. 31).16 Kommisjonsvedtak [2002/657/EF](eu/32002d0657*) av 14. august 2002 om gjennomføring av rådsdirektiv [96/23/EF](eu/31996l0023) med hensyn til analysemetoders ytelse og tolking av resultater (EFT L 221 av 17.8.2002, s. 8).
 
 ### Artikkel 8. Tiltak for registrering, tillatelse og offisiell godkjenning
 
@@ -155,8 +195,29 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 19. juni 2019.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 SAMMENLIGNINGSTABELL NEVNT I ARTIKKEL 10
+
+| Direktiv [96/23/EF](eu/31996l0023) | Denne forordning |
+| --- | --- |
+| Artikkel 13 | Artikkel 4 |
+| Artikkel 15 nr. 3 | Artikkel 4, 5, 6 og 9 |
+| Artikkel 16 nr. 2 | Artikkel 4, 5 og 6 |
+| Artikkel 17 | Artikkel 6 |
+| Artikkel 18 | Artikkel 5 |
+| Artikkel 22 | Artikkel 6 nr. 1 |
+| Artikkel 23 nr. 1 | Artikkel 4 nr. 4 |
+| Artikkel 23 nr. 2, artikkel 23 nr. 3, artikkel 23 nr. 4 og artikkel 23 nr. 5 | Artikkel 6 |
+| Artikkel 24 | Artikkel 3 |
+| Artikkel 25 | Artikkel 8 |
 
 ### Konsolidert forordning [(EU) 2022/1644](eu/32022r1644)
 
@@ -164,11 +225,23 @@ SAMMENLIGNINGSTABELL NEVNT I ARTIKKEL 10
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/1644](eu/32022r1644). Dette er grunnrettsakten, Grunnrettsakten er endret av forordning [(EU) 2024/2562](eu/32024r2562). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11h, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31w og [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164ze er innarbeidet nedenfor.
 
+►**B** Forordning [(EU) 2022/1644](eu/32022r1644)
+
+som endret ved
+
 - ►**M1** Forordning [(EU) 2024/2562](eu/32024r2562)
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/1644](eu/32022r1644)
 av 7. juli 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med særlige krav til gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og restmengder av disse, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 19 nr. 2 bokstav a), og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på området næringsmidler og næringsmiddeltrygghet. Særlig kreves det i henhold til artikkel 9 i nevnte forordning at vedkommende myndigheter regelmessig gjennomfører offentlig kontroll av alle driftsansvarlige på grunnlag av en risikovurdering og med passende hyppighet. I henhold til artikkel 109 i nevnte forordning skal medlemsstatene sikre at vedkommende myndigheter gjennomfører offentlig kontroll på grunnlag av en flerårig nasjonal kontrollplan. Videre angir forordning [(EU) 2017/625](eu/32017r0625) det generelle innholdet i kontrollplanen, inkludert kravet om at medlemsstatene i sin flerårige nasjonale kontrollplan inkluderer offentlig kontroll av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse. Forordning [(EU) 2017/625](eu/32017r0625) gir Kommisjonen myndighet til å fastsette særlige krav til gjennomføringen av slik offentlig kontroll, herunder, dersom det er relevant, omfanget av prøver og i hvilket ledd i produksjon, bearbeiding og distribusjon prøvene skal tas, samtidig som det tas hensyn til farene og risikoene knyttet til stoffene nevnt i forordningens artikkel 19 nr. 1.
 2. Forordning [(EU) 2017/625](eu/32017r0625) opphevet rådsdirektiv [96/23/EF](eu/31996l0023)2 med virkning fra 14. desember 2019 og fastsetter de relevante overgangstiltakene. I henhold til disse overgangstiltakene skal vedkommende myndigheter fram til 14. desember 2022 fortsette å gjennomføre den nødvendige offentlige kontrollen i samsvar med direktiv [96/23/EF](eu/31996l0023) for å påvise forekomst av visse stoffer og grupper av restmengder. Nærmere bestemt fastsetter overgangstiltakene krav til medlemsstatenes overvåkingsplaner for påvisning av restmengder eller stoffer som omfattes av tiltakets virkeområde.
@@ -179,21 +252,31 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 7. Artikkel 4, 5 og 6 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646) spesifiserer innholdet i de nasjonale risikobaserte planene og de randomiserte overvåkingsplanene med fokus på offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse. Disse planene bør blant annet inneholde listen over kombinasjoner av stoffer og arter, produkter og matriser som inngår i kontrollplanene som reglene for dette utvalget er fastsatt for i denne delegerte forordningen. Medlemsstatene bør i sine nasjonale planer også inkludere en prøvetakingsstrategi som bør ta hensyn til kriteriene i denne delegerte forordningen.
 8. Ettersom reglene fastsatt i vedleggene til direktiv [96/23/EF](eu/31996l0023) om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og restmengder av disse i levende dyr og produkter av animalsk opprinnelse, skal anvendes fram til 14. desember 2022, bør denne forordningen få anvendelse fra 15. desember 2022.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+3 Kommisjonens gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646) av 7. juli 2022 om ensartede praktiske ordninger for gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse, om spesifikt innhold i flerårige nasjonale kontrollplaner og om særlige ordninger for utarbeiding av disse (EUT L 248 av 26.9.2022, s. 32).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 I denne forordningen gjelder definisjonene i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)4, delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)5 og Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808)6.
 
 Videre menes med«offisiell prøve» en prøve tatt av vedkommende myndighet som, med sikte på undersøkelse for restmengder eller stoffer oppført i vedlegg I, har en angivelse av art, type, mengde og prøvetakingsmetode samt opplysninger om dyrets kjønn og dyrets eller det animalske produktets opprinnelse,«målrettet prøvetaking» å ta offisielle prøver med sikte på å maksimere muligheten for å påvise manglende overholdelse av øvre grenseverdier for restmengde eller høyeste tillatte innhold som er fastsatt i unionsregelverket for farmakologisk virksomme stoffer,«randomisert prøvetaking» uttak av én eller flere offisielle prøver for statistikkformål for å framskaffe representative data,«prøvetaking ved mistanke» å ta offisielle prøver som oppfølging av ikke-overensstemmende kontrollresultater eller som oppfølging av enhver mistanke om eller fastslått manglende overholdelse av EU-regler om farmakologisk virksomme stoffer, som fastsatt i forordning [(EU) 2019/2090](eu/32019r2090),«matrise» materialet som en prøve tas fra, inkludert dyrs kroppsdeler, væsker, ekskrementer, vev, produkter av animalsk opprinnelse, animalske biprodukter, fôr og vann,«dyr bestemt til næringsmiddelproduksjon» dyr som ales opp, oppfôres, holdes, slaktes eller høstes med sikte på næringsmiddelproduksjon,«restmengde» en restmengde av stoffer med farmakologisk virkning, av metabolitter av slike stoffer, av nedbrytningsprodukter av slike stoffer og av andre beslektede stoffer som finnes i dyr eller produkter av animalsk opprinnelse.
 
+4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).5 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).6 Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808) av 22. mars 2021 om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) (EUT L 180 av 21.5.2021, s. 84).
+
 ### Artikkel 2
 
-1. Medlemsstatene skal kontrollere bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og forekomsten av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse oppført i vedlegg I.
+1\. Medlemsstatene skal kontrollere bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og forekomsten av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse oppført i vedlegg I.
 
-2. For nasjonale risikobaserte kontrollplaner for produksjon i medlemsstatene, som angitt i artikkel 4 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg II til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene fastsatt i vedlegg III til denne forordningen.
+2\. For nasjonale risikobaserte kontrollplaner for produksjon i medlemsstatene, som angitt i artikkel 4 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg II til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene fastsatt i vedlegg III til denne forordningen.
 
-3. For nasjonale randomiserte overvåkingsplaner for produksjon i medlemsstatene, som angitt i artikkel 5 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg IV til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene fastsatt i vedlegg V til denne forordningen.
+3\. For nasjonale randomiserte overvåkingsplaner for produksjon i medlemsstatene, som angitt i artikkel 5 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg IV til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene fastsatt i vedlegg V til denne forordningen.
 
-4. For nasjonale risikobaserte kontrollplaner for import fra tredjeland, som angitt i artikkel 6 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg VI til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene i vedlegg VII til denne forordningen.
+4\. For nasjonale risikobaserte kontrollplaner for import fra tredjeland, som angitt i artikkel 6 i gjennomføringsforordning [(EU) 2022/1646](eu/32022r1646), skal medlemsstatene kontrollere kombinasjoner av stoffgrupper og varegrupper i samsvar med vedlegg VI til denne forordningen, og de skal vedta en prøvetakingsstrategi i samsvar med kriteriene i vedlegg VII til denne forordningen.
 
 ### Artikkel 3
 
@@ -205,30 +288,55 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 15. desember 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 7. juli 2022.
 
-Utferdiget i Brussel 7. juli 2022.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  | *President* |
 
 ### VEDLEGG I
+
+Gruppe A – Forbudte eller ikke-godkjente farmakologisk virksomme stoffer i dyr bestemt til næringsmiddelproduksjon
 
 1. Stoffer med hormonell og tyreostatisk virkning og beta-agonister som er forbudt i henhold til rådsdirektiv [96/22/EF](eu/31996l0022)7:StilbenerTyreostatikaSteroiderResorsylsyre-laktoner (herunder zeranol)Beta-agonister
 2. Forbudte stoffer oppført i tabell 2 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037):KloramfenikolNitrofuranerDimetridazol, metronidazol, ronidazol og andre nitroimidazolerAndre stoffer
 3. Farmakologisk virksomme stoffer som ikke er oppført i tabell 1 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037)8, eller stoffer som ikke er godkjent for bruk i fôr til dyr bestemt til næringsmiddelproduksjon i Unionen i henhold til europaparlaments- og rådsforordning [(EU) nr. 1831/2003](eu/32003r1831)9:FargestofferPlantevernmidler som definert i europaparlaments- og rådsforordning [(EU) nr. 1107/2009](eu/32009r1107)10 og biocider som definert i europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528)11 som kan brukes i husdyrhold av dyr bestemt for næringsmiddelproduksjonAntimikrobielle stofferKoksidiostatika, histomonostatika og andre antiparasittære midlerProtein- og peptidhormonerAntiinflammatoriske stoffer, beroligende midler og alle andre farmakologisk virksomme stofferAntivirale stoffer
 
+Gruppe B – Farmakologisk virksomme stoffer godkjent for bruk i dyr bestemt til næringsmiddelproduksjon
+
 1. Farmakologisk virksomme stoffer oppført i tabell 1 i vedlegget til forordning [(EU) nr. 37/2010](eu/32010r0037):Antimikrobielle stofferInsektmidler, soppdrepende midler, anthelmintika og andre antiparasittære midlerBeroligende midlerIkke-steroide antiinflammatoriske legemidler (NSAID), kortikosteroider og glukokortikoiderAndre farmakologisk virksomme stoffer
 2. Koksidiostatika og histomonostatika som er godkjent i henhold til Unionens regelverk, og for hvilke det er fastsatt høyeste tillatte innhold og øvre grenseverdier for restmengder i henhold til unionsregelverket
+
+7 Rådsdirektiv [96/22/EF](eu/31996l0022) av 29. april 1996 om forbud mot bruk av visse stoffer med hormonell eller tyreostatisk virkning samt beta-agonister innenfor husdyrhold og om oppheving av direktiv [81/602/EØF](eu/31981l0602), [88/146/EØF](eu/31988l0146) og [88/299/EØF](eu/31988l0299) (EFT L 125 av 23.5.1996, s. 3).
+
+8 Kommisjonsforordning [(EU) nr. 37/2010](eu/32010r0037) av 22. desember 2009 om farmakologisk virksomme stoffer og deres klassifisering med hensyn til grenseverdier for restmengder i næringsmidler av animalsk opprinnelse (EUT L 15 av 20.1.2010, s. 1).
+
+9 Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
+
+10 Europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) av 21. oktober 2009 om omsetning av plantevernmidler og om oppheving av rådsdirektiv [79/117/EØF](eu/31979l0117) og [91/414/EØF](eu/31991l0414) (EUT L 309 av 24.11.2009, s. 1).
+
+11 Europaparlaments- og rådsforordning [(EU) nr. 528/2012](eu/32012r0528) av 22. mai 2012 om tilgjengeliggjøring på markedet og bruk av biocidprodukter (EUT L 167 av 27.6.2012, s. 1).
 
 ### VEDLEGG II
 Kriterier for utvelgelsen av en spesifikk kombinasjon av stoffgrupper og varegrupper for den nasjonale risikobaserte kontrollplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 2)
 
-1. Kombinasjoner av stoffgrupper og varegrupper:*Varegruppe**Stoffgruppe med henvisning til vedlegg I**Storfe, sau og geit**Svin**Dyr av hestefamilien**Fjørfe**Akvakultur (fisk, krepsdyr og andre akvakulturprodukter)**Rå ku-, saue- og geitemelk**Hønseegg og andre egg**Kaniner, oppdrettsvilt, krypdyr og insekter**Honning**Dyretarmer**A nr. 1 bokstav a)XXX**A nr. 1 bokstav b)XXXX***A nr. 1 bokstav c)XXXX****X***A nr. 1 bokstav d)XXX***A nr. 1 bokstav e)XXXXX***A nr. 2XXXXXXXXXXA nr. 3 bokstav a)X►**M1**
-A nr. 3 bokstav b)XXXXXXX◄**M1**A nr. 3 bokstav c)XXXXXXXX**XA nr. 3 bokstav d)XXXXX**A nr. 3 bokstav e)►**M1**
-A nr. 3 bokstav f)XXXXXXX◄**M1**A nr. 3 bokstav g)* Som definert i delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).** Ikke relevant for insekter.*** Relevant bare for krypdyr.**** Relevant bare for fisk.Restmengdene eller stoffgruppene skal analyseres i prøver fra dyr bestemt til næringsmiddelproduksjon, herunder eventuelt ekskrementer, kroppsvæsker og ubearbeidede animalske produkter, fôr, vann og animalske biprodukter.Dersom det er indikasjoner på eller mistanke om at ulovlig behandling kan finne sted for restmengder eller stoffgrupper i arter eller produkter som ikke omfattes av tabellen i dette vedlegget, skal disse kontrollene også tas med i den risikobaserte kontrollplanen for produksjon i medlemsstatene.
+A. **Stoffer i gruppe A**
+
+1. Kombinasjoner av stoffgrupper og varegrupper:*Varegruppe**Stoffgruppe med henvisning til vedlegg I**Storfe, sau og geit**Svin**Dyr av hestefamilien**Fjørfe**Akvakultur (fisk, krepsdyr og andre akvakulturprodukter)**Rå ku-, saue- og geitemelk**Hønseegg og andre egg**Kaniner, oppdrettsvilt, krypdyr og insekter**Honning**Dyretarmer*\*A nr. 1 bokstav a)XXX\*\*A nr. 1 bokstav b)XXXX\*\*\*A nr. 1 bokstav c)XXXX\*\*\*\*X\*\*\*A nr. 1 bokstav d)XXX\*\*\*A nr. 1 bokstav e)XXXXX\*\*\*A nr. 2XXXXXXXXXXA nr. 3 bokstav a)X►**M1**
+A nr. 3 bokstav b)XXXXXXX◄**M1**A nr. 3 bokstav c)XXXXXXXX\*\*XA nr. 3 bokstav d)XXXXX\*\*A nr. 3 bokstav e)►**M1**
+A nr. 3 bokstav f)XXXXXXX◄**M1**A nr. 3 bokstav g)\* Som definert i delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).\*\* Ikke relevant for insekter.\*\*\* Relevant bare for krypdyr.\*\*\*\* Relevant bare for fisk.Restmengdene eller stoffgruppene skal analyseres i prøver fra dyr bestemt til næringsmiddelproduksjon, herunder eventuelt ekskrementer, kroppsvæsker og ubearbeidede animalske produkter, fôr, vann og animalske biprodukter.Dersom det er indikasjoner på eller mistanke om at ulovlig behandling kan finne sted for restmengder eller stoffgrupper i arter eller produkter som ikke omfattes av tabellen i dette vedlegget, skal disse kontrollene også tas med i den risikobaserte kontrollplanen for produksjon i medlemsstatene.
 2. Kriterier for utvelgelse av spesifikke stoffer for testing innenfor hver stoffgruppe:Hyppigheten av påvist manglende overholdelse observert i medlemsstaten eller rapportert i resultatene fra andre medlemsstater, eller i prøver fra tredjeland, særlig når det rapporteres i henhold til hurtigvarslingssystemet for næringsmidler og fôr (RASFF) eller systemet for administrativ bistand og samarbeid (AAC), eller når det foreligger bevis for at stoffer som ikke er godkjent for bruk i dyr bestemt til næringsmiddelproduksjon i Unionen, brukes i tredjeland.Tilgang til egnede laboratoriemetoder og analysestandarder.Farmakologisk virksomme stoffer som sannsynligvis vil misbrukes for å øke produksjonen eller øke fôrkonverteringseffektiviteten.Forbudte eller ikke-godkjente stoffer der det er indikasjoner på misbruk.Mulig risiko for forbrukere eller visse befolkningsgrupper som følge av inntak av restmengder som finnes i næringsmidler, idet det tas hensyn til relevante opplysninger fra blant andre Det europeiske legemiddelbyrå, Den europeiske myndighet for næringsmiddeltrygghet og Codex Alimentarius' felles ekspertgruppe for tilsetningsstoffer i næringsmidler, eller, dersom det ikke foreligger slike opplysninger, fra andre informasjonskilder, for eksempel vitenskapelige publikasjoner eller nasjonale risikovurderinger.
 3. Kriterier for utvelgelsen av dyr og produkter av animalsk opprinnelse:Indikasjon på bruk av spesifikke farmakologisk virksomme stoffer, herunder lemlestelse i ørene eller halen, eller forekomst av injeksjonssteder.Sekundære kjønnskarakteristika, atferdsendringer, tegn på sykdom eller kroniske lidelser, avvikende helsestatus for spesifikke dyr innenfor en gruppe.Dyrenes kjønn, alder og drektighetsstatus.Dyrets veterinærhistorikk og helsesertifikat.Dyr med god fysisk kroppsbygning og velutviklede muskler med lite fett.
 
+B. **Stoffer i gruppe B**
+
 1. Kriterier for utvelgelse av spesifikke stoffer for testing innenfor hver stoffgruppe:Hyppighet av påvist manglende overholdelse i medlemsstatens prøver, i andre medlemsstaters prøver eller i prøver fra tredjeland, særlig når dette rapporteres i henhold til RASFF eller AAC.Tilgang til egnede laboratoriemetoder og analysestandarder.Opplysninger om de mengdene legemidler til dyr som produseres, importeres, eksporteres, markedsføres og selges for en bestemt dyreart bestemt til næringsmiddelproduksjon.Opplysninger om distribusjonskjeden for legemidler til dyr, det nasjonale registeret over farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller tilsetningsstoffer i fôr, opplysninger om de vanligste forskrivningsmønstrene.Sannsynligheten for misbruk av de farmakologisk virksomme stoffene.Øvre grenseverdier for restmengder og høyeste tillatte innhold for farmakologisk virksomme stoffer og tilsetningsstoffer i fôr, herunder restriksjoner (f.eks. ikke til dyr i laktasjon).Formuleringer av legemidler til dyr som det er fastsatt lange tilbakeholdingstider for etter at dyret er behandlet, for å sikre at spiselige, ubearbeidede animalske produkter overholder EUs øvre grenseverdier.Eventuell behandling av dyr bestemt til næringsmiddelproduksjon i henhold til artikkel 113 og 114 i europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)12.
 2. Kriterier for utvelgelsen av stoffgrupper og dyr og produkter av animalsk opprinnelse:Opplysninger om markedsføringstillatelser for legemidler til dyr som inneholder farmakologisk virksomme stoffer for bestemte dyrearter og produksjonsklasser.Opplysninger om markedsføringstillatelser for fôrtilsetningsstoffer for bestemte dyrearter og produksjonsklasser.Opplysninger om hvor ofte stoffer fra bestemte stoffkategorier brukes til bestemte dyrearter.Hyppigheten av påvist manglende overholdelse med hensyn til restmengder av farmakologisk virksomme stoffer og fôrtilsetningsstoffer per produksjonskategori.Opplysninger om forekomst av resistens mot antimikrobielle midler i visse dyreproduksjonssektorer.
+
+12 Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).
 
 ### VEDLEGG III
 Kriterier for prøvetakingsstrategi for den nasjonale risikobasert overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 2)
@@ -245,11 +353,22 @@ Kriterier for prøvetakingsstrategi for den nasjonale risikobasert overvåkingsp
 ### VEDLEGG IV
 Kriterier for utvelgelse av en spesifikk kombinasjon av stoffgrupper og varegrupper for den nasjonal randomiserte overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 2 nr. 3)
 
+►**M1** **Stoffer i gruppe A**
+
 Prøvene som består av kombinasjoner av stoffgrupper og varegrupper, skal være forskjellige fra prøvene som er nevnt i de nasjonale risikobaserte kontrollplanene for produksjon i medlemsstatene. ◄**M1**
 
-Kombinasjoner av stoffgrupper og varegrupper:*Stoffgruppe**Storfe, sau og geit**Svin**Dyr av hestefamilien**Fjørfe**Akvakultur (fisk, krepsdyr og andre akvakulturprodukter)**Rå ku-, saue- og geitemelk**Hønseegg og andre egg**Kaniner, oppdrettsvilt, krypdyr og insekter**Honning*B nr. 1 bokstav a)XXXXXXXXXB nr. 1 bokstav b)XXXXXXXXXB nr. 1 bokstav c)XXXXB nr. 1 bokstav d)XXXXXX**►M1**
-B nr. 1 bokstav e)◄**M1****►M1**
-B nr. 2XXXXXX◄**M1**
+**Stoffer i gruppe B**
+
+Kombinasjoner av stoffgrupper og varegrupper:
+
+| *Stoffgruppe* | *Storfe, sau og geit* | *Svin* | *Dyr av hestefamilien* | *Fjørfe* | *Akvakultur (fisk, krepsdyr og andre akvakulturprodukter)* | *Rå ku-, saue- og geitemelk* | *Hønseegg og andre egg* | *Kaniner, oppdrettsvilt, krypdyr og insekter* | *Honning* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| B nr. 1 bokstav a) | X | X | X | X | X | X | X | X | X |
+| B nr. 1 bokstav b) | X | X | X | X | X | X | X | X | X |
+| B nr. 1 bokstav c) | X | X | X |  |  |  |  | X |  |
+| B nr. 1 bokstav d) | X | X | X | X |  | X |  | X |  |
+| **►M1**<br>B nr. 1 bokstav e) |  |  |  |  |  |  |  |  | ◄**M1** |
+| **►M1**<br>B nr. 2 | X | X | X | X |  |  | X | X | ◄**M1** |
 
 Hver prøve for en bestemt type dyr eller produkt skal analyseres for et så bredt spekter av stoffgruppene oppført i tabellen i dette vedlegget som praktisk mulig.
 
@@ -280,11 +399,25 @@ Kriterier for prøvetakingsstrategi for den nasjonale risikobaserte kontrollplan
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/1646](eu/32022r1646). Dette er grunnrettsakten, Grunnrettsakten er endret av forordning [(EU) 2024/2563](eu/32024r2563). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) del 1.1 nr. 11i, [kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31x og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164zf er innarbeidet nedenfor.
 
+►**B** Forordning [(EU) 2022/1646](eu/32022r1646)
+
+som endret ved
+
 - ►**M1** Forordning [(EU) 2024/2563](eu/32024r2563)
+
+►EØS-tilpasning som følge av [EØS-avtalen vedlegg I kap. I](avtale/avt-1992-05-02-1-v1/kapI) og [kap. II](avtale/avt-1992-05-02-1-v1/kapII) og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII).
 
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/1646
 av 23. september 2022
 om ensartede praktiske ordninger for gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse, om spesifikt innhold i flerårige nasjonale kontrollplaner og om særlige ordninger for utarbeiding av disse
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til Traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som iverksettes for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 19 nr. 3 bokstav a) og b), og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter regler for gjennomføring av offentlig kontroll og andre offentlige tiltak som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes på området næringsmidler og næringsmiddeltrygghet. Særlig kreves det i henhold til artikkel 9 i nevnte forordning at vedkommende myndigheter regelmessig gjennomfører offentlig kontroll av alle driftsansvarlige på grunnlag av en risikovurdering og med passende hyppighet. I henhold til artikkel 109 i nevnte forordning skal medlemsstatene sikre at vedkommende myndigheter gjennomfører offentlig kontroll på grunnlag av en flerårig nasjonal kontrollplan («MANCP»). Videre angir forordning [(EU) 2017/625](eu/32017r0625) det generelle innholdet i kontrollplanen, inkludert kravet om at medlemsstatene i sin flerårige nasjonale kontrollplan inkluderer offentlig kontroll av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse. Ved forordning [(EU) 2017/625](eu/32017r0625) gis Kommisjonen myndighet til å fastsette særlig tilleggsinnhold i den flerårige nasjonale kontrollplanen og særlige tilleggsordninger for å utarbeide den, samt en ensartet laveste frekvens for offentlig kontroll, idet det tas hensyn til fare og risiko knyttet til stoffene omhandlet i artikkel 19 nr. 1 i den nevnte forordningen.
 2. Forordning [(EU) 2017/625](eu/32017r0625) opphevet rådsdirektiv [96/23/EF](eu/31996l0023)2 med virkning fra 14. desember 2019 og fastsetter de relevante overgangstiltakene. I henhold til disse overgangstiltakene skal vedkommende myndigheter fram til 14. desember 2022 fortsette å gjennomføre den nødvendige offentlige kontrollen i samsvar med direktiv [96/23/EF](eu/31996l0023) for å påvise forekomst av visse stoffer og grupper av restmengder. Nærmere bestemt fastsetter overgangstiltakene krav til medlemsstatenes overvåkingsplaner for påvisning av restmengder eller stoffer som omfattes av tiltakets virkeområde.
@@ -307,6 +440,24 @@ om ensartede praktiske ordninger for gjennomføringen av offentlige kontroller a
 19. Ettersom reglene fastsatt i vedleggene til direktiv [96/23/EF](eu/31996l0023) om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og restmengder av disse i levende dyr og produkter av animalsk opprinnelse, skal anvendes fram til 14. desember 2022, bør denne forordningen få anvendelse fra 15. desember 2022.
 20. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+3 Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).
+
+4 Kommisjonsforordning [(EF) nr. 1950/2006](eu/32006r1950) av 13. desember 2006 om opprettelse av en liste over stoffer som er vesentlige for behandling av dyr av hestefamilien, og stoffer som gir ytterligere kliniske fordeler, i samsvar med europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) om innføring av et fellesskapsregelverk for veterinærpreparater (EUT L 367 av 22.12.2006, s. 33).
+
+5 Delegert kommisjonsforordning [(EU) 2022/1644](eu/32022r1644) av 7. juli 2022 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med særlige krav til gjennomføringen av offentlige kontroller av bruken av farmakologisk virksomme stoffer som er godkjent som legemidler til dyr eller som tilsetningsstoffer i fôr, og restmengder av disse, og av forbudte eller ikke-godkjente farmakologisk virksomme stoffer og restmengder av disse (EUT L 248 av 26.9.2022, s. 3).
+
+6 Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808) av 22. mars 2021 om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) (EUT L 180 av 21.5.2021, s. 84).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+8 [97/747/EF](eu/31997d0747) Kommisjonsvedtak av 27. oktober 1997 om fastsettelse av omfang og hyppighet av prøvetakingen omhandlet i rådsdirektiv [96/23/EF](eu/31996l0023) med sikte på overvåking av visse stoffer og deres restmengder i levende dyr og animalske produkter (EFT L 303 av 6.11.1997, s. 12).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### KAPITTEL I
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
@@ -317,6 +468,8 @@ Med hensyn til de offentlige kontrollene av bruken av farmakologisk virksomme st
 ### Artikkel 2. Definisjoner
 
 I denne forordningen får definisjonene i forordning [(EF) nr. 178/2002](eu/32002r0178), delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090)9, gjennomføringsforordning [(EU) 2019/808](eu/32019r0808) og delegert forordning (EU) 2019/1644 anvendelse.
+
+9 Delegert kommisjonsforordning [(EU) 2019/2090](eu/32019r2090) av 19. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til tilfeller av mistanke om eller fastslått manglende overholdelse av Unionens regler som gjelder for bruken eller restmengder av farmakologisk virksomme stoffer som er godkjent i veterinærpreparater eller som tilsetningsstoffer i fôrvarer, eller av Unionens regler som gjelder for bruken eller restmengder av forbudte eller ikke-tillatte farmakologisk virksomme stoffer (EUT L 317 av 9.12.2019, s. 28).
 
 ### KAPITTEL II
 SÆRLIG TILLEGGSINNHOLD I MANCP
@@ -351,16 +504,26 @@ Kontroll av bruken av farmakologisk virksomme stoffer som er godkjent som legemi
 
 Den nasjonale risikobaserte kontrollplanen for import fra tredjeland skal inneholde følgende:Listen over kombinasjoner av stoffer og arter, produkter og matriser i samsvar med vedlegg VI til delegert forordning [(EU) 2022/1644](eu/32022r1644).Prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg VII til delegert forordning [(EU) 2022/1644](eu/32022r1644).De faktiske prøvetakingsfrekvensene for kontroller gjennomført ved grensekontrollstasjonene slik medlemsstaten har fastsatt, idet det tas hensyn til den årlige laveste prøvetakingsfrekvensen fastsatt i vedlegg III til denne forordningen. Stikkprøvene som tas med sikte på offentlig kontroll gjennomført i henhold til artikkel 65 nr. 1, 2 og 4 i forordning [(EU) 2017/625](eu/32017r0625), skal imidlertid ikke anses som prøver som bidrar til å nå laveste prøvetakingsfrekvens i vedlegg III til denne forordningen.Analysemetodene som skal brukes, og ytelsesegenskapene deres.De detaljerte opplysningene nevnt i artikkel 7 nr. 1 og 2.
 
+10 Kommisjonens gjennomføringsforordning [(EU) 2019/627](eu/32019r0627) av 15. mars 2019 om fastsettelse av ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om endring av kommisjonsforordning [(EF) nr. 2074/2005](eu/32005r2074) når det gjelder offentlig kontroll (EUT L 131 av 17.5.2019, s. 51).
+
+►**M1**
+
 ### Artikkel 7. Andre opplysninger i de nasjonale risikobaserte kontrollplanene og den randomiserte overvåkingsplanen
 
-1. De nasjonale risikobaserte kontrollplanene nevnt i artikkel 4 og 6 og den nasjonale randomiserte overvåkingsplanen nevnt i artikkel 5 skal inneholde følgende opplysninger:hvilke arter det skal tas prøver av og prøvetakingssted;den nasjonale lovgivningen for bruk av farmakologisk virksomme stoffer, særlig bestemmelser om forbud mot eller tillatelse til å bruke slike stoffer, samt distribusjon, markedsføring og administrering av dem, i den grad nevnte lovgivning ikke er harmonisert ved EUs regelverk;hvilke vedkommende myndigheter som har ansvaret for å gjennomføre planene
+1\. De nasjonale risikobaserte kontrollplanene nevnt i artikkel 4 og 6 og den nasjonale randomiserte overvåkingsplanen nevnt i artikkel 5 skal inneholde følgende opplysninger:hvilke arter det skal tas prøver av og prøvetakingssted;den nasjonale lovgivningen for bruk av farmakologisk virksomme stoffer, særlig bestemmelser om forbud mot eller tillatelse til å bruke slike stoffer, samt distribusjon, markedsføring og administrering av dem, i den grad nevnte lovgivning ikke er harmonisert ved EUs regelverk;hvilke vedkommende myndigheter som har ansvaret for å gjennomføre planene
 
-2. De nasjonale risikobaserte kontrollplanene nevnt i artikkel 4 og 6 skal, i tillegg til opplysningene spesifisert i nr. 1, inneholde følgende:en begrunnelse for de utvalgte stoffene, artene, produktene og matrisene inkludert i planene basert på kriteriene oppført i vedlegg II og VI til delegert forordning [(EU) 2022/1644](eu/32022r1644), herunder en begrunnelse for hvordan kriteriene oppført i disse vedleggene ble tatt i betraktning, også dersom det ikke ble gjort noen endringer i forhold til planene fra det foregående året.en begrunnelse for hvordan tilfeller av manglende overholdelse i den relevante medlemsstaten som er påvist i de tre foregående kalenderårene ble tatt i betraktning for å optimalisere planene.Medlemsstatene er ikke forpliktet til å framlegge informasjon som allerede er gitt i den generelle delen av den flerårige nasjonale kontrollplanen i samsvar med artikkel 110 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625).
+2\. De nasjonale risikobaserte kontrollplanene nevnt i artikkel 4 og 6 skal, i tillegg til opplysningene spesifisert i nr. 1, inneholde følgende:en begrunnelse for de utvalgte stoffene, artene, produktene og matrisene inkludert i planene basert på kriteriene oppført i vedlegg II og VI til delegert forordning [(EU) 2022/1644](eu/32022r1644), herunder en begrunnelse for hvordan kriteriene oppført i disse vedleggene ble tatt i betraktning, også dersom det ikke ble gjort noen endringer i forhold til planene fra det foregående året.en begrunnelse for hvordan tilfeller av manglende overholdelse i den relevante medlemsstaten som er påvist i de tre foregående kalenderårene ble tatt i betraktning for å optimalisere planene.Medlemsstatene er ikke forpliktet til å framlegge informasjon som allerede er gitt i den generelle delen av den flerårige nasjonale kontrollplanen i samsvar med artikkel 110 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625).
+
+◄**M1**
 
 ### KAPITTEL III
 FRAMLEGGING OG EVALUERING AV PLANENE, OG FRAMLEGGING AV DATA FRA MEDLEMSSTATENE
 
+►**M1**
+
 ### Artikkel 8. Framlegging og evaluering av de nasjonale risikobaserte kontrollplanene og den nasjonale randomiserte overvåkingsplanen
+
+◄**M1**
 
 Senest 31. mars hvert år skal medlemsstatene framlegge elektronisk for Kommisjonen, i et avtalt format, reviderte og oppdaterte nasjonale risikobaserte kontrollplaner og randomiserte overvåkingsplaner for inneværende kalenderår.
 
@@ -370,11 +533,15 @@ Senest 31. mars det påfølgende året skal medlemsstatene framlegge for Kommisj
 
 Dersom Kommisjonen anser at planen vil svekke effektiviteten av offentlige kontroller, skal oppdaterte versjoner av de berørte planene framlegges tidligere på anmodning fra, og innen en rimelig frist fastsatt av Kommisjonen.
 
+►**M1**
+
 ### Artikkel 9. Medlemsstatenes framlegging av data
 
 Senest den 30. juni hvert år skal medlemsstatene oversende EFSA samtlige data fra det foregående året, herunder resultater fra screeningmetoder som oppfyller kravene der det ikke er utført bekreftelsesanalyser, som er samlet inn i henhold til kontrollplanene og overvåkingsplanen omhandlet i artikkel 3. Disse dataene skal også inneholde typen oppfølgingstiltak som vedkommende myndigheter har truffet med hensyn til dyr eller produkter av animalsk opprinnelse der det i det foregående året er påvist restmengder som ikke er i samsvar med kravene.
 
 Senest den 31. august hvert år skal medlemsstatene ferdigstille datavalideringen, revisjonen og den endelige godtakelsen i EFSAs datalagringssystemer.
+
+◄**M1**
 
 ### KAPITTEL IV
 GENERELLE BESTEMMELSER
@@ -393,15 +560,52 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 15. desember 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 23. september 2022.
 
-Utferdiget i Brussel 23. september 2022.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  | *President* |
 
 ### VEDLEGG I
 Laveste prøvetakingsfrekvens per medlemsstat i den nasjonale risikobaserte kontrollplanen for produksjon i medlemsstatene (som nevnt i artikkel 4 bokstav c))
 
-Minste antall prøver er som følger:Prøvetakingsfrekvens – Stoffer i gruppe AStorfeMinst 0,25 % av de slaktede dyrene (minst 25 % av prøvene skal tas fra levende dyr på driftsenheten og minst 25 % av prøvene skal tas på slakteriet)Sauer og geiterMinst 0,01 % av de slaktede dyrene per artSvinMinst 0,02 % av de slaktede dyreneDyr av hestefamilienMinst 0,02 % av de slaktede dyreneFjørfeFor hver kategori av fjørfe som vurderes (slaktekyllinger, høner tatt ut av produksjon, kalkuner og annet fjørfe), minst 1 prøve per 400 tonn årlig produksjon (dødvekt)Akvakultur (fisk, krepsdyr og andre akvakulturprodukter)Minst 1 prøve per 300 tonn årlig akvakulturproduksjon for de første 60 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 2 000 tonn i tilleggKu-, saue- og geitemelkMinst 1 prøve per 30 000 tonn årlig produksjon av melkHønseegg og andre eggMinst 1 prøve per 2 000 tonn årlig produksjon av egg per artKaniner, oppdrettsvilt, krypdyr og insekterMinst 1 prøve per 100 tonn årlig produksjon (dødvekt) av kaniner, oppdrettsvilt eller krypdyr for de første 3 000 produksjonstonnene og deretter 1 prøve for hvert 1 000 tonn i tillegg
-Minst 1 prøve per 25 tonn årlig produksjon av insekterHonningMinst 1 prøve per 50 tonn årlig akvakulturproduksjon for de første 5 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 500 tonn i tilleggDyretarmer*Minst 1 prøve per 300 tonn årlig produksjon
+Minste antall prøver er som følger:
+
+|  |  |
+| --- | --- |
+|  | Prøvetakingsfrekvens – Stoffer i gruppe A |
+| Storfe | Minst 0,25 % av de slaktede dyrene (minst 25 % av prøvene skal tas fra levende dyr på driftsenheten og minst 25 % av prøvene skal tas på slakteriet) |
+| Sauer og geiter | Minst 0,01 % av de slaktede dyrene per art |
+| Svin | Minst 0,02 % av de slaktede dyrene |
+| Dyr av hestefamilien | Minst 0,02 % av de slaktede dyrene |
+| Fjørfe | For hver kategori av fjørfe som vurderes (slaktekyllinger, høner tatt ut av produksjon, kalkuner og annet fjørfe), minst 1 prøve per 400 tonn årlig produksjon (dødvekt) |
+| Akvakultur (fisk, krepsdyr og andre akvakulturprodukter) | Minst 1 prøve per 300 tonn årlig akvakulturproduksjon for de første 60 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 2 000 tonn i tillegg |
+| Ku-, saue- og geitemelk | Minst 1 prøve per 30 000 tonn årlig produksjon av melk |
+| Hønseegg og andre egg | Minst 1 prøve per 2 000 tonn årlig produksjon av egg per art |
+| Kaniner, oppdrettsvilt, krypdyr og insekter | Minst 1 prøve per 100 tonn årlig produksjon (dødvekt) av kaniner, oppdrettsvilt eller krypdyr for de første 3 000 produksjonstonnene og deretter 1 prøve for hvert 1 000 tonn i tillegg<br>Minst 1 prøve per 25 tonn årlig produksjon av insekter |
+| Honning | Minst 1 prøve per 50 tonn årlig akvakulturproduksjon for de første 5 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 500 tonn i tillegg |
+| Dyretarmer\* | Minst 1 prøve per 300 tonn årlig produksjon |
+
+\* Som definert i delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).
+
+|  |  |
+| --- | --- |
+|  | Prøvetakingsfrekvens – Stoffer i gruppe B |
+| Storfe | Minst 0,10 % av de slaktede dyrene |
+| Sauer og geiter | Minst 0,02 % av de slaktede dyrene per art |
+| Svin | Minst 0,02 % av de slaktede dyrene |
+| Dyr av hestefamilien | Minst 0,02 % av de slaktede dyrene |
+| Fjørfe | For hver kategori av fjørfe som vurderes (slaktekyllinger, høner tatt ut av produksjon, kalkuner og annet fjørfe), minst 1 prøve per 500 tonn årlig produksjon (dødvekt) |
+| Akvakultur (fisk, krepsdyr og andre akvakulturprodukter) | Minst 1 prøve per 300 tonn årlig akvakulturproduksjon for de første 60 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 2 000 tonn i tillegg |
+| Ku-, saue- og geitemelk | Minst 1 prøve per 30 000 tonn årlig produksjon av melk |
+| Hønseegg og andre egg | Minst 1 prøve per 2 000 tonn årlig produksjon av egg per art |
+| Kaniner, oppdrettsvilt, krypdyr og insekter | Minst 1 prøve per 50 tonn årlig produksjon (dødvekt) av kaniner, oppdrettsvilt eller krypdyr for de første 3 000 produksjonstonnene og deretter 1 prøve for hvert 500 tonn i tillegg<br>Minst 1 prøve per 25 tonn årlig produksjon av insekter |
+| Honning | Minst 1 prøve per 50 tonn årlig akvakulturproduksjon for de første 5 000 produksjonstonnene og deretter 1 prøve i tillegg for hvert 500 tonn i tillegg |
+
+**Tilleggsbestemmelser**
 
 1. Dersom det er relevant for å verifisere overholdelsen av EU-lovgivningen om bruk av forbudte eller ikke-tillatte farmakologisk virksomme stoffer, kan medlemsstatene ta prøver fra fôr, vann eller en annen relevant matrise eller et annet relevant miljø og regne med disse for å oppnå de laveste prøvetakingsfrekvensene som er fastsatt i dette vedlegget.►**M1**
 2. Kontroller av hver kombinasjon av undergrupper av stoffer i gruppe A og varegrupper som er oppført i vedlegg II til delegert forordning [(EU) 2022/1644](eu/32022r1644) skal utføres årlig på minst 5% av prøvene som er tatt i samsvar med tabellen i dette vedlegget for den aktuelle varegruppen. Denne minsteprosenten gjelder ikke for dyretarmer og anvendes ikke for stoffgruppene A nr. 3 bokstav b) og A nr. 3 bokstav f) for alle varegrupper.
@@ -421,7 +625,38 @@ Minst 1 prøve per 25 tonn årlig produksjon av insekterHonningMinst 1 prøve pe
 ### VEDLEGG II
 Laveste prøvetakingsfrekvens per medlemsstat i den nasjonale randomiserte overvåkingsplanen for produksjon i medlemsstatene (som nevnt i artikkel 5 bokstav c))
 
-Minste antall prøver er som følger:MedlemsstatMinste antall prøverMedlemsstatMinste antall prøverBelgia195Litauen50Bulgaria120Luxembourg10Tsjekkia180Ungarn165Danmark100Malta10Tyskland1 425Nederland300Estland25Østerrike150Irland85Polen650Hellas185Portugal175Spania805Romania335Frankrike1 150Slovenia35Kroatia70Slovakia95Italia1 050Finland95Kypros15Sverige175Latvia35Det forente kongerike (Nord-Irland)*30
+Minste antall prøver er som følger:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Medlemsstat | Minste antall prøver | Medlemsstat | Minste antall prøver |
+| Belgia | 195 | Litauen | 50 |
+| Bulgaria | 120 | Luxembourg | 10 |
+| Tsjekkia | 180 | Ungarn | 165 |
+| Danmark | 100 | Malta | 10 |
+| Tyskland | 1 425 | Nederland | 300 |
+| Estland | 25 | Østerrike | 150 |
+| Irland | 85 | Polen | 650 |
+| Hellas | 185 | Portugal | 175 |
+| Spania | 805 | Romania | 335 |
+| Frankrike | 1 150 | Slovenia | 35 |
+| Kroatia | 70 | Slovakia | 95 |
+| Italia | 1 050 | Finland | 95 |
+| Kypros | 15 | Sverige | 175 |
+| Latvia | 35 | Det forente kongerike (Nord-Irland)\* | 30 |
+
+\* I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i denne forordningen Det forente kongerike med hensyn til Nord-Irland.
+
+►EØS tilpasning
+
+|  |  |
+| --- | --- |
+| Iceland | 10 |
+| Norway | 95 |
+
+◄EØS tilpasning
+
+**Tilleggsbestemmelser:**
 
 1. Prøvene som tas i henhold til overvåkingsplanen, skal fordeles på de ulike artene og produktene etter hvor stor andel de utgjør av den nasjonale produksjonen og forbruket.
 2. 25 % av prøvene som tas i henhold til denne planen, skal analyseres for stoffer i gruppe A.
@@ -436,8 +671,35 @@ Kontroll som gjennomføres i henhold til nødtiltak og skjerpet offentlig kontro
 
 Kontroll av næringsmiddelprodukter fra visse tredjeland oppført i vedlegg II til Kommisjonens gjennomføringsforordning [(EU) 2019/2129](eu/32019r2129)2, som Unionen har inngått avtaler med om likeverdighet for fysisk kontroll, skal ikke regnes med for å oppnå laveste prøvetakingsfrekvens fastsatt i dette vedlegget.
 
-Minste antall prøver er som følger:Prøvetakingsfrekvens for stoffer i gruppe A og gruppe BStorfe (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter)Minst 7 % av de importerte forsendelseneSauer/geiter (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter)Minst 3 % av de importerte forsendelseneSvin (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter)Minst 3 % av de importerte forsendelseneDyr av hestefamilien (herunder levende dyr beregnet på slakting for konsum, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter)Minst 3 % av de importerte forsendelseneFjørfe* (herunder levende dyr, fjørfekjøtt og fjørfevarer)Minst 7 % av de importerte forsendelseneAkvakultur (fisk, krepsdyr og andre akvakulturprodukter)Minst 7 % av de importerte forsendelseneMelk (herunder rå melk, melkeprodukter, råmelk og råmelkbaserte produkter fra alle arter)Minst 7 % av de importerte forsendelseneEgg (herunder egg og eggprodukter fra alle fuglearter)Minst 12 % av de importerte forsendelseneKaniner, oppdrettsvilt og viltlevende vilt**, krypdyr og insekter (herunder levende dyr, kjøtt og kjøttprodukter av nevnte arter og produkter avledet fra disse artene)Minst 12 % av de importerte forsendelsene for hver artHonning (herunder honning- og andre biavlsprodukter)Minst 7 % av de importerte forsendelseneDyretarmer***Minst 2 % av de importerte forsendelsene
+Minste antall prøver er som følger:
+
+|  |  |
+| --- | --- |
+|  | Prøvetakingsfrekvens for stoffer i gruppe A og gruppe B |
+| Storfe (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter) | Minst 7 % av de importerte forsendelsene |
+| Sauer/geiter (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter) | Minst 3 % av de importerte forsendelsene |
+| Svin (herunder levende dyr, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter) | Minst 3 % av de importerte forsendelsene |
+| Dyr av hestefamilien (herunder levende dyr beregnet på slakting for konsum, kjøtt, kvernet kjøtt, mekanisk utbeinet kjøtt, bearbeidet kjøtt og kjøttprodukter) | Minst 3 % av de importerte forsendelsene |
+| Fjørfe\* (herunder levende dyr, fjørfekjøtt og fjørfevarer) | Minst 7 % av de importerte forsendelsene |
+| Akvakultur (fisk, krepsdyr og andre akvakulturprodukter) | Minst 7 % av de importerte forsendelsene |
+| Melk (herunder rå melk, melkeprodukter, råmelk og råmelkbaserte produkter fra alle arter) | Minst 7 % av de importerte forsendelsene |
+| Egg (herunder egg og eggprodukter fra alle fuglearter) | Minst 12 % av de importerte forsendelsene |
+| Kaniner, oppdrettsvilt og viltlevende vilt\*\*, krypdyr og insekter (herunder levende dyr, kjøtt og kjøttprodukter av nevnte arter og produkter avledet fra disse artene) | Minst 12 % av de importerte forsendelsene for hver art |
+| Honning (herunder honning- og andre biavlsprodukter) | Minst 7 % av de importerte forsendelsene |
+| Dyretarmer\*\*\* | Minst 2 % av de importerte forsendelsene |
+
+\* Som definert i nr. 1.3 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+
+\*\* Som definert i nr. 1.5 og 1.6 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+
+\*\*\* Som definert i delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).
+
+**Tilleggsbestemmelser:**
 
 1. Ved beregning av laveste prøvetakingsfrekvenser oppført i dette vedlegget, skal medlemsstatene benytte de nyeste dataene om antallet forsendelser som innføres til Unionen gjennom deres grensekontrollstasjoner, som minst er fra forrige år eller høyst fra to år siden.
 2. Dersom antall forsendelser som føres inn i Unionen, er lavere enn det antall forsendelser som tilsvarer én prøve, kan det foretas prøvetaking én gang i løpet av to eller tre år. Dersom antallet forsendelser som innføres til Unionen over en treårsperiode, er lavere enn antallet forsendelser som tilsvarer én prøve, skal det tas minst én prøve én gang hvert tredje år.
 3. Prøver som tas med henblikk på andre kontrollplaner som er relevante for å analysere farmakologisk virksomme stoffer og deres restmengder (for eksempel forurensende stoffer, rester av plantevernmidler osv.), kan også benyttes til kontroll av farmakologisk virksomme stoffer, forutsatt at kravene til kontroll av farmakologisk virksomme stoffer er oppfylt.
+
+1 Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130) av 25. november 2019 om fastsettelse av nærmere regler for de oppgavene som skal utføres under og etter dokumentkontroll, identitetskontroll og fysisk kontroll av dyr og varer som omfattes av offentlig kontroll på grensekontrollstasjonene (EUT L 321 av 12.12.2019, s. 128).
+
+2 Kommisjonens gjennomføringsforordning [(EU) 2019/2129](eu/32019r2129) av 25. november 2019 om fastsettelse av regler for en ensartet anvendelse av hyppigheten av identitetskontroll og fysisk kontroll av visse forsendelser av dyr og varer som innføres til Unionen (EUT L 321 av 12.12.2019, s. 122)

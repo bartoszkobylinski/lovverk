@@ -641,4 +641,8 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 
 Fra samme dato oppheves [lov 17. juli 1953 nr. 9](lov/1953-07-17-9) om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret.
 
+1 Fra 1 jan 2011 iflg. [res. 25 juni 2010 nr. 942](forskrift/2010-06-25-942), med unntak av endringen i vannressursloven som trådte ikr. straks.
+
 ### § 41. Endringer i andre lover
+
+– – –

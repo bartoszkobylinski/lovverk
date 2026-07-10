@@ -108,6 +108,8 @@ Maksimumssatsene skal gjelde med mindre fylkestinget eller kommunestyret vedtar 
 
 Skattyter som skattlegges etter reglene i [skatteloven kapittel 19](lov/1999-03-26-14/kap19), svarer skatt til staten med 25 pst. av inntekten. Dersom det følger av lov 28. juni 1997 nr. 191 om folketrygd § 23-3 annet ledd nr. 1 bokstav c, trygdeavtaler med andre land eller forordning [(EF) nr. 883/2004](eu/32004r0883) at skattyter ikke skal betale trygdeavgift til Norge eller bare skal betale trygdeavgift med lav sats, skal skattesatsen etter første punktum reduseres tilsvarende.
 
+1 Skal vel være [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19), Lovtidend-redaksjonens anm.
+
 ## Kapittel 4 – Skatt etter [lov om skattlegging av undersjøiske petroleumsforekomster mv](lov/1975-06-13-35).
 
 ### § 4-1. Ordinære skatter

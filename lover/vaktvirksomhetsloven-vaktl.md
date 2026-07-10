@@ -200,6 +200,8 @@ Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold a
 
 > Endret ved [lov 19 juni 2009 nr. 85](lov/2009-06-19-85) (ikr. 1 apr 2011 iflg. [res. 1 apr 2011 nr. 342](forskrift/2011-04-01-342), tidligere § 17).
 
+1 Fra 1 jan 2002 iflg. [res. 21 des 2001 nr. 1492](forskrift/2001-12-21-1492) for så vidt gjelder ervervsmessig vaktvirksomhet som drives av private, med unntak av [§ 12](lov/2001-01-05-1/§12), [§ 13](lov/2001-01-05-1/§13) og [§ 14](lov/2001-01-05-1/§14) annet ledd. Ved [res. 30 apr 2004 nr. 680](forskrift/2004-04-30-680) er gjenstående deler av loven satt ikr. 1 juli 2004, for så vidt gjelder ervervsmessig vaktvirksomhet som drives av private. For ervervsmessig vaktvirksomhet som drives av forvaltningsorgan, jf. loven [§ 1](lov/2001-01-05-1/§1), gjelder loven fra 1 jan 2005.
+
 ## § 22. Overgangsbestemmelse
 
 Loven gjelder også for den som har fått tillatelse til vaktvirksomhet gitt med hjemmel i [lov om vaktvirksomhet av 13. mai 1988 nr. 29](lov/1988-05-13-29). Vedkommende kan fortsette virksomheten uten å søke om ny tillatelse såfremt tillatelsen ikke strider mot bestemmelser i denne lov.

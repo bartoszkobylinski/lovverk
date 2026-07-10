@@ -27,3 +27,5 @@ eu_basis: []
 3. Den myndighet som etter samme lov er tillagt Kongen og departementet delegeres til Direktoratet for vilt og ferskvannsfisk1 med følgende unntak.Kongen beholder myndighet til å treffe vedtak etter følgende bestemmelser:§ 7, 2. ledd første punktum § 8, § 12, § 26 nr. 7, § 39, § 40, § 49, 1. ledd.Den myndighet som i lovens § 6, 3. ledd er tillagt Kongen delegeres til Klima- og miljødepartementet. Myndighet til å gi nærmere regler om viltnemndenes organisasjon og virksomhet delegeres til Direktoratet for vilt og ferskvannsfisk.1Den myndighet som etter lovens § 9, 1. ledd, er tillagt Kongen delegeres til Klima- og miljødepartementet.Den myndighet som etter lovens § 7, 2. ledd, annet punktum, er lagt til departementet forblir i Klima- og miljødepartementet.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+1 Nå Miljødirektoratet.

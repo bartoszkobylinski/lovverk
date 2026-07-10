@@ -24,18 +24,16 @@ eu_basis: []
 
 ## I
 
+I [lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv.](lov/2005-06-17-62) gjøres følgende endringer: – – –
+
 ## II
 
-I utbetalingen av sykepenger, foreldrepenger, svangerskapspenger, pleie- og opplæringspenger og omsorgspenger etter denne loven kan Arbeids- og velferdsetaten foreta trekk av fagforeningskontingent, herunder premie til kollektiv forsikring som er knyttet til medlemskap i fagforening, eller avgift til opplysnings- og utviklingsfond eller til lavtlønnsfond.
+I [lov 28. februar 1997 nr. 19 om folketrygd](lov/1997-02-28-19) gjøres følgende endringer:
 
-Trekk av fagforeningskontingent i ytelser etter første ledd forutsetter at det er fastsatt regler om kontingenttrekk i tariffavtalen. Kontingenttrekk kan bare gjennomføres når det er inngått avtale om dette mellom Arbeids- og velferdsetaten og fagforeningen. Trekk av fagforeningskontingent i ytelser gjennomføres ikke når arbeidsgiver forskutterer ytelsen.
-
-Arbeidsgiver til den som har rett til ytelsen, skal sende nødvendige opplysninger om kontingenttrekk til Arbeids- og velferdsetaten.
-
-Arbeids- og velferdsetatens ansvar er begrenset til å gjennomføre kontingenttrekket og overføre beløpet til fagforeningens oppgitte konto.
-
-Departementet kan gi forskrift om gjennomføringen av paragrafen her.
+[§ 22-9](lov/1997-02-28-19/§22-9) skal lyde:
 
 ## III
 
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+1 Fra 1. juli 2026 for del I (endringene i [arbeidsmiljøloven § 4-1 sjuende ledd](lov/2005-06-17-62/§4-1/ledd/7)) iflg. [res. 19 juni 2026 nr. 1139](forskrift/2026-06-19-1139).

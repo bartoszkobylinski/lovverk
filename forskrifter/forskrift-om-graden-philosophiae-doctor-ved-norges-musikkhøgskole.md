@@ -328,9 +328,13 @@ Søknaden skal vedlegges en fullstendig oversikt over de feil (errata) som ønsk
 
 På grunnlag av bedømmelseskomiteens innstilling fatter NMH vedtak om ph.d.-avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling:*
+
 Dersom komiteen avgir enstemmig innstilling og programutvalget finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter programutvalget vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom programutvalget finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal doktorgradutvalget legge saken frem for FoU-utvalget, som kan fatte vedtak i samsvar med komiteens innstilling eller søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. FoU-utvalget fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling:*
 
 Dersom komiteen avgir delt innstilling og programutvalget finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter programutvalget vedtak i samsvar med flertallets innstilling.
 

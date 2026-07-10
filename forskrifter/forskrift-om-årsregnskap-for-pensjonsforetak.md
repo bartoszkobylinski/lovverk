@@ -162,13 +162,207 @@ Finansielle instrumenter skal innregnes og måles i samsvar med IFRS 9 med unnta
 
 ### § 4-6. Resultatregnskap
 
-(1) Resultatregnskapet skal ha følgende oppstillingsplan:*TEKNISK REGNSKAP**1.**Premieinntekter*1.1Forfalte premier, brutto1.2– Avgitte gjenforsikringspremier1.3Overføring av premiereserve og pensjonskapital mv. fra andre forsikringsforetak/pensjonsforetak*Sum premieinntekter for egen regning**2.**Netto inntekter fra investeringer i kollektivporteføljen*2.1Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak2.2Renteinntekt og utbytte mv. på finansielle eiendeler2.3Netto driftsinntekt fra eiendom2.4Verdiendringer på investeringer2.5Realisert gevinst og tap på investeringer*Sum netto inntekter fra investeringer i kollektivporteføljen**3.**Netto inntekter fra investeringer i investeringsvalgporteføljen*3.1Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak3.2Renteinntekt og utbytte mv. på finansielle eiendeler3.3Netto driftsinntekt fra eiendom3.4Verdiendringer på investeringer3.5Realisert gevinst og tap på investeringer*Sum netto inntekter fra investeringer i investeringsvalgporteføljen**4.**Andre forsikringsrelaterte inntekter**5.**Pensjoner mv.*5.1Utbetalte pensjoner mv.5.1.1Brutto5.1.2– Gjenforsikringsandel av utbetalte pensjoner5.2Overføring av premiereserve, pensjonskapital mv. og bufferfond til andre forsikringsforetak/pensjonsforetak*Sum pensjoner mv.**6.**Resultatførte endringer i forsikringsforpliktelser – kontraktsfastsatte forpliktelser*6.1Endring i premiereserve mv.6.1.1Endring i premiereserve mv., brutto6.1.2– Endring i gjenforsikringsandel av premiereserve mv.6.2Endring i bufferfond6.3Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv.6.4Overføring av bufferfond fra andre forsikringsforetak/pensjonsforetak*Sum resultatførte endringer i forsikringsforpliktelsene – kontraktsfastsatte forpliktelser**7.**Resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje*7.1Endring i pensjonskapital mv.7.2Endring i gjenforsikringsandel av pensjonskapital mv.7.3Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv.7.4Endring i andre avsetninger7.5Overføring av bufferfond fra andre forsikringsforetak/pensjonsforetak*Sum resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje**8.**Midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser*8.1Overskudd på avkastningsresultatet8.2Risikoresultat tilordnet forsikringskontraktene*9.**Forsikringsrelaterte driftskostnader*9.1Forvaltningskostnader9.2Forsikringsrelaterte administrasjonskostnader*Sum forsikringsrelaterte driftskostnader**10.**Andre forsikringsrelaterte kostnader**11.**Resultat av teknisk regnskap**IKKE-TEKNISK REGNSKAP**12.**Netto inntekter fra investeringer i selskapsporteføljen*12.1Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak12.2Renteinntekt og utbytte mv. på finansielle eiendeler12.3Netto driftsinntekt fra eiendom12.4Verdiendringer på investeringer12.5Realisert gevinst og tap på investeringer*Sum netto inntekter fra investeringer i selskapsporteføljen**13.**Andre inntekter**14.**Forval tningskostnader og andre kostnader knyttet til selskapsporteføljen*14.1Forvaltningskostnader14.2Andre kostnader*15.**Resultat av ikke-teknisk regnskap**16.**Resultat før skattekostnader**17.**Skattekostnader**18.**Resultat før andre inntekter og kostnader**19.**Andre inntekter og kostnader*19.1Andre inntekter og kostnader som ikke blir omklassifisert til resultatet19.1.1Verdireguleringer – eiendom, anlegg og utstyr19.1.2Estimatendringer knyttet til ytelsesbaserte pensjonsordninger19.1.3Øvrige andre inntekter og kostnader19.1.4Justering av forsikringsforpliktelsene19.1.5Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet19.2Andre inntekter og kostnader som kan bli omklassifisert til resultatet19.2.1Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer19.2.2Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring19.2.3Øvrige andre inntekter og kostnader19.2.4Justering av forsikringsforpliktelsene19.2.5Skatt på andre inntekter og kostnader som kan bli omklassifisert*20.**TOTALRESULTAT*
+(1) Resultatregnskapet skal ha følgende oppstillingsplan:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *TEKNISK REGNSKAP* |  |  |  |
+| *1.* | *Premieinntekter* |  |  |
+|  | 1.1 | Forfalte premier, brutto |  |
+|  | 1.2 | – Avgitte gjenforsikringspremier |  |
+|  | 1.3 | Overføring av premiereserve og pensjonskapital mv. fra andre forsikringsforetak/pensjonsforetak |  |
+|  | *Sum premieinntekter for egen regning* |  |  |
+| *2.* | *Netto inntekter fra investeringer i kollektivporteføljen* |  |  |
+|  | 2.1 | Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  | 2.2 | Renteinntekt og utbytte mv. på finansielle eiendeler |  |
+|  | 2.3 | Netto driftsinntekt fra eiendom |  |
+|  | 2.4 | Verdiendringer på investeringer |  |
+|  | 2.5 | Realisert gevinst og tap på investeringer |  |
+|  | *Sum netto inntekter fra investeringer i kollektivporteføljen* |  |  |
+| *3.* | *Netto inntekter fra investeringer i investeringsvalgporteføljen* |  |  |
+|  | 3.1 | Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  | 3.2 | Renteinntekt og utbytte mv. på finansielle eiendeler |  |
+|  | 3.3 | Netto driftsinntekt fra eiendom |  |
+|  | 3.4 | Verdiendringer på investeringer |  |
+|  | 3.5 | Realisert gevinst og tap på investeringer |  |
+|  | *Sum netto inntekter fra investeringer i investeringsvalgporteføljen* |  |  |
+| *4.* | *Andre forsikringsrelaterte inntekter* |  |  |
+| *5.* | *Pensjoner mv.* |  |  |
+|  | 5.1 | Utbetalte pensjoner mv. |  |
+|  |  | 5.1.1 | Brutto |
+|  |  | 5.1.2 | – Gjenforsikringsandel av utbetalte pensjoner |
+|  | 5.2 | Overføring av premiereserve, pensjonskapital mv. og bufferfond til andre forsikringsforetak/pensjonsforetak |  |
+|  | *Sum pensjoner mv.* |  |  |
+| *6.* | *Resultatførte endringer i forsikringsforpliktelser – kontraktsfastsatte forpliktelser* |  |  |
+|  | 6.1 | Endring i premiereserve mv. |  |
+|  |  | 6.1.1 | Endring i premiereserve mv., brutto |
+|  |  | 6.1.2 | – Endring i gjenforsikringsandel av premiereserve mv. |
+|  | 6.2 | Endring i bufferfond |  |
+|  | 6.3 | Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv. |  |
+|  | 6.4 | Overføring av bufferfond fra andre forsikringsforetak/pensjonsforetak |  |
+|  | *Sum resultatførte endringer i forsikringsforpliktelsene – kontraktsfastsatte forpliktelser* |  |  |
+| *7.* | *Resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje* |  |  |
+|  | 7.1 | Endring i pensjonskapital mv. |  |
+|  | 7.2 | Endring i gjenforsikringsandel av pensjonskapital mv. |  |
+|  | 7.3 | Endring i premiefond, innskuddsfond og fond for regulering av pensjoner mv. |  |
+|  | 7.4 | Endring i andre avsetninger |  |
+|  | 7.5 | Overføring av bufferfond fra andre forsikringsforetak/pensjonsforetak |  |
+|  | *Sum resultatførte endringer i forsikringsforpliktelser – særskilt investeringsportefølje* |  |  |
+| *8.* | *Midler tilordnet forsikringskontraktene – kontraktsfastsatte forpliktelser* |  |  |
+|  | 8.1 | Overskudd på avkastningsresultatet |  |
+|  | 8.2 | Risikoresultat tilordnet forsikringskontraktene |  |
+| *9.* | *Forsikringsrelaterte driftskostnader* |  |  |
+|  | 9.1 | Forvaltningskostnader |  |
+|  | 9.2 | Forsikringsrelaterte administrasjonskostnader |  |
+|  | *Sum forsikringsrelaterte driftskostnader* |  |  |
+| *10.* | *Andre forsikringsrelaterte kostnader* |  |  |
+| *11.* | *Resultat av teknisk regnskap* |  |  |
+| *IKKE-TEKNISK REGNSKAP* |  |  |  |
+| *12.* | *Netto inntekter fra investeringer i selskapsporteføljen* |  |  |
+|  | 12.1 | Inntekter fra investeringer i datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  | 12.2 | Renteinntekt og utbytte mv. på finansielle eiendeler |  |
+|  | 12.3 | Netto driftsinntekt fra eiendom |  |
+|  | 12.4 | Verdiendringer på investeringer |  |
+|  | 12.5 | Realisert gevinst og tap på investeringer |  |
+|  | *Sum netto inntekter fra investeringer i selskapsporteføljen* |  |  |
+| *13.* | *Andre inntekter* |  |  |
+| *14.* | *Forval tningskostnader og andre kostnader knyttet til selskapsporteføljen* |  |  |
+|  | 14.1 | Forvaltningskostnader |  |
+|  | 14.2 | Andre kostnader |  |
+| *15.* | *Resultat av ikke-teknisk regnskap* |  |  |
+| *16.* | *Resultat før skattekostnader* |  |  |
+| *17.* | *Skattekostnader* |  |  |
+| *18.* | *Resultat før andre inntekter og kostnader* |  |  |
+| *19.* | *Andre inntekter og kostnader* |  |  |
+|  | 19.1 | Andre inntekter og kostnader som ikke blir omklassifisert til resultatet |  |
+|  |  | 19.1.1 | Verdireguleringer – eiendom, anlegg og utstyr |
+|  |  | 19.1.2 | Estimatendringer knyttet til ytelsesbaserte pensjonsordninger |
+|  |  | 19.1.3 | Øvrige andre inntekter og kostnader |
+|  |  | 19.1.4 | Justering av forsikringsforpliktelsene |
+|  |  | 19.1.5 | Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet |
+|  | 19.2 | Andre inntekter og kostnader som kan bli omklassifisert til resultatet |  |
+|  |  | 19.2.1 | Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer |
+|  |  | 19.2.2 | Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring |
+|  |  | 19.2.3 | Øvrige andre inntekter og kostnader |
+|  |  | 19.2.4 | Justering av forsikringsforpliktelsene |
+|  |  | 19.2.5 | Skatt på andre inntekter og kostnader som kan bli omklassifisert |
+| *20.* | *TOTALRESULTAT* |  |  |
 
 > Endret ved forskrifter [16 des 2016 nr. 1657](forskrift/2016-12-16-1657) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225)), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
 ### § 4-7. Balanse
 
-(1) Balansen skal ha følgende oppstillingsplan:*EIENDELER**EIENDELER I SELSKAPSPORTEFØLJEN**1.**Immaterielle eiendeler**2.**Investeringer*2.1Bygninger og andre faste eiendommer2.1.1Investeringseiendommer2.1.2Eierbenyttet eiendom2.2Datterforetak, tilknyttede foretak og felleskontrollerte foretak2.2.1Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak2.2.2Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak2.3Finansielle eiendeler som måles til amortisert kost2.3.1Rentebærende verdipapirer2.3.2Utlån og fordringer2.4Finansielle eiendeler som måles til virkelig verdi2.4.1Aksjer og andeler (inkl. aksjer og andeler målt til kost)2.4.2Rentebærende verdipapirer2.4.3Utlån og fordringer2.4.4Finansielle derivater2.4.5Andre finansielle eiendeler*Sum investeringer**3.**Fordringer*3.1Fordringer knyttet til premieinntekter3.2Andre fordringer*Sum fordringer**4.**Andre eiendeler*4.1Anlegg og utstyr4.2Kasse, bank4.3Eiendeler ved skatt4.4Andre eiendeler betegnet etter sin art*Sum andre eiendeler**5.**Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter**Sum eiendeler i selskapsporteføljen*EIENDELER I KUNDEPORTEFØLJENE*6.**Investeringer i kollektivporteføljen*6.1Bygninger og andre faste eiendommer6.1.1Investeringseiendommer6.1.2Eierbenyttet eiendom6.2Datterforetak, tilknyttede foretak og felleskontrollerte foretak6.2.1Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak6.2.2Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak6.3Finansielle eiendeler som måles til amortisert kost6.3.1Rentebærende verdipapirer6.3.2Utlån og fordringer6.4Finansielle eiendeler som måles til virkelig verdi6.4.1Aksjer og andeler (inkl. aksjer og andeler målt til kost)6.4.2Rentebærende verdipapirer6.4.3Utlån og fordringer6.4.4Finansielle derivater6.4.5Andre finansielle eiendeler*Sum investeringer i kollektivporteføljen**7.**Gjenforsikringsandel av forsikringsforpliktelser i kollektivporteføljen**8.**Investeringer i investeringsvalgporteføljen*8.1Bygninger og andre faste eiendommer8.1.1Investeringseiendommer8.1.2Eierbenyttet eiendom8.2Datterforetak, tilknyttede foretak og felleskontrollerte foretak8.2.1Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak8.2.2Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak8.3Finansielle eiendeler som måles til amortisert kost8.3.1Rentebærende verdipapirer8.3.2Utlån og fordringer8.4Finansielle eiendeler som måles til virkelig verdi8.4.1Aksjer og andeler (inkl. aksjer og andeler målt til kost)8.4.2Rentebærende verdipapirer8.4.3Utlån og fordringer8.4.4Finansielle derivater8.4.5Andre finansielle eiendeler*Sum investeringer i investeringsvalgporteføljen**9.**Gjenforsikringsandel av forsikringsforpliktelser i investeringsvalgporteføljen**Sum eiendeler i kundeporteføljene**SUM EIENDELER**EGENKAPITAL OG FORPLIKTELSER**10.**Innskutt egenkapital**11.**Opptjent egenkapital*11.1Risikoutjevningsfond11.2Annen opptjent egenkapital*Sum opptjent egenkapital**12.**Ansvarlig lånekapital mv.*12.1Evigvarende ansvarlig lånekapital12.2Ordinær ansvarlig lånekapital*Sum ansvarlig lånekapital mv*.*13.**Forsikringsforpliktelser – kontraktsfastsatte forpliktelser*13.1Premiereserve mv.13.2Bufferfond13.3Premiefond, innskuddsfond og fond for regulering av pensjoner mv.*Sum forsikringsforpliktelser – kontraktsfastsatte forpliktelser**14.**Forsikringsforpliktelser – særskilt investeringsportefølje*14.1Pensjonskapital mv.14.2Bufferfond14.3Premiefond, innskuddsfond og fond for regulering av pensjoner mv.*Sum forsikringsforpliktelser – særskilt investeringsportefølje**15.**Avsetninger for forpliktelser*15.1Pensjonsforpliktelser o.l.15.2Forpliktelser ved skatt15.2.1Forpliktelser ved periodeskatt15.2.2Forpliktelser ved utsatt skatt15.3Andre avsetninger for forpliktelser*Sum avsetninger for forpliktelser**16.**Forpliktelser*16.1Finansielle derivater16.2Forfalte, ikke betalte pensjoner og utløsningsbeløp16.3Andre forpliktelser*Sum forpliktelser**17.**Påløpte kostnader og mottatte ikke opptjente inntekter**SUM EGENKAPITAL OG FORPLIKTELSER**POSTER UTENOM BALANSEN**18.**Betingede forpliktelser*
+(1) Balansen skal ha følgende oppstillingsplan:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *EIENDELER* |  |  |  |
+| *EIENDELER I SELSKAPSPORTEFØLJEN* |  |  |  |
+| *1.* | *Immaterielle eiendeler* |  |  |
+| *2.* | *Investeringer* |  |  |
+|  | 2.1 | Bygninger og andre faste eiendommer |  |
+|  |  | 2.1.1 | Investeringseiendommer |
+|  |  | 2.1.2 | Eierbenyttet eiendom |
+|  | 2.2 | Datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  |  | 2.2.1 | Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  |  | 2.2.2 | Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  | 2.3 | Finansielle eiendeler som måles til amortisert kost |  |
+|  |  | 2.3.1 | Rentebærende verdipapirer |
+|  |  | 2.3.2 | Utlån og fordringer |
+|  | 2.4 | Finansielle eiendeler som måles til virkelig verdi |  |
+|  |  | 2.4.1 | Aksjer og andeler (inkl. aksjer og andeler målt til kost) |
+|  |  | 2.4.2 | Rentebærende verdipapirer |
+|  |  | 2.4.3 | Utlån og fordringer |
+|  |  | 2.4.4 | Finansielle derivater |
+|  |  | 2.4.5 | Andre finansielle eiendeler |
+|  | *Sum investeringer* |  |  |
+| *3.* | *Fordringer* |  |  |
+|  | 3.1 | Fordringer knyttet til premieinntekter |  |
+|  | 3.2 | Andre fordringer |  |
+|  | *Sum fordringer* |  |  |
+| *4.* | *Andre eiendeler* |  |  |
+|  | 4.1 | Anlegg og utstyr |  |
+|  | 4.2 | Kasse, bank |  |
+|  | 4.3 | Eiendeler ved skatt |  |
+|  | 4.4 | Andre eiendeler betegnet etter sin art |  |
+|  | *Sum andre eiendeler* |  |  |
+| *5.* | *Forskuddsbetalte kostnader og opptjente ikke mottatte inntekter* |  |  |
+| *Sum eiendeler i selskapsporteføljen* |  |  |  |
+| EIENDELER I KUNDEPORTEFØLJENE |  |  |  |
+| *6.* | *Investeringer i kollektivporteføljen* |  |  |
+|  | 6.1 | Bygninger og andre faste eiendommer |  |
+|  |  | 6.1.1 | Investeringseiendommer |
+|  |  | 6.1.2 | Eierbenyttet eiendom |
+|  | 6.2 | Datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  |  | 6.2.1 | Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  |  | 6.2.2 | Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  | 6.3 | Finansielle eiendeler som måles til amortisert kost |  |
+|  |  | 6.3.1 | Rentebærende verdipapirer |
+|  |  | 6.3.2 | Utlån og fordringer |
+|  | 6.4 | Finansielle eiendeler som måles til virkelig verdi |  |
+|  |  | 6.4.1 | Aksjer og andeler (inkl. aksjer og andeler målt til kost) |
+|  |  | 6.4.2 | Rentebærende verdipapirer |
+|  |  | 6.4.3 | Utlån og fordringer |
+|  |  | 6.4.4 | Finansielle derivater |
+|  |  | 6.4.5 | Andre finansielle eiendeler |
+|  | *Sum investeringer i kollektivporteføljen* |  |  |
+| *7.* | *Gjenforsikringsandel av forsikringsforpliktelser i kollektivporteføljen* |  |  |
+| *8.* | *Investeringer i investeringsvalgporteføljen* |  |  |
+|  | 8.1 | Bygninger og andre faste eiendommer |  |
+|  |  | 8.1.1 | Investeringseiendommer |
+|  |  | 8.1.2 | Eierbenyttet eiendom |
+|  | 8.2 | Datterforetak, tilknyttede foretak og felleskontrollerte foretak |  |
+|  |  | 8.2.1 | Aksjer og andeler i datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  |  | 8.2.2 | Fordringer på og verdipapirer utstedt av datterforetak, tilknyttede foretak og felleskontrollerte foretak |
+|  | 8.3 | Finansielle eiendeler som måles til amortisert kost |  |
+|  |  | 8.3.1 | Rentebærende verdipapirer |
+|  |  | 8.3.2 | Utlån og fordringer |
+|  | 8.4 | Finansielle eiendeler som måles til virkelig verdi |  |
+|  |  | 8.4.1 | Aksjer og andeler (inkl. aksjer og andeler målt til kost) |
+|  |  | 8.4.2 | Rentebærende verdipapirer |
+|  |  | 8.4.3 | Utlån og fordringer |
+|  |  | 8.4.4 | Finansielle derivater |
+|  |  | 8.4.5 | Andre finansielle eiendeler |
+|  | *Sum investeringer i investeringsvalgporteføljen* |  |  |
+| *9.* | *Gjenforsikringsandel av forsikringsforpliktelser i investeringsvalgporteføljen* |  |  |
+| *Sum eiendeler i kundeporteføljene* |  |  |  |
+| *SUM EIENDELER* |  |  |  |
+| *EGENKAPITAL OG FORPLIKTELSER* |  |  |  |
+| *10.* | *Innskutt egenkapital* |  |  |
+| *11.* | *Opptjent egenkapital* |  |  |
+|  | 11.1 | Risikoutjevningsfond |  |
+|  | 11.2 | Annen opptjent egenkapital |  |
+|  | *Sum opptjent egenkapital* |  |  |
+| *12.* | *Ansvarlig lånekapital mv.* |  |  |
+|  | 12.1 | Evigvarende ansvarlig lånekapital |  |
+|  | 12.2 | Ordinær ansvarlig lånekapital |  |
+|  | *Sum ansvarlig lånekapital mv*. |  |  |
+| *13.* | *Forsikringsforpliktelser – kontraktsfastsatte forpliktelser* |  |  |
+|  | 13.1 | Premiereserve mv. |  |
+|  | 13.2 | Bufferfond |  |
+|  | 13.3 | Premiefond, innskuddsfond og fond for regulering av pensjoner mv. |  |
+|  | *Sum forsikringsforpliktelser – kontraktsfastsatte forpliktelser* |  |  |
+| *14.* | *Forsikringsforpliktelser – særskilt investeringsportefølje* |  |  |
+|  | 14.1 | Pensjonskapital mv. |  |
+|  | 14.2 | Bufferfond |  |
+|  | 14.3 | Premiefond, innskuddsfond og fond for regulering av pensjoner mv. |  |
+|  | *Sum forsikringsforpliktelser – særskilt investeringsportefølje* |  |  |
+| *15.* | *Avsetninger for forpliktelser* |  |  |
+|  | 15.1 | Pensjonsforpliktelser o.l. |  |
+|  | 15.2 | Forpliktelser ved skatt |  |
+|  |  | 15.2.1 | Forpliktelser ved periodeskatt |
+|  |  | 15.2.2 | Forpliktelser ved utsatt skatt |
+|  | 15.3 | Andre avsetninger for forpliktelser |  |
+|  | *Sum avsetninger for forpliktelser* |  |  |
+| *16.* | *Forpliktelser* |  |  |
+|  | 16.1 | Finansielle derivater |  |
+|  | 16.2 | Forfalte, ikke betalte pensjoner og utløsningsbeløp |  |
+|  | 16.3 | Andre forpliktelser |  |
+|  | *Sum forpliktelser* |  |  |
+| *17.* | *Påløpte kostnader og mottatte ikke opptjente inntekter* |  |  |
+| *SUM EGENKAPITAL OG FORPLIKTELSER* |  |  |  |
+| *POSTER UTENOM BALANSEN* |  |  |  |
+| *18.* | *Betingede forpliktelser* |  |  |
 
 > Endret ved forskrifter [16 des 2016 nr. 1657](forskrift/2016-12-16-1657) (med virkning fra regnskapsåret 2016), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (med virkning fra regnskapsåret 2018), [22 des 2021 nr. 3894](forskrift/2021-12-22-3894) (i kraft 1 jan 2022), [7 april 2022 nr. 556](forskrift/2022-04-07-556) (med virkning for årsregnskap og delårsregnskap for regnskapsår påbegynt 1. januar 2022 eller senere), [20 des 2018 nr. 2208](forskrift/2018-12-20-2208) (i kraft 1 jan 2023, endringen endret ved [forskrift 12 feb 2021 nr. 1225](forskrift/2021-02-12-1225)), [20 des 2023 nr. 2228](forskrift/2023-12-20-2228) (i kraft 1 jan 2024).
 
@@ -324,27 +518,63 @@ Finansielle instrumenter skal innregnes og måles i samsvar med IFRS 9 med unnta
 
 (1) Endringer i forsikringsforpliktelser i perioden til dekning av pensjonsforetakets forpliktelser under kontrakter med kontraktsfastsatte forpliktelser skal, for hver balansepost i 13, vise:
 
+1.*Inngående balanse*
+
+2.*Resultatførte endringer i forsikringsforpliktelser*
+
+2.1
+
 Netto resultatførte avsetninger (resultatpost 6 samt del av resultatpost 5.2)
+
+2.2
 
 Overskudd på avkastningsresultatet (resultatpost 8.1)
 
+2.3
+
 Risikoresultat tilordnet forsikringskontraktene (resultatpost 8.2)Sum resultatførte endringer i forsikringsforpliktelser
 
+3.*Ikke resultatførte endringer i forsikringsforpliktelser*
+
+3.1
+
 Overføringer mellom fond
+
+3.2
 
 Overføringer til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikringsforpliktelser
 
+4.*Utgående balanse*
+
 (2) Endringer i forsikringsforpliktelser i perioden til dekning av pensjonsforetakets forpliktelser knyttet til verdien av særskilt investeringsportefølje skal, for hver balansepost i 14, vise:
+
+1.*Inngående balanse*
+
+2.*Resultatførte endringer i forsikringsforpliktelser*
+
+2.1
 
 Netto resultatførte avsetninger (del av resultatpost 7 samt del av resultatpost 5.2)
 
+2.2
+
 Avkastningsresultat tilordnet kontrakter med garanterte ytelser (del av resultatpost 7)
+
+2.3
 
 Risikoresultat tilordnet forsikringskontraktene (del av resultatpost 7)Sum resultatførte endringer i forsikringsforpliktelser
 
+3.*Ikke resultatførte endringer i forsikringsforpliktelser*
+
+3.1
+
 Overføringer mellom fond
 
+3.2
+
 Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikringsforpliktelser
+
+4.*Utgående balanse*
 
 ### § 5-9. Forsikringsforpliktelser
 
@@ -358,9 +588,15 @@ Overføring til/fra pensjonsforetaketSum ikke resultatførte endringer i forsikr
 
 (1) Pensjonsforetaket skal gi opplysningene i annet til fjerde ledd fordelt på hovedbransjer (a) angitt i [§ 5-9](forskrift/2011-12-20-1457/§5-9) og opplysningene i annet og tredje ledd fordelt på delbransjer (b) angitt i [§ 5-9](forskrift/2011-12-20-1457/§5-9).
 
+*Resultat på bransjer*
+
 (2) Det tekniske regnskapet skal angis med hovedpostene i oppstillingen av resultatregnskapet i [§ 4-6](forskrift/2011-12-20-1457/§4-6).
 
+*Resultatanalyse på hovedbransjer og delbransjer – fordeling mellom kunde og pensjonsforetaket*
+
 (3) Pensjonsforetaket skal redegjøre for:AvkastningsresultatRisikoresultat (forsikringsteknisk resultat), ekskl. fortjenesteelementAdministrasjonsresultatFortjenesteelement for risikoVederlag for rentegaranti.
+
+*Flytting av pensjonsordninger*
 
 (4) Det skal gis opplysninger om beløp for både mottatt og avgitt premiereserve, pensjonskapital, pensjonsbeholdning, bufferfond, premiefond, innskuddsfond, pensjonistenes overskuddsfond, reguleringsfond og pensjonsreguleringsfond. Det skal også opplyses om hvor mange kunder/kontrakter tilgangen og avgangen fordeler seg på.
 

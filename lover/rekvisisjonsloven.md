@@ -235,3 +235,5 @@ Kongen gir nærmere regler til gjennomføring av denne lov.
 Denne lov trer i kraft fra den dag1 Kongen bestemmer.
 
 – – –
+
+1 Fra 1 jan 1952 iflg. res. 14 des 1951.

@@ -324,6 +324,8 @@ Forskrifter fastsatt med hjemmel i lovene nevnt i første ledd gjelder også ett
 
 Departementet kan gi forskrift om overgangsordninger for tillatelser og godkjenninger som er fastsatt i eller med hjemmel i lovene nevnt i første ledd.
 
+1 Fra 1 jan 2023 iflg. [res. 18 mars 2022 nr. 414](forskrift/2022-03-18-414).
+
 ### § 39. Endringer i andre lover
 
 Fra den tiden denne loven trer i kraft, gjøres følgende endringer i andre lover: – – –

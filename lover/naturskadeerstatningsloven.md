@@ -196,6 +196,8 @@ Søksmål kan ikke reises med mindre skadelidte har benyttet adgangen til å kla
 
 Loven gjelder fra den tid Kongen bestemmer.1
 
+1 Fra 1 jan 2017 iflg. [res. 15 aug 2014 nr. 1084](forskrift/2014-08-15-1084).
+
 ### § 24. Overgangsbestemmelser
 
 Naturskader som er meldt inn til lensmann, namsfogd eller politistasjon med sivile rettspleieoppgaver før lovens ikrafttredelse, oversendes Landbruksdirektoratet for videre behandling. Reglene i [lov 25. mars 1994 nr. 7](lov/1994-03-25-7) om sikring mot og erstatning for naturskader legges til grunn for erstatningsvedtaket så langt de passer. Dersom rettskraftig lensmannsskjønn foreligger, legges dette til grunn for erstatningsvedtaket.

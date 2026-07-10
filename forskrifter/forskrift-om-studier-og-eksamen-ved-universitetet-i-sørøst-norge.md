@@ -240,7 +240,17 @@ Studenten har adgang til å levere ny eller omarbeidet praksisrapport én gang d
 
 (1) Ved sensur av eksamen, skal det som hovedregel benyttes karakterer etter en skala med fem trinn fra A til E for bestått, og F for ikke bestått. Fakultetet selv kan bestemme at anbefalte karakterbeskrivelser fra nasjonale fagråd skal benyttes i tillegg.
 
-(2) Den graderte karakterskala innebærer følgende generelle, ikke fagspesifikke beskrivelser:*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Den graderte karakterskala innebærer følgende generelle, ikke fagspesifikke beskrivelser:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |  |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |  |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |  |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |  |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |  |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |  |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |  |
 
 (3) Bokstavkarakterer skal som hovedregel brukes i et omfang på minst tre fjerdedeler av antall studiepoeng for studieprogrammet.
 

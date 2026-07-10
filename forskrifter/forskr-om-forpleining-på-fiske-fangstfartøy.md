@@ -26,9 +26,15 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
+1\.
+
 Denne forskriften gjelder for nye norske fiske- og fangstfartøy på 15 m (Loa) og derover dersom ikke annet fremgår av de enkelte paragrafer. Forskriften gjelder også for eksisterende fartøy på 15 m (Loa) og derover som ombygges/forandres. Forskriften her gjelder ikke for fartøy med største lengde på 15 meter og derover som er definert som nytt fartøy i henhold til [forskrift av 13. juni 2000 nr. 660](forskrift/2000-06-13-660) om konstruksjon, utstyr, drift og besiktelser for fiske- og fangstfartøy med største lengde på 15 meter og derover § 1-2 nr. 34. Se for øvrig nevnte forskrifts kapittel 11.
 
+2\.
+
 Bestemmelsene om kosthold og renhold i denne forskrift gjelder også for nye fartøy under 15 m (Loa).
+
+3\.
 
 For nye fartøy under 15 m (Loa) skal kravene i Nordisk Båtstandard følges.
 
@@ -38,29 +44,55 @@ For nye fartøy under 15 m (Loa) skal kravene i Nordisk Båtstandard følges.
 
 I denne forskrift betyr:
 
+1\.
+
 Fiske- og fangstfartøy: Fartøy som ervervsmessig benyttes til å fange fisk, hval, sel eller andre levende ressurser i sjøen, herunder tang og tare.
+
+2\.
 
 Nytt fartøy: Fiske- og fangstfartøy hvor kjølen strekkes, eller som er på et liknende byggetrinn på eller etter den dag denne forskrift trer i kraft.
 
+3\.
+
 Eksisterende fartøy: Fiske- og fangstfartøy som ikke er nytt fartøy.
+
+4\.
 
 Nordisk Båtstandard: Felles nordiske regler av 1990 for yrkesfartøy opptil Loa = 15 m.
 
+5\.
+
 Innredning: Lugar, soverom, spiserom, kontorrom, bestikk, radiorom, korridorer, oppholdsrom sanitærrom, rekreasjonssteder, sykerom, bysse, proviant-, kjøle- og fryserom m.v.
+
+6\.
 
 Offiser: Sertifikatpliktig stilling, unntatt skipsfører og kokk.
 
+7\.
+
 Mannskap: Et medlem av besetningen som ikke er skipsfører eller offiser.
+
+8\.
 
 Godkjent: Godkjent av Sjøfartsdirektoratet eller slik det fremgår av de enkelte paragrafer.
 
+9\.
+
 Typegodkjent: Typegodkjent av Sjøfartsdirektoratet eller annen myndighet eller klasseinstitusjon akseptert av Sjøfartsdirektoratet.
+
+10\.
 
 Anerkjent standard: Standarder utgitt av NS/BS/ISO/CEN eller tilsvarende nasjonale og internasjonale standarder anerkjent av Sjøfartsdirektoratet, ved enkeltvedtak.
 
+11\.
+
 Drikkevann: Vann til drikke, matlaging og personlig hygiene.
 
+12\.
+
 Lengde (Loa): Fartøyets største lengde i meter.
+
+13\.
 
 Tonn: Tonnasjeenheter/registertonn brutto.
 
@@ -84,43 +116,79 @@ For eksisterende fartøy kan Sjøfartsdirektoratet fravike forskriftens krav, de
 
 ### § 5. Tegninger
 
+1\.
+
 For nytt fartøy skal følgende tegninger sendes Sjøfartsdirektoratet for godkjennelse i god tid før arbeidet med innredningen på begynnes:
 
+1.1.
+
 Generalarrangementstegning i plan og profil.
+
+1.2.
 
 Innredningstegninger i målestokk minst 1/50 som viser plassering av innredningen, hvorledes plassen er tenkt utnyttet med plassering av atkomstveier, utganger, nødutgang er, utganger til redningsmidlene med bl.a. breddeangivelse på disse.
 
 Arealet av de enkelte rom som foreskrevet i [§§ 13](forskrift/1991-10-15-713/§13), [17](forskrift/1991-10-15-713/§17), [18](forskrift/1991-10-15-713/§18), [19](forskrift/1991-10-15-713/§19) og [20](forskrift/1991-10-15-713/§20), skal angis på tegningen.
 
+1.3.
+
 Tegning med tilhørende beskrivelse av ventilasjonsarrangement i innredningen, med anleggets tekniske hoveddata hvor bl.a. oppvarmings- og kjølekapasitet er angitt dersom anlegget omfatter disse forhold.
+
+2\.
 
 Eksisterende fartøy.
 
+2.1.
+
 For eksisterende fartøy hvor større forandringer i innredningen, utvidelse eller flytting av rom skal utføres, skal tegninger over planlagte forandringer innsendes i god tid før arbeidet påbegynnes.
+
+2.2.
 
 Ved mindre ominnredninger er det tilstrekkelig å sende inn generalarrangementstegninger når disse finnes, samt tegninger over de forandringer som skal foretas.
 
+3\.
+
 Foretas det endringer i forhold til tidligere innsendte tegninger, skal disse sendes inn for ny behandling og forandringene avmerkes med rødt.
+
+4\.
 
 Når arbeidet er utført, skal det innsendes 1 eksemplar av tegningene hvor alle detaljer og eventuelle forandringer som har vært foretatt i byggetiden, er tatt med.
 
 ### § 6. Kontroll og besiktelse av innredningen med utstyr, inventar m.m.
 
+1\.
+
 Sjøfartsdirektoratet/Skipskontrollen skal ved bygging, ombygging og innkjøp av fartøy godkjenne plasseringen av innredningen, og herunder kontrollere:
+
+1.1.
 
 at krav til brannsikring i henhold til denne forskrift og til forskrift om brannsikring på fiske- og fangstfartøy, er oppfylt.
 
+1.2.
+
 at utganger, nødutganger, oppganger/nedganger anordnes på fullt forsvarlig måte, har tilstrekkelig bredde m.m., og er anordnet slik at det fra ethvert sted i innredningen til enhver tid er forsvarlig rømningsmulighet med bl.a. atkomst til redningsmidlene.
+
+2\.
 
 Ved bygging, ombygging og innkjøp av fartøy er rederi/eier ansvarlig blant annet for å kontrollere at følgende forhold tilfredsstiller kravene i denne forskrift:
 
+2.1.
+
 størrelsen på rommene, hygieniske og sanitære forhold m.m.,
+
+2.2.
 
 utstyr, inventar, drenerings- og avløpsarrangement,
 
+2.3.
+
 isolasjon og støyreduserende tiltak, og foreta nødvendige målinger for å stadfeste om støyforholdene er tilfredsstillende,
 
+2.4.
+
 ventilasjon, oppvarming, belysning, og foreta de målinger som må foretas for å konstatere om kravene er oppfylt.
+
+3\.
 
 Før byggingen/ombyggingen påbegynnes skal Sjøfartsdirektoratet underrettes om hvordan kontroll i henhold til nr. 2 vil bli gjennomført. Kontrollen skal for øvrig utføres av en person som har den faglige kompetanse som er nødvendig for en betryggende kontroll.
 
@@ -128,45 +196,79 @@ Før byggingen/ombyggingen påbegynnes skal Sjøfartsdirektoratet underrettes om
 
 ### § 7. Lugarkapasitet, beliggenhet m.m.
 
+1\.
+
 Lugarkapasitet og innredningens størrelse skal være tilstrekkelig til den besetning som til enhver tid finnes om bord i fartøyet.
+
+2\.
 
 Innredningen skal ligge aktenfor kollisjonsskottet, og skal være beskyttet mot vær, sjø, hete, kulde, støy og utdunstninger fra andre rom. Innredningsarrangement skal være slik at det er forsvarlig rømningsmulighet med atkomst til redningsmidlene. Jfr. [§ 6](forskrift/1991-10-15-713/§6) nr. 1.2. Det skal ikke være direkte åpninger inn til soverom fra maskinrom, lasterom, spiserom, bysse, felles tørkerom, felles vaske- og baderom eller felles klosetter. Baderom kan tillates å ha dør fra soverom for 2 personer dersom baderommet kun er beregnet for vedkommende soverom. Baderom kan dessuten tillates å ha dør fra to soverom dersom hvert av soverommene er beregnet for en person, og baderommet kun er beregnet for disse soverom. Det skal heller ikke være atkomst fra innredningen til lasterom, rom for maling, dekks- og maskinrekvisita eller andre lignende rom.
 
+2.1.
+
 På fartøy på 45 m og derover skal plassering av innredning være slik at dørken i sin helhet ligger over sommerlastemerket.
+
+2.2.
 
 I innredningen skal lysventiler i skipssiden være plassert i samsvar med regel 23 i Den internasjonale konvensjon om lastelinjer av 5. april 1966. Hvor konstruksjonene gjør det nødvendig, kan det godkjennes at lysventiler sløyfes, jfr. [§ 11](forskrift/1991-10-15-713/§11) nr. 1.1.
 
+3\.
+
 Vaskerom, baderom og andre sanitærrom skal plasseres i nær tilknytning til soverommene.
+
+4\.
 
 Sykerom skal være plassert lengst mulig vekk fra støykilder som maskinrom, propell, baugpropell etc. Sykerommet skal være plassert i nær tilknytning til den øvrige innredning, slik at det er lett tilgjengelig og pasienten kan få tilsyn og pleie i all slags vær. Dørene skal anordnes slik at det er lett å transportere en pasient på båre til og fra dekk, jfr. [§ 19](forskrift/1991-10-15-713/§19) nr. 3.
 
+5\.
+
 Bysse, proviant-, fryse- og kjølerom skal ha en hensiktsmessig beliggenhet. Ved plassering av proviantrom m.v. skal det tas hensyn til at forringelse av provianten som følge av kondens, sterk varme, forurensning og skadedyr m.v. unngås, og at oppbevaringsrom er plassert så nær byssa som praktisk mulig.
+
+6\.
 
 Byssa plasseres med hensiktsmessig atkomst til spiserom, og slik at den blir best mulig opplyst ved naturlig lys, i tillegg til at det er kunstig lys i samsvar med [§ 11](forskrift/1991-10-15-713/§11) nr. 3.7.
 
 ### § 8. Bygging
 
+1\.
+
 Innredningen skal være beskyttet mot vær, sjø, hete, kulde, for høyt støynivå, og mot utdunstning fra andre rom. I forbindelse med støy, skal hensiktsmessige tiltak gjennomføres slik at støyen i boligkvarteret og på arbeidsplassene blir redusert til et rimelig nivå.
 
 Som retningsgivende norm for støynivået vises til forskrift av 5. desember 1973 om vern mot støy om bord i skip og til rekommendasjoner om støynivå m.m.
+
+2\.
 
 Materialer som benyttes i innredningen skal være godkjent. Ståldekk og stålskott som danner tak, vegg eller gulv i innredningen som er utsatt for været eller som grenser opp til uoppvarmede eller sterkt oppvarmede rom, heise- eller kabelsjakter etc., skal være isolert med K-verdi ikke høyere enn 0,75. Isolasjonsmaterialet skal være godkjent og festet forsvarlig slik at kondens unngås. På skott og undersiden i taket skal isolasjonen dekkes med kledning.
 
 Skott og tak i sanitærrom skal være av stål eller annet godkjent vanntett materiale og isolert mot ytterskott, tak og dørk som nevnt ovenfor.
 
+2.1.
+
 Skott mellom lugarer og mellom lugarer og korridorer etc. skal bestå av slike materialer at det oppnås tilfredsstillende reduksjon av støy. Materialene skal også tilfredsstille kravene i den til enhver tid gjeldende forskrift om sikringstiltak mot brann på fiske- og fangstfartøy.
+
+2.2.
 
 Mellom panel og ytterskott skal det i innredning på hoveddekk og underliggende dekk være tilstrekkelig avløp for vann, fortrinnsvis arrangert slik at det innenfor spantene/stiverne på dekket påsettes en minst 50 mm høy kantprofil som danner en renne til avløpsrørene eller hull med plugg til åpent dekk på de laveste punkter, hvor vannet kan samle seg.
 
+2.3.
+
 Skott, tak oppvarmede tanker og bysseskott som direkte støter opp til innredningen skal være tilstrekkelig isolert, og damp-, varmtvanns- og andre rørledninger i innredningen skal være innebygget og isolert.
+
+2.4.
 
 Takhøyden i innredningen skal være minst 2.000 mm. En reduksjon i takhøyden i et område i innredningen kan godkjennes, når dette finnes rimelig, og reduksjonen ikke vil gjøre det ubekvemt for besetningen.
 
+3\.
+
 Korridorer, dører, mannhull, nødutganger m.v.
+
+3.1.
 
 Korridorer.
 
 På fartøy med lengde (Loa) på 15 m og derover inntil 45 m skal bredden (fri passasje) i korridorene være minst 850 mm og på fartøy med lengde på 45 m og derover skal bredden være minst 900 mm. Korridorer og generelt alle ferdselsveier skal være anordnet med rekkverk, håndlister eller på annen måte sikret for betryggende ferdsel.
+
+3.2.
 
 Dører.
 
@@ -178,31 +280,51 @@ Dører fra større felles oppholdsrom skal slå utover eller utstyres med sparke
 
 Dører til maskinrom skal være av stål eller likeverdig materiale og isolert som skottet den er plassert i, være selvlukkende og gasstette.
 
+3.3.
+
 Mannhull.
 
 I innredningen tillates mannhull eller andre åpninger til brennoljetanker kun anbrakt i korridorer.
+
+3.4.
 
 Nødutganger.
 
 Nødutganger skal anordnes fra blindganger som er over 3 m lange. Dersom det anvendes ikke brennbare materialer, kan blindganger med lengde på inntil 7 m tillates. Nødutganger fra innredningen skal ellers anordnes hvor det anses sikkerhetsmessig nødvendig. Nødutganger/trunker skal være anordnet med rekkverk, håndlister eller på annen måte sikret for betryggende ferdsel. SLike utganger skal også være utstyrt med nødlys.
 
+3.5.
+
 Merking.
 
 Atkomsten til vanlige utganger og nødutganger skal merkes med retningsvisere i form av selvlysende piler, grønt lys o.l., og dørene må merkes på et iøynefallende sted over eller ved siden av døren, med betegnelsen «utgang» henholdsvis «nødutgang» på norsk og om nødvendig også på annet språk. Angående skilt, bokstavhøyder, farger, etc., vises det til Norsk Standard NS-6033 og NS-6033 T med senere endringer.
 
+4\.
+
 Bysse m.v.
 
+4.1.
+
 På fartøy med lengde på 24 m og derover skal det innredes eget rom for bysse.
+
+4.2.
 
 På fartøy med lengde på 15 m og derover inntil 24 m kan det benyttes kombinert spiserom og bysse, hensiktsmessig avdelt i to avdelinger.
 
 Hele rommet skal med hensyn til brannsikring anses som bysse.
 
+4.3.
+
 Skott og tak i bysse, fryse- og kjølerom og skott i proviantrom skal være av stål eller annet godkjent materiale. De skal være spyletette. Skott og tak i bysse skal være malt i lys farge eller forsynt med lyse fliser eller annet godkjent belegg av lys farge. Lukeanordning mellom bysse og spiserom skal ha samme brannsikre standard som skottet luka er anbrakt i. Røropplegg, kanaler, kabler o.l. skal så vidt mulig være innebygget.
+
+4.4.
 
 Dørk i bysse skal være belagt med fliser eller annet godkjent sklisikkert materiale og ha tilstrekkelig avløp for vann, idet hensyn er tatt til skipets trim m.v. under ulike lastetilstander. Overgang mellom dørk til skott og fast innredning skal være utført med hulkil.
 
+4.5.
+
 Fartøy som ikke har eget oppvaskrom skal være utstyrt som anført i [§ 17](forskrift/1991-10-15-713/§17) nr. 4.
+
+4.6.
 
 På alle skip som i henhold til nr. 4.1. og 4.2. skal ha bysse, skal det innredes eget rom til oppbevaring av proviant.
 
@@ -210,35 +332,67 @@ På alle skip som i henhold til nr. 4.1. og 4.2. skal ha bysse, skal det innrede
 
 ### § 9. Ventilasjon
 
+1\.
+
 Innredningen skal være tilstrekkelig ventilert med ren luft. Ventilasjonssystemet skal være regulerbart, slik at det sikrer en behagelig temperatur og tilstrekkelig luftsirkulasjon uten ubehagelig trekk. For fartøy på 24 m og derover hvor innredning ligger umiddelbart over brennoljetanker, skal det være anordnet mekanisk luftavtrekk direkte til fri luft.
+
+2\.
 
 For fartøy på 24 m og derover skal det fra vaskerom og klosetter være mekanisk avtrekk direkte til fri luft.
 
+3\.
+
 Fra sykerom skal det være avtrekk direkte til fri luft uavhengig av andre avtrekkskanaler. Dette gjelder også for naturlig ventilasjon.
+
+4\.
 
 Fartøy på 24 m og derover skal være utstyrt med mekanisk ventilasjon.
 
+4.1.
+
 Anlegget skal ha kapasitet slik at hvert rom i innredningen tilføres minst 30 m3 frisk luft pr. person pr. time. Radiorom skal ha minst 10 luftvekslinger pr. time.
+
+4.2.
 
 Ventilasjonsluftens inntak og utløp skal være regulerbar. Utløp fra soverom til korridorer og ellers hvor nødvendig, skal være utstyrt med lydfelle. Luften må kunne stenges av i hver lugar og hvert oppholdsrom. Hvis ikke automatisk stengning er anordnet, skal ventilasjonssystemet kunne stanses fra ett eller flere steder utenfor innredningen, samt fra broen. Hovedinntak og -utløp i alle ventilasjonssystemer skal kunne lukkes utenfor vifterommet i tilfelle brann.
 
+4.3.
+
 Ventilasjonskanaler, utløp og eventuell isolasjon av anlegget skal være av ubrennbare materialer.
+
+4.4.
 
 Det skal finnes reservemateriell om bord i samsvar med anbefaling fra ventilasjonsanleggets produsent/leverandør.
 
+5\.
+
 På fartøy som driver fiske mellom 40° N og 40° S, skal oppholdsrom utstyres med klimaanlegg som minst skal være dimensjonert som følger:
+
+5.1.
 
 Ved utetemperatur +35° C med ca. 70% relativ fuktighet skal innetemperatur på +29° C med ca. 50% relativ fuktighet kunne oppnås. Det må ikke benyttes mer enn 30% returluft.
 
+5.2.
+
 Anleggets kjølemaskineri og luftkjølere skal dessuten være tilpasset slik at ved utetemperatur på +28° C med ca. 80% relativ fuktighet skal innetemperatur på +24° C med ca. 50% fuktighet kunne oppnås.
+
+5.3.
 
 De under nr. 6.1 og 6.2 nevnte kondisjoner må kunne oppnås basert på den friskluftmengde som er angitt i nr. 4.
 
+6\.
+
 På fartøy på 24 m og derover skal bysse og proviantrom være utstyrt med mekanisk ventilasjon.
+
+6.1.
 
 Bysse skal være tilstrekkelig ventilert ved mekanisk ventilasjon som gir minst 30 luftvekslinger innblåsing og 40 luftvekslinger ved utsuging pr. time. I proviantrom skal det mekaniske ventilasjonsanlegg gi minst 10 luftvekslinger pr. time om det ikke er egne kjøle- og fryserom om bord. Ventilasjonssystemet skal være regulerbart.
 
+6.2.
+
 I bysse skal det være avtrekk med vaskbare filtre over komfyrer og andre koke- eller stekesteder. Det mekaniske ventilasjonsanlegg i bysse og proviantrom skal være uavhengig av andre ventilasjonssystemer.
+
+1 Vedrørende brannsikring av innredningen, herunder ventilasjonsanlegg, vises det til forskrift av 4. september 1987 om sikringstiltak mot brann på fiske- og fangstfartøyer.
 
 ### § 10. Oppvarming
 
@@ -248,51 +402,93 @@ I bysse skal det være avtrekk med vaskbare filtre over komfyrer og andre koke- 
 
 ### § 11. Belysning
 
+1\.
+
 Generelt.
 
 Innredningen skal være tilstrekkelig opplyst av normalt dagslys og skal også kunne opplyses av kunstig lys.
+
+1.1.
 
 Hvor det er godkjent å plassere innredningen slik at kravet til naturlig lys ved lysventiler i skipsside ikke kan etterkommes, anvendes kunstig lys.
 
 Lyskilden skal ikke være av en slik art eller anbrakt på en slik måte at den utsetter noen for fare eller helseskade, eller sjenerer navigering og manøvrering av eget eller andre fartøy.
 
+1.2.
+
 Elektrisk belysningsmateriell skal være godkjent av offentlig myndighet eller akkredisert sertifiseringsorgan. For fartøy som bygges eller repareres i utlandet kan elektrisk belysningsmateriell godkjennes av skipets klasseinstitusjon, eller annen anerkjent besiktelsesinstitusjon, og skal tilfredsstille europeiske standarder. Installasjoner skal tilfredsstille klassifikasjonsselskapets, eventuelt Elektrisitetstilsynets krav til fagmessig utførelse.
+
+1.3.
 
 Ved måling av gjennomsnittlig belysning i et rom, skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt dagslys være avskjermet. Det skal tas 5 målinger midt i rommet og i hvert hjørne. Målingene foretas 1 m over gulvet.
 
+1.4.
+
 Når fartøy ligger under land med personer om bord eller det kan forventes ferdsel til og fra fartøy, skal kunstig belysning opprettholdes ved hjelp av skipets kraftkilde eller landtilkopling.
+
+2\.
 
 Kravet til dagslys regnes å være tilfredsstilt når følgende fordringer til glassflater iakttas:
 
+2.1.
+
 I soverom utstyrt med runde ventiler skal glassflaten være minst 0,14 m2. Ventilene må ikke være mindre enn 0,3 m i diameter. I soverom utstyrt med en rektangulær ventil skal glassflaten i denne være minst 0,25 m2. Er soverommet utstyrt med to rektangulære ventiler, skal glassflaten i hver ventil være minst 0,15 m2.
+
+2.2.
 
 I spiserom og dagrom som er utstyrt med runde ventiler, skal glassflaten være minst 0,03 m2 pr. person rommet er bestemt for. Den totale glassflate i hvert enkelt av disse rom skal imidlertid ikke være mindre enn 0,14 m2 fordelt på to ventiler.
 
 I spiserom og dagrom som er utstyrt med rektangulære ventiler, skal glassflaten være minst 0,06 m2 pr. person rommet er bestemt for. Den totale glassflate i hvert enkelt av disse rom skal imidlertid ikke være mindre enn 0,30 m2 fordelt på to ventiler.
 
+3\.
+
 Kunstig belysning skal tilfredsstille de nedenfornevnte krav.
+
+3.1.
 
 Den gjennomsnittlige kunstige belysning i hvert oppholdsrom skal være minst 150 lux. I soverom og dagrom skal være installert lampetter og/eller bordlamper som muliggjør en variert belysning. Ved hver køy skal det være en leselampe, minst 100 lux.
 
+3.2.
+
 På skrivepulter: Minst 300 lux.
+
+3.3.
 
 På spisebord: Minst 200 lux.
 
+3.4.
+
 I bad og toilettrom: Minst 100 lux. Ved toilett-speil minst 150 lux.
+
+3.5.
 
 Korridorer: Minst 50 lux. Ved utganger mot dekk skal korridorbelysningen i en overgangssone kunne varieres mellom daglys 100 lux. og nattlys 20 lux.
 
+3.6.
+
 Trapperom: Minst 100 lux. Lyskildene skal arrangeres slik at skygger i trappetrinnene unngås.
+
+3.7.
 
 Bysse: Minst 200 lux. Over komfyrer, arbeidsbenker, oppvaskbenker o.l. minst 400 lux.
 
+3.8.
+
 Proviant-, kjøle- og fryserom: Minst 100 lux. Over eventuelle arbeidsbenker o.l., minst 200 lux.
+
+3.9.
 
 På steder der man ferdes om bord, skal den alminnelige belysning være minst 10 lux. Hvor man må passere under manøvrering og navigering av fartøyet, skal belysningen være minst 15 lux. Der det arbeides under fiske, lasting eller lossing, skal belysningen være minst 20 lux. Ved tilvirkning av fangst skal belysningen være minst 200 lux.
 
+3.10.
+
 I maskinrommet skal belysningen være minst 150 lux. Måle- og kontrollapparater skal ha en belysning på minst 300 lux.
 
+4\.
+
 På fartøy som er utstyrt med el.generator som bare er tilknyttet hovedmotor, skal oppholdsrom samt korridor og trappeoppganger i tillegg utstyres med tilstrekkelig lys ved strøm fra batterier.
+
+5\.
 
 Når besetningen bor eller arbeider om bord, skal det elektriske lysanlegget kunne settes i drift.
 
@@ -332,35 +528,61 @@ Soverom skal være utstyrt med følgende:Låsbart klesskap til hver person som r
 
 ### § 16. Spiserom, dagrom og kontorrom m.v.
 
+1\.
+
 Spiserom.
 
 Det skal være eget spiserom for besetningen. Fartøy på 45 m og derover bør ha atskilt spiseplass for skipsfører og offiserer. For fartøy på 15 m og derover inntil 24 m kan det benyttes kombinert bysse og spiserom. Jfr. [§ 8](forskrift/1991-10-15-713/§8) nr. 4.2.
 
+1.1.
+
 Spiserom skal normalt være slik innrettet at alle personer rommet/rommene er bestemt for, kan innta sine måltider samtidig. Spiserommet for mannskapet, eventuelt spiserom for hele besetningen, skal imidlertid aldri være mindre enn at 60% av de personer rommet er bestemt for kan innta sine måltider samtidig .
+
+1.2.
 
 Spiserom skal være utstyrt med ett eller flere bord. Bordareal pr. person skal være minst 0,24 m2 (minst 0,6 m x 0,4 m). Bord, stoler og benker skal plasseres slik at atkomsten til bordplassen er bekvem. Bordplaten skal ha en hard og glatt overflate uten sprekker. Stolsetene og benkene skal være uten sprekker og av materiale som tåler fuktighet. Stoler og benker skal ha ryggstø.
 
+1.3.
+
 Når noen av besetningen bor om bord, skal spiserommet eller anretningsromme ha kjøleskap som er i drift. Kjøleskapene skal ha tilstrekkelig kapasitet.
+
+1.4.
 
 På fartøy på 24 m og derover skal ha innretninger for varme drikker og kaldt vann.
 
+2\.
+
 Dagrom.
+
+2.1.
 
 På fartøy under 45 m som ikke er utstyrt med eget dagrom, skal spiserommet være dimensjonert, anordnet, møblert og utstyrt slik at det også er egnet som dagrom. Gulvarealet i kombinerte dagrom/ spiserom må være minst 2 m2 pr. person rommet er bestemt for.
 
+2.2.
+
 Fartøy på 45 m og derover skal ha minst ett separat dagrom.
+
+2.3.
 
 Utstyr til dagrom skal minst omfatte bokhyller og lese- og skriveutstyr, samt bord, stoler og utstyr til spill.
 
+3\.
+
 Kontorer.
+
+3.1.
 
 Fartøyets fører skal enten ha separat kontor eller kontor anordnet i eget dagrom/salong i tilknytning til soverom.
 
 På fartøy på 45 m og derover godkjennes ikke kombinert kontor/ soverom.
 
+3.2.
+
 For offiserer som har behov for kontorplass skal slik plass være anordnet.
 
 Felleskontor med andre offiserer eller kontorplass anordnet i tilknytning til soverom, anses tilfredsstillende.
+
+4\.
 
 I spiserom, dagrom, kontorer og andre rom hvor flere oppholder seg, skal det iverksettes egnede tiltak for å beskytte ikke-røykere mot tobakksrøyk.
 
@@ -368,23 +590,49 @@ I spiserom, dagrom, kontorer og andre rom hvor flere oppholder seg, skal det ive
 
 ### § 17. Byssas størrelse, utstyr m.m.
 
-Byssa skal ha hensiktsmessig plassering, størrelse og et funksjonelt arrangement. Følgende minstestørrelser anbefales:fartøy inntil 24 m5 m2 grunnflatefartøy mellom 24 m – 45 m7 m2 grunnflatefartøy på 45 m og derover10 m2 grunnflate
+1\.
+
+Byssa skal ha hensiktsmessig plassering, størrelse og et funksjonelt arrangement. Følgende minstestørrelser anbefales:
+
+|  |  |
+| --- | --- |
+| fartøy inntil 24 m | 5 m2 grunnflate |
+| fartøy mellom 24 m – 45 m | 7 m2 grunnflate |
+| fartøy på 45 m og derover | 10 m2 grunnflate |
+
+2\.
 
 På fartøy med fabrikkforedling av fangst, bør byssas grunnflate økes med ca. 0,5 m2 for hver person som arbeider i fabrikken.
 
+3\.
+
 Byssa skal bl.a. være utstyrt med:
+
+3.1.
 
 Komfyr eller tilsvarende utstyr for koking og steking.
 
+3.2.
+
 Benker som er minst 60 cm brede og ca. 85 cm høye og gir god arbeidsplass. Det skal være minst 2 oppvaskkummer m.v. for hygienisk renhold. Benkenes overflate og oppvaskkummene skal være av rustfritt stål eller annet godkjent materiale. Kummene og overflatebelegget på den benk hvor de er anbrakt, skal være i ett stykke. Det skal være særskilt utslagsvask med kran for varmt og kaldt drikkevann. Søppelsjakt eller annet arrangement for avfall skal være anordnet.
+
+3.3.
 
 Det skal være hensiktsmessig skap- og hylleplass for anbringelse av utstyr m.m. Rengjøringsutstyr skal anbringes i eget skap. Så vel hyller som skap skal være lett tilgjengelige for rengjøring og ha en overflate som er lett å holde ren.
 
+3.4.
+
 Fullt tilstrekkelig utstyr av kjeler, fat, redskaper m.v., av hensiktsmessig materiale.
+
+3.5.
 
 Hensiktsmessig opplegg av kraner for varmt og kaldt drikkevann.
 
+3.6.
+
 Vaskekum med rennende varmt og kaldt drikkevann for håndvask. I tilknytning til denne sepeautomat, engangshåndklær.
+
+4\.
 
 Hvor det ikke anordnes eget rom for oppvask av skaffetøy jfr. [§ 8](forskrift/1991-10-15-713/§8) nr. 4.5. skal det i byssa eller oppvaskavdelingen være minst 2 oppvaskkummer, med varmt og kaldt rennende drikkevann. På fartøy hvor det er mer enn 15 personer om bord, skal det være oppvaskmaskin godkjent av Helserådet, eller innretninger slik at skaffetøyet etter at det er vasket og skylt, kan kokes eller utsettes for damp. Bruksanvisning med bl.a. anvisning om renhold og ettersyn av oppvaskmaskinen skal være oppslått ved siden av maskinen. Jfr. den til enhver tid gjeldende hygieneforskrift for produksjon og frambud m.v. av næringsmidler fastsatt av Sosialdepartementet.
 
@@ -426,21 +674,44 @@ Hvor det ikke anordnes eget rom for oppvask av skaffetøy jfr. [§ 8](forskrift/
 
 ### § 22. Klosett
 
+1\.
+
 I klosettrom skal det være vaskeservant med varmt og kaldt drikkevann.
+
+1.1.
 
 Det skal minst være ett klosett for hver 6. person.
 
-Det minste antall klosetter skal være:På fartøy under 24 m:1 klosett.På fartøy på 24 m og derover:2 klosetter.
+1.2.
+
+Det minste antall klosetter skal være:
+
+|  |  |
+| --- | --- |
+| På fartøy under 24 m: | 1 klosett. |
+| På fartøy på 24 m og derover: | 2 klosetter. |
+
+2\.
 
 Det skal være plassert klosetter lett tilgjengelig fra:bro,maskinrom/kontrollrom,radiorom
 
+3\.
+
 På skip med sykerom skal det i forbindelse med, eller i umiddelbar nærhet av dette være klosett og vaskeservant med varmt og kaldt drikkevann, kun for pasienter.
+
+4\.
 
 Kvinnelige og mannlige besetningsmedlemmer skal kunne ha separate klosetter.
 
+5\.
+
 Dersom det er mer enn et klosett i rommet, eller klosetter i felles vaske- eller baderom, skal klosettene skjermes og utstyres med dør.
 
+6\.
+
 Klosettskålene skal være av glasert fajanse e.l. utstyrt med seter av anerkjent kvalitet som er lett å holde ren. Setene skal kunne slås opp. Hver klosettskål skal være forsynt med effektivt spyleapparat for alle temperaturforhold. Avløpet skal være forsvarlig innrettet og dimensjonert.
+
+7\.
 
 Avløp fra klosett, vaskeservant og vaskerom skal ha vannlås.
 
@@ -463,23 +734,41 @@ Hensiktsmessige håndbøker, brosjyrer, plansjer m.v. for ernæring, innkjøp, o
 
 ### § 26. Oppbevaring m.v. av drikkevann
 
+1\.
+
 Drikkevann skal være tilstede i tilstrekkelig mengde, være hygienisk betryggende og dessuten være klart, uten fremtredende lukt, smak eller farge, og for øvrig tilfredsstille kvalitetsnormene for drikkevann.
 
 Drikkevannsanlegget skal sikre tilførsel av minst 250 l pr. person pr. døgn eller nødvendig mengde etterdokumentasjon.
 
+2\.
+
 Tanker for drikkevann.
+
+2.1.
 
 Materialet i tanker og rør og beskyttelsesbelegg skal være slik at det ikke avgir stoffer i slike mengder at drikkevannet kan bli helsefarlig eller uegnet som drikkevann. Materialer i beskyttelsesbelegg som kommer i kontakt med drikkevannet skal være typegodkjent av Helsedirektoratet eller den de bemyndiger.
 
+2.2.
+
 Tanker for drikkevann skal til enhver tid holdes rene og rengjøres minst 1 gang i året. Før tanker tas i bruk og etter arbeid i tankene, skal de desinfiseres med klor.
+
+2.3.
 
 På fartøy med 2 eller flere tanker for drikkevann skal forholdene være slik at rengjøring, reparasjoner m.v. kan foregå uten avbrudd i drikkevannsforsyningen.
 
+2.4.
+
 Tank skal ha fri atkomst gjennom mannhull med vanntett og lufttett lukkeanordning.
+
+2.5.
 
 Tank skal kunne lenses helt gjennom bunnventil i tankens laveste punkt eller gjennom sugeledning. Sugeledning skal om mulig føres ned i forsenkning i tankens bunn. Stivere skal ha utsparinger for å sikre full drenering.
 
+2.6.
+
 Tank skal ikke støte opp til andre tanker hvor oljeprodukter, flytende kjemikalier m.v. føres. Rør fra andre systemer skal ikke føres gjennom drikkevannstank. Rør til og fra drikkevannstank skal ikke føres gjennom tanker som tilhører andre tanksystemer.
+
+2.7.
 
 Drikkevannsanlegget skal være atskilt fra andre væskesystemer om bord. Hvor drikkevannsanlegget er knyttet til maskinell utrustning (eksempelvis vaskemaskiner) skal det være beskyttet mot forurensning ved tilbakesug ved at tilknytningspunktet legges over væskenivå og med tilbakeslagsventil eller liknende sikring. Koplingspunkt for løse slanger skal ha tilbakeslagsventil eller vakuumbryter.
 
@@ -487,17 +776,31 @@ Rør som fører drikkevann skal tydelig merkes «Drikkevann» og males eller mer
 
 Peilerør og fyllerør til drikkevannstank skal ha en høyde over tanktopp på minst 300 mm, og være utstyrt med skrulokk. Lokket skal være fastgjort til røret med kjede slik at det ikke kan komme i berøring med dekk eller tanktopp.
 
+2.8.
+
 Tank skal ha minst to lufterør og avluftes til område med frisk luft. Disse skal ha størst mulig innbyrdes avstand. Lufterørene skal ha et bend nær øverste ende slik at åpningen vender ned, og være plassert slik at sjøvann ikke trenger inn. Åpningen skal være utstyrt med et nett av rustfritt stål eller tilsvarende materiale.
+
+2.9.
 
 Drikkevannstanker og rør skal være beskyttet mot frost, solvarme og varme fra fartøyets maskinanlegg.
 
+3\.
+
 Avsaltingsanlegg for fremstilling av ferskvann/drikkevann fra sjøvann.
+
+3.1.
 
 Ved anlegg hvor drikkevannet fremstilles ved avsalting av sjøvann, skal kloakk og spillvann føres ut slik at vanninntaket for fremstilling av drikkevann ikke forurenses. Inntaket for sjøvann skal være plassert slik at avløpsvann m.v. ikke kan tas inn i systemet. Avsalting av sjøvann kan foregå ved destillasjon eller omvendt osmose.
 
+3.2.
+
 Inntak av sjøvann for fremstilling av drikkevann skal ikke finne sted når det er grunn til å frykte at sjøvannet er forurenset. Samtlige havneområder skal betraktes som forurenset.
 
+3.3.
+
 Kjemikalier som nyttes ved driften av drikkevannsanlegg skal være godkjent av Helsedirektoratet.
+
+3.4.
 
 I utløpet for ferskvann fra avsaltingsanlegg skal det være et salinometer som gir alarm og bryter vannleveransen til drikkevannsanlegget ved for høyt saltinnhold.
 
@@ -507,17 +810,29 @@ Fra anlegg som produserer ferskvann ved omvendt osmose tillates maksimalt 200 pp
 
 Eventuelt oppherdingsanlegg bør plasseres mellom avsaltingsanlegg og drikkevannstanker.
 
+4\.
+
 Drikkevann fra land skal bare tas fra offentlig vannverk. Ved overføring til skipets tanker skal vannet kloreres. Det må treffes tiltak som sikrer god innblanding. Instruks skal være slått opp i nærheten av påfyllingsstedet.
+
+5\.
 
 Drikkevann skal desinfiseres etter godkjent metode før det går til forbruk. Metoder for vannbehandling, herunder desinfeksjon skal godkjennes av Helsedirektoratet eller den det bemyndiger. Det samme gjelder tilsetningsstoffer/behandlingskjemikalier.
 
 Desinfeksjon med klor eller ultrafiolett bestråling skal skje i overensstemmelse med vedlegg til denne forskrift.
 
+6\.
+
 Eventuell avklorering kan skje ved å la vannet passere et filter med aktivt kull, eller på annen godkjent måte. Avklorering må ikke skje før vannet har hatt en kontakttid med klor på minst 30 minutter.
+
+7\.
 
 Til analyse av drikkevannet skal følgende utstyr finnes om bord:pH-meter,utstyr til måling av restklor (fritt og bundet klor),utstyr til måling av saltholdigheten (for evaporert vann),vannmengdemåler,eventuelt annet utstyr etter tilråding fra Statens Institutt for Folkehelse.
 
+8\.
+
 Instruks for drift og kontroll av vannforsyningsanlegget skal foreligge på norsk. Instruksen skal være slått opp der vannbehandlingsanlegget er lokalisert og/eller på annet hensiktsmessig sted. Instruksen må inkludere veiledning om driftsanalyser.
+
+9\.
 
 Opplysninger om kontroll, utskifting av filtre m.v. skal innføres i maskindagboken eller egen driftsjournal.
 

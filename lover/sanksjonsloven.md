@@ -98,6 +98,8 @@ Forskrifter gitt i medhold av lovene nevnt i andre ledd bokstav a, b og c gjelde
 
 > Endret ved lov [20 des 2024 nr. 80](lov/2024-12-20-80) (i kraft 20 des 2024 iflg. [res. 20 des 2024 nr. 3297](forskrift/2024-12-20-3297), tidligere § 8).
 
+1 Fra 16 april 2021 iflg. [res. 16 april 2021 nr. 1182](forskrift/2021-04-16-1182).
+
 ## § 10. Endringer i andre lover
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover: – – –

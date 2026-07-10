@@ -24,7 +24,11 @@ eu_basis: []
 
 Finans- og tolldepartementet delegerer 24. oktober 1991 med dette til Skattedirektoratet å gi forskrifter i medhold av de nedenfor nevnte bestemmelser i [lov av 13. juni 1980 nr. 24](lov/1980-06-13-24) om ligningsforvaltning (ligningsloven):
 
+For inntektsåret 1991:
+
 § 4-4 nr. 5 og § 4-4 nr. 6
+
+Fra og med inntektsåret 1992:
 
 § 4-4 nr. 6 og § 4-4 nr. 7
 

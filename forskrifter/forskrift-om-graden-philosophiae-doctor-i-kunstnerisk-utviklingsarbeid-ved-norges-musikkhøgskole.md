@@ -380,9 +380,13 @@ Kandidaten kan likevel etter innlevering eller presentasjon søke om tillatelse 
 
 På grunnlag av bedømmelseskomiteens innstilling fatter NMH vedtak om hvorvidt det kunstneriske doktorgradsresultatet er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og programutvalget legger denne til grunn for sin behandling, fatter programutvalget selv vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom programutvalget finner at det foreligger begrunnet tvil hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal programutvalget legge saken fram for FoU-utvalget, som kan fatte vedtak i samsvar med komiteens innstilling eller søke nærmere avklaring fra komiteen og eventuelt oppnevne to nye sakkyndige som avgir individuelle uttalelser om doktorgradsresultatet. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader. FoU-utvalget fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir delt innstilling og programutvalget velger å legge flertallets uttalelser til grunn for sin behandling, fatter programutvalget vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og programutvalget vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, skal programutvalget legge saken fram for FoU-utvalget, som kan fatte vedtak i samsvar med flertallets innstilling eller søke nærmere avklaring fra komiteen og eventuelt oppnevne to nye sakkyndige som avgir individuelle uttalelser. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallet i den opprinnelige innstillingen, skal denne innstillingen følges.
 

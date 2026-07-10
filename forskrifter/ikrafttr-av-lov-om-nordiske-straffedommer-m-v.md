@@ -22,8 +22,8 @@ eu_basis: []
 
 # Ikrafttreden av lov om fullbyrding av nordiske dommer på straff m.v.
 
-1. – – –
+1\. – – –
 
-2. [Lov av 15. november 1963](lov/1963-11-15) om fullbyrding av nordiske dommer på straff m.v. settes i kraft fra 1. januar 1964.
+2\. [Lov av 15. november 1963](lov/1963-11-15) om fullbyrding av nordiske dommer på straff m.v. settes i kraft fra 1. januar 1964.
 
-3. Justisdepartementet gis fullmakt til å gi bestemmelser etter lovens § 24.
+3\. Justisdepartementet gis fullmakt til å gi bestemmelser etter lovens § 24.

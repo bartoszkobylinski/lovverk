@@ -28,18 +28,13 @@ Forskriften gjelder for norske og utenlandske fartøy.
 
 ## § 2. Forbud mot fiske i oppvekstområder
 
-Det er forbudt å fiske i følgende områder i Norges økonomiske sone sør for 62° N i perioden 1. juli–31. desember 2026:*Nr.**Områdenavn**Avgrenset av rette linjer mellom følgende koordinater:*1.Egersundbanken1 N 58° 07′–Ø 003° 37′
-2 N 58° 00′–Ø 003° 24′
-3 N 57° 45′–Ø 004° 00′
-4 N 57° 49′–Ø 005° 05′
-5 N 57° 55′–Ø 005° 05′2.Midtbanken6 N 57° 27′–Ø 007° 20′
-7 N 57° 25′–Ø 006° 30′
-8 N 57° 08,95′–Ø 006° 51′
-9 N 57° 17,95′–Ø 007° 20′3.Lille Fiskebank10 N 57° 15′–Ø 005° 00′
-11 N 56° 50′–Ø 005° 00′
-12 N 56° 50′–Ø 005° 48.25′
-13 N 56° 59,73′–Ø 006° 20′
-14 N 57° 15′–Ø 006° 20′
+Det er forbudt å fiske i følgende områder i Norges økonomiske sone sør for 62° N i perioden 1. juli–31. desember 2026:
+
+| *Nr.* | *Områdenavn* | *Avgrenset av rette linjer mellom følgende koordinater:* |
+| --- | --- | --- |
+| 1. | Egersundbanken | 1 N 58° 07′–Ø 003° 37′<br>2 N 58° 00′–Ø 003° 24′<br>3 N 57° 45′–Ø 004° 00′<br>4 N 57° 49′–Ø 005° 05′<br>5 N 57° 55′–Ø 005° 05′ |
+| 2. | Midtbanken | 6 N 57° 27′–Ø 007° 20′<br>7 N 57° 25′–Ø 006° 30′<br>8 N 57° 08,95′–Ø 006° 51′<br>9 N 57° 17,95′–Ø 007° 20′ |
+| 3. | Lille Fiskebank | 10 N 57° 15′–Ø 005° 00′<br>11 N 56° 50′–Ø 005° 00′<br>12 N 56° 50′–Ø 005° 48.25′<br>13 N 56° 59,73′–Ø 006° 20′<br>14 N 57° 15′–Ø 006° 20′ |
 
 ## § 3. Unntak
 

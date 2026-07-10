@@ -46,6 +46,18 @@ Bestemmelser for Sør-Spitsbergen, Forlandet og Nordvest-Spitsbergen nasjonalpar
 
 I. Avgrensning.1
 
+1 Grensebeskrivelsene refererer til Norsk Polarinstitutt's kart, Svalbard 1:500.000, førebels utgåve:
+
+Blad 1, Vestspitsbergen, søre del, 1968.
+
+Blad 2, Edgeøya, 1970.
+
+Blad 3, Vestspitsbergen, nordre del, 1968.
+
+Blad 4, Nordaustlandet, 1970.
+
+Fortegnelsen over tildelte bergrettigheter bygger på karter og dokumenter beroende hos Bergmesteren for Svalbard pr. 1. juni 1973.
+
 1. Sør-Spitsbergen nasjonalpark.Nasjonalparken omfatter Wedel Jarlsberg Land, Torell Land og Sørkapp Land med tilliggende terretorialfarvann. Avgrensningen i nord dannes av en linje – Ljosodden – toppen av Volkovitsfjellet – østligste bukt av Van Keulenfjorden, videre av en linje i Van Keulenfjorden gjennom posisjonene 77° 28′ N 16° 10′ Ø, 77° 32,5′ N 15° 50′ Ø, 77° 37′ N 14° 10′ Ø, til 77° 32′ N på terretorialgrensen. Avgrensningen følger så terretorialgrensen rundt Sørkapp til 77° 23′ N og linjen herifra til Ljosodden.Følgende utmålsbelagte områder omfattes ikke:Stolryggen 1-51 (NPN), Storfjord 1-3 (Adv.dal. kf.),Kovalskifjella 1-3 (Staten), Grimfjellet 1-13 (Staten), Brepollen 1-25 (NPN), Heimfjella 1-12 (C and T), Fagerbukta 1-6 (BERABO), Van Keulenfjorden 25 (ARKTIKUGOL), Midterfjord 1-2 (Adv.dal. kf.).Følgende områder der det er begjært utmål omfattes ikke:Grimfjellet ID 11-25, 17 B-21 (Staten), østkysten av Sørkapp Land og Torell Land med terretorialfarvann fra Ljosodden til Isbukta.Områder med rettigheter knyttet til 17 funnpunkter på Wedel Jarlsberg Land (FINA) omfattes ikke.
 2. Forlandet nasjonalpark.Nasjonalparken omfatter Prins Karls Forland og tilliggende sjøområder med følgende grenser:På vestkysten langs terretorialgrensen til den i en 4 naut. mils bue om ytterste Salskjera (grunnlinjepunkt 41) går over i den rette linjen til posisjon (tangenten til sirkelen fra denne posisjon) 78° 30′ N 12° 0′ Ø, og videre gjennom posisjonene 78° 42′ N 11° 20′ Ø, 78° 50′ N 11° 20′ Ø til den går over i en 4 naut. mils bue om Fuglehuken (grunnlinjepunkt 36) til terretorialgrensen.
 3. Nordvest-Spitsbergen nasjonalpark.Nasjonalparken omfatter Moffen, Reinsdyrflya, Albert I Land og Haakon VII Land. Avgrensningen mot syd dannes av en linje fra innerste bukt i Woodfjorden – toppen av Labor-fjellet – sydligste topp av Tre Brødre – høyeste topp av H. U. Sverdrupfjella – Grimalditoppen – Kapp Guissez. Fra Kapp Guissez langs tangenten til en sirkel med radius 4 nautiske mil om Mitraskjæret (grunnlinjepunkt 35), sirkelbuen til terretorialgrensen. Videre terretorialgrensen nordover til 15° 0′ Ø, herifra langs en linje i Woodfjorden gjennom posisjonene 79° 32′ N 17° 38′ Ø og 79° 20′ N 14° 2′ Ø til innerste bukt i Woodfjorden.

@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)
 
+Loven **oppheves** ved lov [20 juni 2025 nr. 81](lov/2025-06-20-81) (i kraft fra den tiden Kongen bestemmer).
+
 ## Kapittel I. Lovens område. Definisjoner.
 
 ### § 1. (lovens generelle virkeområde).
@@ -685,3 +687,5 @@ Forhold knyttet til ileggelsen av tvangsmulkt kan påklages særskilt. Reglene i
 Tidspunktet for lovens ikrafttredelse fastsettes ved særskilt lov.1
 
 > Endret ved lov [27 mai 2016 nr. 15](lov/2016-05-27-15) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 713](forskrift/2017-06-09-713), tidligere § 43).
+
+1 Fra 1 jan 1970 iflg. [lov 19 juni 1969 nr. 54](lov/1969-06-19-54) del I, som i annet ledd ga hjemmel for forskrifter om anvendelsen av loven på saker under behandling og på eldre forskrifter.

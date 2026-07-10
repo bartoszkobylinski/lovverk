@@ -170,7 +170,13 @@ Samtidig som forskriften trer i kraft, oppheves kommunale forskrifter for bruk a
 
 ### Merknader til forskriften [§ 4a](forskrift/1988-05-15-356/§4a)
 
+*Første ledd*
+
 Første ledd gir hjemmel for å bruke løypene som kommunen fastsetter etter reglene i andre til åttende ledd. Bruken må være i samsvar med de bestemmelser kommunen gir om fartsgrenser, kjøretider, rasting mv., jf. andre ledd fjerde til sjette punktum. I løypene kan det kun kjøres med snøscooter (beltemotorsykler). Bestemmelsen hjemler ikke fornøyelseskjøring med andre motorkjøretøy som ATV med påsatte belter eller snørekjøring etter tråkkemaskiner (cat-skiing). Med «vinterføre» menes mark som er dekket av naturlig vintersnø. Hele løypa må være dekket av et bærende snølag, og løypene kan ikke brukes når deler eller flekker i løypa ikke lenger er dekket av snø.
+
+*Andre ledd*
+
+*Første og andre punktum*
 
 Første punktum slår fast at kommunen har myndighet til å fastsette løyper for fornøyelseskjøring med snøscooter på vinterføre.
 
@@ -184,9 +190,13 @@ Løypene for snøscooter skal fastsettes i eget kart, jf. andre ledd andre punkt
 
 Det er mest hensiktsmessig at kommunen vedtar kartet og bestemmelsene samtidig. Begge deler må ha rettskraft før snøscooterløypene kan tas i bruk.
 
+*Tredje punktum*
+
 Når kommunen har fattet vedtak som fastsetter snøscooterløyper og bestemmelser om bruken av disse, skal løypene så snart som mulig tegnes inn i kartet til kommuneplanens arealdel. Løypene skal vises med det forhåndsdefinerte linjesymbolet SOSI kode 1164 ved inntegning i kommuneplanens arealdel. Linjen i kommuneplanens arealdel er til informasjon og har ikke rettslig virkning, og den vil være en viktig informasjon i den kommunale arealplanleggingen.
 
 Selv om det ikke er krav om utarbeiding av reguleringsplan eller annen arealplan i forbindelse med fastsetting av snøscooterløyper, kan det være tilfelle der reguleringsplan er hensiktsmessig for å regulere annen infrastruktur i tilknytning til løypene, for eksempel ved løypestart/slutt dersom det det skal være utfartsparkering, lagringsplass for hengere eller lignende. Ved inntegning av løypa i reguleringsplanen skal kommunen benytte linjesymbol med SOSI kode 1264 som fra 1. juli 2015 vil bli et eget linjesymbol for reguleringsplaner. Linjesymbol 1264 vil ha samme virkning som informasjonslinje for snøscooterløype i kommuneplanens arealdel.
+
+*Fjerde til sjette punktum*
 
 Kommunen skal gi bestemmelser om bruken av løypene. Disse skal som et minimum omfatte regler om fartsgrenser og kjøretider. [Vegtrafikkloven](lov/1965-06-18-4) gjelder for kjøring med snøscooter, og [forskrift 14. desember 2001 nr. 1412 om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel](forskrift/2001-12-14-1412) har særlige bestemmelser for kjørefart for beltemotorsykkel/snøscooter. Forskriften fastsetter at det i terreng ikke må kjøres fortere enn 70 km i timen, og at det for beltemotorsykkel med slede ikke må kjøres fortere enn 60 km i timen uten passasjerer og 40 km i timen med passasjerer.
 
@@ -204,11 +214,17 @@ Ved utredning av støy, effekter for friluftsliv og naturmangfold mv. må kommun
 
 Kommunen kan også fastsette andre bestemmelser om bruken av løypene, for eksempel om bruk til bestemte formål eller grupper, eller bestemmelser om betaling. Slike bestemmelser må imidlertid ikke stride mot andre rettsregler (for eksempel prinsippet om ikke-diskriminering i [EØS-avtalen](lov/1992-11-27-109/eøsl)). Rammene for adgang til brukerbegrensning følger i all hovedsak av annet regelverk enn motorferdselregelverket, først og fremst [EØS-avtalen](lov/1992-11-27-109/eøsl) og prinsippet om ikke-diskriminering. Det er den enkelte kommunes ansvar å sørge for at den ikke innfører ordninger som bryter med EØS-retten eller annet regelverk.
 
+*Sjuende punktum*
+
 Av sikkerhetshensyn er det nødvendig at løypene merkes. Dette sikrer også at de som kjører holder seg i traséen slik den er bestemt i løypekartet. Kommunen har det overordnede ansvaret for at løypene er tilstrekkelig merket, men kan inngå avtaler med andre aktører om drift og vedlikehold av løypene. Løypene bør merkes med merkestikker som er utstyrt med refleks. Krav til frekvens på merkestikker må vurderes ut hva som er nødvendig med tanke på sikkerhet. Ved merking bør det tas hensyn til om løypa går over eller under tregrensen, kontrastvirkning etc. slik at det ikke er vanskelig å følge merkingen også i dårlig sikt og kritiske situasjoner.
 
 Merkingen av snøscooterløypene skal som hovedregel ikke stå hele året gjennom, men settes ut etter at snøen er kommet om høsten og tas inn før snøen går om våren. I noen områder kan det være aktuelt med fastmerking av snøscooterløypene. Dette er særlig aktuelt i områder hvor løypa går gjennom kalvingsland for reinsdyr. I slike områder kan det være vanskelig å hente inn merkestikkene på våren uten at reinen forstyrres. Slik fastmerking bør komme i stand i et samarbeid mellom kommunen og statsforvalteren.
 
+*Åttende og niende punktum*
+
 Av hensyn til yngle- og hekketiden for dyr og fugler, er det ikke tillatt å kjøre med snøscooter i løypene på våren etter 5. mai. I sentrale områder for kalving og flytting av rein er det ikke tillatt å kjøre i løypene etter 25. april. Reglene i [forskrift for bruk av motorkjøretøyer i utmark og på islagte vassdrag § 8](forskrift/1988-05-15-356/§8) bortsett fra første ledd første punktum gjelder også. Forskriften [§ 8](forskrift/1988-05-15-356/§8) vil fremdeles gjelde for kommunene i Nord-Troms og Finnmark, så reguleringen vil bare ha selvstendig betydning for resten av landet. Statsforvalteren vil kunne bestemme at løypene skal være stengt i andre tidsrom. Statsforvalteren kan også etter søknad gjøre unntak fra forbudet i spesielle tilfeller. Fornøyelseskjøring vil imidlertid som utgangspunkt ikke anses som et spesielt tilfelle, og ønske om forlenging av sesongen for slik kjøring vil derfor ikke gi grunnlag for unntak.
+
+*Tredje ledd*
 
 Etablering av snøscooterløyper krever medvirkning, samarbeid, samråd, offentlighet og informasjon. Det er av stor betydning at kommunen tidlig i prosessen tar kontakt med fylkeskommunen og aktuelle sektormyndigheter som statsforvalteren, Vegvesenet, norske og svenske/finske tollmyndigheter ved grensekryssing, NVE, politiet angående sikkerhet og kontroll mv. Når det er aktuelt å legge snøscooterløyper langs og over veier, må kommunen tidlig involvere vegeier. Det er en forutsetning at berørte interessegrupper som næringsinteresser (herunder reindriftsnæringa), beboerforeninger, grunneiere, turlag og andre friluftsorganisasjoner, miljøorganisasjoner, velforeninger, hytteforeninger og lignende får komme til orde i beslutningsprosessen.
 
@@ -223,6 +239,8 @@ Høringsforslaget må inneholde kart som på en forståelig og entydig måte vis
 I tredje punktum stilles det krav til begrunnelsen i kommunens vedtak. En god begrunnelse er særlig viktig fordi vedtaket kan påklages, se åttende ledd. Av vedtaket skal det fremgå hvordan innkomne uttalelser til forslaget og konsekvensene av snøscooterløypene med bestemmelser har vært vurdert, og hvilken betydning disse er tillagt. Kommunens vurdering av hensynene i femte ledd skal også fremgå av vedtaket. Vedtaket må også oppfylle formkravene i [forvaltningsloven § 38](lov/1967-02-10/§38) ved å vise til kommunens hjemmel til å utferdige forskrift og nevne forvaltningsorganet som har gitt forskriften.
 
 Fjerde punktum krever at kommunens vedtak av kart over snøscooterløyper med bestemmelser kunngjøres som beskrevet for reguleringsplaner i [plan- og bygningsloven § 12-12 fjerde](lov/2008-06-27-71/§12-12/ledd/4) og [femte ledd](lov/2008-06-27-71/§12-12/ledd/5). Siden kommunens vedtak kan påklages, jf. åttende ledd, stilles det særskilt krav til kunngjøringen. I tillegg gjelder [forvaltningslovens](lov/2025-06-20-81) krav til kunngjøring i [§ 38](lov/2025-06-20-81/§38) og [§ 39](lov/2025-06-20-81/§39) hvor det blant annet kreves at forskriften kunngjøres i Norsk Lovtidend.
+
+*Fjerde ledd*
 
 Bestemmelsen fastslår at snøscooterløyper ikke skal legges i verneområder, foreslåtte verneområder eller nasjonale villreinområder, og at de ikke skal være til vesentlig skade eller ulempe for reindrift eller kreve terrenginngrep.
 
@@ -242,6 +260,8 @@ Løypene må ikke kreve terrenginngrep, herunder planering og opparbeiding av te
 
 Tiltak som har tilknytning til snøscooterløyper kan utløse krav til reguleringsplan etter [plan- og bygningsloven § 12-1 tredje ledd](lov/2008-06-27-71/§12-1/ledd/3). Dette kan for eksempel gjelde opparbeiding av parkeringsplass ved start/sluttpunkt for løypene.
 
+*Femte ledd*
+
 Bestemmelsen nevner hensyn som kommunen skal ta vare på ved fastsettingen av snøscooterløyper. Det er en hensynsregel og ikke en absolutt forbudsregel. Kommunen bør likevel ikke fastsette løyper der disse vil være til vesentlig ulempe for de nevnte hensynene. Kommunens vurdering av disse hensynene skal gå frem av vedtaket, jf. tredje ledd tredje punktum. Det er viktig at kommunene i prosessen frem mot et eventuelt vedtak om å etablere snøscooterløype sørger for å få fram de ulike interessene som gjør seg gjeldende slik at de kan tas med i kommunens vurdering.
 
 Ved fastsetting av løypene skal kommunen ta særskilt hensyn til støy og andre ulemper for friluftslivet. Det er særlig friluftslivet som risikerer å bli skadelidende ved etablering av snøscooterløyper, ikke minst som følge av eventuell ulovlig kjøring med utspring i løypene. Hensynet til friluftslivet står derfor i en særstilling. Kommunen bør ikke legge snøscooterløyper i blant annet viktige eller svært viktige friluftsområder, jf. Miljødirektoratets håndbok M98-2013 Kartlegging og verdsetting av friluftslivsområde. Kommunen skal før forslag om løyper sendes på høring, ha kartlagt og verdsatt friluftslivsområdene der løypene planlegges og vurdere betydningen av disse områdene opp mot øvrige friluftslivsområder i kommunen, jf. sjette ledd. Kommunen vil således ha et godt grunnlag for å unngå løyper i slike områder. Kommunen bør også se hen til høringsinstansenes merknader om store, sammenhengende vinterfriluftsområder og bør søke å holde slike områder frie for snøscooterløyper.
@@ -258,6 +278,8 @@ Enkelte terreng som er markert i kart som utløpsområder for skred kan være re
 
 Kommunen må også ta hensyn til andre lokale forhold som kan representere en fare ved snøscooterkjøring, f.eks. små brattheng og kløfter, usikker is, vertikal og horisontal kurvatur, siktforhold, værforhold, påkjøringsfarlige objekter og lignende.
 
+*Sjette ledd*
+
 Etter sjette ledd skal kommunen utrede virkningene løypene vil ha for friluftsliv og naturmangfold i influensområdet. Med influensområde menes området som blir påvirket av etablering av snøscooterløyper, for eksempel det området som blir påvirket av støy. Det er altså ikke bare virkningene på friluftsliv og naturmangfold i selve snøscooterløypene som i denne sammenhengen er relevant, men også virkninger for områdene utenfor løypene som berøres.
 
 Kommunen skal videre foreta en kartlegging og verdsetting av friluftslivsområdene der løypene planlegges. Kartleggingen og verdsettingen skal skje med utgangspunkt i Miljødirektoratets håndbok M98-2013 Kartlegging og verdsetting av friluftslivsområder. Kommunen skal vurdere betydningen av disse områdene opp mot øvrige friluftsområder i kommunen.
@@ -266,9 +288,13 @@ Utredningen og kartleggingen skal fremgå når forslaget til snøscooterløyper 
 
 Gjennomført kartlegging og verdsetting vil være nyttig for kommunen også i andre saker, spesielt plansaker. Departementet vil for øvrig bemerke at det i «Nasjonal strategi for et aktivt friluftsliv» er fastsatt et mål om at flest mulig av landets kommuner har kartlagt og verdsatt sine viktigste friluftsområder innen 2018. Dette er dermed et arbeid kommunene bør gjennomføre uavhengig av om den skal etableres snøscooterløyper. Miljødirektoratet fordeler tilskudd til kartlegging og verdsetting av friluftslivsområder. Tilskuddsmidlene på denne ordningen ble økt i 2015.
 
+*Sjuende ledd*
+
 Sjuende ledd presiserer at kommunen ikke kan treffe vedtak om snøscooterløype over en eiendom før grunneieren har samtykket. Også uten en spesifikk bestemmelse om samtykke vil grunneier som hovedregel ha rett til å forby eller begrense motorferdsel over egen eiendom ut fra prinsippet om grunneiers råderett over egen eiendom, med mindre det foreligger en særlig bruksrett på bakgrunn av hevd eller annet. Motorferdsel er ikke en del av allemannsretten. Bestemmelsen om grunneiersamtykke har således ingen selvstendig betydning når det gjelder grunneiers rett til å nekte snøscooterkjøring på egen eiendom. Bestemmelsen har kun selvstendig betydning for tidspunktet kommunen må innhente samtykke på – den stiller krav om at kommunen må innhente et eksplisitt samtykke på forhånd, før den treffer vedtaket om å etablere snøscooterløyper. Kravet om innhenting av samtykke gjelder overfor både private og offentlige grunneiere.
 
 I statsallmenninger er det fjellstyrene som gir samtykke til snøscooterløyper, jf. [fjelloven § 12 tredje ledd](lov/1975-06-06-31/§12/ledd/3).
+
+*Åttende ledd*
 
 Kommunens vedtak vil etter sin art være en forskrift selv om vedtaket kan få rettsvirkning som enkeltvedtak for enkelte personer i spesielle tilfeller. Åttende ledd gir en særregel om klage på kommunens forskrift. Det er ikke klagerett dersom en kommune velger ikke å fastsette noen forskrift om snøscooterløyper.
 

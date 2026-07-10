@@ -485,15 +485,27 @@ Denne forskriften trer i kraft 1. august 2002. Samtidig oppheves:[forskrift av 2
 
 Hver saue- og geitebesetning tilhører én av de følgende TSE-klassene med utgangspunkt i det nasjonale overvåkingsprogrammet for overførbare spongiforme encefalopatier (TSE), herunder varslingsplikten i [§ 18](forskrift/2002-06-27-732/§18), jf. [§ 17](forskrift/2002-06-27-732/§17):
 
+*TSE-klasse 1*
+
 Besetningen har ikke vært overvåket for TSE, eller den har vært overvåket i en kortere periode enn 2 år uten at TSE, med unntak av skrapesjuke Nor98, er påvist.
+
+*TSE-klasse 2*
 
 Besetningen har vært overvåket for TSE i mer enn 2 år uten at TSE, med unntak av skrapesjuke Nor98 er påvist.
 
+*TSE-klasse 3*
+
 Besetningen har vært overvåket for TSE i mer enn 3 år uten at TSE, med unntak av skrapesjuke Nor98 er påvist.
+
+*TSE-klasse 4*
 
 Besetningen oppfyller vilkårene som stilles for å ha status kontrollerbar risiko for å ha klassisk skrapesjuke i TSE-forskriften [§ 2](forskrift/2002-06-27-732/§2), jf. forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg VIII, kapittel A, del A. Dyreholder må søke Mattilsynet om å komme i denne klassa.
 
+*TSE-klasse 5*
+
 Besetningen oppfyller vilkårene som stilles for å ha status neglisjerbar risiko for å ha klassisk skrapesjuke i TSE-forskriften [§ 2](forskrift/2002-06-27-732/§2), jf. forordning [(EF) nr. 999/2001](eu/32001r0999) vedlegg VIII, kapittel A, del A. Dyreholder må søke Mattilsynet om å komme i denne klassen.
+
+*Andre vilkår*
 
 Nyetablerte besetninger tilhører samme TSE-klasse som opprinnelsesbesetningen, men tilhører i utgangspunktet ikke en høyere klasse enn TSE-klasse 3. Hvis dyr hentes fra flere besetninger, tilhører den nyetablerte besetningen samme TSE-klasse som den lavest klassifiserte opprinnelsesbesetningen.
 

@@ -36,17 +36,31 @@ Bestemmelsene i første og annet ledd får virkning fra 15. april 1951.
 
 ## III.
 
-1. For alle som er eller blir tilstått pensjon etter bestemmelsene i lovene om [krigspensjonering for militærpersoner](lov/1946-12-13-21) og for [hjemmestyrkepersonell og sivilpersoner av 13. desember 1946](lov/1946-12-13-22), skal full invalidepensjon etter de forskjellige pensjonsgrunnlag svare til full invalidepensjon i Statens pensjonskasse etter lønnen i de nedenfor oppførte lønnstrinn i statens lønnsregulativ per 30. april 1986:Militærpersoner:Pensjonsgrunnlag
-kronerLønnstrinn i statens
-lønnsregulativ10.00023 Sivilpersoner:Pensjonsgrunnlag
-kronerLønnstrinn i statens
-lønnsregulativGruppe 110.00023Gruppe 24.00012Gruppe 33.20012Krigspensjonene skal beregnes etter nevnte lønnstrinn med de pensjonsreguleringer som blir gjennomført i Statens pensjonskasse i samband med lønnsreguleringene for de offentlige tjenestemenn.For pensjonister med pensjonsgrunnlag kr. 10.000, kr. 9.000 og kr. 8.000 skal det gis tillegg for manglende regulering fra 1976 tilsvarende det som gjennomføres i Statens pensjonskasse.
+1\. For alle som er eller blir tilstått pensjon etter bestemmelsene i lovene om [krigspensjonering for militærpersoner](lov/1946-12-13-21) og for [hjemmestyrkepersonell og sivilpersoner av 13. desember 1946](lov/1946-12-13-22), skal full invalidepensjon etter de forskjellige pensjonsgrunnlag svare til full invalidepensjon i Statens pensjonskasse etter lønnen i de nedenfor oppførte lønnstrinn i statens lønnsregulativ per 30. april 1986:
 
-2. Enkepensjonen skal fra 1. oktober 1964 utgjøre 2/3 av den fulle invalidepensjon som svarer til mannens pensjonsgrunnlag, jfr. punkt 1.
+Militærpersoner:
 
-3. Det kan tilstås barnetillegg og barnepensjon til og med den måned da barnet fyller 21 år, når barnet fortsetter sin opplæring eller utdannelse.
+| Pensjonsgrunnlag<br>kroner | Lønnstrinn i statens<br>lønnsregulativ |
+| --- | --- |
+| 10.000 | 23 |
 
-4. Fra 1. januar 2011 reguleres krigspensjon under utbetaling i samsvar med lønnsveksten fram til fylte 67 år. Fra fylte 67 år reguleres krigspensjon under utbetaling i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første regulering etter fylte 67 år gjelder bestemmelsen i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 42](lov/1949-07-28-26/§42) første ledd andre punktum tilsvarende. Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.
+Sivilpersoner:
+
+|  | Pensjonsgrunnlag<br>kroner | Lønnstrinn i statens<br>lønnsregulativ |
+| --- | --- | --- |
+| Gruppe 1 | 10.000 | 23 |
+| Gruppe 2 | 4.000 | 12 |
+| Gruppe 3 | 3.200 | 12 |
+
+Krigspensjonene skal beregnes etter nevnte lønnstrinn med de pensjonsreguleringer som blir gjennomført i Statens pensjonskasse i samband med lønnsreguleringene for de offentlige tjenestemenn.
+
+For pensjonister med pensjonsgrunnlag kr. 10.000, kr. 9.000 og kr. 8.000 skal det gis tillegg for manglende regulering fra 1976 tilsvarende det som gjennomføres i Statens pensjonskasse.
+
+2\. Enkepensjonen skal fra 1. oktober 1964 utgjøre 2/3 av den fulle invalidepensjon som svarer til mannens pensjonsgrunnlag, jfr. punkt 1.
+
+3\. Det kan tilstås barnetillegg og barnepensjon til og med den måned da barnet fyller 21 år, når barnet fortsetter sin opplæring eller utdannelse.
+
+4\. Fra 1. januar 2011 reguleres krigspensjon under utbetaling i samsvar med lønnsveksten fram til fylte 67 år. Fra fylte 67 år reguleres krigspensjon under utbetaling i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første regulering etter fylte 67 år gjelder bestemmelsen i [lov 28. juli 1949 nr. 26](lov/1949-07-28-26) om Statens pensjonskasse [§ 42](lov/1949-07-28-26/§42) første ledd andre punktum tilsvarende. Ved reguleringen benyttes de reguleringsfaktorer Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd. Reguleringen skjer årlig med virkning fra 1. mai.
 
 > Tilføyd ved lov 6 mai 1955 nr. 2, endret ved lover 19 des 1958 nr. 23, [12 juni 1959 nr. 3](lov/1959-06-12-3), [1 feb 1963 nr. 1](lov/1963-02-01-1), [18 des 1964 nr. 13](lov/1964-12-18-13), [22 mars 1968 nr. 2 § 7](lov/1968-03-22-2/§7), [13 juni 1980 nr. 45](lov/1980-06-13-45), [24 mai 1985 nr. 34](lov/1985-05-24-34), [27 juni 1986 nr. 50](lov/1986-06-27-50), [27 nov 1987 nr. 72](lov/1987-11-27-72), [9 des 1994 nr. 65](lov/1994-12-09-65) (ikr. 1 mai 1995), [18 des 1998 nr. 86](lov/1998-12-18-86) (ikr. 1 sep 1999), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011), [25 nov 2011 nr. 43](lov/2011-11-25-43) (ikr. 1 jan 2011), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler).
 

@@ -144,6 +144,8 @@ En registrert rettighet går foran en rettighet som ikke er registrert eller som
 
 En eldre rettighet går uten hensyn til første ledd foran en yngre rettighet, dersom:den yngre rettigheten bygger på avtale og erververen av den yngre rettigheten ved registreringen kjente eller burde kjent til den eldre rettigheten, ellerden yngre rettigheten er ervervet ved arv.1 Når en rettighet som er ervervet ved avtale er registrert, kan det ikke gjøres gjeldende mot kjøper at selgerens rett ikke var i samsvar med elsertifikatregisterets innhold. Dette gjelder ikke dersom kjøperen var eller burde være kjent med selgerens manglende rett da kjøpet ble registrert, eller ved konflikter mellom kolliderende rettigheter som nevnt i første og annet ledd.
 
+1 Inkurie: Skulle ha vært tredje ledd.
+
 ### § 15. Prisinformasjon
 
 Registeransvarlig skal fortløpende offentliggjøre informasjon om overdragelser av elsertifikater, herunder om tidspunkt for overdragelsen, antall overdratte elsertifikater og vederlagets størrelse.
@@ -289,6 +291,8 @@ Departementet kan fastsette forskrifter til gjennomføring og utfylling av loven
 ### § 31. Ikrafttredelse
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+1 Fra 1 jan 2012 iflg. [res. 16 des 2011 nr. 1244](forskrift/2011-12-16-1244).
 
 ### § 32. Endringer i andre lover
 

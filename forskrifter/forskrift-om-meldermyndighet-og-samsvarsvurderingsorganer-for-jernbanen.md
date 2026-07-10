@@ -213,3 +213,5 @@ Forpliktelsen til å gi opplysninger som er fastsatt i [§ 4-4 første ledd](for
 ### § 7-1. Ikrafttredelse
 
 Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/797](eu/32016l0797) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 790](forskrift/2022-05-06-790).

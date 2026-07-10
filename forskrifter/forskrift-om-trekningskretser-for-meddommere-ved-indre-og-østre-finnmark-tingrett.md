@@ -26,10 +26,14 @@ eu_basis: []
 
 Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Tana (rettssted Deatnu/Tana)
+
 - Deatnu/Tana kommune
 - Guovdageaidnu/Kautokeino kommune
 - Kárášjohka/Karasjok kommune
 - Unjárga/Nesseby kommune.
+
+Trekningskrets 2 Vadsø (rettssted Vadsø)
 
 - Berlevåg kommune
 - Båtsfjord kommune

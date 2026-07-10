@@ -274,9 +274,13 @@ Et innlevert arbeid kan ikke trekkes tilbake før det er endelig avgjort om det 
 
 AHO fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om hvorvidt ph.d.-avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og AHO finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter AHO selv vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom AHO finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal AHO selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. AHO fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir delt innstilling og AHO finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter AHO vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og AHO vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan AHO søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges ph.d.-kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges. Kandidaten skal underrettes om utfallet etter behandling av uttalelser fra nye sakkyndige.
 

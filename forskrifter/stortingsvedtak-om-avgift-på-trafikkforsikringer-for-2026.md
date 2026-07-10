@@ -30,7 +30,25 @@ Avgiften omfatter ikke forsikringsavtaler eller gebyr for motorvogn som er omfat
 
 ## § 2.
 
-Avgift skal betales med følgende beløp (kr) per døgn:*Avgiftsgrupper**Trafikkforsikringsavtale som tegnes eller har hovedforfall, og gebyr som er mottatt*før 1. mars 2025fra 1. mars 2025 t.o.m. februar 2026fra 1. mars 2026 eller senere*Avgiftsgruppe a*personbiler, varebiler, campingbiler, busser, kombinerte biler, lastebiler, samt trekkbiler med tillatt totalvekt fra og med 3 500 kg7,606,386,52*Avgiftsgruppe b*dieseldrevne motorvogner i avgiftsgruppe a som ikke har fabrikkmontert partikkelfilter9,117,938,10*Avgiftsgruppe c*årsprøvekjennemerker for motorvogner7,606,386,52*Avgiftsgruppe d*motorsykler; trehjuls, lette, mellomtunge og tunge5,235,395,51*Avgiftsgruppe e*andre kjøretøy0,370,380,39*Avgiftsgruppe f*motorvogner i avgiftsgruppe a som bare bruker elektrisitet til fremdrift, herunder motorvogner hvor elektrisiteten er produsert i brenselceller8,708,969,16*Avgiftsgruppe g*varebiler med egenvekt under 1 785 kg som bare bruker elektrisitet til fremdrift, herunder varebiler hvor elektrisiteten er produsert i brenselceller8,708,960
+Avgift skal betales med følgende beløp (kr) per døgn:
+
+| *Avgiftsgrupper* | *Trafikkforsikringsavtale som tegnes eller har hovedforfall, og gebyr som er mottatt* |  |  |
+| --- | --- | --- | --- |
+|  | før 1. mars 2025 | fra 1. mars 2025 t.o.m. februar 2026 | fra 1. mars 2026 eller senere |
+| *Avgiftsgruppe a* |  |  |  |
+| personbiler, varebiler, campingbiler, busser, kombinerte biler, lastebiler, samt trekkbiler med tillatt totalvekt fra og med 3 500 kg | 7,60 | 6,38 | 6,52 |
+| *Avgiftsgruppe b* |  |  |  |
+| dieseldrevne motorvogner i avgiftsgruppe a som ikke har fabrikkmontert partikkelfilter | 9,11 | 7,93 | 8,10 |
+| *Avgiftsgruppe c* |  |  |  |
+| årsprøvekjennemerker for motorvogner | 7,60 | 6,38 | 6,52 |
+| *Avgiftsgruppe d* |  |  |  |
+| motorsykler; trehjuls, lette, mellomtunge og tunge | 5,23 | 5,39 | 5,51 |
+| *Avgiftsgruppe e* |  |  |  |
+| andre kjøretøy | 0,37 | 0,38 | 0,39 |
+| *Avgiftsgruppe f* |  |  |  |
+| motorvogner i avgiftsgruppe a som bare bruker elektrisitet til fremdrift, herunder motorvogner hvor elektrisiteten er produsert i brenselceller | 8,70 | 8,96 | 9,16 |
+| *Avgiftsgruppe g* |  |  |  |
+| varebiler med egenvekt under 1 785 kg som bare bruker elektrisitet til fremdrift, herunder varebiler hvor elektrisiteten er produsert i brenselceller | 8,70 | 8,96 | 0 |
 
 Avgiftsgruppe e omfatter følgende kjøretøy:motorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 9](lov/2002-06-21-45/§9) som drosje (ikke reserve- eller erstatningsdrosje) eller for transport av funksjonshemmedemotorvogner som er registrert på innehaver av løyve etter [yrkestransportlova § 6](lov/2002-06-21-45/§6) eller som er utleid på kontrakt med varighet på ett år eller mer mellom innehaver av slikt løyve og selskap i samme konsern. Dette gjelder også motorvogner som utfører rutetransport basert på kontrakt med varighet på ett år eller mer, inngått med myndighet eller selskap som har slikt ruteløyvemotorvogner som er godkjent og registrert som ambulanse eller som er registrert som begravelseskjøretøy på begravelsesbyrå og lignendemotorvogner som er registrert på kjennemerker med lysegule tegn på sort bunnmotorredskaperbeltekjøretøytrekkbiler som ikke omfattes av avgiftsgruppe a eller bmopedertraktorermotorvogner som er 30 år eller eldre.
 

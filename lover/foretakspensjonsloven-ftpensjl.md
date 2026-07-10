@@ -202,6 +202,8 @@ eu_basis:
 
 > Tilføyd ved [lov 7 juni 2002 nr. 17](lov/2002-06-07-17) (ikr. 1 des 2003 iflg. [vedtak 3 nov 2003 nr. 1293](forskrift/2003-11-03-1293)) som endret ved [lov 13 des 2002 nr. 75](lov/2002-12-13-75), endret ved lover [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [13 des 2013 nr. 106](lov/2013-12-13-106) (ikr. 1 jan 2014 iflg. [res. 13 des 2013 nr. 1444](forskrift/2013-12-13-1444)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
 
+1 Inkurie: Paragrafen er opphevet.
+
 ### Kapittel 3. Medlemskap i pensjonsordningen
 
 ### § 3-1. Krav til regelverket
@@ -418,6 +420,8 @@ Opptjent pensjon for arbeidstaker i deltidsstilling skal utgjøre en forholdsmes
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
+1 Inkurie: Lovens korttittel er nå forsikringsvirksomhetsloven, se [lov 27 juni 2008 nr. 65](lov/2008-06-27-65).2 Inkurie: Opphevet, se [lov 10 juni 2005 nr. 44 kapittel 6](lov/2005-06-10-44/kap6).
+
 ### § 4-10. Utenlandske statsborgere
 
 Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og som slutter i foretaket med rett til opptjent pensjon og som deretter bosetter seg i utlandet, kan bruke tilhørende premiereserve til å sikre pensjonsrettigheter i utenlandsk pensjonsinnretning som ikke omfattes av [§ 1-1](lov/2000-03-24-16/§1-1) annet ledd.
@@ -437,6 +441,8 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 (3) I regelverket for en pensjonsordning som har regler om medregning, skal det fastsettes som vilkår for medregning at midler knyttet til pensjon opptjent på grunnlag av tidligere tjenestetid i annet foretak blir overført til pensjonsordningen etter reglene i forsikringsloven1 kapittel 11.2
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [19 des 2003 nr. 121](lov/2003-12-19-121) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1767](forskrift/2003-12-19-1767)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [22 des 2021 nr. 164](lov/2021-12-22-164) (i kraft 1 jan 2022 iflg. [res. 22 des 2021 nr. 3810](forskrift/2021-12-22-3810)).
+
+1 Inkurie: Lovens korttittel er nå forsikringsvirksomhetsloven, se [lov 27 juni 2008 nr. 65](lov/2008-06-27-65).2 Inkurie: Opphevet, se [lov 10 juni 2005 nr. 44 kapittel 6](lov/2005-06-10-44/kap6).
 
 ### § 4-12. Regler for medregning
 
@@ -581,6 +587,8 @@ Utenlandske statsborgere som har hatt bopel her i riket i mindre enn tre år, og
 (4) Medlem som mottar uførepensjon etter [§ 6-1](lov/2000-03-24-16/§6-1),1 kan ikke samtidig ta ut alderspensjon i den utstrekning samlet uførepensjon og alderspensjon overstiger en pensjonsgrad på 100 prosent. Blir arbeidstaker ufør etter uttak av alderspensjon, reduseres alderspensjonsutbetalingen slik at pensjonsgraden ikke overskrider 100 prosent.
 
 > Tilføyd ved [lov 17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011, se dens VII om overgangsregler).
+
+1 Inkurie: Paragrafen er opphevet.
 
 ### § 5-7 c. Forsikringsteknisk omregning av pensjonsytelser
 
@@ -819,6 +827,8 @@ I etterlattepensjon til ektefelle som har fylt 67 år, men ikke 70 år, skal fra
 (3) Bestemmelsene i [§ 8-3](lov/2000-03-24-16/§8-3) første og annet ledd gjelder tilsvarende for forholdet mellom foretaket og risikoutjevningsfond og egenkapital i pensjonskassen.
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
+
+1 Inkurie: Opphevet, se nå [lov 10 juni 2005 nr. 44](lov/2005-06-10-44).
 
 ### § 8-7. Flytting av pensjonsordningen
 
@@ -1242,6 +1252,8 @@ Midler knyttet til en foretakspensjonsordning kan overføres til annen pensjonsi
 
 (1) Loven trer i kraft fra den dag Kongen bestemmer.1 De enkelte deler av loven kan settes i kraft til ulik tid.
 
+1 Fra 1 jan 2001 iflg. [res. 25 aug 2000 nr. 879](forskrift/2000-08-25-879).
+
 ### § 16-2. Overgangsregler
 
 (1) Regelverket for pensjonsordninger som er opprettet før loven er trådt i kraft, skal være endret i samsvar med kravet i [§ 2-1](lov/2000-03-24-16/§2-1) fjerde ledd senest to år etter at loven trådte i kraft.
@@ -1296,9 +1308,19 @@ Midler knyttet til en foretakspensjonsordning kan overføres til annen pensjonsi
 
 > Endret ved lover [21 des 2000 nr. 107](lov/2000-12-21-107) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1353](forskrift/2000-12-21-1353)), [19 des 2003 nr. 121](lov/2003-12-19-121) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1767](forskrift/2003-12-19-1767)), [15 juni 2007 nr. 28](lov/2007-06-15-28) (ikr. 1 juli 2007 iflg. [res. 15 juni 2007 nr. 652](forskrift/2007-06-15-652)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).
 
+1 [Lov 18 aug 1911 nr. 8](lov/1911-08-18-8) (opph.).
+
 ### § 16-3. Endringer i andre lover
 
+A
+
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+**1** I [lov av 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt på formue og inntekt (skatteloven) gjøres følgende endringer: – – –
+
+[§ 6-46](lov/1999-03-26-14/§6-46) skal lyde: – – –
+
+**2.** Overgangsregler til [§ 6-46](lov/1999-03-26-14/§6-46) skal lyde:
 
 (1) Dersom premiereserven knyttet til en foretakspensjonsordning ved lovens ikrafttredelse ikke er tilstrekkelig til å sikre opptjent pensjon som følge av at denne beregnes etter det regelverket som gjelder etter at loven er trådt i kraft, og tjenestetid fra tiden før loven trådte i kraft1 medregnes ved beregningen, gjelder følgende: Foretaket kan i disse tilfeller benytte midler i premiefondet til å dekke opp manglende premiereserve, eller dekke denne ved tilskudd fra foretaket dersom dette gjøres før utløpet av ti år etter det år lov om foretakspensjon trådte i kraft. For slike tilskudd kan foretaket kreve fradrag som premie etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46.
 
@@ -1307,3 +1329,5 @@ Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – �
 (3) Pensjonsfond etter [skatteloven av 18. august 1911 nr. 8 § 44](lov/1911-08-18-8/§44) første ledd bokstav k som er suppleringsfond etter § 9 i [forskrift av 28. juni 1968 nr. 3](forskrift/1968-06-28-3) om private tjenestepensjonsordninger etter skatteloven av 1911, og tilsvarende pensjonsfond opprettet før 1968, skal avvikles innen tre år etter at lov om foretakspensjon er trådt i kraft1 dersom foretaket har foretakspensjonsordning. Midlene i suppleringsfondet skal i tilfelle tilføres pensjonsordningen. Fradragsretten etter lov av 26. mars 1999 om skatt på formue og inntekt § 6-46 gjelder tilsvarende for tilskudd til suppleringsfond som ikke skal avvikles, likevel ikke i mer enn tre år fra og med det inntektsår lov om foretakspensjon trer i kraft.2
 
 (4) Departementet kan fastsette øvrige overgangsregler i forbindelse med gjennomføringen av lov om foretakspensjon.
+
+1 Den trådte ikr. 1 jan 2001.2 Inntektsåret 2001.

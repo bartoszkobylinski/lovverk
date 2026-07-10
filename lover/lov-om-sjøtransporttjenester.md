@@ -27,25 +27,41 @@ eu_basis:
 
 ## § 1.
 
-1) Loven gjelder fri utveksling av tjenesteytelser innen sjøtransport mellom og i stater tilsluttet Det europeiske økonomiske samarbeidsområde, og mellom stater tilsluttet Det europeiske økonomiske samarbeidsområde og tredjeland, som følge av avtalen om Det europeiske økonomiske samarbeidsområde.
+1\) Loven gjelder fri utveksling av tjenesteytelser innen sjøtransport mellom og i stater tilsluttet Det europeiske økonomiske samarbeidsområde, og mellom stater tilsluttet Det europeiske økonomiske samarbeidsområde og tredjeland, som følge av avtalen om Det europeiske økonomiske samarbeidsområde.
 
-2) [EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 53 (rådsforordning [(EØF) nr. 4055/86](eu/31986r4055*), som endret ved Rådets forordning [(EØF) nr. 3573/90](eu/31990r3573)) om anvendelsen av prinsippet om frihet til å yte tjenester på maritim transport mellom stater tilsluttet Det europeiske økonomiske samarbeidsområde, og mellom disse stater og tredjeland, gjelder som lov med de presiseringer og begrensninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+2\) [EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 53 (rådsforordning [(EØF) nr. 4055/86](eu/31986r4055*), som endret ved Rådets forordning [(EØF) nr. 3573/90](eu/31990r3573)) om anvendelsen av prinsippet om frihet til å yte tjenester på maritim transport mellom stater tilsluttet Det europeiske økonomiske samarbeidsområde, og mellom disse stater og tredjeland, gjelder som lov med de presiseringer og begrensninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
-3) Rådsforordning [(EØF) 3577/92](eu/31992r3577) av 7. desember 1992 om anvendelse av prinsippet om adgangen til å yte tjenester innen sjøtransport i medlemsstatene (maritim kabotasje), innlemmes i [EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) som nytt nr. 53a, og gjelder som lov med de presiseringer og begrensninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
+3\) Rådsforordning [(EØF) 3577/92](eu/31992r3577) av 7. desember 1992 om anvendelse av prinsippet om adgangen til å yte tjenester innen sjøtransport i medlemsstatene (maritim kabotasje), innlemmes i [EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) som nytt nr. 53a, og gjelder som lov med de presiseringer og begrensninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.
 
 > Endret ved [lov 26 juni 1998 nr. 52](lov/1998-06-26-52) (ikr. 26 juni 1998 med virkning fra 1 apr 1998).
 
 ## § 2.
 
-1) Loven trer i kraft samme dag som avtalen om Det europeiske økonomiske samarbeidsområde trer i kraft for Norge.1
+1\) Loven trer i kraft samme dag som avtalen om Det europeiske økonomiske samarbeidsområde trer i kraft for Norge.1
 
-2) Fra den tid loven trer i kraft, gjøres følgende endringer i: – – –
+2\) Fra den tid loven trer i kraft, gjøres følgende endringer i: – – –
+
+1 Fra 1 jan 1994.
 
 ## Forordninger1
 
-Nedenfor gjengis EØS-avtalen vedlegg XIII nr. 53 (forordning nr. [4055/86](eu/31986r4055) og forordning nr. [3573/90](eu/31990r3573)) og nr. 53a (forordning [nr. 3577/92](eu/31992r3577)) med EØS-tilpasninger foretatt av Utenriksdepartementet og lovsamlingens redaksjon. Noter markert med notetall og * er Utenriksdepartementets noter ved gjengivelsen av frd. [4055/86](eu/31986r4055*) og frd. [3573/90](eu/31990r3573) i [Ot.prp.nr.62 (1991–1992) s. 13](forarbeid/otprp-62-199192/s13) flg.
+Nedenfor gjengis EØS-avtalen vedlegg XIII nr. 53 (forordning nr. [4055/86](eu/31986r4055) og forordning nr. [3573/90](eu/31990r3573)) og nr. 53a (forordning [nr. 3577/92](eu/31992r3577)) med EØS-tilpasninger foretatt av Utenriksdepartementet og lovsamlingens redaksjon. Noter markert med notetall og \* er Utenriksdepartementets noter ved gjengivelsen av frd. [4055/86](eu/31986r4055*) og frd. [3573/90](eu/31990r3573) i [Ot.prp.nr.62 (1991–1992) s. 13](forarbeid/otprp-62-199192/s13) flg.
+
+1 Overskrift tilføyd av Lovdata.
 
 ### EØS-avtalen vedlegg XIII nr. 53 (rådsforordning (EØF) nr. 4055/86 av 22 des 1986 om anvendelse av prinsippet om adgang til å yte tjenester på sjøtransport mellom medlemsstater og mellom medlemsstater og tredjestater)
+
+[Rådet for De europeiske fellesskap har –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 84 paragraf 2,
+
+under henvisning til utkast til forordning fra Kommisjonen,
+
+under henvisning til uttalelse fra Europaparlamentet,
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité, og
+
+ut fra følgende betraktninger:
 
 I henhold til traktatens artikkel 3 skal Fellesskapets virksomhet blant annet gå ut på å fjerne hindringer for den frie bevegelighet for tjenesteytelser mellom medlemsstatene.
 
@@ -73,47 +89,65 @@ Fellesskapets skipsfartssektor har en slik struktur at bestemmelsene i denne for
 
 Det bør fastsettes bestemmelser om overgangsperioder av rimelig varighet, som samsvarer med kjennetegnene for den type transportvirksomhet det gjelder –
 
+vedtatt denne forordning:]1\*
+
+1\* Se EØS-avtalen protokoll 1. Preambler er ikke tilpasset EØS-formål, og er følgelig bare relevante i den utstrekning de kan tjene til støtte for tolkning av reglene innenfor rammen av EØS-avtalen.
+
 ### Art 1
 
-1. **De kontraherende parters**1 statsborgere etablert i en annen **kontraherende part** enn tjenestens mottaker skal ha adgang til å yte sjøtransporttjenester mellom **de kontraherende parter** og mellom **de kontraherende parter** og tredjestater.
+1\. **De kontraherende parters**1 statsborgere etablert i en annen **kontraherende part** enn tjenestens mottaker skal ha adgang til å yte sjøtransporttjenester mellom **de kontraherende parter** og mellom **de kontraherende parter** og tredjestater.
 
-2. Bestemmelsene i denne forordning får også anvendelse på **de kontraherende parters** statsborgere etablert utenfor **de kontraherende parter** og på rederier som er etablert utenfor **de kontraherende parter** og som kontrolleres av statsborgere i en **kontraherende part**, dersom deres fartøyer er registrert i denne **kontraherende part** i samsvar med dens lovgivning.
+2\. Bestemmelsene i denne forordning får også anvendelse på **de kontraherende parters** statsborgere etablert utenfor **de kontraherende parter** og på rederier som er etablert utenfor **de kontraherende parter** og som kontrolleres av statsborgere i en **kontraherende part**, dersom deres fartøyer er registrert i denne **kontraherende part** i samsvar med dens lovgivning.
 
-3. Bestemmelsene i traktatens artikkel 55 til 58 og i artikkel 62 får anvendelse på det saksfelt denne forordning omhandler.
+3\. Bestemmelsene i traktatens artikkel 55 til 58 og i artikkel 62 får anvendelse på det saksfelt denne forordning omhandler.
 
-4. I denne forordning skal følgende anses som sjøtransporttjenester mellom **kontraherende parter** og mellom **kontraherende parter** og tredjestater, dersom tjenestene vanligvis ytes mot vederlag:transport innen **de kontraherende parter:**
+4\. I denne forordning skal følgende anses som sjøtransporttjenester mellom **kontraherende parter** og mellom **kontraherende parter** og tredjestater, dersom tjenestene vanligvis ytes mot vederlag:transport innen **de kontraherende parter:**
 sjøtransport av passasjerer eller last mellom en **kontraherende parts** havn og en annen **kontraherende parts** havn eller installasjoner utenfor kysten,trafikk med tredjestater:
 sjøtransport av passasjerer eller last mellom en **kontraherende parts** havn og en tredjestats havn eller installasjoner utenfor kysten.
 
+1 Ordet «medlemsstat» er erstattet med «kontraherende part», jf. EØS-avtalen protokoll 1 nr. 7.
+
 ### Art 2
 
-[Det skal ikke være noen unilaterale nasjonale restriksjoner på frakt av visse varer som delvis er reservert for fartøyer som fører nasjonalt flagg.]2*
+[Det skal ikke være noen unilaterale nasjonale restriksjoner på frakt av visse varer som delvis er reservert for fartøyer som fører nasjonalt flagg.]2\*
+
+2\* Artikkel 2 erstattes i EØS-sammenheng av EØS-protokoll 19.
 
 ### Art 3
 
 Ordninger med lastdeling i eksisterende bilaterale avtaler inngått av **de kontraherende parter**1 med tredjestater, skal oppheves gradvis eller tilpasses i samsvar med bestemmelsene i artikkel 4.
 
+1 Se note 1 til art. 1.
+
 ### Art 4
 
-1. Eksisterende ordninger med lastdeling som ikke er opphevet i henhold til artikkel 3, skal tilpasses i samsvar med **Det europeiske økonomiske samarbeidsområdets** lovgivning, og særlig:for fart som reguleres av De forente nasjoners konferanse om et regelverk for linjekonferansers virksomhet, skal ordningene være i samsvar med regelverket og **de kontraherende parters**1 forpliktelser i henhold til **EØS-avtalens vedlegg XIII nr. 52,**2 for fart som ikke reguleres av De forente nasjoners konferanse for linjekonferansers virksomhet, skal avtalene tilpasses snarest mulig og under enhver omstendighet før 1. januar 1993, slik at det for alle **de kontraherende parters** statsborgere, som definert i artikkel 1, sikres rettferdig og fri adgang uten forskjellsbehandling til lastandelene som de berørte **de kontraherende parter** er berettiget til.
+1\. Eksisterende ordninger med lastdeling som ikke er opphevet i henhold til artikkel 3, skal tilpasses i samsvar med **Det europeiske økonomiske samarbeidsområdets** lovgivning, og særlig:for fart som reguleres av De forente nasjoners konferanse om et regelverk for linjekonferansers virksomhet, skal ordningene være i samsvar med regelverket og **de kontraherende parters**1 forpliktelser i henhold til **EØS-avtalens vedlegg XIII nr. 52,**2 for fart som ikke reguleres av De forente nasjoners konferanse for linjekonferansers virksomhet, skal avtalene tilpasses snarest mulig og under enhver omstendighet før 1. januar 1993, slik at det for alle **de kontraherende parters** statsborgere, som definert i artikkel 1, sikres rettferdig og fri adgang uten forskjellsbehandling til lastandelene som de berørte **de kontraherende parter** er berettiget til.
 
-2.3* **EFTA-landene og EFTAs overvåkingsorgan** skal umiddelbart underrettes om nasjonale tiltak truffet i henhold til nr. 1. Den fremgangsmåte for konsultasjoner som er innført ved rådsvedtak [77/587/EØF](eu/31977d0587), får anvendelse.
+2.3\* **EFTA-landene og EFTAs overvåkingsorgan** skal umiddelbart underrettes om nasjonale tiltak truffet i henhold til nr. 1. Den fremgangsmåte for konsultasjoner som er innført ved rådsvedtak [77/587/EØF](eu/31977d0587), får anvendelse.
 
-3. **EFTA-landene** skal, til å begynne med hver sjette måned og senere hvert år, rapportere til **EFTAs overvåkingsorgan** om fremskritt som er gjort når det gjelder tilpasningene nevnt i nr. 1 bokstav b).
+3\. **EFTA-landene** skal, til å begynne med hver sjette måned og senere hvert år, rapportere til **EFTAs overvåkingsorgan** om fremskritt som er gjort når det gjelder tilpasningene nevnt i nr. 1 bokstav b).
 
-4. Dersom det oppstår vanskeligheter ved tilpasningen av avtalene for å bringe dem i samsvar med nr. 1 bokstav b), skal de berørte **EFTA-land** underrette **EFTAs overvåkingsorgan** om dette. Dersom avtalene er uforenlige med nr. 1 bokstav b) og det berørte **EFTA-land** ber om det skal **EFTAs overvåkingsorgan** treffe passende tiltak.
+4\. Dersom det oppstår vanskeligheter ved tilpasningen av avtalene for å bringe dem i samsvar med nr. 1 bokstav b), skal de berørte **EFTA-land** underrette **EFTAs overvåkingsorgan** om dette. Dersom avtalene er uforenlige med nr. 1 bokstav b) og det berørte **EFTA-land** ber om det skal **EFTAs overvåkingsorgan** treffe passende tiltak.
+
+1 Se note 1 til art. 1.2 Se forordning [(EØF) nr. 3573/90](eu/31990r3573), inntatt nedenfor, art. 1.3\* Her er teksten gjengitt slik den vil lyde for EFTA-landene, jf. EØS-avtalen protokoll 1 punkt 4. For EF-landene vil plikten til å underrette Kommisjonen etc. bestå som i dag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
 ### Art 8
 
 Med forbehold for traktatens bestemmelser om etableringsadgang kan en tjenesteyter innen sjøtransport, for å utføre sine tjenester, midlertidig utøve sin virksomhet i **den kontraherende part**1 der tjenestene mottas på samme vilkår som gjelder for denne statens egne statsborgere.
 
+1 Se note 1 til art. 1.4\* Art 5 til 7 i forordning [(EØF) nr. 4055/86](eu/31986r4055*) er ikke en del av EØS-avtalen, og skal ikke gjennomføres, ettersom de regulerer EFs forhold til tredjeland. Det saklige virkeområdet for artiklene blir i stedet regulert ved EØS-avtalen protokoll 19. Merknad fra redaksjonen i Norges Lover: Merk likevel at EØS-avtalen vedlegg XIII nr. 53 bestemmer at at «[M]ed hensyn til artikkel 5 nr. 1 er det underforstått at lastdelingsordninger i bulkfart forbys i enhver fremtidig avtale med tredjestater.» Artikkel 5 lyder slik: «Ordninger med lastdeling skal i fremtidige avtaler med tredjestater bare være tilatt under spesielle omstendigheter når Fellesskapets linjerederier i motsatt fall ikke ville ha faktisk mulighet til å delta i farten til og fra de berørete tredjestater. Under disse omstendigheter kan slike avtaler tillates i samsvar med bestemmelsene i artikkel 6.»
+
 ### Art 9
 
 Så lenge restriksjonene på adgangen til å yte tjenester ikke er fjernet, skal den enkelte **kontraherende part**1 anvende dem på alle tjenesteytere nevnt i artikkel 1 nr. 1 og 2, uten å gjøre forskjell på grunnlag av statsborgerskap eller bosted.
 
+1 Se note 1 til art. 1.
+
 ### Art 10
 
 Før **EFTA-land** vedtar de lover og forskrifter som er nødvendige for å gjennomføre denne forordning, skal de rådspørre **EFTAs overvåkingsorgan,** og de skal meddele **EFTAs overvåkingsorgan** alle bestemmelser som vedtas i denne forbindelse.
+
+5\* Her er teksten gjengitt slik den vil lyde for EFTA-landene, jf EØS-avtalen protokoll 1 punkt 4. For EU-landene vil plikten til å underrette Kommisjonen etc. bestå som i dag. Etter protokoll 1 punkt 4 skal det imidlertid også skje et informasjonsbytte mellom Kommisjonen og EFTA.
 
 ### Art 11
 
@@ -125,7 +159,21 @@ Denne forordning trer i kraft **fra samme tid som resten av EØS-avtalen.**
 
 Denne forordning er i alle deler bindende og kommer [direkte] til anvendelse i alle **kontraherende parter**.1
 
+1 Se note 1 til art. 1.
+
 ### EØS-avtalen vedlegg XIII nr. 53 (rådsforordning (EØF) nr. 3573/90 av 4 des 1990 om endring, som følge av Tysklands gjenforening, av forordning (EØF) nr. 4055/86 om anvendelse av prinsippet om adgang til å yte tjenester innen sjøtransport mellom medlemsstater og mellom medlemsstater og tredjestater)
+
+[Rådet for de europeiske fellesskap har –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 84 paragraf 2,
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Europaparlamentet,
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité, og
+
+ut fra følgende betraktninger:
 
 Det europeiske økonomiske fellesskap har vedtatt et regelverk om sjøtransport.
 
@@ -136,6 +184,10 @@ Det er nødvendig å foreta visse endringer av forordning [(EØF) nr. 4055/86](e
 Avtalene inngått av den tidligere Tyske demokratiske republikk gjelder bare last fra denne stat, og som følge av dette får tredjestaters eventuelle rettigheter i henhold til ordninger om lastdeling betydning bare for last med opprinnelse på den tidligere Tyske demokratiske republikks territorium.
 
 Den frist som er fastsatt for medlemsstatenes tilpasning av avtaler om fart som ikke reguleres av De forente nasjoners regelverk for linjekonferansers virksomhet, må forlenges for de bilaterale avtalene som den tidligere Tyske demokratiske republikk har inngått med tredjestater, slik at Tyskland skal kunne føre de nødvendige forhandlinger for å tilpasse avtalene –
+
+vedtatt denne forordning:]6\*
+
+6\* Se EØS-avtalen protokoll 1. Preambler er ikke tilpasset EØS-formål, og er følgelig bare relevante i den utstrekning de kan tjene til støtte for tolkning av reglene innenfor rammen av EØS-avtalen.
 
 ### Art 1
 
@@ -149,7 +201,21 @@ Denne forordning trer i kraft **fra samme tid som resten av EØS-avtalen.**
 
 Denne forordning er i alle deler bindende og kommer [direkte] til anvendelse i alle **de kontraherende parter.**1
 
+1 Ordet «medlemsstat» er erstattet med «kontraherende part», jf. EØS-avtalen protokoll 1 nr. 7.
+
 ### EØS-avtalen vedlegg XIII nr. 53a (rådsforordning (EØF) nr. 3577/92 av 7 des 1992 om anvendelse av prinsippet om adgangen til å yte tjenester innen sjøtransport i medlemsstatene (maritim kabotasje)
+
+[Rådet for de europeiske fellesskap har –
+
+under henvisning til traktaten om opprettelse av Det europeiske økonomiske fellesskap, særlig artikkel 84 nr. 2,
+
+under henvisning til endret forslag fra Kommisjonen,
+
+under henvisning til uttalelser fra Europaparlamentet,
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité, og
+
+ut fra følgende betraktninger:
 
 Europaparlamentet vedtok 12. juni 1992 sin resolusjon om liberalisering av maritim kabotasje og de økonomiske og sosiale konsekvenser av dette.
 
@@ -173,33 +239,43 @@ Det bør vedtas bestemmelser som gjør det mulig å treffe beskyttelsestiltak fo
 
 På bakgrunn av behovet for å sikre at det indre marked virker etter hensikten, og på bakgrunn av mulige tilpasninger som må foretas i lys av erfaringer som gjøres, bør Kommisjonen avgi rapport om gjennomføringen av denne forordning og om nødvendig framlegge tilleggsforslag –
 
+vedtatt denne forordning:]1
+
+1 Se EØS-avtalen protokoll 1. Preambler er ikke tilpasset EØS-formål, og er følgelig bare relevante i den utstrekning de kan tjene til støtte for tolkning av reglene innenfor rammen av EØS-avtalen.
+
 ### Art 1
 
-1. Fra 1. januar 1993 skal adgangen til å yte sjøtransporttjenester i en **EØS-stat**1 (maritim kabotasje) gjelde for alle **EØS-skipsredere**2 med fartøyer som er registrert i en medlemsstat og fører denne medlemsstatens flagg, forutsatt at fartøyene oppfyller alle vilkår for å utføre kabotasje i medlemsstaten, herunder fartøyer registrert i Euros så snart dette registeret er godkjent av Rådet.
+1\. Fra 1. januar 1993 skal adgangen til å yte sjøtransporttjenester i en **EØS-stat**1 (maritim kabotasje) gjelde for alle **EØS-skipsredere**2 med fartøyer som er registrert i en medlemsstat og fører denne medlemsstatens flagg, forutsatt at fartøyene oppfyller alle vilkår for å utføre kabotasje i medlemsstaten, herunder fartøyer registrert i Euros så snart dette registeret er godkjent av Rådet.
 
-2. Som unntak skal anvendelsen av bestemmelsen i nr. 1, som fastsetter at fartøyer skal oppfylle alle vilkår for å utføre kabotasje i **EØS-stater** der de er registrert på det tidspunktet, midlertidig oppheves inntil 31. desember 1996.
+2\. Som unntak skal anvendelsen av bestemmelsen i nr. 1, som fastsetter at fartøyer skal oppfylle alle vilkår for å utføre kabotasje i **EØS-stater** der de er registrert på det tidspunktet, midlertidig oppheves inntil 31. desember 1996.
+
+1 Ordet «medlemsstat» er erstattet av ordet «EØS-stat», jf. EØS-avtalen protokoll 1 nr. 7.2 Ordet «EF-skipsredere» er erstattet av «EØS-skipsredere», jf. EØS-avtalen protokoll 1 nr. 7.
 
 ### Art 2
 
 I denne forordning menes med«sjøtransporttjenester i en **EØS-stat** (maritim kabotasje)», tjenester som vanligvis tilbys mot vederlag, herunder særlig:fastlandskabotasje: sjøtransport av passasjerer eller gods mellom havner som ligger på en og samme **EØS-stats** fastland eller hovedterritorium, uten anløp av øyer,forsyningstjenester off-shore: sjøtransport av passasjerer og gods mellom enhver havn i en **EØS-stat** og installasjoner eller anlegg på denne medlemsstats kontinentalsokkel,øykabotasje: sjøtransport av passasjerer eller gods mellomhavner som ligger på fastlandet og på én eller flere av øyene til en og samme **EØS-stat**,havner som ligger på øyene til en og samme **EØS-stat**;Ceuta og Melilla skal behandles på samme måte som øyhavner,«**EØS-skipsreder**»en **EØS-stats** borgere som er etablert i en **EØS-stat** i samsvar med denne **EØS-statens** lovgivning, og som utøver sjøtransportvirksomhet,skipsrederier som er etablert i samsvar med en **EØS-stats** lovgivning, og hvis hovedforetak ligger i en **EØS-stat** der også den faktiske kontroll utøves, elleren **EØS-stats** borgere etablert utenfor **EØS**1 eller skipsrederier etablert utenfor **EØS**1 og kontrollert av en **EØS-stats** borgere, dersom deres fartøyer er registrert i en **EØS-stat** og fører denne **EØS-statens** flagg i samsvar med dens lovgivning,«kontrakt om offentlig tjeneste», en kontrakt inngått mellom vedkommende myndigheter i en **EØS-stat** og en **EØS-skipsreder** for å tilby allmennheten tilstrekkelige transporttjenester.En kontrakt om offentlig tjeneste kan særlig omfattetransporttjenester som oppfyller fastsatte standarder for kontinuitet, regelmessighet, kapasitet og kvalitet,tilleggstransporttjenester,transporttjenester til bestemte priser og på bestemte vilkår, særlig for visse kategorier passasjerer eller på visse ruter,tilpasninger av tjenester til faktiske behov,«forpliktelser til offentlig tjeneste», de forpliktelser som den aktuelle **EØS-skipsreder** ikke ville påta seg eller ikke ville påta seg i samme utstrekning eller på samme vilkår dersom han skulle ta hensyn til sin egen forretningsinteresse,«alvorlig forstyrrelse på det nasjonale transportmarked», forekomst av problemer på markedet som er særskilte for dette marked, og somer av en slik art at de kan føre til et alvorlig og potensielt varig tilbudsoverskudd i forhold til etterspørselen,skyldes eller forsterkes av maritim kabotasjevirksomhet, ogutgjør en alvorlig trussel mot et betydelig antall **EØS-skipsrederes** økonomiske stabilitet og overlevingsevne,forutsatt at prognosene på kort og mellomlang sikt for det aktuelle marked ikke viser betydelige og varige forbedringer.
 
+1 Ordet «Fellesskapet» er erstattet av ordet «EØS», jf. EØS-avtalen protokoll 1 nr. 8.
+
 ### Art 3
 
-1. For fartøyer som utfører fastlandskabotasje, og for cruisefartøyer skal alle spørsmål med hensyn til besetning være ansvaret til den stat der fartøyet er registrert (flaggstaten), med unntak av fartøyer på under 650 brt, som kan undergis vilkårene i vertsstaten.
+1\. For fartøyer som utfører fastlandskabotasje, og for cruisefartøyer skal alle spørsmål med hensyn til besetning være ansvaret til den stat der fartøyet er registrert (flaggstaten), med unntak av fartøyer på under 650 brt, som kan undergis vilkårene i vertsstaten.
 
-2. For fartøyer som utfører øykabotasje, skal alle spørsmål med hensyn til besetning være ansvaret til den stat der fartøyet utfører en sjøtransporttjeneste (vertsstaten).
+2\. For fartøyer som utfører øykabotasje, skal alle spørsmål med hensyn til besetning være ansvaret til den stat der fartøyet utfører en sjøtransporttjeneste (vertsstaten).
 
-3. For lastefartøyer på over 650 brt som utfører øykabotasje, skal imidlertid alle spørsmål med hensyn til besetning fra 1. januar 1999 være ansvaret til den stat der fartøyet er registrert (flaggstaten), dersom den aktuelle reisen følger etter eller går forut for en reise til eller fra en annen stat.
+3\. For lastefartøyer på over 650 brt som utfører øykabotasje, skal imidlertid alle spørsmål med hensyn til besetning fra 1. januar 1999 være ansvaret til den stat der fartøyet er registrert (flaggstaten), dersom den aktuelle reisen følger etter eller går forut for en reise til eller fra en annen stat.
 
 *[4. Kommisjonen skal foreta en grundig undersøkelse av de økonomiske og sosiale virkninger av liberaliseringen av øykabotasje og skal framlegge en rapport for Rådet senest innen 1. januar 1997.**På grunnlag av rapporten skal Kommisjonen framlegge for Rådet et forslag som kan omfatte tilpasninger av bestemmelsene fastsatt i nr. 2 og 3 om besetningens statsborgerskap, slik at den endelige ordning kan godkjennes av Rådet i god tid innen 1. januar 1999.]*1
 
+1 Her vil EØS-avtalens regler om beslutningsprosessen i EØS gjelde, jf. avtalens protokoll 1 nr. 3 og 5.
+
 ### Art 4
 
-1. En **EØS-stat** kan inngå kontrakter om offentlig tjeneste med skipsrederier som deltar i regelmessig fart til, fra og mellom øyer, eller pålegge dem forpliktelser til offentlig tjeneste som vilkår for å yte kabotasjetjenester.Når en **EØS-stat** inngår kontrakter om offentlig tjeneste eller pålegger forpliktelser til offentlig tjeneste, skal den gjøre det uten forskjellsbehandling av **EØS-skipsredere.**
+1\. En **EØS-stat** kan inngå kontrakter om offentlig tjeneste med skipsrederier som deltar i regelmessig fart til, fra og mellom øyer, eller pålegge dem forpliktelser til offentlig tjeneste som vilkår for å yte kabotasjetjenester.Når en **EØS-stat** inngår kontrakter om offentlig tjeneste eller pålegger forpliktelser til offentlig tjeneste, skal den gjøre det uten forskjellsbehandling av **EØS-skipsredere.**
 
-2. Når **EØS-statene** pålegger forpliktelser til offentlig tjeneste, skal de begrense seg til krav til hvilke havner som skal anløpes, regelmessighet, kontinuitet, hyppighet, evne til å yte tjenesten, rater som skal benyttes, og fartøyets besetning.Alle **EØS-skipsredere** skal ha adgang til å motta eventuell godtgjørelse for forpliktelser til offentlig tjeneste.
+2\. Når **EØS-statene** pålegger forpliktelser til offentlig tjeneste, skal de begrense seg til krav til hvilke havner som skal anløpes, regelmessighet, kontinuitet, hyppighet, evne til å yte tjenesten, rater som skal benyttes, og fartøyets besetning.Alle **EØS-skipsredere** skal ha adgang til å motta eventuell godtgjørelse for forpliktelser til offentlig tjeneste.
 
-3. Eksisterende kontrakter om offentlig tjeneste kan fortsette å gjelde inntil de utløper.
+3\. Eksisterende kontrakter om offentlig tjeneste kan fortsette å gjelde inntil de utløper.
 
 ### Art 5
 
@@ -207,35 +283,44 @@ I denne forordning menes med«sjøtransporttjenester i en **EØS-stat** (maritim
 
 *2. Kommisjonen kan også vedta beskyttelsestiltak på eget initiativ etter samråd med medlemsstatene.]*1
 
-- skal med «Kommisjonen» forstås «EFTAs overvåkningsorgan» for EFTA-statenes vedkommende,
-- dersom EF-kommisjonen fra en medlemsstat i EF eller EFTAs overvåkningsorgan fra en EFTA-stat mottar en anmodning om å vedta beskyttelsestiltak, skal EØS-komiteen straks underrettes om dette og forelegges alle relevante opplysninger.
+1 For EFTA-statene i EØS gjelder en særskilt prosedyre inntatt i EØS-komitéens beslutning nr. 70/97: «I situasjoner som beskrevet i artikkel 5,skal med «Kommisjonen» forstås «EFTAs overvåkningsorgan» for EFTA-statenes vedkommende,dersom EF-kommisjonen fra en medlemsstat i EF eller EFTAs overvåkningsorgan fra en EFTA-stat mottar en anmodning om å vedta beskyttelsestiltak, skal EØS-komiteen straks underrettes om dette og forelegges alle relevante opplysninger.Det skal holdes samråd i EØS-komiteen dersom en avtalepart anmoder om det. Det kan også anmodes om slikt samråd i tilfeller der EF-kommisjonen eller EFTAs overvåkningsorgan vedtar beskyttelsestiltak på eget initiativ.Når EF-kommisjonen eller EFTAs overvåkningsorgan har gjort vedtak, skal de umiddelbart underrette EØS-komiteen om de tiltak som er truffet.»
 
 ### Art 6
 
-1. Som unntak skal følgende sjøtransporttjenester som utføres i Middelhavet og langs kysten av Spania, Portugal og Frankrike midlertidig unntas fra gjennomføringen av denne forordning:cruisetjenester, inntil 1. januar 1995,transport av strategisk gods (olje, petroleumsprodukter og drikkevann), inntil 1. januar 1997,tjenester utført med fartøyer på under 650 brt, inntil 1. januar 1998,regelmessige passasjer- og fergetransporttjenester, inntil 1. januar 1999.
+1\. Som unntak skal følgende sjøtransporttjenester som utføres i Middelhavet og langs kysten av Spania, Portugal og Frankrike midlertidig unntas fra gjennomføringen av denne forordning:cruisetjenester, inntil 1. januar 1995,transport av strategisk gods (olje, petroleumsprodukter og drikkevann), inntil 1. januar 1997,tjenester utført med fartøyer på under 650 brt, inntil 1. januar 1998,regelmessige passasjer- og fergetransporttjenester, inntil 1. januar 1999.
 
-2. Som unntak skal øykabotasje i Middelhavet og kabotasje som gjelder øygruppene Kanariøyene, Azorene og Madeira, samt Ceuta og Melilla, de franske øyer langs atlanterhavskysten og de franske oversjøiske departementer midlertidig unntas fra gjennomføringen av denne forordning inntil 1. januar 1999.
+2\. Som unntak skal øykabotasje i Middelhavet og kabotasje som gjelder øygruppene Kanariøyene, Azorene og Madeira, samt Ceuta og Melilla, de franske øyer langs atlanterhavskysten og de franske oversjøiske departementer midlertidig unntas fra gjennomføringen av denne forordning inntil 1. januar 1999.
 
-3. Av hensyn til sosio-økonomisk utjevning skal varigheten av unntaket fastsatt i nr. 2 forlenges for Hellas inntil 1. januar 2004 for regelmessige passasjer- og fergetransporttjenester og for tjenester utført med fartøyer på under 650 brt.
+3\. Av hensyn til sosio-økonomisk utjevning skal varigheten av unntaket fastsatt i nr. 2 forlenges for Hellas inntil 1. januar 2004 for regelmessige passasjer- og fergetransporttjenester og for tjenester utført med fartøyer på under 650 brt.
 
 ### Art 7
 
 **Med mindre annet er fastsatt i denne avtale, skal avtalepartene ikke innføre noen nye begrensninger av den adgang til å yte tjenester som faktisk er oppnådd den dag EØS-komiteen treffer beslutning om å innlemme denne forordning i avtalen.**1
 
+1 Artikkelen er gjengitt med den ordlyd den har fått gjennom EØS-komitéens beslutning nr. 70/97.
+
 ### Art 8
 
 Med forbehold for **EØS-avtalens**1 bestemmelser om retten til etablering og bestemmelsene i denne forordning kan en person som yter en sjøtransporttjeneste, for dette formål midlertidig utøve sin virksomhet i **EØS-staten** der tjenesten ytes, på de samme vilkår som denne staten pålegger sine egne borgere.
+
+1 Ordet «traktatens» må i EØS-sammenheng forstås som «EØS-avtalens».
 
 ### Art 9
 
 [Før **EFTA-statene i EØS** vedtar de lover og forskrifter som er nødvendige for å gjennomføre denne forordning, skal de rådspørre **EFTAs overvåkningsorgan.** De skal underrette den om alle tiltak som er vedtatt på den måten.]1
 
+1 Ifølge EØS-avtalen protokoll 1 nr. 4 bokstav d skal funksjoner som Kommisjonen utfører i forbindelse med bl.a. rådspørring, for EFTA-statene utføres i samsvar med fremgangsmåten som fastsettes mellom dem. Så synes ikke å ha skjedd i dette tilfellet.
+
 ### Art 10
 
 *[Innen 1. januar 1995 og deretter annethvert år skal Kommisjonen framlegge for Rådet en rapport om gjennomføringen av denne forordning og eventuelt nødvendige forslag.]*1
+
+1 Ifølge EØS-avtalen protokoll 1 nr. 5 skal EFTAs overvåkningsorgan og/eller EFTAs faste komité, i den grad det er hensiktsmessig, lage rapporter parallelt med de rapporter Kommisjonen utarbeider i EU.
 
 ### Art 11
 
 *[Denne forordning trer i kraft 1. januar 1993.*
 
 *Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.]*1
+
+1 Ikrafttredelse i EØS følger av EØS-komitéens beslutning nr. 70/97. Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalen art. 7.

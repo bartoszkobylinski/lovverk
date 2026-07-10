@@ -136,6 +136,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan bestemme at forskjellige
 
 Fra den tid loven trer i kraft, oppheves [lov 20. april 2001 nr. 13 om erstatning fra staten for personskade voldt ved straffbar handling m.m.](lov/2001-04-20-13)
 
+1 Fra 1 januar 2023 iflg. [res. 23 sep 2022 nr. 1635](forskrift/2022-09-23-1635).
+
 ## § 18. Overgangsregler
 
 Loven gjelder for handlinger som har skjedd etter 1. januar 1975 og som det for første gang søkes erstatning for etter lovens ikrafttredelse.

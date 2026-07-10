@@ -29,3 +29,5 @@ Samferdselsdepartementet kan unnta enkelte av de i første ledd nevnte forskrift
 Denne forskrift trer i kraft straks.
 
 Samtidig oppheves kgl.res. av 4. januar 1963 om luftfartslovens anvendelse på Svalbard og Jan Mayen.
+
+1 Jfr. [res. 11 mars 1994 nr. 202](forskrift/1994-03-11-202).

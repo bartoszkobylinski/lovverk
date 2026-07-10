@@ -64,6 +64,8 @@ Oppsynets kontrollvirksomhet skal utføres i nært samarbeid med og supplere det
 
 > Endret ved [lov 14 juni 2013 nr. 49](lov/2013-06-14-49) (tidligere § 3).
 
+1 Inkurie: Skal være [lov 4. august 1995 nr. 53](lov/1995-08-04-53).
+
 ## § 5. Den sentrale administrasjon
 
 Departementet har ansvar for gjennomføringen av loven. Departementet fører den nødvendige kontroll med oppsynet, gir regler om samarbeid med andre oppsynsordninger, samt instrukser det finner påkrevd av hensyn til virksomheten.

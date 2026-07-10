@@ -90,6 +90,8 @@ Prosedyrene for endringshåndtering skal omfatte alle endringer som kan påvirke
 
 > Endret ved [forskrifter 23 sep 2009 nr. 1284](forskrift/2009-09-23-1284) (i kraft 1 des 2009), [18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [17 des 2015 nr. 1732](forskrift/2015-12-17-1732), [15 feb 2019 nr. 147](forskrift/2019-02-15-147) (i kraft 1 april 2019).
 
+1 Inkurie: skal vel være nr. 10 etter endring av ordlyd i § 1.
+
 ## § 10. (Opphevet)
 
 > Opphevet ved [forskrift 17 des 2015 nr. 1732](forskrift/2015-12-17-1732).

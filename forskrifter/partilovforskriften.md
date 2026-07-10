@@ -156,8 +156,12 @@ Resultatregnskapet skal stilles opp slik:*Anskaffede midler**Offentlig støtte*S
 
 Balansen skal stilles opp slik:
 
+*Eiendeler:*
+
 1. *Anleggsmidler*ByggFast inventar og anleggAnnet inventar og driftsløsøreIKT-utstyrFinansielle anleggsmidler og langsiktige fordringer.
 2. *Omløpsmidler*VarelagerKundefordringerKasse og bankAndre kortsiktige fordringer og finansielle omløpsmidler.
+
+*Formålskapital og gjeld:*
 
 1. *Formålskapital*Formålskapital med eksternt pålagte restriksjonerFormålskapital med selvpålagte restriksjonerAnnen formålskapital.
 2. *Andre eiendeler inklusiv langsiktig gjeld*PensjonsforpliktelserAnnen langsiktig gjeld.

@@ -196,6 +196,8 @@ Departementet kan gi forskrift om handsaming av personopplysningar, slik som fø
 
 > Føyd til med [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).
 
+1 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 2.2 Sjå [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5e (forordning [(EU) 2016/679](eu/32016r0679*)) art. 4 nr. 1.
+
 ## Kap. III. Planlegging, anlegg og vedlikehold av veg.
 
 ### § 12
@@ -681,6 +683,8 @@ Blir ein veg tatt opp som riksveg eller fylkesveg etter [§§ 3](lov/1963-06-21-
 Denne lova tar til å gjelde frå den dagen Kongen fastsetter det.1
 
 Det kan fastsettast at visse deler av lova skal ta til å gjelde frå eit tidligare eller seinare tidspunkt enn andre. Det kan òg fastsettast at lova skal ta til å gjelde for einskilde fylke frå eit seinare tidspunkt enn for andre.
+
+1 Etter res. 25 okt 1963 tok [§ 62](lov/1963-06-21-23/§62) til å gjelda straks, lova ellers frå 1 jan 1964. For kommunen Oslo tok § 21 til å gjelda 1 jan 1965 og [§ 22](lov/1963-06-21-23/§22) 1 jan 1966.
 
 ### § 67
 

@@ -28,17 +28,17 @@ eu_basis: []
 
 ### § 1. Virkeområde
 
-1. Denne forskriften gjelder ved konstruksjon, bygging og omsetning av følgende produkter:maskinerutskiftbart utstyrsikkerhetskomponenterløfteredskapkjettinger, kjeder, tau og stropperavtakbare mekaniske kraftoverføringsinnretningerdelvis ferdigstilte maskiner
+1\. Denne forskriften gjelder ved konstruksjon, bygging og omsetning av følgende produkter:maskinerutskiftbart utstyrsikkerhetskomponenterløfteredskapkjettinger, kjeder, tau og stropperavtakbare mekaniske kraftoverføringsinnretningerdelvis ferdigstilte maskiner
 
-2. Forskriften gjelder ikke:sikkerhetskomponenter som er beregnet til bruk som reservedeler og for å erstatte identiske komponenter og som leveres av produsenten av den opprinnelige maskinenutstyr som er spesielt beregnet til bruk på markedsplasser eller i fornøyelsesparkermaskiner som er konstruert eller tatt i bruk spesielt for kjernefysiske formål og hvor svikt vil kunne føre til radioaktive utslippvåpen, herunder skytevåpenfølgende transportmidler:jord- og skogbrukstraktorer når det gjelder kravene til typegodkjenning i henhold til kjøretøyforskriften, unntatt maskiner montert på traktorenemotorkjøretøy og tilhengere til disse som må typegodkjennes i henhold til kjøretøyforskriften. Maskiner som er montert på kjøretøyene eller tilhengerne, er unntattto- eller trehjulte motorkjøretøy som må typegodkjennes i henhold til kjøretøyforskriftenmotorkjøretøy konstruert og bygd utelukkende til konkurranseformåltransportmidler som er konstruert og bygd for transport i luften, på jernbanenett eller på vann, unntatt maskiner montert på disse.sjøgående fartøy og flyttbare offshoreinnretninger og maskiner installert om bord på slike fartøy eller innretningermaskiner konstruert og bygd spesielt for militære og politimessige formålmaskiner konstruert og bygd spesielt til forskningsformål beregnet for midlertidig bruk i laboratorierheiser i gruvesjaktermaskiner konstruert og bygd for forflytting av de opptredende under kunstnerisk framføringfølgende kategorier av elektriske og elektroniske produkter, dersom de er omfattet av forskrift om elektrisk utstyr:husholdningsapparater beregnet til privat brukaudio- og videoutstyrinformasjonsteknologisk utstyrvanlige kontormaskinerkoblings- og styringsutstyr for lavspenningelektromotorer.følgende høyspenningsmateriell:koblings- og styringsutstyrtransformatorer.
+2\. Forskriften gjelder ikke:sikkerhetskomponenter som er beregnet til bruk som reservedeler og for å erstatte identiske komponenter og som leveres av produsenten av den opprinnelige maskinenutstyr som er spesielt beregnet til bruk på markedsplasser eller i fornøyelsesparkermaskiner som er konstruert eller tatt i bruk spesielt for kjernefysiske formål og hvor svikt vil kunne føre til radioaktive utslippvåpen, herunder skytevåpenfølgende transportmidler:jord- og skogbrukstraktorer når det gjelder kravene til typegodkjenning i henhold til kjøretøyforskriften, unntatt maskiner montert på traktorenemotorkjøretøy og tilhengere til disse som må typegodkjennes i henhold til kjøretøyforskriften. Maskiner som er montert på kjøretøyene eller tilhengerne, er unntattto- eller trehjulte motorkjøretøy som må typegodkjennes i henhold til kjøretøyforskriftenmotorkjøretøy konstruert og bygd utelukkende til konkurranseformåltransportmidler som er konstruert og bygd for transport i luften, på jernbanenett eller på vann, unntatt maskiner montert på disse.sjøgående fartøy og flyttbare offshoreinnretninger og maskiner installert om bord på slike fartøy eller innretningermaskiner konstruert og bygd spesielt for militære og politimessige formålmaskiner konstruert og bygd spesielt til forskningsformål beregnet for midlertidig bruk i laboratorierheiser i gruvesjaktermaskiner konstruert og bygd for forflytting av de opptredende under kunstnerisk framføringfølgende kategorier av elektriske og elektroniske produkter, dersom de er omfattet av forskrift om elektrisk utstyr:husholdningsapparater beregnet til privat brukaudio- og videoutstyrinformasjonsteknologisk utstyrvanlige kontormaskinerkoblings- og styringsutstyr for lavspenningelektromotorer.følgende høyspenningsmateriell:koblings- og styringsutstyrtransformatorer.
 
-3. Forskriften gjelder for utslipp fra forbrenningsmotorer beregnet for bruk i ikke-veigående mobile maskiner som definert i vedlegg XII, og støyemisjon fra utstyr som nevnt i vedlegg XIII.
+3\. Forskriften gjelder for utslipp fra forbrenningsmotorer beregnet for bruk i ikke-veigående mobile maskiner som definert i vedlegg XII, og støyemisjon fra utstyr som nevnt i vedlegg XIII.
 
-4. Forskriften gjelder for permanent plasserte innretninger i petroleumsvirksomheten på områder som nevnt i [forskrift 31. august 2001 nr. 1016](forskrift/2001-08-31-1016) om helse, miljø og sikkerhet i petroleumsvirksomheten ([rammeforskriften) § 2](forskrift/2010-02-12-158/§2) nr. 1 bokstav b og d, med unntak av områder som nevnt i vedlegg til rammeforskriften.
+4\. Forskriften gjelder for permanent plasserte innretninger i petroleumsvirksomheten på områder som nevnt i [forskrift 31. august 2001 nr. 1016](forskrift/2001-08-31-1016) om helse, miljø og sikkerhet i petroleumsvirksomheten ([rammeforskriften) § 2](forskrift/2010-02-12-158/§2) nr. 1 bokstav b og d, med unntak av områder som nevnt i vedlegg til rammeforskriften.
 
-5. Forskriftens [kapittel II](forskrift/2009-05-20-544/kapii), med unntak av [§ 5](forskrift/2009-05-20-544/§5), gjelder ikke for utenlandsk virksomhet på Svalbard.
+5\. Forskriftens [kapittel II](forskrift/2009-05-20-544/kapii), med unntak av [§ 5](forskrift/2009-05-20-544/§5), gjelder ikke for utenlandsk virksomhet på Svalbard.
 
-6. Dersom farer nevnt i vedlegg I, helt eller delvis er mer spesifikt omfattet av andre direktiver som er gjennomført i norsk rett, kommer ikke bestemmelsene om disse farene i maskinforskriftens vedlegg I til anvendelse, eller vedlegget opphører å få anvendelse på nevnte maskin, med hensyn til slike farer.
+6\. Dersom farer nevnt i vedlegg I, helt eller delvis er mer spesifikt omfattet av andre direktiver som er gjennomført i norsk rett, kommer ikke bestemmelsene om disse farene i maskinforskriftens vedlegg I til anvendelse, eller vedlegget opphører å få anvendelse på nevnte maskin, med hensyn til slike farer.
 
 > Endret ved [forskrift 24 juni 2020 nr. 1361](forskrift/2020-06-24-1361) (i kraft 1 juli 2020).
 
@@ -118,9 +118,9 @@ Dersom produsenten eller dennes representant i en overgangsperiode kan velge hvi
 
 ### § 12. Forpliktelser for leverandører, virksomheter, og private mfl. som monterer maskiner
 
-1. Når verken produsenten eller dennes representant oppfyller kravene i [§ 10](forskrift/2009-05-20-544/§10), påhviler det enhver leverandør av maskiner å oppfylle dem.De samme forpliktelser påhviler virksomhet som monterer maskiner eller setter sammen maskiner av deler av forskjellig opprinnelse.De samme forpliktelser påhviler den som monterer maskiner, setter sammen maskiner eller konstruerer og bygger maskiner til eget bruk.
+1\. Når verken produsenten eller dennes representant oppfyller kravene i [§ 10](forskrift/2009-05-20-544/§10), påhviler det enhver leverandør av maskiner å oppfylle dem.De samme forpliktelser påhviler virksomhet som monterer maskiner eller setter sammen maskiner av deler av forskjellig opprinnelse.De samme forpliktelser påhviler den som monterer maskiner, setter sammen maskiner eller konstruerer og bygger maskiner til eget bruk.
 
-2. Pliktene i denne paragraf nr. 1 skal ikke gjøres gjeldende for personer som monterer utskiftbart utstyr på en maskin eller traktor, forutsatt at maskiner og det utskiftbare utstyret passer sammen, og at maskinen og det utskiftbare utstyret som inngår, er påført CE-merking og følges av samsvarserklæringer.
+2\. Pliktene i denne paragraf nr. 1 skal ikke gjøres gjeldende for personer som monterer utskiftbart utstyr på en maskin eller traktor, forutsatt at maskiner og det utskiftbare utstyret passer sammen, og at maskinen og det utskiftbare utstyret som inngår, er påført CE-merking og følges av samsvarserklæringer.
 
 ### § 13. Krav til utforming av CE-merket
 
@@ -174,12 +174,22 @@ Fram til 1. juli 2011 gjelder [forskrift 25. august 1986 nr. 1792](forskrift/198
 
 ## Vedlegg I: Krav til vern mot skade på liv og helse ved konstruksjon og bygging av maskiner
 
+*Generelle prinsipper*
+
 1. Maskinprodusenten eller dennes representant skal sørge for at det blir gjennomført en risikovurdering for å fastslå hvilke krav til vern mot fare for liv og helse som knytter seg til den aktuelle maskinen. Det skal tas hensyn til resultatene av risikovurderingen når maskinen konstrueres og bygges.I den gjentakende prosessen med risikovurdering og valg av risikoreduserende tiltak skal produsenten eller dennes representant:bestemme maskinens grenser, både tilsiktet bruk og feilbruk som med rimelighet kan forutseskartlegge de farer maskinen kan være opphav til og de farlige situasjoner som kan oppstå i tilknytning til maskinenberegne risiko ved å ta i betraktning alvorlighetsgraden av en mulig skade på liv og helse og sannsynligheten for at dette kan inntreffevurdere beregnet risiko i forhold til de grunnleggende helse- og sikkerhetskrav i denne forskriften, for å avgjøre om det er nødvendig å redusere risikoenfjerne farene eller begrense risiko i forbindelse med farene ved å bruke vernetiltak i den rekkefølge som er angitt i nr. 1.1.2.b.
 2. De forpliktelser som følger av de grunnleggende helse- og sikkerhetskravene gjelder bare dersom den aktuelle maskinen innebærer en fare når den blir brukt under de forutsetninger som produsenten eller dennes representant har beskrevet, eller under forutsigbare unormale forhold. Kravet om integrasjon av sikkerheten, jf. punkt 1.1.2, og forpliktelsene til merking av maskiner og utforming av bruksanvisning, jf. nr. 1.7.3 og 1.7.4, gjelder under alle omstendigheter.
 3. De grunnleggende helse- og sikkerhetskravene i dette vedlegget er bindende. Imidlertid er det likevel mulig at de fastsatte sikkerhetsmålene ikke kan nås pga. det aktuelle teknologiske nivå. Hvis det er tilfelle, skal maskinen konstrueres og bygges slik at den i størst mulig grad kan oppfylle målene.
 4. Dette vedlegget har flere deler. Første del er generell og gjelder for alle maskiner. De øvrige delene gjelder visse former for spesifikke farer. Det er likevel helt påkrevd å gå gjennom dette vedlegget i sin helhet, for å være sikker på å oppfylle alle kravene som er relevante for den aktuelle maskinen. Når maskiner blir konstruert, skal det tas hensyn til kravene i den generelle delen og kravene i en eller flere av de øvrige delene, alt etter resultatene av risikovurderingen som er utført i samsvar med nr. 1 i «Generelle prinsipper.» Grunnleggende helse- og sikkerhetskrav til beskyttelse av miljøet, gjelder bare for maskiner som er nevnt i nr. 2.4.
 
+1.*Krav til helse og sikkerhet*
+
+1.1.*Generelle krav*
+
+1.1.1.*Definisjoner*
+
 I dette vedlegget betyr:*fare:* en mulig kilde til beskadigelse eller helseskade.*farlig område:* ethvert område i eller rundt en maskin, hvor en persons tilstedeværelse innebærer en risiko for vedkommendes helse og sikkerhet.*utsatt person:* enhver person som helt eller delvis befinner seg i et farlig område.*operatør:* den eller de personer som installerer, setter opp, monterer, betjener, stiller inn, vedlikeholder, rengjør, reparerer eller flytter på en maskin.*risiko:* kombinasjon av sannsynligheten for og graden av beskadigelse eller helseskade som kan oppstå i en farlig situasjon.*vern:* del av maskinen, brukt spesielt til å gi beskyttelse ved hjelp av en fysisk barriere.*verneinnretning:* innretning, som enten alene eller sammen med et vern, reduserer risikoen.*tilsiktet bruk:* bruk av en maskin i samsvar med opplysningene i bruksanvisningen.*feil bruk som med rimelighet kan forutses:* bruk av en maskin på en måte som ikke er tilsiktet i bruksanvisningen, men som vil kunne følge av lett forutsigbar menneskelig atferd.
+
+1.1.2.*Prinsipper for integrering av sikkerhet*
 
 1. Maskiner skal være konstruert og utformet slik at de kan fungere, innstilles og vedlikeholdes uten at personer utsettes for risiko når operasjonene blir utført under forhold produsenten har forutsatt, men også ved feil bruk som med rimelighet kan forutses. Formålet med tiltakene skal være å fjerne enhver risiko for skade på liv og helse som kan oppstå i løpet av maskinenes forventede levetid, også under transport, montering, demontering, frakobling og når maskinen blir skrotet.
 2. Ved valg av hensiktsmessige metoder skal produsenten eller dennes representant legge til grunn følgende prinsipper i denne rekkefølge:fjerne eller redusere risikoer så godt som mulig, dvs. at maskinen skal konstrueres og bygges på en måte som gjør at den er sikker i seg selv,treffe nødvendige vernetiltak overfor risikoer som ikke la seg fjerne,informere brukerne om gjenværende risikoer som er til stede når mulige vernetiltak er truffet, om det er påkrevd med spesialopplæring, og om det er nødvendig å bruke personlig verneutstyr.
@@ -187,15 +197,21 @@ I dette vedlegget betyr:*fare:* en mulig kilde til beskadigelse eller helseskade
 4. Maskiner skal konstrueres og bygges slik at det tas hensyn til de hindringene operatøren blir utsatt for, som følge av den nødvendige eller forventede bruk av personlig verneutstyr.
 5. Maskiner skal leveres med alt spesialutstyr og tilbehør som er nødvendig for at de skal kunne justeres, vedlikeholdes og brukes på en sikker måte.
 
+1.1.3.*Materialer og produkter*
+
 De materialene som blir brukt til å bygge maskiner, eller som blir brukt i produktene som maskinen fremstiller eller bruker, skal ikke sette personers sikkerhet eller helse i fare.
 
 Særlig ved bruk av væsker og gasser, skal maskiner være konstruert og bygd slik at det ikke oppstår risiko ved påfylling, bruk, oppsamling eller tømming av væsker og gasser som maskinen bruker.
+
+1.1.4.*Belysning*
 
 Dersom dårlig belysning kan medføre risiko ved betjening av maskiner, til tross for normal allmennbelysning, skal maskinen være levert med innebygd belysning som er egnet til formålet.
 
 Maskinen skal konstrueres og bygges uten sjenerende skyggesoner, uten at belysningen er blendfri, uten sjenerende skyggesoner og slik at det ikke oppstår farlige stroboskopvirkninger som følge av innebygd belysning.
 
 Innvendige deler av maskiner som ofte skal etterses og spesielle vedlikeholds- og innstillingsområder skal ha egnet belysning.
+
+1.1.5.*Håndtering av maskinene*
 
 Maskiner eller hver enkelt maskindel skal:kunne håndteres og transporteres på en sikker måte, ogvære pakket eller utformet slik at de kan lagres på en sikker og stabil måte uten å bli skadet.
 
@@ -207,13 +223,19 @@ Når maskinen eller tilhørende deler kan flyttes manuelt, skal de:være lette �
 
 Det skal treffes særlige tiltak for håndtering av verktøy og maskindeler som kan være farlige på grunn av form, materiale og liknende, selv om de er lette.
 
+1.1.6.*Ergonomi*
+
 Ubehag, tretthet og fysisk og psykisk belastning hos operatøren ved tilsiktet bruk av maskinen skal begrenses til et minimum, ut fra følgende ergonomiske prinsipper:det skal gis mulighet for tilpasning av operatørenes fysiske dimensjoner, styrke og utholdenhet,det skal være plass til at operatøren kan bevege alle deler av kroppen,det skal unngås at det er maskinen som bestemmer arbeidsrytmen,langvarig konsentrasjonskrevende overvåkning skal unngås,grenseflaten menneske-maskin skal tilpasses til de egenskaper operatørene kan forventes å ha.
+
+1.1.7.*Betjeningsplassen*
 
 Betjeningsplassen skal være konstruert og utformet slik at det ikke kan oppstå risiko som følge av utslipp av avgasser fra maskinen eller oksygenmangel.
 
 Hvis maskinen skal brukes i et farlig miljø som medfører risiko for operatørens helse og sikkerhet, eller hvis maskinen i seg selv skaper et farlig miljø, skal det gjøres tilstrekkelige tiltak for å sikre at operatøren har gode arbeidsforhold og er beskyttet mot alle forutsigbare farer. Når det er nødvendig, skal arbeidsplassen være utstyrt med et hensiktsmessig førerhus som er konstruert eller utstyrt slik at det oppfyller kravene i dette punktet.
 
 Utgangen skal gi mulighet til rask rømming. Dessuten skal det, når forholdene krever det, være nødutgang i en annen retning enn den vanlige utgangen.
+
+1.1.8.*Seter*
 
 I de tilfeller det er hensiktsmessig og dersom arbeidsforholdene tillater det, skal betjeningsplasser som er en integrert del av maskinen, være konstruert slik at det kan monteres seter.
 
@@ -223,11 +245,17 @@ Operatørens sete skal gi vedkommende mulighet for å sitte stabilt. Dessuten sk
 
 Dersom maskinen er utsatt for vibrasjoner, skal setet være konstruert og utformet slik at vibrasjoner som overføres fra maskinen til operatøren, begrenses til lavest mulig nivå. Setets festepunkter skal tåle alle belastninger som de kan bli utsatt for. Hvis det ikke er noe gulv under operatørens føtter, skal maskinen være utstyrt med sklisikre fotstøtter.
 
+1.2.*Styresystemer*
+
+1.2.1.*Styresystemers sikkerhet og pålitelighet*
+
 Styresystemer skal være konstruert og bygd slik at det ikke oppstår farlige situasjoner. Fremfor alt skal systemene være konstruert og bygd slik at:de kan tåle de forutsatte driftspåkjenninger og ytre påvirkninger,feil i styresystemets komponenter eller programvare ikke fører til at det oppstår farlige situasjoner,feil i styresystemets logikk ikke fører til farlige situasjoner,menneskelig feilhandling som med rimelighet kan forutses under bruken, ikke fører til farlige situasjoner.
 
 Det skal særlig tas hensyn til følgende forhold:maskinen skal ikke kunne starte på en uventet måte,maskinens driftsinnstillinger skal ikke kunne endre seg på en ukontrollert måte, hvis en slik endring kan føre til farlige situasjoner,stansing av maskinen skal ikke kunne hindres når stoppsignal allerede er gitt,bevegelige maskindeler eller arbeidsemner som er festet til maskinen, skal ikke kunne falle ned eller bli slynget ut,automatisk eller manuell stansing av bevegelige deler, uansett hvilke det gjelder, skal ikke hindres,verneinnretningene skal til enhver tid fungere eller utløse et stoppsignal,de sikkerhetsrelaterte delene av styresystemet skal fungere på en sammenhengende måte for sammenkoblede maskiner eller delvis ferdigstilte maskiner.
 
 Ved bruk av trådløs betjeningsinnretning skal automatisk stopp utløses når korrekte styresignal ikke mottas, innbefattet bortfall av signaloverføring.
+
+1.2.2.*Betjeningsinnretninger*
 
 Betjeningsinnretningene skal være:godt synlige, lette å kjenne igjen og med bruk av piktogrammer når det er formålstjenlig.plassert på en slik måte at de kan betjenes sikkert, uten nøling eller tap av tid, og uten fare for misforståelse.utformet på en slik måte at bevegelsen av betjeningsinnretningen samsvarer med den virkningen som utløsesplassert utenfor faresonen, unntatt hvor det er nødvendig å ha visse betjeningsinnretninger, så som nødstopp eller en programmeringsenhet.plassert på en slik måte at betjening ikke representerer en tilleggsrisiko.utformet eller vernet på en slik måte at ønsket virkning bare kan oppnås ved en bevisst handling, dersom utilsiktet påvirkning kan medføre fare.utformet på en slik måte at forventede belastninger tåles, særlig gjelder dette nødstoppsinnretninger som vanligvis blir utsatt for betydelige belastninger.
 
@@ -249,6 +277,8 @@ Dersom det finnes flere enn en betjeningsplass, skal styresystemet være utforme
 
 Hvert betjeningssted på maskiner med to eller flere betjeningsplasser, skal ha alle nødvendige betjeningsinnretninger. Dette skal ikke medføre at operatørene er til hinder for hverandre eller setter hverandre i farlige situasjoner.
 
+1.2.3.*Igangsetting*
+
 Maskinen skal bare kunne startes ved en valgt aktivering av en betjeningsinnretning som skal brukes til det formålet.
 
 Det gjelder også:når maskiner skal startes opp igjen etter et stopp, uansett årsak,når det skal foretas en vesentlig endring av driftsvilkårene.
@@ -259,13 +289,21 @@ For maskiner som fungerer automatisk, kan start av maskinen, gjenstart eller end
 
 På maskiner som har flere startinnretninger og operatørene av den grunn kan utsette hverandre for risiko, skal det monteres tilleggsinnretninger for å unngå slik risiko. Hvis sikkerheten krever at start og stopp skal skje i en bestemt rekkefølge, skal maskinen ha innretninger som sikrer at dette blir gjort i korrekt rekkefølge.
 
+1.2.4.*Stopp*
+
+1.2.4.1.*Normal stopp*
+
 Maskiner skal ha betjeningsinnretninger som gjør det mulig å stanse maskinen fullt og helt på en trygg måte.
 
 Alt etter hvilken risiko som foreligger, skal hver arbeidsstasjon ha en betjeningsinnretning til å stanse noen eller alle maskinfunksjonene, slik at maskinene blir sikret. Stoppfunksjonen skal overstyre startfunksjonen.
 
 Energitilførselen til de aktuelle drivinnretningene skal brytes med en gang en maskin eller dens farlige funksjoner er stoppet.
 
+1.2.4.2.*Driftsstopp*
+
 Når stoppfunksjonen av hensyn til driften ikke kan avbryte energitilførselen til drivinnretningene, skal stopptilstanden overvåkes og opprettholdes.
+
+1.2.4.3.*Nødstopp*
 
 Maskiner skal utstyres med en eller flere nødstoppinnretninger slik at det er mulig å avverge truende situasjoner eller begrense virkningen av allerede oppståtte farlige situasjoner.
 
@@ -279,7 +317,11 @@ Nødstoppfunksjonen skal være til rådighet og virke til enhver tid uansett dri
 
 Nødstoppinnretningene skal supplere andre sikkerhetstiltak og ikke erstatte dem.
 
+1.2.4.4.*Sammensetning av maskiner*
+
 Maskiner eller deler av maskiner som er konstruert for å virke sammen, skal konstrueres og bygges slik at stoppinnretningene, herunder nødstoppsinnretningene, kan stanse både maskinene og alt tilhørende utstyr som ligger foran eller etter i arbeidsprosessen, hvis fortsatt drift kan være farlig.
+
+1.2.5.*Valg av styrings- eller driftsmåte*
 
 Den styrings- eller driftsmåten som er valgt, skal overstyre alle andre styrings- eller driftsmåter med unntak av nødstoppinnretningen.
 
@@ -293,13 +335,21 @@ Hvis disse fire betingelsene ikke kan oppfylles samtidig, skal velgerinnretninge
 
 I tillegg skal operatøren kunne styre maskindelene vedkommende arbeider med fra innstillingsstedet.
 
+1.2.6.*Svikt i energitilførselen*
+
 Avbrudd i tilførsel av energi, gjenoppretting av energitilførsel etter et avbrudd eller variasjoner i en eller annen form av strømforsyningen til maskinen må ikke medføre farlige situasjoner.
 
 Det er særlig viktig at:uventet start av maskiner ikke er mulig,innstillingene til maskiner ikke kan endre seg ukontrollert, hvis en slik endring kan føre til farlige situasjoner,maskiner ikke kan hindres i å stanse når stoppsignal er gitt,bevegelige deler eller arbeidsstykker som sitter i maskiner ikke kan falle ned eller slynges ut,automatisk eller manuell stansing av en hvilken som helst bevegelig del av maskinen ikke hindres,verneinnretningen hele tiden skal være fullt virksom eller utløse stoppsignal.
 
+1.3.*Vernetiltak mot mekanisk fare*
+
+1.3.1.*Risiko ved tap av stabilitet*
+
 Maskiner, inkludert komponenter og utstyr, skal være tilstrekkelig stabile slik at de ikke velter, faller eller slik at det ikke oppstår ukontrollerte bevegelser under transport, montering, demontering eller enhver annen handling som maskiner utsettes for.
 
 Hvis ikke maskinens form eller planlagt oppstilling gir tilstrekkelig stabilitet, skal maskinen ha hensiktsmessige festeinnretninger. Det skal gis opplysninger om dette i bruksanvisningen.
+
+1.3.2.*Risiko ved brudd under drift*
 
 Forskjellige seksjoner av maskiner og forbindelsene mellom dem skal tåle de påkjenningene de blir utsatt for under bruk.
 
@@ -313,15 +363,25 @@ Både stive og bøyelige rør som transporterer væsker og gasser, særlig slike
 
 Hvis det materialet som skal bearbeides blir ført automatisk fram til verktøyet, skal følgende betingelser være oppfylt for å unngå fare for skade på liv og helse:når arbeidsstykket kommer fram til verktøyet, skal verktøyet ha nådd normal arbeidstilstand.når verktøyet starter eller stopper, tilsiktet eller utilsiktet, skal matebevegelsen og bevegelsen av verktøyet være koordinert.
 
+1.3.3.*Faremomenter som skyldes gjenstander som faller eller slynges ut*
+
 Det skal treffes tiltak for å forebygge risiko på grunn av gjenstander som faller eller slynges ut.
 
+1.3.4.*Faremomenter som skyldes overflater, kanter eller hjørner*
+
 Tilgjengelige deler av maskiner skal, i den grad maskinens funksjoner tillater det, være uten skarpe kanter, hjørner og rue overflater som kan medføre fare for skade.
+
+1.3.5.*Faremomenter i forbindelse med kombinerte maskiner*
 
 Når maskiner er beregnet på å utføre flere forskjellige arbeidsoperasjoner med manuelt uttak av arbeidsstykket mellom hver arbeidsoperasjon, skal maskinen være konstruert og bygd slik at hver enkelt av maskinens deler kan brukes uten at de andre delene vil representere risiko for utsatte personer.
 
 For slik bruk skal det være mulig å starte og stoppe hver enhet individuelt, dersom hver enhet ikke er fullstendig vernet.
 
+1.3.6.*Faremomenter som skyldes variasjoner i verktøyets omdreiningshastighet*
+
 Maskiner som er beregnet på å utføre arbeidsoperasjoner under forskjellige driftsforhold, skal være slik konstruert og bygd at endringer og tilpasning til endringer i driftsforholdene kan gjennomføres sikkert og pålitelig.
+
+1.3.7.*Fare i forbindelse med bevegelige deler*
 
 Maskiners bevegelige deler skal være konstruert og bygd med sikte på å unngå risiko. Der risiko fremdeles er til stede, skal delene avskjermes eller utstyres med vern og verneinnretning for å hindre berøring.
 
@@ -329,23 +389,41 @@ Det skal treffes nødvendige tiltak for å hindre tilfeldig fastkiling av bevege
 
 Det skal gis informasjon om de særlige verneinnretningene og deres bruksmåte i bruksanvisningen, og om mulig på maskinen.
 
+1.3.8.*Vernetiltak mot farer fra bevegelige maskindeler*
+
 Vern og verneinnretninger som blir brukt for å gi vern mot farer ved bevegelige deler, skal velges ut fra de farer som er til stede. Retningslinjene som er gitt i nr. 1.3.8.1 til og med nr. 1.3.8.2, skal følges ved valg av vern og verneinnretning.
+
+1.3.8.1.*Bevegelige deler, kraftoverførende*
 
 Vern som er konstruert for å beskytte utsatte personer mot fare fra bevegelige kraftoverførende deler, skal enten være:fastmonterte vern, som nevnt i nr. 1.4.2.1, ellerbevegelige vern med forrigling som nevnt i nr. 1.4.2.2.
 
 Bevegelige vern med forrigling skal brukes når det forventes behov for hyppig tilgang.
 
+1.3.8.2.*Bevegelige deler som inngår i arbeidsprosessen*
+
 Vern og verneinnretninger som er konstruert for å verne utsatte personer mot fare fra bevegelige deler som inngår i selve arbeidsprosessen, f.eks. skjæreverktøy, bevegelige deler i presser, valser og emner som blir bearbeidet, skal så langt det er mulig være:fastmonterte vern som nevnt i nr. 1.4.2.1, ellerbevegelige vern med forrigling som nevnt i nr. 1.4.2.2, ellerverninnretning som omhandlet i 1.4.3, elleren kombinasjon av disse.
 
 Maskiner med bevegelige deler som inngår direkte i prosessen som ikke kan vernes helt fordi prosessen krever at operatøren må kunne gripe inn, skal så langt det er teknisk mulig ha:fastmonterte vern eller bevegelige vern med forrigling, som hindrer at operatøren kommer nær de delene av de enhetene som ikke er med i selve arbeidsprosessen, ellerstillbare vern, jf. pkt. 1.4.2.3 som kun gir adgang til delene av de enhetene som er nødvendig for arbeidsprosessen.
 
+1.3.9.*Farer i forbindelse med ukontrollerte bevegelser*
+
 Tilbakeløp etter at en maskindel er stoppet skal bare skje ved aktivering av betjeningsinnretningene eller på en måte som ikke medfører fare.
+
+1.4.*Krav til vern og verneinnretninger*
+
+1.4.1.*Generelle krav*
 
 Vern og verneinnretninger skal:være solid bygdvære solid festetikke være årsak til nye farervære slik at det ikke er lett å unngå bruk eller å sette ut av funksjonvære plassert i tilstrekkelig avstand fra faresonenstenge minst mulig for oversikten over produksjonsprosessenvære slik utformet at det er mulig å utføre viktig arbeid som montering eller utskifting av verktøy samt vedlikeholdsarbeid, ved å begrense adgangen bare til det området der arbeidet skal utføres om mulig uten at det er nødvendig å demontere vernet eller deaktivere verneinnretningen.
 
 For øvrig skal vernene om mulig beskytte mot utslynging eller fall av materialer eller gjenstander og mot utslipp fra maskinen.
 
+1.4.2.*Særlige krav til vern*
+
+1.4.2.1.*Fastmonterte vern*
+
 Faste vern skal være forsvarlig festet. De skal være festet slik at de bare kan åpnes eller fjernes med verktøy. Hvis det er mulig, skal faste vern ikke kunne være på plass uten festeinnretningene.
+
+1.4.2.2.*Bevegelige vern med forrigling*
 
 Bevegelige vern med forrigling skal:om mulig bli sittende på maskinen når vernet åpneskonstrueres og bygges slik at de bare kan bli justert ved en tilsiktet handling.
 
@@ -355,39 +433,65 @@ Når det er mulig for en operatør å komme inn i det farlige området før risi
 
 Bevegelig vern med forrigling skal være konstruert slik at de hindrer eller stopper farlige maskinfunksjoner hvis en eller flere av vernets komponenter mangler eller svikter.
 
+1.4.2.3.*Stillbare vern som begrenser adgangen*
+
 Stillbare vern som begrenser adgangen til området med bevegelige deler som er strengt nødvendige for arbeidsoperasjonen skal:kunne stilles inn manuelt eller automatisk, avhengig av hva slags arbeid som skal utføreslett kunne stilles inn uten at det brukes verktøy.
+
+1.4.3.*Krav til verneinnretninger*
 
 Verneinnretninger skal være konstruert og innpasset i styresystemet slik at:bevegelige deler ikke kan settes i bevegelse mens de er innenfor operatørens rekkevidde,personer ikke kan nå inn til bevegelige deler som er satt i bevegelse,de bare kan innstilles ved en tilsiktet handling,bevegelige deler ikke kan settes i bevegelse eller slik at de stanser hvis en del av vernet ikke er på plass eller svikter.
 
 Verneinnretningene skal kunne justeres bare ved en tilsiktet handling.
 
+1.5.*Risiko med årsak i andre farer*
+
+1.5.1.*Elektrisk energitilførsel*
+
 Maskiner som blir drevet med elektrisitet skal være slik konstruert, bygd og utstyrt at all risiko som er forbundet med bruk av elektrisitet, unngås eller kan unngås.
 
 Sikkerhetskravene i forskrift om elektrisk utstyr, gjelder også for maskiner. Forpliktelsene til å gjennomføre samsvarsvurdering, og til å påse at kravene for å omsette maskinene eller til å ta disse i bruk er fulgt, reguleres bare av denne forskrift når det gjelder elektriske farer.
 
+1.5.2.*Statisk elektrisitet*
+
 Maskiner skal være konstruert og bygd slik at oppsamling av potensielt farlig elektrisitet forebygges eller begrenses, eller være utstyrt med et system som leder bort den statiske elektrisiteten.
 
+1.5.3.*Annen energi enn elektrisitet*
+
 Maskiner som drives med annen type energi enn elektrisitet, skal være konstruert, bygd og utstyrt med sikte på å unngå enhver potensiell fare som bruk av disse energiformene kan føre med seg.
+
+1.5.4.*Feilmontering*
 
 Dersom montasje eller utskifting av visse deler kan utføres feil slik at risiko kan oppstå, må dette forhindres ved egnet utforming og konstruksjon av delene. Dersom dette ikke er mulig, må delene, maskinhuset, rammeverket eller chassiset, merkes med anvisning for korrekt montasje, samt bevegelsesretning. Der dette er nødvendig, må bruksanvisingen gi ytterligere informasjon om farene.
 
 Dersom feilkoblinger kan medføre fare, skal dette forhindres ved egnet utforming og konstruksjon. Dersom dette ikke er mulig, skal delene som skal tilkobles, merkes. Utstyret for tilkobling skal merkes der dette er hensiktsmessig.
 
+1.5.5.*Farlige temperaturer*
+
 Det skal treffes tiltak for å fjerne enhver fare for skade ved berøring av eller opphold i nærheten av maskindeler eller materialer med høy eller meget lav temperatur. Det skal treffes nødvendige tiltak for å hindre farer for at varme eller meget kalde stoffer kan strømme ut eller slynges ut.
 
+1.5.6.*Brannfare*
+
 Maskiner skal være slik konstruert og bygd at enhver fare for brann eller overoppheting unngås, enten faren kommer av maskinen selv, eller av gasser, flytende stoffer, støv, damp eller andre stoffer som blir produsert av eller brukt i maskinen.
+
+1.5.7.*Eksplosjonsfare*
 
 Maskiner skal være slik konstruert og bygd at enhver fare for eksplosjon unngås, enten faren kommer av maskinen selv, eller av gasser, flytende stoffer, støv eller av andre stoffer som blir produsert av eller brukt i maskinen.
 
 Hvis det kan oppstå eksplosjonsfare som følge av at en maskin brukes i en potensiell eksplosjonsfarlig atmosfære, skal maskinen også være i samsvar med gjeldende spesialforskrifter.
 
+1.5.8.*Støy*
+
 Maskiner skal være konstruert og bygd slik at farer som skyldes luftbåren støy, blir redusert til lavest mulig nivå. Den tekniske utvikling og de midler som står til rådighet for å redusere støyen, særlig ved kilden, skal tas i betraktning.
 
 Utslippsnivået kan vurderes i forhold til sammenlignbare utslippsdata for tilsvarende maskiner.
 
+1.5.9.*Vibrasjon*
+
 Maskiner skal være konstruert og bygd slik at farer som skyldes vibrasjon blir redusert til lavest mulig nivå. Den tekniske utvikling og de midler som står til rådighet for å redusere vibrasjonen, særlig ved kilden, skal tas i betraktning.
 
 Vibrasjonsnivået kan vurderes i forhold til sammenlignbare utslippsdata for tilsvarende maskiner.
+
+1.5.10.*Stråling*
 
 Uønsket stråling fra maskiner skal reduseres til et nivå som ikke er skadelig for mennesker.
 
@@ -395,9 +499,15 @@ Alle funksjonelle ioniserende strålingsutslipp skal reduseres til det laveste m
 
 Alle funksjonelle ikke-ioniserende strålingsutslipp under innstilling, drift og rengjøring skal reduseres til et nivå som ikke er skadelig for personer.
 
+1.5.11.*Stråling utenfra*
+
 Maskiner skal være slik konstruert og bygd at maskinens funksjoner ikke blir påvirket av stråling utenfra.
 
+1.5.12.*Laserstråling*
+
 Når det brukes laserutstyr, skal disse kravene følges:laserutstyr på maskiner skal være slik konstruert og bygd at utilsiktet stråling ikke kan forekomme,laserutstyr på maskiner skal være skjermet slik at verken den effektive strålingen, stråling som skyldes refleksjon eller spredning, eller sekundærstråling kan forårsake skade på liv og helse,optisk utstyr til observasjon eller justering av laserutstyr på maskiner skal være slik innrettet at det ikke oppstår fare for skade på liv og helse på grunn av laserstråler.
+
+1.5.13.*Utslipp av farlige materialer og stoffer*
 
 Maskiner skal være konstruert og bygd slik at fare for innånding, inntak, kontakt med hud, øyne og slimhinner samt opptak gjennom huden av farlige materialer og stoffer som maskinen utvikler, unngås.
 
@@ -405,11 +515,21 @@ Dersom en slik fare ikke kan fjernes, skal maskiner være utstyrt slik at farlig
 
 Dersom prosessen ikke er helt lukket under normal drift av maskinen, skal innretningene som brukes til oppsamling eller oppsuging, være plassert slik at de får best mulig virkning.
 
+1.5.14.*Risiko ved å bli sperret inne i en maskin*
+
 Maskiner skal være konstruert, bygd eller utstyrt med innretninger som hindrer at en person kan bli sperret inne i dem. Dersom det ikke er mulig, skal maskinen være slik innrettet at det er mulig for personen å tilkalle hjelp.
+
+1.5.15.*Risiko ved å gli, snuble eller falle*
 
 De delene av maskinen som der personer skal kunne bevege seg eller stå på, skal være konstruert og bygd slik at personene unngår å gli på, snuble i, eller falle fra disse delene. Dersom det er nødvendig, skal det være håndtak som er plassert i forhold til brukernes behov, og som gjør det mulig for brukeren å opprettholde en stabil posisjon.
 
+1.5.16.*Lynnedslag*
+
 Maskiner som må beskyttes mot følgene av lynnedslag under bruk, skal ha et jordingssystem for den elektriske utladningen som følger av et lynnedslag.
+
+1.6.*Vedlikehold*
+
+1.6.1.*Vedlikehold av maskiner*
 
 Justerings-, og vedlikeholdspunkter skal plasseres utenfor faresoner. Det skal være mulig å utføre justering, vedlikehold, feilretting, rengjøring og ettersyn mens maskinen står.
 
@@ -419,7 +539,11 @@ På automatisk styrte maskiner skal produsenten utstyre maskinen med kontaktpunk
 
 Maskindeler på automatisk styrte maskiner, som må skiftes ofte, skal kunne fjernes og skiftes på en enkel og sikker måte. Det skal være mulig å få tilgang til delene slik at utskiftingen kan utføres med nødvendige tekniske hjelpemidler etter fastsatt arbeidsprosedyre.
 
+1.6.2.*Atkomst til betjeningsplass og servicepunkter*
+
 Maskiner skal være konstruert og bygd slik at atkomst til alle områder som blir brukt under produksjon, justering og vedlikeholdsarbeid, kan skje på en sikker måte.
+
+1.6.3.*Frakobling av energikilder*
 
 Maskiner skal ha utstyr slik at de kan kobles fra hver enkelt energikilde. Slike innretninger skal være tydelig merket. De skal kunne låses dersom innkobling kan medføre fare for personer.
 
@@ -431,17 +555,29 @@ Etter at energitilførselen er brutt, skal det uten risiko for personer være mu
 
 Unntaksvis kan det tillates at forbindelsen mellom visse kretser og energikildene ikke brytes. Det gjelder for eksempel hvis det er nødvendig for å holde arbeidsstykker, ta vare på informasjon, belyse innvendige deler osv. I så fall skal det treffes spesielle tiltak for å verne operatøren.
 
+1.6.4.*Inngrep fra operatørens side*
+
 Maskiner skal være slik konstruert, bygd og utstyrt at det normalt ikke er påkrevd at operatøren griper inn.
 
 Hvis operatøren må gripe inn, skal det kunne gjøres lett og farefritt.
 
+1.6.5.*Rengjøring av innvendige deler*
+
 En maskin skal være konstruert og bygd slik at det er mulig å rengjøre indre maskindeler som har inneholdt farlige stoffer eller preparater uten at det er nødvendig å gå inn i maskinens indre deler. Dersom det er nødvendig skal hver blokkering kunne avhjelpes fra utsiden. Er det umulig å unngå å gå inn i maskinen skal den være konstruert og bygd slik at rengjøring kan skje sikkert.
 
+1.7.*Opplysninger og informasjon*
+
+1.7.1.*Opplysninger og advarsler på maskinen*
+
 Opplysninger og advarsler på maskinen skal helst bestå av lett forståelige symboler eller piktogrammer. Alle skriftlige eller verbale opplysninger og advarsler skal være formulert på det eller de EØS-språk som snakkes i landet der maskinen blir omsatt eller tatt i bruk, og det skal på anmodning følge med en versjon på et hvilket som helst av de offisielle språk som operatørene normalt forstår.
+
+1.7.1.1.*Opplysninger og informasjonsutstyr*
 
 De opplysningene som er nødvendige for å betjene en maskin, skal være entydige og lett forståelige. De må ikke være så omfattende at det blir en belastning for operatøren.
 
 Dataskjermer eller andre interaktive kommunikasjonsmidler mellom operatøren og maskinen skal være lette å forstå og bruke.
+
+1.7.1.2.*Alarmer*
 
 Hvis personers liv og helse kan komme i fare som følge av funksjonsfeil ved en maskin som arbeider uten tilsyn, skal maskinen kunne gi et hensiktsmessig varsel i form av et lyd- eller et lyssignal.
 
@@ -449,7 +585,11 @@ Hvis maskinen er forsynt med varslingsinnretninger, skal de være entydige og le
 
 Krav om farger og sikkerhetssignaler i andre forskrifter gjelder.
 
+1.7.2.*Advarsel om gjenværende faremomenter*
+
 Produsenten skal sørge for å utarbeide og utstyre maskinen med advarsler, herunder varslingsinnretninger, når det til tross for de tiltak som er truffet, for å oppnå sikker konstruksjon, vernetiltak, samt ytterligere forebyggende tiltak, fortsatt er risiko til stede.
+
+1.7.3.*Merking av maskiner*
 
 Maskiner skal ha merking som er tydelig og varig. Merkingen skal inneholde følgende opplysninger:produsentens firmanavn og fulle adresse, og eventuelt navn og adresse på dennes representant,maskinens betegnelse,CE-merking som angitt i vedlegg III,serie- eller typebetegnelse,eventuelt serienummer,byggeår, dvs. det år produksjonsprosessen ble avsluttet.
 
@@ -459,6 +599,8 @@ Hvis maskinen er konstruert og bygget til bruk i eksplosjonsfarlig atmosfære, s
 
 Dersom en maskindel må håndteres med løfteutstyr skal maskindelens masse være tydelig, varig og utvetydig merket.
 
+1.7.4.*Bruksanvisning*
+
 Alle maskiner skal være utstyrt med en bruksanvisning. Bruksanvisningen skal utarbeides på et eller flere av de offisielle EØS-språkene i det medlemslandet som maskinen settes i omsetning eller tas i bruk.
 
 Bruksanvisningen som følger maskinen skal være en «Original bruksanvisning». Når den «Originale bruksanvisningen» må oversettes til norsk, jf. første ledd, skal også den originale bruksanvisningen følge vedlagt.
@@ -467,26 +609,46 @@ Vedlikeholdsinstrukser som er beregnet for bruk av spesialisert personell, som u
 
 Bruksanvisningen skal utarbeides i henhold til følgende prinsipper:
 
+1.7.4.1.*Generelle prinsipper for utarbeidelse av bruksanvisning*
+
 1. Bruksanvisningen skal utarbeides på ett eller flere offisielle EØS-språk. Påskriften «Original bruksanvisning» skal stå på den eller de språkutgaver som produsenten eller dennes representant påtar seg ansvaret for.
 2. Hvis det ikke finnes noen «Original bruksanvisning» på brukslandets EØS-språk, skal produsenten eller dennes representant, eller den som markedsfører maskinen i det aktuelle språkområdet, sørge for en oversettelse til det eller de aktuelle språkene. På disse oversettelsene skal det stå: «Oversettelse av den originale bruksanvisningen».
 3. Bruksanvisningens innhold skal ikke bare dekke maskinens tilsiktede bruk, men skal også ta høyde for enhver feilbruk som med rimelighet kan forutsees.
 4. For maskiner som er beregnet på ikke-profesjonelle brukere, skal det ved ordvalg og presentasjon av bruksanvisningen tas hensyn til det generelle utdanningsnivå og den innsikt som med rimelighet kan forventes av de aktuelle brukerne.
 
+1.7.4.2.*Bruksanvisningens innhold*
+
 Alle bruksanvisninger skal minst inneholde følgende relevante opplysninger:produsentens firmanavn og fulle adresse, eventuelt navn og adresse på dennes representantmaskinens betegnelse slik det framgår av selve maskinen, unntatt serienummeret (jf. nr. 1.7.3.)EF-samsvarserklæringen eller et dokument som gjengir innholdet av EF-samsvarserklæringen og maskinens kjennetegn, eventuelt uten serienummeret og underskriftenen generell beskrivelse av maskinentegninger, diagrammer, beskrivelser og forklaringer som er nødvendige for bruk, vedlikehold og reparasjon av maskinen og for å kontrollere om den fungerer korrekten beskrivelse av den eller de arbeidsplasser hvor operatørene kan forventes å oppholde segen beskrivelse av maskinens tilsiktede brukadvarsler om måter som maskinen ikke må brukes på, men som erfaringen viser kan forekommeinstruksjoner for montering, oppstilling og tilkobling, herunder tegninger, diagrammer og festeinnretninger, og beskrivelse av den rammen eller installasjonen som maskinen skal monteres påinstruksjoner om installasjon og montasje slik at støy og vibrasjoner kan reduseresinstruksjoner for levering til bruk og bruk av maskinen og om nødvendig instruksjoner for opplæring av operatøreneopplysninger om resterende risikoer som fortsatt består selv om tiltak for sikker konstruksjon, beskyttelsesinnretninger og supplerende vernetiltak er gjennomførtinstruksjoner om vernetiltak som brukeren skal gjennomføre, herunder eventuelt om personlig verneutstyr som skal stilles til rådighetde viktigste kjennetegn for verktøy som kan monteres på maskinenhvilke vilkår som må være oppfylt for at maskinen oppfyller kravet om stabilitet under bruk, transport, montering, demontering når den er ute av bruk, under prøving eller ved forutsigbart havariinstruksjoner for hvordan transport, håndtering og oppbevaring kan skje på en sikker måte, ved at maskinens og dens forskjellige delenes masse er angitt hvis maskinen og delene jevnlig skal transporteres hver for segfremgangsmåte ved uhell eller havari. Hvis blokkering kan skje, så skal det fremgå hvordan maskinen kan settes i gang igjen på en sikker måte.angivelse av hvilke justerings- og vedlikeholdsoperasjoner som skal utføres av brukeren, samt hvilke forebyggende vedlikeholdstiltak som skal overholdesinstruksjoner om hvordan justering og vedlikehold kan utføres på en sikker måte, herunder hvilke beskyttelsestiltak som skal gjennomføres under slike operasjonerspesifikasjoner for reservedeler som skal brukes dersom disse kan påvirke operatørenes sikkerhet og helseopplysninger om luftbåren støy som beskrevet under:energiekvivalent A-veid lydtrykknivå på arbeidsplassen dersom det overstiger 70 dB(A). Dersom nivået ikke overstiger 70 dB(A), skal det fremgå.toppverdien av C-veid lydtrykk på arbeidsplassen dersom det overstiger 63 Pa, målt med instrumentinnstilling «PEAK» (130 dB med referanseverdi 20 mikro μ Pa)lydeffektnivået fra maskiner dersom det energiekvivalente A-veide lydtrykknivået på operatørplasser overstiger 85 dB(A).Disse verdiene skal enten være reelt målt på den aktuelle maskinen, eller så skal det fastsettes en verdi på grunnlag av målinger foretatt på en nøyaktig lik maskin. For meget store maskiner kan energiekvivalent lydtrykknivå på nærmere angitte steder rundt maskiner angis istedenfor lydeffektnivå.Hvis harmoniserte standarder ikke er brukt, skal lydnivåene måles ved hjelp av anerkjente målemetoder som egner seg best for maskinen. Når det er oppgitt støyverdier, skal usikkerheten ved beregningen av verdiene spesifiseres.Når arbeidsplassen ikke er bestemt eller ikke kan bestemmes, skal det A-vektede lydtrykknivået måles på 1,0 meters avstand fra maskinens overflate i en høyde på 1,6 meter over gulvet eller arbeidsplattformen. Stedet for og verdien av det høyeste lydtrykknivået skal være oppgitt.Dersom andre direktiver gjennomført i norsk rett fastsetter andre krav for å måle lydtrykknivåer eller lydeffektnivåer, gjelder disse reglene i stedet for bestemmelsene i bokstav u.når en maskin kan slippe ut ikke-ioniserende stråling som skader personer, særlig når personer med aktivert eller ikke-aktivert implanterbart medisinsk utstyr, opplysninger om den strålingen som avgis til operatøren og utsatte personer.
+
+1.7.4.3.*Salgsmateriell*
 
 Det salgsmateriellet som beskriver maskinen skal ikke inneholde opplysninger som er i motstrid med bruksanvisningen, når det gjelder sikkerhets- og helsemessige sider. Det salgsmateriale som beskriver maskinens yteevne, skal inneholde samme opplysninger om utslipp som finnes i bruksanvisningen.
 
+2.*Tilleggskrav til vern mot fare for liv og helse for visse maskinkategorier*
+
 Maskiner som brukes til produksjon av næringsmidler og maskiner til kosmetiske eller farmasøytiske produkter, håndholdte eller håndstyrte maskiner, bærbare festemaskiner og andre bærbare slagmaskiner, maskiner til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper og sprøytemiddelmaskiner, skal oppfylle alle kravene i dette kapitlet. I tillegg må produsenten og dennes representant påse at relevante grunnleggende helse- og sikkerhetskrav er fulgt, jf. «Generelle prinsipper» i dette vedlegget nr. 4.
+
+2.1.*Næringsmiddelmaskiner og maskiner til kosmetiske eller farmasøytiske produkter*
+
+2.1.1.*Generelt*
 
 Næringsmiddelmaskiner og maskiner til kosmetiske eller farmasøytiske produkter skal være konstruert og bygd slik at enhver fare for infeksjon, sykdom og smitte unngås.
 
 Følgende regler skal følges:materialer, som kommer i berøring med, eller som er bestemt til å komme i berøring med næringsmidler, kosmetiske eller farmasøytiske produkter, skal tilfredsstille de kravene som er fastsatt i gjeldende lover og forskrifter om dette. Maskinen skal være konstruert og bygget slik at disse materialene kan rengjøres hver gang maskinen brukes. Når det ikke er mulig, skal det brukes engangsdeler.alle overflater som kommer i kontakt med næringsmidler, kosmetiske eller farmasøytiske produkter, unntatt overflater på engangsdeler, skal:være glatte, også på sammenføyningsstedene, og verken ha sprekker eller ujevnheter som kan skjule organiske stoffer,være konstruert og bygd med så få fremspring, kanter og fordypninger som mulig,lett kunne rengjøres og desinfiseres. Deler som kan være til hinder for rengjøring skal lett kunne demonteres eller fjernes. Innvendige flater skal være avrundet med en radius som er tilstrekkelig til at det kan gjøres ordentlig rent.væsker, gasser og aerosoler fra næringsmidler, kosmetiske eller farmasøytiske produkter samt fra rengjørings-, desinfeksjons- og skyllemidler skal lett kunne renne helt ut av maskinen, eventuelt i rengjøringsstilling.maskiner skal være slik konstruert og bygd at verken stoffer eller levende organismer, særlig insekter, kan trenge inn i maskinen, og slik at organisk materiale ikke kan samle seg i områder som ikke kan rengjøres.maskiner skal være konstruert og bygd slik at ikke helsefarlige hjelpestoffer, for eksempel smøremidler o.l. kan komme i berøring med næringsmidler, kosmetiske eller farmasøytiske produkter. Maskinen skal være konstruert og bygd slik at det regelmessig kan kontrolleres om dette kravet er oppfylt.
 
+2.1.2.*Bruksanvisning*
+
 Bruksanvisningen for maskiner til næringsmidler og maskiner til kosmetiske eller farmasøytiske produkter skal inneholde opplysninger om anbefalte midler og metoder for rengjøring, desinfisering og skylling, ikke bare for lett tilgjengelige deler, men også på steder der det er umulig å komme til eller utilrådelig å oppholde seg.
+
+2.2.*Håndholdte og håndstyrte maskiner*
+
+2.2.1.*Generelt*
 
 Bærbare håndholdte og bærbare håndstyrte maskiner skal:avhenging av maskintypen, ha en anleggsflate som er tilstrekkelig stor, og ha tilstrekkelig antall håndtak. Håndtakene skal være slik dimensjonert og plassert at maskinen blir stabil under de driftsforhold som produsenten har forutsett.hvis operatøren ikke kan slippe håndtakene med full sikkerhet, ha start- og stoppinnretninger som er plassert slik at operatøren kan betjene dem uten å slippe håndtakene. Dette gjelder ikke hvis det ikke er teknisk mulig, eller hvis maskinen har en uavhengig styreinnretning.være konstruert, bygd eller utstyrt slik at maskinen ikke kan startes utilsiktet og slik at den ikke kan fortsette å gå etter at operatøren har sluppet håndtakene. Hvis dette ikke er teknisk mulig, skal det treffes andre tiltak som gir tilsvarende sikkerhet.være konstruert og bygd slik at operatøren når det er nødvendig, kan kontrollere visuelt at verktøyet er i berøring med det materialet som blir bearbeidet.
 
 Håndtakene på bærbare maskiner skal være konstruert og bygd slik at igangsetting og stopp kan skje lett og uhindret.
+
+2.2.1.1.*Bruksanvisning*
 
 Bruksanvisningen skal gi følgende opplysninger om vibrasjon som blir overført fra håndholdte og håndstyrte maskiner:den frekvensveide geometriske middelverdien av akselerasjonen armene utsettes for, hvis den overstiger 2,5 m/s2 målt ved hjelp av en egnet prøvemetode. Hvis akselerasjonen ikke overstiger 2,5 m/s2, skal dette også opplyses.usikkerheten ved målingen.
 
@@ -494,48 +656,100 @@ Disse verdiene skal enten være reelt målt på den aktuelle maskinen eller det 
 
 Produsenten skal opplyse om hvilke målemetoder som ble brukt og under hvilke forhold målingene ble gjennomført. Eventuelt skal det henvises til den harmoniserte standarden som er brukt.
 
+2.2.2.*Bærbare maskiner for innskyting av festemateriell og andre bærbare maskiner med slagkraft*
+
+2.2.2.1.*Generelt*
+
 Bærbare maskiner for innskyting av festemateriell og andre maskiner med slagkraft skal konstrueres og bygges slik at:energien overføres til festemateriellet eller slagelementet via et mellomstykke som ikke forlater innretningenen aktiveringsinnretning hindrer slag hvis maskinen ikke er korrekt plassert med tilstrekkelig trykk mot underlagetufrivillig utløsning hindres; om nødvendig skal det kreves en bestemt rekkefølge av handlinger mellom aktiveringsinnretningen og betjeningsinnretningen for å utløse et slagutilsiktet utløsning hindres under håndtering eller ved støtmaskinen kan lades og tømmes lett og sikkert.
 
 Når det er nødvendig, skal det være mulig å forsyne innretningen med splintvern. Egnet vern skal i så fall leveres av maskinens produsent.
 
+2.2.2.2.*Bruksanvisning*
+
 Bruksanvisningen skal omfatte nødvendige opplysninger om:hvilket tilbehør og utskiftbart utstyr som kan brukes sammen med maskinenhvilket egnet festemateriell eller andre slagelementer som skal brukes sammen med maskinennår det er relevant, hvilke drivpatroner som skal brukes.
+
+2.3.*Maskin til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper*
 
 Maskiner til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper skal oppfylle følgende krav:maskinen skal være konstruert, bygd og utstyrt slik at det arbeidsstykket som blir bearbeidet, kan plasseres og styres på en sikker måte. Når arbeidsstykket holdes eller føres med håndkraft på et arbeidsbord, skal arbeidsbordet være tilstrekkelig stabilt under arbeidet og ikke hindre føringen av arbeidsstykket.hvis maskinen ventelig vil bli brukt under forhold som medfører fare for utslynging og tilbakekast av arbeidsstykket, skal den være konstruert, bygd og utstyrt slik at dette blir hindret. Hvis det ikke er mulig, skal maskinene være konstruert, bygd og utstyrt slik at utslynging og tilbakekast ikke medfører risiko for operatørene eller utsatte personer.hvis det er fare for berøring av verktøyet under stans, skal maskinen være utstyrt med automatisk brems som stopper verktøyet på tilstrekkelig kort tid.hvis verktøyet er innebygd i en maskin som ikke er helautomatisert, skal maskinen være konstruert og bygd slik at faren for alvorlig personskade unngås eller reduseres.
 
+2.4.*Sprøytemiddelmaskiner*
+
+2.4.1.*Definisjon*
+
 Med sprøytemiddelmaskiner menes maskiner spesielt beregnet for påføring av plantevernmidler i henhold til artikkel 2 (I) i Europaparlaments- og rådsforordning [1107/2009/EF](eu/32009r1107) om markedsføring av plantevernmidler.
+
+2.4.2.*Generelt*
 
 Produsenten av sprøytemiddelmaskiner eller dennes representant skal sørge for at det blir gjennomført en risikovurdering for å fastslå risikoen for utilsiktet eksponering av miljøet ved bruk av plantevernmidler, i samsvar med prosessen om risikovurdering og risikoreduksjon nevnt i de generelle prinsippene, nr. l.
 
 Når sprøytemiddelmaskiner konstrueres og bygges skal det tas hensyn til resultatene av risikovurderingen som nevnt i første ledd, slik at de kan brukes, justeres og vedlikeholdes uten at miljøet blir utsatt for utilsiktet eksponering av plantevernmidler. Lekkasjer skal til enhver tid forhindres.
 
+2.4.3.*Betjening og overvåkning*
+
 Det skal på en enkel og nøyaktig måte være mulig å styre, overvåke og umiddelbart stoppe påføringen av sprøytemiddel fra betjeningsplassen.
+
+2.4.4.*Påfylling og tømming*
 
 Maskiner skal være konstruert og bygd slik at en enkelt og presist kan påfylle den nødvendige mengden av plantevernmidler, og slik at en sikrer en fullstendig tømming, samtidig som det ikke skjer søl av plantevernmidler og forurensning av vannkilder under slike arbeidsoperasjoner.
 
+2.4.5.*Påføring av plantevernmidler*
+
+2.4.5.1.*Påføringsmengde*
+
 Maskiner skal ha funksjoner som gjør at påføringsmengden enkelt, presist og pålitelig kan reguleres.
+
+2.4.5.2.*Fordeling, avsetning og avdrift av plantevernmidler*
 
 Maskiner skal være konstruert og bygd for å sikre at plantevernmidler blir fordelt på spredeområdene, for å minimere utslipp til andre områder og for å hindre avdrift av plantevernmidler. Så langt det er mulig skal en jevn fordeling og ensartet avsetning sikres.
 
+2.4.5.3.*Tester*
+
 For å kontrollere at de relevante delene av maskinene er i samsvar med kravene i nr. 2.4.5.1 og 2.4.5.2, skal produsenten eller dennes representant sørge for at maskinene det gjelder gjennomgår hensiktsmessige tester.
+
+2.4.5.4.*Utslipp ved stans*
 
 Maskiner skal være konstruert og bygd for å hindre utslipp når påføringsfunksjonen er avstengt.
 
+2.4.6.*Vedlikehold*
+
+2.4.6.1.*Rengjøring*
+
 Maskiner skal være konstruert og bygd slik at de enkelt og grundig kan rengjøres uten å forurense miljøet.
+
+2.4.6.2.*Service*
 
 Maskiner skal være konstruert og bygd slik at en enkelt kan bytte slitte deler uten å forurense miljøet.
 
+2.4.7.*Inspeksjoner*
+
 Det skal være enkelt å koble nødvendige måleinstrumenter til maskinen for å kontrollere om den fungerer korrekt.
+
+2.4.8.*Merking av dyser, siler og filtre*
 
 Dyser, siler og filtre skal merkes slik at type og størrelse fremgår tydelig.
 
+2.4.9.*Angivelse av plantevernmidler som er i bruk*
+
 Når det er hensiktsmessig, skal maskinen være utstyrt med en spesiell anordning hvor operatør kan angi hvilket plantevernmiddel som er i bruk.
+
+2.4.10.*Bruksanvisning*
 
 Bruksanvisningen skal ha følgende opplysninger:forholdsregler som skal tas ved blanding, påfylling, påføring, tømming, rengjøring, vedlikehold og transportoperasjoner for å unngå forurensning av miljøetdetaljerte vilkår for bruken i de forskjellige planlagte driftsmiljøene, herunder de tilhørende forberedelser og innstillinger som er nødvendige for å sikre avsetning av plantevernmidler på behandlingsområdene, samtidig som utslipp til andre områder minimeres, for å hindre avdrift til miljø, og for eventuelt å sikre en jevn fordeling og lik avsetning av plantevernmidlerutvalget av typer og størrelser av dyser, siler og filtre som kan brukes sammen med maskinenhyppigheten av kontroller, kriterier og metoder for utskifting av deler som er utsatt for slitasje, og som påvirker riktig funksjon av maskinen, for eksempel dyser, siler og filtrespesifikasjon av kalibrering og justering, daglig vedlikehold, vinterforberedelser og andre kontroller som er nødvendig for å sikre at maskinen fungerer korrekttyper plantevernmidler som kan forårsake funksjonsfeil ved maskinenat operatøren skal holde navnet på plantevernmidler som er i bruk oppdatert på anordningen nevnt i nr. 2.4.9tilkobling og bruk av spesialutstyr eller tilbehør og de nødvendige forholdsregler som må tas i den sammenhengopplysning om at maskiner kan være underlagt nasjonale krav til regelmessig inspeksjon av utpekte organer, som fastsatt av Europaparlamentet og Rådet i direktiv [2009/128/EF](eu/32009l0128*) av 21. oktober 2009 om en ramme for Fellesskapets innsats for en bærekraftig bruk av plantevernmidlerde av maskinens funksjoner som skal inspiseres for å sikre at den fungerer korrektinstruksjoner for tilkobling av nødvendige måleinstrumenter.
 
+3.*Tilleggskrav om vern mot farer som skyldes maskiners bevegelighet*
+
 Maskiner som medfører farer som skyldes maskinens bevegelighet, skal oppfylle alle de grunnleggende kravene til helse og sikkerhet som beskrevet i dette kapittelet. I tillegg må produsenten eller dennes representant påse at relevante grunnleggende helse og sikkerhetskrav er fulgt, jf. «Generelle prinsipper» i dette vedlegget nr. 4.
+
+3.1.*Generelt*
+
+3.1.1.*Definisjoner*
 
 1. *Maskiner som medfører farer på grunn av sin bevegelighet:*en maskin som enten må være i bevegelse under utførelse av arbeidet eller som krever en kontinuerlig eller halvkontinuerlig bevegelse mellom en rekke faste arbeidspunkt, elleren maskin som ikke må være i bevegelse under utførelse av arbeidet, men som kan være utstyrt slik at den lett kan flyttes fra ett sted til et annet.
 2. *Fører:* en operatør som har til oppgave å flytte en maskin. Føreren kan enten være på maskinen eller bevege seg til fots ved siden av maskinen eller fjernstyre den.
+
+3.2.*Arbeidsplasser*
+
+3.2.1.*Førerplass*
 
 Sikten fra førerplassen skal være slik at føreren kan betjene maskinen og tilhørende redskap uten at det oppstår risiko for føreren eller utsatte personer når maskinen og redskapet brukes slik som forutsatt. Ved behov skal passende innretninger hindre farer som skyldes utilstrekkelig sikt.
 
@@ -543,9 +757,15 @@ Maskinen skal være slik konstruert og bygd at det fra førerplassen ikke er noe
 
 Førerplassen skal være konstruert og bygd slik at den kan innrettes med førerhus forutsatt at det er plass til det og det ikke øker risikoen ved bruk av maskinen. Det skal være avsatt en plass i førerhuset for oppbevaring av bruksanvisninger som føreren har behov for.
 
+3.2.2.*Førerstol*
+
 Hvis det er fare for at operatører eller andre personer som transporteres med maskinen kan bli klemt mellom deler av maskinen og jorden hvis maskinen velter eller tipper over, særlig maskiner utstyrt med førervern, jf. nr. 3.4.3 eller 3.4.4, skal førerstolen være konstruert eller utstyrt med et sikkerhetsbelte eller en tilsvarende innretning som holder føreren fast i stolen, uten å hemme nødvendige bevegelse for styringen eller eventuelle andre bevegelser forårsaket av fjæringen. Sikkerhetsbelte og liknende innretninger skal ikke monteres dersom de øker risikoen.
 
+3.2.3.*Andre operatørplasser*
+
 Dersom det i bruksbetingelsene er forutsatt at andre operatører enn føreren leilighetsvis eller regelmessig kan transporteres med maskinen eller arbeide på denne, skal det sørges for egnede plasser slik at transporten eller arbeidet kan skje uten fare. Nr. 3.2.1, andre og tredje ledd, gjelder også for slike operatørplasser.
+
+3.3.*Styresystemer*
 
 Om nødvendig skal betjeningsinnretningene sikres mot uautorisert bruk.
 
@@ -554,6 +774,8 @@ Ved fjernstyring skal alle betjeningsenheter entydig angi hvilken eller hvilke m
 Fjernstyringssystemet skal konstrueres og bygges slik at det kun påvirker:den aktuelle maskinde aktuelle funksjoner.
 
 En fjernstyrt maskin skal være konstruert og bygd slik at den bare reagerer på signaler fra de betjeningsenheter som er beregnet for maskinen.
+
+3.3.1.*Betjeningsinnretninger*
 
 Føreren skal fra førerplassen kunne aktivere alle betjeningsorganer som er nødvendige for å få maskinen til å fungere, med unntak av funksjoner som kun kan igangsettes uten fare ved bruk av betjeningsorganer anbrakt på et annet sted. Dette unntaket får særlig anvendelse på andre betjeningsplasser enn førerplassen som andre operatører enn føreren er tillagt ansvaret for, eller dersom det er nødvendig for føreren å forlate førerplassen for at manøveren kan skje uten fare.
 
@@ -567,6 +789,8 @@ Betjeningsinnretninger som blokkerer differensialsperren skal være konstruert o
 
 Kravet i nr. 1.2.2 om lyd- og lyssignal gjelder bare ved rygging.
 
+3.3.2.*Start og kjøring*
+
 Motordrevne maskiner med førere på maskinene skal ikke kunne kjøres uten at føreren er ved betjeningsinnretningene.
 
 Maskiner som under arbeid må bruke støttebein eller bom eller andre innretninger som øker maskinens normale plassbehov, skal være utstyrt slik at føreren lett kan kontrollere at disse står i en sikker stilling før forflytningen begynner.
@@ -576,6 +800,8 @@ Dette gjelder også alle andre deler som må stå i bestemte stillinger, om nød
 Hvis det ikke medfører andre farer, skal maskinen bare kunne forflyttes dersom ovennevnte deler står i en sikker stilling.
 
 Maskinen skal ikke utilsiktet kunne settes i bevegelse mens motoren startes.
+
+3.3.3.*Kjørefunksjonen*
 
 I tillegg til bestemmelsene i vegtrafikkloven med tilhørende forskrifter skal motordrevne maskiner og tilhengere oppfylle krav til:nedsetting av hastighetstansingbremsingstillstandsom ivaretar sikkerheten ved normal bruk og betjening under de forhold produsenten har forutsatt når det gjelder drift, belastning, fart og underlagets tilstand og helling.
 
@@ -587,6 +813,8 @@ Fjernstyrte maskiner skal være konstruert og bygd slik at de stanser automatisk
 
 Nr. 1.2.4 gjelder ikke for nedbremsing og stoppfunksjon.
 
+3.3.4.*Motordrevne gåmanøvrerte maskiner*
+
 Gåmanøvrerte maskiner skal ikke kunne kjøres uten vedvarende betjening. Maskinen skal ikke kunne settes i bevegelse av at motoren startes.
 
 Styresystemet skal være konstruert slik at fare som følge av utilsiktede bevegelser er minst mulig. Særlig skal det tas hensyn til fare for:knusing, klemming pga. påkjørselskade fra roterende verktøy.
@@ -595,11 +823,21 @@ Maskinens normale hastighet skal være tilpasset førerens ganghastighet.
 
 Det skal ikke være mulig å aktivere verktøyet når maskiner, som kan utstyres med roterende verktøy, er satt i revers, med mindre maskinen er i bevegelse fordi verktøyet beveger seg. I det siste tilfellet skal hastigheten maskinen benytter når den går bakover, være slik at den ikke utsetter føreren for fare.
 
+3.3.5.*Svikt i styrekretsen*
+
 Dersom maskinen er innrettet med servostyring, skal svikt i energitilførselen til denne ikke hindre at maskinen kan styres i den tiden det tar å stanse den.
+
+3.4.*Vern mot mekaniske farer*
+
+3.4.1-*Utilsiktet bevegelse*
 
 Maskinen skal være bygd og konstruert slik at utilsiktet bevegelse av maskinen og derved ukontrollert forflytning av maskinens tyngdepunkt, ikke påvirker dens stabilitet eller utsetter konstruksjonen for urimelig store belastninger. Det samme gjelder for maskiner som er montert på mobilt understell.
 
+3.4.2.*Bevegelige kraftoverføringsdeler*
+
 Kravet til forrigling av vern, jf. 1.3.8.1, kan fravikes for kraftoverføringsdeler. Dette gjelder kun dersom de bevegelige vernene som hindrer atkomst til bevegelige deler i motorrommet til en forbrenningsmotor, kun kan åpnes ved hjelp av verktøy, nøkkel eller et betjeningsorgan som er anbrakt på førerplassen i lukket førerhus med låsbar atkomst.
+
+3.4.3.*Velting og tipping rundt*
 
 Motordrevne maskiner som kan velte eller tippe rundt og som har kjørende fører eller operatør, skal være utstyrt med formålstjenlig beskyttende konstruksjon, eksempelvis førervern, så framt det ikke øker risikoen.
 
@@ -607,17 +845,25 @@ Denne konstruksjonen skal være slik at det sikrer føreren og eventuelt operat�
 
 For å kontrollere at konstruksjonen er i samsvar med kravene fastsatt i andre ledd, skal produsenten eller dennes representant utføre hensiktsmessige prøvinger av alle berørte typer konstruksjoner eller påse at slike prøvinger blir utført.
 
+3.4.4.*Fallende gjenstander*
+
 Motordrevne maskiner med fører- eller operatørplass på maskinen skal være konstruert og innrettet slik at det tas høyde for fare for fallende gjenstander, og med en formålstjenlig beskyttende konstruksjon, eksempelvis førervern, dersom det er plass for det.
 
 Konstruksjonen skal være slik at fører eller operatør på maskinen sikres et passende deformasjonsvolum (DLV).
 
 For å kontrollere at vernet er i samsvar med kravene fastsatt i andre ledd, skal produsenten eller dennes representant utføre hensiktsmessige prøvinger av alle berørte typer konstruksjoner, eller påse at slike prøvinger blir utført.
 
+3.4.5.*Atkomst*
+
 Håndtak og trinn må være konstruert, bygd og innrettet slik at operatøren bruker dem instinktivt og ikke benytter betjeningsinnretningene for dette formålet.
+
+3.4.6.*Slepekobling*
 
 Maskiner som trekker eller blir trukket, skal ha tilhengerkobling. Denne skal være konstruert, bygd og festet slik at til-/frakobling kan skje på en lett og sikker måte. Koblingen skal være sikret mot utilsiktet frakobling under bruk.
 
 Hvis det kan være stor vektbelastning på draget, skal det finnes egnede støtteinnretninger som har en anleggsflate som er tilpasset belastningen og underlaget.
+
+3.4.7.*Kraftoverføring*
 
 Aksler med universalledd som forbinder en motordrevet maskin eller trekkvogn med den tilkoblede maskinens første faste lager, skal være skjermet i begge ender, i hele akselens lengde og ved universalleddene.
 
@@ -635,13 +881,25 @@ Vernets ytre deler skal være konstruert, bygd og arrangert slik at de ikke kan 
 
 Hvis en må regne med atkomst til arbeidsstedene nær kraftoverføringsinnretningen, skal slik atkomst være konstruert og bygd slik at akselvernet ikke benyttes som stigbrett, med mindre vernet er konstruert og bygd for slik bruk.
 
+3.5.*Vern mot andre farer*
+
+3.5.1.*Batterier*
+
 Batterier skal være innebygd i batterikasser. Kassene skal være konstruert og bygd slik at operatøren ikke utsettes for fare for sprut av elektrolytt. Det skal tas hensyn til forholdene ved velting og tipping rundt. Det skal ikke kunne oppstå gassansamlinger der hvor operatøren befinner seg.
 
 Maskinen skal være konstruert og bygd slik at batteriet kan frakobles ved hjelp av en lett tilgjengelig innretning som er beregnet for dette formålet.
 
+3.5.2.*Brann*
+
 Avhengig av den risiko produsenten har vurdert ved bruk, skal maskinen, dersom maskinens dimensjoner tillater det:enten muliggjøre montering av lett tilgjengelige brannslokkingsapparater,eller være utstyrt med innebygde brannslokkingssystemer.
 
+3.5.3.*Utslipp av farlige stoffer*
+
 Nr. 1.5.13 andre og tredje ledd, gjelder ikke hvis maskinens hovedfunksjon er å overrisle produkter. Operatøren skal likevel beskyttes mot faren for å bli utsatt for farlige utslipp.
+
+3.6.*Merking og skilting*
+
+3.6.1.*Skilter og varselsignaler*
 
 Når det er nødvendig for å sikre utsatte personers sikkerhet og helse, skal maskiner ha varselinnretninger eller instruksjonsskilter om bruk, innstilling og vedlikehold. Innretningene og skiltene skal være valgt, utformet og fremstilt slik at de er klart synlige og ikke kan slettes.
 
@@ -653,15 +911,29 @@ Varslings- og signalinnretninger skal være konstruert slik at ikke alle kan set
 
 Dersom en maskins bevegelser eller dens tilkoblede utstyr medfører særlige farer, skal maskinen ha skilter med forbud mot å komme i nærheten av den når den er i bruk. Slike skilter skal kunne leses på tilstrekkelig lang avstand til å ivareta sikkerheten for personer som må oppholde seg i maskinens nærhet.
 
+3.6.2.*Merking*
+
 Alle maskiner skal være tydelig og varig merket med følgende opplysninger:nominell effekt angitt i kW,masse, angitt i kg, for maskinen og den vanligste utrustning,og hvis det er aktuelt:største tillatte trekkraft ved trekkroken etter produsentens beregninger, angitt i newton (N),største tillatte vertikale belastning ved trekkroken etter produsentens beregninger, angitt i N.
+
+3.6.3.*Bruksanvisning*
+
+3.6.3.1.*Vibrasjoner*
 
 Bruksanvisningen skal inneholde følgende informasjon om vibrasjoner som maskinen overfører til hånd-arm-systemet eller til hele kroppen:den frekvensveide geometriske middelverdien av akselerasjonen armene utsettes for, hvis den overstiger 2,5 m/s2 målt ved hjelp av en egnet prøvemetode. Hvis akselerasjonen ikke overstiger 2,5 m/s2, skal dette også opplyses.den frekvensveide geometriske middelverdien av akselerasjonen som kroppen (føtter eller sete) utsettes for, dersom denne verdien overstiger 0,5 m/s2. Dersom verdien er mindre enn eller lik 0,5 m/s2, skal dette angis.usikkerheten ved målingen.
 
 Disse verdiene skal enten være målt på den aktuelle maskinen, eller være fastlagt på grunnlag av målinger som er foretatt på en tilsvarende maskin. Dersom harmoniserte standarder ikke brukes, skal vibrasjonsdataene måles ved bruk av den mest hensiktsmessige målemetoden for den aktuelle maskinen. Produsenten skal angi maskinens driftstilstand ved målingene og metodene som ble brukt ved målingene.
 
+3.6.3.2.*Flere bruksmuligheter*
+
 Der en bruksanvisning for en maskin angir flere bruksområder, avhengig av hva slags utskiftbart utstyr som brukes, og bruksanvisningen for det utskiftbare utstyret, skal bruksanvisningen til hovedmaskinen og det utskiftbare utstyret inneholde nødvendige opplysninger for sikker sammenstilling og bruk.
 
+4.*Tilleggskrav om vern mot farer som kan oppstå ved løfteoperasjoner*
+
 Maskiner som kan medføre farer i forbindelse med løfteoperasjoner skal oppfylle alle tilleggskravene om vern mot farer som er omhandlet i dette kapitlet. I tillegg må produsenten eller dennes representant påse at relevante grunnleggende helse og sikkerhetskrav er fulgt, jf. «Generelle prinsipper» i dette vedlegget nr. 4.
+
+4.1.*Generelt*
+
+4.1.1.*Definisjoner*
 
 1. *Løfteoperasjon:* forflytning av lasteenheter som består av gjenstander eller personer, og som på et gitt tidspunkt medfører en nivåendring.
 2. *Styrt last:* last som under hele forflytningen styres langs faste eller fleksible baner, og hvor posisjonen bestemmes av faste punkter.
@@ -671,11 +943,19 @@ Maskiner som kan medføre farer i forbindelse med løfteoperasjoner skal oppfyll
 6. *Dynamisk prøving:* prøve som går ut på å teste løftemaskinen i alle mulige konfigurasjoner med den maksimalt tillatte arbeidsbelastning multiplisert med den relevante dynamiske prøvingsfaktor, mens en registrerer løftemaskinens dynamiske atferd, for å kontrollere om maskinen virker som den skal.
 7. *Plattform:* en del av maskinen som bærer personer eller gjenstander som skal løftes.
 
+4.1.2.*Vern mot mekaniske farer*
+
+4.1.2.1.*Manglende stabilitet*
+
 En maskin skal konstrueres og bygges slik at den tilfredsstiller kravet til stabilitet i nr. 1.3.1, både når maskinen er i bruk og når den er ute av bruk, under alle faser av transport, montering og demontering, ved forutsigbar komponentsvikt, samt under de tester som gjennomføres i samsvar med bruksanvisningen. Produsenten eller dennes representant skal bruke relevante kontrollmetoder for å sikre dette.
+
+4.1.2.2.*Maskiner som kjører på styre og kjøreskinner*
 
 Maskiner skal ha innretninger som hindrer avsporing fra styre- og kjøreskinner.
 
 Det skal treffes tiltak for å hindre at maskiner velter, eller at utstyr, komponenter eller last faller ned i tilfelle avsporing, eller i tilfelle det oppstår svikt i en skinne eller kjørekomponent.
+
+4.1.2.3.*Mekanisk styrke*
 
 Maskiner, løfteredskaper, og utskiftbare deler skal tåle de påkjenningene de blir utsatt for, enten de er i bruk eller ikke.
 
@@ -689,6 +969,8 @@ Maskiner skal være slik konstruert og bygd at de tåler dynamisk prøving som u
 
 De dynamiske prøvingene skal utføres på maskiner som er klare til å settes i drift under normale bruksvilkår. Dersom maskinens styringskrets skal gjøre en rekke samtidige bevegelser mulig, f.eks. rotasjon og flytting av lasten, skal prøvingene utføres ved de ugunstigste betingelsene, normalt ved en kombinasjon av bevegelsene.
 
+4.1.2.4.*Skiver, tromler, kjettinger, kjeder eller tau*
+
 Skiver, tromler og ruller skal ha en diameter som står i forhold til størrelsen på tauet eller kjedene og kjettingene de kan bli utstyrt med.
 
 Tromler og ruller skal være slik konstruert, bygd og installert, at tilhørende tau eller kjetting og kjede ikke klatrer ut av sporet.
@@ -701,31 +983,51 @@ Løftekjettinger skal normalt ha en sikkerhetsfaktor på – 4 – fire.
 
 Produsenten eller dennes representant skal sørge for kontroll av at sikkerhetsfaktoren er oppnådd, ved gjennomføring av relevante prøvinger av hver kjede, kjetting eller type tau som skal brukes direkte til løfting av last, og av tauets endefeste.
 
+4.1.2.5.*Løfteredskap og løftekomponenter*
+
 Løfteredskap og tilhørende enkeltdeler skal være dimensjonert med hensyn tiltretthets- og aldringsprosesserbruksvilkårbruksområdeforventet levetid.
 
 Videre gjelder følgende:Sikkerhetsfaktoren for kombinasjonen metalltau/endefeste skal være slik at det oppnås et tilfredsstillende sikkerhetsnivå. Den skal normalt være – 5 – fem. Det skal ikke være skjøter eller løkker på metalltauene bortsett fra i endene.Sikkerhetsfaktoren for kjettinger skal være slik at det oppnås et tilfredsstillende sikkerhetsnivå. Den skal normalt være – 4 – fire. Dersom det nyttes kjettinger med sveisede ledd, skal de være kortlenket.Sikkerhetsfaktoren for fibertau eller fiberstropper avhenger av materialet, produksjonsmåten, dimensjonene og bruken. Faktoren skal være slik at det oppnås et tilfredsstillende sikkerhetsnivå. Den skal normalt være – 7 – sju, forutsatt at materialene er av meget god, kontrollert kvalitet og at produksjonsmåten er tilpasset de forventede bruksforhold. Hvis ikke dette er tilfelle skal faktoren normalt være høyere, slik at det oppnås et tilsvarende sikkerhetsnivå. Fibertau og fiberstropper skal ikke ha knuter, skjøter eller sammenføyninger på andre steder enn i stroppens ender. Dette gjelder ikke for endeløse stropper.Alle metallkomponenter som inngår i eller brukes sammen med en stropp, skal være slik at det oppnås et tilfredsstillende sikkerhetsnivå. Den vil normalt være på – 4 – fire.Største arbeidsbelastning på et løfteredskap med flere deler fastsettes på grunnlag av:belastningen på den svakeste delenantall deleren reduksjonsfaktor som er avhengig av delenes arbeidsvinkel.Produsenten eller dennes representant skal sørge for å kontrollere at sikkerhetsfaktoren er tilstrekkelig ved at prøvinger blir utført for løfteredskapene som er nevnt i bokstav a, b, c og d.
 
+4.1.2.6.*Styring av bevegelser*
+
 Innretninger for styring av bevegelser skal virke slik at maskinen de er installert på holdes i en sikker posisjon.Maskiner skal være konstruert eller utstyrt med innretninger som holder enkeltdelene innenfor de spesifiserte grensene for bevegelse. Før disse innretningene aktiveres, skal det om nødvendig utløses et signal.Når flere maskiner som er fast montert eller kjører på skinner, kan betjenes samtidig med fare for sammenstøt, skal maskinene være slik konstruert og bygd at de kan utstyres med innretninger som gjør det mulig å avverge slik fare.Maskiners mekanismer skal være konstruert og bygd slik at lasten ikke forskyver seg og skaper fare eller utilsiktet kommer i fritt fall. Dette gjelder også ved delvis eller total svikt i energitilførselen eller når operatøren slutter å bruke maskinen.Ved normale bruksforhold skal det ikke være mulig å senke lasten utelukkende ved bruk av friksjonsbrems, unntatt når det gjelder maskiner hvor funksjonen krever det.Lastekroker og andre gripeinnretninger skal være slik konstruert og bygd at lasten ikke faller ned utilsiktet.
+
+4.1.2.7.*Håndtering av last*
 
 Førerplassen på maskinen skal være slik plassert at føreren har fullt utsyn over arbeidsområdet for bevegelige deler. Dette for å unngå mulige sammenstøt med personer eller utstyr eller andre maskiner som arbeider på samme tid, og som kan utgjøre en fare.
 
 Maskiner med styrt last skal være konstruert og bygd slik at det hindres at utsatte personer blir truffet av last eller motvekter.
 
+4.1.2.8.*Maskiner som kjører mellom faste avsatser*
+
+4.1.2.8.1.*Plattformens bevegelser*
+
 Plattformens bevegelser på maskiner som kjører mellom faste avsatser, skal kjøre i faste føringer underveis til og ved avsatsene. Saksesystemer anses også for å ha fast føring.
+
+4.1.2.8.2.*Atkomst til plattformen*
 
 Hvis personer har atkomst til plattformen, skal maskinen være utformet og bygd slik at plattformen står stille under av- og påstigning, særlig ved lasting og lossing.
 
 Maskinen skal være utformet og bygd slik at nivåforskjellen mellom plattformen og den betjente avsatsen ikke skaper fare for å snuble.
 
+4.1.2.8.3.*Fare som følge av kontakt med plattform når den er i bevegelse*
+
 Når det er nødvendig for å oppfylle kravet i annet avsnitt i 4.1.2.7, skal det området som maskinen beveger seg i, gjøres utilgjengelig ved normal drift.
 
 Når plattformen skal kontrolleres eller vedlikeholdes, og det er fare for at personer som befinner seg under eller over den, kan klemmes mellom plattformen og faste deler, skal det skapes et tilstrekkelig fritt rom, enten i form av fysiske sikkerhetssoner eller mekaniske innretninger som hindrer plattformen i å bevege seg.
 
+4.1.2.8.4.*Fare som følge av at lasten kan falle av plattformen*
+
 Dersom det er fare for at last kan falle av plattformen, skal maskinen være konstruert og bygd slik at denne faren forebygges.
+
+4.1.2.8.5.*Avsatser*
 
 Farer som skyldes at personer som befinner seg på avsatsene kommer i kontakt med plattformen når den beveger seg, eller andre deler som beveger seg, skal forebygges.
 
 Dersom det er fare for at personer kan falle ned i det rommet som plattformen beveger seg i, når plattformen ikke befinner seg på avsatsene, skal det monteres vern for å forebygge denne faren. Verneinnretningene skal ikke kunne åpnes mot det rommet der plattformen beveger seg. De skal ha en forriglingsinnretning som styres av plattformens posisjon, og som hindrer:at plattformen gjør farlige bevegelser før vernene er lukket og låst,at et vern åpner seg på en farlig måte før plattformen har stoppet ved den tilhørende avsatsen.
+
+4.1.3.*Kontroll før omsetning*
 
 Når en løftemaskin eller løfteredskap omsettes eller tas i bruk for første gang, skal produsenten eller dennes representant treffe egnede tiltak eller sørge for at det blir truffet egnede tiltak, for å sikre at løftemaskinen og løfteredskapene som er klargjort for bruk, enten de er manuelt eller mekanisk drevet, kan oppfylle sine fastsatte funksjoner på en trygg måte.
 
@@ -733,17 +1035,31 @@ De statiske og dynamiske prøvingene som er omhandlet i punkt 4.1.2.3, skal gjen
 
 Dersom maskinen ikke kan monteres i produsentens lokaler eller lokalene til dennes representant, skal det treffes egnede tiltak der løftemaskinen skal brukes. I andre tilfeller kan målingene gjennomføres enten hos produsenten eller der maskinen skal brukes.
 
+4.2.*Særlige krav til maskiner som drives med annen kraft enn muskelkraft*
+
+4.2.1.*Styring av bevegelser*
+
 Holdeinnretning for styring skal brukes for å styre maskinens bevegelser eller maskinens utstyr.
 
 Både ved delvis og fullstendig forflytting, og der det ikke er fare for at lasten eller maskinen støter mot noe, kan forhåndsvalgte posisjoner med automatisk stopp benyttes, uten krav om at operatøren bruker en holdeinnretning for styring.
 
+4.2.2.*Sikring mot overlast*
+
 Maskiner med en maksimal arbeidsbelastning på minst 1000 kg, eller et veltemoment på minst 40000 Nm skal være utstyrt med innretninger som varsler føreren og hindrer farlige bevegelser av lasten ved:overlast, enten fordi den maksimale arbeidsbelastningen eller det maksimale arbeidsmomentet overskrides elleroverskridelse av veltemomentet.
 
+4.2.3.*Innretninger som styres med tau*
+
 Bæretau, trekktau eller bæretrekktau skal strekkes med motvekter eller en innretning som muliggjør kontinuerlig kontroll av strammingen.
+
+4.3.*Informasjon og merking*
+
+4.3.1.*Kjettinger, kjeder tau og stropper*
 
 Hver lengde av en kjetting, kjeder, et tau eller bånd for heising eller løfting skal være forsynt med et merke, dersom kjettingen, kjede, tauet eller båndet ikke inngår i en montert enhet. Hvis slik merking ikke er mulig, skal lengden være utstyrt med en plate eller ring som ikke kan fjernes. Merket skal angi navn og adresse til produsenten eller dennes representant. Med hver lengde skal det følge et sertifikat.
 
 Sertifikatet skal minst inneholde følgende opplysninger:navn og adresse til produsenten eller dennes representanten beskrivelse av kjettingen eller tauet med informasjon om:nominelle dimensjoner,konstruksjon,materialet det er fremstilt av, ogmetallurgisk spesialbehandling som materialet har gjennomgått.den prøvingsmetoden som er bruktden største arbeidsbelastningen for kjettingen eller tauet. Det kan gis forskjellige verdier for tillatt last for særskilte bruksområder.
+
+4.3.2.*Løfteredskap og tilbehør*
 
 Løfteredskap og tilbehør skal ha merking som viser:hvem som er produsent,materialspesifikasjon når dette er nødvendig for valg av utstyr som passer sammen (f.eks. internasjonal klassifisering),største arbeidsbelastning.
 
@@ -751,33 +1067,61 @@ For løfteredskap som det er fysisk umulig å merke, skal opplysningene nevnt i 
 
 Opplysningene skal være lett leselige og plassert på et sted hvor de ikke vil forsvinne som følge av bearbeiding, slitasje osv. Merkingen skal ikke svekke tilbehørets belastningsevne.
 
+4.3.3.*Løftemaskiner*
+
 Den maksimale arbeidsbelastningen skal oppgis på et godt synlig sted på maskinen. Merkingen skal være lett leselig og varig, og det skal ikke brukes koder.
 
 Dersom den største arbeidsbelastningen er betinget av maskinens bruksområde, skal hver førerplass være utstyrt med skilt med opplysninger om de største arbeidsbelastninger for de aktuelle bruksområder. Opplysningene skal være i form av diagrammer eller tabeller.
 
 Maskiner utstyrt med en plattform som gir atkomst for personer, skal være klart og varig merket med forbud mot løfting av personer. Advarselen skal være lett synlig på hvert sted hvor atkomst er mulig.
 
+4.4.*Bruksanvisning*
+
+4.4.1.*Løfteredskap*
+
 Hvert løfteredskap eller hvert kommersielt sett udelelige parti med løfteredskaper skal ledsages av en bruksanvisning som minst skal inneholde følgende opplysninger:tilsiktet bruk,begrensninger for bruken (særlig for løfteredskapet, som f.eks. magnetiske eller vakuumsugekopper, som ikke fullt ut oppfyller kravene i punkt 4.1.2.6, bokstav e)veiledning om montering, bruk og vedlikehold,den anvendte statiske prøvingsfaktor.
+
+4.4.2.*Løftemaskiner*
 
 Til hver maskin skal det følge med en bruksanvisning som inneholder:tekniske opplysninger, særlig:den maksimale arbeidsbelastning og eventuelt en kopi av den belastningsplate eller belastningstabell som er beskrevet i punkt 4.3.3, andre ledd,reaksjonskreftene i understøttinger eller fundamenter og eventuelt karakteristika for spor og kjøreskinner,nødvendig ballast og angivelse av hvordan ballasten skal plasseres.opplysninger fra loggboken for maskinen hvis denne ikke leveres sammen med maskinenbruksanvisninger, særlig for å avhjelpe operatørens manglende direkte utsyn over lastenen prøvingsrapport med detaljerte opplysninger om de statiske og dynamiske prøvinger, hvis produsenten eller dennes representant har gjennomført slike prøvingerfor maskiner som ikke er fullstendig montert hos produsenten, de nødvendige instruksjoner for å gjennomføre de målingene som er omhandlet i nr. 4.1.3.
 
+5.*Tilleggskrav om vern mot farer som kan oppstå fra maskiner som er beregnet på bruk under jord*
+
 Maskiner som er bestemt til arbeid under jord, skal være slik konstruert og bygd at de tilfredsstiller tilleggskravene om vern mot farer som kan oppstå fra maskiner beregnet for bruk under jord. I tillegg må produsenten eller dennes representant påse at relevante grunnleggende helse og sikkerhetskrav er fulgt, jf. «Generelle prinsipper» i dette vedlegget nr. 4.
+
+5.1.*Risiko på grunn av manglende stabilitet*
 
 Kraftdrevne avstivere av tak i tunneler skal være slik konstruert og bygd at de blir stående i riktig stilling når de flyttes, og ikke glir ut før og mens de settes under trykk og etter at trykket er avlastet. De skal være utstyrt med forankringspunkter for topp-platene på de enkelte hydrauliske avstiverne.
 
+5.2.*Bevegelsesfrihet*
+
 Kraftdrevne avstivere av tak i tunneler skal ikke begrense utsatte personers bevegelsesfrihet.
+
+5.3.*Betjeningsinnretninger*
 
 Betjeningsinnretninger for fartsregulering og stansing av maskiner som går på skinner, skal betjenes manuelt. Aktiveringsinnretninger kan likevel være betjent med føttene. Betjeningsinnretninger på kraftdrevne avstivere til tak i tunneler skal være slik konstruert og plassert at operatørene er skjermet av en avstiver som allerede er på plass under flytting av avstiverne. Betjeningsinnretningene skal være sikret mot utilsiktet igangsetting.
 
+5.4.*Stansing*
+
 Motordrevne maskiner som går på skinner og som brukes til arbeid under jord, skal ha en aktiveringsinnretning i styrekretsen for maskinens bevegelser, slik at bevegelsen stanser hvis føreren ikke lenger kontrollerer bevegelsen.
+
+5.5.*Brann*
 
 Maskiner med svært lettantennelige deler skal ha innebygd brannslukningssystem, jf. nr. 3.5.2. Bremsesystemet i maskiner som er bestemt til bruk ved arbeid under jord, skal være slik konstruert og bygd at det ikke danner gnister eller forårsaker branner.
 
 Maskiner som har varmekraftmotorer og som er bestemt til bruk ved arbeid under jord skal ha forbrenningsmotorer som bruker brennstoff med lavt damptrykk, og som utelukker elektriske gnister.
 
+5.6.*Utslipp av støv, gass osv.*
+
 Avgasser fra forbrenningsmotorer skal ikke ledes oppover.
 
+6.*Tilleggskrav om vern mot farer som kan oppstå ved løfting av personer*
+
 Maskiner hvor fare i forbindelse med løfting av personer kan oppstå, skal være konstruert og bygd på en slik måte at de oppfyller alle relevante grunnleggende helse- og sikkerhetskrav i dette kapittel. I tillegg må produsenten eller dennes representant påse at andre relevante grunnleggende helse og sikkerhetskrav er fulgt, jf. «Generelle prinsipper» i dette vedlegget nr. 4.
+
+6.1.*Generelt*
+
+6.1.1.*Mekanisk styrke*
 
 Plattformen, herunder eventuelle luker, skal være konstruert og bygd slik at arealet og bæreevnen tilsvarer det største tillatte antall personer og den største tillatte arbeidsbelastning som er fastsatt av produsenten.
 
@@ -785,7 +1129,11 @@ Sikkerhetsfaktorene for de enkelte delene som er omhandlet i punkt 4.1.2.4 og 4.
 
 Dersom det brukes tau, kjettinger eller kjeder for opphenging av plattformen, skal det som hovedregel være minst to uavhengige tau, kjettinger eller kjeder, hvert med sitt eget forankringssystem.
 
+6.1.2.*Sikring mot overlast for maskiner som drives med annen energi enn menneskelig muskelkraft*
+
 Kravene i nr. 4.2.2 gjelder uansett størrelsen av den maksimale arbeidsbelastning og veltemoment, med mindre produsenten kan vise til at det ikke er fare for overbelastning eller velting.
+
+6.2.*Betjeningsinnretninger*
 
 Dersom særlige sikkerhetskrav ikke krever andre løsninger, skal følgende krav oppfylles:
 
@@ -795,7 +1143,13 @@ Betjeningsinnretningene på plattformen skal kunne overstyre andre innretninger 
 
 Betjeningsinnretningene for vertikale og horisontale bevegelser skal være holdeinnretninger, unntatt når plattformen er fullstendig lukket.
 
+6.3.*Fare for personer i eller på plattformen*
+
+6.3.1.*Fare som følge av plattformens bevegelser*
+
 Maskiner til personløft skal være konstruert, bygd eller utstyrt slik at plattformens akselerasjon eller bremsing ikke medfører fare for personer.
+
+6.3.2.*Fare for at personer faller av plattformen*
 
 Plattformen skal ikke kunne skråstilles så mye at det oppstår fare for at personene faller. Dette gjelder også når maskinen og plattformen er i bevegelse.
 
@@ -805,7 +1159,13 @@ Hvis de tiltakene som er omhandlet i nr. 1.5.15 ikke er tilstrekkelige, skal pla
 
 Eventuelle sidedører eller luker i gulv eller tak skal være konstruert og bygd slik at utilsiktet åpning ikke kan skje. De skal åpne seg i en slik retning at det ikke oppstår risiko for fall ved utilsiktet åpning.
 
+6.3.3.*Fare som skyldes at gjenstander faller ned på plattformen*
+
 Hvis det er fare for at gjenstander kan falle ned på plattformen og dermed medføre fare for personer, skal plattformen ha et beskyttende tak.
+
+6.4.*Maskiner som kjører til faste avsatser*
+
+6.4.1.*Fare for personer som oppholder seg i eller på plattformen*
 
 Plattformen skal være konstruert og bygd slik at fare som følge av at personer eller gjenstander kommer i kontakt med faste eller bevegelige elementer forhindres. Hvis det er nødvendig for å oppfylle dette kravet, skal selve plattformen være fullstendig lukket og ha dører utstyrt med en forriglingsinnretning som hindrer at plattformen gjør farlige bevegelser hvis dørene ikke er lukket. Dørene skal forbli lukket hvis plattformen stanser mellom avsatser der det kan være fare for å falle ned fra plattformen.
 
@@ -813,11 +1173,17 @@ Maskinen skal være konstruert og bygd og om nødvendig utstyrt med innretninger
 
 Slik stansing skal ikke under noen belastningsforhold føre til oppbremsing som er farlig for de personer som er på plattformen.
 
+6.4.2.*Betjeningsinnretninger ved avsatsene*
+
 Betjeningsinnretninger ved avsatsene, unntatt de som skal brukes i nødsituasjoner, skal ikke kunne sette plattformen i bevegelse når:betjeningsinnretningene i plattformen er i bruk, ogplattformen ikke er ved en avsats.
 
 Dette gjelder ikke for nødstoppinnretninger.
 
+6.4.3.*Adkomst til plattformen*
+
 Vern ved avsatsene og på plattformen skal være konstruert og bygd slik at de sikrer en sikker passasje til og fra plattformen, sett i forhold til den mengde varer og det antall personer som skal løftes.
+
+6.5.*Merking*
 
 Plattformen skal være forsynt med de opplysninger som er nødvendige for å ivareta sikkerheten, herunder:antallet personer plattformen kan ta med, ogmaksimal tillatt arbeidsbelastning.
 
@@ -827,11 +1193,15 @@ Plattformen skal være forsynt med de opplysninger som er nødvendige for å iva
 
 ### 1. Innholdet i samsvarserklæringer
 
+A.*Samsvarserklæringer for maskiner*
+
 Samsvarserklæringen og oversettelser av denne skal utarbeides på samme måte som bruksanvisningen (jf. vedlegg I, punkt 1.7.4.1, bokstav a) og b)). Erklæringen skal være maskinskrevet eller skrevet for hånd med blokkbokstaver.
 
 Samsvarserklæringen omfatter maskinen slik den ble satt i omsetning, og gjelder ikke for tilføyelse av deler eller endringer som er utført av sluttbruker i ettertid.
 
 Samsvarserklæringen skal inneholde følgende opplysninger:Navn og adresse til produsenten og eventuelt dennes representant i EØS.Navn og adresse på den fysiske eller juridiske person i EØS-området som har fullmakt til å utferdige tekniske dokumentasjon.Beskrivelse og identifikasjon av maskinen, herunder generisk betegnelse, funksjon, modell, type, serienummer og handelsnavn.En uttrykkelig erklæring om at maskinen oppfyller kravene i denne forskriften, og eventuelt en uttrykkelig erklæring om at maskinen oppfyller krav i andre forskrifter eller relevante bestemmelser. Det skal eventuelt henvises til de tilsvarende direktivene som er offentliggjort i Den europeiske unions tidende.Navn, adresse og identifikasjonsnummer på det tekniske kontrollorganet som eventuelt har gjennomført typegodkjenning i henhold til vedlegg IX, samt nummeret på typegodkjenningsattesten.Navn, adresse og identifikasjonsnummer på det tekniske kontrollorganet som eventuelt har attestert fullstendig kvalitetssikring i henhold til vedlegg X.Henvisninger til de harmoniserte standarder som eventuelt er brukt.Henvisninger til andre tekniske standarder og spesifikasjoner som eventuelt er brukt.Sted og dato for erklæringen.Identitet og signatur til den person som har fullmakt til å utarbeide erklæringen på vegne av produsenten eller dennes representant.
+
+B.*Sammenstillingserklæring for delvis ferdigstilte maskiner*
 
 Denne erklæringen og oversettelser av den skal lages på samme måte som bruksanvisningen (jf. vedlegg I, punkt 1.7.4.1, bokstav a) og b)). Erklæringen skal være maskinskrevet eller skrevet for hånd med blokkbokstaver.
 
@@ -853,6 +1223,8 @@ CE-merket skal plasseres rett ved siden av produsentens/representantens navn, og
 
 På produkter som er samsvarsvurdert av teknisk kontrollorgan i samsvar med prosedyren i vedlegg X, jf. [§ 6](forskrift/2009-05-20-544/§6) nr. 2, bokstav c og [§ 6](forskrift/2009-05-20-544/§6) nr. 3 bokstav b, skal CE-merket etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet.
 
+*Mal for CE-merket:*
+
 ## Vedlegg IV: Maskiner som skal følge prosedyrene for samsvarsvurdering i § 10 bokstav b eller c
 
 Prosedyren i [§ 10](forskrift/2009-05-20-544/§10) bokstav c eller b skal benyttes for følgende kategorier av maskiner:Følgende typer sirkelsager med ett eller flere sagblad, til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper som tre, eller til bearbeidning av kjøtt og materialer med tilsvarende fysiske egenskaper som kjøtt:Sager med blad som er i fast stilling under sagingen, med fast bord eller fast støtte og med manuell mating av arbeidsstykket eller med motordrevet mateinnretning som kan demonteres.Sager med blad som er i fast stilling under sagingen, og med manuelt betjent sagbenk med fram- og tilbakegående bevegelse, eller slede.Sager med blad som er i fast stilling under sagingen, med innebygd mekanisk mateinnretning for arbeidsstykkene, men med manuell mating eller uttak.Sager med blad som er bevegelig under sagingen, og med mekanisk bevegelse av bladet, og med manuell mating eller uttak.Håndmatede avretterhøvler til bearbeiding av tre.Tykkelseshøvler for ensidig bearbeiding av tre med innebygd mekanisk mateinnretning med manuell mating eller uttak.Følgende typer båndsager med manuell mating eller uttak til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper som tre, eller til bearbeiding av kjøtt og materialer med tilsvarende fysiske egenskaper som kjøtt:Sager med blad som står i fast stilling under saging og der arbeidsstykket har underlag eller støtte som står fast eller går i en fram- og tilbakegående bevegelse.Sager med blad som er montert på vogn med frem- og tilbakegående bevegelse.Kombinerte maskiner som omhandlet i [punkt](forskrift/2009-05-20-544/kap1) 1 til 4 samt punkt 7, som er ment til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper.Håndmatede tappe- og skjæremaskiner med flere spindler til bearbeiding av tre.Håndmatede vertikalfresemaskiner til bearbeiding av tre og materialer med tilsvarende fysiske egenskaper.Bærbare motorkjedesager til bearbeiding av tre.Presser, herunder kantpresser, til kaldbearbeiding av metaller, med manuell mating eller uttak, der bevegelige deler kan ha en slaglengde på over 6 mm og en hastighet på over 30 mm/s.Sprøyte- eller trykkstøpemaskiner for plastmaterialer med manuell mating eller uttak.Sprøyte- eller trykkstøpemaskiner for gummimaterialer med manuell mating eller uttak.Maskiner til arbeid under jorden:Lokomotiver og bremsevognerHydraulisk drevne avstivere for tak.Kjøretøy til innsamling av husholdningsavfall med manuell lasting, utstyrt med en kompresjonsinnretning.Avtakbare mekaniske kraftoverføringsinnretninger, inkludert vernanordninger.Verneanordninger til avtakbare mekaniske kraftoverføringsinnretninger.Kjøretøyløfter.Løftemaskin for personer eller personer og gods, med risiko for å falle loddrett mer enn tre meter.Boltpistoler og andre bærbare slagmaskiner som drives av en drivladning.Verneinnretning til oppdagelse av tilstedeværelsen av personer.Kraftdrevne, bevegelige vern med forrigling, brukt som verneinnretning på maskiner omhandlet i punkt 9, 10 og 11.Styringsenheter som skal sikre at sikkerhetsfunksjoner fungerer.Førervern til beskyttelse ved rundvelt (ROPS).Førervern til beskyttelse ved fallende gjenstander (FOPS).
@@ -869,7 +1241,11 @@ Monteringsveiledningen skal være på et offisielt språk i EØS som produsenten
 
 ## Vedlegg VII: Teknisk dokumentasjon for maskiner
 
+*A. Teknisk dokumentasjon for maskiner*
+
 Den tekniske dokumentasjonen skal gjøre det mulig å ta stilling til om maskinen er i samsvar med kravene i denne forskriften. Dokumentasjonen skal omfatte maskinens konstruksjon, produksjon og funksjon i det omfang som er nødvendig for samsvarsvurderingen. Den tekniske dokumentasjonen skal utarbeides på et eller flere av de offisielle språkene i EØS. For utarbeidelse av bruksanvisning for enkelte maskiner gjelder det særskilte krav, jf. vedlegg I, punkt 1.7.4.1.Den tekniske dokumentasjonen skal inneholde:produksjonsdokumentasjon som omfatter:en samlet beskrivelse av maskinenen sammenstillingstegning av maskinen og tegninger/diagrammer for styrestrømkretsene, samt beskrivelser og forklaringer som er nødvendige for å forstå hvordan maskinen virkerdetaljerte og komplette tegninger/diagrammer, vedlagt eventuelle beregningsnotater, prøvingsresultater, attester osv. som er påkrevd for å kunne kontrollere at maskinen er i samsvar med kravene til vern mot skade på liv og helsedokumentasjon for risikovurdering med beskrivelse av den framgangsmåten som er fulgt, herunderkravene som gjelder for maskinen i denne forskriftenbeskrivelsen av de metoder som er valgt for å fjerne kjente farer eller begrense risiko, og eventuelt av hva slags farer som fortsatt er knyttet til bruk av maskinenstandarder og andre tekniske spesifikasjoner som er benyttet, med beskrivelse av hvilke krav til vern mot skade på liv og helse disse standardene oppfylleralle tekniske rapporter som inneholder resultatene av de testene som er gjennomført, enten av produsenten selv eller av et organ som produsenten eller dennes representant har valgtet eksemplar av bruksanvisningen for maskinennår det er relevant, sammenstillingserklæringen for integrerte delvis ferdigstilte maskiner og relevant monteringsveiledning for dissenår det er relevant, kopi av samsvarserklæringen for maskiner eller andre produkter som er integrert i maskinenen kopi av samsvarserklæringen.Ved serieproduksjon skal dokumentasjonen vise hvilke tiltak som vil bli truffet for å sikre at maskinen til enhver tid vil være i samsvar med bestemmelsene i denne forskriften. Produsenten skal foreta nødvendige undersøkelser og prøvinger av deler, tilbehør eller av hele maskinen, for å avgjøre om utforming og konstruksjon er slik at maskinen sikkert kan monteres og tas i bruk. Den tekniske dokumentasjonen skal omfatte alle relevante rapporter og resultater.Den tekniske dokumentasjonen som det er vist til i nr. 1 ovenfor, skal kunne stilles til rådighet for tilsynsmyndighetene etter denne forskriften i minst 10 år etter maskinens produksjonsdato, eller 10 år etter siste produksjonsdato ved serieproduksjon.Den tekniske dokumentasjonen behøver ikke foreligge i EØS-området til enhver tid, eller foreligge materielt. Den som er bemyndiget i samsvarserklæringen skal imidlertid kunne samle og stille dokumentasjonen til rådighet for tilsynsmyndigheten innen rimelig tid, sett i forhold til dokumentasjonens kompleksitet og betydning.Den tekniske dokumentasjonen trenger ikke å omfatte detaljerte planer eller andre spesifikke opplysninger om underenheter som brukes i produksjon av maskinen, med mindre slike opplysninger er avgjørende for å kunne kontrollere at kravene til vern mot skade på liv og helse er oppfylt.Hvis tilsynsmyndighetens krav om å legge fram teknisk dokumentasjon ikke etterkommes, kan det være tilstrekkelig grunn til å anta at den aktuelle maskinen ikke er i samsvar med kravene til vern mot skade på liv og helse.
+
+*B. Relevant teknisk dokumentasjon for delvis ferdigstilte maskiner*
 
 Den tekniske dokumentasjonen skal gjøre det mulig å ta stilling til hvilke krav som gjelder for delvis ferdigstilte maskiner, og om kravene er oppfylt. Dokumentasjonen skal omfatte konstruksjon, produksjon og funksjon i det omfang som er nødvendig for samsvarsvurderingen. Dokumentasjonen skal utarbeides på et eller flere av de offisielle språkene i EØS.Den tekniske dokumentasjonen skal inneholde:tekniske produksjonsdata som omfatter:en sammenstillingstegning av den delvis ferdigstilte maskinen og tegninger/diagrammer for styrestrømkretenedetaljerte og komplette tegninger/diagrammer vedlagt eventuelle beregningsnotater, prøvingsresultater, attester osv. som er påkrevd for å kunne kontrollere at den delvis ferdigstilte maskinen er i samsvar med kravene til vern mot skade på liv og helsedokumentasjon av risikovurdering med beskrivelse av den fremgangsmåte som er fulgt, herunder:en liste over de vesentlige helse- og sikkerhetskravene i denne forskriften som gjelder for delvis ferdigstilt maskin og som er oppfyltbeskrivelsen av de metodene som er valgt for å fjerne kjente farer eller begrense risiko, og eventuelt av hva slags risiko som fortsatt er tilstedestandarder og andre tekniske spesifikasjoner som er benyttet, med beskrivelse av hvilke krav til vern mot skade på liv og helse disse standardene oppfylleralle tekniske rapporter som inneholder resultatene av de tester som er gjennomført, enten av produsenten selv eller av et organ som produsenten eller dennes representant har valgtet eksemplar av monteringsveiledningen for den delvis ferdigstilte maskinen.Ved serieproduksjon skal dokumentasjonen vise hvilke tiltak som vil bli truffet for å sikre at den til enhver tid vil være i samsvar med bestemmelsene i denne forskriften.Produsenten skal foreta nødvendige undersøkelser og prøvinger av deler, tilbehør eller av hele den delvis ferdigstilte maskinen, for å avgjøre om utforming og konstruksjon er slik at den kan monteres og tas i bruk sikkert. Den tekniske dokumentasjonen skal omfatte alle relevante rapporter og resultater.Den tekniske dokumentasjonen for de delvis ferdigstilte maskinene, skal kunne stilles til rådighet for tilsynsmyndighetene etter denne forskriften i minst 10 år etter produksjonsdato, eller 10 år etter siste produksjonsdato ved serieproduksjon.Den tekniske dokumentasjonen behøver ikke foreligge i EØS-området til enhver tid, eller foreligge materielt. Den person som er bemyndiget i samsvarserklæringen, skal imidlertid kunne samle og stille dokumentasjonen til rådighet for tilsynsmyndigheten innen rimelig tid, sett i forhold til dens kompleksitet og betydning.Den tekniske dokumentasjonen trenger ikke å omfatte detaljerte planer eller andre spesifikke opplysninger om underenheter som brukes i produksjon av maskinen, med mindre slike opplysninger er avgjørende for å kunne kontrollere at kravene til vern mot skade på liv og helse er oppfylt.Hvis tilsynsmyndighetens pålegg om å legge fram teknisk dokumentasjon ikke etterkommes, kan det være tilstrekkelig grunn til å anta at den aktuelle delvis ferdigstilte maskinen ikke er i samsvar med kravene til vern mot skade på liv og helse.
 
@@ -887,15 +1263,25 @@ EF-typeprøving er den prosedyren et teknisk kontrollorgan bruker for å forviss
 
 I dette vedlegget beskrives samsvarsvurderingen når produsenten bruker et system for fullstendig kvalitetssikring ved konstruksjon, produksjon, avsluttende kontroll og testing av maskiner, jf. vedlegg IV. Dette vedlegget beskriver også den prosedyren det tekniske kontrollorganet skal bruke ved vurdering/godkjenning av produsentens kvalitetssikringssystem og ved tilsyn med hvordan systemet brukes.
 
+1.*System for kvalitetssikring*
+
 Ved konstruksjon, produksjon, avsluttende produktkontroll og testing skal produsenten benytte et system for kvalitetssikring som er godkjent i henhold til punkt 2 i vedlegget her. Produsenten skal være underlagt kontroll i samsvar med punkt 3 i vedlegget her.
+
+2.*Godkjenning*
+
+2.1.
 
 Søknad om godkjenning av kvalitetssikringssystemet legges fram for et teknisk kontrollorgan etter produsentens valg, jf. [§ 4](forskrift/2009-05-20-544/§4).
 
 Søknaden skal inneholde:produsentens og eventuelt dennes representants navn og adressemaskinens konstruksjons-, produksjons-, avsluttende produktkontroll-, testings- og lagringsstederteknisk dokumentasjon for ett eksemplar av hver kategori av maskiner som produsenten vil produsere, jf. vedlegg IV og vedlegg VII, del Adokumentasjon av kvalitetssikringssystemeten skriftlig erklæring om at samme søknad ikke er sendt til andre tekniske kontrollorgan.
 
+2.2.
+
 Systemet for kvalitetssikring skal sikre at maskinene er i samsvar med kravene i denne forskriften. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal dokumenteres på en systematisk og oversiktlig måte i en skriftlig redegjørelse. Her skal de aktuelle forholdsregler, prosedyrer og instruksjoner dokumenteres. Dokumentasjonen skal sikre at kvalitetsprogrammer, -planer, -manualer og -registreringer blir enhetlig fortolket.
 
 Dokumentasjonen skal inneholde en tilfredsstillende beskrivelse av:kvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og virkemidler med hensyn til maskinens konstruksjon og kvalitettekniske spesifikasjoner av konstruksjon, herunder standarder som vil bli brukt, eventuelt de metoder som blir brukt for å sikre sikkerhets- og helsekravene i dette direktivet når standardene etter [§ 11](forskrift/2009-05-20-544/§11) annet ledd ikke brukes fullt ut,de teknikker, fremgangsmåter og systematiske tiltak knyttet til granskning og verifikasjon som vil bli benyttet ved konstruksjonen av maskinende tilsvarende teknikker, fremgangsmåter og systematiske tiltak som vil bli benyttet i produksjonen og ved kvalitetskontroll og kvalitetssikringundersøkelser og tester som vil bli utført før, under og etter produksjonen, og opplysninger om hvor ofte slike undersøkelser og tester utføresdokumentasjon på kvaliteten, herunder kontrollrapporter, prøvings- og kalibreringsdata og rapporter om personalets kvalifikasjonermetodene for å kontrollere at den konstruksjons- og produktkvalitet som kreves er oppnåddmetodene for å kontrollere at systemet for kvalitetssikring fungerer effektivt.
+
+2.3.
 
 Det tekniske kontrollorganet skal vurdere kvalitetssikringssystemet for å ta stilling til om systemet oppfyller kravene i punkt 2.2.
 
@@ -905,6 +1291,8 @@ Bedømmingsgruppen skal ha minst ett medlem som har erfaring med å vurdere den 
 
 Produsenten eller dennes representant skal underrettes om avgjørelsen. Underretningen skal inneholde resultatene av kontrollen og en begrunnet 00avgjørelse.
 
+2.4.
+
 Produsenten skal oppfylle sine forpliktelser i henhold til det godkjente systemet for kvalitetssikring, og han plikter å vedlikeholde systemet, slik at det forblir hensiktsmessig og effektivt.
 
 Produsenten eller dennes representant skal underrette det tekniske kontrollorganet om enhver planlagt endring av kvalitetssikringssystemet.
@@ -913,15 +1301,27 @@ Det tekniske kontrollorganet skal vurdere foreslåtte endringer og avgjør om de
 
 Det tekniske kontrollorganet skal underrette produsenten om sin avgjørelse. Underretningen skal inneholde resultatene av kontrollen og en begrunnet avgjørelse.
 
+3.*Teknisk kontrollorgans kontroll*
+
+3.1.
+
 Formålet med kontrollen er å sikre at produsenten fullt ut oppfyller sine forpliktelser i henhold til det godkjente systemet for kvalitetssikring.
+
+3.2.
 
 Produsenten skal gi det tekniske kontrollorganet adgang til lokaler for konstruksjon, produksjon, kontroll, testing og lagring, og skal gi kontrollorganet alle opplysninger som anses nødvendige, herunder:dokumentasjon angående systemet for kvalitetssikringregistreringer om kvaliteten i den delen av kvalitetssikringssystemet som gjelder konstruksjonen, herunder analyser, beregninger, prøvinger, osv.registreringer om kvaliteten i den del av kvalitetssikringssystemet som gjelder produksjonen, herunder kontrollrapporter, prøvings- og kalibreringsdata, rapporter om personalets kvalifikasjoner osv.
 
+3.3.
+
 Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikre at produsenten vedlikeholder og bruker kvalitetssikringssystemet. Kontrollorganet skal utarbeide en revisjonsrapport til produsenten. Periodiske revisjoner skal gjennomføres så ofte at hele systemet er fullstendig revidert hvert tredje år.
+
+3.4.
 
 Det tekniske kontrollorganet kan gjennomføre uanmeldte tilsyn hos produsenten. Kontrollorganet avgjør om det er nødvendig med ekstraordinære tilsynsbesøk og eventuelt hvor ofte, på grunnlag av kontrollorganets tilsynssystem. Det skal særlig tas hensyn til følgende faktorer i dette tilsynssystemet:resultatene av tidligere tilsynbehovet for å sikre at avvik er rettet og forbedringspunkter er vurdert gjennomførteventuelle særlige vilkår for godkjenningen av kvalitetskontrollsystemetvesentlige endringer av tiltakene, teknikkene eller av produksjonsprosessens organisering.
 
 Kontrollorganet kan selv eller la andre ta nødvendige prøver for å kontrollere om kvalitetssikringssystemet fungerer korrekt. Kontrollorganet skal utarbeide en tilsynsrapport og eventuelt en prøvingsrapport til produsenten.
+
+4.*Dokumentasjon – oppbevaring*
 
 I ti år etter den siste produksjonsdato skal produsenten eller dennes representant kunne legge følgende dokumentasjon fram for tilsynsmyndighetene etter denne forskriften:den dokumentasjonen som er omhandlet i punkt 2.1avgjørelser og rapporter fra det tekniske kontrollorganet som er omhandlet i punkt 2.4, tredje og fjerde ledd, og punkt 3.3 og 3.4.
 
@@ -954,6 +1354,27 @@ I ti år etter den siste produksjonsdato skal produsenten eller dennes represent
 6. *Merking*CE-merkingen skal følges av en angivelse av det garanterte lydeffektnivå. Angivelsen av lydeffektnivået skal bestå av en enkelt verdi for det garanterte lydeffektnivået i dB, tegnet LWA og et piktogram med følgende form:Hvis angivelsen forminskes eller forstørres i overensstemmelse med maskinens størrelse, skal modellens størrelsesforhold, som vist ovenfor, overholdes. Angivelsens høyde skal om mulig være minst 40 mm.CE-merkingen og angivelsen av lydeffektnivået skal påføres synlig, lesbart og varig på utstyret.
 7. *Utstyr med støygrenser*For følgende typer utstyr skal det garanterte lydeffektnivå ikke overskride lydeffektnivået i tabellen under:byggeplassheiser for transport av varer drevet av forbrenningsmotorkomprimeringsmaskiner, kun vibrerende og ikke-vibrerende tromler samt vibrasjonsplater og -stamperekompressorer < 350 kWhåndbetjente betongbrekkere og hammerevinsjer til byggeplasser drevet av forbrenningsmotordosere < 500 kWdumpere < 500 kWhydrauliske eller ståltaustyrte gravemaskiner < 500 kWgravelastere < 500 kWveghøvler < 500 kWhydraulikkpumper med drivenhetkompaktorer med lasteskuffe < 500 kWgressklippere, bortsett fra maskiner til landbruk og skogbruk og universalmaskiner med motoreffekt større enn 20 kWelektrisk drevne gresstrimmere/gresskanttrimmereløfte- og stablevogner for gods med forbrenningsmotor og motvekter, bortsett fra andre løfte- og stablevogner for gods med motvekter slik som definert i direktiv [2000/14/EF](eu/32000l0014) vedlegg I, punkt 36, annet strekpunkt, med en nominell løfteevne på høyst 10 tonnlastere < 500 kWmobilkranermotorfresere < 3 kWutleggingsmaskiner, bortsett fra utleggingsmaskiner med høykomprimerende avretterstrømaggregater < 400 kWtårnkranersveiseaggregater.Definisjoner av ovennevnte utstyrstyper er fastsatt i direktiv [2000/14/EF](eu/32000l0014) vedlegg I. Målemetoder for utstyrstypene er fastsatt i direktivet vedlegg III som endret ved forordning [(EU) 2024/1208](eu/32024r1208).
 
+*Støygrenser*
+
+| *Maskintype* | *Installert nettoeffekt<br>P i kW<br>Elektrisk effekt<br>Pel 1 i kW<br>Maskinens masse m i kg<br>Skjærebredde L i cm* | *Tillatt lydeffektnivå i dB/ 1pW* |  |
+| --- | --- | --- | --- |
+|  |  | *Fase I fra den 3. januar 2002* | *Fase II fra den 3. januar 2006* |
+| Komprimeringsmaskiner (vibrasjonstromler, vibrasjonsplater og vibrasjonsstampere) | P ≤ 8<br>8 < P ≤ 70<br>P > 70 | 108<br>109<br>89 + 11 lg P | 1052<br>1062<br>86 + 11 lg P2 |
+| Beltegående dosere, lastere og gravelastere | P ≤ 55<br>P > 55 | 106<br>87 + 11 lg P | 1032<br>84 + 11 lg P2 |
+| Hjulgående dosere, lastere og gravelastere, dumpere, veghøvler, kompaktorer med lasteskuffe, løfte- og stablevogn for gods med forbrenningsmotor og motvekt, mobilkraner, komprimeringsmaskiner (ikke vibrasjonstromler), utleggingsmaskiner, hydraulikkpumper | P ≤ 55<br>P > 55 | 104<br>85 + 11 lg P | 1012 ,3<br>82 + 11 lg P2 ,3 |
+| Gravemaskiner, byggeplassheiser for transport av varer, vinsjer til byggeplasser, motorfresere | P ≤ 15<br>P > 15 | 96<br>83 + 11 lg P | 93<br>80 + 11 lg P |
+| Håndbetjente betongbrekkere og hammere | m ≤ 15<br>15 < m < 30<br>m ≥ 30 | 107<br>94 + 11 lg m<br>96 + 11 lg m | 105<br>92 + 11 lg m2<br>94 + 11 lg m |
+| Tårnkraner |  | 98 + lg P | 96 + lg P |
+| Sveiseaggregater og strømaggregater | P el ≤ 2<br>2 < P el ≤ 10<br>P el > 10 | 97 + lg Pel<br>98 + lg Pel<br>97 + lg Pel | 95 + lg Pel<br>96 + lg Pel<br>95 + lg Pel |
+| Kompressorer | P ≤ 15<br>P > 15 | 99<br>97 + 2 lg P | 97<br>95 + 2 lg P |
+| Gressklippere, elektrisk drevne gresstrimmere/gresskanttrimmere | L ≤ 50<br>50 < L ≤ 70<br>70 < L ≤ 120<br>L > 120 | 96<br>100<br>100<br>105 | 942<br>98<br>982<br>1032 |
+
+1 Pel for sveiseaggregater: den normale elektriske strøm til sveising multiplisert med den normale belastningsspenning for den laveste verdi av den driftstid produsenten har opplyst.
+
+Pel for strømaggregater: primæreffekten i henhold til ISO 8528-1:1993, punkt 13.3.2.
+
+2 Tallene for fase II er kun veiledende for følgende maskintyper:
+
 - vibrasjonstromler med gående fører
 - vibrasjonsplater ( > 3 kW)
 - vibrasjonsstampere
@@ -963,6 +1384,12 @@ I ti år etter den siste produksjonsdato skal produsenten eller dennes represent
 - utleggingsmaskiner med komprimerende avrettere
 - håndbetjente betongbrekkere og hammere med forbrenningsmotor (15 < m < 30)
 - gressklippere, elektrisk drevne gresstrimmere/ gresskanttrimmere.
+
+De endelige tallene vil avhenge av om direktivet endres på bakgrunn av den rapport som skal fremlegges i henhold til direktiv [2000/14/EF](eu/32000l0014) artikkel 20 [punkt](forskrift/2009-05-20-544/kap1) 1. Dersom det ikke blir foretatt noen endringer, vil tallene for fase I fortsatt få anvendelse i fase II.
+
+3 For enmotors mobilkraner får tallene i fase I anvendelse inntil 3. januar 2008. Etter denne datoen får tallene i fase II anvendelse.
+
+Det tillatte lydeffektnivå avrundes til nærmeste hele tall (lavere verdier enn 0,5 rundes ned, 0,5 og høyere rundes opp).
 
 1. *Utstyr som skal støymerkes*Følgende utstyr skal støymerkes:personløftere med forbrenningsmotormotordrevne rydningssagerelektrisk drevne byggeplassheiser for transport av varerbåndsager til byggeplassersirkelsager til byggeplasserbærbare motorkjedesagerkombinerte høytrykksspylere og slamsugerekomprimeringsmaskiner, kun eksplosjonsstamperebetongblandemaskinerelektrisk drevne vinsjer til byggeplassermaskiner til transport og sprøyting av betong og mørtelbåndtransportørerkjøleanlegg i kjøretøyerboreriggermaskiner til fylling og tømming av siloer og tanker på lastebilerbeholdere til gjenvinning av glassavfallgresstrimmere/ gresskanttrimmere med forbrenningsmotorhekklippere med forbrenningsmotorhøytrykksspylerehøytrykksrenserehydrauliske hammerefugeskjæremaskinerløvblåsereløvsugereløfte- og stablevogner for gods med forbrenningsmotor og motvekter, kun løfte- og stablevogner for gods med motvekter slik som definert i direktiv [2000/14/EF](eu/32000l0014) vedlegg I, punkt 36, annet strekpunkt, med en nominell løfteevne på høyst 10 tonnavfallsbeholdere på hjulutleggingsmaskiner med høykomprimerende avretterpælemaskiner med tilbehørrørutleggereløypeprepareringsmaskinerstrømaggregater ≥ 400 kWfeiemaskinerrenovasjonsbilerasfaltfresereplenlufterefliskverner/flishuggereselvgående snøfresere uten tilbehørslamsugeregrøftegraverebetongbilervannpumpeanlegg, ikke til undervannsbruk.Definisjoner av ovennevnte utstyrstyper er fastsatt i direktiv [2000/14/EF](eu/32000l0014) vedlegg I. Målemetoder for utstyrstypene er fastsatt i direktivet vedlegg III som endret ved forordning [(EU) 2024/1208](eu/32024r1208).
 2. *Teknisk kontrollorgan*For å bli utpekt som teknisk kontrollorgan skal virksomheten oppfylle kravene i vedlegg XI i forskriften her.

@@ -299,3 +299,5 @@ Stortinget samtykker i at Norge slutter seg til Den internasjonale konvensjonen 
 Loven trer i kraft fra den tid Kongen fastsetter.1 [§ 30](lov/1993-03-12-32/§30) første ledd trer likevel i kraft straks.
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+1 Fra 15 sep 1993 iflg. [res. 14 mai 1993 nr. 345](forskrift/1993-05-14-345).

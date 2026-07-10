@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Finansdepartementet etter forsikringsloven § 7-2 fjerde ledd
 
 Kongens myndighet etter § 7-2 fjerde ledd delegeres til Finansdepartementet.1
+
+1 Kongens myndighet etter [lov 10. juni 2005 nr. 44](lov/2005-06-10-44) om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsloven) [§ 7-2](lov/2005-06-10-44/§7-2) fjerde ledd delegeres til Finansdepartementet.

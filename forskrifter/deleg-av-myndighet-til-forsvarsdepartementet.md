@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Forsvarsdepartementet til å vedta og iverksette nytt anskaffelsesregelverk (ARF).
 
 Bestemmelser av 3. desember 19931 vedrørende anskaffelser til Forsvaret oppheves fra den dato Forsvarsdepartementet fastsetter, og Forsvarsdepartementet gis med dette myndighet til å vedta og iverksette det nye anskaffelsesregelverket (ARF) fra samme dato.
+
+1 Ikke kunngjort i Norsk Lovtidend.

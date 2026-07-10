@@ -22,7 +22,11 @@ eu_basis: []
 
 # Lov om saksbehandlingen i offentlig forvaltning (forvaltningsloven)
 
+Følgende lov oppheves:
+
 - [Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](lov/1967-02-10).
+
+Endringer i følgende lover:
 
 1. [Lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven)](lov/1999-01-29-6).
 2. [Lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven)](lov/2018-06-22-83).
@@ -801,12 +805,22 @@ eu_basis: []
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner](lov/2018-06-22-83) gjøres følgende endringer:
+
+[§ 11-10](lov/2018-06-22-83/§11-10) nytt femte ledd skal lyde:
+
 Avgjørelsen om et medlems habilitet treffes av det folkevalgte organet selv, uten at medlemmet deltar. Hvis organet skal vurdere habiliteten til flere medlemmer i samme sak, skal ingen av disse medlemmene delta ved avgjørelsen om egen eller andres habilitet. Hvis det er nødvendig for at organet skal være vedtaksført, skal likevel alle møtende medlemmer delta.
+
+[§ 18-1](lov/2018-06-22-83/§18-1) nytt femte ledd skal lyde:
 
 Forvaltningsloven gjelder for interkommunale politiske råd med de særreglene som følger av loven her.
 
+[§ 19-1](lov/2018-06-22-83/§19-1) nytt femte ledd skal lyde:
+
 Forvaltningsloven gjelder for oppgavefellesskap med de særreglene som følger av loven her.
 
-Om inhabilitet for selskapets ansatte og medlemmer av selskapets styrende organer gjelder [kommuneloven § 13-3](lov/2018-06-22-83/§13-3) og [§ 11-10](lov/2018-06-22-83/§11-10) tilsvarende.
+**2.** I [lov 29. januar 1999 nr. 6 om interkommunale selskaper](lov/1999-01-29-6) gjøres følgende endringer:
 
-Forvaltningsloven gjelder for interkommunale selskaper som er omfattet av [offentleglova](lov/2006-05-19-16).
+[§ 15](lov/1999-01-29-6/§15) skal lyde:
+
+Ny [§ 15 a](lov/1999-01-29-6/§15a) skal lyde:

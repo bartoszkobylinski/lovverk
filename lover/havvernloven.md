@@ -260,6 +260,8 @@ Tingretten kan gi oppfriskning for oversittelse av fristen i andre ledd etter re
 
 Loven trer i kraft fra den tiden1 Kongen bestemmer.
 
+1 Fra 1. januar 2026 iflg. [res. 10 juni 2025 nr. 966](forskrift/2025-06-10-966).
+
 ### § 34. Endringer i andre lover
 
 Fra den tiden loven her trer i kraft, gjøres følgende endringer i andre lover: – – –

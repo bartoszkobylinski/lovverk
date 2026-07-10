@@ -28,6 +28,8 @@ Formålet med instruksen er å legge forholdene til rette for utøvelse av effek
 
 Instruksen gjelder for Forsvarsdepartementets underlagte etater.
 
+1 Jf. definisjon i [lov om forebyggende sikkerhetstjeneste (sikkerhetsloven)](lov/1998-03-20-10).
+
 ## § 2. Organisering og utøvelse av sikkerhetstjeneste i forsvarssektoren
 
 Ansvaret for sikkerhetstjeneste påhviler etatssjefene.
@@ -61,6 +63,8 @@ Etatene skal utarbeide interne prosedyrer for identifisering og innmelding av be
 Behov etter første ledd skal innmeldes til nivået med myndighet til å fastsette det aktuelle området.
 
 Med restriksjonsområder menes i denne instruksen områder fastsatt i eller i medhold av lov1.
+
+1 [Lov om forebyggende sikkerhetstjeneste](lov/1998-03-20-10).[Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold](lov/2017-06-21-88).[Forskrift om forbud for uvedkommende mot adgang til visse områder mv. på grunn av forsvarshensyn](forskrift/1914-11-06-3576).[Forskrift om fotografering mv fra luften og kontroll av luftfotografier og opptaksmateriale fra luftbårne sensorsystemer](forskrift/1997-01-06-3).[Forskrift om militære forbudsområder innen Sjøforsvaret](forskrift/2016-12-31-1914).[Forskrift om fremmede ikke-militære fartøyers anløp av og ferdsel i norsk territorialfarvann under fredsforhold](forskrift/1994-12-23-1130).
 
 ## § 5. Sikkerhet ved anskaffelser
 

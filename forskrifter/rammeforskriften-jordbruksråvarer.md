@@ -36,9 +36,15 @@ Vedtak om markedsregulators informasjonsplikt skal sikre alle markedsaktører li
 
 Vedtak om markedsregulators mottaksplikt skal sikre alle primærprodusenter avsetning for sin produksjon, til de vilkår som gjelder på det aktuelle mottaksanlegg på det tidspunkt leveransen finner sted.
 
+1\) *Korn og oljefrø*
+
 Vedtak om markedsregulators mottaksplikt fra kornkjøpere for norskprodusert korn og oljefrø skal sikre avsetning for alle primærprodusenter og kornkjøpere. Mottaksplikten gjelder i perioden 1. oktober til 15. april det enkelte kornår og for restkvanta som ikke kan selges på vanlige kommersielle vilkår til matmel- eller kraftfôrindustrien. Bindende innmelding skal skje til markedsregulator senest 10 kalenderdager før ønsket leveringsdato og senest 15. april. Leveransen skal skje til nærmeste målprisanlegg med mindre kjøper og selger blir enige om noe annet. Det er en forutsetning at markedsmulighetene utnyttes før restkvantum meldes inn.
 
 Norskprodusert korn og oljefrø fra andre kornkjøpere enn markedsregulator skal betales med minimum samme pris og i henhold til de kvalitetskriterier som gjelder for norskprodusert korn og oljefrø levert direkte fra kornprodusent på samme anlegg og tidspunkt. Den pris som betales for korn eller oljefrø av basis kvalitet skal likevel ikke overstige målpris for vedkommende vare. Det skal, ut fra hva som til enhver tid er vanlig i markedet, tas hensyn til eventuell markedsmessig merverdi som er tilført varen i form av kvalitet, og til eventuell kostnadsinnsparing på grunn av levering av større kvanta. Prisen kan justeres for prisnedskrivingstilskudd og pristrekk som allerede er utbetalt til eller trukket fra kornkjøper.
+
+2\) (Opphevet)
+
+3\) *Egg*
 
 Vedtak om markedsregulators mottaksplikt for egg fra uavhengige aktører, skal sikre avsetningsadgang for alle primærprodusenter. Mottaksplikten for egg fra uavhengige eggpakkerier skal inntre når det er overskudd i det innenlandske markedet og markedsregulator gjennom året har avsetningsmuligheter for varen.
 
@@ -48,6 +54,8 @@ Mottaksplikten i den kommende måned avgrenses til det enkelte eggpakkeriforetak
 
 Oppgjør for egg fra uavhengige eggpakkerier skal skje med utgangspunkt i en veid pris for de ulike størrelses- og kvalitetssorteringer, og med korrigeringer fastsatt i nærmere bestemmelser av Omsetningsrådet.
 
+4\) *Melk*
+
 Markedsregulator skal pålegges mottaksplikt på innenlands produsert fløte og smør fra meieriselskaper i prisutjevningsordningen for melk når det er definert overskudd av melkefett i markedet. I slike tilfeller skal det benyttes en pris som tilsvarer verdien av produksjonsfløte eller tilvirkningsverdien på smør fastsatt i [forskrift 29. juni 2007 nr. 904 om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør](forskrift/2007-06-29-904).
 
 > Endret ved [forskrifter 4 des 2003 nr. 1455](forskrift/2003-12-04-1455) (i kraft 1 jan 2004), [8 des 2006 nr. 1373](forskrift/2006-12-08-1373) (i kraft 1 jan 2007), [30 juni 2009 nr. 919](forskrift/2009-06-30-919) (i kraft 1 juli 2009), [21 jan 2013 nr. 49](forskrift/2013-01-21-49) (i kraft 1 mars 2013), [27 juni 2013 nr. 797](forskrift/2013-06-27-797) (i kraft 1 juli 2013), [3 sep 2014 nr. 1144](forskrift/2014-09-03-1144), [18 feb 2016 nr. 162](forskrift/2016-02-18-162), [25 nov 2020 nr. 2449](forskrift/2020-11-25-2449).
@@ -56,17 +64,25 @@ Markedsregulator skal pålegges mottaksplikt på innenlands produsert fløte og 
 
 Vedtak om markedsregulators forsyningsplikt skal gi uavhengige aktører tilgang til råvarer på like vilkår.
 
+1\) *Korn og oljefrø*
+
 I den aktuelle markedssituasjon, der Felleskjøpsgruppen normalt har underdekning av norsk korn eller oljefrø, begrenses inntil videre forsyningsplikten til å gjelde ved salg av reguleringsvare. Ved salg av reguleringsvare i regi av markedsregulator skal varen tilbys alle aktører gjennom anbudskonkurranse. Dersom et reguleringstiltak er iverksatt etter anbudskonkurranse, er det ikke nødvendig å gjennomføre ny anbudskonkurranse ved salg av reguleringsvaren.
+
+2\) *Kjøtt*
 
 Forsyningsplikten gjelder for norskproduserte slakt på det regulerte nivå i verdikjeden jf. jordbruksavtalen og regulert vare, jf. liste over reguleringsvare i kjøttsektoren i retningslinjene for markedsregulering av kjøtt fastsatt av Omsetningsrådet. I en normal markedssituasjon skal markedsregulator søke å gi alle aktører samme dekningsgrad med norsk råvare, med utgangspunkt i aktørenes bestillinger.
 
 Når det er underskudd av ferske hele slakt innenlands og tollavgiften på kjøtt er satt ned i henhold til [forskrift 22. desember 2005 nr. 1723 om administrative nedsettelser av tollavgiftssatser for landbruksvarer](forskrift/2005-12-22-1723), kan markedsregulator fordele varemengdene best mulig mellom aktørene på grunnlag av deres ordinære kjøp av kjøtt. I slike situasjoner kan forsyningene til uavhengige aktører med egen slakting avkortes med sikte på lik dekningsgrad med norsk råvare.
+
+3\) *Egg*
 
 Forsyningsplikten gjelder for norskproduserte usorterte konsumegg på det regulerte nivå i verdikjeden jf. jordbruksavtalen. Normalt skal markedsregulator søke å gi alle aktører samme dekningsgrad med norsk råvare, med utgangspunkt i aktørenes bestilling.
 
 Når det er underskudd av konsumegg innenlands og tollavgiften på egg er satt ned i henhold til [forskrift 22. desember 2005 nr. 1723 om administrative nedsettelser av tollavgiftssatser for landbruksvarer](forskrift/2005-12-22-1723), kan markedsregulator fordele norsk vare best mulig mellom aktørene på grunnlag av deres ordinære kjøp av egg. I slike situasjoner kan forsyningene til uavhengige aktører med egen leveranse av egg fra primærprodusent avkortes med sikte på lik dekningsgrad med norsk råvare. Ved underskudd av konsumegg, skal ikke konsumegg gjennom forsyningsplikten nyttes for å dekke opp underdekning av industriegg som produksjonsgrunnlag ved eggproduktfabrikk.
 
 Forsyningsplikt til uavhengige aktører etter første og annet ledd, skal maksimalt settes til 500 tonn tillagt 30 pst. av aktørens innveide eggmengde fra egne leverandører foregående år.
+
+4\) *Melk*
 
 Vedtak om markedsregulators forsyningsplikt omfatter alle meieriselskaper som deltar i prisutjevningsordningen for melk. Forsyningsplikten gjelder for norskprodusert melk på det regulerte nivå i verdikjeden jf. jordbruksavtalen.
 

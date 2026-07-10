@@ -26,6 +26,8 @@ eu_basis: []
 
 Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i [lov 3. februar 1995 nr. 7](lov/1995-02-03-7) om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste [§ 9](lov/1995-02-03-7/§9) første ledd.1
 
+1 Inkurie: Skal vel være § 11 etter endring ved [lov 21 juni 2017 nr. 95](lov/2017-06-21-95).
+
 ## § 2.
 
 Medlemmene av evalueringsutvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt. Taushetsplikten er ikke til hinder for at utvalget avgir en ugradert evalueringsrapport til Stortinget.

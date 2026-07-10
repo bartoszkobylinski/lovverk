@@ -31,6 +31,8 @@ eu_basis: []
 
 ## Vedlegg
 
+*Oversikt over lover statsråd Bjørnar Selnes Skjæran har forvaltningsansvar for etter endringene:*
+
 - [Lov 22. mai 2017 nr. 28 om tilskudd til sysselsetting av arbeidstakere til sjøs](lov/2017-05-22-28)
 - [Lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)](lov/2013-06-21-102)
 - [Lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova)](lov/2008-06-06-37)
@@ -52,6 +54,14 @@ eu_basis: []
 - [Lov 19. desember 1952 nr. 2 om adgang til rekvisisjon av skip m.v. under krig eller kriseforhold (lov om adgang til rekvisisjon av skip)](lov/1952-12-19-2)
 - [Lov 8. juli 1949 nr. 13 om produksjon, transport og omsetning av agn (agnforsyningsloven)](lov/1949-07-08-13)
 - Lov 14. mars 1930 nr. 14 om landslott (landslottloven)3
+
+1 Skal være [lov 21. juni 2013 nr. 75 om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova)](lov/2013-06-21-75). Lovtidend-redaksjonens anmerkning.
+
+2 Skal være [lov 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven)](lov/1999-03-26-15). Lovtidend-redaksjonens anmerkning.
+
+3 Skal være [lov 14. mars 1930 om landslott](lov/1930-03-14), da loven ikke er nummerert og har heller ikke offisiell korttittel. Lovtidend-redaksjonens anmerkning.
+
+*Oversikt over lover statsråd Jan Christian Vestre har forvaltningsansvar for etter endringene:*
 
 - [Lov 18. juni 2021 nr. 136 om røystingsrådgjevarar](lov/2021-06-18-136)
 - [Lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet](lov/2020-12-21-175)
@@ -102,3 +112,5 @@ eu_basis: []
 - [Lov 7. august 1925 Bergverksordning for Svalbard](lov/1925-08-07)
 - [Lov 23. juni 1888 nr. 3 indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v. (lov om Leilendingsgods tilhørende Stamhus)](lov/1888-06-23-3)
 - [Kongelig Resolution 8. juni 1775 ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Skyldlægning sammesteds](lov/1775-06-08)
+
+1 Skal være [lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven) – kapittel 6](lov/2009-01-09-2/kap6). Lovtidend-redaksjonens anmerkning.

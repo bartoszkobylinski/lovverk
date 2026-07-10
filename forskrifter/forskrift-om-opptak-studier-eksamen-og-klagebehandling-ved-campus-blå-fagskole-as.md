@@ -88,7 +88,9 @@ Formelt opptak til fagskoleutdanningen Driftstekniker Havbruk krever fullført o
 
 (4) Dersom søknad om opptak basert på realkompetansevurdering blir avslått, skal avslaget begrunnes.
 
-(5) Følgende gir grunnlag for opptak til Driftstekniker Havbruk – utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat* basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitetGenerell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene Drift og produksjon, Anlegg og teknikk samt Biologi og miljø inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
+(5) Følgende gir grunnlag for opptak til Driftstekniker Havbruk – utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene Røkting og drift og Produkt og kvalitetGenerell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene Drift og produksjon, Anlegg og teknikk samt Biologi og miljø inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
+
+\* De som mangler denne eksamen kan tas opp under forutsetning av å gjennomføre denne eksamen i løpet av første semester
 
 > Endret ved forskrifter [1 okt 2021 nr. 3170](forskrift/2021-10-01-3170) (i kraft 12 nov 2021), [2 des 2021 nr. 3372](forskrift/2021-12-02-3372).
 
@@ -108,9 +110,11 @@ Formelt opptak til fagskoleutdanningen Driftsleder Akvakultur krever fullført o
 
 (4) Dersom søknad om opptak basert på realkompetansevurdering blir avslått, skal avslaget begrunnes.
 
-(5) Følgende gir grunnlag for opptak til Driftsleder Akvakultur-utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat* basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*Generell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene *Drift og produksjon*, *Anlegg og teknikk* samt *Oppdrett og miljø* inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakulturBestått skriftlig eksamen som privatist i hvert av programfagene fra Vg2 Akvakultur samt bestått tverrfaglig praktisk eksamen hvor de felles programfagene inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
+(5) Følgende gir grunnlag for opptak til Driftsleder Akvakultur-utdanningen basert på realkompetansevurdering:5 års relevant arbeidserfaring innen fagområdet akvakultur og bestått teorieksamen i akvakulturfaget som praksiskandidat\* basert på læreplan i Vg3 Akvakulturfaget med programfagene *Røkting og drift* og *Produkt og kvalitet*Generell studiekompetanse + 3 års relevant arbeidserfaringBestått tverrfaglig praktisk eksamen fra Vg2 Akvakultur hvor programfagene *Drift og produksjon*, *Anlegg og teknikk* samt *Oppdrett og miljø* inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakulturBestått skriftlig eksamen som privatist i hvert av programfagene fra Vg2 Akvakultur samt bestått tverrfaglig praktisk eksamen hvor de felles programfagene inngår + 30 måneders relevant arbeidserfaring innen fagområdet akvakultur.
 
 > Endret ved forskrift [15 mars 2023 nr. 446](forskrift/2023-03-15-446) (i kraft 14 april 2023).
+
+\* De som mangler denne eksamen kan tas opp under forutsetning av å gjennomføre denne eksamen i løpet av første semester.
 
 ### § 2-6. Opptak for søkere med utenlands utdanning/annet morsmål enn norsk
 
@@ -172,7 +176,16 @@ Campus BLÅ Fagskole benytter følgende eksamens- og vurderingsordninger:Skriftl
 
 ### § 4-2. Karakterer og vitnemål
 
-(1) Skolen benytter følgende karakterskala og med karakter E som bestått:*Karakter**Betegnelse**Beskrivelse*AFremragendeEn prestasjon som klart utmerker seg. Kandidaten viser svært høyt kunnskapsnivå, svært god vurderingsevne og en høy grad av selvstendighet og kritisk tilnærming til fagstoffet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet i behandlingen av fagstoffet.CGodEn jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne om de viktigste områdene og elementene i fagfeltet.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten mangler kunnskap om/forståelse av sentrale sider ved eksamensstoffet.
+(1) Skolen benytter følgende karakterskala og med karakter E som bestått:
+
+| *Karakter* | *Betegnelse* | *Beskrivelse* |
+| --- | --- | --- |
+| A | Fremragende | En prestasjon som klart utmerker seg. Kandidaten viser svært høyt kunnskapsnivå, svært god vurderingsevne og en høy grad av selvstendighet og kritisk tilnærming til fagstoffet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet i behandlingen av fagstoffet. |
+| C | God | En jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne om de viktigste områdene og elementene i fagfeltet. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten mangler kunnskap om/forståelse av sentrale sider ved eksamensstoffet. |
 
 (2) Vurderingen «bestått»/«ikke bestått» benyttes i enkelte emner/moduler. Det fremgår av studieplanen hvilke emner som vurderes til «bestått»/«ikke bestått». Vurderingen «bestått» tilsvarer beskrivelsen for karakteren E eller høyere.
 

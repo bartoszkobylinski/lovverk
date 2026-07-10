@@ -32,6 +32,10 @@ eu_basis: []
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar beslutning [(EU) 2018/1614](eu/32018d1614) av 25. oktober 2018 inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 792](forskrift/2022-05-06-792).
+
 ## Rettsakter
 
 Rettsakten er gyldig på alle offisielle språk i EU.
+
+For å lese engelsk versjon av beslutning [(EU) 2018/1614](eu/32018d1614) se her: [(pdf)](static/SF/32018d1614e-01.pdf)

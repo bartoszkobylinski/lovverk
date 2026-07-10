@@ -91,6 +91,8 @@ I denne forordning menes med«filial av en finans- eller kredittinstitusjon»: e
 
 herunder foretakenes filialer i og utenfor EU,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder, men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder, men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter eller verdier påløpt eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev, og;dokumenter som viser eierandeler i penger eller finansielle ressurser,«varer»: produkter, materialer og utstyr,«forsikring»: et tilsagn om eller en forpliktelse for en eller flere fysiske eller juridiske personer, mot betaling og i tilfelle forsikringsbegivenheten inntrer, å yte erstatning eller en fordel som presisert i tilsagnet eller forpliktelsen til en eller flere andre personer,«gjenforsikring»: den form for virksomhet som består i å overta risikoer som overdras av et forsikringsselskap eller av et annet gjenforsikringsselskap, eller i tilfellet assurandørsammenslutningen Lloyds, den form for virksomhet som består i å overta risikoer som overdras av et medlem av Lloyds, av et forsikringsselskap eller et gjenforsikringsselskap som ikke er assurandørsammenslutningen Lloyds,«syrisk kreditt- eller finansinstitusjon»:alle kreditt- eller finansinstitusjoner hjemmehørende i Syria, herunder Syrias sentralbank,alle filialer eller datterselskaper som faller inn under virkeområdet til artikkel 35, av en kreditt- eller finansinstitusjon hjemmehørende i Syria,alle filialer eller datterselskaper som ikke faller inn under virkeområdet til artikkel 35, av en kreditt- eller finansinstitusjon hjemmehørende i Syria,alle kreditt- eller finansinstitusjoner som ikke er hjemmehørende i Syria, men som kontrolleres av en eller flere personer hjemmehørende i Syria,«syrisk person, enhet eller organ»:staten Syria eller offentlige myndigheter i landet,enhver fysisk person i eller med bopel i Syria,enhver juridisk person, ethvert selskap eller ethvert organ som er registrert som hjemmehørende i Syria,enhver juridisk person, enhver enhet eller ethvert organ, i eller utenfor Syria, som er eid eller direkte eller indirekte kontrollert av en eller flere av de ovennevnte personer eller organer,«faglig bistand»: enhver form for faglig støtte i forbindelse med reparasjon, utvikling, produksjon, samling, prøving, vedlikehold eller enhver annen form for faglig tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,«EUs territorium»: de av medlemsstatenes territorier der traktaten om Den europeiske unions virkemåte om kommer til anvendelse, på de vilkår som er fastsatt i traktaten, herunder deres luftrom.«EUs tollområde»: området definert i artikkel 3 i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) av 12. oktober 1992 om innføring av Fellesskapets tollkodeks.5
 
+1 EUT L 177 av 30.6.2006, s. 1.2 EUT L 345 av 19.12.2002, s. 1.3 EUT L 145 av 30.4.2004, s. 1.4 EUT L 9 av 15.1.2003, s. 3.5 EUT L 302 av 19.10.1992, s. 1.
+
 ### Artikkel 1a. (Opphevet)
 
 ### KAPITTEL II
@@ -98,43 +100,43 @@ EKSPORT- OG IMPORTRESTRIKSJONER
 
 ### Artikkel 2
 
-1. En medlemsstat kan forby eller kreve at det gis tillatelse til eksport, salg, levering eller overføring av utstyr som kan brukes til intern undertrykking, ut over det som er oppført i vedlegg IA eller vedlegg IX, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria.
+1\. En medlemsstat kan forby eller kreve at det gis tillatelse til eksport, salg, levering eller overføring av utstyr som kan brukes til intern undertrykking, ut over det som er oppført i vedlegg IA eller vedlegg IX, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria.
 
-2. En medlemsstat kan forby eller kreve at det gis tillatelse til levering av faglig bistand, finansiering og finansiell bistand i tilknytning til utstyret nevnt i nr. 1, til personer, enheter eller organer i Syria eller til bruk i Syria.
+2\. En medlemsstat kan forby eller kreve at det gis tillatelse til levering av faglig bistand, finansiering og finansiell bistand i tilknytning til utstyret nevnt i nr. 1, til personer, enheter eller organer i Syria eller til bruk i Syria.
 
 ### Artikkel 2a
 
-1. Det er forbudtå selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IA, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria,forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a).
+1\. Det er forbudtå selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IA, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria,forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a).
 
-2. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til at det gjennomføres en transaksjon som gjelder utstyr, varer eller teknologi som er oppført i vedlegg IA, på betingelse av at utstyret, varene eller teknologien er ment for matvarer, landbruksformål, medisinske eller andre humanitære formål eller på FN-personell eller personell fra EU eller medlemsstatene.
+2\. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til at det gjennomføres en transaksjon som gjelder utstyr, varer eller teknologi som er oppført i vedlegg IA, på betingelse av at utstyret, varene eller teknologien er ment for matvarer, landbruksformål, medisinske eller andre humanitære formål eller på FN-personell eller personell fra EU eller medlemsstatene.
 
-3. Som unntak fra bestemmelsene i nr. 1 bokstav a) kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr, varer eller teknologi oppført i vedlegg IA som gjennomføres i samsvar med punkt 10 i FNs sikkerhetsrådsresolusjon 2118 (2013) og relevante beslutninger fra eksekutivrådet i Organisasjonen for forbud mot kjemiske våpen (OPCW), i samsvar med formålet med konvensjonen om forbud mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt ødeleggelse av slike våpen (konvensjonen om kjemiske våpen) og i samråd med OPCW.
+3\. Som unntak fra bestemmelsene i nr. 1 bokstav a) kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til salg, levering, overføring eller eksport av utstyr, varer eller teknologi oppført i vedlegg IA som gjennomføres i samsvar med punkt 10 i FNs sikkerhetsrådsresolusjon 2118 (2013) og relevante beslutninger fra eksekutivrådet i Organisasjonen for forbud mot kjemiske våpen (OPCW), i samsvar med formålet med konvensjonen om forbud mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt ødeleggelse av slike våpen (konvensjonen om kjemiske våpen) og i samråd med OPCW.
 
 ### Artikkel 2b
 
-1. Det skal kreves forhåndstillatelse til å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IX, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria,
+1\. Det skal kreves forhåndstillatelse til å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IX, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria,
 
-2. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse til salg, levering, overføring eller eksport av utstyret, varene eller teknologien oppført i vedlegg IX dersom det er skjellig grunn til å fastslå at utstyret, varene eller teknologien som salget, leveringen, overføringen eller eksporten gjelder, brukes eller kan brukes til intern undertrykking eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking.
+2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse til salg, levering, overføring eller eksport av utstyret, varene eller teknologien oppført i vedlegg IX dersom det er skjellig grunn til å fastslå at utstyret, varene eller teknologien som salget, leveringen, overføringen eller eksporten gjelder, brukes eller kan brukes til intern undertrykking eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking.
 
-3. Tillatelsen skal gis av de kompetente myndigheter i medlemsstaten der eksportøren er etablert, og skal være i samsvar med de detaljerte reglene fastsatt i artikkel 11 i rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer.6 Tillatelsen skal gjelde i hele Den europeiske union.
+3\. Tillatelsen skal gis av de kompetente myndigheter i medlemsstaten der eksportøren er etablert, og skal være i samsvar med de detaljerte reglene fastsatt i artikkel 11 i rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer.6 Tillatelsen skal gjelde i hele Den europeiske union.
 
 ### Artikkel 2c
 
-1. Reglene om plikten til å gi forhåndsopplysninger som fastsatt i de relevante bestemmelsene om summariske deklarasjoner samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om fastsettelse av regler for gjennomføringen av rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)7 gjelder for alle varer som forlater EUs tollområde på vei til Syria.Personen eller enheten som gir opplysningene, skal også legge fram eventuelle tillatelser som kreves i denne forordning.
+1\. Reglene om plikten til å gi forhåndsopplysninger som fastsatt i de relevante bestemmelsene om summariske deklarasjoner samt tolldeklarasjoner i rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*) og i kommisjonsforordning [(EØF) nr. 2454/93](eu/31993r2454*) av 2. juli 1993 om fastsettelse av regler for gjennomføringen av rådsforordning [(EØF) nr. 2913/92](eu/31992r2913*)7 gjelder for alle varer som forlater EUs tollområde på vei til Syria.Personen eller enheten som gir opplysningene, skal også legge fram eventuelle tillatelser som kreves i denne forordning.
 
-2. Utstyr, varer og teknologi som det er forbudt å levere, selge, overføre eller eksportere i henhold til artikkel 2a i denne forordning, kan, i samsvar med nasjonal lovgivning eller en beslutning fra en kompetent myndighet, beslaglegges og avhendes for den persons eller enhets regning som er nevnt i nr. 1, eller, dersom det ikke er mulig å få disse kostnadene dekket av denne personen eller enheten, kan kostnadene i samsvar med nasjonal lovgivning kreves dekket av enhver person eller enhet som er ansvarlig for transport av varene eller utstyret i forsøket på ulovlig levering, salg, overføring eller eksport.
+2\. Utstyr, varer og teknologi som det er forbudt å levere, selge, overføre eller eksportere i henhold til artikkel 2a i denne forordning, kan, i samsvar med nasjonal lovgivning eller en beslutning fra en kompetent myndighet, beslaglegges og avhendes for den persons eller enhets regning som er nevnt i nr. 1, eller, dersom det ikke er mulig å få disse kostnadene dekket av denne personen eller enheten, kan kostnadene i samsvar med nasjonal lovgivning kreves dekket av enhver person eller enhet som er ansvarlig for transport av varene eller utstyret i forsøket på ulovlig levering, salg, overføring eller eksport.
 
 ### Artikkel 3
 
-1. Det er forbudtå yte, direkte eller indirekte, faglig bistand og formidlingstjenester knyttet til utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IA, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte, direkte eller indirekte, finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg IA, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter eller ved levering av tilknyttet faglig bistand til personer, enheter eller organer i Syria eller til bruk i Syria,forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a) og b) ovenfor.
+1\. Det er forbudtå yte, direkte eller indirekte, faglig bistand og formidlingstjenester knyttet til utstyr, varer eller teknologi som kan brukes til intern undertrykking, eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking, og som er oppført i vedlegg IA, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte, direkte eller indirekte, finansiering eller finansiell bistand knyttet til varer og teknologi oppført i vedlegg IA, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter eller ved levering av tilknyttet faglig bistand til personer, enheter eller organer i Syria eller til bruk i Syria,forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a) og b) ovenfor.
 
-2. [Slettet.]
+2\. [Slettet.]
 
-3. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til at det ytes faglig bistand og formidlingstjenester, eller finansiering eller finansiell bistand, i tilknytning til utstyr, varer eller teknologi som er oppført i vedlegg IA, på betingelse av at utstyret, varene eller teknologien er ment for matvarer, landbruksformål, medisinske eller andre humanitære formål eller på FN-personell eller personell fra EU eller medlemsstatene.Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til første ledd.
+3\. Som unntak fra bestemmelsene i nr. 1 kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til at det ytes faglig bistand og formidlingstjenester, eller finansiering eller finansiell bistand, i tilknytning til utstyr, varer eller teknologi som er oppført i vedlegg IA, på betingelse av at utstyret, varene eller teknologien er ment for matvarer, landbruksformål, medisinske eller andre humanitære formål eller på FN-personell eller personell fra EU eller medlemsstatene.Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til første ledd.
 
-4. Forhåndstillatelse fra den kompetente myndigheten i vedkommende medlemsstat, som angitt på nettsidene oppført i vedlegg III, er påkrevd for yting av følgende tjenester:faglig bistand og formidlingstjenester knyttet til utstyr, varer eller teknologi oppført i vedlegg IX, og i forbindelse med levering, produksjon, vedlikehold og bruk av utstyret, varene og produktene, direkte eller indirekte, til personer, enheter eller organer i Syria eller til bruk i Syria,finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i vedlegg IX, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter og slik teknologi eller ved levering av tilknyttet faglig bistand til personer, enheter eller organer i Syria eller til bruk i Syria.De kompetente myndigheter skal ikke gi tillatelse til transaksjonene nevnt i første ledd dersom det er skjellig grunn til å fastslå at disse transaksjonene er eller kan være ment å bidra til intern undertrykking eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking.
+4\. Forhåndstillatelse fra den kompetente myndigheten i vedkommende medlemsstat, som angitt på nettsidene oppført i vedlegg III, er påkrevd for yting av følgende tjenester:faglig bistand og formidlingstjenester knyttet til utstyr, varer eller teknologi oppført i vedlegg IX, og i forbindelse med levering, produksjon, vedlikehold og bruk av utstyret, varene og produktene, direkte eller indirekte, til personer, enheter eller organer i Syria eller til bruk i Syria,finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i vedlegg IX, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter og slik teknologi eller ved levering av tilknyttet faglig bistand til personer, enheter eller organer i Syria eller til bruk i Syria.De kompetente myndigheter skal ikke gi tillatelse til transaksjonene nevnt i første ledd dersom det er skjellig grunn til å fastslå at disse transaksjonene er eller kan være ment å bidra til intern undertrykking eller til produksjon og vedlikehold av produkter som kan brukes til intern undertrykking.
 
-5. Som unntak fra bestemmelsene i nr. 1 bokstav a) og b) kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand i tilknytning til utstyr, varer eller teknologi oppført i vedlegg IA dersom den faglige bistanden, formidlingstjenestene, finansieringen eller den finansielle bistanden ytes i forbindelse med salg, levering, overføring eller eksport av slikt utstyr, slike varer eller slik teknologi som gjennomføres i samsvar med punkt 10 i FNs sikkerhetsrådsresolusjon 2118 (2013) og relevante beslutninger fra OPCWs eksekutivråd, i samsvar med formålet med konvensjonen om kjemiske våpen og i samråd med OPCW.
+5\. Som unntak fra bestemmelsene i nr. 1 bokstav a) og b) kan de kompetente myndigheter i medlemsstatene, som angitt på nettsidene oppført i vedlegg III, gi tillatelse, på de vilkår de finner hensiktsmessige, til yting av faglig bistand, formidlingstjenester, finansiering eller finansiell bistand i tilknytning til utstyr, varer eller teknologi oppført i vedlegg IA dersom den faglige bistanden, formidlingstjenestene, finansieringen eller den finansielle bistanden ytes i forbindelse med salg, levering, overføring eller eksport av slikt utstyr, slike varer eller slik teknologi som gjennomføres i samsvar med punkt 10 i FNs sikkerhetsrådsresolusjon 2118 (2013) og relevante beslutninger fra OPCWs eksekutivråd, i samsvar med formålet med konvensjonen om kjemiske våpen og i samråd med OPCW.
 
 ### Artikkel 3a
 
@@ -146,19 +148,19 @@ Det er forbudtå yte, direkte eller indirekte, finansiering eller finansiell bis
 
 ### Artikkel 4
 
-1. Det er forbudt å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, teknologi eller programvare som er oppført i vedlegg V, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria, med mindre den relevante medlemsstatens kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse til dette.
+1\. Det er forbudt å selge, levere, overføre eller eksportere, direkte eller indirekte, utstyr, teknologi eller programvare som er oppført i vedlegg V, uavhengig av om det har sin opprinnelse i Den europeiske union eller ikke, til personer, enheter eller organer i Syria eller til bruk i Syria, med mindre den relevante medlemsstatens kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse til dette.
 
-2. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse i henhold til nr. 1 dersom det er skjellig grunn til å fastslå at utstyret, teknologien eller programvaren ville bli brukt av Syrias regjering eller på dens vegne til overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser i Syria.
+2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, skal ikke gi tillatelse i henhold til nr. 1 dersom det er skjellig grunn til å fastslå at utstyret, teknologien eller programvaren ville bli brukt av Syrias regjering eller på dens vegne til overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser i Syria.
 
-3. Vedlegg V inneholder en liste over utstyr, teknologi eller programvare som kan brukes til overvåking eller avlytting av Internett-forbindelser eller telekommunikasjoner.
+3\. Vedlegg V inneholder en liste over utstyr, teknologi eller programvare som kan brukes til overvåking eller avlytting av Internett-forbindelser eller telekommunikasjoner.
 
-4. Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, senest fire uker etter at tillatelsen er gitt.
+4\. Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 5
 
-1. Det er forbudtå yte, direkte eller indirekte, faglig bistand og formidlingstjenester i tilknytning til utstyr, teknologi og programvare som er oppført i vedlegg V, eller i tilknytning til levering, produksjon, vedlikehold og bruk av utstyr og teknologi som er oppført i vedlegg V, eller til levering, installering, drift eller oppdatering av programvare som er oppført i vedlegg V, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte, direkte eller indirekte, finansiering eller finansiell bistand i tilknytning til utstyr, teknologi og programvare som er oppført i vedlegg V, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser, til eller til direkte eller indirekte fordel for staten Syria, den syriske regjeringen, dens offentlige organer, foretak og etater eller til personer eller enheter som handler på deres vegne eller deres instruks, ogforsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a), b) eller c) ovenfor,med mindre den relevante medlemsstatens kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse på det grunnlag som er fastsatt i artikkel 4 nr. 2.
+1\. Det er forbudtå yte, direkte eller indirekte, faglig bistand og formidlingstjenester i tilknytning til utstyr, teknologi og programvare som er oppført i vedlegg V, eller i tilknytning til levering, produksjon, vedlikehold og bruk av utstyr og teknologi som er oppført i vedlegg V, eller til levering, installering, drift eller oppdatering av programvare som er oppført i vedlegg V, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte, direkte eller indirekte, finansiering eller finansiell bistand i tilknytning til utstyr, teknologi og programvare som er oppført i vedlegg V, til personer, enheter eller organer i Syria eller til bruk i Syria,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser, til eller til direkte eller indirekte fordel for staten Syria, den syriske regjeringen, dens offentlige organer, foretak og etater eller til personer eller enheter som handler på deres vegne eller deres instruks, ogforsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i bokstav a), b) eller c) ovenfor,med mindre den relevante medlemsstatens kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, har gitt forhåndstillatelse på det grunnlag som er fastsatt i artikkel 4 nr. 2.
 
-2. Med «overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser» i artikkel 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg V, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjoner og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse og lagring eller enhver annen tilhørende aktivitet.
+2\. Med «overvåking eller avlytting av telekommunikasjoner eller Internett-forbindelser» i artikkel 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg V, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjoner og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse og lagring eller enhver annen tilhørende aktivitet.
 
 ### Artikkel 6. (Opphevet)
 
@@ -186,9 +188,11 @@ Det er forbudtå yte, direkte eller indirekte, finansiering eller finansiell bis
 
 ### Artikkel 11c
 
-1. Det er forbudt å importere, eksportere, overføre eller yte formidlingstjenester knyttet til import, eksport eller overføring av syriske kulturgjenstander og andre gjenstander av arkeologisk, historisk, kulturell, sjelden vitenskapelig eller religiøs betydning, herunder de som er oppført i vedlegg XI, dersom det er skjellig grunn til å tro at gjenstandene er ført ut fra Syria uten den rettmessige eierens samtykke, eller er ført ut i strid med syrisk lovgivning eller folkeretten, særlig dersom gjenstandene utgjør en integrert del av de offentlige samlingene oppført i syriske museer, arkiver eller bibliotekers eller syriske religiøse institusjoners kataloger.
+1\. Det er forbudt å importere, eksportere, overføre eller yte formidlingstjenester knyttet til import, eksport eller overføring av syriske kulturgjenstander og andre gjenstander av arkeologisk, historisk, kulturell, sjelden vitenskapelig eller religiøs betydning, herunder de som er oppført i vedlegg XI, dersom det er skjellig grunn til å tro at gjenstandene er ført ut fra Syria uten den rettmessige eierens samtykke, eller er ført ut i strid med syrisk lovgivning eller folkeretten, særlig dersom gjenstandene utgjør en integrert del av de offentlige samlingene oppført i syriske museer, arkiver eller bibliotekers eller syriske religiøse institusjoners kataloger.
 
-2. Forbudet i nr. 1 gjelder ikke dersom det bevises atgjenstandene ble eksportert fra Syria før 15. mars 2011, ellergjenstandene returneres trygt til sine rettmessige eiere i Syria.
+2\. Forbudet i nr. 1 gjelder ikke dersom det bevises atgjenstandene ble eksportert fra Syria før 15. mars 2011, ellergjenstandene returneres trygt til sine rettmessige eiere i Syria.
+
+6 EUT L 134 av 29.5.2009, s. 1.7 EUT L 253 av 11.10.1993, s. 1.
 
 ### KAPITTEL III
 RESTRIKSJONER PÅ DELTAKELSE I INFRASTRUKTURPROSJEKTER
@@ -207,33 +211,33 @@ FRYSING AV PENGER OG FORMUESGODER
 
 ### Artikkel 14
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av de fysiske eller juridiske personene, enhetene eller organene oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII), skal fryses.
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av de fysiske eller juridiske personene, enhetene eller organene oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII), skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII).
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII).
 
-3. Det er forbudt forsettlig å delta i aktiviteter som direkte eller indirekte har som formål eller følge å omgå tiltakene nevnt i nr. 1 eller 2.
+3\. Det er forbudt forsettlig å delta i aktiviteter som direkte eller indirekte har som formål eller følge å omgå tiltakene nevnt i nr. 1 eller 2.
 
 ### Artikkel 15
 
-1. [Vedlegg II](forskrift/2011-09-02-902/vedleggII) inneholder følgende:[Vedlegg II](forskrift/2011-09-02-902/vedleggII) inneholder en liste over fysiske eller juridiske personer, enheter og organer som, i samsvar med artikkel 19 nr. 1 i beslutning [2011/782/FUSP](eu/32011d0782), av Rådet er identifisert som personer eller enheter som er ansvarlige for den voldelige undertrykkingen av sivilbefolkningen i Syria, personer og enheter som har dratt fordel av eller har støttet al-Assad-regimet, og fysiske eller juridiske personer og enheter som er knyttet til dem, og som ikke omfattes av bestemmelsene i artikkel 21 i denne forordning.
+1\. [Vedlegg II](forskrift/2011-09-02-902/vedleggII) inneholder følgende:[Vedlegg II](forskrift/2011-09-02-902/vedleggII) inneholder en liste over fysiske eller juridiske personer, enheter og organer som, i samsvar med artikkel 19 nr. 1 i beslutning [2011/782/FUSP](eu/32011d0782), av Rådet er identifisert som personer eller enheter som er ansvarlige for den voldelige undertrykkingen av sivilbefolkningen i Syria, personer og enheter som har dratt fordel av eller har støttet al-Assad-regimet, og fysiske eller juridiske personer og enheter som er knyttet til dem, og som ikke omfattes av bestemmelsene i artikkel 21 i denne forordning.
 
 1a. Listen i vedlegg II skal også omfatte fysiske eller juridiske personer, enheter og organer som, i samsvar med artikkel 28 nr. 2 i rådsbeslutning 2013/255/FUSP, av Rådet er identifisert som tilhørende en av følgende kategorier:fremstående næringsdrivende som driver virksomhet i Syria, med tilknytning til det tidligere al-Assad-regimet,medlemmer av al-Assad- eller Makhlouf-familien,ministre i den syriske regjeringen som har vært i stillingen mellom mai 2011 og desember 2024,medlemmer av de syriske væpnede styrker med graden oberst eller tilsvarende eller høyere, som har vært i tjeneste mellom mai 2011 og desember 2024,medlemmer av de syriske sikkerhets- og etterretningstjenestene som har vært i tjeneste mellom mai 2011 og desember 2024,medlemmer av militser med tilknytning til al-Assad-regimet,medlemmer av enheter, avdelinger, agenturer, organer eller institusjoner som opererer innenfor området spredning av kjemiske våpen,samt fysiske eller juridiske personer og enheter som er tilknyttet dem.
 
 1b. Personer, enheter og organer som hører inn under en av kategoriene nevnt i nr. 1a, skal ikke oppføres eller bli stående på listen over personer, enheter og organer i vedlegg II dersom det foreligger tilstrekkelige opplysninger om at de ikke, eller ikke lenger, er tilknyttet det tidligere al-Assad-regimet eller utøver innflytelse på det eller ikke utgjør en reell risiko for omgåelse.
 
-2. Vedlegg II inneholder begrunnelsen for at de berørte personer, enheter og organer er listeført.
+2\. Vedlegg II inneholder begrunnelsen for at de berørte personer, enheter og organer er listeført.
 
-3. Vedlegg II inneholder også, der det er tilgjengelig, nødvendige opplysninger for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+3\. Vedlegg II inneholder også, der det er tilgjengelig, nødvendige opplysninger for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 15a
 
-1. Som unntak fra bestemmelsene i [artikkel 14 nr. 1](forskrift/2011-09-02-902/a14/nummer/1), [2](forskrift/2011-09-02-902/a14/nummer/2) og [3](forskrift/2011-09-02-902/a14/nummer/3) kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i [vedlegg III](forskrift/2011-09-02-902/vedleggIII), gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for enhetene oppført under nr. 42 og 43 i [vedlegg II](forskrift/2011-09-02-902/vedleggII) når det er fastslått at pengene eller formuesgodene er nødvendige for samarbeidet mellom disse enhetene og en medlemsstats statlige enhet eller organ på områdene gjenoppbygging, kapasitetsbygging, bekjempelse av terrorisme og migrasjon.
+1\. Som unntak fra bestemmelsene i [artikkel 14 nr. 1](forskrift/2011-09-02-902/a14/nummer/1), [2](forskrift/2011-09-02-902/a14/nummer/2) og [3](forskrift/2011-09-02-902/a14/nummer/3) kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i [vedlegg III](forskrift/2011-09-02-902/vedleggIII), gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet for enhetene oppført under nr. 42 og 43 i [vedlegg II](forskrift/2011-09-02-902/vedleggII) når det er fastslått at pengene eller formuesgodene er nødvendige for samarbeidet mellom disse enhetene og en medlemsstats statlige enhet eller organ på områdene gjenoppbygging, kapasitetsbygging, bekjempelse av terrorisme og migrasjon.
 
-2. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 1, skal tillatelsen anses som gitt.
+2\. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 1, skal tillatelsen anses som gitt.
 
-3. Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2, senest fire uker etter at tillatelsen er gitt.
+3\. Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2, senest fire uker etter at tillatelsen er gitt.
 
-4. Det er forbudt forsettlig å delta i aktiviteter som direkte eller indirekte har som formål eller virkning å omgå bestemmelsene i nr. 1, 2 og 3.
+4\. Det er forbudt forsettlig å delta i aktiviteter som direkte eller indirekte har som formål eller virkning å omgå bestemmelsene i nr. 1, 2 og 3.
 
 ### Artikkel 16
 
@@ -243,15 +247,15 @@ Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle t
 
 ### Artikkel 16a
 
-1. Forbudene fastsatt i artikkel 14 nr. 1 og nr. 2 får ikke anvendelse med hensyn til å stille til rådighet penger eller formuesgoder som er nødvendige for å sikre at humanitær bistand leveres til rett tid eller for støtte til andre aktiviteter til støtte for grunnleggende menneskelige behov, dersom slik bistand og annen virksomhet utføres av:FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus på FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+1\. Forbudene fastsatt i artikkel 14 nr. 1 og nr. 2 får ikke anvendelse med hensyn til å stille til rådighet penger eller formuesgoder som er nødvendige for å sikre at humanitær bistand leveres til rett tid eller for støtte til andre aktiviteter til støtte for grunnleggende menneskelige behov, dersom slik bistand og annen virksomhet utføres av:FN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus på FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 
-2. Forbudet fastsatt i artikkel 14 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av offentlige organer eller av juridiske personer, enheter eller organer som mottar offentlig finansiering fra EU eller medlemsstatene for å gi humanitær hjelp i Syria eller bistand til sivilbefolkningen i Syria, forutsatt at pengene eller formuesgodene stilles til rådighet for kjøp eller transport av oljeprodukter, eller tilknyttet finansiering eller finansiell bistand, utelukkende med det formål å yte humanitær hjelp i Syria eller bistand til sivilbefolkningen i Syria i samsvar med artikkel 6a nr. 1.
+2\. Forbudet fastsatt i artikkel 14 nr. 2 gjelder ikke penger eller formuesgoder som stilles til rådighet av offentlige organer eller av juridiske personer, enheter eller organer som mottar offentlig finansiering fra EU eller medlemsstatene for å gi humanitær hjelp i Syria eller bistand til sivilbefolkningen i Syria, forutsatt at pengene eller formuesgodene stilles til rådighet for kjøp eller transport av oljeprodukter, eller tilknyttet finansiering eller finansiell bistand, utelukkende med det formål å yte humanitær hjelp i Syria eller bistand til sivilbefolkningen i Syria i samsvar med artikkel 6a nr. 1.
 
-3. I saker som ikke omfattes av nr. 1 eller 2 i denne artikkelen, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra artikkel 14 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
+3\. I saker som ikke omfattes av nr. 1 eller 2 i denne artikkelen, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra artikkel 14 nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
 
-4. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+4\. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
 
-5. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 3 og 4, innen fire uker etter at tillatelsen er gitt.
+5\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 3 og 4, innen fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 16b
 
@@ -263,15 +267,15 @@ Som unntak fra bestemmelsene i artikkel 14 kan medlemsstatenes kompetente myndig
 
 ### Artikkel 18
 
-1. Som unntak fra bestemmelsene i artikkel 14 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen, enheten eller organet nevnt i [artikkel 14](forskrift/2011-09-02-902/a14) ble listeført i [vedlegg II](forskrift/2011-09-02-902/vedleggII), eller for en rettslig eller administrativ beslutning fastsatt i EU, eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for en fysisk eller juridisk person, en enhet eller et organ som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII),anerkjennelse av beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden.
+1\. Som unntak fra bestemmelsene i artikkel 14 kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg III, gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsdom avsagt før den dato den fysiske eller juridiske personen, enheten eller organet nevnt i [artikkel 14](forskrift/2011-09-02-902/a14) ble listeført i [vedlegg II](forskrift/2011-09-02-902/vedleggII), eller for en rettslig eller administrativ beslutning fastsatt i EU, eller en rettslig beslutning som er rettskraftig i vedkommende medlemsstat, før eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik beslutning, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,beslutningen ikke er til fordel for en fysisk eller juridisk person, en enhet eller et organ som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII),anerkjennelse av beslutningen ikke er i strid med vedkommende medlemsstats offentlige orden.
 
-2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om tillatelser som er gitt i henhold til denne artikkel.
+2\. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen om tillatelser som er gitt i henhold til denne artikkel.
 
 ### Artikkel 19
 
-1. Bestemmelsene i artikkel 14 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da kontoen ble omfattet av denne forordning,når disse rentene, avkastningene eller betalingene er frosset i henhold til artikkel 14 nr. 1.beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er fattet i en medlemsstat, eller som er rettskraftige i vedkommende medlemsstat.
+1\. Bestemmelsene i artikkel 14 nr. 2 gjelder ikke beløp som tilføres frosne konti i form avrenter eller andre former for avkastning på disse kontiene, ellerbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da kontoen ble omfattet av denne forordning,når disse rentene, avkastningene eller betalingene er frosset i henhold til artikkel 14 nr. 1.beløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige beslutninger som er fattet i en medlemsstat, eller som er rettskraftige i vedkommende medlemsstat.
 
-2. Bestemmelsene i artikkel 14 nr. 2 skal ikke forhindre finans- eller kredittinstitusjoner i EU i å godskrive frosne konti når de mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
+2\. Bestemmelsene i artikkel 14 nr. 2 skal ikke forhindre finans- eller kredittinstitusjoner i EU i å godskrive frosne konti når de mottar penger overført til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
 ### Artikkel 20
 
@@ -289,9 +293,9 @@ Som unntak fra bestemmelsene i [artikkel 14](forskrift/2011-09-02-902/a14) kan m
 
 ### Artikkel 21c
 
-1. Som unntak fra bestemmelsene i [artikkel 14](forskrift/2011-09-02-902/a14) kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i [vedlegg III](forskrift/2011-09-02-902/vedleggIII), gi tillatelse, på de vilkår de finner hensiktsmessige, til følgende transaksjoner:en overføring fra eller gjennom Commercial Bank of Syria av penger eller økonomiske ressurser fra et sted utenfor EUs territorium som er frosset etter listeføringsdatoen, dersom overføringen gjelder en betaling i forbindelse med en bestemt handelskontrakt om medisinsk utstyr, matvarer, innlosjering, sanitæranlegg eller hygiene til sivil bruk, elleren overføring av penger eller formuesgoder fra et sted utenfor EUs territorium til eller gjennom Commercial Bank of Syria dersom overføringen gjelder en betaling i forbindelse med en bestemt handelskontrakt som har som formål å oppfylle grunnleggende behov hos sivilbefolkningen, herunder medisinsk utstyr, matvarer, innlosjering, sanitæranlegg eller hygiene til sivil bruk,forutsatt at den relevante medlemsstatens kompetente myndigheter i hvert enkelt tilfelle har fastslått at betalingen ikke direkte eller indirekte vil gå til en person eller enhet oppført i vedlegg II, og forutsatt at overføringen ikke ellers er forbudt i henhold til denne forordning.
+1\. Som unntak fra bestemmelsene i [artikkel 14](forskrift/2011-09-02-902/a14) kan medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i [vedlegg III](forskrift/2011-09-02-902/vedleggIII), gi tillatelse, på de vilkår de finner hensiktsmessige, til følgende transaksjoner:en overføring fra eller gjennom Commercial Bank of Syria av penger eller økonomiske ressurser fra et sted utenfor EUs territorium som er frosset etter listeføringsdatoen, dersom overføringen gjelder en betaling i forbindelse med en bestemt handelskontrakt om medisinsk utstyr, matvarer, innlosjering, sanitæranlegg eller hygiene til sivil bruk, elleren overføring av penger eller formuesgoder fra et sted utenfor EUs territorium til eller gjennom Commercial Bank of Syria dersom overføringen gjelder en betaling i forbindelse med en bestemt handelskontrakt som har som formål å oppfylle grunnleggende behov hos sivilbefolkningen, herunder medisinsk utstyr, matvarer, innlosjering, sanitæranlegg eller hygiene til sivil bruk,forutsatt at den relevante medlemsstatens kompetente myndigheter i hvert enkelt tilfelle har fastslått at betalingen ikke direkte eller indirekte vil gå til en person eller enhet oppført i vedlegg II, og forutsatt at overføringen ikke ellers er forbudt i henhold til denne forordning.
 
-2. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkel.
+2\. Medlemsstaten skal informere de andre medlemsstatene og Kommisjonen innen fire uker om tillatelser som er gitt i henhold til denne artikkel.
 
 ### Artikkel 22
 
@@ -320,11 +324,11 @@ GENERELLE BESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### Artikkel 27
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der oppfyllelse eller gjennomføring er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avpersoner, enheter eller organer som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII).andre syriske personer, enheter eller organer, herunder den syriske regjeringen,personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a) eller b).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der oppfyllelse eller gjennomføring er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avpersoner, enheter eller organer som er oppført i [vedlegg II](forskrift/2011-09-02-902/vedleggII).andre syriske personer, enheter eller organer, herunder den syriske regjeringen,personer, enheter eller organer som handler gjennom eller på vegne av personer, enheter eller organer omtalt i bokstav a) eller b).
 
-2. Ved en eventuell rettssak om tvangsfullbyrdelse av krav skal personen som søker å få kravet tvangsfullbyrdet, bære bevisbyrden for at innfrielsen av kravet ikke er forbudt i henhold til nr. 1.
+2\. Ved en eventuell rettssak om tvangsfullbyrdelse av krav skal personen som søker å få kravet tvangsfullbyrdet, bære bevisbyrden for at innfrielsen av kravet ikke er forbudt i henhold til nr. 1.
 
-3. Denne artikkel berører ikke den rett personer, enheter og organer omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
+3\. Denne artikkel berører ikke den rett personer, enheter og organer omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
 
 ### Artikkel 27a
 
@@ -336,9 +340,9 @@ Forbudene fastsatt i denne forordning skal ikke medføre noen form for ansvar fo
 
 ### Artikkel 29
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 14, til de kompetente myndigheter i medlemsstaten der de er bosatt eller befinner seg, som angitt på nettsidene oppført i vedlegg III, og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, ogsamarbeide med denne kompetente myndigheten om verifiseringen av opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organeromgående gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 14, til de kompetente myndigheter i medlemsstaten der de er bosatt eller befinner seg, som angitt på nettsidene oppført i vedlegg III, og gi opplysningene, direkte eller gjennom medlemsstatene, til Kommisjonen, ogsamarbeide med denne kompetente myndigheten om verifiseringen av opplysningene.
 
-2. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
+2\. Enhver opplysning som gis eller mottas i henhold til denne artikkel, skal bare brukes til det formål den gis eller mottas for.
 
 ### Artikkel 30
 
@@ -350,19 +354,19 @@ Kommisjonen har fullmakt til å endre vedlegg III på grunnlag av opplysninger f
 
 ### Artikkel 32
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene i [artikkel 14](forskrift/2011-09-02-902/a14), skal [vedlegg II](forskrift/2011-09-02-902/vedleggII) endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene i [artikkel 14](forskrift/2011-09-02-902/a14), skal [vedlegg II](forskrift/2011-09-02-902/vedleggII) endres tilsvarende.
 
-2. Rådet skal gi melding om beslutning om listeføring som nevnt i nr. 1 i denne artikkel, herunder begrunnelsen for listeføringen, til angjeldende person, enhet eller organ, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, slik at personen, enheten eller organet gis mulighet til å fremsette merknader. I særdeleshet, personer, enheter eller organer som er listeført i vedlegg II på grunnlag av at de hører inn under en av kategoriene i artikkel 15 nr. 1a, kan fremlegge bevis for og komme med merknader om hvorfor de anser oppføringen på listen som uberettiget, til tross for at de hører inn under en av kategoriene.
+2\. Rådet skal gi melding om beslutning om listeføring som nevnt i nr. 1 i denne artikkel, herunder begrunnelsen for listeføringen, til angjeldende person, enhet eller organ, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring, slik at personen, enheten eller organet gis mulighet til å fremsette merknader. I særdeleshet, personer, enheter eller organer som er listeført i vedlegg II på grunnlag av at de hører inn under en av kategoriene i artikkel 15 nr. 1a, kan fremlegge bevis for og komme med merknader om hvorfor de anser oppføringen på listen som uberettiget, til tross for at de hører inn under en av kategoriene.
 
-3. Dersom det kommer merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det kommer merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listene i [vedlegg II](forskrift/2011-09-02-902/vedleggII) skal gjennomgås med jevne mellomrom og minst hver 12. måned.
+4\. Listene i [vedlegg II](forskrift/2011-09-02-902/vedleggII) skal gjennomgås med jevne mellomrom og minst hver 12. måned.
 
 ### Artikkel 33
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene må være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene må være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter 19. januar 2012 og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter 19. januar 2012 og om alle senere endringer.
 
 ### Artikkel 34
 
@@ -389,48 +393,144 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 ## Vedlegg Ia.
 Annex Ia: List of equipment, goods and technology referred to in article 2a
 
+*Part 1*
+
+*Introductory Notes*
+
+1\.
+
 This Part comprises goods, software and technology listed in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).1
+
+2\.
 
 Unless otherwise stated, the reference numbers used in the column below entitled «No» refer to the control list number and the column below entitled «Description» refers to the control descriptions of dual-use items set out in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
 
+3\.
+
 Definitions of terms between 'single quotation marks' are given in a technical note to the relevant item.
+
+4\.
 
 Definitions of terms between «double quotation marks» can be found in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
 
+1 Council Regulation [(EC) No 428/2009](eu/32009r0428*) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transits of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+*General Notes*
+
+1\.
+
 The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components is/are the principal element of the goods and can feasibly be removed or used for other purposes.*NB: In judging whether the controlled component or components is/are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured*.
+
+2\.
 
 The items specified in this Annex include both new and used goods.
 
+*General Technology Note (GTN)*
+
+(To be read in conjunction with Section B of this Part)
+
+1\.
+
 The sale, supply, transfer or export of «technology» which is «required» for the «development», «production» or «use» of goods the sale, supply, transfer or export of which is controlled in Sections A, B, C and D of this Part, is controlled in accordance with the provisions of Section E.
+
+2\.
 
 The «technology» «required» for the «development», «production» or «use» of goods under control remains under control even when it is applicable to non-controlled goods.
 
+3\.
+
 Controls do not apply to that «technology» which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not controlled or the export of which has been authorised in accordance with this Regulation.
+
+4\.
 
 Controls on «technology» transfer do not apply to information «in the public domain», to «basic scientific research» or to the minimum necessary information for patent applications.
 
+*A. EQUIPMENT*
+
+|  |  |
+| --- | --- |
+| **No** | **Description** |
+
+*I.B.1A004*
+
 Protective and detection equipment and components, other than those specified in military goods controls, as follows:Gas masks, filter canisters and decontamination equipment therefore, designed or modified for defence against any of the following, and specially designed components therefor:Biological agents «adapted for use in war»;Radioactive materials «adapted for use in war»;Chemical warfare (CW) agents; or«Riot control agents», including:α-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);[(2-chlorophenyl) methylene] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);2-Chloro-1-phenylethanone, Phenylacyl chloride (ω-chloroacetophenone) (CN) (CAS 532-27-4);Dibenz-(b,f)-1,4-oxazephine (CR) (CAS 257-07-8);10-Chloro-5,10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);Protective suits, gloves and shoes, specially designed or modified for defence against any of the following:Biological agents «adapted for use in war»;Radioactive materials «adapted for use in war»; orChemical warfare (CW) agents;Detection systems, specially designed or modified for detection or identification of any of the following, and specially designed components therefor:Biological agents «adapted for use in war»;Radioactive materials «adapted for use in war»; orChemical warfare (CW) agents;Electronic equipment designed for automatically detecting or identifying the presence of «explosives» residues and utilising «trace detection» techniques (e.g. surface acoustic wave, ion mobility spectrometry, differential mobility spectrometry, mass spectrometry).
+
+*Technical Note*:
+
+*«Trace detection» is defined as the capability to detect less than 1 ppm vapour, or 1 mg solid or liquid*.
+
+*Note 1:* *1A004.d. does not control equipment specially designed for laboratory use*.
+
+*Note 2:* *1A004.d. does not control non-contact walk-through security portals*.
+
+*Note:* *1A004 does not control:*
 
 1. *Personal radiation monitoring dosimeters*;
 2. *Equipment limited by design or function to protect against hazards specific to residential safety or civil industries, including:**mining;**quarrying*;*agriculture*;*pharmaceutical*;*medical*;*veterinary*;*environmental*;*waste management*;*food industry*.
 
+*Technical Notes:*
+
+*1A004 includes equipment and components that have been identified, successfully tested to national standards or otherwise proven effective, for the detection of or defence against radioactive materials «adapted for use in war», biological agents «adapted for use in war», chemical warfare agents, «simulants» or «riot control agents», even if such equipment or components are used in civil industries such as mining, quarrying, agriculture, pharmaceuticals, medical, veterinary, environmental, waste management, or the food industry*.
+
+*«Simulant» is a substance or material that is used in place of toxic agent (chemical or biological) in training, research, testing or evaluation*.
+
+*I.B.9A012*
+
 «Unmanned aerial vehicles» («UAVs»), associated systems, equipment and components, as follows:«UAVs» having any of the following:An autonomous flight control and navigation capability (e.g. an autopilot with an Inertial Navigation System); orCapability of controlled-flight out of the direct vision range involving a human operator (e.g. televisual remote control);Associated systems, equipment and components, as follows:Equipment specially designed for remotely controlling the «UAVs» specified in 9A012.a.;Systems for navigation, attitude, guidance or control, other than those specified in 7A in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) and specially designed to provide autonomous flight control or navigation capability to «UAVs» specified in 9A012.a.;Equipment and components, specially designed to convert a manned «aircraft» to a «UAV» specified in 9A012.a.;Air breathing reciprocating or rotary internal combustion type engines, specially designed or modified to propel «UAVs» at altitudes above 50 000 feet (15 240 metres).
 
+*I.B.9A350*
+
 Spraying or fogging systems, specially designed or modified for fitting to aircraft, «lighter-than-air vehicles» or unmanned aerial vehicles, and specially designed components therefor, as follows:
+
+Complete spraying or fogging systems capable of delivering, from a liquid suspension, an initial droplet «VMD» of less than 50 µm at a flow rate of greater than two litres per minute;
+
+Spray booms or arrays of aerosol generating units capable of delivering, from a liquid suspension, an initial droplet «VMD» of less than 50 µm at a flow rate of greater than two litres per minute;
+
+Aerosol generating units specially designed for fitting to systems specified in 9A350.a. and b.
+
+*Note:* *Aerosol generating units are devices specially designed or modified for fitting to aircraft such as nozzles, rotary drum atomisers and similar devices*.
+
+*Note:* *9A350 does not control spraying or fogging systems and components that are demonstrated not to be capable of delivering biological agents in the form of infectious aerosols*.
+
+*Technical Notes:*
 
 1. *Droplet size for spray equipment or nozzles specially designed for use on aircraft, «lighter-than-air vehicles» or unmanned aerial vehicles should be measured using either of the following:**Doppler laser method*;*Forward laser diffraction method*.
 2. *In 9A350 «VMD» means Volume Median Diameter and for water-based systems this equates to Mass Median Diameter (MMD)*.
 
+*B. TEST AND PRODUCTION EQUIPMENT*
+
+|  |  |
+| --- | --- |
+| **No** | **Description** |
+
+*I.B.2B350*
+
 Chemical manufacturing facilities, equipment and components, as follows:Reaction vessels or reactors, with or without agitators, with total internal (geometric) volume greater than 0,1 m3 (100 litres) and less than 20 m3 (20 000 litres), where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coating or glass lining);Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Agitators for use in reaction vessels or reactors specified in 2B350.a.; and impellers, blades or shafts designed for such agitators, where all surfaces of the agitator that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Storage tanks, containers or receivers with a total internal (geometric) volume greater than 0,1 m3 (100 litres) where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Heat exchangers or condensers with a heat transfer surface area greater than 0,15 m2, and less than 20 m2 ; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Graphite or «carbon graphite»;Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»;Silicon carbide;Titanium carbide; orNiobium (columbium) or niobium «alloys»;Distillation or absorption columns of internal diameter greater than 0,1 m; and liquid distributors, vapour distributors or liquid collectors designed for such distillation or absorption columns, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Graphite or «carbon graphite»;Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Remotely operated filling equipment in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight; orNickel or «alloys» with more than 40 % nickel by weight; 0Valves with «nominal sizes» greater than 10 mm and casings (valve bodies) or preformed casing liners designed for such valves, in which all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»;Niobium (columbium) or niobium «alloys»; orCeramic materials as follows:Silicon carbide with purity of 80 % or more by weight;Aluminium oxide (alumina) with purity of 99,9 % or more by weight;Zirconium oxide (zirconia);*Technical Note*:*The «nominal size» is defined as the smaller of the inlet and outlet diameters*.Multi-walled piping incorporating a leak detection port, in which all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Graphite or «carbon graphite»;Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Multiple-seal and seal-less pumps, with manufacturer's specified maximum flow-rate greater than 0,6 m3 /hour, or vacuum pumps with manufacturer's specified maximum flow-rate greater than 5 m3 /hour (under standard temperature (273 K (0 °C)) and pressure (101,3 kPa) conditions); and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Ceramics;Ferrosilicon (high silicon iron alloys);Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);Glass (including vitrified or enamelled coatings or glass lining);Graphite or «carbon graphite»;Nickel or «alloys» with more than 40 % nickel by weight;Tantalum or tantalum «alloys»;Titanium or titanium «alloys»;Zirconium or zirconium «alloys»; orNiobium (columbium) or niobium «alloys»;Incinerators designed to destroy chemicals specified in entry 1C350, having specially designed waste supply systems, special handling facilities and an average combustion chamber temperature greater than 1 273 K (1 000 °C), in which all surfaces in the waste supply system that come into direct contact with the waste products are made from or lined with any of the following materials:«Alloys» with more than 25 % nickel and 20 % chromium by weight;Ceramics; orNickel or «alloys» with more than 40 % nickel by weight.
+
+*Technical Notes:*
 
 1. *«Carbon graphite» is a composition consisting of amorphous carbon and graphite, in which the graphite content is eight percent or more by weight*.
 2. *For the listed materials in the above entries, the term «alloy» when not accompanied by a specific elemental concentration is understood as identifying those alloys where the identified metal is present in a higher percentage by weight than any other element*.
 
+*I.B.2B351*
+
 Toxic gas monitoring systems and their dedicated detecting components, other than those specified in 1A004, as follows; and detectors; sensor devices; and replaceable sensor cartridges therefor:Designed for continuous operation and usable for the detection of chemical warfare agents or chemicals specified in 1C350, at concentrations of less than 0,3 mg/m3 ; orDesigned for the detection of cholinesterase-inhibiting activity.
 
-Equipment capable of use in handling biological materials, as follows:Complete biological containment facilities at P3, P4 containment level;*Technical Note:**P3 or P4 (BL3, BL4, L3, L4) containment levels are as specified in the WHO Laboratory Biosafety manual (3rd edition Geneva 2004)*.Fermenters capable of cultivation of pathogenic «micro-organisms», viruses or capable of toxin production, without the propagation of aerosols, and having a total capacity of 20 litres or more;*Technical Note:**Fermenters include bioreactors, chemostats and continuous-flow systems*.Centrifugal separators, capable of continuous separation without the propagation of aerosols, having all the following characteristics:Flow rate exceeding 100 litres per hour;Components of polished stainless steel or titanium;One or more sealing joints within the steam containment area; andCapable of in-situ steam sterilisation in a closed state;*Technical Note:**Centrifugal separators include decanters*.Cross (tangential) flow filtration equipment and components as follows:Cross (tangential) flow filtration equipment capable of separation of pathogenic «micro-organisms», viruses, toxins or cell cultures, without the propagation of aerosols, having all of the following characteristics:A total filtration area equal to or greater than 1 m2 ; andHaving either of the following characteristics:Capable of being sterilised or disinfected in-situ; orUsing disposable or single-use filtration components;*Technical Note:**In 2B352.d.1.b. sterilised denotes the elimination of all viable microbes from the equipment through the use of either physical (e.g. steam) or chemical agents. Disinfected denotes the destruction of potential microbial infectivity in the equipment through the use of chemical agents with a germicidal effect. Disinfection and sterilisation are distinct from sanitisation, the latter referring to cleaning procedures designed to lower the microbial content of equipment without necessarily achieving elimination of all microbial infectivity or viability*.Cross (tangential) flow filtration components (e.g. modules, elements, cassettes, cartridges, units or plates) with filtration area equal to or greater than 0,2 m2 for each component and designed for use in cross (tangential) flow filtration equipment specified in 2B352.d.;*Note:**2B352.d. does not control reverse osmosis equipment, as specified by the manufacturer*.Steam sterilisable freeze drying equipment with a condenser capacity exceeding 10 kg of ice in 24 hours and less than 1 000 kg of ice in 24 hours;Protective and containment equipment, as follows:Protective full or half suits, or hoods dependent upon a tethered external air supply and operating under positive pressure;*Note:**2B352.f.1. does not control suits designed to be worn with self-contained breathing apparatus*.Class III biological safety cabinets or isolators with similar performance standards;*Note:**In 2B352.f.2., isolators include flexible isolators, dry boxes, anaerobic chambers, glove boxes and laminar flow hoods (closed with vertical flow)*.Chambers designed for aerosol challenge testing with «micro-organisms», viruses or «toxins» and having a capacity of 1 m3 or greater.
+*I.B.2B352*
+
+Equipment capable of use in handling biological materials, as follows:Complete biological containment facilities at P3, P4 containment level;*Technical Note:**P3 or P4 (BL3, BL4, L3, L4) containment levels are as specified in the WHO Laboratory Biosafety manual (3rd edition Geneva 2004)*.Fermenters capable of cultivation of pathogenic «micro-organisms», viruses or capable of toxin production, without the propagation of aerosols, and having a total capacity of 20 litres or more;*Technical Note:**Fermenters include bioreactors, chemostats and continuous-flow systems*.Centrifugal separators, capable of continuous separation without the propagation of aerosols, having all the following characteristics:Flow rate exceeding 100 litres per hour;Components of polished stainless steel or titanium;One or more sealing joints within the steam containment area; andCapable of in-situ steam sterilisation in a closed state;*Technical Note:**Centrifugal separators include decanters*.Cross (tangential) flow filtration equipment and components as follows:Cross (tangential) flow filtration equipment capable of separation of pathogenic «micro-organisms», viruses, toxins or cell cultures, without the propagation of aerosols, having all of the following characteristics:A total filtration area equal to or greater than 1 m2 ; andHaving either of the following characteristics:Capable of being sterilised or disinfected in-situ; orUsing disposable or single-use filtration components;*Technical Note:**In 2B352.d.1.b. sterilised denotes the elimination of all viable microbes from the equipment through the use of either physical (e.g. steam) or chemical agents. Disinfected denotes the destruction of potential microbial infectivity in the equipment through the use of chemical agents with a germicidal effect. Disinfection and sterilisation are distinct from sanitisation, the latter referring to cleaning procedures designed to lower the microbial content of equipment without necessarily achieving elimination of all microbial infectivity or viability*.Cross (tangential) flow filtration components (e.g. modules, elements, cassettes, cartridges, units or plates) with filtration area equal to or greater than 0,2 m2 for each component and designed for use in cross (tangential) flow filtration equipment specified in 2B352.d.;*Note:* *2B352.d. does not control reverse osmosis equipment, as specified by the manufacturer*.Steam sterilisable freeze drying equipment with a condenser capacity exceeding 10 kg of ice in 24 hours and less than 1 000 kg of ice in 24 hours;Protective and containment equipment, as follows:Protective full or half suits, or hoods dependent upon a tethered external air supply and operating under positive pressure;*Note:* *2B352.f.1. does not control suits designed to be worn with self-contained breathing apparatus*.Class III biological safety cabinets or isolators with similar performance standards;*Note:* *In 2B352.f.2., isolators include flexible isolators, dry boxes, anaerobic chambers, glove boxes and laminar flow hoods (closed with vertical flow)*.Chambers designed for aerosol challenge testing with «micro-organisms», viruses or «toxins» and having a capacity of 1 m3 or greater.
+
+*C. MATERIALS*
+
+|  |  |
+| --- | --- |
+| **No** | **Description** |
+
+*I.B.1C350*
 
 Chemicals, which may be used as precursors for toxic chemical agents, as follows, and «chemical mixtures» containing one or more thereof:
+
+*NB: SEE ALSO MILITARY GOODS CONTROLS AND 1C450*.
 
 1. Thiodiglycol (111-48-8);
 2. Phosphorus oxychloride (10025-87-3);
@@ -496,74 +596,193 @@ Chemicals, which may be used as precursors for toxic chemical agents, as follows
 62. Sodium hexafluorosilicate (16893-85-9);
 63. Methylphosphonothioic dichloride (676-98-2).
 
-Human pathogens, zoonoses and «toxins», as follows:Viruses, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Andes virus;Chapare virus;Chikungunya virus;Choclo virus;Congo-Crimean haemorrhagic fever virus;Dengue fever virus;Dobrava-Belgrade virus;Eastern equine encephalitis virus;Ebola virus;Guanarito virus;Hantaan virus;Hendra virus (Equine morbillivirus);Japanese encephalitis virus;Junin virus;Kyasanur Forest virus;Laguna Negra virus;Lassa fever virus;Louping ill virus;Lujo virus;Lymphocytic choriomeningitis virus;Machupo virus;Marburg virus;Monkey pox virus;Murray Valley encephalitis virus;Nipah virus;Omsk haemorrhagic fever virus;Oropouche virus;Powassan virus;Rift Valley fever virus;Rocio virus;Sabia virus;Seoul virus;Sin nombre virus;St Louis encephalitis virus;Tick-borne encephalitis virus (Russian Spring-Summer encephalitis virus);Variola virus;Venezuelan equine encephalitis virus;Western equine encephalitis virus;Yellow fever virus;Rickettsiae, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Coxiella burnetii;Bartonella quintana (Rochalimaea quintana, Rickettsia quintana);Rickettsia prowasecki;Rickettsia rickettsii;Bacteria, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Bacillus anthracis;Brucella abortus;Brucella melitensis;Brucella suis;Chlamydia psittaci;Clostridium botulinum;Francisella tularensis;Burkholderia mallei (Pseudomonas mallei);Burkholderia pseudomallei (Pseudomonas pseudomallei);Salmonella typhi;Shigella dysenteriae;Vibrio cholerae;Yersinia pestis;Clostridium perfringens epsilon toxin producing types;Enterohaemorrhagic Escherichia coli, serotype O157 and other verotoxin producing serotypes;«Toxins», as follows, and «sub-unit of toxins» thereof:Botulinum toxins;Clostridium perfringens toxins;Conotoxin;Ricin;Saxitoxin;Shiga toxin;Staphylococcus aureus toxins;Tetrodotoxin;Verotoxin and shiga-like ribosome inactivating proteins;Microcystin (Cyanginosin);Aflatoxins;Abrin;Cholera toxin;Diacetoxyscirpenol toxin;T-2 toxin;HT-2 toxin;Modeccin;Volkensin;Viscum album Lectin 1 (Viscumin);*Note:**1C351.d. does not control botulinum toxins or conotoxins in product form meeting all of the following criteria:**Are pharmaceutical formulations designed for human administration in the treatment of medical conditions*;*Are pre-packaged for distribution as medical products*;*Are authorised by a state authority to be marketed as medical products*.Fungi, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Coccidioides immitis;Coccidioides posadasii.*Note:**1C351 does not control «vaccines» or «immunotoxins»*.
+*Note 1:* *For exports to «States not Party to the Chemical Weapons Convention», 1C350 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C350.1, .3, .5, .11, .12, .13, .17, .18, .21, .22, .26, .27, .28, .31, .32, .33, .34, .35, .36, .54, .55, .56, .57 and .63 in which no individually specified chemical constitutes more than 10 % by the weight of the mixture*.
+
+*Note 2:* *1C350 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C350.2, .6, .7, .8, .9, .10, .14, .15, .16, .19, .20, .24, .25, .30, .37, .38, .39, .40, .41, .42, .43, .44, .45, .46, .47, .48, .49, .50, .51, .52, .53, .58, .59, .60, .61 and .62 in which no individually specified chemical constitutes more than 30 % by the weight of the mixture*.
+
+*Note 3:* *1C350 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use*.
+
+*I.B.1C351*
+
+Human pathogens, zoonoses and «toxins», as follows:Viruses, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Andes virus;Chapare virus;Chikungunya virus;Choclo virus;Congo-Crimean haemorrhagic fever virus;Dengue fever virus;Dobrava-Belgrade virus;Eastern equine encephalitis virus;Ebola virus;Guanarito virus;Hantaan virus;Hendra virus (Equine morbillivirus);Japanese encephalitis virus;Junin virus;Kyasanur Forest virus;Laguna Negra virus;Lassa fever virus;Louping ill virus;Lujo virus;Lymphocytic choriomeningitis virus;Machupo virus;Marburg virus;Monkey pox virus;Murray Valley encephalitis virus;Nipah virus;Omsk haemorrhagic fever virus;Oropouche virus;Powassan virus;Rift Valley fever virus;Rocio virus;Sabia virus;Seoul virus;Sin nombre virus;St Louis encephalitis virus;Tick-borne encephalitis virus (Russian Spring-Summer encephalitis virus);Variola virus;Venezuelan equine encephalitis virus;Western equine encephalitis virus;Yellow fever virus;Rickettsiae, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Coxiella burnetii;Bartonella quintana (Rochalimaea quintana, Rickettsia quintana);Rickettsia prowasecki;Rickettsia rickettsii;Bacteria, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Bacillus anthracis;Brucella abortus;Brucella melitensis;Brucella suis;Chlamydia psittaci;Clostridium botulinum;Francisella tularensis;Burkholderia mallei (Pseudomonas mallei);Burkholderia pseudomallei (Pseudomonas pseudomallei);Salmonella typhi;Shigella dysenteriae;Vibrio cholerae;Yersinia pestis;Clostridium perfringens epsilon toxin producing types;Enterohaemorrhagic Escherichia coli, serotype O157 and other verotoxin producing serotypes;«Toxins», as follows, and «sub-unit of toxins» thereof:Botulinum toxins;Clostridium perfringens toxins;Conotoxin;Ricin;Saxitoxin;Shiga toxin;Staphylococcus aureus toxins;Tetrodotoxin;Verotoxin and shiga-like ribosome inactivating proteins;Microcystin (Cyanginosin);Aflatoxins;Abrin;Cholera toxin;Diacetoxyscirpenol toxin;T-2 toxin;HT-2 toxin;Modeccin;Volkensin;Viscum album Lectin 1 (Viscumin);*Note:* *1C351.d. does not control botulinum toxins or conotoxins in product form meeting all of the following criteria:**Are pharmaceutical formulations designed for human administration in the treatment of medical conditions*;*Are pre-packaged for distribution as medical products*;*Are authorised by a state authority to be marketed as medical products*.Fungi, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Coccidioides immitis;Coccidioides posadasii.*Note:* *1C351 does not control «vaccines» or «immunotoxins»*.
+
+*I.B.1C352*
 
 Animal pathogens, as follows:Viruses, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:African swine fever virus;Avian influenza virus, which are:Uncharacterised; orDefined in Annex I(2) to Directive [2005/94/EC](eu/32005l0094*)2 as having high pathogenicity, as follows:Type A viruses with an IVPI (intravenous pathogenicity index) in six-week-old chickens of greater than 1,2; orType A viruses of the subtypes H5 or H7 with genome sequences codified for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other HPAI viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease;Bluetongue virus;Foot and mouth disease virus;Goat pox virus;Porcine herpes virus (Aujeszky's disease);Swine fever virus (Hog cholera virus);Lyssa virus;Newcastle disease virus;Peste des petits ruminants virus;Porcine enterovirus type 9 (swine vesicular disease virus);Rinderpest virus;Sheep pox virus;Teschen disease virus;Vesicular stomatitis virus;Lumpy skin disease virus;African horse sickness virus;Mycoplasmas, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Mycoplasma mycoides subspecies mycoides SC (small colony);Mycoplasma capricolum subspecies capripneumoniae.
 
+*Note:* *1C352 does not control «vaccines»*.
+
+*I.B.1C353*
+
 Genetic elements and genetically modified organisms, as follows:Genetically modified organisms or genetic elements that contain nucleic acid sequences associated with pathogenicity of organisms specified in 1C351.a., 1C351.b., 1C351.c, 1C351.e., 1C352 or 1C354;Genetically modified organisms or genetic elements that contain nucleic acid sequences coding for any of the «toxins» specified in 1C351.d. or «sub-units of toxins» thereof.
+
+*Technical Notes*:
 
 1. *Genetic elements include, inter alia, chromosomes, genomes, plasmids, transposons and vectors whether genetically modified or unmodified*.
 2. *Nucleic acid sequences associated with the pathogenicity of any of the micro-organisms specified in 1C351.a., 1C351.b., 1C351.c., 1C351.e., 1C352 or 1C354 means any sequence specific to the specified micro- organism that:**In itself or through its transcribed or translated products represents a significant hazard to human, animal or plant health; or**Is known to enhance the ability of a specified micro-organism, or any other organism into which it may be inserted or otherwise integrated, to cause serious harm to humans, animals or plant health*.
 
+*Note:* *1C353 does not apply to nucleic acid sequences associated with the pathogenicity of enterohaemorrhagic Escherichia coli, serotype O157 and other verotoxin producing strains, other than those coding for the verotoxin, or for its sub-units*.
+
+*I.B.1C354*
+
 Plant pathogens, as follows:Viruses, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material including living material which has been deliberately inoculated or contaminated with such cultures, as follows:Potato Andean latent tymovirus;Potato spindle tuber viroid;Bacteria, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material which has been deliberately inoculated or contaminated with such cultures, as follows:Xanthomonas albilineans;Xanthomonas campestris pv. citri including strains referred to as Xanthomonas campestris pv. citri types A,B,C,D,E or otherwise classified as Xanthomonas citri, Xanthomonas campestris pv. aurantifolia or Xanthomonas campestris pv. citrumelo;Xanthomonas oryzae pv. Oryzae (Pseudomonas campestris pv. Oryzae);Clavibacter michiganensis subsp. Sepedonicus (Corynebacterium michiganensis subsp. Sepedonicum or Corynebacterium Sepedonicum);Ralstonia solanacearum Races 2 and 3 (Pseudomonas solanacearum Races 2 and 3 or Burkholderia solanacearum Races 2 and 3);Fungi, whether natural, enhanced or modified, either in the form of «isolated live cultures» or as material which has been deliberately inoculated or contaminated with such cultures, as follows:Colletotrichum coffeanum var. virulans (Colletotrichum kahawae);Cochliobolus miyabeanus (Helminthosporium oryzae);Microcyclus ulei (syn. Dothidella ulei);Puccinia graminis (syn. Puccinia graminis f. sp. tritici);Puccinia striiformis (syn. Puccinia glumarum);Magnaporthe grisea (pyricularia grisea/pyricularia oryzae).
+
+*I.B.1C450*
 
 Toxic chemicals and toxic chemical precursors, as follows, and «chemical mixtures» containing one or more thereof:
 
-1. Toxic chemicals, as follows:Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl] phosphorothiolate (78-53-5) and corresponding alkylated or protonated salts;PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene (382-21-8);*SEE MILITARY GOODS CONTROLS FOR BZ: 3-Quinuclidinyl benzilate (6581-06-2);*Phosgene: Carbonyl dichloride (75-44-5);Cyanogen chloride (506-77-4);Hydrogen cyanide (74-90-8);Chloropicrin: Trichloronitromethane (76-06-2);*Note 1:**For exports to «States not Party to the Chemical Weapons Convention», 1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.a.1. and .a.2. in which no individually specified chemical constitutes more than 1 % by the weight of the mixture*.*Note 2:**1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.a.4., .a.5., .a.6. and .a.7. in which no individually specified chemical constitutes more than 30 % by the weight of the mixture*.*Note 3:**1C450 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use*.
-2. Toxic chemical precursors, as follows:Chemicals, other than those specified in the Military Goods Controls or in 1C350, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms;*Note:**1C450.b.1 does not control Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate (944-22-9);*N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] phosphoramidic dihalides, other than N,N-Dimethylaminophosphoryl dichloride;*NB: See 1C350.57. for N,N-Dimethylaminophosphoryl dichloride*.Dialkyl [methyl, ethyl or propyl (normal or iso)] N,N-dialkyl [methyl, ethyl or propyl (normal or iso)]-phosphoramidates, other than Diethyl-N,N-dimethylphosphoramidate which is specified in 1C350;N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethyl-2-chlorides and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethyl chloride or N,N-Diisopropyl-(beta)-aminoethyl chloride hydrochloride which are specified in 1C350;N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethane-2-ols and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethanol (96-80-0) and N,N-Diethylaminoethanol (100-37-8) which are specified in 1C350;*Note:**1C450.b.5. does not control the following:**N,N-Dimethylaminoethanol (108-01-0) and corresponding protonated salts*;*Protonated salts of N,N-Diethylaminoethanol (100-37-8)*.N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethane-2-thiols and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethane thiol which is specified in 1C350;See 1C350 for ethyldiethanolamine (139-87-7);Methyldiethanolamine (105-59-9).*Note 1:**For exports to «States not Party to the Chemical Weapons Convention», 1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.b.1., .b.2., .b.3., .b.4., .b.5. and .b.6. in which no individually specified chemical constitutes more than 10 % by the weight of the mixture*.*Note 2:**1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entry 1C450.b.8. in which no individually specified chemical constitutes more than 30 % by the weight of the mixture*.*Note 3:**1C450 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use*.
+*NB: SEE ALSO ENTRY 1C350, 1C351.d. AND MILITARY GOODS CONTROLS*.
+
+1. Toxic chemicals, as follows:Amiton: O,O-Diethyl S-[2-(diethylamino)ethyl] phosphorothiolate (78-53-5) and corresponding alkylated or protonated salts;PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene (382-21-8);*SEE MILITARY GOODS CONTROLS FOR BZ: 3-Quinuclidinyl benzilate (6581-06-2);*Phosgene: Carbonyl dichloride (75-44-5);Cyanogen chloride (506-77-4);Hydrogen cyanide (74-90-8);Chloropicrin: Trichloronitromethane (76-06-2);*Note 1:* *For exports to «States not Party to the Chemical Weapons Convention», 1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.a.1. and .a.2. in which no individually specified chemical constitutes more than 1 % by the weight of the mixture*.*Note 2:* *1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.a.4., .a.5., .a.6. and .a.7. in which no individually specified chemical constitutes more than 30 % by the weight of the mixture*.*Note 3:* *1C450 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use*.
+2. Toxic chemical precursors, as follows:Chemicals, other than those specified in the Military Goods Controls or in 1C350, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms;*Note:* *1C450.b.1 does not control Fonofos: O-Ethyl S-phenyl ethylphosphonothiolothionate (944-22-9);*N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] phosphoramidic dihalides, other than N,N-Dimethylaminophosphoryl dichloride;*NB: See 1C350.57. for N,N-Dimethylaminophosphoryl dichloride*.Dialkyl [methyl, ethyl or propyl (normal or iso)] N,N-dialkyl [methyl, ethyl or propyl (normal or iso)]-phosphoramidates, other than Diethyl-N,N-dimethylphosphoramidate which is specified in 1C350;N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethyl-2-chlorides and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethyl chloride or N,N-Diisopropyl-(beta)-aminoethyl chloride hydrochloride which are specified in 1C350;N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethane-2-ols and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethanol (96-80-0) and N,N-Diethylaminoethanol (100-37-8) which are specified in 1C350;*Note:* *1C450.b.5. does not control the following:**N,N-Dimethylaminoethanol (108-01-0) and corresponding protonated salts*;*Protonated salts of N,N-Diethylaminoethanol (100-37-8)*.N,N-Dialkyl [methyl, ethyl or propyl (normal or iso)] aminoethane-2-thiols and corresponding protonated salts, other than N,N-Diisopropyl-(beta)-aminoethane thiol which is specified in 1C350;See 1C350 for ethyldiethanolamine (139-87-7);Methyldiethanolamine (105-59-9).*Note 1:* *For exports to «States not Party to the Chemical Weapons Convention», 1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entries 1C450.b.1., .b.2., .b.3., .b.4., .b.5. and .b.6. in which no individually specified chemical constitutes more than 10 % by the weight of the mixture*.*Note 2:* *1C450 does not control «chemical mixtures» containing one or more of the chemicals specified in entry 1C450.b.8. in which no individually specified chemical constitutes more than 30 % by the weight of the mixture*.*Note 3:* *1C450 does not control products identified as consumer goods packaged for retail sale for personal use or packaged for individual use*.
+
+2 Council Directive [2005/94/EC](eu/32005l0094*) of 20 December 2005 on Community measures for the control of avian influenza (OJ L10, 14.1.2006, p. 16).
+
+*D. SOFTWARE*
+
+|  |  |
+| --- | --- |
+| **No** | **Description** |
+
+*I.B.1D003*
 
 «Software» specially designed or modified to enable equipment to perform the functions of equipment specified in 1A004.c. or 1A004.d.
 
+*I.B.2D351*
+
 «Software», other than that specified in 1D003, specially designed for «use» of equipment specified in 2B351.
+
+*I.B.9D001*
 
 «Software» specially designed or modified for the «development» of equipment or «technology», specified in 9A012.
 
+*I.B.9D002*
+
 «Software» specially designed or modified for the «production» of equipment specified in 9A012.
+
+*E. TECHNOLOGY*
+
+|  |  |
+| --- | --- |
+| **No** | **Description** |
+
+*I.B.1E001*
 
 «Technology» according to the General Technology Note for the «development» or «production» of equipment or materials specified in 1A004, 1C350 to 1C354 or 1C450.
 
+*I.B.2E001*
+
 «Technology» according to the General Technology Note for the «development» of equipment or «software» specified in 2B350, 2B351, 2B352 or 2D351.
+
+*I.B.2E002*
 
 «Technology» according to the General Technology Note for the «production» of equipment specified in 2B350, 2B351 or 2B352.
 
+*I.B.2E301*
+
 «Technology» according to the General Technology Note for the «use» of goods specified in 2B350 to 2B352.
+
+*I.B.9E001*
 
 «Technology» according to the General Technology Note for the «development» of equipment or «software», specified in 9A012 or 9A350.
 
+*I.B.9E002*
+
 «Technology» according to the General Technology Note for the «production» of equipment specified in 9A350.
+
+*I.B.9E101*
 
 «Technology» according to the General Technology Note for the «production» of «UAVs» specified in 9A012.
 
+*Technical Note:*
+
+*In 9E101.b. «UAV» means unmanned aerial vehicle systems capable of a range exceeding 300 km*.
+
+*I.B.9E102*
+
 «Technology» according to the General Technology Note for the «use» «UAVs» specified in 9A012.
+
+*Technical Note:*
+
+*In 9E101.b. «UAV» means unmanned aerial vehicle systems capable of a range exceeding 300 km*.
+
+*PART 2*
+
+*Introductory Notes*
+
+1\.
 
 Unless otherwise stated, reference numbers used in the column below entitled «Description» refer to the descriptions of dual-use items set out in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
 
+2\.
+
 A reference number in the column below entitled «Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)» means that the characteristics of the item described in the «Description» column lie outside the parameters set out in the description of the dual-use entry referred to.
+
+3\.
 
 Definitions of terms between 'single quotation marks' are given in a technical note to the relevant item.
 
+4\.
+
 Definitions of terms between «double quotation marks» can be found in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
+
+*General Notes*
+
+1\.
 
 The object of the controls contained in this Annex should not be defeated by the export of any non-controlled goods (including plant) containing one or more controlled components when the controlled component or components is/are the principal element of the goods and can feasibly be removed or used for other purposes.
 *NB: In judging whether the controlled component or components is/are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the controlled component or components as the principal element of the goods being procured*.
 
+2\.
+
 The items specified in this Annex include both new and used goods.
+
+*General Technology Note (GTN)*(To be read in conjunction with Section B of Part 1)
+
+1\.
 
 The sale, supply, transfer or export of «technology» which is «required» for the «development», «production» or «use» of goods the sale, supply, transfer or export of which is controlled in Section I.C.A of this Part, is controlled in accordance with the provisions of Section I.C.B of this Part.
 
+2\.
+
 The «technology» «required» for the «development», «production» or «use» of goods under control remains under control even when it is applicable to non-controlled goods.
+
+3\.
 
 Controls do not apply to that «technology» which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not controlled or the export of which has been authorised in accordance with this Regulation.
 
+4\.
+
 Controls on «technology» transfer do not apply to information «in the public domain», to «basic scientific research» or to the minimum necessary information for patent applications.
+
+*I.C.A. GOODS*
+*(Materials and chemicals)*
+
+|  |  |  |
+| --- | --- | --- |
+| **No** | **Description** | **Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)** |
+
+*I.C.A.001*
 
 Chemicals at 95 % concentration or greater, as follows:Ethylene dichloride, (CAS 107-06-2)
 
+*I.C.A.002*
+
 Chemicals at 95 % concentration or greater, as follows:Nitromethane, (CAS 75-52-5)acid, (CAS 88-89-1)
+
+*I.C.A.003*
 
 Chemicals at 95 % concentration or greater, as follows:Aluminum chloride, (CAS 7446-70-0)Arsenic, (CAS 7440-38-2)Arsenic trioxide, (CAS 1327-53-3)Bis(2-chloroethyl)ethylamine hydrochloride, (CAS 3590-07-6)Bis(2-chloroethyl)methylamine hydrochloride, (CAS 55-86-7)Tris(2-chloroethyl)amine hydrochloride, (CAS 817-09-4)
 
+*TECHNOLOGY*
+
+*B.001*
+
 «Technology» required for the «development», «production» or «use» of the items in Section I.C.A.
+
+*Technical Note:*
+
+*The term «technology» includes «software»*.
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
@@ -589,6 +808,120 @@ Annex III: Websites for information on the competent authorities and address for
 
 [Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]
 
+*A. Competent authorities in each Member State:*
+
+*Belgium*
+
+[http://www.diplomatie.be/eusanctions](https://www.diplomatie.be/eusanctions)
+
+*Bulgaria*
+
+[http://www.mfa.bg/en/pages/135/index.html](https://www.mfa.bg/en/pages/135/index.html)
+
+*Czech Republic*
+
+[http://www.mfcr.cz/mezinarodnisankce](https://www.mfcr.cz/mezinarodnisankce)
+
+*Denmark*
+
+[http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/](https://um.dk/da/politik-og-diplomati/retsorden/sanktioner/)
+
+*Germany*
+
+[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html](https://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html)
+
+*Estonia*
+
+[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+*Ireland*
+
+[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+*Greece*
+
+[http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+*Spain*
+
+[http://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx](https://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx)
+
+*France*
+
+[http://www.diplomatie.gouv.fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/autorites-sanctions/)
+
+*Italy*
+
+[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+
+*Cyprus*
+
+[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)
+
+*Latvia*
+
+[http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+*Lithuania*
+
+[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+*Luxembourg*
+
+[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+
+*Hungary*
+
+[http://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/](https://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/)
+
+*Malta*
+
+[http://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp](https://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp)
+
+*Netherlands*
+
+[www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties](www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties)
+
+*Austria*
+
+[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
+
+*Poland*
+
+[http://www.msz.gov.pl](https://www.msz.gov.pl)
+
+*Portugal*
+
+[http://www.min-nestrangeiros.pt](https://www.min-nestrangeiros.pt)
+
+*Romania*
+
+[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+*Slovenia*
+
+[http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/](https://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/)
+
+*Slovakia*
+
+[http://www.mzv.sk/sk/europske_zalezitosti/sankcie_eu-sankcie_eu](https://www.mzv.sk/sk/europske_zalezitosti/sankcie_eu-sankcie_eu)
+
+*Finland*
+
+[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+*Sweden*
+
+[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+*United Kingdom*
+
+[www.fco.gov.uk/competentauthorities](www.fco.gov.uk/competentauthorities)
+
+*B. Address for notifications to, or other communication with, the European Commission:*
+
+European CommissionService for Foreign Policy Instruments (FPI)EEAS 02/3091049 Bruxelles/BrusselBELGIQUE/BELGIË
+
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 
 ## Vedlegg IV.
@@ -599,11 +932,15 @@ Annex III: Websites for information on the competent authorities and address for
 ## Vedlegg V.
 Annex V: Equipment, technology and software referred to in article 4
 
+*General Note*
+
 Notwithstanding the contents of this Annex, it shall not apply to:equipment, technology or software which are specified in Annex I to Council Regulation [(EC) 428/2009](eu/32009r0428*)1 or the Common Military List; orsoftware which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over the counter transactions;mail order transactions;electronic transactions; ortelephone order transactions; orsoftware which is in the public domain.
 
 The categories A, B, C, D and E refer to the categories referred to in Regulation [(EC) No 428/2009](eu/32009r0428*).
 
 The «equipment, technology and software» referred to in Article 4 is:
+
+*A. List of equipment*
 
 - Deep Packet Inspection equipment
 - Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment
@@ -619,6 +956,44 @@ The «equipment, technology and software» referred to in Article 4 is:
 - Semantic Processing Engine equipment
 - WEP and WPA code breaking equipment
 - Interception equipment for VoIP proprietary and standard protocol
+
+1 Council Regulation [(EC) No 428/2009](eu/32009r0428*) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+2 IMSI stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card and which allows identification of such SIM via GSM and UMTSf networks.
+
+3 MSISDN stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscriptiond in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+4 IMEI stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones asr well as some satellite phones. It is usually found printed inside the battery compartment of the phone. interception (wiretapping) can be specified by its IMEI number as well as IMSI and MSISDN.
+
+5 TMSI stands for Temporary Mobile Subscriber Identity. It isM the identity that is most commonly sent between the mobile and the network.
+
+6 SMS stands for Short Message System.
+
+7 GSM stands for Global System for Mobile Communications.
+
+8 GPS stands for Global Positioning System.
+
+9 GPRS stands for General Package Radio Service.
+
+10 UMTS stands for Universal Mobile Telecommunication System.
+
+11 CDMA stands for Code Division Multiple Access.
+
+12 PSTN stands for Public Switch Telephone Networks.
+
+13 DHCP stands for Dynamic Host Configuration Protocol.
+
+14 SMTP stands for Simple Mail Transfer Protocol.
+
+15 GTP stands for GPRS Tunnelling Protocol.
+
+*B. Not used*
+
+*C. Not used*
+
+*D. «Software» for the «development», «production» or «use» of the equipment specified in A above*.
+
+*E. «Technology» for the «development», «production» or «use» of the equipment specified in A above.*
 
 Equipment, technology and software falling within these categories is within the scope of this Annex only to the extent that it falls within the general description «internet, telephone and satellite communications interception and monitoring systems».
 
@@ -654,6 +1029,8 @@ For the purpose of this Annex «monitoring» means acquisition, extraction, deco
 ## Vedlegg IX.
 Annex IX: List of equipment, goods and technology referred to in article 2b
 
+*Introductory Notes*
+
 1. Unless otherwise stated, reference numbers used in the column below entitled «Description» refer to the descriptions of dual-use items set out in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
 2. A reference number in the column below entitled «Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)» means that the characteristics of the item described in the «Description» column lie outside the parameters set out in the description of the dual-use entry referred to.
 3. Definitions of terms between 'single quotation marks' are given in a technical note to the relevant item.
@@ -668,6 +1045,149 @@ Annex IX: List of equipment, goods and technology referred to in article 2b
 8. The «technology» «required» for the «development», «production» or «use» of goods under control remains under control even when it is applicable to non-controlled goods.
 9. Controls do not apply to that «technology» which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not controlled or the export of which has been authorised in accordance with this Regulation.
 10. Controls on «technology» transfer do not apply to information «in the public domain», to «basic scientific research» or to the minimum necessary information for patent applications.
+
+*IX.A. GOODS*
+
+*IX.A1. Materials, chemicals, «micro-organisms» and «toxins»*
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| *IX.A1.001* | Chemicals at 95 % concentration or greater, as follows:<br>Tributylphosphite, (CAS 102-85-2)<br>Isocyanatomethane, (CAS 624-83-9)<br>Quinaldine, (CAS 91-63-4)<br>2-bromochloroethane, (CAS 107-04-0) |  |
+| *IX.A1.002* | Chemicals at 95 % concentration or greater, as follows:<br>Benzil, (CAS 134-81-6)<br>Diethylamine, (CAS 109-89-7)<br>Diethyl ether, (CAS 60-29-7)<br>Dimethyl ether, (CAS 115-10-6)<br>Dimethylaminoethanol, (CAS 108-01-0) |  |
+| *IX.A1.003* | Chemicals at 95 % concentration or greater, as follows:<br>2-methoxyethanol, (CAS 109-86-4)<br>Butyrylcholinesterase (BCHE)<br>Diethylenetriamine, (CAS 111-40-0)<br>Dichloromethane, (CAS 75-09-3)<br>Dimethylanaline, (CAS 121-69-7)<br>Ethyl bromide, (CAS 74-96-4)<br>Ethyl chloride, (CAS 75-00-3)<br>Ethylamine, (CAS 75-04-7)<br>Hexamine, (CAS 100-97-0)<br>Isopropyl bromide, (CAS 75-26-3)<br>Isopropyl ether, (CAS 108-20-3)<br>Methylamine, (CAS 74-89-5)<br>Methyl bromide, (CAS 74-83-9)<br>Monoisopropylamine, (CAS 75-31-0)<br>Obidoxime chloride, (CAS 114-90-9)<br>Potassium bromide, (CAS 7758-02-3)<br>Pyridine, (CAS 110-86-1)<br>Pyridostigmine bromide, (CAS 101-26-8)<br>Sodium bromide, (CAS 7647-15-6)<br>Sodium metal, (CAS 7440-23-5)<br>Tributylamine, (CAS 102-82-9)<br>Triethylamine, (CAS 121-44-8)<br>Trimethylamine, (CAS 75-50-3) |  |
+
+*IX.A2. Materials Processing*
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| *IX.A2.001* | Floor-mounted fume hoods (walk-in-style) with a minimum nominal width of 2,5 meters. |  |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.002* | Full face-mask air-purifying and air-supplying respirators other than those specified in 1A004 or 2B352f1. | 1A004.a |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.003* | Class II biological safety cabinets or isolators with similar performance standards. | 2B352.f.2 |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.004* | Batch centrifuges with a rotor capacity of 4 litres or greater, usable with biological materials. |  |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.005* | Fermenters capable of cultivation of pathogenic «micro-organisms», viruses or for toxin production, without the propagation of aerosols, having a capacity of 5 litres or more but less than 20 litres. | 2B352.b |
+
+|  |  |  |
+| --- | --- | --- |
+|  | *Technical Note:*<br>*Fermenters include bioreactors, chemostats and continuous-flow systems*. |  |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.007* | Conventional or turbulent air-flow clean-air rooms and self contained fan-HEPA or ULPA filter units that may be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containments facilities. | 2B352.a |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.008* | Chemical manufacturing facilities, equipment and components, other than those specified in 2B350 or A2.009 as follows: | 2B350.a–e<br>2B350.g<br>2B350.i |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | a. Reaction vessels or reactors, with or without agitators, with total internal (geometric) volume greater than 0,1 m3 (100 litres) and less than 20 m3 (20 000 litres), where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | b. Agitators for use in reaction vessels or reactors specified in 2B350.a.; where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | c. Storage tanks, containers or receivers with a total internal (geometric) volume greater than 0,1 m3 (100 litres) where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | d. Heat exchangers or condensers with a heat transfer surface area greater than 0,05 m2, and less than 30 m2 ; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) being processed are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+|  |  |  | *Technical Note:*<br>*The materials used for gaskets and seals and other implementation of sealing functions do not determine the control status of the heat exchanger*. |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | e. Distillation or absorption columns of internal diameter greater than 0,1 m; where all surfaces that come in direct contact with the fluid(s) being processed are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | f. Valves with «nominal sizes» greater than 10 mm and casings (valve bodies) designed for such valves where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon; |  |
+|  |  |  | *Technical Note:*<br>*1. The materials used for gaskets and seals and other implementation of sealing functions do not determine the control status of the valve*.<br>*2. The «nominal size» is defined as the smaller of the inlet and outlet diameters*. |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | g. Multiple-seal and seal-less pumps, with manufacturer's specified maximum flow-rate greater than 0,6 m3 /hour, in which all surfaces that come in direct contact with the chemical(s) being processed are made from the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. Stainless steels with more than or equal to 10,5 % chromium and less than or equal to 1,2 % carbon. |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | h. Vacuum pumps with a manufacturer's specified maximum flow-rate greater than 1 m3 /h (under standard temperature (273 K (0 °C)) and pressure (101,3 kPa) conditions), and casings (pump bodies) and preformed casing-liners, impellers, rotors and jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemicals being processed are made from any of the following materials: |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | 1. «Alloys» with more than 25 % nickel and 20 % chromium by weight; |  |
+|  |  |  | 2. Ceramics; |  |
+|  |  |  | 3. «Ferrosilicon»; |  |
+|  |  |  | 4. Fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight); |  |
+|  |  |  | 5. Glass (including vitrified or enamelled coatings or glass lining); |  |
+|  |  |  | 6. Graphite or «carbon graphite»; |  |
+|  |  |  | 7. Nickel or «alloys» with more than 40 % nickel by weight; |  |
+|  |  |  | 8. Stainless steel with 20 % nickel and 19 % chromium or more by weight; |  |
+|  |  |  | 9. Tantalum or tantalum «alloys»; |  |
+|  |  |  | 10. Titanium or titanium «alloys»; |  |
+|  |  |  | 11. Zirconium or zirconium «alloys»; or |  |
+|  |  |  | 12. Niobium (columbium) or niobium «alloys». |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | *Technical Notes:* |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | *1. The materials used for diaphragms or gaskets and seals and other implementation of sealing functions do not determine the status of control of the pump*.<br>*2. «Carbon graphite» is a composition consisting of amorphous carbon and graphite, in which the graphite content is 8 % or more by weight*.<br>*3. «Ferrosilicons» are silicon iron alloys with more than 8 % silicon by weight or more*.<br><br>*For the listed materials in the above entries, the term «alloy» when not accompanied by a specific elemental concentration is understood as identifying those alloys where the identified metal is present in a higher percentage by weight than any other element*. |  |
+
+|  |  |  |
+| --- | --- | --- |
+| *IX.A2.009* | Chemical manufacturing facilities, equipment and components, other than specified in 2B350 or A2.008 as follows: |  |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | Reaction vessels or reactors, with or without agitators, with a total internal (geometric) volume greater than 0,1 m3 (100 litres) and less than 20 m3 (20 000 litres) where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>Agitators for use in reaction vessels or reactors specified in a. where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>Storage tanks, containers or receivers with a total internal (geometric) volume greater than 0,1 m3 (100 litres) where all surfaces that come in direct contact with the fluid(s) being processed or contained are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>Heat exchangers or condensers with a heat transfer surface area greater than 0,05 m2, and less than 30 m2 ; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) being processed are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>*Technical Note:*<br>*The materials used for gaskets and seals and other implementation of sealing functions do not determine the control status of the heat exchanger*.<br><br>Distillation or absorption columns of internal diameter greater than 0,1 m; and liquid distributors, vapour distributors or liquid collectors, in which all surfaces that come in direct contact with the chemical(s) being processed are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>Valves having a nominal diameter of 10 mm or more, and casings (valve bodies), balls or plugs designed for such valves, in which all surfaces that come in direct contact with the chemical(s) being processed or contained are made from the following materials:<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>*Technical note:*<br>*The «nominal size» is defined as the smaller of the inlet and outlet port diameters*.<br><br>Multiple-seal and seal-less pumps with manufacturer's specified maximum flow-rate greater than 0,6 m3 /hour (measured under standard temperature (273 K or 0 °C) and pressure (101,3 kPa) conditions); and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:<br><br>Ceramics;<br><br>Ferrosilicon (silicon iron alloys with more than 8 % silicon by weight or more);<br><br>Stainless steel with 20 % nickel and 19 % chromium or more by weight;<br><br>*Technical Notes:*<br>*The materials used for diaphragms or gaskets and seals and other implementation of sealing functions do not determine the control status of the pump*.<br>*For the listed materials in the above entries, the term «alloy» when not accompanied by a specific elemental concentration is understood as identifying those alloys where the identified metal is present in a higher percentage by weight than any other element*. |  |
+
+*B. TECHNOLOGY*
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| *IX.B.001* | «Technology» required for the «development», «production» or «use» of the items in Section IX.A.<br>*Technical Note:<br>The term «technology» includes «software»*. |  |
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 

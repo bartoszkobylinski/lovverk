@@ -108,6 +108,8 @@ Kongen kan gi nærmere forskrifter til utfylling og gjennomføring av denne love
 
 Loven gjelder fra den tid1 Roma-vedtektene trer i kraft for Norge.
 
+1 Fra 1 juli 2002, iflg. meddelelse fra Justisdepartementet [18 des 2002 nr. 1614](forskrift/2002-12-18-1614).
+
 ## § 16. (Opphevet)
 
 > Opphevet ved [lov 28 juni 2002 nr. 54](lov/2002-06-28-54).

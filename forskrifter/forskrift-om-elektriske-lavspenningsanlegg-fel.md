@@ -66,6 +66,10 @@ Produkt- og Elektrisitetstilsynet 1. juli 1998.
 
 > Endret ved [forskrift 6 nov 2003 nr. 1316](forskrift/2003-11-06-1316).
 
+1 Forskrift om elektrisk utstyr, forskrift om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område.
+
+2 Forskrift om bruk og vedlikehold av elektromedisinsk utstyr.
+
 ## Kapittel I. Innledende bestemmelser
 
 ### § 1. Formål
@@ -79,6 +83,8 @@ Forskriften gjelder for prosjektering, utførelse, endring og vedlikehold av ele
 Forskriften gjelder ikke for:elektriske forsyningsanlegg omfattende elektriske anlegg for produksjon, overføring og fordeling av elektrisk energi samt visse elektriske anlegg i kraft og transformatorstasjoner samt høyspenningsanlegg i industribedrifter og lignende,elektriske anlegg ombord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende,elektriske anlegg på innretninger som brukes til undersøkelse og leteboring i petroleumsvirksomheten,elektriske anlegg i luftfartøyer, ellerelektroniske telekommunikasjons- og informasjonssystemer.
 
 ### § 3. Definisjoner
+
+*Elektrisk lavspenningsanlegg*
 
 Anlegg med høyeste nominell spenning til og med 1.000 V vekselspenning eller 1.500 V likespenning.
 
@@ -308,6 +314,8 @@ Dette vedlegget inneholder de tilpasninger som er nødvendig for at de normene f
 
 ### Tillatte spenningssystemer
 
+1\. Følgende vekselstrømsystemer kan benyttes på følgende vilkår:
+
 **TN-S:** For alle formål opp til og med 230/400 V unntatt i områder for medisinsk bruk eller for nødstrømforsyning.
 
 For anlegg i industri og for spesielle formål også med nominell spenning 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer og lignende.
@@ -323,6 +331,8 @@ TN-C-system er ikke tillatt i eksplosjonsfarlig område.
 **TT:** For alle formål med nominell spenning opp til og med 230 V, unntatt for områder for medisinsk bruk eller for nødstrømforsyning.
 
 **IT:** For alle formål med nominell spenning opp til og med 230 V. For anlegg i industri og for spesielle formål også med nominell spenning 400, 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer og lignende.
+
+2\. Likeledes kan følgende likestrømsystemer benyttes:
 
 **TN og TT:** For alle formål med nominell spenning opp til og med 230 V, med jordet midtpunkt opp til og med 400 V. Til spesielle formål i anlegg i industri, f.eks. elektrolyse, og for elektriske baneanlegg, opp til og med 1.500 V.
 
@@ -442,6 +452,8 @@ Vedlegget gjengis ikke her. Det kan anskaffes ved å kontakte Direktoratet for s
 
 ## Veiledning til forskrift om elektriske lavspenningsanlegg.
 
+Fastsatt av Produkt- og Elektrisitetstilsynet (nå Direktoratet for samfunnssikkerhet og beredskap) 6. november 1998 med hjemmel i [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 2](lov/1929-05-24-4/§2). Ajour med endring sist 6 nov 2003 nr. 1316.
+
 ### Forord
 
 Forskriften er fastsatt i medhold av [lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr. Formålet med forskriften er å oppnå forsvarlig sikkerhet ved prosjektering, utførelse, endringer og vedlikehold av elektriske lavspenningsanlegg og ved bruk av utstyr tilkoplet slike anlegg.
@@ -482,6 +494,14 @@ Det er innført plikt for enhver som er ansvarlig for prosjektering, utførelse 
 
 Forskriften krever at det ved planlegging av anlegg skal foretas en totalvurdering av alle forhold som vedrører anleggets bruksområde for å sikre at det blir egnet til formålet. Valg av løsning for anlegget skal være basert på vurdering av risiko forbundet med det aktuelle anlegget. Resultatet av denne vurderingen skal inn gå i dokumentasjonen for anlegget.
 
+Produkt- og elektrisitetstilsynet
+
+6\. november 1998
+
+1 Forskrift om elektrisk utstyr, forskrift om utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område.
+
+2 Forskrift om bruk og vedlikehold av elektromedisinsk utstyr.
+
 ### Veiledning til § 1
 
 Elsikkerhet omfatter de faremomenter som elektrisiteten representerer i seg selv, som berøringsfare og brann, til sikkerhetsmessige forhold knyttet til bruk av elektrisitet og elektrisk utstyr. Elsikkerhet omfatter bl.a. følgende:Beskyttelse mot berøringsfare,beskyttelse mot lysbue/varmgang (personskade, brannfare, eksplosjoner),beskyttelse mot lynnedslag,beskyttelse mot elektrostatiske utladninger,beskyttelse mot at elektrisitet forårsaker uønskede kjemiske prosesser (for eksempel koblinger),beskyttelse mot at elektromagnetiske felt får skadelig innvirkning på mennesker og dyr,sikker utførelse, montering og vedlikehold av elektrisk utstyr,sikker systemløsning, utførelse, bruk og vedlikehold av elektriske anlegg,sikre rutiner og sikkerhetstiltak ved arbeid på eller nær elektriske anlegg,elektromagnetisk kompatibilitet (forenlighet),pålitelighet i strømforsyning,kvalitet på strømforsyning,konsekvens-/følgeskader.
@@ -499,6 +519,21 @@ Grensesnittet mellom lavspenningsanlegg (denne forskriften) og elektriske forsyn
 Forskriften omfatter også lavspenningsanlegg i kjøretøyer (elektriske motorvarmere, anlegg i campingvogner, bobiler samt i andre kjøretøy for spesielle formål) som ikke dekkes av bestemmelser forvaltes av Statens Vegvesen, Vegdirektoratet.
 
 Veiledning om forhold som forskriften ikke gjelder for:
+
+Elektriske forsyningsanlegg
+Dekkes av egne forskrifter fastsatt av Produkt- og Elektrisitetstilsynet (fea-f)
+
+Elektriske anlegg ombord i skip og sjøredskaper...
+Dekkes av egne forskrifter fastsatt av Produkt- og Elektrisitetstilsynet (fea-m)
+
+Elektriske anlegg på innretninger i petroleumsvirksomheten
+Forvaltes av Oljedirektoratet
+
+Elektriske anlegg i luftfartøyer
+Forvaltes av Luftfartsverket
+
+Elektroniske telekommunikasjons- og informasjonssystemer
+Forvaltes av Post- og teletilsynet
 
 ### Veiledning til § 6
 
@@ -719,11 +754,27 @@ Dette vedlegget inneholder de tilpasninger som er nødvendig for at de normene f
 
 Følgende vekselstrømsystemer kan benyttes på følgende vilkår:
 
-For anlegg i industri og for spesielle formål også med nominell spenning 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer osv.
+TN-S: For alle formål opp til og med 230/400 V unntatt i områder for medisinsk bruk eller for nødstrømforsyning.
 
 For anlegg i industri og for spesielle formål også med nominell spenning 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer osv.
+
+TN-C-S: For forsyning av anlegg med nominell spenning opp til og med 230/400 V som TN-C-system fram til første fordeling. Til fordeling brukes TN-S-system.
+
+For anlegg i industri og for spesielle formål også med nominell spenning 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer osv.
+
+TN-C-system benyttes ikke til fordeling i bygningsinstallasjoner.
+
+TN-C-system er ikke tillatt i eksplosjonsfarlig område.
+
+TT: For alle formål med nominell spenning opp til og med 230 V, unntatt for områder for medisinsk bruk eller for nødstrømforsyning.
+
+IT: For alle formål med nominell spenning opp til og med 230 V. For anlegg i industri og for spesielle formål også med nominell spenning 400, 690 og 1.000 V, men ikke for lys, romoppvarming og anlegg for styrestrømmer osv.
 
 Likeledes kan følgende likestrømsystemer benyttes:
+
+TN og TT: For alle formål med nominell spenning opp til og med 220 V, med jordet midtpunkt opp til og med 400 V. Til spesielle formål i anlegg i industri, f.eks. elektrolyse, og for elektriske baneanlegg, opp til og med 1.500 V.
+
+IT: For alle formål med nominell spenning opp til og med 220 V. For spesielle industriformål opp til og med 1.500 V. (NEK 400: 312)
 
 ### Belastning av PVC-isolert kabel
 
@@ -845,4 +896,72 @@ Bruk av røranlegg i eksplosjonsfarlige områder anses ikke å oppfylle forskrif
 
 ### Erklæring om at utførelse er i samsvar med forskrift om elektriske lavspenningsanlegg (se § 12)
 
+|  |  |
+| --- | --- |
+| Installatør: | Adresse: |
+
+__________________________________________________________________
+
+|  |  |
+| --- | --- |
+| Type anlegg: | Adresse: |
+
+__________________________________________________________________
+
+Anvendte normer (se forskriftens [§ 10](forskrift/1998-11-06-1060/§10)):
+
+|  |  |
+| --- | --- |
+| Nr | Navn |
+
+Eventuelle andre tekniske spesifikasjoner:
+
+__________________________________________________________________
+
+Undertegnede erklærer at anlegget er kontrollert og oppfyller sikkerhetskravene i forskriftens kapittel V. Dokumentasjon i henhold til [§ 12](forskrift/1998-11-06-1060/§12) er overlevert eier av anlegget.
+
+|  |  |
+| --- | --- |
+| Sted/dato | Underskrift/Firmastempel |
+
+|  |  |
+| --- | --- |
+| Undertegnedes navn (blokkbokstaver): | Stilling: |
+
+__________________________________________________________________
+
 ### Erklæring om at prosjektering er i samsvar med forskrift om elektriske lavspenningsanlegg (se § 12)
+
+|  |  |
+| --- | --- |
+| Prosjektert av: | Adresse: |
+
+__________________________________________________________________
+
+|  |  |
+| --- | --- |
+| Type anlegg: | Adresse: |
+
+__________________________________________________________________
+
+Anvendte normer (se forskriftens [§ 10](forskrift/1998-11-06-1060/§10)):
+
+|  |  |
+| --- | --- |
+| Nr | Navn |
+
+Eventuelle andre tekniske spesifikasjoner:
+
+__________________________________________________________________
+
+Undertegnede erklærer at anlegget er planlagt slik at det oppfyller sikkerhetskravene i forskriftens kapittel V. Dokumentasjon i henhold til [§ 12](forskrift/1998-11-06-1060/§12) er overlevert eier av anlegget.
+
+|  |  |
+| --- | --- |
+| Sted/dato | Underskrift/Firmastempel |
+
+|  |  |
+| --- | --- |
+| Undertegnedes navn (blokkbokstaver): | Stilling: |
+
+__________________________________________________________________

@@ -586,9 +586,11 @@ Fra tidspunktet for forskriftens ikrafttredelse gjøres følgende endringer i an
 
 > Endret ved forskrifter [31 aug 2022 nr. 1521](forskrift/2022-08-31-1521), [29 juni 2023 nr. 1170](forskrift/2023-06-29-1170) (i kraft 1 juli 2023).
 
+1 Fra 16 sep 2022, iflg. res. [16 sep 2022 nr. 1576](forskrift/2022-09-16-1576).
+
 ## Vedlegg I Byttelisten
 
-Vedlegg I, byttelisten, gjengis ikke her, men en oppdatert liste finnes på Direktoratet for medisinske produkters hjemmeside [https://www.legemiddelverket.no](https://www. legemiddelverket.no).
+Vedlegg I, byttelisten, gjengis ikke her, men en oppdatert liste finnes på Direktoratet for medisinske produkters hjemmeside [https://www.legemiddelverket.no](https://www.%20legemiddelverket.no).
 
 > Vedlegget endret navn ved [forskrift 28 juni 2007 nr. 815](forskrift/2007-06-28-815). Vedlegget ble flyttet fra forskrift [27 april 1998 nr. 455](forskrift/1998-04-27-455) ved denne forskriftens ikrafttredelse 16 sep 2022, endret ved forskrift [21 des 2023 nr. 2281](forskrift/2023-12-21-2281) (i kraft 1 jan 2024).
 Byttelisten oppdateres månedlig. Endringene blir ikke kunngjort i Norsk Lovtidend.

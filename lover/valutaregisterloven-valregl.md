@@ -92,6 +92,8 @@ Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
 
 Opplysninger fra Kontrolloppgaven fra kortselskapene, BRAVO-registeret og register over inn- og utførsel av sedler og mynt innhentet med hjemmel i [lov 14. juli 1950 nr. 10](lov/1950-07-14-10) om valutaregulering, kan overføres til registeret som opprettes med hjemmel i denne lov.
 
+1 Fra 1 jan 2005 iflg. [res. 28 mai 2004 nr. 791](forskrift/2004-05-28-791).
+
 ## § 11. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

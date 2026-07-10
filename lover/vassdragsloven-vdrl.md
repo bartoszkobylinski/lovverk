@@ -42,9 +42,9 @@ Mellom eiendommer på samme side av et vassdrag skal grensen, hvis ikke annet f�
 
 ### § 5
 
-1. Enhver har rett til å kreve sin eiendoms grenser i vassdrag fastslått med bindende virkning og oppmerket. Forsåvidt angår grunn som ikke er undergitt eiendomsrett, kan kravet rettes mot eller reises av vedkommende departement.Departementet gir nærmere bestemmelser om kartfesting og merking, jf. lov om eigedomsregistrering.
+1\. Enhver har rett til å kreve sin eiendoms grenser i vassdrag fastslått med bindende virkning og oppmerket. Forsåvidt angår grunn som ikke er undergitt eiendomsrett, kan kravet rettes mot eller reises av vedkommende departement.Departementet gir nærmere bestemmelser om kartfesting og merking, jf. lov om eigedomsregistrering.
 
-2. Mellom eiendommer som ligger på hver sin side av elv, bekk eller innsjø, fastsettes grensen ved skjønn.
+2\. Mellom eiendommer som ligger på hver sin side av elv, bekk eller innsjø, fastsettes grensen ved skjønn.
 
 > Endret ved [lover 15 mai 1992 nr. 47](lov/1992-05-15-47), [17 juni 2005 nr. 101](lov/2005-06-17-101) (ikr. 1 jan 2010 iflg. [res. 5 juni 2009 nr. 600](forskrift/2009-06-05-600)).
 

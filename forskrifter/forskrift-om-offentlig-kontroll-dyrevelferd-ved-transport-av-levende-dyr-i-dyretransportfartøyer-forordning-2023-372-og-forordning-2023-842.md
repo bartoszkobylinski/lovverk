@@ -60,35 +60,55 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/372
 av 17. februar 2023
 om fastsettelse av regler for registrering, lagring og deling av skriftlig dokumentasjon på offentlig kontroll utført på dyretransportfartøyer, om beredskapsplaner for dyretransportfartøyer i nødssituasjoner, om godkjenning av dyretransportfartøyer og om minstekrav for utførselssteder
 
-1. I henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) skal medlemsstatenes vedkommende myndigheter inspisere dyretransportfartøyer før lasting av dyr. Vedkommende myndigheter skal særlig kontrollere at fartøyene er bygget og utstyrt for det antallet og den typen dyr som skal transporteres, og at utstyret nevnt i kapittel IV i vedlegg I til nevnte forordning fortsatt er i god stand.
+EUROPAKOMMISJONEN HAR
 
-2. Medlemsstatenes vedkommende myndigheter registrerer for tiden godkjenningsbevis for kjøretøyer for dyretransport i sine egne elektroniske databaser, som andre medlemsstaters vedkommende myndigheter ikke har tilgang til. Selv om en dokumentkontroll ikke kan erstatte den fysiske inspeksjonen av selve fartøyet, kan en undersøkelse, som en del av en offentlig kontroll, av detaljene i et fartøys godkjenningsbevis gi noen opplysninger om fartøyets overholdelse av kravene i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001). Opplasting og lagring av godkjenningsbevisene sammen med eventuelle godkjenningsopplysninger i en felles elektronisk database bør derfor gjøre det mulig for vedkommende myndigheter å få tilgang til denne informasjonen for å redusere den administrative byrden og lette arbeidet når de utfører offentlig kontroll.
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-3. Godkjenningsopplysningene, som medlemsstatenes vedkommende myndigheter registrerer i den felles elektroniske databasen, bør omfatte godkjenningsbevisets utløpsdato, opplysninger om det maksimale overflatearealet som er tilgjengelig for dyrene, og hvilken type dyr fartøyene kan transportere. Dette bør gjøre det mulig for vedkommende myndigheter som foretar offentlig kontroll, å vurdere om godkjenningen er gyldig på kontrolltidspunktet, og om fartøyet er egnet til å transportere de aktuelle dyrene.
+under henvisning til rådsforordning [(EF) nr. 1/2005](eu/32005r0001) av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255)1, særlig artikkel 30 nr. 2, og
 
-4. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)2 integrerer reglene som gjelder for offentlig kontroll av dyr, i en felles rettslig ramme for å verifisere at Unionens regelverk for den landbruksbaserte næringsmiddelkjeden overholdes.
+ut fra følgende betraktninger:
 
-5. Artikkel 13 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) krever at vedkommende myndigheter utarbeider registreringer av all offentlig kontroll som utføres, på papir eller i elektronisk form. Den angir også hvilke opplysninger som skal tas med i disse registreringene. Inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) før lasting av tamme hestedyr og tamdyr av storfe, sau, geit eller svin på dyretransportfartøyer, bør derfor registreres.
+1\. I henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) skal medlemsstatenes vedkommende myndigheter inspisere dyretransportfartøyer før lasting av dyr. Vedkommende myndigheter skal særlig kontrollere at fartøyene er bygget og utstyrt for det antallet og den typen dyr som skal transporteres, og at utstyret nevnt i kapittel IV i vedlegg I til nevnte forordning fortsatt er i god stand.
 
-6. Artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) krever at vedkommende myndigheter gjennomfører offentlig kontroll, idet det blant annet tas hensyn til driftsansvarliges tidligere resultater i forbindelse med offentlig kontroll og deres overholdelse av unionsreglene, herunder forordning [(EF) nr. 1/2005](eu/32005r0001). Vedkommende myndigheter har ikke tilgang til resultatet av offentlig kontroll som utføres av vedkommende myndigheter i andre medlemsstater. Disse registreringene er imidlertid nødvendige for å treffe velinformerte beslutninger når det utføres inspeksjoner i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001). For korrekt gjennomføring av artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) er det derfor nødvendig å opprette en felles elektronisk database som samler inn og deler opplysningene i godkjenningsbevisene for dyretransportfartøyer og resultatene av deres inspeksjonshistorikk. Dette bør gjøre det mulig for vedkommende myndigheter å raskt få tilgang til disse opplysningene, redusere den administrative byrden og lette arbeidet når de utfører offentlig kontroll.
+2\. Medlemsstatenes vedkommende myndigheter registrerer for tiden godkjenningsbevis for kjøretøyer for dyretransport i sine egne elektroniske databaser, som andre medlemsstaters vedkommende myndigheter ikke har tilgang til. Selv om en dokumentkontroll ikke kan erstatte den fysiske inspeksjonen av selve fartøyet, kan en undersøkelse, som en del av en offentlig kontroll, av detaljene i et fartøys godkjenningsbevis gi noen opplysninger om fartøyets overholdelse av kravene i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001). Opplasting og lagring av godkjenningsbevisene sammen med eventuelle godkjenningsopplysninger i en felles elektronisk database bør derfor gjøre det mulig for vedkommende myndigheter å få tilgang til denne informasjonen for å redusere den administrative byrden og lette arbeidet når de utfører offentlig kontroll.
 
-7. I henhold til europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016)3 skal alle medlemsstater med sjøhavner foreta havnestatskontrollinspeksjoner av skip som anløper deres havner. Resultatene av havnestatskontrollinspeksjonene er objektive og kontrollerbare, og kan være relevante for inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), for eksempel påviste mangler knyttet til vanntetthet, ventilasjon, oppdrift eller brannslokkingsutstyr. Det er derfor nødvendig å inkludere de relevante offentlig tilgjengelige resultatene av havnestatskontrollinspeksjoner i den felles elektroniske databasen.
+3\. Godkjenningsopplysningene, som medlemsstatenes vedkommende myndigheter registrerer i den felles elektroniske databasen, bør omfatte godkjenningsbevisets utløpsdato, opplysninger om det maksimale overflatearealet som er tilgjengelig for dyrene, og hvilken type dyr fartøyene kan transportere. Dette bør gjøre det mulig for vedkommende myndigheter som foretar offentlig kontroll, å vurdere om godkjenningen er gyldig på kontrolltidspunktet, og om fartøyet er egnet til å transportere de aktuelle dyrene.
 
-8. Kommisjonen har gjennomført en rekke revisjoner av medlemsstatenes offentlige kontrollsystemer for å beskytte dyrevelferden under sjøtransport til tredjestater ved hjelp av dyretransportfartøyer. Etter påvisning av svakheter i medlemsstatenes ordninger for offentlig kontroll av godkjenning av sjøtransportører som følge av disse revisjonene bør vedkommende myndigheter sørge for at beredskapsplanene som fremlegges av transportører i henhold til artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001), tilpasses for å håndtere de viktigste krisesituasjonene de kan møte på den aktuelle turen.
+4\. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)2 integrerer reglene som gjelder for offentlig kontroll av dyr, i en felles rettslig ramme for å verifisere at Unionens regelverk for den landbruksbaserte næringsmiddelkjeden overholdes.
 
-9. For å få tilstrekkelig tid til å vurdere opplysningene i dokumentasjonen som er mottatt fra en søker om godkjenningsbevis i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), til å forberede en grundig fysisk inspeksjon av et dyretransportfartøy og til å kontrollere om et dyretransportfartøy oppfyller kravene til godkjenningsbevis, bør søkeren sende søknaden om godkjenning til vedkommende myndigheter minst 20 dager før datoen for inspeksjon av dyretransportfartøyet.
+5\. Artikkel 13 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) krever at vedkommende myndigheter utarbeider registreringer av all offentlig kontroll som utføres, på papir eller i elektronisk form. Den angir også hvilke opplysninger som skal tas med i disse registreringene. Inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) før lasting av tamme hestedyr og tamdyr av storfe, sau, geit eller svin på dyretransportfartøyer, bør derfor registreres.
 
-10. På grunnlag av sine erfaringer med transport av dyr med dyretransportfartøyer utviklet medlemsstatenes eksperter, herunder nasjonale kontaktpunkter for vern av dyr under transport, i 2014 et nettverksdokument4 for å gi veiledning for offentlig kontroll av dyrevelferd ved eksport med dyretransportfartøyer, slik det kreves i henhold til forordning [(EF) nr. 1/2005](eu/32005r0001) («nettverksdokumentet»). Retningslinjene i nettverksdokumentet ble oppdatert i januar 2020 i lys av erfaringene med å anvende nettverksdokumentet og Kommisjonens revisjoner.
+6\. Artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625) krever at vedkommende myndigheter gjennomfører offentlig kontroll, idet det blant annet tas hensyn til driftsansvarliges tidligere resultater i forbindelse med offentlig kontroll og deres overholdelse av unionsreglene, herunder forordning [(EF) nr. 1/2005](eu/32005r0001). Vedkommende myndigheter har ikke tilgang til resultatet av offentlig kontroll som utføres av vedkommende myndigheter i andre medlemsstater. Disse registreringene er imidlertid nødvendige for å treffe velinformerte beslutninger når det utføres inspeksjoner i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001). For korrekt gjennomføring av artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) er det derfor nødvendig å opprette en felles elektronisk database som samler inn og deler opplysningene i godkjenningsbevisene for dyretransportfartøyer og resultatene av deres inspeksjonshistorikk. Dette bør gjøre det mulig for vedkommende myndigheter å raskt få tilgang til disse opplysningene, redusere den administrative byrden og lette arbeidet når de utfører offentlig kontroll.
 
-11. Inspektører fra vedkommende myndigheter som utfører inspeksjoner på dyretransportfartøyer, er for det meste offentlige veterinærer. Veterinærkompetanse alene er ikke tilstrekkelig til å kontrollere hvordan de mekaniske systemene og systemene for håndtering av dyretransportfartøyer fungerer, noe som kan påvirke velferden til dyrene som transporteres. Som foreslått i nettverksdokumentet bør gruppene som utfører inspeksjoner med henblikk på å utstede godkjenningsbevis, fastsatt i artikkel 19 i forordning [(EF) nr. 1/2005](eu/32005r0001), bestå av offentlige veterinærer og sjøfartseksperter med relevant kompetanse på disse mekaniske systemene og forvaltningssystemene og praktisk erfaring med drift av dyretransportfartøyer.
+7\. I henhold til europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016)3 skal alle medlemsstater med sjøhavner foreta havnestatskontrollinspeksjoner av skip som anløper deres havner. Resultatene av havnestatskontrollinspeksjonene er objektive og kontrollerbare, og kan være relevante for inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), for eksempel påviste mangler knyttet til vanntetthet, ventilasjon, oppdrift eller brannslokkingsutstyr. Det er derfor nødvendig å inkludere de relevante offentlig tilgjengelige resultatene av havnestatskontrollinspeksjoner i den felles elektroniske databasen.
 
-12. Godkjenning av et dyretransportfartøy i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) eller fornyelse av en slik godkjenning bør være betinget av resultatene av en inspeksjon utført av en offentlig veterinær om bord på den første turen med sendinger av dyr for å kontrollere at dyretransportfartøyets mekaniske systemer og forvaltningssystemer ikke er til skade for dyrevelferden om bord på turen.
+8\. Kommisjonen har gjennomført en rekke revisjoner av medlemsstatenes offentlige kontrollsystemer for å beskytte dyrevelferden under sjøtransport til tredjestater ved hjelp av dyretransportfartøyer. Etter påvisning av svakheter i medlemsstatenes ordninger for offentlig kontroll av godkjenning av sjøtransportører som følge av disse revisjonene bør vedkommende myndigheter sørge for at beredskapsplanene som fremlegges av transportører i henhold til artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001), tilpasses for å håndtere de viktigste krisesituasjonene de kan møte på den aktuelle turen.
 
-13. For å sikre at dyr som transporteres fra andre medlemsstater eller på lange reiser på landeveien fra avgangsstedet til utførselsstedene i havnene, kan losses på en sikker måte og fôres, vannes og få hvile, bør minst én kontrollstasjon som nevnt i artikkel 1 nr. 1 i rådsforordning [(EF) nr. 1255/97](eu/31997r1255)5 være tilgjengelig ved utførselsstedene i havnene, eller innen to timers veiavstand fra det aktuelle utførselsstedet.
+9\. For å få tilstrekkelig tid til å vurdere opplysningene i dokumentasjonen som er mottatt fra en søker om godkjenningsbevis i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), til å forberede en grundig fysisk inspeksjon av et dyretransportfartøy og til å kontrollere om et dyretransportfartøy oppfyller kravene til godkjenningsbevis, bør søkeren sende søknaden om godkjenning til vedkommende myndigheter minst 20 dager før datoen for inspeksjon av dyretransportfartøyet.
 
-14. For at medlemsstatene om nødvendig skal kunne tildele personell og ressurser til de nye oppgavene og forpliktelsene fastsatt i denne forordningen, for å sikre en smidig og sømløs tilpasning til de nye reglene og for å sikre at medlemsstatene har tilstrekkelig tid til å bygge kontrollstasjoner ved utførselsstedene, får artikkel 10 i denne forordningen om tilstedeværelse av en veterinær om bord og artikkel 11 i denne forordningen om kontrollstasjonene ved utførselsstedene anvendelse først fra 1. januar 2024.
+10\. På grunnlag av sine erfaringer med transport av dyr med dyretransportfartøyer utviklet medlemsstatenes eksperter, herunder nasjonale kontaktpunkter for vern av dyr under transport, i 2014 et nettverksdokument4 for å gi veiledning for offentlig kontroll av dyrevelferd ved eksport med dyretransportfartøyer, slik det kreves i henhold til forordning [(EF) nr. 1/2005](eu/32005r0001) («nettverksdokumentet»). Retningslinjene i nettverksdokumentet ble oppdatert i januar 2020 i lys av erfaringene med å anvende nettverksdokumentet og Kommisjonens revisjoner.
 
-15. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+11\. Inspektører fra vedkommende myndigheter som utfører inspeksjoner på dyretransportfartøyer, er for det meste offentlige veterinærer. Veterinærkompetanse alene er ikke tilstrekkelig til å kontrollere hvordan de mekaniske systemene og systemene for håndtering av dyretransportfartøyer fungerer, noe som kan påvirke velferden til dyrene som transporteres. Som foreslått i nettverksdokumentet bør gruppene som utfører inspeksjoner med henblikk på å utstede godkjenningsbevis, fastsatt i artikkel 19 i forordning [(EF) nr. 1/2005](eu/32005r0001), bestå av offentlige veterinærer og sjøfartseksperter med relevant kompetanse på disse mekaniske systemene og forvaltningssystemene og praktisk erfaring med drift av dyretransportfartøyer.
+
+12\. Godkjenning av et dyretransportfartøy i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) eller fornyelse av en slik godkjenning bør være betinget av resultatene av en inspeksjon utført av en offentlig veterinær om bord på den første turen med sendinger av dyr for å kontrollere at dyretransportfartøyets mekaniske systemer og forvaltningssystemer ikke er til skade for dyrevelferden om bord på turen.
+
+13\. For å sikre at dyr som transporteres fra andre medlemsstater eller på lange reiser på landeveien fra avgangsstedet til utførselsstedene i havnene, kan losses på en sikker måte og fôres, vannes og få hvile, bør minst én kontrollstasjon som nevnt i artikkel 1 nr. 1 i rådsforordning [(EF) nr. 1255/97](eu/31997r1255)5 være tilgjengelig ved utførselsstedene i havnene, eller innen to timers veiavstand fra det aktuelle utførselsstedet.
+
+14\. For at medlemsstatene om nødvendig skal kunne tildele personell og ressurser til de nye oppgavene og forpliktelsene fastsatt i denne forordningen, for å sikre en smidig og sømløs tilpasning til de nye reglene og for å sikre at medlemsstatene har tilstrekkelig tid til å bygge kontrollstasjoner ved utførselsstedene, får artikkel 10 i denne forordningen om tilstedeværelse av en veterinær om bord og artikkel 11 i denne forordningen om kontrollstasjonene ved utførselsstedene anvendelse først fra 1. januar 2024.
+
+15\. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 3 av 5.1.2005, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
+
+3 Europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016) av 23. april 2009 om havnestatskontroll (EUT L 131 av 28.5.2009, s. 57).
+
+4 Nettverksdokument om dyretransportfartøyer, tilgjengelig på [https://circabc.europa.eu/ui/group/f41c4e1d-22a1-4e7b-aa31-cd16f126037d/library/d1bdd5a7-2e73-4f9a-97e2-c0975fc713a1/details](https://circabc.europa.eu/ui/group/f41c4e1d-22a1-4e7b-aa31-cd16f126037d/library/d1bdd5a7-2e73-4f9a-97e2-c0975fc713a1/details).
+
+5 Rådsforordning [(EF) nr. 1255/97](eu/31997r1255) av 25. juni 1997 om fellesskapskriterier for kontrollstasjoner og om endring av reiseplanen nevnt i vedlegget til direktiv [91/628/EØF](eu/31991l0628) (EFT L 174 av 2.7.1997, s. 1).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
@@ -100,33 +120,33 @@ I denne forordningen menes med «havnestatskontrollinspeksjon» en inspeksjon so
 
 ### Artikkel 3. Elektronisk database
 
-1. Kommisjonen skal utvikle og sikre drift, vedlikehold, støtte og enhver nødvendig oppdatering eller videreutvikling av en elektronisk database.
+1\. Kommisjonen skal utvikle og sikre drift, vedlikehold, støtte og enhver nødvendig oppdatering eller videreutvikling av en elektronisk database.
 
-2. Den elektroniske databasen skal inneholde de opplysningene som er nødvendige for de inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), herundergodkjenningsopplysningene i godkjenningsbevisene for dyretransportfartøyer på en måte som gjør det mulig for medlemsstatenes vedkommende myndigheter raskt å identifisere dyretransportfartøyene,registreringer av tidligere inspeksjoner utført av medlemsstatenes vedkommende myndigheter på dyretransportfartøyer i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),offentlig tilgjengelige opplysninger om resultatet av havnestatskontrollinspeksjoner.
+2\. Den elektroniske databasen skal inneholde de opplysningene som er nødvendige for de inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), herundergodkjenningsopplysningene i godkjenningsbevisene for dyretransportfartøyer på en måte som gjør det mulig for medlemsstatenes vedkommende myndigheter raskt å identifisere dyretransportfartøyene,registreringer av tidligere inspeksjoner utført av medlemsstatenes vedkommende myndigheter på dyretransportfartøyer i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001),offentlig tilgjengelige opplysninger om resultatet av havnestatskontrollinspeksjoner.
 
-3. Kommisjonen skal gi medlemsstatenes vedkommende myndigheter tilgang til den elektroniske databasen med henblikk på artikkel 4, 5 og 6.
+3\. Kommisjonen skal gi medlemsstatenes vedkommende myndigheter tilgang til den elektroniske databasen med henblikk på artikkel 4, 5 og 6.
 
-4. Medlemsstatenes vedkommende myndigheter skal hver utpeke minst én nasjonal administrator og underrette Kommisjonen om dette sammen med kontaktopplysninger. De skal umiddelbart underrette Kommisjonen om eventuelle endringer med hensyn til nasjonale administratorer.
+4\. Medlemsstatenes vedkommende myndigheter skal hver utpeke minst én nasjonal administrator og underrette Kommisjonen om dette sammen med kontaktopplysninger. De skal umiddelbart underrette Kommisjonen om eventuelle endringer med hensyn til nasjonale administratorer.
 
-5. Medlemsstatenes vedkommende myndigheter har ansvar for de dataene og dokumentene de legger inn eller utarbeider i databasen.
+5\. Medlemsstatenes vedkommende myndigheter har ansvar for de dataene og dokumentene de legger inn eller utarbeider i databasen.
 
 ### Artikkel 4. Registrering av sertifiseringer for godkjenning av dyretransportfartøyer
 
-1. Medlemsstatenes vedkommende myndigheter skal registrere godkjenningsbevisene for dyretransportfartøyer som omhandlet i artikkel 19 nr. 4 i forordning [(EF) nr. 1/2005](eu/32005r0001) i den elektroniske databasen omhandlet i artikkel 3 i denne forordningen.
+1\. Medlemsstatenes vedkommende myndigheter skal registrere godkjenningsbevisene for dyretransportfartøyer som omhandlet i artikkel 19 nr. 4 i forordning [(EF) nr. 1/2005](eu/32005r0001) i den elektroniske databasen omhandlet i artikkel 3 i denne forordningen.
 
-2. Godkjenningsbevisene nevnt i nr. 1 skal omfatte bevisenes utløpsdato, opplysninger om det maksimale arealet som er tilgjengelig for dyrene, og hvilken type dyr fartøyene kan transportere.
+2\. Godkjenningsbevisene nevnt i nr. 1 skal omfatte bevisenes utløpsdato, opplysninger om det maksimale arealet som er tilgjengelig for dyrene, og hvilken type dyr fartøyene kan transportere.
 
 ### Artikkel 5. Registrering av inspeksjoner
 
-1. Etter en inspeksjon skal medlemsstatenes vedkommende myndigheter uten utilbørlig forsinkelse registrere inspeksjonen som er utført på dyretransportfartøyene i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), i den elektroniske databasen omhandlet i artikkel 3 i denne forordningen.
+1\. Etter en inspeksjon skal medlemsstatenes vedkommende myndigheter uten utilbørlig forsinkelse registrere inspeksjonen som er utført på dyretransportfartøyene i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), i den elektroniske databasen omhandlet i artikkel 3 i denne forordningen.
 
-2. Registrene over inspeksjoner omhandlet i nr. 1 i denne artikkel skal inneholde elementene fastsatt i artikkel 13 nr. 1 andre ledd i forordning [(EU) 2017/625](eu/32017r0625).
+2\. Registrene over inspeksjoner omhandlet i nr. 1 i denne artikkel skal inneholde elementene fastsatt i artikkel 13 nr. 1 andre ledd i forordning [(EU) 2017/625](eu/32017r0625).
 
 ### Artikkel 6. Tilgang til godkjenningsbevisene for dyretransportfartøyer og registre over tidligere inspeksjoner
 
-1. Kommisjonen skal sikre at den elektroniske databasen nevnt i artikkel 3 i denne forordningen gjør det mulig å hente ut alle relevante data som medlemsstatenes vedkommende myndigheter har registrert med henblikk på å overvåke gjennomføringen av artikkel 19 og 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+1\. Kommisjonen skal sikre at den elektroniske databasen nevnt i artikkel 3 i denne forordningen gjør det mulig å hente ut alle relevante data som medlemsstatenes vedkommende myndigheter har registrert med henblikk på å overvåke gjennomføringen av artikkel 19 og 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
 
-2. Medlemsstatenes vedkommende myndigheter skal ha tilgang til alle opplysninger som er registrert i den elektroniske databasen, og som er nødvendige for åkontrollere at dyretransportfartøyer har et gyldig godkjenningsbevis,treffe velinformerte beslutninger ved inspeksjon av dyretransportfartøyer under lasting i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+2\. Medlemsstatenes vedkommende myndigheter skal ha tilgang til alle opplysninger som er registrert i den elektroniske databasen, og som er nødvendige for åkontrollere at dyretransportfartøyer har et gyldig godkjenningsbevis,treffe velinformerte beslutninger ved inspeksjon av dyretransportfartøyer under lasting i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001).
 
 ### Artikkel 7. Beredskapsplaner for nødssituasjoner for dyretransportfartøyer
 
@@ -138,19 +158,19 @@ Søkeren skal sende søknaden om godkjenningsbevis for et dyretransportfartøy t
 
 ### Artikkel 9. Inspeksjonsgruppe for dyretransportfartøyer
 
-1. Vedkommende myndigheter skal sikre at inspeksjoner med henblikk på å utstede godkjenningsbevis, fastsatt i artikkel 19 i forordning [(EF) nr. 1/2005](eu/32005r0001), utføres av en gruppe inspektører.
+1\. Vedkommende myndigheter skal sikre at inspeksjoner med henblikk på å utstede godkjenningsbevis, fastsatt i artikkel 19 i forordning [(EF) nr. 1/2005](eu/32005r0001), utføres av en gruppe inspektører.
 
-2. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+2\. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
 
-3. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), og som ikke er begrenset med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er godkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
+3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), og som ikke er begrenset med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er godkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
 
 ### Artikkel 10. Offentlig kontroll utført av en offentlig veterinær om bord på dyretransportfartøyer
 
-1. En offentlig veterinær skal utføre offentlig kontroll om bord på et dyretransportfartøy under hele den første turen til fartøyet med forsendelser av dyr etter godkjenning av dyretransportfartøyet i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) og før fornyelse av en slik godkjenning.
+1\. En offentlig veterinær skal utføre offentlig kontroll om bord på et dyretransportfartøy under hele den første turen til fartøyet med forsendelser av dyr etter godkjenning av dyretransportfartøyet i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001) og før fornyelse av en slik godkjenning.
 
-2. Godkjenningen av dyretransportfartøyet suspenderes med mindrekontrollene nevnt i nr. 1 viser at dyretransportfartøyets konstruksjon og utstyr ikke er til skade for dyrenes velferd om bord, ogtransportøren treffer effektive korrigerende tiltak dersom resultatene av kontrollene nevnt i nr. 1 påviser andre mangler.
+2\. Godkjenningen av dyretransportfartøyet suspenderes med mindrekontrollene nevnt i nr. 1 viser at dyretransportfartøyets konstruksjon og utstyr ikke er til skade for dyrenes velferd om bord, ogtransportøren treffer effektive korrigerende tiltak dersom resultatene av kontrollene nevnt i nr. 1 påviser andre mangler.
 
-3. For utførelsen av kontrollene nevnt i nr. 1 skal den offentlige veterinæren fylle ut en rapport om kontrollen om bord under reisen i samsvar med modellen i vedlegget.
+3\. For utførelsen av kontrollene nevnt i nr. 1 skal den offentlige veterinæren fylle ut en rapport om kontrollen om bord under reisen i samsvar med modellen i vedlegget.
 
 ### Artikkel 11. Minstekrav til kontrollstasjoner ved utførselssteder ved havner
 
@@ -162,13 +182,45 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Artikkel 10 og 11 får anvendelse fra 1. januar 2024.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. februar 2023.
 
-Utferdiget i Brussel 17. februar 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |
 
 ### VEDLEGG
 **RAPPORT OM FYSISK KONTROLL OMBORD UNDER TRANSPORTEN**
 (nevnt i artikkel 10)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1. Generelt |  |  |  |
+| Fartøyets navn |  | Fartøyets IMO-nummer |  |
+| Land for godkjenning/fornyelse av godkjenning |  | Dato for godkjenning/fornyelse av godkjenning |  |
+| Kapteinens navn |  | Godkjenningsbevisets nummer |  |
+| 2. Type transport |  |  |  |
+| ☐ Første tur etter godkjenning<br>☐ Første tur etter ny godkjenning |  |  |  |
+| 3. Avgangs- og bestemmelsessted |  |  |  |
+| 3.1. Utførselssted og avgangsland |  | 3.2. Bestemmelsessted og -land |  |
+| 3.1.1. Dato | 3.1.2. Klokkeslett | 3.2.1. Dato | 3.2.2. Klokkeslett |
+| 3.1.3. Arter og kategorier |  | 3.1.4. Antall dyr etter art |  |
+| 3.1.5. Forsendelsens anslåtte totalvekt (i kg) |  |  |  |
+| 4. Forhold om bord på dekk for dyr under overfarten |  |  |  |
+| 4.1. Høyeste temperatur registrert | 4.2. Høyeste relative fuktighet registrert | 4.3. Høyeste registrerte ammoniakknivå |  |
+| 5. Virkemåten til systemer som påvirker dyrenes velferd |  |  |  |
+| 5.1. Ventilasjon<br>☐ Ja<br>☐ Nei | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.2. Drenering<br>☐ Ja<br>☐ Nei | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.3. Nok belysning til å inspisere dyr<br>☐ Ja<br>☐ Nei | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.4. Eventuell ferskvannsproduksjon<br>☐ Ja<br>☐ Nei | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.5. Fôr og vann<br>☐ Ja<br>☐ Nei | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.6. Antall dyr som er syke/skadet i løpet av turen | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.7. Antall døde dyr i løpet av turen og antall avlivede dyr | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 5.8. Annet | Avvik påvist: | Eventuelle korrigerende tiltak: |  |
+| 6. Myndighet som utsteder rapporten |  |  |  |
+| 6.1. Myndighetens navn |  | 6.2. Myndighetens adresse |  |
+| 6.3. Myndighetens telefonnummer |  | 6.4. Myndighetens e-postadresse |  |
+| 6.5. Dato |  | 6.6. Sted |  |
+| 6.7. Den offentlige veterinærens navn og underskrift |  | 6.8. Stempel |  |
 
 ### Forordning [(EU) 2023/842](eu/32023r0842) om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll for å verifisere overholdelsen av krav til dyrevelferd ved transport av dyr med dyretransportfartøyer
 
@@ -178,23 +230,41 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/842
 av 17. februar 2023
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for gjennomføring av offentlig kontroll for å verifisere overholdelsen av krav til dyrevelferd ved transport av dyr med dyretransportfartøyer
 
-1. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) oppretter en ramme for offentlig kontroll og annen offentlig virksomhet for å verifisere at Unionens regelverk for den landbruksbaserte næringsmiddelkjeden overholdes.
+EUROPAKOMMISJONEN HAR
 
-2. Artikkel 21 i forordning [(EU) 2017/625](eu/32017r0625) fastsetter særlige regler for offentlig kontroll og for tiltak som skal treffes av vedkommende myndigheter i forbindelse med krav til dyrevelferd, herunder dem som er fastsatt i rådsforordning [(EF) nr. 1/2005](eu/32005r0001)2.
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-3. I den forbindelse har Kommisjonen gjennomført en rekke revisjoner av medlemsstatenes samsvarssystemer for å beskytte dyrs velferd under transport til tredjeland der en del av reisen innebærer bruk av dyretransportfartøyer. En av hovedkonklusjonene fra Kommisjonens revisjoner er at den måten medlemsstatene utfører inspeksjoner av lasting og lossing av dyr på i samsvar med artikkel 20 i nevnte forordning, vanligvis ikke er tilstrekkelig til å redusere risikoen for dyrevelferden ved denne typen transport til et minimum.
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 21 nr. 8 bokstav a) og c), og
 
-4. Kommisjonens revisjoner avdekket svakheter i medlemsstatenes samsvarssystemer med hensyn til beredskapsplaner for nødssituasjoner. Av den grunn bør vedkommende myndigheter på avgangsstedet sørge for at transportøren har en beredskapsplan for nødstilfeller, og at beredskapsplanen oppfyller de relevante kravene.
+ut fra følgende betraktninger:
 
-5. I henhold til europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016)3 skal alle medlemsstater med sjøhavner foreta havnestatskontrollinspeksjoner av skip som anløper deres havner. Resultatene av havnestatskontrollinspeksjonene kan være relevante for inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), for eksempel påviste mangler knyttet til vanntetthet, ventilasjon, oppdrift eller brannslokkingsutstyr. Ved inspeksjon av dyretransportfartøyer under lasting og lossing er det derfor nødvendig at vedkommende myndighet tar hensyn til resultatene av disse inspeksjonene.
+1\. Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) oppretter en ramme for offentlig kontroll og annen offentlig virksomhet for å verifisere at Unionens regelverk for den landbruksbaserte næringsmiddelkjeden overholdes.
 
-6. Inspektører fra vedkommende myndigheter som utfører inspeksjoner på dyretransportfartøyer, er for det meste offentlige veterinærer. Veterinærkompetanse alene er ikke tilstrekkelig til å kontrollere hvordan de mekaniske systemene og forvaltningssystemene til dyretransportfartøyer fungerer, noe som kan påvirke velferden til dyrene som transporteres. Som foreslått i nettverksdokumentet4 bør gruppene som utfører inspeksjoner av lasting av forsendelser med levende dyr i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), bestå av offentlige veterinærer og sjøfartseksperter med relevant kompetanse på disse mekaniske systemene og forvaltningssystemene og praktisk erfaring med drift av dyretransportfartøyer.
+2\. Artikkel 21 i forordning [(EU) 2017/625](eu/32017r0625) fastsetter særlige regler for offentlig kontroll og for tiltak som skal treffes av vedkommende myndigheter i forbindelse med krav til dyrevelferd, herunder dem som er fastsatt i rådsforordning [(EF) nr. 1/2005](eu/32005r0001)2.
 
-7. Dersom dyr presenteres for lasting og lossing på dyretransportfartøyer ved utførselssteder i havner, bør vedkommende myndigheter ha tilstrekkelig tid til å vurdere om dyretransportfartøyene oppfyller vilkårene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001) og i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625). Den som organiserer en transport, bør derfor gi vedkommende myndigheter relevant dokumentasjon minst fem virkedager før datoen for inspeksjon eller datoen for offentlig kontroll av dyretransportfartøyet.
+3\. I den forbindelse har Kommisjonen gjennomført en rekke revisjoner av medlemsstatenes samsvarssystemer for å beskytte dyrs velferd under transport til tredjeland der en del av reisen innebærer bruk av dyretransportfartøyer. En av hovedkonklusjonene fra Kommisjonens revisjoner er at den måten medlemsstatene utfører inspeksjoner av lasting og lossing av dyr på i samsvar med artikkel 20 i nevnte forordning, vanligvis ikke er tilstrekkelig til å redusere risikoen for dyrevelferden ved denne typen transport til et minimum.
 
-8. Vedkommende myndigheter ved utførselsstedene i havnene bør også foreta en fysisk inspeksjon etter lasting av dyrene på dyretransportfartøyet for å verifisere at fordelingen av dyrene i innhegningene er i samsvar med plasskravene fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
+4\. Kommisjonens revisjoner avdekket svakheter i medlemsstatenes samsvarssystemer med hensyn til beredskapsplaner for nødssituasjoner. Av den grunn bør vedkommende myndigheter på avgangsstedet sørge for at transportøren har en beredskapsplan for nødstilfeller, og at beredskapsplanen oppfyller de relevante kravene.
 
-9. For å føre en visuell oversikt over tilstanden til dyretransportfartøyet og dyrene som skal lastes, bør inspektører fra vedkommende myndigheter sørge for dokumentasjon i form av fotografier eller videoer av manglende overholdelse om bord, og eventuelle andre elementer som kan påvirke dyrenes velferd negativt. Vedkommende myndigheter bør oppbevare disse fotografiene eller videoene så lenge godkjenningsbeviset for dyretransportfartøyet er gyldig.
+5\. I henhold til europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016)3 skal alle medlemsstater med sjøhavner foreta havnestatskontrollinspeksjoner av skip som anløper deres havner. Resultatene av havnestatskontrollinspeksjonene kan være relevante for inspeksjonene som kreves i henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001), for eksempel påviste mangler knyttet til vanntetthet, ventilasjon, oppdrift eller brannslokkingsutstyr. Ved inspeksjon av dyretransportfartøyer under lasting og lossing er det derfor nødvendig at vedkommende myndighet tar hensyn til resultatene av disse inspeksjonene.
+
+6\. Inspektører fra vedkommende myndigheter som utfører inspeksjoner på dyretransportfartøyer, er for det meste offentlige veterinærer. Veterinærkompetanse alene er ikke tilstrekkelig til å kontrollere hvordan de mekaniske systemene og forvaltningssystemene til dyretransportfartøyer fungerer, noe som kan påvirke velferden til dyrene som transporteres. Som foreslått i nettverksdokumentet4 bør gruppene som utfører inspeksjoner av lasting av forsendelser med levende dyr i henhold til artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), bestå av offentlige veterinærer og sjøfartseksperter med relevant kompetanse på disse mekaniske systemene og forvaltningssystemene og praktisk erfaring med drift av dyretransportfartøyer.
+
+7\. Dersom dyr presenteres for lasting og lossing på dyretransportfartøyer ved utførselssteder i havner, bør vedkommende myndigheter ha tilstrekkelig tid til å vurdere om dyretransportfartøyene oppfyller vilkårene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001) og i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625). Den som organiserer en transport, bør derfor gi vedkommende myndigheter relevant dokumentasjon minst fem virkedager før datoen for inspeksjon eller datoen for offentlig kontroll av dyretransportfartøyet.
+
+8\. Vedkommende myndigheter ved utførselsstedene i havnene bør også foreta en fysisk inspeksjon etter lasting av dyrene på dyretransportfartøyet for å verifisere at fordelingen av dyrene i innhegningene er i samsvar med plasskravene fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
+
+9\. For å føre en visuell oversikt over tilstanden til dyretransportfartøyet og dyrene som skal lastes, bør inspektører fra vedkommende myndigheter sørge for dokumentasjon i form av fotografier eller videoer av manglende overholdelse om bord, og eventuelle andre elementer som kan påvirke dyrenes velferd negativt. Vedkommende myndigheter bør oppbevare disse fotografiene eller videoene så lenge godkjenningsbeviset for dyretransportfartøyet er gyldig.
+
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Rådsforordning [(EF) nr. 1/2005](eu/32005r0001) av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255) (EUT L 3 av 5.1.2005, s. 1).
+
+3 Europaparlaments- og rådsdirektiv [2009/16/EF](eu/32009l0016) av 23. april 2009 om havnestatskontroll (EUT L 131 av 28.5.2009, s. 57).
+
+4 Nettverksdokument om dyretransportfartøyer, tilgjengelig på [https://circabc.europa.eu/ui/group/f41c4e1d-22a1-4e7b-aa31-cd16f126037d/library/d1bdd5a7-2e73-4f9a-97e2-c0975fc713a1/details](https://circabc.europa.eu/ui/group/f41c4e1d-22a1-4e7b-aa31-cd16f126037d/library/d1bdd5a7-2e73-4f9a-97e2-c0975fc713a1/details).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
@@ -202,13 +272,15 @@ Denne forordningen fastsetter regler for gjennomføringen av offentlig kontroll 
 
 ### Artikkel 2. Definisjoner
 
-1. I denne forordning får definisjonene fastsatt i artikkel 2 i forordning [(EF) nr. 1/2005](eu/32005r0001) anvendelse.
+1\. I denne forordning får definisjonene fastsatt i artikkel 2 i forordning [(EF) nr. 1/2005](eu/32005r0001) anvendelse.
 
-2. Dessuten menes med «havnestatskontrollinspeksjon» en inspeksjon som utføres av havnestatens kontrollmyndigheter i samsvar med direktiv [2009/16/EF](eu/32009l0016).
+2\. Dessuten menes med «havnestatskontrollinspeksjon» en inspeksjon som utføres av havnestatens kontrollmyndigheter i samsvar med direktiv [2009/16/EF](eu/32009l0016).
 
 ### Artikkel 3. Dokumentkontroll av beredskapsplaner for nødstilfeller
 
 Når dyr transporteres til tredjeland og en del av transporten innebærer bruk av dyretransportfartøyer, skal vedkommende myndigheter på avgangsstedet kontrollere at beredskapsplanene for nødstilfeller oppfyller kravene fastsatt i artikkel 7 i gjennomføringsforordning [(EU) 2023/372](eu/32023r0372)5.
+
+5 Kommisjonens gjennomføringsforordning [(EU) 2023/372](eu/32023r0372) av 17. februar 2023 om fastsettelse av regler for registrering, lagring og deling av skriftlige fortegnelser over offentlig kontroll utført på dyretransportfartøyer, om beredskapsplaner for dyretransportfartøyer i nødssituasjoner, om godkjenning av dyretransportfartøyer og om minstekrav for utførselssteder (EUT L 51 av 20.2.2023, s. 32).
 
 ### Artikkel 4. Resultater fra tidligere havnestatskontrollinspeksjoner
 
@@ -216,28 +288,30 @@ For å gjennomføre velinformerte beslutninger ved inspeksjon av dyretransportfa
 
 ### Artikkel 5. Inspeksjonsgruppe for dyretransportfartøyer
 
-1. Vedkommende myndigheter skal sikre at inspeksjoner av lasting av dyretransportfartøyer, som fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), og offentlig kontroll ved utførselssteder i havner, som fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625), utføres av en gruppe inspektører.
+1\. Vedkommende myndigheter skal sikre at inspeksjoner av lasting av dyretransportfartøyer, som fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), og offentlig kontroll ved utførselssteder i havner, som fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625), utføres av en gruppe inspektører.
 
-2. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
+2\. En gruppe av inspektører skal minst omfatteen offentlig veterinær ogen sjøfartsekspert som er godkjent av medlemsstatens sjøfartsmyndigheter.
 
-3. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), uten begrensning med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er anerkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
+3\. Sjøfartseksperten nevnt i nr. 2 bokstav b) skal minst oppfylle et av følgende krav:Ha relevante kvalifikasjoner fra sjøfarts- eller navigasjonsskole som er anerkjent av medlemsstatene, og relevant erfaring til sjøs som sertifisert skipsoffiser som er innehaver av et gyldig kompetansebevis STCW II/2 eller III/2 som fastsatt i den internasjonale konvensjonen om standard for opplæring, sertifisering og vakthold for sjøfolk (STCW), uten begrensning med hensyn til arbeidsområde, framdriftskraft eller tonnasje.Ha bestått eksamen som skipsingeniør, maskiningeniør eller ingeniør med sjøfart som spesialfelt som er anerkjent av ansvarlige sjøfartsmyndigheter, og ha arbeidet med dette i minst fem år.Ha relevant universitetsgrad eller tilsvarende grad fra en tertiær institusjon innen et relevant ingeniør- eller vitenskapsområde som er anerkjent av medlemsstaten.
 
 ### Artikkel 6. Inspeksjon av dyretransportfartøyer ved lasting og lossing ved utførselssteder i havner
 
-1. Dersom dyr presenteres for lasting eller lossing på dyretransportfartøyer ved utførselssteder, skal organisatoren gi vedkommende myndighet ved utførselsstedene følgende dokumenter minst fem virkedager før datoen for inspeksjon av dyretransportfartøyene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), eller datoen for offentlig kontroll fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625):En kopi av transportørgodkjenningen for sjødelen av transporten som fastsatt i artikkel 10 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).For lange reiser, en kopi av transportørgodkjenningen og beredskapsplanene for sjødelen av transporten i tilfelle nødssituasjoner som fastsatt i artikkel 11 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).
+1\. Dersom dyr presenteres for lasting eller lossing på dyretransportfartøyer ved utførselssteder, skal organisatoren gi vedkommende myndighet ved utførselsstedene følgende dokumenter minst fem virkedager før datoen for inspeksjon av dyretransportfartøyene fastsatt i artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), eller datoen for offentlig kontroll fastsatt i artikkel 21 nr. 2 bokstav c) i forordning [(EU) 2017/625](eu/32017r0625):En kopi av transportørgodkjenningen for sjødelen av transporten som fastsatt i artikkel 10 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).For lange reiser, en kopi av transportørgodkjenningen og beredskapsplanene for sjødelen av transporten i tilfelle nødssituasjoner som fastsatt i artikkel 11 nr. 1 i forordning [(EF) nr. 1/2005](eu/32005r0001).
 
-2. Vedkommende myndigheter på utførselsstedet i sjøhavner skalverifisere at beredskapsplanene for nødssituasjoner som fastsatt i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) oppfyller kravene fastsatt i artikkel 7 i gjennomføringsforordning [(EU) 2023/372](eu/32023r0372), oggjennom en fysisk inspeksjon verifisere at fordelingen av dyrene i innhegningene oppfyller kravene til plassforhold fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
+2\. Vedkommende myndigheter på utførselsstedet i sjøhavner skalverifisere at beredskapsplanene for nødssituasjoner som fastsatt i artikkel 11 nr. 1 bokstav b) iv) i forordning [(EF) nr. 1/2005](eu/32005r0001) oppfyller kravene fastsatt i artikkel 7 i gjennomføringsforordning [(EU) 2023/372](eu/32023r0372), oggjennom en fysisk inspeksjon verifisere at fordelingen av dyrene i innhegningene oppfyller kravene til plassforhold fastsatt i kapittel VII i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001).
 
 ### Artikkel 7. Visuell dokumentasjon på inspeksjoner og offentlig kontroll
 
-1. Ved gjennomføring av inspeksjoner og offentlig kontroll i samsvar med artikkel 5 nr. 1 i denne forordningen skal vedkommende myndigheter i medlemsstaten der dyrene losses og lastes i samsvar med artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), ta bilder eller videoer av følgende:Konstruksjonselementer eller utstyr fastsatt i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001) som ikke er i samsvar med nevnte avsnitt.Ethvert annet element som framviser mangler, som ikke er i samsvar med de relevante bestemmelsene, eller som kan påvirke dyrenes velferd negativt.
+1\. Ved gjennomføring av inspeksjoner og offentlig kontroll i samsvar med artikkel 5 nr. 1 i denne forordningen skal vedkommende myndigheter i medlemsstaten der dyrene losses og lastes i samsvar med artikkel 20 i forordning [(EF) nr. 1/2005](eu/32005r0001), ta bilder eller videoer av følgende:Konstruksjonselementer eller utstyr fastsatt i kapittel IV avsnitt 1 i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001) som ikke er i samsvar med nevnte avsnitt.Ethvert annet element som framviser mangler, som ikke er i samsvar med de relevante bestemmelsene, eller som kan påvirke dyrenes velferd negativt.
 
-2. Fotografiene eller videoene som tas under inspeksjonene og den offentlige kontrollen som er fastsatt i nr. 1, skal vedlegges inspeksjonsdokumentene og oppbevares av vedkommende myndigheter så lenge godkjenningsbeviset for dyretransportfartøyet er gyldig.
+2\. Fotografiene eller videoene som tas under inspeksjonene og den offentlige kontrollen som er fastsatt i nr. 1, skal vedlegges inspeksjonsdokumentene og oppbevares av vedkommende myndigheter så lenge godkjenningsbeviset for dyretransportfartøyet er gyldig.
 
 ### Artikkel 8. Ikrafttredelse og anvendelse
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. februar 2023.
 
-Utferdiget i Brussel 17. februar 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen*<br>Ursula von der Leyen<br>*President* |

@@ -192,6 +192,14 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 
 (2) For byggverk i flomutsatt område skal det fastsettes sikkerhetsklasse for flom etter tabellen under. Byggverk skal plasseres, dimensjoneres eller sikres mot flom slik at største nominelle årlige sannsynlighet i tabellen ikke overskrides. Dersom det er fare for liv, fastsettes sikkerhetsklasse som for skred, jf. [§ 7-3](forskrift/2017-06-19-840/§7-3).
 
+*Tabell: Sikkerhetsklasser for byggverk i flomutsatt område*
+
+| *Sikkerhetsklasse for flom* | *Konsekvens* | *Største nominelle årlige sannsynlighet* |
+| --- | --- | --- |
+| F1 | liten | 1/20 |
+| F2 | middels | 1/200 |
+| F3 | stor | 1/1000 |
+
 (3) Første og annet ledd gjelder tilsvarende for stormflo.
 
 (4) Byggverk skal plasseres eller sikres slik at det ikke oppstår skade ved erosjon.
@@ -206,6 +214,16 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 
 (2) For byggverk i skredfareområde skal det fastsettes sikkerhetsklasse for skred etter tabellen under. Byggverk og tilhørende uteareal skal plasseres, dimensjoneres eller sikres mot skred, herunder sekundærvirkninger av skred, slik at største nominelle årlige sannsynlighet i tabellen ikke overskrides.
 
+*Tabell: Sikkerhetsklasser ved plassering av byggverk i skredfareområde*
+
+| *Sikkerhetsklasse for skred* | *Konsekvens* | *Største nominelle årlige sannsynlighet* |
+| --- | --- | --- |
+| S1 | liten | 1/100 |
+| S2 | middels | 1/1000 |
+| S3 | stor | 1/5000 |
+
+For områder med fare for kvikkleireskred skal det fastsettes et tilsvarende sikkerhetsnivå.
+
 (3) Sikkerhetsklasse S1 omfatter også følgende tiltak der tiltaket har liten konsekvens for personsikkerhet og ikke omfatter etablering av ny bruksenhet:ett tilbygg, ett påbygg eller underbygging inntil 50 m2 BRA i byggverkets levetidbruksendring og ombygging inntil 50 m2 BRA.Tredje ledd omfatter ikke tiltak som fører til etablering av virksomhet som inngår i [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd. Tredje ledd omfatter ikke tiltak som ligger innenfor områder med fare for kvikkleireskred.
 
 > Endret ved forskrift [25 aug 2022 nr. 1489](forskrift/2022-08-25-1489) (i kraft 1 sep 2022).
@@ -215,6 +233,8 @@ En frittliggende bygning etter [plan- og bygningsloven § 29-4](lov/2008-06-27-7
 (1) Med unntak av bygninger som omfattes av [§ 7-3](forskrift/2017-06-19-840/§7-3) første ledd, kan det tillates utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred, dersom følgende vilkår er oppfylt:Utbygging i fareområdet er avklart i arealplan. Gjennom planprosessen skal det være utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbygging er av avgjørende samfunnsmessig betydning. Gjennom planprosessen skal også mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres.Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem. Denne skal være basert på periodisk eller sanntids overvåking, varsling og evakuering. Varslingstiden skal ikke være kortere enn 72 timer og evakueringstiden skal være på maksimum 12 timer. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.
 
 (2) Der utbygging er i samsvar med arealplan og kartlegging gjennomført etter at reguleringsplan er vedtatt, viser at sannsynligheten for fjellskred eller flodbølge som følge av fjellskred er 1/1000 eller mindre, kan utbygging tillates dersom følgende vilkår er oppfylt:Personsikkerheten er ivaretatt ved et forsvarlig beredskapssystem, basert på periodisk eller sanntids overvåking, varsling og evakuering,Faren for fjellskred eller flodbølge som følge av fjellskred er synliggjort i reguleringsplan gjennom forenklet planendring, jf. [plan- og bygningsloven § 12-14](lov/2008-06-27-71/§12-14) andre og tredje ledd,I planprosessen skal mulige fysiske sikringstiltak utredes, og det skal stilles som vilkår for tillatelse at hensiktsmessige sikringstiltak gjennomføres,Det må utarbeides risiko- og sårbarhetsanalyse, jf. [plan- og bygningsloven § 4-3](lov/2008-06-27-71/§4-3), hvor det er utredet og sannsynliggjort at det ikke finnes alternative sikre byggearealer, og at utbyggingen er av avgjørende samfunnsmessig betydning, ogDet er utarbeidet beredskapsplaner i det aktuelle området som ivaretar personsikkerheten og kommunens funksjoner- og tjenesteområder av betydning for liv og helse. Av hensyn til sikkerheten for brukerne, skal det foretas en særskilt vurdering av behovet for restriksjoner for oppføring av bygninger som er vanskelige å evakuere.Berørte regionale og statlige myndigheter, skal få mulighet til å uttale seg.
+
+(3) Mindre tilbygging, påbygging eller underbygging av eksisterende byggverk kan tillates uten krav om plan og dispensasjon etter [plan- og bygningsloven kapittel 19](lov/2008-06-27-71/kap19), så fremt utvidelsen ikke fører til økt fare for skade på liv og helse.
 
 (4) Er personsikkerheten ivaretatt ved et forsvarlig beredskapssystem som er basert på periodisk eller sanntids overvåking, varsling og evakuering, jf. første ledd bokstav a, kan bygninger, konstruksjoner eller anlegg, herunder lektere og floteller, som plasseres på eller i direkte tilknytning til bygge- eller anleggstomt hvor arbeid pågår, plasseres uten krav om søknad og dispensasjon.
 
@@ -406,9 +426,29 @@ Byggverket skal plasseres, prosjekteres og utføres slik at det oppnås tilfreds
 
 Ut fra den trusselen en brann kan innebære for skade på liv og helse, skal byggverk eller ulike bruksområder i et byggverk plasseres i risikoklasser etter tabellen nedenfor. Risikoklassene skal legges til grunn for prosjekteringen og utførelsen for å sikre rømning og redning ved brann.
 
+*Tabell: Risikoklasser*
+
+| *Risikoklasser* | *Byggverk kun beregnet for sporadisk personopphold* | *Personer i byggverk kjenner rømningsforhold, herunder rømningsveier, og kan bringe seg selv i sikkerhet* | *Byggverk beregnet for overnatting* | *Forutsatt bruk av byggverk medfører liten brannfare* |
+| --- | --- | --- | --- | --- |
+| 1 | ja | ja | nei | ja |
+| 2 | ja/nei | ja | nei | nei |
+| 3 | nei | ja | nei | ja |
+| 4 | nei | ja | ja | ja |
+| 5 | nei | nei | nei | ja |
+| 6 | nei | nei | ja | ja |
+
 ### § 11-3. Brannklasser
 
 Ut fra den konsekvensen en brann kan innebære for skade på liv, helse, samfunnsmessige interesser og miljøet, skal byggverk eller ulike deler av et byggverk plasseres i brannklasser etter tabellen nedenfor. Brannklassene skal legges til grunn for prosjekteringen og utførelsen for å sikre byggverkets bæreevne mv. ved brann.
+
+*Tabell: Brannklasser*
+
+| *Brannklasse* | *Konsekvens* |
+| --- | --- |
+| 1 | Liten |
+| 2 | Middels |
+| 3 | Stor |
+| 4 | Særlig stor |
 
 ### II. Bæreevne og stabilitet ved brann og eksplosjon
 
@@ -878,10 +918,24 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 ### § 14-2. Krav til energieffektivitet
 
-(1) Det totale netto energibehovet for bygningen skal ikke overstige energirammene i tabellen i bokstav a samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.*Tabell: Energirammer**Bygningskategori**Totalt netto energibehov*
+(1) Det totale netto energibehovet for bygningen skal ikke overstige energirammene i tabellen i bokstav a samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.*Tabell: Energirammer* *Bygningskategori**Totalt netto energibehov*
 *[kWh/m2 oppvarmet BRA per år]*Småhus, samt fritidsbolig over 150 m2 oppvarmet BRA100 + 1600/m2 oppvarmet BRABoligblokk95Barnehage135Kontorbygning115Skolebygning110Universitet/høyskole125Sykehus225 (265)Sykehjem195 (230)Hotellbygning170Idrettsbygning145Forretningsbygning180Kulturbygning130Lett industri/verksteder140 (160)Kravene gitt i parentes gjelder for arealer der varmegjenvinning av ventilasjonsluft medfører risiko for spredning av forurensning eller smitte.
 
 (2) For boligbygning kan kravet til energieffektivitet som alternativ til første ledd, oppfylles ved å følge punktene 1-9 i tabellen. Energitiltakene kan fravikes forutsatt at bygningens varmetapstall ikke øker, samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.
+
+*Tabell: Energitiltak*
+
+|  | *Energitiltak* | *Småhus* | *Boligblokk* |
+| --- | --- | --- | --- |
+| 1. | U-verdi yttervegg [W/(m2 K)] | ≤ 0,18 | ≤ 0,18 |
+| 2. | U-verdi tak [W/(m2 K)] | ≤ 0,13 | ≤ 0,13 |
+| 3. | U-verdi gulv [W/(m2 K)] | ≤ 0,10 | ≤ 0,10 |
+| 4. | U-verdi vinduer og dører [W/(m2 K)] | ≤ 0,80 | ≤ 0,80 |
+| 5. | Andel vindus- og dørareal av oppvarmet BRA | ≤ 25 % | ≤ 25 % |
+| 6. | Årsgjennomsnittlig temperaturvirkningsgrad for varmegjenvinner i ventilasjonsanlegg (%) | ≥ 80 % | ≥ 80 % |
+| 7. | Spesifikk vifteeffekt i ventilasjonsanlegg (SFP) [kW/(m3 /s)] | ≤ 1,5 | ≤ 1,5 |
+| 8. | Luftlekkasjetall per time ved 50 Pa trykkforskjell | ≤ 0,6 | ≤ 0,6 |
+| 9. | Normalisert kuldebroverdi, der m2 angis som oppvarmet BRA [W/(m2 K)] | ≤ 0,05 | ≤ 0,07 |
 
 (3) I flerfunksjonsbygninger skal bygningen deles opp i soner ut fra bygningskategori og de respektive energirammene skal oppfylles for hver sone.
 
@@ -920,6 +974,16 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 (3) For fritidsbolig over 70 m2 til og med 150 m2 oppvarmet BRA gjelder i dette kapitlet kun kravene i [§ 14-1](forskrift/2017-06-19-840/§14-1), [§ 14-3](forskrift/2017-06-19-840/§14-3) og [§ 14-4](forskrift/2017-06-19-840/§14-4) første ledd.
 
 (4) For boligbygning og fritidsbolig med laftede yttervegger gjelder ikke [§ 14-2](forskrift/2017-06-19-840/§14-2). For fritidsbolig over 70 m2 til og med 150 m2 oppvarmet BRA med laftede yttervegger gjelder heller ikke [§ 14-4](forskrift/2017-06-19-840/§14-4) fjerde ledd. Bygning med laftede yttervegger tilfredsstiller kravet til energieffektivitet når verdiene i punktene 1-5 i tabellen under er oppfylt. Energitiltakene kan fravikes forutsatt at bygningens varmetapstall ikke øker, samtidig som kravene i [§ 14-3](forskrift/2017-06-19-840/§14-3) oppfylles.
+
+*Tabell: Energitiltak for boligbygning og fritidsbolig med laftede yttervegger*
+
+|  | *Energitiltak* | *Boligbygning og fritidsbolig over 150 m2 oppvarmet BRA* | *Fritidsbolig over 70 m2 til og med 150 m2 oppvarmet BRA* |
+| --- | --- | --- | --- |
+| 1. | Dimensjon yttervegg | ≥ 8″ laft | ≥ 8″ laft |
+| 2. | U-verdi tak [W/(m2 K)] | ≤ 0,13 | ≤ 0,13 |
+| 3. | U-verdi gulv på grunn og mot det fri [W/(m2 K)] | ≤ 0,10 | ≤ 0,15 |
+| 4. | U-verdi vindu og dør, inkludert karm/ramme [W/(m2 K)] | ≤ 0,80 | ≤ 1,2 |
+| 5. | Lekkasjetall ved 50 Pa trykkforskjell (luftveksling per time) | ≤ 4,0 | ≤ 4,5 |
 
 (5) Rammekravet for energieffektivitet i [§ 14-2](forskrift/2017-06-19-840/§14-2) første ledd kan økes med inntil 10 kWh/m2 oppvarmet BRA per år. Dette forutsetter at det på eiendommen produseres fornybar elektrisitet til bygningen, minst 20 kWh/m2 oppvarmet BRA per år.
 
@@ -1111,6 +1175,14 @@ Overflater i rom, kanaler og lignende skal være rengjort før bygningen tas i b
 
 (3) Sikkerhetskontrollør skal minst ha utdanning og praktisk erfaring i samsvar med følgende tabell:
 
+*Tabell: Kvalifikasjonskrav for sikkerhetskontrollør*
+
+| *Alternativ* | *Utdanning* | *Praksis* |
+| --- | --- | --- |
+| 1 | Eksamen fra 3-årig ingeniørhøyskole, maskin- eller elektrolinje eller tilsvarende | Minst 5 års relevant praksis fra montasje, vedlikehold og reparasjon av heisanlegg |
+| 2 | Eksamen fra 2-årig teknisk fagskole, relevant faglinje eller tilsvarende | Minst 5 års relevant praksis fra montasje, vedlikehold og reparasjon av heisanlegg |
+| 3 | Fagbrev som heismontør | Minst 5 års allsidig og relevant praksis etter bestått eksamen |
+
 (4) Godkjenning av sikkerhetskontrollør gis for 2 år og ved fornyelse vurderes blant annet følgendeom søker har arbeidet som sikkerhetskontrollørom søker kan dokumentere oppdatert kunnskap om løfteinnretning og tilhørende regelverk.
 
 > Endret ved [forskrifter 7 juli 2017 nr. 1164](forskrift/2017-07-07-1164), [12 juni 2026 nr. 1085](forskrift/2026-06-12-1085) (i kraft 1 juli 2026).
@@ -1157,7 +1229,21 @@ Departementet kan i forskrift fastsette maksimalpris for sikkerhetskontroll av h
 
 ### § 17-1. Klimagassregnskap fra materialer
 
-Ved oppføring og hovedombygging av boligblokk og yrkesbygning skal det utarbeides et klimagassregnskap basert på metoden i Norsk Standard NS 3720:2018 Metode for klimagassberegninger for bygninger. Klimagassregnskapet skal som minimum inkludere modulene A1–A4, B2 og B4 for bygningselementene angitt i tabell Bygningsdeler. I tillegg skal avfallet fra byggeplassen inngå i klimagassregnskapet.Tabell: Bygningsdeler*Bygningsdel***Bygningselement*215Pelefundamentering216Direkte fundamentering22Bæresystemer23Yttervegger24Innervegger25Dekker26Yttertak
+Ved oppføring og hovedombygging av boligblokk og yrkesbygning skal det utarbeides et klimagassregnskap basert på metoden i Norsk Standard NS 3720:2018 Metode for klimagassberegninger for bygninger. Klimagassregnskapet skal som minimum inkludere modulene A1–A4, B2 og B4 for bygningselementene angitt i tabell Bygningsdeler. I tillegg skal avfallet fra byggeplassen inngå i klimagassregnskapet.
+
+Tabell: Bygningsdeler
+
+| *Bygningsdel\** | *Bygningselement* |
+| --- | --- |
+| 215 | Pelefundamentering |
+| 216 | Direkte fundamentering |
+| 22 | Bæresystemer |
+| 23 | Yttervegger |
+| 24 | Innervegger |
+| 25 | Dekker |
+| 26 | Yttertak |
+
+\* Tallene refererer til Norsk Standard NS 3451:2022 Bygningsdelstabell og systemkodetabell for bygninger og tilhørende uteområder.
 
 > Tilføyd ved forskrift [29 mai 2022 nr. 945](forskrift/2022-05-29-945) (i kraft 1 juli 2022, se endringsforskriftens del II for overgangsregel som gjelder frem til 1. juli 2023).
 

@@ -34,6 +34,8 @@ Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepr
 
 Minsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av [lov av 14. desember 1951 nr. 3](lov/1951-12-14-3)1 om omsetning av råfisk.
 
+1 Inkurie: Loven er opphevet, se nå [lov 21 juni 2013 nr. 75](lov/2013-06-21-75).
+
 ### § 3
 
 Det er forbudt å innføre fisk og fiskevarer i strid med bestemmelser som er fastsatt i medhold av denne lov.

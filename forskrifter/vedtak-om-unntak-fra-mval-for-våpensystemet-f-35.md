@@ -26,6 +26,8 @@ Vi viser til brev av 28. april 2014 til Finansdepartementet som ble oversendt Sk
 
 Skattedirektoratet har funnet å kunne gjøre unntak fra merverdiavgiftsloven ved omsetning fra F-35-programkontoret til Forsvaret av varer og tjenester som er omfattet av vedlikeholdsprogrammet for våpensystemet F-35.
 
+*Sakens bakgrunn*
+
 Forsvarsdepartementet skal som ledd i innføringen av F-35 kampfly delta i et flernasjonalt vedlikeholdsprogram for F-35. Merverdiavgiftsloven inneholder i dag regler om fritak på dette området, men på grunn av innretningen av vedlikeholdsprogrammet for F-35 oppstår det likevel plikt til å beregne merverdiavgift ved enkelte leveranser av varer og tjenester innenfor vedlikeholdsprogrammet. Nettoføringsordningen for budsjettering og regnskapsføring av merverdiavgift i statsforvaltningen vil i utgangspunktet medføre at Forsvarets merverdiavgiftsutgifter knyttet til vedlikeholdsprogrammet ikke belastes Forsvarsdepartementets budsjett, men kan føres på et sentralt budsjettkapittel. Innretningen av vedlikeholdsprogrammet innebærer imidlertid at det oppstår skjult merverdiavgiftsbelastning og den statlige nettoføringsordningen kan ikke anvendes.
 
 På denne bakgrunnen er det gitt en ny bestemmelse i [merverdiavgiftsloven § 3-32](lov/2009-06-19-58/§3-32) med følgende ordlyd:
@@ -34,6 +36,8 @@ På denne bakgrunnen er det gitt en ny bestemmelse i [merverdiavgiftsloven § 3-
 
 Bestemmelsen trer i kraft 1. januar 2017, og Finansdepartementet har i [delegeringsvedtak 23. desember 2016 nr. 1882](forskrift/2016-12-23-1882) delegert kompetansen til å gi enkeltvedtak til Skattedirektoratet.
 
+*Hva søknaden omfatter*
+
 Skattedirektoratet viser til at det er besluttet å anskaffe inntil 52 F-35 kampfly. Flyene som skal stasjoneres i Norge vil leveres i perioden 2017 – 2024. Flyene utvikles, testes og produseres i et partnerskap bestående av ni nasjoner, herunder Norge. Partnerlandene deltar i en felles flernasjonal vedlikeholdsløsning for F-35.
 
 Avtaler om anskaffelse av våpensystemet F-35 og deltakelse i vedlikeholdsprogrammet inngås mellom Forsvaret og F-35-programkontoret. Programkontoret er formelt og administrativt underlagt det amerikanske forsvarsdepartementet, men partnerlandene er representert i et sentralt beslutningsorgan. Sentrale avgjørelser om utformingen mv. av vedlikeholdsløsningen avgjøres i beslutningsorganet der partnerlandene er representert.
@@ -41,6 +45,8 @@ Avtaler om anskaffelse av våpensystemet F-35 og deltakelse i vedlikeholdsprogra
 Forsvarets deltakelse i den flernasjonale vedlikeholdsløsningen for F-35 innebærer bl.a. at det etableres en felles reservedelspool og felles vedlikeholdskapasiteter. For Forsvaret vil deltakelsen i vedlikeholdsprogrammet innebære stadige leveranser av reservedeler til de norske flyene og tilhørende utstyr. Forsvaret inngår avtale om vedlikeholdstjenestene med det etablerte programkontoret, som vil benytte leverandører til å oppfylle forpliktelsene etter avtalen. Leverandørene vil være basert i Norge og i utlandet.
 
 I tillegg til disse løpende ytelsene vil Forsvaret anskaffe en del utstyr med tilknytning til vedlikeholdsprogrammet. Utstyret installeres av underleverandører i Norge før det overdras til programkontoret og videre til Forsvaret. Det søkes om unntak fra merverdiavgiftsloven for omsetning av følgende anskaffelser:*Full Mission Simulator* som skal benyttes til trening av F-35-flygere. Simulatorene brukes i gjennomføringen av det operative treningsprogrammet, og de vil også bli brukt når F-35-teknikere skal trene på bakke- og motorkjøring av F-35. Forsvaret skal anskaffe totalt åtte slike simulatorer.*Aircraft System Maintenance Trainer* som skal benyttes til utdanning av F-35-vedlikeholdspersonell. Utdanningen foregår på en dataterminal med skjermer, og denne simulatoren består av et klasserom med tolv elevstasjoner. Flyet er virtuelt representert på skjermene, og teknikeren utfører vedlikeholdsoperasjoner og bruker virtuelt verktøy. Forsvaret skal anskaffe én slik simulator.*Interactive Course Ware/Electronically Mediated Lecture* er et databasert treningssystem for trening og utdanning av flygere og teknikere til våpensystemet F-35. Dette består av et klasserom med 16 elevplasser, en instruktørstasjon og en storskjerm som er koplet sammen i datanettverk med en serverløsning. Forsvaret skal anskaffe én slik simulator.Informasjonssystemet *Autonomic Logistics Information System* som er et helintegrert delsystem av våpensystemet F-35, og er påkrevd for å understøtte drift og operasjoner med F-35. Dette logistikksystemet er en premissgiver for at den valgte vedlikeholdsløsningen skal fungere.
+
+*Skattedirektoratets vurdering*
 
 Merverdiavgiften er en generell forbruksavgift som i utgangspunktet ilegges alle varer og tjenester. Merverdiavgiftsloven inneholder imidlertid enkelte unntak og fritak. For luftfartøy er det gitt et særskilt merverdiavgiftsfritak i [merverdiavgiftsloven § 6-10](lov/2009-06-19-58/§6-10). Etter lovbestemmelsens annet ledd omfatter fritaket omsetning i siste omsetningsledd av tjenester som står i direkte forbindelse med bygging, ombygging, reparasjon og vedlikehold av luftfartøy. Fritaket omfatter også varer som leveres i forbindelse med slike tjenester.
 

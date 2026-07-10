@@ -159,10 +159,19 @@ Gjødselvarene skal være stabilisert slik at de ikke forårsaker miljøulemper 
 
 ### § 21. Grenseverdier for tungmetall
 
-Gjødselvarer skal klassifiseres i tungmetallklasser. Følgende grenseverdier gjelder for innhold i gjødselvarer i de ulike klassene og må ikke overskrides:*Tungmetallklasse*
+Gjødselvarer skal klassifiseres i tungmetallklasser. Følgende grenseverdier gjelder for innhold i gjødselvarer i de ulike klassene og må ikke overskrides:
 
-*Grenseverdi*
-*(mg / kg tørrstoff)**0**I**II**III*Kadmium0,40,825Bly406080160Bly i dyrkingsmedier40525252Kvikksølv0,20,635Nikkel20305080Sink1504008001500Kobber501506501000Krom5070100150
+| *Tungmetallklasse*<br><br>*Grenseverdi*<br>*(mg / kg tørrstoff)* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | *0* | *I* | *II* | *III* |
+| Kadmium | 0,4 | 0,8 | 2 | 5 |
+| Bly | 40 | 60 | 80 | 160 |
+| Bly i dyrkingsmedier | 40 | 52 | 52 | 52 |
+| Kvikksølv | 0,2 | 0,6 | 3 | 5 |
+| Nikkel | 20 | 30 | 50 | 80 |
+| Sink | 150 | 400 | 800 | 1500 |
+| Kobber | 50 | 150 | 650 | 1000 |
+| Krom | 50 | 70 | 100 | 150 |
 
 Første ledd gjelder tilsvarende for klassifisering av råvarene som inngår i produktene. Følgende krav gjelder for tungmetallinnholdet i råvarene:Råvarer som inngår i gjødselvarer i tungmetallklasse 0 kan ikke ha et tungmetallinnhold som overskrider grenseverdiene for klasse I.Råvarer som inngår i gjødselvarer i tungmetallklasse I og II kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse II.Råvarer som inngår i gjødselvarer i tungmetallklasse III kan ikke ha et tungmetallinnhold som overskrider grenseverdien for klasse III.
 
@@ -172,10 +181,18 @@ Gjødselvarer i klasse III kan ikke omsettes til bruk i private hager.
 
 ### § 22. Særlige fosforbaserte grenseverdier for tungmetallinnhold
 
-Grenseverdiene i tabellen nedenfor kan brukes som alternativ til grenseverdiene i [§ 21](forskrift/2025-01-29-116/§21) for gjødselvarer som har et fosforinnhold på over 1,5 prosent av tørrstoffet. Grenseverdiene endres i tråd med nedtrapping av tillatt maksimal tilførselsmengde av fosfor, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115) Forholdet mellom innhold av totalfosfor og tungmetallet i slike gjødselvarer regnes som milligram fosfor per kilo tørrstoff dividert på milligram tungmetall per kilo tørrstoff og skal ikke være lavere enn:2025–2028
-3,1 kg P/da2029–2032
-3 kg P/da2033–
-2,7 kg P/daKadmium775075006750Bly194188169Kvikksølv516750004500Nikkel310300270Sink191917Kobber242321Krom155150135
+Grenseverdiene i tabellen nedenfor kan brukes som alternativ til grenseverdiene i [§ 21](forskrift/2025-01-29-116/§21) for gjødselvarer som har et fosforinnhold på over 1,5 prosent av tørrstoffet. Grenseverdiene endres i tråd med nedtrapping av tillatt maksimal tilførselsmengde av fosfor, jf. [forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv.](forskrift/2025-01-29-115) Forholdet mellom innhold av totalfosfor og tungmetallet i slike gjødselvarer regnes som milligram fosfor per kilo tørrstoff dividert på milligram tungmetall per kilo tørrstoff og skal ikke være lavere enn:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | 2025–2028<br>3,1 kg P/da | 2029–2032<br>3 kg P/da | 2033–<br>2,7 kg P/da |
+| Kadmium | 7750 | 7500 | 6750 |
+| Bly | 194 | 188 | 169 |
+| Kvikksølv | 5167 | 5000 | 4500 |
+| Nikkel | 310 | 300 | 270 |
+| Sink | 19 | 19 | 17 |
+| Kobber | 24 | 23 | 21 |
+| Krom | 155 | 150 | 135 |
 
 Tungmetallinnholdet i råvarene skal likevel ikke overskride grenseverdien for tungmetallklasse II angitt i [§ 21 første ledd](forskrift/2025-01-29-116/§21/ledd/1) med unntak av husdyrgjødsel og aske i tungmetallklasse III.
 
@@ -183,8 +200,17 @@ Denne paragrafen gjelder ikke for gjødselvarer som inneholder avløpsslam eller
 
 ### § 23. Særlige grenseverdier for tungmetallinnholdet i anleggsjord og jord som råvare
 
-Kravene i [§ 21](forskrift/2025-01-29-116/§21) gjelder ikke for anleggsjord og jord som råvare i gjødselvare. Følgende grenseverdier må ikke overskrides for disse:*Tungmetall**Grenseverdi*
-*(mg/kg tørrstoff)*Kadmium1Bly52Kvikksølv1Nikkel50Sink150Kobber100Krom70
+Kravene i [§ 21](forskrift/2025-01-29-116/§21) gjelder ikke for anleggsjord og jord som råvare i gjødselvare. Følgende grenseverdier må ikke overskrides for disse:
+
+| *Tungmetall* | *Grenseverdi*<br>*(mg/kg tørrstoff)* |
+| --- | --- |
+| Kadmium | 1 |
+| Bly | 52 |
+| Kvikksølv | 1 |
+| Nikkel | 50 |
+| Sink | 150 |
+| Kobber | 100 |
+| Krom | 70 |
 
 Der jord inngår som en av flere råvarer i anleggsjord eller i andre gjødselvarer, gjelder grenseverdiene i første ledd også for jordkomponenten. Tungmetallinnholdet i andre råvarer i anleggsjord skal ikke overskride grenseverdiene for tungmetallklasse III angitt i [§ 21 første ledd](forskrift/2025-01-29-116/§21/ledd/1).
 
@@ -200,20 +226,35 @@ For gjødselvarer med råvarer av marint opphav skal det analyseres for innhold 
 
 ### § 25. Særlige grenseverdier for innhold av organiske miljøgifter i råslam
 
-Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for råslam:*Organisk miljøgift**Grenseverdi*
-*(mg/kg tørrstoff)*Diethylheksylftalat (DEHP)50Summen av perfluor oktylsulfonat (PFOS) og perfluoroktansyre (PFOA).0,04Polyklorerte bifenyler (PCB7)0,04
+Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for råslam:
+
+| *Organisk miljøgift* | *Grenseverdi*<br>*(mg/kg tørrstoff)* |
+| --- | --- |
+| Diethylheksylftalat (DEHP) | 50 |
+| Summen av perfluor oktylsulfonat (PFOS) og perfluoroktansyre (PFOA). | 0,04 |
+| Polyklorerte bifenyler (PCB7) | 0,04 |
 
 ### § 26. Særlige tilleggskrav ved produksjon av aske
 
 Aske skal produseres på en slik måte at temperaturen overstiger 450 °C i minst to sekunder. Det totale innholdet av organisk karbon skal være mindre enn seks prosent tørrstoff av materialet.
 
-Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for aske:*Organisk miljøgift**Grenseverdi*Polysykliske aromatiske hydrokarboner (PAH16)6 mg PAH16 per kg tørrstoffPolyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/F)20 ng WHO-toksisitetsekvivalenter av PCDD/F per kg tørrstoff
+Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for aske:
+
+| *Organisk miljøgift* | *Grenseverdi* |
+| --- | --- |
+| Polysykliske aromatiske hydrokarboner (PAH16) | 6 mg PAH16 per kg tørrstoff |
+| Polyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/F) | 20 ng WHO-toksisitetsekvivalenter av PCDD/F per kg tørrstoff |
 
 ### § 27. Særlige tilleggskrav ved produksjon av biokull
 
 Biokull skal produseres under oksygenbegrensende forhold. Biokull må ha et molforhold mellom hydrogen og organisk karbon på mindre enn 0,7. Biokull av avløpsslam regnes fortsatt som avløpsslam.
 
-Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for biokull:*Organisk miljøgift**Grenseverdi*Polysykliske aromatiske hydrokarboner (PAH16)6 mg PAH16 per kg tørrstoffPolyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/F)20 ng WHO-toksisitetsekvivalenter av PCDD/F per kg tørrstoff
+Følgende grenseverdier for innhold av organiske miljøgifter må ikke overskrides for biokull:
+
+| *Organisk miljøgift* | *Grenseverdi* |
+| --- | --- |
+| Polysykliske aromatiske hydrokarboner (PAH16) | 6 mg PAH16 per kg tørrstoff |
+| Polyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/F) | 20 ng WHO-toksisitetsekvivalenter av PCDD/F per kg tørrstoff |
 
 ### § 28. Urenheter
 
@@ -263,9 +304,21 @@ Varedeklarasjonen skal, ved deklarering av organisk gjødsel og organisk-mineral
 
 Opplysninger om plantetilgjengelig fosfor i varedeklarasjonen etter første ledd bokstav f skal være basert på analyser etter Olsen P-metoden.
 
-Plantetilgjengelig innhold av kalsium, magnesium og natrium og totalt innhold av svovel, bor, kobolt, kobber, jern, mangan, molybden og sink skal og kan bare deklareres dersom innholdet av det enkelte næringsstoff utgjør en tilsvarende eller større mengde i masseprosent av produktet enn følgende:*Næringsstoff**Gjødsel til bruk på åker og eng*
-*(masseprosent)**Gjødsel til hagebruk*
-*(masseprosent)*Kalsium0,60,6Magnesium0,80,8Natrium2,22,2Svovel0,80,8Bor0,010,01Kobolt0,002*Ikke relevant*Kobber0,010,002Jern0,50,02Mangan0,10,01Molybden0,0010,001Sink0,010,002
+Plantetilgjengelig innhold av kalsium, magnesium og natrium og totalt innhold av svovel, bor, kobolt, kobber, jern, mangan, molybden og sink skal og kan bare deklareres dersom innholdet av det enkelte næringsstoff utgjør en tilsvarende eller større mengde i masseprosent av produktet enn følgende:
+
+| *Næringsstoff* | *Gjødsel til bruk på åker og eng*<br>*(masseprosent)* | *Gjødsel til hagebruk*<br>*(masseprosent)* |
+| --- | --- | --- |
+| Kalsium | 0,6 | 0,6 |
+| Magnesium | 0,8 | 0,8 |
+| Natrium | 2,2 | 2,2 |
+| Svovel | 0,8 | 0,8 |
+| Bor | 0,01 | 0,01 |
+| Kobolt | 0,002 | *Ikke relevant* |
+| Kobber | 0,01 | 0,002 |
+| Jern | 0,5 | 0,02 |
+| Mangan | 0,1 | 0,01 |
+| Molybden | 0,001 | 0,001 |
+| Sink | 0,01 | 0,002 |
 
 I tillegg skal følgende opplysninger deklareres:beskrivelse av forventet kalkingseffekt skal deklareres for gjødselvarer som inneholder aske, benmel, betongslam eller som er tilsatt kalkinnholdet av vannløselig klorid i produktet skal deklareres i masseprosent dersom det overskrider 0,3 vektprosenttotalinnholdet av natrium i produktet skal deklareres i masseprosent dersom det overskrider 0,2 vektprosent.
 
@@ -394,22 +447,63 @@ Forskriften trer i kraft 1. februar 2025. Fra samme tidspunkt oppheves [forskrif
 
 ### § 52. Endringer i andre forskrifter
 
-1. I [forskrift 4. juli 2003 nr. 1063 om handel med gjødsel og kalkingsmidler mv.](forskrift/2003-07-04-1063) gjøres følgende endringer: – – –
+1\. I [forskrift 4. juli 2003 nr. 1063 om handel med gjødsel og kalkingsmidler mv.](forskrift/2003-07-04-1063) gjøres følgende endringer: – – –
 
-2. Fra 1. februar 2025 gjøres følgende endringer i [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)](forskrift/2016-09-14-1064): – – –
+2\. Fra 1. februar 2025 gjøres følgende endringer i [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum (animaliebiproduktforskriften)](forskrift/2016-09-14-1064): – – –
 
-3. I [forskrift 13. februar 2004 nr. 406 om betaling av gebyrer for særskilte ytelser fra Mattilsynet](forskrift/2004-02-13-406) gjøres følgende endringer i [vedlegg 1](forskrift/2004-02-13-406/vedlegg1), [kapittel II](forskrift/2004-02-13-406/kapII): – – –
+3\. I [forskrift 13. februar 2004 nr. 406 om betaling av gebyrer for særskilte ytelser fra Mattilsynet](forskrift/2004-02-13-406) gjøres følgende endringer i [vedlegg 1](forskrift/2004-02-13-406/vedlegg1), [kapittel II](forskrift/2004-02-13-406/kapII): – – –
 
 ## Vedlegg 1 Råvarer som kan inngå i gjødselvarer, jf. [§ 15](forskrift/2025-01-29-116/§15)
 
 ### Gruppe 1: Plantemateriale
 
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 1a. | Hage- og parkavfall | Plantemateriale fra hager, parker og grøntanlegg. |  |
+| 1b. | Landbruksavfall | Se definisjon |  |
+| 1c. | Planter, plantemateriale og planteekstrakt | Omfatter rene plantematerialer og planteekstrakter. I dette punktet inkluderer planter også alger, men ikke cyanobakterier (blågrønnalger). |  |
+| 1d. | Vaskejord fra potet- og grønnsaker | Jord som blir vasket av poteter og grønnsaker fra næringsmiddelindustrien. |  |
+| 1e. | Torv |  |  |
+| 1f. | Treforedlingsavfall | Omfatter trestøv, fiberslam, biologisk slam og lignende avfall fra celluloseindustri og annen trebearbeidende industri. | Treforedlingsavfall med tilsetninger som brannhemmere, lim, maling, impregnering og lignende følger [§ 15 andre ledd](forskrift/2025-01-29-116/§15/ledd/2). |
+
 ### Gruppe 2: Mineralsk opphav
+
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 2a. | Jord | Se definisjon og [§ 23](forskrift/2025-01-29-116/§23) |  |
+| 2b. | Leire, sand og silt | Naturlige masser, som ikke tidligere er brukt til andre formål. |  |
+| 2c. | Lignitt |  |  |
+| 2d. | Mineralgjødsel og kalk | Mineralgjødsel og kalk skal tilfredsstille kravene i [forskrift 4. juli 2003 nr. 1063 om handel med gjødsel og kalkingsmidler mv](forskrift/2003-07-04-1063). |  |
+| 2e. | Pimpstein | Dagbergart av vulkansk opprinnelse |  |
+| 2f. | Steinmel | Finknust mineral- og bergartsmateriale |  |
+| 2f. | Steinull | Steinmateriale som er smeltet og spunnet til fiber. |  |
 
 ### Gruppe 3: Animalsk opphav
 
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 3a. | Fiskeslam fra ferskvannsoppdrett | Se definisjon. | Slam fra saltvannsoppdrett følger [§ 15 andre ledd](forskrift/2025-01-29-116/§15/ledd/2). |
+| 3b. | Animalske biprodukter som er omfattet av [animaliebiproduktforskriften](forskrift/2016-09-14-1064) | Som beskrevet i [animaliebiproduktforskriften](forskrift/2016-09-14-1064). | Renserester fra fiskeoljeproduksjon følger § 15 andre ledd. |
+| 3c. | Spillvannslam fra anlegg som håndterer<br>animalske biprodukter | Som beskrevet i [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum § 2](forskrift/2016-09-14-1064/§2) jf. forordning [(EU) nr. 142/2011](eu/32011r0142) vedlegg IV kapittel I avsnitt 2.<br>De faste partiklene i spillvannet<br>skal ikke overstige 6 mm. |  |
+
 ### Gruppe 4: Avløpsslam
+
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 4a. | Avløpsslam | Se definisjon. |  |
 
 ### Gruppe 5: Makro- og mikrobiologiske organismer
 
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 5a. | Makroorganisme | Flercellede organismer |  |
+| 5b. | Mikroorganisme | Encellede organismer og virus |  |
+
 ### Gruppe 6: Andre råvarer
+
+|  | *Råvarekategori* | *Beskrivelse* | *Unntak* |
+| --- | --- | --- | --- |
+| 6a. | Avispapir | Papir fra aviser. Omfatter ikke blader, reklamebrosjyrer, magasiner og lignende. Avispapiret skal ikke være trykket med annet enn vegetabilske oljer. |  |
+| 6b. | Vannverkslam | Slam fra anlegg som renser drikkevann |  |
+| 6c. | EU-gjødselvarer, jf. [forskrift 6. mars 2024 nr. 538 om EU-gjødselvarer](forskrift/2024-03-06-538) |  | Kun i blanding med andre råvarer |
+| 6d. | Gjødsel og kalkingsmiddel, jf. [forskrift 4. juli 2003 nr. 1063 om handel med gjødsel og kalkingsmidler mv.](forskrift/2003-07-04-1063) |  | Kun i blanding med andre råvarer |

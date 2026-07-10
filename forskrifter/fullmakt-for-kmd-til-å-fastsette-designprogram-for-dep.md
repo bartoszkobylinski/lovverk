@@ -24,3 +24,5 @@ eu_basis: []
 
 1. Kongelig resolusjon 9. oktober 19961 om fastsettelse av grafisk designprogram for departementene og for regjeringens dokumenter til Stortinget oppheves med virkning fra 1. juli 2015.
 2. Kommunal- og moderniseringsdepartementet gis fullmakt til å fastsatte et revidert designprogram for departementene, samt gjøre nødvendige tilpasninger i fremtiden. Prinsipielle spørsmål vedrørende utforming av regjeringens dokumenter til Stortinget skal forelegges Statsministerens kontor før beslutning.
+
+1 Ikke kunngjort i Norsk Lovtidend. Lovdatas anm.

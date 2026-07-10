@@ -92,6 +92,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte
 
 > **Endres** ved lov [19 juni 2026 nr. 40](lov/2026-06-19-40) (i kraft fra den tid Kongen bestemmer, blir § 11).
 
+1 Fra 1. oktober 2024 iflg. [res. 9 aug 2024 nr. 1912](forskrift/2024-08-09-1912).
+
 ## § 11. Endringer i andre lover
 
 Fra den tid Kongen bestemmer gjøres følgende endringer i andre lover: – – –

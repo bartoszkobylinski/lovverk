@@ -76,9 +76,15 @@ Fra samme tidspunkt oppheves [forskrift 11. juni 2010 nr. 815](forskrift/2010-06
 
 ## Merknader til forskrift om behandling av private forslag til detaljregulering etter plan- og bygningsloven
 
+*Til [§ 1](forskrift/2017-12-08-1950/§1) andre ledd*
+
 Omfanget av ressurser forslagsstiller må legge i planinitiativet styres av begrepet «i nødvendig grad». Ressursinnsatsen må vurderes i lys av at forslagsstiller ofte er helt i startfasen av sitt utviklingsarbeid og derfor ikke kan redegjøre i detalj for alle sider av prosjektet på samme måte som når det foreligger et mer gjennomarbeidet utkast til planforslag. Det er ønskelig at forslagsstiller søker dialog med kommunen tidlig i arbeidet med planinitiativet for å avklare forventninger og omfang, og at dette bl.a. blir tilpasset kompleksiteten i prosjektet og lokale forhold. Det bør tas høyde for at planinitiativet inneholder tilstrekkelig informasjon til at partene vet hva de har å forholde seg til, og at faren for misforståelser senere i prosessen blir vesentlig redusert.
 
+*Til [§ 6](forskrift/2017-12-08-1950/§6)*
+
 Planen skal ha en forståelig og entydig form som viser reguleringsformål og reguleringsbestemmelser og ha en planbeskrivelse. For fremstilling av arealplan vises til kart- og planforskriften sine bestemmelser med vedlegg, som igjen viser til Nasjonal produktspesifikasjon for arealplan og planregister. Denne spesifikasjonen ligger på Kommunal- og moderniseringsdepartementets hjemmeside. Noen kommuner kan ha en nærmere spesifikasjon av hva disse kravene innebærer for utarbeiding av private detaljreguleringsforslag i vedkommende kommune. Disse kravene skal forslagsstilleren gjøres kjent med i oppstartsmøtet med kommunen.
+
+*Til [§ 7](forskrift/2017-12-08-1950/§7)*
 
 Kommunen må behandle et privat forslag til detaljregulering innen 12 uker etter at forslaget har kommet inn til kommunen. Kommunen må fatte vedtak om å fremme eller ikke fremme et privat forslag om detaljregulering innen denne fristen.
 

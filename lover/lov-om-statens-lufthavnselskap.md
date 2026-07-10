@@ -46,6 +46,8 @@ Omregistrering i grunnboken og andre offentlige registre i forbindelse med omdan
 
 Loven trer i kraft straks, med unntak av [§ 6](lov/2002-12-13-85/§6) som gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 jan 2003 iflg. [res. 13 des 2002 nr. 1498](forskrift/2002-12-13-1498).
+
 ## § 6. Endringer i andre lover
 
 Fra det tidspunkt som fremgår av [§ 5](lov/2002-12-13-85/§5) gjøres følgende endringer i andre lover: – – –

@@ -52,6 +52,8 @@ Ved uenighet mellom fylkeskommunen og kommunen om hvilke rettigheter eller plikt
 
 Loven trer i kraft fra den tid1 Kongen bestemmer.
 
+1 Fra 1 jan 2020 iflg. [res. 16 juni 2017 nr. 759](forskrift/2017-06-16-759).
+
 ## § 6. Endringer i andre lover
 
 Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover: – – –

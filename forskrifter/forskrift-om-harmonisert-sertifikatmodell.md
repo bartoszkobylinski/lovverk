@@ -39,3 +39,7 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 ## § 4. Ikrafttredelse
 
 Denne forskriften trer i kraft straks.
+
+Nedenfor gjengis EØS-avtalen vedlegg I kapittel I del 1.2 nr. 119 (forordning [(EF) nr. 599/2004](eu/32004r0599)) slik Mattilsynet tolker denne del av EØS-avtalen med de endringer og tillegg som følger av EØS-tilpasningen av vedkommende rettsakt i henhold til avtalens protokoll 1 mv.:
+
+Se her for å lese forordning [(EF) nr. 599/2004](eu/32004r0599)): [(pdf)](static/SF/32004r0599.pdf)

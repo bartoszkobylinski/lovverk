@@ -312,12 +312,176 @@ Leketøy som ble brakt i omsetning før 1. desember 2013 og som er i samsvar med
 8. Kosmetisk leketøy, for eksempel lekesminke til dukker, skal også oppfylle kravene til sammensetning og merking fastsatt i [lov 21. desember 2005 nr. 126](lov/2005-12-21-126) om kosmetikk og kroppspleieprodukter m.m. (kosmetikkloven) og tilhørende forskrifter.
 9. Leketøy skal ikke inneholde følgende duftallergener:
 
+*Tabell 1. Duftallergener som ikke skal brukes i leker*
+
+| *Nr.* | *Duftallergenets navn* | *CAS-nummer* |
+| --- | --- | --- |
+| (1) | Olje av alantrot (Inula helenium) | 97676-35-2 |
+| (2) | Allylisothiocyanat | 57-06-7 |
+| (3) | Benzylcyanid | 140-29-4 |
+| (4) | 4-tert-butylfenol | 98-54-4 |
+| (5) | Chenopodiumolje | 8006-99-3 |
+| (6) | Cyklamenalkohol | 4756-19-8 |
+| (7) | Dietylmaleat | 141-05-9 |
+| (8) | Dihydrokumarin | 119-84-6 |
+| (9) | 2,4-dihydroksy-3-metylbenzaldehyd | 6248-20-0 |
+| (10) | 3,7-dimetyl-2-okten-1-ol (6,7-dihydrogeraniol) | 40607-48-5 |
+| (11) | 4,6-dimetyl-8-tert-butylkumarin | 17874-34-9 |
+| (12) | Dimetylcitrakonat | 617-54-9 |
+| (13) | 7,11-dimetyl-4,6,10-dodekatrien-3-on | 26651-96-7 |
+| (14) | 6,10-dimetyl-3,5,9-undekatrien-2-on | 141-10-6 |
+| (15) | Difenylamin | 122-39-4 |
+| (16) | Etylakrylat | 140-88-5 |
+| (17) | Fikenblader, friske og preparater | 68916-52-9 |
+| (18) | trans-2-heptenal | 18829-55-5 |
+| (19) | trans-2-heksenaldietylacetal | 67746-30-9 |
+| (20) | trans-2-heksenaldimetylacetal | 18318-83-7 |
+| (21) | Hydroabietylalkohol | 13393-93-6 |
+| (22) | 4-etoksyfenol | 622-62-8 |
+| (23) | 6-isopropyl-2-dekahydronaftalenol | 34131-99-2 |
+| (24) | 7-metoksykumarin | 531-59-9 |
+| (25) | 4-metoksyfenol | 150-76-5 |
+| (26) | 4-(p-metoksyfenyl)-3-buten-2-on | 943-88-4 |
+| (27) | 1-(p-metoksyfenyl)-1-penten-3-on | 104-27-8 |
+| (28) | Metyl-trans-2-butenoat | 623-43-8 |
+| (29) | 6-metylkumarin | 92-48-8 |
+| (30) | 7-metylkumarin | 2445-83-2 |
+| (31) | 5-metyl-2,3-heksanidon | 13706-86-0 |
+| (32) | Olje fra roten til Saussurea lappa (Saussurea lappa Clarke) | 8023-88-9 |
+| (33) | 7-etoksy-4-metylkumarin | 87-05-8 |
+| (34) | Heksahydrokumarin | 700-82-3 |
+| (35) | Perubalsam, rå (eksudat av Myroxylon pereirae [Royle] Klotzsch) | 8007-00-9 |
+| (36) | 2-pentylidensykloheksanon | 25677-40-1 |
+| (37) | 3,6,10-trimetyl-3,5,9-undekatrien-2-on | 1117-41-5 |
+| (38) | Olje av sitronverbena (Lippia citriodora Kunth) | 8024-12-2 |
+| (39) | Moskusambrette (4-tert-butyl-3-metoksy-2,6-dinitrotoluen) | 83-66-9 |
+| (40) | 4-fenyl-3-buten-2-on | 122-57-6 |
+| (41) | Amylkanelaldehyd | 122-40-7 |
+| (42) | Amylkanelalkohol | 101-85-9 |
+| (43) | Benzylalkohol | 100-51-6 |
+| (44) | Benzylsalisylat | 118-58-1 |
+| (45) | Kanelalkohol | 104-54-1 |
+| (46) | Kanelaldehyd | 104-55-2 |
+| (47) | Citral | 5392-40-5 |
+| (48) | Kumarin | 91-64-5 |
+| (49) | Eugenol | 97-53-0 |
+| (50) | Geraniol | 106-24-1 |
+| (51) | Hydroksycitronellal | 107-75-5 |
+| (52) | Hydroksy-metylpentylsykloheksenkarboksaldehyd | 31906-04-4 |
+| (53) | Isoeugenol | 97-54-1 |
+| (54) | Eikemoseekstrakt | 90028-68-5 |
+| (55) | Tremoseekstrakt | 90028-67-4 |
+| (56) | Atranol (2,6-dihydroksy-4-metyl-benzaldehyd) | 526-37-4 |
+| (57) | Kloratranol (3-klor-2,6-dihydroksy-4-metyl-benzaldehyd) | 57074-21-2 |
+| (58) | Metylheptinkarbonat | 111-12-6 |
+
 Forekomst av spor av disse duftstoffene kan imidlertid tillates, forutsatt at forekomsten er teknisk uunngåelig ved god framstillingspraksis og ikke overskrider 100 mg/kg.
 
 Dessuten skal navnene på følgende duftallergener angis på leketøyet, på en etikett, på emballasjen eller i en medfølgende brosjyre dersom de er tilsatt et leketøy eller som bestanddeler av leketøy i konsentrasjoner på over 100 mg/kg:
 
+*Tabell 2. Duftallergener som skal angis*
+
+| *Nr.* | *Duftallergenets navn* | *CAS-nummer* |
+| --- | --- | --- |
+| (1) | Anisylalkohol | 105-13-5 |
+| (2) | Benzylbenzoat | 120-51-4 |
+| (3) | Benzylcinnamat | 103-41-3 |
+| (4) | Sitronellol | 106-22-9,<br>1117-61-9,<br>7540-51-4 |
+| (5) | Farnesol | 4602-84-0 |
+| (6) | Heksylkanelaldehyd | 101-86-0 |
+| (7) | Lilial | 80-54-6 |
+| (8) | d-limonen | 5989-27-5 |
+| (9) | Linalool | 78-70-6 |
+| (10) | - | - |
+| (11) | 3-metyl-4-(2,6,6-trimetyl-2-sykloheksen-1-yl)-3-buten-2-on | 127-51-5 |
+| (12) | Acetylcedren | 32388-55-9 |
+| (13) | Amylsalisylat | 2050-08-0 |
+| (14) | trans-Anetol | 4180-23-8 |
+| (15) | Benzaldehyd | 100-52-7 |
+| (16) | Kamfer | 76-22-2, 464-49-3 |
+| (17) | Karvon | 99-49-0, 6485-40-1,<br>2244-16-8 |
+| (18) | beta-karyofyllen (ox.) | 87-44-5 |
+| (19) | Rose ketone-4 (damaskenon) | 23696-85-7 |
+| (20) | alfa-damaskon (TMCHB) | 43052-87-5, 23726-94-5 |
+| (21) | cis-beta-damaskon | 23726-92-3 |
+| (22) | delta-damaskon | 57378-68-4 |
+| (23) | Dimetylbenzylkarbinylacetat (DMBCA) | 151-05-3 |
+| (24) | Heksadekanolakton | 109-29-5 |
+| (25) | Heksametylindanopyran | 1222-05-5 |
+| (26) | (DL)-Limonen | 138-86-3 |
+| (27) | Linalylacetat | 115-95-7 |
+| (28) | Mentol | 1490-04-6, 89-78-1,<br>2216-51-5 |
+| (29) | Metylsalisylat | 119-36-8 |
+| (30) | 3-metyl-5-(2,2,3-trimetyl-2-syklopenten-1-yl)pent-4-en-2-ol | 67801-20-1 |
+| (31) | alfa-pinen | 80-56-8 |
+| (32) | beta-pinen | 127-91-3 |
+| (33) | Propylidenftalid | 17369-59-4 |
+| (34) | Salisylaldehyd | 90-02-8 |
+| (35) | alfa-santalol | 115-71-9 |
+| (36) | beta-santalol | 77-42-9 |
+| (37) | Sklareol | 515-03-7 |
+| (38) | alfa-terpineol | 10482-56-1, 98-55-5 |
+| (39) | Terpineol (blanding av isomerer) | 8000-41-7 |
+| (40) | Terpinolen | 586-62-9 |
+| (41) | Tetrametylacetyloktahydronaftalener | 54464-57-2, 54464-59-4,<br>68155-66-8, 68155-67-9 |
+| (42) | Trimetylbenzenpropanol (majantol) | 103694-68-4 |
+| (43) | Vanillin | 121-33-5 |
+| (44) | Cananga odorata og Ylang-ylang-olje | 83863-30-3, 8006-81-3 |
+| (45) | Barkolje av Cedrus Atlantica | 92201-55-3, 8000-27-9 |
+| (46) | Bladolje av Cinnamomum cassia | 8007-80-5 |
+| (47) | Barkolje av Cinnamomum zeylanicum | 84649-98-9 |
+| (48) | Blomsterolje av Citrus aurantium amara | 8016-38-4 |
+| (49) | Skallolje av Citrus aurantium amara | 72968-50-4 |
+| (50) | Presset skallolje av Citrus bergamia | 89957-91-5 |
+| (51) | Presset skallolje av Citrus limonum | 84929-31-7 |
+| (52) | Presset skallolje av Citrus sinensis (syn.: Aurantium dulcis) | 97766-30-8, 8028-48-6 |
+| (53) | Oljer av Cymbopogon citratus/schoenanthus | 89998-14-1, 8007-02-01,<br>89998-16-3 |
+| (54) | Bladolje av Eucalyptus spp. | 92502-70-0, 8000-48-4 |
+| (55) | Bladolje/blomsterolje av Eugenia caryophyllus | 8000-34-8 |
+| (56) | Jasminum grandiflorum/officinale | 84776-64-7, 90045-94-6,<br>8022-96-6 |
+| (57) | Juniperus virginiana | 8000-27-9, 85085-41-2 |
+| (58) | Fruktolje av Laurus nobilis | 8007-48-5 |
+| (59) | Bladolje av Laurus nobilis | 8002-41-3 |
+| (60) | Frøolje av Laurus nobilis | 84603-73-6 |
+| (61) | Lavandula hybrida | 91722-69-9 |
+| (62) | Lavandula officinalis | 84776-65-8 |
+| (63) | Mentha piperita | 8006-90-4, 84082-70-2 |
+| (64) | Mentha spicata | 84696-51-5 |
+| (65) | Narcissus spp. | Diverse, herunder 90064-25-8 |
+| (66) | Pelargonium graveolens | 90082-51-2, 8000-46-2 |
+| (67) | Pinus mugo | 90082-72-7 |
+| (68) | Pinus pumila | 97676-05-6 |
+| (69) | Pogostemon cablin | 8014-09-03, 84238-39-1 |
+| (70) | Rosenolje (Rosa spp.) | Diverse, herunder 8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6 |
+| (71) | Santalum album | 84787-70-2, 8006-87-9 |
+| (72) | Terpentinolje | 8006-64-2, 9005-90-7,<br>8052-14-0 |
+
 1. Det er tillatt å bruke duftstoffene gitt i tabell 1, nr. 41–51, og duftstoffene gitt i tabell 2 nr. 1–11 i luktesansspill, kosmetikksett og smakssansspill:dersom disse duftstoffene er tydelig angitt på emballasjen, og emballasjen er forsynt med advarselen fastsatt i vedlegg V del B nr. 10,dersom det er relevant at de produktene barnet framstiller i henhold til bruksanvisningen, er i samsvar med kravene i [lov 21. desember 2005 nr. 126](lov/2005-12-21-126) om kosmetikk og kroppspleieprodukter m.m. (kosmetikklova) og tilhørende forskrifter,dersom det er relevant at disse duftstoffene er i samsvar med gjeldende næringsmiddelregelverk.Slike luktesansspill, kosmetikksett og smakssansspill skal ikke brukes av barn under 36 måneder og for øvrig være i samsvar med kravene i vedlegg V del B nr. 1.
 2. Følgende grenser for migrasjon fra leketøy eller bestanddeler av leketøy skal uansett ikke overskrides:
+
+*Tabell 3. Grenseverdier for migrasjon av grunnstoffer*
+
+| *Grunnstoff* | *mg/kg i tørt, sprøtt, pulverlignende eller bøyelig leketøysmateriale* | *mg/kg i flytende eller klebrig leketøysmateriale* | *mg/kg i avskrapet leketøysmateriale* |
+| --- | --- | --- | --- |
+| Aluminium | 2 250 | 560 | 28 130 |
+| Antimon | 45 | 11,3 | 560 |
+| Arsen | 3,8 | 0,9 | 47 |
+| Barium | 1500 | 375 | 18 750 |
+| Bor | 1200 | 300 | 15 000 |
+| Kadmium | 1,3 | 0,3 | 17 |
+| Krom (III) | 37,5 | 9,4 | 460 |
+| Krom (VI) | 0,02 | 0,005 | 0,053 |
+| Kobolt | 10,5 | 2,6 | 130 |
+| Kobber | 622,5 | 156 | 7700 |
+| Bly | 2,0 | 0,5 | 23 |
+| Mangan | 1200 | 300 | 15 000 |
+| Kvikksølv | 7,5 | 1,9 | 94 |
+| Nikkel | 75 | 18,8 | 930 |
+| Selen | 37,5 | 9,4 | 460 |
+| Strontium | 4500 | 1125 | 56 000 |
+| Tinn | 15 000 | 3750 | 180 000 |
+| Organisk tinn | 0,9 | 0,2 | 12 |
+| Sink | 3750 | 938 | 46 000 |
 
 Disse grenseverdiene gjelder ikke for leketøy eller bestanddeler av leketøy der det på grunn av leketøyets eller leketøybestanddelenes tilgjengelighet, funksjon, volum eller masse helt kan utelukkes at de utgjør noen fare som følge av suging, slikking, svelging eller langvarig kontakt med huden når leketøyet brukes for det tiltenkte formål eller på en måte som kan forutses.
 
@@ -348,21 +512,39 @@ Leketøy skal være i samsvar med alle relevante tiltak vedtatt i henhold til ka
 
 ### VII. Tillegg A – Liste over tillatt bruk av CMR-stoffer
 
+| *Stoff* | *Klassifisering* | *Tillatt bruk* |
+| --- | --- | --- |
+| Nikkel | CMR 2 | I rustfritt stål<br>I deler av leketøy som skal lede elektrisk strøm |
+
 > Endret ved forskrift [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485). **Endres** ved forskrift [7 mai 2026 nr. 763](forskrift/2026-05-07-763) (i kraft 29 aug 2026).
 
 ### VIII. Tillegg B – Klassifisering av stoffer og stoffblandinger
 
 Perioden fram til 2015 er overgangsperiode mellom eksisterende og nytt regelverk for klassifisering, merking og emballering av kjemikalier. Nedenfor følger oversikt over hvilket regelverk som skal følges i denne perioden.
 
+*Stoffer*
+
 Stoffer skal klassifiseres i henhold til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
+
+*Stoffblandinger*
 
 Fram til 31. mai 2015 skal stoffblandinger klassifiseres i henhold til [forskrift 16. juli 2002 nr. 1139](forskrift/2002-07-16-1139) om klassifisering, merking, mv. av farlige kjemikalier.
 
 Fra 1. juni 2015 skal stoffblandinger klassifiseres i henhold til CLP-forskriften.
 
+*1. Kriterier for klassifisering av stoffer og stoffblandinger som faller inn under kravene i forskriftens vedlegg II Særlige sikkerhetskrav del II Antennelighet, nr. 2*
+
+*A. Kriterier som skal anvendes fram til 31. mai 2015:*
+
+*Stoffer*
+
 Stoffet oppfyller kriteriene for en av følgende fareklasser eller -kategorier som fastsatt i vedlegg I til CLP-forskriftenfareklasse 2.1–2.4, 2.6 og 2.7, 2.8 type A og B, 2.9, 2.10, 2.12, 2.13 kategori 1 og 2, 2.14 kategori 1 og 2, 2.15 type A–F,fareklasse 3.1–3.6, 3.7 skadevirkninger på kjønnsfunksjoner og fruktbarhet eller på utviklingen, 3.8 andre virkninger enn narkotiske virkninger, 3.9 og 3.10,fareklasse 4.1,fareklasse 5.1.
 
+*Stoffblandinger*
+
 Stoffblandingen er farlig i henhold til forskrift om merking mv av farlige kjemikalier
+
+*B. Kriterier som skal anvendes fra 1. juni 2015:*
 
 Stoffet eller stoffblandingen oppfyller kriteriene for en av følgende fareklasser eller -kategorier som fastsatt i vedlegg I til CLP-forskriftenfareklasse 2.1–2.4, 2.6 og 2.7, 2.8 type A og B, 2.9, 2.10, 2.12, 2.13 kategori 1 og 2, 2.14 kategori 1 og 2, 2.15 type A–F,fareklasse 3.1–3.6, 3.7 skadevirkninger på kjønnsfunksjoner og fruktbarhet eller på utviklingen, 3.8 andre virkninger enn narkotiske virkninger, 3.9 og 3.10,fareklasse 4.1,fareklasse 5.1.
 
@@ -370,9 +552,26 @@ Stoffet eller stoffblandingen oppfyller kriteriene for en av følgende fareklass
 
 ### IX. Tillegg C – Særlige grenseverdier for kjemikalier som brukes i leketøy beregnet på å brukes av barn under 36 måneder eller i annet leketøy beregnet på å puttes i munnen
 
+| *Stoff* | *CAS-nr.* | *Grenseverdi* |
+| --- | --- | --- |
+| TCEP (tris(2-kloretyl)fosfat) | 115-96-8 | 5 mg/kg (innholdsgrense) |
+| TCPP (tris(2-klor-1-metyletyl)fosfat) | 13674-84-5 | 5 mg/kg (innholdsgrense) |
+| TDCP (tris[2-klor-1-(klormetyl)etyl]fosfat) | 13674-87-8 | 5 mg/kg (innholdsgrense) |
+| Bisfenol a | 80-05-7 | 0,04 mg/l (migrasjonsgrense) i overensstemmelse med metodene fastlagt i og EN 71-11: 2005 |
+| Formamid | 75-12-7 | 20 µg/m3 (emisjonsgrense) etter maksimalt 28 dager fra oppstart av testing av utslipp fra materiale av skum som inneholder mer enn 200 mg/kg. Testing av utslipp kreves ikke for materiale som inneholder 200 mg/kg formamid eller mindre. |
+| 1,2-benzisothiazol-3(2H)-one (BIT) | 2634-33-5 | 5 mg/kg (innholdsgrense) i vannbaserte materialer i overenstemmelse med metodene fastlagt i EN 71-10:2005 og EN 71-11:2005 |
+| Blanding av: 5-chloro-2-methyl-4-isothiazolin-3-one [EC nr. 247-500-7] (CMIT) og 2-methyl-2H-isothiazol-3-one [EC nr. 220-239-6] (MIT) (3:1) | 55965-849 | 1 mg/kg (innholdsgrense) i vannbaserte materialer |
+| 5-chloro-2-methyl-4-isothiazolin-3-one [EC nr. 247-500-7] (CMIT) | 26172-55-4 | 0,75 mg/kg (innholdsgrense) i vannbaserte materialer |
+| 2-methyl-2H-isothiazol-3-one [EC nr. 220-239-6] (MIT) | 2682-20-4 | 0,25mg/kg (innholdsgrense) i vannbaserte materialer |
+| Fenol | 108-95-2 | 5 mg/l (migrasjonsgrense) i polymermateriale i overensstemmelse med metodene fastlagt i EN-71-10: 2005 og EN 71-11: 2005:<br>10 mg/kg (innholdsgrense) som konserveringsmiddel i overensstemmelse med metodene fastlagt i EN-71-10: 2005 og EN 71-11: 2005: |
+| Formaldehyd | 50-00-0 | 1,5 mg/l (migrasjonsgrense) i polymerisk leketøymateriale<br>0,1 mg/m3 (emisjonsgrense) i harpiksbundet leketøymateriale av tre<br>30 mg/kg (innholdsgrense) i leketøymateriale av tekstil<br>30 mg/kg (innholdsgrense) i leketøymateriale av lær<br>30 mg/kg (innholdsgrense) i leketøymateriale av papir<br>10 mg/kg (innholdsgrense) i vannbasert leketøymateriale |
+| Anilin | 62-53-3 | 30 mg/kg etter reduktiv spaltning i materialer av tekstil til leketøy og i materialer av lær til leketøy<br>10 mg/kg fri anilin i fingermaling<br>30 mg/kg anilin etter reduktiv spaltning i fingermaling |
+
 > Endret ved forskrifter [5 aug 2021 nr. 2485](forskrift/2021-08-05-2485), [15 des 2021 nr. 3637](forskrift/2021-12-15-3637) (i kraft 5 des 2022).
 
 ## Vedlegg III – Krav til EF-samsvarserklæring
+
+*Samsvarserklæringen skal inneholde:*
 
 1. Nr. ... (entydig identifikasjon av leketøyet).
 2. Navn på og adresse til produsenten eller produsentens representant.
@@ -389,7 +588,11 @@ Den tekniske dokumentasjonen omhandlet i [§ 19](forskrift/2013-11-18-1403/§19)
 
 ## Vedlegg V – Advarsler
 
+*Del A – Generelle advarsler*
+
 Brukerbegrensningene nevnt i [§ 11](forskrift/2013-11-18-1403/§11) første ledd skal minst omfatte laveste eller høyeste tillatte alder og, dersom det er relevant, nødvendige evner, høyeste eller laveste tillatte vekt og krav om at leketøyet bare skal brukes under tilsyn av en voksen.
+
+*Del B – Særlige advarsler og opplysninger om forholdsregler ved bruk av visse kategorier av leketøy*
 
 1. *Leketøy som ikke er beregnet på å brukes av barn under 36 måneder*Leketøy som kan være farlig for barn under 36 måneder, skal være forsynt med en advarsel som for eksempel «Ikke egnet for barn under 36 måneder» eller «Ikke egnet for barn under tre år», eller en advarsel i form av følgende symbol:Disse advarslene skal være ledsaget av en kort opplysning, som kan stå i bruksanvisningen, om den særlige faren som er årsaken til denne forholdsregelen.Dette punktet får ikke anvendelse på leketøy som på grunn av sin funksjon, sine dimensjoner, karakteristika eller egenskaper eller av andre tvingende grunner er åpenbart uegnet for barn under 36 måneder.
 2. *Aktivitetsleketøy*Aktivitetsleketøy skal være forsynt med følgende advarsel:«Bare til privat bruk.»Aktivitetsleketøy som er montert på en tverrbjelke, og om nødvendig annet aktivitetsleketøy, skal være ledsaget av instruksjoner som gjør oppmerksom på behovet for kontroll med og vedlikehold av de viktigste delene (oppheng, fester, festeinnretninger osv.) med visse mellomrom, og som påpeker at leketøyet kan forårsake fall eller velt dersom disse kontrollene ikke blir foretatt. Det skal også gis instruksjon om hvordan leketøyet monteres riktig, idet det vises til de delene som kan utgjøre en fare dersom monteringen ikke er korrekt. Det skal gis særlige opplysninger om hvilket underlag som er egnet til å plassere leketøyet på.
@@ -402,13 +605,29 @@ Brukerbegrensningene nevnt i [§ 11](forskrift/2013-11-18-1403/§11) første led
 9. *Leketøy beregnet på å spennes ut over en vugge, barneseng eller barnevogn ved hjelp av snorer, bånd, strikker eller remmer*Leketøy som er beregnet på å spennes ut over en vugge, barneseng eller barnevogn ved hjelp av snorer, bånd, strikker eller remmer, skal være forsynt med følgende advarsel både på emballasjen og permanent påført selve leketøyet:«For å unngå eventuell skade ved at barnet vikler seg inn i leketøyet, skal dette leketøyet fjernes når barnet begynner å forsøke å reise seg på alle fire for å krabbe.»
 10. *Emballasje til duftstoffer i luktesansspill, kosmetikksett og smakssansspill*Emballasje til duftstoffer i luktesansspill, kosmetikksett og smakssansspill som inneholder duftstoffene oppført i punkt 41–55 i tabell 1 i vedlegg II del III og i [punkt](forskrift/2013-11-18-1403/kap1) 1–11 i tabell 2, skal være forsynt med følgende advarsel:«Inneholder duftstoffer som kan forårsake allergi.»
 
+1 Alderen fastsettes av produsenten.
+
+I vedlegg VI og VII gjengis relevante bestemmelser i forordning [(EF) nr. 765/2008](eu/32008r0765) om krav til akkreditering og markedstilsyn i tilknytning til at varer settes på markedet som gjennomført i EØS-vareloven, og beslutning [2008/768/EF](eu/32008d0768*) om en felles ramme for markedsføring av produkter
+
 ## Vedlegg VI – Generelle prinsipper for CE-merkingen
+
+*Fra forordning [(EF) nr. 765/2008](eu/32008r0765) om fastsettelse av kravene til akkreditering og markedstilsyn for markedsføring av produkter, og om oppheving av forordning [(EØF) nr. 339/93](eu/31993r0339*)*
+
+*Artikkel 30*
+
+*Allmenne prinsipper for CE-merkingen*
 
 1. CE-merkingen skal påføres bare av produsenten eller dennes representant.
 2. CE-merkingen som vist i vedlegg II skal påføres produkter bare dersom det i Fellesskapets harmoniseringsregelverk er fastsatt særlige bestemmelser om at produktet skal påføres CE-merking, og skal ikke påføres noe annet produkt.
 3. Ved å påføre eller få påført CE-merkingen viser produsenten at vedkommende påtar seg ansvaret for at produktet er i samsvar med alle gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
 4. CE-merkingen skal være den eneste merkingen som bekrefter at produktet er i samsvar med gjeldende krav fastsatt i Fellesskapets gjeldende harmoniseringsregelverk for slik påføring.
 5. Det er forbudt å påføre et produkt merking, tegn eller inskripsjoner som kan villede tredjemann med hensyn til CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres produktet, forutsatt at den ikke gjør CE-merkingen mindre synlig eller lesbar eller endrer dens betydning.
+
+(...)
+
+*VEDLEGG II*
+
+*CE-merking*
 
 1. CE-merkingen skal bestå av bokstavene «CE» i følgende grafiske utforming:
 2. Dersom CE-merkingen blir forminsket eller forstørret, skal størrelsesforholdet slik det framgår av figuren i nr. 1, overholdes.
@@ -418,16 +637,22 @@ Brukerbegrensningene nevnt i [§ 11](forskrift/2013-11-18-1403/§11) første led
 
 *Beskrivelsen av modulene er hentet fra beslutning [2008/768/EF](eu/32008d0768*) om en felles ramme for markedsføring av produkter og om oppheving av rådsbeslutning [93/465/EØF](eu/31993d0465)*
 
+*Modul A – Intern produksjonskontroll*
+
 1. Intern produksjonskontroll er den framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer som eneansvarlig at de berørte produktene oppfyller de kravene i rettsakten som gjelder for dem.
 2. *Teknisk dokumentasjon*Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i rettsakten når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter.
 3. *Produksjon*Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte produktene er i samsvar med den tekniske dokumentasjonen omhandlet i nr. 2, og oppfyller de kravene i rettsaktene som gjelder for dem.
 4. *Samsvarsmerking og samsvarserklæring*Produsenten skal påføre den nødvendige samsvarsmerkingen som angitt i rettsakten på hvert enkelt produkt som oppfyller gjeldende krav i rettsakten.Produsenten skal utarbeide en skriftlig samsvarserklæring for en produktmodell og kunne stille den og den tekniske dokumentasjonen til rådighet for de nasjonale myndigheter i ti år etter at produktet er brakt i omsetning. I samsvarserklæringen skal det angis hvilket produkt den er utarbeidet for.En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 RepresentantProdusentens forpliktelser i henhold til nr. 4 kan på dennes vegne og ansvar oppfylles av produsentens representant, forutsatt at dette er angitt i fullmakten.
 
+*Modul B – EF-typeprøving*
+
 1. EF-typeprøving er den delen av framgangsmåten for samsvarsvurdering der et meldt organ undersøker den tekniske konstruksjonen av et produkt og kontrollerer og bekrefter at den tekniske konstruksjonen oppfyller de kravene i rettsakten som gjelder for det.
 2. EF-typeprøving kan utføres på en av følgende måter:undersøkelse av et eksemplar som er representativt for den planlagte produksjonen, av hele produktet (produksjonstype),vurdering av egnetheten til den tekniske konstruksjonen av produktet ved undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen omhandlet i nr. 3, samt undersøkelse av eksemplarer som er representative for den planlagte produksjonen, av en eller flere viktige deler av produktet (kombinasjon av produksjonstype og konstruksjonstype),vurdering av egnetheten til produktets tekniske konstruksjon ved undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjonen omhandlet i nr. 3, uten undersøkelse av et eksemplar (konstruksjonstype).
 3. Produsenten skal inngi en søknad om EF-typeprøving til ett meldt organ etter eget valg.Søknaden skal inneholde:produsentens navn og adresse samt representantens navn og adresse dersom denne har inngitt søknaden,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med gjeldende krav i rettsakten, og skal omfatte en tilfredsstillende analyse og vurdering av risikoen. Den tekniske dokumentasjonen skal inneholde en beskrivelse av de gjeldende kravene og skal, i den grad det er relevant for vurderingen, omfatte produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå nevnte tegninger og lister og hvordan produktet virker,en liste over de harmoniserte standardene og/eller andre relevante tekniske spesifikasjoner som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, anvendt delvis eller i sin helhet, og beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende kravene i rettsakten når disse harmoniserte standardene ikke er anvendt. I tilfeller der harmoniserte standarder er anvendt delvis, skal det i den tekniske dokumentasjonen angis hvilke deler som er anvendt,resultatene av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om ytterligere eksemplarer dersom det er nødvendig for å kunne gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske konstruksjonen er tilfredsstillende. I underlagsdokumentasjonen skal alle dokumenter som er anvendt, angis, særlig dersom de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt i sin helhet. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på produsentens ansvar.
 4. Det meldte organ skalfor produktet:undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om produktets tekniske konstruksjon er tilfredsstillende, for prøveeksemplarene:kontrollere at prøveeksemplarene er produsert i samsvar med den tekniske dokumentasjonen og fastslå hvilke deler som er konstruert i samsvar med gjeldende bestemmelser i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, samt hvilke deler som er konstruert uten at gjeldende bestemmelser i de nevnte standardene er blitt anvendt,utføre eller få utført egnede undersøkelser og prøvinger for, i de tilfeller der produsenten har valgt å anvende løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene, å kontrollere om disse løsningene er anvendt korrekt,utføre eller få utført egnede undersøkelser og prøvinger for i de tilfeller der løsningene i de relevante harmoniserte standardene og/eller tekniske spesifikasjonene ikke er anvendt, å kontrollere om de løsningene som produsenten har valgt, oppfyller de tilsvarende grunnleggende kravene i rettsakten,avtale med produsenten hvor undersøkelsene og prøvingene skal utføres.Det meldte organ skal utarbeide en vurderingsrapport om hvilke tiltak som er truffet i samsvar med nr. 4, samt resultatene av dem. Uten at det berører det meldte organs plikter overfor meldermyndighetene, skal det meldte organ helt eller delvis offentliggjøre innholdet i denne rapporten bare med produsentens samtykke.Dersom typen oppfyller kravene i den rettsakten som får anvendelse på det berørte produktet, skal det meldte organ utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde produsentens navn og adresse, konklusjonene fra undersøkelsen, eventuelle vilkår for sertifikatets gyldighet og de nødvendige data for identifikasjon av den godkjente typen. Sertifikatet kan ha ett eller flere vedlegg.Sertifikatet og dets vedlegg skal inneholde alle opplysninger som er nødvendige for å vurdere om de produserte produktene er i samsvar med den undersøkte typen og for å kontrollere produkter under bruk.Dersom typen ikke oppfyller gjeldende krav i rettsakten, skal det meldte organ nekte å utstede et EF-typeprøvingssertifikat, underrette søkeren om dette og gi en detaljert begrunnelse for avslaget.Det meldte organ skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i rettsakten, og bestemme om slike endringer krever ytterligere undersøkelser. Dersom det er tilfellet, skal det meldte organ underrette produsenten om dette.Produsenten skal underrette det meldte organ som oppbevarer den tekniske dokumentasjonen med hensyn til EF-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan påvirke produktets samsvar med de grunnleggende kravene i rettsakten eller vilkårene for sertifikatets gyldighet. Slike endringer krever ytterligere godkjenning i form av et tillegg til det opprinnelige EF-typeprøvingssertifikatet.Hvert meldt organ skal underrette sine meldermyndigheter om de EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for sine meldermyndigheter listen over sertifikater og/eller eventuelle tillegg til disse som er avslått, midlertidig opphevet eller på annen måte begrenset.Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse som de har avslått, trukket tilbake, midlertidig opphevet eller på annen måte begrenset, og på anmodning om de sertifikater og/eller tillegg til disse som det har utstedt.Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller tilleggene til disse. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene utført av det meldte organ. Det meldte organ skal oppbevare en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt de tekniske data, herunder den dokumentasjonen som er lagt fram av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.Produsenten skal kunne stille en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen til rådighet for de nasjonale myndigheter i ti år etter at produktet er brakt i omsetning.Produsentens representant kan inngi søknaden omhandlet i nr. 3 og oppfylle forpliktelsene nevnt i nr. 7 og 9, forutsatt at dette er angitt i fullmakten.
+
+*Modul C – Typesamsvar på grunnlag av intern produksjonskontroll*
 
 1. Typesamsvar på grunnlag av intern produksjonskontroll er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 3, og sikrer og erklærer at de berørte produktene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller de kravene i rettsakten som gjelder for dem.
 2. *Produksjon*Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte produktene er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet, og oppfyller de kravene i rettsakten som gjelder for dem.

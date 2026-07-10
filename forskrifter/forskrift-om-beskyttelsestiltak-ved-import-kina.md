@@ -54,6 +54,8 @@ Samtidig oppheves [forskrift 6. januar 2003 nr. 2](forskrift/2003-01-06-2) om ve
 
 ## Vedlegg
 
+*Del I. Liste over produkter av animalsk opprinnelse bestemt til konsum eller til dyrefôr som kan importeres til EØS uten sertifikatet som nevnt i [§ 3](forskrift/2004-08-31-1229/§3)*
+
 - fisk og fiskeprodukter, unntatt:akvakulturprodukter,rensede og/eller behandlede reker,kreps av arten Procambrus clarkii fanget ved fiske i naturlig ferskvann.
 - gelatin,
 - tilsetningsstoffer i næringsmidler som er omfattet av [forskrift 6. juni 2011 nr. 668 om tilsetningsstoffer til næringsmidler](forskrift/2011-06-06-668) (forordning [(EF) nr. 1333/2008](eu/32008r1333)),
@@ -63,6 +65,8 @@ Samtidig oppheves [forskrift 6. januar 2003 nr. 2](forskrift/2003-01-06-2) om ve
 - kondroitin sulfat og glukosamin ansett som fôrmidler som er omfattet av [forskrift 2. april 2011 nr. 360 om merking og omsetning av fôrvarer](forskrift/2011-04-02-360) (forordning [(EF) nr. 68/2013](eu/32013r0068)),
 - vitamin D3 og dets forløpere, som skal benyttes som fôrtilsetningsstoffer i samsvar med [forskrift 12. april 2005 nr. 319 om tilsetningsstoffer til bruk i fôrvarer](forskrift/2005-04-12-319) (forordning [(EF) nr. 1831/2003](eu/32003r1831)), til dyrefôr til produksjonsdyr og kjæledyrfôr som er omfattet av [forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum](forskrift/2016-09-14-1064) (forordning [(EF) nr. 1069/2009](eu/32009r1069)),
 - L-cystein og L-cystin som skal benyttes som fôrtilsetningsstoffer i samsvar med [forskrift 12. april 2005 nr. 319 om tilsetningsstoffer til bruk i fôrvarer](forskrift/2005-04-12-319) (forordning [(EF) nr. 1831/2003](eu/32003r1831)).
+
+*Del II. Liste over produkter av animalsk opprinnelse bestemt til konsum eller til dyrefôr som kan importeres til EØS dersom de ledsages av sertifikatet som nevnt i [§ 3](forskrift/2004-08-31-1229/§3)*
 
 - Akvakulturprodukter,
 - Rensede og/eller behandlede reker,

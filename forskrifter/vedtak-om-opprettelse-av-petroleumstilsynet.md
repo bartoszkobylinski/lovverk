@@ -28,3 +28,5 @@ eu_basis: []
 4. Fastsettelse av instruks om koordingering av tilsynet med helse, miljø og sikkerhet i petroleumsvirksomheten på norsk kontinentalsokkel og på enkelte anlegg på land, i samsvar med vedlagte forslag.1
 5. Petroleumstilsynet skal føre tilsyn med sikkerheten i forbindelse med planlegging og gjennomføring av petroleumsvirksomhet på Svalbard.
 6. [Kgl.res. av 28. juni 1985 nr. 3388](forskrift/1985-06-28-3388) om ordningen av tilsynet med sikkerheten mv i petroleumsvirksomheten på den norske kontinentalsokkel, oppheves.
+
+1 Se instruks av 19. desember 2003 nr. 1594.

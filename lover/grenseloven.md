@@ -288,10 +288,21 @@ Med bot eller fengsel inntil seks måneder eller begge deler straffes den som fo
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1. mai 2022 med unntak av [§ 8](lov/2018-04-20-8/§8) første ledd nr. 2 iflg. [res. 29 april 2022 nr. 638](forskrift/2022-04-29-638).
+Fra 12. oktober 2025 for [§ 8](lov/2018-04-20-8/§8) første ledd nr. 2 iflg. [res. 19 sep 2025 nr. 1875](forskrift/2025-09-19-1875).
+
 ### § 28. Oppheving av og endringer i andre lover
 
 Fra det tidspunkt loven trer i kraft oppheves [lov 14. juli 1950 nr. 2](lov/1950-07-14-2) om forskjellige tiltak til gjennomføring av oppmerking og overvåking av riksgrensen.
 
 Fra det tidspunkt loven trer i kraft gjøres følgende endringer i andre lover:
+
+**1.** I [lov 4. august 1995 nr. 53](lov/1995-08-04-53) om politiet gjøres følgende endringer: – – –
+
+**2.** I [lov 13. juni 1997 nr. 42](lov/1997-06-13-42) om Kystvakten skal [§ 3](lov/1997-06-13-42/§3) andre ledd annet punktum lyde: – – –
+
+**3.** I [lov 19. juni 1997 nr. 82](lov/1997-06-19-82) om pass oppheves [§ 6 a](lov/1997-06-19-82/§6a).
+
+**4.** I [lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her gjøres følgende endringer: – – –
 
 > Endret ved lover [21 juni 2019 nr. 70](lov/2019-06-21-70) (i kraft 1 jan 2022 iflg. [res. 21 juni 2019 nr. 872](forskrift/2019-06-21-872)), [29 april 2022 nr. 26](lov/2022-04-29-26).

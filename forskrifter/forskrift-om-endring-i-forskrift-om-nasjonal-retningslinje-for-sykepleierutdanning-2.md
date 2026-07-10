@@ -24,13 +24,25 @@ eu_basis: []
 
 ## I
 
+I [forskrift 4. juli 2025 nr. 1477 om nasjonal retningslinje for sykepleierutdanning](forskrift/2025-07-04-1477) gjøres følgende endringer:
+
+[§ 2 andre ledd](forskrift/2025-07-04-1477/§2/ledd/2) skal lyde:
+
 Utdanningen skal sikre at kandidaten kan utøve sykepleie til pasienter med komplekse og sammensatte sykdomsbilder. Kandidaten skal kunne ta ansvar for og å gjøre selvstendige, systematiske kliniske vurderinger, prioriteringer og beslutninger, samt kritisk vurdere effekten av sykepleie og behandling. Utdanningen skal bidra til at kandidaten utvikler gode ferdigheter i kommunikasjon, veiledning, faglig ledelse og samhandling. Kompetanse i kvalitets- og forbedringsarbeid skal bidra til å redusere uønskede hendelser og variasjon, samt sikre pasient- og brukermedvirkning. Kandidaten skal kunne utøve sykepleie til mennesker i alle aldre i et individ-, gruppe og samfunnsperspektiv.
+
+[§ 2 fjerde ledd](forskrift/2025-07-04-1477/§2/ledd/4) skal lyde:
 
 Sykepleierutdanningen skal være praksisnær, profesjonsrettet og forskningsbasert, og skal møte samfunnets krav om likeverdige og kunnskapsbaserte tjenester. Etter endt utdanning skal kandidaten kunne bidra til en bærekraftig utvikling av helse- og omsorgstjenesten i takt med demografiske og teknologiske endringer.
 
+[§ 4 bokstav g](forskrift/2025-07-04-1477/§4/bokstav/g) skal lyde:
+
 1. har bred kunnskap om psykisk helse og de vanligste psykiske lidelser, sykdommer og behandling
 
+[§ 5 bokstav a](forskrift/2025-07-04-1477/§5/bokstav/a) skal lyde:
+
 1. kan anvende faglig kunnskap om helse og sykdom for å systematisk observere, kritisk vurdere, beslutte, iverksette og dokumentere hensiktsmessige sykepleietiltak, samt evaluere effekten av disse og justere ved behov
+
+[§ 23 andre ledd](forskrift/2025-07-04-1477/§23/ledd/2) skal lyde:
 
 Utdanningen skal være organisert fra det grunnleggende til det mer kompliserte og sammensatte. Gjennomgående temaer skal være: etikk, pasientsikkerhet, kommunikasjon, samhandling og faglig ledelse. Første studieår skal omfatte grunnleggende sykepleie, anatomi, fysiologi og biokjemi og ledelse av eget arbeid. Andre studieår skal omfatte sykepleie til mennesker med akutt, kronisk og kritisk sykdom. Tredje studieår skal omfatte komplekse og sammensatte pasienttilstander og sykdomsbilder, samt ledelse av tverrfaglige grupper og pasientens forløp i behandlingskjeden.
 

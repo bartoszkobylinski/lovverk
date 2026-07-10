@@ -758,6 +758,8 @@ Departementet kan gi forskrift om Husleietvistutvalget.
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 1 jan 2000 iflg. [res. 26 mars 1999 nr. 248](forskrift/1999-03-26-248).
+
 ### § 13-2. Overgangsbestemmelser
 
 Loven gjelder fullt ut for leieavtale som er inngått etter lovens ikrafttredelse.

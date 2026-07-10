@@ -184,10 +184,16 @@ Samferdselsdepartementet kan dispensere fra kravene i forskriften i den grad det
 
 ## Vedlegg
 
+*Terminalavgiftssone A*
+
 Det samlede luftrommet hvor det ytes terminalflysikringstjenester til flygninger til følgende lufthavner:Bergen lufthavn, FleslandOslo lufthavn, GardermoenStavanger lufthavn, SolaTrondheim lufthavn, Værnes.
+
+*Underveisavgiftssone*
 
 Hele det norske luftrommet fra bakken og opp til og med det øvre luftrommet, med unntak av flygningene til og fra kontinentalsokkelen.
 
 > Endret ved [forskrift 20 des 2019 nr. 2116](forskrift/2019-12-20-2116) (i kraft 1 jan 2020).
 
 ## Forordning
+
+Se her for å lese forordning [(EU) nr. 391/2013](eu/32013r0391): [EFTAs nettside](https://www.efta.int/sites/default/files/documents/legal-texts/eea/other-legal-documents/solr/translated-legal-acts/norwegian/n32013R0391.pdf).

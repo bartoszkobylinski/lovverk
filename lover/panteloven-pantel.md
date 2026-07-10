@@ -366,6 +366,8 @@ Panterett i driftstilbehør eller i overførbar bruksrett til driftstilbehør f�
 
 (5) [§ 3-4](lov/1980-02-08-2/§3-4) tredje ledd og [§ 3-5](lov/1980-02-08-2/§3-5) gjelder tilsvarende.
 
+1 Justisdepartementet iflg. [res. 21 nov 1980 nr. 14 § 4](forskrift/1980-11-21-14/§4).
+
 ### § 3-12. Rettsvern.
 
 (1) Panterett i varelager får rettsvern ved tinglysing på eierens blad i Løsøreregisteret.
@@ -499,6 +501,8 @@ Panterett i medlemskap i samvirkeforetak som kan pantsettes etter [samvirkeloven
 (3) Panteretten får rettsvern ved at det gis melding om pantsettelsen til vedkommende utleier eller selskap. Dersom det er knyttet innskuddsbevis til leieretten eller boretten, må dette i tillegg overleveres etter reglene i [§ 3-2](lov/1980-02-08-2/§3-2) annet ledd, eller melding må gis til besitteren av dokumentet etter reglene i [§ 3-2](lov/1980-02-08-2/§3-2) tredje ledd.
 
 > Endret ved [lover 26 juni 1992 nr. 86](lov/1992-06-26-86), [1 juni 2001 nr. 28](lov/2001-06-01-28) (ikr. 1 juli 2001 iflg. [res. 1 juni 2001 nr. 560](forskrift/2001-06-01-560)), [6 juni 2003 nr. 39](lov/2003-06-06-39) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 626](forskrift/2006-06-16-626)), [21 des 2005 nr. 130](lov/2005-12-21-130) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 875](forskrift/2006-06-30-875)).
+
+1 Jf. lover 16 juni 1939 nr. 6 kap. 9 jf. [lov 26 mars 1999 nr. 17 § 13-2](lov/1999-03-26-17/§13-2) (5) om at kapitlet gjelder for avtaler inngått før 1999-loven trådte ikr. (ikr. 1 jan 2000 iflg. res. 20 mars 1999 nr. 248), [lov 6 juni 2003 nr. 38](lov/2003-06-06-38), [lov 6 juni 2003 nr. 39](lov/2003-06-06-39).
 
 ### § 4-3a. Borettslagsandel som er registrert i grunnboken
 
@@ -810,6 +814,8 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 
 (2) Kongen kan bestemme at deler av loven skal tre i kraft fra et senere tidspunkt enn loven forøvrig. Dette gjelder også bestemmelsene i [§ 7-3](lov/1980-02-08-2/§7-3).
 
+1 Fra 1 jan 1981 iflg. [res. 21 nov 1980](forskrift/1980-11-21-5) , herfra unntatt [§ 3-17](lov/1980-02-08-2/§3-17) (3) som iflg. [res. 20 apr 1982 nr. 762](forskrift/1982-04-20-762) trådte ikr. 1 mai 1982.
+
 ### § 7-2. Overgangsbestemmelser.
 
 (1) Reglene i [kapitlene 1](lov/1980-02-08-2/kap1) til [5](lov/1980-02-08-2/kap5) skal gjelde for panterett som blir stiftet etter at loven (eller vedkommende del av loven) er trådt i kraft.
@@ -817,6 +823,8 @@ Lovbestemt pant i løsøre har rettsvern uten noen særskilt rettsvernsakt, fors
 (2) Fullbyrdelsen av eldre panteretter skal følge de regler som til enhver tid gjelder. Eldre gyldig eiendomsforbehold og forbehold med tilsvarende virkning skal i den forbindelse regnes likt med salgspant; reglene i tvangsfullbyrdelseslovens1 nye § 215 a gjelder likevel ikke for eldre forbehold.
 
 (3) Reglene i [kapittel 6](lov/1980-02-08-2/kap6) skal gjelde for krav som opptjenes i tiden etter at loven er trådt i kraft. Lovbestemt panterett etter bestemmelser som oppheves ved denne lov, kan bare gjøres gjeldende for krav som opptjenes i tiden før loven trer i kraft.
+
+1 Inkurie: [Lov 13 aug 1915 nr. 7](lov/1915-08-13-7) (opph.).
 
 ### § 7-3. Opphevelse og endringer av andre lover.
 

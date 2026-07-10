@@ -54,6 +54,8 @@ Dersom utenlandske myndigheter har anmodet om Norges bistand for å hindre narko
 
 Loven trer i kraft1 når Kongen bestemmer.
 
+1 Fra 1 mai 2000 – samtidig med ikrafttredelse for Norge av europarådsavtale 31 jan 1995.
+
 ## § 7. (Opphevet)
 
 > Opphevet ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).

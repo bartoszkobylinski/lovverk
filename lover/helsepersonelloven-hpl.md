@@ -50,6 +50,8 @@ Med helseinstitusjon menes institusjon som hører under [spesialisthelsetjeneste
 
 > Endret ved lover [21 des 2000 nr. 127](lov/2000-12-21-127) (ikr. 1 jan 2001 iflg. [res. 21 des 2000 nr. 1359](forskrift/2000-12-21-1359)), [9 mai 2008 nr. 33](lov/2008-05-09-33) (ikr. 1 nov 2008 iflg. [res. 17 okt 2008 nr. 1125](forskrift/2008-10-17-1125)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [19 juni 2015 nr. 59](lov/2015-06-19-59) (ikr. 1 juli 2015 iflg. [res. 19 juni 2015 nr. 678](forskrift/2015-06-19-678)).
 
+1 Jf. [EØS-avtalen vedlegg VII](avtale/avt-1992-05-02-1-v7) nr. 1 (direktiv [2005/36/EF](eu/32005l0036)).
+
 ## Kapittel 2. Krav til helsepersonells yrkesutøvelse
 
 ### § 4. Forsvarlighet
@@ -937,6 +939,8 @@ Departementet kan i forskrift gi nærmere bestemmelser om hvilke titler som er b
 ### § 75. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+
+1 Fra 1 jan 2001 unntatt § 38 (opph.) iflg. [res. 1 des 2000 nr. 1199](forskrift/2000-12-01-1199). § 77 (2) nr. 2, ny [§ 1-3a i lov 19 nov 1982 nr. 66 (kommunehelseloven)](lov/1982-11-19-66/§1-3a), ble satt ikr. 14 apr 2000 iflg. [res. 14 apr 2000 nr. 325](forskrift/2000-04-14-325).
 
 ### § 76. Overgangsordninger
 

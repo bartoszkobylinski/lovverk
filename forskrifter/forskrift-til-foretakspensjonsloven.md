@@ -28,7 +28,24 @@ eu_basis: []
 
 ### § 1-1. Særlige opptjeningsaldre
 
-(1) Lavere opptjeningsalder enn 67 år gjelder for følgende yrker:Opptjeningsalder 55 år:FlypiloterDykkereRedningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havsOpptjeningsalder 60 år:Flybesetningsmedlemmer unntatt piloterOpptjeningsalder 62 år:YrkessjåførerOpptjeningsalder 65 år:SykepleiereBergverksarbeidere under dagenKranførereFørere av gravemaskiner og bulldoserkjørereYrkesakkvisitører i forsikringReisende (selgere)ReingjetereAnsatte på faste oljeinstallasjoner til havsSjåførlærere
+(1) Lavere opptjeningsalder enn 67 år gjelder for følgende yrker:
+
+|  |  |
+| --- | --- |
+| Opptjeningsalder 55 år: | Flypiloter |
+|  | Dykkere |
+|  | Redningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havs |
+| Opptjeningsalder 60 år: | Flybesetningsmedlemmer unntatt piloter |
+| Opptjeningsalder 62 år: | Yrkessjåfører |
+| Opptjeningsalder 65 år: | Sykepleiere |
+|  | Bergverksarbeidere under dagen |
+|  | Kranførere |
+|  | Førere av gravemaskiner og bulldoserkjørere |
+|  | Yrkesakkvisitører i forsikring |
+|  | Reisende (selgere) |
+|  | Reingjetere |
+|  | Ansatte på faste oljeinstallasjoner til havs |
+|  | Sjåførlærere |
 
 (2) For andre yrker kan Finansdepartementet i henhold til [lovens § 4-1](forskrift/2000-12-01-1212/§4-1) tredje ledd fastsette lavere opptjeningsalder i særlige tilfelle når lovens vilkår er oppfylt.
 
@@ -36,7 +53,14 @@ eu_basis: []
 
 ### § 1-2. Alder ved uttak av alderspensjon
 
-(1) Alderspensjon kan tas ut før fylte 62 år, og på angitte tidspunkt, for følgende yrker:Uttak ved 55 år:FlypiloterDykkereRedningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havsUttak ved 60 år:Flybesetningsmedlemmer unntatt piloter
+(1) Alderspensjon kan tas ut før fylte 62 år, og på angitte tidspunkt, for følgende yrker:
+
+|  |  |
+| --- | --- |
+| Uttak ved 55 år: | Flypiloter |
+|  | Dykkere |
+|  | Redningsmenn på helikoptre som tjenestegjør på oljeinstallasjon til havs |
+| Uttak ved 60 år: | Flybesetningsmedlemmer unntatt piloter |
 
 > Tilføyd ved [forskrift 10 aug 2011 nr. 815](forskrift/2011-08-10-815).
 
@@ -139,6 +163,16 @@ eu_basis: []
 ### § 5-1. Definisjoner
 
 I dette kapitlet betyr:
+
+*Uførepensjon:* Uførepensjon etter [foretakspensjonsloven kapittel 6](lov/2000-03-24-16/kap6).
+
+*Arbeidsavklaringspenger:* Ytelse som nevnt i [folketrygdloven § 11-13](lov/1997-02-28-19/§11-13) og beregnet etter reglene i [folketrygdloven § 11-15](lov/1997-02-28-19/§11-15) – [§ 11-26](lov/1997-02-28-19/§11-26).
+
+*Beregnede arbeidsavklaringspenger:* 66 prosent av lønn opp til 6 G.
+
+*Beregnet ytelse:* Summen av beregnede arbeidsavklaringspenger og uførepensjon.
+
+*Lønn:* Lønn etter [foretakspensjonsloven § 5-4](lov/2000-03-24-16/§5-4).
 
 > Tilføyd ved [forskrift 22 feb 2010 nr. 201](forskrift/2010-02-22-201) (i kraft 1 mars 2010).
 

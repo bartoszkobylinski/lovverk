@@ -564,52 +564,152 @@ Nødvendige utlegg til Direktoratet for medisinske produkters etterkontroll av l
 
 Gebyr etter [§ 12-1](forskrift/2022-09-08-1573/§12-1) oppgitt i norske kroner:
 
-*Søknad om markedsføringstillatelse (Nasjonale)**Søknadstype**Veterinær*Fullstendig søknad, fast kombinasjon, bibliografisk søknad 1
-Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22.512 044Forenklet søknad, generisk, hybrid, informert samtykke
-Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21192 016Flere former og styrker søkt samtidig innen samme målart(er)19 202Flere former og styrker søkt samtidig (ulike målarter)192 016MT for legemiddel til begrenset marked1
-Forordning [(EU) 2019/6](eu/32019r0006) art. 23512 044MT under særlige omstendigheter 10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 25256 022Duplikatsøknad (søkt samtidig)38 402Søknad som trekkes før prosedyrestart – administrasjonsgebyr25 602
+*Søknad om markedsføringstillatelse (Nasjonale)*
 
-*Endringssøknader og søknad om fornyelse (Nasjonale)**Søknadstype**Veterinær*Endringer i virkestoff I.I.1(a–f)96 009Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e)96 009Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er)128 012Endring eller tillegg av ny matproduserende målart I.III.1 (a)128 012Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a96 009Endring eller tillegg av ny ikke-matproduserende målart G.I.1096 009Endret tilbakeholdelsestid G.I.12 (S)25 602Endring i reseptstatus G.I.z (E)2 396 009Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 516 002Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 310 881Fornyelse MT til begrenset marked 6
-Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2)51 204Fornyelse, MT under særlige omstendigheter6 10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2)25 602
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Fullstendig søknad, fast kombinasjon, bibliografisk søknad 1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 512 044 |
+| Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 192 016 |
+| Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
+| Flere former og styrker søkt samtidig (ulike målarter) | 192 016 |
+| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 512 044 |
+| MT under særlige omstendigheter 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 256 022 |
+| Duplikatsøknad (søkt samtidig) | 38 402 |
+| Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
 
-*Parallellhandel (Nasjonale)**Søknadstype**Veterinær*Søknad om parallellhandel
-Forordning [(EU) 2019/6](eu/32019r0006) art. 10220 481
+*Endringssøknader og søknad om fornyelse (Nasjonale)*
 
-*Søknad om markedsføringstillatelse (MRP-RMS)**Søknadstype**Veterinær*Inngåelse av avtale om RMS-oppdrag764 005Igangsetting av MRP-oppdrag, alle typer MT-søknader 8128 012Etterfølgende anerkjennelse, alle typer MT-søknader128 012
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Endringer i virkestoff I.I.1(a–f) | 96 009 |
+| Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 96 009 |
+| Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 128 012 |
+| Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 128 012 |
+| Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a | 96 009 |
+| Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 96 009 |
+| Endret tilbakeholdelsestid G.I.12 (S) | 25 602 |
+| Endring i reseptstatus G.I.z (E)2 3 | 96 009 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 16 002 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 | 10 881 |
+| Fornyelse MT til begrenset marked 6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
+| Fornyelse, MT under særlige omstendigheter6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
 
-*Endringssøknader og søknad om fornyelse (MRP-RMS)**Søknadstype**Veterinær*Endringer i virkestoff I.I.1(a–f)96 009Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e)96 009Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er)160 013Endring eller tillegg av ny matproduserende målart I.III.1 (a)128 012Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a96 009Endring eller tillegg av ny ikke-matproduserende målart G.I.10102 409Endret tilbakeholdelsestid G.I.1232 002Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 515 362Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking) 2 314 079Worksharing; indikasjonsendring G.I.7.a 4 996 009Worksharing; Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking2 3 912 802Worksharing; harmonisering av preparatomtale32 002Worksharing; øvrige endringer med standard tidtabell (S)916 002Fornyelse, MT til begrenset marked 6
-Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2)51 204Fornyelse, MT under særlige omstendigheter 6 10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2)25 602
+*Parallellhandel (Nasjonale)*
 
-*Søknad om markedsføringstillatelse (MRP-CMS)**Søknadstype**Veterinær*Fullstendig søknad, fast kombinasjon, bibliografisk søknad
-Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22.128 012Forenklet søknad, generisk, hybrid, informert samtykke
-Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 2196 009Flere former og styrker søkt samtidig innen samme målart(er)19 202Flere former og styrker søkt samtidig (ulike målarter)108 808MT for legemiddel til begrenset marked1
-Forordning [(EU) 2019/6](eu/32019r0006) art. 23128 012MT under særlige omstendigheter10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 2564 006Søknad som trekkes før prosedyrestart – administrasjonsgebyr25 602
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Søknad om parallellhandel<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 102 | 20 481 |
 
-*Endringssøknader og søknad om fornyelser (MRP-CMS)**Søknadstype**Veterinær*Endringer i virkestoff I.I.1(a–f)64 005Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e)64 005Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er)64 005Endring eller tillegg av ny matproduserende målart I.III.1 (a)38 402Indikasjonsendring2 3 4 – innen samme målart(er) G.I.7.a44 804Endring eller tillegg av ny ikke-matproduserende målart G.I.1032 002Endret tilbakeholdelsestid G.I.129 217Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 512 802Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 38 321Worksharing; indikasjonsendring G.I.7.a4 938 402Worksharing Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 912 802Worksharing harmonisering av preparatomtale25 602Worksharing Øvrige endringer med standard tidtabell (S)912 802Fornyelse, MT til begrenset marked6
-Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2)21 762Fornyelse, MT under særlige omstendigheter6 10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2)10 881
+*Søknad om markedsføringstillatelse (MRP-RMS)*
 
-*Søknad om markedsføringstillatelse (DCP-RMS)**Søknadstype**Veterinær*Inngåelse av avtale om RMS-oppdrag764 005Fullstendig søknad, fast kombinasjon, bibliografisk søknad
-Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22.448 040Forenklet søknad, generisk, hybrid, informert samtykke
-Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19,192 016Flere former og styrker søkt samtidig innen samme målart(er)19 202Flere former og styrker søkt samtidig (ulike målarter)96 009MT for legemiddel til begrenset marked1
-Forordning [(EU) 2019/6](eu/32019r0006) art. 23448 040MT under særlige omstendigheter10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 25224 019
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Inngåelse av avtale om RMS-oppdrag7 | 64 005 |
+| Igangsetting av MRP-oppdrag, alle typer MT-søknader 8 | 128 012 |
+| Etterfølgende anerkjennelse, alle typer MT-søknader | 128 012 |
 
-*Søknad om markedsføringstillatelse (DCP-CMS)**Søknadstype**Veterinær*Fullstendig søknad, fast kombinasjon, bibliografisk søknad
-Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22.128 012Forenklet søknad, generisk, hybrid, informert samtykke
-Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 2196 009Flere former og styrker søkt samtidig innen samme målart(er)19 202Flere former og styrker søkt samtidig (ulike målarter)96 009MT for legemiddel til begrenset marked1
-Forordning [(EU) 2019/6](eu/32019r0006) art. 23128 012MT under særlige omstendigheter10
-Forordning [(EU) 2019/6](eu/32019r0006) art. 2564 006Duplikatsøknad (søkt samtidig)38 402Søknad som trekkes før prosedyrestart – Administrasjonsgebyr25 602
+*Endringssøknader og søknad om fornyelse (MRP-RMS)*
 
-*Homøopatiske legemidler**Søknadstype**Veterinær*Søknad om registrering, gebyret dekker alle fortynningsgrader av en legemiddelform25 261Endringer1 279
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Endringer i virkestoff I.I.1(a–f) | 96 009 |
+| Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 96 009 |
+| Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 160 013 |
+| Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 128 012 |
+| Indikasjonsendring2 3 4 innen samme målart(er) G.I.7.a | 96 009 |
+| Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 102 409 |
+| Endret tilbakeholdelsestid G.I.12 | 32 002 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 15 362 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking) 2 3 | 14 079 |
+| Worksharing; indikasjonsendring G.I.7.a 4 9 | 96 009 |
+| Worksharing; Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking2 3 9 | 12 802 |
+| Worksharing; harmonisering av preparatomtale | 32 002 |
+| Worksharing; øvrige endringer med standard tidtabell (S)9 | 16 002 |
+| Fornyelse, MT til begrenset marked 6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 51 204 |
+| Fornyelse, MT under særlige omstendigheter 6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 25 602 |
 
-*Kliniske studier**Søknadstype**Veterinær*Klinisk utprøving – ny studie Forordning [(EU) 2019/6](eu/32019r0006) art. 9(1)12 500Klinisk utprøving – Vesentlige endringer6 250
+*Søknad om markedsføringstillatelse (MRP-CMS)*
 
-*Søknader – WHO-sertifikat**Søknadstype**Veterinær*WHO-sertifikat6 250
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Fullstendig søknad, fast kombinasjon, bibliografisk søknad<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 128 012 |
+| Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 96 009 |
+| Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
+| Flere former og styrker søkt samtidig (ulike målarter) | 108 808 |
+| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
+| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
+| Søknad som trekkes før prosedyrestart – administrasjonsgebyr | 25 602 |
+
+*Endringssøknader og søknad om fornyelser (MRP-CMS)*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Endringer i virkestoff I.I.1(a–f) | 64 005 |
+| Endring i biotilgjengelighet I.II.1(a) / farmakokinetikk I.II.1(b), endret eller ny administrasjonsvei I.II.1(e) | 64 005 |
+| Nye former I.II.1(d) / styrker I.II.1(c) innen samme målart(er) | 64 005 |
+| Endring eller tillegg av ny matproduserende målart I.III.1 (a) | 38 402 |
+| Indikasjonsendring2 3 4 – innen samme målart(er) G.I.7.a | 44 804 |
+| Endring eller tillegg av ny ikke-matproduserende målart G.I.10 | 32 002 |
+| Endret tilbakeholdelsestid G.I.12 | 9 217 |
+| Øvrige endringer med standard (S) eller utvidet (E) tidtabell2 3 5 | 12 802 |
+| Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 | 8 321 |
+| Worksharing; indikasjonsendring G.I.7.a4 9 | 38 402 |
+| Worksharing Endringer med redusert tidtabell (R) som fører til endring i preparatomtale, pakningsvedlegg og merking)2 3 9 | 12 802 |
+| Worksharing harmonisering av preparatomtale | 25 602 |
+| Worksharing Øvrige endringer med standard tidtabell (S)9 | 12 802 |
+| Fornyelse, MT til begrenset marked6<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 24(2) | 21 762 |
+| Fornyelse, MT under særlige omstendigheter6 10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 27(2) | 10 881 |
+
+*Søknad om markedsføringstillatelse (DCP-RMS)*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Inngåelse av avtale om RMS-oppdrag7 | 64 005 |
+| Fullstendig søknad, fast kombinasjon, bibliografisk søknad<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 448 040 |
+| Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, | 192 016 |
+| Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
+| Flere former og styrker søkt samtidig (ulike målarter) | 96 009 |
+| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 448 040 |
+| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 224 019 |
+
+*Søknad om markedsføringstillatelse (DCP-CMS)*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Fullstendig søknad, fast kombinasjon, bibliografisk søknad<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 8, 20, 22. | 128 012 |
+| Forenklet søknad, generisk, hybrid, informert samtykke<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 18, 19, 21 | 96 009 |
+| Flere former og styrker søkt samtidig innen samme målart(er) | 19 202 |
+| Flere former og styrker søkt samtidig (ulike målarter) | 96 009 |
+| MT for legemiddel til begrenset marked1<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 23 | 128 012 |
+| MT under særlige omstendigheter10<br>Forordning [(EU) 2019/6](eu/32019r0006) art. 25 | 64 006 |
+| Duplikatsøknad (søkt samtidig) | 38 402 |
+| Søknad som trekkes før prosedyrestart – Administrasjonsgebyr | 25 602 |
+
+*Homøopatiske legemidler*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Søknad om registrering, gebyret dekker alle fortynningsgrader av en legemiddelform | 25 261 |
+| Endringer | 1 279 |
+
+*Kliniske studier*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| Klinisk utprøving – ny studie Forordning [(EU) 2019/6](eu/32019r0006) art. 9(1) | 12 500 |
+| Klinisk utprøving – Vesentlige endringer | 6 250 |
+
+*Søknader – WHO-sertifikat*
+
+| *Søknadstype* | *Veterinær* |
+| --- | --- |
+| WHO-sertifikat | 6 250 |
+
+*Noter*
+
+1 For legemidler til begrensede markeder (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 4 (29)) kan det søkes om inntil 50 % reduksjon i gebyr. Søknad om redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad om MT der det påberopes rett til redusert gebyr innsendes.2 Dersom én endring gjelder flere former og styrker av samme preparat betales ett gebyr.3 En endring som fører til flere endringer anses i gebyrsammenheng som én endring.4 Gjelder ikke rent språklige endringer eller flytting av tekst. Disse gebyrlegges som Øvrige endringer med standard tidtabell (S).5 Gjelder også doseringsendringer.6 Gjelder for hver MT.7 Gjelder per oppdrag. Refunderes ikke.8 Gjelder uansett søkergrunnlag.9 Ett gebyr per gebyrpliktig endring (uavhengig av antall preparater som inngår i worksharing-prosedyren).10 For søknader om MT under særlige omstendigheter (jf. forordning [(EU) 2019/6](eu/32019r0006) art. 25) samt fornyelser av disse kan det søkes om ytterligere reduksjon i gebyr. Søknad om ytterligere redusert gebyr må begrunnes og må være innvilget av Legemiddelverket før søknad der det påberopes rett til redusert gebyr innsendes
+
+*Merk:*
 
 - For grupperte endringer vil det bli tatt gebyr for hver endring som er gebyrpliktig.
 - Det skal også betales gebyr for endringer og fornyelser for preparater som har markedsføringstillatelse uten norsk produktinformasjon.
@@ -622,3 +722,5 @@ Forordning [(EU) 2019/6](eu/32019r0006) art. 2564 006Duplikatsøknad (søkt sam
 ### § 13-1. Ikrafttredelse
 
 Forskriften trer i kraft samtidig med [lov 17. juni 2022 nr. 54 om endringer i legemiddelloven (legemidler til dyr)](lov/2022-06-17-54).1
+
+1 Fra 16 sep 2022 iflg. [res. 16 sep 2022 nr. 1576](forskrift/2022-09-16-1576).

@@ -292,6 +292,8 @@ Frå same tid blir lov om endring i kommunal inndeling [21. desember 1956 nr. 3]
 
 > Endra ved [lov 22 juni 2018 nr. 84](lov/2018-06-22-84) (ikr. 1 jan 2020 iflg. [res. 22 juni 2018 nr. 947](forskrift/2018-06-22-947), tidlegare § 29).
 
+1 Frå 1 jan 2002 iflg. [res. 15 juni 2001 nr. 692](forskrift/2001-06-15-692).
+
 ### § 31. Overgangsreglar
 
 Når det er sett i gang økonomisk oppgjer mellom kommunar etter reglane i [lov 21. desember 1956 nr. 3](lov/1956-12-21-3), skal oppgjeret avsluttast etter nemnte lov [kapittel II](lov/1956-12-21-3/kapii) om ikkje partane blir samde om å leggje reglane i denne lova til grunn. Saker som er under behandling i skjønnsnemnda eller overskjønnsnemnda, blir avslutta i samsvar med reglane i den nemnte lova.

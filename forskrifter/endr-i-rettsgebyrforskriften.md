@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 15. februar 1983 nr. 86 etter rettsgebyrloven m.m. (rettsgebyrforskriften)](forskrift/1983-02-15-86) gjøres følgende endring:
+
+[§ 2-1](forskrift/1983-02-15-86/§2-1) skal lyde:
+
 Rettsgebyret er 1 345 kroner.
 
 ## II

@@ -36,16 +36,6 @@ I [forskrift 9. mars 2023 nr. 322 om studier ved Norges miljø- og biovitenskape
 
 [§ 17-5](forskrift/2023-03-09-322/§17-5) skal lyde:
 
-§ 17-5. Studierettens varighet
-
-(1) Studenter som er tatt opp til et studieprogram ved NMBU har studierett til programmet inntil retten inndras i tråd med bestemmelsene i [§ 17-6](forskrift/2023-03-09-322/§17-6). Studenter som er tatt opp til veterinærstudiet gis en studierett på inntil åtte år. Studenter som er tatt opp til dyrepleierstudiet gis en studierett på inntil fire år.
-
-(2) Permisjoner etter [kapittel 25](forskrift/2023-03-09-322/kap25) og tilrettelegging av studiesituasjonen etter [kapittel 34](forskrift/2023-03-09-322/kap34), blir ikke regnet som del av registrert studietid.
-
-(3) Studenter som oppfyller kravene for tildeling av grad, jf. [§ 17-6 første ledd bokstav a](forskrift/2023-03-09-322/§17-6/ledd/1/bokstav/a)), men som ønsker å forbedre karakter(er) i emner i oppnådd grad, kan søke om å forlenge studieretten i samsvar med utfyllende bestemmelser fastsatt av rektor.
-
-(4) Den som har fått studieretten inndratt, kan søke om nytt opptak. Nytt opptak gir ikke fornyet adgang til å fremstille seg til vurdering i et emne som ikke er bestått jf. bestemmelsene om antall forsøk i [kapittel 38](forskrift/2023-03-09-322/kap38).
-
 [§ 20-1 fjerde](forskrift/2023-03-09-322/§20-1/ledd/4) og [femte ledd](forskrift/2023-03-09-322/§20-1/ledd/5) skal lyde:
 
 (4) Emneansvarlig skal være ansatt ved NMBU og inneha vitenskapelig kompetanse. Det samlede fagmiljøet må være i tråd med krav i [forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven kapittel 1](forskrift/2024-06-28-1392/kap1).
@@ -58,61 +48,13 @@ I [forskrift 9. mars 2023 nr. 322 om studier ved Norges miljø- og biovitenskape
 
 [§ 38-1](forskrift/2023-03-09-322/§38-1) skal lyde:
 
-§ 38-1. Antall forsøk
-
-(1) Ved NMBU gis det adgang til å fremstille seg til vurdering i et emne tre ganger. Unntak gjelder for praksisperioder ved praktiskpedagogisk utdanning (PPU) og lektorutdanning i realfag (LUR).
-
-(2) Adgang til å fremstille seg til vurdering i et emne følger personen, ikke studieretten.
-
-(3) Det gis adgang til å fremstille seg til vurdering av gradsoppgave i samme studieprogram to ganger, unntak følger av [§ 38-1 fjerde ledd](forskrift/2023-03-09-322/§38-1/ledd/4). Inndragning av studieretten følger av [§ 17-6 andre ledd](forskrift/2023-03-09-322/§17-6/ledd/2).
-
-(4) Dersom et emne er bestått, har studentene mulighet til å fremstille seg til vurdering i samme emne på nytt. Unntak:Gjentak av bestått gradsoppgave tillates ikke jf. [§ 44-11 tredje ledd](forskrift/2023-03-09-322/§44-11/ledd/3)Emner som inngår i veterinær- og dyrepleierstudiene.
-
-(5) Studenter som gis tillatelse til å fremstille seg til vurdering i et emne som tidligere er bestått, har ikke krav på å kunne følge undervisningen i emner med begrenset kapasitet.
-
-(6) Dersom en student har fremstilt seg til vurdering i et emne mer enn en gang, skal beste karakter gjelde, og kun den karakteren skal fremgå av karakterutskrift og vitnemål.
-
-(7) Rektor kan i utfyllende bestemmelser fastsette nærmere regler for adgang til å fremstille seg til vurdering i et emne flere ganger.
-
 [§ 41-1](forskrift/2023-03-09-322/§41-1) skal lyde:
-
-§ 41-1. Karakterregler
-
-(1) I emnebeskrivelsen skal det fremgå om det er bestått / ikke bestått eller bokstavkarakterer som benyttes som karakterregel.
-
-(2) Gradsoppgaver bedømmes med bokstavkarakter. Unntak til bestemmelsen følger av tredje ledd.
-
-(3) Gradsoppgave i bachelor i dyrepleie bedømmes med bestått / ikke bestått.
-
-(4) Spesialpensum som er tilknyttet en masteroppgave bedømmes med bokstavkarakter. Spesialpensum som er tilknyttet et doktorgradsstudium (ph.d.) bedømmes med bestått / ikke bestått. Øvrige spesialpensum bedømmes med bokstavkarakter eller bestått / ikke bestått.
 
 [§ 42-2](forskrift/2023-03-09-322/§42-2) skal lyde:
 
-§ 42-2. Uenighet om karakterfastsetting
-
-(1) Dersom to sensorer ikke blir enige om karakterfastsettingen, skal sensureringen suppleres med en tredje sensor. Denne sensoren skal være ekstern.
-
-(2) Rektor kan i utfyllende bestemmelser fastsette nærmere bestemmelser om uenighet ved karakterfastsetting.
-
 [§ 44-5](forskrift/2023-03-09-322/§44-5) skal lyde:
 
-§ 44-5. Konfidensiell gradsoppgave
-
-(1) Utsatt tilgjengeliggjøring: I særlige tilfeller kan tilgjengeliggjøring av en gradsoppgave utsettes for en bestemt periode (inntil fem år). Eventuell utsettelse utover fem år skal avgjøres av rektor etter begrunnet søknad.
-
-(2) Klausulert gradsoppgave: Gradsoppgaver som helt eller delvis inneholder opplysninger som er dekket av lovbestemt taushetsplikt klausuleres (skjermes helt for innsyn) i samsvar med bestemmelsene i [lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven)](lov/1967-02-10) for en fastsatt periode.
-
 [§ 44-6](forskrift/2023-03-09-322/§44-6) skal lyde:
-
-§ 44-6. Forsinket innlevering
-
-(1) Ved særlige behov kan fakultetet etter søknad på fastsatt skjema, innvilge lengre frist enn normalfristen, for innlevering av gradsoppgaven. Behovet må vurderes konkret i hvert tilfelle. Særlig behov kan være: sykdom, omsorgsarbeid, undervisningsoppgaver ved NMBU, tyngre studenttillitsverv eller uforskyldte problemer med oppgaven.
-
-(2) Utsatt innleveringsfrist gis normalt ikke utover tre måneder med mindre sterke og dokumenterte velferdsgrunner hos studenten tilsier lengre frist. Det kan maksimalt innvilges 7 måneder utsatt innleveringsfrist etter ordinær frist for innlevering. Egne regler gjelder ved studiepermisjon etter [kapittel 25](forskrift/2023-03-09-322/kap25).
-
-(3) Utsatt innleveringsfrist gir ikke studenten rett til ytterligere veiledning.
-
-(4) Hvis studenten innvilges utsatt innleveringsfrist utover tre måneder, må studenten semesterregistrere seg i samsvar med bestemmelsene i [§ 17-2](forskrift/2023-03-09-322/§17-2) andre ledd. Gradsoppgaven må i tillegg vurderingsmeldes for innleveringssemesteret.
 
 [§ 44-9 andre ledd](forskrift/2023-03-09-322/§44-9/ledd/2) skal lyde:
 
@@ -120,29 +62,11 @@ I [forskrift 9. mars 2023 nr. 322 om studier ved Norges miljø- og biovitenskape
 
 [§ 44-11](forskrift/2023-03-09-322/§44-11) skal lyde:
 
-§ 44-11. Stryk og omarbeiding av gradsoppgave
-
-(1) En gradsoppgave som er bedømt med karakteren F (stryk) kan etter søknad tillattes omarbeidet:Omarbeidet oppgave kan tidligst legges frem til ny sensurering tre måneder og senest fire måneder, etter dato for publisering av opprinnelig sensur.Ny kontrakt og revidert fremdriftsplan må utarbeides.Studenten må, hvis ny dato for innlevering faller i et nytt semester, semesterregistrere seg i samsvar med [§ 17-2 andre ledd](forskrift/2023-03-09-322/§17-2/ledd/2).Ved omarbeiding av oppgaven har studenten ikke krav på ytterligere veiledning.Omarbeidet gradsoppgave bedømt til bestått karakter, skal ha muntlig presentasjon av den omarbeidede gradsoppgaven jf. [§ 42-3 tredje ledd](forskrift/2023-03-09-322/§42-3/ledd/3).
-
-(2) Ved stryk på en omarbeidet gradsoppgave mister studenten studieretten jf. [§ 17-6 andre ledd](forskrift/2023-03-09-322/§17-6/ledd/2). Hvis studenten får nytt opptak ved NMBU, må ny oppgave utarbeides. Antall forsøk på å fremstille seg til vurdering av gradsoppgave følger av [§ 38-1 tredje ledd](forskrift/2023-03-09-322/§38-1/ledd/3)
-
-(3) Omarbeiding eller ny innlevering av bestått gradsoppgave tillates ikke jf. [§ 38-1 fjerde ledd](forskrift/2023-03-09-322/§38-1/ledd/4).
-
-(4) Rektor kan i utfyllende bestemmelser fastsette krav til omarbeiding av en gradsoppgave bedømt med karakteren F (stryk).
-
 [§ 45-3 første ledd](forskrift/2023-03-09-322/§45-3/ledd/1) skal lyde:
 
 (1) Overordnede krav til en mastergrad fremgår av [forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven kapittel 2](forskrift/2024-06-28-1392/kap2).
 
 [§ 45-5](forskrift/2023-03-09-322/§45-5) skal lyde:
-
-§ 45-5. Studiepoeng som inngår i grunnlag for bachelorgrad
-
-(1) Minst 60 av studiepoengene som skal inngå i grunnlaget for bachelorgraden ved NMBU skal ikke være en del av tidligere oppnådd grad eller yrkesutdanning.
-
-(2) I en bachelorgrad der bacheloroppgave inngår, skal bacheloroppgaven være tilknyttet et studieprogram ved NMBU.
-
-(3) De nye emnene må sammen med tidligere emner, eller i tillegg til disse, innebære at ny grad får et annet faglig tyngdepunkt enn den tidligere graden. Det vil si, med en fordypning av minst 80 studiepoengs omfang innen et annet fagområde enn den tidligere gradens faglige tyngdepunkt.
 
 [§ 45-6 tredje ledd](forskrift/2023-03-09-322/§45-6/ledd/3) skal lyde:
 

@@ -63,3 +63,5 @@ Klagenemnda kan ikke av eget tiltak omgjøre Medietilsynets vedtak.
 ## § 7. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 juli 2016 iflg. [res. 17 juni 2016 nr. 717](forskrift/2016-06-17-717).

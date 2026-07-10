@@ -23,3 +23,5 @@ eu_basis: []
 # Res. om Kongevaabenet.
 
 Kongelig Resolution, hvorved bestemmes, at det til offentlig Brug bestemte Kongevaaben skal – som i et fremlagt Udkast – bestaa af Rigsvaabenets Skjold1 paa den kongelige Hermelinskaabe, der holdes af den norske Kongekrone. Kongevaabenets Skjold er omgivet af St. Olafsordenens Kjede. Kaaben og Kronens Hætte er purpurfarvet
+
+1 Jf. [res. 19. mars 1937 nr. 3728](forskrift/1937-03-19-3728).

@@ -472,6 +472,8 @@ Fra den tid loven trer i kraft, oppheves [lov 15. mars 1991 nr. 3](lov/1991-03-1
 
 Kongen kan gi nærmere overgangsregler.
 
+1 Fra 1 juli 2014 iflg. [res. 20 juni 2014 nr. 795](forskrift/2014-06-20-795).
+
 ### § 38. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

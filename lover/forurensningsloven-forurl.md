@@ -43,6 +43,8 @@ Gjennomføringen av loven skal skje etter disse retningslinjer:Det skal arbeides
 
 > Endret ved [lover 11 juni 1993 nr. 107](lov/1993-06-11-107), [9 des 2016 nr. 89](lov/2016-12-09-89).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32ff (direktiv [2008/98/EF](eu/32008l0098)).
+
 ### § 3. (alminnelige regler om lovens virkeområde)
 
 Loven gjelder forurensninger og avfall i det ytre miljø. For utslipp av genmodifiserte mikroorganismer og deponering av slike som avfall i miljøet gjelder [genteknologiloven](lov/1993-04-02-38).
@@ -187,6 +189,8 @@ Dersom forurensning fra virksomheten jevnlig vil utelukke eller vanskeliggjøre 
 
 > Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [21 juni 1996 nr. 36](lov/1996-06-21-36), [10 des 1999 nr. 83](lov/1999-12-10-83) (ikr. 1 jan 2000).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1f (direktiv [2010/75/EU](eu/32010l0075)).
+
 ### § 17. (innløsning av fast eiendom m.v.)
 
 Etter krav fra eieren kan forurensningsmyndigheten fastsette at den ansvarlige for forurensningen, mot erstatning etter rettslig skjønn, skal innløse fast eiendom dersom forurensningen vil gjøre eiendommen lite egnet til det formål den brukes til.
@@ -323,6 +327,8 @@ Forurensningsmyndigheten kan gi forskrift som presiserer hva som skal regnes som
 
 > Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [11 apr 2003 nr. 23](lov/2003-04-11-23) (ikr. 1 juli 2004), [9 des 2016 nr. 89](lov/2016-12-09-89), [17 juni 2022 nr. 65](lov/2022-06-17-65).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32ff (direktiv [2008/98/EF](eu/32008l0098) endret ved direktiv [(EU) 2018/851](eu/32018l0851)).
+
 ### § 27a. (andre definisjoner)
 
 Med husholdningsavfall menes avfall fra private husholdninger, herunder større gjenstander som inventar og lignende.
@@ -334,6 +340,8 @@ Med spesialavfall menes avfall som ikke hensiktsmessig kan behandles sammen med 
 Med gjenvinning menes ethvert tiltak der hovedresultatet er at avfall kommer til nytte ved å erstatte materialer som ellers ville blitt brukt, eller at avfall har blitt forberedt til dette.
 
 > Tilføyd ved [lov 9 des 2016 nr. 89](lov/2016-12-09-89).
+
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32ff (direktiv [2008/98/EF](eu/32008l0098)).
 
 ### § 28. (forbud mot forsøpling)
 
@@ -647,6 +655,8 @@ Brønnøysundregistrenes vedtak om hvorvidt en organisasjon skal registreres ell
 
 > Tilføyd ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), endret ved [lov 15 mars 2002 nr. 5](lov/2002-03-15-5) (ikr. 21 mars 2003 iflg. [res. 21 mars 2003 nr. 359](forskrift/2003-03-21-359), paragrafen flyttet fra kap. 7A hvis overskrift samtidig ble opphevet).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1ea (forordning [(EF) nr. 1221/2009](eu/32009r1221)).
+
 ## Kap. 8. Erstatning for forurensningsskade.
 
 > Tilføyd ved [lov 16 juni 1989 nr. 67](lov/1989-06-16-67) (ikr. 1 aug 1989 og gis virkning for skadevoldende tilstand som foreligger på den tid loven trer i kraft, og for skadevoldende begivenheter som finner sted etter dette tidspunkt. Endringsloven gjør likevel ingen innskrenking i forurensningsansvar som på ikraftsettingstiden følger av ellers gjeldende erstatningsregler).
@@ -817,6 +827,8 @@ Krav etter paragrafen her foreldes 5 år etter den dag da tiltakene ble gjennomf
 
 > Endret ved [lover 15 apr 1983 nr. 21](lov/1983-04-15-21), [16 juni 1989 nr. 67](lov/1989-06-16-67), [21 juni 1996 nr. 36](lov/1996-06-21-36), [14 juni 2013 nr. 52](lov/2013-06-14-52), [21 mai 2021 nr. 41](lov/2021-05-21-41).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1i (direktiv [2004/35/EF](eu/32004l0035)).
+
 ### § 77. (begrenset adgang til å kreve utgifter dekket før tiltak er truffet)
 
 Krav på betaling som det offentlige har etter [§ 76](lov/1981-03-13-6/§76) første ledd, kan kreves dekket uten hensyn til avtale, dom eller oppgjør mellom den ansvarlige og andre skadelidte.
@@ -905,6 +917,8 @@ Forurensningsmyndighetens avgjørelse på grunnlag av anmodning som nevnt i anne
 
 > Opphevet ved [lov 21 juni 1996 nr. 36](lov/1996-06-21-36), tilføyd igjen ved [lov 14 juni 2013 nr. 52](lov/2013-06-14-52).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 1i (direktiv [2004/35/EF](eu/32004l0035)).
+
 ### § 85. (forholdet til forvaltningsloven og tjenesteloven)
 
 [Forvaltningsloven](lov/1967-02-10) gjelder med de særlige bestemmelser som er gitt i loven her.
@@ -946,6 +960,8 @@ Departementet kan gi bestemmelser til utfylling og gjennomføring av denne lov, 
 Loven trer i kraft1 fra den tid Kongen bestemmer. Deler av loven kan settes i kraft til forskjellige tider, også i forskjellige fylker og kommuner. I forbindelse med lovens ikrafttreden eller senere kan Kongen sette en frist for alle eller enkelte kommuner til å gjennomføre de plikter som loven pålegger kommunene. Det samme gjelder overfor vegstyresmaktene i forhold til [§ 36](lov/1981-03-13-6/§36).
 
 > Endret ved [lov 15 apr 1983 nr. 21](lov/1983-04-15-21).
+
+1 Fra 1 okt 1983 ved [res. 8 juli 1983 nr. 1245](forskrift/1983-07-08-1245).
 
 ### § 90. (opphevelse av og endringer i andre lover)
 

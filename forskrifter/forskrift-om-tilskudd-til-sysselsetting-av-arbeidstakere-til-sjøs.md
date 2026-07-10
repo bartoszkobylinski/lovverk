@@ -194,7 +194,16 @@ Søknaden skal inneholde:Oversikt over opplæringsstillingerTilskuddsliste/innte
 
 ### § 17. Søknadsfrist og termininndeling
 
-Søknadsåret er delt inn i seks terminer med følgende frister.*Termin**Søknadsmåned**Søknadsfrist*6november og desember25. januar1januar og februar25. mars2mars og april25. mai3mai og juni25. juli4juli og august25. september5september og oktober25. november
+Søknadsåret er delt inn i seks terminer med følgende frister.
+
+| *Termin* | *Søknadsmåned* | *Søknadsfrist* |
+| --- | --- | --- |
+| 6 | november og desember | 25. januar |
+| 1 | januar og februar | 25. mars |
+| 2 | mars og april | 25. mai |
+| 3 | mai og juni | 25. juli |
+| 4 | juli og august | 25. september |
+| 5 | september og oktober | 25. november |
 
 Søknad om utsatt frist for innsendelse av søknad om tilskudd må sendes Sjøfartsdirektoratet på den måten som tilskuddsforvalter fastsetter innen søknadsfristene for den enkelte termin. Departementet kan forskyve fristene fremover i tid ved endringer i tilskuddsmodellene.
 

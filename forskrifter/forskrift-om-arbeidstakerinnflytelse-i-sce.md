@@ -184,19 +184,31 @@ Standardbestemmelsene i dette vedlegg kommer til anvendelse i de tilfeller som f
 
 ### Generelle bestemmelser
 
+*1 Sammensetningen av arbeidstakernes representasjonsorgan*
+
 (1) Det skal opprettes et representasjonsorgan i samsvar med følgende bestemmelser:Medlemmene av representasjonsorganet velges eller utpekes ut fra antall arbeidstakere i hver EU/EØS-stat i de deltakende foretakene og berørte datterforetak eller filialer. Det skal tildeles én plass per andel arbeidstakere i vedkommende EU/EØS-stat som representerer 10 prosent eller en brøkdel av dette av antall arbeidstakere i de deltakende foretak og berørte datterforetak eller etablerte forretningssteder i alle EU/EØS-statene sammenlagt.Representasjonsorganet skal være sammensatt av arbeidstakerne i SCE-foretaket og dets datterforetak og filialer. Representantene skal være valgt eller utpekt etter reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).Ved vesentlige endringer som ville medført en annen sammensetning av representasjonsorganet, skal disse endringene gjenspeiles i representasjonsorganets sammensetning. Det må om nødvendig foretas et suppleringsvalg. Et slikt valg skal gjennomføres i samsvar med reglene i forskriften [§ 6](forskrift/2006-11-03-1213/§6).SCE-foretaket skal underrettes om sammensetningen av representasjonsorganet.Dersom størrelsen tilsier det, skal representasjonsorganet opprette et arbeidsutvalg bestående av maksimalt tre medlemmer. Representasjonsorganet skal fastsette sin forretningsorden.Senest fire år etter at representasjonsorganet er opprettet, skal det undersøke om det skal innledes forhandlinger med sikte på å inngå avtale som nevnt i forskriften [§ 9](forskrift/2006-11-03-1213/§9) og [§ 11](forskrift/2006-11-03-1213/§11), eller om standardbestemmelsene fastsatt i dette vedlegget fortsatt skal komme til anvendelse.
 
 (2) Reglene i forskriften [§ 8](forskrift/2006-11-03-1213/§8) til [§ 10](forskrift/2006-11-03-1213/§10) får tilsvarende anvendelse dersom det vedtas å forhandle frem en avtale om arbeidstakernes innflytelse. I dette tilfelle skal uttrykket «det særlige forhandlingsutvalget» erstattes med «representasjonsorganet». Dersom det innen fristen for å avslutte forhandlingene ikke er inngått en avtale, skal de ordninger som er vedtatt i samsvar med standardbestemmelsene fremdeles gjelde.
 
 ### Standardbestemmelser for informasjon og drøfting
 
+*2 Regulering av representasjonsorganets kompetanse og myndighet*
+
 Representasjonsorganets kompetanse skal være begrenset til saker som gjelder SCE-foretaket selv og ethvert datterforetak eller filial som ligger i en annen EU/EØS-stat, eller i saker som går utover myndigheten til beslutningsorganene i en enkelt EU/EØS-stat.
+
+*3 Rett til informasjon og drøfting*
 
 Representasjonsorganet har rett til informasjon og drøfting i spørsmål som angår arbeidstakerne. Det skal avholdes møter mellom representasjonsorganet og foretaket minst én gang i året, på grunnlag av jevnlige rapporter utarbeidet av selskapet om utviklingen i virksomheten til SCE-foretaket og fremtidsutsiktene. Den lokale ledelsen skal underrettes om dette.
 
+*4 Informasjon til representasjonsorganet*
+
 SCE-foretaket skal gi representasjonsorganet dagsorden for møtene i administrasjons- eller ledelses- og kontrollorganet, samt kopi av alle dokumenter som fremlegges for generalforsamlingen.
 
+*5 Møtenes innhold*
+
 Møter i henhold til nr. 3 skal særlig dreie seg om strukturen, den økonomiske og finansielle situasjonen, forventet utvikling av virksomheten, produksjon og salg, sysselsettingssituasjonen og nåværende og forventet utvikling, investeringer, vesentlige endringer i organisasjonen, innføring av nye arbeidsmetoder eller nye produksjonsprosesser, produksjonsoverføringer, fusjoner, reduksjon av størrelsen på eller nedleggelse av et foretak, etablerte forretningssteder eller vesentlige deler av dem, samt masseoppsigelser.
+
+*6 Rett til informasjon ved særlige omstendigheter*
 
 (1) Dersom det oppstår særlige omstendigheter som i betydelig grad berører arbeidstakernes interesser, spesielt i forbindelse med flytting, overføring, nedleggelse av filialer eller foretak, eller ved masseoppsigelser, skal representasjonsorganet ha rett til å bli underrettet. I slike tilfeller har representasjonsorganet eller arbeidsutvalget ved forespørsel rett til å møte foretaket med sikte på informasjon og drøfting om tiltak som i vesentlig grad berører arbeidstakernes interesser. I møter arrangert med arbeidsutvalget skal også de medlemmene av representasjonsorganet som representerer de arbeidstakerne som er direkte berørt ha rett til å delta.
 
@@ -204,26 +216,42 @@ Møter i henhold til nr. 3 skal særlig dreie seg om strukturen, den økonomiske
 
 (3) Før møtene med foretaket skal representasjonsorganet eller arbeidsutvalget kunne møtes uten at representantene for foretaket er tilstede.
 
+*7 Informasjon til arbeidstakernes representanter*
+
 Medlemmene av representasjonsorganet skal underrette representantene for arbeidstakerne i SCE-foretaket og i dets datterforetak og filialer om innholdet og resultatet av informasjonen som er gitt og de drøftinger som har skjedd med mindre opplysningene er underlagt taushetsplikt i henhold til forskriften [§ 13](forskrift/2006-11-03-1213/§13).
+
+*8 Rett til sakkyndig bistand*
 
 Representasjonsorganet eller arbeidsutvalget kan bistås av sakkyndige etter eget valg.
 
+*9 Rett til permisjon*
+
 Dersom det er nødvendig for at medlemmene av representasjonsorganet skal kunne utføre sine oppgaver, skal de ha rett til permisjon for opplæring uten tap av lønn.
+
+*10 Dekning av utgifter*
 
 SCE-foretaket skal dekke representasjonsorganets utgifter slik at det kan utføre sine oppgaver på en hensiktsmessig måte. SCE-foretaket skal, med mindre noe annet er avtalt, særlig dekke utgifter til tilrettelegging av møtene, tolking, samt oppholds- og reiseutgifter for medlemmer av representasjonsorganet og arbeidsutvalget. SCE-foretaket skal dekke utgiftene til minst én sakkyndig. Dekning av sakkyndige utover dette kan avtales mellom SCE-foretaket og representasjonsorganet.
 
 ### Standardbestemmelser for representasjon
 
+*11 Videreføring av representasjon ved omdanning*
+
 Når et SCE-foretak etableres ved omdanning og en EU/EØS-stats bestemmelser om arbeidstakernes representasjon i administrasjons- eller kontrollorganet gjaldt før registreringen, skal alle elementer i de arbeidstakernes representasjon fortsette å gjelde for SCE-foretaket. Bestemmelsen i nr. 13 gjelder tilsvarende for dette formål.
+
+*12 Rett til representasjon ved andre stiftelsesmåter enn omdanning*
 
 (1) Når et SCE-foretak etableres på en annen måte enn ved omdanning, skal arbeidstakerne i SCE-foretaket, dets datterforetak og filialer og/eller deres representasjonsorgan ha rett til å velge, utpeke, anbefale eller gå i mot utpekingen av et antall medlemmer av administrasjons- eller kontrollorganet i SCE-foretaket tilsvarende den høyeste andel som anvendes i de berørte deltagende selskapene før registreringen av SCE-foretaket.
 
 (2) Dersom ingen av de deltagende foretakene var omfattet av regler for representasjon før registreringen av SCE-foretaket, skal det ikke pålegges å fastsette bestemmelser for arbeidstakernes representasjon.
+
+*13 Fordeling av plasser i administrasjons- eller kontrollorganet*
 
 (1) Representasjonsorganet skal bestemme hvordan arbeidstakerrepresentantenes plasser i administrasjons- eller kontrollorganet skal fordeles, eller eventuelt fremgangsmåten for hvordan arbeidstakerne i SCE-foretaket kan anbefale eller gå i mot utpekingen av medlemmer til administrasjons- eller kontrollorganet, ut fra andelen arbeidstakere i hver EU/EØS-stat.
 
 (2) Dersom arbeidstakere fra en eller flere EU/EØS-stater ikke blir tildelt en representant, skal representasjonsorganet utpeke et medlem fra en av disse statene. Det skal særlig tas hensyn til om det er en representant fra den stat hvor SCE-foretaket forretningskontor ligger.
 
 (3) Plasser fordelt til Norge skal fordeles på de deltagende selskaper i fallende rekkefølge regnet etter antall arbeidstakere i den enkelte enhet. Valg av representanter skal skje etter reglene i forskriften [§ 7](forskrift/2006-11-03-1213/§7).
+
+*14 Arbeidstakerrepresentantenes status i administrasjons- eller kontrollorganet*
 
 Hvert medlem av administrasjons- eller kontrollorganet i SCE-foretaket som er valgt, utpekt eller anbefalt av representasjonsorganet eller av arbeidstakerne, skal være fullverdig medlem med samme rettigheter og forpliktelser som medlemmene som representerer aksjeeierne. Dette gjelder også i forhold til stemmerett.

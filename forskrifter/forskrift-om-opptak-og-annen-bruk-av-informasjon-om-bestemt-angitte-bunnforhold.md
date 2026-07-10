@@ -34,6 +34,8 @@ I forskriften menes med:*informasjon om bunnforhold:* dybdedata, batymetri, hard
 
 Bruk av Voyage Data Recorder, ekkolodd og andre navigasjonshjelpemidler i samsvar med forskrift 9. mai 2014 nr. 11571 om navigasjon og navigasjonshjelpemidler for skip og flyttbare innretninger regnes ikke som opptak etter første ledd bokstav b.
 
+1 Skal være [forskrift 5. september 2014 nr. 1157](forskrift/2014-09-05-1157). Lovtidend-redaksjonens anmerkning.
+
 ## § 3. Meldeplikt om opptak av informasjon om bunnforhold
 
 Opptak av informasjon om bunnforhold skal meldes til Kartverket senest to uker før opptaket starter.

@@ -56,6 +56,8 @@ Landbruksdirektoratet kan fastsette nærmere krav til omsetningsleddets lagerkap
 
 > Endret ved [forskrift 3 sep 2014 nr. 1144](forskrift/2014-09-03-1144).
 
+1 Jf. [lov 21. juni 1985 nr. 78](lov/1985-06-21-78) om registrering av foretak [§ 2-1](lov/1985-06-21-78/§2-1).
+
 ## § 6. Tap av godkjenning
 
 Ved manglende oppfylling av de forutsetninger/krav som er lagt til grunn for godkjennelse kan Landbruksdirektoratet trekke godkjennelsen tilbake.

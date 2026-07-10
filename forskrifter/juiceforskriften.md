@@ -66,6 +66,8 @@ Produkter som er satt i omsetning eller merket i samsvar med bestemmelsene i [fo
 
 ### I. Definisjoner
 
+1\. a) *Fruktjuice*
+
 Gjærbart, men ugjæret produkt, som er fremstilt av den spiselige delen av frukter som er sunne og modne, friske eller konserverte ved nedkjøling eller frysing, av en eller flere slag, og som har den farge, aroma og smak, som er karakteristisk for juicen av de fruktene som produktet er fremstilt av.
 
 Aroma, fruktkjøtt og celler, som ved hjelp av egnede fysiske prosesser er fremstilt av de samme fruktslagene, kan tilbakeføres til juicen.
@@ -75,6 +77,8 @@ Når det gjelder sitrusfrukter, skal juicen komme fra frukten uten skall. Limeju
 I de tilfellene der fruktjuicer fremstilles av frukter med kjerner, frø og skall, kan deler eller fragmenter av kjerner, frø og skall ikke inngå i juicen. Denne bestemmelsen gjelder ikke i de tilfellene der deler eller fragmenter av kjerner, frø og skall ikke kan fjernes med god fremstillingspraksis.
 
 Det er tillatt å blande fruktjuice med fruktpuré ved fremstilling av fruktjuice.
+
+b) *Fruktjuice fra konsentrat*
 
 Produkt fremstilt ved tilbakeføring til opprinnelig tilstand av konsentrert fruktjuice som definert i punkt 2, med drikkevann som oppfyller kravene i [forskrift 4. desember 2001 nr. 1372](forskrift/2001-12-04-1372) om vannforsyning og drikkevann.
 
@@ -88,13 +92,21 @@ Fruktjuice fra konsentrat skal fremstilles ved bruk av egnede prosesser som beva
 
 Det er tillatt å blande fruktjuice og eller konsentrert fruktjuice med fruktpuré og eller konsentrert fruktpuré ved fremstillingen av fruktjuice fra konsentrat.
 
+2\. *Konsentrert fruktjuice*
+
 Produkt fremstilt av fruktjuice av en eller flere fruktslag ved fysisk fjerning av en bestemt del av det naturlige vanninnholdet. Når produktet er bestemt til direkte konsum, skal minst 50 % av vannet være fjernet.
 
 Aroma, fruktkjøtt og celler som ved hjelp av egnede fysiske prosesser er fremstilt av de samme fruktslagene, kan tilbakeføres til den konsentrerte fruktjuicen.
 
+3\. *Vannekstrahert fruktjuice*
+
 Produkt fremstilt ved vannekstraksjon av:kjøttfull hel frukt, hvis juice ikke kan ekstraheres ved fysiske prosesser ellerdehydrert hel frukt.
 
+4\. *Dehydrert fruktjuice/fruktjuice i pulverform*
+
 Produkt fremstilt av juice av en eller flere fruktslag ved fysisk fjerning av nesten hele vanninnholdet.
+
+5\. *Fruktnektar*
 
 Gjærbart, men ugjæret produkt, somer fremstilt ved tilsetning av vann med eller uten tilsetning av sukker og eller honning til produktene som er definert i punktene 1–4, til fruktpuré og eller til konsentrert fruktpuré og eller til en blanding av disse produktene, og somoppfyller kravene i vedlegg III.
 
@@ -102,9 +114,13 @@ Dersom fruktnektar er fremstilt uten tilsatt sukker eller med redusert energiinn
 
 Aroma, fruktkjøtt og celler, som ved hjelp av egnede fysiske prosesser er fremstilt av de samme fruktslagene, kan tilbakeføres til fruktnektaren.
 
+6\. *Eplemost*
+
 Eplejuice som ikke er tilsatt sukker.
 
 ### II. Tillatte ingredienser, behandlinger og stoffer
+
+1\. *Sammensetning*
 
 De artene som tilsvarer den botaniske betegnelsen i vedlegg IV skal brukes til fremstilling av fruktjuice, fruktpuré og fruktnektar, hvis varebetegnelse inneholder navnet på den aktuelle fruktens eller produktets vanlige navn. For fruktslag som ikke er oppført i vedlegg IV, skal den korrekte botaniske betegnelsen eller det vanlige navnet brukes.
 
@@ -112,9 +128,13 @@ For fruktjuice gjelder Brix-verdien for juicen som utvunnet av frukten; og den m
 
 Minimums Brix-verdiene som er fastsatt i vedlegg IV for fruktjuice fra konsentrat og fruktpuré fra konsentrat, omfatter ikke innhold av oppløselig tørrstoff i eventuelle tilsatte valgfrie ingredienser og tilsetningsstoffer.
 
+2\. *Tillatte ingredienser*
+
 Bare følgende ingredienser kan tilsettes til produktene som er definert i del I:Vitaminer og mineraler som er godkjent i [forskrift 26. februar 2010 nr. 247](forskrift/2010-02-26-247) om tilsetning av vitaminer, mineraler og visse andre stoffer til næringsmidler, jf. forordning [(EF) nr. 1925/2006](eu/32006r1925).Tilsetningsstoffer til næringsmidler som er godkjent i [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333).
 
 I tillegg kan det til de produktene som er nevnt nedenfor tilsettes følgende ingredienser:Til fruktjuice, fruktjuice fra konsentrat og konsentrert fruktjuice: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler.Til druejuice: tilbakeførte salter av vinsyre.Til fruktnektar: tilbakeført aroma, tilbakeført fruktkjøtt og tilbakeførte celler, sukker og eller honning i en mengde som tilsvarer opp til 20 % av det ferdige produktets samlede vekt og eller søtstoffer. En påstand om at det ikke er tilsatt sukker til fruktnektar, og påstander som må antas å ha samme betydning for forbrukeren, kan bare brukes hvis produktet ikke inneholder tilsatte mono- eller disakkarider eller andre næringsmidler som brukes på grunn av sine søtende egenskaper, herunder søtstoffer jf. [forskrift 6. juni 2011 nr. 668](forskrift/2011-06-06-668) om tilsetningsstoffer til næringsmidler, jf. forordning [(EF) nr. 1333/2008](eu/32008r1333). Dersom fruktnektaren har et naturlig innhold av sukker, bør også følgende opplysning angis i merkingen: «med et naturlig innhold av sukker».For å korrigere den syrlige smaken, kan det til produktene som er definert i del I, punktene 1–5, tilsettes sitronjuice og eller limejuice og eller konsentrert sitronjuice og eller limejuice i en mengde på inntil 3 g pr. liter juice, omregnet til vannfri sitronsyre.Til tomatjuice og tomatjuice fra konsentrat: salt, krydder og krydderurter.
+
+3\. *Tillatte behandlinger og stoffer*
 
 Bare følgende behandlinger kan brukes på, og bare følgende stoffer kan tilsettes produktene som er definert i del I:Mekaniske ekstraksjonsprosesser.Vanlige fysiske prosesser og vannekstraksjonsprosesser («in line»-prosess) av den spiselige delen av andre frukter enn druer, for fremstilling av konsentrert fruktjuice som oppfyller kravene i del I, punkt 1.Når det gjelder druejuice, der druene er svovlet ved hjelp av svoveldioksid, er avsvovling ved hjelp av fysiske prosesser tillatt forutsatt at det samlede SO2 -innholdet i det ferdige produkt ikke overstiger 10 mg/l.Enzympreparater: pektinase (til nedbrytning av pektin), protease (til nedbrytning av proteiner) og amylase (til nedbrytning av stivelse), som oppfyller kravene i [forskrift 6. juni 2011 nr. 667](forskrift/2011-06-06-667) om næringsmiddelenzymer, jf. forordning [(EF) nr. 1332/2008](eu/32008r1332).Spiselig gelatin.Tannin.Silika sol.Trekull.Nitrogen.Bentonit som absorberende leire.Kjemisk inaktive filtreringshjelpemidler og fellingsmidler (herunder perlitt, vasket kiselgur, cellulose, uløselig polyamid, polyvinylpolypyrrolidon og polystyren), som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935).Kjemisk inaktive absorpsjonshjelpemidler, som er i samsvar med [forskrift 21. desember 1993 nr. 1381](forskrift/1993-12-21-1381) om materialer og gjenstander i kontakt med næringsmidler (matkontaktforskriften), jf. forordning [(EF) nr. 1935/2004](eu/32004r1935), og som brukes for å redusere innholdet av limonoid og naringin i sitrusjuice uten i vesentlig grad å påvirke innholdet av limonoidglucosider, syre, sukker (herunder oligosaccharider) og mineraler.Planteprotein fra hvete, erter eller poteter for rensing.
 
@@ -124,23 +144,37 @@ Bare følgende behandlinger kan brukes på, og bare følgende stoffer kan tilset
 
 I denne forskriften menes med:
 
+1\. *Frukt*
+
 Alle frukter. Etter denne forskriften regnes også tomater som frukt.
 
 Frukten skal være sunn, passe moden og frisk eller konservert ved hjelp av fysiske prosesser eller ved hjelp av behandlinger, herunder behandlinger etter innhøsting som er brukt i samsvar med EØS-retten.
 
+2\. *Fruktpuré*
+
 Gjærbart, men ugjæret produkt, fremstilt ved egnede fysiske prosesser som for eksempel sikting, maling og knusing av den spiselige delen av hel eller skrellet frukt, uten at juicen er fjernet.
+
+3\. *Konsentrert fruktpuré*
 
 Produkt fremstilt av fruktpuré ved fysisk fjerning av en bestemt del av det naturlige vanninnholdet.
 
 Konsentrert fruktpuré kan inneholde tilbakeført (restituert) aroma, som fremstilles ved hjelp av egnede fysiske prosesser, jf. vedlegg I, del II, punkt 3. Aromaen skal være gjenvunnet fra det samme fruktslaget.
 
+4\. *Aroma*
+
 Aroma som skal brukes til å tilbakeføre produktet til opprinnelig tilstand, skal fremstilles ved bearbeiding av frukten ved hjelp av egnede fysiske prosesser. Disse fysiske prosessene kan brukes til å bevare, konservere eller stabilisere aromaens kvalitet og omfatter særlig pressing, ekstraksjon, destillasjon, filtrering, adsorpsjon, inndampning, fraksjonering og konsentrering.
 
 Aroma skal fremstilles av fruktens spiselige deler. Den kan imidlertid også komme fra kaldpresset olje fra skall av sitrusfrukter og deler av stenene.
 
+5\. *Sukker*
+
 Sukker som definert i [forskrift 3. juli 2003 nr. 924](forskrift/2003-07-03-924) om sukker m.m., fruktosesirup og sukker fremstilt på basis av frukter.
 
+6\. *Honning*
+
 Det produktet som er definert i [forskrift 8. juli 2003 nr. 931](forskrift/2003-07-08-931) om honning.
+
+7\. *Fruktkjøtt eller celler*
 
 Produkter fremstilt av de spiselige delene av frukt av samme slag, uten at juicen fjernes. Når det gjelder sitrusfrukt, regnes også juicesekkene utvunnet fra fruktkjøttet (endokarp) som fruktkjøtt eller celler.
 
@@ -148,9 +182,81 @@ Produkter fremstilt av de spiselige delene av frukt av samme slag, uten at juice
 
 ## Vedlegg III. Særlige bestemmelser for fruktnektar
 
-*Fruktnektar av**Minsteinnhold av juice og/eller puré uttrykt i prosent av mengden av det ferdige produktet**I. Frukter med syrlig juice, som ikke kan drikkes i naturlig tilstand*Pasjonsfrukt25Lulo (Solanum quioense, Quito naranjillas)25Solbær25Hvit rips25Rød rips25Stikkelsbær30Tindved (Hippophaë rhamnoides)25Slåpeplomme30Plomme30Sviskeplomme30Rognebær30Nype40Surkirsebær35Andre kirsebær40Blåbær40Hyllebær50Bringebær40Aprikos40Jordbær40Bjørnebær/morbær40Tranebær30Kvede50Sitron og lime25Andre frukter som tilhører denne kategorien25*II. Frukter med lavt syreinnhold eller med mye fruktkjøtt eller kraftig aroma, med juice, som ikke kan drikkes i naturlig tilstand*Mango25Banan25Guava25Papaya25Litchi25Azeroles25Piggannona (*Annona muricata*)25Netannona (*Annona reticulata*)25Søtannona25Granateple25Kasjueple25Rødmombin (*Spondia purpurea*)25Umbu (*Spondias tuberosa aroda*)25Andre frukter som tilhører denne kategorien25*III. Frukter med juice som kan drikkes i naturlig tilstand*Eple50Pære50Fersken50Sitrusfrukter unntatt sitron og lime50Ananas50Tomat50Andre frukter som tilhører denne kategorien50
+| *Fruktnektar av* | *Minsteinnhold av juice og/eller puré uttrykt i prosent av mengden av det ferdige produktet* |
+| --- | --- |
+| *I. Frukter med syrlig juice, som ikke kan drikkes i naturlig tilstand* |  |
+| Pasjonsfrukt | 25 |
+| Lulo (Solanum quioense, Quito naranjillas) | 25 |
+| Solbær | 25 |
+| Hvit rips | 25 |
+| Rød rips | 25 |
+| Stikkelsbær | 30 |
+| Tindved (Hippophaë rhamnoides) | 25 |
+| Slåpeplomme | 30 |
+| Plomme | 30 |
+| Sviskeplomme | 30 |
+| Rognebær | 30 |
+| Nype | 40 |
+| Surkirsebær | 35 |
+| Andre kirsebær | 40 |
+| Blåbær | 40 |
+| Hyllebær | 50 |
+| Bringebær | 40 |
+| Aprikos | 40 |
+| Jordbær | 40 |
+| Bjørnebær/morbær | 40 |
+| Tranebær | 30 |
+| Kvede | 50 |
+| Sitron og lime | 25 |
+| Andre frukter som tilhører denne kategorien | 25 |
+| *II. Frukter med lavt syreinnhold eller med mye fruktkjøtt eller kraftig aroma, med juice, som ikke kan drikkes i naturlig tilstand* |  |
+| Mango | 25 |
+| Banan | 25 |
+| Guava | 25 |
+| Papaya | 25 |
+| Litchi | 25 |
+| Azeroles | 25 |
+| Piggannona (*Annona muricata*) | 25 |
+| Netannona (*Annona reticulata*) | 25 |
+| Søtannona | 25 |
+| Granateple | 25 |
+| Kasjueple | 25 |
+| Rødmombin (*Spondia purpurea*) | 25 |
+| Umbu (*Spondias tuberosa aroda*) | 25 |
+| Andre frukter som tilhører denne kategorien | 25 |
+| *III. Frukter med juice som kan drikkes i naturlig tilstand* |  |
+| Eple | 50 |
+| Pære | 50 |
+| Fersken | 50 |
+| Sitrusfrukter unntatt sitron og lime | 50 |
+| Ananas | 50 |
+| Tomat | 50 |
+| Andre frukter som tilhører denne kategorien | 50 |
 
 ## Vedlegg IV. Minimums Brix-verdier for fruktjuice fra konsentrat og fruktpuré fra konsentrat
 
-*Fruktens alminnelige betegnelse**Botanisk betegnelse**Minimums Brix-verdi*Eple**Malus domestica* Borkh.11,2Aprikos***Prunus armeniaca* L.11,2Banan***Musa x paradisiaca* L. (unntatt plantan)21,0Solbær**Ribes nigrum* L.11,0Drue**Vitis vinifera* L. eller hybrider derav
-*Vitis labrusca* L. eller hybrider derav15,9Grapefrukt**Citrus x paradisi* Macfad.10,0Guava***Psidium guajava* L.8,5Sitron**Citrus limon* (L.) Burm.f.8,0Mango***Mangifera indica* L.13,5Appelsin**Citrus sinensis* (L.) Osbeck11,2Pasjonsfrukt**Passiflora edulis* Sims12,0Fersken***Prunus persica* (L.) Batsch var. persica10,0Pære***Pyrus communis* L.11,9Ananas**Ananas comosus* (L.) Merr.12,8Bringebær**Rubus idaeus* L.7,0Surkirsebær**Prunus cerasus* L.13,5Jordbær**Fragaria x ananassa* Duch.7,0Tomat**Lycopersicon esculentum*, Mill.5,0Mandarin**Citrus reticulata* Blanco11,2
+| *Fruktens alminnelige betegnelse* | *Botanisk betegnelse* | *Minimums Brix-verdi* |
+| --- | --- | --- |
+| Eple\* | *Malus domestica* Borkh. | 11,2 |
+| Aprikos\*\* | *Prunus armeniaca* L. | 11,2 |
+| Banan\*\* | *Musa x paradisiaca* L. (unntatt plantan) | 21,0 |
+| Solbær\* | *Ribes nigrum* L. | 11,0 |
+| Drue\* | *Vitis vinifera* L. eller hybrider derav<br>*Vitis labrusca* L. eller hybrider derav | 15,9 |
+| Grapefrukt\* | *Citrus x paradisi* Macfad. | 10,0 |
+| Guava\*\* | *Psidium guajava* L. | 8,5 |
+| Sitron\* | *Citrus limon* (L.) Burm.f. | 8,0 |
+| Mango\*\* | *Mangifera indica* L. | 13,5 |
+| Appelsin\* | *Citrus sinensis* (L.) Osbeck | 11,2 |
+| Pasjonsfrukt\* | *Passiflora edulis* Sims | 12,0 |
+| Fersken\*\* | *Prunus persica* (L.) Batsch var. persica | 10,0 |
+| Pære\*\* | *Pyrus communis* L. | 11,9 |
+| Ananas\* | *Ananas comosus* (L.) Merr. | 12,8 |
+| Bringebær\* | *Rubus idaeus* L. | 7,0 |
+| Surkirsebær\* | *Prunus cerasus* L. | 13,5 |
+| Jordbær\* | *Fragaria x ananassa* Duch. | 7,0 |
+| Tomat\* | *Lycopersicon esculentum*, Mill. | 5,0 |
+| Mandarin\* | *Citrus reticulata* Blanco | 11,2 |
+
+\* For produkter markert med en asterisk (\*), som fremstilles som juice, bestemmes en minste relativ densitet i forhold til vann ved 20/20 °C.
+
+\*\* For produkter markert med to asterisker (\*\*), som fremstilles som puré, bestemmes kun en minimums ukorrigert Brix-verdi (uten korreksjon for syre).

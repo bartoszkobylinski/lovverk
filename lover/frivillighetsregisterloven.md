@@ -139,3 +139,5 @@ Kongen kan gi nærmere regler om lovens anvendelse på Svalbard og Jan Mayen.
 ## § 23. Ikrafttreden
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 1 des 2008 iflg. [res. 7 nov 2008 nr. 1195](forskrift/2008-11-07-1195).

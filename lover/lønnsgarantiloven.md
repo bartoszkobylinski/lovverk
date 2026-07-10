@@ -100,3 +100,5 @@ Fra lovens ikrafttredelse gjøres følgende endringer i andre lover: – – –
 ## § 12.
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 1974 iflg. res. 14 des 1973.

@@ -30,8 +30,14 @@ Kommisjonsforordning [(EU) 2020/420](eu/32020r0420) av 16. mars 2020 om endring 
 
 I [forskrift 10. mai 2017 nr. 600 om gjennomføring av TSI-styring, kontroll og signal på jernbanenettet](forskrift/2017-05-10-600) (TSI CCS) gjøres følgende endring:
 
+§ 1 i forskriften skal lyde: – – –
+
 ## § 3.
 
 Forskriften trer i kraft straks.
 
 ## Forordninger
+
+Se her for å lese uoffisiell norsk oversettelse av forordning [(EU) 2020/420](eu/32020r0420): [(pdf)](static/SF/32020r0420u-01.pdf)
+
+Se her for å lese engelsk versjon av forordning [(EU) 2020/420](eu/32020r0420): [(pdf)](static/SF/32020r0420e-01.pdf)

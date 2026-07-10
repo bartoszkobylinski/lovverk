@@ -207,3 +207,5 @@ Frå den tida lova tek til å gjelde, skal desse endringane gjerast: – – –
 ### § 25. Iverksetjing
 
 Lova gjeld frå den tida Kongen fastset.1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+
+1 Frå 1 jan 2016 iflg. [res. 13 nov 2015 nr. 1289](forskrift/2015-11-13-1289).

@@ -88,79 +88,201 @@ Denne forskrift trer i kraft 1. juli 1995.
 
 ### Kapittel 5. Produkter av animalsk opprinnelse, ikke nevnt eller innbefattet annet sted
 
+05.06 Bein og andre hornkjegler, avfettet, syrebehandlet eller befridd for gelatin, ubearbeidd eller enkelt bearbeidd, men ikke tilskåret; pulver av bein og hornkjegler.
+
+.9090 -- andre
+
+05.11 Animalske produkter, ikke nevnt eller innbefattet annet sted; døde dyr av de slag som hører under kapittel 1 eller 3, utjenlige til menneskeføde.
+
+.9191 ---industrifisk (kolmule, tobis, øyepål o.l.)
+
+.9192 ---fiskehoder og avskjær, tørkede, også revne («cuts»)
+
+.9193 ---annet fiskeavfall
+
+.9199 ---ellers (herunder befruktet rogn til klekking)
+
 - ---ellers:
 - ---blodpulver (utjenlig til menneskeføde):
 
+.9921 ---annet
+
 - kjøtt og blod:
+
+.9940 ---annet
 
 - ---andre:
 
+.9999 ---andre
+
 ### Kapittel 7. Grønnsaker, røtter og knoller, spiselige
+
+07.14 Manioka-, arriov salepprot, jordskokker, søtpoteter og liknende røtter og knoller med høyt stivelses- eller inulininnhold, friske eller tørkede, også oppdelte eller i form av pelleter; sagomarg.
+
+1090 ---ellers
+
+2090 ---ellers
 
 ### Kapittel 10. Korn
 
+10.07 Korn av sorghum
+
+.0090 -ellers
+
 ### Kapittel 11. Mølleprodukter; malt, stivelse inulin; gluten av hvete.
+
+11.07 Malt, også røstet
 
 - -ikke røstet;
 
+.1090 --ellers
+
 - -røstet:
+
+.2090 --ellers
+
+11.08 Stivelse; inulin
 
 - -stivelse
 - --hvetestivelse
 
+.1190 ---ellers
+
 - --maisstivelse
 - ---annen
 
+1290 ---ellers
+
 - --maniokastivelse (kassavastivelse)
 - ---annen
+
+1490 ---eller
 
 - --annen stivelse
 - ---ellers
 - ---annen
 
+.1998 ---ellers
+
 - -inulin
+
+.2090 --ellers
+
+11.09 Gluten av hvete, også tørket
+
+.0090 -ellers
 
 ### Kapittel 12. Oljeholdige frø og frukter; forskjellige andre frø og frukter; planter til industriell eller medisinsk-industriell eller medisinsk bruk, halm og fôrplanter
 
+12.01 Soyabønner, også knuste
+
+.0090 -ellers
+
+12.05 Rapsfrø, også knuste
+
+.0090 -ellers
+
 ### Kapittel 17. Sukker og sukkervarer
+
+17.03 Melasse fremstilt ved utvinning eller raffinering av sukker
 
 - -melasse av rørsukker
 
+.1090 --ellers
+
 - -annen
+
+.9090 --ellers
 
 ### Kapittel 23. Reststoffer og avfall fra næringsmiddelindustrien; tilberedt dyrefôr
 
+23.01 Mel og pelleter av kjøtt, flesk, slakteavfall, fisk, krepsedyr, bløtdyr eller andre virvelløse dyr: virvelløse dyr som lever i vann, utjenelig til menneskeføde; graksemel og pelleter av fisk, krepsdyr, bløtdyr eller andre virvelløse dyr som lever i vann:
+
+.2090 --ellers
+
 - -av belgfrukter
+
+.5090 --ellers
+
+23.03 Reststoffer fra stivelsesfremstilling og liknende reststoffer, betepulp, bagasse og annet bagasse og annet avfall fra sukkerfremstilling, drank og annet avfall fra bryggerier eller brennerier også i form av pelleter.
 
 - -reststoffer fra stivelsesfremstilling og liknende reststoffer
 
+.1090 --ellers
+
 - -betepulp, bagasse og annet avfall fra sukkerfremstilling
+
+.2090 --ellers
 
 - -drank og annet avfall fra bryggerier eller brennerier
 
+.3090 --ellers
+
+23.04 Oljekaker og andre faste reststoffer, også malte eller i form av pelleter etter utvinning av soyaolje.
+
+.0090 -ellers
+
+23.05 Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av jordnøttolje.
+
+.0090 -ellers
+
+23.06 Oljekaker og andre faste reststoffer, også malte eller i form av pelleter, etter utvinning av vegetabilske fettstoffer eller oljer, unntatt de som hører under posisjon 23.04 og 23.05
+
 - -av bomullsfrø
+
+.1090 --ellers
 
 - -av linfrø
 
+.2090 --ellers
+
 - -av solsikkefrø
+
+.3090 --ellers
 
 - -av rapsfrø
 
+.4090 --ellers
+
 - -av kokosnøtter eller kopra
+
+.5090 --ellers
 
 - -av palmenøtter eller palmekjerner
 
+.6090 --ellers
+
 - -andre
+
+.9090 --ellers
+
+23.07 Vinberme; rå vinstein
+
+.0090 -ellers
+
+23.09 Tilberedte produkter av det slag som brukes til dyrefôr
 
 - -hunde- eller kattemat, i pakninger for detaljsalg
 - --med innhold av kjøtt eller slakteavfall av landdyr, i lufttett lukket emballasje
 - --annen
+
+.1091 ---hundemat
+
+.1092 ---kattemat
 
 - -ellers
 - --med innhold av kjøtt eller slakteavfall av landdyr, i lufttett lukket emballasje
 - --annen
 - ---fiskefôr
 
+.9030 ---til akvariefisk
+
+.9040 ---til annen fisk
+
 - ---fuglemat
 
+.9050 ---til kjæledyr
+
 - ---ellers
+
+.9080 ---til kjæledyr

@@ -88,11 +88,26 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som den automat
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre<br>temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre<br>temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
+
 > Endret ved forskrift [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
 ### § 11. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter måleredskap som får strøm fra batteriet i et kjøretøy. Slike måleredskap skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -213,6 +228,34 @@ For statiske belastninger under angitte driftsbetingelser skal maksimal tillatte
 For automatiske gravimetriske fyllemaskiner der fylling kan utgjøre mer enn én last (f.eks. kumulative eller selektive kombinasjonsvekter), skal maksimal tillatte feil for statiske belastninger være den nøyaktighet som kreves for fyllingen som angitt i tredje ledd (dvs. ikke summen av maksimal tillatte feil for hver enkeltlast).
 
 Tabell 3 viser maksimal tillatt avvik fra gjennomsnittlig fylling ved salg og tabell 4 viser maksimal tillatt avvik fra gjennomsnittlig fylling under bruk. Det beregnede avviket for hver fylling fra gjennomsnittet kan justeres for å ta hensyn til virkningen av materialets partikkelstørrelse.
+
+*Tabell 3*
+
+| *Verdien til massen av fyllingen m<br>(g)* | *Maksimale tillatte avvik for hver fylling<br>fra gjennomsnittsverdien for klasse X(1) ved salg* |
+| --- | --- |
+| m ≤ 50 | 7,2 % |
+| 50 < m ≤ 100 | 3,6 g |
+| 100 < m ≤ 200 | 3,6 % |
+| 200 < m ≤ 300 | 7,2 g |
+| 300 < m ≤ 500 | 2,4 % |
+| 500 < m ≤ 1 000 | 12 g |
+| 1 000 < m ≤ 10 000 | 1,2 % |
+| 10 000 < m ≤ 15 000 | 120 g |
+| 15 000 < m | 0,8 % |
+
+*Tabell 4*
+
+| *Verdien til massen av fyllingen m<br>(g)* | *Maksimalt tillatt avvik fra gjennomsnittsverdien for hver fylling for klasse X(1) under bruk* |
+| --- | --- |
+| m ≤ 50 | 9 % |
+| 50 < m ≤ 100 | 4,5 g |
+| 100 < m ≤ 200 | 4,5 % |
+| 200 < m ≤ 300 | 9 g |
+| 300 < m ≤ 500 | 3 % |
+| 500 < m ≤ 1 000 | 15 g |
+| 1 000 < m ≤ 10 000 | 1,5 % |
+| 10 000 < m ≤ 15 000 | 150 g |
+| 15 000 < m | 1 % |
 
 For automatiske gravimetriske fyllemaskiner der det er mulig å forhåndsinnstille en fylling, skal maksimal differanse mellom den forhåndsinnstilte verdien og gjennomsnittsmassen til fyllingene ikke overstige 0,312 av det maksimale tillatte avvik for hver fylling fra gjennomsnittet, som angitt i kolonne 2 i tabell 3.
 

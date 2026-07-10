@@ -22,13 +22,17 @@ eu_basis: []
 
 # Lov om endringar i pasient- og brukarrettslova, helsepersonellova m.m. (styrking av rettsstillinga til barn ved yting av helse- og omsorgstenester m.m.)
 
+– – –
+
 ## III
 
 I [lov 2. juli 1999 nr. 64](lov/1999-07-02-64) om helsepersonell m.v. skal det gjerast følgjande endringar:
 
-Brudd på taushetsplikt etter kapittel 5 straffes etter [straffeloven § 209](lov/2005-05-20-28/§209), likevel slik at medvirkning straffes. Påtale skal finne sted dersom Statens helsetilsyn begjærer det. For øvrig gjelder [straffeprosessloven § 62 a](lov/1981-05-22-25/§62a).
+– – –
 
-Den som forsettlig eller grovt uaktsomt overtrer øvrige bestemmelser i loven eller i medhold av den, straffes med bøter eller fengsel inntil 1 år. Påtale skal finne sted dersom Statens helsetilsyn begjærer det. For øvrig gjelder [straffeprosessloven § 62 a](lov/1981-05-22-25/§62a).
+§ 67 skal lyde:
+
+– – –
 
 ## VII
 
@@ -45,3 +49,5 @@ I [lov 20. juni 2014 nr. 43](lov/2014-06-20-43) om helseregistre og behandling a
 ## IX
 
 Lova tek til å gjelde frå det tidspunkt1 Kongen bestemmer. Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+
+1 Del III § 6, § 11 andre ledd andre punktum, § 17, § 38, § 62 andre ledd og § 74 første ledd første punktum, del IV, del V, del VI og del IX trer i kraft 1. juli 2017, iflg. [res. 16 juni 2017 nr. 762](forskrift/2017-06-16-762). Del I, del II, del III § 10a, ny § 10b, § 22 andre ledd og § 25 tredje ledd trer i kraft 1 jan 2018, iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951). Del VII endring i § 30 og VIII endring i § 30 ble opphevet ved [lov 10 apr 2019 nr. 11](lov/2019-04-10-11) (ikr. 10 apr 2019 iflg. [res. 10 apr 2019 nr. 473](forskrift/2019-04-10-473)).

@@ -40,6 +40,8 @@ Overenskomsten skal gjelde som norsk lov.
 
 > Endret ved [lov 19 juni 2009 nr. 107](lov/2009-06-19-107) (ikr. 3 sep 2010 iflg. [res. 3 sep 2010 nr. 1239](forskrift/2010-09-03-1239)). **Endres** ved lov [20 juni 2023 nr. 81](lov/2023-06-20-81) (i kraft samtidig som endringene av 30. september 2015 og 26. september 2018 i Overenskomst om internasjonal jernbanetrafikk iflg. [res. 20 juni 2023 nr. 957](forskrift/2023-06-20-957)).
 
+1 Inkurie: Skal vel være forordning [(EF) nr. 1371/2007](eu/32007r1371). Jf. [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 42h.
+
 ## § 2 a. Utøvelse av myndighetsoppgaver
 
 > **Tilføyes** ved lov [20 juni 2023 nr. 81](lov/2023-06-20-81) (i kraft samtidig som endringene av 30. september 2015 og 26. september 2018 i Overenskomst om internasjonal jernbanetrafikk iflg. [res. 20 juni 2023 nr. 957](forskrift/2023-06-20-957)).
@@ -91,3 +93,5 @@ Stortinget samtykker til at Norge ratifiserer Protokoll av 3. juni 1999 om endri
 Loven trer i kraft fra det tidspunkt Kongen bestemmer. § 8 trer likevel i kraft straks.1
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
+
+1 Resten av loven er iflg. [res. 5 mai 2006 nr. 479](forskrift/2006-05-05-479) satt ikr. fra 1 juli 2006.

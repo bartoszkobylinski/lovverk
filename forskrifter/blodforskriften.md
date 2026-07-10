@@ -316,35 +316,226 @@ Blodbanker som var etablert før forskriftens ikrafttredelse, skal tilpasse seg 
 
 ## Vedlegg I – Kriterier for utvelgelse av blodgivere, jf. § 3-8
 
+*1. Forutsetninger for godkjenning av blod- og blodkomponentgivere*
+
 Unntaksvis kan en kvalifisert person ved blodbanken gi tillatelse til enkelte donasjoner fra blodgivere som ikke oppfyller nedenstående betingelser. Alle slike situasjoner skal dokumenteres klart og være i overensstemmelse med forskriftens [§ 2-4](forskrift/2005-02-04-80/§2-4) og [§ 2-5](forskrift/2005-02-04-80/§2-5). Nedenstående betingelser gjelder ikke ved autologe donasjoner.
 
-De med en stjerne (*) merkede tester og utelukkelsesperioder er ikke påkrevet, hvis tappingen utelukkende anvendes til plasma beregnet til fraksjonering.
+1.1. *Givernes alder og kroppsvekt*
+
+| *Alder* | *18-65 år* |  |
+| --- | --- | --- |
+|  | Førstegangsgivere over 60 år | – på grunnlag av et skjønn foretatt av blodbankens lege |
+|  | Over 65 år | – med tillatelse hvert år fra blodbankens lege |
+| *Kroppsvekt* | > 50 kg for blod- og aferesegivere |  |
+
+1.2. *Hemoglobinnivå i blodgiverens blod*
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| *Hemoglobin* | Kvinner<br>≥ 125 g/l | Menn<br>≥ 135 g/l | Gjelder for allogene blod- eller blodkomponentgivere |
+
+1.3. *Proteinnivå i blodgiverens blod*
+
+|  |  |  |
+| --- | --- | --- |
+| *Protein* | ≥ 60 g/l | Proteinanalysen for plasmaaferesegivere skal foretas minst en gang årlig |
+
+1.4. *Trombocyttnivå i blodgiverens blod*
+
+|  |  |  |
+| --- | --- | --- |
+| *Trombocytter* | Trombocyttall ≥ 150 x 109 /l | Nivåkrav for trombocyttaferesegivere |
+
+*2. Kriterier for utelukkelse av blod- og blodkomponentgivere*
+
+De med en stjerne (\*) merkede tester og utelukkelsesperioder er ikke påkrevet, hvis tappingen utelukkende anvendes til plasma beregnet til fraksjonering.
+
+2.1. *Kriterier for permanent utelukkelse av allogene blodgivere*
+
+|  |  |
+| --- | --- |
+| *Hjerte-karsykdom* | Potensielle blodgivere med en aktiv eller tidligere alvorlig hjerte-karsykdom, unntatt medfødte abnormiteter med fullstendig helbredelse |
+| *Sykdom i sentralnervesystemet* | En sykehistorie med en alvorlig sykdom i sentralnervesystemet |
+| *Unormal blødningstendens* | Mulige blodgivere, som gir anamnestiske opplysninger om koagulasjonsdefekt |
+| *Gjentatte besvimelsesanfall (synkope) eller krampeanfall* | Bortsett fra kramper som barn, eller hvis blodgiveren i minst tre år ikke har tatt antiepileptisk medikasjon og ikke har hatt tilbakefall |
+| *Sykdommer i mage-tarm-kanalen eller i kjønns- og urinveiene, blodsykdommer, immunsykdommer, stoffskiftesykdommer, nyresykdommer eller sykdommer i luftveiene* | Mulige blodgivere med alvorlig aktiv eller kronisk sykdom eller alvorlig sykdom med tilbakefall |
+| *Diabetes* | Hvis insulinkrevende |
+| *Smittsomme sykdommer* | Hepatitt B |
+|  | Hepatitt C |
+|  | Hiv-1/2 |
+|  | HTLV I/II |
+|  | Babesiose\* |
+|  | Kala Azar (leishmaniasis)\* |
+|  | Infeksjon med Trypanosoma cruzi (Chagas' sykdom)\* |
+| *Ondartede sykdommer* | Unntatt *in situ* cancer med fullstendig helbredelse |
+| *Transmissible spongiforme encephalopatier (TSE), (f.eks. Creutzfeldt-Jakobs sykdom (CJD), variant Creutzfeldt-Jakobs sykdom (vCJD))* | Personer med sykdommer i familien som innebærer at de er utsatt for risiko for å utvikle TSE, eller personer, som har gjennomgått hornhinne- eller dura mater-transplantasjon, eller som er blitt behandlet med legemidler framstillt av human hypofyse. For variant Creutzfeldt-Jakobs sykdom kan det anbefales ytterligere forholdsregler |
+| *Intravenøst (IV) eller intramuskulært (IM) stoffmisbruk* | Ved intravenøs eller intramuskulær misbruk av ikke-forskrevne stoffer, herunder muskeloppbyggende steroider eller hormoner |
+| *Personer, som har mottatt et xenotransplantat* |  |
+| *Seksuell atferd* | Personer som på grunn av sin seksuelle atferd er utsatt for stor risiko for å få alvorlige smittsomme sykdommer, som kan overføres med blodet |
+| *Personer som har hatt malaria* |  |
+| *Personer som har hatt en ikke-diagnostisert febril sykdom under et opphold i et endemisk område eller mindre enn seks måneder deretter* | Permanent utelukkelse, hvis det ikke foreligger en negativ immunologisk eller molekylær genomisk test |
+
+2.2. *Kriterier for midlertidig utelukkelse av allogene blodgivere*
+
+2.2.1. *Infeksjoner*
 
 Utelukkelsesperiodens varighet:Etter en infeksjonssykdom bør mulige blodgivere utelukkes i minst to uker etter full klinisk helbredelse.
 
-Imidlertid gjelder nedenstående utelukkelsesperioder for de i tabellen anførte infeksjoner:Brucellose*2 år etter datoen for full klinisk helbredelseOsteomyelitis2 år etter datoen for bekreftet helbredelseQ-feber*2 år etter datoen for bekreftet helbredelseSyfilis*1 år etter datoen for bekreftet helbredelseToxoplasmose*6 måneder etter datoen for klinisk helbredelseTuberkulose2 år etter datoen for bekreftet helbredelseGiktfeber2 år etter datoen for symptomenes opphør, hvis der ikke er tegn på en kronisk hjertelidelseFeber > 38 °C2 uker etter datoen for symptomenes opphørInfluensalignende sykdom2 uker etter datoen for symptomenes opphørMalaria*– personer som i løpet av de første fem leveår har bodd i et malariaområde3 år etter hjemkomst fra det siste besøk i endemisk område, forutsatt at vedkommende fortsatt er symptomfri; utelukkelsesperioden kan nedsettes til 4 måneder, hvis en immunologisk eller molekylær genomisk test er negativ ved hver tapping– asymptomatiske personer, som har vært i et endemisk område6 måneder etter avreise fra det endemiske område, med mindre det foreligger en negativ immunologisk eller molekylær genomisk testVestnilvirus*28 dager etter å ha forlatt et område med risiko for overføring av vestnilvirus, med mindre en individuell nukleinsyretest (NAT) er negativ
+Imidlertid gjelder nedenstående utelukkelsesperioder for de i tabellen anførte infeksjoner:
+
+|  |  |
+| --- | --- |
+| Brucellose\* | 2 år etter datoen for full klinisk helbredelse |
+| Osteomyelitis | 2 år etter datoen for bekreftet helbredelse |
+| Q-feber\* | 2 år etter datoen for bekreftet helbredelse |
+| Syfilis\* | 1 år etter datoen for bekreftet helbredelse |
+| Toxoplasmose\* | 6 måneder etter datoen for klinisk helbredelse |
+| Tuberkulose | 2 år etter datoen for bekreftet helbredelse |
+| Giktfeber | 2 år etter datoen for symptomenes opphør, hvis der ikke er tegn på en kronisk hjertelidelse |
+| Feber > 38 °C | 2 uker etter datoen for symptomenes opphør |
+| Influensalignende sykdom | 2 uker etter datoen for symptomenes opphør |
+| Malaria\* |  |
+| – personer som i løpet av de første fem leveår har bodd i et malariaområde | 3 år etter hjemkomst fra det siste besøk i endemisk område, forutsatt at vedkommende fortsatt er symptomfri; utelukkelsesperioden kan nedsettes til 4 måneder, hvis en immunologisk eller molekylær genomisk test er negativ ved hver tapping |
+| – asymptomatiske personer, som har vært i et endemisk område | 6 måneder etter avreise fra det endemiske område, med mindre det foreligger en negativ immunologisk eller molekylær genomisk test |
+| Vestnilvirus\* | 28 dager etter å ha forlatt et område med risiko for overføring av vestnilvirus, med mindre en individuell nukleinsyretest (NAT) er negativ |
+
+2.2.2. *Eksponering for risiko for å få en infeksjon som kan overføres ved transfusjon*
+
+|  |  |
+| --- | --- |
+| – Endoskopisk undersøkelse med anvendelse av bøyelige instrumenter<br>– stikkuhell eller slimhinnekontakt med materiale, som inneholder blod<br>– blodtransfusjon<br>– humant vevs- eller celletransplantasjon<br>– større kirurgisk inngrep<br>– tatovering eller bodypiercing<br>– akupunktur, med mindre den er utøvet av autorisert helsepersonell og med sterile engangsnåler<br>– nær kontakt (samme husstand) til en person, som har hepatitt B | Utelukkelse i 6 måneder eller i 4 måneder, hvis det foreligger en negativ individuell nukleinsyretest (NAT) for hepatitt C |
+| Personer, som på grunn av deres atferd eller aktivitet er utsatt for risiko for å få alvorlige smittsomme sykdommer, som kan overføres gjennom blodet | Utelukkelse etter opphør av risikoatferden i en periode, som avhenger av den aktuelle sykdom og tilgjengeligheten av relevante tester |
+
+2.2.3. *Vaksinasjon*
+
+|  |  |
+| --- | --- |
+| Svekkede vira og bakterier | 4 uker |
+| Inaktiverte/drepte vira, bakterier eller rickettsier | Ingen utelukkelse, hvis frisk |
+| Toksoider | Ingen utelukkelse, hvis frisk |
+| Hepatitt A- eller hepatitt B-vaksiner | Ingen utelukkelse, hvis frisk, og hvis det ikke har forekommet eksponering |
+| Rabies | Ingen utelukkelse, hvis frisk, og hvis det ikke har forekommet eksponering. Hvis vaksinasjonen foregår etter eksponering, utelukkes blodgiveren i 1 år |
+| Vaksinering mot centraleuropeisk encephalitt | Ingen utelukkelse, hvis frisk, og hvis det ikke har forekommet eksponering |
+
+2.2.4. *Annen midlertidig utelukkelse*
+
+|  |  |
+| --- | --- |
+| Graviditet | 12 måneder etter fødsel eller seks måneder etter svangerskapsavbrudd. |
+| Mindre kirurgisk inngrep | 1 uke |
+| Tannbehandling | Mindre behandling hos tannlege eller tannpleier – utelukkelse i 1 dag. (NB: Tannuttrekning, rotbehandling og lignende anses som «mindre kirurgisk inngrep») |
+| Medisinsk behandling | Avhengig av arten av medisinen som er ordinert, dens virkemåte og den sykdom som behandles |
+
+2.3. *Utelukkelse i særlige epidemiologiske situasjoner*
+
+|  |  |
+| --- | --- |
+| Særlige epidemiologiske situasjoner (f.eks. sykdomsutbrudd) | Utelukkelse i overensstemmelse med den epidemiologiske situasjon |
+
+2.4. *Kriterier for utelukkelse av autologe blodgivere*
+
+|  |  |
+| --- | --- |
+| Alvorlig hjertesykdom | Avhengig av de for tappingen fastsatte kliniske parametre |
+| Personer, som har eller har hatt<br>– hepatitt B<br>– hepatitt C<br>– hiv-1/2<br>– HTLV I/II |  |
+| Aktiv bakterieinfeksjon |  |
 
 > Endret ved [forskrifter 28 nov 2014 nr. 1488](forskrift/2014-11-28-1488), [11 des 2015 nr. 1444](forskrift/2015-12-11-1444) (i kraft 1 jan 2016).
 
 ## Vedlegg II – Kvalitets- og sikkerhetskrav for blod og blodkomponenter, jf. § 3-10
 
+*1. Blodkomponentene*
+
+|  |  |
+| --- | --- |
+| 1. *Erytrocyttpreparater* |  |
+| 1.1 | Erytrocytter, leukocyttdepletert i additivløsning fremstilt fra blod. |
+| 1.2 | Erytrocytter, leukocyttdepletert i additivløsning fremstilt fra aferese. |
+| 1.3 | Blod. Kan bare anvendes som utgangsmateriale eller til teknisk bruk. |
+| 2. *Trombocytpreparater* |  |
+| 2.1 | Trombocytter fra aferese, leukocyttdepletert, oppbevart i additivløsning. |
+| 2.2 | Trombocytter fra aferese, leukocyttdepletert, oppbevart i plasma. |
+| 2.3 | Trombocytter fra fraksjonering, poolet, leukocyttdepletert, oppbevart i additivløsning. |
+| 2.4 | Trombocytter fra fraksjonering, poolet, leukocyttdepletert, oppbevart i plasma. |
+| 3. *Plasmapreparater* |  |
+| 3.1 | Friskfrosset plasma, frigitt etter karantene |
+| 3.2 | Friskfrosset plasma, frigitt etter patogeninaktivering |
+| 3.3 | Friskfrosset plasma, kryoprecipitatdepletert |
+| 3.4 | Kryoprecipitat |
+| 4. *Granulocyttpreparater* |  |
+| 4.1 | Granulocytter, aferese |
+
 Kvalitets- og sikkerhetsvurdering av nye blodkomponenter må gjennomføres av Helsedirektoratet.
 
 Blodkomponenter som er omtalt i EUs bloddirektiv, men ikke i denne forskriften kan bare brukes etter særskilt godkjenning fra Helsedirektoratet.
+
+*2. Krav til kvalitetskontroll av blod og blodkomponenter*
+
+2.1. Det skal for blod og blodkomponenter foreligge akseptable resultater av nedenstående tekniske kvalitetsmålinger.
+
+2.2. Det skal foretas en tilstrekkelig bakteriologisk kontroll av tappings- og framstillingsprosessene.
+
+2.3. For autologe donasjoner er de foranstaltninger som er markert med en asterisk (\*), bare anbefalinger.
+
+| *Komponenter* | *Krav til kvalitetsmålinger*<br>*Den påkrevde prøvetakingsfrekvens for alle målinger bestemmes ved anvendelse av statistisk prosesskontroll* | *Akseptable resultater av kvalitetsmålinger* |
+| --- | --- | --- |
+| Erytrocytter i additivløsning, leukocyttdepletert | Volum | Gyldig for oppbevaringskarakteristika, som kan bevare produktet innenfor spesifikasjonene for hemoglobin og hemolyse |
+|  | Hemoglobin\* | Ikke < 40 g/porsjon |
+|  | Leukocyttinnhold | < 1 x 106 pr. enhet |
+|  | Hemolyse | < 0,8 % av erytrocyttmassen ved utløpet av holdbarhetsperioden |
+| Trombocytter, leukocyttdepletert, aferese | Volum | Gyldig for oppbevaringskarakteristika, som kan bevare produktet innenfor spesifikasjonene for pH |
+|  | Trombocyttinnhold | Variasjoner i trombocyttinnhold pr. enkelttapping tillates innenfor de grenser, som er i overensstemmelse med validerte framstillings- og konserveringsbetingelser |
+|  | Leukocyttinnhold | < 1 x 106 pr. enhet |
+|  | pH | ≥ 6,4 korrigert for 22 °C, ved utløpet av holdbarhetsperioden |
+| Trombocytter fra blodtappinger, poolet, leukocyttdepletert. | Volum | Gyldig for oppbevaringskarakteristika som kan bevare produktet innenfor spesifikasjonene for pH |
+|  | Trombocyttinnhold | Variasjoner i trombocyttinnhold pr. pool tillates innenfor de grenser, som er i overensstemmelse med validerte framstillings- og konserveringsbetingelser |
+|  | Leukocyttinnhold | < 1 x 106 pr. pool |
+|  | pH | ≥ 6,4 korrigert for 22 °C, ved utløpet av holdbarhetsperioden |
+| Friskfrosset plasma | Volum | Opplyst volum +/– 10 % |
+|  | Faktor VIIIc\* | Gjennomsnittlig (etter nedfrysing og opptining) 70 % eller mer av verdien for den frisktappede plasmaporsjon |
+|  | Totalprotein\* | Ikke < 50 g/l |
+|  | Innhold av residuale celler\* | Erytrocytter: < 6,0 x 109 /l<br>Leukocytter: < 0,1 x 109 /l<br>Trombocytter: < 50 x 109 /l |
+| Friskfrosset plasma, kryoprecipitatdepletert | Volum | Opplyst volum: +/– 10 % |
+|  | Innhold av residuale celler\* | Erytrocytter: < 6,0 x 109 /l<br>Leukocytter: < 0,1 x 109 /l<br>Trombocytter: < 50 x 109 /l |
+| Kryopresipitat | Fibrinogeninnhold\* | ≥ 140 mg pr. porsjon |
+|  | Faktor VIIIc-innhold\* | ≥ 70 IU pr. porsjon |
+| Granulocytter, aferese | Volum | < 500 ml |
+|  | Granulocyttinnhold | > 1 1010 granulocytter/porsjon |
 
 > Vedlegg II endret ved [forskrift 26 okt 2012 nr. 991](forskrift/2012-10-26-991).
 
 ## Vedlegg III – Oppbevaring av blod og blodkomponenter, jf. § 3-12
 
+1.1. *Oppbevaring i flytende form*
+
+| *Komponent* | *Oppbevaringstemperatur* | *Maksimal oppbevaringstid* |
+| --- | --- | --- |
+| Erytrocyttpreparater og blod (hvis det anvendes til transfusjon som blod) | + 2 til + 6 °C | 28-49 dager avhengig av prosessene for tapping, behandling og oppbevaring |
+| Trombocyttpreparater | + 20 til + 24 °C | 5 dager, men 7 dager i kombinasjon med teknikker til påvisning eller reduksjon av bakterieforurensning |
+| Granulocytter | + 20 til + 24 °C | 24 timer |
+
+1.2. *Kryopreservering*
+
+| *Komponent* | *Oppbevaringsforhold og oppbevaringstid* |
+| --- | --- |
+| Erytrocytter | Opp til 30 år avhengig av prosessene for tapping, behandling og oppbevaring |
+| Trombocytter | Opp til 24 måneder avhengig av prosessene for tapping, behandling og oppbevaring |
+| Plasma og kryopresipitat | Opp til 36 måneder avhengig av prosessene for tapping, behandling og oppbevaring |
+| Kryopreserverte erytrocytter og trombocytter skal suspenderes i et passende medium etter opptining. Den maksimalt tillatte oppbevaringsperiode etter opptining avhenger av den anvendte metode. |  |
+
 ## Vedlegg IV – Melding om alvorlige bivirkninger, jf. § 3-4
 
 ### DEL A – Hurtigmeldingsformat for mistenkte alvorlige bivirkninger
+
+Rapporterende institusjonIdentifikasjon av meldingenDato for melding (dag/måned/år)Dato for overføring (dag/måned/år)Mottakers alder og kjønnDato for alvorlig bivirkning (dag/måned/år)Den alvorlige bivirkningen berører:
 
 - fullblod
 - røde blodlegemer
 - blodplater
 - plasma
 - annet (presiser).
+
+Bivirkningen(e)s art
 
 - Immunologisk betinget hemolyse som skyldes ABO-uforlikelighet
 - Immunologisk betinget hemolyse som skyldes annet allo-antistoff
@@ -362,9 +553,23 @@ Blodkomponenter som er omtalt i EUs bloddirektiv, men ikke i denne forskriften k
 - Transplantat-mot-vert-reaksjon
 - Annen/andre alvorlig(e) reaksjon(er) (presiser).
 
+Nivå på skala for årsakssammenheng (NA, 0-3).
+
 ### DEL B – Alvorlige bivirkninger – skala for årsakssammenheng
 
+Skala for årsakssammenheng til bruk ved vurdering av alvorlige bivirkninger.
+
+| *Nivå* |  | *Forklaring* |
+| --- | --- | --- |
+| NA | Kan ikke vurderes | Når det er utilstrekkelig data for å vurdere årsakssammenheng. |
+| 0 | Utelukket<br><br><br>Usannsynlig | Når det er avgjørende bevis som ut over rimelig tvil viser at den alvorlige bivirkningen skyldes andre årsaker.<br><br>Når bevisene klart taler til fordel for at den alvorlige bivirkningen skyldes annen årsak enn blod eller blodkomponenter |
+| 1 | Mulig | Når bevisene ikke kan avklare om den alvorlige bivirkningen skyldes blod eller blodkomponenter eller andre årsaker. |
+| 2 | Sannsynlig | Når bevisene klart taler til fordel for at den alvorlige bivirkningen skyldes blod eller blodkomponenter. |
+| 3 | Sikker | Når det er avgjørende bevis som ut over rimelig tvil viser at den alvorlige bivirkningen skyldes blod eller blodkomponenter. |
+
 ### DEL C – Bekreftelsesformat for alvorlige bivirkninger
+
+Rapporterende institusjonIdentifikasjon av meldingenDato for bekreftelse (dag/måned/år)Dato for alvorlig bivirkning (dag/måned/år)Bekreftelse av alvorlig bivirkning (ja/nei)Nivå for årsakssammenheng (NA, 0-3)Endring av den alvorlige bivirkningens art (ja/nei)Hvis ja, presiserKlinisk resultat (hvis kjent)
 
 - Full helbredelse
 - Lett sekvele
@@ -373,21 +578,55 @@ Blodkomponenter som er omtalt i EUs bloddirektiv, men ikke i denne forskriften k
 
 ### DEL D – Format for årlig rapport om alvorlige bivirkninger
 
+[(pdf)](static/SF/sf-20050204-0080-01-01.pdf)
+
 ## Vedlegg V – Melding om alvorlige uønskede hendelser, jf. § 3-5
 
 ### DEL A – Hurtigmeldingsformat for alvorlige uønskede hendelser
 
+Rapporterende institusjonIdentifikasjon av meldingenDato for melding (dag/måned/år)Dato for alvorlig uønsket hendelse (dag/måned/år)*Presisering**Alvorlig uønsket hendelse som kan påvirke blodkomponents kvalitet og sikkerhet grunnet avvik i:**Defekt produkt**Defekt utstyr**Menneskelig feil**Annet* *(presiser)*FullblodstappingAferesetappingTesting av giverblodBehandlingLagringDistribusjonMateriellAnnet (presiser)
+
 ### DEL B – Bekreftelsesformat for alvorlige uønskede hendelser
 
+Rapporterende institusjonIdentifikasjon av meldingenDato for bekreftelse (dag/måned/år)Dato for alvorlig uønsket hendelse (dag/måned/år)Årsaksanalyse (detaljer)Forbedrende tiltak iverksatt (detaljer).
+
 ### DEL C – Format for årlig rapport om alvorlige uønskede hendelser
+
+Rapporterende institusjon
+
+|  |  |
+| --- | --- |
+| Rapporteringsperiode | 1. januar-31. desember (år) |
+
+Totalt antall behandlede blodenheter og blodkomponenter:
+
+|  |  | *Presisering* |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Alvorlig uønsket hendelse som kan påvirke blodkomponents kvalitet og sikkerhet grunnet avvik i:* | *Totalt antall* | *Defekt produkt* | *Defekt utstyr* | *Menneskelig feil* | *Annet* *(presiser)* |
+| Fullblodstapping |  |  |  |  |  |
+| Aferesetapping |  |  |  |  |  |
+| Testing av giverblod |  |  |  |  |  |
+| Behandling |  |  |  |  |  |
+| Lagring |  |  |  |  |  |
+| Distribusjon |  |  |  |  |  |
+| Materiell |  |  |  |  |  |
+| Annet (presiser) |  |  |  |  |  |
 
 ## Vedlegg VI – Standarder og spesifikasjoner til et kvalitetsstyringssystem, jf. § 2-4
 
 > Endret ved forskrift [9 mai 2021 nr. 1502](forskrift/2021-05-09-1502) (i kraft 26 mai 2021).
 
+1.*Innledning og alminnelige prinsipper*
+
+1.1.
+
 KvalitetsstyringssystemAnsvaret for kvaliteten påhviler alle personer som deltar i blodbankens prosesser, under en ledelse som sørger for en systematisk tilnærming til kvalitet, gjennomføring og vedlikehold av kvalitetsstyringssystemet.Kvalitetsstyringssystemet omfatter kvalitetsstyring, kvalitetssikring, fortløpende kvalitetsforbedring, personale, lokaler og utstyr, dokumentasjon, tapping, testing og prosessering, oppbevaring, distribusjon, utlevering, kvalitetskontroll, tilbakekalling av blodkomponenter og ekstern og intern revisjon, kontraktshåndtering, håndtering av avvik og egeninspeksjon.Kvalitetsstyringssystemet skal sikre at alle kritiske prosesser er spesifisert i egnede instruksjoner og utføres i samsvar med standardene og spesifikasjonene i dette vedlegget. Ledelsen skal med jevne mellomrom gjennomgå systemet for å kontrollere at det er effektivt, og om nødvendig innføre korrigerende tiltak.
 
+1.2.
+
 KvalitetssikringAlle blodbanker og transfusjonsenheter skal i sitt kvalitetssikringsarbeid bli støttet av et kvalitetssikringsorgan, som kan være internt eller eksternt. Dette organet skal medvirke i alle kvalitetsrelaterte spørsmål og gjennomgå og godkjenne alle relevante kvalitetsrelaterte dokumenter.Alle prosedyrer, lokaler og alt utstyr som innvirker på kvaliteten og sikkerheten til blod og blodkomponenter, skal valideres før de tas i bruk og valideres på nytt med jevne mellomrom som følge av valideringsresultatene.
+
+2.*Personale og organisasjon*
 
 1. Det skal være tilstrekkelig personale hos blodbanker til å utføre aktiviteter knyttet til tapping, kontroll, oppbevaring, distribusjon og utlevering av blod og blodkomponenter, og personalet skal være utdannet og vurdert som kompetent til å utføre sine oppgaver.
 2. Alt personale hos blodbanker skal ha ajourførte stillingsbeskrivelser som klart beskriver deres oppgaver og ansvar. Blodbanker skal pålegge ansvaret for produksjon og kvalitetssikring på forskjellige enkeltpersoner som utfører sine oppgaver uavhengig av hverandre.
@@ -395,27 +634,43 @@ KvalitetssikringAlle blodbanker og transfusjonsenheter skal i sitt kvalitetssikr
 4. Innholdet i opplæringsprogrammene skal vurderes regelmessig, og personalets kompetanse skal evalueres regelmessig.
 5. Det skal foreligge skriftlige sikkerhets- og hygieneinstrukser som er tilpasset de aktiviteter som utføres, og som er i samsvar med [lov 17. juni 2005 nr. 62](lov/2005-06-17-62) om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) og [forskrift 19. desember 1997 nr. 1322](forskrift/1997-12-19-1322) om vern mot eksponering for biologiske faktorer (bakterier, virus, sopp m.m.) på arbeidsplassen.
 
+3.*Lokaler*
+
+3.1.
+
 Allment
 
 Lokaler, herunder mobile enheter, skal innrettes og vedlikeholdes på en slik måte at de egner seg til de aktiviteter som utføres. De skal gjøre det mulig å utføre arbeidet i logisk rekkefølge, slik at risikoen for feil blir minst mulig og effektivt renhold og vedlikehold muliggjøres, så det blir minst mulig fare for kontaminering.
+
+3.2.
 
 Blodgiverområde
 
 Det skal være et område til fortrolige personlige intervjuer med og vurdering av enkeltpersoner for å vurdere deres egnethet som blodgivere. Dette området skal være atskilt fra alle andre behandlingsområder.
 
+3.3.
+
 Blodtappingsområde
 
 Blodtapping skal utføres i et område som er beregnet på sikker tapping av blod fra blodgivere, riktig utstyrt for første behandling av blodgivere som får bivirkninger eller skader av hendelser knyttet til blodgivning, og organisert på en slik måte at sikkerheten til både blodgivere og personale sikres og det unngås feil under tappingen.
+
+3.4.
 
 Områder for testing og behandling av blod
 
 Det skal være et eget laboratorieområde for testing som er atskilt fra blodgiveren og området for behandling av blodkomponenter, og med tilgang begrenset til godkjent personale.
 
+3.5.
+
 OppbevaringsområdeOppbevaringsområdene skal muliggjøre sikker og atskilt oppbevaring av forskjellige kategorier av blod og blodkomponenter og materialer, herunder materialer i karantene og materialer frigitt fra karantene samt blodenheter eller blodkomponenter som er tappet etter særlige kriterier (f.eks. autolog tapping).Det skal treffes forholdsregler i tilfelle utstyrsfeil eller strømbrudd i de viktigste oppbevaringsområdene.
+
+3.6.
 
 Område for disponering av avfall
 
 Det skal være et område for sikker disponering av avfall, engangsmaterialer som brukes ved tapping, testing og behandling, og for blod eller blodkomponenter som kasseres.
+
+4.*Utstyr og materialer*
 
 1. Alt utstyr skal valideres, kalibreres og vedlikeholdes så det egner seg til det tiltenkte formål. Bruksanvisninger skal foreligge og relevant dokumentasjon arkiveres.
 2. Utstyret skal velges slik at faren for blodgivere, personale eller blodkomponenter blir minst mulig.
@@ -423,21 +678,39 @@ Det skal være et område for sikker disponering av avfall, engangsmaterialer so
 4. Det skal oppbevares fortegnelse over inventaret og utstyr i et tidsrom som er godtatt av og avtalt med kompetent myndighet.
 5. Dersom det anvendes IT-baserte systemer, skal programvare, maskinvare og prosedyrer for sikkerhetskopiering kontrolleres regelmessig for å sikre pålitelighet, valideres før bruk og vedlikeholdes i validert tilstand. Maskinvare og programvare skal beskyttes mot uautorisert bruk og uautoriserte endringer. Prosedyren for sikkerhetskopiering skal forhindre tap av eller skade på data ved forventet eller uventet driftsstans eller funksjonsfeil.
 
+5.*Dokumentasjon*
+
 1. Dokumenter med spesifikasjoner, prosedyrer og registre over alle aktiviteter utført ved blodbanken skal foreligge og holdes ajour.
 2. Registrene skal være leselige og kan være håndskrevne, overført til et annet medium som for eksempel mikrofilm eller dokumentert i et IT-basert system.
 3. Alle betydelige endringer i dokumenter skal behandles umiddelbart, og de skal gjennomgås, dateres og undertegnes av en person med myndighet til å utføre denne oppgaven.
 
+6.*Tapping, testing og behandling av blod*
+
+6.1.
+
 Blodgiverens egnethetDet skal innføres og vedlikeholdes prosedyrer for sikker identifikasjon av blodgivere, egnethetssamtaler og egnethetsvurdering. De skal finne sted før hver tapping og skal oppfylle kravene i § 4-4 og vedlegg I i forskriften.Blodgiverintervjuet skal utføres på en slik måte at det sikres fortrolighet.Blodgiverens egnethet og endelige vurdering skal undertegnes av kvalifisert helsepersonale.
+
+6.2.
 
 Tapping av blod og blodkomponenterProsedyren for blodtapping skal utformes slik at blodgiverens identitet kontrolleres og registreres på en sikker måte, og at forbindelsen mellom blodgiveren og blodet, blodkomponentene og blodprøvene kan fastslås klart.Systemet med sterile blodposer brukes til tapping av blod og blodkomponenter, og behandling av dem skal være CE-merket eller overholde tilsvarende standarder dersom blodet og blodkomponentene tappes i tredjestater. Blodposens lotnummer skal kunne spores for hver blodkomponent.Prosedyrene for tapping av blod skal minimere risikoen for mikrobiell kontaminering.Laboratorieprøver skal tas i forbindelse med tappingen og skal oppbevares på riktig måte før testingen utføres.Prosedyren som benyttes for merking av dokumentasjon, blodposer og laboratorieprøver med tappenummer, skal være slik at risikoen for identifikasjonsfeil og forveksling unngås.Etter tapping skal blodposene håndteres på en slik måte at blodets kvalitet ivaretas, og ved en oppbevarings- og transporttemperatur som passer for krav til videre behandling.Det skal være et system som sikrer at hver tapping kan knyttes til det tappe- og fraksjoneringssystemet der blodet tappes og/ eller behandles.
 
+6.3.
+
 LaboratorieundersøkelserAlle prosedyrer for laboratorieundersøkelser skal valideres før bruk.Hver tapping skal kontrolleres i samsvar med kravene fastsatt i § 3-1 annet ledd i forskriften.Det skal være klart definerte prosedyrer for å oppklare tilfeller av avvikende resultater og sikre at blod og blodkomponenter som har et gjentatt reaktivt resultat i en serologisk kartlegging av infeksjon med viraene nevnt i vedlegg IV til forskriften, utelukkes fra terapeutisk bruk og oppbevares atskilt i et dertil avsett miljø. Det skal utføres tilfredsstillende bekreftende undersøkelser. Ved bekreftet positive resultater skal det treffes relevante forholdsregler med hensyn til giverhåndtering, herunder rådgiving til og oppfølging av blodgiver.Det skal foreligge data som bekrefter egnetheten til alle laboratoriereagenser som brukes ved testing av blod og blodkomponenter.Kvaliteten til laboratorieundersøkelsene skal vurderes regelmessig ved deltaking i et formelt system for prestasjonsprøving, for eksempel et eksternt kvalitetssikringsprogram.Blodtypeserologiske undersøkelser skal omfatte prosedyrer for testing av bestemte grupper av blodgivere (f.eks. førstegangsgivere, givere med en historie av blodoverføring).
+
+6.4.
 
 Behandling og valideringAlt av utstyr og tekniske innretninger skal brukes i samsvar med validerte prosedyrer.Behandlingen av blodkomponenter skal utføres etter egnede og validerte prosedyrer, herunder tiltak for å unngå risiko for kontaminering og vekst av mikrober.
 
+6.5.
+
 MerkingAlle beholdere skal på alle stadier være merket med relevante identitetsopplysninger. Dersom det ikke finnes et validert IT-basert system for statuskontroll, skal merkingen klart skille mellom frigitte og ikke-frigitte enheter med blod og blodkomponenter.Merkingssystemet for det tappede blodet, blodkomponenter på mellomstadiet og ferdige blodkomponenter og prøver skal entydig identifisere typen innhold og oppfylle merkings- og sporbarhetskravene omhandlet i § 3-1 og § 3-2 i forskriften. Etiketten for en ferdig blodkomponent skal oppfylle kravene i § 3-12 annet ledd i forskriften.For autologt blod og autologe blodkomponenter skal etiketten også overholde § 3-12 og tilleggskravene for autologe tappinger i vedlegg II i forskriften.
 
+6.6.
+
 Frigivelse av blod og blodkomponenterDet skal være et sikkert system som hindrer at hver blodenhet eller blodkomponent frigis før alle obligatoriske krav omhandlet i denne forskriften er oppfylt. Hver blodbank skal kunne påvise at hver blodenhet eller blodkomponent er formelt frigitt av en autorisert person. Registre skal før hver blodkomponent frigis, dokumentere at alle aktuelle erklæringsskjemaer, relevante journaler og testresultater oppfyller alle kriterier for godkjenning.Før frigivelse skal blod og blodkomponenter holdes administrativt og fysisk atskilt fra frigitt(e) blod og blodkomponenter. I mangel av et validert IT-basert system for statuskontroll skal etiketten på en blodenhet eller blodkomponent identifisere frigivelsesstatus i samsvar med punkt 6.5.1.Dersom den endelige komponenten ikke blir frigitt på grunn av bekreftet positivt resultat av en infeksjonstest, skal det i samsvar med kravene i punkt 6.3.2 og 6.3.3 utføres en kontroll for å sikre at andre komponenter fra samme tapping og komponenter tilberedt fra tidligere tappinger fra samme blodgiver identifiseres. Blodgiverregisteret skal ajourføres umiddelbart.
+
+7.*Oppbevaring og distribusjon*
 
 1. Blodbankens kvalitetsstyringssystem skal for blod og blodkomponenter beregnet på framstilling av legemidler sikre at oppbevarings- og distribusjonskravene er i samsvar med § 3-12 og vedlegg III i forskriften.
 2. Prosedyrer for oppbevaring og distribusjon skal valideres for å sikre kvaliteten til blod og blodkomponenter under hele oppbevaringsperioden og utelukke forveksling av blodkomponenter. Alle transport- og oppbevaringsaktiviteter, herunder mottak og distribusjon, skal defineres ved skriftlige prosedyrer og spesifikasjoner.
@@ -446,19 +719,33 @@ Frigivelse av blod og blodkomponenterDet skal være et sikkert system som hindre
 5. Emballasjen skal beskytte blodets og blodkomponentene mot skade og sikre at oppbevaringstemperaturen under distribusjon og transport opprettholdes.
 6. Tilbakelevering av blod og blodkomponenter til lager for senere utlevering skal godtas bare dersom alle kvalitetskrav og prosedyrer fastsatt av blodbanken for å sikre blodkomponentenes integritet er oppfylt.
 
+8.*Kontraktshåndtering*
+
 Oppgaver som utføres eksternt, skal defineres i en egen skriftlig kontrakt.
+
+9.*Manglende samsvar*
+
+9.1.
 
 Avvik
 
 Blodkomponenter som avviker fra standardene fastsatt i vedlegg II i forskriften, skal frigis for overføring bare under særlige omstendigheter og etter skriftlig avtale med ordinerende lege og blodbankens lege.
 
+9.2.
+
 Klager
 
 Alle klager og andre opplysninger, herunder alvorlige bivirkninger og alvorlige uønskede hendelser, som kan tyde på at det er utlevert blodkomponenter med feil, skal dokumenteres og omhyggelig etterforskes med sikte på å fastslå årsakene til feilen. Om nødvendig skal blodkomponentene tilbakekalles, og det skal iverksettes korrigerende tiltak for å hindre gjentakelse. Det skal finnes prosedyrer for å sikre at vedkommende myndigheter underrettes om alvorlige bivirkninger eller alvorlige uønskede hendelser i samsvar med forskriftsmessige krav.
 
+9.3.
+
 TilbakekallingBlodbanken skal ha personale med myndighet til å vurdere behovet for tilbakekalling av blod og blodkomponenter og til å iverksette og samordne nødvendige tiltak.Det skal finnes en effektiv prosedyre for tilbakekalling, herunder en beskrivelse av ansvarsforhold og tiltak som skal treffes. Den skal omfatte underretning til vedkommende myndighet.Det skal innen forhåndsfastsatte frister treffes tiltak som omfatter sporing av alle relevante blodkomponenter og, dersom det er relevant, tilbakesporing. Formålet med etterforskningen er å identifisere enhver blodgiver som kan ha bidratt til å forårsake transfusjonsreaksjonen, og å tilbakekalle alle eksisterende blodkomponenter fra vedkommende giver samt underrette mottakere av komponenter tappet fra samme giver om den eventuelle risikoen.
 
+9.4.
+
 Korrigerende og forebyggende tiltakDet skal finnes et system for å sikre at det treffes korrigerende og forebyggende tiltak dersom det for blodkomponenter foreligger manglende samsvar og kvalitetsproblemer.Data skal rutinemessig analyseres for å identifisere kvalitetsproblemer som kan kreve korrigerende tiltak, eller identifisere ugunstige tendenser som kan kreve forebyggende tiltak.Alle feil og uhell skal dokumenteres og etterforskes for å identifisere systemproblemer slik at de kan korrigeres.
+
+10.*Egeninspeksjon, internrevisjon og forbedringer*
 
 1. Det skal finnes system for egeninspeksjon og internrevisjoner for alle deler av virksomheten, slik at samsvaret med standardene fastsatt i dette vedlegg kan kontrolleres. Disse kontrollene skal utføres regelmessig av opplærte og kompetente personer på en uavhengig måte i samsvar med godkjente prosedyrer.
 2. Alle resultater skal dokumenteres og hensiktsmessige korrigerende tiltak skal treffes til rett tid og på en effektiv måte.

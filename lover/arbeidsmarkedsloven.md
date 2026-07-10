@@ -252,6 +252,10 @@ Dersom forholdet ikke går inn under strengere straffebud, straffes med bøter d
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 1 juli 2005 iflg. [res. 10 des 2004 nr. 1616](forskrift/2004-12-10-1616).
+
 ### § 32. Endringer i annen lovgivning
 
 Fra den tid loven her trer i kraft, gjøres følgende endringer i annen lovgivning: – – –1
+
+1 Blant annet ble [lov 27 juni 1947 nr. 9](lov/1947-06-27-9) om tiltak til å fremme sysselsetting opphevet.

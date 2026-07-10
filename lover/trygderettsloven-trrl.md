@@ -48,6 +48,8 @@ eu_basis: []
 
 > Endret ved [lov 18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)).
 
+1 Jf. [res. 15 mars 1974 nr. 5](forskrift/1974-03-15-5), og [6 juni 1975 nr. 9551](forskrift/1975-06-06-9551) om medlemmer i pensjonsordninger i Kommunal Landspensjonskasse, samt [res. 4 mars 1977 nr. 1](forskrift/1977-03-04-1) om medlemmer i kommunale og fylkeskommunale pensjonsordninger.
+
 ## Kapittel 2. Trygderettens organisasjon mv.
 
 > Overskriften endret ved [lov 18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)).
@@ -77,6 +79,8 @@ eu_basis: []
 Kongen1 kan fastsette nærmere regler om rettens arbeidsordning og administrasjon.
 
 > Endret ved [lover 13 juni 1997 nr. 59](lov/1997-06-13-59), [18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)), [20 des 2019 nr. 84](lov/2019-12-20-84) (ikr. 1 jan 2020).
+
+1 Arbeids- og sosialdepartementet iflg. [res. 21 des 2001 nr. 1479](forskrift/2001-12-21-1479).
 
 ### § 5. Trygderettens lokalisering
 
@@ -439,6 +443,8 @@ Den som mot bedre vitende gir uriktige opplysninger, eller fortier vesentlige op
 (2) Kongen kan i forskrift gjøre de unntak fra loven og gi de supplerende regler som er nødvendige til oppfylling av plikter som følge av overenskomst med fremmed stat.
 
 > Tilføyd ved [lov 18 des 2015 nr. 105](lov/2015-12-18-105) (ikr. 1 apr 2016 iflg. [res. 18 des 2015 nr. 1581](forskrift/2015-12-18-1581)), tidligere § 33.
+
+1 Overgangsregler gitt i [res. 8 juni 1967 nr. 9407](forskrift/1967-06-08-9407) (virkeområde) og [16 des 1966 nr. 3](forskrift/1966-12-16-3) (funksjonstid).
 
 ### § 37. Forholdet til forvaltningsloven
 

@@ -163,3 +163,5 @@ Revisor skal oppbevare dokumentasjonen på en ordnet og betryggende måte i mins
 Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1
 
 Fra samme tidspunkt oppheves [forskrift 15. juni 2004 nr. 905](forskrift/2004-06-15-905) om kontrollutvalg i kommuner og fylkeskommuner og [forskrift 15. juni 2004 nr. 904](forskrift/2004-06-15-904) om revisjon i kommuner og fylkeskommuner mv.
+
+1 Antas å være 1 november 2019, se [vedtak 3 okt 2019 nr. 1294](forskrift/2019-10-03-1294).

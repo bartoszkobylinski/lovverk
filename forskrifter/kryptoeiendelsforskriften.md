@@ -38,6 +38,10 @@ Skriftlig redegjørelse for utsettelse av offentliggjøring av innsideinformasjo
 
 ## § 4. Endring i andre forskrifter
 
+1\. I [forskrift 9. desember 2016 nr. 1502 om finansforetak og finanskonsern (finansforetaksforskriften)](forskrift/2016-12-09-1502) gjøres følgende endringer: – – –
+
+2\. I [forskrift 27. mars 2025 nr. 543 til finanstilsynsloven (finanstilsynsforskriften)](forskrift/2025-03-27-543) gjøres følgende endringer: – – –
+
 ## § 5. Ikrafttredelse
 
 Forskriften trer i kraft 1. juli 2025.

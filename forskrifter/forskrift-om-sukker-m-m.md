@@ -84,28 +84,52 @@ Denne forskriften trer i kraft 12. juli 2003. Samtidig oppheves [forskrift av 20
 
 For punktene 4, 5 og 6 er betegnelsen «hvitt» forbeholdt:sukkerløsning der fargen i løsningen er maksimum 25 ICUMSA-enheter fastsatt i samsvar med metoden i vedlegg 2 bokstav cinvertsukkerløsning og sirup av invertsukker deraskeinnhold beregnet ved måling av ledningsevne – maksimum 0,1 vektprosent av tørrstoffet fastsatt i samsvar med metoden i vedlegg 2 bokstav b,fargen i løsningen er maksimum 25 ICUMSA-enheter fastsatt i samsvar med metoden i vedlegg 2 bokstav c.
 
+1\. *Halvhvitt sukker*
+
 Renset og krystallisert sukrose av sunn og god handelskvalitet med følgende egenskaper:polarisasjon – minimum 99,5 °Zinnhold av invertsukker – maksimum 0,1 vektprosenttap ved tørking – maksimum 0,1 vektprosent.
+
+2\. *Sukker eller hvitt sukker*
 
 Renset og krystallisert sukrose av sunn og god handelskvalitet med følgende egenskaper:polarisasjon – minimum 99,7 °Zinnhold av invertsukker – maksimum 0,04 vektprosenttap ved tørking – maksimum 0,06 vektprosentfargetype – maksimum 9 «punkter» fastsatt i samsvar med metoden i vedlegg 2 bokstav a.
 
+3\. *Raffinert sukker eller raffinert hvitt sukker*
+
 Sukrose med egenskaper som angitt i nr. 2 bokstav a, b og c. Produktets totale antall «punkter» fastsatt i samsvar med metoden i vedlegg 2 bokstav a, skal ikke overstige 8 og være maksimum4 for fargetypen6 for askeinnholdet3 for farge i løsningen.
+
+4\. *Sukkerløsning*
 
 Vandig løsning av sukrose, som har følgende egenskaper:Tørrstoff – minimum 62 vektprosentinnhold av invertsukker (forholdet mellom fruktose og glukose: 1,0 ± 0,2) – maksimum 3 vektprosent av tørrstoffetaskeinnhold beregnet ved måling av ledningsevne – maksimum 0,1 vektprosent av tørrstoffet fastsatt i samsvar med metoden i vedlegg 2 bokstav bfarge i løsningen – maksimum 45 ICUMSA-enheter.
 
+5\. *Invertsukkerløsning*
+
 Vandig løsning av sukrose, delvis invertert ved hydrolyse, hvor mengden av invertsukker ikke dominerer, og som har følgende egenskaper:tørrstoff – minimum 62 vektprosentinnhold av invertsukker (forholdet mellom fruktose og glukose: 1,0 ± 0,1) – over 3 vektprosent, men maksimum 50 vektprosent av tørrstoffetaskeinnhold beregnet ved måling av ledningsevne – maksimum 0,4 vektprosent av tørrstoffet fastsatt i samsvar med metoden i vedlegg 2 bokstav b.
+
+6\. *Sirup av invertsukker*
 
 Vandig løsning, eventuelt krystallisert, av sukrose, delvis invertert ved hydrolyse, hvor mengden invertsukker (forholdet mellom fruktose og glukose: 1,0 ± 0,1), skal overstige 50 vektprosent av tørrstoffet, og som ellers har egenskapene som er angitt i nr. 5 bokstav a og c.
 
+7\. *Glukosesirup*
+
 Renset og konsentrert vandig løsning av energigivende sukkerarter, fra stivelse og/eller inulin, med følgende egenskaper:tørrstoff – minimum 70 vektprosentdekstroseekvivalent – minimum 20 vektprosent av tørrstoffet og uttrykt i D-glukosesulfataske – maksimum 1 vektprosent av tørrstoffet.
+
+8\. *Tørket glukosesirup*
 
 Delvis tørket glukosesirup med et tørrstoffinnhold på minimum 93 vektprosent, og som ellers har egenskapene som er angitt i nr. 7 bokstav b og c.
 
+9\. *Dekstrose eller dekstrose monohydrat*
+
 Renset og krystallisert D-glukose med ett vannmolekyl fra krystallisering, med følgende egenskaper:dekstrose (D-glukose) – minimum 99,5 vektprosent av tørrstoffettørrstoff – minimum 90 vektprosentsulfataske – maksimum 0,25 vektprosent av tørrstoffet.
 
+10\. *Dekstrose eller vannfri dekstrose*
+
 Renset og krystallisert D-glukose som ikke inneholder vann fra krystallisering, med minst 98 vektprosent tørrstoff, og som ellers har egenskapene som er angitt i nr. 9 bokstav a og c.
+
+11\. *Fruktose*
 
 Renset og krystallisert D-fruktose med følgende egenskaper:fruktoseinnhold – minimum 98%glukoseinnhold – maksimum 0,5%tap ved tørking – maksimum 0,5 vektprosentaskeinnhold beregnet ved måling av ledningsevne – maksimum 0,1 vektprosent fastsatt i samsvar med metoden i vedlegg 2 bokstav b.
 
 ## Vedlegg 2.
+
+Metoder for bestemmelse av fargetype, askeinnhold ved måling av ledningsevne og farge i en løsning av (hvitt) sukker og av raffinert (hvitt) sukker som definert i vedlegg 1 nr. 2 og 3.
 
 Et «punkt» tilsvarerfor fargetype, 0,5 enheter beregnet etter metoden fra Instituttet for landbruksteknologi og sukkerindustri i Braunschweig, som beskrevet i kapittel A nr. 2, i vedlegget til Kommisjonens forordning [(EØF) nr. 1265/69](eu/31969r1265*) av 1. juli 1969 om fastsettelse av metoder for bestemmelse av kvaliteten på sukker kjøpt opp av intervensjonsorganene,for askeinnhold, 0,0018% beregnet etter metoden til Internasjonalt utvalg for standardmetoder for analyser av sukker (ICUMSA), som beskrevet i kapittel A nr. 1, i vedlegget til forordning [(EØF) nr. 1265/69](eu/31969r1265*),for farge i løsningen, 7,5 enheter beregnet etter ICUMSA-metoden, som beskrevet i kapittel A nr. 3, i vedlegget til forordning [(EØF) nr. 1265/69](eu/31969r1265*).

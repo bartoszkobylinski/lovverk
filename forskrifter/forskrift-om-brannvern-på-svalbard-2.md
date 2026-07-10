@@ -40,6 +40,18 @@ Forskriften stiller krav til allmennheten og til eier og bruker av bygninger, an
 
 ### § 1-4. Definisjoner.
 
+Brannobjekt: Enhver bygning, anlegg, lager, område m.v., hvor brann kan oppstå og true liv, helse, miljø, eiendom eller produksjon.
+
+Særskilt brannobjekt: De bygninger, anlegg m.v. som faller innenfor forskriftens [§ 5-1](forskrift/1993-08-20-815/§5-1).
+
+Brannsyn: Brannteknisk inspeksjon av brannobjekter for å påse at disse er sikret mot brann etter gjeldende bestemmelser, samt føre tilsyn med forhold som har betydning for redning og slokking.
+
+Lokal brannsjef: Leder for brannvernet i bosetningen.
+
+Brannvern: Den organisasjon som skal forebygge og slokke brann.
+
+Bolig: Enebolig, rekkehus, blokkleilighet, fritidsbolig og fangsthytte, dog ikke nødhytte. Sysselmesteren avgjør i tvilstilfelle hva som er nødhytte.
+
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
 ### § 1-5. Fravik.
@@ -246,7 +258,12 @@ Etter brann, branntilløp eller annen hendelse som kan være varsel om at branns
 
 ### § 4-12. Brannøvelser.
 
-Bruker skal gjennomføre brannøvelser i alle særskilte brannobjekter med minst følgende hyppighet i de forskjellige typer, jfr. [§ 5-1](forskrift/1993-08-20-815/§5-1):- type a:2 øvelser pr. år- type b, c, d, e:1 øvelse hvert annet år
+Bruker skal gjennomføre brannøvelser i alle særskilte brannobjekter med minst følgende hyppighet i de forskjellige typer, jfr. [§ 5-1](forskrift/1993-08-20-815/§5-1):
+
+|  |  |
+| --- | --- |
+| - type a: | 2 øvelser pr. år |
+| - type b, c, d, e: | 1 øvelse hvert annet år |
 
 Nyansatte og vikarer ved særskilte brannobjekter av type a skal før de settes i arbeid gis en grunnleggende brannvernopplæring som dekker de kunnskaper som normalt innarbeides gjennom brannøvelse.
 
@@ -310,7 +327,15 @@ Industri- og næringsvirksomheter skal innenfor eget område sørge for fordelin
 
 ### § 5-1. Fortegnelse over særskilte brannobjekter.
 
-Sysselmesteren skal påse at det føres fortegnelse over alle særskilte brannobjekter, fordelt på følgende typer:- type a:Bygninger til opphold for et større antall mennesker og hvor brann kan medføre mer enn alminnelig fare for tap av menneskeliv.- type b:Bygninger, anlegg, opplag o.l som ved sin beskaffenhet eller den virksomhet som foregår i dem, antas å medføre særlig brannfare eller fare for stor brann, eller hvor brann kan medføre store konsekvenser.- type c:Større industrielle bedrifter.- type d:Bygninger som har kulturhistorisk eller lignende samfunnsmessig verdi.- type e:Områder som er særskilt anlagt til bruk for et større antall mennesker og hvor brann lett kan få store konsekvenser, herunder campingplasser, lystbåthavner, idrettsanlegg, plasser for møtevirksomhet o.l.
+Sysselmesteren skal påse at det føres fortegnelse over alle særskilte brannobjekter, fordelt på følgende typer:
+
+|  |  |
+| --- | --- |
+| - type a: | Bygninger til opphold for et større antall mennesker og hvor brann kan medføre mer enn alminnelig fare for tap av menneskeliv. |
+| - type b: | Bygninger, anlegg, opplag o.l som ved sin beskaffenhet eller den virksomhet som foregår i dem, antas å medføre særlig brannfare eller fare for stor brann, eller hvor brann kan medføre store konsekvenser. |
+| - type c: | Større industrielle bedrifter. |
+| - type d: | Bygninger som har kulturhistorisk eller lignende samfunnsmessig verdi. |
+| - type e: | Områder som er særskilt anlagt til bruk for et større antall mennesker og hvor brann lett kan få store konsekvenser, herunder campingplasser, lystbåthavner, idrettsanlegg, plasser for møtevirksomhet o.l. |
 
 > Endret ved forskrift [3 des 2021 nr. 3395](forskrift/2021-12-03-3395).
 
@@ -318,7 +343,13 @@ Sysselmesteren skal påse at det føres fortegnelse over alle særskilte brannob
 
 Den virksomhet som har ansvar for brannvernet er ansvarlig for at kvalifisert personell utfører brannsyn av bygninger og områder for å påse at disse er sikret mot brann etter gjeldende bestemmelser. Den som utfører brannsyn skal føre tilsyn med forhold som har betydning for brannsikkerheten, og for redning og slokking ved brann.
 
-Brannsyn skal gjennomføres med minst følgende hyppighet, jfr. [§ 5-1](forskrift/1993-08-20-815/§5-1):- type a, e:1 gang hvert år.- type b, c:1 gang hvert år, dog slik at annet hvert år kan dette erstattes av eiers egen kontroll, etter hans eget kontrollsystem.- type d:1 gang hvert fjerde år.
+Brannsyn skal gjennomføres med minst følgende hyppighet, jfr. [§ 5-1](forskrift/1993-08-20-815/§5-1):
+
+|  |  |
+| --- | --- |
+| - type a, e: | 1 gang hvert år. |
+| - type b, c: | 1 gang hvert år, dog slik at annet hvert år kan dette erstattes av eiers egen kontroll, etter hans eget kontrollsystem. |
+| - type d: | 1 gang hvert fjerde år. |
 
 ### § 5-3. Brannsyn i andre brannobjekter.
 

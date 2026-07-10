@@ -42,9 +42,11 @@ eu_basis: []
 
 > Endret ved [forskrifter 28 mars 2000 nr. 307](forskrift/2000-03-28-307) (i kraft 1 mai 2000), [22 des 2000 nr. 1575](forskrift/2000-12-22-1575) (i kraft 1 jan 2001), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [14 feb 2012 nr. 236](forskrift/2012-02-14-236), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [19 des 2019 nr. 2000](forskrift/2019-12-19-2000) (i kraft 1 jan 2020), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021), [19 des 2023 nr. 2200](forskrift/2023-12-19-2200) (i kraft 1 jan 2024), [19 des 2025 nr. 2807](forskrift/2025-12-19-2807) (i kraft 1 jan 2026).
 
+1 Jf. [§ 2](forskrift/1998-01-05-6/§2) bokstav g nr. 3.
+
 ### § 2. Definisjoner
 
-I denne forskriften betyr:*Administrasjon:* Uttrykket «administrasjon» i koden for hurtiggående fartøy skal forstås som Sjøfartsdirektoratet, jf. kodens [kapittel 1](forskrift/1998-01-05-6/kap1) nr. 1.4.1.*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):Det Norske Veritas (DNV)Lloyd's Register of Shipping (LRS)Bureau Veritas (BV)Germanischer Lloyd (GL)American Bureau of Shipping (ABS).Disse klasseinstitusjonene er også godkjente av Direktoratet for samfunnssikkerhet og beredskap (DSB) for kontroll av elektriske anlegg.*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Eksisterende fartøy:* Hurtiggående fartøy som ikke er nytt fartøy.*Godkjent, typegodkjent og akseptert:*For utstyr som omfattes av skipsutstyrsforskriften: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr;Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon, eller administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen.– – –*Hurtiggående fartøy:* Som definert i regel X/1 i [SOLAS 1974 med](traktat/1974-11-01-1) senere endringer.Hurtiggående passasjerfartøy: Et hurtiggående fartøy som fører mer enn 12 passasjerer.Hurtiggående roro passasjerfartøy: Et hurtiggående passasjerfartøy med roro lasterom eller rom av særskilt kategori som definert i Sjøsikkerhetskonvensjonens regel II-2/3 eller hurtiggående passasjerfartøy med innretninger som tillater vegtrafikkerende kjøretøy eller skinnegående materiell å kjøre om bord og av fartøyet.Passasjerfartøy i innenriks fart der det ikke på noe tidspunkt er mer enn 20 nautiske mil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde, regnes ikke som hurtiggående passasjerfartøy, når:dets deplasement tilsvarende konstruksjonsvannlinjen er mindre enn 500 m3 ogdets største hastighet som definert i regel 1.4.30 i HSC94-koden for hurtiggående fartøy eller regel 1.4.38 i HSC2000-koden for hurtiggående fartøy er mindre enn 20 knop.*Innenriks fart:* Reiser fra en havn i en stat til samme havn eller til en annen havn i den samme staten.*Klassifisert fartøy:* Hurtiggående fartøy som har klasse i anerkjent klasseinstitusjon.*HSC2000-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.97(73), sist endret ved MSC.537(107).*HSC94-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.36(63), sist endret ved MSC.536(107).*Nytt fartøy:* Hurtiggående fartøy hvor kjølen strekkes, eller som er på et tilsvarende byggetrinn, på eller etter 14. februar 2012. Et tilsvarende byggetrinn betyr det trinn der:bygging kan identifiseres som et bestemt fartøy, ogmontering av vedkommende fartøy er begynt og utgjør minst 50 tonn eller 1 % av den beregnede masse av alle konstruksjonsmaterialer, dersom denne verdien er mindre.*Rutetrafikk:* En rekke seilinger med hurtiggående passasjerfartøy for å sikre forbindelsen mellom de samme to eller flere havner, eller en rekke seilinger til og fra samme havn uten mellomliggende anløp, enteni henhold til en offentliggjort ruteplan, ellermed slik regelmessighet eller hyppighet at de fremstår som en systematisk rekke seilinger.*Skipssikkerhetsloven:*[Lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet.*Sjøsikkerhetskonvensjonen:* Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) senere endringer ([SOLAS 74).](traktat/1974-11-01-1)*Uklassifisert fartøy:* Hurtiggående fartøy som ikke har klasse i anerkjent klasseinstitusjon.*Utenriks fart:* En reise fra en havn i en stat til en havn utenfor vedkommende stat eller omvendt.*Vertsstat:* En stat innenfor EØS til eller fra hvis havner et hurtiggående fartøy som uansett flagg går i innenriks fart eller et hurtiggående roro passasjerfartøy som uansett flagg går i rutetrafikk i innenriks eller i utenriks fart.
+I denne forskriften betyr:*Administrasjon:* Uttrykket «administrasjon» i koden for hurtiggående fartøy skal forstås som Sjøfartsdirektoratet, jf. kodens [kapittel 1](forskrift/1998-01-05-6/kap1) nr. 1.4.1.*Anerkjent klasseinstitusjon:* Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av [skipssikkerhetsloven § 41](lov/2007-02-16-9/§41):Det Norske Veritas (DNV)Lloyd's Register of Shipping (LRS)Bureau Veritas (BV)Germanischer Lloyd (GL)American Bureau of Shipping (ABS).Disse klasseinstitusjonene er også godkjente av Direktoratet for samfunnssikkerhet og beredskap (DSB) for kontroll av elektriske anlegg.*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Eksisterende fartøy:* Hurtiggående fartøy som ikke er nytt fartøy.*Godkjent, typegodkjent og akseptert:*For utstyr som omfattes av skipsutstyrsforskriften: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr;Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon, eller administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen.– – –*Hurtiggående fartøy:* Som definert i regel X/1 i [SOLAS 1974 med](traktat/1974-11-01-1) senere endringer.Hurtiggående passasjerfartøy: Et hurtiggående fartøy som fører mer enn 12 passasjerer.Hurtiggående roro passasjerfartøy: Et hurtiggående passasjerfartøy med roro lasterom eller rom av særskilt kategori som definert i Sjøsikkerhetskonvensjonens regel II-2/3 eller hurtiggående passasjerfartøy med innretninger som tillater vegtrafikkerende kjøretøy eller skinnegående materiell å kjøre om bord og av fartøyet.Passasjerfartøy i innenriks fart der det ikke på noe tidspunkt er mer enn 20 nautiske mil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde, regnes ikke som hurtiggående passasjerfartøy, når:dets deplasement tilsvarende konstruksjonsvannlinjen er mindre enn 500 m3 ogdets største hastighet som definert i regel 1.4.30 i HSC94-koden for hurtiggående fartøy eller regel 1.4.38 i HSC2000-koden for hurtiggående fartøy er mindre enn 20 knop.*Innenriks fart:* Reiser fra en havn i en stat til samme havn eller til en annen havn i den samme staten.*Klassifisert fartøy:* Hurtiggående fartøy som har klasse i anerkjent klasseinstitusjon.*HSC2000-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.97(73), sist endret ved MSC.537(107).*HSC94-koden:* De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.36(63), sist endret ved MSC.536(107).*Nytt fartøy:* Hurtiggående fartøy hvor kjølen strekkes, eller som er på et tilsvarende byggetrinn, på eller etter 14. februar 2012. Et tilsvarende byggetrinn betyr det trinn der:bygging kan identifiseres som et bestemt fartøy, ogmontering av vedkommende fartøy er begynt og utgjør minst 50 tonn eller 1 % av den beregnede masse av alle konstruksjonsmaterialer, dersom denne verdien er mindre.*Rutetrafikk:* En rekke seilinger med hurtiggående passasjerfartøy for å sikre forbindelsen mellom de samme to eller flere havner, eller en rekke seilinger til og fra samme havn uten mellomliggende anløp, enteni henhold til en offentliggjort ruteplan, ellermed slik regelmessighet eller hyppighet at de fremstår som en systematisk rekke seilinger.*Skipssikkerhetsloven:* [Lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet.*Sjøsikkerhetskonvensjonen:* Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med](traktat/1974-11-01-1) senere endringer ([SOLAS 74).](traktat/1974-11-01-1)*Uklassifisert fartøy:* Hurtiggående fartøy som ikke har klasse i anerkjent klasseinstitusjon.*Utenriks fart:* En reise fra en havn i en stat til en havn utenfor vedkommende stat eller omvendt.*Vertsstat:* En stat innenfor EØS til eller fra hvis havner et hurtiggående fartøy som uansett flagg går i innenriks fart eller et hurtiggående roro passasjerfartøy som uansett flagg går i rutetrafikk i innenriks eller i utenriks fart.
 
 For øvrig gjelder de definisjoner som er inntatt i Sjøsikkerhetskonvensjonens kapittel X og koden for hurtiggående fartøy.
 
@@ -132,6 +134,8 @@ der A er det totale område med lenseporter på hver side av dekket i m2, og l e
 (19) Til hurtiggående roro-passasjerfartøy som skal oppfylle kravene i paragrafen her, skal det utstedes ett vedlegg til sikkerhetssertifikatet for hurtiggående fartøy. Av vedlegget skal det framgå opp til hvilken signifikant bølgehøyde skipet kan oppfylle de særlige stabilitetskravene som kreves i paragrafen her. Vedlegget er gyldig så lenge skipet trafikkerer et område med tilsvarende eller lavere signifikant bølgehøyde.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 375](forskrift/2001-03-20-375), endret ved [forskrifter 4 juni 2002 nr. 618](forskrift/2002-06-04-618) (tidligere § 7A), [2 des 2004 nr. 1560](forskrift/2004-12-02-1560), [10 mars 2006 nr. 336](forskrift/2006-03-10-336), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+1 Jf. [forskrift 28. mars 2000 nr. 305](forskrift/2000-03-28-305) om besiktelse, bygging og utrustning av passasjerskip i innenriks fart [§ 5](forskrift/2000-03-28-305/§5).2 Se vedlegg 2.3 Kartene er ikke gjengitt her. De kan fås ved henvendelse til Sjøfartsdirektoratet, postboks 8123 Dep 0032 Oslo.
 
 ### § 8B. Sesongbestemt og tidsbegrenset rutetrafikk
 
@@ -265,6 +269,8 @@ der A er det totale område med lenseporter på hver side av dekket i m2, og l e
 
 > Endret ved [forskrifter 4 juni 2002 nr. 618](forskrift/2002-06-04-618) (tidligere § 13), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
 
+1 EMC-direktivet (direktiv [89/336/EØF](eu/31989l0336) og direktiv [92/21/EØF](eu/31992l0021*)) gjelder også om bord på skip. Produkt- og elektrisitetstilsynets forskrift om elektrisk utstyr av [10. august 1995 nr. 713](forskrift/1995-08-10-713) gjennomfører EUs EMC-direktiv av 3. mai 1995 i norsk rett. EMC-direktivet gjelder for alle apparater som kan fremkalle elektromagnetiske forstyrrelser eller hvis funksjon kan bli påvirket av slike forstyrrelser og krever bl.a. CE-merking av slikt utstyr.
+
 ### § 19. Sikkerhetssertifikat for hurtiggående fartøy
 
 (1) Sikkerhetssertifikatet og utstyrsfortegnelse for hurtiggående fartøy skal utstedes for et tidsrom på 5 år av Sjøfartsdirektoratet eller den det bemyndiger.
@@ -284,6 +290,8 @@ der A er det totale område med lenseporter på hver side av dekket i m2, og l e
 (4) Fartøy med gyldig sikkerhetssertifikat for hurtiggående fartøy1 kan under forflytning gå utenfor operasjonsområdet angitt i operasjonstillatelsen under forutsetning av at:øvrige begrensninger i operasjonstillatelsen er overholdtreisen foregår i innenriks fart2 uten passasjerer og lastdet er innsendt seilingsplan for forflytningen slik at bemanningen kan vurderes.
 
 > Endret ved [forskrifter 28 mars 2000 nr. 307](forskrift/2000-03-28-307) (i kraft 1 mai 2000), [4 juni 2002 nr. 618](forskrift/2002-06-04-618) (tidligere § 15), [2 des 2004 nr. 1560](forskrift/2004-12-02-1560), [2 jan 2006 nr. 1714](forskrift/2006-01-02-1714), [15 sep 2021 nr. 3116](forskrift/2021-09-15-3116) (i kraft 19 sep 2021).
+
+1 Gjelder også fartøy med gyldig konstruksjons- og utstyrssertifikat utstedt i samsvar med DSC-koden.2 Jf. [forskrift 4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder.
 
 ## Kapittel 6. Tekniske og utstyrsmessige krav
 
@@ -429,69 +437,149 @@ Verdiene er angitt på et kart som presenterer de signifikante bølgehøydene, s
 
 Kystområdene skal anses å ha signifikante bølgehøyder på mindre enn 1,5 m med mindre annet er angitt på kartet.
 
+(Kart 1)(Kart er utelatt.)1
+
+Merknad:
+
 Bølgehøydene oppgitt på dette kartet er de signifikante bølgehøydene (Hs) som ikke overskrides med en sannsynlighet på mer enn 10%, og som skal brukes for å bestemme vannhøyden.
+
+(Kart 2)(Kart er utelatt.)1
+
+Merknad:
 
 Bølgehøydene oppgitt på dette kartet er de signifikante bølgehøydene (Hs) som ikke overskrides med en sannsynlighet på mer enn 10%, og som skal brukes for å bestemme vannhøyden.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 375](forskrift/2001-03-20-375), endret ved [forskrift 26 nov 2008 nr. 1260](forskrift/2008-11-26-1260) (i kraft 1 jan 2009).
 
+1 Kart kan fås ved henvendelse til Sjøfartsdirektoratet, Postboks 2222, 5509 Haugesund. Tlf.: 52745000, faks 52740001 eller [postmottak@sjofartsdir.no](mailto:postmottak@sjofartsdir.no).
+
 ## Vedlegg 2. Modellforsøksmetoden
 
 Bestemmelsene i dette vedlegget er bindende, jf. § 8 sjette og femtende ledd i [forskrift 5. januar 1998 nr. 6](forskrift/1998-01-05-6) om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip.
 
+1.*Mål*
+
 Denne reviderte modellforsøksmetoden er en revisjon av metoden i tillegget til resolusjon 14 fra SOLAS-konferansen 1995. Siden ikrafttredelsen av Stockholm-avtalen er en rekke modellforsøk blitt utført i samsvar med den forsøksmetoden som gjaldt tidligere. I løpet av disse forsøkene er det identifisert en rekke mindre tilpasninger i framgangsmåtene. Denne nye modellforsøksmetoden er rettet mot å omfatte de nevnte nye mindre tilpasningene og sammen med de vedlagte retningslinjene utgjøre en mer robust framgangsmåte for vurderingen av overlevingsevnen til et skadet roro-passasjerskip i sjøgang. Ved de forsøk som er nevnt i [§ 8](forskrift/1998-01-05-6/§8) sjette ledd, skal skipet kunne motstå en sjøgang som definert i nr. 4 nedenfor, når de verst tenkelige skadeforhold tas i betraktning.
 
-*Definisjoner*LBPer lengden mellom perpendikulæreneHSer signifikant bølgehøydeBer skipets bredde på spantTPer bølgeperiodenTZer nullkryssperioden.
+2\.
+
+*Definisjoner*
+
+|  |  |
+| --- | --- |
+| LBP | er lengden mellom perpendikulærene |
+| HS | er signifikant bølgehøyde |
+| B | er skipets bredde på spant |
+| TP | er bølgeperioden |
+| TZ | er nullkryssperioden. |
+
+3.*Skipsmodell*
+
+3.1.
 
 Modellen skal være en kopi av det virkelige skipet både når det gjelder ytre konfigurasjon og indre utforming, særlig når det gjelder alle skadde rom som har en betydning for prosessen med fylling og tømming av vann. Intakt dypgående, trim, krenging og KG-grensekurver som svarer til det verste skadetilfellet, skal benyttes. Videre skal forsøket (forsøkene) som skal vurderes, representere det verste skadetilfellet (de verste skadetilfellene) definert i samsvar med SOLAS-regel II-1/8.2.3.2 ([SOLAS 90) med](traktat/1974-11-01-1) hensyn til det samlede området under den positive GZ-kurven, og senterlinjen for skadeåpningen skal være plassert innenfor følgende område:
 
+3.1.1.
+
 ± 35% LBP fra midtskips.
+
+3.1.2.
 
 Et tilleggsforsøk vil være påkrevd for det verste skadetilfellet innenfor ± 10% LBP fra midtskips dersom skadetilfellet det er vist til i nr. 1 er utenfor ± 10% LBP fra midtskips.
 
+3.2.
+
 Modellen skal oppfylle følgende krav:
+
+3.2.1.
 
 Lengde mellom perpendikulærene (LBP ) skal være minst 3 meter eller en lengde som svarer til en modellskala på 1:40, eller den største verdien av disse, og den vertikale utstrekningen opp til minst tre ganger normalhøyden av overbygninger over skottdekket (fribordsdekket).
 
+3.2.2.
+
 Skrogtykkelse i vannfylte rom skal ikke overstige 4 mm.
+
+3.2.3.
 
 I både intakt og skadet tilstand skal modellen oppfylle korrekte deplasement- og nedlastingsmerker (TA , TM , TF , babord og styrbord) med en maksimal toleranse ved alle nedlastingsmerker på + 2 mm. Nedlastingsmerker for og akter skal plasseres så nær FP og AP som det er praktisk mulig.
 
+3.2.4.
+
 Alle skadede rom og roro-lasterom skal modelleres med korrekt fyllingsgrad for volum og overflate (faktiske verdier og fordeling) som sikrer at innstrømmet vannmengde og massefordeling blir representert på en korrekt måte.
+
+3.2.5.
 
 Bevegelsesegenskapene skal i modellen svare til det virkelige skipets egenskaper, med særlig oppmerksomhet rettet mot intakt GM-toleranse og treghetsradius i rulle- og stampebevegelser. Begge radiene skal måles i luft og befinne seg innenfor området 0,35B til 0,4B for rullebevegelser og 0,2LOA til 0,25LOA for stampebevegelser.
 
+3.2.6.
+
 Viktige konstruksjonstrekk som vanntette skott, lufteventiler osv. over og under skottdekket som kan føre til usymmetrisk fylling, skal etterlignes så langt det er praktisk mulig, slik at de representerer den virkelige situasjonen. Ventilasjons- og tverrskips trimmingsanordninger skal konstrueres for en minste tverrsnittareal på 500 mm2 .
+
+3.2.7.
 
 Formen på skadeåpningen skal være som følger:Trapesformet profil med side med 15° stigning til vertikalen og bredde til konstruksjonsvannlinjen definert i samsvar med SOLAS-regel II-1/8.4.1.Likesidet trekantet profil i horisontalplanet med en høyde lik B/5 i henhold til SOLAS-regel II-1/8.4.2. Dersom sidekledninger er montert innefor B/5, skal den skadede lengden ved sidekledningene ikke være mindre enn 25 mm.Uten hensyn til bestemmelser i punkt 3.2.7.1 og 3.2.7.2 foran skal alle rom som anses som skadede ved beregningen av det verste skadetilfellet (-tilfellene) som det er vist til i nr. 3.1, fylles i modellforsøkene.
 
+3.3.
+
 Modellen i fylt likevektstilstand skal krenges med en ekstra krengevinkel som tilsvarer den som frambringes av krengemomentet Mh = høyeste (Mpass ; Mlaunch )-Mwind , men ikke i noe tilfelle skal endelig krenging være mindre enn 1° mot skaden. Mpass , Mlaunch og Mwind gjelder slik de er fastsatt i SOLAS-regel II-1/8.2.3.4. For eksisterende skip kan denne vinkelen settes lik 1°.
+
+4.*Framgangsmåte for forsøk*
+
+4.1.
 
 Modellen skal utprøves i et langkammet irregulært bølgemønster definert ved JONSWAP-spektrumet og med en signifikant bølgehøyde HS , med en forsterkningsfaktor Γ =3,3 og en bølgeperiode TP = (4√HS (TZ = (TP /1,285))). HS er signifikant bølgehøyde for skipets fartsområde, som ikke skal overskrides med en sannsynlighet på mer enn 10% på årsbasis, men som er begrenset til høyst 4 meter.Ytterligere krav:
 
+4.1.1.
+
 Bassengbredden skal være tilstrekkelig til å unngå kontakt eller annen påvirkning i forhold til sidene i bassenget og anbefales å ikke være mindre enn LBP + 2 meter.
+
+4.1.2.
 
 Bassengdybden skal være tilstrekkelig for behørig bølgemodellering, men ikke mindre enn 1 meter.
 
+4.1.3.
+
 For at et representativt bølgetog skal kunne benyttes, skal målinger utføres før forsøket på tre ulike steder innenfor avdriftsområdet.
+
+4.1.4.
 
 Bølgesonden nærmest bølgegeneratoren skal plasseres i den posisjonen der modellen skal plasseres når forsøket begynner.
 
+4.1.5.
+
 Variasjon i HS og TP skal være innenfor ± 5% for de tre plasseringene, og
+
+4.1.6.
 
 i løpet av forsøkene skal det for godkjenningsformål tillates en toleranse på + 2,5% i HS , ± 2,5% i TP og ± 5% i TZ med henvisning til bølgesonden nærmest bølgegeneratoren.
 
+4.2.
+
 Modellen bør drive fritt og plasseres i kryssende sjø (90° posisjon) med skadehullet rettet mot de innkommende bølgene, og uten noe fortøyingssystem permanent festet til den benyttede modellen. For å opprettholde en posisjon i kryssende sjø på ca. 90° i løpet av modellforsøket, skal følgende krav oppfylles:
+
+4.2.1.
 
 Forstavnliner for selvstyring for mindre justeringer skal være plassert ved midtlinjen mellom for- og akterstavn, på en symmetrisk måte og på et nivå mellom KG-posisjonen og den skadede vannlinjen, og
 
+4.2.2.
+
 hastigheten på vognen skal være lik modellens faktiske avdriftshastighet, med eventuelle nødvendige justeringer av hastigheten.
+
+4.3.
 
 Minst 10 forsøk skal utføres. Hvert forsøk skal vare så lenge at det oppnås en stabil tilstand, men ikke mindre enn 30 minutter i sanntid. Det skal brukes forskjellige bølgetog i hvert forsøk.
 
+5.*Overlevingskriterier*
+
 Modellen skal anses som å overleve dersom den oppnår en stabil tilstand under de påfølgende forsøksseriene slik det kreves av nr. 4.3. Modellen skal anses for å ha kantret dersom det foreligger rullevinkler på mer enn 30° mot den vertikale aksen eller konstant (gjennomsnittlig) krengning på mer enn 20° for en lengre periode enn tre minutter i sanntid, selv om modellen oppnår en stabil tilstand.
 
+6.*Dokumentasjon av forsøk*
+
+6.1.
+
 Modellforsøksprogrammet skal være forhåndsgodkjent av administrasjonen.
+
+6.2.
 
 Forsøkene skal dokumenteres med en rapport og en video eller annen visuell dokumentasjon som inneholder all relevant informasjon om modellen og forsøksresultatene, som skal godkjennes av administrasjonen. Dokumentasjonen skal minst omfatte teoretiske og målte bølgespektre og statistikk (HS , TP , TZ ) for bølgehøyde på tre ulike steder i bassenget for å oppnå et representativt bølgetog, og for forsøkene med modellen, tidsseriene for den viktigste statistikken for den målte bølgehøyden nær bølgegeneratoren, samt opplysninger om modellens rulle-, duve- og stampebevegelser og om avdriftshastighet.
 
@@ -501,88 +589,144 @@ Forsøkene skal dokumenteres med en rapport og en video eller annen visuell doku
 
 > Tilføyd 20. oktober 2021 uten kunngjøring i Norsk Lovtidend.
 
+1
+
 Når et nytt passasjerskip skal utformes, må det må tas hensyn til at eldre og personer med nedsatt funksjonsevne skal passe inn sammen med andre passasjerer. Passasjerskip som roro-passasjerskip og cruiseskip er svært ulike når det gjelder konstruksjon, havneanløp, passasjerprofil og driftsmåte, og de bør derfor vurderes hver for seg. Følgende informasjon inneholder anbefalinger knyttet til design og drift av et nytt passasjerskip med vekt på passasjerferger som er en del av det offentlige transportsystemet.
 
 ### GENERELL INFORMASJON FØR OMBORDSTIGNING
+
+2
 
 Generell informasjon om tilgjengelige tjenester og assistanse for eldre og personer med nedsatt funksjonsevne på en bestemt strekning skal gjøres kjent for allmennheten og potensielle passasjerer. Informasjonen skal være tilgjengelig i et format tilpasset personer med nedsatt synsevne, for eksempel stor skrift eller lydmeldinger.
 
 ### ATKOMST TIL TERMINALEN
 
+3
+
 På passasjerbåtterminaler og passasjerskip skal det tas hensyn til eldre og personer med nedsatt funksjonsevne, inkludert rullestolbrukere.Sikre tilgang til offentlig transport for eldre og personer med nedsatt funksjonsevne til en pris som tilsvarer det andre reisende må betale, så fremt det er mulig.Legg til rette for bruk av drosjetjenester og privat transport for denne passasjergruppen, så fremt det er mulig.Sørg for uhindret tilkomst mellom innganger og utganger i terminalbygningen, helst uten nivåforskjeller.Sikre full tilgang til alle offentlige områder, f.eks. butikker med tollfrie varer, toaletter, restauranter og andre butikker. Det skal være toalettfasiliteter tilpasset rullestolbrukere og ledsagere av begge kjønn.Sørg for at toaletter, drikkefontener, telefoner og kontrollpaneler i heiser er tilpasset behovene til personer med nedsatt bevegelsesevne eller sanseevne.Sørg for at det er reserverte sitteplasser for eldre og personer med nedsatt funksjonsevne, inkludert plass til rullestoler. Sitteplassene skal ha riktig høyde og armlener tilpasset passasjerer med nedsatt funksjonsevne.Sørg for at bildekkene i roro-passasjerskip har spesielt oppmerkede parkeringsplasser med uhindret tilkomst til heiser for passasjerer med nedsatt funksjonsevne.Fremvis alle visuelle instruksjoner (sikkerhetsinformasjon o.l.) i et stort og tydelig format for personer med nedsatt hørsels- og synsevne. Lydmeldinger, innledet av et signal for å påkalle oppmerksomhet, skal ved behov gis til personer som er blinde eller har nedsatt synsevne.Sørg for tilgjengelige kommunikasjonskanaler for å formidle sikkerhets- og transportrelatert informasjon til personer med nedsatt hørselsevne som ellers ikke ville ha fått denne informasjonen.Samle alle nødvendige hjelpemidler i spesielle områder for å sikre god kommunikasjon til personer med nedsatte sanseevner. Om mulig skal det være en integrert teleslynge i kommunikasjonsanlegget med mulighet for tilkobling av høreapparater.Sørg for at personell i rederiet, havnen, immigrasjonskontrollen og tollen får god opplæring og standardisert informasjon og instruksjoner om hvordan de best kan hjelpe passasjerer med nedsatt funksjonsevne.
 
 ### ATKOMST TIL SKIPET
+
+4
 
 Skipet skal være konstruert og utstyrt slik at rullestolbrukere og andre personer med nedsatt funksjonsevne enkelt og trygt kan komme seg om bord eller i land, enten uten assistanse eller ved hjelp av ramper, heis eller løfteramper. Maksimal stigning for rullestol skal ikke overstige 1:20. Det skal være minst én atkomst til skipet som er tilgjengelig for personer med nedsatt funksjonsevne og rullestolbrukere. Atkomsten skal være uten trapper eller trinn og merket med det internasjonale tilgjengelighetssymbolet for personer med nedsatt funksjonsevne. Det skal settes opp anvisninger til slike atkomstmuligheter ved alle innganger og andre hensiktsmessige steder om bord på hele skipet.
 
 ### OPPSTILLING AV BILER
 
+5
+
 Passasjerer med nedsatt funksjonsevne skal få utlevert en egen parkeringstillatelse på land og dirigeres til en egen oppstillingsfil før de kjører om bord på en bilferge. Servicemedarbeideren på land skal kunne kommunisere med personen som er ansvarlig for oppstillingsområdet, og personell om bord på skipet. Oppstillingsfilene skal være plane og uten nivåforskjeller, slik at det er enklere for personer med nedsatt funksjonsevne å gå ut av bilen. Skipets besetning skal henvise passasjerer med nedsatt funksjonsevne til et eget parkeringsområde om bord og tilby nødvendig assistanse, f.eks. hjelp til å ta ut rullestolen fra bilen. Besetningen skal også bistå når skipet ankommer bestemmelsesstedet.
 
 ### PARKERING OM BORD
+
+6
 
 Det skal være tydelig oppmerkede parkeringsplasser for rullestolbrukere om bord på bilferger, slik at det er mulig å komme seg ut av bilen. Antall parkeringsplasser kan variere etter behov. Parkeringsplassene kan også brukes av personer med nedsatt funksjonsevne som ikke er rullestolbrukere. Det skal være fri passasje for rullestolbrukere fra parkeringsplassen til passasjerområdene.
 
 ### HEIS
 
+7
+
 Minst én heis skal gå fra bildekket til et dekk med barrierefri tilgang til oppholdsrom, lugarer og toaletter. Heisgulvet skal være minst 110 cm bredt og 140 cm dypt. Heisen skal ha automatiske dører med en døråpning på minst 90 cm. Det skal være montert rekkverk 90–100 cm over gulvet på tre av sidene. Betjeningsknappene skal være plassert cirka 90–120 cm over gulvet, minst 50 cm fra hjørnet, og et håndtak skal være plassert nær betjeningsknappene. Et klappsete skal være tilgjengelig med mulighet for å nå betjeningskontrollene sittende. Heisgulvet skal være i flukt med dekket utenfor. Området foran heisen skal være plant og minst 150 x 150 cm. En rulletrapp kan ikke erstatte en heis.
+
+8
 
 Betjeningsknappene på kontrollpanelet skal være minst 2 cm i diameter og ha integrert belysning. De skal ikke utformes som glatte knapper uten motstand. Fargen på trykknappene skal være i kontrast til fargen på kontrollpanelet. Trykknapper for nødstopp og alarmsignal skal være utformet på en slik måte at de skiller seg fra de vanlige trykknappene på heisen. Nødstoppknappen skal være rød, og alarmsignalknappen skal være gul. Trykknappene skal markeres med store opphøyde bokstaver.
 
 ### FELLESROM
 
+9
+
 Døråpningene til fellesområdene skal være brede nok til at en rullestol kan komme uhindret frem, og ha en åpning på minst 80 cm. Det skal være automatiske dører, eller dørene skal holdes åpne dersom dette ikke strider mot sikkerhetskravene. Hindringer i form av karmer osv. skal unngås i passasjerarealer og fjernes andre steder, for eksempel ved hjelp av ramper eller karmer som kan trekkes tilbake. Karmer som kreves i henhold til den internasjonale lastelinjekonvensjonen eller andre sikkerhetsregler, må ikke fjernes. Ramper og karmer skal merkes med kontrastfarger.
+
+10
 
 Trappene skal bygges slik at de er lette å gå i for eldre og personer med nedsatt funksjonsevne. Trappene skal ikke være bratte, og det skal være lukkede trinn. Trinnene skal ha et best mulig sikkerhetsnivå mht. høyde, dybde, farge, belysning og sklifare. Av hensyn til eldre og personer med nedsatt synsevne skal den fremre kanten på hvert trinn ha en tydelig kontrastfarge til trinnet for øvrig (cirka 25 mm bred vertikalt og horisontalt). Det skal være rekkverk på begge sider av trappen. Rekkverket skal være rundt med en diameter på 45–50 mm i et gripevennlig materiale og ha en kontrastfarge. Rekkverket skal strekke seg 300 mm lenger enn både øverste og nederste trinn. Det festes ved en høyde på 850 mm over trinnene. Det skal være en avstand mellom skott og rekkverk på minst 45 mm. Det skal være taktil merking både ved trappestart og trappeslutt.
 
+11
+
 For hver 100. passasjer skipet er sertifisert for, skal minst én plass være reservert for rullestol, slik at rullestolbrukeren kan reise sittende i rullestol sammen med øvrige passasjerer. Det skal være mulig å sette rullestolen på et trygt sted.
+
+12
 
 Minst 4 prosent av passasjersetene skal være tilrettelagt for personer med nedsatt funksjonsevne. Disse setene skal ha god plass og praktiske armlener som kan brukes som støtte når de skal sette seg ned eller reise seg fra setet. Armlenene skal merkes med kontrastfarge. Hvis området ikke gir tilstrekkelig plass til personer med strake (stive) bein, skal det være mulig å fjerne setet foran. Hvis setene er en del av en seterad, skal armlener som kan utgjøre en hindring for en person med nedsatt funksjonsevne, være av en slik type som kan felles opp eller ned. Seter som er beregnet for eldre og personer med nedsatt funksjonsevne, skal være plassert i nærheten av rømningsveier og toaletter.
 
 ### KORRIDORER, DØRER OG REKKVERK
 
+13
+
 Om bord skal det være nok plass, slik at eldre og personer med nedsatt funksjonsevne kan bevege seg fritt, spesielt ved lengre reiser. Rekkverk skal plasseres 90 cm over gulvet, helst på begge sider i korridorer og ganger. Rekkverket skal ikke ha skarpe kanter. Det skal ha en diameter på cirka 3,5–5 cm. Rekkverket skal ha en farge som står i kontrast til bakgrunnen og være utformet slik at det kan utstyres med taktil merking for passasjerer med nedsatt synsevne. Det kan være behov for rekkverk og håndtak andre steder også, spesielt i restauranter, bak seter og i toalettområdene. Korridorene skal være brede nok til at en rullestol kan passere andre passasjerer.
 
 ### DEKK OG GULV
+
+14
 
 Dekk og gulv skal være flate og ha en sklisikker overflate. Dersom det er behov for trinn/forhøyninger, skal disse ikke overstige 3 cm. Ved større høydeforskjeller skal det installeres rampe og håndlist ved trinnet.
 
 ### LUGARER
 
+15
+
 Skip med lugarer skal ha flere tilgjengelige lugarer tilrettelagt for rullestolbrukere. Det skal være minst 140 cm ledig plass foran sengen. Det bør brukes senger i stedet for køyer (lavere kant foran), slik at personer med nedsatt funksjonsevne kan sitte på sengen og kle av/på seg. Dersom det brukes køyer, skal det være minst 110 cm mellom den nedre og øvre køyen, slik at det er mulig å sitte. Sengen bør være 50 cm over gulvet. Bryteren for leselys over sengen skal være plassert slik at det er mulig å nå denne både fra rullestolen og fra sengen. Elektriske brytere skal være innenfor rekkevidde og plassert 90 cm over gulvet. Håndtak skal plasseres ved sengen. Lugardøren skal være av typen skyvedør eller slagdør som åpnes utover, med mindre det er nok plass i lugaren til at døren kan svinge innover med plass til rullestol. Døren skal ha en fri passasje på minst 90 cm. Hvis det er en servant i lugaren, skal denne være plassert ved toalettet som beskrevet nedenfor. Lugaren skal være utstyrt med alarm for å kunne tilkalle assistanse ved behov.
 
 ### TOALETTER
+
+16
 
 Det skal være toaletter tilrettelagt for rullestolbrukere om bord. Om mulig på alle passasjerdekk. Antallet skal være tilpasset skipets størrelse og drift. Toalettene kan være plassert på et annet sted enn øvrige toaletter og skal kunne brukes av begge kjønn. Retningsanvisninger til disse toalettene skal settes opp ved inngang til toaletter som ikke er egnet for rullestolbrukere. Døren skal være av typen skyvedør eller slagdør som åpnes utover, og den skal være mulig å åpne utenfra med nøkkel i nødstilfeller, selv om det er markering for opptatt toalett. Det skal være minst 110 cm ledig plass mellom fronten av toalettet til motsatt vegg eller andre installasjoner og 90 cm ledig plass ved den ene siden av toalettet. Høyden på toalettsetet bør være 45–48 cm over gulvet. Armstøtter som kan nedfelles eller sidejusteres, skal være plassert på begge sider av toalettet. Servanten skal plasseres slik at den kan nås fra toalettet, og den skal ikke være høyere enn 80 cm over gulvet. Servanten skal være montert slik at den tåler å brukes som støtte. Et speil skal være plassert i passende høyde. Speilets nedre kant skal være 90 cm over gulvet, og speilets øvre kant skal være 190 cm over gulvet. Det skal være mulig å plassere fronten av rullestolen under servanten. Det skal være fri høyde under vasken på 70–75 cm. Såpe, tørkepapir osv. skal plasseres cirka 90–100 cm over gulvet. Det bør en være alarm på hvert toalett for å kunne tilkalle assistanse ved behov.
 
 ### TILDELING AV LUGARER
 
+17
+
 På skip med lugarer skal eldre og personer med nedsatt funksjonsevne som trenger assistanse i nødstilfeller, tildeles lugarer i nærheten av innskipingsdekket, slik at de raskt og enkelt kan få hjelp til å komme seg over i redningsfarkosten. Skipet skal ha lister med oversikt over lugarer der det befinner seg passasjerer som trenger assistanse fra besetningen.
+
+18
 
 Lugarer og toaletter tilrettelagt for rullestolbrukere skal plasseres i åpne områder mellom lugarområdene. Automatiske dører er å foretrekke. Hvis dørene har dørpumper, skal de også være utstyrt med automatisk døråpner. Ideelt sett skal bredden på en korridor- eller døråpning i 90 vinkel mot korridoren være på til sammen 220 cm. Korridorer i lugardelene i passasjerområder er vanligvis 90 cm brede. Problemet med lugardører og toalettdører til rullestolbrukere i slike korridorer kan, som en nødløsning, løses med skyvedører med 100 cm fri bredde. En bredere døråpning er nødvendig for at rullestolene skal kunne snu og rulle inn i lugaren.
 
 ### OPPLÆRING AV BESETNING
 
+19
+
 Besetningen må få opplæring og tydelige instruksjoner knyttet til behov for assistanse til eldre og personer med nedsatt funksjonsevne i nødstilfeller.
 
 ### TILTAK FOR ALLERGIKERE
+
+20
 
 Møbler og sengetøy skal så langt det lar seg gjøre være laget av materialer som ikke fremkaller allergi. Bruk av enkelte områder skal være forbudt for passasjerer med dyr med pels.
 
 ### INFORMASJON
 
+21
+
 Hvis skipet har en informasjonsskranke, skal skrankehøyden ikke være høyere enn 90 cm. En teleslynge skal være installert ved informasjonsskranken.
 
+22
+
 Lettleste oppslag og skilt med nødvendig informasjon til passasjerene skal settes opp der det er relevant, spesielt ved atkomst til skipet. Informasjonstekstene skal inneholde enkle, fete og store bokstaver i en farge som er i kontrast til bakgrunnen (f.eks. svart på gult). Skiltene skal være plassert i en passende høyde over gulvet, cirka 150–160 cm, og være godt opplyst. Informasjon via lydanlegget skal formidles høyt og tydelig. Informasjon via alternative formater, som blindeskrift, taktil merking eller lydmeldinger, skal også vurderes for blinde og personer med nedsatt synsevne.
+
+23
 
 Skipet bør ha utstyr som gjør det mulig å gi informasjon ved hver havn på en slik måte at både personer med nedsatt synsevne og nedsatt hørselsevne får informasjon.
 
 ### SERVICE
 
+24
+
 Det skal være enkelt for eldre og personer med nedsatt funksjonsevne å få kjøpt seg billetter ved terminalen eller om bord.
+
+25
 
 Dersom det er mat tilgjengelig om bord, skal eldre og personer med nedsatt funksjonsevne ha muligheten til å få maten servert ved bordet. Bordene skal være designet på en slik måte at rullestolbrukere kan benytte dem uhindret.
 
+26
+
 Førerhunder skal ha adgang til passasjerområdene, også områder der det serveres mat.
 
+27
+
 Hvis passasjerene har tilgang til telefoner, skal minst én være tilgjengelig for rullestolbrukere og merket deretter.
+
+Skilt skal angi utstyr, installasjoner og fasiliteter egnet for personer med nedsatt funksjonsevne.

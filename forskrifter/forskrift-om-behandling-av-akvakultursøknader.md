@@ -102,13 +102,21 @@ Formålet er begrenset til den delen av en søknadsbehandling av tillatelser som
 
 ### Til § 4
 
+*Til [§ 4](forskrift/2010-05-18-708/§4) første ledd*
+
 Den faktiske tidsbruken skal registreres i forhold til forskriftens frister. Som det fremgår av [§ 4](forskrift/2010-05-18-708/§4) er disse fastsatt på ulik måte, og dette må tas hensyn til ved registrering.
 
 Tidsbruk for behandling hos tildelingsmyndigheten begynner ikke å løpe før komplett søknad foreligger.
 
+*Til [§ 4](forskrift/2010-05-18-708/§4) tredje ledd*
+
 Dersom tildelingsmyndigheten mottar kommunal uttalelse senere enn fristene i andre og tredje ledd, men før mottakelse av vedtak fra sektormyndighetene, forutsettes i tråd med god forvaltningsskikk at disse ettersendes sektormyndighetene for å opplyse saken ytterligere.
 
+*Til [§ 4](forskrift/2010-05-18-708/§4) femte ledd*
+
 «Myndigheter som skal gi uttalelser» – eks. statsforvalterens uttalelser om vilt, friluftsliv med mer og Fiskeridirektoratets regioner, som skal gi uttalelse om fiskeriinteresser, herunder samiske fiskeriinteresser.
+
+*Til [§ 4](forskrift/2010-05-18-708/§4) sjette ledd*
 
 Tildelingsmyndigheten sluttbehandler søknaden innen 4 uker fra mottakelse av sektormyndighetenes vedtak etter fjerde ledd, uavhengig av om myndigheters uttalelse etter femte ledd er mottatt.
 
@@ -120,6 +128,10 @@ Særlige tilfeller kan være at særegenheten i den enkelte sak medfører behov 
 
 ### Til § 7
 
+*Til [§ 7](forskrift/2010-05-18-708/§7) første ledd*
+
 Tildelingsmyndigheten «kan» behandle uten kommunenes uttalelse dersom tidsfristen ikke overholdes. Det samme gjelder uttalelser etter [§ 4](forskrift/2010-05-18-708/§4) femte ledd. Dersom statsforvalteren gis utsatt frist kan saken bare behandles dersom statsforvalterens uttalelse ikke er innkommet fylkeskommunen innen den utsatte fristen. Av [§ 4](forskrift/2010-05-18-708/§4) tredje ledd følger det at forsinkede kommunale uttalelser bør videresendes sektormyndighetene. Uttalelser som kommer inn etter fristen skal forutsetningsvis også vurderes på vanlig måte dersom endelig vedtak ennå ikke er fattet av tildelingsmyndigheten. Fylkeskommunen må, i tråd med alminnelig forvaltningsrett ([forvaltningsloven § 17](lov/1967-02-10/§17) og [naturmangfoldloven § 8](lov/2009-06-19-100/§8), jf. 7) sørge for at saken er tilstrekkelig opplyst før den sluttbehandles.
+
+*Til [§ 7](forskrift/2010-05-18-708/§7) andre ledd*
 
 Akvakulturloven kapittel 7 om reaksjoner ved overtredelse gjelder ikke for forskriften. Fristoversittelser medfører heller ikke saksbehandlingsfeil etter alminnelig forvaltningsrett, og det kan ikke utledes erstatningsansvar for sektormyndighetene eller tildelingsmyndigheten etter forskriften.

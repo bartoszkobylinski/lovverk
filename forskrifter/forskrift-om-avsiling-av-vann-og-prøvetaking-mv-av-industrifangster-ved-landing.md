@@ -200,7 +200,7 @@ Det må ved beregning og uttak av det samlede prøveuttaket for landingen tas he
 
 ### 1.2 Det samlede prøveuttakets størrelse
 
-Det samlede prøveuttaket skal beregnes ut fra følgende formel: $$ \text{Samlet prøveuttak [kg]} = \frac{\text{kvantum POR [kg]}^{0{,}43}}{0{,}85} $$
+Det samlede prøveuttaket skal beregnes ut fra følgende formel: $$ \\text{Samlet prøveuttak [kg]} = \\frac{\\text{kvantum POR [kg]}^{0{,}43}}{0{,}85} $$
 
 Minste verdi for det samlede prøveuttaket skal settes til 166 kg.
 
@@ -208,7 +208,7 @@ Minste verdi for det samlede prøveuttaket skal settes til 166 kg.
 
 Prøvetrekkeren skal være utformet slik at den rommer omtrent 20 kg fisk og antall prøver skal beregnes med utgangspunkt i beregnet verdi for det samlede prøveuttaket for landingen.
 
-Antall prøver skal beregnes ut fra følgende formel: $$ \text{Antall prøver} = \frac{\text{Samlet prøveuttak [kg]}}{20 \text{[kg]}} $$
+Antall prøver skal beregnes ut fra følgende formel: $$ \\text{Antall prøver} = \\frac{\\text{Samlet prøveuttak [kg]}}{20 \\text{[kg]}} $$
 
 Antall prøver avrundes oppover til nærmeste hele tallverdi.
 

@@ -104,17 +104,17 @@ Departementet kan gi forskrift til utfylling og gjennomføring av reglene i denn
 
 ## § 7. Terminskatt.
 
-1. Det skal betales terminskatt på formue i og inntekt vunnet ved virksomhet i utvinning og rørledningstransport av petroleum etter reglene i nr. 2–6 nedenfor.
+1\. Det skal betales terminskatt på formue i og inntekt vunnet ved virksomhet i utvinning og rørledningstransport av petroleum etter reglene i nr. 2–6 nedenfor.
 
-2. Terminskatt etter nr. 1 skal skrives ut til det beløp som fastsatt skatt ventes å utgjøre for vedkommende inntektsår. Ved utskrivningen fordeles terminskatten i ti deler, jf. [skattebetalingsloven § 10-22 første ledd](lov/2005-06-17-67/§10-22/ledd/1). Den skattepliktige skal ha adgang til å uttale seg før utskrivningen finner sted.
+2\. Terminskatt etter nr. 1 skal skrives ut til det beløp som fastsatt skatt ventes å utgjøre for vedkommende inntektsår. Ved utskrivningen fordeles terminskatten i ti deler, jf. [skattebetalingsloven § 10-22 første ledd](lov/2005-06-17-67/§10-22/ledd/1). Den skattepliktige skal ha adgang til å uttale seg før utskrivningen finner sted.
 
-3. Terminskatt kan forhøyes eller nedsettes fram til forfallstid for sjette termin med virkning for de fem siste terminene. Den skattepliktige skal ha adgang til å uttale seg før forhøyelse eller nedsettelse finner sted.
+3\. Terminskatt kan forhøyes eller nedsettes fram til forfallstid for sjette termin med virkning for de fem siste terminene. Den skattepliktige skal ha adgang til å uttale seg før forhøyelse eller nedsettelse finner sted.
 
-4. Skattyteren kan ved forfall for andre termin, med virkning for de fem første terminene, innbetale tillegg til utskrevet terminskatt når denne antas utilstrekkelig til å dekke den skatt som ventes fastsatt. Tillegget betales med tre like store beløp sammen med andre, tredje og fjerde termin. Tilsvarende kan skattyteren ved forfall for sjuende termin, med virkning for de fem siste terminene, innbetale tillegg til utskrevet terminskatt. Tillegget betales med tre like store beløp sammen med sjuende, åttende og niende termin.
+4\. Skattyteren kan ved forfall for andre termin, med virkning for de fem første terminene, innbetale tillegg til utskrevet terminskatt når denne antas utilstrekkelig til å dekke den skatt som ventes fastsatt. Tillegget betales med tre like store beløp sammen med andre, tredje og fjerde termin. Tilsvarende kan skattyteren ved forfall for sjuende termin, med virkning for de fem siste terminene, innbetale tillegg til utskrevet terminskatt. Tillegget betales med tre like store beløp sammen med sjuende, åttende og niende termin.
 
-5. Departementet kan gjøre vedtak om ansvar for og gjennomføring av betaling av skatt etter denne lov, samt gi utfyllende forskrifter om utskrivning av terminskatt, jf. nr. 2 og 3.
+5\. Departementet kan gjøre vedtak om ansvar for og gjennomføring av betaling av skatt etter denne lov, samt gi utfyllende forskrifter om utskrivning av terminskatt, jf. nr. 2 og 3.
 
-6. Når skatten er fastsatt, blir utskrevet terminskatt å avregne i den fastsatte skatt. I tilfeller som nevnt i nr. 4, avregnes innbetalt terminskatt i fastsatt skatt. [Skattebetalingsloven § 7-1 annet](lov/2005-06-17-67/§7-1/ledd/2) og [tredje ledd](lov/2005-06-17-67/§7-1/ledd/3) og [§ 7-2 første ledd](lov/2005-06-17-67/§7-2/ledd/1) gjelder tilsvarende. Departementet kan i forskrift gi regler om gjennomføring og utfylling av denne bestemmelsen.
+6\. Når skatten er fastsatt, blir utskrevet terminskatt å avregne i den fastsatte skatt. I tilfeller som nevnt i nr. 4, avregnes innbetalt terminskatt i fastsatt skatt. [Skattebetalingsloven § 7-1 annet](lov/2005-06-17-67/§7-1/ledd/2) og [tredje ledd](lov/2005-06-17-67/§7-1/ledd/3) og [§ 7-2 første ledd](lov/2005-06-17-67/§7-2/ledd/1) gjelder tilsvarende. Departementet kan i forskrift gi regler om gjennomføring og utfylling av denne bestemmelsen.
 
 > Endret ved [lover 13 juni 1980 nr. 29](lov/1980-06-13-29), [10 juni 1988 nr. 41](lov/1988-06-10-41), [16 juni 1989 nr. 50](lov/1989-06-16-50), [3 des 1999 nr. 78](lov/1999-12-03-78), [27 juni 2008 nr. 56](lov/2008-06-27-56) (med virkning for terminskatt for inntektsåret 2008 og senere år), [17 juni 2005 nr. 67](lov/2005-06-17-67) (ikr. 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [20 des 2022 nr. 103](lov/2022-12-20-103), [20 des 2024 nr. 84](lov/2024-12-20-84) (i kraft 1 jan 2025 med virkning fra inntektsåret 2025).
 

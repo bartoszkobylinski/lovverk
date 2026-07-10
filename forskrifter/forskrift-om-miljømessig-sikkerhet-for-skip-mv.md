@@ -297,6 +297,29 @@ Fra den tid forskriften trer i kraft gjøres følgende endringer i andre forskri
 
 ## Vedlegg 1. Material safety data sheets (MSDS) to be supplied to a ship prior to the loading of MARPOL Annex I type oil as cargo in bulk
 
+| *Section* | *Heading* | *Content* |
+| --- | --- | --- |
+| *1* | *Identification of the substance or mixture and of the supplier* | – Name of the category – see guidance in annex 21 for MARPOL Annex 1 type oil cargoes and oil fuels.<br>– The name of the substances.<br>– Trade name of the substances.<br>– Description on Bill of Lading (B/L), Bunker Delivery Note or other shipping document.<br>– Other means of identification.<br>– Supplier's details (including name, address, telephone number, etc.).<br>– Emergency telephone number. |
+| *2* | *Hazards identification* | – GHS2 classification of the substance/mixture and any regional information.<br>– Other hazards which do not result in classification (e.g., hydrogen sulphide) or are not covered by the GHS. See Guidelines in annex 2. |
+| *3* | *Composition/information on ingredients* | – Common name, synonyms, etc. on ingredients.<br>– Impurities and stabilizing additives which are themselves classified and which contribute to the classification of the substances.<br>– The chemical identity and concentration or concentration ranges of all ingredients which are hazardous within the meaning of GHS and are present above their cut-off levels. Cut-off level for reproductive toxicity, carcinogenicity and category 1 mutagenicity is 0.1 %. Cut-off level for all other hazard classes is 1 %. See Guidelines in annex 2. |
+| *4* | *First aid measures* | – Description of necessary measures, subdivided according to the different routes of exposure, i.e. inhalation, skin and eye contact and ingestion.<br>– Most important symptoms/effects, acute and delayed.<br>– Indication of immediate medical attention and special treatment, if necessary. |
+| *5* | *Fire-fighting measures* | – Suitable extinguishing media.<br>– Specific hazards arising from the chemical (e.g., nature of any hazardous combustion products).<br>– Special protective equipment and precautions for fire-fighters. |
+| *6* | *Accidental release measures* | – Personal precautions, protective equipment and measures emergency procedures.<br>– Environmental precautions.<br>– Methods and materials for containment and clean-up. |
+| *7* | *Handling and storage* | – Precautions for safe handling.<br>– Conditions for safe storage, including any incompatibilities. |
+| *8* | *Exposure controls/personal protection* | – Control parameters (e.g., occupational exposure personal protection limit values).<br>– Appropriate technical precautions.<br>– Individual protection measures, such as personal protective equipment. |
+| *9* | *Physical and chemical properties* | – See Guidelines in annex 2 |
+| *10* | *Stability and reactivity* | – Chemical stability.<br>– Possibility of hazardous reactions.<br>– Conditions to avoid (e.g., static discharge). |
+| *11* | *Toxicological information* | – Concise but complete and comprehensible description of the various toxicological (health) effects and the available data used to identify those effects, including:<br>– Information on the likely routes of exposure (inhalation, ingestion, skin and eye contact);<br>– Symptoms related to the physical, chemical and toxicological characteristics;<br>– Delayed and immediate effects and also chronic effects from short- and long-term exposure.<br>– Numerical measures of toxicity (such as acute toxicity estimates).<br>– See Guidelines in annex 2. |
+| *12* | *Ecological information* | – Ecotoxicity (aquatiq and terrestial, where available)<br>– Persistence and degradability<br>– Bioaccumulation potential<br>– Mobility in soil<br>– Other adverse effects<br>– See Guidelines in Annex 2. |
+| *13* | *Disposal considerations* | – Description of waste residues and information on their safe handling and methods of disposal, in line with MARPOL requirements. |
+| *14* | *Transport information* | – UN number, where applicable<br>– UN Proper shipping name, where applicable<br>– Transport Hazard class(es), where applicable<br>– Special precautions which a user needs to be aware of or needs to comply with in connection with transport (e.g., heating and carriage temperatures)<br>– Note that this product is being carried under the scope of MARPOL Annex I. |
+| *15* | *Regulatory information* | – Safety, health and environmental regulations specific for the product in question. |
+| *16* | *Other information including information on preparation and revision of the MSDS* | – Version No.<br>– Date of issue<br>– Issuing source. |
+
+1 Se MSC.286(86).
+
+2 Globally Harmonized System of Classification and Labelling of Chemicals (GHS), United Nations (2007 edition, as revised).
+
 ## Forordninger
 
 ### Konsolidert forordning (EF) nr. 417/2002
@@ -317,24 +340,36 @@ For å lese Polarkoden del II se her: [pdf-fil](static/SF/sf-20120530-0488-p2-01
 
 ### MARPOL vedlegg I
 
+For å lese MARPOL vedlegg I se her: [pdf-fil](static/SF/sf-20120530-0488-v1-01-09.pdf).
+
 > Endret ved [forskrifter 31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret ved [forskrifter 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [19 des 2024 nr. 3397](forskrift/2024-12-19-3397) (i kraft 1 jan 2025), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).
 
 ### MARPOL vedlegg II
+
+For å lese MARPOL vedlegg II se her: [pdf-fil](static/SF/sf-20120530-0488-v2-01-07.pdf)
 
 > Endret ved [forskrifter 31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret ved [forskrifter 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [17 des 2020 nr. 2985](forskrift/2020-12-17-2985) (i kraft 1 jan 2021), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).
 
 ### MARPOL vedlegg III
 
+For å lese MARPOL vedlegg III se her: [pdf-fil](static/SF/sf-20120530-0488-v3-01-04.pdf)
+
 > Endret ved [forskrift 23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret ved [forskrift 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).
 
 ### MARPOL vedlegg IV
+
+For å lese MARPOL vedlegg IV se her: [pdf-fil](static/SF/sf-20120530-0488-v4-01-06.pdf)
 
 > Endret ved [forskrift 18 des 2012 nr. 1295](forskrift/2012-12-18-1295) (i kraft 1 jan 2013), vedlegget oppdatert 9 jan 2013, endret ved [forskrifter 31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret ved [forskrift 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).
 
 ### MARPOL vedlegg V
 
+For å lese MARPOL vedlegg V se her: [pdf-fil](static/SF/sf-20120530-0488-v5-01-08.pdf).
+
 > Endret ved [forskrifter 18 des 2012 nr. 1295](forskrift/2012-12-18-1295) (i kraft 1 jan 2013), [31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret ved [forskrifter 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [19 des 2024 nr. 3397](forskrift/2024-12-19-3397) (i kraft 1 jan 2025), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).
 
 ### MARPOL vedlegg VI
+
+For å lese MARPOL vedlegg VI se her: [pdf-fil](static/SF/sf-20120530-0488-v6-01-10.pdf)
 
 > Endret ved [forskrifter 18 des 2012 nr. 1295](forskrift/2012-12-18-1295) (i kraft 1 jan 2013), [31 juli 2013 nr. 938](forskrift/2013-07-31-938) (i kraft 1 aug 2013), [5 juni 2015 nr. 616](forskrift/2015-06-05-616) (i kraft 1 juli 2015), [31 aug 2015 nr. 1038](forskrift/2015-08-31-1038) (i kraft 1 sep 2015), [23 nov 2016 nr. 1362](forskrift/2016-11-23-1362) (i kraft 1 jan 2017), endret uten kunngjøring i Norsk Lovtidend 12 sep 2017, endret uten kunngjøring i Norsk Lovtidend 13 juni 2018, endret ved [forskrifter 29 mai 2020 nr. 1124](forskrift/2020-05-29-1124), [24 sep 2020 nr. 1957](forskrift/2020-09-24-1957) (i kraft 1 okt 2020), [4 mars 2022 nr. 351](forskrift/2022-03-04-351) (i kraft 1 april 2022), [31 okt 2022 nr. 1912](forskrift/2022-10-31-1912) (i kraft 1 nov 2022), endret uten kunngjøring i Norsk Lovtidend 1 nov 2023, [30 april 2024 nr. 764](forskrift/2024-04-30-764) (i kraft 1 mai 2024), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372) (ikke innarbeidet i PDF).

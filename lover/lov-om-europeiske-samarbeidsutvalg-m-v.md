@@ -58,3 +58,5 @@ Pålegg om tvangsmulkt er tvangsgrunnlag for utlegg.
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
 Loven gjelder ikke for arbeidsforhold i foretak eller konserner som før lovens ikrafttredelse har inngått avtale om informasjon og konsultasjon på tvers av landegrensene, såfremt avtalen er i overensstemmelse med lovens formål og omfatter alle arbeidstakerne i foretaket eller konsernet. Lovens bestemmelser om tvisteløsning gjelder likevel ved tvist om en slik avtales gyldighet, forståelse eller beståen eller om krav som grunner seg på en slik avtale, med mindre avtalen inneholder egne bestemmelser om tvisteløsning. Dersom partene ikke fornyer avtalen, gjelder loven fullt ut.
+
+1 Fra 22 sep 1996 iflg. [res. 23 aug 1996 nr. 813](forskrift/1996-08-23-813).

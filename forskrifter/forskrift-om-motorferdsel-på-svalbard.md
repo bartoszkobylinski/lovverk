@@ -200,12 +200,18 @@ Denne forskrift trer i kraft 1. juli 2002.
 
 ## Vedlegg 1
 
+[Pdf-fil](static/SF/sf-20020624-0723-01-04.pdf)
+
 > Endret ved [forskrifter 10 april 2014 nr. 525](forskrift/2014-04-10-525), [6 des 2016 nr. 1465](forskrift/2016-12-06-1465) (i kraft 1 jan 2017), [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025, tidligere kart A).
 
 ## Vedlegg 2
 
+[Pdf-fil](static/SF/sf-20020624-0723-02-04.pdf)
+
 > Endret ved [forskrifter 20 des 2013 nr. 1689](forskrift/2013-12-20-1689) (i kraft 1 jan 2014), [10 april 2014 nr. 525](forskrift/2014-04-10-525), [6 des 2016 nr. 1465](forskrift/2016-12-06-1465) (i kraft 1 jan 2017), [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025, tidligere kart B).
 
 ## Vedlegg 3
+
+[Pdf-fil](static/SF/sf-20020624-0723-03-09.pdf)
 
 > Tilføyd ved forskrift [6 feb 2024 nr. 225](forskrift/2024-02-06-225) (i kraft 1 jan 2025).

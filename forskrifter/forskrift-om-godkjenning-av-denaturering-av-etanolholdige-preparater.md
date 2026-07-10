@@ -32,15 +32,41 @@ eu_basis: []
 
 ### § 2. Denatureringsmidler
 
-Følgende denatureringsmidler kan benyttes i angitt mengde pr. 100 volumprosent etanol (CAS-nr. i parentes):*Aceton* (67-64-1)5 volumprosent*t-butanol* (75-65-0)2 volumprosent*Dietylftalat* (84-66-2)0,7 volumprosent*Etylacetat* (141-78-6)3 volumprosent*2-propanol* (67-63-0)15 volumprosent*n-propanol* (71-23-8)15 volumprosent*Metanol* (67-56-1)5 volumprosent*Metyletylketon* (78-93-3)2 volumprosent*Metylisobutylketon* (108-10-1)3 volumprosent
+Følgende denatureringsmidler kan benyttes i angitt mengde pr. 100 volumprosent etanol (CAS-nr. i parentes):
+
+|  |  |
+| --- | --- |
+| *Aceton* (67-64-1) | 5 volumprosent |
+| *t-butanol* (75-65-0) | 2 volumprosent |
+| *Dietylftalat* (84-66-2) | 0,7 volumprosent |
+| *Etylacetat* (141-78-6) | 3 volumprosent |
+| *2-propanol* (67-63-0) | 15 volumprosent |
+| *n-propanol* (71-23-8) | 15 volumprosent |
+| *Metanol* (67-56-1) | 5 volumprosent |
+| *Metyletylketon* (78-93-3) | 2 volumprosent |
+| *Metylisobutylketon* (108-10-1) | 3 volumprosent |
 
 ### § 3. Denaturering som krever særskilt godkjenning
 
-Følgende denaturering kan ved dokumentert behov godkjennes av skattekontoret (CAS-nr. i parentes):Bensyldietylammoniumbenzoat (Bitrex) (3734-33-6)0,016 g/liter ren etanolThymol (89-83-8)4 g/liter ren etanolToluen (108-88-3)5 g/liter ren etanolRen Capsaicin (404-86-4)0,02 g/liter ren etanol
+Følgende denaturering kan ved dokumentert behov godkjennes av skattekontoret (CAS-nr. i parentes):
+
+|  |  |
+| --- | --- |
+| Bensyldietylammoniumbenzoat (Bitrex) (3734-33-6) | 0,016 g/liter ren etanol |
+| Thymol (89-83-8) | 4 g/liter ren etanol |
+| Toluen (108-88-3) | 5 g/liter ren etanol |
+| Ren Capsaicin (404-86-4) | 0,02 g/liter ren etanol |
 
 ### § 4. Denaturering av parfyme-, kosmetikk- og toalettpreparater
 
-Følgende denaturering er i tillegg godkjent for teknisk etanol og etanolholdige preparater som hører under tolltariffens kapittel 33 (CAS-nr. i parentes):(1)*Bensyldietylammoniumbenzoat (Bitrex)* (3734-33-6)0,016 g/liter ren etanol*Sucroseoctaacetat (Denatin)* (126-14-7)5 g/liter ren etanol*Oljer eller parfymekomposisjoner*20 g/liter ren etanol(2)Denaturering som er i samsvar med godkjente denatureringskrav fra land i EØS-området.
+Følgende denaturering er i tillegg godkjent for teknisk etanol og etanolholdige preparater som hører under tolltariffens kapittel 33 (CAS-nr. i parentes):
+
+|  |  |  |
+| --- | --- | --- |
+| (1) | *Bensyldietylammoniumbenzoat (Bitrex)* (3734-33-6) | 0,016 g/liter ren etanol |
+|  | *Sucroseoctaacetat (Denatin)* (126-14-7) | 5 g/liter ren etanol |
+|  | *Oljer eller parfymekomposisjoner* | 20 g/liter ren etanol |
+| (2) | Denaturering som er i samsvar med godkjente denatureringskrav fra land i EØS-området. |  |
 
 ### § 5. Denaturering av etanolholdig drivstoff
 

@@ -24,12 +24,20 @@ eu_basis: []
 
 ## I
 
+I [lov 10. desember 2004 nr. 82 om Overenskomst om internasjonal jernbanetrafikk](lov/2004-12-10-82) blir det gjort følgjande endringar:
+
+[§ 2](lov/2004-12-10-82/§2) ny bokstav h skal lyde:
+
 1. Enhetlige rettsregler om sikker togdrift i internasjonal trafikk (EST – BILAG H til overenskomsten) fastsetter krav til sikker togdrift i internasjonal trafikk, herunder til sikkerhetssertifisering og tilsyn, i henhold til Artikkel 1 i EST.
 
-For krav i overenskomsten som omhandler sikkerhetssertifisering, tilsyn og utøvelse av myndighetsoppgaver for øvrig, gjelder [jernbaneloven](lov/1993-06-11-100) tilsvarende.
+Ny [§ 2 a](lov/2004-12-10-82/§2a) skal lyde:
+
+[§ 7](lov/2004-12-10-82/§7) annet punktum skal lyde:
 
 Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av loven, herunder krav om drift og sikkerhet, sikkerhetsstyringssystemer, sikkerhetssertifisering, tilsyn og andre myndighetsoppgaver, når det er nødvendig for å gjennomføre bestemmelser i overenskomsten.
 
 ## II
 
 Lova gjeld frå den tida1 Kongen fastset.
+
+1 I kraft samtidig som endringene av 30. september 2015 og 26. september 2018 i Overenskomst om internasjonal jernbanetrafikk. iflg. [res. 20 juni 2023 nr. 957](forskrift/2023-06-20-957).

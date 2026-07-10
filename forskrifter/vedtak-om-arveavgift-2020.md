@@ -40,8 +40,20 @@ Avgiftsgrunnlaget rundes nedover til nærmeste tall som kan deles med 1 000.
 
 ## § 4.
 
-Av arv til arvelaterens barn, fosterbarn – herunder stebarn som har vært oppfostret hos arvelateren – og foreldre, svares:Av de første 470 000 kronerintetAv de neste 330 000 kroner6 pst.Av overskytende beløp10 pst.
+Av arv til arvelaterens barn, fosterbarn – herunder stebarn som har vært oppfostret hos arvelateren – og foreldre, svares:
+
+|  |  |
+| --- | --- |
+| Av de første 470 000 kroner | intet |
+| Av de neste 330 000 kroner | 6 pst. |
+| Av overskytende beløp | 10 pst. |
 
 ## § 5.
 
-Av arv som ikke går inn under [§ 4](forskrift/2019-12-13-1821/§4), svares:Av de første 470 000 kronerintetAv de neste 330 000 kroner8 pst.Av overskytende beløp15 pst.
+Av arv som ikke går inn under [§ 4](forskrift/2019-12-13-1821/§4), svares:
+
+|  |  |
+| --- | --- |
+| Av de første 470 000 kroner | intet |
+| Av de neste 330 000 kroner | 8 pst. |
+| Av overskytende beløp | 15 pst. |

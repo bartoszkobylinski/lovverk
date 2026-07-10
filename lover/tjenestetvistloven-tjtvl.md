@@ -74,15 +74,15 @@ For forhandlinger om de spørsmål som er nevnt i [§ 2](lov/1958-07-18-2/§2), 
 
 ### § 6
 
-1. Når en forhandlingsberettiget organisasjon krever opptatt forhandlinger, skal den fremsette sine krav i rekommandert brev til det departement eller den myndighet som vedkommende tjenestemenn administrativt hører under, når kravene gjelder tjenestemenn under et enkelt departement. Landsomfattende organisasjon som organiserer arbeidsstakere fra ett yrke (yrkesorganisasjon), skal fremsette sine krav i rekommandert brev til det departement eller den myndighet Kongen bestemmer.Vedkommende organisasjon skal samtidig med at kravene fremsettes, sende gjenpart av disse i rekommandert brev til det departement som statens lønnssaker hører under.Gjelder de fremsatte krav også tjenestemenn i andre forhandlingsberettigede organisasjoner, skal disse organisasjoner i rekommandert brev varsles av det departement som statens lønnssaker hører under.
+1\. Når en forhandlingsberettiget organisasjon krever opptatt forhandlinger, skal den fremsette sine krav i rekommandert brev til det departement eller den myndighet som vedkommende tjenestemenn administrativt hører under, når kravene gjelder tjenestemenn under et enkelt departement. Landsomfattende organisasjon som organiserer arbeidsstakere fra ett yrke (yrkesorganisasjon), skal fremsette sine krav i rekommandert brev til det departement eller den myndighet Kongen bestemmer.Vedkommende organisasjon skal samtidig med at kravene fremsettes, sende gjenpart av disse i rekommandert brev til det departement som statens lønnssaker hører under.Gjelder de fremsatte krav også tjenestemenn i andre forhandlingsberettigede organisasjoner, skal disse organisasjoner i rekommandert brev varsles av det departement som statens lønnssaker hører under.
 
-2. Krav som gjelder tjenestemenn under flere departementer, fremsettes av vedkommende hovedsammenslutning overfor Kongen i rekommandert brev til det departement som statens lønnssaker hører under. Angår kravene også tjenestemenn i andre hovedsammenslutninger, skal departementet varsle disse i rekommandert brev.En hovedsammenslutning kan fremsette sine krav også overfor det departement som statens lønnssaker hører under, selv om kravene bare gjelder et enkelt departement.
+2\. Krav som gjelder tjenestemenn under flere departementer, fremsettes av vedkommende hovedsammenslutning overfor Kongen i rekommandert brev til det departement som statens lønnssaker hører under. Angår kravene også tjenestemenn i andre hovedsammenslutninger, skal departementet varsle disse i rekommandert brev.En hovedsammenslutning kan fremsette sine krav også overfor det departement som statens lønnssaker hører under, selv om kravene bare gjelder et enkelt departement.
 
-3. Landsomfattende tjenestemannsorganisasjon av undervisningspersonell i grunnskolen og videregående opplæring kan fremsette sine krav i rekommandert brev overfor det departement som statens lønnssaker hører under, såfremt organisasjonen har over 20.000 medlemmer og representerer minst halvparten av undervisningspersonellet i grunnskolen og videregående opplæring.
+3\. Landsomfattende tjenestemannsorganisasjon av undervisningspersonell i grunnskolen og videregående opplæring kan fremsette sine krav i rekommandert brev overfor det departement som statens lønnssaker hører under, såfremt organisasjonen har over 20.000 medlemmer og representerer minst halvparten av undervisningspersonellet i grunnskolen og videregående opplæring.
 
-4. Når staten ønsker opptatt forhandlinger, skal vedkommende hovedsammenslutning eller forhandlingsberettigede organisasjon ved rekommandert brev underrettes om dette.
+4\. Når staten ønsker opptatt forhandlinger, skal vedkommende hovedsammenslutning eller forhandlingsberettigede organisasjon ved rekommandert brev underrettes om dette.
 
-5. Når det i denne paragraf er bestemt at krav, brev, gjenpart e.l. skal sendes i rekommandert brev, kan dette også gjøres ved bruk av elektronisk kommunikasjon dersom det er benyttet en betryggende metode for å sikre at varselet er mottatt.
+5\. Når det i denne paragraf er bestemt at krav, brev, gjenpart e.l. skal sendes i rekommandert brev, kan dette også gjøres ved bruk av elektronisk kommunikasjon dersom det er benyttet en betryggende metode for å sikre at varselet er mottatt.
 
 > Endret ved [lover 19 juni 1969 nr. 74](lov/1969-06-19-74), [21 des 2001 nr. 117](lov/2001-12-21-117) (ikr. 1 jan 2002 iflg. [res. 21 des 2001 nr. 1475](forskrift/2001-12-21-1475)), [15 mai 2002 nr. 15](lov/2002-05-15-15) (ikr. 1 juni 2002 iflg. [res. 15 mai 2002 nr. 449](forskrift/2002-05-15-449)).
 
@@ -194,37 +194,37 @@ Er enighet ikke oppnådd, får bestemmelsene i [arbeidstvistloven §§ 29](lov/2
 
 ### § 20
 
-1. En tvist om en tariffavtales gyldighet, forståelse eller beståen eller om krav som grunner seg på en tariffavtale, må ikke søkes løst ved arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp.
+1\. En tvist om en tariffavtales gyldighet, forståelse eller beståen eller om krav som grunner seg på en tariffavtale, må ikke søkes løst ved arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp.
 
-2. En tvist mellom forhandlingsberettiget hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i [§ 3](lov/1958-07-18-2/§3) og staten om ordningen av lønns- og arbeidsvilkår som ikke omfattes av en tariffavtale, må ikke søkes løst ved arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp, før de frister som er nevnt i [§ 17](lov/1958-07-18-2/§17), første og annet ledd og oppsigelsesfristen for vedkommende stillinger er utløpt. Gjelder tvisten opprettelse av en tariffavtale som skal avløse en tidligere tariffavtale, må dessuten gyldighetstiden for tariffavtalen være utløpt.Så lenge arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp ikke må iverksettes, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, stå ved makt hvis ikke partene blir enige om noe annet.
+2\. En tvist mellom forhandlingsberettiget hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i [§ 3](lov/1958-07-18-2/§3) og staten om ordningen av lønns- og arbeidsvilkår som ikke omfattes av en tariffavtale, må ikke søkes løst ved arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp, før de frister som er nevnt i [§ 17](lov/1958-07-18-2/§17), første og annet ledd og oppsigelsesfristen for vedkommende stillinger er utløpt. Gjelder tvisten opprettelse av en tariffavtale som skal avløse en tidligere tariffavtale, må dessuten gyldighetstiden for tariffavtalen være utløpt.Så lenge arbeidsnedleggelse, arbeidsstengning eller annen arbeidskamp ikke må iverksettes, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, stå ved makt hvis ikke partene blir enige om noe annet.
 
-3. Hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i [§ 3](lov/1958-07-18-2/§3) kan, så lenge den er bundet av en hovedtariffavtale, ikke iverksette arbeidsstans eller annen arbeidskamp om lønns- og arbeidsvilkår som ikke er regulert i hovedtariffavtalen.Det samme gjelder de tjenestemenn som omfattes av hovedtariffavtalen.
+3\. Hovedsammenslutning, tjenestemannsorganisasjon eller annen organisasjon som nevnt i [§ 3](lov/1958-07-18-2/§3) kan, så lenge den er bundet av en hovedtariffavtale, ikke iverksette arbeidsstans eller annen arbeidskamp om lønns- og arbeidsvilkår som ikke er regulert i hovedtariffavtalen.Det samme gjelder de tjenestemenn som omfattes av hovedtariffavtalen.
 
-4. Så lenge tjenestemenn som er medlemmer av en forhandlingsberettiget organisasjon, ikke har adgang til å iverksette arbeidsnedleggelse eller annen arbeidskamp i kraft av tariffavtalens fredspliktsregler eller lovbestemmelse, kan heller ikke de øvrige tjenestemenn i vedkommende etat, tjenestegren eller gruppe gå til arbeidsnedleggelse eller annen arbeidskamp.
+4\. Så lenge tjenestemenn som er medlemmer av en forhandlingsberettiget organisasjon, ikke har adgang til å iverksette arbeidsnedleggelse eller annen arbeidskamp i kraft av tariffavtalens fredspliktsregler eller lovbestemmelse, kan heller ikke de øvrige tjenestemenn i vedkommende etat, tjenestegren eller gruppe gå til arbeidsnedleggelse eller annen arbeidskamp.
 
-5. Så lenge gyldig tariffavtale består, kan de som omfattes av avtalen, ikke delta i arbeidsstans eller annen arbeidskamp til støtte for noen part i en annen konflikt på andre vilkår enn dem som er avtalt mellom staten og hovedsammenslutningene.
+5\. Så lenge gyldig tariffavtale består, kan de som omfattes av avtalen, ikke delta i arbeidsstans eller annen arbeidskamp til støtte for noen part i en annen konflikt på andre vilkår enn dem som er avtalt mellom staten og hovedsammenslutningene.
 
 > Endret ved [lov 19 juni 1969 nr. 74](lov/1969-06-19-74).
 
 ### § 21
 
-1. Ved arbeidsnedleggelse (streik) forstås i denne lov en hel eller delvis arbeidsstans som tjenestemenn etter avtale eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom staten og en forhandlingsberettiget hovedsammenslutning eller tjenestemannsorganisasjon eller en annen sammenslutning av tjenestemenn som har til formål å vareta disse tjenestemenns interesser overfor staten.Som ledd i en arbeidsnedleggelse regnes det at vedkommende etat eller tjenestegren som følge av arbeidsnedleggelsen søkes sperret for arbeidskraft.
+1\. Ved arbeidsnedleggelse (streik) forstås i denne lov en hel eller delvis arbeidsstans som tjenestemenn etter avtale eller i forståelse med hverandre iverksetter for å tvinge frem en løsning av en tvist mellom staten og en forhandlingsberettiget hovedsammenslutning eller tjenestemannsorganisasjon eller en annen sammenslutning av tjenestemenn som har til formål å vareta disse tjenestemenns interesser overfor staten.Som ledd i en arbeidsnedleggelse regnes det at vedkommende etat eller tjenestegren som følge av arbeidsnedleggelsen søkes sperret for arbeidskraft.
 
-2. Ved arbeidsstengning (lockout) forstås i denne lov en hel eller delvis arbeidsstans som staten iverksetter for å tvinge frem en løsning av en tvist mellom staten og en forhandlingsberettiget hovedsammenslutning eller tjenestemannsorganisasjon eller en annen sammenslutning av tjenestemenn som har til formål å vareta disse tjenestemenns interesser overfor staten – uten hensyn til om andre tjenestemenn tas inn istedenfor de utestengte.Som ledd i en arbeidsstengning regnes det at de utestengte tjenestemenn søkes hindret i å få annet arbeid.
+2\. Ved arbeidsstengning (lockout) forstås i denne lov en hel eller delvis arbeidsstans som staten iverksetter for å tvinge frem en løsning av en tvist mellom staten og en forhandlingsberettiget hovedsammenslutning eller tjenestemannsorganisasjon eller en annen sammenslutning av tjenestemenn som har til formål å vareta disse tjenestemenns interesser overfor staten – uten hensyn til om andre tjenestemenn tas inn istedenfor de utestengte.Som ledd i en arbeidsstengning regnes det at de utestengte tjenestemenn søkes hindret i å få annet arbeid.
 
-3. Blokade som nevnt i nr. 1 og nr. 2, begges annet ledd, regnes ikke som boikott etter lov om boikott av 5. desember 1947 når blokaden foretas i forbindelse med iverksatt arbeidsnedleggelse eller arbeidsstengning. Er det ikke iverksatt arbeidsnedleggelse eller arbeidsstengning, blir det regnet som boikott om en etat eller tjenestegren søkes sperret for arbeidskraft, eller om tjenestemenn søkes hindret i å få annet arbeid.
+3\. Blokade som nevnt i nr. 1 og nr. 2, begges annet ledd, regnes ikke som boikott etter lov om boikott av 5. desember 1947 når blokaden foretas i forbindelse med iverksatt arbeidsnedleggelse eller arbeidsstengning. Er det ikke iverksatt arbeidsnedleggelse eller arbeidsstengning, blir det regnet som boikott om en etat eller tjenestegren søkes sperret for arbeidskraft, eller om tjenestemenn søkes hindret i å få annet arbeid.
 
 ### § 22
 
-1. Er det varslet arbeidsnedleggelse, kan Kongen si opp tjenestemenn uten at de ellers gjeldende regler om oppsigelse av tjenestemenn kommer til anvendelse.
+1\. Er det varslet arbeidsnedleggelse, kan Kongen si opp tjenestemenn uten at de ellers gjeldende regler om oppsigelse av tjenestemenn kommer til anvendelse.
 
-2. Fristen for oppsigelser etter nr. 1 er 3 måneder, om ikke kortere frist er fastsatt ved tariffavtale. Det samme gjelder fristen for oppsigelse fra tjenestemennenes side når de varsler arbeidsnedleggelse.Dersom en kortere frist enn 3 måneder er fastsatt i tariffavtale, skal den forkortede oppsigelsesfrist også gjelde for de tjenestemenn i vedkommende etat, tjenestegren eller gruppe som ikke er bundet av tariffavtalen.
+2\. Fristen for oppsigelser etter nr. 1 er 3 måneder, om ikke kortere frist er fastsatt ved tariffavtale. Det samme gjelder fristen for oppsigelse fra tjenestemennenes side når de varsler arbeidsnedleggelse.Dersom en kortere frist enn 3 måneder er fastsatt i tariffavtale, skal den forkortede oppsigelsesfrist også gjelde for de tjenestemenn i vedkommende etat, tjenestegren eller gruppe som ikke er bundet av tariffavtalen.
 
-3. Ved tariffavtale kan det bestemmes at oppsigelse som nevnt i denne paragraf kan skje ved kollektivt varsel til eller fra vedkommende hovedsammenslutning eller tjenestemannsorganisasjon.
+3\. Ved tariffavtale kan det bestemmes at oppsigelse som nevnt i denne paragraf kan skje ved kollektivt varsel til eller fra vedkommende hovedsammenslutning eller tjenestemannsorganisasjon.
 
-4. Når tjenestemenn blir tatt inn i tjenesten igjen etter arbeidsstans, kommer de ellers gjeldende regler om ansettelse av tjenestemenn ikke til anvendelse.
+4\. Når tjenestemenn blir tatt inn i tjenesten igjen etter arbeidsstans, kommer de ellers gjeldende regler om ansettelse av tjenestemenn ikke til anvendelse.
 
-5. Reglene i denne paragraf gjelder ikke embetsmenn eller andre tjenestemenn som ikke har rett til å gå til arbeidsnedleggelse.
+5\. Reglene i denne paragraf gjelder ikke embetsmenn eller andre tjenestemenn som ikke har rett til å gå til arbeidsnedleggelse.
 
 > Endret ved [lover 19 juni 1969 nr. 74](lov/1969-06-19-74), 21 apr 1972 nr. 17.
 
@@ -277,6 +277,8 @@ Når det er sendt innberetning som nevnt i første ledd, er det forbudt å fors�
 Så lenge tvisten ikke er avgjort av Rikslønnsnemnda eller løst på annen måte, skal den tariffavtale og de lønns- og arbeidsvilkår som gjaldt ved tvistens utbrudd, stå ved makt hvis ikke partene blir enige om noe annet.
 
 > Tilføyd ved lov 21 apr 1972 nr. 17, endret ved [lov 27 jan 2012 nr. 9](lov/2012-01-27-9) (ikr. 1 mars 2012 iflg. [res. 27 jan 2012 nr. 71](forskrift/2012-01-27-71)).
+
+1 Inkurie: Skal vel være «mekler», se [lov 27 jan 2012 nr. 9 § 11](lov/2012-01-27-9/§11).
 
 ## Åttende kapitel. Særskilt nemnd. Statens lønnsutvalg.
 
@@ -350,9 +352,9 @@ For at en tvist skal kunne bringes inn for Rikslønnsnemnda etter bestemmelsene 
 
 ### § 32
 
-1. Kongen kan bestemme at organisasjoner som ikke fyller vilkårene for å oppnå forhandlingsrett etter § 3, skal gis slik rett for inntil 2 år etter denne lovs ikrafttreden, såfremt de fra tidspunktet for denne ikrafttreden har vært selvstendig forhandlingsberettiget med hjemmel i lov om forhandlingsrett for statens tjenestemenn m.v. av 6. juli 1933, og det samtidig finnes at vedkommende organisasjoner har krav på å få en rimelig tid til å treffe de organisasjonsmessige foranstaltninger som er påkrevet for å oppnå forhandlingsrett etter [lovens § 3](lov/1958-07-18-2/§3).Første ledd får tilsvarende anvendelse for de organisasjoner av folke- og framhaldsskolelærere som hittil i praksis har vært forhandlingsberettiget.
+1\. Kongen kan bestemme at organisasjoner som ikke fyller vilkårene for å oppnå forhandlingsrett etter § 3, skal gis slik rett for inntil 2 år etter denne lovs ikrafttreden, såfremt de fra tidspunktet for denne ikrafttreden har vært selvstendig forhandlingsberettiget med hjemmel i lov om forhandlingsrett for statens tjenestemenn m.v. av 6. juli 1933, og det samtidig finnes at vedkommende organisasjoner har krav på å få en rimelig tid til å treffe de organisasjonsmessige foranstaltninger som er påkrevet for å oppnå forhandlingsrett etter [lovens § 3](lov/1958-07-18-2/§3).Første ledd får tilsvarende anvendelse for de organisasjoner av folke- og framhaldsskolelærere som hittil i praksis har vært forhandlingsberettiget.
 
-2. Bestemmelse i lov eller stortingsbeslutning om at lønns- og arbeidsvilkår skal fastsettes eller godkjennes av Stortinget eller annen statsmyndighet i form av regulativ e.l. skal ikke være til hinder for at lønns- og arbeidsvilkårene blir fastlagt i samsvar med reglene i denne lov.
+2\. Bestemmelse i lov eller stortingsbeslutning om at lønns- og arbeidsvilkår skal fastsettes eller godkjennes av Stortinget eller annen statsmyndighet i form av regulativ e.l. skal ikke være til hinder for at lønns- og arbeidsvilkårene blir fastlagt i samsvar med reglene i denne lov.
 
 ## Ellevte kapitel. Forskjellige bestemmelser.
 
@@ -361,3 +363,5 @@ For at en tvist skal kunne bringes inn for Rikslønnsnemnda etter bestemmelsene 
 Fra den dag loven trer i kraft1 oppheves: – –
 
 Fra samme tidspunkt blir det gjort følgende endringer i andre lover: – – –
+
+1 Loven trådte ikr. 5 sep 1958.

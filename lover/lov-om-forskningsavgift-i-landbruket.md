@@ -64,6 +64,8 @@ Den som forsettlig eller uaktsomt overtrer denne lov eller forskrifter gitt i me
 
 ## § 7.
 
-1. Loven trer i kraft fra den tid Kongen bestemmer.1– – –
+1\. Loven trer i kraft fra den tid Kongen bestemmer.1– – –
 
 > Endret ved lov 18 juni 1971 nr. 86.
+
+1 Fra 1 jan 1971 iflg. res. 18 des 1970.

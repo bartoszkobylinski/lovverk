@@ -215,33 +215,77 @@ Samtidig oppheves [forskrift 9. mai 1996 nr. 489](forskrift/1996-05-09-489) om o
 
 ## Vedlegg 1 – Prøver av flokker av avlsfjørfe
 
+| *Produksjon* | *Prøvetidspunkt* | *Prøvestedet* | *Prøvemateriale* | *Prøven tas av* |
+| --- | --- | --- | --- | --- |
+| Avlsfjørfeflokker | Daggamle | Besetning | 5 transportkasser fra en leveranse:<br>Kassepapir (> 1 m2 totalt) eller<br>Svaberprøver (> 1 m2 totalt).<br>Analysert som en samleprøve. | Virksomhet |
+| Avlsfjørfeflokker | 4 uker gamle | Besetning | 2 par svabersokker,<br>analysert som en samleprøve. | Virksomhet |
+| Avlsfjørfeflokker | 2 uker før flytting | Besetning | 2 par svabersokker,<br>analysert som en samleprøve. | Virksomhet |
+| Voksne flokker unntatt gås i den verpefrie perioden | Hver andre uke | Besetning | 1 par svabersokker + 1 støvprøve,<br>analysert enkeltvis. | Virksomhet |
+| Gås i den verpefrie perioden | 1 prøve i verpefri periode | Besetning | 1 par svabersokker + 1 støvprøve,<br>analysert enkeltvis. | Virksomhet |
+
 > Endret ved [forskrift 5 jan 2010 nr. 8](forskrift/2010-01-05-8).
 
 ## Vedlegg 2 – Prøver av flokker av slaktefjørfe
+
+| *Prøvetidspunktet* | *Prøvestedet* | *Prøvemateriale* | *Prøven tas av* |
+| --- | --- | --- | --- |
+| 10-19 dager før slakt\* | Besetning | 1 par svabersokker + 1 støvprøve,<br>analysert som en samleprøve. | Virksomhet |
+
+\* Resultater må foreligge før slakt.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 834](forskrift/2007-06-29-834), [5 jan 2010 nr. 8](forskrift/2010-01-05-8).
 
 ## Vedlegg 3 – Prøver av flokker av eggproduserende fjørfe
 
+| *Produksjon* | *Prøvetidspunkt* | *Prøvestedet* | *Prøvemateriale* | *Prøven tas av* |
+| --- | --- | --- | --- | --- |
+| Livkylling | Daggamle | Besetning | 5 transportkasser:<br>Kassepapir (> 1 m2 totalt) eller<br>Svaberprøver (> 1 m2 totalt).<br>Analysert som en samleprøve. | Virksomhet |
+| Livkylling | 2 uker før flytting | Besetning | 2 par svabersokker.<br>Analysert som en samleprøve.<br>Burhøns: Avføringsprøve ( 150 g). | Virksomhet |
+| Verpehøns | Hver 15. uke\* | Besetning | 2 par svabersokker,<br>analysert som en samleprøve.<br>Burhøns: Avføringsprøve 2 x 150 g,<br>analysert som en samleprøve. | Virksomhet |
+
+\* Første prøve tas ved alder 24 uker (+/– 2 uker)
+
 > Endret ved [forskrift 5 jan 2010 nr. 8](forskrift/2010-01-05-8).
 
 ## Vedlegg 4 – Prøvetaking og transport av prøver til laboratoriet m.m.
 
+*Prøvetaking:*
+
+*Svabersokker*
+
 Sokker fuktes ved bruk av sterilt vann eller annet befuktningsmiddel godkjent av det nasjonale referanselaboratoriet. Den som tar prøven, skal gå rundt slik at prøven avspeiler alle sektorer, inkludert områder hvor det er strø eller der det er rist. Alle separate binger i et hus inkluderes i prøven. Dersom det tas en svabersokkprøve samt en støvprøve, bør svabersokkene dekke 100 % av huset. Sokkene tas av forsiktig slik at prøvemateriale ikke går tapt.
+
+*Støvprøve*
 
 En støvprøve skal tas fra flere steder i huset der det finnes synlig støv.
 
+*Avføringsprøver fra fjørfe i bur*
+
 Avhengig av kategori fjørfe, skal det skal tas en eller to representative prøver, hver på 150 g, fra samlebånd, gjødselrenne m.m.
+
+*Prøver av klekkepapir*
 
 For hver flokk skal prøven bestå av minst en samleprøve av klekkepapir med synlig avføring fra fem separate klekkekurver som er valgt vilkårlig. Samleprøven skal være på minst 1 m2 . Hvis rugeeggene fra en avlsfjørfeflokk holdes i mer enn en inkubator, skal det tas en samleprøve fra hver inkubator.
 
+*Prøver av kassepapir fra transportkasser*
+
 For hver flokk skal prøven bestå av minst en samleprøve av kassepapir med synlig avføring fra fem separate transportkasser som er valgt vilkårlig. Samleprøven skal være på minst 1 m2 .
+
+*Prøver av knust eggeskall*
 
 Dersom klekkepapir ikke er tilgjengelig, skal det tas prøve av 10 g knust eggeskall fra hver av totalt 25 separate klekkekurver. Delprøvene (à 10 g) blandes godt sammen til en samleprøve.
 
+*Svaberprøver fra transportkasser*
+
 Dersom kassepapir fra transportkasser ikke er tilgjengelig, skal det tas svaberprøver av fem transportkasser eller klekkekurver. Svaberprøven tas med fuktig svaber. Det tas prøver av et område på minst 1 m2 . Områder med synlig avføring skal prioriteres.
 
+*Detaljer om oppbevaring og transport av prøver:*
+
+*Oppbevaring av prøver før transport til laboratorium*
+
 Prøver skal oppbevares i kjøleskap (ca. 4-8 °C) før transport til laboratoriet, såfremt de ikke transporteres til laboratoriet samme dag som prøven er tatt.
+
+*Transport av prøver til laboratorium*
 
 Prøven skal sendes til laboratoriet innen 24 timer etter prøveuttak, fortrinnsvis som ekspresspost eller med bud.
 
@@ -249,17 +293,31 @@ Prøven skal sendes til laboratoriet innen 24 timer etter prøveuttak, fortrinns
 
 ## Vedlegg 5 – Krav til behandling av prøver
 
+*Oppbevaring av prøver på laboratoriet*
+
 Prøven kan lagres på laboratoriet i kjøleskap i inntil 48 timer før analyse påbegynnes såfremt tiden fra prøveuttak ikke overstiger 96 timer.
 
+*Forbehandling av mottatte prøver på laboratoriet:*
+
+*Svabersokker og støvprøver*
+
 Svabersokkene eller støvprøven pakkes forsiktig opp slik at prøvemateriale ikke går tapt. Romtemperert bufret peptonvann tilsettes til sokkene eller støvkluten er dekket av væske (minst 225 ml) og prøven blandes godt til sokkene/støvkluten er gjennomvåte. Svaberprøvene og støvprøven prepareres separat. Deretter analyseres prøven i henhold til metode angitt i [§ 19](forskrift/2007-06-08-603/§19).
+
+*Avføringsprøver*
 
 Prøvene blandes godt og 25 g av blandingen overføres til 225 ml romtemperert bufret peptonvann. Deretter analyseres prøven i henhold til metode angitt i [§ 19](forskrift/2007-06-08-603/§19).
 
 Dersom ISO-standard om preparering av relevante prøver for påvisning av *Salmonella* er avtalt, skal de isteden benyttes ved forbehandling av prøver fra verpehøns og kalkuner.
 
+*Svaber*
+
 Prøven tilsettes minst 225 ml romtemperert bufret peptonvann til svabrene er dekket av væske og blandes godt. Deretter analyseres prøven i henhold til metode angitt i [§ 19](forskrift/2007-06-08-603/§19).
 
+*Klekkepapir og kassepapir*
+
 Samleprøven tilsettes 1 liter romtemperert bufret peptonvann og blandes godt. Deretter analyseres prøven i henhold til metode angitt i [§ 19](forskrift/2007-06-08-603/§19).
+
+*Knust eggeskall*
 
 Av det innsendte materialet tar man ut en laboratorieprøve på 25 g. Prøven tilsettes 225 ml romtemperert bufret peptonvann og blandes godt. Deretter analyseres prøven i henhold til metode angitt i [§ 19](forskrift/2007-06-08-603/§19).
 

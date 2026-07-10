@@ -74,6 +74,8 @@ Mesterbrevnemnda skal bestå av 5 medlemmer, herav oppnevnes 1 medlem etter fors
 
 > Endret ved [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [20 des 2022 nr. 122](lov/2022-12-20-122).
 
+1 Se [res. 12 des 1986 nr. 2187](forskrift/1986-12-12-2187).
+
 ## § 7.
 
 Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov.
@@ -84,6 +86,8 @@ Loven her trer i kraft fra den tid1 Kongen bestemmer.
 
 Fra samme tid oppheves [lov av 19. juni 1970 nr. 59](lov/1970-06-19-59) om handverksnæring. Kongen kan likevel bestemme at reglene i nevnte lov og forskrifter gitt i medhold av den, skal gjelde inntil videre for enkelte fag eller deler av fag.2
 
+1 Fra 15 jan 1987 iflg. [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).2 Gjelder inntil videre for rørleggerfaget i kommuner hvor loven er innført. Jf. kgl [res. 12 des 1986 nr. 2175](forskrift/1986-12-12-2175).
+
 ## § 9.
 
 Den som før denne lov trer i kraft innehar handverksbrev eller håndverksrett etter håndverksloven av 19. juni 19701 eller er godkjent som entreprenør i husbygging i mur og stein eller i tre etter entreprenørloven av 24. oktober 1952, tildeles mesterbrev ved å la seg registrere hos den som tildeler mesterbrev etter [§ 2](lov/1986-06-20-35/§2), jfr. [§ 6](lov/1986-06-20-35/§6).
@@ -91,6 +95,8 @@ Den som før denne lov trer i kraft innehar handverksbrev eller håndverksrett e
 Når særlige grunner gjør det rimelig kan mesterbrev også tildeles søker som uten å ha de i foregående ledd nevnte kvalifikasjoner, driver håndverksvirksomhet og har lang praksis i faget når loven her trer i kraft.
 
 Søknad om registrering etter første – og om mesterbrev etter annet ledd – må sendes innen ett år etter denne lovs ikrafttreden. Når særlige grunner gjør det rimelig kan det gjøres unntak fra søknadsfristen.
+
+1 Inkurie: Skal være [lov 19. juni 1970 nr. 59](lov/1970-06-19-59), som er opphevet ved [lov 17 juli 1998 nr. 61](lov/1998-07-17-61) fra 1 aug 1999.
 
 ## § 10.
 

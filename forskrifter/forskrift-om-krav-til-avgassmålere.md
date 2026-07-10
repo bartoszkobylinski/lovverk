@@ -68,15 +68,38 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som avgassmåle
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt avgassmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C |
+
 ### § 8. Mekaniske miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter avgassmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter avgassmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter avgassmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
 
 ### § 9. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter avgassmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter avgassmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter avgassmålere som får strøm fra batteriet i et kjøretøy. Slike avgassmålere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -172,6 +195,16 @@ I dette avsnittet menes med:*Avgassmåler:* En avgassmåler er et måleredskap t
 
 Klassene 0 og I defineres for avgassmålere. De relevante minste måleområder for disse klassene er vist i tabell 4.
 
+*Tabell 4*
+
+| *Parameter* | *Klasse 0 og I* |
+| --- | --- |
+| CO-andel | fra 0 til 5 % vol. |
+| CO2-andel | fra 0 til 16 % vol. |
+| HC-andel | fra 0 til 2 000 ppm vol. |
+| O2-andel | fra 0 til 21 % vol. |
+| λ | fra 0,8 til 1,2 |
+
 ### § 25. Angitte driftsbetingelser
 
 Verdiene av de angitte driftsbetingelser skal angis av produsenten som følger:For de klimatiske og mekaniske påvirkende størrelser:Et minste temperaturintervall på 35 °C for det klimatiske miljøSom mekanisk miljø anvendes klasse M1For påvirkende størrelser som skyldes elektrisk strømforsyning:Spennings- og frekvensområde for vekselspenningsforsyningGrensene for likespenningsforsyningFor lufttrykk: Minimums- og maksimumsverdier for lufttrykket er for begge klasser: pmin ≤ 860 hPa, pmax  225 > 1 060 hPa.
@@ -179,6 +212,16 @@ Verdiene av de angitte driftsbetingelser skal angis av produsenten som følger:F
 ### § 26. Maksimale tillatte målefeil
 
 For hver av de målte andelene er maksimale tillatte målefeil ved angitte driftsbetingelser i henhold til [§ 5](forskrift/2007-12-21-1744/§5) den største av de to verdiene i tabell 5. Absoluttverdier uttrykkes i  % vol. eller ppm vol. hvor prosentverdier er prosent av sann verdi.
+
+*Tabell 5*
+
+| *Maksimale tillatte målefeil* |  |  |
+| --- | --- | --- |
+| *Parameter* | *Klasse 0* | *Klasse I* |
+| CO-andel | ± 0,03 % vol.<br>± 5 % | ± 0,06 % vol.<br>± 5 % |
+| CO2-andel | ± 0,5 % vol.<br>± 5 % | ± 0,5 % vol.<br>± 5 % |
+| HC-andel | ± 10 ppm vol.<br>± 5 % | ± 12 ppm vol.<br>± 5 % |
+| O2-andel | ± 0,1 % vol.<br>± 5 % | ± 0,1 % vol.<br>± 5 % |
 
 Maksimale tillatte målefeil ved lambdaberegningen er 0,3 %. Den konvensjonelle sanne verdien beregnes etter formelen definert i punkt 5.3.7.3 i de forente nasjoners økonomiske kommisjon for Europa (UN/ECE) forordning nr. 83 om uniforme bestemmelser for godkjenning av kjøretøy med hensyn til forurenseres utslipp i henhold til krav til drivstoff.
 
@@ -193,6 +236,14 @@ Virkningen av en elektromagnetisk forstyrrelse skal være slik at endringen i m�
 ### § 28. Andre krav
 
 Oppløsningen skal være lik eller én størrelsesorden høyere enn verdiene vist i tabell 6. Lambdaverdien skal vises med en oppløsning på 0,001.
+
+*Tabell 6*
+
+|  | *CO* | *CO2* | *O2* | *HC* |
+| --- | --- | --- | --- | --- |
+| *Klasse 0 og klasse I* | 0,01 % vol. | 0,1 % vol. | 1 | 1 ppm vol. |
+
+1 0,01 % vol. for målte verdier under eller lik 4 % vol, ellers 0,1 % vol.
 
 Standardavviket for 20 målinger skal ikke overstige en tredel av absoluttverdien av maksimal tillatt målefeil for hver aktuelle gassvolumandel.
 

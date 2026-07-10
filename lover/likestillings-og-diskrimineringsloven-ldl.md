@@ -271,6 +271,8 @@ Styret i aksjeselskaper og allmennaksjeselskaper skal sørge for at plikten til 
 
 > Tilføyd ved [lov 21 juni 2019 nr. 57](lov/2019-06-21-57) (ikr. 1 jan 2020 iflg. [res. 21 juni 2019 nr. 776](forskrift/2019-06-21-776)).
 
+1 Inkurie: Regnskapsloven § 3-3 c om redegjørelse om samfunnsansvar ble opphevet 1. november 2024.
+
 ### § 27. Innhold i læremidler og undervisning
 
 I barnehager, skoler og andre utdanningsinstitusjoner som tilbyr opplæring med grunnlag i lov, skal læremidlene og undervisningen bygge på formålet med loven her.
@@ -413,6 +415,8 @@ Digitaliseringsdirektoratet kan gi dispensasjon fra fristene dersom det vil vær
 
 Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 21. juni 2013 nr. 58](lov/2013-06-21-58) om forbud mot diskriminering på grunn av seksuell orientering, kjønnsidentitet og kjønnsuttrykk, [lov 21. juni 2013 nr. 59](lov/2013-06-21-59) om likestilling mellom kjønnene, [lov 21. juni 2013 nr. 60](lov/2013-06-21-60) om forbud mot diskriminering på grunn av etnisitet, religion og livssyn og [lov 21. juni 2013 nr. 61](lov/2013-06-21-61) om forbud mot diskriminering på grunn av nedsatt funksjonsevne.
 
+1 Fra 1 jan 2018 iflg. [res. 16 juni 2017 nr. 751](forskrift/2017-06-16-751).
+
 ### § 43. Videreføring av forskrifter
 
 Forskrifter gitt i medhold av [lov 9. juni 1978 nr. 45](lov/1978-06-09-45) om likestilling mellom kjønnene og i medhold av [lov 20. juni 2008 nr. 42](lov/2008-06-20-42) om forbud mot diskriminering på grunn av nedsatt funksjonsevne gjelder også etter at denne loven har trådt i kraft.
@@ -461,19 +465,19 @@ Have agreed as follows:
 
 ### Art 1
 
-1. In this Convention, the term «racial discrimination» shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
+1\. In this Convention, the term «racial discrimination» shall mean any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise, on an equal footing, of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life.
 
-2. This Convention shall not apply to distinctions, exclusions, restrictions or preferences made by a State Party to this Convention between citizens and non-citizens.
+2\. This Convention shall not apply to distinctions, exclusions, restrictions or preferences made by a State Party to this Convention between citizens and non-citizens.
 
-3. Nothing in this Convention may be interpreted as affecting in any way the legal provisions of States Parties concerning nationality, citizenship or naturalization, provided that such provisions do not discriminate against any particular nationality.
+3\. Nothing in this Convention may be interpreted as affecting in any way the legal provisions of States Parties concerning nationality, citizenship or naturalization, provided that such provisions do not discriminate against any particular nationality.
 
-4. Special measures taken for the sole purpose of securing adequate advancement of certain racial or ethnic groups or individuals requiring such protection as may be necessary in order to ensure such groups or individuals equal enjoyment or exercise of human rights and fundamental freedoms shall not be deemed racial discrimination, provided, however, that such measures do not, as a consequence, lead to the maintenance of separate rights for different racial groups and that they shall not be continued after the objectives for which they were taken have been achieved.
+4\. Special measures taken for the sole purpose of securing adequate advancement of certain racial or ethnic groups or individuals requiring such protection as may be necessary in order to ensure such groups or individuals equal enjoyment or exercise of human rights and fundamental freedoms shall not be deemed racial discrimination, provided, however, that such measures do not, as a consequence, lead to the maintenance of separate rights for different racial groups and that they shall not be continued after the objectives for which they were taken have been achieved.
 
 ### Art 2
 
-1. States Parties condemn racial discrimination and undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms and promoting understanding among all races, and, to this end:Each State Party undertakes to engage in no act or practice of racial discrimination against persons, groups of persons or institutions and to ensure that all public authorities and public institutions, national and local, shall act in conformity with this obligation;Each State Party undertakes not to sponsor, defend or support racial discrimination by any persons or organizations;Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;Each State Party undertakes to encourage, where appropriate, integrationist multiracial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
+1\. States Parties condemn racial discrimination and undertake to pursue by all appropriate means and without delay a policy of eliminating racial discrimination in all its forms and promoting understanding among all races, and, to this end:Each State Party undertakes to engage in no act or practice of racial discrimination against persons, groups of persons or institutions and to ensure that all public authorities and public institutions, national and local, shall act in conformity with this obligation;Each State Party undertakes not to sponsor, defend or support racial discrimination by any persons or organizations;Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;Each State Party undertakes to encourage, where appropriate, integrationist multiracial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
 
-2. States Parties shall, when the circumstances so warrant, take, in the social, economic, cultural and other fields, special and concrete measures to ensure the adequate development and protection of certain racial groups or individuals belonging to them, for the purpose of guaranteeing them the full and equal enjoyment of human rights and fundamental freedoms. These measures shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved.
+2\. States Parties shall, when the circumstances so warrant, take, in the social, economic, cultural and other fields, special and concrete measures to ensure the adequate development and protection of certain racial groups or individuals belonging to them, for the purpose of guaranteeing them the full and equal enjoyment of human rights and fundamental freedoms. These measures shall in no case entail as a consequence the maintenance of unequal or separate rights for different racial groups after the objectives for which they were taken have been achieved.
 
 ### Art 3
 
@@ -499,101 +503,101 @@ States Parties undertake to adopt immediate and effective measures, particularly
 
 ### Art 8
 
-1. There shall be established a Committee on the Elimination of Racial Discrimination (hereinafter referred to as the Committee) consisting of eighteen experts of high moral standing and acknowledged impartiality elected by States Parties from among their nationals, who shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilization as well as of the principal legal systems.
+1\. There shall be established a Committee on the Elimination of Racial Discrimination (hereinafter referred to as the Committee) consisting of eighteen experts of high moral standing and acknowledged impartiality elected by States Parties from among their nationals, who shall serve in their personal capacity, consideration being given to equitable geographical distribution and to the representation of the different forms of civilization as well as of the principal legal systems.
 
-2. The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties. Each State Party may nominate one person from among its own nationals.
+2\. The members of the Committee shall be elected by secret ballot from a list of persons nominated by the States Parties. Each State Party may nominate one person from among its own nationals.
 
-3. The initial election shall be held six months after the date of the entry into force of this Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
+3\. The initial election shall be held six months after the date of the entry into force of this Convention. At least three months before the date of each election the Secretary-General of the United Nations shall address a letter to the States Parties inviting them to submit their nominations within two months. The Secretary-General shall prepare a list in alphabetical order of all persons thus nominated, indicating the States Parties which have nominated them, and shall submit it to the States Parties.
 
-4. Elections of the members of the Committee shall be held at a meeting of States. Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
+4\. Elections of the members of the Committee shall be held at a meeting of States. Parties convened by the Secretary-General at United Nations Headquarters. At that meeting, for which two thirds of the States Parties shall constitute a quorum, the persons elected to the Committee shall be nominees who obtain the largest number of votes and an absolute majority of the votes of the representatives of States Parties present and voting.
 
 5.The members of the Committee shall be elected for a term of four years. However, the terms of nine of the members elected at the first election shall expire at the end of two years; immediately after the first election the names of these nine members shall be chosen by lot by the Chairman of the Committee;For the filling of casual vacancies, the State Party whose expert has ceased to function as a member of the Committee shall appoint another expert from among its nationals, subject to the approval of the Committee.
 
-6. States Parties shall be responsible for the expenses of the members of the Committee while they are in performance of Committee duties (amendment (see General Assembly resolution 47/111 of 16 December 1992)).
+6\. States Parties shall be responsible for the expenses of the members of the Committee while they are in performance of Committee duties (amendment (see General Assembly resolution 47/111 of 16 December 1992)).
 
 ### Art 9
 
-1. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:within one year after the entry into force of the Convention for the State concerned; andthereafter every two years and whenever the Committee so requests. The Committee may request further information from the States Parties.
+1\. States Parties undertake to submit to the Secretary-General of the United Nations, for consideration by the Committee, a report on the legislative, judicial, administrative or other measures which they have adopted and which give effect to the provisions of this Convention:within one year after the entry into force of the Convention for the State concerned; andthereafter every two years and whenever the Committee so requests. The Committee may request further information from the States Parties.
 
-2. The Committee shall report annually, through the Secretary-General, to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of the reports and information received from the States Parties. Such suggestions and general recommendations shall be reported to the General Assembly together with comments, if any, from States Parties.
+2\. The Committee shall report annually, through the Secretary-General, to the General Assembly of the United Nations on its activities and may make suggestions and general recommendations based on the examination of the reports and information received from the States Parties. Such suggestions and general recommendations shall be reported to the General Assembly together with comments, if any, from States Parties.
 
 ### Art 10
 
-1. The Committee shall adopt its own rules of procedure.
+1\. The Committee shall adopt its own rules of procedure.
 
-2. The Committee shall elect its officers for a term of two years.
+2\. The Committee shall elect its officers for a term of two years.
 
-3. The secretariat of the Committee shall be provided by the Secretary-General of the United Nations.
+3\. The secretariat of the Committee shall be provided by the Secretary-General of the United Nations.
 
-4. The meetings of the Committee shall normally be held at United Nations Headquarters.
+4\. The meetings of the Committee shall normally be held at United Nations Headquarters.
 
 ### Art 11
 
-1. If a State Party considers that another State Party is not giving effect to the provisions of this Convention, it may bring the matter to the attention of the Committee. The Committee shall then transmit the communication to the State Party concerned. Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
+1\. If a State Party considers that another State Party is not giving effect to the provisions of this Convention, it may bring the matter to the attention of the Committee. The Committee shall then transmit the communication to the State Party concerned. Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
 
-2. If the matter is not adjusted to the satisfaction of both parties, either by bilateral negotiations or by any other procedure open to them, within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter again to the Committee by notifying the Committee and also the other State.
+2\. If the matter is not adjusted to the satisfaction of both parties, either by bilateral negotiations or by any other procedure open to them, within six months after the receipt by the receiving State of the initial communication, either State shall have the right to refer the matter again to the Committee by notifying the Committee and also the other State.
 
-3. The Committee shall deal with a matter referred to it in accordance with paragraph 2 of this article after it has ascertained that all available domestic remedies have been invoked and exhausted in the case, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.
+3\. The Committee shall deal with a matter referred to it in accordance with paragraph 2 of this article after it has ascertained that all available domestic remedies have been invoked and exhausted in the case, in conformity with the generally recognized principles of international law. This shall not be the rule where the application of the remedies is unreasonably prolonged.
 
-4. In any matter referred to it, the Committee may call upon the States Parties concerned to supply any other relevant information.
+4\. In any matter referred to it, the Committee may call upon the States Parties concerned to supply any other relevant information.
 
-5. When any matter arising out of this article is being considered by the Committee, the States Parties concerned shall be entitled to send a representative to take part in the proceedings of the Committee, without voting rights, while the matter is under consideration.
+5\. When any matter arising out of this article is being considered by the Committee, the States Parties concerned shall be entitled to send a representative to take part in the proceedings of the Committee, without voting rights, while the matter is under consideration.
 
 ### Art 12
 
 1.After the Committee has obtained and collated all the information it deems necessary, the Chairman shall appoint an *ad hoc* Conciliation Commission (hereinafter referred to as the Commission) comprising five persons who may or may not be members of the Committee. The members of the Commission shall be appointed with the unanimous consent of the parties to the dispute, and its good offices shall be made available to the States concerned with a view to an amicable solution of the matter on the basis of respect for this Convention;If the States parties to the dispute fail to reach agreement within three months on all or part of the composition of the Commission, the members of the Commission not agreed upon by the States parties to the dispute shall be elected by secret ballot by a two-thirds majority vote of the Committee from among its own members.
 
-2. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
+2\. The members of the Commission shall serve in their personal capacity. They shall not be nationals of the States parties to the dispute or of a State not Party to this Convention.
 
-3. The Commission shall elect its own Chairman and adopt its own rules of procedure.
+3\. The Commission shall elect its own Chairman and adopt its own rules of procedure.
 
-4. The meetings of the Commission shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Commission.
+4\. The meetings of the Commission shall normally be held at United Nations Headquarters or at any other convenient place as determined by the Commission.
 
-5. The secretariat provided in accordance with article 10, paragraph 3, of this Convention shall also service the Commission whenever a dispute among States Parties brings the Commission into being.
+5\. The secretariat provided in accordance with article 10, paragraph 3, of this Convention shall also service the Commission whenever a dispute among States Parties brings the Commission into being.
 
-6. The States parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations.
+6\. The States parties to the dispute shall share equally all the expenses of the members of the Commission in accordance with estimates to be provided by the Secretary-General of the United Nations.
 
-7. The Secretary-General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
+7\. The Secretary-General shall be empowered to pay the expenses of the members of the Commission, if necessary, before reimbursement by the States parties to the dispute in accordance with paragraph 6 of this article.
 
-8. The information obtained and collated by the Committee shall be made available to the Commission, and the Commission may call upon the States concerned to supply any other relevant information.
+8\. The information obtained and collated by the Committee shall be made available to the Commission, and the Commission may call upon the States concerned to supply any other relevant information.
 
 ### Art 13
 
-1. When the Commission has fully considered the matter, it shall prepare and submit to the Chairman of the Committee a report embodying its findings on all questions of fact relevant to the issue between the parties and containing such recommendations as it may think proper for the amicable solution of the dispute.
+1\. When the Commission has fully considered the matter, it shall prepare and submit to the Chairman of the Committee a report embodying its findings on all questions of fact relevant to the issue between the parties and containing such recommendations as it may think proper for the amicable solution of the dispute.
 
-2. The Chairman of the Committee shall communicate the report of the Commission to each of the States parties to the dispute. These States shall, within three months, inform the Chairman of the Committee whether or not they accept the recommendations contained in the report of the Commission.
+2\. The Chairman of the Committee shall communicate the report of the Commission to each of the States parties to the dispute. These States shall, within three months, inform the Chairman of the Committee whether or not they accept the recommendations contained in the report of the Commission.
 
-3. After the period provided for in paragraph 2 of this article, the Chairman of the Committee shall communicate the report of the Commission and the declarations of the States Parties concerned to the other States Parties to this Convention.
+3\. After the period provided for in paragraph 2 of this article, the Chairman of the Committee shall communicate the report of the Commission and the declarations of the States Parties concerned to the other States Parties to this Convention.
 
 ### Art 14
 
-1. A State Party may at any time declare that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by that State Party of any of the rights set forth in this Convention. No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration.
+1\. A State Party may at any time declare that it recognizes the competence of the Committee to receive and consider communications from individuals or groups of individuals within its jurisdiction claiming to be victims of a violation by that State Party of any of the rights set forth in this Convention. No communication shall be received by the Committee if it concerns a State Party which has not made such a declaration.
 
-2. Any State Party which makes a declaration as provided for in paragraph I of this article may establish or indicate a body within its national legal order which shall be competent to receive and consider petitions from individuals and groups of individuals within its jurisdiction who claim to be victims of a violation of any of the rights set forth in this Convention and who have exhausted other available local remedies.
+2\. Any State Party which makes a declaration as provided for in paragraph I of this article may establish or indicate a body within its national legal order which shall be competent to receive and consider petitions from individuals and groups of individuals within its jurisdiction who claim to be victims of a violation of any of the rights set forth in this Convention and who have exhausted other available local remedies.
 
-3. A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of this article shall be deposited by the State Party concerned with the Secretary-General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary-General, but such a withdrawal shall not affect communications pending before the Committee.
+3\. A declaration made in accordance with paragraph 1 of this article and the name of any body established or indicated in accordance with paragraph 2 of this article shall be deposited by the State Party concerned with the Secretary-General of the United Nations, who shall transmit copies thereof to the other States Parties. A declaration may be withdrawn at any time by notification to the Secretary-General, but such a withdrawal shall not affect communications pending before the Committee.
 
-4. A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary-General on the understanding that the contents shall not be publicly disclosed.
+4\. A register of petitions shall be kept by the body established or indicated in accordance with paragraph 2 of this article, and certified copies of the register shall be filed annually through appropriate channels with the Secretary-General on the understanding that the contents shall not be publicly disclosed.
 
-5. In the event of failure to obtain satisfaction from the body established or indicated in accordance with paragraph 2 of this article, the petitioner shall have the right to communicate the matter to the Committee within six months.
+5\. In the event of failure to obtain satisfaction from the body established or indicated in accordance with paragraph 2 of this article, the petitioner shall have the right to communicate the matter to the Committee within six months.
 
 6.The Committee shall confidentially bring any communication referred to it to the attention of the State Party alleged to be violating any provision of this Convention, but the identity of the individual or groups of individuals concerned shall not be revealed without his or their express consent. The Committee shall not receive anonymous communications.Within three months, the receiving State shall submit to the Committee written explanations or statements clarifying the matter and the remedy, if any, that may have been taken by that State.
 
 7.The Committee shall consider communications in the light of all information made available to it by the State Party concerned and by the petitioner. The Committee shall not consider any communication from a petitioner unless it has ascertained that the petitioner has exhausted all available domestic remedies. However, this shall not be the rule where the application of the remedies is unreasonably prolonged.The Committee shall forward its suggestions and recommendations, if any, to the State Party concerned and to the petitioner.
 
-8. The Committee shall include in its annual report a summary of such communications and, where appropriate, a summary of the explanations and statements of the States Parties concerned and of its own suggestions and recommendations.
+8\. The Committee shall include in its annual report a summary of such communications and, where appropriate, a summary of the explanations and statements of the States Parties concerned and of its own suggestions and recommendations.
 
-9. The Committee shall be competent to exercise the functions provided for in this article only when at least ten States Parties to this Convention are bound by declarations in accordance with paragraph I of this article.
+9\. The Committee shall be competent to exercise the functions provided for in this article only when at least ten States Parties to this Convention are bound by declarations in accordance with paragraph I of this article.
 
 ### Art 15
 
-1. Pending the achievement of the objectives of the Declaration on the Granting of Independence to Colonial Countries and Peoples, contained in General Assembly resolution 1514 (XV) of 14 December 1960, the provisions of this Convention shall in no way limit the right of petition granted to these peoples by other international instruments or by the United Nations and its specialized agencies.
+1\. Pending the achievement of the objectives of the Declaration on the Granting of Independence to Colonial Countries and Peoples, contained in General Assembly resolution 1514 (XV) of 14 December 1960, the provisions of this Convention shall in no way limit the right of petition granted to these peoples by other international instruments or by the United Nations and its specialized agencies.
 
 2.The Committee established under article 8, paragraph 1, of this Convention shall receive copies of the petitions from, and submit expressions of opinion and recommendations on these petitions to, the bodies of the United Nations which deal with matters directly related to the principles and objectives of this Convention in their consideration of petitions from the inhabitants of Trust and Non-Self-Governing Territories and all other territories to which General Assembly resolution 1514 (XV) applies, relating to matters covered by this Convention which are before these bodies.The Committee shall receive from the competent bodies of the United Nations copies of the reports concerning the legislative, judicial, administrative or other measures directly related to the principles and objectives of this Convention applied by the administering Powers within the Territories mentioned in subparagraph (a) of this paragraph, and shall express opinions and make recommendations to these bodies.
 
-3. The Committee shall include in its report to the General Assembly a summary of the petitions and reports it has received from United Nations bodies, and the expressions of opinion and recommendations of the Committee relating to the said petitions and reports.
+3\. The Committee shall include in its report to the General Assembly a summary of the petitions and reports it has received from United Nations bodies, and the expressions of opinion and recommendations of the Committee relating to the said petitions and reports.
 
-4. The Committee shall request from the Secretary-General of the United Nations all information relevant to the objectives of this Convention and available to him regarding the Territories mentioned in paragraph 2 (a) of this article.
+4\. The Committee shall request from the Secretary-General of the United Nations all information relevant to the objectives of this Convention and available to him regarding the Territories mentioned in paragraph 2 (a) of this article.
 
 ### Art 16
 
@@ -603,29 +607,29 @@ The provisions of this Convention concerning the settlement of disputes or compl
 
 ### Art 17
 
-1. This Convention is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a Party to this Convention.
+1\. This Convention is open for signature by any State Member of the United Nations or member of any of its specialized agencies, by any State Party to the Statute of the International Court of Justice, and by any other State which has been invited by the General Assembly of the United Nations to become a Party to this Convention.
 
-2. This Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
+2\. This Convention is subject to ratification. Instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
 ### Art 18
 
-1. This Convention shall be open to accession by any State referred to in article 17, paragraph 1, of the Convention.
+1\. This Convention shall be open to accession by any State referred to in article 17, paragraph 1, of the Convention.
 
-2. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
+2\. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 ### Art 19
 
-1. This Convention shall enter into force on the thirtieth day after the date of the deposit with the Secretary-General of the United Nations of the twenty-seventh instrument of ratification or instrument of accession.
+1\. This Convention shall enter into force on the thirtieth day after the date of the deposit with the Secretary-General of the United Nations of the twenty-seventh instrument of ratification or instrument of accession.
 
-2. For each State ratifying this Convention or acceding to it after the deposit of the twenty-seventh instrument of ratification or instrument of accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or instrument of accession.
+2\. For each State ratifying this Convention or acceding to it after the deposit of the twenty-seventh instrument of ratification or instrument of accession, the Convention shall enter into force on the thirtieth day after the date of the deposit of its own instrument of ratification or instrument of accession.
 
 ### Art 20
 
-1. The Secretary-General of the United Nations shall receive and circulate to all States which are or may become Parties to this Convention reservations made by States at the time of ratification or accession. Any State which objects to the reservation shall, within a period of ninety days from the date of the said communication, notify the Secretary-General that it does not accept it.
+1\. The Secretary-General of the United Nations shall receive and circulate to all States which are or may become Parties to this Convention reservations made by States at the time of ratification or accession. Any State which objects to the reservation shall, within a period of ninety days from the date of the said communication, notify the Secretary-General that it does not accept it.
 
-2. A reservation incompatible with the object and purpose of this Convention shall not be permitted, nor shall a reservation the effect of which would inhibit the operation of any of the bodies established by this Convention be allowed. A reservation shall be considered incompatible or inhibitive if at least two thirds of the States Parties to this Convention object to it.
+2\. A reservation incompatible with the object and purpose of this Convention shall not be permitted, nor shall a reservation the effect of which would inhibit the operation of any of the bodies established by this Convention be allowed. A reservation shall be considered incompatible or inhibitive if at least two thirds of the States Parties to this Convention object to it.
 
-3. Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General. Such notification shall take effect on the date on which it is received.
+3\. Reservations may be withdrawn at any time by notification to this effect addressed to the Secretary-General. Such notification shall take effect on the date on which it is received.
 
 ### Art 21
 
@@ -637,9 +641,9 @@ Any dispute between two or more States Parties with respect to the interpretatio
 
 ### Art 23
 
-1. A request for the revision of this Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
+1\. A request for the revision of this Convention may be made at any time by any State Party by means of a notification in writing addressed to the Secretary-General of the United Nations.
 
-2. The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
+2\. The General Assembly of the United Nations shall decide upon the steps, if any, to be taken in respect of such a request.
 
 ### Art 24
 
@@ -647,9 +651,9 @@ The Secretary-General of the United Nations shall inform all States referred to 
 
 ### Art 25
 
-1. This Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
+1\. This Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited in the archives of the United Nations.
 
-2. The Secretary-General of the United Nations shall transmit certified copies of this Convention to all States belonging to any of the categories mentioned in article 17, paragraph 1, of the Convention.
+2\. The Secretary-General of the United Nations shall transmit certified copies of this Convention to all States belonging to any of the categories mentioned in article 17, paragraph 1, of the Convention.
 
 ## Vedlegg 2. Internasjonal konvensjon om avskaffelse av alle former for rasediskriminering (norsk oversettelse)
 
@@ -679,7 +683,7 @@ De stater som er part i denne konvensjon,
 
 *som er fast bestemt på* å treffe alle tiltak som er nødvendige for raskt å kunne avskaffe alle former for og utslag av rasediskriminering, og på å hindre og bekjempe rasistiske teorier og rasistisk praksis med sikte på å fremme forståelsen mellom rasene og bygge et internasjonalt samfunn uten noen former for raseskille og rasediskriminering,
 
-*som er oppmerksom på*[Konvensjon om diskriminering i sysselsetting og yrke](traktat/1958-06-25-1) som ble vedtatt av Den internasjonale arbeidsorganisasjonen i 1958, og Konvensjon mot diskriminering i undervisning som ble vedtatt av De forente nasjoners organisasjon for utdanning, vitenskap og kultur i 1960,
+*som er oppmerksom på* [Konvensjon om diskriminering i sysselsetting og yrke](traktat/1958-06-25-1) som ble vedtatt av Den internasjonale arbeidsorganisasjonen i 1958, og Konvensjon mot diskriminering i undervisning som ble vedtatt av De forente nasjoners organisasjon for utdanning, vitenskap og kultur i 1960,
 
 *som ønsker* å gjennomføre de prinsipper som er nedfelt i De forente nasjoners erklæring om avskaffelse av alle former for rasediskriminering, og for dette formål å sikre at praktiske tiltak blir vedtatt så snart som mulig,
 
@@ -689,19 +693,19 @@ er enige om følgende:
 
 ### Art 1
 
-1. I denne konvensjon menes med uttrykket «rasediskriminering», enhver forskjellsbehandling, utestengning, begrensning eller begunstigelse på grunn av rase, hudfarge, avstamning eller nasjonal eller etnisk opprinnelse som har som formål eller virkning å oppheve eller svekke anerkjennelsen, nytelsen eller utøvelsen av menneskerettighetene og de grunnleggende friheter, på like vilkår, innenfor det politiske, økonomiske, sosiale og kulturelle området, eller innenfor andre områder av det offentlige liv.
+1\. I denne konvensjon menes med uttrykket «rasediskriminering», enhver forskjellsbehandling, utestengning, begrensning eller begunstigelse på grunn av rase, hudfarge, avstamning eller nasjonal eller etnisk opprinnelse som har som formål eller virkning å oppheve eller svekke anerkjennelsen, nytelsen eller utøvelsen av menneskerettighetene og de grunnleggende friheter, på like vilkår, innenfor det politiske, økonomiske, sosiale og kulturelle området, eller innenfor andre områder av det offentlige liv.
 
-2. Denne konvensjon får ikke anvendelse når en konvensjonspart treffer tiltak overfor sine statsborgere, henholdsvis ikke-statsborgere, som innebærer forskjellsbehandling, utestengning, begrensning eller begunstigelse.
+2\. Denne konvensjon får ikke anvendelse når en konvensjonspart treffer tiltak overfor sine statsborgere, henholdsvis ikke-statsborgere, som innebærer forskjellsbehandling, utestengning, begrensning eller begunstigelse.
 
-3. Ingen bestemmelse i denne konvensjon kan fortolkes slik at den på noen måte berører en parts rettsregler om nasjonalitet, statsborgerskap eller naturalisering, forutsatt at disse regler ikke diskriminerer noen bestemt nasjonalitet.
+3\. Ingen bestemmelse i denne konvensjon kan fortolkes slik at den på noen måte berører en parts rettsregler om nasjonalitet, statsborgerskap eller naturalisering, forutsatt at disse regler ikke diskriminerer noen bestemt nasjonalitet.
 
-4. Særlige tiltak som treffes utelukkende for å sikre en tilfredsstillende framgang for grupper eller enkeltpersoner som har en bestemt rasemessig eller etnisk tilhørighet, og som har behov for nødvendig beskyttelse for å kunne nyte eller utøve menneskerettighetene og de grunnleggende friheter, skal ikke anses som rasediskriminering, forutsatt at disse tiltak ikke fører til at det opprettholdes atskilte rettigheter for grupper med ulik rasemessig tilhørighet, og forutsatt at tiltakene ikke skal bestå etter at de mål som lå til grunn for tiltakene, er nådd.
+4\. Særlige tiltak som treffes utelukkende for å sikre en tilfredsstillende framgang for grupper eller enkeltpersoner som har en bestemt rasemessig eller etnisk tilhørighet, og som har behov for nødvendig beskyttelse for å kunne nyte eller utøve menneskerettighetene og de grunnleggende friheter, skal ikke anses som rasediskriminering, forutsatt at disse tiltak ikke fører til at det opprettholdes atskilte rettigheter for grupper med ulik rasemessig tilhørighet, og forutsatt at tiltakene ikke skal bestå etter at de mål som lå til grunn for tiltakene, er nådd.
 
 ### Art 2
 
-1. Konvensjonspartene fordømmer rasediskriminering og forplikter seg til, uten opphold og med alle egnede midler, å føre en politikk som tar sikte på å avskaffe alle former for rasediskriminering og øke forståelsen mellom alle raser, og for dette formålforplikter hver konvensjonspart seg til ikke å ta del i noen handling eller praksis som innebærer rasediskriminering overfor personer, grupper av personer eller institusjoner, og å sørge for at alle offentlige myndigheter og offentlige institusjoner, på nasjonalt og lokalt nivå, handler i tråd med denne forpliktelse,forplikter hver konvensjonspart seg til ikke å oppmuntre til, forsvare eller støtte rasediskriminering fra noen personers eller organisasjoners side,skal hver konvensjonspart treffe effektive tiltak for å gjennomgå offentlig politikk på nasjonalt og lokalt nivå, og endre, oppheve eller sette ut av kraft alle lover og forskrifter som fører til rasediskriminering, eller som opprettholder rasediskriminering der dette forekommer,skal hver konvensjonspart med alle egnede midler, herunder lovgivning om forholdene tilsier det, forby og bringe til opphør rasediskriminering fra enhver persons, gruppes eller organisasjons side,forplikter hver konvensjonspart seg til, når det er hensiktsmessig, å fremme organisasjoner og bevegelser som driver integreringsarbeid på tvers av raser, samt andre tiltak som tar sikte på fjerne rasemessige barrierer, og å motarbeide alt som bidrar til å øke raseskillet.
+1\. Konvensjonspartene fordømmer rasediskriminering og forplikter seg til, uten opphold og med alle egnede midler, å føre en politikk som tar sikte på å avskaffe alle former for rasediskriminering og øke forståelsen mellom alle raser, og for dette formålforplikter hver konvensjonspart seg til ikke å ta del i noen handling eller praksis som innebærer rasediskriminering overfor personer, grupper av personer eller institusjoner, og å sørge for at alle offentlige myndigheter og offentlige institusjoner, på nasjonalt og lokalt nivå, handler i tråd med denne forpliktelse,forplikter hver konvensjonspart seg til ikke å oppmuntre til, forsvare eller støtte rasediskriminering fra noen personers eller organisasjoners side,skal hver konvensjonspart treffe effektive tiltak for å gjennomgå offentlig politikk på nasjonalt og lokalt nivå, og endre, oppheve eller sette ut av kraft alle lover og forskrifter som fører til rasediskriminering, eller som opprettholder rasediskriminering der dette forekommer,skal hver konvensjonspart med alle egnede midler, herunder lovgivning om forholdene tilsier det, forby og bringe til opphør rasediskriminering fra enhver persons, gruppes eller organisasjons side,forplikter hver konvensjonspart seg til, når det er hensiktsmessig, å fremme organisasjoner og bevegelser som driver integreringsarbeid på tvers av raser, samt andre tiltak som tar sikte på fjerne rasemessige barrierer, og å motarbeide alt som bidrar til å øke raseskillet.
 
-2. Konvensjonspartene skal, når forholdene tilsier det, treffe særlige og konkrete tiltak på de sosiale, økonomiske, kulturelle og andre områder for å sikre at grupper eller enkeltpersoner med en bestemt rasemessig tilhørighet får tilfredsstillende utvikling og beskyttelse, slik at de kan nyte sine menneskerettigheter og grunnleggende friheter fullt ut og på like vilkår. Disse tiltakene skal ikke under noen omstendighet medføre at det opprettholdes forskjellige eller atskilte rettigheter for grupper med ulik rasemessig tilknytning etter at de mål som lå til grunn for tiltakene, er nådd.
+2\. Konvensjonspartene skal, når forholdene tilsier det, treffe særlige og konkrete tiltak på de sosiale, økonomiske, kulturelle og andre områder for å sikre at grupper eller enkeltpersoner med en bestemt rasemessig tilhørighet får tilfredsstillende utvikling og beskyttelse, slik at de kan nyte sine menneskerettigheter og grunnleggende friheter fullt ut og på like vilkår. Disse tiltakene skal ikke under noen omstendighet medføre at det opprettholdes forskjellige eller atskilte rettigheter for grupper med ulik rasemessig tilknytning etter at de mål som lå til grunn for tiltakene, er nådd.
 
 ### Art 3
 
@@ -727,101 +731,101 @@ Konvensjonspartene forplikter seg til å treffe øyeblikkelige og effektive tilt
 
 ### Art 8
 
-1. Det opprettes en komité for avskaffelse av rasediskriminering (heretter kalt «komiteen»), bestående av 18 eksperter med godt omdømme og velkjent upartiskhet som konvensjonspartene har valgt ut blant sine statsborgere og som skal fungere i personlig egenskap, samtidig som det tas hensyn til en rettferdig geografisk fordeling og til at de ulike kulturer og de viktigste rettsystemer blir representert.
+1\. Det opprettes en komité for avskaffelse av rasediskriminering (heretter kalt «komiteen»), bestående av 18 eksperter med godt omdømme og velkjent upartiskhet som konvensjonspartene har valgt ut blant sine statsborgere og som skal fungere i personlig egenskap, samtidig som det tas hensyn til en rettferdig geografisk fordeling og til at de ulike kulturer og de viktigste rettsystemer blir representert.
 
-2. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som konvensjonspartene har utpekt. Hver konvensjonspart kan utpeke en person blant sine egne statsborgere.
+2\. Komiteens medlemmer skal velges ved hemmelig avstemning, fra en liste over personer som konvensjonspartene har utpekt. Hver konvensjonspart kan utpeke en person blant sine egne statsborgere.
 
-3. Det første valget skal holdes seks måneder etter at denne konvensjon er trådt i kraft. Minst tre måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til konvensjonspartene og oppfordre dem til å presentere sine utpekte kandidater innen to måneder. Generalsekretæren skal sette opp en liste i alfabetisk rekkefølge over alle personer som er utpekt på denne måten, med angivelse av hvilke konvensjonsparter som har utpekt dem, og skal oversende den til konvensjonspartene.
+3\. Det første valget skal holdes seks måneder etter at denne konvensjon er trådt i kraft. Minst tre måneder før et valg finner sted, skal De forente nasjoners generalsekretær henvende seg skriftlig til konvensjonspartene og oppfordre dem til å presentere sine utpekte kandidater innen to måneder. Generalsekretæren skal sette opp en liste i alfabetisk rekkefølge over alle personer som er utpekt på denne måten, med angivelse av hvilke konvensjonsparter som har utpekt dem, og skal oversende den til konvensjonspartene.
 
-4. Komiteens medlemmer skal velges på et møte mellom konvensjonspartene som er sammenkalt av Generalsekretæren, ved De forente nasjoners sete. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er til stede, er de kandidater valgt som får flest stemmer og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
+4\. Komiteens medlemmer skal velges på et møte mellom konvensjonspartene som er sammenkalt av Generalsekretæren, ved De forente nasjoners sete. På dette møtet, som er beslutningsdyktig når to tredjedeler av konvensjonspartene er til stede, er de kandidater valgt som får flest stemmer og et absolutt flertall av stemmene fra de representanter for konvensjonspartene som er til stede og avgir stemme.
 
 5.Komiteens medlemmer skal velges for en periode på fire år. For ni av medlemmene som blir valgt ved det første valget, skal imidlertid perioden utløpe etter to år; umiddelbart etter det første valget skal navnene på disse ni medlemmene bestemmes ved loddtrekning foretatt av komiteens leder,For å fylle plasser som blir ledige utenom tur, skal den konvensjonspart hvis ekspert ikke lenger utfører sine oppgaver som komitémedlem, oppnevne en annen ekspert blant sine statsborgere, med forbehold om komiteens godkjenning.
 
-6. Konvensjonspartene skal være ansvarlige for komitémedlemmenes utgifter så lenge de utfører oppgaver for komiteen (endring (se Generalforsamlingens resolusjon 47/111 av 16. desember 1992)).
+6\. Konvensjonspartene skal være ansvarlige for komitémedlemmenes utgifter så lenge de utfører oppgaver for komiteen (endring (se Generalforsamlingens resolusjon 47/111 av 16. desember 1992)).
 
 ### Art 9
 
-1. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjoninnen ett år etter at konvensjonen er trådt i kraft for vedkommende stat, ogderetter hvert annet år, og forøvrig på anmodning fra komiteen. Komiteen kan be konvensjonspartene om ytterligere opplysninger.
+1\. Konvensjonspartene forplikter seg til å forelegge en rapport for De forente nasjoners generalsekretær, med sikte på gjennomgang i komiteen, om de lovgivningsmessige, rettslige, administrative eller andre tiltak som de har vedtatt til gjennomføring av bestemmelsene i denne konvensjoninnen ett år etter at konvensjonen er trådt i kraft for vedkommende stat, ogderetter hvert annet år, og forøvrig på anmodning fra komiteen. Komiteen kan be konvensjonspartene om ytterligere opplysninger.
 
-2. Komiteen skal hvert år gi De forente nasjoners generalforsamling, via Generalsekretæren, en rapport om sin virksomhet, og den kan legge fram forslag og generelle anbefalinger på grunnlag av gjennomgangen av de rapporter og opplysninger som er mottatt fra konvensjonspartene. Generalforsamlingen skal gjøres kjent med slike forslag og generelle anbefalinger, sammen med eventuelle kommentarer fra konvensjonspartene.
+2\. Komiteen skal hvert år gi De forente nasjoners generalforsamling, via Generalsekretæren, en rapport om sin virksomhet, og den kan legge fram forslag og generelle anbefalinger på grunnlag av gjennomgangen av de rapporter og opplysninger som er mottatt fra konvensjonspartene. Generalforsamlingen skal gjøres kjent med slike forslag og generelle anbefalinger, sammen med eventuelle kommentarer fra konvensjonspartene.
 
 ### Art 10
 
-1. Komiteen skal selv vedta sin forretningsorden.
+1\. Komiteen skal selv vedta sin forretningsorden.
 
-2. Komiteen skal velge sine tillitsmenn for en periode på to år.
+2\. Komiteen skal velge sine tillitsmenn for en periode på to år.
 
-3. Generalsekretæren for De forente nasjoner skal ivareta komiteens sekretariat.
+3\. Generalsekretæren for De forente nasjoner skal ivareta komiteens sekretariat.
 
-4. Komiteens møter skal vanligvis holdes ved De forente nasjoners sete.
+4\. Komiteens møter skal vanligvis holdes ved De forente nasjoners sete.
 
 ### Art 11
 
-1. Dersom en konvensjonspart anser at en annen konvensjonspart ikke gjennomfører bestemmelsene i denne konvensjon, kan den bringe saken inn for komiteen. Komiteen skal så oversende meddelelsen til den berørte konvensjonspart. Innen tre måneder skal mottakerstaten gi komiteen en skriftlig forklaring eller uttalelse som bringer klarhet i saken, og eventuelt angi hvilke tiltak den har truffet for å rette på forholdet.
+1\. Dersom en konvensjonspart anser at en annen konvensjonspart ikke gjennomfører bestemmelsene i denne konvensjon, kan den bringe saken inn for komiteen. Komiteen skal så oversende meddelelsen til den berørte konvensjonspart. Innen tre måneder skal mottakerstaten gi komiteen en skriftlig forklaring eller uttalelse som bringer klarhet i saken, og eventuelt angi hvilke tiltak den har truffet for å rette på forholdet.
 
-2. Dersom saken ikke løses på en måte som er tilfredsstillende for begge parter innen seks måneder etter at mottakerstaten mottok den første meddelelsen, enten ved bilaterale forhandlinger eller ved en annen framgangsmåte som de har til rådighet, skal begge stater ha rett til å bringe saken inn for komiteen på nytt ved å sende en melding til komiteen og til den andre berørte stat.
+2\. Dersom saken ikke løses på en måte som er tilfredsstillende for begge parter innen seks måneder etter at mottakerstaten mottok den første meddelelsen, enten ved bilaterale forhandlinger eller ved en annen framgangsmåte som de har til rådighet, skal begge stater ha rett til å bringe saken inn for komiteen på nytt ved å sende en melding til komiteen og til den andre berørte stat.
 
-3. Komiteen skal behandle en sak den har fått seg forelagt i samsvar med nr. 2 i denne artikkel først etter at den har forvisset seg om at alle tilgjengelige interne rettsmidler er prøvd og uttømt, i samsvar med allment anerkjente prinsipper i folkeretten. Denne regelen skal ikke gjelde når anvendelsen av rettsmidlene tar urimelig lang tid.
+3\. Komiteen skal behandle en sak den har fått seg forelagt i samsvar med nr. 2 i denne artikkel først etter at den har forvisset seg om at alle tilgjengelige interne rettsmidler er prøvd og uttømt, i samsvar med allment anerkjente prinsipper i folkeretten. Denne regelen skal ikke gjelde når anvendelsen av rettsmidlene tar urimelig lang tid.
 
-4. Komiteen kan i alle saker den får seg forelagt, be de berørte konvensjonsparter legge fram ytterligere opplysninger av betydning for saken.
+4\. Komiteen kan i alle saker den får seg forelagt, be de berørte konvensjonsparter legge fram ytterligere opplysninger av betydning for saken.
 
-5. Når komiteen undersøker en sak etter denne artikkel, skal de berørte konvensjonsparter ha rett til å sende en representant som deltar, uten stemmerett, i komiteens arbeid så lenge saken er oppe til behandling.
+5\. Når komiteen undersøker en sak etter denne artikkel, skal de berørte konvensjonsparter ha rett til å sende en representant som deltar, uten stemmerett, i komiteens arbeid så lenge saken er oppe til behandling.
 
 ### Art 12
 
 1.Etter at komiteen har innhentet og samlet alle opplysninger den har behov for, skal lederen oppnevne en ad hoc forlikskommisjon (heretter kalt kommisjonen) bestående av fem personer som kan, men ikke behøver, være medlemmer av komiteen. Kommisjonsmedlemmene skal utpekes med enstemmig samtykke fra tvistens parter, og kommisjonen skal stille seg til rådighet for de berørte stater og tilby dem sin bistand i prosessen med å nå fram til en minnelig løsning der utgangspunktet er respekt for denne konvensjon,Dersom tvistens parter ikke innen tre måneder blir enige om kommisjonens sammensetning, helt eller delvis, skal de kommisjonsmedlemmer som det ikke er enighet om blant tvistens parter, velges av komiteen blant dens egne medlemmer, ved hemmelig avstemning og med to tredjedels flertall.
 
-2. Kommisjonsmedlemmene skal fungere i personlig egenskap. De skal ikke være statsborgere av de stater som er part i tvisten eller av en stat som ikke er konvensjonspart.
+2\. Kommisjonsmedlemmene skal fungere i personlig egenskap. De skal ikke være statsborgere av de stater som er part i tvisten eller av en stat som ikke er konvensjonspart.
 
-3. Kommisjonen skal velge sin leder og vedta sin forretningsorden.
+3\. Kommisjonen skal velge sin leder og vedta sin forretningsorden.
 
-4. Kommisjonens møter skal vanligvis holdes ved De forente nasjoners sete eller et annet sted som kommisjonen finner hensiktsmessig.
+4\. Kommisjonens møter skal vanligvis holdes ved De forente nasjoners sete eller et annet sted som kommisjonen finner hensiktsmessig.
 
-5. Det sekretariat som er omhandlet i artikkel 10 nr. 3, skal også stå til rådighet for kommisjonen når en tvist mellom konvensjonspartene medfører at kommisjonen konstitueres.
+5\. Det sekretariat som er omhandlet i artikkel 10 nr. 3, skal også stå til rådighet for kommisjonen når en tvist mellom konvensjonspartene medfører at kommisjonen konstitueres.
 
-6. Tvistens parter skal dele alle kommisjonsmedlemmenes utgifter likt seg imellom, i samsvar med beregninger foretatt av De forente nasjoners generalsekretær.
+6\. Tvistens parter skal dele alle kommisjonsmedlemmenes utgifter likt seg imellom, i samsvar med beregninger foretatt av De forente nasjoners generalsekretær.
 
-7. Generalsekretæren skal ha myndighet til om nødvendig å betale kommisjonsmedlemmenes utgifter før tvistens parter har dekket dem i samsvar med nr. 6 i denne artikkel.
+7\. Generalsekretæren skal ha myndighet til om nødvendig å betale kommisjonsmedlemmenes utgifter før tvistens parter har dekket dem i samsvar med nr. 6 i denne artikkel.
 
-8. Opplysninger som komiteen har innhentet og samlet, skal stilles til rådighet for kommisjonen, og kommisjonen kan be de berørte stater legge fram ytterligere opplysninger av betydning for saken.
+8\. Opplysninger som komiteen har innhentet og samlet, skal stilles til rådighet for kommisjonen, og kommisjonen kan be de berørte stater legge fram ytterligere opplysninger av betydning for saken.
 
 ### Art 13
 
-1. Når kommisjonen har ferdigbehandlet saken, skal den utarbeide en rapport som forelegges komiteens leder, med konklusjoner om alle faktiske forhold av betydning for tvisten mellom konvensjonspartene, og med de anbefalinger som den mener er hensiktsmessige for å kunne nå fram til en minnelig løsning av tvisten.
+1\. Når kommisjonen har ferdigbehandlet saken, skal den utarbeide en rapport som forelegges komiteens leder, med konklusjoner om alle faktiske forhold av betydning for tvisten mellom konvensjonspartene, og med de anbefalinger som den mener er hensiktsmessige for å kunne nå fram til en minnelig løsning av tvisten.
 
-2. Komiteens leder skal oversende kommisjonsrapporten til tvistens parter. Disse stater skal innen tre måneder underrette komiteens leder om de vil ta anbefalingene i kommisjonsrapporten til følge.
+2\. Komiteens leder skal oversende kommisjonsrapporten til tvistens parter. Disse stater skal innen tre måneder underrette komiteens leder om de vil ta anbefalingene i kommisjonsrapporten til følge.
 
-3. Etter utløpet av fristen nevnt i nr. 2 i denne artikkel skal komiteens leder oversende kommisjonsrapporten og de berørte konvensjonsparters erklæringer til de øvrige konvensjonsparter.
+3\. Etter utløpet av fristen nevnt i nr. 2 i denne artikkel skal komiteens leder oversende kommisjonsrapporten og de berørte konvensjonsparters erklæringer til de øvrige konvensjonsparter.
 
 ### Art 14
 
-1. En konvensjonspart kan på ethvert tidspunkt erklære at den anerkjenner komiteens myndighet til å motta og behandle henvendelser fra enkeltpersoner eller grupper av enkeltpersoner under dens jurisdiksjon som hevder å være offer for denne konvensjonsparts krenkelse av noen av de rettigheter som er angitt i denne konvensjon. Komiteen skal ikke motta noen henvendelse som berører en konvensjonspart som ikke har avgitt en slik erklæring.
+1\. En konvensjonspart kan på ethvert tidspunkt erklære at den anerkjenner komiteens myndighet til å motta og behandle henvendelser fra enkeltpersoner eller grupper av enkeltpersoner under dens jurisdiksjon som hevder å være offer for denne konvensjonsparts krenkelse av noen av de rettigheter som er angitt i denne konvensjon. Komiteen skal ikke motta noen henvendelse som berører en konvensjonspart som ikke har avgitt en slik erklæring.
 
-2. En konvensjonspart som avgir en erklæring i samsvar med nr. 1 i denne artikkel, kan opprette eller utpeke et organ innenfor rammen av sin interne rettsorden med myndighet til å motta og behandle klager fra enkeltpersoner og grupper av enkeltpersoner under denne parts jurisdiksjon som hevder å være offer for en krenkelse av en rettighet angitt i denne konvensjon, og som har uttømt andre lokale rettsmidler som er til rådighet.
+2\. En konvensjonspart som avgir en erklæring i samsvar med nr. 1 i denne artikkel, kan opprette eller utpeke et organ innenfor rammen av sin interne rettsorden med myndighet til å motta og behandle klager fra enkeltpersoner og grupper av enkeltpersoner under denne parts jurisdiksjon som hevder å være offer for en krenkelse av en rettighet angitt i denne konvensjon, og som har uttømt andre lokale rettsmidler som er til rådighet.
 
-3. En erklæring avgitt i samsvar med nr. 1 i denne artikkel, og navnet på det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal av den berørte konvensjonspart deponeres hos De forente nasjoners generalsekretær, som skal oversende kopier til de øvrige konvensjonsparter. En erklæring kan på ethvert tidspunkt trekkes tilbake ved underretning til Generalsekretæren, men slik tilbaketrekning skal ikke berøre henvendelser som allerede er forelagt komiteen.
+3\. En erklæring avgitt i samsvar med nr. 1 i denne artikkel, og navnet på det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal av den berørte konvensjonspart deponeres hos De forente nasjoners generalsekretær, som skal oversende kopier til de øvrige konvensjonsparter. En erklæring kan på ethvert tidspunkt trekkes tilbake ved underretning til Generalsekretæren, men slik tilbaketrekning skal ikke berøre henvendelser som allerede er forelagt komiteen.
 
-4. Det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal journalføre klagene, og bekreftede kopier av journalen skal hvert år sendes Generalsekretæren via egnede kanaler, men innholdet skal ikke offentliggjøres.
+4\. Det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal journalføre klagene, og bekreftede kopier av journalen skal hvert år sendes Generalsekretæren via egnede kanaler, men innholdet skal ikke offentliggjøres.
 
-5. Dersom klageren ikke oppnår en tilfredsstillende ordning gjennom det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal han eller hun ha rett til å bringe saken inn for komiteen innen seks måneder.
+5\. Dersom klageren ikke oppnår en tilfredsstillende ordning gjennom det organ som er opprettet eller utpekt i samsvar med nr. 2 i denne artikkel, skal han eller hun ha rett til å bringe saken inn for komiteen innen seks måneder.
 
 6.Komiteen skal i fortrolighet gjøre den konvensjonspart som sies å ha brutt en bestemmelse i denne konvensjon, kjent med enhver henvendelse den har fått oversendt, men identiteten til vedkommende enkeltperson eller gruppe av enkeltpersoner skal ikke oppgis uten vedkommendes uttrykkelige samtykke. Komiteen skal ikke motta anonyme henvendelser,Innen tre måneder skal mottakerstaten gi komiteen en skriftlig forklaring eller uttalelse som bringer klarhet i saken, og eventuelt angi hvilke tiltak den har truffet for å rette på forholdet.
 
 7.Når komiteen behandler en henvendelse, skal den ta i betraktning alle opplysninger den har fått fra den berørte konvensjonspart og fra klageren. Komiteen skal ikke behandle en henvendelse fra en klager uten å ha forvisset seg om at vedkommende har uttømt alle interne rettsmidler som er til rådighet. Denne regelen skal likevel ikke gjelde når anvendelsen av rettsmidlene tar urimelig lang tid,Komiteen skal sende sine eventuelle forslag og anbefalinger til den berørte konvensjonspart og til klageren.
 
-8. Komiteen skal i sin årlige rapport ta inn et sammendrag av slike henvendelser, og eventuelt et sammendrag av forklaringer og uttalelser fra de berørte konvensjonsparter og av sine egne forslag og anbefalinger.
+8\. Komiteen skal i sin årlige rapport ta inn et sammendrag av slike henvendelser, og eventuelt et sammendrag av forklaringer og uttalelser fra de berørte konvensjonsparter og av sine egne forslag og anbefalinger.
 
-9. Komiteen skal ha myndighet til å utføre de oppgaver som er omhandlet i denne artikkel først når minst ti konvensjonsparter er bundet av erklæringer avgitt i samsvar med nr. 1 i denne artikkel.
+9\. Komiteen skal ha myndighet til å utføre de oppgaver som er omhandlet i denne artikkel først når minst ti konvensjonsparter er bundet av erklæringer avgitt i samsvar med nr. 1 i denne artikkel.
 
 ### Art 15
 
-1. Inntil de mål er nådd som er satt i erklæringen om uavhengighet for koloniene og deres innbyggere, inntatt i Generalforsamlingens resolusjon 1514 (XV) av 14. desember 1960, skal bestemmelsene i denne konvensjon ikke på noen måte begrense den klagerett som er gitt disse folk gjennom andre internasjonale instrumenter eller gjennom De forente nasjoner og dens særorganisasjoner.
+1\. Inntil de mål er nådd som er satt i erklæringen om uavhengighet for koloniene og deres innbyggere, inntatt i Generalforsamlingens resolusjon 1514 (XV) av 14. desember 1960, skal bestemmelsene i denne konvensjon ikke på noen måte begrense den klagerett som er gitt disse folk gjennom andre internasjonale instrumenter eller gjennom De forente nasjoner og dens særorganisasjoner.
 
 2.Den komité som er opprettet etter artikkel 8 nr. 1, skal motta kopier av klager fra, og komme med uttalelser og anbefalinger om disse klagene til, organer i De forente nasjoner som i sin behandling av klager fra innbyggere i ikke-selvstyrte områder og tilsynsområder og alle andre områder der Generalforsamlingens resolusjon 1514 (XV) får anvendelse, arbeider med spørsmål som er direkte knyttet til prinsippene og formålene i denne konvensjon, i saker som dekkes av denne konvensjon, og som er brakt inn for disse organer,Komiteen skal fra de kompetente organer i De forente nasjoner få oversendt kopier av rapportene om lovgivningsmessige, rettslige, administrative eller andre tiltak som administrasjonen på territoriene nevnt i bokstav a) har anvendt, og som er direkte knyttet til prinsippene og formålene i denne konvensjon, og den skal komme med uttalelser og anbefalinger til disse organer.
 
-3. Komiteen skal i sin rapport til Generalforsamlingen ta inn et sammendrag av klager og rapporter som den har mottatt fra organer i De forente nasjoner, samt komiteens uttalelser og anbefalinger i forbindelse med disse klager og rapporter.
+3\. Komiteen skal i sin rapport til Generalforsamlingen ta inn et sammendrag av klager og rapporter som den har mottatt fra organer i De forente nasjoner, samt komiteens uttalelser og anbefalinger i forbindelse med disse klager og rapporter.
 
-4. Komiteen skal be De forente nasjoners generalsekretær om alle opplysninger med tilknytning til formålene i denne konvensjon som han har til rådighet om territoriene nevnt i nr. 2 bokstav a) i denne artikkel.
+4\. Komiteen skal be De forente nasjoners generalsekretær om alle opplysninger med tilknytning til formålene i denne konvensjon som han har til rådighet om territoriene nevnt i nr. 2 bokstav a) i denne artikkel.
 
 ### Art 16
 
@@ -831,29 +835,29 @@ Bestemmelsene i denne konvensjon om løsning av tvister eller klager skal ikke b
 
 ### Art 17
 
-1. Denne konvensjon er åpen for undertegning av enhver stat som er medlem av De forente nasjoner eller en av dens særorganisasjoner, av enhver stat som er part i Den internasjonale domstols vedtekter, og av enhver annen stat som De forente nasjoners generalforsamling har oppfordret til å bli part i denne konvensjon.
+1\. Denne konvensjon er åpen for undertegning av enhver stat som er medlem av De forente nasjoner eller en av dens særorganisasjoner, av enhver stat som er part i Den internasjonale domstols vedtekter, og av enhver annen stat som De forente nasjoners generalforsamling har oppfordret til å bli part i denne konvensjon.
 
-2. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne konvensjon skal ratifiseres. Ratifikasjonsdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
 ### Art 18
 
-1. Denne konvensjon skal være åpen for tiltredelse av enhver stat som er nevnt i artikkel 17 nr. 1.
+1\. Denne konvensjon skal være åpen for tiltredelse av enhver stat som er nevnt i artikkel 17 nr. 1.
 
-2. Tiltredelse skal skje ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
+2\. Tiltredelse skal skje ved deponering av et tiltredelsesdokument hos De forente nasjoners generalsekretær.
 
 ### Art 19
 
-1. Denne konvensjon skal tre i kraft den trettiende dagen etter den dag det tjuesjuende ratifikasjons- eller tiltredelsesdokumentet er deponert hos De forente nasjoners generalsekretær.
+1\. Denne konvensjon skal tre i kraft den trettiende dagen etter den dag det tjuesjuende ratifikasjons- eller tiltredelsesdokumentet er deponert hos De forente nasjoners generalsekretær.
 
-2. For hver stat som ratifiserer denne konvensjon eller tiltrer den etter at det tjuesjuende ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft den trettiende dagen etter den dag dens eget ratifikasjons- eller tiltredelsesdokument er deponert.
+2\. For hver stat som ratifiserer denne konvensjon eller tiltrer den etter at det tjuesjuende ratifikasjons- eller tiltredelsesdokument er deponert, skal konvensjonen tre i kraft den trettiende dagen etter den dag dens eget ratifikasjons- eller tiltredelsesdokument er deponert.
 
 ### Art 20
 
-1. De forente nasjoners generalsekretær skal motta tekstene til de forbehold som er tatt på ratifikasjons- eller tiltredelsestidspunktet, og oversende dem til alle stater som er eller kan bli part i denne konvensjon. En stat som har innsigelser mot et forbehold, skal innen en frist på nitti dager fra meddelelsestidspunktet underrette Generalsekretæren om at den ikke godtar forbeholdet.
+1\. De forente nasjoners generalsekretær skal motta tekstene til de forbehold som er tatt på ratifikasjons- eller tiltredelsestidspunktet, og oversende dem til alle stater som er eller kan bli part i denne konvensjon. En stat som har innsigelser mot et forbehold, skal innen en frist på nitti dager fra meddelelsestidspunktet underrette Generalsekretæren om at den ikke godtar forbeholdet.
 
-2. Det kan ikke tas forbehold som er uforenlig med denne konvensjons formål og mål, eller som vil kunne hindre virksomheten i noen av de organer som er opprettet i henhold til konvensjonen. Et forbehold skal anses som uforenlig eller hindrende dersom minst to tredjedeler av konvensjonspartene har innsigelser mot det.
+2\. Det kan ikke tas forbehold som er uforenlig med denne konvensjons formål og mål, eller som vil kunne hindre virksomheten i noen av de organer som er opprettet i henhold til konvensjonen. Et forbehold skal anses som uforenlig eller hindrende dersom minst to tredjedeler av konvensjonspartene har innsigelser mot det.
 
-3. Forbehold kan på ethvert tidspunkt trekkes tilbake ved underretning til Generalsekretæren. Underretningen får virkning fra den dag den er mottatt.
+3\. Forbehold kan på ethvert tidspunkt trekkes tilbake ved underretning til Generalsekretæren. Underretningen får virkning fra den dag den er mottatt.
 
 ### Art 21
 
@@ -865,9 +869,9 @@ En tvist mellom to eller flere konvensjonsparter om fortolkningen eller anvendel
 
 ### Art 23
 
-1. Enhver konvensjonspart kan på ethvert tidspunkt anmode om endringer i denne konvensjon ved skriftlig underretning til De forente nasjoners generalsekretær.
+1\. Enhver konvensjonspart kan på ethvert tidspunkt anmode om endringer i denne konvensjon ved skriftlig underretning til De forente nasjoners generalsekretær.
 
-2. De forente nasjoners generalforsamling skal treffe beslutning om hvilke tiltak som eventuelt skal treffes i forbindelse med en slik anmodning.
+2\. De forente nasjoners generalforsamling skal treffe beslutning om hvilke tiltak som eventuelt skal treffes i forbindelse med en slik anmodning.
 
 ### Art 24
 
@@ -875,6 +879,6 @@ De forente nasjoners generalsekretær skal underrette alle stater nevnt i artikk
 
 ### Art 25
 
-1. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
+1\. Denne konvensjon, hvis engelske, franske, kinesiske, russiske og spanske tekst har samme gyldighet, skal deponeres i De forente nasjoners arkiver.
 
-2. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne konvensjon til alle stater som tilhører en av kategoriene nevnt i artikkel 17 nr. 1.
+2\. De forente nasjoners generalsekretær skal oversende bekreftede kopier av denne konvensjon til alle stater som tilhører en av kategoriene nevnt i artikkel 17 nr. 1.

@@ -266,6 +266,8 @@ Virksomhet som er godkjent etter første ledd, skal avgi skriftlig rapport til d
 
 > Tilføyd ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), endret ved [lov 24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), opphevet ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020). **Endres** ved lov [4 des 2020 nr. 134](lov/2020-12-04-134) (ikr. 1 jan 2021 iflg. res. [4 des 2020 nr. 2622](forskrift/2020-12-04-2622)).
 
+1 Paragrafen ble opphevet før endring ved lov [4 des 2020 nr. 134](lov/2020-12-04-134) ble satt i kraft.
+
 ### § 2A-7. (Opphevet)
 
 > Tilføyd ved [lov 15 juni 2007 nr. 31](lov/2007-06-15-31) (ikr. 1 jan 2008 iflg. [res. 15 juni 2007 nr. 632](forskrift/2007-06-15-632)), opphevet ved lov [19 juni 2020 nr. 78](lov/2020-06-19-78) (ikr. 1 juli 2020).
@@ -577,6 +579,9 @@ Straff etter første ledd kommer ikke til anvendelse på privatpersoner som søk
 Loven trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
 
 Vedtak truffet med hjemmel i [lov 5. august 1994 nr. 56](lov/1994-08-05-56) om medisinsk bruk av bioteknologi skal fortsatt gjelde så langt de ikke strider mot loven her, eller mot forskrifter eller enkeltvedtak truffet i medhold av loven her.
+
+1 Fra 1 jan 2004 iflg. [res. 19 des 2003 nr. 1591](forskrift/2003-12-19-1591), med unntak av [§ 2-7](lov/2003-12-05-100/§2-7) t.o.m. [§ 2-12](lov/2003-12-05-100/§2-12), [kapittel 4](lov/2003-12-05-100/kap4) og [§ 7-7](lov/2003-12-05-100/§7-7) nr. 1 hva gjelder opphevelse av [lov av 5. august 1994 nr. 56 om medisinsk bruk av bioteknologi § 2-5](lov/1994-08-05-56/§2-5) t.o.m. [§ 2-7](lov/1994-08-05-56/§2-7), [kapittel 5](lov/1994-08-05-56/kap5) og [kapittel 8](lov/1994-08-05-56/kap8).
+Iflg. [res. 25 juni 2004 nr. 985](forskrift/2004-06-25-985) skal [§ 2-8](lov/2003-12-05-100/§2-8), [§ 2-9](lov/2003-12-05-100/§2-9), [§ 2-11](lov/2003-12-05-100/§2-11) og [§ 2-12](lov/2003-12-05-100/§2-12) gjelde fra 1 sep 2004, [§ 2-7](lov/2003-12-05-100/§2-7), [§ 2-10](lov/2003-12-05-100/§2-10) og [kapittel 4](lov/2003-12-05-100/kap4) gjelde fra 1 jan 2005, og bestemmelsen [§ 7-7](lov/2003-12-05-100/§7-7) nr. 1 om opphevelse av [lov 5 aug 1994 nr. 56](lov/1994-08-05-56) om medisinsk bruk av bioteknologi skal gjelde fra 1 jan 2005. Opphevelsen av [§ 2-7 i lov om medisinsk bruk av bioteknologi](lov/1994-08-05-56/§2-7) gjelder imidlertid fra 1 sep 2004.
 
 ### § 7-7. Endringer i andre lover
 

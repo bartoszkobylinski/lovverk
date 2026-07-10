@@ -107,3 +107,5 @@ Ved forsinket betaling skal det betales rente i henhold til [lov 17. desember 19
 Loven gjelder fra den tid Kongen bestemmer.1 Fra samme tid oppheves[lov 6. juni 1891 nr. 2](lov/1891-06-06-2) om Guld-, Sølv- og Platinavarers Finhed og Stempling m.v.[lov 22. mai 1902 nr. 10](lov/1902-05-22-10) Almindelig borgerlig Straffelov [§ 375](lov/1902-05-22-10/§375).
 
 Varer som før ikrafttredelsen er stemplet etter tidligere regler, kan fortsatt omsettes.
+
+1 Fra 1 jan 2011 iflg. [res. 3 sep 2010 nr. 1248](forskrift/2010-09-03-1248).

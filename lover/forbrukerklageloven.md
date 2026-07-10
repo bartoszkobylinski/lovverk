@@ -228,6 +228,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 17. feb
 
 Departementet kan fastsette overgangsregler.
 
+1 Fra 1 jan 2021 iflg. res. [23 juni 2020 nr. 1285](forskrift/2020-06-23-1285).
+
 ### § 27. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

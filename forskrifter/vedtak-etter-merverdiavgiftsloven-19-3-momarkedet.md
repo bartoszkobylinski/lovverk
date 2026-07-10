@@ -22,9 +22,13 @@ eu_basis: []
 
 # Vedtak etter merverdiavgiftsloven § 19-3 om unntak fra plikten til å beregne merverdiavgift på inngangsbilletter til Momarkedet
 
+*Svar på søknad om avgiftslempning etter [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd – Mysen og Omegn Røde Kors/Momarkedet*
+
 Vi viser til brev 25. juni 2010 fra Abacus Revisjonstjenester AS hvor det på vegne av Mysen og Omegn Røde Kors blir søkt om unntak fra plikten til å beregne utgående merverdiavgift på inngangsbilletter til arrangementet Momarkedet, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd.
 
 Etter en samlet vurdering har departementet kommet fram til at det tidligere administrativt gitte unntaket bør videreføres, jf. [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3) første ledd. Vedtaket innebærer at det på omsetning av inngangsbilletter til arrangementet ikke skal beregnes utgående merverdiavgift, samtidig som en ikke vil ha fradragsrett for inngående merverdiavgift på anskaffelser til bruk i den avgiftsunntatte delen av virksomheten. Unntaket gis inntil videre. En nærmere redegjørelse for vedtaket følger nedenfor.
+
+*Sakens bakgrunn*
 
 Etter det opplyste er Mysen og Omegn Røde Kors (heretter MO) registrert under kategorien forening/lag/innretning i Enhetsregisteret i Brønnøysund. Hvert år arrangerer MO arrangementet Momarkedet som ifølge søknaden varer i fem dager hver høst.
 
@@ -36,7 +40,11 @@ I tråd med ovennevnte har Abacus Økonomitjenester AS på vegne av Mysen og Ome
 
 I brev 15. september 2010 til Finansdepartementet har Skattedirektoratet konkludert med at unntaket ikke bør videreføres. Skattedirektoratet antar at man etter [endringslov 25. juni 2010 nr. 32](lov/2010-06-25-32) ikke lenger kan hevde at «det ikke har vært lovgivers intensjon at arrangementer med ideelt formål av denne typen skal være merverdiavgiftspliktig».
 
+*Søkers anførsler*
+
 Søker har anført at utover det faktum at arrangementet fra og med 2009 ble kortet ned fra ti til fem dager, har det ikke skjedd noen endringer i selve arrangementet eller i ytelsene som anses levert for inngangsbilletten. Inngangsbilletten gir, som tidligere, adgang til bl.a. arrangementsområdet med underholdningsscene, konserter, tivoli, utstillinger mm. Søker mener derfor at de samme hensyn som ble gjort gjeldende tidligere fortsatt er aktuelle.
+
+*Finansdepartementets vurderinger*
 
 Finansdepartementet finner det hensiktsmessig først å knytte noen merknader til merverdiavgiftsreglene på dette spesifikke området.
 

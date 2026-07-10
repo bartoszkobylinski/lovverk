@@ -86,6 +86,8 @@ Fra 1. januar 2015 oppheves [forskrift 14. mars 2008 nr. 306](forskrift/2008-03-
 
 ## Den internasjonale norm for sikkerhetsstyring (ISM)
 
+*Resolusjon A.741(18) som endret ved MSC.104(73), MSC.179(79), MSC.195(80), MSC.273(85) og MSC.353(92)*
+
 > Oppdatert uten kunngjøring 27 aug 2015.
 
 ### Forord
@@ -101,81 +103,157 @@ Fra 1. januar 2015 oppheves [forskrift 14. mars 2008 nr. 306](forskrift/2008-03-
 
 ### 1 Alminnelige bestemmelser
 
+1.1**Definisjoner**
+
 Følgende definisjoner får anvendelse i del A og B i denne norm.
+
+1.1.1
 
 «Den internasjonale norm for sikkerhetsstyring (ISM)»: Den internasjonale norm for sikkerhetsstyring for drift av skip og hindring av forurensning, vedtatt av Forsamlingen, med eventuelle endringer foretatt av organisasjonen.
 
+1.1.2
+
 «Selskap»: skipets eier, eller enhver annen organisasjon eller person, f.eks. reder eller totalbefrakter, som har overtatt ansvaret for driften av skipet fra eieren, og som ved overtakelse av ansvaret har samtykket i å overta alle plikter og alt ansvar som normen pålegger.
+
+1.1.3
 
 «Myndighet»: regjeringen i den stat hvis flagg skipet har rett til å seile under.
 
+1.1.4
+
 «Sikkerhetsstyringssystem»: et strukturert og dokumentert system som setter selskapets personell i stand til effektivt å gjennomføre selskapets politikk for sikkerhet og miljøvern.
+
+1.1.5
 
 «Godkjenningsbevis»: et bevis utstedt til et selskap som overholder kravene i denne norm.
 
+1.1.6
+
 «Sikkerhetsstyringssertifikat»: et dokument utstedt til et skip, som bevitner at selskapet og ledelsen om bord driver skipet i samsvar med det godkjente sikkerhetsstyringssystemet.
+
+1.1.7
 
 «Objektivt bevis»: alle kvantitative eller kvalitative opplysninger, registreringer, konstatering av saksforhold i forbindelse med sikkerheten, eller forekomsten og anvendelsen av et element i sikkerhetsstyringssystemet, som bygger på observasjoner, målinger eller prøver, og som kan verifiseres.
 
+1.1.8
+
 «Observasjon»: en konstatering av et saksforhold, gjort under en sikkerhetsstyringsrevisjon og underbygd av objektive bevis.
+
+1.1.9
 
 «Avvik»: en observert situasjon der det foreligger objektive bevis for at et bestemt krav ikke er oppfylt.
 
+1.1.101
+
 «Større avvik»: et identifiserbart avvik som utgjør en alvorlig trussel mot personellets eller fartøyets sikkerhet eller en alvorlig risiko for miljøet og som krever umiddelbare korrigerende tiltak, eller manglende effektiv og systematisk gjennomføring av et krav i denne norm.
+
+1.1.11
 
 «Årsdag»: den dato og den måned i hvert år som svarer til det aktuelle dokumentets eller sertifikatets utløpsdato.
 
+1.1.12
+
 «Konvensjon»: Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs av 1974, med](traktat/1974-11-01-1) endringer.
+
+1.2**Mål**
+
+1.2.1
 
 Formålene med denne norm er å ivareta sikkerhet til sjøs, hindre personskader eller tap av menneskeliv og unngå skade på miljøet, særlig havmiljøet, og på eiendom.
 
+1.2.2
+
 Selskapets mål for sikkerhetsstyring skal bl.a. være:å sørge for sikker praksis ved drift av skip og et sikkert arbeidsmiljø,å vurdere alle identifiserte risikoer for skipet, personellet og miljøet og å innføre egnet vern, ogstadig å forbedre ferdighetene til personell i land og om bord med hensyn til sikkerhetsstyring, herunder forberedelse på nødssituasjoner som omfatter både sikkerhet og miljøvern.
+
+1.2.3
 
 Sikkerhetsstyringssystemet skal sikre:at obligatoriske regler og forskrifter overholdes, ogat det tas hensyn til gjeldende regler, retningslinjer og standarder anbefalt av organisasjonen, myndighetene, klassifikasjonsselskapene og organisasjonene i sjøfartsnæringen.2
 
+1.3**Anvendelse**
+
 Kravene i denne norm kan anvendes på alle skip.
+
+1.4**Funksjonskrav til sikkerhetsstyringssystemer (SMS)**
 
 Alle selskaper skal utvikle, gjennomføre og vedlikeholde et sikkerhetsstyringssystem (SMS) som omfatter følgende funksjonskrav:en politikk for sikkerhet og miljøvern,instrukser og framgangsmåter for å sikre sikker drift av skip og vern av miljøet i samsvar med relevant internasjonalt regelverk og flaggstatslovgivning,definerte myndighetsnivåer og kommunikasjonslinjer mellom og blant personell i land og om bord,framgangsmåter for rapportering av ulykker og avvik fra bestemmelsene i denne norm,framgangsmåter for forberedelse og reaksjon på nødssituasjoner, ogframgangsmåter for intern revisjon og ledelsens gjennomgang.
 
+1 Det vises til «Procedures concerning observed ISM Code major non-conformities» (MSC/Circ.1059-MEPC/Circ.401).
+
+2 Det vises til «List of codes, recommendations, guidelines and other safety and security-related non-mandatory instruments» (MSC.1/Circ.1371).
+
 ### 2 Politikk for sikkerhet og miljøvern
 
+2.1
+
 Selskapet skal innføre en politikk for sikkerhet og miljøvern som beskriver hvordan målene angitt i nr. 1.2 skal nås.
+
+2.2
 
 Selskapet skal sikre at denne politikken gjennomføres og opprettholdes på alle nivåer i organisasjonen, både om bord og i land.
 
 ### 3 Selskapets ansvar og myndighet1
 
+3.1
+
 Dersom den som er ansvarlig for driften av skipet, er en annen enn eieren, må eieren oppgi vedkommendes fulle navn og nærmere opplysninger til myndigheten.
+
+3.2
 
 Selskapet skal definere og dokumentere ansvaret, myndigheten og forholdet mellom alt personell som leder, utfører og verifiserer arbeid som er knyttet til eller påvirker sikkerhet og hindring av forurensning.
 
+3.3
+
 Selskapet er ansvarlig for å sikre at nødvendige ressurser og landbasert støtte er tilgjengelige, slik at utpekt(e) person(er) kan utføre sine oppgaver.
+
+1 Det vises til «Guidelines for the operational implementation of the International Safety Management (ISM) Code by Companies» (MSC-MEPC.7/Circ.5).
 
 ### 4 Utpekt(e) person(er)1
 
 For å sikre sikker drift av hvert skip og for å sørge for kontakt mellom selskapet og de ombordværende, skal hvert selskap utpeke én eller flere personer i land som skal ha direkte kontakt med det høyeste nivå i ledelsen. De(n) utpekte personen(e)s ansvar og myndighet skal omfatte overvåking av de sidene av driften av hvert skip som gjelder sikkerhet og hindring av forurensning samt sikring av at nødvendige ressurser og landbasert støtte blir benyttet etter behov.
 
+1 Det vises til «Guidance on the qualifications, training and experience necessary for undertaking the role of the Designated Person under the provisions of the International Safety Management (ISM) Code» (MSC-MEPC.7/Circ.6).
+
 ### 5 Skipsførerens ansvar og myndighet
 
+5.1
+
 Selskapet skal presist definere og dokumentere skipsførerens ansvar med hensyn til:å gjennomføre selskapets politikk for sikkerhet og miljøvern,å motivere mannskapet til å følge denne politikken,å gi hensiktsmessige ordrer og instrukser på en klar og enkel måte,å verifisere at fastsatte krav overholdes, ogå periodisk gjennomgå sikkerhetsstyringssystemet og innrapportere dets mangler til den landbaserte ledelsen.
+
+5.2
 
 Selskapet skal sikre at sikkerhetsstyringssystemet som anvendes om bord i skipet, inneholder en klar erklæring som understreker skipsførerens myndighet. Selskapet skal i sikkerhetsstyringssystemet fastslå at skipsføreren har den overordnede myndighet og ansvaret for å ta avgjørelser med hensyn til sikkerhet og hindring av forurensning og for å anmode om selskapets bistand når dette måtte være nødvendig.
 
 ### 6 Ressurser og personell
 
+6.1
+
 Selskapet skal sikre at skipsføreren er:behørig kvalifisert til å ha kommandoen,fullt fortrolig med selskapets sikkerhetsstyringssystem, oggitt den nødvendige støtte, slik at vedkommendes oppgaver kan utføres på en forsvarlig måte.
+
+6.2
 
 Selskapet skal sikre at hvert skip er:bemannet med kvalifiserte, sertifiserte og medisinsk skikkede sjøfolk, i samsvar med nasjonale og internasjonale krav, oghensiktsmessig bemannet slik at alle aspekter ved sikker drift om bord ivaretas.1
 
+6.3
+
 Selskapet skal innføre framgangsmåter for å sikre at nytt personell og personell som overføres til nye oppgaver innen sikkerhet og miljøvern, gjøres kjent med sine oppgaver på en tilfredsstillende måte. Instrukser som må gis før avreise, skal identifiseres, dokumenteres og gis.
+
+6.4
 
 Selskapet skal sikre at alt personell som medvirker i selskapets sikkerhetsstyrings-system, har en tilfredsstillende forståelse av gjeldende regler, forskrifter, normer og retningslinjer.
 
+6.5
+
 Selskapet skal innføre og vedlikeholde framgangsmåter for å identifisere all opplæring som måtte være nødvendig som støtte for sikkerhetsstyringssystemet, og påse at alt berørt personell får slik opplæring.
+
+6.6
 
 Selskapet skal innføre framgangsmåter for å gi personell på skip aktuell informasjon om sikkerhetsstyringssystemet på det eller de arbeidsspråk de forstår.
 
+6.7
+
 Selskapet skal sikre at skipets personell kan kommunisere på en hensiktsmessig måte under utførelsen av sine oppgaver i forbindelse med sikkerhetsstyringssystemet.
+
+1 Det vises til «Principles of minimum safe manning», vedtatt av organisasjonen ved resolusjon A.1047(27).
 
 ### 7 Operasjoner om bord
 
@@ -183,49 +261,93 @@ Selskapet skal innføre framgangsmåter, planer og instrukser, herunder eventuel
 
 ### 8 Beredskap1
 
+8.1
+
 Selskapet skal identifisere mulige nødssituasjoner om bord, og innføre framgangsmåter for å reagere på dem.
+
+8.2
 
 Selskapet skal opprette programmer for trening og øvelser i å forberede seg på handling i nødssituasjoner.
 
+8.3
+
 Sikkerhetsstyringssystemet skal omfatte tiltak som sikrer at selskapets organisasjon til enhver tid kan reagere på farer, ulykker og nødssituasjoner der selskapets skip er berørt.
+
+1 Det vises til «Guidelines for a structure of an integrated system of contingency planning for shipboard emergencies», vedtatt av organisasjonen ved resolusjon A.852(20), med endringer.
 
 ### 9 Rapporter og analyser ved avvik, ulykker og farlige hendelser1
 
+9.1
+
 Sikkerhetsstyringssystemet skal omfatte framgangsmåter som sikrer at avvik, ulykker og farlige situasjoner rapporteres til selskapet, undersøkes og analyseres med det formål å forbedre sikkerheten og hindringen av forurensning.
+
+9.2
 
 Selskapet skal innføre framgangsmåter for gjennomføring av korrigerende tiltak, herunder tiltak ment for å hindre gjentakelse.
 
+1 Det vises til «Guidance on near-miss reporting» (MSC-MEPC.7/Circ.7).
+
 ### 10 Vedlikehold av skip og utstyr
+
+10.1
 
 Selskapet skal innføre framgangsmåter for å sikre at skipet vedlikeholdes i samsvar med bestemmelsene i gjeldende regler og forskrifter samt med eventuelle tilleggskrav som selskapet måtte fastsette.
 
+10.2
+
 For å oppfylle disse kravene skal selskapet sikre at:inspeksjoner foretas med passende mellomrom,eventuelle avvik rapporteres med mulig årsak, dersom denne er kjent,passende korrigerende tiltak gjennomføres, ogdenne virksomheten journalføres.
 
+10.3
+
 Selskapet skal identifisere utstyr og tekniske systemer som kan forårsake farlige situasjoner i tilfelle av plutselig svikt. Sikkerhetsstyringssystemet skal omfatte særskilte tiltak med sikte på å forbedre påliteligheten til slikt utstyr eller slike systemer. Tiltakene skal omfatte regelmessig prøving av reservesystemer og -utstyr eller av tekniske systemer som ikke er i kontinuerlig drift.
+
+10.4
 
 Inspeksjonene nevnt i nr. 10.2 samt tiltakene nevnt i nr. 10.3 skal være en integrert del av skipets rutine for driftsvedlikehold.
 
 ### 11 Dokumentasjon1
 
+11.1
+
 Selskapet skal innføre og vedlikeholde framgangsmåter for kontroll av alle dokumenter og opplysninger som er relevante for sikkerhetsstyringssystemet.
+
+11.2
 
 Selskapet skal sikre at:gyldige dokumenter er tilgjengelige på alle aktuelle steder,endringer i dokumenter gjennomgås og godkjennes av autorisert personell, ogforeldede dokumenter straks fjernes.
 
+11.3
+
 Dokumentene som brukes til å beskrive og gjennomføre sikkerhetsstyringssystemet, kan for eksempel kalles «Håndbok i sikkerhetsstyring». Slik dokumentasjon skal holdes i en form som selskapet anser som den mest hensiktsmessige. Hvert skip skal ha om bord all dokumentasjon som er relevant for skipet.
+
+1 Det vises til «Revised list of certificates and documents required to be carried on board ships» (FAL.2/Circ.127, MEPC.1/Circ.817 and MSC.1/Circ.1462).
 
 ### 12 Verifisering, gjennomgåelse og vurdering i selskapet
 
+12.1
+
 Selskapet skal gjennomføre interne sikkerhetsrevisjoner om bord og i land med ikke mer enn tolv måneders mellomrom for å verifisere at virksomhet angående sikkerhet og hindring av forurensning er i samsvar med sikkerhetsstyringssystemet. Slike intervaller kan i særlige tilfeller overskrides med ikke mer enn tre måneder.
+
+12.2
 
 Selskapet skal periodisk verifisere hvorvidt alt personell som utfører delegerte ISM-relaterte arbeidsoppgaver, opptrer i samsvar med selskapets ansvar i henhold til normen.
 
+12.3
+
 Selskapet skal jevnlig vurdere hvor effektivt sikkerhetsstyringssystemet er i samsvar med framgangsmåter fastsatt av selskapet.
+
+12.4
 
 Revisjoner og eventuelle korrigerende tiltak skal utføres i samsvar med dokumenterte framgangsmåter.
 
+12.5
+
 Personell som utfører revisjoner, skal være uavhengig av de områder som revideres, med mindre dette ikke er praktisk mulig på grunn av selskapets størrelse eller art.
 
+12.6
+
 Resultatene av revisjonene og gjennomgåelsene skal gjøres kjent for alt personell som har ansvar på det berørte område.
+
+12.7
 
 Ledelsespersonell som er ansvarlig for det berørte område, skal treffe tilfredsstillende korrigerende tiltak med hensyn til de mangler som oppdages.
 
@@ -233,55 +355,103 @@ Ledelsespersonell som er ansvarlig for det berørte område, skal treffe tilfred
 
 ### 13 Sertifisering og periodisk verifisering
 
+13.1
+
 Skipet skal drives av et selskap som har fått utstedt et godkjenningsbevis eller et midlertidig godkjenningsbevis i samsvar med nr. 14.1, og som gjelder for vedkommende skip.
+
+13.2
 
 Godkjenningsbeviset skal utstedes av myndigheten, av en organisasjon som er godkjent av myndigheten, eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen, til ethvert selskap som tilfredsstiller kravene i denne norm, for et tidsrom fastsatt av myndigheten, men som ikke bør overstige fem år. Et slikt godkjenningsbevis skal godtas som bevis på at selskapet er i stand til å oppfylle kravene i denne norm.
 
+13.3
+
 Godkjenningsbeviset er bare gyldig for de skipstyper som er uttrykkelig angitt i beviset. Slik angivelse skal være basert på de skipstyper som førstegangsverifiseringen var basert på. Andre skipstyper kan bare tilføyes etter en verifisering av selskapets evne til å overholde de krav i denne norm som gjelder for slike skipstyper. I denne sammenheng betyr skipstyper de typer som er nevnt i regel IX/1 i konvensjonen.
+
+13.4
 
 Gyldigheten av et godkjenningsbevis skal være underlagt en årlig verifisering av myndigheten eller av en organisasjon som er godkjent av myndigheten eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen, tidligst tre måneder før og senest tre måneder etter årsdagen.
 
+13.5
+
 Godkjenningsbeviset skal tilbakekalles av myndigheten, eller, etter anmodning fra denne, av regjeringen i den stat som utstedte beviset og som er part i konvensjonen, når det ikke er anmodet om den årlige verifisering som fastsatt i nr. 13.4, eller dersom det foreligger bevis for større avvik fra denne norm.
+
+13.5.1
 
 Alle tilknyttede sikkerhetsstyringssertifikater og/eller midlertidige sikkerhetsstyrings-sertifikater tilbakekalles også dersom godkjenningsbeviset tilbakekalles.
 
+13.6
+
 En kopi av godkjenningsbeviset skal oppbevares om bord slik at skipsføreren på anmodning kan framlegge dette for verifisering hos myndigheten eller en organisasjon som er godkjent av myndigheten, eller for det kontrollformål som er nevnt i regel IX/6.2 i konvensjonen. Det kreves ikke at kopien av godkjenningsbeviset er rettkjent eller bekreftet.
+
+13.7
 
 Sikkerhetsstyringssertifikatet skal utstedes til et skip for et tidsrom som ikke kan overstige fem år, av myndigheten eller av en organisasjon som er godkjent av myndigheten eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen. Sikkerhetsstyringssertifikatet skal utstedes etter at det er verifisert at selskapet og ledelsen om bord driver i samsvar med det godkjente sikkerhetsstyringssystemet. Et slikt sertifikat skal godtas som bevis for at skipet oppfyller kravene i denne norm.
 
+13.8
+
 Sikkerhetsstyringssertifikatets gyldighet skal være gjenstand for minst en mellomliggende verifisering foretatt av myndigheten eller av en organisasjon som er godkjent av myndigheten eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen. Dersom det bare skal utføres én mellomliggende verifisering og sikkerhetsstyringssertifikatets gyldighetsperiode er fem år, skal denne finne sted mellom den andre og tredje årsdagen for sikkerhetsstyringssertifikatet.
+
+13.9
 
 I tillegg til kravene i nr. 13.5.1 skal sikkerhetsstyringssertifikatet tilbakekalles av myndigheten, eller, etter anmodning fra myndigheten, av regjeringen i den stat som har utstedt sertifikatet og som er part i konvensjonen, når det ikke anmodes om slik mellomliggende verifisering som fastsatt i nr. 13.8, eller dersom det foreligger bevis for et større avvik fra denne norm.
 
+13.10
+
 Når fornyelsesverifiseringen avsluttes innen tre måneder før utløpsdatoen for det eksisterende godkjenningsbeviset eller sikkerhetsstyringssertifikatet, skal det nye godkjenningsbeviset eller det nye sikkerhetsstyringssertifikatet, uten hensyn til kravene i nr. 13.2 og 13.7, være gyldig fra avslutningsdatoen for fornyelsesverifiseringen i et tidsrom som ikke overstiger fem år fra utløpsdatoen for det eksisterende godkjenningsbeviset eller sikkerhetsstyringssertifikatet.
+
+13.11
 
 Når fornyelsesverifiseringen avsluttes mer enn tre måneder før utløpsdatoen for det eksisterende godkjenningsbeviset eller sikkerhetsstyringssertifikatet, skal det nye godkjenningsbeviset eller det nye sikkerhetsstyringssertifikatet være gyldig fra avslutningsdatoen for fornyelsesverifiseringen i et tidsrom som ikke overstiger fem år fra avslutningsdatoen for fornyelsesverifiseringen.
 
+13.12
+
 Når fornyelsesverifiseringen avsluttes etter det eksisterende sikkerhetsstyrings-sertifikatets utløpsdato, skal det nye sikkerhetsstyringssertifikatet være gyldig fra avslutningsdatoen for fornyelsesverifiseringen til en dato som ikke overstiger fem år fra det eksisterende sikkerhetsstyringssertifikatets utløpsdato.
 
+13.13
+
 Dersom en fornyelsesverifisering er avsluttet og et nytt sikkerhetsstyringssertifikat ikke kan utstedes eller plasseres om bord på skipet før det eksisterende sertifikatets utløpsdato, kan myndigheten eller organisasjonen som er godkjent av myndigheten, påtegne det eksisterende sertifikatet, og et slikt sertifikat skal godtas som gyldig i et ytterligere tidsrom som ikke skal overstige fem måneder fra utløpsdatoen.
+
+13.14
 
 Dersom et skip på tidspunktet når et sikkerhetsstyringssertifikat utløper, ikke er i en havn der det skal verifiseres, kan myndigheten forlenge sikkerhetsstyringssertifikatets gyldighet, men denne forlengelsen skal bare gis for å la skipet fullføre reisen til havnen der det skal verifiseres, og bare i tilfeller der det virker riktig og rimelig å gjøre det. Ingen sikkerhetsstyringssertifikater skal forlenges for et tidsrom på mer enn tre måneder, og skipet som får en forlengelse, skal ved ankomst i havnen der det skal verifiseres, ikke ha rett til å forlate havnen i kraft av å ha slik forlengelse, uten å ha et nytt sikkerhetsstyringssertifikat. Når fornyelsesverifiseringen er fullført, skal det nye sikkerhetsstyringssertifikatet være gyldig til en dato som ikke overstiger fem år fra det eksisterende sikkerhetsstyringssertifikatets utløpsdato før forlengelsen ble gitt.
 
 ### 14 Midlertidig sertifisering
 
+14.1
+
 Det kan utstedes et midlertidig godkjenningsbevis for å lette den innledende gjennomføringen av denne norm når:et selskap er nyopprettet, ellernye skipstyper skal legges til i et eksisterende godkjenningsbevis,
+
+etter at det er verifisert at selskapet har et sikkerhetsstyringssystem som oppfyller målene i nr. 1.2.3 i denne norm, forutsatt at selskapet viser at det har planer om å innføre et sikkerhetsstyringssystem som oppfyller alle krav i denne norm i løpet av gyldighetsperioden for det midlertidige godkjenningsbeviset. Et slikt midlertidig godkjenningsbevis utstedes for et tidsrom som ikke overstiger 12 måneder, av myndigheten eller av en organisasjon som er godkjent av myndigheten, eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen. En kopi av det midlertidige godkjenningsbeviset skal oppbevares om bord, slik at skipsføreren på anmodning kan framlegge dette for verifisering hos myndigheten eller en organisasjon som er godkjent av myndigheten, eller for det kontrollformål som er nevnt i regel IX/6.2 i konvensjonen. Det kreves ikke at kopien av godkjenningsbeviset er rettkjent eller bekreftet.
+
+14.2
 
 Et midlertidig sikkerhetsstyringssertifikat kan utstedes:til nye skip ved levering,når et selskap overtar ansvaret for driften av et skip som er nytt for selskapet,ellernår et skip skifter flagg.
 
 Et slikt midlertidig sikkerhetsstyringssertifikat utstedes for et tidsrom som ikke overstiger seks måneder, av myndigheten eller av en organisasjon som er godkjent av myndigheten eller, etter anmodning fra myndigheten, av regjeringen i en annen stat som er part i konvensjonen.
 
+14.3
+
 En myndighet eller, etter anmodning fra myndigheten, regjeringen i en annen stat som er part i konvensjonen, kan i særlige tilfeller ytterligere forlenge gyldigheten av et midlertidig sikkerhetsstyringssertifikat for et tidsrom som ikke skal overstige seks måneder fra utløpsdatoen.
+
+14.4
 
 Et midlertidig sikkerhetsstyringssertifikat kan utstedes etter at det er verifisert at:godkjenningsbeviset eller det midlertidige godkjenningsbeviset gjelder for det aktuelle skipet,selskapets sikkerhetsstyringssystem for det aktuelle skipet omfatter de viktigste elementene i denne norm, og er vurdert under revisjonen som er utført med henblikk på utstedelse av godkjenningsbeviset eller er påvist å være i samsvar med vilkårene for utstedelse av det midlertidige godkjenningsbeviset,selskapet har planlagt intern revisjon av skipet innen tre måneder,skipsføreren og skipsoffiserene er kjent med sikkerhetsstyringssystemet og de planlagte ordningene for gjennomføring av dette,instrukser som er vurdert som viktige, foreligger før avreise, ogdet er gitt relevante opplysninger om sikkerhetsstyringssystemet på ett eller flere arbeidsspråk som forstås av skipets mannskap.
 
 ### 15 Verifisering
 
+15.1
+
 All verifisering som kreves i henhold til bestemmelsene i denne norm, skal utføres i samsvar med framgangsmåter som myndigheten kan godta, idet det tas hensyn til retningslinjene som organisasjonen har utarbeidet.1
+
+1 Se retningslinjer for myndighetens gjennomføring av ISM-normen, vedtatt av organisasjonen ved resolusjon A.1022(26).
 
 ### 16 Utforming av sertifikater
 
+16.1
+
 Godkjenningsbeviset, sikkerhetsstyringssertifikatet, det midlertidige godkjennings-beviset og det midlertidige sikkerhetsstyringssertifikatet skal utformes i samsvar med malene i tillegget til denne norm. Dersom språket som brukes verken er engelsk eller fransk, skal teksten inneholde en oversettelse til et av disse språkene.
+
+16.2
 
 I tillegg til kravene i nr. 13.3 kan skipstypene angitt i godkjenningsbeviset og det midlertidige godkjenningsbeviset gis en påtegning for å angi eventuelle driftsbegrensninger for skipene som er beskrevet i sikkerhetsstyringssystemet.
 

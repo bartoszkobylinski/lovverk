@@ -90,6 +90,8 @@ Lova gjeld frå den tid Kongen fastset.1 Frå same tid som lova trer i kraft, bl
 
 [§§ 7](lov/2012-06-22-58/§7) og [9](lov/2012-06-22-58/§9) gjeld berre for saker der søknaden, motsegna eller kravet om administrativ overprøving eller administrativ patentavgrensing m.m. blei levert etter at denne lova tok til å gjelde. Kongen kan gi nærmare overgangsreglar.
 
+1 Frå 1 apr 2013 iflg. [res. 1 mars 2013 nr. 244](forskrift/2013-03-01-244).
+
 ## § 11. Endringar i andre lover
 
 Frå same tid som lova trer i kraft, blir følgjande endringar gjorde i andre lover: – – –

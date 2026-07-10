@@ -216,6 +216,8 @@ Lova gjeld frå den tid Kongen fastset.1 Frå same tid vert [lov 14. desember 19
 
 Forskrifter og enkeltvedtak som er fastsette i eller i medhald av [lov 14. desember 1951 nr. 3](lov/1951-12-14-3) om omsetning av råfisk, gjeld framleis inntil dei vert oppheva.
 
+1 Frå 1 jan 2014 iflg. [res. 21 juni 2013 nr. 726](forskrift/2013-06-21-726).
+
 ### § 25. Overgangsregel
 
 Fiskesalslag som har godkjende vedtekter etter [lov 14. desember 1951 nr. 3](lov/1951-12-14-3) om omsetning av råfisk, kan utan ny godkjenning halde fram med verksemda i inntil to år etter at lova her vert sett i verk.

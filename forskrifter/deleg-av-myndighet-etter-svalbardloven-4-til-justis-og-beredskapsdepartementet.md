@@ -25,3 +25,5 @@ eu_basis: []
 Delegering av Kongens myndighet etter [Svalbardloven § 4](lov/1925-07-17-11/§4) til Justis- og beredskapsdepartementet tilå fastsette alminnelige forskrifter om bygningsvesenetå fastsette forskrifter om skyteforbud og skyteforbudssoner og å oppheve gjeldende forskrift om dette.
 
 Delegeringen erstatter delegering 14. desember 2001 nr. 1389 om delegering av myndighet til Justis- og politidepartementet etter lov 17. august 1925 nr. 11 om Svalbard1 § 4.
+
+1 Skal være [lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard. Lovtidend-redaksjonens anm.

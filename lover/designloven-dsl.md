@@ -541,7 +541,11 @@ Hvis en internasjonal registrering helt eller delvis opphører å gjelde, opphø
 
 ### § 60. Oppheving av mønsterloven og terminologiske endringer i andre lover
 
+– – –
+
 ### § 61. Andre lovendringer
+
+– – –
 
 ### § 62. Ikraftsettings- og overgangsbestemmelser
 
@@ -554,3 +558,5 @@ For søknader som er innlevert før loven trådte i kraft, gjelder de tidligere 
 Bestemmelsene i [§§ 4](lov/2003-03-14-15/§4) og [8](lov/2003-03-14-15/§8) gjelder ikke for design som er registrert eller søkt registrert før loven trådte i kraft. Overprøving for Patentstyret eller domstolene av en registrering som er gjort på grunnlag av de tidligere bestemmelsene, skjer på grunnlag av disse bestemmelsene.
 
 Hvis noen før loven trådte i kraft utnyttet en design på en måte som ikke krevde samtykke fra designhaveren etter de tidligere bestemmelsene, men som krever slikt samtykke etter loven her, kan vedkommende fortsette utnyttelsen uten hinder av de nye bestemmelsene. Samme rett har den som hadde gjort vesentlige forberedelser til å utnytte designen.
+
+1 Fra 1 mai 2003 iflg. res. 4 apr 2003 nr. 417, bortsett fra kapittel 10 om internasjonal designregistrering. Iflg. [res. 14 mai 2004 nr. 748](forskrift/2004-05-14-748) skal kapittel 10 gjelde fra samme tid som Genèveavtalen 2. juli 1999 til Haagoverenskomsten 6. november 1925 om internasjonal registrering av design trer ikr. for Norge. Ved [res. 9 apr 2010 nr. 497](forskrift/2010-04-09-497) er kapittel 10 satt ikr. 17 juni 2010.

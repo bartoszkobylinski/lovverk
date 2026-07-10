@@ -134,4 +134,8 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg – Hardangervidda-sonen1
 
+Sonen er merket i kartet med blått:
+
 > Tilføyd ved [forskrift 16 sep 2020 nr. 1777](forskrift/2020-09-16-1777), endret ved forskrift [9 juni 2021 nr. 1843](forskrift/2021-06-09-1843).
+
+1 For interaktivt kart, se [Karteksport (miljodirektoratet.no)](https://karteksport.miljodirektoratet.no/).

@@ -23,6 +23,8 @@ eu_basis:
 
 # Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.)
 
+Endringer i følgende lover:
+
 1. [Lov 9. mars 1973 nr. 14 om vern mot tobakksskader (tobakksskadeloven)](lov/1973-03-09-14).
 2. [Lov 15. mai 1987 nr. 21 om film og videogram](lov/1987-05-15-21).
 3. [Lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. (alkoholloven)](lov/1989-06-02-27).
@@ -32,35 +34,41 @@ eu_basis:
 
 ## I
 
-Tilbydere av audiovisuelle bestillingstjenester plikter å investere direkte i norske audiovisuelle verk et beløp som tilsvarer minst 4 pst. av årlig omsetning. Plikten gjelder også for tilbydere av audiovisuelle bestillingstjenester etablert i andre EØS-land som tilbyr audiovisuelle bestillingstjenester rettet mot et norsk publikum. Med omsetning menes tjenestetilbyderens brutto omsetning i Norge fra den audiovisuelle bestillingstjenesten eksklusiv merverdiavgift, blant annet omsetning fra abonnement, reklame, sponsing og produktplassering.
+I [lov 4. desember 1992 nr. 127 om kringkasting og audiovisuelle bestillingstjenester](lov/1992-12-04-127) gjøres følgende endringer:
 
-Første ledd gjelder ikke forNorsk rikskringkasting AStjenestetilbydere som har en årsomsetning på under to millioner euro eller dersom tjenesten har en seerandel på under en prosent av det norske markedet,tjenestetilbydere som ikke tilbyr spillefilm, dokumentarfilm, dramaserier og dokumentarserier.
+– – –
 
-Medietilsynet kan etter søknad fra tjenestetilbyder gi dispensasjon fra investeringsplikten når tjenestens art eller innhold tilsier at en slik forpliktelse vil være uforholdsmessig. Ved vurderingen skal det særlig tas hensyn til om forpliktelsen ikke vil være praktisk gjennomførbar eller rimelig.
+Ny [§ 2-22](lov/1992-12-04-127/§2-22) skal lyde:
 
-Dersom en tilbyder av audiovisuelle bestillingstjenester investerer mer i et regnskapsår enn forpliktelsen som følger av første ledd, vil den overskytende investeringen kunne regnes inn i ett eller begge av de to påfølgende regnskapsårene.
+Ny [§ 2-23](lov/1992-12-04-127/§2-23) skal lyde:
 
-Departementet kan gi forskrift om unntak fra investeringsplikten, om beregning av investeringsforpliktelsen og om rapporteringsplikt til Medietilsynet.
-
-Direkte investeringer er investeringer i produksjon, kjøp av visningsrettigheter og tilsvarende i norske audiovisuelle verk. Kjøp av visningsrettigheter omfattes bare dersom verket ikke er eldre enn tre år.
-
-Norske audiovisuelle verk skal oppfylle minst tre av følgende vilkår:Manuskriptet eller et annet litterært grunnlag for verket er originalskrevet på norsk, samiske språk, eller de nasjonale minoritetsspråkene kvensk, romani og romanes.Hovedtemaet er knyttet til norsk historie, kultur eller samfunnsforhold.Handlingen utspiller seg i Norge eller i en annen EØS-stat.Verket har et vesentlig bidrag fra opphavere eller utøvende kunstnere bosatt i Norge eller i en annen EØS-stat.
-
-Et norsk audiovisuelt verk skal også være produsert av en produsent som oppfyller følgende vilkår:Produsenten er et audiovisuelt produksjonsforetak som er etablert i Norge eller i en annen EØS-stat, har audiovisuell produksjon som sitt hovedformål, ikke har offentlige organer som hovedeier, og ikke har vesentlige forretningsmessige bindinger til den primære visningsplattformen for prosjektet.Foretaket skal være organisert som aksjeselskap og være registrert i det norske enhets- eller foretaksregisteret.Nøkkelmedarbeidere i prosjektet skal ha betydelig profesjonell erfaring innenfor sitt fagfelt.
-
-I vurderingen av hva som utgjør direkte investeringer og norske audiovisuelle verk, kan Medietilsynet innhente en rådgivende uttalelse fra Norsk filminstitutt.
+– – –
 
 ## II
 
+I [lov 9. mars 1973 nr. 14 om vern mot tobakksskader](lov/1973-03-09-14) skal ny [§ 40 b](lov/1973-03-09-14/§40b) lyde: – – –
+
 ## III
+
+I [lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v.](lov/1989-06-02-27) skal ny [§ 9-6](lov/1989-06-02-27/§9-6) lyde: – – –
 
 ## IV
 
+I [lov 4. desember 1992 nr. 132 om legemidler m.v.](lov/1992-12-04-132) gjøres følgende endringer: – – –
+
 ## V
 
+I [lov 6. februar 2015 nr. 7 om beskyttelse av mindreårige mot skadelige bildeprogram mv.](lov/2015-02-06-7) gjøres følgende endringer: – – –
+
 ## VI
+
+I [lov 15. mai 1987 nr. 21 om film og videogram](lov/1987-05-15-21) gjøres følgende endring:
+
+[§ 3 andre ledd](lov/1987-05-15-21/§3/ledd/2) oppheves. Nåværende [§ 3 tredje ledd](lov/1987-05-15-21/§3/ledd/3) blir andre ledd.
 
 ## VII
 
 1. Loven gjelder fra den tiden Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 2. Loven får bare virkning for tilsyn og kontroll som gjennomføres etter ikrafttredelsen. Kongen kan gi overgangsbestemmelser.
+
+1 Fra 1. mai 2025 for endringsloven del I ([kringkastingsloven](lov/1992-12-04-127)) med unntak av ny [§§ 2-22](lov/1992-12-04-127/§2-22) og [2-23](lov/1992-12-04-127/§2-23), del II ([tobakksskadeloven](lov/1973-03-09-14)), del III ([alkoholloven](lov/1989-06-02-27)), del IV ([legemiddelloven](lov/1992-12-04-132)), del V ([bildeprogramloven](lov/2015-02-06-7)) iflg. [res. 4 april 2025 nr. 601](forskrift/2025-04-04-601).

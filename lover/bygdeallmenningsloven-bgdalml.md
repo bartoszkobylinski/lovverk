@@ -540,6 +540,8 @@ Nærmere regler om forvaltningen av jakt og fangst i bygdeallmenning – herunde
 
 Utkast til slike regler skal, før det legges ut til gjennomsyn for de bruksberettigede etter [§ 3-8](lov/1992-06-19-59/§3-8), ha vært forelagt viltnemnda1 til uttalelse.
 
+1 Vel nå kommunen, jf. [lov 29 mai 1981 nr. 38 § 4](lov/1981-05-29-38/§4).
+
 ### § 7-7. (jaktkort)
 
 Enhver som vil drive jakt eller fangst i bygdeallmenning skal løse jaktkort. Vederlaget for jaktkort fastsettes av allmenningsstyret og tilfaller allmenningskassen, for så vidt ikke annet følger av ordning etter [§§ 7-3](lov/1992-06-19-59/§7-3), [7-4](lov/1992-06-19-59/§7-4) og [7-5](lov/1992-06-19-59/§7-5). Vederlaget kan settes forskjellig for dem som har jaktrett etter [§ 7-1](lov/1992-06-19-59/§7-1) og for andre. Det kan også settes forskjellig vederlag for jakt på småvilt og for annen slags jakt og fangst.
@@ -623,6 +625,8 @@ Både departementet og allmenningsstyret er påtaleberettiget.
 ### § 9-4. (ikrafttredelse)
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 795](forskrift/1992-11-13-795).
 
 ### § 9-5. (overgangsregler)
 

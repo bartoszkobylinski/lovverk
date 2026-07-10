@@ -344,4 +344,6 @@ Helseregisterloven gir også andre sanksjonsmuligheter ved overtredelse av loven
 
 Bestemmelsen fastslår at denne forskriften trer i kraft 1. juli 2014.1
 
+1 Skal vel være «1. januar 2004», Lovdatas anmerkning.
+
 > Merknader endret ved [forskrifter 17 jan 2013 nr. 61](forskrift/2013-01-17-61), [25 april 2014 nr. 588](forskrift/2014-04-25-588) (i kraft 1 juli 2014).

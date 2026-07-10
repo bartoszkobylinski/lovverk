@@ -38,6 +38,26 @@ Forskriften gjelder for alt hold av hest.
 
 I denne forskriften betegner:
 
+*Hest:* Alle dyr av hestefamilien.
+
+*Klima:* Lufttemperatur, lufthastighet, luftfuktighet, strålingstemperatur og luftkvalitet.
+
+*Luftegård:* Et inngjerdet utendørs areal som tilfredsstiller krav til fri bevegelse, men som ikke er beite.
+
+*Utegang:* Driftsform der hestenes aktivitets- og/eller fôringsområde er ute hele døgnet.
+
+*Spiltau:* Bås hvor hest oppstalles oppbundet.
+
+*Hestesenter:* Virksomhet som driver utleie/utlån av hest, rideundervisning, turridning etc.
+
+*Hestepensjonat:* Virksomhet som tar imot hest for oppstalling der pensjonatet har ansvar for daglig stell av hesten.
+
+*Treningsstall:* Virksomhet som tar imot hest til oppstalling og trening.
+
+*Hesteholder:* Personen som til enhver tid er ansvarlig for hestens fôring og stell.
+
+*Helsekort:* Ordnet opptegnelse over alle medisinske behandlinger ført av behandlende veterinær og hesteholder for den enkelte hest merket med hestens navn og unike individnummer.
+
 > Endret ved [forskrifter 14 nov 2007 nr. 1269](forskrift/2007-11-14-1269), [7 aug 2009 nr. 1033](forskrift/2009-08-07-1033) (i kraft 1 okt 2009), [3 sep 2010 nr. 1255](forskrift/2010-09-03-1255).
 
 ## Kapittel II. Generelle bestemmelser
@@ -237,6 +257,8 @@ For at Mattilsynet skal kunne gi tillatelse, må anlegget og driften tilfredstil
 Mattilsynet kan trekke tilbake tillatelsen hvis anlegget eller driften ved anlegget ikke lenger tilfredstiller de kravene som stilles i denne forskriften. Mattilsynet kan videre trekke en tillatelse tilbake hvis den som har fått tillatelsen, blir dømt for overtredelse av matloven eller dyrevelferdsloven eller forskrifter gitt i medhold av disse lovene, eller dersom vedkommende ikke oppfyller eventuelle vilkår som Mattilsynet har satt i forbindelse med tillatelsen, eller på andre måter steller seg slik at han mister den tillit som anses nødvendig for å drive vedkommende virksomhet.
 
 > Endret ved [forskrifter 14 nov 2007 nr. 1269](forskrift/2007-11-14-1269), [6 aug 2010 nr. 1147](forskrift/2010-08-06-1147).
+
+1 Meldepliktig omsetning av hest er også regulert i [forskrift 10. januar 1985 nr. 17](forskrift/1985-01-10-17) om velferd for dyr ved ervervsmessig omsetning.
 
 ### § 29. Bruk av hest i hestesenter
 

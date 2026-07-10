@@ -52,9 +52,13 @@ Kongen kan i særlige tilfeller gi nærmere regler om unntak fra straffeforfølg
 
 > Endret ved [lov 19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
+1 Lov nr. 13.
+
 ## § 6.
 
 Loven trer i kraft på det tidspunkt konvensjonen trer i kraft for Norge.1
+
+1 Fra 1 mars 1999 etter å ha bli ratifisert av 65 land.
 
 ## § 7.
 

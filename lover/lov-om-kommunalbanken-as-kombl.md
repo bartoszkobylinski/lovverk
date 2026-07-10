@@ -36,6 +36,8 @@ Aksjeselskapet Kommunalbanken kan utan hinder av [lov 24. mai 1961 nr. 2](lov/19
 
 > Endra med [lov 5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)).
 
+1 Inkurie: Opphevet, sjå no [lov 10 apr 2015 nr. 17 § 2-19](lov/2015-04-10-17/§2-19).
+
 ## § 4. Overføring av offentlege rettar m.v.
 
 Ved omdanning av Noregs Kommunalbank til aksjeselskap blir eigedelar, rettar, under det offentlege løyve osv., og skyldnader overførte til aksjeselskapet.
@@ -52,6 +54,8 @@ Kravshavarar og andre rettshavarar kan ikkje setje seg imot overføringa eller g
 
 [Lov 4. mars 1983 nr. 3](lov/1983-03-04-3) om statens tenestemenn m.m.1 § 13 nr. 2 til 6 om førerett til anna statsstilling og venteløn skal framleis gjelde for tidlegare arbeidstakarar i forvaltningsbedrifta Noregs Kommunalbank som blir sagde opp av grunn som nemnd i tenestemannslova [§ 13](lov/1983-03-04-3/§13) nr. 1 bokstavene a, b og c, og som var omfatta av desse reglane før omdanninga. Føreretten til anna statsstilling og retten til venteløn etter førre punktum opphøyrer 3 år etter at lova her tek til å gjelde. Føresegna her gjer inga innskrenking i arbeidstakars rettar etter [lov 4. februar 1977 nr. 4](lov/1977-02-04-4) om arbeidarvern og arbeidsmiljø m.v.2 §§ 60 nr. 2 og 67.
 
+1 Inkurie: [Lova er opphevd. Sjå no lov 16 juni 2017 nr. 67](lov/2017-06-16-67).2 Inkurie: [Lova er opphevd. Sjå no lov 17 juni 2005 nr. 62](lov/2005-06-17-62).
+
 ## § 7. Overgangsreglar
 
 Kongen kan gi overgangsreglar.
@@ -59,6 +63,8 @@ Kongen kan gi overgangsreglar.
 ## § 8. Iverksetting
 
 Lova her tek til å gjelde frå den tid Kongen fastset.1
+
+1 Frå 1 nov 1999 iflg. [res. 29 okt 1999 nr. 1137](forskrift/1999-10-29-1137).
 
 ## § 9. Endring av andre lover
 

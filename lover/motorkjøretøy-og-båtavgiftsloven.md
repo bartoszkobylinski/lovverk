@@ -87,3 +87,5 @@ For motorkjøretøy eller båt som er solgt med forbehold om eiendomsrett for se
 Denne lov trer i kraft fra den tid1 Kongen bestemmer.
 
 > Endret ved lover 21 apr 1978 nr. 10, tidligere § 9, [9 mai 2008 nr. 16](lov/2008-05-09-16), tidligere § 10.
+
+1 Fra 1 juli 1959 iflg. res. 19 juni 1959.

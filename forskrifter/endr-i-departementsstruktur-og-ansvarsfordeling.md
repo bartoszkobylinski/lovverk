@@ -107,6 +107,8 @@ eu_basis: []
 
 ## Vedlegg 3. Oversikt over lover som Nærings- og fiskeridepartementet skal ha forvaltningsansvaret for
 
+*Statsråd Monica Mæland*
+
 - [Lov 23. juni 1888 nr. 3](lov/1888-06-23-3) indeholdende særlige Bestemmelser angaaende Leilændingsgods tilhørende Stamhuse og visse Stiftelser m.v.
 - [Lov 7. august 1925](lov/1925-08-07) om Bergverksordning for Svalbard
 - [Lov 4. juli 1927 nr. 11](lov/1927-07-04-11) om stamhuset Rosendal og om forandring i arverettsreglene for stamhuset Jarlsberg (stamhusloven)
@@ -169,6 +171,8 @@ eu_basis: []
 - [Lov 14. juni 2013 nr. 35](lov/2013-06-14-35) om endringer i konkurranseloven
 - [Lov 14. juni 2013 nr. 40](lov/2013-06-14-40) om endringer i aksjelovgivningen mv. (forenklinger)
 - [Lov 21. juni 2013 nr. 102](lov/2013-06-21-102) om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven)
+
+*Statsråd Elisabeth Aspaker*
 
 - [Lov 27. mai 1775](lov/1775-05-27) Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Skyldlægning sammesteds
 - [Lov 14. mars 1930](lov/1930-03-14) om landslott (landslottloven)

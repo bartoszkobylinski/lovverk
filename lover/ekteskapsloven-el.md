@@ -461,6 +461,8 @@ Når eiendeler som omfattes av [§ 32](lov/1991-07-04-47/§32) eller [§ 33](lov
 
 Overdrar en ektefelle sin sameieandel i eiendeler som har tjent til felles personlig bruk, har den andre ektefellen rett til å løse inn andelen etter skiftetakst. Det samme gjelder når en ektefelle har krevd sameiet oppløst. Krav om innløsning må settes fram uten ugrunnet opphold og senest innen seks uker etter at ektefellen har fått slik melding som fastsatt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd første punktum.1 Innen samme frist må skiftetakst være krevd. Når endelig takst foreligger, må ektefellen innen to uker tilby oppgjør på den måten som er bestemt i [sameieloven § 11](lov/1965-06-18-6/§11) fjerde ledd andre punktum.1
 
+1 Inkurie: Fjerde ledd er opphevet, se nå [lov 9 des 1994 nr. 64 §§ 12](lov/1994-12-09-64/§12) og [13](lov/1994-12-09-64/§13).
+
 ### § 37. Begrensninger i avtalefriheten m v.
 
 De innskrenkningene i råderetten som er fastsatt i dette kapitlet, kan som hovedregel ikke fravikes ved avtale mellom ektefellene. Ektefellene kan likevel avtale at innskrenkningene ikke skal gjelde for eiendeler som etter bestemmelsene i [kapittel 9](lov/1991-07-04-47/kap9) er særeie. En slik avtale må inngås i ektepakts form.
@@ -702,6 +704,8 @@ Overtar en ektefelle etter [§ 66](lov/1991-07-04-47/§66) eller [§ 67](lov/199
 Dersom en ektefelle får bruksrett til den andre ektefellens eiendom, kan fordringen ikke sies opp av den bruksberettigede ektefellen så lenge bruksretten består.
 
 Dersom det er rimelig etter forholdene, kan den ektefellen som har krav mot den andre etter første ledd, tilkjennes renter. Renten kan tidligst regnes fra to år etter de tidspunktene som er nevnt i [§ 60](lov/1991-07-04-47/§60). Renten skal tilsvare den rentesatsen som Kongen fastsetter etter andre ledd.
+
+1 Se [forskrift 13 feb 2007 nr. 164](forskrift/2007-02-13-164) om rentesats etter ekteskapsloven.
 
 ### § 71. Salg av ektefellenes eiendeler.
 
@@ -1026,6 +1030,8 @@ Retten skal sørge for at overføring av fast eiendom som ledd i booppgjøret ti
 3. Reglene om rett til ektefellepensjon gjelder ikke der pensjonstilfellet inntreffer før loven trer i kraft.
 
 > Endret ved lov [14 juni 2019 nr. 21](lov/2019-06-14-21) (ikr. 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200), tidligere § 94) som endret ved lov [18 des 2020 nr. 149](lov/2020-12-18-149).
+
+1 Fra 1 jan 1993 iflg. [res. 13 sep 1991 nr. 615](forskrift/1991-09-13-615).
 
 ### § 111. Overgangsregler for registrert partnerskap
 

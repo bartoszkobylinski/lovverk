@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+Finansdepartementets myndighet etter [lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) kapittel 7 Varer som det ikke skal beregnes merverdiavgift av ved innførsel](lov/2009-06-19-58/kap7), delegeres til Skattedirektoratet.
+
 ## II
 
 Delegeringen trer i kraft straks.

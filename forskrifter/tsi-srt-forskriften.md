@@ -42,4 +42,12 @@ Fra samme tidspunkt oppheves [forskrift 4. juli 2008 nr. 790](forskrift/2008-07-
 
 Rettsakten er gyldig på alle offisielle språk i EU. Vi legger ved den engelske teksten. Den uoffisielle norske oversettelsen legges kun ved av informasjonshensyn i påvente av den offisielle norske oversettelsen.
 
+For å lese forordning [(EU) nr. 1303/2014 i](eu/32014r1303) engelsk versjon se her: [(pdf)](static/SF/32014r1303e.pdf)
+
+For å lese forordning [(EU) nr. 1303/2014 i](eu/32014r1303) uoffisiell norsk oversettelse se her: [(pdf)](static/SF/32014r1303u.pdf)
+
+For å lese forordning [(EU) 2016/912 i](eu/32016r0912) engelsk versjon se her: [(pdf)](static/SF/32016r0912e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2019/776](eu/32019r0776) se her: [(pdf)](static/SF/32019r0776e-01.pdf)
+
 > Endret ved [forskrifter 7 feb 2017 nr. 150](forskrift/2017-02-07-150), [8 sep 2021 nr. 2709](forskrift/2021-09-08-2709) (i kraft 1 juni 2022, jf. meddelelse [6 mai 2022 nr. 774](forskrift/2022-05-06-774)).

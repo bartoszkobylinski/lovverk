@@ -30,6 +30,8 @@ Institusjoner som nevnt i første ledd bokstav b må godtgjøre pantsettingsadga
 
 > Endret ved [forskrift 7 juli 2000 nr. 735](forskrift/2000-07-07-735).
 
+1 Se overgangsbestemmelser bakerst i forskriften
+
 ## § 2. (motorvogner og anleggsmaskiner).
 
 Med motorvogn etter [panteloven § 3-8](lov/1980-02-08-2/§3-8) forstås kjøretøy som blir drevet fram med motor, jfr. [vegtrafikkloven § 2](lov/1965-06-18-4/§2) annet og tredje ledd. Registreringspliktig tilhenger til motorvogn reknes som motorvogn, jf. [vegtrafikkloven § 15](lov/1965-06-18-4/§15) første ledd og [forskrift 25. januar 1990 nr. 92](forskrift/1990-01-25-92) om bruk av kjøretøy [§ 2-1](forskrift/1990-01-25-92/§2-1).

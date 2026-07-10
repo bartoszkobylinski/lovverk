@@ -380,11 +380,35 @@ Følgende nødutstyr skal oppbevares synlig, lett tilgjengelig og på et sikkert
 
 ### § 47. Følgende endring gjøres i forskrift om radiokommunikasjonsutstyr for norske skip og flyttbare innretninger
 
+Fra 1. april 2021 gjøres følgende endringer i [forskrift 1. juli 2014 nr. 955 om radiokommunikasjonsutstyr for norske skip og flyttbare innretninger § 9](forskrift/2014-07-01-955/§9):
+
+– – –
+
 ## Vedlegg I:
+
+*Figur 1 i [§ 20](forskrift/2021-03-18-815/§20). Eksempel på plassering av fortøyningsfester*
+
+*Figur 2 i [§ 21](forskrift/2021-03-18-815/§21) første ledd. Eksempel på 210° hinderfri inn- og utflygningssektor*
+
+*Figur 3 i [§ 21a](forskrift/2021-03-18-815/§21a) første ledd. Eksempel på hindringer som er tillatt i 150°-sektoren.*
+
+*Figur 4 i [§ 21a](forskrift/2021-03-18-815/§21a) andre ledd. Eksempel på hinder som er tillatt i 150°-sektoren for innretninger som er førstegangssertifisert eller med byggekontrakt inngått før 1. april 2021.*
+
+*Figur 5 i [§ 22](forskrift/2021-03-18-815/§22). Eksempel på 180° hinderfri sektor*
+
+*Figur 6 i [§ 25](forskrift/2021-03-18-815/§25) bokstav b. Referansesirkel*
+
+*Figur 7 i [§ 25](forskrift/2021-03-18-815/§25) bokstav c. Identifikasjonsmerking (mål i mm)*
+
+*Figur 8 i [§ 27](forskrift/2021-03-18-815/§27) første ledd og i [§ 28](forskrift/2021-03-18-815/§28) tredje ledd. Merking av hinderfri sektor og DH-verdi (mål i mm)*
 
 > Endret ved forskrift [31 okt 2023 nr. 1753](forskrift/2023-10-31-1753).
 
 ## Vedlegg II:
+
+(Med referanse til § 45 i forskriften, inneholder vedlegg II utdrag fra [forskrift 15. januar 2008 nr. 72 om helikopterdekk på flyttbare innretninger](forskrift/2008-01-15-72). Vedlegget til forskriften som inneholder tegninger og helikopterdekkdata er ikke tatt med. Helikopterdekkforskriften fra 2008 ble opphevet 1. april 2021. Nummereringen i vedlegg II tilsvarer paragrafnummer i den opphevede forskriften).
+
+6\. *Plassering*
 
 (1) Helikopterdekket skal plasseres slik at den hinderfrie ut- og innflygingssektor får den mest gunstige retning i forhold til de fremherskende vindforhold, for at inn- og utflygingsområdet og landingsområdet blir minst mulig berørt av turbulens fra strukturer. Det skal også tas hensyn til høye temperaturer fra turbinutslipp og annet gassutslipp om bord.
 
@@ -392,13 +416,19 @@ Følgende nødutstyr skal oppbevares synlig, lett tilgjengelig og på et sikkert
 
 (3) Turbulensforhold skal dokumenteres ved prøve i vindtunnel eller simuleringsmodell.
 
+7\. *Utførelse og konstruksjon*
+
 (1) Helikopterdekket skal være utført i et egnet korrosjonsbestandig materiale og konstruert slik at bakkeeffekten bevares.
 
 (2) Dekket skal være konstruert slik at vann ikke samler seg på dekket.
 
 (3) Dekkets helning må ikke overstige 2 %.
 
+8\. *Størrelse*
+
 Helikopterdekket skal ikke være mindre enn en sirkel med diameter 1,25 x «D».
+
+9\. *Belastning*
 
 (1) Helikopterdekket skal være dimensjonert ut fra den forutsetning at et hvilket som helst punkt på dekket kan påføres en enkeltlast lik 75 % av totalvekten av det tyngste helikopter som benyttes. Enkeltlasten regnes jevnt fordelt over kontaktflatens areal. Kontaktflaten mellom helikopterets landingsunderstell og helikopterdekk fastsettes i henhold til oppgave fra helikopterprodusenten.
 
@@ -406,15 +436,23 @@ Helikopterdekket skal ikke være mindre enn en sirkel med diameter 1,25 x «D».
 
 (3) Ved de i første og annet ledd angitte belastninger av helikopteret sammen med konstruksjonens egenvekt og vindpåkjenninger er de tillatte spenninger lik materialets flytespenninger, dog ikke over 2/3 av bruddgrensen.
 
+10\. *Hinderfri ut- og innflygingssektor*
+
 (1) Helikopterdekket skal ha en 210° hinderfri ut- og innflygingssektor. Sektoren skal utgå fra helikopterdekkets nivå, i dets horisontalplan, unntatt over en 180° vinkel regnet gjennom sentrum av dekket vinkelrett på 210° – vinkelens midtlinje. Denne delen av den hinderfrie ut- og innflygingssektor skal utgå i et plan med fallgradient 5:1 fra sikkerhetsnettets eller gangbroens ytterkant og ned til i høyde med havets nivå.
 
 (2) Vinkelens midtlinje skal normalt gå gjennom sentrum av helikopterdekket (sirkel eller firkant). Sektoren kan «svinges» opp til 15°.
+
+11\. *Hindringer i ut- og innflygingssektor*
 
 (1) I 210° ut- og innflygingssektor skal det på eller i umiddelbar nærhet av dekket, ikke være hindringer som rager over helikopterdekkets nivå. Herfra er unntatt:sikringskant (jf. § 18),kant- og flombelysninger som ikke rager høyere enn 25 cm over helikopterdekkets nivå (jf. § 27),sikkerhetsnettets ytterkant (jf. § 15),enkeltstående hindringer nødvendig for helikopterdekkets drift (rekkverk ved nedganger, skumkanoner o.l.) som ikke rager høyere enn 25 cm over helikopterdekkets nivå.
 
 (2) Sektorens horisontale utstrekning beregnes ut fra ytelseskravene for den mest kritiske helikoptertype som benyttes.
 
+12\. *Hindringer utenom ut- og innflygningssektor*
+
 I 150° sektor fra helikopterdekkets ytterkant og ut til en avstand på 0,12 «D» tillates ikke hindringer høyere enn 0,05 «D». Fra 0,12 «D» og ut til en avstand på 0,33 «D» fra helikopterdekkets ytterkant tillates ikke hindringer som rager over et plan med stigning 1 (høyde) på 2 (avstand) med utgangspunkt i en høyde i innerkant på 0,05 «D».
+
+13\. *Friksjon*
 
 (1) Helikopterdekket skal ha en overflate som motvirker at helikopteret glir (non-skid), også når dekket er fuktig eller vått. Friksjonskoeffisienten skal være minst 0,40.
 
@@ -428,7 +466,11 @@ I 150° sektor fra helikopterdekkets ytterkant og ut til en avstand på 0,12 «D
 
 (6) Taunett kreves ikke på innretninger hvor helikopterdekkets overflate består av enkeltprofiler med særskilte friksjonsanordninger, forutsatt at dekket vedlikeholdes slik at tilfredsstillende friksjon er til stede.
 
+14\. *Maling*
+
 Maling som benyttes på eller i tilknytning til helikopterdekket skal være av brannhemmende type.
+
+15\. *Sikkerhetsnett*
 
 (1) Helikopterdekket skal være omgitt av et sikkerhetsnett med bredde 1,5 meter for å redusere ulykkesrisiko for personer på dekk. Nettet skal være laget av et korrosjons- og brannbestandig materiale. Maskene skal ikke være større enn 10 cm i firkant. Sikkerhetsnettet skal være sterkt nok til å tåle en belastning av minimum 200 kg/m2. Nettet skal utgå fra lik høyde under helikopterdekket og ha ca. 10° helning oppover slik at dets ytterkant kommer i høyde med helikopterdekkets nivå.
 
@@ -436,21 +478,33 @@ Maling som benyttes på eller i tilknytning til helikopterdekket skal være av b
 
 (3) I stedet for sikkerhetsnett kan det være nedsenket gangbro rundt helikopterdekket.
 
+16\. *Adkomster*
+
 (1) Foruten hovedadkomst til helikopterdekket skal det være minst to andre adkomster, fortrinnsvis plassert ca. 120° i forhold til hovedadkomst.
 
 (2) Adkomst til betjeningsplass for skumkanonene skal være arrangert slik at det ikke er nødvendig å passere deler av helikopterdekket.
 
+17\. *Fortøyningsfester*
+
 Helikopterdekket og spesielle områder for parkering av helikopter skal være utstyrt med nedsenkende forankringsfester til fortøyning av parkert helikopter.
+
+18\. *Sikringskant*
 
 Langs helikopterdekkets ytterkant skal det finnes en ca. 5 cm høy kant for å hindre at personell eller materiell glir utfor. Kanten skal dessuten sikre at skum beholdes på dekket for brannbekjemping, og for å oppnå kjøling ved en eventuell brann. Sikringskanten skal ha effektiv drenering til renne.
 
+19\. *Renne*
+
 Helikopterdekket skal være tett og omsluttet av en renne som tåler brennende drivstoff. Rennen og avløp fra denne skal dimensjoneres i forhold til beregnet største samtidig vannforbruk på dekket. Rennens tverrsnitt skal minst være 200 x 200 mm. Dreneringen skal fungere effektivt og lede direkte til sjø under de krengevinkler som helikoptre kan lande.
+
+20\. *Vindpølse*
 
 (1) En lett synlig vindpølse skal være montert der hvor den i minst mulig grad forstyrres av turbulens fra omkringliggende konstruksjoner. Vindpølsen skal være ensfarget (oransje) eller tofarget: oransje/hvit, rød/hvit eller sort/hvit. Vindpølsen skal være konisk formet og skal minimum ha størrelse: indre diam. 30 cm, ytre diam. 15 cm, lengde 1,2 m.
 
 (2) Ekstra vindpølse skal installeres der hvor turbulens ved bestemte vindretninger kan påvirke den ordinære vindpølsens funksjoner.
 
 (3) Vindpølsen må kunne belyses for nattflyging.
+
+21\. *Merking*
 
 (1) Helikopterdekk skal være grønt eller grått.
 
@@ -464,17 +518,29 @@ Helikopterdekket skal være tett og omsluttet av en renne som tåler brennende d
 
 (6) Referansesirkelens indre diameter skal tilsvare halvparten av helikopterdekkets «D»-verdi, men ikke være mindre enn 6 meter, og ikke større enn 12 meter. Når særlige flyoperative forhold krever det, kan referansesirkelens sentrum tillates forskjøvet inntil 0,1 «D» fra helikopterdekkets sentrum, langs 210° vinkelens midtlinje, mot dekkets ytterkant.
 
+22\. *Navnemerking*
+
 Helikopterdekk skal være merket med innretningens navn godt synlig fra alle innflygingsretninger over helikopterdekkets nivå. Merkingen skal fortrinnsvis være utført på helikopterdekkets side mot 150° sektor, mellom referansesirkelen og hinderområdet. Merkingen skal være utført i kontrastfarge med bokstavstørrelse ikke mindre enn 1,2 m.
+
+23\. *Merking av hinderfri sektor*
 
 Helikopterdekkets 210° hinderfrie sektor skal være merket. Merkingen skal bestå av et 10 cm bredt svart felt langs hver av sektorgrensene, sammensatt slik at de utgjør sektorens vinkel der hvor det hinderfrie området begynner. Vinkelens høyde skal være lik bredden av helikopterdekkets kantmarkering.
 
+24\. *Merking av helikopterdekkets størrelse*
+
 Helikopterdekkets skal merkes med D-verdien for det største helikopteret som kan bruke dekket. D-verdien i hele meter skal være påført i kontrastfarge minst tre steder (90° avstand) på helikopterdekkets ytre markering. Tallene skal ha en høyde på ca. 60 cm.
 
+25\. *Merking av hindringer*
+
 Fast monterte hindringer som befinner seg i 150° sektor eller langs dens grenselinje og/eller utgjør fare for flyging, skal markeres med kontrastfarger og om nødvendig forsynes med varsellys med lysstyrke minst 10 candelas (jf. § 27).
+
+26\. *Skilt ved adkomster*
 
 (1) Ved adkomstene til helikopterdekket skal det være slått opp lett synlige skilter som forbyr opphold på dekket under start og landing og personaltrafikk på dekket bak parkert helikopter med rotor(er) i gang.
 
 (2) Nedgangene fra helikopterdekket skal være tydelig merket «EXIT» og «UTGANG» ved hjelp av oppslag som skal være tilstrekkelig synlig i mørke.
+
+27\. *Belysning*
 
 (1) Helikopterdekk som skal benyttes for nattflyging og/eller under forhold med redusert sikt skal ha:Et tilfredsstillende skjermet flomlysarrangement slik at flygebesetningen under innflygings- og landingsfasen ikke blir blendet. Når lysarmaturer med dobbeltfunksjon (kant- og flomlys) er installert, skal gjennomsnittlig belysningsstyrke være minst 10 lux. Belysningen av dekket skal ha en jevnhet som ikke overstiger forholdet 8 til 1.Kantlys langs helikopterdekkets ytterkant plassert med jevne mellomrom som ikke overstiger 3 m. Kantlysene skal være rundtstrålende og gi fast grønt lys, og lysstyrken skal være minst 25 candelas. Armaturer må ikke rage høyere enn 25 cm over helikopterdekkets nivå. Kantbelysningene skal ikke være synlig under helikopterdekkets nivå.
 
@@ -484,17 +550,27 @@ Fast monterte hindringer som befinner seg i 150° sektor eller langs dens grense
 
 (4) Det skal sikres at lysene på helikopterdekket lett kan identifiseres fra andre lys på innretningen, og at belysning i nærheten ikke kan sjenere eller forstyrre helikopterbesetningen.
 
+28\. *Generelt*
+
 For regler om flyværtjeneste vises det til Luftfartstilsynets [forskrift 26. oktober 2007 nr. 1181 om kontinentalsokkelflygning – ervervsmessig luftfart til og fra helikopterdekk på innretninger og fartøy til havs § 31](forskrift/2007-10-26-1181/§31) og [forskrift 28. januar 2008 nr. 81 om flyværtjeneste](forskrift/2008-01-28-81).
+
+32\. *Registrering av helikopterdekkets bevegelser*
 
 (1) Innretningen skal ha instrumenter for kontinuerlig registrering av langskips (pitch), tverrskips (roll) og vertikale bevegelser (heave rate). Registreringene skal kunne presenteres for helikopterbesetningen på egnet måte for planlegging av flyging, samt kunne meddeles til helikopterbesetningen umiddelbart før landing.
 
 (2) Instrumentene skal kalibreres og vedlikeholdes etter fabrikantens anvisninger. Registreringene skal lagres i minst 30 dager.
 
+35\. *Tankingsanlegg for drivstoff*
+
 (1) Er innretningen utstyrt med tankingsanlegg for overføring av drivstoff til helikopter skal anlegg, betjeningsforskrifter samt instruks for drivstoffkontroll være godkjent av luftfartsforetaket før overføring av drivstoff er tillatt.
 
 (2) Det vises til § 37 og § 38 i denne forskrift vedrørende krav til brannberedskap i forbindelse med slike anlegg.
 
+36\. *Annet utstyr*
+
 Helikopterdekket skal til en hver tid ha alt utstyr nødvendig for driften, herunder:bremseklosser,utstyr for fortøyning av parkert helikopter,vekt for veiing av bagasje/passasjerer, ogutstyr for fjerning av snø og is.
+
+37\. *Generelle krav*
 
 (1) Det skal være åpent luftrom under helikopterdekket slik at effektiv brannslokning også kan utføres på undersiden. Se også [§ 6](forskrift/2008-01-28-81/§6).
 
@@ -507,6 +583,8 @@ Helikopterdekket skal til en hver tid ha alt utstyr nødvendig for driften, heru
 (5) HLO skal ha direkte forbindelse med helikopterbesetningen fra før landing til etter start. Før landing skal HLO informere om hvorvidt dekket er klart for landing. HLO skal umiddelbart informere besetningen dersom det oppstår en unormal situasjon.
 
 (6) Under av- og påstigning skal HLO sikre at passasjerer rettledes.
+
+38\. *Utstyr for brannbekjempelse*
 
 (1) Det skal være brannslukningssystem med skum på helikopterdekket. Systemet kan bestå av 3 stk. skumkanoner alternativt et grenrørsystem med dyser som effektivt leverer skum til hele helikopterdekket og til alle deler av helikopterets ytterflate. Skumkanonen skal være konstruert og plassert slik at de under bruk også kan dirigere vannstrålen direkte ned mot dekkets overflate.
 
@@ -534,6 +612,8 @@ Helikopterdekket skal til en hver tid ha alt utstyr nødvendig for driften, heru
 
 (13) Utstyret skal oppbevares lett tilgjengelig, synlig og på sikkert sted, fortrinnsvis i et forseglet skap eller kasse. Skapet eller kassen skal kunne låses med nøkkel, og nøkkelen skal være plassert bak et vindu av knuselig materiale. Skapet eller kassen skal være rødfarget og merket «NØDUTSTYR» og «EMERGENCY EQUIPMENT».
 
+39\. *Sikringstiltak for helikopterdekk med drivstoff tankanlegg*
+
 (1) Drivstoff med flammepunkt under 37 °C tillates ikke anvendt i forbindelse med tankanlegg.
 
 (2) Området for drivstofflagertank skal være i brannteknisk betryggende avstand fra boligkvarter, fluktveier og livbåtstasjoner. Det skal være atskilt fra områder hvor det finnes antennelseskilder. Drivstofflagertankene skal være beskyttet mot eventuelt helikopterhavari.
@@ -558,13 +638,19 @@ Helikopterdekket skal til en hver tid ha alt utstyr nødvendig for driften, heru
 
 (12) Sikkerhetsinstruks om fylling av drivstoff med bl.a. «Røyking forbudt»-skilt skal være oppsatt i nærheten av drivstoffanlegget.
 
+40\. *Vedlikeholds- og reservedelssystem*
+
 Rederiet skal ha et vedlikeholds- og reservedelssystem for helikopterdekket, beskrevet i dokumentasjon/manual for driften av innretningen.
+
+41\. *Drifts- og beredskapsdokumentasjon*
 
 (1) Det skal utarbeides en drifts- og beredskapsmanual. I instruksene skal det tas hensyn til aktuelle krav i denne forskrift og forøvrig krav fra luftfartsforetaket og luftfartsmyndighetene, samt aktuelle konstruksjons- og operasjonsbegrensninger fastsatt for helikopterdekkets tilhørende systemer og utstyr.
 
 (2) Det skal føres journal for driften av helikopterdekket.
 
 (3) Det skal i beredskapsmanualen angis planlagte tiltak og prosedyrer som er nødvendige for å avverge fare/skadesituasjoner og gjenvinne sikker drift av helikopterdekket, samt nødvendige tiltak for å redusere skadevirkningene ved eventuelle ulykker på helikopterdekket.
+
+42\. *Bemanning/opplæringssystem*
 
 (1) Rederiet skal utpeke nødvendig bemanning til operasjon av helikopterdekket, herunder leder helikopterdekk (HLO), jf. tredje ledd og § 37 annet ledd.
 

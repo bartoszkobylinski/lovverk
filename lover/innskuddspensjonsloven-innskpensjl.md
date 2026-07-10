@@ -38,6 +38,8 @@ I loven betyr:Barn: medlemmets barn, herunder stebarn og fosterbarn.Folketrygden
 
 > Endret ved [lover 5 sep 2003 nr. 91](lov/2003-09-05-91) (ikr. 1 mars 2004 iflg. [res. 5 sep 2003 nr. 1118](forskrift/2003-09-05-1118)), [10 juni 2005 nr. 45](lov/2005-06-10-45) (ikr. 7 okt 2005 iflg. [res. 7 okt 2005 nr. 1115](forskrift/2005-10-07-1115)), [16 juni 2006 nr. 31](lov/2006-06-16-31), [14 mars 2008 nr. 6](lov/2008-03-14-6) [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531)), [16 juni 2023 nr. 43](lov/2023-06-16-43) (i kraft 1 jan 2024 iflg. [res. 16 juni 2023 nr. 935](forskrift/2023-06-16-935)).
 
+1 Inkurie: Forskriften er opphevet.
+
 ### § 1-3. Forskrifter
 
 Kongen kan fastsette nærmere regler til utfylling og gjennomføring av bestemmelsene i loven her.
@@ -63,6 +65,8 @@ Kongen kan fastsette nærmere regler til utfylling og gjennomføring av bestemme
 Pensjonsordning etter loven her kan opprettes ved avtale medinstitusjon som har tillatelse fra norske myndigheter til å drive virksomhet her i riket som bank, livsforsikringsselskap, pensjonskasse, innskuddspensjonsforetak eller forvaltningsselskap for verdipapirfond,kredittinstitusjon, livsforsikringsselskap, pensjonsforetak eller forvaltningsselskap for verdipapirfond som er hjemmehørende i en annen stat innenfor EØS-området og som har adgang til å drive tilsvarende virksomhet som nevnt i bokstav a her i riket.1
 
 > Endret ved [lover 10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)), [10 des 2004 nr. 77](lov/2004-12-10-77) (ikr. 1 juli 2008 iflg. [res. 20 juni 2008 nr. 633](forskrift/2008-06-20-633)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
+
+1 Jf. EØS-avtalen vedlegg IX nr. 1 (dir [2009/138](eu/32009l0138*)), nr. 14 (dir [2006/48](eu/32006l0048), vil bli erstattet av dir [2013/36](eu/32013l0036*)), nr. 30 (dir [2009/65](eu/32009l0065)) og nr. 31d (dir [2003/41](eu/32003l0041)), jf. [lov 10 apr 2015 nr. 17 kap. 5](lov/2015-04-10-17/kap5).
 
 ### § 2-3. Minstekrav til pensjonsordningen
 
@@ -560,6 +564,8 @@ Innskuddsfondet skal tilføres:alle tilskudd til innskuddsfondet som omfattes av
 
 > Endret ved [lover 15 juni 2001 nr. 40](lov/2001-06-15-40) (ikr. 15 juni 2001 iflg. [res. 15 juni 2001 nr. 653](forskrift/2001-06-15-653)), [15 juni 2001 nr. 41](lov/2001-06-15-41) (ikr. 1 juli 2001 iflg. [vedtak 29 juni 2001 nr. 742](forskrift/2001-06-29-742)), [7 juni 2002 nr. 17](lov/2002-06-07-17) (ikr. 1 des 2003 iflg. [vedtak 3 nov 2003 nr. 1293](forskrift/2003-11-03-1293)), [17 des 2010 nr. 83](lov/2010-12-17-83) (ikr. 1 jan 2011).
 
+1 Inkurie: Paragrafen er opphevet.
+
 ### § 9-4. Overføring til foretaket
 
 (1) Er innskuddsfondet ved årets utgang større enn seks ganger gjennomsnittet av årets innskudd etter innskuddsplanen og tilsvarende innskudd for de to foregående år, skal foretaket sørge for at det overskytende beløp overføres til foretaket.
@@ -746,4 +752,8 @@ Ved omdanning av pensjonsordning etter loven her til pensjonsordning etter tjene
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1167](forskrift/2000-11-24-1167).
+
 ### § 15-2. Endringer i andre lover
+
+– – –

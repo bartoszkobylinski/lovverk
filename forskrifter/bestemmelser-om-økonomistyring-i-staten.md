@@ -30,17 +30,27 @@ Reglement for økonomistyring i staten («reglementet») og Bestemmelser om øko
 
 Det reviderte reglementet erstatter Økonomireglement for staten, fastsatt ved kongelig resolusjon 26. januar 1996. Bestemmelsene erstatter Funksjonelle krav til økonomiforvaltningen i staten, fastsatt av Finansdepartementet 24. oktober 1996 med endringer av 23. august 2001.
 
+Finansavdelingen, desember 2003.
+
 Stortinget vedtok 26. mai 2005 nytt bevilgningsreglement som trer i kraft 1. januar 2006. Som en følge av dette er henvisninger til bevilgningsreglementet oppdatert i reglementet og bestemmelsene. Revidert reglement for økonomistyring i staten ble fastsatt ved kongelig resolusjon 2. desember 2005 nr. 1539. Finansdepartementet fastsatte 21. desember 2005 reviderte Bestemmelser om økonomistyring i staten, for gjennomføring av dette reglementet (med hjemmel i reglementets § 3).
 
 Reglement for økonomistyring i staten («reglementet») og Bestemmelser om økonomistyring i staten («bestemmelsene») trer i kraft 1. januar 2006.
 
+Finansavdelingen, desember 2005.
+
 Ordlyden i bestemmelsene pkt. 4.4.7.4 Øvrig dokumentasjon og regnskapsmateriale er 14. november 2006 tilpasset Riksrevisjonens praksis for rapportering av resultater fra regnskapsrevisjonen til Stortinget.
 
-16. juni 2009 sluttet Stortinget seg til forslaget i [St.meld.nr.36 (2008–2009)](https://www.regjeringen.no/id/STM200820090036000DDDEPIS) Det gode innkjøp om at statlige virksomheter skulle kunne motta elektroniske fakturaer (jf. [Innst.S.nr.348 (2008–2009)](forarbeid/inns-s-348-200809)). Ordlyden i bestemmelsene 2.5.2.3, 4.3.1, 4.3.6, 4.4.7.3, 4.4.7.6, 5.3.5, 5.3.5.1, 5.3.5.2 og 5.3.6 er endret som en følge av dette. Ordlyden i bestemmelsene 4.4.3 og 5.3.2 er justert i henhold til gjeldende lovverk.
+Finansavdelingen, november 2006.
+
+16\. juni 2009 sluttet Stortinget seg til forslaget i [St.meld.nr.36 (2008–2009)](https://www.regjeringen.no/id/STM200820090036000DDDEPIS) Det gode innkjøp om at statlige virksomheter skulle kunne motta elektroniske fakturaer (jf. [Innst.S.nr.348 (2008–2009)](forarbeid/inns-s-348-200809)). Ordlyden i bestemmelsene 2.5.2.3, 4.3.1, 4.3.6, 4.4.7.3, 4.4.7.6, 5.3.5, 5.3.5.1, 5.3.5.2 og 5.3.6 er endret som en følge av dette. Ordlyden i bestemmelsene 4.4.3 og 5.3.2 er justert i henhold til gjeldende lovverk.
+
+Finansdepartementet, juni 2010.
 
 Finansdepartementet orienterte Stortinget i [Prop.1 S (2012–2013)](forarbeid/prop-1-s-201213) Gul bok om innføringen av ny standard kontoplan fra 2014 og om arbeidet med å etablere en standard for presentasjon av årsrapport og årsregnskap i staten. Forslag til presentasjon av årsrapport og årsregnskap ble sendt på høring i desember 2012, med høringsfrist april 2013. Det var god oppslutning om forslaget, og nye krav til årsrapport og årsregnskap er tatt inn i Bestemmelsene om økonomistyring i staten fra 1. januar 2014. Endringene gjelder særlig kap. 1–4 i Bestemmelsene om økonomistyring i staten. Det er videre gjort tilpasninger i bestemmelsene som følge av endringer i bokføringsloven med tilhørende forskrifter. I kap. 5, 6, 7 og 8 er det bare gjort mindre justeringer, der dette følger av endringene i kapittel 1–4. I tillegg er det gjort enkelte presiseringer og språklige forbedringer.
 
 Bestemmelser om økonomistyring i staten («bestemmelsene») trer i kraft 1. januar 2014. Nye krav til årsrapport og årsregnskap gjelder regnskapsåret 2014, med frist for virksomhetene 15. mars 2015.
+
+Finansdepartementet, september 2013.
 
 Endringene fastsatt i 2015 gjelder særlig kapitlene 2, 3 og 4 i Bestemmelsene om økonomistyring i staten. Nye krav til vurdering av internrevisjon i statlige virksomheter er tatt inn i punkt 2.2. Krav om at virksomhetene skal føre regnskapet etter enten kontantprinsippet eller periodiseringsprinsippet iht. SRS er tatt inn i punkt 3.3.2. På bakgrunn av dette er det også gjort tilpasninger i punkt 3.4 Virksomhetens årsregnskap. I punkt 3.4 er det også gjort redigeringsmessige justeringer, blant annet ved at punktene 3.4.4-3.4.6 nå gir en mer samlet framstilling av spesielle tilpasninger for henholdsvis forvaltningsorganer med særskilte fullmakter, forvaltningsbedrifter og statlige fond. Det tidligere punkt 3.6 Statlige fond er nå lagt inn som underpunkt (3.6.4) til nytt punkt 3.6 Forvaltning av finansielle eiendeler og midler (tidligere punkt 3.7). Spesielle tilpasninger for blant annet årsregnskap og rapportering for statlige fond er lagt til egne punkt (3.4.6 og 3.5.6).
 
@@ -49,6 +59,8 @@ I bestemmelsene punkt 4.4 er det gjort tilpasninger som følge av endringer i bo
 I kap. 1, 5, 6, 7 og 8 er det bare gjort mindre justeringer. Det er generelt gjort enkelte presiseringer og språklige forbedringer.
 
 Bestemmelser om økonomistyring i staten («bestemmelsene») trer i kraft 1. januar 2016.
+
+Finansdepartementet, november 2015.
 
 Endringene fastsatt i 2019 berører alle kapitler i bestemmelser om økonomistyring i staten, med unntak av kapittel 8 om forvaltning av garantiordninger. I kapittel 1 er det innarbeidet en definisjon av begrepet statlig virksomhet, i form av et sett med kriterier som en virksomhet må oppfylle, jf. punkt 1.2. Videre er publiseringskravene i kapittel 1 og 2 endret på noen punkter. Det er tatt inn et nytt krav om å publisere departementenes instrukser til underliggende virksomheter (punkt 1.3 og 2.2), og fristen for å publisere årsrapporten er endret (punkt 1.6.1 og 2.3.3). Videre er kravet om å publisere revisjonsberetningen justert og innarbeidet i bestemmelsene, og det er klargjort at supplerende tildelingsbrev skal publiseres.
 
@@ -62,7 +74,11 @@ Det er også noen andre endringer i kapittel 4 og 5. Kravene til elektronisk til
 
 Bestemmelser om økonomistyring i staten trer i kraft 1. januar 2020, med unntak av kravet om å tilby elektronisk faktura, som trådte i kraft 1. januar 2019 (jf. Finansdepartementets rundskriv [R-10/2018](rundskriv/r-2018-10)), og kravene til regnskapsføring av innbetalinger ved refusjoner av utlegg og utgiftsdeling, som trer i kraft 1. januar 2021. Endringene som gjelder virksomhetenes årsrapport og publisering av revisjonsberetningen, gjelder fra og med rapporteringen for 2019.
 
+Finansdepartementet, september 2019.
+
 Endringer fastsatt i 2021 berører [bestemmelser om økonomistyring i staten, kapittel 3](forskrift/2003-12-12-1939/kap3) felles standarder og systemer for budsjettering, regnskapsføring og betalingsformidling. I punkt 3.3.2 om virksomhetens plikt til å føre regnskap er det tatt inn bestemmelse om at de statlige regnskapsstandardene (SRS) gjøres obligatorisk for alle statlige virksomheter med en innføringsperiode på fem år fra 2022, jf. Finansdepartementets rundskriv [R-2021-114](rundskriv/r-2021-114)/31. august 2021. I tråd med dette er det i punktene 3.4.1 og 3.4.2 gjort en mindre redigeringsmessig justering.
+
+Finansdepartementet, august 2021
 
 Endringer fastsatt i 2022 gjelder punkt 2.7 Evalueringer som er oppdatert med digital avlevering eller innsamling til [kudos.dfo.no](https://kudos.dfo.no/). Tilsvarende gjelder punktene 6.5, 7.4 og 8.5. Punkt 3.5.1 Generelt om rapportering til statsregnskapet er oppdatert og skiller på håndtering av feil i årets månedlige rapportering og håndtering av feil i tidligere års statsregnskap. I punkt 5.3.2 Annet regel- og avtaleverk på området er det tatt inn en fotnote med henvisning til rammeavtaler om betalings- og kontoholdstjenester og felles innkjøpsavtaler for sivile virksomheter i statsforvaltningen. Punkt 5.3.7 Registrering av eiendeler er oppdatert for å vise at virksomheter som avlegger årsregnskapet etter de statlige regnskapsstandardene (SRS) oppfyller disse kravene. I punkt 5.4.3 Stille innkreving i bero er det presisert hvordan forventet tap skal håndteres i regnskapet, og i punkt 5.4.5 Regnskapsmessig behandling av opphørte krav er det det gitt retningslinjer for hvordan slike krav skal føres ut av kontospesifikasjonen.
 
@@ -864,6 +880,8 @@ På en del områder har staten inngått rammeavtaler om innkjøp. Virksomheten k
 
 Det foreligger merverdiavgiftsplikt når virksomheten kjøper fjernleverbare tjenester fra utlandet (innførsel av tjenester). Plikten til å beregne og betale merverdiavgift påhviler virksomheten, jf. [merverdiavgiftsloven § 11-3](lov/2009-06-19-58/§11-3). Dette betyr at virksomheten vil være pliktig til å beregne og betale merverdiavgift i slike tilfeller.
 
+1 Dette gjelder eksempelvis obligatoriske rammeavtaler om betalings- og kontoholdstjenester som Direktoratet for forvaltning og økonomistyring inngår på vegne av Finansdepartementet. Det gjelder også felles innkjøpsavtaler for sivile virksomheter i statsforvaltningen som er obligatoriske så fremt det ikke er avtalt noe annet («fravalg») i forkant av anskaffelsen. Innkjøpsavtalene inngås og forvaltes av Direktoratet for forvaltning og økonomistyring på grunnlag av [forskrift 3. september 2021 nr. 2661 om fullmakt til å inngå felles innkjøpsavtaler i statsforvaltningen](forskrift/2021-09-03-2661).
+
 ### 5.3.3 Budsjettdisponering og bestilling
 
 Bestilling av varer og tjenester skal bekreftes av ansatt som har budsjettdisponeringsmyndighet, jf. pkt. 2.5.2.1.
@@ -1323,6 +1341,8 @@ Departementet skal ved utgangen av hvert år sende Riksrevisjonen en oversikt ov
 Kapitlet inneholder bestemmelser om etablering og forvaltning av garantiordninger. Formålet med bestemmelsene er å sikre effektiv og hensiktsmessig utforming og oppfølging av garantiordninger.1
 
 Kapittel 8 gjelder for såkalte reelle garantiordninger, dvs. forhold der staten garanterer for at juridisk person (låntaker) oppfyller sitt avtaleforhold overfor juridisk person (långiver). Garanti i henhold til kapittel 8 er ikke aktuell dersom enten långiver eller låntaker er et statlig forvaltningsorgan.
+
+1 Om grunnlaget for kapitlet vises blant annet til generelle retningslinjer for nye garantier omtalt i Nasjonalbudsjettet 1983 (jf. B.innst. S. nr. I (1982–1983)), forslag om behandlingsmåten for garantisaker i St.prp. nr. 1 (1985–1986) og Riksrevisjonens [Dokument 3:6 (1995–1996)](https://www.regjeringen.no/globalassets/upload/fin/vedlegg/okstyring/eldre_dok/dok_3_6_1995_1996.pdf) om forvaltningen av statlige garantiordninger (jf. [Innst. S. nr. 218 (1995–1996)](forarbeid/inns-s-218-199596)).
 
 ### 8.2 Utarbeidelse av en garantiordning
 

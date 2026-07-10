@@ -32,9 +32,13 @@ Formålet med denne forskriften er å forebygge og begrense spredning av smittso
 
 Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett1virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk2virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum3transportenheter for akvatiske organismer fra oppdrett4virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser
 
+1 Jfr. slakteriforskriften.2 Jfr. sjukdomsforskrifter for akvatiske organismer.3 Jfr. forskrift om innførsel og utførsel av akvatiske organismer, produkter og smitteførende gjenstander.4 Jfr. forskrift om transport av akvatiske organismer.
+
 ### § 3. Definisjoner
 
 I denne forskriften menes med:*Akvatiske organismer:* alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.*Akvakultur:* virksomhet der en driver oppdrett1 eller på annen måte holder akvatiske organismer i fangenskap.*Eksotisk smittestoff:* et kjent smittestoff som ikke er dokumentert tilstede i Norge.*Eksotiske arter av akvatiske organismer:* akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.*Prosedyre:* dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.
+
+1 Jfr. [oppdrettslovens § 2](lov/1985-06-14-68/§2).
 
 ## Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann
 
@@ -46,6 +50,8 @@ Mattilsynet kan bestemme at også andre akvakulturanlegg skal desinfisere inntak
 
 > Endret ved [forskrift 9 jan 2004 nr. 98](forskrift/2004-01-09-98).
 
+1 Jfr. [fiskesjukdomslovens § 7](lov/1968-12-06-2/§7) annet ledd.
+
 ### § 5. Avløpsvann fra slakterier/tilvirkningsanlegg
 
 Slakterier/tilvirkningsanlegg m.v. skal desinfisere alt avløpsvann slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
@@ -56,6 +62,8 @@ Organisk slam som produseres i forbindelse med behandling av avløpsvann fra sla
 
 > Endret ved [forskrifter 9 jan 2004 nr. 98](forskrift/2004-01-09-98), [27 okt 2007 nr. 1267](forskrift/2007-10-27-1267), [19 okt 2016 nr. 1217](forskrift/2016-10-19-1217).
 
+1 Jf. [forskrift 14. september 2016 nr. 1064](forskrift/2016-09-14-1064) om animalske biprodukter som ikke er beregnet på konsum.
+
 ### § 6. Avløpsvann fra landbaserte akvakulturanlegg
 
 Landbaserte akvakulturanlegg som har tillatelse til å drive smitteforsøk med akvatiske organismer skal desinfisere avløpsvannet slik at det ikke medfører fare for smittespredning. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.
@@ -64,17 +72,23 @@ Mattilsynet kan bestemme at også andre landbaserte akvakulturanlegg skal desinf
 
 > Endret ved [forskrift 9 jan 2004 nr. 98](forskrift/2004-01-09-98).
 
+1 Jfr. [fiskesjukdomslovens § 7](lov/1968-12-06-2/§7) annet ledd.
+
 ### § 7. Transportvann
 
 Mattilsynet kan bestemme at vann fra transport av akvatiske organismer til/fra akvakulturanlegg skal desinfiseres slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og slakteriets/transportenhetens driftsplan forøvrig.
 
 > Endret ved [forskrift 9 jan 2004 nr. 98](forskrift/2004-01-09-98).
 
+1 Jf. forskrift om dyrehelsemessige vilkår ved omsetning og innførsel av akvakulturdyr og akvakulturprodukter.
+
 ## Kapittel III Godkjenning av metoder og teknisk utstyr
 
 ### § 8. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann
 
 Veterinærinstituttet kan etter søknad godkjenne metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann som oppfyller de krav som går frem av [§§ 10](forskrift/1997-02-20-192/§10) og [11 i](forskrift/1997-02-20-192/§11) denne forskrift.
+
+1 Jfr. likevel forurensingslovens bestemmelser om avfall og avløp.
 
 ### § 9. Forbehandling av inntaksvann og avløpsvann
 
@@ -86,21 +100,21 @@ Avløpsvann fra slakterier/tilvirkningsanlegg skal filtreres gjennom silanordnin
 
 ### § 10. Krav til metoder for desinfeksjon av inntaksvann og avløpsvann
 
-1. For inntaksvann til akvakulturanlegg som driver klekking og produksjon av laksefisk og annen ferskvannsfisk gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 3 log10 (99,9%) inaktivering av Aeromonas salmonicida, subsp. salmonicida, og det er vist, eller på grunnlag av dose-responskurver for IPN-virus anses sannsynlig, at infeksiøs lakseanemi virus (ILA-virus) også inaktiveres tilsvarende.
+1\. For inntaksvann til akvakulturanlegg som driver klekking og produksjon av laksefisk og annen ferskvannsfisk gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 3 log10 (99,9%) inaktivering av Aeromonas salmonicida, subsp. salmonicida, og det er vist, eller på grunnlag av dose-responskurver for IPN-virus anses sannsynlig, at infeksiøs lakseanemi virus (ILA-virus) også inaktiveres tilsvarende.
 
-2. For avløpsvann fra slakterier/tilvirkningsanlegg m.v. gjelder [§ 10](forskrift/1997-02-20-192/§10).1.
+2\. For avløpsvann fra slakterier/tilvirkningsanlegg m.v. gjelder [§ 10](forskrift/1997-02-20-192/§10).1.
 
-3. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk med bakterier/virus/parasitter som er listeført på sjukdomslistas gr. B eller C gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av Yersinia ruckeri.
+3\. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk med bakterier/virus/parasitter som er listeført på sjukdomslistas gr. B eller C gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av Yersinia ruckeri.
 
-4. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk nevnt i [§ 10](forskrift/1997-02-20-192/§10).3 og i tillegg én eller flere av følgende kategorier a) smittestoff som er listeført på sjukdomslistas gr. A, b) eksotisk smittestoff, c) eksotiske arter av akvatiske organismer, og/eller d) ukjent smittestoff, gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av IPN-virus.
+4\. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk nevnt i [§ 10](forskrift/1997-02-20-192/§10).3 og i tillegg én eller flere av følgende kategorier a) smittestoff som er listeført på sjukdomslistas gr. A, b) eksotisk smittestoff, c) eksotiske arter av akvatiske organismer, og/eller d) ukjent smittestoff, gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av IPN-virus.
 
-5. Der det settes krav om installasjon av filteranlegg for å holde tilbake Gyrodactylus salaris, er kravet at filteret skal holde tilbake alle livsstadier av G. salaris ved det vanntrykket filteret blir utsatt for under maksimal belastning. Dersom filteranlegget i seg selv ikke er tilstrekkelig til å hindre spredning, må filtreringen kombineres med andre desinfeksjonsmetoder.
+5\. Der det settes krav om installasjon av filteranlegg for å holde tilbake Gyrodactylus salaris, er kravet at filteret skal holde tilbake alle livsstadier av G. salaris ved det vanntrykket filteret blir utsatt for under maksimal belastning. Dersom filteranlegget i seg selv ikke er tilstrekkelig til å hindre spredning, må filtreringen kombineres med andre desinfeksjonsmetoder.
 
-6. For avløpsvann fra akvakulturanlegg som karantenterer importerte levende akvatiske organismer for videresalg til konsum gjelder [§ 10](forskrift/1997-02-20-192/§10).4.
+6\. For avløpsvann fra akvakulturanlegg som karantenterer importerte levende akvatiske organismer for videresalg til konsum gjelder [§ 10](forskrift/1997-02-20-192/§10).4.
 
-7. For avløpsvann fra akvakulturanlegg som har tillatelse til å drive oppdrett av eksotiske arter av akvatiske organismer gjelder [§ 10](forskrift/1997-02-20-192/§10).4.
+7\. For avløpsvann fra akvakulturanlegg som har tillatelse til å drive oppdrett av eksotiske arter av akvatiske organismer gjelder [§ 10](forskrift/1997-02-20-192/§10).4.
 
-8. For avløpsvann fra transport av akvatiske organismer til/fra akvakulturanlegg, gjelder [§ 10](forskrift/1997-02-20-192/§10).1.
+8\. For avløpsvann fra transport av akvatiske organismer til/fra akvakulturanlegg, gjelder [§ 10](forskrift/1997-02-20-192/§10).1.
 
 ### § 11. Krav til teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann
 
@@ -110,15 +124,15 @@ Godkjent teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal som 
 
 ### § 12. Godkjenningsprosedyre
 
-1. Godkjenning av metode etter [§ 10](forskrift/1997-02-20-192/§10) (metodegodkjenning) gjøres på grunnlag av dokumenterte resultater oppnådd i forsøksskala.
+1\. Godkjenning av metode etter [§ 10](forskrift/1997-02-20-192/§10) (metodegodkjenning) gjøres på grunnlag av dokumenterte resultater oppnådd i forsøksskala.
 
-2. Godkjenning av utstyr etter [§ 11](forskrift/1997-02-20-192/§11) (utstyrsgodkjenning) kan gis for en spesifikk utstyrstype (typegodkjenning), teknisk utstyr som bygges om slik at det blir identisk med typegodkjent utstyr, eller særegent utstyr som er konstruert ut i fra lokale tilpasninger hos den enkelte virksomhet. Godkjenningene kan gjøres tidsbegrensede.
+2\. Godkjenning av utstyr etter [§ 11](forskrift/1997-02-20-192/§11) (utstyrsgodkjenning) kan gis for en spesifikk utstyrstype (typegodkjenning), teknisk utstyr som bygges om slik at det blir identisk med typegodkjent utstyr, eller særegent utstyr som er konstruert ut i fra lokale tilpasninger hos den enkelte virksomhet. Godkjenningene kan gjøres tidsbegrensede.
 
-3. Godkjenning av metode eller utstyr kan trekkes tilbake med øyeblikkelig virkning for de tilfeller der systematiske feil/mangler ved utstyret, nye sjukdomssituasjoner/smittestoff eller ny viten om slike forhold tilsier at godkjente metoder eller utstyr ikke lenger oppfyller formålet de er godkjent for.
+3\. Godkjenning av metode eller utstyr kan trekkes tilbake med øyeblikkelig virkning for de tilfeller der systematiske feil/mangler ved utstyret, nye sjukdomssituasjoner/smittestoff eller ny viten om slike forhold tilsier at godkjente metoder eller utstyr ikke lenger oppfyller formålet de er godkjent for.
 
-4. Etter at desinfeksjonsutstyret er installert på den enkelte virksomhet, skal det gis melding om dette til Mattilsynet. Meldingen skal gis på den måten Mattilsynet bestemmer.
+4\. Etter at desinfeksjonsutstyret er installert på den enkelte virksomhet, skal det gis melding om dette til Mattilsynet. Meldingen skal gis på den måten Mattilsynet bestemmer.
 
-5. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal for øvrig gjennomføres i samsvar med de til enhver tid gjeldende instrukser utarbeidet av Fiskeridepartementet.
+5\. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal for øvrig gjennomføres i samsvar med de til enhver tid gjeldende instrukser utarbeidet av Fiskeridepartementet.
 
 > Endret ved [forskrifter 30 aug 2002 nr. 941](forskrift/2002-08-30-941), [9 jan 2004 nr. 98](forskrift/2004-01-09-98), [6 juli 2007 nr. 951](forskrift/2007-07-06-951).
 

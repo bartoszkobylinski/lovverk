@@ -306,10 +306,16 @@ Annullert eksamen teller som ett eksamensforsøk, jf. [§ 4-12](forskrift/2017-1
 
 Eksamenskarakterene vil bli offentliggjort senest 3 (tre) uker etter avholdt eksamen. Karakterer oppgis ikke muntlig, men legges ut i studentportalen såfremt studenten er à jour med betalingen sin. Vitnemål blir sendt studenten senest 3 (tre) uker etter siste sensur.
 
-Ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller fra en gradert skala fra A til F, jf. forskrift om fagskoleutdanning § 4. Laveste karakter som godkjennes for bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:AFremragendeFremragende prestasjon som klart utmerker seg.
-Viser stor grad av selvstendighet.BMeget godtMeget god prestasjon som ligger over gjennomsnittet.
-Viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene,
-men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+Ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller fra en gradert skala fra A til F, jf. forskrift om fagskoleutdanning § 4. Laveste karakter som godkjennes for bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Viser stor grad av selvstendighet. |
+| B | Meget godt | Meget god prestasjon som ligger over gjennomsnittet.<br>Viser evne til selvstendighet. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene,<br>men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 ### § 4-15. Vitnemål og karakterutskrift
 

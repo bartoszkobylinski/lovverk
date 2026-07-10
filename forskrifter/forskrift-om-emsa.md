@@ -33,3 +33,11 @@ eu_basis: []
 Forskriften trer i kraft straks.
 
 ## Forordninger
+
+For å lese forordning [(EF) nr. 1406/2002](eu/32002r1406) se her: [(pdf)](static/SF/32002r1406o.pdf)
+
+For å lese forordning [(EF) nr. 1891/2006](eu/32006r1891) se her: [(pdf)](static/SF/32006r1891o.pdf)
+
+For å lese forordning [(EF) nr. 1644/2003](eu/32003r1644) se her: [(pdf)](static/SF/32003r1644o.pdf)
+
+For å lese forordning [(EF) nr. 724/2004](eu/32004r0724) se her: [(pdf)](static/SF/32004r0724o.pdf)

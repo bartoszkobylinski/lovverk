@@ -91,15 +91,38 @@ Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som 
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt flerdimensjonsmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C |
+
 ### § 11. Mekaniske miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter instrumenter som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. instrumenter som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter instrumenter som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at instrumentet er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter instrumenter som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel instrumenter montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
 
 ### § 12. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter instrumenter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter instrumenter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter instrumenter som får strøm fra batteriet i et kjøretøy. Slike instrumenter skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -200,6 +223,14 @@ Den kritiske endringsverdien er lik en minstedeling (d).
 Aktuelle dimensjoner skal være innenfor måleområdet produsenten har angitt for flerdimensjonsmåleren.
 
 Nedre grense for minimumsdimensjonen for alle verdier av minstedelingen er gitt i tabell 4.
+
+*Tabell 4*
+
+| *minstedeling (d)* | *Minimumsdimensjon (min)<br>(nedre grense)* |
+| --- | --- |
+| d ≤ 2 cm | 10 d |
+| 2 cm < d ≤ 10 cm | 20 d |
+| 10 cm < d | 50 d |
 
 Produktets hastighet skal være innenfor området angitt av produsenten for flerdimensjonsmåleren.
 

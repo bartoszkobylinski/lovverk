@@ -32,9 +32,13 @@ Formålet med forskriften er å angi når sedler og mynter er så skadet at de i
 
 Tvungent betalingsmiddel skal være av en slik kvalitet at det med letthet skal kunne fastslås at de er ekte. Mottaker må være trygg på at sedler og mynter egner seg for videre bruk, og de må kunne håndteres både maskinelt og manuelt på en hensiktsmessig måte.
 
+*Sedler*
+
 Sedler inneholder flere sikkerhetselementer som gjør det mulig å ekthetskontrollere selv sterkt skadde sedler både manuelt og ved maskinell behandling.
 
 Sedler med følgende avvik er likevel å anse som så sterkt skadde, at de ikke lenger er tvungent betalingsmiddel:Slitasje, skade eller andre endringer som vanskeliggjør gjenkjenning, for eksempel at flere av de synlige sikkerhetselementene ikke kan verifiseres.Mer enn 5 % av seddelens areal er borte.
+
+*Mynter*
 
 I utgangspunktet skal alle mynter i sirkulasjon ha samme diameter, kanttykkelse, vekt, legering, ledeevne og preg som spesifikasjonene for ny mynt satt i sirkulasjon av Norges Bank. Slitasje etter bruk kan imidlertid føre til mindre endringer som gjør at mynten avviker fra disse spesifikasjonene uten at det behøver å være tvil om ekthet og egnethet for videre bruk.
 

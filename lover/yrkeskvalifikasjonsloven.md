@@ -48,6 +48,8 @@ Departementet kan gi forskrift om yrkesutøver som har ervervet sine yrkeskvalif
 
 > Endret ved [lover 21 juni 2019 nr. 60](lov/2019-06-21-60) (ikr. 1 aug 2019 iflg. [res. 21 juni 2019 nr. 778](forskrift/2019-06-21-778)), [11 juni 2021 nr. 81](lov/2021-06-11-81) (ikr. 1 aug 2021 iflg. [res. 18 juni 2021 nr. 1972](forskrift/2021-06-18-1972)).
 
+1 Jf. EØS-avtalen art. 32.
+
 ### § 2 a. Lovens anvendelse for yrkeskvalifikasjoner og yrkesutøvere fra Storbritannia
 
 Britiske borgere med yrkeskvalifikasjoner fra Storbritannia eller en EØS-stat og EØS-borgere med yrkeskvalifikasjoner fra Storbritannia som har fått innvilget godkjenning etter reglene i kapittel 3 innen utløpet av overgangsperioden som fastsatt i [lov 29. mars 2019 nr. 8](lov/2019-03-29-8) om en overgangsperiode ved Storbritannias uttreden fra EU [§ 2](lov/2019-03-29-8/§2), har rett til å utøve yrket i Norge. Tilsvarende gjelder for personer som omfattes av [utlendingsloven § 125 a](lov/2008-05-15-35/§125a).
@@ -118,11 +120,15 @@ En yrkesutøver som har et bevis på yrkeskvalifikasjoner ervervet i en annen E�
 
 Departementet kan gi forskrift om felles opplæringsrammer.
 
+1 Trer i kraft når Kongen bestemmer.
+
 ### § 11. Godkjenning etter felles opplæringsprøve
 
 En yrkesutøver som har bestått en felles opplæringsprøve i en annen EØS-stat som fastsatt etter direktiv [2005/36/EF](eu/32005l0036) artikkel 49b, har rett til å utøve yrket i Norge, på lik linje med yrkesutøvere som har ervervet sine yrkeskvalifikasjoner i Norge. Dette gjelder likevel kun dersom Norge har innført felles opplæringsprøve for det aktuelle yrket.
 
 Departementet kan gi forskrift om felles opplæringsprøve.
+
+1 Trer i kraft når Kongen bestemmer.
 
 ### § 12. Krav til dokumentasjon
 
@@ -221,3 +227,5 @@ Ansvarlige myndigheter som mottar eller treffer avgjørelse etter denne loven, s
 ### § 25. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
+
+1 Fra 1 jan 2018, med unntak av [§ 10](lov/2017-06-16-69/§10), [§ 11](lov/2017-06-16-69/§11), [§ 14](lov/2017-06-16-69/§14) og [§ 20](lov/2017-06-16-69/§20), iflg. [res. 16 juni 2017 nr. 756](forskrift/2017-06-16-756). § 14 og § 20 trer i kraft 1 mars 2019 iflg. [res. 1 feb 2019 nr. 64](forskrift/2019-02-01-64).

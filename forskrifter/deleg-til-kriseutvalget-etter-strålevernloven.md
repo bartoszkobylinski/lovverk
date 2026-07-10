@@ -40,11 +40,15 @@ I det følgende gis en kort utdyping av de enkelte elementene i håndteringen av
 
 Kriseutvalget med rådgivere skal ved en atomhendelse fremskaffe relevant informasjon og data for å etablere et best mulig grunnlag for vurderinger og beslutninger. Dette inkluderer informasjon omulykkessted/hendelse/utslippskilde,eventuelt utslippsomfang og sammensetning,meteorologiske forhold,radioaktive stoffer i luft og som nedfall på bakken,forurensning av matvarer, drikkevann og miljø, ogandre relevante opplysninger.
 
+*Kriseutvalgets fullmakt til å innhente informasjon og data om en hendelse:*
+
 Kriseutvalget kan pålegge private og offentlige virksomheter, samt anmode Forsvaret om å utføre oppdrag, blant annet vedrørende:innhenting og analyse av informasjon og data,innhenting, transport og analyse av prøver, ogoverføring av informasjon og data til operasjonssentralen.
 
 ## 3. Prognoser for utvikling av situasjonen, stråledoser og risiko
 
 Kriseutvalget med rådgivere vil i nært samarbeid med Direktoratet for strålevern og atomsikkerhet løpende utarbeide oppdaterte overslag over stråledoser til utsatte befolkningsgrupper og risikovurderinger i en akutt fase. Det vil videre bli utarbeidet prognoser for fremtidige doser og risiko.
+
+*Kriseutvalgets fullmakt til å innhente prognoser:*
 
 Kriseutvalget kan pålegge offentlige institusjoner og private virksomheter å utarbeide prognoser for situasjonsutvikling og konsekvenser på sitt område.
 
@@ -53,6 +57,8 @@ Kriseutvalget kan pålegge offentlige institusjoner og private virksomheter å u
 ## 4. Tiltak i akutt fase
 
 En rekke konsekvensreduserende tiltak vil, dersom de settes inn på et riktig tidspunkt, kunne redusere konsekvensene av en hendelse betydelig. Kriseutvalget må i akutt fase ha mulighet til, uten unødig opphold, å sette inn konsekvensreduserende og kostnadseffektive tiltak.
+
+*Kriseutvalgets fullmakt til å iverksette tiltak for å redusere konsekvensene av en hendelse:*
 
 Kriseutvalget kan for å beskytte liv, helse, miljø eller andre viktige samfunnsinteresser iverksette følgende konsekvensreduserende tiltak i akutt fase av en atomhendelse.pålegge sikring av områder som er eller kan bli sterkt forurenset, for eksempel i form av begrensing av tilgang og trafikk eller sikring og fjerning av radioaktive fragmenter,pålegge akutt evakuering av lokalsamfunn i tilfeller hvor utslippskilden, for eksempel lokal reaktor, havarert fartøy med reaktor eller fragmenter fra satellitt, utgjør en direkte trussel mot liv og helse lokalt,pålegge kortsiktige tiltak/restriksjoner i produksjonen av næringsmidler, for eksempel å holde husdyr inne eller å utsette innhøstning,pålegge/gi råd om rensing av forurensede personer,gi råd om opphold innendørs for publikum,gi råd om bruk av jodtabletter,gi kostholdsråd, for eksempel råd om å avstå fra konsum av visse forurensede næringsmidler, oggi råd om andre konsekvensreduserende tiltak, inkludert tiltak for å hindre eller redusere forurensing av miljøet.
 
@@ -63,6 +69,8 @@ Kriseutvalget påser at de tiltakene som er listet opp ovenfor, rettes til og fo
 Kriseutvalget vil i en akutt fase være ansvarlig for koordinert informasjonsformidling til sentrale myndigheter, og i særlig grad til lederdepartementet, til samarbeidspartnere i inn- og utland, det krisehåndterende apparat i fylkene, media og allmennheten.
 
 Lederen av Kriseutvalget avgjør i samråd med utvalgets medlemmer hvorvidt og når det er behov for å be om bistand fra samarbeidende etater for å styrke sekretariatets informasjonsenhet.
+
+*Kriseutvalgets fullmakt til informasjonsformidling:*
 
 Kriseutvalget bestemmer i en akutt fase innholdet i den informasjon som gis.
 

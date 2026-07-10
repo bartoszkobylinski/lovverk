@@ -22,14 +22,26 @@ eu_basis: []
 
 # Lov om endringer i opplæringslova (rett til 12 timer gratis skolefritidsordning i uken for elever på 1. til 3. trinn)
 
+Endringer i følgende lov:
+
 - [Lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova)](lov/2023-06-09-30).
 
 ## I
 
+I [lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa](lov/2023-06-09-30) gjøres følgende endringer:
+
+[§ 4-5 andre ledd](lov/2023-06-09-30/§4-5/ledd/2) skal lyde:
+
 Elevar på 1. til 3. trinn har rett til 12 timar gratis skolefritidsordning per veke.
+
+Nåværende [andre](lov/2023-06-09-30/§4-5/ledd/2) til femte ledd blir tredje til sjette ledd.
+
+Nåværende [sjette ledd](lov/2023-06-09-30/§4-5/ledd/6) blir nytt [syvende ledd](lov/2023-06-09-30/§4-5/ledd/7) og skal lyde:
 
 Departementet kan gi forskrift om retten til skolefritidsordning, gratis skolefritidsordning, moderasjonsordningar og innhald i og oppgåver for skolefritidsordninga.
 
 ## II
 
 Loven gjelder fra den tiden1 Kongen fastsetter.
+
+1 Fra 1. august 2026 iflg. [res. 13 feb 2026 nr. 197](forskrift/2026-02-13-197).

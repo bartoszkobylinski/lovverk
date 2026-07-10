@@ -481,3 +481,5 @@ Med bøter eller fengsel inntil 3 måneder straffes, forsåvidt ikke strengere s
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 Fra samme tid opheves – – –
+
+1 Fra 1 nov 1932 ved res. 15 juli 1932.

@@ -198,6 +198,8 @@ Departementet kan gje forskrift om overgangsordningar for mottakarar som fekk bu
 
 > Endra ved [lov 16 juni 2017 nr. 66](lov/2017-06-16-66) (ikr. 1 jan 2020 iflg. [res. 16 juni 2017 nr. 758](forskrift/2017-06-16-758), tidlegare § 14).
 
+1 Frå 1 jan 2013 iflg. [res. 24 aug 2012 nr. 826](forskrift/2012-08-24-826).
+
 ### § 17. Endringar i andre lover
 
 > Endra ved [lov 16 juni 2017 nr. 66](lov/2017-06-16-66) (ikr. 1 jan 2020 iflg. [res. 16 juni 2017 nr. 758](forskrift/2017-06-16-758), tidlegare § 15).

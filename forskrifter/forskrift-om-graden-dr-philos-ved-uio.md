@@ -46,9 +46,13 @@ Fakultetets myndighet etter denne forskriften kan ikke delegeres til instituttni
 
 ## § 4. Søknad
 
+[§ 4](forskrift/2011-01-05-841/§4).1. *Vilkår for å fremstille seg*
+
 Søkeren skal ha en femårig mastergrad eller tilsvarende utdanning. Fakultetet kan gi søkere som på annen måte har godtgjort tilsvarende kvalifikasjoner i vedkommende fag adgang til å fremstille seg til doktorgradsprøven. Det påhviler søkeren å fremlegge dokumentasjon på tilsvarende kvalifikasjoner.
 
 Søkeren skal være statsborger i Norge eller et annet nordisk land. Andre søkere kan etter begrunnet søknad gis anledning til å fremstille seg dersom vedkommende har oppholdstillatelse i Norge eller dersom avhandlingenbehandler emner eller bygger på materiale som har direkte tilknytning til Norge, ellerhar sterk tilknytning til norsk forskning innen fagområdet, ellerer utført under opphold ved norsk universitet eller forskningsinstitusjon, eller i særlig kontakt med norske forskere.
+
+[§ 4](forskrift/2011-01-05-841/§4).2. *Søknad og krav til dokumentasjon*
 
 Søknad rettes til det fakultet som avhandlingens tema hører inn under.
 
@@ -61,6 +65,8 @@ Fakultetet vurderer søknaden og fatter vedtak om adgangen til å fremstille seg
 > Endret ved [forskrift 17 jan 2017 nr. 49](forskrift/2017-01-17-49).
 
 ## § 5. Avhandlingen
+
+[§ 5](forskrift/2011-01-05-841/§5).1. *Krav til avhandlingen*
 
 Avhandlingen skal være et selvstendig, vitenskapelig arbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå, metode og dokumentasjon.
 
@@ -79,6 +85,8 @@ I avhandlinger hvor det inngår arbeider med flere forfattere skal det følge en
 Fakultetet bestemmer hvilke språk som kan benyttes i en avhandling.
 
 Avhandlingen skal være offentlig tilgjengelig.
+
+[§ 5](forskrift/2011-01-05-841/§5).2. *Arbeider som ikke godtas*
 
 Arbeider, eller deler av et arbeid, som har vært godtatt som grunnlag for tidligere avlagte eksamener eller grader, kan ikke antas til bedømmelse. Data, analyser eller metoder fra tidligere grader kan likevel benyttes som grunnlag for dr.philos.-avhandlingen.
 
@@ -116,7 +124,11 @@ Fakultetet kan, når det er påkrevd, oppnevne ett settemedlem til bedømmelsesk
 
 ## § 8. Bedømmelseskomiteens arbeid
 
+[§ 8](forskrift/2011-01-05-841/§8).1 *Innhenting av supplerende opplysninger*
+
 Bedømmelseskomiteen kan kreve fremlagt kandidatens grunnlagsmateriale og utfyllende eller oppklarende tilleggsinformasjon.
+
+[§ 8](forskrift/2011-01-05-841/§8).2 *Bedømmelseskomiteens innstilling*
 
 Bedømmelseskomiteen avgir innstilling om hvorvidt arbeidet er verdig til å forsvares for doktorgraden. Innstillingen og eventuelle dissenser skal begrunnes.
 
@@ -125,6 +137,8 @@ Bedømmelseskomiteens innstilling skal foreligge innen tre måneder etter at kom
 Bedømmelseskomiteens innstilling oversendes fakultetet. Fakultetet forelegger denne for kandidaten, som gis en frist på 10 arbeidsdager til å fremme skriftlige merknader til innstillingen. Hvis kandidaten ikke ønsker å fremme merknader skal kandidaten snarest underrette fakultetet skriftlig om dette.
 
 Kandidatens eventuelle merknader skal sendes fakultetet. Fakultetet fatter vedtak i saken i samsvar med [§ 9](forskrift/2011-01-05-841/§9).
+
+[§ 8](forskrift/2011-01-05-841/§8).3. *Retting av formelle feil i avhandlingen*
 
 Kandidaten kan etter innlevering søke om tillatelse til å rette formelle feil i avhandlingen. Søknaden skal vedlegges en fullstendig oversikt over de feil som ønskes rettet. Søknad om retting av formelle feil må leveres inn senest 6 uker før det offentlige forsvaret av avhandlingen.
 
@@ -148,9 +162,13 @@ Kandidaten skal ved ny innlevering opplyse om at arbeidet tidligere har vært be
 
 ## § 11. Offentliggjøring av avhandlingen
 
+[§ 11](forskrift/2011-01-05-841/§11).1 *Fakultetets krav til den trykte avhandlingen*
+
 Når avhandlingen er funnet verdig til forsvar, skal kandidaten levere avhandlingen til fakultetet i standardisert format og i henhold til fakultetets bestemmelser.
 
 Dr. philos.-kandidaten skal samtidig levere et sammendrag av avhandlingen på engelsk og et populærvitenskapelig sammendrag på norsk i elektronisk form.
+
+[§ 11](forskrift/2011-01-05-841/§11).2 *Offentliggjøring*
 
 Avhandlingen skal være offentlig tilgjengelig senest fire uker før dato for offentlig forsvar av avhandlingen. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse.
 
@@ -159,6 +177,8 @@ Det kan ikke legges restriksjoner på offentliggjøring, herunder publisering, a
 > Endret ved forskrift [24 juni 2022 nr. 1200](forskrift/2022-06-24-1200).
 
 ## § 12. Doktorgradsprøve
+
+[§ 12](forskrift/2011-01-05-841/§12).1. *Prøveforelesninger*
 
 Etter at fakultetet har funnet avhandlingen verdig til å forsvares, skal kandidaten prøveforelese.
 
@@ -173,6 +193,8 @@ Prøveforelesningene skal som hovedregel avholdes ved Universitetet i Oslo, men 
 Prøveforelesningene skal vurderes av bedømmelseskomiteen. Komiteen meddeler fakultetet om prøveforelesningene er bestått eller ikke bestått. Innstillingen skal begrunnes dersom en av eller begge prøveforelesningene anbefales ikke bestått.
 
 Prøveforelesningene skal være bestått før disputas kan avholdes.
+
+[§ 12](forskrift/2011-01-05-841/§12).2. *Offentlig forsvar av avhandlingen (disputas)*
 
 Disputas skal normalt finne sted innen seks måneder etter at fakultetet har funnet avhandlingen verdig til å forsvares.
 
@@ -235,3 +257,5 @@ Forskriften trer i kraft straks og samtidig oppheves forskrift 8.april 19971 om 
 Ved behov som skyldes forhold utenfor fakultetets eller kandidatens kontroll, kan fakultetet forlenge frister fastsatt i denne forskriften.
 
 > Endret ved forskrift [24 juni 2022 nr. 1200](forskrift/2022-06-24-1200).
+
+1 Ikke kunngjort i Norsk Lovtidend.

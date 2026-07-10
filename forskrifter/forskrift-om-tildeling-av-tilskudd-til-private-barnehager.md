@@ -50,11 +50,30 @@ Kommunen skal beregne satsene for driftstilskudd i samsvar med forholdstall for 
 
 Kommunen skal fastsette én sats for barn over tre år og én sats for barn under tre år.
 
-Kommuner som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:*Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år326 500Ordinære barnehager, barn fra tre år til seks år173 600
+Kommuner som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:
 
-Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:*Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år332 000Ordinære barnehager, barn fra tre år til seks år179 000Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå (oppdatert juni 2023).
+|  | *Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | 326 500 |
+| Ordinære barnehager, barn fra tre år til seks år | 173 600 |
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:*Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år339 700Ordinære barnehager, barn fra tre år til seks år186 800Med kommuner i tiltakssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
+Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:
+
+|  | *Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | 332 000 |
+| Ordinære barnehager, barn fra tre år til seks år | 179 000 |
+
+Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå (oppdatert juni 2023).
+
+Kommuner i tiltakssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi driftstilskuddet ut fra følgende tabell:
+
+|  | *Kroner per heltidsplass driftsutgifter, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | 339 700 |
+| Ordinære barnehager, barn fra tre år til seks år | 186 800 |
+
+Med kommuner i tiltakssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
 
 > Endret ved forskrifter [9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), [24 nov 2017 nr. 1830](forskrift/2017-11-24-1830) (i kraft 1 jan 2018), [30 nov 2018 nr. 1789](forskrift/2018-11-30-1789) (i kraft 1 jan 2019), [18 okt 2019 nr. 1384](forskrift/2019-10-18-1384) (i kraft 1 jan 2020), [23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022, som endret ved forskrift [21 des 2021 nr. 3782](forskrift/2021-12-21-3782)), [5 okt 2022 nr. 1716](forskrift/2022-10-05-1716) (i kraft 1 jan 2023), [16 okt 2023 nr. 1634](forskrift/2023-10-16-1634) (i kraft 1 jan 2024), [18 okt 2024 nr. 2521](forskrift/2024-10-18-2521), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950) (i kraft 1 jan 2025), [1 aug 2025 nr. 1587](forskrift/2025-08-01-1587), [19 okt 2025 nr. 2058](forskrift/2025-10-19-2058) (i kraft 1 jan 2026).
 
@@ -102,7 +121,13 @@ Kommunen skal gi påslag for administrasjonsutgifter på 4,3 prosent av gjennoms
 
 Kommunen skal gi kapitaltilskudd til private ordinære barnehager per heltidsplass på 13 200 kroner.
 
-Hvis den private ordinære barnehagen er ny eller har en stor økning i godkjent areal, skal kommunen gi barnehagen kapitaltilskudd per heltidsplass for dette arealet ut fra barnehagens godkjenningsår etter følgende tabell:GodkjenningsårKroner per heltidsplass2018–202027 1002021–202335 5002024–202641 600
+Hvis den private ordinære barnehagen er ny eller har en stor økning i godkjent areal, skal kommunen gi barnehagen kapitaltilskudd per heltidsplass for dette arealet ut fra barnehagens godkjenningsår etter følgende tabell:
+
+| Godkjenningsår | Kroner per heltidsplass |
+| --- | --- |
+| 2018–2020 | 27 100 |
+| 2021–2023 | 35 500 |
+| 2024–2026 | 41 600 |
 
 > Endret ved forskrifter [9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), [24 nov 2017 nr. 1830](forskrift/2017-11-24-1830) (i kraft 1 jan 2018), [30 nov 2018 nr. 1789](forskrift/2018-11-30-1789) (i kraft 1 jan 2019), [18 okt 2019 nr. 1384](forskrift/2019-10-18-1384) (i kraft 1 jan 2020), [23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [25 juni 2021 nr. 2197](forskrift/2021-06-25-2197), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022), [5 okt 2022 nr. 1716](forskrift/2022-10-05-1716) (i kraft 1 jan 2023), [16 okt 2023 nr. 1634](forskrift/2023-10-16-1634) (i kraft 1 jan 2024), [18 okt 2024 nr. 2521](forskrift/2024-10-18-2521), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950) (i kraft 1 jan 2025), [19 okt 2025 nr. 2058](forskrift/2025-10-19-2058) (i kraft 1 jan 2026).
 
@@ -122,13 +147,48 @@ Kommunen skal beregne satsene for driftstilskudd i samsvar med forholdstall for 
 
 Kommunen skal fastsette én sats for barn over tre år og én sats for barn under tre år.
 
-Kommuner som ikke har kommunale familiebarnehager, skal gi driftstilskudd til private familiebarnehager etter følgende tabell:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I253 200200 000Sone Ia253 200200 000Sone II246 000194 100Sone III237 300187 200Sone IV234 600185 000Sone IVa240 400189 700Sone V224 000176 600
+Kommuner som ikke har kommunale familiebarnehager, skal gi driftstilskudd til private familiebarnehager etter følgende tabell:
 
-Kommuner som ligger i sentralitetssone 5 eller 6, jf. [§ 3 sjette ledd](forskrift/2015-10-09-1166/§3/ledd/6) siste punktum, som ikke har kommunale familiebarnehager, skal gi driftstilskuddet ut fra følgende tabell:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I258 700205 400Sone Ia258 700205 400Sone II251 500199 700Sone III242 800192 700Sone IV240 100190 600Sone IVa245 900195 200Sone V229 600182 100
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | 253 200 | 200 000 |
+| Sone Ia | 253 200 | 200 000 |
+| Sone II | 246 000 | 194 100 |
+| Sone III | 237 300 | 187 200 |
+| Sone IV | 234 600 | 185 000 |
+| Sone IVa | 240 400 | 189 700 |
+| Sone V | 224 000 | 176 600 |
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms, jf. [§ 3 sjuende ledd](forskrift/2015-10-09-1166/§3/ledd/7) siste punktum, som ikke har kommunale familiebarnehager, skal gi driftstilskudd til private familiebarnehager etter følgende tabell:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I266 400213 100Sone Ia266 400213 100Sone II259 200207 400Sone III250 500200 400Sone IV248 000198 300Sone IVa253 600202 900Sone V237 300189 800
+Kommuner som ligger i sentralitetssone 5 eller 6, jf. [§ 3 sjette ledd](forskrift/2015-10-09-1166/§3/ledd/6) siste punktum, som ikke har kommunale familiebarnehager, skal gi driftstilskuddet ut fra følgende tabell:
 
-Kommunen skal gi kapitaltilskudd til private familiebarnehager etter følgende tabell:Sats per heltidsplass for barn fra null år til to år17 000Sats per heltidsplass for barn fra tre år til seks år17 000
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | 258 700 | 205 400 |
+| Sone Ia | 258 700 | 205 400 |
+| Sone II | 251 500 | 199 700 |
+| Sone III | 242 800 | 192 700 |
+| Sone IV | 240 100 | 190 600 |
+| Sone IVa | 245 900 | 195 200 |
+| Sone V | 229 600 | 182 100 |
+
+Kommuner i tiltakssonen i Finnmark og Nord-Troms, jf. [§ 3 sjuende ledd](forskrift/2015-10-09-1166/§3/ledd/7) siste punktum, som ikke har kommunale familiebarnehager, skal gi driftstilskudd til private familiebarnehager etter følgende tabell:
+
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | 266 400 | 213 100 |
+| Sone Ia | 266 400 | 213 100 |
+| Sone II | 259 200 | 207 400 |
+| Sone III | 250 500 | 200 400 |
+| Sone IV | 248 000 | 198 300 |
+| Sone IVa | 253 600 | 202 900 |
+| Sone V | 237 300 | 189 800 |
+
+Kommunen skal gi kapitaltilskudd til private familiebarnehager etter følgende tabell:
+
+|  |  |
+| --- | --- |
+| Sats per heltidsplass for barn fra null år til to år | 17 000 |
+| Sats per heltidsplass for barn fra tre år til seks år | 17 000 |
 
 > Endret ved forskrifter [9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), [24 nov 2017 nr. 1830](forskrift/2017-11-24-1830) (i kraft 1 jan 2018), [30 nov 2018 nr. 1789](forskrift/2018-11-30-1789) (i kraft 1 jan 2019), [18 okt 2019 nr. 1384](forskrift/2019-10-18-1384) (i kraft 1 jan 2020), [23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [25 juni 2021 nr. 2197](forskrift/2021-06-25-2197), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022, som endret ved forskrift [21 des 2021 nr. 3782](forskrift/2021-12-21-3782)), [5 okt 2022 nr. 1716](forskrift/2022-10-05-1716) (i kraft 1 jan 2023), [16 okt 2023 nr. 1634](forskrift/2023-10-16-1634) (i kraft 1 jan 2024), [18 okt 2024 nr. 2521](forskrift/2024-10-18-2521), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950) (i kraft 1 jan 2025), [1 aug 2025 nr. 1587](forskrift/2025-08-01-1587), [19 okt 2025 nr. 2058](forskrift/2025-10-19-2058) (i kraft 1 jan 2026).
 
@@ -142,7 +202,17 @@ Kommunen skal fastsette én sats for barnehager som har en ukentlig åpningstid 
 
 Kommunen beregner tilskudd ut fra hvor mange barn den private barnehagen er godkjent for. Hvis det over tid viser seg at fremmøtet i barnehagen er vesentlig lavere enn dette, kan kommunen legge et lavere barnetall til grunn.
 
-Kommuner som ikke har kommunale åpne barnehager, skal gi tilskudd til private åpne barnehager etter følgende tabell:*Arbeidsgiveravgiftsone**Åpningstid på 6 til 15 timer**Åpningstid på 16 timer eller mer*Sone I26 90041 300Sone Ia26 90041 300Sone II26 30040 400Sone III25 60039 200Sone IV25 40038 900Sone IVa25 90039 600Sone V24 50037 500
+Kommuner som ikke har kommunale åpne barnehager, skal gi tilskudd til private åpne barnehager etter følgende tabell:
+
+| *Arbeidsgiveravgiftsone* | *Åpningstid på 6 til 15 timer* | *Åpningstid på 16 timer eller mer* |
+| --- | --- | --- |
+| Sone I | 26 900 | 41 300 |
+| Sone Ia | 26 900 | 41 300 |
+| Sone II | 26 300 | 40 400 |
+| Sone III | 25 600 | 39 200 |
+| Sone IV | 25 400 | 38 900 |
+| Sone IVa | 25 900 | 39 600 |
+| Sone V | 24 500 | 37 500 |
 
 > Endret ved forskrifter [9 des 2016 nr. 1478](forskrift/2016-12-09-1478) (i kraft 1 jan 2017), [24 nov 2017 nr. 1830](forskrift/2017-11-24-1830) (i kraft 1 jan 2018), [30 nov 2018 nr. 1789](forskrift/2018-11-30-1789) (i kraft 1 jan 2019), [18 okt 2019 nr. 1384](forskrift/2019-10-18-1384) (i kraft 1 jan 2020), [23 okt 2020 nr. 2126](forskrift/2020-10-23-2126) (i kraft 1 jan 2021), [18 des 2020 nr. 2859](forskrift/2020-12-18-2859) (i kraft 1 jan 2021), [27 okt 2021 nr. 3088](forskrift/2021-10-27-3088) (i kraft 1 jan 2022), [5 okt 2022 nr. 1716](forskrift/2022-10-05-1716) (i kraft 1 jan 2023), [16 okt 2023 nr. 1634](forskrift/2023-10-16-1634) (i kraft 1 jan 2024), [18 okt 2024 nr. 2521](forskrift/2024-10-18-2521), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950), [6 des 2024 nr. 2950](forskrift/2024-12-06-2950) (i kraft 1 jan 2025), [19 okt 2025 nr. 2058](forskrift/2025-10-19-2058) (i kraft 1 jan 2026).
 
@@ -211,6 +281,152 @@ Søknader om ekstra pensjonstilskudd som gjelder dekning av pensjonsutgifter for
 > Tilføyd ved forskrift [25 mars 2026 nr. 478](forskrift/2026-03-25-478).
 
 ## Vedlegg 1. Liste over private barnehager som omfattes av § 4b om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
+
+| *Virksomhetsnr.* | *Navn* |
+| --- | --- |
+| 916381689 | Aglo barnehage Eventyrhuset AS |
+| 916381662 | Aglo barnehage Sentrum AS |
+| 973445936 | Andungen barnehage 1. Sa |
+| 973597639 | Askeladden barnehage |
+| 975028852 | Bakklandet barnehage |
+| 975028860 | Barnas Hus barnehage |
+| 977010047 | Barnehagen Himmelblå |
+| 873893362 | BARNEHAGEN I BRYNE KYRKJE |
+| 974796732 | Bekkelaget Kirkes barnehage |
+| 914746620 | Berg barnehage |
+| 973470434 | Berg Barnehage SA |
+| 973454870 | Bergerkollektivet barnehage |
+| 975183408 | BETANIEN BARNEHAGE |
+| 930333263 | Betanien barnehage AS |
+| 973383531 | Bjørset barnehage AS |
+| 973383248 | BJØRKETUN BARNEHAGE |
+| 982367409 | Blå Kors barnehage Øvrebø AS |
+| 973346504 | BMB Barnehage AS |
+| 994875698 | BOGAFJELL ÅPNE BARNEHAGE |
+| 996006344 | Byggeklossen Open barnehage |
+| 975183874 | Byåsen Kirkes barnehage |
+| 975314456 | BØLER MENIGHETS BARNEHAGE |
+| 973782975 | Bøler åpen barnehage |
+| 995319101 | Den Tysk-Norske Barnehagen i Oslo A |
+| 875028642 | Diakonhjemmet Barnehage Borgenveien AS |
+| 975183823 | Domkirken barnehage |
+| 875183842 | Dronning Mauds Minne barnehage |
+| 974838028 | Eikely Barnehage as |
+| 988541222 | Engan Gårdsbarnehage AS |
+| 975266702 | ENGELSRUD BARNEHAGE |
+| 985773017 | Eplehagen Barnehage (Eidanger Barnehage as) |
+| 974703351 | Fagerborg menighetsbarnehage |
+| 973337491 | Festningsgata menighets-barnehage |
+| 973337459 | Fevik barnehage |
+| 988820628 | Fitjar Soknerådsbarnehage Stifting |
+| 975048179 | Fjelltun barnehage AS |
+| 973457497 | Fossekallen Barnehage Sti |
+| 975183939 | Fredly Barnehage AS |
+| 987532874 | FRIDALEN MENIGHETS ÅPNE BARNEHAGE |
+| 975183793 | Frydenberg barnehage |
+| 974294443 | Grefsen Kirkes barnehage |
+| 973471872 | Hagen barnehage SA |
+| 973382403 | Hasle Barnehage AS |
+| 973383191 | Haugar barnehage |
+| 973469207 | Helgerud Menighets barnehage |
+| 975315258 | Helse Bergen Hf Hunstad barnehage |
+| 975315096 | Helse Bergen Hf Ravnebjerget barnehage |
+| 974737760 | Helse Bergen Hf Vinterdalen barnehage |
+| 979468105 | Helse Bergen Hf Vognstolen barnehage |
+| 873885262 | Hem barnehage |
+| 973456636 | Hofmoen barnehage |
+| 873349352 | HOLMENTOPPEN BARNEHAGE |
+| 974102226 | Hvitsten Naturbarnehage SA |
+| 974305658 | Ihle Barnehage |
+| 974157187 | Imi barnehage |
+| 996005364 | JESSHEIM ÅPEN BARNEHAGE |
+| 973469819 | Jondalen barnehage |
+| 973454544 | Kirkestallen barnehage |
+| 874800082 | Kirketunet barnehage |
+| 973448706 | Kirketunet barnehage AS |
+| 973352377 | Klingen naturbarnehage SA |
+| 989536338 | KLYVE ÅPEN BARNEHAGE |
+| 973817493 | Knatten barnehage |
+| 982451361 | Knøttene åpen barnehage |
+| 974998394 | Lademoen barnehage |
+| 993131075 | Lekestua barnehage |
+| 994249622 | Lillefot barnehage |
+| 996000389 | LITEN OG STOR ÅPEN BARNEHAGE |
+| 974703009 | Ljan Kirkes barnehage |
+| 981232232 | Lommedalen Menighets barnehage |
+| 993804703 | Lovisenberg Diakonale barnehage AS |
+| 975325342 | Løkkan barnehage |
+| 973269852 | Mandal Sanitetsforenings barnehage |
+| 994915959 | MARIAKIRKEN ÅPEN BARNEHAGE |
+| 874116572 | Martina Hansens Hospital |
+| 973449133 | Maurtua Barnehage Bømlo SA |
+| 874998362 | Midtbyen barnehage |
+| 974156318 | Misjonshusets Barnehage |
+| 983214770 | Mølleplassen Spesialbarnehage |
+| 972209503 | Myre Bedriftsbarnehage AS |
+| 980098974 | Nedre Stabæk barnehage AS |
+| 973304143 | Nesttun Indremisjons barnehage |
+| 981133234 | Nidelven åpen barnehage |
+| 994947362 | NOA ÅPEN BARNEHAGE |
+| 920560504 | Noahs Ark barnehage AS |
+| 982926610 | NOAS ARK OPEN BARNEHAGE |
+| 974702843 | Nordberg menighetsbarnehage |
+| 973479881 | Nordstrand Kirkes barnehage |
+| 972138487 | AS Norrøna barnehage |
+| 994915274 | NYKIRKEN ÅPEN BARNEHAGE |
+| 973469983 | NØTTELITEN BARNEHAGE |
+| 996004783 | OLSVIK MENIGHETS ÅPEN BARNEHAGE |
+| 994902903 | Osøyro Open barnehage |
+| 972517038 | PETRINE BARNEHAGE |
+| 975185117 | Preg barnehager Botne as |
+| 874703362 | Rishaven menighetsbarnehage AS |
+| 973455710 | Rosenhagen Steinerbarnehage |
+| 974703386 | Røa menighetsbarnehage |
+| 995119560 | Sakkeus Åpen barnehage |
+| 974725142 | SCHAFTELØKKEN MENIGHETS BARNEHAGE |
+| 889857072 | Semsløkka barnehage |
+| 974224356 | Skjoldtun barnehage |
+| 979781857 | Skogstjerna Natur og menighetsbarnehage |
+| 974142740 | Solborg barnehage |
+| 931679007 | Sole Skog Barnehage AS |
+| 973448633 | Solvang barnehage SA |
+| 974857561 | Solvang barnehage Førde AS |
+| 973382322 | Solvangkirkens barnehage |
+| 993266361 | Starefossen barnehage |
+| 981098749 | Stiftelsen Gullhaugen steinerbarnehage |
+| 973489321 | Stiftelsen KF Ansattes Barnehage |
+| 973494368 | Stiftelsen Norby Gård barnehage |
+| 979740530 | Stiftelsen Sesam |
+| 996000540 | Stjernen Åpen barnehage |
+| 974798670 | Stiftelsen Håholen barnehage |
+| 973390953 | Stiftelsen Ullevålsletta barnehage |
+| 932792257 | Store Brevik barnehage AS |
+| 985917981 | STORHAUG ÅPEN BARNEHAGE |
+| 974197901 | Svartskog Friluftsbarnehage SA |
+| 973456458 | Sørbyen barnehage AS |
+| 987751894 | SØRNES ÅPEN BARNEHAGE |
+| 973535765 | Tananger Menighetsbarnehage |
+| 973772503 | TEIE KIRKES BARNEHAGE |
+| 996006158 | Torridal åpen barnehage |
+| 974194678 | Torvteigen barnehage AS |
+| 975266842 | TRIPP TRAPP ÅPEN BARNEHAGE |
+| 994274406 | Tripp-Trapp Åpen barnehage |
+| 974703408 | Ullern Menighetsbarnehage Holgerslyst |
+| 997019814 | Ulriken Kfuk-Kfum Åpen barnehage |
+| 974156458 | Ulset Barnehage |
+| 973334875 | Unneland barnehage |
+| 972339563 | VASSBAKKEN BARNEHAGE SA |
+| 983604560 | Vike Montessoribarnehage SA |
+| 973763881 | VONHEIM OPEN BARNEHAGE |
+| 973456466 | Østenstad Menighetsbarnehage |
+| 973458515 | Østerhus barnehage |
+| 990635498 | Øygarden Kfuk-Kfum avd åpen barnehage |
+| 990635285 | Øygarden Kfuk-Kfum avd Straume |
+| 991843876 | Øygarden Kfuk-Kfum avd Landro |
+| 973454528 | Øymark barnehage |
+| 972290920 | Åkebakke Barnehage |
+| 993481947 | ÅPEN BARNEHAGE FANA KM |
+| 973877070 | Åpen barnehage Haugesund |
 
 > Tilføyd ved forskrift [22 des 2025 nr. 2919](forskrift/2025-12-22-2919) (i kraft 1 jan 2026, korrigert ved kunngjøring [6 jan 2026 nr. 6](forskrift/2026-01-06-6)), endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 

@@ -42,11 +42,15 @@ eu_basis: []
 
 ### § 1-3. Deltakelse i samordnet opptak
 
+Jf. [forskrift om høyere yrkesfaglig utdanning § 3](forskrift/2019-07-11-1005/§3).
+
 (1) Opptak til Fagskolen i Agder organiseres gjennom Samordna opptak til fagskoleutdanning ved Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit).
 
 (2) Eventuelle unntak for enkeltutdanninger gis av departementet.
 
 ### § 1-4. Innhenting og behandling av personopplysninger
+
+Jf. [§ 4 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§4).
 
 (1) Fagskolen i Agder kan behandle personopplysninger om søkere og studenter når formålet med behandlingen er å ivareta den registrertes rettigheter, eller å oppfylle skolens lovpålagte plikter.
 
@@ -59,6 +63,8 @@ eu_basis: []
 (5) Fagskolen i Agder kan motta og behandle politiattest fra søkerne elektronisk i sine systemer der det kreves at studenten skal legge frem politiattest, jf. [fagskoleloven § 27](lov/2018-06-08-28/§27). Politiattest som er utstedt og signert digitalt, kan kun leveres i digital form. Søkerne må selv innhente og formidle politiattesten til Fagskolen i Agder.
 
 ### § 1-5. Informasjon til studentene
+
+Jf. [§ 30 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§30).
 
 (1) Fagskolen i Agder har plikt til å gi tilstrekkelig og relevant informasjon om fagskoleutdanningens innhold. Ved studiestart skal fagskolen gi studenter på aktuelle utdanninger informasjon om reglene for skikkethet. Se kapittel 8 Skikkethet i denne forskrift.
 
@@ -74,6 +80,8 @@ eu_basis: []
 
 ### § 1-7. Studiepoeng
 
+Jf. [§ 39 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§39).
+
 (1) Det gis 60 studiepoeng for læringsutbytte oppnådd på bakgrunn av ett års bestått fagskoleutdanning på heltid. Det totale antall arbeidstimer for studenten er mellom 1500 og 1800 timer.
 
 (2) Er fagskoleutdanningen inndelt i emner, tildeles studiepoeng etter den relative vekten det har i arbeidsbelastning for studentene og læringsutbytte innenfor utdanningen. Studiepoeng skal brukes ved vurdering av godskriving av utdanning mellom fagskoler og i karakterutskrifter for gjennomførte emner fra fagskoleutdanning.
@@ -82,11 +90,17 @@ eu_basis: []
 
 ### § 1-8. Rapporteringsplikt
 
+Jf. [§ 42 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§42).
+
 Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andre ledd](lov/2018-06-08-28/§42/ledd/2) til database for statistikk om fagskoleutdanning (DBH-F).
 
 ## Kapittel 2. Opptak, studierett og progresjon
 
+Jf. [§ 16 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§16).
+
 ### § 2-1. Kvalifisering for opptak
+
+Jf. [§ 7 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§7).
 
 (1) Opptak til fagskoleutdanning krever enten relevant fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse, jf. Nasjonalt kvalifikasjonsrammeverk for livslang læring nivå 4, eller tilsvarende realkompetanse.
 
@@ -104,11 +118,15 @@ Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andr
 
 ### § 2-3. Opptakskrav
 
+Jf. [§ 10](forskrift/2019-07-11-1005/§10)–[§ 12](forskrift/2019-07-11-1005/§12) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
+
 (1) Opptakskrav til Fagskolen i Agder er enten:Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning. Informasjon om hvilke fagbrev eller svennebrev og spesielle bestemmelser som gir rett til opptak er beskrevet i studieplanene.Søkere som er 23 år eller eldre i opptaksåret, har krav på å få vurdert om de er kvalifisert for en bestemt studie på grunnlag av realkompetanse.
 
 (2) Opptak på visse vilkår ved sen fag- eller svenneprøve (betinget opptak)Søkere som ikke har dokumentert fullført og bestått fag- eller svenneprøve innen fristen for å sende inn dokumentasjon, og som derfor ikke er kvalifisert for opptak, kan få opptak til fagskoleutdanning dersom de kan dokumentere at de skal gjennomføre fag- eller svenneprøven i løpet av første semesteret.Søkere som har fått opptak uten bestått fag- eller svenneprøve, kan ikke reservere studieplassen jf. [fagskoleforskriften](forskrift/2019-07-11-1005).Studenter med opptak på visse vilkår som ikke oppfyller opptakskravene i løpet av første semester etter opptak, mister studieplassen og studieretten.Studenter som går opp til eksamen i en utdanning de har fått opptak til på visse vilkår, får ikke denne eksamenen godkjent som bestått uten at opptakskravet er oppfylt.Ved betinget opptak, skal det så langt det er mulig og rimelig, legges til rette for at studenten både kan gå opp til fag- eller svenneprøven i videregående opplæring og gjennomføre utdanningen det er gitt betinget opptak til.
 
 ### § 2-4. Reservasjon av studieplass
+
+Jf. [§ 13 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§13).
 
 (1) Søkere som er tatt opp som student ved Fagskolen i Agder, kan etter søknad få inntil to års utsettelse av studiestart ved sykdom, svangerskap/ barsel, verneplikt eller andre tungtveiende grunner.
 
@@ -122,6 +140,8 @@ Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andr
 
 ### § 2-6. Utfyllende regler om språkkrav for søkere med utenlandsk utdanning
 
+Jf. [§ 9 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§9).
+
 (1) Søkere med bestått og fullført videregående opplæring fra de andre nordiske landene er kvalifiserte for opptak uten tilleggskrav i norsk.
 
 (2) Søkere med fullført og bestått treårig videregående opplæring fra land utenfor Norden, må dokumentere kunnskaper i norsk. Kunnskaper i norsk dokumenteres med én av følgende prøver:Bestått norsk med 393 timer fra videregående opplæringBestått eksamen fra trinn 3 i norsk for utenlandske studenter ved universiteteneBestått eksamen fra 1-årig studium i norsk språk og samfunnskunnskap for utenlandske studenterSkriftlig test i norsk, høyere nivå («Bergenstesten»), med minimum 450 poeng eller «bestått» etter ny vurderingsordning f.o.m. høsten 2009Avsluttende prøve i norsk (norskprøven) med ferdigheter på minimum nivå B2 i alle delferdigheter, jf. [lov 6. november 2020 nr. 127 om integrering gjennom opplæring, utdanning og arbeid](lov/2020-11-06-127).
@@ -131,6 +151,8 @@ Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andr
 (4) Søkere til maritim og teknisk utdanning må dokumentere kunnskaper i engelsk på minimum nivå B2 i Europarådets referanserammeverk for språk.
 
 ### § 2-7. Poengberegningen og rangering
+
+Jf. [§ 14](forskrift/2019-07-11-1005/§14)–[§ 17](forskrift/2019-07-11-1005/§17) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
 
 (1) Opptak til Fagskolen i Agder skjer på grunnlag av kvalifisering og rangering. Rangering skjer ved utregning av poeng.
 
@@ -142,7 +164,18 @@ Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andr
 
 (5) Hvis det er venteliste etter at det ordinære opptaket i Samordna opptak er gjennomført, men Fagskolen i Agder får ledige studieplasser etter studiestart, skal fagskolen tilby ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan Fagskolen i Agder tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
 
-(6) Poengberegning ved rangering av søkere:*Beskrivelse**Poeng*Fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget10 poengFag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget med resultat meget godt5 poengEkstra fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget5 poengEkstra fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget med resultat meget godt2 poengRelevant yrkespraksis i 100 % stilling. Inntil 10 poeng1 poeng pr. 6 md.Gjennomsnitt av alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget. Oppgis med to desimaler og multiplisert med 10Antall karakterpoengLæretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat, gir ikke poeng.
+(6) Poengberegning ved rangering av søkere:
+
+| *Beskrivelse* | *Poeng* |
+| --- | --- |
+| Fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget | 10 poeng |
+| Fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget med resultat meget godt | 5 poeng |
+| Ekstra fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget | 5 poeng |
+| Ekstra fag- eller svennebrev som inngår i kvalifikasjonsgrunnlaget med resultat meget godt | 2 poeng |
+| Relevant yrkespraksis i 100 % stilling. Inntil 10 poeng | 1 poeng pr. 6 md. |
+| Gjennomsnitt av alle fag med tallkarakterer som inngår i kvalifikasjonsgrunnlaget. Oppgis med to desimaler og multiplisert med 10 | Antall karakterpoeng |
+
+1. Læretid og yrkespraksis som inngår i grunnlaget for å gå opp til fag- eller svenneprøve som praksiskandidat, gir ikke poeng.
 
 ### § 2-8. Rangering av søkere som ikke kan poengberegnes
 
@@ -152,9 +185,13 @@ Fagskolen i Agder rapporterer opplysninger som nevnt i [fagskoleloven § 42 andr
 
 ### § 2-9. Karakterforbedringer fra videregående opplæring
 
+Jf. [§ 16 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§16).
+
 Ved beregning av karakterpoeng skal karakterforbedringer fra videregående opplæring erstatte tidligere karakter(er) i samme fag.
 
 ### § 2-10. Realkompetansevurdering
+
+Jf. [§ 16 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§16) og [§ 7 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§7).
 
 (1) Søkere som ikke fyller kravene til generelt opptaksgrunnlag, kan søke om opptak på grunnlag av realkompetanse.
 
@@ -179,6 +216,8 @@ Rektor er ansvarlig for opptak og skal på vegne av styret sørge for at opptake
 Opptak til fagskolen er et enkeltvedtak etter bestemmelsene i [forvaltningsloven](lov/1967-02-10) og kan påklages etter denne loven. Det er fagskolen som fatter vedtak om opptak. En eventuell klage skal behandles av den lokale klagenemnden. Klage sendes Fagskolen i Agder. Nærmere bestemmelser om klage på vedtak om opptak er gitt i kapittel 10 i denne forskrift.
 
 ### § 2-13. Godskriving og fritak
+
+Jf. [§ 8 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§8) og [§ 37 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§37).
 
 (1) Studenter som kan dokumentere å ha likeverdig eller tilsvarende emne med samme omfang ved samme eller annen institusjon, kan søke om godskriving for deler av tidligere utdanning. Det blir ikke gitt dobbel uttelling for det samme faginnholdet. Emner som søkes godskriving må omfatte samme antall studiepoeng og oppfylle de faglige kravene i emnet eller emnene det søkes for.
 
@@ -214,6 +253,8 @@ Krav til progresjon fremkommer i den enkelte studieplan.
 
 ### § 2-16. Permisjon
 
+Jf. [§ 28 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§28).
+
 (1) En student som får barn under studiene, har rett til permisjon fra studiene under svangerskapet og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved fagskolen og har rett til å gjenoppta utdanningen på samme nivå som før permisjonen. En gravid student har rett til utsatt eksamen hvis eksamensdatoen er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel. En student som blir far, har rett til utsatt eksamen hvis eksamensdatoen er innenfor to uker etter fødselen.
 
 (2) Fagskolen skal legge til rette for at studenter som er i permisjon etter første ledd, kan gjenoppta utdanningen så raskt som mulig etter endt permisjon.
@@ -225,6 +266,8 @@ Krav til progresjon fremkommer i den enkelte studieplan.
 ## Kapittel 3. Studentdemokrati og studentvelferd
 
 ### § 3-1. Studentorgan og studentrepresentasjon
+
+Jf. [§ 14 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§14).
 
 (1) Studentene ved Fagskolen i Agder kan opprette studentorgan som skal ivareta deres interesser og fremme deres synspunkter.
 
@@ -248,11 +291,15 @@ Fagskolen i Agder er tilknyttet Studentsamskipnaden i Agder (SIA).
 
 ### § 3-4. Studentombud
 
+Jf. [§ 14a i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§14a).
+
 (1) Styret sørger for at alle fagskolestudenter har tilgang til et studentombud.
 
 (2) Studentombudet skal gi fagskolestudenter råd og hjelp i saker knyttet til deres studiesituasjon. Studentombudet kan ikke instrueres i sitt virke. Studentombudet har taushetsplikt, jf. [forvaltningsloven](lov/1967-02-10).
 
 ### § 3-5. Læringsmiljø
+
+Jf. [§ 15 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§15).
 
 (1) Styret har det overordnede ansvaret for studentenes læringsmiljø. Styret skal, i samarbeid med studentorganene, legge forholdene til rette for et godt og inkluderende læringsmiljø. Styret skal innenfor sitt ansvarsområde arbeide for å forebygge og forhindre trakassering og seksuell trakassering, jf. [likestillings- og diskrimineringsloven](lov/2017-06-16-51).
 
@@ -261,6 +308,8 @@ Fagskolen i Agder er tilknyttet Studentsamskipnaden i Agder (SIA).
 (3) Studenter med funksjonsnedsettelse og studenter med særskilte behov, har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og eksamen, for å sikre likeverdige opplærings- og utdanningsmuligheter. Retten gjelder tilrettelegging som ikke innebærer en uforholdsmessig byrde for utdanningsinstitusjonen. I denne vurderingen skal det legges særlig vekt på tilretteleggingens effekt for å fjerne barrierer for disse studentene, kostnadene ved tilretteleggingen og institusjonens ressurser. Tilretteleggingen skal ikke føre til en reduksjon av de faglige kravene som stilles i den enkelte utdanningen.
 
 ## Kapittel 4. Vurdering
+
+Jf. [§ 21 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§21).
 
 Det foretas sluttvurdering i emner, kalt emnevurdering, og sluttvurdering av praksis.
 
@@ -278,17 +327,22 @@ Fagskolen i Agder har ekstern evaluering av vurdering og vurderingsordningene. E
 
 ### § 4-3. Vurderingsuttrykk
 
+Jf. [§ 40 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§40).
+
 (1) Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering er bestått – ikke bestått, eller en gradert skala fra A til E for bestått, og F for ikke bestått.
 
 (2) I de maritime konvensjonsemnene, kan vurderingsuttrykket «passed» – «not passed» brukes.
 
-(3) Karakterskala*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet.
+(3) Karakterskala
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 ### § 4-4. Emnevurdering
 
@@ -386,7 +440,11 @@ Studenten viser både manglende vurderingsevne og selvstendighet.
 
 ## Kapittel 5. Dokumentasjon
 
+Jf. [§ 19 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§19).
+
 ### § 5-1. Vitnemål
+
+Jf. [§ 41 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§41).
 
 (1) Fagskolen utferdiger vitnemål om fullført fagskoleutdanning.
 
@@ -402,9 +460,13 @@ Studenten viser både manglende vurderingsevne og selvstendighet.
 
 ### § 5-2. Tilknytningskrav for utstedelse av vitnemål
 
+Jf. [§ 38 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§38).
+
 For at Fagskolen i Agder skal kunne utstede vitnemål eller annen dokumentasjon for fullført utdanning, må studenten avlegge studiepoeng ved fagskolen tilsvarende minste resultatbærende enhet i fagskoleutdanningen studenten ønsker vitnemål eller annen dokumentasjon for. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.
 
 ## Kapittel 6. Disiplinære sanksjoner
+
+Jf. [§ 25](lov/2018-06-08-28/§25) og [§ 43 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§43).
 
 ### § 6-1. Utestengning og bortvisning
 
@@ -432,6 +494,8 @@ For at Fagskolen i Agder skal kunne utstede vitnemål eller annen dokumentasjon 
 
 ## Kapittel 7. Politiattest
 
+Jf. [§ 27 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§27), og [§ 19](forskrift/2019-07-11-1005/§19)–[§ 21](forskrift/2019-07-11-1005/§21) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
+
 ### § 7-1. Krav til politiattest
 
 (1) Fagskolen i Agder krever politiattest som nevnt i [politiregisterloven § 39](lov/2010-05-28-16/§39) fra studenter i utdanninger hvor studenter kommer i kontakt med mindreårige som en del av klinisk undervisning eller praksisopplæring. Dette gjelder kun studenter som skal utføre oppgaver som innebærer et tillits- eller ansvarsforhold ovenfor mindreårige.
@@ -446,15 +510,23 @@ For at Fagskolen i Agder skal kunne utstede vitnemål eller annen dokumentasjon 
 
 ### § 7-2. Fornyet vandelskontroll
 
+Jf. [§ 22 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§22).
+
 Fornyet vandelskontroll kan foretas i samsvar med [politiregisterloven § 43](lov/2010-05-28-16/§43).
 
 ## Kapittel 8. Skikkethet
 
+Jf. [§ 26 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§26).
+
 ### § 8-1. Formålet med skikkethetsvurdering
+
+Jf. [§ 26 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§26).
 
 En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. En student som i utdanningen eller i fremtidig yrkesutøvelse kan utgjøre fare for liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, er ikke skikket for yrket.
 
 ### § 8-2. Fagskoleutdanninger med skikkethetsvurdering
+
+Jf. [§ 27](forskrift/2019-07-11-1005/§27) og [§ 30 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§30).
 
 (1) Skikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare. Dette gjelder for samtlige fagskoleutdanninger, etter- og videreutdanninger innen fagområde helse- og oppvekst og fagskoleutdanninger innen det maritime fagområdet ved Fagskolen i Agder.
 
@@ -464,17 +536,23 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 
 ### § 8-3. Løpende og særskilt skikkethetsvurdering
 
+Jf. [§ 28 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§28).
+
 (1) Det skal foretas løpende skikkethetsvurdering av alle studenter ved fagskoleutdanninger som omfattes av [§ 8-2, første ledd](forskrift/2024-04-30-783/§8-2/ledd/1) i denne forskrift, gjennom hele fagskoleutdanningen. Den inngår i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket.
 
 (2) Hvis det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.
 
 ### § 8-4. Vurderingskriterier
 
+Jf. [§ 29 i forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005/§29).
+
 (1) En student er uskikket dersom ett eller flere av følgende kriterier er oppfylt:studenten viser manglende vilje eller evne til omsorg, forståelse, innlevelse og respekt for barn, unge og voksne i sårbare situasjonerstudenten viser manglende vilje eller evne til å endre uakseptabel adferd i samsvar med faglig veiledningstudenten opptrer ikke i tråd med regelverk for helse, miljø og sikkerhet, prosedyrer og kvalitetssystemer, og dette kan utgjøre en fare for liv og helsestudenten viser truende eller krenkende adferd i studiesituasjonen, eller overfor barn, unge eller voksne i sårbare situasjoner.
 
 (2) Departementet kan fastsette tilleggskriterier for enkeltutdanninger i særskilte tilfeller.
 
 ### § 8-5. Skikkethetsnemnd og skikkethetsansvarlig
+
+Jf. [§ 31](forskrift/2019-07-11-1005/§31)–[§ 33](forskrift/2019-07-11-1005/§33) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
 
 (1) Styret selv skal oppnevne en skikkethetsnemnd.
 
@@ -485,6 +563,8 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 (4) Tvil om en students skikkethet meldes skriftlig til skikkethetsansvarlig. Den som leverer tvilsmelding, regnes ikke som part i saken.
 
 ### § 8-6. Behandling hos skikkethetsansvarlig og i skikkethetsnemnda
+
+Jf. [§ 34](forskrift/2019-07-11-1005/§34)–[§ 36](forskrift/2019-07-11-1005/§36) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
 
 (1) Studenten skal varsles skriftlig om at det foreligger begrunnet tvil om vedkommende sin skikkethet. Skikkethetsansvarlig skal innkalle studenten til vurderingssamtale og sørge for at saken blir så godt opplyst som mulig.
 
@@ -503,6 +583,8 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 (8) Studenten kan klage på vedtaket. Det nasjonale klageorganet for fagskoleutdanning er klageinstans. Bestemmelser om klage er gitt i kapittel 10 i denne forskriften.
 
 ## Kapittel 9. Annullering
+
+Jf. [§ 24 i lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28/§24).
 
 ### § 9-1. Annullering av vedtak om opptak, godskriving, fritak eller realkompetansevurdering
 
@@ -523,6 +605,8 @@ En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetnin
 (4) Annullering av eksamen er et enkeltvedtak, og studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Jf. [kapittel 10](forskrift/2024-04-30-783/kap10) i denne forskrift.
 
 ## Kapittel 10. Klage og klagebehandling
+
+Jf. [§ 20](lov/2018-06-08-28/§20)–[§ 27](lov/2018-06-08-28/§27) i [lov om høyere yrkesfaglig utdanning](lov/2018-06-08-28).
 
 ### § 10-1. Klageordning og klageorgan
 

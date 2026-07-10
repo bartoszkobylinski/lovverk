@@ -47,9 +47,19 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 ### Forordning [(EU) 2022/160](eu/32022r0160) om minstehyppighet for visse kontroller med dyrehelse
 
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/160](eu/32022r0160) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
+
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2022/160](eu/32022r0160)
 av 4. februar 2022
 om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å verifisere overholdelsen av dyrehelsekravene i Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om oppheving av forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 20 nr. 3 første ledd bokstav a), og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter generelle regler for offentlig kontroll som vedkommende myndighet gjennomfører for å verifisere at reglene overholdes på en rekke områder, herunder dyrehelse, på grunnlag av en risikovurdering og med passende hyppighet. Forordningen fastsetter også metoder og teknikker for offentlig kontroll, som blant annet omfatter inspeksjon av lokaler, dyr og varer som er under de driftsansvarliges kontroll.
 2. I henhold til forordning [(EU) 2017/625](eu/32017r0625) skal det fastsettes ensartede praktiske ordninger for gjennomføringen av offentlig kontroll med hensyn til samme minstehyppighet, der dette er nødvendig for å håndtere spesifikke farer og risikoer for dyrs helse og for å verifisere overholdelsen av tiltak for forebygging og bekjempelse av sykdom.
@@ -67,6 +77,24 @@ om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å 
 14. Reglene fastsatt i denne forordningen bør få anvendelse for Det forente kongerike med hensyn til Nord-Irland, i samsvar med artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland til avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap sammenholdt med protokollens vedlegg 2.
 15. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1).
+
+3 Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035) av 28. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg (EUT L 314 av 5.12.2019, s. 115).
+
+4 Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr (EUT L 174 av 3.6.2020, s. 1).
+
+5 Delegert kommisjonsforordning [(EU) 2020/691](eu/32020r0691) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for akvakulturanlegg og transportører av akvatiske dyr (EUT L 174 av 3.6.2020, s. 345).
+
+6 Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til overvåkingsregler, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer (EUT L 174 av 3.6.2020, s. 211).
+
+7 Kommisjonsforordning [(EF) nr. 1082/2003](eu/32003r1082) av 23. juni 2003 om fastsettelse av nærmere regler for gjennomføringen av europaparlaments- og rådsforordning [(EF) nr. 1760/2000](eu/32000r1760) med hensyn til minstekrav til kontrollene som skal foretas i forbindelse med systemet for identifikasjon og registrering av storfe (EUT L 156 av 25.6.2003, s. 9).
+
+8 Kommisjonsforordning [(EF) nr. 1505/2006](eu/32006r1505) av 11. oktober 2006 om gjennomføring av rådsforordning [(EF) nr. 21/2004](eu/32004r0021) med hensyn til minstekrav til kontrollene som skal foretas i forbindelse med identifikasjon og registrering av sauer og geiter (EUT L 280 av 12.10.2006, s. 3).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål og virkeområde
 
 Denne forordningen fastsetter samme minstehyppighet for offentlig kontroll, særlig inspeksjoner, av dyr og avlsmateriale og av forholdene de holdes eller produseres under, på følgende anlegg:Godkjente anlegg for holdte landdyr og rugeegg som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035).Godkjente anlegg for avlsmateriale som nevnt i artikkel 3 i delegert forordning [(EU) 2020/686](eu/32020r0686).Visse akvakulturanlegg godkjent i henhold til artikkel 176 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429) og grupper av akvakulturanlegg godkjent i henhold til artikkel 177 i samme forordning.Registrerte anlegg for holdte landdyr som nevnt i artikkel 1 nr. 1 bokstav a) i delegert forordning [(EU) 2019/2035](eu/32019r2035) som holder storfe, sau eller geit.
@@ -75,9 +103,13 @@ Denne forordningen fastsetter samme minstehyppighet for offentlig kontroll, sær
 
 I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) nr. 2016/429](eu/32016r0429), delegert forordning [(EU) 2019/2035](eu/32019r2035), delegert forordning [(EU) 2020/686](eu/32020r0686), delegert forordning [(EU) 2020/688](eu/32020r0688)9 og delegert forordning [(EU) 2020/990](eu/32020r0990)10:«anlegg»: definisjonen i artikkel 4 nr. 27 i forordning [(EU) 2016/429](eu/32016r0429),«rugeri»: definisjonen i artikkel 4 nr. 47 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamling»: definisjonen i artikkel 4 nr. 49 i forordning [(EU) 2016/429](eu/32016r0429),«oppsamlingssentral for hunder, katter og ildrer»: definisjonen i artikkel 2 nr. 7 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«dyremottak»: definisjonen i artikkel 2 nr. 8 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«kontrollstasjon»: definisjonen i artikkel 2 nr. 9 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«produksjonsanlegg som er isolert fra det omgivende miljøet»: definisjonen i artikkel 2 nr. 10 i delegert forordning [(EU) 2019/2035](eu/32019r2035),«godkjent karanteneanlegg»: definisjonen i artikkel 3 nr. 9 i delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688),«avgrenset anlegg»: definisjonen i artikkel 4 nr. 48 i forordning [(EU) 2016/429](eu/32016r0429),«godkjent anlegg for avlsmateriale»: definisjonen i artikkel 2 nr. 2 i delegert forordning [(EU) 2020/686](eu/32020r0686),«godkjent akvakulturanlegg»: definisjonen i artikkel 2 nr. 10 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990),«godkjent gruppe av akvakulturanlegg»: definisjonen i artikkel 2 nr. 11 i delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990).
 
+9 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).10 Delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990) av 28. april 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse og helsesertifikater ved forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen (EUT L 221 av 10.7.2020, s. 42).
+
 ### Artikkel 3. Samme minstehyppighet for inspeksjoner på visse godkjente anlegg
 
 Vedkommende myndigheter i medlemsstatene11 skal minst én gang hvert kalenderår utføre offentlig kontroll, særlig inspeksjoner, av dyr og rugeegg og under hvilke forhold dyrene og rugeeggene holdes eller produseres, på følgende typer anlegg på deres territorium som har fått godkjenning fra vedkommende myndighet:Rugerier og anlegg som holder fjørfe.Anlegg for oppsamling av hov- og klovdyr og fjørfe.Oppsamlingssentraler for hunder, katter og ildrer.Dyremottak for hunder, katter og ildrer.Kontrollstasjoner.Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.Godkjente karanteneanlegg.Avgrensede anlegg.
+
+11 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 4. Samme minstehyppighet for inspeksjoner på godkjente anlegg for avlsmateriale
 
@@ -93,26 +125,70 @@ Vedkommende myndighet i en medlemsstat skal hvert år utføre offentlig kontroll
 
 ### Artikkel 7. Oppheving
 
-1. Forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505) oppheves.
+1\. Forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505) oppheves.
 
-2. Henvisninger til de opphevede forordningene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegget.
+2\. Henvisninger til de opphevede forordningene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegget.
 
 ### Artikkel 8. Ikrafttredelse
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. februar 2022.
 
-Utferdiget i Brussel 4. februar 2022.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Ursula von der Leyen |
+|  | *President* |
 
 ### VEDLEGG
 Sammenligningstabeller nevnt i artikkel 7 nr. 2
 
+2\. Forordning [(EF) nr. 1505/2006](eu/32006r1505)
+
+| *Forordning [(EF) nr. 1082/2003](eu/32003r1082)* | *Denne forordningen* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1 | Artikkel 6 |
+| Artikkel 2 nr. 2 | – |
+| Artikkel 2 nr. 3 | – |
+| Artikkel 2 nr. 4 | – |
+| Artikkel 2 nr. 5 | – |
+| Artikkel 2 nr. 6 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 | – |
+| Vedlegg I | – |
+
+| *Forordning [(EF) nr. 1505/2006](eu/32006r1505)* | *Denne forordningen* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 nr. 1 første ledd | Artikkel 6 |
+| Artikkel 5 nr. 1 andre ledd | – |
+| Artikkel 5 nr. 2 første ledd | – |
+| Artikkel 5 nr. 2 andre ledd | – |
+| Artikkel 6 | – |
+| Artikkel 7 | – |
+| Vedlegg | – |
+
 ### Forordning [(EU) 2022/671](eu/32022r0671) om kontroll av dyr, produkter av animalsk opprinnelse og avlsmateriale og oppfølgingstiltak
+
+Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/671](eu/32022r0671) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I.
 
 ### DELEGERT KOMMISJONSFORORDNING [(EU) 2022/671](eu/32022r0671)
 av 4. februar 2022
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til særlige regler for vedkommende myndigheters offentlige kontroll av dyr, produkter av animalsk opprinnelse og avlsmateriale, oppfølgingstiltak som skal treffes av vedkommende myndighet ved manglende overholdelse av reglene for identifikasjon og registrering av storfe, sau og geit eller manglende overholdelse under transitt av visse dyr av storfe gjennom Unionen, samt om oppheving av kommisjonsforordning [(EF) nr. 494/98](eu/31998r0494)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 20 nr. 2 bokstav a) og c), og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625) fastsetter generelle regler for offentlig kontroll som vedkommende myndigheter gjennomfører for å verifisere at reglene overholdes på en rekke områder, herunder krav til dyrehelse. Forordningen fastsetter også metoder og teknikker for offentlig kontroll, som omfatter inspeksjon av lokaler, dyr og varer som er under de driftsansvarliges kontroll. I tillegg fastsetter forordning [(EU) 2017/625](eu/32017r0625) mulige tiltak som vedkommende myndigheter skal treffe ved fastslått manglende overholdelse av blant annet krav til dyrehelse som nevnt i artikkel 1 nr. 2 bokstav d) i forordningen.
 2. Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429)2 opphevet og erstattet 39 rettsakter på dyrehelseområdet med virkning fra 21. april 2021. Noen av kravene i rettsaktene som oppheves ved eller i henhold til forordning [(EU) 2016/429](eu/32016r0429), gjelder imidlertid visse særlige dyrehelserelaterte forhold i forbindelse med offentlig kontroll, og oppfølgingstiltak som skal treffes ved fastslått manglende overholdelse, som fastsatt i artikkel 138 i forordning [(EU) 2017/625](eu/32017r0625). Det bør derfor fastsettes slike særlige regler for offentlig kontroll og for oppfølgingstiltak som vedkommende myndighet skal treffe ved fastslått manglende overholdelse, i denne forordningen.
@@ -127,11 +203,35 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 11. Ved kommisjonsforordning [(EF) nr. 494/98](eu/31998r0494)10 er det fastsatt administrative sanksjoner som skal anvendes når det fastslås at vilkårene eller kravene for identifikasjon og registrering av storfe ikke er overholdt. Nevnte forordning ble ikke uttrykkelig opphevet ved delegert forordning [(EU) 2019/2035](eu/32019r2035). Dessuten er de administrative sanksjonene fastsatt i forordning [(EF) nr. 494/98](eu/31998r0494) overflødige på grunn av tiltakene fastsatt i artikkel 138 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625). For å garantere rettssikkerhet og konsekvens bør forordning [(EU) nr. 494/98](eu/31998r0494) oppheves ved denne forordningen.
 12. Reglene fastsatt i denne forordningen bør få anvendelse for Det forente kongerike med hensyn til Nord-Irland, i samsvar med artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland til avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap sammenholdt med protokollens vedlegg 2.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen») (EUT L 84 av 31.3.2016, s. 1).
+
+3 Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035) av 28. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg (EUT L 314 av 5.12.2019, s. 115).
+
+4 Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr (EUT L 174 av 3.6.2020, s. 1).
+
+5 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).
+
+6 Delegert kommisjonsforordning [(EU) 2020/990](eu/32020r0990) av 28. april 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse og helsesertifikater ved forflytning av akvatiske dyr og produkter av animalsk opprinnelse fra akvatiske dyr innenfor Unionen (EUT L 221 av 10.7.2020, s. 42).
+
+7 Delegert kommisjonsforordning [(EU) 2019/2124](eu/32019r2124) av 10. oktober 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til regler for offentlig kontroll av forsendelser av dyr og varer i transitt, ved omlasting og videre transport gjennom Unionen, og om endring av kommisjonsforordning [(EF) nr. 798/2008](eu/32008r0798), [(EF) nr. 1251/2008](eu/32008r1251), [(EF) nr. 119/2009](eu/32009r0119), [(EU) nr. 206/2010](eu/32010r0206), [(EU) nr. 605/2010](eu/32010r0605), [(EU) nr. 142/2011](eu/32011r0142), [(EU) nr. 28/2012](eu/32012r0028), Kommisjonens gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) og kommisjonsvedtak [2007/777/EF](eu/32007d0777) (EUT L 321 av 12.12.2019, s. 73).
+
+8 Delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).
+
+9 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (EUT L 300 av 14.11.2009, s. 1).
+
+10 Kommisjonsforordning [(EF) nr. 494/98](eu/31998r0494) av 27. februar 1998 om fastsettelse av nærmere regler for gjennomføringen av rådsforordning [(EF) nr. 820/97](eu/31997r0820) med hensyn til anvendelsen av administrative minimumssanksjoner i forbindelse med systemet for identifikasjon og registrering av storfe (EFT L 60 av 28.2.1998, s. 78).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål og virkeområde
 
-1. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse særlige regler om offentlig kontroll som medlemsstatenes vedkommende myndigheter11 utfører av dyr, produkter av animalsk opprinnelse og avlsmateriale for å verifisere overholdelsen av krav til dyrehelse som nevnt i artikkel 1 nr. 2 bokstav d) i nevnte forordning, og om nødvendig med hensyn til visse tiltak som treffes av vedkommende myndigheter etter offentlig kontrollpå visse anlegg som holder dyr,på visse anlegg der det samles opp, produseres, bearbeides eller oppbevares avlsmateriale.
+1\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til visse særlige regler om offentlig kontroll som medlemsstatenes vedkommende myndigheter11 utfører av dyr, produkter av animalsk opprinnelse og avlsmateriale for å verifisere overholdelsen av krav til dyrehelse som nevnt i artikkel 1 nr. 2 bokstav d) i nevnte forordning, og om nødvendig med hensyn til visse tiltak som treffes av vedkommende myndigheter etter offentlig kontrollpå visse anlegg som holder dyr,på visse anlegg der det samles opp, produseres, bearbeides eller oppbevares avlsmateriale.
 
-2. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til særlige tiltak som treffes av vedkommende myndigheter i medlemsstatene etter offentlig kontroll av visse dyr av storfe i transitt.
+2\. Denne forordningen utfyller forordning [(EU) 2017/625](eu/32017r0625) med hensyn til særlige tiltak som treffes av vedkommende myndigheter i medlemsstatene etter offentlig kontroll av visse dyr av storfe i transitt.
+
+11 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til medlemsstater i dette vedlegget Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 2. Definisjoner
 
@@ -139,11 +239,13 @@ I denne forordningen gjelder følgende definisjoner fastsatt i forordning [(EU) 
 
 ### Artikkel 3. Offentlig kontroll på visse godkjente anlegg
 
-1. Offentlige veterinærer eller, for godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg, offentlige veterinærer eller offisielle fagpersoner på området akvatiske dyrs helse, skal utføre offentlig kontroll for å verifisere overholdelsen av krav til dyrehelse som er nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625), og som er fastsatt i og i samsvar med forordning [(EU) 2016/429](eu/32016r0429), på følgende typer anlegg som har fått godkjenning fra vedkommende myndighet:Rugerier og anlegg som holder fjørfe.Anlegg for oppsamling av hov- og klovdyr og fjørfe.Oppsamlingssentraler for hunder, katter og ildrer.Dyremottak for hunder, katter og ildrer.Kontrollstasjoner.Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.Godkjente karanteneanlegg.Avgrensede anlegg.Godkjente anlegg for avlsmateriale.Godkjente akvakulturanlegg.Godkjente grupper av akvakulturanlegg.Ved den offentlige kontrollen nevnt i første ledd skal det særlig verifiseres at de driftsansvarlige for de godkjente anleggene fortsatt oppfyller godkjenningskravene for disse anleggene.
+1\. Offentlige veterinærer eller, for godkjente akvakulturanlegg og godkjente grupper av akvakulturanlegg, offentlige veterinærer eller offisielle fagpersoner på området akvatiske dyrs helse, skal utføre offentlig kontroll for å verifisere overholdelsen av krav til dyrehelse som er nevnt i artikkel 1 nr. 2 bokstav d) i forordning [(EU) 2017/625](eu/32017r0625), og som er fastsatt i og i samsvar med forordning [(EU) 2016/429](eu/32016r0429), på følgende typer anlegg som har fått godkjenning fra vedkommende myndighet:Rugerier og anlegg som holder fjørfe.Anlegg for oppsamling av hov- og klovdyr og fjørfe.Oppsamlingssentraler for hunder, katter og ildrer.Dyremottak for hunder, katter og ildrer.Kontrollstasjoner.Produksjonsanlegg for humler som er isolert fra det omgivende miljøet.Godkjente karanteneanlegg.Avgrensede anlegg.Godkjente anlegg for avlsmateriale.Godkjente akvakulturanlegg.Godkjente grupper av akvakulturanlegg.Ved den offentlige kontrollen nevnt i første ledd skal det særlig verifiseres at de driftsansvarlige for de godkjente anleggene fortsatt oppfyller godkjenningskravene for disse anleggene.
 
-2. Den offentlige kontrollen nevnt i nr. 1 i denne artikkelen skal omfatte inspeksjoner som nevnt i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) som skal utføres minst i samsvar med minstehyppigheten, dersom det er fastsatt en slik minstehyppighet i Kommisjonens gjennomføringsforordning [(EU) 2022/160](eu/32022r0160)12.
+2\. Den offentlige kontrollen nevnt i nr. 1 i denne artikkelen skal omfatte inspeksjoner som nevnt i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) som skal utføres minst i samsvar med minstehyppigheten, dersom det er fastsatt en slik minstehyppighet i Kommisjonens gjennomføringsforordning [(EU) 2022/160](eu/32022r0160)12.
 
-3. Inspeksjonene nevnt i nr. 2 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+3\. Inspeksjonene nevnt i nr. 2 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+
+12 Kommisjonens gjennomføringsforordning [(EU) 2022/160](eu/32022r0160) av 4. februar 2022 om fastsettelse av samme minstehyppighet for visse offentlige kontroller for å verifisere overholdelsen av dyrehelsekravene i Unionen i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625), og om oppheving av forordning [(EF) nr. 1082/2003](eu/32003r1082) og [(EF) nr. 1505/2006](eu/32006r1505) (EUT L 26 av 7.2.2022, s. 11).
 
 ### Artikkel 4. Særlige regler for offentlig kontroll på avgrensede anlegg for landdyr
 
@@ -151,19 +253,19 @@ Ved offentlig kontroll på avgrensede anlegg for landdyr skal den offisielle vet
 
 ### Artikkel 5. Særlige regler for offentlig kontroll for å verifisere overholdelsen av krav om identifikasjon og registrering av storfe, sau eller geit, og for oppfølgingstiltak ved manglende overholdelse av disse
 
-1. Offentlig kontroll for å verifisere at krav om identifikasjon og registrering av storfe, sau eller geit er overholdt, skal omfatte inspeksjoner som omhandlet i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) av storfe, sau eller geit på anlegg som holder disse dyrene, utført minst i samsvar med minstehyppigheten fastsatt i artikkel 6 i gjennomføringsforordning [(EU) 2022/160](eu/32022r0160).
+1\. Offentlig kontroll for å verifisere at krav om identifikasjon og registrering av storfe, sau eller geit er overholdt, skal omfatte inspeksjoner som omhandlet i artikkel 14 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625) av storfe, sau eller geit på anlegg som holder disse dyrene, utført minst i samsvar med minstehyppigheten fastsatt i artikkel 6 i gjennomføringsforordning [(EU) 2022/160](eu/32022r0160).
 
-2. Inspeksjonene nevnt i nr. 1 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
+2\. Inspeksjonene nevnt i nr. 1 kan kombineres medoffentlig kontroll som nevnt i artikkel 9 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625),annen offentlig kontroll som nevnt i artikkel 1 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625) for å verifisere at krav er overholdt, ellerannen offentlig kontroll eller andre inspeksjoner eller besøk som er fastsatt i EU-regler.
 
-3. Når vedkommende myndighet velger ut anleggene som skal inspiseres, skal den ta hensyn til følgende kriterier i sin risikoanalyse i tillegg til dem som er fastsatt i artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625):Antallet dyr på anlegget.De dyreartene som finnes på og er identifisert på anlegget.Vesentlige endringer i forhold til det antallet dyr eller de dyreartene som har befunnet seg på anlegget i de siste fem årene.Eventuelle andre relevante kriterier fastsatt av medlemsstaten.
+3\. Når vedkommende myndighet velger ut anleggene som skal inspiseres, skal den ta hensyn til følgende kriterier i sin risikoanalyse i tillegg til dem som er fastsatt i artikkel 9 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625):Antallet dyr på anlegget.De dyreartene som finnes på og er identifisert på anlegget.Vesentlige endringer i forhold til det antallet dyr eller de dyreartene som har befunnet seg på anlegget i de siste fem årene.Eventuelle andre relevante kriterier fastsatt av medlemsstaten.
 
-4. Dersom det foretas en inspeksjon som nevnt i nr. 1, skal vedkommende myndighet inspisere alt storfe og all sau og geit på anlegget.
+4\. Dersom det foretas en inspeksjon som nevnt i nr. 1, skal vedkommende myndighet inspisere alt storfe og all sau og geit på anlegget.
 
-5. Dersom antallet dyr som skal inspiseres på anlegget, overstiger 20, kan vedkommende myndighet som unntak fra nr. 4 beslutte å inspisere et representativt utvalg av disse dyrene dersom antallet inspiserte dyr er tilstrekkelig til å påvise en manglende overholdelse på 5 % med et konfidensnivå på 95 %.
+5\. Dersom antallet dyr som skal inspiseres på anlegget, overstiger 20, kan vedkommende myndighet som unntak fra nr. 4 beslutte å inspisere et representativt utvalg av disse dyrene dersom antallet inspiserte dyr er tilstrekkelig til å påvise en manglende overholdelse på 5 % med et konfidensnivå på 95 %.
 
-6. Dersom det foretas en inspeksjon som nevnt i nr. 1 på et representativt utvalg av dyr på et anlegg i samsvar med nr. 5, og denne inspeksjonen bekrefter at kravene til identifikasjon og registrering ikke er overholdt, skal vedkommende myndighet inspisere alt annet storfe og all annen sau og geit på anlegget.
+6\. Dersom det foretas en inspeksjon som nevnt i nr. 1 på et representativt utvalg av dyr på et anlegg i samsvar med nr. 5, og denne inspeksjonen bekrefter at kravene til identifikasjon og registrering ikke er overholdt, skal vedkommende myndighet inspisere alt annet storfe og all annen sau og geit på anlegget.
 
-7. Som unntak fra nr. 6 kan vedkommende myndighet beslutte å inspisere et representativt utvalg av dyr på anlegget for å sikre at antallet inspiserte dyr er tilstrekkelig til å anslå den manglende overholdelsen til over 5 % med en nøyaktighet på +/- 2 % og et konfidensnivå på 95 %.
+7\. Som unntak fra nr. 6 kan vedkommende myndighet beslutte å inspisere et representativt utvalg av dyr på anlegget for å sikre at antallet inspiserte dyr er tilstrekkelig til å anslå den manglende overholdelsen til over 5 % med en nøyaktighet på +/- 2 % og et konfidensnivå på 95 %.
 
 ### Artikkel 6. Oppfølging ved manglende overholdelse under transitt av visse dyr av storfe gjennom Unionen
 
@@ -177,6 +279,10 @@ Forordning [(EF) nr. 494/98](eu/31998r0494) oppheves.
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. februar 2022.
 
-Utferdiget i Brussel 4. februar 2022.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Ursula von der Leyen |
+|  | *President* |

@@ -26,7 +26,7 @@ eu_basis: []
 
 ## § 11. Giftige og andre helsefarlige stoffer.
 
-1. I virksomhet hvor giftige eller andre helsefarlige stoffer blir framstilt, pakket, brukt eller oppbevart på en måte som kan innebære helserisiko, skal arbeidsprosessene og arbeidet for øvrig være fullt forsvarlig slik at arbeidstakerne er sikret mot ulykker, helseskader eller særlig ubehag.
+1\. I virksomhet hvor giftige eller andre helsefarlige stoffer blir framstilt, pakket, brukt eller oppbevart på en måte som kan innebære helserisiko, skal arbeidsprosessene og arbeidet for øvrig være fullt forsvarlig slik at arbeidstakerne er sikret mot ulykker, helseskader eller særlig ubehag.
 
 *Beholdere og emballasje for stoffene skal være tydelig merket med stoffenes navn og advarsel.*
 
@@ -46,11 +46,15 @@ eu_basis: []
 
 *6. Direktoratet for arbeidstilsynet kan helt eller delvis gjøre unntak fra reglene i denne paragraf for virksomhet som bruker giftige eller andre helsefarlige stoffer i forbindelse med forsknings- og analysearbeid e.l.*
 
+1 Jfr. § 75.
+
 – – –
 
 ## Kap. IV. Ansvar for produsenter, leverandører m.v.1
 
 > Forskriften opphevet fra 1 jan 2003 med unntak av [§ 11](forskrift/1977-06-24-9453/§11), [§ 17](forskrift/1977-06-24-9453/§17) og [§ 18](forskrift/1977-06-24-9453/§18), jf. [forskrift 20 des 2002 nr. 1619](forskrift/2002-12-20-1619)
+
+1 Jfr. §§ 85 og 87.
 
 ### § 17. Produsenter og leverandører av tekniske innretninger og utstyr.
 
@@ -68,11 +72,13 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 
 *5. Utgifter med undersøkelse eller besiktigelse som pålegges etter denne paragraf, bæres av den som har plikt til å foreta undersøkelsen eller besiktigelsen.*
 
+1 Jfr. res. 7 okt. 1977 om deleg. til forskjellige institusjoner 23 mars 1979 (med fullmakt for Kommunaldept.)
+
 ### § 18. Produsenter og importører av giftige og andre helsefarlige stoffer.
 
 *1. Den som produserer eller importerer giftige eller andre helsefarlige stoffer som skal brukes eller ventelig vil bli brukt i virksomhet som går inn under denne lov, skal:**skaffe til veie opplysninger om stoffets sammensetning og egenskaper,**treffe de tiltak som er nødvendige for å forebygge ulykker og helseskader eller særlig ubehag eller ulempe for arbeidstakerne,**gi melding til den Kongen1 bestemmer om stoffets navn, sammensetning, fysikalske og kjemiske egenskaper, samt supplerende opplysninger som måtte kreves for å fastslå stoffets farlighetsgrad,**sørge for forsvarlig emballasje slik at ulykker og helseskader forebygges,*merke emballasjen med stoffets navn, produsentens eller importørens navn og tydelig advarsel. Etikett for merking skal sendes sammen med melding etter bokstav c).
 
-2. *Kongen1 kan kreve at produsenten eller importøren foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått stoffets farlighetsgrad.*
+2\. *Kongen1 kan kreve at produsenten eller importøren foretar undersøkelser eller leverer prøve til undersøkelse for å få fastslått stoffets farlighetsgrad.*
 
 *Kongen1 kan forby omsetning av et stoff hvis en produsent eller importør forsømmer sin melde- eller merkeplikt, eller ikke gir supplerende opplysninger som kreves i medhold av denne paragrafs nr. 1, bokstav c).*
 
@@ -85,5 +91,7 @@ Det skal følge med nødvendig og lett forståelig skriftlig rettleiing om trans
 *4. Unntatt fra meldeplikt og merkeplikt etter disse bestemmelser er legemidler, stoffer som går inn under [lov 5 april 1963 nr. 9](lov/1963-04-05-9) om plantevernmiddel m.v., og næringsmidler som går inn under [lov 19 mai 1933 nr. 3](lov/1933-05-19-3) om tilsyn med næringsmidler m.v.*
 
 > Forskriften opphevet fra 1 jan 2003 med unntak av [§ 11](forskrift/1977-06-24-9453/§11), [§ 17](forskrift/1977-06-24-9453/§17) og [§ 18](forskrift/1977-06-24-9453/§18), jf. [forskrift 20 des 2002 nr. 1619](forskrift/2002-12-20-1619)
+
+1 Jfr. res. 7 okt. 1977 om deleg.
 
 – – –

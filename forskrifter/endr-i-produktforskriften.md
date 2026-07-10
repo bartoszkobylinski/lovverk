@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
+I [forskrift 1. juni 2004 nr. 922 om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften)](forskrift/2004-06-01-922) gjøres følgende endringer:
+
+[§ 2-3 tredje ledd](forskrift/2004-06-01-922/§2-3/ledd/3) skal lyde:
+
 Forbudene i første og annet ledd omfatter ikke:kvikksølv som forekommer naturlig i kull, malm og malmkonsentrat mv.,emballasje, batterier, komponenter i kjøretøy og elektriske og elektroniske produkter og utstyr som omfattes av denne forskrifts [kapittel 2a](forskrift/2004-06-01-922/kap2a),stoff, stoffblanding og faste bearbeidede produkter hvor innholdet av kvikksølv eller kvikksølvforbindelser er lavere enn 0,001 vektprosent,tiomersal som konserveringsmiddel i vaksiner.stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk som referansestandarder ved analyse av kvikksølv,bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk i analyse i henhold til internasjonale standardmetoder innen legemiddelindustrien,kvikksølvsulfat til bruk i analyse av kjemisk oksygenforbruk (KOF),bruk og omsetning av stoff og stoffblanding som inneholder kvikksølv eller kvikksølvforbindelser til bruk innen medisinsk diagnostikk,Nesslers reagens for bestemmelse av *Pseudomonas aeruginosa*,kvikksølv(II)tiocyanat for bestemmelse av klorid i vannprøver,kvikksølv(II)klorid for fiksering av vannprøver til laboratorieanalyser.Forbudet mot import, eksport og produksjon i annet ledd skal likevel gjelde for elektriske og elektroniske produkter og for komponenter i kjøretøy som er listet opp i vedlegg II til artikkel 5 i forordning [(EU) 2017/852](eu/32017r0852) om kvikksølv.
+
+[§ 2-4](forskrift/2004-06-01-922/§2-4) skal lyde: – – –
 
 ## II
 

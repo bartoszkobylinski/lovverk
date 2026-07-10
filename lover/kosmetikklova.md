@@ -195,3 +195,5 @@ Forsettleg eller aktlaust brot på føresegner eller vedtak gitt i eller i medha
 Denne lova gjeld frå den tid Kongen fastset.1
 
 [Lov 19. mai 1933 nr. 3](lov/1933-05-19-3) om tilsyn med kosmetikk og kroppspleieprodukter mv. blir oppheva frå same tidspunkt. Forskrifter eller enkeltvedtak gitt i medhald av den oppheva lova gjeld til dei blir oppheva.
+
+1 Frå 1 jan 2006 iflg. [res. 21 des 2005 nr. 1642](forskrift/2005-12-21-1642).

@@ -724,6 +724,8 @@ Etternemnde lover blir frå same tid endra eller oppheva slik: – – –
 
 > Endra med [lover 19 des 1975 nr. 70](lov/1975-12-19-70) (tidlegare § 58), [19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848)).
 
+1 Frå 1 jan 1975 iflg. res. 28 juni 1974.
+
 ### § 78. (Oppheva)
 
 > Endra med [lov 19 des 1975 nr. 70](lov/1975-12-19-70) (tidlegare § 59), oppheva med [lov 19 juni 2009 nr. 98](lov/2009-06-19-98) (ikr. 1 juli 2009 iflg. [res. 26 juni 2009 nr. 848](forskrift/2009-06-26-848), sjå lovas IX).

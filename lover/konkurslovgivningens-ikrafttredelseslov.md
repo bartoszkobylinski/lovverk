@@ -30,16 +30,24 @@ Lov om gjeldsforhandling og konkurs og lov om fordringshavernes dekningsrett tar
 
 Fra samme dato1 oppheves eller endres følgende lover og lovbestemmelser: – – –
 
+1 1 jan 1986 iflg. [res. 12 juli 1985 nr. 1435](forskrift/1985-07-12-1435).
+
 ## III
 
 Følgende overgangsregler skal gjelde:
 
+– – –
+
 1. Reglene i kapittel 3 i [lov om fordringshavernes dekningsrett](lov/1984-06-08-59/kap3) skal gjelde beslagsforbud som nedlegges og løsingsrett som påheftes etter ikrafttredelsen. [§ 3-9](lov/1984-06-08-59/§3-9) får anvendelse hvor anmodningen om sperring settes frem etter ikrafttredelsen.
 2. Disposisjoner og tvangsforretninger som er foretatt før ikrafttredelsen, og som ikke kan omstøtes etter den hittil gjeldende lovgivning, kan heller ikke omstøtes etter den nye lovgivning. Den nye lovgivning griper ikke inn i disposisjoner som har oppnådd rettsvern etter den hittil gjeldende lovgivning.
+
+– – –
 
 > Endret ved [lov 30 aug 2002 nr. 67](lov/2002-08-30-67) (ikr. 1 jan 2003 iflg. [res. 30 aug 2002 nr. 938](forskrift/2002-08-30-938)).
 
 ## IV
+
+– – –
 
 ## V
 

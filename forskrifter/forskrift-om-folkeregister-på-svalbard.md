@@ -133,3 +133,5 @@ Justisdepartementet kan endre denne forskriften.
 ## § 13.
 
 Denne forskrift trer i kraft fra den tid Justisdepartementet bestemmer.1
+
+1 1 nov 1994 iflg. [forskrift 24 okt 1994 nr. 977](forskrift/1994-10-24-977).

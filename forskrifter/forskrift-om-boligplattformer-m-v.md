@@ -28,15 +28,27 @@ eu_basis: []
 
 I denne forskrift betyr:
 
+1\.
+
 *Innretning:* Flyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.
+
+2\.
 
 *Rederiet:* Definisjonen av rederiet i [skipssikkerhetsloven § 4](lov/2007-02-16-9/§4) gjelder tilsvarende.
 
+3\.
+
 *Sikkerhetsstyringssystem:* Alle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av [lov 16. februar 2007 nr. 9](lov/2007-02-16-9) om skipssikkerhet.
+
+4\.
 
 *Boligkvarter:* De områder av innretningen som er beskrevet i denne forskrift.
 
+5\.
+
 *Mønstringsstasjon:* Møtested for entring av livbåter og redningsflåter.
+
+6\.
 
 *Nødstasjon:* Møtested for personell med bestemte oppgaver i en nødssituasjon.
 
@@ -44,7 +56,11 @@ I denne forskrift betyr:
 
 ### § 2. Virkeområde
 
+1\.
+
 Forskriften gjelder for innretninger som er registrert eller som skal registreres i norsk skipsregister.
+
+2\.
 
 Innretninger som er registrert i norsk skipsregister, kan, frem til neste sertifikatutstedelse, følge de krav som gjaldt ved siste sertifikatutstedelse.
 
@@ -86,7 +102,11 @@ Plassering av boligkvarteret skal baseres på en risikovurdering i samsvar med [
 
 ### § 6a. Merking i boligkvarteret
 
+1\.
+
 Boligkvarteret skal merkes slik at det er lett å orientere seg.
+
+2\.
 
 Rom i boligkvarteret skal tydelig merkes med bruksområde.
 
@@ -94,21 +114,39 @@ Rom i boligkvarteret skal tydelig merkes med bruksområde.
 
 ### § 7. Bygningstekniske krav
 
+1\.
+
 Boligkvarteret skal innredes og utstyres for begge kjønn. Utvendige dekk og skott i boligkvarteret som er utsatt for været og/eller som grenser til maskiner, utstyr, arbeidssted mv., skal være forsvarlig isolert. Isolasjonen skal ikke ha en høyere k-verdi enn 0,50. Isolasjonsmaterialet skal legges på en slik måte at kondensdannelse unngås og skal være festet på en forsvarlig måte.
+
+2\.
 
 Til skott og dekk i eller mot boligkvarteret skal det brukes konstruksjoner med lydreduksjon som oppfyller kravene som gjelder for flyttbare innretninger i kapittel 15 i [forskrift 1. januar 2005 nr. 8](forskrift/2005-01-01-8) om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip.
 
+3\.
+
 Boligkvarteret skal være lagt til rette for å opprettholde en forsvarlig hygienisk standard. Materialer som brukes skal ha en overflate som er lett å holde ren.
+
+4\.
 
 Skott rundt maskinrom, oppvarmede tanker og områder med lave og/eller høye temperaturer som støter direkte opp til boligkvarter, samt damp- og varmtvannsrørledninger i boligkvarter skal være forsvarlig isolert.
 
+5\.
+
 Rørsystemer som ved lekkasje kan forårsake skade på personer eller miljø, skal ikke føres gjennom boligkvarteret.
+
+6\.
 
 Skott og tak i sanitærrom skal være av stål eller annet likeverdig materiale og isolert mot ytterskott.
 
+7\.
+
 Takhøyde i boligkvarteret hvor full bevegelse er nødvendig skal være minst 2.300 mm, regnet fra topp av ferdig gulv til underkant av takplatene.
 
+8\.
+
 Fri bredde i korridor skal være minst 1.000 mm.
+
+9\.
 
 Dører i boligkvarteret skal ha en lysåpning i karm som er minst 750 mm bred. Dører til sanitærrom i lugarer og til toalettavlukker i felles sanitærrom kan imidlertid ha en lysåpning i karm på 600 mm. Dør til helsekontor skal ha en lysåpning i karm på minst 850 mm. Dører skal ha en høyde over dekk på minst 2.050 mm.
 
@@ -116,17 +154,31 @@ Dører i boligkvarteret skal ha en lysåpning i karm som er minst 750 mm bred. D
 
 ### § 8. Korridorer, utganger, nødutganger og rømningsveier
 
+1\.
+
 Fra hvert dekk i boligkvarteret skal det være minst 2 utganger til fritt dekk, samt en innvendig trapp.
+
+2\.
 
 Alle fellesrom over 20 m2 skal ha minst 2 utganger/oppganger innbyrdes plassert på motsatt side av rommet. Dører i fellesrom skal slå ut fra rommet.
 
+3\.
+
 For blindganger over 5 meter lange skal det være nødutgang/rømningsvei. Nødutgangene/rømningsveiene skal være minst 600 X 800 mm brede.
+
+4\.
 
 Alle dører og luker i nødutganger skal slå ut i retning av rømningsvei og skal lett kunne åpnes fra begge sider av en person. Dører og luker med terser skal være betjent sentralt. Dører til soverom skal være utstyrt med sparkepanel eller være ulåsbare.
 
+5\.
+
 Trappeoppganger, nødutganger og rømningsveier skal ikke sperres eller tildekkes, og de skal være arrangert slik at de gir en sikker atkomst til nød- og mønstringsstasjonene.
 
+6\.
+
 Alle trapper i boligkvarteret skal ha en skråstilling som ikke overstiger 45° fra horisontalplanet, og skal ha lik avstand mellom trinnene. Trappene skal ha en hensiktsmessig bredde mellom vangene, dog ikke mindre enn 800 mm. Trapper skal ha rekkverk eller håndrekke på begge sider. Trapper som er over 1.600 mm brede, skal også ha rekkverk i midten.
+
+7\.
 
 Korridorer skal være utstyrt med minst en håndrekke. I korridorer som er over 1.600 mm brede og i andre større åpninger i forbindelse med korridorer, skal det være håndrekke på begge sider.
 
@@ -134,21 +186,39 @@ Korridorer skal være utstyrt med minst en håndrekke. I korridorer som er over 
 
 ### § 9. Ventilasjon
 
+1\.
+
 All innredning skal være tilstrekkelig ventilert med mekanisk ventilasjon og ha overtrykk på 50 Pascal i forhold til omgivelsene. Ventilasjonsanlegg med luftinntak skal være slik plassert og konstruert at brannfarlige, giftige eller helsefarlige gasser, støv m.v. hindres fra å trenge inn i boligkvarteret.
+
+2\.
 
 Ventilasjonsanlegget skal være regulerbart slik at det sikrer en behagelig temperatur og tilstrekkelig luftsirkulasjon uten ubehagelig trekk under de klimaforhold som innretningen er spesifisert for å kunne operere under. Den relative luftfuktighet skal ikke være lavere enn 30% eller høyere enn 70%.
 
+3\.
+
 Ventilasjonsavtrekk fra helsekontor, bysse, vaskerom og toalettrom skal ledes i særskilte kanaler og aldri resirkuleres.
+
+4\.
 
 Ventilasjonsanlegget skal ha slik kapasitet at hvert rom i innredning tilføres minst 30 m3 frisk luft pr. person pr. time. Antall luftvekslinger pr. time skal i nedenfornevnte rom være minst som følger:Radiorom: 10Spiserom og dagrom: 6Tørr proviantrom: 10Bysse: 20 for tilførsel og 30 for avsug
 
+5\.
+
 Innblåsing av frisk og/eller oppvarmet/avkjølt luft til klosetter kan kun tillates dersom klosettene har dør til åpent dekk eller mekanisk avtrekk.
+
+6\.
 
 På innretning med uinnskrenket fartsområde skal oppholdsrom utstyres med klimaanlegg som minst skal være dimensjonert som følger ved den friskluftmengde som angitt under nr. 4 ovenfor.
 
+6.1.
+
 Ved utetemperatur pluss 35° C med ca. 70% relativ fuktighet, skal innetemperatur på pluss 29° C med ca. 50% relativ fuktighet kunne oppnås. Returluft må ikke overstige 50%.
 
+6.2.
+
 Anleggets kjølemaskineri og luftkjølere skal dessuten være tilpasset slik at ved utetemperatur på pluss 28° C med ca. 80% relativ fuktighet, skal innetemperatur på pluss 24° C med ca. 50% relativ fuktighet kunne oppnås.
+
+7\.
 
 Nødvendig reservemateriell for å sikre kontinuerlig drift av ventilasjonsanlegget skal være om bord.
 
@@ -156,9 +226,15 @@ Nødvendig reservemateriell for å sikre kontinuerlig drift av ventilasjonsanleg
 
 ### § 10. Oppvarming
 
+1\.
+
 Boligkvarteret skal ha oppvarmingsanlegg som er dimensjonert for en minimumstemperatur på pluss 20° C under de klimaforhold som innretningen er spesifisert å kunne operere under. Det skal ikke være temperaturforskjeller større enn 5° C i det enkelte rom. Lager, arbeidsrom, vaske- og tørkerom for klær, proviant-, fryse- og kjølerom er unntatt fra dette kravet.
 
+2\.
+
 Varmeapparatet skal være fast anbrakt og skjermet slik at risiko for brann samt fare eller ulemper for de ombordværende unngås.
+
+3\.
 
 Det skal være mulig å regulere temperaturen individuelt i hvert enkelt soverom på en tilfredsstillende måte.
 
@@ -166,21 +242,39 @@ Det skal være mulig å regulere temperaturen individuelt i hvert enkelt soverom
 
 ### § 11. Belysning
 
+1\.
+
 Helsekontor, spiserom, dagrom og bysse skal så vidt mulig være slik plassert at de får naturlig lys.
+
+2\.
 
 Kunstig belysning skal tilfredsstille de nedenfornevnte krav.
 
+2.1.
+
 Den gjennomsnittlige kunstige belysning i hvert oppholdsrom skal være minst 100 lux. I soverom og dagrom skal det være installert tak, vegg- og bordlamper som muliggjør en variabel belysning. Ved hver køy skal det være en leselampe.
+
+2.2.
 
 På skrivepulter: Minst 300 lux.
 
+2.3.
+
 Byssa: Minst 300 lux på arbeidsplan 1 m over dørk.
+
+2.4.
 
 I bad og toalett-rom: Minst 150 lux.
 
+2.5.
+
 Korridorer: Minst 50 lux. Ved utganger mot dekk skal korridorbelysningen i en overgangssone kunne varieres mellom dagslys: 100 lux, og nattlys 20 lux.
 
+2.6.
+
 Trapperom: Minst 100 lux. Lyskildene skal arrangeres slik at skygger i trappetrinnene unngås.
+
+3\.
 
 Ved måling av gjennomsnittlig belysning i et rom, skal alle elektriske lyskilder som normalt er i bruk, være påslått. Når lysmålingene utføres, skal alt dagslys være avskjermet. Det skal tas 5 målinger (en måling midt i rommet og en måling i hvert av rommets hjørner. Målingene foretas 1 m over gulvet).
 
@@ -188,23 +282,43 @@ Ved måling av gjennomsnittlig belysning i et rom, skal alle elektriske lyskilde
 
 ### § 12. Bysse og proviantrom
 
+1\.
+
 Boligkvarteret skal ha bysse, fryse- og kjølerom. Skott og takkledning i bysse, fryse- og kjølerom skal være av rustfritt stål. Røropplegg, kanaler, kabler o.l. skal så vidt mulig være innebygget og slik at flatene blir plane og lette å holde rene.
+
+2\.
 
 Gulvet i bysse skal ha en sklisikker overflate som er lett å holde ren. Overgangen fra gulv til vegger og fast innredning skal være utført slik at det er lett å holde rent. Gulvet skal være forsynt med tilstrekkelig avløp for vann, minst ett på hver side på laveste punkt under alle normale krengeforhold.
 
+3\.
+
 Bysse skal ha en grunnflate som ikke er mindre enn 35 m2.
+
+4\.
 
 Det skal innredes egne rom til oppbevaring av proviant. Proviantrommene skal plasseres så nær byssa som mulig.
 
+5\.
+
 Proviantrommene skal være slik plassert, konstruert og innredet at oversiktlig lagring muliggjøres, og provianten mest mulig unngår forringelse på grunn av for sterk varme, trekk og kondens eller på grunn av skade og forurensning forårsaket av skadedyr.
+
+6\.
 
 Fryserommet skal være tilstrekkelig stort til å romme de forråd av matvarer som bør oppbevares frosset. Fryserommet skal være utstyrt med termometer som kan avleses utenfra. Fryseromstemperaturen skal være minus 18° C eller lavere.
 
+7\.
+
 Kjølerommet skal være tilstrekkelig stort til å romme de forråd av matvarer som bør oppbevares avkjølt. Kjøleromstemperaturen skal holdes mellom minus 1° C og pluss 4° C.
+
+8\.
 
 Dør til fryse- og kjølerom skal kunne åpnes fra innsiden selv om døren er låst fra utsiden. Det skal være alarmsystem fra fryse- og kjølerom til bysse.
 
+9\.
+
 Det skal være mulig å drenere vannansamling i fryse- og kjølerom samt øvrige proviantrom.
+
+10\.
 
 Bysse skal være utstyrt med håndvaskmuligheter med blandebatteri som kan opereres uten å bruke hendene.
 
@@ -212,17 +326,31 @@ Bysse skal være utstyrt med håndvaskmuligheter med blandebatteri som kan opere
 
 ### § 13. Lugarer
 
+1\.
+
 Alle som bor på innretningen skal ha egen køye.
+
+2\.
 
 Lugarer skal innredes for maksimalt 2 personer.
 
+3\.
+
 Enmannslugarer inkludert bad skal ha gulvareal på minst 7 m2.
+
+4\.
 
 Tomannslugarer inkludert bad skal ha gulvareal på minst 12 m2.
 
+5\.
+
 Tomannslugarer uten atskilte soverom kan bare brukes av personer med motsatt arbeidstid om bord.
 
+6\.
+
 Ved måling av gulvflaten skal den delen av flaten som opptas av køyer, skap, kommoder og sitteplasser, regnes med, unntatt små eller uregelmessig formede deler av flaten som ikke kan brukes til å bevege seg på.
+
+7\.
 
 Det skal ikke være direkte åpninger inn til lugar fra dagrom, spiserom, bysse, vaske- og tørkerom for klær eller skifterom.
 
@@ -236,19 +364,33 @@ I hvert soverom skal det finnesén køye som er minst 2 m lang og 0,8 m bred, be
 
 ### § 15. Spiserom, dagrom og kontorrom
 
+1\.
+
 Spiserommene skal være store nok til at minst 50 pst. av totalt tilhørende personell kan innta sine måltider samtidig. Gulvarealet i spiserom skal være minst 1,2 m2 pr. person rommet er bestemt for.
+
+2\.
 
 Spiserom skal være utstyrt med flere bord.
 
 Hver person skal ved bordet ha en plass som er minst 600 mm bred og 400 mm dyp. Bord og stoler skal plasseres slik at atkomsten til bordplassen er mest mulig fri. Stoler skal være forsynt med ryggstø.
 
+3\.
+
 Det skal være egne dagrom for røykere og ikke-røykere.
+
+4\.
 
 Gulvarealet i alle dagrom skal til sammen tilsvare minst 1 m2 pr. person av maksimalt antall personer som kan være om bord.
 
+5\.
+
 Plattformsjef, stabilitetssjef, teknisk sjef, boresjef og forpleiningssjef skal i alminnelighet hver ha et særskilt rom som er utstyrt som kontor. I tilfelle felles kontor ønskes benyttet, må dette ha slik størrelse og være slik innredet at kravet om særskilte avdelinger best mulig etterkommes.
 
+6\.
+
 Om bord skal det være et eget rom med innretninger for varme og kalde drikker. Rommet skal være plassert slik at det har inngang direkte fra dekk. Rommet skal ha håndvask eller håndvaskmuligheter, og være oppvarmet. Innredningen skal være slik at den er egnet for utearbeidende personell. Gulvet skal ha tilstrekkelig avløp.
+
+7\.
 
 Inventar, inkludert stoler, i filmrom og dagrom skal være forsvarlig festet. Dersom stoler i spiserom ikke festes til gulvet, skal det være en anordning foran utgangsdørene som hindrer at disse blir blokkert ved krengning.
 
@@ -256,13 +398,23 @@ Inventar, inkludert stoler, i filmrom og dagrom skal være forsvarlig festet. De
 
 ### § 16. Helsekontor
 
+1\.
+
 Boligkvarteret skal ha et helsekontor som er plassert slik at båretransport mellom arbeidsområdene, helikopterdekket og helsekontoret kan foretas på en medisinsk forsvarlig måte.
+
+2\.
 
 Helsekontoret skal innredes og utstyres slik at undersøkelse og behandling kan foretas på en medisinsk forsvarlig måte.
 
+3\.
+
 Tilstøtende til helsekontoret skal det finnes et sanitærrom med toalett, dusj og vask.
 
+4\.
+
 Temperaturen i helsekontoret skal kunne reguleres uavhengig av øvrige rom i boligkvarteret.
+
+5\.
 
 Helsekontoret skal ha kommunikasjonsutstyr til intern og ekstern kommunikasjon.
 
@@ -270,27 +422,51 @@ Helsekontoret skal ha kommunikasjonsutstyr til intern og ekstern kommunikasjon.
 
 ### § 17. Sanitærrom, skifterom m.v.
 
+1\.
+
 Til hvert soverom skal det være knyttet sanitærrom utstyrt med vannklosett, dusj og vaskeservant med varmt og kaldt vann. Sanitærrommet skal være utstyrt med speil og skap for toalettsaker.
+
+2\.
 
 Dersom det er badstue om bord skal dørene til denne slå ut. Badstuen skal være utstyrt med alarm tilkoplet alarmklokke i gang utenfor og i kontrollrom.
 
+3\.
+
 I sanitærrom beregnet for mer enn en person og i skifterom må dusj være avskjermet. For hver dusj må det være eget vannavløp.
+
+4\.
 
 Plassert i nærheten av bysse skal det være eget toalett med håndvaskmuligheter for byssepersonalet.
 
+5\.
+
 Minst ett vannklosett skal plasseres på arbeidsdekk og ett nær kontrollrom.
+
+6\.
 
 Dersom det er mer enn ett klosett i et rom, eller klosetter i felles vaske- og baderom, skal hvert klosett stå i et eget avlukke utstyrt med låsbar dør.
 
+7\.
+
 Alle dører til sanitærrom skal kunne låses.
+
+8\.
 
 Ved inngangen til boligkvarteret skal det finnes egne skifterom som skal haindividuelle klesskaparrangement til tørking av arbeids- og fottøy.
 
+9\.
+
 I tilknytning til skifterom, skal det finnes håndvasker, dusjer, klosetter og urinaler i et antall som er rimelig i forhold til det antall personer som antas å ville bruke rommet samtidig. Dersom det er flere mindre skifterom skal disse utstyres med minimum en vask med vann, en dusj og et klosett.
+
+10\.
 
 Felles klosett, vaskerom, skifte- og dusjrom skal plasseres hensiktsmessig i forhold til arbeidssted og spiserom.
 
+11\.
+
 Bøttekott med utslagsvask og varmt og kaldt vann skal finnes på hvert dekk i boligkvarteret. Gulvet skal ha avløp for vann.
+
+12\.
 
 På alle dekk som er utstyrt med soverom, skal det være et eget oppbevaringsrom for lintøy.
 
@@ -304,7 +480,11 @@ Det skal være adgang til å vaske og tørke klær i nødvendig utstrekning. Vas
 
 ### § 19. Dispensasjon
 
+1\.
+
 Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.Det godtgjøres at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.
+
+2\.
 
 Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 
@@ -312,7 +492,11 @@ Uttalelse fra verneombud skal legges ved dispensasjonssøknaden.
 
 ### § 20. Ikrafttredelse
 
+1\.
+
 Denne forskrift trer i kraft 2. februar 1987. For innretninger som ble påbegynt bygget før 1. mars 1982 gjelder ikke kravene i [§ 7](forskrift/1986-12-17-2318/§7) nr. 7, nr. 8 og nr. 9.
+
+2\.
 
 Fra samme tid oppheves forskrift av 13. januar 1986 om konstruksjon og utrustning av boligkvarteret på borefartøy og andre flyttbare innretninger.
 

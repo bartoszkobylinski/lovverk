@@ -46,6 +46,9 @@ Departementet kan gi forskrift om hvilke opplysninger som kan innhentes.
 
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 17 juni 2022 for [§ 1](lov/2022-06-17-44/§1) til [§ 5](lov/2022-06-17-44/§5) og [§ 6](lov/2022-06-17-44/§6) nr. 1, nr. 4 og nr. 5 iflg [res. 17 juni 2022 nr. 1037](forskrift/2022-06-17-1037).
+Fra 1 januar 2023 for [§ 6](lov/2022-06-17-44/§6) nr. 2 og nr. 3 iflg [res. 17 juni 2022 nr. 1037](forskrift/2022-06-17-1037)
+
 ## § 6. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

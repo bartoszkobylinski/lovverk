@@ -122,7 +122,11 @@ Ved ikrafttredelsen oppheves regler om personundersøkelse i straffesaker gitt a
 
 De nye reglene om personundersøkelse medfører ingen vesentlige endringer i forhold til de gamle. Generelt kan man si at det nye regelsettet har en mer utførlig regulering av personundersøkelser enn det som hittil har vært gjeldende.
 
+*Til [§ 1](forskrift/1986-10-22-2373/§1)*
+
 [Straffeprosessloven § 162](lov/1981-05-22-25/§162) bestemmer hvem som kan beslutte om personundersøkelse skal foretas. Tidligere ble beslutning om personundersøkelse alltid truffet av påtalemyndigheten. Etter den nye straffeprosessloven må retten i visse tilfelle avgjøre om personundersøkelse skal foretas.
+
+*Til [§ 2](forskrift/1986-10-22-2373/§2)*
 
 Jf. [straffeprosessloven § 163](lov/1981-05-22-25/§163). Normalt vil det være kriminalomsorg i frihet som peker ut den som skal foreta undersøkelsen. De nye reglene bestemmer at personundersøkelsen fortrinnsvis skal utføres av friomsorgens egne tjenestemenn.
 
@@ -132,13 +136,21 @@ Dersom retten har oppnevnt en bestemt person til å foreta undersøkelsen, følg
 
 I [straffeprosessloven § 163](lov/1981-05-22-25/§163) annet ledd er det fastsatt at ingen kan gjøre tjeneste som personundersøker når han etter [domstolloven §§ 106](lov/1915-08-13-5/§106) eller [108](lov/1915-08-13-5/§108) vil være ugild som dommer. At en personundersøker er ugild vil si at det foreligger omstendigheter som er egnet til å svekke tilliten til vedkommendes upartiskhet. Den nye bestemmelsen innebærer at ansatte ved friomsorgskontorene ikke vil kunne foreta personundersøkelse av egne klienter.
 
+*Til [§ 3](forskrift/1986-10-22-2373/§3)*
+
 Kriminalomsorg i frihet skal nytte private personundersøkere i begrenset utstrekning, jf. kommentarene til [§ 2](forskrift/1986-10-22-2373/§2).
 
-1. desember 1981 ble nytt personundersøkelsesformular tatt i bruk, jf. rundskriv G-281/81 73. Formularet skulle utprøves i tiden frem til den nye straffeprosessloven trådte i kraft. På bakgrunn av høringsuttalelser er formularet blitt noe endret.
+*Til [§ 4](forskrift/1986-10-22-2373/§4)*
+
+1\. desember 1981 ble nytt personundersøkelsesformular tatt i bruk, jf. rundskriv G-281/81 73. Formularet skulle utprøves i tiden frem til den nye straffeprosessloven trådte i kraft. På bakgrunn av høringsuttalelser er formularet blitt noe endret.
 
 Bruken av formular for tilleggsundersøkelse må ses i sammenheng med [påtaleinstruksen § 14-1](forskrift/1985-06-28-1679/§14-1) siste ledd som sier at det bør innhentes tilleggsopplysninger fra kriminalomsorg i frihet dersom det er mer enn 1 år siden det sist ble utført personundersøkelse. Videre er det tatt inn en ny bestemmelse om at ny undersøkelse skal foretas når det er mer enn 3 år siden sist det ble utført slik undersøkelse. En rekke av høringsinstansene gikk inn for denne grensen.
 
+*Til [§ 5](forskrift/1986-10-22-2373/§5)*
+
 Jf. [straffeprosessloven § 161](lov/1981-05-22-25/§161) annet ledd. Undersøkelsen skal gi faktiske opplysninger som gjør det mulig for påtalemyndigheten og domstolene å foreta en vurdering av siktedes personlighet, livsforhold og fremtidsmuligheter. Generelle karakteristikker av siktede skal unngås.
+
+*Til [§ 6](forskrift/1986-10-22-2373/§6)*
 
 Jf. [straffeprosessloven § 168](lov/1981-05-22-25/§168). En viktig del av en personundersøkelse av siktede består i å innhente nærmere opplysninger om hans familieforhold, skolegang, arbeidsforhold osv. Dette gjøres ved henvendelse både til offentlige myndigheter og til private.
 
@@ -152,11 +164,17 @@ Privatpersoner har ingen plikt til å gi opplysninger til en personundersøker s
 
 Rettslig avhør kan undersøkeren anmode om dersom det finnes nødvendig å fremtvinge en forklaring.
 
+*Til [§ 9](forskrift/1986-10-22-2373/§9)*
+
 Når det gjelder innhenting av opplysninger vises det til kommentarene til [§ 6](forskrift/1986-10-22-2373/§6).
 
 Kilde for opplysningene skal fremgå under hvert enkelt punkt i personundersøkelsesformularet. I tillegg kommer en samlet kildeangivelse, jf. formularets pkt. 12. Kildeangivelse er av vesentlig betydning for domstolene og påtalemyndigheten, idet undersøkelsen er en viktig del av deres beslutningsgrunnlag ved avgjørelsen av reaksjonsspørsmålet.
 
+*Til [§ 10](forskrift/1986-10-22-2373/§10)*
+
 Bestemmelsen ble kritisert i en rekke av høringsuttalelsene, fordi den er vanskelig å praktisere. Den må imidlertid ses i sammenheng med de vilkår Datatilsynet har satt i konsesjon for klientregistre i kriminalomsorg i frihet av 10. desember 1981 (vedlagt rundskriv G-8/82 5), jf. pkt. 4.1. Innsamling/kontroll, pkt. 4.2. Utlevering av opplysninger fra registeret, pkt. 4.3. Sletting av opplysninger.
+
+*Til [§ 11](forskrift/1986-10-22-2373/§11)*
 
 Jf. [straffeprosessloven § 169](lov/1981-05-22-25/§169). Kravet om diskresjon begrunnes i at en personundersøkelse representerer et alvorlig inngrep i siktedes privatliv. Både utarbeidelse av undersøkelsen og bruken av den skal skje så skånsomt som mulig.
 
@@ -168,16 +186,26 @@ Dersom opplysningene er av en slik art at de vil kunne virke krenkende for sikte
 
 Når det gjelder innsynsretten vises det til tidligere nevnte konsesjon for personregistre pkt. 4.7 og [personregisterloven § 7](lov/1978-06-09-48/§7).
 
+*Til [§ 12](forskrift/1986-10-22-2373/§12)*
+
 Det er viktig at siktede gis en grundig orientering om hva tilsyn innebærer og følgene av at særvilkår brytes.
+
+*Til [§ 13](forskrift/1986-10-22-2373/§13)*
 
 Personundersøkerens oppgave er å frembringe opplysninger om siktedes personlige forhold og dessuten skissere tiltak som realistisk og nøkternt kan tenkes iverksatt i løpet av tilsynstiden. Det bør legges betydelig vekt på tiltaksdelen i undersøkelsen slik at domstolene og påtalemyndigheten får et godt grunnlag å bygge på ved reaksjonsfastsettelsen.
 
 Ifølge [straffeloven § 53](lov/1902-05-22-10/§53) nr. 1 og [straffeprosessloven § 69](lov/1981-05-22-25/§69) tredje ledd har tiltalte rett til å uttale seg om eventuelle særvilkår. Det er derfor hensiktsmessig at vedkommendes syn innhentes i forbindelse med personundersøkelsen.
 
+*Til [§ 14](forskrift/1986-10-22-2373/§14)*
+
 Jf. [straffeprosessloven § 164](lov/1981-05-22-25/§164). Innkalles undersøkeren til å gi forklaring for den dømmende rett, vil han etter den nye straffeprosessloven stå i en mellomstilling mellom en sakkyndig og et vitne.
 
 Personundersøkelsen kan brukes som bevis under hovedforhandlingen når muntlig avhør ikke kan settes i verk, eller ikke finnes nødvendig, jf. [straffeprosessloven § 299](lov/1981-05-22-25/§299).
 
+*Til [§ 15](forskrift/1986-10-22-2373/§15)*
+
 Bestemmelsen må ses i sammenheng med vilkår fastsatt av Datatilsynet i konsesjon for personregistre i kriminalomsorg i frihet, jf. pkt. 4.3. Sletting av opplysninger og pkt. 4.4. Adgang til registeret – sikring.
+
+*Til [§ 16](forskrift/1986-10-22-2373/§16)*
 
 De nye reglene samt formularet får anvendelse på undersøkelser besluttet etter 1. januar 1987.

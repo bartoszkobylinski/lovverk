@@ -38,6 +38,8 @@ Bestemmelser i denne forskriften gjelder i tillegg til bestemmelser i [forskrift
 
 > Endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
 
+1 Morsmelkerstatning og tilskuddsblandinger omfattes av [forskrift 11. oktober 2001 nr. 1163](forskrift/2001-10-11-1163) om morsmelkerstatning og tilskuddsblandinger.
+
 ### § 2. Definisjoner
 
 I denne forskriften forstås ved*spedbarn:* barn under 12 måneder.*småbarn:* barn fra 1 inntil 3 år.*rester av plantevernmidler:* rester av plantevernmidler mv. i bearbeidet kornbasert barnemat og annen barnemat, og deres eventuelle giftige omdannelses- eller nedbrytingsprodukter, som definert i [forskrift 21. desember 1993 nr. 1388](forskrift/1993-12-21-1388) om rester av plantevernmidler mv. i næringsmidler og fôrvarer.
@@ -90,6 +92,8 @@ Bestemmelsene gitt i denne paragrafen gjelder for kornbasert barnemat og annen b
 
 Bearbeidet kornbasert barnemat og annen barnemat skal merkes etter gjeldende forskrifter om merking av næringsmidler.1
 
+1 [Forskrift av 21. desember 1993 nr. 1386](forskrift/1993-12-21-1386) om deklarasjon av næringsinnhold. [Forskrift av 21. desember 1993 nr. 1385](forskrift/1993-12-21-1385) om merking mv av næringsmidler. [Forskrift av 21. desember 1993 nr. 1384](forskrift/1993-12-21-1384) om identifikasjonsmerking av næringsmiddelpartier.
+
 ### § 10. Bruksområde
 
 I merkingen av bearbeidet kornbasert barnemat og annen barnemat skal det opplyses om hvilket alderstrinn produktet kan brukes fra. Ved fastsettelse av dette alderstrinnet skal det tas hensyn til produktets sammensetning, konsistens og andre spesielle egenskaper. Anbefalt nedre aldersgrense kan ikke være lavere enn fire måneder.
@@ -112,6 +116,8 @@ Hvis det anbefalte alderstrinn for bruk av produktet er under 6 måneder, skal d
 4. I tillegg til merking i henhold til [pkt. 1](forskrift/2002-10-18-1185/kap1), [2](forskrift/2002-10-18-1185/kap2) og 3, kan innholdet av de vitaminer og mineraler som er angitt i vedlegg 5 også oppgis som en prosentandel av de referanseverdier1 som er fastsatt i vedlegget. Prosentandelen kan oppgis per 100 g eller per 100 ml av produktet slik det omsettes og, når det er hensiktsmessig, per spesifisert mengde av det bruksklare produktet, forutsatt at innholdet av de aktuelle vitaminer/mineraler utgjør minst 15% av referanseverdiene.
 
 > Endret ved [forskrift 15 jan 2004 nr. 273](forskrift/2004-01-15-273).
+
+1 Referanseverdiene er fastsatt av EU til bruk ved deklarasjon av næringsinnhold, og er ikke identiske med de norske anbefalingene for inntak av næringsstoffer.
 
 ## Kapittel IV. Administrative bestemmelser
 
@@ -151,83 +157,204 @@ Denne forskrift trer i kraft straks.
 
 Kravene vedrørende innhold av næringsstoffer gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller rørt ut i henhold til produsentens anvisninger.
 
+1.*Korninnhold*
+
 Bearbeidet kornbasert barnemat framstilles hovedsakelig på basis av ett eller flere malte kornslag og/eller stivelsesholdige rotfrukter.
 
 Innholdet av korn og/eller rotfrukt skal utgjøre minst 25 % av tørrstoffinnholdet i det bruksklare produktet.
 
+2.*Protein*
+
+2.1
+
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 2 og nr. 4, skal proteininnholdet ikke overstige 1,3 g/100 kJ (5,5 g/100 kcal).
+
+2.2
 
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal mengden tilsatt protein utgjøre minst 0,48 g/100 kJ (2 g/100 kcal).
 
+2.3
+
 For kjeks som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 4, som er framstilt ved tilsetning av et proteinrikt næringsmiddel og presenteres som proteinrike, skal mengden tilsatt protein utgjøre minst 0,36 g/100 kJ (1,5 g/100 kcal).
+
+2.4
 
 Det tilsatte proteinet skal ha en kjemisk score som er minst 80% av referanseproteinets (kasein, som definert i vedlegg 3), eller en proteineffektivitetsratio (PER) som er minst 70% av referanseproteinets.
 
 Tilsetning av aminosyrer er bare tillatt i den hensikt å forbedre proteinblandingens næringsverdi, og bare i mengder som er nødvendige for dette formålet.
 
+3.*Karbohydrater*
+
+3.1
+
 Hvis sukrose, fruktose, glukose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 eller nr. 4, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,8 g/100 kJ (7,5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,9 g/100 kJ (3,75 g/100 kcal).
+
+3.2
 
 Hvis sukrose, fruktose, glukosesirup eller honning1 tilsettes produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skalmengden tilsatt karbohydrat fra disse kildene ikke overstige 1,2 g/100 kJ (5 g/100 kcal) ogmengden tilsatt fruktose ikke overstige 0,6 g/100 kJ (2,5 g/100 kcal).1 Mattilsynet fraråder bruk av honning til spedbarn, jf. [forskrift av 9. juli 2000 nr. 764](forskrift/2000-07-09-764) om advarselsmerking av honning.
 
+4.*Fett*
+
+4.1
+
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 og nr. 4, skal fettinnholdet ikke overstige 0,8 g/100 kJ (3,3 g/100 kcal).
+
+4.2
 
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal fettinnholdet ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal). Hvis fettinnholdet overstiger 0,8 g/100 kJ (3,3 g/100 kcal) gjelder følgende:Mengden laurinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden myristinsyre skal ikke overstige 15% av det totale fettinnholdet.Mengden linolsyre (i form av glyserider = linolater) skal være minst 70 mg/100 kJ (300 mg/100 kcal) og skal ikke overstige 285 mg/100 kJ (1200 mg/100 kcal).
 
+5.*Mineraler*
+
+5.1
+
 NatriumNatriumsalter kan tilsettes bearbeidet kornbasert barnemat bare dersom det foreligger et teknologisk behov.Natriuminnholdet i bearbeidet kornbasert barnemat skal ikke overstige 25 mg/100 kJ (100 mg/100 kcal).
+
+5.2
 
 Kalsium
 
+5.2.1
+
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal innholdet av kalsium utgjøre minst 20 mg/100 kJ (80 mg/100 kcal).
+
+5.2.2
 
 For produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 4, framstilt ved tilsetning av melk (melkekjeks) og presentert som kjeks tilsatt melk, skal innholdet av kalsium utgjøre minst 12 mg/100 kJ (50 mg/100 kcal).
 
+6.*Vitaminer*
+
+6.1
+
 Tiamininnholdet i bearbeidet kornbasert barnemat skal utgjøre minst 25 μg/100 kJ (100 μg/100 kcal).
 
-Produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal ha følgende innhold av vitamin A og vitamin D:*Per 100 kJ**Per 100 kcal**Minimum**Maksimum**Minimum**Maksimum*Vitamin A (μg RE)1144360180Vitamin D (μg)20,250,75131 RE = all-trans-retinolekvivalenter.2 I form av kolekalsiferol, hvor 10 μg = 400 i.e. vitamin D.
+6.2
+
+Produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A nr. 2, skal ha følgende innhold av vitamin A og vitamin D:
+
+|  | *Per 100 kJ* |  | *Per 100 kcal* |  |
+| --- | --- | --- | --- | --- |
+|  | *Minimum* | *Maksimum* | *Minimum* | *Maksimum* |
+| Vitamin A (μg RE)1 | 14 | 43 | 60 | 180 |
+| Vitamin D (μg)2 | 0,25 | 0,75 | 1 | 3 |
+
+1 RE = all-trans-retinolekvivalenter.2 I form av kolekalsiferol, hvor 10 μg = 400 i.e. vitamin D.
 
 For øvrige kategorier av bearbeidet kornbasert barnemat (produkter som omfattes av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1, nr. 3 og nr. 4) kreves det ikke et bestemt innhold av vitamin A og vitamin D. Dersom vitamin A og/eller vitamin D tilsettes til produkter i disse kategoriene, gjelder de samme grenseverdier som nevnt over.
 
+7.*Maksimumsgrenser for innhold av vitaminer, mineraler og sporstoffer*
+
 Ved tilsetting av vitaminer, mineraler og sporstoffer til produkter som er omfattet av dette vedlegget skal følgende maksimumsverdier gjelde:
 
-Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.*Næringsstoff**Maksimum per 100 kcal*Vitamin A (μg RE)180Vitamin E (mg α-TE)13Vitamin D (μg)3Vitamin C (mg)12,5/252Tiamin (mg)0,5Riboflavin (mg)0,4Niacin (mg NE)34,5Vitamin B6 (mg)0,35Folsyre (μg)50Vitamin B12 (μg)0,35Pantotensyre (mg)1,5Biotin (μg)10Kalium (mg)160Kalsium (mg)80/1804 /1005Magnesium (mg)40Jern (mg)3Sink (mg)2Kobber (μg)40Jod (μg)35Mangan (mg)0,6
+Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.
+
+| *Næringsstoff* | *Maksimum per 100 kcal* |
+| --- | --- |
+| Vitamin A (μg RE) | 180 |
+| Vitamin E (mg α-TE)1 | 3 |
+| Vitamin D (μg) | 3 |
+| Vitamin C (mg) | 12,5/252 |
+| Tiamin (mg) | 0,5 |
+| Riboflavin (mg) | 0,4 |
+| Niacin (mg NE)3 | 4,5 |
+| Vitamin B6 (mg) | 0,35 |
+| Folsyre (μg) | 50 |
+| Vitamin B12 (μg) | 0,35 |
+| Pantotensyre (mg) | 1,5 |
+| Biotin (μg) | 10 |
+| Kalium (mg) | 160 |
+| Kalsium (mg) | 80/1804 /1005 |
+| Magnesium (mg) | 40 |
+| Jern (mg) | 3 |
+| Sink (mg) | 2 |
+| Kobber (μg) | 40 |
+| Jod (μg) | 35 |
+| Mangan (mg) | 0,6 |
 
 > Vedlegg 1 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175), [31 okt 2007 nr. 1204](forskrift/2007-10-31-1204).
+
+1 α-TE = d-α-tokofeolekvivalent.
+
+2 Verdien gjelder for produkter som er tilsatt jern.
+
+3 NE = niacinekvivalenter = mg nikotinsyre + mg tryptofan/60.
+
+4 Verdien gjelder for produkter omfattet av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 1 og nr. 2.
+
+5 Verdien gjelder for produkter omfattet av [§ 1](forskrift/2002-10-18-1185/§1) tredje ledd, bokstav A, nr. 4.
 
 ## Vedlegg 2. Krav til sammensetning av annen barnemat til spedbarn og småbarn
 
 Kravene vedrørende innhold av næringsstoffer gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger.
 
+1.*Protein*
+
+1.1
+
 Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde er de eneste ingrediensene som nevnes i produktets varebetegnelse, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 40 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1,7 g/100 kJ (7 g/100 kcal).
+
+1.2
 
 Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes først i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 10 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen ogandelen av protein fra de nevnte proteinkildene utgjøre minst 1 g/100 kJ (4 g/100 kcal).
 
+1.3
+
 Hvis kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde, alene eller i kombinasjon, nevnes – men ikke først – i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalinnholdet av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde til sammen utgjøre minst 8 vektprosent av det totale produktet,innholdet av hver av de nevnte typer kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde utgjøre minst 25 vektprosent av de nevnte proteinkildene til sammen,andelen av protein fra de nevnte proteinkildene utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+
+1.3a
 
 Hvis ost nevnes sammen med andre ingredienser i produktets varebetegnelse, uavhengig av om produktet presenteres som et måltid eller ikke, skalandelen av protein fra meieriprodukter utgjøre minst 0,5 g/100 kJ (2,2 g/100 kcal) ogproduktets totale proteininnhold fra alle proteinkilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
 
+1.4
+
 Hvis produktet på etiketten betegnes som et måltid, men det ikke nevnes kjøtt, fjærfe, fisk, innmat eller annen tradisjonell proteinkilde i produktets varebetegnelse, skalproduktets totale proteininnhold fra alle kilder utgjøre minst 0,7 g/100 kJ (3 g/100 kcal).
+
+1.4a
 
 Sauser som presenteres som tilbehør til et måltid omfattes ikke av kravene i punktene 1.1 – 1.4.
 
+1.4b
+
 I desserter eller andre søte retter hvor meieriprodukter nevnes som den første eller eneste ingrediensen i varebetegnelsen, skal innholdet av melkeprotein være minst 2,2 g/100 kcal. Øvrige desserter eller andre søte retter omfattes ikke av kravene i punktene 1.1 – 1.4.
+
+1.5
 
 Tilsetning av aminosyrer er tillatt bare i den hensikt å forbedre de tilstedeværende proteinenes næringsverdi, og bare i mengder som er nødvendige for dette formålet.
 
+2.*Karbohydrater*
+
 Det totale karbohydratinnholdet i frukt- og grønnsaksjuicer og nektar, i retter som bare inneholder frukt samt i desserter og puddinger skal ikke overstige:10 g/100 ml for grønnsaksjuice og drikker basert på grønnsaksjuice.15 g/100 ml for fruktjuice og nektar samt drikker basert på disse.20 g/100 g for retter som bare inneholder frukt.25 g/100 g for desserter og puddinger.5 g/100 g for andre drikker som ikke er basert på melk.
+
+3.*Fett*
+
+3.1
 
 For produkter som det henvises til under pkt. 1.1 i dette vedlegget, hvor kjøtt eller ost er de eneste ingrediensene, eller nevnes først i produktets varebetegnelse, skal produktets totale fettinnhold fra alle kilder ikke overstige 1,4 g/100 kJ (6 g/100 kcal).
 
+3.2
+
 For alle andre produkter som omfattes av dette vedlegget, skal produktets totale fettinnhold fra alle kilder ikke overstige 1,1 g/100 kJ (4,5 g/100 kcal).
+
+4.*Natrium*
+
+4.1
 
 Det endelige natriuminnholdet i produktet skal enten være maksimum 48 mg/100 kJ (200 mg/100 kcal), eller maksimum 200 mg/100 g.
 
 Hvis ost er den eneste ingrediensen som nevnes i produktets varebetegnelse, skal det endelige natriuminnholdet være maksimum 70 mg/100 kJ (300 mg/100 kcal).
 
+4.2
+
 Natriumsalter skal ikke tilsettes barnemat basert på frukt, desserter eller puddinger unntatt når det foreligger et teknologisk behov.
+
+5.*Vitaminer*
+
+5.1
 
 Vitamin C
 
 I fruktjuice, nektar og grønnsaksjuice skal det endelige innholdet av vitamin C være minimum 6 mg/100 kJ (25 mg/100 kcal) eller minimum 25 mg/100 g.
+
+5.2
 
 Vitamin A
 
@@ -235,34 +362,158 @@ I grønnsaksjuice skal det endelige innholdet av vitamin A være minimum 25 μg 
 
 Vitamin A kan ikke tilsettes til andre barnematprodukter som omfattes av dette vedlegget.
 
+5.3
+
 Vitamin D
 
 Vitamin D kan ikke tilsettes til barnematprodukter som omfattes av dette vedlegget.
 
+6.*Maksimumsgrenser for innhold av vitaminer, mineraler og sporstoffer*
+
 Ved tilsetting av vitaminer, mineraler og sporstoffer til produkter som er omfattet av dette vedlegget skal følgende maksimumsverdier gjelde:
 
-Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.*Næringsstoff**Maksimum per 100 kcal*Vitamin A (μg RE)1802Vitamin E (mg α-TE)3Vitamin C (mg)12,5/253 /1254Tiamin (mg)0,25Riboflavin (mg)0,4Niacin (mg NE)4,5Vitamin B6 (mg)0,35Folsyre (μg)50Vitamin B12 (μg)0,35Pantotensyre (mg)1,5Biotin (μg)10Kalium (mg)160Kalsium (mg)80Magnesium (mg)40Jern (mg)3Sink (mg)2Kobber (μg)40Jod (μg)35Mangan (mg)0,6
+Kravene gjelder for produkter som er klare til bruk, enten omsatt som bruksklare produkter eller tilberedt i henhold til produsentens anvisninger, unntatt når det gjelder kalium og kalsium, hvor verdiene gjelder produktet slik det omsettes.
+
+| *Næringsstoff* | *Maksimum per 100 kcal* |
+| --- | --- |
+| Vitamin A (μg RE) | 1802 |
+| Vitamin E (mg α-TE) | 3 |
+| Vitamin C (mg) | 12,5/253 /1254 |
+| Tiamin (mg) | 0,25 |
+| Riboflavin (mg) | 0,4 |
+| Niacin (mg NE) | 4,5 |
+| Vitamin B6 (mg) | 0,35 |
+| Folsyre (μg) | 50 |
+| Vitamin B12 (μg) | 0,35 |
+| Pantotensyre (mg) | 1,5 |
+| Biotin (μg) | 10 |
+| Kalium (mg) | 160 |
+| Kalsium (mg) | 80 |
+| Magnesium (mg) | 40 |
+| Jern (mg) | 3 |
+| Sink (mg) | 2 |
+| Kobber (μg) | 40 |
+| Jod (μg) | 35 |
+| Mangan (mg) | 0,6 |
 
 > Vedlegg 2 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
 
+1 RE = all-trans-retinolekvivalenter.
+
+2 I samsvar med bestemmelsene gitt i [punkt](forskrift/2002-10-18-1185/kap5) 5.
+
+3 Verdien gjelder for produkter som er tilsatt jern.
+
+4 Verdien gjelder for fruktbaserte produkter, nektar og frukt- og grønnsaksjuicer.
+
 ## Vedlegg 3. Aminosyresammensetningen i kasein
+
+| *Aminosyre* | *Innhold i g per 100 g protein* |
+| --- | --- |
+| Arginin<br>Cystin<br>Histidin<br>Isoleucin<br>Leucin<br>Lysin<br>Metionin<br>Fenylalanin<br>Treonin<br>Tryptofan<br>Tyrosin<br>Valin | 3,7<br>0,3<br>2,9<br>5,4<br>9,5<br>8,1<br>2,8<br>5,2<br>4,7<br>1,6<br>5,8<br>6,7 |
 
 ## Vedlegg 4. Tillatte forbindelser av næringsstoffer
 
 ### 1. Vitaminer
 
+|  |  |
+| --- | --- |
+| Vitamin A | Retinol<br>Retinylacetat<br>Retinylpalmitat<br>β-karoten |
+| Vitamin D | Vitamin D2 (ergokalsiferol)<br>Vitamin D3 (kolekalsiferol) |
+| Tiamin (vitamin B1 ) | Tiaminhydroklorid<br>Tiaminmononitrat |
+| Riboflavin (vitamin B2 ) | Riboflavin<br>Riboflavin-5′-fosfat, natrium |
+| Niacin | Nikotinamid<br>Nikotinsyre |
+| Vitamin B6 | Pyridoksinhydroklorid<br>Pyridoksin-5′-fosfat<br>Pyridoksindipalmitat |
+| Pantotensyre | Kalsium-D-pantotenat<br>Natrium-D-pantotenat<br>Dexpantenol |
+| Folat | Folsyre |
+| Vitamin B12 | Cyanokobalamin<br>Hydroksykobalamin |
+| Biotin | D-Biotin |
+| Vitamin C | L-askorbinsyre<br>Natrium-L-askorbat<br>Kalsium-L-askorbat<br>6-Palmityl-L-askorbinsyre (askorbylpalmitat)<br>Kaliumaskorbat |
+| Vitamin K | Fyllokinon (Fytomenadion) |
+| Vitamin E | D-α-tokoferol<br>DL-α-tokoferol<br>D-α-tokoferylacetat<br>DL-α-tokoferylacetat |
+
 ### 2. Aminosyrer
+
+|  |  |
+| --- | --- |
+| L-Arginin<br>L-Cystin<br>L-Histidin<br>L-Isoleucin<br>L-Leucin<br>L-Lysin<br>L-Cystein<br>L-Metionin<br>L-Fenylalanin<br>L-Treonin<br>L-Tryptofan<br>L-Tyrosin<br>L-Valin | og dens hydroklorid<br>og dens hydroklorid<br>og dens hydroklorid<br>og dens hydroklorid<br>og dens hydroklorid<br>og dens hydroklorid<br>og dens hydroklorid |
 
 ### 3. Andre stoffer
 
+|  |  |
+| --- | --- |
+| Kolin | Kolin<br>Kolinklorid<br>Kolinsitrat<br>Kolinbitartrat |
+| Inositol |  |
+| L-Karnitin | og dens hydroklorid |
+
 ### 4. Salter av mineraler og sporstoffer
+
+|  |  |
+| --- | --- |
+| Kalsium (Ca) | Kalsiumkarbonat<br>Kalsiumklorid<br>Kalsiumsitrater<br>Kalsiumglukonat<br>Kalsiumglyserofosfat<br>Kalsiumlaktat<br>Kalsiumoksid<br>Kalsiumhydroksid<br>Kalsiumsalter av ortofosforsyre |
+| Magnesium (Mg) | Magnesiumkarbonat<br>Magnesiumklorid<br>Magnesiumsitrater<br>Magnesiumglukonat<br>Magnesiumoksid<br>Magnesiumhydroksid<br>Magnesiumsalter av ortofosforsyre<br>Magnesiumsulfat<br>Magnesiumlaktat<br>Magnesiumglyserofosfat |
+| Kalium (K) | Kaliumklorid<br>Kaliumsalter av sitronsyre<br>Kaliumglukonat<br>Kaliumlaktat<br>Kaliumglyserofosfat |
+| Jern (Fe) | Jernsitrat<br>Jernammoniumsitrat<br>Jernglukonat<br>Jernlaktat<br>Jernsulfat<br>Jernfumarat<br>Jerndifosfat (jernpyrofosfat)<br>Jern (karbonyljern, elektrolytisk jern, hydrogenredusert jern)<br>Jernsakkarat<br>Natriumjerndifosfat<br>Jernkarbonat |
+| Kobber (Cu) | Kobber-lysin-kompleks<br>Kobberkarbonat<br>Kobbersitrat<br>Kobberglukonat<br>Kobbersulfat |
+| Sink (Zn) | Sinkacetat<br>Sinkklorid<br>Sinksitrat<br>Sinklaktat<br>Sinksulfat<br>Sinkoksid<br>Sinkglukonat |
+| Mangan (Mn) | Mangankarbonat<br>Manganklorid<br>Mangansitrat<br>Manganglukonat<br>Mangansulfat<br>Manganglyserofosfat |
+| Jod (I) | Natriumjodid<br>Kaliumjodid<br>Kaliumjodat<br>Natriumjodat |
 
 ## Vedlegg 5. Referanseverdier for deklarasjon av næringsinnhold i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn1
 
+| *Næringsstoff* | *Referanseverdi for deklarasjon* |
+| --- | --- |
+| Vitamin A (μg) | 400 |
+| Vitamin D (μg) | 10 |
+| Vitamin C (mg) | 25 |
+| Tiamin (mg) | 0,5 |
+| Riboflavin (mg) | 0,8 |
+| Niacin-ekvivalenter (mg) | 9 |
+| Vitamin B6 (mg) | 0,7 |
+| Folat (μg) | 100 |
+| Vitamin B12 (μg) | 0,7 |
+| Kalsium (mg) | 400 |
+| Jern (mg) | 6 |
+| Sink (mg) | 4 |
+| Jod (μg) | 70 |
+| Selen (μg) | 10 |
+| Kobber (mg) | 0,4 |
+
+1 Referanseverdiene er fastsatt av EU til bruk ved deklarasjon av næringsinnhold, og er ikke identiske med de norske anbefalingene for inntak av næringsstoffer.
+
 ## Vedlegg 6. Spesielle maksimumsgrenser for rester av plantevernmidler eller metabolitter i bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn
+
+| *Kjemisk navn på substansen* | *Maksimum restnivå (mg/kg*) |
+| --- | --- |
+| Cadusafos | 0,006 |
+| Demeton-S-metyl/demeton-S-metyl-sulfon/oksydemeton-metyl (hver for seg eller kombinert, uttrykt som demeton-S-metyl) | 0,006 |
+| Etoprofos | 0,008 |
+| Fipronil (summen av fipronil og fipronil-desulfinyl, uttrykt som fipronil) | 0,004 |
+| Propineb/propylentiourea (summen av propineb og propylentiourea) | 0,006 |
 
 > Vedlegg 6 endret ved [forskrifter 15 jan 2004 nr. 273](forskrift/2004-01-15-273), [25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).
 
 ## Vedlegg 7. Plantevernmidler som ikke skal brukes i landbruksprodukter til bruk i produksjonen av bearbeidet kornbasert barnemat og annen barnemat til spedbarn og småbarn
+
+*Tabell 1*
+
+| *Kjemisk navn på substansen (rest definisjon)* |
+| --- |
+| Disulfoton (summen av disulfoton, disulfotonsulfoksid og disulfotonsulfon, uttrykt som disulfoton) |
+| Fensulfotion (summen av fensulfotion, dets oksygenanalog og deres sulfoner, uttrykt som fensulfotion) |
+| Fentin, uttrykt som trifenyltinkation |
+| Haloksyfop (summen av haloksyfop, dets salter og estere, herunder konjungater, uttrykt som haloksyfop) |
+| Heptaklor og trans-heptaklorepoxid, uttrykt ved heptaklor |
+| Heksaklorbenzen |
+| Nitrofen |
+| Ometoat |
+| Terbufos (summen av terbufos, dets sulfoxid og sulfon, uttrykt som terbufos) |
+
+*Tabell 2*
+
+| *Kjemisk navn på substansen* |
+| --- |
+| Aldrin og dieldrin, uttrykt som dieldrin |
+| Endrin |
 
 > Vedlegg 7 tilføyd ved [forskrift 25 okt 2007 nr. 1175](forskrift/2007-10-25-1175).

@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+Finansdepartementets myndighet etter [lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven)](lov/2022-03-11-8) til å gi forskrift, delegeres til Tolletaten.
+
 ## II
 
 Delegeringen trer i kraft straks.

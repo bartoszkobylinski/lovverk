@@ -135,6 +135,8 @@ Kongen kan gi forskrift om at operatører har plikt til å gi melding til klimak
 
 > Overskriften endret ved [lov 25 mai 2012 nr. 29](lov/2012-05-25-29).
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 21al (direktiv [2003/87/EF](eu/32003l0087) endret ved direktiv [2009/29/EF](eu/32009l0029)).
+
 ### § 9. (salg av kvoter)
 
 Kongen kan gi nærmere bestemmelser om organiseringen og gjennomføringen av salg av kvoter.

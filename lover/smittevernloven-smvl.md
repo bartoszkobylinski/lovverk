@@ -596,6 +596,8 @@ Forskrifter eller enkeltvedtak med hjemmel i lovbestemmelser som blir opphevet e
 
 Denne loven trer i kraft fra den tid Kongen bestemmer.1 I forbindelse med lovens ikrafttredelse eller senere kan departementet sette en frist for alle eller enkelte kommuner eller fylkeskommuner til å oppfylle de forpliktelser som loven pålegger kommunene eller fylkeskommunene.
 
+1 Fra 1 jan 1995 iflg. [res. 5 aug 1994 nr. 790](forskrift/1994-08-05-790).
+
 ### § 8-7. Oppheving av andre lover.
 
 Når denne lov trer i kraft, oppheves følgende lover – – –

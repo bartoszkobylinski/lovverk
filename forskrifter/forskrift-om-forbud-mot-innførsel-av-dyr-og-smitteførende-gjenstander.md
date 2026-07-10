@@ -40,6 +40,12 @@ Forskriften gjelder ikke forbud mot innførsel av dyr og produkter som reguleres
 
 I denne forskrift menes med:
 
+*Innførsel:* Grensepassering, herunder transitt og innlegg på/uttak fra tollager og frisone.
+
+*Utlandet:* områder utenfor landets grenser, herunder inkludert Svalbard, Jan Mayen og andre land underlagt Norge og internasjonalt farvann.
+
+*produkter og varer:*
+
 - animalske råstoffer til fremstilling av farmasøytiske eller tekniske preparater.
 - melk og melkeprodukter som ikke skal brukes til konsum
 - blod og blodprodukter av animalsk opprinnelse

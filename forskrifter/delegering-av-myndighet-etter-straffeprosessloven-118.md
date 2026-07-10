@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+Digitaliserings- og forvaltningsdepartementets myndighet etter [straffeprosessloven § 118 første ledd](lov/1981-05-22-25/§118/ledd/1) til å frita fra lovbestemt taushetsplikt ved bevisføring for retten, delegeres til Digitaliseringsdirektoratet for så vidt gjelder saker på direktoratets forvaltningsområde.
+
 ## II
 
 Digitaliserings- og forvaltningsdepartementets myndighet etter [straffeprosessloven § 118 annet ledd](lov/1981-05-22-25/§118/ledd/2) til å redegjøre for retten om grunnene for sitt standpunkt i sak om fritak fra lovbestemt taushetsplikt etter [§ 118 første ledd](lov/1981-05-22-25/§118/ledd/1), delegeres til Digitaliseringsdirektoratet for så vidt gjelder saker på direktoratets forvaltningsområde.

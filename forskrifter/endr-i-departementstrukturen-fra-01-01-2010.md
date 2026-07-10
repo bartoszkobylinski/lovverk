@@ -96,6 +96,8 @@ eu_basis: []
 - [Lov 22. desember 2006 nr. 98](lov/2006-12-22-98) om endringar i [lov 26. juni 1953 nr. 11](lov/1953-06-26-11) om pensjonsordning for apoteketaten mv.
 - [Lov 15. mai 2008 nr. 35](lov/2008-05-15-35) om utlendingers adgang til riket og deres opphold her (utlendingsloven): Forskriftsmyndighet etter loven [§ 5](lov/2008-05-15-35/§5), [kapittel 3](lov/2008-05-15-35/kap3), [§ 56](lov/2008-05-15-35/§56), [kapittel 13](lov/2008-05-15-35/kap13) og [§ 127](lov/2008-05-15-35/§127) for så vidt gjelder arbeidsinnvandring eller innreise og opphold i riket for utlendinger som omfattes av [EØS-avtalen](lov/1992-11-27-109) eller EFTA-konvensjonen, i den utstrekning myndigheten ligger til departementet, samt annet forvaltningsansvar etter lovens kapittel 3 og 13, unntatt ansvaret for lovbestemmelsene som sådanne som legges til Justisdepartementet.
 
+1 Pensjonsordningen for stortingsrepresentanter er Stortingets ordning og lovforvaltningsansvaret er derfor i praksis begrenset.
+
 ## Vedlegg 2. Oversikt over lover Barne-, likestillings- og inkluderingsdepartementet skal ha ansvaret for
 
 - [Lov 6. juni 1891 nr. 2](lov/1891-06-06-2) om Guld-, Sølv- og Platinavarers Finhed og Stempling m.v.

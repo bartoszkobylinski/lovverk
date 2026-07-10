@@ -328,32 +328,26 @@ Virksomheten skal plassere eksplosivlageret slik at kravene til sikkerhetsavstan
 
 (6) Ved samlagring av flere faregrupper, skal strengeste krav til avstand gjelde for totalmengden.
 
-(7) Sikkerhetsavstander og faktorer for faregruppe 1.1 er:*Avstand i meter til:*
-*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til:*
-*Bolighus**Avstand i meter til:*
-*Offentlig veg, kai, jernbane o.l.**Avstand i meter mellom magasiner med barrikade**Avstand i meter mellom magasiner uten barrikade*k = 44,4,
-n = 1/3k = 22,2,
-n = 1/3k = 14,8,
-n = 1/3k = 2,4,
-n = 1/3k = 22,2,
-n =1/3Dmin = 800Dmin = 400Dmin = 180Dmin = 8Dmin = 180
+(7) Sikkerhetsavstander og faktorer for faregruppe 1.1 er:
 
-(8) Sikkerhetsavstander og faktorer for faregruppe 1.2 er:*Avstand i meter til:*
-*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til:*
-*Bolighus**Avstand i meter til:*
-*Offentlig veg, kai, jernbane o.l.**Avstand i meter mellom magasiner med/uten barrikade*k = 136,
-n = 0.18k = 68,
-n = 0.18k = 68,
-n = 0.18---------------Dmin = 400Dmin = 270Dmin = 135Dmin = 90
+| *Avstand i meter til:*<br>*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til:*<br>*Bolighus* | *Avstand i meter til:*<br>*Offentlig veg, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med barrikade* | *Avstand i meter mellom magasiner uten barrikade* |
+| --- | --- | --- | --- | --- |
+| k = 44,4,<br>n = 1/3 | k = 22,2,<br>n = 1/3 | k = 14,8,<br>n = 1/3 | k = 2,4,<br>n = 1/3 | k = 22,2,<br>n =1/3 |
+| Dmin = 800 | Dmin = 400 | Dmin = 180 | Dmin = 8 | Dmin = 180 |
 
-(9) Sikkerhetsavstander og faktorer for faregruppe 1.3 er:*Avstand i meter til:*
-*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler**Avstand i meter til:*
-*Bolighus**Avstand i meter til:*
-*Offentlig vei, kai, jernbane o.l.**Avstand i meter mellom magasiner med/uten barrikade*k = 12,8,
-n = 1/3k = 6,4,
-n = 1/3k = 6,4,
-n = 1/3k = 0,22,
-n = ½Dmin = 240Dmin = 60Dmin = 60Dmin = 25
+(8) Sikkerhetsavstander og faktorer for faregruppe 1.2 er:
+
+| *Avstand i meter til:*<br>*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til:*<br>*Bolighus* | *Avstand i meter til:*<br>*Offentlig veg, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med/uten barrikade* |
+| --- | --- | --- | --- |
+| k = 136,<br>n = 0.18 | k = 68,<br>n = 0.18 | k = 68,<br>n = 0.18 | --------------- |
+| Dmin = 400 | Dmin = 270 | Dmin = 135 | Dmin = 90 |
+
+(9) Sikkerhetsavstander og faktorer for faregruppe 1.3 er:
+
+| *Avstand i meter til:*<br>*Sykehus, skole, barnehage, høyblokk og forsamlingslokaler* | *Avstand i meter til:*<br>*Bolighus* | *Avstand i meter til:*<br>*Offentlig vei, kai, jernbane o.l.* | *Avstand i meter mellom magasiner med/uten barrikade* |
+| --- | --- | --- | --- |
+| k = 12,8,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 6,4,<br>n = 1/3 | k = 0,22,<br>n = ½ |
+| Dmin = 240 | Dmin = 60 | Dmin = 60 | Dmin = 25 |
 
 (10) Sikkerhetsavstander for eksplosiver i faregruppe 1.4 er 25 meter til nærmeste nabo for mengder opp til ti tonn og 50 meter for mengder over ti tonn.
 
@@ -403,11 +397,12 @@ Virksomhet som har tillatelse til oppbevaring av eksplosiver, skal til enhver ti
 
 ### § 43. Samlagring av eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1
 
-(1) Eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1 skal oppbevares separert. Separasjonsavstanden beregnes etter formelen D= k*Qn. Følgende tabell for separasjonsavstander skal brukes:Avstand i meter mellom eksplosivmagasin med barrikade og lager med ammoniumnitratholdig stoff eller stoffblandingAvstand i meter mellom eksplosivmagasin og lager med ammoniumnitratholdig stoff eller stoffblanding som det ikke er barrikade mellomk= 2,4
-n= 1/3
-Dmin = 8 meterk= 22,2
-n= 1/3
-Dmin = 180 meter
+(1) Eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1 skal oppbevares separert. Separasjonsavstanden beregnes etter formelen D= k\*Qn. Følgende tabell for separasjonsavstander skal brukes:
+
+|  |  |
+| --- | --- |
+| Avstand i meter mellom eksplosivmagasin med barrikade og lager med ammoniumnitratholdig stoff eller stoffblanding | Avstand i meter mellom eksplosivmagasin og lager med ammoniumnitratholdig stoff eller stoffblanding som det ikke er barrikade mellom |
+| k= 2,4<br>n= 1/3<br>Dmin = 8 meter | k= 22,2<br>n= 1/3<br>Dmin = 180 meter |
 
 (2) Dersom tilstrekkelige separasjonsavstander mellom eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger ikke innfris, skal den totale mengden eksplosiv beregnes etter følgende formel: Qtotal= Q + QAN/2 der Q er mengden av eksplosiver og QAN er total mengde av ANE, AN og ANSOL. Ved beregning av sikkerhetsavstand for Qtotal skal tabell for faregruppe 1.1 benyttes.
 
@@ -1313,27 +1308,122 @@ Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften[kapittel 
 
 ## Vedlegg I: Artikler som anses som pyrotekniske artikler eller ammunisjon i de forente nasjoners relevante rekommandasjoner
 
+| *FN-nr.* | *Betegnelse*<br>*og*<br>*beskrivelse* | *Klasse/*<br>*inndeling* | *Ordliste (skal bare brukes som veiledende opplysninger)* |
+| --- | --- | --- | --- |
+| Gruppe G |  |  |  |
+| 0009 | Ammunisjon, brannstiftende, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | Ammunisjon<br>Allmenn betegnelse som hovedsakelig gjelder artikler til militær bruk, og som omfatter alle typer bomber, granater, raketter, miner, prosjektiler og andre lignende innretninger.<br>Ammunisjon, brannstiftende<br>Ammunisjon som inneholder brennbart stoff. Med unntak av tilfeller der sammensetningen er et sprengstoff i seg selv, inneholder det også en eller flere av følgende bestanddeler: en drivladning med tennladning og tennsats, et tennrør med sprengladning eller utstøterladning. |
+| 0010 | Ammunisjon, brannstiftende, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se FN-nr. 0009 |
+| 0015 | Ammunisjon, røyk-, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | Ammunisjon, røyk-<br>Ammunisjon som inneholder røykproduserende stoff. Med unntak av tilfeller der stoffet er et sprengstoff i seg selv, inneholder ammunisjonen også en eller flere av følgende bestanddeler: en drivladning med tennladning og tennsats, et tennrør med sprengladning eller utstøterladning. |
+| 0016 | Ammunisjon, røyk-, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se FN-nr. 0015 |
+| 0018 | Ammunisjon, tåreframkallende, med sprengladning, utstøterladning eller drivladning | 1.2 G | Ammunisjon, tåreframkallende, med sprengladning, utstøterladning eller drivladning<br>Ammunisjon som inneholder tåreframkallende stoff. Den inneholder også en eller flere av følgende bestanddeler: et pyroteknisk stoff, en drivladning med tennladning og tennsats, et tennrør med sprengladning eller utstøterladning. |
+| 0019 | Ammunisjon, tåreframkallende, med sprengladning, utstøterladning eller drivladning | 1.3 G | Se FN-nr. 0018 |
+| 0039 | Fotobomber | 1.2 G | Bomber<br>Eksplosjonsfarlige artikler som kastes ut fra fly. De kan inneholde brennbar væske med sprengladning, en fotobombesammensetning eller en sprengladning. Betegnelsen omfatter fotobomber. |
+| 0049 | Lyspatroner | 1.1 G | Lyspatroner<br>Artikler som består av en hylse, en tennladning og blitzlyspulver som er samlet i én enhet og er klart til avfyring. |
+| 0050 | Lyspatroner | 1.3 G | Se FN-nr. 0049 |
+| 0054 | Signalpatroner | 1.3 G | Signalpatroner<br>Artikler som er beregnet på å avfyre fargede signalbluss eller andre signaler fra signalpistoler osv. |
+| 0066 | Tennlunte | 1.4 G | Tennlunte<br>Artikkel som består av tekstilgarn dekket med svartkrutt eller en annen hurtigbrennende pyroteknisk blanding og bøyelig beskyttelsesomhylling, eller den består av en kjerne av svartkrutt omhyllet av et bøyelig vevd stoff. Den brenner i lengderetningen med en utvendig flamme og brukes til å overføre tenning fra en innretning til en ladning. |
+| 0092 | Signalbluss, bakke | 1.3 G | Artikler som inneholder pyrotekniske stoffer beregnet på å lyse opp, identifisere, signalisere eller advare. |
+| 0093 | Signalbluss, luft | 1.3 G | Se FN-nr. 0092 |
+| 0101 | Lunte, ikke-detonerende | 1.3 G | Lunte/tennrør<br>Selv om de engelske ordene for lunte/tennrør (fuse/fuze) har felles opprinnelse (fransk fusée, fusil) og noen ganger anses for å være forskjellige stavemåter, er det viktig å fastholde at fuse (lunte) betegner en snorlignende tenningsinnretning, mens fuze (tennrør) betegner en innretning som brukes i ammunisjon, og som inneholder mekaniske, elektriske, kjemiske eller hydrostatiske bestanddeler som setter i gang en serietenning ved deflagrasjon eller detonasjon.<br>Lunte, hurtigvirkende, ikke-detonerende (quickmatch)<br>Artikkel som består av bomullsgarn som er impregnert med fint svartkrutt (quickmatch). Den brenner med en utvendig flamme og brukes ved serietenning av fyrverkeri osv. |
+| 0103 | Lunte, tenn-, rørformet, metallbelagt | 1.4 G | Lunte, tenn-, rørformet, metallbelagt<br>Artikkel som består av et metallrør med en kjerne av deflagrerende sprengstoff. |
+| 0171 | Ammunisjon, lys-, med eller uten sprengladning, utstøterladning eller drivladning | 1.2 G | Ammunisjon, lys-, med eller uten sprengladning, utstøterladning eller drivladning<br>Ammunisjon som er beregnet på å skape en enkelt sterk lyskilde som lyser opp et område. Betegnelsen omfatter lyspatroner, lysgranater, lysprosjektiler og målidentifikasjonsbomber. |
+| 0191 | Signalmidler, hånd- | 1.4 G | Artikler som er beregnet på å gi signaler. |
+| 0192 | Knallkapsler for jernbane, eksplosive | 1.1 G | Se FN-nr. 0191 |
+| 0194 | Nødsignaler, skip | 1.1 G | Se FN-nr. 0191 |
+| 0195 | Nødsignaler, skip | 1.3 G | Se FN-nr. 0191 |
+| 0196 | Røyksignaler | 1.1 G | Se FN-nr. 0191 |
+| 0197 | Røyksignaler | 1.4 G | Se FN-nr. 0191 |
+| 0212 | Sporlys for ammunisjon | 1.3 G | Sporlys for ammunisjon<br>Forseglede artikler som inneholder pyrotekniske stoffer beregnet på å vise banen til et prosjektil. |
+| 0254 | Ammunisjon, lys-, med eller uten sprengladning, utstøterladning eller drivladning | 1.3 G | Se FN-nr. 0171 |
+| 0297 | Ammunisjon, lys-, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se FN-nr. 0254 |
+| 0299 | Fotobomber | 1.3 G | Se FN-nr. 0039 |
+| 0300 | Ammunisjon, brannstiftende, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se FN-nr. 0009 |
+| 0301 | Ammunisjon, tåreframkallende, med sprengladning, utstøterladning eller drivladning | 1.4 G | Se FN-nr. 0018 |
+| 0303 | Ammunisjon, røyk-, med eller uten sprengladning, utstøterladning eller drivladning | 1.4 G | Se FN-nr. 0015 |
+| 0306 | Sporlys for ammunisjon | 1.4 G | Se FN-nr. 0212 |
+| 0312 | Signalpatroner | 1.4 G | Signalpatroner<br>Artikler som er beregnet på å avfyre fargede signalbluss eller andre signaler fra signalpistoler. |
+| 0313 | Røyksignaler | 1.2 G | Se FN-nr. 0195 |
+| 0318 | Øvelsesgranater, hånd eller gevær | 1.3 G | Granater, hånd eller gevær<br>Artikler som er beregnet på å kastes med hånd eller avfyres med gevær. Betegnelsen omfatter: Øvelsesgranater, hånd eller gevær. |
+| 0319 | Tennpatroner | 1.3 G | Tennpatroner<br>Artikler som består av en tennladning til tenning og en hjelpeladning av et deflagrerende sprengstoff som f.eks. svartkrutt, som brukes til å tenne drivladningen i en patronhylse til f.eks. kanoner. |
+| 0320 | Tennpatroner | 1.4 G | Se FN-nr. 0319 |
+| 0333 | Fyrverkeri | 1.1 G | Fyrverkeri<br>Pyrotekniske artikler som er beregnet på underholdning. |
+| 0334 | Fyrverkeri | 1.2 G | Se FN-nr. 0333 |
+| 0335 | Fyrverkeri | 1.3 G | Se FN-nr. 0333 |
+| 0336 | Fyrverkeri | 1.4 G | Se FN-nr. 0333 |
+| 0362 | Ammunisjon, øvelses- | 1.4 G | Ammunisjon, øvelses-<br>Ammunisjon uten hovedladning som inneholder en sprengladning eller utstøterladning. Vanligvis inneholder den også et tennrør og en drivladning. |
+| 0363 | Ammunisjon, kalibrerings- | 1.4 G | Ammunisjon, kalibrerings-<br>Ammunisjon som inneholder pyrotekniske stoffer, og som brukes til å prøve ytelsen eller kraften i ny ammunisjon eller nye våpenkomponenter eller -systemer. |
+| 0372 | Øvelsesgranater, hånd eller gevær | 1.2 G | Se FN-nr. 0318 |
+| 0373 | Signalmidler, hånd- | 1.4 S | Se FN-nr. 0191 |
+| 0403 | Signalbluss, luft | 1.4 G | Se FN-nr. 0092 |
+| 0418 | Signalbluss, bakke | 1.2 G | Se FN-nr. 0092 |
+| 0419 | Signalbluss, bakke | 1.1 G | Se FN-nr. 0092 |
+| 0420 | Signalbluss, luft | 1.1 G | Se FN-nr. 0092 |
+| 0421 | Signalbluss, luft | 1.2 G | Se FN-nr. 0092 |
+| 0424 | Prosjektiler, inerte med sporlys | 1.3 G | Prosjektiler<br>Artikler som granater eller kuler som avfyres fra en kanon eller lignende, et gevær eller et annet håndvåpen. De kan være inerte, med eller uten sporlys, eller de kan inneholde en spreng- eller utstøterladning eller en sprengladning. Betegnelsen omfatter: Prosjektiler, inerte, med sporlys, prosjektiler med spreng- eller utstøterladning, prosjektiler med sprengladning. |
+| 0425 | Prosjektiler, inerte med sporlys | 1.4 G | Se FN-nr. 0424 |
+| 0428 | Pyrotekniske artikler til teknisk bruk | 1.1 G | Pyrotekniske artikler til teknisk bruk<br>Artikler som inneholder pyrotekniske stoffer, og som er beregnet på teknisk bruk som f.eks. varmeutvikling, gassutvikling, teatereffekter osv. Betegnelsen omfatter ikke følgende artikler som er oppført for seg: all ammunisjon; signalpatroner; kabelkuttere, eksplosive; fyrverkeri; signalbluss, luft; signalbluss, bakke; utløserinnretninger, eksplosive; sprengnagler; signalmidler, hånd-; nødsignaler; knallkapsler for jernbane, eksplosive; røyksignaler. |
+| 0429 | Pyrotekniske artikler til teknisk bruk | 1.2 G | Se FN-nr. 0428 |
+| 0430 | Pyrotekniske artikler til teknisk bruk | 1.3 G | Se FN-nr. 0428 |
+| 0431 | Pyrotekniske artikler til teknisk bruk | 1.4 G | Se FN-nr. 0428 |
+| 0434 | Prosjektiler med sprengladning eller utstøterladning | 1.2 G | Prosjektiler<br>Artikler som granater eller kuler som avfyres fra en kanon eller lignende, et gevær eller et annet håndvåpen. De kan være inerte, med eller uten sporlys, eller de kan inneholde en spreng- eller utstøterladning eller en sprengladning. Betegnelsen omfatter: prosjektiler, inerte, med sporlys, prosjektiler med spreng- eller utstøterladning, prosjektiler med sprengladning. |
+| 0435 | Prosjektiler med sprengladning eller utstøterladning | 1.4 G | Se FN-nr. 0434 |
+| 0452 | Øvelsesgranater, hånd eller gevær | 1.4 G | Se FN-nr. 0372 |
+| 0487 | Røyksignaler | 1.3 G | Se FN-nr. 0194 |
+| 0488 | Ammunisjon, øvelses- | 1.3 G | Ammunisjon, øvelses-<br>Ammunisjon uten hovedladning som inneholder en sprengladning eller utstøterladning. Vanligvis inneholder den også et tennrør og en drivladning. Betegnelsen omfatter ikke følgende artikler som er oppført for seg: Øvelsesgranater. |
+| 0492 | Knallkapsler for jernbane, eksplosive | 1.3 G | Se FN-nr. 0194 |
+| 0493 | Knallkapsler for jernbane, eksplosive | 1.4 G | Se FN-nr. 0194 |
+| 0503 | Kollisjonsputeladninger eller kollisjonsputeenheter eller bilbeltestrammere | 1.4 G |  |
+| Gruppe S |  |  |  |
+| 0110 | Øvelsesgranater, hånd eller gevær | 1.4 S | Se FN-nr. 0318 |
+| 0193 | Knallkapsler for jernbane, eksplosive | 1.4 S | Se FN-nr. 0194 |
+| 0337 | Fyrverkeri | 1.4 S | Se FN-nr. 0334 |
+| 0345 | Prosjektiler, inerte med sporlys | 1.4 S | Prosjektiler<br>Artikler som granater eller kuler som avfyres fra en kanon eller lignende, et gevær eller et annet håndvåpen. De kan være inerte, med eller uten sporlys, eller de kan inneholde en spreng- eller utstøterladning eller en sprengladning. |
+| 0376 | Tennpatroner | 1.4 S | Se FN-nr. 0319 |
+| 0404 | Signalbluss, luft | 1.4 S | Se FN-nr. 0092 |
+| 0405 | Signalpatroner | 1.4 S | Signalpatroner<br>Artikler som er beregnet på å avfyre fargede signalbluss eller andre signaler fra signalpistoler osv. |
+| 0432 | Pyrotekniske artikler til teknisk bruk | 1.4 S |  |
+
 ## Vedlegg II: Grunnleggende sikkerhetskrav
 
 ### I. Generelle krav
 
+1\.
+
 Hvert eksplosiv skal konstrueres, framstilles og leveres slik at den under vanlige og forventede forhold, særlig med hensyn til sikkerhetsreglene og vanlig praksis, utgjør en minst mulig fare for menneskers liv og helse, og at skade på eiendom og miljø unngås i tiden før den brukes.
 
+2\.
+
 Hvert eksplosiv skal ha de ytelsesegenskaper produsenten har angitt, for å sikre størst mulig sikkerhet og pålitelighet.
+
+3\.
 
 Hvert eksplosiv skal konstrueres og framstilles slik at den ved anvendelse av en hensiktsmessig metode kan tilintetgjøres med minst mulige virkninger på miljøet.
 
 ### II. Særlige krav
 
+1\.
+
 Som et minstekrav skal følgende opplysninger og egenskaper der det er hensiktsmessig vurderes eller prøves:konstruksjon og karakteristiske egenskaper, herunder kjemisk sammensetning, blandingsgrad og eventuelt dimensjoner og kornstørrelsesfordeling,eksplosivets fysiske og kjemiske stabilitet under alle de miljøforhold den kan bli utsatt for,følsomhet for støt og friksjon,alle bestanddelenes forenlighet med hensyn til fysisk og kjemisk stabilitet,eksplosivets kjemiske renhet,eksplosivets vannbestandighet, når den er beregnet på bruk under fuktige eller våte forhold og vann kan svekke eksplosivets sikkerhet og pålitelighet,bestandighet mot høye og lave temperaturer, når eksplosivet er beregnet på lagring eller bruk ved slike temperaturer og dets sikkerhet eller pålitelighet kan svekkes ved avkjøling eller oppvarming av en bestanddel eller av eksplosivet som helhet,eksplosivets egnethet for bruk i farlige omgivelser (f.eks. ved forekomst av gruvegass, varme omgivelser osv.), dersom den er beregnet på bruk under slike forhold,sikkerhetsinnretninger som skal forhindre at initiering eller tenning skjer i utide eller ved uaktsomhet,riktig lading av og virkemåte til eksplosivet når den brukes i samsvar med sitt formål,hensiktsmessige anvisninger og om nødvendig merking vedrørende sikker håndtering, lagring, bruk og disponering,den evne eksplosivet, dets innkapsling eller andre bestanddeler har til å motstå forringelse under lagring inntil den holdbarhetsdato produsenten har angitt,spesifisering av alle innretninger og alt tilbehør som er nødvendig for at eksplosivet skal fungere pålitelig og sikkert.
+
+2\.
 
 Slik kontroll skal foretas under realistiske forhold. Dersom dette ikke er mulig i et laboratorium, skal prøvingene utføres under de samme forhold som eksplosivet skal brukes i.
 
+3.*Krav til grupper av eksplosive stoffer*
+
+3.1
+
 Sprengstoffer skal også oppfylle følgende krav:den angitte initieringsmåte skal sikre at sprengstoffet henholdsvis deflagrerer, detonerer eller eksploderer sikkert, pålitelig og fullstendig. For svartkrutt skal deflagrasjonsegenskapene undersøkes,sprengstoffer i form av patroner skal overføre detonasjonen sikkert og pålitelig gjennom hele rekken av patroner,gassene som utvikles ved detonasjon av sprengstoffer under jord, skal ikke inneholde karbonmonoksid, nitrøse gasser, andre gasser, damper eller luftbårne restpartikler i mengder som under vanlige driftsvilkår er helseskadelige.
+
+3.2
 
 Detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal også oppfylle følgende krav:innkapslingen til detonerende lunter, sikkerhetslunter, andre lunter og sjokkrør skal ha tilstrekkelig mekanisk styrke og skal i tilstrekkelig grad beskytte den eksplosive kjernen når den utsettes for vanlig mekanisk påkjenning,parametrene for sikkerhetslunters brennetid skal angis og overholdes på en pålitelig måte,detonerende lunter skal kunne initieres på en pålitelig måte, ha tilstrekkelig initieringsevne og oppfylle kravene med hensyn til lagring selv under særlige klimatiske forhold.
 
+3.3
+
 Tennere (herunder intervalltennere) og koplings- og forsinkerelementer skal også oppfylle følgende krav:tennere skal under alle forventede bruksforhold initiere de sprengstoffene de skal brukes sammen med, på en pålitelig måte.forsinkerelementer til detonerende lunter må initieres på en pålitelig måte,initieringsevnen skal ikke kunne svekkes av fuktighet.intervalltennernes forsinkelsestider skal være tilstrekkelig ensartet til å sikre at faren for overlapping med etterfølgende tidstrinnsforsinkelsestid er ubetydelig,de elektriske egenskapene til elektriske tennere skal angis på emballasjen (f.eks. minste tennenergi, resistans),ledningene til elektriske tennere skal ha tilstrekkelig isolasjon og mekanisk styrke, herunder soliditet i forbindelsen til tenneren, for deres tiltenkte bruksområde.
+
+3.4
 
 Drivladningskrutt og rakettkrutt skal også oppfylle følgende krav:disse materialene skal ikke detonere når de brukes i samsvar med sitt formål,drivladningskrutt skal om nødvendig (f.eks. dersom de er basert på nitrocellulose) stabiliseres for å unngå nedbryting,rakettkrutt skal ikke inneholde utilsiktede sprekker eller gassbobler som kan utgjøre en fare for rakettkruttets virkemåte, når det foreligger i komprimert eller støpt form.
 
@@ -1342,27 +1432,49 @@ Drivladningskrutt og rakettkrutt skal også oppfylle følgende krav:disse materi
 ### MODUL B
 EU-typeprøving
 
+1\.
+
 Med «EU-typeprøving» menes den del av framgangsmåten for samsvarsvurdering der et meldt organ undersøker et eksplosivs tekniske konstruksjon og kontrollerer og bekrefter at eksplosivets tekniske konstruksjon oppfyller gjeldende krav i dette direktiv.
 
+2\.
+
 EU-typeprøving skal gjennomføres som en vurdering av egnetheten til eksplosivets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt en undersøkelse av et eksemplar av det fullstendige produktet som er representativt for den planlagte produksjonen (kombinasjon av produksjonstype og konstruksjonstype).
+
+3\.
 
 Produsenten skal inngi en søknad om EU-typeprøving til ett enkelt meldt organ etter eget valg.
 
 Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med gjeldende krav i dette direktiv, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av eksplosivet,konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivets virkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv.,prøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt, særlig i tilfeller der relevante harmoniserte standarder ikke er anvendt full ut. Underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger utført i samsvar med andre relevante tekniske spesifikasjoner av egnet laboratorium hos produsenten eller av et annet prøvingslaboratorium på produsentens vegne og ansvar.
 
+4\.
+
 Det meldte organ skalnår det gjelder eksplosivet,
+
+4.1
 
 undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om eksplosivets tekniske konstruksjon er tilfredsstillende,når det gjelder eksemplaret eller eksemplarene,
 
+4.2
+
 kontrollere at eksemplaret eller eksemplarene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere elementer som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, samt elementer som er konstruert i samsvar med andre relevante tekniske spesifikasjoner,
+
+4.3
 
 gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om relevante harmoniserte standarder er anvendt på riktig måte, der produsenten har valgt å anvende dem,
 
+4.4
+
 gjennomføre eller besørge gjennomført hensiktsmessige undersøkelser og prøvinger for å kontrollere om løsninger produsenten har valgt fra andre relevante tekniske spesifikasjoner, oppfyller de grunnleggende sikkerhetskrav i dette direktiv, i tilfeller der løsningene i de relevante harmoniserte standardene ikke er anvendt,
+
+4.5
 
 avtale med produsenten hvor undersøkelsene og prøvingene skal gjennomføres.
 
+5\.
+
 Det meldte organ skal utarbeide en vurderingsrapport som beskriver tiltakene som er gjennomført i henhold til nr. 4, og resultatene av dem. Uten at det berører dets forpliktelser overfor meldermyndighetene, skal det meldte organ ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
+
+6\.
 
 Når typen oppfyller kravene i dette direktiv som gjelder for det berørte eksplosivet, skal det meldte organ utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, eventuelle gyldighetsvilkår for det, og opplysningene som kreves for å identifisere den godkjente typen. EU-typeprøvingssertifikatet kan ha et eller flere vedlegg.
 
@@ -1370,9 +1482,13 @@ EU-typeprøvingssertifikatet og dets vedlegg skal inneholde alle opplysninger so
 
 Dersom typen ikke oppfyller gjeldende krav i dette direktiv, skal det meldte organ avslå å utstede et EF-typeprøvingssertifikat og underrette søkeren om dette, samt gi søkeren en detaljert begrunnelse for avslaget.
 
+7\.
+
 Det meldte organ skal holde seg underrettet om alle endringer i det allment anerkjente nåværende utviklingstrinn i teknikken som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i dette direktiv, og avgjøre om slike endringer krever ytterligere undersøkelse. I så tilfelle skal det meldte organ underrette produsenten om dette.
 
 Produsenten skal underrette det meldte organ som har den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om eksplosivet er i samsvar med de grunnleggende sikkerhetskravene i dette direktiv eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EU-typeprøvingssertifikatet.
+
+8\.
 
 Hvert meldt organ skal underrette sin meldermyndighet om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndigheten fortegnelser over slike sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
@@ -1380,16 +1496,26 @@ Hvert meldt organ skal underrette de andre meldte organene om EU-typeprøvingsse
 
 Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og/eller tillegg til dem. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av de undersøkelsene som er gjennomført av det meldte organ. Det meldte organ skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg og de tekniske dataene, herunder dokumentasjonen innsendt av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
 
+9\.
+
 Produsenten skal kunne framlegge en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg samt den tekniske dokumentasjonen for de nasjonale myndigheter i ti år etter at apparatet er brakt i omsetning.
+
+10\.
 
 Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forpliktelsene angitt i nr. 7 og 9, forutsatt at de er angitt i fullmakten.
 
 ### MODUL C 2
 Typesamsvar basert på intern produksjonskontroll samt overvåket produktkontroll med ujevne mellomrom
 
+1\.
+
 Typesamsvar basert på intern produksjonskontroll samt overvåket produktkontroll med ujevne mellomrom er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer på eget ansvar at de berørte eksplosivene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
 
+2.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte eksplosivene er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i dette direktiv.
+
+3.*Produktkontroll*
 
 Et meldt organ, valgt av produsenten, skal gjennomføre eller besørge gjennomført produktkontroll med ujevne mellomrom fastsatt av organet, for å kontrollere kvaliteten på den interne kontrollen av eksplosivene, idet det tas hensyn til blant annet hvor teknologisk komplekse eksplosivene er, og produksjonsmengden. Et passende prøveutvalg av de ferdige produktene, som tas på stedet av det meldte organ før eksplosivene bringes i omsetning, skal undersøkes, og hensiktsmessige prøvinger som definert i de relevante delene av de harmoniserte standardene og/eller tilsvarende prøvinger fastsatt i andre relevante tekniske spesifikasjoner, skal gjennomføres for å kontrollere om eksplosivet er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet og med de relevante kravene i dette direktiv. Dersom en prøve ikke holder et akseptabelt kvalitetsnivå, skal det meldte organ treffe hensiktsmessige tiltak.
 
@@ -1397,24 +1523,42 @@ Formålet med framgangsmåten for prøvetaking som skal anvendes, er å fastslå
 
 Produsenten skal, under det meldte organs ansvar, påføre det meldte organs identifikasjonsnummer i produksjonsprosessen
 
+4.*CE-merking og EU-samsvarserklæring*
+
+4.1
+
 Produsenten skal påføre CE-merkingen på hver enkelt eksplosiv som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
+
+4.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver enkelt type eksplosiv og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken type eksplosiv den er utarbeidet for.
 
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+5.*Representant*
 
 Produsentens forpliktelser angitt i nr. 4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL D
 Typesamsvar basert på kvalitetssikring av produksjonsprosessen
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produksjonsprosessen er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer på eget ansvar at de berørte eksplosivene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon av ferdige produkter og prøving av de berørte eksplosivene som beskrevet i nr. 3, og skal være underlagt tilsynet som angitt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for de berørte eksplosivene til et meldt organ etter eget valg.
 
 Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle relevante opplysninger om den planlagte kategori eksplosiver,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at eksplosivene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i dette direktiv.
 
@@ -1422,6 +1566,8 @@ Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres
 
 Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,metoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
+3.3
+
 Det meldte organ skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
 Det skal forutsette at kvalitetssystemet oppfyller kravene med hensyn til de elementer av kvalitetssystemet som oppfyller tilsvarende spesifikasjoner i relevante harmoniserte standarder.
@@ -1430,7 +1576,11 @@ I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av rev
 
 Vedtaket skal meddeles produsenten. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for vedtaket.
 
+3.4
+
 Produsenten skal forplikte seg til å oppfylle sine forpliktelser som følger av det godkjente kvalitetssystemet, og opprettholde det slik at det fortsatt virker tilfredsstillende og effektivt.
+
+3.5
 
 Produsenten skal holde det meldte organ som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -1438,38 +1588,70 @@ Det meldte organ skal vurdere alle foreslåtte endringer og avgjøre om det endr
 
 Det skal underrette produsenten om sitt vedtak. Underretningen skal inneholde konklusjonene av undersøkelsen og en begrunnelse for vedtaket.
 
+4.*Tilsyn som er det meldte organs ansvar*
+
+4.1
+
 Formålet med tilsynet er å sikre at produsenten korrekt oppfyller de forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
+4.3
+
 Det meldte organ skal gjennomføre periodiske revisjoner for å sikre at produsenten opprettholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det meldte organ kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organ om nødvendig utføre eller besørge utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det meldte organ skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
+5.*CE-merking og EU-samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det meldte organ nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt eksplosiv som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver enkelt type eksplosiv og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken type eksplosiv den er utarbeidet for.
 
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+6\.
+
 Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert meldt organ skal underrette sin meldermyndighet om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndigheten fortegnelser over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
 Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet, trukket tilbake eller på andre måter begrenset, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
+
+8.*Representant*
 
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL E
 Typesamsvar basert på kvalitetssikring av produkter
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produkter er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer på eget ansvar at de berørte eksplosivene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon av ferdige produkter og prøving av de berørte eksplosivene som beskrevet i nr. 3, og skal være underlagt tilsynet som angitt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for de berørte eksplosivene til et meldt organ etter eget valg.
 
 Søknaden skal inneholdeprodusentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle relevante opplysninger om den planlagte kategorien eksplosiver,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at eksplosivene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i dette direktiv.
 
@@ -1477,6 +1659,8 @@ Alle elementer, krav og bestemmelser som produsenten benytter, skal dokumenteres
 
 Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur, ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
+3.3
+
 Det meldte organ skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
 Det skal forutsette at kvalitetssystemet oppfyller kravene med hensyn til de elementer av kvalitetssystemet som oppfyller tilsvarende spesifikasjoner i relevante harmoniserte standarder.
@@ -1485,7 +1669,11 @@ I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av rev
 
 Vedtaket skal meddeles produsenten. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for vedtaket.
 
+3.4
+
 Produsenten skal forplikte seg til å oppfylle sine forpliktelser som følger av det godkjente kvalitetssystemet, og opprettholde det slik at det fortsatt virker tilfredsstillende og effektivt.
+
+3.5
 
 Produsenten skal holde det meldte organ som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -1493,48 +1681,90 @@ Det meldte organ skal vurdere alle foreslåtte endringer og avgjøre om det endr
 
 Det skal underrette produsenten om sitt vedtak. Underretningen skal inneholde konklusjonene av undersøkelsen og en begrunnelse for vedtaket.
 
+4.*Tilsyn som er det meldte organs ansvar*
+
+4.1
+
 Formålet med tilsynet er å sikre at produsenten korrekt oppfyller de forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
+4.3
+
 Det meldte organ skal gjennomføre periodiske revisjoner for å sikre at produsenten opprettholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det meldte organ kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det meldte organ om nødvendig utføre eller besørge utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det meldte organ skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
+5.*CE-merking og EU-samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det meldte organ nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt eksplosiv som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hver enkelt type eksplosiv og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken type eksplosiv den er utarbeidet for.
 
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+6\.
+
 Produsenten skal i et tidsrom på ti år etter at eksplosivet er brakt i omsetning, kunne framlegge for de nasjonale myndigheterdokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,vedtakene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert meldt organ skal underrette sin meldermyndighet om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndigheten fortegnelser over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
 Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet eller trukket tilbake, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
+
+8.*Representant*
 
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### MODUL F
 Typesamsvar basert på produktkontroll
 
+1\.
+
 Typesamsvar basert på produktkontroll er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 5.1 og 6, og sikrer og erklærer på eget ansvar at de berørte eksplosivene, som har vært omfattet av bestemmelsene i nr. 3, er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
 
+2.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte eksplosivene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i dette direktiv.
+
+3.*Kontroll*
 
 Et meldt organ valgt av produsenten skal utføre hensiktsmessige undersøkelser og prøvinger for å kontrollere om eksplosivene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet og med gjeldende krav i dette direktiv.
 
 Undersøkelsene og prøvingene for å kontrollere om eksplosivene er i samsvar med gjeldende krav, skal etter produsentens valg utføres enten ved undersøkelse og prøving av hvert produkt som angitt i nr. 4, eller ved undersøkelse og prøving av eksplosivene på statistisk grunnlag som angitt i nr. 5.
 
+4.*Samsvarskontroll basert på undersøkelse og prøving av hvert enkelt produkt*
+
+4.1
+
 Alle eksplosiver skal undersøkes enkeltvis, og nødvendige prøvinger i henhold til den eller de relevante harmoniserte standarder og/eller tilsvarende prøvinger i henhold til andre relevante tekniske spesifikasjoner skal utføres for å verifisere at eksplosivene er i samsvar med den godkjente typen som er beskrevet i EF-typeprøvingssertifikatet og med gjeldende krav i dette direktiv. I mangel av en slik harmonisert standard skal det berørte meldte organ avgjøre hvilke hensiktsmessige prøvinger som skal utføres.
+
+4.2
 
 Det meldte organ skal utstede et samsvarssertifikat for undersøkelsene og prøvingene og skal påføre sitt identifikasjonsnummer på hver enkelt godkjent eksplosiv eller sørge for at det påføres på organets ansvar.
 
 Produsenten skal oppbevare samsvarssertifikatene og stille dem til rådighet for nasjonale myndigheter for kontroll i ti år etter at eksplosivet er brakt i omsetning.
 
+5.*Statistisk samsvarskontroll*
+
+5.1
+
 Produsenten skal treffe alle nødvendige tiltak for å påse at produksjonsprosessen og tilsynet med den sikrer ensartethet hos hvert produserte parti, og skal framlegge sine eksplosiver for kontroll i form av ensartede partier.
 
+5.2
+
 Det skal tas en stikkprøve fra hvert parti. Alle eksplosiver i en stikkprøve skal undersøkes enkeltvis, og nødvendige prøvinger i henhold til den eller de relevante harmoniserte standarder og/eller tilsvarende prøvinger i henhold til andre relevante tekniske spesifikasjoner skal utføres for å verifisere at de er i samsvar med typen som er beskrevet i EU-typeprøvingssertifikatet, og med kravene i dette direktiv, og for å avgjøre om partiet skal godkjennes eller avvises. I mangel av en slik harmonisert standard skal det berørte meldte organ avgjøre hvilke hensiktsmessige prøvinger som skal utføres.
+
+5.3
 
 Dersom et parti godkjennes, skal alle eksplosiver i partiet betraktes som godkjent, unntatt de eksplosiver fra stikkprøven som ikke besto prøvingene.
 
@@ -1542,9 +1772,17 @@ Det meldte organ skal utstede et samsvarssertifikat for undersøkelsene og prøv
 
 Produsenten skal oppbevare samsvarssertifikatene og stille dem til rådighet for nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning.
 
+5.4
+
 Dersom et parti blir avvist, skal det meldte organ eller vedkommende myndighet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom avvisning av partier forekommer ofte, kan det meldte organ innstille den statistiske kontrollen og treffe hensiktsmessige tiltak.
 
+6.*CE-merking og EU-samsvarserklæring*
+
+6.1
+
 Produsenten skal påføre CE-merkingen og, under ansvar av det meldte organ nevnt i nr. 3, sistnevntes identifikasjonsnummer på hvert enkelt eksplosiv som er i samsvar med den godkjente typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i dette direktiv.
+
+6.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring for hvert enkelt type eksplosiv og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken type eksplosiv den er utarbeidet for.
 
@@ -1554,18 +1792,32 @@ Dersom det meldte organ nevnt i nr. 3 godkjenner det, kan produsenten også, på
 
 Dersom det meldte organ godkjenner det, kan produsenten også, på det meldte organs ansvar, påføre organets identifikasjonsnummer på eksplosivene i produksjonsprosessen.
 
+7.*Representant*
+
 Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten. En representant kan ikke oppfylle produsentens forpliktelser i henhold til nr. 2 og 5.1.
 
 ### MODUL G
 Samsvar basert på kontroll av enkelteksemplarer
 
+1\.
+
 Samsvar basert på kontroll av enkelteksemplarer er den framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 5, og sikrer og erklærer på eget ansvar at de berørte eksplosivene, som har vært omfattet av bestemmelsene i nr. 4, er i samsvar med gjeldende krav i dette direktiv.
+
+2.*Teknisk dokumentasjon*
+
+2.1
 
 Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om eksplosivet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal i den grad det er relevant for vurderingen, dekke eksplosivets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av eksplosivet,konstruksjons- og produksjonstegninger samt lister over deler, delenheter, kretser osv.,nødvendige beskrivelser og forklaringer for å forstå tegningene og listene og eksplosivetsvirkemåte,en fortegnelse over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i *Den europeiske unions tidende*, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende sikkerhetskravene i dette direktiv, herunder en fortegnelse over andre relevante tekniske spesifikasjoner som er anvendt. Når det gjelder harmoniserte standarder som er delvis anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av konstruksjonsberegninger, undersøkelser osv., ogprøvingsrapporter.
 
+2.2
+
 Produsenten skal oppbevare den tekniske dokumentasjonen og kunne stille den til rådighet for vedkommende nasjonale myndigheter i ti år etter at eksplosivet er brakt i omsetning.
 
+3.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte eksplosivene er i samsvar med gjeldende krav i dette direktiv.
+
+4.*Kontroll*
 
 Et meldt organ valgt av produsenten skal utføre eller besørge utført hensiktsmessige undersøkelser og prøvinger i henhold til relevante harmoniserte standarder og/eller tilsvarende prøvinger i henhold til andre relevante tekniske spesifikasjoner for å kontrollere at eksplosivet er i samsvar med gjeldende krav i dette direktiv. I mangel av en slik harmonisert standard skal det berørte meldte organ avgjøre hvilke hensiktsmessige prøvinger som skal utføres.
 
@@ -1573,15 +1825,25 @@ Det meldte organ skal utstede et samsvarssertifikat for undersøkelsene og prøv
 
 Produsenten skal oppbevare samsvarssertifikatene og stille dem til rådighet for nasjonale myndigheter i ti år etter at eksplosivene er brakt i omsetning.
 
+5.*CE-merking og EU-samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det meldte organ nevnt i nr. 4, sistnevntes identifikasjonsnummer på hvert enkelt eksplosiv som er i samsvar med gjeldende krav i dette direktiv.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig EU-samsvarserklæring og kunne stille den til rådighet for de nasjonale myndigheter i ti år etter at instrumentet er brakt i omsetning. EU-samsvarserklæringen skal angi hvilken type eksplosiv den er utarbeidet for.
 
 En kopi av EU-samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+6.*Representant*
+
 Produsentens forpliktelser angitt i nr. 2.2 og 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg IV: EU-samsvarserklæring
+
+EU-SAMSVARSERKLÆRING (NR. XXXX)1
 
 1. Nr. ... (produkt-, type-, parti- eller serienummer):
 2. Navn og adresse til produsenten og eventuelt dennes representant:
@@ -1594,6 +1856,8 @@ Produsentens forpliktelser angitt i nr. 2.2 og 5 kan oppfylles av vedkommendes r
 Undertegnet for og på vegne av:
 (sted og dato for utstedelse):
 (navn, stilling) (underskrift):
+
+1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 
 ## Vedlegg V: Utforming av CE-merkingen
 

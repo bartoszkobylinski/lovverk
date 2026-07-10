@@ -26,11 +26,35 @@ eu_basis: []
 
 ### § 1. Generelle bestemmelser
 
+1\. *Tilsyn*
+
 Landbrukstilsynet skal etter fôrvareloven og forskrift om fôrvarer føre tilsyn med tilvirking, innførsel og omsetning av fôrvarer. Tilsynet skal foregå i henhold til denne instruksen.
 
 Landbrukstilsynet skal sørge for at omsetningen av fôrvarer ikke pålegges andre restriksjoner enn dem som er fastsatt i forskrift om fôrvarer.
 
+2\. *Definisjoner*
+
 I denne instruks menes med:
+
+*Dokumentkontroll:* kontroll av dokumentene som følger med et produkt, eller av andre opplysninger gitt om produktet.
+
+*Identitetskontroll:* visuell kontroll av samsvar mellom dokumenter, merking og produkt.
+
+*Fysisk kontroll:* kontroll av selve produktet, herunder eventuell prøvetaking og laboratorieundersøkelse.
+
+*Produkt:* enhver fôrvare og ethvert stoff som brukes som fôr.
+
+*Kompetent myndighet:* Landbrukstilsynet.
+
+*Markedsføring:* oppbevaring av varer med sikte på salg, herunder tilbud eller enhver annen form for overdragelse til tredjemann, mot vederlag eller vederlagsfritt, samt selve salget og andre former for overdragelse. Begrepet «omsetning» brukes synonymt med markedsføring.
+
+*Produsent:* enhver enhet som produserer eller framstiller tilsetningsstoffer, premikser framstilt av tilsetningsstoffer, fôrblandinger eller produkter nevnt i direktiv [82/471/EØF](eu/31982l0471) og nevnt i kapittel I.1 bokstav a) i vedlegget til direktiv [95/69/EF](eu/31995l0069).
+
+*Forhandler:* enhver person, bortsett fra produsenter eller personer som utelukkende produserer fôrblandinger til bruk på egen driftsenhet, som på et mellomliggende nivå mellom produksjon og bruk oppbevarer tilsetningsstoffer, premikser framstilt av tilsetningsstoffer eller ett av produktene nevnt i direktiv [82/471/EØF](eu/31982l0471) og nevnt i kapittel I.1 bokstav a) i direktiv [95/69/EF](eu/31995l0069).
+
+Betegnelsen «*virksomhet*» brukes som en samlebetegnelse for de to definerte begrepene «*produsent*» og «*forhandler*».
+
+3\. *Kontroll*
 
 Generelt skal kontroll av fôrvarer foretas:regelmessig,ved mistanke om brudd på regelverket (manglende samsvar),i et omfang som står i forhold til formålet (den fastsatte målsetting), særlig med henblikk på farene og på erfaringene som gjøres.
 
@@ -42,6 +66,8 @@ Dersom Landbrukstilsynet stadfester at bruk av en fôrvare medfører risiko for 
 
 Landbrukstilsynet skal sørge for at kontrollene utføres på en måte som sikrer at leveringen av produktene forsinkes minst mulig og kontrollen ikke fører til urimelige hindringer for omsetningen av produktene.
 
+4\. *Analyser*
+
 Dersom det tas prøver av produktene med henblikk på analyse, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre atde som kontrolleres, har rett til å få utført en ny vurdering,offentlig forseglede referanseprøver blir oppbevart.
 
 Landbrukstilsynet skal utarbeide en liste over laboratorier som har ansvar for å utføre analysene. Laboratoriene skal være utpekt på grunnlag av sine kvalifikasjoner.
@@ -49,6 +75,8 @@ Landbrukstilsynet skal utarbeide en liste over laboratorier som har ansvar for �
 Landbrukstilsynet skal påse at prøvetakingen og analysene utføres i samsvar med reglene i EØS.
 
 Dersom det i EØS-reglene ikke finnes bestemmelser om prøvetakings- og analysemetoder, skal Landbrukstilsynet treffe nødvendige tiltak for å sikre at kontrollen foretas:i samsvar med standarder godkjent av internasjonale organisasjoner,i samsvar med vitenskapelig anerkjente nasjonale regler som oppfyller EØS-avtalens generelle prinsipper, dersom nevnte standarder ikke finnes.
+
+5\. *Programmer*
 
 Landbrukstilsynet skal utarbeide programmer som fastsetter de nasjonale tiltak som skal iverksettes for å nå målsettingen i direktiv [95/53/EF](eu/31995l0053).
 
@@ -58,11 +86,17 @@ Innen 1. april hvert år skal Landbrukstilsynet oversende ESA alle relevante opp
 
 ### § 2. Innførsel fra tredjeland
 
+1\. *Dokument- og identitetskontroll*
+
 Landbrukstilsynet skal i samarbeid med tollmyndighetene sørge for at det blir foretatt dokumentkontroll av hvert parti og identitetskontroll ved stikkprøver av produkter som innføres til EØS sitt tollområde, for å fastslå produktenesart,opprinnelse,geografiske bestemmelsessted,for å avgjøre hvilken tollprosedyre som skal anvendes på dem.
+
+2\. *Kontrolldokument*
 
 Ved innførsel av fôrvarer fra tredjeland via et annet land i EØS-området, skal et kontrolldokument utstedes, jf. § 27 grensekontroll i forskrift om fôrvarer. Kontrolldokumentet skal inneholde opplysninger om hvilke kontroller fôrvarepartiet har gjennomgått. Kontrolldokumentet skal følge varepartiet videre dersom den frie omsetningen av produktene skal skje i et annet land enn Norge, eller at produktene skal frigis i et annet medlemsland enn der frisonen, frilageret eller tollageret ligger. Se vedlegg til kap. 1; Kontrolldokument, og Veileder til utfylling av kontrolldokumentet.
 
 Når det innføres fôrvarer fra tredjeland til Norge via et annet land i EØS-området, skal kontrolldokumentene oppbevares i minst 18 måneder. Norge sørger for at tollmyndighetene ikke frigir produktene uten at både skjemaet og opplysninger om at kontroller i samsvar med artikkel 5 og 7 i direktiv [95/53/EF](eu/31995l0053) er tilfredsstillende utført.
+
+3\. *Stikkprøvekontroll*
 
 Landbrukstilsynet kan ved fysisk stikkprøvekontroll undersøke om produktene er i samsvar med forskriften, før de frigis til fri omsetning.
 
@@ -76,11 +110,17 @@ ESA skal informeres dersom Landbrukstilsynet har gitt unntak fra merkebestemmels
 
 ### § 3. Handel innenfor EØS
 
+1\. *Tiltak*
+
 Landbrukstilsynet skal treffe alle nødvendige tiltak for å sikre at produkter som skal sendes til et annet EØS-land, kontrolleres med samme omtanke som produkter beregnet for omsetning i Norge.
+
+2\. *Kontroll på opprinnelsesstedet (varer produsert i Norge)*
 
 Landbrukstilsynet skal foreta kontroll av virksomhetene for å fastslå at de oppfyller lov- og forskriftskrav, og at produkter beregnet på omsetning er i samsvar med regelverket.
 
 Dersom det er grunn til mistanke om at kravene ikke oppfylles, skal Landbrukstilsynet foreta den nødvendige kontroll, og dersom mistanken bekreftes, skal det treffes egnede tiltak.
+
+3\. *Kontroll på bestemmelsesstedet (varer innført til Norge)*
 
 Landbrukstilsynet kan uten å forskjellsbehandle foreta stikkprøvekontroll på bestemmelsesstedet for å kontrollere om produktene som kommer fra et annet EØS-land er i samsvar med lov og forskrift om fôrvarer.
 
@@ -89,6 +129,8 @@ Dersom den vedkommende myndigheten i transittlandet innen EØS eller Landbruksti
 Dersom Landbrukstilsynet ved kontroll i henhold til § 28 i fôrvareforskriften fastslår at produktene ikke er i samsvar med forskriften, skal det treffes egnede tiltak og på vilkår, formelt oppfordre avsenderen, mottakeren eller annen bemyndiget person til å sørge for at produktene enten:bringes i samsvar med kravene innen en fastsatt frist,dekontamineres dersom det er hensiktsmessig,behandles på annen passende måte,brukes til andre formål,tilbakesendes til opprinnelseslandet etter at vedkommende myndighet i landet der opprinnelsesvirksomheten ligger, er blitt underrettet, ellerdestrueres.
 
 Kostnadene i forbindelse med nevnte tiltak skal dekkes av avsenderen eller annen berettiget person, herunder eventuelt mottakeren.
+
+4\. *Samarbeid i tilfeller der overtredelser fastslås*
 
 Dersom produktene destrueres, brukes til andre formål, sendes tilbake til opprinnelseslandet eller dekontamineres, skal Landbrukstilsynet omgående ta kontakt med det EØS-landet som er avsender. I de øvrige tilfellene kan Landbrukstilsynet ta kontakt med det EØS-landet som er avsender. Avsenderlandet skal treffe nødvendige tiltak og underrette Landbrukstilsynet om hvilken type kontroll som er foretatt, resultatene av denne, hvilke vedtak som er gjort, og begrunnelsen for vedtakene.
 
@@ -106,7 +148,11 @@ Mottakslandet i EØS kan for sitt vedkommende skjerpe kontrollen av produktene f
 
 ### § 4. Prosedyre for godkjenning av tilsetningsstoffer
 
+1\. *Generelle krav*
+
 Godkjenning av antibiotika, koksidiostatika og vekstfremmende stoffer skal knyttes til den som er ansvarlig for omsetning. Tilsetningsstoffer i de andre gruppene skal ikke knyttes til ansvarsholder. Med ansvarlig for omsetning menes den fysiske eller juridiske person som har ansvaret for at tilsetningsstoffet som har fått godkjenning, samsvarer med kravene, og for omsetningen for det.
+
+2\. *Forpliktelser som rapportør*
 
 Hvis Landbrukstilsynet opptrer som rapportør, skal det kontrolleres atsaksmappen er utarbeidet i samsvar med direktiv [87/153/EØF](eu/31987l0153),stoffet eller preparatet ifølge de framlagte opplysninger synes å oppfylle godkjenningsvilkårene (fastsatt i artikkel 3a, i direktiv [70/524/EØF](eu/31970l0524*)).
 
@@ -116,15 +162,21 @@ Landbrukstilsynet skal sørge for at opplysninger som kan krenke den industriell
 
 Følgende skal ikke behandles fortrolig:tilsetningsstoffets betegnelse og sammensetning,tilsetningsstoffets fysisk-kjemiske og biologiske egenskaper,tolkning av farmakologiske, toksikologiske og økotoksikologiske data om tilsetningsstoffet,analysemetodene for kontroll av selve tilsetningsstoffet og tilsetningsstoffet i premikser, i fôrblandinger og i fôrvarer,metodene for kontroll av restmengder av tilsetningsstoffet eller metabolitter av det i animalske produkter (dette strekpunktet gjelder bare for tilsetningsstoffer).
 
+3\. *Søknad om godkjenning*
+
 Den som søker om godkjenning skal via Landbrukstilsynet, oversende ESA en søknad vedlagt saksmappen (med dokumentasjon) med kopi til de andre medlemslandene. Disse skal bekrefte å ha mottatt den så snart som mulig. Denne oversendelsen skal skje senest ett år etter den dato da søkeren innleverte saksmappen til Landbrukstilsynet, med mindre søknaden avslås eller utsettes.
 
 Landbrukstilsynet skal underrette søkeren, de andre EØS-landene og ESA om årsakene til avslaget eller utsettelsen.
 
 EØS-landene skal ha en frist på 60 dager fra datoen da saksmappen ble oversendt dem, til å undersøke om saksmappen er utarbeidet i samsvar med direktiv [87/153/EØF](eu/31987l0153) og eventuelt oversende ESA og de andre medlemslandene sine skriftlige merknader.
 
+4\. *Genmodifiserte organismer*
+
 Når et tilsetningsstoff inneholder eller består av genmodifiserte organismer som definert i artikkel 2 nr. 1 og 2 i direktiv [90/220/EØF](eu/31990l0220*) av 23. april 1990 om utsetting i miljøet av genetisk modifiserte organismer (sist endret ved direktiv [94/15/EF](eu/31994l0015)), skal det foretas en særskilt vurdering av miljørisikoen som fastsatt i nevnte direktiv; følgende dokumenter skal med henblikk på dette inngå i saksmappen som skal framlegges i samsvar med artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*) for å sikre at prinsippene fastsatt i artikkel 3a overholdes:en kopi av ethvert skriftlig samtykke fra kompetente myndigheter til å sette ut i miljøet genmodifiserte organismer til forsknings- og utviklingsformål i henhold til artikkel 6 nr. 4 i direktiv [90/220/EØF](eu/31990l0220*), samt resultatene av utsettingen idet det tas hensyn til en eventuell fare for menneskers og dyrs helse og miljøet,fullstendig teknisk dokumentasjon med de opplysningene som kreves i henhold til vedlegg II og III til direktiv [90/220/EØF](eu/31990l0220*), og en vurdering av miljørisikoen på grunnlag av disse opplysningene; resultatene av samtlige undersøkelser som er foretatt til forsknings- eller utviklingsformål.
 
 Artikkel 11-18 i direktiv [90/220/EØF](eu/31990l0220*) får ikke anvendelse for tilsetningsstoffer som består av eller inneholder genmodifiserte organismer.
+
+5\. *Fornyelse av godkjenningen etter ti år*
 
 EØS-godkjenningen for tilsetningsstoffene i gruppene «antibiotika», «koksidiostatika» og «vekstfremmende stoffer» som er knyttet til ansvarlig for omsetning, er gyldig i ti år regnet fra den dato da den endelige godkjenningen trer i kraft, og kan fornyes for tiårsperioder.
 
@@ -136,21 +188,33 @@ Artikkel 3, 3a, 4, 7 og 7a i direktiv [70/524/EØF](eu/31970l0524*) får tilsvar
 
 Dersom det av grunner som ligger utenfor godkjenningsinnehaverens kontroll, ikke kan treffes beslutning om søknaden om fornyelse før den dato da godkjenningen utløper, skal godkjenningsperioden for tilsetningsstoffet automatisk forlenges inntil ESA treffer en beslutning.
 
+6\. *Distribusjon og bruk av tilsetningsstoffer*
+
 Landbrukstilsynet skal påse at det på fôrvareområdet bare omsettes tilsetningsstoffer som er godkjent i samsvar med fôrvareforskriften, og at de bare kan brukes når de er innblandet i fôrvarer på de vilkår som er fastsatt i forskriften.
 
 Likevel kan tilsetningsstoffer som tilhører andre grupper enn «antibiotika», «koksidiostatika» og «vekstfremmende stoffer», brukes dersom de gis på annen måte enn innblandet i fôrvarer, forutsatt at denne måten er fastsatt i forskriften. Landbrukstilsynet skal særlig forsikre seg om at tilsetningsstoffene ikke tilsettes fôrmidler og ublandede fôrvarer, med mindre slik bruk er uttrykkelig fastsatt i forskriften.
+
+7\. *Registrering*
 
 Når godkjenning blir gitt for tilsetningsstoffer i gruppene «antibiotika», «koksidiostatika» og «vekstfremmende stoffer», skal den som er ansvarlig for markedsføringen, tildeles et godkjenningsnummer, og tilsetningsstoffet skal tildeles et EF-registreringsnummer.
 
 Andre godkjente tilsetningsstoffer skal tildeles et EF-registreringsnummer.
 
+8\. *Monografier og identifikasjonskort*
+
 Landbrukstilsynet skal sørge for at søkeren innleverer en monografi for tilsetningsstoffene som skal knyttes til ansvarlig for omsetning (jf. direktiv [87/153/EØF](eu/31987l0153)). Monografien skal brukes til å avgjøre om tilsetningsstoffet som det er søkt godkjenning til omsetning for, er en nyskapning eller en etterlikning, samt undersøke om tilsetningsstoffet som skal omsettes faktisk er det samme som var beskrevet i søknaden som lå til grunn for godkjenningen i EU.
 
 Landbrukstilsynet skal påse at søkeren framlegger et identifikasjonskort med oversikt over tilsetningsstoffets kjennetegn og egenskaper (jf. direktiv [87/153/EØF](eu/31987l0153)).
 
+9\. *Opplysninger om produsenter av tilsetningsstoffer*
+
 Landbrukstilsynet skal sørge for at den som er ansvarlig for omsetning av tilsetningsstoffer i gruppene «antibiotika», «koksidiostatika» og «vekstfremmende stoffer» snarest mulig oppgir til ESA navn (eller firmanavn) og adresse (eller forretningskontor) på produsenten de har gitt rett til å framstille tilsetningsstoffet, ev. også dennes representant i EØS dersom produsenten er etablert i et tredjeland.
 
+10\. *Sikkerhet og tiltak*
+
 Dersom Landbrukstilsynet får ny informasjon eller ved vurdering av eksisterende informasjon, finner ut at et tilsetningsstoff utgjør en trussel for dyrs eller menneskers helse, kan Landbrukstilsynet midlertidig suspendere eller begrense stoffet. Landbrukstilsynet skal umiddelbart underrette de øvrige EØS-landene og ESA om dette, og begrunne aksjonen.
+
+11\. *Kontroll av uønsket samspill (uønskede vekselvirkninger)*
 
 Dersom det oppdages uforutsette, uønskede samspillseffekter mellom tilsetningsstoffer i gruppene «antibiotika», «koksidiostatika» og «vekstfremmende stoffer», og andre tilsetningsstoffer eller veterinærmedisinske preparater, skal Landbrukstilsynet kreve at den som er ansvarlig for omsetning (eller dennes representant i EØS når tilsetningsstoffet kommer fra et tredjeland), innhenter alle relevante opplysninger og videresender disse til Landbrukstilsynet.
 
@@ -158,11 +222,19 @@ Dersom det oppdages uforutsette, uønskede samspillseffekter mellom tilsetningss
 
 ### § 5. Godkjenning
 
+1\. *Godkjenning av produsenter og forhandlere*
+
 Godkjenning gis for hvert aktivitetsområde i henhold til forskriftens [§ 4](forskrift/2001-07-04-820/§4). Landbrukstilsynet kan nekte å godkjenne en virksomhet som håndterer fôrmidler med et for høyt innhold av uønskede stoffer eller produkter.
+
+2\. *Søknadsprosedyre for produsenter og forhandlere*
 
 Landbrukstilsynet skal behandle godkjenningssøknader fra nye produsenter og forhandlere innen seks måneder etter at søknadene er innsendt.
 
+3\. *Register over godkjente produsenter og forhandlere*
+
 Når det er fastslått at virksomheten tilfredsstiller kravene for godkjenning tildeles den et individuelt godkjenningsnummer som identifiserer og knytter virksomheten til det aktuelle aktivitetsområdet. For hvert aktivitetsområde skal Landbrukstilsynet føre et register over godkjente virksomheter i henhold til vedlegg til kap. 3 mal for register og liste over virksomhetene I.1. Forhandlere som ikke tar direkte fysisk hånd om produktene, kan unntas kontroll på stedet når de avlegger erklæring om sin aktivitet. Landbrukstilsynet plikter å oppdatere registrene iht. bestemte retningslinjer.
+
+4\. *Publisering og distribuering av registeret over godkjente produsenter og forhandlere*
 
 Landbrukstilsynet skal publisere listen over godkjente produsenter og forhandlere første gang i november år 2001, og deretter, senest 30. november hvert år, en liste over endringer. Hvert femte år, første gang 2006, skal en oppdatert liste publiseres.
 
@@ -172,11 +244,17 @@ Hvert år, innen 31. desember, skal Landbrukstilsynet sende EØS-landene en list
 
 ### § 6. Registrering
 
+1\. *Liste over registrerte produsenter og forhandlere*
+
 For hvert aktivitetsområde skal Landbrukstilsynet føre en liste over registrerte virksomheter som er tildelt et registreringsnummer som identifiserer virksomheten til det aktuelle aktivitetsområdet i henhold til vedlegg til kap. 3 mal for register og liste over virksomhetene I.2. Landbrukstilsynet plikter å oppdatere registrene iht. bestemte retningslinjer.
+
+2\. *Distribuering av listen over registrerte produsenter og forhandlere*
 
 Før 31. desember hvert år skal listene over produsenter og forhandlere som inneværende år er registrert, i henhold til forskriftens [§ 5](forskrift/2001-07-04-820/§5) pkt. 1, 2 og 3, sendes ESA. Hvert femte år skal en oppdatert liste sendes. Ved forespørsel, skal hele eller deler av listene oversendes de andre EØS-landene.
 
 ### § 7. Forenklet prosedyre
+
+1\. *Tilsetningstoffer godkjent som legemiddel*
 
 Når en virksomhet produserer og/eller håndterer et tilsetningsstoff som allerede er godkjent som et legemiddel iht. veterinærregelverket (direktiv [81/851/EØF](eu/31981l0851)) er Landbrukstilsynet ikke forpliktet til å kontrollere kravene for godkjenning, med unntak av pkt. 3.4, 3.5, 3.6.2 og 3.7 i forskriftens vedlegg 13A.
 
@@ -184,15 +262,21 @@ Når en virksomhet produserer og/eller håndterer et tilsetningsstoff som allere
 
 ### § 8. Beregning av gebyr
 
+1\. *Gebyrets omfang*
+
 Landbrukstilsynet skal sørge for at det innkreves et gebyr til dekning av kostnadene som Landbrukstilsynet måtte ha ved å opptre som rapportør for tilsetningsstoffer som skal ha godkjenning knyttet til den som er ansvarlig for omsetningen, dvs. antibiotika, koksidiostatika, vekstfremmende stoffer (BSA(Brand Specific Approval)-stoffer). Jf. instruksens [§ 4](forskrift/2001-07-04-820/§4).2, og § 41 i fôrvareforskriften.
 
 Landbrukstilsynet skal sørge for at det innkreves et gebyr til dekning av kostnadene i forbindelse med godkjenning av virksomheter. Jf. instruksens [§ 5](forskrift/2001-07-04-820/§5).1, og § 41 i fôrvareforskriften.
 
 Ved beregningen av gebyrene for å opptre som rapportør, eller for godkjenning, skal bare kostnadene nevnt i vedlegg til kap. 4 om innkreving av gebyrer, tas i betraktning.
 
+2\. *Refusjon*
+
 Direkte eller indirekte tilbakebetaling fra medlemsstatene av gebyrene som fastlagt her, er forbudt.
 
 En medlemsstat kan imidlertid bruke faste satser ved vurderingen av enkelttilfeller uten at det skal anses som indirekte tilbakebetaling.
+
+3\. *Rapportering*
 
 Landbrukstilsynet skal utarbeide rapporter om gjennomføringen av gebyrinnkrevingen med opplysning om:størrelsen på gebyrene eller de faste satsene som innkreves i hvert tilfelle, iht. for å opptre som rapportør, eller for godkjenning;beregningsmetoden for gebyrene i forhold til faktorene oppført på listen i vedlegg til kap. 4 om innkreving av gebyrer.
 
@@ -202,17 +286,95 @@ Denne instruks trer i kraft straks. Fra samme tid oppheves instruks til Landbruk
 
 ## Vedlegg til kap. 3
 
+*Mal for register og liste over virksomhetene (Kapittel I)*
+
+I.1 *Register over godkjente virksomheter*
+
+(artikkel 5 nr. 1 i direktiv [95/69/EF](eu/31995l0069))
+
+| *1* | *2* | *3* | *4* | *5* | *6* |
+| --- | --- | --- | --- | --- | --- |
+| *Godkjenningsnummer* | *Virksomhetskode1* | *Navn eller forretningsnavn2* | *Adresse3* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)4* | *Merknader* |
+|  |  |  |  |  |  |
+
+I.2 *Liste over registrerte virksomheter*
+
+(artikkel 10 nr. 1 i direktiv [95/69/EF](eu/31995l0069))
+
+| *1* | *2* | *3* | *4* | *5* | *6* |
+| --- | --- | --- | --- | --- | --- |
+| *Registreringsnummer* | *Virksomhetskode5* | *Navn eller forretningsnavn6* | *Adresse7* | *Merknader til artikkel 13 i direktiv [70/524/EØF](eu/31970l0524*)8* | *Merknader* |
+|  |  |  |  |  |  |
+
+1
+
+A = produsenter nevnt i artikkel 2 nr. 2 bokstav a) i direktiv [95/69/EF](eu/31995l0069).
+
+B = produsenter nevnt i artikkel 2 nr. 2 bokstav b) i direktiv [95/69/EF](eu/31995l0069).
+
+C = produsenter nevnt i artikkel 2 nr. 2 bokstav c) i direktiv [95/69/EF](eu/31995l0069).
+
+D = produsenter nevnt i artikkel 2 nr. 2 bokstav d) i direktiv [95/69/EF](eu/31995l0069).
+
+E = produsenter nevnt i artikkel 2 nr. 2 bokstav e) i direktiv [95/69/EF](eu/31995l0069).
+
+F = produsenter nevnt i artikkel 2 nr. 2 bokstav f) i direktiv [95/69/EF](eu/31995l0069).
+
+I = forhandler nevnt i artikkel 3 nr. 1 i direktiv [95/69/EF](eu/31995l0069).
+
+2 Navn eller forretningsnavn på virksomheten og eventuelt på representanten.
+
+3 Adresse til virksomheten og eventuelt til representanten.
+
+4
+
+1\) = «Produsenter av fôrblandinger som har godkjenning til å bruke ned til 0,05 vektprosent premiks i fôrblandingene» nevnt i artikkel 13 nr. 3 i direktiv [70/524/EØF](eu/31970l0524*).
+
+2\) = «Produsenter av fôrblandinger som har godkjenning til å tilsette antibiotika, koksidiostatika og andre stoffer med legemiddelvirkning samt vekstfremmende stoffer direkte til fôrblandinger» nevnt i artikkel 13 nr. 4 bokstav b) i direktiv [70/524/EØF](eu/31970l0524*).
+
+3\) = «Produsenter av fôrblandinger som har godkjenning til å tilsette kobber, selen og vitamin A og D direkte til fôrblandinger» nevnt i artikkel 13 nr. 4 bokstav b) i direktiv [70/524/EØF](eu/31970l0524*).
+
+5
+
+A = produsenter nevnt i artikkel 7 nr. 2 bokstav a) i direktiv [95/69/EF](eu/31995l0069).
+
+B = produsenter nevnt i artikkel 7 nr. 2 bokstav b) i direktiv [95/69/EF](eu/31995l0069).
+
+C = produsenter nevnt i artikkel 7 nr. 2 bokstav c) i direktiv [95/69/EF](eu/31995l0069).
+
+D = produsenter nevnt i artikkel 7 nr. 2 bokstav d) i direktiv [95/69/EF](eu/31995l0069).
+
+I = forhandler nevnt i artikkel 8 nr. 1 i direktiv [95/69/EF](eu/31995l0069).
+
+6 Navn eller forretningsnavn på virksomheten og eventuelt på representanten.
+
+7 Adresse til virksomheten og eventuelt til representanten.
+
+8
+
+1\) = «Produsenter av fôrblandinger som har godkjenning til å bruke ned til 0,05 vektprosent premiks i fôrblandingene» nevnt i artikkel 13 nr. 3 i direktiv [70/524/EØF](eu/31970l0524*).
+
+2\) = «Produsenter av fôrblandinger som har godkjenning til å tilsette kobber, selen og vitamin A og D direkte til fôrblandinger» nevnt i artikkel 13 nr. 4 bokstav b) i direktiv [70/524/EØF](eu/31970l0524*).
+
+*Forklaring til godkjennings- og registreringsnummer (Kapittel II)*
+
 Godkjenningsnummeret nevnt i artikkel 5 nr. 1 og registreringsnummeret nevnt i artikkel 10 nr. 1 i direktiv [95/69/EF](eu/31995l0069) skal ha følgende form:Tegnet «α» dersom produsenten eller forhandleren er godkjent.ISO-koden for medlemslandet eller tredjelandet der produsenten eller forhandleren har sin beliggenhet.Det nasjonale referansenummeret med høyst åtte alfanumeriske tegn.
 
 ## Vedlegg til kap. 4
 
 Fullstendig liste over kostnadene som skal tas i betraktning ved beregningen av gebyrene for å opptre som rapportør, eller for godkjenning, innebærer:
 
+*Personalkostnader*
+
 - lønninger, herunder eventuelle tillegg, pensjonskostnader, kostnader til forsikring av personalet.
+
+*Administrasjonskostnader*
 
 - kostnader til lokaler, herunder leie, oppvarming, lys og vann, møbler, vedlikehold, forsikring, renter, nedbetaling av lån,
 - felleskostnader, herunder kontorutstyr, skrivesaker, porto, trykking, telekommunikasjon, opplæring, tidsskriftabonnementer,
 - reisekostnader og andre kostnader i den forbindelse.
+
+*Tekniske kostnader*
 
 - tekniske kostnader (f.eks. kostnader til laboratorietjenester, prøvetaking),
 - kostnader til konsulenttjenester.

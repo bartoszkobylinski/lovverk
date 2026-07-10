@@ -136,57 +136,107 @@ Ved lasting av bensin på bensinstasjoner og i tanker med fast tak for mellomlag
 
 ## Vedlegg IV. Spesifikasjoner for bunnfylling, dampretur og overfyllingsvern for europeiske tankkjøretøyer
 
+1.*Koplinger*
+
+1.1.
+
 Væskekoplingen på lastearmen skal være en hunnkopling som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet i henhold tilAPI recommended practice 1004 seventh edition, November 1988
 
 Bottom Loading and Vapour Recovery for MC-306 Tank Motor Vehicles (Section 2.1.1.1 – Type of Adapter used for Bottom Loading).
+
+1.2.
 
 Dampreturkoplingen på lasteinnretningens dampreturslange skal være en hunnkopling med kam og not som passer til et firetommers (101,6 mm) API-overgangsstykke på kjøretøyet, i henhold tilAPI recommended practice 1004 seventh edition, November 1988
 
 Bottom Loading and Vapour Recovery for MC-306 Tank Motor Vehicles (Section 4.1.1.2 – Vapour Recovery Adapter).
 
+2.*Lastevilkår*
+
+2.1.
+
 Som beregningsgrunnlag skal det benyttes en fyllehastighet på 2.500 liter per minutt for hver lastearm.
 
 Det kan benyttes en tretommers koblingsenhet for væske. Som beregningsgrunnlag skal det da benyttes en maksimal fyllehastighet på 1.800 liter per minutt for hver lastearm.
 
+2.2.
+
 Ved høyeste gjennomstrømningsmengde på terminalen må lasteinnretningens dampretursystem, inklusiv gjenvinningsanlegget, ikke skape et høyere mottrykk enn 55 millibar. Dette mottrykket skal måles ved tilkoblingsenheten på lasteinnretningen.
+
+2.3.
 
 Alle kjøretøyer godkjent for bunnfylling skal være utstyrt med en merkeplate som angir det høyeste tillatte antall lastearmer som kan brukes samtidig. Lekkasje fra tankrommenes trykk-/vakuumventiler ved et mottrykk på 55 millibar som angitt i punkt 2.2. må ikke forekomme.
 
+3.*Kopling av kjøretøyets jording og overfyllingskontroll*
+
 Lasteinnretningen skal være utstyrt med en kontrollenhet for overfyllingsvern som ved tilkopling til kjøretøyet skal gi et funksjonssikkert startsignal for lasting, forutsatt at ingen av tankrommenes overfyllingsfølere registrerer et høyt nivå.
+
+3.1.
 
 Kjøretøyet skal tilkoples lasteinnretningens kontrollenhet via en tipolet standard elektrisk kopling. Hannkoplingen skal plasseres på kjøretøyet og hunnkoplingen festes til en kabel tilkoplet lasteinnretningens kontrollenhet.
 
+3.2.
+
 Følerne for høyt nivå plassert på kjøretøyet skal være enten toleders termistorfølere, toleders optiske følere eller femleders optiske følere. Andre systemer kan benyttes under forutsetning av at de er funksjonssikre.
+
+3.3.
 
 Minst en lasteinnretning skal utstyres med et overfyllingsvern for både toleder- og femledersystemer som beskrevet i punkt 3.2. (Lasteinnretningens kontrollenhet skal være kompatibel med termistorer som har en negativ temperaturkoeffisient.)
 
 Det er også tillatt å benytte lasteinnretninger med kontrollenheter som bare er tilpasset toleders termistorfølere med en positiv temperaturkoeffisient. I slike tilfeller må minst en lasteinnretning ha en kontrollenhet som er tilpasset optiske sensorer.
 
+3.4.
+
 Kjøretøyet skal forbindes med lasteinnretningen via følernes felles returledning. Denne skal koples til leder nr. 10 på hannkoplingen på chassiet. Leder nr. 10 på hunnkoplingen skal koples til kontrollenheten, som igjen skal tilkoples lasteinnretningens jording.
+
+3.5.
 
 Alle kjøretøyer godkjent for bunnfylling skal være utstyrt med en merkeplate (se punkt 2.3) som angir hvilken type føler som er montert (det vil si toleders eller femleders følere).
 
+4.*Plasseringen av tilkoplingene*
+
+4.1.
+
 Lasteinnretningens laste- og dampreturutstyr skal være konstruert på grunnlag av kjøretøyets område for tilkoplinger.
+
+4.1.1.
 
 Høyden på væskekoplingenes midtlinje skal være høyst 1,4 meter (tom) og minst 0,5 meter (full) med en ønskelig høyde på mellom 0,7 og 1 meter.
 
+4.1.2.
+
 Koplingenes horisontale innbyrdes avstand skal ikke være mindre enn 0,25 meter (minste ønskelige avstand er 0,3 meter).
+
+4.1.3.
 
 Alle væskekoplinger skal plasseres innenfor et område som ikke overstiger 2,8 meter i lengde.
 
+4.1.4.
+
 Dampreturkoplingen bør plasseres fortrinnsvis til høyre for væskekoplingene og i en høyde på høyst 1,5 meter (tom) og minst 0,5 meter (full).
+
+4.2.
 
 Jordings-/overfyllingskoplingen skal plasseres til høyre for væske- og dampreturkoplingene og i en høyde på høyst 1,5 meter (tom) og minst 0,5 meter (full).
 
+4.3.
+
 Nevnte koplingssystem skal plasseres på bare én side av kjøretøyet.
+
+5.*Forriglingsutstyr*
+
+5.1.*Jording/overfyllingskontroll*
 
 Lasting skal ikke tillates med mindre den kombinerte jordings/overfyllingskontrollenheten har gitt signal for dette.
 
 Ved overfylling eller tap av kjøretøyets jording skal lasteinnretningens stengeventil lukkes automatisk.
 
+5.2.*Dampreturkontroll*
+
 Lasting skal ikke tillates med mindre dampreturslangen er tilkoplet kjøretøyet og dampen uhindret kan passere fra kjøretøyet til anleggets retursystem.
 
 ## Vedlegg V. Bestemmelser om bensinpumper
+
+*Minstekrav til gjenvinning av bensindamp og periodisk kontroll*
 
 1. Fase II-bensindampgjenvinningssystemet skal minimum ta opp 85 % av bensindampen. Dette skal være attestert av fabrikanten av systemet i henhold til NS-EN 16321-1:2013.
 2. Gjenvunnet bensindamp som overføres til en lagringstank på bensinstasjon skal ha et damp/bensin-forhold som skal være likt eller større enn 0,95 og mindre eller lik 1,05.

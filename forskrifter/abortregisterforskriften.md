@@ -196,6 +196,8 @@ Forskriften trer i kraft 1. januar 2008.
 
 Fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter:
 
+[Forskrift 15. juni 2001 nr. 635](forskrift/2001-06-15-635) om svangerskapsavbrudd (abortforskriften) endres slik: – – –
+
 ## Merknader til forskrift om innsamling og behandling av helseopplysninger i register over svangerskapsavbrudd
 
 ### Til § 1-1 Hjemmelsgrunnlag for Abortregisteret

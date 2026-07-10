@@ -24,7 +24,18 @@ eu_basis: []
 
 ## § 1. Faglig innhold
 
-Videreutdanning i helsefremmende og forebyggende arbeid skal bestå av følgende hoved- og delemner med angitte studiepoeng:Hovedemne 1Samfunn og helse18 studiepoengHovedemne 2Rammebetingelser og organisering12 studiepoengHovedemne 3Helsefremmende og forebyggende arbeid30 studiepoeng*Totalt**60 studiepoeng*Delemner under hovedemne 3:3 A:Miljørettet arbeid6-18 studiepoeng3 B:Befolkningsrettet arbeid6-18 studiepoeng3 C:Kvalitetsutvikling og utredningsarbeid6 studiepoeng
+Videreutdanning i helsefremmende og forebyggende arbeid skal bestå av følgende hoved- og delemner med angitte studiepoeng:
+
+|  |  |  |
+| --- | --- | --- |
+| Hovedemne 1 | Samfunn og helse | 18 studiepoeng |
+| Hovedemne 2 | Rammebetingelser og organisering | 12 studiepoeng |
+| Hovedemne 3 | Helsefremmende og forebyggende arbeid | 30 studiepoeng |
+| *Totalt* |  | *60 studiepoeng* |
+| Delemner under hovedemne 3: |  |  |
+| 3 A: | Miljørettet arbeid | 6-18 studiepoeng |
+| 3 B: | Befolkningsrettet arbeid | 6-18 studiepoeng |
+| 3 C: | Kvalitetsutvikling og utredningsarbeid | 6 studiepoeng |
 
 ## § 2. Fastsetting av fagplan
 

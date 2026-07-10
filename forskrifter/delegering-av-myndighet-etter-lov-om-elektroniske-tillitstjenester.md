@@ -24,9 +24,13 @@ eu_basis: []
 
 ## I
 
+*Opphør av delegering av Kongens myndighet etter lov om elektroniske tillitstjenester til Nærings- og handelsdepartementet*
+
 Pkt. I av [kgl.res. 15. juni 2018 nr. 874](forskrift/2018-06-15-874) om delegering av Kongens myndighet etter [lov 15. juni 2018 nr. 44](lov/2018-06-15-44) om elektroniske tillitstjenester, oppheves.
 
 ## II
+
+*Delegering av Kongens myndighet etter lov om elektroniske tillitstjenester til Kommunal- og moderniseringsdepartementet*
 
 Kommunal- og moderniseringsdepartementet delegeres myndighet etter følgende bestemmelser i [lov 15. juni 2018 nr. 44](lov/2018-06-15-44) om elektroniske tillitstjenester:
 

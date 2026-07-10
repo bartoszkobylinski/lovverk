@@ -27,3 +27,5 @@ Ved [kgl.res. av 21. november 1975 nr. 4](forskrift/1975-11-21-4) er det bl.a. b
 I resolusjonens pkt. 7 er det forutsatt at Klima- og miljødepartementet kan delegere den myndighet departementet har fått iflg. resolusjonen til Direktoratet for vilt og ferskvannsfisk.1 Under henvisning til dette delegeres hermed til Direktoratet for vilt og ferskvannsfisk den myndighet som Klima- og miljødepartementet i henhold til det foran anførte har fått ved nevnte resolusjon. Delegeringen medfører også at Direktoratet for vilt og ferskvannsfisk blir klageinstans etter § 10, 2. ledd når det gjelder vedtak av fjellstyret med hjemmel i kap. XI og XII.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+1 Nå Direktoratet for naturforvaltning.

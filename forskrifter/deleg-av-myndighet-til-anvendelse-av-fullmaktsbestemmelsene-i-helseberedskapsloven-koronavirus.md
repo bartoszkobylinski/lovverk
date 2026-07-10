@@ -27,3 +27,5 @@ Det ble i statsråd 6. mars 2020 vedtatt at fullmaktene i [lov 23. juni 2000 nr.
 Helse- og omsorgsdepartementet delegerer ved dette departementets myndighet etter § 3-1, § 4-1, § 5-1 og § 5-2 til Helsedirektoratet.
 
 Helsedirektoratet holder departementet orientert om eventuell anvendelse av fullmaktene i direktoratets daglige situasjonsrapporter til departementet vedrørende koronautbruddet.
+
+1 Se noten til [vedtak 6. mars 2020 nr. 238](forskrift/2020-03-06-238) for informasjon om forlenget virketid. Lovdatas anmerkning.

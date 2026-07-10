@@ -286,27 +286,109 @@ Stag, kabler og andre forankringsanordninger for luftfartshinder skal merkes med
 
 > Endret ved forskrifter [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
 
+*Preaksepterte fargekoder for fargemerking (RAL) og reflekterende fargemerking (Reflecting Sheeting) av luftfartshinder*
+
+| *RAL-kode* | *Betegnelse* | *Type luftfartshinder* |
+| --- | --- | --- |
+| RAL 1016 | Sulfur yellow | Alle typer hinder |
+| RAL 2010 | Signal orange | Alle typer hinder |
+| RAL 3001 | Signal red | Alle typer hinder |
+| RAL 3020 | Traffic red | Alle typer hinder |
+| RAL 3024 | Luminous red | Alle typer hinder |
+| RAL 7035 | Light grey | Vindturbiner |
+| RAL 7038 | Agate grey | Vindturbiner |
+| RAL 9003 | Signal white | Alle typer hinder unntatt vindturbiner |
+| RAL 9010 | Pure white | Alle typer unntatt vindturbiner |
+| RAL 9016 | Traffic white | Alle typer unntatt vindturbiner |
+| Reflecting Sheeting | Diamond Grade 4090\* (Signal white) | Alle typer hinder unntatt vindturbiner |
+| Reflecting Sheeting | Diamond Grade 4092\* (Signal red) | Alle typer hinder |
+| Reflecting Sheeting | Fluorscent Yellow Green 4083\* | Alle typer hinder |
+| Reflecting Sheeting | Fluorscent Orange 4084\* | Alle typer hinder |
+| Reflecting Sheeting | Diamond Grade Fluorescent Yellow 4081\* | Alle typer hinder |
+
+\* Eller tilsvarende fra annen leverandør.
+
 ## Vedlegg 2. Hinderlys luftfartshinder
 
 > Endret ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
+
+Oversikt over hinderlys til bruk ved merking av luftfartshinder
+
+| *Lystype* | *Farge* | *Signaltype* | *Blink per minutt* | *A* | *B* | *C* | *Vertikal spredning* | *-10 grader* | *-1 grad (f)* | *+/- 0 grad* | *+ 6 grader (g)* | *+ 10 Grader (g)* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lavintensitet, type A | Rødt | Fast eller blinkende | N/A | N/A | 10 cd mnm | 10 cd mnm | 10 grader | – | – | – | 10 mnm | 10mnm |
+| Lavintensitet, type B | Rødt | Fast eller blinkende | N/A | N/A | 32 cd mnm | 32 cd mnm | 10 grader | – | – | – | 32 mnm | 32 mnm |
+| Mellomintensitet, type A | Hvitt | Fast eller blinkende | 20–60 | 20 000 cd +/- 25 % | 20 000 cd +/- 25 % | 2 000 cd +/- 25 % | 3 grader mnm | 3 % max | 50 % mnm 75 % max | 100 % mnm | – | – |
+| Mellomintensitet, type B | Rødt | Fast eller blinkende | 20–60 | N/A | N/A | 2 000 cd +/- 25 % | 3 grader mnm | – | 50 % mnm 75 % max | 100 % mnm | – | – |
+| Mellomintensitet, type C | Rødt | Fast eller blinkende | N/A | N/A | N/A | 2 000 cd +/- 25 % | 3 grader mnm | – | 50 % mnm 75 % max | 100 % mnm | – | – |
+| Høyintensitet, type A | Hvitt | Blinkende | 40–60 | 200 000 candela +/- 25 % | 20 000 candela +/- 25 % | 2 000 candela +/- 25 % | 3–7 grader | 3 % max | 50 % mnm 75 % max | 100 % mnm | – | – |
+| Høyintensitet, type B | Hvitt | Blinkende | 40–60 | 100 000 candela +/- 25 % | 20 000 candela +/- 25 % | 2 000 candela +/- 25 % | 3–7 grader | 3 % max | 50 % mnm 75 % max | 100 % mnm | – | – |
+
+Kolonne A: Maksimal lysintensitet (toppverdi i hvert blink oppgitt i candela = cd) med bakgrunnsbelysning over 500 candela pr kvadratmeter
+
+Kolonne B: Maksimal lysintensitet (toppverdi i hvert blink oppgitt i candela = cd) med bakgrunnsbelysning mellom 500 og 50 candela pr kvadratmeter
+
+Kolonne C: maksimal lysintensitet (toppverdi i hvert blink oppgitt i candela = cd) med bakgrunnsbelysning under 50 candela per kvadratmeter.
+
+mnm = minimum max = maksimum N/A = Not applicable = ikke relevant
+
+(f) = intensiteten som en prosent av laveste toleranse av maksimal lysintensitet oppgitt i kolonnene A til C
+
+(g) = i tillegg til spesifiserte verdier skal lyset gi varsel ved elevasjoner mellom 0 og 50 grader.
 
 ## Vedlegg 3. Merking av kryssende luftspenn
 
 > Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024).
 
+*Til forskriftens [§ 9 (7)](forskrift/2014-07-15-980/§9/ledd/7).*
+
+Kravet til merking i [§ 9 (7)](forskrift/2014-07-15-980/§9/ledd/7) kan oppfylles ved bruk av *skilt, maling eller annet materiale med reflekterende overflate.* I vedlegg 3 er begrepet «stolper/master» brukt som samlebetegnelse på alle stolper, master eller andre fagverkskonstruksjoner som faller inn under kravet i [§ 9 (7)](forskrift/2014-07-15-980/§9/ledd/7).
+
+Bestemmelsen er utformet for at linjeeiere skal kunne utføre merkingen hvor HMS-krav til personell som skal klatre i stolper/master, egenskaper ved stolpene/mastene og/eller lokale forhold gjør det mest hensiktsmessig med én form for merking fremfor en annen.
+
+*Hovedsaken er at merkingen skal være godt synlig for luftfartøy ved linjebefaring, for å varsle om at man ved flyging langs luftspennet nærmer seg kryssende overliggende luftspenn.*
+
+**A) Dersom kryssende luftspenn merkes ved å male på stolper/master gjelder følgende:**
+
+*Tekniske spesifikasjoner, krav til maling:*
+
 - Det skal brukes fargene *signalrød* og *signalgul*, iht. vedlegg 1 – Preaksepterte fargekoder for fargemerking av luftfartshinder.
 - All fargemerking skal ha *reflekterende* egenskaper, iht § 15 og vedlegg 1.
+
+Stolpene/mastene skal males så høyt oppe som mulig. Stolpene/mastene males med annenhver rød og gul farge i et sammenhengende fargefelt, som vist på figur 1. Merkingen skal som et minimum utføres på den siden/halvdelen av stolpen/masten som vender mot helikopterpiloten/fører av luftfartøyet, ved flyging i forbindelse med linjebefaring.
+
+Stolpene/mastene males for å angi en nedtelling før det kryssende luftspennet, slik at tredje siste stolpe/mast males med *tre* røde felt, nest siste stolpe/mast males med *to* røde felt, og siste stolpe/mast før det kryssende luftspennet males med *ett* rødt felt.
+
+Hvert av de malte fargefeltene, rødt og gult, skal ha en minstehøyde på 20 cm, slik at stolpene/mastene får følgende totale minimumshøyde på fargefeltene:
 
 - Stolpene/mastene med *tre* røde felt får et fargefelt på minimum: 7 felt x 0,20 m = 1,40 meter
 - Stolpene/mastene med *to* røde felt får et fargefelt på minimum: 5 felt x 0,20 m = 1,00 meter.
 - Stolpene/mastene med *ett* rødt felt får et fargefelt på minimum: 3 felt x 0,20 m = 0,60 meter.
 
+*Figur 1.*
+
+**B) Dersom kryssende luftspenn fargemerkes ved bruk av annet reflekterende materiale gjelder følgende:**
+
+*Tekniske spesifikasjoner, krav til annen fargemerking:*
+
 - Det skal brukes fargene *signalrød* og *signalgul*, iht. vedlegg 1 – Preaksepterte fargekoder for fargemerking av luftfartshinder.
 - All fargemerking skal ha *reflekterende* egenskaper, iht. § 15 og vedlegg 1.
+
+Stolpene/mastene skal fargemerkes så høyt oppe som mulig. Stolpene/mastene fargemerkes med annenhver rød og gul farge i et sammenhengende felt, som vist på figur 1. Merkingen skal som et minimum utføres på den siden/halvdelen av stolpen/masten som vender mot helikopterpiloten/ fører av luftfartøyet, ved flyging i forbindelse med linjebefaring.
+
+Stolpene/mastene fargemerkes for å angi en nedtelling før det kryssende luftspennet, slik at tredje siste stolpe/mast merkes med *tre* røde felt, nest siste stolpe/mast merkes med *to* røde felt, siste stolpe/mast før det kryssende luftspennet merkes med *ett* rødt felt.
+
+Hvert av fargefeltene, rødt og gult, skal ha en minstehøyde på 20 cm, slik at stolpene/mastene får følgende totale minimumshøyde på fargefeltene:
 
 - Stolpene/mastene med tre røde felt får et fargefelt på minimum: 7 felt x 0,20 m = 1,40 meter
 - Stolpene/mastene med to røde felt får et fargefelt på minimum: 5 felt x 0,20 m = 1,00 meter.
 - Stolpene/mastene med ett rødt felt får et fargefelt på minimum: 3 felt x 0,20 m = 0,60 meter. *Fargemerkingen utføres tilsvarende som for de malte feltene i figur 1 ovenfor.*
+
+**C) Dersom kryssende luftspenn merkes ved bruk av skilt gjelder følgende:**
+
+Varselskilt skal monteres *vertikalt høyt oppe* eller *horisontalt på toppen* av de *tre siste stolpene eller mastene* tilhørende det underliggende luftspennet, før møtende kryssende overliggende luftspenn. Merkingen skal utføres fra hver side av det kryssende overliggende luftspennet.
+
+*Følgende spesifikasjoner gjelder for varselskiltene:*
 
 1. Varselskiltene kan være enkeltstående skilt, eller en sammenhengende plate med skilt. Skiltene angir en nedtelling før det kryssende luftspennet, slik at skilt på tredje siste stolpe/mast har *tre* røde felt, skilt på nest siste stolpe/mast har *to* røde felt, skilt på siste stolpe/mast før det kryssende luftspennet merkes har *ett* rødt felt.
 2. Varselskiltene skal ha rød og gul reflekterende farge, og være laget i aluminium, eller annet hensiktsmessig solid materiale.
@@ -317,14 +399,72 @@ Stag, kabler og andre forankringsanordninger for luftfartshinder skal merkes med
 7. Kravet om merking gjelder selv om selve kryssingen er kabel i jorden.
 8. Figur 2 angir visuelt merking ved bruk av skilt.
 
+*Ved bruk av skilt for å varsle om møtende kryssende overliggende luftspenn, skal følgende skilt monteres:*
+
+*Figur 2.*
+
+Eller
+
+*For å varsle om møtende nærføring av høyereliggende linje/luftspenn, skal stolper eller master tilhørende luftspenn som er gjenstand for linjebefaring med luftfartøy, og der den horisontale avstanden til høyere linje/luftspenn er 100 meter eller mindre, merkes på følgende måte:*
+
+*Figur 3.*
+
+Eller
+
+|  |
+| --- |
+| *For å varsle om møtende nærføring av høyereliggende linje/luftspenn, kan stolper eller master også merkes ved bruk av maling eller annet reflekterende materiale, på den måte som angitt i punkt A) og B).* |
+
 ## Vedlegg 4. Merking av kraner
 
 > Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+*Ref [§ 15](forskrift/2014-07-15-980/§15) og [§ 16](forskrift/2014-07-15-980/§16)*
+
+*Figur 1.*
+
+Kran med flat utforming på toppen. Ytterpunkter markeres med hinderlys. Dersom kranen har en høyde på 100 meter eller mer skal det og monteres lys på mellomliggende nivå. Den vertikale avstand mellom lysene skal ikke overstige 75 meter, ref. [§ 16 (4) (d)](forskrift/2014-07-15-980/§16/ledd/3/bokstav/d). Kraner over 60 meter skal i tillegg merkes med horisontale bånd, ref. [§ 15 (3)](forskrift/2014-07-15-980/§15/ledd/3), og [vedlegg 6](forskrift/2014-07-15-980/vedlegg6).
+
+*Figur 2.*
+
+Kran med kongetopp. Ytterpunkter og kongetopp er markert med hinderlys. Dersom kranen har en høyde på 100 meter eller mer skal det og monteres lys på mellomliggende nivå (som vist i illustrasjon for kran med flat topp):
+
+*Figur 3.*
+
+Mobilkran skal merkes med hinderlys øverst i bomspiss:
+
+*Figur 4.*
+
+Illustrasjon av forskjellige farger på luftfartshinder som har krav om magebelter med reflekterende farger. Det skal alltid være god kontrast mellom magebeltene og luftfartshinderet.
 
 ## Vedlegg 5. Merking med hinderlys
 
 > Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
 
+*Til forskriftens [§ 16](forskrift/2014-07-15-980/§16).*
+
+*Figur 1.*
+
+Eksempel på beregning av antall hinderlys på punktobjekt over 150 meter. Bilde 1. Punktobjekt skal ha lys på toppen, og lys på to mellomliggende nivå likt fordelt fra topp til terreng, totalt 3 sett med lys. Bilde 2. På vindturbiner skal lysene fordeles mellom topp nacelle til terreng, totalt 3 sett med lys.
+
+*Figur 2.*
+
+Illustrasjonen viser både lys, markører og magebelter på en bro som både er et punktobjekt og et luftspenn. Det er også vist veibelysning på brobanen. Det er her ikke vist lys på mellomliggende nivå på brotårnet, som det også er krav til. Se figur 1, over.
+
 ## Vedlegg 6. Merking med farger
 
 > Tilføyd ved forskrift [19 des 2023 nr. 2158](forskrift/2023-12-19-2158) (i kraft 1 jan 2024), endret ved forskrift [10 des 2025 nr. 2504](forskrift/2025-12-10-2504) (i kraft 1 jan 2026).
+
+*Til forskriftens [§ 15](forskrift/2014-07-15-980/§15)*
+
+*Figur 1.*
+
+Eksempel på endemast der alle deler er fargemerket med reflekterende farger. Dersom man skal merke magebelter på punktobjekt med fagverkskonstruksjon, slik som kraner og master skal alle deler av konstruksjonen der magebeltene er, ha reflekterende farger. God kontrast er viktig å tenke på ved valg av farge.
+
+*Figur 2.*
+
+Illustrasjon av hvite magebelter på rødt punktobjekt, og at nederste tredjedel av en vindturbin er hvit.
+
+*Figur 3.*
+
+Illustrasjon av vindturbin der nederste tredjedel av tårnet har annen farge.

@@ -22,9 +22,11 @@ eu_basis: []
 
 # Forskrift om brann- og redningstjeneste (BSL E 4-4).
 
+*(Bestemmelser som er merket med asterisk (\*) har veiledende materiale.)*
+
 ## § 1. Formål
 
-* (1) Forskriftens formål er å redde menneskeliv og begrense de materielle skadene ved et luftfartsuhell på eller i nærheten av en flyplass.
+\* (1) Forskriftens formål er å redde menneskeliv og begrense de materielle skadene ved et luftfartsuhell på eller i nærheten av en flyplass.
 
 (2) Forskriften skal sikre at det ved enhver godkjent flyplass er en brann- og redningstjeneste dimensjonert etter den trafikk som flyplassoperatøren vil tillate på flyplassen.
 
@@ -66,19 +68,19 @@ I denne forskrift menes med:
 
 ## § 4. Organisering
 
-* (1) Flyplassoperatøren skal etablere en brann- og redningstjeneste som skal kunne redde menneskeliv og begrense de materielle skadene ved en luftfartsulykke eller -hendelse på eller i nærheten av flyplassen.
+\* (1) Flyplassoperatøren skal etablere en brann- og redningstjeneste som skal kunne redde menneskeliv og begrense de materielle skadene ved en luftfartsulykke eller -hendelse på eller i nærheten av flyplassen.
 
-* (2) Flyplassoperatøren skal utpeke en leder for brann- og redningstjenesten. Leder for brann- og redningstjenesten skal være underlagt flyplassjefen, og på store flyplasser og store helikopterplasser skal leder for brann- og redningstjenesten ha sin daglige tjeneste på flyplassen.
+\* (2) Flyplassoperatøren skal utpeke en leder for brann- og redningstjenesten. Leder for brann- og redningstjenesten skal være underlagt flyplassjefen, og på store flyplasser og store helikopterplasser skal leder for brann- og redningstjenesten ha sin daglige tjeneste på flyplassen.
 
 (3) Utrykningsstyrken skal ledes av en utrykningsleder som skal komme i tillegg til førerne av utrykningskjøretøyene og eventuelle utrykningsbåt(er) og andre utrykningsenheter. Det skal til enhver tid være utpekt en stedfortreder for utrykningsleder.
 
 ## § 5. Lederens ansvar
 
-* (1) Leder for brann- og redningstjenesten skal:utarbeide og vedlikeholde prosedyrer og dokumentasjon som sikrer at flyplassens brann- og redningstjeneste til enhver tid tilfredstiller godkjenningsvilkårene og kravene i denne forskrift,utarbeide flyplassens havariplan,kontrollere at prosedyrene blir etterlevd og havariplanen blir øvd,sikre at alt underlagt personell har tilstrekkelig opplæring og øving til å utføre de oppgaver de blir pålagt, og at de kan tåle de fysiske og psykiske belastinger som de vil kunne bli utsatt for.
+\* (1) Leder for brann- og redningstjenesten skal:utarbeide og vedlikeholde prosedyrer og dokumentasjon som sikrer at flyplassens brann- og redningstjeneste til enhver tid tilfredstiller godkjenningsvilkårene og kravene i denne forskrift,utarbeide flyplassens havariplan,kontrollere at prosedyrene blir etterlevd og havariplanen blir øvd,sikre at alt underlagt personell har tilstrekkelig opplæring og øving til å utføre de oppgaver de blir pålagt, og at de kan tåle de fysiske og psykiske belastinger som de vil kunne bli utsatt for.
 
-* (2) Prosedyrene og havariplanen skal ta hensyn til prinsippene om den menneskelige faktor.
+\* (2) Prosedyrene og havariplanen skal ta hensyn til prinsippene om den menneskelige faktor.
 
-* (3) Utrykningsleder skal:organisere og lede utrykningsstyrken,lede slokke- og redningsarbeidet på skadestedet inntil politiet eller brannvesenet eventuelt overtar.
+\* (3) Utrykningsleder skal:organisere og lede utrykningsstyrken,lede slokke- og redningsarbeidet på skadestedet inntil politiet eller brannvesenet eventuelt overtar.
 
 ## § 6. Beredskap
 
@@ -90,11 +92,11 @@ I denne forskrift menes med:
 
 ## § 7. Havariplan
 
-* (1) Flyplassoperatøren skal utarbeide en havariplan som samsvarer med lufttrafikken og øvrig aktivitet på flyplassen, og som koordinerer de tiltak som er nødvendige dersom en nødsituasjon oppstår på eller i nærheten av flyplassen.
+\* (1) Flyplassoperatøren skal utarbeide en havariplan som samsvarer med lufttrafikken og øvrig aktivitet på flyplassen, og som koordinerer de tiltak som er nødvendige dersom en nødsituasjon oppstår på eller i nærheten av flyplassen.
 
 (2) Hvis flyplassen er omgitt av vann, bløte områder eller vanskelig terreng, eller hvor vesentlige deler av innflygingen skjer over slike områder, skal havariplanen omhandle nødsituasjoner i slike områder.
 
-* (3) Havariplanen skal omfatte alle aktuelle instanser på flyplassen, og den skal koordinere innsatsen med øvrige aktuelle instanser i flyplassens nærområde i samsvar med politiets planer.
+\* (3) Havariplanen skal omfatte alle aktuelle instanser på flyplassen, og den skal koordinere innsatsen med øvrige aktuelle instanser i flyplassens nærområde i samsvar med politiets planer.
 
 (4) Havariplanen skal øves regelmessig og minst hvert halvår. Flyplassjefen skal minst hvert annet år anmode politiet om å gjennomføre en katastrofeøvelse på flyplassen der alle instanser som inngår i havariplanen deltar.
 
@@ -104,11 +106,28 @@ I denne forskrift menes med:
 
 (2) Store flyplasser og store helikopterplasser som er omgitt av vann, bløte områder eller vanskelig terreng, eller hvor vesentlige deler av innflygingen skjer over slike områder, skal ha spesiell redningstjeneste og slokkeutstyr som er tilpasset den aktuelle situasjon og risiko.
 
-* (3) Store flyplasser som er omgitt av vann eller bløte områder, skal ha utstyr og beredskap som sikrer at flyte- og førstehjelpsutstyr under vanlige værforhold kan bringes raskt fram innenfor et område som strekker seg 300 m etter baneendene og 60-90 m til siden for rullebanens senterlinje avhengig av rullebanens referansekodebokstav. Flyteutstyret skal ha kapasitet i samsvar med det største luftfartøy som tillates å bruke flyplassen, og utstyret skal bringes så raskt fram at personer som ligger i sjøen kan reddes.
+\* (3) Store flyplasser som er omgitt av vann eller bløte områder, skal ha utstyr og beredskap som sikrer at flyte- og førstehjelpsutstyr under vanlige værforhold kan bringes raskt fram innenfor et område som strekker seg 300 m etter baneendene og 60-90 m til siden for rullebanens senterlinje avhengig av rullebanens referansekodebokstav. Flyteutstyret skal ha kapasitet i samsvar med det største luftfartøy som tillates å bruke flyplassen, og utstyret skal bringes så raskt fram at personer som ligger i sjøen kan reddes.
 
 (4) Dimensjoneringen av brann- og redningstjenesten ved en stor flyplass og en stor helikopterplass skal være i samsvar med en brann- og redningskategori eller fastsatt som følger:Brann- og redningskategorien følger av tabell 1 eller tabell 2 basert på den totale lengden av de største flytypene eller helikoptertypene som bruker plassen.Dersom bredden på skroget til en av flytypene som bestemmer brann- og redningskategorien, er større enn maksimal skrogbredde i tabell 1, skal brann- og redningskategorien settes en kategori høyere.I perioder hvor fly- eller helikopterplassen brukes av fly- eller helikoptertyper som er mindre enn dimensjonerende flytype eller helikoptertype, skal brann- og redningstjenesten minst være dimensjonert i samsvar med høyeste brann- og redningskategori for de fly- eller helikoptertyper som bruker plassen i den aktuelle perioden.
 
-(5) Store flyplasser og store helikopterplasser skal kunngjøre brann- og redningskategorien som følger av bokstav a og b ovenfor i AIP Norge AD 2.*Brann- og redningskategori**Flytypens totale lengde**Maksimum skrogbredde*1– inntil 9 m2 m29 m – inntil 12 m2 m312 m – inntil 18 m3 m418 m – inntil 24 m4 m524 m – inntil 28 m4 m628 m – inntil 39 m5 m739 m – inntil 49 m5 m849 m – inntil 61 m7 m961 m – inntil 76 m7 m1076 m – inntil 90 m8 mTabell 1 – Oversikt over brann- og redningskategorier basert på flytypens totale lengde og skrogbredde.*Brann- og redningskategori**Helikoptertypens totale lengde*H1– inntil 15 mH215 m – inntil 24 mH324 m – inntil 35 mTabell 2 – Oversikt over brann- og redningskategorier basert på helikoptertypens totale lengde inklusive rotorer.Se [§ 19](forskrift/2006-05-12-545/§19) for overgangsregel.
+(5) Store flyplasser og store helikopterplasser skal kunngjøre brann- og redningskategorien som følger av bokstav a og b ovenfor i AIP Norge AD 2.
+
+| *Brann- og redningskategori* | *Flytypens totale lengde* | *Maksimum skrogbredde* |
+| --- | --- | --- |
+| 1 | – inntil 9 m | 2 m |
+| 2 | 9 m – inntil 12 m | 2 m |
+| 3 | 12 m – inntil 18 m | 3 m |
+| 4 | 18 m – inntil 24 m | 4 m |
+| 5 | 24 m – inntil 28 m | 4 m |
+| 6 | 28 m – inntil 39 m | 5 m |
+| 7 | 39 m – inntil 49 m | 5 m |
+| 8 | 49 m – inntil 61 m | 7 m |
+| 9 | 61 m – inntil 76 m | 7 m |
+| 10 | 76 m – inntil 90 m | 8 m |
+
+Tabell 1 – Oversikt over brann- og redningskategorier basert på flytypens totale lengde og skrogbredde.*Brann- og redningskategori**Helikoptertypens totale lengde*H1– inntil 15 mH215 m – inntil 24 mH324 m – inntil 35 mTabell 2 – Oversikt over brann- og redningskategorier basert på helikoptertypens totale lengde inklusive rotorer.
+
+Se [§ 19](forskrift/2006-05-12-545/§19) for overgangsregel.
 
 ## § 9. Slokke- og redningsutstyr
 
@@ -118,13 +137,28 @@ I denne forskrift menes med:
 
 (3) På store flyplasser skal slokke- og redningsutstyret være plassert på utrykningskjøretøyer, og minste antall utrykningskjøretøyer skal være i henhold til den kunngjorte brann- og redningskategori og i samsvar med tabell 3.
 
-* (4) På store helikopterplasser skal slokke- og redningsutstyret være slik plassert at kravet til innsatstid i [§ 11](forskrift/2006-05-12-545/§11) annet ledd blir overholdt. Dersom utstyret plasseres på utrykningskjøretøyer, skal minste antall utrykningskjøretøyer være i henhold til den kunngjorte brann- og redningskategori og i samsvar med tabell 3.
+\* (4) På store helikopterplasser skal slokke- og redningsutstyret være slik plassert at kravet til innsatstid i [§ 11](forskrift/2006-05-12-545/§11) annet ledd blir overholdt. Dersom utstyret plasseres på utrykningskjøretøyer, skal minste antall utrykningskjøretøyer være i henhold til den kunngjorte brann- og redningskategori og i samsvar med tabell 3.
 
-(5) Det skal etableres et system for forebyggende vedlikehold av utrykningskjøretøyene og øvrig slokke- og redningsutstyr for å sikre at utstyret er i god stand til enhver tid og at kravene til innsatstid kan overholdes.*Brann- og redningskategori**Hurtigutrykningsbil**Hovedutrykningsbiler*1 + H1102 + H2103 + H3104105116117118129121012Tabell 3 – Minste antall utrykningskjøretøyer
+(5) Det skal etableres et system for forebyggende vedlikehold av utrykningskjøretøyene og øvrig slokke- og redningsutstyr for å sikre at utstyret er i god stand til enhver tid og at kravene til innsatstid kan overholdes.
+
+| *Brann- og redningskategori* | *Hurtigutrykningsbil* | *Hovedutrykningsbiler* |
+| --- | --- | --- |
+| 1 + H1 | 1 | 0 |
+| 2 + H2 | 1 | 0 |
+| 3 + H3 | 1 | 0 |
+| 4 | 1 | 0 |
+| 5 | 1 | 1 |
+| 6 | 1 | 1 |
+| 7 | 1 | 1 |
+| 8 | 1 | 2 |
+| 9 | 1 | 2 |
+| 10 | 1 | 2 |
+
+Tabell 3 – Minste antall utrykningskjøretøyer
 
 ## § 10. Slokkemidler
 
-* (1) Store flyplasser og store helikopterplasser skal både ha primære og sekundære slokkemidler.Primærslokkemidlet skal være skum med egenskaper som sikrer rask slokking og kontinuerlig kontroll av brann i luftfartøy.Sekundærslokkemidlet skal være pulver for slokking av hydrokarbonbranner, og pulveret skal kunne brukes sammen med skummet som brukes som primærslokkemiddel.
+\* (1) Store flyplasser og store helikopterplasser skal både ha primære og sekundære slokkemidler.Primærslokkemidlet skal være skum med egenskaper som sikrer rask slokking og kontinuerlig kontroll av brann i luftfartøy.Sekundærslokkemidlet skal være pulver for slokking av hydrokarbonbranner, og pulveret skal kunne brukes sammen med skummet som brukes som primærslokkemiddel.
 
 (2) Mengden av vann til framstilling av skum og mengde sekundærslokkemiddel, samt pumpe og tømmekapasiteten for skum, skal være tilstrekkelig til rask slokking og kontinuerlig kontroll av brann i luftfartøy, og skal være i henhold til den kunngjorte brann- og redningskategori og tabell 4 eller 5.
 
@@ -132,15 +166,46 @@ I denne forskrift menes med:
 
 (4) Mengden av skumkonsentrat skal være tilstrekkelig til å framstille skum av minst det dobbelte av tilgjengelig vannmengde. Dersom vannmengden er begrenset, for eksempel fordi den er plassert på utrykningskjøretøyer, skal ekstra vannmengde for rask og effektiv etterfylling være tilgjengelig.
 
-* (5) Store flyplasser skal ha en reservebeholdning tilsvarende 200% av både primær- og sekundærslokkemidlene, som er plassert på utrykningskjøretøyene, lett tilgjengelig. Slokkemidlene skal lagres slik at utrykningskjøretøyene kan etterfylles raskt og effektivt. Dersom etterfylling av reservebeholdningen ikke kan skje uten stor forsinkelse, skal reservebeholdningen økes.
+\* (5) Store flyplasser skal ha en reservebeholdning tilsvarende 200% av både primær- og sekundærslokkemidlene, som er plassert på utrykningskjøretøyene, lett tilgjengelig. Slokkemidlene skal lagres slik at utrykningskjøretøyene kan etterfylles raskt og effektivt. Dersom etterfylling av reservebeholdningen ikke kan skje uten stor forsinkelse, skal reservebeholdningen økes.
 
-(6) Det skal etableres et system for lagring og kontroll av slokkemidlene.*Brann- og redningskategori**Vann for fremstilling av**Skumkvalitet A**Skumkvalitet B**Mengde**Tømmekapasitet**Mengde**Tømmekapasitet**Pulver**l**l/min**L**L/min**kg*135035023023045210008006705509031800130012009001354360026002400180013558100450054003000180611800600079004000225718200790012100530022582730010800182007200450936400135002430090004501048200166003230011200450Tabell 4 – Minimum mengde slokkemidler for de enkelte brann- og redningskategorier – flyplass.Mengden vann som fremgår i kolonne 2 og 4 er basert på gjennomsnittslengden av luftfartøyene i den enkelte brann- og redningskategori. Hvis flyplassen skal tillate trafikk med luftfartøy som er større enn gjennomsnittsluftfartøyet, må mengden vann beregnes på nytt.*Brann- og redningskategori**Vann for fremstilling av**Skumkvalitet B**Mengde**Tømmekapasitet**Pulver**L**L/min**kg*H150025023H2100050045H3160080090Tabell 5 – Minimum mengde slokkemidler for de enkelte brann- og redningskategorier – helikopterplass.
+(6) Det skal etableres et system for lagring og kontroll av slokkemidlene.
 
-* (7) Mengden slokkemidler kan reduseres i forhold til hva som følger av denne paragrafen dersom en analyse viser at en akseptabel risiko kan opprettholdes.
+| *Brann- og redningskategori* | *Vann for fremstilling av* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | *Skumkvalitet A* |  | *Skumkvalitet B* |  |  |
+|  | *Mengde* | *Tømmekapasitet* | *Mengde* | *Tømmekapasitet* | *Pulver* |
+|  | *l* | *l/min* | *L* | *L/min* | *kg* |
+| 1 | 350 | 350 | 230 | 230 | 45 |
+| 2 | 1000 | 800 | 670 | 550 | 90 |
+| 3 | 1800 | 1300 | 1200 | 900 | 135 |
+| 4 | 3600 | 2600 | 2400 | 1800 | 135 |
+| 5 | 8100 | 4500 | 5400 | 3000 | 180 |
+| 6 | 11800 | 6000 | 7900 | 4000 | 225 |
+| 7 | 18200 | 7900 | 12100 | 5300 | 225 |
+| 8 | 27300 | 10800 | 18200 | 7200 | 450 |
+| 9 | 36400 | 13500 | 24300 | 9000 | 450 |
+| 10 | 48200 | 16600 | 32300 | 11200 | 450 |
+
+Tabell 4 – Minimum mengde slokkemidler for de enkelte brann- og redningskategorier – flyplass.
+
+Mengden vann som fremgår i kolonne 2 og 4 er basert på gjennomsnittslengden av luftfartøyene i den enkelte brann- og redningskategori. Hvis flyplassen skal tillate trafikk med luftfartøy som er større enn gjennomsnittsluftfartøyet, må mengden vann beregnes på nytt.
+
+| *Brann- og redningskategori* | *Vann for fremstilling av* |  |  |
+| --- | --- | --- | --- |
+|  | *Skumkvalitet B* |  |  |
+|  | *Mengde* | *Tømmekapasitet* | *Pulver* |
+|  | *L* | *L/min* | *kg* |
+| H1 | 500 | 250 | 23 |
+| H2 | 1000 | 500 | 45 |
+| H3 | 1600 | 800 | 90 |
+
+Tabell 5 – Minimum mengde slokkemidler for de enkelte brann- og redningskategorier – helikopterplass.
+
+\* (7) Mengden slokkemidler kan reduseres i forhold til hva som følger av denne paragrafen dersom en analyse viser at en akseptabel risiko kan opprettholdes.
 
 ## § 11. Innsatstid
 
-* (1) Innsatstiden på en stor flyplass, under normale sikt- og kjøreforhold, til første utrykningskjøretøy er i posisjon innenfor ethvert sted på ferdselsområdet og i stand til å påføre slokkemidler med minst 50% av tømmekapasiteten i henhold til tabell 4, skal helst ikke overstige 90 sekunder og skal overhodet ikke overstige 120 sekunder. Innsatstiden til øvrige utrykningskjøretøyer er i posisjon og i stand til å påføre resten av slokkemidlene skal sikre kontinuerlig påføring av slokkemidler og skal ikke være mer enn 60 sekunder etter at slokkingen startet.
+\* (1) Innsatstiden på en stor flyplass, under normale sikt- og kjøreforhold, til første utrykningskjøretøy er i posisjon innenfor ethvert sted på ferdselsområdet og i stand til å påføre slokkemidler med minst 50% av tømmekapasiteten i henhold til tabell 4, skal helst ikke overstige 90 sekunder og skal overhodet ikke overstige 120 sekunder. Innsatstiden til øvrige utrykningskjøretøyer er i posisjon og i stand til å påføre resten av slokkemidlene skal sikre kontinuerlig påføring av slokkemidler og skal ikke være mer enn 60 sekunder etter at slokkingen startet.
 
 (2) Innsatstiden på en stor helikopterplass, under normale værforhold og slik at det kan påføres slokkemidler med minst 50% av tømmekapasiteten i henhold til tabell 5, skal ikke overstige 120 sekunder. Innsatstiden til resten av slokkemidlene skal sikre kontinuerlig påføring av slokkemidler og skal ikke være mer enn 60 sekunder etter at slokkingen startet.
 
@@ -160,7 +225,7 @@ Alle utrykningskjøretøyer skal normalt være parkert i oppvarmet brannstasjon.
 
 ## § 14. Kommandorom og kommandoplass
 
-* (1) Dersom det fremgår av havariplanen, skal det på store flyplasser og store helikopterplasser være tilgjengelig et permanent kommandorom for bruk ved nødssituasjoner, og om nødvendig skal det også være tilgjengelig en mobil kommandoplass.
+\* (1) Dersom det fremgår av havariplanen, skal det på store flyplasser og store helikopterplasser være tilgjengelig et permanent kommandorom for bruk ved nødssituasjoner, og om nødvendig skal det også være tilgjengelig en mobil kommandoplass.
 
 (2) Den mobile kommandoplassen skal hurtig kunne etableres nær ulykkesstedet dersom forhold og samband er slik at tilstrekkelig koordinering og ledelse ikke kan utføres fra det permanente kommandorommet eller politiets operasjonssentral.
 
@@ -172,9 +237,9 @@ Alle utrykningskjøretøyer skal normalt være parkert i oppvarmet brannstasjon.
 
 ## § 16. Personell
 
-* (1) Alt personell som inngår i brann- og redningstjenesten skal ha tilstrekkelig opplæring og øving til å kunne utføre de oppgaver de blir pålagt på en effektiv og god måte. De skal regelmessig delta i praktiske øvelser slik at innlærde ferdigheter vedlikeholdes. Øvelsene skal tilpasses de luftfartøyer som trafikkerer flyplassen og det slokke- og redningsutstyr flyplassen er utrustet med. Øvelsene skal bl.a. omfatte brann i drivstoff under trykk.
+\* (1) Alt personell som inngår i brann- og redningstjenesten skal ha tilstrekkelig opplæring og øving til å kunne utføre de oppgaver de blir pålagt på en effektiv og god måte. De skal regelmessig delta i praktiske øvelser slik at innlærde ferdigheter vedlikeholdes. Øvelsene skal tilpasses de luftfartøyer som trafikkerer flyplassen og det slokke- og redningsutstyr flyplassen er utrustet med. Øvelsene skal bl.a. omfatte brann i drivstoff under trykk.
 
-* (2) Når lufttrafikk pågår, skal det på store flyplasser og store helikopterplasser være en utrykningsstyrke som er i stand til å overholde innsatstiden og å bemanne utrykningskjøretøyene i henhold til den brann- og redningskategori som til enhver tid er aktuell. Utrykningsstyrken skal også være i stand til å bemanne eventuelle utrykningsbåter og andre utrykningsenheter, og til å bruke flyplassens øvrige slokke- og redningsmateriell.
+\* (2) Når lufttrafikk pågår, skal det på store flyplasser og store helikopterplasser være en utrykningsstyrke som er i stand til å overholde innsatstiden og å bemanne utrykningskjøretøyene i henhold til den brann- og redningskategori som til enhver tid er aktuell. Utrykningsstyrken skal også være i stand til å bemanne eventuelle utrykningsbåter og andre utrykningsenheter, og til å bruke flyplassens øvrige slokke- og redningsmateriell.
 
 (3) Flyplassoperatøren skal fastsette hvor mange personer som skal inngå i utrykningsstyrken for hver enkel brann- og redningskategori, og tatt hensyn til de ulike typer luftfartøy som bruker flyplassen.
 
@@ -200,11 +265,21 @@ Frem til og med 31. desember 2007 kan flyplassoperatøren dimensjonere etter én
 
 ## Veiledning til BSL E 4-4 – Del 1
 
+*Eksempler, referanser og forklaringer*
+
+*Henviser til paragrafer og underpunkter i BSL E 4-4*
+
+*Til [§ 2](forskrift/2006-05-12-545/§2) Virkeområde*
+
 (2) Flyplass innbefatter helikopterplass.
+
+*Til [§ 4](forskrift/2006-05-12-545/§4) Organisering*
 
 (1) Norge er tilsluttet Chicagokonvensjonen, og plikter å følge standardene og anbefalingene om brann- og redningstjeneste i Annex 14 Vol I og Vol II til konvensjonen. Konvensjonen og anneksene forvaltes av FN-organet ICAO (International Civil Aviation Organization).Flyredningstjenesten i Norge er organisert i samsvar med Annex 12 til Chicagokonvensjonen. Hovedansvaret for ettersøkings- og redningstjenesten er tillagt Justisdepartementet. Lufttrafikktjenestens enheter er ansvarlig for å initiere ettersøknings- og redningsaksjoner innenfor eget ansvarsområde, samt ivareta nødvendige tiltak fram til det tidspunkt hovedredningssentralene overtar. Lufttrafikktjenestens enheter vil videre assistere hovedredningssentralene i nødvendig grad.Ansvaret for den lokale ettersøknings- og redningstjeneste er tillagt det stedlige politi. I henhold til norsk brannlov skal enhver kommune ha et brannvesen av en slik størrelse og organisasjon, og med slikt utstyr, at det kan løse de oppgaver som brannvesenet kan ventes å bli stilt overfor, herunder slokking av brann, redning av mennesker, verdier og materiell med mer.Veiledning til organisering av brann- og redningstjeneste ved stor flyplass finnes i ICAO Airport Services Manual Part 1.
 
 (2) En flyplassjef kan også lede brann- og redningstjenesten. På store flyplasser og store helikopterplasser må da flyplassjefen ha sin daglige tjeneste på flyplassen.
+
+*Til [§ 5](forskrift/2006-05-12-545/§5) Lederens ansvar*
 
 (1) Den kommunale brannsjef er ansvarlig overfor de kommunale myndigheter for ledelsen av brannvesenets virksomhet innen kommunen. Brannsjefen er følgelig ansvarlig for den branntekniske kontroll av flyplassens etablissementer samt ledelse av alt slokkearbeid, også det som har direkte tilknytning til brann i luftfartøy.Den enkelte flyplass kan, dersom dette anses formålstjenelig, etter avtale med kommunal brannsjef, forestå ledelsen av slokkearbeidet ved brann i luftfartøy på eller i den umiddelbare nærhet av flyplassen.
 
@@ -212,13 +287,21 @@ Frem til og med 31. desember 2007 kan flyplassoperatøren dimensjonere etter én
 
 (3) Eventuell overtakelse av skadestedsledelse må fremgå av havariplanen, jf. veiledningen del 2 pkt. 5.3.
 
+*Til [§ 7](forskrift/2006-05-12-545/§7) Havariplan*
+
 (1) Nødssituasjoner i denne sammenheng er slike som havari med luftfartøy, hendelser med farlig gods, brann- i bygninger, naturkatastrofer etc. Nødssituasjoner relatert til sabotasje, flykapring, bombetrusler etc. dekkes av flyplassens sikkerhetsprogram, jf. BSL A 2-1.
 
 (3) Aktuelle instanser på flyplassen er slike som lufttrafikktjenesten, flynavigasjonstjenesten, førstehjelps- og ambulanseenhet, politi, fly- og helikopterselskaper, handlingsselskaper, fraktagenter, flyverksteder, cateringsselskaper og andre foretak på flyplassen.Aktuelle instanser i flyplassens nærområde er foruten politi og brannvesen slike som sykehus, ambulansetjeneste, sjøredningstjeneste, industrivern, frivilllige organisasjon og militære enheter.
 
+*Til [§ 8](forskrift/2006-05-12-545/§8) Dimensjonering*
+
 (3) Bestemmelsen gjelder ikke for store helikopterplasser.Informasjon om overlevelsesmuligheter i vann finnes i forskningsmateriale fra Forsvarets Forskningsinstitutt og i FAA Advisory Circular (AC) 150/5210-13A, Water Rescue Plans, Facilities and Equipment. I FAA-sirkulæret antydes 10 minutter som en gjennomsnittstid for overleving i vann.
 
+*Til [§ 9](forskrift/2006-05-12-545/§9) Slokke- og redningsutstyr*
+
 (4) På en stor helikopterplass med settings- og løfteområde sentrisk på landings- og startområdet, kan stasjonære anlegg være et alternativ til utrykningskjøretøyer.
+
+*Til [§ 10](forskrift/2006-05-12-545/§10) Slokkemidler*
 
 (1) Nærmere beskrivelser av primære og sekundære slokkemidler, herunder spesifikasjon av skumkvalitet A og B, finnes i ICAO Airport Services Manual Part 1. Anerkjente standarder for sekundærslokkemidler finnes i ISO 5923, ISO 7201 og ISO 7202.Pulveret skal kunne brukes sammen med skummet, dvs. enten ved separat påføring eller ved innblanding i skummet.Luftfartstilsynet vil kunne godkjenne andre sekundærslokkemidler enn pulver. Ved vurderingen vil anbefalingene i Annex 14 og Airport Services Manual Part 1 legges til grunn.
 
@@ -226,9 +309,15 @@ Frem til og med 31. desember 2007 kan flyplassoperatøren dimensjonere etter én
 
 (7) Bestemmelsen gir anledning til å ha en mengde slokkemidler som er lavere enn hva som følger av bestemmelsen for øvrig. Formålet med dette er gi en viss fleksibilitet for flyplasser som for eksempel har svært lav trafikk med flytyper som tilsier en høyere kategori enn hva flyplassens normale trafikk tilsier, og hvor omfanget av personskader ved en eventuell ulykke antas å være mer begrenset enn hva tilfellet er ved trafikk av passasjerfly. Som eksempel på en situasjon hvor bestemmelsen kan tenkes benyttet kan nevnes trafikk av begrenset omfang med fraktfly, dog med unntak av tankfly og andre fraktfly med spesielt brennbar eller eksplosiv last.Flyplassoperatøren må overfor Luftfartstilsynet godtgjøre gjennom en analyse at det er mulig å opprettholde en akseptabel risiko dersom man reduserer mengden slokkemidler.Tabell 4 Hvis flyplassen skal tillate trafikk med luftfartøy som er større enn gjennomsnittsluftfartøyet, må mengden vann beregnes på nytt. Veiledningen i hvordan vannmengden beregnes finnes i ICAO Airport Services Manual Part 1.
 
+*Til [§ 11](forskrift/2006-05-12-545/§11) Innsatstid*
+
 (1) Innsatstiden kan forkortes ved for eksempel forberedte kjøreveier (utrykningsveier), samt ved stadige utrykningsøvelser til forskjellige punkter på flyplassens ferdselsområde under skiftende vær- og føreforhold.Som normale sikt og kjøreforhold kan regnes dagslys, god sikt, ingen nedbør og med uhindrede utrykningsveier som ikke er dekket av vann, is eller snø.
 
+*Til [§ 14](forskrift/2006-05-12-545/§14) Kommandorom og kommandosentral*
+
 Grensesnittet mellom flyplassens brann- og redningstjeneste og den offentlige redningstjeneste, herunder den lokale redningssentral og politiets operasjonssentral, må avklares i havariplanen.
+
+*Til [§ 16](forskrift/2006-05-12-545/§16) Personell*
 
 (1) Detaljer om øvelser og øvingsprogram finnes i ICAO Annex 14 Vol I Attachment A, Airport Services Manual Part 1 Section 16 og i Training Manual Part E-2.Slokking av drivstoff under trykk, kan øves ved bruk av andre brennbare stoffer enn flydrivstoff, for eksempel gass.
 
@@ -236,100 +325,218 @@ Grensesnittet mellom flyplassens brann- og redningstjeneste og den offentlige re
 
 ## Veiledning til BSL E 4-4 – Del 2
 
+*Akseptabel minstestandard*
+
+1.*Generelt*
+
+1.1
+
 Forskrift om brann- og redningstjeneste inneholder formuleringer som tilsier utøvelse av skjønn. Eksempler på slike formuleringer er «raskt fram», «lett tilgjengelig» og «tilstrekkelig». Skjønnet må både utøves av den som skal etterleve forskriften og av luftfartsmyndigheten som skal føre tilsyn med at forskriften blir etterlevd. Dersom det oppstår uenighet er det den myndighet som har fastsett forskriften, dvs. Luftfartstilsynet, som avgjør skjønnsutøvelsen.
+
+1.2
 
 Nedenstående veiledning skal gi flyplassoperatøren informasjon for praktisering av forskriften, og angir det sikkerhetsnivå Luftfartstilsynet vil legge til grunn for sin skjønnsutøvelse. Veiledningen angir således en akseptabel minstestandard som flyplassoperatøren kan legge til grunn for sin etterlevelse av forskriften.
 
+1.3
+
 I veiledningen brukes «skal» når veiledningen direkte gjengir krav i forskriften. Når det benyttes «må», angis det sikkerhetsnivå Luftfartstilsynet vil legge til grunn for sin skjønnsutøvelse. Uttrykkene «kan» eller «bør» angir en større grad av valgmulighet enn «må». Dersom flyplassoperatøren ønsker å tilfredsstille kravene i forskriften på en annen måte enn det som fremgår av veiledningen, må flyplassoperatøren skape tillit hos Luftfartstilsynet til at samme sikkerhetsnivå kan oppnås som om veiledningen ble fulgt. Dette gjelder særlig de deler der uttrykket «må» er brukt.
 
+1.4*Innholdsfortegnelse*
+
+2.*Organisering*
+
+2.1
+
 Generelt
+
+2.2
 
 Organisasjonsformer
 
+3.*Beredskap*
+
+3.1
+
 Generelt
+
+3.2
 
 Beredskapsgrader
 
+3.3
+
 Bemanning
+
+3.4
 
 Endring av beredskap
 
+4.*Tidsfaser*
+
+4.1
+
 Generelt
+
+4.2
 
 Innsatstid
 
+4.3
+
 Kontrolltid og slokketid
+
+5.*Havariplan*
+
+5.6
 
 Innholdsfortegnelse
 
+5.7
+
 Havarikart
 
+6.*Dimensjonering*
+
+7.*Slokke- og redningsutstyr*
+
+7.1
+
 Generelt
+
+7.2
 
 Enkelt slokkeutstyr
 
+7.3
+
 Utrykningskjøretøyer
+
+7.4
 
 Redningsutstyr
 
+7.5
+
 Utstyr for spesielle områder
+
+8.*Slokkemidler*
+
+8.1
 
 Valg av slokkemidler
 
+8.2
+
 Lagring
+
+9.*Anlegg for brann- og redningstjeneste*
+
+9.1
 
 Brannstasjon
 
+9.2
+
 Utrykningsveier
+
+9.3
 
 Øvingsfelt
 
+10.*Kommandoforhold og kommandorom*
+
+10.1
+
 Generelt
+
+10.2
 
 Kommandorom
 
+10.3
+
 Mobil kommandoplass
+
+10.4
 
 Overføring av kommando
 
+11.*Sambands- og alarmsystemer*
+
+12.*Personell*
+
+12.1
+
 Utrykningsstyrken
+
+12.2
 
 Varsling og mottak av hjelpestyrker
 
+12.3
+
 Bemanning av kommandorommet
+
+12.4
 
 Minstekrav til fysisk og psykisk helse
 
+12.5
+
 Røykdykkertjeneste
+
+12.6
 
 Opplæring
 
+12.7
+
 Øvelser
+
+2.*Organisering*
+
+2.1*Generelt*
 
 Brann- og redningstjenesten skal, jf. [§ 4](forskrift/2006-05-12-545/§4) (1) være organisert på en slik måte at tjenesten uten unødig tap av tid kan igangsettes på skadestedet dersom et luftfartsuhell skulle oppstå.
 
 Ved organiseringen av brann- og redningstjenesten må det blant annet tas hensyn til:Flyplassens størrelse og utformingFlyplassens beliggenhet og omgivelserTyper luftfartøyer og trafikkmengdeTrafikkfordelingen over døgnetTilgangen på eksterne ressurser.
 
+2.2*Organisasjonsformer*
+
 Brann- og redningstjenesten ved flyplass kan være organisert i henhold til et av nedenstående alternativer:Flyplassens eget personell og materiell. Enten separat tjeneste (rene utrykningsmannskaper) eller kombinert tjeneste (der mannskapene også utfører andre oppgaver).Personell og/eller materiell som tilhører annen offentlig eller privat innstans, så som Forsvaret, kommunen eller privat firma.Kombinasjon av ovennevnte.Med begrenset krav til materiell og uten krav til personell. (Gjelder små flyplasser og små helikopterplasser).
+
+3.*Beredskap*
+
+3.1*Generelt*
 
 Brann- og redningstjenestens beredskap avhenger av flyplassens beliggenhet etc. og den type trafikk som tillates, jf. ovenstående pkt. 2.1.
 
 For store flyplasser og store helikopterplasser er det krav til bemanning, mens det for øvrige flyplasser, herunder små helikopterplasser, bare er krav til slokke- og redningsutstyr.
 
-Avhengig av situasjonen må nedenstående beredskapsgrader etableres på store flyplasser og store helikopterplasser når lufttrafikk pågår. Se nærmere detaljer under pkt. 6 nedenfor.*Beredskapsgrad**Iverksettes når**Handling**Varsles ved**ALMINNELIG BEREDSKAP*Alminnelig beredskap iverksettes når lufttrafikk pågår.1. Utrykningsleder påser at utrykningsstyrken har slik beredskap at kravene til innsatstid kan overholdes.
-2. Vognførere for bemanning av utrykningskjøretøyene skal være i umiddelbar nærhet av disse*ØKET BEREDSKAP*Øket beredskap iverksettes når et luftfartøy er i/antas å komme i vanskeligheter som dog er av en slik art at luftfartøyet normalt kan foreta en sikker start eller landing. Eksempler på forhold som tilsier øket beredskap:
-– Sterk sidevind
-– Glatt rullebane, kontaminert rullebane eller andre forverringer av baneforholdene.
-– Redusert sikt som gjør at LTT ikke ser hele manøvreringsområdet.1. Utrykningskjøretøyene bemannes og kjøres ut på plattformen utenfor garasjen.
-2. Den øvrige utrykningsstyrken kalles inn til brannstasjonen.
-3. Interne instanser i henhold til havariplanen underrettes om situasjonen.Telefon/radio*FULL BEREDSKAP*Full beredskap iverksettes når det vites/antas at et luftfartøy har slike vanskeligheter at det er fare for havari.1. Utrykningskjøretøyene bemannes og kjøres ut til angitt posisjon ved rullebanen.
-2. Samtlige mannskaper i henhold til havariplanen møter på sine respektive møteplasser.
-3. Politiet varsles, og eksterne hjelpestyrker i henhold til politiets katastrofeplan møter på flyplassen.Telefon/radio/alarmsystemet*FULL UTRYKNING*Full utrykning iverksettes når et havari har inntruffet.1. Utrykningskjøretøyene kjører ut til angitt havaristed.
-2. Samtlige mannskaper disponeres i henhold til havariplanenAlarmsystemet
+3.2*Beredskapsgrader*
+
+Avhengig av situasjonen må nedenstående beredskapsgrader etableres på store flyplasser og store helikopterplasser når lufttrafikk pågår. Se nærmere detaljer under pkt. 6 nedenfor.
+
+| *Beredskapsgrad* | *Iverksettes når* | *Handling* | *Varsles ved* |
+| --- | --- | --- | --- |
+| *ALMINNELIG BEREDSKAP* | Alminnelig beredskap iverksettes når lufttrafikk pågår. | 1. Utrykningsleder påser at utrykningsstyrken har slik beredskap at kravene til innsatstid kan overholdes.<br>2. Vognførere for bemanning av utrykningskjøretøyene skal være i umiddelbar nærhet av disse |  |
+| *ØKET BEREDSKAP* | Øket beredskap iverksettes når et luftfartøy er i/antas å komme i vanskeligheter som dog er av en slik art at luftfartøyet normalt kan foreta en sikker start eller landing. Eksempler på forhold som tilsier øket beredskap:<br>– Sterk sidevind<br>– Glatt rullebane, kontaminert rullebane eller andre forverringer av baneforholdene.<br>– Redusert sikt som gjør at LTT ikke ser hele manøvreringsområdet. | 1. Utrykningskjøretøyene bemannes og kjøres ut på plattformen utenfor garasjen.<br>2. Den øvrige utrykningsstyrken kalles inn til brannstasjonen.<br>3. Interne instanser i henhold til havariplanen underrettes om situasjonen. | Telefon/radio |
+| *FULL BEREDSKAP* | Full beredskap iverksettes når det vites/antas at et luftfartøy har slike vanskeligheter at det er fare for havari. | 1. Utrykningskjøretøyene bemannes og kjøres ut til angitt posisjon ved rullebanen.<br>2. Samtlige mannskaper i henhold til havariplanen møter på sine respektive møteplasser.<br>3. Politiet varsles, og eksterne hjelpestyrker i henhold til politiets katastrofeplan møter på flyplassen. | Telefon/radio/alarmsystemet |
+| *FULL UTRYKNING* | Full utrykning iverksettes når et havari har inntruffet. | 1. Utrykningskjøretøyene kjører ut til angitt havaristed.<br>2. Samtlige mannskaper disponeres i henhold til havariplanen | Alarmsystemet |
+
+3.3*Bemanning*
 
 Se nedenstående pkt. 12 om personell.
 
+4.*Tidsfaser*
+
+4.1*Generelt*
+
 Brann- og redningstjenestens innsats ved et havari inndeles i et antall tidsfaser fra det tidspunkt alarmen går og til slokking eller redningsarbeidet er fullført. Disse tidsfaser er nærmere beskrevet nedenfor.
+
+4.2*Innsatstid*
+
+4.2.1
 
 Med innsatstid menes tiden fra alarmen går til første utrykningskjøretøy har kommet frem til havaristedet og innledet slokke- og/eller redningsarbeidet. Innsatstiden inndeles i:ForspenningstidKjøretidAngrepstid.
 
@@ -339,131 +546,270 @@ Med *kjøretid* menes tiden for utrykningskjøretøyenes forflytning fra utgangs
 
 Med *angrepstid* menes tiden fra utrykningskjøretøyet har stanset på havaristedet til selve slokke- og/eller redningsarbeidet er begynt. Angrepstiden må ikke innebære forsinkelser og bør aldri overstige 20 sekunder.
 
+4.2.2
+
 Tiden til første kjøretøy starter slokkingen bør ikke overstige 90 sekunder. Forskriftens krav til innsatstid innebærer at utrykningskjøretøyer med minimum 50% av tømmingskapasiteten skal, jf. [§ 11](forskrift/2006-05-12-545/§11) (2) kunne starte slokkingen innen 120 sekunder. Tiden til øvrige kjøretøyer starter slokkingen må ikke være mer enn 60 sekunder etter at det første kjøretøyet startet slokkingen. Dette må dessuten ses i sammenheng med mengde og kapasitet til første kjøretøy slik at dette ikke går tomt før resten av kjøretøyene kan fortsette slokkingen.
+
+4.3*Kontrolltid og slokketid*
+
+4.3.1
 
 Med *kontrolltid* menes tiden fra det første utrykningskjøretøyet starter slokkingen til brannintensiteten er redusert med 90% innen det såkalte «kritiske området» omkring luftfartøyet. Kontrolltiden bør ikke overstige 60 sekunder.
 
 Med *slokketid* menes tiden fra første utrykningskjøretøy starter slokkingen til brannen er helt slokket.
 
+4.3.2
+
 Kontrolltiden kan være avgjørende for muligheten til å redde liv. Forsøk og erfaringer viser at 90% av en stor brann i et luftfartøy bør være slokket innen 2-3 minutter for å unngå for høy temperatur inne i luftfartøyet.
 
+5.*Havariplan*
+
+5.1
+
 Det skal, jf. [§ 7](forskrift/2006-05-12-545/§7) (1) utarbeides en havariplan for alle flyplasser, herunder helikopterplasser. Planen bør inngå som et tillegg til politiets katastrofeplan. Planen må omfatte og regulere totalinnsatsen dersom en nødsituasjon oppstår på eller i flyplassens umiddelbare nærhet, og den kan også omfatte tiltak for å hindre skader på ytre miljø. Dersom flyplassen er omgitt av vann, bløte områder eller vanskelig terreng, skal, jf. [§ 7](forskrift/2006-05-12-545/§7) (2) planen også omfatte innsats i disse områdene. Planens geografiske område må inntegnes på et kart med rutenett som kan brukes for posisjonsanvisning.
+
+5.2
 
 Havariplanen skal, jf. [§ 7](forskrift/2006-05-12-545/§7) (3) omfatte alle aktuelle instanser på flyplassen, så som lufttrafikktjenesten, flynavigasjonstjenesten, eventuell førstehjelps- og ambulanseenhet, politi, fly- og helikopterselskaper, handlingsselskaper, fraktagenter, flyverksteder, cateringsselskaper og andre foretak på flyplassen.
 
 Planen bør dessuten koordinere innsatsen med øvrige aktuelle instanser i flyplassens nærområde som, foruten politi og brannvesen, kan være slike som sykehus, ambulansetjeneste, sjøredningstjeneste, industrivern, frivilllige organisasjon og militære enheter.
 
+5.3
+
 Havariplanen skal, jf. [§ 7](forskrift/2006-05-12-545/§7) (1) definere flyplassens ansvar for tiltak dersom en nødsituasjon oppstår på eller i nærheten av flyplassen. Planen må definere hvem som er leder på skadestedet også etter at politi eller brannvesen ankommer skadestedet. Dersom politiet eller brannvesen er skadestedsleder, stilles flyplassens personell og materiellressurser til disposisjon for skadestedsleder. Se for øvrig pkt. 10 nedenfor.
+
+5.4
 
 Havariplanen må beskrive politiets og brannvesenets mulighet til rekvirere flyplassens personell og materiellressurser. Den må også inneholde, eller vise til, prosedyre som regulerer flyplassens brann- og redningsberedskap dersom politi eller brannvesen rekvirerer ressurser.
 
+5.5
+
 Havariplanen må inneholde en oversikt over flyplassens brann- og redningsressurser, både personell og materiell.
+
+5.6
 
 Eksempel på innholdsfortegnelse for en havariplan:
 
+0.*Innledning*
+
+0.1
+
 Innholdsfortegnelse
+
+0.2
 
 Kontrolliste
 
+0.3
+
 Liste over rettelser
+
+0.4
 
 Fordelingsliste
 
+1.*Situasjon*
+
+1.1
+
 Generelt
+
+1.2
 
 Ansvarsforhold
 
+1.3
+
 Risiko og sårbarhet
+
+1.4
 
 Planforutsetninger
 
+1.5
+
 Gyldighet
 
+2.*Oppdrag*
+
+2.1
+
 Generelt
+
+2.2
 
 Lokale forhold
 
+3.*Utførelse*
+
+3.1
+
 Generelt
+
+3.2
 
 Brann- og redningstjenesten
 
+3.3
+
 Lufttrafikktjenesten
+
+3.4
 
 Øvrige instanser på flyplassen
 
-″
+3.5
 
 ″
 
+.
+
 ″
+
+.
+
+″
+
+4.*Administrasjon og forsyning*
+
+4.1
 
 Økonomi
 
+4.2
+
 Forpleining
+
+4.3
 
 Personell
 
+4.4
+
 Forsyning
+
+4.5
 
 Informasjon og media
 
+4.6
+
 Debriefing og evaluering
+
+5.*Ledelse og samband*
+
+5.1
 
 Ledelse
 
+5.2
+
 Samband
+
+5.3
 
 Rapporter
 
+5.4
+
 Tiltakskort
+
+*Vedlegg*
+
+1\.
 
 Havarikart
 
+2\.
+
 Sambandsdiagram
+
+3\.
 
 Tiltakskort
 
+4\.
+
 Personelloversikt
+
+5\.
 
 Materielloversikt
 
+6\.
+
 Politiets redningsplan for luftfartsulykker
+
+7\.
 
 Avtale med lokalt brannvesen.
 
+5.7*Havarikart*
+
 I havariplanen må det inngå et kart over det området hvor flyplassens brann- og redningstjeneste skal kunne settes inn. Kartet må være i en hensiktsmessig målestokk og påført et rutenett som muliggjøre raske posisjonsangivelser. Kartet brukes blant annet under utrykning i forbindelse med luftfartsulykker og må således bl.a. være plassert i en lett tilgjengelig utgave (for eksempel på stiv kartong med plastoverflate) i samtlige utrykningsenheter, samt i tårnet og kommandorommet. Bruk av kartet må legges inn når havariplanen øves.
+
+6.*Dimensjonering*
+
+6.1
 
 Dimensjonering av brann- og redningstjenesten skal, jf. [§ 8](forskrift/2006-05-12-545/§8) (1) og (4) baseres på de største luftfartøy som tillates å trafikkere flyplassen. For store flyplasser reflekteres dette også i godkjenningsvilkårene der største luftfartøy som kan bruke plassen er angitt med kodebokstav.
 
 Dersom flyplassoperatøren vil tillate et større luftfartøy enn det som ble lagt til grunn for dimensjonering av brann- og redningstjenesten, må tjenestens kapasitet økes slik at den dekker det aktuelle luftfartøyets brann- og redningskategori. Dersom luftfartøyet tilsier større kodebokstav enn flyplassen er godkjent for, må flyplassoperatøren innhente Luftfartstilsynets tillatelse. Et vilkår for å få slike tillatelser vil være at brann- og redningstjenesten dekker det aktuelle luftfartøyets brann- og redningskategori.
 
+6.2
+
 Dersom foreskrevet kapasitet relatert til et luftfartøy ikke kan opprettholdes, for eksempel pga. redusert bemanning eller feil på utrykningskjøretøy, kan det luftfartøyet ikke bruke flyplassen. Om nødvendig må flyplassjefen, eller den som er bemyndiget, kunngjøre flyplassen stengt for det aktuelle luftfartøyet. Slik regulering av trafikken kan formidles av lufttrafikktjenesten på vegne av flyplassjefen.
 
 Ved kortvarig redusert kapasitet, for eksempel mens ekstra personell innkalles eller det gjennomføres vedlikehold eller mindre reparasjoner på et utrykningskjøretøy, kan flyplassjefen allikevel tillate at luftfartøy bruker plassen. Dette forutsetter en skriftlig prosedyre der det fremgår under hvilke forhold (vær, banestatus etc.) redusert kapasitet er akseptabel, hvilke luftfartøyer/operatører dette er aktuelt for, hvilken informasjon som skal gis til fartøysjef, hvem flyplassjefen eventuelt har bemyndiget etc. Prosedyren skal, jf. BSL E 4-1 [§ 5](forskrift/2006-05-12-545/§5) (3) d) være behandlet av flytryggingskomiteen, og de flyoperatører som skal omfattes av prosedyren må enten være representert i komiteen med flyoperativ kompetanse eller de må ha uttalt seg skriftlig. Flytryggingskomiteens sammensetning og oppgaver fremgår av BSL E 4-1 [§ 5](forskrift/2006-05-12-545/§5) (3).
+
+6.3
 
 Når lufttrafikk pågår må brann- og redningstjenesten være dimensjonert i overensstemmelse med aktuelle luftfartøy. Brann- og redningstjenesten må være i stand til å overholde kravene til kapasitet og innsatstid så lenge luftfartøyet befinner seg på flyplassens manøvreringsområde, eller så lenge luftfartøy befinner seg i luften innenfor flyplassens havariområde. Brann- og redningstjenesten må også opprettholde en beredskap som ivaretar innsatstiden i minimum 15 minutter etter en avgang i tilfellet luftfartøyet må returnere.
 
 Kravene til kapasitet og innsatstid må også overholdes dersom det tillates fylling av drivstoff med passasjerer om bord.
 
+6.4
+
 Ved anløp eller avgang med luftfartøy som tilsier en lavere brann- og redningskategori enn den kunngjorte, kan brann- og redningstjenestens kapasitet reduseres slik at den bare dekker det aktuelle luftfartøyets kategori. Ved fastsettelse av redusert brann- og redningskategori legges kun luftfartøyets lengde og bredde til grunn, ikke antall bevegelser.
 
 *Eksempel*: En flyplass har etablert en brann- og redningstjeneste dimensjonert etter brann- og redningskategori 6. Flyplassen har 4 daglige bevegelser med kategori 6 luftfartøy. I forbindelse med disse bevegelsene skal, jf. [§ 8](forskrift/2006-05-12-545/§8) (1) og (4) brann- og redningstjenesten være dimensjonert etter brann- og redningskategori 6. På andre tidspunkt har flyplassen bevegelser med kategori 4 luftfartøy. I forbindelse med disse bevegelsene kan brann- og redningstjenesten dimensjoneres etter nivået for brann- og redningskategori 4, selv om kunngjort brann- og redningskategori er 6.
 
+6.5
+
 På oppstillingsplattformene skal det, jf. [§ 9](forskrift/2006-05-12-545/§9) (2), være eget slokkeutstyr dersom brann- og redningstjenesten ikke er bemannet eller dersom utrykningsstyrken ikke kan tilfredsstille kravet om innledende slokking av drivstoffbrann. I slike tilfeller må det på store flyplasser være annet personell som kan betjene slokkeutstyret på oppstillingsplattformene. Dersom hele eller deler av kravet til slokkeutstyr under klargjøring av luftfartøy skal dekkes av utrykningsstyrken, skal, jf. [§ 11](forskrift/2006-05-12-545/§11) (4) kravet til innsatstid for dette (60 sekunder) opprettholdes så lenge klargjøring av luftfartøy pågår.
+
+7.*Slokke- og redningsutstyr*
+
+7.1*Generelt*
 
 Flyplassen skal, jf. [§ 9](forskrift/2006-05-12-545/§9) (1) være utstyrt med slokke- og redningsutstyr i henhold til den brann- og redningskategori som er kunngjort i AIP-Norge.
 
 Det skal, jf. [§ 9](forskrift/2006-05-12-545/§9) (5) etableres et system for forebyggende vedlikehold som sikrer at slokke- og redningsutstyret til en hver tid er klart til operativt bruk og at krav til innsatstid overholdes.
 
+7.2*Enkelt slokkeutstyr*
+
 Alle flyplasser skal, jf. [§ 9](forskrift/2006-05-12-545/§9) (1) ha slokke- og redningsutstyr i samsvar med den trafikk som tillates. Plasser som ikke defineres som stor flyplass eller stor helikopterplass, må som et minimum ha kapasitet til innledende slokking av drivstoffbrann i de aktuelle luftfartøy.
 
-Følgende mengder anses retningsgivende for luftfartøy med drivstoff av typen Jet A-1:– Enmotors fly12 kg pulverapparat– Enmotors helikopter12 kg pulverapparat– Flermotors fly med tillatt totalmasse under 5700 kg2 x 12 kg pulverapparat– Flermotors fly med tillatt totalmasse 5700 kg og over25 kg pulverapparat på tralle– Flermotors helikopter med D mindre enn 15 m2 x 12 kg pulverapparat– Flermotors helikopter med D lengre enn 15 m25 kg pulverapparat på tralle.
+Følgende mengder anses retningsgivende for luftfartøy med drivstoff av typen Jet A-1:
+
+|  |  |
+| --- | --- |
+| – Enmotors fly | 12 kg pulverapparat |
+| – Enmotors helikopter | 12 kg pulverapparat |
+| – Flermotors fly med tillatt totalmasse under 5700 kg | 2 x 12 kg pulverapparat |
+| – Flermotors fly med tillatt totalmasse 5700 kg og over | 25 kg pulverapparat på tralle |
+| – Flermotors helikopter med D mindre enn 15 m | 2 x 12 kg pulverapparat |
+| – Flermotors helikopter med D lengre enn 15 m | 25 kg pulverapparat på tralle. |
 
 Der helikopterets største utvendige mål når alle rotorer er i gang («fra rotortupp til rotortupp»).
 
 For luftfartøy med drivstoff av typen *AVGAS (bensin)* dobles ovenstående mengder.
 
 Inntil halvparten av pulveret kan erstattes av CO2 , men da med dobbel mengde, dvs. at hver kilo pulver må erstattes av to kilo CO2 .
+
+7.3*Utrykningskjøretøyer*
+
+7.3.1*Kjøreegenskaper og fremkommelighet*
 
 Utrykningskjøretøyenes kjøreegenskaper og fremkommelighet må tilpasses de lokale forhold. I tillegg til å kunne komme fram overalt på fast grunn innenfor sikkerhetsområdet, må kjøretøyene også kunne benytte utrykningsveiene. Dersom det er vann eller bløte områder innenfor sikkerhetsområdet, og utrykningskjøretøyene også skal, jf. [§ 8](forskrift/2006-05-12-545/§8) (2) dekke kravet til slokke- og redningsutstyr innenfor slike områder, må kjøretøyene ha fremkommelighet deretter. Når det er snø, må kjøretøyene kunne komme så langt at et havaristed innenfor sikkerhetsområdet kan nås med skumkanonen. I beregningen kan det tas hensyn til at store snømengder vil begrense hvor langt et fly går utenfor rullebanen.
 
@@ -473,23 +819,75 @@ Kjøretøyene må dessuten vanligvisha drift på alle hjul med tilhørende diffe
 
 Skal, jf. [§ 8](forskrift/2006-05-12-545/§8) (2) utrykningskjøretøyene også dekke fremkommelighet i vanskelig terreng, må kjøretøyene vanligvis ogsåkunne kjøre i helning på 20 i side og 40 i lengderetning.ha på- og avkjøringsvinkler på 30 foran og bak og mellom hjulakslingene.
 
+7.3.2*Slokkeutstyr*
+
 Utrykningskjøretøyene må til sammen ha tankkapasitet slik at de kan ha med den mengde slokkemidler som følger av forskriften. I tillegg skal pumpe- og tømmekapasitet minimum tilfredsstille kravene i forskriftens [§ 9](forskrift/2006-05-12-545/§9) figur 4.
 
 Utrykningskjøretøyene skal merkes i henhold til BSL E 4-1 [§ 8](forskrift/2006-05-12-545/§8) (2) bevegelige hindre. I tillegg skal utrykningskjøretøyene i henhold til Vegdirektoratets krav utstyres med sirene og blinkende blått lys, jf. BSL 4-1 [§ 8](forskrift/2006-05-12-545/§8) (2) b, merking av hinder.
 
 Kontroll og vedlikehold:Utrykningskjøretøyene må vedlikeholdes slik at de alltid er klare for utrykningAlle utrykningskjøretøyer må kontrolleres hver dag i henhold til produsentenes anvisninger. Sjekkliste for hvert utrykningskjøretøy skal føres og dokumenteres.Minimum en gang per måned må skumbilen med pumpesystem, inklusive slanger, prøvekjøres.Minimum en gang per kvartal må våt eller tørr sugeprøve utføres. Kontrolldata innføres i egen logg.Utrykningskjøretøyene må vedlikeholdes i henhold til produsentenes anbefalninger.Feil eller mangel som oppdages under kjøring eller ved kontroll, må repareres eller utbedres straks.Minimum en gang per år må aggregat for pulver (montert i utrykningskjøretøy) utløses, tømmes helt og rengjøres.Minimum en gang per år må hele skumbilenes produksjonssystem tømmes og rengjøres.Håndslokkeapparater må kontrolleres etter produsentens anvisninger, og kontrolldato påføres apparatet.All kontroll og alt vedlikehold må dokumenteres.
 
-På *flyplasser med utrykningskjøretøyer*, jf. [§ 9](forskrift/2006-05-12-545/§9) (3) og (4) må følgende utstyr som et minimum være plassert på utrykningskjøretøyene (gjelder totalt antall fordelt på utrykningskjøretøyene).*Brann- og redningskategori**1 og 2**3**4**5**6**7**8**9*Havarisag11122233Wire og boltekutter11122333Slagspett, av type galvanisert stål med herdet spiss11122333Havariøks med isolert stålskaft12333444Lysaggregat minimum 1000 W11111112Håndlykter22245566Pressluftapparater med lungeautomater–––44444To leddet aluminiumsstige (8 – 10m)11122233Håndslokkeapparat11112233Beredskapskoffert for enkel Førstehjelp1246661015Havarikniv22222444
+7.4*Redningsutstyr*
 
-Følgende utstyr må i tillegg til utstyret på utrykningskjøretøyene være tilgjengelig på *flyplasser med utrykningskjøretøyer*:*Brann- og redningskategori**1 og 2**3**4**5**6**7**8**9*Ekstra pressluftapparater–––33333Verktøymappe for vedlikehold av pressluftapparat–––11111Trykkmåler til pressluftapparater–––11111Kompressor for fylling av pressluft–––11111Redningstelt, ca. 40 m2 , med varmeaggregat–––11111Sykebårer510252550507575Ulltepper10205050100100150150
+7.4.1*Diverse utstyr*
+
+På *flyplasser med utrykningskjøretøyer*, jf. [§ 9](forskrift/2006-05-12-545/§9) (3) og (4) må følgende utstyr som et minimum være plassert på utrykningskjøretøyene (gjelder totalt antall fordelt på utrykningskjøretøyene).
+
+|  | *Brann- og redningskategori* |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *1 og 2* | *3* | *4* | *5* | *6* | *7* | *8* | *9* |
+| Havarisag | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 |
+| Wire og boltekutter | 1 | 1 | 1 | 2 | 2 | 3 | 3 | 3 |
+| Slagspett, av type galvanisert stål med herdet spiss | 1 | 1 | 1 | 2 | 2 | 3 | 3 | 3 |
+| Havariøks med isolert stålskaft | 1 | 2 | 3 | 3 | 3 | 4 | 4 | 4 |
+| Lysaggregat minimum 1000 W | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 2 |
+| Håndlykter | 2 | 2 | 2 | 4 | 5 | 5 | 6 | 6 |
+| Pressluftapparater med lungeautomater | – | – | – | 4 | 4 | 4 | 4 | 4 |
+| To leddet aluminiumsstige (8 – 10m) | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 |
+| Håndslokkeapparat | 1 | 1 | 1 | 1 | 2 | 2 | 3 | 3 |
+| Beredskapskoffert for enkel Førstehjelp | 1 | 2 | 4 | 6 | 6 | 6 | 10 | 15 |
+| Havarikniv | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 4 |
+
+Følgende utstyr må i tillegg til utstyret på utrykningskjøretøyene være tilgjengelig på *flyplasser med utrykningskjøretøyer*:
+
+|  | *Brann- og redningskategori* |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *1 og 2* | *3* | *4* | *5* | *6* | *7* | *8* | *9* |
+| Ekstra pressluftapparater | – | – | – | 3 | 3 | 3 | 3 | 3 |
+| Verktøymappe for vedlikehold av pressluftapparat | – | – | – | 1 | 1 | 1 | 1 | 1 |
+| Trykkmåler til pressluftapparater | – | – | – | 1 | 1 | 1 | 1 | 1 |
+| Kompressor for fylling av pressluft | – | – | – | 1 | 1 | 1 | 1 | 1 |
+| Redningstelt, ca. 40 m2 , med varmeaggregat | – | – | – | 1 | 1 | 1 | 1 | 1 |
+|  |  |  |  |  |  |  |  |  |
+| Sykebårer | 5 | 10 | 25 | 25 | 50 | 50 | 75 | 75 |
+| Ulltepper | 10 | 20 | 50 | 50 | 100 | 100 | 150 | 150 |
 
 Følgende utstyr må være tilgjengelig på *flyplasser, herunder helikopterplasser, uten utrykningskjøretøyer*: Utstyret skal, jf. [§ 6](forskrift/2006-05-12-545/§6) (3) være godt merket og lett tilgjengelig og bør oppbevares sammen med eller ved siden av slokkeutstyret, jf. pkt. 7.2.
 
+|  |  |
+| --- | --- |
+| – Vernehansker | 1 par |
+| – Førstehjelpsveske | 1 stk. |
+| – Håndlykter | 2 stk. |
+
 Førstehjelpsvesken bør inneholde forbindingssaker, plaster, sterile kompresser, desinfiserende midler, saks m.m.
 
-I tillegg bør følgende være tilgjengelig på flyplasser uten utrykningskjøretøyer:– Hjelm m/visir1 stk.– Vernestøvler1 par– Wire- og boltekutter1 stk.– Kubein/brekkjern1 stk.– Havariøks1 stk.– Havarikniv1 stk.– Sykebårer2 stk.– Ulltepper4 stk.
+I tillegg bør følgende være tilgjengelig på flyplasser uten utrykningskjøretøyer:
+
+|  |  |
+| --- | --- |
+| – Hjelm m/visir | 1 stk. |
+| – Vernestøvler | 1 par |
+| – Wire- og boltekutter | 1 stk. |
+| – Kubein/brekkjern | 1 stk. |
+| – Havariøks | 1 stk. |
+| – Havarikniv | 1 stk. |
+| – Sykebårer | 2 stk. |
+| – Ulltepper | 4 stk. |
 
 I vurderingen av om det ovennevnte utstyret bør være tilgjengelig, kan det tas hensyn til hvorvidt deler av utstyret forsvarlig kan oppbevares utendørs, eller der hvor personell oppholder seg (for eksempel ved flyplasser hvor det er etablert baser, pasientmottak osv).
+
+7.4.2*Personlig utstyr*
 
 Alle som inngår i utrykningsstyrken skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (4), ha tilgang til beskyttende bekledning, pusteutstyr og kommunikasjonsutstyr, slik at de kan utføre tjenesten på en sikker og effektiv måte.
 
@@ -499,13 +897,27 @@ Alt personlig utstyr må oppbevares lett tilgjengelig og skal, jf. [§ 9](forskr
 
 Personlig verneutstyr må tilfredsstille krav i henhold til norske verne- og sikkerhetsstandarder, jf. arbeidsmiljøloven, Direktoratet for samfunnssikkerhet og beredskap (DSB) krav til personlig verneutstyr samt Arbeidstilsynets krav til konstruksjon og bruk av personlig verneutstyr på arbeidsplassen.
 
+7.4.3*Kontroll og vedlikehold*
+
 Flyplassoperatøren skal gjennomføre forebyggende vedlikehold av utrykningskjøretøyene og øvrig slokke- og redningsutstyr slik at utstyret til enhver tid er i god stand og klart til bruk, jf. [§ 9](forskrift/2006-05-12-545/§9) (5). Kontroll og vedlikehold bør utføres etter produsentenes anvisninger, og må dokumenteres. Håndslokkeapparater, førstehjelpsutstyr etc. bør kontrolleres minst årlig.
+
+7.5*Utstyr for spesielle områder*
+
+7.5.1*Generelt*
 
 Behovet for spesielle fartøyer, kjøretøyer og slokke- og redningsutstyr for vann, bløte områder og vanskelig terreng må tilpasses de lokale forhold. Slokkeutstyr kreves ikke for havari i vann, men dersom det er øyer innenfor havariplanområdet er det nødvendig med slokkekapasitet minst tilsvarende det som fremgår av pkt. 7.2 ovenfor.
 
+7.5.2*Fartøyer*
+
 Fartøyer, som inn går i brann- og redningstjenesten, må være dimensjonert for å kunne operere innenfor det området som fremgår av havariplanen, og være utstyrt med hensiktsmessig verktøy, lysaggregat, sanitetsutstyr, redningsflåter, redningsvester, livliner etc. Flåtene må ha kapasitet tilsvarende antall personer om bord i dimensjonerende luftfartøy. Dersom et fartøy, som for øvrig er hensiktsmessig, er for lite til å transportere alle flåtene, kan resten av flåtene oppbevares på land på en slik måte at de enkelt og raskt kan bringes ut til havaristedet. Fartøyene må kunne operere under vanlige værforhold for flyplassen. Gjennomsnittlig vindstyrke for den måned som har mest vind, bør være dimensjonerende.
 
+7.5.3*Kjøretøyer*
+
 Beltevogner, eller andre terrenggående kjøretøyer, kan være hensiktsmessig for bløte områder og gruntvannsområder. Slike kjøretøyer, når de inngår i brann- og redningstjenesten, må være utstyrt med hensiktsmessig slokkeutstyr, verktøy, lysaggregat, redningsutstyr etc. Slokkeutstyret må minst ha kapasitet tilsvarende det som fremgår av pkt. 7.2 ovenfor.
+
+8.*Slokkemidler*
+
+8.1*Valg av slokkemidler*
 
 Ved valg av slokkemiddel skal, jf. [§ 10](forskrift/2006-05-12-545/§10) (1) følgende krav tilfredsstilles:at slokkemidlene er så effektive som mulig for slokking og kontinuerlig kontroll av brann i fly,at de kan benyttes sammen med andre slokkemidler.
 
@@ -513,15 +925,29 @@ Følgende slokkemidler er aktuelle:VannSkum (kvalitet A eller B)Pulver, natrium 
 
 Angående krav til slokkemidler, se veiledningen del 1 til [§ 10](forskrift/2006-05-12-545/§10). Se også ICAO Annex 14 Chap 9 Table 9-2.
 
+8.2*Lagring*
+
 Slokkemidler skal, jf. [§ 10](forskrift/2006-05-12-545/§10) (6) lagres slik at slokkeegenskapene ikke forringes. Det må tas hensyn til temperatur etc, og produsentens anvisninger, bla. med hensyn til lagringstid, må følges.
+
+9.*Anlegg for brann- og redningstjenesten*
+
+9.1*Brannstasjon*
+
+9.1.1*Generelt*
 
 Brannstasjonen bør plasseres og utformes i henhold til de anbefalinger som fremgår av ICAO Airport Services Manual Part 1 (Doc 9137-AN/898) Chapter 9.
 
+9.1.2*Plassering*
+
 Brannstasjonen må plasseres slik at kravet til innsatstid overholdes, og den bør plasseres slik at det oppnås fri sikt over hele ferdselsområdet og inn- og utflygingssektorene.
+
+9.1.3*Utforming*
 
 Brannstasjonen må som et minimum inneholde:Vaktrom med opplegg for sambands- og alarmsystemer (jf. [§ 15](forskrift/2006-05-12-545/§15))Oppvarmet garasjeanlegg med automatiske dører og tilpluggingsmuligheter for lading og oppvarming av utrykningskjøretøy.
 
 Dessuten bør den inneholde:Oppvarmet lager for slokkemidler og anlegg for hurtigfyllingOppvarmet lager for redningsutstyr, herunder utrykningsbåt og annet spesielt utstyrOppholdsrom og spisefasiliteterToalettDusj og garderobe.
+
+9.2*Utrykningsveier*
 
 Det vises til forskriftens [§ 12](forskrift/2006-05-12-545/§12) som gir mange detaljer.
 
@@ -531,13 +957,25 @@ Dersom terrenget er slik at veier for vanlige utrykningskjøretøyer ikke kan an
 
 Utrykningsveiene skal, jf. [§ 12](forskrift/2006-05-12-545/§12) (2) brøytes vinterstid, og det må settes opp merkestikker eller lignende slik at veiene er synlige også om de er gjensnødd. For prioritering av brøyting av utrykningsveier vises til BSL E 4-2, veiledningens del 2 pkt. 3.2.2.
 
+9.3*Øvingsfelt*
+
+9.3.1
+
 Flyplassoperatøren må enten etablere øvingsfelt for brann- og redningstjenesten på flyplassområdet eller i nærheten, eller inngå avtale med annen operatør som har øvingsfelt. Dersom den siste løsningen velges, kan den mest avanserte treningen skje utenfor flyplassen, mens forenklede øvinger skjer på flyplassens eget øvingsfelt.
 
 Øvingsfeltet, eller feltene, må være slik utformet og utstyrt at utrykningspersonellet kan gis nødvendig trening, samt tilfredsstille minimumskravene til opplæring.
 
+9.3.2
+
 Øvingsfelt på flyplassområdet må plasseres slik at det ikke utgjør et hinder (jf. aktuell forskrift om utforming), og slik at det ikke får noen innvirkning på navigasjonsanlegg eller andre anlegg på eller i nærheten av flyplassen.
 
+10.*Kommandoforhold og kommandorom*
+
+10.1*Generelt*
+
 Dersom det fremgår av havariplanen, skal det på store flyplasser skal, jf. [§ 14](forskrift/2006-05-12-545/§14) (1), være tilgjengelig et permanent kommandorom, og det må til enhver tid være klart til innsats. Kommandorommet for redningstjenesten ved en luftfartsulykke kan med fordel kombineres med tilsvarende fasiliteter til bruk ved ulovlige anslag; flykapring, bombetrussel og lignende. Noen nødsituasjoner vil også kreve en mobil kommandoplass på selve stedet for ulykken eller hendelsen.
+
+10.2*Kommandorom*
 
 Et kommandorom kjennetegnes vanligvis avat det er et forberedt lokale med nødvendig innredning og utstyr ogat det bemannes av personell somskal assistere skadestedsleder ogforeta den overordnede koordinering av de ressurser som settes inn.
 
@@ -545,31 +983,51 @@ Fra kommandorommet bør det bør være god oversikt over ferdselsområdet og den
 
 Et kommandorom må utstyres med nødvendige planer, karter, data- og sambandsutstyr, og utstyret må kontrolleres jevnlig slik at det til enhver tid er klart til bruk.
 
+10.3*Mobil kommandoplass*
+
 En mobil kommandoplass kjennetegnes vanligvis avat den raskt kan etableres på skadestedet, ogat den kan tjene som kommando- og sambandssenter for skadestedsleder.
 
 Det er allment erkjent at en kommandoplass kan være nødvendig på et skadested, spesielt dersom skadestedet er av et visst omfang og utenfor selve flyplassområdet. Skadestedets omfang vil bl.a. avhenge av befolkningstettheten i inn- og utflygingsområdene og luftfartøyenes størrelse. Hvilke flyplasser som eventuelt vil trenge mobil kommandoplass, må avklares i dialog mellom Luftfartstilsynet og den aktuelle flyplassoperatør.
 
 Den eventuelle mobile kommandoplassen må kunne utplasseres så raskt som mulig etter at den innledende slokke- og redningsinnsats er påbegynt, og være klart til bruk for skadestedsleder når de tilkalte ressurser begynner å innfinne seg. Den må derfor til enhver tid stå ferdig utstyrt med nødvendige planer, karter, data- og sambandsutstyr, og den må kontrolleres jevnlig slik at den er i orden. Videre bør den mobile kommandoplassen han en farge eller merkes på annen måte slik at den er godt synlig i terrenget.
 
+10.4*Overføring av kommando*
+
 Den første som tar kommando over et skadested på eller i nærheten av flyplassen vil vanligvis være flyplassoperatørens utrykningsleder. Etter hvert som øvrige ressurser innfinner seg, kan ledere fra politi eller brannvesen være aktuelle til å overta skadestedsledelsen. Ved eventuell overføring av kommando, bør flyplassoperatørens utrykningsleder inngå i ledergruppen som den nye skadestedslederens faglige rådgiver. Slike overføringer av kommando må være klart beskrevet i havariplanen og øves jevnlig.
 
 Erfaringer viser at overføring av kommando er et kritisk ledd, og øving bare hvert annet år i forbindelse med en katastrofeøvelse vil ikke være tilstrekkelig. Dersom overføring av kommando fra flyplassoperatørens utrykningsleder til leder fra politi eller brannvesen inngår i havariplanen, må flyplassoperatøren inngå avtale med politi eller brannvesen om at dette øves minst halvårlig. Dersom flyplassoperatøren ikke når fram med dette, må forholdet legges fram for Luftfartstilsynet.
 
+11.*Sambands- og alarmsystemer*
+
+11.1*Samband*
+
 Flyplassen må ha hensiktsmessige og funksjonelle sambandssystemer som sikrer godt samband mellom brannstasjonen(e), kontrolltårn og utrykningskjøretøyene, mellom kommandorommet og eventuell mobil kommandoplass, samt til alle instanser som deltar ved en nødsituasjon. Sambandssystemene og bruken av disse må være beskrevet i flyplassens havariplan. Sambandssystemene må være tilpasset flyplassens størrelse, disponible ressurser og andre lokale forhold som kan være av betydning.
+
+11.2*Alarmsystemer*
 
 Alarmsystemet for en stor flyplass kan være alarmklokke, sirene eller annen lyd eller lysanordning som gir tilstrekkelig lyd/lys til å kunne oppfattes på alle de steder personellet i utrykningsstyrken kan oppholde seg
 
 Anordning på store flyplasser for alarmering av brann- og redningstjenesten, jf. BSL E 4-4 [§ 9](forskrift/2006-05-12-545/§9) (2) kan være utløserknapp for det ordinære alarmsystemet. Slike knapper må være lett synlige og tilgjengelige og godt merket.
 
+12.*Personell*
+
+12.1*Utrykningsstyrken*
+
 Kravene til bemanning av utrykningsstyrken omfatterutrykningsleder, jf. BSL E 4-4 [§ 4](forskrift/2006-05-12-545/§4) (3)øvrig del av styrken, jf. BSL E 4-4 [§ 16](forskrift/2006-05-12-545/§16) (2).
 
 Utrykningsleder skal, jf. [§ 4](forskrift/2006-05-12-545/§4) (3) lede slokke- og redningsarbeidet på skadestedet, og kan derfor ikke inngå i den del av utrykningsstyrken som utfører selve slokke- og redningsarbeidet. Sagt på en annen måte: Utrykningsleder må ikke være sjåfør på noen av de kjøretøyene som inngår i beregningen av mengde slokkemidler og tømmekapasitet, og tjenesten må være slik organisert at utrykningsleder kommer først fram til skadestedet, for eksempel ved at han sitter på hurtigutrykningsbilen eller har egen bil.
+
+12.2*Varsling og mottak av hjelpestyrker*
 
 Den første varslingsfasen av avgjørende, og må gjennomføres av kvalifisert personell samtidig som utrykningen pågår. Flere løsninger er mulig, herunder bemanning av vaktrommet i brannstasjonen, jf. pkt. 9.1.3 ovenfor, eller kommandorommet, jf. pkt. 10.2 ovenfor.
 
 Tilkalte ressurser (flyplasspersonell, brannvesen, politi, ambulanser, hjelpekorps etc.) ankommer vanligvis i løpet av 10 minutter. Mottak av disse ressursene er neste avgjørende fase. Hvordan den organiseres, vil variere fra flyplass til flyplass, men avgjørende vil være å gi styrkene adgang til flyplassområdet og en første veiledning.
 
+12.3*Bemanning av kommandorommet*
+
 Kommandorommet bemannes av flyplassjefen, politimesteren og brannsjefen, eller deres representanter, samt sambands- og støttepersonell. Dette innebærer at politiet oppretter lokal redningssentral (LRS) i kommandorommet.
+
+12.4*Minstekrav til fysisk og psykisk helse*
 
 Personellet i brann- og redningstjenesten skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (5) kunne tåle de fysiske og psykiske belastninger som de vil kunne bli utsatt for under brann- og redningsarbeid, og flyplassoperatøren skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (5) fastsette og dokumentere minstekrav for fysisk og psykisk helse. Dette gjelder spesielt personellet i utrykningsstyrken.
 
@@ -577,25 +1035,47 @@ Minstekravene må fastsettes i samarbeide med medisinske sakkyndige, for eksempe
 
 For personell som ikke inngår i utrykningsstyrken, men som for eksempel skal gjennomføre varsling og mottak av hjelpestyrker kan kravene reduseres.
 
+12.5*Røykdykkertjeneste*
+
+12.5.1
+
 Forskriften krever at alle i utrykningsstyrken skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (4) ha beskyttende bekledning, pusteutstyr og kommunikasjonsutstyr slik at de kan utføre tjenesten på en sikker og effektiv måte. For å tilfredsstille dette kravet må utrykningsstyrken i noen situasjoner kunne utføre røykdykkertjeneste. Behovet for røykdykkertjeneste har sammenheng med luftfartøyets størrelse på den måten at gjennomsøkning av et stort luftfartøy stiller andre krav enn gjennomsøkning av et lite. I Norge har det vært krevd røykdykkertjeneste ved alle flyplasser i brann- og redningskategori 5 og høyere, og Luftfartstilsynet anser fortsatt dette som en tilfredsstillende norm.
+
+12.5.2
 
 En røykdykkertjeneste må tilfredsstille kravene i Direktoratet for samfunnssikkerhet og beredskaps (DSB) veiledning (HR-2074), og røykdykkerpersonellet skal i tillegg til bestemmelsene i [§ 16](forskrift/2006-05-12-545/§16) (4) tilfredsstille de helsekrav og fysiske krav som til enhver tid fremgår av gjeldende forskrifter for røyk- og kjemikaliedykking.
 
 I henhold til DSBs veiledning kreves et minimum på fire innsatsmannskaper; to røykdykkere, en utrykningsleder og en pumpekjører. Utrykningsleder kan lede og være sikringsmann for røykdykkerne, mens pumpekjøringen utføres av en sjåfør.
 
+12.6*Opplæring*
+
+12.6.1*Utrykningsstyrken*
+
 Personell som inngår i utrykningsstyrken kan for eksempel gjennomgå følgende opplæring:Norges brannskoles brevkurs i brannvernI løpet av første tilsettingsår; et innføringskurs samt opplæring i tjenesten herunder deltakelse i hensiktsmessige øvelser.Grunnkurs i brann- og redningstjeneste av ca. 3 ukers varighet som inneholderslokke- og redningstjenesteflykjenningførstehjelporganisasjon og bestemmelserOppdateringskurs hvert 4. år.
 
 Personell som inngår i utrykningsstyrken for kortere tid, vikarer og lignende, skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (1) ha tilstrekkelig opplæring og øving til å kunne utføre de oppgaver de blir pålagt. Foruten deltakelse i hensiktsmessige øvelser, må de gjennomgå teoretisk opplæring, for eksempel ovennevnte innføringskurs.
+
+12.6.2*Røykdykkere*
 
 Røykdykkere må gjennomgå et røykdykkerskurs ved Norges Brannskole eller et likeverdig kurs.
 
 Hvis ikke etterleves ikke kravene i forskrift om røyk og kjemikaliedykking, og det vil også kunne bli problemer med å komme inn på kurs i brann- og redningstjeneste fordi kursarrangører forlanger dokumentasjon fra slik opplæring.
 
+12.6.3*Utrykningsleder*
+
 Utrykningsleder må gjennomgå samme opplæring som øvrig personell i utrykningsstyrken. Dessuten kan for eksempel utrykningsleder gjennomgå:Lederkurs i brann- og redningstjeneste av ca. 3 ukers varighet som inneholderledelseinstruksjonslokke- og redningstjenesteskadestedsledelseorganisasjon og bestemmelsersikkerhetsreglerkatastrofepsykiatri.Videregående kurs i skadestedsledelse av ca. 1 ukes varighet.
+
+12.6.4*Leder for brann- og redningstjenesten*
 
 Leder for brann- og redningstjenesten kan for eksempel gjennomgå følgende opplæring:Norges brannskoles brevkurs i brannvernSjefskurs i brann- og redningstjeneste av ca. 3 ukers varighet som inneholder:slokke- og redningstjenesteflykjenningskadestedsledelseorganisasjon og bestemmelsersikkerhetsreglerkatastrofepsykiatri.Oppdateringskurs hvert 4. år.
 
+12.6.5*Dokumentasjon*
+
 Gjennomført opplæring må dokumenteres på en hensiktsmessig og oversiktlig måte, og dokumentasjonen bør oppbevares i minst 2 år.
+
+12.7*Øvelser*
+
+12.7.1
 
 Alle som inngår i utrykningsstyrken må delta i minst følgende øvingsvirksomhet:
 
@@ -609,8 +1089,16 @@ Utrykningsøvelser bør initieres av lufttrafikktjenesten, og minst 4 pr. år m�
 
 *Halvårlig:*Én førstehjelpsøvelseÉn havariplanøvelse hvor alle innstanser på flyplassen som inngår i havariplanen deltar. Samtlige utrykningsledere må øve skadestedsledelse minst 2 ganger i året, jf. pkt. 10.4 over.
 
+*Hensikten med havariplanøvelsene er både å verifisere at flyplassens havariplan er effektiv og fungerer etter hensikten, jf. [§ 7](forskrift/2006-05-12-545/§7) og pkt. 5 over, og å sikre at utrykningslederne får øvet skadestedsledelse av et visst omfang, herunder mottak av hjelpestyrker og optimal disponering av tilgjengelige ressurser.*
+
+12.7.2
+
 Flyplassjefen skal, jf. [§ 16](forskrift/2006-05-12-545/§16) (1) anmode politiet om å gjennomføre katastrofeøvelse på flyplassen hvert annet år. Dersom flyplassjefen ikke når fram med dette, må forholdet legges fram for Luftfartstilsynet.
 
+12.7.3
+
 Alle øvelser på alle nivåer må dokumenteres på en hensiktsmessig og oversiktlig måte, og dokumentasjonen bør oppbevares i minst 2 år.
+
+12.7.4
 
 Det må etableres et system for evaluering av øvelsene som bl.a. sikrer at alle impliserte innstanser får kjennskap til de erfaringer som gjøres gjennom øvelsene.

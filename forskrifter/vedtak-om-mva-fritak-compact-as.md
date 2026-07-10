@@ -24,6 +24,8 @@ eu_basis: []
 
 Vi viser til Deres søknad av 14. september, mottatt her fra Skattedirektoratet den 29. september. Søknaden gjelder toll- og merverdiavgiftsfritak for nødproviant.
 
+*1. Sakens bakgrunn*
+
 I brev av 5. juni 1998, innvilget Finansdepartementet Compact AS toll- og avgiftsfritak for PB-5 nødproviant. Fritaket gjaldt proviant som ble solgt fra Compact AS til Nærings- og handelsdepartementet og som skulle inngå i et beredskapslager for eventuell omdisponering til bruk i kriseområder i andre land.
 
 Fritaket ble gitt med hjemmel i tolltariffens innledende bestemmelser § 12 og merverdiavgiftslovens § 70.
@@ -32,7 +34,11 @@ Av saksdokumentene framgår at Nærings- og Handelsdepartementet har inngått en
 
 I Deres søknad av 14. september d.å. bes om at tidligere fritak videreføres i sin helhet.
 
+*2. Toll- og avgiftsdirektoratets vurdering*
+
 Både på toll- og merverdiavgiftsområdet er det iverksatt nytt regelverk. Ny tollov trådte i kraft 1. januar 2009, og ny merverdiavgiftslov trådte i kraft 1. januar 2010.
+
+*Merverdiavgift*
 
 Ved iverksettelsen av ny merverdiavgiftslov 1. januar 2010, ble det forutsatt at alle tidligere gitte dispensasjoner skulle oppheves. Dette blant annet for å få et mer oversiktlig regelverk. En rekke av de tidligere gitte vedtak hadde i sin form forskrifts karakter, og er i stor grad innarbeidet i loven.
 
@@ -45,6 +51,8 @@ I medhold av [merverdiavgiftsloven § 19-3](lov/2009-06-19-58/§19-3), kan depar
 Toll- og avgiftsdirektoratet finner med hjemmel i merverdiavgiftsloven § 19-3 å kunne gi fritak for innførselsmerverdiavgift på nødproviant (BP-5) som Compact AS omsetter til Nærings- og handelsdepartementet. Fritaket gjelder for de varer som inngår som nødproviant på beredskapslagre og eventuelt seneres blir omdisponert til bruk i kriseområder i andre land.
 
 Det forutsettes at nødprovianten selges til Nærings- og handelsdepartementet, og at departementets avtale med Utenriksdepartementet opprettholdes.
+
+*Toll*
 
 Ved iverksettelse av ny tollov ble det forutsatt at enkeltvedtak gitt med hjemmel i tolltariffens innledende bestemmelser § 12, fortsatt skal gjelde.
 

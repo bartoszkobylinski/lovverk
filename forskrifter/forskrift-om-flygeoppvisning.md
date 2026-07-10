@@ -102,7 +102,14 @@ Høyeste tillatte hastighet ved flygeoppvisning er den som inntreffer først av 
 
 ### § 12. Sikkerhetsavstander mellom oppvisningsområde og publikumsområde
 
-Flygeoppvisning må finne sted i sikker avstand fra publikum. Oppvisningslinjen skal ikke i noe tilfelle ligge nærmere publikumslinjen enn:*Alle luftfartøy**Kategori**KIAS * KG**Rettlinjet forbiflyging, avgang og landing**Akroflyging og manøvrering*IOver 1 250 000100 meter230 meterII500 000–1 250 00075 meter160 meterIIIUnder 500 00050 meter100 meter
+Flygeoppvisning må finne sted i sikker avstand fra publikum. Oppvisningslinjen skal ikke i noe tilfelle ligge nærmere publikumslinjen enn:
+
+| *Alle luftfartøy* |  |  |  |
+| --- | --- | --- | --- |
+| *Kategori* | *KIAS \* KG* | *Rettlinjet forbiflyging, avgang og landing* | *Akroflyging og manøvrering* |
+| I | Over 1 250 000 | 100 meter | 230 meter |
+| II | 500 000–1 250 000 | 75 meter | 160 meter |
+| III | Under 500 000 | 50 meter | 100 meter |
 
 Oppvisningslinjen for hver kategori av luftfartøyer som deltar i oppvisningen, skal være klart markert med lett gjenkjennbare landemerker eller oppmerking på bakken.
 
@@ -120,13 +127,14 @@ Luftfartøy på bakken skal ikke ha propell eller rotor i drift mens det pågår
 
 ### § 14. Flygeoppvisning med luftfartøy som ikke har fører om bord og modeller
 
-Flygeoppvisning med luftfartøy som ikke har fører om bord og modeller skal finne sted i sikker avstand fra publikum. Oppvisningslinjen skal ikke i noe tilfelle ligge nærmere publikumslinjen enn:*Modelltype**Vekt (kg)**Minsteavstand til publikumslinjen*Linestyrt modellAlle15 meterFjernstyrt modell< 7 kg
-> 7kg30 meter
-50 meterFjernstyrt modell drevet med turbin/«ducted fan»75 meterLuftfartøy som ikke har fører om bord< 70 kg
-70–150 kg
-> 150 kg50 meter
-75 meter
-100 meter
+Flygeoppvisning med luftfartøy som ikke har fører om bord og modeller skal finne sted i sikker avstand fra publikum. Oppvisningslinjen skal ikke i noe tilfelle ligge nærmere publikumslinjen enn:
+
+| *Modelltype* | *Vekt (kg)* | *Minsteavstand til publikumslinjen* |
+| --- | --- | --- |
+| Linestyrt modell | Alle | 15 meter |
+| Fjernstyrt modell | < 7 kg<br>> 7kg | 30 meter<br>50 meter |
+| Fjernstyrt modell drevet med turbin/«ducted fan» |  | 75 meter |
+| Luftfartøy som ikke har fører om bord | < 70 kg<br>70–150 kg<br>> 150 kg | 50 meter<br>75 meter<br>100 meter |
 
 Flyging med frifluktmodeller er ikke tillatt.
 
@@ -206,7 +214,11 @@ Dispensasjoner fra krav til minstehøyde for oppvisningsflyging gjelder ut gyldi
 
 ## Veiledning til forskrift om flygeoppvisning
 
+*Kommentar til [§ 1](forskrift/2015-04-23-424/§1)*
+
 Militære utøvere, norske og utenlandske, følger gjeldende regler for militær luftfart, uavhengig om arrangøren av flygeoppvisningen er militær eller sivil.
+
+*Kommentar til [§ 2](forskrift/2015-04-23-424/§2) bokstav a*
 
 Det fremgår av denne definisjonen at det nødvendigvis ikke er krav til at et arrangement inneholder akroflyging for at arrangementet regnes som flygeoppvisning. Det avgjørende er om det utføres flyging for et publikum. Flyging som observeres av tilfeldig forbipasserende faller derfor utenfor definisjonen.
 
@@ -214,9 +226,15 @@ Hva som i tvilstilfeller skal anses som en flygeoppvisning beror på en konkret 
 
 Trening til konkurranse eller konkurranse som gjennomføres i tråd med internasjonal standard for akrokonkurranser gitt av CIVA (The FAI Aerobatics Commission) eller IAC (International Aerobatic Club) anses ikke som flygeoppvisning.
 
+*Kommentar til [§ 2](forskrift/2015-04-23-424/§2) bokstav h*
+
 Raskt opptrekk etter lavflyging («lowpass») regnes som en brå forandring av luftfartøyets stilling. Ved lowpass forekommer gjerne også en uvanlig fartsendring. Uvanlig stilling anses som krenging over 60 grader og +/– 30 grader i luftfartøyets tverrakse.
 
+*Kommentar til [§ 2](forskrift/2015-04-23-424/§2) bokstav l*
+
 Publikumslinjen er normalt parallell med oppvisningslinjen, men trenger ikke være en rett linje dersom den følger naturlige områdebegrensninger som plattformer, taksebaner eller grøntområder.
+
+*Kommentar til [§ 3](forskrift/2015-04-23-424/§3)*
 
 Varsel om flygeoppvisning kan skje skriftlig ved bruk av skjema fra Luftfartstilsynet. Varsel kan sendes per post, telefaks eller e-post.
 
@@ -224,11 +242,15 @@ Varselet bør minst inneholde:Navn på utøver og angivelse av hvilket luftfart�
 
 Den som ønsker å arrangere en enkeltstående flygeoppvisning må selv undersøke om arrangementet krever tillatelse fra andre aktører som f.eks. lufttrafikktjenesten, lokal politimyndighet, grunneier eller flyplassoperatør.
 
+*Kommentar til [§ 4](forskrift/2015-04-23-424/§4)*
+
 En tillatelse til flygeoppvisning fra Luftfartstilsynet dekker ikke eventuelle øvrige tillatelser som måtte kreves fra andre berørte, for eksempel lufttrafikktjenesten, lokal politimyndighet, grunneier eller flyplassoperatør. Den som ønsker å arrangere flygeoppvisning må derfor undersøke om andre tillatelser er nødvendig.
 
 For søknad om flygeoppvisning bør det brukes søknadskjema fra Luftfartstilsynet.
 
 Søknaden bør minst inneholde:Arrangørens navn, adresse og telefonnummer.Navn, adresse, telefonnummer til oppvisningsleder og til operativ oppvisningsleder.Tidspunktet for oppvisningen.Hvilken flyplass eller på hvilket område oppvisningen skal finne sted, med angivelse av publikums plassering i forhold til ferdselsområde, oppvisningsområde, parkeringsområde for luftfartøy og kjøretøy samt opplysninger om ambulanse, brann- og førstehjelpsutstyr mv.Det skal være vedlagt kartskisse over plassen hvor områdene nevnt i pkt. d (over) skal være inntegnet.Program for oppvisningen, herunder om andre aktiviteter som skal inngå i arrangementet. Programmet trenger ikke være detaljert, men det vil som regel bli stilt vilkår i tillatelsen om at detaljert program oversendes når dette er klart. Programmet må likevel angi hovedpunktene i flyoppvisningen.Angivelse av hvilke luftfartøy (type, klasse, modell og registreringsmerke) og fartøysjefer som skal ta del i oppvisningen.Oppvisningens art og berørt luftrom, minste og største flyhøyde samt minsteverdier for skydekkehøyde og sikt.Bekreftelse på at arrangør har koordinert flygeoppvisningen med lufttrafikktjenesten, lokal politimyndighet og andre berørte parter.Anslag over forventet antall besøkende.Risikoanalyse ved søknad om stor flygeoppvisning: Risikoanalysen må vise at relevante risikofaktorer ved arrangementet er kartlagt og vurdert med eventuelle risikoreduserende tiltak.
+
+*Kommentar til [§ 5](forskrift/2015-04-23-424/§5)*
 
 Siden søknad om tillatelse til flygeoppvisning skal inneholde opplysningene om oppvisningsleder, vil godkjennelsen av oppvisningsleder skje i forbindelse med at tillatelsen gis.
 
@@ -237,6 +259,8 @@ Den som oppnevnes til oppvisningsleder bør fortrinnsvis være utdannet som sivi
 Ved enkeltstående flygeoppvisning kan utøveren være oppvisningsleder.
 
 Oppvisningsleder bør påse at alle nødvendige tillatelser innhentes. I tillegg til tillatelse fra Luftfartstilsynet kan dette være tillatelse fra lokal politimyndighet, berørt brann- og redningstjeneste, lufttrafikktjenesten, flyplassoperatør og/eller grunneier. Oppvisningsleder bør også vurdere nødvendigheten av å involvere representanter fra disse aktørene i planleggingen og gjennomføringen av flygeoppvisningen.
+
+*Kommentar til [§ 6](forskrift/2015-04-23-424/§6)*
 
 Siden søknad om tillatelse til flygeoppvisning skal inneholde opplysningene om operativ oppvisningsleder, vil godkjennelsen av operativ oppvisningsleder skje i forbindelse med at tillatelsen gis.
 
@@ -248,11 +272,15 @@ Ansvaret for forsvarlig gjennomføring av trening av oppvisningsprogrammet gjeld
 
 Hva gjelder kravet til forsvarlig planlegging og gjennomføring av oppvisningsprogrammet og trening som skjer på oppvisningsområdet, bør operativ oppvisningsleder i det minste påse følgende:at sikkerhetsbestemmelsene i forskriften og eventuelle egne sikkerhetsbestemmelser overholdes,kontrollere oppvisningsprogrammet,at det utstedes detaljerte bestemmelser for oppvisningsprogrammet med meteorologiske og operative begrensninger,påse at flygere og andre stevnedeltagere blir instruert i planlagt program for arrangementet og bestemmelsene som er fastsatt for oppvisningen,kontrollere at flygere og andre deltagere har de nødvendige tillatelser eller dispensasjoner fra Luftfartstilsynet for oppvisningsflyging,kontrollere at utøver har gyldig ansvarsforsikring,iverksette nødvendige tiltak for å ivareta sikkerheten under arrangementet, inkludert sikkerheten til uskyldig tredjepart.
 
+*Kommentar til [§ 7](forskrift/2015-04-23-424/§7)*
+
 Sikkerhetskomitéen skal overvåke gjennomføring av oppvisningsprogrammet (dvs. flygingen), og formidle eventuelle uregelmessigheter til operativ oppvisningsleder. De skal også bistå utøvere med faglig veiledning i flyoperative og sikkerhetsrelaterte problemstillinger.
 
 Sikkerhetskomiteen må bestå av kvalifisert personell. I de fleste tilfeller vil dette være personer med relevant erfaring i forhold til luftfartøy som deltar i oppvisningen, fortrinnsvis personer som har hatt eller har gyldig oppvisningstillatelse.
 
 Det er viktig at radiokommunikasjon med utøver foregår uhindret og med standardisert fraseologi.
+
+*Kommentar til [§ 8](forskrift/2015-04-23-424/§8)*
 
 Luftsportsorganisasjoner med sikkerhetssystem godkjent av Luftfartstilsynet vil kunne utstede tillatelse for å utføre oppvisningsflyging dersom dette inngår i sikkerhetssystemet. For fallskjermhoppere vil oppvisningstillatelse typisk kunne være såkalt Demo II-lisens utstedt av NLF/fallskjermseksjon eller likeverdig dokument.
 
@@ -262,21 +290,33 @@ For utenlandsk sertifikatinnehaver må Luftfartstilsynet vurdere rettighetene ko
 
 Med spesielle effekter menes effekter som ikke brukes under normal flyging men som et ledd i oppvisningen. Eksempler på spesielle effekter er røykolje, pyrotekniske ladninger til bruk i oppvisnings øyemed og gass til gassdrevne dummy våpen.
 
+*Kommentar til [§ 9](forskrift/2015-04-23-424/§9)*
+
 Instruksen bør inneholde nødvendig kontaktinformasjon til aktuelt helsepersonell, akuttmedisinsk kommunikasjonssentral (AMK), politi og brannstasjon. Instruksen bør også inneholde kontaktinformasjon til arrangementets førstehjelpstjeneste og til brann- og havaritjeneste, dersom slike tjenester er etablert. Instruksen bør koordineres med aktuell flyplassjef.
 
 Førstehjelpstjenestens omfang bør planlegges ut fra en gjennomført sikkerhetsanalyse.
 
 Minimumskravet til synlighetstøy er refleksvest. Annet synlighetstøy kan benyttes så lenge sikkerhetsnivået forblir det samme eller bedre.
 
+*Kommentar til [§ 10](forskrift/2015-04-23-424/§10)*
+
 Bakkemannskap som nevnt i bestemmelsen kan være mannskap ansatt ved flyplassen, eller hvis slikt mannskap ikke er tilgjengelig, mannskap fra enten arrangør eller luftfartsoperatør som er gitt tilstrekkelig opplæring.
 
+*Kommentar til [§ 11](forskrift/2015-04-23-424/§11)*
+
 Med farlig gods menes gods og gjenstander som anses som farlig gods i henhold til ICAOs «Tecnical Instructions for the safe transport of dangerous goods by air» ICAO DOC 9284.
+
+*Kommentar til [§ 12](forskrift/2015-04-23-424/§12)*
 
 Luftfartøy som skal delta i flygeoppvisning deles inn i tre kategorier massefart. Disse er basert på flyets indikerte hastighet i knop (KIAS), multiplisert med flyets maksimale sertifiserte avgangsmasse (kg).
 
 Sikkerhetsavstandene i tabellen gjelder også flyging i forbindelse med fotopassering.
 
+*Kommentar til [§ 15](forskrift/2015-04-23-424/§15)*
+
 En flyplass med tårntjeneste vil være fly-/helikopterplasser bemannet med flygeledere eller AFIS/HFIS personell.
+
+*Kommentar til [§ 16](forskrift/2015-04-23-424/§16), Generelt:*
 
 Bestemmelsen omhandler Luftfartstilsynets utstedelse av oppvisningstillatelse. Oppvisningstillatelse er en operativ tillatelse som gir innehaveren rett til å delta som utøver på flygeoppvisning ved å operere luftfartøy i henhold til øvelser og minstehøyder som angitt i tillatelsen.
 
@@ -292,7 +332,13 @@ Oppvisningstillatelse utstedes for kategorier, klasser, modeller eller individer
 
 Oppvisningstillatelse kan gis for følgende typer øvelser:demonstrasjon av forbiflyging og normal manøvrering,akroflyging,formasjonsflyging,akro formasjon,hoverøvelser.
 
-Oppvisningstillatelse for fly, seilfly, mikrofly, helikopter gis ned til følgende minstehøyder over bakken med mindre annet er spesifisert i tillatelsen:*Nivå**Akroøvelser og normal manøvrering**Rettlinjet forbiflyging*I400 fot200 fotII300 fot100 fotIII200 fot50 fot
+Oppvisningstillatelse for fly, seilfly, mikrofly, helikopter gis ned til følgende minstehøyder over bakken med mindre annet er spesifisert i tillatelsen:
+
+| *Nivå* | *Akroøvelser og normal manøvrering* | *Rettlinjet forbiflyging* |
+| --- | --- | --- |
+| I | 400 fot | 200 fot |
+| II | 300 fot | 100 fot |
+| III | 200 fot | 50 fot |
 
 Ved første gangs utstedelse gis tillatelsen normalt til nivå I. Oppvisningstillatelse som gjelder nivå II og/eller nivå III gis ved utvidelse av tillatelsen etter ny evaluering, med mindre utøver allerede ved førstegangsutstedelsen kan dokumentere særskilt relevant erfaring fra tilsvarende flyging som gjør at vedkommende anses kvalifisert for nivå II og/eller III.
 
@@ -304,19 +350,35 @@ Luftfartstilsynet kan gi type- eller modellspesifisert oppvisningstillatelse uto
 
 Luftfartstilsynet kan fastsette særskilte vilkår for oppvisningstillatelsen. Slike særskilte vilkår kan være aktuelle dersom forhold ved luftfartøy, utøver, sted eller oppvisningstillatelsens omfang tilsier at en spesielt tilpasset tillatelse er nødvendig for å oppnå et akseptabelt risikonivå i forbindelse med oppvisningsflygingen.
 
+*Kommentar til [§ 16](forskrift/2015-04-23-424/§16) c) Evaluering*
+
 Når godkjent opplæring er gjennomført, kan utøveren fremstille seg for en oppvisningsevaluator som evaluerer utøveren etter et program godkjent av Luftfartstilsynet. Evalueringen skal omfatte muntlig eksaminasjon og gjennomføring av aktuelle øvelser ned til aktuelle minstehøyder. Utøveren må demonstrere kunnskap, ferdigheter og holdninger som anses sikkerhetsmessig forenlig med å gjennomføre flygeoppvisning.
 
+*Kommentar til [§ 16](forskrift/2015-04-23-424/§16) d) Angående dokumentasjon av akroflyging, timekrav:*
+
 I denne sammenheng menes det flyging som er planlagt og gjennomført med den hensikt å utføre akroflyging. En flytur hvor en tilfeldigvis tar en øvelse, anses ikke som dokumenterbar akroflyging. Dokumentasjon av akroflyging gjøres av den enkelte flyger i dennes loggbok.
+
+*Kommentar til [§ 17](forskrift/2015-04-23-424/§17)*
 
 Opplæringsprogrammet skal omfatte teoretisk og praktisk del som bør omfatte minst følgende elementer:*Teoripensum:*Gjennomgang av forskrift for flygeoppvisning med tilhørende veiledningGenerelt om flystevner og flygeoppvisningerGjennomgang av ulykker ved flystevnerRisikohåndtering med relevante metoder og verktøy for risikohåndtering ved flygeoppvisningerKonstruksjon av oppvisningsprogramEnergihåndteringEffekten av vindFaremomenter ved ulike øvelserRisikohåndtering relatert til publikum og utøverHåndtering av avvik og potensielle nødsituasjonerHoldningerMenneskelige ytelser og begrensingerRollen som oppvisningspilot, psykologiske forhold, forventninger og pressGjennomgå forberedelser til en oppvisning for et typisk flystevne, hva kan forventes av uventende overraskelser. Eksempler fra en typisk flystevnebriefing.*Praktisk pensum:*Fly aktuell sekvens sikkert og med tilstrekkelig presisjonUnngå å utgjøre en fare for publikumRespektere displayline og minimumshøydeOverholde oppvisningsområdets begrensninger i forhold til flyplassens omgivelser og luftromPresentere sekvensen for publikum på en relevant og kvalitetsmessig akseptabel måte
 
 En instruktør må selv inneha gyldig oppvisningstillatelse som dekker de typer øvelser og type luftfartøy som det skal instrueres i.
 
-Adgangen til flyging under de alminnelige gjeldene minstehøydene gjelder kun ved flyging under opplæring, dvs. flyging under instruksjon etter denne bestemmelsen. Flyging for oppvisningsevaluator anses også som flyging under opplæring. Vedkommende instruktør eller oppvisningsevaluator avgjør når flyging under minstehøydene kan skje. Flygingen kan skje ned til følgende minstehøyder, avhengig av hvilket nivå det trenes til:*Nivå**Akroøvelser og normal manøvrering**Rettlinjet forbiflyging*I400 fot200 fotII300 fot100 fotIII200 fot50 fot
+Adgangen til flyging under de alminnelige gjeldene minstehøydene gjelder kun ved flyging under opplæring, dvs. flyging under instruksjon etter denne bestemmelsen. Flyging for oppvisningsevaluator anses også som flyging under opplæring. Vedkommende instruktør eller oppvisningsevaluator avgjør når flyging under minstehøydene kan skje. Flygingen kan skje ned til følgende minstehøyder, avhengig av hvilket nivå det trenes til:
+
+| *Nivå* | *Akroøvelser og normal manøvrering* | *Rettlinjet forbiflyging* |
+| --- | --- | --- |
+| I | 400 fot | 200 fot |
+| II | 300 fot | 100 fot |
+| III | 200 fot | 50 fot |
 
 Det anbefales at treningsdagbok føres av utøver slik at egentrening og personlige flygeferdigheter forbedres systematisk.
 
+*Kommentar til [§ 18](forskrift/2015-04-23-424/§18)*
+
 Gjennomført evaluering bekreftes av oppvisningsevaluator ved påtegning på oppvisningstillatelsen.
+
+*Kommentar til [§ 19](forskrift/2015-04-23-424/§19)*
 
 Luftfartstilsynets aksept av en person som oppvisningsevaluator innebærer at Luftfartstilsynet ikke har innsigelser til at vedkommende opptrer som oppvisningsevaluator. Luftfartstilsynets aksept innebærer ikke av vedkommende på noen måte opptrer på vegne av Luftfartstilsynet.
 
@@ -325,5 +387,7 @@ Den som ønsker å bli akseptert som oppvisningsevaluator må sende Luftfartstil
 I vurderingen om en person skal aksepteres som oppvisningsevaluator vil Luftfartstilsynet i særlig grad vektlegge:Vedkommendes erfaring som oppvisningsflyger. Oppvisningsevaluator må ha god erfaring som oppvisningsflyger for samme typer øvelser og luftfartøy som det kandidaten skal evalueres i.At vedkommende har god holdning til flysikkerhet og viser god dømmekraft i forhold flyging (godt «airmanship»), ettersom det anses som viktig at evaluator utøver en veiledende rolle for god sikkerhetskultur i oppvisningsmiljøet.At Luftfartstilsynet har tillit til at vedkommende kan utøve funksjonen som oppvisningsevaluator på en samvittighetsfull og sikker måte.
 
 Aksept gis for bestemte klasser av øvelser, og for kategorier, klasser, typer og modeller av luftfartøy eller andre innretninger som benyttes til bemannet flyging.
+
+*Kommentar til [§ 23](forskrift/2015-04-23-424/§23)*
 
 Søknad om dispensasjon skal beskrive årsaken til søknaden, samt inneholde en risikoanalyse og en beskrivelse av kompenserende tiltak som skal medføre at sikkerhetsnivået opprettholdes eller forbedres.

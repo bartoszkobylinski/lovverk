@@ -104,6 +104,8 @@ Tilgangen er begrenset til opplysninger som organet har hjemmel i lov til å inn
 
 > Endret ved [lover 27 mai 2016 nr. 12](lov/2016-05-27-12), [20 des 2016 nr. 118](lov/2016-12-20-118) (med virkning fra inntektsåret 2017), [19 des 2017 nr. 122](lov/2017-12-19-122) (ikr. 1 apr 2018 iflg. [res. 16 feb 2018 nr. 220](forskrift/2018-02-16-220)), [20 des 2019 nr. 100](lov/2019-12-20-100) (ikr. 1 nov 2020 iflg. [res. 30 okt 2020 nr. 2181](forskrift/2020-10-30-2181)), [22 jan 2021 nr. 2](lov/2021-01-22-2) (ikr. 1 jan 2021), [18 juni 2021 nr. 97](lov/2021-06-18-97) (i kraft 1 jan 2023 iflg. [res. 14 okt 2022 nr. 1739](forskrift/2022-10-14-1739)), [17 juni 2022 nr. 44](lov/2022-06-17-44) (i kraft 1 jan 2023 iflg. [res. 17 juni 2022 nr. 1037](forskrift/2022-06-17-1037)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967), med unntak i saker om utlegg, se [ikrafttredelsesvedtaket](forskrift/2025-06-10-967) bokstav a).
 
+1 Inkurie: Ved endring [17 juni 2022 nr. 44](lov/2022-06-17-44) ble «barnevernsloven» ved en inkurie endret tilbake til «barnevernloven».
+
 ## § 9. Inntektsmottakers innsynsrett
 
 Inntektsmottaker har innsynsrett i opplysninger om egne forhold som er innsamlet etter denne lov.
@@ -141,6 +143,8 @@ Bestemmelsene i [§ 10](lov/2012-06-22-43/§10) annet til syvende ledd gjelder t
 ## § 12. Ikrafttredelse
 
 Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
+
+1 Fra 1 jan 2015 med unntak av [§ 12a](lov/2012-06-22-43/§12a) som trådte ikr. 26 sep 2014, iflg. [res. 26 sep 2014 nr. 1220](forskrift/2014-09-26-1220).
 
 ## § 12 a. Overgangsbestemmelser
 

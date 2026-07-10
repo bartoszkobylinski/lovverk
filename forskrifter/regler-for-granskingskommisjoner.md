@@ -56,9 +56,15 @@ Ved oppnevningen av kommisjonen kan det være aktuelt å fastsette at myndighete
 
 ## IV – Saksbehandlingen i granskingskommisjoner.
 
+1\. *Habilitet.*
+
 I sitt arbeid er kommisjonen bundet av habilitetsreglene i [forvaltningsloven §§ 6](lov/1967-02-10/§6) flg. (Se [forvaltningsloven § 10](lov/1967-02-10/§10), som fastsetter hvem habilitetsreglene gjelder for.) I forhold til habilitetsreglene bør man anse som parter ikke bare de personer som det på det aktuelle tidspunkt er spørsmål om å rette kritikk mot, men alle som får sitt forhold gransket av kommisjonen. (Jfr. nedenfor i avsnitt IV punkt 4 om partsrettigheter ellers.)
 
+2\. *Offentlighet og taushetsplikt.*
+
 Mens kommisjonen er i arbeid, gjelder i prinsippet offentlighetslovens regler om dokumentoffentlighet for den. En rekke av unntakene fra offentlighet er imidlertid aktuelle, se særlig § 5 nr. 1 (interne arbeidsdokumenter og uttalelser innhentet uten lovbestemt plikt) og § 6 nr. 6 (rapporter m. m. i anledning av overtredelse av gjeldende lovgivning). Kommisjonens møter (forhandlinger) er ikke offentlige, med mindre kommisjonen selv finner grunn til det. Om offentliggjøring av rapporten vises det til avsnitt IV punkt 6 nedenfor. Etter gjeldende rett har kommisjonens medlemmer som hovedregel taushetsplikt bare dersom de pålegges å bevare taushet om de forhold de blir kjent med (jfr. [straffelovens § 121](lov/2005-05-20-28/§121)). Men en del lovbestemmelser som retter seg mot enhver, kan få betydning også for kommisjonen (se f.eks. [straffelovens §§ 90](lov/2005-05-20-28/§90) flg. om forsvars- og sikkerhetsopplysninger). – Justisdepartementet arbeider for tiden med lovregler om taushetsplikt for personopplysninger og næringsopplysninger, og disse reglene er ment å skulle gjelde også for granskingskommisjoner.
+
+3\. *Forklaringer.*
 
 Kommisjonen kan ikke pålegge noen å gi forklaring. Oppnevningsmyndigheten vil imidlertid kunne bestemme at kommisjonen kan kreve opplysninger av organer og tjenestemenn som står under oppnevningsmyndighetens kontroll. Opplysningsplikt bør likevel ikke pålegges den tjenestemann som er mistenkt for et bestemt straffbart forhold når det gjelder noe som omfattes av mistanken.
 
@@ -71,6 +77,8 @@ Forklaringer av betydning bør som hovedregel gis i samlet kommisjonsmøte. Ette
 Forklaringer må skrives ned. Den som har forklart seg, må deretter få forklaringen lest opp til vedtakelse eller forelagt til gjennomlesing. Så vidt mulig skal den også forelegges ham til underskrift. Om protokollasjon og om stenografiske opptak og opptak ved mekaniske hjelpemidler bør granskingskommisjonen følge de regler som gjelder for forklaringer under utenrettslig etterforsking i straffesaker.
 
 Etter en endring i [domstolloven § 43](lov/1915-08-13-5/§43) (lov 15. november 1974 nr. 59) har granskingskommisjoner oppnevnt av Kongen, Stortinget eller et departement adgang til å begjære bevisopptak ved domstolene. Dette kan dels være aktuelt i tilfelle der forklaring ikke blir gitt frivillig, dels i tilfelle der forklaring for domstol av andre grunner er hensiktsmessig.
+
+4\. *Partsrettigheter.*
 
 De personer som det kan bli aktuelt å rette kritikk mot, bør sikres visse partsrettigheter under kommisjonens arbeid. Kommisjonens rapport er ikke enkeltvedtak i forvaltningslovens forstand, og bestemmelsene i forvaltningslovens kapitler V og VI gjelder derfor ikke for den. Kommisjonens arbeid kan vanligvis heller ikke ses som et ledd i sak som gjelder enkeltvedtak. Som utgangspunkt kommer derfor heller ikke [forvaltningslovens kapittel IV](lov/1967-02-10/kapiv) (om saksforberedelse ved enkeltvedtak) til anvendelse. En del hovedprinsipper for kontradiktorisk saksbehandling må likevel følges av granskingskommisjonene.
 
@@ -86,11 +94,17 @@ En part bør ha adgang til selv å føre bevis, bl.a. ved vitner og sakkyndige.
 
 Parten bør gis adgang til å være til stede under alle forklaringer fra parter, vitner og sakkyndige. Etter nærmere bestemmelse fra kommisjonen bør han få adgang til å stille spørsmål og eksaminere dem som gir forklaring. Kommisjonen kan likevel beslutte at en part ikke skal ha rett til å være til stede under en forklaring dersom dette må anses nødvendig for å få en uforbeholden forklaring fra den som skal avhøres. I så fall må parten så snart som mulig gis rett til å gjøre seg kjent med og kommentere forklaringen.
 
+5\. *Advokat eller annen fullmektig.*
+
 Etter [forvaltningslovens § 12](lov/1967-02-10/§12) har en part rett til å la seg bistå av advokat eller annen fullmektig på alle trinn av saksbehandlingen. Denne bestemmelsen gjelder også for granskingskommisjoner. Etter § 12 tredje ledd kan alle henvendelser i saken gjøres ved fullmektig, og parten har rett til å ha med fullmektig når han møter personlig for kommisjonen. Alle meddelelser og henvendelser fra kommisjonen skal skje til partens fullmektig når forholdet dekkes av fullmakten. Når det finnes hensiktsmessig, kan parten også underrettes direkte. Parten kan kreve å bli underrettet ved siden av eller istedenfor fullmektigen. Se ellers bestemmelsene i § 12.
+
+6\. *Rapporten.*
 
 I sin rapport må kommisjonen selvsagt gjøre greie for det materiale som er skaffet til veie, gi en framstilling av det saksforhold den legger til grunn og grunngi de konklusjoner den trekker av det materialet som foreligger. Noen særskilt grunngiving som nevnt i [forvaltningslovens §§ 24](lov/1967-02-10/§24) flg., blir derimot ikke aktuell. Det blir heller ikke aktuelt for kommisjonen å gi underretning til partene om rapporten. Men den myndighet som rapporten avgis til, må sørge for at de personer det rettes kritikk mot i rapporten, og de som ellers har vært gjenstand for gransking (særlig de som har gjort partsrettigheter gjeldende under kommisjonens arbeid), får kopi av rapporten, iallfall de deler som gjelder deres eget forhold.
 
 Den myndighet rapporten avgis til, må også ta stilling til spørsmål om trykking og offentliggjøring av rapporten. Offentlighetslovens regler kommer her til anvendelse. Rapporten bør i alminnelighet ikke unntas fra offentlighet i medhold av [offentlighetslovens § 5](lov/2006-05-19-16/§5) nr. 1 eller [§ 6](lov/2006-05-19-16/§6) nr. 6. Det vises også til rundskriv 12. juni 1973 fra Forbruker- og administrasjonsdepartementet (P 56/73) og rundskriv 14. mai 1973 fra Statsministeren (B 3/73).
+
+7\. *Overprøving.*
 
 Det er ikke klagerett over kommisjonens rapport og dens konklusjoner. Mulige feil i rapporten eller ved saksbehandlingen kan derimot brukes som klagegrunn dersom rapporten fører til at det blir truffet enkeltvedtak som kan påklages.
 

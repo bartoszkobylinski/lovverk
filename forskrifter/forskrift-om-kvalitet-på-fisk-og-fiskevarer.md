@@ -184,7 +184,20 @@ Hummer, krabbe og sjøkreps skal kokes umiddelbart etter avliving. Kongekrabbe s
 
 ### § 20. Varebetegnelser
 
-Saltfisk, klippfisk og saltfilet kan bare tilvirkes av følgende arter som alle tilhører torskefamilien (familien *Gadidae*):*Norsk navn**Engelsk navn**Latinsk navn*TorskCod*Gadus morhua*StillehavstorskPacific cod*Gadus macrocephalus*PolartorskPolar cod*Boreogadus saida*GrønlandstorskGreenland cod*Gadus ogac*SeiSaithe*Gadus virens* (ss. *Pollachius virens*)LangeLing*Molva molva*BlålangeBlue ling*Molva dypterygia*BrosmeTusk*Brosme brosme*Skjellbrosme (ss. bustebrosme)Forkbeard*Phycis blennoides*HyseHaddock*Gadus aeglefinus* (ss. *Melanogrammus aeglefinus*)
+Saltfisk, klippfisk og saltfilet kan bare tilvirkes av følgende arter som alle tilhører torskefamilien (familien *Gadidae*):
+
+| *Norsk navn* | *Engelsk navn* | *Latinsk navn* |
+| --- | --- | --- |
+| Torsk | Cod | *Gadus morhua* |
+| Stillehavstorsk | Pacific cod | *Gadus macrocephalus* |
+| Polartorsk | Polar cod | *Boreogadus saida* |
+| Grønlandstorsk | Greenland cod | *Gadus ogac* |
+| Sei | Saithe | *Gadus virens* (ss. *Pollachius virens*) |
+| Lange | Ling | *Molva molva* |
+| Blålange | Blue ling | *Molva dypterygia* |
+| Brosme | Tusk | *Brosme brosme* |
+| Skjellbrosme (ss. bustebrosme) | Forkbeard | *Phycis blennoides* |
+| Hyse | Haddock | *Gadus aeglefinus* (ss. *Melanogrammus aeglefinus*) |
 
 Betegnelsen saltfisk, klippfisk og saltfilet kan ikke brukes for tilvirking av saltet og tørket fisk av andre arter.
 
@@ -346,8 +359,178 @@ Samtidig oppheves kvalitetsforskrift 14. juni 1996 nr. 667 for fisk og fiskevare
 
 ### A. Beskrivelse av hvilke varer som er omfattet av merkekrav for fisk og fiskevarer:
 
+| *Pos. nr. i tolltariffen*1 | *Varebeskrivelse* |
+| --- | --- |
+| 03.01 | Fisk, levende. |
+| 03.02 | Fisk, fersk eller kjølt, unntatt fiskefileter og annet fiskekjøtt som hører under posisjon 03.04. |
+| 03.03 | Fisk, fryst, unntatt fiskefileter og annet fiskekjøtt som hører under posisjon 03.04. |
+| 03.04 | Fiskefileter og annet fiskekjøtt (også opphakket), ferskt, kjølt eller fryst. |
+| 03.05 | Fisk, tørket, saltet eller i saltlake; røykt fisk, også varmrøykt; mel og pelleter av fisk, egnet til menneskeføde. |
+| 03.06 | Krepsdyr, med eller uten skall, levende, ferske, kjølte, fryste, tørkede, saltede eller i saltlake; krepsdyr med skall, dampkokt eller kokt i vann, også kjølte, fryste, tørkede, saltede eller i saltlake; mel og pelleter av krepsdyr, egnet til menneskeføde. |
+| 03.07 | Bløtdyr, med eller uten skall, levende, ferske, kjølte, fryste, tørkede, saltede eller i saltlake; virvelløse dyr som lever i vann, andre enn krepsdyr og bløtdyr, levende, ferske, kjølte, fryste, tørkede, saltede eller i saltlake; mel og pelleter av virvelløse dyr som lever i vann, andre enn krepsdyr, egnet til menneskeføde. |
+
+1 Tabellen tar utgangspunkt i posisjonsnumrene i den norske tolltariffen kapittel 3. Gjeldende tolltariff er i likhet med EUs kombinerte nomenklatur basert på 2007-versjonen av HS-nomenklaturen.
+
 ### B. Fangstområde for arter fisket i havet:
+
+| *Navn som skal benyttes for å beskrive fangstområde* | *FAO-område* |
+| --- | --- |
+| Nordvestlig Atlanterhavet | 21 |
+| Nordøstlige Atlanterhavet | 27 |
+| Østersjøen | 27.IIId |
+| Sentralvestlige Atlanterhavet | 31 |
+| Sentraløstlige Atlanterhavet | 34 |
+| Sørvestlige Atlanterhavet | 41 |
+| Sørøstlige Atlanterhavet | 47 |
+| Middelhavet | 37.1, 37.2 og 37.3 |
+| Svartehavet | 37.4 |
+| Det Indiske Hav | 51 og 57 |
+| Stillehavet | 61, 67, 71, 77, 81 og 87 |
+| Antarktis | 48, 58 og 88 |
 
 ## Vedlegg II
 
 ### Liste over betegnelser og arter til bruk i merking
+
+| *Norsk navn* | *Latinsk navn* |
+| --- | --- |
+| Abbor | *Perca fluviatilis* |
+| Akkar | *Todarodes sagittatus* |
+| Alaskapollock | *Theragra chalcogramma* |
+| Alaskatorsk | *Gadus macrocephalus* |
+| Amerikansk hummer | *Homarus americanus* |
+| Ansjos | *Engraulis encrasicolus* |
+| Antarktisk krill | *Euphausia superba* |
+| Berggylte | *Labrus bergylta* |
+| Blå marlin | *Makaira nigricans* |
+| Blåhai | *Prionace glauca* |
+| Blåkveite | *Reinhardtius hippoglossoides* |
+| Blålange | *Molva dypterygia* |
+| Blåskjell | *Mytilus edulis* |
+| Blåsteinbit | *Anarhichas denticulatus* |
+| Breiflabb | *Lophius piscatorius* |
+| Brisling | *Sprattus sprattus* |
+| Brosme | *Brosme brosme* |
+| Brudefisk | *Centroberyx affinis* |
+| Brugde | *Cetorhinus maximus* |
+| Chilensk blåskjell | *Mytilus chilensis* |
+| Dypvannshå | *Centroscymnus coelolepis* |
+| Ferskvannskreps | *Astacus astacus* |
+| Fjesing | *Trachinus draco* |
+| Gapeflyndre | *Hippoglossoides platessoides* |
+| Gjedde | *Esox lucius* |
+| Gjørs | *Stizostedion lucioperca* |
+| Glassvar | *Lepidorhombus whiffiagonis* |
+| Grønnskjell | *Perna canaliculus* |
+| Gulfinnet tunfisk | *Thunnus albacares* |
+| Gyllen havkaruss | *Sparus aurata* |
+| Haneskjell | *Chlamys islandica* |
+| Harpeskjell | *Chlamys opercularis* |
+| Harr | *Thymallus thymallus* |
+| Havabbor (Sea Bass) | *Dicentrarchus labrax* |
+| Havbrasme | *Brama brama* |
+| Havkaruss (Sea Bream) | *Spondyliosoma cantharus* |
+| Hjerteskjell | *Cardium edule* |
+| Hummer | *Homarus gammarus* |
+| Hvitfotreke | *Penaeus vannamei* |
+| Hvitting | *Merlangius merlangus* |
+| Hyse, kolje | *Melanogrammus aeglefinus* |
+| Hå | *Deania calceus* |
+| Hå | *Etmopterus spinax* |
+| Hå | *Galeorhinus galeus* |
+| Hå | *Scyliorhinus canicula* |
+| Håbrann | *Lamna nasus* |
+| Hågjel | *Galeus melastomus* |
+| Håkjerring | *Somniosus microcephalus* |
+| Isgalt | *Macrourus berglax* |
+| Kamskjell | *Pecten maximus* |
+| Karpe | *Cyprinus carpio* |
+| Knurr | *Eutrigla* (= *Trigla*) *gurnardus* |
+| Kolmule | *Micromesistius poutassou* |
+| Kongekrabbe | *Paralithodes camtschaticus* |
+| Kongemakrell | *Scomberomorus maculatus* |
+| Kongereke | *Penaeus kerathurus* |
+| Kongesnegl | *Buccinum undatum* |
+| Kråkebolle | *Strongylocentrotus Droebachiensis* |
+| Kuskjell | *Cyprina islandica* |
+| Kveite | *Hippoglossus hippoglossus* |
+| Laks | *Salmo salar* |
+| Laksestørje | *Lampris guttatus* |
+| Lange | *Molva molva* |
+| Langfinnet tunfisk | *Thunnus alalunga* |
+| Lodde | *Mallotus villosus* |
+| Lomre | *Microstomus kitt* |
+| Lyr | *Pollachius pollachius* |
+| Lysing | *Merluccius merluccius* |
+| Makrell | *Scomber scombrus* |
+| Makrellstørje | *Thunnus thynnus* |
+| Mort | *Rutilus rutilus* |
+| Mulle | *Mullus surmuletus* |
+| Niltilapia | *Oreochromis niloticus* |
+| Oskjell | *Modiolus modiolus* |
+| Pagell | *Pagellus acarne* |
+| Pagell | *Pagellus bogaraveo* |
+| Pagell | *Pagellus erythrinus* |
+| Pangasius | *Pangasius hypophthalmus* |
+| Pigghå | *Squalus acanthias* |
+| Piggvar | *Psetta maxima* |
+| Polartorsk | *Boreogadus saida* |
+| Portugisisk østers | *Crassostrea angulata* |
+| Ramsays isfisk | *Patagonotothen ramsayi* |
+| Regnbueørret | *Oncorhynchus mykiss* |
+| Reker | *Pandalus borealis* |
+| Rognkjeks | *Cyclopterus lumpus* |
+| Rød snapper | *Lutjanus campechanus* |
+| Rødmulle | *Mullus barbatus* |
+| Rødspette | *Pleuronectes platessa* |
+| Røye | *Salvelinus alpinus* |
+| Sandflyndre | *Limanda limanda* |
+| Sandskjell | *Spisula solidissima* |
+| Sanktpetersfisk | *Zeus faber* |
+| Sardin | *Sardina pilchardus* |
+| Sei | *Pollachius virens* |
+| Sik | *Coregonus lavaretus* |
+| Sild | *Clupea harengus* |
+| Sjøkreps | *Nephrops norvegicus* |
+| Skate | *Bathyraja spinicauda* |
+| Skate | *Dipturus* (*Raja*) *oxyrinchus* |
+| Skate | *Raja montagui* |
+| Skate | *Rajella* (*Raja*) *fyllae* |
+| Skjeggbrosme | *Urophycis tenuis* |
+| Skjellbrosme | *Phycis phycis* |
+| Skrubbe | *Platichthys flesus* |
+| Slettvar | *Scopthalamus rhombos* |
+| Smørflyndre | *Glyptocephalus cynoglossus* |
+| Snabeluer | *Sebastes mentella* |
+| Spansk makrell | *Scomber colias* |
+| Stamsild | *Alosa fallax* |
+| Steinbit | *Anarhichas lupus* |
+| Steinbit | *Anarhichas minor* |
+| Stillehavsøsters | *Crassostrea giga* |
+| Storøyd tunfisk | *Thunnus obesus* |
+| Strandreke | *Palaemon serratus* |
+| Strandsnegl | *Littorina littoria* |
+| Stripet havabbor | *Morone saxatilis* |
+| Stripet pelamide | *Sarda sarda* |
+| Strømsild | *Argentina sphyraena* |
+| Sverdfisk | *Xiphias gladius* |
+| Sølvlaks | *Oncorhynchus kisutch* |
+| Sørlig laksestørje | *Lampris immaculatus* |
+| Taggmakrell | *Trachurus trachurus* |
+| Tannbrasme | *Dentex dentex* |
+| Tannfisk | *Dissostichus elegonoides* |
+| Tannfisk | *Dissostichus mawsoni* |
+| Taskekrabbe | *Cancer pagurus* |
+| Tiarmet blekksprut | *Illex illecebrosus* |
+| Tiarmet blekksprut | *Loliginidae, Ommastrephidae* |
+| Tiarmet blekksprut | *Loligo forbesi* |
+| Tigerreke | *Penaeus kerathurus* |
+| Tigerreke | *Penaeus monodon* |
+| Torsk | *Gadus morhua* |
+| Tunge | *Solea solea* |
+| Vanlig papegøyefisk | *Sparisoma cretense* |
+| Vanlig uer | *Sebastes marinus* |
+| Vassild | *Argentina silus* |
+| Ørret | *Salmo trutta* |
+| Østers | *Ostrea edulis* |
+| Ål | *Anguilla anguilla* |

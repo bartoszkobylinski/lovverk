@@ -194,9 +194,9 @@ Alle produkter skal enkelt kunne identifiseres på lager og i alle omsetningsled
 
 ### § 18. Varetype for gjødsel
 
-1. Gjødsel som er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 skal merkes med vedkommende varetype og i tillegg med følgende der det passer:Gjødsel som tilfredsstiller varetypene i vedlegg 2 [kapittel A](forskrift/2003-07-04-1063/kapa) og B skal tilføyes tall som angir innholdet av næringsstoffer. Tallene skal angis i samme rekkefølge som de kjemiske symbolene (f.eks. NPK-gjødsel 21-4-10).Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype (f.eks. NPK-gjødsel 21-4-10 mekanisk blandet)For gjødsel som vesentlig inneholder hovednæringsstoffer og som deklareres med sekundærnæringsstoffer skal betegnes med varetype etterfulgt av «med» og deretter navn eller kjemisk tegn på de næringsstoff som er tilstede i gjødselen. De tall som angir innhold av hovednæringsstoff kan etterfølges av tall som angir innholdet av Ca, Mg, Na, S der disse angis i parentes (f.eks. NPK-gjødsel 15-4-12 (3-3) med Mg og S).Blandinger av to eller flere av gjødseltypene i [kapittel D](forskrift/2003-07-04-1063/kapd) og som inneholder minst to ulike mikronæringsstoff skal ha varetype «blanding av mikronæringsstoff» etterfulgt av navnet på de mikronæringsstoffene som er tilstede eller av stoffenes kjemiske tegn.Gjødsel som vesentlig inneholder hovednæringsstoff og som deklareres med innhold av mikronæringsstoff skal etter varetypen tilføyes enten:«med mikronæringsstoff» eller«med» etterfulgt av navn på de mikronæringsstoff som er tilstede.
+1\. Gjødsel som er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 skal merkes med vedkommende varetype og i tillegg med følgende der det passer:Gjødsel som tilfredsstiller varetypene i vedlegg 2 [kapittel A](forskrift/2003-07-04-1063/kapa) og B skal tilføyes tall som angir innholdet av næringsstoffer. Tallene skal angis i samme rekkefølge som de kjemiske symbolene (f.eks. NPK-gjødsel 21-4-10).Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype (f.eks. NPK-gjødsel 21-4-10 mekanisk blandet)For gjødsel som vesentlig inneholder hovednæringsstoffer og som deklareres med sekundærnæringsstoffer skal betegnes med varetype etterfulgt av «med» og deretter navn eller kjemisk tegn på de næringsstoff som er tilstede i gjødselen. De tall som angir innhold av hovednæringsstoff kan etterfølges av tall som angir innholdet av Ca, Mg, Na, S der disse angis i parentes (f.eks. NPK-gjødsel 15-4-12 (3-3) med Mg og S).Blandinger av to eller flere av gjødseltypene i [kapittel D](forskrift/2003-07-04-1063/kapd) og som inneholder minst to ulike mikronæringsstoff skal ha varetype «blanding av mikronæringsstoff» etterfulgt av navnet på de mikronæringsstoffene som er tilstede eller av stoffenes kjemiske tegn.Gjødsel som vesentlig inneholder hovednæringsstoff og som deklareres med innhold av mikronæringsstoff skal etter varetypen tilføyes enten:«med mikronæringsstoff» eller«med» etterfulgt av navn på de mikronæringsstoff som er tilstede.
 
-2. For gjødsel som ikke er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 fastsettes varetypen slik:Gjødsel som inneholder ett hovednæringsstoff eller sekundærnæringsstoff skal ha navnet på forbindelsen som varetype.Gjødsel som inneholder flere hovednæringsstoff eller sekundærnæringsstoff skal ha varetype «uorganisk gjødsel».Gjødsel som inneholder bare ett mikronæringsstoff skal ha navn på forbindelsen som varetype.For oppløsninger eller suspensjoner av fast eller flytende gjødsel skal «oppløsning av» eller «suspensjon av» tilføyes før varetypen.Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype.
+2\. For gjødsel som ikke er i samsvar med kriterier gitt for varetype i vedlegg 2 kolonne 1 fastsettes varetypen slik:Gjødsel som inneholder ett hovednæringsstoff eller sekundærnæringsstoff skal ha navnet på forbindelsen som varetype.Gjødsel som inneholder flere hovednæringsstoff eller sekundærnæringsstoff skal ha varetype «uorganisk gjødsel».Gjødsel som inneholder bare ett mikronæringsstoff skal ha navn på forbindelsen som varetype.For oppløsninger eller suspensjoner av fast eller flytende gjødsel skal «oppløsning av» eller «suspensjon av» tilføyes før varetypen.Mekanisk blandet gjødsel skal ha tilføyelsen «mekanisk blandet» anført i tilknytning til varetype.
 
 ### § 19. Generelt om varedeklarasjon for gjødsel
 
@@ -220,6 +220,8 @@ For gjødsel som inneholder ett mikronæringsstoff skal næringsinnholdet deklar
 
 Når et mikronæringsstoff helt eller delvis er kjemisk bundet til et organisk molekyl, skal næringsstoffenes navn etterfølges med disse opplysningene:
 
+«kjelatert med» og navn på kjelatdanneren eller forkortelsen som er angitt i vedlegg 4.
+
 > Endret ved forskrift [9 nov 2005 nr. 1313](forskrift/2005-11-09-1313).
 
 ### § 21. Spesielle merkebestemmelser for gjødsel som ikke omfattes av vedlegg 2
@@ -229,6 +231,8 @@ Innholdet av næringsstoff skal oppgis på følgende måte:Nitrogen (N): I alle 
 ### § 22. Tilleggsmerking av mikronæringsgjødsel
 
 For mikronæringsgjødsel skal følgende setning tilføyes på emballasjen, etiketten eller følgedokumentene:
+
+«Må bare brukes ved påvist behov. De anbefalte doser må ikke overskrides.»
 
 For mikronæringsgjødsel skal det på etiketten eller i følgedokumentene gis opplysninger om dosering og betingelser knyttet til bruken for jordbunns- og dyrkningsforhold der gjødselen skal anvendes. Disse opplysningene skal være adskilt fra varedeklarasjonen fastsatt i [§ 18](forskrift/2003-07-04-1063/§18), [§ 19](forskrift/2003-07-04-1063/§19), [§ 20](forskrift/2003-07-04-1063/§20) og [§ 21](forskrift/2003-07-04-1063/§21).
 
@@ -334,56 +338,315 @@ Denne forskriften trer i kraft 20. juli 2003. Samtidig oppheves forskrift om han
 
 ## Vedlegg 1. Definisjoner
 
+*Ammoniumnitratgjødsel med høyt nitrogeninnhold:* Rene eller sammensatte ammoniumnitratbaserte produkter framstilt til bruk som gjødsel og med et innehold på mer enn 28 masseprosent nitrogen i forhold til ammoniumnitrat. Det vil si at både innholdet av ammonium og innholdet av nitrat er over 14 prosent.
+
+*Ansvarlig firma:* Norsk produsent, importør eller ansvarlig for markedsføring og salg av produkter som omfattes av denne forskriften.
+
+*Dolomitt:* Avleiring av kalsium/magnesiumkarbonat som geologisk er eldre enn kvartærtiden, med magnesiuminnhold over en angitt grense
+
+*Forbrenningsprodukt:* Aske etter forbrenning av organisk materiale.
+
+*Gjødsel:* Produkt som har til hovedoppgave å tilføre næringsstoffer til planter.
+
+*Grøntareal:* Områder hvor det er eller skal etableres et vegetasjonsdekke, men hvor det ikke skal produseres vekster for matforsyning. Dette kan for eksempel være områder etter masseuttak, industriområder, arealer i tilknytning til veianlegg og andre offentlige arealer og toppdekke på avfallsfyllinger.
+
+*Importør:* Enhver som importerer til landet produkter som omfattes av forskriften.
+
+*Internkontroll:* Systematiske tiltak som virksomheten iverksetter, utøver og vedlikeholder for å sikre at krav fastsatt i eller i medhold av lov eller forskrift overholdes.
+
+*Kalkingsmiddel:* Kalsiumforbindelse eller kalsium/magnesiumforbindelse som har syrenøytraliserende evne.
+
+*Kalkstein:* Avleiring av kalsiumkarbonat som geologisk er eldre enn kvartærtiden, med magnesiuminnhold under en angitt grense.
+
+*Kalkverdi:* Mål for kalkingsmidlets effektive syrenøytraliserende evne innenfor et angitt tidsrom og beregnet etter nærmere angitt metode.
+
+*Kompleksgjødsel:* uorganisk gjødsel som inneholder minst to hovednæringsstoffer og blir fremstilt ved fabrikasjonsprosesser som fører til at hovednæringsstoffene forekommer helt eller delvis i innbyrdes kjemisk forbindelse.
+
+*Løselighet:* Empirisk prosentverdi for et kalkingsmiddels løselighet i jord. 100% betegner full virkning.
+
+*Mekanisk blandet gjødsel:* uorganisk gjødsel som inneholder minst to hovednæringsstoffer, og som blir fremstilt ved mekanisk blanding av to eller flere ensidige gjødseltyper eller av kompleksgjødsel og ett eller flere ensidige gjødseltyper.
+
+*Mineralgjødsel:* Gjødsel hvor næringsstoffene foreligger som uorganiske salter fremstilt ved ekstraksjon og/eller ved fysiske og/eller kjemiske industriprosesser. Urea og andre syntetisk-organiske nitrogenforbindelser regnes også som mineralgjødsel.
+
+*Nøytraliserende verdi:* Innhold av syrenøytraliserende forbindelser, bestemt ved titrering, gitt som et ubenevnt tall tilsvarende kg CaO i 100 kg produkt.
+
+*Omsetning:* Forhandling, lagring, fordeling eller ekspedisjon. Omsetning omfatter også gratisleveranser.
+
+*Organisk-mineralsk gjødsel:* Gjødsel som er en blanding av produkter av animalsk og/eller vegetabilsk opprinnelse og mineralgjødsel.
+
+*Plantenæringsstoffer:* Hovednæringsstoffene nitrogen (N), fosfor (P) og kalium (K), de sekundære næringsstoffene kalsium (Ca), klor (Cl), magnesium (Mg), natrium (Na) og svovel (S), og mikronæringsstoffene bor (B), kobolt (Co), kobber (Cu), jern (Fe), mangan (Mn), molybden (Mo) og sink (Zn).
+
+*Produsent:* Enhver som fremstiller, foredler, blander, pakker og merker produkter som omfattes av forskriften. Som produsent regnes også den som markedsfører eller selger et av de produkter som er omfattet av forskriften under et annet navn enn produktet er kjøpt som.
+
+*Tørrstoffinnhold* (TS): andelen av fast materiale i et produkt bestemt ved fastsatte metoder.
+
 > Endret ved forskrifter [16 jan 2006 nr. 43](forskrift/2006-01-16-43), [26 nov 2014 nr. 1469](forskrift/2014-11-26-1469), [29 jan 2025 nr. 116](forskrift/2025-01-29-116) (i kraft 1 feb 2025), [12 mars 2025 nr. 447](forskrift/2025-03-12-447).
 
 ## Vedlegg 2. Varetypebetegnelser, spesifikasjoner og deklarasjonskriterier for uorganisk gjødsel
 
 ### A. Gjødsel som bare inneholder ett hovednæringsstoff
 
+*Nitrogengjødsel*
+
+| *Nr.* | *Typebetegnelse* | *Opplysninger om produksjonsmåte og hovedbestanddeler* | *Minsteinnhold av næringsstoffer (masseprosent). Opplysninger om angivelsen av næringsinnholdet. Andre krav* | *Andre opplysninger om typebetegnelsen* | *Næringsinnhold som skal deklareres. Næringsstoffenes form og oppløselighet. Andre kriterier* |
+| --- | --- | --- | --- | --- | --- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* |
+| 1a | Kalsiumnitrat | Kjemisk fremstilt produkt med kalsiumnitrat og ev. ammoniumnitrat som hovedbestanddeler | 15% N Nitrogen uttrykt som totalnitrogen eller som nitrat- og ammoniumnitrogen. Største innhold av ammoniumnitrogen: 1,5% N |  | Totalnitrogen. Valgfritt – nitratnitrogen – ammoniumnitrogen |
+| 1b | Kalsiummagnesiumnitrat | Kjemisk fremstilt produkt med kalsiumnitrat og magnesiumnitrat som hovedbestanddeler. | 13% N Nitrogen uttrykt som nitratnitrogen.<br>Minsteinnhold av magnesium i form av vannoppløselige salter og uttrykt som magnesium: 3% Mg |  | Nitratnitrogen<br>Vannoppløselig magnesium |
+| 1c | Magnesiumnitrat | Kjemisk fremstilt produkt med magnesiumnitrat heksahydrat som hovedbestanddel | 10% N Nitrogen uttrykt som nitratnitrogen<br>14% MgO Magnesium uttrykt som vannoppløselig magnesiumoksid | Når gjødselen markedsføres i form av krystaller, kan betegnelsen «krystallisert form» tilføyes | Nitratnitrogen<br>Vannløselig magnesiumoksid |
+| 2a | Natriumnitrat | Kjemisk fremstilt produkt med natriumnitrat som hovedbestanddel. | 15% N Nitrogen utttrykt som nitratnitrogen |  | Nitratnitrogen |
+| 2b | Chilesalpeter | Produkt fremstilt av caliche, med natriumnitrat som hovedbestanddel. | 15% N Nitrogen uttrykt som nitratnitrogen |  | Nitratnitrogen |
+| 3a | Kalsiumcyanamid | Kjemisk fremstilt produkt med kalsiumcyanamid som hovedbestanddel, kalsiumoksid og ev. små mengder ammoniumsalter og urea | 18% N Nitrogen uttrykt som totalnitrogen, minst 75% av deklarert nitrogen i form av cyanamidnitrogen |  | Totalnitrogen |
+| 3b | Nitratholdig kalsiumcyanamid | Kjemisk fremstilt produkt med kalsiumcyanamid og kalsiumoksid som hovedbestanddeler og ev. små mengder ammoniumsalter og urea, dessuten tilsatt nitrat | 18% N Nitrogen uttrykt som totalnitrogen. Minst 75% av innholdet av deklarert ikke-nitratnitrogen i form av cyanamidnitrogen. Innholdet av nitratnitrogen:<br>Minimum 1% N<br>Maksimum 3% N |  | Totalnitrogen<br>Nitratnitrogen |
+| 4 | Ammoniumsulfat | Kjemisk fremstilt produkt med ammoniumsulfat som hovedbestanddel. | 20% N Nitrogen uttrykt som ammoniumnitrogen |  | Ammoniumnitrogen |
+| 5 | Ammoniumnitrat eller kalkammonsalpeter | Kjemisk fremstilt produkt som har ammoniumnitrat som hovedbestanddel, og som kan inneholde fyllstoff som kalksteinsmel, kalsiumsulfat, dolomittmel, magnesiumsulfat og kieseritt | 20% N Nitrogen uttrykt som nitratnitrogen og ammoniumnitrogen, som hver utgjør ca. halvparten av nitrogeninnholdet | Betegnelsen<br>«kalkammonsalpeter» skal utelukkende brukes om gjødsel som inneholder kalsiumkarbonat (kalkstein) og/eller magnesiumkarbonat og kalsiumkarbonat (dolomitt) i tillegg til ammoniumnitrat. Minsteinnholdet av disse karbonatene må være 20% og renheten minst 90% | Totalnitrogen<br>Nitratnitrogen<br>Ammoniumnitrogen |
+| 6 | Ammoniumsulfatnitrat | Kjemisk fremstilt produkt med ammoniumnitrat og ammoniumsulfat som hovedbestanddeler. | 25% N Nitrogen uttrykt som ammonium- og nitratnitrogen.<br>Minsteinnhold av nitratnitrogen: 5% |  | Totalnitrogen<br>Nitratnitrogen<br>Ammoniumnitrogen |
+| 7 | Magnesiumsulfatnitrat | Kjemisk fremstilt produkt som har ammoniumnitrat, ammoniumsulfat og magnesiumsulfat som hovedbestanddeler. | Nitrogen uttrykt som ammonium- og nitratnitrogen.<br>Minsteinnhold av nitratnitrogen: 6% N. Magnesium i form av vannoppløselige salter uttrykt som magnesium |  | Totalnitrogen<br>Ammoniumnitrogen<br>Nitratnitrogen<br>Vannoppløselig magnesium |
+| 8 | Magnesiumammoniumnitrat | Kjemisk fremstilt produkt med ammoniumnitrat og magnesiumforbindelser, (dolomitt, magnesiumkarbonat og/eller magnesiumsulfat) som hovedbestanddeler | 19% N Nitrogen uttrykt som ammoniumnitrogen og nitratnitrogen. Minimum nitratnitrogen 6% N.<br>3% Mg uttrykt som total magnesium |  | Totalnitrogen<br>Ammoniumnitrogen<br>Nitratnitrogen<br>Total magnesium og ev. vannoppløselig magnesium |
+| 9 | Urea | Kjemisk fremstilt produkt med karbamid som hovedbestanddel. | 44% N Total ureanitrogen (inkludert biuret). Største innhold av biuret 1,2% |  | Totalnitrogen, uttrykt som ureanitrogen |
+| 10 | Krotonylidendiurea | Produkt fremstilt ved reaksjon mellom urea og krotonaldehyd Monomer | 28% N Nitrogen uttrykt som totalnitrogen<br>Minst 25% krotonylidendiureanitrogen<br>Høyst 3% ureanitrogen |  | Totalnitrogen<br>Ureanitrogen dersom innholdet er høyere enn 1 masseprosent<br>Krotonylidendiureanitrogen |
+| 11 | Isobutylidendiurea | Produkt fremstilt ved reaksjon mellom urea og isobutylaldehyd Monomer | 28% N Nitrogen uttrykt som totalnitrogen<br>Minst 25% N isobutylidendiurea<br>Høyst 3% ureanitrogen |  | Totalnitrogen<br>Ureanitrogen dersom innholdet overstiger 1 masseprosent<br>Isobutylidendiureanitrogen |
+| 12 | Ureaformaldehyd | Produkt fremstilt ved reaksjon mellom urea og formaldehyd som hovedsakelig består av ureaformaldehydmolekyler Polymer | 36% totalnitrogen. Nitrogen uttrykt som totalnitrogen.<br>Minst 3/5 av det deklarerte totalnitrogeninnholdet skal være løselig i varmt vann.<br>Minst 31% N som ureaformaldehyd.<br>Høyst 5% ureanitrogen. |  | Totalnitrogen.<br>Ureanitrogen dersom innholdet overstiger 1 masseprosent. Nitrogen av ureaformaldehyd løselig i kaldt vann. Nitrogen av ureaformaldehyd utelukkende løselig i varmt vann. |
+| 13 | Nitrogengjødsel som inneholder krotonylidendiurea | Kjemisk fremstilt produkt som inneholder krotonylidendiurea og en ensidig nitrogengjødsel med unntak av 3a, 3b og 5 i liste A-Nitrogengjødsel | 18% N uttrykt som totalnitrogen. Minst 3% nitrogen i form av ammoniakk og/eller nitrat og/eller urea. 1/3 av det deklarerte totalnitrogenet skal stamme fra krotonylidendiurea. Største innhold av biuret (ureanitrogen + krotonylidendiureanitrogen) x 0,026 |  | Totalnitrogen. For hver form som inneholder minst 1%:<br>Nitratnitrogen<br>Ammoniumnitrogen<br>Ureanitrogen<br>Krotonylidendiureanitrogen |
+| 14 | Nitrogengjødsel med isobutylidendiurea | Kjemisk fremstilt produkt som inneholder isobutylidendiurea og en ensidig nitrogengjødsel med unntak av produktene 3a, 3b og 5 i liste A-Nitrogengjødsel | 18% N uttrykt som totalnitrogen. Minst 3% nitrogen i form av ammoniakk og/eller nitrat og/eller urea. Minst 1/3 av det deklarerte totalnitrogenet skal stamme fra isobutylidendiurea. Største innhold av biuret: (ureanitrogen + isobutylidendiureanitrogen) x 0,026 |  | Totalnitrogen. For hver form som inneholder minst 1%:<br>Nitratnitrogen<br>Ammoniumnitrogen<br>Ureanitrogen<br>Isobutylidendiureanitrogen |
+| 15 | Nitrogengjødsel som inneholder ureaformaldehyd | Kjemisk fremstilt produkt som inneholder ureaformaldehyd og en ensidig nitrogengjødsel med unntak av produktene 3a, 3b og 5 i liste A-Nitrogengjødsel | 18% N uttrykt som totalnitrogen. Minst 3% nitrogen i form av ammoniakk og/eller nitrat og/eller urea. Minst 1/3 av det deklarerte totalnitrogenet skal stamme fra ureaformaldehyd. Ureaformaldehydnitrogenet skal inneholde minst 1/3 nitrogen som er løselig i varmt vann. Største innhold av biuret: (ureanitrogen + ureaformaldehydnitrogen) x 0,026 |  | Totalnitrogen. For hver form som inneholder minst 1%:<br>Nitratnitrogen<br>Ammoniumnitrogen<br>Ureanitrogen<br>Ureaformaldehydnitrogen<br>Ureaformaldehydnitrogen løselig i kaldt vann.<br>Ureaformaldehydnitrogen som utelukkende er løselig i varmt vann |
+| 16 | Ammoniumsulfat med nitrifikasjonshemmer (dicyandiamid) | Kjemisk fremstilt produkt som inneholder ammoniumsulfat og dicyandiamid | 20% N Nitrogen uttrykt som totalnitrogen<br>Minsteinnhold av ammoniumnitrogen: 18%.<br>Minsteinnhold av dicyandiamidnitrogen: 1,5% |  | Totalnitrogen<br>Ammoniumnitrogen<br>Dicyandiamidnitrogen<br>Tekniske opplysninger (1) |
+| 17 | Ammoniumsulfatnitrat med nitrifikasjonshemmer (dicyandiamid) | Kjemisk fremstilt produkt som inneholder ammoniumsulfatnitrat og dicyandiamid | 24% N Nitrogen uttrykt som totalnitrogen.<br>Minsteinnhold av nitratnitrogen: 3%<br>Minsteinnhold av dicyandiamidnitrogen: 1,5% |  | Totalnitrogen<br>Nitratnitrogen<br>Ammoniumnitrogen<br>Dicyandiamidnitrogen<br>Tekniske opplysninger (1) |
+| 18 | Løsning av nitrogengjødsel | Produkt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 15% N Nitrogen uttrykt som totalnitrogen dersom det bare foreligger i en form, eller som nitrat-, ammonium- eller ureanitrogen. Største innhold av biuret: urea-N x 0,026 |  | Totalnitrogen, og for former i mengder på minst 1%, nitrat-, ammonium- og eller ureanitrogen. Dersom biuretinnholdet er mindre enn 0,2%, kan «lavt biuretinnhold» tilføyes. |
+| 19 | Løsning av ammoniumnitrat med urea | Produkt fremstilt kjemisk og ved oppløsning i vann, med innhold av ammoniumnitrat og urea. | 26% N Nitrogen uttrykt som totalnitrogen, der ureanitrogen utgjør ca. halvparten av nitrogeninnholdet. Største innhold av biuret: 0,5% |  | Totalnitrogen. Nitrat-, ammonium- og ureanitrogen. Dersom biuretinnholdet er mindre enn 0,2%, kan «lavt biuretinnhold» tilføyes. |
+| 20 | Kalsiumnitratløsning | Produkt fremstilt ved løsning av kalsiumnitrat i vann | 8% N Nitrogen uttrykt som nitratnitrogen med høyst 1% ammoniumnitrogen | Typebetegnelsen kan eventuelt etterfølges av:<br>– til bladgjødsling<br>– til fremstilling av næringsløsninger<br>– til gjødselvanning | Totalnitrogen<br>Valgfritt:<br>nitratnitrogen<br>– ammoniumnitrogen<br>– kalsium når det gjelder ett av bruksområdene angitt i spalte 5 |
+
 Den ansvarlige for markedsføringen skal fremlegge så utfyllende tekniske opplysninger som mulig sammen med hver emballasje eller sammen med følgeseddel ved levering i bulk. Opplysningene skal særlig gjelde bruksperiode og anvendelsesmengde for den avling den skal benyttes på.
 
-For gjødsel som selges i granulert form og med foreskrevet findelingsgrad for de viktigste stoffer den er sammensatt av (gjødsel under 1, 3, 4, 5, 6 og 7) skal findelingsgraden fastsettes på grunnlag av en egnet analysemetode. *Nr.**Typebetegnelse**Opplysninger om produksjonsmåte og hovedbestanddeler**Minsteinnhold av næringsstoffer (masseprosent). Opplysninger om angivelsen av næringsinnholdet. Andre krav**Andre opplysninger om typebetegnelsen**Næringsinnhold som skal deklareres. Næringsstoffenes form og oppløselighet. Andre kriterier**(1)**(2)**(3)**(4)**(5)**(6)*1Slagg fra thomasprosessen – thomasfosfat – thomasslaggProdukt som fremkommer i smelteverk ved behandling av fosforholdig råjern, med kalsiumsilisiumfosfat som hovedbestanddel.5,2% P Fosfor uttrykt som mineralsyreoppløselig fosforpentoksid, minst 75% av det deklarerte innhold oppløselig i 2% sitronsyre; eller 4,4% P. Fosfor uttrykt som P oppløselig i 2% sitronsyre.Fosfor oppløselig i 2% sitronsyreFindelingsgrad:
-– minst 75% passerer en 0,160 mm sikt,
-– minst 96% passerer en 0,630 mm sikt.
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.2aSuperfosfatProdukt fremkommet ved reaksjon av malt råfosfat med svovelsyre med monokalsiumfosfat og kalsiumsulfat som hovedbestanddeler.7% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 93% av det deklarerte innhold av P skal være vannoppløselig. Prøvemengde: 1 gram
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Fosfor oppløselig i nøytralt ammoniumsitrat Vannoppløselig fosfor2bDobbeltsuperfosfatProdukt fremkommet ved reaksjon av malt råfosfat med svovelsyre og fosforsyre, med monokalsiumfosfat og kalsiumsulfat som hovedbestanddeler.10,9% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 93% av det deklarerte innhold skal være vannoppløselig. Prøvemengde: 1 gram
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Fosfor oppløselig i nøytralt ammoniumsitrat
-Vannoppløselig fosfor2cTrippelsuperfosfatProdukt fremkommet ved reaksjon av malt råfosfat med fosforsyre med monokalsiumfosfat som hovedbestanddel.16,6% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 85% av deklarert innhold skal være vannoppløselig. Prøvemengde 3 gram.
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Fosfor oppløselig i nøytralt ammoniumsitrat
-Vannoppløselig fosfor3Delvis oppløst råfosfatProdukt fremkommet ved delvis oppløsning av malt råfosfat med svovelsyre eller fosforsyre med monokalsiumfosfat, trikalsiumfosfat og kalsiumsulfat som hovedbestanddeler.8,7% P Fosfor uttrykt som mineralsyreløselig P. Minst 40% av det deklarerte P skal være vannoppløselig.
-Findelingsgrad:
-– Minst 90% passerer en 0,160 mm sikt
-minst 98% passerer en 0,630 mm sikt
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Mineralsyreoppløselig fosfor
-Vannoppløselig fosfor4DikalsiumfosfatProdukt fremkommet ved utfelling av oppløst fosforsyre fra mineralske fosfater eller knokler med dikalsiumfosfat dihydrat som hovedbestanddel.16,6% P Fosfor uttrykt som P oppløst i basisk ammoniumsitrat (Petermann)
-Findelingsgrad
-– minst 90% passerer en 0,160 mm sikt
-– minst 98% passerer en 0,630 mm sikt
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Fosfor oppløselig i basisk ammoniumsitrat5PyrofosfatProdukt fremstilt ved oppvarming av malt råfosfat under innvirkning av alkalieforbindelser og kiselsyre, og med basiske kalsiumfosfater og kalsiumsilikater som hovedbestanddeler.10,9% P Fosfor uttrykt som P oppløselig i basisk ammoniumsitrat (Petermann).
-Findelingsgrad:
-– minst 75% passerer en 0,160 mm sikt
-– minst 96% passerer en 0,630 mm sikt
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Fosfor oppløselig i basisk ammoniumsitrat6AluminiumkalsiumfosfatProdukt fremstilt i amorf form ved oppvarming og maling med aluminium- og kalsiumfosfater som hovedbestanddeler.13,1% P Fosfor uttrykt som mineralsyreoppløselig P. Minst 75% av det deklarerte innhold av P skal være oppløselig basisk ammoniumsitrat (Joulie)
-Findelingsgrad:
-– minst 90% passerer en 0,160 mm sikt
-– minst 99% passerer en 0,630 mm siktTotalfosfor (mineralsyreoppløselig)
-Fosfor oppløselig i basisk ammoniumsitratKadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.7Bløt råfosfatProdukt fremkommet ved maling av bløt råfosfat med trikalsiumfosfat og kalsiumkarbonat som hovedbestanddeler.10,9% P Fosfor uttrykt som mineralsyreoppløselig P. Minst 55% av deklarert innhold av P skal være oppløselig i 2% maursyre.
-Findelingsgrad:
-– minst 90% passerer en 0,063 mm sikt
-– minst 99% passerer en 0,125 mm sikt.
-Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Totalfosfor (mineralsyreoppløselig). Fosfor oppløselig i 2% maursyre. Prosent av produktet som passerer en 0,063 mm sikt, angitt i masseprosent.
+*Fosforgjødsel*
+
+For gjødsel som selges i granulert form og med foreskrevet findelingsgrad for de viktigste stoffer den er sammensatt av (gjødsel under 1, 3, 4, 5, 6 og 7) skal findelingsgraden fastsettes på grunnlag av en egnet analysemetode.
+
+| *Nr.* | *Typebetegnelse* | *Opplysninger om produksjonsmåte og hovedbestanddeler* | *Minsteinnhold av næringsstoffer (masseprosent). Opplysninger om angivelsen av næringsinnholdet. Andre krav* | *Andre opplysninger om typebetegnelsen* | *Næringsinnhold som skal deklareres. Næringsstoffenes form og oppløselighet. Andre kriterier* |
+| --- | --- | --- | --- | --- | --- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* |
+| 1 | Slagg fra thomasprosessen – thomasfosfat – thomasslagg | Produkt som fremkommer i smelteverk ved behandling av fosforholdig råjern, med kalsiumsilisiumfosfat som hovedbestanddel. | 5,2% P Fosfor uttrykt som mineralsyreoppløselig fosforpentoksid, minst 75% av det deklarerte innhold oppløselig i 2% sitronsyre; eller 4,4% P. Fosfor uttrykt som P oppløselig i 2% sitronsyre. |  | Fosfor oppløselig i 2% sitronsyre |
+|  |  |  | Findelingsgrad:<br>– minst 75% passerer en 0,160 mm sikt,<br>– minst 96% passerer en 0,630 mm sikt.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |  |
+| 2a | Superfosfat | Produkt fremkommet ved reaksjon av malt råfosfat med svovelsyre med monokalsiumfosfat og kalsiumsulfat som hovedbestanddeler. | 7% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 93% av det deklarerte innhold av P skal være vannoppløselig. Prøvemengde: 1 gram<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Fosfor oppløselig i nøytralt ammoniumsitrat Vannoppløselig fosfor |
+| 2b | Dobbeltsuperfosfat | Produkt fremkommet ved reaksjon av malt råfosfat med svovelsyre og fosforsyre, med monokalsiumfosfat og kalsiumsulfat som hovedbestanddeler. | 10,9% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 93% av det deklarerte innhold skal være vannoppløselig. Prøvemengde: 1 gram<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Fosfor oppløselig i nøytralt ammoniumsitrat<br>Vannoppløselig fosfor |
+| 2c | Trippelsuperfosfat | Produkt fremkommet ved reaksjon av malt råfosfat med fosforsyre med monokalsiumfosfat som hovedbestanddel. | 16,6% P Fosfor uttrykt som P oppløselig i nøytralt ammoniumsitrat. Minst 85% av deklarert innhold skal være vannoppløselig. Prøvemengde 3 gram.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Fosfor oppløselig i nøytralt ammoniumsitrat<br>Vannoppløselig fosfor |
+| 3 | Delvis oppløst råfosfat | Produkt fremkommet ved delvis oppløsning av malt råfosfat med svovelsyre eller fosforsyre med monokalsiumfosfat, trikalsiumfosfat og kalsiumsulfat som hovedbestanddeler. | 8,7% P Fosfor uttrykt som mineralsyreløselig P. Minst 40% av det deklarerte P skal være vannoppløselig.<br>Findelingsgrad:<br>– Minst 90% passerer en 0,160 mm sikt<br>minst 98% passerer en 0,630 mm sikt<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Mineralsyreoppløselig fosfor<br>Vannoppløselig fosfor |
+| 4 | Dikalsiumfosfat | Produkt fremkommet ved utfelling av oppløst fosforsyre fra mineralske fosfater eller knokler med dikalsiumfosfat dihydrat som hovedbestanddel. | 16,6% P Fosfor uttrykt som P oppløst i basisk ammoniumsitrat (Petermann)<br>Findelingsgrad<br>– minst 90% passerer en 0,160 mm sikt<br>– minst 98% passerer en 0,630 mm sikt<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Fosfor oppløselig i basisk ammoniumsitrat |
+| 5 | Pyrofosfat | Produkt fremstilt ved oppvarming av malt råfosfat under innvirkning av alkalieforbindelser og kiselsyre, og med basiske kalsiumfosfater og kalsiumsilikater som hovedbestanddeler. | 10,9% P Fosfor uttrykt som P oppløselig i basisk ammoniumsitrat (Petermann).<br>Findelingsgrad:<br>– minst 75% passerer en 0,160 mm sikt<br>– minst 96% passerer en 0,630 mm sikt<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Fosfor oppløselig i basisk ammoniumsitrat |
+| 6 | Aluminiumkalsiumfosfat | Produkt fremstilt i amorf form ved oppvarming og maling med aluminium- og kalsiumfosfater som hovedbestanddeler. | 13,1% P Fosfor uttrykt som mineralsyreoppløselig P. Minst 75% av det deklarerte innhold av P skal være oppløselig basisk ammoniumsitrat (Joulie)<br>Findelingsgrad:<br>– minst 90% passerer en 0,160 mm sikt<br>– minst 99% passerer en 0,630 mm sikt |  | Totalfosfor (mineralsyreoppløselig)<br>Fosfor oppløselig i basisk ammoniumsitrat |
+|  |  |  | Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |  |
+| 7 | Bløt råfosfat | Produkt fremkommet ved maling av bløt råfosfat med trikalsiumfosfat og kalsiumkarbonat som hovedbestanddeler. | 10,9% P Fosfor uttrykt som mineralsyreoppløselig P. Minst 55% av deklarert innhold av P skal være oppløselig i 2% maursyre.<br>Findelingsgrad:<br>– minst 90% passerer en 0,063 mm sikt<br>– minst 99% passerer en 0,125 mm sikt.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  | Totalfosfor (mineralsyreoppløselig). Fosfor oppløselig i 2% maursyre. Prosent av produktet som passerer en 0,063 mm sikt, angitt i masseprosent. |
+
+*Kaliumgjødsel*
+
+| *Nr.* | *Typebetegnelse* | *Opplysninger om produksjonsmåte og hovedbestanddeler* | *Minsteinnhold av næringsstoffer (masseprosent). Opplysninger om angivelsen av næringsinnholdet. Andre krav* | *Andre opplysninger om typebetegnelsen* | *Næringsinnhold som skal deklareres. Næringsstoffenes form og oppløselighet. Andre kriterier* |
+| --- | --- | --- | --- | --- | --- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* |
+| 1 | Kainitt/kaliumråsalt | Produkt av rå kaliumsalter | 8,3% K Kalium uttrykt som vannoppløselig K.<br>3% Mg Magnesium i form av vannoppløselige magnesiumsalter og uttrykt som Mg | Vanlige handelsnavn kan tilføyes | Vannoppløselig kalium<br>Vannoppløselig magnesium |
+| 2 | Beriket kainitt/kaliumråsalt | Produkt fremstilt ved blanding av kaliumråsalt og kaliumklorid | 14,9% K Kalium uttrykt som vannoppløselig K | Vanlige handelsnavn kan tilføyes | Vannoppløselig kalium. Valgfri angivelse av vannoppløselig magnesium når det er mer enn 3% Mg |
+| 3 | Kaliumklorid | Produkt fremstilt av kaliumråsalt med kaliumklorid som hovedbestanddel. | 30,7% K Kalium uttrykt som vannoppløselig K | Vanlige handelsnavn kan tilføyes | Vannoppløselig kalium |
+| 4 | Kaliumklorid med magnesiumsalt | Produkt fremstilt av kaliumråsalter med tilsetning av magnesiumsalter, og med kaliumklorid og magnesiumsalter som hovedbestanddeler. | 30,7% K Kalium uttrykt som vannoppløselig K.<br>3% Mg Magnesium i form av vannoppløselige magnesiumsalter uttrykt som Mg |  | Vannoppløselig kalium.<br>Vannoppløselig magnesium. |
+| 5 | Kaliumsulfat | Kjemisk fremstilt produkt av kaliumsalter, og med kaliumsulfat som hovedbestanddel. | 39% K Kalium uttrykt som vannoppløselig K. Største klorinnhold: 3% Cl |  | Vannoppløselig kalium<br>Valgfrie opplysninger om klorinnhold dersom det er mindre enn 3% Cl |
+| 6 | Kaliumsulfat med magnesium | Kjemisk fremstilt produkt av kaliumsalter, ev. med tilsetning av magnesiumsalter og med kaliumsulfat og magnesiumsulfat som hovedbestanddeler. | 18,3% K Kalium uttrykt som vannoppløselig K.<br>4,8% Mg Magnesium i form av vannoppløselige magnesiumsalter og uttrykt som magnesium.<br>Største klorinnhold: 3% Cl. | Vanlige handelsnavn kan tilføyes | Vannoppløselig kalium<br>Vannoppløselig magnesium<br>Valgfrie opplysninger om klorinnhold dersom det er mindre enn 3% Cl |
+| 7 | Kieseritt med kaliumsulfat | Produkt fremstilt av kieseritt ved tilsetting av kaliumsulfat. | 4,8% Mg Magnesium uttrykt som vannoppløselig Mg.<br>5% K Kalium uttrykt som vannoppløselig K.<br>Total Mg / 0,6 + K / 0,83 : 20%<br>Største klorinnhold: 3% Cl | Vanlige handelsnavn kan tilføyes. | Vannoppløselig magnesium<br>Vannoppløselig kalium<br>Valgfri angivelse av klorinnholdet når dette er under 3% Cl |
 
 > Endret ved [forskrifter 9 nov 2005 nr. 1313](forskrift/2005-11-09-1313), [16 jan 2006 nr. 43](forskrift/2006-01-16-43), [26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ### B. Gjødsel som inneholder flere hovednæringsstoffer
 
+| *Typebetegnelse* | *Opplysninger om produksjonsmåte* | *Minimumsinnhold av næringsstoffer (masseprosent)* |  | *Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad* |  |  | *Opplysninger om gjødselens karakteristiske egenskaper. Andre krav* |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *Totalt* | *For hvert næringsstoff* | *N* | *P* | *K* | *N* | *P* | *K* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| NPK-gjødsel | Produkt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 20 (N + P / 0,436 + K / 0,83) | 3% N<br>4,1% K<br>1% P | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Urea-<br>nitrogen<br>5. Cyanamid-<br>nitrogen | 1: Vannløselig P<br>2: P løselig i nøytralt ammoniumsitrat<br>3: P løselig i nøytralt ammoniumsitrat og i vann<br>4: P bare oppløselig i mineralsyre<br>5: P oppløselig i basisk ammoniumsitrat (Petermann)<br>6: P oppløselig i 2% sitronsyre<br>7: P oppløselig i mineralsyre. Minst 75% av deklarert innhold av P skal være oppløselig i basisk ammoniumsitrat (Joulie) | Vannløselig K | 1. Totalnitrogen<br>2. Dersom en av nitrogenformene 2-5 utgjør 1 masseprosent eller mer, skal denne deklareres | En NPK-gjødsel som verken inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsium-<br>fosfat, delvis oppløst råfosfat, eller bløt råfosfat, skal deklareres etter oppløselighet som angitt under (1), (2), eller (3): Utgjør det vannoppløselige P mindre enn 0,9%, deklareres bare oppløselighet (2)<br>Utgjør det vannoppløselige P minst 0,9%, deklareres oppløselighet (3) med samtidig angivelse av det vannoppløselige innhold av P (oppløselighet (1))<br>Innholdet av P som bare er oppløselig i mineralsyre må ikke overstige 0,9%. | 1. Vannløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres |
+|  |  |  |  |  | 8: P oppløselig i mineralsyre. Minst 55% av det deklarerte innholdet av P skal være oppløselig i 2% maursyre. |  |  | For denne gjødseltype 1 skal prøvemengden for bestemmelse av oppløselighet (2) og (3) være 1 gram.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P |  |
+|  |  |  |  | Findelingsgrad for de viktigste fosfatkomponentene:<br>Thomasfosfat: minst 75% passerer en 0,160 mm sikt. Aluminiumkalsium-<br>fosfat: minst 90% passerer en 0,160 mm sikt. Pyrofosfat: minst 75% passerer en 0,160 mm sikt. Bløt råfosfat: minst 90% passerer en 0,063 mm sikt. Delvis oppløst råfosfat: minst 90% passerer en 0,160 mm sikt. |  |  |  | 2a. En NPK-gjødsel som inneholder bløt råfosfat helt eller delvis oppløst råfosfat, må verken inneholde thomasfosfat, pyrofosfat eller aluminium-<br>kalsium-<br>fosfat. Den deklareres i samsvar med oppløselighet (1), (3) og (4). Denne gjødseltypen må inneholde:<br>– Minst 0,9% P som er oppløselig bare i mineralsyre (oppløselighet (4))<br>– Minst 2,2% P oppløselig i vann og nøytralt ammoniumsitrat (oppløselighet (3))<br>– minst 1,1% vannoppløselig P (oppløselighet (1)) Denne gjødseltypen må selges som NPK-gjødsel med bløt råfosfat eller NPK-gjødsel med delvis oppløst råfosfat. For denne gjødseltypen 2 (a) skal prøvemengden for å bestemme oppløselighet (3) være 3 gram.<br>– Kadmiuminnholdet må ikke overstige 100 mg pr. kg P.<br><br>2b. En NPK-gjødsel som inneholder aluminiumkalsiumfosfat må verken inneholde thomasfosfat, pyrofosfat, råfosfat eller delvis oppløst råfosfat. Den skal deklareres i samsvar med oppløselighet (1) og (7), i siste tilfelle med fradrag av oppløselighet i vann. Denne gjødseltypen må inneholde:<br>– minst 0,9% vannoppløselig P (oppløselighet (1)),<br>– Minst 2,2% P etter oppløselighet (7). Denne gjødselen skal markedsføres under betegnelsen «NPK-gjødsel med aluminiumkalsium-<br>fosfat».<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.<br><br>3. For NPK-gjødsel som bare inneholder en av følgende typer fosforgjødsel: Thomasfosfat, pyrofosfat, aluminiumkalsium-<br>fosfat, bløt råfosfat, skal typebetegnelsen følges av en angivelse av fosforkomponenten.<br>Deklareringen av oppløseligheten til P må gis i samsvar med følgende oppløseligheter:<br>– for gjødsel basert på thomasfosfat: oppløselighet (6)<br>– for gjødsel basert på pyrofosfat: oppløselighet (5)<br>– for gjødsel basert på aluminiumkalsium-<br>fosfat: oppløselighet (7)<br>– for gjødsel basert på bløt råfosfat: oppløselighet (8)<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
+| Oppløsning av NPK-gjødsel | Produkt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 15% (N + P / 0,436 + K / 0,83)<br>Største innhold av biuret: urea-N x 0,026 | 2% N<br>1,3% P<br>2,5% K.<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen | Vann-<br>oppløselig P | Vann-<br>oppløselig K | 1. Total-<br>nitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2% kan «lavt biuretinnhold» tilføyes | Vannoppløselig P. Kadmium-<br>innholdet må ikke overstige 100 mg Cd pr. kg P. | 1. Vann-<br>oppløselig kalium.<br>2. Betegnelsen<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres. |
+| Suspensjon av NPK-gjødsel | Produkt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 20% (N + P / 0,436 + K / 0,83)<br>Største innhold av biuret: urea-N x 0,026 | 3% N<br>1,7% P<br>3,3% K<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen | 1: Vann-<br>oppløselig P<br>2: P oppløselig i nøytralt ammoniumsitrat<br>3: P oppløselig i nøytralt ammoniumsitrat og i vann | Vann-<br>oppløselig K | 1. Total-<br>nitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2% kan «lavt biuretinnhold» tilføyes. | Gjødselen må ikke inneholde thomasslagg, aluminium-<br>kalsium-<br>fosfat, pyrofosfat, delvis oppløst råfosfat eller råfosfat.<br>Kadmium-<br>innholdet må ikke overstige 100 mg Cd pr. kg P<br>1. Dersom det vannoppløselige P utgjør mindre enn 0,9% deklareres bare oppløselighet 2.<br>2. Dersom det vannoppløselige P utgjør minst 0,9%, angis oppløselighet 3 og innholdet av vannoppløselig P skal deklareres. | 1. Vann-<br>oppløselig kalium.<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres. |
+| NPK-gjødsel som inneholder kroto-<br>nylidendi-<br>urea eller isobuty-<br>lidendi-<br>urea eller ureaformal-<br>dehyd (alt etter omstendig-<br>hetene) | Kjemisk fremstilt produkt som inneholder krotonylidendi-<br>urea eller isobutylidendi-<br>urea eller ureaformal-<br>dehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 20% (N + P / 0,436 + K / 0,83) | 20% N Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogenformene 5, 6 eller 7. Minst 3/5 av det deklarerte nitrogen-<br>innholdet 7, skal være løselig i varmt vann. 2,18% P<br>4,15% K | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Kroto-<br>nylidendi-<br>ureanitrogen<br>6. Isobu-<br>tylidendi-<br>ureanitrogen | 1: Vann-<br>oppløselig P<br>2: P løselig i nøytralt ammonium-<br>sitrat<br>3: P løselig i nøytralt ammoniumsitrat og i vann | Vannløselig K | 1: Totalnitrogen<br>2: Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres<br>3: En av nitrogenformene 5-7 (alt etter omstendighetene). Nitrogenformen 7 skal deklareres som nitrogenform 8 og 9 | En NPK-gjødsel som verken inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsium-<br>fosfat, delvis oppløst råfosfat eller råfosfat, skal deklareres etter oppløselighet som angitt under 1, 2 eller 3:<br>– utgjør vannløselig P mindre enn 0,87% deklareres bare løselighet 2,<br>– utgjør vannløselig P minst 0,87%, deklareres løselighet 3 med samtidig angivelse av det vannløselige innhold av P (løselighet 1)<br>Innholdet av P som er løselig bare i mineralsyre må ikke overstige 0,87%. Prøvemengden for bestemmelse av løselighet 2 og 3 skal være 1 g. | 1. Vannløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres |
+
+*2. NP-gjødsel*
+
+| *Typebetegnelse* | *Opplysninger om produksjonsmåte* | *Minimumsinnhold av næringsstoffer (masseprosent)* |  | *Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad* |  |  | *Opplysninger om gjødselens karakteristiske egenskaper. Andre krav* |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *Totalt* | *For hvert næringsstoff* | *N* | *P* | *K* | *N* | *P* | *K* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| NP-gjødsel | Produkt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 18% (N + P / 0,436) | 3% N<br>2,2% P | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Cyanamid-<br>nitrogen | 1: Vannløselig P<br>2: P løselig i nøytralt ammonium-<br>sitrat<br>3: P løselig i nøytralt ammonium-<br>sitrat og i vann<br>4: P bare oppløselig i mineralsyre<br>5: P oppløselig i basisk ammonium-<br>sitrat (Petermann)<br>6: P oppløselig i 2% sitronsyre<br>7: P oppløselig i mineralsyre. Minst 75% av deklarert innhold av P skal være oppløselig i basisk ammonium<br>sitrat (Joulie)<br>8: P oppløselig i mineralsyre. Minst 55% av det deklarerte P skal være oppløselig i 2% maursyre. |  | 1. Totalnitrogen<br>2. Dersom innholdet av nitrogenformene<br>(2) – (5) utgjør minst 1 masseprosent, skal den deklareres. | 1. En NP-gjødsel som ikke inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsiumfosfat, delvis oppløst råfosfat eller bløt råfosfat, skal deklareres i samsvar med oppløselighet (1), (2) eller (3):<br>– utgjør det vannoppløselige P mindre enn 0,9%, deklareres bare oppløselighet (2)<br>– dersom det vannoppløselige P utgjør minst 0,9%, angis oppløselighet (3), og innholdet av vannoppløselig P må oppgis (oppløselighet 1) Innholdet av P som bare kan oppløses i mineralsyre, må ikke være høyere enn 0,9%. |  |
+|  |  |  |  |  |  |  |  | For denne gjødseltype 1 skal prøvemengden for å bestemme oppløselighet (2) og (3) være 1 gram.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
+|  |  |  |  | Findelingsgrader: Se under NPK-gjødsel, spalte 5 |  |  |  | 2a. En NP-gjødsel som inneholder bløt råfosfat eller delvis oppløst råfosfat, må være uten thomasslagg, pyrofosfat eller aluminium-<br>kalsiumfosfat. Denne skal deklareres i samsvar med oppløselighet (1), (3) og (4). Denne gjødseltypen må inneholde:<br>– minst 0,9% P som bare er oppløselig i mineralsyre (oppløselighet (4))<br>– minst 2,2% P oppløselig i vann og i nøytralt ammonium-<br>sitrat (oppløselighet (3))<br>– minst 1,1% P oppløselig i vann (oppløselighet (1))<br><br>Denne gjødseltypen skal markedsføres som «NP-gjødsel med bløt råfosfat» eller som «NP-gjødsel med delvis oppløst råfosfat». For denne gjødseltypen (2a) skal prøvemengden for bestemmelse av oppløselighet (3) være 3 gram.<br><br>2b. En NP-gjødsel som inneholder aluminiumkalsium-<br>fosfat må ikke inneholde thomasfosfat, pyrofosfat, bløt råfosfat eller delvis oppløst råfosfat. Dette skal deklareres i samsvar med oppløselighet (1) og (7), i siste tilfelle med fradrag av oppløselighet i vann. Denne gjødseltype skal oppfylle følgende krav:<br>– inneholde minst 0,9% vannoppløselig P oppløselighet (1)<br>inneholde minst 2,2% P i samsvar med oppløselighet (7)<br><br>Denne type gjødsel skal markedsføres under betegnelsen «NP-gjødsel med aluminium-<br>kalsiumfosfat».<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.<br><br>3. Når en NP-gjødsel bare inneholder en av følgende typer fosfatgjødsel:<br>Thomasfosfat, pyrofosfat, aluminiumkalsium-<br>fosfat, bløt råfosfat, skal typebetegnelsen følges av opplysning om fosforkomponenten. Deklarasjonen av oppløseligheten av P skal gis i samsvar med følgende oppløseligheter:<br>– for gjødsel basert på thomasfosfat: Oppløselighet (6)<br>– for gjødsel basert på pyrofosfat: Oppløselighet (5)<br>– for gjødsel basert på aluminium-<br>kalsiumfosfat: Oppløselighet (7)<br>– for gjødsel basert på bløt råfosfat: Oppløselighet (8)<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
+| Oppløsning av NP-gjødsel | Produkt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 18% (N + P / 0,436)<br>Største innhold av biuret: urea-N x 0,026 | 3% N<br>2,2% P<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Cyanamid-<br>nitrogen |  |  | 1. Totalnitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2% kan «lavt biuretinnhold» tilføyes. | Vannoppløselig P.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P |  |
+| Suspensjon av NP-gjødsel | Produkt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (N + P / 0,436)<br>Største innhold av biuret: urea-N x 0,026 | 3% N<br>2,2% P<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen | 1: Vann-<br>oppløselig P<br>2: P oppløselig i nøytralt ammoniumsitrat<br>3: P oppløselig i nøytralt ammoniumsitrat og i vann |  | 1. Totalnitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes. | 1. Dersom det vannoppløselige P utgjør mindre enn 0,9%, deklareres bare oppløselighet 2.<br>2. Dersom det vannoppløselige P utgjør minst 0,9%, deklareres både oppløselighet 3 og vannoppløselig P. Gjødselen må ikke inneholde thomasslagg, aluminium-<br>kalsium-<br>fosfat, pyrosfosfat, delvis oppløst råfosfat eller råfosfat.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
+| NP-gjødsel som inneholder kroto-<br>nyliden-<br>diurea eller isobut-<br>yliden-<br>diurea eller urea-<br>formaldehyd (alt etter omstendig-hetene) | Kjemisk fremstilt produkt som inneholder krotonyliden-<br>diurea eller isobutyliden-<br>diurea eller ureaformaldehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 18% (N + P / 0,436) | 5% N<br>Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogenformene 5, 6 eller 7. Minst 1/4 av det deklarerte nitrogen-<br>innholdet 7, skal være løselig i varmt vann.<br>2,18% P | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Krotony-<br>lidendiurea-<br>nitrogen<br>6. Isobuty-<br>lidendiuera-<br>nitrogen<br>7. Urea-<br>formaldehyd-<br>nitrogen<br>8. Urea-<br>formaldehyd-<br>nitrogen løselig bare i varmt vann<br>9. Urea-<br>formaldehyd-<br>nitrogen løselig i kaldt vann | 1. Vannløselig P<br>2. P løselig i nøytralt ammoniumsitrat<br>3. P løselig i nøytralt ammoniumsitrat og i vann |  | 1. Totalnitrogen<br>2. Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres<br>3. En av nitrogenformene 5-7<br>Nitrogenformen 7 skal deklareres som nitrogenformen 8 og 9 | En NP-gjødsel som ikke inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsium-<br>fosfat, delvis oppløst råfosfat eller råfosfat, skal deklareres etter oppløselighet som angitt under 1, 2 eller 3:<br>Utgjør vannløselig P mindre enn 0,92% deklareres bare løselighet 2,<br>– utgjør vannløselig P minst 0,92%, deklareres løselighet 3 med samtidig angivelse av det vannløselige innhold av P (løselighet 1). Innholdet av P som er løselig i bare mineralsyre må ikke overstige 0,92%. Prøvemengden for bestemmelse av løselighet 2 og 3 skal være 1 g |  |
+
+*NK-gjødsel* *Typebetegnelse**Opplysninger om produksjonsmåte**Minimumsinnhold av næringsstoffer (masseprosent)**Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad**Opplysninger om gjødselens karakteristiske egenskaper. Andre krav**Totalt**For hvert næringsstoff**N**P**K**N**P**K**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)*NK-gjødselProdukt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.18 (N + K / 0,83)3% N
+4,1% K1. Totalnitrogen
+2\. Nitratnitrogen
+3\. Ammonium-
+nitrogen
+4\. Ureanitrogen
+5\. Cyanamid-
+nitrogenVann-
+oppløselig K1. Totalnitrogen
+2\. Dersom en av nitrogenformene (2) – (5) utgjør minst 1 masseprosent, skal den deklareres1. Vann-
+oppløselig kalium
+2\. Betegnelse
+«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
+3\. Klor-
+innholdet kan deklareresOppløsning av NK-gjødselProdukt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.15% (N + K / 0,83)
+Største innhold av biuret: urea-N x 0,0263% N
+4,1% K
+Største innhold av biuret: urea-N x 0,0261. Totalnitrogen
+2\. Nitratnitrogen
+3\. Ammonium-
+nitrogen
+4\. Ureanitrogen1. Vann-
+oppløselig P
+2\. P oppløselig i nøytralt ammoniumsitrat
+3\. P oppløselig i nøytralt ammoniumsitrat og i vann.Vann-
+oppløselig K1. Totalnitrogen
+2\. Dersom innholdet av en nitrogen-
+forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes.1. Vann-
+oppløselig kalium
+2\. Betegnelse
+«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
+3\. Klor-
+innholdet kan deklareresSuspensjon av NK-gjødselProdukt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.18% (N + K / 0,83)
+Største innhold av biuret: urea-N x 0,0263% N 4,1% K
+Største innhold av biuret: urea-N x 0,0261. Totalnitrogen
+2\. Nitratnitrogen
+3\. Ammonium-
+nitrogen
+4\. UreanitrogenVann-
+oppløselig K1. Totalnitrogen
+2\. Dersom innholdet av en nitrogen-
+forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes.1. Vann-
+oppløselig kalium
+2\. Betegnelse
+«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
+3\. Klor-
+innholdet kan deklareresNK-gjødsel som inneholder kroto-
+nylidend-
+iurea eller
+isobu-
+tylidend-
+iurea eller urea-
+formal-
+dehyd (alt etter omstendig-
+hetene)Kjemisk fremstilt produkt som inneholder kroto-
+nylidend-
+iurea eller
+isobuty-
+lidendiurea eller ureaformal-
+dehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse18% (N + K / 0,83)5% N Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogen-
+formene 5, 6 eller 7. Minst 3/5 av det deklarerte nitrogen-
+innholdet 7, skal være løselig i varmt vann 5% K \* 0,831. Totalnitrogen
+2\. Nitratnitrogen
+3\. Ammonium-
+nitrogen
+4\. Ureanitrogen
+5\. Kroto-
+nylidendiurea-
+nitrogen
+6\. Isobuty-
+lidendiuera-
+nitrogen
+7\. Urea-
+formaldehyd-
+nitrogen
+8\. Ureaformal-
+dehydnitrogen løselig bare i varmt vann
+9\. Ureaformal-
+dehydnitrogen løselig i kaldt vannVannløselig K1. Totalnitrogen
+2\. Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres. En av nitrogenformene 5-7 (alt etter omstendighetene)
+Nitrogenformen 7 skal deklareres som nitrogenform 8 og 91. Vannløselig kalium
+2\. Betegnelse
+«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.
+3\. Klor-
+innholdet kan deklareres
+
+*PK-gjødsel*
+
+| *Typebetegnelse* | *Opplysninger om produksjonsmåte* | *Minimumsinnhold av næringsstoffer (masseprosent)* |  | *Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad* |  |  | *Opplysninger om gjødselens karakteristiske egenskaper. Andre krav* |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *Totalt* | *For hvert næringsstoff* | *N* | *P* | *K* | *N* | *P* | *K* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| PK-gjødsel | Produkt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (P / 0,436 + K / 0,83) | 2,2% P<br>4,1% K | Findelingsgrader: Se spalte 6 | 1. Vann-<br>oppløselig P<br>2. P oppløselig i nøytralt ammoniumsitrat<br>3. P oppløselig i nøytralt ammoniumsitrat og i vann<br>4. P oppløselig bare i mineralsyre<br>5. P oppløselig i basisk ammoniumsitrat (Petermann)<br>6. P oppløselig i 2% sitronsyre<br>7. P oppløselig i mineralsyre. Minst 75% av det deklarerte P-innholdet skal være oppløselig i basisk ammoniumsitrat (Joulie)<br>8. P oppløselig i mineralsyre. Minst 55% av det deklarerte P-innholdet skal være oppløselig i 2% maursyre | Vann-<br>oppløselig K |  | 1. En PK-gjødsel som ikke inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsiumfosfat, delvis oppløst råfosfat eller bløt råfosfat, skal garanteres i samsvar med oppløselighet (1), (2) eller (3):<br>– når vannoppløselig P er under 0,9%, skal bare oppløselighet (2) deklareres<br>– når vannoppløselig P er minst 0,9%, skal oppløselighet (3) deklareres, og det vannoppløselige P angis (oppløselighet (1)<br>Innhold av P som bare er oppløselig i mineralsyre må ikke overstige 0,9%. For denne gjødseltype 1 skal prøvemengden for å bestemme oppløselighet (2) og (3) være 1 gram<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. | 1.Vannløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres |
+|  |  |  |  | Findelingsgrader for de viktigste fosfatkomponentene<br>Thomasfosfat: Minst 75% passerer en 0,160 mm sikt<br>Aluminiumkalsiumfosfat: Minst 90% passerer en 0,160 mm sikt<br>Pyrofosfat: Minst 70% passerer en 0,160 mm sikt<br>Bløt råfosfat: Minst 90% passerer en 0,063 mm sikt<br>Delvis oppløst råfosfat: Minst 90% passerer en 0,160 mm sikt: |  |  |  | 2a. En PK-gjødsel som inneholder bløt råfosfat eller delvis oppløst råfosfat, må ikke inneholde thomasfosfat, pyrofosfat eller aluminiumkalsium-<br>fosfat. Den skal deklareres i samsvar med oppløselighet (1), (3) og (4).<br><br>Denne gjødseltype må tilfredsstille følgende krav:<br>– inneholde minst 0,9% P oppløselig bare i mineralsyre (oppløselighet (4))<br>– inneholde minst 2,2% P oppløselig i vann og nøytralt ammoniumsitrat (oppløselighet (3))<br><br>Denne gjødseltypen skal markedsføres som «PK-gjødsel med bløt råfosfat» eller som «PK-gjødsel med delvis oppløst råfosfat»<br><br>For denne type gjødsel (2a) utgjør prøvemengden 3 gram for bestemmelse av oppløselighet (3)<br><br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.<br><br>2b. En PK-gjødsel som inneholder aluminium-<br>kalsium-<br>fosfat, må ikke inneholde thomasfosfat, pyrofosfat eller delvis oppløst råfosfat. Den skal deklareres i samsvar med oppløselighet (1) og (7) i siste tilfelle med fradrag av oppløselighet i vann.<br><br>Denne gjødseltypen skal tilfredsstille følgende krav:<br>– inneholde minst 0,9% vannoppløselig P (oppløselighet (1))<br>– inneholde minst 2,2% P etter oppløselighet (7)<br><br>3. For PK-gjødsel som bare inneholder en av følgende typer fosfatgjødsel:<br>Thomasfosfat, pyrofosfat, aluminium-<br>kalsium-<br>fosfat, bløt råfosfat, må typebetegnelsen følges av en angivelse av fosfatkomponenten.<br><br>Deklarasjonen for oppløseligheten av P skal gis i samsvar med følgende oppløseligheter:<br>– for gjødsel basert på thomasfosfat: Oppløselighet (6)<br>– for gjødsel basert på pyrofosfat: Oppløselighet (5)<br>– for gjødsel basert på aluminium-<br>kalsiumfosfat: Oppløselighet (7)<br>– for gjødsel basert på bløt råfosfat: Oppløselighet (8)<br><br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
+| Oppløsning av PK-gjødsel | Produkt fremstilt kjemisk og ved oppløsning i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (P / 0,436 + K / 0,83) | 2,2% P<br>4,1% K |  |  | Vann-<br>oppløselig K |  | Vannoppløselig P<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. | 1. Vann-<br>oppløselig kalium.<br>2. Betegnelsen<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres. |
+| Suspensjon av PK-gjødsel | Produkt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (P / 0,436 + K / 0,83) | 2,2% P<br>4,1% K |  | 1. Vann-<br>oppløselig P<br>2. P oppløselig i nøytralt ammoniumsitrat<br>3. P oppløselig i nøytralt ammoniumsitrat og i vann | Vann-<br>oppløselig K |  | 1. Dersom det vannoppløselige P utgjør mindre enn 0,9%, deklareres bare oppløselighet 2.<br>2. Dersom det vannoppløselige P utgjør minst 0,9%, skal oppløselighet 3 og innholdet av vannoppløselig P deklareres. Gjødselen må ikke inneholde thomasslagg, aluminium-<br>kalsium-<br>fosfat, pyrosfosfat, delvis oppløst råfosfat eller råfosfat.<br>Kadmium-<br>innholdet må ikke overstige 100 mg Cd pr. kg P. | 1. Vann-<br>oppløselig kalium<br>2. Betegnelsen<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klorinnholdet kan deklareres. |
+
 > Endret ved [forskrifter 9 nov 2005 nr. 1313](forskrift/2005-11-09-1313), [16 jan 2006 nr. 43](forskrift/2006-01-16-43), [26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ### C. Gjødsel med kalsium, magnesium eller svovel som viktigste næringsstoff
 
+| *Nr.* | *Typebetegnelse* | *Opplysninger om produksjonsmåte og hovedbestanddel* | *Minsteinnhold av næringsstoffer (masseprosent). Opplysninger om angivelse av næringsinnhold. Andre krav* | *Andre opplysninger om typebetegnelsen* | *Næringsinnhold som skal deklareres. Næringsstoffenes oppløselighet. Andre kriterier* |
+| --- | --- | --- | --- | --- | --- |
+| *1* | *2* | *3* | *4* | *5* | *6* |
+| 1 | Kalsiumsulfat | Natur- eller industriprodukt som inneholder kalsiumsulfat med varierende vanninnhold. | 17,9% Ca 14% S Kalsium og svovel uttrykt som total Ca + S. Findelingsgrad:<br>– minst 80% passerer en 2 mm sikt.<br>– minst 90% passerer en 10 mm sikt. | Vanlige handelsnavn kan tilføyes. | Totalsvovel. Valgfritt: total kalsium. |
+| 2 | Kalsiumkloridløsning | Kalsiumkloridløsning av industriell opprinnelse. | 8,6% Ca Kalsium uttrykt som vannløselig Ca |  | Kalsium<br>Valgfritt: til sprøyting av planter |
+| 3 | Ren svovel | Mer eller mindre renset natur- eller industriprodukt. | 98% S Svovel uttrykt som total S |  | Totalsvovel. |
+| 4 | Løsning av magnesiumnitrat | Produkt fremstilt kjemisk og ved oppløsning av magnesiumnitrat i vann | 6% N Nitrogen uttrykt som nitratnitrogen<br>9% MgO Magnesium uttrykt som vannløselig magnesiumoksid pH-minimum: 4 |  | Nitratnitrogen Vannløselig magnesiumoksid |
+| 5 | Magnesiumsulfat | Produkt der magnesiumsulfat med sju molekyler vann er hovedbestanddel. | 9% Mg<br>11,2% S<br>Magnesium og svovel uttrykt som vannløselig magnesium og vannløselig svovel. | Vanlige handelsnavn kan tilføyes. | Vannløselig magnesium<br>Valgfritt: vannløselig svovel |
+| 5.1 | Magnesiumsulfatløsning | Produkt fremstilt ved å oppløse magnesiumsulfat av industriell opprinnelse i vann | 3% Mg<br>10% SO3 Magnesium og svovel uttrykt som vannløselig magnesiumoksid og svoveltrioksid | Vanlig handelsnavn kan tilføyes | Vannløselig magnesiumoksid<br>Valgfritt: vannløselig svoveltrioksid |
+| 6 | Magnesiumkloridløsning | Produkt som fremkommer ved løsning av magnesiumklorid av industriell opprinnelse. | 7,8% Mg Magnesium uttrykt som magnesium. Største kalsiuminnhold: 2,2% Ca |  | Magnesium |
+| 7 | Kieseritt | Naturlig forekommende mineral med magnesiumsulfat der ett molekyl vann er hovedbestanddel. | 14% Mg 18% S Magnesium og svovel uttrykt som vannløselig magnesium og vannløselig svovel. | Vanlige handelsnavn kan tilføyes. | Vannløselig magnesium<br>Valgfritt: vannløselig svovel |
+| 8 | Kieseritt med kaliumsulfat | Produkt fremstilt av kieseritt ved tilsetting av kaliumsulfat. | 4,8% Mg | Magnesium uttrykt som vannløselig Mg | 5% K |
+| 10 | Kalsiumnitratløsning | Produkt fremstilt ved løsning av kalsiumnitrat i vann | 8% N<br>– til bladgjødsling<br>– til fremstilling av næringsløsninger | Nitrogen uttrykt som nitratnitrogen med høyst 1% ammoniumnitrogen. Typebetegnelsen kan eventuelt etterfølges av:<br>– til gjødselvanning<br>ammoniumnitrogen<br>Totalnitrogen | Valgfritt:<br>– nitratnitrogen<br>– ammoniumnitrogen<br>– kalsium når det gjelder ett av bruksområdene angitt i spalte 5 |
+
 > Endret ved [forskrift 26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ### D. Gjødsel som bare inneholder ett mikronæringsstoff
+
+*Merknad 1:* En kjelatdanner kan betegnes ved sin forkortelse, som angitt i vedlegg 4.
+
+*Merknad 2:* Dersom et produkt ikke etterlater noen fast rest etter oppløsning i vann, kan det betegnes «for oppløsning».
+
+*Merknad 3:* Når et mikronæringsstoff er tilstede i kjelatert form, skal det oppgis i hvilket pH-intervall kjelatet er stabilt.
+
+| *Nr.* | *Typebetegnelse* | *Opplysninger om produksjonsmåte og hovedbestanddeler* | *Minsteinnhold av mikronæringsstoffer (masseprosent). Opplysninger om angivelse av næringsinnhold. Andre krav* | *Andre opplysninger om typebetegnelsen* | *Næringsinnhold som skal deklareres. Oppløselighet. Andre kriterier.* |
+| --- | --- | --- | --- | --- | --- |
+| *1* | *2* | *3* | *4* | *5* | *6* |
+| *BOR* |  |  |  |  |  |
+| 1a | Borsyre | Produkt fremstilt ved innvirkning av en syre på et borat. | 14% vannløselig B | Vanlige handelsnavn kan tilføyes. | Vannløselig bor (B) |
+| 1b | Natriumborat | Kjemisk fremstilt produkt med et natriumborat som hovedbestanddel. | 10% vannløselig B | Vanlige handelsnavn kan tilføyes. | Vannløselig bor (B) |
+| 1c | Kalsiumborat | Produkt fremstilt på grunnlag av colemanitt eller pandermitt, med kalsiumborater som hovedbestanddeler. | 7% B, totalt<br>Findelingsgrad: minst 98% passerer en 0,063 mm sikt | Vanlige handelsnavn kan tilføyes. | Total bor (B) |
+| 1d | Boretanolamin | Produkt fremstilt ved at borsyre reagerer med et etanolamin. | 8% vannløselig B |  | Vannløselig bor (B) |
+| 1e | Borholdig gjødsel i løsning | Produkt fremstilt ved oppløsning av typene 1a og/eller 1b og/eller 1d i vann. | 2% vannløselig B | Betegnelsen skal omfatte navnet på de tilstedeværende bestanddeler. | Vannløselig bor (B) |
+| 1f | Borholdig gjødsel i suspensjon | Produkt fremstilt ved å suspendere typene 1a og/eller 1b og/eller 1d i vann | 2% vannløselig B | Betegnelsen skal omfatte navnet på de tilstedeværende bestanddeler. | Vannløselig bor (B) |
+| *KOBOLT* |  |  |  |  |  |
+| 2a | Koboltsalt | Kjemisk fremstilt produkt med et uorganisk koboltsalt som hovedbestanddel. | 19% vannløselig Co | Typebetegnelsen må inneholde navnet på det tilknyttede uorganiske anion. | Vannløselig kobolt (Co) |
+| 2b | Koboltkjelat | Produkt fremstilt ved kjemisk binding av kobolt til en kjelatdanner. | 2% vannløselig Co, herav minst 8/10 kjelatert. | Type kjelatdanner | Vannløselig kobolt (Co) Kjelatert kobolt (Co) |
+| 2c | Løsning av koboltgjødsel | Produkt fremstilt ved oppløsning av type 2a og/eller 2b i vann. | 2% vannløselig Co | Typebetegnelsen må inneholde navnet på det uorganiske anion og/eller typen kjelatdanner. | Vannløselig kobolt (Co) Kjelatert kobolt (Co) |
+| *KOBBER* |  |  |  |  |  |
+| 3a | Kobbersalt | Kjemisk fremstilt produkt med et uorganisk kobbersalt som hovedbestanddel. | 20% vannløselig Cu | Typebetegnelsen må inneholde navnet på det tilknyttede anion. | Vannløselig kobber (Cu) |
+| 3b | Kobberoksid | Kjemisk fremstilt produkt med kobberoksid som hovedbestanddel. | 70% Cu, totalt<br>Findelingsgrad: minst 98% passerer en 0,063 mm sikt |  | Total kobber (Cu) |
+| 3c | Kobberhydroksid | Kjemisk fremstilt produkt med kobberhydroksid som hovedbestanddel. | 45% Cu, totalt<br>Findelingsgrad: minst 98% passerer en 0,063 mm sikt |  | Total kobber (Cu) |
+| 3d | Kobberkjelat | Produkt fremstilt ved kjemisk binding av kobber til en kjelatdanner. | 9% vannløselig Cu, herav minst 8/10 kjelatert. | Type kjelatdanner | Vannløselig kobber (Cu)<br>Kjelatert kobber (Cu) |
+| 3e | Kobberbasert gjødsel | Produkt fremstilt ved blanding av typene 3a, 3b, 3c eller 3d og eventuelt et fyllstoff som verken er giftig eller inneholder næringsstoffer. | 5% Cu, totalt<br>Findelingsgrad: minst 98% passerer en 0,063 mm sikt | Type kjelatdanner | Total kobber (Cu)<br>Vannløselig kobber (Cu) dersom dette utgjør minst 1/4 av det totale kobber.<br>Kjelatert kobber (Cu) |
+| 3f | Løsning av kobbergjødsel | Produkt fremstilt ved oppløsning av type 3a og/eller 3d i vann. | 3% vannløselig Cu | Type kjelatdanner | Vannløselig kobber (Cu), der en del er kjelatert kobber (Cu) |
+| 3g | Kopperoksyklorid | Kjemisk fremstilt produkt med kopperoksyklorid som hovedbestanddel (Cu2Cl(OH)3) | 50% Cu totalt.<br>Findelingsgrad: minst 98% passerer en 0,063 mm sikt | Typebetegnelsen må inneholde navnet på det uorganiske anion | Vannløselig kopper (Cu) |
+| 3h | Kopperoksyklorid i suspensjon | Produkt fremstilt ved suspensjon av type 3g | 17% Cu totalt |  | Totalt kopper (Cu) |
+| *JERN* |  |  |  |  |  |
+| 4a | Jernsalt | Kjemisk fremstilt produkt med et jernsalt (Fe II) som hovedbestanddel. | 12% vannløselig Fe | Typebetegnelsen må inneholde navnet på det tilknyttede anion. | Vannløselig jern (Fe) |
+| 4b | Jernkjelat | Produkt fremstilt ved kjemisk binding av jern til en kjelatdanner. | 5% vannløselig Fe, minst 8/10 av dette er kjelatert. | Type kjelatdanner | Vannløselig jern (Fe)<br>Kjelatert jern (Fe) |
+| 4c | Jernbasert gjødselløsning | Produkt fremstilt ved oppløsning av type 4a og/eller en enkelt type 4b i vann. | 2% vannløselig Fe | Typebetegnelsen må inneholde a) navnet eller navnene på det eller de uorganiske anioner b) eventuelt navnet på kjelatdanneren | Vannløselig jern (Fe)<br>Kjelatert jern (Fe) |
+| *MANGAN* |  |  |  |  |  |
+| 5a | Mangansalt | Kjemisk fremstilt produkt med et uorganisk mangan(II)salt som hovedbestanddel. | 17% vannløselig Mn | Typebetegnelsen må inneholde navnet på det tilknyttede anion. | Vannløselig mangan (Mn) |
+| 5b | Mangankjelat | Produkt fremstilt ved kjemisk binding av mangan til en kjelatdanner. | 5% vannløselig Mn, minst 8/10 av dette er kjelatert | Type kjelatdanner | Vannløselig mangan (Mn) Kjelatert mangan (Mn) |
+| 5e | Manganbasert gjødselløsning | Produkt fremstilt ved oppløsning av type 5a og/eller en enkelt type 5b i vann. | 3% vannløselig Mn | Typebetegnelsen må inneholde: a) navnet eller navnene på det eller de uorganiske anioner b) eventuelt navnet på kjelatdanneren | Vannløselig mangan (Mn) Kjelatert mangan (Mn) |
+| 5c | Manganoksid | Kjemisk fremstilt produkt med manganoksider som hovedbestanddel. | 40% Mn, totalt<br>Findelingsgrad: minst 80% passerer en 0,063 mm sikt |  | Total mangan (Mn) |
+| 5d | Manganbasert gjødsel | Produkt fremstilt ved blanding av typene 5a og 5c. | 17% Mn, totalt |  | Total mangan (Mn) Vannløselig mangan (Mn), dersom det utgjør minst 25% av det totale mangan. |
+| *MOLYBDEN* |  |  |  |  |  |
+| 6a | Natriummolybdat | Kjemisk fremstilt produkt med natriummolybdat som hovedbestanddel. | 35% vannløselig Mo |  | Vannløselig molybden (Mo) |
+| 6b | Ammoniummolybdat | Kjemisk fremstilt produkt med ammoniummolybdat som hovedbestanddel. | 50% vannløselig Mo |  | Vannløselig molybden (Mo) |
+| 6c | Molybdenbasert gjødsel | Produkt fremstilt ved blanding av typene 6a og 6b. | 35% vannløselig Mo | Typebetegnelsen må inneholde navnet på molybdenkomponentene | Vannløselig molybden (Mo) |
+| 6d | Molybdenbasert gjødselløsning | Produkt fremstilt ved oppløsning av type 6a og/eller en enkelt type 6b i vann. | 3% vannløselig Mo | Typebetegnelsen må inneholde navnet på molybdenkomponentene | Vannløselig molybden (Mo) |
+| *SINK* |  |  |  |  |  |
+| 7a | Sinksalt | Kjemisk fremstilt produkt med et uorganisk sinksalt som hovedbestanddel. | 15% vannløselig Zn | Typebetegnelsen må inneholde navnet på det uorganiske anion | Vannløselig sink (Zn) |
+| 7b | Sinkkjelat | Produkt fremstilt ved kjemisk binding av sink til en kjelatdanner. | 5% vannløselig Zn, der minst 8/10 av det deklarerte innhold er kjelatert | Type kjelatdanner | Vannløselig sink (Zn)<br>Kjelatert sink (Zn) |
+| 7c | Sinkoksid | Kjemisk fremstilt produkt med sinkoksid som hovedbestanddel. | 70% Zn, totalt.<br>Findelingsgrad: minst 80% passerer gjennom en 0,063 mm sikt |  | Total sink (Zn) |
+| 7d | Sinkbasert gjødsel | Produkt fremstilt ved blanding av typene 7a og 7c. | 30% Zn, totalt | Typebetegnelsen må inneholde navnet på sinkkomponentene | Total sink (Zn)<br>Vannløselig sink (Zn) dersom det utgjør minst 1/4 av det totale sink (Zn). |
+| 7e | Sinkbasert gjødselløsning | Produkt fremstilt ved oppløsning av typene 7a og/eller en enkelt type 7b i vann. | 3% vannløselig Zn | Typebetegnelsen må inneholde: a) navnet eller navnene på det eller de uorganiske anioner b) eventuelt navnet på kjelatdanneren | Vannløselig sink (Zn)<br>Kjelatert sink (Zn) |
 
 > Endret ved [forskrift 26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
@@ -399,7 +662,7 @@ Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P.Totalfosfor (mineralsyreo
 ## Vedlegg 4. Liste over organiske stoffer godkjent som kjelatdannere for mikronæringsstoffer
 
 1. Følgende stoffer er godkjent for bruk som kjelatdannere for mikronæringsstoffer samt natrium-, kalium- og ammoniumsalter av disse:etylendiamintetraeddikksyre:EDTAC10 H16 O8 N2dietylentriaminpentaeddiksyre:DTPAC14 H23 O10 N3etylendiamin-di-(O-hydroksyfenyleddiksyre):EDDHAC18 H20 O6 N22-hydroksyetylendiamintrieddiksyre:HEDTAC10 H18 O7 N2etyldiamin-di-(O-hydroksi-p-metylfenyleddiksyre):EDDHMAC20 H24 N2 O6etylendiamin-di-(5-karboksi-2-hydroksifenyleddiksyre):EDDCHAC20 H20 O10 N2etylendiamin-di-((2-hydroksi 5-sulphonatfenyleddikksyre) og stoffets kondensasjonsprodukterEDDHSAC18 H20 O12 N2 S2 +
-n*(C12 H14 O8 N2 S)
+n\*(C12 H14 O8 N2 S)
 
 > Endret ved [forskrift 16 jan 2006 nr. 43](forskrift/2006-01-16-43).
 
@@ -414,16 +677,67 @@ n*(C12 H14 O8 N2 S)
 
 ### A. Gjødsel som bare inneholder ett hovednæringsstoff
 
+|  |  |
+| --- | --- |
+|  | *Absolutte verdier i masseprosent, uttrykt som N, P, K og Cl* |
+
+*1. Nitrogengjødsel (N)*
+
+|  |  |
+| --- | --- |
+| Kalksalpeter | 0,4 |
+| Kalsiummagnesiumnitrat | 0,4 |
+| Natriumnitrat | 0,4 |
+| Chilesalpeter | 0,4 |
+| Kalsiumcyanamid | 1,0 |
+| Nitratholdig kalsiumcyanamid | 1,0 |
+| Ammoniumsulfat | 0,3 |
+| Ammoniumnitrat eller kalkammonsalpeter |  |
+| – til og med 32% N | 0,8 |
+| – over 32% N | 0,6 |
+| Ammoniumsulfatnitrat | 0,8 |
+| Magnesiumsulfatnitrat | 0,8 |
+| Magnesium ammoniumnitrat | 0,8 |
+| Urea | 0,4 |
+| Ureaammoniumsulfat | 0,5 |
+| Løsning av nitrogengjødsel | 0,6 |
+| Løsning av ammoniumnitrat med urea | 0,6 |
+| Suspensjon av kalsiumnitrat | 0,4 |
+| Løsning av nitrogengjødsel med ureaformaldehyd | 0,4 |
+| Suspensjon av nitrogengjødsel med ureaformaldehyd | 0,4 |
+| Annen nitrogengjødsel | 0,4 |
+
+*2. Fosforgjødsel (P)* Thomasfosfat– deklarasjon innenfor en margin på 0,9 masseprosent P0– deklarasjon uttrykt i ett enkelt tall0,44Annen fosforgjødsel (nr. på gjødselen i vedlegg 1)P-oppløselighet i:Mineralsyre (3, 6, 7)0,35Maursyre (7)0,35Nøytralt ammoniumsitrat (2a, 2b, 2c)0,35Basisk ammoniumsitrat (4, 5, 6)0,35Vann (2a, 2b, 3)0,39Vann (2c)0,57Annen fosforgjødsel0,4*3. Kaliumgjødsel* Kainitt/kaliumråsalt1,25Beriket kainitt/kaliumråsalt0,83Kaliumklorid– til og med 45,7%0,83– over 45,7%0,42Kaliumklorid med magnesiumsalt1,25Kaliumsulfat0,42Kaliumsulfat med magnesiumsalt1,25Annen kaliumgjødsel0,5*4. Andre stoffer* Klor0,2
+
 > Endret ved [forskrift 26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ### B. Gjødsel som inneholder flere hovednæringsstoffer
 
-Følgende toleranser gjelder:*I. Gjødsel som oppfyller
-spesifikasjonene i vedlegg 2**II. Annen gjødsel**1. Negativt avvik på enkeltnæringsstoffer:*Nitrogen (N)1,101Fosfor (P)0,480,5Kalium (K)0,911*2. Sum negativt avvik:*NP-gjødsel(N + P / 0,436) ≤ 1,50,80NK-gjødsel(N + K / 0,83) ≤ 1,50,80PK-gjødsel(P / 0,436 + K / 0,83) ≤ 1,50,80NPK-gjødsel(N + P / 0,436 + K / 0,83)≤ 1,91,20
+Følgende toleranser gjelder:
+
+|  |  |  |
+| --- | --- | --- |
+|  | *I. Gjødsel som oppfyller<br>spesifikasjonene i vedlegg 2* | *II. Annen gjødsel* |
+| *1. Negativt avvik på enkeltnæringsstoffer:* |  |  |
+| Nitrogen (N) | 1,10 | 1 |
+| Fosfor (P) | 0,48 | 0,5 |
+| Kalium (K) | 0,91 | 1 |
+| *2. Sum negativt avvik:* |  |  |
+| NP-gjødsel | (N + P / 0,436) ≤ 1,5 | 0,80 |
+| NK-gjødsel | (N + K / 0,83) ≤ 1,5 | 0,80 |
+| PK-gjødsel | (P / 0,436 + K / 0,83) ≤ 1,5 | 0,80 |
+| NPK-gjødsel | (N + P / 0,436 + K / 0,83)≤ 1,9 | 1,20 |
 
 ### C. Sekundære næringsstoffer
 
-De toleranser som er tillatt i forhold til deklarert innhold av kalsium, magnesium, natrium og svovel fastsettes til en fjerdedel av det deklarerte innhold av disse næringsstoffer, med følgende maksimum i prosentisk absoluttverdi:Kalsium (Ca)0,64Magnesium (Mg)0,55Natrium (Na)0,67Svovel (S)0,36
+De toleranser som er tillatt i forhold til deklarert innhold av kalsium, magnesium, natrium og svovel fastsettes til en fjerdedel av det deklarerte innhold av disse næringsstoffer, med følgende maksimum i prosentisk absoluttverdi:
+
+|  |  |
+| --- | --- |
+| Kalsium (Ca) | 0,64 |
+| Magnesium (Mg) | 0,55 |
+| Natrium (Na) | 0,67 |
+| Svovel (S) | 0,36 |
 
 ### D. Mikronæringsstoffer
 
@@ -435,6 +749,35 @@ De toleranser som er tillatt i forhold til det deklarerte innhold av mikronærin
 
 ## Vedlegg 8. Varetype, krav til nøytraliserende verdi og magnesium i produkt som levert og til findelingsgrad
 
+| *Varetype* | *Opplysninger om produktet* | *Minste nivå for nøytraliserende verdi (NV)* | *Andel magnesium (Mg) i masseprosent* | *Minste masseprosent av varen som skal passere en trådsikt med maskeåpning i millimeter* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | *6,3 x 6,3* | *5,0 x 5,0* | *3,15 x 3,15* | *2,0 x 2,0* | *1,0 x 1,0* | *0,4 x 0,4* | *0,2 x 0,2* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
+| Kalkmel | Kalkstein som er knust og malt. | 45 | Høyst 2 |  |  |  |  | 98 | 80 |  |
+| Grovkalk | Kalkstein som er knust og malt grovere enn kalkmel. | 45 | Høyst 2 |  |  | 98 |  | 70 | 40 |  |
+| Dolomittmel | Dolomitt som er knust og malt. | 48 | Minst 10 |  |  |  |  | 98 |  | 80 |
+| Grovdolomitt | Dolomitt som er knust og malt grovere enn dolomittmel. | 48 | Minst 10 |  |  |  | 98 |  | 60 | 30 |
+| Kalkdolomittmel | Finmalt produkt som inneholder både kalkstein og dolomitt. | 45 | Fra 2 til 10 |  |  |  |  | 98 |  | 80 |
+| Grov kalkdolomitt | Produkt som er knust og malt grovere enn kalkdolomittmel. | 45 | Fra 2 til 10 |  |  |  | 98 |  | 60 | 30 |
+| Brent kalk | Kalkstein som er brent og knust eller malt. | 65 | høyst 3,2 | 98 |  |  |  |  |  |  |
+| Brent dolomitt | Dolomitt som er brent og knust eller malt. | 75 | minst 15,7 |  |  |  |  |  |  |  |
+| Annen kalk | Former for kalk som ikke er definert andre steder. | 30 | ingen krav | 98 |  |  |  |  |  |  |
+
+| *Varetype* | *Opplysninger om produktet* | *Minste nivå for nøytraliserende verdi (NV)* | *Andel magnesium (Mg) i masseprosent* | *Masseprosent av varen som skal passere en perforert sikt med hulldiameter i millimeter* |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | *4,0* | *2,0* | *1,0* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* |
+| Granulert kalkmel | Kalkmel som er granulert. | 45 | Høyst 2 | minst 85 | 40 – 60 | høyst 10 |
+| Granulert dolomittmel | Dolomittmel som er granulert. | 48 | Minst 10 | minst 85 | 40 – 60 | høyst 10 |
+| Granulert kalkdolomittmel | Kalkdolomittmel som er granulert. | 45 | Fra 2 til 10 | minst 85 | 40 – 60 | høyst 10 |
+
+| *Varetype* | *Opplysninger om produktet* | *Minste nivå for nøytraliserende verdi (NV)* | *Andel magnesium (Mg) i masseprosent* | *Minste masseprosent av varen som skal passere en trådsikt med maskeåpning i millimeter* |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | *6,3 x 6,3* | *5,0 x 5,0* | *3,15 x 3,15* | *2,0 x 2,0* | *1,0 x 1,0* | *0,4 x 0,4* | *0,2 x 0,2* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* | *(11)* |
+| Silikatisk kalk<br>– Masovnslagg<br>– Konverterslagg | Kalk som inneholder silikatiske forbindelser med kalkvirkning, fremstilt i f.eks. metallurgisk industri. | 42<br>40 |  |  |  |  |  |  |  |  |
+| Konverteringskalk | Kalk fremstilt ved konvertering av kalsiumammoniumnitrat i gjødselindustri, og inneholder hovedsakelig kalsiumkarbonat | 45 | høyst 2 |  |  |  |  | 98 | 80 |  |
+
 > Endret ved [forskrift 26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 
 ## Vedlegg 9. Toleranse for enkeltanalyse av kalkingsmidler
@@ -442,3 +785,14 @@ De toleranser som er tillatt i forhold til det deklarerte innhold av mikronærin
 Tillatte avvik på enkeltanalyser ved stikkprøvekontroll fra produksjon og lager er angitt i tabell 1.
 
 Ved intervalldeklarering skal avvikene regnes fra intervallets middelverdi.
+
+Tabell 1. Tillatte avvik fra deklarerte verdier ved enkeltanalyser
+
+| *Parameter* | *Tillatt avvik ±* |
+| --- | --- |
+| Nøytraliserende verdi (NV) | 2,5 enheter |
+| Innhold av magnesium (Mg) | 0,5%-enheter |
+| Innhold av andre plantenæringsstoffer | 20% av oppgitt verdi |
+| Findelingsgrad (per fraksjon) | 5%-enheter |
+| Vanninnhold | 2%-enheter |
+| Veiledende kalkverdi 1 og 5 år | 3 enheter |

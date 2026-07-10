@@ -1289,12 +1289,26 @@ Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – �
 
 ## EØS-avtalen vedlegg XXII nr. 10b (Europaparlaments- og rådsforordning (EF) nr. 1606/2002 av 19. juli 2002 om anvendelse av internasjonale regnskapsstandarder)
 
+Merknad fra redaksjonen i Norges Lover: Det følger av EØS-avtalen protokoll 1 nr. 1 at innledningen (fortalen) til de rettsakter som EØS-avtalens vedlegg omhandler ikke er tilpasset EØS, og at innledningen bare er relevant i den grad den kan bidra til en korrekt tolkning av rettsakten innen rammen av EØS-avtalen. Dette er markert ved å sette innledningen i kursiv innenfor hakeparenteser.
+
+[Europaparlamentet og Rådet for Den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95 nr. 1,
+
+under henvisning til forslag fra Kommisjonen,1
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+
+etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+
+ut fra følgende betraktninger:
+
 1. Under sitt møte i Lisboa 23. og 24. mars 2000 understreket Det europeiske råd behovet for å påskynde gjennomføringen av det indre marked for finansielle tjenester, fastsatte 2005 som frist for gjennomføringen av Kommisjonens handlingsplan for finansielle tjenester og framholdt at det bør iverksettes tiltak for å gjøre det lettere å sammenligne finansregnskap som utarbeides av selskaper med offentlig omsatte verdipapirer.
 2. Med henblikk på å bedre det indre markeds virkemåte bør selskaper med offentlig omsatte verdipapirer være forpliktet til å anvende felles internasjonale regnskapsstandarder av høy kvalitet når de utarbeider sitt konsernregnskap. Det er dessuten viktig at de standarder for finansiell rapportering som anvendes av selskaper i Fellesskapet som deltar i finansmarkeder, er internasjonalt aksepterte og virkelig er felles for hele verden. Dette forutsetter en stadig større samordning av de regnskapsstandarder som for tiden brukes internasjonalt, der det endelige målet er ett enkelt sett med regnskapsstandarder for hele verden.
 3. Rådsdirektiv [78/660/EØF](eu/31978l0660) av 25. juli 1978 om årsregnskapene for visse selskapsformer,4 rådsdirektiv [83/349/EØF](eu/31983l0349*) av 13. juni 1983 om konsoliderte regnskaper,5 rådsdirektiv [86/635/EØF](eu/31986l0635*) av 8. desember 1986 om bankers og andre finansinstitusjoners årsregnskaper og konsoliderte regnskaper6 og rådsdirektiv [91/674/EØF](eu/31991l0674) av 19. desember 1991 om forsikringsforetaks årsregnskaper og konsoliderte regnskaper7 er også rettet mot selskaper i Fellesskapet med offentlig omsatte verdipapirer. Rapporteringskravene i disse direktivene kan ikke sikre den høye graden av innsyn og sammenlignbarhet med hensyn til finansiell rapportering for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer som er et nødvendig vilkår for å kunne bygge et integrert kapitalmarked som fungerer effektivt, smidig og rasjonelt. Det er derfor nødvendig å utfylle den rettslige rammen som gjelder for selskaper med offentlig omsatte verdipapirer.
 4. Denne forordning har som mål å bidra til en rasjonell og kostnadseffektiv virkemåte for kapitalmarkedet. Vern av investorer og opprettholdelse av tillit til finansmarkedene er også et viktig aspekt ved fullføringen av det indre marked på dette område. Forordningen styrker den frie bevegelighet for kapital i det indre marked og bidrar til at selskaper i Fellesskapet kan konkurrere på like vilkår om tilgjengelige finansielle midler i Fellesskapets kapitalmarkeder samt i verdenskapitalmarkedene.
 5. Det er viktig for konkurranseevnen til Fellesskapets kapitalmarkeder å oppnå tilnærming av standardene som brukes i Europa ved utarbeidingen av finansregnskap, til internasjonale regnskapsstandarder som kan brukes over hele verden, for transaksjoner over landegrenser eller for børsnotering hvor som helst i verden.
-6. 13. juni 2000 offentliggjorde Kommisjonen meldingen «Den europeiske unions strategi for finansiell rapportering: veien framover» der den foreslo at alle selskaper i Fellesskapet med offentlig omsatte verdipapirer innen 2005 skal utarbeide sitt konsernregnskap i henhold til ett enkelt sett med regnskapsstandarder, nemlig de internasjonale regnskapsstandardene IAS («International Accounting Standards»).
+6. 13\. juni 2000 offentliggjorde Kommisjonen meldingen «Den europeiske unions strategi for finansiell rapportering: veien framover» der den foreslo at alle selskaper i Fellesskapet med offentlig omsatte verdipapirer innen 2005 skal utarbeide sitt konsernregnskap i henhold til ett enkelt sett med regnskapsstandarder, nemlig de internasjonale regnskapsstandardene IAS («International Accounting Standards»).
 7. De internasjonale regnskapsstandardene «International Accounting Standards» (IAS) utarbeides av International Accounting Standards Committee (IASC), hvis mål er å utarbeide ett enkelt sett med regnskapsstandarder for hele verden. I forbindelse med omorganiseringen av IASC vedtok det nye styret 1. april 2001, som en av sine første beslutninger, å endre navnet på IASC til International Accounting Standards Board (IASB), og når det gjelder framtidige internasjonale regnskapsstandarder, å endre navnet på IAS til «International Financial Reporting Standards» (IFRS). Dersom det er mulig, og under forutsetning av at det sikrer en høy grad av innsyn og sammenlignbarhet med hensyn til finansiell rapportering i Fellesskapet, bør disse standardene gjøres obligatoriske for alle selskaper i Fellesskapet med offentlig omsatte verdipapirer.
 8. De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen8 og med behørig hensyn til Kommisjonens erklæring i Europaparlamentet 5. februar 2002 om gjennomføring av regelverket om finansielle tjenester.
 9. For å kunne vedta at en internasjonal regnskapsstandard skal anvendes i Fellesskapet, er det for det første nødvendig at den oppfyller det grunnleggende krav i ovennevnte rådsdirektiver, det vil si at dens anvendelse resulterer i et rettvisende bilde av et foretaks økonomiske stilling og resultat, idet dette prinsippet ses i lys av ovennevnte rådsdirektiver uten at det krever nøyaktig samsvar med alle bestemmelsene i direktivene. For det andre er det nødvendig at den, i samsvar med Rådets konklusjoner av 17. juli 2000, fremmer den europeiske offentlighetens interesse, og endelig at den oppfyller grunnleggende kriterier når det gjelder kvaliteten på informasjonen som kreves for at finansregnskaper skal være til nytte for brukerne.
@@ -1308,9 +1322,29 @@ Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – �
 17. Det er dessuten nødvendig å gi medlemsstatene adgang til å utsette anvendelsen av visse bestemmelser til 2007 for selskaper hvis verdipapirer omsettes offentlig både i Fellesskapet og i et regulert marked i en tredjestat, og som allerede anvender et annet sett med internasjonalt aksepterte standarder som grunnlag for sitt konsernregnskap samt for selskaper som bare har offentlig omsatte gjeldsinstrumenter. Det er likevel svært viktig at ett enkelt sett med verdensomspennende internasjonale regnskapsstandarder, IAS, innen 2007 får anvendelse på alle selskaper i Fellesskapet hvis verdipapirer blir offentlig omsatt i et regulert marked i Fellesskapet.
 18. For at medlemsstatene og selskapene skal kunne gjennomføre de tilpasninger som er nødvendige for å kunne anvende internasjonale regnskapsstandarder, kan visse bestemmelser ikke anvendes før i 2005. Det bør utarbeides egnede bestemmelser om hvordan selskapene skal anvende IAS første gang etter denne forordnings ikrafttredelse. Bestemmelsene bør utformes på internasjonalt plan for å sikre internasjonal anerkjennelse av de løsninger som vedtas –
 
+1 EFT C 154 E av 29.5.2001, s. 285.
+
+2 EFT C 260 av 17.9.2001, s. 86.
+
+3 Europaparlamentsuttalelse av 12. mars 2002 (ennå ikke offentliggjort i EFT) og rådsbeslutning av 7. juni 2002.
+
+4 EFT L 222 av 14.8.1978, s. 11. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2001/65/EF](eu/32001l0065) (EFT L 283 av 27.10.2001, s. 28).
+
+5 EFT L 193 av 18.7.1983, s. 1. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2001/65/EF](eu/32001l0065).
+
+6 EFT L 372 av 31.12.1986, s. 1. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2001/65/EF](eu/32001l0065).
+
+7 EFT L 374 av 31.12.1991, s. 7.
+
+8 EFT L 184 av 17.7.1999, s. 23.
+
+Vedtatt denne forordning:]
+
 ### Art 1. Mål
 
-Målet med denne forordning er å vedta og anvende internasjonale regnskapsstandarder i Fellesskapet [EØS] med sikte på å harmonisere den finansielle informasjon som framlegges av selskapene omhandlet i artikkel 4 for å sikre en høy grad av innsyn i og sammenlignbarhet mellom finansregnskaper og dermed en rasjonell virkemåte for kapitalmarkedet i Fellesskapet [EØS] og det indre marked.*
+Målet med denne forordning er å vedta og anvende internasjonale regnskapsstandarder i Fellesskapet [EØS] med sikte på å harmonisere den finansielle informasjon som framlegges av selskapene omhandlet i artikkel 4 for å sikre en høy grad av innsyn i og sammenlignbarhet mellom finansregnskaper og dermed en rasjonell virkemåte for kapitalmarkedet i Fellesskapet [EØS] og det indre marked.\*
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 8 at henvisninger til «Fellesskapet» som territorium må leses som henvisning til territoriet til avtalepartene i EØS. Dette er her markert ved å sette inn [EØS] i teksten.
 
 ### Art 2. Definisjoner
 
@@ -1318,17 +1352,21 @@ I denne forordning menes med «internasjonale regnskapsstandarder» Internationa
 
 ### Art 3. Vedtakelse og anvendelse av internasjonale regnskapsstandarder
 
-1. Etter framgangsmåten fastsatt i artikkel 6 nr. 2 skal Kommisjonen avgjøre hvordan de internasjonale regnskapsstandardene skal få anvendelse i Fellesskapet.
+1\. Etter framgangsmåten fastsatt i artikkel 6 nr. 2 skal Kommisjonen avgjøre hvordan de internasjonale regnskapsstandardene skal få anvendelse i Fellesskapet.
 
-2. De internasjonale regnskapsstandardene kan bare vedtas dersomde ikke strider mot prinsippet fastsatt i artikkel 2 nr. 3 i direktiv [78/660/EØF](eu/31978l0660) og artikkel 16 nr. 3 i direktiv [83/349/EØF](eu/31983l0349*) og dersom de er i den europeiske offentlighetens interesse,de oppfyller kriteriene med hensyn til lettfattelighet, relevans, pålitelighet og sammenlignbarhet for den finansielle informasjon som er nødvendig for å treffe økonomiske beslutninger og vurdere selskapsledelsens arbeid.
+2\. De internasjonale regnskapsstandardene kan bare vedtas dersomde ikke strider mot prinsippet fastsatt i artikkel 2 nr. 3 i direktiv [78/660/EØF](eu/31978l0660) og artikkel 16 nr. 3 i direktiv [83/349/EØF](eu/31983l0349*) og dersom de er i den europeiske offentlighetens interesse,de oppfyller kriteriene med hensyn til lettfattelighet, relevans, pålitelighet og sammenlignbarhet for den finansielle informasjon som er nødvendig for å treffe økonomiske beslutninger og vurdere selskapsledelsens arbeid.
 
-3. Kommisjonen skal, etter framgangsmåten fastsatt i artikkel 6 nr. 2 og senest 31. desember 2002 treffe beslutning om anvendelsen i Fellesskapet av de internasjonale regnskapsstandardene som foreligger ved ikrafttredelsen av denne forordning.
+3\. Kommisjonen skal, etter framgangsmåten fastsatt i artikkel 6 nr. 2 og senest 31. desember 2002 treffe beslutning om anvendelsen i Fellesskapet av de internasjonale regnskapsstandardene som foreligger ved ikrafttredelsen av denne forordning.
 
-4. Vedtatte internasjonale regnskapsstandarder skal offentliggjøres i sin helhet på hvert av Fellesskapets offisielle språk som kommisjonsforordninger i *De Europeiske Fellesskaps Tidende*.
+4\. Vedtatte internasjonale regnskapsstandarder skal offentliggjøres i sin helhet på hvert av Fellesskapets offisielle språk som kommisjonsforordninger i *De Europeiske Fellesskaps Tidende*.
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 3 at i forhold til rettsaktenes bestemmelser om fremgangsmåter for endring mv. av rettsaktene, får den relevante beslutningsprosessen i EØS-avtalen anvendelse. Se her EØS-avtalen art. 98 og 102-103. Kommisjonens vedtak gjøres til del av EØS-avtalen gjennom vedtak i EØS-komiteen.
 
 ### Art 4. Konsernregnskap for selskaper med offentlig omsatte verdipapirer
 
-For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.1 *
+For hvert regnskapsår som starter 1. januar 2005 eller senere skal selskaper som er underlagt en medlemsstats [EØS-stat] lovgivning, utarbeide sitt konsernregnskap i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter framgangsmåten fastsatt i artikkel 6 nr. 2, dersom deres verdipapirer på balansedagen er notert i et regulert marked i en medlemsstat [EØS-stat] i henhold til artikkel 1 nr. 13 i rådsdirektiv [93/22/EØF](eu/31993l0022*) av 10. mai 1993 om investeringstjenester i forbindelse med verdipapirer.1 \*
+
+1 EFT L 141 av 11.6.1993, s. 27. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2000/64/EF](eu/32000l0064) (EFT L 290 av 17.11.2000, s. 27).\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 7 at rettigheter og plikter som EUs medlemsstater eller deres offentlige institusjoner, foretak eller enkeltpersoner har i forhold til hverandre, skal forstås som tilsvarende rettigheter og plikter i forhold til partene i EØS-avtalen, deres offentlige myndigheter, foretak eller enkeltpersoner. Dette er markert ved å sette [EØS-stat] inn i teksten. Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.
 
 ### Art 5. Valgmuligheter med hensyn til årsregnskap og selskaper hvis verdipapirer ikke omsettes offentlig
 
@@ -1336,29 +1374,39 @@ Medlemsstatene [EØS-statene] kan tillate eller kreve atselskapene omhandlet i a
 
 ### Art 6. Framgangsmåte med komité
 
-1. Kommisjonen skal bistås av en komité for regnskapsregulering, heretter kalt «komiteen».
+1\. Kommisjonen skal bistås av en komité for regnskapsregulering, heretter kalt «komiteen».
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 2 at det her er EØS-avtalen art. 100 som regulerer EFTA-statenes adgang til å delta i komiteens arbeid.
 
 ### Art 7. Rapportering og samordning
 
-1. Kommisjonen skal jevnlig være i kontakt med komiteen om spørsmål som angår igangsatte IASB-prosjekter og deres status samt ethvert tilknyttet dokument utferdiget av IASB for å samordne standpunkter og fremme drøftinger om vedtakelsen av de standarder som nevnte prosjekter og dokumenter kan gi opphav til.
+1\. Kommisjonen skal jevnlig være i kontakt med komiteen om spørsmål som angår igangsatte IASB-prosjekter og deres status samt ethvert tilknyttet dokument utferdiget av IASB for å samordne standpunkter og fremme drøftinger om vedtakelsen av de standarder som nevnte prosjekter og dokumenter kan gi opphav til.
 
-2. Kommisjonen skal underrette komiteen på behørig måte og i rett tid dersom Kommisjonen akter å foreslå at en standard ikke skal vedtas.
+2\. Kommisjonen skal underrette komiteen på behørig måte og i rett tid dersom Kommisjonen akter å foreslå at en standard ikke skal vedtas.
+
+\* Se merknad til art. 6 fra redaksjonen i Norges Lover.
 
 ### Art 8. Underretning
 
 Dersom medlemsstater vedtar tiltak i henhold til artikkel 5, skal de umiddelbart underrette Kommisjonen og de øvrige medlemsstater om dette.
 
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 4 at EFTA-statene skal sende tilsvarende opplysninger til EFTAs overvåkingsorgan, EFTA-statenes faste komite og de øvrige EFTA-statene.
+
 ### Art 9. Overgangsbestemmelser
 
-Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaperhvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),* ellerhvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
+Som unntak fra artikkel 4 kan medlemsstatene [EØS-statene] fastsette at kravene i artikkel 4 får anvendelse bare for regnskapsår som starter i januar 2007 eller senere for de selskaperhvis gjeldsinstrumenter bare er tatt opp til notering i et regulert marked i en medlemsstat i henhold til artikkel 1 nr. 13 i direktiv [93/22/EØF](eu/31993l0022*),\* ellerhvis verdipapirer er tatt opp til notering for offentlig handel i en tredjestat og som for det formål har anvendt internasjonalt aksepterte standarder fra og med et regnskapsår som startet før denne forordning ble kunngjort i *De Europeiske Fellesskaps Tidende*.
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Dir [93/22](eu/31993l0022*) er nå erstattet av dir [2004/39](eu/32004l0039*), jf. EØS-avtalen vedlegg IX nr. 31ba.
 
 ### Art 10. Opplysninger og gjennomgåelse
 
 Kommisjonen skal gjennomgå denne forordnings virkemåte og framlegge en rapport om dette for Europaparlamentet og Rådet innen 1. juli 2007.
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 5 at EFTAs overvåkingsorgan eller EFTA-statenes faste komité kan utarbeide en tilsvarende rapport i samarbeid med Kommisjonen.
 
 ### Art 11. Ikrafttredelse
 
@@ -1367,3 +1415,5 @@ Denne forordning trer i kraft den tredje dag etter at den er kunngjort i *De Eur
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 19. juli 2002.
+
+\* Merknad fra redaksjonen i Norges Lover 1 jan 2018: Det følger av EØS-avtalen protokoll 1 nr. 11 at bestemmelser i rettsaktene om ikrafttredelse og gjennomføring ikke er relevante i en EØS-sammenheng. Forordning [(EF) nr. 1606/2002](eu/32002r1606) ble gjort til del av EØS-avtalen ved [EØS-komiteens beslutning nr. 37/2003](eu/22003d0037) av 14 mars 2003. Ettersom det fra EFTA-landene ble angitt at forfatningsmessige prosedyrer (f.eks. for Norges vedkommende Stortingets samtykke) må gjennomføres før beslutningene om å gjøre rettsaktene til del av EØS-avtalen kunne tre i kraft, reguleres ikrafttredelsen av EØS-avtalen art. 103. [EØS-komiteens beslutning 37/2003](eu/22003d0037) trådte ikr. 1 mai 2014.

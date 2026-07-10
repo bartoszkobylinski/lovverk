@@ -26,11 +26,17 @@ eu_basis: []
 
 Forskriften får anvendelse på to grupper av brønnrammer på Nornefeltet, samt langs traséene for feltinterne rørledninger og kabler. Det nordlige området omfatter en sirkel med radius på 550 meter rundt to brønnrammer og en rørledningskorridor med bredde 1050 meter inn mot sikkerhetssonen. Det sørlige området omfatter en sirkel med radius på 600 meter rundt tre brønnrammer og en rørledningskorridor med bredde 1250 meter. Områdene har følgende koordinater:
 
+Senter sikkerhetssone:
+
 - 458 667 E
 - 7 323 438 N
 
+Senter nordlige område:
+
 - 459 185 E
 - 7 325 417 N
+
+Senter sørlige område:
 
 - 457 180 E
 - 7 322 028 NKoordinater for ytre avgrensning av områdene:UTM-koordinaterGeografiske koordinater1.456 718 Ø 7 322 411 N8°2′ 44,60″ Ø66° 1′  4,14″ N2.456 765 Ø 7 323 577 N8°2′ 46,90″ Ø66° 1′ 41,81″ N3.458 458 Ø 7 324 161 N8°5′  0,64″ Ø66° 2′  1,48″ N4.458 589 Ø 7 324 831 N8°5′ 10,32″ Ø66° 2′ 23,18″ N5.458 569 Ø 7 325 568 N8°5′  7,81″ Ø66° 2′ 46,99″ N6.458 796 Ø 7 325 796 N8°5′ 25,62″ Ø66° 2′ 54,44″ N7.459 815 Ø 7 325 204 N8°6′ 47,26″ Ø66° 2′ 35,81″ N8.460 362 Ø 7 324 408 N8°7′ 31,56″ Ø66° 2′ 10,35″ N9.459 321 Ø 7 323 061 N8°6′ 10,41″ Ø66° 1′ 36,26″ N10.458 688 Ø 7 321 518 N8°5′ 21,96″ Ø66° 0′ 36,26″ N11.457 485 Ø 7 321 512 N8°3′ 46,57″ Ø66° 0′ 35,48″ N
@@ -48,3 +54,5 @@ Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter [lov 22.
 ## § 4.
 
 Forskriften trer i kraft fra den tid departementet bestemmer.1
+
+1 I kraft 1 april 1996 jfr [forskrift 19 mars 1996 nr. 281](forskrift/1996-03-19-281).

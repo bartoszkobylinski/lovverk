@@ -282,7 +282,37 @@ Råvarer som benyttes i fiskeoppdrett er likevel meldepliktig omsetning.
 
 Opplysninger om meldepliktig omsetning fra virksomhet som nevnt i [§ 18](forskrift/1993-12-21-1219/§18) skal samles i den orden og med den verdiangivelse som angis i følgende tabell:
 
+| *Felt nr.* | *Beskrivelse* | *Posisjon i tallrekken* | *Verdiangivelse* |
+| --- | --- | --- | --- |
+| 01 | Rapporteringsperiode, måned | 1-2 | 01-12 |
+| 02 | Rapporteringsperiode, år | 3-6 | 2001-9999 |
+| 03 | Grossistkonsesjonsnummer | 7-10 | 7001-7999 |
+| 04 | Kundenummer (grossistens nummer) | 11-14 | Numerisk/alfanumerisk |
+| 05 | Kundekategori kode (grossistens kode) | 15-16 | 01-99 eller 00 |
+| 06 | Apotekkonsesjonsnummer | 17-20 | 1001-6999 eller 0000 |
+| 07 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 21-24 | 0101-2099 |
+| 08 | Varenummer | 25-30 | 000001-999999 |
+| 09 | Antall pakninger omsatt, med fratrekk av varer i retur | 31-37 | 0000001-9999999 |
+| 10 | Fakturert beløp, med fratrekk av varer i retur | 38-47 | 0000001,00-9999999,99 |
+| 11 | Beregnet netto AIP pr. pakning | 48-55 | 00001,00-99999,99 |
+| 12 | Beregnet netto GIP pr. pakning | 56-63 | 00001,00-99999,99 |
+
 Opplysninger om legemidler benyttet til oppdrettsfisk, inklusive medisinert fiskefôr og råvarer, skal samles i den orden og med den verdiangivelse som angis i følgende tabell:
+
+| *Felt nr.* | *Beskrivelse* | *Posisjon i tallrekken* | *Verdiangivelse* |
+| --- | --- | --- | --- |
+| 01 | Rapporteringsperiode, år | 1-4 | 2002-9999 |
+| 02 | Grossist konsesjonsnummer | 5-8 | 7001-7999 |
+| 03 | Kundenummer (grossistens nummer) | 9-12 | Numerisk/alfanumerisk |
+| 05 | Apotek konsesjonsnummer | 13-16 | 1001-6999 |
+| 04 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 17-20 | 0101-2099 |
+| 06 | Produktnavn/varenavn | 21-52 | Alfanumerisk |
+| 07 | Pakningsstørrelse | 53-72 | Alfanumerisk |
+| 08 | Navn på virkestoff | 73-92 | Alfanumerisk |
+| 09 | Mengde virkestoff pr. pakningsstørrelse | 93-98 | 000001-999999 |
+| 10 | Enhet mengdeangivelse virkestoff | 99-100 | Mg, gr, kg |
+| 11 | Antall pakninger omsatt, med fratrekk av varer i retur | 101-107 | 0000001-9999999 |
+| 12 | Fakturert beløp, med fratrekk av varer i retur | 108-118 | 00000000,00-99999999,99 |
 
 > Tilføyd ved [forskrift 21 des 2001 nr. 1553](forskrift/2001-12-21-1553) (i kraft 1 jan 2002).
 
@@ -291,6 +321,20 @@ Opplysninger om legemidler benyttet til oppdrettsfisk, inklusive medisinert fisk
 Samtidig med innlevering av opplysningene i [§ 20](forskrift/1993-12-21-1219/§20) skal virksomheten levere et kunderegister med oversikt over alle kundenummer.
 
 Opplysninger om kunder skal samles i den orden og med den verdiangivelse som angis i følgende tabell:
+
+| *Felt nr.* | *Beskrivelse* | *Posisjon i tallrekken* | *Verdiangivelse* |
+| --- | --- | --- | --- |
+| 01 | Rapporteringsperiode, måned | 1-2 | 01-12 |
+| 02 | Rapporteringsperiode, år | 3-6 | 2002-9999 |
+| 03 | Grossist konsesjonsnummer | 7-10 | 7001-7999 |
+| 04 | Kundenummer (grossistens nummer) | 11-14 | Numerisk/alfanumerisk |
+| 05 | Apotek konsesjonsnummer | 15-18 | 1001-6999 |
+| 06 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 19-22 | 0101-2099 |
+| 07 | Kundenavn (grossistens tekst) | 23-52 | Alfanumerisk |
+| 08 | Poststed | 53-72 | Alfanumerisk |
+| 09 | Postnummer | 73-77 | Numerisk |
+| 10 | Kundekategori kode (grossistens kode) | 78-79 | Numerisk |
+| 11 | Kundekategori type (grossistens tekst) | 80-99 | Alfanumerisk |
 
 > Tilføyd ved [forskrift 21 des 2001 nr. 1553](forskrift/2001-12-21-1553) (i kraft 1 jan 2002).
 
@@ -457,5 +501,50 @@ Denne forskrift, unntatt [§ 3](forskrift/1993-12-21-1219/§3), [kapittel V](for
 > Tilføyd ved [forskrift 21 des 2001 nr. 1553](forskrift/2001-12-21-1553) (i kraft 1 jan 2002).
 
 ## Vedlegg: Liste over legemidler omfattet av beredskapsplikt jf. § 5
+
+| *ATC* | *Virkestoff* | *Formulering* | *Antall måneder beredskap* |
+| --- | --- | --- | --- |
+| A10A | Insulin og analoger | Parenterale | 6 |
+| B01AA03 | Warfarin | Oral | 3 |
+| B01AB04 | Dalteparin | Parenteral | 3 |
+| B01AB05 | Enoksaparin | Parenteral | 3 |
+| B01AC06 | Acetylsalisylsyre | Oral | 3 |
+| B01AF02 | Apiksaban | Oral | 3 |
+| C01CA24 | Adrenalin | Parenteral | 3 |
+| C03CA01 | Furosemid | Oral | 3 |
+| C07AB02 | Metoprolol | Oral, depot | 3 |
+| C08DA01 | Verapamil | Oral, depot | 3 |
+| C09AA05 | Ramipril | Oral | 3 |
+| C09CA06 | Kandesartan | Oral | 3 |
+| H02AA02 | Fludrokortison | Oral | 3 |
+| H02AB06 | Prednisolon | Oral | 6 |
+| H02AB10 | Kortison | Oral | 3 |
+| H03AA01 | Levotyroksin | Oral | 3 |
+| H04AA01 | Glukagon | Parenteral | 3 |
+| J01CA04 | Amoksicillin | Oral | 3 |
+| J01CA08 | Pivmecillinam | Oral | 3 |
+| J01CE01 | Benzylpenicillin | Parenteral | 3 |
+| J01CE02 | Fenoksymetylpenicillin | Oral | 3 |
+| J01DC02 | Cefuroksim | Parenteral | 3 |
+| J01DD01 | Cefotaksim | Parenteral | 3 |
+| J01FA01 | Erytromycin | Oral | 3 |
+| J01MA02 | Ciprofloksacin | Oral | 3 |
+| J04A | Legemidler mot tuberkulose | Perorale | 6 |
+| L04AX01 | Azatioprin | Oral | 6 |
+| N02AA05 | Oksykodon | Oral | 6 |
+| N02BE01 | Paracetamol | Oral og rektal | 3 |
+| N03AF01 | Karbamazepin | Oral | 3 |
+| N03AG01 | Valproinsyre | Oral | 3 |
+| N03AX09 | Lamotrigin | Oral | 3 |
+| N04BA02 | Levodopa og dekarboksylasehemmer | Oral | 3 |
+| N05AD01 | Haloperidol | Oral | 6 |
+| N05AH03 | Olanzapin | Oral | 6 |
+| N05BA01 | Diazepam | Rektal | 6 |
+| N05CD08 | Midazolam | Bukkal | 3 |
+| R03AC02 | Salbutamol | Inhalasjon | 3 |
+| R03BA02 | Budesonid | Inhalasjon | 3 |
+| R03BA05 | Flutikason | Inhalasjon | 3 |
+| R03BB01 | Ipratropiumbromid | Inhalasjon | 3 |
+| S01 | Glaukommidler | Øyedråper | 3 |
 
 > Tilføyd ved [forskrift 23 sep 2015 nr. 1096](forskrift/2015-09-23-1096) (i kraft 1 jan 2016), endret ved [forskrifter 3 mars 2020 nr. 226](forskrift/2020-03-03-226), [27 april 2020 nr. 891](forskrift/2020-04-27-891) (i kraft 1 mai 2020), [14 des 2023 nr. 2059](forskrift/2023-12-14-2059) (i kraft 15 des 2023).

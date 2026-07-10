@@ -42,7 +42,17 @@ Forordning [(EU) nr. 168/2013](eu/32013r0168), forordning [(EU) nr. 3/2014](eu/3
 
 (1) Med kjøretøy i gruppe L menes alle to- eller trehjulede kjøretøy og quadrisykler som klassifisert i forordning [(EU) nr. 168/2013](eu/32013r0168*) artikkel 4 og bilag I.
 
-(2) I artikkel 4 er det gjort følgende hovedinndeling av kjøretøy i gruppe L:L1eMoped med to hjulL2eMoped med tre hjulL3eMotorsykkel med to hjulL4eMotorsykkel med to hjul og sidevognL5eMotorsykkel med tre hjulL6eMoped med fire hjulL7eMotorsykkel med fire hjul
+(2) I artikkel 4 er det gjort følgende hovedinndeling av kjøretøy i gruppe L:
+
+|  |  |
+| --- | --- |
+| L1e | Moped med to hjul |
+| L2e | Moped med tre hjul |
+| L3e | Motorsykkel med to hjul |
+| L4e | Motorsykkel med to hjul og sidevogn |
+| L5e | Motorsykkel med tre hjul |
+| L6e | Moped med fire hjul |
+| L7e | Motorsykkel med fire hjul |
 
 ## Kapittel 2. Godkjenning, klassifisering og registrering
 

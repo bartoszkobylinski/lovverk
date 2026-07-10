@@ -603,13 +603,12 @@ Driften, herunder bruken av tjenesteleverandører, skal planlegges og utføres p
 
 Ved bruk av lys til vekstregulering skal lyskilden ikke være synlig fra omkringliggende boliger, sykehus, pleieinstitusjoner og fritidsboliger.
 
-Akvakulturanleggets bidrag til utendørs støy ved omkringliggende boliger, sykehus, pleieinstitusjoner, fritidsboliger, utdanningsinstitusjoner og barnehager skal ikke overskride følgende grenser, beregnet som innfallende lydtrykknivå ved mest støyutsatte fasade:Dag (kl. 07–19)
-LpAekv12hKveld (kl. 19–23)
-LpAekv4hNatt (kl. 23–07)
-LpAekv8hNatt (kl. 23–07)
-LAFmaxHverdager: 55 dB
+Akvakulturanleggets bidrag til utendørs støy ved omkringliggende boliger, sykehus, pleieinstitusjoner, fritidsboliger, utdanningsinstitusjoner og barnehager skal ikke overskride følgende grenser, beregnet som innfallende lydtrykknivå ved mest støyutsatte fasade:
 
-Lørdager, søndager og helligdager: 50 dB50 dB45 dB60 dB
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Dag (kl. 07–19)<br>LpAekv12h | Kveld (kl. 19–23)<br>LpAekv4h | Natt (kl. 23–07)<br>LpAekv8h | Natt (kl. 23–07)<br>LAFmax |
+| Hverdager: 55 dB<br><br>Lørdager, søndager og helligdager: 50 dB | 50 dB | 45 dB | 60 dB |
 
 Støygrensene gjelder all støy fra driften ved akvakulturanlegget og tilhørende landbase, og fra lossing og lasting av råvarer og produkter. Støygrense gjelder likevel ikke støy fra midlertidig bygg- og anleggsvirksomhet og fra ordinær persontransport av virksomhetens ansatte.
 

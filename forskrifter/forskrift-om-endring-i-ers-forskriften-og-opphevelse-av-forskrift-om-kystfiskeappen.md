@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy](forskrift/2009-12-21-1743) gjøres følgende endringer:
+
+[§ 8 første ledd bokstav d](forskrift/2009-12-21-1743/§8/ledd/1/bokstav/d)–o (ny) skal lyde:
+
 1. uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,
 2. uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),
 3. uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,
@@ -36,9 +40,13 @@ eu_basis: []
 10. uavhengig av størrelse, som deltar i samfiske,
 11. uavhengig av størrelse, som deltar i kvotesamarbeid,
 12. uavhengig av størrelse, som driver fiske etter leppefisk.
+
+[§ 8 andre ledd andre setning](forskrift/2009-12-21-1743/§8/ledd/2/setning/2) (ny) skal lyde:
 
 Krav om å sende melding om fartøyets posisjon gjelder hver dag hele kalenderåret for fartøy som omfattes av første ledd.
 
+[§ 10 første ledd bokstav e](forskrift/2009-12-21-1743/§10/ledd/1/bokstav/e)–p (ny) skal lyde:
+
 1. uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,
 2. uavhengig av størrelse, som er gitt dispensasjon etter [forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd](forskrift/2014-05-06-607/§5/ledd/6), [§ 5a første ledd](forskrift/2014-05-06-607/§5a/ledd/1), eller [§ 8 fjerde ledd](forskrift/2014-05-06-607/§8/ledd/4),
 3. uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,
@@ -51,6 +59,8 @@ Krav om å sende melding om fartøyets posisjon gjelder hver dag hele kalenderå
 10. uavhengig av størrelse, som deltar i samfiske,
 11. uavhengig av størrelse, som deltar i kvotesamarbeid,
 12. uavhengig av størrelse, som driver fiske etter leppefisk.
+
+[§ 10 andre ledd](forskrift/2009-12-21-1743/§10/ledd/2) (endret) skal lyde:
 
 Bestemmelsene i dette kapittelet gjelder bare dersom høstingsaktivitet skal utføres etter havneavgang og før neste havneanløp. Fartøy omfattet av krav til å sende melding om havneavgang kan ikke utføre høstingsaktivitet før melding om havneavgang er sendt som beskrevet i [§ 11](forskrift/2009-12-21-1743/§11), jf. [§ 6](forskrift/2009-12-21-1743/§6). Krav om rapportering om høstingsaktivitet gjelder for enhver høstingsaktivitet som utføres av fartøy som omfattes av første ledd. Fartøy som omfattes av første ledd skal rapportere all høstingsaktivitet gjennom hele kalenderåret.
 

@@ -102,6 +102,8 @@ Loven trer i kraft på det tidspunktet Kongen bestemmer.1
 
 Fra samme tid oppheves [lov 30. juni 2006 nr. 56](lov/2006-06-30-56) om behandling av etikk og redelighet i forskning.
 
+1 Fra 1 mai 2017 iflg. [res. 28 apr 2017 nr. 505](forskrift/2017-04-28-505).
+
 ## § 14. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

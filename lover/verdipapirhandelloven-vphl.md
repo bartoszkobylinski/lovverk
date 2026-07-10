@@ -478,11 +478,15 @@ Departementet kan i forskrift fastsette at rapporteringsplikten etter første le
 
 > Endret ved lover [15 apr 2011 nr. 10](lov/2011-04-15-10) (ikr. 1 mai 2011 iflg. [res. 15 apr 2011 nr. 400](forskrift/2011-04-15-400)), [30 april 2021 nr. 26](lov/2021-04-30-26) (ikr. 1 juli 2021 iflg. [res. 30 april 2021 nr. 1316](forskrift/2021-04-30-1316)).
 
+1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10b.
+
 ### § 5-7. Utstedere fra land utenfor EØS
 
 Departementet fastsetter forskrift til gjennomføring av direktiv [2004/109/EF](eu/32004l0109)1 artikkel 23. Departementet kan dessuten bestemme at nasjonal lovgivning som gjennomfører artikkel 10 i direktiv [2004/25/EF](eu/32004l0025)2 og artikkel 1 og 2 i direktiv [2006/46/EF](eu/32006l0046) skal gjelde tilsvarende for utstedere fra land utenfor EØS.
 
 > Endret ved lov [25 juni 2010 nr. 33](lov/2010-06-25-33) (ikr. 1 juli 2010 iflg. [res. 25 juni 2010 nr. 980](forskrift/2010-06-25-980)).
+
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 29d.2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
 
 ### § 5-8. Endringer i aksjekapital, rettigheter, lån og vedtekter
 
@@ -706,6 +710,8 @@ Hvis et erverv etter selskapets vedtekter er avhengig av styrets samtykke, anses
 
 (4) Tilbudsdokument som er godkjent av kontrollmyndigheten i en annen EØS-stat, skal anses godkjent fra det tidspunkt det foreligger melding fra EØS-staten om at tilbudsdokumentet er utarbeidet i samsvar med nasjonale regler som gjennomfører direktiv [2004/25/EF](eu/32004l0025),1 og godkjent av kontrollmyndigheten i vedkommende EØS-stat. Tilbudsmyndigheten kan likevel stille krav om at tilbudsdokumentet oversettes.
 
+1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.
+
 ### § 6-15. Gebyr
 
 Tilbudsmyndigheten kan kreve gebyr av tilbyder til dekning av utgifter ved godkjenning som nevnt i [§ 6-14](lov/2007-06-29-75/§6-14).
@@ -735,6 +741,8 @@ Tilbudsmyndigheten kan kreve gebyr av tilbyder til dekning av utgifter ved godkj
 (6) Innkalling til generalforsamling for beslutning av vedtektsfestede tiltak som nevnt i tredje og fjerde ledd kan, uten hensyn til fristen for innkalling til generalforsamling etter [allmennaksjeloven § 5-11 b](lov/1997-06-13-45/§5-11b) nr. 1, sendes aksjeeierne senest to uker før møtet skal holdes.2 Vedtektene kan sette en lengre frist for innkalling til generalforsamling for beslutning av vedtak som nevnt i fjerde ledd.
 
 > Endret ved lov [19 juni 2009 nr. 77](lov/2009-06-19-77) (ikr. 3 aug 2009 iflg. [res. 26 juni 2009 nr. 876](forskrift/2009-06-26-876)).
+
+1 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10d.2 Jf. [EØS-avtalen vedlegg XXII](avtale/avt-1992-05-02-1-v22) nr. 10g (direktiv [2007/36/EF](eu/32007l0036)).
 
 ### § 6-18. Offentliggjøring av resultat av fremsatt tilbud
 
@@ -3180,6 +3188,8 @@ Skriftlig avtale mellom to parter om at partenes forpliktelser etter avtaler som
 
 > Tilføyd ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), endret ved lov [6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019 iflg. [res. 20 des 2019 nr. 1913](forskrift/2019-12-20-1913)).
 
+1 Endring i [§ 19-11](lov/2007-06-29-75/§19-11) åttende ledd tredje punktum ved lov [6 des 2019 nr. 76](lov/2019-12-06-76) (ikr. 20 des 2019) kunne ikke innarbeides før tilføyelsen ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) var satt i kraft 1 mars 2021.
+
 ### § 19-12. (Opphevet)
 
 > Tilføyd ved lov [21 juni 2019 nr. 41](lov/2019-06-21-41) (ikr. 1 mars 2021 iflg. [res. 27 nov 2020 nr. 2488](forskrift/2020-11-27-2488)), opphevet ved lov [25 juni 2024 nr. 60](lov/2024-06-25-60) (i kraft 1 april 2025 iflg. [res. 21 mars 2025 nr. 481](forskrift/2025-03-21-481)).
@@ -3438,6 +3448,8 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de en
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 18-1).
 
+1 Iflg. res. [29 juni 2007 nr. 752](forskrift/2007-06-29-752) trådte kapittel 1, 2, 3, 7, 8, 9, § 10-1 til § 10-17, [§ 10-19](lov/2007-06-29-75/§10-19), [§ 10-20](lov/2007-06-29-75/§10-20), kapittel 11, 12, 13, 14, [§ 15-1](lov/2007-06-29-75/§15-1) (1), (2) første punktum, og (4), [§ 15-2](lov/2007-06-29-75/§15-2) (1) til (6) og (8), [§ 15-3](lov/2007-06-29-75/§15-3), [§ 15-5](lov/2007-06-29-75/§15-5), [§ 15-6](lov/2007-06-29-75/§15-6), [§ 15-7](lov/2007-06-29-75/§15-7), [§ 15-9](lov/2007-06-29-75/§15-9), kapittel 16, [§ 17-1](lov/2007-06-29-75/§17-1) annet til (4), [§ 17-2](lov/2007-06-29-75/§17-2), [§ 17-3](lov/2007-06-29-75/§17-3), [§ 18-1](lov/2007-06-29-75/§18-1), [§ 18-2](lov/2007-06-29-75/§18-2) (1), (4) og (5), [§ 19-1](lov/2007-06-29-75/§19-1) nr. 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14 og 15 ikr. 1 nov 2007, og kapittel 4, 5, 6 og [§ 15-1](lov/2007-06-29-75/§15-1) (2) annet punktum, (3), [§ 15-2](lov/2007-06-29-75/§15-2) (7), [§ 15-4](lov/2007-06-29-75/§15-4), [§ 15-8](lov/2007-06-29-75/§15-8), [§ 17-1](lov/2007-06-29-75/§17-1) (1), [§ 17-4](lov/2007-06-29-75/§17-4), [§ 18-2](lov/2007-06-29-75/§18-2) (2) og (3) og [§ 19-1](lov/2007-06-29-75/§19-1) nr. 10 trådte ikr. 1 jan 2008, slik at [§ 5-5](lov/2007-06-29-75/§5-5) og [§ 5-6](lov/2007-06-29-75/§5-6) ble gitt virkning for regnskapsperioder som er påbegynt 1 jan 2008 eller senere. Iflg. [vedtak 31 okt 2008 nr. 1170](forskrift/2008-10-31-1170) trådte § 10-18 ikr. 1 nov 2008.
+
 ### § 22-2. Videreføring av tillatelser og forskrifter mv.
 
 (1) Tillatelser etter [lov 19. juni 1997 nr. 79](lov/1997-06-19-79) om verdipapirhandel, og etter [lov 29. juni 2007 nr. 74](lov/2007-06-29-74) om regulerte markeder og etter opphevede eller endrede bestemmelser i loven her, videreføres. Foretakene må innrette sin virksomhet etter bestemmelsene i loven her.
@@ -3461,3 +3473,5 @@ Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de en
 Fra den tid1 loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lov [15 juni 2018 nr. 35](lov/2018-06-15-35) (ikr. 1 jan 2019 iflg. [res. 16 nov 2018 nr. 1713](forskrift/2018-11-16-1713), tidligere § 19-1).
+
+1 Ikr. 1 nov 2007, bortsett fra nr. 10 som trådte kraft 1 jan 2008.

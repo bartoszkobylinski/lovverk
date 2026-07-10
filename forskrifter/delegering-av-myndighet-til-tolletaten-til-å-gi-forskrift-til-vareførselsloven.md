@@ -24,6 +24,8 @@ eu_basis: []
 
 ## I
 
+Finansdepartementets myndighet etter [lov 11. mars 2022 nr. 9 om lov om inn- og utførsel av varer (vareførselsloven)](lov/2022-03-11-9) til å gi forskrift, delegeres til Tolletaten. Delegeringen omfatter ikke myndighet etter lovens [§ 1-2](lov/2022-03-11-9/§1-2) sjette ledd og [kapittel 13](lov/2022-03-11-9/kap13) Handelstiltak.
+
 ## II
 
 Delegeringen trer i kraft straks.

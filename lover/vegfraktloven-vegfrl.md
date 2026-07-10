@@ -483,3 +483,5 @@ Bestemmelsene i [§ 43](lov/1974-12-20-68/§43) annet og følgende ledd og [§ 4
 Denne lov trer i kraft fra den dag Kongen bestemmer.1
 
 – – –
+
+1 Fra 1 juli 1975 iflg. res. 28 feb 1975.

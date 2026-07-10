@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger
 
+Forskriften er harmonisert med IMO's MODU-kode av 1989 og IMO' Assembly-resolution 651 (16).
+
 ## Kapittel I. Innledende bestemmelser
 
 ### § 1. Virkeområde
@@ -108,6 +110,8 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999).
 
+1 Se krav om sikkerhet mot kantring i [forskrift av 4. september 1987 om bygging av flyttbare innretninger, § 6](forskrift/1987-09-04-856/§6) nr. 2.4.
+
 ### § 11. Forflytningstilstand, krav til stabilitet, kurve I-tr
 
 1. I forflytningstilstand skal innretningen følge intaktstabilitetskravene i [§ 20](forskrift/1991-12-20-878/§20) med vindhastighet på minst 36 m/s (70 knop) og skadestabilitetskravene i [§ 21](forskrift/1991-12-20-878/§21) med vindhastighet på minst 25,8 m/s (50 knop) etter antatt skade i samsvar med [§ 23](forskrift/1991-12-20-878/§23).
@@ -120,6 +124,8 @@ Innretningen skal ha ombord gyldig internasjonalt lastelinjesertifikat (1966), j
 2. Det kreves ikke at boliginnretning i sikkerhetstilstand skal følge skadestabilitetskravene uten at ovennevnte forhold tilsier det eller at innretningen ikke trekker seg bort fra andre installasjoner i sikkerhetstilstanden pga gangbroforbindelse eller lignende forhold.
 3. Maks. KG for å følge ovennevnte stabilitetskrav skal tegnes for alle aktuelle dypganger for sikkerhetstilstand og betegnes i det følgende som KG-grensekurve II. Aktuelle operasjonsbegrensninger i samsvar med det ovennevnte, skal angis i tilknytning til KG-grensekurven for sikkerhetstilstand. når sikkerhetsdypganger fastsettes for halvt nedsenkbare innretninger må det også tas hensyn til kravene om dekkets avstand til vannflaten1.
 4. For nedsenkbare og oppjekkbare innretninger kommer ovennevnte krav kun til anvendelse i forbindelse med forflytning.
+
+1 Se krav om dekkets avstand til vannflaten i [forskrift av 4. september 1987 om bygging av flyttbare innretninger, § 10](forskrift/1987-09-04-856/§10).
 
 ### § 13. Temporær tilstand for halvt nedsenkbare innretninger, stabilitetskrav, kurve III, (de-)ballasteringskurver
 
@@ -196,6 +202,8 @@ Reserveoppdriftskrav for halvt nedsenkbare innretninger er (se fig. 3):
 
 > Endret ved [forskrift 2 mars 1999 nr. 406](forskrift/1999-03-02-406) (i kraft 1 sep 1999), [11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
+1 Innretninger som er registret før 1. januar 1992 som kan dokumentere et tilsvarende sikkerhetsnivå vedrørende reserveoppdrift, anses for å oppfylle denne paragrafen.
+
 ### § 23. Antatt skade og vanntett oppdeling
 
 1. GenereltInnretningen skal være oppdelt ved hjelp av vanntette dekk og skott for å kunne motstå fylling som følge av to hovedtyper av skader:En-avdelingsskade i samsvar med [§ 24](forskrift/1991-12-20-878/§24).Kollisjonsskade i henhold til skadeutstrekning for aktuell fartøystype jf. [§ 25](forskrift/1991-12-20-878/§25), [§ 26](forskrift/1991-12-20-878/§26) og [§ 27](forskrift/1991-12-20-878/§27) nedenfor.Skader og fylling skal antas for de enkelte driftstilstander slik det fremgår av kravene i [§ 10](forskrift/1991-12-20-878/§10) til og med [§ 13](forskrift/1991-12-20-878/§13).
@@ -241,6 +249,8 @@ For halvt nedsenkbare innretninger kan det ved beregning av skadestabilitet ette
 
 > Endret ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
 
+1 Se også krav om styrke og dekkets avstand til vannflaten i [forskrift om bygging av flyttbare innretninger § 6](forskrift/1987-09-04-856/§6) og [§ 10](forskrift/1987-09-04-856/§10).
+
 ## Kapittel IX. Vanntette skott
 
 ### § 30. Styrke på vanntette skott
@@ -285,6 +295,8 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 
 > Opphevet ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543), i kraft 1 juli 2003.
 
+1 Jf. [forskrift av 4. september 1987 nr. 856 om bygging av flyttbare innretninger § 12](forskrift/1987-09-04-856/§12).
+
 ### § 36. Andre typer vanntette lukningsmidler
 
 1. Vanntette lukningsmidler av andre typer enn omhandlet i dette regelverk vil bli vurdert spesielt med hensyn til krav til styrke, fjernbetjening og alarmsystemer.
@@ -299,6 +311,8 @@ Antallet åpninger i skott som med referanse til skadestabilitetsberegningene fo
 3. Kontrollstasjonen skal være plassert over ugunstigste vannlinje ved krengevinkler spesifisert i [§ 30](forskrift/1991-12-20-878/§30), samt være tilstrekkelig beskyttet mot vær og vind.
 
 > Endret ved [forskrift 11 april 2003 nr. 543](forskrift/2003-04-11-543) (i kraft 1 juli 2003).
+
+1 Se tilsvarende krav om plassering av ballastkontrollpanel i [forskrift av 20. desember 1991 nr. 879 om ballastsystemer, § 16](forskrift/1991-12-20-879/§16).
 
 ### § 38. Betjeningsvelger for fjernstengesystemet
 

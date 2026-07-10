@@ -210,6 +210,9 @@ Kongen kan gi et tros- eller livssynssamfunn tillatelse til å ha egen gravplass
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 jan 2021 med unntak av [§ 6](lov/2020-04-24-31/§6) annet ledd, iflg. [res. 24 april 2020 nr. 855](forskrift/2020-04-24-855).
+Fra 1 jan 2022 for [§ 6](lov/2020-04-24-31/§6) annet ledd, iflg. [res. 22 des 2021 nr. 3809](forskrift/2021-12-22-3809).
+
 ### § 23. Overgangsregler
 
 Det første året det skal gis tilskudd etter denne loven, skal satsen for tilskudd per medlem til tros- og livssynssamfunn utenom Den norske kirke fastsettes slik at den om lag svarer til det samlede tilskuddet fra staten og kommunene til Den norske kirke per medlem. Følgende tilskudd fra stat og kommune til Den norske kirke skal ikke regnes med i tilskuddsgrunnlaget:statlige tilskudd som er en følge av avviklingen av tjenestebolig- og bopliktordningen til prestene i Den norske kirkestatlige tilskudd til den delen av rettssubjektet Den norske kirkes pensjonspremie som er knyttet til pensjonsrettigheter som tilsatte i Den norske kirke har opparbeidet som tjenestemenn i statentilskudd fra stat og kommune til oppgaver som er felles for alle innbyggere i Norge og som ikke er utgifter til egentlig kirkelige formål.
@@ -225,3 +228,11 @@ Kongen kan gi forskrift om ytterligere overgangsbestemmelser.
 ### § 24. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+**1.** [Lov 13. juni 1969 nr. 25](lov/1969-06-13-25) om trudomssamfunn og ymist anna oppheves.
+
+**2.** [Lov 12. juni 1981 nr. 64](lov/1981-06-12-64) om tilskott til livssynssamfunn oppheves.
+
+**3.** [Lov 7. juni 1996 nr. 31](lov/1996-06-07-31) om Den norske kirke oppheves.
+
+– – –

@@ -63,3 +63,5 @@ Ved vurderingen av om et husstandsmedlem skal få rettigheter etter denne loven,
 ## § 5.
 
 Loven trer i kraft fra den tid1 Kongen bestemmer. Fra samme tid gjøres følgende endringer i andre lover: – – –
+
+1 Fra 1 okt 1991 iflg. [res. 4 juli 1991 nr. 440](forskrift/1991-07-04-440).

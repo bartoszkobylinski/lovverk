@@ -74,7 +74,15 @@ Flytande basisrente blir fastsett på grunnlag av to månaders observasjon av ti
 
 Fast basisrente blir fastsett på grunnlag av éin månads observasjon av tilbod om bustadlån med den same rentebindingstida som i avtalen om fast rente på utdanningslånet. Ny fast rente tek til å gjelde éin månad etter avslutta observasjonsperiode.
 
-Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik: $$r_n = \left[ (1+r_e)^{\frac 1n} - 1 \right] n$$
+Lånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik: $$r_n = \\left[ (1+r_e)^{\\frac 1n} - 1 \\right] n$$
+
+Teiknforklaring:
+
+|  |  |
+| --- | --- |
+| *rn* | årleg nominell rente i prosent |
+| *re* | basisrenta minus 0,15 prosentpoeng (årleg effektiv rente i prosent før gebyr) |
+| *n* | tolv, som er talet på betalingsterminar per år |
 
 Når effektiv rente skal reknast ut, kjem i tillegg gebyr ved varsling og for sein betaling, og gebyr og kostnader ved innkrevjing, sjå [kapittel 4](forskrift/2019-12-17-1872/kap4).
 
@@ -93,6 +101,16 @@ Det blir ikkje rekna renter av renter som er lagde til på grunn av forseinka be
 Låntakaren kan søkje om fast rente på lånet for ein periode på tre, fem eller ti år. Det er ikkje høve til å binde renta på berre ein del av lånet.
 
 Tabellen viser dei periodane låntakaren kan søkje om fast rente, og kva dato renta gjeld frå:
+
+|  |  |
+| --- | --- |
+| **Søknadsperiode** | **Renta gjeld frå** |
+| 10.–17. februar | 1. mars |
+| 10.–17. april | 1. mai |
+| 10.–17. juni | 1. juli |
+| 10.–17. august | 1. september |
+| 10.–17. oktober | 1. november |
+| 10.–17. desember | 1. januar |
 
 ### § 2-6. Unntak frå retten til å inngå avtale om fast rente
 
@@ -117,6 +135,16 @@ Ved ekstra innbetaling på lån med fast rente blir det rekna rentetap eller ren
 ### § 2-9. Oppseiing av avtale om fast rente
 
 Låntakaren kan seie opp avtalen om fast rente. Tabellen viser tidspunktet for overgang til flytande rente, ut frå når oppseiinga kom inn til Lånekassen:
+
+|  |  |
+| --- | --- |
+| **Søknadstidspunkt** | **Renta gjeld frå** |
+| Før 17. februar | 1. mars |
+| Før 17. april | 1. mai |
+| Før 17. juni | 1. juli |
+| Før 17. august | 1. september |
+| Før 17. oktober | 1. november |
+| Før 17. desember | 1. januar |
 
 Dersom låntakaren seier opp avtalen om fast rente i avtaleperioden, blir det rekna rentetap eller rentegevinst etter [§ 2-7](forskrift/2019-12-17-1872/§2-7).
 
@@ -290,11 +318,36 @@ Renter blir sletta på etterskott og for heile månader. Med månad er meint ein
 
 Ein låntakar som har hatt ei person- og kapitalinntekt per år som er under ei grense i tabellen nedanfor, kan få sletta rentene for så mange månader som er knytte til inntektsgrensa i tabellen, dersom minst eitt av vilkåra i [§ 8-4](forskrift/2019-12-17-1872/§8-4) eller [§ 8-5](forskrift/2019-12-17-1872/§8-5) var oppfylt desse månadene.
 
+| *Person- og kapitalinntekt per år, i kroner* |  |  |  | *Tal på månader med rett til sletting av renter* |
+| --- | --- | --- | --- | --- |
+| *2017* | *2018* | *2019* | *2020* |  |
+| 318 516 | 328 071 | 338 733 | 350 927 | 1 |
+| 313 255 | 322 653 | 333 139 | 345 132 | 2 |
+| 307 995 | 317 235 | 327 545 | 339 337 | 3 |
+| 302 734 | 311 816 | 321 950 | 333 540 | 4 |
+| 297 474 | 306 398 | 316 356 | 327 745 | 5 |
+| 292 212 | 300 978 | 310 760 | 321 947 | 6 |
+| 286 953 | 295 562 | 305 168 | 316 154 | 7 |
+| 281 692 | 290 143 | 299 573 | 310 358 | 8 |
+| 276 431 | 284 724 | 293 978 | 304 561 | 9 |
+| 271 171 | 279 306 | 288 383 | 298 765 | 10 |
+| 265 910 | 273 887 | 282 788 | 292 968 | 11 |
+| 260 650 | 268 470 | 277 195 | 287 174 | 12 |
+
 Inntektsgrensene i tabellen blir heva med eit fast beløp for kvart barn som låntakaren har forsørgd, til og med det året barnet fyller 16 år. For 2020 blir inntektsgrensa heva med 15 561 kroner for kvart barn. For 2019 blir inntektsgrensa heva med 15 020 kroner for kvart barn. For 2018 blir inntektsgrensa heva med 14 547 kroner for kvart barn. For 2017 blir inntektsgrensa heva med 14 123 kroner for kvart barn.
 
 ### § 8-3. Krav til samla inntekt for låntakar og ektefelle, partnar eller sambuar
 
-Låntakarar som har fått eller adoptert barn, har hatt omsorgsarbeid, har sona i fengsel eller sikringsanstalt eller har vært i fulltidsarbeid med låg inntekt, kan ha rett til sletting av renter dersom dei i tillegg har hatt låg samla hushaldsinntekt. Den samla person- og kapitalinntekta per år for låntakaren og ektefellen, partnaren eller sambuaren med felles barn må ha vore under grensene i tabellen nedanfor.*Samla person- og kapitalinntekt per år, i kroner**Talet på barn**2017**2018**2019**2020*0521 396537 038554 492574 4541549 665566 155584 555605 5992577 934595 272614 618636 7443606 203624 389644 681667 8894 eller fleire634 472653 506674 744699 034
+Låntakarar som har fått eller adoptert barn, har hatt omsorgsarbeid, har sona i fengsel eller sikringsanstalt eller har vært i fulltidsarbeid med låg inntekt, kan ha rett til sletting av renter dersom dei i tillegg har hatt låg samla hushaldsinntekt. Den samla person- og kapitalinntekta per år for låntakaren og ektefellen, partnaren eller sambuaren med felles barn må ha vore under grensene i tabellen nedanfor.
+
+|  | *Samla person- og kapitalinntekt per år, i kroner* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Talet på barn* | *2017* | *2018* | *2019* | *2020* |
+| 0 | 521 396 | 537 038 | 554 492 | 574 454 |
+| 1 | 549 665 | 566 155 | 584 555 | 605 599 |
+| 2 | 577 934 | 595 272 | 614 618 | 636 744 |
+| 3 | 606 203 | 624 389 | 644 681 | 667 889 |
+| 4 eller fleire | 634 472 | 653 506 | 674 744 | 699 034 |
 
 Inntektsgrensene i tabellen blir heva med eit fast beløp per år for kvart barn som låntakaren har forsørgd, til og med det året barnet fyller 16 år. For 2020 blir inntektsgrensa heva med 31 145 kroner for kvart barn. For 2019 blir inntektsgrensa heva med 30 063 kroner for kvart barn. For 2018 blir inntektsgrensa heva med 29 117 kroner for kvart barn. For 2017 blir inntektsgrensa heva med 28 269 kroner for kvart barn.
 
@@ -479,6 +532,16 @@ Dersom låntakaren vender tilbake til Noreg innan ti år etter vedtak om slettin
 Ein låntakar som har minst 50 prosent varig nedsett inntektsevne og får uføretrygd eller ei tilsvarande yting frå ei utanlandsk trygdeordning, kan ha rett til å få sletta gjelda heilt eller delvis dersom person- og kapitalinntekta i 2020 er 476 580 kroner eller lågare. Kravet til varig nedsett inntektsevne er berre 40 prosent dersom låntakaren fekk arbeidsavklaringspengar heilt fram til vedtaket om uføretrygd.
 
 Låntakaren har rett til å få sletta gjeld etter tabellen nedanfor.
+
+*Tabell for 2020 over inntektsgrenser, ny gjeld og nytt terminbeløp etter sletting av gjeld*
+
+| *Person- og kapitalinntekt per år* | *Ny gjeld* | *Nytt terminbeløp* |
+| --- | --- | --- |
+| kr 0-330 520 | kr 0 | kr 0 |
+| kr 330 521–366 926 | kr 66 798 | kr 713 kr |
+| 366 927–402 194 | kr 77 900 | kr 856 kr |
+| 402 195–439 412 | kr 89 163 | kr 1 009 |
+| kr 439 413–476 580 | kr 100 265 | kr 1 150 |
 
 Inntektsgrensene i tabellen blir heva med 15 561 kroner per år for kvart barn som låntakaren forsørgjer, til og med det året barnet fyller 16 år. Inntekt som er registrert på barna til låntakaren, blir ikkje rekna med.
 

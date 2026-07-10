@@ -922,6 +922,8 @@ Når det er nødvendig som følge av avtale med fremmed stat,1 kan Kongen gi sup
 
 > Tilføyd ved lov [27 nov 1992 nr. 113](lov/1992-11-27-113), endret ved lover [24 juni 1994 nr. 40](lov/1994-06-24-40), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), tidligere § 10-4.
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9).
+
 ### Kapittel 11. Forsikringsbevis m m.
 
 > Overskrift endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
@@ -1707,6 +1709,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enke
 Fra lovens ikrafttredelse oppheves [forsikringsavtaleloven av 6 juni 1930 nr. 20](lov/1930-06-06-20).
 
 > Endret ved lov [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)), tidligere § 21-1.
+
+1 Fra 1 juli 1990 iflg. [res. 15 des 1989 nr. 1241](forskrift/1989-12-15-1241).
 
 ### § 24-2
 

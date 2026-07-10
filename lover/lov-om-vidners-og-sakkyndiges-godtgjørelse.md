@@ -101,3 +101,5 @@ Avgjørelser om godtgjøring etter denne lov kan ankes eller påklages på følg
 ## Slutningsbestemmelse.
 
 Tiden for denne lovs ikrafttræden fastsættes ved særskilt lov.1
+
+1 Fra 1 juli 1927 iflg. [lov 14 aug 1918 nr. 4 § 1](lov/1918-08-14-4/§1).

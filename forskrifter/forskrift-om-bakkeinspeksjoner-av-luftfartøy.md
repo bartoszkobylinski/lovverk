@@ -304,6 +304,8 @@ For å lese tillegget se her: [(pdf)](static/SF/sf-20071005-1112-01-02.pdf)
 
 ## Vedlegg II. Direktiv 2004/36/EF
 
+Se her for å lese direktiv [2004/36/EF](eu/32004l0036):
+
 [(pdf)](static/SF/32004l0036.pdf)
 
 Pdf-versjonen er en uoffisiell oversettelse.

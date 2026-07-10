@@ -46,17 +46,25 @@ Det tekniske dokumentasjonsmaterialet som er nemnt i § 8 i [forskrift av 10. ja
 
 Etiketten som er nemnd i § 6 i [forskrift av 10. januar 1996 nr. 16](forskrift/1996-01-10-16) om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger, skal vere utforma som vist i vedlegg I1 til denne forskrifta. Etiketten skal plasserast utvendig på framsida eller oversida av apparatet, slik at han er godt synleg og ikkje vert dekt til.
 
+1 Vedlegget er utelate. Ein kan få det ved å vende seg til Olje- og energidepartementet, Energi- og vassdragsavdelingen, postboks 8148 Dep., 0033 Oslo, tlf. 22249090.
+
 ## § 7.
 
 Innhaldet og formatet til opplysningsskjemaet som er nemnt i § 6 i [forskrift av 10. januar 1996 nr. 16](forskrift/1996-01-10-16) om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger, skal vere i samsvar med vedlegg II1 til denne forskrifta.
+
+1 Vedlegget er utelate. Ein kan få det ved å vende seg til Olje- og energidepartementet, Energi- og vassdragsavdelingen, postboks 8148 Dep., 0033 Oslo, tlf. 22249090.
 
 ## § 8.
 
 Dersom eit apparat vert bode fram for sal, leige eller kjøp på avbetaling på dei vilkåra som er fastsette i § 14 i [forskrift av 10. januar 1996 nr. 16](forskrift/1996-01-10-16) om angivelse av husholdningsapparaters energi- og ressursforbruk ved hjelp av merking og standardiserte vareopplysninger, og ved hjelp av ei trykksak, til dømes ein postordrekatalog, skal trykksaka innehalde alle dei opplysningane som er gjevne i vedlegg III1 til denne forskrifta.
 
+1 Vedlegget er utelate. Ein kan få det ved å vende seg til Olje- og energidepartementet, Energi- og vassdragsavdelingen, postboks 8148 Dep., 0033 Oslo, tlf. 22249090.
+
 ## § 9.
 
 Klassifiseringa av eit apparat etter energieffektivitet og vaskeevne skal fastsetjast i samsvar med vedlegg IV.1
+
+1 Vedlegget er utelate. Ein kan få det ved å vende seg til Olje- og energidepartementet, Energi- og vassdragsavdelingen, postboks 8148 Dep., 0033 Oslo, tlf. 22249090.
 
 ## § 10.
 

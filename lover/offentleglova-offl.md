@@ -304,6 +304,8 @@ Avtalar om einerett til tilgang til informasjon som eksisterer når lova tek til
 
 > Endra ved [lov 30 juni 2006 nr. 52](lov/2006-06-30-52) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 727](forskrift/2006-06-30-727)).
 
+1 Fra 1 jan 2009 iflg. [res. 17 okt 2008 nr. 1118](forskrift/2008-10-17-1118).
+
 ### § 34. Endringar i andre lover
 
 Frå den tida lova tek til å gjelde, blir desse endringane gjorde i andre lover: – – –

@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 13. oktober 2017 nr. 1615 om kontroll av kjøretøy langs veg](forskrift/2017-10-13-1615) gjøres følgende endring:
+
+[§ 1 første ledd bokstav b](forskrift/2017-10-13-1615/§1/ledd/1/bokstav/b) skal lyde:
+
 1. motorvogner med største tillatte totalvekt over 2 500 kg, som i hovedsak er innrettet og konstruert for godstransport
 
 ## II

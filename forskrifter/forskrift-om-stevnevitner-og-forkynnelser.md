@@ -104,17 +104,23 @@ Har forkynnelsen ikke kunnet utføres, sendes alle skriftstykker tilbake med bev
 
 ### § 12
 
-Alle bevitnelser og bekreftelser skal av stevnevitnet (den politiansatte/fengselstjenestemannen) utferdiges under påberop av avgitt forsikring således:«Dette bevitnes (bekreftes) i henhold til avgitt forsikring.N. N.stevnevitne (politiansatt/fengselsbetjent) i X»
+Alle bevitnelser og bekreftelser skal av stevnevitnet (den politiansatte/fengselstjenestemannen) utferdiges under påberop av avgitt forsikring således:
+
+|  |
+| --- |
+| «Dette bevitnes (bekreftes) i henhold til avgitt forsikring. |
+| N. N. |
+| stevnevitne (politiansatt/fengselsbetjent) i X» |
 
 ## III. Særlige forskrifter om forkynnelser i straffesaker.
 
 ### § 13
 
-1. Dersom et forelegg forkynnes, og siktede treffes personlig, spør stevnevidnet ham om han vedtar forelegget. Vedtar han det, skriver stevnevidnet dette ned i en påtegning på forelegget, føier til tid og sted, leser vedtagelsen op for siktede og skriver under sammen med ham. Vedtas ikke forelegget på stedet, gir stevnevidnet siktede underretning om at vedtagelsen kan skje innen den frist som er satt i forelegget. Vedtagelsen skjer i så fall enten til den myndighet som har utferdiget forelegget eller til lensmannen, enten muntlig eller skriftlig ved påtegning på og tilbakesendelse av det eksemplar som blir levert til siktede.
+1\. Dersom et forelegg forkynnes, og siktede treffes personlig, spør stevnevidnet ham om han vedtar forelegget. Vedtar han det, skriver stevnevidnet dette ned i en påtegning på forelegget, føier til tid og sted, leser vedtagelsen op for siktede og skriver under sammen med ham. Vedtas ikke forelegget på stedet, gir stevnevidnet siktede underretning om at vedtagelsen kan skje innen den frist som er satt i forelegget. Vedtagelsen skjer i så fall enten til den myndighet som har utferdiget forelegget eller til lensmannen, enten muntlig eller skriftlig ved påtegning på og tilbakesendelse av det eksemplar som blir levert til siktede.
 
-2. Når en fellende dom forkynnes, blir domfelte avkrevet erklæring om han vedtar dommen. Blir den vedtatt, medunderskriver domfelte bevitnelsen. Vedtas den ikke, skal stevnevitnet tilkjennegi domfelte, at han i tilfelle innen 14 dager har for påtalemyndigheten eller for den rett som har avsagt dommen eller – dersom han er fengslet – for vedkommende fengselsmyndighet å erklære anke. Videre tilkjennegis det domfelte at han hos de nevnte myndigheter eller hos sin forsvarer, om han har hatt noen, kan forlange bistand til å skrive erklæringen, og at han hos forsvareren kan kreve råd om hvorvidt anke bør erklæres (se [straffeprosessloven § 310](lov/1981-05-22-25/§310), [§ 311](lov/1981-05-22-25/§311), [§ 312](lov/1981-05-22-25/§312), [§ 313](lov/1981-05-22-25/§313), [§ 314](lov/1981-05-22-25/§314)). Domfelte leveres et eksemplar av «Rettledning til domfelte». At dette er iakttatt, blir å anføre i bevitnelsespåtegningen.
+2\. Når en fellende dom forkynnes, blir domfelte avkrevet erklæring om han vedtar dommen. Blir den vedtatt, medunderskriver domfelte bevitnelsen. Vedtas den ikke, skal stevnevitnet tilkjennegi domfelte, at han i tilfelle innen 14 dager har for påtalemyndigheten eller for den rett som har avsagt dommen eller – dersom han er fengslet – for vedkommende fengselsmyndighet å erklære anke. Videre tilkjennegis det domfelte at han hos de nevnte myndigheter eller hos sin forsvarer, om han har hatt noen, kan forlange bistand til å skrive erklæringen, og at han hos forsvareren kan kreve råd om hvorvidt anke bør erklæres (se [straffeprosessloven § 310](lov/1981-05-22-25/§310), [§ 311](lov/1981-05-22-25/§311), [§ 312](lov/1981-05-22-25/§312), [§ 313](lov/1981-05-22-25/§313), [§ 314](lov/1981-05-22-25/§314)). Domfelte leveres et eksemplar av «Rettledning til domfelte». At dette er iakttatt, blir å anføre i bevitnelsespåtegningen.
 
-3. Når påtalemyndighetens erklæring om anke forkynnes for tiltalte, skal han gjøres oppmerksom på at en eventuell motanke må erklæres innen 1 uke ([straffeprosessloven § 311](lov/1981-05-22-25/§311)).
+3\. Når påtalemyndighetens erklæring om anke forkynnes for tiltalte, skal han gjøres oppmerksom på at en eventuell motanke må erklæres innen 1 uke ([straffeprosessloven § 311](lov/1981-05-22-25/§311)).
 
 > Endret ved [forskrift 8 juni 1995 nr. 522](forskrift/1995-06-08-522).
 

@@ -26,6 +26,8 @@ eu_basis: []
 
 Ved avgjørelsen av hvad der skal henføres til skattepliktig formue og inntekt kommer følgende bestemmelser i skattelov for landet av 18. august 1911 med senere tilleggslover til anvendelse: §§ 37, 38, 39, 41 fjerde, sjette og syvende ledd,1 42, 43 første ledd, 44, 45 første ledd, 50, 51, 53 og 54 første ledd, likevel slik at det gis fradrag i bruttoinntekten for livsforsikringspremie, spareinnskudd og aksjesparing som omhandlet i § 44 ellevte ledd, inntil de der fastsatte maksimumsbeløp. Tillegg som omhandlet i § 44 ellevte ledd nr. 2 og nr. 3 skal på tilsvarende måte gjennomføres som inntektstillegg.
 
+1 Se nå § 41 fjerde, syvende og niende ledd.
+
 ## II.
 
 Angående utførelse av skatteligningen samt behandling av klager over denne gjelder, ved siden av §§ 7-9 i lov om skatt til Svalbard på formue og inntekt, følgende regler:

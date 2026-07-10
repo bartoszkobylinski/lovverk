@@ -186,11 +186,15 @@ Forskriften trer i kraft 1. januar 2001.
 
 Merknadene er en veiledning for å utdype innholdet i forskriftens bestemmelser [§ 2](forskrift/2000-12-21-1384/§2) og [§ 9](forskrift/2000-12-21-1384/§9). Merknadene er i seg selv ikke rettslig bindende. Forskriften og veiledningen bør leses i sammenheng for å få en best mulig forståelse av forskriftens bestemmelser.
 
+*Til [§ 9](forskrift/2000-12-21-1384/§9)*
+
 Bestemmelsen gir minimumskrav til hvilken dokumentasjon den som tilsettes i stillingen skal fremlegge. Krav til dokumentasjon av språkkunnskaper følger av [§ 14](forskrift/2000-12-21-1384/§14). Arbeidsgiver vurderer på vanlig måte hvem av søkerne som er best skikket til stillingen. I den forbindelse må arbeidsgiveren selv vurdere hvilke egenskaper som er nødvendige for å ivareta hensynet til en forsvarlig utøvelse av de oppgavene som tilligger stillingen.
 
 Med «stilling som er en del av spesialistutdanningen i sykehus eller kommune» i *første ledd* menes stillinger for lege i spesialisering (LIS-lege) i sykehus og stilling i kommune som er en del av spesialiseringen innen allmennmedisin, arbeidsmedisin og samfunnsmedisin.
 
 *Første ledd bokstav c* innebærer at lege som på lovlig vis allerede har fått stilling som er en del av spesialistutdanningen kun skal dokumentere autorisasjon ved tilsetting i nye stillinger av samme karakter. Dette skal sikre at de som har påbegynt spesialiseringen ikke møtes med et nytt krav om norsk turnustjeneste.
+
+*Til [§ 19](forskrift/2000-12-21-1384/§19):*
 
 Generelle bestemmelser for spesialistutdanning av leger (vedtatt av Helse- og omsorgsdepartementet 2. juli 2009 med hjemmel i [forskrift 21. desember 2000 nr. 1384](forskrift/2000-12-21-1384) om spesialistgodkjenning av helsepersonell og turnusstillinger for leger [§ 3](forskrift/2000-12-21-1384/§3) andre ledd), oppheves med virkning fra 1. mars 2017. Dette gjelder likevel ikke tilfeller som omfattes av forskriften [§ 19](forskrift/2000-12-21-1384/§19) bokstav b og c.
 

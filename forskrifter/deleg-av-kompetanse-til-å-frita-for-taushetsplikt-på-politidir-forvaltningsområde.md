@@ -31,3 +31,9 @@ Justis- og beredskapsdepartementet har videre delegert ved [delegeringsvedtak 7.
 Politidirektoratet beslutter med dette å delegere videre til politimesterne og særorgansjefene myndighet etter [straffeprosessloven § 118](lov/1981-05-22-25/§118) første og andre ledd og [tvisteloven § 22-3](lov/2005-06-17-90/§22-3) andre og tredje ledd til å frita fra lovbestemt taushetsplikt på Politidirektoratets forvaltningsområde ved bevisføring og redegjørelse for retten.
 
 Politidirektoratet vil for ordens skyld bemerke at tilsvarende delegering er gitt til riksadvokaten for så vidt gjelder saker på riksadvokatens ansvarsområde.3
+
+1 [Lov 22. mai 1981 nr. 25](lov/1981-05-22-25) om rettergangsmåten i straffesaker.
+
+2 [Lov 17. juni 2005 nr. 90](lov/2005-06-17-90) om mekling og rettergang i sivile tvister.
+
+3 Se [delegeringsvedtak 7. mars 2019 nr. 191](forskrift/2019-03-07-191) og [delegeringsvedtak 7. mars 2019 nr. 193](forskrift/2019-03-07-193).

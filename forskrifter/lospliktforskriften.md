@@ -318,6 +318,8 @@ Innehaver av farledsbevis som per 31. desember 2014 har rett til å seile i en f
 
 Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette linjer mellom de geografiske koordinatene angitt nedenfor:
 
+a. Oslofjorden – Færder og Vidgrunnen
+
 1. N 58° 58,3′ Ø 010° 19,5′
 2. N 59° 00,0′ Ø 010° 25,0′
 3. N 58° 59,8′ Ø 010° 31,0′
@@ -340,31 +342,45 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 20. N 59° 00,3′ Ø 010° 43,9′
 21. N 58° 57,1′ Ø 010° 45,9′
 
+b 1. Grenlandsområdet – Langesundbukta
+
 1. N 58° 51,6′ Ø 009° 39,4′
 2. N 58° 55,5′ Ø 009° 45,7′
 3. N 58° 57,6′ Ø 009° 46,4′
 4. N 58° 57,6′ Ø 009° 49,0′
 5. N 58° 55,1′ Ø 009° 52,9′
 
+b 2. Grenlandsområdet – Farsund
+
 1. N 58° 01,6′ Ø 006° 50,0′
 2. N 58° 01,2′ Ø 006° 50,3′
 3. N 58° 01,5′ Ø 006° 48,8′
+
+b 3. Grenlandsområdet – Listafjorden
 
 1. N 58° 10,4′ Ø 006° 35,4′
 2. N 58° 07,2′ Ø 006° 31,1′
 3. N 58° 13,7′ Ø 006° 17,6′
 
+b 4. Grenlandsområdet – Sokndal
+
 1. N 58° 18,0′ Ø 006° 14,0′
 2. N 58° 15,6′ Ø 006° 13,6′
 3. N 58° 19,7′ Ø 006° 04,8′
+
+b 5. Grenlandsområdet – Egersund Syd
 
 1. N 58° 23,0′ Ø 005° 59,9′
 2. N 58° 21,4′ Ø 006° 01,1′
 3. N 58° 23,0′ Ø 005° 57,6′
 
+b 6. Grenlandsområdet – Egersund Nord
+
 1. N 58° 27,0′ Ø 005° 51,0′
 2. N 58° 26,3′ Ø 005° 50,8′
 3. N 58° 27,3′ Ø 005° 49,3′
+
+c 1. Rogalandsområdet – Feistein
 
 1. N 58° 52,1′ Ø 005° 25,6′
 2. N 58° 51,6′ Ø 005° 29,0′
@@ -373,6 +389,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 5. N 58° 50,2′ Ø 005° 29,9′
 6. N 58° 49,0′ Ø 005° 29,1′
 7. N 58° 47,2′ Ø 005° 28,0′
+
+c 2. Rogalandsområdet – Skudenesfjorden
 
 1. N 59° 06,5′ Ø 005° 13,3′
 2. N 59° 07,1′ Ø 005° 17,2′
@@ -385,6 +403,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 9. N 59° 04,2′ Ø 005° 21,9′
 10. N 59° 01,0′ Ø 005° 21,1′
 
+d 1. Vestlandet farvannsområde – Korsfjorden
+
 1. N 60° 07,4′ Ø 004° 56,9′
 2. N 60° 07,3′ Ø 004° 56,7′
 3. N 60° 09,9′ Ø 004° 56,0′
@@ -393,6 +413,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 6. N 60° 09,0′ Ø 005° 00,8′
 7. N 60° 08,2′ Ø 005° 01,0′
 8. N 60° 08,0′ Ø 004° 58,0′
+
+d 2. Vestlandet farvannsområde – Fedjeosen
 
 1. N 60° 45,7′ Ø 004° 46,7′
 2. N 60° 43,8′ Ø 004° 46,7′
@@ -407,12 +429,16 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 11. N 60° 45,1′ Ø 004° 45,0′
 12. N 60° 45,7′ Ø 004° 45,6′
 
+d 3. Vestlandet farvannsområde – Holmengrå
+
 1. N 60° 52,0′ Ø 004° 35,3′
 2. N 60° 51,7′ Ø 004° 36,4′
 3. N 60° 51,7′ Ø 004° 45,2′
 4. N 60° 51,1′ Ø 004° 45,2′
 5. N 60° 51,1′ Ø 004° 37,1′
 6. N 60° 50,7′ Ø 004° 36,0′
+
+d 4. Vestlandet farvannsområde – Kvannhovden, Frøysjøen og Hellefjorden
 
 1. N 61° 41,0′ Ø 004° 35,7′
 2. N 61° 43,5′ Ø 004° 37,8′
@@ -434,12 +460,16 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 18. N 61° 41,4′ Ø 004° 46,8′
 19. N 61° 41,6′ Ø 004° 45,7′
 
+e 1. Sunnmøre og Romsdal farvannsområde – Vanylvsgapet
+
 1. N 62° 11,7′ Ø 005°17,4′
 2. N 62° 13,2′ Ø 005° 14,3′
 3. N 62° 14,6′ Ø 005° 08,0′
 4. N 62° 18,0′ Ø 005° 12,8′
 5. N 62° 13,9′ Ø 005° 16,1′
 6. N 62° 12,1′ Ø 005° 18,5′
+
+e 2. Sunnmøre og Romsdal farvannsområde – Breisundet
 
 1. N 62° 29,5′ Ø 005° 35,0′
 2. N 62° 29,5′ Ø 005° 43,3′
@@ -450,12 +480,16 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 7. N 62° 30,2′ Ø 005° 45,8′
 8. N 62° 33,4′ Ø 005° 42,9′
 
+f. Nordmøre farvannsområde – Grip
+
 1. N 63° 12,0′ Ø 007° 17,3′
 2. N 63° 24,1′ Ø 007° 37,1′
 3. N 63° 16,1′ Ø 007° 38,5′
 4. N 63° 14,3′ Ø 007° 43,3′
 5. N 63° 13,5′ Ø 007° 41,7′
 6. N 63° 14,8′ Ø 007° 34,7′
+
+g. Trøndelag farvannsområde – Flesa, Raudøyleia, Rekkøyråsa og Grinna
 
 1. N 63° 38,6′ Ø 009° 14,7′
 2. N 63° 40,7′ Ø 009° 12,5′
@@ -482,6 +516,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 23. N 63° 40,7′ Ø 009° 15,3′
 24. N 63° 38,8′ Ø 009° 16,3′
 
+h 1. Nordland farvannsområde – Åsvær
+
 1. N 66° 14,1′ Ø 011° 39,6′
 2. N 66° 21,6′ Ø 011° 47,4′
 3. N 66° 18,0′ Ø 012° 06,0′
@@ -498,6 +534,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 14. N 66° 16,3′ Ø 012° 18,3′
 15. N 66° 16,5′ Ø 012° 12,9′
 16. N 66° 16,2′ Ø 012° 06,4′
+
+h 2. Nordland farvannsområde – Vestfjordbassenget
 
 1. N 68° 21,0′ Ø 016° 05,0′
 2. N 68° 08,5′ Ø 015° 24,0′
@@ -539,6 +577,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 38. N 68° 21,8′ Ø 015° 57,0′
 39. N 68° 24,7′ Ø 016° 01,1′
 
+h 3. Nordland farvannsområde – Hadselfjorden
+
 1. N 68° 26,7′ Ø 013° 51,9′
 2. N 68° 27,5′ Ø 014° 20,1′
 3. N 68° 27,8′ Ø 014° 48,8′
@@ -546,15 +586,21 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 5. N 68° 29,1′ Ø 014° 26,2′
 6. N 68° 34,8′ Ø 014° 05,4′
 
+h 4. Nordland farvannsområde – Myre
+
 1. N 69° 01,3′ Ø 014° 58,0′
 2. N 68° 59,9′ Ø 014° 58,8′
 3. N 68° 59,7′ Ø 014° 57,3′
 4. N 68° 59,6′ Ø 014° 54,0′
 
+h 5. Nordland farvannsområde – Andenes
+
 1. N 69° 22,1′ Ø 016° 12,7′
 2. N 69° 19,2′ Ø 016° 11,7′
 3. N 69° 19,2′ Ø 016° 19,2′
 4. N 69° 26,2′ Ø 016° 36,7′
+
+i 1. Troms farvannsområde – Malangen
 
 1. N 69° 31,6′ Ø 018° 03,1′
 2. N 69° 31,3′ Ø 018° 02,0′
@@ -564,6 +610,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 6. N 69° 40,7′ Ø 017° 36,3′
 7. N 69° 48,2′ Ø 017° 48,3′
 8. N 69° 37,6′ Ø 017° 50,8′
+
+i 2. Troms farvannsområde – Fugløyfjorden
 
 1. N 69° 52,1′ Ø 019° 49,0′
 2. N 69° 52,2′ Ø 019° 46,0′
@@ -577,6 +625,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 10. N 70° 05,3′ Ø 020° 18,0′
 11. N 70° 02,3′ Ø 020° 12,7′
 
+j 1. Finnmark farvannsområde – Akkarfjornæringen
+
 1. N 70° 53,5′ Ø 022° 57,5′
 2. N 70° 52,5′ Ø 023° 19,0′
 3. N 70° 50,2′ Ø 023° 27,5′
@@ -585,6 +635,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 6. N 70° 42,5′ Ø 023° 35,0′
 7. N 70° 55,0′ Ø 023° 39,5′
 8. N 71° 05,7′ Ø 023° 58,4′
+
+j 2. Finnmark farvannsområde – Honningsvåg
 
 1. N 71° 10,8′ Ø 025° 52,0′
 2. N 71° 07,2′ Ø 026° 08,5′
@@ -596,6 +648,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 8. N 70° 56,5′ Ø 026° 11,9′
 9. N 71° 08,2′ Ø 027° 38,0′
 
+j 3. Finnmark farvannsområde – Båtsfjord
+
 1. N 70° 43,2′ Ø 030° 01,2′
 2. N 70° 42,6′ Ø 029° 55,6′
 3. N 70° 38,4′ Ø 029° 48,4′
@@ -604,6 +658,8 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 6. N 70° 41,6′ Ø 029° 49,5′
 7. N 70° 43,8′ Ø 029° 49,7′
 8. N 70° 45,8′ Ø 029° 45,9′
+
+j 4. Finnmark farvannsområde – Kirkenes
 
 1. N 69° 47,2′ Ø 030° 05,2′
 2. N 69° 47,2′ Ø 030° 04,4′
@@ -622,6 +678,94 @@ Områdene nevnt i § 4 annet ledd i forskriften bestemmes ved å trekke rette li
 
 ## Vedlegg 2
 
+| *Losbordingsfelt* | *Posisjon* |  | *Kommune* | *Merknad eller begrensning* |
+| --- | --- | --- | --- | --- |
+|  | *Nord* | *Øst* |  |  |
+| *Troms og Finnmark* |  |  |  |  |
+| Kirkenes indre | 69°<br>47,3′ | 030°<br>04,9′ | Sør-Varanger | Max LOA 110,3 kun etter avtale1 |
+| Kirkenes ytre | 69°<br>51,3′ | 030°<br>07,2′ | Sør-Varanger |  |
+| Vardø nord | 70°<br>25,0′ | 031°<br>06,0′ | Vardø |  |
+| Vardø sør | 70°<br>21,0′ | 031°<br>09,0′ | Vardø |  |
+| Båtsfjord | 70°<br>39,5′ | 029°<br>49,0′ | Båtsfjord |  |
+| Honningsvåg ytre | 70°<br>58,0′ | 026°<br>16,9′ | Nordkapp | Passasjerfartøy>25 000BT og STS-fartøy4 |
+| Honningsvåg indre | 70°<br>57,5′ | 025°<br>57,4′ | Nordkapp |  |
+| Fruholmen | 71°<br>05,0′ | 023°<br>38,0′ | Masøy | >20 000BT og ved helikopterbording2 |
+| Akkarfjordnæringen | 70°<br>47,0′ | 023°<br>32,2′ | Hammerfest |  |
+| Fugløya | 70°<br>06,0′ | 020°<br>12,9′ | Karlsøy |  |
+| Grøtnes | 69°<br>52,4′ | 019°<br>47,6′ | Karlsøy | Max LOA 1103 |
+| Hekkingen Ytre | 69°<br>36,5′ | 017°<br>51,9′ | Lenvik |  |
+| Hekkingen Indre | 69°<br>31,′7 | 018°<br>01,9′ | Lenvik | Max LOA 1103 |
+| *Nordland* |  |  |  |  |
+| Andenes | 69°<br>19,5′ | 016°<br>13,5′ | Andøy |  |
+| Myre\* | 69°<br>00,0′ | 014°<br>58,0′ | Øksnes | Kun etter avtale1 |
+| Melbu\* | 68°<br>28,0′ | 014°<br>48,0′ | Hadsel | Kun etter avtale1 |
+| Lødingen | 68°<br>22,9′ | 016°<br>01,7′ | Lødingen |  |
+| Tranøy indre | 68°<br>18,5′ | 015°<br>55,7′ | Tysfjord | Kun etter avtale1 |
+| Tranøy ytre | 68°<br>12,7′ | 015°<br>35,7′ | Hamarøy |  |
+| Svolvær\* | 68°<br>11,0′ | 014°<br>33,0′ | Vågan | Max LOA 110,3 kun etter avtale1 |
+| Molldøra\* | 68°<br>13,0′ | 014°<br>53,5′ | Vågan | Max LOA 110,3 kun etter avtale1 |
+| Svinøy\* | 68°<br>02,0′ | 013°<br>35,0′ | Vesvågøy | Kun etter avtale1 |
+| Landegode | 67°<br>30,0′ | 014°<br>22,5′ | Bodø |  |
+| Store Svartoksen | 67°<br>13,9′ | 014°<br>07,2′ | Bodø | Max LOA 1103 |
+| Fleinvær | 67°<br>13,5′ | 013°<br>46,2′ | Gildeskål |  |
+| Åsvær Ytre | 66°<br>17,0′ | 012°<br>12,5′ | Dønna |  |
+| Åsvær Indre | 66°<br>15,3′ | 012°<br>36,′7 | Dønna | Max LOA 1103 |
+| *Møre og Trøndelag* |  |  |  |  |
+| Grinna\* | 64°<br>44,0′ | 010°<br>58,0′ | Rørvik | Kun etter avtale1 |
+| Rekkøyråsa\* | 64°<br>38,0′ | 010°<br>49,0′ | Flatanger | Kun etter avtale1 |
+| Raudøyleia\* | 64°<br>24,0′ | 010°<br>14,0′ | Osen | Kun etter avtale1 |
+| Flesa | 63°<br>39,0′ | 009°<br>14,9′ | Hitra |  |
+| Grip indre | 63°<br>14,0′ | 007°<br>42,2′ | Kristiansund |  |
+| Grip ytre | 63°<br>15,0′ | 007°<br>35,9′ | Kristiansund | Kun etter avtale1 |
+| Ona | 62°<br>56,0′ | 006°<br>27,0′ |  | >25.000BT og kun helikopterbording |
+| Breisundet | 62°<br>27,0′ | 005°<br>58,9′ | Giske |  |
+| Vanylvsgapet | 62°<br>12,5′ | 005°<br>16,9′ | Selje |  |
+| *Vestlandet* |  |  |  |  |
+| Kvannhovden Vest (1) | 61°<br>43,0′ | 004°<br>23,5′ | Flora | Kun etter avtale,1 Kun helikopterbording |
+| Kvannhovden (2) | 61°<br>42,2′ | 004°<br>45,5′ | Flora |  |
+| Hellefjorden (3) | 61°<br>39,1′ | 004°<br>51,2′ | Flora | Kun etter avtale1 |
+| Frøysjøen (4) | 61°<br>45,0′ | 004°<br>56,6′ | Flora | Kun etter avtale1 |
+| Holmengrå Vest (1) | 60°<br>51,0′ | 004°<br>25,9′ | Gulen | >30 000BT og ved helikopterbording2 |
+| Holmengrå (2) | 60°<br>51,4′ | 004°<br>39,0′ | Fedje |  |
+| Holmengrå indre (3) | 60°<br>51,4′ | 004°<br>45,2′ | Fedje | Kun etter avtale1 |
+| Fedje Vest (1) | 60°<br>46,0′ | 004°<br>27,9′ | Fedje | >30 000BT og ved helikopterbording2 |
+| Fedjeosen (2) | 60°<br>44,1′ | 004°<br>44,0′ | Fedje |  |
+| Fedjeosen indre (3) | 60°<br>45,7′ | 004°<br>46,1′ | Fedje | Kun etter avtale1 |
+| Korsfjorden | 60°<br>08,6′ | 005°<br>00,9′ | Austevoll |  |
+| *Rogaland* |  |  |  |  |
+| Smørstakk | 59°<br>13,1′ | 005°<br>21,0′ | Bokn |  |
+| Skudenesfjorden | 59°<br>06,7′ | 005°<br>26,2′ | Kvitsøy |  |
+| Skudenesfjorden Vest | 59°<br>02,0′ | 005°<br>10,0′ | Karmøy | >30 000BT og ved helikopterbording2 |
+| Feistein | 58°<br>51,0′ | 005°<br>30,0′ | Sola |  |
+| *Skagerrak* |  |  |  |  |
+| Egersund Nord | 58°<br>26,9′ | 005°<br>50,9′ | Eigersund |  |
+| Egersund Syd | 58°<br>22,9′ | 005°<br>59,9′ | Eigersund |  |
+| Sokndal | 58°<br>17,9′ | 006°<br>13,9′ | Sokndal |  |
+| Listafjorden | 58°<br>10,9′ | 006°<br>32,9′ | Flekkefjord |  |
+| Farsund | 58°<br>01,5′ | 006°<br>50,0′ | Farsund |  |
+| Songvår\* | 58°<br>00,7′ | 007°<br>51,3′ | Søgne | Kun etter avtale1 |
+| Oksøy | 58°<br>03,3′ | 008°<br>05,6′ | Kristiansand |  |
+| Torungen | 58°<br>23,5′ | 008°<br>48,6′ | Arendal |  |
+| Langesundsbukta | 58°<br>56,5′ | 009°<br>47,6′ | Larvik |  |
+| *Oslofjorden* |  |  |  |  |
+| Færder Syd\* | 59°<br>00,0′ | 010°<br>25,0′ | Tjøme | Kun etter avtale1 |
+| Færder | 59°<br>04,5′ | 010°<br>34,4′ | Tjøme |  |
+| Struten | 59°<br>07,6′ | 010°<br>43,2′ | Fredrikstad | Kun etter avtale1 |
+| Hvaler | 59°<br>03,1′ | 010°<br>47,0′ | Hvaler | Kun etter avtale1 |
+| Ytre Vidgrunnen | 59°<br>01,7′ | 010°<br>51,1′ | Hvaler |  |
+| Vidgrunnen | 59°<br>01,0′ | 010°<br>55,9′ | Hvaler |  |
+| Sekken | 58°<br>58,6′ | 011°<br>02,7′ | Hvaler |  |
+
+\* Losbordingsfeltet er ikke en del av den ordinære tilbringertjenesten og kostnadene må dekkes av det enkelte skip.
+
+1 Losbordingsfeltet kan kun benyttes etter forutgående avtale med losoldermannen/losformidlingen.
+
+2 Skal brukes av fartøy med farlig og forurensende last som er større enn den angitte tonnasjen, og ved helikopterbording.
+
+3 Kun fartøy med max LOA på 110 meter, som ikke faller inn under [§ 3](forskrift/2014-12-17-1808/§3) første ledd bokstav c–g eller i, og der ansvarshavende vaktoffiser på bro har seilt i farvannet minst én gang tidligere.
+
+4 Skal brukes på inngående seilas av passasjerfartøy som er større en den angitte tonnasjen og av fartøy som skal utføre STS-operasjoner.
+
 > Endret ved [forskrift 29 des 2017 nr. 2389](forskrift/2017-12-29-2389) (i kraft 1 jan 2018).
 
 ## Vedlegg 3. Lokale begrensninger for bruk av farledsbevis
@@ -630,18 +774,140 @@ Begrensningene i kolonne 1 gjelder farledsbevis klasse 2 og 3 og kadettfarledsbe
 
 Begrensningene i kolonne 2 gjelder farledsbevis klasse 1 og tar utgangspunkt i de lokale begrensningene i lostjenesten for når et losoppdrag skal regnes som uvanlig. Dersom det ikke er angitt begrensninger i kolonne 2 er det ikke etablert differensierte grenser og begrensningen i kolonne 1 gjelder.
 
-Definisjon på natt i denne sammenhengen tilsvarer nattseilas som definert i forskriften [§ 2](forskrift/2014-12-17-1808/§2).*Sted/farled**Kolonne 1*
-*Begrensning farledsbevis klasse 2 og 3 og kadettfarledsbevis**Kolonne 2
-Begrensning farledsbevis klasse 1**Dag**Natt**Dag**Natt**Oslofjorden*Tresten–Sekken til Halden (1001), og Tresten-Løperen til Denofa (1002 og 2007).Ingen FB-seilas for slep* med lengde 75 m, bredde 20 m eller dypgang 5 m eller mer.Sponvikskansen-Halden (1001)Max LOA 105 mMax LOA 130 mMax LOA 125 mLøperen–Fredrikstad (1002)Max LOA 125 mMax LOA 150 mKjøkøysundet (2004)Max LOA 70 mMax LOA 100 mVesterelva (2005)Max LOA 70 mMax LOA 100 mFredrikstad–Sarpsborg (2015)Max LOA 105 mMax LOA 125 mAlvim/Hafslund–MelløsIngen FB-seilasSandvika (2018)Max LOA 70 mMax LOA 105 mDrammensfjorden (1010)Max LOA 125 mMax LOA 150 mTønsberg (1012)Max LOA 105 mMax LOA 125 m*Skagerrak*Bonden–Sandefjord (1015)Max LOA 125 mMax LOA 150 mLangesundet (2043)Gjennomseiling: Ingen FB-seilas Anløp: Max LOA 125 mGjennomseiling: Ingen FB-seilas Anløp: Max LOA 150 mLangesundsbukta–Dypingen–Porsgrunn (1023)Max LOA 125 mMax LOA 150 mLinnarenna (2044)Ingen FB-seilasPorsgrunn–Gråtenløpet (2058)Max LOA 90 mMax LOA 110 mGråtenløpet–SkienMax LOA 85 mMax LOA 85 mJomfrulandsrevet–Kragerø (1025), via StanggapetMax LOA 90 m
-Max dypg. 7 mMax LOA 125 m
-Max dypg. 7 mJomfrulandsrevet–Kragerø (1025), via Rødskjærgapet (2064)Max LOA 90 m
-Max dypg. 9 mIngen FB-seilasMax LOA 125 m
-Max dypg. 9 mIngen FB-seilasJomfrulandsgapet (2051)Ingen FB-seilasLangøytangen–Kragerø (2052)Ingen FB-seilasGumøysund–Kragerø (2053)Ingen FB-seilasKjøpmannsfjorden (2054)Ingen FB-seilasHellefjorden (2055)Ingen FB-seilasMax LOA 115 m
-Max LOA 95 m ved større dypg. enn 5 m.Åtangen (2060)Max LOA 90 mMax LOA 125 mSnekkevik (2061)Max LOA 90 mMax LOA 125 mLitangen (2062)Max LOA 90 mMax LOA 125 mGrønnholmgapet (2065)Ingen FB-seilasGrønnholmgapet–Søndeled (2071)Ingen FB-seilasKranfjorden (2073)Ingen FB-seilasTaraldskjær–Risør (2072)Ingen FB-seilasStangholmgapet–Risør(2070)Max LOA 125 mMax LOA 150 mØstergapet–Lyngørleia–Bonden (2074)Ingen FB-seilasSildeskjær–Gåsholmen (2075)Ingen FB-seilasGjennom Lyngør (2076)Ingen FB-seilasKjeholmsgapet (2077)Ingen FB-seilasTvedestrandsfjorden (2080)Ingen FB-seilasLyngør–Arendal, strekning Bonden–Eydehavn (1030)Max LOA 125 mMax LOA 150 mLyngør–Arendal, strekningen Eydehavn–Arendal (1030)Max LOA 125 mMax LOA 150 mGaltesund (1031)Max LOA 125 mMax LOA 150 mSpærholmen–Hesnesbregen (2084)Ingen FB-seilasMerdø–Leiholmsund (2085)Ingen FB-seilasGamlegapet (2083)Ingen FB-seilasRivingdypet–Grimstad–Vikkilen (2086)Max LOA 105 mMax LOA 125 mØst og syd av Homborsund (2089)Ingen FB-seilasHomborsundleia (2090)Ingen FB-seilasInnseiling til Lillesand (2091)Max LOA 125 mMax LOA 150 mSaltholmen–Kristiansand via Randesund (2092)Ingen FB-seilasKårehausen–Ytrehausen (2094)Ingen FB-seilasVestergapet–Byfjorden (1033)Max LOA 125 mMax LOA 125 mHøllen (2096)Max LOA 105 mMax LOA 95 mMax LOA 125 mMax LOA 95 mFærøsund (2097)Ingen FB-seilasMannefjorden (1034)Max LOA 125 mMax LOA 125 mIndre led Lindesnes–Vestergapet (2095)Ingen FB-seilasVåre–Øst av Langeboene (2099)Ingen FB-seilas, jf. begrensninger for farledene 2095 og 2100Lundegaardsleia (2100)Ingen FB-seilasRosfjorden (2101)Max LOA 125 mMax LOA 150 mReiarsleia (2102)Ingen FB-seilasFarsund (1035)Max LOA 105 mMax LOA 125 mStolsfjorden–Flekkefjord (1040)Max LOA 105 mMax LOA 100 mMax LOA 125 mMax LOA 100 mFedafjorden–Kvinesdal (2103)Max LOA 125 mMax LOA 150 mMelkeholmsundet (2106)Ingen FB-seilasJøssingfjord (2107)Max LOA 105 mMax LOA 125 mRekefjord (2108)Max LOA 90 mMax LOA 105 mSvåholmsundet (2109)Ingen FB-seilasEgersund (1041)Max LOA 105 mMax LOA 125 mNordresundet med Maurholmen (2110)Max LOA 90 mMax LOA 100 mHellvik (2111)Max LOA 85 mMax LOA 90 mSirevåg (2112)Max LOA 90 mMax LOA 110 mMax LOA 100 m*Rogaland*Karmsundet nord for Høgevarde (1501)Max LOA 125 mMax LOA 150 mSaudafjorden (1047)Max LOA 125 mMax LOA 150 m*Vestlandet*Stokksund–Nyleia (2170)Max LOA 125 mMax LOA 150 mLukksund (2191)Max LOA 90 mMax LOA 105 mStorebø (2228, 2231 og 2025 fra Grøningen/Drøna til Hundvåkoksen,)Max LOA 105 mMax LOA 125 mMax LOA 110 mEide (2234)Max LOA 90 mMax LOA 125 mMax LOA 100 mKobbeleia (2241)Max LOA 105 mMax LOA 125 mRognesundet (2252)Max LOA 105 mMax LOA 105 mTjuasundet, strekningen Tjuasundet–Eikefet (2263)Max LOA 105 mMax LOA 125 mRadfjorden (2264)Max LOA 125 mMax LOA 150 mVatlestraumen (1506)Max LOA 125 mMax LOA 150 mÅnnelandsund (2280)Max LOA 90 mMax LOA 100 mGudvangen (2304)Max LOA 90 mMax LOA 125 mYtre Steinsund (1511)Max LOA 125 mMax LOA 150 mFørdefjorden (2323)Max LOA 105 mMax LOA 90 mMax LOA 125 mMax LOA 110 mFlorø (1518)Max LOA 125 mMax LOA 150 mNordgulen (2333)Max LOA 105 mMax LOA 135 mSkatestraumen (1521)Max LOA 125 mMax LOA 150 mMåløysundet (1523)Max LOA 125 mMax LOA 150 m*Møre og Trøndelag*Flåvær – Eggesbønes (Flåværsleden 1532)Max LOA 125 mMax LOA 150 mRøyrasundet (Flåværsleden 1532)Max LOA 100 mMax LOA 100 mBreisundet–Torvik (Flåværsleden 1532)Max LOA 125 mMax LOA 150 mLinesleia (2551) og Stokksundet (Leikuleia 2544)Max LOA 105 mMax LOA 125 mLysøysundet (Leikuleia 2544)Max LOA 90 mMax LOA 105 mHopsfjorden (2555)Max LOA 125Max LOA 150Grandvika–Asenleia–Buholmsråsa (1546)Max LOA 125 mMax LOA 150 mIvarsholmsleden (1556)Max LOA 125 mMax LOA 150 mDolmsundet (1151)Max LOA 125 mMax LOA 150 m*Nordland*Leirfjorden–Vefsnsundet (1161)Max LOA 125 mMax LOA 150 mRaftsundet (1184)Max LOA 105 mMax LOA 125 mTjeldsundet (1578)Max LOA 105 mMax LOA 150 mTræna (2622) (gjelder innseiling)Max LOA 95 mMax LOA 105 mSaltstraumen (2655)Max LOA 125 mMax LOA 150 mVærøy (2682) (gjelder innseiling)Max LOA 105 mMax LOA 90 mMax LOA 120 mMax LOA 105 mMoskenes (2683) (gjelder innseiling)Max LOA 110 mMax LOA 110 mBallstad (2740)Max LOA 75 mMax LOA 75 mGimsøystraumen (2746)Max LOA 105Max LOA 120HopenMax LOA 100 mMax LOA 100 mOsan (Svolvær vestre havn)Max LOA 125 mMax LOA 150 mMelbu (2779) (gjelder innseilingen)Max LOA 100 mMax LOA 100 mSteinesjøen (2790)Max LOA 120 mMax LOA 120 mSteinesjøen indre havn (2790)Max LOA 75 mMax LOA 75 mMyre indre havn/innenfor Kartneset (2800)Max LOA 115 mMax LOA 115 mAndenes (2853)
-(gjelder innseilingen)Max LOA 75mMax LOA 90 m****Troms og Finnmark*Senjahopen (2864)Max LOA 125 mMax LOA 135 mHusøy (2877)Max LOA 90 mMax LOA 100 mSommerøy (2873) (gjelder innseilingen)Max LOA 95 mMax LOA 110 mVannavalen (2911) (gjelder innseilingen)Max LOA 105 mMax LOA 125 mGjesvær (2970) (gjelder innseilingen)Max LOA 105 mMax LOA 125 mSkardholmen–Leirpollen (1213)Max LOA 90 m**
-Max dypg. 6,8 m for seilas inn
-Max dypg. 7,2 m for seilas utMax LOA 127 m** Max dypg. 6,8 m for seilas inn
-Max dypg. 7,2 m for seilas ut
+Definisjon på natt i denne sammenhengen tilsvarer nattseilas som definert i forskriften [§ 2](forskrift/2014-12-17-1808/§2).
+
+| *Sted/farled* | *Kolonne 1*<br>*Begrensning farledsbevis klasse 2 og 3 og kadettfarledsbevis* |  | *Kolonne 2<br>Begrensning farledsbevis klasse 1* |  |
+| --- | --- | --- | --- | --- |
+|  | *Dag* | *Natt* | *Dag* | *Natt* |
+| *Oslofjorden* |  |  |  |  |
+| Tresten–Sekken til Halden (1001), og Tresten-Løperen til Denofa (1002 og 2007). | Ingen FB-seilas for slep\* med lengde 75 m, bredde 20 m eller dypgang 5 m eller mer. |  |  |  |
+| Sponvikskansen-Halden (1001) | Max LOA 105 m |  | Max LOA 130 m | Max LOA 125 m |
+| Løperen–Fredrikstad (1002) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Kjøkøysundet (2004) | Max LOA 70 m |  | Max LOA 100 m |  |
+| Vesterelva (2005) | Max LOA 70 m |  | Max LOA 100 m |  |
+| Fredrikstad–Sarpsborg (2015) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Alvim/Hafslund–Melløs | Ingen FB-seilas |  |  |  |
+| Sandvika (2018) | Max LOA 70 m |  | Max LOA 105 m |  |
+| Drammensfjorden (1010) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Tønsberg (1012) | Max LOA 105 m |  | Max LOA 125 m |  |
+| *Skagerrak* |  |  |  |  |
+| Bonden–Sandefjord (1015) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Langesundet (2043) | Gjennomseiling: Ingen FB-seilas Anløp: Max LOA 125 m |  | Gjennomseiling: Ingen FB-seilas Anløp: Max LOA 150 m |  |
+| Langesundsbukta–Dypingen–Porsgrunn (1023) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Linnarenna (2044) | Ingen FB-seilas |  |  |  |
+| Porsgrunn–Gråtenløpet (2058) | Max LOA 90 m |  | Max LOA 110 m |  |
+| Gråtenløpet–Skien | Max LOA 85 m |  | Max LOA 85 m |  |
+| Jomfrulandsrevet–Kragerø (1025), via Stanggapet | Max LOA 90 m<br>Max dypg. 7 m |  | Max LOA 125 m<br>Max dypg. 7 m |  |
+| Jomfrulandsrevet–Kragerø (1025), via Rødskjærgapet (2064) | Max LOA 90 m<br>Max dypg. 9 m | Ingen FB-seilas | Max LOA 125 m<br>Max dypg. 9 m | Ingen FB-seilas |
+| Jomfrulandsgapet (2051) | Ingen FB-seilas |  |  |  |
+| Langøytangen–Kragerø (2052) | Ingen FB-seilas |  |  |  |
+| Gumøysund–Kragerø (2053) | Ingen FB-seilas |  |  |  |
+| Kjøpmannsfjorden (2054) | Ingen FB-seilas |  |  |  |
+| Hellefjorden (2055) | Ingen FB-seilas |  | Max LOA 115 m<br>Max LOA 95 m ved større dypg. enn 5 m. |  |
+| Åtangen (2060) | Max LOA 90 m |  | Max LOA 125 m |  |
+| Snekkevik (2061) | Max LOA 90 m |  | Max LOA 125 m |  |
+| Litangen (2062) | Max LOA 90 m |  | Max LOA 125 m |  |
+| Grønnholmgapet (2065) | Ingen FB-seilas |  |  |  |
+| Grønnholmgapet–Søndeled (2071) | Ingen FB-seilas |  |  |  |
+| Kranfjorden (2073) | Ingen FB-seilas |  |  |  |
+| Taraldskjær–Risør (2072) | Ingen FB-seilas |  |  |  |
+| Stangholmgapet–Risør(2070) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Østergapet–Lyngørleia–Bonden (2074) | Ingen FB-seilas |  |  |  |
+| Sildeskjær–Gåsholmen (2075) | Ingen FB-seilas |  |  |  |
+| Gjennom Lyngør (2076) | Ingen FB-seilas |  |  |  |
+| Kjeholmsgapet (2077) | Ingen FB-seilas |  |  |  |
+| Tvedestrandsfjorden (2080) | Ingen FB-seilas |  |  |  |
+| Lyngør–Arendal, strekning Bonden–Eydehavn (1030) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Lyngør–Arendal, strekningen Eydehavn–Arendal (1030) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Galtesund (1031) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Spærholmen–Hesnesbregen (2084) | Ingen FB-seilas |  |  |  |
+| Merdø–Leiholmsund (2085) | Ingen FB-seilas |  |  |  |
+| Gamlegapet (2083) | Ingen FB-seilas |  |  |  |
+| Rivingdypet–Grimstad–Vikkilen (2086) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Øst og syd av Homborsund (2089) | Ingen FB-seilas |  |  |  |
+| Homborsundleia (2090) | Ingen FB-seilas |  |  |  |
+| Innseiling til Lillesand (2091) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Saltholmen–Kristiansand via Randesund (2092) | Ingen FB-seilas |  |  |  |
+| Kårehausen–Ytrehausen (2094) | Ingen FB-seilas |  |  |  |
+| Vestergapet–Byfjorden (1033) | Max LOA 125 m |  | Max LOA 125 m |  |
+| Høllen (2096) | Max LOA 105 m | Max LOA 95 m | Max LOA 125 m | Max LOA 95 m |
+| Færøsund (2097) | Ingen FB-seilas |  |  |  |
+| Mannefjorden (1034) | Max LOA 125 m |  | Max LOA 125 m |  |
+| Indre led Lindesnes–Vestergapet (2095) | Ingen FB-seilas |  |  |  |
+| Våre–Øst av Langeboene (2099) | Ingen FB-seilas, jf. begrensninger for farledene 2095 og 2100 |  |  |  |
+| Lundegaardsleia (2100) | Ingen FB-seilas |  |  |  |
+| Rosfjorden (2101) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Reiarsleia (2102) | Ingen FB-seilas |  |  |  |
+| Farsund (1035) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Stolsfjorden–Flekkefjord (1040) | Max LOA 105 m | Max LOA 100 m | Max LOA 125 m | Max LOA 100 m |
+| Fedafjorden–Kvinesdal (2103) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Melkeholmsundet (2106) | Ingen FB-seilas |  |  |  |
+| Jøssingfjord (2107) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Rekefjord (2108) | Max LOA 90 m |  | Max LOA 105 m |  |
+| Svåholmsundet (2109) | Ingen FB-seilas |  |  |  |
+| Egersund (1041) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Nordresundet med Maurholmen (2110) | Max LOA 90 m |  | Max LOA 100 m |  |
+| Hellvik (2111) | Max LOA 85 m |  | Max LOA 90 m |  |
+| Sirevåg (2112) | Max LOA 90 m |  | Max LOA 110 m | Max LOA 100 m |
+| *Rogaland* |  |  |  |  |
+| Karmsundet nord for Høgevarde (1501) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Saudafjorden (1047) | Max LOA 125 m |  | Max LOA 150 m |  |
+| *Vestlandet* |  |  |  |  |
+| Stokksund–Nyleia (2170) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Lukksund (2191) | Max LOA 90 m |  | Max LOA 105 m |  |
+| Storebø (2228, 2231 og 2025 fra Grøningen/Drøna til Hundvåkoksen,) | Max LOA 105 m |  | Max LOA 125 m | Max LOA 110 m |
+| Eide (2234) | Max LOA 90 m |  | Max LOA 125 m | Max LOA 100 m |
+| Kobbeleia (2241) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Rognesundet (2252) | Max LOA 105 m |  | Max LOA 105 m |  |
+| Tjuasundet, strekningen Tjuasundet–Eikefet (2263) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Radfjorden (2264) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Vatlestraumen (1506) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Ånnelandsund (2280) | Max LOA 90 m |  | Max LOA 100 m |  |
+| Gudvangen (2304) | Max LOA 90 m |  | Max LOA 125 m |  |
+| Ytre Steinsund (1511) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Førdefjorden (2323) | Max LOA 105 m | Max LOA 90 m | Max LOA 125 m | Max LOA 110 m |
+| Florø (1518) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Nordgulen (2333) | Max LOA 105 m |  | Max LOA 135 m |  |
+| Skatestraumen (1521) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Måløysundet (1523) | Max LOA 125 m |  | Max LOA 150 m |  |
+| *Møre og Trøndelag* |  |  |  |  |
+| Flåvær – Eggesbønes (Flåværsleden 1532) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Røyrasundet (Flåværsleden 1532) | Max LOA 100 m |  | Max LOA 100 m |  |
+| Breisundet–Torvik (Flåværsleden 1532) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Linesleia (2551) og Stokksundet (Leikuleia 2544) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Lysøysundet (Leikuleia 2544) | Max LOA 90 m |  | Max LOA 105 m |  |
+| Hopsfjorden (2555) | Max LOA 125 |  | Max LOA 150 |  |
+| Grandvika–Asenleia–Buholmsråsa (1546) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Ivarsholmsleden (1556) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Dolmsundet (1151) | Max LOA 125 m |  | Max LOA 150 m |  |
+| *Nordland* |  |  |  |  |
+| Leirfjorden–Vefsnsundet (1161) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Raftsundet (1184) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Tjeldsundet (1578) | Max LOA 105 m |  | Max LOA 150 m |  |
+| Træna (2622) (gjelder innseiling) | Max LOA 95 m |  | Max LOA 105 m |  |
+| Saltstraumen (2655) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Værøy (2682) (gjelder innseiling) | Max LOA 105 m | Max LOA 90 m | Max LOA 120 m | Max LOA 105 m |
+| Moskenes (2683) (gjelder innseiling) | Max LOA 110 m |  | Max LOA 110 m |  |
+| Ballstad (2740) | Max LOA 75 m |  | Max LOA 75 m |  |
+| Gimsøystraumen (2746) | Max LOA 105 |  | Max LOA 120 |  |
+| Hopen | Max LOA 100 m |  | Max LOA 100 m |  |
+| Osan (Svolvær vestre havn) | Max LOA 125 m |  | Max LOA 150 m |  |
+| Melbu (2779) (gjelder innseilingen) | Max LOA 100 m |  | Max LOA 100 m |  |
+| Steinesjøen (2790) | Max LOA 120 m |  | Max LOA 120 m |  |
+| Steinesjøen indre havn (2790) | Max LOA 75 m |  | Max LOA 75 m |  |
+| Myre indre havn/innenfor Kartneset (2800) | Max LOA 115 m |  | Max LOA 115 m |  |
+| Andenes (2853)<br>(gjelder innseilingen) | Max LOA 75m |  | Max LOA 90 m\*\*\* |  |
+| *Troms og Finnmark* |  |  |  |  |
+| Senjahopen (2864) | Max LOA 125 m |  | Max LOA 135 m |  |
+| Husøy (2877) | Max LOA 90 m |  | Max LOA 100 m |  |
+| Sommerøy (2873) (gjelder innseilingen) | Max LOA 95 m |  | Max LOA 110 m |  |
+| Vannavalen (2911) (gjelder innseilingen) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Gjesvær (2970) (gjelder innseilingen) | Max LOA 105 m |  | Max LOA 125 m |  |
+| Skardholmen–Leirpollen (1213) | Max LOA 90 m\*\*<br>Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  | Max LOA 127 m\*\* Max dypg. 6,8 m for seilas inn<br>Max dypg. 7,2 m for seilas ut |  |
+
+\* Dersom fartøyet skyver eller sleper en eller flere gjenstander, der gjenstanden eller gjenstandene har en total lengde/bredde/dypgående lik eller mer enn en av de oppgitte.
+
+\*\* Særlige begrensninger Tanafjorden til/fra Leirpollen:
 
 1. Det må avlegges farledsbevisprøve inn og ut av Leirpollen for både klasse 1 og klasse 2.
 2. Ved seilas inn og ut av Leirpollen skal ankrene være usikret og bemannet slik at de om nødvendig kan droppes umiddelbart.
@@ -649,11 +915,117 @@ Max dypg. 7,2 m for seilas ut
 4. Ved dypgående større enn 5,5 meter må seilas inn til Leirpollen kun skje fra 1 time før høyvann til 1 time etter høyvann.
 5. Ved dypgående er større 5,5 må seilas ut av Leirpollen kun skje fra 2 timer før høyvann til høyvann.
 
+\*\*\* Dersom fartøyet er utstyrt med baugpropell.
+
 > Endret ved [forskrifter 18 des 2015 nr. 1738](forskrift/2015-12-18-1738) (i kraft 1 jan 2016), [27 des 2016 nr. 1885](forskrift/2016-12-27-1885) (i kraft 1 jan 2017 kl. 00.00), [20 sep 2017 nr. 1450](forskrift/2017-09-20-1450) (i kraft 1 okt 2017 kl. 00.00 og gjelder for fartøy som påbegynner seilas i lospliktig område etter dette tidspunkt).
 Innehaver av farledsbevis som ved ikrafttredelsen av endringsforskriften har rett til å seile i en farled hvor forskriften innfører lokale begrensninger, beholder sine rettigheter inntil farledsbeviset må fornyes neste gang. Ved fornying vil kravene i [forskrift 17. desember 2014 nr. 1808](forskrift/2014-12-17-1808) om losplikt og bruk av farledsbevis [§ 19](forskrift/2014-12-17-1808/§19) gjelde.
 
 ## Vedlegg 4. Steder med særlige frister for endelig bekreftelse av starttidspunkt for losbestilling
 
-For følgende steder kan Kystverket gi særlige frister for endelig bekreftelse av starttidspunkt:*Stedsnavn**Locode**Losstasjon*BåtsfjordNOBJFHonningsvåg*Båtsfjord Losbordingspunkt*NOZBTHonningsvågHamnbukt – PorsangerNOHBTHonningsvågSkarsvågNOSKZHonningsvågAltaNOALFHammerfestHavøysundNOHAVHammerfestFinnsnesNOFNETromsøSenjahopenNOSJHTromsøGryllefjordNOGRYTromsøTorskenNOTORTromsøSørreisaNOSRATromsøStjernøyaNOSTYTromsøAndenesNOADNLødingen*Andenes Losbordingspunkt*NOZANLødingenBallstadNOBSDLødingenFinnfjordbotnNOFFBLødingenGravdalNOGRDLødingenLeknesNOLKNLødingen*Myrflesan Ankring*NOZNYLødingenReineNOREILødingenRisøyhamnNORSHLødingenStamsundNOSUZLødingen*Svinøy Losbordingspunkt*NOXSILødingenÅ i LofotenNOAAALødingenVærøyNOVEYBodøGlomfjordNOGLOSandnessjøenHalsa MeløyNOHSASandnessjøen*Flesa Losbordingspunkt*NOXRETrondheim*Grinna Losbordingspunkt*NOZGITrondheimHestvikaNOHESTrondheimKrigsborganNOZKBTrondheim*Kråkvågfjorden Losbordingspunkt*NOZKRTrondheimKvithyllaNOKIATrondheimLysøysundNOLSUTrondheimNordfosenNONFOTrondheimNordskaget – FrøyaNONSFTrondheim*Raudøya*NOZRUTrondheim*Rekkøyråsa Losbordingspunkt*NOXRKTrondheimRørvikNORVKTrondheimSandstadNOHITTrondheimSandviksbergetNOSAITrondheimTrondheim RedenNOZTRTrondheimUthaugNOUTHTrondheimUtvordaNOUTVTrondheimValsnesetNOVAETrondheimHalsaNOHLSKristiansundNyhamnaNONYHKristiansundSmølaNOSMOKristiansundTjeldbergoddenNOTBOKristiansundVikan – SmølaNOVSMKristiansundAukraNOAUKÅlesundElnesvågenNOELNÅlesundFiskåbygd – VanylvenNOFSKÅlesundFlemNOFLMÅlesundFosnavågNOFOSÅlesundGurskenNOGURÅlesundHareidNOHRIÅlesundHjørungavågNOHJOÅlesundLiavågNOLIAÅlesundMidsundNOMIDÅlesundMjølstadnesetNOMSDÅlesundMoldeNOMOLÅlesundMoldtustrandaNOMLTÅlesundRovdeNOROVÅlesundSteinshamnNOSTHÅlesundUlsteinvikNOULSÅlesund*Vanylvsgapet Losbordingspunkt*NOZVGÅlesundVartdalNOVTLÅlesundØrstaNOORSÅlesundÅheimNOAHMÅlesundDaleNODSFFlorøHøyangerNOHYRFlorøLeirvik i HyllestadNOLEAFlorøMåløyNOMAYFlorøNordfjordeidNONFDFlorøSeljeNOSJEFlorøSogndalNOSOGFlorøVågsvågNOVVGFlorøVik – SognNOVISFedjeEidfjordNOEDFBergenFlåmNOFLABergenGudvangenNOGUDBergenGranvinNOGRVBergenLærdalNOLRDBergenJondalNOJONBergenOddaNOODDBergenOmastrandaNOOMABergenTyssedalNOTSXBergenUlvikNOUVKBergenÅrdalstangenNOARDBergenFitjarNOFITViksøyFusaNOFUSViksøyHalsnøyNOHAZViksøyHusnesNOHUSViksøyHøylandsbygdaNOHLBViksøyRosendalNORSEViksøyFiskå – StrandNOFISTanangerHjelmelandNOHJLTanangerTauNOTAUTanangerSteinvigNOSTITanangerÅrdal – HjelmelandNOARHTananger
+For følgende steder kan Kystverket gi særlige frister for endelig bekreftelse av starttidspunkt:
+
+| *Stedsnavn* | *Locode* | *Losstasjon* |
+| --- | --- | --- |
+| Båtsfjord | NOBJF | Honningsvåg |
+| *Båtsfjord Losbordingspunkt* | NOZBT | Honningsvåg |
+| Hamnbukt – Porsanger | NOHBT | Honningsvåg |
+| Skarsvåg | NOSKZ | Honningsvåg |
+| Alta | NOALF | Hammerfest |
+| Havøysund | NOHAV | Hammerfest |
+| Finnsnes | NOFNE | Tromsø |
+| Senjahopen | NOSJH | Tromsø |
+| Gryllefjord | NOGRY | Tromsø |
+| Torsken | NOTOR | Tromsø |
+| Sørreisa | NOSRA | Tromsø |
+| Stjernøya | NOSTY | Tromsø |
+| Andenes | NOADN | Lødingen |
+| *Andenes Losbordingspunkt* | NOZAN | Lødingen |
+| Ballstad | NOBSD | Lødingen |
+| Finnfjordbotn | NOFFB | Lødingen |
+| Gravdal | NOGRD | Lødingen |
+| Leknes | NOLKN | Lødingen |
+| *Myrflesan Ankring* | NOZNY | Lødingen |
+| Reine | NOREI | Lødingen |
+| Risøyhamn | NORSH | Lødingen |
+| Stamsund | NOSUZ | Lødingen |
+| *Svinøy Losbordingspunkt* | NOXSI | Lødingen |
+| Å i Lofoten | NOAAA | Lødingen |
+| Værøy | NOVEY | Bodø |
+| Glomfjord | NOGLO | Sandnessjøen |
+| Halsa Meløy | NOHSA | Sandnessjøen |
+| *Flesa Losbordingspunkt* | NOXRE | Trondheim |
+| *Grinna Losbordingspunkt* | NOZGI | Trondheim |
+| Hestvika | NOHES | Trondheim |
+| Krigsborgan | NOZKB | Trondheim |
+| *Kråkvågfjorden Losbordingspunkt* | NOZKR | Trondheim |
+| Kvithylla | NOKIA | Trondheim |
+| Lysøysund | NOLSU | Trondheim |
+| Nordfosen | NONFO | Trondheim |
+| Nordskaget – Frøya | NONSF | Trondheim |
+| *Raudøya* | NOZRU | Trondheim |
+| *Rekkøyråsa Losbordingspunkt* | NOXRK | Trondheim |
+| Rørvik | NORVK | Trondheim |
+| Sandstad | NOHIT | Trondheim |
+| Sandviksberget | NOSAI | Trondheim |
+| Trondheim Reden | NOZTR | Trondheim |
+| Uthaug | NOUTH | Trondheim |
+| Utvorda | NOUTV | Trondheim |
+| Valsneset | NOVAE | Trondheim |
+| Halsa | NOHLS | Kristiansund |
+| Nyhamna | NONYH | Kristiansund |
+| Smøla | NOSMO | Kristiansund |
+| Tjeldbergodden | NOTBO | Kristiansund |
+| Vikan – Smøla | NOVSM | Kristiansund |
+| Aukra | NOAUK | Ålesund |
+| Elnesvågen | NOELN | Ålesund |
+| Fiskåbygd – Vanylven | NOFSK | Ålesund |
+| Flem | NOFLM | Ålesund |
+| Fosnavåg | NOFOS | Ålesund |
+| Gursken | NOGUR | Ålesund |
+| Hareid | NOHRI | Ålesund |
+| Hjørungavåg | NOHJO | Ålesund |
+| Liavåg | NOLIA | Ålesund |
+| Midsund | NOMID | Ålesund |
+| Mjølstadneset | NOMSD | Ålesund |
+| Molde | NOMOL | Ålesund |
+| Moldtustranda | NOMLT | Ålesund |
+| Rovde | NOROV | Ålesund |
+| Steinshamn | NOSTH | Ålesund |
+| Ulsteinvik | NOULS | Ålesund |
+| *Vanylvsgapet Losbordingspunkt* | NOZVG | Ålesund |
+| Vartdal | NOVTL | Ålesund |
+| Ørsta | NOORS | Ålesund |
+| Åheim | NOAHM | Ålesund |
+| Dale | NODSF | Florø |
+| Høyanger | NOHYR | Florø |
+| Leirvik i Hyllestad | NOLEA | Florø |
+| Måløy | NOMAY | Florø |
+| Nordfjordeid | NONFD | Florø |
+| Selje | NOSJE | Florø |
+| Sogndal | NOSOG | Florø |
+| Vågsvåg | NOVVG | Florø |
+| Vik – Sogn | NOVIS | Fedje |
+| Eidfjord | NOEDF | Bergen |
+| Flåm | NOFLA | Bergen |
+| Gudvangen | NOGUD | Bergen |
+| Granvin | NOGRV | Bergen |
+| Lærdal | NOLRD | Bergen |
+| Jondal | NOJON | Bergen |
+| Odda | NOODD | Bergen |
+| Omastranda | NOOMA | Bergen |
+| Tyssedal | NOTSX | Bergen |
+| Ulvik | NOUVK | Bergen |
+| Årdalstangen | NOARD | Bergen |
+| Fitjar | NOFIT | Viksøy |
+| Fusa | NOFUS | Viksøy |
+| Halsnøy | NOHAZ | Viksøy |
+| Husnes | NOHUS | Viksøy |
+| Høylandsbygda | NOHLB | Viksøy |
+| Rosendal | NORSE | Viksøy |
+| Fiskå – Strand | NOFIS | Tananger |
+| Hjelmeland | NOHJL | Tananger |
+| Tau | NOTAU | Tananger |
+| Steinvig | NOSTI | Tananger |
+| Årdal – Hjelmeland | NOARH | Tananger |
 
 > Tilføyd ved [forskrift 21 des 2017 nr. 2382](forskrift/2017-12-21-2382) (i kraft 1 april 2018 kl. 00.00 og får anvendelse for fartøyer som passerer grensen for lospliktig farvann, eller nytter statslos etter dette tidspunktet).

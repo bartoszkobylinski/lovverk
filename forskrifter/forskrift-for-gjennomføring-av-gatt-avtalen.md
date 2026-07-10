@@ -46,15 +46,19 @@ Ved ikrafttredelsen 1 januar 1981 var følgende land medlemmer: Østerrike, Cana
 
 Kjøp av våpen, ammunisjon, krigsmateriell eller materiell som er uunnværlig for nasjonal sikkerhet eller nasjonalt forsvar er, i henhold til Avtalen artikkel VIII, unntatt fra Avtalen. Det samme er tilfelle for tiltak som er nødvendige for å beskytte offentlig moral, orden eller sikkerhet, menneskers, dyrs eller planters liv eller helse, immaterielle rettigheter eller tiltak som gjelder varer produsert av funksjonshemmede personer, veldedige institusjoner eller innsatte i fengsel. Forutsetningen er imidlertid at slike tiltak ikke blir brukt på en måte som kan innebære en vilkårlig eller utilbørlig diskriminering mellom land der samme betingelser rår.
 
-De etater som er oppført i vedlegg 1 til Avtalen og som den skal gjelde for, er følgende:Statens vegvesen.Statens innkjøpssentral.Statens postselskap.Rikshospitalet.Universitetet i Oslo.Politiet.Norsk Rikskringkasting.Universitetet i Trondheim.Universitetet i Bergen.Kystdirektoratet.Universitetet i Tromsø.Miljødirektoratet.Luftfartsverket.Forsvarsdepartementet. *Forsvarets Sanitet. *Luftforsvarets Forsyningskommando. *Hærens Forsyningskommando. *Sjøforsvarets Forsyningskommando. *Forsvarets Felles Materielltjeneste. *
+De etater som er oppført i vedlegg 1 til Avtalen og som den skal gjelde for, er følgende:Statens vegvesen.Statens innkjøpssentral.Statens postselskap.Rikshospitalet.Universitetet i Oslo.Politiet.Norsk Rikskringkasting.Universitetet i Trondheim.Universitetet i Bergen.Kystdirektoratet.Universitetet i Tromsø.Miljødirektoratet.Luftfartsverket.Forsvarsdepartementet. \*Forsvarets Sanitet. \*Luftforsvarets Forsyningskommando. \*Hærens Forsyningskommando. \*Sjøforsvarets Forsyningskommando. \*Forsvarets Felles Materielltjeneste. \*
 
 Regionale og lokale avdelinger for disse etater er også underlagt bestemmelsene i Avtalen.
 
-For forsvarsetater (merket med *) gjelder retningslinjene kun for innkjøp av følgende varer:
+For forsvarsetater (merket med \*) gjelder retningslinjene kun for innkjøp av følgende varer:
 
 > Endret ved [forskrifter 22 nov 1996 nr. 1082](forskrift/1996-11-22-1082), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013).
 
+*Kompletteringsmateriell:*
+
 - kontormaskiner og utstyr, møbler, undervisningsmateriell, samt sports-, velferds- og annet ikke-teknisk materiell.
+
+*Løpende forsyninger.*
 
 - Teknisk forbruksmateriell,
 - medisinsk og tannteknisk materiell og utstyr,
@@ -63,13 +67,19 @@ For forsvarsetater (merket med *) gjelder retningslinjene kun for innkjøp av f�
 - publikasjoner og
 - musikkinstrumenter.
 
+*Brenselstoffer:*
+
 - Brensel, smøreoljer og andre oljeprodukter.
+
+*Motorkjøretøyer:*
 
 - Passasjerbiler og transportkjøretøyer,
 - ambulanser,
 - brannbiler,
 - kjøretøyer til bruk i luftfartstjenesten og
 - kjøretøyer til bestemte formål.
+
+*Annet teknisk utstyr:*
 
 - Navigasjonsutstyr,
 - fallskjermsutstyr,
@@ -80,6 +90,10 @@ For forsvarsetater (merket med *) gjelder retningslinjene kun for innkjøp av f�
 - utstyr til base, verksted, hangar og depot,
 - kjemisk/radiologisk utstyr og
 - abc-sikkerhetsvern, verksteder og depoter.
+
+*Medisinske og tanntekniske instrumenter.*
+
+*Matvareforsyningsutstyr.*
 
 - Fast driftsutstyr til kjøkken, kantiner, konferanserom, matforsyningssteder og depoter.
 
@@ -99,6 +113,8 @@ På de fleste punkter er det ingen motstrid mellom Avtalen og Kjøpsforskriftene
 
 Utover Kjøpsforskriftene inneholder imidlertid Avtalen endel supplerende regler som også må ivaretas ved kjøp som også kommer inn under Avtalen. Det vises til merknader under de enkelte paragrafer hvor de viktigste supplerende regler er kommentert.
 
+*Forskriftenes § 2.*
+
 Etter Kjøpsforskriftene skal kjøp av varer og tjenester skje entenetter anbudskonkurranseetter forhandling, ellersom direkte kjøp.
 
 Etter GATT-avtalens artikkel V § 1 kan kjøp foretas etter følgende prosedyrer:Åpen anbudsinnbydelse,selektiv anbudsinnbydelse ellerenkel anbudsinnbydelse.
@@ -107,15 +123,23 @@ Det er ingen motstrid mellom Kjøpsforskriftenes og Avtalens regler når det gje
 
 Avtalen fastsetter imidlertid særskilte prosedyrer for innhenting av anbud eller tilbud. Særlig for begrenset (selektiv) anbudsinnbydelse avviker disse prosedyrer fra det som ellers gjelder etter Kjøpsforskriftene, jfr. omtale under § 8.
 
+*Forskriftenes § 3.*
+
 Ifølge Kjøpsforskriftenes § 3, 4. ledd kan kjøperen, når han finner det nødvendig, bestemme at bare anbydere med bestemte kvalifikasjoner skal kunne delta i anbudskonkurransen.
 
 Avtalen har i artikkel V § 2 bestemmelser om kvalifisering av leverandører. Foruten et generelt krav om ikke-diskriminering ved kvalifisering, inneholder Avtalen spesielle regler for kvalifiseringsprosedyrer og for føring av lister over kvalifiserte leverandører. Da slik formell godkjennelse av leverandørenes kvalifikasjoner vanligvis ikke nyttes av norske statlige etater, finner en ikke grunn til å gjengi reglene på dette punkt. Dersom en etat unntaksvis skulle ønske å foreta slik formell godkjennelse, må reglene i Avtalens artikkel V § 2 følges.
 
+*Forskriftenes § 4.*
+
 Avtalens bestemmelser om tekniske spesifikasjoner er mer detaljerte enn Kjøpsforskriftenes regler. Det vises til Avtalens artikkel IV.
+
+*Forskriftenes § 5.*
 
 Etter forskriftenes § 5, 1. ledd kan Industridepartementet i visse tilfelle bestemme at konkurransen om leveranser skal begrenses «dersom dette ikke strider mot forpliktelser i internasjonale avtaler.»
 
 Bestemmelsen gjelder også for kjøp som faller inn under Avtalen, men dog etter de regler som fremgår av Avtalen. Man viser i denne forbindelse til [punkt](forskrift/1981-11-19-8761/kap2) 2 foran (om generelle unntaksbestemmelser i avtalen) og til [punkt](forskrift/1981-11-19-8761/kap3) 3 foran (om merknaden til etatsliste i vedlegg 1).
+
+*Forskriftenes § 8.*
 
 Etter Avtalens artikkel V § 3 skal anbudsinnbydelser kunngjøres. Dette er i samsvar med hovedregelen i Kjøpsforskriftenes § 8.
 
@@ -129,23 +153,39 @@ Anbudsinnhentingen ved bruk av «selektiv anbudsprosedyre» blir tids- og arbeid
 
 Man gjør oppmerksom på den adgang som Avtalen i artikkel V § 15 åpner for direkte henvendelse til potensielle leverandører, må det utarbeides en særskilt rapport, jfr. Avtalens art. V § 16.
 
+*Forskriftenes § 9.*
+
 Stort sett er det overensstemmelse mellom Kjøpsforskriftenes § 9 og Avtalens artikkel V, § 12 når det gjelder de opplysninger som skal inngå i anbudsgrunnlaget.
 
 Ifølge Avtalen skal imidlertid anbudsgrunnlaget inneholde følgende opplysninger i tillegg til det som fremgår av Kjøpsforskriftenes § 9:Språket eller språkene som anbud og anbudsdokumenter må være avfattet på,de personer som har adgang til å være til stede ved anbudsåpningen,kriteriene for tildeling av kontrakt, herunder andre faktorer enn pris, som vil bli tatt i betraktning ved av anbudene, samt kostnadselementene som vil bli tatt med i vurderingen av anbudsprisen, slik som transport, forsikring og inspeksjonskostnader og i tilfelle av utenlandske varer, toll og andre importavgifter, skatter og betalingsvaluta.
 
+*Forskriftenes § 10.*
+
 Kjøpsforskriftene bestemmer at det skal settes en rommelig frist for innlevering av anbud. Avtalen har tilsvarende bestemmelse. Etter Avtalens artikkel V § 10 skal fristen for mottaking av anbud ved åpen og selektiv anbudskonkurranse ikke være kortere enn tredve dager fra kunngjøringsdatoen.
+
+*Forskriftenes § 15.*
 
 Etter kjøpsforskriftene skal det gis underretning til de som ikke har fått sine anbud antatt. Det fastsettes ingen frist for slik underretning. Avtalen fastsetter en frist på syv virkedager fra den dato kontrakten ble tildelt.
 
+*Forskriftenes § 17.*
+
 Hovedregelen ved kjøp etter anbudskonkurranse etter Kjøpsforskriftene er at det anbud som har lavest pris skal velges. Dette er i samsvar med Avtalens artikkel V § 14 f.
 
+*Forskriftenes §§ 18 og 19.*
+
 Innkjøpsformen «kjøp etter forhandling» kan anvendes også ved kjøps om faller inn under Avtalen, med med de tillempninger som følger av Avtalen, jfr. kommentarene til Kjøpsforskriftenes §§ 20, 21, 24 og 28 nedenfor.
+
+*Forskriftenes § 20.*
 
 Etter Kjøpsforskriftenes § 20 første ledd, skal innhenting av tilbud ved kjøp etter forhandling som regel skje ved direkte forespørsel til de aktuelle leverandører. Dette er ikke i samsvar med Avtalens regler om anbudsinnhenting. Det har derfor vært nødvendig med en tilføyelse i forskriftenes § 20 (nytt 6. ledd). Det bestemmes her at ved kjøp som kommer inn under Avtalen, skal innhenting av tilbud som regel skje ved offentlig kunngjøring.
 
 Unntak fra offentlig kunngjøring kan skje i de tilfelle som omfattes av Avtalens artikkel V § 15 henvendelse til en enkelt leverandør), eller dersom etaten bruker en liste over «kvalifiserte leverandører» som er satt opp i overensstemmelse med Avtalens artikkel V 2, jfr. kommentaren under forskriftenes § 3 ovenfor.
 
+*Forskriftenes § 21.*
+
 Etter Kjøpsforskriftenes § 21 skal det i forespørselen opplyses at offentlig åpning av de innkomne tilbud ikke vil finne sted. Dette er ikke i samsvar med Avtalens regler om anbudsåpning. Det har derfor vært nødvendig med en tilføyelse i forskriftenes § 21 som sier at denne regel ikke gjelder ved kjøp som faller inn under Avtalen.
+
+*Forskriftenes § 24.*
 
 Når det gjelder fristens lengde, vises til kommentarene til § 10.
 
@@ -153,11 +193,17 @@ For kjøp etter forhandling gjelder etter Kjøpsforskriftene ikke noen regler om
 
 Etter avtalens artikkel V § 14 d skal åpning av anbud alltid skje i bestemte former. Det har derfor vært nødvendig å tilføye en bestemmelse om dette i forskriftenes § 24. En har funnet det hensiktsmessig å bruke Avtalens egen formulering på dette punkt.
 
+*Forskriftenes § 28.*
+
 Hovedregelen ved kjøp etter forhandling etter Kjøpsforskriftene er at det ved valg av leverandør skal ta sikte på å komme frem til et mest mulig fordelaktig kjøp. Dette er i samsvar med Avtalens artikkel V § 14 f. Etter kjøpsforskriftene skal det ved vurderingen tas hensyn til pris, kvalitet og andre omstendigheter som kan være av betydning for spørsmålet, som hensynet til drifts- og vedlikeholdskostnader m.v. Etter Avtalen skal man velge enten «det laveste anbud eller det anbud som i henhold til de særlige vurderingskriterier som er nevnt i kunngjøringene eller anbudsdokumentasjonen finnes å være det mest fordelaktige.» Etatene må således, ved kjøp som faller inn under Avtalen, holde seg til de vurderingskriterier som er nevnt i kunngjøringene eller i anbudsdokumentasjonen. Dette betyr at etatene må være særlig oppmerksomme ved utformingen av kunngjøringen og anbudsdokumentasjonen slik at alle de vurderingskriterier som kan tenkes å ville bli tillagt vekt, blir tatt med.
+
+*Forskriftenes § 30.*
 
 I prinsippet kan direkte kjøp nyttes også ved kjøp som går inn under Avtalen, jfr. Avtalens artikkel V § 15. Da Avtalen bare får anvendelse på kjøp med en kontraktsverdi på SDR 150.000 eller mer, vil imidlertid de fleste direkte kjøp falle utenfor avtalen.
 
 Etatene skal utarbeide en skriftlig rapport om hvert innkjøp som foretas etter reglene i Avtalens artikkels V § 15, jfr. artikkel V § 16.
+
+*Forskriftenes § 44.*
 
 Forsknings- og utviklingskontrakter faller utenfor Avtalen, da Avtalen ikke omfatter tjenester. Dette gjelder også for begrenset produksjon av en ny vare for å innarbeide resultatene av undersøkelser på området og for å vise at varen egner seg for masseproduksjon til akseptable kvalitetskrav. Unntaket omfatter ikke masseproduksjon for å oppnå kommersiell lønnsomhet eller for å dekke forsknings- eller utviklingskostnader. Det vises til [punkt](forskrift/1981-11-19-8761/kap2) 2 foran og til fotnote til Avtalens artikkel V § 15 e.
 
@@ -168,3 +214,5 @@ Artikkel VI i Avtalen inneholder bestemmelser om plikt til å gi opplysninger sl
 Etatene skal føre statistikk over sine innkjøp. Innen den 1. mai hvert år skal etatene sende statistikk for det foregående år til den myndighet som Industridepartementet bestemmer. Statistikken skal omfatteverdien av tildelte kontrakter over og under terskelverdien,antall og total verdi av tildelte kontrakter over terskelverdien, fordelt på 26 varekategorier og varens opprinnelsesland.1det totale antall og verdien av de kontrakter som er tildelt under hvert av tilfellene i avtalens artikkel V § 15 (gjelder bruk av anbudsinnbydelse til en enkelt leverandør).
 
 Det vil bli utarbeidet et skjema som etatene skal bruke ved rapporteringen.
+
+1 Opprinnelsesland er for råvarer det land hvor varen er produsert, og for bearbeidede (herunder raffinerte) varer det land hvor varen har fått den for som den har ved innkjøpet. Ompakking, sortering og blanding blir ikke regnet som bearbeiding (unntatt blanding av te). Biler satt sammen ved samlefabrikk blir regnet som produsert i det land sammensetningen foregår.

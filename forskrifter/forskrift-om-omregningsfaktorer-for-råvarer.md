@@ -36,23 +36,59 @@ eu_basis: []
 
 ## § 2. Omregningsfaktorer for varer omfattet av tollkvote for karbohydratråvarer til kraftfôr
 
-Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôrråvare sammenlignet med bygg*Karbohydratråvare**Omregningsfaktor*Fôrhvete108,0Fôrrug98,5Mais107,1Durra103,3Maisgrits110,0Lusernemel73,4Glyserol92,3Rørmelasse65,0Kli eller lignende av mais110,0Hvetekli95,0Roesnitter80,4Ertestivelse108,9Erteskall83,7Erteavsikt114,7Erter123,5Stivelseskonsentrat av faba-/hestebønner116,9Palmekjerneekspeller91,6
+Omregningsfaktoren er satt i forhold til den fôrverdien varen har som kraftfôrråvare sammenlignet med bygg
+
+| *Karbohydratråvare* | *Omregningsfaktor* |
+| --- | --- |
+| Fôrhvete | 108,0 |
+| Fôrrug | 98,5 |
+| Mais | 107,1 |
+| Durra | 103,3 |
+| Maisgrits | 110,0 |
+| Lusernemel | 73,4 |
+| Glyserol | 92,3 |
+| Rørmelasse | 65,0 |
+| Kli eller lignende av mais | 110,0 |
+| Hvetekli | 95,0 |
+| Roesnitter | 80,4 |
+| Ertestivelse | 108,9 |
+| Erteskall | 83,7 |
+| Erteavsikt | 114,7 |
+| Erter | 123,5 |
+| Stivelseskonsentrat av faba-/hestebønner | 116,9 |
+| Palmekjerneekspeller | 91,6 |
 
 > Endret ved [forskrifter 25 nov 2009 nr. 1401](forskrift/2009-11-25-1401), [19 aug 2011 nr. 857](forskrift/2011-08-19-857), [29 juni 2016 nr. 843](forskrift/2016-06-29-843) (i kraft 1 juli 2016), [15 aug 2017 nr. 1254](forskrift/2017-08-15-1254) (i kraft 1 sep 2017), [26 juni 2018 nr. 1078](forskrift/2018-06-26-1078) (i kraft 1 juli 2018), [28 jan 2020 nr. 126](forskrift/2020-01-28-126) (i kraft 1 feb 2020), [21 des 2022 nr. 2415](forskrift/2022-12-21-2415) (i kraft 1 jan 2023).
 
 ## § 3. Omregningsfaktorer for varer omfattet av tollkvote for matkorn
 
-Omregningsfaktoren er satt i forhold til den verdien varen har som matkorn sammenlignet med mathvete.*Matkorn**Omregningsfaktor*Durumhvete100
+Omregningsfaktoren er satt i forhold til den verdien varen har som matkorn sammenlignet med mathvete.
+
+| *Matkorn* |  | *Omregningsfaktor* |
+| --- | --- | --- |
+| Durumhvete |  | 100 |
 
 > Endret ved forskrift [21 des 2022 nr. 2415](forskrift/2022-12-21-2415) (i kraft 1 jan 2023).
 
 ## § 4. Omregningsfaktorer for oljefrø
 
-Omregningsfaktoren er satt i forhold til den verdien varen har som kraftfôrråvare sammenlignet med rapsfrø.*Oljefrø**Omregningsfaktor*Soyabønner115
+Omregningsfaktoren er satt i forhold til den verdien varen har som kraftfôrråvare sammenlignet med rapsfrø.
+
+| *Oljefrø* | *Omregningsfaktor* |
+| --- | --- |
+| Soyabønner | 115 |
 
 ## § 5. Omregningsfaktorer for fett til kraftfôr
 
-Omregningsfaktoren er satt i forhold til den fôrverdi varen har som kraftfôrråvare sammenlignet med bygg.*Fettråvare**Omregningsfaktor*Rapsolje275Animalske og vegetabilske fettstoffer275Fettprodukter (kapittel 23 i tolltariffen)275Stearinsyre250Andre fettsyrer250
+Omregningsfaktoren er satt i forhold til den fôrverdi varen har som kraftfôrråvare sammenlignet med bygg.
+
+| *Fettråvare* | *Omregningsfaktor* |
+| --- | --- |
+| Rapsolje | 275 |
+| Animalske og vegetabilske fettstoffer | 275 |
+| Fettprodukter (kapittel 23 i tolltariffen) | 275 |
+| Stearinsyre | 250 |
+| Andre fettsyrer | 250 |
 
 > Endret ved [forskrifter 29 juni 2016 nr. 843](forskrift/2016-06-29-843) (i kraft 1 juli 2016), [27 nov 2018 nr. 1769](forskrift/2018-11-27-1769).
 
@@ -60,7 +96,22 @@ Omregningsfaktoren er satt i forhold til den fôrverdi varen har som kraftfôrr�
 
 Soyamel med 46 prosent protein er basis referansevare for proteinkraftfôr. Grunnlaget for beregning av referanseprisen for soyamel fremgår av jordbruksavtalen. Modellen for fastsetting av referansepriser for proteinråvarer utarbeides av Landbruksdirektoratet og skal gi en referansepris i samsvar med den verdi varen har som energi- og proteinråvare i kraftfôr til husdyr.
 
-Det fastsettes referansepriser for følgende proteinråvarer:*Proteinråvare**Proteininnhold*Erteprotein50Fiskemel71Hvetegluten78Lupiner38Maisglutenmel60Potetprotein75Rapsmel, ekstrahert35Solsikkemel45Åkerbønner28Mesk (Distiller’s Dried Grain with Solubles)30Høyprotein soyamel56Risprotein50
+Det fastsettes referansepriser for følgende proteinråvarer:
+
+| *Proteinråvare* | *Proteininnhold* |
+| --- | --- |
+| Erteprotein | 50 |
+| Fiskemel | 71 |
+| Hvetegluten | 78 |
+| Lupiner | 38 |
+| Maisglutenmel | 60 |
+| Potetprotein | 75 |
+| Rapsmel, ekstrahert | 35 |
+| Solsikkemel | 45 |
+| Åkerbønner | 28 |
+| Mesk (Distiller’s Dried Grain with Solubles) | 30 |
+| Høyprotein soyamel | 56 |
+| Risprotein | 50 |
 
 > Endret ved [forskrifter 25 nov 2009 nr. 1401](forskrift/2009-11-25-1401), [18 juni 2014 nr. 847](forskrift/2014-06-18-847) (i kraft 1 juli 2014), [26 juni 2018 nr. 1078](forskrift/2018-06-26-1078) (i kraft 1 juli 2018), [29 jan 2021 nr. 275](forskrift/2021-01-29-275) (i kraft 1 feb 2021), [28 juni 2021 nr. 2310](forskrift/2021-06-28-2310) (i kraft 1 juli 2021).
 

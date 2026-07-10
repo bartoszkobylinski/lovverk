@@ -47,3 +47,5 @@ Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tils
 Loven gjelder fra den tid Kongen bestemmer.1
 
 Gjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs2 gjelder også etter at loven har trådt i kraft.
+
+1 Fra 1 juni 2017 iflg. [res. 22 mai 2017 nr. 616](forskrift/2017-05-22-616).2 [Forskrift 26 feb 2016 nr. 204](forskrift/2016-02-26-204).

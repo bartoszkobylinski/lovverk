@@ -40,7 +40,14 @@ Avløser skal være minst 16 år og kan ikke ha næringsinntekt i siidaandelen e
 
 ## § 4. Satser for tilskudd
 
-Tilskuddet kan ytes per dag med avløsning på grunnlag av rein som er slaktet og rapportert i samsvar med [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Tilskuddet ytes etter følgende satser:*Sats**Slakteuttak (kilo)**Tilskudd per dag (kroner)*1500–9991 20021 000–2 4991 50032 500–4 9992 00045 000 og over2 700
+Tilskuddet kan ytes per dag med avløsning på grunnlag av rein som er slaktet og rapportert i samsvar med [forskrift om rapportering av slaktet rein og lagerbeholdning](forskrift/2011-06-21-617). Tilskuddet ytes etter følgende satser:
+
+| *Sats* | *Slakteuttak (kilo)* | *Tilskudd per dag (kroner)* |
+| --- | --- | --- |
+| 1 | 500–999 | 1 200 |
+| 2 | 1 000–2 499 | 1 500 |
+| 3 | 2 500–4 999 | 2 000 |
+| 4 | 5 000 og over | 2 700 |
 
 ## § 5. Begrensinger i tilskuddet
 

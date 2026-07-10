@@ -1170,14 +1170,26 @@ Før klokken 21 på valgdagen er det ikke tillatt ågi ut informasjon om eller o
 
 (2) Kongen kan sette i kraft og oppheve de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 mai 2024, med unntak av endringene i [partiloven § 3](lov/2005-06-17-102/§3), [§ 4](lov/2005-06-17-102/§4) og [§ 9](lov/2005-06-17-102/§9) i [valgloven § 22-2](lov/2023-06-16-62/§22-2) nr. 3, iflg. [res. 22 mars 2024 nr. 553](forskrift/2024-03-22-553).
+
 ### § 22-2. Endringer i andre lover
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:
 
+– – –
+
+**3.** I [lov 17. juni 2005 nr. 102 om visse forhold vedrørende de politiske partiene](lov/2005-06-17-102) gjøres følgende endringer:
+
+– – –
+
+[§ 3 andre ledd bokstav d](lov/2005-06-17-102/§3/ledd/2/bokstav/d) skal lyde:
+
 1. erklæring fra minst 10 000 personer som har stemmerett ved stortingsvalg, om at de ønsker partinavnet registrert. Den som avgir erklæring, må ha nådd stemmerettsalderen innen utløpet av det kalenderår søknaden fremsettes. Settes søknaden frem mindre enn ett år før et valg, er det tilstrekkelig at stemmerettsalderen er nådd innen utløpet av valgåret. Av erklæringen skal fremgå navnet, fødselsdatoen og adressen til den som har avgitt den. Erklæringen skal være underskrevet og datert av den som har avgitt den. Ingen erklæring skal være mer enn ett år eldre enn søknaden.
 
-(1) Et registrert politisk parti kan søke om å få endre det registrerte partinavnet. Bestemmelsene i [§ 3](lov/2005-06-17-102/§3) gjelder tilsvarende. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å endre navnet på partiet. Hvis partiet fikk minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i [§ 3 annet ledd bokstav d](lov/2005-06-17-102/§3/ledd/2/bokstav/d).
+[§ 4](lov/2005-06-17-102/§4) skal lyde:
 
-(2) Hvis to eller flere registrerte partier slår seg sammen og søker registrering under et nytt navn, anses det for søknad om navneendring. Til erstatning for stiftelsesprotokoll skal det legges ved protokoll fra det møtet hvor det ble vedtatt å slå partiene sammen og søke registrering under et nytt navn. Hvis ett av partiene fikk minst 5 000 stemmer i hele landet ved siste stortingsvalg, gjelder ikke vilkårene i [§ 3 annet ledd bokstav d](lov/2005-06-17-102/§3/ledd/2/bokstav/d).
+[§ 9](lov/2005-06-17-102/§9) nytt andre punktum skal lyde:
 
 Departementet kan også gi forskrift om krav til elektronisk underskrift på erklæringer om ønske om registrering av partinavn etter [§ 3](lov/2005-06-17-102/§3) og om endring av registrert partinavn etter [§ 4](lov/2005-06-17-102/§4) gjennom en godkjent elektronisk løsning.
+
+– – –

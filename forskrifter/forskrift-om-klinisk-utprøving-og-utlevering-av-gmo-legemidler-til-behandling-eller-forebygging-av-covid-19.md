@@ -40,6 +40,22 @@ Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg II k
 av 15. juli 2020
 om gjennomføring av kliniske utprøvinger og utlevering av legemidler for mennesker som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av koronavirussykdom (covid-19)
 
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 114 og artikkel 168 nr. 4 bokstav c),
+
+under henvisning til forslag fra Europakommisjonen,
+
+etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
+
+etter samråd med Den europeiske økonomiske og sosiale komité,
+
+etter samråd med Regionkomiteen,
+
+etter den ordinære regelverksprosedyren1 og
+
+ut fra følgende betraktninger:
+
 1. Koronavirussykdom (covid-19) er en infeksjonssykdom forårsaket av et nylig oppdaget koronavirus. Den 30. januar 2020 erklærte Verdens helseorganisasjon (WHO) sykdomsutbruddet som en alvorlig hendelse av betydning for internasjonal folkehelse. Den 11. mars 2020 klassifiserte WHO covid-19 som en pandemi.
 2. I henhold til europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083)2 og europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726)3 skal søknader om tillatelse til å bringe et legemiddel i omsetning i en medlemsstat eller i Unionen ledsages av dokumentasjon som inneholder resultatene av kliniske utprøvinger som er gjennomført med legemiddelet.
 3. Det følger av europaparlaments- og rådsdirektiv [2001/20/EF](eu/32001l0020)4 at sponsorer, før en klinisk utprøving starter, skal søke om tillatelse fra vedkommende myndighet i medlemsstaten der den kliniske utprøvingen skal gjennomføres. Formålet med tillatelsen er å beskytte forsøkspersonenes rettigheter, sikkerhet og velferd og å sikre at dataene som framkommer i den kliniske utprøvingen, er pålitelige og robuste.
@@ -67,31 +83,47 @@ om gjennomføring av kliniske utprøvinger og utlevering av legemidler for menne
 25. På bakgrunn av sakens hastende karakter ble det ansett som hensiktsmessig å fastsette et unntak fra åtteukersperioden nevnt i artikkel 4 i protokoll nr. 1 om nasjonalforsamlingenes rolle i Den europeiske union vedlagt traktaten om Den europeiske union, traktaten om Den europeiske unions virkemåte og traktaten om opprettelse av Det europeiske atomenergifellesskap.
 26. Ettersom målene for denne forordningen, som er å sikre at kliniske utprøvinger med utprøvingspreparater som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19 kan starte uten opphold, og å presisere hvordan artikkel 5 nr. 1 og 2 i direktiv [2001/83/EF](eu/32001l0083) og artikkel 83 nr. 1 i forordning [(EF) nr. 726/2004](eu/32004r0726) anvendes på legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19 bør denne forordningen på grunn av sakens hastende karakter tre i kraft dagen etter at den er kunngjort i Den europeiske unions tidende.
 
+1 Europaparlamentets holdning av 10. juli 2020 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 14. juli 2020.
+
+2 Europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) av 6. november 2001 om innføring av et fellesskapsregelverk for legemidler for mennesker (EFT L 311 av 28.11.2001, s. 67).
+
+3 Europaparlaments- og rådsforordning [(EF) nr. 726/2004](eu/32004r0726) av 31. mars 2004 om fastsettelse av framgangsmåter i Fellesskapet for godkjenning og overvåking av legemidler for mennesker og veterinærpreparater og om opprettelse av et europeisk legemiddelkontor (EUT L 136 av 30.4.2004, s. 1).
+
+4 Europaparlaments- og rådsdirektiv [2001/20/EF](eu/32001l0020) av 4. april 2001 om tilnærming av medlemsstatenes lover og forskrifter om bruk av god klinisk praksis ved gjennomføring av kliniske prøvinger av legemidler for mennesker (EFT L 121 av 1.5.2001, s. 34).
+
+5 Europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018) av 12. mars 2001 om utsetting i miljøet av genmodifiserte organismer og om oppheving av rådsdirektiv [90/220/EØF](eu/31990l0220*) (EFT L 106 av 17.4.2001, s. 1).
+
+6 Europaparlaments- og rådsdirektiv [2009/41/EF](eu/32009l0041) av 6. mai 2009 om innesluttet bruk av genmodifiserte mikroorganismer (EUT L 125 av 21.5.2009, s. 75).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 I denne forordningen menes med«klinisk utprøving» en klinisk utprøving som definert i artikkel 2 bokstav a) i direktiv [2001/20/EF](eu/32001l0020),«sponsor» en sponsor som definert i artikkel 2 bokstav e) i direktiv [2001/20/EF](eu/32001l0020),«utprøvingspreparat» et utprøvingspreparat som definert i artikkel 2 bokstav d) i direktiv [2001/20/EF](eu/32001l0020),«legemiddel» et legemiddel som definert i artikkel 1 nr. 2 i direktiv [2001/83/EF](eu/32001l0083),«genmodifisert organisme» eller «GMO» en genmodifisert organisme som definert i artikkel 2 nr. 2 i direktiv [2001/18/EF](eu/32001l0018).
 
 ### Artikkel 2
 
-1. Aktiviteter knyttet til gjennomføring av kliniske utprøvinger, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon, utlevering, administrering eller bruk av utprøvingspreparater for mennesker som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, med unntak av framstilling av utprøvingspreparatene, krever ikke en forutgående miljørisikovurdering eller tillatelse i samsvar med artikkel 6–11 i direktiv [2001/18/EF](eu/32001l0018) eller artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) dersom disse aktivitetene er knyttet til gjennomføring av en klinisk utprøving som det er gitt tillatelse til i samsvar med direktiv [2001/20/EF](eu/32001l0020).
+1\. Aktiviteter knyttet til gjennomføring av kliniske utprøvinger, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon, utlevering, administrering eller bruk av utprøvingspreparater for mennesker som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, med unntak av framstilling av utprøvingspreparatene, krever ikke en forutgående miljørisikovurdering eller tillatelse i samsvar med artikkel 6–11 i direktiv [2001/18/EF](eu/32001l0018) eller artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) dersom disse aktivitetene er knyttet til gjennomføring av en klinisk utprøving som det er gitt tillatelse til i samsvar med direktiv [2001/20/EF](eu/32001l0020).
 
-2. Sponsorer skal treffe egnede tiltak for å minimere forutsigbare negative miljøvirkninger som følge av tilsiktet eller utilsiktet utslipp av utprøvingspreparatet i miljøet.
+2\. Sponsorer skal treffe egnede tiltak for å minimere forutsigbare negative miljøvirkninger som følge av tilsiktet eller utilsiktet utslipp av utprøvingspreparatet i miljøet.
 
-3. Som unntak fra artikkel 6 nr. 2 bokstav a) i forordning [(EF) nr. 726/2004](eu/32004r0726) og fra nr. 1.6 fjerde ledd annet strekpunkt i del I i vedlegg I til direktiv [2001/83/EF](eu/32001l0083) skal det ikke kreves at søkere i søknader om markedsføringstillatelse for legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19 vedlegger en kopi av vedkommende myndighets skriftlige tillatelse til utsetting i miljøet av genmodifiserte organismer for forsknings- og utviklingsformål i samsvar med del B i direktiv [2001/18/EF](eu/32001l0018).
+3\. Som unntak fra artikkel 6 nr. 2 bokstav a) i forordning [(EF) nr. 726/2004](eu/32004r0726) og fra nr. 1.6 fjerde ledd annet strekpunkt i del I i vedlegg I til direktiv [2001/83/EF](eu/32001l0083) skal det ikke kreves at søkere i søknader om markedsføringstillatelse for legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19 vedlegger en kopi av vedkommende myndighets skriftlige tillatelse til utsetting i miljøet av genmodifiserte organismer for forsknings- og utviklingsformål i samsvar med del B i direktiv [2001/18/EF](eu/32001l0018).
 
 ### Artikkel 3
 
-1. Artikkel 6–11 og 13–24 i direktiv [2001/18/EF](eu/32001l0018) samt artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) får ikke anvendelse på aktiviteter knyttet til utlevering og bruk av legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon eller administrering, med unntak av framstilling av legemidlene, i følgende tilfeller:Dersom en medlemsstat har unntatt slike legemidler fra bestemmelsene i direktiv [2001/83/EF i](eu/32001l0083) henhold til artikkel 5 nr. 1 i nevnte direktiv.Dersom en medlemsstat har gitt midlertidig tillatelse til slike legemidler i henhold til artikkel 5 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).Dersom en medlemsstat gjør slike legemidler tilgjengelig i henhold til artikkel 83 nr. 1 i forordning [(EF) nr. 726/2004](eu/32004r0726).
+1\. Artikkel 6–11 og 13–24 i direktiv [2001/18/EF](eu/32001l0018) samt artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041) får ikke anvendelse på aktiviteter knyttet til utlevering og bruk av legemidler som inneholder eller består av genmodifiserte organismer, til behandling eller forebygging av covid-19, herunder emballering og merking, oppbevaring, transport, destruksjon, kassering, distribusjon eller administrering, med unntak av framstilling av legemidlene, i følgende tilfeller:Dersom en medlemsstat har unntatt slike legemidler fra bestemmelsene i direktiv [2001/83/EF i](eu/32001l0083) henhold til artikkel 5 nr. 1 i nevnte direktiv.Dersom en medlemsstat har gitt midlertidig tillatelse til slike legemidler i henhold til artikkel 5 nr. 2 i direktiv [2001/83/EF](eu/32001l0083).Dersom en medlemsstat gjør slike legemidler tilgjengelig i henhold til artikkel 83 nr. 1 i forordning [(EF) nr. 726/2004](eu/32004r0726).
 
-2. Dersom det er mulig, skal medlemsstatene treffe egnede tiltak for å minimere forutsigbare negative miljøvirkninger som følge av tilsiktet eller utilsiktet utslipp av legemiddelet i miljøet.
+2\. Dersom det er mulig, skal medlemsstatene treffe egnede tiltak for å minimere forutsigbare negative miljøvirkninger som følge av tilsiktet eller utilsiktet utslipp av legemiddelet i miljøet.
 
 ### Artikkel 4
 
-1. Denne forordningen får anvendelse så lenge WHO klassifiserer covid-19 som en pandemi, eller så lenge en gjennomføringsrettsakt der Kommisjonen anerkjenner situasjonen som en folkehelsekrise forårsaket av covid-19 i samsvar med artikkel 12 i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*)7, får anvendelse.
+1\. Denne forordningen får anvendelse så lenge WHO klassifiserer covid-19 som en pandemi, eller så lenge en gjennomføringsrettsakt der Kommisjonen anerkjenner situasjonen som en folkehelsekrise forårsaket av covid-19 i samsvar med artikkel 12 i europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*)7, får anvendelse.
 
-2. Når vilkårene for anvendelse av denne forordningen nevnt i nr. 1 ikke lenger er oppfylt, skal Kommisjonen offentliggjøre en melding om dette i Den europeiske unions tidende.
+2\. Når vilkårene for anvendelse av denne forordningen nevnt i nr. 1 ikke lenger er oppfylt, skal Kommisjonen offentliggjøre en melding om dette i Den europeiske unions tidende.
 
-3. Kliniske utprøvinger som omfattes av artikkel 2 i denne forordningen, og som det er gitt tillatelse til i henhold til direktiv [2001/20/EF](eu/32001l0020) før offentliggjøringen av meldingen nevnt i nr. 2 i denne artikkelen, kan fortsette med gyldig virkning og brukes som støtte for en søknad om markedsføringstillatelse i fravær av en miljørisikovurdering eller tillatelse i samsvar med artikkel 6–11 i direktiv [2001/18/EF](eu/32001l0018) eller artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041).
+3\. Kliniske utprøvinger som omfattes av artikkel 2 i denne forordningen, og som det er gitt tillatelse til i henhold til direktiv [2001/20/EF](eu/32001l0020) før offentliggjøringen av meldingen nevnt i nr. 2 i denne artikkelen, kan fortsette med gyldig virkning og brukes som støtte for en søknad om markedsføringstillatelse i fravær av en miljørisikovurdering eller tillatelse i samsvar med artikkel 6–11 i direktiv [2001/18/EF](eu/32001l0018) eller artikkel 4–13 i direktiv [2009/41/EF](eu/32009l0041).
+
+7 Europaparlaments- og rådsbeslutning nr. [1082/2013/EU](eu/32013d1082*) av 22. oktober 2013 om alvorlige, tverrnasjonale helsetrusler og om oppheving av beslutning nr. [2119/98/EF](eu/31998d2119) (EUT L 293 av 5.11.2013, s. 1).
 
 ### Artikkel 5
 
@@ -101,4 +133,10 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 Utferdiget i Brussel 15. juli 2020.
 
-*For Europaparlamentet**For Rådet*D. M. SassoliJ. Kloeckner*President**Formann*
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| D. M. Sassoli | J. Kloeckner |
+|  |  |
+| *President* | *Formann* |

@@ -36,6 +36,8 @@ Kontrollen med at denne lov blir overholdt, skal føres av det tilsyn som er opr
 
 Dersom politiet, skibskontrollen, havne- eller tollvesenet blir kjent med noen overtredelse av denne lov, skal disse myndigheter straks melde dette til nærmeste tilsyn.
 
+1 Inkurie: Loven er opphevet, se [arbeidsmiljøloven](lov/2005-06-17-62).
+
 ## § 3.
 
 Avskiber eller avsender som overtrer bestemmelsene i [§ 1](lov/1932-04-22-1/§1) eller de forskrifter departementet gir i medhold av nevnte paragraf, straffes med bøter.

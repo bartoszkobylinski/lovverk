@@ -98,6 +98,8 @@ Denne forskrift trer i kraft samtidig med at EØS-avtalen trer i kraft i Norge.
 
 ## Vedlegg I. Ekstraksjonsmidler som kan brukes til alle formål i samsvar med god produksjonspraksis1
 
+Ekstraksjonsmiddel:
+
 - Propan
 - Butan
 - Etylacetat
@@ -108,14 +110,75 @@ Denne forskrift trer i kraft samtidig med at EØS-avtalen trer i kraft i Norge.
 
 > Endret ved [forskrift 8 mars 1999 nr. 295](forskrift/1999-03-08-295).
 
+1 Et ekstraksjonsmiddel blir vurdert å være i samsvar med god produksjonspraksis så lenge bruken bare medfører tilstedeværelse/innhold av teknisk uungåelige restmengder eller omdannelsesprodukter som ikke vil representere noen helsefare.
+
+2 Bruken av aceton ved raffinering av olje fra pressrester av oliven er forbudt.
+
 ## Vedlegg II. Ekstraksjonsmidler med spesifiserte bruksområder.
+
+| *Navn* | *Bruksområde (kortfattet beskrivelse av ekstraksjonen)* | *Maksimale grenseverdier for restmengder i næringsmiddel eller næringsmiddelingrediens* |
+| --- | --- | --- |
+| Heksan1 | Fremstilling eller fraksjonering av fett og oljer, samt fremstilling av kakaosmør | 1 mg/kg i fett, oljer eller kakaosmør |
+|  | Bearbeiding av proteinprodukter og fettfritt mel | 10 mg/kg i næringsmidler som inneholder proteinprodukter og fettfritt mel |
+|  | Bearbeiding av fettfri kornkim | 5 mg/kg i fettfri kornkim |
+|  | Fettfrie soyaprodukter | 30 mg/kg i det soyaprodukt som frambys den endelige forbruker |
+| 2-metyloksolan | Framstilling eller fraksjonering av fett og oljer samt framstilling av kakaosmør | 1 mg/kg i fett, olje eller kakaosmør |
+|  | Tilberedning av avfettede proteinprodukter og avfettet mel | 10 mg/kg i næringsmidler som inneholder avfettede proteinprodukter og avfettet mel<br>30 mg/kg i avfettede soyaprodukter som selges til sluttforbrukere |
+|  | Tilberedning av avfettede kornkimer | 5 mg/kg i avfettede kornkimer |
+| Metylacetat | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 20 mg/kg kaffe eller te |
+|  | Fremstilling av sukker fra melasse | 1 mg/kg sukker |
+| Metyletyl-keton2 | Fraksjonering av fett og oljer | 5 mg/kg i fett eller oljer |
+|  | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 20 mg/kg kaffe eller te |
+| Diklormetan | Fjerning av koffein, irriterende stoffer og bitterstoffer fra kaffe og te | 2 mg/kg i brent kaffe og 5 mg/kg i brent kaffe og te |
+| Metanol | Alle bruksområder | 10 mg/kg |
+| 2-propanol | Alle bruksområder | 10 mg/kg |
+| Dimetylether | Tilberedning av avfettede animalske proteinprodukter, herunder gelatin3 | 0,009 mg/kg i avfettede animalske proteinprodukter, herunder gelatin |
+| Dimetylether | Tilberedning av kollagen4 og kollagenderivater, unntatt gelatin | 3 mg/kg i kollagen og kollagenderivater, unntatt gelatin |
+
+1 Heksan er en handelsvare som hovedsakelig inneholder asykliske mettede hydrokarboner med 6 karbonatomer og som destillerer mellom 64 °C og 70 °C.
+
+2 Innholdet av n-heksan i dette ekstraksjonsmidlet må ikke overskride 50 mg/kg. Det er forbudt å bruke ekstraksjonsmidlet i kombinasjon med heksan.
+
+3 Med «gelatin» menes naturlig, løselig protein, geldannende eller ikke geldannende, som er framkommet ved delvis hydrolyse av kollagen framstilt av bein, huder og skinn samt sener fra dyr, i samsvar med de relevante kravene i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+
+4 Med «kollagen» menes et proteinbasert produkt som kommer fra dyrebein, -huder og -skinn samt dyresener som er framstilt i samsvar med de relevante kravene i denne forordning.
 
 > Endret ved [forskrifter 30 juni 1994 nr. 830](forskrift/1994-06-30-830), [8 mars 1999 nr. 295](forskrift/1999-03-08-295), [2 mai 2011 nr. 434](forskrift/2011-05-02-434), [6 feb 2017 nr. 121](forskrift/2017-02-06-121), [28 sep 2023 nr. 1540](forskrift/2023-09-28-1540).
 
 ## Vedlegg III. Ekstraksjonsmidler med spesifiserte bruksområder
 
+| Navn | Maksimale grenseverdier for restmengder i næringsmiddel ved bruk av ekstraksjonsmidler i fremstillingen av aromatstoffer fra naturlig aromagivende produkter |
+| --- | --- |
+| Dietyleter | 2 mg/kg |
+| Heksan | 1 mg/kg |
+| 2-metyloksolan | 1 mg/kg |
+| Cykloheksan | 1 mg/kg |
+| Metylacetat | 1 mg/kg |
+| 1-butanol | 1 mg/kg |
+| 2-butanol | 1 mg/kg |
+| Metyletylketon | 1 mg/kg1 |
+| Diklormetan | 0,02 mg/kg1 |
+| 1-propanol | 1 mg/kg |
+| 1,1,1,2- tetrafluoretan2 | 0,02 mg/kg |
+| Metanol | 1,5 mg/kg |
+| 2-Propanol | 1 mg/kg |
+
+1 Kombinert anvendelse av disse to ekstraksjonsmidler er forbudt.
+
+2 Dette ekstraksjonsmidlet skal resirkuleres fullstendig ved bruk, slik at det ikke påvirker den globale oppvarmingen av atmosfæren.
+
 > Endret ved [forskrifter 30 juni 1994 nr 830](forskrift/1994-06-30-830), [4 des 1995 nr. 1186](forskrift/1995-12-04-1186), [8 mars 1999 nr. 295](forskrift/1999-03-08-295), [2 mai 2011 nr. 434](forskrift/2011-05-02-434), [28 sep 2023 nr. 1540](forskrift/2023-09-28-1540).
 
 ## Vedlegg IV. Spesifikke renhetskriterier for ekstraksjonsmidlene oppført i [vedlegg I](forskrift/1993-12-21-1380/vedleggI)
+
+|  |  |
+| --- | --- |
+| 2-metyloksolan |  |
+| CAS-nummer | 96-47-9 |
+| Innhold | Ikke under 99,9 % på tørrstoffbasis |
+| Renhet |  |
+| Furan | Ikke over 50 mg/kg (på tørrstoffbasis) |
+| 2-metylfuran | Ikke over 500 mg/kg (på tørrstoffbasis) |
+| Etanol | Ikke over 450 mg/kg (på tørrstoffbasis) |
 
 > Tilføyd ved forskrift [28 sep 2023 nr. 1540](forskrift/2023-09-28-1540).

@@ -44,6 +44,8 @@ Satsen for overproduksjonsavgift for mjølk er 490 øre pr. liter kumjølk og 49
 
 > Endra ved [forskrifter 26 sep 2001 nr. 1125](forskrift/2001-09-26-1125), [14 des 2001 nr. 1457](forskrift/2001-12-14-1457) (i kraft 1 jan 2002), [25 juni 2003 nr. 785](forskrift/2003-06-25-785) (i kraft 1 juli 2003), [16 des 2003 nr. 1585](forskrift/2003-12-16-1585) (i kraft 1 jan 2004), [21 des 2006 nr. 1597](forskrift/2006-12-21-1597) (i kraft 1 jan 2007), [23 des 2011 nr. 1502](forskrift/2011-12-23-1502) (i kraft 1 jan 2012), [21 des 2015 nr. 1809](forskrift/2015-12-21-1809) (i kraft 1 jan 2016), [20 des 2016 nr. 1783](forskrift/2016-12-20-1783) (i kraft 1 jan 2017), [2 mars 2017 nr. 241](forskrift/2017-03-02-241), [19 des 2019 nr. 2055](forskrift/2019-12-19-2055) (i kraft 1 jan 2020), [31 mai 2024 nr. 885](forskrift/2024-05-31-885), [18 des 2024 nr. 3248](forskrift/2024-12-18-3248) (i kraft 1 jan 2025).
 
+1 Jf. [forskrift 23. desember 2011 nr. 1502](forskrift/2011-12-23-1502) om kvoteordningen for melk [§ 4](forskrift/2011-12-23-1502/§4), [§ 5](forskrift/2011-12-23-1502/§5) og [§ 6](forskrift/2011-12-23-1502/§6).
+
 ## § 4. (Oppheva)
 
 > Oppheva ved [forskrift 25 juni 2003 nr. 785](forskrift/2003-06-25-785) (i kraft 1 juli 2003).

@@ -357,25 +357,47 @@ Ved utstedelse av førerbevis og sertifikat skal det tas hensyn til all yrkesmes
 
 ## Vedlegg II. Krav til helse og helseundersøkelser mv.
 
+1.*Generelle krav*
+
+1.1.
+
 Førere skal ikke ha noen helseproblemer eller ta medisiner, legemidler eller stoffer som kan forårsakeplutselig bevissthetstap,en reduksjon i oppmerksomhet eller konsentrasjon,plutselig tap av arbeidsevne,tap av balanse eller koordineringsevne,betydelig begrensning av mobilitet.
+
+1.2.*Krav til syn*
 
 Førere skal ha syn som tilfredsstiller følgende krav:Synsevne på avstand (visus) med eller uten korreksjon: 1,0; minst 0,5 for dårligste øye.Største korreksjon: Langsynthet +5/nærsynthet -8. Godkjent lege kan tillate avvik fra dette i unntakstilfeller og etter uttalelse fra en øyelege.Syn på kort og mellomlang avstand: Tilstrekkelig, enten med eller uten korreksjon.Syn på begge øyne: Effektivt.Synsfelt: Fullstendig (ingen synsfeltutfall).Binokulært synsfelt: Effektivt (ingen synsfeltutfall).Fargesyn: Normalt.Gjenkjenning av fargesignaler: Prøvingen skal være basert på gjenkjenning av enkeltfarger og ikke på relative forskjeller.Kontrastfølsomhet: God.Ingen progressive øyesykdommer.Evne til å motstå blending.
 
 For øvrig gjelder følgende:Kontaktlinser og briller er tillatt når disse jevnlig kontrolleres av en øyelege eller optiker.Fargede kontaktlinser og fotokromatiske linser er ikke tillatt. Linser med UV-filter er tillatt.Øyenimplantater, keratotomi og keratektomi er bare tillatt på betingelse av at dette blir kontrollert årlig eller med jevne mellomrom fastsatt av legen.
 
+1.3.*Krav til hørsel og tale*
+
 Førere skal ha hørsel som er god nok til å gjennomføre en telefonsamtale og til å kunne høre varselsignaler og radiomeldinger. Tilstrekkelig hørsel skal være bekreftet med et audiogram.
 
 Følgende gjelder som retningslinjer:Hørselssvikten må ikke være større enn 40 dB ved 500 og 1000 Hz.Hørselssvikten må ikke være større enn 45 dB ved 2000 Hz for det øret der hørsel ved luftledning er dårligst.Det må ikke være uregelmessigheter i det vestibulære system.Bruk av høreapparat er tillatt i særlige tilfeller.Førere skal ikke ha noen kroniske taleforstyrrelser.
 
+1.4.*Graviditet*
+
 Fører som er gravid må ikke ha dårlig toleranse eller en patologisk tilstand som følge av graviditeten.
+
+1.5.*Krav til yrkespsykologisk skikkethet*
 
 Førere skal ikke ha noen yrkespsykologiske mangler som vil kunne virke inn på en sikker utførelse av førerens arbeidsoppgaver, særlig når det gjelder driftsmessig egnethet eller relevant personlighetsfaktor.
 
+2.*Minstekrav til undersøkelser ved utstedelse av førerbevis*
+
+2.1.*Undersøkelse av medisinsk skikkethet*
+
 Undersøkelse av medisinsk skikkethet skal minst omfatte:en generell legeundersøkelse,undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse). Fargesyn skal kontrolleres ved bruk av en godkjent prøve, som for eksempel Ishihara, samt en annen godkjent prøve dersom dette er nødvendig,blod- eller urinprøver. Slike prøver skal foretas i den utstrekning det er nødvendig for å bedømme søkerens medisinske skikkethet, blant annet tester for sukkersyke (diabetes) og tester for psykotrope stoffer som ulovlige legemidler eller psykotrop medisinering og misbruk av alkohol,et elektrokardiogram (EKG) ved hvile,kognitive prøver: oppmerksomhet og konsentrasjon, hukommelse, oppfatningsevne og dømmekraft,undersøkelse av kommunikasjonsevne,undersøkelse av psykomotorikk: reaksjonstid, koordinering av håndbevegelser.
+
+2.2.*Undersøkelse av yrkespsykologisk skikkethet*
 
 De yrkespsykologiske undersøkelsene er ment å være til hjelp ved ansettelse og ledelse av personale.
 
 Innholdet i den yrkespsykologiske undersøkelsen skal fastsettes slik at den avdekker om føreren har noen yrkespsykologiske mangler som vil kunne virke inn på en sikker utøvelse av førerens arbeidsoppgaver, særlig når det gjelder driftsmessig egnethet eller relevant personlighetsfaktor.
+
+3.*Minstekrav til periodiske undersøkelser av medisinsk skikkethet*
+
+3.1*Periodisk undersøkelse av medisinsk skikkethet*
 
 De periodiske undersøkelsene skal minst omfatte:en generell legeundersøkelse,en undersøkelse av sensoriske funksjoner (syn, hørsel, fargeoppfattelse),blod- eller urinprøver for å oppdage sukkersyke og andre forhold som indikeres av den kliniske undersøkelsen, herunder prøvinger for narkotika.
 
@@ -395,7 +417,21 @@ Kompetanse innen særlige typer rullende materiell eller innen sikkerhet og drif
 
 Den generelle opplæringen omfatter emnene 1 til 7 nedenfor. Punktene er ikke oppstilt i prioritert rekkefølge.
 
-Følgende nivå på kompetanse som er brukt i listen nedenfor angir formen for kompetanse føreren forventes å tilegne seg under opplæringen. Betydningen er beskrevet i følgende tabell:Form for kompetanseBeskrivelsevære kjent med, beskrivetilegnelse av kunnskap (data, fakta) som er nødvendig for å forstå forholdforstå, kjenne tilgjenkjenning og memorering av kontekst, utførelse av oppgaver og problemløsing i en definert rammeFørerens arbeidsoppgaver, arbeidsmiljøet, førerens rolle og ansvar tilknyttet jernbanedriften, faglige og personlige krav som stilles til føreren som følge av arbeidsoppgavenevære kjent med hovedlinjene i lovgivningen og reglene som kommer til anvendelse på jernbanedrift og sikkerhet (krav og framgangsmåter vedrørende sertifisering av førere, farlig gods, miljøvern, brannvern osv.),forstå de særlige kravene og faglige og personlige kravene (arbeid som hovedsakelig utføres alene, døgnkontinuerlig skiftarbeid, individuell beskyttelse og sikkerhet, lesing og oppdatering av dokumenter osv.),forstå hvilken atferd som er forenlig med sikkerhetsansvar (medisinering, alkohol, narkotika og andre psykoaktive stoffer, sykdom, stress, tretthet osv.),kjenne til referanse- og driftsdokumenter (f.eks. regelbok, strekningsbok, førerhåndbok osv.),kjenne til ansvarsområdene og funksjonene til involverte personer,forstå betydningen av å utføre arbeidsoppgaver og arbeidsmetoder presist,forstå betydningen av helse og sikkerhet på arbeidsplassen (f.eks. atferdsregler på og i nærheten av spor, atferdsregler for å stige av og på motorvognen på en sikker måte, ergonomi, sikkerhetsregler for personalet, personlig verneutstyr osv.),være kjent med atferdsmessige ferdigheter og prinsipper (stressmestring, ekstreme situasjoner osv.),være kjent med prinsippene for miljøvern (bærekraftig kjøring osv.).Jernbaneteknologi, herunder sikkerhetsprinsippene bak driftsreglervære kjent med prinsippene for, reglene for og bestemmelsene om sikker jernbanedrift,kjenne til ansvarsområdene og funksjonene til involverte personer.Grunnprinsipper for jernbaneinfrastrukturvære kjent med systematiske og strukturelle prinsipper og parametre,være kjent med de generelle egenskapene til spor, stasjoner og rangerstasjoner,være kjent med jernbanestrukturer (broer, tunneler, sporveksler osv.),være kjent med driftsformer (enkeltsporsdrift, dobbeltsporsdrift osv.),være kjent med signal- og trafikkstyringssystemer,være kjent med sikkerhetsanlegg (varmedetektorer for akselkasse, røykdetektorer i tunneler osv.),være kjent med strømforsyningen til framdriften (bæreline, tredjeskinne osv.).Grunnprinsipper for driftskommunikasjonvære kjent med betydningen av kommunikasjon og kommunikasjonsmåter og -prosedyrer,kjenne til personer som føreren må kontakte, og vedkommendes rolle og ansvar (infrastrukturforvaltningens personale, arbeidsoppgavene til annet togpersonell osv.),kjenne til situasjoner/årsaker som krever kommunikasjon fra førerens side,forstå kommunikasjonsmetoder.Tog, deres oppbygning og de tekniske kravene til trekkraftkjøretøyer, godsvogner, passasjervogner og annet rullende materiellvære kjent med de generelle typene framdrift (elektrisk, diesel, damp osv.),beskrive konstruksjonen til et kjøretøy (boggier, karosserier, førerhus, sikringssystemer osv.),være kjent med innholdet i og systemet for merking,være kjent med dokumentasjon av togkonstruksjon,forstå bremsesystemer og beregning av ytelse,kjenne til toghastighet,kjenne til største tillatte belastning og krefter på koplingen,være kjent med driften av og formålet med trafikkstyringssystemet.Farer forbundet med jernbanedrift i alminnelighetforstå de styrende prinsippene for trafikksikkerhet,være kjent med risikoer forbundet med jernbanedrift og de forskjellige metodene som skal brukes for å begrense dem,være kjent med sikkerhetshendelser og forstå hvilken atferd/reaksjon som er påkrevd,være kjent med framgangsmåtene som skal anvendes ved personulykker (f.eks. evakuering).Grunnleggende fysiske prinsipperforstå kreftene som påvirker hjulene,kjenne til faktorer som virker inn på akselerasjons- og bremseytelsen (værforhold, bremseutstyr, redusert adhesjon, sandstrøing osv.),forstå prinsipper for elektrisk kraft (kretser, måling av spenning osv.).
+Følgende nivå på kompetanse som er brukt i listen nedenfor angir formen for kompetanse føreren forventes å tilegne seg under opplæringen. Betydningen er beskrevet i følgende tabell:
+
+|  |  |
+| --- | --- |
+| Form for kompetanse | Beskrivelse |
+| være kjent med, beskrive | tilegnelse av kunnskap (data, fakta) som er nødvendig for å forstå forhold |
+| forstå, kjenne til | gjenkjenning og memorering av kontekst, utførelse av oppgaver og problemløsing i en definert ramme |
+
+1. Førerens arbeidsoppgaver, arbeidsmiljøet, førerens rolle og ansvar tilknyttet jernbanedriften, faglige og personlige krav som stilles til føreren som følge av arbeidsoppgavenevære kjent med hovedlinjene i lovgivningen og reglene som kommer til anvendelse på jernbanedrift og sikkerhet (krav og framgangsmåter vedrørende sertifisering av førere, farlig gods, miljøvern, brannvern osv.),forstå de særlige kravene og faglige og personlige kravene (arbeid som hovedsakelig utføres alene, døgnkontinuerlig skiftarbeid, individuell beskyttelse og sikkerhet, lesing og oppdatering av dokumenter osv.),forstå hvilken atferd som er forenlig med sikkerhetsansvar (medisinering, alkohol, narkotika og andre psykoaktive stoffer, sykdom, stress, tretthet osv.),kjenne til referanse- og driftsdokumenter (f.eks. regelbok, strekningsbok, førerhåndbok osv.),kjenne til ansvarsområdene og funksjonene til involverte personer,forstå betydningen av å utføre arbeidsoppgaver og arbeidsmetoder presist,forstå betydningen av helse og sikkerhet på arbeidsplassen (f.eks. atferdsregler på og i nærheten av spor, atferdsregler for å stige av og på motorvognen på en sikker måte, ergonomi, sikkerhetsregler for personalet, personlig verneutstyr osv.),være kjent med atferdsmessige ferdigheter og prinsipper (stressmestring, ekstreme situasjoner osv.),være kjent med prinsippene for miljøvern (bærekraftig kjøring osv.).
+2. Jernbaneteknologi, herunder sikkerhetsprinsippene bak driftsreglervære kjent med prinsippene for, reglene for og bestemmelsene om sikker jernbanedrift,kjenne til ansvarsområdene og funksjonene til involverte personer.
+3. Grunnprinsipper for jernbaneinfrastrukturvære kjent med systematiske og strukturelle prinsipper og parametre,være kjent med de generelle egenskapene til spor, stasjoner og rangerstasjoner,være kjent med jernbanestrukturer (broer, tunneler, sporveksler osv.),være kjent med driftsformer (enkeltsporsdrift, dobbeltsporsdrift osv.),være kjent med signal- og trafikkstyringssystemer,være kjent med sikkerhetsanlegg (varmedetektorer for akselkasse, røykdetektorer i tunneler osv.),være kjent med strømforsyningen til framdriften (bæreline, tredjeskinne osv.).
+4. Grunnprinsipper for driftskommunikasjonvære kjent med betydningen av kommunikasjon og kommunikasjonsmåter og -prosedyrer,kjenne til personer som føreren må kontakte, og vedkommendes rolle og ansvar (infrastrukturforvaltningens personale, arbeidsoppgavene til annet togpersonell osv.),kjenne til situasjoner/årsaker som krever kommunikasjon fra førerens side,forstå kommunikasjonsmetoder.
+5. Tog, deres oppbygning og de tekniske kravene til trekkraftkjøretøyer, godsvogner, passasjervogner og annet rullende materiellvære kjent med de generelle typene framdrift (elektrisk, diesel, damp osv.),beskrive konstruksjonen til et kjøretøy (boggier, karosserier, førerhus, sikringssystemer osv.),være kjent med innholdet i og systemet for merking,være kjent med dokumentasjon av togkonstruksjon,forstå bremsesystemer og beregning av ytelse,kjenne til toghastighet,kjenne til største tillatte belastning og krefter på koplingen,være kjent med driften av og formålet med trafikkstyringssystemet.
+6. Farer forbundet med jernbanedrift i alminnelighetforstå de styrende prinsippene for trafikksikkerhet,være kjent med risikoer forbundet med jernbanedrift og de forskjellige metodene som skal brukes for å begrense dem,være kjent med sikkerhetshendelser og forstå hvilken atferd/reaksjon som er påkrevd,være kjent med framgangsmåtene som skal anvendes ved personulykker (f.eks. evakuering).
+7. Grunnleggende fysiske prinsipperforstå kreftene som påvirker hjulene,kjenne til faktorer som virker inn på akselerasjons- og bremseytelsen (værforhold, bremseutstyr, redusert adhesjon, sandstrøing osv.),forstå prinsipper for elektrisk kraft (kretser, måling av spenning osv.).
 
 > Endret ved [forskrift 14 feb 2017 nr. 185](forskrift/2017-02-14-185).
 
@@ -431,5 +467,7 @@ Virksomhetenes sertifikatregister skal være i henhold til vedlegg II til vedtak
 > Endret ved [forskrift 13 okt 2011 nr. 1020](forskrift/2011-10-13-1020).
 
 ## Forordninger
+
+For å lese engelsk versjon av forordning [(EU) 2019/554](eu/32019r0554) se her: [(pdf)](static/SF/32019r0554e-01.pdf)
 
 > Tilføyd ved forskrift [8 sep 2021 nr. 2713](forskrift/2021-09-08-2713) (i kraft 1 juni 2022).

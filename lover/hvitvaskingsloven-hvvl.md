@@ -382,6 +382,8 @@ Rapporteringspliktige skal før etablering av et kundeforhold eller gjennomføri
 
 (2) Dersom en risikovurdering av virksomhetens omfang og art tilsier det, skal rapporteringspliktigeutnevne etterlevelsesansvarliggjennomføre skikkethetsvurderinger av ansatteopprette en uavhengig kontroll med at virksomhetens interne rutiner overholdes1
 
+1 Inkurie: Teksten er vedtatt uten avsluttende punktum.
+
 ### § 36. Opplæring
 
 (1) Rapporteringspliktige skal sikre at ansatte og andre som utfører oppdrag for foretaket, gis opplæring slik at de er kjent med virksomhetens forpliktelser etter loven her og i stand til å gjenkjenne forhold som kan indikere hvitvasking og terrorfinansiering.
@@ -508,6 +510,8 @@ Dersom tilsynsmyndigheten får mistanke om at det foreligger forhold med tilknyt
 
 Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter [§ 48](lov/2018-06-01-23/§48) eller ilegges overtredelsesgebyr etter [§ 49](lov/2018-06-01-23/§49), skal det blant annet tas hensyn tilovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evneden rapporteringspliktiges risikovurderinger etter [§ 7](lov/2018-06-01-23/§7) og rutiner etter [§ 8](lov/2018-06-01-23/§8)fordeler som er oppnådd eller kunne ha vært oppnådd ved overtredelsenom tredjeparter er påført tapgraden av samarbeid med myndigheteneeventuelle tidligere overtredelser av hvitvaskingsloven eller forskrifter med hjemmel i lovenDe samme momentene skal hensyntas ved utmålingen av ovetredelsesgebyr.1
 
+1 Inkurie: Skal vel være «overtredelsesgebyr».
+
 ### § 51. Straff
 
 (1) Med bøter straffes rapporteringspliktige foretak som overtrer [§§ 9](lov/2018-06-01-23/§9), [12](lov/2018-06-01-23/§12), [13](lov/2018-06-01-23/§13), [17](lov/2018-06-01-23/§17), [18](lov/2018-06-01-23/§18), [24](lov/2018-06-01-23/§24), [25](lov/2018-06-01-23/§25), [26](lov/2018-06-01-23/§26), [28](lov/2018-06-01-23/§28), [30](lov/2018-06-01-23/§30) eller [42](lov/2018-06-01-23/§42) eller forskrifter gitt i medhold av disse bestemmelsene. Når foretak kan straffes etter første punktum, kan styremedlemmer eller daglig leder, eller person i tilsvarende stilling i foretak uten styre eller daglig leder, straffes med bøter dersom vedkommende har utvist forsett eller grov uaktsomhet i forbindelse med overtredelsen. Ved særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes.
@@ -517,6 +521,8 @@ Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter
 (3) Styremedlemmer, ledere, ansatte og andre som utfører oppdrag på vegne av foretaket, straffes med bøter dersom vedkommende forsettlig eller grovt uaktsomt overtrer [§ 26](lov/2018-06-01-23/§26) eller [§ 28](lov/2018-06-01-23/§28). Ved særlig skjerpende omstendigheter kan fengsel inntil 1 år anvendes.
 
 ## Kapittel 11.1 Avsluttende bestemmelser
+
+1 Inkurie: Loven er vedtatt uten kapittel 10.
 
 ### § 52. Opplysninger som skal følge overføringer av penger og visse kryptoeiendeler
 
@@ -530,6 +536,10 @@ Ved vurderingen av om det skal nedlegges forbud mot å ha ledelsesfunksjon etter
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid. Departementet kan gi overgangsregler.
 
+1 Fra 15 okt 2018 iflg. [res. 14 sep 2018 nr. 1326](forskrift/2018-09-14-1326).
+
 ### § 54. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
+
+**1.** [Lov 6. mars 2009 nr. 11](lov/2009-03-06-11) om tiltak mot hvitvasking og terrorfinansiering mv. oppheves. – – –

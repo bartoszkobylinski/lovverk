@@ -24,3 +24,5 @@ eu_basis: []
 
 1. Sanksjon av Stortingets vedtak 8. desember 2011 til lov om endringer i utlendingsloven m.m. (høring av barn mv.).
 2. Loven gjelder fra 1. februar 2012.1
+
+1 Endringene i [utlendingsloven § 28](lov/2008-05-15-35/§28) og § [30](lov/2008-05-15-35/§30), fastsatt i [endringslov 20. januar 2012 nr. 5](lov/2012-01-20-5), settes ikke i kraft 1. februar 2012, jf. [vedtak 27. januar 2012 nr. 69](forskrift/2012-01-27-69).

@@ -174,6 +174,8 @@ Styrets vedtak om utvisning, bortvisning eller utestengning er enkeltvedtak og k
 
 Vedtaket iverksettes fra vedtakelsestidspunktet, med mindre klagen gis oppsettende virkning.
 
+1 Myndigheten etter [politiloven § 24c femte ledd](lov/1995-08-04-53/§24c/ledd/5) til å behandle klagesaker fra styret er delegert fra Justis- og beredskapsdepartementet til Politidirektoratet i [FOR-2019-11-25-1866](forskrift/2019-11-25-1866) med virkning fra 1. januar 2020.
+
 ### § 19. Dopingkontroll
 
 Rektor ved Politihøgskolen fastsetter de til enhver tid gjeldende regler for gjennomføring av dopingkontroll og dopingtesting.

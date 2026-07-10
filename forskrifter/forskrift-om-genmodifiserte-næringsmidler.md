@@ -53,3 +53,5 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 ## § 5.
 
 Denne forskrift trer i kraft fra det tidspunktet departementet bestemmer.1
+
+1 1 juni 2002, jf [forskrift 25 april 2002 nr. 443](forskrift/2002-04-25-443).

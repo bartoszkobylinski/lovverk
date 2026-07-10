@@ -48,6 +48,8 @@ En uoffisiell, dansk, konsolidert versjon av forordning [(EU) nr. 1302/2014](eu/
 
 Forordningene må leses med EØS-tilpasninger som fremgår av [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 37do. Tilpasningene lyder som følger:
 
+Forordningens bestemmelser skal for denne avtales formål gjelde med følgende tilpasning:
+
 1. I nr. 7.3.2.14 i forordningens vedlegg tilføyes følgende:*«Særtilfelle for Norge («T0»)*Dette særtilfellet gjelder for enheter som er i drift på linjer uten oppgradert kontaktledningssystem. Linjer med et kontaktledningssystem som er i samsvar med TSI, er angitt i Network Statement fra jernbaneverket.Strømavtakervippens geometri skal være i samsvar med EN 50367:2020+A1:2022, Annex B.3 figure B.5 (1800mm).»
 2. Etter nr. 7.3.2.15 i forordningens vedlegg skal nytt nr. 7.3.2.15bis lyde:«7.3.2.15bis Strømavtakerens statiske kontaktkraft (IC-nivå) (4.2.8.2.9.5)*Særtilfelle for Norge («T2»)*Dette særtilfellet gjelder for enheter som er i drift på linjer uten oppgradert kontaktledningssystem. Linjer med et kontaktledningssystem som er i samsvar med TSI, er angitt i Network Statement fra jernbaneverket.Ved stillstand bør strømavtakeren ha en statisk kontaktkraft på 55 N.»
 3. I nr. 7.3.2.16 i forordningens vedlegg tilføyes følgende:*«Særtilfelle for Norge («T2»)*Dette særtilfellet gjelder for enheter som er i drift på linjer uten oppgradert kontaktledningssystem. Linjer med et kontaktledningssystem som er i samsvar med TSI, er angitt i Network Statement fra jernbaneverket.I tillegg til TSI-kravene må strømavtakere være i samsvar med en kurve basert på følgende formel: Fm = 0,00097√2 + 55, med et avvik på 10 %.»

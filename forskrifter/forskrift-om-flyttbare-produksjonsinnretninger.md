@@ -175,9 +175,37 @@ Etter slike hendelser skal avstanden mellom innretningen og tankskipet annen fas
 6. I tilleg til kravene i pkt 5, skal posisjoneringssystemet være kontrollberegnet og dimensjonert for dobbel feil basert på 10 års værkondisjon. Dersom operasjon i konsekvensklasse 3 er beregnet å skulle avslutte før 10 års værkondisjon nås, kan beregning av dobbeltfeil baseres på den maksimale operasjonstilstanden.
 7. I tabell I angis konsekvensklasser for de forskjellige operasjonelle faser som skal ligge til grunn for beregninger av sikkerhetsfaktoren. I tabell II angis sikkerhetsfaktorer.
 
+Tabell I – Konsekvensklasser
+
+Konsekvensklasser for ankerliner på innretninger når innretningen ligger forankret:
+
+| Plassering i forhold til andre installasjoner | ikke i nærheten | i nærheten men større enn X | i nærheten men større enn X | i nærheten men mindre enn X | i nærheten men mindre enn X |
+| --- | --- | --- | --- | --- | --- |
+| Ankerlinenes retning i forhold til den andre installasjonen | – | vender mot denne | vender fra denne | vender mot denne | vender fra denne |
+| Tilstand |  |  |  |  |  |
+| Operasjonstilstand | 3 | 3 | 3 | 3 | 3 |
+| Ventetilstand | 2 | 2 | 2 | 2 | 3 |
+| Overlevelsestilstand | 1 | 1 | 2 |  |  |
+
+Avstanden X er gitt ved at avstanden mellom innretningen og den andre installasjonen er så stor, at innretningen etter eventuelt flerlinebrudd (3 eller fler), vil svinge klar den andre installasjonen med en avstand på minst 10 meter i ugunstigste faser.
+
+Tabell II Sikkerhetsfaktorer
+
+|  | Konsekvensklasse |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tilstand | Klasse 3 |  | Klasse 2 |  | Klasse 1 |  |
+|  | KV | DY | KV | DY | KV | DY |
+| Intakttilstand | 3.0 | 2.5 | 2.7 | 2.3 | 2.0 | 1.65 |
+| Likevektsposisjon etter enkeltfeil | 2.0 | 1.65 | 1.8 | 1.5 | 1.4 | 1.25 |
+| Maksimum utsving etter enkeltfeil | 1.4 | 1.2 | 1.4 | 1.2 | 1.1 | 1.0 |
+| Likevektposisjon\* etter dobbeltfeil |  |  | 2.0 | 1.65 | 1.8 | 1.5 |
+| Maksimum utsving\* etter dobbeltfeil |  |  | 1.4 | 1.2 | 1.4 | 1.2 |
+
 DY= Dynamisk beregningsmetode
 
 KY= Kvasistatisk beregningsmetode
+
+\* Ved dobbeltfeil benyttes for beregning av krefter/bevegelser 10 års værkondisjon. Dersom maksimum intakttilstand er lavere enn 10-års kriteriet, brukes maksimum intakttilstand.
 
 1. Det skal utarbeides en plan for produksjonskontroll, verkstedkontroll og etterkontroll under drift av ankerliner og andre spenningspåkjente og/eller slitasjeutsatte komponenter slik som ledeskiver og kabelar i ankersystemet. Omfanget av etterkontroll vil være avhengig av den produksjon og verkstedkontroll som utføres og komponentenes utforming, dimensjonering og det materiale som er brukt. Planen skal dekke komponentenes levetid og skal i tillegg til standard kontroll og vedlikehold ta spesielt hensyn til følgende;komponenter som blir utsatt for gjentatt høy belastning og/eller lastvekslinger (utmatting),komponenter som utsettes for stor slitasje, korrosjon, erosjon, begroing o.l.,spesielle bunnforhold,andre driftsforhold som bil betinge spesiell kontroll.Planen skal inntas i operasjonsmanualen/vedlikeholdssystemet.
 2. Bruddstyrken for ankerliner som legges til grunn i ankringsberegningene skal være justert for reduksjon i styrke grunnet korrosjon, slitasje o.l.
@@ -263,6 +291,8 @@ KY= Kvasistatisk beregningsmetode
 
 > Endret ved [forskrift 11 april 2003 nr. 544](forskrift/2003-04-11-544) (i kraft 1 juli 2003).
 
+1 Jf. [forskrift av 22. desember 1993 nr. 1239](forskrift/1993-12-22-1239) om risikoanalyse for flyttbare innretninger.
+
 ### § 24. Brannpumpesystem for overrisling med vann/skum
 
 1. Den produksjonstekniske installasjonen skal være beskyttet med overrislingsanlegg for skum/vann. Overrislingsanlegget skal være arrangert slik at det etter en dimensjonerende ulykkeshendelse i den produksjonstekniske installasjonen med ødeleggelse av en vann-/skumtilførsel, fortsatt er tilbake 100% slokning- og kjølekapasitet.Det skal være nok skumkonsentrat til å opprettholde skumlegging i minst 15 minutter. Skumkonsentrat skal kunne forsynes fra to adskilte og beskyttede områder på innretningen.
@@ -273,6 +303,8 @@ KY= Kvasistatisk beregningsmetode
 6. Når det gjelder dysetype og kapasitet skal dette i de forskjellige områder tilpasses mulige gassjetbranner, væskepølbranner, rennende væskebranner og kombinasjoner av slike, alt etter hva som er mest aktuelt.
 
 > Endret ved forskrifter [11 april 2003 nr. 544](forskrift/2003-04-11-544) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
+
+1 Anleggene kan installeres i henhold til NFPA 15 «water spray fixed systems», NFPA 16 «Deluge foam-water sprinkler and foam-water spray systems» eller tilsvarende anerkjente standarder. Skum skal være av filmdannende type (AFFF, Firestop).
 
 ### § 25. Spesielle andre fastmonterte slukkeanlegg
 
@@ -340,7 +372,9 @@ For innretninger som lagrer produserte hydrokarboner om bord skal arrangement og
 
 ### § 34. Sikringstiltak mot forurensning
 
-Den flyttbare innretningen skal være konstruert og ha et arrangement som forhindrer at det oppstår akutt foruresning fra fra fartøyets lagrings eller losseoverføringssystem.* Prosedyrer for operering av arrangement skal inntas i operasjonsmanualen.
+Den flyttbare innretningen skal være konstruert og ha et arrangement som forhindrer at det oppstår akutt foruresning fra fra fartøyets lagrings eller losseoverføringssystem.\* Prosedyrer for operering av arrangement skal inntas i operasjonsmanualen.
+
+\* Vedrørende utslipp av oljedamper vises til IMO; «Standard for vapour emission control systems».
 
 ## Kapittel XIII: Laste- og fortøyningssystem
 

@@ -67,3 +67,5 @@ Kongen kan gi forskrifter om utbetalingstidspunktet for oppsatt pensjon som avvi
 Denne loven trer i kraft fra den tiden Kongen bestemmer.1 Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven. Loven griper ikke inn i rettigheter opptjent før loven trer i kraft. Kongen kan gi nærmere overgangsregler.
 
 > Endret ved [lov 17 des 2010 nr. 79](lov/2010-12-17-79) (ikr. 1 jan 2011).
+
+1 Fra 1 jan 1999 iflg. [res. 21 aug 1998 nr. 820](forskrift/1998-08-21-820).

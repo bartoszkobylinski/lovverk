@@ -59,3 +59,5 @@ Ein framand rettsregel som ikkje er samhøveleg med ålmennskipnaden (l'ordre pu
 ## § 7.
 
 Kongen avgjer kva tid denne lova skal taka til å gjelda.1
+
+1 Frå 1 sep 1964 iflg. res. 3 apr 1964.

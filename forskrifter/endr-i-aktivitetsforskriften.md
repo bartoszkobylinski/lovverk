@@ -25,9 +25,15 @@ eu_basis: []
 
 ## I
 
+I [forskrift 29. april 2010 nr. 613 om utføring av aktiviteter i petroleumsvirksomheten (aktivitetsforskriften)](forskrift/2010-04-29-613) gjøres følgende endringer:
+
+[§ 60 første](forskrift/2010-04-29-613/§60/ledd/1) og [andre ledd](forskrift/2010-04-29-613/§60/ledd/2) skal lyde:
+
 – – –
 
 Oljeinnholdet i produsert vann som slippes til sjø, skal være så lavt som mulig, jf. [rammeforskriften kapittel II](forskrift/2010-02-12-158/kapII) og [styringsforskriften § 7](forskrift/2010-04-29-611/§7) og [§ 8](forskrift/2010-04-29-611/§8). Oljeinnholdet skal uansett ikke overstige 15 mg olje per liter vann som veid gjennomsnitt for ett kalenderår og 30 mg olje per liter vann som veid gjennomsnitt for en kalendermåned.
+
+– – –
 
 ## II
 

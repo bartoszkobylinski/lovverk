@@ -90,6 +90,8 @@ Lova tar til å gjelde frå den tid1 Kongen fastset.
 
 – – –
 
+1 Lova gjeld frå 1 juli 1984 iflg. [res. 6 apr 1984 nr. 832](forskrift/1984-04-06-832).
+
 ## § 12. Endringar i andre lover.
 
 Frå den tid lova her tar til å gjelde, vert det gjort følgjande endringar i andre lover: – – –

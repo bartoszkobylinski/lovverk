@@ -50,6 +50,8 @@ Departementet kan fastsette nærmere regler om fordeling av vederlaget og anvend
 
 > Endret ved [lov 20 des 2018 nr. 120](lov/2018-12-20-120) (ikr. 1 aug 2019 iflg. [res. 21 juni 2019 nr. 807](forskrift/2019-06-21-807)).
 
+1 Jf. [EØS-avtalen art. 4](lov/1992-11-27-109/eøsl/a4).
+
 ## § 5. Ikrafttredelse.
 
 Loven trer i kraft straks.

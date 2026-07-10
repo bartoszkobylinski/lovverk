@@ -232,6 +232,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1
 
 Fra samme tid oppheves [lov 31. mai 1974 nr. 19](lov/1974-05-31-19) om konsesjon ved erverv av fast eiendom (konsesjonsloven).
 
+1 Fra 1 jan 2004 iflg. [res. 28 nov 2003 nr. 1400](forskrift/2003-11-28-1400).
+
 ### § 22. (overgangsbestemmelser)
 
 Forskrifter fastsatt med hjemmel i [lov 31. mai 1974 nr. 19 § 5](lov/1974-05-31-19/§5) tredje ledd skal gjelde til de blir endret eller opphevet. Forskriftene skal forstås i samsvar med de nye reglene i [§ 7](lov/2003-11-28-98/§7) i denne loven, jf. [§ 4](lov/1974-05-31-19/§4) første ledd nr. 4.
@@ -245,3 +247,5 @@ Konsesjonssaken anses som endelig avgjort i forhold til annet og tredje ledd der
 Ved lovbestemt bo- og driveplikt som har oppstått etter tidligere konsesjonslov [§ 6](lov/2003-11-28-98/§6) første ledd nr. 1, får den nye bestemmelsen i [§ 5](lov/2003-11-28-98/§5) annet ledd anvendelse selv om eiendommen er ervervet før loven trådte i kraft.
 
 ### § 23. (endringer i andre lover)
+
+– – –

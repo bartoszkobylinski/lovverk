@@ -40,6 +40,12 @@ Statens jernbanetilsyn er nasjonal sikkerhetsmyndighet i denne forskriften. Stat
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning [(EU) 2018/545](eu/32018r0545) av 4. april 2018, som endret av forordning [(EU) 2020/781](eu/32020r0781), inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 800](forskrift/2022-05-06-800).
+
 ## Forordninger
 
 Forordningen er gyldig på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning [(EU) 2018/545](eu/32018r0545), se her: [(pdf)](static/SF/32018r0545e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2020/781](eu/32020r0781), se her: [(pdf)](static/SF/32020r0781e-01.pdf)

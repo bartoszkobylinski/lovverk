@@ -41,6 +41,8 @@ For luftfart som omfattes av EØS-avtalens bestemmelser,1 gjelder regler om utfy
 
 > Endret ved [lov 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)).
 
+1 Jf. [EØS-avtalen art. 31-39](lov/1992-11-27-109/eøsl/a31) og [vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13).
+
 ### § 1-2. Lovens virkeområde på kontinentalsokkelen og utenfor norsk område
 
 Med mindre annet bestemmes av Kongen, får loven anvendelse på luftfart i tilknytning til petroleumsvirksomhet på norsk kontinentalsokkel.
@@ -327,6 +329,8 @@ Blir det overført heftelser fra utenlandsk register etter [§ 3-37](lov/1993-06
 
 Bestemmelsene i [§ 3-26](lov/1993-06-11-101/§3-26) får ikke anvendelse på:overdragelse av panterett,håndpantsettelse av pantobligasjon som følger reglene for omsetningsgjeldsbrev,pantsettelse av panterett som er knyttet til et innløsningspapir som ikke er omsetningsgjeldsbrev, ellerutlegg i panterett knyttet til dokument som nevnt i nr. 2 eller 3.
 
+1 Se [lov 3 mars 1972 nr. 5](lov/1972-03-03-5); [lov 14 juni 2019 nr. 21](lov/2019-06-14-21).
+
 ### § 3-28. Prioritetsendringer
 
 Prioritet for en registrert heftelse kan endres ved at den berettigede viker for en likestillet eller etterstående heftelse, forutsatt at hjemmelshaveren til det beheftede luftfartøy og rettighetshavere etter registrerte rettsstiftelser med mellomliggende prioritet samtykker.
@@ -538,6 +542,8 @@ Særskilt tvangssalg av reservedeler til et utenlandsk luftfartøy kan gjennomf�
 For panterett eller tilsvarende sikkerhetsretter som faller inn under Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsrettigheter i mobilt løsøre og protokoll 16. november 2001 om særlige forhold for luftfartøysløsøre1, har konvensjonens og protokollens regler forrang så langt de gjelder foran bestemmelsene i denne lovens [kapittel III](lov/1993-06-11-101/kapiii).
 
 > Tilføyd ved [lov 12 nov 2010 nr. 58](lov/2010-11-12-58) (ikr. 1 apr 2011 iflg. meddelelse fra Justisdepartementet [28 mars 2011 nr. 322](forskrift/2011-03-28-322)).
+
+1 Konvensjonen og protokollen er kunngjort i [Norsk Lovtidend 2010 avd. I s. 2015-68](lov/2010-11-12-58) .
 
 ### Kapittel IV. Luftdyktighet og miljødyktighet
 
@@ -809,6 +815,8 @@ Departementet kan gi nærmere forskrifter om tester og undersøkelser som nevnt 
 
 > Tilføyd ved [lov 10 aug 2012 nr. 63](lov/2012-08-10-63), endret ved [lov 6 feb 2015 nr. 8](lov/2015-02-06-8).
 
+1 Inkurie: Skal vel være «[§ 6-11](lov/1993-06-11-101/§6-11)».
+
 ### § 6-14. Kapittelets anvendelsesområde
 
 Kongen fastsetter i hvilken utstrekning bestemmelsene i dette kapittel kommer til anvendelse for utenlandsk luftfartøy innenfor norsk område.
@@ -1031,6 +1039,8 @@ For sine utgifter har landingsplassens innehaver panterett i gjenstander nevnt i
 
 > Endret ved [lover 11 juni 2004 nr. 35](lov/2004-06-11-35) (ikr. 24 sep 2004 iflg. [res. 24 sep 2004 nr. 1280](forskrift/2004-09-24-1280)), [29 juni 2007 nr. 95](lov/2007-06-29-95), [10 aug 2012 nr. 63](lov/2012-08-10-63), [29 mai 2020 nr. 60](lov/2020-05-29-60) (ikr. 29 mai 2020 iflg. [res. 29 mai 2020 nr. 1106](forskrift/2020-05-29-1106)).
 
+1 Inkurie: Henvisningen antas nå å gjelde [§ 12-5](lov/1993-06-11-101/§12-5) (3).
+
 ### § 7-25. Kontroll av personer m.v.
 
 Når hensynet til sikkerheten i luftfarten tilsier det, kan kontroll av personer, reisegods, gods og øvrige gjenstander som befinner seg på landingsplasser, andre luftfartsanlegg eller annet anlegg for pakking eller prosessering av gjenstander som transporteres med luftfartøy, foretas i samsvar med forskrifter gitt av departementet.
@@ -1064,6 +1074,8 @@ Midlene (avgiften) kan tilfalle et særskilt finansieringsselskap med formål å
 Departementet kan gi bestemmelser om plikt for luftfartøyets eier eller bruker til å medvirke til gjennomføring av ordningen og kan gjennomføre kontroll med at medvirkningen skjer i samsvar med de bestemmelser som er fastsatt.
 
 Bestemmelsene i [luftfartsloven §§ 13-2](lov/1993-06-11-101/§13-2) og [13-7](lov/1993-06-11-101/§13-7)1 gis tilsvarende anvendelse.
+
+1 Inkurie: Bestemmelsen er opphevet.
 
 ### § 7-28. Utenlandske luftfartøyers adgang til landingsplass m.v.
 
@@ -1261,6 +1273,8 @@ Anvendes fremgangsmåten i [§ 10-5](lov/1993-06-11-101/§10-5) annet ledd, skal
 
 Luftfraktbrevet og godskvitteringen skal inneholde:opplysning om avgangsstedet og bestemmelsesstedet,opplysning om stedet for minst en mellomlanding når avgangs- og bestemmelselsstedet1 ligger i samme stat og en eller flere mellomlandinger skal skje i en annen stat,opplysninger om sendingens vekt.
 
+1 Inkurie: Skal vel være «bestemmelsesstedet».
+
 ### § 10-9. Om transportavtalens gyldighet
 
 Transportavtalen er gyldig og bestemmelsene i kapitlet her gjelder selv om bestemmelsene i [§§ 10-5](lov/1993-06-11-101/§10-5) – [10-8](lov/1993-06-11-101/§10-8) ikke er overholdt.
@@ -1336,6 +1350,8 @@ For ikke innskrevet reisegods, herunder personlige eiendeler, er fraktføreren a
 Passasjeren kan gjøre gjeldende sine rettigheter etter første og annet ledd dersom innskrevet reisegods ikke er kommet frem senest 21 dager etter at det skulle ha kommet frem, eller dersom fraktføreren erkjenner at innskrevet reisegods er gått tapt.
 
 > Endret ved [lov 16 jan 2004 nr. 4](lov/2004-01-16-4) (ikr. 28 juni 2004 iflg. [res. 28 mai 2004 nr. 793](forskrift/2004-05-28-793)).
+
+1 Inkurie: Ordet må skyldes en inkurie.
 
 ### § 10-19. Ansvar for gods
 
@@ -1539,6 +1555,8 @@ Ved tilsyn med at reglene om passasjerrettigheter følges, har tilsynsmyndighete
 
 > Tilføyd ved [lov 20 apr 2007 nr. 15](lov/2007-04-20-15), endret ved [lover 10 aug 2012 nr. 63](lov/2012-08-10-63), [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)).
 
+1 Jf. [EØS-avtalen vedlegg XII](avtale/avt-1992-05-02-1-v12) nr. 68ab (forordning [261/2004](eu/32004r0261)).
+
 ### § 10-43. (Opphevet)
 
 > Tilføyd ved [lov 20 apr 2007 nr. 15](lov/2007-04-20-15), opphevet ved [lov 10 aug 2012 nr. 63](lov/2012-08-10-63).
@@ -1600,6 +1618,8 @@ Departementet kan i forskrift gi nærmere regler om forsikring eller sikkerhetss
 ### Kapittel XII. Varsling, rapportering og undersøkelse av luftfartsulykker og luftfartshendelser m.m.1
 
 > Endret ved [lover 3 juni 2005 nr. 35](lov/2005-06-03-35), [17 juni 2016 nr. 75](lov/2016-06-17-75) (ikr. 1 juli 2016). Tidligere [kapittel XII](lov/1993-06-11-101/kapxii) Luftfartsulykker med [§§ 12-1](lov/1993-06-11-101/§12-1) til [12-8](lov/1993-06-11-101/§12-8) erstattet i sin helhet ved [lov 3 juni 2005 nr. 35](lov/2005-06-03-35).
+
+1 Jf. [EØS-avtalens vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 66gc (forordning [376/2014](eu/32014r0376)), nr. 66ga og nr. 66gb (forordning [1321/2007](eu/32007r1321) og forordning 1330/2007).
 
 ### A. Varsling av luftfartsulykker og luftfartshendelser mv.
 
@@ -1957,6 +1977,8 @@ Departementet kan gi forskrift om utmåling av overtredelsesgebyr.
 
 > Tilføyd ved [lov 10 aug 2012 nr. 63](lov/2012-08-10-63), endret ved [lover 17 juni 2016 nr. 75](lov/2016-06-17-75) (ikr. 1 juli 2016), [21 juni 2017 nr. 103](lov/2017-06-21-103) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 824](forskrift/2017-06-21-824)), [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)), [25 april 2025 nr. 12](lov/2025-04-25-12) (i kraft 1 jan 2026 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967)).
 
+1 Inkurie: Bestemmelsene § 8-10 og § 13-4 er opphevet.
+
 ### § 13 a-6. Myndighet lagt til EFTAs overvåkningsorgan
 
 EFTAs overvåkningsorgan kan ilegge foretak, sammenslutninger av foretak eller fysiske personer økonomiske reaksjoner som nevnt i artikkel 84 i forordning [(EU) 2018/1139](eu/32018r1139) av 4. juli 2018 om felles regler for sivil luftfart og om opprettelse av Den europeiske unions flysikkerhetsbyrå, og om endring av europaparlaments- og rådsforordning [(EF) nr. 2111/2005](eu/32005r2111), [(EF) nr. 1008/2008](eu/32008r1008), [(EU) nr. 996/2010](eu/32010r0996) og [(EU) nr. 376/2014](eu/32014d0376), og europaparlaments- og rådsdirektiv [2014/30/EU](eu/32014l0030) og [2014/53/EU](eu/32014r0053), samt om oppheving av europaparlaments- og rådsforordning [(EF) nr. 552/2004](eu/32004r0552) og [(EF) nr. 216/2008](eu/32008r0216) og rådsdirektiv [(EØF) nr. 3922/91](eu/31991r3922) slik denne er tatt inn i [EØS-avtalen vedlegg XIII, kapittel VI](avtale/avt-1992-05-02-1-v13/kapVI), punkt 66zb. EFTA-domstolen kan prøve beslutninger som nevnt i første punktum i tråd med forordningen artikkel 84 nr. 5.
@@ -2137,6 +2159,8 @@ Den som hindrer utføring av besiktelse, tilsyn eller annen undersøkelse etter 
 
 > Endret ved [lover 10 aug 2012 nr. 63](lov/2012-08-10-63), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
+1 Inkurie: Paragrafen er opphevet.
+
 ### § 14-26. Overtredelse av pålegg om medvirkning i ettersøknings- eller redningstiltak mv.
 
 Dersom noen som er pålagt å medvirke ved ettersøknings- eller redningstiltak etter forskrifter gitt med hjemmel i [§ 12-6](lov/1993-06-11-101/§12-6), unnlater å møte frem til tjeneste eller på annen måte overtrer sine plikter, straffes han med bøter.
@@ -2205,6 +2229,8 @@ Dersom det foretas undersøkelse etter [§ 12-12](lov/1993-06-11-101/§12-12),1 
 
 > Tilføyd ved [lov 25 apr 1997 nr. 24](lov/1997-04-25-24), endret ved [lov 10 aug 2012 nr. 63](lov/2012-08-10-63).
 
+1 Inkurie: Paragrafen gjelder nå bevisforbud m.m. Den tildigere [§ 12-12](lov/1993-06-11-101/§12-12) er nå avløst av [§ 12-6](lov/1993-06-11-101/§12-6).
+
 ### Kapittel XV. Gjennomføringsbestemmelser
 
 ### § 15-1. Særlige unntak fra denne lov
@@ -2254,6 +2280,8 @@ Kongen kan gi forskrifter om gjennomføring av EØS-avtalen på luftfartens omr�
 Regler gitt i medhold av første ledd skal gå foran lovens alminnelige bestemmelser, herunder regler om konsesjon for ervervsmessig og regelbundet trafikk (rutefart).
 
 > Endret ved [lover 4 mai 2001 nr. 18](lov/2001-05-04-18) (ikr. 1 juli 2001 iflg. [res. 4 mai 2001 nr. 445](forskrift/2001-05-04-445)), [13 des 2002 nr. 83](lov/2002-12-13-83).
+
+1 Jf. [EØS-avtalen vedlegg XIII kap. VI](avtale/avt-1992-05-02-1-v13).
 
 ### § 16-2. Forskriftsfullmakt – EFTA-konvensjonen
 
@@ -2387,6 +2415,8 @@ Denne lov trer i kraft fra den dag1 Kongen bestemmer.
 
 Det kan bestemmes at visse deler av loven skal tre i kraft fra et tidligere tidspunkt enn andre.
 
+1 Fra 1 apr 1994 iflg. [res. 11 mars 1994 nr. 200](forskrift/1994-03-11-200), 1 apr 1996 for Svalbard og Jan Mayen iflg. [res. 15 mars 1996 nr. 270](forskrift/1996-03-15-270).
+
 ### § 19-2. Endringer i og opphevelse av andre lover
 
 Fra den tid Kongen bestemmer oppheves eller endres følgende lover slik:[Lov av 16. desember 1960 nr. 1](lov/1960-12-16-1) om luftfart oppheves.– – –
@@ -2419,6 +2449,20 @@ Henvisninger i andre lover til bestemmelser som oppheves ved denne lov, skal gje
 
 > Tittelen endret ved forordning [(EF) 889/2002](eu/32002r0889). Se [lov 11 juni 1993 nr. 101 § 10-17 a](lov/1993-06-11-101/§10-17a).
 
+Merknad fra redaksjonen i Norges Lover: Det følger av EØS-avtalens protokoll 1 nr. 1 at innledningen (fortalen) til de rettsakter som EØS-avtalens vedlegg omhandler ikke er tilpasset EØS, og at innledningen bare er relevant i den grad den kan bidra til en korrekt tolkning av rettsakter innen rammen av EØS-avtalen. Dette er markert ved å sette innledningen i kursiv innenfor hakeparenteser. Det følger videre av protokoll 1 nr. 7 til nr. 9 at begrepene «Fellesskapet» og « EF» i en EØS-sammenheng må lese som «EØS». Dette er markert ved at «[EØS]» er tilføyd i teksten. Tilsvarende gjelder for «medlemsstat» , som av samme grunn må leses som «EØS-stat». Dette gjelder likevel ikke forordningens art. 8, jf. i denne sammenheng protokoll 1 sammenholdt med EØS-avtalen art. 7 bokstav a.
+
+[Rådet for Den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 84 nr. 2,
+
+under henvisning til forslag fra Kommisjonen,1
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+
+etter framgangsmåten fastsatt i traktatens artikkel 189 C3 og
+
+ut fra følgende betraktninger:
+
 1. Innenfor rammen av den felles transportpolitikk er det nødvendig å bedre beskyttelsen av passasjerer som blir utsatt for luftfartsulykker.
 2. Reglene om erstatningsansvar ved luftfartsulykker er omhandlet i overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Warszawa 12. oktober 1929, eller i overenskomsten slik den er endret i Haag 28. september 1955 samt i konvensjonen som ble vedtatt 18. september 1961 i Guadalajara, alt etter hvilken som får anvendelse, hver av dem heretter kalt «Warszawa- overenskomsten». Warszawa-overenskomsten anvendes over hele verden til beste for både passasjerer og luftfartsselskaper.
 3. De ansvarsgrensene som er fastsatt i Warszawa-overenskomsten, er for lave etter dagens økonomiske og sosiale forhold og fører ofte til langvarige rettssaker som skader luftfartens omdømme. Medlemsstatene har derfor hver for seg hevet ansvarsgrensene og dermed skapt ulike transportvilkår i det indre luftfartsmarked.
@@ -2434,6 +2478,32 @@ Henvisninger i andre lover til bestemmelser som oppheves ved denne lov, skal gje
 13. Reglene om erstatningsansvarets karakter og begrensning dersom en passasjer blir drept eller skadd på legeme eller helbred, inngår i transportvilkårene i transportavtalen mellom luftfartsselskapet og passasjeren. For å minske risikoen for konkurransevridning bør luftfartsselskaper fra tredjestater gi passasjerene tilstrekkelige opplysninger om sine transportvilkår.
 14. Det er hensiktsmessig og nødvendig å gjennomgå de økonomiske begrensningene i denne forordning på nytt for å ta hensyn til den økonomiske utviklingen og utviklingen i internasjonale fora.
 15. Den internasjonale organisasjon for sivil luftfart (ICAO) holder for tiden på med å revidere Warszawa-overenskomsten. Inntil resultatet av revisjonen foreligger vil midlertidige fellesskapstiltak gi passasjerene bedre beskyttelse. Rådet bør ta denne forordning opp til ny vurdering snarest mulig etter at ICAO har revidert Warszawa-overenskomsten –
+
+1 EFT. C 104 av 10.4.1996, s. 18 og EFT. C 29 av 30.1.1997, s. 10.
+
+2 EFT. C 212 av 22.7.1996, s. 38.
+
+3 Europaparlamentsuttalelse av 17. september 1996 (EFT. C 320 av 28.10.1996, s. 30), Rådets felles holdning av 24. februar 1997 (EFT. C 123 av 21.4.1997, s. 89) og europaparlamentsbeslutning av 29. mai 1997 (EFT. C 182 av 16.6.1997).
+
+4 EFT. L 240 av 24.8.1992, s. 1.
+
+vedtatt denne forordning:]
+
+Nedenfor gjengis fortalen til Europaparlaments- og rådsforordning [(EF) nr. 889/2002](eu/32002r0889) av 13. mai 2002 om endring av rådsforordning [(EF) nr. 2027/97](eu/31997r2027) om luftfartsselskapers erstatningsansvar ved ulykker.
+
+[Europaparlamentet og Rådet for den europeiske union har –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 80 nr. 2,
+
+under henvisning til forslag fra Kommisjonen,1
+
+under henvisning til uttalelse fra Den økonomiske og sosiale komité,2
+
+etter samråd med Regionkomiteen,
+
+etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+
+ut fra følgende betraktninger:
 
 1. Innenfor rammen av den felles transportpolitikk er det viktig å sikre et rimelig erstatningsnivå for passasjerer som blir utsatt for luftfartsulykker.
 2. Ved en ny overenskomst om innføring av visse ensartede regler om internasjonal luftbefordring som ble vedtatt i Montreal 28. mai 1999, ble det fastsatt nye internasjonale regler om erstatningsansvar ved luftfartsulykker som erstatter reglene i [Warszawa-konvensjonen](traktat/1929-10-12-1) fra 1929 og senere endringer av den.4
@@ -2454,6 +2524,20 @@ Henvisninger i andre lover til bestemmelser som oppheves ved denne lov, skal gje
 17. Det er nødvendig å gjennomgå beløpene i denne forordning på nytt for å ta hensyn til inflasjonen og eventuelle endringer av grensene for erstatningsansvar i [Montreal-konvensjonene.](traktat/1999-05-28-22)
 18. I den grad ytterligere regler er nødvendig for å gjennomføre Montreal- konvensjonen på de punkter som ikke omfattes av forordning [(EF) nr. 2027/97](eu/31997r2027), er det medlemsstatenes ansvar å fastsette slike bestemmelser –
 
+1 EFT C 337 E av 28.11.2000, s. 68 og EFT C 213 E av 31.7.2001 s. 298.
+
+2 EFT C 123 av 25.4.2001, s. 47.
+
+3 Europaparlamentsuttalelse av 5. april 2001 (EFT C 21 av 24.1.2002, s. 256.), Rådets felles holdning av 19. desember 2001 (EFT C 58 E av 5.3.2002, s. 8) og europaparlamentsbeslutning av 12. mars 2002.
+
+4 EFT L 194 av 18.7.2001, s. 38.
+
+5 EFT L 285 av 17.10.1997, s. 1.
+
+6 EFT L 240 av 24.8.1992, s. 1.
+
+vedtatt denne forordning:]
+
 ### Art 1
 
 Denne forordning gjennomfører de relevante bestemmelser i [Montreal-konvensjonen med](traktat/1999-05-28-22) hensyn til lufttransport av passasjerer og deres bagasje og fastsetter visse tilleggsbestemmelser. Den utvider også bestemmelsenes virkeområde til å omfatte lufttransport innenfor en enkelt medlemsstat [EØS-stat].
@@ -2462,17 +2546,19 @@ Denne forordning gjennomfører de relevante bestemmelser i [Montreal-konvensjone
 
 ### Art 2
 
-1. I denne forordning menes med«luftfartsselskap»: et lufttransportforetak som har gyldig lisens,«EF[EØS]-luftfartsselskap»: et luftfartsselskap som har gyldig lisens utstedt av en medlemsstat [EØS-stat] i samsvar med bestemmelsene i forordning [(EØF) nr. 2407/92](eu/31992r2407),«person som har rett til erstatning»: en passasjer eller enhver person som etter gjeldende lovgivning har rett til å reise krav i forbindelse med en passasjer,«bagasje»: med mindre annet er oppgitt, både innsjekket og ikke- innsjekket bagasje, som definert i Montreal-konvensjonens artikkel 17 nr. 4,«SDR»: spesiell trekkrettighet som er fastsatt av Det internasjonale valutafond,1«[Warszawa-konvensjonen»:](traktat/1929-10-12-1) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Warszawa 12. oktober 1929, eller Warszawa-overenskomsten som endret i Haag 28. september 1955 og tilleggskonvensjonen til Warszawa-overenskomsten vedtatt i Guadalajara 18. september 1961,«[Montreal-konvensjonen»:](traktat/1999-05-28-22) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Montreal 28. mai 1999.
+1\. I denne forordning menes med«luftfartsselskap»: et lufttransportforetak som har gyldig lisens,«EF[EØS]-luftfartsselskap»: et luftfartsselskap som har gyldig lisens utstedt av en medlemsstat [EØS-stat] i samsvar med bestemmelsene i forordning [(EØF) nr. 2407/92](eu/31992r2407),«person som har rett til erstatning»: en passasjer eller enhver person som etter gjeldende lovgivning har rett til å reise krav i forbindelse med en passasjer,«bagasje»: med mindre annet er oppgitt, både innsjekket og ikke- innsjekket bagasje, som definert i Montreal-konvensjonens artikkel 17 nr. 4,«SDR»: spesiell trekkrettighet som er fastsatt av Det internasjonale valutafond,1«[Warszawa-konvensjonen»:](traktat/1929-10-12-1) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Warszawa 12. oktober 1929, eller Warszawa-overenskomsten som endret i Haag 28. september 1955 og tilleggskonvensjonen til Warszawa-overenskomsten vedtatt i Guadalajara 18. september 1961,«[Montreal-konvensjonen»:](traktat/1999-05-28-22) overenskomsten om innføring av visse ensartede regler om internasjonal luftbefordring, undertegnet i Montreal 28. mai 1999.
 
-2. Begreper i denne forordning som ikke er definert i nr. 1, skal tilsvare begrepene i [Warszawa-konvensjonen.](traktat/1929-10-12-1)
+2\. Begreper i denne forordning som ikke er definert i nr. 1, skal tilsvare begrepene i [Warszawa-konvensjonen.](traktat/1929-10-12-1)
 
 > Endret ved frd. [889/2002](eu/32002r0889).
 
+1 Se note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
 ### Art 3
 
-1. Et EF[EØS]-luftfartsselskaps erstatningsansvar for passasjerer og deres bagasje er underlagt de bestemmelser i [Montreal-konvensjonen](traktat/1999-05-28-22) som er relevante for den typen erstatningsansvar.
+1\. Et EF[EØS]-luftfartsselskaps erstatningsansvar for passasjerer og deres bagasje er underlagt de bestemmelser i [Montreal-konvensjonen](traktat/1999-05-28-22) som er relevante for den typen erstatningsansvar.
 
-2. Med forsikringsplikten fastsatt i artikkel 7 i forordning [(EØF) nr. 2407/92](eu/31992r2407) når det gjelder erstatningsansvar for passasjerer menes et krav om at et EF[EØS]-luftfartsselskap skal være forsikret for et beløp som er tilstrekkelig til å sikre at alle personer som har rett til erstatning, får utbetalt hele det beløpet de har rett til i henhold til denne forordning.
+2\. Med forsikringsplikten fastsatt i artikkel 7 i forordning [(EØF) nr. 2407/92](eu/31992r2407) når det gjelder erstatningsansvar for passasjerer menes et krav om at et EF[EØS]-luftfartsselskap skal være forsikret for et beløp som er tilstrekkelig til å sikre at alle personer som har rett til erstatning, får utbetalt hele det beløpet de har rett til i henhold til denne forordning.
 
 > Endret ved frd. [889/2002](eu/32002r0889).
 
@@ -2488,21 +2574,21 @@ Tilleggsbeløpet som EF[EØS]- luftfartsselskaper i henhold til artikkel 22 nr. 
 
 ### Art 5
 
-1. EF[EØS]-luftfartsselskapet skal omgående, og ikke under noen omstendighet senere enn 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov, og som står i forhold til omfanget av den skade som er lidt.
+1\. EF[EØS]-luftfartsselskapet skal omgående, og ikke under noen omstendighet senere enn 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov, og som står i forhold til omfanget av den skade som er lidt.
 
-2. Med forbehold for nr. 1 skal forskuddet ikke være mindre enn 16 000 SDR uttrykt i euro per passasjer ved død.
+2\. Med forbehold for nr. 1 skal forskuddet ikke være mindre enn 16 000 SDR uttrykt i euro per passasjer ved død.
 
-3. Utbetaling av forskudd er ikke ensbetydende med erkjennelse av ansvar, og forskuddet kan trekkes fra ethvert beløp som senere utbetales på grunnlag av EF[EØS]-luftfartsselskapets ansvar; beløpet skal tilbakebetales bare i de tilfellene som er nevnt i Montreal-konvensjonens artikkel 20, eller dersom personen som mottok forskuddet, ikke var den person som hadde rett til erstatning.
+3\. Utbetaling av forskudd er ikke ensbetydende med erkjennelse av ansvar, og forskuddet kan trekkes fra ethvert beløp som senere utbetales på grunnlag av EF[EØS]-luftfartsselskapets ansvar; beløpet skal tilbakebetales bare i de tilfellene som er nevnt i Montreal-konvensjonens artikkel 20, eller dersom personen som mottok forskuddet, ikke var den person som hadde rett til erstatning.
 
 > Endret ved frd. [889/2002](eu/32002r0889).
 
 ### Art 6
 
-1. Alle luftfartsselskaper skal, når de selger lufttransport i Fellesskapet[EØS], sikre at passasjerene har tilgang til en oversikt over de viktigste bestemmelsene om erstatningsansvar for passasjerer og deres bagasje, herunder opplysninger om fristene for å reise krav om erstatning og muligheten for å avgi en særlig erklæring om bagasjen, på alle utsalgssteder, herunder ved salg over telefon og via Internett. For å oppfylle dette informasjonskravet skal EF[EØS]- luftfartsselskaper bruke dokumentet i vedlegget. En slik oversikt eller et slikt dokument kan ikke legges til grunn for et krav om erstatning eller fortolkningen av bestemmelsene i denne forordning eller i Montreal- konvensjonen.
+1\. Alle luftfartsselskaper skal, når de selger lufttransport i Fellesskapet[EØS], sikre at passasjerene har tilgang til en oversikt over de viktigste bestemmelsene om erstatningsansvar for passasjerer og deres bagasje, herunder opplysninger om fristene for å reise krav om erstatning og muligheten for å avgi en særlig erklæring om bagasjen, på alle utsalgssteder, herunder ved salg over telefon og via Internett. For å oppfylle dette informasjonskravet skal EF[EØS]- luftfartsselskaper bruke dokumentet i vedlegget. En slik oversikt eller et slikt dokument kan ikke legges til grunn for et krav om erstatning eller fortolkningen av bestemmelsene i denne forordning eller i Montreal- konvensjonen.
 
-2. I tillegg til informasjonskravet fastsatt i nr. 1 skal alle luftfartsselskaper i forbindelse med lufttransport som ytes eller kjøpes i Fellesskapet [EØS], gi alle passasjerer skriftlige opplysninger om:Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved dødsfall eller personskade, dersom det finnes en slik grense.Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved ødeleggelse, tap av eller skade på bagasje, samt en advarsel om at dersom verdien på bagasjen overstiger dette beløp, bør luftfartsselskapet underrettes ved innsjekkingen eller passasjeren bør fullforsikre bagasjen før avreise.Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved tap som skyldes forsinkelse.
+2\. I tillegg til informasjonskravet fastsatt i nr. 1 skal alle luftfartsselskaper i forbindelse med lufttransport som ytes eller kjøpes i Fellesskapet [EØS], gi alle passasjerer skriftlige opplysninger om:Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved dødsfall eller personskade, dersom det finnes en slik grense.Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved ødeleggelse, tap av eller skade på bagasje, samt en advarsel om at dersom verdien på bagasjen overstiger dette beløp, bør luftfartsselskapet underrettes ved innsjekkingen eller passasjeren bør fullforsikre bagasjen før avreise.Den grensen som gjelder på denne flygingen for luftfartsselskapets erstatningsansvar ved tap som skyldes forsinkelse.
 
-3. Ved all lufttransport som utføres av EF[EØS]-luftfartsselskaper skal de grenser som oppgis i samsvar med informasjonskravet i nr. 1 og 2, være de samme som er fastsatt i denne forordning, med mindre EF[EØS]- luftfartsselskapene frivillig innfører høyere grenser. Når det gjelder lufttransport som utføres av luftfartsselskaper som ikke er EF[EØS]- luftfartsselskaper, får nr. 1 og 2 anvendelse bare i forbindelse med lufttransport til, fra eller innenfor Fellesskapet.
+3\. Ved all lufttransport som utføres av EF[EØS]-luftfartsselskaper skal de grenser som oppgis i samsvar med informasjonskravet i nr. 1 og 2, være de samme som er fastsatt i denne forordning, med mindre EF[EØS]- luftfartsselskapene frivillig innfører høyere grenser. Når det gjelder lufttransport som utføres av luftfartsselskaper som ikke er EF[EØS]- luftfartsselskaper, får nr. 1 og 2 anvendelse bare i forbindelse med lufttransport til, fra eller innenfor Fellesskapet.
 
 > Endret ved frd. [889/2002](eu/32002r0889).
 
@@ -2522,29 +2608,75 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Dette dokument inneholder et sammendrag av de regler for erstatningsansvar som gjelder for EF[EØS]-luftfartsselskaper i henhold til Fellesskapets regelverk og [Montreal-konvensjonen.](traktat/1999-05-28-22)
 
+Erstatning ved dødsfall eller personskade
+
 Det er ingen økonomiske grenser for erstatningsansvaret dersom passasjerer blir drept eller skadd. For skader opptil 100.000 SDR1 (omtrentlig beløp i lokal valuta) kan luftfartsselskapet ikke bestride erstatningskrav. Ved høyere beløp kan luftfartsselskapet motsette seg krav dersom det kan bevise at det ikke har handlet uaktsomt eller på annen måte har voldt skaden.
+
+1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
+Forskuddsbetalinger
 
 Dersom en passasjer blir drept eller skadd, skal luftfartsselskapet senest 15 dager etter at identiteten til den person som har rett til erstatning, er fastslått, utbetale et forskudd som dekker umiddelbare økonomiske behov. Ved dødsfall skal forskuddet ikke være mindre enn 16 000 SDR1 (omtrentlig beløp i lokal valuta).
 
+1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
+Forsinkelse av passasjerer
+
 Dersom passasjerene blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av passasjerer er begrenset til 4 150 SDR1 (omtrentlig beløp i lokal valuta).
+
+1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
+Forsinkelse av bagasje
 
 Dersom bagasjen blir forsinket, er luftfartsselskapet erstatningsansvarlig med mindre det har tatt alle rimelige forholdsregler for å unngå skaden eller det var umulig å ta slike forholdsregler. Erstatningsansvaret ved forsinkelse av bagasje er begrenset til 1 000 SDR1 (omtrentlig beløp i lokal valuta).
 
+1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
+Ødelagt, tapt eller skadd bagasje
+
 Luftfartsselskapet er erstatningsansvarlig for ødeleggelse, tap av eller skade på bagasje med opptil 1 000 SDR1 (omtrentlig beløp i lokal valuta). Når det gjelder innsjekket bagasje er luftfartsselskapet erstatningsansvarlig selv om det ikke har voldt skaden, med mindre bagasjen var defekt. Når det gjelder ikke-innsjekket bagasje er luftfartsselskapet erstatningsansvarlig bare dersom det har voldt skaden.
+
+1 Se art. 2, 1, e og note til [sjøl. § 505](lov/1994-06-24-39/§505).
+
+Høyere grenser for bagasje
 
 Passasjerer kan oppnå en høyere grense for erstatningsansvar ved å avgi en særlig erklæring ved innsjekkingen og betale en tilleggsavgift.
 
+Klager i forbindelse med bagasje
+
 Ved skadet, forsinket eller ødelagt bagasje må passasjeren snarest mulig levere en skriftlig klage til luftfartsselskapet. Ved skader på innsjekket bagasje må passasjeren levere en skriftlig klage innen sju dager, og ved forsinkelse innen 21 dager, i begge tilfeller regnet fra den dagen da bagasjen ble stilt til passasjerens rådighet.
+
+Erstatningsansvar for kontraherende luftfartsselskaper og de luftfartsselskaper som utfører flygingen
 
 Dersom luftfartsselskapet som utfører flygingen ikke er det samme som det kontraherende luftfartsselskap, har passasjeren rett til å klage til eller reise et krav om erstatning mot begge. Dersom et luftfartsselskaps navn eller kode er påført billetten, er dette luftfartsselskapet det kontraherende luftfartsselskap.
 
+Frist for søksmål
+
 Erstatningssaker skal anlegges for domstolene innen to år fra den dag da luftfartøyet ankom eller burde ha ankommet.
+
+Opplysningsgrunnlag
 
 Ovennevnte regler bygger på [Montreal-konvensjonen av 28. mai 1999,](traktat/1999-05-28-22) som gjennomføres i Fellesskapet ved forordning [(EF) nr. 2027/97](eu/31997r2027), endret ved forordning [(EF) nr. 889/2002](eu/32002r0889) og medlemsstatenes nasjonale lovgivning.
 
 ### EØS-avtalen vedlegg XIII nr. 66gc (Europaparlaments- og rådsforordning (EU) nr. 376/2014 av 3. april 2014 om rapportering, analysering og oppfølging av tilfeller innen sivil luftfart, om endring av europaparlaments- og rådsforordning (EU) nr. 996/2010 og om oppheving av europaparlaments- og rådsdirektiv 2003/42/EF og kommisjonsforordning (EF) nr. 1321/2007 og (EF) nr. 1330/2007)
 
 > Forordning tilføyd ved [kunngjøring 16 sep 2016 nr. 1088](forskrift/2016-09-16-1088). Se [lov 11 juni 1993 nr. 101 § 12-10](lov/1993-06-11-101/§12-10).
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 100 nr. 2,
+
+under henvisning til forslag fra Europakommisjonen,
+
+etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+etter samråd med Regionkomiteen,
+
+etter den ordinære regelverksprosessen2 og
+
+ut fra følgende betraktninger:
 
 1. Det bør sikres et høyt allment sikkerhetsnivå innen sivil luftfart i Unionen, og alt bør gjøres for å redusere antall ulykker og hendelser for å sikre offentlighetens tillit til lufttransport.
 2. Antall ulykker med dødelig utgang innen sivil luftfart har vært relativt konstant i den siste tiårsperioden. Økt lufttrafikk og stadig mer teknisk kompliserte luftfartøyer kan imidlertid føre til at antall ulykker stiger i de neste tiårsperiodene.
@@ -2602,11 +2734,37 @@ Ovennevnte regler bygger på [Montreal-konvensjonen av 28. mai 1999,](traktat/19
 54. Europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042),9 kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321)10 og kommisjonsforordning [(EF) nr. 1330/2007](eu/32007r1330)11 bør derfor oppheves.
 55. EUs datatilsynsmann er rådspurt i samsvar med artikkel 28 nr. 2 i forordning [(EF) nr. 45/2001](eu/32001r0045*) og avga uttalelse 10. april 201312 –
 
+1 EUT C 198 av 10.7.2013, s. 73.
+
+2 Europaparlamentets holdning av 26. februar 2014 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 14. mars 2014.
+
+3 Europaparlaments- og rådsforordning [(EU) nr. 996/2010](eu/32010r0996) av 20. oktober 2010 om undersøkelse og forebygging av ulykker og hendelser innen sivil luftfart og om oppheving av direktiv [94/56/EF](eu/31994l0056*) (EUT L 295 av 12.11.2010, s. 35).
+
+4 Europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) av 20. februar 2008 om felles regler for sivil luftfart og om opprettelse av et europeisk flysikkerhetsbyrå, og om oppheving av rådsdirektiv [91/670/EØF](eu/31991l0670), forordning [(EF) nr. 1592/2002](eu/32002r1592) og direktiv [2004/36/EF](eu/32004l0036) (EUT L 79 av 19.3.2008, s. 1).
+
+5 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
+
+6 Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger (EFT L 281 av 23.11.1995, s. 31).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger (EFT L 8 av 12.1.2001, s. 1).
+
+8 Europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter (EFT L 145 av 31.5.2001, s. 43).
+
+9 Europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042) av 13. juni 2003 om rapportering av hendelser innen sivil luftfart (EUT L 167 av 4.7.2003, s. 23).
+
+10 Kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321) av 12. november 2007 om fastsettelse av gjennomføringsregler for registrering i et sentralt datalager av opplysninger om hendelser innen sivil luftfart som utveksles i samsvar med europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042) (EUT L 294 av 13.11.2007, s. 3).
+
+11 Kommisjonsforordning [(EF) nr. 1330/2007](eu/32007r1330) av 24. september 2007 om fastsettelse av gjennomføringsregler for videreformidling av opplysninger om hendelser innen sivil luftfart til berørte parter i samsvar med artikkel 7 nr. 2 i europaparlaments- og rådsdirektiv [2003/42/EF](eu/32003l0042) (EUT L 295 av 14.11.2007, s. 7).
+
+12 EUT C 358 av 7.12.2013, s. 19.
+
+VEDTATT DENNE FORORDNING:
+
 ### Art 1. Mål
 
-1. Målet for denne forordning er å bedre flysikkerheten ved å sikre at relevante sikkerhetsopplysninger knyttet til sivil luftfart rapporteres, samles inn, lagres, vernes, utveksles, videreformidles og analyseres.Denne forordning sikrer:at det, når det er egnet, treffes rettidige sikkerhetstiltak basert på en analyse av innsamlede opplysninger,at sikkerhetsopplysninger til enhver tid er tilgjengelig ved at det innføres regler for fortrolig behandling og riktig bruk av opplysninger og ved harmonisert og økt vern av rapportører og personer som er nevnt i rapporter om tilfeller, ogat flysikkerhetsrisikoer vurderes og håndteres både på unionsplan og på nasjonalt plan.
+1\. Målet for denne forordning er å bedre flysikkerheten ved å sikre at relevante sikkerhetsopplysninger knyttet til sivil luftfart rapporteres, samles inn, lagres, vernes, utveksles, videreformidles og analyseres.Denne forordning sikrer:at det, når det er egnet, treffes rettidige sikkerhetstiltak basert på en analyse av innsamlede opplysninger,at sikkerhetsopplysninger til enhver tid er tilgjengelig ved at det innføres regler for fortrolig behandling og riktig bruk av opplysninger og ved harmonisert og økt vern av rapportører og personer som er nevnt i rapporter om tilfeller, ogat flysikkerhetsrisikoer vurderes og håndteres både på unionsplan og på nasjonalt plan.
 
-2. Det eneste målet med rapportering av tilfeller er å forebygge ulykker og hendelser, ikke å fordele skyld eller ansvar.
+2\. Det eneste målet med rapportering av tilfeller er å forebygge ulykker og hendelser, ikke å fordele skyld eller ansvar.
 
 ### Art 2. Definisjoner
 
@@ -2614,213 +2772,215 @@ I denne forordning menes med:«rapportør» en fysisk person som rapporterer et 
 
 ### Art 3. Formål og virkeområde
 
-1. Ved denne forordning fastsettes det regler for:rapportering av tilfeller som, dersom det ikke treffes mottiltak, kan sette et luftfartøy, personer om bord, andre personer, utstyr eller installasjoner som påvirker driften av luftfartøyet, i fare, og rapportering av andre relevante sikkerhetsopplysninger i denne forbindelse,analysering og oppfølgingstiltak med hensyn til rapporterte tilfeller og andre sikkerhetsrelaterte opplysninger,vern av luftfartspersonale,riktig bruk av innsamlede sikkerhetsopplysninger,registrering av opplysninger i det europeiske sentrale datalageret ogvidereformidling av anonymiserte opplysninger til berørte parter med sikte på å gi slike parter opplysningene de trenger for å bedre flysikkerheten.
+1\. Ved denne forordning fastsettes det regler for:rapportering av tilfeller som, dersom det ikke treffes mottiltak, kan sette et luftfartøy, personer om bord, andre personer, utstyr eller installasjoner som påvirker driften av luftfartøyet, i fare, og rapportering av andre relevante sikkerhetsopplysninger i denne forbindelse,analysering og oppfølgingstiltak med hensyn til rapporterte tilfeller og andre sikkerhetsrelaterte opplysninger,vern av luftfartspersonale,riktig bruk av innsamlede sikkerhetsopplysninger,registrering av opplysninger i det europeiske sentrale datalageret ogvidereformidling av anonymiserte opplysninger til berørte parter med sikte på å gi slike parter opplysningene de trenger for å bedre flysikkerheten.
 
-2. Denne forordning får anvendelse for tilfeller og andre sikkerhetsrelaterte opplysninger som omfatter sivile luftfartøyer, med unntak av luftfartøyene nevnt i vedlegg II til forordning [(EF) nr. 216/2008](eu/32008r0216). Medlemsstatene kan beslutte å la denne forordning få anvendelse også for tilfeller og andre sikkerhetsrelaterte opplysninger som omfatter luftfartøyene nevnt i vedlegg II til nevnte forordning.
+2\. Denne forordning får anvendelse for tilfeller og andre sikkerhetsrelaterte opplysninger som omfatter sivile luftfartøyer, med unntak av luftfartøyene nevnt i vedlegg II til forordning [(EF) nr. 216/2008](eu/32008r0216). Medlemsstatene kan beslutte å la denne forordning få anvendelse også for tilfeller og andre sikkerhetsrelaterte opplysninger som omfatter luftfartøyene nevnt i vedlegg II til nevnte forordning.
 
 ### Art 4. Obligatorisk rapportering
 
-1. Tilfeller som kan utgjøre en betydelig risiko for flysikkerheten, og som faller inn under følgende kategorier, skal rapporteres av personene angitt i nr. 6 via systemene for obligatorisk rapportering av tilfeller i henhold til denne artikkel:tilfeller knyttet til driften av luftfartøyet, for eksempel:tilfeller knyttet til kollisjoner,tilfeller knyttet til avgang og landing,tilfeller knyttet til drivstoff,tilfeller som inntreffer under flyging,tilfeller knyttet til kommunikasjon,tilfeller knyttet til personskade, nødssituasjoner og andre kritiske situasjoner,svikt hos besetningen og andre tilfeller knyttet til besetningen,værforhold eller tilfeller knyttet til sikkerhet,tilfeller knyttet til tekniske forhold, vedlikehold og reparasjon av luftfartøy, for eksempel:strukturelle feil,funksjonssvikt i systemer,vedlikeholds- og reparasjonsproblemer,drivkraftproblemer (herunder motorer, propeller og rotorsystemer) og hjelpemotorproblemer,tilfeller knyttet til flysikringstjenester og -anlegg, for eksempel:kollisjoner, nestenkollisjoner eller kollisjonspotensial,særskilte tilfeller knyttet til lufttrafikkstyrings- og flysikringstjenester (ATM/ANS),tilfeller knyttet til drift av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS),tilfeller knyttet til flyplasser og bakketjenester, for eksempel:tilfeller knyttet til aktiviteter og anlegg på flyplasser,tilfeller knyttet til håndtering av passasjerer, bagasje, post og frakt,tilfeller knyttet til bakkearbeid på luftfartøy og tilknyttede tjenester.
+1\. Tilfeller som kan utgjøre en betydelig risiko for flysikkerheten, og som faller inn under følgende kategorier, skal rapporteres av personene angitt i nr. 6 via systemene for obligatorisk rapportering av tilfeller i henhold til denne artikkel:tilfeller knyttet til driften av luftfartøyet, for eksempel:tilfeller knyttet til kollisjoner,tilfeller knyttet til avgang og landing,tilfeller knyttet til drivstoff,tilfeller som inntreffer under flyging,tilfeller knyttet til kommunikasjon,tilfeller knyttet til personskade, nødssituasjoner og andre kritiske situasjoner,svikt hos besetningen og andre tilfeller knyttet til besetningen,værforhold eller tilfeller knyttet til sikkerhet,tilfeller knyttet til tekniske forhold, vedlikehold og reparasjon av luftfartøy, for eksempel:strukturelle feil,funksjonssvikt i systemer,vedlikeholds- og reparasjonsproblemer,drivkraftproblemer (herunder motorer, propeller og rotorsystemer) og hjelpemotorproblemer,tilfeller knyttet til flysikringstjenester og -anlegg, for eksempel:kollisjoner, nestenkollisjoner eller kollisjonspotensial,særskilte tilfeller knyttet til lufttrafikkstyrings- og flysikringstjenester (ATM/ANS),tilfeller knyttet til drift av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS),tilfeller knyttet til flyplasser og bakketjenester, for eksempel:tilfeller knyttet til aktiviteter og anlegg på flyplasser,tilfeller knyttet til håndtering av passasjerer, bagasje, post og frakt,tilfeller knyttet til bakkearbeid på luftfartøy og tilknyttede tjenester.
 
-2. Hver organisasjon som er etablert i en medlemsstat, skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller nevnt i nr. 1.
+2\. Hver organisasjon som er etablert i en medlemsstat, skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller nevnt i nr. 1.
 
-3. Hver medlemsstat skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller, herunder innsamling av slike opplysninger som er samlet inn av organisasjoner i henhold til nr. 2.
+3\. Hver medlemsstat skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller, herunder innsamling av slike opplysninger som er samlet inn av organisasjoner i henhold til nr. 2.
 
-4. Det europeiske flysikkerhetsbyrå («Byrået») skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller, herunder innsamling av slike opplysninger i henhold til nr. 2 som er samlet inn av organisasjoner som er sertifisert eller godkjent av Byrået.
+4\. Det europeiske flysikkerhetsbyrå («Byrået») skal opprette et system for obligatorisk rapportering for å fremme innsamling av opplysninger om tilfeller, herunder innsamling av slike opplysninger i henhold til nr. 2 som er samlet inn av organisasjoner som er sertifisert eller godkjent av Byrået.
 
-5. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta en liste med en klassifisering av tilfeller det skal vises til ved rapportering av tilfeller i henhold til nr. 1. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.I disse gjennomføringsrettsakter skal Kommisjonen innføre en atskilt liste med klassifisering av tilfeller som gjelder for andre luftfartøyer enn motordrevne, teknisk kompliserte luftfartøyer. Listen skal være en forenklet utgave av listen nevnt i første ledd, og skal, når det er hensiktsmessig, tilpasses de særlige forhold som gjelder for denne del av luftfarten.
+5\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta en liste med en klassifisering av tilfeller det skal vises til ved rapportering av tilfeller i henhold til nr. 1. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.I disse gjennomføringsrettsakter skal Kommisjonen innføre en atskilt liste med klassifisering av tilfeller som gjelder for andre luftfartøyer enn motordrevne, teknisk kompliserte luftfartøyer. Listen skal være en forenklet utgave av listen nevnt i første ledd, og skal, når det er hensiktsmessig, tilpasses de særlige forhold som gjelder for denne del av luftfarten.
 
-6. Følgende fysiske personer skal rapportere tilfellene nevnt i nr. 1 via systemet som er opprettet av organisasjonene som har rapportøren som ansatt, leier inn eller bruker rapportørens tjenester i samsvar med nr. 2, eller, dersom dette ikke er tilfellet, via systemet som er opprettet av medlemsstaten der organisasjonen er etablert i samsvar med nr. 3, eller av staten som har utstedt, godkjent eller konvertert flygerens sertifikat, eller via systemet som er opprettet av Byrået i henhold til nr. 4:fartøysjefen eller, dersom fartøysjefen ikke er i stand til å rapportere tilfellet, et hvilket som helst annet besetningsmedlem som er den neste i kommandorekken for et luftfartøy som er registrert i en medlemsstat, eller et luftfartøy som er registrert utenfor Unionen, men som brukes av en operatør hvis virksomhet står under tilsyn av en medlemsstat, eller en operatør som er etablert i Unionen,en person som under tilsyn av en medlemsstat eller Byrået arbeider med design, konstruksjon, sikring av kontinuerlig luftdyktighet, vedlikehold eller endring av et luftfartøy eller utstyr i eller deler av et luftfartøy,en person som under tilsyn av en medlemsstat eller Byrået underskriver et sertifikat for inspeksjon av luftdyktighet, eller et sertifikat for frigivelse for bruk for et luftfartøy eller utstyr i eller deler av et luftfartøy,en person som utøver en funksjon som krever at vedkommende er godkjent av en medlemsstat som ansatt hos en yter av lufttrafikktjenester som er blitt tillagt ansvar knyttet til flysikringstjenester, eller som ansatt i en flygeinformasjonstjeneste,en person som utøver en funksjon i forbindelse med sikkerhetsstyring av en lufthavn, som europaparlaments- og rådsforordning [(EF) nr. 1008/2008](eu/32008r1008)1 får anvendelse for,en person som utøver en funksjon i forbindelse med installering, endring, vedlikehold, reparasjon, ettersyn, kontrollflyging eller inspeksjon av luftfartsanlegg som en medlemsstat fører tilsyn med,en person som utøver en funksjon i forbindelse med bakkearbeid på et luftfartøy, herunder drivstoffpåfylling, utarbeiding av lastedokumentasjon, lasting, avising og tauing, ved en lufthavn som omfattes av forordning [(EF) nr. 1008/2008](eu/32008r1008).
+6\. Følgende fysiske personer skal rapportere tilfellene nevnt i nr. 1 via systemet som er opprettet av organisasjonene som har rapportøren som ansatt, leier inn eller bruker rapportørens tjenester i samsvar med nr. 2, eller, dersom dette ikke er tilfellet, via systemet som er opprettet av medlemsstaten der organisasjonen er etablert i samsvar med nr. 3, eller av staten som har utstedt, godkjent eller konvertert flygerens sertifikat, eller via systemet som er opprettet av Byrået i henhold til nr. 4:fartøysjefen eller, dersom fartøysjefen ikke er i stand til å rapportere tilfellet, et hvilket som helst annet besetningsmedlem som er den neste i kommandorekken for et luftfartøy som er registrert i en medlemsstat, eller et luftfartøy som er registrert utenfor Unionen, men som brukes av en operatør hvis virksomhet står under tilsyn av en medlemsstat, eller en operatør som er etablert i Unionen,en person som under tilsyn av en medlemsstat eller Byrået arbeider med design, konstruksjon, sikring av kontinuerlig luftdyktighet, vedlikehold eller endring av et luftfartøy eller utstyr i eller deler av et luftfartøy,en person som under tilsyn av en medlemsstat eller Byrået underskriver et sertifikat for inspeksjon av luftdyktighet, eller et sertifikat for frigivelse for bruk for et luftfartøy eller utstyr i eller deler av et luftfartøy,en person som utøver en funksjon som krever at vedkommende er godkjent av en medlemsstat som ansatt hos en yter av lufttrafikktjenester som er blitt tillagt ansvar knyttet til flysikringstjenester, eller som ansatt i en flygeinformasjonstjeneste,en person som utøver en funksjon i forbindelse med sikkerhetsstyring av en lufthavn, som europaparlaments- og rådsforordning [(EF) nr. 1008/2008](eu/32008r1008)1 får anvendelse for,en person som utøver en funksjon i forbindelse med installering, endring, vedlikehold, reparasjon, ettersyn, kontrollflyging eller inspeksjon av luftfartsanlegg som en medlemsstat fører tilsyn med,en person som utøver en funksjon i forbindelse med bakkearbeid på et luftfartøy, herunder drivstoffpåfylling, utarbeiding av lastedokumentasjon, lasting, avising og tauing, ved en lufthavn som omfattes av forordning [(EF) nr. 1008/2008](eu/32008r1008).
 
-7. Personene nevnt i nr. 6 skal rapportere et tilfelle innen 72 timer etter at de fikk kjennskap til det, med mindre særlig omstendigheter forhindrer dette.
+7\. Personene nevnt i nr. 6 skal rapportere et tilfelle innen 72 timer etter at de fikk kjennskap til det, med mindre særlig omstendigheter forhindrer dette.
 
-8. Etter at et tilfelle er meldt, skal alle organisasjoner som er etablert i en medlemsstat som ikke omfattes av nr. 9, rapportere opplysningene om tilfellene som er samlet inn i samsvar med nr. 2 i denne artikkel, så snart som mulig og senest 72 timer etter at de fikk kjennskap til tilfellet, til vedkommende myndighet i nevnte medlemsstat som nevnt i artikkel 6 nr. 3.
+8\. Etter at et tilfelle er meldt, skal alle organisasjoner som er etablert i en medlemsstat som ikke omfattes av nr. 9, rapportere opplysningene om tilfellene som er samlet inn i samsvar med nr. 2 i denne artikkel, så snart som mulig og senest 72 timer etter at de fikk kjennskap til tilfellet, til vedkommende myndighet i nevnte medlemsstat som nevnt i artikkel 6 nr. 3.
 
-9. Etter at et tilfelle er meldt, skal hver organisasjon som er etablert i en medlemsstat, og som er sertifiserte eller godkjente av Byrået, rapportere opplysningene om tilfellene som er samlet inn i samsvar med nr. 2, så snart som mulig og senest 72 timer etter at den fikk kjennskap til tilfellet, til Byrået.
+9\. Etter at et tilfelle er meldt, skal hver organisasjon som er etablert i en medlemsstat, og som er sertifiserte eller godkjente av Byrået, rapportere opplysningene om tilfellene som er samlet inn i samsvar med nr. 2, så snart som mulig og senest 72 timer etter at den fikk kjennskap til tilfellet, til Byrået.
+
+1 Europaparlaments- og rådsforordning [(EF) nr. 1008/2008](eu/32008r1008) av 24. september 2008 om felles regler for drift av lufttrafikk i Fellesskapet (omarbeiding) (EUT L 293 av 31.10.2008, s. 3).
 
 ### Art 5. Frivillig rapportering
 
-1. Hver organisasjon som er etablert i en medlemsstat, skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.
+1\. Hver organisasjon som er etablert i en medlemsstat, skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.
 
-2. Hver medlemsstat skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.Systemet skal omfatte, men skal ikke være begrenset til, innsamling av opplysninger som organisasjoner har oversendt i henhold til nr. 6.
+2\. Hver medlemsstat skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.Systemet skal omfatte, men skal ikke være begrenset til, innsamling av opplysninger som organisasjoner har oversendt i henhold til nr. 6.
 
-3. Byrået skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.Systemet skal omfatte, men skal ikke være begrenset til, innsamling av opplysninger som er oversendt av organisasjoner som er sertifiserte eller godkjente av Byrået i henhold til nr. 5.
+3\. Byrået skal opprette et system for frivillig rapportering for å fremme innsamling av:opplysninger om tilfeller som ikke fanges opp av systemet for obligatorisk rapportering,andre sikkerhetsrelaterte opplysninger som rapportøren mener utgjør en faktisk eller potensiell fare for flysikkerheten.Systemet skal omfatte, men skal ikke være begrenset til, innsamling av opplysninger som er oversendt av organisasjoner som er sertifiserte eller godkjente av Byrået i henhold til nr. 5.
 
-4. Systemene for frivillig rapportering skal brukes til å fremme innsamling av opplysninger om tilfeller og sikkerhetsrelaterte opplysninger:som ikke er underlagt obligatorisk rapportering i henhold til artikkel 4 nr. 1,som rapporteres av personer som ikke er angitt i artikkel 4 nr. 6.
+4\. Systemene for frivillig rapportering skal brukes til å fremme innsamling av opplysninger om tilfeller og sikkerhetsrelaterte opplysninger:som ikke er underlagt obligatorisk rapportering i henhold til artikkel 4 nr. 1,som rapporteres av personer som ikke er angitt i artikkel 4 nr. 6.
 
-5. Hver organisasjon som er etablert i en medlemsstat, og som er sertifisert eller godkjent av Byrået, skal innen rimelig tid rapportere opplysninger om tilfeller og sikkerhetsrelaterte opplysninger som er samlet inn i henhold til nr. 1, og som kan utgjøre en faktisk eller potensiell risiko for flysikkerheten, til Byrået.
+5\. Hver organisasjon som er etablert i en medlemsstat, og som er sertifisert eller godkjent av Byrået, skal innen rimelig tid rapportere opplysninger om tilfeller og sikkerhetsrelaterte opplysninger som er samlet inn i henhold til nr. 1, og som kan utgjøre en faktisk eller potensiell risiko for flysikkerheten, til Byrået.
 
-6. Hver organisasjon som er etablert i en medlemsstat, og som ikke er sertifisert eller godkjent av Byrået, skal innen rimelig tid rapportere opplysninger om tilfeller og andre sikkerhetsrelaterte opplysninger som er samlet inn i henhold til nr. 1 i denne artikkel, og som kan utgjøre en faktisk eller potensiell risiko for flysikkerheten, til vedkommende myndighet i nevnte medlemsstat som er utpekt i henhold til artikkel 6 nr. 3. Medlemsstatene kan kreve at organisasjoner som er etablert på deres territorium, rapporterer opplysninger om alle tilfeller som er samlet inn i henhold til nr. 1 i denne artikkel.
+6\. Hver organisasjon som er etablert i en medlemsstat, og som ikke er sertifisert eller godkjent av Byrået, skal innen rimelig tid rapportere opplysninger om tilfeller og andre sikkerhetsrelaterte opplysninger som er samlet inn i henhold til nr. 1 i denne artikkel, og som kan utgjøre en faktisk eller potensiell risiko for flysikkerheten, til vedkommende myndighet i nevnte medlemsstat som er utpekt i henhold til artikkel 6 nr. 3. Medlemsstatene kan kreve at organisasjoner som er etablert på deres territorium, rapporterer opplysninger om alle tilfeller som er samlet inn i henhold til nr. 1 i denne artikkel.
 
-7. Medlemsstater, Byrået og organisasjoner kan opprette andre systemer for innsamling og behandling av sikkerhetsopplysninger for å samle inn opplysninger om tilfeller som ikke fanges opp av rapporteringssystemene nevnt i artikkel 4 og i nr. 1, 2 og 3 i denne artikkel. Disse systemene kan omfatte rapportering til andre enheter enn de som er nevnt i artikkel 6 nr. 3, og kan omfatte aktiv deltaking fra:luftfartsindustrien,yrkesorganisasjoner for luftfartspersonale.
+7\. Medlemsstater, Byrået og organisasjoner kan opprette andre systemer for innsamling og behandling av sikkerhetsopplysninger for å samle inn opplysninger om tilfeller som ikke fanges opp av rapporteringssystemene nevnt i artikkel 4 og i nr. 1, 2 og 3 i denne artikkel. Disse systemene kan omfatte rapportering til andre enheter enn de som er nevnt i artikkel 6 nr. 3, og kan omfatte aktiv deltaking fra:luftfartsindustrien,yrkesorganisasjoner for luftfartspersonale.
 
-8. Opplysningene fra systemene for frivillig og obligatorisk rapportering kan integreres i ett system.
+8\. Opplysningene fra systemene for frivillig og obligatorisk rapportering kan integreres i ett system.
 
 ### Art 6. Innsamling og lagring av opplysninger
 
-1. Hver organisasjon som er etablert i en medlemsstat, skal utpeke én eller flere personer som uavhengig skal sørge for innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller som er rapportert i henhold til artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.
+1\. Hver organisasjon som er etablert i en medlemsstat, skal utpeke én eller flere personer som uavhengig skal sørge for innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller som er rapportert i henhold til artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.
 
-2. Etter avtale med vedkommende myndighet kan små organisasjoner opprette et forenklet system for innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller. De kan dele disse oppgavene med organisasjoner av samme type så lenge de oppfyller reglene for fortrolighet og vern i henhold til denne forordning.
+2\. Etter avtale med vedkommende myndighet kan små organisasjoner opprette et forenklet system for innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller. De kan dele disse oppgavene med organisasjoner av samme type så lenge de oppfyller reglene for fortrolighet og vern i henhold til denne forordning.
 
-3. Hver medlemsstat skal utpeke én eller flere vedkommende myndigheter med sikte på å opprette et system for uavhengig innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller i henhold til artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.Følgende myndigheter kan utpekes i henhold til første ledd, enten sammen eller hver for seg:den nasjonale luftfartsmyndigheten og/ellermyndigheten med ansvar for sikkerhetsundersøkelser og/ellerandre uavhengige organer/enheter som er basert i Unionen, og som er tillagt dette ansvaret.Dersom en medlemsstat utpeker mer enn ett organ eller én enhet, skal den utpeke ett/én av disse som kontaktpunkt for overføring av opplysningene nevnt i artikkel 8 nr. 2.
+3\. Hver medlemsstat skal utpeke én eller flere vedkommende myndigheter med sikte på å opprette et system for uavhengig innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller i henhold til artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.Følgende myndigheter kan utpekes i henhold til første ledd, enten sammen eller hver for seg:den nasjonale luftfartsmyndigheten og/ellermyndigheten med ansvar for sikkerhetsundersøkelser og/ellerandre uavhengige organer/enheter som er basert i Unionen, og som er tillagt dette ansvaret.Dersom en medlemsstat utpeker mer enn ett organ eller én enhet, skal den utpeke ett/én av disse som kontaktpunkt for overføring av opplysningene nevnt i artikkel 8 nr. 2.
 
-4. Byrået skal utpeke én eller flere personer for å opprette et system for uavhengig innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller i samsvar med artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.
+4\. Byrået skal utpeke én eller flere personer for å opprette et system for uavhengig innsamling, vurdering, behandling, analysering og lagring av opplysninger om tilfeller i samsvar med artikkel 4 og 5.For å fremme en «rettferdighetskultur» skal rapportene håndteres på en måte som hindrer at opplysningene kan brukes til andre formål enn sikkerhet, og som sikrer at identiteten til rapportøren og personer som er nevnt i rapporter om tilfeller, holdes tilstrekkelig fortrolig.
 
-5. Organisasjoner skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med artikkel 4 og 5, i én eller flere databaser.
+5\. Organisasjoner skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med artikkel 4 og 5, i én eller flere databaser.
 
-6. Vedkommende myndigheter nevnt i nr. 3 skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med 4 og 5, i en nasjonal database.
+6\. Vedkommende myndigheter nevnt i nr. 3 skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med 4 og 5, i en nasjonal database.
 
-7. Relevante opplysninger om ulykker og alvorlige hendelser som er samlet inn eller utstedt av myndigheter med ansvar for sikkerhetsundersøkelser, skal også lagres i den nasjonale databasen.
+7\. Relevante opplysninger om ulykker og alvorlige hendelser som er samlet inn eller utstedt av myndigheter med ansvar for sikkerhetsundersøkelser, skal også lagres i den nasjonale databasen.
 
-8. Byrået skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med artikkel 4 og 5, i en database.
+8\. Byrået skal lagre rapporter om tilfeller som er utarbeidet på grunnlag av opplysninger om tilfeller som er samlet inn i samsvar med artikkel 4 og 5, i en database.
 
-9. Myndigheter med ansvar for sikkerhetsundersøkelser skal ha full tilgang til sin nasjonale database nevnt i nr. 6 for å kunne ivareta sitt ansvar i henhold til artikkel 5 nr. 4 i forordning [(EU) nr. 996/2010](eu/32010r0996).
+9\. Myndigheter med ansvar for sikkerhetsundersøkelser skal ha full tilgang til sin nasjonale database nevnt i nr. 6 for å kunne ivareta sitt ansvar i henhold til artikkel 5 nr. 4 i forordning [(EU) nr. 996/2010](eu/32010r0996).
 
-10. Sivile luftfartsmyndigheter i medlemsstatene skal ha full tilgang til sin nasjonale database nevnt i nr. 6 for å kunne ivareta sitt sikkerhetsrelaterte ansvar.
+10\. Sivile luftfartsmyndigheter i medlemsstatene skal ha full tilgang til sin nasjonale database nevnt i nr. 6 for å kunne ivareta sitt sikkerhetsrelaterte ansvar.
 
 ### Art 7. Kvalitet på og innhold i rapporter om tilfeller
 
-1. Rapportene om tilfeller nevnt i artikkel 6 skal minst inneholde opplysningene angitt i vedlegg I.
+1\. Rapportene om tilfeller nevnt i artikkel 6 skal minst inneholde opplysningene angitt i vedlegg I.
 
-2. Rapportene om tilfeller nevnt i artikkel 6 nr. 5, nr. 6 og nr. 8 skal inneholde en klassifisering av sikkerhetsrisikoen forbundet med det berørte tilfellet. Klassifiseringen skal gjennomgås og ved behov endres, og skal godkjennes av vedkommende myndighet i medlemsstaten eller Byrået i samsvar med den felles europeiske risikoklassifiseringsordningen nevnt i nr. 5 i denne artikkel.
+2\. Rapportene om tilfeller nevnt i artikkel 6 nr. 5, nr. 6 og nr. 8 skal inneholde en klassifisering av sikkerhetsrisikoen forbundet med det berørte tilfellet. Klassifiseringen skal gjennomgås og ved behov endres, og skal godkjennes av vedkommende myndighet i medlemsstaten eller Byrået i samsvar med den felles europeiske risikoklassifiseringsordningen nevnt i nr. 5 i denne artikkel.
 
-3. Organisasjoner, medlemsstater og Byrået skal fastsette framgangsmåter for å kontrollere dataenes kvalitet, særlig for å sikre konsekvens mellom de første opplysningene som ble samlet inn, og rapporten som lagres i databasen.
+3\. Organisasjoner, medlemsstater og Byrået skal fastsette framgangsmåter for å kontrollere dataenes kvalitet, særlig for å sikre konsekvens mellom de første opplysningene som ble samlet inn, og rapporten som lagres i databasen.
 
-4. Databasene nevnt i artikkel 6 nr. 5, nr. 6 og nr. 8 skal bruke formater som er:standardiserte for å fremme utveksling av opplysninger ogkompatible med ECCAIRS-programvaren og ADREP-taksonomien.
+4\. Databasene nevnt i artikkel 6 nr. 5, nr. 6 og nr. 8 skal bruke formater som er:standardiserte for å fremme utveksling av opplysninger ogkompatible med ECCAIRS-programvaren og ADREP-taksonomien.
 
-5. Kommisjonen skal i nært samarbeid med medlemsstatene og Byrået via nettverket av flysikkerhetsanalytikere nevnt i artikkel 14 nr. 2 utarbeide en felles europeisk risikoklassifiseringsordning, slik at organisasjoner, medlemsstater og Byrået kan klassifisere tilfeller etter sikkerhetsrisiko. I denne forbindelse skal Kommisjonen ta hensyn til behovet for kompatibilitet med eksisterende klassifiseringsordninger.Kommisjonen skal utarbeide nevnte ordning innen 15. mai 2017.
+5\. Kommisjonen skal i nært samarbeid med medlemsstatene og Byrået via nettverket av flysikkerhetsanalytikere nevnt i artikkel 14 nr. 2 utarbeide en felles europeisk risikoklassifiseringsordning, slik at organisasjoner, medlemsstater og Byrået kan klassifisere tilfeller etter sikkerhetsrisiko. I denne forbindelse skal Kommisjonen ta hensyn til behovet for kompatibilitet med eksisterende klassifiseringsordninger.Kommisjonen skal utarbeide nevnte ordning innen 15. mai 2017.
 
-6. For å definere den felles europeiske risikoklassifiseringsordningen skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18.
+6\. For å definere den felles europeiske risikoklassifiseringsordningen skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 18.
 
-7. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta ordningene for gjennomføring av den felles europeiske risikoklassifiseringsordningen. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.
+7\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta ordningene for gjennomføring av den felles europeiske risikoklassifiseringsordningen. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.
 
-8. Kommisjonen og Byrået skal bistå vedkommende myndigheter i medlemsstatene med integrering av dataene, herunder for eksempel med:integrering av minsteopplysningene nevnt i nr. 1,risikoklassifiseringen av tilfeller nevnt i nr. 2 ogfastsettelse av framgangsmåter for å kontrollere dataenes kvalitet nevnt i nr. 3.Kommisjonen og Byrået skal bistå på en slik måte at det bidrar til en harmonisering av dataregistreringsprosessene i alle medlemsstater, særlig ved å stille følgende til rådighet for personale som arbeider i organene eller enhetene nevnt i artikkel 6 nr. 1, nr. 3 og nr. 4:veiledende materiale,arbeidsgrupper ogegnet opplæring.
+8\. Kommisjonen og Byrået skal bistå vedkommende myndigheter i medlemsstatene med integrering av dataene, herunder for eksempel med:integrering av minsteopplysningene nevnt i nr. 1,risikoklassifiseringen av tilfeller nevnt i nr. 2 ogfastsettelse av framgangsmåter for å kontrollere dataenes kvalitet nevnt i nr. 3.Kommisjonen og Byrået skal bistå på en slik måte at det bidrar til en harmonisering av dataregistreringsprosessene i alle medlemsstater, særlig ved å stille følgende til rådighet for personale som arbeider i organene eller enhetene nevnt i artikkel 6 nr. 1, nr. 3 og nr. 4:veiledende materiale,arbeidsgrupper ogegnet opplæring.
 
 ### Art 8. Europeisk sentralt datalager
 
-1. Kommisjonen skal forvalte et europeisk sentralt datalager der alle rapporter om tilfeller som er samlet inn i Unionen, skal lagres.
+1\. Kommisjonen skal forvalte et europeisk sentralt datalager der alle rapporter om tilfeller som er samlet inn i Unionen, skal lagres.
 
-2. Etter avtale med Kommisjonen skal alle medlemsstater oppdatere det europeiske sentrale datalageret ved å overføre alle sikkerhetsrelaterte opplysninger som er lagret i de nasjonale databasene nevnt i artikkel 6 nr. 6, til nevnte datalager.
+2\. Etter avtale med Kommisjonen skal alle medlemsstater oppdatere det europeiske sentrale datalageret ved å overføre alle sikkerhetsrelaterte opplysninger som er lagret i de nasjonale databasene nevnt i artikkel 6 nr. 6, til nevnte datalager.
 
-3. Byrået skal avtale med Kommisjonen de tekniske protokoller for overføring av alle rapporter om tilfeller som Byrået har samlet inn i henhold til forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsregler, til det sentrale datalageret, særlig for tilfeller som er lagret i det interne systemet for rapportering av tilfeller, samt opplysningene som er samlet inn i henhold til artikkel 4 nr. 9 og artikkel 5 nr. 5.
+3\. Byrået skal avtale med Kommisjonen de tekniske protokoller for overføring av alle rapporter om tilfeller som Byrået har samlet inn i henhold til forordning [(EF) nr. 216/2008](eu/32008r0216) og dens gjennomføringsregler, til det sentrale datalageret, særlig for tilfeller som er lagret i det interne systemet for rapportering av tilfeller, samt opplysningene som er samlet inn i henhold til artikkel 4 nr. 9 og artikkel 5 nr. 5.
 
-4. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta ordninger for forvaltning av det europeiske sentrale datalageret som nevnt i nr. 1 og nr. 2. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta ordninger for forvaltning av det europeiske sentrale datalageret som nevnt i nr. 1 og nr. 2. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 19 nr. 2.
 
 ### Art 9. Utveksling av opplysninger
 
-1. Medlemsstatene og Byrået skal delta i utveksling av opplysninger ved å gjøre alle sikkerhetsrelaterte opplysninger som er lagret i deres rapporteringsdatabaser, tilgjengelig for vedkommende myndigheter i andre medlemsstater, Byrået og Kommisjonen via det europeiske sentrale datalageret.Rapporter om tilfeller skal overføres til det europeiske sentrale datalageret senest 30 dager etter at de er registrert i den nasjonale databasen.Når det er nødvendig, skal rapporter om tilfeller ajourføres med ytterligere sikkerhetsrelaterte opplysninger.
+1\. Medlemsstatene og Byrået skal delta i utveksling av opplysninger ved å gjøre alle sikkerhetsrelaterte opplysninger som er lagret i deres rapporteringsdatabaser, tilgjengelig for vedkommende myndigheter i andre medlemsstater, Byrået og Kommisjonen via det europeiske sentrale datalageret.Rapporter om tilfeller skal overføres til det europeiske sentrale datalageret senest 30 dager etter at de er registrert i den nasjonale databasen.Når det er nødvendig, skal rapporter om tilfeller ajourføres med ytterligere sikkerhetsrelaterte opplysninger.
 
-2. Medlemsstatene skal også overføre opplysninger om ulykker og alvorlige hendelser til det europeiske sentrale datalageret på følgende måte:mens undersøkelsen pågår: foreløpige faktaopplysninger om ulykker og alvorlige hendelser,når undersøkelsen er ferdig:den endelige undersøkelsesrapporten oget sammendrag på engelsk av den endelige undersøkelsesrapporten dersom dette foreligger.
+2\. Medlemsstatene skal også overføre opplysninger om ulykker og alvorlige hendelser til det europeiske sentrale datalageret på følgende måte:mens undersøkelsen pågår: foreløpige faktaopplysninger om ulykker og alvorlige hendelser,når undersøkelsen er ferdig:den endelige undersøkelsesrapporten oget sammendrag på engelsk av den endelige undersøkelsesrapporten dersom dette foreligger.
 
-3. En medlemsstat eller Byrået skal videresende alle relevante sikkerhetsrelaterte opplysninger til vedkommende myndighet i medlemsstaten eller Byrået så snart som mulig dersom den/det under innsamling av opplysninger om tilfeller eller ved lagring av rapporter om tilfeller eller analysering i samsvar med artikkel 13 nr. 6 identifiserer sikkerhetsspørsmål den/det enten anser:er av interesse for andre medlemsstater eller Byrået ellerkan kreve at andre medlemsstater eller Byrået treffer sikkerhetstiltak.
+3\. En medlemsstat eller Byrået skal videresende alle relevante sikkerhetsrelaterte opplysninger til vedkommende myndighet i medlemsstaten eller Byrået så snart som mulig dersom den/det under innsamling av opplysninger om tilfeller eller ved lagring av rapporter om tilfeller eller analysering i samsvar med artikkel 13 nr. 6 identifiserer sikkerhetsspørsmål den/det enten anser:er av interesse for andre medlemsstater eller Byrået ellerkan kreve at andre medlemsstater eller Byrået treffer sikkerhetstiltak.
 
 ### Art 10. Videreformidling av opplysninger lagret i det europeiske sentrale datalageret
 
-1. Alle enheter som er tillagt oppgaven å regulere sikkerheten i sivil luftfart, eller alle myndigheter med ansvar for sikkerhetsundersøkelser, i Unionen, skal ha fullstendig elektronisk tilgang til opplysninger om tilfeller som er lagret i det europeiske sentrale datalageret.Disse opplysninger skal brukes i samsvar med artikkel 15 og 16.
+1\. Alle enheter som er tillagt oppgaven å regulere sikkerheten i sivil luftfart, eller alle myndigheter med ansvar for sikkerhetsundersøkelser, i Unionen, skal ha fullstendig elektronisk tilgang til opplysninger om tilfeller som er lagret i det europeiske sentrale datalageret.Disse opplysninger skal brukes i samsvar med artikkel 15 og 16.
 
-2. Berørte parter angitt i vedlegg II kan anmode om tilgang til visse opplysninger som er lagret i det europeiske sentrale datalageret.Berørte parter som er etablert i Unionen, skal rette anmodninger om opplysninger til kontaktpunktet i medlemsstaten der de er etablert.Berørte parter som ikke er etablert i Unionen, skal rette sine anmodninger til Kommisjonen.Kommisjonen skal underrette vedkommende myndighet i den berørte medlemsstat om anmodninger som framlegges i henhold til dette nummer.
+2\. Berørte parter angitt i vedlegg II kan anmode om tilgang til visse opplysninger som er lagret i det europeiske sentrale datalageret.Berørte parter som er etablert i Unionen, skal rette anmodninger om opplysninger til kontaktpunktet i medlemsstaten der de er etablert.Berørte parter som ikke er etablert i Unionen, skal rette sine anmodninger til Kommisjonen.Kommisjonen skal underrette vedkommende myndighet i den berørte medlemsstat om anmodninger som framlegges i henhold til dette nummer.
 
-3. Med forbehold for artikkel 15 nr. 2 i forordning [(EU) nr. 996/2010](eu/32010r0996) skal opplysninger om pågående sikkerhetsundersøkelser som utføres i samsvar med nevnte forordning, og som er lagret i det europeiske sentrale datalageret, ikke gis videre til berørte parter i henhold til denne artikkel.
+3\. Med forbehold for artikkel 15 nr. 2 i forordning [(EU) nr. 996/2010](eu/32010r0996) skal opplysninger om pågående sikkerhetsundersøkelser som utføres i samsvar med nevnte forordning, og som er lagret i det europeiske sentrale datalageret, ikke gis videre til berørte parter i henhold til denne artikkel.
 
-4. Av sikkerhetshensyn skal berørte parter ikke gis direkte tilgang til det europeiske sentrale datalageret.
+4\. Av sikkerhetshensyn skal berørte parter ikke gis direkte tilgang til det europeiske sentrale datalageret.
 
 ### Art 11. Behandling av anmodninger og beslutninger
 
-1. Anmodninger om opplysninger som er lagret i det europeiske sentrale datalageret, skal framlegges ved hjelp av skjemaer som er godkjent av kontaktpunktet. Disse skjemaene skal minst inneholde opplysningene angitt i vedlegg II.
+1\. Anmodninger om opplysninger som er lagret i det europeiske sentrale datalageret, skal framlegges ved hjelp av skjemaer som er godkjent av kontaktpunktet. Disse skjemaene skal minst inneholde opplysningene angitt i vedlegg II.
 
-2. Et kontaktpunkt som mottar en anmodning, skal kontrollere at:anmodningen kommer fra en berørt part,det er kompetent til å behandle anmodningen.Dersom kontaktpunktet fastslår at en annen medlemsstat eller Kommisjonen er kompetent til å behandle anmodningen, skal det oversende anmodningen til den aktuelle medlemsstaten eller til Kommisjonen.
+2\. Et kontaktpunkt som mottar en anmodning, skal kontrollere at:anmodningen kommer fra en berørt part,det er kompetent til å behandle anmodningen.Dersom kontaktpunktet fastslår at en annen medlemsstat eller Kommisjonen er kompetent til å behandle anmodningen, skal det oversende anmodningen til den aktuelle medlemsstaten eller til Kommisjonen.
 
-3. Et kontaktpunkt som mottar en anmodning, skal i hvert enkelt tilfelle vurdere om anmodningen er berettiget og om det er praktisk mulig å etterkomme den.Et kontaktpunkt kan utlevere opplysninger til berørte parter på papir eller ved hjelp av sikre elektroniske kommunikasjonsmidler.
+3\. Et kontaktpunkt som mottar en anmodning, skal i hvert enkelt tilfelle vurdere om anmodningen er berettiget og om det er praktisk mulig å etterkomme den.Et kontaktpunkt kan utlevere opplysninger til berørte parter på papir eller ved hjelp av sikre elektroniske kommunikasjonsmidler.
 
-4. Dersom anmodningen godtas, skal kontaktpunktet avgjøre hvilken mengde og hvilket nivå av opplysninger som skal utleveres. Uten at det berører artikkel 15 og 16 skal opplysningene begrenses til det som er strengt nødvendig for anmodningens formål.Opplysninger som ikke er knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde, skal bare utleveres i et aggregert eller anonymisert format. Den berørte part kan få utlevert opplysninger i et ikke-aggregert format dersom den framlegger en detaljert skriftlig begrunnelse. Disse opplysningene skal brukes i samsvar med artikkel 15 og 16.
+4\. Dersom anmodningen godtas, skal kontaktpunktet avgjøre hvilken mengde og hvilket nivå av opplysninger som skal utleveres. Uten at det berører artikkel 15 og 16 skal opplysningene begrenses til det som er strengt nødvendig for anmodningens formål.Opplysninger som ikke er knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde, skal bare utleveres i et aggregert eller anonymisert format. Den berørte part kan få utlevert opplysninger i et ikke-aggregert format dersom den framlegger en detaljert skriftlig begrunnelse. Disse opplysningene skal brukes i samsvar med artikkel 15 og 16.
 
-5. Til de berørte parter som er oppført i vedlegg II bokstav b), kan kontaktpunktet bare utlevere opplysninger knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde.
+5\. Til de berørte parter som er oppført i vedlegg II bokstav b), kan kontaktpunktet bare utlevere opplysninger knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde.
 
-6. Et kontaktpunkt som mottar en anmodning fra en berørt part som er oppført i vedlegg II bokstav a), kan treffe en allmenn beslutning om regelmessig å utlevere opplysninger til nevnte berørte part, forutsatt at:opplysningene det anmodes om, er knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde,den allmenne beslutningen ikke gir tilgang til hele innholdet i databasen,den allmenne beslutningen bare gjelder anonymiserte opplysninger.
+6\. Et kontaktpunkt som mottar en anmodning fra en berørt part som er oppført i vedlegg II bokstav a), kan treffe en allmenn beslutning om regelmessig å utlevere opplysninger til nevnte berørte part, forutsatt at:opplysningene det anmodes om, er knyttet til den berørte parts eget utstyr, egen virksomhet eller eget virksomhetsområde,den allmenne beslutningen ikke gir tilgang til hele innholdet i databasen,den allmenne beslutningen bare gjelder anonymiserte opplysninger.
 
-7. Den berørte part skal bruke opplysningene som mottas i henhold til denne artikkel, på følgende vilkår:den berørte part skal bruke opplysningene bare for det formål som er angitt i søknadsskjemaet, som skal være forenlig med målet fastsatt i artikkel 1 i denne forordning, ogden berørte part skal ikke gi de mottatte opplysningene videre uten skriftlig samtykke fra den part som har utlevert opplysningene, og skal treffe nødvendige tiltak for å sikre at de mottatte opplysningene behandles fortrolig.
+7\. Den berørte part skal bruke opplysningene som mottas i henhold til denne artikkel, på følgende vilkår:den berørte part skal bruke opplysningene bare for det formål som er angitt i søknadsskjemaet, som skal være forenlig med målet fastsatt i artikkel 1 i denne forordning, ogden berørte part skal ikke gi de mottatte opplysningene videre uten skriftlig samtykke fra den part som har utlevert opplysningene, og skal treffe nødvendige tiltak for å sikre at de mottatte opplysningene behandles fortrolig.
 
-8. Beslutningen om å videreformidle opplysninger i henhold til denne artikkel skal begrenses til det som er strengt nødvendig for brukerens formål.
+8\. Beslutningen om å videreformidle opplysninger i henhold til denne artikkel skal begrenses til det som er strengt nødvendig for brukerens formål.
 
 ### Art 12. Register over anmodninger og utveksling av opplysninger
 
-1. Kontaktpunktet skal registrere alle mottatte anmodninger og de tiltak som er iverksatt i henhold til nevnte anmodning.Disse opplysningene skal oversendes Kommisjonen innen rimelig tid hver gang en anmodning mottas og/eller et tiltak treffes.
+1\. Kontaktpunktet skal registrere alle mottatte anmodninger og de tiltak som er iverksatt i henhold til nevnte anmodning.Disse opplysningene skal oversendes Kommisjonen innen rimelig tid hver gang en anmodning mottas og/eller et tiltak treffes.
 
-2. Kommisjonen skal stille en ajourført liste over mottatte anmodninger og de tiltak som er truffet av de ulike kontaktpunktene og av Kommisjonen, til rådighet for alle kontaktpunkter.
+2\. Kommisjonen skal stille en ajourført liste over mottatte anmodninger og de tiltak som er truffet av de ulike kontaktpunktene og av Kommisjonen, til rådighet for alle kontaktpunkter.
 
 ### Art 13. Analysering og oppfølging av tilfeller på nasjonalt plan
 
-1. Hver organisasjon som er etablert i en medlemsstat, skal utarbeide en framgangsmåte for analysering av tilfeller som er samlet inn i samsvar med artikkel 4 nr. 2 og artikkel 5 nr. 1, for å identifisere sikkerhetsfarer som er knyttet til identifiserte tilfeller eller grupper av tilfeller.På grunnlag av nevnte analyse skal hver organisasjon fastsette eventuelle egnede korrigerende eller forebyggende tiltak som er nødvendige for å bedre flysikkerheten.
+1\. Hver organisasjon som er etablert i en medlemsstat, skal utarbeide en framgangsmåte for analysering av tilfeller som er samlet inn i samsvar med artikkel 4 nr. 2 og artikkel 5 nr. 1, for å identifisere sikkerhetsfarer som er knyttet til identifiserte tilfeller eller grupper av tilfeller.På grunnlag av nevnte analyse skal hver organisasjon fastsette eventuelle egnede korrigerende eller forebyggende tiltak som er nødvendige for å bedre flysikkerheten.
 
-2. Dersom en organisasjon etablert i en medlemsstat etter analysen nevnt i nr. 1 identifiserer egnede korrigerende eller forebyggende tiltak som må treffes for å utbedre faktiske eller potensielle mangler innen flysikkerheten, skal den:gjennomføre nevnte tiltak innen rimelig tid ogfastsette en metode for å overvåke gjennomføringen av og hvor effektive tiltakene er.
+2\. Dersom en organisasjon etablert i en medlemsstat etter analysen nevnt i nr. 1 identifiserer egnede korrigerende eller forebyggende tiltak som må treffes for å utbedre faktiske eller potensielle mangler innen flysikkerheten, skal den:gjennomføre nevnte tiltak innen rimelig tid ogfastsette en metode for å overvåke gjennomføringen av og hvor effektive tiltakene er.
 
-3. Hver organisasjon som er etablert i en medlemsstat, skal regelmessig gi sine ansatte og innleid personell opplysninger om analyseringen og oppfølgingen av tilfeller det er truffet forebyggende eller korrigerende tiltak mot.
+3\. Hver organisasjon som er etablert i en medlemsstat, skal regelmessig gi sine ansatte og innleid personell opplysninger om analyseringen og oppfølgingen av tilfeller det er truffet forebyggende eller korrigerende tiltak mot.
 
-4. Dersom en organisasjon som er etablert i en medlemsstat som ikke omfattes av nr. 5, identifiserer en faktisk eller potensiell risiko for flysikkerheten etter å ha analysert tilfeller eller grupper av tilfeller som er rapportert i henhold til artikkel 4 nr. 8 og artikkel 5 nr. 6, skal den oversende følgende til vedkommende myndighet i nevnte medlemsstat innen 30 dager etter at rapportøren meldte om tilfellet:eventuelle foreløpige resultater av analysen utført i henhold til nr. 1 ogeventuelle tiltak som skal treffes i henhold til nr. 2.Når det er påkrevd, skal organisasjonen rapportere de endelige resultatene av analysen så snart de er tilgjengelige, og i prinsippet senest tre måneder etter at tilfellet ble meldt.En vedkommende myndighet i en medlemsstat kan be organisasjoner om å få oversendt de foreløpige eller endelige resultatene av analysen av et tilfelle den er blitt underrettet om, men som den ikke har fått oppfølgende opplysninger om, eller bare de foreløpige resultatene for.
+4\. Dersom en organisasjon som er etablert i en medlemsstat som ikke omfattes av nr. 5, identifiserer en faktisk eller potensiell risiko for flysikkerheten etter å ha analysert tilfeller eller grupper av tilfeller som er rapportert i henhold til artikkel 4 nr. 8 og artikkel 5 nr. 6, skal den oversende følgende til vedkommende myndighet i nevnte medlemsstat innen 30 dager etter at rapportøren meldte om tilfellet:eventuelle foreløpige resultater av analysen utført i henhold til nr. 1 ogeventuelle tiltak som skal treffes i henhold til nr. 2.Når det er påkrevd, skal organisasjonen rapportere de endelige resultatene av analysen så snart de er tilgjengelige, og i prinsippet senest tre måneder etter at tilfellet ble meldt.En vedkommende myndighet i en medlemsstat kan be organisasjoner om å få oversendt de foreløpige eller endelige resultatene av analysen av et tilfelle den er blitt underrettet om, men som den ikke har fått oppfølgende opplysninger om, eller bare de foreløpige resultatene for.
 
-5. Dersom en organisasjon som er etablert i en medlemsstat, og som er sertifisert eller godkjent av Byrået, identifiserer en faktisk eller potensiell risiko for flysikkerheten etter å ha analysert tilfeller eller grupper av tilfeller som er rapportert i henhold til artikkel 4 nr. 9 og artikkel 5 nr. 5, skal den oversende følgende til Byrået innen 30 dager etter at rapportøren meldte om tilfellet:eventuelle foreløpige resultater av analysen utført i henhold til nr. 1 ogeventuelle tiltak som skal treffes i henhold til nr. 2.Dersom det er påkrevd, skal organisasjonen som er sertifisert eller godkjent av Byrået, oversende Byrået de endelige resultatene av analysen så snart de er tilgjengelige og i prinsippet senest tre måneder etter at tilfellet ble meldt.Byrået kan be organisasjoner om å oversende de foreløpige eller endelige resultatene av analysen av et tilfelle det er blitt underrettet om, men som det ikke har fått oppfølgende opplysninger om, eller bare de foreløpige resultatene for.
+5\. Dersom en organisasjon som er etablert i en medlemsstat, og som er sertifisert eller godkjent av Byrået, identifiserer en faktisk eller potensiell risiko for flysikkerheten etter å ha analysert tilfeller eller grupper av tilfeller som er rapportert i henhold til artikkel 4 nr. 9 og artikkel 5 nr. 5, skal den oversende følgende til Byrået innen 30 dager etter at rapportøren meldte om tilfellet:eventuelle foreløpige resultater av analysen utført i henhold til nr. 1 ogeventuelle tiltak som skal treffes i henhold til nr. 2.Dersom det er påkrevd, skal organisasjonen som er sertifisert eller godkjent av Byrået, oversende Byrået de endelige resultatene av analysen så snart de er tilgjengelige og i prinsippet senest tre måneder etter at tilfellet ble meldt.Byrået kan be organisasjoner om å oversende de foreløpige eller endelige resultatene av analysen av et tilfelle det er blitt underrettet om, men som det ikke har fått oppfølgende opplysninger om, eller bare de foreløpige resultatene for.
 
-6. Hver medlemsstat og Byrået skal utarbeide en metode for å analysere de opplysninger om tilfeller som rapporteres direkte til dem i samsvar med artikkel 4 nr. 6 og artikkel 5 nr. 2 og nr. 3, for å identifisere sikkerhetsfarer som er knyttet til slike tilfeller. På grunnlag av nevnte analyse skal de fastsette eventuelle egnede korrigerende eller forebyggende tiltak som er nødvendige for å bedre flysikkerheten.
+6\. Hver medlemsstat og Byrået skal utarbeide en metode for å analysere de opplysninger om tilfeller som rapporteres direkte til dem i samsvar med artikkel 4 nr. 6 og artikkel 5 nr. 2 og nr. 3, for å identifisere sikkerhetsfarer som er knyttet til slike tilfeller. På grunnlag av nevnte analyse skal de fastsette eventuelle egnede korrigerende eller forebyggende tiltak som er nødvendige for å bedre flysikkerheten.
 
-7. Dersom en medlemsstat eller Byrået etter analysen nevnt i nr. 6 identifiserer egnede korrigerende eller forebyggende tiltak som er nødvendige for å utbedre faktiske eller potensielle mangler innen flysikkerheten, skal den/det:gjennomføre nevnte tiltak innen rimelig tid ogfastsette en metode for å overvåke gjennomføringen av og hvor effektive tiltakene er.
+7\. Dersom en medlemsstat eller Byrået etter analysen nevnt i nr. 6 identifiserer egnede korrigerende eller forebyggende tiltak som er nødvendige for å utbedre faktiske eller potensielle mangler innen flysikkerheten, skal den/det:gjennomføre nevnte tiltak innen rimelig tid ogfastsette en metode for å overvåke gjennomføringen av og hvor effektive tiltakene er.
 
-8. For hvert tilfelle eller hver gruppe av tilfeller som overvåkes i samsvar med nr. 4 eller 5, skal hver medlemsstat og Byrået ha tilgang til analysen som er utført, og skal på egnet måte overvåke tiltak truffet av organisasjonene de har ansvar for.Dersom en medlemsstat eller Byrået fastslår at gjennomføringen av de rapporterte tiltakene ikke er hensiktsmessig eller at tiltakene ikke er effektive med sikte på å utbedre faktiske eller potensielle sikkerhetsmangler, skal den/det sikre at den berørte organisasjonen treffer andre egnede tiltak og gjennomfører dem.
+8\. For hvert tilfelle eller hver gruppe av tilfeller som overvåkes i samsvar med nr. 4 eller 5, skal hver medlemsstat og Byrået ha tilgang til analysen som er utført, og skal på egnet måte overvåke tiltak truffet av organisasjonene de har ansvar for.Dersom en medlemsstat eller Byrået fastslår at gjennomføringen av de rapporterte tiltakene ikke er hensiktsmessig eller at tiltakene ikke er effektive med sikte på å utbedre faktiske eller potensielle sikkerhetsmangler, skal den/det sikre at den berørte organisasjonen treffer andre egnede tiltak og gjennomfører dem.
 
-9. Dersom opplysninger knyttet til analysering og oppfølging av enkelttilfeller eller grupper av tilfeller som er samlet inn i henhold til denne artikkel, er tilgjengelig, skal de lagres i det europeiske sentrale datalageret i samsvar med artikkel 8 nr. 2 og nr. 3 innen rimelig tid og senest to måneder etter at de ble lagret i den nasjonale databasen.
+9\. Dersom opplysninger knyttet til analysering og oppfølging av enkelttilfeller eller grupper av tilfeller som er samlet inn i henhold til denne artikkel, er tilgjengelig, skal de lagres i det europeiske sentrale datalageret i samsvar med artikkel 8 nr. 2 og nr. 3 innen rimelig tid og senest to måneder etter at de ble lagret i den nasjonale databasen.
 
-10. Medlemsstatene skal bruke opplysningene fra analyseringen av rapporter om tilfeller til å identifisere eventuelle utbedringstiltak som skal treffes innenfor rammen av det statlige sikkerhetsprogrammet.
+10\. Medlemsstatene skal bruke opplysningene fra analyseringen av rapporter om tilfeller til å identifisere eventuelle utbedringstiltak som skal treffes innenfor rammen av det statlige sikkerhetsprogrammet.
 
-11. For å informere offentligheten om sikkerhetsnivået innen sivil luftfart skal hver medlemsstat offentliggjøre en sikkerhetsrapport minst én gang i året. Sikkerhetsrapporten skal:inneholde aggregerte og anonymiserte opplysninger om typen av tilfeller og sikkerhetsrelaterte opplysninger som er rapportert via de nasjonale systemene for obligatorisk og frivillig rapportering,identifisere trender,identifisere hvilke tiltak som er truffet.
+11\. For å informere offentligheten om sikkerhetsnivået innen sivil luftfart skal hver medlemsstat offentliggjøre en sikkerhetsrapport minst én gang i året. Sikkerhetsrapporten skal:inneholde aggregerte og anonymiserte opplysninger om typen av tilfeller og sikkerhetsrelaterte opplysninger som er rapportert via de nasjonale systemene for obligatorisk og frivillig rapportering,identifisere trender,identifisere hvilke tiltak som er truffet.
 
-12. Medlemsstatene kan også offentliggjøre anonymiserte rapporter om tilfeller og resultater av risikoanalyser.
+12\. Medlemsstatene kan også offentliggjøre anonymiserte rapporter om tilfeller og resultater av risikoanalyser.
 
 ### Art 14. Analysering og oppfølging av tilfeller på unionsplan
 
-1. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal i samarbeid regelmessig delta i utveksling og analysering av opplysninger som er lagret i det europeiske sentrale datalageret.Uten at det berører fortrolighetsreglene fastsatt i denne forordning kan observatører, når det er relevant, inviteres i hvert enkelt tilfelle.
+1\. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal i samarbeid regelmessig delta i utveksling og analysering av opplysninger som er lagret i det europeiske sentrale datalageret.Uten at det berører fortrolighetsreglene fastsatt i denne forordning kan observatører, når det er relevant, inviteres i hvert enkelt tilfelle.
 
-2. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal samarbeide via et nettverk av flysikkerhetsanalytikere.Nettverket av flysikkerhetsanalytikere skal bidra til å bedre flysikkerheten i Unionen, særlig ved å utføre sikkerhetsanalyser for å støtte det europeiske flysikkerhetsprogram og den europeiske flysikkerhetsplan.
+2\. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal samarbeide via et nettverk av flysikkerhetsanalytikere.Nettverket av flysikkerhetsanalytikere skal bidra til å bedre flysikkerheten i Unionen, særlig ved å utføre sikkerhetsanalyser for å støtte det europeiske flysikkerhetsprogram og den europeiske flysikkerhetsplan.
 
-3. Byrået skal støtte aktivitetene til nettverket av flysikkerhetsanalytikere, for eksempel ved å bistå ved forberedelse og organisering av nettverkets møter.
+3\. Byrået skal støtte aktivitetene til nettverket av flysikkerhetsanalytikere, for eksempel ved å bistå ved forberedelse og organisering av nettverkets møter.
 
-4. Byrået skal ta med opplysninger om resultatene av analysene nevnt i nr. 1 i den årlige sikkerhetsrapporten nevnt i artikkel 15 nr. 4 i forordning [(EF) nr. 216/2008](eu/32008r0216).
+4\. Byrået skal ta med opplysninger om resultatene av analysene nevnt i nr. 1 i den årlige sikkerhetsrapporten nevnt i artikkel 15 nr. 4 i forordning [(EF) nr. 216/2008](eu/32008r0216).
 
 ### Art 15. Fortrolig behandling og riktig bruk av opplysninger
 
-1. Medlemsstater og organisasjoner skal i samsvar med nasjonal lovgivning treffe de nødvendige tiltak for å sikre at opplysninger om tilfeller de mottar i henhold til artikkel 4, 5 og 10, behandles fortrolig. Det samme skal Byrået.Hver medlemsstat, hver organisasjon som er etablert i en medlemsstat, eller Byrået skal bare behandle personopplysninger i den grad det er nødvendig for denne forordnings formål og uten at det berører nasjonale rettsakter om gjennomføring av direktiv [95/46/EF](eu/31995l0046).
+1\. Medlemsstater og organisasjoner skal i samsvar med nasjonal lovgivning treffe de nødvendige tiltak for å sikre at opplysninger om tilfeller de mottar i henhold til artikkel 4, 5 og 10, behandles fortrolig. Det samme skal Byrået.Hver medlemsstat, hver organisasjon som er etablert i en medlemsstat, eller Byrået skal bare behandle personopplysninger i den grad det er nødvendig for denne forordnings formål og uten at det berører nasjonale rettsakter om gjennomføring av direktiv [95/46/EF](eu/31995l0046).
 
-2. Uten at det berører bestemmelsene om vern av sikkerhetsopplysninger i artikkel 12, 14 og 15 i forordning [(EU) nr. 996/2010](eu/32010r0996), skal opplysninger fra rapporter om tilfeller bare brukes til det formål de er innsamlet til.Medlemsstater, Byrået og organisasjoner skal ikke gjøre tilgjengelig eller bruke opplysninger om tilfeller:til å fordele skyld eller ansvar ellertil andre formål enn å opprettholde og bedre flysikkerheten.
+2\. Uten at det berører bestemmelsene om vern av sikkerhetsopplysninger i artikkel 12, 14 og 15 i forordning [(EU) nr. 996/2010](eu/32010r0996), skal opplysninger fra rapporter om tilfeller bare brukes til det formål de er innsamlet til.Medlemsstater, Byrået og organisasjoner skal ikke gjøre tilgjengelig eller bruke opplysninger om tilfeller:til å fordele skyld eller ansvar ellertil andre formål enn å opprettholde og bedre flysikkerheten.
 
-3. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal når de oppfyller sine forpliktelser i henhold til artikkel 14 med hensyn til opplysningene som er lagret i det europeiske sentrale datalageret:sikre at opplysningene behandles fortrolig ogbegrense bruken av opplysningene til det som er strengt nødvendig for å oppfylle deres sikkerhetsrelaterte forpliktelser uten å fordele skyld eller ansvar, og i denne forbindelse skal opplysningene særlig brukes til risikohåndtering og til analysering av sikkerhetstrender som kan føre til sikkerhetstilrådinger eller -tiltak for å utbedre faktiske eller potensielle sikkerhetsmangler.
+3\. Kommisjonen, Byrået og vedkommende myndigheter i medlemsstatene skal når de oppfyller sine forpliktelser i henhold til artikkel 14 med hensyn til opplysningene som er lagret i det europeiske sentrale datalageret:sikre at opplysningene behandles fortrolig ogbegrense bruken av opplysningene til det som er strengt nødvendig for å oppfylle deres sikkerhetsrelaterte forpliktelser uten å fordele skyld eller ansvar, og i denne forbindelse skal opplysningene særlig brukes til risikohåndtering og til analysering av sikkerhetstrender som kan føre til sikkerhetstilrådinger eller -tiltak for å utbedre faktiske eller potensielle sikkerhetsmangler.
 
-4. Medlemsstatene skal sikre at deres vedkommende myndigheter nevnt i artikkel 6 nr. 3 og deres vedkommende rettspleiemyndigheter samarbeider med hverandre gjennom administrative forhåndsavtaler. Målet med disse administrative forhåndsavtaler er å sikre en riktig balanse mellom behovet for god rettspleie og behovet for kontinuerlig tilgang til sikkerhetsopplysninger.
+4\. Medlemsstatene skal sikre at deres vedkommende myndigheter nevnt i artikkel 6 nr. 3 og deres vedkommende rettspleiemyndigheter samarbeider med hverandre gjennom administrative forhåndsavtaler. Målet med disse administrative forhåndsavtaler er å sikre en riktig balanse mellom behovet for god rettspleie og behovet for kontinuerlig tilgang til sikkerhetsopplysninger.
 
 ### Art 16. Vern av informasjonskilder
 
-1. Med «personopplysninger» menes i denne artikkel særlig fysiske personers navn og adresse.
+1\. Med «personopplysninger» menes i denne artikkel særlig fysiske personers navn og adresse.
 
-2. Hver organisasjon som er etablert i en medlemsstat, skal sikre at personopplysninger bare gjøres tilgjengelig for annet personale i nevnte organisasjon enn personer som er utpekt i samsvar med artikkel 6 nr. 1, når det er absolutt nødvendig for å undersøke tilfeller med sikte på å bedre flysikkerheten.Anonymiserte opplysninger skal videreformidles i organisasjonen etter behov.
+2\. Hver organisasjon som er etablert i en medlemsstat, skal sikre at personopplysninger bare gjøres tilgjengelig for annet personale i nevnte organisasjon enn personer som er utpekt i samsvar med artikkel 6 nr. 1, når det er absolutt nødvendig for å undersøke tilfeller med sikte på å bedre flysikkerheten.Anonymiserte opplysninger skal videreformidles i organisasjonen etter behov.
 
-3. Hver medlemsstat skal sikre at det aldri registreres personopplysninger i den nasjonale databasen nevnt i artikkel 6 nr. 6. Slike anonymiserte opplysninger skal gjøres tilgjengelig for alle berørte parter, for eksempel slik at de kan oppfylle sine forpliktelser med sikte på å bedre flysikkerheten.
+3\. Hver medlemsstat skal sikre at det aldri registreres personopplysninger i den nasjonale databasen nevnt i artikkel 6 nr. 6. Slike anonymiserte opplysninger skal gjøres tilgjengelig for alle berørte parter, for eksempel slik at de kan oppfylle sine forpliktelser med sikte på å bedre flysikkerheten.
 
-4. Byrået skal sikre at det aldri registreres personopplysninger i Byråets database nevnt i artikkel 6 nr. 8. Slike anonymiserte opplysninger skal gjøres tilgjengelig for alle berørte parter, for eksempel slik at de kan oppfylle sine forpliktelser med sikte på å bedre flysikkerheten.
+4\. Byrået skal sikre at det aldri registreres personopplysninger i Byråets database nevnt i artikkel 6 nr. 8. Slike anonymiserte opplysninger skal gjøres tilgjengelig for alle berørte parter, for eksempel slik at de kan oppfylle sine forpliktelser med sikte på å bedre flysikkerheten.
 
-5. Medlemsstatene og Byrået skal ikke hindres i å treffe nødvendige tiltak for å bedre flysikkerheten.
+5\. Medlemsstatene og Byrået skal ikke hindres i å treffe nødvendige tiltak for å bedre flysikkerheten.
 
-6. Uten at det berører gjeldende nasjonal strafferett skal medlemsstatene avstå fra å ta rettslige skritt ved uoverlagte eller uaktsomme overtredelser av loven som de får kjennskap til bare fordi de er blitt rapportert i henhold til artikkel 4 og 5.Første ledd skal ikke få anvendelse for situasjonene nevnt i nr. 10. Medlemsstatene kan opprettholde eller treffe tiltak for å styrke vernet av rapportører eller personer som er nevnt i rapporter om tilfeller. Medlemsstatene kan særlig anvende denne regelen uten unntakene nevnt i nr. 10.
+6\. Uten at det berører gjeldende nasjonal strafferett skal medlemsstatene avstå fra å ta rettslige skritt ved uoverlagte eller uaktsomme overtredelser av loven som de får kjennskap til bare fordi de er blitt rapportert i henhold til artikkel 4 og 5.Første ledd skal ikke få anvendelse for situasjonene nevnt i nr. 10. Medlemsstatene kan opprettholde eller treffe tiltak for å styrke vernet av rapportører eller personer som er nevnt i rapporter om tilfeller. Medlemsstatene kan særlig anvende denne regelen uten unntakene nevnt i nr. 10.
 
-7. Dersom det innledes disiplinær- eller forvaltningssaker i henhold til nasjonal lovgivning, skal opplysninger i rapporter om tilfeller ikke brukes mot:rapportører ellerpersoner som er nevnt i rapportene.Første ledd skal ikke få anvendelse for situasjonene nevnt i nr. 10.Medlemsstatene kan opprettholde eller treffe tiltak for å styrke vernet av rapportører eller personer som er nevnt i rapporter om tilfeller. Medlemsstatene kan særlig utvide dette vernet til også å omfatte sivile saker eller straffesaker.
+7\. Dersom det innledes disiplinær- eller forvaltningssaker i henhold til nasjonal lovgivning, skal opplysninger i rapporter om tilfeller ikke brukes mot:rapportører ellerpersoner som er nevnt i rapportene.Første ledd skal ikke få anvendelse for situasjonene nevnt i nr. 10.Medlemsstatene kan opprettholde eller treffe tiltak for å styrke vernet av rapportører eller personer som er nevnt i rapporter om tilfeller. Medlemsstatene kan særlig utvide dette vernet til også å omfatte sivile saker eller straffesaker.
 
-8. Medlemsstatene kan vedta eller opprettholde lovbestemmelser som sikrer en høyere grad av vern av rapportører eller personer som er nevnt i rapporter om tilfeller, enn de som fastsettes ved denne forordning.
+8\. Medlemsstatene kan vedta eller opprettholde lovbestemmelser som sikrer en høyere grad av vern av rapportører eller personer som er nevnt i rapporter om tilfeller, enn de som fastsettes ved denne forordning.
 
-9. Unntatt når nr. 10 får anvendelse, skal ansatte og innleid personale som rapporterer eller er nevnt i rapporter om tilfeller som er samlet inn i henhold til artikkel 4 og 5, ikke utsettes for noen form for sanksjoner fra arbeidsgiveren eller organisasjonen tjenesten ytes for på grunnlag av opplysningene fra rapportøren.
+9\. Unntatt når nr. 10 får anvendelse, skal ansatte og innleid personale som rapporterer eller er nevnt i rapporter om tilfeller som er samlet inn i henhold til artikkel 4 og 5, ikke utsettes for noen form for sanksjoner fra arbeidsgiveren eller organisasjonen tjenesten ytes for på grunnlag av opplysningene fra rapportøren.
 
-10. Vernet nevnt i nr. 6, nr. 7 og nr. 9 i denne artikkel skal ikke få anvendelse for følgende situasjoner:ved bevisst forsømmelse,dersom det har vært en åpenbar, alvorlig og grov mangel på yrkesmessig ansvar for å treffe tiltak som situasjonen krever, noe som forårsaker forutsigbar skade på en person eller eiendom eller i alvorlig grad går ut over flysikkerhetsnivået.
+10\. Vernet nevnt i nr. 6, nr. 7 og nr. 9 i denne artikkel skal ikke få anvendelse for følgende situasjoner:ved bevisst forsømmelse,dersom det har vært en åpenbar, alvorlig og grov mangel på yrkesmessig ansvar for å treffe tiltak som situasjonen krever, noe som forårsaker forutsigbar skade på en person eller eiendom eller i alvorlig grad går ut over flysikkerhetsnivået.
 
-11. Hver organisasjon som er etablert i en medlemsstat, skal etter å ha rådført seg med arbeidstakerrepresentanter, vedta interne regler for hvordan prinsippene for en «rettferdighetskultur», særlig prinsippet nevnt i nr. 9, sikres og gjennomføres i nevnte organisasjon.Organet som er utpekt i henhold til nr. 12, kan be om å få gjennomgå de interne reglene i organisasjonen som er etablert i medlemsstaten, før disse interne regler gjennomføres.
+11\. Hver organisasjon som er etablert i en medlemsstat, skal etter å ha rådført seg med arbeidstakerrepresentanter, vedta interne regler for hvordan prinsippene for en «rettferdighetskultur», særlig prinsippet nevnt i nr. 9, sikres og gjennomføres i nevnte organisasjon.Organet som er utpekt i henhold til nr. 12, kan be om å få gjennomgå de interne reglene i organisasjonen som er etablert i medlemsstaten, før disse interne regler gjennomføres.
 
-12. Hver medlemsstat skal utpeke et organ som skal ha ansvar for gjennomføring av nr. 6, nr. 9 og nr. 11.Ansatte og innleid personale kan rapportere påståtte overtredelser av reglene fastsatt i denne artikkel til nevnte organ. Ansatte og innleid personale skal ikke straffes for å rapportere påståtte overtredelser. Ansatte og innleid personale kan underrette Kommisjonen om slike påståtte overtredelser.Dersom det er relevant, skal det utpekte organ underrette berørte myndigheter i medlemsstaten om rettslige tiltak eller sanksjoner ved anvendelse av artikkel 21.
+12\. Hver medlemsstat skal utpeke et organ som skal ha ansvar for gjennomføring av nr. 6, nr. 9 og nr. 11.Ansatte og innleid personale kan rapportere påståtte overtredelser av reglene fastsatt i denne artikkel til nevnte organ. Ansatte og innleid personale skal ikke straffes for å rapportere påståtte overtredelser. Ansatte og innleid personale kan underrette Kommisjonen om slike påståtte overtredelser.Dersom det er relevant, skal det utpekte organ underrette berørte myndigheter i medlemsstaten om rettslige tiltak eller sanksjoner ved anvendelse av artikkel 21.
 
-13. Hver medlemsstat skal 15. mai 2019 og deretter hvert femte år oversende Kommisjonen en rapport om anvendelsen av denne artikkel, særlig om aktivitetene til organet utpekt i henhold til nr. 12. Rapporten skal ikke inneholde personopplysninger.
+13\. Hver medlemsstat skal 15. mai 2019 og deretter hvert femte år oversende Kommisjonen en rapport om anvendelsen av denne artikkel, særlig om aktivitetene til organet utpekt i henhold til nr. 12. Rapporten skal ikke inneholde personopplysninger.
 
 ### Art 17. Ajourføring av vedleggene
 
@@ -2828,27 +2988,27 @@ Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med a
 
 ### Art 18. Utøvelse av delegert myndighet
 
-1. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
+1\. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
 
-2. Kommisjonen gis myndighet til å vedta de delegerte rettsakter nevnt i artikkel 7 nr. 6 og artikkel 17 for en periode på fem år etter at denne forordning er trådt i kraft. Kommisjonen skal utarbeide en rapport om delegeringen av myndighet senest ni måneder før utløpet av femårsperioden. Delegeringen av myndighet skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet motsetter seg slik forlengelse senest tre måneder før utløpet av hver periode.
+2\. Kommisjonen gis myndighet til å vedta de delegerte rettsakter nevnt i artikkel 7 nr. 6 og artikkel 17 for en periode på fem år etter at denne forordning er trådt i kraft. Kommisjonen skal utarbeide en rapport om delegeringen av myndighet senest ni måneder før utløpet av femårsperioden. Delegeringen av myndighet skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet motsetter seg slik forlengelse senest tre måneder før utløpet av hver periode.
 
-3. Delegeringen av myndighet nevnt i artikkel 7 nr. 6 og artikkel 17 kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at delegeringen av myndighet som er angitt i beslutningen, opphører å gjelde. Tilbakekallingen skal tre i kraft dagen etter den er kunngjort i *Den europeiske unions tidende* eller på et senere tidspunkt som angis i beslutningen. Den berører ikke gyldigheten av de delegerte rettsakter som allerede er trådt i kraft.
+3\. Delegeringen av myndighet nevnt i artikkel 7 nr. 6 og artikkel 17 kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at delegeringen av myndighet som er angitt i beslutningen, opphører å gjelde. Tilbakekallingen skal tre i kraft dagen etter den er kunngjort i *Den europeiske unions tidende* eller på et senere tidspunkt som angis i beslutningen. Den berører ikke gyldigheten av de delegerte rettsakter som allerede er trådt i kraft.
 
-4. Så snart Kommisjonen vedtar en delegert rettsakt, skal den samtidig underrette Europaparlamentet og Rådet om dette.
+4\. Så snart Kommisjonen vedtar en delegert rettsakt, skal den samtidig underrette Europaparlamentet og Rådet om dette.
 
-5. En delegert rettsakt vedtatt i henhold til artikkel 7 nr. 6 og artikkel 17 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet gjør innsigelser mot den innen to måneder fra den dag da rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom Europaparlamentet og Rådet før utløpet av nevnte tidsrom har underrettet Kommisjonen om at de ikke akter å gjøre innsigelse. Nevnte tidsrom skal forlenges med to måneder etter initiativ fra Europaparlamentet og Rådet.
+5\. En delegert rettsakt vedtatt i henhold til artikkel 7 nr. 6 og artikkel 17 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet gjør innsigelser mot den innen to måneder fra den dag da rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom Europaparlamentet og Rådet før utløpet av nevnte tidsrom har underrettet Kommisjonen om at de ikke akter å gjøre innsigelse. Nevnte tidsrom skal forlenges med to måneder etter initiativ fra Europaparlamentet og Rådet.
 
 ### Art 19. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av komiteen nedsatt ved artikkel 65 i forordning [(EF) nr. 216/2008](eu/32008r0216). Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
+1\. Kommisjonen skal bistås av komiteen nedsatt ved artikkel 65 i forordning [(EF) nr. 216/2008](eu/32008r0216). Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
 
-2. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse. Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse. Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
 
 ### Art 20. Tilgang til dokumenter og vern av personopplysninger
 
-1. Med unntak av artikkel 10 og 11, der det fastsettes strengere regler for tilgang til data og opplysninger som er lagret i det europeiske sentrale datalageret, får denne forordning anvendelse uten å berøre forordning [(EF) nr. 1049/2001](eu/32001r1049).
+1\. Med unntak av artikkel 10 og 11, der det fastsettes strengere regler for tilgang til data og opplysninger som er lagret i det europeiske sentrale datalageret, får denne forordning anvendelse uten å berøre forordning [(EF) nr. 1049/2001](eu/32001r1049).
 
-2. Denne forordning får anvendelse uten å berøre nasjonale rettsakter om gjennomføring av direktiv [95/46/EF](eu/31995l0046) og i samsvar med forordning [(EF) nr. 45/2001](eu/32001r0045*).
+2\. Denne forordning får anvendelse uten å berøre nasjonale rettsakter om gjennomføring av direktiv [95/46/EF](eu/31995l0046) og i samsvar med forordning [(EF) nr. 45/2001](eu/32001r0045*).
 
 ### Art 21. Sanksjoner
 
@@ -2866,27 +3026,51 @@ Direktiv [2003/42/EF](eu/32003l0042), forordning [(EF) nr. 1321/2007](eu/32007r1
 
 ### Art 24. Ikrafttredelse og anvendelse
 
-1. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
+1\. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-2. Kommisjonen skal innen 16. november 2020 offentliggjøre og oversende en rapport til Europaparlamentet og Rådet om gjennomføringen av denne forordning. Rapporten skal særlig inneholde opplysninger om denne forordnings bidrag til å redusere antall flyulykker og tilknyttede dødsfall. Dersom det er hensiktsmessig og på grunnlag av nevnte rapport, skal Kommisjonen framlegge forslag om endring av denne forordning.
+2\. Kommisjonen skal innen 16. november 2020 offentliggjøre og oversende en rapport til Europaparlamentet og Rådet om gjennomføringen av denne forordning. Rapporten skal særlig inneholde opplysninger om denne forordnings bidrag til å redusere antall flyulykker og tilknyttede dødsfall. Dersom det er hensiktsmessig og på grunnlag av nevnte rapport, skal Kommisjonen framlegge forslag om endring av denne forordning.
 
-3. Denne forordning får anvendelse fra 15. november 2015 og ikke før ikrafttredelsen av gjennomføringstiltakene nevnt i artikkel 4 nr. 5. Artikkel 7 nr. 2 får anvendelse ved ikrafttredelsen av de delegerte rettsaktene og gjennomføringsrettsaktene om nærmere opplysninger om og utarbeiding av en felles europeisk risikoklassifiseringsordning som nevnt i artikkel 7 nr. 6 og artikkel 7.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel, 3. april 2014.
+3\. Denne forordning får anvendelse fra 15. november 2015 og ikke før ikrafttredelsen av gjennomføringstiltakene nevnt i artikkel 4 nr. 5. Artikkel 7 nr. 2 får anvendelse ved ikrafttredelsen av de delegerte rettsaktene og gjennomføringsrettsaktene om nærmere opplysninger om og utarbeiding av en felles europeisk risikoklassifiseringsordning som nevnt i artikkel 7 nr. 6 og artikkel 7.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel, 3. april 2014.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| M. SCHULZ | D. KOURKOULAS |
+|  |  |
+| *President* | *Formann* |
 
 ### Vedlegg I. Liste over krav til systemene for obligatorisk og frivillig rapportering av tilfeller
+
+*Merk:* Datafeltene må fylles ut med de nødvendige opplysninger. Dersom det ikke er mulig for vedkommende myndigheter i medlemsstatene eller Byrået å framlegge disse opplysninger fordi de ikke er blitt innsendt av organisasjonen eller rapportøren, kan «ikke kjent» angis i datafeltet. For å sikre at relevante opplysninger oversendes bør bruken av «ikke kjent» unngås i så stor grad som mulig, og når det er mulig, bør disse opplysninger legges inn i rapporten på et senere tidspunkt.
+
+1\.
 
 FELLES OBLIGATORISKE DATAFELT
 
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:OverskriftOverskriftRegistreringsopplysningerAnsvarlig enhetDokumentnummerStatus for tilfelletNårUTC-datoHvorStat/område der tilfellet inntraffSted der tilfellet inntraffKlassifiseringTilfelleklasseTilfellekategoriRedegjørelseSpråk for redegjørelsenRedegjørelseHendelserHendelsens artRisikoklassifisering.
 
+2\.
+
 SÆRSKILTE OBLIGATORISKE DATAFELT
+
+2.1.*Datafelt knyttet til luftfartøy*
 
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:LuftfartøyidentifikasjonRegistreringsstatMerke/modell/serieLuftfartøyets serienummerLuftfartøyets registreringsnummerKjenningssignalDrift av luftfartøyetOperatørType virksomhetBeskrivelse av luftfartøyetLuftfartøykategoriFramdriftstypeMassegruppeFlygingshistorikkSiste avgangsstedPlanlagt bestemmelsesstedFlygefaseVærforholdVærrelevant.
 
+2.2.*Datafelt for flysikringstjenester*
+
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:Tilknytning til lufttrafikkstyring (ATM)ATM-bidragBerørt tjeneste (innflytelse på ATM- tjeneste)Lufttrafikktjenesteenhetens (ATS) navn.
+
+2.2.1.*Datafelt knyttet til manglende overholdelse av minsteavstand/utilstrekkelig avstand og krenkelse av luftrom*
 
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:LuftromLuftromtypeLuftromklasseNavn på flygeinformasjonsregion (FIR)/øvre flygeinformasjonsregion (UIR).
 
+2.3.*Datafelt knyttet til flyplass*
+
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:Stedsindikator (flyplassens ICAO-indikator)Flyplassens plassering.
+
+2.4.*Datafelt knyttet til skade på luftfartøyet eller personskade*
 
 Ved registrering i de respektive databaser av opplysninger om tilfeller som omfattes av obligatorisk rapportering, og, i størst mulig grad, alle tilfeller som rapporteres frivillig, må organisasjoner, medlemsstater og Byrået sikre at rapporter om tilfeller som registreres i deres databaser, minst inneholder følgende opplysninger:AlvorlighetsgradStørste skadeSkadenivåPersonskaderAntall skader på bakken (dødelige, alvorlige, mindre)Antall skader på luftfartøy (dødelige, alvorlige, mindre).
 
@@ -2917,9 +3101,27 @@ BOKS
 7. Tilgang til opplysningerKontaktpunktet er ikke forpliktet til å utlevere opplysningene det anmodes om. Det kan utlevere opplysninger bare dersom det er overbevist om at anmodningen er forenlig med forordning [(EU) nr. 376/2014](eu/32014r0376). Søkeren forplikter seg og sin organisasjon til å bruke opplysningene utelukkende til formålet angitt i nr. 4. Det minnes dessuten om at opplysninger som utleveres på grunnlag av denne anmodningen, utelukkende stilles til rådighet for flysikkerhetsformål som fastsatt i forordning [(EU) nr. 376/2014](eu/32014r0376), og ikke for andre formål, så som fordeling av skyld eller ansvar, eller for kommersielle formål.Søkeren har ikke rett til å gi mottatte opplysninger videre til noen annen part uten skriftlig samtykke fra kontaktpunktet.Manglende overholdelse av disse vilkår kan føre til avslag på anmodning om tilgang til ytterligere opplysninger i det europeiske sentrale datalageret og eventuelt til ilegging av sanksjoner.
 8. Dato, sted og underskrift:
 
+1 EUT L 122 av 24.4.2014, s. 18.
+
 ### EØS-avtalen vedlegg XIII nr. 66d (Europaparlaments- og rådsforordning (EU) nr. 996/2010 av 20. oktober 2010 om undersøkelse og forebygging av ulykker og hendelser innen sivil luftfart og om oppheving av direktiv 94/56/EF)
 
 > Forordning tilføyd ved [kunngjøring 16 sep 2016 nr. 1088](forskrift/2016-09-16-1088). Se [lov 11 juni 1993 nr. 101 § 12-6](lov/1993-06-11-101/§12-6).
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION har –
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 100 nr. 2,
+
+under henvisning til forslag fra Europakommisjonen,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+etter samråd med Regionkomiteen,
+
+under henvisning til uttalelse fra EUs datatilsynsmann,2
+
+etter den ordinære regelverksprosessen3 og
+
+ut fra følgende betraktninger:
 
 1. Det bør sikres et høyt allment sikkerhetsnivå innen sivil luftfart i Europa, og alt bør gjøres for å redusere antallet ulykker og hendelser for å sikre offentlighetens tillit til lufttransport.
 2. Rask gjennomføring av sikkerhetsundersøkelser av ulykker og hendelser innen sivil luftfart bedrer flysikkerheten og bidrar til å forebygge forekomsten av ulykker og hendelser.
@@ -2960,11 +3162,23 @@ BOKS
 37. Direktiv [94/56/EF](eu/31994l0056*) bør derfor oppheves.
 38. Ministererklæringen om Gibraltar lufthavn, som det ble oppnådd enighet om i Cordoba 18. september 2006 under det første ministermøtet i forumet for dialog om Gibraltar, erstatter den felles erklæringen om Gibraltar lufthavn som ble vedtatt i London 2. desember 1987, og fullt samsvar med denne skal anses for å utgjøre samsvar med erklæringen av 1987 –
 
+1 Uttalelse avgitt 27. mai 2010 (ennå ikke offentliggjort i EUT).
+
+2 EUT C 132 av 21.5.2010, s. 1.
+
+3 Europaparlamentets holdning av 21. september 2010 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 11. oktober 2010.
+
+4 EUT L 167 av 4.7.2003, s. 23.
+
+5 EFT L 319 av 12.12.1994, s. 14.
+
+VEDTATT DENNE FORORDNING:
+
 ### Art 1. Formål
 
-1. Denne forordning har som mål å bedre flysikkerheten ved å sikre et høyt nivå av effektivitet, hurtighet og kvalitet i europeiske sikkerhetsundersøkelser innen sivil luftfart, hvis eneste mål er å forebygge framtidige ulykker og hendelser uten å fordele skyld eller ansvar, herunder gjennom opprettelse av et europeisk nett av myndigheter med ansvar for sikkerhetsundersøkelser innen sivil luftfart. Den inneholder også regler for tilgang i rett tid til opplysninger om alle personer og alt farlig gods om bord på et luftfartøy som er innblandet i en ulykke. Videre har den som mål å forbedre bistanden til ofrene for flyulykker og deres pårørende.
+1\. Denne forordning har som mål å bedre flysikkerheten ved å sikre et høyt nivå av effektivitet, hurtighet og kvalitet i europeiske sikkerhetsundersøkelser innen sivil luftfart, hvis eneste mål er å forebygge framtidige ulykker og hendelser uten å fordele skyld eller ansvar, herunder gjennom opprettelse av et europeisk nett av myndigheter med ansvar for sikkerhetsundersøkelser innen sivil luftfart. Den inneholder også regler for tilgang i rett tid til opplysninger om alle personer og alt farlig gods om bord på et luftfartøy som er innblandet i en ulykke. Videre har den som mål å forbedre bistanden til ofrene for flyulykker og deres pårørende.
 
-2. Anvendelsen av denne forordning på Gibraltar lufthavn berøre ikke Kongeriket Spanias og Det forente kongerike Storbritannia og Nord-Irlands rettslige standpunkter i forbindelse med tvisten om suvereniteten over territoriet der lufthavnen ligger.
+2\. Anvendelsen av denne forordning på Gibraltar lufthavn berøre ikke Kongeriket Spanias og Det forente kongerike Storbritannia og Nord-Irlands rettslige standpunkter i forbindelse med tvisten om suvereniteten over territoriet der lufthavnen ligger.
 
 ### Art 2. Definisjoner
 
@@ -2972,201 +3186,209 @@ I denne forordning menes med:«ulykke» en hendelse knyttet til driften av et lu
 
 ### Art 3. Virkeområde
 
-1. Denne forordning får anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelsersom har inntruffet på territoriet til de medlemsstater der traktatene får anvendelse, i samsvar med medlemsstatenes internasjonale forpliktelser,som har inntruffet utenfor territoriet til de medlemsstater der traktatene får anvendelse, og som involverer luftfartøyer som er registrert i en medlemsstat eller som drives av et foretak som er etablert i en medlemsstat, når slike undersøkelser ikke gjennomføres av en annen stat,der en medlemsstat i henhold til internasjonale standarder og anbefalt praksis har rett til å utpeke en akkreditert representant med henblikk på å delta som registreringsstat, operatørens hjemstat, konstruksjonsstat eller stat som bidrar med opplysninger, anlegg eller sakkyndige etter anmodning fra staten som gjennomfører undersøkelsen,der en medlemsstat hvis borgere har omkommet eller blitt alvorlig skadet, og som derfor har en særlig interesse, får tillatelse fra den staten som gjennomfører undersøkelsen til å utpeke en sakkyndig.
+1\. Denne forordning får anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelsersom har inntruffet på territoriet til de medlemsstater der traktatene får anvendelse, i samsvar med medlemsstatenes internasjonale forpliktelser,som har inntruffet utenfor territoriet til de medlemsstater der traktatene får anvendelse, og som involverer luftfartøyer som er registrert i en medlemsstat eller som drives av et foretak som er etablert i en medlemsstat, når slike undersøkelser ikke gjennomføres av en annen stat,der en medlemsstat i henhold til internasjonale standarder og anbefalt praksis har rett til å utpeke en akkreditert representant med henblikk på å delta som registreringsstat, operatørens hjemstat, konstruksjonsstat eller stat som bidrar med opplysninger, anlegg eller sakkyndige etter anmodning fra staten som gjennomfører undersøkelsen,der en medlemsstat hvis borgere har omkommet eller blitt alvorlig skadet, og som derfor har en særlig interesse, får tillatelse fra den staten som gjennomfører undersøkelsen til å utpeke en sakkyndig.
 
-2. Denne forordning får også anvendelse på spørsmål som gjelder rask tilgang til opplysninger om alle personer og alt farlig gods om bord på et luftfartøy som er innblandet i en ulykke, og bistand til ofre for flyulykker og deres pårørende.
+2\. Denne forordning får også anvendelse på spørsmål som gjelder rask tilgang til opplysninger om alle personer og alt farlig gods om bord på et luftfartøy som er innblandet i en ulykke, og bistand til ofre for flyulykker og deres pårørende.
 
-3. Denne forordning får ikke anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelser som involverer luftfartøyer som deltar i militær-, toll- eller polititjenester eller lignende tjenester med mindre den berørte medlemsstat fastsetter det i samsvar med artikkel 5 nr. 4 og nasjonal lovgivning.
+3\. Denne forordning får ikke anvendelse på sikkerhetsundersøkelser av ulykker og alvorlige hendelser som involverer luftfartøyer som deltar i militær-, toll- eller polititjenester eller lignende tjenester med mindre den berørte medlemsstat fastsetter det i samsvar med artikkel 5 nr. 4 og nasjonal lovgivning.
 
 ### Art 4. Myndighet med ansvar for sikkerhetsundersøkelser innen sivil luftfart
 
-1. Hver medlemsstat skal sikre at sikkerhetsundersøkelsene gjennomføres eller overvåkes, uten ekstern påvirkning, av en fast nasjonal myndighet med ansvar for sikkerhetsundersøkelser innen sivil luftfart (heretter kalt « myndighet med ansvar for sikkerhetsundersøkelser») som kan gjennomføre en full sikkerhetsundersøkelse helt uavhengig, enten på egen hånd eller gjennom avtaler med andre myndigheter med ansvar for sikkerhetsundersøkelser.
+1\. Hver medlemsstat skal sikre at sikkerhetsundersøkelsene gjennomføres eller overvåkes, uten ekstern påvirkning, av en fast nasjonal myndighet med ansvar for sikkerhetsundersøkelser innen sivil luftfart (heretter kalt « myndighet med ansvar for sikkerhetsundersøkelser») som kan gjennomføre en full sikkerhetsundersøkelse helt uavhengig, enten på egen hånd eller gjennom avtaler med andre myndigheter med ansvar for sikkerhetsundersøkelser.
 
-2. Myndigheten med ansvar for sikkerhetsundersøkelser skal være funksjonelt uavhengig særlig av de luftfartsmyndigheter som har ansvar for luftdyktighet, sertifisering, luftfartsoperasjoner, vedlikehold, utstedelse av lisenser, flygekontroll og flyplassdrift, og av alle andre parter og organer hvis interesser eller oppdrag vil kunne komme i konflikt med den oppgaven som er betrodd myndigheten med ansvar for sikkerhetsundersøkelser eller påvirke dens objektivitet.
+2\. Myndigheten med ansvar for sikkerhetsundersøkelser skal være funksjonelt uavhengig særlig av de luftfartsmyndigheter som har ansvar for luftdyktighet, sertifisering, luftfartsoperasjoner, vedlikehold, utstedelse av lisenser, flygekontroll og flyplassdrift, og av alle andre parter og organer hvis interesser eller oppdrag vil kunne komme i konflikt med den oppgaven som er betrodd myndigheten med ansvar for sikkerhetsundersøkelser eller påvirke dens objektivitet.
 
-3. Myndigheten med ansvar for sikkerhetsundersøkelser skal i forbindelse med gjennomføringen av sikkerhetsundersøkelsen verken anmode om eller ta imot instrukser fra noen, og skal ha uinnskrenket myndighet til å bestemme hvordan sikkerhetsundersøkelsene skal gjennomføres.
+3\. Myndigheten med ansvar for sikkerhetsundersøkelser skal i forbindelse med gjennomføringen av sikkerhetsundersøkelsen verken anmode om eller ta imot instrukser fra noen, og skal ha uinnskrenket myndighet til å bestemme hvordan sikkerhetsundersøkelsene skal gjennomføres.
 
-4. Den virksomhet som betros myndigheten med ansvar for sikkerhetsundersøkelser, kan utvides til å omfatte innsamling og analyse av opplysninger knyttet til flysikkerhet, særlig for å unngå ulykker, i den grad denne virksomheten ikke påvirker dens uavhengighet og ikke medfører noe ansvar når det gjelder regelverk, forvaltning eller standarder.
+4\. Den virksomhet som betros myndigheten med ansvar for sikkerhetsundersøkelser, kan utvides til å omfatte innsamling og analyse av opplysninger knyttet til flysikkerhet, særlig for å unngå ulykker, i den grad denne virksomheten ikke påvirker dens uavhengighet og ikke medfører noe ansvar når det gjelder regelverk, forvaltning eller standarder.
 
-5. En sikkerhetsrapport skal offentliggjøres hvert år på nasjonalt plan for å holde offentligheten underrettet om det generelle sikkerhetsnivået innen luftfart. I denne analysen skal kildene til fortrolige opplysninger ikke avdekkes.
+5\. En sikkerhetsrapport skal offentliggjøres hvert år på nasjonalt plan for å holde offentligheten underrettet om det generelle sikkerhetsnivået innen luftfart. I denne analysen skal kildene til fortrolige opplysninger ikke avdekkes.
 
-6. Myndigheten med ansvar for sikkerhetsundersøkelser skal av den respektive medlemsstat gis nødvendige midler til å kunne utføre sine oppgaver på en uavhengig måte og skal kunne råde over tilstrekkelige ressurser for dette. Særlig skallederen for myndigheten med ansvar for sikkerhetsundersøkelser og/eller, dersom myndigheten håndterer ulike transportsystemer, lederen for luftfartsavdelingen, ha den erfaring og kompetanse innen sikkerhet i sivil luftfart som kreves for å kunne utføre sine oppgaver i samsvar med denne forordning og nasjonal lovgivning,utrederne ha en status som gir dem den nødvendige garanti for uavhengighet,myndigheten med ansvar for sikkerhetsundersøkelser omfatte minst én tilgjengelig utreder som kan fungere som undersøkelsesleder i tilfelle av en større flyulykke,myndigheten med ansvar for sikkerhetsundersøkelser ha et budsjett som gjør at den kan utføre sine oppgaver,myndigheten med ansvar for sikkerhetsundersøkelser ha til rådighet, enten direkte eller gjennom samarbeidet nevnt i artikkel 6 eller gjennom ordninger med andre nasjonale myndigheter eller organer, kvalifisert personell og egnede anlegg, herunder kontorer og hangarer, for oppbevaring og undersøkelse av luftfartøyet, dets innhold og vrakrester.
+6\. Myndigheten med ansvar for sikkerhetsundersøkelser skal av den respektive medlemsstat gis nødvendige midler til å kunne utføre sine oppgaver på en uavhengig måte og skal kunne råde over tilstrekkelige ressurser for dette. Særlig skallederen for myndigheten med ansvar for sikkerhetsundersøkelser og/eller, dersom myndigheten håndterer ulike transportsystemer, lederen for luftfartsavdelingen, ha den erfaring og kompetanse innen sikkerhet i sivil luftfart som kreves for å kunne utføre sine oppgaver i samsvar med denne forordning og nasjonal lovgivning,utrederne ha en status som gir dem den nødvendige garanti for uavhengighet,myndigheten med ansvar for sikkerhetsundersøkelser omfatte minst én tilgjengelig utreder som kan fungere som undersøkelsesleder i tilfelle av en større flyulykke,myndigheten med ansvar for sikkerhetsundersøkelser ha et budsjett som gjør at den kan utføre sine oppgaver,myndigheten med ansvar for sikkerhetsundersøkelser ha til rådighet, enten direkte eller gjennom samarbeidet nevnt i artikkel 6 eller gjennom ordninger med andre nasjonale myndigheter eller organer, kvalifisert personell og egnede anlegg, herunder kontorer og hangarer, for oppbevaring og undersøkelse av luftfartøyet, dets innhold og vrakrester.
 
 ### Art 5. Undersøkelsesplikt
 
-1. Alle ulykker og alvorlige hendelser som involverer andre luftfartøyer enn dem som er angitt i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) av 20. februar 2008 om felles regler for sivil luftfart og om opprettelse av et europeisk flysikkerhetsbyrå,1 skal være gjenstand for en sikkerhetsundersøkelse i den medlemsstat på hvis territorium ulykken eller den alvorlige hendelsen inntraff.
+1\. Alle ulykker og alvorlige hendelser som involverer andre luftfartøyer enn dem som er angitt i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 216/2008](eu/32008r0216) av 20. februar 2008 om felles regler for sivil luftfart og om opprettelse av et europeisk flysikkerhetsbyrå,1 skal være gjenstand for en sikkerhetsundersøkelse i den medlemsstat på hvis territorium ulykken eller den alvorlige hendelsen inntraff.
 
-2. Dersom et annet luftfartøy enn dem som er angitt i vedlegg II til forordning [(EF) nr. 216/2008](eu/32008r0216), som er registrert i en medlemsstat, er innblandet i en ulykke eller alvorlig hendelse på et sted som ikke entydig kan anses å tilhøre noen stats territorium, skal sikkerhetsundersøkelsen gjennomføres av myndigheten med ansvar for sikkerhetsundersøkelser i den medlemsstaten der luftfartøyet er registrert.
+2\. Dersom et annet luftfartøy enn dem som er angitt i vedlegg II til forordning [(EF) nr. 216/2008](eu/32008r0216), som er registrert i en medlemsstat, er innblandet i en ulykke eller alvorlig hendelse på et sted som ikke entydig kan anses å tilhøre noen stats territorium, skal sikkerhetsundersøkelsen gjennomføres av myndigheten med ansvar for sikkerhetsundersøkelser i den medlemsstaten der luftfartøyet er registrert.
 
-3. Omfanget av sikkerhetsundersøkelsene nevnt i nr. 1, 2 og 4 og framgangsmåten som skal følges ved gjennomføringen av slike sikkerhetsundersøkelser, skal fastsettes av myndigheten med ansvar for sikkerhetsundersøkelser, idet den tar hensyn til den lærdom den forventer å trekke av disse undersøkelsene for å bedre flysikkerheten, herunder for luftfartøyer med en største tillatte startmasse på høyst 2 250 kg.
+3\. Omfanget av sikkerhetsundersøkelsene nevnt i nr. 1, 2 og 4 og framgangsmåten som skal følges ved gjennomføringen av slike sikkerhetsundersøkelser, skal fastsettes av myndigheten med ansvar for sikkerhetsundersøkelser, idet den tar hensyn til den lærdom den forventer å trekke av disse undersøkelsene for å bedre flysikkerheten, herunder for luftfartøyer med en største tillatte startmasse på høyst 2 250 kg.
 
-4. Dersom de kan forventes å trekke lærdom av betydning for flysikkerheten, kan myndighetene med ansvar for sikkerhetsundersøkelser beslutte, i samsvar med medlemsstatenes nasjonale lovgivning, å undersøke andre hendelser enn dem som er nevnt i nr. 1 og 2, og ulykker eller alvorlige hendelser som gjelder andre typer luftfartøyer.
+4\. Dersom de kan forventes å trekke lærdom av betydning for flysikkerheten, kan myndighetene med ansvar for sikkerhetsundersøkelser beslutte, i samsvar med medlemsstatenes nasjonale lovgivning, å undersøke andre hendelser enn dem som er nevnt i nr. 1 og 2, og ulykker eller alvorlige hendelser som gjelder andre typer luftfartøyer.
 
-5. Sikkerhetsundersøkelsene nevnt i nr. 1, 2 og 4 skal ikke på noen måte fordele skyld eller ansvar. De skal være uavhengige av, atskilt fra og ikke berøre eventuelle rettslige eller forvaltningsmessige skritt for å fordele skyld eller ansvar.
+5\. Sikkerhetsundersøkelsene nevnt i nr. 1, 2 og 4 skal ikke på noen måte fordele skyld eller ansvar. De skal være uavhengige av, atskilt fra og ikke berøre eventuelle rettslige eller forvaltningsmessige skritt for å fordele skyld eller ansvar.
+
+1 EUT L 79 av 19.3.2008, s. 1.
 
 ### Art 6. Samarbeid mellom myndigheter med ansvar for sikkerhetsundersøkelser
 
-1. En myndighet med ansvar for sikkerhetsundersøkelser fra én medlemsstat kan anmode om bistand fra myndighetene med ansvar for sikkerhetsundersøkelser i andre medlemsstater. Dersom en myndighet for sikkerhetsundersøkelser etter en anmodning samtykker i å gi bistand, skal denne bistanden i den grad det er mulig gis vederlagsfritt.
+1\. En myndighet med ansvar for sikkerhetsundersøkelser fra én medlemsstat kan anmode om bistand fra myndighetene med ansvar for sikkerhetsundersøkelser i andre medlemsstater. Dersom en myndighet for sikkerhetsundersøkelser etter en anmodning samtykker i å gi bistand, skal denne bistanden i den grad det er mulig gis vederlagsfritt.
 
-2. En myndighet med ansvar for sikkerhetsundersøkelser kan delegere gjennomføringen av en sikkerhetsundersøkelse av en ulykke eller alvorlig hendelse til en annen myndighet med ansvar for sikkerhetsundersøkelser etter gjensidig avtale, og skal lette den andre myndighetens undersøkelser.
+2\. En myndighet med ansvar for sikkerhetsundersøkelser kan delegere gjennomføringen av en sikkerhetsundersøkelse av en ulykke eller alvorlig hendelse til en annen myndighet med ansvar for sikkerhetsundersøkelser etter gjensidig avtale, og skal lette den andre myndighetens undersøkelser.
 
 ### Art 7. Europeisk nett av myndigheter med ansvar for sikkerhetsundersøkelser innen sivil luftfart
 
-1. Medlemsstatene skal sikre at deres myndigheter med ansvar for sikkerhetsundersøkelser i fellesskap oppretter et europeisk nett av myndigheter med ansvar for sikkerhetsundersøkelser innen sivil luftfart (heretter kalt «nettet»), som skal bestå av lederne for myndighetene med ansvar for sikkerhetsundersøkelser i hver medlemsstat og/eller, dersom myndigheten håndterer ulike transportsystemer, lederen for luftfartsavdelingen, eller deres representanter, herunder en leder valgt blant disse for en periode på tre år.Lederen skal i nært samarbeid med nettets medlemmer utarbeide nettets årlige arbeidsprogram, som skal oppfylle de mål og være i samsvar med de ansvarsområder som er angitt i henholdsvis nr. 2 og 3. Kommisjonen skal oversende arbeidsprogrammet til Europaparlamentet og Rådet. Lederen skal også utarbeide en dagsorden for møtene i nettet.
+1\. Medlemsstatene skal sikre at deres myndigheter med ansvar for sikkerhetsundersøkelser i fellesskap oppretter et europeisk nett av myndigheter med ansvar for sikkerhetsundersøkelser innen sivil luftfart (heretter kalt «nettet»), som skal bestå av lederne for myndighetene med ansvar for sikkerhetsundersøkelser i hver medlemsstat og/eller, dersom myndigheten håndterer ulike transportsystemer, lederen for luftfartsavdelingen, eller deres representanter, herunder en leder valgt blant disse for en periode på tre år.Lederen skal i nært samarbeid med nettets medlemmer utarbeide nettets årlige arbeidsprogram, som skal oppfylle de mål og være i samsvar med de ansvarsområder som er angitt i henholdsvis nr. 2 og 3. Kommisjonen skal oversende arbeidsprogrammet til Europaparlamentet og Rådet. Lederen skal også utarbeide en dagsorden for møtene i nettet.
 
-2. Nettet skal bestrebe seg på ytterligere å forbedre kvaliteten på de undersøkelser som gjennomføres av myndighetene med ansvar for sikkerhetsundersøkelser og styrke deres uavhengighet. Særlig skal det arbeide for å oppnå en høy standard på undersøkelsesmetoder og opplæring av utredere.
+2\. Nettet skal bestrebe seg på ytterligere å forbedre kvaliteten på de undersøkelser som gjennomføres av myndighetene med ansvar for sikkerhetsundersøkelser og styrke deres uavhengighet. Særlig skal det arbeide for å oppnå en høy standard på undersøkelsesmetoder og opplæring av utredere.
 
-3. For å nå målene i nr. 2 skal nettet særlig være ansvarlig for åutarbeide forslag til og gi råd til Unionens institusjoner i alle spørsmål som gjelder utarbeidelse og gjennomføring av Unionens politikk og regelverk for undersøkelser og forebygging av ulykker og hendelser,fremme utvekslingen av opplysninger som kan bidra til å bedre flysikkerheten, og aktivt bidra til et strukturert samarbeid mellom myndigheter med ansvar for sikkerhetsundersøkelser, Kommisjonen, EASA og nasjonale sivile luftfartsmyndigheter,samordne og ved behov organisere fagfellevurderinger, relevant opplæringsvirksomhet og kompetanseutviklingsprogrammer for utredere,fremme beste undersøkelsespraksis med sikte på å utvikle en felles metode for sikkerhetsundersøkelser i Unionen og utarbeide et register over slik praksis,styrke undersøkelseskapasiteten hos myndighetene med ansvar for sikkerhetsundersøkelser, særlig ved å utvikle og administrere en ramme for deling av ressurser,gi nødvendig bistand, på anmodning fra myndighetene med ansvar for sikkerhetsundersøkelser i henhold til artikkel 6, herunder, men ikke begrenset til, en liste over utredere, utstyr og kapasitet i andre medlemsstater som kan benyttes av en myndighet som gjennomfører en undersøkelse,ha tilgang til opplysningene i databasen nevnt i artikkel 18 og analysere sikkerhetstilrådingene som finnes der, med sikte på å identifisere viktige sikkerhetstilrådinger av betydning for hele Unionen.
+3\. For å nå målene i nr. 2 skal nettet særlig være ansvarlig for åutarbeide forslag til og gi råd til Unionens institusjoner i alle spørsmål som gjelder utarbeidelse og gjennomføring av Unionens politikk og regelverk for undersøkelser og forebygging av ulykker og hendelser,fremme utvekslingen av opplysninger som kan bidra til å bedre flysikkerheten, og aktivt bidra til et strukturert samarbeid mellom myndigheter med ansvar for sikkerhetsundersøkelser, Kommisjonen, EASA og nasjonale sivile luftfartsmyndigheter,samordne og ved behov organisere fagfellevurderinger, relevant opplæringsvirksomhet og kompetanseutviklingsprogrammer for utredere,fremme beste undersøkelsespraksis med sikte på å utvikle en felles metode for sikkerhetsundersøkelser i Unionen og utarbeide et register over slik praksis,styrke undersøkelseskapasiteten hos myndighetene med ansvar for sikkerhetsundersøkelser, særlig ved å utvikle og administrere en ramme for deling av ressurser,gi nødvendig bistand, på anmodning fra myndighetene med ansvar for sikkerhetsundersøkelser i henhold til artikkel 6, herunder, men ikke begrenset til, en liste over utredere, utstyr og kapasitet i andre medlemsstater som kan benyttes av en myndighet som gjennomfører en undersøkelse,ha tilgang til opplysningene i databasen nevnt i artikkel 18 og analysere sikkerhetstilrådingene som finnes der, med sikte på å identifisere viktige sikkerhetstilrådinger av betydning for hele Unionen.
 
-4. Kommisjonen skal regelmessig underrette Europaparlamentet og Rådet om nettets arbeid. Europaparlamentet skal også underrettes når Rådet eller Kommisjonen sender en anmodning til nettet.
+4\. Kommisjonen skal regelmessig underrette Europaparlamentet og Rådet om nettets arbeid. Europaparlamentet skal også underrettes når Rådet eller Kommisjonen sender en anmodning til nettet.
 
-5. Medlemmene av nettet skal verken anmode om eller ta imot instrukser fra noe organ som kan påvirke sikkerhetsundersøkelsens uavhengighet.
+5\. Medlemmene av nettet skal verken anmode om eller ta imot instrukser fra noe organ som kan påvirke sikkerhetsundersøkelsens uavhengighet.
 
-6. EASA skal inviteres, der dette er hensiktsmessig, til å delta som observatør på møtene i nettet. Nettet kan også invitere observatører fra myndigheter med ansvar for sikkerhetsundersøkelser i tredjestater og andre relevante sakkyndige til å delta på dets møter.
+6\. EASA skal inviteres, der dette er hensiktsmessig, til å delta som observatør på møtene i nettet. Nettet kan også invitere observatører fra myndigheter med ansvar for sikkerhetsundersøkelser i tredjestater og andre relevante sakkyndige til å delta på dets møter.
 
-7. Kommisjonen skal knyttes tett til nettets arbeid, og skal ha den nødvendige støtten fra nettet når det gjelder relevante aspekter ved utviklingen av Unionens politikk og regelverk for undersøkelser og forebygging av ulykker innen sivil luftfart. Kommisjonen skal gi nettet nødvendig støtte, herunder, men ikke begrenset til, bistand til forberedelse og organisering av møtene og offentliggjøring av en årsrapport om nettets arbeid. Kommisjonen skal oversende årsrapporten til Europaparlamentet og Rådet.
+7\. Kommisjonen skal knyttes tett til nettets arbeid, og skal ha den nødvendige støtten fra nettet når det gjelder relevante aspekter ved utviklingen av Unionens politikk og regelverk for undersøkelser og forebygging av ulykker innen sivil luftfart. Kommisjonen skal gi nettet nødvendig støtte, herunder, men ikke begrenset til, bistand til forberedelse og organisering av møtene og offentliggjøring av en årsrapport om nettets arbeid. Kommisjonen skal oversende årsrapporten til Europaparlamentet og Rådet.
 
 ### Art 8. EASAs og nasjonale sivile luftfartsmyndigheters deltaking i sikkerhetsundersøkelser
 
-1. Myndighetene med ansvar for sikkerhetsundersøkelser skal, forutsatt at kravet om at det ikke skal forekomme noen interessekonflikt er oppfylt, invitere EASA og nasjonale sivile luftfartsmyndigheter i de berørte medlemsstater, innenfor rammen av deres respektive myndighet, til å utpeke en representant som skal deltasom rådgiver for undersøkelseslederen for en sikkerhetsundersøkelse i henhold til artikkel 5 nr. 1 og 2 som gjennomføres på territoriet til en medlemsstat eller på det sted som er nevnt i artikkel 5 nr. 2, under undersøkelseslederens kontroll og etter dennes skjønn,som rådgiver som i henhold til denne forordning er utpekt til å bistå medlemsstatenes akkrediterte representant(er) i enhver sikkerhetsundersøkelse som gjennomføres i en tredjestat, der en myndighet med ansvar for sikkerhetsundersøkelser er invitert til å utpeke en akkreditert representant i samsvar med internasjonale standarder og anbefalt praksis for undersøkelse av luftfartsulykker og -hendelser, under tilsyn av den akkrediterte representanten.
+1\. Myndighetene med ansvar for sikkerhetsundersøkelser skal, forutsatt at kravet om at det ikke skal forekomme noen interessekonflikt er oppfylt, invitere EASA og nasjonale sivile luftfartsmyndigheter i de berørte medlemsstater, innenfor rammen av deres respektive myndighet, til å utpeke en representant som skal deltasom rådgiver for undersøkelseslederen for en sikkerhetsundersøkelse i henhold til artikkel 5 nr. 1 og 2 som gjennomføres på territoriet til en medlemsstat eller på det sted som er nevnt i artikkel 5 nr. 2, under undersøkelseslederens kontroll og etter dennes skjønn,som rådgiver som i henhold til denne forordning er utpekt til å bistå medlemsstatenes akkrediterte representant(er) i enhver sikkerhetsundersøkelse som gjennomføres i en tredjestat, der en myndighet med ansvar for sikkerhetsundersøkelser er invitert til å utpeke en akkreditert representant i samsvar med internasjonale standarder og anbefalt praksis for undersøkelse av luftfartsulykker og -hendelser, under tilsyn av den akkrediterte representanten.
 
-2. Deltakerne nevnt i nr. 1 skal særlig ha rett til åbesøke ulykkesstedet og undersøke vrakrestene,foreslå spørsmålstemaer og innhente opplysninger fra vitner,få kopier av alle relevante dokumenter og innhente relevante faktaopplysninger,delta i gjennomgåelsen av opptaksmedier, unntatt opptak fra tale- eller bilderegistrator i førerkabinen,delta i undersøkelsesarbeid som utføres på andre steder enn på ulykkesstedet, for eksempel undersøkelse av komponenter, prøvinger og simuleringer, tekniske redegjørelser og møter om framdriften i undersøkelsen, unntatt der dette er knyttet til fastsettelse av årsakene eller utarbeiding av sikkerhetstilrådinger.
+2\. Deltakerne nevnt i nr. 1 skal særlig ha rett til åbesøke ulykkesstedet og undersøke vrakrestene,foreslå spørsmålstemaer og innhente opplysninger fra vitner,få kopier av alle relevante dokumenter og innhente relevante faktaopplysninger,delta i gjennomgåelsen av opptaksmedier, unntatt opptak fra tale- eller bilderegistrator i førerkabinen,delta i undersøkelsesarbeid som utføres på andre steder enn på ulykkesstedet, for eksempel undersøkelse av komponenter, prøvinger og simuleringer, tekniske redegjørelser og møter om framdriften i undersøkelsen, unntatt der dette er knyttet til fastsettelse av årsakene eller utarbeiding av sikkerhetstilrådinger.
 
-3. EASA og nasjonale sivile luftfartsmyndigheter skal støtte undersøkelser som de deltar i, ved å bidra med de opplysninger, rådgivere og utstyr som den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser har anmodet om.
+3\. EASA og nasjonale sivile luftfartsmyndigheter skal støtte undersøkelser som de deltar i, ved å bidra med de opplysninger, rådgivere og utstyr som den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser har anmodet om.
 
 ### Art 9. Forpliktelse til å melde ulykker og alvorlige hendelser
 
-1. Enhver berørt person som har kjennskap til at en ulykke eller alvorlig hendelse har funnet sted, skal uten opphold melde den til vedkommende myndighet med ansvar for sikkerhetsundersøkelser i hendelsesstaten.
+1\. Enhver berørt person som har kjennskap til at en ulykke eller alvorlig hendelse har funnet sted, skal uten opphold melde den til vedkommende myndighet med ansvar for sikkerhetsundersøkelser i hendelsesstaten.
 
-2. Myndigheten med ansvar for sikkerhetsundersøkelser skal uten opphold, og i samsvar med internasjonale standarder og anbefalt praksis, underrette Kommisjonen, EASA, Den internasjonale organisasjon for sivil luftfart (ICAO) og berørte medlemsstater og tredjestater om alle ulykker og alvorlige hendelser som den har fått melding om.
+2\. Myndigheten med ansvar for sikkerhetsundersøkelser skal uten opphold, og i samsvar med internasjonale standarder og anbefalt praksis, underrette Kommisjonen, EASA, Den internasjonale organisasjon for sivil luftfart (ICAO) og berørte medlemsstater og tredjestater om alle ulykker og alvorlige hendelser som den har fått melding om.
 
 ### Art 10. Medlemsstatenes deltaking i sikkerhetsundersøkelser
 
-1. Etter at å ha mottatt melding om en ulykke eller alvorlig hendelse fra en annen medlemsstat eller en tredjestat, skal de medlemsstater som er registreringsstat, operatørens hjemstat, konstruksjonsstat og produksjonsstat, snarest mulig underrette medlemsstaten eller tredjestaten på hvis territorium ulykken eller den alvorlige hendelsen har inntruffet, om de har til hensikt å utpeke en akkreditert representant i samsvar med internasjonale standarder og anbefalt praksis. Dersom en akkreditert representant utpekes, skal det også underrettes om vedkommendes navn og kontaktopplysninger, samt forventet ankomstdato dersom den akkrediterte representanten har til hensikt å reise til den staten som sendte meldingen.
+1\. Etter at å ha mottatt melding om en ulykke eller alvorlig hendelse fra en annen medlemsstat eller en tredjestat, skal de medlemsstater som er registreringsstat, operatørens hjemstat, konstruksjonsstat og produksjonsstat, snarest mulig underrette medlemsstaten eller tredjestaten på hvis territorium ulykken eller den alvorlige hendelsen har inntruffet, om de har til hensikt å utpeke en akkreditert representant i samsvar med internasjonale standarder og anbefalt praksis. Dersom en akkreditert representant utpekes, skal det også underrettes om vedkommendes navn og kontaktopplysninger, samt forventet ankomstdato dersom den akkrediterte representanten har til hensikt å reise til den staten som sendte meldingen.
 
-2. Akkrediterte representanter for konstruksjonsstaten skal utpekes av myndigheten med ansvar for sikkerhetsundersøkelser i den medlemsstaten på hvis territorium innehaveren av sertifikatet for luftfartøyets eller motorenes typekonstruksjon har sitt hovedforetak.
+2\. Akkrediterte representanter for konstruksjonsstaten skal utpekes av myndigheten med ansvar for sikkerhetsundersøkelser i den medlemsstaten på hvis territorium innehaveren av sertifikatet for luftfartøyets eller motorenes typekonstruksjon har sitt hovedforetak.
 
 ### Art 11. Sikkerhetsutredernes stilling
 
-1. Når undersøkelseslederen er utpekt av en myndighet med ansvar for sikkerhetsundersøkelser, skal vedkommende, uten hensyn til en eventuell rettslig undersøkelse, ha myndighet til å treffe de nødvendige tiltak for å oppfylle kravene til sikkerhetsundersøkelsen.
+1\. Når undersøkelseslederen er utpekt av en myndighet med ansvar for sikkerhetsundersøkelser, skal vedkommende, uten hensyn til en eventuell rettslig undersøkelse, ha myndighet til å treffe de nødvendige tiltak for å oppfylle kravene til sikkerhetsundersøkelsen.
 
-2. Uten hensyn til eventuelle krav om taushetsplikt fastsatt i EU- rettsakter eller nasjonal lovgivning skal undersøkelseslederen særlig ha rett til åfå umiddelbar, ubegrenset og uhindret adgang til stedet der ulykken eller hendelsen fant sted, og til luftfartøyet, dets innhold og vrakrester,sørge for en umiddelbar fortegnelse over bevis og sikre kontrollert fjerning av vrakrester og andre deler med henblikk på undersøkelse og analyse,få umiddelbar tilgang til og kontroll over ferdsskrivere, deres innhold og alle andre relevante registreringer,anmode om og bidra til en fullstendig obduksjon av de omkomne og få umiddelbar tilgang til resultatene av disse undersøkelsene og av prøver som er tatt,anmode om en legeundersøkelse av alle personer som deltok i driften av luftfartøyet, eller anmode om at prøver tatt fra dem blir analysert, og få umiddelbar tilgang til resultatene av disse undersøkelsene og prøvene,innkalle og utspørre vitner og kreve at de avgir eller framskaffer opplysninger eller bevis av betydning for sikkerhetsundersøkelsen,få fri tilgang til alle relevante opplysninger og opptegnelser som eieren, innehaveren av sertifikatet for typekonstruksjon, den ansvarlige vedlikeholdsorganisasjon, opplæringsorganisasjonen, operatøren eller produsenten av luftfartøyet, myndighetene med ansvar for sivil luftfart, EASA eller ytere av flysikringstjenester eller flyplassoperatører har.
+2\. Uten hensyn til eventuelle krav om taushetsplikt fastsatt i EU- rettsakter eller nasjonal lovgivning skal undersøkelseslederen særlig ha rett til åfå umiddelbar, ubegrenset og uhindret adgang til stedet der ulykken eller hendelsen fant sted, og til luftfartøyet, dets innhold og vrakrester,sørge for en umiddelbar fortegnelse over bevis og sikre kontrollert fjerning av vrakrester og andre deler med henblikk på undersøkelse og analyse,få umiddelbar tilgang til og kontroll over ferdsskrivere, deres innhold og alle andre relevante registreringer,anmode om og bidra til en fullstendig obduksjon av de omkomne og få umiddelbar tilgang til resultatene av disse undersøkelsene og av prøver som er tatt,anmode om en legeundersøkelse av alle personer som deltok i driften av luftfartøyet, eller anmode om at prøver tatt fra dem blir analysert, og få umiddelbar tilgang til resultatene av disse undersøkelsene og prøvene,innkalle og utspørre vitner og kreve at de avgir eller framskaffer opplysninger eller bevis av betydning for sikkerhetsundersøkelsen,få fri tilgang til alle relevante opplysninger og opptegnelser som eieren, innehaveren av sertifikatet for typekonstruksjon, den ansvarlige vedlikeholdsorganisasjon, opplæringsorganisasjonen, operatøren eller produsenten av luftfartøyet, myndighetene med ansvar for sivil luftfart, EASA eller ytere av flysikringstjenester eller flyplassoperatører har.
 
-3. Undersøkelseslederen skal gi sine sakkyndige og rådgivere og de akkrediterte representantene og deres sakkyndige og rådgivere de fullmakter som er angitt i nr. 2, i det omfang som er nødvendig for at de skal kunne delta effektivt i sikkerhetsundersøkelsen. Disse fullmaktene berører ikke rettighetene til utredere og sakkyndige utpekt av myndigheten med ansvar for den rettslige undersøkelsen.
+3\. Undersøkelseslederen skal gi sine sakkyndige og rådgivere og de akkrediterte representantene og deres sakkyndige og rådgivere de fullmakter som er angitt i nr. 2, i det omfang som er nødvendig for at de skal kunne delta effektivt i sikkerhetsundersøkelsen. Disse fullmaktene berører ikke rettighetene til utredere og sakkyndige utpekt av myndigheten med ansvar for den rettslige undersøkelsen.
 
-4. Enhver som deltar i sikkerhetsundersøkelser skal utføre sine plikter uavhengig, og skal verken anmode om eller ta imot instrukser fra andre enn undersøkelseslederen og den akkrediterte representanten.
+4\. Enhver som deltar i sikkerhetsundersøkelser skal utføre sine plikter uavhengig, og skal verken anmode om eller ta imot instrukser fra andre enn undersøkelseslederen og den akkrediterte representanten.
 
 ### Art 12. Samordning av undersøkelser
 
-1. I tilfeller der det også innledes en rettslig undersøkelse, skal undersøkelseslederen underrettes om dette. I slike tilfeller skal undersøkelseslederen sørge for at ferdsskrivere og alle fysiske bevis kan spores, og ta disse i forvaring. Rettsmyndigheten kan utpeke en tjenestemann fra denne myndighet til å ledsage ferdsskriverne og de fysiske bevisene til gjennomgåelses- eller behandlingsstedet. Dersom de fysiske bevisene kan påvirkes, endres eller ødelegges av undersøkelsen eller analysen, skal det på forhånd innhentes samtykke fra rettsmyndighetene, uten at dette berører nasjonal lovgivning. Dersom slikt samtykke ikke oppnås i samsvar med forhåndsavtaler som nevnt i nr. 3 innen rimelig tid og senest to uker etter anmodningen, kan undersøkelseslederen likevel gjennomføre undersøkelsen eller analysen. Dersom rettsmyndigheten har rett til å beslaglegge bevis, skal undersøkelseslederen ha umiddelbar og ubegrenset tilgang til og anledning til å bruke slike beviser.
+1\. I tilfeller der det også innledes en rettslig undersøkelse, skal undersøkelseslederen underrettes om dette. I slike tilfeller skal undersøkelseslederen sørge for at ferdsskrivere og alle fysiske bevis kan spores, og ta disse i forvaring. Rettsmyndigheten kan utpeke en tjenestemann fra denne myndighet til å ledsage ferdsskriverne og de fysiske bevisene til gjennomgåelses- eller behandlingsstedet. Dersom de fysiske bevisene kan påvirkes, endres eller ødelegges av undersøkelsen eller analysen, skal det på forhånd innhentes samtykke fra rettsmyndighetene, uten at dette berører nasjonal lovgivning. Dersom slikt samtykke ikke oppnås i samsvar med forhåndsavtaler som nevnt i nr. 3 innen rimelig tid og senest to uker etter anmodningen, kan undersøkelseslederen likevel gjennomføre undersøkelsen eller analysen. Dersom rettsmyndigheten har rett til å beslaglegge bevis, skal undersøkelseslederen ha umiddelbar og ubegrenset tilgang til og anledning til å bruke slike beviser.
 
-2. Dersom det under en sikkerhetsundersøkelse kommer fram eller oppstår mistanke om at et ulovlig inngrep i henhold til nasjonal lovgivning, for eksempel nasjonal lovgivning om undersøkelser av ulykker, har bidratt til ulykken eller den alvorlige hendelsen, skal undersøkelseslederen umiddelbart underrette vedkommende myndigheter om dette. Med mindre annet følger av artikkel 14, skal relevante opplysninger som innsamles under sikkerhetsundersøkelsen, umiddelbart formidles til disse myndighetene, og relevant materiale kan på anmodning også overføres til disse myndighetene. Formidling av slike opplysninger og slikt materiale skal ikke påvirke den rett myndigheten med ansvar for sikkerhetsundersøkelser har til å fortsette sikkerhetsundersøkelsen i samordning med de myndighetene som kontrollen med stedet måtte være overført til.
+2\. Dersom det under en sikkerhetsundersøkelse kommer fram eller oppstår mistanke om at et ulovlig inngrep i henhold til nasjonal lovgivning, for eksempel nasjonal lovgivning om undersøkelser av ulykker, har bidratt til ulykken eller den alvorlige hendelsen, skal undersøkelseslederen umiddelbart underrette vedkommende myndigheter om dette. Med mindre annet følger av artikkel 14, skal relevante opplysninger som innsamles under sikkerhetsundersøkelsen, umiddelbart formidles til disse myndighetene, og relevant materiale kan på anmodning også overføres til disse myndighetene. Formidling av slike opplysninger og slikt materiale skal ikke påvirke den rett myndigheten med ansvar for sikkerhetsundersøkelser har til å fortsette sikkerhetsundersøkelsen i samordning med de myndighetene som kontrollen med stedet måtte være overført til.
 
-3. Medlemsstatene skal sikre at myndighetene med ansvar for sikkerhetsundersøkelser på den ene side, og andre myndigheter som kan bli involvert i arbeidet forbundet med sikkerhetsundersøkelsen, for eksempel rettsmyndigheter, sivile luftfartsmyndigheter og myndigheter med ansvar for søk- og redningstjenester på den annen side, på forhånd har inngått avtaler om samarbeid.Disse avtalene skal respektere at myndigheten med ansvar for sikkerhetsundersøkelser er uavhengig, og skal tillate at den tekniske undersøkelsen gjennomføres raskt og effektivt. Forhåndsavtalene skal blant annet dekke følgende områder:Adgang til ulykkesstedet.Bevaring av og tilgang til bevis.Innledende og løpende rapportering om status for hver enkelt prosess.Utveksling av opplysninger.Hensiktsmessig bruk av sikkerhetsopplysninger.Tvisteløsning.Medlemsstatene skal oversende disse avtalene til Kommisjonen, som skal oversende dem til nettets leder, Europaparlamentet og Rådet til orientering.
+3\. Medlemsstatene skal sikre at myndighetene med ansvar for sikkerhetsundersøkelser på den ene side, og andre myndigheter som kan bli involvert i arbeidet forbundet med sikkerhetsundersøkelsen, for eksempel rettsmyndigheter, sivile luftfartsmyndigheter og myndigheter med ansvar for søk- og redningstjenester på den annen side, på forhånd har inngått avtaler om samarbeid.Disse avtalene skal respektere at myndigheten med ansvar for sikkerhetsundersøkelser er uavhengig, og skal tillate at den tekniske undersøkelsen gjennomføres raskt og effektivt. Forhåndsavtalene skal blant annet dekke følgende områder:Adgang til ulykkesstedet.Bevaring av og tilgang til bevis.Innledende og løpende rapportering om status for hver enkelt prosess.Utveksling av opplysninger.Hensiktsmessig bruk av sikkerhetsopplysninger.Tvisteløsning.Medlemsstatene skal oversende disse avtalene til Kommisjonen, som skal oversende dem til nettets leder, Europaparlamentet og Rådet til orientering.
 
 ### Art 13. Bevaring av bevis
 
-1. Den medlemsstaten på hvis territorium ulykken eller den alvorlige hendelsen inntraff, skal ha ansvaret for å sikre at alle beviser behandles sikkert, for å treffe alle rimelige tiltak for å beskytte bevisene og for at luftfartøyet, dets innhold og vrakrester forvares sikkert så lenge som sikkerhetsundersøkelsen krever. Beskyttelse av bevis skal omfatte bevaring, ved fotografiske eller andre midler, av ethvert bevis som vil kunne bli fjernet, slettet, tapt eller ødelagt. Sikker forvaring skal omfatte beskyttelse mot ytterligere skade, tilgang for uvedkommende, tyveri og ødeleggelse.
+1\. Den medlemsstaten på hvis territorium ulykken eller den alvorlige hendelsen inntraff, skal ha ansvaret for å sikre at alle beviser behandles sikkert, for å treffe alle rimelige tiltak for å beskytte bevisene og for at luftfartøyet, dets innhold og vrakrester forvares sikkert så lenge som sikkerhetsundersøkelsen krever. Beskyttelse av bevis skal omfatte bevaring, ved fotografiske eller andre midler, av ethvert bevis som vil kunne bli fjernet, slettet, tapt eller ødelagt. Sikker forvaring skal omfatte beskyttelse mot ytterligere skade, tilgang for uvedkommende, tyveri og ødeleggelse.
 
-2. I påvente av at sikkerhetsutrederne skal ankomme, skal ingen endre ulykkesstedets tilstand eller ta prøver fra det, flytte eller ta prøver av eller fjerne luftfartøyet, dets innhold eller vrakrester, med mindre dette er nødvendig av sikkerhetshensyn eller for å hjelpe skadde personer, eller fordi de myndigheter som har kontroll med stedet uttrykkelig har tillatt det, og om mulig etter samråd med myndigheten med ansvar for sikkerhetsundersøkelser.
+2\. I påvente av at sikkerhetsutrederne skal ankomme, skal ingen endre ulykkesstedets tilstand eller ta prøver fra det, flytte eller ta prøver av eller fjerne luftfartøyet, dets innhold eller vrakrester, med mindre dette er nødvendig av sikkerhetshensyn eller for å hjelpe skadde personer, eller fordi de myndigheter som har kontroll med stedet uttrykkelig har tillatt det, og om mulig etter samråd med myndigheten med ansvar for sikkerhetsundersøkelser.
 
-3. Alle involverte personer skal treffe alle nødvendige tiltak for å bevare dokumenter, materiale og registrerte opplysninger i forbindelse med hendelsen, særlig for å forhindre at opptak av samtaler og alarmer etter flygingen slettes.
+3\. Alle involverte personer skal treffe alle nødvendige tiltak for å bevare dokumenter, materiale og registrerte opplysninger i forbindelse med hendelsen, særlig for å forhindre at opptak av samtaler og alarmer etter flygingen slettes.
 
 ### Art 14. Beskyttelse av følsomme sikkerhetsopplysninger
 
-1. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser:Alle forklaringer som myndigheten med ansvar for sikkerhetsundersøkelser har opptatt fra personer i løpet av sikkerhetsundersøkelsen.Opplysninger om identiteten til personer som har avgitt forklaring i forbindelse med sikkerhetsundersøkelsen.Opplysninger som myndigheten med ansvar for sikkerhetsundersøkelser har innhentet, og som er av særlig følsom og personlig karakter, herunder opplysninger om privatpersoners helse.Materiale som siden produseres under undersøkelsen, som notater, utkast, uttalelser skrevet av utrederne, uttalelser som kommer til uttrykk i forbindelse med analysen av opplysningene, herunder opplysninger fra ferdsskriveren.Opplysninger og bevis framlagt av utredere fra andre medlemsstater eller tredjestater i samsvar med internasjonale standarder og anbefalt praksis, når de er blitt anmodet om det av sin myndighet med ansvar for sikkerhetsundersøkelser.Utkast til foreløpige rapporter, sluttrapporter eller foreløpige erklæringer.Opptak og utskrifter fra tale- og bilderegistratoren i førerkabinen og opptak av tale i flygekontrollenheter, samtidig som det sikres at opplysninger som ikke er relevante for sikkerhetsundersøkelsen, særlig opplysninger av privat karakter, gis tilstrekkelig vern, uten at dette berører anvendelsen av nr. 3.
+1\. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser:Alle forklaringer som myndigheten med ansvar for sikkerhetsundersøkelser har opptatt fra personer i løpet av sikkerhetsundersøkelsen.Opplysninger om identiteten til personer som har avgitt forklaring i forbindelse med sikkerhetsundersøkelsen.Opplysninger som myndigheten med ansvar for sikkerhetsundersøkelser har innhentet, og som er av særlig følsom og personlig karakter, herunder opplysninger om privatpersoners helse.Materiale som siden produseres under undersøkelsen, som notater, utkast, uttalelser skrevet av utrederne, uttalelser som kommer til uttrykk i forbindelse med analysen av opplysningene, herunder opplysninger fra ferdsskriveren.Opplysninger og bevis framlagt av utredere fra andre medlemsstater eller tredjestater i samsvar med internasjonale standarder og anbefalt praksis, når de er blitt anmodet om det av sin myndighet med ansvar for sikkerhetsundersøkelser.Utkast til foreløpige rapporter, sluttrapporter eller foreløpige erklæringer.Opptak og utskrifter fra tale- og bilderegistratoren i førerkabinen og opptak av tale i flygekontrollenheter, samtidig som det sikres at opplysninger som ikke er relevante for sikkerhetsundersøkelsen, særlig opplysninger av privat karakter, gis tilstrekkelig vern, uten at dette berører anvendelsen av nr. 3.
 
-2. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser eller formål som tar sikte på å bedre flysikkerheten:All kommunikasjon mellom personer som har deltatt i driften av luftfartøyet.Skriftlige eller elektroniske registreringer eller transkripsjoner av registreringer fra flygekontrollenheter, herunder rapporter og resultater som er utarbeidet for interne formål.Følgebrev til oversendelse av sikkerhetstilrådinger fra myndigheten med ansvar for sikkerhetsundersøkelser til mottakeren, dersom myndigheten med ansvar for sikkerhetsundersøkelser som utsteder tilrådingen, anmoder om det.Hendelsesrapporter innsendt i henhold til direktiv [2003/42/EF](eu/32003l0042).Registreringer fra ferdsskriveren skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelsen eller luftdyktighets- eller vedlikeholdsformål, med mindre opplysningene er anonymisert eller framgangsmåtene for utlevering er sikre.
+2\. Følgende opplysninger skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelser eller formål som tar sikte på å bedre flysikkerheten:All kommunikasjon mellom personer som har deltatt i driften av luftfartøyet.Skriftlige eller elektroniske registreringer eller transkripsjoner av registreringer fra flygekontrollenheter, herunder rapporter og resultater som er utarbeidet for interne formål.Følgebrev til oversendelse av sikkerhetstilrådinger fra myndigheten med ansvar for sikkerhetsundersøkelser til mottakeren, dersom myndigheten med ansvar for sikkerhetsundersøkelser som utsteder tilrådingen, anmoder om det.Hendelsesrapporter innsendt i henhold til direktiv [2003/42/EF](eu/32003l0042).Registreringer fra ferdsskriveren skal ikke gjøres tilgjengelig eller brukes for andre formål enn sikkerhetsundersøkelsen eller luftdyktighets- eller vedlikeholdsformål, med mindre opplysningene er anonymisert eller framgangsmåtene for utlevering er sikre.
 
-3. Uten hensyn til nr. 1 og 2 kan den domstol eller myndighet som har kompetanse til å treffe beslutning om frigivelse av opplysninger i henhold til nasjonal lovgivning, treffe en beslutning om at fordelene ved å frigi opplysningene nevnt i nr. 1 og 2 for noe annet lovlig formål, oppveier de negative følgene et slikt tiltak kan ha på nasjonalt og internasjonalt plan på denne eller framtidige sikkerhetsundersøkelser. Medlemsstatene kan beslutte å begrense de tilfeller der en slik beslutning om frigivelse kan tas, i samsvar med EU-rettsaktene.Oversendelse av opplysningene nevnt i nr. 1 og 2 til en annen medlemsstat for andre formål enn sikkerhetsundersøkelse, samt når det gjelder nr. 2, for andre formål enn formål som tar sikte på å bedre flysikkerheten, kan tillates i den utstrekning dette er tillatt i henhold til nasjonal lovgivning i avsendermedlemsstaten. Myndighetene i mottakermedlemsstaten skal bare kunne behandle eller utlevere opplysninger mottatt ved slik oversending etter forutgående samråd med avsendermedlemsstaten og med forbehold for nasjonal lovgivning i mottakermedlemsstaten.
+3\. Uten hensyn til nr. 1 og 2 kan den domstol eller myndighet som har kompetanse til å treffe beslutning om frigivelse av opplysninger i henhold til nasjonal lovgivning, treffe en beslutning om at fordelene ved å frigi opplysningene nevnt i nr. 1 og 2 for noe annet lovlig formål, oppveier de negative følgene et slikt tiltak kan ha på nasjonalt og internasjonalt plan på denne eller framtidige sikkerhetsundersøkelser. Medlemsstatene kan beslutte å begrense de tilfeller der en slik beslutning om frigivelse kan tas, i samsvar med EU-rettsaktene.Oversendelse av opplysningene nevnt i nr. 1 og 2 til en annen medlemsstat for andre formål enn sikkerhetsundersøkelse, samt når det gjelder nr. 2, for andre formål enn formål som tar sikte på å bedre flysikkerheten, kan tillates i den utstrekning dette er tillatt i henhold til nasjonal lovgivning i avsendermedlemsstaten. Myndighetene i mottakermedlemsstaten skal bare kunne behandle eller utlevere opplysninger mottatt ved slik oversending etter forutgående samråd med avsendermedlemsstaten og med forbehold for nasjonal lovgivning i mottakermedlemsstaten.
 
-4. Bare opplysninger som er strengt nødvendige for formålene nevnt i nr. 3, kan frigis.
+4\. Bare opplysninger som er strengt nødvendige for formålene nevnt i nr. 3, kan frigis.
 
 ### Art 15. Formidling av opplysninger
 
-1. Personale hos den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser og alle andre personer som anmodes om å delta i eller bidra til sikkerhetsundersøkelsen, skal være bundet av taushetsplikt i henhold til gjeldende lovgivning på området, herunder plikt til å bevare anonymiteten til personer involvert i en ulykke eller hendelse.
+1\. Personale hos den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser og alle andre personer som anmodes om å delta i eller bidra til sikkerhetsundersøkelsen, skal være bundet av taushetsplikt i henhold til gjeldende lovgivning på området, herunder plikt til å bevare anonymiteten til personer involvert i en ulykke eller hendelse.
 
-2. Med forbehold for forpliktelsene fastsatt i artikkel 16 og 17 skal den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser formidle de opplysninger den anser for relevante for å forebygge en ulykke eller en alvorlig hendelse, til personer som har ansvar for produksjon eller vedlikehold av luftfartøyer eller luftfartsutstyr, samt til privatpersoner og rettssubjekter som har ansvar for drift av luftfartøyer eller opplæring av personale.
+2\. Med forbehold for forpliktelsene fastsatt i artikkel 16 og 17 skal den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser formidle de opplysninger den anser for relevante for å forebygge en ulykke eller en alvorlig hendelse, til personer som har ansvar for produksjon eller vedlikehold av luftfartøyer eller luftfartsutstyr, samt til privatpersoner og rettssubjekter som har ansvar for drift av luftfartøyer eller opplæring av personale.
 
-3. Med forbehold for forpliktelsene fastsatt i artikkel 16 og 17 skal den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser og akkrediterte representanter som nevnt i artikkel 8, gi EASA og nasjonale sivile luftfartsmyndigheter relevante faktaopplysninger som har framkommet under sikkerhetsundersøkelsen, bortsett fra opplysningene nevnt i artikkel 14 nr. 1 eller opplysninger som kan gi opphav til en interessekonflikt. Opplysningene EASA og den nasjonale sivile luftfartsmyndighet mottar, skal beskyttes i samsvar med artikkel 14 og gjeldende EU-rettsakter og nasjonal lovgivning.
+3\. Med forbehold for forpliktelsene fastsatt i artikkel 16 og 17 skal den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser og akkrediterte representanter som nevnt i artikkel 8, gi EASA og nasjonale sivile luftfartsmyndigheter relevante faktaopplysninger som har framkommet under sikkerhetsundersøkelsen, bortsett fra opplysningene nevnt i artikkel 14 nr. 1 eller opplysninger som kan gi opphav til en interessekonflikt. Opplysningene EASA og den nasjonale sivile luftfartsmyndighet mottar, skal beskyttes i samsvar med artikkel 14 og gjeldende EU-rettsakter og nasjonal lovgivning.
 
-4. Den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser skal ha fullmakt til å underrette ofre og deres pårørende eller deres organisasjoner og offentliggjøre alle opplysninger om faktaobservasjoner og om hvordan sikkerhetsundersøkelsen forløper samt eventuelle foreløpige rapporter eller konklusjoner og/eller sikkerhetstilrådinger, forutsatt at den ikke setter målene for sikkerhetsundersøkelsen i fare og overholder gjeldende personvernlovgivning til fulle.
+4\. Den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser skal ha fullmakt til å underrette ofre og deres pårørende eller deres organisasjoner og offentliggjøre alle opplysninger om faktaobservasjoner og om hvordan sikkerhetsundersøkelsen forløper samt eventuelle foreløpige rapporter eller konklusjoner og/eller sikkerhetstilrådinger, forutsatt at den ikke setter målene for sikkerhetsundersøkelsen i fare og overholder gjeldende personvernlovgivning til fulle.
 
-5. Før den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser offentliggjør opplysningene nevnt i nr. 4, skal den oversende de samme opplysningene til ofrene og deres pårørende eller deres organisasjoner på en måte som ikke setter målene for sikkerhetsundersøkelsen i fare.
+5\. Før den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser offentliggjør opplysningene nevnt i nr. 4, skal den oversende de samme opplysningene til ofrene og deres pårørende eller deres organisasjoner på en måte som ikke setter målene for sikkerhetsundersøkelsen i fare.
 
 ### Art 16. Undersøkelsesrapport
 
-1. Hver sikkerhetsundersøkelse skal avsluttes med en rapport i en form tilpasset ulykkens eller den alvorlige hendelsens art og alvorlighetsgrad. Det skal framgå av rapporten at sikkerhetsundersøkelsens eneste formål er å forebygge framtidige ulykker og hendelser uten at skyld eller ansvar fordeles. Rapporten skal om nødvendig inneholde sikkerhetstilrådinger.
+1\. Hver sikkerhetsundersøkelse skal avsluttes med en rapport i en form tilpasset ulykkens eller den alvorlige hendelsens art og alvorlighetsgrad. Det skal framgå av rapporten at sikkerhetsundersøkelsens eneste formål er å forebygge framtidige ulykker og hendelser uten at skyld eller ansvar fordeles. Rapporten skal om nødvendig inneholde sikkerhetstilrådinger.
 
-2. Rapporten skal ivareta anonymiteten til alle privatpersoner involvert i ulykken eller den alvorlige hendelsen.
+2\. Rapporten skal ivareta anonymiteten til alle privatpersoner involvert i ulykken eller den alvorlige hendelsen.
 
-3. Dersom sikkerhetsundersøkelser gir opphav til rapporter før undersøkelsen er fullført, kan myndigheten med ansvar for sikkerhetsundersøkelser, før rapportene offentliggjøres, anmode berørte myndigheter, herunder EASA, og gjennom dem den berørte innehaver av sertifikatet for typekonstruksjon, produsent og operatør, om å framsette merknader. De skal være bundet av gjeldende regler om taushetsplikt med hensyn til innholdet i samrådet.
+3\. Dersom sikkerhetsundersøkelser gir opphav til rapporter før undersøkelsen er fullført, kan myndigheten med ansvar for sikkerhetsundersøkelser, før rapportene offentliggjøres, anmode berørte myndigheter, herunder EASA, og gjennom dem den berørte innehaver av sertifikatet for typekonstruksjon, produsent og operatør, om å framsette merknader. De skal være bundet av gjeldende regler om taushetsplikt med hensyn til innholdet i samrådet.
 
-4. Før sluttrapporten offentliggjøres, skal myndigheten med ansvar for sikkerhetsundersøkelser anmode berørte myndigheter, herunder EASA, og gjennom dem den berørte innehaver av sertifikatet for typekonstruksjon, produsent og operatør, om å framsette merknader, og disse skal være bundet av gjeldende regler om taushetsplikt med hensyn til innholdet i samrådet. Når myndigheten med ansvar for sikkerhetsundersøkelser anmoder om slike merknader, skal den følge internasjonale standarder og anbefalt praksis.
+4\. Før sluttrapporten offentliggjøres, skal myndigheten med ansvar for sikkerhetsundersøkelser anmode berørte myndigheter, herunder EASA, og gjennom dem den berørte innehaver av sertifikatet for typekonstruksjon, produsent og operatør, om å framsette merknader, og disse skal være bundet av gjeldende regler om taushetsplikt med hensyn til innholdet i samrådet. Når myndigheten med ansvar for sikkerhetsundersøkelser anmoder om slike merknader, skal den følge internasjonale standarder og anbefalt praksis.
 
-5. Opplysningene omfattet av artikkel 14 skal medtas i rapporter bare dersom de er relevante for analysen av ulykken eller den alvorlige hendelsen. De opplysninger eller deler av opplysninger som ikke er relevante for analysen, skal ikke frigis.
+5\. Opplysningene omfattet av artikkel 14 skal medtas i rapporter bare dersom de er relevante for analysen av ulykken eller den alvorlige hendelsen. De opplysninger eller deler av opplysninger som ikke er relevante for analysen, skal ikke frigis.
 
-6. Myndigheten med ansvar for sikkerhetsundersøkelser skal offentliggjøre sluttrapporten så snart som mulig og om mulig innen tolv måneder etter den dato da ulykken eller den alvorlige hendelsen fant sted.
+6\. Myndigheten med ansvar for sikkerhetsundersøkelser skal offentliggjøre sluttrapporten så snart som mulig og om mulig innen tolv måneder etter den dato da ulykken eller den alvorlige hendelsen fant sted.
 
-7. Dersom sluttrapporten ikke kan offentliggjøres innen tolv måneder, skal myndigheten med ansvar for sikkerhetsundersøkelser sende ut en foreløpig erklæring minst på hver årsdag for ulykken eller den alvorlige hendelsen med nærmere opplysninger om framdriften i undersøkelsen og eventuelle sikkerhetsspørsmål som er kommet opp.
+7\. Dersom sluttrapporten ikke kan offentliggjøres innen tolv måneder, skal myndigheten med ansvar for sikkerhetsundersøkelser sende ut en foreløpig erklæring minst på hver årsdag for ulykken eller den alvorlige hendelsen med nærmere opplysninger om framdriften i undersøkelsen og eventuelle sikkerhetsspørsmål som er kommet opp.
 
-8. Myndigheten med ansvar for sikkerhetsundersøkelser skal snarest mulig sende et eksemplar av sluttrapporten og sikkerhetstilrådingene tilmyndighetene med ansvar for sikkerhetsundersøkelser og sivile luftfartsmyndigheter i de berørte stater, og til ICAO, i samsvar med internasjonale standarder og anbefalt praksis,mottakerne av sikkerhetstilrådingene i rapporten,Kommisjonen og EASA, med mindre rapporten er offentlig, elektronisk tilgjengelig, og da skal myndigheten med ansvar for sikkerhetsundersøkelser underrette dem om dette.
+8\. Myndigheten med ansvar for sikkerhetsundersøkelser skal snarest mulig sende et eksemplar av sluttrapporten og sikkerhetstilrådingene tilmyndighetene med ansvar for sikkerhetsundersøkelser og sivile luftfartsmyndigheter i de berørte stater, og til ICAO, i samsvar med internasjonale standarder og anbefalt praksis,mottakerne av sikkerhetstilrådingene i rapporten,Kommisjonen og EASA, med mindre rapporten er offentlig, elektronisk tilgjengelig, og da skal myndigheten med ansvar for sikkerhetsundersøkelser underrette dem om dette.
 
 ### Art 17. Sikkerhetstilrådinger
 
-1. Myndigheten med ansvar for sikkerhetsundersøkelser skal på ethvert stadium i sikkerhetsundersøkelsen og etter hensiktsmessig samråd med berørte parter sende et datert følgebrev til berørte myndigheter, herunder berørte myndigheter i andre medlemsstater og tredjestater, med anbefaling om eventuelle forebyggende tiltak som den mener det er nødvendig å iverksette umiddelbart for å bedre flysikkerheten.
+1\. Myndigheten med ansvar for sikkerhetsundersøkelser skal på ethvert stadium i sikkerhetsundersøkelsen og etter hensiktsmessig samråd med berørte parter sende et datert følgebrev til berørte myndigheter, herunder berørte myndigheter i andre medlemsstater og tredjestater, med anbefaling om eventuelle forebyggende tiltak som den mener det er nødvendig å iverksette umiddelbart for å bedre flysikkerheten.
 
-2. En myndighet med ansvar for sikkerhetsundersøkelser kan også utstede sikkerhetstilrådinger på grunnlag av studier eller analyser av en rekke undersøkelser eller annet arbeid gjennomført i samsvar med artikkel 4 nr. 4.
+2\. En myndighet med ansvar for sikkerhetsundersøkelser kan også utstede sikkerhetstilrådinger på grunnlag av studier eller analyser av en rekke undersøkelser eller annet arbeid gjennomført i samsvar med artikkel 4 nr. 4.
 
-3. En sikkerhetstilråding skal ikke i noe tilfelle innebære en formodning om skyld eller ansvar for en ulykke, alvorlig hendelse eller hendelse.
+3\. En sikkerhetstilråding skal ikke i noe tilfelle innebære en formodning om skyld eller ansvar for en ulykke, alvorlig hendelse eller hendelse.
 
 ### Art 18. Oppfølging av sikkerhetstilrådinger og databasen over sikkerhetstilrådinger
 
-1. Mottakeren av en sikkerhetstilråding skal bekrefte mottak av følgebrevet og innen 90 dager etter at brevet ble mottatt, underrette myndigheten med ansvar for sikkerhetsundersøkelser som utstedte tilrådingen, om hvilke tiltak som er iverksatt eller som vurderes, og eventuelt om hvor lang tid som trengs for å fullføre dem, og dersom ingen tiltak iverksettes, årsakene til dette.
+1\. Mottakeren av en sikkerhetstilråding skal bekrefte mottak av følgebrevet og innen 90 dager etter at brevet ble mottatt, underrette myndigheten med ansvar for sikkerhetsundersøkelser som utstedte tilrådingen, om hvilke tiltak som er iverksatt eller som vurderes, og eventuelt om hvor lang tid som trengs for å fullføre dem, og dersom ingen tiltak iverksettes, årsakene til dette.
 
-2. Innen 60 dager etter at svaret er mottatt, skal myndigheten med ansvar for sikkerhetsundersøkelsen underrette mottakeren om hvorvidt den anser at svaret er tilfredsstillende eller ikke, og gi en begrunnelse dersom den er uenig i en beslutning om å ikke iverksette tiltak.
+2\. Innen 60 dager etter at svaret er mottatt, skal myndigheten med ansvar for sikkerhetsundersøkelsen underrette mottakeren om hvorvidt den anser at svaret er tilfredsstillende eller ikke, og gi en begrunnelse dersom den er uenig i en beslutning om å ikke iverksette tiltak.
 
-3. Hver myndighet med ansvar for sikkerhetsundersøkelser skal innføre framgangsmåter for å registrere svarene på de sikkerhetstilrådinger den har utstedt.
+3\. Hver myndighet med ansvar for sikkerhetsundersøkelser skal innføre framgangsmåter for å registrere svarene på de sikkerhetstilrådinger den har utstedt.
 
-4. Alle organer som mottar sikkerhetstilrådinger, herunder myndighetene med ansvar for sikkerheten i sivil luftfart på medlemsstats- og unionsplan, skal innføre framgangsmåter for å overvåke utviklingen i tiltak som iverksettes på grunnlag av mottatte sikkerhetstilrådinger.
+4\. Alle organer som mottar sikkerhetstilrådinger, herunder myndighetene med ansvar for sikkerheten i sivil luftfart på medlemsstats- og unionsplan, skal innføre framgangsmåter for å overvåke utviklingen i tiltak som iverksettes på grunnlag av mottatte sikkerhetstilrådinger.
 
-5. Myndighetene med ansvar for sikkerhetsundersøkelser skal registrere i det sentrale datalageret opprettet ved kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321) av 12. november 2007 om fastsettelse av gjennomføringsregler for registrering i et sentralt datalager av hendelser innen sivil luftfart som utveksles i samsvar med direktiv [2003/42/EF](eu/32003l0042),1 alle sikkerhetstilrådinger som er utstedt i samsvar med artikkel 17 nr. 1 og 2, samt svarene på disse. Myndighetene med ansvar for sikkerhetsundersøkelser skal på samme måte registrere i det sentrale datalageret alle sikkerhetstilrådinger som de mottar fra tredjestater.
+5\. Myndighetene med ansvar for sikkerhetsundersøkelser skal registrere i det sentrale datalageret opprettet ved kommisjonsforordning [(EF) nr. 1321/2007](eu/32007r1321) av 12. november 2007 om fastsettelse av gjennomføringsregler for registrering i et sentralt datalager av hendelser innen sivil luftfart som utveksles i samsvar med direktiv [2003/42/EF](eu/32003l0042),1 alle sikkerhetstilrådinger som er utstedt i samsvar med artikkel 17 nr. 1 og 2, samt svarene på disse. Myndighetene med ansvar for sikkerhetsundersøkelser skal på samme måte registrere i det sentrale datalageret alle sikkerhetstilrådinger som de mottar fra tredjestater.
+
+1 EUT L 294 av 13.11.2007, s. 3.
 
 ### Art 19. Rapportering av hendelser
 
-1. EASA og vedkommende myndigheter i medlemsstatene skal samarbeide og delta regelmessig i utvekslingen og analysen av opplysninger omfattet av direktiv [2003/42/EF](eu/32003l0042). Dette skal omfatte direktekoplet tilgang til opplysninger registrert i det sentrale datalageret opprettet ved forordning [(EF) nr. 1321/2007](eu/32007r1321), herunder opplysninger som direkte identifiserer luftfartøyer som er gjenstand for en hendelsesrapport, som serie- og registreringsnummer, der dette finnes. Slik tilgang skal ikke omfatte opplysninger som identifiserer operatøren som er gjenstand for hendelsesrapporten.
+1\. EASA og vedkommende myndigheter i medlemsstatene skal samarbeide og delta regelmessig i utvekslingen og analysen av opplysninger omfattet av direktiv [2003/42/EF](eu/32003l0042). Dette skal omfatte direktekoplet tilgang til opplysninger registrert i det sentrale datalageret opprettet ved forordning [(EF) nr. 1321/2007](eu/32007r1321), herunder opplysninger som direkte identifiserer luftfartøyer som er gjenstand for en hendelsesrapport, som serie- og registreringsnummer, der dette finnes. Slik tilgang skal ikke omfatte opplysninger som identifiserer operatøren som er gjenstand for hendelsesrapporten.
 
-2. EASA og myndighetene i medlemsstatene som er nevnt i nr. 1, skal sikre fortrolig behandling av slike opplysninger i samsvar med gjeldende lovgivning, og skal begrense bruken av dem til det som er strengt nødvendig for å oppfylle sine sikkerhetsforpliktelser. I så henseende skal disse opplysningene brukes bare for å analysere sikkerhetstendenser som kan danne grunnlag for anonyme sikkerhetstilrådinger eller luftdyktighetspåbud uten å fordele skyld eller ansvar.
+2\. EASA og myndighetene i medlemsstatene som er nevnt i nr. 1, skal sikre fortrolig behandling av slike opplysninger i samsvar med gjeldende lovgivning, og skal begrense bruken av dem til det som er strengt nødvendig for å oppfylle sine sikkerhetsforpliktelser. I så henseende skal disse opplysningene brukes bare for å analysere sikkerhetstendenser som kan danne grunnlag for anonyme sikkerhetstilrådinger eller luftdyktighetspåbud uten å fordele skyld eller ansvar.
 
 ### Art 20. Opplysninger om personer og farlig gods om bord
 
-1. Luftfartsselskaper i Unionen som gjennomfører flyginger som ankommer eller avgår fra, og luftfartsselskaper fra tredjestater som gjennomfører flyginger som avgår fra, en lufthavn som ligger på territoriet til de medlemsstater som traktaten får anvendelse på, skal innføre framgangsmåter som gjør det mulig åsnarest mulig og senest to timer etter mottak av en melding om at et luftfartøy har vært ute for en ulykke, framlegge en validert liste, på grunnlag av beste tilgjengelige opplysninger, over alle personer om bord, ogumiddelbart etter mottak av en melding om at et luftfartøy har vært ute for en ulykke, framlegge en liste over farlig gods om bord.
+1\. Luftfartsselskaper i Unionen som gjennomfører flyginger som ankommer eller avgår fra, og luftfartsselskaper fra tredjestater som gjennomfører flyginger som avgår fra, en lufthavn som ligger på territoriet til de medlemsstater som traktaten får anvendelse på, skal innføre framgangsmåter som gjør det mulig åsnarest mulig og senest to timer etter mottak av en melding om at et luftfartøy har vært ute for en ulykke, framlegge en validert liste, på grunnlag av beste tilgjengelige opplysninger, over alle personer om bord, ogumiddelbart etter mottak av en melding om at et luftfartøy har vært ute for en ulykke, framlegge en liste over farlig gods om bord.
 
-2. Listene nevnt i nr. 1 skal gjøres tilgjengelig for den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser, myndigheten som er utpekt av hver medlemsstat til å holde kontakt med de pårørende til personene om bord, og om nødvendig for medisinske enheter som kan trenge opplysningene for å behandle ofrene.
+2\. Listene nevnt i nr. 1 skal gjøres tilgjengelig for den ansvarlige myndighet med ansvar for sikkerhetsundersøkelser, myndigheten som er utpekt av hver medlemsstat til å holde kontakt med de pårørende til personene om bord, og om nødvendig for medisinske enheter som kan trenge opplysningene for å behandle ofrene.
 
-3. For at passasjerenes pårørende raskt skal kunne få opplysninger om at deres pårørende var om bord på et luftfartøy som er innblandet i en ulykke, skal luftfartsselskapene gi de reisende mulighet til å oppgi navn og kontaktopplysninger på en person som skal kontaktes i tilfelle av en ulykke. Disse opplysningene kan brukes av luftfartsselskapene bare dersom en ulykke inntreffer, og de skal ikke utleveres til tredjemann eller brukes for kommersielle formål.
+3\. For at passasjerenes pårørende raskt skal kunne få opplysninger om at deres pårørende var om bord på et luftfartøy som er innblandet i en ulykke, skal luftfartsselskapene gi de reisende mulighet til å oppgi navn og kontaktopplysninger på en person som skal kontaktes i tilfelle av en ulykke. Disse opplysningene kan brukes av luftfartsselskapene bare dersom en ulykke inntreffer, og de skal ikke utleveres til tredjemann eller brukes for kommersielle formål.
 
-4. Navnet på en person om bord skal ikke offentliggjøres før personens pårørende er underrettet av relevante myndigheter. Listen nevnt i nr. 1 bokstav a) skal holdes fortrolig i samsvar med EU-rettsakter og nasjonal lovgivning, og navnet på hver enkelt person på listen skal, om annet ikke er fastsatt i lovgivningen, bare offentliggjøres dersom de pårørende til den enkelte person om bord ikke har motsatt seg dette.
+4\. Navnet på en person om bord skal ikke offentliggjøres før personens pårørende er underrettet av relevante myndigheter. Listen nevnt i nr. 1 bokstav a) skal holdes fortrolig i samsvar med EU-rettsakter og nasjonal lovgivning, og navnet på hver enkelt person på listen skal, om annet ikke er fastsatt i lovgivningen, bare offentliggjøres dersom de pårørende til den enkelte person om bord ikke har motsatt seg dette.
 
 ### Art 21. Bistand til ofre for flyulykker og deres pårørende
 
-1. For å sikre mer omfattende og harmoniserte tiltak ved ulykker på EU- plan, skal hver medlemsstat utarbeide en beredskapsplan for ulykker innen sivil luftfart på nasjonalt plan. Denne beredskapsplanen skal også omfatte bistand til ofrene for ulykker innen sivil luftfart og deres pårørende.
+1\. For å sikre mer omfattende og harmoniserte tiltak ved ulykker på EU- plan, skal hver medlemsstat utarbeide en beredskapsplan for ulykker innen sivil luftfart på nasjonalt plan. Denne beredskapsplanen skal også omfatte bistand til ofrene for ulykker innen sivil luftfart og deres pårørende.
 
-2. Medlemsstatene skal sikre at alle luftfartsselskaper etablert på deres territorium har en plan for bistand til ofrene for ulykker innen sivil luftfart og deres pårørende. Disse planene skal særlig ta hensyn til psykologisk støtte til ofre for ulykker innen sivil luftfart og deres pårørende og sette luftfartsselskapene i stand til å håndtere en større ulykke. Medlemsstatene skal revidere bistandsplanene til luftfartsselskaper etablert på deres territorium. Medlemsstatene skal også oppmuntre luftfartsselskaper fra tredjestater som utøver virksomhet i Unionen, til å vedta en plan for bistand til ofre for ulykker innen sivil luftfart og deres pårørende.
+2\. Medlemsstatene skal sikre at alle luftfartsselskaper etablert på deres territorium har en plan for bistand til ofrene for ulykker innen sivil luftfart og deres pårørende. Disse planene skal særlig ta hensyn til psykologisk støtte til ofre for ulykker innen sivil luftfart og deres pårørende og sette luftfartsselskapene i stand til å håndtere en større ulykke. Medlemsstatene skal revidere bistandsplanene til luftfartsselskaper etablert på deres territorium. Medlemsstatene skal også oppmuntre luftfartsselskaper fra tredjestater som utøver virksomhet i Unionen, til å vedta en plan for bistand til ofre for ulykker innen sivil luftfart og deres pårørende.
 
-3. Når en ulykke inntreffer, skal den medlemsstat som har ansvar for undersøkelsen, den medlemsstat der luftfartsselskapet hvis luftfartøy var innblandet i ulykken, er etablert, eller den medlemsstat som hadde et stort antall borgere om bord i luftfartøyet som var innblandet i ulykken, sørge for at det utnevnes en person som kontakt- og informasjonspunkt for ofrene og deres pårørende.
+3\. Når en ulykke inntreffer, skal den medlemsstat som har ansvar for undersøkelsen, den medlemsstat der luftfartsselskapet hvis luftfartøy var innblandet i ulykken, er etablert, eller den medlemsstat som hadde et stort antall borgere om bord i luftfartøyet som var innblandet i ulykken, sørge for at det utnevnes en person som kontakt- og informasjonspunkt for ofrene og deres pårørende.
 
-4. En medlemsstat eller tredjestat hvis borgere har omkommet eller blitt alvorlig skadet i en ulykke som har funnet sted på territoriet til de medlemsstater der traktaten får anvendelse, og som derfor har en særlig interesse i ulykken, skal ha rett til å utpeke en sakkyndig som skal ha rett til åbesøke ulykkesstedet,få tilgang til relevante faktaopplysninger som den ansvarlige myndighet med ansvar for sikkerhetsundersøkelsen har godkjent for offentliggjøring, samt til opplysninger om framdriften i undersøkelsen,få et eksemplar av sluttrapporten.
+4\. En medlemsstat eller tredjestat hvis borgere har omkommet eller blitt alvorlig skadet i en ulykke som har funnet sted på territoriet til de medlemsstater der traktaten får anvendelse, og som derfor har en særlig interesse i ulykken, skal ha rett til å utpeke en sakkyndig som skal ha rett til åbesøke ulykkesstedet,få tilgang til relevante faktaopplysninger som den ansvarlige myndighet med ansvar for sikkerhetsundersøkelsen har godkjent for offentliggjøring, samt til opplysninger om framdriften i undersøkelsen,få et eksemplar av sluttrapporten.
 
-5. En sakkyndig utpekt i samsvar med nr. 4 kan bistå, med forbehold for gjeldende lovgivning, i identifiseringen av ofrene og delta på møter med overlevende fra sin stat.
+5\. En sakkyndig utpekt i samsvar med nr. 4 kan bistå, med forbehold for gjeldende lovgivning, i identifiseringen av ofrene og delta på møter med overlevende fra sin stat.
 
-6. I samsvar med artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 785/2004](eu/32004r0785) av 21. april 2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører1 skal også tredjestaters luftfartsselskaper oppfylle forsikringsplikten fastsatt i nevnte forordning.
+6\. I samsvar med artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 785/2004](eu/32004r0785) av 21. april 2004 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører1 skal også tredjestaters luftfartsselskaper oppfylle forsikringsplikten fastsatt i nevnte forordning.
+
+1 EUT L 138 av 30.4.2004, s. 1.
 
 ### Art 22. Tilgang til dokumenter og vern av personopplysninger
 
-1. Denne forordning får anvendelse uten at det berører europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter.1
+1\. Denne forordning får anvendelse uten at det berører europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter.1
 
-2. Denne forordning får anvendelse i samsvar med europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger2 og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger.3
+2\. Denne forordning får anvendelse i samsvar med europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger2 og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger.3
+
+1 EFT L 145 av 31.5.2001, s. 43.2 EFT L 281 av 23.11.1995, s. 31.3 EFT L 8 av 12.1.2001, s. 1.
 
 ### Art 23. Sanksjoner
 
@@ -3187,6 +3409,14 @@ Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europ
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Strasbourg, 20. oktober 2010.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| J. BUZEK | O. CHASTEL |
+|  |  |
+| *President* | *President* |
 
 ### Vedlegg. Liste over eksempler på alvorlige hendelser
 

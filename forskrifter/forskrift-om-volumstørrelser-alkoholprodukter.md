@@ -42,6 +42,17 @@ Produktene i tabell 1 som er ferdigpakket innenfor de angitte intervallene, kan 
 
 Ferdigpakninger som selges eller tilbys for salg i de obligatoriske størrelsene angitt i tabell 1, kan ikke nektes, forbys eller begrenses markedsadgang grunnet ferdigpakningens volumstørrelse.
 
+*Tabell 1*
+
+| *Produkt:* | *Obligatorisk volumstørrelse* |
+| --- | --- |
+| Vin | I intervallet 100 ml-1 500 ml<br>ml: 100-187-250-375-500-750-1000-1 500 |
+| Gul vin | I intervallet 100 ml-1 500 ml<br>ml: 620 |
+| Musserende vin | I intervallet 125 ml-1 500 ml<br>ml: 125-200-375-750-1 500 |
+| Sterkvin | I intervallet 100 ml-1 500 ml<br>ml: 100-200-375-500-750-1000-1 500 |
+| Aromatisert vin | I intervallet 100 ml-1 500 ml<br>ml: 100-200-375-500-750-1000-1 500 |
+| Alkoholsterke drikker | I intervallet 100 ml-2000 ml<br>ml: 100-200-350-500-700-1000-1 500-1 750-2000 |
+
 ## § 4. Multipakninger og ferdigpakninger bestående av enkeltpakninger
 
 Dersom to eller flere enkeltpakninger inngår i en multipakning, gjelder de obligatoriske volumstørrelsene i tabell 1 for hver enkeltpakning.

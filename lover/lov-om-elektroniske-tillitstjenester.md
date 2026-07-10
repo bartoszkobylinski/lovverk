@@ -91,6 +91,8 @@ Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastse
 
 Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 15. juni 2001 nr. 81](lov/2001-06-15-81) om elektronisk signatur.
 
+1 Fra 15 juni 2018 iflg. [res. 15 juni 2018 nr. 873](forskrift/2018-06-15-873).
+
 ## § 10. Overgangsregler
 
 Forskrifter og enkeltvedtak gitt i medhold av [lov 15. juni 2001 nr. 81](lov/2001-06-15-81) om elektronisk signatur, gjelder inntil de blir opphevet. Det samme gjelder utpeking av tilsynsmyndighet og klageorgan samt eventuelle idømte erstatningskrav med hjemmel i samme lov.

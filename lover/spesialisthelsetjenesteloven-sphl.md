@@ -560,6 +560,8 @@ Fra tidspunktet for ikrafttredelse blir følgende lover opphevet: [Lov av 19. ju
 
 > Endret ved lov [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 9-2).
 
+1 Fra 1 jan 2001 iflg. [res. 1 des 2000 nr. 1196](forskrift/2000-12-01-1196) med unntak av § 2-6 og § 9-4 nr. 3 som ble satt ikr. 1 juli 2001 iflg. [res. 8 juni 2001 nr. 595](forskrift/2001-06-08-595).
+
 ### § 8-3. (Opphevet)
 
 > Endret ved lover [15 juni 2001 nr. 93](lov/2001-06-15-93) (ikr. 1 jan 2002 iflg. [res. 14 des 2001 nr. 1417](forskrift/2001-12-14-1417), tidligere § 9-3), [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), opphevet ved lov [22 juni 2018 nr. 76](lov/2018-06-22-76).

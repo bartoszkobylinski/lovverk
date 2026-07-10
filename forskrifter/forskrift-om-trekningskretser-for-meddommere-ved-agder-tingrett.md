@@ -26,11 +26,15 @@ eu_basis: []
 
 Agder tingrett deles i tre trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Lister (rettssted Farsund)
+
 - Farsund kommune
 - Flekkefjord kommune
 - Hægebostad kommune
 - Kvinesdal kommune
 - Lyngdal kommune.
+
+Trekningskrets 2 Kristiansand (rettssted Kristiansand)
 
 - Birkenes kommune
 - Bygland kommune
@@ -43,6 +47,8 @@ Agder tingrett deles i tre trekningskretser for meddommere. Kommunene som hører
 - Valle kommune
 - Vennesla kommune
 - Åseral kommune.
+
+Trekningskrets 3 Aust-Agder (rettssted Arendal)
 
 - Arendal kommune
 - Froland kommune

@@ -66,4 +66,6 @@ Særregelene om gradering av dagpenger i § 2-7 gis virkning for alle løpende o
 
 ## II
 
+*Ikrafttredelse*
+
 Forskriften trer i kraft straks.

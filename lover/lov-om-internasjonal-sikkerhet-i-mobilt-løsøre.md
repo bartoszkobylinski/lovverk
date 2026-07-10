@@ -30,11 +30,15 @@ Cape Town-konvensjonen 16. november 2001 om internasjonale sikkerhetsretter i mo
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Iflg. [res. 12 nov 2010 nr. 1421](forskrift/2010-11-12-1421) trer loven ikr. fra det tidspunktet konvensjon om internasjonale sikkerhetsretter i mobilt løsøre og protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre trer ikr. for Norge. Iflg. meddelelse fra Justisdepartementet [28 mars 2011 nr. 322](forskrift/2011-03-28-322) inntrådte dette 1 apr 2011.
+
 ## § 3.
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
 
 ## Convention on International interests in mobile equipment
+
+THE STATES PARTIES TO THIS CONVENTION,
 
 AWARE of the need to acquire and use mobile equipment of high value or particular economic significance and to facilitate the financing of the acquisition and use of such equipment in an efficient manner,
 
@@ -872,6 +876,8 @@ UTFERDIGET i Cape Town den sekstende november to tusen og ett, i ett originaleks
 
 ## Protocol to the Convention on International interests in Mobile Equipment on matters specific to aircraft equipment
 
+THE STATES PARTIES TO THIS PROTOCOL,
+
 CONSIDERING it necessary to implement the *Convention on International Interests in Mobile Equipment* (hereinafter referred to as «the Convention») as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the Convention,
 
 MINDFUL of the need to adapt the Convention to meet the particular requirements of aircraft finance and to extend the sphere of application of the Convention to include contracts of sale of aircraft equipment,
@@ -949,6 +955,8 @@ A description of an aircraft object that contains its manufacturer's serial numb
 
 1. This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to Article XXX(3).
 
+*Alternative A*
+
 1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:the end of the waiting period; andthe date on which the creditor would be entitled to possession of the aircraft object if this Article did not apply.
 2. For the purposes of this Article, the «waiting period» shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
 3. References in this Article to the «insolvency administrator» shall be to that person in its official, not in its personal, capacity.
@@ -961,6 +969,8 @@ A description of an aircraft object that contains its manufacturer's serial numb
 10. Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
 11. No rights or interests, except for non-consensual rights or interests of a category covered by a declaration pursuant to Article 39(1), shall have priority in insolvency proceedings over registered interests.
 12. The Convention as modified by Article IX of this Protocol shall apply to the exercise of any remedies under this Article.
+
+*Alternative B*
 
 1. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to Article XXX(3) whether it will:cure all defaults other than a default constituted by the opening of insolvency proceedings and agree to perform all future obligations, under the agreement and related transaction documents; orgive the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
 2. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
@@ -1130,6 +1140,8 @@ DONE at Cape Town, this sixteenth day of November, two thousand and one, in a si
 
 ### Annex 2. Form of irrevocable de-registration and export request authorisation
 
+Annex referred to in Article XIII
+
 [Insert Date]
 
 To: [Insert Name of Registry Authority]
@@ -1146,7 +1158,17 @@ Please acknowledge your agreement to this request and its terms by appropriate n
 
 [insert name of operator/owner]
 
+Agreed to and lodged this By: [insert name of signatory]
+
+[insert date] Its: [insert title of signatory]
+
+[insert relevant notational details]
+
+1 Select the term that reflects the relevant nationality registration criterion.
+
 ## Protokoll til konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre, om særlige forhold for luftfartøysløsøre
+
+DE STATER SOM ER PART I DENNE PROTOKOLL,
 
 SOM MENER at konvensjonen om internasjonale sikkerhetsretter i mobilt løsøre (heretter kalt «konvensjonen»), på bakgrunn av de mål som er oppført i konvensjonens preambel, må gjennomføres i den grad den gjelder for luftfartøysløsøre,
 
@@ -1225,6 +1247,8 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 
 1. Denne artikkel skal ikke gjelde med mindre en konvensjonsstat som har hovedjurisdiksjon ved insolvens, har avgitt en erklæring i henhold til artikkel XXX nr. 3.
 
+*Alternativ A*
+
 1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, med forbehold for nr. 7 overlevere luftfartøysgjenstanden til kreditor innen den første av følgende to datoer:når karenstiden er utløpt, ogden dato kreditor ville hatt rett til å ta luftfartøysgjenstanden i besittelse om denne artikkel ikke fikk anvendelse.
 2. I denne artikkel skal «karenstiden» være det tidsrom som er angitt i en erklæring fra konvensjonsstaten som har hovedjurisdiksjon ved insolvens.
 3. Når det i denne artikkel er vist til «insolvensbestyreren», menes denne person i tjenestesammenheng, og ikke i vedkommende personlig.
@@ -1237,6 +1261,8 @@ En beskrivelse av en luftfartøysgjenstand som inneholder serienummer fra produs
 10. Ingen bestemmelse i foregående ledd skal tolkes slik at den berører insolvensbestyrerens eventuelle myndighet til å si opp avtalen etter gjeldende lovgivning.
 11. Ingen rettigheter eller sikkerhetsretter, med unntak av ikke-avtalemessige rettigheter eller sikkerhetsretter tilhørende en kategori omhandlet i en erklæring i henhold til artikkel 39 nr. 1, skal ha prioritet framfor registrerte sikkerhetsretter i insolvensbehandlingen.
 12. Konvensjonen, endret ved artikkel IX i denne protokoll, skal gjelde for iverksettelse av alle tiltak etter denne artikkel.
+
+*Alternativ B*
 
 1. Når det oppstår en insolvenssituasjon, skal insolvensbestyreren eller debitor, alt etter omstendighetene, på anmodning fra kreditor og i løpet av det tidsrom som er angitt i en erklæring fra en konvensjonsstat i henhold til artikkel XXX nr. 3, gi kreditor melding om den vil:rette opp alle andre mangler enn dem som skyldes åpningen av insolvensbehandlingen, og forplikte seg til å oppfylle alle framtidige forpliktelser i henhold til avtalen og tilknyttede dokumenter, ellergi kreditor mulighet for å ta luftfartøysgjenstanden i besittelse i samsvar med gjeldende lovgivning.
 2. I gjeldende lovgivning som nevnt i bokstav b) kan domstolen gis mulighet til å kreve at det treffes ytterligere tiltak eller stilles ytterligere sikkerhet.
@@ -1406,6 +1432,8 @@ UTFERDIGET i Cape Town den sekstende november to tusen og ett, i ett originaleks
 
 ### Vedlegg. Skjema for ugjenkallelig fullmakt til å anmode om avregistrering og tillatelse til eksport
 
+Vedlegg henvist til i artikkel XIII
+
 [Dato]
 
 Til: [Registermyndighetens navn]
@@ -1419,3 +1447,13 @@ Dette dokument er en ugjenkallelig fullmakt til å anmode om avregistrering og t
 Den bemyndigede parts rettigheter i henhold til dette dokument kan ikke tilbakekalles av undertegnede uten skriftlig samtykke fra den bemyndigede part.
 
 Denne anmodningen og dens vilkår godtas ved undertegning og deponering hos [registermyndighetens navn].
+
+[Operatørens/eierens navn]
+
+Godkjent og deponert den:
+
+[dato] av: [navn og tittel]
+
+[Merknader]
+
+1 Velg det som svarer til det nasjonale registreringskriteriet.

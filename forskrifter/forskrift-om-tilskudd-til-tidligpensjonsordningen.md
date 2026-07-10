@@ -34,6 +34,8 @@ Statsforvalteren kan etter en særskilt vurdering innvilge søknader om tidligpe
 
 > Endret ved [forskrifter 25 aug 1999 nr. 1631](forskrift/1999-08-25-1631), [28 juni 2002 nr. 736](forskrift/2002-06-28-736) (i kraft 1 juli 2002), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
+1 Jf. [lov av 25. juni 1965 nr. 1](lov/1965-06-25-1) om forpaktning.
+
 ## § 3. Definisjoner
 
 I denne forskrift menes med;*bruker;* enhver som eier landbrukseiendom eller deltar i driften av slik eiendom med egen innsats eller ved utleie*samboere;* parter som har levd uavbrutt sammen i et ekteskapslignende forhold de siste 5 årene før overdragelsestidspunktet*referanseperiode;* fem sammenhengende år der siste år er 2 år tilbake i tid i forhold til søknadsåret*referanseinntekt;* summen av inntektene nevnt i bokstavene a-d i referanseperioden dividert på 5;næringsinntekt fra jordbruk/gartnerinæringsinntekt fra skogbrukutbetalte sykepenger som er opptjent av virksomhet som nevnt i bokstavene a og blønn som er betalt fra bruker til samboer for dennes arbeid på landbrukseiendommen.*annen inntekt;* summen av inntektene nevnt i bokstavene a–e i referanseperioden dividert på 5;lønnsinntekt, bortsett fra lønnsinntekt fra Inn på Tunet-virksomhet som statsforvalteren har gitt unntak for etter [§ 8](forskrift/1999-02-03-190/§8) andre ledd eller [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 2næringsinntekt fra fiske og fangst og annen næring som ikke omfattes av [§ 7](forskrift/1999-02-03-190/§7) andre ledd bokstav autbetalte sykepenger opptjent gjennom inntekt som nevnt i bokstavene a og butbetalte dagpengerutbetalt uføretrygd og arbeidsavklaringspenger med mindre statsforvalteren har gitt unntakpå grunnlag av bestemmelsene i [§ 9](forskrift/1999-02-03-190/§9) andre ledd nr. 1.*samlet inntekt;* summen av referanseinntekt og annen inntekt*enbrukerpensjon;* tidligpensjon som ytes bruker*tobrukerpensjon;* tidligpensjon som ytes bruker og dennes ektefelle/samboer.
@@ -49,6 +51,8 @@ Ved avhending må hjemmelen til eiendommen være tinglyst på ny eier. Dersom sa
 Statsforvalteren kan i særlige tilfeller gjøre unntak fra første ledd når:bruker og dennes ektefelle/samboer eier hver sin landbrukseiendom og disse drives som selvstendige enheter. Det kan ytes tidligpensjon til den som overdrar landbrukseiendom, uten krav om at den andre parten må overdra sin landbrukseiendom. Det kan ytes enbrukerpensjon til både bruker og dennes ektefelle/samboer som følge av hver sin eiendomsoverdragelse.bruker eller ektefelle/samboer er eier eller medeier av en landbrukseiendom som har karakter av fritidseiendom, som ikke har vært i drift i referanseperioden og som etter statsforvalterens vurdering ikke vil komme i drift. Det kan ytes tidligpensjon selv om slik landbrukseiendom ikke overdras.
 
 > Endret ved [forskrifter 25 aug 1999 nr. 1631](forskrift/1999-08-25-1631), [21 nov 2000 nr. 1185](forskrift/2000-11-21-1185) (i kraft 1 jan 2001), [28 juni 2002 nr. 736](forskrift/2002-06-28-736) (i kraft 1 juli 2002), [5 nov 2003 nr. 1561](forskrift/2003-11-05-1561) (i kraft 1 jan 2004), [3 nov 2010 nr. 1401](forskrift/2010-11-03-1401), [17 des 2018 nr. 2119](forskrift/2018-12-17-2119) (i kraft 1 jan 2019), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
+
+1 Jf. [lov 25. juni 1965 nr. 1](lov/1965-06-25-1) om forpakting.
 
 ## § 5. Varighet i næringen
 

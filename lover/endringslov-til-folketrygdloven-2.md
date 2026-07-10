@@ -22,11 +22,19 @@ eu_basis: []
 
 # Lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)
 
+Endringer i følgende lov:
+
 - [Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven)](lov/1997-02-28-19).
 
 ## I
 
+I [lov 28. februar 1997 nr. 19 om folketrygd kapittel 13](lov/1997-02-28-19/kap13) gjøres følgende endringer:
+
+[§ 13-3 andre ledd](lov/1997-02-28-19/§13-3/ledd/2) skal lyde:
+
 Som arbeidsulykke regnes en plutselig ytre hending som medlemmet har vært utsatt for i arbeidet. Som arbeidsulykke regnes også en konkret tidsbegrenset hending som medfører en påkjenning eller belastning, når denne er utslag av en risiko ved arbeidet eller arbeidsstedet som ikke er helt bagatellmessig.
+
+[§ 13-4 andre ledd](lov/1997-02-28-19/§13-4/ledd/2) skal lyde:
 
 Sykdom som angitt i forskriftene skal godkjennes som yrkesskade, med mindre Arbeids- og velferdsetaten sannsynliggjør atsykdomsbildet ikke er karakteristisk og i samsvar med det som den aktuelle påvirkningen kan framkalle,vedkommende i tid og konsentrasjon ikke har vært utsatt for den aktuelle påvirkningen i en slik grad at det er en rimelig sammenheng mellom påvirkningen og det aktuelle sykdomsbildet,symptomene ikke har oppstått i rimelig tid etter påvirkningen, ellerdet er mer sannsynlig at en annen sykdom eller påvirkning er årsak til symptomene.
 

@@ -206,8 +206,12 @@ Departementet kan i forskrift gi nærmere bestemmelser om plikten til forsikring
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 juli 2003 iflg. [res. 23 mai 2003 nr. 625](forskrift/2003-05-23-625).
+
 ### § 21. (Opphevet)
 
 > Opphevet ved lov [10 juni 2022 nr. 37](lov/2022-06-10-37).
 
 ### § 22. Endringer i andre lover
+
+– – –

@@ -28,11 +28,15 @@ eu_basis: []
 
 Med hjemmel i [forskrift 12. februar 2010 nr. 158](forskrift/2010-02-12-158) om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg ([rammeforskriften) § 67](forskrift/2010-02-12-158/§67) og § [69](forskrift/2010-02-12-158/§69), delegeres Mattilsynets myndighet etter forskriften slik:
 
+*1. Tilsyn og enkeltvedtak*
+
 Helsetilsynet i Rogaland (fra 1. januar 2012 Statsforvalteren i Rogaland), delegeres myndighet til å føre tilsyn og fatte enkeltvedtak i henhold til [lov 19 desember 2003 nr. 124](lov/2003-12-19-124) om matproduksjon og mattrygghet og forskrifter gitt med hjemmel i denne, overfor petroleumsvirksomheter til havs.
 
 Delegeringen omfatter ikke myndighet til å føre tilsyn og fatte vedtak overfor petroleumsvirksomheter på land.
 
 Enkeltvedtak fattet av Helsetilsynet i Rogaland (fra 1. januar 2012 Statsforvalteren i Rogaland) kan påklages til det regionale Mattilsynet for Rogaland og Agder, jf. lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) kapittel [VI](lov/1967-02-10/kapvi).
+
+*2. Instruksjonsmyndighet, tilbaketrekking og endring av delegert myndighet*
 
 Det sentrale Mattilsynet ved Hovedkontoret kan gi nærmere instrukser for utøvelsen av den delegerte myndigheten – både generelt og i den enkelte sak, herunder for samhandling og gjensidig informasjonsutveksling mellom Helsetilsynet i Rogaland (fra 1. januar 2012 Statsforvalteren i Rogaland) og Mattilsynet.
 

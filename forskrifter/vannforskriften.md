@@ -183,6 +183,8 @@ Statsforvalteren som miljøfaglig ansvarlig og rådgiver har ansvaret for å koo
 
 ### § 19
 
+(Opphevet)
+
 > Opphevet ved [forskrift 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010).
 
 ### § 20. Vannregioner og vannregionmyndigheter
@@ -347,6 +349,31 @@ Denne forskrift trer i kraft 1. januar 2007.
 
 ## Vedlegg I. Vannregioner og vannregionmyndigheter
 
+Tabell 1. Vannregionmyndigheter og avgrensing og beskrivelse av vannregionene
+
+|  | *Vannregionmyndighet* | *Vannregioner* | *Beskrivelse* |
+| --- | --- | --- | --- |
+| 1 | Østfold fylkeskommune | Glomma vannregion | – Glomma er en internasjonal vannregion som omfatter Østfold, Akershus, Oslo, største delen av Innlandet, og deler av Trøndelag.<br>– Østfold-Haldenvassdraget, Glomma med Gudbrandsdalslågen, Vansjø/Hobølvassdraget, Enningdalsvassdraget, og vassdragene som drenerer til Indre Oslofjord og deler av Breiangen, med berørte kyst- og fjordområder.<br>– Mindre deler av vannregionen ligger i Sverige, og er underlagt svensk myndighet. |
+|  |  | Västerhavet vannregion (norsk del) | – Västerhavet er en internasjonal vannregion som på norsk side omfatter Trysilelva med Femunden, og ellers områder som drenerer til Sverige. |
+| 2 | Buskerud fylkeskommune | Vest-Viken vannregion | – Vest-Viken omfatter Buskerud, deler av Akershus, Innlandet, Vestfold og største delen av Telemark.<br>– Hele Drammensvassdraget med Etna/Dokka, Begna, Hallingdal og Eggedøla-Simoa, Drammensfjorden, Numedalslågen, Skiensvassdraget, og Kragerøvassdraget, med berørte kyst- og fjordområder. |
+| 3 | Agder fylkeskommune | Agder vannregion | – Omfatter største delen av Agder fylke.<br>– Mindre deler av fylkene Vestfold og Telemark og Rogaland drenerer også til denne vannregionen.<br>– Fra Gjerstadelva og Nidelva til og med Sira, med berørte kyst- og fjordområder. |
+| 4 | Rogaland fylkeskommune | Rogaland vannregion | – Omfatter største delen av Rogaland fylke.<br>– Mindre deler av fylkene Vestfold og Telemark, Agder og Vestland drenerer også til denne vannregionen.<br>– Fra Bjerkreimvassdraget til og med Karmøy, med berørte kyst- og fjordområder. |
+| 5 | Vestland fylkeskommune | Vestland vannregion | – Omfatter største delen av Vestland fylke.<br>– Mindre deler av fylkene Innlandet, Viken, Vestfold og Telemark og Møre og Romsdal drenerer også til denne vannregionen. – Fra Etnevassdraget til og med Sildegapet og Hornindalsvassdraget, med berørte kyst- og fjordområder. |
+| 6 | Møre og Romsdal fylkeskommune | Møre og Romsdal vannregion | – Omfatter største delen av Møre og Romsdal fylke.<br>– Mindre deler av fylkene Vestland, Innlandet og Trøndelag drenerer også til denne vannregionen.<br>– Fra Vannylven til og med Trondheimsleia, med berørte kyst- og fjordområder. |
+| 7 | Trøndelag fylkeskommune | Trøndelag vannregion | – Omfatter største delen av Trøndelag fylke.<br>– Mindre deler av fylkene Møre og Romsdal, Innlandet og Nordland drenerer også til denne vannregionen.<br>– Fra Hitra til og med Vikna, inkludert vassdragene som drenerer til Trondheimsfjorden, med berørte kyst- og fjordområder.<br>– Dette er en internasjonal vannregion fordi enkelte deler av vannregionen ligger i Sverige, og er underlagt svensk myndighet. |
+|  |  | Bottenhavet vannregion (norsk del) | – Bottenhavet er en internasjonal vannregion som på norsk side omfatter områder som drenerer til Sverige. |
+| 8 | Nordland fylkeskommune | Nordland og Jan Mayen vannregion | – Omfatter største delen av Nordland fylke.<br>– Mindre deler av fylkene Trøndelag og Troms drenerer også til denne vannregionen.<br>– Fra Åbjøra til og med Andøya med berørte kyst- og fjordområder.<br>– Statsforvalteren i Nordland har det administrative ansvaret for Jan Mayen.<br>– Dette er en internasjonal vannregion fordi enkelte deler av vannregionen ligger i Sverige, og er underlagt svensk myndighet. |
+|  |  | Bottenviken vannregion (norsk del) | – Bottenviken er en internasjonal vannregion som på norsk side omfatter områder som drenerer til Sverige. |
+| 9 | Troms fylkeskommune | Troms vannregion | – Troms er en internasjonal vannregion som omfatter største delen av Troms fylke. Mindre deler av fylkene Nordland og Finnmark drenerer også til denne vannregionen.<br>– Fra Harstad-Salangen til Nordreisa-Kvænangen, med berørte kyst- og fjordområder.<br>– Mindre deler av vannregionen ligger i Sverige og Finland, og er underlagt svensk og finsk myndighet. |
+|  |  | Tornionjoki/Torneälven vannregion (norsk del) | – Tornionjoki/Torneälven er en internasjonal vannregion som på norsk side omfatter mindre områder som drenerer til Sverige og Finland. |
+| 10 | Finnmark fylkeskommune | Finnmark vannregion | – Finnmark er en internasjonal vannregion som omfatter: største delen av Finnmark fylke, og mindre deler av Troms som drenerer til denne vannregionen.<br>– Fra Alta-Loppa-Stjernøya til Varangerhalvøya, med berørte kyst- og fjordområder. Med unntak av områder som inngår i Tana, Neiden og Pasvik vannregion.<br>– Dessuten de deler av Alta-Kautokeinovassdraget som ligger i Finland, og som er underlagt finsk myndighet. |
+|  |  | Tana, Neiden og Pasvik (norsk del) | – Dette er en internasjonal vannregion som omfatter norske deler av vassdragene Tana, Neiden med Munkelva, Pasvik og Grense Jakobselv, med berørte kyst- og fjordområder.<br>– Dessuten finske deler av vassdragene Tana, Neiden med Munkelva og Pasvik, som er underlagt finsk myndighet. |
+|  |  | Kemijoki vannregion (norsk del) | – Kemijoki er en internasjonal vannregion som på norsk side omfatter mindre områder som drenerer til Finland. |
+
+Figur 1
+
+Figur 2
+
 > Vedlegg I endret ved [forskrifter 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019), [12 des 2019 nr. 1760](forskrift/2019-12-12-1760) (i kraft 1 jan 2020), [25 jan 2024 nr. 131](forskrift/2024-01-25-131) (i kraft 1 feb 2024).
 
 ## Vedlegg II. Karakterisering, identifisering av påvirkninger og vurdering av miljøvirkninger
@@ -363,11 +390,88 @@ Beliggenheten og grensene til forekomster av overflatevann skal identifiseres og
 
 ### 1.1.1 Elver
 
+| *Karakterisering* | *Fysiske og kjemiske faktorer som bestemmer egenskapene til elva eller delen av elva og dermed biologisk populasjonsstruktur og -sammensetning* |
+| --- | --- |
+| Obligatoriske faktorer | høyde |
+|  | breddegrad |
+|  | lengdegrad |
+|  | geologi |
+|  | størrelse |
+| Valgfrie faktorer | oppstrømsareal |
+|  | strømningsenergi (funksjon av strømning og helning) |
+|  | gjennomsnittlig vannbredde |
+|  | gjennomsnittlig vanndybde |
+|  | gjennomsnittlig helningsgrad (fallhøyde) |
+|  | hovedelvebunnens form og profil |
+|  | middelvannføring |
+|  | dalform |
+|  | partikulær stofftransport |
+|  | syrenøytraliserende kapasitet (anc) |
+|  | gjennomsnittlig sammensetning av bunnsubstratet |
+|  | klorid |
+|  | vanntemperatur |
+|  | variasjon i lufttemperatur |
+|  | gjennomsnittlig lufttemperatur |
+|  | nedbør |
+
 ### 1.1.2 Innsjøer
+
+| *Karakterisering* | *Fysiske og kjemiske faktorer som bestemmer egenskapene til innsjøen og dermed biologisk populasjonsstruktur og -sammensetning* |
+| --- | --- |
+| Obligatoriske faktorer | høyde |
+|  | breddegrad |
+|  | lengdegrad |
+|  | dybde |
+|  | geologi |
+|  | størrelse |
+| Valgfrie faktorer | gjennomsnittlig vanndybde |
+|  | innsjøens form |
+|  | oppholdstid |
+|  | vanntemperatur (jf. elver) |
+|  | gjennomsnittlig lufttemperatur |
+|  | variasjon i lufttemperatur |
+|  | sirkulasjonsegenskaper (f.eks. monomiktisk, dimiktisk, polymiktisk) |
+|  | syrenøytraliserende kapasitet (ANC) |
+|  | bakgrunnstilstand for næringsstoffer (naturtilstand) |
+|  | gjennomsnittlig sammensetning av bunnsubstratet |
+|  | variasjon i vannstandsnivå |
 
 ### 1.1.3 Brakkvann
 
+| *Karakterisering* | *Fysiske og kjemiske faktorer som bestemmer egenskapene til brakkvann og dermed biologisk populasjonsstruktur og -sammensetning* |
+| --- | --- |
+| Obligatoriske faktorer | breddegrad |
+|  | lengdegrad |
+|  | tidevannsforskjell |
+|  | saltholdighet |
+| Valgfrie faktorer | dybde |
+|  | strømningshastighet |
+|  | bølgeeksponering |
+|  | oppholdstid |
+|  | gjennomsnittlig vanntemperatur |
+|  | blandingsegenskaper |
+|  | turbiditet |
+|  | gjennomsnittlig sammensetning av bunnsubstratet |
+|  | form |
+|  | variasjon i vanntemperatur |
+
 ### 1.1.4 Kystvann
+
+| *Karakterisering* | *Fysiske og kjemiske faktorer som bestemmer egenskapene til kystvannet og dermed biologisk populasjonsstruktur og -sammensetning* |
+| --- | --- |
+| Obligatoriske faktorer | breddegrad |
+|  | lengdegrad |
+|  | tidevannsforskjell |
+|  | saltholdighet |
+| Valgfrie faktorer | strømningshastighet |
+|  | bølgeeksponering |
+|  | gjennomsnittlig vanntemperatur |
+|  | sirkulasjonsegenskaper |
+|  | turbiditet |
+|  | oppholdstid (i innestengte bukter) |
+|  | gjennomsnittlig sammensetning av bunnsubstratet |
+|  | variasjon i vanntemperatur |
+|  | dyp |
 
 ### 1.2 Fastsettelse av typespesifikke referanseforhold for typer av overflatevannforekomster
 
@@ -442,9 +546,9 @@ Den økonomiske analysen skal bygge på solid dokumentasjon med nødvendige oppl
 
 ## Vedlegg IV. Beskyttede områder
 
-1. Registeret over beskyttede områder som kreves i henhold til [§ 16](forskrift/2006-12-15-1446/§16), skal omfatte følgende typer områder som har status som beskyttet etter sektorlovverk:områder utpekt eller tiltenkt for uttak av drikkevann i samsvar med [§ 17](forskrift/2006-12-15-1446/§17),områder utpekt til beskyttelse av økonomisk betydelige akvatiske arter,vannforekomster utpekt til rekreasjonsformål,områder følsomme for næringsstoffer, herunder områder utpekt som sårbare soner i henhold til [forskrift om gjødselvarer mv. av organisk opphav § 24](forskrift/2003-07-04-951/§24) og områder utpekt som følsomme områder i henhold til [forskrift om begrensning av forurensning kapittel 11](forskrift/2004-06-01-931/kap11) om generelle bestemmelser om avløp, ogområder utpekt til beskyttelse av naturtyper som består av eller er i vann eller arter som lever i vann, der opprettholdelse eller forbedring av vannets tilstand er viktig for å beskytte habitatet eller arten.
+1\. Registeret over beskyttede områder som kreves i henhold til [§ 16](forskrift/2006-12-15-1446/§16), skal omfatte følgende typer områder som har status som beskyttet etter sektorlovverk:områder utpekt eller tiltenkt for uttak av drikkevann i samsvar med [§ 17](forskrift/2006-12-15-1446/§17),områder utpekt til beskyttelse av økonomisk betydelige akvatiske arter,vannforekomster utpekt til rekreasjonsformål,områder følsomme for næringsstoffer, herunder områder utpekt som sårbare soner i henhold til [forskrift om gjødselvarer mv. av organisk opphav § 24](forskrift/2003-07-04-951/§24) og områder utpekt som følsomme områder i henhold til [forskrift om begrensning av forurensning kapittel 11](forskrift/2004-06-01-931/kap11) om generelle bestemmelser om avløp, ogområder utpekt til beskyttelse av naturtyper som består av eller er i vann eller arter som lever i vann, der opprettholdelse eller forbedring av vannets tilstand er viktig for å beskytte habitatet eller arten.
 
-2. Sammendraget av registeret, som kreves som en del av vannforvaltningsplanen for vannregionen, skal omfatte kart som viser beliggenheten til hvert beskyttet område og en beskrivelse av de bestemmelser eller vedtak som ligger til grunn for beskyttelsen av området.
+2\. Sammendraget av registeret, som kreves som en del av vannforvaltningsplanen for vannregionen, skal omfatte kart som viser beliggenheten til hvert beskyttet område og en beskrivelse av de bestemmelser eller vedtak som ligger til grunn for beskyttelsen av området.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -454,15 +558,30 @@ Den økonomiske analysen skal bygge på solid dokumentasjon med nødvendige oppl
 
 ### 1.1 Kvalitetselementer for klassifisering av økologisk tilstand
 
+| *Kvalitets-elementer* | *Elver* | *Innsjøer* | *Brakkvann* | *Kystvann* |
+| --- | --- | --- | --- | --- |
+| *Biologiske elementer* | Sammensetning og mengde av vannplanter | Sammensetning, mengde og biomasse av planteplankton<br><br><br>Sammensetning og mengde av andre vannplanter | Sammensetning, mengde og biomasse av planteplankton<br><br><br>Sammensetning og mengde av andre vannplanter | Sammensetning, mengde og biomasse av planteplankton<br><br><br>Sammensetning og mengde av andre vannplanter |
+|  | Sammensetning og mengde av bunnlevende virvelløse dyr | Sammensetning og mengde av bunnlevende virvelløse dyr | Sammensetning og mengde av bunnlevende virvelløse dyr | Sammensetning og mengde av bunnlevende virvelløse dyr |
+|  | Sammensetning, mengde og aldersstruktur for fiskefauna | Sammensetning, mengde og aldersstruktur for fiskefauna | Sammensetning, mengde og aldersstruktur for fiskefauna |  |
+| *Hydro-morfologiske elementer som støtter de biologiske elementene* | *Hydrologisk system*<br>– Vannføringens størrelse og variasjon<br>– Forbindelse til grunnvannsforekomster | *Hydrologisk system*<br>– Vannføringens størrelse og variasjon<br>– Oppholdstid<br>– Forbindelse til grunnvannsforekomster | *Tidevannssystem*<br>– Tidevannsforskjell<br>– Ferskvannsgjennom-strømming<br>– Bølgeeksponering | *Tidevannssystem*<br>– Tidevannsforskjell<br>– Dominerende strømretning<br>– Bølgeeksponering |
+|  | Elvas kontinuitet |  |  |  |
+|  | *Morfologiske forhold*<br>– Variasjon i elvas dybde og bredde<br>– Elvebunnens struktur og substrat<br>– Elvebreddens struktur | *Morfologiske forhold*<br>– Variasjon i innsjøens dybde<br>– Mengde og struktur for innsjøbunnens substrat<br>– Innsjøbreddens struktur | *Morfologiske forhold:*<br>– Dybdevariasjon<br>– Mengde og struktur for bunnens substrat<br>– Tidevannssonens struktur | *Morfologiske forhold:*<br>– Dybdevariasjon<br>– Mengde og struktur for kystbunnens substrat<br>– Tidevannssonens struktur |
+| *Kjemiske og fysisk-kjemiske elementer som støtter de biologiske elementene* | *Generelt*<br>– Temperaturforhold<br>– Oksygenforhold<br>– Ledningsevne<br>– Forsuringstilstand<br>– Næringsstofforhold | *Generelt*<br>– Siktedyp<br>– Temperaturforhold<br>– Oksygenforhold<br>– Ledningsevne<br>– Forsuringstilstand<br>– Næringsstofforhold | *Generelt*<br>– Siktedyp<br>– Temperaturforhold<br>– Oksygenforhold<br>– Saltholdighet<br>– Næringsstofforhold | *Generelt*<br>– Siktedyp<br>– Temperaturforhold<br>– Oksygenforhold<br>– Saltholdighet<br>– Næringsstofforhold |
+|  | *Spesifikke forurensende stoffer*<br>– Forurensning fra alle prioriterte stoffer som er påvist tilført i vannforekomsten<br>– Forurensning fra andre stoffer som er påvist tilført vannforekomsten i betydelige mengder | *Spesifikke forurensende stoffer*<br>– Forurensning fra alle prioriterte stoffer som er påvist tilført vannforekomsten<br>– Forurensning fra andre stoffer som er påvist tilført vannforekomsten i betydelige mengder | *Spesifikke forurensende stoffer*<br>– Forurensning fra alle prioriterte stoffer som er påvist tilført vannforekomsten<br>– Forurensning fra andre stoffer som er påvist tilført vannforekomsten i betydelige mengder | *Spesifikke forurensende stoffer*<br>– Forurensning fra alle prioriterte stoffer som er påvist tilført vannforekomsten<br>– Forurensning fra andre stoffer som er påvist tilført vannforekomsten i betydelige mengder |
+
+*Kunstige og sterkt modifiserte vannforekomster:* For kunstige og sterkt modifiserte forekomster av overflatevann anvendes de samme kvalitetselementene som for den av de fire naturlige kategorier av overflatevann som ligner mest på den aktuelle sterkt modifiserte eller kunstige vannforekomsten.
+
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.2 Normative definisjoner for klassifisering av økologisk tilstand
 
-I det følgende gis det en generell definisjon av økologisk kvalitet. For klassifiseringsformål er verdiene for kvalitetselementene for økologisk tilstand for hver kategori overflatevann angitt i tabell 1.2.1 til 1.2.4 nedenfor.*Element**Svært god tilstand**God tilstand**Moderat tilstand*GenereltDet er ingen, eller bare ubetydelige, menneskeskapte endringer i verdiene for fysisk-kjemiske og hydromorfologiske kvalitetselementer for den aktuelle typen overflatevannforekomst i forhold til dem som normalt forbindes med denne typen under uberørte forhold.
+*Tabell 1.2 Generell definisjon for elver, innsjøer, brakkvann og kystvann*
 
-Verdiene for biologiske kvalitetselementer i overflatevannforekomsten tilsvarer dem som normalt forbindes med denne typen under uberørte forhold, og viser ingen, eller ubetydelige, tegn på endring.
+I det følgende gis det en generell definisjon av økologisk kvalitet. For klassifiseringsformål er verdiene for kvalitetselementene for økologisk tilstand for hver kategori overflatevann angitt i tabell 1.2.1 til 1.2.4 nedenfor.
 
-Det dreier seg om typespesifikke forhold og samfunn.Verdiene for biologiske kvalitetselementer for den aktuelle typen overflatevannforekomst viser nivåer som er svakt endret som følge av menneskelig virksomhet, men avviker bare litt fra dem som normalt forbindes med denne typen overflatevannforekomst under uberørte forhold.Verdiene for biologiske kvalitetselementer for den aktuelle typen overflatevannforekomst avviker moderat fra dem som normalt forbindes med denne typen overflatevannforekomst under uberørte forhold. Verdiene viser moderate tegn på endring som følge av menneskelig virksomhet og er vesentlig mer endret enn under forholdene for god tilstand.
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Generelt | Det er ingen, eller bare ubetydelige, menneskeskapte endringer i verdiene for fysisk-kjemiske og hydromorfologiske kvalitetselementer for den aktuelle typen overflatevannforekomst i forhold til dem som normalt forbindes med denne typen under uberørte forhold.<br><br>Verdiene for biologiske kvalitetselementer i overflatevannforekomsten tilsvarer dem som normalt forbindes med denne typen under uberørte forhold, og viser ingen, eller ubetydelige, tegn på endring.<br><br>Det dreier seg om typespesifikke forhold og samfunn. | Verdiene for biologiske kvalitetselementer for den aktuelle typen overflatevannforekomst viser nivåer som er svakt endret som følge av menneskelig virksomhet, men avviker bare litt fra dem som normalt forbindes med denne typen overflatevannforekomst under uberørte forhold. | Verdiene for biologiske kvalitetselementer for den aktuelle typen overflatevannforekomst avviker moderat fra dem som normalt forbindes med denne typen overflatevannforekomst under uberørte forhold. Verdiene viser moderate tegn på endring som følge av menneskelig virksomhet og er vesentlig mer endret enn under forholdene for god tilstand. |
 
 Vann som har dårligere tilstand enn moderat, klassifiseres som dårlig eller svært dårlig.
 
@@ -472,23 +591,146 @@ Vann som viser tegn på alvorlige endringer av verdiene for biologiske kvalitets
 
 ### 1.2.1 Definisjoner for svært god, god og moderat økologisk tilstand i elver
 
+*Biologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Makrofytter og bunnvegetasjon | Den taksonomiske sammensetningen tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Det er ingen påviselige endringer i gjennomsnittsmengden av makrofytter og bunnvegetasjon. | Det er små endringer i sammensetningen og mengde av makrofytter og bunnvegetasjon sammenlignet med typespesifikke samfunn. Disse endringene innebærer ikke økt vekst av bunnvegetasjon eller høyere former for planteliv som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller i den fysisk-kjemiske kvaliteten til vannet eller sedimentet.<br><br>Bunnvegetasjonssamfunnet er ikke negativt påvirket av bakterieansamlinger og -belegg som følge av menneskelig virksomhet. | Sammensetningen av makrofytt- og bunnvegetasjonstaksa avviker moderat fra de typespesifikke samfunnene, og er vesentlig mer forstyrret enn for god tilstand.<br><br>Moderate endringer i gjennomsnittsmengder for makrofytter og bunnvegetasjon er tydelige.<br><br>Bunnvegetasjonssamfunnet kan være forstyrret og i enkelte områder fortrengt av bakterieansamlinger og -belegg som følge av menneskelig virksomhet. |
+| Bunnlevende virvelløse dyr | Den taksonomiske sammensetningen og utbredelsen tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Forholdet mellom følsomme og tolerante taksa viser ingen tegn på endring sammenlignet med uberørte forhold.<br><br>Mangfoldet av virvelløse taksa viser ingen tegn på endring i forhold til uberørte forhold. | Det er små endringer i sammensetningen og utbredelsen av virvelløse taksa sammenlignet med typespesifikke samfunn.<br><br>Forholdet mellom følsomme og tolerante taksa viser små tegn på endring sammenlignet med uberørte forhold.<br><br>Mangfoldet av virvelløse taksa viser små tegn på endring i forhold til typespesifikke nivåer. | Sammensetningen og utbredelsen av virvelløse taksa avviker moderat fra de typespesifikke samfunnene.<br><br>Viktige taksonomiske grupper i det typespesifikke samfunnet er fraværende.<br><br>Forholdet mellom følsomme og tolerante taksa, samt mangfoldet av virvelløse taksa, er vesentlig lavere enn de typespesifikke nivåene og vesentlig lavere enn for god tilstand. |
+| Fiskefauna | Artssammensetningen og -mengdene tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Alle typespesifikke arter som er følsomme for forstyrrelser, er til stede.<br><br>Fiskesamfunnenes aldersstruktur viser lite tegn til menneskeskapt forstyrrelse, og det er ingen tegn på svikt i forplantning eller utvikling hos noen arter. | Det er små endringer i artssammensetningen og -mengdene sammenlignet med typespesifikke samfunn som kan tilskrives menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer.<br><br>Fiskesamfunnenes aldersstruktur viser tegn på forstyrrelser som kan tilskrives menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer, og som i noen få tilfeller er tegn på svikt i forplantning eller utvikling hos enkelte arter, i den grad at enkelte aldersgrupper kan mangle. | Sammensetning og mengde av fiskearter avviker moderat fra de typespesifikke samfunnene som følge av menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer.<br><br>Fiskesamfunnenes aldersstruktur viser vesentlige tegn på menneskeskapt forstyrrelse, i den grad at en moderat andel av typespesifikke arter mangler eller forekommer i svært liten mengde. |
+
+*Hydromorfologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Hydrologisk system | Vannføringens størrelse og variasjon og den resulterende forbindelsen til grunnvann tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Elvas kontinuitet | Elvas kontinuitet forstyrres ikke av menneskelig virksomhet og muliggjør uforstyrret vandring av akvatiske organismer og sedimenttransport. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Morfologiske forhold | Kanalmønstre, bredde- og dybdevariasjoner, strømningshastigheter, substratforhold og breddesonens struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+*Fysisk-kjemiske kvalitetselementer1*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Verdiene for saltholdighet, pH, oksygenbalanse, syrenøytraliserende kapasitet og temperatur viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Temperatur, oksygenkonsentrasjon, pH, syrenøytraliserende kapasitet og ledningsevne (ioneinnhold) når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og for at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og for at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
+
+2 Anvendelse av standarder utledet av denne protokollen skal ikke kreve reduksjon av konsentrasjonen av forurensende stoffer under bakgrunnsnivåene (EQS > bgl).
+
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.2.2 Definisjoner for svært god, god og moderat økologisk tilstand i innsjøer
+
+*Biologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Planteplankton | Den taksonomiske sammensetningen av planteplankton tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Gjennomsnittlig planteplanktonbiomasse er fullstendig i samsvar med de typespesifikke fysisk-kjemiske forhold og er ikke slik at den i vesentlig omfang kan endre de typespesifikke siktedypsforhold.<br><br>Planktonoppblomstring forekommer med en frekvens og intensitet som tilsvarer de typespesifikke fysisk-kjemiske forhold. | Det er små endringer i sammensetningen og mengde av planteplankton-taksa sammenlignet med typespesifikke samfunn. Disse endringene innebærer ikke økt algevekst som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller i den fysisk-kjemiske kvaliteten til vannet eller sedimentet.<br><br>En liten økning i frekvensen eller intensiteten til typespesifikke planktonoppblomstringer kan forekomme. | Sammensetningen og mengde av planktontaksa avviker moderat fra de typespesifikke samfunnene.<br><br>Biomassen er moderat forstyrret og kan være slik at den framkaller vesentlige uønskede forstyrrelser i verdiene til andre biologiske kvalitetselementer og i den fysisk-kjemiske kvaliteten til vannet eller sedimentet.<br><br>En moderat økning i frekvensen og intensiteten til planktonoppblomstringene kan forekomme. Vedvarende oppblomstringer kan forekomme i sommermånedene. |
+| Makrofytter og bunnvegetasjon | Den taksonomiske sammensetningen tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Det er ingen påviselige endringer i gjennomsnittsmengder av makrofytter og bunnvegetasjon. | Det er små endringer i sammensetning og mengder av makrofytt- og bunnvegetasjonstaksa sammenlignet med typespesifikke samfunn. Disse endringene innebærer ikke økt vekst av bunnvegetasjon eller høyere former for planteliv som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller i den fysisk-kjemiske kvaliteten til vannet.<br><br>Bunnvegetasjonssamfunnet er ikke negativt påvirket av bakterieansamlinger og -belegg som følge av menneskelig virksomhet. | Sammensetningen av makrofytt- og bunnvegetasjonstaksa avviker moderat fra de typespesifikke samfunnene, og er vesentlig mer forstyrret enn for god tilstand.<br><br>Moderate endringer i gjennomsnittsmengden til makrofytter og bunnvegetasjon er tydelige.<br><br>Bunnvegetasjonssamfunnet kan være forstyrret og i enkelte områder fortrengt av bakterieansamlinger og -belegg som følge av menneskelig virksomhet. |
+| Bunnlevende virvelløse dyr | Den taksonomiske sammensetning og mengder tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Forholdet mellom følsomme og tolerante taksa viser ingen tegn på endring sammenlignet med uberørte forhold.<br><br>Mangfoldet av virvelløse taksa viser ingen tegn på endring i forhold til uberørte nivåer. | Det er små endringer i sammensetning og mengder av virvelløse taksa sammenlignet med typespesifikke samfunn.<br><br>Forholdet mellom følsomme og tolerante taksa viser små tegn på endring sammenlignet med uberørte forhold.<br><br>Mangfoldet av virvelløse taksa viser små tegn på endring i forhold til typespesifikke nivåer. | Sammensetning og mengder av virvelløse taksa avviker moderat fra de typespesifikke samfunnene.<br><br>Viktige taksonomiske grupper i det typespesifikke samfunnet er fraværende.<br><br>Forholdet mellom taksa som er følsomme for forstyrrelser, og taksa som ikke er det, samt mangfoldet, er vesentlig lavere enn de typespesifikke nivåene og betydelig lavere enn for god tilstand. |
+| Fiskefauna | Artssammensetning og -mengder tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Alle typespesifikke arter som er følsomme for forstyrrelser, er til stede.<br><br>Fiskesamfunnenes aldersstruktur viser knapt tegn på menneskeskapt forstyrrelse, og det er ingen tegn på svikt i forplantning eller utvikling hos noen arter. | Det er små endringer i artssammensetning og -mengder sammenlignet med typespesifikke samfunn som kan tilskrives menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer.<br><br>Fiskesamfunnenes aldersstruktur viser tegn på forstyrrelser som kan tilskrives menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer, og som i noen få tilfeller er tegn på svikt i forplantning eller utvikling hos enkelte arter, i den grad at enkelte aldersgrupper kan mangle. | Sammensetning og mengder av fiskearter avviker moderat fra de typespesifikke samfunnene som følge av menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer.<br><br>Fiskesamfunnenes aldersstruktur viser vesentlige tegn på forstyrrelse som følge av menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer, i den grad at en moderat andel av typespesifikke arter mangler eller forekommer i svært liten mengde. |
+
+*Hydromorfologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Hydrologisk system | Vannføringens størrelse og variasjon, vannstand, oppholdstid og den resulterende forbindelsen til grunnvann tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som sikrer at verdiene for de biologiske kvalitetselementene angitt ovenfor blir oppnådd | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Morfologiske forhold | Variasjon i innsjødyp, mengde og struktur av substrat, samt breddesonens struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som sikrer at verdiene for de biologiske kvalitetselementene angitt ovenfor blir oppnådd | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+*Fysisk-kjemiske kvalitetselementer1*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Verdiene for saltholdighet, pH, oksygenforhold, syrenøytraliserende kapasitet og temperatur viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for temperatur, oksygenforhold, pH, syrenøytraliserende kapasitet, siktedyp og ledningsevne (ioneinnhold) når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Konsentrasjonene av næringsstoffer overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocodprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
+
+2 Anvendelse av standarder utledet av denne protokollen skal ikke kreve reduksjon av konsentrasjonen av forurensende stoffer under bakgrunnsnivåene (EQS > bgl).
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.2.3 Definisjoner for svært god, god og moderat økologisk tilstand i brakkvann
 
+*Biologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Planteplankton | Sammensetning og mengder av planteplankton-taksa tilsvarer uberørte forhold.<br><br>Gjennomsnittlig planteplanktonbiomasse tilsvarer de typespesifikke fysisk-kjemiske forhold og er ikke slik at den i vesentlig omfang kan endre de typespesifikke siktedypsforhold.<br><br>Planktonoppblomstring forekommer med en frekvens og intensitet som tilsvarer de typespesifikke fysisk-kjemiske forhold. | Sammensetning og mengder av planteplankton-taksa viser små tegn på forstyrrelse.<br><br>Det er små endringer i biomasse sammenlignet med typespesifikke forhold. Disse endringene innebærer ikke økt algevekst som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller i den fysisk-kjemiske kvaliteten til vannet.<br><br>En liten økning i frekvensen eller intensiteten til typespesifikke planktonoppblomstringer kan forekomme. | Sammensetningen og mengder av planteplankton-taksa avviker moderat fra de typespesifikke samfunnene.<br><br>Biomassen er moderat forstyrret og kan være slik at den framkaller vesentlige uønskede forstyrrelser i verdiene til andre biologiske kvalitetselementer og i den fysisk-kjemiske kvaliteten til vannet eller sedimentet.<br><br>En moderat økning i frekvensen og intensiteten til planktonoppblomstringene kan forekomme. Vedvarende oppblomstringer kan forekomme i sommermånedene. |
+| Makroalger | Sammensetningen av makroalgetaksa tilsvarer uberørte forhold.<br><br>Det er ingen påviselige endringer i makroalgemengdene som følge av menneskelig virksomhet. | Det er små endringer i sammensetning og mengder av makroalgetaksa sammenlignet med typespesifikke samfunn. Disse endringene innebærer ikke økt vekst av bunnvegetasjon eller høyere former for planteliv som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller i den fysisk-kjemiske kvaliteten til vannet. | Sammensetningen av makroalgetaksa avviker moderat fra de typespesifikke samfunnene, og er vesentlig mer forstyrret enn for god tilstand.<br><br>Moderate endringer i gjennomsnittsmengdene av makroalger er tydelige og kan føre til uønskede forstyrrelser i balansen mellom organismene i vannet. |
+| Angiospermer | Den taksonomiske sammensetningen tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Det er ingen påviselige endringer i gjennomsnittsmengdene av angiospermer som følge av menneskelig virksomhet. | Det er små endringer i sammensetningen av angiospermtaksa sammenlignet med typespesifikke samfunn.<br><br>Mengdene av angiospermer viser små tegn på forstyrrelse. | Sammensetningen av angiospermer avviker moderat fra de typespesifikke samfunnene, og er vesentlig mer forstyrret enn for god tilstand.<br><br>Det er moderate endringer i mengdene av angiospermtaksa. |
+| Bunnlevende virvelløse dyr | Mangfold og mengder for virvelløse taksa er innenfor det området som normalt forbindes med uberørte forhold.<br><br>Alle taksa som er følsomme for forstyrrelser og forbindes med uberørte forhold, er til stede. | Mangfold og mengder for virvelløse taksa er like utenfor det området som normalt forbindes med typespesifikke forhold.<br><br>De fleste følsomme taksa fra typespesifikke samfunn er til stede. | Mangfold og mengder for virvelløse taksa er moderat utenfor det området som normalt forbindes med typespesifikke forhold.<br><br>Taksa som indikerer forurensning, er til stede.<br><br>Mange av de følsomme artene fra typespesifikke samfunn er fraværende. |
+| Fiskefauna | Artssammensetningen og -mengdene tilsvarer uberørte forhold. | Det er små endringer i sammensetningen og mengdene av arter som er følsomme for forstyrrelser, sammenlignet med typespesifikke forhold som kan tilskrives menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer. | En moderat andel av typespesifikke arter som er følsomme for forstyrrelser, er fraværende som følge av menneskelig påvirkning på fysisk-kjemiske eller hydromorfologiske kvalitetselementer. |
+
+*Hydromorfologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Tidevannssystem | Ferskvannsgjennomstrømningen tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Morfologiske forhold | Dybdevariasjoner, substratforhold og tidevannssonenes struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+*Fysisk-kjemiske kvalitetselementer1*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenforhold og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for temperatur, oksygenforhold og siktedyp når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og sikrer at verdiene ovenfor for biologiske kvalitetselementer oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og sikrer at verdiene angitt ovenfor for biologiske kvalitetselementer oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.602 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
+1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
+
+2 Anvendelse av standarder utledet av denne protokollen skal ikke kreve reduksjon av konsentrasjonen av forurensende stoffer under bakgrunnsnivåene (EQS > bgl).
+
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.2.4 Definisjoner for svært god, god og moderat økologisk tilstand i kystvann
+
+*Biologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Planteplankton | Sammensetningen av planteplanktontaksa tilsvarer uberørte forhold.<br><br>Gjennomsnittlig planteplanktonbiomasse er fullstendig i samsvar med de typespesifikke fysisk-kjemiske forhold og er ikke slik at den i betydelig omfang kan endre de typespesifikke siktedypsforhold.<br><br>Planktonoppblomstring forekommer med en frekvens og intensitet som tilsvarer de typespesifikke fysisk-kjemiske forhold. | Sammensetning og mengde av planteplanktontaksa viser små tegn på forstyrrelser.<br><br>Disse endringene indikerer ikke akselerert algevekst som medfører uønskede forstyrrelser i balansen mellom organismene i vannforekomsten eller vannkvaliteten.<br><br>En liten økning i frekvensen og intensiteten til typespesifikke planktonoppblomstringer kan forekomme. | Sammensetningen og mengdene av planktontaksa viser tegn på moderat forstyrrelse.<br><br>Algebiomassen er betydelig utenfor det området som forbindes med typespesifikke forhold og kan være slik at den påvirker andre biologiske kvalitetselementer.<br><br>En moderat økning i frekvensen og intensiteten til planktonoppblomstringene kan forekomme i sommermånedene. |
+| Makroalger og angiospermer | Alle makroalge- og angiospermtaksa som forbindes med uberørte forhold, er til stede.<br><br>Makroalgenes dekningsgrad og angiospermenes mengder tilsvarer uberørte forhold. | De fleste makroalge- og angiospermtaksa som er følsomme for forstyrrelser og forbindes med uberørte forhold, er til stede.<br><br>Dekningsgraden for makroalger og mengden av angiospermer viser små tegn til forstyrrelser. | Et moderat antall makroalge- og angiospermtaksa som er følsomme for forstyrrelser og forbindes med uberørte forhold, er fraværende.<br><br>Makroalgenes dekningsgrad og angiospermenes mengder er moderat forstyrret og kan føre til uønskede forstyrrelser i balansen mellom organismene i vannforekomsten. |
+| Bunnlevende virvelløse dyr | Mangfold og mengder for virvelløse taksa er innenfor det området som normalt forbindes med uberørte forhold.<br><br>Alle taksa som er følsomme for forstyrrelser og forbindes med uberørte forhold, er til stede. | Mangfold og mengder for virvelløse taksa er like utenfor det området som normalt forbindes med typespesifikke forhold.<br><br>De fleste følsomme taksa fra typespesifikke samfunn er til stede. | Mangfold og mengder for virvelløse taksa er moderat utenfor det området som normalt forbindes med typespesifikke forhold. Taksa som indikerer forurensning, er til stede. Mange av de følsomme artene fra typespesifikke samfunn er fraværende. |
+
+*Hydromorfologiske kvalitetselementer*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Tidevannssystem | Ferskvannsgjennomstrømningen og de dominerende strømmenes retning og hastighet tilsvarer fullstendig eller nesten fullstendig uberørte forhold | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+| Morfologiske forhold | Dybdevariasjoner, substratforhold og tidevannssonenes struktur og tilstand tilsvarer fullstendig eller nesten fullstendig uberørte forhold. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+
+*Fysisk-kjemiske kvalitetselementer1*
+
+| *Element* | *Svært god tilstand* | *God tilstand* | *Moderat tilstand* |
+| --- | --- | --- | --- |
+| Generelle forhold | Verdiene for de fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig uberørte forhold.<br><br>Konsentrasjonen av næringsstoff er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenkonsentrasjon og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Temperatur, oksygenkonsentrasjon og siktedyp når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at det typespesifikke økosystemet fungerer, og betyr at verdiene ovenfor for biologiske kvalitetselementer kan oppnås.<br><br>Konsentrasjonen av næringsstoff overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene angitt ovenfor for biologiske kvalitetselementer kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+| Spesifikke ikke-syntetiske forurensende 1stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,2 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+
+1 Følgende forkortelser benyttes: bgl = bakgrunnsnivå, EQS = miljøkvalitetsstandard.
+
+2 Anvendelse av standarder utledet av denne protokollen skal ikke kreve reduksjon av konsentrasjonen av forurensende stoffer under bakgrunnsnivåene (EQS > bgl).
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.2.5 Definisjoner for maksimalt, godt og moderat økologisk potensial for sterkt modifiserte eller kunstige vannforekomster
 
+| *Element* | *Maksimalt økologisk potensial* | *Godt økologisk potensial* | *Moderat økologisk potensial* |
+| --- | --- | --- | --- |
+| Biologiske kvalitets-elementer | Verdiene for de relevante biologiske kvalitetselementene gjenspeiler i størst mulig grad dem som forbindes med den nærmest sammenlignbare typen overflatevannforekomst, gitt de fysiske forholdene som følger av egenskapene til den aktuelle kunstige eller sterkt modifiserte vannforekomsten. | Det er små endringer i verdiene for relevante biologiske kvalitetselementer sammenlignet med verdiene funnet ved maksimalt økologisk potensial. | Det er moderate endringer i verdiene for relevante biologiske kvalitetselementer sammenlignet med verdiene funnet ved maksimalt økologisk potensial.<br><br>Disse verdiene er vesentlig mer endret enn for god kvalitet. |
+| Hydromorfo-logiske elementer | De hydromorfologiske forholdene er slik at de eneste virkningene på overflatevannforekomsten er de som følger av egenskapene til den kunstige eller sterkt modifiserte vannforekomsten etter at alle mottiltak er truffet for å sikre best mulig tilnærming til naturlige vandrings- og spredningsforhold (økologisk kontinuum), særlig med hensyn til vandring hos dyr og egnede gyte- og oppvekstområder. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås |
+| Fysisk-kjemiske elementer |  |  |  |
+| Generelle forhold | De fysisk-kjemiske elementene tilsvarer fullstendig eller nesten fullstendig de uberørte forhold som forbindes med den typen overflatevannforekomst som er mest sammenlignbar med den aktuelle kunstige eller sterkt modifiserte vannforekomsten.<br><br>Næringsstoffkonsentrasjonene er innenfor et område som normalt forbindes med uberørte forhold.<br><br>Temperatur, oksygenforhold og siktedyp viser ikke tegn på menneskeskapte forstyrrelser, og er innenfor området som normalt forbindes med uberørte forhold. | Verdiene for fysisk-kjemiske elementer er innenfor området fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås.<br><br>Temperatur og pH når ikke nivåer som er utenfor intervallet som er fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås.<br><br>Næringsstoffkonsentrasjonene overstiger ikke nivåene fastsatt for å sikre at økosystemet fungerer, og betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke syntetiske forurensende stoffer | Konsentrasjoner nær null og i det minste under påvisningsgrensene for de mest avanserte analyseteknikkene som er i alminnelig bruk. | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6, med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidprodukter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+| Spesifikke ikke-syntetiske forurensende stoffer | Konsentrasjoner innenfor området som normalt forbindes med uberørte forhold i den nærmeste sammenlignbare overflatevannforekomsten til den kunstige eller stekt modifiserte vannforekomsten (bakgrunnsnivå = bgl). | Konsentrasjoner som ikke overstiger standardene fastsatt etter framgangsmåten i nr. 1.2.6,1 med forbehold for forskrift om plantevernmidler og forskrift om godkjenning av biocider og biocidforskrifter. (EQS) | Forhold som betyr at verdiene for de biologiske kvalitetselementene angitt ovenfor kan oppnås. |
+
 > Endret ved [forskrift 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010).
+
+1 Anvendelse av standarder utledet av denne protokollen skal ikke kreve reduksjon av konsentrasjonen av forurensende stoffer under bakgrunnsnivåene (EQS > bgl).
 
 ### 1.2.6 Framgangsmåte for fastsettelse av kjemiske miljøkvalitetsstandarder
 
@@ -510,11 +752,17 @@ Parametere som er betegnende for tilstanden for hvert relevant kvalitetselement 
 
 ### 1.3.1 Utforming av basisovervåking
 
+*Mål*
+
 Det skal utarbeides basisovervåkingsprogrammer som skal gi opplysninger for åsupplere og validere framgangsmåten for vurderinger av miljøvirkninger beskrevet i vedlegg II,effektivt og virkningsfullt utforme framtidige overvåkningsprogrammer,vurdere langsiktige endringer i de naturlige forholdene,vurdere langsiktige endringer som følge av omfattende menneskelig virksomhet
 
 Resultatene av denne overvåkningen skal sammen med vurdering av påvirkninger som beskrevet i vedlegg II, brukes til å fastsette krav til overvåkningsprogrammene i eksisterende og framtidige vannforvaltningsplaner for vannregionen.
 
+*Valg av overvåkningslokaliteter*
+
 Basisovervåkingen skal utføres på et tilstrekkelig antall forekomster av overflatevann til at det kan foretas en vurdering av overflatevannets samlede tilstand i hver vannregion. Ved valg av disse vannforekomstene skal det, om hensiktsmessig, sørges for at overvåkningen utføres på stederder vannføringen er betydelig innen vannregionen som helhet, herunder punkter på store elver der vannregionen er over 2.500 km2 ,der vannvolumet er betydelig innen vannregionen, herunder store innsjøer og magasiner,der betydelige vannforekomster krysser et lands grense, ogpå andre steder der det er nødvendig for å vurdere belastningen fra forurensende stoffer som overføres over landenes grenser, og som overføres til det marine miljø.
+
+*Valg av kvalitetselementer*
 
 Basisovervåkingen skal utføres for hver overvåkningslokalitet i et tidsrom på ett år i løpet av vannforvaltningsplanens gyldighetsperiode for vannregionen forparametere som er indikatorer for alle biologiske kvalitetselementer,parametere som er indikatorer for alle hydromorfologiske kvalitetselementer,parametere som er indikatorer for alle fysisk-kjemiske kvalitetselementer,forurensende stoffer på listen over prioriterte stoffer som slippes ut i vannregionen eller vannområdet, ogandre forurensende stoffer som slippes ut i betydelige mengder i vannregionen eller vannområdet,med mindre den tidligere basisovervåkingen har vist at den berørte vannforekomsten har nådd god tilstand, og undersøkelsen av virkninger av menneskelig virksomhet i henhold til vedlegg II ikke viser tegn på at vannforekomsten er endret. I slike tilfeller skal basisovervåkingen utføres én gang for hver tredje forvaltningsplan for vannregionen.
 
@@ -526,13 +774,19 @@ Tiltaksorientert overvåking skal utføres med sikte på åfastslå tilstanden t
 
 Programmet kan endres i løpet av gyldighetstiden for en vannforvaltningsplan for vannregionen på grunnlag av opplysninger innsamlet i henhold til kravene i vedlegg II eller dette vedlegg, særlig for å muliggjøre en reduksjon i frekvensen dersom virkningen ikke er vesentlig eller den relevante belastningen er fjernet.
 
+*Valg av overvåkningslokaliteter*
+
 Tiltaksorientert overvåking skal utføres på alle vannforekomster som på grunnlag av virkningsvurderingen i henhold til vedlegg II eller basisovervåkingen anses å stå i fare for ikke å nå miljømålene, og for vannforekomster som det slippes ut prioriterte stoffer i. Det skal velges overvåkningslokaliteter som angitt i regelverket som fastsetter den relevante miljøkvalitetsnorm. I alle andre tilfeller, herunder i forbindelse med prioriterte stoffer når det ikke er gitt spesifikk veiledning i regelverket, skal overvåkningslokalitetene velges som følger:for vannforekomster som er i fare som følge av betydelige punktkildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen hver vannforekomst til at omfang og konsekvenser av punktkildebelastningene kan vurderes. Dersom en vannforekomst er utsatt for en rekke punktkildebelastninger, kan overvåkningspunktene velges slik at omfang og konsekvenser av belastningene kan vurderes i sin helhet,for vannforekomster som er i fare som følge av betydelige diffuse kildebelastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de diffuse kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er representative for de relative risikoene for forekomster av diffuse kildebelastninger, og for de relative risikoene for at god tilstand ikke oppnås for overflatevann,for vannforekomster som er i fare som følge av betydelige hydromorfologiske belastninger, skal det være tilstrekkelig mange overvåkningspunkter innen et utvalg av vannforekomstene til at omfang og konsekvenser av de hydromorfologiske kildebelastningene kan vurderes. Valget av vannforekomster skal være slik at de er karakteristiske for den samlede virkningen av hydromorfologiske belastninger som alle vannforekomstene er utsatt for.
+
+*Valg av kvalitetselementer*
 
 For å vurdere omfanget av belastningen som vannforekomstene er utsatt for, skal man overvåke kvalitetselementer som er karakteristiske for belastningene som vannforekomsten(e) er utsatt for. For å vurdere virkningene skal man etter relevans overvåkeparametere som er karakteristiske for det eller de biologiske kvalitetselementene som er mest følsomme for de belastningene vannforekomstene er utsatt for,alle prioriterte stoffer som slippes ut, og alle andre forurensende stoffer som slippes ut i betydelige mengder,parametere som er karakteristiske for det hydromorfologiske kvalitetselementet som er mest følsomt for den identifiserte belastningen.
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
 ### 1.3.3 Utforming av problemkartlegging
+
+*Mål*
 
 Problemkartleggingen skal utføresdersom årsaken til eventuelle overskridelser er ukjent,dersom basisovervåkingen tyder på at miljømålene som er fastsatt for en vannforekomst ikke vil bli oppfylt, og tiltaksorientert overvåking ikke allerede er etablert med sikte på å finne årsakene til at vannforekomsten(e) ikke oppfyller miljømålene, ellerfor å fastslå omfanget og konsekvensene av forurensningsuhell,og skal danne grunnlag for å utarbeide et tiltaksprogram med sikte på å nå miljømålene og for de spesifikke tiltak som er nødvendige for å avhjelpe virkningene av et forurensningsuhell.
 
@@ -546,7 +800,31 @@ For tiltaksorientert overvåking skal overvåkningsfrekvensen som er nødvendig 
 
 Frekvensene skal velges slik at det oppnås et akseptabelt pålitelighets- og presisjonsnivå. Forvaltningsplanen for vannregionen skal inneholde prognoser over pålitelighets- og presisjonsnivået som er oppnådd med overvåkningssystemet.
 
-Ved valg av overvåkningsfrekvenser skal det tas hensyn til variasjonen i parametere som følger av både naturlige og menneskeskapte forhold. Tidspunktene for overvåkningen skal velges slik at årstidsvariasjonens virkninger på resultatene minimeres og det sikres at resultatene gjenspeiler endringer i vannforekomstene som følge av menneskeskapte belastninger. Ytterligere overvåkning til forskjellige årstider skal utføres ved behov for å nå dette målet.*Kvalitetselement**Elver**Innsjøer**Brakkvann**Kystvann**Biologisk*Planteplankton6 måneder6 måneder6 måneder6 månederAnnen akvatisk flora3 år3 år3 år3 årMakroinvertebrater3 år3 år3 år3 årFisk3 år3 år3 år*Hydromorfologisk*Kontinuitet6 årHydrologikontinuerlig1 månedMorfologi6 år6 år6 år6 år*Fysisk-kjemisk*Temperaturforhold3 måneder3 måneder3 måneder3 månederOksygenforhold3 måneder3 måneder3 måneder3 månederSaltholdighet/ledningsevne3 måneder3 måneder3 månederNæringsstofftilstand3 måneder3 måneder3 måneder3 månederForsuringstilstand3 måneder3 månederVannregionspesifikke stoffer3 måneder3 måneder3 måneder3 månederPrioriterte stoffer, prioritert farlige stoffer og andre EU-utvalgte stoffer i vannsøylen1 måned1 måned1 måned1 månedMiljøgifter som fremgår av vedlegg VIII i sediment*6 år6 år6 år6 årMiljøgifter som fremgår av vedlegg VIII i organismer1 år1 år1 år1 år
+Ved valg av overvåkningsfrekvenser skal det tas hensyn til variasjonen i parametere som følger av både naturlige og menneskeskapte forhold. Tidspunktene for overvåkningen skal velges slik at årstidsvariasjonens virkninger på resultatene minimeres og det sikres at resultatene gjenspeiler endringer i vannforekomstene som følge av menneskeskapte belastninger. Ytterligere overvåkning til forskjellige årstider skal utføres ved behov for å nå dette målet.
+
+| *Kvalitetselement* | *Elver* | *Innsjøer* | *Brakkvann* | *Kystvann* |
+| --- | --- | --- | --- | --- |
+| *Biologisk* |  |  |  |  |
+| Planteplankton | 6 måneder | 6 måneder | 6 måneder | 6 måneder |
+| Annen akvatisk flora | 3 år | 3 år | 3 år | 3 år |
+| Makroinvertebrater | 3 år | 3 år | 3 år | 3 år |
+| Fisk | 3 år | 3 år | 3 år |  |
+| *Hydromorfologisk* |  |  |  |  |
+| Kontinuitet | 6 år |  |  |  |
+| Hydrologi | kontinuerlig | 1 måned |  |  |
+| Morfologi | 6 år | 6 år | 6 år | 6 år |
+| *Fysisk-kjemisk* |  |  |  |  |
+| Temperaturforhold | 3 måneder | 3 måneder | 3 måneder | 3 måneder |
+| Oksygenforhold | 3 måneder | 3 måneder | 3 måneder | 3 måneder |
+| Saltholdighet/ledningsevne | 3 måneder | 3 måneder | 3 måneder |  |
+| Næringsstofftilstand | 3 måneder | 3 måneder | 3 måneder | 3 måneder |
+| Forsuringstilstand | 3 måneder | 3 måneder |  |  |
+| Vannregionspesifikke stoffer | 3 måneder | 3 måneder | 3 måneder | 3 måneder |
+| Prioriterte stoffer, prioritert farlige stoffer og andre EU-utvalgte stoffer i vannsøylen | 1 måned | 1 måned | 1 måned | 1 måned |
+| Miljøgifter som fremgår av vedlegg VIII i sediment\* | 6 år | 6 år | 6 år | 6 år |
+| Miljøgifter som fremgår av vedlegg VIII i organismer | 1 år | 1 år | 1 år | 1 år |
+
+\* Gjennomføres oftere i områder hvor sedimentasjonshastigheten tilsier hyppigere prøvetaking.
 
 > Endret ved [forskrifter 27 mars 2012 nr. 321](forskrift/2012-03-27-321), [25 juni 2015 nr. 805](forskrift/2015-06-25-805), [20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -554,7 +832,17 @@ Ved valg av overvåkningsfrekvenser skal det tas hensyn til variasjonen i parame
 
 Overvåkningsprogrammene som kreves ovenfor, suppleres for å oppfylle følgende krav:
 
-Forekomster av overflatevann utpekt som drikkevannskilder jf. [§ 17](forskrift/2006-12-15-1446/§17), som gir mer enn 100 m3 per dag i gjennomsnitt, utpekes som overvåkningslokaliteter og underkastes den ytterligere overvåkning som er nødvendig for å oppfylle kravene i [§ 17](forskrift/2006-12-15-1446/§17). Slike vannforekomster skal overvåkes for alle prioriterte stoffer som slippes ut, og alle andre stoffer som slippes ut i betydelige mengder, som kan påvirke vannforekomstens tilstand og kontrolleres i henhold til drikkevanndirektivet. Overvåkningen skal utføres etter følgende frekvenser:*Befolkning forsynt**Frekvens*< 10.0004 per år10.000 til 30.0008 per år> 30.00012 per år
+*Uttakssteder for drikkevann*
+
+Forekomster av overflatevann utpekt som drikkevannskilder jf. [§ 17](forskrift/2006-12-15-1446/§17), som gir mer enn 100 m3 per dag i gjennomsnitt, utpekes som overvåkningslokaliteter og underkastes den ytterligere overvåkning som er nødvendig for å oppfylle kravene i [§ 17](forskrift/2006-12-15-1446/§17). Slike vannforekomster skal overvåkes for alle prioriterte stoffer som slippes ut, og alle andre stoffer som slippes ut i betydelige mengder, som kan påvirke vannforekomstens tilstand og kontrolleres i henhold til drikkevanndirektivet. Overvåkningen skal utføres etter følgende frekvenser:
+
+| *Befolkning forsynt* | *Frekvens* |
+| --- | --- |
+| < 10.000 | 4 per år |
+| 10.000 til 30.000 | 8 per år |
+| > 30.000 | 12 per år |
+
+*Habitat- og artsvernområder*
 
 Vannforekomster som utgjør slike områder, skal tas med i programmet for tiltaksovervåking nevnt ovenfor dersom de på grunnlag av virkningsvurderingen og basisovervåkingen anses å stå i fare for ikke å nå miljømålene. Overvåkningen skal utføres for å vurdere omfang og virkninger av alle relevante belastninger på disse vannforekomstene og, om nødvendig, vurdere endringer i tilstanden til slike vannforekomster som følge av tiltaksprogrammene. Overvåkningen skal fortsette til områdene oppfyller vannrelaterte krav i regelverket som de er utpekt i henhold til, samt miljømålene for vannforekomsten.
 
@@ -588,7 +876,12 @@ Ved prøvetaking av fysisk-kjemisk, hydromorfologiske biologiske kvalitetselemen
 
 Dersom en vannforekomst oppfyller alle miljøkvalitetsstandardene fastsatt i vedlegg VIII, skal det registreres at den har god kjemisk tilstand. I motsatt tilfelle skal det registreres at den ikke har god kjemisk tilstand.
 
-Det skal utarbeides et kart for hver vannregion som illustrerer den kjemiske tilstanden til hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for å vise vannforekomstens klassifisering for kjemisk tilstand.*Klassifisering for kjemisk tilstand**Fargekode*GodBlåIkke godRød
+Det skal utarbeides et kart for hver vannregion som illustrerer den kjemiske tilstanden til hver vannforekomst, fargekodet i samsvar med annen kolonne i tabellen gjengitt nedenfor for å vise vannforekomstens klassifisering for kjemisk tilstand.
+
+| *Klassifisering for kjemisk tilstand* | *Fargekode* |
+| --- | --- |
+| God | Blå |
+| Ikke god | Rød |
 
 > Tilføyd ved [forskrift 23 des 2009 nr. 1814](forskrift/2009-12-23-1814) (i kraft 1 jan 2010), endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -598,7 +891,13 @@ Det skal utarbeides et kart for hver vannregion som illustrerer den kjemiske til
 
 ### 2.1.1 Parameter for klassifisering av kvantitativ tilstand
 
+*Grunnvannsstand*
+
 ### 2.1.2 Definisjon av kvantitativ tilstand
+
+| *Elementer* | *God tilstand* |
+| --- | --- |
+| Grunnvannsstand | Grunnvannsstanden i grunnvannsforekomsten er slik at det langsiktig gjennomsnittlige uttaket ikke overstiger den tilgjengelige grunnvannsressursen<br><br>Grunnvannsstanden er dermed ikke utsatt for menneskeskapte endringer som ville medføre<br>– at miljømålene ikke nås for tilknyttede overflatevann,<br>– vesentlig forringelse av vannets tilstand,<br>– vesentlig skade på terrestriske systemer som er direkte avhengige av grunnvannsforekomsten,<br><br>og endringer i strømningsretningen som følge av nivåendringer kan forekomme midlertidig, eller kontinuerlig i et romlig avgrenset område, men slike endringer medfører ikke at saltvann eller annet trenger inn, og er ikke tegn på vedvarende og klart identifisert menneskeskapt påvirkning som kan medføre slike inntrengninger. |
 
 ### 2.2 Overvåkning av grunnvannets kvantitative tilstand
 
@@ -620,7 +919,12 @@ Observasjonsfrekvensen skal være tilstrekkelig høy til å muliggjøre vurderin
 
 ### 2.2.4 Tolkning og presentasjon av grunnvannets kvantitative tilstand
 
-Resultatene fra overvåkningsnettverket for en grunnvannsforekomst eller gruppe av grunnvannsforekomster skal brukes til å vurdere vannforekomsten(e)s kvantitative tilstand. Det skal utarbeides et kart over vurderingen av grunnvannets kvantitative tilstand etter følgende fargekoding:God:grønnDårlig:rød
+Resultatene fra overvåkningsnettverket for en grunnvannsforekomst eller gruppe av grunnvannsforekomster skal brukes til å vurdere vannforekomsten(e)s kvantitative tilstand. Det skal utarbeides et kart over vurderingen av grunnvannets kvantitative tilstand etter følgende fargekoding:
+
+|  |  |
+| --- | --- |
+| God: | grønn |
+| Dårlig: | rød |
 
 > Endret ved [forskrift 20 des 2018 nr. 2231](forskrift/2018-12-20-2231) (i kraft 1 jan 2019).
 
@@ -635,6 +939,11 @@ Konsentrasjon av forurensende stoffer – relevante stoffer bestemmes av belastn
 > Endret ved [forskrift 31 aug 2010 nr. 1220](forskrift/2010-08-31-1220).
 
 ### 2.3.2 Definisjon av god kjemisk tilstand for grunnvann
+
+| *Elementer* | *God tilstand* |
+| --- | --- |
+| Generelt | Den kjemiske sammensetningen til grunnvannsforekomsten er slik at konsentrasjonene av forurensende stoffer<br>– som angitt nedenfor ikke viser påvirkninger av inntrengning av saltvann eller annet,<br>– ikke overstiger terskelverdier gitt i vedlegg IX, eller kvalitetsstandarder som gjelder i henhold til annet relevant regelverk,<br>– ikke vil medføre at miljømålene ikke nås for tilknyttede overflatevann, eller innebærer annen vesentlig forringelse av slike vannforekomsters økologiske eller kjemiske kvalitet eller vesentlig skade på terrestriske systemer som er direkte avhengige av grunnvannsforekomsten. |
+| Ledningsevne | Endringer i ledningsevne er ikke tegn på at saltvann eller annet trenger inn i grunnvannsforekomsten. |
 
 > Endret ved [forskrift 31 aug 2010 nr. 1220](forskrift/2010-08-31-1220).
 
@@ -652,9 +961,15 @@ Det skal angis prognoser over påliteligheten og presisjonen til resultatene av 
 
 ### 2.4.2 Basisovervåking
 
+*Mål*
+
 Basisovervåkingen skal utføres for åsupplere og validere fremgangsmåten for vurderinger av miljøvirkningergi informasjon til bruk i vurderingen av langsiktige trender som følge av endringer i naturlige forhold eller menneskelig virksomhet.
 
+*Valg av overvåkningslokaliteter*
+
 Det skal velges tilstrekkelig mange overvåkningslokaliteter for hver av følgende:grunnvannsforekomster som på grunnlag av karakteriseringen foretatt i henhold til vedlegg II anses å være truet,grunnvannsforekomster som krysser en EØS-stats grenser.
+
+*Valg av parametere*
 
 Følgende grunnleggende parametere skal overvåkes i alle valgte grunnvannsforekomster:oksygeninnhold,pH-verdi,ledningsevne,relevante parametere fra vedlegg IX.
 
@@ -666,9 +981,15 @@ Grunnvannsforekomster som krysser grenser, skal også overvåkes for parametere 
 
 ### 2.4.3 Tiltaksovervåking
 
+*Mål*
+
 Tiltaksovervåking skal utføres i periodene mellom basisovervåkingsprogrammene for å fastslåden kjemiske tilstanden til alle grunnvannsforekomster eller grupper av grunnvannsforekomster som anses for å være truet,tilstedeværelsen av en eventuell vesentlig og vedvarende økende trend i konsentrasjonen av et forurensende stoff.
 
+*Valg av overvåkningslokaliteter*
+
 Tiltaksovervåking skal utføres for alle grunnvannsforekomster eller grupper av grunnvannsforekomster som på grunnlag av en vurdering av effekten av påvirkninger utført i henhold til vedlegg II, og som ved basisovervåkingen anses å stå i fare for ikke å nå miljømålene. For valg av parametere jf. 2.4.2 ovenfor. Valget av overvåkningslokaliteter skal også gjenspeile en vurdering av hvor representative overvåkningsdataene fra stedet er for kvaliteten til den aktuelle grunnvannsforekomsten eller gruppen av grunnvannsforekomster.
+
+*Overvåkningsfrekvens*
 
 Tiltaksovervåking skal utføres for tidsrommene mellom basisovervåkingsprogrammene med en frekvens som er tilstrekkelig til å oppdage virkningene av relevante belastninger, men minst én gang i året.
 
@@ -684,7 +1005,12 @@ Ved overskridelse av en eller flere vendepunktverdier gitt i vedlegg IX skal det
 
 Ved vurderingen av tilstand samles resultater fra individuelle overvåkningslokaliteter innen en grunnvannsforekomst for grunnvannsforekomsten som helhet. God tilstand for en grunnvannsforekomst forutsetter følgende for kjemiske parametere som det er fastsatt miljøkvalitetsnormer for:gjennomsnittsverdien av overvåkningsresultatene ved hvert punkt i grunnvannsforekomsten eller gruppen av grunnvannsforekomster skal beregnes, ogdisse gjennomsnittsverdiene skal brukes til å påvise samsvar med god kjemisk tilstand for grunnvann.
 
-Det skal utarbeides et kart som viser grunnvannets kjemiske tilstand med følgende fargekoder:God:grønnDårlig:rød
+Det skal utarbeides et kart som viser grunnvannets kjemiske tilstand med følgende fargekoder:
+
+|  |  |
+| --- | --- |
+| God: | grønn |
+| Dårlig: | rød |
 
 Det skal dessuten angis med en svart prikk på kartet hvilke grunnvannsforekomster som har en vesentlig og vedvarende økende trend i konsentrasjonen av forurensende stoffer som følge av menneskelig virksomhet. Dersom trenden snus, markeres det med en blå prikk på kartet.
 
@@ -698,21 +1024,35 @@ Kartene skal inngå i forvaltningsplanen for vannregionen.
 
 ### 1. Vannkategori elv
 
-Beskrivelse av elvetyper som er interkalibrert:*Type**Elvekarakteristika**Nedbørfelt (km2 )**Klimasone (h.o.h.)**Alkalinitet (meq/l)**Organisk materiale (mg Pt/l)*R107
-(R-N1)Liten, lavland, moderat kalkrik, klar10–100 km2<200 m0,2–1<30R106
-(R-N3)Liten og middels stor, lavland, kalkfattig, humøs10–1000 km2<200 m<0,2>30R107
-(R-N4)Mellomstor, lavland, moderat kalkrik, klar100–1000 km2<200 m0,2–1<30R205
-(R-N5)Liten, skog, kalkfattig, klar10–100 km2200–800<0,2<30R206
-(R-N9)Liten og middels stor, skog, kalkfattig, humøs100–1000 km2200–800<0,2>30
+Beskrivelse av elvetyper som er interkalibrert:
+
+| *Type* | *Elvekarakteristika* | *Nedbørfelt (km2 )* | *Klimasone (h.o.h.)* | *Alkalinitet (meq/l)* | *Organisk materiale (mg Pt/l)* |
+| --- | --- | --- | --- | --- | --- |
+| R107<br>(R-N1) | Liten, lavland, moderat kalkrik, klar | 10–100 km2 | <200 m | 0,2–1 | <30 |
+| R106<br>(R-N3) | Liten og middels stor, lavland, kalkfattig, humøs | 10–1000 km2 | <200 m | <0,2 | >30 |
+| R107<br>(R-N4) | Mellomstor, lavland, moderat kalkrik, klar | 100–1000 km2 | <200 m | 0,2–1 | <30 |
+| R205<br>(R-N5) | Liten, skog, kalkfattig, klar | 10–100 km2 | 200–800 | <0,2 | <30 |
+| R206<br>(R-N9) | Liten og middels stor, skog, kalkfattig, humøs | 100–1000 km2 | 200–800 | <0,2 | >30 |
 
 ### 1.1 Biologisk kvalitetselement: Bunnfauna (virvelløse dyr)
 
+Resultater:
+
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
 
-Følgende resultater gjelder for alle elvetyper beskrevet ovenfor:*Interkalibrert nasjonalt*
-*klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*ASPT-indeks – Average Score per Taxon (metode følsom for organisk belastning og generell degradering for alle elvetyper)0,990,87AcidIndex2 (Modified Raddum index2) (metode følsom for forsuring for klare og kalkfattige elvetyper)0,6750,515
+Følgende resultater gjelder for alle elvetyper beskrevet ovenfor:
+
+| *Interkalibrert nasjonalt*<br>*klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+| --- | --- | --- |
+|  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+| ASPT-indeks – Average Score per Taxon (metode følsom for organisk belastning og generell degradering for alle elvetyper) | 0,99 | 0,87 |
+| AcidIndex2 (Modified Raddum index2) (metode følsom for forsuring for klare og kalkfattige elvetyper) | 0,675 | 0,515 |
 
 ### 1.2 Biologisk kvalitetselement: Vannplanter (Makrovegetasjon og påvekstalger)
+
+*Sub-biologisk kvalitetselement: Påvekstalger*
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Type**Interkalibrert nasjonalt klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*Alle elvetyper ovenforPeriphytonindeks for trofisk tilstand (PIT)0,99
 (Ca ≤ 1 mg/L)
@@ -722,81 +1062,89 @@ R206 (R-N3, R-N9)Trophic index Tic0,8890,610
 
 ### 2. Vannkategori innsjø
 
-Beskrivelse av innsjøtyper som er interkalibrert:*Type**Karakteristika**Klimasone (m.o.h.)**Middeldyp (m)**Alkalinitet (meq/l)**Organisk materiale (mg Pt/l)*L107
-(L-N1)Lavland, grunn, moderat kalkrik, klar<2003–150,2–1<30L101a–d,
-L102a–d,
-L104,
-L105a
-(L-N2a)Lavland, grunn, kalkfattig, klar<2003–15<0,2<30L105b
-(L-N2b)Lavland, dyp, kalkfattig, klar<200>15<0,2<30L106
-(L-N3a)Lavland, grunn, kalkfattig, humøs<2003–15<0,230–90L201a–d,
-L202a–d,
-L204, L205
-(L-N5)Skog, grunn, kalkfattig, klar200–8003–15<0,2<30L203a–d,
-L206
-(L-N6a)Skog, grunn, kalkfattig, humøs200–8003–15<0,230–90L108
-(L-N8a)Lavland, grunn, moderat kalkrik, humøs<2003–150,2–130–90
+Beskrivelse av innsjøtyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Klimasone (m.o.h.)* | *Middeldyp (m)* | *Alkalinitet (meq/l)* | *Organisk materiale (mg Pt/l)* |
+| --- | --- | --- | --- | --- | --- |
+| L107<br>(L-N1) | Lavland, grunn, moderat kalkrik, klar | <200 | 3–15 | 0,2–1 | <30 |
+| L101a–d,<br>L102a–d,<br>L104,<br>L105a<br>(L-N2a) | Lavland, grunn, kalkfattig, klar | <200 | 3–15 | <0,2 | <30 |
+| L105b<br>(L-N2b) | Lavland, dyp, kalkfattig, klar | <200 | >15 | <0,2 | <30 |
+| L106<br>(L-N3a) | Lavland, grunn, kalkfattig, humøs | <200 | 3–15 | <0,2 | 30–90 |
+| L201a–d,<br>L202a–d,<br>L204, L205<br>(L-N5) | Skog, grunn, kalkfattig, klar | 200–800 | 3–15 | <0,2 | <30 |
+| L203a–d,<br>L206<br>(L-N6a) | Skog, grunn, kalkfattig, humøs | 200–800 | 3–15 | <0,2 | 30–90 |
+| L108<br>(L-N8a) | Lavland, grunn, moderat kalkrik, humøs | <200 | 3–15 | 0,2–1 | 30–90 |
 
 ### 2.1 Biologisk kvalitetselement: Planteplankton
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som konsentrasjon av klorofyll a og som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert nasjonalt*
 *klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*Fytoplanktonbasert metode for klassifisering av økologiske tilstand innsjøer0,800,60
 
 ### 2.2 Biologisk kvalitetselement: Vannplanter
 
-Beskrivelse av innsjøtyper som er interkalibrert:*Type**Karakteristika**Alkalinitet (meq/l)**Organisk materiale (mgPt/l)*L104, L105a–b
-(L-N-M 101)Kalkfattig, klar0,05–0,2<30L106
-(L-N-M 102)Kalkfattig, humøs0,05–0,2>30L107
-(L-N-M 201)Moderat kalkrik, klar0,2–1,0<30L208
-(L-N-M 202)Moderat kalkrik, humøs0,2–1,0>30
+*Sub-biologisk kvalitetselement: Makrovegetasjon*
+
+Beskrivelse av innsjøtyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Alkalinitet (meq/l)* | *Organisk materiale (mgPt/l)* |
+| --- | --- | --- | --- |
+| L104, L105a–b<br>(L-N-M 101) | Kalkfattig, klar | 0,05–0,2 | <30 |
+| L106<br>(L-N-M 102) | Kalkfattig, humøs | 0,05–0,2 | >30 |
+| L107<br>(L-N-M 201) | Moderat kalkrik, klar | 0,2–1,0 | <30 |
+| L208<br>(L-N-M 202) | Moderat kalkrik, humøs | 0,2–1,0 | >30 |
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
 
-Følgende resultater gjelder for alle innsjøtyper beskrevet ovenfor:*Interkalibrert norsk klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*Trofisk makrofyttindeks
-(TIc-indeks)0,980,870,960,870,950,750,990,77
+Følgende resultater gjelder for alle innsjøtyper beskrevet ovenfor:
+
+| *Interkalibrert norsk klassifiseringssystem* | *Økologisk kvalitetskvotient (EQR)* |  |
+| --- | --- | --- |
+|  | *Grense mellom svært god og god tilstand* | *Grense mellom god og moderat tilstand* |
+| Trofisk makrofyttindeks<br>(TIc-indeks) | 0,98 | 0,87 |
+|  | 0,96 | 0,87 |
+|  | 0,95 | 0,75 |
+|  | 0,99 | 0,77 |
 
 ### 2.3 Biologisk kvalitetselement: Bunnfauna (virvelløse dyr)
 
-Beskrivelse av innsjøtyper som er interkalibrert:*Type**Karakteristika**Høyde(moh)**Alkalitet**Farge*L104,
-L105a–b
-(L-N-BF1 (forsuring i innsjøer))Lavland/skog, kalkfattig, klar<8000,05–0,2<30
+Beskrivelse av innsjøtyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Høyde(moh)* | *Alkalitet* | *Farge* |
+| --- | --- | --- | --- | --- |
+| L104,<br>L105a–b<br>(L-N-BF1 (forsuring i innsjøer)) | Lavland/skog, kalkfattig, klar | <800 | 0,05–0,2 | <30 |
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*MultiClear: Multimetric Invertebrate Index for Clear Lakes0,950,74
 
 ### 2.4 Biologisk kvalitetselement: Fisk
 
-Beskrivelse av innsjøtyper som er interkalibrert:*Type**Karakteristika**Innsjøareal*
-*(km2*)*Alkalinitet (meq/l)**Organisk materiale (mg Pt/l)*L101a–d,
-L102a–d,
-L104,
-L105a–b,
-L107,
-L109,
-L201a–d,
-L202a–d,
-L204, L205,
-L207
-(L-N-F1)Dimiktisk klarvannssjø<40<0,2<30L103a–d,
-L106,
-L108,
-L110,
-L203a–d,
-L206,
-L208
-(L-N-F2)Dimiktisk humussjø<5<0,230–90
+Beskrivelse av innsjøtyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Innsjøareal*<br>*(km2*) | *Alkalinitet (meq/l)* | *Organisk materiale (mg Pt/l)* |
+| --- | --- | --- | --- | --- |
+| L101a–d,<br>L102a–d,<br>L104,<br>L105a–b,<br>L107,<br>L109,<br>L201a–d,<br>L202a–d,<br>L204, L205,<br>L207<br>(L-N-F1) | Dimiktisk klarvannssjø | <40 | <0,2 | <30 |
+| L103a–d,<br>L106,<br>L108,<br>L110,<br>L203a–d,<br>L206,<br>L208<br>(L-N-F2) | Dimiktisk humussjø | <5 | <0,2 | 30–90 |
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert nasjonalt klassifiseringssystem**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*EindexW30,750,56AindexW50,740,55
 
 ### 3. Vannkategori store elver
 
-Beskrivelse av store elvetyper som er interkalibrert:*Type**Karakteristika**Nedbørfeltareal (km2 )**Alkalinitet (meq/l)*R104,
-R105,
-R106
-(R-L1)Store, kalkfattige elver>10  000<0,50R107,
-R108
-(R-L2)Store, middels kalkrike elver>10 000>0,50
+Beskrivelse av store elvetyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Nedbørfeltareal (km2 )* | *Alkalinitet (meq/l)* |
+| --- | --- | --- | --- |
+| R104,<br>R105,<br>R106<br>(R-L1) | Store, kalkfattige elver | >10  000 | <0,50 |
+| R107,<br>R108<br>(R-L2) | Store, middels kalkrike elver | >10 000 | >0,50 |
 
 ### 3.1 Biologisk kvalitetselement: Bunnfauna (virvelløse dyr)
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*ASPT-indeks – Average Score per Taxon (metode følsom for organisk belastning og generell degradering for alle elvetyper)R104, R105, R106,
 R107, R108
@@ -804,48 +1152,30 @@ R107, R108
 
 ### 3.2. Biologisk kvalitetselement: Fisk
 
+Resultater:
+
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*European Fish Index (EFI)R104, R105, R106, R104, R105, R106, R107, R108, (R-L1, R-L2)0,9960,755
 
 ### 4. Vannkategori kystvann
 
-Beskrivelse av kystvannstyper som er interkalibrert:*Type**Karakteristika**Saltholdighet (psu)*
-*Tidevannsforskjell (m) Dyp* (m)*Strømhastighet (knop)*
-*Eksponering**Blanding*
-*Oppholdstid**Undertype for makroalger i tidevannssonen*M1 og 2, H 1 og 2 og G1 og 2
-(NEA 1/26 B21)Åpent, eksponert eller beskyttet, euhalint>30
-Middels 1–5
-<30Middels 1–3
-Eksponert eller beskyttetFull blanding
-Dager*Undertype for planteplankton*M1 og 2, H 1 og 2 og G1 og 2
-(NEA 1/26a)Åpen eksponert til moderat eksponert grunn>30
-Middels 1-5
-<30Middels 1-3
-Eksponert eller beskyttetFull blanding
-Dager*Undertype for planteplankton, fastsittende alger og bunnfauna*M1 og 2, H 1 og 2 og G1 og 2
-(NEA 1/26)Åpent, eksponert eller beskyttet, euhalint>30
-Middels 1–5
-<30Middels 1-3
-Eksponert eller beskyttetFull blanding
-DagerM3, H3 og G(3) (NEA7)Dyp fjord>30
-Middels 1–5
->30Lav <1
-BeskyttetFull blanding
-DagerS2 (NEA 8a)Indre Skagerrak, polyhalint,
-moderat eksponert, grunnPolyhalint 25–30
-Tidevann <1
->30Lav <1
-Moderat eksponertFull blanding
-Dager til ukerS3 (NEA9)Dyp fjord med terskel i munningen og liten utskifting av bunnvannetPolyhalint 25-30
-Mikrotidevann <1
->30Lav <1
-BeskyttetDelvis stratifisert
-UkerS1 (NEA10)Skagerrak, eksponert, dypPolyhalin 25–30
-Liten <1
->30Lav <1
-EksponertDelvis stratifisert
-Dager
+Beskrivelse av kystvannstyper som er interkalibrert:
+
+| *Type* | *Karakteristika* | *Saltholdighet (psu)*<br>*Tidevannsforskjell (m) Dyp* (m) | *Strømhastighet (knop)*<br>*Eksponering* | *Blanding*<br>*Oppholdstid* |
+| --- | --- | --- | --- | --- |
+| *Undertype for makroalger i tidevannssonen* |  |  |  |  |
+| M1 og 2, H 1 og 2 og G1 og 2<br>(NEA 1/26 B21) | Åpent, eksponert eller beskyttet, euhalint | >30<br>Middels 1–5<br><30 | Middels 1–3<br>Eksponert eller beskyttet | Full blanding<br>Dager |
+| *Undertype for planteplankton* |  |  |  |  |
+| M1 og 2, H 1 og 2 og G1 og 2<br>(NEA 1/26a) | Åpen eksponert til moderat eksponert grunn | >30<br>Middels 1-5<br><30 | Middels 1-3<br>Eksponert eller beskyttet | Full blanding<br>Dager |
+| *Undertype for planteplankton, fastsittende alger og bunnfauna* |  |  |  |  |
+| M1 og 2, H 1 og 2 og G1 og 2<br>(NEA 1/26) | Åpent, eksponert eller beskyttet, euhalint | >30<br>Middels 1–5<br><30 | Middels 1-3<br>Eksponert eller beskyttet | Full blanding<br>Dager |
+| M3, H3 og G(3) (NEA7) | Dyp fjord | >30<br>Middels 1–5<br>>30 | Lav <1<br>Beskyttet | Full blanding<br>Dager |
+| S2 (NEA 8a) | Indre Skagerrak, polyhalint,<br>moderat eksponert, grunn | Polyhalint 25–30<br>Tidevann <1<br>>30 | Lav <1<br>Moderat eksponert | Full blanding<br>Dager til uker |
+| S3 (NEA9) | Dyp fjord med terskel i munningen og liten utskifting av bunnvannet | Polyhalint 25-30<br>Mikrotidevann <1<br>>30 | Lav <1<br>Beskyttet | Delvis stratifisert<br>Uker |
+| S1 (NEA10) | Skagerrak, eksponert, dyp | Polyhalin 25–30<br>Liten <1<br>>30 | Lav <1<br>Eksponert | Delvis stratifisert<br>Dager |
 
 ### 4.1 Biologisk kvalitetselement: Bunnfauna (virvelløse dyr)
+
+Resultater:
 
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.
 - Resultatene gjelder for bløtbunnshabitater (mudder-/sandhabitater under tidevannssonen).*Interkalibrert norsk klassifiseringssystem**Type**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*NQINEA8a//9/100,820,63NQINEA1/26
@@ -853,9 +1183,13 @@ NEA70,720,63
 
 ### 4.2 Biologisk kvalitetselement: Planteplankton
 
+Resultater:
+
 - Parameterverdiene uttrykkes i μg/l som 90-percentilverdien beregnet over den definerte vekstsesongen i en seksårsperiode. Resultatene relaterer seg til geografiske områder innenfor kystvanntypene som beskrevet i den tekniske rapporten.*Type**Klorofyll a (μg/l,90-persentil)**Økologisk kvalitetskvotient**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand*NEA1/26a2,505,000,670,33NEA93,926,900,760,43NEA103,535,260,730,49NEA 8a3,955,530,790,57
 
 ### 4.3 Biologisk kvalitetselement: Fastsittende alger (makroalger)
+
+Resultater:
 
 - Økologiske kvalitetsratioer for interkalibrerte parametre som indikerer artssammensetning på hardbunn.
 - Grenseverdi mellom svært god og god og mellom god og moderat tilstand, er angitt som økologiske kvalitetskvotienter (EQR) i samsvar med det interkalibrerte norske klassifiseringssystemet.*Metode**Økologisk kvalitetskvotient (EQR)**Grense mellom svært god og god tilstand**Grense mellom god og moderat tilstand**Type NEA1//26 B21 intertidal macroalgea*RSLA – Rocky Shore Reduced Species List0,800,60*Type NEA7 intertidal makroalgea*RSLA – Rocky Shore Reduced Species List with Abundance0,800,60*Type NEA8a/9/10 subtidal makroalgea*MSMDI – Multi Species Maximum Depth Index0,800,60
@@ -880,59 +1214,115 @@ Tiltak som i henhold til [§ 25](forskrift/2006-12-15-1446/§25) tredje ledd ska
 
 ### A. Forvaltningsplanene for vannregionene skal omfatte følgende elementer:
 
+1\.
+
 En generell karakterisering av egenskapene til vannregionen som påkrevd i henhold til [§ 15](forskrift/2006-12-15-1446/§15) og vedlegg II. Denne skal omfatte
+
+1.1
 
 for overflatevann:kartlegging av vannforekomstenes beliggenhet og grenser,kartlegging av økoregioner og typer forekomster av overflatevann innen vannregionen,identifikasjon av referanseforhold for de ulike vanntypene for overflatevann
 
+1.2
+
 for grunnvann:kartlegging av grunnvannsforekomstenes beliggenhet og grenser,
+
+2\.
 
 et sammendrag av vesentlige belastninger og virkninger av menneskelig virksomhet på tilstand i overflatevann og grunnvann, herundervurdering av punktkildeforurensning,vurdering av forurensning fra diffuse kilder, herunder et sammendrag av arealbruken,vurdering av belastninger på vannets kvantitative tilstand, herunder uttak,analyse av andre virkninger av menneskelig virksomhet på vannets tilstand,
 
+3\.
+
 identifikasjon og kartlegging av beskyttede områder som påkrevd i henhold til [§ 16](forskrift/2006-12-15-1446/§16) og vedlegg IV,
+
+4\.
 
 et kart over de overvåkningsnett som er opprettet for formålene i [§ 18](forskrift/2006-12-15-1446/§18) (og vedlegg V), og en presentasjon i kartform av resultatene av overvåkningsprogrammene utført i henhold til nevnte bestemmelser av tilstand i
 
+4.1
+
 overflatevann (økologisk og kjemisk),
+
+4.2
 
 grunnvann (kjemisk og kvantitativt),
 
+4.3
+
 beskyttede områder,
+
+5\.
 
 en liste over miljømål fastsatt for overflatevann, grunnvann og beskyttede områder, herunder særlig identifikasjon av tilfeller der [§ 9](forskrift/2006-12-15-1446/§9)–§ 12 er anvendt, samt tilhørende opplysninger som påkrevd i disse bestemmelsene,
 
+6\.
+
 et sammendrag av den økonomiske analysen av vannbruken som påkrevd i henhold til [§ 15](forskrift/2006-12-15-1446/§15) og vedlegg III,
+
+7\.
 
 et sammendrag av tiltaksprogrammet eller -programmene utarbeidet i henhold til [§ 25](forskrift/2006-12-15-1446/§25), herunder måten miljømålene fastsatt i henhold til [§ 4](forskrift/2006-12-15-1446/§4) er ment å skulle nås:
 
+7.1
+
 et sammendrag av tiltakene som kreves for å gjennomføre regelverket i EØS-området for beskyttelse av vann,
+
+7.2
 
 en rapport om praktiske skritt og tiltak truffet for å anvende prinsippet om dekning av kostnadene ved vannbruk
 
+7.3
+
 et sammendrag av tiltak truffet for å oppfylle kravene til drikkevann i [§ 17](forskrift/2006-12-15-1446/§17),
+
+7.4
 
 et sammendrag av kontrolltiltakene for uttak og magasinering av vann, jf. [§ 25](forskrift/2006-12-15-1446/§25) bokstav e.,
 
+7.5
+
 et sammendrag av kontrolltiltak vedtatt for punktkildeutslipp og annen virksomhet som påvirker vannets tilstand, i samsvar med [§ 25](forskrift/2006-12-15-1446/§25) bokstav f.,
+
+7.6
 
 identifikasjon av tilfeller der det er gitt tillatelse til direkte utslipp til grunnvann,
 
+7.7
+
 et sammendrag av tiltak truffet med sikte på opphør av utslipp og utfasing av prioriterte stoffer, jf. [§ 25](forskrift/2006-12-15-1446/§25) bokstav d.,
+
+7.8
 
 et sammendrag av tiltak truffet for å forebygge eller redusere virkningen av forurensningsuhell,
 
+7.9
+
 et sammendrag av tiltak som er truffet dersom overvåking eller andre data tyder på at tiltaksprogrammet ikke er tilstrekkelig for å nå miljømålene i vannforekomsten, jf. [§ 25](forskrift/2006-12-15-1446/§25),
+
+7.10
 
 nærmere opplysninger om supplerende tiltak som anses nødvendige for å nå de fastsatte miljømålene,
 
+7.11
+
 nærmere opplysninger om tiltak som er truffet for å unngå økning i forurensningen av marine farvann i samsvar med [§ 25](forskrift/2006-12-15-1446/§25),
+
+8\.
 
 et register over eventuelle mer detaljerte programmer og forvaltningsplaner for vannregionen som omhandler særskilte vannområder, sektorer, spørsmål eller vanntyper, sammen med sammendrag av deres innhold,
 
+9\.
+
 et sammendrag av offentlig informasjons- og høringstiltak som er truffet, resultatene av dem og endringer i planen som følge av dem,
+
+10\.
 
 en liste over ansvarlige myndigheter i vannregionen,
 
+11\.
+
 kontaktpunkter og framgangsmåter som gir adgang til bakgrunnsdokumentasjonen og -informasjonen omtalt i [§ 27](forskrift/2006-12-15-1446/§27) og [§ 28](forskrift/2006-12-15-1446/§28), og særlig nærmere opplysninger om kontrolltiltakene vedtatt i henhold til [§ 25](forskrift/2006-12-15-1446/§25) bokstav f) og g) og de faktiske overvåkningsdataene samlet inn i henhold til [§ 18](forskrift/2006-12-15-1446/§18) og vedlegg V.
+
+12\.
 
 For alle typer register- og kartdata som kreves i vannforvaltningsplanen kan det vises til Vann-Nett.
 
@@ -940,11 +1330,19 @@ For alle typer register- og kartdata som kreves i vannforvaltningsplanen kan det
 
 ### B. En oppdatering av vannforvaltningsplanen skal i tillegg inneholde
 
+1\.
+
 et sammendrag av eventuelle endringer eller ajourføringer siden offentliggjøringen av forrige versjon av forvaltningsplanen, herunder et sammendrag av endringer av miljømål i samsvar med [§ 9](forskrift/2006-12-15-1446/§9) – § 12,
+
+2\.
 
 en vurdering av framgangen som er gjort i retning av å nå miljømålene, herunder presentasjon i kartform av overvåkningsresultatene som dekker perioden siden forrige plan og en forklaring på eventuelle miljømål som ikke er nådd,
 
+3\.
+
 et sammendrag av, og en forklaring på eventuelle tiltak i den tidligere versjonen av forvaltningsplanen som ikke er iverksatt,
+
+4\.
 
 et sammendrag av eventuelle ytterligere midlertidige tiltak som er truffet i henhold til [§ 25](forskrift/2006-12-15-1446/§25) på grunn av vansker med å nå miljømålene etter offentliggjøringen av forrige versjon av vannforvaltningsplanen.
 
@@ -956,45 +1354,270 @@ et sammendrag av eventuelle ytterligere midlertidige tiltak som er truffet i hen
 
 ### A. Miljøkvalitetsstandarder for prioriterte stoffer og prioritert farlige stoffer i ferskvann og kystvann
 
+*Miljøkvalitetsstandarder i vann er angitt i µg/l*
+
+| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Årlig gjennomsnitt2 for ferskvann3* | *Årlig gjennomsnitt2 for kystvann* | *Maksimal verdi4 for ferskvann*3 | *Maksimal verdi4 for kystvann* |
+| --- | --- | --- | --- | --- | --- | --- |
+| (1) | Alaklor | 15972-60-8 | 0,3 | 0,3 | 0,7 | 0,7 |
+| (2) | AntracenA | 120-12-7 | 0,1 | 0,1 | 0,1 | 0,1 |
+| (3) | Atrazin | 1912-24-9 | 0,6 | 0,6 | 2,0 | 2,0 |
+| (4) | Benzen | 71-43-2 | 10 | 8 | 50 | 50 |
+| (5) | Bromerte difenyletereA5 | 32534-81-9 |  |  | 0,14 | 0,014 |
+| (6) | Kadmium og kadmium-forbindelserA6 (avhengig av vannets hardhet) | 7440-43-9 | ≤ 0,08 (klasse 1)<br>0,08 (klasse 2)<br>0,09 (klasse 3)<br>0,15 (klasse 4) 0,25 (klasse 5) | 0,2 | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) | ≤ 0,45 (klasse 1)<br>0,45 (klasse 2)<br>0,6 (klasse 3)<br>0,9 (klasse 4) 1,5 (klasse 5) |
+| (7) | Kortkjedete klorparafiner (C10-13)A7 | 85535-84-8 | 0,4 | 0,4 | 1,4 | 1,4 |
+| (8) | Klorfenvinfos | 470-90-6 | 0,1 | 0,1 | 0,3 | 0,3 |
+| (9) | Klorpyrifos | 2921-88-2 | 0,03 | 0,03 | 0,1 | 0,1 |
+| (10) | 1,2-Dikloretan | 107-06-2 | 10 | 10 | Ikke oppgitt | Ikke oppgitt |
+| (11) | Diklorometan | 75-09-2 | 20 | 20 | Ikke oppgitt | Ikke oppgitt |
+| (12) | Di(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 1,3 | 1,3 | Ikke oppgitt | Ikke oppgitt |
+| (13) | Diuron | 330-54-1 | 0,2 | 0,2 | 1,8 | 1,8 |
+| (14) | EndosulfanA | 115-29-7 | 0,005 | 0,0005 | 0,01 | 0,004 |
+| (15) | Fluoranten | 206-44-0 | 0,0063 | 0,0063 | 0,12 | 0,12 |
+| (16) | HeksaklorbenzenA | 118-74-1 |  |  | 0,05 | 0,05 |
+| (17) | HeksaklorbutadienA | 87-68-3 |  |  | 0,6 | 0,6 |
+| (18) | Heksaklor-sykloheksanA | 608-73-1 | 0,02 | 0,002 | 0,04 | 0,02 |
+| (19) | Isoproturon | 34123-59-6 | 0,3 | 0,3 | 1,0 | 1,0 |
+| (20) | Bly og blyforbindelser | 7439-92-1 | 1,28 | 1,3 | 14 | 14 |
+| (21) | Kvikksølv og kvikksølv forbindelserA | 7439-97-6 |  |  | 0,07 | 0,07 |
+| (22) | Naftalen | 91-20-3 | 2 | 2 | 130 | 130 |
+| (23) | Nikkel og nikkelforbindelser | 7440-02-0 | 48 | 8,6 | 34 | 34 |
+| (24) | Nonylfenoler (4-nonylfenol)A9 | 104-40-5 | 0,3 | 0,3 | 2,0 | 2,0 |
+| (25) | Oktylfenol 4-(1,1,3,3-tetrametylbutyl)fenol10 | 140-66-9 | 0,1 | 0,01 | Ikke oppgitt | Ikke oppgitt |
+| (26) | PentaklorbenzenA | 608-93-5 | 0,007 | 0,0007 | Ikke oppgitt | Ikke oppgitt |
+| (27) | Pentaklorfenol | 87-86-5 | 0,4 | 0,4 | 1,0 | 1,0 |
+| (28) | Polyaromatiske hydrokarboner (PAH)A11 | Ikke relevant | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt | Ikke oppgitt |
+|  | Benzo(a)pyren | 50-32-8 | 1,7x10-4 | 1,7x10-4 | 0,27 | 0,027 |
+|  | Benzo(b)fluoranten | 205-99-2 | Se fotnote 11 | Se fotnote 11 | 0,017 | 0,017 |
+|  | Benzo(k)fluoranten | 207-08-9 | Se fotnote 11 | Se fotnote 11 | 0,017 | 0,017 |
+|  | Benzo(g,h,i)perylen | 191-24-2 | Se fotnote 11 | Se fotnote 11 | 8,2x10-3 | 8,2x10-4 |
+|  | Indeno((1,2,3-cd)pyren | 193-39-5 | Se fotnote 11 | Se fotnote 11 | Ikke oppgitt | Ikke oppgitt |
+| (29) | Simazin | 122-34-9 | 1,0 | 1,0 | 4,0 | 4,0 |
+| (30) | Tributyltinn forbindelser (tributyltinn kation)A | 36643-28-4 | 0,0002 | 0,0002 | 0,0015 | 0,0015 |
+| (31) | Triklorobenzener | 12002-48-1 | 0,4 | 0,4 | Ikke oppgitt | Ikke oppgitt |
+| (32) | Triklormetan (Kloroform) | 67-66-3 | 2,5 | 2,5 | Ikke oppgitt | Ikke oppgitt |
+| (33) | TrifluralinA | 1582-09-8 | 0,03 | 0,03 | Ikke oppgitt | Ikke oppgitt |
+| (34)12 | DicofolA | 115-32-2 | 1,3 x 10-3 | 3,2 x 10-5 | Ikke oppgitt13 | Ikke oppgitt13 |
+| (35)12 | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-23-1 | 6,5 x 10-4 | 1,3 x 10-4 | 36 | 7,2 |
+| (36)12 | QuinoxyfenA | 124495-18-7 | 0,15 | 0,015 | 2,7 | 0,54 |
+| (37)12 | Dioksin og dioksinlignende forbindelserA | Se fotnote 14 |  |  | Ikke oppgitt | Ikke oppgitt |
+| (38)12 | Aklonifen | 74070-46-5 | 0,12 | 0,012 | 0,12 | 0,012 |
+| (39)12 | Bifenox | 42576-02-3 | 0,012 | 0,0012 | 0,04 | 0,004 |
+| (40)12 | Cybutryne | 28159-98-0 | 0,0025 | 0,0025 | 0,016 | 0,016 |
+| (41)12 | Cypermetrin15 | 52315-07-8 | 8 x 10-5 | 8 x 10-6 | 6 x 10-4 | 6 x 10-5 |
+| (42)12 | Diklorvos | 62-73-7 | 6 x 10-4 | 6 x 10-5 | 7 x 10-4 | 7 x 10-5 |
+| (43)12 | Heksabromsyklododdekan (HBCDD)A | Se fotnote 16 | 0,0016 | 0,0008 | 0,5 | 0,05 |
+| (44)12 | Heptaklor og heptaklorepoksidA | 76-44-8/1024-57-3 | 2 x 10-7 | 1 x 10-8 | 3 x 10-4 | 3 x 10-5 |
+| (45)12 | Terbutryn | 886-50-0 | 0,065 | 0,0065 | 0,34 | 0,034 |
+
+1 CAS- Chemical Abstracs service.
+
+2 Den gjennomsnittlige årlige verdien. Hvis ikke annet er oppgitt svarer denne verdien til totalkonsentrasjonen av alle isomere.
+
+3 Ferskvann innbefatter elver, innsjøer og sterkt modifiserte ferskvannsforekomster.
+
+4 Den maksimalt tillatte verdien. Der hvor denne verdien ikke er oppgitt er den gjennomsnittlige årlige verdien ansett til også å beskytte mot kortvarige utslipp av forbindelsen.
+
+5 I gruppen av bromerte flammehemmere kalt polybromerte difenyletere inngår kongener med numrene 28, 47, 99, 100, 153 og 154. Kun Tetra, Penta, Hexa og Heptabromdifenyleter er inkludert som prioritert farlige stoffer (henholdsvis CAS-nr 40088-47-9, 32534-81-9, 36483-60-0, 68928-80-3).
+
+6 For kadmium og kadmiumforbindelser er miljøkvalitetsstandardene avhengig av vannets hardhet. Miljøkvalitetsstandardene er derfor delt inn i fem klasser (klasse 1: < 40 mg CaCO3 /l, klasse 2: 40 til < 50 mg CaCO3 /l, klasse 3: 50 til < 100 mg CaCO3 /l, klasse 4: 100 til < 200 mg CaCO3 /l og klasse 5: ≥ 200 mg CaCO3 /l).
+
+7 Det er ikke gitt noen standard på hvilke av stoffene i denne gruppen det skal analyseres på. Det er det er derfor opp til laboratoriene å velge ut hvilke av klorparafinene som skal analyseres.
+
+8 Miljøkvalitetsstandarden gjelder den biotilgjengelige konsentrasjonen av stoffet.
+
+9 Nonylfenol (CAS 25154-52-3) inkludert isomerene 4-nonylfenol (CAS 104-40-5) og 4-nonylfenol (forgrenet) (CAS 84852-15-3).
+
+10 Octylfenol (CAS 1806-26-4) inkludert isomer 4-(1,1',3,3'-tetrametylbutyl)-fenol (CAS 140-66-9).
+
+11 For Polyaromatiske hydrokarboner (PAH) refererer miljøkvalitetsstandardene for årlig gjennomsnitt til konsentrasjonen av benzo(a)pyren. Benzo(a)pyren kan betraktes som en markør for de andre PAH-ene, og det er kun benzo(a)pyren som må overvåkes for å sammenligne med årlig gjennomsnitt.
+
+12 Disse stoffene trer i kraft som prioriterte stoffer ved utgangen av 2018, og skal frem til den tid ikke telle med i evalueringen av kjemisk tilstand.
+
+13 Utilstrekkelig datagrunnlag for å kunne sette maksimal verdi.
+
+14 Dette omfatter følgende stoffer: 7 polyklorerte dibenzo-p-dioksiner (PCDD-er): 2,3,7,8-T4CDD (CAS 1746-01-6), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9) 10 polyklorerte dibenzofuraner (PCDFs): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0) 12 dioksin-lignende polyklorerte bifenyler (PCB-DL): 3,3',4,4'-T4CB (PCB 77, CAS 32598-13-3), 3,3',4',5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3',4,4'-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4',5-P5CB (PCB 114, CAS 74472-37-0), 2,3',4,4',5-P5CB (PCB 118, CAS 31508-00-6), 2,3',4,4',5'-P5CB (PCB 123, CAS 65510-44-3), 3,3',4,4',5-P5CB (PCB 126, CAS 57465-28-8), 2,3,3',4,4',5-H6CB (PCB 156, CAS 38380-08-4), 2,3,3',4,4',5'-H6CB (PCB 157, CAS 69782-90-7), 2,3',4,4',5,5'-H6CB (PCB 167, CAS 52663-72-6), 3,3',4,4',5,5'-H6CB (PCB 169, CAS 32774-16-6), 2,3,3',4,4',5,5'-H7CB (PCB 189, CAS 39635-31-9).
+
+15 CAS 52315-07-8 omfatter en blanding av isomerer av cypermethrin; alpha-cypermethrin (CAS 67375-30-8), beta-cypermethrin (CAS 65731-84-2), theta-cypermethrin (CAS 71697-59-1) og zeta-cypermethrin (52315-07-8).
+
+16 Dette omfatter 1,3,5,7,9,11-Heksabromcyclododekan (CAS 25637-99-4), 1,2,5,6,9,10-Heksabromcyclododekan (CAS 3194-55-6), α-Heksabromcyclododekan (CAS 134237-50-6), β-Heksabromcyclododekan (CAS 134237-51-7) og γ-Heksabromcyclododekan (CAS 134237-52-8).
+
+A Prioritert farlige stoffer
+
 ### B. Miljøkvalitetsstandarder for prioriterte stoffer og prioritert farlige stoffer i organismer
+
+*Miljøkvalitetsstandarder i organismer er angitt i µg/kg våtvekt*
+
+| *Nr*. | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i organismer2* |
+| --- | --- | --- | --- |
+| (1) | AntracenA | 120-12-7 | 2400 |
+| (2) | Bromerte difenyletereA | 32534-81-9 | 0,0085 |
+| (3) | Kortkjedete klorparafiner (C10-13)A | 85535-84-8 | 6000 |
+| (4) | Di-(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 2900 |
+| (5) | EndosulfanA | 115-29-7 | 370 |
+| (6) | Fluoranten | 206-44-0 | 30 |
+| (7) | HeksaklorbenzenA | 118-74-1 | 10 |
+| (8) | HeksaklorbutadienA | 87-68-3 | 55 |
+| (9) | Heksaklor- sykloheksanA | 608-73-1 | 61 |
+| (10) | Kvikksølv og kvikksølvforbindelserA | 7439-97-6 | 20 |
+| (11) | Naftalen | 91-20-3 | 2400 |
+| (12) | Nonylfenol (4-nonylfenol)A | 104-40-5 | 3000 |
+| (13) | Oktylfenol 4-(1,1,3,3-Tetrametylbutyl)fenol | 140-66-9 | 0,004 |
+| (14) | PentaklorbenzenA | 608-93-5 | 50 |
+| (15) | Pentaklorfenol | 87-86-5 | 180 |
+| (16) | PAH |  |  |
+|  | Benzo(a)pyren | 50-32-8 | 5 |
+|  | Benzo(b)fluoranten | 205-99-2 | Se fotnote 4. |
+|  | Benzo(k)fluoranten | 207-08-9 | Se fotnote 4. |
+|  | Benzo(g,h,i)perylen | 191-24-2 | Se fotnote 4. |
+|  | Indeno((1,2,3-cd)pyren | 193-39-5 | Se fotnote 4. |
+| (17) | Tributyltinnforbindelser (tributyltinn kation)A | 36643-28-4 | 150 |
+| (18) | Triklorobenzener | 12002-48-1 | 490 |
+| (19) | Dicofol | 115-32-2 | 33 |
+| (20) | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-21-1 | 9,1 |
+| (21) | Dioksin og dioksinlignende forbindelserA | Se fotnote 14 i del A i dette vedlegg. | Sum av PCDD+PCDF+PVB-DL 0,0065 µg/kg TEQ5 |
+| (22) | Heksabromsyklododekan (HBCDD)A | Se fotnote 16 i del A i dette vedlegg. | 167 |
+| (23) | Heptaklor og heptaklorepoksidA | 76-44-8/1024-57-3 | 6,7x10-3 |
+
+1 CAS- Chemical Abstracs service.
+
+2 Miljøkvalitetsstandardene gjelder for fisk både i ferskvann og marine områder. Alternativ taksa eller matriks kan benyttes dersom miljøkvalitetsstandarden gir samme beskyttelsesnivå. For Fluoranten (stoff nr. 6) og PAH (stoff nr. 16) gjelder miljøkvalitetsstandarden for krepsdyr og bløtdyr. Overvåking av fluoranten og PAH i fisk er ikke hensiktsmessig for å evaluere kjemisk tilstand. For dioksiner og dioksinlignende forbindelser (stoff nr. 21) gjelder miljøkvalitetsstandarden i fisk, krepsdyr og bløtdyr.
+
+3 For Polyaromatiske hydrokarboner (PAH) refererer miljøkvalitetsstandardene i organismer til konsentrasjonen av benzo(a)pyren. Benzo(a)pyren kan betraktes som en markør for de andre PAH-ene, og det er kun benzo(a)pyren som må overvåkes for å sammenligne med EQS i organismer.
+
+4 PCDD: polyklorerte dibenzo-p-dioksiner; PCDF: polyklorerte dibenzofuraner; PCB-DL: dioksinlignende polyklorerte bifenyler TEQ: toksisitetsekvivalenter i følge Verdens helseorganisasjon 2005 Toxic Equivalent Factors
+
+A Prioritert farlige stoffer
 
 ### C. Miljøkvalitetsstandarder for prioriterte stoffer og prioritert farlige stoffer i sediment
 
+*Miljøkvalitetsstandarder i sediment er angitt i mg/kg tørrstoff*
+
+| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i sediment (kystvann)2* | *Miljøkvalitetsstandard i sediment (ferskvann)2* |
+| --- | --- | --- | --- | --- |
+| (1) | Alaklor | 15972-60-8 | 0,0003 |  |
+| (2) | AntracenA | 120-12-7 | 0,0046 |  |
+| (3) | Bromerte difenyletereA | 32534-81-9 | 0,062 | 0,31 |
+| (4) | Kadmium og kadmiumforbindelserA | 7440-43-9 | 2,5 |  |
+| (5) | C 10-13 kloralkanerA | 85535-84-8 | 0,8 |  |
+| (6) | Klorfenvifos | 470-90-6 | 0,0005 |  |
+| (7) | Klorpyrifos | 2921-88-2 | 0,0013 |  |
+| (8) | Di-(2-etylheksyl)ftalat (DEHP)A | 117-81-7 | 10 |  |
+| (9) | EndosulfanA | 115-29-7 | 0,00007 |  |
+| (10) | Fluoranten | 206-44-0 | 0,40 |  |
+| (11) | HeksaklorbensenA | 118-74-1 | 0,017 |  |
+| (12) | HeksaklorbutadienA | 87-68-3 | 0,049 |  |
+| (13) | Heksaklor- sykloheksanA | 608-73-1 | 0,000074 | 0,00074 |
+| (14) | Bly og blyforbindelser | 7439-92-1 | 150 | 66 |
+| (15) | Kvikksølv og kvikksølvforbindelserA | 7439-97-6 | 0,52 |  |
+| (16) | Naftalen | 91-20-3 | 0,027 |  |
+| (17) | Nikkel og nikkelforbindelser | 7440-02-0 | 42 |  |
+| (18) | NonylfenolA | 104-40-5 | 0,016 |  |
+| (19) | Oktylfenol | 140-66-9 | 0,0003 | 0,003 |
+| (20) | PentaklorbenzenA | 608-93-5 | 0,4 |  |
+| (21) | Pentaklorfenol | 87-86-5 | 0,014 |  |
+| (22) | PAHA |  |  |  |
+|  | Benzo(a)pyren | 50-32-8 | 0,18 |  |
+|  | Benzo(b)fluoranten | 205-99-2 | 0,14 |  |
+|  | Benzo(k)fluoranten | 207-08-9 | 0,14 |  |
+|  | Benzo(g,h,i)perylen | 191-24-2 | 0,084 |  |
+|  | Ideno(1,2,3-cd)pyren | 193-39-5 | 0,063 |  |
+| (23) | Tributyltinn forbindelser (tributyltinn kation)A | 36643-28-4 | 0,000002 |  |
+| (24) | Triklorbenzener | 12002-48-1 | 0,0056 |  |
+| (25) | TrifluralinA | 1582-09-8 | 1,6 |  |
+| (26) | Perfluoroktylsulfonat og dets derivater (PFOS)A | 1763-23-1 | 0,00023 | 0,0023 |
+| (27) | Dioksin og dioksinlignende PCBA | Se fotnote 14 i tabell A i dette vedlegg. | 8,6 x 10-7 TEQ |  |
+| (28) | Heksabromsyklododdekan (HBCDD)A | Se fotnote 16 i tabell A i dette vedlegg. | 0,034 | 0,17 |
+
+1 CAS- Chemical Abstracs service.
+
+2 Miljøkvalitetsstandarder i sediment er ikke absolutte. Ved overskridelser av miljøkvalitetsstandarder i sediment bør stedsspesifikke undersøkelser og risikovurderinger gjennomføres.
+
+A Prioritert farlige stoffer.
+
 ### D. Miljøkvalitetsstandarder for andre EU-utvalgte stoffer
+
+*1. Miljøkvalitetsstandarder for andre EU-utvalgte stoffer i vann, angitt i µg/l*
+
+| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Årlig gjennomsnitt2 for ferskvann3* | *Årlig gjennomsnitt for2 kystvann* | *Maksimal verdi4 for ferskvann3* | *Maksimal verdi4 for kystvann* |
+| --- | --- | --- | --- | --- | --- | --- |
+| (1) | DDT totalt5 | Ikke relevant | 0,025 | 0,025 | Ikke oppgitt | Ikke oppgitt |
+|  | para-para-DDT | 50-29-3 | 0,01 | 0,01 | Ikke oppgitt | Ikke oppgitt |
+| (2) | Aldrin | 309-00-2 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
+| (3) | Dieldrin | 60-57-1 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
+| (4) | Endrin | 72-20-8 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
+| (5) | Isodrin | 465-73-6 | ∑ = 0,01 | ∑ = 0,005 | Ikke oppgitt | Ikke oppgitt |
+| (6) | Karbontetraklorid | 56-23-5 | 12 | 12 | Ikke oppgitt | Ikke oppgitt |
+| (7) | Tetrakloretylen | 127-18-4 | 10 | 10 | Ikke oppgitt | Ikke oppgitt |
+| (8) | Trikloretylen | 79-01-6 | 10 | 10 | Ikke oppgitt | Ikke oppgitt |
+
+1 CAS- Chemical Abstracs service.
+
+2 Den gjennomsnittlige årlige verdien. Hvis ikke annet er oppgitt svarer denne verdien til totalkonsentrasjonen av alle isomere.
+
+3 Ferskvann innbefatter elver, innsjøer og sterkt modifiserte ferskvannsforekomster.
+
+4 Den maksimalt tillatte verdien. Der hvor denne verdien ikke er oppgitt er den gjennomsnittlige årlige verdien ansett til også å beskytte mot kortvarige utslipp av forbindelsen.
+
+5 DDT total består av summen av isomerene 1,1,1-Trikloro-2,2 bis (p-klorofenyl) etane (CAS-nummer 50-29-3); 1,1,1-Trikloro-2 (o-klorofenyl)-2-((p-klorofenyl) etane (CAS-nummer 789-02-6); 1,1-dikloro-2,2 bis (p-klorofenyl) etylen (CAS-nummer 72-55-9); og 1,1-dikloro-2,2 bis (p-klorofenyl) etan (CAS-nummer 72-54-8).
+
+*2. Miljøkvalitetsstandarder for andre EU-utvalgte stoffer i organismer og sediment*
+
+| *Nr.* | *Navn på substans* | *CAS-nr.1* | *Miljøkvalitetsstandard i organismer (µg/kg våtvekt)* | *Miljøkvalitetsstandard i sediment (mg/kg tørrvekt)* |
+| --- | --- | --- | --- | --- |
+| (1) | DDT totalt2 | Ikke relevant | 609 | 0,015 |
+|  | para-para-DDT | 50-29-3 |  | 0,006 |
+
+1 CAS- Chemical Abstracs service.
+
+2 DDT total består av summen av isomerene 1,1,1-trikloro-2,2 bis (p-klorofenyl) etane (CAS-nummer 50-29-3); 1,1,1-trikloro-2 (o-klorofenyl)-2-(p-klorofenyl) etane (CAS-nummer 789-02-6); 1,1-dikloro-2,2 bis (p-klorofenyl) etylen (CAS-nummer 72-55-9); og 1,1-dikloro-2,2 bis (p-klorofenyl) etan (CAS-nummer 72-54-8).
 
 ### E. Bruk av miljøkvalitetsstandarder
 
-1. Kolonne 4 og 5 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av årlige gjennomsnittlige miljøkvalitetsstandarder, at det aritmetiske gjennomsnitt av konsentrasjoner, som er målt på forskjellige tidspunkter av året, ved hvert representativt målepunkt innenfor en vannforekomst, ikke overstiger miljøkvalitetsstandarden.Bruk av miljøkvalitetsstandarder, beregning av aritmetisk gjennomsnitt og benyttede analytiske metoder, må være i samsvar med direktiv [2000/60/EF](eu/32000l0060).
+1\. Kolonne 4 og 5 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av årlige gjennomsnittlige miljøkvalitetsstandarder, at det aritmetiske gjennomsnitt av konsentrasjoner, som er målt på forskjellige tidspunkter av året, ved hvert representativt målepunkt innenfor en vannforekomst, ikke overstiger miljøkvalitetsstandarden.Bruk av miljøkvalitetsstandarder, beregning av aritmetisk gjennomsnitt og benyttede analytiske metoder, må være i samsvar med direktiv [2000/60/EF](eu/32000l0060).
 
-2. Kolonne 6 og 7 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av maksimal miljøkvalitetsstandard, at konsentrasjonen, som er målt ved hvert representativt målepunkt innenfor vannforekomsten, ikke er høyere enn miljøkvalitetsstandarden. I overensstemmelse med punkt 1.2.4 i vedlegg V i denne forskriften, kan medlemsstatene innføre statistiske metoder, som f.eks. percentil beregning, for å oppnå et akseptabelt konfidensnivå og en akseptabel presisjon. Hensikten med dette er å fastslå om maksimal miljøkvalitetsstandard er overholdt. Statistiske metoder skal være i samsvar med direktiv [2008/105/EF](eu/32008l0105) artikkel 9 (2).
+2\. Kolonne 6 og 7 i vedlegg VIII A og D: For en gitt overflatevannforekomst betyr bruk av maksimal miljøkvalitetsstandard, at konsentrasjonen, som er målt ved hvert representativt målepunkt innenfor vannforekomsten, ikke er høyere enn miljøkvalitetsstandarden. I overensstemmelse med punkt 1.2.4 i vedlegg V i denne forskriften, kan medlemsstatene innføre statistiske metoder, som f.eks. percentil beregning, for å oppnå et akseptabelt konfidensnivå og en akseptabel presisjon. Hensikten med dette er å fastslå om maksimal miljøkvalitetsstandard er overholdt. Statistiske metoder skal være i samsvar med direktiv [2008/105/EF](eu/32008l0105) artikkel 9 (2).
 
-3. Miljøkvalitetsstandardene i vedlegg VIII er med unntak av kadmium, bly, kvikksølv og nikkel (herfra kalt metaller) uttrykt som samlet konsentrasjon i hele vannprøven. For metallers vedkommende gjelder miljøkvalitetsstandardene for konsentrasjonen i oppløsning, dvs. den oppløste fase av en vannprøve, som er filtrert gjennom et 0,45 μm filter eller behandlet på tilsvarende måte, eller hvor dette er angitt spesielt, den biotilgjengelige konsentrasjonen. Medlemslandene kan, når de vurderer overvåkningsresultatene i forhold til miljøkvalitetsstandardene, ta hensyn til:de naturlige bakgrunnskonsentrasjoner av metaller og metallforbindelser, hvis de gjør det umulig å overholde miljøkvalitetsstandarden, ogvannets hardhet, pH, løst organisk karbon eller andre kvalitetsparametere, som påvirker metallers biotilgjengelighet. Den biotilgjengelige konsentrasjonen bestemmes ut fra egnede modeller for biotilgjengelighet.
+3\. Miljøkvalitetsstandardene i vedlegg VIII er med unntak av kadmium, bly, kvikksølv og nikkel (herfra kalt metaller) uttrykt som samlet konsentrasjon i hele vannprøven. For metallers vedkommende gjelder miljøkvalitetsstandardene for konsentrasjonen i oppløsning, dvs. den oppløste fase av en vannprøve, som er filtrert gjennom et 0,45 μm filter eller behandlet på tilsvarende måte, eller hvor dette er angitt spesielt, den biotilgjengelige konsentrasjonen. Medlemslandene kan, når de vurderer overvåkningsresultatene i forhold til miljøkvalitetsstandardene, ta hensyn til:de naturlige bakgrunnskonsentrasjoner av metaller og metallforbindelser, hvis de gjør det umulig å overholde miljøkvalitetsstandarden, ogvannets hardhet, pH, løst organisk karbon eller andre kvalitetsparametere, som påvirker metallers biotilgjengelighet. Den biotilgjengelige konsentrasjonen bestemmes ut fra egnede modeller for biotilgjengelighet.
 
-4. Valg av matriks som skal overvåkes skal være hensiktsmessig, og følge til enhver tid gjeldende veiledningsmateriell.
+4\. Valg av matriks som skal overvåkes skal være hensiktsmessig, og følge til enhver tid gjeldende veiledningsmateriell.
 
-5. I de tilfellene man velger å overvåke i organismer eller sediment, og det er identifisert fare for akutt eksponering av miljøgiften, skal det også tas vannprøver for å sammenligne med maksimal verdi.
+5\. I de tilfellene man velger å overvåke i organismer eller sediment, og det er identifisert fare for akutt eksponering av miljøgiften, skal det også tas vannprøver for å sammenligne med maksimal verdi.
 
 ### F. Krav til analyser
 
 Minstekrav til analyser og prøvetaking i vann, sedimenter og organismer for stoffer som fremgår av del A, B, C og D i dette vedlegg.
 
-1. Analyser og prøvetaking skal valideres og dokumenteres i overensstemmelse med standarden EN ISO/IEC-17025.
+1\. Analyser og prøvetaking skal valideres og dokumenteres i overensstemmelse med standarden EN ISO/IEC-17025.
 
-2. Måleusikkerheten til analysen skal ikke overskride 50 % (k=2) ved verdien av den gjeldende miljøkvalitetsstandarden, og kvantifikasjonsgrensen skal være 30 % av verdien på miljøkvalitetsstandarden eller lavere.
+2\. Måleusikkerheten til analysen skal ikke overskride 50 % (k=2) ved verdien av den gjeldende miljøkvalitetsstandarden, og kvantifikasjonsgrensen skal være 30 % av verdien på miljøkvalitetsstandarden eller lavere.
 
-3. Ved beregning av gjennomsnitt skal halve kvantifikasjonsgrensen benyttes som konsentrasjonsverdi dersom en eller flere av måleverdiene er under kvantifikasjonsgrensen. Dette gjelder ikke for grupper av stoffer, inkludert aktuelle nedbrytnings- og reaksjonsprodukter, hvor konsentrasjonsverdien oppgis som sum av flere stoffer. Her skal konsentrasjonsverdier av det enkelte stoffet under kvantifikasjonsgrensen bli satt til null. Dersom beste tilgjengelige teknikk er brukt, forutsatt at dette ikke medfører uforholdsmessig høye kostnader, skal måleresultatene for dette stoffet ikke brukes for å evaluere kjemisk tilstand i vannforekomsten.
+3\. Ved beregning av gjennomsnitt skal halve kvantifikasjonsgrensen benyttes som konsentrasjonsverdi dersom en eller flere av måleverdiene er under kvantifikasjonsgrensen. Dette gjelder ikke for grupper av stoffer, inkludert aktuelle nedbrytnings- og reaksjonsprodukter, hvor konsentrasjonsverdien oppgis som sum av flere stoffer. Her skal konsentrasjonsverdier av det enkelte stoffet under kvantifikasjonsgrensen bli satt til null. Dersom beste tilgjengelige teknikk er brukt, forutsatt at dette ikke medfører uforholdsmessig høye kostnader, skal måleresultatene for dette stoffet ikke brukes for å evaluere kjemisk tilstand i vannforekomsten.
 
-4. Hvis den beregnede gjennomsnittsverdien for måling av et stoff er under kvantifikasjonsgrensen, skal målingen betegnes som under kvantifikasjonsgrensen.
+4\. Hvis den beregnede gjennomsnittsverdien for måling av et stoff er under kvantifikasjonsgrensen, skal målingen betegnes som under kvantifikasjonsgrensen.
 
-5. Dersom det for et stoff ikke finnes miljøkvalitetsstandard eller analysemetode som oppfyller krav i standarden EN ISO/IEC-17025, skal laboratoriene kontrolleres med best mulig teknikk så langt dette ikke medfører uforholdsmessig høye kostnader.
+5\. Dersom det for et stoff ikke finnes miljøkvalitetsstandard eller analysemetode som oppfyller krav i standarden EN ISO/IEC-17025, skal laboratoriene kontrolleres med best mulig teknikk så langt dette ikke medfører uforholdsmessig høye kostnader.
 
-6. Laboratorier skal delta i ringtester for stoffene. Disse ringtestene skal tilrettelegges av akkrediterte organisasjoner, eller internasjonalt anerkjente organisasjoner, som oppfyller kravene i ISO/IEC guide 43-1. Resultater fra slike ringtester skal evalueres på bakgrunn av poenggivningssystemer gitt i ISO/IEC guide 43-1, i ISO-1352-standarden eller i andre tilsvarende nasjonalt aksepterte standarder.
+6\. Laboratorier skal delta i ringtester for stoffene. Disse ringtestene skal tilrettelegges av akkrediterte organisasjoner, eller internasjonalt anerkjente organisasjoner, som oppfyller kravene i ISO/IEC guide 43-1. Resultater fra slike ringtester skal evalueres på bakgrunn av poenggivningssystemer gitt i ISO/IEC guide 43-1, i ISO-1352-standarden eller i andre tilsvarende nasjonalt aksepterte standarder.
 
-7. Laboratoriene skal analysere eksisterende referansemateriale med konsentrasjoner som er relevante for miljøkvalitetsstandarden, og som er representativt for den innsamlede prøven.
+7\. Laboratoriene skal analysere eksisterende referansemateriale med konsentrasjoner som er relevante for miljøkvalitetsstandarden, og som er representativt for den innsamlede prøven.
 
 ## Vedlegg IX. Kjemisk tilstand for grunnvann: terskel- og vendepunktverdier
 
-Ved bestemmelse av god kjemisk tilstand jf. vedlegg V 2.3.2 og ved identifikasjon av trender for forurensende stoffer, jf. vedlegg V 2.4.4, skal følgende terskelverdier og vendepunktverdier gjelde:*Stoffer/Parameter**Terskelverdi**Vendepunktverdi*Nitrat, mg/l5037,5Bekjempningsmidler, μg/l0,10,075Sum bekjempningsmidler μg/l0,50,4Klorid, mg/l200150Sulfat, mg/l10075Ammonium, mg/l N0,50,4Arsen, μg/l107,5Kadmium, μg/l53,75Bly, μg/l107,5Kvikksølv, μg/l0,50,4Sum av Trikloreten og Tetrakloreten, μg/l107 7,5
+Ved bestemmelse av god kjemisk tilstand jf. vedlegg V 2.3.2 og ved identifikasjon av trender for forurensende stoffer, jf. vedlegg V 2.4.4, skal følgende terskelverdier og vendepunktverdier gjelde:
+
+| *Stoffer/Parameter* | *Terskelverdi* | *Vendepunktverdi* |
+| --- | --- | --- |
+| Nitrat, mg/l | 50 | 37,5 |
+| Bekjempningsmidler, μg/l | 0,1 | 0,075 |
+| Sum bekjempningsmidler μg/l | 0,5 | 0,4 |
+| Klorid, mg/l | 200 | 150 |
+| Sulfat, mg/l | 100 | 75 |
+| Ammonium, mg/l N | 0,5 | 0,4 |
+| Arsen, μg/l | 10 | 7,5 |
+| Kadmium, μg/l | 5 | 3,75 |
+| Bly, μg/l | 10 | 7,5 |
+| Kvikksølv, μg/l | 0,5 | 0,4 |
+| Sum av Trikloreten og Tetrakloreten, μg/l | 10 | 7 7,5 |
 
 Med bekjempningsmidler forstås plantevernmidler som definert i § 2 a) i forskrift om plantevernmidler og biocidholdige produkter som definert i § 3 e) i forskrift om godkjenning av biocider og biocidholdige produkter. Med sum bekjempningsmidler forstås summen av alle individuelle bekjempningsmidler, som påvises og kvantifiseres under overvåkingsprosedyren, herunder relevante omdannelses-, nedbrytnings- og reaksjonsprodukter.
 

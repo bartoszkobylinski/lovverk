@@ -99,3 +99,5 @@ Kongen gir de forskrifter, som for øvrig måtte anses nødvendige til gjennemf�
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
 Av kull, jordoljer og andre mineraler og bergarter som før lovens ikrafttreden er innlastet til utførsel, erlegges ikke avgift.
+
+1 I forbindelse med sanksjon av loven ble det bestemt at den ble satt i kraft straks.

@@ -178,6 +178,8 @@ Departementet kan gi forskrifter som utfyller bestemmelsene i denne lov og fasts
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid. Kongen kan gi overgangsregler.
 
+1 Etter [vedtak 1 des 2004 nr. 1531](forskrift/2004-12-01-1531) trådte loven ikr. 1 jan 2005 med unntak for § 18, som trådte ikr. 1 jan 2006.
+
 ## § 18. Endringer i andre lover
 
 Fra den tid loven trer ikraft gjøres følgende endringer i andre lover: – – –

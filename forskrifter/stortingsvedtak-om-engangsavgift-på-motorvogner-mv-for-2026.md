@@ -48,8 +48,15 @@ Departementet kan gi forskrift om fastsettelse av bruksfradrag.
 
 ## § 5.
 
-Det skal betales vrakpantavgift for følgende kjøretøy og med følgende beløp:*per enhet*
-*(kr)*Motorvogner i avgiftsgruppe a, b, c, g og j2 400Motorvogner i avgiftsgruppe f og mopeder500Campingvogner3 000Lastebiler som ikke er avgiftspliktig i avgiftsgruppe b5 000
+Det skal betales vrakpantavgift for følgende kjøretøy og med følgende beløp:
+
+|  |  |
+| --- | --- |
+|  | *per enhet*<br>*(kr)* |
+| Motorvogner i avgiftsgruppe a, b, c, g og j | 2 400 |
+| Motorvogner i avgiftsgruppe f og mopeder | 500 |
+| Campingvogner | 3 000 |
+| Lastebiler som ikke er avgiftspliktig i avgiftsgruppe b | 5 000 |
 
 ## § 6.
 

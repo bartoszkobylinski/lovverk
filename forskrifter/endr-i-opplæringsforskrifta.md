@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta)](forskrift/2024-06-03-900) blir denne endringa gjort:
+
+[§ 4-9 sjette ledd](forskrift/2024-06-03-900/§4-9/ledd/6) skal lyde:
+
 Fylkeskommunen har plikt til å ha inntak til vidaregåande trinn 1, trinn 2 og trinn 3 for søkjarar som etter søknadsfristane flyttar til eller frå eit tiltak utanfor heimen med heimel i [barnevernsloven](lov/2021-06-18-97). Det same gjeld dei som kjem tilbake til Noreg etter ufrivillig utanlandsopphald. Fylkeskommunen har i tilfelle som nemnt i første og andre punktum også plikt til å ha inntak for søkjarar etter at skoleåret har starta, når dette er forsvarleg. Plikta til inntak etter dette leddet gjeld så langt fylkeskommunen tilbyr det aktuelle utdanningsprogrammet eller programområdet og har kapasitet på det. Søkjarar kan takast inn til eit anna utdanningsprogram eller programområde etter ei konkret vurdering.
 
 ## II

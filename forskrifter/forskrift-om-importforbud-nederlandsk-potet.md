@@ -22,6 +22,8 @@ eu_basis: []
 
 # Forskrift om tiltak mot mørk ringråte i potet.
 
-1. Det innføres midlertidig importforbud av poteter fra Nederland.
+1\. Det innføres midlertidig importforbud av poteter fra Nederland.
 
-2. Importforbudet trer i kraft 21. mai 1996. Samtidig oppheves innførselsvilkårene fastsatt i brev av 17. november 19951 fra Landbruksdepartementet med ikrafttredelsesdato 20. november 1995.
+2\. Importforbudet trer i kraft 21. mai 1996. Samtidig oppheves innførselsvilkårene fastsatt i brev av 17. november 19951 fra Landbruksdepartementet med ikrafttredelsesdato 20. november 1995.
+
+1 Ikke kunngjort i Norsk Lovtidend

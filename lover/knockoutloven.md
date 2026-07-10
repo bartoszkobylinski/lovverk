@@ -43,3 +43,5 @@ Loven gjelder her i riket, herunder Svalbard.
 ## § 4.
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 2002 iflg. [res. 15 juni 2001 nr. 667](forskrift/2001-06-15-667).

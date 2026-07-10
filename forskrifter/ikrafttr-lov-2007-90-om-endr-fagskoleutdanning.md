@@ -31,3 +31,9 @@ Bestemmelsen i § 3-12 om at fagskoler skal ha et styre på minst fem medlemmer 
 Bestemmelsen i § 10-13 om beskyttelse av begrepene fagskoleutdanning og fagskole gjøres gjeldende fra 1. juli 2008, som en overgangsordning.
 
 Kunnskapsdepartementet får fullmakt til å fastsette endringer i overgangsbestemmelsene til § 2-4,1 § 3-12 og § 10-1.3
+
+1 Det skal vel være § 2 fjerde ledd (Lovdatas anm.).
+
+2 Det skal vel være § 3 første ledd (Lovdatas anm.).
+
+3 Det skal vel være § 10 første ledd (Lovdatas anm.).

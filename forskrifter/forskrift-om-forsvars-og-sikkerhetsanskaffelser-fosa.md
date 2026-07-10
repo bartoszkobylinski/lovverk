@@ -832,34 +832,47 @@ Oppdragsgiver kan anmode om at fremlagte attester og dokumenter vedrørende krav
 
 Forskriften gjelder fra det tidspunkt departementet bestemmer1 .
 
+1 I kraft 1 jan 2014 ved [forskrift 14 nov 2013 nr. 1551](forskrift/2013-11-14-1551).
+
 ### § 15-2. Overgangsregler
 
 Forskriften gjelder anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort eller oppdragsgiver har sendt ut en forespørsel til en eller flere leverandører om å tilkjennegi interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse. For anskaffelser som ikke er iverksatt før ikrafttredelse, gjelder forskriften der kontrakt inngås etter ikrafttredelse.
 
 ## Vedlegg 1. Bygge- og anleggsaktiviteter
 
-Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.*NACE Rev. 1*1*Hovedavdeling F**Bygge- og anleggsvirksomhet**CPV-kode**Hovedgruppe**Gruppe**Undergruppe**Beskrivelse*45Bygge- og anleggsvirksomhet4500000045,1Forberedende anleggsarbeid4510000045,11Nedrivning av bygninger og jordarbeid4511000045,12Prøvedrilling og -boring4512000045,2Deler av eller komplette byggekonstruksjoner samt anleggsarbeider4520000045,21Oppføring av bygninger og anleggsarbeider45210000
-Unntatt:
--45213316
-45220000
-45231000
-4523200045,22Montasje av takkonstruksjoner og taktekking samt følgearbeid4526100045,23Bygging av veier, flyplasser og idrettsanlegg45212212
-og DA03
-(offentlig* )
-45230000
-Unntatt:
--45231000
--45232000
--4523411545,24Anleggsarbeider i forbindelse med vannprosjekter4524000045,25Andre spesialiserte bygge- og anleggsarbeider45250000
-4526200045,3Bygningsinstallasjonsarbeid4530000045,31Installasjon av elektriske ledninger og armaturer45213316
-45310000
-Unntatt:
--4531600045,32Isoleringsarbeid4532000045,33Blikkenslager- og rørleggerarbeid4533000045,34Annet bygningsinstallasjonsarbeid45234115
-45316000
-4534000045,4Ferdigstillende bygningsarbeid4540000045,41Pussearbeid4541000045,42Snekkermonteringsarbeid4542000045,43Utførelse av gulvlegging og veggbekledning4543000045,44Maler- og glassarbeid4544000045,45Øvrige arbeider i forbindelse med ferdiggjøring av bygninger45212212
-og DA04
-(private* )
-4545000045,5Utleie av entreprenørmateriell og -utstyr med operatør4550000045,50Utleie av entreprenørmateriell og -utstyr med operatør45500000
+Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
+
+| *NACE Rev. 1*1 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Hovedavdeling F* |  |  | *Bygge- og anleggsvirksomhet* | *CPV-kode* |
+| *Hovedgruppe* | *Gruppe* | *Undergruppe* | *Beskrivelse* |  |
+| 45 |  |  | Bygge- og anleggsvirksomhet | 45000000 |
+|  | 45,1 |  | Forberedende anleggsarbeid | 45100000 |
+|  |  | 45,11 | Nedrivning av bygninger og jordarbeid | 45110000 |
+|  |  | 45,12 | Prøvedrilling og -boring | 45120000 |
+|  | 45,2 |  | Deler av eller komplette byggekonstruksjoner samt anleggsarbeider | 45200000 |
+|  |  | 45,21 | Oppføring av bygninger og anleggsarbeider | 45210000<br>Unntatt:<br>-45213316<br>45220000<br>45231000<br>45232000 |
+|  |  | 45,22 | Montasje av takkonstruksjoner og taktekking samt følgearbeid | 45261000 |
+|  |  | 45,23 | Bygging av veier, flyplasser og idrettsanlegg | 45212212<br>og DA03<br>(offentlig\* )<br>45230000<br>Unntatt:<br>-45231000<br>-45232000<br>-45234115 |
+|  |  | 45,24 | Anleggsarbeider i forbindelse med vannprosjekter | 45240000 |
+|  |  | 45,25 | Andre spesialiserte bygge- og anleggsarbeider | 45250000<br>45262000 |
+|  | 45,3 |  | Bygningsinstallasjonsarbeid | 45300000 |
+|  |  | 45,31 | Installasjon av elektriske ledninger og armaturer | 45213316<br>45310000<br>Unntatt:<br>-45316000 |
+|  |  | 45,32 | Isoleringsarbeid | 45320000 |
+|  |  | 45,33 | Blikkenslager- og rørleggerarbeid | 45330000 |
+|  |  | 45,34 | Annet bygningsinstallasjonsarbeid | 45234115<br>45316000<br>45340000 |
+|  | 45,4 |  | Ferdigstillende bygningsarbeid | 45400000 |
+|  |  | 45,41 | Pussearbeid | 45410000 |
+|  |  | 45,42 | Snekkermonteringsarbeid | 45420000 |
+|  |  | 45,43 | Utførelse av gulvlegging og veggbekledning | 45430000 |
+|  |  | 45,44 | Maler- og glassarbeid | 45440000 |
+|  |  | 45,45 | Øvrige arbeider i forbindelse med ferdiggjøring av bygninger | 45212212<br>og DA04<br>(private\* )<br>45450000 |
+|  | 45,5 |  | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
+|  |  | 45,50 | Utleie av entreprenørmateriell og -utstyr med operatør | 45500000 |
+
+1 Forordning [(EØF) nr. 3037/90](eu/31990r3037) av 9. oktober 1990 om statistisk klassifisering av økonomisk virksomhet innen De europeiske fellesskap.
+
+\* Jf. hovedgruppe D, gruppe A i EU-kommisjonens forordning [(EF) nr. 213/2008](eu/32008r0213) av 28. november 2007 om en felles klassifikasjon for offentlige innkjøp (CPV).
 
 > Endret ved [forskrift 3 april 2020 nr. 675](forskrift/2020-04-03-675) (i kraft 14 april 2020).
 
@@ -885,113 +898,40 @@ For å lese vedlegg 4 se her: [](static/SF/sf-20131004-1185-v4-01-02.doc)
 
 ## Vedlegg 5. Prioriterte tjenester
 
-Med prioriterte tjenester menes:*Kategori**Beskrivelse av tjenesten**CPV-ref.nr.*(1)Vedlikehold og reparasjon50000000-5
-50100000-6 til 50884000-5
-(unntatt 50310000-1 til 50324200-4
-og 50116510-9,
-50190000-3,
-50229000-6,
-50243000-0) og
-51000000-9 til
-51900000-1(2)Tjenester vedrørende militærhjelp til utlandet75211300-1(3)Forsvars-, militære forsvars- og sivilforsvarstjenester75220000-4,
-75221000-1,
-75222000-8(4)Etterforsknings- og sikkerhetstjenester79700000-1-
-79720000-7(5)Landtransport60000000-8,
-60100000-9 til
-60183000-4
-(unntatt 60160000-7,
-60161000-4), og
-64120000-3 til
-64121200-2(6)Lufttransport av personer og gods, unntatt posttransport60400000-2
-60410000-5 til
-60424120-3
-(unntatt 60411000-2,
-60421000-5),
-60440000-4 til
-60445000-9 og
-60500000-3(7)Posttransport i luften og på land, unntatt med jernbane som hører inn under kategori 860160000-7,
-60161000-4,
-60411000-2,
-60421000-5(8)Jernbanetransport60200000-0 til
-60220000-6(9)Transport på vannvei60600000-4 til
-60653000-0, og
-63727000-1 til
-63727200-3(10)Støtte- og hjelpetjenester i forbindelse med transport som ikke faller innunder kategori 2263100000-0 til
-63111000-0,
-63120000-6 til
-63121100-4,
-63122000-0,
-63512000-1 og
-63520000-0 til
-6370000-6(11)Teletjenester64200000-8 til
-64228200-2,
-72318000-7, og
-72700000-7 til
-72720000-3(12)Finansielle tjenester: forsikring66500000-5 til
-66720000-3(13)EDB og beslektede tjenester50310000-1 til
-50324200-4
-72000000-5 til
-72920000-5
-(unntatt 72318000-7 og
-72700000-7 til
-72720000-3),
-79342410-4 og
-9342410-4(14)Forsknings- og utviklingstjenester som i sin helhet er betalt av oppdragsgiver og som fullt ut tilfaller oppdragsgiver til bruk i hans virksomhet73000000-2 til
-73436000-7(15)Regnskap, revisjon og bokføring79210000-9 til
-79212500-8(16)Rådgivning i ledelse og administrasjon, og beslektede tjenester, unntatt voldgifts- og meglingstjenester73200000-4 til
-73220000-0,
-79400000-8 til
-79421200-3 og
-79342000-3,
-79342100-4,
-79342300-6,
-79342320-2,
-79342321-9,
-79910000-6,
-79991000-7,
-98362000-8(17)Arkitektvirksomhet, rådgivende ingeniørvirksomhet og integrert ingeniørvirksomhet, byplanlegging og landskapsarkitektur, hermed beslektet teknisk-vitenskapelig rådgivningsvirksomhet, tekniske prøver og analyser71000000-8 til
-71900000-7
-(unntatt 71550000-8) og
-79994000-8(18)Bygningsrengjøring og eiendomsforvaltning70300000-4 til
-70340000-6, og
-90900000-6 til
-90924000-0(19)Kloakk- og avfallstømming, rensing og lignende tjenester90400000-1 til
-90743200-9
-(unntatt 90712200-3),
-90910000-9 til
-90920000-2 og
-50190000-3,
-50229000-6,
-50243000-0)(20)Utdannelse og opplæring innen for forsvars- og sikkerhetsområdet80330000-6,
-80600000-0,
-80610000-3,
-80620000-6,
-80630000-9,
-80640000-2
-80650000-5,
-80660000-8
+Med prioriterte tjenester menes:
+
+| *Kategori* | *Beskrivelse av tjenesten* |  | *CPV-ref.nr.* |
+| --- | --- | --- | --- |
+| (1) | Vedlikehold og reparasjon |  | 50000000-5<br>50100000-6 til 50884000-5<br>(unntatt 50310000-1 til 50324200-4<br>og 50116510-9,<br>50190000-3,<br>50229000-6,<br>50243000-0) og<br>51000000-9 til<br>51900000-1 |
+| (2) | Tjenester vedrørende militærhjelp til utlandet |  | 75211300-1 |
+| (3) | Forsvars-, militære forsvars- og sivilforsvarstjenester |  | 75220000-4,<br>75221000-1,<br>75222000-8 |
+| (4) | Etterforsknings- og sikkerhetstjenester |  | 79700000-1-<br>79720000-7 |
+| (5) | Landtransport |  | 60000000-8,<br>60100000-9 til<br>60183000-4<br>(unntatt 60160000-7,<br>60161000-4), og<br>64120000-3 til<br>64121200-2 |
+| (6) | Lufttransport av personer og gods, unntatt posttransport |  | 60400000-2<br>60410000-5 til<br>60424120-3<br>(unntatt 60411000-2,<br>60421000-5),<br>60440000-4 til<br>60445000-9 og<br>60500000-3 |
+| (7) | Posttransport i luften og på land, unntatt med jernbane som hører inn under kategori 8 |  | 60160000-7,<br>60161000-4,<br>60411000-2,<br>60421000-5 |
+| (8) | Jernbanetransport |  | 60200000-0 til<br>60220000-6 |
+| (9) | Transport på vannvei |  | 60600000-4 til<br>60653000-0, og<br>63727000-1 til<br>63727200-3 |
+| (10) | Støtte- og hjelpetjenester i forbindelse med transport som ikke faller innunder kategori 22 |  | 63100000-0 til<br>63111000-0,<br>63120000-6 til<br>63121100-4,<br>63122000-0,<br>63512000-1 og<br>63520000-0 til<br>6370000-6 |
+| (11) | Teletjenester |  | 64200000-8 til<br>64228200-2,<br>72318000-7, og<br>72700000-7 til<br>72720000-3 |
+| (12) | Finansielle tjenester: forsikring |  | 66500000-5 til<br>66720000-3 |
+| (13) | EDB og beslektede tjenester |  | 50310000-1 til<br>50324200-4<br>72000000-5 til<br>72920000-5<br>(unntatt 72318000-7 og<br>72700000-7 til<br>72720000-3),<br>79342410-4 og<br>9342410-4 |
+| (14) | Forsknings- og utviklingstjenester som i sin helhet er betalt av oppdragsgiver og som fullt ut tilfaller oppdragsgiver til bruk i hans virksomhet |  | 73000000-2 til<br>73436000-7 |
+| (15) | Regnskap, revisjon og bokføring |  | 79210000-9 til<br>79212500-8 |
+| (16) | Rådgivning i ledelse og administrasjon, og beslektede tjenester, unntatt voldgifts- og meglingstjenester |  | 73200000-4 til<br>73220000-0,<br>79400000-8 til<br>79421200-3 og<br>79342000-3,<br>79342100-4,<br>79342300-6,<br>79342320-2,<br>79342321-9,<br>79910000-6,<br>79991000-7,<br>98362000-8 |
+| (17) | Arkitektvirksomhet, rådgivende ingeniørvirksomhet og integrert ingeniørvirksomhet, byplanlegging og landskapsarkitektur, hermed beslektet teknisk-vitenskapelig rådgivningsvirksomhet, tekniske prøver og analyser |  | 71000000-8 til<br>71900000-7<br>(unntatt 71550000-8) og<br>79994000-8 |
+| (18) | Bygningsrengjøring og eiendomsforvaltning |  | 70300000-4 til<br>70340000-6, og<br>90900000-6 til<br>90924000-0 |
+| (19) | Kloakk- og avfallstømming, rensing og lignende tjenester |  | 90400000-1 til<br>90743200-9<br>(unntatt 90712200-3),<br>90910000-9 til<br>90920000-2 og<br>50190000-3,<br>50229000-6,<br>50243000-0) |
+| (20) | Utdannelse og opplæring innen for forsvars- og sikkerhetsområdet |  | 80330000-6,<br>80600000-0,<br>80610000-3,<br>80620000-6,<br>80630000-9,<br>80640000-2<br>80650000-5,<br>80660000-8 |
 
 ## Vedlegg 6. Uprioriterte tjenester
 
-Med uprioriterte tjenester menes:*Kategori**Beskrivelse av tjenesten**CPV-ref.nr.*(21)Hotell- og restaurantvirksomhet55100000-1 til
-55524000-9, og
-98340000-8 til
-98341100-6(22)Støtte- og hjelpetjenester i forbindelse med transport63000000-9 til
-63734000-3
-(unntatt 63711200-8,
-63712700-0,
-63712710-3), og
-63727000-1 til
-63727200-3, og
-98361000-1(23)Juridiske tjenester79100000-5 til
-79140000-7(24)Utvelgelse og rekruttering av personell (unntatt ansettelseskontrakter)79600000-0 til
-79635000-4
-(unntatt 79611000-0,
-79632000-3,
-79633000-0), og
-98500000-8 til
-98514000-9(25)Helse- og sosialtjenester79611000-0, og
-85000000-9 til
-85323000-9
-(unntatt 85321000-5 og
-85322000-2)(26)Andre tjenester
+Med uprioriterte tjenester menes:
+
+| *Kategori* | *Beskrivelse av tjenesten* |  | *CPV-ref.nr.* |
+| --- | --- | --- | --- |
+| (21) | Hotell- og restaurantvirksomhet |  | 55100000-1 til<br>55524000-9, og<br>98340000-8 til<br>98341100-6 |
+| (22) | Støtte- og hjelpetjenester i forbindelse med transport |  | 63000000-9 til<br>63734000-3<br>(unntatt 63711200-8,<br>63712700-0,<br>63712710-3), og<br>63727000-1 til<br>63727200-3, og<br>98361000-1 |
+| (23) | Juridiske tjenester |  | 79100000-5 til<br>79140000-7 |
+| (24) | Utvelgelse og rekruttering av personell (unntatt ansettelseskontrakter) |  | 79600000-0 til<br>79635000-4<br>(unntatt 79611000-0,<br>79632000-3,<br>79633000-0), og<br>98500000-8 til<br>98514000-9 |
+| (25) | Helse- og sosialtjenester |  | 79611000-0, og<br>85000000-9 til<br>85323000-9<br>(unntatt 85321000-5 og<br>85322000-2) |
+| (26) | Andre tjenester |  |  |

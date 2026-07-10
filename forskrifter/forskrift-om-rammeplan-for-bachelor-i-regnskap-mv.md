@@ -34,6 +34,8 @@ Forskriften skal sikre at institusjonene legger til rette for en integrert utdan
 
 En kandidat med oppnådd 3-årig bachelorgrad i regnskap og revisjon skal ha følgende samlede læringsutbytte definert i form av kunnskap, ferdigheter og generell kompetanse:
 
+*Kunnskap*
+
 Kandidaten har bred kunnskap i bedriftsøkonomisk analyse.
 
 Kandidaten har bred kunnskap om sentrale temaer, teorier, problemstillinger, prosesser, verktøy og metoder innen regnskap og revisjon.
@@ -46,6 +48,8 @@ Kandidaten kjenner til forsknings- og utviklingsarbeid innenfor eget fagfelt, sa
 
 Kandidaten kan oppdatere sin kunnskap innenfor fagfeltet, både gjennom informasjonsinnhenting og kontakt med fagmiljøer og praksis.
 
+*Ferdigheter*
+
 Innen praktiske og teoretiske problemstillinger i finansiell revisjon, regnskap, skatt- og avgiftsrett og rettslære, kan kandidatenanvende analysemetoder,anvende relevante resultater fra forsknings- og utviklingsarbeidanvende annen relevant kunnskap, ogbegrunne sine valg.
 
 Kandidaten behersker sentrale og aktuelle metoder, teknikker og uttrykksformer i regnskap og revisjon.
@@ -55,6 +59,8 @@ Kandidaten kan på revisjons- og regnskapsoppdrag identifisere, planlegge og gje
 Kandidaten kan finne, vurdere, bruke og henvise til informasjon og fagstoff og framstille dette slik at det belyser en problemstilling.
 
 Kandidaten kan bidra til å synliggjøre ulike regelverks betydning og konsekvenser gjennom revisjonsberetning og annen rapportering.
+
+*Generell kompetanse*
 
 Kandidaten har innsikt i miljømessige, samfunnsmessige og økonomiske konsekvenser av tjenester og løsninger innenfor sitt fagområde og kan sette disse i et samfunnsnyttig, etisk og bærekraftig perspektiv.
 
@@ -70,13 +76,19 @@ Kandidaten kjenner til hvordan faget bedriftsøkonomi kan støtte oppunder nyten
 
 For å oppnå graden bachelor i regnskap og revisjon må kandidaten ha bestått minst 180 studiepoeng bestående av følgende emnegrupper:
 
+*Felles med bachelor i økonomi og administrasjon*
+
 - 30 studiepoeng i bedriftsøkonomisk analyse
 - 25 studiepoeng i administrasjonsfag
 - 15 studiepoeng i samfunnsøkonomi
 - 20 studiepoeng metodefag.
 
+*Fordypningsemner*
+
 - 25 studiepoeng, videregående regnskapsfaglige emner og verdsettelse
 - 12,5 studiepoeng valgfrie emner for institusjonene.
+
+*Fordypningsemner med avsluttende revisoreksamen*
 
 - 15 studiepoeng revisjon
 - 15 studiepoeng årsregnskap, herunder IFRS

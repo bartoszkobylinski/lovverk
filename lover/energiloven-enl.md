@@ -299,6 +299,8 @@ Når det er gitt konsesjon etter første ledd, skal reguleringsmyndigheten, inne
 
 > Endret ved [lover 15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [14 juni 2013 nr. 53](lov/2013-06-14-53) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 615](forskrift/2013-06-14-615)), [2 des 2016 nr. 87](lov/2016-12-02-87) (ikr. 1 jan 2017 iflg. [res. 2 des 2016 nr. 1420](forskrift/2016-12-02-1420)), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)), [11 juni 2021 nr. 86](lov/2021-06-11-86) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1889](forskrift/2021-06-11-1889), se endringsloven for overgangsregel til første ledd annet punktum).
 
+1 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 20.
+
 ### § 4-3. (Måling, avregning og fakturering)
 
 Departementet gir forskrift om måling, avregning og fakturering.
@@ -827,6 +829,8 @@ Departementet kan gi forskrift om saksbehandlingsregler til utfylling av reglene
 
 > Endret ved [lover 27 nov 1992 nr. 119](lov/1992-11-27-119), [15 juni 2001 nr. 82](lov/2001-06-15-82) (ikr. 1 jan 2002 iflg. [res. 7 des 2001 nr. 1344](forskrift/2001-12-07-1344)), [30 juni 2006 nr. 59](lov/2006-06-30-59) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 742](forskrift/2006-06-30-742)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 7-6), [25 mai 2018 nr. 21](lov/2018-05-25-21) (ikr. 1 nov 2019 iflg. [res. 11 okt 2019 nr. 1345](forskrift/2019-10-11-1345)).
 
+1 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 20.2 Jf. [EØS-avtalen vedlegg IV](avtale/avt-1992-05-02-1-v4) nr. 47.
+
 ### § 10-7. (Overtredelsesgebyr)
 
 Departementet kan ilegge overtredelsesgebyr etter reglene i [forvaltningsloven § 44](lov/1967-02-10/§44) til den som forsettlig eller uaktsomt overtrer:[§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b første ledd](lov/1990-06-29-50/§3-1b/ledd/1), [§ 4-2 første ledd](lov/1990-06-29-50/§4-2/ledd/1), [§ 5-1 første ledd](lov/1990-06-29-50/§5-1/ledd/1), [§ 5-4 første](lov/1990-06-29-50/§5-4/ledd/1) og [tredje ledd](lov/1990-06-29-50/§5-4/ledd/3), [§ 5-5 første](lov/1990-06-29-50/§5-5/ledd/1) og [annet ledd](lov/1990-06-29-50/§5-5/ledd/2), [§ 5-7 første](lov/1990-06-29-50/§5-7/ledd/1), [tredje](lov/1990-06-29-50/§5-7/ledd/3) og [fjerde ledd](lov/1990-06-29-50/§5-7/ledd/4), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 7-1](lov/1990-06-29-50/§7-1), [§ 7-2 første ledd](lov/1990-06-29-50/§7-2/ledd/1), [§ 7-3 første ledd](lov/1990-06-29-50/§7-3/ledd/1), [§ 7-4 første ledd](lov/1990-06-29-50/§7-4/ledd/1), [§ 8-2](lov/1990-06-29-50/§8-2), [§ 8-3](lov/1990-06-29-50/§8-3) [første ledd](lov/1990-06-29-50/§8-3/ledd/1), [§ 8-4](lov/1990-06-29-50/§8-4) [første ledd](lov/1990-06-29-50/§8-4/ledd/1), [§ 8-5](lov/1990-06-29-50/§8-5) [første ledd](lov/1990-06-29-50/§8-5/ledd/1), [§ 9-1 annet ledd](lov/1990-06-29-50/§9-1/ledd/2), [§ 9-2 første ledd](lov/1990-06-29-50/§9-2/ledd/1), [§ 9-3 første](lov/1990-06-29-50/§9-3/ledd/1) og [annet ledd](lov/1990-06-29-50/§9-3/ledd/2), [§ 9-5 annet ledd](lov/1990-06-29-50/§9-5/ledd/2) eller [§ 10-1 annet ledd](lov/1990-06-29-50/§10-1/ledd/2)pålegg etter [§ 10-1](lov/1990-06-29-50/§10-1) og [§ 10-1 a](lov/1990-06-29-50/§10-1a)konsesjon og konsesjonsvilkår, eller andre enkeltvedtak gitt i medhold av [§ 3-1 første ledd](lov/1990-06-29-50/§3-1/ledd/1), [§ 3-1 a første ledd](lov/1990-06-29-50/§3-1a/ledd/1), [§ 3-1 b annet ledd](lov/1990-06-29-50/§3-1b/ledd/2), [§ 3-2](lov/1990-06-29-50/§3-2), [§ 4-2 annet](lov/1990-06-29-50/§4-2/ledd/2) og [tredje ledd](lov/1990-06-29-50/§4-2/ledd/3), [§ 4-4 første ledd](lov/1990-06-29-50/§4-4/ledd/1), [§ 5-2](lov/1990-06-29-50/§5-2), [§ 5-3](lov/1990-06-29-50/§5-3), [§ 5-4 første ledd](lov/1990-06-29-50/§5-4/ledd/1), [§ 5-5 tredje ledd](lov/1990-06-29-50/§5-5/ledd/3), [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2), [§ 9-1 fjerde](lov/1990-06-29-50/§9-1/ledd/4) og [femte ledd](lov/1990-06-29-50/§9-1/ledd/5) eller [§ 9-2 annet](lov/1990-06-29-50/§9-2/ledd/2) til [fjerde ledd](lov/1990-06-29-50/§9-2/ledd/4)forskrift, når det i forskriften er særskilt bestemt at overtredelse kan medføre overtredelsesgebyr.
@@ -880,6 +884,8 @@ For konsesjoner tildelt før ikrafttredelsen av [§ 3-1 b](lov/1990-06-29-50/§3
 Bestemmelsen i [§ 3-4 a annet ledd](lov/1990-06-29-50/§3-4a/ledd/2) gjelder ikke for produksjonsanlegg som er bygget eller bygging er igangsatt, på det tidspunktet bestemmelsen trer i kraft.
 
 > Endret ved [lover 24 apr 2009 nr. 22](lov/2009-04-24-22) (ikr. 1 jan 2010 iflg. [res. 24 apr 2009 nr. 447](forskrift/2009-04-24-447), tidligere § 8-1), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 juli 2025 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder fjerde og femte ledd), [20 juni 2025 nr. 46](lov/2025-06-20-46) (i kraft 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1085](forskrift/2025-06-20-1085), gjelder sjette ledd).
+
+1 Fra 1 jan 1991 iflg. [res. 7 des 1990 nr. 952](forskrift/1990-12-07-952).
 
 ### § 11-2. (Forholdet til eldre lovgivning)
 

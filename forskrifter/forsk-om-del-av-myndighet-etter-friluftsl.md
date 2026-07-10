@@ -27,3 +27,5 @@ Klima- og miljødepartementet har 26. november 1984 vedtatt:
 Klima- og miljødepartementet har med virkning fra 26. november 1984 delegert til Direktoratet for naturforvaltning1 myndigheten etter [lov 28. juni 1957 nr. 16](lov/1957-06-28-16) om friluftslivet [§ 9](lov/1957-06-28-16/§9) fjerde ledd til å forby eller regulere telting i høyfjellsområder umiddelbart før og under villreinjakten.
 
 > Endret ved [forskrift 19 des 2013 nr. 1757](forskrift/2013-12-19-1757) (i kraft 1 jan 2014).
+
+1 Endret ved departementets gjennomgang våren 1997.

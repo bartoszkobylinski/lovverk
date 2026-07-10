@@ -125,7 +125,7 @@ Et arrangement for slep i trange farvann skal bestå av festepunkter til slepeli
 (2) En værbegrenset eller ubegrenset operasjon skal utføres innenfor innretningens designkriterier.
 
 (3) Med værbegrenset og ubegrenset operasjon menes:«værbegrenset operasjon»: Operasjon med pålitelige værmeldinger, hvor operasjonens referanseperiode (TR ) er mindre enn 96 timer og planlagt operasjonstid basert på en konservativ tidsplan for operasjonen (TPOP ) er mindre enn 72 timer.
-\(T_R=T_{POP}+T_C\)
+\\(T_R=T_{POP}+T_C\\)
 derTR starter ved tidspunkt for siste værmelding før operasjonsstart,TC = Estimert maksimum beredskapstid. TC skal dekke generell usikkerhet i TPOP, og mulige beredskapssituasjoner som vil kreve tilleggstid for å ferdigstille operasjonen.«ubegrenset operasjon»: Operasjon hvor enten TR er større enn 96 timer, eller TPOP er større enn 72 timer eller hvor værmeldingene ikke er pålitelige.TR starter ved værmelding. Operasjonen starter når innretningen går ut av sikker tilstand.
 
 (4) Før en værbegrenset operasjon skaloppdatert værmelding for hver 12-timersperiode for aktuelt farvann innhentes;værvinduet være tre ganger planlagt operasjonstid. Alternativt kan risikobasert metode etter DNV-OS-H101 [kapittel 4](forskrift/2015-12-04-1392/kap4) brukes for å estimere værvinduet. Standard med tilsvarende sikkerhetsnivå kan brukes. Værvinduet ved bruk av risikobasert metode skal ikke være mindre enn 1,5 ganger planlagt operasjonstid.

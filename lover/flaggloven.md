@@ -33,3 +33,5 @@ Det i [§ 1](lov/1898-12-10-1/§1) bestemte Flag skal benyttes paa Handelsfartø
 ## § 3.
 
 Denne Lov træder i Kraft et Aar efter den Dag, den er indrykket i Lovtidenden.1
+
+1 Fra 16. desember 1899.

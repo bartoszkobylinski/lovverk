@@ -24,6 +24,12 @@ eu_basis: []
 
 ## § 1. Følgende gebyrer fastsettes for sentral godkjenning av foretak for funksjonene søker, prosjekterende, utførende og kontrollerende:
 
+|  |  |  |
+| --- | --- | --- |
+| Årsgebyr for å inneha sentral godkjenning | kr | 3 650 |
+| Behandlingsgebyr for søknad om sentral godkjenning | kr | 0 |
+| Gebyr for fornyelse eller endring av sentral godkjenning | kr | 0 |
+
 Gebyrene reguleres årlig i henhold til endringer i konsumprisindeksen.
 
 > Endret ved [forskrifter 17 des 2013 nr. 1570](forskrift/2013-12-17-1570) (i kraft 1 jan 2014), [25 nov 2014 nr. 1600](forskrift/2014-11-25-1600) (i kraft 1 jan 2015), [29 aug 2023 nr. 1370](forskrift/2023-08-29-1370) (i kraft 1 jan 2024).

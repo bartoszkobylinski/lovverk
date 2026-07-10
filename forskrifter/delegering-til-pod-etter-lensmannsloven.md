@@ -24,4 +24,6 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+[Lov av 16. juni 1961 nr. 7](lov/1961-06-16-7) om lensmenn.
+
 - Myndighet til å behandle klager over politimesterens avgjørelse om bierverv for lensmenn i medhold av lov om lensmenn § 4 tredje ledd.

@@ -140,6 +140,8 @@ eu_basis: []
 
 ## Kapittel 2. Opptak
 
+Fastsatt med hjemmel i [§ 16](lov/2018-06-08-28/§16) i [lov om høyere yrkesfaglig utdanning (fagskoleloven)](lov/2018-06-08-28) og [§ 3](forskrift/2019-07-11-1005/§3) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
+
 ### § 2-1. Generelt om opptak
 
 (1) Utdanninger som blir satt opp har normalt rullerende opptak. Der utdanningen er satt opp med søknadsfrist vil denne kunngjøres på fagskolens hjemmesider under den enkelte utdanning. Utdanninger med utsatt oppstartstidspunkt vil endre søknadsfristen tilsvarende.
@@ -260,6 +262,8 @@ eu_basis: []
 
 ### § 2-10. Rullerende opptak og rangering
 
+Fastsatt med hjemmel i [§ 14](forskrift/2019-07-11-1005/§14) til [18](forskrift/2019-07-11-1005/§18) i [forskrift om høyere yrkesfaglig utdanning](forskrift/2019-07-11-1005).
+
 (1) Dersom studietilbudet kunngjøres med at man benytter rullerende opptak, vil kvalifiserte søkere tas opp til studiet fortløpende.
 
 (2) Dersom studietilbudet kunngjøres med søknadsfrist, vil opptak til fagskoleutdanning på grunnlag av kvalifisering og rangering, foretas rangering ved utregning av poeng.Grunnlaget for rangering er karakterene fra den dokumentasjonen som kvalifiserer søkeren for en fagskoleutdanning og annen dokumentasjon som gir tilleggspoeng, jf. [fagskoleforskriften § 15](forskrift/2019-07-11-1005/§15).Søkere med høy poengsum skal rangeres foran søkere med lav poengsum. Søkere med lik poengsum skal rangeres etter alder, eldre søkere går foran yngre søkere.Hvis det er ledige studieplasser etter at det ordinære opptaket er gjennomført, vil fagskolen tilby disse studieplassene til kvalifiserte søkere. Søknader om opptak til slike ledige studieplasser behandles i den rekkefølgen de mottas, uavhengig av rangeringsbestemmelsene [§ 2-10 femte](forskrift/2025-06-24-2981/§2-10/ledd/5) og [sjette ledd](forskrift/2025-06-24-2981/§2-10/ledd/6).Hvis det er venteliste etter at det ordinære opptaket er gjennomført, og fagskolen får ledige studieplasser etter studiestart, skal fagskolen tilby eventuelle ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan fagskolen tilby resterende studieplasser til kvalifiserte søkere uten hensyn til rangeringsbestemmelsene.
@@ -296,7 +300,17 @@ eu_basis: []
 
 (3) Det er læringsutbyttebeskrivelsene, beskrevet i den enkelte studieplan, som skal måles når karakterer fastsettes.
 
-(4) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:*A* – FremragendeFremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse.*B* – Meget godtMeget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse.*C* – GodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse.*D* – Nokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse.*E* – TilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse.*F* – Ikke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse.Bestått / Ikke beståttVed bruk av en ugradert karakterskala med «bestått» / «ikke bestått», kreves det prestasjoner som tilsvarer karakteren E eller bedre for å oppnå «bestått» i faget. Skillet mellom «bestått» og «ikke bestått» fremgår dermed av skillet mellom karakteren E og F.
+(4) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:
+
+|  |  |
+| --- | --- |
+| *A* – Fremragende | Fremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| *B* – Meget godt | Meget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| *C* – God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| *D* – Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| *E* – Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| *F* – Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse. |
+| Bestått / Ikke bestått | Ved bruk av en ugradert karakterskala med «bestått» / «ikke bestått», kreves det prestasjoner som tilsvarer karakteren E eller bedre for å oppnå «bestått» i faget. Skillet mellom «bestått» og «ikke bestått» fremgår dermed av skillet mellom karakteren E og F. |
 
 (5) Om sensur:Eksamenskarakterene skal gjøres tilgjengelig for studentene, senest 20 virkedager etter avholdt eksamen. Styret selv skal fatte vedtak om lengre frist dersom det ikke er mulig å skaffe kvalifisert sensor innen denne fristen. Etter fullført og bestått utdanning vil vitnemål bli sendt hjem til studenten. Ved klage vil vitnemålet bli sendt studenten på samme måte, så snart klagebehandling er endelig avsluttet.Fagskolen er ansvarlig for at det oppnevnes sensor(er) etter fullmakt fra styret ved sensur av arbeid som inngår i grunnlaget for karakter på vitnemålet.For å ivareta habilitet, yrkesrelevans og vurderingens egnethet skal det benyttes to sensorer, hvorav en ekstern, alternativt to eksterne sensorer ved bedømmelse av studentenes prestasjoner i eksamen.Ekstern sensor kan ikke være ansatt ved fagskolen eller ha hatt undervisning eller veiledning ved fagskolen inneværende termin.Ekstern sensor skal ha relevant utdanning og/eller yrkeserfaring innen det aktuelle fagområdet.Sensur av eksamen fastsettes i fellesskap av intern og ekstern sensor, alternativt to eksterne sensorer. Dersom det ikke er enighet om en karakter ved bruk av intern og ekstern sensor, skal ekstern sensors vurdering vektlegges. Ved bruk av to eksterne sensorer skal det på forhånd avtales hvilken sensors vurdering som skal vektlegges.Styret kan fastsette utfyllende retningslinjer for sensurering. Fagskolen har fastsatt utfyllende retningslinjer for sensurering i fagskolens kvalitetssystem og studie.
 
@@ -393,6 +407,8 @@ Studenten har rett til å avlegge avsluttende eksamen når hun/han har:Signert/b
 (6) Vedtak som nevnt i punkt 5, kan påklages til Nasjonalt klageorgan for fagskoleutdanning.
 
 ## Kapittel 4. Skikkethet
+
+Med hjemmel i [lov om høyere yrkesfaglig utdanning § 26](lov/2018-06-08-28/§26) og [forskrift om høyere yrkesfaglig utdanning § 26](forskrift/2019-07-11-1005/§26)–[§ 36](forskrift/2019-07-11-1005/§36).
 
 ### § 4-1. Formålet med skikkethetsvurdering
 

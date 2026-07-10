@@ -240,11 +240,17 @@ Dokumentasjon av planene som nevnt i denne paragrafens første og andre ledd ska
 
 ### § 27. Forhold som gjelder helse, miljø og sikkerhet i plan for utbygging og drift (PUD) av petroleumsforekomster og plan for anlegg og drift (PAD) av innretninger for transport og for utnyttelse av petroleum
 
+*1. Felles bestemmelser*
+
 Planer som rettighetshaveren skal utarbeide etter [petroleumsloven § 4-2](lov/1996-11-29-72/§4-2) og [§ 4-3](lov/1996-11-29-72/§4-3), skal inneholde en overordnet redegjørelse for forhold ved den valgte utvinningsstrategien og utbyggingsløsningen. Planene skal sendes til Energidepartementet med kopi til Sokkeldirektoratet og Havindustritilsynet.
 
 Dokumentasjonen som nevnt i første ledd, skal tilpasses utbyggingens eller prosjektets omfang. Redegjørelsen i utbyggingsdelen skal omfattemålene for helse, miljø og sikkerhet og akseptkriteriene for risiko,organisering av prosjektet og prosjektets styringssystemer,operatørens håndtering av grenseflatene mellom deltakerne i utbyggingen og koordineringen og oppfølgingen av deltakernes aktiviteter,forhold som er av betydning for helse, miljø og sikkerhet ved eventuell samordning av petroleumsvirksomhet,framdriften i prosjektet,program for kvalifisering av ny teknologi,en plan for utføring og oppfølging av analyser,en oversikt over fag- eller områdespesifikke dokumenter som kan utdype beskrivelsen i planene,en oversikt over standarder og spesifikasjoner som skal gjelde for utbyggingen,kravene til drift og vedlikehold,planer for helsetjeneste, herunder forebyggende helsetjeneste og kurative tjenester, hygiene og helsemessig beredskap,andre forhold som er av betydning for helse, miljø og sikkerhet.
 
+*2. Petroleumsvirksomhet på land*
+
 I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfattebeskrivelse av lokalisering og arealdisponerings-/situasjonsplan,forslag til areal med rådighetsbegrensning og vurdering av behovet for reguleringsplan eller endring i eksisterende reguleringsplan,opplysninger om hvilke tillatelser og lignende som det er søkt om etter gjeldende lovgivning ellers.
+
+*3. Petroleumsvirksomhet til havs*
 
 I tillegg til dokumentasjonen som nevnt i nr. 1, skal redegjørelsen i utbyggingsdelen av PUD og PAD omfattehovedplanen for bore- og brønnaktiviteter for utvinningsbrønner,en vurdering av utbyggingsløsninger med hensyn til bruk av bemannede undervannsoperasjoner i alle faser av petroleumsvirksomheten,sikkerhetssonene ved utbygging og drift av petroleumsforekomstene,hvordan innretningen kan disponeres ved avslutningen av petroleumsvirksomheten.
 

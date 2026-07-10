@@ -111,3 +111,5 @@ Instruksen gjelder ikke når det i lov eller forskrift, eller med hjemmel i lov 
 ## § 13. Ikrafttredelse. Opphevelse av tidligere instruks
 
 Denne instruksen trer i kraft 1. september 2017. Fra samme tidspunkt oppheves [FOR-2012-06-22-581](forskrift/2012-06-22-581).1
+
+1 Instruks 22. juni 2012 nr. 581 om Forsvarets bistand til politiet, Lovtidend-redaksjonens anmerkning.

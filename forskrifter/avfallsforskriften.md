@@ -28,6 +28,8 @@ Bestemmelser omkasserte elektriske og elektroniske produkter står i kapittel 1m
 
 > Kapittel 1 endret ved [forskrift 2 mai 2005 nr. 406](forskrift/2005-05-02-406) som endret ved [forskrift 27 juni 2006 nr. 754](forskrift/2006-06-27-754) (i kraft 1 juli 2006), [16 des 2015 nr. 1772](forskrift/2015-12-16-1772) (i kraft 1 jan 2016).
 
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 31](lov/1981-03-13-6/§31), [§ 32](lov/1981-03-13-6/§32), [§ 33](lov/1981-03-13-6/§33), [§ 49](lov/1981-03-13-6/§49), [§ 52a](lov/1981-03-13-6/§52a) og [§ 81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785). Jf. EØS-avtalen vedlegg XX nr. 32fa (direktiv [2012/19/EU](eu/32012l0019)).
+
 ### I. Innledende bestemmelser
 
 > Endret ved [forskrift 2 mai 2005 nr. 406](forskrift/2005-05-02-406) som endret ved [forskrift 27 juni 2006 nr. 754](forskrift/2006-06-27-754) (i kraft 1 juli 2006).
@@ -58,19 +60,35 @@ Bestemmelsene i dette kapitlet gjelder ikke for Svalbard og Jan Mayen.
 
 ### § 1-1a. Produktgrupper for EE-produkter og EE-avfall
 
+*1. Varme- og kuldeutstyr*
+
 Som varme- og kuldeutstyr regnes for eksempel kjøleskap, frysere, utstyr til automatisert levering av kalde produkter, klimaanlegg, avfuktningsapparater, varmepumper, varmtvannsberedere, radiatorer som inneholder olje, annet varme- og kuldeutstyr som bruker andre væsker enn vann for varme- og kuldeutveksling og andre produkter og utstyr av lignende art og størrelse.
+
+*2. Skjermer, monitorer og utstyr som inneholder skjermer med en overflate over 100 cm2*
 
 Som skjermer, monitorer og utstyr som inneholder skjermer med en overflate over 100 cm2 regnes for eksempel skjermer, tv-apparater, elektriske og elektroniske fotorammer, monitorer, bærbare datamaskiner, elektriske og elektroniske lesebrett og andre produkter og utstyr av lignende art og størrelse.
 
+*3. Lyskilder*
+
 Som lyskilder regnes for eksempel glødelamper, kompakte lysstoffrør (sparepærer), lysstoffrør, høytrykkslamper, metallhalogenlamper, lavtrykkutsladningslamper, LED og andre produkter og utstyr av lignende art og størrelse.
+
+*4. Andre store produkter hvor en av de ytre mål er over 50 cm*
 
 Som andre store produkter regnes for eksempel følgende produkter hvor et av de ytre målene er over 50 cm: vaskemaskiner, tørketromler, oppvaskmaskiner, elektriske kokeapparater, elektriske komfyrer, lysarmatur, lyd- og bildeutstyr, musikkutstyr, veve- og strikkemaskiner, store datamaskiner og printere, kopiutstyr, elektrisk og elektronisk verktøy, leker, fritids- og sportsutstyr, salgsautomater, medisinsk utstyr, overvåkings- og kontrollinstrumenter, utstyr til produksjon av elektrisk strøm, apparater til automatisert levering av produkter og penger, solcellepanel, andre husholdningsapparater, annet it- og telekommunikasjonsutstyr, andre forbrukerprodukter og andre produkter og utstyr av lignende art. Produktgruppen inkluderer ikke produkter og utstyr som er omfattet av de andre produktgruppene. Produktgruppen deles inn i følgende undergrupper:Store produkter unntatt solcellepanelSolcellepanel.
 
+*5. Andre små produkter hvor lengste ytre mål er under 50 cm*
+
 Som andre små produkter regnes for eksempel følgende produkter hvor et av de ytre målene er under 50 cm: lysarmatur, støvsugere, tepperensere, symaskiner, mikrobølgeovner, ventilasjonsutstyr, strykejern, brødristere, klokker, barbermaskiner, vekter, kalkulatorer, radioapparater, videokamera, hi-fi-utstyr, musikkinstrumenter, lyd- og bildeutstyr, leker, fritids- og sportsutstyr, røykvarslere, termostater, elektrisk og elektronisk verktøy, medisinsk utstyr, overvåkings- og kontrollinstrumenter, utstyr til produksjon av strøm, automatiske dispensere, apparater til automatisert levering av produkter, produkter med innebygd solcellepanel, andre husholdningsapparater, andre forbrukerprodukter og andre produkter og utstyr av lignende art. Produktgruppen inkluderer ikke produkter og utstyr som er omfattet av de andre produktgruppene. Produktgruppen deles inn i følgende undergrupper:Ioniske røykvarslereandre små produkter.
+
+*6. Mindre it- og telekommunikasjonsutstyr hvor lengste ytre mål er under 50 cm*
 
 Som mindre it- og telekommunikasjonsutstyr regnes for eksempel følgende produkter hvor et av de ytre målene er under 50 cm: mobiltelefoner, GPS-er, lommekalkulatorer, routere, datamaskiner, printere, telefoner og andre produkter og utstyr av lignende art.
 
+*7. Stort industrielt utstyr*
+
 Som stort industrielt utstyr regnes for eksempel store stasjonære industrielle verktøy som vinsjer, store fastmonterte installasjoner som heiser og rulletrapper, industrielle maskiner som ikke er veikjørende, transformatorer, store elektromotorer og andre produkter og utstyr av lignende art og størrelse. Produktgruppen inkluderer ikke produkter og utstyr som er omfattet av de andre produktgruppene.
+
+*8. Store industrielle kabler*
 
 Som store kabler regnes for eksempel store isolerte elektriske ledere eller store kabler av lignende art.
 
@@ -236,7 +254,15 @@ Miljødirektoratet kan trekke et returselskaps godkjenning dersom et returselska
 
 Returselskapet skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -486,6 +512,10 @@ Returselskapet skal sørge for å hente og motta en andel av totalt innsamlet me
 
 Innsamlingsforpliktelsen beregnes for hver produktgruppe eller undergruppe der dette finnes, jf. [§ 1-1a](forskrift/2004-06-01-930/§1-1a), slik at:
 
+Hn = Atotn \* Mn + regn-1dern = perioden innsamling av EE-avfall foregår i, ett årHn = innsamlingsforpliktelsen til det enkelte returselskap for hver produktgruppe/undergruppe for periode n. H er mengden EE-avfall som skal hentes og mottas av returselskapet i det geografiske området som medlemmene har satt EE-produkter på markedet (i tonn). H er først kjent når perioden n er over.Atotn = antall tonn EE-avfall som er innsamlet av alle returselskap i perioden n (mengder oppgis av registeret Produsentansvar).Mn = andel av total varetilførsel som returselskapets medlemmer har i periode n. Mn beregnes på bakgrunn av import- og eksporttall fra Toll- og avgiftsdirektoratet og produksjonstall fra returselskapene. Total varetilførsel oppgis av registeret Produsentansvar.regn-1 = etterreguleringsledd for perioden n, beregnet på bakgrunn av innsamlede mengder fra perioden n-1, slik at:
+
+regn-1 = (Hn-1 – An-1 )derAn-1 = antall tonn EE-avfall som er innsamlet av det enkelte returselskap i perioden n-1
+
 Etterreguleringsleddet beregnes for hver produktgruppe eller undergruppe der dette finnes. Etterregulering vedtas av Miljødirektoratet.
 
 Miljødirektoratet kan bestemme at det ikke skal vedtas etterregulerinsledd for en produktgruppe eller undergruppe for en periode dersom Miljødirektoratet finner at etterregulering likevel ikke er hensiktsmessig innenfor en gruppe.
@@ -496,15 +526,21 @@ Miljødirektoratet kan bestemme at det ikke skal vedtas etterregulerinsledd for 
 
 ### Del A: Definisjoner
 
+1\. *Definisjoner*
+
 I dette vedlegg menes med*Avvik;* mangel på oppfylling av krav i dette vedlegg, del C: Manglende oppfyllelse av krav/myndighetskrav som ikke omfattes av del C anses ikke som avvik her.*Sertifiseringsrevisjon;* systematisk og uavhengig undersøkelse for å fastslå om returselskapet har iverksatt effektive systematiske tiltak for å sikre og dokumentere at kriteriene i dette vedleggs del C er oppfylt.*Akkreditering;* offisiell anerkjennelse av en organisasjons kompetanse og evne til å utføre angitte oppgaver i samsvar med gitte krav.*Sertifisering;* tildeling og opprettholdelse av sertifikat som sikrer og dokumenterer oppfyllelse av kriteriene i dette vedleggs del C.
 
 > Tilføyd ved [forskrift 2 mai 2005 nr. 406](forskrift/2005-05-02-406) som endret ved [forskrift 27 juni 2006 nr. 754](forskrift/2006-06-27-754) (i kraft 1 juli 2006), endret ved [forskrift 16 des 2015 nr. 1772](forskrift/2015-12-16-1772) (i kraft 1 jan 2016).
 
 ### Del B: Regler for sertifisering av returselskap
 
+1\. *Krav til etablering av styringssystem og sertifisering*
+
 For å oppnå sertifisering skal returselskap iverksette og vedlikeholde et effektivt styringssystem for å sikre og dokumentere at kravene i dette vedleggs del C er oppfylt.
 
 Returselskap skal inngå skriftlig avtale om sertifisering med et sertifiseringsorgan som oppfyller kravene i punkt 5. Sertifiseringsorganet kan i forbindelse med sertifiseringsprosessen knytte til seg annen ekstern kompetanse.
+
+2\. *Sertifisering*
 
 Sertifiseringsorganene skal gjennomføre sertifiseringsrevisjonene hos returselskapet for å verifisere samsvar med kravene i dette vedleggs del C.
 
@@ -520,23 +556,102 @@ Under revisjonene skal det registreres avvik som sertifiseringsorganet oppsummer
 
 Returselskapet skal sende melding om førstegangssertifisering, fornyelse og periodiske revisjoner av sertifikat med kopi av revisjonsrapport til Miljødirektoratet.
 
+3\. *Klassifisering av avvik fra sertifiseringsrevisjon*
+
 Returselskap skal rette og dokumentere oppfølging av alle avvik.
 
-Kravene i del C er inndelt i tre klasser, med følgende krav til oppfølging:Klasse 1:Avvik rettes innen 60 dager etter at revisjonsrapport er mottatt.Klasse 2:Avvik rettes innen 90 dager etter at revisjonsrapport er mottatt.Klasse 3:Avvik rettes innen utløp av inneværende innsamlingsperiode. Innsamlingsperioden er fra. 1. januar til 31. desember. Dersom avvik gis etter 1. oktober, gis det frist ut påfølgende innsamlingsperiode.
+Kravene i del C er inndelt i tre klasser, med følgende krav til oppfølging:
+
+|  |  |
+| --- | --- |
+| Klasse 1: | Avvik rettes innen 60 dager etter at revisjonsrapport er mottatt. |
+| Klasse 2: | Avvik rettes innen 90 dager etter at revisjonsrapport er mottatt. |
+| Klasse 3: | Avvik rettes innen utløp av inneværende innsamlingsperiode. Innsamlingsperioden er fra. 1. januar til 31. desember. Dersom avvik gis etter 1. oktober, gis det frist ut påfølgende innsamlingsperiode. |
 
 Dersom avvik 2 ikke er rettet innen fristen på 90 dager, skal avviket videre følges opp som for avvik i klasse 1.
 
 Avvik anses som rettet når sertifiseringsorgan skriftlig stadfester dette.
 
+4\. *Tilbaketrekking av sertifikat*
+
 Sertifiseringsorgan skal straks trekke tilbake returselskapets sertifikat dersomendelig frist for retting av avvik i punkt 3 er oversittet med 15 dager.Dersom det ved fristens utløp likevel kun er to eller færre avvik i klasse 1 som ikke er rettet, skal sertifikat først trekkes tilbake når fristen jf. punkt 3 er oversittet med 60 dager, ellerDersom det ved fristens utløp likevel kun er fem eller færre avvik i klasse 2 som ikke er rettet, skal sertifikat først trekkes tilbake når fristen jf. punkt 3 er oversittet med 90 dager.Varsel om tilbaketrekking av sertifikat sendes før utløp av fristene i punkt 3.Miljødirektoratet har gitt melding om at en eller flere av følgende innbetalinger er manglende eller utilstrekkelig fire måneder etter at første frist for innbetaling er oversittet, med henvisning til kriteriene i denne forskrifts del C:midler til dekning av registeret Produsentansvars kostnader jf. kriterium 8.02 og 8.03kollektiv forpliktelse etter kriterium 5.01 og 5.02returselskap legger ned sin virksomhet.
 
 Sertifiseringsorganet skal sende melding om tilbaketrekking av sertifikat til Miljødirektoratet.
+
+5\. *Krav til sertifiseringsorgan som returselskapet benytter*
 
 Sertifiseringsorgan skal:være akkreditert i medhold av [forskrift om begrensning av forurensning kapittel 38](forskrift/2004-06-01-931/kap38) for å utføre kontroll i henhold til [forurensningsloven § 52c](lov/1981-03-13-6/§52c) (EMAS-ordningen). Akkrediteringen må minst omfatte følgende klassifisering av økonomisk virksomhet (NACE-koder) fastsatt ved forordning [(EØF) nr. 3037/90](eu/31990r3037):DN37 – GjenvinningO90 – Avløps- og renovasjonsvirksomhet, ogutføre sertifiseringen av returselskap i tråd med reglene i dette vedlegget, ogvære uavhengig, upartisk og objektiv i utøvelsen av sine oppgaver, ogsikre at organisasjonen og dens personale ikke er utsatt for noe kommersielt, økonomisk eller annet press som kunne tenkes å påvirke deres vurdering eller svekke tilliten til deres uavhengige vurdering og deres integritet i forbindelse med den virksomheten de utøver, ogha til rådighet dokumenterte metoder og framgangsmåter for kontroll, herunder mekanismer for kvalitetskontroll og bestemmelser om fortrolighet, ogbeherske norsk språk skriftlig og muntlig, og ha tilstrekkelig kunnskap om relevant norsk regelverk.
 
 > Endret ved [forskrifter 20 des 2007 nr. 1668](forskrift/2007-12-20-1668) (i kraft 1 jan 2008), [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [16 des 2015 nr. 1772](forskrift/2015-12-16-1772) (i kraft 1 jan 2016), [20 mars 2023 nr. 377](forskrift/2023-03-20-377).
 
 ### Del C: Krav til sertifisering av returselskap
+
+| *Nr.* | *Krav som returselskap systematisk skal sikre og dokumentere oppfyllelse av* | *Hjemmel* | *Avviksklasse* |
+| --- | --- | --- | --- |
+|  | *1. Krav til organisering av returselskap.* |  |  |
+| 1.01 | Registreres som egen enhet i Enhetsregisteret i samsvar med [lov 3. juni 1994 nr. 15 om Enhetsregisteret](lov/1994-06-03-15), atskilt fra annen virksomhet. | [§ 1-13](forskrift/2004-06-01-930/§1-13) | 2 |
+| 1.02 | Føre liste over de produsenter og representanter som er medlem i returselskapet. Listen skal også vise hvilke produktgrupper, jf. [§ 1-1a](forskrift/2004-06-01-930/§1-1a), medlemskapet gjelder. | [§ 1-19](forskrift/2004-06-01-930/§1-19) jf. [§ 1-25](forskrift/2004-06-01-930/§1-25) | 1 |
+| 1.03 | Kollektivt finansiert returselskap skal ha tilgjengelig finansielle reserver som tilsvarer seks måneders drift. | [§ 1-14](forskrift/2004-06-01-930/§1-14) | 2 |
+| 1.04 | Ha et styringssystem som sikrer at alle krav i dette vedlegg oppfylles av returselskapet og dets oppdragstakere med underleverandører. Oppfyllelse av kravene skal dokumenteres, og dokumentasjon skal innhentes fra samtlige oppdragstakere med underleverandører.<br>Ved førstegangssertifisering må returselskapet dokumentere at de vil ha rutiner og systemer som sikrer at innsamling og forsvarlig behandling av EE-avfall vil foregå i tråd med kravene til sertifisering. | Vedlegg 2 del B nr. 1<br>og<br>[internkontrollforskriften § 4](forskrift/1996-12-06-1127/§4) og [§ 5](forskrift/1996-12-06-1127/§5) | 1 |
+|  | *2. Kollektivt finansierte returselskapers plikt til henting og mottak av EE-avfall*. |  |  |
+| 2.01 | Sørge for vederlagsfri henting av EE-avfall fra forhandlere og kommuner. Dersom forhandler mottar mindre enn 1 m3 EE-avfall per måned kan returselskapet kreve at forhandler transporterer avfallet for overlevering på egnet sted i rimelig avstand fra det punkt der avfallet ble mottatt. | [§ 1-14](forskrift/2004-06-01-930/§1-14) | 1 |
+| 2.02 | Ta kontakt med kommuner og forhandlere for å organisere henting av EE-avfall. Det må tas kontakt med et tilstrekkelig antall forhandlere og kommuner til at pliktene i krav 2.04 kan oppfylles. | § 1-14 | 1 |
+| 2.03 | Returselskapet skal sørge for å ha vederlagsfritt mottak av EE-avfall fra virksomheter som genererer EE-avfall som en del av sin drift. Plikten omfatter ikke mottak fra returselskap og virksomheter som driver innsamling eller behandling av EE-avfall. Plikten er begrenset til mottak av tilsvarende type EE-produkter som returselskapets medlemmer setter på markedet, uavhengig av merke eller fabrikat. Mottakspunkt skal ha god geografisk dekning. | [§ 1-14](forskrift/2004-06-01-930/§1-14) | 2 |
+| 2.04 | For hver gruppe av regioner skal returselskapet samle inn en prosentandel av summen av den nasjonale innsamlingsforpliktelsen, jf. Hn i [vedlegg 1](forskrift/2004-06-01-930/vedlegg1) til dette kapittel, for alle produktgruppene, jf. [§ 1-1a](forskrift/2004-06-01-930/§1-1a), unntatt 7 og 8, multiplisert med regionens andel av befolkningen.<br><br>Landet er delt inn i disse gruppene av regioner:<br>1. Troms, Finnmark, Nordland,<br>2. Trøndelag,<br>3. Innlandet,<br>4. Møre og Romsdal, Vestland,<br>5. Rogaland, Agder,<br>6. Vestfold, Telemark, Buskerud, Akershus, Østfold og Oslo.<br><br>For siste kalenderår skal denne prosentandelen være minimum 75 %. For de siste tre kalenderår skal prosentandelen være minimum 90 %.<br><br>I de første 12 månedene et returselskap er i drift reduseres kravet med 15 prosentpoeng.<br><br>Dersom returselskapet koordinerer innsamlingen med andre returselskap, må de koordinerende returselskapenes samlede forpliktelse oppfylles. Miljødirektoratet kan unnta returselskap som deltar i et koordinert samarbeid med andre returselskap fra dette kravet. | § 1-14 | 3 |
+|  | *3. Individuelt finansierte returselskapers plikt til å sikre innsamling av EE-avfall*. |  |  |
+| 3.01 | Etablere og drive innsamlingsordninger som sikrer at minst 90 % for de siste seks månedene av de EE-produktene selskapet har ansvar for returneres til dette returselskapet ved kassering. Ved førstegangssertifisering, reduseres prosentsatsen med 20 prosentpoeng de første seks månedene. | [§ 1-15](forskrift/2004-06-01-930/§1-15) | 2 |
+| 3.02 | Etablere og drive innsamlingsordninger som sikrer at minst 95 % for de siste tre årene av de EE-produktene selskapet har ansvar for returneres til dette returselskapet ved kassering. | [§ 1-15](forskrift/2004-06-01-930/§1-15) | 2 |
+| 3.03 | Ikke kreve at forhandlere eller kommuner vederlagsfritt sorterer ut og/eller overleverer kasserte EE-produkter av et bestemt merke eller fabrikat til returselskapet. Returselskapet kan heller ikke basere sannsynliggjøringen etter krav 3.01 og 3.02 på slik utsortering og/eller overlevering. | [§ 1-15](forskrift/2004-06-01-930/§1-15) | 1 |
+|  | *4. Individuelt finansierte returselskapers plikt til å avsette finansiell garanti*. |  |  |
+| 4.01 | Etablert en tilfredsstillende finansiell garanti i tråd med [§ 1-16](forskrift/2004-06-01-930/§1-16). | [§ 1-16](forskrift/2004-06-01-930/§1-16) | 1 |
+| 4.02 | Disponere nødvendig del av utbetalt garantibeløp til formål omfattet av [§ 1-18](forskrift/2004-06-01-930/§1-18), slik at krav i punkt 3.01 og 3.02 til innsamlingsgrad og krav [§ 1-18](forskrift/2004-06-01-930/§1-18) til behandling blir oppfylt. Dersom utbetalt garantibeløp ikke er tilstrekkelig, må returselskapet dekke kostnadene på annen måte. | [§ 1-16](forskrift/2004-06-01-930/§1-16) | 2 |
+|  | *5. Individuelt finansierte returselskaps plikt til å delta i finansiering av kollektivt finansierte returselskap.* |  |  |
+| 5.01 | Beregne kollektiv forpliktelse, K (i kroner), for hvert enkelt produkt returselskapets medlemmer produserer i Norge eller importerer etter følgende formel $$K = g \\left( 1 - \\frac{n}{2l} \\right)$$ der<br>g = nødvendig garantibeløp i kroner, jf. krav 4.04.<br>n = antall hele år produsenten har vært medlem i dette returselskapet. Medlemskapet må i denne perioden ha dekket all import og innenlands produksjon av tilsvarende EE-produkter.<br>l = den beregnet mest sannsynlige levetid i hele år for produktet (jf. krav 4.03).<br>Dersom K < 0,1g settes K lik 0,1g.<br>Beregnet kollektiv forpliktelse gjelder for et år av gangen, løpende fra den dato importerte produkter er tolldeklarert, eller den dato EE-produkt har forlatt produksjonssted i Norge. | [§ 1-17](forskrift/2004-06-01-930/§1-17) | 1 |
+|  | *6. Forsvarlig innsamling, transport og behandling av EE-avfall*. |  |  |
+| 6.01 | Returselskapet skal sørge for at EE-avfall innsamles, transporteres, og behandles forsvarlig i tråd med gjeldende regelverk, og av aktører som har de nødvendige tillatelser. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 1 |
+| 6.02 | Returselskapet skal sørge for at innsamling og transport foregår på en slik måte at muligheten for ombruk, materialgjenvinning og utsortering av komponenter med farlige stoffer i EE-avfallet ikke reduseres. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 2 |
+| 6.03 | EE-avfall skal forberedes til ombruk og materialgjenvinnes der dette etter en avveining av miljøhensyn, ressurshensyn og økonomiske forhold er berettiget, hvor forberedelse til ombruk prioriteres foran materialgjenvinning. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 2 |
+| 6.04 | Returselskapet skal sørge for at eksport av EE-avfall som har opphørt å være avfall følger reglene om grensekryssende forsendelse av brukte EE-produkter i [§ 1-24](forskrift/2004-06-01-930/§1-24). | [§ 1-18](forskrift/2004-06-01-930/§1-18) og [§ 1-24](forskrift/2004-06-01-930/§1-24) | 1 |
+| 6.05 | EE-avfall som kan inneholde personopplysninger skal håndteres slik at denne type data ikke kan komme på avveie. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 2 |
+| 6.06 | Returselskapet skal sørge for at grensekryssende forsendelser av avfall foregår i tråd med kapittel 13 og rådsforordning [1013/2006](eu/32006r1013*). Returselskapet skal sikre at det foreligger samtykke og transportdokument eller eventuelt følgeskjema til grønnlistet avfall. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 1 |
+| 6.07 | Returselskapet skal sørge for at deres oppdragstakere med underleverandører oppfyller kravene i 6.01 til 6.15. Dette gjelder frem til avfallet er endelig gjenvunnet eller sluttbehandlet og uavhengig av om behandlingen finner sted i Norge eller i et annet land. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 1 |
+| 6.08 | Returselskapet skal sørge for at behandlere har tilstrekkelig kompetanse til å oppfylle kravene til behandling i dette kapittel, herunder om innholdet av farlige stoffer og komponenter i EE-avfall og hvor disse er plassert. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 2 |
+| 6.09 | Returselskapet skal sørge for at hvert behandlingsanlegg rapporterer tilbake til returselskapet at EE-avfallet er behandlet som angitt i krav 6.01 til 6.03, 6.05, 6.07, 6.13 til 6.15 og 7.01 til 7.04. | [§ 1-18](forskrift/2004-06-01-930/§1-18) | 1 |
+| 6.10 | Behandling skal skje ved bruk av de beste tilgjengelige teknikker. | [§ 1-22](forskrift/2004-06-01-930/§1-22) | 2 |
+| 6.11 | EE-avfall skal lagres og behandles på plasser med tett dekke, nødvendig anlegg for oppsamling og rensing av overvann, og nødvendig tak eller annet klimavern. Dette gjelder uavhengig av andre krav i behandlingsanleggets eventuelle tillatelse fra nasjonale myndigheter. | [§ 1-22](forskrift/2004-06-01-930/§1-22) | 2 |
+| 6.12 | EE-avfall skal registreres inn og ut fra behandlingsanlegget med vekt målt i kilogram. | [§ 1-22](forskrift/2004-06-01-930/§1-22) | 2 |
+| 6.13 | Ved behandling av EE-avfall, unntatt ved forberedelse til ombruk, skal alle væsker fjernes som et første trinn i behandlingsprosessen og inngå i en identifiserbar materialstrøm, eller i en identifiserbar del av en materialstrøm. | [§ 1-22](forskrift/2004-06-01-930/§1-22) | 2 |
+| 6.14 | Ved behandling av EE-avfall, unntatt ved forberedelse til ombruk, skal følgende materialer, blandinger og komponenter fjernes manuelt som et første trinn i behandlingsprosessen, med mindre det kan dokumenteres minst like god miljømessig forsvarlig behandling ved en mekanisk, kjemisk eller metallurgisk prosess, og inngå i en identifiserbar materialstrøm, eller i en identifiserbar del av en materialstrøm: | [§ 1-22](forskrift/2004-06-01-930/§1-22) |  |
+|  | a. Kondensatorer eller andre komponenter som inneholder PCB eller PCT |  | 1 |
+|  | b. Kvikksølvholdige komponenter, slik som brytere og lyskilder for bakgrunnsbelysning. |  | 1 |
+|  | c. Batterier. |  | 2 |
+|  | d. Tonerkassetter og fargetoner. |  | 2 |
+|  | e. Asbest og komponenter som inneholder asbest. |  | 1 |
+|  | f. Andre gassutladningslamper enn de nevnt under pkt. b). Kvikksølv skal fjernes fra gassutladningslampene. |  | 2 |
+|  | g. Komponenter i EE-avfall som inneholder ildfaste keramiske fibre. |  | 2 |
+|  | h. Komponenter i EE-avfall som inneholder radioaktive kilder, slik som røykvarslere. |  | 1 |
+|  | i. Beryllium. |  | 1 |
+|  | j. Kretskort. |  | 1 |
+|  | k. Plast med bromerte flammehemmere. |  | 1 |
+|  | l. Billedrør/katodestrålerør. Det fluoriserende belegget skal fjernes. |  | 1 |
+|  | m. Klorfluorkarboner (KFK), hydroklorfluorkarboner (HKFK) eller hydrofluorkarboner (HFK), og andre gasser som virker nedbrytende på ozonlaget eller har et globalt oppvarmingspotensial (GWP) på over 15. Gassene skal tas ut og behandles forsvarlig og i tråd med [produktforskriften kapittel 6](forskrift/2004-06-01-922/kap6) regulering av ozonreduserende stoffer og kapittel 6a regulering av fluorholdige stoffer. |  | 1 |
+|  | n. LCD-skjermer større en 100 cm2 . Alle LCD-skjermer som er bakgrunnsbelyst med lysrør/gassutladningslamper. |  | 1 |
+|  | o. Eksterne elektriske kabler. |  | 1 |
+|  | p. Kondensatorer med høyde over 25 mm, diameter over 25 mm eller tilsvarende volum, og som inneholder miljøskadelige stoffer. |  | 2 |
+| 6.15 | Behandlere skal vurdere om EE-avfall kan inneholde andre materialer, blandinger og komponenter som er farlig avfall enn de som er listet i 6.14. EE-avfall, inkludert materialer, blandinger og komponenter i EE-avfall, som er farlig avfall eller radioaktivt avfall, skal håndteres i tråd med denne forskrifts kapittel 11 og kapittel 16. | [§ 1-22](forskrift/2004-06-01-930/§1-22) og avfallsforskriften kapittel 11 | 1 |
+|  | 7. *Gjenvinningsandeler* |  |  |
+| 7.01 | For EE-avfall i produktgruppe 1 og 4 skal årlig minst 85 % av innsamlet mengde avfall gjenvinnes, hvorav minst 80 % av avfallet skal forberedes til ombruk eller materialgjenvinnes. | [§ 1-18a](forskrift/2004-06-01-930/§1-18a) | 2 |
+| 7.02 | For EE-avfall i produktgruppe 2 skal minst 80 % av innsamlet mengde avfall gjenvinnes, hvorav minst 70 % av avfallet skal forberedes til ombruk eller materialgjenvinnes. | [§ 1-18a](forskrift/2004-06-01-930/§1-18a) | 2 |
+| 7.03 | For EE-avfall i produktgruppe 5 og 6 skal minst 75 % av innsamlet mengde avfall gjenvinnes, hvorav minst 55 % av avfallet skal forberedes til ombruk eller materialgjenvinnes. | [§ 1-18a](forskrift/2004-06-01-930/§1-18a) | 2 |
+| 7.04 | For EE-avfall i produktgruppe 3 skal minst 80 % av innsamlet mengde avfall materialgjenvinnes. | [§ 1-18a](forskrift/2004-06-01-930/§1-18a) | 2 |
+| 7.05 | For punkt 8.01 til 8.05 skal følgende formler benyttes:<br>Formel for beregning av materialgjenvinning og forberedelse til ombruk: E = [(A + B )/D] \* 100<br>Formel for beregning av gjenvinning:<br>F = [(A + B + C)/D] \* 100<br>der<br>E = andel materialgjenvunnet og forberedt til ombruk av total vektmengde EE-avfall behandlet, angitt i prosent<br>F = andel gjenvunnet av total vektmengde EE-avfall behandlet, angitt i prosent<br>A = vektmengde EE-avfall materialgjenvunnet<br>B = vektmengde EE-avfall forberedt til ombruk<br>C = vektmengde EE-avfall energiutnyttet<br>D = vektmengde EE-avfall innsamlet | Vedlegg 4 jf. [§ 1-18a](forskrift/2004-06-01-930/§1-18a) | 2 |
+|  | 8. *Avfallsregnskap* |  |  |
+| 8.01 | Returselskapet skal føre regnskap over innsamlet mengde EE-avfall fordelt på produktgrupper med undergrupper, og videre fordelt på kommune. Innenfor hver kommune skal innsamlet mengde fordeles på forhandler, kommunalt mottak og andre innsamlingspunkt. | [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
+| 8.02 | Returselskapet skal føre regnskap over behandlet mengde EE-avfall, herunder EE-avfall forberedt til ombruk, fordelt på produktgrupper med undergrupper og videre fordelt på behandlingsmetode og land, | [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
+| 8.03 | Returselskapet skal føre regnskap over behandlet mengde EE-avfall inn og ut av alle behandlingsanlegg. Regnskapet skal vise EE-avfall fordelt på komponenter, blandinger og materialer og videre fordelt på behandlingsmetode, behandlingsanlegg og land. Regnskapet skal vise hvilke komponenter, blandinger og materialer som er fjernet i henhold til [§ 1-22](forskrift/2004-06-01-930/§1-22) tredje til femte ledd, hvilke komponenter, blandinger og materialer som er utsortert for gjenvinning og hvordan øvrig avfall er behandlet. | [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
+| 8.04 | Returselskapet skal føre regnskap over oppnådde gjenvinningsandeler, jf. [§ 1-18a](forskrift/2004-06-01-930/§1-18a). | [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
+| 8.05 | Ved dokumentering av datagrunnlag og andre bilag til regnskapet i punkt 8.01 til 8.05 skal dokumentasjon innhentes fra samtlige behandlere, fra første behandler og frem til avfallet er endelig gjenvunnet eller sluttbehandlet. | [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
+| 8.06 | For punkt 8.01 til 8.06 skal det så langt som mulig brukes reelle vektmengder. Fordelingsnøkler og snittvekt kan brukes dersom det vil være uforholdsmessig byrdefullt å bruke reelle vektmengder. For materialer og komponenter som er farlig avfall skal det brukes reelle vektmengder. | Vedlegg 4 jf. [§ 1-18b](forskrift/2004-06-01-930/§1-18b) | 1 |
 
 > Tilføyd ved [forskrift 2 mai 2005 nr. 406](forskrift/2005-05-02-406) som endret ved [forskrift 27 juni 2006 nr. 754](forskrift/2006-06-27-754) (i kraft 1 juli 2006), endret ved [forskrifter 17 juli 2006 nr. 934](forskrift/2006-07-17-934), [20 des 2007 nr. 1668](forskrift/2007-12-20-1668) (i kraft 1 jan 2008), [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [16 des 2015 nr. 1772](forskrift/2015-12-16-1772) (i kraft 1 jan 2016), [16 des 2015 nr. 1773](forskrift/2015-12-16-1773) (i kraft 15 aug 2018, jf. [vedtak 15 aug 2018 nr. 1240](forskrift/2018-08-15-1240)), [28 juni 2021 nr. 2311](forskrift/2021-06-28-2311), [20 mars 2023 nr. 377](forskrift/2023-03-20-377), [1 mai 2024 nr. 803](forskrift/2024-05-01-803).
 
@@ -570,13 +685,30 @@ For revisjon etter del A og B skal returselskapet som et minimum gi revisor:tilg
 
 ### Vedlegg 4. Krav til beregning av gjenvinningsandeler og beregningsmetoder for avfallsregnskap mv.
 
+1\. *Beregning av materialgjenvunnet mengde*
+
 Materialgjenvunnet mengde EE-avfall skal måles som vekten av materialer som etter korrekt behandling i tråd med [§ 1-22](forskrift/2004-06-01-930/§1-22), tilføres en prosess for materialgjenvinning.
 
 For avfallsmaterialer og materialgjenvinningsprosesser som er angitt i tabell 1, skal målepunktene angitt i tabellen legges til grunn ved beregning av materialgjenvunnet mengde EE-avfall.
 
 Materialer som fjernes ved forberedende aktiviteter, slik som sortering, demontering, fragmentering eller annen behandling, og som ikke skal tilføres en videre prosess for materialgjenvinning, skal ikke inngå i beregningen av materialgjenvunnet mengde EE-avfall. Avfallsmaterialer som opphører å være avfall som resultat av en forberedende aktivitet på målepunkt som fremgår av tabell 1, skal likevel inngå i beregningen av materialgjenvunnet mengde EE-avfall.
 
-Materialer som fjernes ved forbehandling på materialgjenvinningsanlegg og som ikke materialgjenvinnes, skal heller ikke inngå i beregningen av mengden EE-avfall som er materialgjenvunnet av anlegget.Tabell 1: Målepunkter hvor avfallsmaterialer tilføres en prosess for materialgjenvinning.*Materiale**Målepunkter*GlassSortert glass som ikke gjennomgår ytterligere bearbeiding før det går inn i en glassovn eller brukes til produksjon av filtreringsmedier, slipemidler, glassbasert isolasjon og byggematerialer.MetallerSortert metall som ikke gjennomgår ytterligere bearbeiding før går inn i en smelteovn eller masovn.PlastPlast som er sortert etter polymerer, som ikke gjennomgår ytterligere bearbeiding før den går inn i pelleterings-, ekstruderings- eller formingsoperasjoner.Plastflak som ikke gjennomgår ytterligere bearbeiding før de brukes i et sluttprodukt.TreSortert tre som ikke gjennomgår ytterligere bearbeiding før det brukes til framstilling av sponplater.Sortert tre som går inn i en komposteringsprosess.TekstilerSorterte tekstiler som ikke gjennomgår ytterligere bearbeiding før de brukes til framstilling av tekstilfibre, kluter eller granulater.Komponenter fra EE-avfall som består av flere materialerMetall, plast, glass, tre, tekstiler og andre materialer som framkommer ved behandlingen av komponenter fra EE-avfall (f.eks. materialer fra behandlingen av kretskort) som materialgjenvinnes.
+Materialer som fjernes ved forbehandling på materialgjenvinningsanlegg og som ikke materialgjenvinnes, skal heller ikke inngå i beregningen av mengden EE-avfall som er materialgjenvunnet av anlegget.
+
+Tabell 1: Målepunkter hvor avfallsmaterialer tilføres en prosess for materialgjenvinning.
+
+| *Materiale* | *Målepunkter* |
+| --- | --- |
+| Glass | Sortert glass som ikke gjennomgår ytterligere bearbeiding før det går inn i en glassovn eller brukes til produksjon av filtreringsmedier, slipemidler, glassbasert isolasjon og byggematerialer. |
+| Metaller | Sortert metall som ikke gjennomgår ytterligere bearbeiding før går inn i en smelteovn eller masovn. |
+| Plast | Plast som er sortert etter polymerer, som ikke gjennomgår ytterligere bearbeiding før den går inn i pelleterings-, ekstruderings- eller formingsoperasjoner. |
+|  | Plastflak som ikke gjennomgår ytterligere bearbeiding før de brukes i et sluttprodukt. |
+| Tre | Sortert tre som ikke gjennomgår ytterligere bearbeiding før det brukes til framstilling av sponplater. |
+|  | Sortert tre som går inn i en komposteringsprosess. |
+| Tekstiler | Sorterte tekstiler som ikke gjennomgår ytterligere bearbeiding før de brukes til framstilling av tekstilfibre, kluter eller granulater. |
+| Komponenter fra EE-avfall som består av flere materialer | Metall, plast, glass, tre, tekstiler og andre materialer som framkommer ved behandlingen av komponenter fra EE-avfall (f.eks. materialer fra behandlingen av kretskort) som materialgjenvinnes. |
+
+2\. *Beregning av forberedelse til ombruk*
 
 Mengden EE-avfall som er forberedt til ombruk skal måles som vekten av hele enheten eller komponenten som er kassert og som etter kontroll, rengjøring eller reparasjon kan ombrukes uten ytterligere sortering eller forbehandling.
 
@@ -584,13 +716,17 @@ Dersom hele enheten forberedes til ombruk, og det kun er komponenter som samlet 
 
 Enheter og komponenter som sorteres på behandlingsanlegg for EE-avfall og som skal ombrukes uten ytterligere sortering eller forbehandling, skal også inngå i beregning av mengde EE-avfall forberedt til ombruk.
 
+3\. *Beregning av gjenvinningsandeler*
+
 Gjenvinningsandel skal beregnes som forholdet mellom innsamlet og gjenvunnet mengde EE-avfall. For behandlere som skal oppnå gjenvinningsandeler i [§ 1-18](forskrift/2004-06-01-930/§1-18) jf. [§ 1-22](forskrift/2004-06-01-930/§1-22) og som skal føre regnskap jf. [§ 1-23](forskrift/2004-06-01-930/§1-23), skal mengde EE-avfall som de er første mottaker av anses som innsamlet mengde EE-avfall i denne beregningen.
 
 Ved beregning av gjenvinningsandeler skal følgende formler benyttes:
 
-Formel for beregning av materialgjenvinning og forberedelse til ombruk skal være:E = [(A + B)/D] * 100
+Formel for beregning av materialgjenvinning og forberedelse til ombruk skal være:E = [(A + B)/D] \* 100
 
-Formel for beregning av gjenvinning skal være:F = [(A + B + C)/D] * 100derE = andel materialgjenvunnet og forberedt til ombruk av total vektmengde EE-avfall behandlet, angitt i prosentF = andel gjenvunnet av total vektmengde EE-avfall behandlet, angitt i prosentA = vektmengde EE-avfall materialgjenvunnetB = vektmengde EE-avfall forberedt til ombrukC = vektmengde EE-avfall energiutnyttetD = vektmengde EE-avfall innsamlet
+Formel for beregning av gjenvinning skal være:F = [(A + B + C)/D] \* 100derE = andel materialgjenvunnet og forberedt til ombruk av total vektmengde EE-avfall behandlet, angitt i prosentF = andel gjenvunnet av total vektmengde EE-avfall behandlet, angitt i prosentA = vektmengde EE-avfall materialgjenvunnetB = vektmengde EE-avfall forberedt til ombrukC = vektmengde EE-avfall energiutnyttetD = vektmengde EE-avfall innsamlet
+
+4\. *Bruk av fordelingsnøkler og snittvekter*
 
 Det skal så langt som mulig brukes reelle vektmengder. Fordelingsnøkler og snittvekt kan brukes dersom det vil være uforholdsmessig byrdefullt å bruke reelle vektmengder. For materialer og komponenter som er farlig avfall skal det brukes reelle vektmengder.
 
@@ -599,6 +735,8 @@ Det skal så langt som mulig brukes reelle vektmengder. Fordelingsnøkler og sni
 ## Kapittel 2. Kommunenes ansvar for mindre fritidsbåter
 
 > Opphevet fra 1 juli 2006, jf. [forskrift 2 mai 2005 nr. 406](forskrift/2005-05-02-406). Kapitlet tilføyd ved [forskrift 5 sep 2017 nr. 1361](forskrift/2017-09-05-1361) (i kraft 1 okt 2017).
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 29](lov/1981-03-13-6/§29).
 
 ### § 2-1. Formål
 
@@ -623,6 +761,8 @@ Kommunen skal sørge for at mindre fritidsbåter som er avfall kan leveres veder
 ## Kapittel 3. Kasserte batterier
 
 > Hele kapittel 3 endret ved [forskrift 24 okt 2012 nr. 989](forskrift/2012-10-24-989).
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 32](lov/1981-03-13-6/§32) og [§ 33](lov/1981-03-13-6/§33). Jf. [EØS-avtalen vedlegg II kapittel XV](avtale/avt-1992-05-02-1-v2/kapXV) nr. 12x (direktiv [2006/66/EF](eu/32006l0066*) endret ved direktiv [2008/103/EF](eu/32008l0103)), nr. 12zh (vedtak [2008/763/EF](eu/32008d0763)) og nr. 12zt (vedtak [2009/603](eu/32009d0603)).
 
 ### I. Innledende bestemmelser
 
@@ -820,7 +960,11 @@ Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger, fører ti
 
 Nedenfor gjengis [EØS-avtalen vedlegg II kapittel XV](avtale/avt-1992-05-02-1-v2/kapXV) nr. 12zzi (forordning [(EU) nr. 493/2012](eu/32012r0493)) slik Klima- og miljødepartementet tolker denne delen av [EØS-avtalen](lov/1992-11-27-109/eøsl) med de tilpasninger som følger av vedlegg II kapittel XV, protokoll 1 til avtalen og avtalen for øvrig.
 
+For å lese forordning [(EU) nr. 493/2012 i](eu/32012r0493) se her: [(pdf)](static/SF/32012r0493u.pdf)
+
 ## Kapittel 4. Kasserte kjøretøy
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 29](lov/1981-03-13-6/§29) og [§ 33](lov/1981-03-13-6/§33). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32e (direktiv [2000/53/EF](eu/32000l0053) endret ved vedtak [2002/525/EF](eu/32002d0525*)), nr. 32eb (vedtak [2002/151/EF](eu/32002d0151)) og nr. 32ec (vedtak [2003/138/EF](eu/32003d0138)).
 
 ### I. Innledende bestemmelser
 
@@ -878,7 +1022,15 @@ Enhver kan etablere og drive retursystem for kasserte kjøretøy.
 
 Retursystemet skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -1026,8 +1178,12 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 
 ### Vedlegg 1. Tekniske minimumskrav til behandlingsanlegg for kasserte kjøretøy, jf. [§ 4-7](forskrift/2004-06-01-930/§4-7)
 
+*1. Områder for lagring (inkludert midlertidig) av kasserte kjøretøy før behandling skal være utstyrt med*
+
 - fast, ugjennomtrengelig dekke på passende areal med oppsamlingsløsning eller sandfang og oljeutskiller,
 - utstyr for behandling av avløpsvann i henhold til tillatelse eller tillatelse til overføring av avløp til godkjent anlegg.
+
+*2. Områder for miljøsanering og forberedelse til videre behandling skal være utstyrt med*
 
 - fast, ugjennomtrengelig dekke på passende areal med oppsamlingsløsning eller sandfang og oljeutskiller,
 - passende arealer for demonterte komponenter, herunder arealer med fast dekke for oppbevaring av oljeforurensede deler som kan benyttes om igjen,
@@ -1035,16 +1191,26 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 - passende lagertanker til særskilt oppbevaring av væsker fra kasserte kjøretøy: drivstoff, olje, frostvæske, kuldemedier, bremsevæske og eventuelle andre væsker som finnes i det kasserte kjøretøyet,
 - utstyr for behandling av avløpsvann i henhold til tillatelse eller tillatelse til overføring av avløp til godkjent anlegg.
 
+*3. Krav til miljøsanering. For å redusere mulige forurensninger under videre behandling skal det foretas*
+
 - demontering av batteri og tanker for flytende gass,
 - demontering eller nøytralisering av mulig eksplosive komponenter (for eksempel kollisjonsputer og beltestrammere),
 - demontering av oljefiltre,
 - tapping og separat oppsamling av drivstoff, olje, frostvæske, kuldemedier, bremsevæske, samt alle andre væsker i kasserte kjøretøy med mindre de er nødvendige for ombruk av de aktuelle komponenter,
 - demontering av kvikksølvholdige komponenter, der det er mulig.
 
+*4. Krav til miljøsanering. For å fremme gjenvinning skal det foretas*
+
 - demontering av katalysatorer,
 - demontering av dekk,
 - demontering av metallkomponenter som inneholder kobber, aluminium og magnesium, med mindre disse metaller skilles ut i den etterfølgende fragmenteringen,
 - demontering av glass og større plastkomponenter med mindre disse materialer skilles ut i den etterfølgende fragmenteringen.
+
+5\. Oppbevaring og behandling skal utføres på en slik måte at det i størst mulig grad unngås skader på komponenter som inneholder væsker eller på komponenter og deler som kan gjenvinnes.
+
+*6. Materialer og komponenter som omfattes av [forskrift 1. juni 2004 nr. 922 om begrensning i bruk av helse- og miljøfarlige kjemikalier og andre produkter (produktforskriften) § 2-19](forskrift/2004-06-01-922/§2-19/ledd/3) tredje ledd, og som skal fjernes fra det kasserte kjøretøyet før videre behandling, jf. [§ 4-7](forskrift/2004-06-01-930/§4-7)*
+
+*Komponenter som inneholder bly og blyforbindelser*
 
 1. Batterier
 2. Blylodd for vibrasjonsdemping
@@ -1052,12 +1218,24 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 4. Kobber i bremsebelegg som inneholder mer enn 0,4 vektprosent bly
 5. Elektriske komponenter som inneholder bly bundet i glass eller keramisk materiale unntatt glass i lyspærer og tennplugger som er glassert 2
 
+*Komponenter som inneholder seksverdig krom*
+
 1. Absorpsjonskjøleapparat i motorisert husvogn (campingbil)
+
+*Komponenter som inneholder kvikksølv*
 
 1. Utladningslamper og instrumentbelysning
 
+*Komponenter som inneholder kadmium*
+
 1. Batterier for elektriske kjøretøy
 2. Optiske komponenter i glassmatrikser brukt til førerassistansesystemer
+
+1 Skal demonteres dersom en gjennomsnittlig terskelverdi på 60 gram bly og blyforbindelser pr. kjøretøy overskrides. Ved bruk av denne bestemmelsen regnes elektrisk utstyr som ikke er installert av fabrikkens produksjonslinje, ikke med.
+
+2 Skal demonteres dersom en gjennomsnittlig grenseverdi på 60 gram bly og blyforbindelser pr. kjøretøy overskrides. Ved bruk av denne bestemmelsen regnes elektrisk utstyr som ikke er installert av fabrikkens produksjonslinje, ikke med.
+
+*Merknader:*
 
 - maksimum konsentrasjonsverdi opptil 0,1 vektprosent og pr. ensartet materiale for bly, seksverdig krom og kvikksølv og opptil 0,01 vektprosent pr. ensartet materiale for kadmium skal godtas.
 - Gjenbruk av deler til kjøretøy som allerede er på markedet ved utløpsdatoen for tungmetallunntaket er tillatt uten begrensninger fordi denne bruk ikke dekkes av forbudet i [produktforskriftens § 2-19](forskrift/2004-06-01-922/§2-19).
@@ -1075,7 +1253,11 @@ Frem til 1. januar 2007 gjelder [§ 4-4](forskrift/2004-06-01-930/§4-4) bare fo
 7. Kjøretøyets identifikasjonsnummer (understellsnummer//chassisnummer).
 8. Navn, adresse og nasjonalitet på den som leverer kjøretøyet eller eieren, samt dennes underskrift.
 
+1 Dette krav kan fravikes, dersom det som følge av at registreringssystemet er elektronisk, ikke finnes et registreringsdokument i papirform.
+
 ## Kapittel 5. Innsamling og gjenvinning av kasserte dekk
+
+Fastsatt med hjemmel i [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4](lov/1976-06-11-79/§4).
 
 ### § 5-1. Formål
 
@@ -1140,6 +1322,9 @@ Når særlige grunner foreligger kan Miljødirektoratet redusere eller frafalle 
 ## Kapittel 6. Retursystemer for emballasje til drikkevarer
 
 > Endret ved forskrift [18 juni 2025 nr. 1128](forskrift/2025-06-18-1128) (i kraft 1 juli 2025).
+
+Fastsatt med hjemmel i [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4](lov/1976-06-11-79/§4), jf. [forskrift 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester](forskrift/1977-08-05-2) og [delegeringsvedtak 7. september 1990 nr. 730](forskrift/1990-09-07-730), [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 31](lov/1981-03-13-6/§31), [§ 32](lov/1981-03-13-6/§32), [§ 33](lov/1981-03-13-6/§33), [§ 49](lov/1981-03-13-6/§49), [§ 52a](lov/1981-03-13-6/§52a), [§ 63](lov/1981-03-13-6/§63) og [§ 81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785) og [lov 25. juni 2024 nr. 69 om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven) § 4](lov/2024-06-25-69/§4) og [§ 6 fjerde ledd](lov/2024-06-25-69/§6/ledd/4), jf. [delegeringsvedtak 20. desember 2024 nr. 3500](forskrift/2024-12-20-3500).
+**EØS-henvisninger**: [EØS-avtalen vedlegg II kap. XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 7 (direktiv [1994/62/EF](eu/31994l0062) som endret ved direktiv [2004/12/EF](eu/32004l0012), direktiv [2005/20/EF](eu/32005l0020), direktiv [2013/2/EU](eu/32013l0002) og direktiv [(EU) 2018/852](eu/32018l0852)), [EØS-avtalen vedlegg XX kap. V](avtale/avt-1992-05-02-1-v20/kapV) nr. 32ff (direktiv [(EU) 2018/851](eu/32018l0851)) og [EØS-avtalen vedlegg II kap. XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 9d (direktiv [(EU) 2019/904](eu/32019l0904)).
 
 ### § 6-1. Virkeområde
 
@@ -1237,7 +1422,15 @@ Miljødirektoratet fører tilsyn med at bestemmelsene i dette kapitlet og vedtak
 
 Retursystemet skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -1278,6 +1471,9 @@ Når særlige grunner foreligger kan Miljødirektoratet redusere eller frafalle 
 ## Kapittel 7. Emballasje og emballasjeavfall
 
 > Kapittel 7 opphevet ved [forskrift 4 mai 2015 nr. 496](forskrift/2015-05-04-496) (i kraft 31 des 2015), tilføyd igjen ved [forskrift 23 aug 2017 nr. 1289](forskrift/2017-08-23-1289) (i kraft 1 sep 2017), endret ved [forskrifter 18 mai 2022 nr. 988](forskrift/2022-05-18-988), [18 juni 2025 nr. 1129](forskrift/2025-06-18-1129) (i kraft 1 juli 2025).
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 31](lov/1981-03-13-6/§31), [§ 32](lov/1981-03-13-6/§32), [§ 33](lov/1981-03-13-6/§33), [§ 49](lov/1981-03-13-6/§49), [§ 52a](lov/1981-03-13-6/§52a), [§ 63](lov/1981-03-13-6/§63), [§ 80](lov/1981-03-13-6/§80) og [§ 81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785), [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4](lov/1976-06-11-79/§4), jf. [forskrift 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester](forskrift/1977-08-05-2) og [delegeringsvedtak 7. september 1990 nr. 730](forskrift/1990-09-07-730) og [lov 25. juni 2024 nr. 69 om bærekraftige produkter og verdikjeder (bærekraftige produkter-loven) § 4](lov/2024-06-25-69/§4), [§ 6 fjerde ledd](lov/2024-06-25-69/§6/ledd/4) og [§ 14 første ledd bokstav a](lov/2024-06-25-69/§14/ledd/1/bokstav/a), jf. [delegeringsvedtak 20. desember 2024 nr. 3500](forskrift/2024-12-20-3500).
+**EØS-henvisninger**: [EØS-avtalen vedlegg II kap. XVII nr. 7](avtale/avt-1992-05-02-1-v2/kapXVII/nummer/7) (direktiv [1994/62/EF](eu/31994l0062) som endret ved direktiv [2004/12/EF](eu/32004l0012), direktiv [2005/20/EF](eu/32005l0020), direktiv [2013/2/EU](eu/32013l0002), direktiv [(EU) 2018/852](eu/32018l0852)), [EØS-avtalen vedlegg II kap. XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 7e (beslutning [(EU) 2019/665](eu/32019d0665)), [EØS-avtalen vedlegg XX kap. V](avtale/avt-1992-05-02-1-v20/kapV) nr. 32ff direktiv [(EU) 2018/851](eu/32018l0851)) og [EØS-avtalen vedlegg II kap. XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 9d (direktiv [(EU) 2019/904](eu/32019l0904)).
 
 ### I. Innledende bestemmelser
 
@@ -1513,7 +1709,15 @@ Miljødirektoratet fører tilsyn med at bestemmelsene i dette kapitlet og vedtak
 
 Produsentansvarsselskapet skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -1559,13 +1763,23 @@ Miljødirektoratet kan ved overtredelse av [§ 7-5 første ledd](forskrift/2004-
 
 ### A. Målepunkter som gjelder for visse emballasjeavfallsmaterialer
 
+| *Emballasjemateriale* | *Målepunkt/Beregningspunkt* |
+| --- | --- |
+| Glass | Sortert glass som ikke gjennomgår ytterligere bearbeiding før innmating i en glassovn eller før det brukes til produksjon av filtreringsmedier, slipemidler, glassfiberisolasjon og byggematerialer. |
+| Metaller | Sortert metall som ikke gjennomgår ytterligere bearbeiding før innmating i en smelteovn eller masovn. |
+| Papir/papp | Sortert papir som ikke gjennomgår ytterligere bearbeiding før innmating i en masseprosess. |
+| Plast | Plast, sortert etter polymer, som ikke gjennomgår ytterligere bearbeiding før den går inn i pelleterings-, ekstruderings- eller formingsoperasjoner.<br>Plastflak som ikke gjennomgår ytterligere bearbeiding før de brukes i et sluttprodukt. |
+| Tre | Sortert tre som ikke gjennomgår ytterligere bearbeiding før det brukes til framstilling av sponplater eller andre produkter.<br>Sortert tre som går inn i en komposteringsoperasjon. |
+| Tekstiler | Sorterte tekstiler som ikke gjennomgår ytterligere bearbeiding før de brukes til framstilling av tekstilfibrer, kluter eller granulater. |
+| Komposittemballasje og emballasje som består av flere materialer | Plast, glass, metall, tre, papir og papp samt andre materialer som framkommer ved behandling av komposittemballasje eller av emballasje som består av flere materialer, som ikke gjennomgår ytterligere bearbeiding før de når beregningspunktet fastsatt for det spesifikke materialet. |
+
 ### B. Metode for beregning av materialgjenvunnet mengde metallemballasje etter utsortering fra bunnaske i forbrenningsanlegg
 
-1. Følgende definisjoner skal gjelde i forbindelse med formlene i dette vedlegget:\(m_{\text{total IBA Fe}/Al}\)den samlede massen av jernholdige metaller eller aluminium i bunnasken fra avfallsforbrenning i et gitt år,\(m_{\text{IBA Fe}/\text{nFe concentrates}}\)massen av konsentrat av jernholdig metall eller konsentrat av ikke-jernholdig metall som sorteres ut fra ubehandlet bunnaske fra avfallsforbrenning i et gitt år,\(c_{\text{IBA Fe}/Al}\)konsentrasjon av jernholdige metaller eller aluminium i de respektive metallkonsentratene,\(m_{\text{IBA Fe}/Al}\)massen av jernholdige metaller eller aluminium i konsentratet av jernholdig metall eller i konsentratet av ikke-jernholdig metall som sorteres ut fra bunnasken fra avfallsforbrenning i et gitt år,\(m_{non-metallic}\)massen av ikke-metallisk materiale i et spesifikt konsentrat av jernholdige metaller eller aluminium,\(r_{Al}\)andelen av aluminium i ikke-jernholdige metaller som inngår i ikke-jernholdig konsentrat som sorteres ut fra bunnasken fra avfallsforbrenning,\(m_{\text{PW Fe}/Al}\)massen av jernholdige metaller eller aluminium fra emballasjeavfall som går inn i en forbrenningsoperasjon i et gitt år,\(m_{\text{W Fe}/Al}\)massen av alt jernholdig metall eller aluminium som går inn i en forbrenningsoperasjon i et gitt år,\(m_{\text{PW IBA Fe}/Al}\)massen av materialgjenvunnet jernholdig metall eller aluminium fra emballasjeavfall i et gitt år.
-2. Etter utsorteringen av jernholdig/ikke-jernholdig konsentrat fra ubehandlet bunnaske fra avfallsforbrenning, skal innholdet av jernholdige metaller/aluminium i metallkonsentratet beregnes ved å bruke følgende formel: $$m_{\text{total IBA Fe}/Al} = m_{\text{IBA Fe}/\text{nFe concentrates}} \cdot c_{\text{IBA Fe}/Al}$$
+1. Følgende definisjoner skal gjelde i forbindelse med formlene i dette vedlegget:\\(m_{\\text{total IBA Fe}/Al}\\)den samlede massen av jernholdige metaller eller aluminium i bunnasken fra avfallsforbrenning i et gitt år,\\(m_{\\text{IBA Fe}/\\text{nFe concentrates}}\\)massen av konsentrat av jernholdig metall eller konsentrat av ikke-jernholdig metall som sorteres ut fra ubehandlet bunnaske fra avfallsforbrenning i et gitt år,\\(c_{\\text{IBA Fe}/Al}\\)konsentrasjon av jernholdige metaller eller aluminium i de respektive metallkonsentratene,\\(m_{\\text{IBA Fe}/Al}\\)massen av jernholdige metaller eller aluminium i konsentratet av jernholdig metall eller i konsentratet av ikke-jernholdig metall som sorteres ut fra bunnasken fra avfallsforbrenning i et gitt år,\\(m_{non-metallic}\\)massen av ikke-metallisk materiale i et spesifikt konsentrat av jernholdige metaller eller aluminium,\\(r_{Al}\\)andelen av aluminium i ikke-jernholdige metaller som inngår i ikke-jernholdig konsentrat som sorteres ut fra bunnasken fra avfallsforbrenning,\\(m_{\\text{PW Fe}/Al}\\)massen av jernholdige metaller eller aluminium fra emballasjeavfall som går inn i en forbrenningsoperasjon i et gitt år,\\(m_{\\text{W Fe}/Al}\\)massen av alt jernholdig metall eller aluminium som går inn i en forbrenningsoperasjon i et gitt år,\\(m_{\\text{PW IBA Fe}/Al}\\)massen av materialgjenvunnet jernholdig metall eller aluminium fra emballasjeavfall i et gitt år.
+2. Etter utsorteringen av jernholdig/ikke-jernholdig konsentrat fra ubehandlet bunnaske fra avfallsforbrenning, skal innholdet av jernholdige metaller/aluminium i metallkonsentratet beregnes ved å bruke følgende formel: $$m_{\\text{total IBA Fe}/Al} = m_{\\text{IBA Fe}/\\text{nFe concentrates}} \\cdot c_{\\text{IBA Fe}/Al}$$
 3. Data om massen av konsentrater av jernholdig/ikke-jernholdig metall skal innhentes fra anlegg som sorterer ut metallkonsentrater fra ubehandlet bunnaske fra avfallsforbrenning.
-4. Konsentrasjonen av jernholdige metaller og aluminium fra behandlingen av ubehandlet bunnaske fra avfallsforbrenning skal beregnes ved hjelp av følgende formler basert på data som samles inn gjennom regelmessige undersøkelser fra anlegg som behandler metallkonsentrater, samt fra anlegg som bruker metaller som sorteres ut fra bunnasken fra avfallsforbrenning, til framstilling av metallprodukter:For jernholdige metaller: $$C_{\text{IBA Fe}} = \frac{m_{\text{IBA Fe}}}{m_{\text{IBA Fe concentrates}}} = \frac{m_{\text{IBA Fe concentrates}} - m_{\text{non-metallic}}}{m_{\text{IBA Fe concentrates}}}$$For aluminium: $$C_{\text{IBA Al}} = \frac{m_{\text{IBA Al}}}{m_{\text{IBA nFe concentrates}}} = \frac{(m_{\text{IBA nFe concentrates}} - m_{\text{non-metallic}}) \cdot r_{Al}}{m_{\text{IBA nFe concentrates}}}$$
-5. Massen av materialgjenvunnet jernholdig metall/aluminium fra emballasjeavfall i alt materialgjenvunnet jernholdig metall/aluminium som sorteres ut fra bunnasken fra avfallsforbrenning, skal bestemmes gjennom stikkprøveundersøkelser av avfallet som går inn i forbrenningsoperasjonen. Disse undersøkelsene skal utføres minst hvert femte år og når det er grunn til å anta at det forbrente avfallets sammensetning er blitt vesentlig endret. Massen av jernholdige metaller/aluminium fra emballasjeavfall skal beregnes ved å bruke følgende formel: $$m_{\text{PW IBA Fe}/Al} = \frac{m_{\text{PW Fe}/Al}}{m_{\text{W Fe}/Al}} \cdot m_{\text{total IBA Fe}/Al}$$
+4. Konsentrasjonen av jernholdige metaller og aluminium fra behandlingen av ubehandlet bunnaske fra avfallsforbrenning skal beregnes ved hjelp av følgende formler basert på data som samles inn gjennom regelmessige undersøkelser fra anlegg som behandler metallkonsentrater, samt fra anlegg som bruker metaller som sorteres ut fra bunnasken fra avfallsforbrenning, til framstilling av metallprodukter:For jernholdige metaller: $$C_{\\text{IBA Fe}} = \\frac{m_{\\text{IBA Fe}}}{m_{\\text{IBA Fe concentrates}}} = \\frac{m_{\\text{IBA Fe concentrates}} - m_{\\text{non-metallic}}}{m_{\\text{IBA Fe concentrates}}}$$For aluminium: $$C_{\\text{IBA Al}} = \\frac{m_{\\text{IBA Al}}}{m_{\\text{IBA nFe concentrates}}} = \\frac{(m_{\\text{IBA nFe concentrates}} - m_{\\text{non-metallic}}) \\cdot r_{Al}}{m_{\\text{IBA nFe concentrates}}}$$
+5. Massen av materialgjenvunnet jernholdig metall/aluminium fra emballasjeavfall i alt materialgjenvunnet jernholdig metall/aluminium som sorteres ut fra bunnasken fra avfallsforbrenning, skal bestemmes gjennom stikkprøveundersøkelser av avfallet som går inn i forbrenningsoperasjonen. Disse undersøkelsene skal utføres minst hvert femte år og når det er grunn til å anta at det forbrente avfallets sammensetning er blitt vesentlig endret. Massen av jernholdige metaller/aluminium fra emballasjeavfall skal beregnes ved å bruke følgende formel: $$m_{\\text{PW IBA Fe}/Al} = \\frac{m_{\\text{PW Fe}/Al}}{m_{\\text{W Fe}/Al}} \\cdot m_{\\text{total IBA Fe}/Al}$$
 
 > Tilføyd ved [forskrift 18 mai 2022 nr. 988](forskrift/2022-05-18-988).
 
@@ -1805,7 +2019,15 @@ Miljødirektoratet fører tilsyn med at bestemmelsene i dette kapittelet og vedt
 
 Produsentansvarsselskap skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -1842,6 +2064,9 @@ Miljødirektoratet kan ved overtredelse av § 7A-7 første ledd ilegge den ansva
 ## Kapittel 7B. Utvidet produsentansvar for utstyr fra fiskeri, fritidsfiske og akvakultur, som inneholder plast
 
 > Tilføyd ved forskrift [18 des 2025 nr. 2839](forskrift/2025-12-18-2839) (i kraft 1 jan 2026).
+
+**Hjemmel:** Fastsatt av Klima- og miljødepartementet med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) §§ 31](lov/1981-03-13-6/§31), [32](lov/1981-03-13-6/§32), [33](lov/1981-03-13-6/§33), [49](lov/1981-03-13-6/§49), [52a](lov/1981-03-13-6/§52a), [63](lov/1981-03-13-6/§63), [80](lov/1981-03-13-6/§80) og [81](lov/1981-03-13-6/§81). jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785), [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4](lov/1976-06-11-79/§4), jf. [forskrifter 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester](forskrift/1977-08-05-2) og [delegeringsvedtak 7. september 1990 nr. 730](forskrift/1990-09-07-730).
+**EØS-henvisninger:** [EØS-avtalen vedlegg II kap. XVII](avtale/avt-1992-05-02-1-v2/kapXVII) nr. 9d (direktiv [(EU) 2019/904](eu/32019l0904)).
 
 ### I. Innledende bestemmelser
 
@@ -2059,7 +2284,15 @@ Miljødirektoratet kan kreve gebyr ved gjennomføring av tilsyn, jf. [forskrift 
 
 Produsentansvarsselskap skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyret skal betales etter følgende satser:*Sats**Beløp*1kr 203 9002kr 153 0003kr 102 0004kr 51 0005kr 25 500
+Gebyret skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | kr 203 900 |
+| 2 | kr 153 000 |
+| 3 | kr 102 000 |
+| 4 | kr 51 000 |
+| 5 | kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -2094,6 +2327,8 @@ Miljødirektoratet kan ved overtredelse av § 7B-10 første ledd ilegge den ansv
 > Tilføyd ved forskrift [18 des 2025 nr. 2839](forskrift/2025-12-18-2839) (i kraft 1 jan 2026).
 
 ## Kapittel 8. Refusjon av avgift på hydrofluorkarboner (HFK) og perfluorkarboner (PFK)
+
+Fastsatt med hjemmel i [lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4](lov/1976-06-11-79/§4), jf. [forskrift 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester § 5](forskrift/1977-08-05-2/§5).
 
 > Kapittel 8 tilføyd ved [forskrift 30 juni 2004 nr. 1060](forskrift/2004-06-30-1060) (i kraft 1 juli 2004).
 
@@ -2151,11 +2386,43 @@ Inntil en Norsk Standard som nevnt i [§ 8-5](forskrift/2004-06-01-930/§8-5) fo
 
 ### Vedlegg 1
 
-*Produkttyper**Kjemisk formel**Global warming potential (GWP)**Hydrofluorkarboner (HFK)*HFK-23CHF312 400HFK-32CH2 F2677HFK-41CH3 F116HFK-43-10meeCF3 CF2 CHFCHFCF31 650HFK-125CF3 CHF23 170HFK-134CHF2 CHF21 120HFK-134aCF3 CH2 F1 300HFK-152aCHF2 CH3138HFK-143CHF2 CH2 F328HFK-143aCF3 CH34 800HFK-152CH2 F CH2 F16HFK-161CH3 CH2 F4HFK-227eaCF3 CHFCF33 350HFK-236cbCF3 CF2 CH2 F1 210HFK-236eaCF3 CHF CHF21 330HFK-236faCF3 CH2 CF38 060HFK-245caCHF2 CF2 CH2 F716HFK-245faCF3 CH2 CHF2858HFK-365mfcCF3 CH2 CF2 CH3804*Perfluorkarboner (PFK)*PFK-14CF46 630PFK-116CF3 CF311 100PFK-218CF3 CF2 CF38 900PFK-3-1-10CF3 CF2 CF2 CF39 200PFK-c318c-C4 F89 540PFK-4-1-12CF3 CF2 CF2 CF2 CF38 550PFK-5-1-14CF3 CF2 CF2 CF2 CF2 CF37 910
+| *Produkttyper* | *Kjemisk formel* | *Global warming potential (GWP)* |
+| --- | --- | --- |
+| *Hydrofluorkarboner (HFK)* |  |  |
+| HFK-23 | CHF3 | 12 400 |
+| HFK-32 | CH2 F2 | 677 |
+| HFK-41 | CH3 F | 116 |
+| HFK-43-10mee | CF3 CF2 CHFCHFCF3 | 1 650 |
+| HFK-125 | CF3 CHF2 | 3 170 |
+| HFK-134 | CHF2 CHF2 | 1 120 |
+| HFK-134a | CF3 CH2 F | 1 300 |
+| HFK-152a | CHF2 CH3 | 138 |
+| HFK-143 | CHF2 CH2 F | 328 |
+| HFK-143a | CF3 CH3 | 4 800 |
+| HFK-152 | CH2 F CH2 F | 16 |
+| HFK-161 | CH3 CH2 F | 4 |
+| HFK-227ea | CF3 CHFCF3 | 3 350 |
+| HFK-236cb | CF3 CF2 CH2 F | 1 210 |
+| HFK-236ea | CF3 CHF CHF2 | 1 330 |
+| HFK-236fa | CF3 CH2 CF3 | 8 060 |
+| HFK-245ca | CHF2 CF2 CH2 F | 716 |
+| HFK-245fa | CF3 CH2 CHF2 | 858 |
+| HFK-365mfc | CF3 CH2 CF2 CH3 | 804 |
+| *Perfluorkarboner (PFK)* |  |  |
+| PFK-14 | CF4 | 6 630 |
+| PFK-116 | CF3 CF3 | 11 100 |
+| PFK-218 | CF3 CF2 CF3 | 8 900 |
+| PFK-3-1-10 | CF3 CF2 CF2 CF3 | 9 200 |
+| PFK-c318 | c-C4 F8 | 9 540 |
+| PFK-4-1-12 | CF3 CF2 CF2 CF2 CF3 | 8 550 |
+| PFK-5-1-14 | CF3 CF2 CF2 CF2 CF2 CF3 | 7 910 |
 
 > Tilføyd ved forskrift [18 des 2025 nr. 2734](forskrift/2025-12-18-2734) (i kraft 1 jan 2026).
 
 ## Kapittel 9. Deponering av avfall
+
+Hjemmel: Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9](lov/1981-03-13-6/§9), [§ 11](lov/1981-03-13-6/§11), [§ 12](lov/1981-03-13-6/§12), [§ 16](lov/1981-03-13-6/§16), [§ 20](lov/1981-03-13-6/§20) og [§ 31](lov/1981-03-13-6/§31).
+EØS-henvisninger: [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32d (direktiv [1999/31/EF](eu/31999l0031) endret ved vedtak [2003/33/EF](eu/32003d0033) og direktiv [(EU) 2018/850](eu/32018l0850)).
 
 ### § 9-1. Formål
 
@@ -2283,33 +2550,57 @@ For avfallsprodusentene trer kriteriene i vedlegg II til dette kapitlet, slik de
 
 ### Vedlegg I. Generelle krav for alle kategorier deponier
 
+1\. *Kontroll og overvåking*
+
 For å tilfredsstille kravet om prosedyrer for kontroll og overvåking ved et deponi skal det som hovedregel stilles krav til vekt, dersom dette ikke anses som urimelig eller åpenbart unødvendig.
+
+2\. *Vannkontroll og sigevannshåndtering*
 
 På grunnlag av deponiets egenskaper og de meteorologiske forhold på stedet, skal det treffes nødvendige tiltak for åha kontroll med inntrenging av nedbørsvann i deponiet,forhindre innsig av grunn- eller overflatevann i deponiet,samle opp forurenset vann og sigevann,behandle forurenset vann og sigevann som samles opp dersom det er nødvendig for å oppnå påkrevd utslippskvalitet.
 
 Disse bestemmelsene kan fravikes på deponier for inert avfall.
+
+3\. *Beskyttelse av jord og vann*
 
 - Ethvert deponi må være plassert og utformet på en slik måte at forurensning av jord, grunnvann og overflatevann forebygges, og at det sikres en effektiv oppsamling av sigevann i tilfeller der dette er påkrevd. Beskyttelsen av jord, grunnvann og overflatevann kan sikres med en kombinasjon av geologisk barriere og bunnmembran i driftsfasen, og med en kombinasjon av geologisk barriere og toppmembran i etterdriftsfasen.
 - Det foreligger en geologisk barriere når de geologiske og hydrogeologiske forhold under og i nærheten av et deponi har tilstrekkelig tilbakeholdelseskapasitet til at faren for forurensning av jord og grunnvann forebygges.Fyllingens bunn og sider skal bestå av et mineralsk sjikt som oppfyller følgende krav til permeabilitet og tykkelse:deponi beregnet på farlig avfall: K1 ≤ 1,0 x 10-9 m/s, tykkelse ≥ 5 m,deponi beregnet på ordinært avfall: K ≤ 1,0 x 10-9 m/s, tykkelse ≥ 1 m,deponi beregnet på inert avfall: K ≤ 1,0 x 10-7 m/s, tykkelse ≥ 1 m,eller på annen måte gir tilsvarende beskyttelse av jord, grunnvann og overflatevann.Dersom den naturlige geologiske barrieren på stedet ikke oppfyller ovennevnte vilkår, kan den suppleres kunstig eller styrkes på annen måte som gir tilsvarende beskyttelse. En konstruert geologisk barriere må ha en tykkelse på minst 0,5 m.
 - På deponier for farlig avfall og ordinært avfall skal det etableres en kunstig tetningsmembran og et dreneringslag med tykkelse på minst 0,5 m i tillegg til den geologiske barrieren nevnt i pkt. 3.2 for i størst mulig grad å samle opp og begrense opphopning av sigevann i deponiet.Det kan settes krav om topptetting dersom det anses nødvendig å forebygge sigevannsdannelse.
 - Dersom en miljørisikovurdering, jf. direktiv [80/68/EØF](eu/31980l0068),2 tilsier at det ikke er nødvendig å samle opp og behandle sigevannet, eller at deponiet ikke medfører noen mulig fare for jord, grunnvann og overflatevann, kan det lempes tilsvarende på kravene i nr. 2 bokstav c, 3.2 og 3.3 ovenfor.
 
+4\. *Gasskontroll*
+
 - Det skal treffes tiltak for å ha kontroll med opphopning og utlekking av deponigass.
 - Deponigass skal samles opp på alle deponier som tar imot biologisk nedbrytbart avfall, og gassen må behandles. Dersom gassen ikke energiutnyttes, må den fakles. Oppsamling, behandling og utnyttelse av deponigass skal utføres på en måte som ikke medfører helse- eller miljøfare.
 
+5\. *Nærmiljø mv.*
+
 Det skal treffes tiltak ved deponiet for å begrense til et minimum ulemper og farer som følge avlukt- og støvutslipp,flygeavfall,støy og trafikk,fugler, skadedyr og insekter,aerosoldannelse.
+
+6\. *Stabilitet*
 
 Plasseringen av avfallet på deponiet skal skje på en slik måte at stabiliteten i avfallsmassen og tilknyttede strukturer sikres, særlig for å forebygge utglidninger. Dersom det etableres en kunstig barriere, må det sikres at en unngår setningsskader i denne.
 
+7\. *Avstengning*
+
 Deponiet skal sikres tilstrekkelig til å hindre fri adgang og ulovlig dumping på plassen.
+
+8\. *Midlertidig lagring av metallisk kvikksølv*
 
 Følgende krav skal gjelde for midlertidig lagring i mer enn ett år av metallisk kvikksølv:Metallisk kvikksølv skal lagres adskilt fra annet avfall og under tak.Beholderne skal lagres i oppsamlingsbassenger som rommer hele den lagrede mengden kvikksølv. Bassengene skal ha egnet belegg som hindrer at det dannes sprekker eller hull, og gjør dem ugjennomtrengelige for metallisk kvikksølv.Lagringsstedet skal være utstyrt med konstruerte eller naturlige barrierer som er tilstrekkelige til å beskytte miljøet mot utslipp, og ha et volum tilsvarende den samlede mengden av lagret kvikksølv.Lagringsstedets underlag skal være dekket med kvikksølvbestandig materiale. Det skal være helling mot en oppsamlingsbrønn.Lagringsstedet skal være utstyrt med et brannvernsystem.Lagringen skal organiseres slik at alle beholderne er lett tilgjengelige.
 
 > Endret ved [forskrift 14 okt 2013 nr. 1237](forskrift/2013-10-14-1237).
 
+1 K = mineralsjiktets hydrauliske ledningsevne målt i m pr. sekund (m/s).
+
+2 EFT L 20 av 26. januar 1980, s. 43. Direktivet ble sist endret ved direktiv [91/692/EØF](eu/31991l0692*) (EFT L 377 av 31. desember 1991, s. 48).
+
 ### Vedlegg II. Karakterisering og kriterier for mottak av avfall
 
 Formålet med vedlegg II er at avfallets sammensetning, utlekkingspotensial, miljøvirkninger, og øvrige egenskaper som har betydning for deponiet på kort og lang sikt, skal være kjent i størst mulig grad før deponering.
+
+1.*Prosedyrer for karakterisering og mottak av avfall*
+
+1.1.*Basiskarakterisering*
 
 Avfallsprodusenten skal sørge for at det er gjennomført en basiskarakterisering av avfallet før deponering finner sted. Ved basiskarakteriseringen skal følgende dokumenteres:Avfallsprodusentens navn og organisasjonsnummer. Kommunen skal regnes som avfallsprodusent for innsamlet husholdningsavfall.Opplysninger om hvordan avfallet oppstår og om råvarene som er brukt, med mindre dette fremkommer av avfallskoden (se punkt f).Opplysninger om hvilken behandling av avfallet som er gjennomført for å oppfylle [§ 9-6](forskrift/2004-06-01-930/§9-6) i denne forskriften eller en redegjørelse for årsakene til at slik behandling ikke betraktes som nødvendig.Data om avfallets sammensetning og utlekkingspotensial ved både kolonnetest og ristetest.Avfallets lukt, farge og fysiske form.Avfallskode i henhold til den europeiske avfallslisten samt avfallsstoffnummer iht. gjeldende norsk standard om klassifisering av avfall. Avfallskoden er gjengitt som vedlegg 1 til kapittel 11 om farlig avfall i denne forskriften.De farlige egenskapene (jf. vedlegg 2 til kapittel 11 om farlig avfall i denne forskriften) som er vurdert som grunnlag for å klassifisere et avfall som ikke-farlig. Dersom avfallet er ført opp i den europeiske avfallslisten med avfallskoder for både farlig og ikke-farlig avfall (speilinnganger) må det dokumenteres hvilken klassifisering avfallet skal ha.Bekreftelse på at avfallet ikke omfattes av forbudene i [§ 9-4](forskrift/2004-06-01-930/§9-4) i denne forskriften.Opplysninger om hvilke deponikategorier avfallet kan deponeres på, jf. [§ 9-5](forskrift/2004-06-01-930/§9-5) i denne forskriften.Eventuelle ekstra forholdsregler som deponiet må treffe ved håndteringen av avfallet.Muligheter for gjenvinning av avfallet.
 
@@ -2319,8 +2610,12 @@ Avfallsprodusenten skal oppbevare rapporten fra basiskarakteriseringen, inkluder
 
 Avfallsprodusent skal sørge for at et sammendrag av basiskarakteriseringen blir levert til driftsansvarlig ved alle deponier der avfallet blir deponert. Driftsansvarlig skal oppbevare et eksemplar av sammendraget i hele deponiets levetid, inkludert etterdriftsfasen.
 
+1.2.*Krav om testing*
+
 Opplysninger om avfallets sammensetning og utlekkingspotensial skal underbygges ved testing. Testing kreves likevel ikke dersom minst en av følgende betingelser er oppfylt:Avfallet stammer fra en og samme kilde og er klassifisert som inert avfall i en av følgende avfallskoder:*Kode i europeisk avfallsliste1**Beskrivelse**Restriksjoner*10 11 03GlassfiberavfallBare uten organiske bindemidler15 01 07Emballasje av glass17 01 01BetongBare utsortert bygge- og rivningsavfall17 01 02MursteinBare utsortert bygge- og rivningsavfall17 01 03Takstein og keramikkBare utsortert bygge- og rivningsavfall17 01 07Blandinger av betong, murstein, takstein og keramikkBare utsortert bygge- og rivningsavfall17 02 02Glass17 05 04Jord og steinUnntatt toppjord med høyt organisk innhold og masser fra forurenset grunn19 12 05Glass20 01 02GlassBare separat innsamlet glass20 02 02Jord og steinBare fra hage- og parkavfall. Unntatt toppjord med høyt organisk innhold og masser fra forurenset grunn1 Avfallsforskriften kapittel 11 om farlig avfall, vedlegg I.
 Hvis det er mistanke om at avfallet er forurenset slik at grenseverdiene i 2.1 kan overskrides, skal avfallet testes.Alle nødvendige opplysninger for basiskarakteriseringen er kjente og godt begrunnet.Det ikke vil være praktisk mulig å utføre prøvetaking og/eller analyse av det aktuelle avfallet, det ikke finnes hensiktsmessige testprosedyrer og/eller det ikke finnes mottakskriterier. Dersom dette unntaket skal brukes må det fremlegges dokumentasjon på at betingelsene er oppfylt og det skal dokumenteres på annen måte at avfallet kan deponeres i et avfallsdeponi av den aktuelle kategorien.Avfallet er ordinært avfall og skal deponeres på deponi for ordinært avfall. Dette gjelder ikke ordinært avfall som skal deponeres sammen med stabilt ikke-reaktivt farlig avfall, eller dersom det er mistanke om at avfallet kan inneholde farlig avfall. Avfallsprodusent må likevel sørge for testing som dokumenterer at avfallet ikke omfattes av forbudet i [§ 9-4](forskrift/2004-06-01-930/§9-4) første ledd bokstav a.Stabilt ikke-reaktivt asbestavfall som ikke inneholder andre farlige stoffer enn bundet asbest kan deponeres på deponi for ordinært avfall uten testing.
+
+1.3.*Verifikasjon av avfall som produseres jevnlig*
 
 Dersom avfallet oppstår jevnlig, skal avfallsprodusenten sørge for at avfallet blir verifisert. Verifikasjonen skal vise at avfallets egenskaper er i samsvar med resultatene av basiskarakteriseringen.
 
@@ -2336,6 +2631,8 @@ Avfallsprodusent skal oppbevare verifikasjonsrapporter og analysebevis minst fre
 
 Avfallsprodusent skal sørge for at det blir gitt opplysninger om siste gjennomførte verifikasjon ved levering av avfall til deponiet.
 
+1.4.*Kontroll på stedet*
+
 Driftsansvarlig avgjør om avfallet kan deponeres ved deponiet på bakgrunn av fremlagt dokumentasjon fra avfallsprodusent. Driftsansvarlig skal påse at hvert lass med avfall som leveres for deponering, blir inspisert visuelt før og etter lossing. Dersom avfallsprodusenten også er driftsansvarlig, kan denne kontrollen foretas ved opplasting.
 
 Dersom en avfallsleveranse må avvises fordi avfallet ikke oppfyller kriteriene for mottak, skal driftsansvarlig varsle forurensningsmyndigheten.
@@ -2344,38 +2641,159 @@ Driftsansvarlig skal sørge for at det tas stikkprøver av minst 1 av hver 100. 
 
 Driftsansvarlig skal påse at det føres journal over stikkprøvene (se også [§ 9-12](forskrift/2004-06-01-930/§9-12)). Journalen med kopier av analyserapportene skal oppbevares i minst 1 år. Kravet om stikkprøver gjelder ikke for bedriftsinterne deponier.
 
-Lett forurensede masser som tas imot ved deponier for inert avfall kan ikke overskride følgende grenseverdier for utlekkingspotensial:*Parameter**L/S = 10 l/kg ved ristetest med
-partikkelstørrelse < 4 mm
-mg/kg tørrstoff**C0 (L/S = 0,1 l/kg) ved kolonnetest
-mg/l*Arsen (As)0,50,06Barium (Ba)204Kadmium (Cd)0,040,02Krom (Cr) totalt0,50,1Kobber (Cu)20,6Kvikksølv (Hg)0,010,002Molybden (Mo)0,50,2Nikkel (Ni)0,40,12Bly (Pb)0,50,15Antimon (Sb)0,060,1Selen (Se)0,10,04Sink (Zn)41,2Klorid800460Fluorid102,5Sulfat1000*1500Fenoltall10,3Løst organisk karbon (DOC)**500160Totalt oppløst fast stoff (TDS)***4000–
+2.*Kriterier for mottak av avfall*
 
-I tillegg til grenseverdiene for utlekking i nr. 2.1.1 kan lett forurensede masser som skal deponeres på deponi for inert avfall ikke overskride følgende grenseverdier for totalinnhold av organiske parametere:*Parameter**Verdi*Totalt organisk karbon (TOC)3%*Benzen, toluen, etylbenzen og xylener (BTEX)6 mg/kgPolyklorerte bifenyler (7 kongenerer av PCB)1 mg/kgMineralolje (C10 til C40)500 mg/kgPolyaromatiske hydrokarboner (∑ PAH 16)20 mg/kgBenso(a)pyren2 mg/kg
+2.1.*Kriterier for mottak av avfall på deponi for inert avfall*
+
+2.1.1.*Grenseverdier for utlekkingspotensial*
+
+Lett forurensede masser som tas imot ved deponier for inert avfall kan ikke overskride følgende grenseverdier for utlekkingspotensial:
+
+| *Parameter* | *L/S = 10 l/kg ved ristetest med<br>partikkelstørrelse < 4 mm<br>mg/kg tørrstoff* | *C0 (L/S = 0,1 l/kg) ved kolonnetest<br>mg/l* |
+| --- | --- | --- |
+| Arsen (As) | 0,5 | 0,06 |
+| Barium (Ba) | 20 | 4 |
+| Kadmium (Cd) | 0,04 | 0,02 |
+| Krom (Cr) totalt | 0,5 | 0,1 |
+| Kobber (Cu) | 2 | 0,6 |
+| Kvikksølv (Hg) | 0,01 | 0,002 |
+| Molybden (Mo) | 0,5 | 0,2 |
+| Nikkel (Ni) | 0,4 | 0,12 |
+| Bly (Pb) | 0,5 | 0,15 |
+| Antimon (Sb) | 0,06 | 0,1 |
+| Selen (Se) | 0,1 | 0,04 |
+| Sink (Zn) | 4 | 1,2 |
+| Klorid | 800 | 460 |
+| Fluorid | 10 | 2,5 |
+| Sulfat | 1000\* | 1500 |
+| Fenoltall | 1 | 0,3 |
+| Løst organisk karbon (DOC)\*\* | 500 | 160 |
+| Totalt oppløst fast stoff (TDS)\*\*\* | 4000 | – |
+
+\* Dersom avfallet overskrider grenseverdiene for sulfat, kan det likevel anses som å oppfylle mottakskriteriene dersom utlekkingen ikke overskrider noen av følgende verdier: 1500 mg/l som C0 ved L/S = 0,1 l/kg og 6000 mg/kg ved L/S = 10 l/kg.
+
+\*\* Dersom avfallet overskrider grenseverdiene for oppløst organisk karbon (DOC) ved sin egen pH-verdi, kan det alternativt testes ved L/S = 10 l/kg og en pH mellom 7,5 and 8,0. Avfallet kan anses som å oppfylle mottakskriteriene for DOC dersom resultatet av denne testen ikke overstiger 500 mg/l.
+
+\*\*\* Verdien for TDS kan brukes som et alternativ til verdiene for sulfat og klorid.
+
+2.1.2.*Grenseverdier for organiske parametere*
+
+I tillegg til grenseverdiene for utlekking i nr. 2.1.1 kan lett forurensede masser som skal deponeres på deponi for inert avfall ikke overskride følgende grenseverdier for totalinnhold av organiske parametere:
+
+| *Parameter* | *Verdi* |
+| --- | --- |
+| Totalt organisk karbon (TOC) | 3%\* |
+| Benzen, toluen, etylbenzen og xylener (BTEX) | 6 mg/kg |
+| Polyklorerte bifenyler (7 kongenerer av PCB) | 1 mg/kg |
+| Mineralolje (C10 til C40) | 500 mg/kg |
+| Polyaromatiske hydrokarboner (∑ PAH 16) | 20 mg/kg |
+| Benso(a)pyren | 2 mg/kg |
+
+\* Om avfallet er jord så kan forurensningsmyndigheten tillate en høyere grenseverdi, forutsatt at grenseverdien på 500 mg/kg overholdes for oppløst organisk karbon ved L/S = 10 l/kg, enten ved jordens pH eller ved en pH-verdi mellom 7,5 og 8,0.
+
+2.2.*Kriterier for mottak av avfall på deponi for ordinært avfall*
 
 Avfall som ikke klassifiseres som farlig avfall i henhold til avfallsforskriften kapittel 11, vedlegg 1 om den europeiske avfallslisten, kan legges i deponi for ordinært avfall.
 
-Gipsavfall skal deponeres i celler der det ikke mottas biologisk nedbrytbart avfall. Avfall i deponicelle for gipsavfall skal ikke overskride følgende grenseverdier:*Parameter**Verdi*Total organisk karbon (TOC)5%pHMinst 6
+2.2.1.*Kriterier for mottak av gipsavfall*
+
+Gipsavfall skal deponeres i celler der det ikke mottas biologisk nedbrytbart avfall. Avfall i deponicelle for gipsavfall skal ikke overskride følgende grenseverdier:
+
+| *Parameter* | *Verdi* |
+| --- | --- |
+| Total organisk karbon (TOC) | 5% |
+| pH | Minst 6 |
 
 Dersom verdien av TOC ikke oppnås, kan forurensningsmyndigheten tillate en høyere grenseverdi, forutsatt at en grenseverdi på 800 mg/kg overholdes for DOC ved L/S = 10 l/kg enten ved materialets egen pH eller ved pH på mellom 7,5 og 8,0.
 
-Stabilt, ikke-reaktivt farlig avfall kan deponeres sammen med ordinært avfall i et deponi eller i en deponicelle for ordinært avfall forutsatt at avfallet ikke overskrider følgende grenseverdier for utlekkingspotensial:*Parameter**L/S = 10 l/kg ved ristetest med
-partikkelstørrelse < 4 mm
-mg/kg tørrstoff**C0 (L/S = 0,1 l/kg) ved kolonnetest
-mg/l*Arsen (As)20,3Barium (Ba)10020Kadmium (Cd)10,3Krom (Cr) totalt102,5Kobber (Cu)5030Kvikksølv (Hg)0,20,03Molybden (Mo)103,5Nikkel (Ni)103Bly (Pb)103Antimon (Sb)0,70,15Selen (Se)0,50,2Sink (Zn)5015Klorid150008500Fluorid15040Sulfat200007000Løst organisk karbon (DOC)*800250Totalt oppløst fast stoff (TDS)**60000–
+2.3.*Kriterier for ordinært avfall og farlig avfall som deponeres sammen på et deponi for ordinært avfall*
 
-1. Avfall i en deponicelle hvor ordinært avfall og stabilt farlig avfall deponeres sammen skal ikke overskride følgende grenseverdier:*Parameter**Verdi*Totalt organisk karbon (TOC)5%*pHMinst 6
+2.3.1.*Grenseverdier for utlekkingspotensial*
+
+Stabilt, ikke-reaktivt farlig avfall kan deponeres sammen med ordinært avfall i et deponi eller i en deponicelle for ordinært avfall forutsatt at avfallet ikke overskrider følgende grenseverdier for utlekkingspotensial:
+
+| *Parameter* | *L/S = 10 l/kg ved ristetest med<br>partikkelstørrelse < 4 mm<br>mg/kg tørrstoff* | *C0 (L/S = 0,1 l/kg) ved kolonnetest<br>mg/l* |
+| --- | --- | --- |
+| Arsen (As) | 2 | 0,3 |
+| Barium (Ba) | 100 | 20 |
+| Kadmium (Cd) | 1 | 0,3 |
+| Krom (Cr) totalt | 10 | 2,5 |
+| Kobber (Cu) | 50 | 30 |
+| Kvikksølv (Hg) | 0,2 | 0,03 |
+| Molybden (Mo) | 10 | 3,5 |
+| Nikkel (Ni) | 10 | 3 |
+| Bly (Pb) | 10 | 3 |
+| Antimon (Sb) | 0,7 | 0,15 |
+| Selen (Se) | 0,5 | 0,2 |
+| Sink (Zn) | 50 | 15 |
+| Klorid | 15000 | 8500 |
+| Fluorid | 150 | 40 |
+| Sulfat | 20000 | 7000 |
+| Løst organisk karbon (DOC)\* | 800 | 250 |
+| Totalt oppløst fast stoff (TDS)\*\* | 60000 | – |
+
+\* Dersom avfallet overskrider grenseverdien for DOC ved sin egen pH-verdi, kan det alternativt testes ved L/S = 10 l/kg og en pH på 7,5-8,0. Avfallet kan anses som å oppfylle mottakskriteriene for DOC, dersom resultatet av denne testen ikke overstiger 800 mg/kg.
+
+\*\* Grenseverdien for TDS kan brukes som et alternativ til verdiene for sulfat og klorid.
+
+2.3.2.*Grenseverdier for andre parametere*
+
+1. Avfall i en deponicelle hvor ordinært avfall og stabilt farlig avfall deponeres sammen skal ikke overskride følgende grenseverdier:*Parameter**Verdi*Totalt organisk karbon (TOC)5%\*pHMinst 6
+
+\* Dersom denne verdien ikke oppnås, kan forurensningsmyndigheten tillate en høyere grenseverdi, forutsatt at grenseverdien på 800 mg/kg overholdes for DOC ved L/S 10 l/kg, enten ved materialets egen pH eller ved en pH-verdi på mellom 7,5 og 8,0.
+
+2.3.3.*Kriterier for mottak av asbestavfall*
 
 Asbestavfall kan bare mottas ved deponier eller i en deponicelle som oppfyller følgende krav:Deponicellen er forbeholdt byggematerialer som inneholder asbest og annet egnet asbestavfall,Asbestavfall skal daglig og før hver komprimeringsoperasjon tildekkes med hensiktsmessig materiale. Dersom avfallet ikke er emballert skal det regelmessig overrisles,Det endelige toppdekket på deponiet/cellen skal være egnet til å hindre spredning av fibre,Det skal ikke utføres noe arbeid på deponiet/cellen som kan føre til utslipp av fibre (f.eks. boringer),Det skal foreligge et kart over deponiets/cellens beliggenhet. Kartet skal oppbevares etter at deponiet er avsluttet,Det skal treffes hensiktsmessige tiltak for å begrense mulig bruk av området etter at deponiet er avsluttet, for å unngå at mennesker kommer i kontakt med avfallet.
 
-Farlig avfall som deponeres ved deponier for farlig avfall kan ikke overskride følgende grenseverdier for utlekkingspotensial:*Parameter**L/S = 10 l/kg ved ristetest med
-partikkelstørrelse < 4 mm
-mg/kg tørrstoff**C0 (L/S = 0,1 l/kg) ved kolonnetest
-mg/l*Arsen (As)253Barium (Ba)30060Kadmium (Cd)51,7Krom (Cr) totalt7015Kobber (Cu)10060Kvikksølv (Hg)20,3Molybden (Mo)3010Nikkel (Ni)4012Bly (Pb)5015Antimon (Sb)51Selen (Se)73Sink (Zn)20060Klorid2500015000Fluorid500120Sulfat5000017000Løst organisk karbon (DOC)*1000320Totalt oppløst fast stoff (TDS)**100000–
+2.4.*Kriterier for avfall som kan mottas ved deponier for farlig avfall*
 
-I tillegg til grenseverdiene for utlekkingspotensial fastsatt i 2.4.1, kan farlig avfall bare overskride en av følgende grenseverdier:*Parameter**Verdi*Glødetap10%Totalt organisk karbon (TOC)6%*
+2.4.1.*Grenseverdier for utlekkingspotensial*
+
+Farlig avfall som deponeres ved deponier for farlig avfall kan ikke overskride følgende grenseverdier for utlekkingspotensial:
+
+| *Parameter* | *L/S = 10 l/kg ved ristetest med<br>partikkelstørrelse < 4 mm<br>mg/kg tørrstoff* | *C0 (L/S = 0,1 l/kg) ved kolonnetest<br>mg/l* |
+| --- | --- | --- |
+| Arsen (As) | 25 | 3 |
+| Barium (Ba) | 300 | 60 |
+| Kadmium (Cd) | 5 | 1,7 |
+| Krom (Cr) totalt | 70 | 15 |
+| Kobber (Cu) | 100 | 60 |
+| Kvikksølv (Hg) | 2 | 0,3 |
+| Molybden (Mo) | 30 | 10 |
+| Nikkel (Ni) | 40 | 12 |
+| Bly (Pb) | 50 | 15 |
+| Antimon (Sb) | 5 | 1 |
+| Selen (Se) | 7 | 3 |
+| Sink (Zn) | 200 | 60 |
+| Klorid | 25000 | 15000 |
+| Fluorid | 500 | 120 |
+| Sulfat | 50000 | 17000 |
+| Løst organisk karbon (DOC)\* | 1000 | 320 |
+| Totalt oppløst fast stoff (TDS)\*\* | 100000 | – |
+
+\* Dersom avfallet overskrider grenseverdiene for DOC ved sin egen pH, kan det alternativt testes ved L/S = 10 l/kg og en pH på 7,5-8,0. Avfallet kan anses som å oppfylle mottakskriteriene for DOC dersom resultatet av denne bestemmelsen ikke overstiger 1000 mg/kg.
+
+\*\* Verdiene for TDS kan brukes som et alternativ til grenseverdiene for sulfat og klorid.
+
+2.4.2.*Grenseverdier for organiske parametere*
+
+I tillegg til grenseverdiene for utlekkingspotensial fastsatt i 2.4.1, kan farlig avfall bare overskride en av følgende grenseverdier:
+
+| *Parameter* | *Verdi* |
+| --- | --- |
+| Glødetap | 10% |
+| Totalt organisk karbon (TOC) | 6%\* |
+
+\* Dersom denne verdien ikke oppnås, kan vedkommende myndighet tillate en høyere grenseverdi, forutsatt at grenseverdien på 1000 mg/kg overholdes for DOC ved L/S = 10 l/kg, enten ved materialets egen pH eller ved en pH-verdi på mellom 7,5 og 8,0.
+
+2.5*Unntak fra grenseverdier*
 
 Forurensningsmyndigheten kan for enkeltstående avfallsleveranser bestemme at et deponi i kategori 1 eller 2 kan motta avfall med inntil tre ganger høyere utlekkingspotensial eller innhold av farlig stoff enn angitt i dette vedlegg. Dette gjelder likevel ikke for:Utlekking av løst organisk karbon (DOC)Innhold av totalt organisk karbon (TOC) i ordinært avfall og ikke-reaktivt farlig avfall som deponeres sammenpH for ordinært avfall og ikke-reaktivt farlig avfall som deponeres sammenGlødetap for avfall som leveres til deponier for farlig avfall.
 
 Det skal være gjennomført en miljørisikovurdering som viser at høyere grenseverdier ikke medfører noen økt risiko for menneskers helse eller miljøet.
+
+2.6*Kriterier for avfall som kan mottas ved underjordiske deponier*
 
 Et underjordisk deponi kan bare motta avfall som oppfyller stedsspesifikke mottakskriterier som er fastsatt av forurensingsmyndigheten på bakgrunn av en stedsspesifikk risikovurdering. I tillegg gjelder følgende:
 
@@ -2383,7 +2801,11 @@ Underjordiske deponier for inert avfall kan bare motta avfall som oppfyller krit
 
 Avfallstyper som kan reagere med hverandre kan bare mottas dersom de holdes fysisk atskilt.
 
+2.6.1.*Stedsspesifikk risikovurdering*
+
 Den stedsspesifikke risikovurderingen skal dekke både drifts- og etterdriftsfasen og skal omfatte:Geologisk vurdering basert på en omfattende kartlegging av områdets geologi, herunder lagstrukturer, forkastninger og oppsprekningssoner samt eventuell seismisk aktivitet.Geoteknisk vurdering av hulrommets stabilitet, herunder eventuelle vekselvirkninger mellom de geotekniske egenskaper til bergartene på stedet og det lagrede avfallets stabilitet.Hydrogeologisk vurdering basert på en omfattende kartlegging av grunnvannets strømningsmønster.Geokjemisk vurdering basert på en omfattende karakterisering av jord, berggrunn og grunnvann i området. Vurderingen skal omfatte nåværende situasjon og mulig utvikling over tid.Vurdering av virkningen på potensielt påvirkede økosystem. Vurderingen skal omfatte nåværende situasjon og mulig utvikling over tid.Vurdering av driftsfasen basert på en systematisk analyse av driften av anlegget og det mottatte avfallet.Langsiktig vurdering basert på en systematisk analyse av aktuelle scenarier for fremtidig utvikling i deponiet og de omkringliggende lagene.Andre relevante forhold slik som for eksempel nærliggende industri eller gruvevirksomhet som kan komme i konflikt med deponiet.
+
+2.7*Kriterier for mottak av metallisk kvikksølv på anlegg som er særskilt bestemt til og egnet for formålet*A. *Krav til kvikksølvet*
 
 For metallisk kvikksølv gjelder ikke kriteriene for avfall som kan mottas ved deponier for farlig avfall fastsatt i vedlegg II, punkt 2.4.
 
@@ -2402,6 +2824,8 @@ Sertifikatet som er nevnt i bokstav C skal angi:navn og adresse til produsenten 
 
 Sertifikater skal utstedes av produsenten av avfallet, eller om dette ikke er mulig, av den som er ansvarlig for håndteringen.
 
+3.*Metoder for prøvetaking og testing av avfall*
+
 Prøvetaking og testing av avfallet skal utføres av uavhengige og kvalifiserte personer ved institusjoner med nødvendig kompetanse. Laboratoriene skal ha dokumentert et effektivt kvalitetssikringssystem gjennom en akkreditering eller tilsvarende.
 
 Alternativt kan prøvetakingen foretas av avfallsprodusent eller de driftsansvarlige, forutsatt at prøvetakingsrutinene blir kvalitetssikret av uavhengig og kompetent institusjon.
@@ -2416,11 +2840,17 @@ Prøvetakingen skal være basert på en prøvetakingsstrategi hvor man tar hensy
 
 ### Vedlegg III. Kontroll- og overvåkingsprosedyrer i drifts- og etterdriftsfasen
 
+1\. *Innledning*
+
 Prøvetaking av sigevann og gassutslipp og overvåking i resipient skal foretas i relevante og representative punkter og på tidspunkt og med frekvenser som reflekterer faktiske utslipp og miljøpåvirkninger. Overvåkingsprogrammet skal tilpasses for det enkelte deponi med grunnlag i dets lokalisering, innhold og utforming. Overvåking i resipient vil kunne foregå i overflatevann og/eller grunnvann avhengig av deponiets lokalisering.
 
 Overvåkingprosedyrene skal også etableres med sikte på å kontrollereat prosessene i fyllingen forløper som ønsket,at systemene for vern av miljøet fullt ut fungerer som planlagt,at vilkårene i tillatelsen for deponiet er oppfylt.
 
+2\. *Meteorologiske data*
+
 Dersom det vurderes som hensiktsmessig, for eksempel som et ledd i kontrollen av vannbalansen i deponiet, kan det i tillatelsen settes krav om at meteorologiske data skal samles inn på deponiet eller fra en nærliggende meteorologisk stasjon.
+
+3\. *Utslippsdata: overvåking av sigevann, overflatevann, grunnvann og deponigass*
 
 Alle deponier med krav om sigevannsoppsamling, jf. vedlegg I til dette kapitlet pkt. 2, jf. pkt. 3.4, skal ha et overvåkingsprogram for sigevann. Prøvetaking og måling av sigevannets mengde og sammensetning må foretas på hvert punkt der det er utslipp av sigevann fra deponiet.1
 
@@ -2430,13 +2860,28 @@ Overvåkingen av grunnvann må rettes mot grunnvann som kan bli påvirket av dep
 
 Overvåkingen av gassdannelse er avhengig av deponiets innhold av biologisk nedbrytbart avfall, og må være representativ for hver seksjon av deponiet.
 
-Prøvetakings- og analysefrekvens skal vurderes i det enkelte tilfelle. Veiledende hyppighet er angitt i nedenstående tabell.*Driftsfasen**Etterdriftsfasen*SigevannsmengdeMånedligHver sjette månedSigevannets sammensetningKvartalsvisHver sjette månedOverflatevannets mengde og sammensetningKvartalsvisHver sjette månedGrunnvannsnivåHver sjette månedHver sjette månedGrunnvannets sammensetningDeponispesifikk hyppighetDeponispesifikk hyppighetDeponigassMånedligHver sjette måned
+Prøvetakings- og analysefrekvens skal vurderes i det enkelte tilfelle. Veiledende hyppighet er angitt i nedenstående tabell.
+
+|  | *Driftsfasen* | *Etterdriftsfasen* |
+| --- | --- | --- |
+| Sigevannsmengde | Månedlig | Hver sjette måned |
+| Sigevannets sammensetning | Kvartalsvis | Hver sjette måned |
+| Overflatevannets mengde og sammensetning | Kvartalsvis | Hver sjette måned |
+| Grunnvannsnivå | Hver sjette måned | Hver sjette måned |
+| Grunnvannets sammensetning | Deponispesifikk hyppighet | Deponispesifikk hyppighet |
+| Deponigass | Månedlig | Hver sjette måned |
 
 For sigevann og overflatevann skal det for overvåkingsformål tas blandprøver som er representative for den gjennomsnittlige sammensetningen i perioden siden forrige prøvetaking.
 
 De parametrene som skal måles og de stoffene som skal analyseres i overvåkingsprogrammet, vil variere med deponiets sammensetning. De må være angitt i tillatelsen og gjenspeile avfallets egenskaper.
 
+4\. *Deponiets utvikling*
+
 For deponier i driftsfasen skal det årlig lages en statusoversikt over deponiets utvikling som viser det arealet som avfallet opptar, avfallsvolum og -sammensetning, deponeringsmetoder, varighet av deponeringen og gjenværende kapasitet. Eventuelle setninger i fyllingen skal registreres for alle deponier både i drifts- og etterdriftsfasen.
+
+5\. *Krav som gjelder ved midlertidig lagring av metallisk kvikksølv i mer enn ett år*
+
+A. *Krav til overvåking, inspeksjon og beredskap*
 
 På lagringsstedet skal det installeres et system for kontinuerlig overvåking av kvikksølvdamp, med en følsomhet på minst 0,02 mg kvikksølv/m3. Følere skal plasseres på bakkenivå og i hodehøyde. Dette skal omfatte et visuelt og akustisk varslingssystem. Systemet skal minimum vedlikeholdes årlig.
 
@@ -2444,11 +2889,19 @@ Lagringsstedet og beholderne skal kontrolleres visuelt av en autorisert person m
 
 Beredskapsplaner og tilstrekkelig verneutstyr som er egnet til håndtering av metallisk kvikksølv skal være tilgjengelige på lagringsstedet.
 
+B. *Føring av registre*
+
 Dokumentasjon om uttak og forsending av metallisk kvikksølv etter at det har vært midlertidig lagret og informasjon om destinasjonssted og den planlagte behandlingen, skal oppbevares i minst tre år etter at lagringen er opphørt. Det samme skal alle dokumenter som inneholder de opplysninger det vises til i vedlegg II, punkt 2.7 og i bokstav A i dette punktet, herunder sertifikatet som skal følge beholderen.
 
 > Endret ved [forskrift 14 okt 2013 nr. 1237](forskrift/2013-10-14-1237).
 
+1 Referanse: Generelle retningslinjer for prøvetakingsmetoder, ISO 5667-2 (1991).
+
+2 Referanse: Prøvetaking av grunnvann, ISO 5667, del 11, 1993.
+
 ## Kapittel 10. Forbrenning av avfall
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9), [§ 11](lov/1981-03-13-6/§11), [§ 12](lov/1981-03-13-6/§12), [§ 16](lov/1981-03-13-6/§16), [§ 29](lov/1981-03-13-6/§29) og [§ 31](lov/1981-03-13-6/§31). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32de (direktiv [2000/76/EF](eu/32000l0076*)).
 
 ### I. Innledende bestemmelser
 
@@ -2754,7 +3207,28 @@ Kravene i del X gjelder for alle anlegg som er omfattet av del X fra 3. desember
 
 ### Vedlegg I. Ekvivalentfaktorer for polyklorerte dibenzo-p-dioksiner og dibenzofuraner
 
-For bestemmelse av den totale konsentrasjonen (TE) av «dioksiner» skal utslippskonsentrasjonene av følgende polyklorerte dibenzo-p-dioksiner og dibenzofuraner multipliseres med følgende ekvivalentfaktorer før de summeres:*Toksisk ekvivalentfaktor*2,3,7,8Tetraklordibenzodioksin (TCDD)11,2,3,7,8Pentaklordibenzodioksin (PeCDD)0,51,2,3,4,7,8Heksaklordibenzodioksin (HxCDD)0,11,2,3,6,7,8Heksaklordibenzodioksin (HxCDD)0,11,2,3,7,8,9Heksaklordibenzodioksin (HxCDD)0,11,2,3,4,6,7,8Heptaklordibenzodioksin (HpCDD)0,01Oktaklordibenzodioksin (OCDD)0,0012,3,7,8Tetraklordibenzofuran (TCDF)0,12,3,4,7,8Pentaklordibenzofuran (PeCDF)0,51,2,3,7,8Pentaklordibenzofuran (PeCDF)0,051,2,3,4,7,8Heksaklordibenzofuran (HxCDF)0,11,2,3,6,7,8Heksaklordibenzofuran (HxCDF)0,11,2,3,7,8,9Heksaklordibenzofuran (HxCDF)0,12,3,4,6,7,8Heksaklordibenzofuran (HxCDF)0,11,2,3,4,6,7,8Heptaklordibenzofuran (HpCDF)0,011,2,3,4,7,8,9Heptaklordibenzofuran (HpCDF)0,01Oktaklordibenzofuran (OCDF)0,001
+For bestemmelse av den totale konsentrasjonen (TE) av «dioksiner» skal utslippskonsentrasjonene av følgende polyklorerte dibenzo-p-dioksiner og dibenzofuraner multipliseres med følgende ekvivalentfaktorer før de summeres:
+
+|  |  |  |
+| --- | --- | --- |
+|  |  | *Toksisk ekvivalentfaktor* |
+| 2,3,7,8 | Tetraklordibenzodioksin (TCDD) | 1 |
+| 1,2,3,7,8 | Pentaklordibenzodioksin (PeCDD) | 0,5 |
+| 1,2,3,4,7,8 | Heksaklordibenzodioksin (HxCDD) | 0,1 |
+| 1,2,3,6,7,8 | Heksaklordibenzodioksin (HxCDD) | 0,1 |
+| 1,2,3,7,8,9 | Heksaklordibenzodioksin (HxCDD) | 0,1 |
+| 1,2,3,4,6,7,8 | Heptaklordibenzodioksin (HpCDD) | 0,01 |
+|  | Oktaklordibenzodioksin (OCDD) | 0,001 |
+| 2,3,7,8 | Tetraklordibenzofuran (TCDF) | 0,1 |
+| 2,3,4,7,8 | Pentaklordibenzofuran (PeCDF) | 0,5 |
+| 1,2,3,7,8 | Pentaklordibenzofuran (PeCDF) | 0,05 |
+| 1,2,3,4,7,8 | Heksaklordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,6,7,8 | Heksaklordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,7,8,9 | Heksaklordibenzofuran (HxCDF) | 0,1 |
+| 2,3,4,6,7,8 | Heksaklordibenzofuran (HxCDF) | 0,1 |
+| 1,2,3,4,6,7,8 | Heptaklordibenzofuran (HpCDF) | 0,01 |
+| 1,2,3,4,7,8,9 | Heptaklordibenzofuran (HpCDF) | 0,01 |
+|  | Oktaklordibenzofuran (OCDF) | 0,001 |
 
 ### Vedlegg II. Grenseverdier for utslipp til luft fra samforbrenningsanlegg
 
@@ -2762,50 +3236,138 @@ Utslippsgrenser for samforbrenningsanlegg, heretter kalt «totale utslippsgrense
 
 Dersom det er angitt en total utslippsgrense (C) i punkt 1 til 3 i dette vedlegget, skal denne benyttes. For utslippsparametre der slik grenseverdi ikke er angitt, skal totale utslippsgrenser beregnes som:
 
+C = (Vavfall x Cavfall + Vprosess x Cprosess ) / ( Vavfall + Vprosess)
+
+|  |  |
+| --- | --- |
+| Vavfall : | Volumet røykgass fra forbrenning av avfall bestemt ut fra den avfallstypen i utslippstillatelsen som har lavest effektiv (våt) brennverdi, og standardisert til referansebetingelsene angitt i vedlegg X til dette kapitlet.<br><br>Dersom innfyrt effekt fra forbrenning av farlig og/eller smittefarlig avfall samlet utgjør mindre enn 10% av total innfyrt effekt ved anlegget, skal røykgassvolumet fra dette avfallet beregnes ut fra en teoretisk mengde avfall som ved forbrenning ville ha utgjort 10% av den faktiske verdien for total innfyrt effekt. |
+| Cavfall : | Utslippsgrense for avfallsforbrenningsanlegg angitt i vedlegg V til dette kapitlet bokstav a, c og d. |
+| Vprosess : | Volumet røykgass fra prosessen i anlegget, inkludert forbrenning av ordinært brensel, men uten forbrenning av avfall. Volumet skal standardiseres til et oksygeninnhold som angitt i punkt 2.1 i dette vedlegget eller, dersom det aktuelle anlegget ikke er dekket her, til et oksygeninnhold som fastsatt i forskrift eller tillatelse for den aktuelle anleggstypen ved forbrenning av ordinært brensel. Dersom slikt regelverk eller slikt oksygeninnhold ikke finnes, skal det virkelige oksygeninnholdet i røykgassen, uten tilførsel av luft som er unødvendig for prosessen, benyttes. Røykgassvolumet skal i tillegg standardiseres til de øvrige referansebetingelsene angitt i vedlegg X til dette kapitlet. |
+| Cprosess : | Utslippsgrense som angitt i punkt 2.1 i dette vedlegget eller, dersom slik grenseverdi ikke er angitt for den aktuelle utslippsparameteren, utslippsgrense fastsatt i forskrift eller tillatelse for den aktuelle anleggstypen ved forbrenning av ordinært brensel. Dersom slikt regelverk eller slik utslippsgrense ikke finnes, skal den virkelige utslippskonsentrasjonen i røykgassen benyttes. |
+
 Resultatene av utslippsmålinger skal standardiseres til et oksygeninnhold som angitt i tilknytning til tabellverdier for total utslippsgrense (C) i dette vedlegget. For utslippsparametre der slikt oksygeninnhold ikke er angitt, skal resultatene standardiseres til et oksygeninnhold som beregnes som en vektet middelverdi av oksygeninnholdet brukt under bestemmelse av Vavfall og Vprosess , med Vavfall og Vprosess som vekter.
 
 Totale utslippsgrenser oppgis som døgnmiddelverdier eller middelverdier over 4 til 8 timer eller 6 til 8 timer. Unntaksvis, dersom Cavfall er gitt som timesmiddelverdi, oppgis den totale utslippsgrensen som timesmiddelverdi, jf. vedlegg V til dette kapitlet bokstav d. Døgnmiddelverdiene skal anses som «flytende middelverdier», dvs. at utslippsgrensene skal overholdes over enhver periode av 24 timers varighet. Ved måling av utslipp er det kun behov for halvtimes- og timinuttersmiddelverdier for beregning av døgnmiddelverdiene.
 
+*1. Spesielle bestemmelser for sementovner*
+
 Følgende utslippsgrenser er oppgitt som døgnmiddelverdier der ikke annet er angitt. Resultatene av utslippsmålinger skal standardiseres til 10% oksygen.
 
-Middelverdier over en prøvetakingsperiode på minimum 4 timer og maksimum 8 timer:*Utslippsparameter**C**Enhet*Cd+Tl0,05mg/Nm3Hg0,05mg/Nm3Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V0,5mg/Nm3
+1.1. *Totale utslippsgrenser*
 
-Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:*Utslippsparameter**C**Enhet*Dioksiner, definert i henhold til vedlegg I til dette kapitlet0,1ng/Nm3
+| *Utslippsparameter* | *C* | *Enhet* |
+| --- | --- | --- |
+| Totalt støv | 30 | mg/Nm3 |
+| TOC | 10 | mg/Nm3 |
+| HCl | 10 | mg/Nm3 |
+| HF | 1 | mg/Nm3 |
+| SO2 | 50 | mg/Nm3 |
+| NOx | 500 | mg/Nm3 |
+
+Middelverdier over en prøvetakingsperiode på minimum 4 timer og maksimum 8 timer:
+
+| *Utslippsparameter* | *C* | *Enhet* |
+| --- | --- | --- |
+| Cd+Tl | 0,05 | mg/Nm3 |
+| Hg | 0,05 | mg/Nm3 |
+| Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V | 0,5 | mg/Nm3 |
+
+Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:
+
+| *Utslippsparameter* | *C* | *Enhet* |
+| --- | --- | --- |
+| Dioksiner, definert i henhold til vedlegg I til dette kapitlet | 0,1 | ng/Nm3 |
 
 Forurensningsmyndigheten kan gjøre unntak fra utslippskravene til TOC og SO2 for tilfeller der utslippene av disse parametrene ikke stammer fra forbrenning av avfall.
 
+1.2. *Utslippsgrenser for CO*
+
 Utslippsgrenser for CO kan fastsettes av forurensningsmyndigheten.
+
+2\. *Spesielle bestemmelser for fyringsanlegg med unntak av gassturbiner og gassmotorer*
+
+2.1. *Cprosess*
 
 Følgende utslippsgrenser er oppgitt som døgnmiddelverdier og uttrykt i mg/Nm3 . Røykgassvolumet Vprosess skal standardiseres til et oksygeninnhold som angitt over hver tabell. Samlet nominell tilført termisk effekt, som angitt i tabellene, skal beregnes i henhold til bestemmelsene i [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 31-4](forskrift/2004-06-01-931/§31-4).
 
+2.1.1. *Eksisterende fyringsanlegg*
+
 Følgende utslippsgrenser gjelder for fyringsanlegg som har tillatelse fra før 7. januar 2013 og fyringsanlegg der driftsansvarlig har levert en fullstendig søknad om tillatelse innen 7. januar 2013, forutsatt at fyringsanlegget settes i drift senest 7. januar 2014.
 
-Forbrenning av fast brensel, med unntak av biomasse (oksygeninnhold 6 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2400
-for torv: 300200200NOx300
-for pulverisert brunkull: 400200200Totalt støv503025
-for torv: 2020
+Forbrenning av fast brensel, med unntak av biomasse (oksygeninnhold 6 %):
 
-Forbrenning av biomasse (oksygeninnhold 6 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2200200200NOx300250200Totalt støv50302020
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 400<br>for torv: 300 | 200 | 200 |
+| NOx |  | 300<br>for pulverisert brunkull: 400 | 200 | 200 |
+| Totalt støv | 50 | 30 | 25<br>for torv: 20 | 20 |
 
-Forbrenning av flytende brensel (oksygeninnhold 3 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2350250200NOx400200150Totalt støv50302520
+Forbrenning av biomasse (oksygeninnhold 6 %):
+
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 200 | 200 | 200 |
+| NOx |  | 300 | 250 | 200 |
+| Totalt støv | 50 | 30 | 20 | 20 |
+
+Forbrenning av flytende brensel (oksygeninnhold 3 %):
+
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 350 | 250 | 200 |
+| NOx |  | 400 | 200 | 150 |
+| Totalt støv | 50 | 30 | 25 | 20 |
+
+2.1.2. *Nye fyringsanlegg*
 
 Følgende utslippsgrenser gjelder for alle andre fyringsanlegg enn anleggene angitt i punkt 2.1.1.
 
-Forbrenning av fast brensel, med unntak av biomasse (oksygeninnhold 6 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2400
-for torv: 300200
-for torv: 300, unntatt for fluidized bed forbrenning: 250150
-for sirkulerende eller trykksatt fluidized bed forbrenning eller, ved fyring med torv, alle typer fluidized bed forbrenning: 200NOx300
-for torv: 250200150
-for pulverisert brunkull: 200Totalt støv50202010
-for torv: 20
+Forbrenning av fast brensel, med unntak av biomasse (oksygeninnhold 6 %):
 
-Forbrenning av biomasse (oksygeninnhold 6 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2200200150NOx250200150Totalt støv50202020
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 400<br>for torv: 300 | 200<br>for torv: 300, unntatt for fluidized bed forbrenning: 250 | 150<br>for sirkulerende eller trykksatt fluidized bed forbrenning eller, ved fyring med torv, alle typer fluidized bed forbrenning: 200 |
+| NOx |  | 300<br>for torv: 250 | 200 | 150<br>for pulverisert brunkull: 200 |
+| Totalt støv | 50 | 20 | 20 | 10<br>for torv: 20 |
 
-Forbrenning av flytende brensel (oksygeninnhold 3 %):*Utslippsparameter**< 50 MWt**50–100 MWt**100–300 MWt**> 300 MWt*SO2350200150NOx300150100Totalt støv50202010
+Forbrenning av biomasse (oksygeninnhold 6 %):
 
-Resultatene av utslippsmålinger skal standardiseres til 6 % oksygen for fast brensel og 3 % oksygen for flytende brensel. Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:*Utslippsparameter**C**Enhet*Cd+Tl0,05mg/Nm3Hg0,03mg/Nm3Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V0,5mg/Nm3Dioksiner, definert i henhold til vedlegg I til dette kapitlet0,1ng/Nm3
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 200 | 200 | 150 |
+| NOx |  | 250 | 200 | 150 |
+| Totalt støv | 50 | 20 | 20 | 20 |
 
-Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:*Utslippsparameter**C**Enhet*Cd+Tl0,05mg/Nm3Hg0,03mg/Nm3Dioksiner, definert i henhold til vedlegg I til dette kapitlet0,1ng/Nm3
+Forbrenning av flytende brensel (oksygeninnhold 3 %):
+
+| *Utslippsparameter* | *< 50 MWt* | *50–100 MWt* | *100–300 MWt* | *> 300 MWt* |
+| --- | --- | --- | --- | --- |
+| SO2 |  | 350 | 200 | 150 |
+| NOx |  | 300 | 150 | 100 |
+| Totalt støv | 50 | 20 | 20 | 10 |
+
+2.2. *Totale utslippsgrenser*
+
+Resultatene av utslippsmålinger skal standardiseres til 6 % oksygen for fast brensel og 3 % oksygen for flytende brensel. Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:
+
+| *Utslippsparameter* | *C* | *Enhet* |
+| --- | --- | --- |
+| Cd+Tl | 0,05 | mg/Nm3 |
+| Hg | 0,03 | mg/Nm3 |
+| Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V | 0,5 | mg/Nm3 |
+| Dioksiner, definert i henhold til vedlegg I til dette kapitlet | 0,1 | ng/Nm3 |
+
+3\. *Spesielle bestemmelser for industrisektorer som ikke er dekket under punkt 1 og 2*
+
+3.1. *Totale utslippsgrenser*
+
+Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer:
+
+| *Utslippsparameter* | *C* | *Enhet* |
+| --- | --- | --- |
+| Cd+Tl | 0,05 | mg/Nm3 |
+| Hg | 0,03 | mg/Nm3 |
+| Dioksiner, definert i henhold til vedlegg I til dette kapitlet | 0,1 | ng/Nm3 |
 
 > Endret ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
@@ -2822,26 +3384,107 @@ Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 tim
 
 ### Vedlegg IV. Grenseverdier for utslipp til vann fra rensing av røykgass
 
+| *Utslippsparameter* | *Utslippsgrenser for ufiltrerte døgnblandprøver* |  |
+| --- | --- | --- |
+| Total mengde suspendert stoff1 | A (100%)2 | B (95%)3 |
+|  | 45 mg/l | 30 mg/l |
+| Kvikksølv og kvikksølvforbindelser, uttrykt som kvikksølv (Hg) | 0,03 mg/l |  |
+| Kadmium og kadmiumforbindelser, uttrykt som kadmium (Cd) | 0,05 mg/l |  |
+| Thallium og thalliumforbindelser, uttrykt som thallium (Tl) | 0,05 mg/l |  |
+| Arsen og arsenforbindelser, uttrykt som arsen (As) | 0,15 mg/l |  |
+| Bly og blyforbindelser, uttrykt som bly (Pb) | 0,2 mg/l |  |
+| Krom og kromforbindelser, uttrykt som krom (Cr) | 0,5 mg/l |  |
+| Kobber og kobberforbindelser, uttrykt som kobber (Cu) | 0,5 mg/l |  |
+| Nikkel og nikkelforbindelser, uttrykt som nikkel (Ni) | 0,5 mg/l |  |
+| Sink og sinkforbindelser, uttrykt som sink (Zn) | 1,5 mg/l |  |
+| Dioksiner, definert i henhold til vedlegg I til dette kapitlet | 0,3 ng/l |  |
+
+1 Som definert i [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning kapittel 15B](forskrift/2004-06-01-931/kap15B) om rensing av avløpsvann.
+
+2 Utslippsgrense som 100% av målingene må overholde.
+
+3 Utslippsgrense som minst 95% av målingene må overholde over en løpende ettårsperiode (i tillegg til 100%-grensen).
+
 > Endret ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg V. Grenseverdier for utslipp til luft fra avfallsforbrenningsanlegg
 
 Resultatene av utslippsmålinger skal standardiseres til *11 %* oksygen med unntak av resultater fra forbrenning av spillolje som standardiseres til 3 % oksygen.
 
+a. *Døgnmiddelverdier*
+
+| *Utslippsparameter* | *Utslippsgrenser* | *Enhet* |
+| --- | --- | --- |
+| Totalt støv | 10 | mg/Nm3 |
+| Gass- og dampformige organiske forbindelser, uttrykt som totalt organisk karbon (TOC) | 10 | mg/Nm3 |
+| Hydrogenklorid (HCl) | 10 | mg/Nm3 |
+| Hydrogenfluorid (HF) | 1 | mg/Nm3 |
+| Svoveldioksid (SO2 ) | 50 | mg/Nm3 |
+| Nitrogenmonoksid (NO) og nitrogendioksid (NO2 ), uttrykt som nitrogendioksid | 200 | mg/Nm3 |
+
+b. *Halvtimesmiddelverdier*
+
+| *Utslippsparameter* | *Utslippsgrenser* |  | *Enhet* |
+| --- | --- | --- | --- |
+|  | *A (100 %)1* | *B (97 %)2* |  |
+| Totalt støv | 30 | 10 | mg/Nm3 |
+| Gass- og dampformige organiske forbindelser, uttrykt som totalt organisk karbon (TOC) | 20 | 10 | mg/Nm3 |
+| Hydrogenklorid (HCl) | 60 | 10 | mg/Nm3 |
+| Hydrogenfluorid (HF) | 4 | 2 | mg/Nm3 |
+| Svoveldioksid (SO2 ) | 200 | 50 | mg/Nm3 |
+| Nitrogenmonoksid (NO) og nitrogendioksid (NO2 ), uttrykt som nitrogendioksid | 400 | 200 | mg/Nm3 |
+
+1 Utslippsgrense som 100 % av målingene må overholde.
+
+2 Utslippsgrense som minst 97 % av målingene må overholde over en løpende ettårsperiode (som et alternativ til å overholde 100 %-grensen).
+
+c. *Middelverdier over en prøvetakingsperiode på minimum 6 timer og maksimum 8 timer*
+
+| *Utslippsparameter* | *Utslippsgrenser* | *Enhet* |
+| --- | --- | --- |
+| Kadmium og kadmiumforbindelser, uttrykt som kadmium (Cd)<br>Thallium og thalliumforbindelser, uttrykt som thallium (Tl) | totalt 0,05 | mg/Nm3 |
+| Kvikksølv og kvikksølvforbindelser, uttrykt som kvikksølv (Hg) | 0,03 | mg/Nm3 |
+| Antimon og antimonforbindelser, uttrykt som antimon (Sb)<br>Arsen og arsenforbindelser, uttrykt som arsen (As)<br>Bly og blyforbindelser, uttrykt som bly (Pb)<br>Krom og kromforbindelser, uttrykt som krom (Cr)<br>Kobolt og koboltforbindelser, uttrykt som kobolt (Co)<br>Kobber og kobberforbindelser, uttrykt som kobber (Cu)<br>Mangan og manganforbindelser, uttrykt som mangan (Mn)<br>Nikkel og nikkelforbindelser, uttrykt som nikkel (Ni)<br>Vanadium og vanadiumforbindelser, uttrykt som vanadium (V) | totalt 0,5 | mg/Nm3 |
+| Dioksiner, definert i henhold til vedlegg I til dette kapitlet | 0,1 | ng/Nm3 |
+
 Middelverdiene ovenfor omfatter totalutslipp i gass- og partikkelfase av de relevante tungmetallene samt forbindelser hvor disse inngår.
+
+d. *Middelverdier for karbonmonoksid (CO)*
 
 - 50 mg/Nm3 som døgnmiddelverdi
 - 100 mg/Nm3 som halvtimesmiddelverdi,1 150 mg/Nm3 som timinuttersmiddelverdi.2
 
 Forurensningsmyndigheten kan gjøre unntak fra utslippskravene til CO for anlegg som er utstyrt med fluidized bed teknologi forutsatt at det fastsettes en utslippsgrense på maksimalt 100 mg/Nm3 som timesmiddelverdi.
 
+1 Utslippsgrense som 100 % av målingene, beregnet som halvtimesmidler, må overholde.
+
+2 Utslippsgrense som minst 95 % av målingene, beregnet som timinuttersmiddelverdier, må overholde over en løpende 24-timersperiode (som et alternativ til å overholde 100 %-grensen).
+
 > Endret ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg VI. Formel for å beregne utslippskonsentrasjonen ved standard oksygenkonsentrasjon
 
+US = [(21 – OS )/(21 – OM )] x UM
+
+|  |  |
+| --- | --- |
+| US = | Beregnet utslippskonsentrasjon ved standard oksygenkonsentrasjon |
+| UM = | Målt utslippskonsentrasjon |
+| OS = | Standard oksygenkonsentrasjon (i prosent) |
+| OM = | Målt oksygenkonsentrasjon (i prosent) |
+
 > Endret ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg VII. Formel for å beregne normalisert utslippskonsentrasjon i avløpsvann
+
+KN = (AM / AG ) x KM
+
+|  |  |
+| --- | --- |
+| KN = | Beregnet utslippskonsentrasjon ved normal mengde avløpsvann |
+| KM = | Målt utslippskonsentrasjon |
+| AM = | Målt mengde avløpsvann per tonn forbrent avfall |
+| AG = | Grenseverdi for normal mengde avløpsvann per tonn forbrent avfall |
 
 ### Vedlegg VIII. Innhold i en utslippstillatelse
 
@@ -2853,9 +3496,13 @@ Dersom forbrenningsanlegget skal behandle farlig og/eller smittefarlig avfall, s
 
 ### Vedlegg IX. Forbrenningsbetingelser
 
+*1. Forbrenningstemperatur og oppholdstid*
+
 Forbrenningsanlegg skal utformes, bygges og drives slik at temperaturen i forbrenningsgassene, etter siste innblåsing av forbrenningsluft, økes på kontrollert og ensartet vis til minst 850 °C i minst 2 sekunder.
 
 For forbrenningsanlegg som forbrenner farlig avfall og/eller smittefarlig avfall som inneholder mer enn 1% halogenerte organiske forbindelser, uttrykt som klor (Cl), skal temperaturen økes til minst 1100 °C i minst 2 sekunder.
+
+*2. Støttebrenner*
 
 Hver linje i et avfallsforbrenningsanlegg skal være utstyrt med minst én støttebrenner. Denne støttebrenneren skal slås på automatisk hvis temperaturen i forbrenningsgassene, etter siste innblåsing av forbrenningsluft, synker under 850 °C eller 1100 °C.
 
@@ -2863,11 +3510,15 @@ Støttebrenneren skal også benyttes ved opp- og nedkjøring av avfallsforbrenni
 
 Støttebrenneren skal ikke drives med brensel som kan forårsake høyere utslipp enn ved forbrenning av gassolje, flytende gass eller naturgass.
 
+*3. Innmating av avfall*
+
 Forbrenningsanlegg skal ha et system som forhindrer innmating av avfallnår temperaturen i forbrenningsgassene, etter siste innblåsing av forbrenningsluft, synker under 850 °C eller 1100 °C,ved oppkjøring av anlegget, før temperaturen har nådd 850 °C eller 1100 °C, ognår de kontinuerlige målingene som utføres ved anlegget viser at de fastsatte utslippsgrensene overskrides som følge av forstyrrelser eller svikt i renseanlegget.
 
 > Endret ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016).
 
 ### Vedlegg X. Standardisering av måleresultater og beregning av middelverdier for utslipp til luft
+
+*1. Standardisering av måleresultater*
 
 Resultatene av målinger som foretas ved et forbrenningsanlegg skal standardiseres til følgende referansebetingelser: temperatur 273,15 K, trykk 101,3 kPa og tørr gass.
 
@@ -2878,6 +3529,8 @@ Ved forbrenning av avfall i en atmosfære tilsatt ekstra oksygen, kan måleresul
 Ved forbrenning av farlig og/eller smittefarlig avfall skal standardisering med hensyn til oksygeninnhold kun utføres dersom det faktiske oksygeninnholdet i røykgassen, bestemt for tidsrommet hvor utslippsmålingene blir gjennomført, overstiger den relevante referansebetingelsen for oksygeninnhold gitt i dette vedlegget.
 
 Standardisering med hensyn til oksygeninnhold skal i alle tilfeller utføres i henhold til formel i vedlegg VI til dette kapitlet.
+
+*2. Beregning av middelverdier*
 
 Ved beregning av times-, halvtimes- og timinuttersmiddelverdier fra utslippsmålinger som foretas ved et forbrenningsanlegg, skal det benyttes måleverdier fra hele den ordinære driftstiden til anlegget. Opp- og nedkjøring av anlegget, så lenge det ikke forbrennes avfall, regnes ikke som ordinær drift, jf. [§ 10-3](forskrift/2004-06-01-930/§10-3) bokstav h. Døgnmiddelverdiene skal bestemmes ut fra de beregnede times-, halvtimes- eller timinuttersmiddelverdiene.
 
@@ -2895,13 +3548,74 @@ Unntak fra kravet om periodiske målinger av tungmetaller og dioksiner i [§ 10-
 
 Alle utslippsgrenseverdier viser til konsentrasjoner under følgende standardbetingelser: tørr gass ved en temperatur på 273,15 K og et trykk på 101,3 kPa, uttrykt i mg/Nm3, μg/Nm3, ng I-TEQ/Nm3 eller ng WHO-TEQ/Nm3. Standardisert O2-innhold er 11 volumprosent (tørr gass).
 
-For midlingstider gjelder følgende definisjoner:*Type måling**Midlingsperiode**Definisjon*KontinuerligHalvtimesmiddelverdiMiddelverdi over en periode på 30 minutterKontinuerligDøgnmiddelverdiMiddelverdi over en periode på et døgn basert på gyldige halvtimesmiddelverdierPeriodiskGjennomsnitt i prøvetakingsperiodenMiddelverdi av tre påfølgende målinger på minst 30 minutter hver1
+For midlingstider gjelder følgende definisjoner:
 
-For PCDD/F og dioksinlignende PCBer benyttes en prøvetakingsperiode på 6–8 timer ved korttidsprøvetakingPeriodiskLangtidsprøvetakingVerdi over en prøvetakingsperiode på 2–4 uker
+| *Type måling* | *Midlingsperiode* | *Definisjon* |
+| --- | --- | --- |
+| Kontinuerlig | Halvtimesmiddelverdi | Middelverdi over en periode på 30 minutter |
+| Kontinuerlig | Døgnmiddelverdi | Middelverdi over en periode på et døgn basert på gyldige halvtimesmiddelverdier |
+| Periodisk | Gjennomsnitt i prøvetakingsperioden | Middelverdi av tre påfølgende målinger på minst 30 minutter hver1<br><br>For PCDD/F og dioksinlignende PCBer benyttes en prøvetakingsperiode på 6–8 timer ved korttidsprøvetaking |
+| Periodisk | Langtidsprøvetaking | Verdi over en prøvetakingsperiode på 2–4 uker |
+
+1 For parametere hvor prøvetaking/måling på 30 minutter og/eller en middelverdi av tre påfølgende målinger er uegnet på grunn av begrensninger i forbindelse med prøvetaking eller analyse, kan en mer passende prosedyre benyttes.
 
 Når avfall samforbrennes med andre brensler, gjelder utslippsgrensene for utslipp til luft for hele den produserte røykgassmengde.
 
 Med kanaliserte utslipp menes utslipp av forurensende stoffer til miljøet gjennom alle typer kanaler, rør, skorsteiner, avtrekk mv.
+
+*Tabell 1. Utslippsgrenser for kanaliserte utslipp, for anlegg som har fått tillatelse første gang, eller er fullstendig skiftet ut, etter 3. desember 2019*
+
+| *Utslippsparameter* | *Utslippsgrense* | *Enhet* | *Midlingstid* |
+| --- | --- | --- | --- |
+| Totalt støv | < 2–5 | mg/Nm3 | døgnmiddelverdi |
+| Summen av kadmium (Cd), thallium (Tl) og deres forbindelser, uttrykt som Cd+Tl. | 0,005–0,02 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Summen av antimon, arsen, bly, krom, kobolt, kobber, mangan, nikkel, vanadium og deres forbindelser, uttrykt som Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V. | 0,01–0,3 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Hydrogenklorid (HCl) | < 2–6 | mg/Nm3 | døgnmiddelverdi |
+| Hydrogenfluorid (HF) | < 1 | mg/Nm3 | døgnmiddelverdi |
+| Svoveldioksid (SO2) | 5–30 | mg/Nm3 | døgnmiddelverdi |
+| Summen av nitrogenmonoksid (NO) og nitrogendioksid (NO2), uttrykt som NO2 | 50–120 | mg/Nm3 | døgnmiddelverdi |
+| Karbonmonoksid (CO) | 10–50 | mg/Nm3 | døgnmiddelverdi |
+| Ammoniakk (NH3) fra bruk av selektiv ikke-katalytisk reduksjon SNCR og/eller selektiv katalytisk reduksjon SCR | 2–10 | mg/Nm3 | døgnmiddelverdi |
+| Totalt flyktig organisk karbon, uttrykt som C (TOC) | < 3–10 | mg/Nm3 | døgnmiddelverdi |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)1 | < 0,01–0,04 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)1 | < 0,01–0,06 | ng I-TEQ/Nm3 | langtidsprøvetaking2 |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)1 | < 0,01–0,06 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)1 | < 0,01–0,08 | ng WHO-TEQ/Nm3 | langtidsprøvetaking2 |
+| Summen av kvikksølv (Hg) og kvikksølvforbindelser, uttrykt som Hg | < 5–20 | µg/Nm3 | døgnmiddelverdi |
+
+1 Hvis utslippet av dioksinlignende PCB er påvist til under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F brukes. Dersom utslippet av dioksinlignende PCB ikke er påvist å være under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F + dioksinlignende PCB brukes.
+
+2 Utslippsgrenseverdien gjelder ikke hvis det er påvist at utslippsnivåene er stabile.
+
+*Tabell 2. Utslippsgrenser for kanaliserte utslipp for anlegg som har fått tillatelse første gang før 4. desember 2019, og som ikke er fullstendig skiftet ut etter 3. desember 2019*
+
+| *Utslippsparameter* | *Utslippsgrense* | *Enhet* | *Midlingstid* |
+| --- | --- | --- | --- |
+| Totalt støv | < 2–51 | mg/Nm3 | døgnmiddelverdi |
+| Summen av kadmium (Cd), thallium (Tl) og deres forbindelser, uttrykt som Cd+Tl. | 0,005–0,02 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Summen av antimon, arsen, bly, krom, kobolt, kobber, mangan, nikkel, vanadium og deres forbindelser, uttrykt som Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V. | 0,01–0,3 | mg/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Hydrogenklorid (HCl) | < 2–8 | mg/Nm3 | døgnmiddelverdi |
+| Hydrogenfluorid (HF) | < 1 | mg/Nm3 | døgnmiddelverdi |
+| Svoveldioksid (SO2) | 5–40 | mg/Nm3 | døgnmiddelverdi |
+| Summen av nitrogenmonoksid (NO) og nitrogendioksid (NO2), uttrykt som NO2 | 50–1502 | mg/Nm3 | døgnmiddelverdi |
+| Karbonmonoksid (CO) | 10–50 | mg/Nm3 | døgnmiddelverdi |
+| Ammoniakk (NH3) fra bruk av selektiv ikke-katalytisk reduksjon SNCR og/eller selektiv katalytisk reduksjon SCR | 2–103 | mg/Nm3 | døgnmiddelverdi |
+| Totale flyktige organisk karbon, uttrykt som C (TOC) | < 3–10 | mg/Nm3 | Døgnmiddelverdi |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)4 | < 0,01–0,06 | ng I-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCDD/F)4 | < 0,01–0,08 | ng I-TEQ/Nm3 | langtidsprøvetaking5 |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)4 | < 0,01–0,08 | ng WHO-TEQ/Nm3 | gjennomsnitt i prøvetakingsperioden |
+| PCDD/F + dioksinlignende polyklorerte bifenyler (dioksinlignende PCB)4 | < 0,01–0,1 | ng WHO-TEQ/Nm3 | langtidsprøvetaking5 |
+| Summen av kvikksølv (Hg) og kvikksølvforbindelser, uttrykt som Hg | < 5–20 | µg/Nm3 | døgnmiddelverdi |
+
+1 For anlegg for forbrenning av farlig avfall, og der et posefilter ikke kan brukes, er den øvre grensen i intervallet 7 mg/Nm3.
+
+2 Den øvre grense av intervallet er 180 mg/Nm3 dersom SCR ikke er aktuelt.
+
+3 Den øvre grense av intervallet er 15 mg/Nm3 for anlegg som er utstyrt med SNCR uten våte reduksjonsteknikker.
+
+4 Hvis utslippet av dioksinlignende PCB er påvist til under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F brukes. Dersom utslippet av dioksinlignende PCB ikke er påvist å være under 0,01 ng WHO-TEQ/Nm3 skal utslippsgrenseverdiene for PCDD/F + dioksinlignende PCB brukes.
+
+5 Utslippsgrenseverdien gjelder ikke hvis det er påvist at utslippsnivåene er stabile.
 
 > Opphevet ved [forskrift 26 juli 2016 nr. 950](forskrift/2016-07-26-950) (i kraft 1 aug 2016), tilføyd ved forskrift [26 mai 2023 nr. 782](forskrift/2023-05-26-782).
 
@@ -2913,11 +3627,32 @@ Utslippsgrenseverdiene refererer til døgnmiddelverdier, dvs. 24-timers gjennoms
 
 Utslippsgrenseverdier for utslipp til vann gjelder på det punktet der utslippene forlater anlegget. Der avløpsvann renses i et renseanlegg som også behandler avløpsvann fra andre kilder, kan rensingen som skjer i dette renseanlegget tas i betraktning ved vurdering av om utslippsgrensene for TOC og TSS overholdes, dersom dette ikke medfører en høyere forurensningsbelastning på miljøet. Dette må dokumenteres.
 
+*Tabell 1. Utslippsgrenseverdier for utslipp til vann fra rensing av røykgass*
+
+| *Utslippsparameter* | *Utslippsgrense* | *Enhet* |
+| --- | --- | --- |
+| Total mengde suspendert stoff (TSS) | 10–30 | mg/l |
+| Totalt organisk karbon, uttrykt som C (TOC) | 15–40 | mg/l |
+| Arsen og arsenforbindelser, uttrykt som As | 0,01–0,05 | mg/l |
+| Kadmium og kadmiumforbindelser, uttrykt som Cd | 0,005–0,03 | mg/l |
+| Krom og kromforbindelser, uttrykt som Cr | 0,01–0,1 | mg/l |
+| Kobber og kobberforbindelser, uttrykt som Cu | 0,03–0,15 | mg/l |
+| Kvikksølv og kvikksølvforbindelser, uttrykt som Hg | 0,001–0,01 | mg/l |
+| Nikkel og nikkelforbindelser, uttrykt som Ni | 0,03–0,15 | mg/l |
+| Bly og blyforbindelser, uttrykt som Pb | 0,02–0,06 | mg/l |
+| Antimon og antimonforbindelser, uttrykt som Sb | 0,02–0,9 | mg/l |
+| Thallium og thalliumforbindelser, uttrykt som Tl | 0,005–0,03 | mg/l |
+| Sink og sinkforbindelser, uttrykt som Zn | 0,01–0,5 | mg/l |
+| Polyklorerte dibenzo-p-dioksiner og -furaner (PCCD/F) | 0,01–0,05 | ng I-TEQ/l |
+
 > Tilføyd ved forskrift [26 mai 2023 nr. 782](forskrift/2023-05-26-782).
 
 ## Kapittel 10a. Utsortering, innsamling, forberedelse til ombruk og materialgjenvinning av enkelte avfallstyper
 
 > Kapitlene 10a-10c opphevet fra 1. januar 2006, jf. tidligere § 10-35, kapittel 10a tilføyd ved [forskrift 7 juni 2022 nr. 971](forskrift/2022-06-07-971) (i kraft 1 jan 2023), overskrift endret ved forskrift [13 mai 2024 nr. 849](forskrift/2024-05-13-849) (i kraft 1 jan 2025).
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 30](lov/1981-03-13-6/§30), [§ 32](lov/1981-03-13-6/§32), [§ 33](lov/1981-03-13-6/§33), [§ 49](lov/1981-03-13-6/§49) og [§ 81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 11. juni 1993 nr. 785](forskrift/1993-06-11-785).
+**EØS-henvisninger:** [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) kapittel V nr. 32ff (direktiv [2008/98/EF](eu/32008l0098), som endret ved direktiv [(EU) 2018/851](eu/32018l0851)).
 
 ### I. Innledende bestemmelser
 
@@ -3081,6 +3816,9 @@ Statsforvalteren fører tilsyn med kommunens oppfyllelse av plikter pålagt i de
 
 ## Kapittel 11. Farlig avfall
 
+**Hjemmel:** Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 20](lov/1981-03-13-6/§20), [§ 29](lov/1981-03-13-6/§29) og [§ 31](lov/1981-03-13-6/§31), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245).
+**EØS-henvisninger:** [EØS-avtalen vedlegg XX kap. V](avtale/avt-1992-05-02-1-v20/kapV) nr. 32ff (direktiv [2008/98/EF](eu/32008l0098) som endret ved forordning [(EU) nr. 1357/2014](eu/32014r1357)) og nr. 32aa (vedtak [2000/532/EF](eu/32000d0532) som endret ved vedtak [2001/118/EF](eu/32001d0118), vedtak [2001/119/EF](eu/32001d0119), vedtak [2001/573/EF](eu/32001d0573) og vedtak [(EU) 2014/955](eu/32014d0955)).
+
 > Endret ved forskrift [16 mai 2023 nr. 962](forskrift/2023-05-16-962).
 
 ### § 11-1. Formål
@@ -3238,8 +3976,10 @@ For virksomheter som nevnt i første ledd gjelder de øvrige bestemmelsene i ved
 1. *Definisjoner*I dette vedlegg menes med*tungmetaller*: enhver forbindelse av antimon, arsen, kadmium, krom (VI), kobber, bly, kvikksølv, nikkel, selen, tellur, thallium og tin, samt disse stoffene i metallform såfremt de skal klassifiseres som farlige stoffer,*overgangsmetaller*: enhver forbindelse av scandium, vanadium, mangan, kobolt, kobber, yttrium, niob, hafnium, wolfram, titan, krom, jern, nikkel, sink, zirkonium, molybden og tantal, samt disse stoffene i metallform såfremt de skal klassifiseres som farlige stoffer,*PCB*: polyklorerte bifenyler, polyklorerte terfenyler, monometyltetraklordifenylmetan, monometyldiklordifenylmetan, monometyldibromdifenylmetan samt alle blandinger hvis totale innhold av nevnte stoffer overskrider 0,005 vektprosent,*stabilisering*: prosesser som endrer farlighetsgraden til avfallets bestanddeler og omdanner farlig avfall til ikke-farlig avfall,*herding*: prosesser som ved hjelp av tilsetningsstoffer endrer avfallets fysiske tilstand uten at avfallets kjemiske egenskaper endres,*delvis stabilisert avfall*: avfall som etter å ha gjennomgått stabilisering fortsatt inneholder farlige bestanddeler som ikke er blitt fullstendig omdannet til ikke-farlige bestanddeler og som kan bli sluppet ut i miljøet på kort, mellomlang eller lang sikt.
 2. *Identifisering av avfall ved anvendelse av avfallslisten i nr. 5*Som hovedregel skal avfall fra virksomheter m.m. som nevnt i kapittel 01 til 12 eller 17 til 20 i avfallslisten identifiseres ved hjelp av de sekssifrede avfallskodene i disse kapitlene. Dersom verken avfallskodene i kapittel 01 til 12 eller 17 til 20 passer, skal avfallet om mulig identifiseres ved hjelp av avfallskodene i kapittel 13 til 15. Dersom heller ikke avfallskodene i kapittel 13 til 15 passer, skal avfallet identifiseres ved hjelp av avfallskodene i kapittel 16.Avfallskoder som ender med tallet 99 skal likevel bare brukes dersom ingen av de øvrige avfallskodene passer. Avfallskoder som ender med 99 i kapitlene 01 til 12 og 17 til 20 skal brukes fremfor koder som ender på 99 i kapittel 13 og koder i kapittel 13 skal brukes fremfor koder i kapittel 16.
 3. *Klassifisering av avfall ved anvendelse av avfallslisten i nr. 5*Avfall som skal identifiseres ved hjelp av en avfallskode som er merket med stjerne, skal klassifiseres som farlig avfall med mindre Miljødirektoratet eller den Klima- og miljødepartementet bemyndiger har bestemt noe annet i medhold av [§ 11-2](forskrift/2004-06-01-930/§11-2) tredje ledd.Avfall som tilhører en avfallstype som kan identifiseres ved hjelp av ulike avfallskoder hvorav minst en er merket med stjerne og en ikke er det, skal bare klassifiseres som farlig avfall dersomdets innhold av farlige stoffer, som avfallslisten henviser til generelt («farlige stoffer») eller spesifikt (f.eks. «asbest»), medfører at avfallet skal klassifiseres som farlig i henhold til vedlegg 2 nr. 2, ellerdets innhold av polyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/PCDF), DDT (1,1,1-triklor-2,2-bis(4-klorfenyl)etan), klordan, heksaklorsykloheksaner (herunder lindan), dieldrin, endrin, heptaklor, heksaklorbenzen, klordekon, aldrin, pentaklorbenzen, mirex, toksafen, heksabrombifenyl, PCB, dekabromdifenyleter og/eller heksabromsyklododekan er høyere enn eller lik den relevante grenseverdien i vedlegg 2 nr. 3.Avfall bestående av rene metallegeringer i deres massive form som ikke er forurenset av farlige stoffer skal likevel bare klassifiseres som farlig avfall, dersom legeringene er uttrykkelig nevnt i en avfallskode som er merket med stjerne i avfallslisten i nr. 5
-4. *Kapittelinndelingen i avfallslisten i nr. 5*01Avfall fra leting, utvinning ved gruvedrift og i steinbrudd, og fysisk og kjemisk behandling av mineraler02Avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske samt produksjon og bearbeiding av næringsmidler03Avfall fra treindustri og produksjon av plater og møbler, papirmasse, papir og papp/kartong04Avfall fra lærvare-, pelsverk- og tekstilindustrien05Avfall fra oljeraffinering, rensing av naturgass og pyrolytisk behandling av kull06Avfall fra uorganiske kjemiske prosesser07Avfall fra organiske kjemiske prosesser08Avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av beleggingsprodukter (malinger, lakker og glassemaljer), klebemidler, tetningsmasser og trykkfarger09Avfall fra fotografisk industri10Avfall fra varmebehandlingsprosesser11Avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer, og fra hydrometallurgi med ikke-jernholdige metaller12Avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plaststoffer13Avfall av oljer og flytende brensel (unntatt matoljer, 05 og 12)14Avfall av organiske løsemidler, kjølemidler og drivmidler (unntatt 07 og 08)15Avfall av emballasje, absorbenter, tørkekluter, filtreringsmaterialer og vernetøy som ikke er spesifisert andre steder16Avfall som ikke er spesifisert andre steder i listen17Avfall fra bygge- og rivingsarbeid (herunder overskuddsmasse fra forurensede byggeplasser)18Avfall fra medisinsk behandling eller veterinærbehandling og/eller tilhørende forskning (unntatt kjøkken- og restaurantavfall som ikke har direkte tilknytning til medisinsk behandling)19Avfall fra avfallsbehandlingsanlegg og eksterne avløpsrenseanlegg og fra fremstilling av drikkevann og vann til industriell bruk20Kommunalt avfall (husholdningsavfall og lignende avfall fra handel, industri og institusjoner) herunder separat innsamlede fraksjoner.
-5. *Avfallslisten***01**Avfall fra leting, utvinning ved gruvedrift og i steinbrudd og fysisk og kjemisk behandling av mineraler**01 01**avfall fra utvinning av mineraler01 01 01avfall fra utvinning av metallholdige mineraler01 01 02avfall fra utvinning av ikke-metallholdige mineraler**01 03**avfall fra fysisk og kjemisk bearbeiding av metallholdige mineraler*01 03 04syredannende avgangsmasse fra bearbeiding av sulfidholdig malm*01 03 05annen avgangsmasse som inneholder farlige stoffer01 03 06annen avgangsmasse enn den nevnt i 01 03 04 og 01 03 05*01 03 07annet avfall som inneholder farlige stoffer fra fysisk og kjemisk bearbeiding av metallholdige mineraler01 03 08annet støv- og pulveravfall enn det nevnt i 01 03 0701 03 09rødslam fra aluminiumsproduksjon som er ikke er nevnt i 01 03 10*01 03 10rødslam fra aluminiumsproduksjon som inneholder farlige stoffer annet enn avfall nevnt i 01 03 0701 03 99avfall som ikke er spesifisert andre steder**01 04**avfall fra fysisk og kjemisk bearbeiding av ikke-metallholdige mineraler*01 04 07avfall som inneholder farlige stoffer fra fysisk og kjemisk bearbeiding av ikke-metallholdige mineraler01 04 08annet avfall av grus og knust stein enn det nevnt i 01 04 0701 04 09sand- og leireavfall01 04 10annet støv- og pulveravfall enn det nevnt i 01 04 0701 04 11annet avfall fra behandling av kaliumkarbonat og mineralsalter enn det nevnt i 01 04 0701 04 12annen avgangsmasse og annet avfall fra vasking og rensing av mineraler enn den/det nevnt i 01 04 07 og 01 04 1101 04 13annet avfall fra hogging og saging av stein enn det nevnt i 01 04 0701 04 99avfall som ikke er spesifisert andre steder**01 05**borevæske og annet boreavfall01 05 04ferskvannsholdig borevæske og boreavfall*01 05 05oljeholdig borevæske og boreavfall*01 05 06borevæske og annet boreavfall som inneholder farlige stoffer01 05 07annen baryttholdig borevæske og annet baryttholdig boreavfall enn den/det nevnt i 01 05 05 og 01 05 0601 05 08annen kloridholdig borevæske og annet kloridholdig boreavfall enn den/det nevnt i 01 05 05 og 01 05 0601 05 99avfall som ikke er spesifisert andre steder**02**Avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske samt produksjon og bearbeiding av næringsmidler**02 01**avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske02 01 01slam fra vasking og rensing02 01 02animalsk avfall02 01 03planteavfall02 01 04plastavfall (unntatt emballasje)02 01 06dyreavføring, dyreurin og husdyrgjødsel (herunder forurenset halm), avløpsvann, innsamlet separat og behandlet eksternt02 01 07avfall fra skogbruk*02 01 08landbrukskjemisk avfall som inneholder farlige stoffer02 01 09annet landbrukskjemisk avfall enn det nevnt i 02 01 0802 01 10metallavfall02 01 99avfall som ikke er spesifisert andre steder**02 02**avfall fra tilberedning og bearbeiding av kjøtt, fisk og andre næringsmidler av animalsk opprinnelse02 02 01slam fra vasking og rengjøring02 02 02animalsk avfall02 02 03materiale som er uegnet som næringsmidler eller til bearbeiding02 02 04slam fra behandling av avløpsvann på stedet02 02 99avfall som ikke er spesifisert andre steder**02 03**avfall fra tilberedning og bearbeiding av frukt, grønnsaker, korn, matoljer, kakao, kaffe, te og tobakk; produksjon av konserver; produksjon av gjær og gjærekstrakt, tilberedning og gjæring av melasse02 03 01slam fra vasking, rengjøring, skrelling, sentrifugering og separering02 03 02avfall fra konserveringsmidler02 03 03avfall fra ekstraksjon ved hjelp av løsemidler02 03 04materiale som er uegnet som næringsmidler eller til bearbeiding02 03 05slam fra behandling av avløpsvann på produksjonsstedet02 03 99avfall som ikke er spesifisert andre steder**02 04**avfall fra sukkerproduksjon02 04 01jord fra rengjøring og vasking av sukkerbeter02 04 02frasortert kalsiumkarbonat02 04 03slam fra behandling av avløpsvann på produksjonsstedet02 04 99avfall som ikke er spesifisert andre steder**02 05**avfall fra meieriindustri02 05 01materiale som er uegnet som næringsmidler eller til bearbeiding02 05 02slam fra behandling av avløpsvann på produksjonsstedet02 05 99avfall som ikke er spesifisert andre steder**02 06**avfall fra bakeri- og sukkervareindustri02 06 01materiale som er uegnet som næringsmidler eller til bearbeiding02 06 02avfall fra konserveringsmidler02 06 03slam fra behandling av avløpsvann på produksjonsstedet02 06 99avfall som ikke er spesifisert andre steder**02 07**avfall fra produksjon av alkoholholdige og alkoholfrie drikkevarer (unntatt kaffe, te og kakao)02 07 01avfall fra vasking, rengjøring og mekanisk reduksjon av råvarer02 07 02avfall fra alkoholdestillasjon02 07 03avfall fra kjemisk behandling02 07 04materiale som er uegnet som næringsmidler eller til bearbeiding02 07 05slam fra behandling av avløpsvann på produksjonsstedet02 07 99avfall som ikke er spesifisert andre steder**03**Avfall fra treindustri og produksjon av plater og møbler, papirmasse, papir og papp/kartong**03 01**avfall fra treindustri og produksjon av plater og møbler03 01 01bark- og korkavfall*03 01 04sagflis, spon, kapp, tre, sponplater og finér som inneholder farlige stoffer03 01 05annen sagflis, spon, kapp, tre, sponplater og finér enn det nevnt i 03 01 0403 01 99avfall som ikke er spesifisert andre steder**03 02**avfall fra treimpregnering*03 02 01ikke-halogenerte organiske treimpregneringsmidler*03 02 02klororganiske treimpregneringsmidler*03 02 03metallorganiske treimpregneringsmidler*03 02 04uorganiske treimpregneringsmidler*03 02 05andre treimpregneringsmidler som inneholder farlige stoffer03 02 99treimpregneringsmidler som ikke er spesifisert andre steder**03 03**avfall fra produksjon og bearbeiding av papir, papp/kartong og papirmasse03 03 01bark- og treavfall03 03 02grønnlutslam (fra gjenvinning av kokevæske)03 03 05avsvertingsslam fra gjenvinning av papir03 03 07mekanisk separerte rester fra oppmaling av papir- og papp-/kartongavfall03 03 08avfall fra sortering av papir og papp/kartong til gjenvinning03 03 09avfall av kalkslam03 03 10fiberavfall, fiberslam og slam av fyllstoff og bestrykningsmaterialer fra mekanisk separering03 03 11annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 03 03 1003 03 99avfall som ikke er spesifisert andre steder**04**Avfall fra lærvare-, pelsverk- og tekstilindustrien**04 01**avfall fra lærvare- og pelsverkindustrien04 01 01avfall fra skaving og spalting04 01 02avfall fra kalkluting*04 01 03avfettingsavfall som inneholder løsemidler uten flytende fase04 01 04kromholdig garvevæske04 01 05ikke-kromholdig garvevæske04 01 06kromholdig slam, særlig fra behandling av avløpsvann på produksjonsstedet04 01 07ikke-kromholdig slam, særlig fra behandling av avløpsvann på produksjonsstedet04 01 08kromholdig avfall av garvet lær (blåspalting, skav, avskjær, poleringsstøv)04 01 09avfall fra beredning og ferdigbehandling04 01 99avfall som ikke er spesifisert andre steder**04 02**avfall fra tekstilindustrien04 02 09avfall av komposittmaterialer (impregnerte tekstiler, elastomer, plastomer)04 02 10organiske stoffer av naturprodukter (for eksempel fett, voks)*04 02 14avfall fra etterbehandling som inneholder organiske løsemidler04 02 15annet avfall fra etterbehandling enn det nevnt i 04 02 14*04 02 16fargestoffer og pigmenter som inneholder farlige stoffer04 02 17andre fargestoffer og pigmenter enn dem nevnt i 04 02 16*04 02 19slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer04 02 20annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 04 02 1904 02 21avfall av ubearbeidede tekstilfibrer04 02 22avfall av bearbeidede tekstilfibrer04 02 99avfall som ikke er spesifisert andre steder**05**Avfall fra oljeraffinering, rensing av naturgass og pyrolytisk behandling av kull**05 01**avfall fra oljeraffinering*05 01 02avsaltingsslam*05 01 03bunnslam fra tanker*05 01 04alkylsyreslam*05 01 05oljespill*05 01 06oljeholdig slam fra vedlikeholdsarbeid på anlegg eller utstyr*05 01 07syreholdig tjære*05 01 08annen tjære*05 01 09slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer05 01 10annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 05 01 09*05 01 11avfall fra behandling av brennstoff med baser*05 01 12syreholdig olje05 01 13slam fra behandling av tilførselsvann til kjeler05 01 14avfall fra kjølekolonner*05 01 15brukte filtreringsleirer05 01 16svovelholdig avfall fra avsvovling av olje05 01 17bitumen05 01 99avfall som ikke er spesifisert andre steder**05 06**avfall fra pyrolytisk behandling av kull*05 06 01syreholdig tjære*05 06 03annen tjære05 06 04avfall fra kjølekolonner05 06 99avfall som ikke er spesifisert andre steder**05 07**avfall fra rensing og transport av naturgass*05 07 01kvikksølvholdig avfall05 07 02svovelholdig avfall05 07 99avfall som ikke er spesifisert andre steder**06**Avfall fra uorganiske kjemiske prosesser**06 01**avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av syrer*06 01 01svovelsyre og svovelholdige syrer*06 01 02saltsyre*06 01 03hydrogenfluorid*06 01 04fosforsyre og fosforholdige syrer*06 01 05salpetersyre og nitrogenholdige syrer*06 01 06andre syrer06 01 99avfall som ikke er spesifisert andre steder**06 02**avfall fra PBDB av baser*06 02 01kalsiumhydroksid*06 02 03ammoniumhydroksid*06 02 04natrium- og kaliumhydroksid*06 02 05andre baser06 02 99avfall som ikke er spesifisert andre steder**06 03**avfall fra PBDB av salter og saltløsninger og av metalloksider*06 03 11faste salter og saltløsninger som inneholder cyanider*06 03 13faste salter og saltløsninger som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 03 14andre faste salter og saltløsninger enn dem nevnt i 06 03 11 og 06 03 13*06 03 15metalloksider som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 03 16andre metalloksider enn dem nevnt i 06 03 1506 03 99avfall som ikke er spesifisert andre steder**06 04**annet metallholdig avfall enn det nevnt i 06 03*06 04 03arsenholdig avfall*06 04 04kvikksølvholdig avfall*06 04 05avfall som inneholder andre tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 04 99avfall som ikke er spesifisert andre steder**06 05**slam fra behandling av avløpsvann på produksjonsstedet*06 05 02slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer06 05 03annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 06 05 02**06 06**avfall fra PBDB av svovelholdige kjemikalier og fra svovelkjemiske prosesser og avsvovlingsprosesser*06 06 02avfall som inneholder farlige sulfider06 06 03avfall som inneholder andre sulfider enn dem nevnt i 06 06 0206 06 99avfall som ikke er spesifisert andre steder**06 07**avfall fra PBDB av halogener og halogenkjemiske prosesser*06 07 01avfall som inneholder asbest fra elektrolyse*06 07 02aktivt kull brukt til klorproduksjon*06 07 03kvikksølvholdig slam av bariumsulfat*06 07 04løsninger og syrer, for eksempel kontaktsyre06 07 99avfall som ikke er spesifisert andre steder**06 08**avfall fra PBDB av silisium og silisiumderivater*06 08 02avfall som inneholder farlige klorsilaner06 08 99avfall som ikke er spesifisert andre steder**06 09**avfall fra PBDB av fosforholdige kjemikalier og fosforkjemiske prosesser06 09 02fosforholdig slagg*06 09 03kalsiumbasert reaksjonsavfall som inneholder eller er forurenset av farlige stoffer06 09 04annet kalsiumbasert reaksjonsavfall enn det nevnt i 06 09 0306 09 99avfall som ikke er spesifisert andre steder**06 10**avfall fra PBDB av nitrogenholdige kjemikalier, nitrogenkjemiske prosesser og kunstgjødselproduksjon*06 10 02avfall som inneholder farlige stoffer06 10 99avfall som ikke er spesifisert andre steder**06 11**avfall fra produksjon av uorganiske pigmenter og opakiseringsmidler06 11 01kalsiumbasert reaksjonsavfall fra titandioksidproduksjon06 11 99avfall som ikke er spesifisert andre steder**06 13**avfall fra uorganiske kjemiske prosesser som ikke er nevnt andre steder*06 13 01uorganiske plantevernmidler, treimpregneringsmidler og andre biocider*06 13 02brukt aktivt kull (unntatt 06 07 02)06 13 03carbon black*06 13 04avfall fra bearbeiding av asbest*06 13 05sot06 13 99avfall som ikke er spesifisert andre steder**07**Avfall fra organiske kjemiske prosesser**07 01**avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av organiske basisprodukter*07 01 01vandige vaskevæsker og morluter*07 01 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 01 04andre organiske løsemidler, vaskevæsker og morluter*07 01 07halogenerte destillasjonsrester og reaksjonsrester*07 01 08andre destillasjonsrester og reaksjonsrester*07 01 09halogenerte filterkaker og brukte absorbenter*07 01 10andre filterkaker og brukte absorbenter*07 01 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 01 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 01 1107 01 99avfall som ikke er spesifisert andre steder**07 02**avfall fra PBDB av plastmaterialer, syntetisk gummi og kunstfibrer*07 02 01vandige vaskevæsker og morluter*07 02 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 02 04andre organiske løsemidler, vaskevæsker og morluter*07 02 07halogenerte destillasjonsrester og reaksjonsrester*07 02 08andre destillasjonsrester og reaksjonsrester*07 02 09halogenerte filterkaker og brukte absorbenter*07 02 10andre filterkaker og brukte absorbenter*07 02 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 02 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 02 1107 02 13plastavfall*07 02 14avfall fra tilsetningsstoffer som inneholder farlige stoffer07 02 15annet avfall fra tilsetningsstoffer enn det nevnt i 07 02 14*07 02 16avfall som inneholder farlige silikoner07 02 17silikonholdig avfall som ikke er nevnt i 07 02 1607 02 99avfall som ikke er spesifisert andre steder**07 03**avfall fra PBDB av organiske farge stoffer og pigmenter (unntatt 06 11)*07 03 01vandige vaskevæsker og morluter*07 03 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 03 04andre organiske løsemidler, vaskevæsker og morluter*07 03 07halogenerte destillasjonsrester og reaksjonsrester*07 03 08andre destillasjonsrester og reaksjonsrester*07 03 09halogenerte filterkaker og brukte absorbenter*07 03 10andre filterkaker og brukte absorbenter*07 03 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 03 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 03 1107 03 99avfall som ikke er spesifisert andre steder**07 04**avfall fra PBDB av organiske plantevernmidler (unntatt 02 01 08 og 02 01 09), treimpregneringsmidler (unntatt 03 02) og andre biocider*07 04 01vandige vaskevæsker og morluter*07 04 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 04 04andre organiske løsemidler, vaskevæsker og morluter*07 04 07halogenerte destillasjonsrester og reaksjonsrester*07 04 08andre destillasjonsrester og reaksjonsrester*07 04 09halogenerte filterkaker og brukte absorbenter*07 04 10andre filterkaker og brukte absorbenter*07 04 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 04 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 04 11*07 04 13fast avfall som inneholder farlige stoffer07 04 99avfall som ikke er spesifisert andre steder**07 05**avfall fra PBDB av legemidler*07 05 01vandige vaskevæsker og morluter*07 05 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 05 04andre organiske løsemidler, vaskevæsker og morluter*07 05 07halogenerte destillasjonsrester og reaksjonsrester*07 05 08andre destillasjonsrester og reaksjonsrester*07 05 09halogenerte filterkaker og brukte absorbenter*07 05 10andre filterkaker og brukte absorbenter*07 05 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 05 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 05 11*07 05 13fast avfall som inneholder farlige stoffer07 05 14annet fast avfall enn det nevnt i 07 05 1307 05 99avfall som ikke er spesifisert andre steder**07 06**avfall fra PBDB av fettstoffer, smøremidler, såpe, rengjøringsmidler, desinfeksjonsmidler og kosmetikk*07 06 01vandige vaskevæsker og morluter*07 06 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 06 04andre organiske løsemidler, vaskevæsker og morluter*07 06 07halogenerte destillasjonsrester og reaksjonsrester*07 06 08andre destillasjonsrester og reaksjonsrester*07 06 09halogenerte filterkaker og brukte absorbenter*07 06 10andre filterkaker og brukte absorbenter*07 06 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 06 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 06 1107 06 99avfall som ikke er spesifisert andre steder**07 07**avfall fra PBDB av finkjemikalier og av kjemiske produkter som ikke er spesifisert andre steder*07 07 01vandige vaskevæsker og morluter*07 07 03halogenerte organiske løsemidler, vaskevæsker og morluter*07 07 04andre organiske løsemidler, vaskevæsker og morluter*07 07 07halogenerte destillasjonsrester og reaksjonsrester*07 07 08andre destillasjonsrester og reaksjonsrester*07 07 09halogenerte filterkaker og brukte absorbenter*07 07 10andre filterkaker og brukte absorbenter*07 07 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 07 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 07 1107 07 99avfall som ikke er spesifisert andre steder**08**Avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av beleggingsprodukter (malinger, lakker og glassemaljer), klebemidler, tetningsmasse og trykkfarger**08 01**avfall fra PBDB og fjerning av malinger og lakker*08 01 11maling- og lakkavfall som inneholder organiske løsemidler eller andre farlige stoffer08 01 12annet maling- og lakkavfall enn det nevnt i 08 01 11*08 01 13slam av malinger og lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 14annet slam av malinger og lakker enn det nevnt i 08 01 13*08 01 15vandig slam som inneholder malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 16annet vandig slam som inneholder malinger og lakker enn det nevnt i 08 01 15*08 01 17avfall fra fjerning av malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 18annet avfall fra fjerning av malinger eller lakker enn det nevnt i 08 01 17*08 01 19vandige suspensjoner som inneholder malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 20andre vandige suspensjoner som inneholder malinger eller lakker enn dem nevnt i 08 01 19*08 01 21maling- eller lakkfjerneravfall08 01 99avfall som ikke er spesifisert andre steder**08 02**avfall fra PBDB av andre overflatebelegg (herunder keramiske materialer)08 02 01avfall av pulverbaserte overflatebelegg08 02 02vandig slam som inneholder keramiske materialer08 02 03vandige suspensjoner som inneholder keramiske materialer08 02 99avfall som ikke er spesifisert andre steder**08 03**avfall fra PBDB av trykkfarger08 03 07vandig slam som inneholder trykkfarger08 03 08vandig flytende avfall som inneholder trykkfarger*08 03 12trykkfargeavfall som inneholder farlige stoffer08 03 13annet trykkfargeavfall enn det nevnt i 08 03 12*08 03 14trykkfargeslam som inneholder farlige stoffer08 03 15annet trykkfargeslam enn det nevnt i 08 03 14*08 03 16avfall av etsende væske brukt i grafisk produksjon*08 03 17toneravfall som inneholder farlige stoffer08 03 18annet toneravfall enn det nevnt i 08 03 17*08 03 19dispergert olje08 03 99avfall som ikke er spesifisert andre steder**08 04**avfall fra PBDB av klebemidler og tetningsmasse (herunder vanntetningsmidler)*08 04 09avfall av klebemidler og tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 10annet avfall av klebemidler og tetningsmasse enn det nevnt i 08 04 09*08 04 11slam av klebemidler og tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 12annet slam av klebemidler og tetningsmasse enn det nevnt i 08 04 11*08 04 13vandig slam som inneholder klebemidler eller tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 14annet vandig slam som inneholder klebemidler eller tetningsmasse enn det nevnt i 08 04 13*08 04 15vandig flytende avfall som inneholder klebemidler eller tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 16annet vandig flytende avfall som inneholder klebemidler eller tetningsmasse enn det nevnt i 08 04 15*08 04 17harpiksolje08 04 99avfall som ikke er spesifisert andre steder**08 05**avfall som ikke spesifisert andre steder i 08*08 05 01avfall av isocyanater**09**Avfall fra fotografisk industri**09 01**avfall fra fotografisk industri*09 01 01vannbaserte fremkallingsvæsker og aktivatorvæsker*09 01 02vannbaserte fremkallingsvæsker for offsetplater*09 01 03løsemiddelbaserte fremkallingsvæsker*09 01 04fikserbad*09 01 05blekebad og bleke-/fikserbad*09 01 06avfall som inneholder sølv fra behandling på produksjonsstedet av fotografisk avfall09 01 07fotografisk film og papir som inneholder sølv eller sølvforbindelser09 01 08fotografisk film og papir uten sølv eller sølvforbindelser09 01 10kameraer for engangsbruk uten batterier*09 01 11kameraer for engangsbruk med batterier nevnt i 16 06 01, 16 06 02 eller 16 06 0309 01 12andre kameraer for engangsbruk med batterier enn dem nevnt i 09 01 11*09 01 13annet vandig flytende avfall fra gjenvinning av sølv på produksjonsstedet enn det nevnt i 09 01 0609 01 99avfall som ikke er spesifisert andre steder**10**Avfall fra varmebehandlingsprosesser**10 01**avfall fra kraftverk og andre forbrenningsanlegg (unntatt kategori 19)10 01 01bunnaske, slagg og kjelstøv (unntatt kjelstøv nevnt i 10 01 04)10 01 02flygeaske fra forbrenning av kull10 01 03flygeaske fra forbrenning av torv og ubehandlet trevirke*10 01 04flygeaske og kjelstøv fra forbrenning av olje10 01 05fast kalsiumbasert reaksjonsavfall fra avsvovling av røykgass10 01 07kalsiumbasert reaksjonsavfall i form av slam fra avsvovling av røykgass*10 01 09svovelsyre*10 01 13flygeaske fra emulgerte hydrokarboner brukt som brensel*10 01 14bunnaske, slagg og kjelstøv fra samforbrenning som inneholder farlige stoffer10 01 15annen bunnaske og annet slagg og kjelstøv fra samforbrenning enn dem nevnt i 10 01 14*10 01 16flygeaske fra samforbrenning som inneholder farlige stoffer10 01 17annen flygeaske fra samforbrenning enn den nevnt i 10 01 16*10 01 18avfall fra rensing av røykgass som inneholder farlige stoffer10 01 19annet avfall fra rensing av røykgass enn det nevnt i 10 01 05, 10 01 07 og 10 01 18*10 01 20slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer10 01 21annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 10 01 20*10 01 22vandig slam fra kjelerensing som inneholder farlige stoffer10 01 23annet vandig slam fra kjelerensing enn det nevnt i 10 01 2210 01 24sand fra virvelsjikt10 01 25avfall fra lagring og behandling av brensel til kullfyrte kraftverk10 01 26avfall fra kjølevannbehandling10 01 99avfall som ikke er spesifisert andre steder**10 02**avfall fra jern- og stålindustri10 02 01avfall fra slaggbehandling10 02 02ubehandlet slagg*10 02 07fast avfall fra behandling av avgasser som inneholder farlige stoffer10 02 08annet fast avfall fra behandling av avgasser enn det nevnt i 10 02 0710 02 10glødeskall*10 02 11avfall fra kjølevannbehandling som inneholder olje10 02 12annet avfall fra kjølevannbehandling enn det nevnt i 10 02 11*10 02 13slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 02 14annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 02 1310 02 15annet slam og filterkaker10 02 99avfall som ikke er spesifisert andre steder**10 03**avfall fra varmebasert aluminiumsproduksjon10 03 02anodeavfall*10 03 04slagg fra primærproduksjon10 03 05avfall av aluminiumoksid*10 03 08saltslagg fra sekundærproduksjon*10 03 09svart dross fra sekundærproduksjon*10 03 15avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 03 16annet avrakingsslagg enn det nevnt i 10 03 15*10 03 17tjæreholdig avfall fra produksjon av anoder10 03 18annet karbonholdig avfall fra produksjon av anoder enn det nevnt i 10 03 17*10 03 19støv fra filtrering av røykgass som inneholder farlige stoffer10 03 20annet støv fra filtrering av røykgass enn det nevnt i 10 03 19*10 03 21andre partikler og annet støv (herunder kulemøllestøv) som inneholder farlige stoffer10 03 22andre partikler og annet støv (herunder kulemøllestøv) enn det nevnt i 10 03 21*10 03 23fast avfall fra behandling av avgasser som inneholder farlige stoffer10 03 24annet fast avfall fra behandling av avgasser enn det nevnt i 10 03 23*10 03 25slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 03 26annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 03 25*10 03 27oljeholdig avfall fra kjølevannbehandling10 03 28annet avfall fra kjølevannbehandling enn det nevnt i 10 03 27*10 03 29avfall fra behandling av saltslagg og svart dross som inneholder farlige stoffer10 03 30annet avfall fra behandling av saltslagg og svart dross enn det nevnt i 10 03 2910 03 99avfall som ikke er spesifisert andre steder**10 04**avfall fra varmebasert blyproduksjon*10 04 01slagg fra primær- og sekundærproduksjon*10 04 02dross og avrakingsslagg fra primær- og sekundærproduksjon*10 04 03kalsiumarsenat*10 04 04støv fra filtrering av røykgass*10 04 05andre partikler og støv*10 04 06fast avfall fra behandling av avgasser*10 04 07slam og filterkaker fra behandling av avgasser*10 04 09oljeholdig avfall fra behandling av kjølevann10 04 10annet avfall fra behandling av kjølevann enn det nevnt i 10 04 0910 04 99avfall som ikke er spesifisert andre steder**10 05**avfall fra varmebasert produksjon av sink10 05 01slagg fra primær- og sekundærproduksjon*10 05 03støv fra filtrering av røykgass10 05 04andre partikler og støv*10 05 05fast avfall fra behandling av avgasser*10 05 06slam og filterkaker fra behandling av avgasser*10 05 08oljeholdig avfall fra behandling av kjølevann10 05 09annet avfall fra behandling av kjølevann enn det nevnt i 10 05 08*10 05 10dross og avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 05 11annet dross og avrakingsslagg enn det nevnt i 10 04 1010 05 99avfall som ikke er spesifisert andre steder**10 06**avfall fra varmebasert kopperproduksjon10 06 01slagg fra primær- og sekundærproduksjon10 06 02dross og avrakingsslagg fra primær- og sekundærproduksjon*10 06 03støv fra filtrering av røykgass10 06 04andre partikler og støv*10 06 06fast avfall fra behandling av avgasser*10 06 07slam og filterkaker fra behandling av avgasser*10 06 09oljeholdig avfall fra behandling av kjølevann10 06 10annet avfall fra behandling av kjølevann enn det nevnt i 10 06 0910 06 99avfall som ikke er spesifisert andre steder**10 07**avfall fra varmebasert produksjon av sølv, gull og platina10 07 01slagg fra primær- og sekundærproduksjon10 07 02dross og avrakingsslagg fra primær- og sekundærproduksjon10 07 03fast avfall fra behandling av avgasser10 07 04andre partikler og støv10 07 05slam og filterkaker fra behandling av avgasser*10 07 07oljeholdig avfall fra behandling av kjølevann10 07 08annet avfall fra behandling av kjølevann enn det nevnt i 10 07 0710 07 99avfall som ikke er spesifisert andre steder**10 08**avfall fra varmebasert produksjon av andre ikke-jernholdige metaller10 08 04partikler og støv*10 08 08saltslagg fra primær- og sekundærproduksjon10 08 09annet slagg*10 08 10dross og avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 08 11annet dross og avrakingsslagg enn det nevnt i 10 08 10*10 08 12tjæreholdig avfall fra produksjon av anoder10 08 13annet karbonholdig avfall fra produksjon av anoder enn det nevnt i 10 08 1210 08 14anodeavfall*10 08 15støv fra filtrering av røykgass som inneholder farlige stoffer10 08 16annet støv fra filtrering av røykgass enn det nevnt i 10 08 15*10 08 17slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 08 18annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 08 17*10 08 19oljeholdig avfall fra behandling av kjølevann10 08 20annet avfall fra behandling av kjølevann enn det nevnt i 10 08 1910 08 99avfall som ikke er spesifisert andre steder**10 09**avfall fra ferrometallstøping10 09 03støpeovnsslagg*10 09 05støpekjerner og støpeformer som ikke er brukt til støping og som inneholder farlige stoffer10 09 06andre støpekjerner og støpeformer som ikke er brukt til støping enn dem nevnt i 10 09 05*10 09 07støpekjerner og støpeformer som er brukt til støping og som inneholder farlige stoffer10 09 08andre støpekjerner og støpeformer som er brukt til støping enn dem nevnt i 10 09 07*10 09 09støv fra filtrering av røykgass som inneholder farlige stoffer10 09 10annet støv fra filtrering av røykgass enn det nevnt i 10 09 09*10 09 11andre partikler som inneholder farlige stoffer10 09 12andre partikler enn dem nevnt i 10 09 11*10 09 13bindemiddelavfall som inneholder farlige stoffer10 09 14annet bindemiddelavfall enn det nevnt i 10 09 13*10 09 15avfall av sprekkindikatorvæske som inneholder farlige stoffer10 09 16annet avfall av sprekkindikatorvæske enn det nevnt i 10 09 1510 09 99avfall som ikke er spesifisert andre steder**10 10**avfall fra støping av ikke-jernholdige metaller10 10 03støpeovnsslagg*10 10 05støpekjerner og støpeformer som ikke er brukt til støping og som inneholder farlige stoffer10 10 06andre støpekjerner og støpeformer som ikke er brukt til støping enn dem nevnt i 10 10 05*10 10 07støpekjerner og støpeformer som er brukt til støping og som inneholder farlige stoffer10 10 08andre støpekjerner og støpeformer som er brukt til støping enn dem nevnt i 10 10 07*10 10 09støv fra filtrering av røykgass som inneholder farlige stoffer10 10 10annet støv fra filtrering av røykgass enn det nevnt i 10 10 09*10 10 11andre partikler som inneholder farlige stoffer10 10 12andre partikler enn dem nevnt i 10 10 11*10 10 13bindemiddelavfall som inneholder farlige stoffer10 10 14annet bindemiddelavfall enn det nevnt i 10 10 13*10 10 15avfall av sprekkindikatorvæske som inneholder farlige stoffer10 10 16annet avfall av sprekkindikatorvæske enn det nevnt i 10 10 1510 10 99avfall som ikke er spesifisert andre steder**10 11**avfall fra produksjon av glass og glassprodukter10 11 03glassfiberavfall10 11 05partikler og støv*10 11 09avfall av råstoffblanding før varmebehandling som inneholder farlige stoffer10 11 10annet avfall av råstoffblanding før varmebehandling enn det nevnt i 10 11 09*10 11 11glassavfall i små partikler og glasspulver som inneholder tungmetaller (for eksempel fra katodestrålerør) som nevnt i nr. 1 bokstav a i dette vedlegget10 11 12annet glassavfall enn det nevnt i 10 11 11*10 11 13slam fra polering og sliping av glass som inneholder farlige stoffer10 11 14annet slam fra polering og sliping av glass enn det nevnt i 10 11 13*10 11 15fast avfall fra behandling av røykgass som inneholder farlige stoffer10 11 16annet fast avfall fra behandling av røykgass enn det nevnt i 10 11 15*10 11 17slam og filterkaker fra behandling av røykgass som inneholder farlige stoffer10 11 18annet slam og filterkaker fra behandling av røykgass enn det nevnt i 10 11 17*10 11 19fast avfall fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer10 11 20annet fast avfall fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 10 11 1910 11 99avfall som ikke er spesifisert andre steder**10 12**avfall fra produksjon av keramikk, murstein, takstein og byggevarer10 12 01avfall av råstoffblanding før varmebehandling10 12 03partikler og støv10 12 05slam og filterkaker fra behandling av avgasser10 12 06kasserte former10 12 08avfall av keramikk, murstein, takstein og byggevarer (etter varmebehandling)*10 12 09fast avfall fra behandling av avgasser som inneholder farlige stoffer10 12 10annet fast avfall fra behandling av avgasser enn det nevnt i 10 12 09*10 12 11glaseringsavfall som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget10 12 12annet glaseringsavfall enn det nevnt i 10 12 1110 12 13slam fra behandling av avløpsvann på produksjonsstedet10 12 99avfall som ikke er spesifisert andre steder**10 13**avfall fra produksjon av sement, kalk og gips og gjenstander og produkter fremstilt av disse materialene10 13 01avfall av råstoffblanding før varmebehandling10 13 04avfall fra kalsinering og lesking av kalk10 13 06partikler og støv (unntatt 10 13 12 og 10 13 13)10 13 07slam og filterkaker fra behandling av avgasser*10 13 09asbestholdig avfall fra fremstilling av asbestsement10 13 10annet avfall fra fremstilling av asbestsement enn det nevnt i 10 13 0910 13 11annet avfall av sementbaserte komposittmaterialer enn det nevnt i 10 13 09 og 10 13 10*10 13 12fast avfall fra behandling av avgasser som inneholder farlige stoffer10 13 13annet fast avfall fra behandling av avgasser enn det nevnt i 10 13 1210 13 14betongavfall og betongslam10 13 99avfall som ikke er spesifisert andre steder**10 14**avfall fra krematorier*10 14 01kvikksølvholdig avfall fra rensing av avgasser**11**Avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer, og fra hydrometallurgi med ikke-jernholdige metaller**11 01**avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer (f.eks. galvaniseringsprosesser, forsinkingsprosesser, beising, etsing, fosfatering, alkalisk avfetting og anodisering)*11 01 05sur beis*11 01 06syrer som ikke er spesifisert andre steder*11 01 07basisk beis*11 01 08fosfateringsslam*11 01 09slam og filterkaker som inneholder farlige stoffer11 01 10annet slam og filterkaker enn det nevnt i 11 01 09*11 01 11skyllevann som inneholder farlige stoffer11 01 12annet skyllevann enn det nevnt i 11 01 11*11 01 13avfettingsavfall som inneholder farlige stoffer11 01 14annet avfettingsavfall enn det nevnt i 11 01 13*11 01 15eluat og slam fra membransystemer eller ionebyttingssystemer som inneholder farlige stoffer*11 01 16mettede eller brukte ionebytterharpikser*11 01 98annet avfall som inneholder farlige stoffer11 01 99avfall som ikke er spesifisert andre steder**11 02**avfall fra hydrometallurgiske prosesser med ikke-jernholdige metaller*11 02 02slam fra sinkhydrometallurgi (herunder jarositt og goethitt)11 02 03avfall fra produksjon av anoder for vandige elektrolyseprosesser*11 02 05avfall fra kopperbaserte hydrometallurgiske prosesser som inneholder farlige stoffer11 02 06annet avfall fra kopperbaserte hydrometallurgiske prosesser enn det nevnt i 11 02 05*11 02 07annet avfall som inneholder farlige stoffer11 02 99avfall som ikke er spesifisert andre steder**11 03**slam og fast avfall fra herdeprosesser*11 03 01cyanidholdig avfall*11 03 02annet avfall**11 05**avfall fra varmforsinkingsprosesser11 05 01hardsink11 05 02sinkaske*11 05 03fast avfall fra behandling av avgasser*11 05 04brukt flussmiddel11 05 99avfall som ikke er spesifisert andre steder**12**Avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plast**12 01**avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plast12 01 01filspon og dreiespon av ferrometaller12 01 02støv og partikler av ferrometaller12 01 03filspon og dreiespon av ikke-jernholdige metaller12 01 04støv og partikler av ikke-jernholdige metaller12 01 05plastspon*12 01 06mineralbaserte bearbeidingsoljer som inneholder halogener (unntatt emulsjoner og løsninger)*12 01 07mineralbaserte bearbeidingsoljer uten halogener (unntatt emulsjoner og løsninger)*12 01 08bearbeidingsemulsjoner og -løsninger som inneholder halogener*12 01 09bearbeidingsemulsjoner og -løsninger uten halogener*12 01 10syntetiske bearbeidingsoljer*12 01 12voks- og fettavfall12 01 13sveiseavfall*12 01 14bearbeidingsslam som inneholder farlige stoffer12 01 15annet bearbeidingsslam enn det nevnt i 12 01 14*12 01 16avfall fra sandblåsing som inneholder farlige stoffer12 01 17annet avfall fra sandblåsing enn det nevnt i 12 01 16*12 01 18oljeholdig metallslam (fra sliping og finsliping)*12 01 19biologisk lett nedbrytbar bearbeidingsolje*12 01 20brukte slipegjenstander og slipematerialer som inneholder farlige stoffer12 01 21andre brukte slipegjenstander og slipematerialer enn dem nevnt i 12 01 2012 01 99avfall som ikke er spesifisert andre steder**12 03**avfall fra avfettingsprosesser med vann og damp (unntatt 11)*12 03 01vandige rengjøringsvæsker*12 03 02avfall fra dampavfetting**13**Avfall av oljer og flytende brensel (unntatt matoljer og 05, 12 og 19)**13 01**avfall av hydrauliske oljer*13 01 01hydrauliske oljer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget*13 01 04klorerte emulsjoner*13 01 05ikke-klorerte emulsjoner*13 01 09mineralbaserte klorerte hydrauliske oljer*13 01 10mineralbaserte ikke-klorerte hydrauliske oljer*13 01 11syntetiske hydrauliske oljer*13 01 12biologisk lett nedbrytbare hydrauliske oljer*13 01 13andre hydrauliske oljer**13 02**avfall av motoroljer, giroljer og smøreoljer*13 02 04mineralbaserte klorerte motoroljer, giroljer og smøreoljer*13 02 05mineralbaserte ikke-klorerte motoroljer, giroljer og smøreoljer*13 02 06syntetiske motoroljer, giroljer og smøreoljer*13 02 07biologisk lett nedbrytbare motoroljer, giroljer og smøreoljer*13 02 08andre motoroljer, giroljer og smøreoljer**13 03**avfall av transformatoroljer og varmeoverførende oljer*13 03 01transformatoroljer og varmeoverførende oljer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget*13 03 06andre mineralbaserte klorerte transformatoroljer og varmeoverførende oljer enn dem nevnt i 13 03 01*13 03 07mineralbaserte ikke-klorerte transformatoroljer og varmeoverførende oljer*13 03 08syntetiske transformatoroljer og varmeoverførende oljer*13 03 09biologisk lett nedbrytbare transformatoroljer og varmeoverførende oljer*13 03 10andre transformatoroljer og varmeoverførende oljer**13 04**bunnoljer*13 04 01bunnoljer fra fart på innlands vannveier*13 04 02bunnoljer fra moloavløp*13 04 03bunnoljer fra andre typer skipsfart**13 05**innhold i vann/olje-separatorer*13 05 01fast avfall fra sandfang og olje/vann-separatorer*13 05 02slam fra olje/vann-separatorer*13 05 03slam fra oljeutskillere*13 05 06olje fra olje/vann-separatorer*13 05 07oljeholdig vann fra olje/vann-separatorer*13 05 08blandet avfall fra sandfang og olje/vann-separatorer**13 07**avfall av flytende brensel*13 07 01fyringsolje og dieselolje*13 07 02bensin*13 07 03annet brensel (herunder blandinger)**13 08**oljeavfall som ikke er spesifisert andre steder*13 08 01avsaltingsslam eller -emulsjoner*13 08 02andre emulsjoner*13 08 99avfall som ikke er spesifisert andre steder**14**Avfall av organiske løsemidler, kjølemidler og drivmidler (unntatt 07 og 08)**14 06**avfall av organiske løsemidler, kjølemidler og drivmidler for skum eller aerosoler*14 06 01klorfluorkarboner, HKFK, HFK*14 06 02andre halogenerte løsemidler og løsemiddelblandinger*14 06 03andre løsemidler og løsemiddelblandinger*14 06 04slam eller fast avfall som inneholder halogenerte løsemidler*14 06 05slam eller fast avfall som inneholder andre løsemidler**15**Emballasjeavfall, absorbenter, tørkekluter, filtreringsmaterialer og vernetøy som ikke er spesifisert andre steder**15 01**emballasje (herunder separat innsamlet kommunalt emballasjeavfall)15 01 01emballasje av papir og papp/kartong15 01 02emballasje av plast15 01 03emballasje av tre15 01 04emballasje av metall15 01 05emballasje av komposittmateriale15 01 06blandet emballasje15 01 07emballasje av glass15 01 09emballasje av tekstil*15 01 10emballasje som inneholder rester av eller er forurenset av farlige stoffer*15 01 11emballasje av metall som inneholder et farlig, fast porøst materiale (f.eks. asbest), herunder tomme trykkbeholdere**15 02**absorbenter, filtreringsmaterialer, tørkekluter og vernetøy*15 02 02absorbenter, filtreringsmaterialer (herunder oljefiltre som ikke er spesifisert andre steder), tørkekluter og vernetøy som er forurenset av farlige stoffer15 02 03andre absorbenter, filtreringsmaterialer, tørkekluter og vernetøy enn dem nevnt i 15 02 02**16**Avfall som ikke er spesifisert andre steder i listen**16 01**kasserte kjøretøyer fra forskjellige typer transport (herunder terrenggående kjøretøyer) og avfall fra demontering av kasserte kjøretøyer og fra vedlikehold av kjøretøyer (unntatt 13, 14, 16 06 og 16 08)16 01 03kasserte dekk*16 01 04kasserte kjøretøyer16 01 06kasserte kjøretøyer som inneholder verken væsker eller andre farlige komponenter*16 01 07oljefiltre*16 01 08kvikksølvholdige komponenter*16 01 09komponenter som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget*16 01 10Eksplosive komponenter (f.eks. airbager)1*16 01 11bremsebelegg som inneholder asbest16 01 12andre typer bremsebelegg enn dem nevnt i 16 01 11*16 01 13bremsevæske*16 01 14frostvæske som inneholder farlige stoffer16 01 15annen frostvæske enn den nevnt i 16 01 1416 01 16tanker til flytende gass16 01 17ferrometall16 01 18ikke-jernholdig metall16 01 19plast16 01 20glass*16 01 21andre farlige komponenter enn dem nevnt i 16 01 07–16 01 11 og i 16 01 13 og 16 01 1416 01 22komponenter som ikke er spesifisert andre steder16 01 99avfall som ikke er spesifisert andre steder**16 02**avfall fra elektrisk og elektronisk utstyr*16 02 09transformatorer og kondensatorer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget*16 02 10annet kassert utstyr som inneholder eller er forurenset av PCB enn det nevnt i 16 02 09*16 02 11kassert utstyr som inneholder klorfluorkarboner, HKFK, HFK,*16 02 12kassert utstyr som inneholder fri asbest*16 02 13annet kassert utstyr som inneholder farlige komponenter enn det nevnt i 16 02 09–16 02 1216 02 14annet kassert utstyr enn det nevnt i 16 02 09–16 02 13*16 02 15farlige komponenter som er fjernet fra kassert utstyr16 02 16andre komponenter fjernet fra kassert utstyr enn dem nevnt i 16 02 15**16 03**frasorterte produksjonsserier og ubrukte produkter*16 03 03uorganisk avfall som inneholder farlige stoffer16 03 04annet uorganisk avfall enn det nevnt i 16 03 03*16 03 05organisk avfall som inneholder farlige stoffer16 03 06annet organisk avfall enn det nevnt i 16 03 05*16 03 07metallisk kvikksølv**16 04**Kasserte eksplosive stoffer1*16 04 01Kassert ammunisjon*16 04 02Kassert fyrverkeri*16 04 03Andre kasserte eksplosive stoffer**16 05**gass i trykkbeholdere og kasserte kjemikalier*16 05 04gass i trykkbeholdere (herunder haloner) som inneholder farlige stoffer16 05 05annen gass i trykkbeholdere enn den nevnt i 16 05 04*16 05 06laboratoriekjemikalier som består av eller inneholder farlige stoffer, herunder blandinger av laboratoriekjemikalier*16 05 07kasserte uorganiske kjemikalier som består av eller inneholder farlige stoffer*16 05 08kasserte organiske kjemikalier som består av eller inneholder farlige stoffer16 05 09andre kasserte kjemikalier enn dem nevnt i 16 05 06, 16 05 07 eller 16 05 08**16 06**batterier og akkumulatorer*16 06 01blybatterier*16 06 02Ni-Cd-batterier*16 06 03batterier som inneholder kvikksølv16 06 04alkaliske batterier (unntatt 16 06 03)16 06 05andre batterier og akkumulatorer*16 06 06separat innsamlet elektrolytt fra batterier og akkumulatorer**16 07**avfall fra rengjøring av transport- og lagringstanker og tønner (unntatt kategori 05 og 13)*16 07 08oljeholdig avfall*16 07 09avfall som inneholder andre farlige stoffer16 07 99avfall som ikke er spesifisert andre steder**16 08**brukte katalysatorer16 08 01Brukte katalysatorer som inneholder gull, sølv, rhenium, rodium, palladium, iridium eller platina (unntatt 16 08 07)*16 08 02brukte katalysatorer som inneholder farlige overgangsmetaller eller overgangsmetallforbindelser som nevnt i nr. 1 bokstav b i dette vedlegget16 08 03brukte katalysatorer som inneholder overgangsmetaller eller overgangsmetallforbindelser som nevnt i nr. 1 bokstav b i dette vedlegget som ikke er spesifisert andre steder16 08 04brukte katalysatorer for pulverkatalytisk krakking (unntatt 16 08 07)*16 08 05brukte katalysatorer som inneholder fosforsyre*16 08 06væsker som har vært brukt som katalysator*16 08 07brukte katalysatorer som er forurenset av farlige stoffer**16 09**oksiderende stoffer*16 09 01permangater, f.eks. kaliumpermanganat*16 09 02kromater, f.eks. kaliumkromat, kalium- eller natriumdikromat*16 09 03peroksider, f.eks. hydrogenperoksid*16 09 04oksiderende stoffer som ikke er spesifisert andre steder**16 10**vandig flytende avfall som skal behandles eksternt*16 10 01vandig flytende avfall som inneholder farlige stoffer16 10 02annet vandig flytende avfall enn det nevnt i 16 10 01*16 10 03vandige konsentrater som inneholder farlige stoffer16 10 04andre vandige konsentrater enn dem nevnt i 16 10 03**16 11**brukte fôringer og ildfaste materialer*16 11 01karbonbaserte fôringer og ildfaste materialer fra metallurgiske prosesser som inneholder farlige stoffer16 11 02andre karbonbaserte fôringer og ildfaste materialer fra metallurgiske prosesser enn dem nevnt i 16 11 01*16 11 03andre fôringer og ildfaste materialer fra metallurgiske prosesser som inneholder farlige stoffer16 11 04andre fôringer og ildfaste materialer fra metallurgiske prosesser enn dem nevnt i 16 11 03*16 11 05fôringer og ildfaste materialer fra ikke-metallurgiske prosesser som inneholder farlige stoffer16 11 06andre fôringer og ildfaste materialer fra ikke-metallurgiske prosesser enn dem nevnt i 16 11 05**16 50**ilandført avfall fra oljeboring/-produksjon**16 50 71*oljebasert borevæske (enhver borevæske som inneholder olje eller oljeemulsjon av mineralopprinnelse)**16 50 72*oljekontaminert borekaks (utboret bergmasse fra boring med oljebasert borevæske, > 1 % olje på kaks)**16 50 73*kjemikalieblandinger u/halogen og tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget**16 50 74*kjemikalieblandinger med halogen**16 50 75*kjemikalieblandinger med tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget**16 50 76*rene kjemikalier/kjemikalierester u/halogen og tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget**16 50 77*rene kjemikalier med halogen og kjemikalierester med halogen (Cl, F, Br)**16 50 78*rene kjemikalier med tungmetaller og kjemikalierester med tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget**17**Avfall fra bygge- og rivingsarbeid (herunder overskuddsmasse fra forurensede byggeplasser)**17 01**betong, murstein, takstein, keramikk17 01 01betong17 01 02murstein17 01 03takstein og keramikk*17 01 06blandinger eller frasorterte fraksjoner av betong, murstein, takstein og keramikk som inneholder farlige stoffer17 01 07andre blandinger av betong, murstein, takstein og keramikk enn dem nevnt i 17 01 06**17 02**tre, glass og plast17 02 01tre17 02 02glass17 02 03plast*17 02 04tre, glass og plast som inneholder eller er forurenset av farlige stoffer**17 03**bitumenblandinger, kulltjære og tjæreprodukter*17 03 01bitumenblandinger som inneholder kulltjære17 03 02andre bitumenblandinger enn dem nevnt i 17 03 01*17 03 03kulltjære og tjæreprodukter**17 04**metaller (herunder legeringer)17 04 01kopper, bronse, messing17 04 02aluminium17 04 03bly17 04 04sink17 04 05jern og stål17 04 06tinn17 04 07metaller i blanding*17 04 09metallavfall som er forurenset av farlige stoffer*17 04 10kabler som inneholder olje, kulltjære eller andre farlige stoffer17 04 11andre kabler enn dem nevnt i 17 04 10**17 05**jord (herunder overskuddsmasse fra forurensede byggeplasser), stein og mudringsslam*17 05 03jord og stein som inneholder farlige stoffer17 05 04annen jord og stein enn den nevnt i 17 05 03*17 05 05mudringsslam som inneholder farlige stoffer17 05 06annet mudringsslam enn det nevnt i 17 05 05*17 05 07jernbaneballast som inneholder farlige stoffer17 05 08annen jernbaneballast enn den nevnt i 17 05 07**17 06**isolasjonsmaterialer og asbestholdige byggematerialer*17 06 01asbestholdige isolasjonsmaterialer*17 06 03andre isolasjonsmaterialer som består av eller inneholder farlige stoffer17 06 04andre isolasjonsmaterialer enn dem nevnt i 17 06 01 og 17 06 03*17 06 05asbestholdige byggematerialer**17 08**gipsbaserte byggematerialer*17 08 01gipsbaserte byggematerialer som er forurenset av farlige stoffer17 08 02andre gipsbaserte byggematerialer enn dem nevnt i 17 08 01**17 09**annet avfall fra bygge- og rivingsarbeid*17 09 01kvikksølvholdig avfall fra bygge- og rivingsarbeid*17 09 02avfall fra bygge- og rivingsarbeid som inneholder PCB (f.eks. tetningsmasse, harpiksbaserte gulvbelegg, isolerglass, kondensatorer som inneholder PCB) som nevnt i nr. 1 bokstav c i dette vedlegget*17 09 03annet avfall fra bygge- og rivingsarbeid (herunder blandet avfall) som inneholder farlige stoffer17 09 04annet blandet avfall fra bygge- og rivingsarbeid enn det nevnt i 17 09 01, 17 09 02 og 17 09 03**18**Avfall fra medisinsk behandling eller veterinærbehandling og/eller tilhørende forskning (unntatt kjøkken- og restaurantavfall som ikke har direkte tilknytning til medisinsk behandling)**18 01**avfall fra fødeavdelinger og fra diagnose, behandling eller forebygging av sykdom hos mennesker18 01 04avfall der håndtering ikke er underlagt særlige krav av hensyn til forebygging av infeksjoner (f.eks. forbindinger, gipsbandasjer, sengetøy, klær til engangsbruk, bleier)*18 01 06kjemikalier som består av eller inneholder farlige stoffer18 01 07andre kjemikalier enn dem nevnt i 18 01 06*18 01 10amalgamavfall fra tannbehandling**18 02**avfall fra forskning, diagnose, behandling eller forebygging av sykdom hos dyr18 02 03avfall der håndtering ikke underlagt særlige krav av hensyn til forebygging av infeksjoner*18 02 05kjemikalier som består av eller inneholder farlige stoffer18 02 06andre kjemikalier enn dem nevnt i 18 02 05**19**Avfall fra avfallsbehandlingsanlegg og eksterne avløpsrenseanlegg og fra fremstilling av drikkevann og vann til industriell bruk**19 01**avfall fra forbrenning eller pyrolyse av avfall19 01 02jernholdige materialer utskilt fra bunnaske*19 01 05filterkaker fra behandling av avgasser*19 01 06vandig flytende avfall fra behandling av avgasser og annet vandig flytende avfall*19 01 07fast avfall fra behandling av avgasser*19 01 10brukt aktivt kull fra behandling av røykgass*19 01 11bunnaske og slagg som inneholder farlige stoffer19 01 12annen bunnaske og slagg enn dem nevnt i 19 01 11*19 01 13flygeaske som inneholder farlige stoffer19 01 14annen flygeaske enn den nevnt i 19 01 13*19 01 15kjelstøv som inneholder farlige stoffer19 01 16annet kjelstøv enn det nevnt i 19 01 15*19 01 17pyrolyseavfall som inneholder farlige stoffer19 01 18annet pyrolyseavfall enn det nevnt i 19 01 1719 01 19sand fra virvelsjiktovner19 01 99avfall som ikke er spesifisert andre steder**19 02**avfall fra fysisk-kjemisk behandling av avfall (herunder fjerning av krom, fjerning av cyanid, nøytralisering)19 02 03ferdigblandet avfall som består av bare ikke-farlig avfall*19 02 04ferdigblandet avfall der minst én type avfall er farlig*19 02 05slam fra fysisk-kjemisk behandling som inneholder farlige stoffer19 02 06annet slam fra fysisk-kjemisk behandling enn det nevnt i 19 02 05*19 02 07olje og konsentrater fra separering*19 02 08brennbart flytende avfall som inneholder farlige stoffer*19 02 09fast brennbart avfall som inneholder farlige stoffer19 02 10annet brennbart avfall enn det nevnt i 19 02 08 og 19 02 09*19 02 11annet avfall som inneholder farlige stoffer19 02 99avfall som ikke er spesifisert andre steder**19 03**stabilisert/herdet avfall, jf. nr. 1 bokstav d til e i dette vedlegget*19 03 04avfall oppført som farlig, delvis stabilisert og annet enn det nevnt i 19 03 08, jf. nr. 1 bokstav f i dette vedlegget19 03 05annet stabilisert avfall enn det nevnt i 19 03 04, jf. nr. 1 bokstav d og f i dette vedlegget*19 03 06avfall oppført som farlig, herdet som nevnt i nr. 1 bokstav e i dette vedlegget19 03 07annet herdet avfall enn det nevnt i 19 03 06, jf. nr. 1 bokstav e i dette vedlegget*19 03 08delvis stabilisert kvikksølv, jf. nr. 1 bokstav f i dette vedlegget**19 04**forglasset avfall og avfall fra forglassing19 04 01forglasset avfall*19 04 02flygeaske og annet avfall fra behandling av røykgass*19 04 03ikke-forglasset fast fase19 04 04vandig flytende avfall fra herding av forglasset avfall, jf. nr. 1 bokstav e i dette vedlegget**19 05**avfall fra aerob behandling av fast avfall19 05 01ikke-kompostert fraksjon av kommunalt avfall og lignende avfall19 05 02ikke-kompostert fraksjon av animalsk og vegetabilsk avfall19 05 03kompost som ikke er i samsvar med spesifikasjonene19 05 99avfall som ikke er spesifisert andre steder**19 06**avfall fra anaerob behandling av avfall19 06 03avlut fra anaerob behandling av kommunalt avfall19 06 04fermenteringsrest fra anaerob behandling av kommunalt avfall19 06 05avlut fra anaerob behandling av animalsk og vegetabilsk avfall19 06 06fermenteringsrest fra anaerob behandling av animalsk og vegetabilsk avfall19 06 99avfall som ikke er spesifisert andre steder**19 07**sigevann fra fyllplasser*19 07 02sigevann fra fyllplasser som inneholder farlige stoffer19 07 03annet sigevann fra fyllplasser enn det nevnt i 19 07 02**19 08**avfall fra avløpsrenseanlegg som ikke er spesifisert andre steder19 08 01ristgods19 08 02sandfangavfall19 08 05slam fra behandling av avløpsvann fra byområder*19 08 06mettede eller brukte ionebytterharpikser*19 08 07løsninger og slam fra regenerering av ionebyttere*19 08 08avfall fra membransystemer som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget19 08 09blandinger av fett og olje fra olje/vann-separering som inneholder matolje og matfett*19 08 10andre blandinger av fett og olje fra olje/vann-separering enn dem nevnt i 19 08 09*19 08 11slam som inneholder farlige stoffer fra biologisk behandling av spillvann fra industri19 08 12annet slam fra biologisk behandling av spillvann fra industri enn det nevnt i 19 08 11*19 08 13slam som inneholder farlige stoffer fra annen behandling av spillvann fra industri19 08 14annet slam fra annen behandling av spillvann fra industri enn det nevnt i 19 08 1319 08 99avfall som ikke er spesifisert andre steder**19 09**avfall fra fremstilling av drikkevann eller vann til industriell bruk19 09 01fast avfall fra første filtrering og fra siling19 09 02slam fra vannklaring19 09 03avkarboneringsslam19 09 04brukt aktivt kull19 09 05mettede eller brukte ionebytterharpikser19 09 06løsninger og slam fra regenerering av ionebyttere19 09 99avfall som ikke er spesifisert andre steder**19 10**avfall fra oppmaling av metallholdig avfall19 10 01avfall av jern og stål19 10 02ikke-jernholdig avfall*19 10 03lett fraksjon og støv som inneholder farlige stoffer19 10 04annen lett fraksjon og støv enn dem nevnt i 19 10 03*19 10 05andre fraksjoner som inneholder farlige stoffer19 10 06andre fraksjoner enn dem nevnt i 19 10 05**19 11**avfall fra regenerering av olje*19 11 01brukte filtreringsleirer*19 11 02syreholdig tjære*19 11 03vandig flytende avfall*19 11 04avfall fra rensing av brenselolje med baser*19 11 05slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer19 11 06annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 19 11 05*19 11 07avfall fra rensing av røykgass19 11 99avfall som ikke er spesifisert andre steder**19 12**avfall fra mekanisk behandling av avfall (f.eks. sortering, knusing, komprimering, pelletering) som ikke er spesifisert andre steder19 12 01papir og papp/kartong19 12 02ferrometall19 12 03ikke-jernholdig metall19 12 04plast og gummi19 12 05glass*19 12 06tre som inneholder farlige stoffer19 12 07annet tre enn det nevnt i 19 12 0619 12 08tekstil19 12 09mineraler (f.eks. sand, stein)19 12 10brennbart avfall (avfallsbasert brensel)*19 12 11annet avfall (herunder blandinger av materialer) fra mekanisk behandling av avfall som inneholder farlige stoffer19 12 12annet avfall (herunder blandinger av materialer) fra mekanisk behandling av avfall enn det nevnt i 19 12 11**19 13**avfall fra remediering av jord og grunnvann*19 13 01fast avfall fra remediering av jord som inneholder farlige stoffer19 13 02annet fast avfall fra remediering av jord enn det nevnt i 19 13 01*19 13 03slam fra remediering av jord som inneholder farlige stoffer19 13 04annet slam fra remediering av jord enn det nevnt i 19 13 03*19 13 05slam fra remediering av grunnvann som inneholder farlige stoffer19 13 06annet slam fra remediering av grunnvann enn det nevnt i 19 13 05*19 13 07vandig flytende avfall og vandige konsentrater fra remediering av grunnvann som inneholder farlige stoffer19 13 08annet vandig flytende avfall og vandige konsentrater fra remediering av grunnvann enn det nevnt i 19 13 07**20**Kommunalt avfall (husholdningsavfall og lignende avfall fra handel, industri og institusjoner) herunder separat innsamlede fraksjoner**20 01**separat innsamlede fraksjoner (unntatt 15 01)20 01 01papir og papp/kartong20 01 02glass20 01 08biologisk nedbrytbart kjøkken- og kantineavfall20 01 10klær20 01 11tekstiler*20 01 13løsemidler*20 01 14syrer*20 01 15baser*20 01 17fotografiske kjemikalier*20 01 19pesticider*20 01 21lysstoffrør og annet kvikksølvholdig avfall*20 01 23kassert utstyr som inneholder klorfluorkarboner20 01 25matolje og matfett*20 01 26annen olje og annet fett enn det nevnt i 20 01 25*20 01 27maling, trykkfarger, klebemidler og harpikser som inneholder farlige stoffer20 01 28annen maling og andre trykkfarger, klebemidler og harpikser enn dem nevnt i 20 01 27*20 01 29rengjøringsmidler som inneholder farlige stoffer20 01 30andre rengjøringsmidler enn dem nevnt i 20 01 29*20 01 33batterier og akkumulatorer som omfattes av 16 06 01, 16 06 02 eller 16 06 03 og usorterte batterier og akkumulatorer som inneholder slike batterier20 01 34andre batterier og akkumulatorer enn dem nevnt i 20 01 33*20 01 35annet kassert elektrisk og elektronisk utstyr enn det nevnt i 20 01 21 og 21 01 23 som inneholder farlige komponenter20 01 36annet kassert elektrisk og elektronisk utstyr enn det nevnt i 20 01 21, 20 01 23 og 20 01 35*20 01 37tre som inneholder farlige stoffer20 01 38annet tre enn det nevnt i 20 01 3720 01 39plast20 01 40metall20 01 41avfall fra skorsteinsfeiing20 01 99andre fraksjoner som ikke er spesifisert andre steder**20 02**hage- og parkavfall (herunder gravlundsavfall)20 02 01biologisk nedbrytbart avfall20 02 02jord og stein20 02 03annet avfall som ikke er biologisk nedbrytbart**20 03**annet kommunalt avfall20 03 01blandet kommunalt avfall20 03 02torgavfall20 03 03avfall fra gaterengjøring20 03 04slam fra septiktanker20 03 06avfall fra kloakkrensing20 03 07voluminøst avfall20 03 99kommunalt avfall som ikke er spesifisert andre steder
+4. *Kapittelinndelingen i avfallslisten i nr. 5* 01Avfall fra leting, utvinning ved gruvedrift og i steinbrudd, og fysisk og kjemisk behandling av mineraler02Avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske samt produksjon og bearbeiding av næringsmidler03Avfall fra treindustri og produksjon av plater og møbler, papirmasse, papir og papp/kartong04Avfall fra lærvare-, pelsverk- og tekstilindustrien05Avfall fra oljeraffinering, rensing av naturgass og pyrolytisk behandling av kull06Avfall fra uorganiske kjemiske prosesser07Avfall fra organiske kjemiske prosesser08Avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av beleggingsprodukter (malinger, lakker og glassemaljer), klebemidler, tetningsmasser og trykkfarger09Avfall fra fotografisk industri10Avfall fra varmebehandlingsprosesser11Avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer, og fra hydrometallurgi med ikke-jernholdige metaller12Avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plaststoffer13Avfall av oljer og flytende brensel (unntatt matoljer, 05 og 12)14Avfall av organiske løsemidler, kjølemidler og drivmidler (unntatt 07 og 08)15Avfall av emballasje, absorbenter, tørkekluter, filtreringsmaterialer og vernetøy som ikke er spesifisert andre steder16Avfall som ikke er spesifisert andre steder i listen17Avfall fra bygge- og rivingsarbeid (herunder overskuddsmasse fra forurensede byggeplasser)18Avfall fra medisinsk behandling eller veterinærbehandling og/eller tilhørende forskning (unntatt kjøkken- og restaurantavfall som ikke har direkte tilknytning til medisinsk behandling)19Avfall fra avfallsbehandlingsanlegg og eksterne avløpsrenseanlegg og fra fremstilling av drikkevann og vann til industriell bruk20Kommunalt avfall (husholdningsavfall og lignende avfall fra handel, industri og institusjoner) herunder separat innsamlede fraksjoner.
+5. *Avfallslisten* **01**Avfall fra leting, utvinning ved gruvedrift og i steinbrudd og fysisk og kjemisk behandling av mineraler**01 01**avfall fra utvinning av mineraler01 01 01avfall fra utvinning av metallholdige mineraler01 01 02avfall fra utvinning av ikke-metallholdige mineraler**01 03**avfall fra fysisk og kjemisk bearbeiding av metallholdige mineraler\*01 03 04syredannende avgangsmasse fra bearbeiding av sulfidholdig malm\*01 03 05annen avgangsmasse som inneholder farlige stoffer01 03 06annen avgangsmasse enn den nevnt i 01 03 04 og 01 03 05\*01 03 07annet avfall som inneholder farlige stoffer fra fysisk og kjemisk bearbeiding av metallholdige mineraler01 03 08annet støv- og pulveravfall enn det nevnt i 01 03 0701 03 09rødslam fra aluminiumsproduksjon som er ikke er nevnt i 01 03 10\*01 03 10rødslam fra aluminiumsproduksjon som inneholder farlige stoffer annet enn avfall nevnt i 01 03 0701 03 99avfall som ikke er spesifisert andre steder**01 04**avfall fra fysisk og kjemisk bearbeiding av ikke-metallholdige mineraler\*01 04 07avfall som inneholder farlige stoffer fra fysisk og kjemisk bearbeiding av ikke-metallholdige mineraler01 04 08annet avfall av grus og knust stein enn det nevnt i 01 04 0701 04 09sand- og leireavfall01 04 10annet støv- og pulveravfall enn det nevnt i 01 04 0701 04 11annet avfall fra behandling av kaliumkarbonat og mineralsalter enn det nevnt i 01 04 0701 04 12annen avgangsmasse og annet avfall fra vasking og rensing av mineraler enn den/det nevnt i 01 04 07 og 01 04 1101 04 13annet avfall fra hogging og saging av stein enn det nevnt i 01 04 0701 04 99avfall som ikke er spesifisert andre steder**01 05**borevæske og annet boreavfall01 05 04ferskvannsholdig borevæske og boreavfall\*01 05 05oljeholdig borevæske og boreavfall\*01 05 06borevæske og annet boreavfall som inneholder farlige stoffer01 05 07annen baryttholdig borevæske og annet baryttholdig boreavfall enn den/det nevnt i 01 05 05 og 01 05 0601 05 08annen kloridholdig borevæske og annet kloridholdig boreavfall enn den/det nevnt i 01 05 05 og 01 05 0601 05 99avfall som ikke er spesifisert andre steder**02**Avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske samt produksjon og bearbeiding av næringsmidler**02 01**avfall fra jordbruk, hagebruk, akvakultur, skogbruk, jakt og fiske02 01 01slam fra vasking og rensing02 01 02animalsk avfall02 01 03planteavfall02 01 04plastavfall (unntatt emballasje)02 01 06dyreavføring, dyreurin og husdyrgjødsel (herunder forurenset halm), avløpsvann, innsamlet separat og behandlet eksternt02 01 07avfall fra skogbruk\*02 01 08landbrukskjemisk avfall som inneholder farlige stoffer02 01 09annet landbrukskjemisk avfall enn det nevnt i 02 01 0802 01 10metallavfall02 01 99avfall som ikke er spesifisert andre steder**02 02**avfall fra tilberedning og bearbeiding av kjøtt, fisk og andre næringsmidler av animalsk opprinnelse02 02 01slam fra vasking og rengjøring02 02 02animalsk avfall02 02 03materiale som er uegnet som næringsmidler eller til bearbeiding02 02 04slam fra behandling av avløpsvann på stedet02 02 99avfall som ikke er spesifisert andre steder**02 03**avfall fra tilberedning og bearbeiding av frukt, grønnsaker, korn, matoljer, kakao, kaffe, te og tobakk; produksjon av konserver; produksjon av gjær og gjærekstrakt, tilberedning og gjæring av melasse02 03 01slam fra vasking, rengjøring, skrelling, sentrifugering og separering02 03 02avfall fra konserveringsmidler02 03 03avfall fra ekstraksjon ved hjelp av løsemidler02 03 04materiale som er uegnet som næringsmidler eller til bearbeiding02 03 05slam fra behandling av avløpsvann på produksjonsstedet02 03 99avfall som ikke er spesifisert andre steder**02 04**avfall fra sukkerproduksjon02 04 01jord fra rengjøring og vasking av sukkerbeter02 04 02frasortert kalsiumkarbonat02 04 03slam fra behandling av avløpsvann på produksjonsstedet02 04 99avfall som ikke er spesifisert andre steder**02 05**avfall fra meieriindustri02 05 01materiale som er uegnet som næringsmidler eller til bearbeiding02 05 02slam fra behandling av avløpsvann på produksjonsstedet02 05 99avfall som ikke er spesifisert andre steder**02 06**avfall fra bakeri- og sukkervareindustri02 06 01materiale som er uegnet som næringsmidler eller til bearbeiding02 06 02avfall fra konserveringsmidler02 06 03slam fra behandling av avløpsvann på produksjonsstedet02 06 99avfall som ikke er spesifisert andre steder**02 07**avfall fra produksjon av alkoholholdige og alkoholfrie drikkevarer (unntatt kaffe, te og kakao)02 07 01avfall fra vasking, rengjøring og mekanisk reduksjon av råvarer02 07 02avfall fra alkoholdestillasjon02 07 03avfall fra kjemisk behandling02 07 04materiale som er uegnet som næringsmidler eller til bearbeiding02 07 05slam fra behandling av avløpsvann på produksjonsstedet02 07 99avfall som ikke er spesifisert andre steder**03**Avfall fra treindustri og produksjon av plater og møbler, papirmasse, papir og papp/kartong**03 01**avfall fra treindustri og produksjon av plater og møbler03 01 01bark- og korkavfall\*03 01 04sagflis, spon, kapp, tre, sponplater og finér som inneholder farlige stoffer03 01 05annen sagflis, spon, kapp, tre, sponplater og finér enn det nevnt i 03 01 0403 01 99avfall som ikke er spesifisert andre steder**03 02**avfall fra treimpregnering\*03 02 01ikke-halogenerte organiske treimpregneringsmidler\*03 02 02klororganiske treimpregneringsmidler\*03 02 03metallorganiske treimpregneringsmidler\*03 02 04uorganiske treimpregneringsmidler\*03 02 05andre treimpregneringsmidler som inneholder farlige stoffer03 02 99treimpregneringsmidler som ikke er spesifisert andre steder**03 03**avfall fra produksjon og bearbeiding av papir, papp/kartong og papirmasse03 03 01bark- og treavfall03 03 02grønnlutslam (fra gjenvinning av kokevæske)03 03 05avsvertingsslam fra gjenvinning av papir03 03 07mekanisk separerte rester fra oppmaling av papir- og papp-/kartongavfall03 03 08avfall fra sortering av papir og papp/kartong til gjenvinning03 03 09avfall av kalkslam03 03 10fiberavfall, fiberslam og slam av fyllstoff og bestrykningsmaterialer fra mekanisk separering03 03 11annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 03 03 1003 03 99avfall som ikke er spesifisert andre steder**04**Avfall fra lærvare-, pelsverk- og tekstilindustrien**04 01**avfall fra lærvare- og pelsverkindustrien04 01 01avfall fra skaving og spalting04 01 02avfall fra kalkluting\*04 01 03avfettingsavfall som inneholder løsemidler uten flytende fase04 01 04kromholdig garvevæske04 01 05ikke-kromholdig garvevæske04 01 06kromholdig slam, særlig fra behandling av avløpsvann på produksjonsstedet04 01 07ikke-kromholdig slam, særlig fra behandling av avløpsvann på produksjonsstedet04 01 08kromholdig avfall av garvet lær (blåspalting, skav, avskjær, poleringsstøv)04 01 09avfall fra beredning og ferdigbehandling04 01 99avfall som ikke er spesifisert andre steder**04 02**avfall fra tekstilindustrien04 02 09avfall av komposittmaterialer (impregnerte tekstiler, elastomer, plastomer)04 02 10organiske stoffer av naturprodukter (for eksempel fett, voks)\*04 02 14avfall fra etterbehandling som inneholder organiske løsemidler04 02 15annet avfall fra etterbehandling enn det nevnt i 04 02 14\*04 02 16fargestoffer og pigmenter som inneholder farlige stoffer04 02 17andre fargestoffer og pigmenter enn dem nevnt i 04 02 16\*04 02 19slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer04 02 20annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 04 02 1904 02 21avfall av ubearbeidede tekstilfibrer04 02 22avfall av bearbeidede tekstilfibrer04 02 99avfall som ikke er spesifisert andre steder**05**Avfall fra oljeraffinering, rensing av naturgass og pyrolytisk behandling av kull**05 01**avfall fra oljeraffinering\*05 01 02avsaltingsslam\*05 01 03bunnslam fra tanker\*05 01 04alkylsyreslam\*05 01 05oljespill\*05 01 06oljeholdig slam fra vedlikeholdsarbeid på anlegg eller utstyr\*05 01 07syreholdig tjære\*05 01 08annen tjære\*05 01 09slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer05 01 10annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 05 01 09\*05 01 11avfall fra behandling av brennstoff med baser\*05 01 12syreholdig olje05 01 13slam fra behandling av tilførselsvann til kjeler05 01 14avfall fra kjølekolonner\*05 01 15brukte filtreringsleirer05 01 16svovelholdig avfall fra avsvovling av olje05 01 17bitumen05 01 99avfall som ikke er spesifisert andre steder**05 06**avfall fra pyrolytisk behandling av kull\*05 06 01syreholdig tjære\*05 06 03annen tjære05 06 04avfall fra kjølekolonner05 06 99avfall som ikke er spesifisert andre steder**05 07**avfall fra rensing og transport av naturgass\*05 07 01kvikksølvholdig avfall05 07 02svovelholdig avfall05 07 99avfall som ikke er spesifisert andre steder**06**Avfall fra uorganiske kjemiske prosesser**06 01**avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av syrer\*06 01 01svovelsyre og svovelholdige syrer\*06 01 02saltsyre\*06 01 03hydrogenfluorid\*06 01 04fosforsyre og fosforholdige syrer\*06 01 05salpetersyre og nitrogenholdige syrer\*06 01 06andre syrer06 01 99avfall som ikke er spesifisert andre steder**06 02**avfall fra PBDB av baser\*06 02 01kalsiumhydroksid\*06 02 03ammoniumhydroksid\*06 02 04natrium- og kaliumhydroksid\*06 02 05andre baser06 02 99avfall som ikke er spesifisert andre steder**06 03**avfall fra PBDB av salter og saltløsninger og av metalloksider\*06 03 11faste salter og saltløsninger som inneholder cyanider\*06 03 13faste salter og saltløsninger som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 03 14andre faste salter og saltløsninger enn dem nevnt i 06 03 11 og 06 03 13\*06 03 15metalloksider som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 03 16andre metalloksider enn dem nevnt i 06 03 1506 03 99avfall som ikke er spesifisert andre steder**06 04**annet metallholdig avfall enn det nevnt i 06 03\*06 04 03arsenholdig avfall\*06 04 04kvikksølvholdig avfall\*06 04 05avfall som inneholder andre tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget06 04 99avfall som ikke er spesifisert andre steder**06 05**slam fra behandling av avløpsvann på produksjonsstedet\*06 05 02slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer06 05 03annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 06 05 02**06 06**avfall fra PBDB av svovelholdige kjemikalier og fra svovelkjemiske prosesser og avsvovlingsprosesser\*06 06 02avfall som inneholder farlige sulfider06 06 03avfall som inneholder andre sulfider enn dem nevnt i 06 06 0206 06 99avfall som ikke er spesifisert andre steder**06 07**avfall fra PBDB av halogener og halogenkjemiske prosesser\*06 07 01avfall som inneholder asbest fra elektrolyse\*06 07 02aktivt kull brukt til klorproduksjon\*06 07 03kvikksølvholdig slam av bariumsulfat\*06 07 04løsninger og syrer, for eksempel kontaktsyre06 07 99avfall som ikke er spesifisert andre steder**06 08**avfall fra PBDB av silisium og silisiumderivater\*06 08 02avfall som inneholder farlige klorsilaner06 08 99avfall som ikke er spesifisert andre steder**06 09**avfall fra PBDB av fosforholdige kjemikalier og fosforkjemiske prosesser06 09 02fosforholdig slagg\*06 09 03kalsiumbasert reaksjonsavfall som inneholder eller er forurenset av farlige stoffer06 09 04annet kalsiumbasert reaksjonsavfall enn det nevnt i 06 09 0306 09 99avfall som ikke er spesifisert andre steder**06 10**avfall fra PBDB av nitrogenholdige kjemikalier, nitrogenkjemiske prosesser og kunstgjødselproduksjon\*06 10 02avfall som inneholder farlige stoffer06 10 99avfall som ikke er spesifisert andre steder**06 11**avfall fra produksjon av uorganiske pigmenter og opakiseringsmidler06 11 01kalsiumbasert reaksjonsavfall fra titandioksidproduksjon06 11 99avfall som ikke er spesifisert andre steder**06 13**avfall fra uorganiske kjemiske prosesser som ikke er nevnt andre steder\*06 13 01uorganiske plantevernmidler, treimpregneringsmidler og andre biocider\*06 13 02brukt aktivt kull (unntatt 06 07 02)06 13 03carbon black\*06 13 04avfall fra bearbeiding av asbest\*06 13 05sot06 13 99avfall som ikke er spesifisert andre steder**07**Avfall fra organiske kjemiske prosesser**07 01**avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av organiske basisprodukter\*07 01 01vandige vaskevæsker og morluter\*07 01 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 01 04andre organiske løsemidler, vaskevæsker og morluter\*07 01 07halogenerte destillasjonsrester og reaksjonsrester\*07 01 08andre destillasjonsrester og reaksjonsrester\*07 01 09halogenerte filterkaker og brukte absorbenter\*07 01 10andre filterkaker og brukte absorbenter\*07 01 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 01 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 01 1107 01 99avfall som ikke er spesifisert andre steder**07 02**avfall fra PBDB av plastmaterialer, syntetisk gummi og kunstfibrer\*07 02 01vandige vaskevæsker og morluter\*07 02 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 02 04andre organiske løsemidler, vaskevæsker og morluter\*07 02 07halogenerte destillasjonsrester og reaksjonsrester\*07 02 08andre destillasjonsrester og reaksjonsrester\*07 02 09halogenerte filterkaker og brukte absorbenter\*07 02 10andre filterkaker og brukte absorbenter\*07 02 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 02 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 02 1107 02 13plastavfall\*07 02 14avfall fra tilsetningsstoffer som inneholder farlige stoffer07 02 15annet avfall fra tilsetningsstoffer enn det nevnt i 07 02 14\*07 02 16avfall som inneholder farlige silikoner07 02 17silikonholdig avfall som ikke er nevnt i 07 02 1607 02 99avfall som ikke er spesifisert andre steder**07 03**avfall fra PBDB av organiske farge stoffer og pigmenter (unntatt 06 11)\*07 03 01vandige vaskevæsker og morluter\*07 03 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 03 04andre organiske løsemidler, vaskevæsker og morluter\*07 03 07halogenerte destillasjonsrester og reaksjonsrester\*07 03 08andre destillasjonsrester og reaksjonsrester\*07 03 09halogenerte filterkaker og brukte absorbenter\*07 03 10andre filterkaker og brukte absorbenter\*07 03 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 03 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 03 1107 03 99avfall som ikke er spesifisert andre steder**07 04**avfall fra PBDB av organiske plantevernmidler (unntatt 02 01 08 og 02 01 09), treimpregneringsmidler (unntatt 03 02) og andre biocider\*07 04 01vandige vaskevæsker og morluter\*07 04 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 04 04andre organiske løsemidler, vaskevæsker og morluter\*07 04 07halogenerte destillasjonsrester og reaksjonsrester\*07 04 08andre destillasjonsrester og reaksjonsrester\*07 04 09halogenerte filterkaker og brukte absorbenter\*07 04 10andre filterkaker og brukte absorbenter\*07 04 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 04 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 04 11\*07 04 13fast avfall som inneholder farlige stoffer07 04 99avfall som ikke er spesifisert andre steder**07 05**avfall fra PBDB av legemidler\*07 05 01vandige vaskevæsker og morluter\*07 05 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 05 04andre organiske løsemidler, vaskevæsker og morluter\*07 05 07halogenerte destillasjonsrester og reaksjonsrester\*07 05 08andre destillasjonsrester og reaksjonsrester\*07 05 09halogenerte filterkaker og brukte absorbenter\*07 05 10andre filterkaker og brukte absorbenter\*07 05 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 05 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 05 11\*07 05 13fast avfall som inneholder farlige stoffer07 05 14annet fast avfall enn det nevnt i 07 05 1307 05 99avfall som ikke er spesifisert andre steder**07 06**avfall fra PBDB av fettstoffer, smøremidler, såpe, rengjøringsmidler, desinfeksjonsmidler og kosmetikk\*07 06 01vandige vaskevæsker og morluter\*07 06 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 06 04andre organiske løsemidler, vaskevæsker og morluter\*07 06 07halogenerte destillasjonsrester og reaksjonsrester\*07 06 08andre destillasjonsrester og reaksjonsrester\*07 06 09halogenerte filterkaker og brukte absorbenter\*07 06 10andre filterkaker og brukte absorbenter\*07 06 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 06 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 06 1107 06 99avfall som ikke er spesifisert andre steder**07 07**avfall fra PBDB av finkjemikalier og av kjemiske produkter som ikke er spesifisert andre steder\*07 07 01vandige vaskevæsker og morluter\*07 07 03halogenerte organiske løsemidler, vaskevæsker og morluter\*07 07 04andre organiske løsemidler, vaskevæsker og morluter\*07 07 07halogenerte destillasjonsrester og reaksjonsrester\*07 07 08andre destillasjonsrester og reaksjonsrester\*07 07 09halogenerte filterkaker og brukte absorbenter\*07 07 10andre filterkaker og brukte absorbenter\*07 07 11slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer07 07 12annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 07 07 1107 07 99avfall som ikke er spesifisert andre steder**08**Avfall fra produksjon, bearbeiding, distribusjon og bruk (PBDB) av beleggingsprodukter (malinger, lakker og glassemaljer), klebemidler, tetningsmasse og trykkfarger**08 01**avfall fra PBDB og fjerning av malinger og lakker\*08 01 11maling- og lakkavfall som inneholder organiske løsemidler eller andre farlige stoffer08 01 12annet maling- og lakkavfall enn det nevnt i 08 01 11\*08 01 13slam av malinger og lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 14annet slam av malinger og lakker enn det nevnt i 08 01 13\*08 01 15vandig slam som inneholder malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 16annet vandig slam som inneholder malinger og lakker enn det nevnt i 08 01 15\*08 01 17avfall fra fjerning av malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 18annet avfall fra fjerning av malinger eller lakker enn det nevnt i 08 01 17\*08 01 19vandige suspensjoner som inneholder malinger eller lakker som inneholder organiske løsemidler eller andre farlige stoffer08 01 20andre vandige suspensjoner som inneholder malinger eller lakker enn dem nevnt i 08 01 19\*08 01 21maling- eller lakkfjerneravfall08 01 99avfall som ikke er spesifisert andre steder**08 02**avfall fra PBDB av andre overflatebelegg (herunder keramiske materialer)08 02 01avfall av pulverbaserte overflatebelegg08 02 02vandig slam som inneholder keramiske materialer08 02 03vandige suspensjoner som inneholder keramiske materialer08 02 99avfall som ikke er spesifisert andre steder**08 03**avfall fra PBDB av trykkfarger08 03 07vandig slam som inneholder trykkfarger08 03 08vandig flytende avfall som inneholder trykkfarger\*08 03 12trykkfargeavfall som inneholder farlige stoffer08 03 13annet trykkfargeavfall enn det nevnt i 08 03 12\*08 03 14trykkfargeslam som inneholder farlige stoffer08 03 15annet trykkfargeslam enn det nevnt i 08 03 14\*08 03 16avfall av etsende væske brukt i grafisk produksjon\*08 03 17toneravfall som inneholder farlige stoffer08 03 18annet toneravfall enn det nevnt i 08 03 17\*08 03 19dispergert olje08 03 99avfall som ikke er spesifisert andre steder**08 04**avfall fra PBDB av klebemidler og tetningsmasse (herunder vanntetningsmidler)\*08 04 09avfall av klebemidler og tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 10annet avfall av klebemidler og tetningsmasse enn det nevnt i 08 04 09\*08 04 11slam av klebemidler og tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 12annet slam av klebemidler og tetningsmasse enn det nevnt i 08 04 11\*08 04 13vandig slam som inneholder klebemidler eller tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 14annet vandig slam som inneholder klebemidler eller tetningsmasse enn det nevnt i 08 04 13\*08 04 15vandig flytende avfall som inneholder klebemidler eller tetningsmasse som inneholder organiske løsemidler eller andre farlige stoffer08 04 16annet vandig flytende avfall som inneholder klebemidler eller tetningsmasse enn det nevnt i 08 04 15\*08 04 17harpiksolje08 04 99avfall som ikke er spesifisert andre steder**08 05**avfall som ikke spesifisert andre steder i 08\*08 05 01avfall av isocyanater**09**Avfall fra fotografisk industri**09 01**avfall fra fotografisk industri\*09 01 01vannbaserte fremkallingsvæsker og aktivatorvæsker\*09 01 02vannbaserte fremkallingsvæsker for offsetplater\*09 01 03løsemiddelbaserte fremkallingsvæsker\*09 01 04fikserbad\*09 01 05blekebad og bleke-/fikserbad\*09 01 06avfall som inneholder sølv fra behandling på produksjonsstedet av fotografisk avfall09 01 07fotografisk film og papir som inneholder sølv eller sølvforbindelser09 01 08fotografisk film og papir uten sølv eller sølvforbindelser09 01 10kameraer for engangsbruk uten batterier\*09 01 11kameraer for engangsbruk med batterier nevnt i 16 06 01, 16 06 02 eller 16 06 0309 01 12andre kameraer for engangsbruk med batterier enn dem nevnt i 09 01 11\*09 01 13annet vandig flytende avfall fra gjenvinning av sølv på produksjonsstedet enn det nevnt i 09 01 0609 01 99avfall som ikke er spesifisert andre steder**10**Avfall fra varmebehandlingsprosesser**10 01**avfall fra kraftverk og andre forbrenningsanlegg (unntatt kategori 19)10 01 01bunnaske, slagg og kjelstøv (unntatt kjelstøv nevnt i 10 01 04)10 01 02flygeaske fra forbrenning av kull10 01 03flygeaske fra forbrenning av torv og ubehandlet trevirke\*10 01 04flygeaske og kjelstøv fra forbrenning av olje10 01 05fast kalsiumbasert reaksjonsavfall fra avsvovling av røykgass10 01 07kalsiumbasert reaksjonsavfall i form av slam fra avsvovling av røykgass\*10 01 09svovelsyre\*10 01 13flygeaske fra emulgerte hydrokarboner brukt som brensel\*10 01 14bunnaske, slagg og kjelstøv fra samforbrenning som inneholder farlige stoffer10 01 15annen bunnaske og annet slagg og kjelstøv fra samforbrenning enn dem nevnt i 10 01 14\*10 01 16flygeaske fra samforbrenning som inneholder farlige stoffer10 01 17annen flygeaske fra samforbrenning enn den nevnt i 10 01 16\*10 01 18avfall fra rensing av røykgass som inneholder farlige stoffer10 01 19annet avfall fra rensing av røykgass enn det nevnt i 10 01 05, 10 01 07 og 10 01 18\*10 01 20slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer10 01 21annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 10 01 20\*10 01 22vandig slam fra kjelerensing som inneholder farlige stoffer10 01 23annet vandig slam fra kjelerensing enn det nevnt i 10 01 2210 01 24sand fra virvelsjikt10 01 25avfall fra lagring og behandling av brensel til kullfyrte kraftverk10 01 26avfall fra kjølevannbehandling10 01 99avfall som ikke er spesifisert andre steder**10 02**avfall fra jern- og stålindustri10 02 01avfall fra slaggbehandling10 02 02ubehandlet slagg\*10 02 07fast avfall fra behandling av avgasser som inneholder farlige stoffer10 02 08annet fast avfall fra behandling av avgasser enn det nevnt i 10 02 0710 02 10glødeskall\*10 02 11avfall fra kjølevannbehandling som inneholder olje10 02 12annet avfall fra kjølevannbehandling enn det nevnt i 10 02 11\*10 02 13slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 02 14annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 02 1310 02 15annet slam og filterkaker10 02 99avfall som ikke er spesifisert andre steder**10 03**avfall fra varmebasert aluminiumsproduksjon10 03 02anodeavfall\*10 03 04slagg fra primærproduksjon10 03 05avfall av aluminiumoksid\*10 03 08saltslagg fra sekundærproduksjon\*10 03 09svart dross fra sekundærproduksjon\*10 03 15avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 03 16annet avrakingsslagg enn det nevnt i 10 03 15\*10 03 17tjæreholdig avfall fra produksjon av anoder10 03 18annet karbonholdig avfall fra produksjon av anoder enn det nevnt i 10 03 17\*10 03 19støv fra filtrering av røykgass som inneholder farlige stoffer10 03 20annet støv fra filtrering av røykgass enn det nevnt i 10 03 19\*10 03 21andre partikler og annet støv (herunder kulemøllestøv) som inneholder farlige stoffer10 03 22andre partikler og annet støv (herunder kulemøllestøv) enn det nevnt i 10 03 21\*10 03 23fast avfall fra behandling av avgasser som inneholder farlige stoffer10 03 24annet fast avfall fra behandling av avgasser enn det nevnt i 10 03 23\*10 03 25slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 03 26annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 03 25\*10 03 27oljeholdig avfall fra kjølevannbehandling10 03 28annet avfall fra kjølevannbehandling enn det nevnt i 10 03 27\*10 03 29avfall fra behandling av saltslagg og svart dross som inneholder farlige stoffer10 03 30annet avfall fra behandling av saltslagg og svart dross enn det nevnt i 10 03 2910 03 99avfall som ikke er spesifisert andre steder**10 04**avfall fra varmebasert blyproduksjon\*10 04 01slagg fra primær- og sekundærproduksjon\*10 04 02dross og avrakingsslagg fra primær- og sekundærproduksjon\*10 04 03kalsiumarsenat\*10 04 04støv fra filtrering av røykgass\*10 04 05andre partikler og støv\*10 04 06fast avfall fra behandling av avgasser\*10 04 07slam og filterkaker fra behandling av avgasser\*10 04 09oljeholdig avfall fra behandling av kjølevann10 04 10annet avfall fra behandling av kjølevann enn det nevnt i 10 04 0910 04 99avfall som ikke er spesifisert andre steder**10 05**avfall fra varmebasert produksjon av sink10 05 01slagg fra primær- og sekundærproduksjon\*10 05 03støv fra filtrering av røykgass10 05 04andre partikler og støv\*10 05 05fast avfall fra behandling av avgasser\*10 05 06slam og filterkaker fra behandling av avgasser\*10 05 08oljeholdig avfall fra behandling av kjølevann10 05 09annet avfall fra behandling av kjølevann enn det nevnt i 10 05 08\*10 05 10dross og avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 05 11annet dross og avrakingsslagg enn det nevnt i 10 04 1010 05 99avfall som ikke er spesifisert andre steder**10 06**avfall fra varmebasert kopperproduksjon10 06 01slagg fra primær- og sekundærproduksjon10 06 02dross og avrakingsslagg fra primær- og sekundærproduksjon\*10 06 03støv fra filtrering av røykgass10 06 04andre partikler og støv\*10 06 06fast avfall fra behandling av avgasser\*10 06 07slam og filterkaker fra behandling av avgasser\*10 06 09oljeholdig avfall fra behandling av kjølevann10 06 10annet avfall fra behandling av kjølevann enn det nevnt i 10 06 0910 06 99avfall som ikke er spesifisert andre steder**10 07**avfall fra varmebasert produksjon av sølv, gull og platina10 07 01slagg fra primær- og sekundærproduksjon10 07 02dross og avrakingsslagg fra primær- og sekundærproduksjon10 07 03fast avfall fra behandling av avgasser10 07 04andre partikler og støv10 07 05slam og filterkaker fra behandling av avgasser\*10 07 07oljeholdig avfall fra behandling av kjølevann10 07 08annet avfall fra behandling av kjølevann enn det nevnt i 10 07 0710 07 99avfall som ikke er spesifisert andre steder**10 08**avfall fra varmebasert produksjon av andre ikke-jernholdige metaller10 08 04partikler og støv\*10 08 08saltslagg fra primær- og sekundærproduksjon10 08 09annet slagg\*10 08 10dross og avrakingsslagg som er brannfarlig eller avgir farlige mengder brannfarlig gass ved kontakt med vann10 08 11annet dross og avrakingsslagg enn det nevnt i 10 08 10\*10 08 12tjæreholdig avfall fra produksjon av anoder10 08 13annet karbonholdig avfall fra produksjon av anoder enn det nevnt i 10 08 1210 08 14anodeavfall\*10 08 15støv fra filtrering av røykgass som inneholder farlige stoffer10 08 16annet støv fra filtrering av røykgass enn det nevnt i 10 08 15\*10 08 17slam og filterkaker fra behandling av avgasser som inneholder farlige stoffer10 08 18annet slam og filterkaker fra behandling av avgasser enn det nevnt i 10 08 17\*10 08 19oljeholdig avfall fra behandling av kjølevann10 08 20annet avfall fra behandling av kjølevann enn det nevnt i 10 08 1910 08 99avfall som ikke er spesifisert andre steder**10 09**avfall fra ferrometallstøping10 09 03støpeovnsslagg\*10 09 05støpekjerner og støpeformer som ikke er brukt til støping og som inneholder farlige stoffer10 09 06andre støpekjerner og støpeformer som ikke er brukt til støping enn dem nevnt i 10 09 05\*10 09 07støpekjerner og støpeformer som er brukt til støping og som inneholder farlige stoffer10 09 08andre støpekjerner og støpeformer som er brukt til støping enn dem nevnt i 10 09 07\*10 09 09støv fra filtrering av røykgass som inneholder farlige stoffer10 09 10annet støv fra filtrering av røykgass enn det nevnt i 10 09 09\*10 09 11andre partikler som inneholder farlige stoffer10 09 12andre partikler enn dem nevnt i 10 09 11\*10 09 13bindemiddelavfall som inneholder farlige stoffer10 09 14annet bindemiddelavfall enn det nevnt i 10 09 13\*10 09 15avfall av sprekkindikatorvæske som inneholder farlige stoffer10 09 16annet avfall av sprekkindikatorvæske enn det nevnt i 10 09 1510 09 99avfall som ikke er spesifisert andre steder**10 10**avfall fra støping av ikke-jernholdige metaller10 10 03støpeovnsslagg\*10 10 05støpekjerner og støpeformer som ikke er brukt til støping og som inneholder farlige stoffer10 10 06andre støpekjerner og støpeformer som ikke er brukt til støping enn dem nevnt i 10 10 05\*10 10 07støpekjerner og støpeformer som er brukt til støping og som inneholder farlige stoffer10 10 08andre støpekjerner og støpeformer som er brukt til støping enn dem nevnt i 10 10 07\*10 10 09støv fra filtrering av røykgass som inneholder farlige stoffer10 10 10annet støv fra filtrering av røykgass enn det nevnt i 10 10 09\*10 10 11andre partikler som inneholder farlige stoffer10 10 12andre partikler enn dem nevnt i 10 10 11\*10 10 13bindemiddelavfall som inneholder farlige stoffer10 10 14annet bindemiddelavfall enn det nevnt i 10 10 13\*10 10 15avfall av sprekkindikatorvæske som inneholder farlige stoffer10 10 16annet avfall av sprekkindikatorvæske enn det nevnt i 10 10 1510 10 99avfall som ikke er spesifisert andre steder**10 11**avfall fra produksjon av glass og glassprodukter10 11 03glassfiberavfall10 11 05partikler og støv\*10 11 09avfall av råstoffblanding før varmebehandling som inneholder farlige stoffer10 11 10annet avfall av råstoffblanding før varmebehandling enn det nevnt i 10 11 09\*10 11 11glassavfall i små partikler og glasspulver som inneholder tungmetaller (for eksempel fra katodestrålerør) som nevnt i nr. 1 bokstav a i dette vedlegget10 11 12annet glassavfall enn det nevnt i 10 11 11\*10 11 13slam fra polering og sliping av glass som inneholder farlige stoffer10 11 14annet slam fra polering og sliping av glass enn det nevnt i 10 11 13\*10 11 15fast avfall fra behandling av røykgass som inneholder farlige stoffer10 11 16annet fast avfall fra behandling av røykgass enn det nevnt i 10 11 15\*10 11 17slam og filterkaker fra behandling av røykgass som inneholder farlige stoffer10 11 18annet slam og filterkaker fra behandling av røykgass enn det nevnt i 10 11 17\*10 11 19fast avfall fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer10 11 20annet fast avfall fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 10 11 1910 11 99avfall som ikke er spesifisert andre steder**10 12**avfall fra produksjon av keramikk, murstein, takstein og byggevarer10 12 01avfall av råstoffblanding før varmebehandling10 12 03partikler og støv10 12 05slam og filterkaker fra behandling av avgasser10 12 06kasserte former10 12 08avfall av keramikk, murstein, takstein og byggevarer (etter varmebehandling)\*10 12 09fast avfall fra behandling av avgasser som inneholder farlige stoffer10 12 10annet fast avfall fra behandling av avgasser enn det nevnt i 10 12 09\*10 12 11glaseringsavfall som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget10 12 12annet glaseringsavfall enn det nevnt i 10 12 1110 12 13slam fra behandling av avløpsvann på produksjonsstedet10 12 99avfall som ikke er spesifisert andre steder**10 13**avfall fra produksjon av sement, kalk og gips og gjenstander og produkter fremstilt av disse materialene10 13 01avfall av råstoffblanding før varmebehandling10 13 04avfall fra kalsinering og lesking av kalk10 13 06partikler og støv (unntatt 10 13 12 og 10 13 13)10 13 07slam og filterkaker fra behandling av avgasser\*10 13 09asbestholdig avfall fra fremstilling av asbestsement10 13 10annet avfall fra fremstilling av asbestsement enn det nevnt i 10 13 0910 13 11annet avfall av sementbaserte komposittmaterialer enn det nevnt i 10 13 09 og 10 13 10\*10 13 12fast avfall fra behandling av avgasser som inneholder farlige stoffer10 13 13annet fast avfall fra behandling av avgasser enn det nevnt i 10 13 1210 13 14betongavfall og betongslam10 13 99avfall som ikke er spesifisert andre steder**10 14**avfall fra krematorier\*10 14 01kvikksølvholdig avfall fra rensing av avgasser**11**Avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer, og fra hydrometallurgi med ikke-jernholdige metaller**11 01**avfall fra kjemisk overflatebehandling og belegging av metaller og andre materialer (f.eks. galvaniseringsprosesser, forsinkingsprosesser, beising, etsing, fosfatering, alkalisk avfetting og anodisering)\*11 01 05sur beis\*11 01 06syrer som ikke er spesifisert andre steder\*11 01 07basisk beis\*11 01 08fosfateringsslam\*11 01 09slam og filterkaker som inneholder farlige stoffer11 01 10annet slam og filterkaker enn det nevnt i 11 01 09\*11 01 11skyllevann som inneholder farlige stoffer11 01 12annet skyllevann enn det nevnt i 11 01 11\*11 01 13avfettingsavfall som inneholder farlige stoffer11 01 14annet avfettingsavfall enn det nevnt i 11 01 13\*11 01 15eluat og slam fra membransystemer eller ionebyttingssystemer som inneholder farlige stoffer\*11 01 16mettede eller brukte ionebytterharpikser\*11 01 98annet avfall som inneholder farlige stoffer11 01 99avfall som ikke er spesifisert andre steder**11 02**avfall fra hydrometallurgiske prosesser med ikke-jernholdige metaller\*11 02 02slam fra sinkhydrometallurgi (herunder jarositt og goethitt)11 02 03avfall fra produksjon av anoder for vandige elektrolyseprosesser\*11 02 05avfall fra kopperbaserte hydrometallurgiske prosesser som inneholder farlige stoffer11 02 06annet avfall fra kopperbaserte hydrometallurgiske prosesser enn det nevnt i 11 02 05\*11 02 07annet avfall som inneholder farlige stoffer11 02 99avfall som ikke er spesifisert andre steder**11 03**slam og fast avfall fra herdeprosesser\*11 03 01cyanidholdig avfall\*11 03 02annet avfall**11 05**avfall fra varmforsinkingsprosesser11 05 01hardsink11 05 02sinkaske\*11 05 03fast avfall fra behandling av avgasser\*11 05 04brukt flussmiddel11 05 99avfall som ikke er spesifisert andre steder**12**Avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plast**12 01**avfall fra forming og fysisk og mekanisk overflatebehandling av metaller og plast12 01 01filspon og dreiespon av ferrometaller12 01 02støv og partikler av ferrometaller12 01 03filspon og dreiespon av ikke-jernholdige metaller12 01 04støv og partikler av ikke-jernholdige metaller12 01 05plastspon\*12 01 06mineralbaserte bearbeidingsoljer som inneholder halogener (unntatt emulsjoner og løsninger)\*12 01 07mineralbaserte bearbeidingsoljer uten halogener (unntatt emulsjoner og løsninger)\*12 01 08bearbeidingsemulsjoner og -løsninger som inneholder halogener\*12 01 09bearbeidingsemulsjoner og -løsninger uten halogener\*12 01 10syntetiske bearbeidingsoljer\*12 01 12voks- og fettavfall12 01 13sveiseavfall\*12 01 14bearbeidingsslam som inneholder farlige stoffer12 01 15annet bearbeidingsslam enn det nevnt i 12 01 14\*12 01 16avfall fra sandblåsing som inneholder farlige stoffer12 01 17annet avfall fra sandblåsing enn det nevnt i 12 01 16\*12 01 18oljeholdig metallslam (fra sliping og finsliping)\*12 01 19biologisk lett nedbrytbar bearbeidingsolje\*12 01 20brukte slipegjenstander og slipematerialer som inneholder farlige stoffer12 01 21andre brukte slipegjenstander og slipematerialer enn dem nevnt i 12 01 2012 01 99avfall som ikke er spesifisert andre steder**12 03**avfall fra avfettingsprosesser med vann og damp (unntatt 11)\*12 03 01vandige rengjøringsvæsker\*12 03 02avfall fra dampavfetting**13**Avfall av oljer og flytende brensel (unntatt matoljer og 05, 12 og 19)**13 01**avfall av hydrauliske oljer\*13 01 01hydrauliske oljer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget\*13 01 04klorerte emulsjoner\*13 01 05ikke-klorerte emulsjoner\*13 01 09mineralbaserte klorerte hydrauliske oljer\*13 01 10mineralbaserte ikke-klorerte hydrauliske oljer\*13 01 11syntetiske hydrauliske oljer\*13 01 12biologisk lett nedbrytbare hydrauliske oljer\*13 01 13andre hydrauliske oljer**13 02**avfall av motoroljer, giroljer og smøreoljer\*13 02 04mineralbaserte klorerte motoroljer, giroljer og smøreoljer\*13 02 05mineralbaserte ikke-klorerte motoroljer, giroljer og smøreoljer\*13 02 06syntetiske motoroljer, giroljer og smøreoljer\*13 02 07biologisk lett nedbrytbare motoroljer, giroljer og smøreoljer\*13 02 08andre motoroljer, giroljer og smøreoljer**13 03**avfall av transformatoroljer og varmeoverførende oljer\*13 03 01transformatoroljer og varmeoverførende oljer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget\*13 03 06andre mineralbaserte klorerte transformatoroljer og varmeoverførende oljer enn dem nevnt i 13 03 01\*13 03 07mineralbaserte ikke-klorerte transformatoroljer og varmeoverførende oljer\*13 03 08syntetiske transformatoroljer og varmeoverførende oljer\*13 03 09biologisk lett nedbrytbare transformatoroljer og varmeoverførende oljer\*13 03 10andre transformatoroljer og varmeoverførende oljer**13 04**bunnoljer\*13 04 01bunnoljer fra fart på innlands vannveier\*13 04 02bunnoljer fra moloavløp\*13 04 03bunnoljer fra andre typer skipsfart**13 05**innhold i vann/olje-separatorer\*13 05 01fast avfall fra sandfang og olje/vann-separatorer\*13 05 02slam fra olje/vann-separatorer\*13 05 03slam fra oljeutskillere\*13 05 06olje fra olje/vann-separatorer\*13 05 07oljeholdig vann fra olje/vann-separatorer\*13 05 08blandet avfall fra sandfang og olje/vann-separatorer**13 07**avfall av flytende brensel\*13 07 01fyringsolje og dieselolje\*13 07 02bensin\*13 07 03annet brensel (herunder blandinger)**13 08**oljeavfall som ikke er spesifisert andre steder\*13 08 01avsaltingsslam eller -emulsjoner\*13 08 02andre emulsjoner\*13 08 99avfall som ikke er spesifisert andre steder**14**Avfall av organiske løsemidler, kjølemidler og drivmidler (unntatt 07 og 08)**14 06**avfall av organiske løsemidler, kjølemidler og drivmidler for skum eller aerosoler\*14 06 01klorfluorkarboner, HKFK, HFK\*14 06 02andre halogenerte løsemidler og løsemiddelblandinger\*14 06 03andre løsemidler og løsemiddelblandinger\*14 06 04slam eller fast avfall som inneholder halogenerte løsemidler\*14 06 05slam eller fast avfall som inneholder andre løsemidler**15**Emballasjeavfall, absorbenter, tørkekluter, filtreringsmaterialer og vernetøy som ikke er spesifisert andre steder**15 01**emballasje (herunder separat innsamlet kommunalt emballasjeavfall)15 01 01emballasje av papir og papp/kartong15 01 02emballasje av plast15 01 03emballasje av tre15 01 04emballasje av metall15 01 05emballasje av komposittmateriale15 01 06blandet emballasje15 01 07emballasje av glass15 01 09emballasje av tekstil\*15 01 10emballasje som inneholder rester av eller er forurenset av farlige stoffer\*15 01 11emballasje av metall som inneholder et farlig, fast porøst materiale (f.eks. asbest), herunder tomme trykkbeholdere**15 02**absorbenter, filtreringsmaterialer, tørkekluter og vernetøy\*15 02 02absorbenter, filtreringsmaterialer (herunder oljefiltre som ikke er spesifisert andre steder), tørkekluter og vernetøy som er forurenset av farlige stoffer15 02 03andre absorbenter, filtreringsmaterialer, tørkekluter og vernetøy enn dem nevnt i 15 02 02**16**Avfall som ikke er spesifisert andre steder i listen**16 01**kasserte kjøretøyer fra forskjellige typer transport (herunder terrenggående kjøretøyer) og avfall fra demontering av kasserte kjøretøyer og fra vedlikehold av kjøretøyer (unntatt 13, 14, 16 06 og 16 08)16 01 03kasserte dekk\*16 01 04kasserte kjøretøyer16 01 06kasserte kjøretøyer som inneholder verken væsker eller andre farlige komponenter\*16 01 07oljefiltre\*16 01 08kvikksølvholdige komponenter\*16 01 09komponenter som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget\*16 01 10Eksplosive komponenter (f.eks. airbager)1\*16 01 11bremsebelegg som inneholder asbest16 01 12andre typer bremsebelegg enn dem nevnt i 16 01 11\*16 01 13bremsevæske\*16 01 14frostvæske som inneholder farlige stoffer16 01 15annen frostvæske enn den nevnt i 16 01 1416 01 16tanker til flytende gass16 01 17ferrometall16 01 18ikke-jernholdig metall16 01 19plast16 01 20glass\*16 01 21andre farlige komponenter enn dem nevnt i 16 01 07–16 01 11 og i 16 01 13 og 16 01 1416 01 22komponenter som ikke er spesifisert andre steder16 01 99avfall som ikke er spesifisert andre steder**16 02**avfall fra elektrisk og elektronisk utstyr\*16 02 09transformatorer og kondensatorer som inneholder PCB som nevnt i nr. 1 bokstav c i dette vedlegget\*16 02 10annet kassert utstyr som inneholder eller er forurenset av PCB enn det nevnt i 16 02 09\*16 02 11kassert utstyr som inneholder klorfluorkarboner, HKFK, HFK,\*16 02 12kassert utstyr som inneholder fri asbest\*16 02 13annet kassert utstyr som inneholder farlige komponenter enn det nevnt i 16 02 09–16 02 1216 02 14annet kassert utstyr enn det nevnt i 16 02 09–16 02 13\*16 02 15farlige komponenter som er fjernet fra kassert utstyr16 02 16andre komponenter fjernet fra kassert utstyr enn dem nevnt i 16 02 15**16 03**frasorterte produksjonsserier og ubrukte produkter\*16 03 03uorganisk avfall som inneholder farlige stoffer16 03 04annet uorganisk avfall enn det nevnt i 16 03 03\*16 03 05organisk avfall som inneholder farlige stoffer16 03 06annet organisk avfall enn det nevnt i 16 03 05\*16 03 07metallisk kvikksølv**16 04**Kasserte eksplosive stoffer1\*16 04 01Kassert ammunisjon\*16 04 02Kassert fyrverkeri\*16 04 03Andre kasserte eksplosive stoffer**16 05**gass i trykkbeholdere og kasserte kjemikalier\*16 05 04gass i trykkbeholdere (herunder haloner) som inneholder farlige stoffer16 05 05annen gass i trykkbeholdere enn den nevnt i 16 05 04\*16 05 06laboratoriekjemikalier som består av eller inneholder farlige stoffer, herunder blandinger av laboratoriekjemikalier\*16 05 07kasserte uorganiske kjemikalier som består av eller inneholder farlige stoffer\*16 05 08kasserte organiske kjemikalier som består av eller inneholder farlige stoffer16 05 09andre kasserte kjemikalier enn dem nevnt i 16 05 06, 16 05 07 eller 16 05 08**16 06**batterier og akkumulatorer\*16 06 01blybatterier\*16 06 02Ni-Cd-batterier\*16 06 03batterier som inneholder kvikksølv16 06 04alkaliske batterier (unntatt 16 06 03)16 06 05andre batterier og akkumulatorer\*16 06 06separat innsamlet elektrolytt fra batterier og akkumulatorer**16 07**avfall fra rengjøring av transport- og lagringstanker og tønner (unntatt kategori 05 og 13)\*16 07 08oljeholdig avfall\*16 07 09avfall som inneholder andre farlige stoffer16 07 99avfall som ikke er spesifisert andre steder**16 08**brukte katalysatorer16 08 01Brukte katalysatorer som inneholder gull, sølv, rhenium, rodium, palladium, iridium eller platina (unntatt 16 08 07)\*16 08 02brukte katalysatorer som inneholder farlige overgangsmetaller eller overgangsmetallforbindelser som nevnt i nr. 1 bokstav b i dette vedlegget16 08 03brukte katalysatorer som inneholder overgangsmetaller eller overgangsmetallforbindelser som nevnt i nr. 1 bokstav b i dette vedlegget som ikke er spesifisert andre steder16 08 04brukte katalysatorer for pulverkatalytisk krakking (unntatt 16 08 07)\*16 08 05brukte katalysatorer som inneholder fosforsyre\*16 08 06væsker som har vært brukt som katalysator\*16 08 07brukte katalysatorer som er forurenset av farlige stoffer**16 09**oksiderende stoffer\*16 09 01permangater, f.eks. kaliumpermanganat\*16 09 02kromater, f.eks. kaliumkromat, kalium- eller natriumdikromat\*16 09 03peroksider, f.eks. hydrogenperoksid\*16 09 04oksiderende stoffer som ikke er spesifisert andre steder**16 10**vandig flytende avfall som skal behandles eksternt\*16 10 01vandig flytende avfall som inneholder farlige stoffer16 10 02annet vandig flytende avfall enn det nevnt i 16 10 01\*16 10 03vandige konsentrater som inneholder farlige stoffer16 10 04andre vandige konsentrater enn dem nevnt i 16 10 03**16 11**brukte fôringer og ildfaste materialer\*16 11 01karbonbaserte fôringer og ildfaste materialer fra metallurgiske prosesser som inneholder farlige stoffer16 11 02andre karbonbaserte fôringer og ildfaste materialer fra metallurgiske prosesser enn dem nevnt i 16 11 01\*16 11 03andre fôringer og ildfaste materialer fra metallurgiske prosesser som inneholder farlige stoffer16 11 04andre fôringer og ildfaste materialer fra metallurgiske prosesser enn dem nevnt i 16 11 03\*16 11 05fôringer og ildfaste materialer fra ikke-metallurgiske prosesser som inneholder farlige stoffer16 11 06andre fôringer og ildfaste materialer fra ikke-metallurgiske prosesser enn dem nevnt i 16 11 05**16 50**ilandført avfall fra oljeboring/-produksjon*\*16 50 71*oljebasert borevæske (enhver borevæske som inneholder olje eller oljeemulsjon av mineralopprinnelse)*\*16 50 72*oljekontaminert borekaks (utboret bergmasse fra boring med oljebasert borevæske, > 1 % olje på kaks)*\*16 50 73*kjemikalieblandinger u/halogen og tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget*\*16 50 74*kjemikalieblandinger med halogen*\*16 50 75*kjemikalieblandinger med tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget*\*16 50 76*rene kjemikalier/kjemikalierester u/halogen og tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget*\*16 50 77*rene kjemikalier med halogen og kjemikalierester med halogen (Cl, F, Br)*\*16 50 78*rene kjemikalier med tungmetaller og kjemikalierester med tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget**17**Avfall fra bygge- og rivingsarbeid (herunder overskuddsmasse fra forurensede byggeplasser)**17 01**betong, murstein, takstein, keramikk17 01 01betong17 01 02murstein17 01 03takstein og keramikk\*17 01 06blandinger eller frasorterte fraksjoner av betong, murstein, takstein og keramikk som inneholder farlige stoffer17 01 07andre blandinger av betong, murstein, takstein og keramikk enn dem nevnt i 17 01 06**17 02**tre, glass og plast17 02 01tre17 02 02glass17 02 03plast\*17 02 04tre, glass og plast som inneholder eller er forurenset av farlige stoffer**17 03**bitumenblandinger, kulltjære og tjæreprodukter\*17 03 01bitumenblandinger som inneholder kulltjære17 03 02andre bitumenblandinger enn dem nevnt i 17 03 01\*17 03 03kulltjære og tjæreprodukter**17 04**metaller (herunder legeringer)17 04 01kopper, bronse, messing17 04 02aluminium17 04 03bly17 04 04sink17 04 05jern og stål17 04 06tinn17 04 07metaller i blanding\*17 04 09metallavfall som er forurenset av farlige stoffer\*17 04 10kabler som inneholder olje, kulltjære eller andre farlige stoffer17 04 11andre kabler enn dem nevnt i 17 04 10**17 05**jord (herunder overskuddsmasse fra forurensede byggeplasser), stein og mudringsslam\*17 05 03jord og stein som inneholder farlige stoffer17 05 04annen jord og stein enn den nevnt i 17 05 03\*17 05 05mudringsslam som inneholder farlige stoffer17 05 06annet mudringsslam enn det nevnt i 17 05 05\*17 05 07jernbaneballast som inneholder farlige stoffer17 05 08annen jernbaneballast enn den nevnt i 17 05 07**17 06**isolasjonsmaterialer og asbestholdige byggematerialer\*17 06 01asbestholdige isolasjonsmaterialer\*17 06 03andre isolasjonsmaterialer som består av eller inneholder farlige stoffer17 06 04andre isolasjonsmaterialer enn dem nevnt i 17 06 01 og 17 06 03\*17 06 05asbestholdige byggematerialer**17 08**gipsbaserte byggematerialer\*17 08 01gipsbaserte byggematerialer som er forurenset av farlige stoffer17 08 02andre gipsbaserte byggematerialer enn dem nevnt i 17 08 01**17 09**annet avfall fra bygge- og rivingsarbeid\*17 09 01kvikksølvholdig avfall fra bygge- og rivingsarbeid\*17 09 02avfall fra bygge- og rivingsarbeid som inneholder PCB (f.eks. tetningsmasse, harpiksbaserte gulvbelegg, isolerglass, kondensatorer som inneholder PCB) som nevnt i nr. 1 bokstav c i dette vedlegget\*17 09 03annet avfall fra bygge- og rivingsarbeid (herunder blandet avfall) som inneholder farlige stoffer17 09 04annet blandet avfall fra bygge- og rivingsarbeid enn det nevnt i 17 09 01, 17 09 02 og 17 09 03**18**Avfall fra medisinsk behandling eller veterinærbehandling og/eller tilhørende forskning (unntatt kjøkken- og restaurantavfall som ikke har direkte tilknytning til medisinsk behandling)**18 01**avfall fra fødeavdelinger og fra diagnose, behandling eller forebygging av sykdom hos mennesker18 01 04avfall der håndtering ikke er underlagt særlige krav av hensyn til forebygging av infeksjoner (f.eks. forbindinger, gipsbandasjer, sengetøy, klær til engangsbruk, bleier)\*18 01 06kjemikalier som består av eller inneholder farlige stoffer18 01 07andre kjemikalier enn dem nevnt i 18 01 06\*18 01 10amalgamavfall fra tannbehandling**18 02**avfall fra forskning, diagnose, behandling eller forebygging av sykdom hos dyr18 02 03avfall der håndtering ikke underlagt særlige krav av hensyn til forebygging av infeksjoner\*18 02 05kjemikalier som består av eller inneholder farlige stoffer18 02 06andre kjemikalier enn dem nevnt i 18 02 05**19**Avfall fra avfallsbehandlingsanlegg og eksterne avløpsrenseanlegg og fra fremstilling av drikkevann og vann til industriell bruk**19 01**avfall fra forbrenning eller pyrolyse av avfall19 01 02jernholdige materialer utskilt fra bunnaske\*19 01 05filterkaker fra behandling av avgasser\*19 01 06vandig flytende avfall fra behandling av avgasser og annet vandig flytende avfall\*19 01 07fast avfall fra behandling av avgasser\*19 01 10brukt aktivt kull fra behandling av røykgass\*19 01 11bunnaske og slagg som inneholder farlige stoffer19 01 12annen bunnaske og slagg enn dem nevnt i 19 01 11\*19 01 13flygeaske som inneholder farlige stoffer19 01 14annen flygeaske enn den nevnt i 19 01 13\*19 01 15kjelstøv som inneholder farlige stoffer19 01 16annet kjelstøv enn det nevnt i 19 01 15\*19 01 17pyrolyseavfall som inneholder farlige stoffer19 01 18annet pyrolyseavfall enn det nevnt i 19 01 1719 01 19sand fra virvelsjiktovner19 01 99avfall som ikke er spesifisert andre steder**19 02**avfall fra fysisk-kjemisk behandling av avfall (herunder fjerning av krom, fjerning av cyanid, nøytralisering)19 02 03ferdigblandet avfall som består av bare ikke-farlig avfall\*19 02 04ferdigblandet avfall der minst én type avfall er farlig\*19 02 05slam fra fysisk-kjemisk behandling som inneholder farlige stoffer19 02 06annet slam fra fysisk-kjemisk behandling enn det nevnt i 19 02 05\*19 02 07olje og konsentrater fra separering\*19 02 08brennbart flytende avfall som inneholder farlige stoffer\*19 02 09fast brennbart avfall som inneholder farlige stoffer19 02 10annet brennbart avfall enn det nevnt i 19 02 08 og 19 02 09\*19 02 11annet avfall som inneholder farlige stoffer19 02 99avfall som ikke er spesifisert andre steder**19 03**stabilisert/herdet avfall, jf. nr. 1 bokstav d til e i dette vedlegget\*19 03 04avfall oppført som farlig, delvis stabilisert og annet enn det nevnt i 19 03 08, jf. nr. 1 bokstav f i dette vedlegget19 03 05annet stabilisert avfall enn det nevnt i 19 03 04, jf. nr. 1 bokstav d og f i dette vedlegget\*19 03 06avfall oppført som farlig, herdet som nevnt i nr. 1 bokstav e i dette vedlegget19 03 07annet herdet avfall enn det nevnt i 19 03 06, jf. nr. 1 bokstav e i dette vedlegget\*19 03 08delvis stabilisert kvikksølv, jf. nr. 1 bokstav f i dette vedlegget**19 04**forglasset avfall og avfall fra forglassing19 04 01forglasset avfall\*19 04 02flygeaske og annet avfall fra behandling av røykgass\*19 04 03ikke-forglasset fast fase19 04 04vandig flytende avfall fra herding av forglasset avfall, jf. nr. 1 bokstav e i dette vedlegget**19 05**avfall fra aerob behandling av fast avfall19 05 01ikke-kompostert fraksjon av kommunalt avfall og lignende avfall19 05 02ikke-kompostert fraksjon av animalsk og vegetabilsk avfall19 05 03kompost som ikke er i samsvar med spesifikasjonene19 05 99avfall som ikke er spesifisert andre steder**19 06**avfall fra anaerob behandling av avfall19 06 03avlut fra anaerob behandling av kommunalt avfall19 06 04fermenteringsrest fra anaerob behandling av kommunalt avfall19 06 05avlut fra anaerob behandling av animalsk og vegetabilsk avfall19 06 06fermenteringsrest fra anaerob behandling av animalsk og vegetabilsk avfall19 06 99avfall som ikke er spesifisert andre steder**19 07**sigevann fra fyllplasser\*19 07 02sigevann fra fyllplasser som inneholder farlige stoffer19 07 03annet sigevann fra fyllplasser enn det nevnt i 19 07 02**19 08**avfall fra avløpsrenseanlegg som ikke er spesifisert andre steder19 08 01ristgods19 08 02sandfangavfall19 08 05slam fra behandling av avløpsvann fra byområder\*19 08 06mettede eller brukte ionebytterharpikser\*19 08 07løsninger og slam fra regenerering av ionebyttere\*19 08 08avfall fra membransystemer som inneholder tungmetaller som nevnt i nr. 1 bokstav a i dette vedlegget19 08 09blandinger av fett og olje fra olje/vann-separering som inneholder matolje og matfett\*19 08 10andre blandinger av fett og olje fra olje/vann-separering enn dem nevnt i 19 08 09\*19 08 11slam som inneholder farlige stoffer fra biologisk behandling av spillvann fra industri19 08 12annet slam fra biologisk behandling av spillvann fra industri enn det nevnt i 19 08 11\*19 08 13slam som inneholder farlige stoffer fra annen behandling av spillvann fra industri19 08 14annet slam fra annen behandling av spillvann fra industri enn det nevnt i 19 08 1319 08 99avfall som ikke er spesifisert andre steder**19 09**avfall fra fremstilling av drikkevann eller vann til industriell bruk19 09 01fast avfall fra første filtrering og fra siling19 09 02slam fra vannklaring19 09 03avkarboneringsslam19 09 04brukt aktivt kull19 09 05mettede eller brukte ionebytterharpikser19 09 06løsninger og slam fra regenerering av ionebyttere19 09 99avfall som ikke er spesifisert andre steder**19 10**avfall fra oppmaling av metallholdig avfall19 10 01avfall av jern og stål19 10 02ikke-jernholdig avfall\*19 10 03lett fraksjon og støv som inneholder farlige stoffer19 10 04annen lett fraksjon og støv enn dem nevnt i 19 10 03\*19 10 05andre fraksjoner som inneholder farlige stoffer19 10 06andre fraksjoner enn dem nevnt i 19 10 05**19 11**avfall fra regenerering av olje\*19 11 01brukte filtreringsleirer\*19 11 02syreholdig tjære\*19 11 03vandig flytende avfall\*19 11 04avfall fra rensing av brenselolje med baser\*19 11 05slam fra behandling av avløpsvann på produksjonsstedet som inneholder farlige stoffer19 11 06annet slam fra behandling av avløpsvann på produksjonsstedet enn det nevnt i 19 11 05\*19 11 07avfall fra rensing av røykgass19 11 99avfall som ikke er spesifisert andre steder**19 12**avfall fra mekanisk behandling av avfall (f.eks. sortering, knusing, komprimering, pelletering) som ikke er spesifisert andre steder19 12 01papir og papp/kartong19 12 02ferrometall19 12 03ikke-jernholdig metall19 12 04plast og gummi19 12 05glass\*19 12 06tre som inneholder farlige stoffer19 12 07annet tre enn det nevnt i 19 12 0619 12 08tekstil19 12 09mineraler (f.eks. sand, stein)19 12 10brennbart avfall (avfallsbasert brensel)\*19 12 11annet avfall (herunder blandinger av materialer) fra mekanisk behandling av avfall som inneholder farlige stoffer19 12 12annet avfall (herunder blandinger av materialer) fra mekanisk behandling av avfall enn det nevnt i 19 12 11**19 13**avfall fra remediering av jord og grunnvann\*19 13 01fast avfall fra remediering av jord som inneholder farlige stoffer19 13 02annet fast avfall fra remediering av jord enn det nevnt i 19 13 01\*19 13 03slam fra remediering av jord som inneholder farlige stoffer19 13 04annet slam fra remediering av jord enn det nevnt i 19 13 03\*19 13 05slam fra remediering av grunnvann som inneholder farlige stoffer19 13 06annet slam fra remediering av grunnvann enn det nevnt i 19 13 05\*19 13 07vandig flytende avfall og vandige konsentrater fra remediering av grunnvann som inneholder farlige stoffer19 13 08annet vandig flytende avfall og vandige konsentrater fra remediering av grunnvann enn det nevnt i 19 13 07**20**Kommunalt avfall (husholdningsavfall og lignende avfall fra handel, industri og institusjoner) herunder separat innsamlede fraksjoner**20 01**separat innsamlede fraksjoner (unntatt 15 01)20 01 01papir og papp/kartong20 01 02glass20 01 08biologisk nedbrytbart kjøkken- og kantineavfall20 01 10klær20 01 11tekstiler\*20 01 13løsemidler\*20 01 14syrer\*20 01 15baser\*20 01 17fotografiske kjemikalier\*20 01 19pesticider\*20 01 21lysstoffrør og annet kvikksølvholdig avfall\*20 01 23kassert utstyr som inneholder klorfluorkarboner20 01 25matolje og matfett\*20 01 26annen olje og annet fett enn det nevnt i 20 01 25\*20 01 27maling, trykkfarger, klebemidler og harpikser som inneholder farlige stoffer20 01 28annen maling og andre trykkfarger, klebemidler og harpikser enn dem nevnt i 20 01 27\*20 01 29rengjøringsmidler som inneholder farlige stoffer20 01 30andre rengjøringsmidler enn dem nevnt i 20 01 29\*20 01 33batterier og akkumulatorer som omfattes av 16 06 01, 16 06 02 eller 16 06 03 og usorterte batterier og akkumulatorer som inneholder slike batterier20 01 34andre batterier og akkumulatorer enn dem nevnt i 20 01 33\*20 01 35annet kassert elektrisk og elektronisk utstyr enn det nevnt i 20 01 21 og 21 01 23 som inneholder farlige komponenter20 01 36annet kassert elektrisk og elektronisk utstyr enn det nevnt i 20 01 21, 20 01 23 og 20 01 35\*20 01 37tre som inneholder farlige stoffer20 01 38annet tre enn det nevnt i 20 01 3720 01 39plast20 01 40metall20 01 41avfall fra skorsteinsfeiing20 01 99andre fraksjoner som ikke er spesifisert andre steder**20 02**hage- og parkavfall (herunder gravlundsavfall)20 02 01biologisk nedbrytbart avfall20 02 02jord og stein20 02 03annet avfall som ikke er biologisk nedbrytbart**20 03**annet kommunalt avfall20 03 01blandet kommunalt avfall20 03 02torgavfall20 03 03avfall fra gaterengjøring20 03 04slam fra septiktanker20 03 06avfall fra kloakkrensing20 03 07voluminøst avfall20 03 99kommunalt avfall som ikke er spesifisert andre steder
+
+1 For eksplosivt avfall gjelder [forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff](forskrift/2002-06-26-922) i stedet for bestemmelsene i [§ 11-5](forskrift/2002-06-26-922/§11-5) til [§ 11-18](forskrift/2004-06-01-930/§11-18), jf. [§ 11-2](forskrift/2002-06-26-922/§11-2) tredje ledd.
 
 > Endret ved [forskrifter 9 sep 2015 nr. 1042](forskrift/2015-09-09-1042) som endret ved [forskrift 29 okt 2015 nr. 1254](forskrift/2015-10-29-1254) (i kraft 29 okt 2015), [9 sep 2015 nr. 1042](forskrift/2015-09-09-1042) (i kraft 1 jan 2016, som endret ved [forskrift 15 des 2015 nr. 1697](forskrift/2015-12-15-1697)), [22 des 2016 nr. 1855](forskrift/2016-12-22-1855), [30 sep 2020 nr. 1996](forskrift/2020-09-30-1996).
 
@@ -3247,7 +3987,11 @@ For virksomheter som nevnt i første ledd gjelder de øvrige bestemmelsene i ved
 
 Vedlegget skal benyttes for avfallstyper nevnt i avfallslisten i vedlegg 1 som er merket både med og uten stjerne, jf. [§ 11-2](forskrift/2004-06-01-930/§11-2) annet ledd bokstav a, og for avfall som ikke står på listen i vedlegg 1, jf. [§ 11-2](forskrift/2004-06-01-930/§11-2) annet ledd bokstav b.
 
+1\. *Generelt om klassifisering av avfall*
+
 Avfall skal klassifiseres som farlig dersom det oppfyller de generelle kriteriene i nr. 2 knyttet til avfallets egenskaper. Avfallet skal uavhengig av egenskaper klassifiseres som farlig dersom det inneholder stoffer som nevnt i nr. 3 i konsentrasjoner over grenseverdiene.
+
+2\. *Klassifisering av avfall ut fra avfallets egenskaper*
 
 I dette vedlegget menes med*koder for faresetning:* koder fastsatt i forordning [(EF) nr. 1272/2008](eu/32008r1272*) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forordningen) vedlegg I og VI.*fareklasse:* arten fysisk fare, helsefare eller miljøfare, jf. CLP-forordningen artikkel 2 nr. 1.*farekategori:* inndeling etter kriterier innen hver fareklasse, som angir farens alvorlighetsgrad, jf. CLP-forordningen artikkel 2 nr. 2.
 
@@ -3261,13 +4005,35 @@ Ved vurderingen av avfallets egenskaper kan følgende merknader i CLP-forordning
 
 Når et avfall inneholder ett eller flere stoffer som er tildelt en av kodene for faresetning vist i tabellen nedenfor skal avfallet vurderes med hensyn til HP 1 i henhold til testmetoder dersom dette er hensiktsmessig og forholdsmessig.
 
-Avfallet skal uansett klassifiseres som HP 1 dersom tilstedeværelsen av et stoff, en stoffblanding eller en gjenstand indikerer at avfallet er eksplosivt.*Farepiktogram**Koder for fareklasse og farekategori**Kode for faresetning*Unst. Expl.H200Expl. 1.1H201Expl. 1.2H202Expl. 1.3H203Expl. 1.4H204Self-react. AH240Org.Perox. AH240Self-react. BH241Org.Perox. BH241
+Avfallet skal uansett klassifiseres som HP 1 dersom tilstedeværelsen av et stoff, en stoffblanding eller en gjenstand indikerer at avfallet er eksplosivt.
+
+| *Farepiktogram* | *Koder for fareklasse og farekategori* | *Kode for faresetning* |
+| --- | --- | --- |
+|  | Unst. Expl. | H200 |
+|  | Expl. 1.1 | H201 |
+|  | Expl. 1.2 | H202 |
+|  | Expl. 1.3 | H203 |
+|  | Expl. 1.4 | H204 |
+|  | Self-react. A | H240 |
+|  | Org.Perox. A | H240 |
+|  | Self-react. B | H241 |
+|  | Org.Perox. B | H241 |
 
 *HP 2 Oksiderende:* Avfall som kan forårsake eller bidra til forbrenning av andre materialer og gjenstander, hovedsakelig ved å avgi oksygen.
 
 Avfall som inneholder ett eller flere stoffer som er tildelt en av kodene for faresetning vist i tabellen nedenfor skal vurderes med hensyn til HP 2 dersom det er hensiktsmessig og forholdsmessig i henhold til testmetoder.
 
-Avfallet skal uansett klassifiseres som HP 2 dersom tilstedeværelsen av et stoff indikerer at avfallet er oksiderende.*Farepiktogram**Koder for fareklasse og farekategori**Kode for faresetning*Ox. Gas. 1H270Ox. Liq. 1H271Ox. Sol. 1H271Ox. Liq. 2, Ox. Liq. 3H272Ox. Sol. 2, Ox. Sol. 3H272
+Avfallet skal uansett klassifiseres som HP 2 dersom tilstedeværelsen av et stoff indikerer at avfallet er oksiderende.
+
+| *Farepiktogram* | *Koder for fareklasse og farekategori* | *Kode for faresetning* |
+| --- | --- | --- |
+|  | Ox. Gas. 1 | H270 |
+|  | Ox. Liq. 1 | H271 |
+|  | Ox. Sol. 1 | H271 |
+|  | Ox. Liq. 2, Ox. Liq. 3 | H272 |
+|  | Ox. Sol. 2, Ox. Sol. 3 | H272 |
+
+*HP 3 Brannfarlig:*
 
 - brannfarlig flytende avfall: flytende avfall med flammepunkt <60 °C eller avfall i form av gassolje, diesel og lett fyringsolje som har flammepunkt >55 °C og ≤75 °C,
 - brannfarlig pyrofor væske og fast avfall: fast eller flytende avfall som selv i små mengder kan antenne i løpet av fem minutter etter å ha kommet i kontakt med luft,
@@ -3278,15 +4044,39 @@ Avfallet skal uansett klassifiseres som HP 2 dersom tilstedeværelsen av et stof
 
 Avfall som inneholder et eller flere stoffer som er tildelt en av kodene for faresetning i tabellen nedenfor skal vurderes med hensyn til HP 3 når det er hensiktsmessig og forholdsmessig i henhold til testmetoder.
 
-Avfallet skal uansett klassifiseres som HP 3 dersom tilstedeværelsen av et stoff indikerer at avfallet er brannfarlig.*Farepiktogram**Koder for fareklasse og farekategori**Kode for faresetning*Flam. Gas 1H220Flam. Gas 2H221Aerosol 1H222Aerosol 2H223Flam. Liq. 1H224Flam. Liq. 2H225Flam. Liq. 3H226Flam. Sol. 1H228Flam. Sol. 2H228Self-React. CDH242Self-React. EFH242Org. Perox. CDH242Org. Perox. EFH242Pyr. Liq. 1H250Pyr. Sol. 1H250Self-heat. 1H251Self-heat. 2H252Water-react. 1H260Water-react. 2
-Water-react. 3H261
+Avfallet skal uansett klassifiseres som HP 3 dersom tilstedeværelsen av et stoff indikerer at avfallet er brannfarlig.
+
+| *Farepiktogram* | *Koder for fareklasse og farekategori* | *Kode for faresetning* |
+| --- | --- | --- |
+|  | Flam. Gas 1 | H220 |
+|  | Flam. Gas 2 | H221 |
+|  | Aerosol 1 | H222 |
+|  | Aerosol 2 | H223 |
+|  | Flam. Liq. 1 | H224 |
+|  | Flam. Liq. 2 | H225 |
+|  | Flam. Liq. 3 | H226 |
+|  | Flam. Sol. 1 | H228 |
+|  | Flam. Sol. 2 | H228 |
+|  | Self-React. CD | H242 |
+|  | Self-React. EF | H242 |
+|  | Org. Perox. CD | H242 |
+|  | Org. Perox. EF | H242 |
+|  | Pyr. Liq. 1 | H250 |
+|  | Pyr. Sol. 1 | H250 |
+|  | Self-heat. 1 | H251 |
+|  | Self-heat. 2 | H252 |
+|  | Water-react. 1 | H260 |
+|  | Water-react. 2<br>Water-react. 3 | H261 |
 
 *HP 4 Irriterende – hudirritasjon og øyeskade:* avfall som ved kontakt kan føre til hudirritasjon eller øyeskade.
 
-Avfall som inneholder ett eller flere stoffer som er tildelt en av kodene for faresetning i tabellen nedenfor i en konsentrasjon over terskelverdien angitt i tabellen, skal klassifiseres som farlig av typen HP 4 dersom konsentrasjonen av stoffene overskrider eller er lik grenseverdiene i tabellen.*Koder for fareklasse og farekategori, farepiktogram**Kode(r) for faresetning(er)**Grenseverdi**Terskelverdi*
-*(%)*Skin Corr 1A/1B/1CH3141 %1Eye Dam 1H31810 % (sum av konsentrasjon av alle stoffer med denne faresetningen)1Skin Irrit. 2
-Eye Irrit. 2H315
-H31920 % (sum av konsentrasjon av alle stoffer med begge faresetninger)1
+Avfall som inneholder ett eller flere stoffer som er tildelt en av kodene for faresetning i tabellen nedenfor i en konsentrasjon over terskelverdien angitt i tabellen, skal klassifiseres som farlig av typen HP 4 dersom konsentrasjonen av stoffene overskrider eller er lik grenseverdiene i tabellen.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode(r) for faresetning(er)* | *Grenseverdi* | *Terskelverdi*<br>*(%)* |
+| --- | --- | --- | --- |
+| Skin Corr 1A/1B/1C | H314 | 1 % | 1 |
+| Eye Dam 1 | H318 | 10 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 1 |
+| Skin Irrit. 2<br>Eye Irrit. 2 | H315<br>H319 | 20 % (sum av konsentrasjon av alle stoffer med begge faresetninger) | 1 |
 
 Avfall som er klassifisert som farlig av typen HP 8 skal ikke vurderes som farlig med hensyn til HP 4.
 
@@ -3296,96 +4086,232 @@ Avfall som inneholder ett eller flere stoffer som er tildelt en eller flere av k
 
 Avfall som inneholder stoffer klassifisert som STOT skal bare klassifiseres som farlig av typen HP 5 dersom konsentrasjonen av et enkelt stoff er høyere eller lik grenseverdien i tabellen.
 
-Avfall som inneholder ett eller flere stoffer tildelt koden for faresetning H304 skal bare klassifiseres som farlig av typen HP 5 når summen av konsentrasjon av stoffene overskrider eller er lik grenseverdien i tabellen og den totale kinematiske viskositeten (ved 40 °C) ikke overstiger 20,5 mm2/s. Den kinematiske viskositeten skal bare fastsettes for væsker.*Koder for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi*STOT SE 1H3701 % (Konsentrasjon av hvert enkelt stoff høyere eller lik)STOT SE 2H37110 % (Konsentrasjon av hvert enkelt stoff høyere eller lik)STOT SE 3H33520 % (Konsentrasjon av hvert enkelt stoff høyere eller lik)STOT RE 1H3721 % (Konsentrasjon av hvert enkelt stoff høyere eller lik)STOT RE 2H37310 % (Konsentrasjon av hvert enkelt stoff høyere eller lik)Asp. Tox. 1H30410 % (Sum av konsentrasjon av alle stoffer med denne faresetningen)
+Avfall som inneholder ett eller flere stoffer tildelt koden for faresetning H304 skal bare klassifiseres som farlig av typen HP 5 når summen av konsentrasjon av stoffene overskrider eller er lik grenseverdien i tabellen og den totale kinematiske viskositeten (ved 40 °C) ikke overstiger 20,5 mm2/s. Den kinematiske viskositeten skal bare fastsettes for væsker.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi* |
+| --- | --- | --- |
+| STOT SE 1 | H370 | 1 % (Konsentrasjon av hvert enkelt stoff høyere eller lik) |
+| STOT SE 2 | H371 | 10 % (Konsentrasjon av hvert enkelt stoff høyere eller lik) |
+| STOT SE 3 | H335 | 20 % (Konsentrasjon av hvert enkelt stoff høyere eller lik) |
+| STOT RE 1 | H372 | 1 % (Konsentrasjon av hvert enkelt stoff høyere eller lik) |
+| STOT RE 2 | H373 | 10 % (Konsentrasjon av hvert enkelt stoff høyere eller lik) |
+| Asp. Tox. 1 | H304 | 10 % (Sum av konsentrasjon av alle stoffer med denne faresetningen) |
 
 *HP 6 Akutt giftighet:* Avfall som kan medføre akutt giftighet som følge av svelging, hudkontakt eller innånding.
 
-Avfall som inneholder et eller flere stoffer som er tildelt en eller flere av kodene for faresetning i tabellen nedenfor i en konsentrasjon over terskelverdien i tabellen, skal klassifiseres som farlig avfall av typen HP 6 dersom summen av konsentrasjonen av stoffene i avfallet overskrider eller er lik grenseverdiene i tabellen. Når flere stoffer med klassifisering som akutt giftig er tilstede i et avfall, skal summen av konsentrasjoner kun regnes for stoffer i samme farekategori og med samme faresetning.*Koder for fareklasse og farekategori,
-farepiktogram**Kode for faresetning**Grenseverdi (Sum av konsentrasjon
-av alle stoffer med samme fareklasse/-kategori og faresetning)**Terskelverdi
-(%)*Acute Tox. 1 (Oral)H3000,1 %0,1Acute Tox. 2 (Oral)H3000,25 %0,1Acute Tox. 3 (Oral)H3015 %0,1Acute Tox. 4 (Oral)H30225 %1Acute Tox. 1 (Dermal)H3100,25 %0,1Acute Tox. 2 (Dermal)H3102,5 %0,1Acute Tox. 3 (Dermal)H31115 %0,1Acute Tox. 4 (Dermal)H31255 %1Acute Tox. 1 (Inhalasjon)H3300,1 %0,1Acute Tox. 2 (Inhalasjon)H3300,5 %0,1Acute Tox. 3 (Inhalasjon)H3313,5 %0,1Acute Tox. 4 (Inhalasjon)H33222,5 %1
+Avfall som inneholder et eller flere stoffer som er tildelt en eller flere av kodene for faresetning i tabellen nedenfor i en konsentrasjon over terskelverdien i tabellen, skal klassifiseres som farlig avfall av typen HP 6 dersom summen av konsentrasjonen av stoffene i avfallet overskrider eller er lik grenseverdiene i tabellen. Når flere stoffer med klassifisering som akutt giftig er tilstede i et avfall, skal summen av konsentrasjoner kun regnes for stoffer i samme farekategori og med samme faresetning.
+
+| *Koder for fareklasse og farekategori,<br>farepiktogram* | *Kode for faresetning* | *Grenseverdi (Sum av konsentrasjon<br>av alle stoffer med samme fareklasse/-kategori og faresetning)* | *Terskelverdi<br>(%)* |
+| --- | --- | --- | --- |
+| Acute Tox. 1 (Oral) | H300 | 0,1 % | 0,1 |
+| Acute Tox. 2 (Oral) | H300 | 0,25 % | 0,1 |
+| Acute Tox. 3 (Oral) | H301 | 5 % | 0,1 |
+| Acute Tox. 4 (Oral) | H302 | 25 % | 1 |
+| Acute Tox. 1 (Dermal) | H310 | 0,25 % | 0,1 |
+| Acute Tox. 2 (Dermal) | H310 | 2,5 % | 0,1 |
+| Acute Tox. 3 (Dermal) | H311 | 15 % | 0,1 |
+| Acute Tox. 4 (Dermal) | H312 | 55 % | 1 |
+| Acute Tox. 1 (Inhalasjon) | H330 | 0,1 % | 0,1 |
+| Acute Tox. 2 (Inhalasjon) | H330 | 0,5 % | 0,1 |
+| Acute Tox. 3 (Inhalasjon) | H331 | 3,5 % | 0,1 |
+| Acute Tox. 4 (Inhalasjon) | H332 | 22,5 % | 1 |
 
 *HP 7 Kreftframkallende:* Avfall som kan forårsake kreft eller mistenkes for å kunne forårsake kreft.
 
-Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor skal klassifiseres som farlig av typen HP7 dersom innholdet av et stoff overskrider eller er lik grenseverdiene i tabellen. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som kreftfremkallende må innholdet av ett enkelt stoff overskride eller være lik konsentrasjonsgrensen for at avfallet skal være klassifisert som farlig av typen HP 7.*Koder for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi (Konsentrasjon av hvert enkelt stoff)*Carc. 1AH3500,1 %Carc. 1BH3500,1 %Carc. 2H3511,0 %
+Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor skal klassifiseres som farlig av typen HP7 dersom innholdet av et stoff overskrider eller er lik grenseverdiene i tabellen. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som kreftfremkallende må innholdet av ett enkelt stoff overskride eller være lik konsentrasjonsgrensen for at avfallet skal være klassifisert som farlig av typen HP 7.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi (Konsentrasjon av hvert enkelt stoff)* |
+| --- | --- | --- |
+| Carc. 1A | H350 | 0,1 % |
+| Carc. 1B | H350 | 0,1 % |
+| Carc. 2 | H351 | 1,0 % |
 
 *HP 8 Etsende:* avfall som ved kontakt kan forårsake etseskade på hud.
 
-Avfall som inneholder et eller flere stoffer klassifisert med koden for faresetning i en konsentrasjon over terskelverdien i tabellen nedenfor skal klassifiseres som farlig av typen HP 8 dersom summen av konsentrasjonen av stoffene overskrider eller er lik grenseverdien i tabellen.*Koder for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi (Sum av konsentrasjon av alle stoffer med denne faresetningen)**Terskelverdi
-(%)*Skin Corr. 1A, 1B, 1CH3145,0 %1
+Avfall som inneholder et eller flere stoffer klassifisert med koden for faresetning i en konsentrasjon over terskelverdien i tabellen nedenfor skal klassifiseres som farlig av typen HP 8 dersom summen av konsentrasjonen av stoffene overskrider eller er lik grenseverdien i tabellen.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi (Sum av konsentrasjon av alle stoffer med denne faresetningen)* | *Terskelverdi<br>(%)* |
+| --- | --- | --- | --- |
+| Skin Corr. 1A, 1B, 1C | H314 | 5,0 % | 1 |
 
 *HP 10 Reproduksjonstoksisitet:* avfall som kan gi eller mistenkes for å kunne gi skadelige effekter på seksuell funksjon og forplantningsevne hos voksne eller gi fosterskader.
 
-Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor skal klassifiseres som farlig avfall av typen HP 10 dersom innholdet av et stoff overskrider eller er lik grenseverdiene i tabellen. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som reproduksjonstoksisk må konsentrasjonen av ett enkelt stoff overskride eller være lik grenseverdien i tabellen for at avfallet skal klassifiseres som farlig av typen HP 10.*Koder for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi (Konsentrasjon av hvert enkelt stoff høyere eller lik)*Repr. 1AH3600,3 %Repr. 1BH3600,3 %Repr. 2H3613,0 %
+Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor skal klassifiseres som farlig avfall av typen HP 10 dersom innholdet av et stoff overskrider eller er lik grenseverdiene i tabellen. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som reproduksjonstoksisk må konsentrasjonen av ett enkelt stoff overskride eller være lik grenseverdien i tabellen for at avfallet skal klassifiseres som farlig av typen HP 10.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi (Konsentrasjon av hvert enkelt stoff høyere eller lik)* |
+| --- | --- | --- |
+| Repr. 1A | H360 | 0,3 % |
+| Repr. 1B | H360 | 0,3 % |
+| Repr. 2 | H361 | 3,0 % |
 
 *HP 11 Kjønnscellemutagenitet:* avfall som kan forårsake skade på arvestoffet i kjønnsceller, det vil si en permanent forandring av mengde og struktur av det genetiske materialet i en celle.
 
-Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor i en konsentrasjon som overskrider eller er lik en av grenseverdiene i tabellen, skal klassifiseres som farlig av typen HP 11. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som mutagent, må konsentrasjonen av ett enkelt stoff overskride eller være lik grenseverdien i tabellen for at avfallet skal klassifiseres som farlig av typen HP 11.*Koder for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi (Konsentrasjon av hvert enkelt stoff)*Muta. 1AH3400,1 %Muta. 1BH3400,1 %Muta. 2H3411,0 %
+Avfall som inneholder et stoff som er tildelt en av kodene for faresetning i tabellen nedenfor i en konsentrasjon som overskrider eller er lik en av grenseverdiene i tabellen, skal klassifiseres som farlig av typen HP 11. Dersom avfallet inneholder mer enn ett stoff som er klassifisert som mutagent, må konsentrasjonen av ett enkelt stoff overskride eller være lik grenseverdien i tabellen for at avfallet skal klassifiseres som farlig av typen HP 11.
+
+| *Koder for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi (Konsentrasjon av hvert enkelt stoff)* |
+| --- | --- | --- |
+| Muta. 1A | H340 | 0,1 % |
+| Muta. 1B | H340 | 0,1 % |
+| Muta. 2 | H341 | 1,0 % |
 
 *HP 12 Utslipp av en akutt giftig gass:* Avfall som i kontakt med vann eller syre slipper ut akutt giftige gasser (Acute Tox. 1, 2 eller 3).
 
-Avfall som inneholder et stoff som er tildelt kode for en av de supplerende faresetningene i tabellen under skal klassifiseres som farlig av typen HP 12 dersom ikke tester viser at avfallet ikke har de farlige egenskapene.*Kode for supplerende faresetning*EUH029EUH031EUH032
+Avfall som inneholder et stoff som er tildelt kode for en av de supplerende faresetningene i tabellen under skal klassifiseres som farlig av typen HP 12 dersom ikke tester viser at avfallet ikke har de farlige egenskapene.
+
+|  | *Kode for supplerende faresetning* |  |
+| --- | --- | --- |
+|  | EUH029 |  |
+|  | EUH031 |  |
+|  | EUH032 |  |
 
 *HP 13 Sensibiliserende:* Avfall som inneholder en eller flere stoffer som er kjent for å kunne gi allergi eller pustevansker ved innånding eller utløse en allergisk hudreaksjon.
 
-Avfall som inneholder et stoff klassifisert med en av kodene for faresetning i tabellen nedenfor og ett enkelt stoff overskrider eller er lik grenseverdiene i tabellen, skal klassifiseres som farlig av typen HP 13.*Kode for fareklasse, farepiktogram**Kode for faresetning**Grenseverdi (Konsentrasjon av hvert enkelt stoff)*Skin Sens.H31710 %Resp. Sens.H33410 %
+Avfall som inneholder et stoff klassifisert med en av kodene for faresetning i tabellen nedenfor og ett enkelt stoff overskrider eller er lik grenseverdiene i tabellen, skal klassifiseres som farlig av typen HP 13.
+
+| *Kode for fareklasse, farepiktogram* | *Kode for faresetning* | *Grenseverdi (Konsentrasjon av hvert enkelt stoff)* |
+| --- | --- | --- |
+| Skin Sens. | H317 | 10 % |
+| Resp. Sens. | H334 | 10 % |
 
 *HP 14 Miljøfarlig:* Avfall som medfører eller kan medføre umiddelbar eller langsiktig risiko for negativ påvirkning på miljøet.
 
-Avfall som inneholder ett stoff klassifisert med en av kodene for faresetninger eller flere stoffer med samme kode for faresetning over terskelverdiene og grenseverdiene i tabellen nedenfor, skal klassifiseres som farlig av typen HP 14.*Kode(r) for fareklasse og farekategori, farepiktogram**Kode for faresetning**Grenseverdi**Terskelverdi (%)*OzoneH4200,1 % (konsentrasjon av hvert enkelt stoff)Aquatic Acute 1H40025 % (sum av konsentrasjon av alle stoffer med denne faresetningen)0,1Aquatic Chronic 1H4100,25 % (sum av konsentrasjon av alle stoffer med denne faresetningen)0,1Aquatic Chronic 2H4112,5 % (sum av konsentrasjon av alle stoffer med denne faresetningen)1Aquatic Chronic 3H41225 % (sum av konsentrasjon av alle stoffer med denne faresetningen)1Aquatic Chronic 4H41325 % (sum av konsentrasjon av alle stoffer med denne faresetningen)1
+Avfall som inneholder ett stoff klassifisert med en av kodene for faresetninger eller flere stoffer med samme kode for faresetning over terskelverdiene og grenseverdiene i tabellen nedenfor, skal klassifiseres som farlig av typen HP 14.
+
+| *Kode(r) for fareklasse og farekategori, farepiktogram* | *Kode for faresetning* | *Grenseverdi* | *Terskelverdi (%)* |
+| --- | --- | --- | --- |
+| Ozone | H420 | 0,1 % (konsentrasjon av hvert enkelt stoff) |  |
+| Aquatic Acute 1 | H400 | 25 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 0,1 |
+| Aquatic Chronic 1 | H410 | 0,25 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 0,1 |
+| Aquatic Chronic 2 | H411 | 2,5 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 1 |
+| Aquatic Chronic 3 | H412 | 25 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 1 |
+| Aquatic Chronic 4 | H413 | 25 % (sum av konsentrasjon av alle stoffer med denne faresetningen) | 1 |
 
 Dersom avfallet inneholder flere stoffer klassifisert med ulike koder for faresetninger over terskelverdiene i tabellen gjelder i stedet følgende regler:
 
 Avfall som inneholder flere stoffer tildelt en av kodene for faresetningene H410, H411 eller H412 skal klassifiseres som farlig av typen HP14 dersom konsentrasjonen (c) av stoffene er lik eller overskrider 25 % ved summering på følgende måte:
 
+100 x Ʃc (H410) + 10 x Ʃc (H411) + Ʃc (H412) = total Ʃc
+
 Dersom konsentrasjonen av stoffer etter summering er under 25 % og avfallet i tillegg inneholder et eller flere stoffer tildelt koden for faresetning H413 skal avfallet klassifiseres som farlig av typen HP14 dersom konsentrasjonen (c) av stoffene er lik eller overskrider 25 % ved summering på følgende måte:
+
+Ʃc (H410) + Ʃc (H411) + Ʃc (H412) + Ʃc (H413) = total Ʃc
 
 *HP 15 Avfall som kan ha en farlig egenskap som er nevnt ovenfor som ikke direkte framgår av det opprinnelige avfallet*2.
 
-Avfall som inneholder ett eller flere stoffer klassifisert med en av kodene for faresetning eller supplerende faresetning i tabellen nedenfor skal klassifiseres som farlig av typen HP 15, med mindre avfallet er i en slik form at det ikke under noen omstendigheter vil ha eksplosive eller potensielt eksplosive egenskaper.*Faresetning og supplerende faresetning*Kan masseeksplodere i brannH205Eksplosiv i tørr tilstandEUH001Kan danne eksplosive peroksiderEUH019Risiko for eksplosjon ved oppvarming i lukket romEUH044
+Avfall som inneholder ett eller flere stoffer klassifisert med en av kodene for faresetning eller supplerende faresetning i tabellen nedenfor skal klassifiseres som farlig av typen HP 15, med mindre avfallet er i en slik form at det ikke under noen omstendigheter vil ha eksplosive eller potensielt eksplosive egenskaper.
 
-I dette kapitlet angis grenseverdier for innholdet av utvalgte stoffer som gjør avfallet farlig.*Stoff**CAS-nr.**Grenseverdi*Polyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/PCDF)15 μg/kg, jf. toksisitetsekvivalensfaktorene i [vedlegg IV til forordning (EU) nr. 850/2004](eu/32004r0850/vedleggIV)DDT (1,1,1-triklor-2,2-bis(4 klorfenyl)etan)50-29-350 mg/kgKlordan57-74-950 mg/kgHeksaklorsykloheksaner, herunder lindan58-89-9
-319-84-6
-319-85-7
-608-73-150 mg/kgDieldrin60-57-150 mg/kgEndrin72-20-850 mg/kgHeptaklor76-44-850 mg/kgHeksaklorbenzen118-74-150 mg/kgKlordekon143-50-050 mg/kgAldrin309-00-250 mg/kgPentaklorbenzen608-93-550 mg/kgPolyklorerte bifenyler (PCB)1336-36-3 og andre50 mg/kg, jf. beregningsmetodene omtalt i [vedlegg IV til forordning (EU) nr. 850/2004](eu/32004r0850/vedleggIV)Mirex2385-85-550 mg/kgToksafen8001-35-250 mg/kgHeksabrombifenyl36355-01-850 mg/kgDekabromdifenyleter1163-19-52500 mg/kgHeksabromsyklododekan25637-99-42500 mg/kg
+| *Faresetning og supplerende faresetning* |  |
+| --- | --- |
+| Kan masseeksplodere i brann | H205 |
+| Eksplosiv i tørr tilstand | EUH001 |
+| Kan danne eksplosive peroksider | EUH019 |
+| Risiko for eksplosjon ved oppvarming i lukket rom | EUH044 |
+
+3\. *Klassifisering av avfall ut fra innholdet av utvalgte stoffer*
+
+I dette kapitlet angis grenseverdier for innholdet av utvalgte stoffer som gjør avfallet farlig.
+
+| *Stoff* | *CAS-nr.* | *Grenseverdi* |
+| --- | --- | --- |
+| Polyklorerte dibenzo-p-dioksiner og dibenzofuraner (PCDD/PCDF) |  | 15 μg/kg, jf. toksisitetsekvivalensfaktorene i [vedlegg IV til forordning (EU) nr. 850/2004](eu/32004r0850/vedleggIV) |
+| DDT (1,1,1-triklor-2,2-bis(4 klorfenyl)etan) | 50-29-3 | 50 mg/kg |
+| Klordan | 57-74-9 | 50 mg/kg |
+| Heksaklorsykloheksaner, herunder lindan | 58-89-9<br>319-84-6<br>319-85-7<br>608-73-1 | 50 mg/kg |
+| Dieldrin | 60-57-1 | 50 mg/kg |
+| Endrin | 72-20-8 | 50 mg/kg |
+| Heptaklor | 76-44-8 | 50 mg/kg |
+| Heksaklorbenzen | 118-74-1 | 50 mg/kg |
+| Klordekon | 143-50-0 | 50 mg/kg |
+| Aldrin | 309-00-2 | 50 mg/kg |
+| Pentaklorbenzen | 608-93-5 | 50 mg/kg |
+| Polyklorerte bifenyler (PCB) | 1336-36-3 og andre | 50 mg/kg, jf. beregningsmetodene omtalt i [vedlegg IV til forordning (EU) nr. 850/2004](eu/32004r0850/vedleggIV) |
+| Mirex | 2385-85-5 | 50 mg/kg |
+| Toksafen | 8001-35-2 | 50 mg/kg |
+| Heksabrombifenyl | 36355-01-8 | 50 mg/kg |
+| Dekabromdifenyleter | 1163-19-5 | 2500 mg/kg |
+| Heksabromsyklododekan | 25637-99-4 | 2500 mg/kg |
+
+1 For eksplosjonsfarlig avfall som klassifiseres som farlig avfall av typen HP1 eller HP 15 gjelder [forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff](forskrift/2002-06-26-922) i stedet for bestemmelsene i [§ 11-5](forskrift/2002-06-26-922/§11-5) til [§ 11-18](forskrift/2004-06-01-930/§11-18), jf. [§ 11-2](forskrift/2002-06-26-922/§11-2) tredje ledd.
+
+2 For eksplosjonsfarlig avfall som klassifiseres som farlig avfall av typen HP1 eller HP 15 gjelder [forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff](forskrift/2002-06-26-922) i stedet for bestemmelsene i [§ 11-5](forskrift/2002-06-26-922/§11-5) til [§ 11-18](forskrift/2004-06-01-930/§11-18), jf. [§ 11-2](forskrift/2002-06-26-922/§11-2) tredje ledd.
 
 > Endret ved [forskrifter 9 sep 2015 nr. 1042](forskrift/2015-09-09-1042) som endret ved [forskrift 29 okt 2015 nr. 1254](forskrift/2015-10-29-1254) (i kraft 29 okt 2015), [9 sep 2015 nr. 1042](forskrift/2015-09-09-1042) som endret ved [forskrift 29 okt 2015 nr. 1254](forskrift/2015-10-29-1254) (i kraft 1 jan 2016, tidligere vedlegg 3), [13 april 2016 nr. 374](forskrift/2016-04-13-374), [22 des 2016 nr. 1855](forskrift/2016-12-22-1855), [30 nov 2017 nr. 1862](forskrift/2017-11-30-1862), [30 sep 2020 nr. 1996](forskrift/2020-09-30-1996).
 
 ### Vedlegg 3. Standardiserte krav for kommunale mottak
 
+*1. Formål*
+
 Formålet med disse standardiserte kravene for kommunale mottak er å sikre at kommunale ordninger for mottak av farlig avfall drives miljømessig forsvarlig.
+
+*2. Beskrivelse av kommunale mottaksordninger*
 
 Med kommunale ordninger for mottak av farlig avfall siktes det tilbetjent, stasjonært mottak av farlig avfall (mottaksplass e.l.),ubetjente, stasjonære mottak av farlig avfall (miljøstasjoner e.l.),mobilt mottak/innsamling av farlig avfall (henteordning, miljøbuss, aksjoner e.l.),lagring av farlig avfall.
 
+*2.1 Betjent stasjonært mottak*
+
 Med betjent stasjonært mottak menes mottak der husholdninger og virksomheter kan levere farlig avfall i henhold til kapittel 11, Farlig avfall. Mottaket kan kombineres med lager for farlig avfall.
+
+*2.2 Ubetjente stasjonære mottak*
 
 Med ubetjente stasjonære mottak, også kalt miljøstasjoner, menes boder, containere e.l. plassert på sentrale steder i renovasjonsområdet. Mottaket er begrenset til farlig avfall fra husholdninger. Husholdningene plasserer selv avfall i mottaket. På grunn av deklarasjonsplikten tas det her ikke imot farlig avfall fra virksomheter.1
 
+*2.3 Mobilt mottak/innsamling*
+
 Med mobilt mottak/innsamling menes henting av avfall hos avfallsbesitter, eller mottak ved miljøbuss eller under aksjon innenfor renovasjonsområdet som unntaket gjelder.
+
+*2.4 Lagring av farlig avfall*
 
 Med lagring av farlig avfall menes oppbevaring av farlig avfall på lager i påvente av transport til godkjent gjenvinning eller sluttbehandling, eller til annet anlegg godkjent av Miljødirektoratet eller statsforvalteren.
 
+1 Fordi mottaket ikke er betjent bortfaller avfallsbesitters mulighet til å deklarere avfallet. Siden virksomheter i henhold til [§ 11-12](forskrift/2004-06-01-930/§11-12) er pliktig til å deklarere sitt farlige avfall, skal man på ubetjente mottak ikke ta imot farlig avfall fra virksomheter.
+
+*3. Farlige avfallstyper*
+
 På de kommunale mottakene som omfattes av unntaksbestemmelsen i [§ 11-7](forskrift/2004-06-01-930/§11-7) bokstav e, er det tillatt å motta de farlige avfallstyper som er definert i [§ 11-2](forskrift/2004-06-01-930/§11-2).
+
+*4. Andre avfallstyper*
 
 Disse standardiserte kravene omfatter ikke mottak av avfall i følgende ADR1 -klasser: eksplosive stoffer (klasse 1) og radioaktive materialer (klasse 7) eller stoffer med tilsvarende egenskaper. Myndigheten for nevnte stoffer og materialer er henholdsvis Direktoratet for samfunnssikkerhet og beredskap (DSB) og Direktoratet for strålevern og atomsikkerhet. Infeksjonsfremmende stoffer (klasse 6.2) er heller ikke omfattet av dette vedleggets standardiserte krav. Regulering av denne avfallstypen er under utvikling av Landbruksdepartementet, Helsedepartementet og Klima- og miljødepartementet.
 
+1 ADR: Europeisk avtale om internasjonal vegtransport av farlig gods.
+
+*5. Ansvar*
+
 Det er den som faktisk driver de kommunale mottaksordningene for farlig avfall og som omfattes av unntaket i [§ 11-7](forskrift/2004-06-01-930/§11-7) bokstav e, som må sørge for at mottaket og driften av mottaket som minimum tilfredsstiller de standardiserte kravene.
+
+*6. Sikring mot forurensning – generelle krav*
+
+*6.1 Kompetanse*
 
 Den som driver mottaksordningene for farlig avfall og det personell som håndterer farlig avfall, plikter å ha nødvendig kunnskap og kompetanse om farlig avfall slik at dette sikres forsvarlig håndtering.
 
 Plan for kompetanseoppbygging: Den som driver det kommunale mottaket, skal ha en plan for hvordan kompetansen skal økes. De personer som har sitt virke ved mottaket, skal ifølge planen øke sin kompetanse og holde seg oppdatert i forhold til gjeldende regler og normer samt utvikle sin kompetanse om stoffer/avfall som kan leveres inn til mottaket. Plan for kompetanse og kunnskapsøkning skal kunne dokumenteres (f.eks. i internrutinene).
 
+*6.2 Forebygging*
+
 Den som driver mottaksordningene, plikter å gjennomføre nødvendige tiltak for å unngå at forurensning skal oppstå. Farlig avfall som oppbevares i påvente av levering/henting før behandling eller annen disponering, skal sikres slik at det farlige avfallet ikke medfører avrenning til grunn, avløpsnett eller annen resipient. Eventuelt spill skal kunne samles opp.
+
+*6.3 Håndtering*
 
 Håndtering av farlig avfall skal foregå slik at forurensning ikke oppstår. Farlig avfall skal ikke blandes med annet avfall. Oppsamlet spill og/eller vann som er forurenset med farlig avfall, skal håndteres som farlig avfall.
 
+*6.4 Beredskap*
+
 Den som driver mottaksordningene skal sørge for å ha en nødvendig beredskap for å hindre, oppdage eller stanse akutt forurensning. Beredskapsplikten omfatter også utstyr til å fjerne og begrense virkningen av forurensningen og omfanget av skadene og ulempene som kan inntreffe. Det skal f.eks. til enhver tid eksistere tilstrekkelig lager med absorpsjonsmidler og annet nødvendig utstyr, inklusiv verneutstyr, for å kunne ta hånd om spill og lekkasjer av farlig avfall. Beredskapen skal stå i et rimelig forhold til sannsynligheten for akutt forurensning og omfanget av skadene og ulempene som kan inntreffe. Ved visse mengder brannfarlig vare må tillatelse innhentes fra Direktoratet for samfunnssikkerhet og beredskap (DSB).
 
+*6.5 Varsling*
+
 Akutt forurensning eller fare for akutt forurensning skal varsles i samsvar med [forskrift om varsling av akutt forurensning eller fare for akutt forurensning](forskrift/1992-07-09-1269).
+
+*7. Krav til mottak*
+
+*7.1 Betjent stasjonært mottak*
 
 I åpningstiden skal anlegget være betjent. Utenom åpningstiden skal det farlige avfallet være sikret mot adgang for uvedkommende. Den som driver mottaket plikter å ta imot alle de farlige avfallstyper som nevnt i punkt 3. Den som driver mottaket skal minst en gang pr. uke sørge for at mottaket tømmes eller vurdere behov for tømming og frakt til godkjent lager eller behandlingsanlegg.
 
 Ved plasseringen av mottaket skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
+
+*7.2 Ubetjente stasjonære mottak*
 
 Mottaket skal være avlåst. Nøkkel skal oppbevares separat og bare utleveres på anmodning fra besitter av farlig avfall. Ved mottaket skal det finnes informasjon om hvilke farlige avfallstyper som kan plasseres i mottaket. Det stilles ikke krav til at mottaket skal ta imot alle typer farlig avfall.
 
@@ -3393,19 +4319,27 @@ Mottaket må ha tilstrekkelig kapasitet. Det skal påses at avfall ikke hensette
 
 Ved plasseringen av mottaket skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
 
+*7.3 Mobilt mottak/innsamling*
+
 Den som driver mottaket skal råde over ADR-godkjent transportmateriell. Bruk og vedlikehold skal foregå i overensstemmelse med gjeldende lover og forskrifter.
 
 Mottatt og hentet avfall skal innen 24 timer fraktes til anlegg godkjent av forurensningsmyndighetene eller til anlegg omfattet av disse standardiserte krav for kommunale mottak. Det vises spesielt til Direktoratet for samfunnssikkerhet og beredskap sitt eget regelverk om vegtransport av farlig gods (ADR).
 
+*7.4 Lagring av farlig avfall*
+
 Det kan lagres inntil 50 tonn farlig avfall. Farlig avfall kan oppbevares i inntil 6 måneder før viderelevering. Farlig avfall skal lagres slik det er beskrevet ovenfor, under punkt 6 Sikring mot forurensning. Lageret skal være slik at forsvarlig inspeksjon og håndtering kan utføres. Det farlige avfallet skal lagres slik at det lett kan flyttes, f.eks. på paller. Stoffer som ikke kan samlastes ifølge ADR, skal lagres på atskilte områder.
 
 Ved plasseringen av mottaket skal det tas hensyn til ulempe for naboer og fare for forurensning i spesielt sårbare områder.
+
+*8. Deklarering*
 
 Ved mottak av farlig avfall fra virksomheter skal den som driver mottaket påse at avfallsbesitter har deklarert det farlige avfallet. Avfallsbesitter er selv ansvarlig for at deklareringen er korrekt utført, jf. [§ 11-12](forskrift/2004-06-01-930/§11-12).
 
 Ved mottak av farlig avfall fra husholdninger skal kommunen deklarere avfallet. Farlig avfall fra husholdninger skal være deklarert senest idet avfallet forlater den som omfattes av disse standardiserte krav til kommunale mottak.
 
 All deklarering skal skje på deklarasjonsskjema godkjent av Miljødirektoratet. Består en leveranse av flere avfallstyper, skal det være minst én deklarasjon for hver avfallstype.
+
+*9. Journalføring og rapportering*
 
 Den som driver mottaksordningene skal føre journal som omfatter alle nødvendige opplysninger om farlig avfall. Journalen skal inneholde opplysninger om mengde farlig avfall, typer farlig avfall, deklarasjonsnummer, avfallets opprinnelse mv. Journalene skal være lett tilgjengelige ved kontroll. De skal oppbevares i minst 3 år.
 
@@ -3415,13 +4349,21 @@ Statsforvalteren kan pålegge den som driver mottaksordningene å sende forurens
 
 ### Vedlegg 4. Minimumskrav til anlegg for mottak og mellomlagring av farlig avfall
 
+1\. *Lagring av farlig avfall*
+
 Følgende krav gjelder ved lagring av farlig avfall:Farlig avfall skal lagres på en slik måte at faren for forurensning begrenses i størst mulig grad.Lagret farlig avfall skal ha tilstrekkelig tilsyn.Enhver lagring av farlig avfall skal være basert på en vurdering av miljørisiko forbundet med lagringen, jf. [forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter](forskrift/1996-12-06-1127).Lagring av farlig avfall skal skje under tak og på fast dekke med oppsamling av eventuell avrenning. Annen lagringsmåte kan benyttes dersom virksomheten kan dokumentere at den valgte lagringsmåten gir minst like lav risiko og like god miljøbeskyttelse.Ulike typer farlig avfall som ved sammenblanding eller kontakt kan gi fare for brann/eksplosjon og/eller dannelse av farlige stoffer, skal lagres med god avstand.Tanklagring skal skje i tråd med kravene i [forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) kapittel 18](forskrift/2004-06-01-931/kap18). Herunder skal tanker som inneholder stoffer som er væske ved normalt trykk og temperatur ha et effektivt oppsamlingsarrangement som minst rommer tankens volum og som tåler de aktuelle kjemikalier, i tillegg skal oppsamlingsarrangementet som omfatter flere tanker, ha kapasitet som minst tilsvarer den største tankens volum pluss 10 %, jf. [forurensningsforskriften § 18-6](forskrift/2004-06-01-931/§18-6) bokstav c annet ledd.Lageret skal være sikret slik at uvedkommende ikke får adgang. Virksomheten skal være inngjerdet og avstengt utenom åpningstid.
 
+2\. *Lagringstid*
+
 Mottatt avfall skal ikke lagres lenger enn 12 måneder.
+
+3\. *Oljeutskiller*
 
 Ved utslipp av overflatevann skal dette ledes gjennom oljeutskiller eller annen tilsvarende renseinnretning før det slippes ut til vannresipient eller avløpsnett i tråd med tillatelse.
 
 Utslipp til vann fra avfallshåndteringen er ikke tillatt.
+
+4\. *Finansiell sikkerhet*
 
 Anlegg for mottak og mellomlagring av farlig avfall skal ha en finansiell sikkerhet til dekning av kostnader med å ta hånd om alt farlig avfall ved virksomhetens anlegg ved nedleggelse, stans eller ved betalingsproblemer.
 
@@ -3437,15 +4379,23 @@ Virksomheten skal hvert femte år, eller oftere, dersom forurensningsmyndigheten
 
 Denne bestemmelsen gjelder ikke for anlegg hvor det driftsansvarlige selskapet er et kommunalt eller et interkommunalt selskap.
 
+5\. *Regnskapsføring av avfallslager*
+
 Fremtidige kostnader til behandling av lagret farlig avfall skal tas med i bedriftens årlige regnskap i tråd med [lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven)](lov/1998-07-17-56).
 
+6\. *Journalføring*
+
 Virksomheten skal føre journal over opplysninger om mottak, lagring og viderelevering av alt farlig avfall som virksomheten mottar. Journalen skal oppbevares i minst tre år.
+
+7\. *Rapportering*
 
 Virksomheten skal årlig utarbeide en rapport som gjør rede for mengder og typer farlig avfall som i løpet av året er mottatt, sendt videre og hvor mye farlig avfall som er lagret på bedriftens område ved årets slutt. Denne oversikten skal sendes til forurensningsmyndigheten innen 1. mars påfølgende år.
 
 > Vedlegg 4 tilføyd ved [forskrift 9 sep 2015 nr. 1042](forskrift/2015-09-09-1042) (i kraft 1 jan 2016), endret ved [forskrift 14 des 2020 nr. 3341](forskrift/2020-12-14-3341) (i kraft 1 juni 2021).
 
 ## Kapittel 12. Gebyr for deklarering av farlig avfall
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 52a](lov/1981-03-13-6/§52a).
 
 ### § 12-1. Virkeområde
 
@@ -3476,6 +4426,9 @@ Miljødirektoratet kan i det enkelte tilfelle, når særlige grunner foreligger,
 ## Kapittel 13. Grensekryssende forsendelser av avfall
 
 > Endret ved forskrifter [26 okt 2012 nr. 995](forskrift/2012-10-26-995), [18 nov 2014 nr. 1450](forskrift/2014-11-18-1450) (i kraft 1 jan 2015), [30 jan 2023 nr. 161](forskrift/2023-01-30-161), [29 okt 2025 nr. 2214](forskrift/2025-10-29-2214).
+
+**Hjemmel:** Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) §§ 31](lov/1981-03-13-6/§31), [32b](lov/1981-03-13-6/§32b), [49](lov/1981-03-13-6/§49), [51](lov/1981-03-13-6/§51), [52a](lov/1981-03-13-6/§52a), [63](lov/1981-03-13-6/§63), [80](lov/1981-03-13-6/§80) og [81](lov/1981-03-13-6/§81), jf. [delegeringsvedtak 8. juli 1983 nr. 1245](forskrift/1983-07-08-1245) og [delegeringsvedtak 16. mai 1986 nr. 1094](forskrift/1986-05-16-1094).
+**EØS-henvisninger:** [EØS-avtalen vedlegg XX kap. V](avtale/avt-1992-05-02-1-v20/kapV) nr. 32c (forordning [(EF) nr. 1013/2006](eu/32006r1013), som endret ved forordning [(EF) nr. 1379/2007](eu/32007r1379), forordning [(EF) nr. 669/2008](eu/32008r0669), forordning [(EF) nr. 308/2009](eu/32009r0308), forordning [(EU) nr. 413/2010](eu/32010r0413), direktiv [2009/31/EF](eu/32009l0031), forordning [(EU) nr. 664/2011](eu/32011r0664), forordning [(EU) nr. 135/2012](eu/32012r0135), forordning [(EU) nr. 255/2013](eu/32013r0255), forordning [(EU) nr. 1257/2013](eu/32013r1257), forordning [(EU) nr. 660/2014](eu/32014r0660), forordning [(EU) nr. 1234/2014](eu/32014r1234), forordning [(EU) nr. 2015/2002](eu/32002r2015), forordning [(EU) 2020/2174](eu/32020r2174) og forordning [(EU) 2024/3229](eu/32024r3229)) og nr. 32cb (forordning [(EF) nr. 1418/2007](eu/32007r1418) som endret ved forordning [(EF) nr. 740/2008](eu/32008r0740), forordning [(EF) nr. 967/2009](eu/32009r0967), forordning [(EU) nr. 837/2010](eu/32010r0837), forordning [(EU) nr. 661/2011](eu/32011r0661), forordning [(EU) nr. 674/2012](eu/32012r0674), forordning [(EU) nr. 57/2013](eu/32013r0057), forordning [(EU) nr. 519/2013](eu/32013r0519), forordning [(EU) nr. 733/2014](eu/32014r0733), forordning [(EU) 2021/1840](eu/32021r1840) og forordning [(EU) 2022/520](eu/32022r0520)).
 
 ### § 13-1. Regler om grensekryssende forsendelser av avfall
 
@@ -3523,6 +4476,8 @@ Overtredelsesgebyr kan også ilegges for forsøk på overtredelse av bestemmelse
 
 ### Forordning
 
+*Konsoliderte versjoner av forordning [(EF) nr. 1013/2006](eu/32006r1013) og forordning [(EF) nr. 1418/2007](eu/32007r1418) på engelsk*
+
 Nedenfor gjengis til informasjon forordning [(EF) nr. 1013/2006](eu/32006r1013) om forsendelser av avfall. Forordningen er konsolidert 11. januar 2021 og inneholder bare bestemmelser som var gjeldende denne datoen: [(pdf)](static/SF/32006r1013k-e-04.pdf)
 
 Nedenfor gjengis til informasjon forordning [(EF) nr. 1418/2007](eu/32007r1418) om eksport for gjenvinning av visse typer avfall oppført i vedlegg III eller IIIA til europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013), til visse stater som OECD-vedtaket om kontroll av grensekryssende transport av avfall ikke får anvendelse for. Forordningen er konsolidert 2. april 2022 og inneholder bare bestemmelser som var gjeldende denne datoen: [(pdf)](static/SF/32007r1418k-e-03.pdf)
@@ -3532,6 +4487,8 @@ De konsoliderte forordningene er tilgjengelige på alle offisielle EU-språk på
 > Endret ved [forskrifter 7 jan 2014 nr. 10](forskrift/2014-01-07-10), [18 nov 2014 nr. 1450](forskrift/2014-11-18-1450) (i kraft 1 jan 2015), [5 jan 2015 nr. 4](forskrift/2015-01-05-4), [14 sep 2015 nr. 1920](forskrift/2015-09-14-1920), [14 sep 2016 nr. 1129](forskrift/2016-09-14-1129), [18 des 2020 nr. 3217](forskrift/2020-12-18-3217) (i kraft 1 jan 2021), [30 jan 2023 nr. 161](forskrift/2023-01-30-161).
 
 ## Kapittel 13A. Avfallstransportører, -forhandlere og -meglere
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 32](lov/1981-03-13-6/§32), jf. [§ 31](lov/1981-03-13-6/§31) og [§ 49](lov/1981-03-13-6/§49). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32ff (direktiv [2008/98/EF](eu/32008l0098)).
 
 > Kapittel 13A tilføyd ved [forskrift 16 des 2015 nr. 1701](forskrift/2015-12-16-1701) (i kraft 1 jan 2016).
 
@@ -3558,6 +4515,8 @@ Alle avfallsforhandlere og avfallsmeglere skal føre en kronologisk journal over
 > Tilføyd ved [forskrift 16 des 2015 nr. 1701](forskrift/2015-12-16-1701) (i kraft 1 jan 2016).
 
 ## Kapittel 14. Kasserte PCB-holdige isolerglassruter
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 31](lov/1981-03-13-6/§31) og [§ 33](lov/1981-03-13-6/§33).
 
 > Kapittel 14 tilføyd ved [forskrift 13 juli 2004 nr. 1127](forskrift/2004-07-13-1127).
 
@@ -3601,7 +4560,15 @@ Produsenter skal uoppfordret informere og dokumentere overfor sine kunder om hvi
 
 Retursystem skal betale gebyr til statskassen for Miljødirektoratets saksbehandling i forbindelse med godkjenning eller endring av godkjenning.
 
-Gebyr skal betales etter følgende satser:*Sats**Beløp*1Kr 203 9002Kr 153 0003Kr 102 0004Kr 51 0005Kr 25 500
+Gebyr skal betales etter følgende satser:
+
+| *Sats* | *Beløp* |
+| --- | --- |
+| 1 | Kr 203 900 |
+| 2 | Kr 153 000 |
+| 3 | Kr 102 000 |
+| 4 | Kr 51 000 |
+| 5 | Kr 25 500 |
 
 Gebyrene skal samlet sett ikke overstige Miljødirektoratets kostnader ved saksbehandlingen. Miljødirektoratet vedtar hvilken gebyrsats som skal gjelde i det enkelte tilfelle. Ved fastsettelsen av gebyrsats skal forventet ressursforbruk knyttet til saksbehandlingen legges til grunn.
 
@@ -3661,9 +4628,13 @@ Statsforvalteren fører tilsyn med at pliktene for kommunen i dette kapitlet ove
 
 > Kapittel 14 tilføyd ved [forskrift 13 juli 2004 nr. 1127](forskrift/2004-07-13-1127). Vedlegg I endret ved [forskrifter 14 des 2007 nr. 1430](forskrift/2007-12-14-1430) (i kraft 1 jan 2008), [26 feb 2008 nr. 193](forskrift/2008-02-26-193) (i kraft 1 juni 2008), [21 juni 2010 nr. 1073](forskrift/2010-06-21-1073), [3 mars 2011 nr. 298](forskrift/2011-03-03-298), [15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [31 jan 2014 nr. 99](forskrift/2014-01-31-99), [14 mars 2017 nr. 314](forskrift/2017-03-14-314), [15 april 2020 nr. 797](forskrift/2020-04-15-797), [13 mars 2023 nr. 340](forskrift/2023-03-13-340), [3 des 2025 nr. 2424](forskrift/2025-12-03-2424) (i kraft 1 jan 2026).
 
+*A. Kriterier for godkjent retursystem*
+
 For å kunne godkjennes må retursystemet:Være landsdekkende og i samsvar med [§ 14-4](forskrift/2004-06-01-930/§14-4). Systemet skal kunne være effektivt senest 3 md. etter at godkjenningen er gitt.Dokumentere medlemskapskriterier som sikrer alle produsenter deltakelse på like vilkår. Det skal være mulig for engangsprodusenter å være medlem i returordningen.Dokumentere et system for å beregne deltakernes markedsandel, og innbyrdes fordeling av kostnader i samsvar med [§ 14-4](forskrift/2004-06-01-930/§14-4).Være uten økonomisk formål. Det skal ikke utbetales overskudd eller utbytte til eierne av et returselskap.Dokumentere avtalefestet behandlingsløsning for innsamlede isolerglassruter som sikrer at:Rutene kommer til behandlingsanlegg som har nødvendig tillatelse til å ta imot dette etter [lov 13. mars 1981 nr. 6 om forurensninger og om avfall og kapittel 11](lov/1981-03-13-6/kap11) om farlig avfall.PCB i avfallet er uskadeliggjort senest innen 12 md. fra innsamlingstidspunktet.Dokumentere at det gis tilstrekkelig informasjon til potensielle avfallsbesittere om hvor PCB-holdige isolerglassruter kan leveres og at vinduene inngår i et system for sikker håndtering av PCB.
 
 Ved godkjennelsen av returselskapet kan Miljødirektoratet fastsette ytterligere vilkår, herunder krav om tilstrekkelig finansiell sikkerhet.
+
+B. *Maksimal normalpris for levering av isolerglassruter*
 
 Maksimal normalpris for levering av isolerglassruter i årene 2026–2028 er kr 1 850,– per tonn eksklusive merverdiavgift.
 
@@ -3769,6 +4740,8 @@ Dersom kommunen gjennom avfallsgebyret har subsidiert kommunens virksomhet knytt
 
 ## Kapittel 16. Radioaktivt avfall
 
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 20](lov/1981-03-13-6/§20), [§ 29](lov/1981-03-13-6/§29) og [§ 31](lov/1981-03-13-6/§31).
+
 > Kapittel 16 tilføyd ved [forskrift 1 nov 2010 nr. 1394](forskrift/2010-11-01-1394) (i kraft 1 jan 2011).
 
 ### § 16-1. Formål
@@ -3871,6 +4844,8 @@ Eksport av offshoreinstallasjoner som inneholder både radioaktivt avfall og far
 
 > Tilføyd ved [forskrift 1 nov 2010 nr. 1394](forskrift/2010-11-01-1394) (i kraft 1 jan 2011), endret ved [forskrifter 15 mars 2013 nr. 284](forskrift/2013-03-15-284) (i kraft 1 juli 2013), [20 des 2018 nr. 2092](forskrift/2018-12-20-2092) (i kraft 1 jan 2019).
 
+1 Henvisningen er ikke oppdatert og viser til den opphevede [strålevernforskriften 29. oktober 2010 nr. 1380](forskrift/2010-10-29-1380). Jf. gjeldende [strålevernforskrift 16. desember 2016 nr. 1659 § 14](forskrift/2016-12-16-1659/§14) første ledd, Lovdatas anmerkning.
+
 ### § 16-12. Import av radioaktivt avfall
 
 Import av radioaktivt avfall krever tillatelse fra Direktoratet for strålevern og atomsikkerhet. Det kan fastsettes vilkår for slik tillatelse.
@@ -3902,6 +4877,8 @@ For ileggelse av overtredelsesgebyr gjelder [§§ 18B-2](forskrift/2004-06-01-93
 > Tilføyd ved forskrift [5 des 2025 nr. 2428](forskrift/2025-12-05-2428).
 
 ## Kapittel 17. Håndtering av avfall fra utvinningsindustrien
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 9](lov/1981-03-13-6/§9), [§ 12](lov/1981-03-13-6/§12), [§ 40](lov/1981-03-13-6/§40), [§ 41](lov/1981-03-13-6/§41) og [§ 86](lov/1981-03-13-6/§86). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32fe (direktiv [2006/21/EF](eu/32006l0021)), nr. 32fea (beslutning [2009/335/EF](eu/32009d0335)), nr. 32feb (beslutning [2009/337/EF](eu/32009d0337)), nr. 32fed (beslutning [2009/359/EF](eu/32009d0359)) og nr. 32fee (beslutning [2009/360/EF](eu/32009d0360)).
 
 > Kapittel 17 tilføyd ved [forskrift 15 juni 2012 nr. 542](forskrift/2012-06-15-542), overskrift endret ved forskrift [10 sep 2025 nr. 1882](forskrift/2025-09-10-1882).
 
@@ -4119,9 +5096,15 @@ Bestemmelsene i [§ 17-4](forskrift/2004-06-01-930/§17-4) til [§ 17-11](forskr
 
 > Kapittel 17 tilføyd ved [forskrift 15 juni 2012 nr. 542](forskrift/2012-06-15-542), vedlegg I endret ved forskrift [10 sep 2025 nr. 1882](forskrift/2025-09-10-1882).
 
+*1. Plan for forebygging av større ulykker*
+
 Den driftsansvarliges plan for forebygging av større ulykker og sikkerhetsstyringssystem skal stå i forhold til faren for en større ulykke ved avfallsanlegget. Med sikte på å kunne gjennomføre disse skal det tas hensyn til følgende:planen for forebygging av større ulykker skal inneholde den driftsansvarliges generelle mål og handlingsprinsipper med hensyn til kontrollen med faren for større ulykkersikkerhetsstyringssystemet skal omfatte den delen av det generelle styrings systemet som omfatter organisasjonsstruktur, ansvarsområder, prosedyrer og ressurser til å fastlegge og gjennomføre planen for forebygging av større ulykkersikkerhetsstyringssystemet skal omfatte følgende punkter:organisasjon og personale – oppgaver og ansvarsområder for personalet som skal forebygge større ulykker på alle nivåer i organisasjonen; kartlegge opplæringsbehov for slikt personale og gjennomføring av den aktuelle opplæringen; deltakelse fra ansatte og eventuelt underleverandørerkartlegging og vurdering av større farer – fastsettelse og gjennomføring av prosedyrer for systematisk kartlegging av farer for større ulykker ved normal eller unormal drift samt vurdere sannsynlighet og alvorlighetsgrad,driftskontroll – fastsettelse og gjennomføring av prosedyrer og instrukser for sikker drift, herunder vedlikehold, av anlegg, prosesser og utstyr samt sikkerhet ved midlertidig driftsstansstyring av endringer – fastsettelse og gjennomføring av prosedyrer for å planlegge endringer av eksisterende avfallsanlegg eller utforming av nye avfallsanleggberedskapsplanlegging – fastsettelse og gjennomføring av prosedyrer for kartlegging av forutsigelige nødssituasjoner gjennom systematisk analyse samt utarbeidelse, testing og revisjon av beredskapsplaner for å kunne takle slike nødssituasjoner. Prosedyrene skal omfatte den driftsansvarliges system for rapportering av større ulykker eller nestenulykker, særlig dersom det gjelder sviktende vernetiltak, samt undersøkelse og oppfølging av slike tiltak på grunnlag av oppnådde erfaringerovervåking av virkeevne – fastsettelse og gjennomføring av prosedyrer for løpende evaluering av samsvar med målsetningene oppstilt i den driftsansvarliges plan for forebygging av større ulykker og sikkerhetsstyringssystem, og innføring av ordninger for undersøkelse og oppretting ved manglende samsvarkontroll og analyse – fastsettelse og gjennomføring av prosedyrer for regelmessig og systematisk evaluering av planen for forebygging av større ulykker og effektiviteten og egnetheten til sikkerhetsstyringssystemet; ledelsens dokumenterte analyse og ajourføring av resultatene av planen og sikkerhetsstyringssystemet.
 
+*2. Beredskapsplan*
+
 Beredskapsplanene skal ha som mål:å begrense og kontrollere større ulykker og andre hendelser, slik at virkningene blir minst mulig, særlig begrense skade på menneskers helse og miljøetå iverksette de nødvendige tiltak for å verne menneskers helse og miljøet mot virkningene av større ulykker og andre hendelserå framlegge de nødvendige opplysninger for allmennheten og de berørte instanser eller myndigheter i området umiddelbartå sørge for rehabilitering og gjenoppretting av miljøet etter en større ulykke.
+
+*3. Opplysninger som skal meddeles allmennheten*
 
 1. den driftsansvarliges navn og avfallsanleggets adresse
 2. identifikasjon av den person som gir opplysningene, ved angivelse av stilling
@@ -4141,9 +5124,13 @@ Beredskapsplanene skal ha som mål:å begrense og kontrollere større ulykker og
 
 Avfallet som skal deponeres i et avfallsanlegg, skal karakteriseres på en slik måte at det sikres langsiktig fysisk og kjemisk stabilitet for anleggets struktur, og at større ulykker hindres.
 
+*1.**Nødvendige opplysninger*
+
 Karakteriseringen av utvinningsavfall skal beskrive forventede fysiske og kjemiske egenskaper for avfallet som skal deponeres, på kort og lang sikt, med særlig vurdering av stabilitet under atmosfæriske/meteorologiske overflateforhold. I vurderingen skal det tas særlig hensyn til typene mineraler som utvinnes, og type toppjord og/eller avfallsmineraler som skal flyttes i løpet av utvinningen.
 
 Karakteriseringen skal omfatte følgende:Bakgrunnsopplysninger, herunder en beskrivelse av den planlagte driften som inkluderer:opplysninger om prospektering, utvinning og behandling,opplysninger om hvilken utvinningsmetode som benyttes/planlegges å benyttes,beskrivelse av sluttproduktet,Geologiske bakgrunnsopplysninger om forekomsten som er relevant for å identifisere de avfallstypene som vil oppstå under utvinning og behandling, herunder opplysninger om:omliggende bergarter, deres kjemi og mineralogi, herunder hydrotermale endringer av både mineralforekomster og forekomster uten vesentlig mineralinnhold,forekomstens karakter,mineraliseringstypologi, kjemisk sammensetning og mineralogi, herunder fysiske egenskaper som tetthet, porøsitet, partikkelstørrelsesfordeling, vanninnhold, inkludert utvunnede mineraler, mineraler i hovedformasjonen og hydrotermale nydannede mineraler,forekomstens størrelse og geometri,kjemisk/mineralogisk forvitring og overflatenær omdannelseEn beskrivelse av utvinningsavfallet som forventes å oppstå ved henholdsvis prospektering, utvinning og behandling av mineralressursene og den planlagte håndteringen av avfallet. Beskrivelsen skal omhandle:utvinningsavfallets opprinnelse på utvinningsstedet, og den valgte metode som forårsaker avfalletforventet mengde utvinningsavfallde kjemiske stoffene som skal brukes ved behandling av mineralressurseneavfallstransportsystemet som skal benytteshva slags avfallsanlegg som er planlagt, endelig eksponering av utvinningsavfallet og deponeringsmetoderelevant oppføring i den europeiske avfallslisten med angivelse av farlige egenskaper, jf. [vedlegg 1](forskrift/2004-06-01-930/KAPITTEL_12-1) og [3](forskrift/2004-06-01-930/KAPITTEL_12-3) til [avfallsforskriftens kapittel 11](forskrift/2004-06-01-930/kap11)Parametere for vurdering av utvinningsavfallets iboende geotekniske egenskaper som, når det tas hensyn til typen avfallsanlegg, fremstår som egnede. Følgende parametre skal vurderes: kornstørrelse, plastisitet, tetthet, vanninnhold, komprimeringsgrad, hardhet, friksjonsvinkel, permeabilitet, porevolum, komprimeringsegenskaper og konsolideringEn beskrivelse av de kjemiske og mineralogiske egenskapene ved utvinningsavfallet, inkludert eventuelle rester av tilsetningsstoffer, og en beskrivelse av forventet utlekkingskjemi, som funksjon av tiden, for hver utvinningsavfallstype som tar hensyn til planlagt håndtering. Beskrivelsen av utlekkingskjemien skal omfatte:en evaluering av utlekkingen av metaller, oxyanioner og salter over tid ved hjelp av en test som beskriver utlekkingens pH-avhengighet, og/eller en kolonnetest og/eller en utlekkingstest som tar hensyn til tidsaspektet eller andre passende testmetoder. Testkravet gjelder ikke for inert avfallfor utvinningsavfall som inneholder mer enn 0,1 prosent svovel på sulfidform: informasjon om fare for dannelse av surt drensvann og lekkasje av metaller over tid ved hjelp av statiske eller kinetiske tester.
+
+*2.**Prøvetakingsprogram*
 
 Dersom det ikke foreligger nødvendige opplysninger for å kunne karakterisere avfallet, skal det settes opp et prøvetakingsprogram i overensstemmelse med EN 14899. Prøvetakingsprogrammet skal være basert på de opplysninger som er identifisert som nødvendige, herunder:formålet med datainnsamlingentestprogram og krav til prøvetakingprøvetakingssituasjoner, slik som prøvetaking av borekjerner, brytningsfront, transportbånd, velter, avgangsdammer eller andre relevante stederprosedyrer og anbefalinger vedrørende antall, størrelse, masse, beskrivelse og håndtering av prøver.
 
@@ -4153,15 +5140,23 @@ Resultatene vurderes, og om nødvendig innsamles ytterligere opplysninger ved br
 
 > Kapittel 17 tilføyd ved [forskrift 15 juni 2012 nr. 542](forskrift/2012-06-15-542), vedlegg III endret ved forskrift [10 sep 2025 nr. 1882](forskrift/2025-09-10-1882).
 
+*1.**Klassifisering som et anlegg i kategori A på grunnlag av antatte konsekvenser av svikt eller feildrift*
+
 Et avfallsanlegg skal klassifiseres som et anlegg i kategori A dersom de antatte konsekvenser, på kort og lang sikt, av en hendelse som følge av tap av strukturell integritet, f.eks. at en velte eller demning raser sammen, eller feildrift kan lede til:ikke neglisjerbar fare for tap av menneskelivalvorlig fare for menneskers helse, herunder at mennesker påføres skader som medfører handikap eller langvarige helseproblemeralvorlig fare for miljøet.
 
 Hele livssyklusen til avfallsanlegget, inkludert etterdriftsfasen, skal vurderes i evalueringen av farepotensialet ved anlegget.
+
+*2.**Strukturell integritet*
 
 Strukturell integritet er her avfallsanleggets evne til å holde avfallet innenfor anleggsområdets avgrensning, slik avfallsanlegget er konstruert.
 
 Tap av strukturell integritet omfatter all mulig svikt som kan påvirke avfallsanleggets struktur.
 
 Evalueringen av konsekvensene av tap av strukturell integritet skal omfatte umiddelbare virkninger som følge av transport av materialer bort fra anlegget ved svikt, og påfølgende virkninger på kort og lang sikt.
+
+*3.**Vurdering av om svikt eller feildrift kan forårsake en større ulykke*
+
+*3.1**Generelt*
 
 Hvorvidt svikt som følge av tap av strukturell integritet eller feildrift ved et avfallsanlegg kan forårsake en større ulykke avgjøres på grunnlag av en risikovurdering som tar hensyn til faktorer som anleggets aktuelle eller framtidige størrelse, beliggenhet og miljøvirkninger.
 
@@ -4175,13 +5170,19 @@ Svikt eller feildrift ved et avfallsanlegg skal ikke anses å medføre alvorlig 
 
 Ved vurdering av potensialet for tap av menneskeliv eller fare for menneskers helse og for miljøet, skal omfanget av mulige skadevirkninger ses i sammenheng med kilde-, transportvei-, mottagerkjeden. Der det ikke er transportvei fra kilde til mottager skal anlegget ikke anlegget klassifiseres som et anlegg i kategori A på grunnlag av tap av strukturell integritet eller feildrift.
 
+3.2*Avgangsdammer*
+
 Svikt som følge av tap av strukturell integritet i en avgangsdam, skal alltid anses å medføre ikke neglisjerbar fare for tap av menneskeliv dersom svikt vil føre til at vann eller slam står minst 0,7 meter over terreng eller beveger seg med en hastighet over 0,5 meter/sekund.
 
 Dersom de nevnte vilkårene ikke er oppfylt, må en helhetsvurdering foretas for å kunne anslå faren for tap av menneskeliv og faren for menneskers helse. Vurderingen skal som minimum omfatte følgende faktorer:avfallsanleggets størrelse og egenskaper, herunder dets konstruksjonmengde og kvalitet, herunder de fysiske og kjemiske egenskaper av avfallet som er deponert i avfallsanleggettopografi av avfallsanleggsområdet, herunder faktorer som kan gi en dempende virkningden tid det tar for en potensiell flodbølge å nå til områder der det befinner seg menneskerflodbølgens utbredelseshastighetdet anslåtte vann- eller slamnivåvann- eller slamnivåets stigningstaktalle andre relevante anleggsspesifikke faktorer som kan påvirke potensialet for tap av menneskeliv eller fare for menneskers helse.
 
+3.3*Velter*
+
 Ved utglidning av masser i en gråbergvelte, dvs. masser fra brytningen plassert i et deponi, vil enhver masse i bevegelse anses å være en trussel mot menneskers liv dersom det befinner seg mennesker innenfor rasmassenes rekkevidde.
 
 Vurderingen av faren tap av menneskers liv og faren for menneskers helse, skal som minimum omfatte følgende faktorer:avfallsanleggets størrelse og egenskaper, herunder dets konstruksjonmengde og kvalitet, herunder de fysiske og kjemiske egenskaper av avfallet som er deponert i avfallsanleggethellingsvinkelen av avfallsanleggets siderpotensialet for oppbygging av internt grunnvann i avfallsanleggetundergrunnens stabilitettopografienavstanden til vassdrag, anlegg og bygningerutvinningsarbeidetalle andre relevante anleggsspesifikke faktorer, som i vesentlig grad kan bidra til den risiko som strukturen forårsaker.
+
+4.*Klassifisering som anlegg i kategori A på grunnlag av innhold av farlig avfall*
 
 Et avfallsanlegg skal som utgangspunkt klassifiseres som et anlegg i kategori A dersom innholdet av farlig avfall, beregnet som tørrstoff, antas å overstige 5 vektprosent av det totale innholdet av avfall på avslutningstidspunktet.
 
@@ -4189,13 +5190,23 @@ Dersom innholdet av farlig avfall, beregnet som tørrstoff, antas å utgjøre me
 
 Bestemmelsen gjelder ikke for avfallsanlegg som kun inneholder inert avfall eller ikke-forurensede løsmasser.
 
-Avgangsdammer skal klassifiseres som et anlegg i kategori A dersom vannfasen forventes å oppfylle kravene til farlige kjemikalier i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622). For planlagte avgangsdammer skal følgende metode benyttes;Det skal føres en fortegnelse over stoffer og stoffblandinger som anvendes i prosessene, og som deretter slippes ut sammen med øvrig avgangsslam i avgangsdammen.For hvert stoff og hver stoffblanding skal det for den planlagte driftsperiode utarbeides et overslag over årlige mengder som brukes i prosessen.Det skal avgjøres om det enkelte stoff og den enkelte stoffblanding er å anse som farlige kjemikalier i henhold til [forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622).For hvert år av den planlagte driftsperiode skal det beregnes den årlige stigningen i mengde lagret vann (ΔQi) i avgangsdammen under stabile forhold, i samsvar med følgende formel: ΔQi = (ΔMi/D) * P, hvor:ΔQi = årlig stigning i mengde vann lagret i avgangsdammen (m3/år) i løpet av år «i»ΔMi = årlig avgangsmasse som slippes ut i dammen (tonn tørrvekt/år) i løpet av år «i»D = gjennomsnittlig massetetthet av deponert avgang i dammen (tonn tørrvekt/m3)P = gjennomsnittlig porøsitet i avgangsmassene (m3/m3) definert som forholdet mellom porevolum og de totale avgangsmassene.Dersom det ikke finnes eksakte data, anvendes standardverdier på 1,4 tonn tørrvekt/m3 for massetetthet og 0,5 m3/m3 for porøsiteten.For hvert farlig stoff og hver farlig stoffblanding skal det anslås den maksimale årlige konsentrasjon (C max) i vannfasen i overensstemmelse med følgende formel: C max = maksimum av følgende verdi; Si/ΔQi, hvor Si = årlig mengde av hvert stoff og preparat som identifisert i punkt 5 bokstav c, og som føres ut i avgangsdammen i løpet av år «i».
+*5.**Klassifisering som et anlegg i kategori A på grunnlag av innhold av farlige stoffer eller stoffblandinger*
+
+*5.1**Avgangsdammer*
+
+Avgangsdammer skal klassifiseres som et anlegg i kategori A dersom vannfasen forventes å oppfylle kravene til farlige kjemikalier i [forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften)](forskrift/2012-06-16-622). For planlagte avgangsdammer skal følgende metode benyttes;Det skal føres en fortegnelse over stoffer og stoffblandinger som anvendes i prosessene, og som deretter slippes ut sammen med øvrig avgangsslam i avgangsdammen.For hvert stoff og hver stoffblanding skal det for den planlagte driftsperiode utarbeides et overslag over årlige mengder som brukes i prosessen.Det skal avgjøres om det enkelte stoff og den enkelte stoffblanding er å anse som farlige kjemikalier i henhold til [forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622).For hvert år av den planlagte driftsperiode skal det beregnes den årlige stigningen i mengde lagret vann (ΔQi) i avgangsdammen under stabile forhold, i samsvar med følgende formel: ΔQi = (ΔMi/D) \* P, hvor:ΔQi = årlig stigning i mengde vann lagret i avgangsdammen (m3/år) i løpet av år «i»ΔMi = årlig avgangsmasse som slippes ut i dammen (tonn tørrvekt/år) i løpet av år «i»D = gjennomsnittlig massetetthet av deponert avgang i dammen (tonn tørrvekt/m3)P = gjennomsnittlig porøsitet i avgangsmassene (m3/m3) definert som forholdet mellom porevolum og de totale avgangsmassene.Dersom det ikke finnes eksakte data, anvendes standardverdier på 1,4 tonn tørrvekt/m3 for massetetthet og 0,5 m3/m3 for porøsiteten.For hvert farlig stoff og hver farlig stoffblanding skal det anslås den maksimale årlige konsentrasjon (C max) i vannfasen i overensstemmelse med følgende formel: C max = maksimum av følgende verdi; Si/ΔQi, hvor Si = årlig mengde av hvert stoff og preparat som identifisert i punkt 5 bokstav c, og som føres ut i avgangsdammen i løpet av år «i».
 
 For eksisterende avgangsdammer baseres klassifiseringen av avfallsanlegget på den ovennevnte metode eller på en direkte kjemisk analyse av vann og faste stoffer på avfallsanlegget.
 
+5.2*Utlakingsanlegg*
+
 For utlakingsanlegg, hvor metaller utvinnes fra hauger med knust malm og utlakingen skjer ved gjennomstrømming av ekstraksjonsvæske, skal forurensningsmyndigheten etter avsluttet utlaking kreve gjennomført prøvetaking og kjemiske analyser av drensvannet nedstrøms anlegget. En komplett oversikt over benyttede utlakingskjemikalier skal danne basis for undersøkelsene. Dersom drensvannet er å anse som farlige stoffblandinger i henhold til [forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger](forskrift/2012-06-16-622) skal avfallsanlegget klassifiseres som et anlegg i kategori A.
 
+*5.3**Unntak*
+
 Bestemmelsene i punkt 5.1 og 5.2 gjelder ikke for avfallsanlegg som kun inneholder inert avfall eller ikke-forurensede løsmasser.
+
+*6.**Revisjon av klassifisering*
 
 Ved vesentlige endringer i tillatelse etter [§ 17-6](forskrift/2004-06-01-930/§17-6) eller vesentlige endringer i driftsvilkår, skal ansvarlig myndighet sikre at klassifiseringen av avfallsanlegget revurderes.
 
@@ -4206,6 +5217,8 @@ Ved vesentlige endringer i tillatelse etter [§ 17-6](forskrift/2004-06-01-930/�
 ## Kapittel 18A. Kriterier for avfallsfasens opphør
 
 > Kapitlet tilføyd ved [forskrift 9 des 2013 nr. 1418](forskrift/2013-12-09-1418).
+
+Fastsatt med hjemmel i [lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 33](lov/1981-03-13-6/§33). Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 32ffa (forordning [(EU) nr. 333/2011](eu/32011r0333)) og nr. 32ffb (forordning [(EU) nr. 1179/2012](eu/32012r1179)).
 
 ### § 18a-1. Forordning om fastsettelse av kriterier for å bestemme når visse typer metallskrap opphører å være avfall
 

@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om endringer i rettshjelpsloven mv. (prioriterte sakstyper for rettshjelp mv.)
 
+Endringer i følgende lover:
+
 1. [Lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v.](lov/1916-07-21-2)
 2. [Lov 1. juni 1917 nr. 1 om skjønn og ekspropriasjonssaker](lov/1917-06-01-1).
 3. [Lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35).
@@ -35,53 +37,71 @@ eu_basis: []
 
 ## I
 
+I [lov 13. juni 1980 nr. 35 om fri rettshjelp](lov/1980-06-13-35) gjøres følgende endringer:
+
+Lovens tittel skal lyde:
+
+**Lov om fri rettshjelp (rettshjelpsloven)**
+
+[§ 5 første ledd](lov/1980-06-13-35/§5/ledd/1) skal lyde:
+
 Fri rettshjelp omfatter ikke bistand som dekkes av andre ordninger eller som kan erstattes på annen måte, herunder gjennom:oppnevning av forsvarer eller bistandsadvokat i straffesaker etter [straffeprosessloven](lov/1981-05-22-25),private forsikringer som omfatter rettshjelp,[forvaltningsloven § 36](lov/1967-02-10/§36) om dekning av saksomkostninger,etablerte offentlige service- og rådgivningskontorer og tvisteløsningsorganer,det offentliges opplysnings- og veiledningsplikt, jf. bl.a. [forvaltningsloven § 11](lov/1967-02-10/§11),medlemskap i foreninger og lag,private eller offentlige rettshjelpsordninger i andre land.
+
+[§ 11 første ledd nr. 1](lov/1980-06-13-35/§11/ledd/1/nummer/1) skal lyde:
 
 for utlending som har rett til fri rettshjelp etter [utlendingsloven § 92 første](lov/2008-05-15-35/§92/ledd/1), [annet](lov/2008-05-15-35/§92/ledd/2) og [sjuende ledd](lov/2008-05-15-35/§92/ledd/7), [§ 126 sjette](lov/2008-05-15-35/§126/ledd/6) og [sjuende ledd](lov/2008-05-15-35/§126/ledd/7), eller for den som har rett til fri rettshjelp etter [statsborgerloven § 27 sjuende ledd første](lov/2005-06-10-51/§27/ledd/7/setning/1), [tredje](lov/2005-06-10-51/§27/ledd/7/setning/3) eller [fjerde punktum](lov/2005-06-10-51/§27/ledd/7/setning/4).
 
+– – –
+
+[§ 11 andre ledd nr. 1](lov/1980-06-13-35/§11/ledd/2/nummer/1) skal lyde:
+
 i saker etter [ekteskapsloven del II](lov/1991-07-04-47/delII) eller [barneloven kapittel 5](lov/1981-04-08-7/kap5), [6](lov/1981-04-08-7/kap6) og [7](lov/1981-04-08-7/kap7), herunder saker om tvangsfullbyrdelse og midlertidig sikring.
 
-for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.
+[§ 11 andre ledd nr. 6](lov/1980-06-13-35/§11/ledd/2/nummer/6) og [7](lov/1967-02-10/§11/ledd/2/nummer/7) skal lyde:
 
-for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
+for arbeidstaker i sak som gjelder utbetaling av lønn og annet arbeidsvederlag.for den som vurderer å klage eller som klager i sak etter [folketrygdloven](lov/1997-02-28-19), [barnetrygdloven](lov/2002-03-08-4) eller [lov om supplerande stønad til personar med kort butid i Noreg](lov/2005-04-29-21).
+
+[§ 11 fjerde ledd](lov/1980-06-13-35/§11/ledd/4) skal lyde:
 
 I andre saker kan det unntaksvis innvilges fritt rettsråd dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad, og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
 
+[§ 12 tredje ledd](lov/1980-06-13-35/§12/ledd/3) skal lyde:
+
 Det innvilges ikke fritt rettsråd etter første ledd dersom det er urimelig at det offentlige betaler for bistanden.
 
-for utlending i tilfeller som nevnt i [utlendingsloven § 92](lov/2008-05-15-35/§92) [tredje](lov/2008-05-15-35/§92/ledd/3) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4) og [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd annet](lov/2005-06-10-51/§27/ledd/7/setning/2) eller [tredje punktum](lov/2005-06-10-51/§27/ledd/7/setning/3),
+[§ 16 første ledd nr. 4](lov/1980-06-13-35/§16/ledd/1/nummer/4) og [5](lov/2005-05-20-28/§16/ledd/1/nummer/5) skal lyde:
 
-til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter [vergemålsloven § 76 første ledd](lov/2010-03-26-9/§76/ledd/1).
+for utlending i tilfeller som nevnt i [utlendingsloven § 92](lov/2008-05-15-35/§92) [tredje](lov/2008-05-15-35/§92/ledd/3) og [fjerde ledd](lov/2008-05-15-35/§92/ledd/4) og [§ 129 annet ledd](lov/2008-05-15-35/§129/ledd/2), eller for den som har rett til fri sakførsel etter [statsborgerloven § 27 sjuende ledd annet](lov/2005-06-10-51/§27/ledd/7/setning/2) eller [tredje punktum](lov/2005-06-10-51/§27/ledd/7/setning/3),til den som er part i en sak om vergemål når staten bærer alle kostnader ved saken etter [vergemålsloven § 76 første ledd](lov/2010-03-26-9/§76/ledd/1).
 
-saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig,
+[§ 16 andre ledd nr. 5](lov/1980-06-13-35/§16/ledd/2/nummer/5) og ny nr. 6 skal lyde:
 
-saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
+saker etter [husleieloven § 9-8](lov/1999-03-26-17/§9-8) dersom leietakeren har fått medhold i Husleietvistutvalget og utleieren reiser søksmål, og etter [tvangsfullbyrdelsesloven § 13-2 tredje ledd bokstav c](lov/1992-06-26-86/§13-2/ledd/3/bokstav/c) for leietaker når saken gjelder leietakerens bolig,saker der den private parten har fått medhold i Trygderetten, og staten tar ut søksmål.
+
+[§ 16 fjerde](lov/1980-06-13-35/§16/ledd/4) og [femte ledd](lov/2005-05-20-28/§16/ledd/5) skal lyde:
 
 I andre saker kan det unntaksvis innvilges fri sakførsel dersom det økonomiske vilkåret etter annet og tredje ledd er oppfylt og særlige grunner taler for det. Ved vurderingen av om særlige grunner taler for det, kan det blant annet legges vekt på sakens art, herunder om saken objektivt sett berører søkeren i særlig sterk grad og konsekvensene av et eventuelt rettstap for søkeren, søkerens mulighet til å ivareta sine rettslige interesser i saken, styrkeforholdet mellom partene og om saken er prinsipiell.
 
 Det innvilges ikke fri sakførsel etter annet ledd dersom det er urimelig at det offentlige betaler for bistanden.
 
+[§ 25 tredje ledd](lov/1980-06-13-35/§25/ledd/3) oppheves. Nåværende [fjerde ledd](lov/1980-06-13-35/§25/ledd/4) blir tredje ledd.
+
 ## II
 
-En utlending har rett til fritt rettsråd uten behovsprøving både ved førsteinstansbehandling og ved eventuell klage i saker ombortvisningutvisning, unntatt ved utvisning på grunn av ilagt straff eller særreaksjon etter [§ 66 første ledd bokstav b](lov/2008-05-15-35/§66/ledd/1/bokstav/b) og [c](lov/2008-05-15-35/§66/ledd/1/bokstav/c), [§ 67 første ledd bokstav a](lov/2008-05-15-35/§67/ledd/1/bokstav/a), [b](lov/2008-05-15-35/§67/ledd/1/bokstav/b), [c](lov/2008-05-15-35/§67/ledd/1/bokstav/c) og [f](lov/2008-05-15-35/§67/ledd/1/bokstav/f), [§ 68 første ledd bokstav a](lov/2008-05-15-35/§68/ledd/1/bokstav/a) og [b](lov/2008-05-15-35/§68/ledd/1/bokstav/b) og [§ 122](lov/2008-05-15-35/§122), med mindre utlendingen har mindreårige barn som er bosatt i Norge og som er norske borgere eller har oppholdstillatelse eller oppholdsretttilbakekall av oppholdstillatelse eller tilbakekall av oppholdsdokument, jf. [§ 120](lov/2008-05-15-35/§120)oppholdstillatelse etter [§ 28](lov/2008-05-15-35/§28) eller vern mot utsendelse etter [§ 73](lov/2008-05-15-35/§73), dersom utlendingen er enslig mindreårigutelukkelse etter [§ 31](lov/2008-05-15-35/§31), herunder saker hvor Utlendingsdirektoratet finner at dette kan bli utfallet.
+I [lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her](lov/2008-05-15-35) gjøres følgende endringer:
 
-En utlending som ikke har rett til fritt rettsråd etter første ledd, har likevel rett til fritt rettsråd uten behovsprøving i forbindelse medklage over negativt vedtak fattet av Utlendingsdirektoratet, i saker hvor utlendingen søker om beskyttelse etter [§ 28](lov/2008-05-15-35/§28) eller for øvrig påberoper seg et vern mot utsendelse etter [§ 73](lov/2008-05-15-35/§73). Dette gjelder likevel ikke der utlendingen klager over bare å ha fått oppholdstillatelse etter [§ 38](lov/2008-05-15-35/§38)overprøving av Utlendingsdirektoratets vedtak i Utlendingsnemnda etter beslutning fra departementet etter [§ 76 tredje ledd](lov/2008-05-15-35/§76/ledd/3).
-
-Ved domstolsbehandling skal retten av eget tiltak og uten behovsprøving gi bevilling til fri sakførsel i følgende tilfeller:når departementet fremmer søksmål mot utlendingen etter [§ 79 annet ledd](lov/2008-05-15-35/§79/ledd/2) for å prøve gyldigheten av et vedtak truffet av Utlendingsnemndanår retten prøver spørsmålet om internering etter [§ 106](lov/2008-05-15-35/§106). I disse tilfellene skal det så vidt mulig oppnevnes en prosessfullmektig straks det er klart at en pågrepet utlending ikke vil bli løslatt, uttransportert eller fremstilt for internering etter [§ 106](lov/2008-05-15-35/§106) innen utløpet av den andre dagen etter pågripelsen. En utlending som blir pågrepet eller internert, har rett til ukontrollert skriftlig og muntlig samkvem med sin prosessfullmektignår retten prøver spørsmålet om beslag eller pålegg etter [§ 104 annet ledd](lov/2008-05-15-35/§104/ledd/2) og [§ 105 annet ledd](lov/2008-05-15-35/§105/ledd/2), med mindre det ville medføre særlig ulempe eller tidsspille, eller retten finner det ubetenkelig å unnlate å oppnevne prosessfullmektignår utlendingen har fått medhold i tingretten og staten anker en sak etter loven her.
-
-Oppnevning etter tredje ledd bokstav b og c faller bort når retten bestemmer det.
-
-I de tilfeller det er gitt fritt rettsråd uten behovsprøving eller fri sakførsel, kan det offentliges utgifter i forbindelse med rettshjelpen kreves helt eller delvis erstattet dersom utlendingen har økonomisk evne til det.
-
-Reglene i [rettshjelpsloven](lov/1980-06-13-35) om saksbehandling, klageadgang mv., gjelder så langt de passer.
-
-Kongen kan gi nærmere regler i forskrift om blant annetunntak fra retten til fritt rettsrådrett til fritt rettsråd uten behovsprøving i andre saker etter loven her enn nevnt i første og annet leddsaksbehandling, klageadgang, oppnevning av advokat mv.godtgjørelse i saker hvor det gis rett til fri rettshjelp etter denne paragrafen.
+[§ 92](lov/2008-05-15-35/§92) skal lyde:
 
 ## III
 
+I [lov 26. mars 2010 nr. 9 om vergemål](lov/2010-03-26-9) skal [§ 76 andre ledd](lov/2010-03-26-9/§76/ledd/2) lyde: – – –
+
 ## IV
 
+I [lov 20. desember 2023 nr. 109 om endringer i rettshjelploven (ny modell for økonomisk behovsprøving)](lov/2023-12-20-109) gjøres følgende endringer: – – –
+
 ## V
+
+I følgende bestemmelser skal uttrykket «rettshjelploven» endres til «rettshjelpsloven»:
 
 1. [lov 21. juli 1916 nr. 2 om vidners og sakkyndiges godtgjørelse m.v. § 12](lov/1916-07-21-2/§12)
 
@@ -99,3 +119,5 @@ Kongen kan gi nærmere regler i forskrift om blant annetunntak fra retten til fr
 
 1. Loven trer i kraft fra den tiden1 Kongen bestemmer. Kongen kan bestemme at forskjellige bestemmelser skal tre i kraft til forskjellig tid.
 2. Departementet kan gi nærmere overgangsregler.
+
+1 Fra 1 juli 2025 for loven del I § 11 første ledd nr. 5 til 10, loven del III og loven del IV, iflg. [res. 20. juni 2025 nr. 1095](forskrift/2025-06-20-1095).

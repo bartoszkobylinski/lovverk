@@ -136,8 +136,15 @@ Det skal fremgå av emnebeskrivelsen hvilken eksamensordning som benyttes for de
 
 ### § 5-3. Vurdering og arbeidskrav
 
-Vurdering blir gjennomført på en slik måte at skolen på et mest mulig sikkert grunnlag kan vurdere i hvilken grad studenten har nådd læringsutbyttet som er skissert i studieplanen for utdanningen, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21). Følgende vurderingsformer blir benyttet ved Sjøforsvarets fagskole:Skriftlig skoleeksamenSkriftlig, individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Antall timer vil gå fram av studieplanen. Eksamen vil gjennomføres på papir eller digitalt.Muntlig eksamenMuntlig eksamen der studenten/-ene blir vurdert av minimum to sensorer.Praktisk eksamenVurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i gruppe og kan inkludere elementer av skriftlig og/eller muntlig eksaminasjon. Studenten/-ene blir vurdert av minimum to sensorer.MappevurderingMappevurdering er en vurderingsform med veiledning underveis, der emnekarakter blir fastsatt på grunnlag av innleveringer som kan etterprøves, prøver eller andre produkter som blir samlet i en mappe. Innholdet i mappen kan samles over tid, og må være fullført til fastsatt frist.
-Vurderingen skal gjennomføres av minimum veileder/mentor, en sensor fra arbeidslivet og en sensor fra fagskolen.PraksisPraksis er en del av utdanningen som går for seg i et relevant yrkesfelt med veiledning og avsluttende vurdering. Vurderingen gjennomføres som del av mappevurderingen (se over).
+Vurdering blir gjennomført på en slik måte at skolen på et mest mulig sikkert grunnlag kan vurdere i hvilken grad studenten har nådd læringsutbyttet som er skissert i studieplanen for utdanningen, jf. [fagskoleloven § 21](lov/2018-06-08-28/§21). Følgende vurderingsformer blir benyttet ved Sjøforsvarets fagskole:
+
+|  |  |
+| --- | --- |
+| Skriftlig skoleeksamen | Skriftlig, individuell eksamen arrangert i eksamenslokale under tilsyn, med fastsatt tid for utlevering av oppgave og innleveringsfrist. Antall timer vil gå fram av studieplanen. Eksamen vil gjennomføres på papir eller digitalt. |
+| Muntlig eksamen | Muntlig eksamen der studenten/-ene blir vurdert av minimum to sensorer. |
+| Praktisk eksamen | Vurderingsform der studenter skal løse praktiske oppgaver. Eksamen kan bli gitt individuelt eller i gruppe og kan inkludere elementer av skriftlig og/eller muntlig eksaminasjon. Studenten/-ene blir vurdert av minimum to sensorer. |
+| Mappevurdering | Mappevurdering er en vurderingsform med veiledning underveis, der emnekarakter blir fastsatt på grunnlag av innleveringer som kan etterprøves, prøver eller andre produkter som blir samlet i en mappe. Innholdet i mappen kan samles over tid, og må være fullført til fastsatt frist.<br>Vurderingen skal gjennomføres av minimum veileder/mentor, en sensor fra arbeidslivet og en sensor fra fagskolen. |
+| Praksis | Praksis er en del av utdanningen som går for seg i et relevant yrkesfelt med veiledning og avsluttende vurdering. Vurderingen gjennomføres som del av mappevurderingen (se over). |
 
 Arbeidskrav i undervisning og praksis skal gå frem av studieplanen, samt hva som danner grunnlaget for å bestå i et emne.
 
@@ -187,7 +194,16 @@ Rektor avgjør søknad om dispensasjon med hensyn til antall eksamensforsøk ett
 
 Sjøforsvarets fagskole benytter både en gradert karakterskala (A til F) og bestått/ikke bestått (B/IB) som vurderingsuttrykk.
 
-Sjøforsvarets fagskole har fastsatt følgende generelle beskrivelser for lovens graderte karakterskala, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40):*Symbol**Betegnelse**Generell, ikke fagspesifikk omtale av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+Sjøforsvarets fagskole har fastsatt følgende generelle beskrivelser for lovens graderte karakterskala, jf. [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40):
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk omtale av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 Eksamenskarakterene vil normalt bli offentliggjort innen tre uker etter avholdt eksamen.
 

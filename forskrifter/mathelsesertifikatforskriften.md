@@ -64,6 +64,10 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/223
 
 Forordning [(EU) 2020/2235](eu/32020r2235) er konsolidert med endringer gjennomført ved forordning [(EU) 2021/619](eu/32021r0619), forordning [(EU) 2021/1329](eu/32021r1329), forordning [(EU) 2023/2744](eu/32023r2744) og korrigendum 2025/90171.
 
+►**B** Kommisjonsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020
+
+som endret ved:
+
 - ►**EØS** Tilpasning som følge av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), JCD 93/2021
 - ►**M1** Kommisjonsforordning [(EU) 2021/617](eu/32021r0617) av 14. april 2021
 - ►**M2** Kommisjonsforordning [(EU) 2021/619](eu/32021r0619) av 15. april 2021
@@ -87,6 +91,18 @@ Forordning [(EU) 2020/2235](eu/32020r2235) er konsolidert med endringer gjennomf
 
 ### Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer samt offisiell utstedelse av slike sertifikater, og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse1, særlig artikkel 7 nr. 2 bokstav a),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)2, særlig artikkel 168 nr. 4, artikkel 224 nr. 4, artikkel 238 nr. 3 og artikkel 239 nr. 3,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)3, særlig artikkel 90 første ledd og artikkel 126 nr. 3, og
+
+ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt regler for dyresykdommer som kan overføres til dyr eller mennesker, herunder krav til utstedelse av offisielle helsesertifikater til bruk ved ulike forflytninger av dyr, avlsmateriale og produkter av animalsk opprinnelse. Disse kravene, blant annet til forflytning av visse levende akvatiske dyr og produkter av animalsk opprinnelse beregnet på konsum, er nærmere angitt i delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692)4 i henhold til forordning [(EU) 2016/429](eu/32016r0429). Den gir også Kommisjonen myndighet til å vedta gjennomføringsrettsakter om fastsettelse av regler for standardskjemaer for disse helsesertifikatene samt regler for opplysningene som skal inngå i visse dokumenter og erklæringer som kreves ved innførsel til Unionen av slike forsendelser. Ved nevnte forordning gis Kommisjonen også myndighet til å fastsette særlige regler for standardskjemaer for helsesertifikater, erklæringer og andre dokumenter for dyr, avlsmateriale og produkter av animalsk opprinnelse. I forordning [(EU) 2016/429](eu/32016r0429) er det også fastsatt at helsesertifikater kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 2. I delegert forordning [(EU) 2020/692](eu/32020r0692) fastsettes utfyllende krav til dyrehelse ved innførsel til Unionen av forsendelser av visse dyr, herunder levende akvatiske dyr, avlsmateriale og produkter av animalsk opprinnelse. Særlig skal slike forsendelser i samsvar med nevnte forordning følges av et helsesertifikat, og dersom det er fastsatt i nevnte forordning, av en erklæring eller andre dokumenter. I disse delegerte forordningene er det fastsatt hvilke krav dyr og varer beregnet på konsum skal oppfylle ved innførsel til Unionen.
@@ -115,20 +131,66 @@ om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordnin
 25. Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør denne forordningen også få anvendelse fra den datoen.
 26. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 139 av 30.4. 2004, s. 55.
+
+2 EUT L 84 av 31.3.2016, s. 1.
+
+3 EUT L 95 av 7.4.2017, s. 1.
+
+4 Delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).
+
+5 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), [(EØF) nr. 234/79](eu/31979r0234), [(EF) nr. 1037/2001](eu/32001r1037) og [(EF) nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).
+
+6 Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208) av 11. mars 2013 om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer (EUT L 68 av 12.3.2013, s. 16).
+
+7 Delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625) av 4. mars 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) med hensyn til krav ved innførsel til Unionen av forsendelser av visse dyr og varer beregnet på konsum (EUT L 131 av 17.5.2019, s. 18).
+
+8 Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen») (EUT L 261 av 14.10.2019, s. 37).
+
+9 Delegert kommisjonsforordning [(EU) 2019/624](eu/32019r0624) av 8. februar 2019 om særlige regler for gjennomføringen av offentlig kontroll av kjøttproduksjon og for produksjons- og gjenutleggingsområder for levende muslinger i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) (EUT L 131 av 17.5.2019, s. 1).
+
+10 Kommisjonens gjennomføringsforordning [(EU) 2019/628](eu/32019r0628) av 8. april 2019 om maler for offisielle sertifikater for visse dyr og varer, og om endring av forordning [(EF) nr. 2074/2005](eu/32005r2074) og gjennomføringsforordning [(EU) 2016/759](eu/32016r0759) med hensyn til disse sertifikatmalene (EUT L 131 av 17.5.2019, s. 101).
+
+11 Kommisjonsforordning [(EF) nr. 599/2004](eu/32004r0599) av 30. mars 2004 om vedtakelse av en harmonisert sertifikatmodell og en inspeksjonsrapport i forbindelse med handel innenfor Fellesskapet med dyr og produkter av animalsk opprinnelse (EUT L 94 av 31.3.2004, s. 44).
+
+12 Kommisjonens gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) av 13. juni 2014 om en sertifikatmodell for handel med uflådd viltlevende storvilt (EUT L 175 av 14.6.2014, s. 16).
+
+13 Kommisjonsvedtak [2000/572/EF](eu/32000d0572) av 8. september 2000 om fastsettelse av krav til dyrehelse og hygiene samt utstedelse av veterinærattest ved import av bearbeidet kjøtt til Fellesskapet fra tredjestater (EFT L 240 av 23.9.2000, s. 19).
+
+14 Kommisjonsvedtak [2003/779/EF](eu/32003d0779) av 31. oktober 2003 om krav til dyrehelse og utstedelse av veterinærattest ved import av dyretarmer fra tredjestater (EUT L 285 av 1.11.2003, s. 38).
+
+15 Kommisjonsvedtak [2007/240/EF](eu/32007d0240) av 16. april 2007 om fastsettelse av nye veterinærattester for import til Fellesskapet av levende dyr, sæd, embryoer, egg og produkter av animalsk opprinnelse i henhold til vedtak [79/542/EØF](eu/31979d0542), [92/260/EØF](eu/31992d0260), [93/195/EØF](eu/31993d0195), [93/196/EØF](eu/31993d0196), [93/197/EØF](eu/31993d0197), [95/328/EF](eu/31995d0328), [96/333/EF](eu/31996d0333), [96/539/EF](eu/31996d0539), [96/540/EF](eu/31996d0540), [2000/572/EF](eu/32000d0572), [2000/585/EF](eu/32000d0585), [2000/666/EF](eu/32000d0666), [2002/613/EF](eu/32002d0613), [2003/56/EF](eu/32003d0056), [2003/779/EF](eu/32003d0779), [2003/804/EF](eu/32003d0804), [2003/858/EF](eu/32003d0858), [2003/863/EF](eu/32003d0863), [2003/881/EF](eu/32003d0881), [2004/407/EF](eu/32004d0407), [2004/438/EF](eu/32004d0438), [2004/595/EF](eu/32004d0595), [2004/639/EF](eu/32004d0639) og [2006/168/EF](eu/32006d0168) (EUT L 104 av 21.4.2007, s. 37).
+
+16 Rådsdirektiv [95/53/EF](eu/31995l0053) av 25. oktober 1995 om fastsettelse av prinsippene for organisering av offentlig kontroll på fôrvareområdet (EFT L 265 av 8.11.1995, s. 17).
+
+17 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+18 Kommisjonsdirektiv [98/68/EF](eu/31998l0068) av 10. september 1998 om fastsettelse av standarddokumentet nevnt i artikkel 9 nr. 1 i rådsdirektiv 95/53/EF og visse regler for kontroll ved innførsel til Fellesskapet av fôrvarer fra tredjeland (EFT L 261 av 24.9.1998, s. 32).
+
+19 Kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028) av 11. januar 2012 om fastsettelse av krav til utstedelse av sertifikater for import til og transitt gjennom Unionen av visse sammensatte produkter og om endring av vedtak [2007/275/EF](eu/32007d0275) og forordning [(EF) nr. 1162/2009](eu/32009r1162) (EUT L 12 av 14.1.2012, s. 1).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål og virkeområde
 
-1. I denne forordningen fastsettes regler for helsesertifikater fastsatt i forordning [(EU) 2016/429](eu/32016r0429), offisielle sertifikater fastsatt i forordning [(EU) 2017/625](eu/32017r0625) og kombinerte helsesertifikater/offisielle sertifikater basert på disse forordningene og med hensyn til utstedelse og erstatning av de sertifikatene som kreves ved innførsel til Unionen20, forflytning i Unionen og mellom medlemsstater av visse forsendelser av dyr og varer (heretter samlet kalt «sertifikatene»).
+1\. I denne forordningen fastsettes regler for helsesertifikater fastsatt i forordning [(EU) 2016/429](eu/32016r0429), offisielle sertifikater fastsatt i forordning [(EU) 2017/625](eu/32017r0625) og kombinerte helsesertifikater/offisielle sertifikater basert på disse forordningene og med hensyn til utstedelse og erstatning av de sertifikatene som kreves ved innførsel til Unionen20, forflytning i Unionen og mellom medlemsstater av visse forsendelser av dyr og varer (heretter samlet kalt «sertifikatene»).
 
-2. I denne forordningen fastsettes standardmaler for helsesertifikater, offisielle sertifikater eller kombinerte helsesertifikater/offisielle sertifikatertil bruk ved forflytning mellom medlemsstater eller i Unionen av dyr, produkter av animalsk opprinnelse og avlsmateriale samt merknader om utfylling av sertifikatene,til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, avlsmateriale, animalske biprodukter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum samt merknader om utfylling av sertifikatene.
+2\. I denne forordningen fastsettes standardmaler for helsesertifikater, offisielle sertifikater eller kombinerte helsesertifikater/offisielle sertifikatertil bruk ved forflytning mellom medlemsstater eller i Unionen av dyr, produkter av animalsk opprinnelse og avlsmateriale samt merknader om utfylling av sertifikatene,til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, avlsmateriale, animalske biprodukter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum samt merknader om utfylling av sertifikatene.
 
-3. I denne forordningen fastsettes sertifikatmaler i form av henholdsvis helsesertifikater, offisielle sertifikater eller kombinerte helsesertifikater/offisielle sertifikater, og en attestasjonsmal for følgende dyr og varer beregnet på konsum:Maler for sertifikater til bruk ved forflytning i Unionen av følgende varer beregnet på konsum:Produkter av animalsk opprinnelse fra landdyr som det er tillatt å flytte fra en restriksjonssone som omfattes av nødtiltak eller tiltak for sykdomsbekjempelse, eller som stammer fra dyr av arter som omfattes av disse tiltakene.Uflådd viltlevende storvilt.Maler for sertifikater til bruk ved innførsel til Unionen av følgende dyr og varer beregnet på konsum:►**M11**Produkter av animalsk opprinnelse og sammensatte produkter som det kreves slike sertifikater for i samsvar med artikkel 21 i delegert forordning [(EU) 2022/2292](eu/32022r2292).◄**M11**Visse levende akvatiske dyr og produkter av animalsk opprinnelse som det kreves slike sertifikater for i samsvar med artikkel 3 første ledd bokstav c) i delegert forordning [(EU) 2020/692](eu/32020r0692).Levende insekter og levende snegler.En sertifikatmal for spirer og frø beregnet på produksjon av spirer.En mal for sertifikater til bruk ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av sammensatte produkter beregnet på konsum.Maler for sertifikater til bruk ved kontroll ante mortem på opprinnelsesenheten, eller når det gjelder nødslakting, utenfor slakteriet.En mal for private erklæringer som underskrives av den importerende driftsansvarlige for næringsmiddelforetak for langtidsholdbare sammensatte produkter som inneholder andre foredlede produkter av animalsk opprinnelse enn tilberedt kjøtt, når slike sammensatte produkter innføres til Unionen.
+3\. I denne forordningen fastsettes sertifikatmaler i form av henholdsvis helsesertifikater, offisielle sertifikater eller kombinerte helsesertifikater/offisielle sertifikater, og en attestasjonsmal for følgende dyr og varer beregnet på konsum:Maler for sertifikater til bruk ved forflytning i Unionen av følgende varer beregnet på konsum:Produkter av animalsk opprinnelse fra landdyr som det er tillatt å flytte fra en restriksjonssone som omfattes av nødtiltak eller tiltak for sykdomsbekjempelse, eller som stammer fra dyr av arter som omfattes av disse tiltakene.Uflådd viltlevende storvilt.Maler for sertifikater til bruk ved innførsel til Unionen av følgende dyr og varer beregnet på konsum:►**M11**Produkter av animalsk opprinnelse og sammensatte produkter som det kreves slike sertifikater for i samsvar med artikkel 21 i delegert forordning [(EU) 2022/2292](eu/32022r2292).◄**M11**Visse levende akvatiske dyr og produkter av animalsk opprinnelse som det kreves slike sertifikater for i samsvar med artikkel 3 første ledd bokstav c) i delegert forordning [(EU) 2020/692](eu/32020r0692).Levende insekter og levende snegler.En sertifikatmal for spirer og frø beregnet på produksjon av spirer.En mal for sertifikater til bruk ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av sammensatte produkter beregnet på konsum.Maler for sertifikater til bruk ved kontroll ante mortem på opprinnelsesenheten, eller når det gjelder nødslakting, utenfor slakteriet.En mal for private erklæringer som underskrives av den importerende driftsansvarlige for næringsmiddelforetak for langtidsholdbare sammensatte produkter som inneholder andre foredlede produkter av animalsk opprinnelse enn tilberedt kjøtt, når slike sammensatte produkter innføres til Unionen.
+
+20 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til «Unionen» i denne forordningen Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 2. Definisjoner
 
 I denne forordningen menes med«slakteri» et slakteri som definert i nr. 1.16 i vedlegg I til forordning (EF) nr. 853/2004,«froskelår» froskelår som definert i nr. 6.1 i vedlegg I til forordning (EF) nr. 853/2004, og froskelår fra dyr av slekten Pelophylax i Ranidae-familien, og slektene Limnonectes, Fejervarya og Hoplobatrachus i Dicroglossidae-familien,«snegler» snegler som definert i nr. 6.2 i vedlegg I til forordning (EF) nr. 853/2004, og alle andre snegler i familien Helicidae, Hygromiidae eller Sphincterochilidae,
 
+►**M11**
+
 1. «insekter» insekter som definert i artikkel 2 nr. 27 i delegert forordning [(EU) 2022/2292](eu/32022r2292),
 2. «kjølefartøy» et kjølefartøy som definert i artikkel 2 nr. 43 i delegert forordning [(EU) 2022/2292](eu/32022r2292),
+
+◄**M11**
 
 1. «frysefartøy» et frysefartøy som definert i nr. 3.3 i vedlegg I til forordning (EF) nr. 853/2004,
 2. «fabrikkskip» et fabrikkskip som definert i nr. 3.2 i vedlegg I til forordning (EF) nr. 853/2004,
@@ -139,45 +201,45 @@ I denne forordningen menes med«slakteri» et slakteri som definert i nr. 1.16 i
 
 ### Artikkel 3. Standardmaler for sertifikater til bruk ved forflytning i Unionen, mellom medlemsstater og ved innførsel til Unionen
 
-1. Maler for sertifikater til bruk ved forflytning av dyr og produkter mellom medlemsstatene eller i Unionen skal inneholde felter for opplysningene angitt i standardmalen i kapittel 1 i vedlegg I.
+1\. Maler for sertifikater til bruk ved forflytning av dyr og produkter mellom medlemsstatene eller i Unionen skal inneholde felter for opplysningene angitt i standardmalen i kapittel 1 i vedlegg I.
 
-2. Maler for sertifikater til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, avlsmateriale, animalske biprodukter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum skal inneholde felter for opplysningene angitt i standardmalen i kapittel 3 i vedlegg I.
+2\. Maler for sertifikater til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, avlsmateriale, animalske biprodukter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum skal inneholde felter for opplysningene angitt i standardmalen i kapittel 3 i vedlegg I.
 
 ### Artikkel 4. Utfylling av sertifikater for dyr og varer beregnet på konsum
 
-1. Sertifikater til bruk ved forflytning av dyr og varer beregnet på konsum i Unionen eller mellom medlemsstater skal behørig fylles ut og underskrives av den offentlige veterinæren eller sertifikatutstederen i samsvar med de forklarende merknadene i kapittel 2 i vedlegg I.
+1\. Sertifikater til bruk ved forflytning av dyr og varer beregnet på konsum i Unionen eller mellom medlemsstater skal behørig fylles ut og underskrives av den offentlige veterinæren eller sertifikatutstederen i samsvar med de forklarende merknadene i kapittel 2 i vedlegg I.
 
-2. Sertifikater til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum skal behørig fylles ut og underskrives av den offentlige veterinæren eller sertifikatutstederen som vedkommende myndighet i et tredjeland har gitt fullmakt til å underskrive relevante sertifikater, i samsvar med de forklarende merknadene i kapittel 4 i vedlegg I.
+2\. Sertifikater til bruk ved innførsel til Unionen av dyr, produkter av animalsk opprinnelse, sammensatte produkter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum skal behørig fylles ut og underskrives av den offentlige veterinæren eller sertifikatutstederen som vedkommende myndighet i et tredjeland har gitt fullmakt til å underskrive relevante sertifikater, i samsvar med de forklarende merknadene i kapittel 4 i vedlegg I.
 
-3. Driftsansvarlige som har ansvar for forsendelser nevnt i nr. 1 og 2, skal gi vedkommende myndighet opplysninger om disse forsendelsene som beskrevet i del I i sertifikatmalene angitt i vedlegg II, III og IV i denne forordningen.
+3\. Driftsansvarlige som har ansvar for forsendelser nevnt i nr. 1 og 2, skal gi vedkommende myndighet opplysninger om disse forsendelsene som beskrevet i del I i sertifikatmalene angitt i vedlegg II, III og IV i denne forordningen.
 
-4. Ved anvendelse av denne forordningen skal vedkommende myndighet sikre at sertifikatene som inneholder en helseattestasjon, underskrives av den offentlige veterinæren.
+4\. Ved anvendelse av denne forordningen skal vedkommende myndighet sikre at sertifikatene som inneholder en helseattestasjon, underskrives av den offentlige veterinæren.
 
 ### Artikkel 5. Krav til sertifikater for forsendelser av dyr og varer beregnet på konsum
 
-1. Den offentlige veterinæren eller sertifikatutstederen skal fylle ut sertifikater for forsendelser av dyr og varer beregnet på konsum i samsvar med følgende krav:Sertifikatet skal være påført underskriften til den offentlige veterinæren eller sertifikatutstederen og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.Dersom sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren eller sertifikatutstederen, eller slettes helt fra sertifikatet.Sertifikatet skal bestå av et av følgende:Ett enkelt papirark.Flere ark som utgjør et integrert hele og ikke kan deles opp.Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom sertifikatet består av flere sammenhengende sider som nevnt i bokstav c) iii) i dette nummeret, skal hver side være påført den unike koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625, underskriften til den offentlige veterinæren eller sertifikatutstederen og det offisielle stempelet.Når det gjelder sertifikater til bruk ved forflytning av forsendelser i Unionen eller mellom medlemsstater, skal sertifikatet følge forsendelsen til den ankommer bestemmelsesstedet i Unionen.Når det gjelder sertifikater til bruk ved innførsel av forsendelser til Unionen, skal sertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.Sertifikatet skal utstedes før forsendelsen det gjelder forlater kontrollen til vedkommende myndighet som utsteder sertifikatet.Når det gjelder sertifikater til bruk ved innførsel til Unionen, skal sertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
+1\. Den offentlige veterinæren eller sertifikatutstederen skal fylle ut sertifikater for forsendelser av dyr og varer beregnet på konsum i samsvar med følgende krav:Sertifikatet skal være påført underskriften til den offentlige veterinæren eller sertifikatutstederen og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.Dersom sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren eller sertifikatutstederen, eller slettes helt fra sertifikatet.Sertifikatet skal bestå av et av følgende:Ett enkelt papirark.Flere ark som utgjør et integrert hele og ikke kan deles opp.Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom sertifikatet består av flere sammenhengende sider som nevnt i bokstav c) iii) i dette nummeret, skal hver side være påført den unike koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625, underskriften til den offentlige veterinæren eller sertifikatutstederen og det offisielle stempelet.Når det gjelder sertifikater til bruk ved forflytning av forsendelser i Unionen eller mellom medlemsstater, skal sertifikatet følge forsendelsen til den ankommer bestemmelsesstedet i Unionen.Når det gjelder sertifikater til bruk ved innførsel av forsendelser til Unionen, skal sertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.Sertifikatet skal utstedes før forsendelsen det gjelder forlater kontrollen til vedkommende myndighet som utsteder sertifikatet.Når det gjelder sertifikater til bruk ved innførsel til Unionen, skal sertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
 
-2. Som unntak fra nr. 1 bokstav h) kan en medlemsstat samtykke i at sertifikater utarbeides på et annet offisielt språk i Unionen og om nødvendig vedlegges en bekreftet oversettelse.
+2\. Som unntak fra nr. 1 bokstav h) kan en medlemsstat samtykke i at sertifikater utarbeides på et annet offisielt språk i Unionen og om nødvendig vedlegges en bekreftet oversettelse.
 
-3. Nr. 1 bokstav a)–e) får ikke anvendelse på elektroniske sertifikater som utstedes i samsvar med kravene i artikkel 39 nr. 1 i gjennomføringsforordning (EU) 2019/1715.
+3\. Nr. 1 bokstav a)–e) får ikke anvendelse på elektroniske sertifikater som utstedes i samsvar med kravene i artikkel 39 nr. 1 i gjennomføringsforordning (EU) 2019/1715.
 
-4. Nr. 1 bokstav b), c) og d) får ikke anvendelse på sertifikater som utstedes på papir og fylles ut i og skrives ut fra TRACES.
+4\. Nr. 1 bokstav b), c) og d) får ikke anvendelse på sertifikater som utstedes på papir og fylles ut i og skrives ut fra TRACES.
 
 ### Artikkel 6. Erstatning av sertifikater for forsendelser av dyr og varer beregnet på konsum
 
-1. Vedkommende myndigheter kan utstede et erstatningssertifikat for forsendelser av dyr og varer beregnet på konsum bare i tilfelle av administrative feil i det opprinnelige sertifikatet, eller dersom det opprinnelige sertifikatet er skadet eller har gått tapt.
+1\. Vedkommende myndigheter kan utstede et erstatningssertifikat for forsendelser av dyr og varer beregnet på konsum bare i tilfelle av administrative feil i det opprinnelige sertifikatet, eller dersom det opprinnelige sertifikatet er skadet eller har gått tapt.
 
-2. Vedkommende myndighet skal i erstatningssertifikatet ikke endre opplysninger i det opprinnelige sertifikatet med hensyn til identifikasjon og sporbarhet av forsendelsen og garantier som er gitt for forsendelsen i det opprinnelige sertifikatet.
+2\. Vedkommende myndighet skal i erstatningssertifikatet ikke endre opplysninger i det opprinnelige sertifikatet med hensyn til identifikasjon og sporbarhet av forsendelsen og garantier som er gitt for forsendelsen i det opprinnelige sertifikatet.
 
-3. I erstatningssertifikatet skal vedkommende myndighettydelig vise til den unike koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625 og utstedelsesdatoen til det opprinnelige sertifikatet og tydelig angi at det erstatter det opprinnelige sertifikatet,angi et nytt sertifikatnummer som skiller seg fra nummeret til det opprinnelige sertifikatet,angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige sertifikatet,framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningssertifikat som sendes inn via TRACES.
+3\. I erstatningssertifikatet skal vedkommende myndighettydelig vise til den unike koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning (EU) 2017/625 og utstedelsesdatoen til det opprinnelige sertifikatet og tydelig angi at det erstatter det opprinnelige sertifikatet,angi et nytt sertifikatnummer som skiller seg fra nummeret til det opprinnelige sertifikatet,angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige sertifikatet,framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningssertifikat som sendes inn via TRACES.
 
-4. Ved innførsel av forsendelser til Unionen kan vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen avstå fra å be den driftsansvarlige som har ansvaret for forsendelsen, om å framlegge et erstatningssertifikat dersom opplysninger om mottakeren, importøren, grensekontrollstasjonen for innførsel til Unionen eller transportmiddelet endres etter at sertifikatet er utstedt, og den driftsansvarlige som har ansvaret for forsendelsen, framlegger de nye opplysningene.
+4\. Ved innførsel av forsendelser til Unionen kan vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen avstå fra å be den driftsansvarlige som har ansvaret for forsendelsen, om å framlegge et erstatningssertifikat dersom opplysninger om mottakeren, importøren, grensekontrollstasjonen for innførsel til Unionen eller transportmiddelet endres etter at sertifikatet er utstedt, og den driftsansvarlige som har ansvaret for forsendelsen, framlegger de nye opplysningene.
 
 ### Artikkel 7. Mal for kombinert helsesertifikat/offisielt sertifikat til bruk ved forflytning i Unionen og mellom medlemsstater av visse produkter av animalsk opprinnelse beregnet på konsum
 
-1. Helsesertifikatet nevnt i artikkel 1 nr. 3 bokstav a) i) som skal brukes ved forflytning i Unionen av produkter av animalsk opprinnelse beregnet på konsum som det er tillatt å flytte fra en restriksjonssone som omfattes av nødtiltak eller tiltak for sykdomsbekjempelse, eller som stammer fra dyr av arter som omfattes av disse tiltakene, skal følge malen INTRA-EMERGENCY utarbeidet i samsvar med malen i kapittel 1 i vedlegg II.
+1\. Helsesertifikatet nevnt i artikkel 1 nr. 3 bokstav a) i) som skal brukes ved forflytning i Unionen av produkter av animalsk opprinnelse beregnet på konsum som det er tillatt å flytte fra en restriksjonssone som omfattes av nødtiltak eller tiltak for sykdomsbekjempelse, eller som stammer fra dyr av arter som omfattes av disse tiltakene, skal følge malen INTRA-EMERGENCY utarbeidet i samsvar med malen i kapittel 1 i vedlegg II.
 
-2. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav a) ii) som skal brukes ved forflytning mellom medlemsstater av uflådd viltlevende storvilt beregnet på konsum, skal følge malen INTRA-UNSKINNED LARGE WILD GAME utarbeidet i samsvar med malen i kapittel 2 i vedlegg II.
+2\. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav a) ii) som skal brukes ved forflytning mellom medlemsstater av uflådd viltlevende storvilt beregnet på konsum, skal følge malen INTRA-UNSKINNED LARGE WILD GAME utarbeidet i samsvar med malen i kapittel 2 i vedlegg II.
 
 ### Artikkel 8. Maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen av ferskt kjøtt fra hov- og klovdyr beregnet på konsum
 
@@ -187,9 +249,13 @@ De kombinerte helsesertifikatene/offisielle sertifikatene nevnt i artikkel 1 nr.
 
 De kombinerte helsesertifikatene/offisielle sertifikatene nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av kjøtt fra fjørfe, strutsefugler og annet fuglevilt, egg og eggprodukter beregnet på konsum, skal følge en av følgende maler, avhengig av hvilke arter og produktkategorier de gjelder:POU, utarbeidet i samsvar med malen i kapittel 13 i vedlegg III, for ferskt kjøtt beregnet på konsum, unntatt kvernet kjøtt og mekanisk utbeinet kjøtt, fra annet fjørfe enn strutsefugler.POU-MI/MSM, utarbeidet i samsvar med malen i kapittel 14 i vedlegg III, for kvernet kjøtt og mekanisk utbeinet kjøtt be-regnet på konsum, fra annet fjørfe enn strutsefugler.RAT, utarbeidet i samsvar med malen i kapittel 15 i vedlegg III, for ferskt kjøtt beregnet på konsum, unntatt kvernet kjøtt og mekanisk utbeinet kjøtt, fra strutsefugler.RAT-MI/MSM, utarbeidet i samsvar med malen i kapittel 16 i vedlegg III, for kvernet kjøtt og mekanisk utbeinet kjøtt beregnet på konsum, fra strutsefugler.GBM, utarbeidet i samsvar med malen i kapittel 17 i vedlegg III, for ferskt kjøtt beregnet på konsum, unntatt kvernet kjøtt og mekanisk utbeinet kjøtt, fra fuglevilt.GBM-MI/MSM, utarbeidet i samsvar med malen i kapittel 18 i vedlegg III, for kvernet kjøtt og mekanisk utbeinet kjøtt beregnet på konsum, fra fuglevilt.E, utarbeidet i samsvar med malen i kapittel 19 i vedlegg III, for egg beregnet på konsum.EP, utarbeidet i samsvar med malen i kapittel 20 i vedlegg III, for eggprodukter beregnet på konsum.
 
+►**C1**
+
 ### Artikkel 10. Maler for offisielle sertifikater til bruk ved innførsel til Unionen av ferskt kjøtt beregnet på konsum, unntatt mekanisk utbeinet kjøtt, fra viltlevende dyr av leporide-familien, visse viltlevende landpattedyr og oppdrettskaniner
 
 De offisielle sertifikatene nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av ferskt kjøtt beregnet på konsum, unntatt mekanisk utbeinet kjøtt, fra viltlevende dyr av leporide-familien, visse viltlevende landpattedyr, og oppdrettskaniner, skal følge en av følgende maler, avhengig av hvilke arter og produktkategorier de gjelder:
+
+◄**C1**
 
 1. WL, utarbeidet i samsvar med malen i kapittel 21 i vedlegg III, for ferskt kjøtt beregnet på konsum, fra viltlevende dyr av leporide-familien (kaniner og harer), unntatt kvernet kjøtt, mekanisk utbeinet kjøtt og slakteavfall, unntatt fra uflådde dyr av leporide-familien der de indre organene ikke er tatt ut.
 2. WM, utarbeidet i samsvar med malen i kapittel 22 i vedlegg III, for ferskt kjøtt beregnet på konsum, unntatt slakteavfall, kvernet kjøtt og mekanisk utbeinet kjøtt, fra andre viltlevende landpattedyr enn hov- og klovdyr og dyr av leporide-familien.
@@ -209,23 +275,31 @@ Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 
 
 ### Artikkel 14. Mal for kombinert helsesertifikat/offisielt sertifikat og maler for offisielle sertifikater til bruk ved innførsel til Unionen av levende fisk, levende krepsdyr, produkter av animalsk opprinnelse fra disse dyrene og visse fiskerivarer beregnet på konsum
 
-1. Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av levende fisk, levende krepsdyr og produkter av animalsk opprinnelse fra disse dyrene beregnet på konsum, skal følge malen FISH-CRUST-HC utarbeidet i samsvar med malen i kapittel 28 i vedlegg III.
+1\. Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av levende fisk, levende krepsdyr og produkter av animalsk opprinnelse fra disse dyrene beregnet på konsum, skal følge malen FISH-CRUST-HC utarbeidet i samsvar med malen i kapittel 28 i vedlegg III.
 
-2. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes for fiskerivarer beregnet på konsum som er fanget av fartøyer som fører en medlemsstats flagg, og som er omlastet i tredjeland med eller uten lagring, skal følge malen EU-FISH utarbeidet i samsvar med malen i kapittel 29 i vedlegg III.
+2\. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes for fiskerivarer beregnet på konsum som er fanget av fartøyer som fører en medlemsstats flagg, og som er omlastet i tredjeland med eller uten lagring, skal følge malen EU-FISH utarbeidet i samsvar med malen i kapittel 29 i vedlegg III.
 
-3. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal underskrives av skipsføreren og brukes ved innførsel til Unionen av fiskerivarer eller fiskerivarer fra muslinger beregnet på konsum som innføres til Unionen direkte fra et kjølefartøy, frysefartøy eller fabrikkskip som fører et tredjelands flagg som fastsatt i artikkel 21 nr. 2 i delegert forordning [(EU) 2022/2292](eu/32022r2292), skal følge malen FISH/MOL-CAP utarbeidet i samsvar med malen i kapittel 30 i vedlegg III.
+►**M11**
+
+3\. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal underskrives av skipsføreren og brukes ved innførsel til Unionen av fiskerivarer eller fiskerivarer fra muslinger beregnet på konsum som innføres til Unionen direkte fra et kjølefartøy, frysefartøy eller fabrikkskip som fører et tredjelands flagg som fastsatt i artikkel 21 nr. 2 i delegert forordning [(EU) 2022/2292](eu/32022r2292), skal følge malen FISH/MOL-CAP utarbeidet i samsvar med malen i kapittel 30 i vedlegg III.
+
+◄**M11**
 
 ### Artikkel 15. Mal for kombinert helsesertifikat/offisielt sertifikat og mal for offisielt sertifikat til bruk ved innførsel til Unionen av levende muslinger, pigghuder, sekkedyr, sjøsnegler, produkter av animalsk opprinnelse fra disse dyrene og visse foredlede muslinger beregnet på konsum
 
-1. Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av levende muslinger, pigghuder, sekkedyr, sjøsnegler og produkter av animalsk opprinnelse fra disse dyrene beregnet på konsum, skal følge malen MOL-HC utarbeidet i samsvar med malen i kapittel 31 i vedlegg III.
+1\. Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av levende muslinger, pigghuder, sekkedyr, sjøsnegler og produkter av animalsk opprinnelse fra disse dyrene beregnet på konsum, skal følge malen MOL-HC utarbeidet i samsvar med malen i kapittel 31 i vedlegg III.
 
-2. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av foredlede muslinger beregnet på konsum som tilhører arten Acanthocardia tuberculatum, skal følge malen MOL-AT utarbeidet i samsvar med malen i kapittel 32 i vedlegg III.
+2\. Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av foredlede muslinger beregnet på konsum som tilhører arten Acanthocardia tuberculatum, skal følge malen MOL-AT utarbeidet i samsvar med malen i kapittel 32 i vedlegg III.
 
 ### Artikkel 16. Maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen av rå melk, melkeprodukter, råmelk og råmelkbaserte produkter beregnet på konsum
 
 De kombinerte helsesertifikatene/offisielle sertifikatene nevnt i artikkel 1 nr. 3 bokstav b) ii) som skal brukes ved innførsel til Unionen av rå melk, melkeprodukter, råmelk og råmelkbaserte produkter beregnet på konsum, skal følge en av følgende maler, avhengig av hvilke arter og produktkategorier de gjelder:MILK-RM, utarbeidet i samsvar med malen i kapittel 33 i vedlegg III, for rå melk beregnet på konsum.
 
+►**M11**
+
 1. MILK-RMP/NT, utarbeidet i samsvar med malen i kapittel 34 i vedlegg III, for melkeprodukter beregnet på konsum som er framstilt av rå melk eller meieriprodukter derav, eller begge, som ikke skal gjennomgå en særlig risikoreduserende behandling.
+
+◄**M11**
 
 1. DAIRY-PRODUCTS-PT, utarbeidet i samsvar med malen i kapittel 35 i vedlegg III, for melkeprodukter beregnet på konsum som skal pasteuriseres.
 2. DAIRY-PRODUCTS-ST, utarbeidet i samsvar med malen i kapittel 36 i vedlegg III, for melkeprodukter beregnet på konsum som skal gjennomgå en annen særlig risikoreduserende behandling enn pasteurisering.
@@ -240,9 +314,13 @@ Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal bruk
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) iii) som skal brukes ved innførsel til Unionen av snegler beregnet på konsum, skal følge malen SNS utarbeidet i samsvar med malen i kapittel 40 i vedlegg III.
 
+►**M14**
+
 ### Artikkel 19. Mal for offisielt sertifikat til bruk ved innførsel til Unionen av gelatin beregnet på konsum, annet enn gelatinkapsler som ikke er fremstilt av bein fra drøvtyggere
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av gelatin beregnet på konsum, annet enn gelatinkapsler som ikke er fremstilt av bein fra drøvtyggere, skal følge malen GEL utarbeidet i samsvar med malen i kapittel 41 i vedlegg III.
+
+◄**M14**
 
 ### Artikkel 20. Mal for offisielt sertifikat til bruk ved innførsel til Unionen av kollagen beregnet på konsum
 
@@ -260,9 +338,13 @@ Det kombinerte helsesertifikatet/offisielle sertifikatet nevnt i artikkel 1 nr. 
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av honning og andre bi-avlsprodukter beregnet på konsum, skal følge malen HON utarbeidet i samsvar med malen i kapittel 45 i vedlegg III.
 
+►**M14**
+
 ### Artikkel 24. Mal for offisielt sertifikat til bruk ved innførsel til Unionen av høyt foredlede produkter som beskrevet i avsnitt XVI i vedlegg III til forordning (EF) nr. 853/2004, beregnet på konsum
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av høyt foredlede produkter, som beskrevet i avsnitt XVI i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853), beregnet på konsum, skal følge malen HRP utarbeidet i samsvar med malen i kapittel 46 i vedlegg III.
+
+◄**M14**
 
 ### Artikkel 25. Mal for offisielt sertifikat til bruk ved innførsel til Unionen av krypdyrkjøtt beregnet på konsum
 
@@ -276,21 +358,27 @@ Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) iii) som skal br
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av andre produkter av animalsk opprinnelse fra tamme hov- og klovdyr, fjørfe, kaniner eller fiskerivarer som er beregnet på konsum, og som ikke omfattes av artikkel 8–26, skal følge malen PAO utarbeidet i samsvar med malen i kapittel 49 i vedlegg III.
 
+►**M14**
+
 ### Artikkel 28. Mal for kombinert helsesertifikat / offisielt sertifikat til bruk ved innførsel til Unionen av ikke-langtidsholdbare sammensatte produkter beregnet på konsum og langtidsholdbare sammensatte produkter beregnet på konsum som inneholder kjøttprodukter, uansett mengde, unntatt gelatin som ikke er fremstilt av bein fra drøvtyggere, kollagen som ikke er fremstilt av bein fra drøvtyggere og høyt foredlede produkter, eller råmelk-baserte produkter – uansett mengde
 
-1. Det kombinerte helsesertifikatet / offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av ikke-langtidsholdbare sammensatte produkter beregnet på konsum, skal følge malen COMP utarbeidet i samsvar med malen i kapittel 50 i vedlegg III.
+1\. Det kombinerte helsesertifikatet / offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav b) i) som skal brukes ved innførsel til Unionen av ikke-langtidsholdbare sammensatte produkter beregnet på konsum, skal følge malen COMP utarbeidet i samsvar med malen i kapittel 50 i vedlegg III.
 
-2. Sertifikatkravene nevnt i først ledd får også anvendelse ved innførsel til Unionen av langtidsholdbare sammensatte produkter beregnet på konsum som inneholder:Kjøttprodukter, uansett mengde, unntatt gelatin som ikke er fremstilt av bein fra drøvtyggere, kollagen som ikke er fremstilt av bein fra drøvtyggere og høyt foredlede produkter,Råmelk-baserte produkter – uansett mengde.
+2\. Sertifikatkravene nevnt i først ledd får også anvendelse ved innførsel til Unionen av langtidsholdbare sammensatte produkter beregnet på konsum som inneholder:Kjøttprodukter, uansett mengde, unntatt gelatin som ikke er fremstilt av bein fra drøvtyggere, kollagen som ikke er fremstilt av bein fra drøvtyggere og høyt foredlede produkter,Råmelk-baserte produkter – uansett mengde.
+
+◄**M14**
 
 ### Artikkel 29. Mal for offisielt sertifikat til bruk ved innførsel til Unionen av spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum
 
 Det offisielle sertifikatet nevnt i artikkel 1 nr. 3 bokstav c) som skal brukes ved innførsel til Unionen av spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum, skal følge malen SPR utarbeidet i samsvar med malen i kapittel 51 i vedlegg III.
 
+►**M14**
+
 ### Artikkel 30. Mal for helsesertifikat til bruk ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av ikke-langtidsholdbare sammensatte produkter beregnet på konsum og langtidsholdbare sammensatte produkter beregnet på konsum, som inneholder kjøttprodukter, uansett mengde, unntatt gelatin, kollagen og høyt foredlede produkter, eller råmelk-baserte produkter – uansett mengde
 
-1. Helsesertifikatet nevnt i artikkel 1 nr. 3 bokstav d) som skal brukes ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av ikke-langtidsholdbare sammensatte produkter beregnet på konsum, skal følge malen TRANSIT-COMP utarbeidet i samsvar med malen i kapittel 52 i vedlegg III.
+1\. Helsesertifikatet nevnt i artikkel 1 nr. 3 bokstav d) som skal brukes ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av ikke-langtidsholdbare sammensatte produkter beregnet på konsum, skal følge malen TRANSIT-COMP utarbeidet i samsvar med malen i kapittel 52 i vedlegg III.
 
-2. Sertifikatkravene nevnt i først ledd får også anvendelse ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av langtidsholdbare sammensatte produkter beregnet på konsum som inneholder:Kjøttprodukter, uansett mengde, unntatt gelatin, kollagen og høyt foredlede produkter,Råmelk-baserte produkter – uansett mengde.
+2\. Sertifikatkravene nevnt i først ledd får også anvendelse ved transitt gjennom Unionen til et tredjeland, enten direkte eller etter lagring i Unionen, av langtidsholdbare sammensatte produkter beregnet på konsum som inneholder:Kjøttprodukter, uansett mengde, unntatt gelatin, kollagen og høyt foredlede produkter,Råmelk-baserte produkter – uansett mengde.
 
 ### Artikkel 31. Maler for helsesertifikater til bruk ved kontroll ante mortem på opprinnelsesenheten
 
@@ -300,23 +388,37 @@ Helsesertifikatene nevnt i artikkel 1 nr. 3 bokstav e) som skal brukes ved kontr
 
 Helsesertifikatet nevnt i artikkel 1 nr. 3 bokstav e) som skal brukes ved nødslakting utenfor slakteriet i samsvar med artikkel 4 i delegert forordning [(EU) 2019/624](eu/32019r0624), skal følge malen i kapittel 5 i vedlegg IV.
 
+◄**M14**
+
 ### Artikkel 33. Mal for privat erklæring fra den driftsansvarlige for langtidsholdbare sammensatte produkter som inneholder andre foredlede produkter av animalsk opprinnelse enn tilberedt kjøtt
+
+►**M11**
 
 Malen for den private erklæringen nevnt i artikkel 1 nr. 3 bokstav f) som skal brukes av den driftsansvarlige ved innførsel til Unionen av langtidsholdbare sammensatte produkter i samsvar med artikkel 22 i delegerte forordning [(EU) 2022/2292](eu/32022r2292), skal følge malen i vedlegg V.
 
+◄**M11**
+
 ### Artikkel 34. Oppheving
 
-1. Forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240) oppheves med virkning fra 21. april 2021.
+1\. Forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240) oppheves med virkning fra 21. april 2021.
 
-2. Henvisninger til disse opphevede rettsaktene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg VI.
+2\. Henvisninger til disse opphevede rettsaktene skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg VI.
 
 ### Artikkel 35. Overgangsbestemmelser
 
-1. Forsendelser av produkter av animalsk opprinnelse, sammensatte produkter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028) og gjennomføringsforordning [(EU) 2019/628](eu/32019r0628), skal godkjennes for innførsel til Unionen fram til 15. mars 2022, forutsatt at sertifikatet er underskrevet av personen som har fullmakt til å underskrive sertifikatet i samsvar med nevnte forordning og gjennomføringsforordning, før 15. januar 2022.
+►**M3**
 
-2. Den harmoniserte malen for sertifikater til bruk ved forflytning innenfor Unionen som er fastsatt i forordning [(EF) nr. 599/2004](eu/32004r0599), skal godkjennes for forflytning innenfor Unionen fram til 17. oktober 2021.
+1\. Forsendelser av produkter av animalsk opprinnelse, sammensatte produkter, spirer beregnet på konsum og frø beregnet på produksjon av spirer beregnet på konsum som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i kommisjonsforordning [(EU) nr. 28/2012](eu/32012r0028) og gjennomføringsforordning [(EU) 2019/628](eu/32019r0628), skal godkjennes for innførsel til Unionen fram til 15. mars 2022, forutsatt at sertifikatet er underskrevet av personen som har fullmakt til å underskrive sertifikatet i samsvar med nevnte forordning og gjennomføringsforordning, før 15. januar 2022.
 
-3. Henvisninger til bestemmelser i opphevede rettsakter i sertifikatene og i vedlegget til forordning [(EF) nr. 599/2004](eu/32004r0599) skal forstås som henvisninger til tilsvarende erstatningsbestemmelser og leses som angitt i sammenligningstabellene der det er relevant.
+◄**M3**
+
+►**M2**
+
+2\. Den harmoniserte malen for sertifikater til bruk ved forflytning innenfor Unionen som er fastsatt i forordning [(EF) nr. 599/2004](eu/32004r0599), skal godkjennes for forflytning innenfor Unionen fram til 17. oktober 2021.
+
+3\. Henvisninger til bestemmelser i opphevede rettsakter i sertifikatene og i vedlegget til forordning [(EF) nr. 599/2004](eu/32004r0599) skal forstås som henvisninger til tilsvarende erstatningsbestemmelser og leses som angitt i sammenligningstabellene der det er relevant.
+
+◄**M2**
 
 ### Artikkel 36. Ikrafttredelse og anvendelse
 
@@ -328,6 +430,16 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 Utferdiget i Brussel 16. desember 2020.
 
+|  |  |
+| --- | --- |
+| *For Kommisjonen* |  |
+|  |  |
+| Ursula VON DER LEYEN |  |
+|  |  |
+| *President* |  |
+
+For å lese vedleggene til rettsakten se PDF-filene nedenfor.
+
 ### Forordninger i PDF
 
 > Endret ved forskrifter [12 aug 2022 nr. 1444](forskrift/2022-08-12-1444), [15 feb 2023 nr. 199](forskrift/2023-02-15-199), [10 jan 2024 nr. 55](forskrift/2024-01-10-55), [23 juli 2024 nr. 1824](forskrift/2024-07-23-1824) (i kraft 29 juli 2024), [22 aug 2024 nr. 2002](forskrift/2024-08-22-2002), [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024), [17 juni 2025 nr. 1058](forskrift/2025-06-17-1058), [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).
@@ -336,46 +448,84 @@ Nedenfor gjengis forordning [(EU) 2020/2235](eu/32020r2235), forordning [(EU) 20
 
 ### Forordning (EU) 2020/2235
 
+For å lese forordning [(EU) 2020/2235](eu/32020r2235), med sertifikatene i vedleggene, se her: [Pdf-fil](static/SF/32020r2235u-01.pdf)
+
 ### Forordning (EU) 2021/617
+
+For å lese forordning [(EU) 2021/617](eu/32021r0617), med endringene til vedlegg III kap. 28, se her: [Pdf-fil](static/SF/32021r0617u-01.pdf)
 
 ### Forordning (EU) 2021/1469
 
+For å lese forordning [(EU) 2021/1469](eu/32021r1469) (dansk utgave), med nytt helsesertifikat i vedlegg III kap. 53, se her: [Pdf-fil](static/SF/32021r1469d-01.pdf)
+
 ### Forordning [(EU) 2021/1471](eu/32021r1471)
+
+For å lese forordning [(EU) 2021/1471](eu/32021r1471) (dansk utgave), som endrer helsesertifikater i vedlegg I kap. 4, vedlegg II kap. 1, vedlegg III kap. 1–13, 15, 17, 19–28, 30–38, 41–44, 48–50 og 52, og vedlegg V, se her: [Pdf-fil](static/SF/32021r1471d-01.pdf)
 
 ### Forordning (EU) 2022/7
 
+For å lese forordning [(EU) 2022/7](eu/32022r0007) (dansk utgave), som oppdaterer den private erklæringen i vedlegg V, se her: [Pdf-fil](static/SF/32022r0007d-01.pdf)
+
 ### Forordning [(EU) 2022/36](eu/32022r0036)
+
+For å lese forordning [(EU) 2022/36](eu/32022r0036) (dansk utgave), som oppdaterer vedlegg III kap. 1, 2, 24–28, 31, 33–35, 41–45, 50 og 52, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32022r0036d-01.pdf)
 
 ### Forordning [(EU) 2022/854](eu/32022r0854)
 
+For å lese forordning [(EU) 2022/854](eu/32022r0854) (dansk utgave), med endringene til vedlegg III kap. 1, 33, 34 og 35, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32022r0854d-01.pdf)
+
 ### Forordning [(EU) 2022/1219](eu/32022r1219)
+
+For å lese forordning [(EU) 2022/1219](eu/32022r1219) (dansk utgave), med endringene til vedlegg III kap. 50 og 52, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32022r1219d-01.pdf)
 
 ### Forordning [(EU) 2022/2504](eu/32022r2504)
 
+For å lese forordning [(EU) 2022/2504](eu/32022r2504), med endringene til vedlegg III kap. 30, 31 og 46, vedlegg V, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32022r2504d-01.pdf)
+
 ### Forordning [(EU) 2023/2744](eu/32023r2744)
+
+For å lese forordning [(EU) 2023/2744](eu/32023r2744) (dansk utgave), med endringene til vedlegg I kap. 4, alle sertifikatene i vedlegg III, vedlegg V, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32023r2744d-01.pdf)
 
 > Tilføyd ved forskrift [10 jan 2024 nr. 55](forskrift/2024-01-10-55).
 
 ### Forordning (EU) 2024/399
 
+For å lese forordning [(EU) 2024/399](eu/32024r0399) (dansk utgave), med endringene til vedlegg III kap. 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 15, 19, 20, 23, 24, 25, 26, 27, 28, 33, 34, 35, 36, 37, 38, 45 og 49, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32024r0399d-01.pdf)
+
 > Tilføyd ved forskrift [1 mars 2024 nr. 373](forskrift/2024-03-01-373) (i kraft 3 sep 2024).
 
 ### Forordning [(EU) 2024/1333](eu/32024r1333)
+
+For å lese forordning [(EU) 2024/1333](eu/32024r1333) (dansk utgave), med endringene til vedlegg III kap. 28 og 29, se her: [Pdf-fil](static/SF/32024r1333d-01.pdf)
 
 > Tilføyd ved forskrift [23 juli 2024 nr. 1824](forskrift/2024-07-23-1824) (i kraft 29 juli 2024).
 
 ### Forordning [(EU) 2024/1874](eu/32024r1874)
 
+For å lese forordning [(EU) 2024/1874](eu/32024r1874) (dansk utgave), med endringene til vedlegg III kap. 41, 46, 50, 52, alle sertifikatene i vedlegg IV, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32024r1874d-01.pdf)
+
 > Tilføyd ved forskrift [23 juli 2024 nr. 1824](forskrift/2024-07-23-1824) (i kraft 29 juli 2024).
 
 ### Forordning [(EU) 2024/2020](eu/32024r2020)
+
+For å lese forordning [(EU) 2024/2020](eu/32024r2020) (dansk utgave), med endringene til vedlegg III kap. 12, 29, 30 og 31, se her: [Pdf-fil](static/SF/32024r2020d-01.pdf)
 
 > Tilføyd ved forskrift [22 aug 2024 nr. 2002](forskrift/2024-08-22-2002).
 
 ### Forordning [(EU) 2025/636](eu/32025r0636)
 
+For å lese forordning [(EU) 2025/636](eu/32025r0636) (dansk utgave), med endringene til vedlegg III kap. 1, 2, 3, 4, 5, 7, 10, 11, 13, 15, 19, 20, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 45, 49, vedlegg V, og gir en overgangsordning, se her: [Pdf-fil](static/SF/32025r0636d-01.pdf)
+
+►**C2**
+
+Korrigering av forordning [(EU) 2025/636](eu/32025r0636) (dansk utgave), med endring av vedlegg III kap. 27, se her: [pdf-fil](static/SF/32025r0636d-02.pdf)
+
+◄**C2**
+
 > Tilføyd ved forskrift [17 juni 2025 nr. 1058](forskrift/2025-06-17-1058), endret ved forskrift [20 aug 2025 nr. 1692](forskrift/2025-08-20-1692).
 
 ### Forordning [(EU) 2026/318](eu/32026r0318)
+
+For å lese forordning [(EU) 2026/318](eu/32026r0318), med endringene i vedlegg III, se her: [Pdf-fil](static/SF/32026r0318d-01.pdf).
 
 > Tilføyd ved forskrift [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).

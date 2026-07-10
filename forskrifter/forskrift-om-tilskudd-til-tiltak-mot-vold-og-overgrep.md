@@ -42,6 +42,8 @@ Direktoratet rapporterer til departementet på måloppnåelse i tilskuddsordning
 
 Frivillige organisasjoner og andre aktører som er registrert i Enhetsregisteret på søknadstidspunktet, samt kommuner og interkommunale samarbeid, kan søke om tilskudd. Som frivillige organisasjoner regnes foreninger, stiftelser eller andre organisasjoner som ikke er organisert av offentlige myndigheter eller har økonomisk formål, og som baserer en vesentlig del av arbeidet sitt på frivillig innsats. Frivillige organisasjoner kan ikke ta ut utbytte. Et eventuelt overskudd kan bare benyttes til det sosiale formålet. Organisasjoner som er aksjeselskaper må legge ved dokumentasjon som viser at de oppfyller disse vilkårene. Det gis ikke tilskudd til privatpersoner, enkeltpersonforetak eller virksomheter som er drevet på forretningsmessig basis.
 
+*Særlig om driftstilskudd*
+
 Organisasjoner og stiftelser som ved sine vedtekter, mål og planer kan dokumentere at formålet med ordningen er deres kjernevirksomhet, kan søke om driftstilskudd.
 
 Organisasjonens virksomhet skal være et supplement til offentlige tjenester og/eller utfylle andre aktørers innsats. Virksomheten skal ikke erstatte eller overlappe ordinære behandlingstilbud til barn og familier i målgruppen.
@@ -56,7 +58,11 @@ Det kan søkes om tilskudd til drift og prosjekter.
 
 Det kan søkes om tilskudd for inntil tre år. Midlene utbetales for ett år av gangen, med forbehold om Stortingets årlige budsjettvedtak. For søknader som innvilges tilskudd for flere år, er det ikke nødvendig å søke om midler hvert år.
 
+*Driftstilskudd*
+
 Driftstilskudd blir fastsatt på bakgrunn av størrelsen på bevilgningen, og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,arbeidsplan og budsjett for tilskuddsåret,organisasjonens mulighet til å oppnå målet med ordningen (se punkt 1),målgruppe og nedslagsfelt, ogorganisasjonens størrelse og utbredelse.
+
+*Prosjekttilskudd*
 
 Det kan gis prosjekttilskudd til tidsavgrensede satsinger og tiltak med stor sannsynlighet for god måloppnåelse.
 
@@ -92,11 +98,15 @@ Fristen for å sende inn regnskap og rapport bestemmes av Bufdir, og står i til
 
 Krav til innholdet i rapporten fremgår av tilskuddsbrevet og rapporteringsskjema. Bufdir kan stille særskilte krav til innholdet i rapporteringen fra enkeltmottakere av tilskudd. Slike krav vil stå i av tilskuddsbrevet eller inngå som en del av oppfølgingen av rapporten. I enkelte tilfeller vil statusrapportering underveis kunne kreves.
 
+*Driftstilskudd*
+
 Mottakere av driftstilskudd kan sende inn virksomhetens årsmelding/årsrapport i stedet for en egen rapport om bruken av tilskuddet.
 
 Mottakere av driftstilskudd skal også sende inn spesifisert årsregnskap med revisjonsberetning. Årsregnskapet skal være attestert av statsautorisert revisor. Til revisor kan ikke velges noen som er inhabil, se [lov om revisjon og revisorer (revisorloven)](lov/2020-11-20-128).
 
 Årsregnskapet må være spesifisert slik at det går frem at tilskuddet er nyttet etter forutsetningene. Driftstilskudd som er gitt etter dette regelverket og utbetalt i tilskuddsåret, skal være spesifisert i årsregnskapet eller i note til dette.
+
+*Prosjekttilskudd*
 
 Mottakere av prosjekttilskudd skal sende inn et eget regnskap for prosjektet. Regnskapet skal være revidert, og revisjonen skal omfatte hele det mottatte tilskuddet og gjelde for hele prosjektperioden. Mottar et prosjekt kr 200 000 eller mer i tilskudd, må regnskapet for prosjektet være attestert av statsautorisert revisor. Til revisor kan ikke velges noen som er inhabil, se [lov om revisjon og revisorer (revisorloven)](lov/2020-11-20-128).
 

@@ -66,3 +66,5 @@ Loven gjelder ikke for ladepunkter og energistasjoner som er etablert før loven
 ## § 7. Ikrafttreden
 
 Loven gjelder fra den tid1 Kongen bestemmer.
+
+1 Fra 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1276](forskrift/2020-06-19-1276).

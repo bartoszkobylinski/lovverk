@@ -418,6 +418,8 @@ I forbindelse med avhør av mistenkte skal det utarbeides en personaliarapport s
 
 I den grad det anses nødvendig, skal rapporten dessuten inneholde:
 
+Foreldrenes navn, mistenktes statsborgerskap, stilling og arbeidssted, formue og inntekt, samlivsforhold og navn på ektefelle og samboende, forsørgelsesbyrde, skolegang og faglig utdannelse, offentlige bevilgninger og sertifikater, vernepliktsforhold, pensjonsrettigheter, tidligere påtaleunnlatelser, straffedommer og forelegg, tidspunkt for eventuell løslatelse fra soning og ikke avgjorte saker.
+
 Er mistenkte under 18 år, skal rapporten også inneholde opplysning om foreldrenes bosted. Dersom foreldrene ikke bor sammen, skal det opplyses hvem som har foreldreansvaret. Etter omstendighetene skal rapporten også gi opplysning om mistenktes personlige forhold, særlig i hjem og skole, og om det har vært truffet tiltak overfor mistenkte med hjemmel i [barnevernloven av 17. juli 1992 nr. 100](lov/1992-07-17-100).
 
 Opplysningene som nevnt foran skal søkes innhentet ved avhøret av mistenkte, jf. [§ 8-1](forskrift/1985-06-28-1679/§8-1) tredje ledd, og ellers på annen hensiktsmessig måte. Innhenting av mer omfattende opplysninger om mistenktes personlige forhold skal skje i form av personundersøkelse, jf. [kap. 14](forskrift/1985-06-28-1679/kap14).

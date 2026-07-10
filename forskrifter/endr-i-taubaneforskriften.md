@@ -24,23 +24,21 @@ eu_basis: []
 
 ## I
 
-I dette kapittelet gis nærmere bestemmelser om den administrative sanksjonen overtredelsesgebyr etter [taubaneloven § 19](lov/2017-05-22-29/§19).
+I [forskrift 20. desember 2022 nr. 2383 om taubaner (taubaneforskriften)](forskrift/2022-12-20-2383) gjøres følgende endringer:
 
-[Forvaltningslovens](lov/1967-02-10) bestemmelser i [§§ 43](lov/1967-02-10/§43), [44](lov/1967-02-10/§44), [46](lov/1967-02-10/§46), [47](lov/1967-02-10/§47), [48](lov/1967-02-10/§48), [49](lov/1967-02-10/§49) og [50](lov/1967-02-10/§50) om administrative sanksjoner gjelder så langt ikke annet er bestemt her.
+Nytt [kapittel 7](forskrift/2022-12-20-2383/kap7) skal lyde:
 
-Opplysninger som tilsynsmyndigheten mottar i medhold av [taubaneloven § 10](lov/2017-05-22-29/§10), kan ikke brukes som bevis i en senere sak om overtredelsesgebyr mot den som har gitt opplysningene.
+Nåværende «[Kapittel 7](forskrift/2022-12-20-2383/kap7). Forskjellige bestemmelser», blir nytt «[Kapittel 8](forskrift/2022-12-20-2383/kap8). Avsluttende bestemmelser».
 
-Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter [taubaneloven](lov/2017-05-22-29) eller denne forskriften, eller individuelle avgjørelser i medhold av [taubaneloven](lov/2017-05-22-29) eller denne forskriften, særlig[taubaneloven § 5](lov/2017-05-22-29/§5) om taubanevirksomhetens plikter[taubaneloven § 6](lov/2017-05-22-29/§6) om krav om driftstillatelse[taubaneloven § 7](lov/2017-05-22-29/§7) om plikt til sikkerhetsstyringssystem (internkontrollsystem)[taubaneloven § 9](lov/2017-05-22-29/§9) om varslingspliktpålegg i medhold av [taubaneloven § 16](lov/2017-05-22-29/§16) om øyeblikkelig stans eller opphør av bruk[taubaneloven § 27](lov/2017-05-22-29/§27) om fjerning av taubane[taubaneforskriften § 2-15](forskrift/2022-12-20-2383/§2-15) om krav til beredskapsplaner[taubaneforskriften § 2-16](forskrift/2022-12-20-2383/§2-16) om oppsyn under drift[taubaneforskriften § 2-17](forskrift/2022-12-20-2383/§2-17) om generelle krav[taubaneforskriften § 3-1](forskrift/2022-12-20-2383/§3-1) om generelle krav til driftspersonellet[taubaneforskriften § 3-4](forskrift/2022-12-20-2383/§3-4) om bemanningskrav for taubaner[taubaneforskriften § 3-6](forskrift/2022-12-20-2383/§3-6) om beredskap for svevebaner og kabelbaner[taubaneforskriften § 3-9](forskrift/2022-12-20-2383/§3-9) om førstehjelpsutstyr[taubaneforskriften § 3-10](forskrift/2022-12-20-2383/§3-10) om driftskontroll[taubaneforskriften § 3-11](forskrift/2022-12-20-2383/§3-11) om magnetinduktiv prøving[taubaneforskriften § 3-12](forskrift/2022-12-20-2383/§3-12) om kontroll og vedlikehold[taubaneforskriften § 3-13](forskrift/2022-12-20-2383/§3-13) om spesielle inspeksjoner[taubaneforskriften § 3-14](forskrift/2022-12-20-2383/§3-14) om skilting.
+Nåværende «[§ 7-1](forskrift/2022-12-20-2383/§7-1). Tilsyn og håndhevelse», blir ny «[§ 8-1](forskrift/2022-12-20-2383/§8-1). Tilsyn og håndhevelse».
 
-Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt påovertredelsens grovhet og omfangom overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltakom overtredelsen er gjentattom overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsenovertrederens økonomiske evne.
+Nåværende «[§ 7-2](forskrift/2022-12-20-2383/§7-2). Klage», blir ny «[§ 8-2](forskrift/2022-12-20-2383/§8-2). Klage».
 
-Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn tilom noen som handler på vegne av foretaket, har utvist skyldsanksjonens preventive virkningom overtredelsen er begått for å fremme foretakets interesserom andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straffom overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff.
+Nåværende «[§ 7-3](forskrift/2022-12-20-2383/§7-3). Underretning til andre myndigheter mv.», blir ny «[§ 8-3](forskrift/2022-12-20-2383/§8-3). Underretning til andre myndigheter mv.».
 
-Den øvre rammen for overtredelsesgebyr er 170 ganger folketrygdens grunnbeløp (G) for ett enkelt pliktbrudd. Grunnbeløpet på datoen for pliktbruddet legges til grunn for den øvre rammen.
+Nåværende «[§ 7-4](forskrift/2022-12-20-2383/§7-4). Generelle saksbehandlingsregler», blir ny «[§ 8-4](forskrift/2022-12-20-2383/§8-4). Generelle saksbehandlingsregler».
 
-Dersom virksomheten har begått flere pliktbrudd, eller på nytt begår tilsvarende pliktbrudd som tidligere er blitt sanksjonert, er den øvre rammen 340 G.
-
-Fristen for å betale overtredelsesgebyret er fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere.
+Nåværende «[§ 7-5](forskrift/2022-12-20-2383/§7-5). Ikrafttredelse», blir ny «[§ 8-5](forskrift/2022-12-20-2383/§8-5). Ikrafttredelse».
 
 ## II
 

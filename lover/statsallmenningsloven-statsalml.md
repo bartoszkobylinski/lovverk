@@ -390,6 +390,8 @@ Overtredelse av bestemmelsene i denne lov, av bruksregler godkjent av departemen
 
 Loven trer i kraft fra den tid Kongen1 bestemmer.
 
+1 Fra 1 jan 1993 iflg. [res. 13 nov 1992 nr. 796](forskrift/1992-11-13-796).
+
 ### § 4-11. (overgangsregler)
 
 For statsallmenninger hvor det ved lovens ikrafttredelse ikke er allmenningsstyre, vedblir denne ordning å bestå inntil departementet bestemmer noe annet, eller til et flertall av de virkesberettigede har krevd at et allmenningsstyre blir opprettet.

@@ -27,3 +27,9 @@ Ved [kgl.res. 11. desember 1981 nr. 1](forskrift/1981-12-11-1) ble Kongens myndi
 Utenriksdepartementets myndighet i henhold til nevnte lovs § 2, § 3, § 4, § 5 og § 7 hva gjelder radioekspeditørsertifikater, videredelegeres med dette fortsatt til Televerket2 etter omgjøringen til aksjeselskap. Sjøfartsdirektoratets myndighet begrenses tilsvarende jfr. Handelsdepartementets brev av 18. desember 1981 til Sjøfartsdirektoratet.3
 
 Departementet forbeholder seg retten til å bli forelagt saker av prinsipiell interesse eller stor betydning eller som måtte ha politisk interesse.
+
+1 Forvaltningsansvaret ligger nå hos Nærings- og handelsdepartementet, jf. [kgl.res. 20. desember 1996 nr. 1156](forskrift/1996-12-20-1156).
+
+2 Nå Telenor.
+
+3 [Delegeringsvedtak 18. desember 1981 nr. 4282](forskrift/1981-12-18-4282).

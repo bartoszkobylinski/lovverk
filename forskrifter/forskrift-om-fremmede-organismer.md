@@ -286,7 +286,60 @@ Hold i hagedam av vannlevende fremmede organismer som ikke er omfattet av unntak
 
 **Forbudene gjelder ikke kultivarer eller varieteter, eksempelvis sterile varianter, som, etter en vitenskapelig risikovurdering, ikke kan medføre fare for uheldige følger for det biologiske mangfold.**
 
-Navn på underfamilier, familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.*Vitenskapelig navn**Trivialnavn**Merknad***Animalia****Dyr; Animals****Arthropoda****Leddyr; Arthropods****Crustacea (Underrekke)****Krepsdyr; Crustaceans****Malacostraca (Klasse)****Storkrepser; Malacostracans****Nephropidae****Hummer og sjøkreps; Clawed lobsters***Homarus americanus* H. Milne Edwards, 1837Amerikahummer; Amerikansk hummer, American LobsterForbudet gjelder ikke ved innførsel av levende amerikansk hummer til godkjent virksomhet. For slik innførsel kreves tillatelse etter [§ 6](forskrift/2015-06-19-716/§6). Tillatelse kan gis til importør som kan dokumentere rutiner som forhindrer tilsiktet og utilsiktet utsetting av amerikansk hummer i norsk natur. Det kan stilles vilkår om slike rutiner etter tillatelsen, herunder at all levende amerikansk hummer skal kokes eller på annen måte behandles slik at hummeren med sikkerhet er død før den forlater virksomhetens lokaler, at ingen uvedkommende skal ha tilgang til hummeren under eventuell midlertidig oppbevaring eller transport og at det på andre adekvate måter sikres mot at hummeren kommer ut i naturen under transport, at antall/mengde levende amerikansk hummer skal registreres slik at eventuell forsvinning av levende hummer oppdages i alle ledd, at levende amerikansk hummer må oppbevares i rømningssikkert anlegg etter ankomst til virksomhetens lokaler, at ingen uvedkommende skal ha tilgang til anlegget, at levende amerikansk hummer skal holdes i egne tanker adskilt fra levende europeisk hummer og andre levende arter, syke og døde individer destrueres på en måte som hindrer at de slipper ut i naturen samt at ansatte som håndterer levende amerikansk hummer skal ha adekvat opplæring. Tillatelse kan gis for flere innførsler eller for en angitt tidsperiode.**Plantae****Planter; Plants****Apiaceae****Skjermplantefamilen; Carrot family***Heracleum mantegazzianum* Sommier & LevierKjempebjørnekjeks; Giant Hogweed*Heracleum persicum* Desf. ex Fisch.Tromsøpalme; Persian Hogweed, Golpar**Asteraceae****Kurvplantefamilien; Composite family***Solidago canadensis* L.Kanadagullris; Canadian Goldenrod*Solidago gigantea* AitonKjempegullris; Giant Goldenrod**Balsaminaceae****Springfrøfamilien; Balsam family***Impatiens glandulifera* RoyleKjempespringfrø; Indian Balsam**Berberidaceae****Berberisfamilien; Barberry family***Berberis thunbergii* DC.Høstberberis; Thunberg's Barberry**Campanulaceae****Klokkefamilien; Bellflower family***Campanula latifolia macrantha* (Sims)Prydstorklokke; Giant Bellflower**Caryophyllaceae****Nellikfamilien; Pink family***Cerastium biebersteinii* DC.Sølvarve; Boeral Chickweed*Cerastium tomentosum* L.Filtarve; Snow-in-summer**Cornaceae****Kornellfamilien; Dogwood family***Swida sericea* (L.) Holub syn*. Cornus sericea* L.Alaskakornell; Red-osier Dogwood**Fabaceae****Erteblomstfamilen; Pea family***Laburnum alpinum* (Mill.) Brecht. & J. PreslAlpegullregn; Scottish Laburnum*Laburnum anagyroides* Medik.Gullregn; Common Laburnum*Lupinus polyphyllus* Lindl.Hagelupin; Bigleaf Lupine*Lupinus nootkatensis* Donn ex SimsSandlupin; Nootka Lupine*Lupinius perennis* LJærlupin; Perennial Lupine**Hydrocharitaceae****Froskebittfamilien; Frogbit family***Elodea canadensis* L.Vasspest; Canadian Waterweed, Canadian Pondweed*Elodea nuttallii* (Planch.) H. St. JohnSmal vasspest; Western Waterweed, Nuttall's Waterweed**Polygonaceae****Slireknefamilien; Knotweed family***Reynoutria japonica* Houtt. syn. *Fallopia japonica* (Houtt.) Ronse Decr.Parkslirekne; Japanese Knotweed*Reynoutrina sachalinensis* (F. Schmidt ex Maxim.) Ronse Decr.Kjempeslirekne; Giant Knotweed*Reynoutrina* x*bohemica* (Chrtek & Chrtková) J.P. BaileyHybridslirekne; Bohemian Knotweed**Rosaceae****Rosefamilien; Rose family***Cotoneaster dielsianus*; E. Pritz ex, DielsDielsmispel; Deils’ Cotoneaster*Cotoneaster divaricatus*; Rehder & E.H. WilsonSprikemispel; Spreading Cotoneaster*Cotoneaster monopyrenus* (W. W. Sm.) Flinck & B Hylmö. Syn. *Cotoneaster multiflorus*Blomstermispel; One-stoned Cotoneaster*Rosa rugosa* Thunb. ex MurrayRynkerose; Japanese Rose**Salicaceae****Vierfamilien ; Willow family***Populus balsamifera* L.Balsampoppel; Eastern Balsam-poplar*Populus ×berolinensis* (K. Kock) DippelBerlinerpoppel; Berlin Poplar*Salix euxina* I.V. BelaevaSkjørpil*Salix ×fragilis* L.Grønnpil; Crack-willow**Crassulaceae****Bergknappfamilien ; Stonecrop family***Phedimus hybridus* syn. *Sedum hybridum* L.Sibirbergknapp; Hybrid stonecropForbudet gjelder ikke innførsel, utsetting og omsetning til/på grønne tak. For utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker kreves det tillatelse, jf. [§ 11](forskrift/2015-06-19-716/§11) og vedlegg V. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse.*Phedimus spurius* syn. *Sedum spurium* M. BiebGravbergknapp; Caucasian Stonecrop, Dragon's Blood Sedum, Two-row StonecropForbudet gjelder ikke innførsel, utsetting og omsetning til/på grønne tak. For utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker kreves det tillatelse, jf. [§ 11](forskrift/2015-06-19-716/§11) og vedlegg V. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse.
+Navn på underfamilier, familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.
+
+| *Vitenskapelig navn* | *Trivialnavn* | *Merknad* |
+| --- | --- | --- |
+| **Animalia** | **Dyr; Animals** |  |
+| **Arthropoda** | **Leddyr; Arthropods** |  |
+| **Crustacea (Underrekke)** | **Krepsdyr; Crustaceans** |  |
+| **Malacostraca (Klasse)** | **Storkrepser; Malacostracans** |  |
+| **Nephropidae** | **Hummer og sjøkreps; Clawed lobsters** |  |
+| *Homarus americanus* H. Milne Edwards, 1837 | Amerikahummer; Amerikansk hummer, American Lobster | Forbudet gjelder ikke ved innførsel av levende amerikansk hummer til godkjent virksomhet. For slik innførsel kreves tillatelse etter [§ 6](forskrift/2015-06-19-716/§6). Tillatelse kan gis til importør som kan dokumentere rutiner som forhindrer tilsiktet og utilsiktet utsetting av amerikansk hummer i norsk natur. Det kan stilles vilkår om slike rutiner etter tillatelsen, herunder at all levende amerikansk hummer skal kokes eller på annen måte behandles slik at hummeren med sikkerhet er død før den forlater virksomhetens lokaler, at ingen uvedkommende skal ha tilgang til hummeren under eventuell midlertidig oppbevaring eller transport og at det på andre adekvate måter sikres mot at hummeren kommer ut i naturen under transport, at antall/mengde levende amerikansk hummer skal registreres slik at eventuell forsvinning av levende hummer oppdages i alle ledd, at levende amerikansk hummer må oppbevares i rømningssikkert anlegg etter ankomst til virksomhetens lokaler, at ingen uvedkommende skal ha tilgang til anlegget, at levende amerikansk hummer skal holdes i egne tanker adskilt fra levende europeisk hummer og andre levende arter, syke og døde individer destrueres på en måte som hindrer at de slipper ut i naturen samt at ansatte som håndterer levende amerikansk hummer skal ha adekvat opplæring. Tillatelse kan gis for flere innførsler eller for en angitt tidsperiode. |
+| **Plantae** | **Planter; Plants** |  |
+| **Apiaceae** | **Skjermplantefamilen; Carrot family** |  |
+| *Heracleum mantegazzianum* Sommier & Levier | Kjempebjørnekjeks; Giant Hogweed |  |
+| *Heracleum persicum* Desf. ex Fisch. | Tromsøpalme; Persian Hogweed, Golpar |  |
+| **Asteraceae** | **Kurvplantefamilien; Composite family** |  |
+| *Solidago canadensis* L. | Kanadagullris; Canadian Goldenrod |  |
+| *Solidago gigantea* Aiton | Kjempegullris; Giant Goldenrod |  |
+| **Balsaminaceae** | **Springfrøfamilien; Balsam family** |  |
+| *Impatiens glandulifera* Royle | Kjempespringfrø; Indian Balsam |  |
+| **Berberidaceae** | **Berberisfamilien; Barberry family** |  |
+| *Berberis thunbergii* DC. | Høstberberis; Thunberg's Barberry |  |
+| **Campanulaceae** | **Klokkefamilien; Bellflower family** |  |
+| *Campanula latifolia macrantha* (Sims) | Prydstorklokke; Giant Bellflower |  |
+| **Caryophyllaceae** | **Nellikfamilien; Pink family** |  |
+| *Cerastium biebersteinii* DC. | Sølvarve; Boeral Chickweed |  |
+| *Cerastium tomentosum* L. | Filtarve; Snow-in-summer |  |
+| **Cornaceae** | **Kornellfamilien; Dogwood family** |  |
+| *Swida sericea* (L.) Holub syn*. Cornus sericea* L. | Alaskakornell; Red-osier Dogwood |  |
+| **Fabaceae** | **Erteblomstfamilen; Pea family** |  |
+| *Laburnum alpinum* (Mill.) Brecht. & J. Presl | Alpegullregn; Scottish Laburnum |  |
+| *Laburnum anagyroides* Medik. | Gullregn; Common Laburnum |  |
+| *Lupinus polyphyllus* Lindl. | Hagelupin; Bigleaf Lupine |  |
+| *Lupinus nootkatensis* Donn ex Sims | Sandlupin; Nootka Lupine |  |
+| *Lupinius perennis* L | Jærlupin; Perennial Lupine |  |
+| **Hydrocharitaceae** | **Froskebittfamilien; Frogbit family** |  |
+| *Elodea canadensis* L. | Vasspest; Canadian Waterweed, Canadian Pondweed |  |
+| *Elodea nuttallii* (Planch.) H. St. John | Smal vasspest; Western Waterweed, Nuttall's Waterweed |  |
+| **Polygonaceae** | **Slireknefamilien; Knotweed family** |  |
+| *Reynoutria japonica* Houtt. syn. *Fallopia japonica* (Houtt.) Ronse Decr. | Parkslirekne; Japanese Knotweed |  |
+| *Reynoutrina sachalinensis* (F. Schmidt ex Maxim.) Ronse Decr. | Kjempeslirekne; Giant Knotweed |  |
+| *Reynoutrina* x*bohemica* (Chrtek & Chrtková) J.P. Bailey | Hybridslirekne; Bohemian Knotweed |  |
+| **Rosaceae** | **Rosefamilien; Rose family** |  |
+| *Cotoneaster dielsianus*; E. Pritz ex, Diels | Dielsmispel; Deils’ Cotoneaster |  |
+| *Cotoneaster divaricatus*; Rehder & E.H. Wilson | Sprikemispel; Spreading Cotoneaster |  |
+| *Cotoneaster monopyrenus* (W. W. Sm.) Flinck & B Hylmö. Syn. *Cotoneaster multiflorus* | Blomstermispel; One-stoned Cotoneaster |  |
+| *Rosa rugosa* Thunb. ex Murray | Rynkerose; Japanese Rose |  |
+| **Salicaceae** | **Vierfamilien ; Willow family** |  |
+| *Populus balsamifera* L. | Balsampoppel; Eastern Balsam-poplar |  |
+| *Populus ×berolinensis* (K. Kock) Dippel | Berlinerpoppel; Berlin Poplar |  |
+| *Salix euxina* I.V. Belaeva | Skjørpil |  |
+| *Salix ×fragilis* L. | Grønnpil; Crack-willow |  |
+| **Crassulaceae** | **Bergknappfamilien ; Stonecrop family** |  |
+| *Phedimus hybridus* syn. *Sedum hybridum* L. | Sibirbergknapp; Hybrid stonecrop | Forbudet gjelder ikke innførsel, utsetting og omsetning til/på grønne tak. For utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker kreves det tillatelse, jf. [§ 11](forskrift/2015-06-19-716/§11) og vedlegg V. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. |
+| *Phedimus spurius* syn. *Sedum spurium* M. Bieb | Gravbergknapp; Caucasian Stonecrop, Dragon's Blood Sedum, Two-row Stonecrop | Forbudet gjelder ikke innførsel, utsetting og omsetning til/på grønne tak. For utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker kreves det tillatelse, jf. [§ 11](forskrift/2015-06-19-716/§11) og vedlegg V. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. |
 
 > Endret ved forskrifter [23 nov 2018 nr. 1758](forskrift/2018-11-23-1758), [18 des 2020 nr. 3156](forskrift/2020-12-18-3156) (i kraft 1 jan 2021), [13 nov 2024 nr. 2826](forskrift/2024-11-13-2826) (i kraft 1 jan 2025).
 
@@ -294,39 +347,533 @@ Navn på underfamilier, familier og høyere taksonomiske nivå som er skrevet me
 
 ***Generelt vilkår:* Det forutsettes at innførselen utføres i samsvar med kravene til aktsomhet i [kapittel V](forskrift/2015-06-19-716/kapv) og forskriftens øvrige bestemmelser, samt med øvrig gjeldende regelverk, herunder [CITES-forskriften](forskrift/2018-06-15-889).**
 
-Navn på underfamilier, familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.*Vitenskapelig navn**Trivialnavn**Vilkår***Mammalia (Klasse)****Pattedyr; Mammals****Camelidae****Kameldyr***Lama glama* L., 1758Lama; LlamaKun til landbruksformål.*Vicugna pacos* L., 1758Alpakka; AlpacaKun til landbruksformål.**Canidae****Hundefamilien; Canids***Vulpes vulpes* (L., 1758)Sølvrev; Silver FoxFra oppdrett. Kun sølvrevtyper og krysninger mellom sølvrevtyper og blårevtyper til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296).*Vulpes lagopus* (L., 1758) syn. *Alopex lagopus* (L., 1758)Blårev; Domesticated Arctic Fox, Polar FoxFra oppdrett. Kun blårevtyper og krysninger mellom blårevtyper og sølvrevtyper til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296).**Chinchillidae****Chinchillafamilien; Chinchillas and Viscachas***Chinchilla lanigera* (Molina, 1782)Chinchilla; Chinchilla, Long-tailed ChinchillaDomestisert.**Cricetidae****Hamsterfamilien; Cricetids***Mesocricetus auratus* Waterhouse, 1839Gullhamster; Golden HamsterDomestisert.*Cricetulus griseus* Milne-Edwards, 1867Kinesisk hamster; Chinese HamsterDomestisert.*Phodopus campbelli* (Thomas, 1905)Campbells (stripet) dverghamster; Campbell's Russian Dwarf HamsterDomestisert, inkludert krysninger med *Phodopus sungorus*.*Phodopus sungorus* (Pallas, 1773)Russisk (sibirsk) dverghamster; Siberian Hamster, Djungarian HamsterDomestisert, inkludert krysninger med *Phodopus campbelli*.*Phodopus roborovski* (Satunin, 1903)Roborovski dverghamster; Roborovski HamsterDomestisert.**Caviidae****Marsvinfamilien; Guinea Pigs***Cavia porcellus* (L., 1758)Marsvin; Guinea PigDomestisert.**Leporidae****Harefamilien; Leporids***Oryctolagus cuniculus* (L., 1758)Kanin; RabbitDomestisert.**Muridae****Musefamilien; Murids***Mus musculus* L., 1758Husmus; House MouseDomestisert, herunder former til laboratorieformål.*Rattus norvegicus* (Berkenhout, 1769)Brunrotte; Brown RatDomestisert, herunder hetterotte og former til laboratorieformål.*Meriones unguiculatus* Milne-Edwards, 1867Ørkenrotte; Mongolian GerbilDomestisert.**Mustelidae****Mårdyrfamilien; Weasels***Mustela putorius* (L., 1758)Ilder; European PolecatFra oppdrett.*Neovison vison* (Schreber, 1777)Mink; American MinkFra oppdrett. Kun til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296).**Octodontidae****Buskrottefamilien; Degus***Octodon degus* (Molina, 1782)Degus; DeguDomestisert.**Aves (Klasse)****Fugler; Birds****Dromaiidae****Emu; Emus***Dromaius novaehollandiae* (Latham, 1790)Emu; EmuDomestisert. Fra oppdrett. Kun til landbruksformål.**Rheidae****Nanduer; Rheas***Rhea americana* (L., 1758)Stornandu; Greater RheaDomestisert. Fra oppdrett. Kun til landbruksformål.**Psittacidae****Papegøyefugler; Parrots**Psittacidae spp. inkludert Cacatuinae.Alle arter papegøyefugler inkludert kakaduer; Parrots
-– All species including Cockatoos**Fringillidae****Finkefamilien; Finches***Serinus canaria* (L., 1758)Kanariirisk (tidl. kanarifugl); Atlantic Canary**Estrildidae****Astrildefamilien; Weaver-finches***Poephila guttata* Vieillot, 1817Sebrafink; Zebra Finch*Chloebia gouldiae* (Gould, 1844)Gouldfink; Gouldian Finch*Padda oryzivora* (L., 1758)Javaspurv, risfugl; Java Sparrow**Reptilia (Klasse)****Krypdyr, Reptiles**Pythonidae*Morelia viridis*
-(Schlegel, 1872)Grønn trepyton; Green Tree PythonKun innførsel til innendørs, innelukket hold.*Morelia spilota* (Lacépède, 1804)Teppepyton; Carpet Python, Diamond pythonKun innførsel til innendørs, innelukket hold.*Python regius* (Shaw, 1802)Kongepyton; Royal Python, Ball PythonKun innførsel til innendørs, innelukket hold.**Boidae***Boa constrictor* (L., 1758)Kongeboa; Boa ConstrictorKun innførsel til innendørs, innelukket hold.*Corallus hortulanus* (L., 1758)Hagetreboa; Amazon Tree Boa, Common Tree Boa, Garden Tree BoaKun innførsel til innendørs, innelukket hold.*Epicrates cenchria* (L., 1758)Regnbueboa; Rainbow BoaKun innførsel til innendørs, innelukket hold.**Colubridae***Pantherophis guttatus* (L., 1766)Kornsnok; Corn snakeKun innførsel til innendørs, innelukket hold.*Lampropeltis getula* (L., 1766)Kongesnok ; Eastern
-Kingsnake, Common
-Kingsnake, Chain
-KingsnakeKun innførsel til innendørs, innelukket hold.*Lampropeltis triangulum* (L.,1788)Melkesnok; MilksnakeKun innførsel til innendørs, innelukket hold.Gekkonidae*Phelsuma madagascariensis* Gray, 1831)Stor daggekko; Day GeckoKun innførsel til innendørs, innelukket hold.Diplodactylidae*Rhacodactylus ciliatus*
-(Guichenot, 1866) syn. *Correlophus ciliatus*Kranset gekko; Crested GeckoKun innførsel til innendørs, innelukket hold.Eublepharidae*Eublepharis macularius* (Blyth, 1854)Leopardgekko; Leopard GeckoKun innførsel til innendørs, innelukket hold.Lacertidae*Lacerta lepida* syn. *Timon lepidus*
-(Daudin, 1802)Perlefirfirsle ; Ocellated Lizard, Eyed Lizard, Jeweled LacertaKun innførsel til innendørs, innelukket hold.Agamidae*Uromastyx ocellata*
-(Heyden, 1827)Pigghaleagam; Ornate MastigureKun innførsel til innendørs, innelukket hold.*Pogona vitticeps* (Ahl, 1926)Skjeggagam; Central Bearded DragonKun innførsel til innendørs, innelukket hold.Varanidae*Varanus acanthurus* Boulenger, 1885Dvergvaran; Spiny-tailed MonitorKun innførsel til innendørs, innelukket hold.Testudinidae*Testudo hermanni* Gmelin, 1789Hermanns landskilpadde,
-gresk landskilpadde;
-Hermann's tortoiseKun innførsel til innendørs, innelukket hold.*Geochelone carbonaria* syn *Chelonoidis carbonaria*
-(Spix, 1824)Rødfotet skogskilpadde;
-Red-footed TortoiseKun innførsel til innendørs, innelukket hold.Geoemydidae*Chinemys
-reevesi*
-(Gray, 1831)
-Syn. *Mauremys reevesii*Kinesisk trekjølskilpadde;
-Chinese Pond TurtleKun innførsel til innendørs, innelukket hold.**Osteichthyes (Klasse)****Beinfisker; Bony fish****Cyprinidae****Karpefisker; Cyprinids***Carassius auratus*
-(L., 1758)Gullfisk; GoldfishKun domestiserte former.*Cyprinus carpio* (L., 1758)Koi-karpe; KoiGjelder kun domestiserte former av koi-karper.**Arthropoda****Leddyr; Arthropods****Arachnida (Klasse)****Edderkopper; Spiders****Theraphosidae****Theraposinae (Underfamilie)****Amerikanske taranteller; New World Tarantulas***Aphonopelma hentzi* (Girard, 1852)Texas Brown Tarantula*Aphonopelma seemanni* (F.O. P.-Cambridge, 1897)Striped-knee Tarantula*Aphonopelma texense* (Simon, 1891)Rio Grande Copper Tarantula*Chromatopelma cyaneopubescens* (Strand, 1907)Greenbottle Blue Tarantula*Cyriocosmus elegans* (Simon, 1889)Trinidad Dwarf Tiger Rump*Euathlus pulcherrimaklaasi* (Schmidt, 1991)Metallic Femur Beauty*Euathlus truculentus* (Ausserer, 1875)Chilean Beautiful*Euathlus vulpinus* (Karsch, 1880)Chilean Ocellated*Eupalaestrus campestratus* (Simon, 1891)Pink Zebra Beauty*Grammostola aureostriata* (Schmidt & Bullmer, 2001)Chaco Golden Knee*Grammostola burzaquensis* Ibarra, 1946Argentinean Rose Tarantula*Grammostola grossa* (Ausserer, 1871)Argentina Giant Tawny Red, Pampas Tawny Red, Giant Tawny Red*Grammostola iheringi* (Keyserling, 1891)Entre Rios Tarantula*Grammostola mollicoma* (Ausserer, 1875)Brazilian Giant Tawny Red*Grammostola pulchra* Mello-Leitao, 1921Brazilian Black Tarantula*Grammostola rosea* (Walckenaer, 1837)Chilean Rose Hair, Chilean Rose*Lasiodora difficilis* Mello-Leitao, 1921Fiery Redrump*Lasiodora klugi* (C.L. Koch, 1841)Baja Scarlet, Scarlet Birdeater, Bahia Scarlet*Lasiodora parahybana* Mello-Leitao, 1917Brazilian Salmon Pink*Lasiodorides striatus* (Schmidt & Antonelli, 1996)Brazilian Brown Giant*Megaphobema robustum* (Ausserer, 1875)Colombian Giant Redleg, Columbian Giant*Megaphobema velvetosoma* Schmidt, 1995Ecuadorian Brownvelvet Tarantula*Metriopelma zebratum* Banks, 1909Costa Rican Suntiger Tarantula*Nhandu chromatus* Schmidt, 2004White Striped Birdeater*Nhandu coloratovillosus* (Schmidt, 1998)Brazilian Black & White*Nhandu vulpinus* (Schmidt, 1998)Brazilian Giant Blonde*Pamphobeteus antinous* Pocock, 1903Bolivian Blueleg*Pamphobeteus fortis* (Ausserer, 1875)Colombian Brown*Pamphobeteus ultramarinus* Schmidt, 1995Ecuadorian Birdeater*Paraphysa parvula* (Pocock, 1903)Chilean Gold Burst Tarantula*Paraphysa scrofa* (Molina, 1788)Chilean Copper Tarantula*Phormictopus cancerides* (Latreille, 1806)Haitian Brown*Theraphosa apophysis* Tinter, 1991Goliath Pinkfoot, Pinkfoot Goliath*Theraphosa blondi* Latreille, 1804Goliath Bird Eater*Thrixopelma ockerti* Schmidt, 1994Peruvian Orange Rump*Thrixopelma pruriens* Schmidt, 1998Chilean Spiny, Peruvian Green Velvet*Xenesthis immanis* Ausserer, 1875Colombian Lesserblack*Xenesthis intermedia* Schiapelli & Gerschman, 1945Amazon Blue Bloom**Aviculariinae****Amerikanske taranteller; New World Tarantulas***Avicularia aurantiaca* Bauer, 1996Yellow Banded Pinktoe*Avicularia avicularia* (L., 1758)Pinktoe Tarantula*Avicularia bicegoi* Mello-Leitao, 1923Brazilian Pinktoe*Avicularia braunshauseni* Tesmoingt, 1999Goliath Pinktoe*Avicularia fasciculata* Strand, 1907Amazon Sapphire Pink Toe*Avicularia geroldi* Tesmoingt, 1999Brazilian Blue and Red Pinktoe*Avicularia huriana* Tesmoingt, 1996Ecuadorian Pinktoe*Avicularia juruensis* Mello-Leitao, 1923Yellow Banded Pinktoe*Avicularia laeta* (C.L. Koch, 1842)Puerto Rican Treespider, Puerto Rican Pinktoe*Avicularia metallica* Ausserer, 1875Metallic Pinktoe, Whitetoe*Avicularia minatrix* Pocock, 1903Venezuelan Red Stripe*Avicularia purpurea* Kirk, 1990Ecuadorian Purple Tarantula*Avicularia versicolor* Walckenaer, 1837Antilles Pinktoe*Ephebopus cyanognathus* West & Marshall, 2000French Guyanan Blue Fang, Blue Fang*Ephebopus murinus* (Walckenaer, 1837)Skeleton Tarantula*Ephebopus rufescens* West & Marshall, 2000Burgundy Skeleton*Ephebopus uatuman* Lucas, Silva & Bertani, 1992Blue Fang*Tapinauchenius gigas* Caporiacco, 1954Orange Chevron Tarantula*Tapinauchenius purpureus* (Schmidt, 1995)Purple Treespider*Tapinauchenius subcaeruleus* Bauer & Antonelli, 1997Metallic Tree**Eumenophorinae****Afrikanske taranteller; Old World Tarantulas***Citharischius crawshayi* Pocock, 1900King Baboon*Hysterocrates ederi* Charpentier, 1995Guinea Goliath Baboon*Hysterocrates gigas* Pocock, 1897Cameroon Red Baboon*Hysterocrates hercules* Pocock, 1899Hercules Baboon**Harpactirinae****Afrikanske taranteller; Old World Tarantulas***Pterinochilus murinus* Pocock, 1897Mombassa Golden Starburst*Pterinochilus vorax* Pocock, 1897African Lesser Baboon*Harpactirella lightfooti* Purcell, 1902**Ornithoctoninae****Asiatiske taranteller; Old World Tarantulas***Haplopelma lividum* Smith, 1996Cobalt Blue*Haplopelma minax* (Thorell, 1897)Thailand Black tarantula**Poecilotheriinae****Asiatiske taranteller; Old World Tarantulas***Poecilotheria fasciata* (Latreille, 1804)Sri-Lankan Ornamental*Poecilotheria formosa* Pocock, 1899Finely Formed Parachute Spider*Poecilotheria ornata* Pocock, 1899Fringed Ornamental*Poecilotheria regalis* Pocock, 1899Regal Parachute Spider*Poecilotheria rufilata* Pocock, 1899Reddish Parachute Spider**Selenocosmiinae****Asiatiske taranteller; Old World Tarantulas***Psalmopoeus cambridgei* (Pocock, 1895)Trinidad Chevron**Insecta (Klasse)****Insekter; Insects****Phasmida (Orden)****Pinnedyr; Stick Insects****Bacillidae***Bacillus rossius* (Rossi, 1790)Corsican Stick Insect*Xylica coriacea* Redtenbacher, 1906**Diapheromeridae****Common Walkingsticks***Lopaphus sphalerus* (Redtenbacher, 1908)*Oreophoetes peruana* (Saussure, 1868)*Phaenopharos khaoyaiensis* Zompro, 2000Khao Stick Insect*Sceptrophasma hispidulum* (Wood-Mason, 1873)Andamans Stick Insect*Sipyloidea sipylus* (Westwood, 1859)Madagascan Stick Insect, Pink Winged Stick Insect*Tagesoidea nigrofasciata* Redtenbacher, 1908Yellow Umbrella Stick Insect**Heteropterygidae***Aretaon asperrimus* (Redtenbacher, 1906)Thorny Stick Insect*Epidares nolimetangere* (Haan, 1842)Touch Me Not Stick Insect*Haaniella dehaanii* (Westwood, 1859)De Haan's Haaniella*Heteropteryx dilatata* (Parkinson, 1798)Jungle Nymph, Malayan Jungle Nymph*Sungaya inexpectata* Zompro, 1996Sungay Stick Insect**Phasmatidae***Carausius morosus* Sinéty, 1901Indian Stick Insect, Laboratory Stick Insect*Chondrostethus woodfordi* Kirby, 1896Woodford's Stick Insect*Eurycantha calcarata* Lucas, 1869Giant Spiny Stick Insect*Eurycantha horrida* Boisduval, 1835*Eurycnema goliath* (Gray, 1834)Goliath Stick Insect, Regal Stick Insect*Extatosoma tiaratum* (Macleay, 1826)Giant Prickly Stick Insect, Macleay's Spectre, Spiny Leaf Insect*Medaura jobrensis* Brock & Cliquennois, 2001Jobra Stick Insect*Medauroidea extradentata* Brunner von Wattenwyl, 1907Annam Stick Insect*Neohirasea maerens* (Brunner von Wattenwyl, 1907)Vietnam Prickly Stick Insect*Parapachymorpha zomproi* Fritzsche & Gitsaga, 2000Zompro's Stick Insect*Pharnacia sumatrana* (Brunner von Wattenwyl, 1907)Sumatran Stick Insect*Phobaeticus serratipes* (Gray, 1835)Giant Malayan Stick Insect*Ramulus nematodes* (Haan, 1842)Great Thin Stick Insect*Ramulus thaii* (Hausleithner, 1985)Thailand Stick Insect*Rhaphiderus scabrosus* (Percheron, 1829–1838)Mauritius Rough Stick Insect**Phylliidae****Leaf Insects and Walking Leaves***Phyllium bioculatum* Gray, 1832Gray's Leaf Insect, Javanese Leaf Insect*Phyllium celebicum* Haan, 1842Celebes Leaf Insect*Phyllium giganteum* Hausleithner, 1984Giant Malaysian Leaf Insect*Phyllium hausleithneri* Brock, 1999Hausleithner's Stick Insect*Phyllium siccifolium* L., 1758Linnaeus' Leaf Insect**Pseudophasmatidae***Anisomorpha buprestoides* (Stoll, 1813)Florida Stick Insect, Two-Striped Walkingstick*Anisomorpha paromalus* (Westwood, 1859)Red-striped Stick Insect*Lamponius guerini* (Saussure, 1868)Guadeloupe Stick Insect**Blattodea (Orden)****Kakkerlakker; Cockroaches****Blaberidae***Blaberus craniifer* Burmeister, 1838Death's Heads Cockroach*Blaptica dubia* Serville, 1839South American Dubia Cockroach*Gromphadorhina portentosa* (Schaum, 1853)Madagascar Hissing Cockroach**Orthoptera (Orden)****Gresshopper, sirisser; Grasshoppers, Crickets, Katydids****Acrididae****Markgresshopper***Locusta migratoria* (L., 1758)Vandregresshoppe; Migratory Locust, Ussure*Schistocerca gregaria* Forskål, 1775Desert Locust**Gryllidae****Ekte sirisser; Crickets***Gryllus assimilis* (Fabricius, 1775)*Gryllus bimaculatus* De Geer, 1773African or Mediterranean Field Cricket, Two-Spotted Cricket**Romaleidae****Lubber Grasshoppers***Tropidacris collaris* (Stoll, 1813)**Tettigoniidae****Løvgresshopper; Bush Crickets, Katydids***Ellatodon blanchardi* (Brongniart, 1890)**Mantodea (Orden)****Knelere; Mantises****Empusidae***Gongylus gongylodes* (L., 1758)*Idolomantis diabolica* (Saussure, 1869)**Hymenopodidae***Creobroter gemmatus* Stoll, 1813*Creobroter pictipennis* Wood-Mason, 1878*Hymenopus coronatus* (Olivier, 1792)Malasian Orchid Mantis*Oxyopsis gracilis* Giglio-Tos, 1914*Pseudocreobotra ocellata* (Palisot de Beauvois, 1805)*Pseudocreobotra wahlbergii* Stål, 1871Spiny Flower Mantis**Mantidae***Ceratomantis saussurii* (WoodMason, 1876)*Ceratomantis yunnanensis* (Zhang, 1986)*Parasphendale affinis* (Giglio-Tos, 1915)*Parasphendale agrionina* (Gerstaecker, 1869)*Popa spurca* (Stål, 1856)African Twig Mantis**Coleoptera (Orden)****Biller; Beetles****Cetoniidae***Goliathus albosignatus* Boheman, 1857*Goliathus cacicus* (Olivier, 1789)Goliath Beetle*Goliathus goliatus* (L., 1771)*Goliathus regius* Klug, 1835*Mecynorrhina ugandensis* (Moser, 1906)*Pachnoda marginata* (Drury, 1773)Sun Beetle**Dynastidae***Chalcosoma atlas* (L., 1758)Atlas Beetle*Chalcosoma caucasus* Fabricius, 1801Caucasus Beetle*Chalcosoma chiron* Olivier, 1789*Chalcosoma moellenkampi* Kolbe, 1900*Dichodontus grandis* Ritsema, 1882*Dynastes grantii* Horn, 1870Southwestern Hercules Beetle*Dynastes hercules* (L., 1758)Herkulesbille*Dynastes neptunus* Quensel in Schönherr, 1805*Dynastes tityus* L., 1763Eastern Hercules Beetle*Eudicella smithii* (MacLeay, 1838)*Megasoma actaeon* L., 1758*Megasoma mars* (Reiche, 1852)*Oryctes gnu* Mohnike, 1874*Xylotrupes gideon* (L., 1767)**Lucanidae****Eikehjorter; Stag Horn Beetles***Allotopus moellenkampi* (Fruhstorfer, 1894)Golden Stag Beetle*Allotopus rosenbergi* (Vollenhoven, 1872)*Cyclommatus elaphus* Gestro, 1881Harlequin Beetle*Cyclommatus imperator* Boileau, 1905*Cyclommatus metallifer* (Boisduval, 1835)*Cyclommatus pasteuri* Ritsema, 1891*Dorcus alcides* (Vollenhoven, 1865)*Dorcus bucephalus* (Perty, 1831)*Dorcus grandis* Didier, 1926*Dorcus parryi* (Thomson, 1862)*Dorcus titanus* (Boisduval, 1835)*Hexarthrius buqueti* (Hope, 1843)*Hexarthrius mandibularis* Deyrolle, 1881*Hexarthrius parryi* Hope, 1842*Hexarthrius rhinoceros* (Olivier, 1789)*Odontolabis bellicosus* (Castelnau, 1837)*Odontolabis dalmani* (Hope & Westwood, 1845)*Odontolabis lacordairei* (Vollenhoven, 1861)*Odontolabis ludekingi* (Vollenhoven, 1861)*Odontolabis stevensi* Thomson, 1862*Odontolabis striata* Deyrolle, 1864*Odontolabis wollastoni* Parry, 1864*Prosopocoilus astacoides* (Hope, 1840)*Prosopocoilus giraffa* Olivier, 1789*Prosopocoilus inclinatus* Motschulsky, 1857*Prosopocoilus lateralis* (Hope & Westwood, 1845)*Prosopocoilus natalensis* (Parry, 1864)*Prosopocoilus savagei* Hope, 1842*Prosopocoilus umhangi* Fairmaire, 1891**Tenebrionidae***Zophobas morio* Fabricius, 1776Kingworm, Superworm*Tenebrio molitor* L., 1758Stor melbille; Mealworm**Hymenoptera (Orden)****Årevinger; Ants, Bees and Wasps****Apidae****Langtungebier; Honeybees and Bumblebees***Apis mellifera* L., 1758Europeisk honningbie; Western Honey BeeTil birøktformål.*Bombus terrestris terrestris*Mørk jordhumleUnntaket gjelder kun mørk jordhumle fra norske bestander av *Bombus terrestris terrestris* til pollinering i veksthus, og kun dersom det gis melding før innførselen i samsvar med forskriften [§ 16](forskrift/2015-06-19-716/§16), jf. [§ 8](forskrift/2015-06-19-716/§8).**Diptera (Orden)****Tovinger****Calliphoridae****Spyfluer***Calliphora vomitoria* (Linnaeus, 1758)Blue Bottle Fly*Phaenicia sericata* syn. *Lucilia sericata* (Meigen, 1826)Sheep Blow Fly**Chironomidae****Fjærmygg; Chironomids***Chironomus plumosus* (Linnaeus, 1758)Buzzer Midge*Chironomus balatonicus* (Devai, Wuelker & Scholl, 1983)**Annelida (rekke)****Leddormer; Annelids***Dendrobaena rubidus*Stubbemeitemark*Dendrobaena octaedra* (Savigny, 1826)Mosemeitemark*Dendrobaena attemsi* (Michaelsen, 1902)*Allolodophora clorotica*Grønnmeitemark*Lumbricus castaneus* (Savigny, 1826)Løvmeitemark*Lumbricus festivus* (Savigny, 1826)Mørkmeitemark*Lumbricus rubellus* Hoffmeister, 1843Skogmeitemark; Red Earthworm*Lumbricus terrestris* Linnaeus, 1758Stormeitemark; Earthworm*Octolasion cyaneum* (Savigny, 1826)Blåmeitemark*Octolasion lacteum* (Örley, 1881)Hvitmeitemark*Aporrectodea rosea* (Savigny, 1826)Rosameitemark*Aporrectodea longa* (Ude, 1886)Langmeitemark*Aporrectodea caliginosa* (Savigny, 1826)Gråmeitemark; Common Earthworm*Aporrectodea icterica* (Savigny, 1826)*Aporrectodea limicola* (Michaelsen, 1890)*Eisenia fetida* (Savigny, 1826)Kompostmeitemark; Common Brandling Worm*Eisenia hortensis* (Michaelsen, 1890)Hagemeitemark*Eisenia andrei* Bouché, 1972*Eiseniella tetraedra* (Savigny, 1826)Bekkemeitemark
+Navn på underfamilier, familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.
+
+| *Vitenskapelig navn* | *Trivialnavn* | *Vilkår* |
+| --- | --- | --- |
+| **Mammalia (Klasse)** | **Pattedyr; Mammals** |  |
+| **Camelidae** | **Kameldyr** |  |
+| *Lama glama* L., 1758 | Lama; Llama | Kun til landbruksformål. |
+| *Vicugna pacos* L., 1758 | Alpakka; Alpaca | Kun til landbruksformål. |
+| **Canidae** | **Hundefamilien; Canids** |  |
+| *Vulpes vulpes* (L., 1758) | Sølvrev; Silver Fox | Fra oppdrett. Kun sølvrevtyper og krysninger mellom sølvrevtyper og blårevtyper til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296). |
+| *Vulpes lagopus* (L., 1758) syn. *Alopex lagopus* (L., 1758) | Blårev; Domesticated Arctic Fox, Polar Fox | Fra oppdrett. Kun blårevtyper og krysninger mellom blårevtyper og sølvrevtyper til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296). |
+| **Chinchillidae** | **Chinchillafamilien; Chinchillas and Viscachas** |  |
+| *Chinchilla lanigera* (Molina, 1782) | Chinchilla; Chinchilla, Long-tailed Chinchilla | Domestisert. |
+| **Cricetidae** | **Hamsterfamilien; Cricetids** |  |
+| *Mesocricetus auratus* Waterhouse, 1839 | Gullhamster; Golden Hamster | Domestisert. |
+| *Cricetulus griseus* Milne-Edwards, 1867 | Kinesisk hamster; Chinese Hamster | Domestisert. |
+| *Phodopus campbelli* (Thomas, 1905) | Campbells (stripet) dverghamster; Campbell's Russian Dwarf Hamster | Domestisert, inkludert krysninger med *Phodopus sungorus*. |
+| *Phodopus sungorus* (Pallas, 1773) | Russisk (sibirsk) dverghamster; Siberian Hamster, Djungarian Hamster | Domestisert, inkludert krysninger med *Phodopus campbelli*. |
+| *Phodopus roborovski* (Satunin, 1903) | Roborovski dverghamster; Roborovski Hamster | Domestisert. |
+| **Caviidae** | **Marsvinfamilien; Guinea Pigs** |  |
+| *Cavia porcellus* (L., 1758) | Marsvin; Guinea Pig | Domestisert. |
+| **Leporidae** | **Harefamilien; Leporids** |  |
+| *Oryctolagus cuniculus* (L., 1758) | Kanin; Rabbit | Domestisert. |
+| **Muridae** | **Musefamilien; Murids** |  |
+| *Mus musculus* L., 1758 | Husmus; House Mouse | Domestisert, herunder former til laboratorieformål. |
+| *Rattus norvegicus* (Berkenhout, 1769) | Brunrotte; Brown Rat | Domestisert, herunder hetterotte og former til laboratorieformål. |
+| *Meriones unguiculatus* Milne-Edwards, 1867 | Ørkenrotte; Mongolian Gerbil | Domestisert. |
+| **Mustelidae** | **Mårdyrfamilien; Weasels** |  |
+| *Mustela putorius* (L., 1758) | Ilder; European Polecat | Fra oppdrett. |
+| *Neovison vison* (Schreber, 1777) | Mink; American Mink | Fra oppdrett. Kun til pelsdyroppdrett som utøves i samsvar med [pelsdyrforskriften](forskrift/2011-03-17-296). |
+| **Octodontidae** | **Buskrottefamilien; Degus** |  |
+| *Octodon degus* (Molina, 1782) | Degus; Degu | Domestisert. |
+| **Aves (Klasse)** | **Fugler; Birds** |  |
+| **Dromaiidae** | **Emu; Emus** |  |
+| *Dromaius novaehollandiae* (Latham, 1790) | Emu; Emu | Domestisert. Fra oppdrett. Kun til landbruksformål. |
+| **Rheidae** | **Nanduer; Rheas** |  |
+| *Rhea americana* (L., 1758) | Stornandu; Greater Rhea | Domestisert. Fra oppdrett. Kun til landbruksformål. |
+| **Psittacidae** | **Papegøyefugler; Parrots** |  |
+| Psittacidae spp. inkludert Cacatuinae. | Alle arter papegøyefugler inkludert kakaduer; Parrots<br>– All species including Cockatoos |  |
+| **Fringillidae** | **Finkefamilien; Finches** |  |
+| *Serinus canaria* (L., 1758) | Kanariirisk (tidl. kanarifugl); Atlantic Canary |  |
+| **Estrildidae** | **Astrildefamilien; Weaver-finches** |  |
+| *Poephila guttata* Vieillot, 1817 | Sebrafink; Zebra Finch |  |
+| *Chloebia gouldiae* (Gould, 1844) | Gouldfink; Gouldian Finch |  |
+| *Padda oryzivora* (L., 1758) | Javaspurv, risfugl; Java Sparrow |  |
+| **Reptilia (Klasse)** | **Krypdyr, Reptiles** |  |
+| Pythonidae |  |  |
+| *Morelia viridis*<br>(Schlegel, 1872) | Grønn trepyton; Green Tree Python | Kun innførsel til innendørs, innelukket hold. |
+| *Morelia spilota* (Lacépède, 1804) | Teppepyton; Carpet Python, Diamond python | Kun innførsel til innendørs, innelukket hold. |
+| *Python regius* (Shaw, 1802) | Kongepyton; Royal Python, Ball Python | Kun innførsel til innendørs, innelukket hold. |
+| **Boidae** |  |  |
+| *Boa constrictor* (L., 1758) | Kongeboa; Boa Constrictor | Kun innførsel til innendørs, innelukket hold. |
+| *Corallus hortulanus* (L., 1758) | Hagetreboa; Amazon Tree Boa, Common Tree Boa, Garden Tree Boa | Kun innførsel til innendørs, innelukket hold. |
+| *Epicrates cenchria* (L., 1758) | Regnbueboa; Rainbow Boa | Kun innførsel til innendørs, innelukket hold. |
+| **Colubridae** |  |  |
+| *Pantherophis guttatus* (L., 1766) | Kornsnok; Corn snake | Kun innførsel til innendørs, innelukket hold. |
+| *Lampropeltis getula* (L., 1766) | Kongesnok ; Eastern<br>Kingsnake, Common<br>Kingsnake, Chain<br>Kingsnake | Kun innførsel til innendørs, innelukket hold. |
+| *Lampropeltis triangulum* (L.,1788) | Melkesnok; Milksnake | Kun innførsel til innendørs, innelukket hold. |
+| Gekkonidae |  |  |
+| *Phelsuma madagascariensis* Gray, 1831) | Stor daggekko; Day Gecko | Kun innførsel til innendørs, innelukket hold. |
+| Diplodactylidae |  |  |
+| *Rhacodactylus ciliatus*<br>(Guichenot, 1866) syn. *Correlophus ciliatus* | Kranset gekko; Crested Gecko | Kun innførsel til innendørs, innelukket hold. |
+| Eublepharidae |  |  |
+| *Eublepharis macularius* (Blyth, 1854) | Leopardgekko; Leopard Gecko | Kun innførsel til innendørs, innelukket hold. |
+| Lacertidae |  |  |
+| *Lacerta lepida* syn. *Timon lepidus*<br>(Daudin, 1802) | Perlefirfirsle ; Ocellated Lizard, Eyed Lizard, Jeweled Lacerta | Kun innførsel til innendørs, innelukket hold. |
+| Agamidae |  |  |
+| *Uromastyx ocellata*<br>(Heyden, 1827) | Pigghaleagam; Ornate Mastigure | Kun innførsel til innendørs, innelukket hold. |
+| *Pogona vitticeps* (Ahl, 1926) | Skjeggagam; Central Bearded Dragon | Kun innførsel til innendørs, innelukket hold. |
+| Varanidae |  |  |
+| *Varanus acanthurus* Boulenger, 1885 | Dvergvaran; Spiny-tailed Monitor | Kun innførsel til innendørs, innelukket hold. |
+| Testudinidae |  |  |
+| *Testudo hermanni* Gmelin, 1789 | Hermanns landskilpadde,<br>gresk landskilpadde;<br>Hermann's tortoise | Kun innførsel til innendørs, innelukket hold. |
+| *Geochelone carbonaria* syn *Chelonoidis carbonaria*<br>(Spix, 1824) | Rødfotet skogskilpadde;<br>Red-footed Tortoise | Kun innførsel til innendørs, innelukket hold. |
+| Geoemydidae |  |  |
+| *Chinemys<br>reevesi*<br>(Gray, 1831)<br>Syn. *Mauremys reevesii* | Kinesisk trekjølskilpadde;<br>Chinese Pond Turtle | Kun innførsel til innendørs, innelukket hold. |
+| **Osteichthyes (Klasse)** | **Beinfisker; Bony fish** |  |
+| **Cyprinidae** | **Karpefisker; Cyprinids** |  |
+| *Carassius auratus*<br>(L., 1758) | Gullfisk; Goldfish | Kun domestiserte former. |
+| *Cyprinus carpio* (L., 1758) | Koi-karpe; Koi | Gjelder kun domestiserte former av koi-karper. |
+| **Arthropoda** | **Leddyr; Arthropods** |  |
+| **Arachnida (Klasse)** | **Edderkopper; Spiders** |  |
+| **Theraphosidae** |  |  |
+| **Theraposinae (Underfamilie)** | **Amerikanske taranteller; New World Tarantulas** |  |
+| *Aphonopelma hentzi* (Girard, 1852) | Texas Brown Tarantula |  |
+| *Aphonopelma seemanni* (F.O. P.-Cambridge, 1897) | Striped-knee Tarantula |  |
+| *Aphonopelma texense* (Simon, 1891) | Rio Grande Copper Tarantula |  |
+| *Chromatopelma cyaneopubescens* (Strand, 1907) | Greenbottle Blue Tarantula |  |
+| *Cyriocosmus elegans* (Simon, 1889) | Trinidad Dwarf Tiger Rump |  |
+| *Euathlus pulcherrimaklaasi* (Schmidt, 1991) | Metallic Femur Beauty |  |
+| *Euathlus truculentus* (Ausserer, 1875) | Chilean Beautiful |  |
+| *Euathlus vulpinus* (Karsch, 1880) | Chilean Ocellated |  |
+| *Eupalaestrus campestratus* (Simon, 1891) | Pink Zebra Beauty |  |
+| *Grammostola aureostriata* (Schmidt & Bullmer, 2001) | Chaco Golden Knee |  |
+| *Grammostola burzaquensis* Ibarra, 1946 | Argentinean Rose Tarantula |  |
+| *Grammostola grossa* (Ausserer, 1871) | Argentina Giant Tawny Red, Pampas Tawny Red, Giant Tawny Red |  |
+| *Grammostola iheringi* (Keyserling, 1891) | Entre Rios Tarantula |  |
+| *Grammostola mollicoma* (Ausserer, 1875) | Brazilian Giant Tawny Red |  |
+| *Grammostola pulchra* Mello-Leitao, 1921 | Brazilian Black Tarantula |  |
+| *Grammostola rosea* (Walckenaer, 1837) | Chilean Rose Hair, Chilean Rose |  |
+| *Lasiodora difficilis* Mello-Leitao, 1921 | Fiery Redrump |  |
+| *Lasiodora klugi* (C.L. Koch, 1841) | Baja Scarlet, Scarlet Birdeater, Bahia Scarlet |  |
+| *Lasiodora parahybana* Mello-Leitao, 1917 | Brazilian Salmon Pink |  |
+| *Lasiodorides striatus* (Schmidt & Antonelli, 1996) | Brazilian Brown Giant |  |
+| *Megaphobema robustum* (Ausserer, 1875) | Colombian Giant Redleg, Columbian Giant |  |
+| *Megaphobema velvetosoma* Schmidt, 1995 | Ecuadorian Brownvelvet Tarantula |  |
+| *Metriopelma zebratum* Banks, 1909 | Costa Rican Suntiger Tarantula |  |
+| *Nhandu chromatus* Schmidt, 2004 | White Striped Birdeater |  |
+| *Nhandu coloratovillosus* (Schmidt, 1998) | Brazilian Black & White |  |
+| *Nhandu vulpinus* (Schmidt, 1998) | Brazilian Giant Blonde |  |
+| *Pamphobeteus antinous* Pocock, 1903 | Bolivian Blueleg |  |
+| *Pamphobeteus fortis* (Ausserer, 1875) | Colombian Brown |  |
+| *Pamphobeteus ultramarinus* Schmidt, 1995 | Ecuadorian Birdeater |  |
+| *Paraphysa parvula* (Pocock, 1903) | Chilean Gold Burst Tarantula |  |
+| *Paraphysa scrofa* (Molina, 1788) | Chilean Copper Tarantula |  |
+| *Phormictopus cancerides* (Latreille, 1806) | Haitian Brown |  |
+| *Theraphosa apophysis* Tinter, 1991 | Goliath Pinkfoot, Pinkfoot Goliath |  |
+| *Theraphosa blondi* Latreille, 1804 | Goliath Bird Eater |  |
+| *Thrixopelma ockerti* Schmidt, 1994 | Peruvian Orange Rump |  |
+| *Thrixopelma pruriens* Schmidt, 1998 | Chilean Spiny, Peruvian Green Velvet |  |
+| *Xenesthis immanis* Ausserer, 1875 | Colombian Lesserblack |  |
+| *Xenesthis intermedia* Schiapelli & Gerschman, 1945 | Amazon Blue Bloom |  |
+| **Aviculariinae** | **Amerikanske taranteller; New World Tarantulas** |  |
+| *Avicularia aurantiaca* Bauer, 1996 | Yellow Banded Pinktoe |  |
+| *Avicularia avicularia* (L., 1758) | Pinktoe Tarantula |  |
+| *Avicularia bicegoi* Mello-Leitao, 1923 | Brazilian Pinktoe |  |
+| *Avicularia braunshauseni* Tesmoingt, 1999 | Goliath Pinktoe |  |
+| *Avicularia fasciculata* Strand, 1907 | Amazon Sapphire Pink Toe |  |
+| *Avicularia geroldi* Tesmoingt, 1999 | Brazilian Blue and Red Pinktoe |  |
+| *Avicularia huriana* Tesmoingt, 1996 | Ecuadorian Pinktoe |  |
+| *Avicularia juruensis* Mello-Leitao, 1923 | Yellow Banded Pinktoe |  |
+| *Avicularia laeta* (C.L. Koch, 1842) | Puerto Rican Treespider, Puerto Rican Pinktoe |  |
+| *Avicularia metallica* Ausserer, 1875 | Metallic Pinktoe, Whitetoe |  |
+| *Avicularia minatrix* Pocock, 1903 | Venezuelan Red Stripe |  |
+| *Avicularia purpurea* Kirk, 1990 | Ecuadorian Purple Tarantula |  |
+| *Avicularia versicolor* Walckenaer, 1837 | Antilles Pinktoe |  |
+| *Ephebopus cyanognathus* West & Marshall, 2000 | French Guyanan Blue Fang, Blue Fang |  |
+| *Ephebopus murinus* (Walckenaer, 1837) | Skeleton Tarantula |  |
+| *Ephebopus rufescens* West & Marshall, 2000 | Burgundy Skeleton |  |
+| *Ephebopus uatuman* Lucas, Silva & Bertani, 1992 | Blue Fang |  |
+| *Tapinauchenius gigas* Caporiacco, 1954 | Orange Chevron Tarantula |  |
+| *Tapinauchenius purpureus* (Schmidt, 1995) | Purple Treespider |  |
+| *Tapinauchenius subcaeruleus* Bauer & Antonelli, 1997 | Metallic Tree |  |
+| **Eumenophorinae** | **Afrikanske taranteller; Old World Tarantulas** |  |
+| *Citharischius crawshayi* Pocock, 1900 | King Baboon |  |
+| *Hysterocrates ederi* Charpentier, 1995 | Guinea Goliath Baboon |  |
+| *Hysterocrates gigas* Pocock, 1897 | Cameroon Red Baboon |  |
+| *Hysterocrates hercules* Pocock, 1899 | Hercules Baboon |  |
+| **Harpactirinae** | **Afrikanske taranteller; Old World Tarantulas** |  |
+| *Pterinochilus murinus* Pocock, 1897 | Mombassa Golden Starburst |  |
+| *Pterinochilus vorax* Pocock, 1897 | African Lesser Baboon |  |
+| *Harpactirella lightfooti* Purcell, 1902 |  |  |
+| **Ornithoctoninae** | **Asiatiske taranteller; Old World Tarantulas** |  |
+| *Haplopelma lividum* Smith, 1996 | Cobalt Blue |  |
+| *Haplopelma minax* (Thorell, 1897) | Thailand Black tarantula |  |
+| **Poecilotheriinae** | **Asiatiske taranteller; Old World Tarantulas** |  |
+| *Poecilotheria fasciata* (Latreille, 1804) | Sri-Lankan Ornamental |  |
+| *Poecilotheria formosa* Pocock, 1899 | Finely Formed Parachute Spider |  |
+| *Poecilotheria ornata* Pocock, 1899 | Fringed Ornamental |  |
+| *Poecilotheria regalis* Pocock, 1899 | Regal Parachute Spider |  |
+| *Poecilotheria rufilata* Pocock, 1899 | Reddish Parachute Spider |  |
+| **Selenocosmiinae** | **Asiatiske taranteller; Old World Tarantulas** |  |
+| *Psalmopoeus cambridgei* (Pocock, 1895) | Trinidad Chevron |  |
+| **Insecta (Klasse)** | **Insekter; Insects** |  |
+| **Phasmida (Orden)** | **Pinnedyr; Stick Insects** |  |
+| **Bacillidae** |  |  |
+| *Bacillus rossius* (Rossi, 1790) | Corsican Stick Insect |  |
+| *Xylica coriacea* Redtenbacher, 1906 |  |  |
+| **Diapheromeridae** | **Common Walkingsticks** |  |
+| *Lopaphus sphalerus* (Redtenbacher, 1908) |  |  |
+| *Oreophoetes peruana* (Saussure, 1868) |  |  |
+| *Phaenopharos khaoyaiensis* Zompro, 2000 | Khao Stick Insect |  |
+| *Sceptrophasma hispidulum* (Wood-Mason, 1873) | Andamans Stick Insect |  |
+| *Sipyloidea sipylus* (Westwood, 1859) | Madagascan Stick Insect, Pink Winged Stick Insect |  |
+| *Tagesoidea nigrofasciata* Redtenbacher, 1908 | Yellow Umbrella Stick Insect |  |
+| **Heteropterygidae** |  |  |
+| *Aretaon asperrimus* (Redtenbacher, 1906) | Thorny Stick Insect |  |
+| *Epidares nolimetangere* (Haan, 1842) | Touch Me Not Stick Insect |  |
+| *Haaniella dehaanii* (Westwood, 1859) | De Haan's Haaniella |  |
+| *Heteropteryx dilatata* (Parkinson, 1798) | Jungle Nymph, Malayan Jungle Nymph |  |
+| *Sungaya inexpectata* Zompro, 1996 | Sungay Stick Insect |  |
+| **Phasmatidae** |  |  |
+| *Carausius morosus* Sinéty, 1901 | Indian Stick Insect, Laboratory Stick Insect |  |
+| *Chondrostethus woodfordi* Kirby, 1896 | Woodford's Stick Insect |  |
+| *Eurycantha calcarata* Lucas, 1869 | Giant Spiny Stick Insect |  |
+| *Eurycantha horrida* Boisduval, 1835 |  |  |
+| *Eurycnema goliath* (Gray, 1834) | Goliath Stick Insect, Regal Stick Insect |  |
+| *Extatosoma tiaratum* (Macleay, 1826) | Giant Prickly Stick Insect, Macleay's Spectre, Spiny Leaf Insect |  |
+| *Medaura jobrensis* Brock & Cliquennois, 2001 | Jobra Stick Insect |  |
+| *Medauroidea extradentata* Brunner von Wattenwyl, 1907 | Annam Stick Insect |  |
+| *Neohirasea maerens* (Brunner von Wattenwyl, 1907) | Vietnam Prickly Stick Insect |  |
+| *Parapachymorpha zomproi* Fritzsche & Gitsaga, 2000 | Zompro's Stick Insect |  |
+| *Pharnacia sumatrana* (Brunner von Wattenwyl, 1907) | Sumatran Stick Insect |  |
+| *Phobaeticus serratipes* (Gray, 1835) | Giant Malayan Stick Insect |  |
+| *Ramulus nematodes* (Haan, 1842) | Great Thin Stick Insect |  |
+| *Ramulus thaii* (Hausleithner, 1985) | Thailand Stick Insect |  |
+| *Rhaphiderus scabrosus* (Percheron, 1829–1838) | Mauritius Rough Stick Insect |  |
+| **Phylliidae** | **Leaf Insects and Walking Leaves** |  |
+| *Phyllium bioculatum* Gray, 1832 | Gray's Leaf Insect, Javanese Leaf Insect |  |
+| *Phyllium celebicum* Haan, 1842 | Celebes Leaf Insect |  |
+| *Phyllium giganteum* Hausleithner, 1984 | Giant Malaysian Leaf Insect |  |
+| *Phyllium hausleithneri* Brock, 1999 | Hausleithner's Stick Insect |  |
+| *Phyllium siccifolium* L., 1758 | Linnaeus' Leaf Insect |  |
+| **Pseudophasmatidae** |  |  |
+| *Anisomorpha buprestoides* (Stoll, 1813) | Florida Stick Insect, Two-Striped Walkingstick |  |
+| *Anisomorpha paromalus* (Westwood, 1859) | Red-striped Stick Insect |  |
+| *Lamponius guerini* (Saussure, 1868) | Guadeloupe Stick Insect |  |
+| **Blattodea (Orden)** | **Kakkerlakker; Cockroaches** |  |
+| **Blaberidae** |  |  |
+| *Blaberus craniifer* Burmeister, 1838 | Death's Heads Cockroach |  |
+| *Blaptica dubia* Serville, 1839 | South American Dubia Cockroach |  |
+| *Gromphadorhina portentosa* (Schaum, 1853) | Madagascar Hissing Cockroach |  |
+| **Orthoptera (Orden)** | **Gresshopper, sirisser; Grasshoppers, Crickets, Katydids** |  |
+| **Acrididae** | **Markgresshopper** |  |
+| *Locusta migratoria* (L., 1758) | Vandregresshoppe; Migratory Locust, Ussure |  |
+| *Schistocerca gregaria* Forskål, 1775 | Desert Locust |  |
+| **Gryllidae** | **Ekte sirisser; Crickets** |  |
+| *Gryllus assimilis* (Fabricius, 1775) |  |  |
+| *Gryllus bimaculatus* De Geer, 1773 | African or Mediterranean Field Cricket, Two-Spotted Cricket |  |
+| **Romaleidae** | **Lubber Grasshoppers** |  |
+| *Tropidacris collaris* (Stoll, 1813) |  |  |
+| **Tettigoniidae** | **Løvgresshopper; Bush Crickets, Katydids** |  |
+| *Ellatodon blanchardi* (Brongniart, 1890) |  |  |
+| **Mantodea (Orden)** | **Knelere; Mantises** |  |
+| **Empusidae** |  |  |
+| *Gongylus gongylodes* (L., 1758) |  |  |
+| *Idolomantis diabolica* (Saussure, 1869) |  |  |
+| **Hymenopodidae** |  |  |
+| *Creobroter gemmatus* Stoll, 1813 |  |  |
+| *Creobroter pictipennis* Wood-Mason, 1878 |  |  |
+| *Hymenopus coronatus* (Olivier, 1792) | Malasian Orchid Mantis |  |
+| *Oxyopsis gracilis* Giglio-Tos, 1914 |  |  |
+| *Pseudocreobotra ocellata* (Palisot de Beauvois, 1805) |  |  |
+| *Pseudocreobotra wahlbergii* Stål, 1871 | Spiny Flower Mantis |  |
+| **Mantidae** |  |  |
+| *Ceratomantis saussurii* (WoodMason, 1876) |  |  |
+| *Ceratomantis yunnanensis* (Zhang, 1986) |  |  |
+| *Parasphendale affinis* (Giglio-Tos, 1915) |  |  |
+| *Parasphendale agrionina* (Gerstaecker, 1869) |  |  |
+| *Popa spurca* (Stål, 1856) | African Twig Mantis |  |
+| **Coleoptera (Orden)** | **Biller; Beetles** |  |
+| **Cetoniidae** |  |  |
+| *Goliathus albosignatus* Boheman, 1857 |  |  |
+| *Goliathus cacicus* (Olivier, 1789) | Goliath Beetle |  |
+| *Goliathus goliatus* (L., 1771) |  |  |
+| *Goliathus regius* Klug, 1835 |  |  |
+| *Mecynorrhina ugandensis* (Moser, 1906) |  |  |
+| *Pachnoda marginata* (Drury, 1773) | Sun Beetle |  |
+| **Dynastidae** |  |  |
+| *Chalcosoma atlas* (L., 1758) | Atlas Beetle |  |
+| *Chalcosoma caucasus* Fabricius, 1801 | Caucasus Beetle |  |
+| *Chalcosoma chiron* Olivier, 1789 |  |  |
+| *Chalcosoma moellenkampi* Kolbe, 1900 |  |  |
+| *Dichodontus grandis* Ritsema, 1882 |  |  |
+| *Dynastes grantii* Horn, 1870 | Southwestern Hercules Beetle |  |
+| *Dynastes hercules* (L., 1758) | Herkulesbille |  |
+| *Dynastes neptunus* Quensel in Schönherr, 1805 |  |  |
+| *Dynastes tityus* L., 1763 | Eastern Hercules Beetle |  |
+| *Eudicella smithii* (MacLeay, 1838) |  |  |
+| *Megasoma actaeon* L., 1758 |  |  |
+| *Megasoma mars* (Reiche, 1852) |  |  |
+| *Oryctes gnu* Mohnike, 1874 |  |  |
+| *Xylotrupes gideon* (L., 1767) |  |  |
+| **Lucanidae** | **Eikehjorter; Stag Horn Beetles** |  |
+| *Allotopus moellenkampi* (Fruhstorfer, 1894) | Golden Stag Beetle |  |
+| *Allotopus rosenbergi* (Vollenhoven, 1872) |  |  |
+| *Cyclommatus elaphus* Gestro, 1881 | Harlequin Beetle |  |
+| *Cyclommatus imperator* Boileau, 1905 |  |  |
+| *Cyclommatus metallifer* (Boisduval, 1835) |  |  |
+| *Cyclommatus pasteuri* Ritsema, 1891 |  |  |
+| *Dorcus alcides* (Vollenhoven, 1865) |  |  |
+| *Dorcus bucephalus* (Perty, 1831) |  |  |
+| *Dorcus grandis* Didier, 1926 |  |  |
+| *Dorcus parryi* (Thomson, 1862) |  |  |
+| *Dorcus titanus* (Boisduval, 1835) |  |  |
+| *Hexarthrius buqueti* (Hope, 1843) |  |  |
+| *Hexarthrius mandibularis* Deyrolle, 1881 |  |  |
+| *Hexarthrius parryi* Hope, 1842 |  |  |
+| *Hexarthrius rhinoceros* (Olivier, 1789) |  |  |
+| *Odontolabis bellicosus* (Castelnau, 1837) |  |  |
+| *Odontolabis dalmani* (Hope & Westwood, 1845) |  |  |
+| *Odontolabis lacordairei* (Vollenhoven, 1861) |  |  |
+| *Odontolabis ludekingi* (Vollenhoven, 1861) |  |  |
+| *Odontolabis stevensi* Thomson, 1862 |  |  |
+| *Odontolabis striata* Deyrolle, 1864 |  |  |
+| *Odontolabis wollastoni* Parry, 1864 |  |  |
+| *Prosopocoilus astacoides* (Hope, 1840) |  |  |
+| *Prosopocoilus giraffa* Olivier, 1789 |  |  |
+| *Prosopocoilus inclinatus* Motschulsky, 1857 |  |  |
+| *Prosopocoilus lateralis* (Hope & Westwood, 1845) |  |  |
+| *Prosopocoilus natalensis* (Parry, 1864) |  |  |
+| *Prosopocoilus savagei* Hope, 1842 |  |  |
+| *Prosopocoilus umhangi* Fairmaire, 1891 |  |  |
+| **Tenebrionidae** |  |  |
+| *Zophobas morio* Fabricius, 1776 | Kingworm, Superworm |  |
+| *Tenebrio molitor* L., 1758 | Stor melbille; Mealworm |  |
+| **Hymenoptera (Orden)** | **Årevinger; Ants, Bees and Wasps** |  |
+| **Apidae** | **Langtungebier; Honeybees and Bumblebees** |  |
+| *Apis mellifera* L., 1758 | Europeisk honningbie; Western Honey Bee | Til birøktformål. |
+| *Bombus terrestris terrestris* | Mørk jordhumle | Unntaket gjelder kun mørk jordhumle fra norske bestander av *Bombus terrestris terrestris* til pollinering i veksthus, og kun dersom det gis melding før innførselen i samsvar med forskriften [§ 16](forskrift/2015-06-19-716/§16), jf. [§ 8](forskrift/2015-06-19-716/§8). |
+|  |  |  |
+| **Diptera (Orden)** | **Tovinger** |  |
+| **Calliphoridae** | **Spyfluer** |  |
+| *Calliphora vomitoria* (Linnaeus, 1758) | Blue Bottle Fly |  |
+| *Phaenicia sericata* syn. *Lucilia sericata* (Meigen, 1826) | Sheep Blow Fly |  |
+|  |  |  |
+| **Chironomidae** | **Fjærmygg; Chironomids** |  |
+| *Chironomus plumosus* (Linnaeus, 1758) | Buzzer Midge |  |
+| *Chironomus balatonicus* (Devai, Wuelker & Scholl, 1983) |  |  |
+|  |  |  |
+| **Annelida (rekke)** | **Leddormer; Annelids** |  |
+| *Dendrobaena rubidus* | Stubbemeitemark |  |
+| *Dendrobaena octaedra* (Savigny, 1826) | Mosemeitemark |  |
+| *Dendrobaena attemsi* (Michaelsen, 1902) |  |  |
+| *Allolodophora clorotica* | Grønnmeitemark |  |
+| *Lumbricus castaneus* (Savigny, 1826) | Løvmeitemark |  |
+| *Lumbricus festivus* (Savigny, 1826) | Mørkmeitemark |  |
+| *Lumbricus rubellus* Hoffmeister, 1843 | Skogmeitemark; Red Earthworm |  |
+| *Lumbricus terrestris* Linnaeus, 1758 | Stormeitemark; Earthworm |  |
+| *Octolasion cyaneum* (Savigny, 1826) | Blåmeitemark |  |
+| *Octolasion lacteum* (Örley, 1881) | Hvitmeitemark |  |
+| *Aporrectodea rosea* (Savigny, 1826) | Rosameitemark |  |
+| *Aporrectodea longa* (Ude, 1886) | Langmeitemark |  |
+| *Aporrectodea caliginosa* (Savigny, 1826) | Gråmeitemark; Common Earthworm |  |
+| *Aporrectodea icterica* (Savigny, 1826) |  |  |
+| *Aporrectodea limicola* (Michaelsen, 1890) |  |  |
+| *Eisenia fetida* (Savigny, 1826) | Kompostmeitemark; Common Brandling Worm |  |
+| *Eisenia hortensis* (Michaelsen, 1890) | Hagemeitemark |  |
+| *Eisenia andrei* Bouché, 1972 |  |  |
+| *Eiseniella tetraedra* (Savigny, 1826) | Bekkemeitemark |  |
 
 > Endret ved [forskrift 11 mai 2017 nr. 566](forskrift/2017-05-11-566) (i kraft 15 aug 2017).
 
 ## Vedlegg III – organismer som krever tillatelse for innførsel etter [§ 7](forskrift/2015-06-19-716/§7) andre ledd
 
-Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.*Vitenskaplige navn**Trivialnavn**Merknad***Vertebrata****Virveldyr; Vertebrates****Actinopterygii (Klasse)****Fisk; Fish****Amiidae***Amia calva* L., 1766Hundefisk; Bowfin**Atherinidae****Silversides***Labidesthes sicculus* (Cope, 1865)Nordamerikansk stripefisk; Brook Silverside**Balitoridae***Barbatula barbatula* (L., 1758)Europeisk smerling; Stone Loach**Cobitidae****Sandsmettfamilien; Loaches***Misgurnus* spp. Lacepède, 1803Alle arter væråler; Weatherfishes, Weather Loaches – All species*Cobitis melanoleuca* Nichols, 1925Sibirsk sandsmett; Siberian Spined Loach*Cobitis taenia* L., 1758Nordlig sandsmett; Spined Loach**Cyprinidae****Karpefamilien; Minnows and Carps***Chondrostoma nasus* (L., 1758)Nesling; Nase*Ctenopharyngodon idella* (Valenciennes, 1844)Gresskarpe; Grass Carp*Gobio gobio* L., 1758Grundling; Gudgeon*Hypophthalmichthys molitrix* (Valenciennes, 1844)Sølvkarpe; Silver Carp*Leucaspius delineates* (Heckel, 1843)Regnlaue; Moderlieschen*Leuciscus idus* (L., 1758)Vederbuk; Ide*Pseudorasbora parva* Temminck & Schlegels, 1846Topmouth Gudgeon*Tinca tinca* (L., 1758)Suter; TenchAlle former, inkludert gullsuter.*Vimba vimba* (L, 1758)Vimme; Zarte*Pomoxis* spp. Rafinesque, 1818Crappie – All species*Carassius auratus* (L., 1758)Gullfisk; GoldfishKun villformer.*Cyprinus carpio* L., 1758Karpe; Common CarpKun villformer.
-Gjelder de fire hovedvariantene; skjellkarpe, speilkarpe, radkarpe og lærkarpe.**Channidae***Channa argus* (Cantor, 1842)Nordlig ormehodefisk; Northern Snakehead**Osphronemidae****Guramier; Gourami***Macropodus ocellatus* Cantor, 1842Kinesisk paradisfisk; Round Tail Paradise Fish**Percidae****Abborfamilien; Perches**Percidae spp.Alle arter i abborfamilien; Perches – All species**Diplomystidae****Velvet Cat Fishes**Diplomystidae spp.Alle arter i familien; Velvet Cat Fishes – All species**Ictaluridae****Dvergmallefamilien; North American Freshwater Catfishes**Ictaluridae spp.Alle arter i dvergmallefamilien; North American Freshwater Catfishes – All species**Tunicata****Kappedyr; Tunicates****Ascidiacea (Klasse)****Sekkdyr; Sea Squirts****Botryllidae***Botrylloides violaceus* (Oka 1927)Violet Tunicate**Arthropoda (Rekke)****Leddyr; Arthropods****Crustacea (Underrekke)****Krepsdyr; Crustaceans****Malacostraca (Klasse)****Storkreps; Malacostracans****Atyidae****Bowfin family***Atyaephyra desmaresti* (Millet, 1831)Ferskvannsreke; Iberian/European Dwarf Shrimp**Gecarcinucidae***Sartoriana spinigera* (Wood-Mason, 1871)Indisk elvekrabbe**Grapsidae****Marsh Crabs***Percnon gibbesi* (H. Milne Edwards, 1853)Sally Light Foot Crab**Palaemonidae****Palemonid Shrimps***Palaemonetes* spp. Heller, 1869Alle arter kloreker unntatt *Palaemon concinnus*; Ghost Shrimps, Glass Shrimps – All species except *Palaemon concinnus***Mollusca (Underrekke)****Bløtdyr; Molluscs****Bivalvia (Klasse)****Muslinger; Bivalves****Corbiculidae****Basket Clams***Corbicula* spp. Megerle von Mühlfeld, 1811Alle arter ferskvannsmuslinger; Basket Clams – All species**Gastropoda (Klasse)****Snegler; Snails and Slugs****Neritidae****Nerites***Theodoxus* spp. Montfort, 1810Alle arter ferskvannssnegl; *Theodoxus* – All species**Viviparidae****Sumpsnegler; River Snails**Viviparidae spp.
-unntatt *Celetaia persculpta* (Sarasin & Sarasin, 1898) og *Filopaludina sumatrensis* (Martens, 1860).Alle arter sumpsnegler unntatt *Celetaia persculpta* og *Filopaludina sumatrensis*;
-All species River Snails except *Celetaia persculpta* and *Filopaludina sumatrensis***Lymnaeidae****Damsnegler; Pond Snails**Lymnaeidae spp.Alle arter damsnegler; Pond Snails – All species**Acroloxidae****Toppluesnegler; River Limpets***Acroloxus lacustris* (L., 1758)Lav toppluesnegl; Lake Limpet**Physidae****Blæresnegler; Bladder Snails**Physidae spp.Alle arter skivesnegler, posthornsnegler; Bladder Snails – All species**Algae****Alger; Algae****Caulerpaceae***Caulerpa taxifolia* (Vahl) C. AgardhMorderalge; Caulerpa, Killer Algae*Caulerpa racemosa* (Forsskål) J. Agardh**Cladophoraceae***Cladophora aegagrophila* KützingMosekule; Algae Ball**Rhodymeniaceae***Rhodymenia pseudopalmata* (J.V. Lamouroux) P.C. SilvaRosy Fan Weed**Plantae****Planter; Plants****Ricciaceae****Gaffelmosefamilien***Ricciocarpos natans* (L.) CordaSvanemat; Purple-fringed Riccia*Riccia fluitans* L.Vassgaffelmose; Crystalwort**Pteridophyta (Divisjon)****Karsporeplanter; Ferns****Azollaceae****Andematbregnefamilien; Mosquito Fern family***Azolla filiculoides* Lam.Andematbregne; Water Fern**Salviniaceae***Salvinia molesta* D.S. MitchellGiant Salvina*Salvinia natans* (L.) All.Floating Watermoss**Lycopodiophyta (Divisjon)****Kråkefotplanter; Lycopods****Isoetaceae****Brasmegrasfamilien; Quillworts***Isoëtes* spp. L.Alle arter brasmegras; Quillworts – All species**Angiospermae (Klasse)****Dekkfrøede planter; Flowering Plants****Acoraceae****Kalmusrotfamilien; Sweet-Flag family***Acorus calamus* L.Kalmusrot; Sweet Flag**Araceae****Myrkonglefamilien; Arum family***Calla palustris* L.Myrkongle; Bog Arum*Lemna* spp. L.Alle arter i andematslekta; Duckweeds – All species*Pistia stratiotes* L.Muslingblom; Water Lettuce*Spirodela polyrrhiza* (L.) SchleidStor andemat; Greater Duckweed*Wolffia arrhiza* (L.) Horkel ex Wimm.Rootless Duckweed**Ceratophyllaceae****Hornbladfamilien; Hornwort family***Ceratophyllum* spp. L.Alle arter i hornbladslekten; Hornworts – All species**Crassulaceae****Bergknappfamilien; Stonecrop family***Crassula helmsii* (Kirk) CockayneSwamp Stonecrop, New Zealand Pygmyweed**Cyperaceae****Starrfamilien; Sedge family***Eleocharis* spp. R. Br.Alle arter i sumpsivaksslekten; Sedge family – All species**Elatinaceae****Evjeblomfamilien; Waterwort family***Elatine triandra* SchkuhrTrefelt evjeblom; Threestamen Waterwort**Haloragidaceae****Tusenbladfamilien; Watermilfoil family***Myriophyllum* spp. L.Alle arter i tusenbladslekten; Water milfoils – All species**Hydrocharitaceae****Froskebittfamilien; Frogbit family***Stratiotes aloides* L.Vassaloë; Water Soldier*Egeria densa* Planch.Brasiliansk vasspest; Large-flowered Waterweed*Elodea* spp. RichAlle arter i vasspestslekten; Spike Rushes – All species*Elodea nuttallii* og *Elodea canadensis* er forbudt å innføre, jf. vedlegg I.*Hydrilla verticillata* (L.f.) RoyleHydrilla*Hydrocharis morsus-ranae* L.Froskebitt; Frogbit*Lagarosiphon major* (Ridley) MossCurly Waterweed*Najas* spp. L.Alle arter i havfruegrasslekten; Naiads – All species*Vallisneria spiralis* L.Tape Grass**Lentibulariaceae****Blærerotfamilien; Bladderwort family***Utricularia* spp. L.Alle arter i blærerotslekten; Bladderworts – All species**Lythraceae****Kattehalefamilien; Loosestrife family***Trapa natans* L.Vassnøtt; Water Chestnut**Menyanthaceae****Bukkebladfamilien; Bog Bean family***Nymphoides peltata* (S.G. Gmel.) KuntzeSjøgull; Fringed Water-lily, Yellow Floating-heart, Water Fringe**Nymphaeaceae****Nøkkerosefamilien; Water Lily family***Nymphaea alba*. L.Hvit nøkkerose; White Waterlily – All species**Plantaginaceae****Maskeblomstfamilien; Snapdragon family***Littorella uniflora* (L.) AschersTjerngras, Tjønngras; American Shoreweed**Pontederiaceae****Vannhyasintfamilien; Water Hyacinth family***Eichhornia crassipes* (Mart.) SolmsVannhyasint; Water Hyacinth**Potamogetonaceae****Tjernaksfamilien; Pondweed family***Potamogeton* spp. L.Alle arter i tjernaksfamilien; Pondweed family – All species**Ranunculaceae****Soleiefamilien; Buttercup family***Ranunculus aquatilis* L.Kystvassoleie; Common Water-Crowfoot, White Water-Crowfoot
+Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.
+
+| *Vitenskaplige navn* | *Trivialnavn* | *Merknad* |
+| --- | --- | --- |
+| **Vertebrata** | **Virveldyr; Vertebrates** |  |
+| **Actinopterygii (Klasse)** | **Fisk; Fish** |  |
+| **Amiidae** |  |  |
+| *Amia calva* L., 1766 | Hundefisk; Bowfin |  |
+| **Atherinidae** | **Silversides** |  |
+| *Labidesthes sicculus* (Cope, 1865) | Nordamerikansk stripefisk; Brook Silverside |  |
+| **Balitoridae** |  |  |
+| *Barbatula barbatula* (L., 1758) | Europeisk smerling; Stone Loach |  |
+| **Cobitidae** | **Sandsmettfamilien; Loaches** |  |
+| *Misgurnus* spp. Lacepède, 1803 | Alle arter væråler; Weatherfishes, Weather Loaches – All species |  |
+| *Cobitis melanoleuca* Nichols, 1925 | Sibirsk sandsmett; Siberian Spined Loach |  |
+| *Cobitis taenia* L., 1758 | Nordlig sandsmett; Spined Loach |  |
+| **Cyprinidae** | **Karpefamilien; Minnows and Carps** |  |
+| *Chondrostoma nasus* (L., 1758) | Nesling; Nase |  |
+| *Ctenopharyngodon idella* (Valenciennes, 1844) | Gresskarpe; Grass Carp |  |
+| *Gobio gobio* L., 1758 | Grundling; Gudgeon |  |
+| *Hypophthalmichthys molitrix* (Valenciennes, 1844) | Sølvkarpe; Silver Carp |  |
+| *Leucaspius delineates* (Heckel, 1843) | Regnlaue; Moderlieschen |  |
+| *Leuciscus idus* (L., 1758) | Vederbuk; Ide |  |
+| *Pseudorasbora parva* Temminck & Schlegels, 1846 | Topmouth Gudgeon |  |
+| *Tinca tinca* (L., 1758) | Suter; Tench | Alle former, inkludert gullsuter. |
+| *Vimba vimba* (L, 1758) | Vimme; Zarte |  |
+| *Pomoxis* spp. Rafinesque, 1818 | Crappie – All species |  |
+| *Carassius auratus* (L., 1758) | Gullfisk; Goldfish | Kun villformer. |
+| *Cyprinus carpio* L., 1758 | Karpe; Common Carp | Kun villformer.<br>Gjelder de fire hovedvariantene; skjellkarpe, speilkarpe, radkarpe og lærkarpe. |
+| **Channidae** |  |  |
+| *Channa argus* (Cantor, 1842) | Nordlig ormehodefisk; Northern Snakehead |  |
+| **Osphronemidae** | **Guramier; Gourami** |  |
+| *Macropodus ocellatus* Cantor, 1842 | Kinesisk paradisfisk; Round Tail Paradise Fish |  |
+| **Percidae** | **Abborfamilien; Perches** |  |
+| Percidae spp. | Alle arter i abborfamilien; Perches – All species |  |
+| **Diplomystidae** | **Velvet Cat Fishes** |  |
+| Diplomystidae spp. | Alle arter i familien; Velvet Cat Fishes – All species |  |
+| **Ictaluridae** | **Dvergmallefamilien; North American Freshwater Catfishes** |  |
+| Ictaluridae spp. | Alle arter i dvergmallefamilien; North American Freshwater Catfishes – All species |  |
+| **Tunicata** | **Kappedyr; Tunicates** |  |
+| **Ascidiacea (Klasse)** | **Sekkdyr; Sea Squirts** |  |
+| **Botryllidae** |  |  |
+| *Botrylloides violaceus* (Oka 1927) | Violet Tunicate |  |
+| **Arthropoda (Rekke)** | **Leddyr; Arthropods** |  |
+| **Crustacea (Underrekke)** | **Krepsdyr; Crustaceans** |  |
+| **Malacostraca (Klasse)** | **Storkreps; Malacostracans** |  |
+| **Atyidae** | **Bowfin family** |  |
+| *Atyaephyra desmaresti* (Millet, 1831) | Ferskvannsreke; Iberian/European Dwarf Shrimp |  |
+| **Gecarcinucidae** |  |  |
+| *Sartoriana spinigera* (Wood-Mason, 1871) | Indisk elvekrabbe |  |
+| **Grapsidae** | **Marsh Crabs** |  |
+| *Percnon gibbesi* (H. Milne Edwards, 1853) | Sally Light Foot Crab |  |
+| **Palaemonidae** | **Palemonid Shrimps** |  |
+| *Palaemonetes* spp. Heller, 1869 | Alle arter kloreker unntatt *Palaemon concinnus*; Ghost Shrimps, Glass Shrimps – All species except *Palaemon concinnus* |  |
+| **Mollusca (Underrekke)** | **Bløtdyr; Molluscs** |  |
+| **Bivalvia (Klasse)** | **Muslinger; Bivalves** |  |
+| **Corbiculidae** | **Basket Clams** |  |
+| *Corbicula* spp. Megerle von Mühlfeld, 1811 | Alle arter ferskvannsmuslinger; Basket Clams – All species |  |
+| **Gastropoda (Klasse)** | **Snegler; Snails and Slugs** |  |
+| **Neritidae** | **Nerites** |  |
+| *Theodoxus* spp. Montfort, 1810 | Alle arter ferskvannssnegl; *Theodoxus* – All species |  |
+| **Viviparidae** | **Sumpsnegler; River Snails** |  |
+| Viviparidae spp.<br>unntatt *Celetaia persculpta* (Sarasin & Sarasin, 1898) og *Filopaludina sumatrensis* (Martens, 1860). | Alle arter sumpsnegler unntatt *Celetaia persculpta* og *Filopaludina sumatrensis*;<br>All species River Snails except *Celetaia persculpta* and *Filopaludina sumatrensis* |  |
+| **Lymnaeidae** | **Damsnegler; Pond Snails** |  |
+| Lymnaeidae spp. | Alle arter damsnegler; Pond Snails – All species |  |
+| **Acroloxidae** | **Toppluesnegler; River Limpets** |  |
+| *Acroloxus lacustris* (L., 1758) | Lav toppluesnegl; Lake Limpet |  |
+| **Physidae** | **Blæresnegler; Bladder Snails** |  |
+| Physidae spp. | Alle arter skivesnegler, posthornsnegler; Bladder Snails – All species |  |
+| **Algae** | **Alger; Algae** |  |
+| **Caulerpaceae** |  |  |
+| *Caulerpa taxifolia* (Vahl) C. Agardh | Morderalge; Caulerpa, Killer Algae |  |
+| *Caulerpa racemosa* (Forsskål) J. Agardh |  |  |
+| **Cladophoraceae** |  |  |
+| *Cladophora aegagrophila* Kützing | Mosekule; Algae Ball |  |
+| **Rhodymeniaceae** |  |  |
+| *Rhodymenia pseudopalmata* (J.V. Lamouroux) P.C. Silva | Rosy Fan Weed |  |
+| **Plantae** | **Planter; Plants** |  |
+| **Ricciaceae** | **Gaffelmosefamilien** |  |
+| *Ricciocarpos natans* (L.) Corda | Svanemat; Purple-fringed Riccia |  |
+| *Riccia fluitans* L. | Vassgaffelmose; Crystalwort |  |
+| **Pteridophyta (Divisjon)** | **Karsporeplanter; Ferns** |  |
+| **Azollaceae** | **Andematbregnefamilien; Mosquito Fern family** |  |
+| *Azolla filiculoides* Lam. | Andematbregne; Water Fern |  |
+| **Salviniaceae** |  |  |
+| *Salvinia molesta* D.S. Mitchell | Giant Salvina |  |
+| *Salvinia natans* (L.) All. | Floating Watermoss |  |
+| **Lycopodiophyta (Divisjon)** | **Kråkefotplanter; Lycopods** |  |
+| **Isoetaceae** | **Brasmegrasfamilien; Quillworts** |  |
+| *Isoëtes* spp. L. | Alle arter brasmegras; Quillworts – All species |  |
+| **Angiospermae (Klasse)** | **Dekkfrøede planter; Flowering Plants** |  |
+| **Acoraceae** | **Kalmusrotfamilien; Sweet-Flag family** |  |
+| *Acorus calamus* L. | Kalmusrot; Sweet Flag |  |
+| **Araceae** | **Myrkonglefamilien; Arum family** |  |
+| *Calla palustris* L. | Myrkongle; Bog Arum |  |
+| *Lemna* spp. L. | Alle arter i andematslekta; Duckweeds – All species |  |
+| *Pistia stratiotes* L. | Muslingblom; Water Lettuce |  |
+| *Spirodela polyrrhiza* (L.) Schleid | Stor andemat; Greater Duckweed |  |
+| *Wolffia arrhiza* (L.) Horkel ex Wimm. | Rootless Duckweed |  |
+| **Ceratophyllaceae** | **Hornbladfamilien; Hornwort family** |  |
+| *Ceratophyllum* spp. L. | Alle arter i hornbladslekten; Hornworts – All species |  |
+| **Crassulaceae** | **Bergknappfamilien; Stonecrop family** |  |
+| *Crassula helmsii* (Kirk) Cockayne | Swamp Stonecrop, New Zealand Pygmyweed |  |
+| **Cyperaceae** | **Starrfamilien; Sedge family** |  |
+| *Eleocharis* spp. R. Br. | Alle arter i sumpsivaksslekten; Sedge family – All species |  |
+| **Elatinaceae** | **Evjeblomfamilien; Waterwort family** |  |
+| *Elatine triandra* Schkuhr | Trefelt evjeblom; Threestamen Waterwort |  |
+| **Haloragidaceae** | **Tusenbladfamilien; Watermilfoil family** |  |
+| *Myriophyllum* spp. L. | Alle arter i tusenbladslekten; Water milfoils – All species |  |
+| **Hydrocharitaceae** | **Froskebittfamilien; Frogbit family** |  |
+| *Stratiotes aloides* L. | Vassaloë; Water Soldier |  |
+| *Egeria densa* Planch. | Brasiliansk vasspest; Large-flowered Waterweed |  |
+| *Elodea* spp. Rich | Alle arter i vasspestslekten; Spike Rushes – All species | *Elodea nuttallii* og *Elodea canadensis* er forbudt å innføre, jf. vedlegg I. |
+| *Hydrilla verticillata* (L.f.) Royle | Hydrilla |  |
+| *Hydrocharis morsus-ranae* L. | Froskebitt; Frogbit |  |
+| *Lagarosiphon major* (Ridley) Moss | Curly Waterweed |  |
+| *Najas* spp. L. | Alle arter i havfruegrasslekten; Naiads – All species |  |
+| *Vallisneria spiralis* L. | Tape Grass |  |
+| **Lentibulariaceae** | **Blærerotfamilien; Bladderwort family** |  |
+| *Utricularia* spp. L. | Alle arter i blærerotslekten; Bladderworts – All species |  |
+| **Lythraceae** | **Kattehalefamilien; Loosestrife family** |  |
+| *Trapa natans* L. | Vassnøtt; Water Chestnut |  |
+| **Menyanthaceae** | **Bukkebladfamilien; Bog Bean family** |  |
+| *Nymphoides peltata* (S.G. Gmel.) Kuntze | Sjøgull; Fringed Water-lily, Yellow Floating-heart, Water Fringe |  |
+| **Nymphaeaceae** | **Nøkkerosefamilien; Water Lily family** |  |
+| *Nymphaea alba*. L. | Hvit nøkkerose; White Waterlily – All species |  |
+| **Plantaginaceae** | **Maskeblomstfamilien; Snapdragon family** |  |
+| *Littorella uniflora* (L.) Aschers | Tjerngras, Tjønngras; American Shoreweed |  |
+| **Pontederiaceae** | **Vannhyasintfamilien; Water Hyacinth family** |  |
+| *Eichhornia crassipes* (Mart.) Solms | Vannhyasint; Water Hyacinth |  |
+| **Potamogetonaceae** | **Tjernaksfamilien; Pondweed family** |  |
+| *Potamogeton* spp. L. | Alle arter i tjernaksfamilien; Pondweed family – All species |  |
+| **Ranunculaceae** | **Soleiefamilien; Buttercup family** |  |
+| *Ranunculus aquatilis* L. | Kystvassoleie; Common Water-Crowfoot, White Water-Crowfoot |  |
 
 ## Vedlegg IV – organismer som kan settes ut uten tillatelse etter [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav a
 
 ***Generelt vilkår:* Det forutsettes at holdet/utsettingen utøves i samsvar med aktsomhetsplikten i [kapittel V](forskrift/2015-06-19-716/kapv) og forskriftens øvrige bestemmelser samt med øvrig gjeldende regelverk.**
 
-Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.*Vitenskapelige navn**Trivialnavn**Vilkår***Mammalia (Klasse)****Pattedyr; Mammals****Camelidae****Kameldyr***Lama glama* L., 1758Lama; LlamaKun til landbruksformål.*Vicugna pacos* L., 1758Alpakka; AlpacaKun til landbruksformål.**Aves (Klasse)****Fugler; Birds****Dromaiidae****Emu; Emus***Dromaius novaehollandiae* (Latham, 1790)Emu; EmuDomestisert. Fra oppdrett. Kun til landbruksformål.**Rheidae****Nanduer; Rheas***Rhea americana* (L., 1758)Stornandu; Greater RheaDomestisert. Fra oppdrett. Kun til landbruksformål.**Actinopterygii (Klasse)****Fisk; Fish****Cyprinidae****Karpefamilien; Minnows and Carps***Carassius auratus* (L., 1758)Gullfisk; GoldfishDomestiserte former. Kun utsetting i hagedam, jf. [§ 4](forskrift/2015-06-19-716/§4) bokstav d. Gjelder ikke i hagedam der det er forekomster av truede amfibiearter.*Cyprinus carpio* L., 1758Koikarpe; Common CarpDomestiserte former. Kun utsetting i hagedam, jf. [§ 4](forskrift/2015-06-19-716/§4) bokstav d. Gjelder ikke i hagedam der det er forekomster av truede amfibiearter.**Insecta (Klasse)****Insekter; Insects****Hymenoptera (Orden)****Årevinger; Ants, Bees and Wasps****Apidae****Langtungebier;***Apis mellifera* L., 1758Europeisk honningbie; Western Honey BeeTil birøktformål.*Bombus terrestris terrestris*Mørk jordhumle; Buff-Tailed BumblebeeUnntaket gjelder kun utsetting av mørk jordhumle fra norske bestander til pollinering i veksthus, og kun dersom det gis melding til Miljødirektoratet i samsvar med forskriften [§ 16](forskrift/2015-06-19-716/§16), jf. [§ 12](forskrift/2015-06-19-716/§12).**Diptera (Orden)****Tovinger****Calliphoridae****Spyfluer***Calliphora vomitoria* (Linnaeus, 1758)Blue Bottle Fly*Phaenicia sericata* syn. *Lucilia sericata* (Meigen, 1826)Sheep Blow Fly**Chironomidae****Fjærmygg; Chironomids***Chironomus plumosus* (Linnaeus 1758)Buzzer midge*Chironomus balatonicus* (Devai, Wuelker & Scholl, 1983)**Annelida (Rekke)****Leddormer***Dendrobaena rubidus* syn. *Dendrobaena rubida* (Savigny, 1826)Stubbemeitemark; Jumbo red worms, Wigglers*Dendrobaena octaedra* (Savigny, 1826)Mosemeitemark*Dendrobaena attemsi* (Michaelsen, 1902)*Allolodophora clorotica*Grønnmeitemark*Lumbricus castaneus* (Savigny, 1826)Løvmeitemark*Lumbricus festivus* (Savigny, 1826)Mørkmeitemark*Lumbricus rubellus* Hoffmeister, 1843Skogmeitemark; Red Earthworm*Lumbricus terrestris* Linnaeus, 1758Stormeitemark; Earthworm*Octolasion cyaneum* (Savigny, 1826)Blåmeitemark*Octolasion lacteum* (Örley, 1881)Hvitmeitemark*Aporrectodea rosea* (Savigny, 1826)Rosameitemark*Aporrectodea longa* (Ude, 1886)Langmeitemark*Aporrectodea caliginosa* (Savigny, 1826)Gråmeitemark; Common Earthworm*Aporrectodea icterica* (Savigny, 1826)*Aporrectodea limicola* (Michaelsen, 1890)*Eisenia fetida* (Savigny, 1826)Kompostmeitemark; Common Brandling Worm*Eisenia hortensis* (Michaelsen, 1890)Hagemeitemark*Eisenia andrei* Bouché, 1972*Eiseniella tetraedra* (Savigny, 1826)Bekkemeitemark
+Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.
+
+| *Vitenskapelige navn* | *Trivialnavn* | *Vilkår* |
+| --- | --- | --- |
+| **Mammalia (Klasse)** | **Pattedyr; Mammals** |  |
+| **Camelidae** | **Kameldyr** |  |
+| *Lama glama* L., 1758 | Lama; Llama | Kun til landbruksformål. |
+| *Vicugna pacos* L., 1758 | Alpakka; Alpaca | Kun til landbruksformål. |
+| **Aves (Klasse)** | **Fugler; Birds** |  |
+| **Dromaiidae** | **Emu; Emus** |  |
+| *Dromaius novaehollandiae* (Latham, 1790) | Emu; Emu | Domestisert. Fra oppdrett. Kun til landbruksformål. |
+| **Rheidae** | **Nanduer; Rheas** |  |
+| *Rhea americana* (L., 1758) | Stornandu; Greater Rhea | Domestisert. Fra oppdrett. Kun til landbruksformål. |
+| **Actinopterygii (Klasse)** | **Fisk; Fish** |  |
+| **Cyprinidae** | **Karpefamilien; Minnows and Carps** |  |
+| *Carassius auratus* (L., 1758) | Gullfisk; Goldfish | Domestiserte former. Kun utsetting i hagedam, jf. [§ 4](forskrift/2015-06-19-716/§4) bokstav d. Gjelder ikke i hagedam der det er forekomster av truede amfibiearter. |
+| *Cyprinus carpio* L., 1758 | Koikarpe; Common Carp | Domestiserte former. Kun utsetting i hagedam, jf. [§ 4](forskrift/2015-06-19-716/§4) bokstav d. Gjelder ikke i hagedam der det er forekomster av truede amfibiearter. |
+|  |  |  |
+| **Insecta (Klasse)** | **Insekter; Insects** |  |
+| **Hymenoptera (Orden)** | **Årevinger; Ants, Bees and Wasps** |  |
+| **Apidae** | **Langtungebier;** |  |
+| *Apis mellifera* L., 1758 | Europeisk honningbie; Western Honey Bee | Til birøktformål. |
+| *Bombus terrestris terrestris* | Mørk jordhumle; Buff-Tailed Bumblebee | Unntaket gjelder kun utsetting av mørk jordhumle fra norske bestander til pollinering i veksthus, og kun dersom det gis melding til Miljødirektoratet i samsvar med forskriften [§ 16](forskrift/2015-06-19-716/§16), jf. [§ 12](forskrift/2015-06-19-716/§12). |
+|  |  |  |
+| **Diptera (Orden)** | **Tovinger** |  |
+| **Calliphoridae** | **Spyfluer** |  |
+| *Calliphora vomitoria* (Linnaeus, 1758) | Blue Bottle Fly |  |
+| *Phaenicia sericata* syn. *Lucilia sericata* (Meigen, 1826) | Sheep Blow Fly |  |
+|  |  |  |
+| **Chironomidae** | **Fjærmygg; Chironomids** |  |
+| *Chironomus plumosus* (Linnaeus 1758) | Buzzer midge |  |
+| *Chironomus balatonicus* (Devai, Wuelker & Scholl, 1983) |  |  |
+|  |  |  |
+| **Annelida (Rekke)** | **Leddormer** |  |
+| *Dendrobaena rubidus* syn. *Dendrobaena rubida* (Savigny, 1826) | Stubbemeitemark; Jumbo red worms, Wigglers |  |
+| *Dendrobaena octaedra* (Savigny, 1826) | Mosemeitemark |  |
+| *Dendrobaena attemsi* (Michaelsen, 1902) |  |  |
+| *Allolodophora clorotica* | Grønnmeitemark |  |
+| *Lumbricus castaneus* (Savigny, 1826) | Løvmeitemark |  |
+| *Lumbricus festivus* (Savigny, 1826) | Mørkmeitemark |  |
+| *Lumbricus rubellus* Hoffmeister, 1843 | Skogmeitemark; Red Earthworm |  |
+| *Lumbricus terrestris* Linnaeus, 1758 | Stormeitemark; Earthworm |  |
+| *Octolasion cyaneum* (Savigny, 1826) | Blåmeitemark |  |
+| *Octolasion lacteum* (Örley, 1881) | Hvitmeitemark |  |
+| *Aporrectodea rosea* (Savigny, 1826) | Rosameitemark |  |
+| *Aporrectodea longa* (Ude, 1886) | Langmeitemark |  |
+| *Aporrectodea caliginosa* (Savigny, 1826) | Gråmeitemark; Common Earthworm |  |
+| *Aporrectodea icterica* (Savigny, 1826) |  |  |
+| *Aporrectodea limicola* (Michaelsen, 1890) |  |  |
+| *Eisenia fetida* (Savigny, 1826) | Kompostmeitemark; Common Brandling Worm |  |
+| *Eisenia hortensis* (Michaelsen, 1890) | Hagemeitemark |  |
+| *Eisenia andrei* Bouché, 1972 |  |  |
+| *Eiseniella tetraedra* (Savigny, 1826) | Bekkemeitemark |  |
 
 ## Vedlegg V – organismer som krever tillatelse for utsetting etter [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav c og f
 
@@ -334,15 +881,70 @@ Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst
 
 **Krav om tillatelse gjelder ikke utsetting av kultivarer eller varieteter, eksempelvis sterile varianter, som, etter en vitenskapelig risikovurdering, ikke kan medføre fare for uheldige følger for det biologiske mangfold.**
 
-Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.*Vitenskapelige navn**Trivialnavn**Merknad***Plantae****Planter; Plants****Aceraceae****Lønnefamilien; Maple family***Acer pseudoplatanus* L.Platanlønn; SycamoreKravet om tillatelse gjelder ikke ved utsetting i sentrumssoner, jf. SSBs definisjon og kart for slike områder.**Adoxaceae****Moskusurtfamilien; Elderberry family, Moscatel family***Sambucus racemosa* L.Rødhyll; Red Elderberry**Apocynaceae****Gravmyrtfamilien; Milkweed family***Vinca minor* L.Gravmyrt; Lesser Periwinkle**Asteraceae****Kurvplantefamilien; Aster family, Sunflower family***Petasites hybridus* (L.) G. Gaertn., B. Mey. & Scherb.Legepestrot; Pestilence Wort*Petasites japonicus* ssp. *giganteus* (Siebold & Zucc.) Maxim.Japanpestrot; Giant Butterbur**Balsaminaceae****Springfrøfamilien; Balsam family***Impatiens parviflora* DC.Mongolspringfrø; Small Balsam, Small-flowered Touch-me-not**Caprifoliaceae****Kaprifolfamilien; Honeysuckle family***Lonicera involucrata* (Richardson) Banks ex Spreng.Skjermleddved; Twinberry Honeysuckle*Lonicera tatarica* (L.)Tatarleddved; Tartarian Honeysuckle**Cornaceae****Kornellfamilien; Dogwood family***Swida alba* (L.) Opiz syn. *Cornus alba* L.Sibirkornell; Tartar dogwood**Crassulaceae****Bergknappfamilien; Stonecrop family***Phedimus hybridus* syn. *Sedum hybridum* L.Sibirbergknapp; Hybrid stonecropKravet om tillatelse gjelder kun ved utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. Utsetting i andre områder enn grønne tak er forbudt, jf. [§ 9](forskrift/2015-06-19-716/§9) og vedlegg I.*Phedimus spurius* syn. *Sedum spurium* M. BiebGravbergknapp; Caucasian Stonecrop, Dragon's Blood Sedum, Two-row StonecropKravet om tillatelse gjelder kun ved utsetting på grønne tak i i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. Utsetting i andre områder enn grønne tak er forbudt, jf. [§ 9](forskrift/2015-06-19-716/§9) og vedlegg I.**Fabaceae****Erteblomstfamilien; Legume family, Pea family***Robinia pseudoacacia* (L.)Robinia; Black Locust**Papaveraceae****Valmuefamilien; Poppy family***Corydalis solida* (L.) Clairv.Hagelerkespore; Spring Fumewort**Pinaceae****Furufamilien; Pine family***Larix decidea* (Mill)Europalerk; European Larch, Alpine Larch*Picea sitchensis* (Bong.) CarrièreSitkagran; Sitka Spruce*Pinus mugo* ssp*. mugo* (Turra)Buskfuru; Dwarf Mountain PineKravet om tillatelse gjelder kun kommuner med A- eller B-lokaliteter av sanddynemark eller kystlynghei.*Tsuga heterophylla* (Raf.) SargVestamerikansk hemlokk; Western hemlock, Pasific hemlock**Ranunculaceae****Soleiefamilien; Buttercup family, Crowfoot family***Clematis alpina* (L.) Mill.Alperanke; Alpine Virgin's-bowerKrav om tillatelse gjelder kun i Øyer kommune, Oppland.**Rosaceae****Rosefamilien; Rose family***Alchemilla mollis* (Buser) Rothm.Praktmarikåpe; Garden Lady's-mantle*Amelanchier alnifolia* (Nutt.) M. RoemTaggblåhegg, heggsøtmispel; Saskatoon, Pacific Serviceberry, Western Serviceberry, Alder-leaf Shadbush, Dwarf Shadbush, Western Juneberry*Amelanchier lamarckii* F.G. SchroedKanadablåhegg, lamarksøtmispel; Juneberry, Snowy mespilus*Amelanchier spicata* (Lam.) KochBlåhegg, junisøtmispel; Low Juneberry*Cotoneaster horizontalis* Decne.Krypmispel; Wall Cotoneaster*Cotoneaster lucidus* Schltdl.Blankmispel; Shiny Cotoneaster*Cotoneaster moupinensis* Franch.Mørkmispel; Moupin Cotoneaster*Cotoneaster tomentosus* (Aiton) Lindl.Filtmispel; Brickberry Cotoneaster*Filipendula camtschatica* (Pall) Maxim.Kjempemjødurt; Kamchatka Meadowsweet*Prunus serotina* (Ehrh.)Romhegg; Black Cherry*Sorbus mougeotii* Soy.-Will. & Godr.Alpeasal; Mougeot's Whotebeam**Violaceae****Fiolfamilien; Violet family***Viola odorata* L.Marsfiol; Sweet VioletKrav om tillatelse gjelder kun i Akershus, Buskerud, Hedmark, Hordaland, Nord-Trøndelag, Oppland, Oslo, Sogn og Fjordane, Sør-Trøndelag, Telemark, Vestfold og Østfold fylker.
+Navn på familier og høyere taksonomiske nivå som er skrevet med uthevet tekst i tabellen er å betrakte som overskrifter, og er kun inkludert for å angi systematisk plassering for organismer og organismegrupper som er oppført i vedlegget.
+
+| *Vitenskapelige navn* | *Trivialnavn* | *Merknad* |
+| --- | --- | --- |
+| **Plantae** | **Planter; Plants** |  |
+| **Aceraceae** | **Lønnefamilien; Maple family** |  |
+| *Acer pseudoplatanus* L. | Platanlønn; Sycamore | Kravet om tillatelse gjelder ikke ved utsetting i sentrumssoner, jf. SSBs definisjon og kart for slike områder. |
+| **Adoxaceae** | **Moskusurtfamilien; Elderberry family, Moscatel family** |  |
+| *Sambucus racemosa* L. | Rødhyll; Red Elderberry |  |
+| **Apocynaceae** | **Gravmyrtfamilien; Milkweed family** |  |
+| *Vinca minor* L. | Gravmyrt; Lesser Periwinkle |  |
+| **Asteraceae** | **Kurvplantefamilien; Aster family, Sunflower family** |  |
+| *Petasites hybridus* (L.) G. Gaertn., B. Mey. & Scherb. | Legepestrot; Pestilence Wort |  |
+| *Petasites japonicus* ssp. *giganteus* (Siebold & Zucc.) Maxim. | Japanpestrot; Giant Butterbur |  |
+| **Balsaminaceae** | **Springfrøfamilien; Balsam family** |  |
+| *Impatiens parviflora* DC. | Mongolspringfrø; Small Balsam, Small-flowered Touch-me-not |  |
+| **Caprifoliaceae** | **Kaprifolfamilien; Honeysuckle family** |  |
+| *Lonicera involucrata* (Richardson) Banks ex Spreng. | Skjermleddved; Twinberry Honeysuckle |  |
+| *Lonicera tatarica* (L.) | Tatarleddved; Tartarian Honeysuckle |  |
+| **Cornaceae** | **Kornellfamilien; Dogwood family** |  |
+| *Swida alba* (L.) Opiz syn. *Cornus alba* L. | Sibirkornell; Tartar dogwood |  |
+| **Crassulaceae** | **Bergknappfamilien; Stonecrop family** |  |
+| *Phedimus hybridus* syn. *Sedum hybridum* L. | Sibirbergknapp; Hybrid stonecrop | Kravet om tillatelse gjelder kun ved utsetting på grønne tak i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. Utsetting i andre områder enn grønne tak er forbudt, jf. [§ 9](forskrift/2015-06-19-716/§9) og vedlegg I. |
+| *Phedimus spurius* syn. *Sedum spurium* M. Bieb | Gravbergknapp; Caucasian Stonecrop, Dragon's Blood Sedum, Two-row Stonecrop | Kravet om tillatelse gjelder kun ved utsetting på grønne tak i i kommuner med forekomst av naturtypen åpen grunnlendt kalkmark i Oslofeltet i Østfold, Akershus, Oslo, Vestfold, Hedmark, Oppland, Buskerud og Telemark fylker. Utsetting på grønne tak i andre deler av landet krever ikke tillatelse. Utsetting i andre områder enn grønne tak er forbudt, jf. [§ 9](forskrift/2015-06-19-716/§9) og vedlegg I. |
+| **Fabaceae** | **Erteblomstfamilien; Legume family, Pea family** |  |
+| *Robinia pseudoacacia* (L.) | Robinia; Black Locust |  |
+| **Papaveraceae** | **Valmuefamilien; Poppy family** |  |
+| *Corydalis solida* (L.) Clairv. | Hagelerkespore; Spring Fumewort |  |
+| **Pinaceae** | **Furufamilien; Pine family** |  |
+| *Larix decidea* (Mill) | Europalerk; European Larch, Alpine Larch |  |
+| *Picea sitchensis* (Bong.) Carrière | Sitkagran; Sitka Spruce |  |
+| *Pinus mugo* ssp*. mugo* (Turra) | Buskfuru; Dwarf Mountain Pine | Kravet om tillatelse gjelder kun kommuner med A- eller B-lokaliteter av sanddynemark eller kystlynghei. |
+| *Tsuga heterophylla* (Raf.) Sarg | Vestamerikansk hemlokk; Western hemlock, Pasific hemlock |  |
+| **Ranunculaceae** | **Soleiefamilien; Buttercup family, Crowfoot family** |  |
+| *Clematis alpina* (L.) Mill. | Alperanke; Alpine Virgin's-bower | Krav om tillatelse gjelder kun i Øyer kommune, Oppland. |
+| **Rosaceae** | **Rosefamilien; Rose family** |  |
+| *Alchemilla mollis* (Buser) Rothm. | Praktmarikåpe; Garden Lady's-mantle |  |
+| *Amelanchier alnifolia* (Nutt.) M. Roem | Taggblåhegg, heggsøtmispel; Saskatoon, Pacific Serviceberry, Western Serviceberry, Alder-leaf Shadbush, Dwarf Shadbush, Western Juneberry |  |
+| *Amelanchier lamarckii* F.G. Schroed | Kanadablåhegg, lamarksøtmispel; Juneberry, Snowy mespilus |  |
+| *Amelanchier spicata* (Lam.) Koch | Blåhegg, junisøtmispel; Low Juneberry |  |
+| *Cotoneaster horizontalis* Decne. | Krypmispel; Wall Cotoneaster |  |
+| *Cotoneaster lucidus* Schltdl. | Blankmispel; Shiny Cotoneaster |  |
+| *Cotoneaster moupinensis* Franch. | Mørkmispel; Moupin Cotoneaster |  |
+| *Cotoneaster tomentosus* (Aiton) Lindl. | Filtmispel; Brickberry Cotoneaster |  |
+| *Filipendula camtschatica* (Pall) Maxim. | Kjempemjødurt; Kamchatka Meadowsweet |  |
+| *Prunus serotina* (Ehrh.) | Romhegg; Black Cherry |  |
+| *Sorbus mougeotii* Soy.-Will. & Godr. | Alpeasal; Mougeot's Whotebeam |  |
+|  |  |  |
+| **Violaceae** | **Fiolfamilien; Violet family** |  |
+| *Viola odorata* L. | Marsfiol; Sweet Violet | Krav om tillatelse gjelder kun i Akershus, Buskerud, Hedmark, Hordaland, Nord-Trøndelag, Oppland, Oslo, Sogn og Fjordane, Sør-Trøndelag, Telemark, Vestfold og Østfold fylker. |
 
 > Endret ved forskrift [13 nov 2024 nr. 2826](forskrift/2024-11-13-2826) (i kraft 1 jan 2025).
 
 ## Merknader
 
+*Til [§ 1](forskrift/2015-06-19-716/§1). Formål*
+
 Bestemmelsen sammenfatter formålet med forskriften og gjenspeiler at forskriften inneholder en rekke forebyggende tiltak for å hindre at fremmede organismer skader naturmangfoldet.
 
+*Til [§ 2](forskrift/2015-06-19-716/§2). Stedlig virkeområde*
+
 Bestemmelsen slår fast at forskriften gjelder for norsk landterritorium og Norges territorialfarvann, jf. [naturmangfoldloven § 2](lov/2009-06-19-100/§2) første ledd. I tillegg er den gjort gjeldende for Jan Mayen, jf. [naturmangfoldloven § 2](lov/2009-06-19-100/§2) andre ledd og [lov om Jan Mayen § 2](lov/1930-02-27-2/§2) tredje ledd. Forskriften er gjort gjeldende for Jan Mayen fordi [lov om Jan Mayen](lov/1930-02-27-2) og forskrift 11. august 1978 nr. 3875 om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen [§ 17](forskrift/1978-08-11-3765/§17) kun regulerer utsetting av ferskvannsfisk og vilt. [Forskrift 19. november 2010 nr. 1456](forskrift/2010-11-19-1456) om fredning av Jan Mayen naturreservat gir videre forbud mot innførsel og utsetting av plante- og dyrearter, jf. § 4 pkt. 2.2, men omfatter ikke hele Jan Mayen, jf. [lov om Jan Mayen § 2](lov/1930-02-27-2/§2). Forskriften gjøres derfor gjeldende for Jan Mayen for å sikre at alle områdene er underlagt regulering når det gjelder innførsel, utsetting og spredning av fremmede organismer. De bestemmelser i forskriften [§ 13](forskrift/2015-06-19-716/§13) som er hjemlet i [viltloven](lov/1981-05-29-38) gjelder også på Jan Mayen. Innførsel, utsetting og flytting av organismer på Svalbard reguleres av [lov 15. juni 2001 nr. 79](lov/2001-06-15-79) om miljøvern på Svalbard [§ 26](lov/2001-06-15-79/§26) og [§ 27](lov/2001-06-15-79/§27).
+
+*Til [§ 3](forskrift/2015-06-19-716/§3). Saklig virkeområde og forholdet til annet regelverk*
 
 *Første ledd* presiserer hva forskriften tematisk omfatter. I likhet med [naturmangfoldloven](lov/2009-06-19-100) er virkeområdet i forskriften forskjellig for tilsiktet *innførsel* (gjelder for «organismer») og tilsiktet *utsetting* (gjelder for «fremmede organismer»), jf. bl.a. forskriften [§ 6](forskrift/2015-06-19-716/§6) og [§ 10](forskrift/2015-06-19-716/§10). Forskriftens virkemidler for å bekjempe *utilsiktet innførsel og spredning* retter seg mot fremmede organismer, jf. [kapittel V](forskrift/2015-06-19-716/kapv).
 
@@ -356,11 +958,17 @@ Bestemmelsen slår fast at forskriften gjelder for norsk landterritorium og Norg
 
 *Bokstav j):* innførsel og omsetning til – og utsetting av planter i – botaniske hager er unntatt fra forskriftens virkeområde forutsatt at dette skjer i samsvar med forskriftens alminnelige krav til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19), samt kravene til internkontroll i [§ 26](forskrift/2015-06-19-716/§26). En botanisk hage omfatter hager som blir anlagt vesentlig av hensyn til vitenskapelige botaniske studier og for å skaffe materiale til den botaniske undervisningen.
 
+*Til [§ 4](forskrift/2015-06-19-716/§4). Definisjoner*
+
 Definisjonene i *bokstav a til c, e, g, h, j og m* gjengir definisjonene i [naturmangfoldloven § 3](lov/2009-06-19-100/§3). For en nærmere beskrivelse av disse, se forarbeidene til [naturmangfoldloven](lov/2009-06-19-100) ([Ot.prp.nr.52 (2008–2009) s. 371](forarbeid/otprp-52-200809/s371) til 374). Definisjonen av «vassdrag» er hentet fra lakse- og [innlandsfiskloven § 5](lov/1992-05-15-47/§5).
 
 Nye begreper som er definert er «hagedam», «mikroorganismer», «organisme av stedegen stamme» og «vektor». Definisjonen av hagedam i *bokstav d* sier noe om hva slags type innretning det er snakk om, angir formålet med holdet (prydformål), og inneholder krav til rømningssikkerhet som går både på dammens fysiske plassering og beskaffenhet. Definisjonen er ikke begrenset til å gjelde hagedammer i private hager. Definisjonen av «organisme av stedegen stamme» i *bokstav i* er tatt inn for å presisere at unntaket i forskriften [§ 10](forskrift/2015-06-19-716/§10) bokstav b gjelder organismer som har sitt opphav fra den opprinnelige, lokale bestanden på stedet.
 
+*Til [§ 5](forskrift/2015-06-19-716/§5). Forbud mot innførsel*
+
 Bestemmelsen innfører forbud mot innførsel av organismer som er oppført i vedlegg I. Bestemmelsen er hjemlet i [naturmangfoldloven § 29](lov/2009-06-19-100/§29) fjerde ledd tredje punktum, som sier at det kan fastsettes forbud mot innførsel av bestemte organismer hvis det anses nødvendig for å unngå vesentlige uheldige følger for det biologiske mangfold. De artene som er ført opp i vedlegg I er oppført bl.a. på bakgrunn av at de er vurdert til å utgjøre svært høy eller høy økologisk risiko i *Fremmede arter i Norge – med norsk svarteliste 2012*.
+
+*Til [§ 6](forskrift/2015-06-19-716/§6). Krav om tillatelse ved innførsel*
 
 Bestemmelsen gjengir [naturmangfoldlovens](lov/2009-06-19-100) hovedregel om at innførsel av alle organismer krever tillatelse etter loven, jf. [naturmangfoldloven § 29](lov/2009-06-19-100/§29) første ledd. Bestemmelsen må ses i lys av unntakene i [§ 7](lov/2009-06-19-100/§7).
 
@@ -369,6 +977,8 @@ Bestemmelsen gjengir [naturmangfoldlovens](lov/2009-06-19-100) hovedregel om at 
 *Annet ledd andre punktum* bygger på [naturmangfoldloven § 29](lov/2009-06-19-100/§29) tredje ledd og [§ 30](lov/2009-06-19-100/§30) tredje ledd, som inneholder en skranke mot å gi tillatelse hvis det er grunn til å anta at innførselen eller utsettingen vil medføre vesentlige uheldige følger for det biologiske mangfold. Bestemmelsens setter en absolutt skranke for forvaltningens skjønnsutøving ved avgjørelse av om tillatelse skal gis eller ikke, jf. [Ot.prp.nr.52 (2008–2009) side 400](forarbeid/otprp-52-200809/s400) og 402. Dersom det er tale om vesentlige uheldige følger for det biologiske mangfoldet, inntrer skranken selv om det ikke er sannsynlighetsovervekt for at følgene vil inntre, jf. formuleringen «grunn til å anta».
 
 Når det gjelder innførsel av mørk jordhumle (*Bombus terrestris terrestris*) fra norske bestander til pollinering i veksthus er det gjort unntak fra kravet om tillatelse for innførsel, jf. [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. vedlegg II. Slik innførsel krever i stedet melding, jf. [§ 8](forskrift/2015-06-19-716/§8). Kravet om tillatelse for innførsel gjelder imidlertid innførsel av mørk jordhumle som *ikke* er *fra norske bestander*. Det vil gis tillatelse til innførsel og bruk av utenlandsk mørk jordhumle til pollinering i veksthus fra om lag 15. november til 15. februar *dersom norsk mørk jordhumle ikke dekker etterspørselen*. Det vil da ikke stilles krav om at veksthuset sikres mot rømning med nett.
+
+*Til [§ 7](forskrift/2015-06-19-716/§7). Unntak fra krav om tillatelse ved innførsel*
 
 Bestemmelsen gjør unntak fra kravet om tillatelse for en rekke organismer og organismegrupper, og inneholder både unntak som er direkte nedfelt i loven, og unntak som er fastsatt med hjemmel i [naturmangfoldloven § 29](lov/2009-06-19-100/§29) fjerde og femte ledd.
 
@@ -390,11 +1000,17 @@ Etter *første ledd bokstav a* kan organismer som er oppført i vedlegg II innf�
 
 *Tredje ledd* presiserer at innførsel skal skje i tråd med kravene til aktsomhet i kapittel V.
 
+*Til [§ 8](forskrift/2015-06-19-716/§8). Krav om melding ved innførsel*
+
 Bestemmelsen fastsetter at den som innfører organismer som etter [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav c eller d er unntatt fra kravet om tillatelse (varmekrevende akvarieorganismer som lever i ferskvann og marine planter, virvelløse dyr og fisk til innesluttet bruk), eller mørk jordhumle fra norske bestander til pollinering i veksthus uten tillatelse etter [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. vedlegg II, skal gi melding til Miljødirektoratet, jf. [naturmangfoldloven § 29](lov/2009-06-19-100/§29) fjerde ledd.
 
 Bestemmelsen slår fast at det kun er mørk jordhumle *(Bombus terrestris terrestris)* «*fra norske bestander*» som krever melding i stedet for tillatelse, jf. også [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. vedlegg II og vilkårene for unntak fra kravet om tillatelse. Formålet med innførselen må være pollinering i veksthus. Innførsel med utsetting i veksttunneller og på frimark som formål, er ikke omfattet av unntaket i [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav a, jf. også vilkårene i vedlegg II, og krever dermed tillatelse og ikke bare melding. Bestemmelsen slår videre fast at meldingen skal gis i samsvar med kravene i [§ 16](forskrift/2015-06-19-716/§16).
 
+*Til [§ 9](forskrift/2015-06-19-716/§9). Forbud mot utsetting og omsetning*
+
 Utsetting og omsetning av organismer som er oppført i vedlegg I er forbudt. Bestemmelsen er hjemlet i [naturmangfoldloven § 30](lov/2009-06-19-100/§30) andre ledd. Forbudet gjelder alle områder (med unntak for botaniske hager som er unntatt forskriftens virkeområde, jf. [§ 3](forskrift/2015-06-19-716/§3) andre ledd bokstav j), herunder private hager, parkanlegg og andre dyrkete områder, samt nærings- og transportutbyggingsområder.
+
+*Til [§ 10](forskrift/2015-06-19-716/§10). Krav om tillatelse ved utsetting*
 
 Bestemmelsen innebærer i praksis en hovedregel om krav om tillatelse ved utsetting av alle fremmede organismer. *Første ledd bokstav a* om utsetting av vilt, gjengir [naturmangfoldloven § 30](lov/2009-06-19-100/§30) første ledd bokstav b, mens *første ledd bokstav b*, om utsetting av organismer i sjø og vassdrag, gjengir [naturmangfoldloven § 30](lov/2009-06-19-100/§30) første ledd bokstav c.
 
@@ -409,6 +1025,8 @@ Utsetting av mørk jordhumle (*Bombus terrestris terrestris*) fra norske bestand
 *Annet ledd* angir vurderingstemaet for søknader etter forskriften, og øvre terskel for når det kan gis tillatelse. Bestemmelsen er likelydende med [§ 6](forskrift/2015-06-19-716/§6) annet ledd som gjelder krav om tillatelse ved innførsel, og det vises til merknadene for [§ 6](forskrift/2015-06-19-716/§6) annet ledd over.
 
 I *tredje ledd* er det presisert at utsetting i sjø og vassdrag til kultiveringsformål krever tillatelse etter [lakse- og innlandsfiskloven](lov/1992-05-15-47).
+
+*Til [§ 11](forskrift/2015-06-19-716/§11). Unntak fra krav om tillatelse ved utsetting*
 
 *Første ledd bokstav a:* Bestemmelsen er hjemlet i [naturmangfoldloven § 31](lov/2009-06-19-100/§31) andre ledd, som fastslår at det kan gis forskrift om at nærmere angitte organismer kan settes ut uten særskilt tillatelse hvis utsettingen ikke kan påregnes å medføre fare for uheldige følger for det biologiske mangfold. Bestemmelsen gjør unntak fra kravet om tillatelse for organismer som er oppført i vedlegg IV når utsettingen tilfredsstiller de vilkår som følger av vedlegget. Vedlegget inneholder bl.a. enkelte pattedyr som tillates utsatt til landbruksformål, en rekke arter meitemark som brukes bl.a. som agn og to arter fisk som tillates satt ut i hagedam (gullfisk og koikarpe).
 
@@ -438,7 +1056,13 @@ Unntaket for utsetting i transport- og næringsutbyggingsområder er hjemlet i [
 
 *Tredje ledd* presiserer at utsetting etter første og tredje ledd skal utføres i samsvar med kravene til aktsomhet i kapittel V.
 
+1 Fra Halvorsen, R., Andersen, T., Blom, H.H., Elvebakk, A., Elven, R., Erikstad, L., Gaarder, G., Moen, A., Mortensen, P.B., Norderhaug, A., Nygaard, K., Thorsnes, T. & Ødegaard, F. 2009. Naturtyper i Norge – Teoretisk grunnlag, prinsipper for inndeling og definisjoner. Naturtyper i Norge versjon 1.0 [Artikkel 1](forskrift/2015-06-19-716/a1): [1](forskrift/2015-06-19-716/a1)–210 (fra vedlegg 2 tabell 1).
+
+*Til [§ 12](forskrift/2015-06-19-716/§12). Krav om melding ved utsetting av mørk jordhumle fra norske bestander til pollinering i veksthus*
+
 Bestemmelsen fastsetter at den som setter ut mørk jordhumle fra norske bestander til pollinering i veksthus uten tillatelse etter [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav a, jf. vedlegg IV, skal i samsvar med [§ 16](forskrift/2015-06-19-716/§16) gi Miljødirektoratet melding før utsettingen finner sted. Når det gjelder tolkningen av vilkårene «*mørk jordhumle fra norske bestander til pollinering i veksthus*» er disse nærmere forklart i merknadene til § 8.
+
+*Til [§ 13](forskrift/2015-06-19-716/§13). Hold av fremmede organismer*
 
 I forskriften legges det opp til at papegøyefugler og enkelte andre eksotiske fugler, hamster, ilder og enkelte pelsdyrarter, blir oppført i vedlegg II, dvs. at de vil kunne innføres uten tillatelse etter forskriften. Hold av vilt i fangenskap er i utgangspunktet forbudt, jf. [viltloven § 7](lov/1981-05-29-38/§7) første ledd. Med hjemmel i [viltloven § 7](lov/1981-05-29-38/§7) andre ledd slår forskriften [§ 13](forskrift/2015-06-19-716/§13) fast at det er tillatt med innesluttet hold av viltarter oppført i vedlegg II.
 
@@ -447,6 +1071,8 @@ I forskriften legges det opp til at papegøyefugler og enkelte andre eksotiske f
 *Første ledd bokstav b* fastsetter at det ikke kreves tillatelse for hold innendørs, eller i lukket bur eller innhengning, av eksotiske fugler, kanin, hamster, ilder og virvelløse dyr, som er oppført i vedlegg II. Dette legaliserer hold av organismer som ikke er vilt, og som kan være «*utsetting*» i [naturmangfoldlovens](lov/2009-06-19-100) forstand.
 
 *Andre ledd* presiserer at holdet må utøves i samsvar med kravene til aktsomhet i [§ 18](forskrift/2015-06-19-716/§18) og [§ 19](forskrift/2015-06-19-716/§19), samt kravene til internkontroll i [§ 26](forskrift/2015-06-19-716/§26).
+
+*Til [§ 14](forskrift/2015-06-19-716/§14). Krav til søknaden*
 
 *Første ledd* oppstiller et krav om at søknader om innførsel eller/og utsetting av organismer må rettes til Miljødirektoratet på fastsatt skjema. Dette må skje i god tid før innførselen eller/og utsettingen er ment å finne sted. Dersom innførselen har utsetting som formål, kan samme søknad, og eventuell tillatelse, omfatte både innførselen og utsettingen.
 
@@ -458,17 +1084,25 @@ Kravet til vurderingens innhold og omfang vil bl.a. avhenge av hvilke organismer
 
 *Tredje ledd* nedfeller et krav om at vurderingen etter bokstav g skal, så langt det er rimelig, underbygges med dokumentasjon. Kravet til dokumentasjon må ses i forhold til tiltakets karakter og mulige skadeomfang. Kravet til dokumentasjon vil generelt være høyere dersom det er lite kunnskap om miljøeffektene av en utsetting, enn hvis kunnskapen om artens virkninger på det biologiske mangfold er godt kjent.
 
+*Til [§ 15](forskrift/2015-06-19-716/§15). Søknadsbehandlingen*
+
 Bestemmelsen oppstiller særskilte krav til behandlingen av søknader etter forskriften. Etter *første ledd andre punktum* kan Miljødirektoratet be om ytterligere opplysninger og dokumentasjon fra søker, og ved behov igangsette nødvendige tilleggsutredninger. Et eksempel på dette kan være at klargjøringen av virkninger for det biologiske mangfold, jf. [§ 14](forskrift/2015-06-19-716/§14) andre ledd bokstav g, er mangelfull, eller mangelfullt belagt med dokumentasjon. Sistnevnte kan være aktuelt i situasjoner hvor det for eksempel ikke finnes miljørisikovurderinger knyttet til effekten av utsetting eller spredning av den omsøkte organismen. Da vil Miljødirektoratet på eget initiativ kunne bestille en tilleggsutredning. Søker vil bli forespurt før det eventuelt igangsettes utredninger på søkers bekostning, jf. andre ledd.
 
 Etter *andre ledd* vil kostnadene ved en slik tilleggsutredning, og for frambringelse av andre opplysninger og dokumentasjon, kunne belastes søker så langt det ikke er urimelig. Dette er et utslag av prinsippet i [naturmangfoldloven § 11](lov/2009-06-19-100/§11) om at kostnadene ved å hindre eller begrense skade på naturmangfoldet som tiltaket volder, skal dekkes av tiltakshaver. Hva som ligger i skranken om at kostnadene skal dekkes av søker «så langt det ikke er urimelig», beror på en skjønnsmessig vurdering hvor tiltakets karakter og skadepotensial vil spille inn. Ønsker ikke søker å bekoste en slik utredning, vil dette kunne resultere i at søknaden blir avslått under henvisning til føre-var-prinsippet. Andre punktum presiserer at slike kostnader ikke vil bli belastet søker uten at søker har gitt sitt samtykke.
 
 *Tredje ledd* fastsetter at Miljødirektoratet skal vurdere og fastsette de vilkår som anses nødvendig for å hindre uheldige følger for det biologiske mangfold. Dette vil typisk være vilkår for å motvirke mulige skadevirkninger, for eksempel krav til sikringstiltak for å hindre rømming, utslipp eller spredning av organismer, og krav til lokalisering, jf. [naturmangfoldloven § 12](lov/2009-06-19-100/§12).
 
+*Til [§ 16](forskrift/2015-06-19-716/§16). Krav til melding om innførsel og utsetting*
+
 Bestemmelsen spesifiserer kravene til hva meldingen skal inneholde, og når det skal meldes. Et slikt meldingssystem vil bl.a. gi myndighetene en god oversikt over hvilke organismer som innføres, noe som gir mulighet til å foreta miljørisikovurderinger og, ved behov, gjøre endringer i hvordan disse organismene reguleres under forskriften. Dette systemet vil også gi bedre mulighet til å undersøke lovligheten av en forsendelse under grensekontroll, da faktisk innhold i forsendelsen kan kontrolleres opp imot hva som er meldt, jf. [§ 25](forskrift/2015-06-19-716/§25) om merking av forsendelser. Kvittering for mottatt melding skal oppbevares slik at den kan framvises i forbindelse med kontroll, jf. *fjerde ledd*.
 
 *Tredje ledd* slår fast at meldingen har en gyldighet på tre år for ytterligere innførsler av individer av meldte organisme, til samme formål, med mindre betingelsen for innførsel endres før den tid.
 
+*Til [§ 17](forskrift/2015-06-19-716/§17). Endring og omgjøring av tillatelse*
+
 Bestemmelsen viser til adgangen til å oppheve, endre, sette nye vilkår eller tilbakekalle tillatelser etter [naturmangfoldloven § 67](lov/2009-06-19-100/§67). De nærmere vilkår for endring og omgjøring følger av [naturmangfoldloven § 67](lov/2009-06-19-100/§67).
+
+*Til [§ 18](forskrift/2015-06-19-716/§18). Alminnelige krav til aktsomhet*
 
 Bestemmelsen konkretiserer det generelle aktsomhetskravet i [naturmangfoldloven § 28](lov/2009-06-19-100/§28). Hva som er aktsom atferd i det enkelte tilfelle må ses i sammenheng med de øvrige bestemmelsene i forskriften [kapittel V](forskrift/2015-06-19-716/kapv), som konkretiserer aktsomhetskravet i gitte situasjoner. Bestemmelsen gjelder både for virksomheter og for enkeltpersoner, men det stilles strengere krav til hva som anses som aktsom atferd for profesjonelle aktører. Overtredelser av aktsomhetsplikten i [§ 18](forskrift/2015-06-19-716/§18) kan ved *utsetting* ikke medføre straff, jf. [naturmangfoldloven § 75](lov/2009-06-19-100/§75). Aktsomhetsplikten innebærer ikke at organismer, utover de som er forbudt eller krever tillatelse for utsetting, ikke kan settes ut eller krever tillatelse ved utsetting.
 
@@ -486,7 +1120,11 @@ Ved *virksomhet og tiltak som kan medføre utilsiktet spredning*, vil omfanget a
 
 *Andre ledd* slår fast at dersom en utsetting utføres i henhold til en tillatelse, anses aktsomhetskravet som overholdt dersom forutsettingene for tillatelsen fremdeles er tilstede, jf. [naturmangfoldloven § 28](lov/2009-06-19-100/§28) første ledd andre punktum. Forutsetningene som lå til grunn for tillatelsen omfatter både kunnskapen om antatte skadevirkninger, og at utsetting utføres i tråd med innholdet i tillatelsen. Endrede forutsetninger kan for eksempel oppstå dersom organismer, som ble tillatt utsatt basert på en antakelse om at de ikke ville lykkes i å etablere og spre seg i miljøet, likevel viser seg å lykkes med å spre seg. Aktsomhetskravet vil da kunne innebære at den ansvarlige må fjerne organismene helt.
 
+*Til [§ 19](forskrift/2015-06-19-716/§19). Tiltaks- og varslingsplikt*
+
 Bestemmelsen nedfeller de tiltak tiltakshaver skal iverksette ved skade eller fare for alvorlig skade på biologisk mangfold som følge av innførsel, utsetting eller utilsiktet spredning av fremmede organismer. Tiltaks- og varslingsplikten følger av [naturmangfoldloven § 28](lov/2009-06-19-100/§28) tredje ledd. Tiltaks- og varslingsplikten er også gjort gjeldende ved innførsel, jf. [naturmangfoldloven § 28](lov/2009-06-19-100/§28) fjerde ledd.
+
+*Til [§ 20](forskrift/2015-06-19-716/§20). Krav om å informere ansatte og mottakere av fremmede organismer*
 
 Første ledd gjelder for aktivitet som innebærer innførsel, omsetning, formidling, hold eller utsetting av fremmede organismer. «*Formidling*» kan omfatte vederlagsfri overdragelse, leilighetsvis salg, eller bytte av fisk, planter og eksotiske insekter mv.
 
@@ -494,13 +1132,21 @@ Etter *første ledd* skal den ansvarlige for slik aktivitet sørge for at ansatt
 
 *Andre ledd* pålegger den som er ansvarlig for omsetning eller formidling av fremmede organismer å informere kunder og andre mottakere av organismene om miljørisiko, forebyggende tiltak og varslingsplikt mv. Kravet gjelder både for virksomheter og den som leilighetsvis omsetter eller formidler fremmede organismer.
 
+*Til [§ 21](forskrift/2015-06-19-716/§21). Krav til oppbevaring og emballering under transport*
+
 Bestemmelsen stiller krav om at den som er ansvarlig for innførsel eller transport av organismer som kan medføre risiko for uheldige følger for det biologiske mangfold dersom de spres, skal sørge for at organismene oppbevares eller emballeres slik at de ikke kan slippe ut i miljøet under transporten.
 
+*Til [§ 22](forskrift/2015-06-19-716/§22). Krav om tiltak ved hold av vannlevende fremmede organismer*
+
 Bestemmelsen retter seg for det første mot hold av vannlevende fremmede organismer i hagedam, noe som er utsetting etter [naturmangfoldloven § 3](lov/2009-06-19-100/§3) bokstav n (utsetting i et innesluttet system hvor rømming ikke er utelukket). For det andre omfatter den hold av slike organismer i akvarier og andre lukkede beholdere som ikke omfattes av lovens definisjon av utsetting (dvs. hvor rømming er utelukket). Den som er ansvarlig for slikt hold, skal påse at vann fra disse innretningene ikke tømmes i sjø eller vassdrag eller i avløp uten rensing. Slikt vann kan inneholde egg, sporer og andre organismer som det er viktig at ikke slipper ut i miljøet.
+
+*Til [§ 23](forskrift/2015-06-19-716/§23). Krav om skriftlig miljørisikovurdering ved etablering og utvidelse av parkanlegg og transport- og næringsutbyggingsområder*
 
 Bestemmelsen innebærer et krav om utarbeiding av skriftlig miljørisikovurdering i forbindelse med utsettinger av fremmede landlevende planter som skjer i forbindelse med *etablering* eller *utvidelse* av parkanlegg og transport- og næringsutbyggingsområder. Med mindre planten er oppført på vedlegg V, er utsettinger i slike områder under visse forutsetninger unntatt fra kravet om tillatelse etter [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav c og d, men utsettingen i forbindelse med etablering og utvidelse krever en skriftlig miljørisikovurdering.
 
 Omfanget av vurderingen må bl.a. tilpasses det aktuelle anleggets størrelse og beliggenhet samt hvilke planter som benyttes. Dersom både anleggets beliggenhet og plantene som skal benyttes tilsier at det er svært lav risiko for uheldige følger for det biologiske mangfold, kan utredningen gjøres kort med henvisning til aktuell dokumentasjon (for eksempel risikovurdering i *Fremmede arter i Norge – med norsk svarteliste 2012* og relevant kartleggingsinformasjon), og det vil i mange tilfeller ikke være behov for å iverksette og dokumentere spesielle tiltak.
+
+*Til [§ 24](forskrift/2015-06-19-716/§24). Krav om tiltak rettet mot mulige vektorer og spredningsveier for fremmede organismer*
 
 Bestemmelsen er rettet mot vektorer og spredningsveier for spredning av fremmede organismer til miljøet.
 
@@ -516,7 +1162,11 @@ Bestemmelsen i *tredje ledd* gjelder ved tilførsel av vann fra ett vassdrag til
 
 *Sjette ledd* gir Miljødirektoratet hjemmel til å fastsette forskrift med mer spesifikke regler om rengjøring og annen behandling av vektorer for spredning av fremmede organismer, om krav til dokumentasjon for gjennomført behandling, og om forbud mot flytting av fiskeredskaper, båter eller annet utstyr til bruk i vassdrag. Det kan for eksempel være aktuelt å benytte hjemmelen til å vedta regionale forskrifter som har til formål å forhindre spredning av vasspest.
 
+*Til [§ 25](forskrift/2015-06-19-716/§25). Merking av forsendelser*
+
 Krav til merking av forsendelser er nødvendig for å lette grensekontrollen med innførsel av organismer. Bestemmelsen angir hvilke opplysninger som skal gis på alle forsendelser med organismer, uavhengig av om det er krav om tillatelse eller ei. Foreligger krav om melding eller tillatelse i forbindelse med innførsel, skal forsendelsen merkes med referanse oppgitt i tillatelsen eller i kvitteringen for mottatt melding. Det er gjort unntak fra merkekravene for planter som er underlagt krav om merking under [matloven](lov/2003-12-19-124).
+
+*Til [§ 26](forskrift/2015-06-19-716/§26). Plikt til å utføre internkontroll*
 
 Bestemmelsen skal sikre at virksomheter som driver med innførsel, omsetning, hold eller utsetting av fremmede organismer, etablerer og dokumenterer et internkontrollsystem. Kravet om internkontroll gjelder uavhengig av om virksomheten driver med aktivitet som krever tillatelse etter forskriften.
 
@@ -526,13 +1176,23 @@ I *andre ledd* slås det fast at internkontrollen skal sikre at ansatte har kunn
 
 I søknaden skal det etter [§ 14](forskrift/2015-06-19-716/§14) andre ledd bokstav h gis en beskrivelse av planlagte tiltak for å forebygge risiko for uheldige følger for det biologiske mangfold. For virksomheter vil internkontrollrutinene være et viktig element av dette.
 
+*Til [§ 27](forskrift/2015-06-19-716/§27). Kontroll med innførsel*
+
 *Første ledd* angir hva som er formålet med grensekontrollen, mens *andre ledd* går nærmere inn på hva som er gjenstand for kontroll. *Andre ledd andre punktum* påpeker at tollmyndigheten har adgang til å holde tilbake organismer ved mistanke om at kravene etter forskriften ikke er oppfylt. Ved slik mistanke, vil Miljødirektoratet bli kontaktet for å avklare det aktuelle tvilsspørsmålet. Hvis Miljødirektoratet ikke har avklart dette innen fem virkedager, kan organismene frigis.
+
+*Til [§ 28](forskrift/2015-06-19-716/§28). Innførsel i strid med forskriften*
 
 *Første ledd* påpeker at tollmyndighetene kan holde tilbake innførsler av organismer som ikke tilfredsstiller kravene til tillatelse eller melding, eller som består av organismer som er forbudt. Etter *andre ledd* kan tollmyndighetene holde tilbake organismer ved fare for rømming eller spredning. Dette kan være organismer som det er gitt tillatelse til å innføre, eller som er oppført i vedlegg II (organismer som kan innføres uten tillatelse), men hvor det for eksempel foreligger spredningsfare pga dårlig emballasje, *jf. andre ledd andre punktum*. Miljødirektoratet vil etter både første og andre ledd ha ansvar for å treffe beslutning om den videre behandling av innførselen. Henvisningen til forskriften [§ 32](forskrift/2015-06-19-716/§32) synliggjør adgangen Miljødirektoratet har til å treffe vedtak i samsvar med [naturmangfoldlovens](lov/2009-06-19-100) bestemmelser om håndheving og sanksjoner.
 
+*Til [§ 29](forskrift/2015-06-19-716/§29). Kostnader*
+
 Bestemmelsen slår fast at kostnader forbundet med tilbakeholdte organismer kan kreves dekket av den ansvarlige for innførselen av organismene. Dette kan for eksempel være kostnader i forbindelse med lagerleie for oppbevaring av organismene. Hjemmelsgrunnlaget for bestemmelsen er [naturmangfoldloven § 71](lov/2009-06-19-100/§71) andre ledd.
 
+*Til [§ 30](forskrift/2015-06-19-716/§30). Tilsyn*
+
 Bestemmelsen fastsetter at Miljødirektoratet fører tilsyn med etterlevelse av forskriften. Bestemmelser om tilsyn, gransking og opplysningsplikt finnes i [naturmangfoldloven § 63](lov/2009-06-19-100/§63) til [§ 65](lov/2009-06-19-100/§65). Myndigheten etter [§ 63](lov/2009-06-19-100/§63) til [§ 65](lov/2009-06-19-100/§65) er delegert fra Klima- og miljødepartementet til Miljødirektoratet i medhold av delegeringsbrev1. juli 2009 nr. 988.
+
+*Til [§ 31](forskrift/2015-06-19-716/§31). Dispensasjon*
 
 Bestemmelsen gir Miljødirektoratet adgang til å gi dispensasjon fra bestemmelsene i forskriften. Det er først og fremst dispensasjon fra forbud mot innførsel, utsetting og omsetning av organismer som vil være aktuelt. Terskelen for å gi dispensasjon skal være høy, og ett av de to vilkårene i bestemmelsen må være oppfylt for at det skal kunne gis dispensasjon.
 
@@ -556,6 +1216,8 @@ Bestemmelsen slår i *andre setning* fast at det ikke kan gis dispensasjon hvis 
 
 I de tilfeller det gis dispensasjon, står Miljødirektoratet fritt til å bestemme om dispensasjonen skal begrenses, for eksempel i tid og omfang. Miljødirektoratet kan også, med de begrensninger som følger av den alminnelige vilkårslæren, gi dispensasjon på nærmere angitte vilkår.
 
+*Til [§ 32](forskrift/2015-06-19-716/§32). Håndheving og sanksjoner*
+
 Bestemmelsen fastsetter at håndheving og ilegging av sanksjoner i forbindelse med overtredelse av forskriftens bestemmelser skjer med hjemmel i [naturmangfoldloven § 69](lov/2009-06-19-100/§69) til [§ 75](lov/2009-06-19-100/§75). Overtredelse av forskriftens bestemmelser kan medføre miljøerstatning eller straff etter [naturmangfoldloven § 74](lov/2009-06-19-100/§74) og [§ 75](lov/2009-06-19-100/§75).
 
 Overtredelse av *aktsomhetsplikten* i [§ 18](forskrift/2015-06-19-716/§18) kan ved utsetting imidlertid ikke medføre straff, jf. [naturmangfoldloven § 75](lov/2009-06-19-100/§75) første ledd, jf. [naturmangfoldloven § 28](lov/2009-06-19-100/§28) første ledd.
@@ -568,25 +1230,35 @@ Myndigheten etter [naturmangfoldloven § 69](lov/2009-06-19-100/§69) til [§ 74
 
 Håndhevingsbestemmelsene i [naturmangfoldloven § 69](lov/2009-06-19-100/§69), [§ 71](lov/2009-06-19-100/§71), [§ 72](lov/2009-06-19-100/§72) og [§ 73](lov/2009-06-19-100/§73) vil også gjelde ved håndheving av bestemmelsen om hold av vilt vedtatt i medhold av [viltloven § 7](lov/1981-05-29-38/§7) andre ledd, som sier at Kongen i forskrift kan fastsette særskilte håndhevingsregler for å stanse ulovlig virksomhet. I og med at dette er håndhevingsregler som retter seg mot ulovlig virksomhet, vil ikke [naturmangfoldloven § 70](lov/2009-06-19-100/§70) (*uforutsette miljøkonsekvenser av lovlig virksomhet*) gjelde ved håndheving knyttet til hold av vilt som er hjemlet i [viltloven](lov/1981-05-29-38).
 
+1 Ikke kunngjort i Norsk Lovtidend. Lovdatas anm.
+
+*Til [§ 33](forskrift/2015-06-19-716/§33). Forskriftens ikrafttreden*
+
 Bestemmelsen angir tidspunktet for forskriftens ikrafttreden. Etter andre ledd fastsettes en utsatt ikrafttreden for kravet om melding etter forskriften [§ 8](forskrift/2015-06-19-716/§8) for innførsel av organismer uten tillatelse etter [§ 7](forskrift/2015-06-19-716/§7) første ledd bokstav c og d (varmekrevende akvarieorganismer som lever i ferskvann og marine planter, virvelløse dyr og fisk til innesluttet bruk). I tredje ledd er det fastsatt utsatt ikrafttreden for forbudet mot innførsel, utsetting og omsetning av planteartene Populus berolinensis og Salix euxina, som er oppført i vedlegg I. I overgangsperioden vil det ikke være krav om tillatelse i områder som nevnt i [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav c og d. Utsetting av de nevnte plantene i andre områder, krever imidlertid tillatelse etter [§ 10](forskrift/2015-06-19-716/§10).
+
+*Til [§ 34](forskrift/2015-06-19-716/§34). Overgangsbestemmelse for hold av fremmede organismer i hagedam*
 
 Bestemmelsen har til formål å sikre at vannlevende fremmede organismer som allerede var satt ut i hagedammer når forskriften trer i kraft, blir søkt om innen en viss periode etter forskriftens ikrafttreden. Bestemmelsen gjelder hold av vannlevende fremmede organismer som ikke er omfattet av unntaket fra kravet om tillatelse etter [§ 11](forskrift/2015-06-19-716/§11) første ledd bokstav a. Slike organismer kan holdes i fem år fra forskriftens ikrafttreden, på det vilkår at holdet ikke kan påregnes å medføre risiko for uheldige følger for det biologiske mangfold i overgangsperioden. For videre hold etter utløpet av denne perioden, må det søkes om tillatelse etter [§ 11](forskrift/2015-06-19-716/§11). Slik søknad må rettes til Miljødirektoratet før utløpet av femårsperioden.
 
+*Til [§ 35](forskrift/2015-06-19-716/§35). Oppheving av og endringer i andre forskrifter*
+
 Opphevingen av [viltloven § 26](lov/1981-05-29-38/§26) nr. 9 og [§ 47](lov/1981-05-29-38/§47) og lakse- og [innlandsfiskloven § 8](lov/1992-05-15-47/§8) og [§ 9](lov/1992-05-15-47/§9), jf. [naturmangfoldloven § 78](lov/2009-06-19-100/§78), medfører at forskrifter som regulerer innførsel og utsetting vedtatt i medhold av disse lovbestemmelsene vil bli opphevet eller endret fordi innførsel og utsetting, med visse unntak, vil bli behandlet under forskrift om fremmede organismer. Forskrifter som skal oppheves i sin helhet er angitt i første ledd, mens forskrifter som skal endres på visse punkter er angitt i andre til sjuende ledd. Det foreslås også en endring i [forskrift 11. august 1978 nr. 3765](forskrift/1978-08-11-3765) om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen (åttende ledd).
 
-*Første ledd:*[Forskrift 17. februar 2009 nr. 212](forskrift/2009-02-17-212) om forbud mot import, utsetting, omsetning og hold av vasspest (*Elodea canadensis*) og smal vasspest (*Elodea nuttallii*) og [forskrift 18. desember 1992 nr. 1174](forskrift/1992-12-18-1174) om import av akvarieorganismer, vedtatt i medhold av lakse- og [innlandsfiskloven § 8](lov/1992-05-15-47/§8) og [§ 9](lov/1992-05-15-47/§9), vil bli opphevet i sin helhet som følge av at forskriften trer i kraft.
+*Første ledd:* [Forskrift 17. februar 2009 nr. 212](forskrift/2009-02-17-212) om forbud mot import, utsetting, omsetning og hold av vasspest (*Elodea canadensis*) og smal vasspest (*Elodea nuttallii*) og [forskrift 18. desember 1992 nr. 1174](forskrift/1992-12-18-1174) om import av akvarieorganismer, vedtatt i medhold av lakse- og [innlandsfiskloven § 8](lov/1992-05-15-47/§8) og [§ 9](lov/1992-05-15-47/§9), vil bli opphevet i sin helhet som følge av at forskriften trer i kraft.
 
-*Andre ledd:*[Forskrift 11. november 1993 nr. 1020](forskrift/1993-11-11-1020) om utsetting av fisk og andre ferskvannsorganismer, hjemlet i lakse- og [innlandsfiskloven § 9](lov/1992-05-15-47/§9), endres slik at den kun regulerer utsetting av anadrome laksefisk, innlandsfisk og andre ferskvannsorganismer *for kultiveringsformål*. Ny tittel og ny bestemmelse om virkeområde ([§ 1](forskrift/2015-06-19-716/§1)), synliggjør at forskriften har et snevrere virkeområde enn før. Etter forskriften [§ 2](forskrift/1993-11-11-1020/§2) kan det gis tillatelse til utsetting for kultiveringsformål av stedegen stamme. For innlandsfisk kan det også gis tillatelse til utsetting fra samme kultiveringssone, noe som gjør at forskriften også er hjemlet i [naturmangfoldloven § 30](lov/2009-06-19-100/§30), i tillegg til lakse- og [innlandsfiskloven § 10](lov/1992-05-15-47/§10). [Paragraf 4](lov/1992-05-15-47/§4) oppheves i sin helhet, i og med at bestemmelsen gjelder utsetting som vil kreve tillatelse etter den nye forskriften. Paragraf 5 oppheves også, i og med at bestemmelsen relaterer seg til § 4 første ledd nr. 3, som nå vil bli regulert under den nye forskriften.
+*Andre ledd:* [Forskrift 11. november 1993 nr. 1020](forskrift/1993-11-11-1020) om utsetting av fisk og andre ferskvannsorganismer, hjemlet i lakse- og [innlandsfiskloven § 9](lov/1992-05-15-47/§9), endres slik at den kun regulerer utsetting av anadrome laksefisk, innlandsfisk og andre ferskvannsorganismer *for kultiveringsformål*. Ny tittel og ny bestemmelse om virkeområde ([§ 1](forskrift/2015-06-19-716/§1)), synliggjør at forskriften har et snevrere virkeområde enn før. Etter forskriften [§ 2](forskrift/1993-11-11-1020/§2) kan det gis tillatelse til utsetting for kultiveringsformål av stedegen stamme. For innlandsfisk kan det også gis tillatelse til utsetting fra samme kultiveringssone, noe som gjør at forskriften også er hjemlet i [naturmangfoldloven § 30](lov/2009-06-19-100/§30), i tillegg til lakse- og [innlandsfiskloven § 10](lov/1992-05-15-47/§10). [Paragraf 4](lov/1992-05-15-47/§4) oppheves i sin helhet, i og med at bestemmelsen gjelder utsetting som vil kreve tillatelse etter den nye forskriften. Paragraf 5 oppheves også, i og med at bestemmelsen relaterer seg til § 4 første ledd nr. 3, som nå vil bli regulert under den nye forskriften.
 
-*Tredje ledd:*[Forskrift 30. desember 1992 nr. 1232](forskrift/1992-12-30-1232) om etablering og drift av kultiveringsanlegg for fisk og kreps, hjemlet i lakse- og [innlandsfiskloven § 10](lov/1992-05-15-47/§10), stiller krav om tillatelse for etablering og drift av anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av anadrome laksefisk og kreps for senere utsetting i naturen. En tillatelse til kultiveringstiltak omfatter også utsetting av fisk i kultiveringsanlegg, jf. [forskrift 11. november 1993 nr. 1020](forskrift/1993-11-11-1020) om utsetting av fisk og andre ferskvannsorganismer [§ 1](forskrift/1993-11-11-1020/§1) andre ledd. En eventuell tillatelse til etablering av et kultiveringsanlegg i sjø med genetisk materiale som ikke er av stedegen stamme vil være en utsetting som krever tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30). Det foreslås derfor et nytt fjerde ledd i § 1, som sier at kultiveringstiltak som kan medføre spredning av organismer som ikke er av stedegen stamme, vil kreve tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
+*Tredje ledd:* [Forskrift 30. desember 1992 nr. 1232](forskrift/1992-12-30-1232) om etablering og drift av kultiveringsanlegg for fisk og kreps, hjemlet i lakse- og [innlandsfiskloven § 10](lov/1992-05-15-47/§10), stiller krav om tillatelse for etablering og drift av anlegg, dam eller innhegning for klekking, produksjon eller oppbevaring av anadrome laksefisk og kreps for senere utsetting i naturen. En tillatelse til kultiveringstiltak omfatter også utsetting av fisk i kultiveringsanlegg, jf. [forskrift 11. november 1993 nr. 1020](forskrift/1993-11-11-1020) om utsetting av fisk og andre ferskvannsorganismer [§ 1](forskrift/1993-11-11-1020/§1) andre ledd. En eventuell tillatelse til etablering av et kultiveringsanlegg i sjø med genetisk materiale som ikke er av stedegen stamme vil være en utsetting som krever tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30). Det foreslås derfor et nytt fjerde ledd i § 1, som sier at kultiveringstiltak som kan medføre spredning av organismer som ikke er av stedegen stamme, vil kreve tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
 
-*Fjerde ledd:*[Forskrift 15. november 2004 nr. 1468](forskrift/2004-11-15-1468) om fysiske tiltak i vassdrag, er hjemlet i lakse- og [innlandsfiskloven § 7](lov/1992-05-15-47/§7) (Regulering av utbygging og annen virksomhet). Forskriften inneholder bestemmelser som åpner for å tillate fysiske tiltak, slik som fisketrapper, som bl.a. har til hensikt å forandre arters utbredelse, jf. [§ 1](forskrift/2015-06-19-716/§1) første ledd bokstav c. Dette vil i praksis være utsetting som krever tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30). Som følge av vedtagelsen av forskrift om fremmede organismer, foreslås det å legge til et nytt femte ledd i [§ 1](forskrift/2015-06-19-716/§1) som sier at fysiske tiltaket etter første ledd som kan medføre spredning av organismer som ikke er av stedegen stamme, vil kreve tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
+*Fjerde ledd:* [Forskrift 15. november 2004 nr. 1468](forskrift/2004-11-15-1468) om fysiske tiltak i vassdrag, er hjemlet i lakse- og [innlandsfiskloven § 7](lov/1992-05-15-47/§7) (Regulering av utbygging og annen virksomhet). Forskriften inneholder bestemmelser som åpner for å tillate fysiske tiltak, slik som fisketrapper, som bl.a. har til hensikt å forandre arters utbredelse, jf. [§ 1](forskrift/2015-06-19-716/§1) første ledd bokstav c. Dette vil i praksis være utsetting som krever tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30). Som følge av vedtagelsen av forskrift om fremmede organismer, foreslås det å legge til et nytt femte ledd i [§ 1](forskrift/2015-06-19-716/§1) som sier at fysiske tiltaket etter første ledd som kan medføre spredning av organismer som ikke er av stedegen stamme, vil kreve tillatelse etter forskrift om fremmede organismer. Tillatelse etter forskrift om fremmede organismer kreves likevel ikke hvis tiltaket kun kan medføre spredning av innlandsfisk innen samme kultiveringssone.
 
 *Femte ledd:* Tillatelse til innfanging av levende vilt for overføring til annet område for formål som nevnt i [§ 11](forskrift/2003-03-14-349/§11) og [§ 12](forskrift/2003-03-14-349/§12) i [forskrift 14. mars 2003 nr. 349](forskrift/2003-03-14-349) om innfanging og innsamling av vilt for vitenskapelige eller andre særlige formål, kan innebære utsetting av vilt som vil kreve tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30) første ledd bokstav b. Av denne grunn foreslås det å føye til et nytt andre ledd i § 3 som sier at utsetting av innfanget vilt av arter, underarter eller bestander som ikke fra før finnes naturlig i distriktet, reguleres av forskrift om innførsel og utsetting av fremmede organismer. Dette betyr at i saker om innfanging for formål som innebærer utsetting, må utsettingen behandles etter den nye forskriften.
 
-*Sjette ledd:*[Forskrift 15. februar 1999 nr. 357](forskrift/1999-02-15-357) om hold av vilt i fangenskap, oppdrett av vilt i innhegnet område, og om jakt på oppdrettet utsatt vilt (holdforskriften) [§ 2-1](forskrift/1999-02-15-357/§2-1) fjerde ledd gir adgang til utsetting av visse arter på visse vilkår. Dette vil være utsetting som er omfattet av kravet om tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30), og som skal behandles etter forskrift om fremmede organismer. Av denne grunn foreslås det at holdforskriften § 2-1 fjerde ledd oppheves, og at begrepet «utsetting» fjernes fra bestemmelsens tittel.
+*Sjette ledd:* [Forskrift 15. februar 1999 nr. 357](forskrift/1999-02-15-357) om hold av vilt i fangenskap, oppdrett av vilt i innhegnet område, og om jakt på oppdrettet utsatt vilt (holdforskriften) [§ 2-1](forskrift/1999-02-15-357/§2-1) fjerde ledd gir adgang til utsetting av visse arter på visse vilkår. Dette vil være utsetting som er omfattet av kravet om tillatelse etter [naturmangfoldloven § 30](lov/2009-06-19-100/§30), og som skal behandles etter forskrift om fremmede organismer. Av denne grunn foreslås det at holdforskriften § 2-1 fjerde ledd oppheves, og at begrepet «utsetting» fjernes fra bestemmelsens tittel.
 
 *Sjuende ledd:* Som følge av at forskriften gjøres gjeldende for Jan Mayen, jf. [§ 2](forskrift/1978-08-11-3765/§2), foreslås det å endre [§ 17](forskrift/1978-08-11-3765/§17) i [forskrift 11. august 1978 nr. 3765](forskrift/1978-08-11-3765) om forvaltning av vilt og ferskvannsfisk på Svalbard og Jan Mayen, slik at den ikke lenger gjelder for utsetting av vilt og fisk på Jan Mayen.
+
+*Til Vedlegg I. Organismer som det er forbudt å innføre, sette ut og omsette, jf. [§ 5](forskrift/2015-06-19-716/§5) og [§ 9](forskrift/2015-06-19-716/§9)*
 
 Oppføringen av *Salix euxina* I.V. Belaeva i vedlegg I omfatter ikke kultivaren *Salix euxina* ‘Bullata’.
 

@@ -142,9 +142,39 @@ Innehavar av jordstasjonar for satellitt skal betale ei sektoravgift på kr 8190
 
 Innehavar av stasjon i radiotelemetrisystem, punkt til punkt og punkt til multipunkt, skal betale sektoravgift avhengig av utstrålt effekt (e.r.p.). Avgifta skal være kr 290 for kvar sendar for stasjonar med effekt under eller lik 0,5 W og kr 850 for kvar sendar for stasjonar med effekt høgare enn 0,5 W.
 
-Innehavar av sendarløyve til lokale nett i frekvensbandet 3,8-4,2 GHz skal betale sektoravgift avhengig av bandbreidde og utstrålt effekt slik det går fram av tabellen under. Lav-effekt inneber ein maksimal tillaten spektral effekttettleik på 18 dBm / 5 MHz EIRP for basestasjonane. Medium-effekt inneberer ein maksimal tillaten spektral effekttettleik på 36 dBm / 5 MHz EIRP for basestasjonane.*Bandbreidde lokale nett**Pris lav-effekt bruk**Pris medium-effekt bruk*20 MHz2201 08040 MHz4301 52060 MHz8702 39080 MHz1 7304 130
+Innehavar av sendarløyve til lokale nett i frekvensbandet 3,8-4,2 GHz skal betale sektoravgift avhengig av bandbreidde og utstrålt effekt slik det går fram av tabellen under. Lav-effekt inneber ein maksimal tillaten spektral effekttettleik på 18 dBm / 5 MHz EIRP for basestasjonane. Medium-effekt inneberer ein maksimal tillaten spektral effekttettleik på 36 dBm / 5 MHz EIRP for basestasjonane.
 
-Innehavar av sendarløyve som ikkje inngår i første til tredje ledd, skal betale sektoravgift for kvar sendar innehavar har avhengig av bandbreidde og frekvensband sendarane bruker, som det går fram av tabellen under. Dersom det nyttast MIMO-teknologi mellom to punkt, skal det berre betalast ei sektoravgift per stasjon for same frekvens, polarisasjon og bandbreidde.*Frekvensband sendarane bruker**Bandbreidde**Pris per sendar i kr*Lågare enn 1 GHzTil og med 25 kHz880Lågare enn 1 GHzOver 25 kHz til og med 150 kHz1 170Lågare enn 1 GHzOver 150 kHz2 100Frå og med 1 GHz og lågare enn 5,15 GHzTil og med 2 MHz1 160Frå og med 1 GHz og lågare enn 5,15 GHzOver 2 MHz2 020Frå og med 5,15 GHz og lågare enn 8,5 GHzTil og med 25 MHz670Frå og med 5,15 GHz og lågare enn 8,5 GHzOver 25 MHz til og med 49 MHz870Frå og med 5,15 GHz og lågare enn 8,5 GHzOver 49 MHz til og med 70 MHz1 130Frå og med 5,15 GHz og lågare enn 8,5 GHzOver 70 MHz1 470Frå og med 8,5 GHz og lågare enn 20 GHzTil og med 25 MHz420Frå og med 8,5 GHz og lågare enn 20 GHzOver 25 MHz til og med 49 MHz540Frå og med 8,5 GHz og lågare enn 20 GHzOver 49 MHz til og med 90 MHz700Frå og med 8,5 GHz og lågare enn 20 GHzOver 90 MHz til og med 150 MHz920Frå og med 8,5 GHz og lågare enn 20 GHzOver 150 MHz1 210Frå og med 20 og lågare enn 57 GHzTil og med 25 MHz250Frå og med 20 og lågare enn 57 GHzOver 25 MHz til og med 49 MHz300Frå og med 20 og lågare enn 57 GHzOver 49 MHz til og med 90 MHz350Frå og med 20 og lågare enn 57 GHzOver 90 MHz til og med 150 MHz430Frå og med 20 og lågare enn 57 GHzOver 150 MHz520Frå og med 57 GHz210
+| *Bandbreidde lokale nett* | *Pris lav-effekt bruk* | *Pris medium-effekt bruk* |
+| --- | --- | --- |
+| 20 MHz | 220 | 1 080 |
+| 40 MHz | 430 | 1 520 |
+| 60 MHz | 870 | 2 390 |
+| 80 MHz | 1 730 | 4 130 |
+
+Innehavar av sendarløyve som ikkje inngår i første til tredje ledd, skal betale sektoravgift for kvar sendar innehavar har avhengig av bandbreidde og frekvensband sendarane bruker, som det går fram av tabellen under. Dersom det nyttast MIMO-teknologi mellom to punkt, skal det berre betalast ei sektoravgift per stasjon for same frekvens, polarisasjon og bandbreidde.
+
+| *Frekvensband sendarane bruker* | *Bandbreidde* | *Pris per sendar i kr* |
+| --- | --- | --- |
+| Lågare enn 1 GHz | Til og med 25 kHz | 880 |
+| Lågare enn 1 GHz | Over 25 kHz til og med 150 kHz | 1 170 |
+| Lågare enn 1 GHz | Over 150 kHz | 2 100 |
+| Frå og med 1 GHz og lågare enn 5,15 GHz | Til og med 2 MHz | 1 160 |
+| Frå og med 1 GHz og lågare enn 5,15 GHz | Over 2 MHz | 2 020 |
+| Frå og med 5,15 GHz og lågare enn 8,5 GHz | Til og med 25 MHz | 670 |
+| Frå og med 5,15 GHz og lågare enn 8,5 GHz | Over 25 MHz til og med 49 MHz | 870 |
+| Frå og med 5,15 GHz og lågare enn 8,5 GHz | Over 49 MHz til og med 70 MHz | 1 130 |
+| Frå og med 5,15 GHz og lågare enn 8,5 GHz | Over 70 MHz | 1 470 |
+| Frå og med 8,5 GHz og lågare enn 20 GHz | Til og med 25 MHz | 420 |
+| Frå og med 8,5 GHz og lågare enn 20 GHz | Over 25 MHz til og med 49 MHz | 540 |
+| Frå og med 8,5 GHz og lågare enn 20 GHz | Over 49 MHz til og med 90 MHz | 700 |
+| Frå og med 8,5 GHz og lågare enn 20 GHz | Over 90 MHz til og med 150 MHz | 920 |
+| Frå og med 8,5 GHz og lågare enn 20 GHz | Over 150 MHz | 1 210 |
+| Frå og med 20 og lågare enn 57 GHz | Til og med 25 MHz | 250 |
+| Frå og med 20 og lågare enn 57 GHz | Over 25 MHz til og med 49 MHz | 300 |
+| Frå og med 20 og lågare enn 57 GHz | Over 49 MHz til og med 90 MHz | 350 |
+| Frå og med 20 og lågare enn 57 GHz | Over 90 MHz til og med 150 MHz | 430 |
+| Frå og med 20 og lågare enn 57 GHz | Over 150 MHz | 520 |
+| Frå og med 57 GHz |  | 210 |
 
 > Endra ved forskrifter [29 jan 2024 nr. 135](forskrift/2024-01-29-135), [13 des 2024 nr. 3121](forskrift/2024-12-13-3121) (i kraft 1 jan 2025), [25 juni 2025 nr. 1325](forskrift/2025-06-25-1325) (i kraft 1 juli 2025 med veknad frå 1 jan 2025), [29 jan 2026 nr. 113](forskrift/2026-01-29-113) (i kraft 1 feb 2026 med verknad frå 1 jan 2026).
 
@@ -154,7 +184,28 @@ Det samla beløpet som blir krevje inn frå innehavarar av spektrumsløyve etter
 
 Innehavarane av spektrumsløyve skal betale ei sektoravgift som består av to delar utrekna slik:20 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyve med ein lik del for kvar samanhengande frekvensblokk dei disponerer.80 % av beløpet etter første ledd blir fordelt mellom innehavarane av spektrumsløyva i høve til Nasjonal kommunikasjonsmyndigheit ressursbruk og bandbreidda som kvart spektrumsløyve omfattar. Dette gjerast slik at beløpet blir fordelt på kvar samanhengande frekvensblokk som kvart spektrumsløyve omfattar ved at vekta bandbreidde rekna ut etter tredje ledd, blir delt på den samla vekta bandbreidda for alle spektrumsløyva det skal betalast sektoravgift for etter denne paragrafen, og multiplisert med beløpet etter første punktum.
 
-Kvar samanhengande frekvensblokk eit spektrumsløyve omfattar blir tilordna ei vekt i høve til bandbreidda og ei vekt i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta bandbreidde blir rekna ut ved at vekta i høve til bandbreidda blir multiplisert med vekta i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta i høve til bandbreidde er lik 1/f, der f er senterfrekvensen i det frekvensbandet frekvensblokka ligg i. Vekta i høve til Nasjonal kommunikasjonsmyndigheit sins ressursbruk følgjer av tabellen under. For frekvensband som ikkje er nemnde i tabellen, vert vekta lik 1. For regionale løyve blir vekta multiplisert med brøkdelen av befolkninga i Noreg som er busett i dekningsområdet for løyvet. For løyve som gjeld på Svalbard blir vekta multiplisert med 1/100. For løyve som gjeld offshore blir vekta multiplisert med 1/5.*Frekvensband**Vekt*0–30 MHz0,02547–68 MHz0,1137–174 MHz4,0174–240 MHz7,0380–400 MHz3,0400–470 MHz6,0470–694 MHz3,0738–758 MHz7,0703–733/758–788 MHz7,0791–821/832–862 MHz8,0876–880/921–925 MHz4,0880–915/925–960 MHz9,01427–1517 MHz2,51710–1785/1805–1880 MHz17,01920–1980/2110–2170 MHz20,02500–2690 MHz9,03400–3800 MHz6,025100–27500 MHz6,0
+Kvar samanhengande frekvensblokk eit spektrumsløyve omfattar blir tilordna ei vekt i høve til bandbreidda og ei vekt i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta bandbreidde blir rekna ut ved at vekta i høve til bandbreidda blir multiplisert med vekta i høve til Nasjonal kommunikasjonsmyndigheit sin ressursbruk. Vekta i høve til bandbreidde er lik 1/f, der f er senterfrekvensen i det frekvensbandet frekvensblokka ligg i. Vekta i høve til Nasjonal kommunikasjonsmyndigheit sins ressursbruk følgjer av tabellen under. For frekvensband som ikkje er nemnde i tabellen, vert vekta lik 1. For regionale løyve blir vekta multiplisert med brøkdelen av befolkninga i Noreg som er busett i dekningsområdet for løyvet. For løyve som gjeld på Svalbard blir vekta multiplisert med 1/100. For løyve som gjeld offshore blir vekta multiplisert med 1/5.
+
+| *Frekvensband* | *Vekt* |
+| --- | --- |
+| 0–30 MHz | 0,025 |
+| 47–68 MHz | 0,1 |
+| 137–174 MHz | 4,0 |
+| 174–240 MHz | 7,0 |
+| 380–400 MHz | 3,0 |
+| 400–470 MHz | 6,0 |
+| 470–694 MHz | 3,0 |
+| 738–758 MHz | 7,0 |
+| 703–733/758–788 MHz | 7,0 |
+| 791–821/832–862 MHz | 8,0 |
+| 876–880/921–925 MHz | 4,0 |
+| 880–915/925–960 MHz | 9,0 |
+| 1427–1517 MHz | 2,5 |
+| 1710–1785/1805–1880 MHz | 17,0 |
+| 1920–1980/2110–2170 MHz | 20,0 |
+| 2500–2690 MHz | 9,0 |
+| 3400–3800 MHz | 6,0 |
+| 25100–27500 MHz | 6,0 |
 
 > Endra ved forskrift [29 jan 2024 nr. 135](forskrift/2024-01-29-135).
 

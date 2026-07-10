@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 19. desember 2007 nr. 1761 om godtgjørelse for å yte poliklinisk helsehjelp i spesialisthelsetjenesten (poliklinikkforskriften)](forskrift/2007-12-19-1761) gjøres følgende endring:
+
+[§ 2](forskrift/2007-12-19-1761/§2) nytt fjerde ledd skal lyde:
+
 I en nasjonal prøveordning i perioden 1. september 2026 til 1. september 2029 kan helsesykepleier henvise barn og unge til og med det kalenderåret de fyller 26 år til psykisk helsevern.
 
 ## II

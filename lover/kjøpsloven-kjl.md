@@ -660,7 +660,11 @@ FN-konvensjonen 11. april 1980 om kontrakter for internasjonale løsørekjøp gj
 
 > Endret ved [lov 21 juni 2002 nr. 34](lov/2002-06-21-34) (ikr. 1 juli 2002), tidligere § 99, [28 feb 2014 nr. 2](lov/2014-02-28-2) (ikr. 1 nov 2014 iflg. [res. 29 aug 2014 nr. 1119](forskrift/2014-08-29-1119)), tidligere § 100.
 
+1 Fra 1 jan 1989 iflg. [res. 8 juli 1988 nr. 554](forskrift/1988-07-08-554).
+
 ## FN-konvensjonen 11 apr 1980 om kontrakter for internasjonale løsørekjøp.
+
+Vedtatt i Wien 11 apr 1980, ratifisert i henhold til [lov 13 mai 1988 nr. 28](lov/1988-05-13-28) (inntatt i Norges Lover 1685-1989) om samtykke til ratifikasjon av FN-konvensjonen om kontrakter for internasjonale løsørekjøp, vedtatt 11 apr 1980.
 
 De stater som er parter i konvensjonen her,
 

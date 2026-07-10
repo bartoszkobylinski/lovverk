@@ -30,15 +30,15 @@ Barn og ungdom under 18 år plikter å erstatte skade som de volder forsettlig e
 
 ### § 1-2. (foreldres ansvar m.v.)
 
-1. Foreldre plikter å erstatte skade voldt av barn og ungdom under 18 år, såfremt de har latt det mangle på tilbørlig tilsyn eller på annen måte ikke har gjort det som etter forholdene er rimelig å kreve av dem for å hindre skadeforvoldelse.
+1\. Foreldre plikter å erstatte skade voldt av barn og ungdom under 18 år, såfremt de har latt det mangle på tilbørlig tilsyn eller på annen måte ikke har gjort det som etter forholdene er rimelig å kreve av dem for å hindre skadeforvoldelse.
 
-2. Uansett egen skyld svarer foreldre for skade voldt forsettlig eller uaktsomt av deres barn under 18 år som de bor sammen med og har omsorgen for, med inntil 5.000 kroner for hver enkelt skadevolding.
+2\. Uansett egen skyld svarer foreldre for skade voldt forsettlig eller uaktsomt av deres barn under 18 år som de bor sammen med og har omsorgen for, med inntil 5.000 kroner for hver enkelt skadevolding.
 
 > Endret ved lover [13 feb 1976 nr. 1](lov/1976-02-13-1), [21 juni 1985 nr. 81](lov/1985-06-21-81), [12 mai 1995 nr. 21](lov/1995-05-12-21).
 
 ### § 1-3. (sinnssykes ansvar m.v.)
 
-1. Den som er sinnssyk, åndssvak, bevisstløs eller befinner seg i en lignende forstyrrelse av sinnstilstanden, plikter å erstatte den skade han volder for så vidt det finnes rimelig under hensyn til utvist adferd, økonomisk evne og forholdene ellers. Var skadevolderen selvforskyldt brakt i en forbigående tilstand som nevnt, har han det ansvar som ellers ville følge av alminnelige erstatningsregler.
+1\. Den som er sinnssyk, åndssvak, bevisstløs eller befinner seg i en lignende forstyrrelse av sinnstilstanden, plikter å erstatte den skade han volder for så vidt det finnes rimelig under hensyn til utvist adferd, økonomisk evne og forholdene ellers. Var skadevolderen selvforskyldt brakt i en forbigående tilstand som nevnt, har han det ansvar som ellers ville følge av alminnelige erstatningsregler.
 
 > Endret ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
@@ -48,25 +48,25 @@ Skadevolder plikter å erstatte skade han lovlig har voldt for å avverge truend
 
 ### § 1-5. (ansvar for dyr)
 
-1. Eier og innehaver av dyr plikter uansett skyld fra sin side å erstatte skade som dyret volder på person eller på klær eller andre vanlige bruksting mens noen har dem på seg.
+1\. Eier og innehaver av dyr plikter uansett skyld fra sin side å erstatte skade som dyret volder på person eller på klær eller andre vanlige bruksting mens noen har dem på seg.
 
-2. Eier og innehaver av hund eller ville dyr som holdes i fangenskap, plikter uansett skyld fra sin side å erstatte også tingskade som dyret volder.
+2\. Eier og innehaver av hund eller ville dyr som holdes i fangenskap, plikter uansett skyld fra sin side å erstatte også tingskade som dyret volder.
 
-3. Ansvar uten skyld for skade på person, klær eller bruksting som nevnt i nr. 1, gjelder ikke så langt skaden er dekket av en motorvogns trafikkforsikring. Ansvar uten skyld etter nr. 2 gjelder ikke skade som hund volder på annen hund eller motorvogn.
+3\. Ansvar uten skyld for skade på person, klær eller bruksting som nevnt i nr. 1, gjelder ikke så langt skaden er dekket av en motorvogns trafikkforsikring. Ansvar uten skyld etter nr. 2 gjelder ikke skade som hund volder på annen hund eller motorvogn.
 
-4. Skade som voldes av dyr og som ikke går inn under bestemmelsene om ansvar uten skyld i nr. 1 til 3 ovenfor, plikter eier og innehaver å erstatte dersom han har latt det mangle på tilbørlig tilsyn eller på annen måte ikke har gjort det som er rimelig å kreve for å hindre skade.
+4\. Skade som voldes av dyr og som ikke går inn under bestemmelsene om ansvar uten skyld i nr. 1 til 3 ovenfor, plikter eier og innehaver å erstatte dersom han har latt det mangle på tilbørlig tilsyn eller på annen måte ikke har gjort det som er rimelig å kreve for å hindre skade.
 
-5. Bestemmelsene i paragrafen gjør ikke noen endring i de særlige regler om ansvar for dyr som er gitt i annen lov eller det ansvar uten skyld som følger av alminnelige erstatningsregler.
+5\. Bestemmelsene i paragrafen gjør ikke noen endring i de særlige regler om ansvar for dyr som er gitt i annen lov eller det ansvar uten skyld som følger av alminnelige erstatningsregler.
 
 > Tilføyd ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
 ### § 1-6. (ansvar for skade voldt ved korrupsjon)
 
-1. Den som har lidt skade som følge av korrupsjon, kan kreve erstatning fra den som med forsett eller uaktsomhet svarer for korrupsjonen eller for medvirkning til korrupsjonen. Erstatning kan også kreves fra den ansvarliges arbeidsgiver hvis korrupsjonen er skjedd i tilknytning til utføring av arbeid eller verv for arbeidsgiveren, med mindre denne påviser at det er truffet alle rimelige forholdsregler for å unngå korrupsjon og ansvar heller ikke vil være rimelig etter en samlet vurdering av omstendighetene i saken. [Lovens § 2-1](lov/1969-06-13-26/§2-1) nr. 2 og nr. 3, [§ 2-2](lov/1969-06-13-26/§2-2) og [§ 2-3](lov/1969-06-13-26/§2-3) gjelder tilsvarende.
+1\. Den som har lidt skade som følge av korrupsjon, kan kreve erstatning fra den som med forsett eller uaktsomhet svarer for korrupsjonen eller for medvirkning til korrupsjonen. Erstatning kan også kreves fra den ansvarliges arbeidsgiver hvis korrupsjonen er skjedd i tilknytning til utføring av arbeid eller verv for arbeidsgiveren, med mindre denne påviser at det er truffet alle rimelige forholdsregler for å unngå korrupsjon og ansvar heller ikke vil være rimelig etter en samlet vurdering av omstendighetene i saken. [Lovens § 2-1](lov/1969-06-13-26/§2-1) nr. 2 og nr. 3, [§ 2-2](lov/1969-06-13-26/§2-2) og [§ 2-3](lov/1969-06-13-26/§2-3) gjelder tilsvarende.
 
-2. Erstatning skal dekke den skadelidtes økonomiske tap, jf. [kapittel 3](lov/1969-06-13-26/kap3) og 4.
+2\. Erstatning skal dekke den skadelidtes økonomiske tap, jf. [kapittel 3](lov/1969-06-13-26/kap3) og 4.
 
-3. Med korrupsjon menes atferd som nevnt i [straffeloven §§ 387](lov/2005-05-20-28/§387) og [389](lov/2005-05-20-28/§389). Dette gjelder uten hensyn til om noen er straffskyldig. Hører den ansvarlige eller dennes arbeidsgiver hjemme i Norge, gjelder ansvaret også om korrupsjonen skjer i utlandet eller skaden oppstår i utlandet.
+3\. Med korrupsjon menes atferd som nevnt i [straffeloven §§ 387](lov/2005-05-20-28/§387) og [389](lov/2005-05-20-28/§389). Dette gjelder uten hensyn til om noen er straffskyldig. Hører den ansvarlige eller dennes arbeidsgiver hjemme i Norge, gjelder ansvaret også om korrupsjonen skjer i utlandet eller skaden oppstår i utlandet.
 
 > Tilføyd ved lov [11 jan 2008 nr. 1](lov/2008-01-11-1) (ikr. 1 mars 2008 iflg. [res. 11 jan 2008 nr. 3](forskrift/2008-01-11-3)), endret ved lov [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015).
 
@@ -74,31 +74,31 @@ Skadevolder plikter å erstatte skade han lovlig har voldt for å avverge truend
 
 ### § 2-1. (arbeidsgivers ansvar for arbeidstaker.)
 
-1. Arbeidsgiver svarer for skade som voldes forsettlig eller uaktsomt under arbeidstakers utføring av arbeid eller verv for arbeidsgiveren, idet hensyn tas til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten, er tilsidesatt. Ansvaret omfatter ikke skade som skyldes at arbeidstakeren går utenfor det som er rimelig å regne med etter arten av virksomheten eller saksområdet og karakteren av arbeidet eller vervet.
+1\. Arbeidsgiver svarer for skade som voldes forsettlig eller uaktsomt under arbeidstakers utføring av arbeid eller verv for arbeidsgiveren, idet hensyn tas til om de krav skadelidte med rimelighet kan stille til virksomheten eller tjenesten, er tilsidesatt. Ansvaret omfatter ikke skade som skyldes at arbeidstakeren går utenfor det som er rimelig å regne med etter arten av virksomheten eller saksområdet og karakteren av arbeidet eller vervet.
 
-2. Med arbeidsgiver menes her det offentlige og enhver annen som i eller utenfor ervervsvirksomhet har noen i sin tjeneste.
+2\. Med arbeidsgiver menes her det offentlige og enhver annen som i eller utenfor ervervsvirksomhet har noen i sin tjeneste.
 
-3. Med arbeidstaker menes enhver som gjør arbeid eller utfører verv i arbeidsgivers tjeneste, unntatt verv som tillitsvalgt i annet foretak. Like med arbeidstaker regnes ombud i offentlig virksomhet, de som gjør tjeneste i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.
+3\. Med arbeidstaker menes enhver som gjør arbeid eller utfører verv i arbeidsgivers tjeneste, unntatt verv som tillitsvalgt i annet foretak. Like med arbeidstaker regnes ombud i offentlig virksomhet, de som gjør tjeneste i Forsvaret og andre under pålagt tjenestegjøring for det offentlige, samt innsatte, pasienter e.l. som deltar i arbeidsvirksomhet i kriminalomsorgens anstalter, i helseinstitusjoner e.l.
 
-4. Om pasientskadeerstatning gjelder pasientskadeloven.
+4\. Om pasientskadeerstatning gjelder pasientskadeloven.
 
 > Endret ved lover [13 juni 1997 nr. 44](lov/1997-06-13-44) (ikr. 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615)), [15 juni 2001 nr. 53](lov/2001-06-15-53) (ikr. 1 jan 2003 for den offentlige helsetjenesten iflg. [res. 20 des 2002 nr. 1623](forskrift/2002-12-20-1623)), [20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [12 aug 2016 nr. 77](lov/2016-08-12-77) (ikr. 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778)).
 
 ### § 2-2. (lemping av arbeidsgiverens ansvar.)
 
-1. Arbeidsgiverens ansvar kan lempes etter [§ 5-2](lov/1969-06-13-26/§5-2).
+1\. Arbeidsgiverens ansvar kan lempes etter [§ 5-2](lov/1969-06-13-26/§5-2).
 
-2. Ansvaret kan dessuten lempes dersom skaden beror på vedtak av offentlig myndighet og skadelidte uten rimelig grunn har latt være å forsøke å få endret vedtaket.
+2\. Ansvaret kan dessuten lempes dersom skaden beror på vedtak av offentlig myndighet og skadelidte uten rimelig grunn har latt være å forsøke å få endret vedtaket.
 
 > Endret ved lover [13 feb 1976 nr. 1](lov/1976-02-13-1), [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
 ### § 2-3. (lemping av arbeidstakers ansvar.)
 
-1. Den som er blitt ansvarlig for arbeidstaker etter [§ 2-1](lov/1969-06-13-26/§2-1), kan kreve dekning av ham for så vidt det finnes rimelig under hensyn til utvist adferd, økonomisk evne, arbeidstakerens stilling og forholdene for øvrig.
+1\. Den som er blitt ansvarlig for arbeidstaker etter [§ 2-1](lov/1969-06-13-26/§2-1), kan kreve dekning av ham for så vidt det finnes rimelig under hensyn til utvist adferd, økonomisk evne, arbeidstakerens stilling og forholdene for øvrig.
 
-2. Arbeidstakers ansvar overfor skadelidte kan lempes når forhold som nevnt i nr. 1 gjør det rimelig, og det finnes forsvarlig også under hensyn til skadelidte. Arbeidstaker som selv erstatter skaden, kan kreve tilbake det arbeidsgiveren bør bære etter nr. 1.
+2\. Arbeidstakers ansvar overfor skadelidte kan lempes når forhold som nevnt i nr. 1 gjør det rimelig, og det finnes forsvarlig også under hensyn til skadelidte. Arbeidstaker som selv erstatter skaden, kan kreve tilbake det arbeidsgiveren bør bære etter nr. 1.
 
-3. Regelen i nr. 1 gjelder tilsvarende dersom arbeidsgiver gjør krav gjeldende mot arbeidstaker som i hans tjeneste har påført ham skade.
+3\. Regelen i nr. 1 gjelder tilsvarende dersom arbeidsgiver gjør krav gjeldende mot arbeidstaker som i hans tjeneste har påført ham skade.
 
 ## Kapittel 3. Erstatning for skade på person, for andre personlige krenkinger m.m. og for tap av forsørger.
 
@@ -124,29 +124,29 @@ Har skadelidte fått varig og betydelig skade av medisinsk art, svares særskilt
 
 ### § 3-2 a. (inntektstaperstatning til barn)
 
-1. Har den skadelidte på skadevirkningstidspunktet ikke fylt 19 år, ytes erstatning for varig tap i erverv, herunder tap i verdien av arbeid i heimen, etter paragrafen her.
+1\. Har den skadelidte på skadevirkningstidspunktet ikke fylt 19 år, ytes erstatning for varig tap i erverv, herunder tap i verdien av arbeid i heimen, etter paragrafen her.
 
-2. Inntektstap frem til og med det året den skadelidte fyller 21 år, erstattes med et antall G etter forskrift gitt av Kongen. Det gis ikke erstatning etter første punktum ved lavere medisinsk invaliditet enn ti prosent.
+2\. Inntektstap frem til og med det året den skadelidte fyller 21 år, erstattes med et antall G etter forskrift gitt av Kongen. Det gis ikke erstatning etter første punktum ved lavere medisinsk invaliditet enn ti prosent.
 
-3. Inntektstap etter det året den skadelidte fyller 21 år, erstattes med 50,8 G og utmåles dette året. Dersom utmålingen likevel først skjer et senere år, fastsettes erstatningen til 51,8 G. Er den skadelidtes ervervsuførhet lavere enn 100 prosent, reduseres erstatningen etter første og annet punktum forholdsmessig. Har den skadelidte en uføregrad som ikke oppfyller kravet for å motta uføretrygd etter [folketrygdloven § 12-7](lov/1997-02-28-19/§12-7), fastsettes erstatningen likevel til en forholdsmessig andel av et antall G etter regler gitt av Kongen i forskrift. Er det åpenbart at den skadelidte er 100 prosent varig ervervsufør, kan erstatningen fastsettes tidligere enn det året den skadelidte fyller 21 år. Skadevolderen eller dennes representant kan også når som helst oppfylle sin betalingsforpliktelse ved å betale en erstatning som om den skadelidte er 100 prosent varig ervervsufør. Utmåles erstatningen tidligere enn det året den skadelidte fyller 21 år, skal erstatningsbeløpet aldersjusteres etter regler fastsatt av Kongen i forskrift. Den erstatningsansvarlige kan pålegges å stille sikkerhet for den skadelidtes krav på erstatning etter dette leddet.
+3\. Inntektstap etter det året den skadelidte fyller 21 år, erstattes med 50,8 G og utmåles dette året. Dersom utmålingen likevel først skjer et senere år, fastsettes erstatningen til 51,8 G. Er den skadelidtes ervervsuførhet lavere enn 100 prosent, reduseres erstatningen etter første og annet punktum forholdsmessig. Har den skadelidte en uføregrad som ikke oppfyller kravet for å motta uføretrygd etter [folketrygdloven § 12-7](lov/1997-02-28-19/§12-7), fastsettes erstatningen likevel til en forholdsmessig andel av et antall G etter regler gitt av Kongen i forskrift. Er det åpenbart at den skadelidte er 100 prosent varig ervervsufør, kan erstatningen fastsettes tidligere enn det året den skadelidte fyller 21 år. Skadevolderen eller dennes representant kan også når som helst oppfylle sin betalingsforpliktelse ved å betale en erstatning som om den skadelidte er 100 prosent varig ervervsufør. Utmåles erstatningen tidligere enn det året den skadelidte fyller 21 år, skal erstatningsbeløpet aldersjusteres etter regler fastsatt av Kongen i forskrift. Den erstatningsansvarlige kan pålegges å stille sikkerhet for den skadelidtes krav på erstatning etter dette leddet.
 
-4. Skadevolderen eller dennes representant plikter å gi en skadelidt med kjent adresse særskilt melding om rett til oppgjør etter tredje ledd det året den skadelidte fyller 19 år. Meldingen skal sendes ved rekommandert brev.
+4\. Skadevolderen eller dennes representant plikter å gi en skadelidt med kjent adresse særskilt melding om rett til oppgjør etter tredje ledd det året den skadelidte fyller 19 år. Meldingen skal sendes ved rekommandert brev.
 
-5. Hadde den skadelidte de siste to årene før skadevirkningstidspunktet en gjennomsnittlig arbeidsinntekt på 5 G eller mer, kan beløpene som følger av en utmåling etter annet og tredje ledd, forhøyes i det omfang det finnes rimelig.
+5\. Hadde den skadelidte de siste to årene før skadevirkningstidspunktet en gjennomsnittlig arbeidsinntekt på 5 G eller mer, kan beløpene som følger av en utmåling etter annet og tredje ledd, forhøyes i det omfang det finnes rimelig.
 
-6. Ved varig medisinsk invaliditet til og med 25 prosent kan den skadelidte, som et alternativ til erstatning etter annet og tredje ledd, kreve at inntektstaperstatningen fastsettes til en engangserstatning etter regler gitt av Kongen i forskrift. Første punktum gjelder ikke ved lavere medisinsk invaliditet enn ti prosent. Kravet må fremmes skriftlig innen det året den skadelidte fyller 16 år, likevel senest fem år fra skadevirkningstidspunktet.
+6\. Ved varig medisinsk invaliditet til og med 25 prosent kan den skadelidte, som et alternativ til erstatning etter annet og tredje ledd, kreve at inntektstaperstatningen fastsettes til en engangserstatning etter regler gitt av Kongen i forskrift. Første punktum gjelder ikke ved lavere medisinsk invaliditet enn ti prosent. Kravet må fremmes skriftlig innen det året den skadelidte fyller 16 år, likevel senest fem år fra skadevirkningstidspunktet.
 
-7. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med4 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller8 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.
+7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med4 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller8 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.
 
-8. Ved fastsettingen av erstatning etter paragrafen her skal det gjøres fradrag for forsikringsytelser i den utstrekning den erstatningsansvarlige har betalt premien.
+8\. Ved fastsettingen av erstatning etter paragrafen her skal det gjøres fradrag for forsikringsytelser i den utstrekning den erstatningsansvarlige har betalt premien.
 
-9. Dersom den skadelidte ikke er medlem av folketrygden, jf. [folketrygdloven kapittel 2](lov/1997-02-28-19/kap2), og bestemmelsene foran leder til et åpenbart urimelig resultat, kan erstatningen forhøyes eller reduseres i det omfang det finnes rimelig.
+9\. Dersom den skadelidte ikke er medlem av folketrygden, jf. [folketrygdloven kapittel 2](lov/1997-02-28-19/kap2), og bestemmelsene foran leder til et åpenbart urimelig resultat, kan erstatningen forhøyes eller reduseres i det omfang det finnes rimelig.
 
-10. Med «G» menes grunnbeløpet i folketrygden, jf. [folketrygdloven § 1-4](lov/1997-02-28-19/§1-4), med den verdien det har på oppgjørstidspunktet. Med «oppgjørstidspunktet» menes det tidspunktet partene kommer til enighet eller det treffes avgjørelse som blir rettskraftig. Er erstatningen i det vesentlige utbetalt før dette, regnes likevel tidspunktet for utbetalingen som oppgjørstidspunktet.
+10\. Med «G» menes grunnbeløpet i folketrygden, jf. [folketrygdloven § 1-4](lov/1997-02-28-19/§1-4), med den verdien det har på oppgjørstidspunktet. Med «oppgjørstidspunktet» menes det tidspunktet partene kommer til enighet eller det treffes avgjørelse som blir rettskraftig. Er erstatningen i det vesentlige utbetalt før dette, regnes likevel tidspunktet for utbetalingen som oppgjørstidspunktet.
 
-11. Ved erstatningskrav etter paragrafen her løper renter etter [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. tidligst fra to uker etter oppgjørstidspunktet, jf. tiende ledd annet og tredje punktum.
+11\. Ved erstatningskrav etter paragrafen her løper renter etter [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. tidligst fra to uker etter oppgjørstidspunktet, jf. tiende ledd annet og tredje punktum.
 
-12. Dersom retten av særlige grunner fastsetter erstatning etter denne bestemmelsen til terminbeløp, jf. [§ 3-9](lov/1969-06-13-26/§3-9), skal terminbeløpet fastsettes til et antall G og slik at det tas hensyn til den skadelidtes skattesituasjon.
+12\. Dersom retten av særlige grunner fastsetter erstatning etter denne bestemmelsen til terminbeløp, jf. [§ 3-9](lov/1969-06-13-26/§3-9), skal terminbeløpet fastsettes til et antall G og slik at det tas hensyn til den skadelidtes skattesituasjon.
 
 > Tilføyd ved lov [18 des 1987 nr. 96](lov/1987-12-18-96), endret ved lover [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [18 des 2015 nr. 124](lov/2015-12-18-124) (ikr. 1 mars 2018 iflg. [res. 16 feb 2018 nr. 235](forskrift/2018-02-16-235)). **Endres** ved lov [19 juni 2026 nr. 47](lov/2026-06-19-47) (i kraft fra den tid Kongen bestemmer, se endringsloven [del II](lov/2026-06-19-47/kapII) for overgangsregler).
 
@@ -192,11 +192,11 @@ En ærekrenkende ytring medfører ikke ansvar etter første ledd dersom den anse
 
 ### § 3-7. (regress for trygdeytelser, pensjonsytelser, forsikringsytelser og lønn under sykdom o l)
 
-1. Trygden eller en pensjonsinnretning kan ikke kreve regress hos den ansvarlige for trygdens eller pensjonsinnretningens utgifter og ansvar på grunn av skaden, med mindre denne er voldt forsettlig av den erstatningsansvarlige selv. Ved personskadeforsikring gjelder det samme for forsikringsselskapets regress mot den ansvarlige. Regressretten gjelder bare i den utstrekning ytelsene tillegges betydning ved utmålingen av skadevolderens ansvar overfor den skadelidte (jf [§ 3-1](lov/1969-06-13-26/§3-1) tredje ledd).
+1\. Trygden eller en pensjonsinnretning kan ikke kreve regress hos den ansvarlige for trygdens eller pensjonsinnretningens utgifter og ansvar på grunn av skaden, med mindre denne er voldt forsettlig av den erstatningsansvarlige selv. Ved personskadeforsikring gjelder det samme for forsikringsselskapets regress mot den ansvarlige. Regressretten gjelder bare i den utstrekning ytelsene tillegges betydning ved utmålingen av skadevolderens ansvar overfor den skadelidte (jf [§ 3-1](lov/1969-06-13-26/§3-1) tredje ledd).
 
-2. Arbeidsgiveren kan kreve regress for lønn under sykdom eller liknende ytelser, så langt tredjemann er erstatningsansvarlig etter ellers gjeldende erstatningsregler. Regressretten omfatter ikke ytelser som arbeidsgiveren kan kreve dekket av trygden.
+2\. Arbeidsgiveren kan kreve regress for lønn under sykdom eller liknende ytelser, så langt tredjemann er erstatningsansvarlig etter ellers gjeldende erstatningsregler. Regressretten omfatter ikke ytelser som arbeidsgiveren kan kreve dekket av trygden.
 
-3. Ved forsikring som en arbeidsgiver har tegnet for en ansatt, kan selskapet forbeholde seg rett til regress mot den ansvarlige skadevolder.
+3\. Ved forsikring som en arbeidsgiver har tegnet for en ansatt, kan selskapet forbeholde seg rett til regress mot den ansvarlige skadevolder.
 
 > Tilføyd ved lov [25 mai 1973 nr. 26](lov/1973-05-25-26), endret ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
@@ -236,9 +236,9 @@ Erstatning for tingskade og annen formuesskade skal dekke den skadelidtes økono
 
 ### § 4-2. (skadevolderens stilling når skaden er dekket ved forsikring)
 
-1. I det omfanget det er på det rene at en skade kan kreves dekket av forsikring for tingskade eller annen formuesskade, kan den skadelidte bare gjøre gjeldende sitt erstatningskrav mot den ansvarlige skadevolder dersom skaden er voldt:ved forsett eller grov uaktsomhet av den ansvarlige selv, elleri hans yrke, ervervsvirksomhet eller dermed likestilt virksomhet.
+1\. I det omfanget det er på det rene at en skade kan kreves dekket av forsikring for tingskade eller annen formuesskade, kan den skadelidte bare gjøre gjeldende sitt erstatningskrav mot den ansvarlige skadevolder dersom skaden er voldt:ved forsett eller grov uaktsomhet av den ansvarlige selv, elleri hans yrke, ervervsvirksomhet eller dermed likestilt virksomhet.
 
-2. Dersom skadevolderen har betalt erstatning i større utstrekning enn han plikter etter paragrafen her, kan han kreve det overskytende fra vedkommende forsikringsselskap i det omfang skaden er dekket av forsikringen.
+2\. Dersom skadevolderen har betalt erstatning i større utstrekning enn han plikter etter paragrafen her, kan han kreve det overskytende fra vedkommende forsikringsselskap i det omfang skaden er dekket av forsikringen.
 
 > Tilføyd ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
@@ -250,9 +250,9 @@ I den utstrekning selskapet ved forsikring for tingskade eller annen formuesskad
 
 ### § 4-4. (særregler om utvidet adgang til å gå på skadevolderen og om utvidet regress)
 
-1. Begrensningene i den skadelidtes krav og forsikringsselskapets regress i [§ 4-2](lov/1969-06-13-26/§4-2) jf [§ 4-3](lov/1969-06-13-26/§4-3) gjelder ikke ved:transport-, sjø- og luftfartsforsikring når skaden er voldt i næringsvirksomhetved kredittforsikring og garantiforsikring.
+1\. Begrensningene i den skadelidtes krav og forsikringsselskapets regress i [§ 4-2](lov/1969-06-13-26/§4-2) jf [§ 4-3](lov/1969-06-13-26/§4-3) gjelder ikke ved:transport-, sjø- og luftfartsforsikring når skaden er voldt i næringsvirksomhetved kredittforsikring og garantiforsikring.
 
-2. Ved trafikkforsikring kan forsikringsselskapet kreve regress etter [bilansvarslova §§ 8](lov/1961-02-03/§8), [12](lov/1961-02-03/§12) og [13](lov/1961-02-03/§13) uten hensyn til reglene i § 4-3.
+2\. Ved trafikkforsikring kan forsikringsselskapet kreve regress etter [bilansvarslova §§ 8](lov/1961-02-03/§8), [12](lov/1961-02-03/§12) og [13](lov/1961-02-03/§13) uten hensyn til reglene i § 4-3.
 
 > Tilføyd ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81).
 
@@ -262,11 +262,11 @@ I den utstrekning selskapet ved forsikring for tingskade eller annen formuesskad
 
 ### § 5-1. (den skadelidtes medvirkning)
 
-1. Dersom den direkte skadelidte eller erstatningssøkeren har medvirket til skaden ved egen skyld, kan erstatningen settes ned eller falle bort for så vidt det er rimelig når en tar hensyn til atferden, og dens betydning for at skaden skjedde, omfanget av skaden og forholdene ellers. Dette gjelder likevel ikke dersom skadelidte på skadetiden ikke hadde fylt 10 år.
+1\. Dersom den direkte skadelidte eller erstatningssøkeren har medvirket til skaden ved egen skyld, kan erstatningen settes ned eller falle bort for så vidt det er rimelig når en tar hensyn til atferden, og dens betydning for at skaden skjedde, omfanget av skaden og forholdene ellers. Dette gjelder likevel ikke dersom skadelidte på skadetiden ikke hadde fylt 10 år.
 
-2. Som medvirkning reknes det også når den direkte skadelidte eller erstatningssøkeren har latt være i rimelig utstrekning å fjerne eller minske risikoen for skade eller etter evne å begrense skaden.
+2\. Som medvirkning reknes det også når den direkte skadelidte eller erstatningssøkeren har latt være i rimelig utstrekning å fjerne eller minske risikoen for skade eller etter evne å begrense skaden.
 
-3. Reglene i nr. 1 og 2 gjelder tilsvarende ved medvirkning av andre personer eller forhold som den direkte skadelidte eller erstatningssøkeren i denne sammenheng hefter for.
+3\. Reglene i nr. 1 og 2 gjelder tilsvarende ved medvirkning av andre personer eller forhold som den direkte skadelidte eller erstatningssøkeren i denne sammenheng hefter for.
 
 > Tilføyd ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81), endret ved lov [18 des 1987 nr. 96](lov/1987-12-18-96).
 
@@ -278,9 +278,9 @@ Erstatningsansvaret kan lempes når retten under hensyn til skadens størrelse, 
 
 ### § 5-3. (skade voldt av flere)
 
-1. Flere som plikter å betale erstatning for samme skade, svarer en for alle og alle for en. Det samme gjelder flere som plikter å betale oppreisning for samme skade, krenking eller mislige atferd, dersom ikke retten bestemmer annet.
+1\. Flere som plikter å betale erstatning for samme skade, svarer en for alle og alle for en. Det samme gjelder flere som plikter å betale oppreisning for samme skade, krenking eller mislige atferd, dersom ikke retten bestemmer annet.
 
-2. I hvilken utstrekning den som har betalt erstatning eller oppreising kan gjøre krav gjeldende mot andre ansvarlige, avgjøres under hensyn til ansvarsgrunnlaget og forholdene ellers.
+2\. I hvilken utstrekning den som har betalt erstatning eller oppreising kan gjøre krav gjeldende mot andre ansvarlige, avgjøres under hensyn til ansvarsgrunnlaget og forholdene ellers.
 
 > Tilføyd ved lov [21 juni 1985 nr. 81](lov/1985-06-21-81), endret ved lov [21 juni 2017 nr. 91](lov/2017-06-21-91) (ikr. 1 juli 2017 iflg. [res. 21 juni 2017 nr. 822](forskrift/2017-06-21-822)).
 
@@ -303,6 +303,8 @@ Reglene i loven her gjelder ikke i den utstrekning annet følger av lovgivningen
 ### § 6-1. (ikrafttredelse.)
 
 Loven trer i kraft fra det tidspunkt Kongen bestemmer.1
+
+1 Fra 1 juli 1969 iflg. res. 13 juni 1969.
 
 ### § 6-2. (oppheving og endring av andre lover.)
 

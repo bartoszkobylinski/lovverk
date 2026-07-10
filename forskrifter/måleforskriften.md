@@ -112,7 +112,27 @@ Målinger av mengder produsert petroleum, petroleum som brennes, og gass som sli
 
 (1) Målinger av mengder produsert petroleum skal oppfylle kravene til målestørrelser og usikkerhetsgrenser i tabell 1. For allokeringsmålinger kan rettighetshaver definere andre usikkerhetsgrenser for målestørrelser enn de som er angitt i tabell 1, dersom det kan dokumenteres at oppfyllelse av angitte usikkerhetsgrenser ikke er teknisk mulig eller vil føre til urimelig høye kostnader.
 
+*Tabell 1 (Krav til målinger av mengder produsert petroleum)*
+
+| *Type måling:* | *Målestørrelse* | *Usikkerhetsgrense* |
+| --- | --- | --- |
+| Leverings-måling | Netto mengde (standard volum eller masse) olje i en leveranse eller i en måleperiode på en måned | 0,30 % |
+| Mengde (standard volum, masse eller energi) gass i en måleperiode på en måned | 1,0 % |  |
+| Mengde (masse eller energi) LNG i en leveranse | 0,5 % |  |
+| Allokerings-måling | Netto mengde (standard volum eller masse) olje i en måleperiode på inntil en måned | 0,5 % |
+| Mengde (standard volum eller masse) gass i en måleperiode på inntil en måned | 1,5 % |  |
+
 (2) Målinger av mengder petroleum som brennes, naturgass som slippes til luft og CO2 som utskilles fra petroleum og slippes til luft, skal oppfylle kravene til målestørrelser og usikkerhetsgrenser i tabell 2. Når særlige grunner tilsier det, kan Sokkeldirektoratet etter søknad dispensere fra kravet til usikkerhetsgrense i tabell 2 for faklet petroleum og naturgass sluppet til luft.
+
+*Tabell 2 (Krav til målinger av mengder petroleum som brennes, naturgass som slippes til luft og CO2 som utskilles fra petroleum og slippes til luft)*
+
+| *Type måling:* | *Målestørrelse* | *Usikkerhetsgrense* |
+| --- | --- | --- |
+| CO2-avgiftsmåling | Mengde (standard volum) naturgass brukt som brensel til kraft- og varmeproduksjon i en måleperiode på en måned | 1,5 % |
+| Mengde (volum) diesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon i en måleperiode på en måned | Angis av rettighetshaver |  |
+| Mengde (standard volum) petroleum faklet i en måleperiode på en måned | 7,5 % |  |
+| Mengde (standard volum) naturgass sluppet til luft i en måleperiode på en måned | 7,5 % |  |
+| Mengde (standard volum) CO2 utskilt fra petroleum og sluppet til luft i en måleperiode på en måned | 7,5 % |  |
 
 > Endret ved forskrifter [19 des 2023 nr. 2181](forskrift/2023-12-19-2181) (i kraft 1 jan 2024), [17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -195,6 +215,16 @@ Dersom det påvises vesentlige systematiske feil ved et måleresultat, skal rett
 ### § 20. Målestørrelser og usikkerhetsgrenser
 
 Kjemiske analyser av olje- og gassprøver skal oppfylle kravene til målestørrelser og usikkerhetsgrenser i tabell 3. Oppfyllelse av kravene til usikkerhetsgrenser skal demonstreres i usikkerhetsbudsjetter.
+
+*Tabell 3 (Krav til kjemisk analyse av olje- og gassprøver)*
+
+| *Type analyse:* | *Målestørrelse* | *Usikkerhetsgrense* |
+| --- | --- | --- |
+| Fysiske egenskaper til oljeprøve | Spormengde av vann (masse- eller volumprosent) i en oljeprøve | Angis av rettighetshaver |
+| Densitet (masse pr. standard volum) til en oljeprøve | 1,0 kg/Sm3 |  |
+| Fysiske egenskaper til gassprøve | Molar masse (masse pr. mol) til en gassprøve | 0,20 % |
+| Densitet (masse pr. standard volum) til en gassprøve | 0,3 % |  |
+| Brennverdi (energi pr. standard volum og energi pr. masse) til en gassprøve | 0,3 % |  |
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -360,6 +390,14 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 (2) Oljemåleren skal ved strømningskalibrering på et laboratorium og in situ oppfylle ytelseskravene i tabell 4. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den tilfeldige usikkerheten til målefeil eller en kalibreringsfaktor skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.Lineariteten til en oljemåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil eller den største relative differansen i kalibreringsfaktorer. En kalibreringsfaktor skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.
 
+*Tabell 4 (Krav til en oljemåler ved strømningskalibrering)*
+
+| *Grenseverdi for:* | *Leveringsmåling* | *Allokeringsmåling* |
+| --- | --- | --- |
+| Målefeil | ±0,20 % | ±0,25 % |
+| Tilfeldig usikkerhet i målefeil eller kalibreringsfaktor | 0,027 % | 0,04 % |
+| Linearitet | 0,40 % | 0,50 % |
+
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
 ### § 39. Rørnormal
@@ -367,6 +405,13 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 (1) En rørnormal skal være tilpasset oljemålerne i målesystemet.
 
 (2) Rørnormalen skal ved kalibrering oppfylle ytelseskravene i tabell 5. Rørnormalens basisvolum skal bestemmes som middelverdien av påfølgende enkeltkalibreringer. Størrelsene i tabellen skal bestemmes slik:Repeterbarheten til målingen av rørnormalens basisvolum skal bestemmes som den relative differansen mellom største og minste verdi av tre eller flere påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til rørnormalens basisvolum skal bestemmes ved en statistisk analyse av usikkerheten til middelverdien av tre eller flere påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.
+
+*Tabell 5 (Krav til en rørnormal ved kalibrering)*
+
+| *Grenseverdi for:* |  |
+| --- | --- |
+| Repeterbarhet (tre eller flere påfølgende enkeltkalibreringer) | 0,02 % |
+| Kombinert usikkerhet i basisvolum (verdier på sertifikat) | 0,04 % |
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -376,6 +421,15 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 
 (2) En mastermåler skal ved strømningskalibrering på et laboratorium eller in situ oppfylle ytelseskravene i tabell 6. Kravene gjelder over et strømningsrateområde på minst 10:1 og før justering til kalibreringskurven. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den tilfeldige usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerheten til middelverdien av påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes som den tilfeldige usikkerheten til målefeilen kombinert med usikkerheten til kalibreringsoppsettet.Lineariteten til en mastermåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
 
+*Tabell 6 (Krav til en mastermåler ved strømningskalibrering)*
+
+| *Grenseverdi for:* |  |
+| --- | --- |
+| Målefeil | ±0,20 % |
+| Tilfeldige usikkerhet i målefeil | 0,027 % |
+| Kombinert usikkerhet i målefeil (verdi på sertifikat) | 0,06 % |
+| Linearitet | 0,20 % |
+
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
 ### § 41. Måleinstrumenter tilknyttet oljemålesystemer
@@ -383,6 +437,22 @@ Instrumentelle måleusikkerheter skal samsvare med usikkerhetsgrensene i [§ 10]
 (1) Tilknyttede måleinstrumenter skal, i bruk under nominelle driftsforhold og i fravær av forstyrrelser, oppfylle kravene til største tillatte målefeil i tabell 7.
 
 (2) Ved kalibrering skal tilknyttede måleinstrumenter oppfylle kravene til største tillatte målefeil i tabell 8.
+
+*Tabell 7 (Krav til tilknyttede måleinstrumenter i bruk)*
+
+| *Grenseverdi for målefeil ved måling av:* | *Leverings- og allokeringsmåling* |
+| --- | --- |
+| Temperatur | ±0,30 °C |
+| Trykk | ±50 kPa |
+| Densitet | ±1 kg/m3 |
+
+*Tabell 8 (Krav til tilknyttede måleinstrumenter ved kalibrering)*
+
+| *Grenseverdi for målefeil ved måling av:* | *Leverings- og allokeringsmåling* |
+| --- | --- |
+| Temperatur | ±0,20 °C |
+| Trykk | ±20 kPa |
+| Densitet | ±0,3 kg/m3 |
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -428,6 +498,20 @@ I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligning
 
 (2) Gassmåleren skal ved strømningskalibrering på et laboratorium oppfylle ytelseskravene i tabell 9. Kravene gjelder kalibreringer ved strømningsrater som er innenfor det spesifiserte strømningsrateområdet for måleren og før justering til kalibreringskurven. Overgangsstrømningsraten (strømningsraten gjennom en måler der ytelseskrav kan endres) skal ikke overstige 20 % av maksimum strømningsrate. Størrelsene i tabellen skal bestemmes slik:En målefeil skal, ved hver strømningsrate, bestemmes som middelverdien av påfølgende enkeltkalibreringer.Den kombinerte usikkerheten til en målefeil skal, ved hver strømningsrate, bestemmes ved en statistisk analyse av usikkerhet i middelverdien av påfølgende enkeltkalibreringer kombinert med usikkerheten til kalibreringsoppsettet.Lineariteten til en gassmåler skal bestemmes over strømningsrateområdet ved den største differansen i målefeil.
 
+*Tabell 9 (Krav til en gassmåler ved strømningskalibrering)*
+
+| *Grenseverdi for:* | *Leverings-måling* | *Allokerings-måling* | *CO2-avgifts-måling (brenselgass)* |
+| --- | --- | --- | --- |
+| Målefeil |  |  |  |
+| Strømningsrate ≥ overgangsstrømningsrate | ±1,0 % | ±1,5 % | ±1,5 % |
+| Strømningsrate < overgangsstrømningsrate | ±2,0 % | ±3,0 % | ±3,0 % |
+| Kombinert usikkerhet i målefeil |  |  |  |
+| Strømningsrate ≥ overgangsstrømningsrate | 0,33 % | 0,5 % | 0,5 % |
+| Strømningsrate < overgangsstrømningsrate | 0,67 % | 1,0 % | 1,0 % |
+| Linearitet |  |  |  |
+| Strømningsrate ≥ overgangsstrømningsrate | 1,0 % | 1,0 % | 1,0 % |
+| Strømningsrate < overgangsstrømningsrate | 2,0 % | 2,0 % | 2,0 % |
+
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
 ### § 47. Måleinstrumenter tilknyttet gassmålesystemer
@@ -435,6 +519,24 @@ I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligning
 (1) Tilknyttede måleinstrumenter skal, i bruk under nominelle driftsforhold og i fravær av forstyrrelser, oppfylle kravene til største tillatte målefeil i tabell 10.
 
 (2) Ved kalibrering skal tilknyttede måleinstrumenter oppfylle kravene til største tillatte målefeil i tabell 11.
+
+*Tabell 10 (Krav til tilknyttede måleinstrumenter i bruk)*
+
+| *Grenseverdi for målefeil ved måling av:* | *Leverings- og allokeringsmåling* | *CO2-avgiftsmåling* |
+| --- | --- | --- |
+| Temperatur | ±0,3 °C | ±0,5 °C |
+| Trykk | ±1.5 kPa for trykk ≤ 0,5 MPa<br>±0,3 % for trykk > 0,5 Mpa |  |
+| Differensialtrykk | ±30 Pa for trykk ≤ 10 kPa<br>±0,3 % for trykk > 10 kPa |  |
+| Densitet | ±0,3 % |  |
+
+*Tabell 11 (Krav til tilknyttede måleinstrumenter ved kalibrering)*
+
+| *Grenseverdi for målefeil ved måling av:* | *Leverings- og allokeringsmåling* | *CO2-avgiftsmåling* |
+| --- | --- | --- |
+| Temperatur | ±0,2 °C | ±0,3 °C |
+| Trykk | ±0.5 kPa for trykk ≤ 0,5 Mpa<br>±0,1 % for trykk > 0,5 Mpa |  |
+| Differensialtrykk | ±10 Pa for trykk ≤ 10 kPa<br>±0,1 % for trykk > 10 kPa |  |
+| Densitet | ±0,2 % |  |
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 
@@ -445,6 +547,13 @@ I målesystemet skal det benyttes standardiserte og egnede algoritmer og ligning
 (2) Det skal legges til rette for regelmessige verifiseringer og kalibreringer av gasskromatografen mot en sertifisert kalibreringsgass.
 
 (3) Det skal legges til rette for å overvåke langtidstendenser til gasskromatografens responsfaktorer og retensjonstider.
+
+*Tabell 12 (Krav til en direktekoplet gasskromatograf ved verifisering og kalibrering)*
+
+| *Grenseverdi for usikkerhet i beregnet:* |  |
+| --- | --- |
+| Molar masse (masse pr. mol) | 0,20 % |
+| Brennverdi (energi pr. masse og energi pr. standard volum) | 0,30 % |
 
 > Endret ved [forskrift 17 des 2024 nr. 3200](forskrift/2024-12-17-3200) (i kraft 1 jan 2025).
 

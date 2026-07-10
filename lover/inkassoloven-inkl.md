@@ -86,6 +86,8 @@ Kongen kan gi utfyllende forskrifter om vilkårene for tildeling av inkassobevil
 
 > Endret ved lover [16 mars 2001 nr. 8](lov/2001-03-16-8) (ikr. 1 jan 2002 iflg. [res. 16 mars 2001 nr. 1493](forskrift/2001-03-16-1493)), [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), [17 juni 2005 nr. 83](lov/2005-06-17-83) (ikr. 1 jan 2006 iflg. [res. 17. juni 2005 nr. 624](forskrift/2005-06-17-624)), [19 sep 2008 nr. 76](lov/2008-09-19-76) (ikr. 1 okt 2008 iflg. [res. 19 sep 2008 nr. 1036](forskrift/2008-09-19-1036)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [19 juni 2009 nr. 103](lov/2009-06-19-103) (ikr. 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672)), [24 juni 2011 nr. 33](lov/2011-06-24-33) (ikr. 1 juli 2011 iflg. [res. 24 juni 2011 nr. 647](forskrift/2011-06-24-647)). [21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 jan 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)), [9 mai 2014 nr. 16](lov/2014-05-09-16) (ikr. 9 mai 2014 iflg. [res. 9 mai 2014 nr. 625](forskrift/2014-05-09-625)), [11 des 2015 nr. 98](lov/2015-12-11-98) (ikr. 1 jan 2016 iflg. [res. 11 des 2015 nr. 1438](forskrift/2015-12-11-1438)), [21 juni 2019 nr. 50](lov/2019-06-21-50) (ikr. 1 juli 2019 iflg. [res. 21 juni 2019 nr. 779](forskrift/2019-06-21-779)).
 
+1 Jf. [EØS-avtalen art. 31](lov/1992-11-27-109/eøsl/a31)–[39](lov/1992-11-27-109/eøsl/a39).
+
 ### § 6. Plikter for innehavere av inkassobevilling og for advokater
 
 Innehaver av inkassobevilling skal påse at vilkårene i [§ 5](lov/1988-05-13-26/§5) er oppfylt når det utøves inkassovirksomhet i medhold av bevilling. Bevillingshavere skal også påse at inkassovirksomheten utøves som bestemt i [§§ 8](lov/1988-05-13-26/§8) til [12](lov/1988-05-13-26/§12), at eventuelle pålegg etter [§ 30](lov/1988-05-13-26/§30) tredje ledd blir fulgt, og at virksomheten også ellers skjer på lovlig måte.
@@ -294,6 +296,8 @@ Finanstilsynet kan nedlegge forbud mot inkassovirksomheten dersom ett eller fler
 
 > Endret ved lover [11 juni 1993 nr. 83](lov/1993-06-11-83), [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), tidligere § 24, [17 juni 2005 nr. 83](lov/2005-06-17-83) (ikr. 1 jan 2006 iflg. [res. 17. juni 2005 nr. 624](forskrift/2005-06-17-624)), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)), [22 juni 2012 nr. 35](lov/2012-06-22-35) (ikr. 1 juli 2012 iflg. [res. 22 juni 2012 nr. 566](forskrift/2012-06-22-566)).
 
+1 Inkurie: Loven heter [lov om tilsynet med finansforetak mv. (finanstilsynsloven)](lov/1956-12-07-1).
+
 ### § 30 a. Klagebehandling av vedtak etter loven
 
 Departementet kan gi forskrift om at en klagenemnd skal avgjøre klager på Finanstilsynets vedtak etter denne loven.
@@ -329,6 +333,8 @@ Den som uaktsomt overtrer første ledd, straffes med bøter.
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
 > Endret ved lov [20 des 2002 nr. 106](lov/2002-12-20-106) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1616](forskrift/2002-12-20-1616)), tidligere § 27.
+
+1 Fra 1 okt 1989 iflg. [res. 14 juli 1989 nr. 553](forskrift/1989-07-14-553).
 
 ### § 34. Overgangsbestemmelser
 

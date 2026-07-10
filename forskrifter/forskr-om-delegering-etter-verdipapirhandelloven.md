@@ -26,6 +26,8 @@ Kongens myndighet etter følgende paragrafer i [lov om endringer i lov 14. juni 
 
 ## I
 
+§ 5B første ledd om nærmere regler om tilbudsplikt etter § 5A.
+
 ## II
 
 Myndighet til å sette loven i kraft.

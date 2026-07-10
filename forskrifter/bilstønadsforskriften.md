@@ -110,6 +110,16 @@ Det gis stønad til kjøp av kjøretøy til medlemmer som har en alminnelig innt
 
 Tilskuddet til gruppe 1 beregnes i prosent av tilskuddsrammen jf. [§ 6](forskrift/2003-03-07-290/§6). For gruppe 2 ytes behovsprøvet rente- og avdragsfritt lån opptil et beløp som fastsettes av Arbeids- og inkluderingsdepartementet jf. [§ 6](forskrift/2003-03-07-290/§6). Den delen av prisen på kjøretøyet som overstiger dette beløpet, behovsprøves ikke. Stønaden beregnes i prosent etter følgende tabell:
 
+| *Inntekter mellom* | *Lån/Tilskudd i prosent* |
+| --- | --- |
+| 0 – 3 G | 100 |
+| 3 – 3 1/2 G | 80 |
+| 3 1/2 – 4 G | 70 |
+| 4 – 4 1/2 G | 60 |
+| 4 1/2 – 5 G | 50 |
+| 5 – 5 1/2 G | 40 |
+| 5 1/2 – 6 G | 20 |
+
 Ved beregning av stønad til tidligere trygdefinansiert kjøretøy i gruppe 2 skal egenandelen reduseres forholdsmessig ut fra kjøretøyets resterende brukstid.
 
 Det gjøres et fradrag i inntekten med 1/4 G per person dersom medlemmet forsørger ektefelle og/eller barn under 18 år. Som selvforsørget anses den som har en alminnelig inntekt før særfradrag på 1 G eller mer.

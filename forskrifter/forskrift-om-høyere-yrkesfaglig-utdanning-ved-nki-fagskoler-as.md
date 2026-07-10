@@ -344,7 +344,16 @@ All vurdering baseres på læringsutbyttebeskrivelsene slik de er fastsatt i utd
 
 (1) Eksamenskarakterene vil bli offentliggjort senest 3 uker etter avholdt eksamen.
 
-(2) Ved eksamen, prøve, bedømmelse av oppgave, eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller fra en gradert skala fra A til F, jamfør [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40). Laveste karakter som godkjennes for bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:AFremragendeFremragende presentasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områder.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Ved eksamen, prøve, bedømmelse av oppgave, eller annen vurdering skal karakterene enten være Bestått/Ikke bestått eller fra en gradert skala fra A til F, jamfør [fagskoleforskriften § 40](forskrift/2019-07-11-1005/§40). Laveste karakter som godkjennes for bestått eksamen er E. Vurderingsuttrykkene som benyttes for den graderte skalaen er:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende presentasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god vurderingsevne og selvstendighet på de viktigste områder. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (3) Et emne som vurderes etter karakterskalaen bestått/ikke bestått, bedømmes som bestått dersom kandidatens prestasjon minst tilsvarer karakteren D.
 

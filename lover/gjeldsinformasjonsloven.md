@@ -186,6 +186,8 @@ Departementet kan i forskrift gi nærmere regler om forholdet til [personopplysn
 
 Loven gjelder fra den tid1 Kongen bestemmer.
 
+1 Fra 1 nov 2017 iflg. [res. 16 juni 2017 nr. 766](forskrift/2017-06-16-766).
+
 ### § 21. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

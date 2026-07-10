@@ -196,7 +196,11 @@ Grensen på tre forsøk på å bestå institusjonell utdanning er en øvre grens
 
 ### Til § 11
 
+*Til [§ 11](forskrift/2008-12-19-1574/§11) (1)*
+
 Oppmeldingsskjema finnes på Luftfartstilsynets internettsider.
+
+*Til [§ 11](forskrift/2008-12-19-1574/§11) (2)*
 
 Det kan gis inntil tre forsøk til å bestå teorieksamen og inntil tre forsøk til å bestå den praktiske prøven.
 

@@ -32,11 +32,15 @@ Departementet bestemmer hvor mange avdelinger og kontorer Prisdirektoratet til e
 
 Prisdirektoratets sjef er prisdirektøren. Hver av avdelingene ledes av en avdelingsdirektør og hvert kontor av en kontorsjef.
 
+1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
+
 ### § 2. Ansettelse av tjenestemenn.
 
 Prisdirektøren og avdelingsdirektørene beskikkes av Kongen. Lønns- og prisdepartementet1 kan foreta konstitusjon i stillingene ved midlertidig ledighet eller fravær. Ansettelser av tjenestemenn ellers skjer i samsvar med særskilt fastsatt reglement for ansettelser i Prisdirektoratet.
 
 Stillingene går inn under lov av 15. februar 1918 om offentlig tjenestemenn.
+
+1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
 
 ### § 3. Samarbeidsutvalg.
 
@@ -84,6 +88,8 @@ Dersom det finnes påkrevet med omfattende prisinngrep, skal Prisdirektoratet le
 
 Prisdirektoratet skal ellers forberede og forestå gjennomføringen av prisreguleringstiltak som Kongen eller Lønns- og prisdepartementet1 treffer bestemmelse om.
 
+1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
+
 ### § 12. Offentliggjøring av undersøkelser.
 
 I den utstrekning allmenne hensyn tilsier det, bør resultatet av pris- og kostnadsundersøkelser, jfr. [§ 5](forskrift/1964-03-06-8647/§5), og resultatet av undersøkelser vedrørende karteller og storbedrifter, bestemte former for konkurransereguleringer og mislige former for konkurranse, jfr. §§ 6-9, offentliggjøres i saker som egner seg for det.
@@ -113,6 +119,8 @@ Bestemmelsene i denne paragraf gjelder tilsvarende for den som fungerer for en t
 Lønns- og prisdepartementet1 kan gi nærmere bestemmelser om Prisdirektoratets organisasjon og virksomhet, herunder om forholdet til departementet.
 
 Til utfylling og gjennomføring av resolusjonen og de bestemmelser som departementet måtte gi, fastsetter prisdirektøren nærmere bestemmelser, herunder bestemmelser om stedfortreder for prisdirektøren, bestemmelser om saksfordelingen mellom avdelingene og kontorene, bestemmelser om samvirket mellom kontorene, bestemmelser om særoppdrag for bestemte tjenestemenn utenom kontororganisasjonen, bestemmelser om post- og arkivordningen og bestemmelser om kasseforretninger og regnskapsførsel.
+
+1 Arbeids- og administrasjonsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
 
 ### § 17. Ikrafttreden.
 

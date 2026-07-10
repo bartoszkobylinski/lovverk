@@ -31,3 +31,5 @@ For purkeringer kan det innvilges konsesjon for maksimalt 450 avlspurker i navet
 Ved tildelt konsesjon fastsettes grensen for maksimal utrangering av avlspurker tilsvarende forholdet mellom maksimalt antall avlspurker og utrangerte avlspurker innenfor de ulike produksjonstypene som nevnt i første ledd nr. 5, 6 og 7 og i andre ledd.
 
 > Endret ved [forskrifter 26 mars 2004 nr. 573](forskrift/2004-03-26-573) (i kraft 1 april 2004), [26 april 2013 nr. 420](forskrift/2013-04-26-420), [12 des 2014 nr. 1598](forskrift/2014-12-12-1598) (i kraft 1 jan 2015), [7 feb 2020 nr. 121](forskrift/2020-02-07-121).
+
+[§ 2](forskrift/2003-04-11-461/§2) – § 11 opphevet fra 1 april 2004, jf. [forskrift 1 april 2004 nr. 611](forskrift/2004-04-01-611).

@@ -70,11 +70,26 @@ Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som 
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt elektrisitetsmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C |
+
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
 ### § 8. Mekanisk miljø
 
-Det mekaniske miljø klassifiseres i følgende klasser:*Tabell 2*M1Denne klassen omfatter elektrisitetsmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. elektrisitetsmålere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv.M2Denne klassen omfatter elektrisitetsmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at elektrisitetsmåleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv.M3Denne klassen omfatter elektrisitetsmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel elektrisitetsmålere montert direkte på maskiner, transportbånd osv.
+Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. elektrisitetsmålere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at elektrisitetsmåleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel elektrisitetsmålere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:vibrasjonmekanisk sjokk.
 
@@ -82,7 +97,15 @@ Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det 
 
 ### § 9. Elektromagnetisk miljø
 
-Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske miljø i følgende klasser:*Tabell 3*E1Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.E2Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.E3Denne klassen omfatter elektrisitetsmålere som får strøm fra batteriet i et kjøretøy. Slike elektrisitetsmålere skal oppfylle kravene for E2 samt tilleggskrav til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme.
+Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske miljø i følgende klasser:
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter elektrisitetsmålere som får strøm fra batteriet i et kjøretøy. Slike elektrisitetsmålere skal oppfylle kravene for E2 samt tilleggskrav til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -186,7 +209,19 @@ En elektrisitetsmåler skal være konstruert slik at det lett kan vurderes om de
 
 ### § 24. Definisjoner
 
-I=den elektriske strømmen gjennom målerenIn=den angitte referansestrømmen som den transformatordrevne måleren er konstruert forIst=den laveste angitte verdi av I der måleren registrerer aktiv elektrisk energi ved effektfaktor 1 (flerfasemålere med symmetrisk belastning)Imin=den verdi av I der målerens feil ligger innenfor angitte tolerangrenser (flerfasemålere med symmetrisk belastning)Itr=den verdi av I der målerens feil skal ligge innefor minste toleransegrenser tilsvarende klassens betegnelseImax=største verdi av I der målerens feil ligger innenfor angitte toleransegrenserU=tilført elektrisk spenning til målerenUn=angitt referansespenning*f*=frekvensen av den spenningen som tilføres til måleren*fn*=angitt referansefrekvensPF=effektfaktor = cosφ = cosinus til fasedifferansen φ mellom I og U.
+|  |  |  |
+| --- | --- | --- |
+| I | = | den elektriske strømmen gjennom måleren |
+| In | = | den angitte referansestrømmen som den transformatordrevne måleren er konstruert for |
+| Ist | = | den laveste angitte verdi av I der måleren registrerer aktiv elektrisk energi ved effektfaktor 1 (flerfasemålere med symmetrisk belastning) |
+| Imin | = | den verdi av I der målerens feil ligger innenfor angitte tolerangrenser (flerfasemålere med symmetrisk belastning) |
+| Itr | = | den verdi av I der målerens feil skal ligge innefor minste toleransegrenser tilsvarende klassens betegnelse |
+| Imax | = | største verdi av I der målerens feil ligger innenfor angitte toleransegrenser |
+| U | = | tilført elektrisk spenning til måleren |
+| Un | = | angitt referansespenning |
+| *f* | = | frekvensen av den spenningen som tilføres til måleren |
+| *fn* | = | angitt referansefrekvens |
+| PF | = | effektfaktor = cosφ = cosinus til fasedifferansen φ mellom I og U. |
 
 ### § 25. Nøyaktighet
 
@@ -194,27 +229,63 @@ Elektrisitetsmålere skal ha klasseindeksene A, B eller C. Produsenten skal angi
 
 ### § 26. Bruksområder for elektrisitetsmålere
 
+*Tabell 4*
+
+|  |  |
+| --- | --- |
+| Målerklasse A<br>i temperaturområde + 5 °C ... + 30 °C | Benyttes for målere for innendørs installasjon for bruk i husholdninger, herunder utleieformål, private hybler og hybelhus. |
+| Målerklasse B<br>i temperaturområde – 25 °C ... + 55 °C | Benyttes for målere for utendørs installasjon for bruk i husholdninger, herunder hytte/fritidseiendom. |
+| Målerklasse B<br>i temperaturområde + 5 °C ... + 30 °C | Benyttes for<br>– ikke-transformatorkoblede målere for innendørs installasjon for bruk i næringsvirksomhet/lett industri, herunder fellesmålere i butikksentre<br>– direktekoblede målere for bruk til belysning /oppvarming av offentlig vei |
+| Målerklasse C med valgfritt i temperaturområde | Kan benyttes for alle bruksområder. Må benyttes for<br>– transformatorkoblede målere for bruk i næringsvirksomhet/lett industri, herunder fellesmålere i butikksentre<br>– fellesmålere i borettslag med etterfølgende målere i serie<br>– transformatorkoblede målere for belysning /oppvarming av offentlig vei |
+
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
 ### § 27. Angitte driftsbetingelser
 
 Produsenten skal angi angitte driftsbetingelser for måleren, særlig verdiene av *f*n, Un, In, Ist, Imin, Itr og Imax som gjelder for måleren. For de angitte strømverdier skal måleren oppfylle vilkårene gitt i tabell 5:
 
-Spennings-, frekvens- og effektfaktorområdene innenfor hvilke måleren skal oppfylle krav til maksimal tillatte målefeil, er angitt i tredje og fjerde ledd. Disse områdene skal ta hensyn til de typiske egenskapene ved strømmen som leveres gjennom offentlige distribusjonssystemer.Spennings- og frekvensområde skal være minst:0,9 · Un ≤ U ≤ 1,1 *· Un*0,98 · fn ≤ f ≤ 1,02 · fn
+*Tabell 5*
+
+|  | *Klasse A* | *Klasse B* | *Klasse C* |
+| --- | --- | --- | --- |
+| For direktekoplede målere |  |  |  |
+| Ist | ≤ 0,05 · Itr | ≤ 0,04 · Itr | ≤ 0,04 · Itr |
+| Imin | ≤ 0,5 · Itr | ≤ 0,5 · Itr | ≤ 0,3 · Itr |
+| Imax | ≥ 50 · Itr | ≥ 50 · Itr | ≥ 50 · Itr |
+| For transformatorkoblede målere |  |  |  |
+| Ist | ≤ 0,06 · Itr | ≤ 0,04 · Itr | ≤ 0,02 · Itr |
+| Imin | ≤ 0,4 · Itr | ≤ 0,2 · Itr 1 | ≤ 0,2 · Itr |
+| In | = 20 · Itr | = 20 · Itr | = 20 · Itr |
+| Imax | ≥ 1,2 · In | ≥ 1,2 · In | ≥ 1,2 · In |
+
+1 For elektromekaniske målere i klasse B gjelder Imin ≤ 0,4 · Itr .
+
+Spennings-, frekvens- og effektfaktorområdene innenfor hvilke måleren skal oppfylle krav til maksimal tillatte målefeil, er angitt i tredje og fjerde ledd. Disse områdene skal ta hensyn til de typiske egenskapene ved strømmen som leveres gjennom offentlige distribusjonssystemer.
+
+|  |  |  |
+| --- | --- | --- |
+|  | Spennings- og frekvensområde skal være minst: | 0,9 · Un ≤ U ≤ 1,1 *· Un* |
+|  |  | 0,98 · fn ≤ f ≤ 1,02 · fn |
 
 Effektfaktorområdet er minst fra cosφ = 0,5 induktiv til cosφ = 0,8 kapasitiv.
 
 ### § 28. Maksimal tillatt målefeil
 
-Påvirkningen av de forskjellige målestørrelser og påvirkende størrelser (x1, x2, x3 ...) vurderes hver for seg, alle andre målestørrelser og påvirkende størrelser holdes konstant på sine referanseverdier. Målefeilen, som ikke skal overstige maksimal tillatte målefeil angitt i tabell 6, beregnes som målefeil \(= \sqrt{(x_1^2 + x_2^2 + \text{...} + x_n^2)}\).
+Påvirkningen av de forskjellige målestørrelser og påvirkende størrelser (x1, x2, x3 ...) vurderes hver for seg, alle andre målestørrelser og påvirkende størrelser holdes konstant på sine referanseverdier. Målefeilen, som ikke skal overstige maksimal tillatte målefeil angitt i tabell 6, beregnes som målefeil \\(= \\sqrt{(x_1^2 + x_2^2 + \\text{...} + x_n^2)}\\).
 
-Dersom måleren arbeider under varierende strømbelastninger, skal prosentvise feil ikke overstige grensene gitt i tabell 6.*Maksimal tillatt målefeil i prosent ved angitte driftsbetingelser og definerte strømbelastningsnivåer og driftstemperaturer*DriftstemperaturerDriftstemperaturerDriftstemperaturerDriftstemperaturer+ 5 °C ... + 30 °C- 10 °C ... + 5 °C
-eller
-+ 30 °C ... + 40 °C- 25 °C ... – 10 °C
-eller
-+ 40 °C ... + 55 °C- 40 °C ... – 25 °C
-eller
-+ 55 °C ... + 70 °C*A**B**C**A**B**C**A**B**C**A**B**C*Enfasemåler og flerfasemåler ved drift med symmetrisk belastningImin ≤ I < Itr3,52152,51,373,51,7942Itr ≤ I ≤ Imax3,520,74,52,5173,51,3941,5Flerfasemåler ved drift med enfasebelastningItr ≤ I ≤ Imax42,51531,3741,794,52For elektromekaniske flerfasemålere er strømintervallet for enfasebelastning begrenset til 5Itr ≤ I ≤ Imax.
+Dersom måleren arbeider under varierende strømbelastninger, skal prosentvise feil ikke overstige grensene gitt i tabell 6.
+
+| *Maksimal tillatt målefeil i prosent ved angitte driftsbetingelser og definerte strømbelastningsnivåer og driftstemperaturer* |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Driftstemperaturer |  |  | Driftstemperaturer |  |  | Driftstemperaturer |  |  | Driftstemperaturer |  |  |
+|  | + 5 °C ... + 30 °C |  |  | - 10 °C ... + 5 °C<br>eller<br>+ 30 °C ... + 40 °C |  |  | - 25 °C ... – 10 °C<br>eller<br>+ 40 °C ... + 55 °C |  |  | - 40 °C ... – 25 °C<br>eller<br>+ 55 °C ... + 70 °C |  |  |
+|  | *A* | *B* | *C* | *A* | *B* | *C* | *A* | *B* | *C* | *A* | *B* | *C* |
+| Enfasemåler og flerfasemåler ved drift med symmetrisk belastning |  |  |  |  |  |  |  |  |  |  |  |  |
+| Imin ≤ I < Itr | 3,5 | 2 | 1 | 5 | 2,5 | 1,3 | 7 | 3,5 | 1,7 | 9 | 4 | 2 |
+| Itr ≤ I ≤ Imax | 3,5 | 2 | 0,7 | 4,5 | 2,5 | 1 | 7 | 3,5 | 1,3 | 9 | 4 | 1,5 |
+| Flerfasemåler ved drift med enfasebelastning |  |  |  |  |  |  |  |  |  |  |  |  |
+| Itr ≤ I ≤ Imax | 4 | 2,5 | 1 | 5 | 3 | 1,3 | 7 | 4 | 1,7 | 9 | 4,5 | 2 |
+| For elektromekaniske flerfasemålere er strømintervallet for enfasebelastning begrenset til 5Itr ≤ I ≤ Imax. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Dersom en måler arbeider ved forskjellige temperaturområder, gjelder de relevante verdier for maksimal tillatt målefeil.
 
@@ -233,6 +304,20 @@ Dersom det er en forutsigbar høy risiko på grunn av lyn, eller dersom forsynin
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
 ### § 30. Påvirkning av forstyrrelser av lang varighet
+
+*Tabell 7*
+
+|  | *Kritiske endringer i prosent for målere i klasse* |  |  |
+| --- | --- | --- | --- |
+|  | *A* | *B* | *C* |
+| omvendt faserekkefølge | 1,5 | 1,5 | 0,3 |
+| usymmetrisk spenning (gjelder bare flerfasemålere) | 4 | 2 | 1 |
+| innhold av overharmoniske komponenter i strømmen1 | 1 | 0,8 | 0,5 |
+| innhold av likestrøm og overharmoniske komponenter i strømmen1 | 6 | 3 | 1,5 |
+| raske strømtransienter | 6 | 4 | 2 |
+| magnetiske felt: ledningsbundet og radiobåren elektromagnetisk påvirkning, høyfrekvente elektromagnetiske felt (innstrålt RF) og ledningsbårne forstyrrelser oppstått pga. RF-felt | 3 | 2 | 1 |
+
+1 For elektromekaniske elektrisitetsmålere er det ikke definert kritiske endringsverdier for overharmoniske komponenter i strømmen og for likestrøm og overharmoniske komponenter i strømmen.
 
 > Endret ved forskrift [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -286,7 +371,27 @@ For elektrisitetsmålere med MID samsvarsvurdering gjelder tilsvarende maksimal 
 
 Elektrisitetsmålere som er samsvarsvurdert i henhold til [forskrift 25. juli 2002 nr. 972](forskrift/2002-07-25-972) om krav til elektrisitetsmålere som selges, heretter kalt nasjonal samsvarsvurdering skal benyttes med nøyaktighetsnivå 1 i miljøklasse «utendørs» og nøyaktighetsnivå 1 eller 2 i miljøklasse «innendørs».
 
-For elektrisitetsmålere med nasjonal samsvarsvurdering gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 8 og 9.*Tabell 8**Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning**Strømverdi**PF cos(φ)**Maksimal tillatte målefeil i %**Nøyaktighetsnivå 1**Nøyaktighetsnivå 2*Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks.11,532Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks.≠ 11,53Imin ≤ I ≤ Itr eller 0,05Ib < I < 0,1Ib12,253,752Imin ≤ I ≤ 2Itr eller 0,1Ib < I < 0,2Ib≠ 12,253,75 *Tabell 9**Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning**Strømverdi**PF cos(φ)**Maksimal tillatte målefeil i %**Nøyaktighetsnivå* 1*Nøyaktighetsnivå 2*Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks.134,52Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks.≠ 134,5
+For elektrisitetsmålere med nasjonal samsvarsvurdering gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 8 og 9.
+
+*Tabell 8*
+
+| *Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning* |  |  |  |
+| --- | --- | --- | --- |
+| *Strømverdi* | *PF cos(φ)* | *Maksimal tillatte målefeil i %* |  |
+|  |  | *Nøyaktighetsnivå 1* | *Nøyaktighetsnivå 2* |
+| Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks. | 1 | 1,5 | 3 |
+| 2Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks. | ≠ 1 | 1,5 | 3 |
+| Imin ≤ I ≤ Itr eller 0,05Ib < I < 0,1Ib | 1 | 2,25 | 3,75 |
+| 2Imin ≤ I ≤ 2Itr eller 0,1Ib < I < 0,2Ib | ≠ 1 | 2,25 | 3,75 |
+
+*Tabell 9*
+
+| *Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning* |  |  |  |
+| --- | --- | --- | --- |
+| *Strømverdi* | *PF cos(φ)* | *Maksimal tillatte målefeil i %* |  |
+|  |  | *Nøyaktighetsnivå* 1 | *Nøyaktighetsnivå 2* |
+| Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks. | 1 | 3 | 4,5 |
+| 2Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks. | ≠ 1 | 3 | 4,5 |
 
 > Endret ved forskrifter [20 des 2017 nr. 2295](forskrift/2017-12-20-2295) (i kraft 1 jan 2018), [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -294,7 +399,24 @@ For elektrisitetsmålere med nasjonal samsvarsvurdering gjelder maksimal tillatt
 
 Elektrisitetsmålere som er solgt før 1. januar 2003 og elektrisitetsmålere som måler strømleveranse til elektriske kjøretøy og er solgt før 1. januar 2025, kan brukes uten at det foreligger samsvarsvurdering.
 
-For elektrisitetsmålere som ikke har samsvarsvurdering, gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 10 og 11. Dersom slike målere ikke har spesifisert en nøyaktighetsklasse, skal de ha maksimalt 3,5 % målefeil.*Tabell 10**Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning**Strømverdi**PF/cos(φ)**Maksimal tillatt målefeil i %**For direkte koblet**For transformator koblet**1**Klasse 0,*5*Klasse 1**Klasse 2*0,1 Ib ≤ I < Imax0,1 In ≤ I < Imax1± 1± 2± 3,5IbIn0,5 induktive± 1,6± 2± 3,5 *Tabell 11**Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning**Strømverdi**PF/cos(φ)**Maksimal tillatt målefeil i %**For direkte koblet**For transformator koblet**1**Klasse 0,*5*Klasse 1**Klasse 2*0,1 Ib ≤ I < Imax0,1 In ≤ I < Imax1± 2,5± 3± 4,5
+For elektrisitetsmålere som ikke har samsvarsvurdering, gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 10 og 11. Dersom slike målere ikke har spesifisert en nøyaktighetsklasse, skal de ha maksimalt 3,5 % målefeil.
+
+*Tabell 10*
+
+| *Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Strømverdi* |  | *PF/cos(φ)* | *Maksimal tillatt målefeil i %* |  |  |
+| *For direkte koblet* | *For transformator koblet* | *1* | *Klasse 0,*5 | *Klasse 1* | *Klasse 2* |
+| 0,1 Ib ≤ I < Imax | 0,1 In ≤ I < Imax | 1 | ± 1 | ± 2 | ± 3,5 |
+| Ib | In | 0,5 induktive | ± 1,6 | ± 2 | ± 3,5 |
+
+*Tabell 11*
+
+| *Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning* |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| *Strømverdi* |  | *PF/cos(φ)* | *Maksimal tillatt målefeil i %* |  |  |
+| *For direkte koblet* | *For transformator koblet* | *1* | *Klasse 0,*5 | *Klasse 1* | *Klasse 2* |
+| 0,1 Ib ≤ I < Imax | 0,1 In ≤ I < Imax | 1 | ± 2,5 | ± 3 | ± 4,5 |
 
 > Endret ved forskrifter [20 des 2017 nr. 2295](forskrift/2017-12-20-2295) (i kraft 1 jan 2018), [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023).
 
@@ -372,6 +494,14 @@ Testprogrammet består av testpunktene i tabell 12. For 3-fasemålere skal det i
 
 Dersom dette alternativet følges, skal testgruppen deles i to like deler, der den ene delen skal kontrolleres i samsvar med kontrollopplegget angitt i [§ 46](forskrift/2007-12-28-1753/§46). Den andre halvparten skal kontrolleres i felt, der det minimum skal utføres følgende tester av nøyaktighetskrav/strømavhengighet ved anleggets cos(φ):
 
+*Tabell 13*
+
+| *Måler med MID samsvarsvurdering* | *Måler som ikke har MID samsvarsvurdering* |
+| --- | --- |
+| ca. Itr | ca. 10 % av Ib |
+| ca. 10 x Itr | ca. Ib |
+| Minimum 0,6 x Imax | Minimum 0,6 x Imax |
+
 > Endret ved [forskrift 20 des 2017 nr. 2295](forskrift/2017-12-20-2295) (i kraft 1 jan 2018, tidligere § 43 (delvis)).
 
 ### § 48. Periodisk totalkontroll
@@ -392,7 +522,28 @@ Produksjonsåret for alle målere i en gruppe må være innenfor en periode på 
 
 Dersom en gruppe består av mellom 18 og 64 målere skal utplukket gjøres i henhold til tabell 14. For slike små grupper foretas bare enkelt utplukk, og gruppen kan bare godkjennes dersom alle målerne i utplukket oppfyller nøyaktighetskravene i [kapittel 3](forskrift/2007-12-28-1753/kap3).
 
+*Tabell 14*
+
+| *Gruppestørrelse* | *Utplukk* |
+| --- | --- |
+| 18–25 | 17 |
+| 26–50 | 22 |
+| 51–64 | 24 |
+
 Utvelgelse av målere for statistisk kontroll av grupper bestående av 65 målere eller mer, skal gjøres som vist i tabell 15. Hele gruppen godkjennes dersom antall underkjente målere er lik eller mindre enn godkjenningstallet for det aktuelle utplukket. Hele gruppen underkjennes dersom antall underkjente målere er lik eller større enn underkjenningstallet for det aktuelle utplukket.
+
+*Tabell 15*
+
+| *Nr.* | *Gruppe størrelse* | *Utplukk* | *Utplukk størrelse* | *Kumulativ utplukk størrelse* | *Antall underkjente målere*\*\* |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | *Godkjenning* | *Underkjenning* | *Andre utplukk nødvendig*\* |
+| 4.1 | 65 til<br>1 200 | første<br>andre | 32<br>32 | 32<br>64 | 0<br>1 | 2<br>2 | 1 |
+| 4.2 | 1 201 til<br>3 200 | første<br>andre | 50<br>50 | 50<br>100 | 1<br>4 | 4<br>5 | 2 til 3 |
+| 4.3 | 3 201 til<br>10 000 | første<br>andre | 80<br>80 | 80<br>160 | 2<br>6 | 5<br>7 | 3 til 4 |
+| 4.4 | 10 001 til<br>35 000 | første<br>andre | 125<br>125 | 125<br>250 | 5<br>12 | 9<br>13 | 6 til 8 |
+| 4.5 | 35 001 til<br>150 000 | første<br>andre | 200<br>200 | 200<br>400 | 9<br>23 | 14<br>24 | 10 til 13 |
+
+\* Dersom resultatet av testen av gruppen viser et antall underkjente målere i gruppen som svarer til tallene i denne kolonnen, skal et andre utplukk trekkes tilfeldig fra gruppen.\*\* I hver av linjene som representerer andre utplukk, er antallet underkjente målere lik summen av de målere som ble underkjent i første utplukk og de som ble underkjent i andre utplukk.
 
 Et utplukk skal hentes fra en gruppe på en slik måte at det for hver enkelt måler i gruppen er like stor sannsynlighet for å bli plukket ut. Det skal benyttes en tilfeldighetstabell eller et annet verktøy som sikrer et tilfeldig utplukk. Det er ikke tillatt å tilføre flere målere til en gruppe etter at gruppen er godkjent.
 

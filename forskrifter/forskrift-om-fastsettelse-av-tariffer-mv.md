@@ -30,11 +30,19 @@ Innretninger som nevnt i tredje ledd skal omfattes av alle bestemmelsene om opps
 
 Innretningene deles inn i områdene A, B, C, D, E, F, G, H, I, J, K, L, M, N, O og P som følger:
 
+*Område A*
+
 - 30″ rørledning for transport av rikgass mellom Statfjord B-plattformen og terminalen på Kårstø inklusive 16″ Gullfaks satellitt T-forbindelse, 12″ Veslefrikk T-forbindelse, 12″ Johan Sverdrup gassrør T-forbindelse, 12″ Yggdrasil gassrør T-forbindelse og 8″ Brage T-forbindelse. Område A inkluderer kapasitetsrettighet over Statfjord B-plattformen til område F og til 12″ Statfjord UK gassrør.
+
+*Område B*
 
 - 42″ rørledning for transport av rikgass fra Åsgard B-plattformen til terminalen på Kårstø, inklusive U-loop T-forbindelse, Draugen T-forbindelse, Haltenbanken vest T-forbindelse, Njord T-forbindelse og Skarv T-forbindelse.
 
+*Område C*
+
 - Terminalen på Kårstø for prosessering av rikgass, NGL og kondensat, leveranse av NGL og kondensat, samt videresendelse av tørrgass inn i område D, med unntak av K-Lab og propanfyllestasjon.
+
+*Område D*
 
 - 42″ rørledning for transport av tørrgass fra terminalen på Kårstø til innretninger i Tyskland,
 - 28″ rørledning for transport av tørrgass mellom terminalen på Kårstø og Draupner S stigerørsplattform inklusive 4″ Snurrevarden T-forbindelse,
@@ -60,27 +68,51 @@ Innretningene deles inn i områdene A, B, C, D, E, F, G, H, I, J, K, L, M, N, O 
 - 44″ rørledning for transport av tørrgass fra Sleipner stigerørsplattform til terminalen i Easington og
 - Terminalen i Easington.
 
+*Område E*
+
 - Terminalen på Kollsnes for prosessering av rikgass, videresendelse av NGL til Vestprosess og Sture samt videresendelse av tørrgass inn i område D, til Kollsnes Næringspark og til Mongstad.
+
+*Område F*
 
 - 32″ rørledning for transport av rikgass fra Statfjord B-plattformen til FLAGS-rørledningen på britisk sokkel, inklusive 12″ rørledning fra 32″ T til tilkopling på rørledningen mellom Statfjord A-plattformen og Statfjord C-plattformen. Område F inkluderer også kapasitetsrettighet over Statfjord C-plattformen til tilkopling på rørledningen mellom Statfjord A-plattformen og Statfjord C-plattformen.
 
+*Område G*
+
 - 30″ rørledning for transport av rikgass fra Kvitebjørn plattformen til terminalen på Kollsnes inklusive Visund T-forbindelsen og Troll B T-forbindelsen.
+
+*Område H*
 
 - 16″ rørledning for transport av rikgass fra Norne plattformen til knutepunktet mellom område B og rørledningen fra Heidrun-plattformen.
 
+*Område I*
+
 - 28″ rørledning for transport av rikgass fra Gjøa-plattformen til FLAGS-rørledningen på britisk sokkel.
+
+*Område J*
 
 - *Utgått.*
 
+*Område K*
+
 - 16″ rørledning for transport av rikgass fra Heidrun-plattformen til Tjeldbergodden samt mottaksanlegg på Tjeldbergodden.
+
+*Område L*
 
 - 16″ rørledning for transport av rikgass fra Edvard Grieg-plattformen til Beryl-rørledningen på britisk sokkel.
 
+*Område M*
+
 - 12 3/4″ rørledning for transport av NGL fra Kollsnes til Mongstad og 8″ tilknytningsrørledning fra oljeterminalen på Sture.
+
+*Område N*
 
 - Anlegg for stabilisering, fraksjonering, lagring og utskiping av NGL på Mongstad.
 
+*Område O*
+
 - 36″ rørledning for transport av rikgass fra Aasta Hansteen-plattformen til terminalen på Nyhamna inklusiv Dvalin T-forbindelsen.
+
+*Område P*
 
 - Terminalen på Nyhamna for prosessering av rikgass og leveranse av kondensat og tørrgass.
 
@@ -88,13 +120,29 @@ Innretningene deles inn i områdene A, B, C, D, E, F, G, H, I, J, K, L, M, N, O 
 
 ## § 2. Definisjon av innganger, utganger og behandling
 
+*Område A*
+
+*Innganger:*
+
 Alle tilknytningspunkter der naturgass kan leveres inn i rørledningen mellom Statfjord B og terminalen på Kårstø.
+
+*Utganger:*
 
 Ved utløpet av rørledningen fra Statfjord B til Kårstø ved terminalen på Kårstø, ved inngang til område F og ved inngang til 12″ Statfjord UK gassrør.
 
+*Område B*
+
+*Innganger:*
+
 Alle tilknytningspunkter der naturgass kan leveres inn i rørledningen fra Åsgard B for transport til Kårstø.
 
+*Utganger:*
+
 Ved utløpet av rørledningen fra Åsgard B til Kårstø ved terminalen på Kårstø og ut ved tilknytningspunktet til Draugen for import av gass til feltet.
+
+*Område C*
+
+*Behandling:*
 
 - Fjerning av hydrogensulfid
 - Ekstraksjon og videresendelse av tørrgass
@@ -104,46 +152,116 @@ Ved utløpet av rørledningen fra Åsgard B til Kårstø ved terminalen på Kår
 - Utblanding av karbondioksid
 - Fraksjonering, rensing, lagring og utskipning av etan.
 
+*Område D*
+
+*Innganger:*
+
 Alle tilknytningspunkter der naturgass kan leveres inn i de relevante rørledningene ved Sleipner, Kollsnes, Oseberg, Jotun T-forbindelse, Heimdal rørledningskryss, Kårstø, Ekofisk og Nyhamna.
+
+*Utganger:*
 
 Der naturgass kan leveres ut fra terminalene i Zeebrugge, Dunkerque, Emden, Dornum, St. Fergus og Easington, ut ved Snurrevarden, ut ved Europipe II grenrørledning til Danmark og ut ved Heimdal rørledningskryss for transport av naturgass for injeksjon i Grane og ut ved tilknytningspunkter for feltene Mariner og Gina Krog for injeksjon i feltene.
 
+*Område E*
+
+*Behandling*:
+
 Ekstraksjon og videresendelse av NGL og tørrgass.
+
+*Område F*
+
+*Innganger:*
 
 Alle tilknytningspunkter der naturgass kan leveres inn i område F.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Statfjord B til FLAGS.
+
+*Område G*
+
+*Innganger:*
 
 Alle tilknytningspunkter der naturgass kan leveres inn i område G.
 
+*Utgang:*
+
 Ved utløpet av rørledningen ved terminalen på Kollsnes.
+
+*Område H*
+
+*Innganger:*
 
 Alle tilknytningspunkter der naturgass kan leveres inn i område H.
 
+*Utganger:*
+
 Ved knutepunkt mellom område H og område B for leveranse inn til område B og for leveranse inn til rørledningen til Heidrun-plattformen.
+
+*Område I*
+
+*Innganger:*
 
 Alle tilknytningspunkter der naturgass kan leveres inn i område I.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Gjøa-plattformen til FLAGS.
+
+*Område J*
+
+*Utgått.*
+
+*Område K*
+
+*Innganger:*
 
 Alle tilknytningspunkt der naturgass kan leveres inn i område K.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Heidrun-plattformen til Tjeldbergodden.
+
+*Område L*
+
+*Innganger:*
 
 Alle tilknytningspunkter der naturgass kan leveres inn i område L.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Edvard Grieg-plattformen til Beryl-rørledningen på britisk sokkel.
+
+*Område M*
+
+*Innganger:*
 
 Alle tilknytningspunkter der NGL kan leveres inn i område M.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Kollsnes til Mongstad.
+
+*Område N*
+
+*Behandling:*
 
 - Stabilisering,
 - Fraksjonering, lagring og utskipning.
 
+*Område O*
+
+*Innganger:*
+
 Alle tilknytningspunkter der naturgass kan leveres inn i område O.
 
+*Utgang:*
+
 Ved utløpet av rørledningen fra Aasta Hansteen-feltet til terminalen på Nyhamna.
+
+*Område P*
+
+*Behandling:*
 
 - Ekstraksjon og videresendelse av kondensat og tørrgass.
 
@@ -157,7 +275,9 @@ Rett til bruk av kapasitet omfatter det å levere naturgass ved innganger eller 
 
 ## § 4. Tariffer
 
-Tariffene fastsettes med følgende formel ved inngang til og/eller utgang fra områdene A, B, D, F, G, H, I, J, K, L, M, og O og for behandling i område C, E, N og P: $$t=(K+\frac{I}{Q}+U)\cdot E+\frac{O}{Q}$$
+Tariffene fastsettes med følgende formel ved inngang til og/eller utgang fra områdene A, B, D, F, G, H, I, J, K, L, M, og O og for behandling i område C, E, N og P: $$t=(K+\\frac{I}{Q}+U)\\cdot E+\\frac{O}{Q}$$
+
+hvor:
 
 - t = tariff per enhet for rett til bruk av inngang, utgang eller behandling
 - K = fast del av kapitalelement per enhet
@@ -171,20 +291,36 @@ For avbrytbar kapasitet skal tariff være 50 prosent av standard t for de respek
 
 Alle tall i dette kapittelet er i 2002-kroner, med mindre annet er angitt.
 
+*i) Fast del av kapitalelement (K)*
+
+*Område A*
+
 For område A er K 0,55 øre/Sm3 og gjelder ved utgangene av området.
+
+*Unntak:*
 
 - For rett til bruk av utgangene i A som er avtalt før 1. juli 2013, er K 5,5 øre/Sm3.
 
+*Område B*
+
 For område B er K 0,35 øre/Sm3 og gjelder ved utgangene av området.
+
+*Unntak*:
 
 - For rett til bruk av utgangen i B som er avtalt før 1. juli 2013, er K 3,5 øre/Sm3.
 
+*Område C*
+
 For ekstraksjon er K 1,0 øre/Sm3.
+
+*Unntak:*
 
 - For rett til ekstraksjon som er avtalt før 1. juli 2013, er K 10,0 øre/Sm3.
 - For rett til ekstraksjon som er avtalt for Åsgardfeltet før 1. januar 2003, er K 0.
 
 For fraksjonering, lagring og utskipning av NGL er K 30 kroner/tonn.
+
+*Unntak:*
 
 - For rett til fraksjonering, lagring og utskipning som er avtalt før 1. juli 2013, er K 300 kroner/tonn.
 - For rett til fraksjonering, lagring og utskipning som er avtalt for feltene Åsgard, Gullfaks Sør, Draugen, Heidrun og Norne før 1. januar 2003, er K 530 kroner/tonn.
@@ -198,9 +334,13 @@ For fjerning av karbondioksid er K 211,0 kroner/tonn fjernet karbondioksid.
 
 For utblanding av karbondioksid er K 105,5 kroner/tonn utblandet karbondioksid. Innbetalinger som følger av dette elementet skal tilfalle brukere av område C som leverer gass med karbondioksidinnhold lavere enn gjeldende spesifikasjon.
 
+*Område D*
+
 I område D gjelder K ved inngangene til området og ved utgangene av området. Videre gjelder K for utblanding av karbondioksid og utblanding av hydrogensulfid.
 
 Ved inngangene er K 0.
+
+*Unntak:*
 
 - For rett til bruk av innganger til område D som samsvarer med rett til bruk av utganger fra område D som er avtalt før 1. juli 2013 skal K ved inngangen være:
 - Ved Kollsnes 1,93 øre/Sm3.
@@ -209,6 +349,8 @@ Ved inngangene er K 0.
 - Ved øvrige 0,43 øre/Sm3.
 
 Ved utgangene er K 0,71 øre/Sm3.
+
+*Unntak:*
 
 - For rett til bruk som er avtalt før 1. juli 2013 er K 5,57 øre/Sm3.
 - For rett til bruk av utgangen Emden, for naturgass opprinnelig fra petroleumsforekomst(er) i utvinningstillatelse 018, som er avtalt før 1. juli 2013 er K 1,77 øre/Sm3.
@@ -222,39 +364,73 @@ For utblanding av karbondioksid er K 150 kroner/tonn utblandet karbondioksid.
 
 Innbetalinger som følger av dette elementet skal tilfalle brukere av område D som leverer gass med karbondioksidinnhold lavere enn gjeldende spesifikasjon.
 
+*Unntak:*
+
 - For rett til utblanding av karbondioksid fra feltene Sleipner Øst og Sleipner Vest er t 0.
 
+*Område E*
+
 For ekstraksjon og videresendelse av NGL og tørrgass er K = 0,45 øre/Sm3.
+
+*Unntak:*
 
 - For rett til ekstraksjon og videresendelse av NGL og tørrgass som er avtalt før 1. februar 2004, er K 0.
 
 For utblanding av hydrogensulfid er K 1 000 kroner/kg utblandet hydrogensulfid. Innbetalinger som følger av dette elementet skal tilfalle brukere av område E som leverer gass med hydrogensulfidinnhold lavere enn gjeldende spesifikasjon.
 
+*Unntak:*
+
 - For rett til utblanding av hydrogensulfid fra feltet Kvitebjørn er t 0.
 
 For utblanding av karbondioksid er K 150 kroner/tonn utblandet karbondioksid. Innbetalinger som følger av dette elementet skal tilfalle brukere av område E som leverer gass med karbondioksidinnhold lavere enn gjeldende spesifikasjon.
 
+*Område F*
+
 For område F er K 6,0 øre/Sm3 og gjelder ved utgangen av området.
+
+*Område G*
 
 For område G er K *0,149* øre/Sm3 og gjelder ved utgangen av området.
 
+*Unntak:*
+
 - For rett til bruk av utgangen i G som er avtalt før 1. januar 2026, er K 1,49 øre/Sm3.
+
+*Område H*
 
 For område H er K 0 øre/Sm3 og gjelder ved utgangene av området.
 
+*Område I*
+
 For område I er K 0,405 øre/Sm3 og gjelder ved utgangen av området.
+
+*Unntak:*
 
 - For rett til bruk av utgangen i I som er avtalt før 1. januar 2023, er K 4,05 øre/Sm3.
 
+*Område J*
+
+*Utgått.*
+
+*Område K*
+
 For område K er K 0 øre/Sm3 og gjelder ved utgangen av området.
+
+*Område L*
 
 For område L er K 1,98 øre/Sm3 og gjelder ved utgangen av området.
 
+*Unntak:*
+
 - For rett til bruk av utgangen i L som er avtalt før 1. juli 2023, er K 19,8 øre/Sm3.
+
+*Område M*
 
 I område M gjelder K ved inngangene til området. For brukere som leverer NGL fra Sture-terminalen skal rett til bruk tilsvare det høyeste av avtalt rett til bruk og hver bruker sin andel av uttak av NGL-produkter.
 
 Ved inngangene er K 7,44 kroner/Sm3.
+
+*Unntak:*
 
 - For rett til bruk av inngang til område M for NGL omfattet av avtale datert 31. august 2001 mellom Vestprosess DA og rettighetshavere i Framfeltet er K som fastsatt i avtalen.
 - For rett til bruk av inngang til område M for NGL omfattet av avtale datert 18. desember 2001 mellom Vestprosess DA og rettighetshavere i Kvitebjørnfeltet er K som fastsatt i avtalen.
@@ -262,7 +438,11 @@ Ved inngangene er K 7,44 kroner/Sm3.
 - For rett til bruk av inngang til område M for NGL omfattet av avtale datert 1. februar 2003 mellom Vestprosess DA og rettighetshavere i Tunefeltet er K som fastsatt i avtalen.
 - For rett til bruk av inngang til område M for NGL omfattet av avtale datert 12. februar 2003 mellom Vestprosess DA og rettighetshavere i Visundfeltet er K som fastsatt i avtalen.
 
+*Område N*
+
 For stabilisering er K 3,42 kroner/tonn. For brukere som leverer NGL fra Sture- terminalen skal rett til bruk tilsvare det høyeste av avtalt rett til bruk og hver bruker sin andel av uttak av NGL-produkter. Rett til bruk for NGL som leveres fra Mongstad-raffineriet skal tilsvare hver bruker sin andel av uttak av NGL-produkter.
+
+*Unntak:*
 
 - For rett til stabilisering av NGL omfattet av avtale datert 31. august 2001 mellom Vestprosess DA og rettighetshavere i Framfeltet er K som fastsatt i avtalen.
 - For rett til stabilisering av NGL omfattet av avtale datert 18. desember 2001 mellom Vestprosess DA og rettighetshavere i Kvitebjørnfeltet er K som fastsatt i avtalen.
@@ -272,13 +452,19 @@ For stabilisering er K 3,42 kroner/tonn. For brukere som leverer NGL fra Sture- 
 
 For fraksjonering, lagring og utskipning er K 22,79 kroner/tonn. For brukere som leverer NGL fra Sture-terminalen skal rett til bruk tilsvare det høyeste av avtalt rett til bruk og hver bruker sin andel av uttak av NGL-produkter. Rett til bruk for NGL som leveres fra Mongstad- raffineriet skal tilsvare hver bruker sin andel av uttak av NGL-produkter.
 
+*Unntak:*
+
 - For rett til fraksjonering, lagring og utskipning av NGL omfattet av avtale datert 31. august 2001 mellom Vestprosess DA og rettighetshavere i Framfeltet er K som fastsatt i avtalen.
 - For rett til fraksjonering, lagring og utskipning av NGL omfattet av avtale datert 18. desember 2001 mellom Vestprosess DA og rettighetshavere i Kvitebjørnfeltet er K som fastsatt i avtalen.
 - For rett til fraksjonering, lagring og utskipning av NGL omfattet av avtale datert 31. januar 2002 mellom Vestprosess DA og rettighetshavere i Kvitebjørnfeltet og Trollfeltet er K som fastsatt i avtalen.
 - For rett til fraksjonering, lagring og utskipning av NGL omfattet av avtale datert 1. februar 2003 mellom Vestprosess DA og rettighetshavere i Tunefeltet er K som fastsatt i avtalen.
 - For rett til fraksjonering, lagring og utskipning av NGL omfattet av avtale datert 12. februar 2003 mellom Vestprosess DA og rettighetshavere i Visundfeltet er K som fastsatt i avtalen.
 
+*Område O*
+
 I område O gjelder K ved inngangene til området og ved utgangen av området.For inngangen ved Aasta Hansteen-feltet er K 2,1 øre/Sm3.For inngangen ved Dvalin-feltet er K 0 øre/Sm3.For utgangen er K 6,9 øre/Sm3.
+
+*Område P*
 
 - For ekstraksjon og videresendelse av kondensat og tørrgass er K 11,5 øre/Sm3.
 
@@ -290,9 +476,15 @@ For utblanding av karbondioksid er K 150 kroner/tonn utblandet karbondioksid.
 
 Innbetalinger som følger av dette elementet skal tilfalle brukere av område P som leverer gass med karbondioksidinnhold lavere enn gjeldende spesifikasjon.
 
+*ii) Reservert kapasitet (Q)*
+
 Operatøren skal anslå Q for de ulike områdene for det gjeldende år. I områdene A, B, D, F, G, H, I, J, K, L, M og O fastsettes anslagene for Q ved utgangene av områdene. I område C, E, N og P fastsettes anslaget for Q for den enkelte tjeneste i disse områdene.
 
+*iii) Investeringer knyttet til opprettholdelse av systemet (I)*
+
 I skal beregnes for investeringer som kreves for å opprettholde systemet og som ikke dekkes under O som angitt nedenfor. I fastsettes av departementet. I skal fastsettes for hver slik investering og skal beregnes som forhåndsfastsatte årlige beløp med utgangspunkt i forventet bruk innenfor gjenværende konsesjonstid. I skal fastsettes slik at eierne kan forvente en rimelig avkastning på totale investeringer. I skal, etter at kapasitetsutvidelsen som følge av investeringen tas i bruk, inkluderes i tariffen for det område som nødvendiggjør investeringen. Dersom det ved utgangen av året er innkrevd et beløp som avviker fra beløpet som beregnes etter andre, tredje og fjerde punktum, skal det foretas korreksjon for avviket i I det etterfølgende år. I områdene A, B, D, F, G, H, I, J, K, L, M og O skal I fastsettes ved utgangene av området. I område C, E, N og P skal I fastsettes for den enkelte tjeneste i disse områdene.
+
+*iv) Investeringer knyttet til utvidelser av systemet (U)*
 
 Departementet kan bestemme at U skal fastsettes for investeringer som medfører en utvidelse av kapasitet og som ikke faller innenfor I eller O som angitt i iii) og vi). I slike tilfeller skal U gjelde for det området som nødvendiggjør investeringen og fastsettes slik at eierne kan forvente en rimelig avkastning på totale investeringer. Ved fastsettelse av U skal departementet ta hensyn til den inntekt som samsvarer med forpliktet rett til bruk av kapasitet som eksisterer før U fastsettes og kommer til anvendelse. U skal gjelde for all fremtidig rett til bruk av kapasitet, herunder rett til bruk av kapasitet som er ervervet før U fastsettes og kommer til anvendelse. For øvrig skal departementet ta hensyn til forhold som beskrevet i iv) tredje ledd.
 
@@ -300,7 +492,11 @@ I område A, B, D, F, G, H, I, J, K, L, M og O fastsettes U ved utgang av områd
 
 For brukere som innehar rett til bruk av kapasitet før U fastsettes og kommer til anvendelse for den aktuelle investering, skal summen av alle U innenfor hvert av områdene A, B, D, F, G, H, I, J, K, L, M og O ikke kunne overstige 0,7 øre/Sm3 ved et gasstransportnivå på inntil 72 mrd. Sm3/år og 0,6 øre/Sm3 ved et gasstransportnivå på 90 mrd. Sm3/år eller mer. For gasstransportnivåer mellom 72 og 90 mrd. Sm3/år skal U være inntil lineær mellom 0,6 og 0,7 øre/Sm3. Dersom U etter dette ikke er tilstrekkelig til å gi den ovenfor nevnte avkastningen på investering i kapasitetsutvidelsen, skal departementet fastsette en tilleggstariff for de brukere som erverver rett til bruk av kapasitet som følge av utvidelsen.
 
+*v) Eskaleringsfaktor (E)*
+
 Eskaleringsfaktoren for hvert enkelt år fastsettes på grunnlag av den norske konsumprisindeks som offentliggjøres av Statistisk Sentralbyrå, og er forholdstallet mellom siste indeks som er publisert før 1. januar samme år og den tilsvarende indeks per 1. januar 2002 (77,9). Dersom forholdstallet er mindre enn 1,0, settes E lik 1,0.
+
+*vi) Forventede driftskostnader (O)*
 
 Operatøren skal ved starten av året fastsette O for de ulike områder. Før slik fastsettelse skal operatøren samrå seg med brukerne. O skal dekke kostnadene ved drift av oppstrøms gassrørledningsnett som nevnt i § 1 og kostnadene som operatøren pådrar for sin virksomhet i samsvar med [petroleumsforskriften kapittel 9](forskrift/1997-06-27-653/kap9). Kostnader som bæres av andre i samsvar med [petroleumsforskriften § 66A syvende ledd](forskrift/1997-06-27-653/§66A/ledd/7) omfattes likevel ikke. Operatøren kan fastsette at en del av O-elementet justeres månedlig.
 
@@ -311,6 +507,8 @@ Ved fastsettelse av O i område H skal det legges til 1,5 mill. kroner × E. Ved
 I område C, E, N og P skal O fastsettes for den enkelte tjeneste i disse områdene. O for fjerning av hydrogensulfid i område C skal betales av brukere som får rett til å levere gass med hydrogensulfidinnhold utover gjeldende spesifikasjon inn i område A og B. O for fjerning av hydrogensulfid skal betales i forhold til den mengde hydrogensulfid hver enkelt bruker gis rett til å levere utover gjeldende spesifikasjon. I område N skal alle kostnader som betales til Oseberg Transport (OTS) for drift av kavernen på Sture og alle kostnader som betales til Mongstad for tjenester fra Mongstad-raffineriet, herunder kostnader til fyrgass, inngå i O.
 
 I tillegg til løpende driftskostnader skal enkeltinvesteringer, som ikke overstiger beløpsgrensene i tabellen under, kunne inngå i O for de forskjellige områdene.
+
+*Område* *Inntil*
 
 - A og B 40 mill. kroner × E
 - C 250 mill. kroner × E

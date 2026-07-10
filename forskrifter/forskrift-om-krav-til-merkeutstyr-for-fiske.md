@@ -38,7 +38,13 @@ Bøyelyset skal i horisontal retning, i standard klar atmosfære (meteorologisk 
 
 ### § 3. Farge.
 
-Lyset skal være gult i samsvar med de internasjonale bestemmelser for signallys (IALA Merkesystem A, CIE). Dette medfører at fargekoordinatene for lyset skal ligge innenfor et rektangel i fargediagrammet der hjørnepunktene er gitt ved følgende koordinater:ABCDx0,6000,5960,5550,560y0,4000,3960,4350,440
+Lyset skal være gult i samsvar med de internasjonale bestemmelser for signallys (IALA Merkesystem A, CIE). Dette medfører at fargekoordinatene for lyset skal ligge innenfor et rektangel i fargediagrammet der hjørnepunktene er gitt ved følgende koordinater:
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | A | B | C | D |
+| x | 0,600 | 0,596 | 0,555 | 0,560 |
+| y | 0,400 | 0,396 | 0,435 | 0,440 |
 
 ### § 4. Blinklys
 
@@ -175,3 +181,5 @@ Når det foreligger testresultater som viser at materialet tilfredsstiller krave
 ### § 27. Ikrafttreden.
 
 Disse forskrifter trer i kraft straks. Samtidig oppheves Fiskeridirektørens forskrift av 4. november 19831 om tekniske krav for godkjenning av merkeutstyr til fiskeredskaper.
+
+1 Ikke kunngjort i Norsk Lovtidend

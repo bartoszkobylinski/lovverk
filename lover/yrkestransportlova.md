@@ -98,6 +98,8 @@ Departementet kan i tvilstilfelle i forskrift eller einskildvedtak fastsetje kva
 
 > Endra ved lover [19 juni 2009 nr. 108](lov/2009-06-19-108) (ikr. 1 sep 2009), [13 aug 2010 nr. 51](lov/2010-08-13-51) (ikr. 1 jan 2011 iflg. [res. 17 des 2010 nr. 1672](forskrift/2010-12-17-1672)), [9 juni 2017 nr. 40](lov/2017-06-09-40).
 
+1 Sjå [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 4a (forordning [(EF) nr. 1370/2007](eu/32007r1370)).
+
 ### § 9. Løyve for persontransport med motorvogn registrert for inntil 9 personar utanfor rute
 
 (1) Den som mot vederlag, og med mål om forteneste, vil drive persontransport utanfor rute med motorvogn registrert for inntil 9 personar, må ha drosjeløyve. [§ 4 andre ledd bokstav a](lov/2002-06-21-45/§4/ledd/2/bokstav/a) til [d](lov/2002-06-21-45/§4/ledd/2/bokstav/d) gjeld tilsvarande. Løyveplikt gjeld òg for den som utfører persontransport mot vederlag på liknande måte som drosje når tilbod om transport vert retta til ålmenta på offentleg plass eller via digitale plattformer. Løyveplikt etter tredje punktum gjeld sjølv om den som utfører transporten ikkje har mål om forteneste.
@@ -288,6 +290,8 @@ Posten Norge AS treng ikkje løyve for transport av postsendingar som ligg innan
 
 > Endra ved [lov 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)).
 
+1 Inkurie: Opphevd, sjå no lov [4 sep 2015 nr. 91](lov/2015-09-04-91).
+
 ### § 18. Eigentransport av personar
 
 Det trengst ikkje løyve når ei verksemd transporterer eigne tilsette til eller frå arbeidsstaden. Likeins trengs det ikkje løyve når hotell eller liknande verksemd utfører transport av eigne overnattingsgjester. [§ 16 femte ledd](lov/2002-06-21-45/§16/ledd/5) gjeld tilsvarande.
@@ -398,6 +402,8 @@ Ein løyvehavar kan ikkje overlate løyvet sitt til andre utan samtykke frå lø
 
 > Føyd til ved [lov 21 juni 2013 nr. 104](lov/2013-06-21-104) (ikr. 1 jan 2015 iflg. [res. 21 nov 2014 nr. 1428](forskrift/2014-11-21-1428)), endra ved lov [22 juni 2022 nr. 84](lov/2022-06-22-84) (i kraft 22 juni 2022 iflg. [res. 22 juni 2022 nr. 1132](forskrift/2022-06-22-1132)).
 
+1 Sjå [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 19a (forordning [(EF) nr. 1071/2009](eu/32009r1071)).
+
 ### § 29 b. Handsaming av personopplysningar
 
 Offentlege styresmakter kan handsama personopplysningar, mellom anna personopplysningar som nemnt i personvernforordninga artikkel 9 og 10, når det er naudsynt for å utføre oppgåver gjevne i eller i medhald av lova her. Det same gjeld for selskap og andre juridiske personar som utfører oppgåver gjevne i eller i medhald av lova, unntatt personopplysningar som nemnt i personvernforordninga artikkel 10.
@@ -445,6 +451,8 @@ Departementet kan gje forskrifter om at motorvogn som vert nytta til løyveplikt
 (8) Handhevingsorganet kan fastsetje lovbrotsgebyr for ei verksemd dersom verksemda eller nokon på vegne av verksemda har handla i strid med reglane i første til fjerde ledd. Dette gjeld òg dersom verksemda eller nokon på vegne av verksemda ikkje hjelper til ved gjennomføring av kontroll på tenesteytaren sin eigedom, jf. femte ledd. Departementet kan i forskrift gi reglar om utmåling av lovbrotsgebyret.
 
 > Føyd til ved [lov 29 aug 2014 nr. 63](lov/2014-08-29-63) (ikr. 1 jan 2016 iflg. [res. 18 des 2015 nr. 1619](forskrift/2015-12-18-1619)), endra ved lover [20 mai 2020 nr. 42](lov/2020-05-20-42) (ikr. 1 juli 2020 iflg. [res. 20 mai 2020 nr. 1032](forskrift/2020-05-20-1032)), [16 juni 2023 nr. 38](lov/2023-06-16-38) (i kraft 1 okt 2023 iflg. [res. 16 juni 2023 nr. 930](forskrift/2023-06-16-930)).
+
+1 Sjå [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 36aa (forordning [(EU) nr. 181/2011](eu/32011r0181)).
 
 ### § 33. Transportvedtekter
 
@@ -638,6 +646,8 @@ Når kontrollmakta ber om det pliktar førar å gje tilgang til varerom, contain
 
 > Føyd til ved [lov 11 des 2015 nr. 102](lov/2015-12-11-102).
 
+1 Sjå [forskrift 17 des 2010 nr. 1673](forskrift/2010-12-17-1673) om gjennomføring i norsk rett av [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 4a (forordning [(EF) nr. 1370/2007](eu/32007r1370)).
+
 ### § 41. Straff
 
 Om nokon med vilje eller aktløyse bryt denne lova, forskrifter eller vilkår som er fastsette med heimel i lova, vert han straffa med bot. Forsøk på slike brot er også straffbart.
@@ -664,6 +674,8 @@ Om nokon med vilje eller aktløyse bryt denne lova, forskrifter eller vilkår so
 
 1. Kongen fastset kva tid lova skal ta til å gjelde.1
 2. Reglar, forskrifter og vedtak som er gitt i medhald av [lov 4. juni 1976 nr. 63 om samferdsel](lov/1976-06-04-63) gjeld òg etter at lova her er sett i kraft.
+
+1 Frå 1 jan 2003 iflg. [res. 20 des 2002 nr. 1695](forskrift/2002-12-20-1695).
 
 ### § 43. Endringar i andre lover
 

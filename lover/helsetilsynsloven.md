@@ -140,6 +140,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves [lov 30. mar
 
 Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1 juli 2018 for § 15 nr. 3, for endringene i [lov 2. juli 1999 nr. 63](lov/1999-07-02-63) om pasient- og brukerrettigheter [§ 3-2](lov/1999-07-02-63/§3-2) femte og sjette ledd og [§ 3-3](lov/1999-07-02-63/§3-3) tredje ledd, iflg. [res 22 juni 2018 nr. 948](forskrift/2018-06-22-948). Loven § 1 til § 15 nr. 2, § 15 nr. 3 for endringene i § 7-6, samt [§ 15](lov/2017-12-15-107/§15) nr. 4 til 7, trer i kraft 1. juli 2019 iflg. [res. 26 apr 2019 nr. 541](forskrift/2019-04-26-541). Loven § 15 nr. 4, for så vidt gjelder endringen i [helsepersonelloven § 62a](lov/1999-07-02-64/§62a), trer ikr. 1 okt 2021 iflg. [res. 21 juni 2019 nr. 871](forskrift/2019-06-21-871).
+
 ## § 14. Videreføring av forskrifter
 
 Forskrifter gitt i medhold av [lov 30. mars 1984 nr. 15](lov/1984-03-30-15) om statlig tilsyn med helse- og omsorgstjenesten m.m. gjelder også etter at loven her har trådt i kraft.
@@ -147,3 +149,5 @@ Forskrifter gitt i medhold av [lov 30. mars 1984 nr. 15](lov/1984-03-30-15) om s
 ## § 15. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover:
+
+– – –

@@ -26,6 +26,8 @@ eu_basis: []
 
 I [forskrift av 10. februar 1994 nr. 123](forskrift/1994-02-10-123) for flyttbare innretninger med produksjonstekniske installasjoner og utstyr gjøres følgende endring:
 
+[§ 10](forskrift/1994-02-10-123/§10) oppheves.
+
 ## II
 
 Endringen trer i kraft 1. juli 1997.

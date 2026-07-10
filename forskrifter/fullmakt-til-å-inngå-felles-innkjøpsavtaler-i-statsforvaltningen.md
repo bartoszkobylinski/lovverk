@@ -22,21 +22,21 @@ eu_basis: []
 
 # Fullmakt til å inngå og forvalte felles innkjøpsavtaler som er obligatoriske for sivile virksomheter i statsforvaltningen
 
-1. Direktoratet for forvaltning og økonomistyring (DFØ) har fullmakt til å inngå felles innkjøpsavtaler for sivile virksomheter i statsforvaltningen.
+1\. Direktoratet for forvaltning og økonomistyring (DFØ) har fullmakt til å inngå felles innkjøpsavtaler for sivile virksomheter i statsforvaltningen.
 
-2. Sivile virksomheter i statsforvaltningen er pliktige til å benytte de sentralt inngåtte avtalene med mindre de skriftlig har meldt fravalg i enkeltkonkurranser. Fravalg må meldes i forkant av kunngjøring. Fravalg skal begrunnes skriftlig til DFØ.
+2\. Sivile virksomheter i statsforvaltningen er pliktige til å benytte de sentralt inngåtte avtalene med mindre de skriftlig har meldt fravalg i enkeltkonkurranser. Fravalg må meldes i forkant av kunngjøring. Fravalg skal begrunnes skriftlig til DFØ.
 
-3. Til hver enkelt felles innkjøpsavtale utarbeider DFØ et rammedokument. Rammedokumentet gir føringer på hvordan avtalene bør brukes for å oppnå gevinster.
+3\. Til hver enkelt felles innkjøpsavtale utarbeider DFØ et rammedokument. Rammedokumentet gir føringer på hvordan avtalene bør brukes for å oppnå gevinster.
 
-4. DFØ legger til rette for standardsortiment i felles innkjøpsavtaler der det er hensiktsmessig, uten at det går utover behovsdekningen til de sivile virksomhetene i statsforvaltningen.
+4\. DFØ legger til rette for standardsortiment i felles innkjøpsavtaler der det er hensiktsmessig, uten at det går utover behovsdekningen til de sivile virksomhetene i statsforvaltningen.
 
-5. Vedlegg inneholder en liste over virksomheter som er omfattet av den obligatoriske ordningen pr. 1. juli 2021. Nyetablerte, sivile virksomheter som tilhører statlig forvaltning, vil bli inkludert i ordningen automatisk, men kun med virkning for nye konkurranser som lyses ut.
+5\. Vedlegg inneholder en liste over virksomheter som er omfattet av den obligatoriske ordningen pr. 1. juli 2021. Nyetablerte, sivile virksomheter som tilhører statlig forvaltning, vil bli inkludert i ordningen automatisk, men kun med virkning for nye konkurranser som lyses ut.
 
-6. Når varen eller tjenesten som en avtale skal gjelde for, er regulert i et internt statlig regelverk, må spørsmålet om det skal inngås en felles avtale, avklares med ansvarlig departement før spørsmålet tas opp til behandling i Innkjøpsrådet.
+6\. Når varen eller tjenesten som en avtale skal gjelde for, er regulert i et internt statlig regelverk, må spørsmålet om det skal inngås en felles avtale, avklares med ansvarlig departement før spørsmålet tas opp til behandling i Innkjøpsrådet.
 
-7. Dersom det oppstår tvil om omorganiserte eller nyopprettede virksomheter skal være omfattet av den obligatoriske ordningen, gis Kommunal- og moderniseringsdepartementet fullmakt til å treffe avgjørelse om dette. Det samme gjelder dersom det oppstår tvil om en virksomhet kan slutte seg til ordningen på frivillig grunnlag.
+7\. Dersom det oppstår tvil om omorganiserte eller nyopprettede virksomheter skal være omfattet av den obligatoriske ordningen, gis Kommunal- og moderniseringsdepartementet fullmakt til å treffe avgjørelse om dette. Det samme gjelder dersom det oppstår tvil om en virksomhet kan slutte seg til ordningen på frivillig grunnlag.
 
-8. Fullmakten trer i kraft straks. Samtidig oppheves fullmakt til Direktoratet for forvaltning og IKT (Difi) til å inngå felles innkjøpsavtaler, gitt ved [kongelig resolusjon 13. januar 2017 nr. 21](forskrift/2017-01-13-21).
+8\. Fullmakten trer i kraft straks. Samtidig oppheves fullmakt til Direktoratet for forvaltning og IKT (Difi) til å inngå felles innkjøpsavtaler, gitt ved [kongelig resolusjon 13. januar 2017 nr. 21](forskrift/2017-01-13-21).
 
 ## Vedlegg til fullmakten
 Virksomheter som er omfattet av den obligatoriske ordningen per 1. juli 2021

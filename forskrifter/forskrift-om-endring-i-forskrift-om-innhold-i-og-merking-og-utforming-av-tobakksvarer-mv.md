@@ -24,11 +24,9 @@ eu_basis: []
 
 ## I
 
-En enkeltpakning for salg til forbruker medsigaretter skal inneholde minst 20 sigaretterrulletobakk skal inneholde minst 30 gramporsjonssnus skal inneholde minst 20 porsjoner og 15 gramløssnus skal inneholde minst 30 gram.
+I [forskrift 6. februar 2003 nr. 141 om innhold i og merking og utforming av tobakksvarer mv.](forskrift/2003-02-06-141) gjøres følgende endring:
 
-Disse enkeltpakningene kan ikke inneholde mindre pakninger eller kunne deles opp i mindre pakninger.
-
-Sigarer kan selges enkeltvis med advarselsmerking på pakningen.
+[§ 31](forskrift/2003-02-06-141/§31) skal lyde:
 
 ## II
 

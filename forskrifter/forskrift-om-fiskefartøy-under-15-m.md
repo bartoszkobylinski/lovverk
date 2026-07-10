@@ -544,7 +544,19 @@ Dekkslast skal være sikret mot forskyvning og lett kunne frigjøres ved behov.
 
 ### § 56. Merking av tanker, rom m.m. og fareplan
 
-(1) Alle dører, luker, mannlokk, m.m. i atkomster til gassfarlige rom eller rom hvor det kan være oksygenmangel, skal være tydelig merket om den fare for gassforgiftning og oksygenmangel en kan bli utsatt for. På steder hvor merkingen lett kan bli ødelagt eller tilsmusset, skal selve luken, mannlokket eller lignende i tillegg males i den samme fargekode som skiltene. Varselskiltenes og klebeplakatenes farger skal være i overensstemmelse med Norsk Standard NS 6033, eller NS 4210, og ha norsk tekst som klart uttrykker følgende:FAREDANGEROKSYGEN MANGELLACK OF OXYGEN(Symbol)FAREDANGERGIFTIG GASSPOISON GAS(Symbol)FAREDANGEREKSPLOSIV ATMOSFÆREEXPLOSIVE ATMOSPHERE(Symbol)
+(1) Alle dører, luker, mannlokk, m.m. i atkomster til gassfarlige rom eller rom hvor det kan være oksygenmangel, skal være tydelig merket om den fare for gassforgiftning og oksygenmangel en kan bli utsatt for. På steder hvor merkingen lett kan bli ødelagt eller tilsmusset, skal selve luken, mannlokket eller lignende i tillegg males i den samme fargekode som skiltene. Varselskiltenes og klebeplakatenes farger skal være i overensstemmelse med Norsk Standard NS 6033, eller NS 4210, og ha norsk tekst som klart uttrykker følgende:
+
+|  |  |  |
+| --- | --- | --- |
+| FARE |  | DANGER |
+| OKSYGEN MANGEL |  | LACK OF OXYGEN |
+| (Symbol) |  |  |
+| FARE |  | DANGER |
+| GIFTIG GASS |  | POISON GAS |
+| (Symbol) |  |  |
+| FARE |  | DANGER |
+| EKSPLOSIV ATMOSFÆRE |  | EXPLOSIVE ATMOSPHERE |
+| (Symbol) |  |  |
 
 (2) For fartøy som anløper havner utenom Skandinavia, Island og Grønland, skal varselskilt som nevnt i første ledd også ha engelsk tekst.
 
@@ -590,7 +602,20 @@ Dette kapittelet gjelder for dekkede fartøy og åpne båter med styrehus.
 
 ### § 65. Dokumentasjon som skal finnes om bord
 
-Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:*Fjordfiske og Kystfiske**Bankfiske I og Bankfiske II*IAMSAR volume IIIXXInstruksjonsbøker for hvert enkelt radioutstyrXXKanalplan og frekvenstabeller for det aktuelle fartsområdetXXTillatelse til bruk av frekvenser (konsesjon/Licence)XXRadiodagbok. Dekksdagboken kan benyttes som radiodagbokXXGMDSS-dekningskartX«GMDSS Operating Guidance for Masters of Ships in Distress Situations»XITUs «Manual for use by the Maritime Mobile and Maritime Mobile-Satellite Services»XGMDSS-nødprosedyrer (skal være oppslått ved radiostasjonen)XXTegninger som viser radioarrangementet (antennetegninger, tegninger over radioutstyrets plassering i styrehuset og kablingsdiagram)XX
+Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:
+
+|  | *Fjordfiske og Kystfiske* | *Bankfiske I og Bankfiske II* |
+| --- | --- | --- |
+| IAMSAR volume III | X | X |
+| Instruksjonsbøker for hvert enkelt radioutstyr | X | X |
+| Kanalplan og frekvenstabeller for det aktuelle fartsområdet | X | X |
+| Tillatelse til bruk av frekvenser (konsesjon/Licence) | X | X |
+| Radiodagbok. Dekksdagboken kan benyttes som radiodagbok | X | X |
+| GMDSS-dekningskart |  | X |
+| «GMDSS Operating Guidance for Masters of Ships in Distress Situations» |  | X |
+| ITUs «Manual for use by the Maritime Mobile and Maritime Mobile-Satellite Services» |  | X |
+| GMDSS-nødprosedyrer (skal være oppslått ved radiostasjonen) | X | X |
+| Tegninger som viser radioarrangementet (antennetegninger, tegninger over radioutstyrets plassering i styrehuset og kablingsdiagram) | X | X |
 
 ### § 66. Sikkerhetssertifikat for radio
 
@@ -618,10 +643,30 @@ Følgende dokumentasjon vedrørende radioutstyr skal finnes om bord:*Fjordfiske 
 
 (2) For fartøy med Fartøyinstruks for fartsområde Fjordfiske gjelder ikke kravet om sekundær alarmeringskilde.
 
-(3) Fartøy skal være utstyrt med radioinstallasjoner som nevnt i tabell nedenfor.*Radiodekningsområder →*A1A2Noter*Fartsområder →*
-*Radioutstyr og radioredningsmidler*
-↓*Fjordfiske**Kystfiske**Større enn Kystfiske**VHF radioinstallasjon* som minst kan sende og motta DSC på kanal 70 og telefoni på kanal 6, 13 og 16. Vaktmottakeren kan være en separat enhet.XXXX1Radartransponder (radar-SART), eller AIS-transponder (AIS-SART)–XXX6NAVTEX mottaker 518/490 kHzXXXX4Fri-flyt satellitt EPIRB (satellitt nødpeilesender ) som skal være plassert slik at den med størst grad av sannsynlighet vil flyte opp til overflaten og sende nødalarm, dersom fartøyet skulle synke.–XXX2, 5MF-DSC som minst kan sende og motta DSC på 2187,5 kHz, og telefoni på 2182 kHz. Vaktmottakeren kan være en separat enhet.–––X1To-veis VHF radiotelefonapparater (håndholdt VHF)–XXX3*Noter:*Note 1Underveis skal alt utstyret være slått på og fartøy skal holde lyttevakt på VHF-kanal 16.Note 2Senest hvert femte år skal fri-flyt satellitt nødpeilesender (satellitt EPIRB) vedlikeholdes av et godkjent landbasert foretak.Note 3På fartøy i fartsområde Bankfiske 1 og Bankfiske 2 som har mer enn en (1) redningsfarkost, skal antall håndholdte VHF-er være minst 2.Note 4NAVTEX-mottaker kreves ikke i radiodekningsområdet A1 dersom fartøyet på annen måte kan ivareta samme sikkerhetsfunksjon ved å innhente relevante vær- og navigasjonsvarsler gjennom VHF kystradio, offentlig elektronisk system eller annen offentlig kringkasting.Note 5Fri-flyt satellitt EPIRB tillates erstattet med manuell satellitt EPIRB på fartøy som har en oppdrift som gjør at det ikke synker dypt nok til at fri-flyt nødpeilesender kan løse seg ut, eller på fartøy som har en slik overbygning at det kan medføre fare for vedkommende som skal hente fri-flyt satellitt EPIRB for manuell å aktivere og medbringe den til en redningsfarkost. Manuell satellitt EPIRB skal plasseres lett tilgjengelig, slik at den lett kan bli aktivert og tatt med i en redningsfarkost.Note 61. Fartøy som opererer i eller har fartøyinstruks for fartsområde for Kystfiske eller Bankfiske I, skal være utstyrt med én transponder.
-2. Fartøy som opererer i eller har fartøyinstruks for Bankfiske II, skal være utstyrt med to transpondere.
+(3) Fartøy skal være utstyrt med radioinstallasjoner som nevnt i tabell nedenfor.
+
+| *Radiodekningsområder →* | A1 |  |  | A2 | Noter |
+| --- | --- | --- | --- | --- | --- |
+| *Fartsområder →*<br>*Radioutstyr og radioredningsmidler*<br>↓ | *Fjordfiske* | *Kystfiske* | *Større enn Kystfiske* |  |  |
+| *VHF radioinstallasjon* som minst kan sende og motta DSC på kanal 70 og telefoni på kanal 6, 13 og 16. Vaktmottakeren kan være en separat enhet. | X | X | X | X | 1 |
+| Radartransponder (radar-SART), eller AIS-transponder (AIS-SART) | – | X | X | X | 6 |
+| NAVTEX mottaker 518/490 kHz | X | X | X | X | 4 |
+| Fri-flyt satellitt EPIRB (satellitt nødpeilesender ) som skal være plassert slik at den med størst grad av sannsynlighet vil flyte opp til overflaten og sende nødalarm, dersom fartøyet skulle synke. | – | X | X | X | 2, 5 |
+| MF-DSC som minst kan sende og motta DSC på 2187,5 kHz, og telefoni på 2182 kHz. Vaktmottakeren kan være en separat enhet. | – | – | – | X | 1 |
+| To-veis VHF radiotelefonapparater (håndholdt VHF) | – | X | X | X | 3 |
+
+|  |
+| --- |
+| *Noter:* |
+
+|  |  |
+| --- | --- |
+| Note 1 | Underveis skal alt utstyret være slått på og fartøy skal holde lyttevakt på VHF-kanal 16. |
+| Note 2 | Senest hvert femte år skal fri-flyt satellitt nødpeilesender (satellitt EPIRB) vedlikeholdes av et godkjent landbasert foretak. |
+| Note 3 | På fartøy i fartsområde Bankfiske 1 og Bankfiske 2 som har mer enn en (1) redningsfarkost, skal antall håndholdte VHF-er være minst 2. |
+| Note 4 | NAVTEX-mottaker kreves ikke i radiodekningsområdet A1 dersom fartøyet på annen måte kan ivareta samme sikkerhetsfunksjon ved å innhente relevante vær- og navigasjonsvarsler gjennom VHF kystradio, offentlig elektronisk system eller annen offentlig kringkasting. |
+| Note 5 | Fri-flyt satellitt EPIRB tillates erstattet med manuell satellitt EPIRB på fartøy som har en oppdrift som gjør at det ikke synker dypt nok til at fri-flyt nødpeilesender kan løse seg ut, eller på fartøy som har en slik overbygning at det kan medføre fare for vedkommende som skal hente fri-flyt satellitt EPIRB for manuell å aktivere og medbringe den til en redningsfarkost. Manuell satellitt EPIRB skal plasseres lett tilgjengelig, slik at den lett kan bli aktivert og tatt med i en redningsfarkost. |
+| Note 6 | 1. Fartøy som opererer i eller har fartøyinstruks for fartsområde for Kystfiske eller Bankfiske I, skal være utstyrt med én transponder.<br>2. Fartøy som opererer i eller har fartøyinstruks for Bankfiske II, skal være utstyrt med to transpondere. |
 
 > Endret ved [forskrifter 4 mai 2015 nr. 445](forskrift/2015-05-04-445) (i kraft 6 mai 2015), [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022), [27 mars 2023 nr. 459](forskrift/2023-03-27-459).
 
@@ -945,21 +990,45 @@ Denne forskrift trer i kraft 1. januar 2014. Fra samme tid oppheves[forskrift 18
 
 ## Vedlegg 1. Oversikt – kontroll av fiskefartøy under 15 meter største lengde
 
+| *Fartøy-*<br>*gruppe* | *Kontroll* | *Kontroll* | *Kontroll* | *Kontroll* | *Kontroll* |
+| --- | --- | --- | --- | --- | --- |
+| <8 meter | Ikke gjenstand for kontroll ved Godkjent kontrollforetak eller akseptert elektroforetak |  |  |  |  |
+| 8–9 meter | Førstegangs kontroll ved Godkjent kontrollforetak. Deretter kun krav om egenkontroller dersom fartøy ikke endres/bygges om. | Reders egenkontroll skal utføres ved hver 30 md. etter dato for utstedt fartøyinstruks +/– 6 md.) Skjema for egenkontroll skal oppbevares om bord (skal ikke sendes inn til Godkjent foretak eller Sjøfartsdirektoratet) |  | Fullstendig kontroll ved akseptert elektroforetak (deretter ingen periodisk forenklet kontroll ved akseptert elektroforetak) |  |
+| 9–10,67 meter | Fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk forenklet kontroll ved godkjent foretak i løpet av de siste 5 år | Mellomliggende periodisk egenkontroll av reder (reders egenkontroll). Kontrollen utføres ved 30 md. etter dato for utstedt fartøyinstruks +/– 6 md. | Periodisk forenklet kontroll ved godkjent foretak innenfor en periode på 5 år. (med forutgående forberedende egenkontroll) Kontrollen utføres ved 30 md. etter dato for utstedt fartøyinstruks – 6 md. | fullstendig kontroll ved akseptert elektroforetak | periodisk forenklet kontroll ved akseptert elektroforetak |
+| 10,67–15 meter | Fullstendig kontroll ved godkjent foretak dersom fartøyet ikke har vært fremstilt for fullstendig eller periodisk forenklet kontroll i løpet av de siste 30 månedene | Periodisk forenklet kontroll ved godkjent foretak (med forutgående forberedende egenkontroll). Kontrollen utføres ved 30 md. etter dato for utstedt fartøyinstruks – 6 md. |  | fullstendig forenklet kontroll ved akseptert elektroforetak | periodisk forenklet kontroll ved akseptert elektroforetak |
+
 ## Vedlegg 2. Liste over dokumentasjon som skal oppbevares om bord på fartøyet
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022).
 
-(Se også kapittel 8 for dokumentasjon av radioutstyr.)*Fartøystørrelse**Hjemmel**Dokumenttype**Merknad*Alle fartøy under 15 meter§ 102Installasjonsbevis, tilsynserklæring eller kontrollskjema for elektriske anleggAvhengig av fartøystørrelse og tidspunkt for første fullstendige kontroll hos godkjent foretak.§ 102Kontrollbok for laste- og losseinnretningerDersom slikt utstyr finnes om bord§ 102Installasjonsbevis for gassfyrte anleggDersom slikt utstyr finnes om bord§ 102Beskrivelse av brannslokkingsanlegget med instruks for bruk og vedlikeholdDersom slikt utstyr finnes om bord§ 36Plakater eller oppslag med opplysninger om plassering, behandling og bruk av redningsvestene§ 102Dokumentasjon for trykkprøving/tetthetsprøving av redningsdrakterDersom slikt utstyr finnes om bord§ 102Samsvarserklæring for redningsflåte fra produsenten.Dersom slikt utstyr finnes om bord6 til 8 meter§ 102ByggebekreftelseGjelder nye fartøy og eksisterende fartøy bygget etter 1. juli 20146 til 15 meter§ 102StabilitetsdokumentasjonDersom det er krav om stabilitetsberegninger i henhold til § 268 til 15 meter§ 92Gyldig fartøyinstruks§ 102Skjema for fullstendig kontroll9 til 10,67 meter§ 102Skjema for periodisk egenkontroll
+(Se også kapittel 8 for dokumentasjon av radioutstyr.)
+
+| *Fartøystørrelse* | *Hjemmel* | *Dokumenttype* | *Merknad* |
+| --- | --- | --- | --- |
+| Alle fartøy under 15 meter |  |  |  |
+|  | § 102 | Installasjonsbevis, tilsynserklæring eller kontrollskjema for elektriske anlegg | Avhengig av fartøystørrelse og tidspunkt for første fullstendige kontroll hos godkjent foretak. |
+|  | § 102 | Kontrollbok for laste- og losseinnretninger | Dersom slikt utstyr finnes om bord |
+|  | § 102 | Installasjonsbevis for gassfyrte anlegg | Dersom slikt utstyr finnes om bord |
+|  | § 102 | Beskrivelse av brannslokkingsanlegget med instruks for bruk og vedlikehold | Dersom slikt utstyr finnes om bord |
+|  | § 36 | Plakater eller oppslag med opplysninger om plassering, behandling og bruk av redningsvestene |  |
+|  | § 102 | Dokumentasjon for trykkprøving/tetthetsprøving av redningsdrakter | Dersom slikt utstyr finnes om bord |
+|  | § 102 | Samsvarserklæring for redningsflåte fra produsenten. | Dersom slikt utstyr finnes om bord |
+| 6 til 8 meter | § 102 | Byggebekreftelse | Gjelder nye fartøy og eksisterende fartøy bygget etter 1. juli 2014 |
+| 6 til 15 meter | § 102 | Stabilitetsdokumentasjon | Dersom det er krav om stabilitetsberegninger i henhold til § 26 |
+| 8 til 15 meter | § 92 | Gyldig fartøyinstruks |  |
+|  |  |  |  |
+|  | § 102 | Skjema for fullstendig kontroll |  |
+| 9 til 10,67 meter | § 102 | Skjema for periodisk egenkontroll |  |
 
 ## Vedlegg 3. Brannisolasjon
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022, tidligere vedlegg 4).
 
-1. Om nødvendig skal isolasjonen beslås med tynnplate av galvanisert stål eller aluminium. En ytre plate av galvansiert stål eller aluminium festes med avstandsstykker av ubrennbart materiale i en avstand av minst 2 cm fra skottisolasjonen. Den ytre plate skal avsluttes 5 cm over dørk eller benk og skal ikke «kles inn» med listverk eller liknende som hindrer vertikal luftstrømming mellom platene. Isolasjonen føres minst 30 cm over ovnen. Når denne isolasjonsmåte også benyttes for røkopptak som føres opp langs skott, skal ytre plate avsluttes minst 5 cm under dekk. Plater skal ikke males. Ovn skal være anbrakt minst 8 cm fra ytre plate.
+1\. Om nødvendig skal isolasjonen beslås med tynnplate av galvanisert stål eller aluminium. En ytre plate av galvansiert stål eller aluminium festes med avstandsstykker av ubrennbart materiale i en avstand av minst 2 cm fra skottisolasjonen. Den ytre plate skal avsluttes 5 cm over dørk eller benk og skal ikke «kles inn» med listverk eller liknende som hindrer vertikal luftstrømming mellom platene. Isolasjonen føres minst 30 cm over ovnen. Når denne isolasjonsmåte også benyttes for røkopptak som føres opp langs skott, skal ytre plate avsluttes minst 5 cm under dekk. Plater skal ikke males. Ovn skal være anbrakt minst 8 cm fra ytre plate.
 
-2. Alternativt kan en minst 19 mm tykk plate av ubrennbart materiale festes med av standsstykker av ubrennbart materiale slik at platen kommer minst 5 cm ut fra skott. På platen festes deretter en galvanisert stålplate eller aluminiumsplate. Platene skal avsluttes 5 cm over dørk eller benk og skal ikke «kles inn» med lister eller liknende som hindrer vertikal luftstrømming mellom plater og skott. Isolasjonen føres minst 30 cm over ovnen. Når denne isolasjonsmåte også benyttes for røkopptak som føres opp langs skott, jf. [§ 13](forskrift/2013-11-22-1404/§13), nr. 3, skal ytre plate avsluttes minst 5 cm under dekk. Plater skal ikke males. Ovn skal være anbrakt minst 5 cm fra plate.
+2\. Alternativt kan en minst 19 mm tykk plate av ubrennbart materiale festes med av standsstykker av ubrennbart materiale slik at platen kommer minst 5 cm ut fra skott. På platen festes deretter en galvanisert stålplate eller aluminiumsplate. Platene skal avsluttes 5 cm over dørk eller benk og skal ikke «kles inn» med lister eller liknende som hindrer vertikal luftstrømming mellom plater og skott. Isolasjonen føres minst 30 cm over ovnen. Når denne isolasjonsmåte også benyttes for røkopptak som føres opp langs skott, jf. [§ 13](forskrift/2013-11-22-1404/§13), nr. 3, skal ytre plate avsluttes minst 5 cm under dekk. Plater skal ikke males. Ovn skal være anbrakt minst 5 cm fra plate.
 
-3. Om nødvendig skal isolasjonen beslås med tynnplate av galvanisert stål eller aluminium.
+3\. Om nødvendig skal isolasjonen beslås med tynnplate av galvanisert stål eller aluminium.
 
 ## Vedlegg 4. Retningslinjer om typegodkjennelse av fast installerte brannoppdagelses- og brannalarmanlegg på fiskefartøy
 
@@ -967,35 +1036,65 @@ Denne forskrift trer i kraft 1. januar 2014. Fra samme tid oppheves[forskrift 18
 
 ### Del I. Bestemmelser om typegodkjennelse av fast installerte brannoppdagelses- og brannalarmanlegg på fiskefartøy
 
+1\.
+
 Innledning.
+
+1.2.
 
 Fiskefartøy med lengde på 10.67 meter og derover, men under 15 m., skal ha installert fast brannoppdagelses- og brannalarmanlegg for maskinrom og røkvarslingsanlegg for lugarene som skal være typegodkjent, jf. [§ 15](forskrift/2013-11-22-1404/§15) første ledd om brannoppdagelses- og alarmanlegg.
 
 Typegodkjennelse av slike anlegg foretas i samsvar med fremgangsmåte for godkjennelse av sentralutstyr og av detektorer beskrevet i [pkt](forskrift/2013-11-22-1404/kap2). 2 nedenfor.
 
+2\.
+
 Fremgangsmåte for godkjennelse av enklere brannoppdagelses og brannalarmanlegg og røkvarslingsanlegg på fiskefartøy under 15 m.
+
+2.1.
 
 Sentralen skal minst kunne gi akustisk alarm med støtvise signaler dersom en eller flere detektorer løser ut alarm.
 
+2.2.
+
+2.3.
+
 Sentralen skal gi akustisk feilvarsel ved feil på
+
+2.3.1
 
 strømtilførsel
 
+2.3.2
+
 ladestrømkrets
+
+2.3.3
 
 detektorsløyfer
 
+2.3.4
+
 kurs for alarmorgan.
+
+2.4.
 
 Sentralen skal kunne gi en utgangsstrøm som er tilstrekkelig for det antall alarmorganer sentralen skal betjene.
 
+2.5.
+
 På fartøy under 15 m kan strømtilførselen kun være fra et akkumulatorbatteri som står til automatisk oppladning. Akkumulatorbatteriet skal ha tilstrekkelig kapasitet til å forsyne brannoppdagelses og brannalarmanlegget og røkvarslingsanlegget med nødvendig elektrisk kraft for et tidsrom av minst 18 timer, herunder minst 5 minutters drift av alarmorganene, uten oppladning mens det opprettholder batterispenningen gjennom hele utladningsperioden innenfor 12 prosent over eller under batteriets nominelle spenning.
 
+2.6.
+
 Sentral og installasjonsmateriell skal være egnet for det miljø det utsettes for.
+
+2.7.
 
 Detektorer skal være godkjent i samsvar med fremgangsmåte inntatt i vedlagte bilag 2.
 
 ### Bilag 1 til Del I. Fremgangsmåte for godkjennelse av sentralutstyr
+
+1\.
 
 Dokumentasjon.
 
@@ -1003,61 +1102,119 @@ Følgende dokumentasjon skal foreligge ved godkjenning:Bruksanvisning, inklusive
 
 Dokumentasjon avmerket med – skal leveres om bord med anlegget i hvert enkelt skip.
 
+2\.
+
 Funksjonskrav.
+
+2.1.
 
 Sentralutstyret skal minst gi akustisk alarm ved brann. Dersom det i tillegg gis Optisk brannalarm skal den gis med rød lampe merket «BRANN» eller «BRANN/FIRE».
 
+2.2.
+
 Sentralutstyret skal indikere i hvilket område brann har oppstått.
+
+Brannalarm: Avbrutt alarm med alarmsystemet eller støtvise signaler med fartøyets fløyte.
+
+2.4.
 
 Det skal gis optisk og/eller akustisk feilvarsel ved feil som medfører en reduksjon i evnen til å oppdage eller varsle brann. Feilvarsel skal gis ved jordfeil, kortslutning og sløyfebrudd.
 
+2.5.
+
 Optisk og/eller akustisk feilvarsel, skal gis ved svikt i hoved- eller reserve kraftforsyning. Med «svikt i kraftforsyning» menes at spenningen faller utenfor de grenser som er spesifisert under miljøprøven.
+
+2.6.
 
 Optisk feilvarsel skal gis med gul lampe merket «FEIL» eller «FEIL/FAULT».
 
+2.7.
+
 Sentralen skal automatisk gå over til reserve kraftforsyning ved spenningssvikt. Sentralen skal ikke kunne gi feilaktige informasjoner ved overgang fra normal til reserve kraftforsyning.
+
+2.8.
 
 Brannalarmgiving for alle detektorsløyfer, samt alle arrangementer for feilvarsler skal kunne funksjonsprøves realistisk på en enkel måte.
 
+2.9.
+
 Det skal gis positiv indikasjon ved frakopling av funksjoner når dette kan skje fra kontrollpanel ved hjelp av bryter e.l.
+
+2.10.
 
 Det skal gis positiv indikasjon på at kraftforsyningen er intakt. Numerisk angivelse av driftsspenning forlanges ikke.
 
+2.11.
+
 Akustisk brannvarsel og feilvarsel skal kunne kvitteres ut ved hjelp av en enkelt trykknappbryter e.l. Detektorsløyfer skal fortsatt være i alarmtilstand. Brannalarm, optisk og akustisk, skal ikke blokkeres av eksisterende brannalarm på en annen detektorsløyfe når den eksisterende alarm er kvittert.
+
+2.12.
 
 Sentralutstyret skal, eventuelt med tilpasningsutstyr, kunne benyttes sammen med følgende detektortyper:Maksimal temperaturdetektorerDifferensiell temperaturdetektorStrålingsdetektor: ultrafiolett, infrarødRøykdetektor: optisk type, ionisasjonstype.
 
 Sentralutstyret skal også kunne benyttes sammen med en kombinasjon av disse detektortyper sammenkoplet i den samme detektorsløyfe, eventuelt med tilpasningsutstyr.
 
+3\.
+
 Konstruksjonskrav.
+
+3.1.
 
 Optiske og akustiske alarmkretser skal utføres slik at en enkelt feil i kretsene ikke setter begge signaltyper ut av funksjon.
 
+3.2.
+
 Kontrollpanelet skal være arrangert slik at man ikke får forstyrrende lyssignaler under normal drift, og ikke ved uforvarende berøring av alarmsentralen har mulighet for å kunne aktivisere varslingsorganer.
+
+3.3.
 
 Sentralutstyret skal konstrueres for å tåle de miljøspesifikasjoner som er angitt i IEC publikasjon nr. 60092-504, samt tilfredsstille kravene til kapslingsgrad IP42 i henhold til IEC publikasjon 60529.
 
+3.4.
+
 Sentralutstyret skal ha mulighet for tilkobling av detektorer som er tilfredsstillende med hensyn til å «feile til sikkerhet», dvs. kortslutning eller brudd på kabelforbindelsen mellom sentral og detektorer, eller mellom detektorer, skal føre til brann- eller feilvarsel.
+
+3.5.
 
 Sentralutstyret skal ha tilkoplingsklemmer for to separate krafttilførselslinjer.
 
+3.6.
+
 Sentralutstyret skal ha et tilstrekkelig antall potensialfrie utgangskontakter (eller tilsvarende arrangert) for tilkopling til et hensiktsmessig eksternt varslingssystem. Potensialfri brytekontakt eller tilsvarende skal benyttes for at feiltilstander skal kunne varsles over det generelle maskinromsalarmsystem. Likeledes skal det finnes hjelpekontakter for styresignal til viftemotorer, dørmagnetholdere o.l.
+
+4\.
 
 Miljøkrav.
 
+4.1.
+
 Sentralutstyret skal tilfredsstille de krav som er spesifisert i EC publikasjon nr. 60092-504.
+
+4.2.
 
 Sentralutstyret skal ikke være følsomt for elektrisk støy på signal- og kraftledninger i en størrelsesorden som kan tenkes indusert fra annet elektrisk utstyr om bord i skip.
 
+5\.
+
 Prøveprogram.
+
+5.1.
 
 Før et sentralutstyr presenteres for godkjennelse, skal det ha gjennomgått miljøprøving ved anerkjent prøvelaboratorium eller ha gjennomgått prøver hvor en representant for Sjøfartsdirektoratet er til stede. Det skal foreligge dokumentasjon med rapport fra prøvene.
 
+5.2.
+
 Prøvingen foretas etter blokkdiagram.
+
+(Figur 1 utelatt.)
+
+5.3.
 
 For hver del av miljøprøven skal prøveobjektet gjennomgå en funksjonsprøve. Denne prøven skal bestå av en rekke prøvesekvenser som til sammen dekker alle utstyrets funksjoner. Hver sekvens består av følgende deler:Utløs brannalarm i sløyfe XAvstill eksterne sirenerAvstill lokal summerTilbakestill alarmkretsTilbakestill lokale og eksterne signaler.
 
 For hvert av disse trinn observeres objektets tilstand for å oppdage feilfunksjoner.
+
+5.4.
 
 Funksjonsprøve (IEC 60068-1).
 
@@ -1065,15 +1222,21 @@ Før miljøprøvene blir utført, må en funksjonsprøve gjennomføres i standar
 
 De øvrige atmosfæreparametere tillegges ingen betydning. Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
 
+5.5.
+
 Variasjon i kraftforsyning.
 
 Driftsspenningen skal varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.Nettspenning: +10 prosent/–15 prosentBatterispenning: +/–17 prosent.
+
+5.6.
 
 Varmeprøve (IEC 68-2-2)Temperatur: +55 °C +/–3 °CVarighet: 16 timerAbsolutt fuktighet: 20 g vann pr. m3 luft.
 
 Prøveobjektet skal plasseres i et kammer som holder romtemperatur (15 °C til 35 °C). Temperaturen heves så til +55 °C, hvor den skal holdes i minst 16 timer. Deretter senkes temperaturen til romtemperatur igjen.
 
 Sentralen skal være i drift under prøven og skal funksjonsprøves. Funksjonsprøven skal foretas tidligst to timer etter at 55 °C er oppnådd i kammeret.
+
+5.7.
 
 Vibrasjonsprøve.
 
@@ -1097,9 +1260,13 @@ Avsluttende resonans søkeprøve.
 
 Denne prøven skal gjennomføres for å få undersøkt hvorvidt utholdenhetsprøven har svekket prøveobjektet mekanisk. Hvis så er tilfelle, vil en ha forskyvning av resonansfrekvensene. Prøveobjektet skal være i drift under denne prøven.
 
+5.8.
+
 Fuktig varme, syklisk (IEC 68-2-30).
 
 Prøveobjektet skal utsettes for 2 sykluser og skal under prøven være spenningsløst for å unngå oppvarming som vil motvirke kondensdannelse. Prøvebetingelser: +55 °C/2 sykluser. Funksjonsprøven skal utføres etter utløpet av den andre 24-timerssyklusen og etter utløpet av normaliseringsperioden som nevnt i paragrafene 5 og 7 i IEC 68-2-30.
+
+5.9.
 
 Salttåke.
 
@@ -1109,39 +1276,69 @@ Etter prøven blir prøveobjektets enkelte deler visuelt inspisert og funksjonsp
 
 ### Bilag 2 til Del I. Fremgangsmåte for godkjennelse av detektorer
 
+1\.
+
 Dokumentasjon.
 
 Følgende dokumentasjon skal foreligge ved godkjenning:Installasjons- og monteringsanvisning.Vedlikeholdsinstruks.Fremgangsmåte ved rutineprøving om bord.Fremgangsmåte ved typeprøving.Opplysning om sløyfetilkopling.Tegninger som viser mekanisk konstruksjon og oppbygging.Tekniske spesifikasjoner med følsomhetsdata og tidsrespons.Miljøspesifikasjoner som angir grenseverdiene for det ytre miljø detektoren kan operere i.
 
 Dokumentasjon merket – skal leveres om bord med anlegget i hvert skip.
 
+2\.
+
 Funksjonskrav.
+
+2.1.
 
 Generelle krav.Detektoren skal varsle brann og gi signal om dette til sentralutstyr.Detektoren skal ha så god følsomhet at den kan varsle brann på et tidlig stadium.Detektoren bør være konstruert med mulighet for å endre følsomheten.Detektoren skal ha så god selektivitet at den ikke er årsak til stadige uønskede alarmer.Detektoren som må tilbakestilles manuelt, skal gi synlig indikasjon når den er utløst.Detektoren skal gi varsel om feil som reduserer evnen til å varsle brann.Detektoren skal enkelt kunne funksjonsprøves.
 
+2.2.
+
 Spesielle krav.De eksisterende detektorer er basert på prinsippene:Termisk deteksjon:absolutt,differensiell.Røykdeteksjon:optisk,ionisasjonskammer.Strålingsdeteksjon:infrarød,ultrafiolett.Detektorer basert på andre prinsipper vil bli vurdert individuelt.Alle detektortyper skal tilfredsstille prøvene under nr. 5 – Prøveprogram.UV-detektorer skal ikke være følsomme for lys av større bølgelengde enn 0,29 um.Anm.: Denne grense på 0,29 um er valgt fordi sollys inneholder stråling med større bølgelengde, og vil derfor kunne være en kilde til uønskede alarmer.
+
+3\.
 
 Konstruksjonskrav.
 
+3.1.
+
 Detektorene skal tåle miljø spesifisert i IEC-publ. nr. 92-5-4, part 3, og tilfredsstille kravene til kapslingsgrad IP 42 i henhold til IEC publ. 529. Kapslingskravet gjelder ikke de deler av detektoren som på grunn av deteksjonsprinsippet må ha direkte kontakt med omgivende luft.
+
+3.2.
 
 Detektor som holder alarmtilstanden etter at den er utløst, skal lett kunne skiftes ut eller tilbakestilles.
 
+3.3.
+
 Termiske detektorer skal vært utført med to uavhengige kontaktpunkter.
+
+3.4.
 
 Signalutgang fra detektor skal være utført slik at den kan kobles sammen med andre detektorer i en sløyfe.
 
+3.5.
+
 Detektoren skal være utstyrt med innføring for kabler av godkjent type til skipsinstallasjon.
+
+4\.
 
 Miljøkrav.
 
+4.1.
+
 Detektoren skal tåle de miljøkrav som er spesifisert i IEC publ. 92-5-4, part 5, og de termiske, mekaniske og kjemiske påkjenninger den utsettes for i installasjon om bord i skip.
 
+4.2.
+
 Detektoren skal ikke være følsom for elektrisk støy på signal- og strømforsyningsledning i en størrelsesorden som kan tenkes indusert fra øvrig elektrisk utstyr om bord i skip.
+
+5\.
 
 Prøveprogram.
 
 Før en detektor presenteres for godkjennelse, skal den ha gjennomgått miljøprøving ved anerkjent prøvelaboratorium. Det skal foreligge dokumentasjon med rapport fra prøvene. Prøving foretas etter blokkdiagram. (Fig. 1 er utelatt.)
+
+5.1.
 
 Brannprøve.
 
@@ -1153,19 +1350,31 @@ Lyset skal både være fast og opphakket med en frekvens på ca. 10 Hz. Følsomh
 
 Spesifikasjon av standard prøveflamme:
 
+Flammen fra et kar med mål 300 x 300 x 150 mm fylt med 1 liter dieselolje og 0,25 kg twist. Oljetemperatur 50-60 °C.
+
+5.2.
+
 Miljøprøve.For hvert trinn i miljøprøven skal detektoren gjennomgå en funksjonsprøve. Denne prøve skal enkelt kunne gjennomføres, og den skal være reproduserbar slik at man får et kvantitativt mål for hvordan detektorens ytelser endres under prøven. Produsenten skal fremsende forslag til fremgangsmåte for en funksjonsprøve som tilfredsstiller disse krav.Som funksjonsprøve kan også brannprøven i nr. 5.1. benyttes.Under miljøprøven skal detektorens tidsrespons og følsomhet noteres, slik at vesentlige endringer i løpet av prøven skal medføre at detektoren underkastes nærmere undersøkelser, og eventuelt forkastes.Termiske detektorer prøves ifølge CEN 54, Part 5 (EN 54, Part 5).d) Miljøprøven foregår ifølge blokkskjema i figur 1. (Fig. 1 utelatt.)
 
+5.3.
+
 Funksjonsprøve (IEC 68-1).Før miljøprøvene blir utført, skal en funksjonsprøve gjennomføres i standard atmosfæreforhold:Temperatur: +15 °C til + 35 °CRelativ fuktighet: 45 prosent–75 prosentLufttrykk: 860–1060 millibar.De øvrige atmosfæreparametere tillegges ingen betydning.Funksjonsprøve skal foretas mellom hver av de etterfølgende miljøprøver, og skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner.
+
+5.4.
 
 Variasjon i kraftforsyning.
 
 Driftsspenningen varieres innenfor de oppgitte grenser. Det kontrolleres under prøven at ikke feilfunksjon inntreffer.Nettspenning: +10 prosent/–15 prosentBatterispenning: +/–17 prosent.
+
+5.5.
 
 Varmeprøve (IEC 68-2-2).Temperatur: +55 °C +/– 3 °CVarighet: 16 timerAbsolutt fuktighet: 20 g vann pr. m3 luft.
 
 Prøveobjektet plasseres i et kammer som holder romtemperatur (15 °C–35 °C). Temperaturen heves så til +55 °C, hvor den skal holdes i minst 16 timer. Deretter senkes temperaturen til romtemperatur igjen.
 
 Detektoren skal være i drift under prøven, og skal funksjonsprøves. Funksjonsprøven foretas tidligst to timer etter at +55 °C er oppnådd i kammeret. Detektorer som ikke kan underkastes varmeprøve, vil blir vurdert i hvert enkelt tilfelle.
+
+5.6.
 
 Vibrasjonsprøve.
 
@@ -1193,9 +1402,13 @@ Avsluttende resonans søkeprøve.
 
 Denne prøven må gjennomføres for å få undersøkt hvorvidt utholdenhetsprøven har svekket prøveobjektet mekanisk. Hvis så er tilfelle vil en ha forskyvning av resonansfrekvensene. Prøveobjektet skal være i drift under denne prøven.
 
+5.7.
+
 Fuktig varmeprøve, syklisk (IEC 68-2-30).
 
 Prøveobjektet skal utsettes for 2 sykluser, og skal under prøven være spenningsløst for å unngå oppvarming som vil motvirke kondensdannelse. Prøvebetingelser: + 55 °C/2 sykluser. Funksjonsprøven skal utføres etter utløpet av den andre 24-timerssyklusen og etter utløpet av normaliseringsperioden som nevnt i paragrafene 5 og 7 i IEC 68-2-30.
+
+5.8.
 
 Salttåke.
 
@@ -1209,35 +1422,57 @@ Etter prøven skal prøveobjektets enkelte deler visuelt inspiseres, og funksjon
 
 ### Del II. Retningslinjer om installasjon og godkjennelse av installasjon av fast installerte brannoppdagelses- og brannalarmanlegg og røkvarslingsanlegg på fiskefartøy
 
+1\.
+
 Generelt.
+
+1.1.
 
 I medhold av § 15 skal fiskefartøy være utstyrt med fast installerte brannoppdagelses- og brannalarmanlegg som angitt i forskriften.
 
+1.2.
+
 Fremgangsmåten for typegodkjennelse av slike anlegg vil fremgå av Bestemmelser for godkjennelse av fast installerte brannoppdagelses- og brannalarmanlegg på fiskefartøy.
+
+1.3.
 
 Nedenstående retningslinjer angir en norm for hvordan installasjonen av slike anlegg bør utføres. Andre løsninger som gir en tilsvarende standard, kan godtas.
 
+2\.
+
 Retningslinjer for installasjon.
 
+2.2.1.
+
 I motorrommet skal det installeres 1 stk. røkdetektor og 1 stk. varmedetektor. I fellesrom eller lugar installeres 1 stk. røkdetektor. Det installeres 1 stk. alarmorgan i styrehus og 1 stk. i innredning når hensyn tas til fartøyets størrelse.
+
+2.2.3.
+
+2.2.4.
 
 Detektorer og alarmorganer monteres på vanntette koplingsbokser.
 
 ### Bilag 1 til Del II. Rettledning for valg og plassering av detektorer i maskinrom
 
-1. For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:Termiske detektorerRøk/ione-detektorerFlammedetektorer.
+1\. For å oppnå en optimal overvåking av maskinrom bør en fullstendig detektorinstallasjon bestå av en kombinasjon av:Termiske detektorerRøk/ione-detektorerFlammedetektorer.
 
-2. Fig. 1 (utelatt) viser et snitt av et typisk maskinrom med inntegnet plassering av de forskjellige detektortypene. I tilknytning til figuren er det nedenfor gitt en del generelle råd for bruk og plassering av detektorer.
+2\. Fig. 1 (utelatt) viser et snitt av et typisk maskinrom med inntegnet plassering av de forskjellige detektortypene. I tilknytning til figuren er det nedenfor gitt en del generelle råd for bruk og plassering av detektorer.
+
+Termiske detektorer.
 
 Denne detektortypen egner seg best for mindre rom med liten eller ingen ventilasjon og hvor det er mulig å montere detektoren i lav høyde over overvåkningsobjektet.
 
+Røk/Ione-detektorer.
+
 Disse detektorene har et mer generelt anvendelsesområde og kan brukes stort sett i hele maskinrommet med relativt høy følsomhet. Man bør dog unngå å bruke røk/ione- detektorer i områder med særlig høy ventilasjon samt i områder hvor det normalt vil forekomme fri eksos fra tid til annen.
+
+Flammedetektorer.
 
 Flammedetektoren er den som reagerer hurtigst på en brann hvor det er snakk om flammer, og den er også upåvirket av ventilasjonsforholdene. Den bør derfor anvendes for områder med et særlig høyt branntilbud (topp av hovedmotor, hjelpemotorer/generatorer, kjeler etc.) og for områder hvor forholdene vanskeliggjør bruk av de to førstnevnte detektortypene.
 
-3. Plassering av Røk/Ione-detektorer.For å sikre en optimal plassering av røk-detektorene bør den endelige plasseringen av disse baseres på røkprøver under normale driftsforhold. Derfor anbefales det i første omgang å montere disse detektorene med «løse» sløyfekabler slik at de siden kan flyttes innen et rimelig område basert på røkprøvene.
+3\. Plassering av Røk/Ione-detektorer.For å sikre en optimal plassering av røk-detektorene bør den endelige plasseringen av disse baseres på røkprøver under normale driftsforhold. Derfor anbefales det i første omgang å montere disse detektorene med «løse» sløyfekabler slik at de siden kan flyttes innen et rimelig område basert på røkprøvene.
 
-4. Det anbefales at detektorinstallasjonen baseres på universal-sløyfer med universalsokler slik at man kan bytte ut en detektortype med en annen på et senere stadium dersom erfaringene skulle tilsi det.
+4\. Det anbefales at detektorinstallasjonen baseres på universal-sløyfer med universalsokler slik at man kan bytte ut en detektortype med en annen på et senere stadium dersom erfaringene skulle tilsi det.
 
 ### Bilag 2 til Del II. Retningslinjer for godkjennelse av installert branndeteksjons- og varslingsutstyr.
 
@@ -1245,7 +1480,11 @@ Før en branndeteksjons- og varslingsinstallasjon kan godkjennes, skal den ferdi
 
 Endelig godkjennelse er avhengig av positivt resultat fra disse prøver.
 
+1\.
+
 Funksjonsprøver.
+
+1.1.
 
 Funksjonsprøver av sentralutstyr, strømforsyning og samtlige varslings-/alarmorganer.
 
@@ -1253,21 +1492,31 @@ Disse prøver skal omfatte alle kontroll-, feilvarslings- og alarmfunksjoner. Al
 
 Funksjoner som lukking av dører, viftestopp etc. skal kontrolleres på de respektive steder.
 
+1.2.
+
 Funksjonsprøver av detektorsløyfer.
 
 Disse prøver skal omfatte prøving av samtlige detektorer på samtlige sløyfer. Ikke-resetbare, termiske detektorer (smelteledds-detektorer o.l.) kan prøves ved simulering på detektorens tilkoplingspunkter. Andre termiske detektorer prøves med varmluft e.l. Røyk- og flammedetektorer prøves ifølge produsentens beskrivelse.
 
 På minst to av sløyfene skal det kontrolleres at deteksjonsevnen er intakt selv ved sløyfebrudd, dersom ikke sløyfebrudd automatisk gir brannalarm.
 
+2\.
+
 Følsomhetsprøver.
+
+2.1.
 
 Til følsomhetsprøvene skal det anvendes en standard prøvebrann, definert som følger:
 
 Åpent, kvadratisk stålkar med mål 300 x 300 x 150 mm fylt med 1 liter dieselolje og 0,25 kg twist som spres jevnt i karet. Under prøvene skal temperaturen i dieseloljen være minst 50 °C, og ikke mer enn 60 °C ved antennelse.
 
+2.2.
+
 Følsomhetsprøvene av deteksjonsanlegget i maskinrommet utføres ved å plassere prøvebrannen i forskjellige relevante posisjoner i maskinrommet, og minste krav til følsomhet er da at anlegget utløses innen 3 minutter, uansett posisjon av prøvebrann.
 
 Disse prøvene skal utføres i minst fem forskjellige posisjoner, herunder områdene ved toppen av hovedmotor(er), ved hjelpemotorer/generatorer og ved oljefyrte kjeler.
+
+2.3.
 
 Følsomhetsprøvene skal utføres ved normale driftsforhold under full fart og full ventilasjon.
 
@@ -1291,11 +1540,31 @@ Som et alternativ til disse retningslinjene kan [kap. 7](forskrift/2013-11-22-14
 
 ### 2. Definisjoner
 
+*Administrasjonen:* Sjøfartsdirektoratet.
+
+*Godkjent:* Godkjent av Sjøfartsdirektoratet eller den det bemyndiger.1
+
+*Krengeprøve:* Finne beliggenheten av skipets vertikale tyngdepunkt i en gitt tilstand, normalt ved å flytte en serie med kjente vekter tverrskips og så måle den tilhørende forandringen i statisk likevektsvinkel for skipet. Lettskip: Et ferdig utrustet skip, men uten forbruksvarer, stores, last, mannskap og deres effekter, og uten noen ombordværende væsker, med det unntak at væsker som inngår i maskineri og systemer, f.eks. smøreolje og hydraulikkolje, skal være oppfylt til normalt driftsnivå.
+
+*Deplasementsmåling:* Fastlegge skipets flytestilling samt masse, langskips, tverrskips og vertikal posisjon av alle vekter som skal tas ombord, tas i land eller flyttes, slik at lettskipets deplasement og tyngdepunkt kan beregnes ut fra den aktuelle tilstanden. Det kan bli nødvendig å fastlegge tverrskips beliggenhet av tyngdepunktet for skip som er asymmetriske om senterplanet og hvor arrangement eller utrustning er slik at skipet vil kunne få permanent slagside på grunn av usymmetrisk plassering av vekter.
+
+*Inspektør:* Inspektør fra Sjøfartsdirektoratet eller en annen person oppnevnt på vegne av Sjøfartsdirektoratet.
+
+1 For lasteskip, unntatt offshorefartøy, med en bruttotonnasje på 500 eller mer og som er registrert i Norsk Internasjonalt Skipsregister (NIS), har klasseselskapene en generell bemyndigelse til å opptre på vegne av Sjøfartsdirektoratet.
+
 ### 3. Ansvarsfordeling
 
 I henhold til Norske forskrifter er det verkstedet som er ansvarlig for å påse at det blir avholdt deplasementsmålinger og krengeprøver for skip som bygges eller ombygges i Norge. Er skipet i utlandet påhviler dette reder.
 
 Det skal være oppnevnt en kvalifisert person for å forestå planlegging og gjennomføring. Dette kan være en representant for verksted eller rederi eller en skipsteknisk konsulent som opptrer på deres vegne. Denne personen har ansvaret for å:
+
+Sikre at alle nødvendige forberedelser er gjort før inspektøren ankommer.
+
+Administrere og koordinere gjennomføringen av deplasementsmålingen og krengeprøven. Samle inn resultatene fra alle målinger så snart disse foreligger.
+
+Bearbeide resultatene så raskt som mulig, slik at eventuelle feil og unøyaktigheter oppdages på et tidlig tidspunkt.
+
+Oversende rapport til inspektøren for godkjennelse, i rimelig tid før skipet er planlagt å avgå.
 
 Inspektøren skal:Være tilstede og notere all informasjon som er nødvendig for godkjennelse av rapporten.Godkjenne rapporten, hvis gjennomføringen og resultatene er akseptable.Inspektøren kan forbeholde seg retten til å forelegge rapporten for aktuell fartøysavdeling for vurdering hvis inspektøren er i tvil.Oversende en kopi av godkjent rapport sammen med en kopi av godkjennelsesbrevet til aktuell fartøysavdeling.
 
@@ -1310,6 +1579,8 @@ En inspektør skal være til stede for å attestere deplasementsmålinger og kre
 Skriftlig begjæring om besiktelse skal sendes Administrasjonen i rimelig tid før utførelsen. For skip registrert i det ordinære norske registret (NOR) sendes begjæringen til den lokale stasjonen av verkstedet, hvis skipet bygges i Norge, og til Sjøfartsdirektoratets hovedkontor av rederiet hvis dette skjer i utlandet.
 
 For lasteskip med en bruttotonnasje på 500 eller mer, og som er registrert i NIS sendes begjæring til skipets klasseselskap, i henhold til selskapets egne prosedyrer.
+
+*Informasjon som skal følge begjæringen*
 
 Skriftlig begjæring skal inneholde følgende informasjon:Skipets navn og kjenningssignal, ev. byggenummer og verksted.Dato, tidspunkt og sted for besiktelse.
 
@@ -1367,6 +1638,8 @@ Hvis fribord ikke avleses fra dekkshjørnet, må det vertikale referansepunktet 
 
 ### 4.5 Tilleggsbestemmelser for krengeprøver
 
+*Flyttbare gjenstander*
+
 Overtallig mannskap eller personell som ikke er direkte involvert i krengeprøven skal ikke være ombord under prøven.
 
 Gjenstander som kan svinge eller forskyve seg må sikres. Kraner, bommer, gaffeltrucker o.l. skal plasseres og sikres i sin posisjon når fartøyet er underveis.
@@ -1381,9 +1654,13 @@ Tanker som ikke er beregnet for føring av væsker skal alltid være tomme.
 
 Antall fulle tanker skal begrenses til det minimum som er nødvendig for å sikre tilstrekkelig stabilitet under prøven.
 
+*Fortøyninger*
+
 Skipet skal fortøyes i et stille beskyttet område, fritt for ytre påvirkninger slik som bølger og propellervann fra passerende fartøy eller utslipp fra pumper og avløp på land. Tidevannsforholdene og skipets trim bør tas tas i betraktning. Skipet skal fortøyes slik at det kan krenge fritt til begge sider under krengeprøven. Gangveier skal tas på land. Kabler, slanger o.l. fra land skal reduseres til et minimum, og skal holdes slakke gjennom hele forsøket.
 
 Skipet skal være mest mulig opprett, og dypgangen skal være slik valgt at brå endringer i vannlinjearealet ikke vil påvirke resultatene når skipet krenges fra side til side. Når krengevektene står i utgangsstilling kan en slagside på inntil en halv grad til en side aksepteres.
+
+*Krengevekter*
 
 Mengden vekter som benyttes skal være tilstrekkelig til å sikre en krenging på minimum 2 grader, maksimum 4 grader til hver side. For store skip, slik som tank- og bulkskip, vil imidlertid en største vinkel på 1,5 grader kunne aksepteres.
 
@@ -1395,6 +1672,8 @@ En kran med tilstrekkelig løfteevne og utlegg, eller annen pålitelig metode, s
 
 Vannballast blir generelt ikke godtatt som krengevekter. For store skip vil pumping av vann mellom rettsidete tanker kunne tillates etter forutgående søknad til Administrasjonen, og da bare hvis det ikke er praktisk mulig å bruke faste vekter. I slike tilfeller er det vesentlig at det er utarbeidet nøyaktige peiletabeller. Egenvekten av ballastvannet skal måles nøyaktig og grenledninger som ikke skal benyttes under forsøket skal være blindflenset.
 
+*Pendler*
+
 Minimum to pendler skal benyttes for å kunne avsløre feil avlesning ved en av dem. Pendlene skal plasseres i ly for vind.
 
 Pendlene skal ha tilstrekkelig lengde til å oppnå et største utslag til hver side på minst 15 cm. For å forsikre seg mot sammenblanding av resultatene anbefales det at pendlene plasseres så langt fra hverandre som praktisk mulig.
@@ -1403,9 +1682,17 @@ Bruk av inklinometer eller U-rør vil kunne aksepteres i hvert enkelt tilfelle. 
 
 Det bør være opprettet effektiv to-veis kommunikasjon mellom en sentral kontrollstasjon og de som flytter vektene samt mellom den sentrale kontrollen og pendelstasjonene. En enkelt person i kontrollstasjonen skal ha full styring med alt personell som er involvert i prøven.
 
+Fig. 1 Anbefalt opprigging av pendel.
+
+*Bruk av U-rør*
+
+Fig. 2 Avlesing av U-rør.
+
 Hvis det brukes U-rør til erstatning for en pendel gjelder følgende:De vertikale endene av systemet skal festes forsvarlig så langt ute i borde som mulig. Uansett skal den horisontale avstanden være tilstrekkelig til å sikre at det oppnås en nivåforskjell på minst 15 cm mellom opprett tilstand og største krengevinkel til hver side.Det må sikres at de vertikale endene er lange nok til å sikre at vann ikke renner over eller forsvinner fra systemet.Et arrangement for måling av utslag skal være fastmontert i begge ender.Hele systemet skal lages av klare plastikkrør og slanger, slik at det lar seg kontrollere for luftlommer.
 
 En liten mengde blekk eller annet fargestoff kan tilsettes vannet for å lette avlesningene.
+
+*Inklinometre*
 
 En kopi av kalibreringsbevis fra en institusjon som kan aksepteres av Administrasjonen skal overleveres inspektøren før prøven. I tillegg kreves det at de målte verdiene vil samsvare med de som avleses ved hjelp av en pendel.
 
@@ -1437,6 +1724,18 @@ Alle beregninger som utføres i forbindelse med gjennomføringen av krengeprøve
 
 Nedenfor er vist noen eksempler på plott som ikke viser korrekte forløp, samt sannsynlige årsaker og forslag til korrigerende tiltak.
 
+Fig. 5: For mye fri overflate. Etterkontroller alle tanker, kofferdammer og tanktoppen. Lens eller topp opp som nødvendig. Foreta ny dypgangs- og fribordsmålinger og gjenta alle vektsflyttinger.
+
+Fig. 6: Skipet har berørt bunn eller kai, eller har vært holdt igjen av fortøyningene. Lodd vanndybden og kontroller trossene. Gjenta flytt 2 og 3.
+
+Fig. 7: Konstant vindmoment påført etter at nullpunktet ble avsatt. Et slikt plott kan aksepteres.
+
+Fig. 8: Vindkast fra BB. Repeter flytt 1 og 5.
+
+Fig. 9: Hvis bare på en pendel: Avlesningsutstyret eller selve pendelen har forskjøvet seg mellom flytt 2 og 3. Bruk data fra den andre pendelen hvis det er oppnådd en rett linje der og alle linjer forøvrig har samme stigning. Hvis alle pendlene: Sannsynligvis vind som på fig. 7.
+
+Fig. 10: Tilfeldige avvik: Hvis unøyaktighetene ikke lar seg knytte til noen spesiell årsak kan man legge til ekstra flytt til begge sider inntil man oppnår en klarere tendens. Stigningen på alle pendler må da være sammenfallende.
+
 ### 5.3 Spesielle hensyn ved bruk av U-rør
 
 Systemet skal kontrolleres grundig for luftblærer før vektsflyttingene.
@@ -1465,6 +1764,8 @@ For å lese [pkt](forskrift/2013-11-22-1404/kap1). 1–3 se her: [(pdf)](static/
 
 ### 4. Dypgangsavlesninger
 
+*På skissene skal følgende opplysninger angis:*
+
 1. Basislinje og langskips referanse i benyttede hydrostatiske data
 2. Dypgangsmerkers plassering forut og akter (Fig. 1)
 3. Dypgangsavlesninger ved dypgangsmerker
@@ -1473,42 +1774,97 @@ For å lese [pkt](forskrift/2013-11-22-1404/kap1). 1–3 se her: [(pdf)](static/
 6. Eventuelle andre referansepunkters plassering, langskips, tverrskips og vertikalt
 7. Eventuelle avlesninger ved andre referansepunkter.
 
+*NB:*
+
 Om skipet har trim under prøven må det påses at målingene utføres mest mulig vinkelrett på basislinjen (parallelt med spantene) og ikke vinkelrett på vannlinjen. Alternativt korrigeres avlesningene for trim.
 
 Eventuell tilleggsinformasjon, skisser og lignende bes vedlagt.
 
 ### 5. Hydrostatiske data for krengeprøvetilstanden
 
+For å lese pkt. 5 se her: [(pdf)](static/SF/sf-20131122-1404-v7-06-01.pdf)
+
 ### 6. Oversikt over krengevektene
 
-*Vekt nr.**Masse*
-*tonn**Materiale**Kontrollveiing**Dato**Inspektør*
+| *Vekt nr.* | *Masse*<br>*tonn* | *Materiale* | *Kontrollveiing* |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | *Dato* | *Inspektør* |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 Plassering av vektene før første flytting (langskips og tverrskips).
 
 ### 7. Pendler
 
-*Pendel nr.**Lengde**Plassering*
+| *Pendel nr.* | *Lengde* | *Plassering* |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+*Anm.:* Hvis en pendel er erstattet med U-rør e.l. føres tverrskips avstand mellom målestasjonene opp som «lengde» i tabellen over. Skisse over arrangementet vedlegges rapporten.
 
 ### 8. Tanker til fradrag
 
+For å lese [pkt](forskrift/2013-11-22-1404/kap8). 8 se her: [(pdf)](static/SF/sf-20131122-1404-v7-08-01.pdf)
+
 ### 9. Rekkefølgen av flyttingen av vektene
 
-*Flytt nr.**Retning, markeres med piler**Vekt nr. flyttet**BB (-)**C.L.**SB (+)*0123456789101112131415
+| *Flytt nr.* | *Retning, markeres med piler* |  |  | *Vekt nr. flyttet* |
+| --- | --- | --- | --- | --- |
+|  | *BB (-)* | *C.L.* | *SB (+)* |  |
+| 0 |  |  |  |  |
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
+| 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
+| 9 |  |  |  |  |
+| 10 |  |  |  |  |
+| 11 |  |  |  |  |
+| 12 |  |  |  |  |
+| 13 |  |  |  |  |
+| 14 |  |  |  |  |
+| 15 |  |  |  |  |
 
 ### 10. Generelle krav til utførelse
 
-Følgende punkter skal være kontrollert og funnet i orden av ansvarshavende for prøven før rapporten overleveres inspektøren for godkjennelse:Krengingen skal normalt avleses ved minst to målesteder, hvorav minst en skal være en pendel.Slagside før første flytt skal være minst mulig. Dersom summen av slagside og krengevinkel overstiger 5° til en side kan prøven ikke godkjennes uten eksakt beregning av rettende moment.Prøven kan ikke godkjennes dersom slagside gjør at fartøyet ikke krenger forbi opprett tilstand.Største vinkelutslag i begge retninger skal være fra 2°–4°. For store skip (tankskip, bulkskip o.l.) kan 1,5° aksepteres.For ukonvensjonelle fartøy og fartøy med spesielt stor initialstabilitet (GMT) kan andre verdier aksepteres hvis dette er avklart på forhånd.Pendellengde og største krengende moment skal avstemmes mot hverandre slik at største avleste utslag ikke er mindre enn 150 mm.Resultatene skal plottes suksessivt og prøven skal ikke avsluttes før det foreligger minst 8 avlesninger eksklusive startpunktet, disse ligger på en tilnærmet rett linje og det er samsvar mellom målestasjonene.Differansen mellom faktisk trim og trimverdi i brukte hydrostatiske data skal ikke overstige 0,01*Lpp.
+Følgende punkter skal være kontrollert og funnet i orden av ansvarshavende for prøven før rapporten overleveres inspektøren for godkjennelse:Krengingen skal normalt avleses ved minst to målesteder, hvorav minst en skal være en pendel.Slagside før første flytt skal være minst mulig. Dersom summen av slagside og krengevinkel overstiger 5° til en side kan prøven ikke godkjennes uten eksakt beregning av rettende moment.Prøven kan ikke godkjennes dersom slagside gjør at fartøyet ikke krenger forbi opprett tilstand.Største vinkelutslag i begge retninger skal være fra 2°–4°. For store skip (tankskip, bulkskip o.l.) kan 1,5° aksepteres.For ukonvensjonelle fartøy og fartøy med spesielt stor initialstabilitet (GMT) kan andre verdier aksepteres hvis dette er avklart på forhånd.Pendellengde og største krengende moment skal avstemmes mot hverandre slik at største avleste utslag ikke er mindre enn 150 mm.Resultatene skal plottes suksessivt og prøven skal ikke avsluttes før det foreligger minst 8 avlesninger eksklusive startpunktet, disse ligger på en tilnærmet rett linje og det er samsvar mellom målestasjonene.Differansen mellom faktisk trim og trimverdi i brukte hydrostatiske data skal ikke overstige 0,01\*Lpp.
 
 ### 11. Målt metasenterhøyde for skip som krenget
+
+For å lese [pkt](forskrift/2013-11-22-1404/kap11). 11 se her: [(pdf)](static/SF/sf-20131122-1404-v7-09-01.pdf)
 
 Flytting av vekter mot SB gir positivt fortegn for (3), (6) og (9). Negativt fortegn ved flytting til BB. Akkumulert Tan Φ skal plottes suksessivt som funksjon av akkumulert moment.
 
 ### 12. Resultater fra krengeprøven
 
-KMT for trimmet vannlinjemBeregnet GMT, pendel 1
-Beregnet GMT, pendel 2
-[Beregnet GMT, pendel 3m m m]Midlere GMTmKorreksjon for fri overflate i tanker+mVertikalt tyngdepunkt over basis for skip som krengetm
+|  |  |  |
+| --- | --- | --- |
+| KMT for trimmet vannlinje |  | m |
+| Beregnet GMT, pendel 1<br>Beregnet GMT, pendel 2<br>[Beregnet GMT, pendel 3 | m m m] |  |
+| Midlere GMT |  | m |
+| Korreksjon for fri overflate i tanker | + | m |
+| Vertikalt tyngdepunkt over basis for skip som krenget |  | m |
+
+*Hvis hydrostatiske data er beregnet for aktuell trim under prøven:* $$LCG = LCB - (KG - KB) \\frac{t}{Lpp} = \\qquad \\qquad \\qquad \\text m$$
+
+(Akterlig trim regnet negativ)
+
+*Hvis hydrostatiske data tas fra kurveblad/tabeller:* $$MCT1 = \\frac{(KML - KG) \\cdot \\Delta}{100 \\cdot LPP} = \\qquad \\qquad \\qquad \\text{tm/cm}$$
+
+*Vektstyngdepunktets beliggenhet langskips:* $$LCG = LCB - \\frac{t \\cdot MCT1cm \\cdot 100}{\\Delta} = \\qquad \\qquad \\qquad \\text m$$
 
 (Akterlig trim regnet negativ)
 
@@ -1520,10 +1876,23 @@ For å lese [pkt](forskrift/2013-11-22-1404/kap13). 13 se her: [(pdf)](static/SF
 
 Beregnet lett skip er fartøy uten last, brennolje, smøreolje, vannballast eller annen ballast som er flytende eller pumpbar, ferskvann, fødevann, septik, proviant og andre forbruksvarer samt mannskap, passasjerer og deres effekter. Minimumsbeholdning av fortøyningsgods, reservedeler o.l. påbudt av Sjøfartsdirektoratet eller klassifikasjonsselskapet samt minimumsbeholdning av systemoljer i rørledninger etc. skal medregnes i lett skip.
 
-Beregnet lett skip i denne rapporten inkluderer dessuten følgende gjenstander knyttet til spesielle operasjoner og som ikke skal medtas som separate laster i fartøyets lastekondisjoner:*Gjenstand**Vekt*
-*(tonn)**T.P. over*
-*B.L. (m)**T.P. fra*
-*LPP/2 (m)**Verdiene er kontrollert**Ja**Nei*Sum
+Beregnet lett skip i denne rapporten inkluderer dessuten følgende gjenstander knyttet til spesielle operasjoner og som ikke skal medtas som separate laster i fartøyets lastekondisjoner:
+
+| *Gjenstand* | *Vekt*<br>*(tonn)* | *T.P. over*<br>*B.L. (m)* | *T.P. fra*<br>*LPP/2 (m)* | *Verdiene er kontrollert* |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | *Ja* | *Nei* |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Sum |  |  |  |  |  |
+
+*Anm.:* Her spesifiseres vekter slik som fiskeutstyr, slepeutrustning, fastmontert hotellutstyr, løsbare moduler og fast flyttbar ballast som kan tenkes tatt på land ved eierskifte eller overgang til annen virksomhet.
+
+*Kommentarer til krengeprøven:*
 
 ## Vedlegg 7. Funksjonskrav for brovaktalarm
 
@@ -1531,7 +1900,11 @@ Beregnet lett skip i denne rapporten inkluderer dessuten følgende gjenstander k
 
 Fartøy som er utstyrt med selvstyreanlegg/styrehjelp og som har fartøysinstruks for større fartsområde enn fjordfiske skal ha brovaktalarm. Alarmen som ikke er typegodkjent i henhold til IMO Res. MSC. 128(75) skal oppfylle følgende funksjonskrav:
 
+1\.
+
 Beskrivelse av systemet
+
+1.1.
 
 Brovaktalarmens virkemåte, programmering mv.
 
@@ -1543,43 +1916,67 @@ Når brovaktalarmen er aktivisert skal det utløses et akustisk alarmsignal ders
 
 Kvittering skal skje enten ved at ansvarshavende for brovaktholdet trykker på en tilbakestillingsknapp, eller ved at den manuelle styreinnretningen beveges. IR-sensor basert på bevegelse og varmesøkende funksjon kan brukes som tilleggsutstyr dersom det ikke medfører at brovaktalarmens funksjon forringes.
 
+1.2.
+
 AlarmfunksjonerAlarm skal utløses over to trinn.Første trinn skal utløses i styrehuset.Andre trinn skal utløses i styrehuset og i innredningen.Kort tid før alarmen utløses skal det varsles ved lyssignal at alarm vil bli utløst.
+
+1.3.
 
 Start
 
 Når brovaktalarmen er funksjonsklar skal det indikeres at brovaktalarmen er funksjonsklar. Feil på tilkoblinger til alarmhorn skal angis spesielt.
 
+2\.
+
 Installasjon
+
+2.1.
 
 Plassering av kontrollenhet
 
 Brovaktalarmen skal plasseres slik at den er godt synlig for ansvarshavende i styrehushuset.
 
+2.2.
+
 Antall alarmhorn
 
 Det skal monteres minst ett alarmhorn i styrehuset og minst ett alarmhorn i innredningen.
+
+2.3.
 
 Elektrisk tilkobling
 
 Til installasjon skal det alltid benyttes godkjent kabel for lavspent skipsbruk. Krafttilførsel skal tas fra en sikret kurs over hovedbryter for hovedmotor. Kabeldimensjon skal være i henhold til maksimum strømtrekk fra brovaktalarmen.
 
+2.4.
+
 Tilkobling
 
 Brovaktalarmen kobles slik at enheten alltid er tilkoblet spenning når fartøyets hovedmotor er i gang, eller når fartøyets propell er tilkoblet. Når brovaktalarmen er tilkoblet og funksjonsklar skal dette indikeres som beskrevet i 1.3.
+
+2.5.
 
 Programmering og funksjonskontroll
 
 Programmering av tidsintervall for alarmutløsning skal utføres av produsent / leverandør. Produsent/leverandør skal kontrollere installasjon og funksjonsteste brovaktalarmen etter programmering.
 
+3\.
+
 Vedlikehold
 
 Brovaktalarmen skal ikke trenge periodisk vedlikehold.
 
+4\.
+
 Informasjon om systemet
+
+4.1.
 
 Informasjon fra produsent/leverandør
 
 Fra produsent/leverandør skal følgende foreligge:Beskrivelse av virkemåte for systemet.Beskrivelse over alarmfunksjoner.Systemskisse av brovaktalarmsystemet som beskriver hvordan systemet er bygd opp med navn på de forskjellige komponenter.Bruksanvisning på norsk.
+
+4.2.
 
 Oppslag av bruksanvisning
 
@@ -1589,22 +1986,44 @@ Brovaktalarmens bruksanvisning skal enten slås opp om bord eller være lett til
 
 > Endret ved forskrift [6 des 2021 nr. 3415](forskrift/2021-12-06-3415) (i kraft 1 jan 2022, tidligere vedlegg 9).
 
+1\.
+
 Fartøy skal kunne motstå virkningen av vann på dekk, idet det tas hensyn til årstidsvariasjoner i sjø- og værforholdene der fartøyet skal operere, fartøytype og driftsmåte.
+
+2\.
 
 Vannansamling på dekk og i åpne rom
 
+2.1
+
 For fartøy som er arrangerte slik at vann kan samle seg i åpne brønner på værutsatt dekk, skal det i stabilitetsberegningene tas hensyn til virkningen av slik vannansamling, jf. tredje ledd.
+
+2.2
 
 For fartøy hvor luker og liknende åpninger periodevis må stå åpne under drift, skal det utføres beregninger av fartøyets stabilitet med vann i rommet eller rommene som kan fylles, dersom fyllingsvinkelen for den aktuelle åpningen er mindre enn 30 grader.
 
+3\.
+
 Fartøyets evne til å motstå krengende effekt på grunn av vannansamling på dekk og i åpne rom
+
+3.1
 
 Fartøyets evne til å motstå den krengende effekt på grunn av vann på dekk kan vises ved en kvasistatisk metode, med henvisning til figuren nedenfor, når følgende krav er tilfredsstilt med fartøyet i den ugunstigste brukstilstand:
 
+Forholdet Cv = [arealet b/arealet a] skal ikke være mindre enn 1.
+
+3.2
+
 Vinkelen som begrenser areal «b» skal være lik fyllingsvinkelen θf eller 40 grader dersom denne er mindre.
+
+3.3
 
 Verdien av det krengende moment Mv, eller den tilsvarende krengende arm, på grunn av vann på dekk skal bestemmes ved at man antar at dekksbrønnen er fylt til toppen av skansekledningen på dens laveste punkt, eller til fyllingspunktet 1 for et åpent rom, og fartøyet er krenget til den vinkel, θd, der dette [punkt](forskrift/2013-11-22-1404) er neddykket.
 
+3.4
+
 Kurven for det krengende moment, eller den tilsvarende krengende arm, avsluttes for den vinkel der skansekledningens laveste punkt eller fyllingspunktet neddykkes. Ved beregning av Mv skal følgende forutsetninger benyttes:Til å begynne med er fartøyet på rett kjøl.Under krengning er trim og deplasementene konstante og lik verdiene for fartøyet uten vann på dekk.Det skal ses bort fra effekten av lenseporter.Mv skal beregnes for et tilstrekkelig antall vinkler for hver dypgang og normalt bare for vannlinjer uten trim.
+
+4\.
 
 Andre metoder for beregning av virkningen av vann på dekk kan benyttes.

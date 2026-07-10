@@ -62,9 +62,21 @@ Fra samme tid oppheves [forskrift 17. februar 2006 nr. 262](forskrift/2006-02-17
 
 ## Forordninger
 
+*Forordning [(EF) nr. 273/2004](eu/32004r0273)*
+
+For å lese forordning [(EF) nr. 273/2004](eu/32004r0273) se her: [(pdf)](static/SF/32004r0273e.pdf)
+
 Engelsk versjon.
 
+*Forordning [(EF) nr. 1277/2005](eu/32005r1277)*
+
+For å lese forordning [(EF) nr. 1277/2005](eu/32005r1277) se her: [(pdf)](static/SF/32005r1277u.pdf)
+
 Uoffisiell versjon.
+
+*Forordning [(EU) nr. 1258/2013](eu/32013r1258)*
+
+For å lese forordning [(EU) nr. 1258/2013](eu/32013r1258) se her: [(pdf)](static/SF/32004r0273e.pdf)
 
 Engelsk versjon.
 

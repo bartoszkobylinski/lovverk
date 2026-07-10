@@ -54,4 +54,8 @@ Finanstilsynet fører tilsyn med overholdelse av bestemmelsene i denne loven og 
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 1. januar 2023 iflg. [res. 20 des 2022 nr. 2293](forskrift/2022-12-20-2293).
+
 ## § 6. Endringer i annen lov
+
+I [lov 17. juli 1998 nr. 56 om årsregnskap m.v.](lov/1998-07-17-56) gjøres følgende endringer: – – –

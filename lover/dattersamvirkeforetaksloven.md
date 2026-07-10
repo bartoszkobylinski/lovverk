@@ -41,3 +41,5 @@ Hvis styret ikke finner grunnlag for å foreslå tiltak som nevnt i annet ledd, 
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
 > Endret ved [lov 29 juni 2007 nr. 81](lov/2007-06-29-81) (ikr. 1 jan 2008 iflg. [res. 23 nov 2007 nr. 1287](forskrift/2007-11-23-1287)), tidligere § 2.
+
+1 Fra 1 juli 2004 iflg. [res. 11 juni 2004 nr. 835](forskrift/2004-06-11-835).

@@ -422,6 +422,8 @@ Ved oppløsning og avvikling gjelder bestemmelsene i [statsføretakslova §§ 8-
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
+1 Loven trådte ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1598](forskrift/2003-12-19-1598).
+
 ### § 38. (Opphevet)
 
 > Opphevet ved [lov 25 mars 2011 nr. 7](lov/2011-03-25-7) (ikr. 1 juli 2011 iflg. [res. 25 mars 2011 nr. 321](forskrift/2011-03-25-321)).

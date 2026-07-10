@@ -39,3 +39,5 @@ Offentlige rettigheter, konsesjoner og tillatelser som gjelder prosjekter som ut
 ## § 4. Ikrafttredelse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan fastsette overgangsregler.
+
+1 Fra 1 jan 2016 iflg. [res. 18 des 2015 nr. 1585](forskrift/2015-12-18-1585).

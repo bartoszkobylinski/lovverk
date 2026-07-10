@@ -139,11 +139,17 @@ Forskriften trer i kraft 1. februar 2008.
 
 Standardbestemmelsene kommer til anvendelse i de tilfeller som følger av forskriften [§ 11](forskrift/2008-01-09-50/§11).
 
+*Standardregler for representasjon*
+
+1\. *Rett til representasjon*
+
 (1) Arbeidstakerne i det fusjonerte selskapet, dets datterselskaper og filialer har rett til å velge, utpeke, anbefale eller gå i mot utpekingen av et antall medlemmer til administrasjons- eller kontrollorganet, eller deres komiteer eller i ledelsesgruppen som omfatter selskapets resultatenheter og som omfattes av arbeidstakernes representasjon i det fusjonerte selskapet tilsvarende den høyeste andel som ble anvendt i de fusjonerende selskapene før registreringen av det fusjonerte selskapet.
 
 (2) Dersom bestemmelsen i første ledd kommer til anvendelse etter forutgående forhandlinger, har arbeidstakerne likevel ikke rett til å velge så mange representanter til det fusjonerte selskapets administrasjons- eller kontrollorgan at arbeidstakernes representanter utgjør halvparten eller mer av det antall representanter organet skal bestå av.
 
 (3) Dersom ingen av de fusjonerende selskapene var omfattet av regler for representasjon før registreringen av det fusjonerte selskapet, skal det ikke pålegges å fastsette bestemmelser for arbeidstakernes representasjon.
+
+2\. *Fordeling av plasser til administrasjons- eller kontrollorganet*
 
 (1) Det særlige forhandlingsutvalget skal bestemme hvordan arbeidstakerrepresentantenes plasser i administrasjons- eller kontrollorganet skal fordeles, eller eventuelt fremgangsmåten for hvordan arbeidstakerne i det fusjonerte selskapet kan anbefale eller gå i mot utpekingen av medlemmer til administrasjons- eller kontrollorganet ut fra andelen arbeidstakere i hver EU/EØS-stat.
 
@@ -152,5 +158,7 @@ Standardbestemmelsene kommer til anvendelse i de tilfeller som følger av forskr
 (3) Plasser fordelt til Norge skal fordeles på de fusjonerende selskapene i fallende rekkefølge regnet etter antall arbeidstakere i den enkelte enhet. Valg av representanter skjer etter reglene i forskriften [§ 7](forskrift/2008-01-09-50/§7).
 
 (4) Dersom standardbestemmelsene kommer til direkte anvendelse etter beslutning fra de fusjonerende selskapene, skal det opprettes et særlig forhandlingsutvalg som skal ivareta oppgavene etter denne bestemmelsen.
+
+3\. *Arbeidstakerrepresentantenes status i administrasjons- eller kontrollorganet*
 
 Hvert medlem av administrasjons- eller kontrollorganet i det fusjonerte selskapet som er valgt, utpekt eller anbefalt av det særlige forhandlingsutvalget eller av arbeidstakerne skal være fullverdig medlem med samme rettigheter og forpliktelser som medlemmene som representerer aksjeeierne. Dette gjelder også i forhold til stemmerett.

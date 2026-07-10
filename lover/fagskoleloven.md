@@ -612,6 +612,8 @@ Retten til å få skrevet ut et nytt vitnemål for dem som har vitnemål som opp
 
 > Endret ved lov [22 juni 2018 nr. 85](lov/2018-06-22-85) (ikr. 1 aug 2018 iflg. [res. 22 juni 2018 nr. 946](forskrift/2018-06-22-946), tidligere § 43).
 
+1 Fra 1 juli 2018 iflg. [res. 8 juni 2018 nr. 826](forskrift/2018-06-08-826) med unntak av § 7 som trer i kraft 1 jan 2019.
+
 ### § 45. Endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i [lov 14. desember 2007 nr. 116](lov/2007-12-14-116) om studentsamskipnader: – – –

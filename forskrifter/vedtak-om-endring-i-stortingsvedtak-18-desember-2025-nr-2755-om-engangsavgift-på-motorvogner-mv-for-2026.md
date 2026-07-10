@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [stortingsvedtak 18. desember 2025 nr. 2755 om engangsavgift på motorvogner mv. for 2026](forskrift/2025-12-18-2755) vert det gjort følgjande endring:
+
+[§ 3 fyrste ledd bokstav b nr 2](forskrift/2025-12-18-2755/§3/ledd/1/bokstav/b/nummer/2) skal lyde:
+
 - CO2-utslippper g/kmkr0–100450101–150600over 1501 200
 
 ## II

@@ -370,6 +370,8 @@ Fra samme tidspunkt oppheves [lov 16. januar 1970 nr. 1 om folkeregistrering](lo
 
 Vedtak om utlevering av opplysninger fra Folkeregisteret truffet med hjemmel i [lov 16. januar 1970 nr. 1 om folkeregistrering](lov/1970-01-16-1), bortfaller ett år etter at denne loven trer i kraft. Dersom parten innen dette året har søkt om tilsvarende utlevering av opplysninger, gjelder vedtaket frem til registermyndigheten har truffet vedtak i saken.
 
+1 Fra 1 okt 2017 iflg. [res. 9 juni 2017 nr. 718](forskrift/2017-06-09-718), med unntak av [§ 10-1](lov/2016-12-09-88/§10-1) tredje ledd (ikr. fra den tid Kongen bestemmer). [§ 10-1](lov/2016-12-09-88/§10-1) tredje ledd trer i kraft 5 okt 2020 iflg. [res. 5 okt 2020 nr. 1960](forskrift/2020-10-05-1960).
+
 ### § 13-2. Endringer i andre lover
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:– – –

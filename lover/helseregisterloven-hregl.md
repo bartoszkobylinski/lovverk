@@ -388,6 +388,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 18
 
 Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til ulik tid.
 
+1 Fra 1 jan 2015 iflg. [res. 19 des 2014 nr. 1732](forskrift/2014-12-19-1732).
+
 ### § 33. Videreføring av forskrifter
 
 Forskrifter gitt i medhold av [lov 18. mai 2001 nr. 24](lov/2001-05-18-24) om helseregistre og behandling av helseopplysninger gjelder også etter at loven her har trådt i kraft. Dette gjelder selv om forskriften ikke har alle bestemmelser som kreves etter [§ 8](lov/2001-05-18-24/§8) fjerde ledd.

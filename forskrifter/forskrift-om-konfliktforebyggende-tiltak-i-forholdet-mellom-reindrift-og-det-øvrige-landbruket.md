@@ -74,6 +74,8 @@ Ved oversendelse til Statsforvalteren i Trøndelag bør det foreligge forslag om
 
 > Endret ved [forskrifter 19 des 2013 nr. 1602](forskrift/2013-12-19-1602) (i kraft 1 jan 2014), [1 juli 2015 nr. 832](forskrift/2015-07-01-832), [20 juni 2019 nr. 767](forskrift/2019-06-20-767) (i kraft 1 juli 2019, tidligere § 4), [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [22 juni 2021 nr. 2272](forskrift/2021-06-22-2272) (i kraft 1 juli 2021), [22 juni 2026 nr. 1174](forskrift/2026-06-22-1174) (i kraft 1 juli 2026).
 
+1 Jf. Meklingsråd i reinbeiteområde – retningslinjer av 4. september 1997.
+
 ## § 6. Innvilgningsmyndighet
 
 Statsforvalteren i Trøndelag avgjør søknader om tilskudd. Statsforvalteren står fritt i å oppnevne lokal oppfølgingsinstans, jf. [§ 5](forskrift/2008-06-19-707/§5).

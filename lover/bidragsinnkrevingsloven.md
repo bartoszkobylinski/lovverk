@@ -244,6 +244,8 @@ Loven får virkning også for saker der innkreving er igangsatt eller begjært i
 
 > Endret ved [lov 15 juni 2007 nr. 21](lov/2007-06-15-21).
 
+1 Fra 1 jan 2006 iflg. [res. 16 des 2005 nr. 1562](forskrift/2005-12-16-1562).
+
 ### § 38. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

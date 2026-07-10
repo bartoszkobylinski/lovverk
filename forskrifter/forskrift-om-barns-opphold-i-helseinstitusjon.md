@@ -198,6 +198,8 @@ Det er best for barnet dersom det i størst mulig grad kan forholde seg til det 
 
 ### Til § 6
 
+*Første ledd:*
+
 [Lov om pasient- og brukerrettigheter § 6-2](lov/1999-07-02-63/§6-2) om barns rett til samvær med foreldrene i helseinstitusjon lyder:
 
 «Barn har rett til samvær med minst en av foreldrene eller andre med foreldreansvaret under hele oppholdet i helseinstitusjon, med mindre dette er utilrådelig av hensyn til barnet, eller samværsretten er bortfalt etter reglene i barneloven eller barnevernloven».
@@ -206,11 +208,17 @@ Som oftest er det bare aktuelt at én av foreldrene er til stede under oppholdet
 
 Forholdene bør legges til rette slik at barnet kan ha minst en av sine foreldre hos seg ved innsovning og oppvåkning av narkose.
 
+*Annet ledd:*
+
 Det er viktig for alle parter at man enes om hva foreldrene skal gjøre under institusjonsoppholdet. En ledesnor kan være at foreldrene utfører de samme oppgaver som de gjør når barnet er hjemme, f.eks. stell, påkledning og mating.
 
 Det bør ikke overlates til foreldrene å utføre ting som oppleves skremmende eller smertefullt for barnet. Foreldre skal ikke tillegges ansvar og oppgaver som etter sin art bør utføres av helsepersonell, men gis anledning til å medvirke i behandlingen i den grad det er praktisk mulig og medisinsk forsvarlig. Det understrekes at foreldrenes bidrag er et supplement og ikke en erstatning for personalets innsats.
 
+*Tredje ledd:*
+
 Personalet må sørge for at de gir barnet omsorg og pleie selv om foreldrene er til stede. Personalet må overta foreldrenes oppgaver dersom foreldrene ønsker avlastning. Det er viktig å skape trygghet slik at barnet har det bra selv om foreldrene blir borte en stund.
+
+*Fjerde ledd:*
 
 Det er ofte en stor belastning for foreldre å ha barn innlagt i institusjon og å være hos dem under oppholdet. Derfor er det viktig at foreldrene har tilgang på et oppholdsrom hvor de kan være litt alene, hvile ut osv.
 
@@ -224,25 +232,41 @@ Utgangspunktet er at barn skal kunne motta besøk utenom vanlig besøkstid. Best
 
 ### Til § 8
 
+*Første ledd:*
+
 Dersom det av plasshensyn overhodet er mulig, skal en av foreldrene tilbys overnatting i institusjonen. Ofte vil det være aktuelt at foreldre og barn sover i samme rom.
 
 ### Til § 9
 
+*Første ledd:*
+
 Når ikke annet følger av forskriften, skal foreldre som besøker barnet i institusjonen gis anledning til å spise i personalets kantine til den pris personalet betaler, eller på avdelingen til samme pris.
+
+*Annet ledd:*
 
 I de situasjoner hvor foreldre på grunn av barnets sykdom er sammen med barnet i institusjonen store deler av døgnet for å kunne ha tilsyn med barnet og delta i den daglige pleie og omsorg, skal minst én av foreldrene få gratis mat i institusjonen. Det er her tatt sikte på å støtte foreldre som oppholder seg så mye sammen med barnet i institusjonen at de ikke har anledning til å reise hjem eller spise andre steder.
 
 ### Til § 10
 
+*Første ledd:*
+
 Ledsagers reiseutgifter i forbindelse med innleggelse og utskrivning dekkes av det regionale helseforetaket i barnets bostedsregion, jf. [syketransportforskriften § 15](forskrift/2008-07-04-788/§15). Inntil et barn fyller 16 år har barnet samme bostedsregion som foreldrene eller som den av foreldrene barnet lever hos eller senest levde hos, jf. [spesialisthelsetjenesteloven § 5-1](lov/1999-07-02-61/§5-1).
 
+*Annet ledd:*
+
 Bestemmelsen regulerer foreldrenes rett til å få dekket reiseutgifter i de tilfeller som er nevnt. Dekningen av reiseutgiftene følger reglene i [pasient- og brukerrettighetsloven § 2-6](lov/1999-07-02-63/§2-6) og syketransportforskriften. Utgiftene skal dekkes etter reglene som gjelder for pasienten, jf. [syketransportforskriften § 9](forskrift/2008-07-04-788/§9).
+
+*Tredje ledd:*
 
 Bestemmelsen regulerer de tilfeller hvor barn er innlagt i helseinstitusjon over lengre tid. Når foreldrene oppholder seg i institusjonen sammen med barnet, skal de etter 14 dagers liggetid gis rett til å få dekket en persons utgifter til reise mellom institusjonen og hjemmet en gang i uken. Dette gjelder foreldre til alle barn under 18 år. Utgiftene dekkes etter reglene som gjelder for pasienten, jf. [syketransportforskriften § 9](forskrift/2008-07-04-788/§9).
 
 ### Til § 11
 
+*Første ledd:*
+
 Bestemmelsen viser til at kompensasjon for tapt arbeidsfortjeneste til nødvendig ledsager under reise ved barns sykdom kan kreves etter reglene i [syketransportforskriften § 10](forskrift/2008-07-04-788/§10). Som hovedregel kan arbeidsgodtgjørelse i form av erstatning for tapt arbeidsinntekt gis med inntil kr 80,- per time. Arbeidsgodtgjørelse gis bare for åtte timer per døgn.
+
+*Annet ledd:*
 
 Bestemmelsen viser til relevante bestemmelser i [folketrygdloven kapittel 9](lov/1997-02-28-19/kap9).
 

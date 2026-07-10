@@ -26,6 +26,10 @@ eu_basis: []
 
 Utleggsforretning om utlegg ved lønnstrekk o.l. etter § 2-7 i [lov om fordringshavernes dekningsrett](lov/1984-06-08-59/§2-7) kan holdes på namsmannens kontor på det sted hvor utlegg søkes.
 
+1 Forskriften ble opphevet av [forskrift 4. desember 1992 nr. 899](forskrift/1992-12-04-899). Forskriften §§ 1 og 2 gjelder likevel fortsatt for saker som skal behandles etter [lov 13 august 1915 nr 7](lov/1915-08-13-7) om tvangsfullbyrdelse.
+
 ## § 2.1
 
 Seinest samtidig med at saksøkte varsles om berammelsen i utleggsforretningen, skal saksøkte med kjent oppholdssted i Norge få tilsendt et eksemplar av utleggsbegjæringen og gis høve til å uttale seg innen en nærmere angitt frist.
+
+1 Forskriften ble opphevet av [forskrift 4. desember 1992 nr. 899](forskrift/1992-12-04-899). Forskriften §§ 1 og 2 gjelder likevel fortsatt for saker som skal behandles etter [lov 13 august 1915 nr 7](lov/1915-08-13-7) om tvangsfullbyrdelse.

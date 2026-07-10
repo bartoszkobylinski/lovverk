@@ -60,7 +60,32 @@ Forskriftene trer i kraft fra 1. januar 1960.
 
 ## Fortegnelse over førstehjelpsutstyret.
 
-De angitte mengder er beregnet på fartøyer med inntil 50 personer ombord. Er antallet personer (besetning og passasjerer) større enn 50, skal mengden av forbindingssaker økes tilsvarende.Enkeltmannspakninger, små2 stk.Enkeltmannspakninger, store2 stk.Gas, steril à 1/4 m2 stk.Gas, steril à 1/2 m2 stk.Gasbind, 6 cm2 stk.Gasbind, 8 cm2 stk.Gasbind, 10 cm2 stk.Renset bomull à 25 g1 pk.Sårplaster 6 cm x 1 m (eller ferdige oppklippete strimler)1 pk.Heftplaster 2,5 cm x 5 m1 pk.Guttaperkapapir1/2 mTriangelbind (Esmarchs tørklær)1 stk.Flytende sårrensemiddel (Pyrisept, Benzalkoniumklorid e.l.)300 mlSårpulver i strøbokser à 10 g (Neomycin, sulf. 5 mg, Bacitracin 250 enh. Sacch. lact. anhydr. ad 1 g e.l.)1 stk.Brannsalve (Ung. benzocaini comp.) i tuber à 30 ml2 stk.Steril vaselin i tuber à 50 ml2 stk.Jodoppløsning 5 prosent20 mlJodbensin200 mlRustfri saks1 stk.Rustfri pinsett1 stk.Sikkerhetsnåler1 eskeFørstehjelpshåndbok1 stk.
+De angitte mengder er beregnet på fartøyer med inntil 50 personer ombord. Er antallet personer (besetning og passasjerer) større enn 50, skal mengden av forbindingssaker økes tilsvarende.
+
+|  |  |
+| --- | --- |
+| Enkeltmannspakninger, små | 2 stk. |
+| Enkeltmannspakninger, store | 2 stk. |
+| Gas, steril à 1/4 m | 2 stk. |
+| Gas, steril à 1/2 m | 2 stk. |
+| Gasbind, 6 cm | 2 stk. |
+| Gasbind, 8 cm | 2 stk. |
+| Gasbind, 10 cm | 2 stk. |
+| Renset bomull à 25 g | 1 pk. |
+| Sårplaster 6 cm x 1 m (eller ferdige oppklippete strimler) | 1 pk. |
+| Heftplaster 2,5 cm x 5 m | 1 pk. |
+| Guttaperkapapir | 1/2 m |
+| Triangelbind (Esmarchs tørklær) | 1 stk. |
+| Flytende sårrensemiddel (Pyrisept, Benzalkoniumklorid e.l.) | 300 ml |
+| Sårpulver i strøbokser à 10 g (Neomycin, sulf. 5 mg, Bacitracin 250 enh. Sacch. lact. anhydr. ad 1 g e.l.) | 1 stk. |
+| Brannsalve (Ung. benzocaini comp.) i tuber à 30 ml | 2 stk. |
+| Steril vaselin i tuber à 50 ml | 2 stk. |
+| Jodoppløsning 5 prosent | 20 ml |
+| Jodbensin | 200 ml |
+| Rustfri saks | 1 stk. |
+| Rustfri pinsett | 1 stk. |
+| Sikkerhetsnåler | 1 eske |
+| Førstehjelpshåndbok | 1 stk. |
 
 ## Kort veiledning om bruk av førstehjelpsutstyret.
 

@@ -126,6 +126,8 @@ Disse forskrifter1 trer i kraft 1. januar 1986.
 
 > Endret ved [forskrift 25 juni 2010 nr. 978](forskrift/2010-06-25-978), dette var imidlertid en inkurie som ble opphevet ved [forskrift 20 aug 2010 nr. 1203](forskrift/2010-08-20-1203).
 
+1 Opphever [forskrift 1 nov 1983 nr. 2121](forskrift/1983-11-01-2121).
+
 ## Merknader til forskriftsendringene 22. juni 2001 nr. 674.
 
 ### Til § 1 tredje og fjerde ledd:

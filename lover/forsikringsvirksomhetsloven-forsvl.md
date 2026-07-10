@@ -212,6 +212,8 @@ Foretaket kan anvende kjønn som faktor ved beregning av pris for dekning av ris
 
 > Tilføyd ved [lov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 4 juni 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), endret ved lover [20 juni 2014 nr. 29](lov/2014-06-20-29) (ikr. 1 jan 2015, se endringslovens XIX), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 9-3a).
 
+1 Jf. [EØS-avtalen vedlegg XVIII](avtale/avt-1992-05-02-1-v18) nr. 21c (direktiv [2004/113](eu/32004l0113) art. 5).
+
 ### § 3-5. Endring av pristariffer
 
 Foretaket kan endre sine pristariffer, og skal i så fall fastsette fra hvilket tidspunkt de nye tariffene skal gjelde.
@@ -1041,6 +1043,8 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 Fra den tid loven trer i kraft oppheves [lov 10. juni 1988 nr. 39](lov/1988-06-10-39) om forsikringsvirksomhet.
 
 > Endret ved lover [30 juni 2006 nr. 40](lov/2006-06-30-40) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 774](forskrift/2006-06-30-774)), [10 apr 2015 nr. 17](lov/2015-04-10-17) (ikr. 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350), tidligere § 17-3).
+
+1 Fra 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776).
 
 ### § 10-2. Overgangsregler
 

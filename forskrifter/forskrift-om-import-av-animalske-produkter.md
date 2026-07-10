@@ -47,3 +47,7 @@ Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og
 ## § 6. Ikrafttredelse
 
 Denne forskriften trer i kraft straks. Samtidig oppheves [forskrift 30. desember 2002 nr. 1842](forskrift/2002-12-30-1842) om særskilte beskyttelsestiltak ved privat innførsel av kjøtt, kjøttprodukter, melk og melkeprodukter fra land utenfor EØS-området.
+
+Nedenfor gjengis EØS-avtalen vedlegg I kapittel I del 1.2 nr. 127 (forordning [(EF) nr. 745/2004](eu/32004r0745*)) slik Mattilsynet tolker denne del av EØS-avtalen med de endringer og tillegg som følger av EØS-tilpasningen av vedkommende rettsakt i henhold til avtalens protokoll 1 mv.:
+
+Se her for å lese forordning [(EF) nr. 745/2004](eu/32004r0745*): [(pdf)](static/SF/32004r0745.pdf)

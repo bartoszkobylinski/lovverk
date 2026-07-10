@@ -102,11 +102,26 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som catchvekten
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre<br>temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre<br>temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C |
+
 > Endret ved forskrifter [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023), [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
 ### § 11. Elektromagnetisk miljø
 
-Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.*Tabell 2*E1Denne klassen omfatter catchvekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende de man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.E2Denne klassen omfatter catchvekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende de man kan finne i andre industribygg.E3Denne klassen omfatter catchvekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt tilleggskrav til toleranse for til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme.
+Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter catchvekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende de man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter catchvekter som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende de man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter catchvekter som får strøm fra batteriet i et kjøretøy. Slike vekter skal oppfylle kravene for E2 samt tilleggskrav til toleranse for til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -230,6 +245,19 @@ Catchvektene inndeles i hovedkategorier betegnet X eller Y henhold til produsent
 
 Følgende nøyaktighetsklasser skal anvendes til følgende type veiing:
 
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| *XI* | Benyttes der det er behov for svært god nøyaktighet. |
+| *XII* | Benyttes der det er behov for god nøyaktighet. |
+| *XIII* | Benyttes ved veiing av ferdig bearbeidede produkter og lignende handelstransaksjoner. |
+| *XIV* | Vil bli vurdert av Justervesenet i hvert enkelt tilfelle. |
+| *Y(I)* | Benyttes der det er behov for svært god nøyaktighet. |
+| *Y(II)* | Benyttes der det er behov for god nøyaktighet. |
+| *Y(a)* | Benyttes ved veiing av ferdig bearbeidede produkter og lignende handelstransaksjoner. For eksempel merkevekter/prismerkevekter. |
+| *Y((b)* | Benyttes ved beregning av frakt, tariff, etc. I tillegg kan de benyttes til veiing av sand, singel, malm, avfall og andre prislignende varer. For eksempel søppelbilvekter og hjullastervekter. |
+
 ### § 29. Catchvekter i kategori X
 
 Kategori X omfatter catchvekter som brukes til å kontrollere ferdigpakkede produkter framstilt i samsvar med kravene i [forskrift 16. juni 2021 nr. 2130 om krav til nettoinnhold i ferdigpakninger](forskrift/2021-06-16-2130).
@@ -246,19 +274,76 @@ Kategori Y omfatter alle andre catchvekter for automatisk veiing.
 
 Tabell 4 viser maksimal tillatt gjennomsnittlig feil for klasse X og maksimal tillatt feil for klasse Y.
 
+*Tabell 4*
+
+| *Belastning (m) uttrykt i minstedelinger (e)* |  |  |  |  |  |  |  | *Maksimal tillatt gjennomsnittlig feil for klasse X* |  | *Maksimal tillatt feil for klasse Y* |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| *XI* | *Y(I)* | *XII* | *Y(II)* | *XIII* | *Y(a)* | *XIV* | *Y(b)* | Ved<br>salg | Ved kontroll under bruk | Ved<br>salg | Ved kontroll under bruk |
+| 0 < m ≤ 50 000 |  | 0 < m ≤ 5 000 |  | 0 < m ≤ 500 |  | 0 < m ≤ 50 |  | ± 0,5 e | ± 1,0 e | ± 1 e | ± 2 e |
+| 50 000 < m ≤ 200 000 |  | 5 000 m ≤ 20 000 |  | 500 < m ≤ 2 000 |  | 50 < m ≤ 200 |  | ± 1,0 e | ± 2,0 e | ± 1,5 e | ± 3 e |
+| 200 000 < m |  | 20 000 < m ≤ 100 000 |  | 2 000 < m ≤ 10 000 |  | 200 < m ≤ 1 000 |  | ± 1,5 e | ± 3,0 e | ± 2 e | ± 4 e |
+
 Maksimalt tillatt standardavvik for en catchvekt i klasse X (x) er resultatet av multiplikasjonen med faktoren (x) og verdien i tabell 5 under.
+
+*Tabell 5*
+
+| *Maksimalt tillatt standardavvik for klasse X(1)* |  |  |
+| --- | --- | --- |
+| *Belastningen m uttrykt som masse*<br>*(g)* | *Ved salg* | *Ved kontroll under bruk* |
+| m ≤ 50 g | 0,48 % | 0,6 % |
+| 50 g < m ≤ 100 g | 0,24 g | 0,3 g |
+| 100 g < m ≤ 200 g | 0,24 % | 0,3 % |
+| 200 g < m ≤ 300 g | 0,48 g | 0,6 g |
+| 300 g < m ≤ 500 g | 0,16 % | 0,2 % |
+| 500 g < m ≤ 1 000 g | 0,8 g | 1,0 g |
+| 1 000 g < m ≤ 10 000 g | 0,08 % | 0,1 % |
+| 10 000 g < m ≤ 15 000 g | 8 g | 10 g |
+| 15 000 g < m | 0,053 % | 0,067 % |
 
 For klasse XI og XII skal (x) være mindre enn 1. For klasse XIII skal (x) ikke være større enn 1. For klasse XIV skal (x) være større enn 1.
 
 Tabell 6 viser Minstedelinger – enskalavekter.
 
+*Tabell 6*
+
+| *Antall minstedelinger*<br>*n = Maks/e* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Nøyaktighetsklasser* |  | *Minstedeling* | *Minimumsverdi*<br>*n = Maksi /e(i+1)* | *Maksimumsverdi*<br>*n = Maksi /i* |
+| XI | Y(I) | 0,001 g ≤ e | 50 000 | – |
+| XII | Y(II) | 0,001 g ≤ e ≤ 0,05 g | 100 | 100 000 |
+| XII | Y(II) | 0,1 g ≤ e | 5 000 | 100 000 |
+| XIII | Y(a) | 0,1 g ≤ e ≤ 2 g | 100 | 10 000 |
+| XIII | Y(a) | 5 g ≤ e | 500 | 10 000 |
+| XIV | Y(b) | 5 g ≤ e | 100 |  |
+
 Tabell 7 viser Minstedelinger – flerskalavekter, der i = 1, 2, .. r, i = delvis veieintervall og r = samlet antall delveieområder. For minimumsverdi gjelder tilsvarende kolonne i tabell 6 med e erstattet med er for i = r.
+
+*Tabell 7*
+
+| *Antall minstedeling*<br>*n = Maks/e* |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Nøyaktighetsklasser* |  | *Minstedeling* | *Minimumsverdi*<br>*n = Maksi /e(i+1)* | *Maksimumsverdi*<br>*n = Maksi /ei* |
+| XI | Y(I) | 0,001 g ≤ ei | 50 000 | – |
+| XII | Y(II) | 0,001 g ≤ ei ≤ 0,05 g | 5 000 | 100 000 |
+| XII | Y(II) | 0,1 g ≤ ei | 5 000 | 100 000 |
+| XIII | Y(a) | 0,1 g ≤ ei | 500 | 10 000 |
+| XIV | Y(b) | 5 g ≤ ei | 50 | 1 000 |
 
 > Endret ved forskrifter [21 des 2022 nr. 2508](forskrift/2022-12-21-2508) (i kraft 1 jan 2023), [12 des 2024 nr. 3135](forskrift/2024-12-12-3135) (i kraft 1 jan 2025).
 
 ### § 32. Måleområder
 
 Ved angivelse av måleområder for catchvekter i klasse Y skal produsenten ta hensyn til at minimum kapasitet ikke skal være mindre enn angitt i tabell 8.
+
+*Tabell 8*
+
+|  |  |
+| --- | --- |
+| klasse Y(I): | 100 e |
+| klasse Y(II): | 20 e for 0,001 g ≤ e ≤ 0,05 g, og 50 e for 0,1 g ≤ e |
+| klasse Y(a): | 20 e |
+| klasse Y(b): | 10 e |
+| Vekter som benyttes til sortering, f.eks. postvekter og søppelbilvekter | 5 e |
 
 ### § 33. Dynamisk innstilling
 

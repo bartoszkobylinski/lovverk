@@ -24,17 +24,15 @@ eu_basis: []
 
 ## I
 
-Formålet med utdanningen er å utdanne kvalifiserte profesjonsutøvere som kan bistå enkeltpersoner, familier eller grupper med å forebygge, redusere og mestre sosiale og helsemessige utfordringer. Sosionomutdanningen er en akademisk og praksisorientert utdanning i sosialt arbeid med profesjonsspesifikke arbeidsmåter basert på forsknings-, erfarings- og brukerkunnskap, og egne yrkesetiske standarder. Sosialt arbeid er et internasjonalt fag som springer ut av en forståelse av at mennesker aktivt og relasjonelt kan forholde seg til sine medmennesker og samfunnet de lever i. FNs konvensjoner og bærekraftmål er sentrale i sosialt arbeid.
+I [forskrift 4. juli 2025 nr. 1465 om nasjonal retningslinje for sosionomutdanning](forskrift/2025-07-04-1465) gjøres følgende endringer:
 
-Kandidaten skal ha en helhetlig forståelse av sammenhengen mellom individuelle utfordringer og den samfunnsmessige konteksten slike problemer oppstår i, og skal arbeide med å synliggjøre og motvirke strukturer i samfunnet som skaper sosial ulikhet og svekker menneskers livsvilkår og deltakelse. Faget retter seg mot arbeid med mennesker i alle aldre og livsfaser.
+[§ 2](forskrift/2025-07-04-1465/§2) skal lyde:
 
-Kandidaten skal kunne arbeide med sosiale og mellommenneskelige relasjoner og utfordringer på individ-, familie-, gruppe- og samfunnsnivå og skape grunnlag for dialog, medvirkning og samhandling. Kandidaten skal kunne arbeide for å fremme sosial inkludering og verdige livs- og oppvekstsvilkår i samarbeid med mennesker og ved å synliggjøre og påvirke rammebetingelser. I dette inngår oppfølgings- og endringsarbeid, forvaltning, administrasjon, planarbeid, formidling, undervisning og tverrprofesjonelt samarbeid hvor sosionomen ofte har en koordinerende rolle. Kompetansen vil være relevant for arbeid innenfor et bredt spekter av helse-, omsorgs- og velferdstjenester, særlig Nav, barnevern, rus og psykisk helse.
-
-Utdanningen skal gi kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant samers status som urfolk og deres rettigheter til språklige og kulturelt tilrettelagte tjenester.
-
-Fullført utdanning gir tittelen sosionom.
+[§ 3 andre ledd](forskrift/2025-07-04-1465/§3/ledd/2) skal lyde:
 
 Læringsutbyttebeskrivelsene i [§ 4 b](forskrift/2025-07-04-1465/§4/bokstav/b)–[h](forskrift/2025-07-04-1465/§4/bokstav/h) og [i](forskrift/2025-07-04-1465/§4/bokstav/i), [§ 5 a](forskrift/2025-07-04-1465/§5/bokstav/a), [b](forskrift/2025-07-04-1465/§5/bokstav/b), [d](forskrift/2025-07-04-1465/§5/bokstav/d)–[f](forskrift/2025-07-04-1465/§5/bokstav/f), [§ 6 a](forskrift/2025-07-04-1465/§6/bokstav/a), [c](forskrift/2025-07-04-1465/§6/bokstav/c) og [e](forskrift/2025-07-04-1465/§6/bokstav/e), [§ 7 c](forskrift/2025-07-04-1465/§7/bokstav/c) og [e](forskrift/2025-07-04-1465/§7/bokstav/e)–[m](forskrift/2025-07-04-1465/§7/bokstav/m), [§ 8 d](forskrift/2025-07-04-1465/§8/bokstav/d), [e](forskrift/2025-07-04-1465/§8/bokstav/e), [g](forskrift/2025-07-04-1465/§8/bokstav/g)–[k](forskrift/2025-07-04-1465/§8/bokstav/k), [n](forskrift/2025-07-04-1465/§8/bokstav/n) og [o](forskrift/2025-07-04-1465/§8/bokstav/o), [§ 9 a](forskrift/2025-07-04-1465/§9/bokstav/a), [c](forskrift/2025-07-04-1465/§9/bokstav/c), [e](forskrift/2025-07-04-1465/§9/bokstav/e), [f](forskrift/2025-07-04-1465/§9/bokstav/f), [h](forskrift/2025-07-04-1465/§9/bokstav/h) og [i](forskrift/2025-07-04-1465/§9/bokstav/i) er basert på [forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2](forskrift/2025-07-04-1478/§2), og tilpasset sosionomutdanningen.
+
+[§ 4 bokstav c](forskrift/2025-07-04-1465/§4/bokstav/c), [d](forskrift/2025-07-04-1465/§4/bokstav/d), [e](forskrift/2025-07-04-1465/§4/bokstav/e), [f](forskrift/2025-07-04-1465/§4/bokstav/f), [g](forskrift/2025-07-04-1465/§4/bokstav/g), [h](forskrift/2025-07-04-1465/§4/bokstav/h), [i](forskrift/2025-07-04-1465/§4/bokstav/i) og [j](forskrift/2025-07-04-1465/§4/bokstav/j) skal lyde:
 
 1. har bred kunnskap om hvilken betydning levekår, helse, utdanning, arbeid, bolig, sosial inkludering og aktiv deltakelse i ulike livs- og overgangsfaser har for individ, familie og samfunn
 2. har bred kunnskap om forvaltningsrett og rettslig regulering innen helse- og velferdstjenestene, herunder [barnevernsloven](lov/2021-06-18-97), [sosialtjenesteloven](lov/2009-12-18-131) og [helse- og omsorgstjenesteloven](lov/2011-06-24-30)
@@ -45,46 +43,72 @@ Læringsutbyttebeskrivelsene i [§ 4 b](forskrift/2025-07-04-1465/§4/bokstav/b)
 7. har kunnskap om menneskerettigheter og sentrale konvensjoner og kunnskap om samenes rettigheter og særskilte status som urfolk
 8. har kunnskap om samfunnsvitenskapelig metode og vitenskapsteoretiske posisjoner.
 
+[§ 5 bokstav a](forskrift/2025-07-04-1465/§5/bokstav/a) skal lyde:
+
 1. kan anvende forsknings-, erfarings- og brukerbasert kunnskap i profesjonsutøvelsen
+
+[§ 5 bokstav d](forskrift/2025-07-04-1465/§5/bokstav/d) skal lyde:
 
 1. kan identifisere rettslige spørsmål, opplyse om rettigheter og plikter, anvende aktuelle rettsregler og utøve juridisk og sosialfaglig skjønn
 
+[§ 5 bokstav e](forskrift/2025-07-04-1465/§5/bokstav/e) og [f](forskrift/2025-07-04-1465/§5/bokstav/f) skal lyde:
+
 1. kan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud
 2. kan tilegne seg ny kunnskap og kan foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis, og kan dokumentere og formidle sine faglige vurderinger.
+
+[§ 6 bokstav b](forskrift/2025-07-04-1465/§6/bokstav/b), [c](forskrift/2025-07-04-1465/§6/bokstav/c) og [d](forskrift/2025-07-04-1465/§6/bokstav/d) skal lyde:
 
 1. har innsikt i maktstrukturer, maktutøvelse i samfunnet og forholdet mellom urfolksperspektiver, majoritets- og minoritetsperspektiver
 2. har innsikt i politiske og administrative beslutningsprosesser og hvordan sosionomer kan bidra til allmenn opplysning og politisk rådgivning og påvirkningsarbeid
 3. har innsikt i forhold som bidrar til ulikhet, og kan fremme sosial rettferdighet for minoritetsgrupper og mennesker i utsatte posisjoner
 
+[§ 7 bokstav c](forskrift/2025-07-04-1465/§7/bokstav/c) skal lyde:
+
 1. har bred kunnskap om kommunikasjon, relasjon, samhandling og veiledning, og hvordan redusere språklige barrierer i relasjonell samhandling
+
+[§ 7 bokstav e](forskrift/2025-07-04-1465/§7/bokstav/e), [f](forskrift/2025-07-04-1465/§7/bokstav/f), [g](forskrift/2025-07-04-1465/§7/bokstav/g) og [h](forskrift/2025-07-04-1465/§7/bokstav/h) skal lyde:
 
 1. har bred kunnskap om omsorgskompetanse og ulike former for omsorgssvikt
 2. har kunnskap om samiske barns rett som urfolk til å vokse opp med samisk språk og kultur
 3. har kunnskap om ulike former for vold, fysiske, psykiske og seksuelle overgrep, og hvordan vold og overgrep kan komme til uttrykk
 4. har kunnskap om forhold som regulerer norsk arbeidsliv og arbeidets betydning for helse, velferd og inkludering
 
+[§ 7 bokstav j](forskrift/2025-07-04-1465/§7/bokstav/j), [k](forskrift/2025-07-04-1465/§7/bokstav/k), [l](forskrift/2025-07-04-1465/§7/bokstav/l) og [m](forskrift/2025-07-04-1465/§7/bokstav/m) skal lyde:
+
 1. har kunnskap om inkludering, likestilling og ikke-diskriminering uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder
 2. har kunnskap om forebygging og folkehelse, og forstår samspillet mellom helse, bolig, sosiale problemer og samfunnsutvikling.
 3. har kunnskap om samfunnsarbeid og kollektive medvirkningsprosesser
 4. har kunnskap om sentrale problemområder som arbeidsledighet, fattigdom, bosituasjon, rus og avhengighet, traumer og psykiske vansker, funksjonsnedsettelser, helseutfordringer og andre forhold som kan bidra til marginalisering og utenforskap
 
+[§ 7 ny bokstav n](forskrift/2025-07-04-1465/§7/bokstav/n) skal lyde:
+
 1. har kunnskap om økonomisk rådgivning for å forebygge og avhjelpe gjelds- og privatøkonomiske problemer.
 
+[§ 8](forskrift/2025-07-04-1465/§8) skal lyde:
+
 Kandidatenkan anvende faglig kunnskap om sosiale problemer, overganger og livskriser for å forebygge utenforskap og fremme mestring og endring i samarbeid med enkeltpersoner, familier, grupper og samarbeidspartnerekan anvende ulike metodiske tilnærminger på individ-, gruppe- og samfunnsnivå innenfor ulike tjenesteområderkan anvende faglig kunnskap om relasjon og kommunikasjon i veiledning, motivasjons- og endringsarbeid og veilede brukere, pasienter, pårørende og fagpersonerkan anvende faglig kunnskap om arbeidsrettet inkludering i møte med arbeidssøkere, arbeidsgivere og samarbeidspartnerekan anvende faglig kunnskap for å identifisere og mobilisere ressurser og, i samarbeid med mennesker i sårbare livssituasjoner bidra til å skape håpkan anvende metoder i familie- og nettverksarbeid og tidlig innsatskan anvende faglig kunnskap og metoder for medvirkning og samarbeid med barn, unge, foreldre, og foresatte om hverdagsliv og om vanskelige tema på en måte som ivaretar deres interesser og rettigheter og sikrer barnets bestekan anvende faglig kunnskap for å vurdere og avklare bekymringsmeldinger og undersøke omsorgssituasjonen til barn og unge og iverksette, følge opp, koordinere og evaluere tiltakkan anvende faglig kunnskap og arbeide tverrfaglig i møte med mennesker som utøver og utsettes for vold og overgrepkan samtale med barn om tema som omsorgssvikt, vold og overgrepkan vurdere og sette inn tiltak som forebygger og reduserer konsekvensene av vold, overgrep og omsorgssvikt, overfor barn og voksne i alle aldrekan beherske digitale verktøy og reflektere over faglige og etiske perspektiver knyttet til anvendelsen av disse i sosialt arbeidkan beherske metoder i samfunnsarbeid som fremmer makt, innflytelse, deltakelse og representasjonkan beherske aktuelle metoder for kartlegging, dokumentasjon, analyse og beslutningstaking, og ta hensyn til ulike språklige barrierer i kommunikasjon og formidlingkan reflektere over, håndtere og redusere uønskede hendelser og konfliktsituasjoner i sitt arbeidkan reflektere over og anvende kunnskap som bidrar til et likeverdig tjenestetilbud for samiske brukere.
+
+[§ 9 bokstav c](forskrift/2025-07-04-1465/§9/bokstav/c) og [d](forskrift/2025-07-04-1465/§9/bokstav/d) skal lyde:
 
 1. har innsikt i forhold som bidrar til rasisme og diskriminering, og hvordan fremme ikke-diskriminerende praksis og et inkluderende samfunn
 2. kan utvise dømmekraft i situasjoner med mangelfull og/eller motstridende informasjon og identifisere mulighetsrom innen ulike profesjonelle og institusjonelle kontekster
 
+[§ 9 bokstav f](forskrift/2025-07-04-1465/§9/bokstav/f) skal lyde:
+
 1. kan planlegge, gjennomføre og koordinere tverrprofesjonelt samarbeid mellom ulike tjenester og tjenestenivåer
+
+[§ 9 bokstav h](forskrift/2025-07-04-1465/§9/bokstav/h) og [i](forskrift/2025-07-04-1465/§9/bokstav/i) skal lyde:
 
 1. kan formidle faglig kunnskap som fremmer likeverd og mangfold og bidrar til likestilling, inkludering, mestring og deltakelse i hverdag, skole, fritid og arbeidsliv
 2. kjenner til menneskers ulike utgangspunkt og sårbarhet, verdier, livssyn, kultur og levemåter.
+
+[§ 10 andre](forskrift/2025-07-04-1465/§10/ledd/2) og [tredje ledd](forskrift/2025-07-04-1465/§10/ledd/3) skal lyde:
 
 Utdanningen skal ha en oppbygging som bidrar til progresjon gjennom studiet. Første studieår er i hovedsak et innføringsår der studenten får kjennskap til sentrale teorier, samt rammer og problemområder i faget. Videre i studiet skal studenten få kunnskap om spesifikke fagområder og faglige problemstillinger og vurderinger, og de skal beherske å reflektere kritisk over egen profesjon og profesjonsutøvelse. I løpet av studiet skal studenten få anledning til å fordype seg i arbeid enten med en utvalgt målgruppe eller en særskilt metodisk tilnærming. Studiet skal tilrettelegges slik at studenten får trening i praktiske ferdigheter og utfordres på egne holdninger og forforståelser.
 
 Sentralt i profesjonsutøvelsen for sosionomer er kommunikasjon og samhandling med barn, unge, voksne og eldre med ulike livsutfordringer. Dette krever at studenten får ferdighetstrening i metodiske tilnærminger for kommunikasjon, samhandling og kunnskapsbasert praksis. Ferdighetstrening skal foregå i mindre grupper i flere perioder gjennom studiet, under veiledning av fagansatte fortrinnsvis med egen profesjonsbakgrunn. Gjennom prosessuell simuleringstrening skal studenten få trening i relasjonsarbeid og gis opplæring i modeller for samhandling med barn, voksne, familie, nettverk og grupper, samt kritisk refleksjon over makt og avmakt i profesjonell yrkesutøvelse. Studenten skal også kunne knytte ferdighetene til sentrale kompetanseområder i faget.
 
-Praksisstudier bør ha et omfang på 24 uker hvor minimum 20 uker skal være i autentiske yrkessituasjoner. Praksisstudiene skal utformes slik at de sikrer at læringsutbyttet oppnås. I praksisstudiene skal studenten få erfaring med å etablere kontakt, utrede/undersøke, vurdere og fatte beslutninger i samarbeid med de som kommer i kontakt med tjenestene. Videre skal studenten delta i samarbeidsmøter, koordinering av tjenester og tverrfaglig samarbeid på individ- og tjenestenivå. Studenten bør så langt det er mulig få erfaring fra to ulike praksisfelt. Forvaltningserfaring bør være en del av praksisstudiene. I tillegg til ordinære praksisstudier kan det legges til rette for observasjonspraksis og feltstudier i ulike deler av praksisfeltet.
+[§ 11](forskrift/2025-07-04-1465/§11) skal lyde:
 
 ## II
 

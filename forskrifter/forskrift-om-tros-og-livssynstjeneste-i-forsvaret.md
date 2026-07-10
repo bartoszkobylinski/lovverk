@@ -57,3 +57,5 @@ Departementet kan foreta justeringer eller mindre endringer i denne forskriften.
 ## § 7. Ikrafttredelse
 
 Forskrift om tros- og livssynstjeneste i Forsvaret trer i kraft fra den tid departementet bestemmer.1 Fra samme tidspunkt oppheves Tjenesteordning [10. april 2015 nr. 369](forskrift/2015-04-10-369) for feltprester.
+
+1 I kraft 15 februar 2019 ved [vedtak 7 feb 2019 nr. 111](forskrift/2019-02-07-111).

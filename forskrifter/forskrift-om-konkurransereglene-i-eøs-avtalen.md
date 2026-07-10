@@ -142,10 +142,76 @@ Forordning [(EU) nr. 461/2010](eu/32010r0461), som inntatt i EØS-avtalen vedleg
 
 Nedenfor gjengis til informasjon:
 
+[EØS-avtalen vedlegg XIV](avtale/avt-1992-05-02-1-v14) del A nr. 1 (forordning [(EF) nr. 139/2004](eu/32004r0139) artikkel 1 til 3, artikkel 4 nr. 1 til 3 og artikkel 5), del B nr. 2 (forordning [(EU) 2022/720](eu/32022r0720), del B nr. 4b (forordning [(EU) nr. 461/2010](eu/32010r0461) som forlenget ved forordning [(EU) 2023/822](eu/32023r0822)), del C nr. 5 (forordning [(EF) nr. 316/2014](eu/32014r0316)), del D nr. 6 (forordning [(EU) 2023/1067](eu/32023r1067)), del D nr. 7 (forordning [(EU) 2023/1066](eu/32023r1066)), del G nr. 10 (forordning [(EF) nr. 169/2009](eu/32009r0169)), del G nr. 11c (forordning [(EF) nr. 906/2009](eu/32009r0906)) og del J nr. 15b (forordning [(EU) nr. 267/2010](eu/32010r0267)) slik Nærings- og fiskeridepartementet forstår disse delene av [EØS-avtalen](lov/1992-11-27-109/eøsl) med de endringer og tillegg som følger av EØS-tilpasningen av rettsaktene i samsvar med vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+
 > Endret ved forskrift [9 aug 2024 nr. 1956](forskrift/2024-08-09-1956) (med virkning fra 1 juli 2023).
+
+For å lese forordning [(EF) nr. 1400/2002 i](eu/32002r1400) norsk oversettelse se her: [(pdf)](static/SF/32002r1400t.pdf)
+
+For å lese forordning [(EF) nr. 1400/2002 i](eu/32002r1400) engelsk utgave se her: [(pdf)](static/SF/32002r1400e.pdf)
+
+For å lese forordning [(EF) nr. 139/2004 i](eu/32004r0139) norsk oversettelse se her: [(pdf)](static/SF/32004r0139t.pdf)
+
+For å lese forordning [(EF) nr. 139/2004 i](eu/32004r0139) engelsk utgave se her: [(pdf)](static/SF/32004r0139e.pdf)
+
+For å lese forordning [(EF) nr. 772/2004 i](eu/32004r0772*) norsk oversettelse se her: [(pdf)](static/SF/32004r0772t.pdf)
+
+For å lese forordning [(EF) nr. 772/2004 i](eu/32004r0772*) engelsk utgave se her: [(pdf)](static/SF/32004r0772e.pdf)
+
+For å lese forordning [(EF) nr. 169/2009 i](eu/32009r0169) norsk oversettelse se her: [(pdf)](static/SF/32009r0169t.pdf)
+
+For å lese forordning [(EF) nr. 169/2009 i](eu/32009r0169) engelsk utgave se her: [(pdf)](static/SF/32009r0169e.pdf)
+
+For å lese forordning [(EU) nr. 906/2009 i](eu/32009r0906) norsk oversettelse se her: [(pdf)](static/SF/32009r0906t.pdf)
+
+For å lese forordning [(EU) nr. 906/2009 i](eu/32009r0906) engelsk utgave se her: [(pdf)](static/SF/32009r0906e.pdf)
+
+For å lese forordning [(EU) nr. 267/2010 i](eu/32010r0267) norsk oversettelse se her: [(pdf)](static/SF/32010r0267t.pdf)
+
+For å lese forordning [(EU) nr. 267/2010 i](eu/32010r0267) engelsk utgave se her: [(pdf)](static/SF/32010r0267e.pdf)
+
+For å lese forordning [(EU) nr. 330/2010 i](eu/32010r0330) norsk oversettelse se her: [(pdf)](static/SF/32010r0330t.pdf)
+
+For å lese forordning [(EU) nr. 330/2010 i](eu/32010r0330) engelsk utgave se her: [(pdf)](static/SF/32010r0330e.pdf)
+
+For å lese forordning [(EU) nr. 461/2010 i](eu/32010r0461) norsk oversettelse se her: [(pdf)](static/SF/32010r0461t.pdf)
+
+For å lese forordning [(EU) nr. 461/2010 i](eu/32010r0461) engelsk utgave se her: [(pdf)](static/SF/32010r0461e.pdf)
+
+For å lese forordning [(EU) nr. 1217/2010 i](eu/32010r1217) norsk oversettelse se her: [(pdf)](static/SF/32010r1217t.pdf)
+
+For å lese forordning [(EU) nr. 1217/2010 i](eu/32010r1217) engelsk utgave se her: [(pdf)](static/SF/32010r1217e.pdf)
+
+For å lese forordning [(EU) nr. 1218/2010 i](eu/32010r1218) norsk oversettelse se her: [(pdf)](static/SF/32010r1218t.pdf)
+
+For å lese forordning [(EU) nr. 1218/2010 i](eu/32010r1218) engelsk utgave se her: [(pdf)](static/SF/32010r1218e.pdf)
+
+For å lese forordning [(EU) nr. 316/2014](eu/32014*0316) i norsk oversettelse se her: [(pdf)](static/SF/32014r0316o.pdf)
+
+For å lese forordning [(EU) nr. 316/2014](eu/32014*0316) i engelsk utgave se her: [(pdf)](static/SF/32014r0316e-01.pdf)
+
+For å lese forordning [(EU) 2022/720](eu/32022*0720) i norsk oversettelse se her: [(pdf)](static/SF/32022r0720u-01.pdf)
+
+For å lese forordning [(EU) 2022/720](eu/32022*0720) i engelsk utgave se her: [(pdf)](static/SF/32022r0720e-01.pdf)
 
 Nedenfor gjengis til informasjon Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol protokoll 4 Om oppgaver og myndighet for EFTAs overvåkningsorgan på konkurranserettens område (ODA) slik den er fastsatt 7. mars 2012 slik Nærings- og fiskeridepartementet forstår denne delen av ODA.
 
+For å lese ODA protokoll 4 se her: [(pdf)](static/SF/sf-20111221-1518-oda-p4e-01-01.pdf)
+
+Engelsk versjon pr. 18. november 2016.
+
+For å lese vedlegg til ODA protokoll 4 i norsk oversettelse se her: [(pdf)](static/SF/sf-20111221-1518-03-01.pdf)
+
 Nedenfor gjengis til informasjon EØS-avtalen protokoll 21 til 24 og protokoll 25 artikkel 4 og 5 med endringer og tillegg frem til og med 21. desember 2011 slik Nærings- og fiskeridepartementet forstår disse delene av avtalen.
+
+For å lese EØS-avtalen protokoll 21 i engelsk utgave se her: [(pdf)](static/SF/sf-20111221-1518-06-01.pdf)
+
+For å lese EØS-avtalen protokoll 22 i engelsk utgave se her: [(pdf)](static/SF/sf-20111221-1518-08-01.pdf)
+
+For å lese EØS-avtalen protokoll 23 i engelsk utgave se her: [(pdf)](static/SF/sf-20111221-1518-10-01.pdf)
+
+For å lese EØS-avtalen protokoll 24 i engelsk utgave se her: [(pdf)](static/SF/sf-20111221-1518-12-01.pdf)
+
+For å lese EØS-avtalen protokoll 25 i engelsk utgave se her: [(pdf)](static/SF/sf-20111221-1518-14-01.pdf)
 
 > Endret ved forskrifter [23 april 2012 nr. 347](forskrift/2012-04-23-347), [3 mars 2014 nr. 245](forskrift/2014-03-03-245), [20 des 2016 nr. 1761](forskrift/2016-12-20-1761), [7 juli 2023 nr. 1258](forskrift/2023-07-07-1258) (med virkning fra 1 juni 2022), [2 nov 2023 nr. 1764](forskrift/2023-11-02-1764) (med virkning fra 1 juni 2023).

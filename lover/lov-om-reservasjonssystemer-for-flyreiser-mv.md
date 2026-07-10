@@ -41,6 +41,8 @@ EFTAs overvåkingsorgan og EFTA-domstolen kan ilegge foretak, sammenslutninger a
 
 Loven gjelder kun innenfor EØS-området.1
 
+1 Se [EØS-avtalen art. 126](lov/1992-11-27-109/eøsl/a126).
+
 ## § 5. Ikrafttredelse
 
 Loven trer i kraft straks.

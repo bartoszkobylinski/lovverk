@@ -110,7 +110,7 @@ Foretak som driver innen rengjøring, bemanning, bedriftshelsetjeneste eller asb
 
 (4) Tilskudd kan ikke overstige foretakets beregnede omsetningsfall, målt i kroner.
 
-(5) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X*(Y+ORFS), derX er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2020-04-17-820/§2-3),Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2020-04-17-820/§3-2),ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars, der resultatet divideres med antall måneder regnskapsåret omfatter.Dersom foretaket, ved opplysninger bekreftet av revisor eller autorisert regnskapsfører, kan dokumentere at gjennomsnittlig månedlig ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
+(5) Tilskuddet begrenses av tidligere underskudd, og kan ikke overstige: X\*(Y+ORFS), derX er det prosentvise omsetningsfallet beregnet etter [§ 2-3](forskrift/2020-04-17-820/§2-3),Y er summen av faste, uunngåelige kostnader, jf. [§ 3-2](forskrift/2020-04-17-820/§3-2),ORFS er ordinært resultat før skattekostnad i siste regnskapsår som avsluttes før 1. mars, der resultatet divideres med antall måneder regnskapsåret omfatter.Dersom foretaket, ved opplysninger bekreftet av revisor eller autorisert regnskapsfører, kan dokumentere at gjennomsnittlig månedlig ordinært resultat før skattekostnad i januar og februar 2020 var høyere enn ORFS, kan dette erstatte ORFS.
 
 (6) Beregnet tilskudd under 5000 kroner tildeles ikke. Er beregnet tilskudd 5000 kroner eller mer, utbetales hele det beregnede tilskuddet, oppad begrenset til øvre beløpsgrense etter [§ 3-3](forskrift/2020-04-17-820/§3-3) og [§ 3-4](forskrift/2020-04-17-820/§3-4).
 

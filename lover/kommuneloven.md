@@ -1730,6 +1730,8 @@ Loven gjelder fra det tidspunktet1 Kongen bestemmer. Fra samme tidspunkt oppheve
 
 Kongen kan sette i kraft og oppheve de enkelte bestemmelsene til forskjellig tid.
 
+1 [Kapitlene](lov/2018-06-22-83/kap1) [1](lov/2018-06-22-83/kap1) til [13](lov/2018-06-22-83/kap13), [17](lov/2018-06-22-83/kap17) til [24](lov/2018-06-22-83/kap24), [26](lov/2018-06-22-83/kap26), [27](lov/2018-06-22-83/kap27), [30](lov/2018-06-22-83/kap30) og [31](lov/2018-06-22-83/kap31) trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023, se [vedtak 3 okt 2019 nr. 1294](forskrift/2019-10-03-1294) med vedlegg. [Kapitlene 14](lov/2018-06-22-83/kap14), [15](lov/2018-06-22-83/kap15), [16](lov/2018-06-22-83/kap16), [28](lov/2018-06-22-83/kap28) og [29](lov/2018-06-22-83/kap29) trer i kraft 1 jan 2020, med unntak for [kap. 25](lov/2018-06-22-83/kap25) iflg. [res. 20 des 2018 nr. 2062](forskrift/2018-12-20-2062). § 31-6 trer ikr. 1 nov 2019 iflg. [res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879). [Kapittel 25](lov/2018-06-22-83/kap25) trer ikr. 1 jan 2021 iflg. [res. 25 sep 2020 nr. 1825](forskrift/2020-09-25-1825).
+
 ### § 31-2. Overgangsregler for interkommunale styrer etter § 27 i kommuneloven av 1992
 
 Interkommunalt samarbeid som er organisert som et interkommunalt styre etter [§ 27 i lov 25. september 1992 nr. 107](lov/1992-09-25-107/§27) om kommuner og fylkeskommuner, må være omdannet til et interkommunalt politisk råd etter § 18-1 eller et kommunalt oppgavefellesskap etter § 19-1 senest fire år etter at henholdsvis kapittel 18 og 19 i loven her trer i kraft.

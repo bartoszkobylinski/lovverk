@@ -61,3 +61,5 @@ Staten, fylkeskommunen og kommunen skal syta forat kulturlivet har føreseielege
 ## § 6. Ikraftsetjing
 
 Kongen fastset når1 lova skal ta til å gjelda.
+
+1 Frå 1 aug 2007 iflg. [res. 29 juni 2007 nr. 905](forskrift/2007-06-29-905).

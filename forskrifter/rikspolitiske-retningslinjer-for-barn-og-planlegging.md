@@ -254,7 +254,11 @@ Punkt 5 a og b angir egenskaper ved arealer som barn skal kunne bruke:
 
 ### Punkt 5 a.
 
+**Arealer og anlegg som skal brukes av barn og unge skal være sikret mot forurensning, støy, trafikkfare og annen helsefare.**
+
 ### Punkt 5 b.
+
+**I nærmiljøet skal det finnes arealer hvor barn kan utfolde seg og skape sitt eget lekemiljø. Dette forutsetter blant annet at arealene:**
 
 - **er store nok og egner seg for lek og opphold**
 - **gir muligheter for ulike typer lek på ulike årstider**
@@ -281,6 +285,8 @@ Det bør velges ut arealer som sikrer at barnehagen blir en integrert del av lok
 Nærhet til lokalmiljøet vil også kunne bidra til redusert behov for transportering av barna til barnehagen.
 
 ### Punkt 5 d.
+
+**Ved omdisponering av arealer som i planer er avsatt til fellesareal eller friområde som er i bruk eller er egnet for lek, skal det skaffes fullverdig erstatning. Erstatning skal også skaffes ved utbygging eller omdisponering av uregulert areal som barn bruker som lekeareal, eller dersom omdisponering av areal egnet for lek fører til at de hensyn som er nevnt i punkt b ovenfor, for å møte dagens eller framtidens behov ikke blir oppfylt.**
 
 [Punk](forskrift/1995-09-20-4146/kap5)t 5d om erstatningsarealer har til hensikt å forhindre at lekearealer betraktes som reservearealer for utbyggingsformål.
 

@@ -388,9 +388,13 @@ Loven gjelder fra det tidspunktet1 Kongen bestemmer.
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 29).
 
+1 Fra 1 juli 2017 iflg. [res. 22 mai 2017 nr. 617](forskrift/2017-05-22-617).
+
 ### § 31. Opphevelse og endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft, oppheves [lov 14. juni 1912 nr. 1](lov/1912-06-14-1) om taugbaner og løipestrenger.
+
+– – –
 
 > Endret ved lov [20 juni 2023 nr. 82](lov/2023-06-20-82) (i kraft 1 jan 2024 iflg. [res. 20 juni 2023 nr. 958](forskrift/2023-06-20-958), tidligere § 30).
 

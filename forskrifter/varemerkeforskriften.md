@@ -487,3 +487,5 @@ Med de unntak som følger av [varemerkeloven § 83](lov/2010-03-26-8/§83) gjeld
 ### § 62. Endringer i andre forskrifter
 
 Fra ikrafttredelsen av forskriften, gjøres følgende endringer i andre forskrifter:
+
+1\. I [forskrift 6. august 1993 nr. 832](forskrift/1993-08-06-832) om planteforedlerrett gjøres følgende endringer: – – –2. I [forskrift 4. april 2003 nr. 418](forskrift/2003-04-04-418) til designloven gjøres følgende endringer: – – –3. I [forskrift 24. juni 2005 nr. 718](forskrift/2005-06-24-718) om registrering av ansvarsmerker gjøres følgende endringer: – – –4. I [forskrift 14. desember 2007 nr. 1417](forskrift/2007-12-14-1417) til patentloven gjøres følgende endringer: – – –5. I [forskrift 25. mars 2009 nr. 376](forskrift/2009-03-25-376) om avgifter til Patentstyret mv. gjøres følgende endringer: – – –

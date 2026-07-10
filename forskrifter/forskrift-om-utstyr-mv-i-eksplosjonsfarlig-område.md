@@ -346,22 +346,36 @@ Forskriften trer i kraft 1. desember 2017. Fra samme tidspunkt oppheves [forskri
 
 ## Vedlegg II. Grunnleggende krav til helse og sikkerhet i forbindelse med konstruksjon og produksjon av utstyr og sikkerhetssystem til bruk i eksplosjonsfarlig område
 
+*Innledende bemerkninger*
+
 1. Det må i størst mulig grad tas hensyn til den teknologiske kunnskapen, som kan endre seg raskt, og den må snarest mulig tas i bruk.
 2. For innretningene nevnt i [§ 2](forskrift/2017-11-29-1849/§2) første ledd bokstav b får de grunnleggende helse- og sikkerhetskravene anvendelse bare i den grad de er nødvendige for at innretningene kan fungere og betjenes sikkert og pålitelig med hensyn til eksplosjonsfare.
 
 ### 1. Felles krav til utstyr og sikkerhetssystem
 
+1.0.*Generelle krav*
+
+1.0.1.*Prinsipper for integrert eksplosjonssikring*
+
 Utstyr og sikkerhetssystem beregnet på bruk i eksplosjonsfarlig område skal utformes med sikte på integrert eksplosjonssikkerhet.
 
 Produsenten skal i den forbindelse treffe tiltak forførst og fremst for å unngå at utstyr og sikkerhetssystem selv danner eller avgir eksplosive atmosfærer, dersom det er mulig,å hindre at eksplosiv atmosfære antennes, idet det tas hensyn til egenskapene til de enkelte elektriske og ikke-elektriske tennkildene,at en eksplosjon, dersom den likevel inntreffer og direkte eller indirekte setter personer, husdyr eller materielle verdier i fare, stanses umiddelbart og/eller at det område som påvirkes av flammer og trykk fra eksplosjonen begrenses til et tilfredsstillende sikkerhetsnivå.
+
+1.0.2.
 
 Utstyr og sikkerhetssystem skal konstrueres og produseres etter en tilstrekkelig analyse av eventuelle driftsforstyrrelser slik at farlige situasjoner i størst mulig grad kan unngås.
 
 Det skal tas hensyn til mulig feilbruk som med rimelighet kan forventes.
 
+1.0.3.*Særlige kontroll- og vedlikeholdsvilkår*
+
 Utstyr og sikkerhetssystem som er underlagt spesielle vilkår for kontroll og vedlikehold, skal være konstruert og produsert under hensyn til disse bestemmelsene.
 
+1.0.4.*Omgivelsesbetingelser*
+
 Utstyr og sikkerhetssystem skal være konstruert og produsert under hensyn til eksisterende og forventede omgivelsesbetingelser.
+
+1.0.5.*Merking*
 
 Alt utstyr og alle sikkerhetssystem skal være forsynt med en lett leselig og varig merking som minst omfatter følgende:produsentens navn, registrerte handelsnavn eller registrerte varemerke, samt produsentens adresse,CE-merking,serie- eller typebetegnelse,eventuelt parti- eller serienummer,produksjonsår,det særskilte eksplosjonsvernmerket  fulgt av symbolet for utstyrsgruppen og kategorien,for utstyrsgruppe II, bokstaven «G» (for eksplosive atmosfærer som skyldes gasser, damper eller tåker),
 
@@ -369,25 +383,45 @@ og/ellerbokstaven «D» (for eksplosive atmosfærer som skyldes støv).
 
 Utstyr og sikkerhetssystem skal dessuten, ved behov, merkes med alle opplysninger som er nødvendige for at disse kan brukes sikkert.
 
+1.0.6.*Bruksanvisning*
+
 1. Alt utstyr og alle sikkerhetssystem skal følges av en bruksanvisning som minst inneholder følgende opplysninger:en gjentakelse av den informasjon som fremgår av merkingen, med unntak av serienummeret (se punkt 1.0.5) samt eventuelle opplysninger som kan lette vedlikeholdet (f.eks. importørens/reparatørens adresse osv.),veiledning for sikkeribruktaking,bruk,montering, demontering,vedlikehold (løpende vedlikehold og reparasjon),installasjon,justering,om nødvendig angivelse av fareområder foran trykkavlastningsinnretninger,om nødvendig, opplæringsinstrukser,opplysninger som gjør det mulig på betryggende grunnlag å avgjøre om utstyr i en gitt kategori eller et sikkerhetssystem kan benyttes uten fare i det tiltenkte området og under de forventede driftsforhold,elektriske parametre og trykkparametre, maksimal overflatetemperatur og andre grenseverdier,om nødvendig, særlige bruksvilkår, herunder opplysninger om mulig feilbruk som erfaringsmessig kan forekomme,om nødvendig, de viktigste egenskaper for redskaper som kan monteres på utstyr eller sikkerhetssystem.
 2. bruksanvisningen skal inneholde de tegninger og diagrammer som er nødvendige for å ta i bruk, vedlikeholde og etterse utstyret eller sikkerhetssystemet, kontrollere at det virker som det skal og eventuelt reparere det, samt annen nyttig veiledning, særlig med hensyn til sikkerhet
 3. dokumentasjon om utstyr eller sikkerhetssystem skal ikke være i strid med bruksanvisningen med hensyn til sikkerhetsmessige forhold.
 
+1.1.*Valg av materiale*
+
+1.1.1.
+
 Materialer som brukes til produksjon av utstyr og sikkerhetssystem skal ikke kunne utløse en eksplosjon, samtidig som det tas hensyn til de forventede belastninger under drift.
+
+1.1.2.
 
 Innenfor rammen av de driftsforholdene produsenten har fastsatt, skal det ikke kunne oppstå reaksjoner mellom de materialer som brukes og bestanddelene i de eksplosjonsfarlige atmosfærene som medfører at eksplosjonsvernet svekkes.
 
+1.1.3.
+
 Materialer skal velges slik at forutsigbare endringer i deres egenskaper og kompatibilitet i kombinasjon med andre materialer ikke fører til at det tilsiktede vern svekkes, særlig med hensyn til materialets korrosjonsbestandighet, slitestyrke, elektrisk ledningsevne, mekanisk styrke, aldringsegenskaper og følgene av temperatursvingninger.
+
+1.2.*Utforming og konstruksjon*
+
+1.2.1.
 
 Utstyr og sikkerhetssystem skal utformes og konstrueres idet det tas tilstrekkelig hensyn til den tekniske kunnskapen om eksplosjonsvern, slik at de fungerer sikkert under hele den forventede levetid.
 
+1.2.2.
+
 Komponenter til innbygging i, eller til reservedeler, til utstyr og sikkerhetssystem skal konstrueres og produseres slik at de fungerer sikkert i samsvar med forutsatt bruk som eksplosjonsbeskyttelse når de er montert etter produsentens anvisninger.
+
+1.2.3.*Lukket konstruksjon og forebygging av lekkasje*
 
 For utstyr som kan frigjøre gasser eller brennbart støv skal det i størst mulig grad benyttes lukket konstruksjon.
 
 Dersom slikt utstyr har åpninger eller utette skjøter, skal disse i størst mulig grad være utformet slik at utslipp av gasser eller støv ikke fører til at det oppstår eksplosiv atmosfære utenfor utstyret.
 
 Åpninger for påfylling og tømming skal være utformet slik at utslipp av brennbare stoffer i størst mulig grad begrenses ved påfylling og tømming.
+
+1.2.4.*Støvavleiring*
 
 Utstyr og sikkerhetssystem som benyttes i områder der det forekommer støv, skal være konstruert slik at støvavleiringer på overflaten ikke kan antennes.
 
@@ -397,33 +431,65 @@ Overflatetemperaturen på de ulike delene av utstyret skal være vesentlig laver
 
 Det skal tas hensyn til tykkelsen på støvavleiringslaget, og om nødvendig treffes tiltak til begrensning av temperaturen for å hindre varmeakkumulasjon.
 
+1.2.5.*Supplerende verneinnretninger*
+
 Utstyr og sikkerhetssystem som kan bli utsatt for visse former for ytre påvirkning, skal om nødvendig være forsynt med supplerende verneinnretninger.
 
 Utstyr skal kunne motstå de påvirkninger det utsettes for uten at eksplosjonsvernet svekkes.
 
+1.2.6.*Åpning uten fare*
+
 Dersom utstyr eller sikkerhetssystem er plassert i en beholder eller kapsling som utgjør en del av selve eksplosjonsvernet, skal denne beholderen eller kapslingen bare kunne åpnes ved hjelp av spesialverktøy eller etter at det er truffet egnede vernetiltak.
+
+1.2.7.*Vern mot andre farer*
 
 Utstyr og sikkerhetssystem skal utformes og konstrueres slik atdet ikke er fare for legemsbeskadigelse eller annen skade ved direkte eller indirekte kontakt,overflatetemperaturer på tilgjengelige deler, eller stråling som kan medføre fare, ikke forekommer,farer av ikke-elektrisk art, som erfaringsmessig kan forekomme, unngås,forventet overbelastning ikke fører til en farlig situasjon.
 
 Når farene i forbindelse med utstyr og sikkerhetssystem nevnt i dette punkt helt eller delvis omfattes av andre lovhjemlede bestemmelser, får dette punktet ikke anvendelse på slikt utstyr, slike sikkerhetssystem og slike farer som dekkes av de aktuelle særskilte bestemmelser.
 
+1.2.8.*Overbelastning av utstyr*
+
 Farlig overbelastning av utstyr skal forebygges allerede på planleggingsstadiet ved hjelp av innebygde måle-, betjenings- og justeringsinnretninger, som overstrømbrytere, termostater, differensialtrykkbrytere, flowmetere (strømningsmålere), forsinkelsesreléer, turtellere og/eller lignende kontrollinnretninger.
+
+1.2.9.*Eksplosjonssikker utførelse*
 
 Dersom deler som kan antenne en eksplosiv atmosfære er plassert i en kapsling, skal det sikres at kapslingen kan motstå det trykk som oppstår ved en eksplosjon av en eksplosiv blanding inne i utstyret og forhindre at eksplosjonen forplanter seg til den eksplosive atmosfæren utenfor kapslingen.
 
+1.3.*Potensielle tennkilder*
+
+1.3.1.*Farer som skyldes ulike tennkilder*
+
 Det må ikke forekomme potensielle tennkilder som gnister, flammer, elektriske lysbuer eller høy overflatetemperatur, lydenergi, optisk stråling eller elektromagnetiske bølger eller andre tennkilder.
+
+1.3.2.*Farer som skyldes statisk elektrisitet*
 
 Elektrostatisk oppladning som kan føre til farlig utladning skal forebygges med egnede metoder.
 
+1.3.3.*Farer som skyldes feilstrøm eller krypestrøm*
+
 Det skal forhindres at det i utstyrets strømførende deler forekommer feilstrøm og krypestrøm som for eksempel kan medføre farlig korrosjon, oppheting av overflaten eller gnistdanning som kan forårsake antenning.
+
+1.3.4.*Farer som skyldes overoppheting*
 
 Overoppheting som følge av friksjon eller slag, f.eks. mellom materialer på roterende deler eller på grunn av fremmedlegemer, skal i størst mulig grad unngås forebygges på planleggingsstadiet.
 
+1.3.5.*Farer ved trykkutjevning*
+
 Utstyr og sikkerhetssystem skal være slik konstruert eller ha innebygde måle-, kontroll- og reguleringsinnretninger som sikrer at trykkutjevning kan skje på en slik måte at det ikke dannes sjokkbølger eller trykkstigning som kan forårsake antenning/eksplosjon.
+
+1.4.*Farer som følge av påvirkning utenfra*
+
+1.4.1.
 
 Utstyr og sikkerhetssystem skal være konstruert og produsert slik at de på sikkerhetsmessig fullt forsvarlig måte kan brukes i henhold til sitt formål innenfor de grensene produsenten har fastsatt for driftsbetingelsene, selv om de fra omgivelsene utsettes for påvirkninger i form av skiftende omgivelsesbetingelser, feilstrøm, fuktighet, rystelser, forurensning o.l.
 
+1.4.2.
+
 Utstyrets deler skal være egnet til de forventede mekaniske og temperaturmessige påkjenninger og kunne motstå angrep fra aggressive stoffer som er til stede eller kan forventes å forekomme.
+
+1.5.*Krav til utstyr som bidrar til sikkerheten*
+
+1.5.1.
 
 Sikkerhetsinnretninger skal fungere uavhengig av de måle- og betjeningsinnretninger som er nødvendige for driften.
 
@@ -433,35 +499,67 @@ Som hovedregel skal prinsippet om aktiv sikkerhet (failsafe-prinsippet) anvendes
 
 Sikkerhetsmessig inn- og utkopling skal som hovedregel virke direkte på aktuelle kontrollordninger uten å være styrt av programvare.
 
+1.5.2.
+
 Ved feil i en sikkerhetsinnretning skal utstyr og/eller sikkerhetssystem så langt mulig gå til sikker tilstand (safety mode).
+
+1.5.3.
 
 Nødstoppinnretninger skal så langt mulig være forsynt med sperring, slik at omstart ikke kan finne sted. En ny startordre skal bare føre til normal igangsetting dersom sperringen mot omstart på forhånd er blitt tilbakestilt ved en tilsiktet handling.
 
+1.5.4.*Betjeningsenheter og monitorer*
+
 Eventuelle betjeningsenheter og skjermbildeinnretninger skal være ergonomisk hensiktsmessig utformet, slik at størst mulig brukssikkerhet med hensyn til eksplosjonsfaren oppnås.
+
+1.5.5.*Krav til innretninger med målefunksjoner beregnet på eksplosjonsvern*
 
 Innretninger med målefunksjoner skal, i den grad de brukes i forbindelse med utstyr som brukes i eksplosjonsfarlig atmosfære, være konstruert og produsert slik at de kan oppfylle de forventede funksjonskrav og de særlige forhold som de skal brukes under.
 
+1.5.6.
+
 Om nødvendig skal innretninger med målefunksjoner kunne kontrolleres for avlesningsnøyaktighet og for funksjonsevne.
+
+1.5.7.
 
 Ved utforming av innretninger med målefunksjoner skal det benyttes en sikkerhetsfaktor som sikrer at alarmterskelen ligger tilstrekkelig langt utenfor eksplosjons- og/eller antenningsgrensene for den aktuelle atmosfære, idet det hovedsakelig tas hensyn til anleggets driftsform og mulige avvik i målesystemet.
 
+1.5.8.*Farer i forbindelse med programvare*
+
 Ved utformingen av datastyrt utstyr og datastyrte sikkerhetssystem og sikkerhetsinnretninger, skal det spesielt tas hensyn til farer som skyldes mulige feil i programvaren.
 
+1.6.*Sikkerhetskrav til systemet*
+
+1.6.1.
+
 Utstyr og sikkerhetssystem som inngår i en automatisert prosess skal kunne stanses manuelt på en sikkerhetsmessig forsvarlig måte dersom driftsvilkårene endrer seg ut over de forutsatte grenser, forutsatt at sikkerheten med dette ikke svekkes.
+
+1.6.2.
 
 Når nødstoppinnretning aktiviseres, skal oppsamlet energi ledes bort så raskt og sikkert som mulig eller isoleres, slik at den ikke lenger utgjør noen fare.
 
 Dette gjelder ikke for elektrokjemisk lagret energi.
 
+1.6.3.*Farer som følge av strømbrudd*
+
 Utstyr og sikkerhetssystem der strømbrudd kan føre til at det oppstår nye farer som kan forplante seg, skal kunne holdes i sikker drift uavhengig av resten av anlegget.
+
+1.6.4.*Farer forbundet med tilkoblinger*
 
 Utstyr og sikkerhetssystem skal være forsynt med egnede kabel- og ledningsinnføringer.
 
 Ved bruk av utstyr og sikkerhetssystem i kombinasjon med annet utstyr og andre sikkerhetssystem, skal grensesnittet være sikkert.
 
+1.6.5.*Plassering av varslings- og alarminnretninger*
+
 Når utstyr eller sikkerhetssystem omfatter varslings- eller alarminnretninger som skal overvåke dannelsen av en eksplosiv atmosfære, må det finnes nødvendige instrukser for å gjøre det mulig å plassere dem på korrekt sted.
 
 ### 2. Tilleggskrav til utstyr
+
+2.0.*Krav til utstyr i utstyrsgruppe I*
+
+2.0.1.*Krav til utstyr i utstyrsgruppe I, utstyrskategori M 1*
+
+2.0.1.1.
 
 Slikt utstyr skal være konstruert og produsert slik at tennkilder ikke kan oppstå. Dette gjelder også ved sjeldent forekommende feil i forbindelse med utstyret.
 
@@ -471,117 +569,235 @@ Om nødvendig skal slikt utstyr være forsynt med særlige supplerende verneinnr
 
 Utstyret må forbli funksjonssikkert i en eksplosiv atmosfære.
 
+2.0.1.2.
+
 Utstyret skal om nødvendig være framstilt slik at støv ikke kan trenge inn i det.
 
+2.0.1.3.
+
 Overflatetemperaturen på utstyrets deler skal, for å unngå at støv som virvles opp antennes, være betydelig lavere enn antenningstemperaturen for de støv-luftblandinger som kan forventes.
+
+2.0.1.4.
 
 Utstyret skal være konstruert slik at deler av det som kan være tennkilder, bare kan åpnes når energitilførselen er brutt, eller under ikke-aktive eller egensikre forhold. Dersom utstyret ikke kan deaktiveres, skal produsenten påføre en advarsel på de deler av utstyret som kan åpnes.
 
 Utstyret skal om nødvendig i tillegg være forsynt med egnede låsemekanismer/forriglinger.
 
+2.0.2.*Krav til utstyr i utstyrsgruppe I, utstyrskategori M 2*
+
+2.0.2.1.
+
 Utstyret må være forsynt med verneinnretninger som sikrer at tennkildene ikke kan aktiveres under normal drift samt under vanskelige driftsforhold, særlig slike som kan oppstå som følge av hard belastning eller bruk under varierende omgivelsesvilkår.
 
 Energitilførselen til dette utstyret skal kunne brytes i tilfelle det forekommer eksplosiv atmosfære.
 
+2.0.2.2.
+
 Utstyr skal være konstruert slik at deler av det, som kan være tennkilder, bare kan åpnes når energitilførselen er brutt eller tilsvarende sikkerhet er oppnådd ved hjelp av egnede låsemekanismer/forriglinger. Dersom utstyret ikke kan deaktiveres, skal produsenten påføre en advarsel på de deler av utstyret som kan åpnes.
 
+2.0.2.3.
+
 Vernetiltakene mot eksplosjoner som følge av tilstedeværelse av støv, skal oppfylle de samme kravene som dem som gjelder for utstyr i kategori M 1.
+
+2.1.*Krav til utstyr i utstyrsgruppe II, utstyrskategori 1*
+
+2.1.1.*Eksplosiv atmosfære dannet av gasser, damper eller tåker*
+
+2.1.1.1.
 
 Slikt utstyr skal være konstruert og produsert slik at tennkilder ikke kan oppstå, selv når det oppstår sjeldne feil i forbindelse med utstyret.
 
 Det skal være forsynt med verneinnretninger slik atdet ved feil på en av verneinnretningene, er minst én annen selvstendig verneinnretning som sikrer det vernenivå som kreves,eller dersom det oppstår to feil som er uavhengig av hverandre, at det vernenivå som kreves, fortsatt er sikret.
 
+2.1.1.2.
+
 For utstyr med overflater som kan bli varme, skal det sikres at den angitte maksimale overflatetemperatur ikke overskrides, selv under de minst gunstige forhold.
 
 Temperaturstigning som følge av varmeakkumulering og kjemiske reaksjoner, skal også tas i betraktning.
+
+2.1.1.3.
 
 Utstyret skal være slik konstruert at deler av det som kan være tennkilder, bare kan åpnes når energitilførselen er brutt, eller på inaktive eller egensikre vilkår. Dersom utstyret ikke kan deaktiveres, skal produsenten forsyne de deler av utstyret som kan åpnes med en advarsel.
 
 Utstyret skal om nødvendig i tillegg være forsynt med egnede låsemekanismer/forriglinger.
 
+2.1.2.*Eksplosiv atmosfære forårsaket av støv-luftblandinger*
+
+2.1.2.1.
+
 Utstyr skal være konstruert og produsert slik at antenning av støv-luftblandinger ikke kan skje, selv ikke om det unntaksvis forekommer feil ved utstyret.
 
 Det skal være forsynt med verneinnretninger slikat det ved feil på en av verneinnretningene, er minst én annen selvstendig verneinnretning som sikrer det vernenivå som kreves,eller dersom det oppstår to feil uavhengig av hverandre, at det vernenivå som kreves, fortsatt er sikret.
+
+2.1.2.2.
 
 Utstyret skal om nødvendig utformes slik at støv kan trenge inn eller slippe ut bare på steder som er beregnet på dette.
 
 De samme kravene gjelder for kabelinnføringer og tilkoplinger.
 
+2.1.2.3.
+
 For å unngå antenning av støv som virvles opp, skal utstyrets overflatetemperatur være betydelig lavere enn antenningstemperaturen for de støv-luftblandinger som kan forventes.
+
+2.1.2.4.
 
 Kravene til punkt 2.1.1.3. gjelder også ved åpning av utstyret.
 
+2.2.*Krav til utstyr i utstyrsgruppe II, utstyrskategori 2*
+
+2.2.1.*Eksplosiv atmosfære dannet av gasser, damper eller tåker*
+
+2.2.1.1.
+
 Utstyret skal være konstruert og produsert slik at tennkilder unngås, selv ved hyppige forstyrrelser eller funksjonsfeil ved utstyret som normalt må påregnes.
+
+2.2.1.2.
 
 Utstyrets deler skal være konstruert og produsert slik at overflatetemperaturen ikke overstiger det som er tillatt, selv ikke i forbindelse med farer som skyldes unormale situasjoner som produsenten har forutsett.
 
+2.2.1.3.
+
 Utstyret skal være konstruert slik at deler av det som kan være tennkilder, bare kan åpnes når energitilførselen er avbrutt, eller ved hjelp av egnede blokkeringssystemer. Dersom utstyret ikke kan deaktiveres, skal produsenten påføre en advarsel på de deler av utstyret som kan åpnes.
+
+2.2.2.*Eksplosiv atmosfære som skyldes forekomst av støv-luftblandinger*
+
+2.2.2.1.
 
 Utstyret skal være konstruert og produsert slik at støv-luftblandinger ikke antennes, selv ved hyppige forstyrrelser eller funksjonsfeil ved utstyret som normalt må påregnes.
 
+2.2.2.2.
+
 Kravet i punkt 2.1.2.3 får anvendelse med hensyn til overflatetemperaturer.
+
+2.2.2.3.
 
 Kravet i punkt 2.1.2.2 får anvendelse med hensyn til vern mot støv.
 
+2.2.2.4.
+
 Kravet i punkt 2.2.1.3 får anvendelse med hensyn til farefri åpning av deler av utstyret.
+
+2.3.*Krav til utstyr i utstyrsgruppe II, utstyrskategori 3*
+
+2.3.1.*Eksplosiv atmosfære dannet av gasser, damper eller tåker*
+
+2.3.1.1.
 
 Utstyret skal være konstruert og produsert slik at tennkilder som kan forutses å kunne oppstå under normal bruk ikke forekommer.
 
+2.3.1.2.
+
 Overflatetemperaturen skal under normale driftsvilkår ikke overstige den angitte maksimale overflatetemperatur. Overskridelser i særtilfeller kan aksepteres bare dersom produsenten treffer særlige supplerende vernetiltak.
+
+2.3.2.*Eksplosiv atmosfære forårsaket av støv-luftblandinger*
+
+2.3.2.1.
 
 Utstyret skal være konstruert og produsert slik at tennkilder som kan forventes å forekomme under normale driftsforhold ikke kan antenne støv-luftblandinger.
 
+2.3.2.2.
+
 Kravet i punkt 2.1.2.3 får anvendelse med hensyn til overflatetemperaturer.
+
+2.3.2.3.
 
 Utstyret, herunder kabelinnføringer og tilkoplinger, skal være konstruert slik at det tas hensyn til støvpartiklenes størrelse, slik at dannelse av eksplosjonsfarlige støv-luftblandinger og farlige støvavleiringer unngås.
 
 ### 3. Tilleggskrav til sikkerhetssystem
 
+3.0.*Generelle krav*
+
+3.0.1.
+
 Sikkerhetssystem skal dimensjoneres slik at virkningene av en eksplosjon bringes ned på et forsvarlig sikkerhetsnivå.
+
+3.0.2.
 
 Sikkerhetssystem skal være konstruert og kunne plasseres slik at det forhindres at en eksplosjon forplanter seg via farlige kjedereaksjoner eller overslag, og at begynnende eksplosjoner blir til detonasjoner.
 
+3.0.3.
+
 Sikkerhetssystem skal, dersom energitilførselen brytes, kunne bevare funksjonsevnen i så lang tid at det ikke oppstår farlige situasjoner.
+
+3.0.4.
 
 Sikkerhetssystem skal ikke vise funksjonsfeil når de utsettes for forstyrrende påvirkninger utenfra.
 
+3.1.*Planlegging og utforming*
+
+3.1.1.*Materialenes egenskaper*
+
 De maksimale trykk- og temperaturforhold som skal tas i betraktning på planleggingsstadiet med hensyn til materialenes egenskaper, skal være det forventede trykk under en eksplosjon som følge av ekstreme driftsforhold og de forventede varmepåvirkning fra flammer.
+
+3.1.2.
 
 Sikkerhetssystem som er konstruert slik at de skal kunne motstå eller begrense en eksplosjon, skal kunne motstå trykkbølgen fra en eksplosjon uten at systemet skades.
 
+3.1.3.
+
 Tilbehør som er tilkoplet sikkerhetssystem skal kunne motstå det forventede maksimale eksplosjonstrykk og fortsatt fungere.
+
+3.1.4.
 
 Ved planlegging og konstruksjon av sikkerhetssystem skal det tas hensyn til eventuelle reaksjoner som følge av trykket i det ytre utstyret og rørforbindelser til dette ved en eksplosjon.
 
+3.1.5.*Trykkavlastningsinnretninger*
+
 Sikkerhetssystem som ved en eksplosjon antas å kunne bli utsatt for påvirkninger som er sterkere enn de kan tåle, skal være utstyrt med egnede trykkavlastningsinnretninger som ikke medfører fare for personer i nærheten.
+
+3.1.6.*System til stansing av eksplosjoner*
 
 System til stansing av eksplosjoner skal planlegges og utformes slik at de reagerer tidligst mulig etter en begynnende eksplosjon og motvirker den optimalt, idet det tas hensyn til maksimal trykkstigningshastighet og maksimalt eksplosjonstrykk.
 
+3.1.7.*Eksplosjonsutkoplingssystem*
+
 Utkoplingssystem som ved begynnende eksplosjon er beregnet på å kople ut særskilt utstyr så raskt som mulig ved hjelp av egnede innretninger, skal være planlagt og konstruert slik at ild ikke kan spre seg inne i systemet og opprettholder sin mekaniske styrke under normale driftsforhold.
+
+3.1.8.
 
 Sikkerhetssystem skal være koplet slik, og ha en så lav alarmterskel, at tilførsel og bortledning av produkter som behandles stoppes, og at de deler av utstyret som ikke lenger fungerer på sikker måte blir stanset eller utkoplet, dersom det er påkrevd.
 
 ## Vedlegg III. Modul B: EU-typeprøving
 
+1\.
+
 EU-typeprøving er den del av framgangsmåten for samsvarsvurdering der et teknisk kontrollorgan undersøker et produkts tekniske konstruksjon og kontrollerer og bekrefter at produktets tekniske konstruksjon oppfyller kravene i denne forskriften som gjelder for det.
 
+2\.
+
 EU-typeprøving skal omfatte undersøkelse av et eksemplar av det komplette produktet som er representativt for den planlagte produksjonen (produksjonstype).
+
+3\.
 
 Produsenten skal sende inn en søknad om EU-typeprøving til ett enkelt teknisk kontrollorgan etter eget valg.
 
 Søknaden skal inneholde:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden sendes inn av representanten,en skriftlig erklæring om at samme søknad ikke er sendt inn til et annet teknisk kontrollorgan,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med gjeldende krav i denne forskriften, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal minst inneholde følgende elementer:en generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og hvordan produktet virker,en liste over de harmoniserte standardene som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i denne forskriften, herunder en liste over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er foretatt, osv., ogprøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det tekniske kontrollorganet kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet.
 
+4\.
+
 Det tekniske kontrollorganet skal
+
+4.1
 
 gjennomgå den tekniske dokumentasjonen, kontrollere at eksemplaret eller eksemplarene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere elementer som er konstruert i henhold til gjeldende bestemmelser i relevante harmoniserte standarder, samt elementer som er konstruert i henhold til øvrige relevante tekniske spesifikasjoner,
 
+4.2
+
 utføre eller besørge utført egnede undersøkelser og prøvinger for å kontrollere om løsningene i de relevante harmoniserte standardene er anvendt på riktig måte, der produsenten har valgt å anvende dem,
+
+4.3
 
 utføre eller besørge utført egnede undersøkelser og prøvinger for å kontrollere om løsningene produsenten har valgt, herunder løsninger i øvrige relevante tekniske spesifikasjoner som er anvendt, oppfyller de grunnleggende helse- og sikkerhetskravene i denne forskriften, i tilfeller der løsningene i de relevante harmoniserte standardene ikke er anvendt,
 
+4.4
+
 avtale med produsenten hvor undersøkelsene og prøvingene skal gjennomføres.
 
+5\.
+
 Det tekniske kontrollorganet skal utarbeide en vurderingsrapport som beskriver aktivitetene som er gjennomført i henhold til nr. 4, og resultatene av disse. Uten at det berører dets forpliktelser overfor Direktoratet for samfunnssikkerhet og beredskap, skal det tekniske kontrollorganet offentliggjøre hele eller deler av innholdet i rapporten bare med produsentens samtykke.
+
+6\.
 
 Når typen oppfyller kravene i denne forskriften som gjelder det berørte produkt, skal det tekniske kontrollorganet utstede et EU-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, eventuelle vilkår for gyldigheten av sertifikatet, og opplysningene som kreves for å identifisere den godkjente typen. EU-typeprøvingssertifikatet kan ha ett eller flere vedlegg.
 
@@ -589,9 +805,13 @@ EU-typeprøvingssertifikatet og dets vedlegg skal inneholde alle opplysninger so
 
 Dersom typen ikke oppfyller gjeldende krav i denne forskriften, skal det tekniske kontrollorganet avslå å utstede et EU-typeprøvingssertifikat og underrette søkeren om dette, og gi søkeren en detaljert begrunnelse for avslaget.
 
+7\.
+
 Det tekniske kontrollorganet skal holde seg underrettet om alle endringer i den allment anerkjente teknologiske utviklingen som tyder på at den godkjente typen ikke lenger oppfyller gjeldende krav i denne forskriften, og avgjøre om slike endringer krever ytterligere undersøkelser. I så tilfelle skal det tekniske kontrollorganet underrette produsenten om dette.
 
 Produsenten skal underrette det tekniske kontrollorganet som oppbevarer den tekniske dokumentasjonen for EU-typeprøvingssertifikatet, om alle endringer av den godkjente typen som kan ha betydning for om produktet er i samsvar med de grunnleggende helse- og sikkerhetskravene i denne forskriften eller vilkårene for gyldigheten av sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EU-typeprøvingssertifikatet.
+
+8\.
 
 Hvert tekniske kontrollorgan skal underrette Direktoratet for samfunnssikkerhet og beredskap om EU-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for Direktoratet for samfunnssikkerhet og beredskap listen over slike sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på annen måte begrenset.
 
@@ -599,25 +819,41 @@ Hvert tekniske kontrollorgan skal underrette de andre tekniske kontrollorganene 
 
 Kommisjonen, EØS-statene og de andre tekniske kontrollorganene kan på anmodning få en kopi av EU-typeprøvingssertifikatene og/eller tillegg til dem. På anmodning kan Kommisjonen og EØS-statene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene som er utført av det tekniske kontrollorganet. Det tekniske kontrollorganet skal beholde en kopi av EU-typeprøvingssertifikatet, dets vedlegg og tillegg, samt den tekniske dokumentasjonen, herunder dokumentasjonen som produsenten har sendt inn, frem til utløpet av sertifikatets gyldighetsperiode.
 
+9\.
+
 Produsenten skal oppbevare en kopi av EU-typeprøvingssertifikatet med vedlegg og tillegg sammen med den tekniske dokumentasjonen i ti år etter at produktet ble brakt i omsetning slik at disse dokumentene kan stilles til rådighet for tilsynsmyndighetene.
+
+10\.
 
 Produsentens representant kan sende inn søknaden nevnt i nr. 3 og oppfylle forpliktelsene angitt i nr. 7 og 9, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg IV. Modul D: Typesamsvar basert på kvalitetssikring av produksjonsprosessen
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produksjonsprosessen er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte produktene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller de gjeldende krav i denne forskriften.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon av ferdige produkter og prøving av de berørte produkter som beskrevet i nr. 3. Produsenten skal være underlagt kontrollen nevnt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem for de berørte produktene til et teknisk kontrollorgan etter eget valg.
 
 Søknaden skal inneholde:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden sendes inn av representanten,en skriftlig erklæring om at samme søknad ikke er sendt til et annet teknisk kontrollorgan,alle opplysninger av betydning for den planlagte produktkategorien,dokumentasjon for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i denne forskriften.
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og instruksjoner. Denne dokumentasjonen for kvalitetssystemet skal sikre en entydig forståelse av kvalitetsprogrammer, planer, håndbøker og registreringer.
 
 Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilhørende produksjons-, kvalitetskontroll- og kvalitetssikringsteknikkene, prosesser og systematiske tiltak som vil bli brukt,undersøkelser og prøvinger som vil bli utført før, under og etter produksjonen, samt opplysninger om hvor ofte de vil bli utført,kvalitetsregistreringer, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv., ogmetoder for å overvåke at den påkrevde produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
+
+3.3
 
 Det tekniske kontrollorganet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
@@ -627,7 +863,11 @@ I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av rev
 
 Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for vedtaket.
 
+3.4
+
 Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og til å opprettholde det, slik at det fortsatt fungerer hensiktsmessig og effektivt.
+
+3.5
 
 Produsenten skal holde det tekniske kontrollorganet som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -635,49 +875,91 @@ Det tekniske kontrollorganet skal vurdere alle foreslåtte endringer og avgjøre
 
 Det skal underrette produsenten om sitt vedtak. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnelse for vedtaket.
 
+4.*Kontroll på det tekniske kontrollorganets ansvar*
+
+4.1
+
 Formålet med tilsynet er å sikre at produsenten korrekt oppfyller de forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistreringer, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
+4.3
+
 Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikre at produsenten opprettholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det tekniske kontrollorganet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller besørge utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det ble utført prøvinger.
 
+5.*CE-merking, samsvarserklæring og samsvarsattest*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det tekniske kontrollorganet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt produkt som ikke er en komponent og som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell, som ikke er en komponent, og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet som ikke er en komponent ble brakt i omsetning. Samsvarserklæringen skal angi hvilken produktmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en komponent.
 
+5.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest for hver komponentmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponentmodell den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
 
+6\.
+
 Produsenten skal i et tidsrom på ti år etter at produktet ble brakt i omsetning, kunne fremlegge for tilsynsmyndighetenedokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,avgjørelsene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert tekniske kontrollorgan skal underrette Direktoratet for samfunnssikkerhet og beredskap om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for Direktoratet for samfunnssikkerhet og beredskap listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på annen måte begrenset.
 
 Hvert tekniske kontrollorgan skal underrette de andre tekniske kontrollorganer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet, trukket tilbake eller på annen måte begrenset, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
 
+8.*Representant*
+
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg V. Modul F: Typesamsvar basert på produktverifisering
 
+1\.
+
 Typesamsvar basert på produktverifisering er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte produktene, som har vært omfattet av bestemmelsene i nr. 3, er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i denne forskriften.
 
+2.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av denne sikrer at de produserte produktene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i denne forskriften.
+
+3.*Verifikasjon*
 
 Et teknisk kontrollorgan valgt av produsenten skal utføre hensiktsmessige undersøkelser og prøvinger, for å verifisere om produktene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i denne forskriften.
 
 Undersøkelsene og prøvingene for å kontrollere om produktene er i samsvar med de gjeldende krav, skal gjennomføres ved kontroll og prøving av hvert enkelt produkt som angitt i nr. 4.
 
+4.*Verifikasjon av samsvar basert på undersøkelse og prøving av hvert enkelt produkt*
+
+4.1
+
 Alle produktene skal undersøkes enkeltvis, og de egnede prøvinger, som definert i den eller de relevante harmoniserte standarder eller øvrige relevante tekniske spesifikasjoner, skal utføres for å verifisere at produktene er i samsvar med den godkjente typen som er beskrevet i EU-typeprøvingssertifikatet, og med kravene i denne forskriften.
 
 I mangel av en slik harmonisert standard skal det berørte tekniske kontrollorganet avgjøre hvilke egnede prøvinger som skal utføres.
+
+4.2
 
 Det tekniske kontrollorganet skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelser og prøvinger, og skal påføre sitt identifikasjonsnummer på hvert godkjente produkt eller få det påført på sitt ansvar.
 
 Produsenten skal oppbevare samsvarssertifikatene og skal kunne stille dem til rådighet for tilsynsmyndighetene for kontroll i ti år etter at produktet er brakt i omsetning.
 
+5.*CE-merking, samsvarserklæring og samsvarsattest*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det tekniske kontrollorganet nevnt i nr. 3, sistnevntes identifikasjonsnummer på hvert enkelt produkt som ikke er en komponent og som er i samsvar med den godkjente typen beskrevet i EU-typeprøvingssertifikatet og som oppfyller gjeldende krav i denne forskriften.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell, som ikke er en komponent, og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet som ikke er en komponent, ble brakt i omsetning. Samsvarserklæringen skal angi hvilken produktmodell den er utarbeidet for.
 
@@ -685,47 +967,81 @@ En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en kom
 
 Dersom det tekniske kontrollorganet nevnt i nr. 3 samtykker til det, kan produsenten også, på organets ansvar, påføre dets identifikasjonsnummer på produktene som ikke er komponenter.
 
+5.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest for hver komponentmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponentmodell den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
 
+6\.
+
 Dersom det tekniske kontrollorganet samtykker, kan produsenten også, på organets ansvar, påføre det tekniske kontrollorganets identifikasjonsnummer på produktene under produksjonen.
+
+7.*Representant*
 
 Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten. En representant kan ikke oppfylle produsentens forpliktelser i henhold til nr. 2.
 
 ## Vedlegg VI. Modul C1: Typesamsvar basert på intern produksjonskontroll og overvåket produktprøving
 
+1\.
+
 Typesamsvar basert på intern produksjonskontroll og overvåket produktprøving er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer som eneansvarlig at de berørte produkter er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
 
+2.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av den sikrer at de produserte produktene er i samsvar med den typen som er beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.
+
+3.*Produktkontroller*
 
 For hvert produkt som produseres skal produsenten eller noen på produsentens vegne utføre én eller flere prøvinger av en eller flere av produktets egenskaper, for å verifisere at produktene er i samsvar med den typen som er beskrevet i EU-typeprøvingssertifikatet, og med tilhørende krav i forskriften. Prøvingene skal utføres under ansvar av et teknisk kontrollorgan som produsenten har valgt.
 
 Produsenten skal, under det tekniske kontrollorganets ansvar, påføre det tekniske kontrollorganets identifikasjonsnummer i produksjonsprosessen.
 
+4.*CE-merking, samsvarserklæring og samsvarsattest*
+
+4.1
+
 Produsenten skal påføre CE-merkingen på hvert enkelt produkt som ikke er en komponent, og som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
+
+4.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for en produktmodell som ikke er en komponent, og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet, som ikke er en komponent, ble brakt i omsetning. Samsvarserklæringen skal angi hvilken produktmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en komponent.
 
+4.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest for hver komponentmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponentmodell den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
+
+5.*Representant*
 
 Produsentens forpliktelser angitt i nr. 4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg VII. Modul E: Typesamsvar basert på kvalitetssikring av produkter
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produkter er den delen av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at de berørte produktene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og oppfyller gjeldende krav i forskriften.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem som angitt i nr. 3 for inspeksjon og prøving av ferdige produkter og skal være underlagt kontrollen nevnt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal sende inn en søknad om vurdering av sitt kvalitetssystem for de berørte produktene til et teknisk kontrollorgan etter eget valg.
 
 Søknaden skal inneholde:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden sendes inn av representanten,en skriftlig erklæring om at samme søknad ikke er sendt inn til et annet teknisk kontrollorgan,alle opplysninger av betydning for den planlagte produktkategorien,dokumentasjon for kvalitetssystemet ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EU-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet, og med gjeldende krav i forskriften.
 
 Alle elementer, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og oversiktlig måte i form av skriftlige retningslinjer, framgangsmåter og instruksjoner. Denne dokumentasjonen for kvalitetssystemet skal sikre en entydig forståelse av kvalitetsprogrammer, planer, håndbøker og registreringer.
 
 Dokumentasjonen skal særlig inneholde en fyllestgjørende beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli utført etter produksjon,kvalitetsregistreringer, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.,metoder for å kontrollere at kvalitetssystemet virker effektivt.
+
+3.3
 
 Det tekniske kontrollorganet skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
@@ -735,7 +1051,11 @@ I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av rev
 
 Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for vedtaket.
 
+3.4
+
 Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og til å opprettholde det, slik at det fortsatt fungerer hensiktsmessig og effektivt.
+
+3.5
 
 Produsenten skal holde det tekniske kontrollorganet som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -743,59 +1063,111 @@ Det tekniske kontrollorganet skal vurdere alle foreslåtte endringer og avgjøre
 
 Produsenten skal underrettes om vedtaket. Underretningen skal inneholde konklusjonene fra undersøkelsen og en begrunnelse for vedtaket.
 
+4.*Kontroll på det tekniske kontrollorganets ansvar*
+
+4.1
+
 Formålet med kontrollen er å sikre at produsenten korrekt oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det tekniske kontrollorganet adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistreringer, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personalets kvalifikasjoner osv.
 
+4.3
+
 Det tekniske kontrollorganet skal gjennomføre periodiske revisjoner for å sikre at produsenten opprettholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det tekniske kontrollorganet kan dessuten avlegge uanmeldte besøk hos produsenten. Ved slike besøk kan det tekniske kontrollorganet om nødvendig utføre eller besørge utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det tekniske kontrollorganet skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det ble utført prøvinger.
 
+5.*CE-merking, samsvarserklæring og samsvarsattest*
+
+5.1.
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det tekniske kontrollorganet nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt produkt som ikke er en komponent og som er i samsvar med typen beskrevet i EU-typeprøvingssertifikatet og som oppfyller gjeldende krav i forskriften.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell, som ikke er en komponent, og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet som ikke er en komponent ble brakt i omsetning. Samsvarserklæringen skal angi hvilken produktmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en komponent.
 
+5.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest for hver komponentmodell og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponentmodell den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
 
+6\.
+
 Produsenten skal i et tidsrom på ti år etter at produktet ble brakt i omsetning, kunne framlegge for tilsynsmyndighetene idokumentasjonen nevnt i nr. 3.1,opplysningene om godkjente endringer nevnt i nr. 3.5,avgjørelsene og rapportene fra det tekniske kontrollorganet nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert tekniske kontrollorgan skal underrette Direktoratet for samfunnssikkerhet og beredskap om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning stille til rådighet for Direktoratet for samfunnssikkerhet og beredskap listen over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
 Hvert tekniske kontrollorgan skal underrette de andre tekniske kontrollorganer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet eller trukket tilbake, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
 
+8.*Representant*
+
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg VIII. Modul A: Intern produksjonskontroll
 
+1\.
+
 Intern produksjonskontroll er den framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 4, og sikrer og erklærer som eneansvarlig at de berørte produktene oppfyller gjeldende krav i forskriften.
+
+2.*Teknisk dokumentasjon*
 
 Produsenten skal utarbeide den tekniske dokumentasjonen. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko.
 
 Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal minst inneholde følgende elementer:en generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og hvordan produktet virker,en liste over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i forskriften, herunder en liste over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er foretatt, osv., ogprøvingsrapporter.
 
+3.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak for at produksjonsprosessen og overvåkingen av denne sikrer at de produserte produktene er i samsvar med den tekniske dokumentasjonen nevnt i nr. 2 og oppfyller gjeldende krav i forskriften.
 
+4.*CE-merking, samsvarserklæring og samsvarsattest*
+
+4.1
+
 Produsenten skal påføre CE-merkingen på hvert enkelt produkt som ikke er en komponent, og som oppfyller gjeldende krav i forskriften.
+
+4.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for en produktmodell som ikke er en komponent, og kunne stille den og den tekniske dokumentasjonen til rådighet for tilsynsmyndighetene i ti år etter at produktet som ikke er en komponent, ble brakt i omsetning. Samsvarserklæringen skal angi hvilken produktmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en komponent.
 
+4.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest for hver komponentmodell og kunne stille den og den tekniske dokumentasjonen til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponent den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
+
+5.*Representant*
 
 Produsentens forpliktelser angitt i nr. 4 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg IX. Modul G: Samsvar basert på verifisering av enkelteksemplarer
 
+1\.
+
 Samsvar basert på verifisering av enkelteksemplarer er den framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 5, og sikrer og erklærer som eneansvarlig at det berørte produktet, som har vært omfattet av bestemmelsene i nr. 4, er i samsvar med gjeldende krav i forskriften.
+
+2.*Teknisk dokumentasjon*
+
+2.1
 
 Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det tekniske kontrollorganet nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal minst inneholde følgende elementer:en generell beskrivelse av produktet,konstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og hvordan produktet virker,en liste over de harmoniserte standarder som helt eller delvis er anvendt, som det er offentliggjort henvisninger til i Den europeiske unions tidende, og dersom de harmoniserte standardene ikke er anvendt, beskrivelser av de løsninger som er valgt for å oppfylle de grunnleggende helse- og sikkerhetskravene i forskriften, herunder en liste over andre relevante tekniske spesifikasjoner som er anvendt. Dersom harmoniserte standarder delvis er anvendt, skal den tekniske dokumentasjonen angi hvilke deler som er anvendt,resultater av gjennomførte konstruksjonsberegninger, undersøkelser som er foretatt, osv., ogprøvingsrapporter.
 
+2.2
+
 Produsenten skal oppbevare den tekniske dokumentasjonen og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet er brakt i omsetning.
 
+3.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og overvåkingen av denne sikrer at det produserte produktet er i samsvar med gjeldende krav i forskriften.
+
+4.*Verifikasjon*
 
 Et teknisk kontrollorgan valgt av produsenten skal utføre eller besørge utført hensiktsmessige undersøkelser og prøvinger, som fastsatt i relevante harmoniserte standarder, og/eller tilsvarende prøvinger fastsatt i øvrige relevante tekniske spesifikasjoner, for å kontrollere om produktet er i samsvar med gjeldende krav i forskriften. I mangel av en slik harmonisert standard skal det berørte tekniske kontrollorganet avgjøre hvilke egnede prøvinger som skal utføres.
 
@@ -803,35 +1175,63 @@ Det tekniske kontrollorganet skal utstede et samsvarssertifikat på grunnlag av 
 
 Produsenten skal oppbevare samsvarssertifikatene og skal kunne stille dem til rådighet for tilsynsmyndighetene i ti år etter at produktet er brakt i omsetning.
 
+5.*CE-merking, samsvarserklæring og samsvarsattest*
+
+5.1
+
 Produsenten skal påføre CE-merkingen, og under ansvar av det tekniske kontrollorganet nevnt i nr. 4, sistnevntes identifikasjonsnummer på hvert produkt som ikke er en komponent, og som er i samsvar med gjeldende krav i forskriften.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at produktet som ikke er en komponent, ble brakt i omsetning. Samsvarserklæringen skal angi hvilket produkt den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal følge med hvert produkt som ikke er en komponent.
 
+5.3
+
 Produsenten skal utarbeide en skriftlig samsvarsattest og kunne stille den til rådighet for tilsynsmyndighetene i ti år etter at komponenten ble brakt i omsetning. Samsvarsattesten skal angi hvilken komponent den er utarbeidet for. En kopi av samsvarsattesten skal følge med hver komponent.
+
+6.*Representant*
 
 Produsentens forpliktelser angitt i nr. 2.2 og 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ## Vedlegg X. Samsvarserklæring1
 
+1\.
+
 Produktmodell/produkt (entydig identifikasjon av produktet; produkt, type-, parti eller serienummer):
+
+2\.
 
 Navn og adresse til produsenten eller eventuelt produsentens representant:
 
+3\.
+
 Denne samsvarserklæringen er utstedt på produsentens ansvar alene.
+
+4\.
 
 Gjenstand for erklæringen (identifikasjon av produktet som gjør det mulig å spore det; dette kan ved behov omfatte et bilde for å identifisere produktet):
 
+5\.
+
 Gjenstand for erklæringen beskrevet over er i samsvar med relevante deler av EØS-regelverket:
+
+6\.
 
 Henvisninger til de relevante harmoniserte standarder som er anvendt, eller henvisninger til andre tekniske spesifikasjoner det erklæres samsvar med:
 
+7\.
+
 Dersom det er relevant: Det tekniske kontrollorganet ... (navn, nummer) ... har utført ... (beskrivelse av inngrepet) ... og utstedt sertifikatet:
+
+8\.
 
 Tilleggsopplysninger:Undertegnet for og på vegne av:
 (sted og dato for utstedelse):
 (navn, funksjon) (underskrift):
+
+1 Produsenten kan velge å tildele samsvarserklæringen et nummer.
 
 ## Vedlegg XI. Utforming av CE-merkingen
 

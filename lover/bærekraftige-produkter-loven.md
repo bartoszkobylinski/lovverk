@@ -134,3 +134,5 @@ I forskrift etter [§§ 3](lov/2024-06-25-69/§3), [4](lov/2024-06-25-69/§4), [
 ## § 16. Ikrafttredelse
 
 Loven gjelder fra den tiden1 Kongen bestemmer.
+
+1 Fra 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1267](forskrift/2024-06-25-1267).

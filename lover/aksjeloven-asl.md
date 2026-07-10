@@ -2620,6 +2620,8 @@ Riksrevisjonen fører kontroll med forvaltningen av statens interesser og kan fo
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.
 
+1 Fra 1 jan 1999 iflg. [res. 17 juli 1998 nr. 615](forskrift/1998-07-17-615).
+
 ### § 21-2. Overgangsregler
 
 1. Et aksjeselskap som er stiftet før loven trer i kraft, regnes som aksjeselskap og følger reglene i loven her, hvis ikke selskapet før loven trer i kraft er registrert i Foretaksregisteret som allment aksjeselskap.– – –

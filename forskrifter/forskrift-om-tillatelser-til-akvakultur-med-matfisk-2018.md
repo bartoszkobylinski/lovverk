@@ -38,7 +38,18 @@ Forskriften gjelder tildeling av nye tillatelser til akvakultur med matfisk av l
 
 ### § 3. Fordeling av produksjonskapasitet i denne auksjonen
 
-Forskriften gjelder tildeling av produksjonskapasitet i bestemte produksjonsområder. Produksjonskapasiteten tildeles i bestemte størrelser som nummererte tillatelser. Fordelingen er slik:*Tillatelsesnr.**Produksjonsområde**Størrelse i tonn MTB*1116271003745481005810061040711281211
+Forskriften gjelder tildeling av produksjonskapasitet i bestemte produksjonsområder. Produksjonskapasiteten tildeles i bestemte størrelser som nummererte tillatelser. Fordelingen er slik:
+
+| *Tillatelsesnr.* | *Produksjonsområde* | *Størrelse i tonn MTB* |
+| --- | --- | --- |
+| 1 | 1 | 16 |
+| 2 | 7 | 100 |
+| 3 | 7 | 45 |
+| 4 | 8 | 100 |
+| 5 | 8 | 100 |
+| 6 | 10 | 40 |
+| 7 | 11 | 2 |
+| 8 | 12 | 11 |
 
 De nærmere grenser for produksjonsområdene følger av [forskrift 16. januar 2017 nr. 61](forskrift/2017-01-16-61) om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret.
 
@@ -115,6 +126,11 @@ Vinner av auksjonen kåres ved at Fiskeridirektoratet sammenstiller inngitte bud
 ### § 15. Innbetaling av vederlag
 
 Vinner plikter å betale budsummen innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til
+
+Fiskeridirektoratet,
+Økonomiseksjonen,
+Postboks 185 Sentrum,
+5804 Bergen,
 
 Beløpet betales til kontonummer 7694 05 09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.
 

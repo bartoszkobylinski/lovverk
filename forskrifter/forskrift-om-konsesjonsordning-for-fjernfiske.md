@@ -76,6 +76,8 @@ Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser i eller i med
 
 > Endret ved [forskrift 1 sep 2017 nr. 1325](forskrift/2017-09-01-1325).
 
+1 Skal vel være [forskrift 20. desember 2011 nr. 1437](forskrift/2011-12-20-1437). Lovtidend-redaksjonens anm.
+
 ## § 9. (Opphevet)
 
 > Opphevet ved [forskrift 1 sep 2017 nr. 1325](forskrift/2017-09-01-1325).

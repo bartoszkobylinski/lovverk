@@ -44,41 +44,158 @@ Tillatelsen kan trekkes tilbake dersom fartøyet ikke oppfyller fastsatte vilkå
 
 Fartøy som nevnt i [§ 2](forskrift/2009-12-11-1507/§2) skal sende de meldingene som fremgår av denne bestemmelsen. Meldingene skal sendes elektronisk til Fiskeridirektoratet.
 
+*a) Melding om fiskestart*
+
 Melding om fiskestart skal sendes senest 6 timer før ankomst i reguleringsområdet.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOE, Melding om fiskestartMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnSkippers navnMAPNavn på fartøyets skipperRegistreringsmerkeXRVFartøyets registreringsnummerPosisjon breddeLAPPosisjon bredde ved sending av melding, NDDMMPosisjon lengdeLOPPosisjon lengde ved sending av melding, E/WDDMMFangstområdeRAPAngivelse av NAFO-underområde det skal fiskes iFiskeslagDSPFiskeslag som er hovedmål for fiskeKvantum om bordOBPFangst om bord fordelt på fiskesort i kilo rund vekt. Parvis angittObservatør om bordOOP«Yes» eller «No»MeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COE, Melding om fiskestart |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Autentisering | AU | P | Avtalt autentiseringskode |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Skippers navn | MA | P | Navn på fartøyets skipper |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Posisjon bredde | LA | P | Posisjon bredde ved sending av melding, NDDMM |
+| Posisjon lengde | LO | P | Posisjon lengde ved sending av melding, E/WDDMM |
+| Fangstområde | RA | P | Angivelse av NAFO-underområde det skal fiskes i |
+| Fiskeslag | DS | P | Fiskeslag som er hovedmål for fiske |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Observatør om bord | OO | P | «Yes» eller «No» |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+*b) Daglig fangstmelding*
 
 Fangstmelding om foregående døgns fangst skal sendes hver dag før kl. 1200 UTC. Slik melding skal også sendes selv om fangsten er 0.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCAT, Daglig fangstmeldingMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretFangstCAPFangst siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.UtkastRJPUtkast siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angittAntall fiskedagerDFPAntall fiskedager i reguleringsområdet siden forrige CAT-meldingFangstområdeRAPNAFO-underområde der fangsten er tattMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | CAT, Daglig fangstmelding |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Autentisering | AU | P | Avtalt autentiseringskode |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Fangst | CA | P | Fangst siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt. |
+| Utkast | RJ | P | Utkast siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Antall fiskedager | DF | P | Antall fiskedager i reguleringsområdet siden forrige CAT-melding |
+| Fangstområde | RA | P | NAFO-underområde der fangsten er tatt |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+*c) Fangstmelding ved grensekryssing 3L*
 
 Fartøy som fisker reker i 3L skal sende fangstmelding en time før grensepassering ved inngang i og utgang av underområde 3L
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOB, Fangstmelding ved grensepasseringMeldingsnummerRNPSerienummer for meldingen i inneværende årRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerFangstområdeRAPNAFO-underområde fartøyet går ut avFangstCAPFangst siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angittFangstområdeAEPNAFO-underområde fartøyet går inn iKvantum om bordOBPFangst om bord ved kryssing av grensen for underområde 3L fordelt på fiskesort i kilo rund vekt. Parvis angittAntall fiskedagerDFPAntall fiskedager i reguleringsområdetMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COB, Fangstmelding ved grensepassering |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Fangstområde | RA | P | NAFO-underområde fartøyet går ut av |
+| Fangst | CA | P | Fangst siden forrige CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Fangstområde | AE | P | NAFO-underområde fartøyet går inn i |
+| Kvantum om bord | OB | P | Fangst om bord ved kryssing av grensen for underområde 3L fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Antall fiskedager | DF | P | Antall fiskedager i reguleringsområdet |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+*d) Omlastingsmelding*
 
 Fartøy som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes sende melding om omlasting. Fartøy som har mottatt fangst fra annet fartøy skal senest en time etter at den enkelte omlasting er avsluttet sende melding om omlasting.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPTRA, melding om omlastingMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretKvantum som skal overføresKGPKvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angittOverført fraTFP1Radiokallesignal på fartøyet det overføres fraOverført tilTTP1Radiokallesignal på fartøyet det overføres tilPosisjon breddeLAP2Antatt posisjon bredde for omlasting, NDDMMPosisjon lengdeLOP2Antatt posisjon lengde for omlasting, E/WDDMMDatoPDP2Antatt dato for omlasting i UTC (ÅÅÅÅMMDD)TidPTP2Antatt tidspunkt for omlasting i UTC (ÅÅÅÅMMDD)MeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | TRA, melding om omlasting |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Autentisering | AU | P | Avtalt autentiseringskode |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Overført fra | TF | P1 | Radiokallesignal på fartøyet det overføres fra |
+| Overført til | TT | P1 | Radiokallesignal på fartøyet det overføres til |
+| Posisjon bredde | LA | P2 | Antatt posisjon bredde for omlasting, NDDMM |
+| Posisjon lengde | LO | P2 | Antatt posisjon lengde for omlasting, E/WDDMM |
+| Dato | PD | P2 | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P2 | Antatt tidspunkt for omlasting i UTC (ÅÅÅÅMMDD) |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
+
+1 Etter hva som er relevant.2 Påkrevd for fartøy som avgir fangst.
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+*e) Melding om havneanløp*
 
 Fartøy som har mottatt fangst fra annet fartøy skal sende melding om havneanløp senest 24 timer før landing finner sted.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPPOR, melding om havneanløpMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnSkippers navnMAVNavn på fartøyets skipperRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretKyststatCSPLandingshavnens kyststatHavnPOPNavnet på havnen der det skal landesDatoPDPAntatt dato for havneanløp i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for havneanløp i UTC (TTMM)Kvantum som skal landesKGPKvantum som skal leveres fordelt på fiskesort i kilo rund vekt. Parvis angittKvantum om bordOBPFangst om bord fordelt på kilo rund vekt. Parvis angittMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | POR, melding om havneanløp |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Autentisering | AU | P | Avtalt autentiseringskode |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Skippers navn | MA | V | Navn på fartøyets skipper |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret |
+| Kyststat | CS | P | Landingshavnens kyststat |
+| Havn | PO | P | Navnet på havnen der det skal landes |
+| Dato | PD | P | Antatt dato for havneanløp i UTC (ÅÅÅÅMMDD) |
+| Tid | PT | P | Antatt tidspunkt for havneanløp i UTC (TTMM) |
+| Kvantum som skal landes | KG | P | Kvantum som skal leveres fordelt på fiskesort i kilo rund vekt. Parvis angitt |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på kilo rund vekt. Parvis angitt |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+f. *Melding om avslutning av fiske*
 
 Melding om avslutning av fiske skal sendes senest 6 timer før utgang av reguleringsområdet.
 
-Meldingen skal inneholde følgende opplysninger:*Dataelement**Kode**Påkrevd/Valgfritt**Forklaring*MeldingstypeTMPCOX, melding om avslutning av fiskeMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAVSkippers navnFiskedagerDFVBreddegradLAVBreddegrad ved sending av meldingLengdegradLOVLengdegrad ved sending av meldingKvantum om bordOBPFangst om bord fordelt på kilo rund vekt. Parvis angitt.FangstområdeRAPNAFO-område fartøyet går ut avMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)
+Meldingen skal inneholde følgende opplysninger:
+
+| *Dataelement* | *Kode* | *Påkrevd/Valgfritt* | *Forklaring* |
+| --- | --- | --- | --- |
+| Meldingstype | TM | P | COX, melding om avslutning av fiske |
+| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år |
+| Autentisering | AU | P | Avtalt autentiseringskode |
+| Radiokallesignal | RC | P | Fartøyets radiokallesignal |
+| Fartøynavn | NA | V | Fartøyets navn |
+| Registreringsmerke | XR | V | Fartøyets registreringsnummer |
+| Skipper | MA | V | Skippers navn |
+| Fiskedager | DF | V |  |
+| Breddegrad | LA | V | Breddegrad ved sending av melding |
+| Lengdegrad | LO | V | Lengdegrad ved sending av melding |
+| Kvantum om bord | OB | P | Fangst om bord fordelt på kilo rund vekt. Parvis angitt. |
+| Fangstområde | RA | P | NAFO-område fartøyet går ut av |
+| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD) |
+| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM) |
 
 All fangst skal oppgis i artskode (FAO-kode). Koden MZZ (marine fish not specified) skal kun brukes dersom fangsten er 0.
+
+*g) Gjennomføring*
 
 Ansvarshavende om bord på fartøyet skal forvisse seg om at rapporteringssystemet fungerer tilfredsstillende før fisket kan starte.
 

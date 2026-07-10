@@ -525,6 +525,8 @@ Loven gjelder også på Svalbard, Jan Mayen og de norske biland, med mindre Kong
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).
 
+1 Fra 1 juli 1973 iflg. res. 25 mai 1973.2 Fra 4 des 1974 iflg. Justisdepartementets bestemmelse i medhold av res. 25 mai 1973.
+
 ### § 59. (endringer i andre lover)
 
 > Endret ved lov [15 juni 2007 nr. 37](lov/2007-06-15-37) (i kraft 1 jan 2022 iflg. [meddelelse 31 jan 2022 nr. 145](forskrift/2022-01-31-145)).

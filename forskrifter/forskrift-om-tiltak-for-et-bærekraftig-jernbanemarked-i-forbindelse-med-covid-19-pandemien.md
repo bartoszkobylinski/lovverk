@@ -31,3 +31,5 @@ eu_basis: []
 ## § 2.
 
 Denne forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar direktiv [2012/34/EU](eu/32012l0034) om et felles europeisk jernbaneområde inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft.1
+
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 769](forskrift/2022-05-06-769).

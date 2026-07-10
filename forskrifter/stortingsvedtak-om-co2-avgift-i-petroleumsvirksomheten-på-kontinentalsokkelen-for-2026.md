@@ -30,10 +30,4 @@ Fra 1. januar 2026 skal det i henhold til [lov 21. desember 1990 nr. 72 om avgif
 
 ## II
 
-Det skal i henhold til [lov 19. mai 1933 nr. 11 om særavgifter](lov/1933-05-19-11) betales avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen med følgende beløp:naturgass brukt som brensel til kraft- og varmeproduksjon: kr 2,57 per standardkubikkmeterdiesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon: kr 2,92 per literpetroleum faklet: kr 2,57 per standardkubikkmeternaturgass sluppet til luft: kr 23,53 per standardkubikkmeterCO2 utskilt fra petroleum og sluppet til luft; kr 2,57 per standardkubikkmeter.
-
-Avgiften omfatter ikke karbonfangst og -lagring (CCS).
-
-Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.
-
-Departementet kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da avgiftsvedtaket ble truffet, og når avgiften i det spesielle enkelttilfellet får en utilsiktet virkning.
+Fra den tid departementet bestemmer, skal Stortingets vedtak om CO2-avgift i petroleumsvirksomhet på kontinentalsokkelen lyde:

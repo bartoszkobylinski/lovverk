@@ -37,20 +37,30 @@ eu_basis: []
 
 ### Utenriksdepartementet
 
+*Oversikt over lover statsråd Dag Inge Ulstein har forvaltningsansvar for etter endringene:*
+
 - [Lov 9. mai 1997 nr. 26](lov/1997-05-09-26) om Statens investeringsfond for næringsvirksomhet i utviklingsland (Norfundloven)
+
+*Oversikt over lover utenriksminster Ine Eriksen Søreide har forvaltningsansvar for etter endringene:*
 
 - Alle øvrige lover under Utenriksdepartementet.
 
 ### Kommunal- og moderniseringsdepartementet
+
+*Oversikt over lover statsråd Nikolai Eivindssøn Astup har forvaltningsansvar for etter endringene:*
 
 - [Lov 14. juni 1884 nr. 3](lov/1884-06-14-3) om beskyttelse av undersjøiske kabler og rørledninger utenfor sjøterritoriet (lov om undersjøiske kabler)
 - [Lov 23. mai 2003 nr. 35](lov/2003-05-23-35) om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)
 - [Lov 4. juli 2003 nr. 83](lov/2003-07-04-83) om elektronisk kommunikasjon (ekomloven)
 - [Lov 15. juni 2018 nr. 44](lov/2018-06-15-44) om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester)
 
+*Oversikt over lover statsråd Monica Mæland har forvaltningsansvar for etter endringene:*
+
 - Alle øvrige lover under Kommunal- og moderniseringsdepartementet.
 
 ### Justis- og beredskapsdepartementet
+
+*Oversikt over lover statsråd Ingvil Smines Tybring-Gjedde har forvaltningsansvar for etter endringene:*
 
 - [Lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard (Svalbardloven)
 - [Lov 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr (el-tilsynsloven)
@@ -63,9 +73,15 @@ eu_basis: []
 - [Lov 25. juni 2010 nr. 45](lov/2010-06-25-45) om kommunal beredskapsplikt, sivile beskyttelsestiltak og Sivilforsvaret (sivilbeskyttelsesloven)
 - [Lov 1. juni 2018 nr. 24](lov/2018-06-01-24) om nasjonal sikkerhet (sikkerhetsloven)
 
+1 Skal være [lov 27. februar 1930 nr. 3](lov/1930-02-27-3), Lovtidend-redaksjonens anm.
+
+*Oversikt over lover statsråd Jøran André Smedal Kallmyr har forvaltningsansvar for etter endringene:*
+
 - Alle øvrige lover under Justis- og beredskapsdepartementet.
 
 ### Barne- og familiedepartementet
+
+*Oversikt over lover statsråd Ropstad har forvaltningsansvar for etter endringene:*
 
 - [Lov 30. juni 1955 nr. 20](lov/1955-06-30-20) om når norsk tenestemakt kan halda brudvigjing i utlandet og utenlandsk tenestemakt i Noreg
 - [Lov 13. juni 1969 nr. 25](lov/1969-06-13-25) om trudomssamfunn og ymist anna
@@ -96,7 +112,11 @@ eu_basis: []
 - [Lov 16. juni 2017 nr. 48](lov/2017-06-16-48) om adopsjon (adopsjonsloven)
 - [Lov 15. juni 2018 nr. 32](lov/2018-06-15-32) om pakkereiser og reisegaranti mv. (pakkereiseloven)
 
+1 Skal være [lov 4. juli 1991 nr. 47](lov/1991-07-04-47), Lovtidend-redaksjonens anm.
+
 ### Kulturdepartementet
+
+*Oversikt over lover statsråd Trine Skei Grande har forvaltningsansvar for etter endringene:*
 
 - [Lov 4. november 1948 nr. 1](lov/1948-11-04-1) om avgift på omsetning av billedkunst m.m. (kunstavgiftsloven)
 - [Lov 13. desember 1948 nr. 5](lov/1948-12-13-5) om Riksteatret (riksteaterlova)

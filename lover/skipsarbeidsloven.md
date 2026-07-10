@@ -842,6 +842,8 @@ Med bøter eller fengsel inntil 6 måneder straffes den som på vegne av arbeids
 
 Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.
 
+1 Iflg. [res. 21 juni 2013 nr. 730](forskrift/2013-06-21-730) trådte loven ikr. 20 aug 2013, med unntak av [lovens kapittel 10](lov/2013-06-21-102/kap10) som trådte ikr. 1 jan 2014. Opphevelse av [sjømannsloven 30 mai 1975 nr. 18](lov/1975-05-30-18) trådte ikr. 20 aug 2013, med unntak av lovens kapittel IIA som ble opphevet fra 1 jan 2014.
+
 ### § 13-2. Endringer i andre lover
 
 Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover: – – –

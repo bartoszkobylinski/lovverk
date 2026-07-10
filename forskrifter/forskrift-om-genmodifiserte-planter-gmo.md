@@ -138,7 +138,134 @@ Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves [forskrif
 
 ## Vedlegg I. Søknad om godkjenning av laboratorier og anlegg for innesluttet bruk av genmodifiserte planter
 
+I. *Generelle opplysninger*
+
+1\. Navn og adresse til laboratorium/anlegg som søker godkjennelse:
+
+2\. Ansvarshavende for laboratoriet/anlegget:
+
+|  |  |
+| --- | --- |
+| Navn og kvalifikasjoner/utdannelse: |  |
+| Adresse: |  |
+| E-postadresse: |  |
+| Tlf.: | Faks: |
+
+3\. Nærmere opplysninger om beliggenhet, anleggets avdelinger og de tekniske installasjoner som sørger for inneslutning
+
+4\. Søknadens mål:
+
+|  |  |  |
+| --- | --- | --- |
+| [ ] S2 godkjenning | [ ] S3 godkjenning | [ ] S4 godkjenning |
+
+II. *Selvangivelse av sikkerhetstiltakene*
+
+|  |  |
+| --- | --- |
+| [ ] | Prinsippene for god mikrobiologisk praksis følges, og ansvarlig for laboratoriet/anlegget informerer om all innesluttet bruk |
+| [ ] | Personalet instrueres vedrørende prosedyrer og informeres om de aktuelle eksperimenter |
+| [ ] | Personalet bruker egnede beskyttelsesklær |
+| [ ] | Forsøk med og dyrking av genmodifiserte planter utføres slik at ukontrollert krysning og spredning unngås |
+| [ ] | Alt avfall og utslipp inneholder bare inaktiverte genmodifiserte organismer, og det undersøkes om det forekommer levedyktige organismer fra prosessen utenfor den primære fysiske inneslutning |
+| [ ] | Det innesluttede område er merket med skilt med angivelse av biologisk fare samt inneslutningsnivå |
+| [ ] | Skilt angir de genmodifiserte plantenes navn og nye egenskaper |
+| [ ] | Området er lett å rengjøre, og det holdes høy standard på renholdet |
+| [ ] | Spising, drikking, lagring av mat samt røyking er forbudt inne i området. |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+III. *Selvangivelse av inneslutningstiltakene for S2 inneslutningsnivå*
+
+|  |  |
+| --- | --- |
+| [ ] | Bygningen er konstruert spesielt for dyrking av planter, materialene i vegger og tak er av uknuselig glass eller lignende. Gulvet er støpt. Bygningen motstår klimapåvirkning. |
+| [ ] | Overgangene mellom gulv, vegger og tak er sikret mot inntrenging av smågnagere og arthopoder (leddyr, krepsdyr, tusenbein) på en slik måte at det er effektivt også etter flere års bruk |
+| [ ] | Inngang til det innesluttede området skjer via luftsluse eller forrom med dører som lukkes automatisk. Den ytre døren er låst utenom arbeidstid |
+| [ ] | Vinduer og andre åpninger (inklusive vifteåpninger) som brukes til ventilasjon har nett (300-500 μm) som hindrer inntrenging av insekter |
+| [ ] | Besøkende registreres i loggbok |
+| [ ] | Det føres forsøksprotokoll som inkluderer alle organismer som føres inn i eller ut av det innesluttede området. Beskyttelsesklær henges igjen innenfor området etter bruk |
+| [ ] | Håndvask er tilgjengelig i det innesluttede området |
+| [ ] | Planter og alt materiale som har vært i kontakt med plantene (bl.a. jord, potter, væsker, planteavfall) merkes og behandles slik at rester av levende materiale inaktiveres, f.eks. i en nærliggende autoklav |
+| [ ] | Avfall og levende plantemateriale som føres ut av området, skal transporteres i uknuselige og lufttette beholdere. |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+IV. *Selvangivelse av inneslutningstiltakene for S3 inneslutningsnivå*
+
+|  |  |
+| --- | --- |
+| [ ] | Inneslutningstiltakene for S2 inneslutningsnivå |
+| [ ] | Bygningen er vanntett |
+| [ ] | Byggematerialene i vegger, gulv og tak er ikke porøse |
+| [ ] | Skjøtene i overgangene mellom gulv, vegger og tak blir ikke porøse av klimapåvirkning over tid |
+| [ ] | Overflater på innvendige vegger, gulv, bord og dører er lette å rengjøre og desinfisere. Overflatene reagerer ikke med desinfiserings-/rengjøringsmiddelet. Vinduene er uknuselige og kan ikke åpnes. Det finnes et system for oppsamling av vaske- og avløpsvann i gulvet slik at alt vann blir silt, sterilisert før det slippes ut |
+| [ ] | Inngang til det innesluttede området er via luftsluse med dører som lukkes automatisk, dørene kan ikke åpnes samtidig |
+| [ ] | Ventilasjonssystemet sørger for riktig luftstrøm inn og ut av det innesluttede området. Utluften filtreres gjennom et filter som hindrer at pollen slipper ut. Åpningen på ventilasjonsviften er stengt når viften ikke er i funksjon |
+| [ ] | Kun autorisert personale har adgang til området. Besøkende følges av disse. Personalet bruker egnet utstyr som overall, hodeplagg og sko reservert for arbeidet i området. Beskyttelsesklær henges igjen i luftslusen etter bruk |
+| [ ] | Håndvask med desinfeksjonsmiddel er tilgjengelig i luftslusen. Vasken kan betjenes uten bruk av hendene. Personalet desinfiserer hendene før de forlater det innesluttede området |
+| [ ] | Avfall, beskyttelsesklær, utstyr m.m. som ikke steriliseres på stedet, transporteres i lufttette, uknuselige beholdere for sterilisering og eventuell deponering. |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
+V. *Selvangivelse av inneslutningstiltakene for S4 inneslutningsnivå*
+
+|  |  |
+| --- | --- |
+| [ ] | Inneslutningstiltakene for S2 og S3 inneslutningsnivå |
+| [ ] | Det innesluttede området er enten en frittstående bygning eller ligger i en isolert sone inne i en bygning |
+| [ ] | Vegger, vinduer, tak og gulv og skjøter mellom disse skal være gasstette |
+| [ ] | Anlegget kan dekontamineres ved gassing |
+| [ ] | Ventilasjonssystemet sørger for svakt undertrykk (50 Pa) i vekstrommene inne i det innesluttede området og i luftslusen (40 Pa). Utluften fra anlegget (inkl. utluften fra autoklav) filtreres gjennom et absolutt filter (HEPA). Filteret kan skiftes uten utslipp av materiale |
+| [ ] | Ventilasjonssystemet er tilknyttet nødstrømaggregat (anbefalt) |
+| [ ] | Kun autorisert personale har adgang. Anlegget er låst |
+| [ ] | Dusj og håndvask med desinfeksjonsmiddel er tilgjengelig i luftslusen. Vasken kan betjenes uten bruk av hendene. Personell dusjer før de forlater det innesluttede området |
+| [ ] | Planterester, avfall, beskyttelsesklær, utstyr m.m. steriliseres inne i det innesluttede området f.eks. ved autoklavering |
+| [ ] | Bygningen er vanntett. |
+
+|  |  |
+| --- | --- |
+| Dato: | Ansvarshavendes underskrift: |
+
 ## Vedlegg II. Søknad om godkjenning av innesluttet bruk av genmodifiserte planter
+
+I. *Generelle opplysninger*
+
+1\. Navn og kvalifikasjoner på ansvarlig person for den innesluttede bruken:
+
+2\. Institusjons navn:
+
+3\. Adresse:
+
+|  |  |  |
+| --- | --- | --- |
+| 4. Tlf.: | Faks: | E-postadresse: |
+
+5\. Laboratoriets/anleggets navn og adresse:
+
+6\. Sendes det ny søknad for laboratoriet og anlegg?
+
+|  |  |
+| --- | --- |
+| Ja [ ] | Nei [ ] |
+
+7\. Navn på ansvarlig person for laboratoriet/anlegget:
+
+8\. Beskrivelse av anleggets avdelinger og inneslutningsnivå:
+
+II. *Prosjektbeskrivelse*
+
+9\. Vitenskapelig- og trivialnavn på de genmodifiserte/ikke-modifiserte organismene som inngår i bruken:
+
+10\. Antatt mengde/antall planter som skal benyttes:
+
+11\. Beskrivelse av modifiseringen, herunder:
 
 1. det innsatte genmaterialets opprinnelse (donor), planlagte funksjon og genetiske stabilitet
 2. vert/vektorsystem
@@ -146,16 +273,42 @@ Denne forskriften trer i kraft 1. januar 2002. Fra samme dato oppheves [forskrif
 4. den modifiserte organismens egenskap, funksjon og biologiske inneslutning
 5. formålet, herunder det ventede resultat
 
+12\. Planlagt varighet
+
+III. *Forhåndsvurdering*
+
+13\. Forhåndsvurdering av risiko, jf. forskriften vedlegg III
+
 1. Risiko for sykdom/skade på mennesker, dyr, planter eller miljø
 2. Risiko for utendørs etablering og spredning av genmodifiserte planter
 3. Risiko i landbruksmessig sammenheng
 4. Ytterligere risiko som følge av kombinasjonsbruk der andre typer genmodifiserte organismer er involvert
 
+IV. *Sikkerhetsprosedyrer*
+
+14\. Beskrivelse av metodene for håndtering av genmodifiserte planter
+
+15\. Metodene for avfallshåndtering
+
+16\. Forholdsregler med hensyn på helse og miljø
+
+17\. Beskrivelse av verne- og overvåkingstiltak
+
+18\. Beredskapsplaner og tiltak ved utilsiktet utslipp av genmodifisert plantemateriale
+
+|  |  |
+| --- | --- |
+| Dato: | Underskrift: |
+
 ## Vedlegg III. Forhåndsvurdering av risiko for sykdom/skade på mennesker, dyr, planter eller miljø
 
 *Forhold som må vurderes:*Om genmodifiseringen vil føre til uttrykk av uønskede egenskaper (eks. antibiotikaresistens, toksiner osv.)om planten er tilført egenskaper som kan gi endret mottakelighet for kjemikalier, biologiske agens eller andre kontrolltiltak (eks. antibiotika-, herbicidresistens)eksisterende metoder for påvisning, identifisering og overvåkning av de modifiserte planteneeksisterende teknikker som gjør det mulig å påvise overføring av det nye genmaterialet til andre organismer
 
+*Risiko for utendørs etablering og spredning av genmodifiserte planter*
+
 *Forhold som må vurderes:*Overlevelsesevne i utendørs miljø (vekstbetingelser: næring, temperatur, lys osv.),reproduksjonsevne og mulighet for genspredning via kjønnet formering til nært beslektede arter eller planter av samme art,muligheter for horisontal genoverføring vurdert ut fra det innsatte genmaterialets natur.
+
+*Risiko i landbruksmessig sammenheng*
 
 *Forhold som må vurderes:*Den genmodifiserte plantens potensiale som ugress eller spredning av ugressegenskaper til andre planter,om planten er oppført på karanteneliste,om plantematerialet innebærer risiko for spredning av plantepatogener. Muligheter for interaksjoner med andre planter i miljøet (både kulturplanter og ville planter),Vurderes ut fra følgende forhold:inokulumets tetthetlevedyktighetangrepsmåtevertsspekter/livssyklusmiljøbetingelser for spredningvirulens.
 

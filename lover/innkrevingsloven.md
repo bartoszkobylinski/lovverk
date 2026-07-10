@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om innkreving av statlige krav mv. (innkrevingsloven)
 
+Se [forskrift 1. juli 2025 nr. 1418 om overgangsregler for innkrevingsloven og endringer i andre lover](forskrift/2025-07-01-1418) og [forskrift 12. desember 2025 nr. 2508 om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)](forskrift/2025-12-12-2508).
+
 ## Kapittel 1. Innledende bestemmelser
 
 ### § 1. Formålet med loven
@@ -214,6 +216,8 @@ Departementet kan i forskrift bestemme hvilken dekningsrekkefølge som skal gjel
 
 (7) En kommune kan dekke krav som nevnt i [tvangsfullbyrdelsesloven § 2-14](lov/1992-06-26-86/§2-14) ved motregning etter reglene i første og sjette ledd. Departementet kan gi forskrift om Innkrevingsmyndighetens gjennomføring av motregning på vegne av annen offentlig myndighet, herunder hvilken dekningsrekkefølge som skal gjelde, og saksbehandlingen i saker om beslagsfrihet.
 
+1 I kraft 1 jan 2027 iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+
 ### § 22. Avregning
 
 (1) Når Innkrevingsmyndigheten beslutter avregning, gjelder [dekningsloven § 2-7 første ledd første punktum](lov/1984-06-08-59/§2-7/ledd/1/setning/1) tilsvarende. Avregning har prioritet foran utleggstrekk.
@@ -388,14 +392,21 @@ Innkrevingsmyndigheten gjennomfører utleggstrekk etablert av namsfogdene og utl
 
 (3) Kongen kan gi overgangsbestemmelser.3
 
+1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+Fra 1. januar 2027 for [innkrevingsloven § 21](lov/2025-04-25-12/§21) iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).2 Se [forskrift 12. desember 2025 nr. 2508 om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)](forskrift/2025-12-12-2508).3 Se [forskrift 1. juli 2025 nr. 1418 om overgangsregler for innkrevingsloven og endringer i andre lover](forskrift/2025-07-01-1418).
+
 ### § 41. Endringer i tvangsfullbyrdelsesloven
 
 Fra den tid1 Kongen fastsetter, gjøres følgende endringer i [lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse](lov/1992-06-26-86): – – –
 
 > Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
 
+1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).
+
 ### § 42. Endringer i andre lover
 
 Fra den tid1 Kongen fastsetter, gjøres følgende endringer i andre lover: – – –
 
 > Endret ved lov [22 des 2025 nr. 124](lov/2025-12-22-124).
+
+1 Fra 1. januar 2026, med unntak av lovendringene om utlegg som i saker om utlegg kommer gradvis til anvendelse, se delegeringsvedtak [10 juni 2025 nr. 968](forskrift/2025-06-10-968) og [12 juni 2025 nr. 1053](forskrift/2025-06-12-1053), og [utrullingsforskriften](forskrift/2025-12-12-2508), iflg. [res. 10 juni 2025 nr. 967](forskrift/2025-06-10-967).

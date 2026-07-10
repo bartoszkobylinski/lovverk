@@ -183,3 +183,5 @@ Det er nok at skriftleg utsegn eller melding er inngjeven til den tilbyder av po
 Lova gjeld frå den tid Kongen fastset.1
 
 Frå same tid held etternemnde føresegner opp å gjelda: – – –
+
+1 Frå 1 juli 1966 iflg. res. 25 mai 1966 (jf. rundskriv 15 juni 1966 frå Justisdepartementet).

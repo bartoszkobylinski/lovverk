@@ -30,6 +30,8 @@ Formålet med denne loven er å gi utvalget for gjennomgang av stortingspensjone
 
 Utvalget for gjennomgang av stortingspensjoner har rett til å innhente nødvendige opplysninger uten hinder av taushetsplikt etter følgende bestemmelser:[Lov av 13. juni 1980 nr. 24](lov/1980-06-13-24)1 om ligningsforvaltning [§ 3-13](lov/1980-06-13-24/§3-13).[Lov av 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd [§ 25-1](lov/1997-02-28-19/§25-1) (adgang til arbeidsgiverregisteret og arbeidstagerregisteret).[Lov av 16. juni 2006 nr. 20](lov/2006-06-16-20) om arbeids- og velferdsforvaltningen [§ 7](lov/2006-06-16-20/§7).[Lov av 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven) [§ 13](lov/1967-02-10/§13).
 
+1 Inkurie: Loven er opphevet, se nå [lov 27 mai 2016 nr. 14](lov/2016-05-27-14).
+
 ## § 3. (Opphevet)
 
 > Opphevet ved [lov 15 juni 2018 nr. 38](lov/2018-06-15-38) (ikr. 20 juli 2018 iflg. meddelelse 17 juli 2018 nr. 1195).

@@ -24,6 +24,8 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+Alminnelig tjenesteinstruks for politiet (politiinstruksen) av 22. juni 1990 nr. 3963, med hjemmel i [lov av 13 mars 1936 nr. 3](lov/1936-03-13-3) om politiet [§ 29](lov/1936-03-13-3/§29) jf. [lov av 4 august 1995 nr. 53](lov/1995-08-04-53) om politiet [§ 29](lov/1995-08-04-53/§29) jf. [§ 31](lov/1995-08-04-53/§31) annet ledd.
+
 - Myndighet til å godkjenne politiutstyr som nevnt i politiinstruksen § 3-2 tredje og fjerde ledd i medhold av politiinstruksen § 3-2 femte ledd.
 - Myndighet til å håndheve politimestrenes boplikt etter politiloven § 22 i medhold av politiinstruksen § 4-2 fjerde ledd.
 - Myndighet til å gi retningslinjer for føring av vaktjournal i medhold av politiinstruksen § 7-1 tredje ledd.

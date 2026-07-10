@@ -26,6 +26,8 @@ eu_basis: []
 
 Trøndelag tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Sør-Trøndelag (rettssted Trondheim)
+
 - Heim kommune
 - Holtålen kommune
 - Malvik kommune
@@ -41,6 +43,8 @@ Trøndelag tingrett deles i fire trekningskretser for meddommere. Kommunene som 
 - Trondheim kommune
 - Tydal kommune.
 
+Trekningskrets 2 Inntrøndelag (rettssted Steinkjer)
+
 - Frosta kommune
 - Inderøy kommune
 - Levanger kommune
@@ -50,12 +54,16 @@ Trøndelag tingrett deles i fire trekningskretser for meddommere. Kommunene som 
 - Stjørdal kommune
 - Verdal kommune.
 
+Trekningskrets 3 Fosen (rettssted Brekstad)
+
 - Frøya kommune
 - Hitra kommune
 - Indre Fosen kommune
 - Osen kommune
 - Ørland kommune
 - Åfjord kommune.
+
+Trekningskrets 4 Namdal (rettssted Nåavmesjenjaelmie/Namsos)
 
 - Flatanger kommune
 - Grong kommune

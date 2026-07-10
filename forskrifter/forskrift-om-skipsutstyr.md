@@ -192,29 +192,49 @@ Framgangsmåter for samsvarsvurdering
 
 ### I. Modul B: EF-typeprøving
 
+1\.
+
 EF-typeprøving er den del av framgangsmåten for samsvarsvurdering der et meldt organ undersøker skipsutstyrs tekniske konstruksjon og kontrollerer og bekrefter at skipsutstyrets tekniske konstruksjon oppfyller gjeldende krav.
 
+2\.
+
 EF-typeprøvingen kan gjennomføres på en av følgende måter:undersøkelse av et eksemplar av det fullstendige produktet som er representativt for den planlagte produksjonen (produksjonstype),vurdering av egnetheten til skipsutstyrets tekniske konstruksjon gjennom en undersøkelse av den tekniske dokumentasjonen og underlagsdokumentasjon nevnt i nr. 3, samt en undersøkelse av eksemplarer av det fullstendige produktet som er representativt for den planlagte produksjonen, av en eller flere kritiske deler av produktet (kombinasjon av produksjonstype og konstruksjonstype).
+
+3\.
 
 Produsenten skal inngi en søknad om EF-typeprøving til ett enkelt meldt organ etter eget valg.
 
 Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,den tekniske dokumentasjonen. Den tekniske dokumentasjonen skal gjøre det mulig å vurdere om skipsutstyret er i samsvar med gjeldende krav i internasjonale dokumenter som nevnt i artikkel 4, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke skipsutstyrets konstruksjon, produksjon og virkemåte. Dersom det er relevant, skal den tekniske dokumentasjonen minst inneholde følgende elementer:en generell beskrivelse av skipsutstyret,konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og skipsutstyrets virkemåte,en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,resultatene av konstruksjonsberegninger, undersøkelser osv. ogprøvingsrapporter,eksemplarer som er representative for den planlagte produksjonen. Det meldte organ kan anmode om flere eksemplarer dersom dette er nødvendig for å gjennomføre prøvingsprogrammet,underlagsdokumentasjon som viser at den tekniske løsningen er tilfredsstillende. Underlagsdokumentasjonen skal angi alle dokumenter som er anvendt. Denne underlagsdokumentasjonen skal om nødvendig omfatte resultater av prøvinger som er utført av produsentens egnede laboratorium, eller et annet prøvingslaboratorium på vegne av produsenten og på dennes ansvar.
 
+4\.
+
 Det meldte organ skal
 
 for skipsutstyret:
+
+4.1
 
 undersøke den tekniske dokumentasjonen og underlagsdokumentasjonen for å vurdere om skipsutstyrets tekniske konstruksjon er tilfredsstillende,
 
 for eksemplaret eller eksemplarene:
 
+4.2
+
 kontrollere at eksemplaret eller eksemplarene er produsert i samsvar med den tekniske dokumentasjonen, og identifisere elementer som er konstruert i henhold til gjeldende bestemmelser i relevante krav og prøvingsstandarder, samt elementer som er konstruert uten at gjeldende bestemmelser i nevnte standarder er blitt anvendt,
+
+4.3
 
 utføre egnede undersøkelser og prøvinger, eller sørge for at de blir utført i samsvar med dette direktiv,
 
+4.4
+
 avtale med produsenten hvor undersøkelsene og prøvingene skal gjennomføres.
 
+5\.
+
 Det meldte organ skal utarbeide en vurderingsrapport som beskriver virksomheten som er gjennomført i henhold til nr. 4, og resultatene av denne. Uten at det berører dets forpliktelser overfor meldermyndighetene, skal det meldte organ ikke offentliggjøre hele eller deler av innholdet i rapporten uten produsentens samtykke.
+
+6\.
 
 Når typen oppfyller kravene i de internasjonale dokumentene som gjelder det berørte skipsutstyret, skal det meldte organ utstede et EF-typeprøvingssertifikat til produsenten. Sertifikatet skal inneholde navn og adresse til produsenten, konklusjonene av undersøkelsen, eventuelle gyldighetsvilkår for det, og opplysningene som kreves for å identifisere den godkjente typen. Sertifikatet kan ha ett eller flere vedlegg.
 
@@ -222,9 +242,13 @@ Sertifikatet og dets vedlegg skal inneholde alle opplysninger som er relevante f
 
 Dersom typen ikke oppfyller gjeldende krav i de internasjonale dokumenter, skal det meldte organ avslå å utstede et EF-typeprøvingssertifikat og underrette søkeren om dette, samt gi søkeren en detaljert begrunnelse for avslaget.
 
+7\.
+
 Dersom den godkjente typen ikke lenger oppfyller gjeldende krav, skal det meldte organ avgjøre om det kreves ytterligere prøving eller en ny framgangsmåte for samsvarsvurdering.
 
 Produsenten skal underrette det meldte organ som har den tekniske dokumentasjonen for EF-typeprøvingssertifikatet om alle endringer av den godkjente typen som kan ha betydning for om skipsutstyret oppfyller kravene i internasjonale dokumenter eller gyldighetsvilkårene for sertifikatet. Slike endringer krever tilleggsgodkjenning i form av et tillegg til det opprinnelige EF-typeprøvingssertifikatet.
+
+8\.
 
 Hvert meldt organ skal underrette sine meldermyndigheter om EF-typeprøvingssertifikatene og/eller eventuelle tillegg til dem som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndighetene fortegnelser over sertifikater og/eller tillegg til dem som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
@@ -232,19 +256,33 @@ Hvert meldt organ skal underrette de andre meldte organene om EF-typeprøvingsse
 
 Kommisjonen, medlemsstatene og de andre meldte organene kan på anmodning få en kopi av EF-typeprøvingssertifikatene og/eller eventuelle tillegg til disse. På anmodning kan Kommisjonen og medlemsstatene få en kopi av den tekniske dokumentasjonen og resultatene av undersøkelsene som er gjennomført av det meldte organ. Det meldte organ skal oppbevare en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg og de tekniske dataene, herunder dokumentasjonen innsendt av produsenten, fram til utløpet av sertifikatets gyldighetsperiode.
 
+9\.
+
 Produsenten skal oppbevare en kopi av EF-typeprøvingssertifikatet med vedlegg og tillegg sammen med den tekniske dokumentasjonen og kunne stille det til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
+
+10\.
 
 Produsentens representant kan inngi søknaden nevnt i nr. 3 og oppfylle forpliktelsene i nr. 7 og 9, forutsatt at de er angitt i fullmakten.
 
 ### II. Modul D: Typesamsvar basert på kvalitetssikring av produksjonsprosessen
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produksjonsprosessen er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at det berørte skipsutstyret er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller de gjeldende krav i internasjonale dokumenter.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem for produksjon, inspeksjon av ferdige produkter og prøving av de berørte produkter som beskrevet i nr. 3. Produsenten skal være underlagt tilsynet nevnt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte skipsutstyret til et meldt organ etter eget valg.
 
 Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,dokumentasjonen for kvalitetssystemet,den tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i internasjonale dokumenter.
 
@@ -252,13 +290,19 @@ Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumentere
 
 Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,de tilsvarende metoder, prosesser og systematiske tiltak som vil bli brukt i forbindelse med produksjon, kvalitetskontroll og kvalitetssikring,undersøkelsene og prøvingene som skal utføres før, under og etter produksjonen, og hyppigheten av dem,kvalitetsregistre, som for eksempel inspeksjonsrapporter og prøvingsdata, kalibreringsdata, rapporter om det berørte personellets kvalifikasjoner osv., ogmetoder for å overvåke at den nødvendige produktkvaliteten er oppnådd, og at kvalitetssystemet virker effektivt.
 
+3.3
+
 Det meldte organ skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
 I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av revisjonsgruppens medlemmer ha erfaring i å vurdere det aktuelle skipsutstyrsområdet og den berørte skipsutstyrsteknologi og ha kunnskap om gjeldende krav i internasjonale dokumenter. Revisjonen skal omfatte et vurderingsbesøk i produsentens lokaler. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen nevnt i nr. 3.1 femte strekpunkt for å kontrollere produsentens evne til å identifisere relevante krav i internasjonale dokumenter og til å gjennomføre de nødvendige undersøkelser med sikte på å sikre at produktet er i samsvar med nevnte krav.
 
 Produsenten skal underrettes om beslutningen. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for beslutningen.
 
+3.4
+
 Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og til å opprettholde det, slik at det fortsatt fungerer hensiktsmessig og effektivt.
+
+3.5
 
 Produsenten skal holde det meldte organ som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -266,37 +310,69 @@ Det meldte organ skal vurdere alle foreslåtte endringer og avgjøre om det endr
 
 Produsenten skal underrettes om beslutningen. Underretningen skal inneholde konklusjonene av undersøkelsen og en begrunnelse for beslutningen.
 
+4.*Tilsyn under det meldte organs ansvar*
+
+4.1
+
 Formålet med tilsynet er å sikre at produsenten på en korrekt måte oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,
 
+4.3
+
 Det meldte organ skal gjennomføre periodiske revisjoner for å sikre at produsenten vedlikeholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det meldte organ kan dessuten avlegge uanmeldte besøk hos produsenten, unntatt når det i henhold til nasjonal lovgivning samt av forsvars- eller sikkerhetsgrunner gjelder visse begrensninger for slike besøk. Ved slike besøk kan det meldte organ om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det meldte organ skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
+5.*Samsvarsmerking og samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre rattmerket nevnt i artikkel 9, og under ansvar av det meldte organ nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt produkt som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale dokumenter.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille den til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid. Samsvarserklæringen skal angi hvilken skipsutstyrsmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+6\.
+
 Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert meldt organ skal underrette sine meldermyndigheter om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndighetene fortegnelser over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
 Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet, trukket tilbake eller på andre måter begrenset, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
 
+8.*Representant*
+
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### III. Modul E: Typesamsvar basert på kvalitetssikring av produkter
 
+1\.
+
 Typesamsvar basert på kvalitetssikring av produkter er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2 og 5, og sikrer og erklærer som eneansvarlig at det berørte skipsutstyret er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller de gjeldende krav i internasjonale dokumenter.
 
+2.*Produksjon*
+
 Produsenten skal anvende et godkjent kvalitetssystem for inspeksjon av ferdige produkter og prøving av de berørte produkter som beskrevet i nr. 3. Produsenten skal være underlagt tilsynet nevnt i nr. 4.
+
+3.*Kvalitetssystem*
+
+3.1
 
 Produsenten skal inngi søknad om vurdering av sitt kvalitetssystem for det berørte skipsutstyret til et meldt organ etter eget valg.
 
 Søknaden skal inneholde følgende:produsentens navn og adresse, samt representantens navn og adresse dersom søknaden inngis av representanten,en skriftlig erklæring om at samme søknad ikke er inngitt til et annet meldt organ,alle opplysninger som er relevante for den planlagte kategorien av skipsutstyr,dokumentasjon for kvalitetssystemet, ogden tekniske dokumentasjonen for den godkjente typen og en kopi av EF-typeprøvingssertifikatet.
+
+3.2
 
 Kvalitetssystemet skal sikre at produktene er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i de internasjonale dokumenter.
 
@@ -304,13 +380,19 @@ Alle elementer, krav og bestemmelser som produsenten har fulgt, skal dokumentere
 
 Den skal særlig inneholde en tilstrekkelig beskrivelse avkvalitetsmål og organisasjonsstruktur samt ledelsens ansvar og myndighet med hensyn til produktkvalitet,undersøkelsene og prøvingene som vil bli gjennomført etter produksjon,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.,tiltak for å kontrollere at kvalitetssystemet virker effektivt.
 
+3.3
+
 Det meldte organ skal vurdere kvalitetssystemet for å fastslå om det oppfyller kravene nevnt i nr. 3.2.
 
 I tillegg til å ha erfaring fra kvalitetsstyringssystemer skal minst ett av revisjonsgruppens medlemmer ha erfaring i å vurdere det aktuelle skipsutstyrsområdet og den berørte skipsutstyrsteknologi og ha kunnskap om gjeldende krav i internasjonale dokumenter. Revisjonen skal omfatte et vurderingsbesøk i produsentens lokaler. Revisjonsgruppen skal gjennomgå den tekniske dokumentasjonen nevnt i nr. 3.1 femte strekpunkt for å kontrollere produsentens evne til å identifisere relevante krav i internasjonale dokumenter og til å gjennomføre de nødvendige undersøkelser med sikte på å sikre at produktet er i samsvar med nevnte krav.
 
 Produsenten skal underrettes om beslutningen. Underretningen skal inneholde konklusjonene av revisjonen og en begrunnelse for beslutningen.
 
+3.4
+
 Produsenten skal påta seg å oppfylle forpliktelsene som følger av kvalitetssystemet slik det er godkjent, og til å opprettholde det, slik at det fortsatt fungerer hensiktsmessig og effektivt.
+
+3.5
 
 Produsenten skal holde det meldte organ som har godkjent kvalitetssystemet, underrettet om enhver planlagt endring i kvalitetssystemet.
 
@@ -318,47 +400,89 @@ Det meldte organ skal vurdere alle foreslåtte endringer og avgjøre om det endr
 
 Produsenten skal underrettes om beslutningen. Underretningen skal inneholde konklusjonene av undersøkelsen og en begrunnelse for beslutningen.
 
+4.*Tilsyn under det meldte organs ansvar*
+
+4.1
+
 Formålet med tilsynet er å sikre at produsenten på en korrekt måte oppfyller forpliktelsene som følger av det godkjente kvalitetssystemet.
+
+4.2
 
 Produsenten skal for vurderingsformål gi det meldte organ adgang til produksjons-, inspeksjons-, prøvings- og lagerlokalene og gi det alle nødvendige opplysninger, særligdokumentasjonen for kvalitetssystemet,kvalitetsregistre, for eksempel inspeksjonsrapporter, prøvings- og kalibreringsdata, rapporter om personellets kvalifikasjoner osv.
 
+4.3
+
 Det meldte organ skal gjennomføre periodiske revisjoner for å sikre at produsenten vedlikeholder og bruker kvalitetssystemet, og skal gi produsenten en revisjonsrapport.
+
+4.4
 
 Det meldte organ kan dessuten avlegge uanmeldte besøk hos produsenten, unntatt når det i henhold til nasjonal lovgivning samt av forsvars- eller sikkerhetsgrunner gjelder visse begrensninger for slike besøk. Ved slike besøk kan det meldte organ om nødvendig utføre eller få utført produktprøvinger for å kontrollere at kvalitetssystemet virker tilfredsstillende. Det meldte organ skal gi produsenten en rapport om besøket samt en prøvingsrapport dersom det har utført prøvinger.
 
+5.*Samsvarsmerking og samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre rattmerket nevnt i artikkel 9, og under ansvar av det meldte organ nevnt i nr. 3.1, sistnevntes identifikasjonsnummer på hvert enkelt produkt som er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale dokumenter.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille den til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid. Samsvarserklæringen skal angi hvilken skipsutstyrsmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+6\.
+
 Produsenten skal kunne stille følgende til rådighet for vedkommende myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid:dokumentasjonen nevnt i nr. 3.1,endringen nevnt i nr. 3.5, som godkjent,beslutningene og rapportene fra det meldte organ nevnt i nr. 3.5, 4.3 og 4.4.
+
+7\.
 
 Hvert meldt organ skal underrette sine meldermyndigheter om godkjenninger av kvalitetssystemer som det har utstedt eller trukket tilbake, og skal regelmessig eller på anmodning gjøre tilgjengelig for meldermyndighetene fortegnelser over godkjenninger av kvalitetssystemer som er avslått, midlertidig opphevet eller på andre måter begrenset.
 
 Hvert meldt organ skal underrette de andre meldte organer om godkjenninger av kvalitetssystemer det har avslått, midlertidig opphevet eller trukket tilbake, og på anmodning underrette om godkjenninger av kvalitetssystemer det har utstedt.
 
+8.*Representant*
+
 Produsentens forpliktelser angitt i nr. 3.1, 3.5, 5 og 6 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
 ### IV. Modul F: Typesamsvar basert på produktverifisering
 
+1\.
+
 Typesamsvar basert på produktverifisering er den del av framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 5.1 og 6, og sikrer og erklærer som eneansvarlig at de berørte produktene, som har vært omfattet av bestemmelsene i nr. 3, er i samsvar med typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale dokumenter.
 
+2.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at de produserte produktene er i samsvar med den godkjente typen som er beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i de internasjonale dokumenter.
+
+3.*Verifisering*
 
 Et meldt organ valgt av produsenten skal utføre hensiktsmessige undersøkelser og prøvinger, for å kontrollere om produktene er i samsvar med den godkjente typen som er beskrevet i EF-typeprøvingssertifikatet, og med gjeldende krav i de internasjonale dokumenter.
 
 Undersøkelsene og prøvingene for å kontrollere om produktene er i samsvar med gjeldende krav, skal etter produsentens valg utføres enten ved undersøkelse og prøving av hvert produkt som angitt i nr. 4, eller ved undersøkelse og prøving av produktene på statistisk grunnlag som angitt i nr. 5.
 
+4.*Samsvarskontroll basert på undersøkelse og prøving av hvert enkelt produkt*
+
+4.1
+
 Alle produktene skal undersøkes enkeltvis og prøves i samsvar med dette direktiv, for å verifisere at produktene er i samsvar med den godkjente typen som er beskrevet i EF-typeprøvingssertifikatet, og med kravene i de internasjonale dokumenter.
+
+4.2
 
 Det meldte organ skal utstede et samsvarssertifikat på grunnlag av de utførte undersøkelser og prøvinger, og skal påføre sitt identifikasjonsnummer på hvert godkjente produkt eller få det påført på sitt ansvar.
 
 Produsenten skal kunne stille samsvarssertifikatene til rådighet for nasjonale myndigheters inspeksjon i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
 
+5.*Statistisk samsvarskontroll*
+
+5.1
+
 Produsenten skal treffe alle nødvendige tiltak for å påse at produksjonsprosessen og tilsynet med den sikrer ensartethet hos hvert produserte parti, og skal framlegge sine produkter for kontroll i form av ensartede partier.
 
+5.2
+
 Det skal tas en stikkprøve fra hvert parti. Alle produktene skal undersøkes enkeltvis og prøves i samsvar med dette direktiv, for å sikre at produktene er i samsvar med gjeldende krav i de internasjonale dokumenter og for å fastslå om partiet skal godkjennes eller forkastes.
+
+5.3
 
 Dersom et parti godkjennes, skal alle produkter i partiet betraktes som godkjent, unntatt de produkter fra stikkprøven som ikke besto prøvingene.
 
@@ -366,27 +490,47 @@ Det meldte organ skal utstede et samsvarssertifikat på grunnlag av de utførte 
 
 Produsenten skal kunne stille samsvarssertifikatene til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
 
+5.4
+
 Dersom et parti blir forkastet, skal det meldte organ eller vedkommende myndighet treffe hensiktsmessige tiltak for å hindre at partiet bringes i omsetning. Dersom partier forkastes ofte, kan det meldte organ midlertidig oppheve ordningen med statistisk verifisering og treffe hensiktsmessige tiltak.
 
+6.*Samsvarsmerking og samsvarserklæring*
+
+6.1
+
 Produsenten skal påføre rattmerket nevnt i artikkel 9, og under ansvar av det meldte organ nevnt i nr. 3, sistnevntes identifikasjonsnummer på hvert enkelt produkt som er i samsvar med den godkjente typen beskrevet i EF-typeprøvingssertifikatet og oppfyller gjeldende krav i de internasjonale dokumenter.
+
+6.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring for hver produktmodell og kunne stille den til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid. Samsvarserklæringen skal angi hvilken skipsutstyrsmodell den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
 
+7\.
+
 Dersom det meldte organ godkjenner det, kan produsenten også, på organets ansvar, påføre det meldte organs identifikasjonsnummer på produktene under produksjonen.
+
+8.*Representant*
 
 Produsentens forpliktelser kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten. En representant kan ikke oppfylle produsentens forpliktelser i henhold til nr. 2 og 5.1.
 
 ### V. Modul G: Samsvar basert på verifisering av enkelteksemplarer
 
+1\.
+
 Samsvar basert på verifisering av enkelteksemplarer er den framgangsmåten for samsvarsvurdering der produsenten oppfyller forpliktelsene fastsatt i nr. 2, 3 og 5, og sikrer og erklærer som eneansvarlig at det berørte produktet, som har vært omfattet av bestemmelsene i nr. 4, er i samsvar med gjeldende krav i de internasjonale dokumenter.
+
+2.*Teknisk dokumentasjon*
 
 Produsenten skal utarbeide den tekniske dokumentasjonen og stille den til rådighet for det meldte organ nevnt i nr. 4. Dokumentasjonen skal gjøre det mulig å vurdere om produktet er i samsvar med de relevante kravene, og skal omfatte en tilfredsstillende analyse og vurdering av risiko. Den tekniske dokumentasjonen skal angi gjeldende krav og skal, i den grad det er relevant for vurderingen, dekke produktets konstruksjon, produksjon og virkemåte. Den tekniske dokumentasjonen skal, der det er relevant, minst inneholdeen generell beskrivelse av produktet,konstruksjons- og produksjonstegninger og lister over deler, delenheter, kretser osv.,beskrivelser og forklaringer som er nødvendige for å forstå tegningene og listene og produktets virkemåte,en liste over de krav og prøvingsstandarder som gjelder det berørte skipsutstyret i samsvar med dette direktiv, sammen med en beskrivelse av de løsninger som er brukt for å oppfylle kravene,resultatene av konstruksjonsberegninger, undersøkelser som er gjennomført, ogprøvingsrapporter.
 
 Produsenten skal kunne stille den tekniske dokumentasjonen til rådighet for de relevante nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
 
+3.*Produksjon*
+
 Produsenten skal treffe alle nødvendige tiltak slik at produksjonsprosessen og tilsynet med den sikrer at det produserte produktet er i samsvar med gjeldende krav i de internasjonale dokumenter.
+
+4.*Verifisering*
 
 Et meldt organ valgt av produsenten skal utføre hensiktsmessige undersøkelser og prøvinger i samsvar med dette direktiv for å kontrollere om produktet er i samsvar med gjeldende krav i de internasjonale dokumenter.
 
@@ -394,11 +538,19 @@ Det meldte organ skal utstede et samsvarssertifikat på grunnlag av de utførte 
 
 Produsenten skal kunne stille samsvarssertifikatene til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid.
 
+5.*Samsvarsmerking og samsvarserklæring*
+
+5.1
+
 Produsenten skal påføre rattmerket nevnt i artikkel 9, og under ansvar av det meldte organ nevnt i nr. 4, sistnevntes identifikasjonsnummer på hvert produkt som oppfyller gjeldende krav i de internasjonale dokumenter.
+
+5.2
 
 Produsenten skal utarbeide en skriftlig samsvarserklæring og kunne stille den til rådighet for nasjonale myndigheter i minst ti år etter at rattmerket er påført det siste produserte produktet, og under ingen omstendigheter kortere enn det berørte skipsutstyrets forventede levetid. Samsvarserklæringen skal angi hvilket produkt den er utarbeidet for.
 
 En kopi av samsvarserklæringen skal på anmodning gjøres tilgjengelig for vedkommende myndigheter.
+
+6.*Representant*
 
 Produsentens forpliktelser angitt i nr. 2 og 5 kan oppfylles av vedkommendes representant, på produsentens vegne og ansvar, forutsatt at de er angitt i fullmakten.
 
@@ -418,6 +570,8 @@ Signed for and on behalf of: . . . . . . . . . . . . . . . . . . . .
 (name, function) (signature):
 
 ## Vedlegg IV
+
+[Pdf-fil](static/SF/sf-20160830-1042-viv-01-04.pdf)
 
 > Endret ved forskrifter [13 juni 2018 nr. 859](forskrift/2018-06-13-859) (i kraft 19 juni 2018), [27 mars 2023 nr. 459](forskrift/2023-03-27-459), [29 juni 2026 nr. 1453](forskrift/2026-06-29-1453) (i kraft 1 juli 2026).
 

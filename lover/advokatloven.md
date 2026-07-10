@@ -226,6 +226,8 @@ I ansvarlige selskaper kan det avtales at selskapsdeltakerne ikke skal ha deltak
 
 (4) Andre og tredje ledd gjelder tilsvarende for advokatfullmektiger som er ansatt under en internadvokat.
 
+1 Ikke i kraft (i kraft fra den tid Kongen bestemmer).
+
 ### § 25. Organisasjonsadvokater
 
 (1) En organisasjonsadvokat er en advokat som er ansatt i en organisasjon eller annen enhet, og som yter advokatbistand til medlemmene eller andre. Organisasjonen eller enheten skal ikke ha noe økonomisk formål med advokatvirksomheten.
@@ -338,6 +340,8 @@ For hvert oppdrag skal det være en advokat som er ansvarlig for oppdraget eller
 
 (4) Departementet kan gi forskrift om behandling av klientmidler.
 
+1 Tredje ledd er ikke satt i kraft (i kraft fra den tid Kongen bestemmer).
+
 ### § 42. Regnskaps- og revisjonsplikt
 
 (1) Advokatforetak er regnskapspliktige etter [regnskapsloven](lov/1998-07-17-56) og plikter å ha revisor og sørge for at årsregnskap og årsberetning revideres i samsvar med [revisorloven](lov/2020-11-20-128).
@@ -345,6 +349,8 @@ For hvert oppdrag skal det være en advokat som er ansvarlig for oppdraget eller
 (2) Enhver advokat har ansvaret for gjennomføringen av regnskaps- og revisjonsplikten. Dette gjelder ikke internadvokater.1
 
 (3) Departementet kan gi forskrift om rapporteringsplikt, regnskapsplikt og gjennomføring av revisjon, og om fritak fra pliktene.
+
+1 Andre ledd andre punktum er ikke satt i kraft (i kraft fra den tid Kongen bestemmer).
 
 ## Kapittel 10 Advokattilsynet
 
@@ -607,6 +613,8 @@ En person som yter rettslig bistand etter [§ 66](lov/2022-05-12-28/§66), plikt
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
 > Endret ved lov [21 juni 2024 nr. 46](lov/2024-06-21-46).
+
+1 Fra 1. januar 2025 med unntak av [§ 24](lov/2022-05-12-28/§24), [§ 41 tredje ledd](lov/2022-05-12-28/§41/ledd/3) og [§ 42 andre ledd andre punktum](lov/2022-05-12-28/§42/ledd/2/setnng/2) iflg. [res. 11 okt 2024 nr. 2461](forskrift/2024-10-11-2461).
 
 ### § 73. Overgangsregler
 

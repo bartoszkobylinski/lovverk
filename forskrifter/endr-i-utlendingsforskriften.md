@@ -24,6 +24,14 @@ eu_basis: []
 
 ## I
 
+I [forskrift 15. oktober 2009 nr. 1286 om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)](forskrift/2009-10-15-1286) gjøres følgende endringer:
+
+[§ 6-25 første ledd første punktum](forskrift/2009-10-15-1286/§6-25/ledd/1/setning/1) skal lyde: – – –
+
+[§ 10-25a](forskrift/2009-10-15-1286/§10-25a) (Adgang til fortsatt opphold for en utlending som har oppholdstillatelse som au pair, jf. [§ 6-25](forskrift/2009-10-15-1286/§6-25), inntil søknad om ny tillatelse er avgjort) oppheves.
+
+[§ 17-10 første ledd bokstav a nr. 2](forskrift/2009-10-15-1286/§17-10/ledd/1/bokstav/a/nummer/2) oppheves.
+
 > Endret ved forskrift [13 mars 2024 nr. 433](forskrift/2024-03-13-433).
 
 ## II

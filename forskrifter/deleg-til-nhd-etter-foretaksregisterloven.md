@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Nærings- og handelsdepartementet etter lov om endringer i revisorloven og enkelte andre lover (unntak fra revisjonsplikt for små aksjeselskaper)
 
 Delegering av Kongens myndighet til å fastsette forskrift etter lov om endringer i revisorloven og enkelte andre lover (unntak fra revisjonsplikt for små aksjeselskaper) del VIII1 § 3-1 første ledd nr. 8 til Nærings- og handelsdepartementet.
+
+1 Del VIII endrer [lov 21. juni 1985 nr. 78](lov/1985-06-21-78) om registrering av foretak.

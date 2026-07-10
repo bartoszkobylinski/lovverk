@@ -24,21 +24,39 @@ eu_basis: []
 
 ## 1. Definisjoner og gyldighetsområde
 
+1.1*Definisjoner*
+
 I disse bestemmelser menes følgende med:
 
 *Charterflyging:* Ikke-regelbundet, ervervsmessig transport av passasjerer utført med luftfartøyer som er godkjent til befordring av flere enn 10 passasjerer, eller av frakt utført med luftfartøyer hvis høyeste tillatte startmasse overstiger 5.700 kg.
 
 *Taxiflyging:* Ikke-regelbundet, ervervsmessig transport av passasjerer utført med luftfartøyer som er godkjent til befordring av høyst 10 passasjerer, eller av frakt utført med luftfartøyer hvis høyeste tillatte startmasse ikke overstiger 5.700 kg.
 
+1.2*Gyldighetsområde*
+
+1.2.1
+
 Disse bestemmelser gjelder for charter- og taxiflyging mellom Norge og andre land, med unntak for flyginger som går inn under EØS-avtalens virkeområde, jf. [luftfartsloven § 16-1](lov/1993-06-11-101/§16-1). Flyginger som kommer inn under forordning [(EF) nr. 1008/2008](eu/32008r1008) om felles regler for drift av lufttransporttjenester i Fellesskapet reguleres derfor ikke av denne forskriften.
+
+1.2.2
 
 For charterflyging mellom Norge og USA gjelder bestemmelsene i [kapittel 6](forskrift/1999-02-05-195/kap6).
 
+1.2.3*Den multilaterale overenskomst*
+
+1.2.3.1
+
 Selskaper med lisens i stater som har tiltrådt den multilaterale overenskomst om kommersielle rettigheter for ikke-regelbundet lufttrafikk i Europa, Paris, 30. april 1956, kan utføre flyginger i overensstemmelse med det som er anført i overenskomsten, under forutsetning av at vedkommende stat gir tilsvarende rettigheter til norske luftfartsselskaper.
+
+1.2.3.2
 
 Flyging etter overenskomstens artikkel 2, [punkt](forskrift/1999-02-05-195/kap1) 1, kan utføres i overensstemmelse med disse bestemmelser uten forutgående søknad. Med unntak av taxiflyginger og transporter foretatt av humanitære årsaker eller i forbindelse med en nødsituasjon skal flygingen notifiseres til Luftfartsverket senest 48 timer før flygingen finner sted. Notifiseringen skal inneholde de opplysninger som kreves ved søknad i henhold til nærværende bestemmelser, jf. punkt 3.1.
 
+1.2.3.3
+
 Flyging etter overenskomstens artikkel 2, [punkt](forskrift/1999-02-05-195/kap2) 2, kan kun utføres etter forutgående tillatelse i overensstemmelse med de søknadsfrister og vilkår som er anført i nærværende bestemmelser, jf. punkt 3.1 og [kapittel 4](forskrift/1999-02-05-195/kap4).
+
+1.2.3.4
 
 For flyginger som faller inn under overenskomsten gjelder også de generelle bestemmelser i [kapitlene 2](forskrift/1999-02-05-195/kap2) og 7-9 så langt de passer.
 
@@ -46,39 +64,83 @@ For flyginger som faller inn under overenskomsten gjelder også de generelle bes
 
 ## 2. Generelt
 
+2.1*Tillatelser*
+
+2.1.1
+
 Charter- og taxiflyging kan kun utføres av et luftfartsselskap som er autorisert for slik virksomhet av sitt hjemlands luftfartsmyndigheter.
 
 Selskapet skal på anmodning fremlegge dokumentasjon som viser at selskapet innehar slik autorisasjon og at selskapet er kompetent til å utøve internasjonal, ervervsmessig lufttransport i overensstemmelse med regler og bestemmelser fastsatt av luftfartsselskapets hjemland, og med standarder og praksis anbefalt av ICAO i Annex 6, del I (Declaration of Competency).
+
+2.1.2
 
 Charter- og taxiflyging kan kun utføres etter særskilt tillatelse fra Luftfartsverket, med mindre annet fremgår av disse bestemmelser.
 
 Når tillatelse til å utføre flyging meddeles uten at særlige vilkår er angitt, forutsettes det at flygingen utføres i samsvar med det som fremgår av søknaden og av disse bestemmelser. Disse forutsetninger er følgelig vilkår for at flygingen lovlig kan utføres, jf. [luftfartsloven § 8-8](lov/1993-06-11-101/§8-8).
 
+2.1.3
+
 Charterflyginger til/fra Norge skal oppfylle følgende krav:Hele luftfartøyets utnyttede kapasitet skal være innleiet av en eller flere chartrere.Bestemmelsesstedet for flygingen skal være bestemt av chartreren/chartrerne.Billetter må ikke tilbys offentligheten direkte fra luftfartsselskapet eller dennes agenter.
+
+2.1.4
 
 For å få tillatelse til å utføre charterflyging mellom Norge og et annet land må luftfartsselskapet være lisensiert avnorske luftfartsmyndigheter, ellerluftfartsmyndigheten i et annet EØS-land, ellerluftfartsmyndigheten i det landet flygingen skal gå til eller fra.
 
+2.1.4.1
+
 Luftfartsverket kan allikevel i særskilte tilfeller meddele selskaper lisensiert i et tredje land tillatelse til å utføre charterflyging med passasjerer mellom Norge og et annet land.
+
+2.1.5
 
 For tillatelse til å utføre charterflyging med frakt gjelder betingelsene i [kapittel 2](forskrift/1999-02-05-195/kap2) og [4](forskrift/1999-02-05-195/kap4) i disse bestemmelser.
 
+2.1.6
+
 Tillatelse til flyging til eller fra norsk territorium kan nektes, og en allerede gitt tillatelse kan trekkes tilbake, hvis forfalte luftfartsavgifter i Norge etter luftfartslovens kapittel 7 ikke er betalt.
+
+2.1.7
 
 Bruk av visse luftfartøy eller visse flytyper kan forbys eller undergis restriksjoner i overensstemmelse med eksisterende bestemmelser.
 
+2.1.8
+
 En tillatelse kan ikke overdras. Charter- og taxiflyging kan kun utføres med vedkommende luftfartsselskaps egne luftfartøyer, med mindre annet er godkjent av Luftfartsverket. Charter- og taxiflyginger på wet-lease-basis kan kun utføres etter godkjennelse fra Luftfartsverket.
+
+2.1.9
 
 Søknad og dokumentasjon skal forelegges på et av de skandinaviske språk eller på engelsk.
 
+2.2*Eventuelle restriksjoner for utenlandske luftfartsselskaper*
+
 I særskilte tilfeller kan Luftfartsverket begrense et utenlandsk luftfartsselskaps adgang til å utføre flyginger som omfattes av disse bestemmelser. (F.eks. på grunn av manglende resiprositet, uakseptable virkninger for rutetrafikken, sikkerhetshensyn eller internasjonale forhold.)
+
+2.3*Statistikk*
 
 Luftfartsselskapet plikter å innsende til Luftfartsverket de statistiske data og informasjon om flyginger som måtte bli utbedt.
 
+2.4*Forsikring*
+
+2.4.1
+
 For luftfartøyer som brukes til charter- og taxiflyging, skal det være tegnet forsikring eller annen betryggende sikkerhet til dekning av ansvar for skade på passasjerer og reisegods eller frakt (befordringsansvaret) samt på personer og ting utenfor luftfartøyet (tredjemannsansvaret).
+
+2.4.2
 
 Passasjer- og reisegodsforsikringen skal dekke minst de beløp som er fastsatt i [luftfartslovens kap. X](lov/1993-06-11-101/kapx). For EØS- luftfartsselskaper vises det til rådsforordning [(EF) nr. 2027/97](eu/31997r2027) om luftfartsselskapers erstatningsansvar ved ulykker, jf. [luftfartsloven § 10-17a](lov/1993-06-11-101/§10-17a).
 
-Tredjemannsforsikringen skal være tegnet for minst de minimumsbeløp som fremgår av forskrift om minstestørrelsen på forsikringssummene i forbindelse med forsikringsplikten vedrørende tredjemannsansvaret, fastsatt av Samferdselsdepartementet med virkning fra 1. september 1973:Luftfartøyets maksimale startmasseSum personskadeSum tingsskade(Kg)(Kroner)(Kroner)0  –   2.0002.000.000200.0002.100  –   5.7007.000.000500.0005.701  –   30.00010.000.0001.000.00030.001 – 170.00020.000.0003.000.000170.001 – 350.00030.000.0005.000.000350.001 –50.000.00010.000.000
+2.4.3
+
+Tredjemannsforsikringen skal være tegnet for minst de minimumsbeløp som fremgår av forskrift om minstestørrelsen på forsikringssummene i forbindelse med forsikringsplikten vedrørende tredjemannsansvaret, fastsatt av Samferdselsdepartementet med virkning fra 1. september 1973:
+
+| Luftfartøyets maksimale startmasse | Sum personskade | Sum tingsskade |
+| --- | --- | --- |
+| (Kg) | (Kroner) | (Kroner) |
+| 0  –   2.000 | 2.000.000 | 200.000 |
+| 2.100  –   5.700 | 7.000.000 | 500.000 |
+| 5.701  –   30.000 | 10.000.000 | 1.000.000 |
+| 30.001 – 170.000 | 20.000.000 | 3.000.000 |
+| 170.001 – 350.000 | 30.000.000 | 5.000.000 |
+| 350.001 – | 50.000.000 | 10.000.000 |
 
 > Endret ved [forskrift 21 nov 2018 nr. 1732](forskrift/2018-11-21-1732).
 
@@ -86,58 +148,128 @@ Tredjemannsforsikringen skal være tegnet for minst de minimumsbeløp som fremg�
 
 For charterflyging mellom Norge og USA: se [kapittel 6](forskrift/1999-02-05-195/kap6).
 
+3.1*Generelt – prosedyre og søknadsfrister*
+
+3.1.1
+
 Søknad om tillatelse til å utføre charterflyging til eller fra Norge skal sendes Luftfartsverket.Postadresse: Postboks 8124 Dep, 0032 Oslo.
 Telefax nr: 22 94 23 90
 Telex nr: 71032 ENFB N
 AFTN: ENCAYAYX.
 
+3.1.2
+
 Søknaden skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Informasjon om forsikringsforhold, jf. punkt 2.4.Dato, ruteplan og rutenummer.Charterkategori.Chartrerens/chartrernes navn og adresse(r).
+
+3.1.3
 
 Luftfartsverket kan kreve ytterligere informasjon og dokumentasjon.
 
+3.1.4
+
 For seriemessig flyging (mer enn 4 flyginger innenfor 2 måneder til samme reisemål) skal søknaden være mottatt av Luftfartsverket senest 30 dager før første flyavgang.
+
+3.1.4.1
 
 For andre charterflyginger skal søknaden være mottatt av Luftfartsverket senest 48 timer forut for flyavgang. I denne tidsfristen medregnes ikke lørdager, søndager eller norske helligdager.
 
+3.2*Selskapsreiseflyging*
+
+3.2.1*Definisjon*
+
 Hele luftfartøyets utnyttede kapasitet er innleiet av en eller flere reisearrangører til befordring av passasjerer som deltar i et på forhånd fastlagt selskapsreisearrangement.
+
+3.2.2*Søknad*
 
 Søknaden skal inneholde opplysninger som dokumenterer flygingens karakter av selskapsreiseflyging.
 
+3.2.3*Vilkår*
+
+3.2.3.1
+
 En selskapsreiseflyging skal oppfylle følgende betingelser:Reisearrangementet skal omfatte transport til og fra bestemmelsesstedet og skal minst omfatte enten to netter i tillegg til reisetiden, eller natten mellom lørdag og søndag.Transport med fly kreves kun i én retning.Innkvartering skal være inkludert i hele den periode som inngår i reisearrangementet.Deltagerne i selskapsreisen skal betale for hele reisearrangementet. Tilbakebetaling for eventuelle deler av arrangementet som deltagerne frivillig ikke har benyttet, kan ikke finne sted.
+
+3.2.3.2
 
 Reisearrangementet kan forlenges etter avtale mellom en deltager i arrangementet og reisearrangøren.
 
+3.2.3.3
+
 Søkeren skal oppbevare og på forespørsel innsende til Luftfartsverket en liste over passasjerene.
+
+3.2.3.4
 
 Et luftfartsselskap som ifølge charterkontrakten skal besørge hjemreise med charterfly, er forpliktet til å besørge hjemtransport av angjeldende passasjerer, uansett brudd på charterkontrakten fra chartrerens side. Hjemtransporten skal skje til den opprinnelig avtalte lufthavn.
 
+3.2.4*Seat only*
+
 Med «seat only» menes transport på selskapsreiseflyginger av passasjerer som har en avtale med en chartrer om kun transport. Slik transport kan finne sted på følgende betingelser:Sammenlagt kan høyst 30% av luftfartøyets totale setekapasitet utnyttes for chartrerens «seat only»-passasjerer. Denne andel kan ikke akkumuleres.Befordring av «seat only»-passasjerer kan foretas både på utreise og på hjemreise i forbindelse med en selskapsreiseflyging og uten tur-returkrav.Luftfartsverket kan kreve ytterligere opplysninger om fartsselskapets «seat only»-operasjoner.Betingelsene i punkt 3.2.3.4 om luftfartsselskapets ansvar for returtransport gjelder også «seat only»-passasjerer når de har kjøpt et arrangement som omfatter tur-retur.
+
+3.3*Flyging til eget bruk*
+
+3.3.1*Definisjon*
 
 Hele luftfartøyets utnyttede kapasitet er innleiet av én chartrer (en enkeltperson, et firma, en forening eller en institusjon). Bestemmelsesstedet er bestemt av chartreren, som også bærer samtlige utgifter i forbindelse med flygingen.
 
+3.3.2*Søknad*
+
 Søknaden skal inneholde opplysninger som dokumenterer flygingens karakter av flyging til eget bruk.
+
+3.3.3*Vilkår*
+
+3.3.3.1
 
 Passasjerene skal ikke, hverken direkte eller indirekte, yte noen refusjon til chartreren for utgifter nevnt i punkt 3.3.1.
 
+3.3.3.2
+
 Flygingen må ikke, gjennom annonsering eller på annen måte, tilbys offentligheten.
+
+3.4*Flyging i forbindelse med spesielle begivenheter*
+
+3.4.1*Definisjon*
 
 Hele luftfartøyets utnyttede kapasitet er innleiet av en eller flere chartrere for befordring av passasjerer som alle skal overvære eller delta i en messe, en konferanse, en sportsbegivenhet, eller en begivenhet av religiøs, kulturell, sosial eller annen lignende karakter.
 
+3.4.2*Søknad*
+
 Søknaden skal inneholde informasjon om hva slags begivenhet det dreier seg om, dato for begivenheten og arrangementer som inngår i reisearrangementet.
+
+3.4.3*Vilkår*
+
+3.4.3.1
 
 Hver deltager skal betale for sin del av hele det på forhånd fastlagte arrangement, som minst skal omfatte flytransport til og fra bestemmelsesstedet og transport mellom flyplassen og stedet hvor begivenheten finner sted.
 
+3.4.3.2
+
 Ut- og hjemreise skal foregå i fellesskap for samtlige reisedeltagere.
+
+3.5*Foreningsflyging*
+
+3.5.1*Definisjon*
 
 Hele luftfartøyets utnyttede kapasitet er innleiet for befordring utelukkende av medlemmer av en permanent forening samt personer som tilhører deres familie. Foreningen har et annet hovedformål enn å arrangere reiser.
 
+3.5.2*Søknad*
+
 Søknaden skal inneholde informasjon om navn på den foreningen som arrangerer flygingen samt opplysninger som dokumenterer flygingens karakter av foreningsflyging.
+
+3.5.3*Vilkår*
 
 Flygingen må ikke, gjennom annonsering eller på annen måte, tilbys offentligheten.
 
+3.6*Studentflyging*
+
+3.6.1*Definisjon*
+
 Hele luftfartøyets utnyttede kapasitet er innleiet for befordring av en eller flere grupper av studenter eller skoleelever, og/eller deres lærere eller ledere, samt medlemmer av deres familie.
 
+3.6.2*Søknad*
+
 Søknaden skal inneholde opplysninger som dokumenterer flygingens karakter av studentflyging.
+
+3.6.3*Vilkår*
 
 Chartreren skal være en skole, en studentorganisasjon e.l.
 
@@ -145,43 +277,77 @@ Chartreren skal være en skole, en studentorganisasjon e.l.
 
 For charterflyging mellom Norge og USA: se [kapittel 6](forskrift/1999-02-05-195/kap6).
 
+4.1
+
 For charterflyging med frakt, inklusive frakt i forbindelse med passasjercharter, skal søknad sendes Luftfartsverket. Frakt kan medtas på godkjente passasjerflyginger uten ytterligere søknad.
+
+4.2
 
 Søknaden skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Informasjon om forsikringsforhold, jf. punkt 2.4.Dato, ruteplan og rutenummer.
 
+4.3
+
 Luftfartsverket kan kreve ytterligere informasjon og dokumentasjon.
 
+4.4
+
 Søknaden skal foreligge i Luftfartsverket senest 48 timer før flygingen skal utføres. I denne tidsfrist medregnes ikke lørdager, søndager og norske helligdager.
+
+4.5
 
 For seriemessig fraktcharter (mer enn 4 flyginger innenfor 2 måneder til samme reisemål) skal søknaden være mottatt av Luftfartsverket senest 14 dager før første avgang.
 
 ## 5. Taxiflyging
 
+5.1
+
 Taxiflyging for befordring av passasjerer kan utføres på betingelse av at bestemmelsesstedet er valgt av den eller de som har bestilt transporten, og at ingen del av luftfartøyets kapasitet videreselges til offentligheten.
 
+5.2
+
 For taxiflyging med frakt gjelder ingen særskilte vilkår.
+
+5.3
 
 Taxiflyging kan utføres uten søknad eller notifisering til Luftfartsverket.
 
 ## 6. Charterflyging mellom Norge og USA
 
+6.1
+
 Luftfartsselskaper som er utpekt (designert) til å utføre charterflyging mellom Norge og USA i henhold til gjeldende luftfartsavtale mellom de to land, kan uten å innhente forhåndstillatelse utføre charterflyging i overensstemmelse med avtalen. Derimot skal flygingen notifiseres til Luftfartsverket før den utføres.
+
+6.2
 
 Notifiseringen skal inneholde følgende opplysninger:Luftfartsselskapets navn, adresse, telefonnummer, telex- og/eller telefaxnummer, og eventuell AFTN-adresse.Luftfartøyets type og registreringsbetegnelse.Chartrerens/chartrernes navn og adresse(r).Dato, ruteplan og rutenummer.Flygingens art (passasjer- og/eller fraktcharter).Informasjon om forsikringsforhold, jf. punkt 2.4.
 
+6.3
+
 Luftfartsverket kan kreve ytterligere informasjon og dokumentasjon.
+
+6.4
 
 Passasjerer og frakt kan transporteres i samme fly og med forskjellige chartrere.
 
+6.5
+
 Anmodning om designering av luftfartsselskaper med lisens utstedt i Norge skal sendes Luftfartsverket.
 
+6.6
+
 Luftfartsverket kan i særskilte tilfeller meddele ikke-designerte selskaper tillatelse til charterflyginger. Søknad om slike flyginger skal inneholde de opplysninger som er angitt i punkt 6.2.
+
+6.7
 
 De generelle regler i [kapitlene 2](forskrift/1999-02-05-195/kap2) og 7-9 i nærværende bestemmelser gjelder så langt de passer.
 
 ## 7. Overtredelse
 
+7.1
+
 Overtredelse av vilkår for en tillatelse kan medføre at denne tilbakekalles.
+
+7.2
 
 Overtredelse av bestemmelser gitt i denne forskrift er straffbar etter [luftfartsloven § 14-29](lov/1993-06-11-101/§14-29), som lyder: «Den som overtrer forskrift gitt med hjemmel i denne lov, straffes med bøter eller med fengsel inntil 3 måneder, om ikke forholdet rammes av et annet straffebud i dette kapittel.»
 
@@ -200,3 +366,5 @@ Denne forskrift trer i kraft 1. mars 1999.
 ## 11. Opphevelse av tidligere forskrift
 
 Forskrift om bestemmelser for utførelse av charter- og taxiflyging fra og til norsk område, fastsatt av Samferdselsdepartementet 1. september 1987,1 oppheves med virkning fra 1. mars 1999.
+
+1 Ikke kunngjort i Norsk Lovtidend.

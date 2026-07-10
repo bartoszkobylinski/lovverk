@@ -24,11 +24,70 @@ eu_basis: []
 
 ## I
 
-Følgende vassdrag tas inn i Verneplan for vassdrag:*Objekt**Fylke**Vassdrag*002/29HedmarkImsa002/30Sølna002/31Tunna002/13OpplandTora002/32Glitra002/34Måråi002/35Åfåtgrovi002/14Jora012/1BuskerudNedalselva015/10VestfoldDalelva016/8TelemarkKåla016/9Rauda016/11Digeråi020/3Aust-AgderTovdalsvassdraget ovenfor Herefossfjorden022/5Vest-AgderKosåna025/1Litleåna ovenfor Eftestøl027/2RogalandBjerkreimsvassdraget–Åbødalsvassdraget059/1HordalandRylandselva060/1Loneelvi062/2Øvstedalsvassdraget063/1Hesjedalsvassdraget–Vaulo m/Langfossen og Saltåna071/2Sogn og FjordaneNærøydalselvi med unntak av sideelva Jordalselvi073/1Erdalselvi082/4Sørebøelva i Guddalsvassdraget084/1Nausta103/1Møre og RomsdalMåna121/1Sør-TrøndelagSvorka123/5Hena123/2Homla133/1Nordelva127/2Nord-TrøndelagVerdalsvassdraget128/2Jørstadelva139/7Nesåa141/1Kvistaelva142/1Kongsmoelva m/Nordfolda144/2NordlandUrdvollelva156/2Glomdalselva161/1Beiarelva162/2Lakselva (Misvær)166/1Laksåga (Rago)171/1Forsaelva175/2Østervikelva177/4Sneiselva185/3Nykvågvassdraget197/2TromsStraumselva211/3FinnmarkSør-Tverrfjordvassdraget213/2Skillefjordelva
+Følgende vassdrag tas inn i Verneplan for vassdrag:
+
+| *Objekt* | *Fylke* | *Vassdrag* |
+| --- | --- | --- |
+| 002/29 | Hedmark | Imsa |
+| 002/30 |  | Sølna |
+| 002/31 |  | Tunna |
+| 002/13 | Oppland | Tora |
+| 002/32 |  | Glitra |
+| 002/34 |  | Måråi |
+| 002/35 |  | Åfåtgrovi |
+| 002/14 |  | Jora |
+| 012/1 | Buskerud | Nedalselva |
+| 015/10 | Vestfold | Dalelva |
+| 016/8 | Telemark | Kåla |
+| 016/9 |  | Rauda |
+| 016/11 |  | Digeråi |
+| 020/3 | Aust-Agder | Tovdalsvassdraget ovenfor Herefossfjorden |
+| 022/5 | Vest-Agder | Kosåna |
+| 025/1 |  | Litleåna ovenfor Eftestøl |
+| 027/2 | Rogaland | Bjerkreimsvassdraget |
+| – |  | Åbødalsvassdraget |
+| 059/1 | Hordaland | Rylandselva |
+| 060/1 |  | Loneelvi |
+| 062/2 |  | Øvstedalsvassdraget |
+| 063/1 |  | Hesjedalsvassdraget |
+| – |  | Vaulo m/Langfossen og Saltåna |
+| 071/2 | Sogn og Fjordane | Nærøydalselvi med unntak av sideelva Jordalselvi |
+| 073/1 |  | Erdalselvi |
+| 082/4 |  | Sørebøelva i Guddalsvassdraget |
+| 084/1 |  | Nausta |
+| 103/1 | Møre og Romsdal | Måna |
+| 121/1 | Sør-Trøndelag | Svorka |
+| 123/5 |  | Hena |
+| 123/2 |  | Homla |
+| 133/1 |  | Nordelva |
+| 127/2 | Nord-Trøndelag | Verdalsvassdraget |
+| 128/2 |  | Jørstadelva |
+| 139/7 |  | Nesåa |
+| 141/1 |  | Kvistaelva |
+| 142/1 |  | Kongsmoelva m/Nordfolda |
+| 144/2 | Nordland | Urdvollelva |
+| 156/2 |  | Glomdalselva |
+| 161/1 |  | Beiarelva |
+| 162/2 |  | Lakselva (Misvær) |
+| 166/1 |  | Laksåga (Rago) |
+| 171/1 |  | Forsaelva |
+| 175/2 |  | Østervikelva |
+| 177/4 |  | Sneiselva |
+| 185/3 |  | Nykvågvassdraget |
+| 197/2 | Troms | Straumselva |
+| 211/3 | Finnmark | Sør-Tverrfjordvassdraget |
+| 213/2 |  | Skillefjordelva |
 
 ## II
 
-Vernegrensene for følgende vassdrag justeres i tråd med det som er beskrevet i [St.prp.nr.75 (2003–2004)](https://www.regjeringen.no/id/STP200320040075000DDDEPIS) og [Innst.S.nr.116 (2004–2005)](forarbeid/inns-s-116-200405):*Objekt**Fylke**Vassdrag*016/6TelemarkLifjellområdet017/1Bamble-Solum-Drangedal017/3Rørholtfjorden016/2Området mellom Seljordsvatn og Flåvatn
+Vernegrensene for følgende vassdrag justeres i tråd med det som er beskrevet i [St.prp.nr.75 (2003–2004)](https://www.regjeringen.no/id/STP200320040075000DDDEPIS) og [Innst.S.nr.116 (2004–2005)](forarbeid/inns-s-116-200405):
+
+| *Objekt* | *Fylke* | *Vassdrag* |
+| --- | --- | --- |
+| 016/6 | Telemark | Lifjellområdet |
+| 017/1 |  | Bamble-Solum-Drangedal |
+| 017/3 |  | Rørholtfjorden |
+| 016/2 |  | Området mellom Seljordsvatn og Flåvatn |
 
 ## III
 

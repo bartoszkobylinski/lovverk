@@ -486,6 +486,8 @@ Når loven trer i kraft oppheves [lov 5. juli 2002 nr. 64](lov/2002-07-05-64) om
 
 Departementet kan gi overgangsregler.
 
+1 Fra 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656).
+
 ### § 12-2. Endringer i andre lover
 
 Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –

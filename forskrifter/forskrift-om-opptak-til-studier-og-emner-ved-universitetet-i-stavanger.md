@@ -74,21 +74,21 @@ Dekanen ved det enkelte fakultet har ansvar for at slik vurdering blir foretatt.
 
 ### § 1-8. Realkompetanse
 
-1. Søkere som er 25 år eller eldre kan vurderes for opptak til et studieprogram eller emne dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjoner for vedkommende studium.
+1\. Søkere som er 25 år eller eldre kan vurderes for opptak til et studieprogram eller emne dersom de på grunnlag av realkompetanse har de nødvendige kvalifikasjoner for vedkommende studium.
 
-2. Søkerne må kunne dokumentere nødvendige kunnskaper i norsk og engelsk til vedkommende studieprogram eller emne og også ha kompetanse tilsvarende krav for opptak til vedkommende studieprogram eller emne.
+2\. Søkerne må kunne dokumentere nødvendige kunnskaper i norsk og engelsk til vedkommende studieprogram eller emne og også ha kompetanse tilsvarende krav for opptak til vedkommende studieprogram eller emne.
 
-3. Søkere skal ha minimum 5 års relevant praksis for studiet de søker opptak til. Praksis kan bestå av lønnet eller ulønnet arbeid, formell eller uformell utdanning, organisasjonsarbeid eller liknende. Alt som skal telle med i vurderingen av kompetanse må dokumenteres.
+3\. Søkere skal ha minimum 5 års relevant praksis for studiet de søker opptak til. Praksis kan bestå av lønnet eller ulønnet arbeid, formell eller uformell utdanning, organisasjonsarbeid eller liknende. Alt som skal telle med i vurderingen av kompetanse må dokumenteres.
 
-4. Denne regel gjelder ikke dersom søkeren er kvalifisert til vedkommende studieprogram eller emne etter andre regler.
+4\. Denne regel gjelder ikke dersom søkeren er kvalifisert til vedkommende studieprogram eller emne etter andre regler.
 
 > Endret ved forskrift [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-14). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
 ### § 1-9. Tidlig opptak
 
-1. Søkere til studier der opptaket er organisert gjennom Samordna opptak kan gi forhåndsløfte etter bestemmelse fastsatt av Samordna opptak.
+1\. Søkere til studier der opptaket er organisert gjennom Samordna opptak kan gi forhåndsløfte etter bestemmelse fastsatt av Samordna opptak.
 
-2. Søkere til studier med lokalt opptak til høstsemesteret kan gis tidlig opptak dersom de på søknadstidspunktet fyller opptakskravene, kan poengberegnes og har en konkurransepoengsum som ligger over medianen fra fjorårets opptak.
+2\. Søkere til studier med lokalt opptak til høstsemesteret kan gis tidlig opptak dersom de på søknadstidspunktet fyller opptakskravene, kan poengberegnes og har en konkurransepoengsum som ligger over medianen fra fjorårets opptak.
 
 > Endret ved forskrifter [27 sep 2023 nr. 1622](forskrift/2023-09-27-1622) (i kraft 1 okt 2023), [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914) (tidligere § 1-11). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -106,13 +106,13 @@ Styret kan gjøre vedtak om trekk av studium dersom det ikke er nok kvalifiserte
 
 ### § 1-12. Klage
 
-1. Enkeltvedtak som er fattet med hjemmel i denne forskriften, kan påklages, jf. [forvaltningsloven § 28](lov/1967-02-10/§28) til [§ 32](lov/1967-02-10/§32). Klagefristen er 3 uker fra den dagen resultatet av opptaket er offentliggjort, eller 3 uker etter eventuell mottatt begrunnelse.
+1\. Enkeltvedtak som er fattet med hjemmel i denne forskriften, kan påklages, jf. [forvaltningsloven § 28](lov/1967-02-10/§28) til [§ 32](lov/1967-02-10/§32). Klagefristen er 3 uker fra den dagen resultatet av opptaket er offentliggjort, eller 3 uker etter eventuell mottatt begrunnelse.
 
-2. Klage på enkeltvedtak i forbindelse med opptak organisert gjennom Samordna opptak, blir behandlet av Nasjonal klagenemnd, jf. [forskrift om opptak til høgare utdanning § 8-1](forskrift/2017-01-06-13/§8-1) til [§ 8-3](forskrift/2017-01-06-13/§8-3).
+2\. Klage på enkeltvedtak i forbindelse med opptak organisert gjennom Samordna opptak, blir behandlet av Nasjonal klagenemnd, jf. [forskrift om opptak til høgare utdanning § 8-1](forskrift/2017-01-06-13/§8-1) til [§ 8-3](forskrift/2017-01-06-13/§8-3).
 
-3. Klager som gjelder opptak etter [universitets- og høyskolelovens § 8-1](lov/2024-03-08-9/§8-1) og [§ 8-2](lov/2024-03-08-9/§8-2), blir behandlet av nemnd for studentsaker ved Universitetet i Stavanger.
+3\. Klager som gjelder opptak etter [universitets- og høyskolelovens § 8-1](lov/2024-03-08-9/§8-1) og [§ 8-2](lov/2024-03-08-9/§8-2), blir behandlet av nemnd for studentsaker ved Universitetet i Stavanger.
 
-4. Klager på enkeltvedtak i forbindelse med opptak til studium eller emner som ikke inngår i Samordna opptak, blir behandlet av Nemnd for studentsaker ved Universitetet i Stavanger, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1).
+4\. Klager på enkeltvedtak i forbindelse med opptak til studium eller emner som ikke inngår i Samordna opptak, blir behandlet av Nemnd for studentsaker ved Universitetet i Stavanger, jf. [lov om universiteter og høyskoler § 14-1](lov/2024-03-08-9/§14-1).
 
 > Endret ved forskrifter [13 nov 2024 nr. 2914](forskrift/2024-11-13-2914), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 
@@ -166,21 +166,29 @@ Følgende unntaksregel fra GSU-listen vil ikke være gjeldende:Bestått engelsk 
 
 ### § 3-3. Rangering av søkere med norsk utdanningsbakgrunn
 
-1. Søkerne rangeres på bakgrunn av vektet gjennomsnitt av samtlige eksamensresultater som utgjør opptaksgrunnlaget som beskrevet i [§ 3-1 bokstav a](forskrift/2018-10-18-1671/§3-1/bokstav/a)).
+1\. Søkerne rangeres på bakgrunn av vektet gjennomsnitt av samtlige eksamensresultater som utgjør opptaksgrunnlaget som beskrevet i [§ 3-1 bokstav a](forskrift/2018-10-18-1671/§3-1/bokstav/a)).
 
-2. For søkere med bokstav- eller tallkarakterer benyttes følgende omregningsskala:*Bokstavkarakter**Tallkarakter**Gir følgende tallverdi*A1,0–2,25B2,3–2,54C2,6–2,73D2,8–3,02E3,1–4,01
+2\. For søkere med bokstav- eller tallkarakterer benyttes følgende omregningsskala:
 
-3. For rangering av søkere med vitnemål uten tall/bokstavkarakterer regnes karakteren bestått som C = 3. Et vitnemål bestående av både karakterer og bestått/ikke bestått, vil «bestått» holdes utenfor poengberegning.
+| *Bokstavkarakter* | *Tallkarakter* | *Gir følgende tallverdi* |
+| --- | --- | --- |
+| A | 1,0–2,2 | 5 |
+| B | 2,3–2,5 | 4 |
+| C | 2,6–2,7 | 3 |
+| D | 2,8–3,0 | 2 |
+| E | 3,1–4,0 | 1 |
 
-4. Det gis 0,1 tilleggspoeng pr. 60 studiepoeng ut over opptaksgrunnlaget, maksimalt 0,2 poeng.
+3\. For rangering av søkere med vitnemål uten tall/bokstavkarakterer regnes karakteren bestått som C = 3. Et vitnemål bestående av både karakterer og bestått/ikke bestått, vil «bestått» holdes utenfor poengberegning.
 
-5. Det gis 0,1 tilleggspoeng pr. år for relevant praksis etter fullført utdanning som kvalifiserer for opptak til gjeldende studieprogram, maksimalt 0,2 poeng.
+4\. Det gis 0,1 tilleggspoeng pr. 60 studiepoeng ut over opptaksgrunnlaget, maksimalt 0,2 poeng.
 
-6. Det gis 0,1 tilleggspoeng pr. semester for gjennomført utvekslingsopphold som del av graden, maksimalt 0,2 poeng. Karakterer på emner avlagt under utvekslingsoppholdet holdes utenfor poengberegningen.
+5\. Det gis 0,1 tilleggspoeng pr. år for relevant praksis etter fullført utdanning som kvalifiserer for opptak til gjeldende studieprogram, maksimalt 0,2 poeng.
 
-7. Ved poenglikhet rangeres søkerne på bakgrunn av loddtrekning.
+6\. Det gis 0,1 tilleggspoeng pr. semester for gjennomført utvekslingsopphold som del av graden, maksimalt 0,2 poeng. Karakterer på emner avlagt under utvekslingsoppholdet holdes utenfor poengberegningen.
 
-8. Utdanningsutvalget kan fastsette egne omregningsskalaer for andre tall- eller bokstavkarakterer fra eldre utdanninger.
+7\. Ved poenglikhet rangeres søkerne på bakgrunn av loddtrekning.
+
+8\. Utdanningsutvalget kan fastsette egne omregningsskalaer for andre tall- eller bokstavkarakterer fra eldre utdanninger.
 
 > Endret ved forskrifter [2 des 2021 nr. 3551](forskrift/2021-12-02-3551), [12 nov 2025 nr. 2327](forskrift/2025-11-12-2327) (i kraft 1 jan 2026). **Endres** ved forskrift [19 mai 2026 nr. 1415](forskrift/2026-05-19-1415) (i kraft 1 okt 2026).
 

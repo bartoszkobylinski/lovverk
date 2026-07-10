@@ -49,3 +49,5 @@ Tidsfristen fastsatt i § 2 (1) gjelder også for anmodninger om tilgang til og 
 ### § 4. Ikrafttredelse
 
 Forskriften trer i kraft straks.
+
+Se her for å lese engelsk versjon av forordning [(EU) 2017/2177](eu/32017r2177): [(pdf)](static/SF/32017r2177e-01.pdf)

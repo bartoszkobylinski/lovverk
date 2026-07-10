@@ -33,3 +33,5 @@ Krav etter garantier avgitt i medhold av [§ 1](lov/2001-05-18-22/§1) kan gjør
 ## § 3.
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 18 mai 2001 iflg. [res. 18 mai 2001 nr. 515](forskrift/2001-05-18-515).

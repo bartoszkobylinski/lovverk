@@ -259,6 +259,8 @@ Inneholder en avtale som har nær tilknytning til EØS-landenes territorium, en 
 
 > Opphevet ved [lov 4 mars 1983 nr. 4](lov/1983-03-04-4), tilføyd ved [lov 6 jan 1995 nr. 1](lov/1995-01-06-1) (ikr. 1 jan 1995 med virkning for avtaler inngått etter ikrafttredelsen).
 
+1 Jf. [EØS-avtalen vedlegg XIX](avtale/avt-1992-05-02-1-v19) nr. 7a (dir [93/13](eu/31993l0013)).
+
 ### § 38
 
 Har noen på grunn av konkurransehensyn forpliktet seg til ikke å drive virksomhet av en viss art eller ta ansettelse i virksomhet av en viss art, er forpliktelsen ikke bindende i den utstrekning den urimelig innskrenker vedkommendes adgang til erverv eller må anses for å strekke seg lenger enn nødvendig for å verne mot konkurranse. Ved avgjørelsen av om forpliktelsen urimelig innskrenker adgangen til erverv, skal det også tas hensyn til den betydning det har for den annen part at forpliktelsen opprettholdes.

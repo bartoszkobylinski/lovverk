@@ -408,6 +408,12 @@ Dersom Foretaksregisteret gir feil opplysning ved utskrift, attest eller kunngj�
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 21. juni 1985 nr. 78 om registrering av foretak](lov/1985-06-21-78).
 
+1 Fra 1 jan 2026 iflg. [res. 20 juni 2025 nr. 1119](forskrift/2025-06-20-1119) med unntak av:
+[foretaksregisterloven § 5-4 andre ledd](lov/2025-06-20-106/§5-4/ledd/2),
+§ 13-3 nr. 1 – endringer i [lov 13. juni 1997 nr. 44 om aksjeselskaper § 3-8 fjerde ledd](lov/1997-06-13-44/§3-8/ledd/4) nye andre og tredje punktum, [§ 8-10 åttende ledd](lov/1997-06-13-44/§8-10/ledd/8) nye tredje og fjerde punktum og
+§ 13-3 nr. 2 – endringene i [lov 13. juni 1997 nr. 45 om allmennaksjeselskaper § 3-8 femte ledd](lov/1997-06-13-45/§3-8/ledd/5) nye andre og tredje punktum, [§ 3-14 andre ledd](lov/1997-06-13-45/§3-14/ledd/2) nye andre og tredje punktum og [§ 8-10 syvende ledd](lov/1997-06-13-45/§8-10/ledd/7) nye tredje og fjerde punktum.
+Fra 1. juli 2026 for [foretaksregisterloven § 5-4 andre ledd](lov/2025-06-20-106/§5-4/ledd/2) iflg. [29 mai 2026 nr. 921](forskrift/2026-05-29-921).
+
 ### § 13-2. Overgangsregler
 
 (1) Departementet kan gi overgangsregler.
@@ -418,12 +424,30 @@ Dersom Foretaksregisteret gir feil opplysning ved utskrift, attest eller kunngj�
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 13. juni 1997 nr. 44 om aksjeselskaper](lov/1997-06-13-44) gjøres følgende endringer:
+
+– – –
+
+[§ 3-8 fjerde ledd](lov/1997-06-13-44/§3-8/ledd/4) nye andre og tredje punktum skal lyde:
+
 Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som er avtaleparter. Erklæringen skal registreres i Foretaksregisteret.
+
+[§ 8-10 åttende ledd](lov/1997-06-13-44/§8-10/ledd/8) nye tredje og fjerde punktum skal lyde:
 
 Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som yter og mottar bistanden. Erklæringen skal registreres i Foretaksregisteret.
 
-Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som er avtaleparter. Erklæringen skal registreres i Foretaksregisteret.
+**2.** I [lov 13. juni 1997 nr. 45 om allmennaksjeselskaper](lov/1997-06-13-45) gjøres følgende endringer:
+
+[§ 3-8 femte ledd](lov/1997-06-13-45/§3-8/ledd/5) nye andre og tredje punktum skal lyde:
 
 Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som er avtaleparter. Erklæringen skal registreres i Foretaksregisteret.
+
+[§ 3-14 andre ledd](lov/1997-06-13-45/§3-14/ledd/2) nye andre og tredje punktum skal lyde:
+
+Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som er avtaleparter. Erklæringen skal registreres i Foretaksregisteret.
+
+[§ 8-10 syvende ledd](lov/1997-06-13-45/§8-10/ledd/7) nye tredje og fjerde punktum skal lyde:
 
 Det skal registreres i Foretaksregisteret at registeret har mottatt redegjørelsen, når redegjørelsen er datert, og hvem som yter og mottar bistanden. Erklæringen skal registreres i Foretaksregisteret.
+
+– – –

@@ -68,6 +68,10 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/403
 
 Forordning [(EU) 2021/403](eu/32021r0403) er konsolidert med endringer gjennomført ved forordning [(EU) 2021/619](eu/32021r0619), forordning [(EU) 2021/1329](eu/32021r1329), forordning [(EU) 2022/37](eu/32022r0037), forordning [(EU) 2022/55](eu/32022r0055) og forordning [(EU) 2022/250](eu/32022r0250).
 
+►**B** Kommisjonsforordning [(EU) 2021/403](eu/32021r0403) av 24. mars 2021
+
+som endret ved:
+
 - ►**EØS** Tilpasning som følge av [EØS-avtalen](lov/1992-11-27-109/eøsl) vedlegg 1, JCD 230/2021
 - ►**M1** Kommisjonsforordning [(EU) 2021/619](eu/32021r0619) av 15. april 2021
 - ►**M2** Kommisjonsforordning [(EU) 2021/1329](eu/32021r1329) av 10. august 2021
@@ -89,6 +93,16 @@ Forordning [(EU) 2021/403](eu/32021r0403) er konsolidert med endringer gjennomf�
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2021/403
 av 24. mars 2021
 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning (EU) 2016/429 og (EU) 2017/625 med hensyn til maler for helsesertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning mellom medlemsstatene av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse, offisiell utstedelse av slike sertifikater og oppheving av beslutning 2010/470/EU
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 146 nr. 2, artikkel 156 nr. 2 første ledd bokstav a), artikkel 162 nr. 5, artikkel 238 nr. 3 og artikkel 239 nr. 2,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001) og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007*0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008l0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)2, særlig artikkel 90 første ledd bokstav a) og c) og artikkel 126 nr. 3, og
+
+ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt regler for dyresykdommer som kan overføres til dyr eller mennesker, herunder krav til utstedelse av offisielle helsesertifikater til bruk ved ulike forflytninger av landdyr og produkter av disse. Den gir også Kommisjonen myndighet til å vedta gjennomføringsrettsakter som fastsetter regler for standardskjemaer for helsesertifikater og erklæringer, samt regler for opplysningene som skal inngå i visse dokumenter og erklæringer som kreves ved innførsel av forsendelser av dyr og avlsmateriale til Unionen. Ved nevnte forordning gis Kommisjonen også myndighet til å fastsette særlige regler for standardskjemaer for helsesertifikater, erklæringer og andre dokumenter for visse kategorier av dyr og avlsmateriale. I forordning [(EU) 2016/429](eu/32016r0429) er det også fastsatt at helsesertifikater kan inneholde andre opplysninger som kreves i samsvar med annet unionsregelverk.
 2. I samsvar med artikkel 146 nr. 2, artikkel 156 nr. 2 første ledd bokstav a) og artikkel 162 nr. 5 i forordning [(EU) 2016/429](eu/32016r0429) gis Kommisjonen ved nevnte forordning myndighet til å vedta gjennomføringsrettsakter som fastsetter regler for standardskjemaer for helsesertifikater til bruk ved forflytning av visse landdyr og avlsmateriale fra disse landdyrene til andre medlemsstater.
@@ -113,13 +127,53 @@ om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordnin
 21. Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør denne forordningen også få anvendelse fra nevnte dato.
 22. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 84 av 31.3.2016, s. 1.
+
+2 EUT L 95 av 7.4.2017, s. 1.
+
+3 Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr (EUT L 174 av 3.6.2020, s. 1).
+
+4 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 174).
+
+5 Delegert kommisjonsforordning [(EU) 2020/692](eu/32020r0692) av 30. januar 2020 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for innførsel til Unionen og forflytning og håndtering etter innførsel av forsendelser av visse dyr, avlsmateriale og produkter av animalsk opprinnelse (EUT L 174 av 3.6.2020, s. 379).
+
+6 Kommisjonens gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235) av 16. desember 2020 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) og [(EU) 2017/625](eu/32017r0625) med hensyn til maler for helsesertifikater, maler for offisielle sertifikater og maler for kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen og forflytning i Unionen av forsendelser av visse kategorier av dyr og varer, offisiell utstedelse av slike sertifikater og om oppheving av forordning [(EF) nr. 599/2004](eu/32004r0599), gjennomføringsforordning [(EU) nr. 636/2014](eu/32014r0636) og [(EU) 2019/628](eu/32019r0628), direktiv [98/68/EF](eu/31998l0068) og vedtak [2000/572/EF](eu/32000d0572), [2003/779/EF](eu/32003d0779) og [2007/240/EF](eu/32007d0240) (EUT L 442 av 30.12.2020, s. 1).
+
+7 Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen») (EUT L 261 av 14.10.2019, s. 37).
+
+8 Kommisjonsbeslutning [2010/470/EU](eu/32010d0470) av 26. august 2010 om fastsettelse av modeller for helsesertifikater til bruk ved handel innenfor Den europeiske union med sæd, egg og embryoer fra dyr av hestefamilien, sau og geit samt med egg og embryoer fra svin (EUT L 228 av 31.8.2010, s. 15).
+
+9 Rådsdirektiv [92/65/EØF](eu/31992l0065) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet (EFT L 268 av 14.9.1992, s. 54).
+
+10 Kommisjonsforordning [(EU) nr. 798/2008](eu/32008r0798) av 8. august 2008 om fastsettelse av en liste over tredjestater, territorier, soner eller områder fra hvilke fjørfe og fjørfeprodukter kan importeres til og føres i transitt gjennom Fellesskapet, og om krav til veterinærattester (EUT L 226 av 23.8.2008, s. 1).
+
+11 Kommisjonsforordning [(EU) nr. 206/2010](eu/32010r0206) av 12. mars 2010 om fastsettelse av lister over tredjestater, territorier eller deler av slike som er godkjent med hensyn til innførsel til Den europeiske union av visse dyr og ferskt kjøtt, og om krav til veterinærattest (EUT L 73 av 20.3.2010, s. 1).
+
+12 Kommisjonens gjennomføringsforordning [(EU) nr. 139/2013](eu/32013r0139) av 7. januar 2013 om fastsettelse av krav til dyrehelse ved import av visse fugler til Unionen og karantenevilkår for disse (EUT L 47 av 20.2.2013, s. 1).
+
+13 Kommisjonens gjennomføringsforordning [(EU) 2018/659](eu/32018r0659) av 12. april 2018 om vilkår for innførsel til Unionen av levende dyr av hestefamilien og sæd, egg og embryoer fra dyr av hestefamilien (EUT L 110 av 30.4.2018, s. 1).
+
+14 Kommisjonsvedtak [2006/168/EF](eu/32006d0168) av 4. januar 2006 om fastsettelse av krav til dyrehelse og utstedelse av veterinærattest ved import av storfeembryo til Fellesskapet, og om oppheving av vedtak [2005/217/EF](eu/32005d0217) (EUT L 57 av 28.2.2006, s. 19).
+
+15 Kommisjonsbeslutning [2010/472/EU](eu/32010d0472) av 26. august 2010 om import til Unionen av sæd, egg og embryoer fra sau og geit (EUT L 228 av 31.8.2010, s. 74).
+
+16 Kommisjonens gjennomføringsbeslutning [2011/630/EU](eu/32011d0630) av 20. september 2011 om import til Unionen av storfesæd (EUT L 247 av 24.9.2011, s. 32).
+
+17 Kommisjonens gjennomføringsbeslutning [2012/137/EU](eu/32012d0137) av 1. mars 2012 om import til Unionen av rånesæd (EUT L 64 av 3.3.2012, s. 29).
+
+18 Kommisjonens gjennomføringsbeslutning [(EU) 2019/294](eu/32019d0294) av 18. februar 2019 om fastsettelse av en liste over territorier og tredjeland som import til Unionen av hunder, katter og ildrer er tillatt fra, og av malen for helsesertifikat til bruk ved slik import (EUT L 48 av 20.2.2019, s. 41).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål og virkeområde
 
-1. I denne forordningen fastsettes det regler for helsesertifikater fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og kombinerte helsesertifikater/offisielle sertifikater basert på forordning [(EU) 2016/429](eu/32016r0429) og forordning [(EU) 2017/625](eu/32017r0625), og for utstedelse og erstatning av de sertifikatene som kreves ved innførsel til Unionen19 og forflytning i Unionen og mellom medlemsstater av visse forsendelser av landdyr og avlsmateriale fra disse (heretter samlet kalt «sertifikatene»).
+1\. I denne forordningen fastsettes det regler for helsesertifikater fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og kombinerte helsesertifikater/offisielle sertifikater basert på forordning [(EU) 2016/429](eu/32016r0429) og forordning [(EU) 2017/625](eu/32017r0625), og for utstedelse og erstatning av de sertifikatene som kreves ved innførsel til Unionen19 og forflytning i Unionen og mellom medlemsstater av visse forsendelser av landdyr og avlsmateriale fra disse (heretter samlet kalt «sertifikatene»).
 
-2. I denne forordningen fastsettes sertifikatmalene i form av helsesertifikater eller kombinerte helsesertifikater/offisielle sertifikatertil bruk ved forflytning mellom medlemsstater av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse (vedlegg I), ogtil bruk ved innførsel til Unionen av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse (vedlegg II).
+2\. I denne forordningen fastsettes sertifikatmalene i form av helsesertifikater eller kombinerte helsesertifikater/offisielle sertifikatertil bruk ved forflytning mellom medlemsstater av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse (vedlegg I), ogtil bruk ved innførsel til Unionen av forsendelser av visse kategorier av landdyr og avlsmateriale fra disse (vedlegg II).
 
-3. I denne forordningen fastsettes det maler for erklæringer som ledsager helsesertifikater eller kombinerte helsesertifikater/offisielle sertifikater til bruk ved forflytning i Unionen og ved innførsel til Unionen av visse kategorier av landdyr (vedlegg III).
+3\. I denne forordningen fastsettes det maler for erklæringer som ledsager helsesertifikater eller kombinerte helsesertifikater/offisielle sertifikater til bruk ved forflytning i Unionen og ved innførsel til Unionen av visse kategorier av landdyr (vedlegg III).
+
+19 I samsvar med avtalen om Det forente kongerike Storbritannia og Nord-Irlands utmelding av Den europeiske union og Det europeiske atomenergifellesskap, særlig artikkel 5 nr. 4 i protokollen om Irland/Nord-Irland sammenholdt med protokollens vedlegg 2, omfatter henvisninger til «Unionen» i denne forordningen Det forente kongerike med hensyn til Nord-Irland.
 
 ### Artikkel 2. Definisjoner
 
@@ -127,31 +181,31 @@ I denne forordningen menes med«registrert anlegg for avlsmateriale» et anlegg 
 
 ### Artikkel 3. Utfylling av helsesertifikater og kombinerte helsesertifikater/offisielle sertifikater for forsendelser av landdyr og avlsmateriale fra disse
 
-1. Sertifikater til bruk ved forflytning mellom medlemsstater av forsendelser av landdyr og avlsmateriale fra disse fastsatt i vedlegg I til denne forordningen skal behørig fylles ut og undertegnes av en offentlig veterinær i samsvar med de forklarende merknadene i kapittel 2 i vedlegg I til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235).
+1\. Sertifikater til bruk ved forflytning mellom medlemsstater av forsendelser av landdyr og avlsmateriale fra disse fastsatt i vedlegg I til denne forordningen skal behørig fylles ut og undertegnes av en offentlig veterinær i samsvar med de forklarende merknadene i kapittel 2 i vedlegg I til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235).
 
-2. Sertifikater til bruk ved innførsel til Unionen av forsendelser av landdyr og avlsmateriale fra disse fastsatt i vedlegg II til denne forordningen skal behørig fylles ut og undertegnes av en offentlig veterinær i samsvar med de forklarende merknadene i kapittel 4 i vedlegg I til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235).
+2\. Sertifikater til bruk ved innførsel til Unionen av forsendelser av landdyr og avlsmateriale fra disse fastsatt i vedlegg II til denne forordningen skal behørig fylles ut og undertegnes av en offentlig veterinær i samsvar med de forklarende merknadene i kapittel 4 i vedlegg I til gjennomføringsforordning [(EU) 2020/2235](eu/32020r2235).
 
-3. Driftsansvarlige som er ansvarlige for forsendelsene nevnt i nr. 1 og 2, skal gi vedkommende myndighet opplysninger om disse forsendelsene som beskrevet i del I i sertifikatmalene fastsatt i henholdsvis vedlegg I og II.
+3\. Driftsansvarlige som er ansvarlige for forsendelsene nevnt i nr. 1 og 2, skal gi vedkommende myndighet opplysninger om disse forsendelsene som beskrevet i del I i sertifikatmalene fastsatt i henholdsvis vedlegg I og II.
 
 ### Artikkel 4. Krav til sertifikater for landdyr og avlsmateriale
 
-1. Den offentlige veterinæren skal fylle ut sertifikatene for forsendelser av landdyr og avlsmateriale i samsvar med følgende krav:Sertifikatet skal være påført underskriften til den offentlige veterinæren og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.Dersom sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.Sertifikatet skal bestå av ett av følgende:Ett enkelt papirark.Flere ark som utgjør et integrert hele og ikke kan deles opp.Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom sertifikatet består av flere sammenhengende sider som nevnt i bokstav c) punkt iii) i dette nummeret, skal hver side være påført den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625), underskriften til den offentlige veterinæren og det offisielle stempelet.Når det gjelder sertifikater til bruk ved forflytning av forsendelser mellom medlemsstater, skal sertifikatet ledsage forsendelsen til den ankommer bestemmelsesstedet i Unionen.Når det gjelder sertifikater til bruk ved innførsel av forsendelser til Unionen, skal sertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.Sertifikatet skal utstedes før forsendelsen det gjelder, forlater kontrollen til vedkommende myndighet som utsteder sertifikatet.Når det gjelder sertifikater til bruk ved innførsel til Unionen, skal sertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
+1\. Den offentlige veterinæren skal fylle ut sertifikatene for forsendelser av landdyr og avlsmateriale i samsvar med følgende krav:Sertifikatet skal være påført underskriften til den offentlige veterinæren og det offisielle stempelet. Underskriften og stempelet, unntatt pregestempler og vannmerker, skal være i en annen farge enn den trykte teksten.Dersom sertifikatet inneholder flere eller alternative erklæringer, skal erklæringer som ikke er relevante, strykes, paraferes og stemples av den offentlige veterinæren, eller slettes helt fra sertifikatet.Sertifikatet skal bestå av ett av følgende:Ett enkelt papirark.Flere ark som utgjør et integrert hele og ikke kan deles opp.Flere sammenhengende sider der hver side er nummerert slik at det framgår at hver side er en bestemt side i en avgrenset rekkefølge.Dersom sertifikatet består av flere sammenhengende sider som nevnt i bokstav c) punkt iii) i dette nummeret, skal hver side være påført den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625), underskriften til den offentlige veterinæren og det offisielle stempelet.Når det gjelder sertifikater til bruk ved forflytning av forsendelser mellom medlemsstater, skal sertifikatet ledsage forsendelsen til den ankommer bestemmelsesstedet i Unionen.Når det gjelder sertifikater til bruk ved innførsel av forsendelser til Unionen, skal sertifikatet framlegges for vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen der forsendelsen gjennomgår offentlig kontroll.Sertifikatet skal utstedes før forsendelsen det gjelder, forlater kontrollen til vedkommende myndighet som utsteder sertifikatet.Når det gjelder sertifikater til bruk ved innførsel til Unionen, skal sertifikatet utarbeides på det offisielle språket eller på et av de offisielle språkene i medlemsstaten der grensekontrollstasjonen for innførsel til Unionen ligger.
 
-2. Som unntak fra nr. 1 bokstav h) kan en medlemsstat samtykke i at sertifikater utarbeides på et annet offisielt språk i Unionen, eventuelt vedlagt en bekreftet oversettelse.
+2\. Som unntak fra nr. 1 bokstav h) kan en medlemsstat samtykke i at sertifikater utarbeides på et annet offisielt språk i Unionen, eventuelt vedlagt en bekreftet oversettelse.
 
-3. Nr. 1 bokstav a)–e) får ikke anvendelse på elektroniske sertifikater som utstedes i samsvar med kravene i artikkel 39 nr. 1 i gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715).
+3\. Nr. 1 bokstav a)–e) får ikke anvendelse på elektroniske sertifikater som utstedes i samsvar med kravene i artikkel 39 nr. 1 i gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715).
 
-4. Nr. 1 bokstav b), c) og d) får ikke anvendelse på sertifikater som utstedes på papir og fylles ut i og skrives ut fra TRACES.
+4\. Nr. 1 bokstav b), c) og d) får ikke anvendelse på sertifikater som utstedes på papir og fylles ut i og skrives ut fra TRACES.
 
 ### Artikkel 5. Erstatning av sertifikater for landdyr og avlsmateriale
 
-1. Vedkommende myndigheter skal utstede erstatningssertifikater for forsendelser av landdyr og avlsmateriale bare i tilfelle av administrative feil i det opprinnelige sertifikatet, eller dersom det opprinnelige sertifikatet er skadet eller har gått tapt.
+1\. Vedkommende myndigheter skal utstede erstatningssertifikater for forsendelser av landdyr og avlsmateriale bare i tilfelle av administrative feil i det opprinnelige sertifikatet, eller dersom det opprinnelige sertifikatet er skadet eller har gått tapt.
 
-2. Vedkommende myndighet skal i erstatningssertifikatet ikke endre opplysningene i det opprinnelige sertifikatet med hensyn til identifikasjon og sporbarhet av forsendelsen og garantier som er gitt for forsendelsen i det opprinnelige sertifikatet.
+2\. Vedkommende myndighet skal i erstatningssertifikatet ikke endre opplysningene i det opprinnelige sertifikatet med hensyn til identifikasjon og sporbarhet av forsendelsen og garantier som er gitt for forsendelsen i det opprinnelige sertifikatet.
 
-3. I erstatningssertifikatet skal vedkommende myndighettydelig vise til den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625) og utstedelsesdatoen til det opprinnelige sertifikatet og tydelig angi at det erstatter det opprinnelige sertifikatet,angi et nytt sertifikatnummer som skiller seg fra nummeret til det opprinnelige sertifikatet,angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige sertifikatet,framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningssertifikat som sendes inn via TRACES.
+3\. I erstatningssertifikatet skal vedkommende myndighettydelig vise til den entydige koden nevnt i artikkel 89 nr. 1 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625) og utstedelsesdatoen til det opprinnelige sertifikatet og tydelig angi at det erstatter det opprinnelige sertifikatet,angi et nytt sertifikatnummer som skiller seg fra nummeret til det opprinnelige sertifikatet,angi datoen det ble utstedt i stedet for utstedelsesdatoen for det opprinnelige sertifikatet,framlegge et originaldokument utstedt på papir, unntatt dersom det dreier seg om et elektronisk erstatningssertifikat som sendes inn via TRACES.
 
-4. Ved innførsel av forsendelser til Unionen kan vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen avstå fra å be den driftsansvarlige som er ansvarlig for forsendelsen, om å framlegge et erstatningssertifikat dersom opplysninger om mottakeren, importøren, grensekontrollstasjonen for innførsel til Unionen eller transportmiddelet endres etter at sertifikatet er utstedt, og den driftsansvarlige som er ansvarlig for forsendelsen, framlegger de nye opplysningene.
+4\. Ved innførsel av forsendelser til Unionen kan vedkommende myndighet på grensekontrollstasjonen for innførsel til Unionen avstå fra å be den driftsansvarlige som er ansvarlig for forsendelsen, om å framlegge et erstatningssertifikat dersom opplysninger om mottakeren, importøren, grensekontrollstasjonen for innførsel til Unionen eller transportmiddelet endres etter at sertifikatet er utstedt, og den driftsansvarlige som er ansvarlig for forsendelsen, framlegger de nye opplysningene.
 
 ### Artikkel 6. Maler for helsesertifikater til bruk ved forflytning mellom medlemsstater av visse kategorier av hov- og klovdyr
 
@@ -161,9 +215,13 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forfl
 
 Helsesertifikatene og de kombinerte helsesertifikatene/offisielle sertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning mellom medlemsstater av visse kategorier av fugler og avlsmateriale fra disse, skal være i samsvar med en av følgende maler, avhengig av hvilke kategorier av fugler og avlsmateriale det gjelder:POU-INTRA-HEP, utarbeidet i samsvar med malen i kapittel 15 i vedlegg I, for rugeegg fra fjørfe.POU-INTRA-DOC, utarbeidet i samsvar med malen i kapittel 16 i vedlegg I, for daggamle kyllinger.POU-INTRA-X, utarbeidet i samsvar med malen i kapittel 17 i vedlegg I, for avlsfjørfe eller produksjonsfjørfe.POU-INTRA-LT20, utarbeidet i samsvar med malen i kapittel 18 i vedlegg I, for færre enn 20 dyr av annet fjørfe enn strutsefugler eller færre enn 20 rugeegg fra annet fjørfe enn strutsefugler.POU-INTRA-Y, utarbeidet i samsvar med malen i kapittel 19 i vedlegg I, for fjørfe som er beregnet på slakting.POU-INTRA-SPF, utarbeidet i samsvar med malen i kapittel 20 i vedlegg I, for egg som er fri for spesifiserte sykdomsframkallende mikroorganismer.CAPTIVE-BIRDS-INTRA, utarbeidet i samsvar med malen i kapittel 21 i vedlegg I, for fugler i fangenskap.►**M10**CAPTIVE-BIRDS-EXHIBITION-INTRA, utarbeidet i samsvar med malen i kapittel 21a i vedlegg I, for fugler i fangenskap som kommer fra utstillinger.◄**M10**HE-CAPTIVE-BIRDS-INTRA, utarbeidet i samsvar med malen i kapittel 22 i vedlegg I, for rugeegg fra fugler i fangenskap.
 
+►**M10**
+
 ### Artikkel 8. Maler for helsesertifikater til bruk ved forflytning mellom medlemsstater av visse typer avlsmateriale fra storfe
 
 Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning mellom medlemsstater av visse typer avlsmateriale fra storfe, skal være i samsvar med en av følgende maler, avhengig av hvilken type avlsmateriale det gjelder:BOV-SEM-A-INTRA, utarbeidet i samsvar med malen i kapittel 23 i vedlegg I, for forsendelser av storfesæd som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den sædstasjonen der sæden er innsamlet.BOV-SEM-B-INTRA, utarbeidet i samsvar med malen i kapittel 24 i vedlegg I, for forsendelser av lagre med storfesæd som er innsamlet, bearbeidet og lagret etter 31. desember 2004 og før 21. april 2021 i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407)20, endret ved rådsdirektiv [2003/43/EF](eu/32003l0043)21, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.BOV-SEM-C-INTRA, utarbeidet i samsvar med malen i kapittel 25 i vedlegg I, for forsendelser av lagre med storfesæd som er innsamlet, bearbeidet og lagret før 1. januar 2005 i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407), endret ved rådsdirektiv [93/60/EØF](eu/31993l0060)21a, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.BOV-OOCYTES-EMB-A-INTRA, utarbeidet i samsvar med malen i kapittel 26 i vedlegg I, for forsendelser av oocytter og embryoer fra storfe som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.BOV-EMB-B-INTRA, utarbeidet i samsvar med malen i kapittel 27 i vedlegg I, for forsendelser av lagre med storfeembryoer som er tatt ut eller produsert, bearbeidet og lagret før 21. april 2021 i samsvar med rådsdirektiv [89/556/EØF](eu/31989l0556)22, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte embryoene.BOV-GP-PROCESSING-INTRA, utarbeidet i samsvar med malen i kapittel 28 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra bearbeidingsanlegget for avlsmateriale:Storfesæd som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med storfesæd som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407), endret ved rådsdirektiv [2003/43/EF](eu/32003l0043), etter 31. desember 2004 og før 21. april 2021.Lagre med storfesæd som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407), endret ved rådsdirektiv [93/60/EØF](eu/31993l0060), før 1. januar 2005.Oocytter og embryoer fra storfe som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med storfeembryoer som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [89/556/EØF](eu/31989l0556) før 21. april 2021.BOV-GP-STORAGE-INTRA, utarbeidet i samsvar med malen i kapittel 29 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra lageret for avlsmateriale:Storfesæd som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med storfesæd som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407), endret ved rådsdirektiv [2003/43/EF](eu/32003l0043), etter 31. desember 2004 og før 21. april 2021.Lagre med storfesæd som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [88/407/EØF](eu/31988l0407), endret ved rådsdirektiv [93/60/EØF](eu/31993l0060), før 1. januar 2005.Oocytter og embryoer fra storfe som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med storfeembryoer som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [89/556/EØF](eu/31989l0556) før 21. april 2021.
+
+20 Rådsdirektiv [88/407/EØF](eu/31988l0407) av 14. juni 1988 om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik sæd (EFT L 194 av 22.7.1988, s. 10).21 Rådsdirektiv [2003/43/EF](eu/32003l0043) av 26. mai 2003 om endring av direktiv [88/407/EØF](eu/31988l0407) om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik sæd (EUT L 143 av 11.6.2003, s. 23).21a Rådsdirektiv [93/60/EØF](eu/31993l0060) av 30. juni 1993 om endring av direktiv [88/407/EØF](eu/31988l0407) om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik dypfryst sæd og utvidelse til å også dekke fersk sæd av storfe (EUT L 186 av 28.7.1993, s. 28).22 Rådsdirektiv [89/556/EØF](eu/31989l0556) av 25. september 1989 om krav til dyrehelse ved handel med embryoer fra storfe innenfor Fellesskapet og innførsel av slike embryoer fra tredjestater (EFT L 302 av 19.10.1989, s. 1).
 
 ### Artikkel 9. Maler for helsesertifikater til bruk ved forflytning mellom medlemsstater av visse typer avlsmateriale fra sau og geit
 
@@ -173,9 +231,13 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forfl
 
 Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning mellom medlemsstater av visse typer avlsmateriale fra svin, skal være i samsvar med en av følgende maler, avhengig av hvilken type avlsmateriale det gjelder:POR-SEM-A-INTRA, utarbeidet i samsvar med malen i kapittel 38 i vedlegg I, for forsendelser av sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den sædstasjonen der sæden er innsamlet.POR-SEM-B-INTRA, utarbeidet i samsvar med malen i kapittel 39 i vedlegg I, for forsendelser av lagre med sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med direktiv [90/429/EØF](eu/31990l0429)23 før 21. april 2021, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.POR-OOCYTES-EMB-A-INTRA, utarbeidet i samsvar med malen i kapittel 40 i vedlegg I, for forsendelser av oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.POR-OOCYTES-EMB-B-INTRA, utarbeidet i samsvar med malen i kapittel 41 i vedlegg I, for forsendelser av lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 21. april 2021, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.POR-OOCYTES-EMB-C-INTRA, utarbeidet i samsvar med malen i kapittel 42 i vedlegg I, for forsendelser av lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.POR-GP-PROCESSING-INTRA, utarbeidet i samsvar med malen i kapittel 43 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra bearbeidingsanlegget for avlsmateriale:Sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [90/429/EØF](eu/31990l0429) før 21. april 2021.Oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 21. april 2021.Lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.POR-GP-STORAGE-INTRA, utarbeidet i samsvar med malen i kapittel 44 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra lageret for avlsmateriale:Sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med sæd fra svin som er innsamlet, bearbeidet og lagret i samsvar med rådsdirektiv [90/429/EØF](eu/31990l0429) før 21. april 2021.Oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 21. april 2021.Lagre med oocytter og embryoer fra svin som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.
 
+23 Rådsdirektiv [90/429/EØF](eu/31990l0429) av 26. juni 1990 om fastsettelse av krav til dyrehelse ved handel med rånesæd innenfor Fellesskapet og innførsel av rånesæd (EFT L 224 av 18.8.1990, s. 62).
+
 ### Artikkel 11. Maler for helsesertifikater til bruk ved forflytning mellom medlemsstater av visse typer avlsmateriale fra hestedyr
 
 Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forflytning mellom medlemsstater av visse typer avlsmateriale fra hestedyr, skal være i samsvar med en av følgende maler, avhengig av hvilken type avlsmateriale det gjelder:EQUI-SEM-A-INTRA, utarbeidet i samsvar med malen i kapittel 45 i vedlegg I, for forsendelser av sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den sædstasjonen der sæden er innsamlet.EQUI-SEM-B-INTRA, utarbeidet i samsvar med malen i kapittel 46 i vedlegg I, for forsendelser av lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.EQUI-SEM-C-INTRA, utarbeidet i samsvar med malen i kapittel 47 i vedlegg I, for forsendelser av lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.EQUI-SEM-D-INTRA, utarbeidet i samsvar med malen i kapittel 48 i vedlegg I, for forsendelser av lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010, og som etter 20. april 2021 er sendt fra den sædstasjonen der sæden er innsamlet.EQUI-OOCYTES-EMB-A-INTRA, utarbeidet i samsvar med malen i kapittel 49 i vedlegg I, for forsendelser av oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021, og som er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.EQUI-OOCYTES-EMB-B-INTRA, utarbeidet i samsvar med malen i kapittel 50 i vedlegg I, for forsendelser av lagre med oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.EQUI-OOCYTES-EMB-C-INTRA, utarbeidet i samsvar med malen i kapittel 51 i vedlegg I, for forsendelser av lagre med oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.EQUI-OOCYTES-EMB-D-INTRA, utarbeidet i samsvar med malen i kapittel 52 i vedlegg I, for forsendelser av lagre med oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010, og som etter 20. april 2021 er sendt fra den embryouttaksgruppen eller embryoproduksjonsgruppen som tok ut eller produserte oocyttene eller embryoene.EQUI-GP-PROCESSING-INTRA, utarbeidet i samsvar med malen i kapittel 53 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra bearbeidingsanlegget for avlsmateriale:Sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.Oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021.Lagre med oocytter og embryoer fra hestedyr som er tatt ut, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014.Lagre med oocytter og embryoer fra hestedyr som er tatt ut, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.EQUI-GP-STORAGE-INTRA, utarbeidet i samsvar med malen i kapittel 54 i vedlegg I, for forsendelser av avlsmateriale som er oppført nedenfor, og som etter 20. april 2021 er sendt fra bearbeidingsanlegget for avlsmateriale:Sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014.Lagre med sæd fra hestedyr som er innsamlet, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.Oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686) etter 20. april 2021.Lagre med oocytter og embryoer fra hestedyr som er tatt ut eller produsert, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 30. september 2014 og før 21. april 2021.Lagre med oocytter og embryoer fra hestedyr som er tatt ut, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) etter 31. august 2010 og før 1. oktober 2014.Lagre med oocytter og embryoer fra hestedyr som er tatt ut, bearbeidet og lagret i samsvar med direktiv [92/65/EØF](eu/31992l0065) før 1. september 2010.
+
+◄**M10**
 
 ### Artikkel 12. Maler for helsesertifikater til bruk ved forflytning mellom medlemsstater av visse kategorier av bier
 
@@ -184,6 +246,8 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) som skal brukes ved forfl
 ### Artikkel 13. Maler for helsesertifikater og erklæringer til bruk ved forflytning mellom medlemsstater av visse kategorier av landdyr og visse typer avlsmateriale
 
 Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav a) og erklæringene nevnt i artikkel 1 nr. 3 som skal brukes ved forflytning mellom medlemsstater av visse kategorier av landdyr og visse typer avlsmateriale fra disse, skal være i samsvar med en av følgende maler, avhengig av hvilken art og hvilke kategorier avlsmateriale det gjelder:CONFINED-LIVE-INTRA, utarbeidet i samsvar med malen i kapittel 58 i vedlegg I, for landdyr som flyttes mellom lukkede anlegg.CONFINED-PRIMATE-INTRA, utarbeidet i samsvar med malen i kapittel 59 i vedlegg I, for primater som flyttes til et lukket anlegg.GP-CONFINED-INTRA, utarbeidet i samsvar med malen i kapittel 60 i vedlegg I, for forsendelser av sæd, oocytter og embryoer fra landdyr som holdes i lukkede anlegg, som er innsamlet/tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686).CANIS-FELIS-FERRETS-INTRA, utarbeidet i samsvar med malen i kapittel 61 i vedlegg I, for hunder, katter og ildrer.►**M10**«opphevet»◄**M10**OTHCARN-INTRA, utarbeidet i samsvar med malen i kapittel 63 i vedlegg I, for andre kjøttetere.WILD-ANIMALS-INTRA, utarbeidet i samsvar med malen i kapittel 64 i vedlegg I, for viltlevende landdyr.GP-CAM-CER-INTRA, utarbeidet i samsvar med malen i kapittel 65 i vedlegg I, for forsendelser av sæd, oocytter og embryoer fra dyr av familiene Camelidae og Cervidae som er innsamlet/tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/686](eu/32020r0686).
+
+►**M8**
 
 ### Artikkel 14. Maler for helsesertifikater og kombinerte helsesertifikater/offisielle sertifikater til bruk ved innførsel til Unionen av visse kategorier av hov- og klovdyr
 
@@ -201,6 +265,8 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innf�
 
 Helsesertifikatene og de kombinerte helsesertifikatene/offisielle sertifikatene nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innførsel til Unionen av visse kategorier av fugler og avlsmateriale fra disse, skal være i samsvar med en av følgende maler, avhengig av hvilke kategorier av fugler og avlsmateriale det gjelder:BPP, utarbeidet i samsvar med malen i kapittel 22 i vedlegg II, for annet avlsfjørfe enn strutsefugler og annet produksjonsfjørfe enn strutsefugler.BPR, utarbeidet i samsvar med malen i kapittel 23 i vedlegg II, for avlsdyr av strutsefugler eller produksjonsdyr av strutsefugler.DOC, utarbeidet i samsvar med malen i kapittel 24 i vedlegg II, for andre daggamle kyllinger enn kyllinger av strutsefugler.DOR, utarbeidet i samsvar med malen i kapittel 25 i vedlegg II, for daggamle kyllinger av strutsefugler.HEP, utarbeidet i samsvar med malen i kapittel 26 i vedlegg II, for rugeegg fra annet fjørfe enn strutsefugler.HER, utarbeidet i samsvar med malen i kapittel 27 i vedlegg II, for rugeegg fra strutsefugler.SPF, utarbeidet i samsvar med malen i kapittel 28 i vedlegg II, for egg som er fri for spesifiserte sykdomsframkallende mikroorganismer.SP, utarbeidet i samsvar med malen i kapittel 29 i vedlegg II, for annet fjørfe beregnet på slakting enn strutsefugler.SR, utarbeidet i samsvar med malen i kapittel 30 i vedlegg II, for strutsefugler som er beregnet på slakting.POU-LT20, utarbeidet i samsvar med malen i kapittel 31 i vedlegg II, for færre enn 20 dyr av annet fjørfe enn strutsefugler.HE-LT20, utarbeidet i samsvar med malen i kapittel 32 i vedlegg II, for færre enn 20 rugeegg fra annet fjørfe enn strutsefugler.CAPTIVE-BIRDS, other than racing pigeons, utarbeidet i samsvar med malen i kapittel 33i vedlegg II, for fugler i fangenskap, med unntak for brevduer som slippes løs med gang etter innførsel til Unionen.RACING PIGEONS-IMMEDIATE RELEASE, utarbeidet i samsvar med kapittel 34 i vedlegg II, for brevduer som slippes løs med gang etter innførsel til Unionen.HE-CAPTIVE-BIRDS, utarbeidet i samsvar med malen i kapittel 35 i vedlegg II, for rugeegg fra fugler i fangenskap.
 
+◄**M8**
+
 ### Artikkel 18. Maler for helsesertifikater til bruk ved innførsel til Unionen av visse kategorier av bier
 
 Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innførsel til Unionen av visse kategorier av bier, skal være i samsvar med en av følgende maler, avhengig av hvilken art det gjelder:QUE, utarbeidet i samsvar med malen i kapittel 36 i vedlegg II, for honningbidronninger.BBEE, utarbeidet i samsvar med malen i kapittel 37 i vedlegg II, for humler.
@@ -208,6 +274,8 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innf�
 ### Artikkel 19. Mal for helsesertifikat til bruk ved innførsel til Unionen av hunder, katter og ildrer
 
 Helsesertifikatet nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innførsel til Unionen av hunder, katter og ildrer, skal være i samsvar med malen CANIS-FELIS-FERRETS utarbeidet i samsvar med malen i kapittel 38 i vedlegg II.
+
+►**M8**
 
 ### Artikkel 20. Maler for helsesertifikater til bruk ved innførsel til Unionen av visse typer avlsmateriale fra storfe
 
@@ -229,41 +297,53 @@ Helsesertifikatene nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innf�
 
 Helsesertifikatet nevnt i artikkel 1 nr. 2 bokstav b) som skal brukes ved innførsel til Unionen av forsendelser av sæd, oocytter og embryoer fra landdyr som holdes i lukkede anlegg som er innsamlet/tatt ut eller produsert, bearbeidet og lagret i samsvar med forordning [(EU) 2016/429](eu/32016r0429) og delegert forordning [(EU) 2020/692](eu/32020r0692), skal være i samsvar med malen GP-CONFINED-ENTRY utarbeidet i samsvar med malen i kapittel 68 i vedlegg II.
 
+◄**M8**
+
 ### Artikkel 25. Maler for offisielle erklæringer til bruk ved innførsel til Unionen av visse kategorier av landdyr
 
-1. Erklæringen nevnt i artikkel 1 nr. 3 som skal brukes ved transport av landdyr som innføres til Unionen via sjøveien, skal være i samsvar med malen for tilføyelsen AT-TERRE-SEA utarbeidet i samsvar med malen i kapittel 1 i vedlegg III og skal fylles ut av skipsføreren.
+1\. Erklæringen nevnt i artikkel 1 nr. 3 som skal brukes ved transport av landdyr som innføres til Unionen via sjøveien, skal være i samsvar med malen for tilføyelsen AT-TERRE-SEA utarbeidet i samsvar med malen i kapittel 1 i vedlegg III og skal fylles ut av skipsføreren.
 
-2. Erklæringen nevnt i artikkel 1 nr. 3 som skal brukes ved omlasting av hestedyr for å oppfylle kravene fastsatt i artikkel 9 nr. 2 og artikkel 10 nr. 2 i gjennomføringsforordning (EU) [2018/659](eu/32018r0659), skal være i samsvar med malen EQUI-TRANS utarbeidet i samsvar med malen i kapittel 2 i vedlegg III til denne forordningen.
+2\. Erklæringen nevnt i artikkel 1 nr. 3 som skal brukes ved omlasting av hestedyr for å oppfylle kravene fastsatt i artikkel 9 nr. 2 og artikkel 10 nr. 2 i gjennomføringsforordning (EU) [2018/659](eu/32018r0659), skal være i samsvar med malen EQUI-TRANS utarbeidet i samsvar med malen i kapittel 2 i vedlegg III til denne forordningen.
 
-3. Erklæringene nevnt i nr. 1 og 2 skal vedlegges de relevante helsesertifikatene eller kombinerte helsesertifikatene/offisielle sertifikatene.
+3\. Erklæringene nevnt i nr. 1 og 2 skal vedlegges de relevante helsesertifikatene eller kombinerte helsesertifikatene/offisielle sertifikatene.
 
 ### Artikkel 26. Opphevinger
 
-1. Beslutning [2010/470/EU](eu/32010d0470) oppheves med virkning fra 21. april 2021.
+1\. Beslutning [2010/470/EU](eu/32010d0470) oppheves med virkning fra 21. april 2021.
 
-2. Henvisninger til nevnte beslutning skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg IV.
+2\. Henvisninger til nevnte beslutning skal forstås som henvisninger til denne forordningen og leses som angitt i sammenligningstabellen i vedlegg IV.
 
 ### Artikkel 27. Overgangsbestemmelser
 
-1. Forsendelser av landdyr og avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i forordning [(EF) nr. 798/2008](eu/32008r0798) og [(EU) nr. 206/2010](eu/32010r0206), gjennomføringsforordning [(EU) nr. 139/2013](eu/32013r0139) og [(EU) 2018/659](eu/32018r0659), vedtak [2006/168/EF](eu/32006d0168) og beslutning [2010/472/EU](eu/32010d0472), samt i samsvar med gjennomføringsbeslutning [2011/630/EU](eu/32011d0630), [2012/137/EU](eu/32012d0137) og [(EU) 2019/294](eu/32019d0294), skal godkjennes for innførsel til Unionen fram til 15. mars 2022, forutsatt at sertifikatet er underskrevet av personen som har fullmakt til å underskrive sertifikatet i samsvar med nevnte forordninger, gjennomføringsforordninger, vedtak, beslutninger og gjennomføringsbeslutninger, før 15. januar 2022.
+►**M2**
 
-2. Forsendelser av visse kategorier av hov og klovdyr som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i rådsdirektiv [64/432/EØF](eu/31964l0432)24, [91/68/EØF](eu/31991l0068)25, direktiv [92/65/EØF](eu/31992l0065) og rådsdirektiv [2009/156/EF](eu/32009l0156)26 skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+1\. Forsendelser av landdyr og avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i forordning [(EF) nr. 798/2008](eu/32008r0798) og [(EU) nr. 206/2010](eu/32010r0206), gjennomføringsforordning [(EU) nr. 139/2013](eu/32013r0139) og [(EU) 2018/659](eu/32018r0659), vedtak [2006/168/EF](eu/32006d0168) og beslutning [2010/472/EU](eu/32010d0472), samt i samsvar med gjennomføringsbeslutning [2011/630/EU](eu/32011d0630), [2012/137/EU](eu/32012d0137) og [(EU) 2019/294](eu/32019d0294), skal godkjennes for innførsel til Unionen fram til 15. mars 2022, forutsatt at sertifikatet er underskrevet av personen som har fullmakt til å underskrive sertifikatet i samsvar med nevnte forordninger, gjennomføringsforordninger, vedtak, beslutninger og gjennomføringsbeslutninger, før 15. januar 2022.
 
-3. Forsendelser av visse kategorier av fugler og avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i rådsdirektiv [2009/158/EF](eu/32009l0158)27, skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+◄**M2**
 
-4. Forsendelser av visse typer avlsmateriale fra storfe som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i direktiv [88/407/EØF](eu/31988l0407) og [89/556/EØF](eu/31989l0556), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+►**M1**
 
-5. Forsendelser av visse typer avlsmateriale fra sauer og geiter som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+2\. Forsendelser av visse kategorier av hov og klovdyr som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i rådsdirektiv [64/432/EØF](eu/31964l0432)24, [91/68/EØF](eu/31991l0068)25, direktiv [92/65/EØF](eu/31992l0065) og rådsdirektiv [2009/156/EF](eu/32009l0156)26 skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
 
-6. Forsendelser av visse typer avlsmateriale fra svin som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [90/429/EØF](eu/31990l0429) og beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+3\. Forsendelser av visse kategorier av fugler og avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i rådsdirektiv [2009/158/EF](eu/32009l0158)27, skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
 
-7. Forsendelser av visse typer avlsmateriale fra dyr av hestefamilien som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+4\. Forsendelser av visse typer avlsmateriale fra storfe som følges av det relevante sertifikatet utstedt i samsvar med malene som er fastsatt i direktiv [88/407/EØF](eu/31988l0407) og [89/556/EØF](eu/31989l0556), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
 
-8. Forsendelser av visse kategorier av bier som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [92/65/EØF](eu/31992l0065), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+5\. Forsendelser av visse typer avlsmateriale fra sauer og geiter som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
 
-9. Forsendelser av visse kategorier av landdyr og visse typer avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [92/65/EØF](eu/31992l0065), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+6\. Forsendelser av visse typer avlsmateriale fra svin som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [90/429/EØF](eu/31990l0429) og beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
 
-10. Henvisninger til bestemmelser i opphevede rettsakter i sertifikatene skal forstås som henvisninger til tilsvarende erstatningsbestemmelser og leses som angitt i sammenligningstabellene der det er relevant.
+7\. Forsendelser av visse typer avlsmateriale fra dyr av hestefamilien som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i beslutning [2010/470/EU](eu/32010d0470), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+
+8\. Forsendelser av visse kategorier av bier som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [92/65/EØF](eu/31992l0065), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+
+9\. Forsendelser av visse kategorier av landdyr og visse typer avlsmateriale fra disse som følges av det relevante sertifikatet utstedt i samsvar med malen som er fastsatt i direktiv [92/65/EØF](eu/31992l0065), skal godkjennes for forflytning mellom medlemsstatene fram til 17. oktober 2021.
+
+10\. Henvisninger til bestemmelser i opphevede rettsakter i sertifikatene skal forstås som henvisninger til tilsvarende erstatningsbestemmelser og leses som angitt i sammenligningstabellene der det er relevant.
+
+24 Rådsdirektiv [64/432/EØF](eu/31964l0432) av 26. juni 1964 om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet (EFT 121 av 29.7.1964, s. 1977).25 Rådsdirektiv [91/68/EØF](eu/31991l0068) av 28. januar 1991 om krav til dyrehelse ved handel med sau og geit innenfor Fellesskapet (EFT L 46 av 19.2.1991, s. 19).26 Rådsdirektiv [2009/156/EF](eu/32009l0156) av 30. november 2009 om krav til dyrehelse ved forflytning av dyr av hestefamilien og import av slike dyr fra tredjestater (EUT L 192 av 23.7.2010, s. 1).27 Rådsdirektiv [2009/158/EF](eu/32009l0158) av 30. november 2009 om krav til dyrehelse for handel innenfor Fellesskapet med og import fra tredjestater av fjørfe og rugeegg (EUT L 343 av 22.12.2009, s. 74).
+
+◄**M1**
 
 ### Artikkel 28. Ikrafttredelse og anvendelse
 
@@ -275,7 +355,13 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 Utferdiget i Brussel 24. mars 2021.
 
-For KommisjonenUrsula VON DER LEYENPresident
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Ursula VON DER LEYEN |
+|  |  |
+|  | President |
 
 For å lese vedleggene til rettsakten se PDF-filene nedenfor.
 
@@ -287,38 +373,78 @@ Nedenfor gjengis forordning [(EU) 2021/403](eu/32021r0403), forordning [(EU) 202
 
 ### Forordning (EU) 2021/403
 
+For å lese forordning [(EU) 2021/403](eu/32021r0403), med sertifikatene i vedleggene, se her: [pdf-fil](static/SF/32021r0403u-01.pdf)
+
 ### Forordning (EU) 2022/37
+
+For å lese forordning [(EU) 2022/37](eu/32022r0037) (dansk utgave), med oppdaterte helsesertifikater i vedlegg I og II knyttet til fugler og egg, se her: [pdf-fil](static/SF/32022r0037d-01.pdf)
 
 ### Forordning (EU) 2022/55
 
+For å lese forordning [(EU) 2022/55](eu/32022r0055) (dansk utgave), med oppdaterte sertifikater i vedlegg II knyttet til forflytning av hovdyr ved arrangementer og garantier, se her: [pdf-fil](static/SF/32022r0055d-01.pdf)
+
 ### Forordning (EU) 2022/250
+
+For å lese forordning [(EU) 2022/250](eu/32022r0250) (dansk utgave), med nytt helsesertifikat for sau/geiter fra Storbritannia til Nord-Irland, se her: [pdf-fil](static/SF/32022r0250d-01.pdf)
 
 ### Forordning (EU) 2022/497
 
+For å lese forordning [(EU) 2022/497](eu/32022r0497) (dansk utgave), med oppdaterte helsesertifikater til vedlegg I og II og overgangsordning, se her: [pdf-fil](static/SF/32022r0497d-01.pdf)
+
 ### Forordning (EU) 2023/308
 
+For å lese forordning [(EU) 2023/308](eu/32023r0308), med endringen til vedlegg I kap. 11 og 12, se her: [pdf-fil](static/SF/32023r0308d-01.pdf)
+
 ### Forordning (EU) 2024/351
+
+For å lese forordning [(EU) 2024/351](eu/32024r0351) (dansk utgave), med endringene til helsesertifikatene i vedlegg II og vedlegg III, og gir en overgangsordning, se her: [pdf-fil](static/SF/32024r0351d-01.pdf)
+
+►**C3**
+
+Korrigering av forordning [(EU) 2024/351](eu/32024r0351) (dansk utgave), med endring av vedlegg III kap. 2, se her: [pdf-fil](static/SF/32024r0351d-corr.pdf)
+
+◄**C3**
 
 > Endret ved forskrift [1 aug 2025 nr. 1583](forskrift/2025-08-01-1583).
 
 ### Forordning (EU) 2024/399
 
+For å lese forordning [(EU) 2024/399](eu/32024r0399) (dansk utgave), med endringene til vedlegg II kap. 1, 2, 4, 5, 7, 8, 12, 13, 14, 22, 23, 29, 30 og 31, og gir en overgangsordning, se her: [pdf-fil](static/SF/32024r0399d-01.pdf)
+
 ### Forordning (EU) 2024/1044
+
+For å lese forordning [(EU) 2024/1044](eu/32024r1044) (dansk utgave), med endringene til vedlegg I kap. 1, 5, 6, 7, 8, 9, 11, 13, 15, 23, 26, 30, 33, 38, 40, 45, 49, 50, 51 og 62, se her: [pdf-fil](static/SF/32024r1044d-01.pdf)
+
+►**C4**
+
+Korrigering av forordning [(EU) 2024/1044](eu/32024r1044) (dansk utgave), med endring av vedlegg I, del I, kap. 24, se her:
 
 - [pdf-fil](static/SF/32024r1044d-corr.pdf)
 
+◄**C4**
+
 ### Forordning [(EU) 2025/243](eu/32025r0243) m/korrigering
+
+For å lese forordning [(EU) 2025/243](eu/32025r0243) (dansk utgave), med endringene til vedlegg I kap. 1, 5, 9, 11, 13, 30 og 33, se her: [pdf-fil](static/SF/32025r0243d-01.pdf)
+
+Korrigering av forordning [(EU) 2025/243](eu/32025r0243) (dansk utgave), med endring av vedlegg I kap. 1, se her: [pdf-fil](static/SF/32025r0243d-corr.pdf)
 
 > Tilføyd ved forskrift [30 april 2025 nr. 723](forskrift/2025-04-30-723).
 
 ### Forordning [(EU) 2025/544](eu/32025r0544)
 
+For å lese forordning [(EU) 2025/544](eu/32025r0544) (dansk utgave), med endringene til vedlegg II kap. 1, 2, 4, 5, 7, 8, 12, 13, 14, 18, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 48 og 50, se her: [pdf-fil](static/SF/32025r0544d-01.pdf)
+
 > Tilføyd ved forskrift [30 april 2025 nr. 724](forskrift/2025-04-30-724) (i kraft 12 mai 2025).
 
 ### Forordning [(EU) 2025/2615](eu/32025r2615)
 
+For å lese forordning [(EU) 2025/2615](eu/32025r2615) (dansk utgave), med endringen til vedlegg II kap. 16, se her: [pdf-fil](static/SF/32025r2615d-01.pdf)
+
 > Tilføyd ved forskrift [8 jan 2026 nr. 21](forskrift/2026-01-08-21).
 
 ### Forordning [(EU) 2026/318](eu/32026r0318)
+
+For å lese forordning [(EU) 2026/318](eu/32026r0318), med endringene i vedlegg II, se her: [Pdf-fil](static/SF/32026r0318d-01.pdf).
 
 > Tilføyd ved forskrift [9 mars 2026 nr. 395](forskrift/2026-03-09-395) (i kraft 12 mars 2026).

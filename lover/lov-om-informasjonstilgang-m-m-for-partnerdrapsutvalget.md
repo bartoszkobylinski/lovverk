@@ -53,3 +53,5 @@ Opplysninger som er mottatt i medhold av [§ 3](lov/2019-11-29-75/§3), kan ikke
 ## § 8. Ikrafttredelse mv.
 
 Loven trer i kraft straks. [§§ 2](lov/2019-11-29-75/§2), [3](lov/2019-11-29-75/§3) og [5](lov/2019-11-29-75/§5) oppheves når utvalget har levert sin utredning.1
+
+1 Utvalgets utredning ble levert 15. desember 2020 iflg. [NOU 2020:17](forarbeid/nou-2020-17).

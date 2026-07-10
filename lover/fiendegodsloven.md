@@ -44,6 +44,8 @@ Fiendegodset blir styrt av Direktoratet for fiendegods1 under leiing av ein dire
 
 Utgiftene med verksemda blir tekne av dei verde som direktoratet styrer med.
 
+1 Inkurie: Direktoratet for fiendegods er lagt ned.
+
 ## § 4.
 
 Alle som skuldar pengar eller andre ytingar til fienden eller som eig, sit inne med, forvarar, råder over eller har tilsyn med fiendegods, pliktar å melda dette til Direktoratet for fiendegods på den måten og innan den frist som direktoratet fastset. Det same gjeld alle som styrer eller er med i styringa av norske selskap eller andre føretak som fienden har part i. Direktoratet kan med ålmenne reglar eller serleg føresegn gjera unnatak frå meldeplikta.
@@ -109,3 +111,5 @@ Kongen fastset kva dag denne lova skal ta til å gjelda.
 Kongen eller den han gjev fullmakt, fastset i kor stor mon lova skal gjelda på Svalbard.
 
 Lov om fiendegods o.a. frå [22. mars 1946](lov/1946-03-22-4)1 skal framleis gjelda for gods som kjem inn under lova.
+
+1 Inkurie: Lova er «nr. 4».

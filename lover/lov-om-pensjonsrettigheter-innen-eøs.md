@@ -45,6 +45,8 @@ En person hjemmehørende i annen EØS-stat som arbeider i Norge og som er omfatt
 
 > Endret ved [lov 13 des 2019 nr. 79](lov/2019-12-13-79) (ikr. 1 jan 2020 iflg. [res. 13 des 2019 nr. 1778](forskrift/2019-12-13-1778)).
 
+1 Inkurie: Forordning [(EØF) 1408/71](eu/31971r1408) er nå erstattet av forordning [(EF) 883/2004](eu/32004r0883).
+
 ## § 5. Likebehandling vedrørende vern av opptjente pensjonsrettigheter
 
 Supplerende pensjonsordninger skal være basert på avtaler som sikrer opptjente pensjonsrettigheter for personer som fratrer pensjonsordningen, uavhengig av om arbeidstaker som fratrer forblir i Norge eller flytter til en annen stat innen EØS. Det samme gjelder overfor ektefelle, registrert partner, samboer eller barn med rettigheter i pensjonsordningene.
@@ -72,3 +74,5 @@ Departementet kan i forskrift gi nærmere regler om tilbakebetaling av pensjonsi
 ## § 9. Ikrafttredelse. Overgangsbestemmelser
 
 Loven trer i kraft fra den tid Kongen fastsetter.1 Kongen kan gi overgangsbestemmelser.
+
+1 Fra 1 mars 2002 iflg. [vedtak 19 des 2001 nr. 1466](forskrift/2001-12-19-1466).

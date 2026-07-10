@@ -38,96 +38,18 @@ Denne forskriften omfatter personer som er medlem i trygden etter [folketrygdlov
 2. For sjømenn som er ansatt på norsk skip i utenriksfart som er registrert i det ordinære norske skipsregisteret, med unntak av personer som er ansatt i tjeneste hos utenlandsk arbeidsgiver som driver næringsvirksomhet ombord, og er medlem i trygden etter [folketrygdloven § 2-6](lov/1997-02-28-19/§2-6), betaler arbeidsgiveren en fast sats på kr 596 per måned uten hensyn til antall tjenestedager i måneden.
 3. Medlem i trygden etter [folketrygdloven § 2-7](lov/1997-02-28-19/§2-7), [§ 2-7 a](lov/1997-02-28-19/§2-7a) eller [§ 2-8](lov/1997-02-28-19/§2-8) betaler trygdeavgift for de rettigheter medlemskapet omfatter.
 
-Avgiften som innbetales til trygdemyndighetene fastsettes til følgende prosentsatser:Ulike typetilfellerAvgiftsgrunnlagEtter [§ 2](forskrift/2025-12-19-2784/§2) a)
-Sykestønad mv.Etter [§ 2](forskrift/2025-12-19-2784/§2) b)
-Pensjon mv.Uten syke­pengerTillegg for syke­pengerTillegg for begrenset rett til sykepenger*Uten yrkes­skade­trygdTillegg for yrkes­skade­trygd12a2b34Medlemmet er ikke skattepliktig i Norge**Arbeidsgiver plikter
-ikke å betale arbeids-
-giveravgift
+Avgiften som innbetales til trygdemyndighetene fastsettes til følgende prosentsatser:
 
-Arbeidsgiver plikter
-å betale arbeidsgiver-
-avgift9,1
+| Ulike typetilfeller |  | Avgiftsgrunnlag |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Etter [§ 2](forskrift/2025-12-19-2784/§2) a)<br>Sykestønad mv. |  |  | Etter [§ 2](forskrift/2025-12-19-2784/§2) b)<br>Pensjon mv. |  |  |  |
+| Uten syke­penger | Tillegg for syke­penger | Tillegg for begrenset rett til sykepenger\* | Uten yrkes­skade­trygd | Tillegg for yrkes­skade­trygd |  |  |
+| 1 | 2a | 2b | 3 | 4 |  |  |
+| Medlemmet er ikke skattepliktig i Norge\*\* | Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeidsgiver-<br>avgift | 9,1<br><br><br><br>6,8 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 26,3<br><br><br><br>19,4 | 0,2<br><br><br><br>0,0 |
+| Medlemmet<br>er skattepliktig i Norge | ORDINÆR TRYGDEAVGIFT<br>BETALES IKKE SAMMEN<br>MED SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter<br>å betale arbeids-<br>giveravgift | 7,4<br><br><br><br>5,1 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 9,4<br><br><br><br>2,5 | 0,2<br><br><br><br>0,0 |
+| ORDINÆR TRYGDEAVGIFT<br>BETALES SAMMEN MED<br>SKATTEN TIL SKATTEMYNDIGHETENE<br><br>Arbeidsgiver plikter<br>ikke å betale arbeids-<br>giveravgift<br><br>Arbeidsgiver plikter å<br>betale arbeidsgiver-<br>avgift | 2,3<br><br><br><br>0,0 | 4,7<br><br><br><br>0,0 | 2,3<br><br><br><br>0,0 | 6,9<br><br><br><br>0,0 | 0,2<br><br><br><br>0,0 |  |
 
-
-
-6,84,7
-
-
-
-0,02,3
-
-
-
-0,026,3
-
-
-
-19,40,2
-
-
-
-0,0Medlemmet
-er skattepliktig i NorgeORDINÆR TRYGDEAVGIFT
-BETALES IKKE SAMMEN
-MED SKATTEN TIL SKATTEMYNDIGHETENE
-
-Arbeidsgiver plikter
-ikke å betale arbeids-
-giveravgift
-
-Arbeidsgiver plikter
-å betale arbeids-
-giveravgift7,4
-
-
-
-5,14,7
-
-
-
-0,02,3
-
-
-
-0,09,4
-
-
-
-2,50,2
-
-
-
-0,0ORDINÆR TRYGDEAVGIFT
-BETALES SAMMEN MED
-SKATTEN TIL SKATTEMYNDIGHETENE
-
-Arbeidsgiver plikter
-ikke å betale arbeids-
-giveravgift
-
-Arbeidsgiver plikter å
-betale arbeidsgiver-
-avgift2,3
-
-
-
-0,04,7
-
-
-
-0,02,3
-
-
-
-0,06,9
-
-
-
-0,00,2
-
-
-
-0,0
+\* Gjelder for begrenset rett til sykepenger mv. i utlandet etter [folketrygdloven § 8-9 annet ledd](lov/1997-02-28-19/§8-9/ledd/2).\*\* Omfatter også personer som ikke skattelignes i Norge etter bestemmelse i en skatteavtale.
 
 ## § 4. Ikrafttredelse
 

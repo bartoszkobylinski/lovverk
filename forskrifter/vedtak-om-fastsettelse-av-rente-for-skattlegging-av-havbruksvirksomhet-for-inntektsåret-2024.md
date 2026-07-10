@@ -22,4 +22,4 @@ eu_basis: []
 
 # Vedtak om fastsettelse av rente for skattlegging av havbruksvirksomhet for inntektsåret 2024
 
-1. Rentesats for fremføring av negativ grunnrente etter [skatteloven § 19-7 annet ledd annet punktum](lov/1999-03-26-14/§19-7/ledd/2/setning/2) settes til 3,4 prosent, jf. [forskrift til skatteloven (FSFIN) § 19-7-1](forskrift/1999-11-19-1158/§19-7-1).
+1\. Rentesats for fremføring av negativ grunnrente etter [skatteloven § 19-7 annet ledd annet punktum](lov/1999-03-26-14/§19-7/ledd/2/setning/2) settes til 3,4 prosent, jf. [forskrift til skatteloven (FSFIN) § 19-7-1](forskrift/1999-11-19-1158/§19-7-1).

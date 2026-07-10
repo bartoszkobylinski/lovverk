@@ -132,6 +132,10 @@ Departementet kan ved forskrift eller i det enkelte tilfelle fastsette at bestem
 
 I denne resolusjon betyr:
 
+*Departementet:* Energidepartementet.
+
+*Petroleum:* Alle flytende eller gassformige hydrokarboner som utvinnes fra grunnen under havbunnen, samt andre stoffer som utvinnes i forbindelse med slike hydrokarboner.
+
 > Endret ved forskrift [18 des 2023 nr. 2278](forskrift/2023-12-18-2278) (i kraft 1 jan 2024).
 
 ### § 14

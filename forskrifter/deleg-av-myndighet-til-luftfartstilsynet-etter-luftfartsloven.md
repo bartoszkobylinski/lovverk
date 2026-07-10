@@ -26,7 +26,11 @@ eu_basis: []
 
 Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) om luftfart (luftfartsloven) til Luftfartstilsynet for så vidt gjelder:
 
+*Kapittel IV Luftdyktighet og miljødyktighet*
+
 - § 4-11 Alkoholpåvirkning mv.
+
+*Kapittel IX Bestemmelser om lufttrafikk m.m.*
 
 - § 9-1a Restriksjonsområder
 

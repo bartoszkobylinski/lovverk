@@ -54,7 +54,25 @@ Reglene i dette kapittelet gjelder for forsikringsselskaper som er deltakere i N
 
 Forsikringsselskaper skal utlevere personopplysninger og andre opplysninger om natur- og vannskader til Direktoratet for samfunnssikkerhet og beredskap. Plikten til å utlevere opplysninger om natur- og vannskader gjelder skader som rapporteres til Norsk Naturskadepool, øvrige værrelaterte vannskader, og avbruddstap knyttet til disse. Plikten til å utlevere opplysninger gjelder kun for forsikringsprodukter som det kreves naturskadepremie for.
 
-Forsikringsselskapene skal utlevere opplysninger om natur- og vannskader til Direktoratet for samfunnssikkerhet og beredskap i samsvar med denne tabellen:*Krav til opplysning:**Krav til format:**Beskrivelse av krav:*1.Skadenummer eller annen entydig identifikator for skadenTekstUnik verdi for den enkelte skade2.Dato for skadenåååå.mm.dd3.Kommunenummer skadested (på skadetidspunktet)4 sifferFor eksempel 03014.Gateadresse skadested (på skadetidspunktet)TekstGatenavn og nummer (Veien 4B)5.Postnummer skadested (på skadetidspunktet)TekstFor eksempel 00106.Poststed skadested (på skadetidspunktet)TekstFor eksempel Oslo7.Lengdegrad skadestedTekstPosisjoner skal være angitt i desimale grader(DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 10.1234)8.Breddegrad skadestedTekstPosisjoner skal være angitt i desimale grader (DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 60.1234)9.Erstatningsbeløp – anslått erstatningHele tall i kronerAnslått skadekostnad fratrukket antatt egenandel10.ForsikringsproduktTekst. Felles kategorierDet skal oppgis én kategori for alle skader som rapporteres11.SkadetypeTekst. Felles kategorierDet skal oppgis én kategori for alle skader som rapporteres12.Årsak til skaden (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres13.Beskrivelse av skaden (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres14.Beskrivelse av skadestedet (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres15.HendelsestypeTekst. Felles kategorierDet skal oppgis én kategori for alle naturskader og avbruddstap, boutgifter o.l. knyttet til naturskader som rapporteres
+Forsikringsselskapene skal utlevere opplysninger om natur- og vannskader til Direktoratet for samfunnssikkerhet og beredskap i samsvar med denne tabellen:
+
+|  | *Krav til opplysning:* | *Krav til format:* | *Beskrivelse av krav:* |
+| --- | --- | --- | --- |
+| 1. | Skadenummer eller annen entydig identifikator for skaden | Tekst | Unik verdi for den enkelte skade |
+| 2. | Dato for skaden | åååå.mm.dd |  |
+| 3. | Kommunenummer skadested (på skadetidspunktet) | 4 siffer | For eksempel 0301 |
+| 4. | Gateadresse skadested (på skadetidspunktet) | Tekst | Gatenavn og nummer (Veien 4B) |
+| 5. | Postnummer skadested (på skadetidspunktet) | Tekst | For eksempel 0010 |
+| 6. | Poststed skadested (på skadetidspunktet) | Tekst | For eksempel Oslo |
+| 7. | Lengdegrad skadested | Tekst | Posisjoner skal være angitt i desimale grader(DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 10.1234) |
+| 8. | Breddegrad skadested | Tekst | Posisjoner skal være angitt i desimale grader (DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 60.1234) |
+| 9. | Erstatningsbeløp – anslått erstatning | Hele tall i kroner | Anslått skadekostnad fratrukket antatt egenandel |
+| 10. | Forsikringsprodukt | Tekst. Felles kategorier | Det skal oppgis én kategori for alle skader som rapporteres |
+| 11. | Skadetype | Tekst. Felles kategorier | Det skal oppgis én kategori for alle skader som rapporteres |
+| 12. | Årsak til skaden (Vannskader) | Tekst. Felles kategorier | Det skal oppgis én kategori for alle vannskader som rapporteres |
+| 13. | Beskrivelse av skaden (Vannskader) | Tekst. Felles kategorier | Det skal oppgis én kategori for alle vannskader som rapporteres |
+| 14. | Beskrivelse av skadestedet (Vannskader) | Tekst. Felles kategorier | Det skal oppgis én kategori for alle vannskader som rapporteres |
+| 15. | Hendelsestype | Tekst. Felles kategorier | Det skal oppgis én kategori for alle naturskader og avbruddstap, boutgifter o.l. knyttet til naturskader som rapporteres |
 
 ### § 6. Forsikringsselskapenes databehandler
 

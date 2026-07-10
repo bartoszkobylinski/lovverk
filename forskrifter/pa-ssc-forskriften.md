@@ -42,6 +42,12 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar fo
 
 Fra samme tidspunkt oppheves [forskrift 7. desember 2007 nr. 1392 om gjennomføring av forordning (EF) nr. 653/2007 av 13. juni 2007 om bruken av et felles europeisk format for sikkerhetssertifikater og søknadsdokumenter i samsvar med artikkel 10 i europaparlaments- og rådsdirektiv 2004/49/EF](forskrift/2007-12-07-1392) og om gyldigheten av sikkerhetssertifikater utstedt i henhold til direktiv [2001/14/EF](eu/32001l0014).
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 794](forskrift/2022-05-06-794).
+
 ## Forordninger
 
 Forordningene er gyldige på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning [(EU) 2018/763](eu/32018r0763) se her: [(pdf)](static/SF/32018r0763e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2020/777](eu/32020r0777) se her: [(pdf)](static/SF/32020r0777e-01.pdf)

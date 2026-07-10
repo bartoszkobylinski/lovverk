@@ -160,11 +160,47 @@ Forskriften trer i kraft 15. september 2014. Fra samme tidspunkt oppheves [forsk
 
 ### Stuingsplaner for ADR-transportenheter med pakket farlig last i klasse 1 etter IMDG og ADR/RID (eksplosive stoffer og gjenstander) for roro-skip med fastmonterte skumslukkeanlegg
 
+*Krav til stuing som følger av [§ 10](forskrift/2014-07-01-944/§10)*
+
+| *Klasseinndeling etter IMDG/ADR/RID* | *a)* | *b)* | *c)* | *d)* |
+| --- | --- | --- | --- | --- |
+|  | *Passasjerskip med åpent roro-dekk* | *Passasjerskip med lukket roro-dekk* | *Passasjerskip med åpent roro-dekk som fører inntil 12 passasjerer* | *Passasjerskip med lukket roro-dekk som fører inntil 12 passasjerer* |
+| 1.1A,<br>1.1B, 1.2B, 1.4B,<br>1.1F, 1.2F, 1.4F | Ikke tillatt | Ikke tillatt | Tillatt | Tillatt når stueområdet ut mot skipssiden ikke brukes |
+| 1.1C, 1.2C, 1.3C,<br>1.4C, 1.1D, 1.2D, 1.4D,<br>1.5D,<br>1.1E, 1.2E, 1.4E,<br>1.1G, 1.2G, 1.3G,<br>1.4G,<br>1.6N | Ikke tillatt | Ikke tillatt | Tillatt | Tillatt |
+| 1.2H, 1.3H,<br>1.1J, 1.2J, 1.3J | Ikke tillatt | Ikke tillatt | Tillatt når nettomengden av eksplosiver om bord på skipet ikke overstiger 2,5 tonn | Tillatt når nettomengden av eksplosiver om bord på skipet ikke overstiger 2,5 tonn |
+| 1.1L, 1.2L, 1.3L | Ikke tillatt | Ikke tillatt | Tillatt | Ikke tillatt |
+| 1.4S | Tillatt | Tillatt | Tillatt | Tillatt |
+
 > Endret ved [forskrift 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016).
 
 ## Vedlegg 1 B
 
 ### Stuingsplaner for ADR-transportenheter med pakket farlig last i klassene 2 til 9 etter IMDG og ADR/RID (ikke eksplosive stoffer og gjenstander) for roro-skip med fastmonterte skumslukkeanlegg
+
+*Krav til stuing som følger av [§ 10](forskrift/2014-07-01-944/§10)*
+
+|  | *a)* | *b)* | *c)* | *d)* |
+| --- | --- | --- | --- | --- |
+| *Klasse og klasseinndeling etter IMDG/ADR/RID* | *Passasjerskip med åpent roro-dekk* | *Passasjerskip med lukket roro-dekk* | *Passasjerskip med åpent roro-dekk som fører inntil 25 passasjerer, eller maksimalt 1 passasjer per 3 meter av fartøyets lengde* | *Passasjerskip med lukket roro-dekk som fører inntil 25 passasjerer, eller maksimalt 1 passasjer per 3 meter av fartøyets lengde* |
+| *2. Gass*<br>*2.1 Brannfarlige gasser* | Tillatt | Ikke tillatt | Tillatt | Ikke tillatt |
+| *2. Gass*<br>*2.2 Ikke brannfarlige, ikke-giftige gasser* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *2. Gass*<br>*2.3 Giftige gasser* | Tillatt, unntatt for gasser i henhold til stuasjekategori «D» i IMDG-koden | Ikke tillatt | Tillatt | Tillatt, unntatt for gasser i henhold til stuasjekategori «D» i IMDG-koden |
+| *3. Brannfarlig væske*<br>*Emballasjegruppe I eller II* | Tillatt | Ikke tillatt | Tillatt | Tillatt |
+| *3. Brannfarlig væske*<br>*Emballasjegruppe III* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.1 Brannfarlige stoff: UN-nummer 1944, 1945, 2254, 2623* | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR |
+| *4. Brannfarlig fast stoff*<br>*4.1 Brannfarlige stoff: Andre UN-numre* | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR |
+| *4. Brannfarlig fast stoff*<br>*4.2 Selvantennelige stoffer* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.3 Stoffer som utvikler brannfarlige gasser i forbindelse med vann* | Tillatt. Når transport av ferrosilisium, UN 1408, skjer i bulk eller i lastbærere i kjøretøy på vei, i tankcontainere eller i avtakbare tanker, tillates dette kun når transporten og lasten følges av et sertifikat som bekrefter at lasten ble oppbevart under tak, ute i det fri, og at partikkelstørrelsen er representativ for lasten | Ikke tillatt | Tillatt. Når transport av ferrosilisium, UN 1408, skjer i bulk eller i lastbærere i kjøretøy på vei, i tankcontainere eller i avtakbare tanker, tillates dette kun når transporten og lasten følges av et sertifikat som bekrefter at lasten ble oppbevart under tak, ute i det fri, og at partikkelstørrelsen er representativ for lasten | Ikke tillatt |
+| *5. Oksiderende stoff og organiske peroksider*<br>*5.1 Oksiderende stoff* | Tillatt | Ikke tillatt | Tillatt | Tillatt |
+| *5. Oksiderende stoff og organiske peroksider*<br>*5.2. Organiske peroksider* | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Ikke tillatt | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Ikke tillatt |
+| *6. Giftig stoff*<br>*6.1 Emballasjegruppe I eller II* | Tillatt | Ikke tillatt | Tillatt | Ikke tillatt |
+| *6. Giftig stoff*<br>*6.1 Emballasjegruppe III* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *6. Giftig stoff*<br>*6.2 Infeksjonsfremmende stoff* | Ikke tillatt | Ikke tillatt | Tillatt | Tillatt |
+| *7. Radioaktivt stoff* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *8. Etsende stoff*<br>*Emballasjegruppe I eller II* | Tillatt | Ikke tillatt | Tillatt | Ikke tillatt |
+| *8. Etsende stoff*<br>*Flytende stoff i emballasjegruppe III* | Tillatt | Ikke tillatt | Tillatt | Tillatt |
+| *8. Etsende stoff*<br>*Fast stoff i emballasjegruppe III* | Tillatt | Tillatt | Tillatt | Tillatt |
+| *9. Forskjellige farlige stoff og gjenstander* | Tillatt | Tillatt | Tillatt | Tillatt |
 
 > Endret ved [forskrift 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016).
 
@@ -172,17 +208,54 @@ Forskriften trer i kraft 15. september 2014. Fra samme tidspunkt oppheves [forsk
 
 ### Stuingsplaner for ADR-transportenheter med pakket farlig last i klasse 1 etter IMDG og ADR/RID (eksplosive stoffer og gjenstander) for roro-skip uten fastmonterte skumslukkeanlegg
 
+*Krav til stuing som følger av [§ 11](forskrift/2014-07-01-944/§11)*
+
+| *Klasseinndeling etter IMDG/ADR/RID* | *a)* | *b)* |
+| --- | --- | --- |
+|  | *Passasjerskip med åpent roro-dekk* | *Passasjerskip med åpent roro-dekk som fører inntil 12 når ADR-transportenheten plasseres på oppmerket felt for farlig last forut eller akter på fartøyet og det rundt ADR-transportenheten er en sikkerhetssone på minst 3 meter til øvrige kjøretøy* |
+| 1.1A,<br>1.1B, 1.2B, 1.4B<br>1.1C, 1.2C, 1.3C,1.4C,<br>1.1D, 1.2D, 1.4D,<br>1.5D,<br>1.1E, 1.2E, 1.4E,<br>1.1F, 1.2F, 1.4F,<br>1.1G, 1.2G, 1.3G,<br>1.4G,<br>1.6N | Ikke tillatt | Tillatt |
+| 1.2H, 1.3H<br>1.1J, 1.2J, 1.3J | Ikke tillatt | Tillatt når nettomengden av eksplosiver om bord på skipet ikke overstiger 2,5 tonn |
+| 1.1L, 1.2L, 1.3L | Ikke tillatt | Ikke tillatt |
+| 1.4S | Tillatt | Tillatt |
+
 > Endret ved [forskrift 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016).
 
 ## Vedlegg 2 B
 
 ### Stuingsplaner for ADR-transportenheter med pakket farlig last i klassene 2 til 9 etter IMDG og ADR/RID (ikke eksplosive stoffer og gjenstander) for roro-skip uten fastmonterte skumslukkeanlegg
 
+*Krav til stuing som følger av [§ 11](forskrift/2014-07-01-944/§11)*
+
+|  | *a)* | *b)* |
+| --- | --- | --- |
+| *Klasse og klasseinndeling etter IMDG/ADR/RID* | *Passasjerskip med åpent roro-dekk* | *Passasjerskip med åpent roro-dekk som fører inntil 25 passasjerer når ADR-transportenheten plasseres på oppmerket felt for farlig last forut eller akter på fartøyet og det rundt ADR-transportenheten er en sikkerhetssone på minst 3 meter til øvrige kjøretøy* |
+| *2. Gass* | Ikke tillatt | Tillatt |
+| *3. Brannfarlig væske*<br>*Emballasjegruppe I eller II* | Ikke tillatt | Tillatt |
+| *3. Brannfarlig væske*<br>*UN-nummer 1203* | Tillatt når ADR-transportenheten plasseres på oppmerket felt for farlig last forut eller akter på fartøyet. Rundt ADR-transportenheten skal det være en sikkerhetssone på minst 3 meter til øvrige kjøretøy | Tillatt |
+| *3. Brannfarlig væske*<br>*Emballasjegruppe III* | Tillatt | Tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.1 UN-nummer 3221, 3222, 3231 og 3232* | Ikke tillatt | Ikke tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.1 Andre UN-numre* | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR |
+| *4. Brannfarlig fast stoff*<br>*4.2 Selvantennelige stoffer: Pakkegruppe I og II* | Ikke tillatt | Tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.2 Selvantennelige stoffer: Pakkegruppe III* | Tillatt | Tillatt |
+| *4. Brannfarlig fast stoff*<br>*4.3 Stoffer som utvikler brannfarlige gasser i forbindelse med vann* | Ikke tillatt | Tillatt. Når transport av ferrosilisium, UN 1408, skjer i bulk eller i lastbærere i kjøretøy på vei, i tankcontainere eller i avtakbare tanker, tillates dette kun når transporten og lasten følges av et sertifikat som bekrefter at lasten ble oppbevart under tak, ute i det fri, og at partikkelstørrelsen er representativ for lasten |
+| *4. Brannfarlig fast stoff*<br>*4.3 UN nummer 3170* | Tillatt når ADR-transportenheten plasseres på oppmerket felt for farlig last forut eller akter på fartøyet. Rundt ADR-transportenheten skal det være en sikkerhetssone på minst 3 meter til øvrige kjøretøy | Tillatt |
+| *5. Oksiderende stoff og organiske peroksider*<br>*5.1 Oksiderende stoff* | Ikke tillatt | Tillatt |
+| *5. Oksiderende stoff og organiske peroksider*<br>*5.2 Organiske peroksider:* UN-nummer 3101, 3102, 3111 og 3112 | Ikke tillatt | Ikke tillatt |
+| *5. Oksiderende stoff og organiske peroksider*<br>*5.2. Organiske peroksider:*<br>*Andre UN numre* | Ikke tillatt | Tillatt når stuingskravene i IMDG-kodens kapittel 7.3.7 er oppfylt, i tillegg til kravene i ADR |
+| *6. Giftig stoff*<br>*6.1 Giftig stoff* | Ikke tillatt | Tillatt |
+| *6. Giftig stoff*<br>*6.2 Infeksjonsfremmende stoff* | Ikke tillatt | Tillatt |
+| *7. Radioaktivt stoff* | Tillatt | Tillatt |
+| *8. Etsende stoff*<br>*Pakkegruppe I* | Ikke tillatt | Tillatt |
+| *8. Etsende stoff*<br>*Pakkegruppe II og III* | Tillatt | Tillatt |
+| *9. Forskjellige farlige stoffer og gjenstander* | Tillatt | Tillatt |
+
 > Endret ved [forskrift 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016).
 
 ## [SOLAS](traktat/1974-11-01-1) 74
 
 > [SOLAS](traktat/1974-11-01-1) 74 kapittel VII tilføyd ved [forskrift 15 sep 2014 nr. 1217](forskrift/2014-09-15-1217). Endret ved [forskrift 11 des 2015 nr. 1561](forskrift/2015-12-11-1561) (i kraft 1 jan 2016).
+
+Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (](traktat/1974-11-01-1)SOLAS) kapittel VII om Frakt av farlig last, slik Sjøfartsdirektoratet tolker denne del av konvensjonen tatt inn i konsolidert utgave 2014.
 
 ### Kapittel VII
 Frakt av farlig last
@@ -204,8 +277,12 @@ Med mindre annet er uttrykkelig fastsatt, gjelder følgende definisjoner for det
 
 4 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, utførlige instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last i emballert form, idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.2
 
+1 Det vises til:
+
 1. del D som inneholder særkrav til frakt av INF-last, og
 2. regel II-2/19 som inneholder særkrav til skip som fører farlig last.
+
+2 Det vises til:
 
 1. «Emergency Response Procedures for Ships Carrying Dangerous Goods (EmS Guide)» (MSC/Circ.1025), med endringer, og
 2. «Medical First Aid Guide for Use in Accidents Involving Dangerous Goods (MFAG)» (MSC/Circ.857) publisert av organisasjonen.
@@ -226,15 +303,23 @@ Frakt av farlig last i emballert form skal være i samsvar med de relevante best
 
 5 Alle skip som fører farlig last i emballert form, skal ha en spesiell liste eller fraktoppgave som i samsvar med klasseinndelingen i IMDG-koden angir den farlige lasten om bord og plasseringen derav. En detaljert stuingsplan som identifiserer all farlig last om bord med klasse, og som angir plasseringen av lasten, kan brukes i stedet for en slik spesiell liste eller fraktoppgave. En kopi av ett av disse dokumentene skal før avreise gjøres tilgjengelig for personen eller organisasjonen utpekt av havnestatsmyndigheten.
 
+1 Det vises til IMDG-koden, vedtatt av organisasjonen ved resolusjon MSC.122(75), med endringer.
+
 ### Regel 5 Lastesikringsmanual
 
 All last og alle lasteenheter1 og lastetransportenheter, skal lastes, stues og sikres under hele reisen i samsvar med lastesikringsmanualen som er godkjent av administrasjonen. Lastesikringsmanualen skal utarbeides etter en standard som minst tilsvarer retningslinjene som er utarbeidet av organisasjonen.2
+
+1 Som definert i «Code of Safe Practice for Cargo Stowage and Securing», vedtatt av organisasjonen ved resolusjon A.714(17), med endringer.
+
+2 Det vises til «Guidelines for the preparation of the Cargo Securing Manual» (MSC/Circ.745).
 
 ### Regel 6 Rapportering av hendelser med farlig last
 
 1 Dersom det inntreffer en hendelse der det er mistet pakket, farlig last eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på generelle prinsipper og retningslinjer utarbeidet av organisasjonen.1
 
 2 Dersom skipet nevnt i nr. 1 forlates, eller dersom en rapport fra et slikt skip er ufullstendig eller ikke kan fremskaffes, skal rederiet, som definert i regel IX/1.2, så langt det er mulig påta seg de forpliktelser som er tillagt skipsføreren etter denne regel.
+
+1 Det vises til «General principles for ship reporting systems and ship reporting requirements», inkludert «Guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants», vedtatt av organisasjonen ved resolusjon A.851(20), med endringer.
 
 ### Del A-1
 Frakt av farlig last som fast bulklast
@@ -250,6 +335,12 @@ Frakt av farlig last som fast bulklast
 2 Frakt av farlig last som fast bulklast er forbudt med mindre frakten er i samsvar med bestemmelsene i dette kapittelet.
 
 3 For å utfylle bestemmelsene i denne delen, skal hver kontraherende stats regjering utstede, eller sørge for at det blir utstedt, instruksjoner om nødtiltak og medisinsk førstehjelp i forbindelse med hendelser med farlig last som fast bulklast,2 idet det tas hensyn til retningslinjene utarbeidet av organisasjonen.3
+
+1 Det vises til regel II-2/19 som inneholder særkrav til skip som fører farlig last.
+
+2 Det vises til Det internasjonale regelverket for sikker frakt til sjøs av fast bulklast (IMSBC-koden), vedtatt av organisasjonen ved resolusjon MSC.268(85), med endringer.
+
+3 Det vises til «Medical First Aid Guide for Use in Accidents involving Dangerous Goods (MFAG)» (MSC/Circ.857).
 
 ### Regel 7-2 Dokumenter
 
@@ -270,6 +361,8 @@ Frakt av farlig last som fast bulklast
 1 Dersom det inntreffer en hendelse der det er mistet farlig last som fast bulklast, eller det er sannsynlig at slik last er mistet i sjøen, skal skipsføreren eller en annen person med ansvar for skipet uten opphold rapportere detaljene omkring hendelsen til nærmeste kyststat, så fullstendig som mulig. Rapporten skal være basert på retningslinjene og de generelle prinsippene som Organisasjonen har utarbeidet.1
 
 2 Dersom skipet nevnt i nr. 1 forlates, eller dersom en rapport fra et slikt skip er ufullstendig eller ikke kan fremskaffes, skal skipets reder, som definert i regel IX/1.2, så langt det er mulig påta seg de forpliktelser som er tillagt skipsføreren etter denne regel.
+
+1 Det vises til «General principles for ship reporting systems and ship reporting requirements», inkludert «Guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants», vedtatt av organisasjonen ved resolusjon A.851(20), med endringer.
 
 ### Regel 7-5 Krav til frakt av farlig last som fast bulklast
 

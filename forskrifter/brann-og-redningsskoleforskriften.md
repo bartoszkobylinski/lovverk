@@ -198,9 +198,23 @@ Vurderingen skal være bestått/ikke bestått eller en gradert karakterskala fra
 
 Til vurderingen av eksamener og fordypningsoppgave benyttes karakterskalaen A til F eller bestått / ikke bestått.
 
-Karakterskala A til F er basert på følgende kriterier:AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne, svært gode ferdigheter, og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne, selvstendighet og gode ferdigheter.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne, selvstendighet og gode ferdigheter på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne, selvstendighet og ferdigheterETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten grad av vurderingsevne, ferdigheter og selvstendighet.FIkke beståttPrestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne, ferdigheter, og selvstendighet.
+Karakterskala A til F er basert på følgende kriterier:
 
-Bestått / ikke bestått er basert på følgende overordnede kriterier:BeståttEn jevnt god prestasjon, eller bedre. Prestasjonen kan ha noen vesentlige mangler, men er tilfredsstillende på de fleste områder. Om kandidaten på noen av områdene viser liten grad av vurderingsevne, ferdigheter og/eller selvstendighet, men meget god på andre områder, skal dette kunne utjevne resultatet.Ikke beståttPrestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser manglende vurderingsevne og/eller manglende ferdigheter og/eller manglende selvstendighet.
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne, svært gode ferdigheter, og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne, selvstendighet og gode ferdigheter. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne, selvstendighet og gode ferdigheter på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne, selvstendighet og ferdigheter |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten grad av vurderingsevne, ferdigheter og selvstendighet. |
+| F | Ikke bestått | Prestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne, ferdigheter, og selvstendighet. |
+
+Bestått / ikke bestått er basert på følgende overordnede kriterier:
+
+|  |  |
+| --- | --- |
+| Bestått | En jevnt god prestasjon, eller bedre. Prestasjonen kan ha noen vesentlige mangler, men er tilfredsstillende på de fleste områder. Om kandidaten på noen av områdene viser liten grad av vurderingsevne, ferdigheter og/eller selvstendighet, men meget god på andre områder, skal dette kunne utjevne resultatet. |
+| Ikke bestått | Prestasjonen tilfredsstiller ikke de faglige minimumskravene. Kandidaten viser manglende vurderingsevne og/eller manglende ferdigheter og/eller manglende selvstendighet. |
 
 Til vurdering av praksis i beredskap, forebygging og nødalarmering, benyttes bestått eller ikke bestått.
 

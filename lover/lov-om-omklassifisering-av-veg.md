@@ -38,6 +38,8 @@ Ved uenighet mellom stat og fylkeskommune eller Oslo kommune om hvilke rettighet
 
 ## § 3. Endringer i andre lover
 
+– – –
+
 ## § 4. Ikrafttredelse
 
 1. Endringene i [vegloven § 62](lov/1963-06-21-23/§62) tredje ledd trer i kraft straks.

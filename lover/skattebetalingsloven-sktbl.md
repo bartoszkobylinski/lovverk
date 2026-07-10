@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)
 
+**Lovdatas anmerkning:** Loven ble endret ved [innkrevingsloven](lov/2025-04-25-12) 1. januar 2026, men merk at lovendringene om utlegg kommer til gradvis anvendelse i saker om utlegg iflg. [res. 10. juni 2025 nr. 967](forskrift/2025-06-10-967) og [delegeringsvedtak 10 juni 2025 nr. 968](forskrift/2025-06-10-968). Se tidligere [historisk versjon datert 20. juni 2025](HIST/lov/2005-06-17-67-20250620) for loven slik den lød før endringene.
+
 ## Del I. Innledende bestemmelser
 
 ### Kapittel 1. Lovens virkeområde
@@ -35,6 +37,8 @@ eu_basis: []
 (3) Med mindre annet er særskilt bestemt gjelder reglene om skatte- og avgiftskrav tilsvarende så langt de passer for:renter etter [kapittel 11](lov/2005-06-17-67/kap11), omkostninger og gebyrer fastsatt i medhold av denne lov, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14), [tollavgiftsloven](lov/2022-03-11-8), [vareførselsloven](lov/2022-03-11-9), [skatteforvaltningsloven](lov/2016-05-27-14) og [kassasystemlova § 8](lov/2015-06-19-58/§8),tilleggsskatt fastsatt i medhold av [skatteforvaltningsloven](lov/2016-05-27-14), tilleggsavgift fastsatt i medhold av [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver](lov/1964-06-19-14) og tilleggsavgift fastsatt i medhold av [tollavgiftsloven](lov/2022-03-11-8),tvangsmulkt etter § 5-16, [lov 19. juni 1964 nr. 14 om avgift på arv og visse gaver § 43](lov/1964-06-19-14/§43), [tollavgiftsloven § 12-1](lov/2022-03-11-8/§12-1), [vareførselsloven § 12-1](lov/2022-03-11-9/§12-1), [skatteforvaltningsloven § 14-1](lov/2016-05-27-14/§14-1) og [kassasystemlova § 7](lov/2015-06-19-58/§7).
 
 > Endret ved [lover 15 des 2006 nr. 85](lov/2006-12-15-85), [12 des 2008 nr. 100](lov/2008-12-12-100), [19 juni 2009 nr. 55](lov/2009-06-19-55), [19 juni 2009 nr. 58](lov/2009-06-19-58) (ikr. 1 jan 2010 iflg. [res. 6 nov 2009 nr. 1347](forskrift/2009-11-06-1347)), [25 juni 2010 nr. 40](lov/2010-06-25-40), [13 des 2013 nr. 122](lov/2013-12-13-122), [18 des 2015 nr. 116](lov/2015-12-18-116) (ikr. 1 jan 2016), [19 juni 2015 nr. 54](lov/2015-06-19-54) (ikr. 1 jan 2017), [27 mai 2016 nr. 14](lov/2016-05-27-14) (ikr. 1 jan 2017 iflg. [res. 27 mai 2016 nr. 531](forskrift/2016-05-27-531), endring endret ved [lov 20 des 2016 nr. 120](lov/2016-12-20-120)), [22 juni 2018 nr. 65](lov/2018-06-22-65) (ikr. 1 jan 2019 med virkning fra inntektsåret 2019), [23 juni 2020 nr. 105](lov/2020-06-23-105), [21 des 2020 nr. 166](lov/2020-12-21-166) (ikr. 1 juli 2021), [20 des 2022 nr. 107](lov/2022-12-20-107), [11 mars 2022 nr. 8](lov/2022-03-11-8) (i kraft 1 jan 2023 iflg. [res. 16 sep 2022 nr. 1575](forskrift/2022-09-16-1575)), [12 jan 2024 nr. 5](lov/2024-01-12-5) (i kraft 1 jan 2024). **Endres** ved lov [19 juni 2026 nr. 41](lov/2026-06-19-41) (i kraft fra den tid Kongen bestemmer).
+
+1 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal loven gjelde fra 1 jan 2008 med unntak for følgende krav hvor loven skal gjelde fra 1 jan 2009: a. Krav som nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) annet ledd bokstav a til d, b. krav etter [ligningsloven](lov/1980-06-13-24) og c. krav som nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) tredje ledd, og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) annet ledd bokstav a-d.
 
 ### § 1-2. Andre offentlige krav
 
@@ -1302,6 +1306,8 @@ Departementet kan i forskrift bestemme at mottakeren av avgiftsfrie varer og tje
 
 > Endret ved [lov 14 des 2007 nr. 110](lov/2007-12-14-110).
 
+1 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal loven gjelde fra 1 jan 2008 med unntak for følgende krav hvor loven skal gjelde fra 1 jan 2009: a. Krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstavene a til d, b. krav etter [ligningsloven](lov/1980-06-13-24) og c. krav som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (3), og som fastsettes i medhold av de lover som er nevnt i [lovens § 1-1](lov/2005-06-17-67/§1-1) (2) bokstav a-d.2 Iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616) skal § 19-3 nr. 1, 2, 4, 5, 7 og 8 gjelde fra 1 jan 2008, mens de øvrige deler av [§ 19-3](lov/2005-06-17-67/§19-3) skal gjelde fra 1 jan 2009.3 Fra 1 jan 2009 iflg. [res. 21 des 2007 nr. 1616](forskrift/2007-12-21-1616)
+
 ### § 19-2. overgangsbestemmelser
 
 Departementet kan gi overgangsbestemmelser, herunder gi overgangsbestemmelser knyttet til endringer i reglene om tilleggsskatt.
@@ -1309,3 +1315,5 @@ Departementet kan gi overgangsbestemmelser, herunder gi overgangsbestemmelser kn
 > Endret ved [lover 14 des 2007 nr. 110](lov/2007-12-14-110), [11 des 2009 nr. 124](lov/2009-12-11-124).
 
 ### § 19-3. Endringer i andre lover
+
+– – –

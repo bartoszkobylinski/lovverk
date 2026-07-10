@@ -32,7 +32,7 @@ Forskriften gjelder krav til import, og videre omsetning av matpoteter fra Egypt
 
 ## § 3. Definisjoner
 
-I denne forskriften menes med:*Matpotet:* Knoller av *Solanum tuberosum**Mørk ringråte:**Ralstonia solanacearum* (Smith) Yabuuchi et.al*Sending:* En sending kan max. inneholde 25 000 kg*Feddan:* 1 feddan = 0,41 ha = 4,1 da*PFA-område:**Pest Free Area =* et område som er erklært fritt for *Ralstonia solanacearum* av den offisielle plantehelsemyndigheten i Egypt og i henhold til ISPM 10.
+I denne forskriften menes med:*Matpotet:* Knoller av *Solanum tuberosum**Mørk ringråte:* *Ralstonia solanacearum* (Smith) Yabuuchi et.al*Sending:* En sending kan max. inneholde 25 000 kg*Feddan:* 1 feddan = 0,41 ha = 4,1 da*PFA-område:* *Pest Free Area =* et område som er erklært fritt for *Ralstonia solanacearum* av den offisielle plantehelsemyndigheten i Egypt og i henhold til ISPM 10.
 
 ## § 4. Generelle krav til import av matpoteter fra Egypt
 

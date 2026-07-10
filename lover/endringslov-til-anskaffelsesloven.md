@@ -22,10 +22,22 @@ eu_basis: []
 
 # Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
 
+Endringer i følgende lov:
+
 - [Lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven)](lov/2016-06-17-73).
 
 ## I
 
+I [lov 17. juni 2016 nr. 73 om offentlige anskaffelser](lov/2016-06-17-73) gjøres følgende endringer:
+
+– – –
+
+[§ 4](lov/2016-06-17-73/§4) oppheves.
+
+– – –
+
 ## II
 
 Loven gjelder fra den tiden1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
+
+1 Fra 1. juli 2026, med unntak av opphevelsen av § 4, iflg. [res. 6 mars 2026 nr. 358](forskrift/2026-03-06-358).

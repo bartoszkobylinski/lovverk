@@ -3955,6 +3955,8 @@ Ved avgjørelsen av om overtredelsesgebyr skal ilegges og ved utmåling av overt
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelsene i loven til forskjellig tid.
 
+1 Fra 1 jan 2016 iflg. [res. 10 apr 2015 nr. 350](forskrift/2015-04-10-350).
+
 ### § 23-2. Overgangsbestemmelser
 
 (1) Finansforetak som driver virksomhet som omfattes av denne loven når den trer i kraft, må oppfylle lovens krav innen ett år etter ikrafttredelsen, med mindre noe annet er fastsatt i overgangsregler gitt i medhold av denne bestemmelsen.
@@ -3969,10 +3971,12 @@ Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
-3. [Lov 24. mai 1961 nr. 1 om sparebanker](lov/1961-05-24-1) oppheves.
+3\. [Lov 24. mai 1961 nr. 1 om sparebanker](lov/1961-05-24-1) oppheves.
 
-4. [Lov 24. mai 1961 nr. 2 om forretningsbanker](lov/1961-05-24-2) oppheves.
+4\. [Lov 24. mai 1961 nr. 2 om forretningsbanker](lov/1961-05-24-2) oppheves.
 
-5. [Lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner](lov/1988-06-10-40) oppheves.
+5\. [Lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner](lov/1988-06-10-40) oppheves.
 
-6. [Lov 6. desember 1996 nr. 75 om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner](lov/1996-12-06-75) oppheves.
+6\. [Lov 6. desember 1996 nr. 75 om sikringsordninger for banker, forsikringsselskapenes garantiordninger og offentlig administrasjon m.v. av finansinstitusjoner](lov/1996-12-06-75) oppheves.
+
+– – –

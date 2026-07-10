@@ -76,11 +76,30 @@ Kommunen skal gi grunntilskudd etter [barnehageloven § 19a første ledd](lov/20
 
 ### § 7. Nasjonale satser for grunntilskudd til ordinære barnehager
 
-Kommuner som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:*Grunntilskuddssats, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år[Satsene fastsettes årlig av KD]Ordinære barnehager, barn fra tre år til seks år[Satsene fastsettes årlig av KD]
+Kommuner som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
 
-Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:*Grunntilskuddssats, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år[Satsene fastsettes årlig av KD]Ordinære barnehager, barn fra tre år til seks år[Satsene fastsettes årlig av KD]Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå.
+|  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:*Grunntilskuddssats, inklusive administrasjonspåslag*Ordinære barnehager, barn fra null år til to år[Satsene fastsettes årlig av KD]Ordinære barnehager, barn fra tre år til seks år[Satsene fastsettes årlig av KD]Med kommuner i tiltakssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
+Kommuner som ligger i sentralitetssone 5 eller sentralitetssone 6 som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
+
+|  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
+
+Med sentralitetssone 5 og sentralitetssone 6 menes kommuner som grupperes i nest-minst sentrale kommuner (klasse 5) eller minst sentrale kommuner (klasse 6) i den siste versjonen av sentralitetsindeksen som utarbeides av Statistisk sentralbyrå.
+
+Kommuner i tiltakssonen i Finnmark og Nord-Troms som ikke har kommunale ordinære barnehager, skal gi grunntilskudd ut fra følgende satser:
+
+|  | *Grunntilskuddssats, inklusive administrasjonspåslag* |
+| --- | --- |
+| Ordinære barnehager, barn fra null år til to år | [Satsene fastsettes årlig av KD] |
+| Ordinære barnehager, barn fra tre år til seks år | [Satsene fastsettes årlig av KD] |
+
+Med kommuner i tiltakssonen i Finnmark og Nord-Troms menes alle kommuner i Finnmark samt sju kommuner i Nord-Troms (Kåfjord, Skjervøy, Nordreisa, Kvænangen, Karlsøy, Lyngen og Storfjord).
 
 ### § 8. Kommunale satsinger
 
@@ -146,13 +165,47 @@ Barnehagen skal melde fra til departementet uten ugrunnet opphold dersom barneha
 
 Kommunen skal beregne grunntilskudd og pensjonstilskudd til private familiebarnehager på samme måte som for ordinære barnehager. Kommunen skal gi påslag for administrasjonsutgifter, jf. [§ 12](forskrift/2026-03-23-454/§12).
 
-Kommunen skal gi eiendomstilskudd til private familiebarnehager etter følgende satser:*Sats per heltidsplass for barn fra null år til to år**Sats per heltidsplass for barn fra tre år til seks år*[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]
+Kommunen skal gi eiendomstilskudd til private familiebarnehager etter følgende satser:
 
-Kommuner som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone Ia[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone II[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone III[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IV[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IVa[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone V[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]
+| *Sats per heltidsplass for barn fra null år til to år* | *Sats per heltidsplass for barn fra tre år til seks år* |
+| --- | --- |
+| [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
 
-Kommuner som ligger i sentralitetssone 5 eller 6, jf. [§ 7 andre ledd](forskrift/2026-03-23-454/§7/ledd/2), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone Ia[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone II[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone III[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IV[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IVa[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone V[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]
+Kommuner som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
 
-Kommuner i tiltakssonen i Finnmark og Nord-Troms, jf. [§ 7 tredje ledd](forskrift/2026-03-23-454/§7/ledd/3), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:*Arbeidsgiveravgiftsone**Sats for heltidsplass for barn fra null år til to år**Sats for heltidsplass for barn fra tre år til seks år*Sone I[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone Ia[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone II[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone III[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IV[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IVa[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone V[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+
+Kommuner som ligger i sentralitetssone 5 eller 6, jf. [§ 7 andre ledd](forskrift/2026-03-23-454/§7/ledd/2), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
+
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+
+Kommuner i tiltakssonen i Finnmark og Nord-Troms, jf. [§ 7 tredje ledd](forskrift/2026-03-23-454/§7/ledd/3), som ikke har kommunale familiebarnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private familiebarnehager etter følgende satser:
+
+| *Arbeidsgiveravgiftsone* | *Sats for heltidsplass for barn fra null år til to år* | *Sats for heltidsplass for barn fra tre år til seks år* |
+| --- | --- | --- |
+| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
 
 ### § 18. Tilskudd til åpne barnehager
 
@@ -162,7 +215,17 @@ Kommunen skal beregne pensjonstilskudd til åpne barnehager på samme måte som 
 
 Kommunen beregner tilskudd etter første ledd ut fra hvor mange barn den private barnehagen er godkjent for. Hvis det over tid viser seg at fremmøtet i barnehagen er vesentlig lavere enn dette, kan kommunen legge et lavere barnetall til grunn.
 
-Kommuner som ikke har kommunale åpne barnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private åpne barnehager etter følgende satser:*Arbeidsgiveravgiftsone**Åpningstid på 6 til 15 timer**Åpningstid på 16 timer eller mer*Sone I[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone Ia[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone II[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone III[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IV[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone IVa[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]Sone V[Satsene fastsettes årlig av KD][Satsene fastsettes årlig av KD]
+Kommuner som ikke har kommunale åpne barnehager, skal gi grunntilskudd inklusive administrasjonspåslag til private åpne barnehager etter følgende satser:
+
+| *Arbeidsgiveravgiftsone* | *Åpningstid på 6 til 15 timer* | *Åpningstid på 16 timer eller mer* |
+| --- | --- | --- |
+| Sone I | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone Ia | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone II | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone III | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IV | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone IVa | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
+| Sone V | [Satsene fastsettes årlig av KD] | [Satsene fastsettes årlig av KD] |
 
 ## Kapittel 6 – Diverse regler
 
@@ -219,6 +282,152 @@ Søknader om ekstra pensjonstilskudd som gjelder dekning av pensjonsutgifter for
 > Tilføyd ved forskrift [13 mai 2026 nr. 812](forskrift/2026-05-13-812).
 
 ## Vedlegg 1. Liste over private barnehager som omfattes av § 16 om særregel for pensjonstilskudd til private barnehager med historiske pensjonsforpliktelser basert på avtale om offentlig tjenestepensjon
+
+| *Virksomhetsnr.* | *Navn* |
+| --- | --- |
+| 916381689 | Aglo barnehage Eventyrhuset AS |
+| 916381662 | Aglo barnehage Sentrum AS |
+| 973445936 | Andungen barnehage 1. Sa |
+| 973597639 | Askeladden barnehage |
+| 975028852 | Bakklandet barnehage |
+| 975028860 | Barnas Hus barnehage |
+| 977010047 | Barnehagen Himmelblå |
+| 873893362 | BARNEHAGEN I BRYNE KYRKJE |
+| 974796732 | Bekkelaget Kirkes barnehage |
+| 914746620 | Berg barnehage |
+| 973470434 | Berg Barnehage SA |
+| 973454870 | Bergerkollektivet barnehage |
+| 975183408 | BETANIEN BARNEHAGE |
+| 930333263 | Betanien barnehage AS |
+| 973383531 | Bjørset barnehage AS |
+| 973383248 | BJØRKETUN BARNEHAGE |
+| 982367409 | Blå Kors barnehage Øvrebø AS |
+| 973346504 | BMB Barnehage AS |
+| 994875698 | BOGAFJELL ÅPNE BARNEHAGE |
+| 996006344 | Byggeklossen Open barnehage |
+| 975183874 | Byåsen Kirkes barnehage |
+| 975314456 | BØLER MENIGHETS BARNEHAGE |
+| 973782975 | Bøler åpen barnehage |
+| 995319101 | Den Tysk-Norske Barnehagen i Oslo A |
+| 875028642 | Diakonhjemmet Barnehage Borgenveien AS |
+| 975183823 | Domkirken barnehage |
+| 875183842 | Dronning Mauds Minne barnehage |
+| 974838028 | Eikely Barnehage as |
+| 988541222 | Engan Gårdsbarnehage AS |
+| 975266702 | ENGELSRUD BARNEHAGE |
+| 985773017 | Eplehagen Barnehage (Eidanger Barnehage as) |
+| 974703351 | Fagerborg menighetsbarnehage |
+| 973337491 | Festningsgata menighets-barnehage |
+| 973337459 | Fevik barnehage |
+| 988820628 | Fitjar Soknerådsbarnehage Stifting |
+| 975048179 | Fjelltun barnehage AS |
+| 973457497 | Fossekallen Barnehage Sti |
+| 975183939 | Fredly Barnehage AS |
+| 987532874 | FRIDALEN MENIGHETS ÅPNE BARNEHAGE |
+| 975183793 | Frydenberg barnehage |
+| 974294443 | Grefsen Kirkes barnehage |
+| 973471872 | Hagen barnehage SA |
+| 973382403 | Hasle Barnehage AS |
+| 973383191 | Haugar barnehage |
+| 973469207 | Helgerud Menighets barnehage |
+| 975315258 | Helse Bergen Hf Hunstad barnehage |
+| 975315096 | Helse Bergen Hf Ravnebjerget barnehage |
+| 974737760 | Helse Bergen Hf Vinterdalen barnehage |
+| 979468105 | Helse Bergen Hf Vognstolen barnehage |
+| 873885262 | Hem barnehage |
+| 973456636 | Hofmoen barnehage |
+| 873349352 | HOLMENTOPPEN BARNEHAGE |
+| 974102226 | Hvitsten Naturbarnehage SA |
+| 974305658 | Ihle Barnehage |
+| 974157187 | Imi barnehage |
+| 996005364 | JESSHEIM ÅPEN BARNEHAGE |
+| 973469819 | Jondalen barnehage |
+| 973454544 | Kirkestallen barnehage |
+| 874800082 | Kirketunet barnehage |
+| 973448706 | Kirketunet barnehage AS |
+| 973352377 | Klingen naturbarnehage SA |
+| 989536338 | KLYVE ÅPEN BARNEHAGE |
+| 973817493 | Knatten barnehage |
+| 982451361 | Knøttene åpen barnehage |
+| 974998394 | Lademoen barnehage |
+| 993131075 | Lekestua barnehage |
+| 994249622 | Lillefot barnehage |
+| 996000389 | LITEN OG STOR ÅPEN BARNEHAGE |
+| 974703009 | Ljan Kirkes barnehage |
+| 981232232 | Lommedalen Menighets barnehage |
+| 993804703 | Lovisenberg Diakonale barnehage AS |
+| 975325342 | Løkkan barnehage |
+| 973269852 | Mandal Sanitetsforenings barnehage |
+| 994915959 | MARIAKIRKEN ÅPEN BARNEHAGE |
+| 874116572 | Martina Hansens Hospital |
+| 973449133 | Maurtua Barnehage Bømlo SA |
+| 874998362 | Midtbyen barnehage |
+| 974156318 | Misjonshusets Barnehage |
+| 983214770 | Mølleplassen Spesialbarnehage |
+| 972209503 | Myre Bedriftsbarnehage AS |
+| 980098974 | Nedre Stabæk barnehage AS |
+| 973304143 | Nesttun Indremisjons barnehage |
+| 981133234 | Nidelven åpen barnehage |
+| 994947362 | NOA ÅPEN BARNEHAGE |
+| 920560504 | Noahs Ark barnehage AS |
+| 982926610 | NOAS ARK OPEN BARNEHAGE |
+| 974702843 | Nordberg menighetsbarnehage |
+| 973479881 | Nordstrand Kirkes barnehage |
+| 972138487 | AS Norrøna barnehage |
+| 994915274 | NYKIRKEN ÅPEN BARNEHAGE |
+| 973469983 | NØTTELITEN BARNEHAGE |
+| 996004783 | OLSVIK MENIGHETS ÅPEN BARNEHAGE |
+| 994902903 | Osøyro Open barnehage |
+| 972517038 | PETRINE BARNEHAGE |
+| 975185117 | Preg barnehager Botne as |
+| 874703362 | Rishaven menighetsbarnehage AS |
+| 973455710 | Rosenhagen Steinerbarnehage |
+| 974703386 | Røa menighetsbarnehage |
+| 995119560 | Sakkeus Åpen barnehage |
+| 974725142 | SCHAFTELØKKEN MENIGHETS BARNEHAGE |
+| 889857072 | Semsløkka barnehage |
+| 974224356 | Skjoldtun barnehage |
+| 979781857 | Skogstjerna Natur og menighetsbarnehage |
+| 974142740 | Solborg barnehage |
+| 931679007 | Sole Skog Barnehage AS |
+| 973448633 | Solvang barnehage SA |
+| 974857561 | Solvang barnehage Førde AS |
+| 973382322 | Solvangkirkens barnehage |
+| 993266361 | Starefossen barnehage |
+| 981098749 | Stiftelsen Gullhaugen steinerbarnehage |
+| 973489321 | Stiftelsen KF Ansattes Barnehage |
+| 973494368 | Stiftelsen Norby Gård barnehage |
+| 979740530 | Stiftelsen Sesam |
+| 996000540 | Stjernen Åpen barnehage |
+| 974798670 | Stiftelsen Håholen barnehage |
+| 973390953 | Stiftelsen Ullevålsletta barnehage |
+| 932792257 | Store Brevik barnehage AS |
+| 985917981 | STORHAUG ÅPEN BARNEHAGE |
+| 974197901 | Svartskog Friluftsbarnehage SA |
+| 973456458 | Sørbyen barnehage AS |
+| 987751894 | SØRNES ÅPEN BARNEHAGE |
+| 973535765 | Tananger Menighetsbarnehage |
+| 973772503 | TEIE KIRKES BARNEHAGE |
+| 996006158 | Torridal åpen barnehage |
+| 974194678 | Torvteigen barnehage AS |
+| 975266842 | TRIPP TRAPP ÅPEN BARNEHAGE |
+| 994274406 | Tripp-Trapp Åpen barnehage |
+| 974703408 | Ullern Menighetsbarnehage Holgerslyst |
+| 997019814 | Ulriken Kfuk-Kfum Åpen barnehage |
+| 974156458 | Ulset Barnehage |
+| 973334875 | Unneland barnehage |
+| 972339563 | VASSBAKKEN BARNEHAGE SA |
+| 983604560 | Vike Montessoribarnehage SA |
+| 973763881 | VONHEIM OPEN BARNEHAGE |
+| 973456466 | Østenstad Menighetsbarnehage |
+| 973458515 | Østerhus barnehage |
+| 990635498 | Øygarden Kfuk-Kfum avd åpen barnehage |
+| 990635285 | Øygarden Kfuk-Kfum avd Straume |
+| 991843876 | Øygarden Kfuk-Kfum avd Landro |
+| 973454528 | Øymark barnehage |
+| 972290920 | Åkebakke Barnehage |
+| 993481947 | ÅPEN BARNEHAGE FANA KM |
+| 973877070 | Åpen barnehage Haugesund |
 
 > Endret ved forskrift [29 juni 2026 nr. 1440](forskrift/2026-06-29-1440).
 

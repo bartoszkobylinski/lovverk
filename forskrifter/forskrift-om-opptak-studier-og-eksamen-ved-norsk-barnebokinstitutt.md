@@ -32,7 +32,7 @@ eu_basis: []
 
 ### § 1-2. Definisjoner
 
-I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Norsk barnebokinstitutt. Utdanning i skrivekunst og litteraturformidling.*Klagenemnd:* Felles klagenemnd for Skrivekunstakademiet og Norsk barnebokinstitutt.*Opptaksforskriften:*[Forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning.*Samtidslitteraturstudiet:* Samtidslitteratur for barn og unge. Nettbasert videreutdanning for litteraturformidlere.*Utdanningsinstitusjonen:* Norsk barnebokinstitutt.*Mastergradsforskriften:*[Forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.*Masterstudiet:* Masterstudium i barne- og ungdomslitterær skrivekunst og formidling.
+I denne forskrift menes med:*Forfatterutdanningen:* Forfatterutdanningen ved Norsk barnebokinstitutt. Utdanning i skrivekunst og litteraturformidling.*Klagenemnd:* Felles klagenemnd for Skrivekunstakademiet og Norsk barnebokinstitutt.*Opptaksforskriften:* [Forskrift 6. januar 2017 nr. 13](forskrift/2017-01-06-13) om opptak til høgre utdanning.*Samtidslitteraturstudiet:* Samtidslitteratur for barn og unge. Nettbasert videreutdanning for litteraturformidlere.*Utdanningsinstitusjonen:* Norsk barnebokinstitutt.*Mastergradsforskriften:* [Forskrift 1. desember 2005 nr. 1392](forskrift/2005-12-01-1392) om krav til mastergrad.*Masterstudiet:* Masterstudium i barne- og ungdomslitterær skrivekunst og formidling.
 
 > Endret ved forskrift [23 mai 2024 nr. 967](forskrift/2024-05-23-967) (i kraft 1 aug 2024).
 

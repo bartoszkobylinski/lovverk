@@ -46,7 +46,14 @@ Fartøy under 28 meter største lengde med adgang til å delta i direkte fiske e
 
 ## § 6. Maksimalkvoter for fartøy under 28 meter største lengde
 
-Fartøy under 28 meter største lengde med adgang til å delta i direkte fiske etter blåkveite, og som fisker med konvensjonelle redskap, kan fiske og lande følgende maksimalkvoter:Lengde:Maksimalkvote:0–13,99 meter største lengde9,7 tonn14–19,99 meter største lengde10,9 tonn20–27,99 meter største lengde12,1 tonn
+Fartøy under 28 meter største lengde med adgang til å delta i direkte fiske etter blåkveite, og som fisker med konvensjonelle redskap, kan fiske og lande følgende maksimalkvoter:
+
+|  |  |
+| --- | --- |
+| Lengde: | Maksimalkvote: |
+| 0–13,99 meter største lengde | 9,7 tonn |
+| 14–19,99 meter største lengde | 10,9 tonn |
+| 20–27,99 meter største lengde | 12,1 tonn |
 
 ## § 7. Bifangst for konvensjonelle kystfartøy
 

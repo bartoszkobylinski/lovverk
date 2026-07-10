@@ -838,6 +838,8 @@ Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. Kongen kan sette i kra
 
 > Endret ved lov [24 nov 2023 nr. 84](lov/2023-11-24-84) (i kraft 1 juli 2024 iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875), tidligere § 67).
 
+1 Fra 1 juli 2017 iflg. [res. 16 juni 2017 nr. 778](forskrift/2017-06-16-778).
+
 ### § 86. Overgangsregler
 
 Tidligere yrkesbefal som er fast tilsatt til de fyller 60 år, og som ble tilsatt før 1. januar 2016, beholder sin stilling i Forsvaret til de har fylt 60 år.

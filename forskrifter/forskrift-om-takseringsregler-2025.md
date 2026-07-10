@@ -56,7 +56,19 @@ Skattepliktige kan sette ned etablerte formuesverdier som overstiger 80 prosent 
 
 ### § 1-1-3. Private biler/motorsykler/snøscootere/bobil
 
-Private biler/motorsykler/snøscootere/bobil verdsettes med utgangspunkt i hovedimportørs listepris for kjøretøyet ved registrering som ny med tillegg av listepris for eventuelt ekstrautstyr:*Registreringsår som ny*202575 prosent202465 prosent202355 prosent202245 prosent202140 prosent202030 prosent201920 prosent2010 t.o.m. 201815 prosent1996 t.o.m. 20091000 kroner
+Private biler/motorsykler/snøscootere/bobil verdsettes med utgangspunkt i hovedimportørs listepris for kjøretøyet ved registrering som ny med tillegg av listepris for eventuelt ekstrautstyr:
+
+| *Registreringsår som ny* |  |
+| --- | --- |
+| 2025 | 75 prosent |
+| 2024 | 65 prosent |
+| 2023 | 55 prosent |
+| 2022 | 45 prosent |
+| 2021 | 40 prosent |
+| 2020 | 30 prosent |
+| 2019 | 20 prosent |
+| 2010 t.o.m. 2018 | 15 prosent |
+| 1996 t.o.m. 2009 | 1000 kroner |
 
 Kjøretøy registrert som ny i 1995 eller tidligere anses som veterankjøretøy og verdsettes til antatt salgsverdi.
 
@@ -330,13 +342,30 @@ Bokføringspliktige skattytere gis fradrag for faktiske kostnader, dokumentert v
 
 Satsene tilsvarer satsene for fri kost og losji i [forskrift 27. november 2024 nr. 2889 (satsforskriften) § 6](forskrift/2024-11-27-2889/§6).
 
-Satser for inntektsåret 2025:*Sats per dag, kroner*Fritt opphold (kost og losji)148Fri kost (alle måltider)105Fri kost (to måltider)81Fri kost (ett måltid)54Fritt losji (eget eller delt rom)43
+Satser for inntektsåret 2025:
+
+|  | *Sats per dag, kroner* |
+| --- | --- |
+| Fritt opphold (kost og losji) | 148 |
+| Fri kost (alle måltider) | 105 |
+| Fri kost (to måltider) | 81 |
+| Fri kost (ett måltid) | 54 |
+| Fritt losji (eget eller delt rom) | 43 |
 
 Det skal bare regnes med det antall dager som arbeidstakeren faktisk mottar slike ytelser
 
 ### § 2-3-2. Lønn til hjemmeværende barn som samtidig går på skole
 
-Normalsatser for arbeid utført av barn:*1.1.2025–20.4.2025**21.4.–31.12.2025**Alder**Timesats, kroner**Timesats, kroner*17 år16016816 år15516215 år13514114 år11912413 år106111
+Normalsatser for arbeid utført av barn:
+
+|  | *1.1.2025–20.4.2025* | *21.4.–31.12.2025* |
+| --- | --- | --- |
+| *Alder* | *Timesats, kroner* | *Timesats, kroner* |
+| 17 år | 160 | 168 |
+| 16 år | 155 | 162 |
+| 15 år | 135 | 141 |
+| 14 år | 119 | 124 |
+| 13 år | 106 | 111 |
 
 Det kan bare unntaksvis bli tale om å fradragsføre lønn til egne barn under 13 år.
 
@@ -416,15 +445,64 @@ Formuesverdien av kravet på festeavgift beregnes ved å multiplisere den årlig
 
 Varebeholdning settes til anskaffelsesverdi, eller tilvirkningsverdi for egentilvirkede varer, jf. [skatteloven § 14-5 annet ledd, bokstav a](lov/1999-03-26-14/§14-5/ledd/2/bokstav/a). Som tilvirkningsverdi regnes kostpris for råstoff, halvfabrikata, hjelpestoffer og produksjonslønn.
 
+a. *Buskap*
+
 Reglene om verdsetting av buskap er gitt i [kapittel 5](forskrift/2025-12-01-2404/kap5) i denne forskriften.
 
-Etter [forskrift 19. november 1999 nr. 1158 til utfylling og gjennomføring mv. skatteloven § 14-5-3](forskrift/1999-11-19-1158/§14-5-3) skal verpehøner og kyllinger som skal settes inn i eggproduksjon verdsettes til slakteverdi. Slakteverdien settes til:*Verdi per stk., kroner*Verpehøner4Kyllinger4
+*Storfe*
+
+|  | *Ordinære satser, kroner* | *I prosent av voksne dyr* |
+| --- | --- | --- |
+| Kyr tilført i året<br>(har kalvet) | 9200 |  |
+| Kviger over 12 måneder<br>(ikke kalvet) | 6400 | 70 |
+| Kviger under 12 måneder | 2800 | 30 |
+| Okser over 12 måneder | 6400 | 70 |
+| Okser under 12 måneder | 2800 | 30 |
+
+*Griser*
+
+|  | *Ordinære satser, kroner* | *I prosent av voksne dyr* |
+| --- | --- | --- |
+| Avlsgriser tilført i året<br>(over 6 måneder) | 3100 |  |
+| Slakteferdige griser | 2200 |  |
+| Slaktegriser ca. 4 måneder | 1800 | 80 |
+| Slaktegriser ca. 3 måneder | 1300 | 60 |
+| Smågriser ca. 2 måneder | 900 | 40 |
+| Smågriser under 2 måneder | 440 | 20 |
+
+*Småfe*
+
+|  | *Ordinære satser, kroner* | *I prosent av voksne dyr* |
+| --- | --- | --- |
+| Sauer tilført i året (over 12 måneder) | 800 |  |
+| Sauer under 12 måneder | 480 | 60 |
+| Geiter tilført i året (over 9 måneder) | 500 |  |
+| Geiter under 9 måneder | 150 | 30 |
+
+*Fjørfe*
+
+Etter [forskrift 19. november 1999 nr. 1158 til utfylling og gjennomføring mv. skatteloven § 14-5-3](forskrift/1999-11-19-1158/§14-5-3) skal verpehøner og kyllinger som skal settes inn i eggproduksjon verdsettes til slakteverdi. Slakteverdien settes til:
+
+|  | *Verdi per stk., kroner* |
+| --- | --- |
+| Verpehøner | 4 |
+| Kyllinger | 4 |
 
 Innkjøpte dyr (kyllinger) til oppfôring skal settes til innkjøpsprisen med tillegg av medgåtte fôrkostnader mv. fram til årsskiftet.
 
+*Pelsdyr*
+
 Satsene nedenfor skal nyttes ved fastsetting av formuesverdier på usolgte skinn.
 
-Aksjeselskaper skal ved fastsettingen bruke satsene på skinn som ikke er solgt. Enkeltpersonforetak og ansvarlige selskaper skal ved fastsettingen bare bruke satsene på markedsførte skinn som ikke er solgt.*Verdi per stk., kroner*Sølvrev340Blårev og annen rev315Mink140
+Aksjeselskaper skal ved fastsettingen bruke satsene på skinn som ikke er solgt. Enkeltpersonforetak og ansvarlige selskaper skal ved fastsettingen bare bruke satsene på markedsførte skinn som ikke er solgt.
+
+|  | *Verdi per stk., kroner* |
+| --- | --- |
+| Sølvrev | 340 |
+| Blårev og annen rev | 315 |
+| Mink | 140 |
+
+*Hester*
 
 1. Hester som nyttes eller skal nyttes i trav- og galoppsportTrav- og galopphester føres opp med antatt salgsverdi. Hester av eget oppal under 1 år bør normalt settes til minst kr 27 100. Denne verdi økes for hvert år inntil 3 år. Hester som har nådd denne alder i 2024, skal verdsettes til minst kr 63 700. Er hesten forsikret og 15 prosent av forsikringssummen overstiger satsene foran, legges 15 prosent av forsikringssummen til grunn. Verdien for slike hester eid utenfor næringsvirksomhet, kan ikke settes ned før det er sannsynlig at vedkommende hest har en lavere salgsverdi.
 2. Andre innkjøpte hester verdsettes til salgsverdi.
@@ -434,15 +512,57 @@ Verdi, kroner*Hester inntil 1 år21002800Hester inntil 2 år50007000Hester innti
 
 Verdien av voksne hester under romertall III blir stående uendret inntil realisasjon.
 
-Formuessatsene for rein er fastsatt etter bestemmelsene i [skatteloven § 4-11, tredje ledd](lov/1999-03-26-14/§4-11/ledd/3). Satsene har ingen betydning for fastsettingen av inntekt, jf. [skatteloven § 8-1, første ledd, bokstav a](lov/1999-03-26-14/§8-1/ledd/1/bokstav/a).*Verdi per dyr, kroner*Rein over 1 år1000Rein under 1 år (fjorårskalver)500Bifolk (uten kube)460
+*Andre dyr*
+
+Formuessatsene for rein er fastsatt etter bestemmelsene i [skatteloven § 4-11, tredje ledd](lov/1999-03-26-14/§4-11/ledd/3). Satsene har ingen betydning for fastsettingen av inntekt, jf. [skatteloven § 8-1, første ledd, bokstav a](lov/1999-03-26-14/§8-1/ledd/1/bokstav/a).
+
+|  | *Verdi per dyr, kroner* |
+| --- | --- |
+| Rein over 1 år | 1000 |
+| Rein under 1 år (fjorårskalver) | 500 |
+| Bifolk (uten kube) | 460 |
+
+b. *Korn*
+
+|  | *Tilvirkningsverdi per kg, kroner* |
+| --- | --- |
+| Mathvete | 1,70 |
+| Fôrhvete | 1,70 |
+| Matrug | 1,70 |
+| Fôrrug | 1,70 |
+| Rughvete | 1,70 |
+| Bygg | 1,70 |
+| Havre | 1,70 |
+| Oljefrø | 3,80 |
+
+c. *Poteter*
+
+|  | *Tilvirkningsverdi per kg, kroner* |
+| --- | --- |
+| Matpoteter | 2,00 |
+| Fabrikkpoteter | 1,30 |
+
+d. *Avlingslager til oppfôring på egen buskap*
+
+|  | *Tilvirkningsverdi per kg, kroner* |
+| --- | --- |
+| Høy | 1,50 |
+| Halm, ammoniakkbehandlet | 1,30 |
+| Grassurfôr | 0,45 |
 
 Tilvirkningsverdien på andre fôrmidler settes til kr 1,60 per fôrenhet. (FEm)
 
+e. *Lager av skogsvirke (som ikke er levert)*
+
 Tilvirkningsverdien settes til kostnadene ved hogst, kjøring mv. Verdien av eget arbeid skal ikke tas med.
+
+f. *Annet varelager for salg*
 
 Salgsprodukter verdsettes til ca. 40 prosent av netto salgsverdi.
 
 Planter på friland i planteskoler verdsettes til 20 prosent av netto salgsverdi ved engrossalg.
+
+g. *Oppdrettsfisk, skjell mv.*
 
 På grunn av risikoen for sykdom, skade, svinn etc. settes verdien på oppdrettsfisk og skjell til 65 prosent av tilvirkningsverdien. I tilvirkningsverdien inngår kostnader til innkjøp av yngel/smolt/settefisk, til fôr og til leid arbeidskraft.
 
@@ -481,7 +601,13 @@ Produkter/varer som tas ut fra næringen til husholdning og føderåd verdsettes
 
 ### § 3-2-4. Brutto leieverdi av kårbolig på gårdsbruk
 
-Leieverdiene beregnes etter følgende sjablongverdier:*Bruksareal**Leieverdi, kroner*Over 100 m244 20060–100 m233 100Under 60 m222 100
+Leieverdiene beregnes etter følgende sjablongverdier:
+
+| *Bruksareal* | *Leieverdi, kroner* |
+| --- | --- |
+| Over 100 m2 | 44 200 |
+| 60–100 m2 | 33 100 |
+| Under 60 m2 | 22 100 |
 
 Bruksareal er det arealet i boligen som er innredet til boformål. Det inkluderer kott, ganger, vindfang mv., og innredede rom i kjeller og loft (for eksempel vaskerom, stue, soverom mv.). Det er bare areal innenfor en takhøyde på min. 1,90 m som teller med. Det er uten betydning om bare deler av boligen faktisk benyttes.
 
@@ -489,7 +615,15 @@ Er det ikke bade-/dusjrom eller wc i boligen, reduseres verdien med 25 prosent. 
 
 ### § 3-2-5. Netto fordel av egen utnyttet jaktrett
 
-Når den som disponerer en jaktrett selv har utnyttet denne, skal nettofordelen per felte dyr settes lik satsene som er gjengitt nedenfor:*Verdi per dyr, kroner*Elg; eldre okse11 400Elg, ungdyr (1 ½ år) + eldre hunndyr8900Elg, kalv3700Reinsdyr (voksen)2200Hjort (voksen3800
+Når den som disponerer en jaktrett selv har utnyttet denne, skal nettofordelen per felte dyr settes lik satsene som er gjengitt nedenfor:
+
+|  | *Verdi per dyr, kroner* |
+| --- | --- |
+| Elg; eldre okse | 11 400 |
+| Elg, ungdyr (1 ½ år) + eldre hunndyr | 8900 |
+| Elg, kalv | 3700 |
+| Reinsdyr (voksen) | 2200 |
+| Hjort (voksen | 3800 |
 
 ### § 3-2-6. Verdi av uttatt brensel fra egen skog
 
@@ -642,3 +776,380 @@ Den årlige sluttbalansen (utgående balanse) blir uten endringer å regne som �
 ## Vedlegg
 
 Pris- og kostnadssoner til bruk ved fastsetting av formuesverdier for skog per 1. januar 2025
+
+*Pris- og kostnadssoner*
+
+|  | *Pris* | *Kostnad* | *Avkastningsverdi* |
+| --- | --- | --- | --- |
+| *Sone* | *Kr/m3* | *Kr/m3* | *(Priskostnad), kr/m3* |
+| A1 | 315 | 185 | 130 |
+| A2 | 315 | 210 | 105 |
+| A3 | 315 | 235 | 80 |
+| B1 | 300 | 185 | 115 |
+| B2 | 300 | 210 | 90 |
+| B3 | 300 | 235 | 65 |
+| C1 | 260 | 185 | 75 |
+| C2 | 260 | 210 | 50 |
+| C3 | 260 | 235 | 25 |
+
+*Pris- og kostnadssone for den enkelte kommune*
+
+| *Fylke* | *Kommunenr.* | *Kommune* | *Sone* |
+| --- | --- | --- | --- |
+| Agder | 4201 | Risør | B2 |
+| Agder | 4202 | Grimstad | B2 |
+| Agder | 4203 | Arendal | B2 |
+| Agder | 4204 | Kristiansand | C2 |
+| Agder | 4205 | Lindesnes | B2 |
+| Agder | 4206 | Farsund | C2 |
+| Agder | 4207 | Flekkefjord | C2 |
+| Agder | 4211 | Gjerstad | B2 |
+| Agder | 4212 | Vegårshei | B2 |
+| Agder | 4213 | Tvedestrand | B2 |
+| Agder | 4214 | Froland | B2 |
+| Agder | 4215 | Lillesand | B2 |
+| Agder | 4216 | Birkenes | B2 |
+| Agder | 4217 | Åmli | B2 |
+| Agder | 4218 | Iveland | B2 |
+| Agder | 4219 | Evje og Hornnes | B2 |
+| Agder | 4220 | Bygland | B2 |
+| Agder | 4221 | Valle | B2 |
+| Agder | 4222 | Bykle | C2 |
+| Agder | 4223 | Vennesla | B2 |
+| Agder | 4224 | Åseral | B2 |
+| Agder | 4225 | Lyngdal | B2 |
+| Agder | 4226 | Hægebostad | B2 |
+| Agder | 4227 | Kvinesdal | C2 |
+| Agder | 4228 | Sirdal | C2 |
+| Akershus | 3201 | Bærum | A1 |
+| Akershus | 3203 | Asker | B1 |
+| Akershus | 3205 | Lillestrøm | A1 |
+| Akershus | 3207 | Nordre Follo | A1 |
+| Akershus | 3209 | Ullensaker | A1 |
+| Akershus | 3212 | Nesodden | A1 |
+| Akershus | 3214 | Frogn | A1 |
+| Akershus | 3216 | Vestby | A1 |
+| Akershus | 3218 | Ås | A1 |
+| Akershus | 3220 | Enebakk | A1 |
+| Akershus | 3222 | Lørenskog | A1 |
+| Akershus | 3224 | Rælingen | A1 |
+| Akershus | 3226 | Aurskog-Høland | B1 |
+| Akershus | 3228 | Nes | A1 |
+| Akershus | 3230 | Gjerdrum | A1 |
+| Akershus | 3232 | Nittedal | A1 |
+| Akershus | 3234 | Lunner | B2 |
+| Akershus | 3236 | Jevnaker | B2 |
+| Akershus | 3238 | Nannestad | A1 |
+| Akershus | 3240 | Eidsvoll | A1 |
+| Akershus | 3242 | Hurdal | A1 |
+| Buskerud | 3051 | Rollag | B2 |
+| Buskerud | 3301 | Drammen | B2 |
+| Buskerud | 3303 | Kongsberg | B1 |
+| Buskerud | 3305 | Ringerike | B1 |
+| Buskerud | 3310 | Hole | B1 |
+| Buskerud | 3312 | Lier | B1 |
+| Buskerud | 3314 | Øvre Eiker | B1 |
+| Buskerud | 3316 | Modum | B1 |
+| Buskerud | 3318 | Krødsherad | B1 |
+| Buskerud | 3320 | Flå | C2 |
+| Buskerud | 3322 | Nesbyen | B2 |
+| Buskerud | 3324 | Gol | B2 |
+| Buskerud | 3326 | Hemsedal | C2 |
+| Buskerud | 3328 | Ål | B2 |
+| Buskerud | 3330 | Hol | B3 |
+| Buskerud | 3332 | Sigdal | B1 |
+| Buskerud | 3334 | Flesberg | A2 |
+| Buskerud | 3338 | Nore og Uvdal | B2 |
+| Finnmark | 5601 | Alta |  |
+| Finnmark | 5603 | Hammerfest |  |
+| Finnmark | 5605 | Sør-Varanger |  |
+| Finnmark | 5607 | Vadsø |  |
+| Finnmark | 5610 | Karasjok |  |
+| Finnmark | 5612 | Kautokeino |  |
+| Finnmark | 5614 | Loppa |  |
+| Finnmark | 5616 | Hasvik |  |
+| Finnmark | 5618 | Måsøy |  |
+| Finnmark | 5620 | Nordkapp |  |
+| Finnmark | 5622 | Porsanger |  |
+| Finnmark | 5624 | Lebesby |  |
+| Finnmark | 5626 | Gamvik |  |
+| Finnmark | 5628 | Tana |  |
+| Finnmark | 5630 | Berlevåg |  |
+| Finnmark | 5632 | Båtsfjord |  |
+| Finnmark | 5634 | Vardø |  |
+| Finnmark | 5636 | Nesseby |  |
+| Innlandet | 3401 | Kongsvinger | A1 |
+| Innlandet | 3403 | Hamar | A1 |
+| Innlandet | 3405 | Lillehammer | B1 |
+| Innlandet | 3407 | Gjøvik | A1 |
+| Innlandet | 3411 | Ringsaker | A1 |
+| Innlandet | 3412 | Løten | A1 |
+| Innlandet | 3413 | Stange | A1 |
+| Innlandet | 3414 | Nord-Odal | A1 |
+| Innlandet | 3415 | Sør-Odal | A1 |
+| Innlandet | 3416 | Eidskog | A1 |
+| Innlandet | 3417 | Grue | A1 |
+| Innlandet | 3418 | Åsnes | A1 |
+| Innlandet | 3419 | Våler | A1 |
+| Innlandet | 3420 | Elverum | B1 |
+| Innlandet | 3421 | Trysil | B1 |
+| Innlandet | 3422 | Åmot | A1 |
+| Innlandet | 3423 | Stor-Elvdal | B1 |
+| Innlandet | 3424 | Rendalen | B2 |
+| Innlandet | 3425 | Engerdal | B2 |
+| Innlandet | 3426 | Tolga | C2 |
+| Innlandet | 3427 | Tynset | C2 |
+| Innlandet | 3428 | Alvdal | C2 |
+| Innlandet | 3429 | Folldal | C2 |
+| Innlandet | 3430 | Os | C2 |
+| Innlandet | 3431 | Dovre | B2 |
+| Innlandet | 3432 | Lesja | C2 |
+| Innlandet | 3433 | Skjåk | B2 |
+| Innlandet | 3434 | Lom | C2 |
+| Innlandet | 3435 | Vågå | C2 |
+| Innlandet | 3436 | Nord-Fron | B2 |
+| Innlandet | 3437 | Sel | C2 |
+| Innlandet | 3438 | Sør-Fron | B2 |
+| Innlandet | 3439 | Ringebu | B2 |
+| Innlandet | 3440 | Øyer | A1 |
+| Innlandet | 3441 | Gausdal | B2 |
+| Innlandet | 3442 | Østre Toten | A1 |
+| Innlandet | 3443 | Vestre Toten | A1 |
+| Innlandet | 3446 | Gran | A2 |
+| Innlandet | 3447 | Søndre Land | A1 |
+| Innlandet | 3448 | Nordre Land | A2 |
+| Innlandet | 3449 | Sør-Aurdal | A2 |
+| Innlandet | 3450 | Etnedal | B2 |
+| Innlandet | 3451 | Nord-Aurdal | B2 |
+| Innlandet | 3452 | Vestre Slidre | C2 |
+| Innlandet | 3453 | Øystre Slidre | C2 |
+| Innlandet | 3454 | Vang | C2 |
+| Møre og Romsdal | 1505 | Kristiansund | C3 |
+| Møre og Romsdal | 1506 | Molde | C3 |
+| Møre og Romsdal | 1508 | Ålesund | C3 |
+| Møre og Romsdal | 1511 | Vanylven | C3 |
+| Møre og Romsdal | 1514 | Sande | C3 |
+| Møre og Romsdal | 1515 | Herøy | C3 |
+| Møre og Romsdal | 1516 | Ulstein | C3 |
+| Møre og Romsdal | 1517 | Hareid | C3 |
+| Møre og Romsdal | 1520 | Ørsta | C3 |
+| Møre og Romsdal | 1525 | Stranda | C3 |
+| Møre og Romsdal | 1528 | Sykkylven | C3 |
+| Møre og Romsdal | 1531 | Sula | C3 |
+| Møre og Romsdal | 1532 | Giske | C3 |
+| Møre og Romsdal | 1535 | Vestnes | B3 |
+| Møre og Romsdal | 1539 | Rauma | A3 |
+| Møre og Romsdal | 1547 | Aukra | C3 |
+| Møre og Romsdal | 1554 | Averøy | C3 |
+| Møre og Romsdal | 1557 | Gjemnes | B3 |
+| Møre og Romsdal | 1560 | Tingvoll | C2 |
+| Møre og Romsdal | 1563 | Sunndal | A3 |
+| Møre og Romsdal | 1566 | Surnadal | A3 |
+| Møre og Romsdal | 1573 | Smøla |  |
+| Møre og Romsdal | 1576 | Aure | C3 |
+| Møre og Romsdal | 1577 | Volda | C3 |
+| Møre og Romsdal | 1578 | Fjord | C3 |
+| Møre og Romsdal | 1579 | Hustadvika | C3 |
+| Møre og Romsdal | 1580 | Haram | C3 |
+| Nordland | 1804 | Bodø | B3 |
+| Nordland | 1806 | Narvik | C3 |
+| Nordland | 1811 | Bindal | B3 |
+| Nordland | 1812 | Sømna | C3 |
+| Nordland | 1813 | Brønnøy | C2 |
+| Nordland | 1815 | Vega | C3 |
+| Nordland | 1816 | Vevelstad | B3 |
+| Nordland | 1818 | Herøy |  |
+| Nordland | 1820 | Alstahaug | B2 |
+| Nordland | 1822 | Leirfjord | C2 |
+| Nordland | 1824 | Vefsn | B2 |
+| Nordland | 1825 | Grane | B2 |
+| Nordland | 1826 | Hattfjelldal | C2 |
+| Nordland | 1827 | Dønna | C3 |
+| Nordland | 1828 | Nesna | C2 |
+| Nordland | 1832 | Hemnes | B2 |
+| Nordland | 1833 | Rana | B2 |
+| Nordland | 1834 | Lurøy | B2 |
+| Nordland | 1835 | Træna |  |
+| Nordland | 1836 | Rødøy | B3 |
+| Nordland | 1837 | Meløy | B3 |
+| Nordland | 1838 | Gildeskål | B3 |
+| Nordland | 1839 | Beiarn | B3 |
+| Nordland | 1840 | Saltdal | B3 |
+| Nordland | 1841 | Fauske | B3 |
+| Nordland | 1845 | Sørfold | B3 |
+| Nordland | 1848 | Steigen | C3 |
+| Nordland | 1851 | Lødingen | B3 |
+| Nordland | 1853 | Evenes | C3 |
+| Nordland | 1856 | Røst |  |
+| Nordland | 1857 | Værøy |  |
+| Nordland | 1859 | Flakstad |  |
+| Nordland | 1860 | Vestvågøy | B3 |
+| Nordland | 1865 | Vågan | B3 |
+| Nordland | 1866 | Hadsel | B3 |
+| Nordland | 1867 | Bø | B3 |
+| Nordland | 1868 | Øksnes | B3 |
+| Nordland | 1870 | Sortland | B3 |
+| Nordland | 1871 | Andøy | B3 |
+| Nordland | 1874 | Moskenes |  |
+| Nordland | 1875 | Hamarøy | C3 |
+| Oslo | 301 | Oslo kommune | A1 |
+| Rogaland | 1101 | Eigersund | B3 |
+| Rogaland | 1103 | Stavanger | C3 |
+| Rogaland | 1106 | Haugesund | C3 |
+| Rogaland | 1108 | Sandnes | C3 |
+| Rogaland | 1111 | Sokndal | C3 |
+| Rogaland | 1112 | Lund | B3 |
+| Rogaland | 1114 | Bjerkreim | B3 |
+| Rogaland | 1119 | Hå | C3 |
+| Rogaland | 1120 | Klepp | C3 |
+| Rogaland | 1121 | Time | C3 |
+| Rogaland | 1122 | Gjesdal | B3 |
+| Rogaland | 1124 | Sola | B3 |
+| Rogaland | 1127 | Randaberg | B3 |
+| Rogaland | 1130 | Strand | C3 |
+| Rogaland | 1133 | Hjelmeland | B3 |
+| Rogaland | 1134 | Suldal | B3 |
+| Rogaland | 1135 | Sauda | B3 |
+| Rogaland | 1144 | Kvitsøy |  |
+| Rogaland | 1145 | Bokn | C3 |
+| Rogaland | 1146 | Tysvær | C3 |
+| Rogaland | 1149 | Karmøy | C3 |
+| Rogaland | 1151 | Utsira |  |
+| Rogaland | 1160 | Vindafjord | B3 |
+| Telemark | 4001 | Porsgrunn | B2 |
+| Telemark | 4003 | Skien | B2 |
+| Telemark | 4005 | Notodden | B2 |
+| Telemark | 4010 | Siljan | B2 |
+| Telemark | 4012 | Bamble | B2 |
+| Telemark | 4014 | Kragerø | B2 |
+| Telemark | 4016 | Drangedal | B2 |
+| Telemark | 4018 | Nome | B2 |
+| Telemark | 4020 | Midt-Telemark | B2 |
+| Telemark | 4022 | Seljord | B3 |
+| Telemark | 4024 | Hjartdal | B2 |
+| Telemark | 4026 | Tinn | B2 |
+| Telemark | 4028 | Kviteseid | B3 |
+| Telemark | 4030 | Nissedal | B2 |
+| Telemark | 4032 | Fyresdal | B2 |
+| Telemark | 4034 | Tokke | B3 |
+| Telemark | 4036 | Vinje | B3 |
+| Troms | 5501 | Tromsø | C3 |
+| Troms | 5503 | Harstad | C3 |
+| Troms | 5510 | Kvæfjord | C3 |
+| Troms | 5512 | Tjeldsund | C3 |
+| Troms | 5512 | Bardu | C3 |
+| Troms | 5514 | Ibestad | C3 |
+| Troms | 5516 | Gratangen | C3 |
+| Troms | 5518 | Lavangen | C3 |
+| Troms | 5522 | Salangen | C3 |
+| Troms | 5524 | Målselv | C3 |
+| Troms | 5526 | Sørreisa | C3 |
+| Troms | 5528 | Dyrøy | C3 |
+| Troms | 5530 | Senja | C3 |
+| Troms | 5532 | Balsfjord | C3 |
+| Troms | 5534 | Karlsøy | C3 |
+| Troms | 5536 | Lyngen | C3 |
+| Troms | 5538 | Storfjord | C3 |
+| Troms | 5540 | Gáivuotna/Kåfjord | C3 |
+| Troms | 5542 | Skjervøy | C3 |
+| Troms | 5544 | Nordreisa | C3 |
+| Troms | 5546 | Kvænangen | C3 |
+| Trøndelag | 5001 | Trondheim | B2 |
+| Trøndelag | 5006 | Steinkjer | B2 |
+| Trøndelag | 5007 | Namsos | C2 |
+| Trøndelag | 5014 | Frøya | C3 |
+| Trøndelag | 5020 | Osen | C3 |
+| Trøndelag | 5021 | Oppdal | A2 |
+| Trøndelag | 5022 | Rennebu | A2 |
+| Trøndelag | 5025 | Røros | C3 |
+| Trøndelag | 5026 | Holtålen | B3 |
+| Trøndelag | 5027 | Midtre Gauldal | A2 |
+| Trøndelag | 5028 | Melhus | B2 |
+| Trøndelag | 5029 | Skaun | B2 |
+| Trøndelag | 5031 | Malvik | B2 |
+| Trøndelag | 5032 | Selbu | B2 |
+| Trøndelag | 5033 | Tydal | B2 |
+| Trøndelag | 5034 | Meråker | B2 |
+| Trøndelag | 5035 | Stjørdal | A2 |
+| Trøndelag | 5036 | Frosta | C2 |
+| Trøndelag | 5037 | Levanger | B1 |
+| Trøndelag | 5038 | Verdal | B1 |
+| Trøndelag | 5041 | Snåsa | B2 |
+| Trøndelag | 5042 | Lierne | B1 |
+| Trøndelag | 5043 | Røyrvik | B2 |
+| Trøndelag | 5044 | Namsskogan | B2 |
+| Trøndelag | 5045 | Grong | A2 |
+| Trøndelag | 5046 | Høylandet | A2 |
+| Trøndelag | 5047 | Overhalla | A1 |
+| Trøndelag | 5049 | Flatanger | C2 |
+| Trøndelag | 5052 | Leka | C2 |
+| Trøndelag | 5053 | Inderøy | B1 |
+| Trøndelag | 5054 | Indre Fosen | C3 |
+| Trøndelag | 5055 | Heim | C3 |
+| Trøndelag | 5056 | Hitra | C3 |
+| Trøndelag | 5057 | Ørland | C3 |
+| Trøndelag | 5058 | Åfjord | C3 |
+| Trøndelag | 5059 | Orkland | C3 |
+| Trøndelag | 5060 | Nærøysund | C2 |
+| Trøndelag | 5061 | Rindal | A3 |
+| Vestfold | 3901 | Horten | B2 |
+| Vestfold | 3903 | Holmestrand | B2 |
+| Vestfold | 3905 | Tønsberg | B2 |
+| Vestfold | 3907 | Sandefjord | B2 |
+| Vestfold | 3909 | Larvik | B2 |
+| Vestfold | 3911 | Færder | C2 |
+| Vestland | 4601 | Bergen | C3 |
+| Vestland | 4602 | Kinn | C3 |
+| Vestland | 4611 | Etne | B3 |
+| Vestland | 4612 | Sveio | C3 |
+| Vestland | 4613 | Bømlo | C3 |
+| Vestland | 4614 | Stord | C3 |
+| Vestland | 4615 | Fitjar | C3 |
+| Vestland | 4616 | Tysnes | C3 |
+| Vestland | 4617 | Kvinnherad | C3 |
+| Vestland | 4618 | Ullensvang | C3 |
+| Vestland | 4619 | Eidfjord | C3 |
+| Vestland | 4620 | Ulvik | B3 |
+| Vestland | 4621 | Voss | B3 |
+| Vestland | 4622 | Kvam | C3 |
+| Vestland | 4623 | Samnanger | C3 |
+| Vestland | 4624 | Bjørnafjorden | C3 |
+| Vestland | 4625 | Austevoll | C3 |
+| Vestland | 4626 | Øygarden | C3 |
+| Vestland | 4627 | Askøy | C3 |
+| Vestland | 4628 | Vaksdal | B3 |
+| Vestland | 4629 | Modalen | C3 |
+| Vestland | 4630 | Osterøy | C3 |
+| Vestland | 4631 | Alver | C3 |
+| Vestland | 4632 | Austrheim | C3 |
+| Vestland | 4633 | Fedje |  |
+| Vestland | 4634 | Masfjorden | C3 |
+| Vestland | 4635 | Gulen | C3 |
+| Vestland | 4636 | Solund | C3 |
+| Vestland | 4637 | Hyllestad | C3 |
+| Vestland | 4638 | Høyanger | C3 |
+| Vestland | 4639 | Vik | B3 |
+| Vestland | 4640 | Sogndal | C3 |
+| Vestland | 4641 | Aurland | B3 |
+| Vestland | 4642 | Lærdal | B3 |
+| Vestland | 4643 | Årdal | B3 |
+| Vestland | 4644 | Luster | C3 |
+| Vestland | 4645 | Askvoll | C3 |
+| Vestland | 4646 | Fjaler | C3 |
+| Vestland | 4647 | Sunnfjord | C3 |
+| Vestland | 4648 | Bremanger | C3 |
+| Vestland | 4649 | Stad | C3 |
+| Vestland | 4650 | Gloppen | C3 |
+| Vestland | 4651 | Stryn | B3 |
+| Østfold | 3101 | Halden | B1 |
+| Østfold | 3103 | Moss | B1 |
+| Østfold | 3105 | Sarpsborg | B1 |
+| Østfold | 3107 | Fredrikstad | B1 |
+| Østfold | 3110 | Hvaler | C1 |
+| Østfold | 3112 | Råde | B1 |
+| Østfold | 3114 | Våler | A1 |
+| Østfold | 3116 | Skiptvet | B1 |
+| Østfold | 3118 | Indre Østfold | B1 |
+| Østfold | 3120 | Rakkestad | B1 |
+| Østfold | 3122 | Marker | B1 |
+| Østfold | 3124 | Aremark | B1 |

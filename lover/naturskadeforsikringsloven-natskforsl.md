@@ -97,3 +97,5 @@ Bestemmelsen i [§ 1](lov/1989-06-16-70/§1) er ufravikelig, selv om det avtales
 ## § 6.
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 juli 1990 iflg. [res. 15 des 1989 nr. 1241](forskrift/1989-12-15-1241).

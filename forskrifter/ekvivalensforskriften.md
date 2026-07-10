@@ -65,6 +65,14 @@ of 5 November 2020
 regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America
 (Text with EEA relevance)
 
+THE EUROPEAN COMMISSION,
+
+Having regard to the [Treaty on the Functioning of the European Union](eu/12016e),
+
+Having regard to [Regulation (EU) 2017/625](eu/32017r0625) of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No 999/2001](eu/32001r0999), [(EC) No 396/2005](eu/32005r0396), [(EC) No 1069/2009](eu/32009r1069), [(EU) No 1107/2009](eu/32009r1107), (EU) No 1151/2012, (EU) No 652/2014, [(EU) 2016/429](eu/32016r0429) and [(EU) 2016/2031](eu/32016r2031) of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](eu/32005r0001) and [(EC) No 1099/2009](eu/32009r1099) and Council Directives [98/58/EC](eu/31998l0058), [1999/74/EC](eu/31999l0074), [2007/43/EC](eu/32007l0043), [2008/119/EC](eu/32008l0119) and [2008/120/EC](eu/32008l0120), and repealing Regulations [(EC) No 854/2004](eu/32004r0854) and [(EC) No 882/2004](eu/32004r0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](eu/31989l0608), [89/662/EEC](eu/31989l0662), [90/425/EEC](eu/31990l0425), [91/496/EEC](eu/31991l0496), [96/23/EC](eu/31996l0023), [96/93/EC](eu/31996l0093) and [97/78/EC](eu/31997l0078) and Council Decision [92/438/EEC](eu/31992d0438) (Official Controls Regulation)1, and in particular Article 129(1) thereof,
+
+Whereas:
+
 (1) [Regulation (EU) 2017/625](eu/32017r0625) lays down general rules for the performance of official controls to verify compliance with rules aimed at preventing, eliminating or reducing to acceptable levels risks to humans and animals, either directly or through the environment.
 
 (2) In particular, [Regulation (EU) 2017/625](eu/32017r0625) lays down general conditions for the entry into the Union of animals and goods from third countries or regions thereof, including food intended for human consumption. [Article 129 of Regulation (EU) 2017/625](eu/32017r0625/a129) empowers the Commission to recognise that measures applied by third countries, or regions thereof, are equivalent to the requirements laid down in certain rules referred to in [Article 1](eu/32017r0625/a1)(2) of that Regulation, if the third countries offer objective proof in this respect. It also empowers the Commission to set out the conditions governing the entry into the Union of such animals and goods from such third countries or regions thereof, in particular with regard to the nature and content of the official certificates or attestations that are to accompany those commodities.
@@ -84,6 +92,18 @@ regarding imports of live, chilled, frozen or processed bivalve molluscs, echino
 (9) When laying down requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption, reference should be made to the Combined Nomenclature codes in accordance with [Council Regulation (EEC) No 2658/87](eu/31987r2658)5, which lays down codes for live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption.
 
 (10) The measures provided for in this Implementing Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+1 OJ L 95, 7.4.2017, p. 1.
+
+2 Council Decision [98/258/EC](eu/31998d0258) of 16 March 1998 on the conclusion of the Agreement between the European Community and the United States of America on sanitary measures to protect public and animal health in trade in live animals and animal products (OJ L 118, 21.4.1998, p. 1).
+
+3 [Regulation (EC) No 853/2004](eu/32004r0853) of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (OJ L 139, 30.4.2004, p. 55).
+
+4 Commission [Implementing Regulation (EU) 2019/626](eu/32019r0626) of 5 March 2019 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending [Implementing Regulation (EU) 2016/759](eu/32016r0759) as regards these lists (OJ L 131, 17.5.2019, p. 31).
+
+5 [Council Regulation (EEC) No 2658/87](eu/31987r2658) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+HAS ADOPTED THIS REGULATION:
 
 ### Article 1. Subject matter and scope
 
@@ -108,6 +128,14 @@ This Regulation shall enter into force on the twentieth day following that of it
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 5 November 2020.
+
+|  |  |
+| --- | --- |
+| *For the Commission* |  |
+|  |  |
+| *The President* |  |
+|  |  |
+| Ursula VON DER LEYEN |  |
 
 ### VEDLEGG
 OFFICIAL MODEL CERTIFICATE FOR IMPORTS OF LIVE, FROZEN, CHILLED OR PROCESSED BIVALVE MOLLUSCS, ECHINODERMS, TUNICATES AND MARINE GASTROPODS INTENDED FOR HUMAN CONSUMPTION FROM THE UNITED STATES OF AMERICA

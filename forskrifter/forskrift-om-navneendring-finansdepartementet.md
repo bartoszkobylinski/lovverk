@@ -22,6 +22,6 @@ eu_basis: []
 
 # Vedtak om endring av Finans- og tolldepartementets navn – delegering av myndighet.
 
-1. Finans- og tolldepartementets navn endres til Finansdepartementet, forkortet som før til FIN. Endringen gjennomføres med virkning fra 1. januar 2000.
+1\. Finans- og tolldepartementets navn endres til Finansdepartementet, forkortet som før til FIN. Endringen gjennomføres med virkning fra 1. januar 2000.
 
-2. Delegering til Finansdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.
+2\. Delegering til Finansdepartementet til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som nødvendig følger av navneendringen.

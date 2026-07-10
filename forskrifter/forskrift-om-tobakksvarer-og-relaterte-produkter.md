@@ -422,8 +422,26 @@ Fra samme tidspunkt oppheves [forskrift 6. februar 2003 nr. 141 om innhold i og 
 
 ## Vedlegg 1 til forskrift om tobakksvarer og relaterte produkter
 
-Prioritetsliste over tilsetningsstoffer i sigaretter og rulletobakk som omfattes av utvidede rapporteringsforpliktelserTilsetningsstoffKjemisk formel
-(dersom relevant)Stoffets CAS-nummer/-numre (ikke uttømmende)Johannesbrød9000-40-2, 84961-45-5Kakao84649-99-0, 84649-99-3, 95009-22-6, 8002-31-1DiacetylC4H6O2431-03-8Bukkehornkløver68990-15-8, 977018-53-3, 84625-40-1Fiken90028-74-3GeraniolC10H18O106-24-1, 8000-46-2GlyserolC3H8O356-81-5GuajakolC6H4(OH)(OCH3)90-05-1Guarkjernemel9000-30-0Lakris68916-91-6MaltolC6H6O3118-71-8MentolC10H20O2216-51-5, 15356-60-2, 89-78-1, 1490-04-6, 8006-90-4, 68606-97-3, 84696-51-5, 8008-79-5PropylenglykolC3H8O257-55-6SorbitolC6H14O650-70-4TitandioksidTiO213463-67-7, 1317-70-0
+Prioritetsliste over tilsetningsstoffer i sigaretter og rulletobakk som omfattes av utvidede rapporteringsforpliktelser
+
+|  |  |  |
+| --- | --- | --- |
+| Tilsetningsstoff | Kjemisk formel<br>(dersom relevant) | Stoffets CAS-nummer/-numre (ikke uttømmende) |
+| Johannesbrød |  | 9000-40-2, 84961-45-5 |
+| Kakao |  | 84649-99-0, 84649-99-3, 95009-22-6, 8002-31-1 |
+| Diacetyl | C4H6O2 | 431-03-8 |
+| Bukkehornkløver |  | 68990-15-8, 977018-53-3, 84625-40-1 |
+| Fiken |  | 90028-74-3 |
+| Geraniol | C10H18O | 106-24-1, 8000-46-2 |
+| Glyserol | C3H8O3 | 56-81-5 |
+| Guajakol | C6H4(OH)(OCH3) | 90-05-1 |
+| Guarkjernemel |  | 9000-30-0 |
+| Lakris |  | 68916-91-6 |
+| Maltol | C6H6O3 | 118-71-8 |
+| Mentol | C10H20O | 2216-51-5, 15356-60-2, 89-78-1, 1490-04-6, 8006-90-4, 68606-97-3, 84696-51-5, 8008-79-5 |
+| Propylenglykol | C3H8O2 | 57-55-6 |
+| Sorbitol | C6H14O6 | 50-70-4 |
+| Titandioksid | TiO2 | 13463-67-7, 1317-70-0 |
 
 ## Vedlegg 2 til forskrift om tobakksvarer og relaterte produkter
 

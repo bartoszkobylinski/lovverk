@@ -25,3 +25,5 @@ eu_basis: []
 1. Deler av virksomheten i dagens Jernbaneverk videreføres i et nytt forvaltningsorgan; Jernbanedirektoratet.
 2. Forvaltningsorganet gis instruks i samsvar med vedlagte forslag.1
 3. Samferdselsdepartementet gis fullmakt til å gi nødvendige overgangsregler.
+
+1 Se instruks 5. februar 2016 nr. 127, Lovdatas anm.

@@ -350,8 +350,12 @@ Kongen kan fastsette de forskrifter som er nødvendige for å oppfylle Norges fo
 
 ### § 39. Endringer i andre lover
 
+– – –
+
 ### § 40. Ikrafttredelse og overgangsbestemmelser
 
 Denne loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tidspunkt oppheves [lov 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern samt [lov 19. april 2002 nr. 11](lov/2002-04-19-11) om endringer i [lov 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern.
 
 Forskrifter eller enkeltvedtak gitt i eller i medhold av [lov 20. desember 1974 nr. 73](lov/1974-12-20-73) om dyrevern gjelder fortsatt inntil de blir opphevet.
+
+1 Fra 1 jan 2010 iflg. [res. 19 juni 2009 nr. 703](forskrift/2009-06-19-703).

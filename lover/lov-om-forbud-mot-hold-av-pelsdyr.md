@@ -81,3 +81,5 @@ Forsettlig eller grovt uaktsom overtredelse av [§ 1](lov/2019-06-21-63/§1) str
 Loven gjelder fra den tid1 Kongen bestemmer.
 
 > Endret ved lov [18 juni 2021 nr. 135](lov/2021-06-18-135) (i kraft 25 mars 2022 iflg. [res. 25 mars 2022 nr. 466](forskrift/2022-03-25-466), tidligere § 5).
+
+1 Fra 1 juli 2019 iflg. [res. 21 juni 2019 nr. 791](forskrift/2019-06-21-791).

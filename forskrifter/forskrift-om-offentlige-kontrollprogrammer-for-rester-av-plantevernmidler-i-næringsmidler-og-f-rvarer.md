@@ -46,8 +46,14 @@ Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 16. des
 
 > Endret ved forskrifter [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347), [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051).
 
+Se her for å lese forordning [(EU) 2021/1355](eu/32021r1355) (uoffisiell oversettelse):
+
 - [pdf-fil](static/SF/32021r1355u-01.pdf)
 
+Se her for å lese forordning [(EU) 2025/854](eu/32025r0854) (uoffisiell oversettelse). EØS-tilpasningen i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) er innarbeidet.
+
 - [pdf-fil](static/SF/32025r0854u-01.pdf)
+
+Se her for å lese forordning [(EU) 2021/2244](eu/32021r2244) (uoffisiell oversettelse):
 
 - [pdf-fil](static/SF/32021r2244u-01.pdf)

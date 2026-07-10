@@ -63,3 +63,5 @@ Organisasjoner for eldre, organisasjoner for personer med funksjonsnedsettelse o
 ## § 5. Ikrafttredelse
 
 Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1
+
+1 Antas å være 1 november 2019, se [vedtak 3 okt 2019 nr. 1294](forskrift/2019-10-03-1294).

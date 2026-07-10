@@ -229,6 +229,8 @@ Den som uaktsomt eller forsettlig overtrer bestemmelser gitt i eller i medhold a
 
 I [lov 11. juni 1993 nr. 100](lov/1993-06-11-100) om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) gjøres følgende endringer: – – –
 
+[Kapittel V](lov/1993-06-11-100/kapv) oppheves.
+
 ### § 29. Ikrafttredelse
 
 Loven trer i kraft straks.

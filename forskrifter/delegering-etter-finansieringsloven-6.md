@@ -25,3 +25,11 @@ eu_basis: []
 Kongens myndighet etter følgende bestemmelser delegeres til Finans- og tolldepartementet:§ 2a-1 annet ledd§ 2a-3 første ledd§ 2a-3 annet ledd§ 2a-3 tredje1 ledd§ 2a-3 femte2 ledd§ 2a-6 annet ledd§ 2a-7 annet ledd første punktum§ 2a-7 annet ledd annet punktum§ 2a-9 tredje3 ledd tredje punktum§ 2a-8 tredje ledd fjerde punktum§ 2a-8 fjerde ledd§ 2a-8 femte ledd§ 2a-12 første ledd§ 2a-12 annet ledd§ 2a-14§ 2a-15 første ledd første punktum§ 2a-164 annet ledd første punktum
 
 Myndigheten til å sette loven i kraft, til å bestemme at de enkelte bestemmelser skal tre i kraft til ulik tid og til å gi nærmere overgangsregler delegeres Finans- og tolldepartementet.
+
+1 Nå fjerde ledd
+
+2 Nå sjette ledd.
+
+3 Nå femte ledd.
+
+4 Opphevet.

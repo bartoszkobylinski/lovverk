@@ -32,17 +32,17 @@ Trygdepliktig etter denne lov er, med de unntak som følger av bestemmelser i §
 
 ### § 2
 
-1. Unntatt fra trygdeplikt er:den som hever alderspensjon etter denne lov, eller som har fylt 60 år og har krevd premie tilbakebetalt, jfr [§ 21](lov/1957-06-28-12/§21),den som fremsetter krav om det og som i tjeneste på fiske- eller fangstfartøy er omfattet av pensjonstrygden for sjømenn eller annen offentlig pensjonsordning som departementet finner likeverdig med pensjonsordningen etter denne lov,den som fremsetter krav om det og som antas å ville bli hovedbeskjeftiget i annen næring enn fiske eller fangst i storparten av kalenderåret. Hvis det ved utgangen av kalenderåret viser seg at noen som etter [§ 1](lov/1957-06-28-12/§1) er trygdepliktig, ikke har vært sysselsatt med fiske eller fangst på grunn av hovedbeskjeftigelse i annen næring, eller av nevnte grunn bare i ubetydelig utstrekning har vært sysselsatt med fiske eller fangst i kalenderåret, kan det bestemmes at han skal være unntatt fra medlemskap i trygden for vedkommende kalenderår, selv om krav herom ikke er fremsatt.
+1\. Unntatt fra trygdeplikt er:den som hever alderspensjon etter denne lov, eller som har fylt 60 år og har krevd premie tilbakebetalt, jfr [§ 21](lov/1957-06-28-12/§21),den som fremsetter krav om det og som i tjeneste på fiske- eller fangstfartøy er omfattet av pensjonstrygden for sjømenn eller annen offentlig pensjonsordning som departementet finner likeverdig med pensjonsordningen etter denne lov,den som fremsetter krav om det og som antas å ville bli hovedbeskjeftiget i annen næring enn fiske eller fangst i storparten av kalenderåret. Hvis det ved utgangen av kalenderåret viser seg at noen som etter [§ 1](lov/1957-06-28-12/§1) er trygdepliktig, ikke har vært sysselsatt med fiske eller fangst på grunn av hovedbeskjeftigelse i annen næring, eller av nevnte grunn bare i ubetydelig utstrekning har vært sysselsatt med fiske eller fangst i kalenderåret, kan det bestemmes at han skal være unntatt fra medlemskap i trygden for vedkommende kalenderår, selv om krav herom ikke er fremsatt.
 
-2. Den som er over 46 år på det tidspunkt han første gang fyller vilkårene etter [§ 1](lov/1957-06-28-12/§1), kan kreve seg unntatt fra trygden. Krav settes fram overfor trygdens organer straks vilkårene for trygdeplikt foreligger.Det samme gjelder den som er over 46 år pr. 1. januar 1994, og ikke har tidligere opptjeningstid i pensjonstrygden.
+2\. Den som er over 46 år på det tidspunkt han første gang fyller vilkårene etter [§ 1](lov/1957-06-28-12/§1), kan kreve seg unntatt fra trygden. Krav settes fram overfor trygdens organer straks vilkårene for trygdeplikt foreligger.Det samme gjelder den som er over 46 år pr. 1. januar 1994, og ikke har tidligere opptjeningstid i pensjonstrygden.
 
 > Endret ved lover 18 des 1970 nr. 86, 8 juni 1973 nr. 41, [28 mai 1993 nr. 53](lov/1993-05-28-53), [9 des 1994 nr. 65](lov/1994-12-09-65) (ikr. 1 jan 1995), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
 ### § 3
 
-1. Den som omfattes av [§ 1](lov/1957-06-28-12/§1), men er unntatt fra trygdeplikt i henhold til vedtak etter bestemmelsen i [§ 2](lov/1957-06-28-12/§2) nr. 1 litra b, har rett til å stå som frivillig medlem av trygden for del av kalenderåret hvori han ikke omfattes av offentlig pensjonsordning som nevnt. Krav herom og innbetaling av medlemspremie må skje til trygdens organer innen tre måneder etter utløpet av kalenderåret.
+1\. Den som omfattes av [§ 1](lov/1957-06-28-12/§1), men er unntatt fra trygdeplikt i henhold til vedtak etter bestemmelsen i [§ 2](lov/1957-06-28-12/§2) nr. 1 litra b, har rett til å stå som frivillig medlem av trygden for del av kalenderåret hvori han ikke omfattes av offentlig pensjonsordning som nevnt. Krav herom og innbetaling av medlemspremie må skje til trygdens organer innen tre måneder etter utløpet av kalenderåret.
 
-2. Den som ikke er tatt opp på blad B i fiskermanntallet, jfr. [§ 1](lov/1957-06-28-12/§1), fordi han ikke fyller vilkåret for opptak på blad B på grunn av tillitsverv innen næringen, har rett til å stå som frivillig medlem av trygden. Medlemskapet gjelder for hele kalenderåret.
+2\. Den som ikke er tatt opp på blad B i fiskermanntallet, jfr. [§ 1](lov/1957-06-28-12/§1), fordi han ikke fyller vilkåret for opptak på blad B på grunn av tillitsverv innen næringen, har rett til å stå som frivillig medlem av trygden. Medlemskapet gjelder for hele kalenderåret.
 
 > Endret ved lover 18 des 1970 nr. 86, [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
@@ -64,19 +64,19 @@ Kommunal og annen offentlig myndighet er pliktig til, uten særskilt godtgjørin
 
 ### § 6
 
-1. Rett til alderspensjon har den som har minst 750 premieuker.For den som har minst 52 premieuker, kan opptjente pensjonsgivende fartsmåneder etter kapittel II og opptjeningstid etter kapittel X i [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonsordning for arbeidstakere til sjøs medregnes for å nå opp i minstekravet på 750 premieuker.Med de unntak som følger av fjerde til sjette ledd gir fra og med 1971 medlemskapet rett til godskriving av 52 premieuker i kalenderåret uansett om medlemmet i hele året eller bare en del av det har vært sysselsatt i fiske- og fangstnæringen, jf likevel [§ 2](lov/1957-06-28-12/§2).Ved frivillig medlemskap etter [§ 3](lov/1957-06-28-12/§3) nr. 1 godskrives premieuker for det tidsrom medlemskapet består.Premieuker godskrives ikke for tidsrom hvori den trygdede omfattes av pensjonsordning som nevnt i [§ 2](lov/1957-06-28-12/§2) nr. 1 litra b.Premieuker godskrives ikke for tidsrom som det tross varsel ikke er betalt medlemspremie for.
+1\. Rett til alderspensjon har den som har minst 750 premieuker.For den som har minst 52 premieuker, kan opptjente pensjonsgivende fartsmåneder etter kapittel II og opptjeningstid etter kapittel X i [lov 3. desember 1948 nr. 7](lov/1948-12-03-7) om pensjonsordning for arbeidstakere til sjøs medregnes for å nå opp i minstekravet på 750 premieuker.Med de unntak som følger av fjerde til sjette ledd gir fra og med 1971 medlemskapet rett til godskriving av 52 premieuker i kalenderåret uansett om medlemmet i hele året eller bare en del av det har vært sysselsatt i fiske- og fangstnæringen, jf likevel [§ 2](lov/1957-06-28-12/§2).Ved frivillig medlemskap etter [§ 3](lov/1957-06-28-12/§3) nr. 1 godskrives premieuker for det tidsrom medlemskapet består.Premieuker godskrives ikke for tidsrom hvori den trygdede omfattes av pensjonsordning som nevnt i [§ 2](lov/1957-06-28-12/§2) nr. 1 litra b.Premieuker godskrives ikke for tidsrom som det tross varsel ikke er betalt medlemspremie for.
 
-2. Pensjonsalderen er 60 år.
+2\. Pensjonsalderen er 60 år.
 
 > Endret ved lover 18 des 1970 nr. 86, 8 juni 1973 nr. 41, [28 mai 1993 nr. 53](lov/1993-05-28-53), [13 juni 1997 nr. 58](lov/1997-06-13-58) (ikr. 1 jan 1998), [1 mars 2002 nr. 3](lov/2002-03-01-3), [22 nov 2019 nr. 72](lov/2019-11-22-72) (ikr. 1 jan 2020 iflg. [res. 22 nov 2019 nr. 1551](forskrift/2019-11-22-1551)).
 
 ### § 7
 
-1. Alderspensjon regnes ikke for mer enn 1560 premieuker i alt. Årspensjon for 1560 premieuker skal på uttakstidspunktet utgjøre 1,6 ganger folketrygdens grunnbeløp, forholdsmessig redusert hvis vedkommende har mindre enn 1560 premieuker.
+1\. Alderspensjon regnes ikke for mer enn 1560 premieuker i alt. Årspensjon for 1560 premieuker skal på uttakstidspunktet utgjøre 1,6 ganger folketrygdens grunnbeløp, forholdsmessig redusert hvis vedkommende har mindre enn 1560 premieuker.
 
-2. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd og [§ 20-18](lov/1997-02-28-19/§20-18) åttende ledd.
+2\. Alderspensjon under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.Ved regulering av pensjoner etter første ledd benyttes de reguleringsfaktorene Kongen fastsetter etter [folketrygdloven § 19-14](lov/1997-02-28-19/§19-14) åttende ledd og [§ 20-18](lov/1997-02-28-19/§20-18) åttende ledd.
 
-3. Til pensjonist som forsørger barn under 18 år, ytes det barnetillegg som for hvert barn utgjør 30 prosent av folketrygdens grunnbeløp. Tillegget reduseres forholdsmessig hvis vedkommende har mindre enn 1560 premieuker.
+3\. Til pensjonist som forsørger barn under 18 år, ytes det barnetillegg som for hvert barn utgjør 30 prosent av folketrygdens grunnbeløp. Tillegget reduseres forholdsmessig hvis vedkommende har mindre enn 1560 premieuker.
 
 > Endret ved lover 19 juni 1969 nr. 63, 8 juni 1973 nr. 41, 4 juni 1976 nr. 66, 25 mai 1979 nr. 21, [20 mai 1983 nr. 24](lov/1983-05-20-24), [1 mars 1985 nr. 5](lov/1985-03-01-5), [20 juni 1986 nr. 39](lov/1986-06-20-39), [5 juni 1987 nr. 28](lov/1987-06-05-28), [28 mai 1993 nr. 53](lov/1993-05-28-53), [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [17 des 2010 nr. 77](lov/2010-12-17-77) (ikr. 1 jan 2011), [1 april 2022 nr. 17](lov/2022-04-01-17) (ikr. 1 april 2022 iflg. [res. 1 april 2022 nr. 496](forskrift/2022-04-01-496), se endringslovens del XII for overgangsregler).
 
@@ -132,11 +132,11 @@ Trygden er garantert av staten.
 
 ### § 16
 
-1. Kongen fastsetter størrelsen av den premie som medlemmet skal betale. Premien fastsettes som årspremie. For medlem som nevnt i [§ 3](lov/1957-06-28-12/§3) nr. 1, skal dog premien fastsettes som ukepremie svarende til 1/52 av årspremien.Premien fastsettes slik at den sammen med avgift som nevnt i [§ 15](lov/1957-06-28-12/§15), dekker utgiftene og gir adgang til å legge opp et passende likviditetsfond.Medlemspremien reguleres årlig med virkning fra 1. januar. Endringen i medlemspremien skal minst tilsvare den prosentvise endring i grunnbeløpet for året forut.
+1\. Kongen fastsetter størrelsen av den premie som medlemmet skal betale. Premien fastsettes som årspremie. For medlem som nevnt i [§ 3](lov/1957-06-28-12/§3) nr. 1, skal dog premien fastsettes som ukepremie svarende til 1/52 av årspremien.Premien fastsettes slik at den sammen med avgift som nevnt i [§ 15](lov/1957-06-28-12/§15), dekker utgiftene og gir adgang til å legge opp et passende likviditetsfond.Medlemspremien reguleres årlig med virkning fra 1. januar. Endringen i medlemspremien skal minst tilsvare den prosentvise endring i grunnbeløpet for året forut.
 
-2. Medlemspremien i pliktig trygd innbetales i to terminer i kalenderåret, henholdsvis for tidsrommet 1. januar – 30. juni og 1. juli – 31. desember. Departementet gir nærmere forskrifter om innbetaling av premien og kan herunder bestemme at det skal være høve til å frita medlem for å betale premien hvis særlige grunner gjør det rimelig.
+2\. Medlemspremien i pliktig trygd innbetales i to terminer i kalenderåret, henholdsvis for tidsrommet 1. januar – 30. juni og 1. juli – 31. desember. Departementet gir nærmere forskrifter om innbetaling av premien og kan herunder bestemme at det skal være høve til å frita medlem for å betale premien hvis særlige grunner gjør det rimelig.
 
-3. Dersom medlemspremie ikke er betalt ved forfall, skal medlemmet svare renter etter [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. Krav på medlemspremie er tvangsgrunnlag for utlegg.
+3\. Dersom medlemspremie ikke er betalt ved forfall, skal medlemmet svare renter etter [lov 17. desember 1976 nr. 100](lov/1976-12-17-100) om renter ved forsinket betaling m.m. Krav på medlemspremie er tvangsgrunnlag for utlegg.
 
 > Endret ved lover 21 mai 1964 nr. 3, 18 des 1970 nr. 86, [5 juni 1987 nr. 28](lov/1987-06-05-28), [28 mai 1993 nr. 53](lov/1993-05-28-53), [13 juni 1997 nr. 58](lov/1997-06-13-58) (ikr. 1 jan 1998), [1 mars 2002 nr. 3](lov/2002-03-01-3).
 
@@ -196,9 +196,9 @@ Pensjonstrygden administreres sentralt av Arbeids- og velferdsdirektoratet. Depa
 
 ### § 24
 
-1. Krav om pensjon etter denne lov skal settes fram skriftlig og på skjema fastsatt av Arbeids- og velferdsdirektoratet.
+1\. Krav om pensjon etter denne lov skal settes fram skriftlig og på skjema fastsatt av Arbeids- og velferdsdirektoratet.
 
-2. Ved behandling av saker etter loven her gjelder reglene i [forvaltningsloven](lov/1967-02-10).
+2\. Ved behandling av saker etter loven her gjelder reglene i [forvaltningsloven](lov/1967-02-10).
 
 > Endret ved [lover 19 juni 1969 nr. 54](lov/1969-06-19-54), 18 des 1970 nr. 86, 15 des 1972 nr. 81, [28 feb 1997 nr. 19](lov/1997-02-28-19) (ikr. 1 mai 1997), [1 mars 2002 nr. 3](lov/2002-03-01-3), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
@@ -252,11 +252,11 @@ Departementet kan gi forskrift om behandlingen, blant annet om formålet med beh
 
 ### § 30
 
-1. Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
+1\. Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
 
-2. Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av [EØS-avtalens](lov/1992-11-27-109/eøsl) hoveddel, bilaterale avtaler som nevnt i nr. 1 og forordninger og avtaler som nevnt i [folketrygdloven §§ 1-3 a](lov/1997-02-28-19/§1-3a) og [1-3 b](lov/1997-02-28-19/§1-3b).
+2\. Bestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av [EØS-avtalens](lov/1992-11-27-109/eøsl) hoveddel, bilaterale avtaler som nevnt i nr. 1 og forordninger og avtaler som nevnt i [folketrygdloven §§ 1-3 a](lov/1997-02-28-19/§1-3a) og [1-3 b](lov/1997-02-28-19/§1-3b).
 
-3. Med samtykke av departementet kan Arbeids- og velferdsdirektoratet treffe overenskomst med annen pensjonsordning om overføring av trygdede og pensjonister. I overenskomsten bestemmes i hvilken utstrekning de overførte skal få tidligere tjenestetid regnet med.
+3\. Med samtykke av departementet kan Arbeids- og velferdsdirektoratet treffe overenskomst med annen pensjonsordning om overføring av trygdede og pensjonister. I overenskomsten bestemmes i hvilken utstrekning de overførte skal få tidligere tjenestetid regnet med.
 
 > Endret ved [lover 16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)), [25 nov 2022 nr. 86](lov/2022-11-25-86) (i kraft 25 nov 2022 iflg. [res. 25 nov 2022 nr. 2013](forskrift/2022-11-25-2013)).
 
@@ -274,16 +274,18 @@ Departementet kan gi nærmere regler om gjennomføringen av denne lov.
 
 ### § 33
 
-1. Den som har vært pensjonstrygdet som pliktig medlem minst 15 uker av det første år etter denne lovs ikrafttreden, får godskrevet 30 premieuker for hvert år han ved lovens ikrafttreden er over 35 år hvis han:har vært opptatt i det ved lov om ulukketrygding for fiskarar omhandlede manntall i minst 7 av de siste 10 år før lovens ikrafttreden, elleri minst 20 uker årlig i 7 av de siste 10 år før lovens ikrafttreden har vært fisker, fangstmann eller mannskap på norsk fiske- eller fangstfartøy på 50 tonnasjeenheter/registertonn brutto eller mer, forutsatt at han var norsk statsborger eller hadde fast bopel i Norge. Det samme gjelder fartøyets eier hvis han var i full stilling ombord og arbeidstaker i slik stilling omfattes av trygden.
+1\. Den som har vært pensjonstrygdet som pliktig medlem minst 15 uker av det første år etter denne lovs ikrafttreden, får godskrevet 30 premieuker for hvert år han ved lovens ikrafttreden er over 35 år hvis han:har vært opptatt i det ved lov om ulukketrygding for fiskarar omhandlede manntall i minst 7 av de siste 10 år før lovens ikrafttreden, elleri minst 20 uker årlig i 7 av de siste 10 år før lovens ikrafttreden har vært fisker, fangstmann eller mannskap på norsk fiske- eller fangstfartøy på 50 tonnasjeenheter/registertonn brutto eller mer, forutsatt at han var norsk statsborger eller hadde fast bopel i Norge. Det samme gjelder fartøyets eier hvis han var i full stilling ombord og arbeidstaker i slik stilling omfattes av trygden.
 
-2. Er en person blitt arbeidsufør på grunn av sykdom i løpet av de siste 10 år før lovens ikrafttreden, eller i det første år etter lovens ikrafttreden, og av den grunn ikke fyller vilkårene etter nr. 1, kan Arbeids- og velferdsdirektoratet likevel godskrive ham premieuker hvor forholdene tilsier det.Arbeids- og velferdsdirektoratet kan også ellers godskrive premieuker når særlige grunner foreligger.
+2\. Er en person blitt arbeidsufør på grunn av sykdom i løpet av de siste 10 år før lovens ikrafttreden, eller i det første år etter lovens ikrafttreden, og av den grunn ikke fyller vilkårene etter nr. 1, kan Arbeids- og velferdsdirektoratet likevel godskrive ham premieuker hvor forholdene tilsier det.Arbeids- og velferdsdirektoratet kan også ellers godskrive premieuker når særlige grunner foreligger.
 
-3. Godskriving av premieuker etter reglene i nr. 1 og 2 gir ikke i noe tilfelle rett til å få utbetalt pensjon før utløpet av det første år etter lovens ikrafttreden.
+3\. Godskriving av premieuker etter reglene i nr. 1 og 2 gir ikke i noe tilfelle rett til å få utbetalt pensjon før utløpet av det første år etter lovens ikrafttreden.
 
-4. Antallet premieuker som den trygdede har opptjent i tiden 1 januar 1958 – 31 desember 1970 forhøyes med virkning fra 1 januar 1971 med 50 prosent, dog slik at det samlede antall premieuker begrenses til det antall uker som vedkommende ville fått ved uavbrutt medlemskap i de kalenderår han i nevnte tidsrom har vært medlem av trygden.
+4\. Antallet premieuker som den trygdede har opptjent i tiden 1 januar 1958 – 31 desember 1970 forhøyes med virkning fra 1 januar 1971 med 50 prosent, dog slik at det samlede antall premieuker begrenses til det antall uker som vedkommende ville fått ved uavbrutt medlemskap i de kalenderår han i nevnte tidsrom har vært medlem av trygden.
 
 > Endret ved lover 18 des 1970 nr. 86, [16 des 1983 nr. 72](lov/1983-12-16-72), [16 juni 2006 nr. 20](lov/2006-06-16-20) (ikr. 1 juli 2006 iflg. [res. 16 juni 2006 nr. 631](forskrift/2006-06-16-631)).
 
 ### § 34
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 1958 iflg. res. 6 des 1957.

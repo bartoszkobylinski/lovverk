@@ -42,6 +42,22 @@ I forskriften fastsettes også helsekrav for personer som arbeider under forhøy
 
 I denne forskrift forstås med:
 
+*Helseerklæring:* Erklæring fra petroleumslege, jf. [§ 6](forskrift/2010-12-20-1780/§6), om at en person er undersøkt i samsvar med forskriften, jf. veileder, og funnet å oppfylle helsekravene i denne.
+
+*Erklæring om ikke oppfylte helsekrav:* Erklæring fra petroleumslege, jf. [§ 6](forskrift/2010-12-20-1780/§6), om at en person er undersøkt i samsvar med forskriften, jf. veileder, og ikke funnet å oppfylle helsekravene i denne.
+
+*Petroleumslege:* Lege som er bemyndiget til å utstede helseerklæringer og erklæringer om ikke oppfylte helsekrav etter denne forskrift for personer som ikke arbeider under forhøyet omgivende trykk.
+
+*Dykkerlege:* Lege som er bemyndiget til å utstede helseerklæringer og erklæringer om ikke oppfylte helsekrav etter denne forskrift for personer som arbeider under forhøyet omgivende trykk.
+
+*Bemannet undervannsoperasjon:* Aktivitet der mennesker oppholder seg under vannflaten og/eller utsettes for forhøyet omgivende trykk.
+
+*Petroleumsvirksomhet:* All virksomhet knyttet til undersjøiske petroleumsforekomster, herunder undersøkelse, leteboring, utvinning, transport, utnyttelse og avslutning samt planlegging av slike aktiviteter, likevel ikke transport av petroleum i bulk med skip, jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6) bokstav c.
+
+*Operatør:* Den som på rettighetshavers vegne forestår den daglige ledelsen av petroleumsvirksomheten jf. [petroleumsloven § 1-6](lov/1996-11-29-72/§1-6) bokstav k.
+
+*Leverandør:* Den som etter kontrakt med operatør eller andre leverandører utfører virksomhet i eller i tilknytning til petroleumsvirksomhet.
+
 ### § 4. Krav om helseerklæring
 
 Den som helsekravene gjelder for, jf. [§ 2](forskrift/2010-12-20-1780/§2), skal til enhver tid inneha helseerklæring utferdiget i samsvar med bestemmelsene i denne forskrift. Vedkommende velger fritt hvilken petroleumslege/dykkerlege som skal utferdige erklæringen.
@@ -81,6 +97,10 @@ Helsedirektoratets vedtak om forhåndsgodkjenning av kurs kan påklages til Nasj
 > Endret ved [forskrift 18 des 2015 nr. 1740](forskrift/2015-12-18-1740) (i kraft 1 jan 2016).
 
 ### § 9. Utdypende kompetansekrav for dykkerlege
+
+*Førstegangs godkjenning*For å bli godkjent som dykkerlege må vedkommende foruten å være godkjent petroleumslege også dokumentere kjennskap til de spesielle forhold og krav som gjelder ved arbeid under forhøyet omgivende trykk. Helsedirektoratet gir nærmere bestemmelser om dette kompetansekravet.
+
+*Vedlikeholdskrav*Gjennomført obligatorisk oppdateringskurs og bestått eksamen.
 
 Helsedirektoratets vedtak om forhåndsgodkjenning av kurs kan påklages til Nasjonalt klageorgan for helsetjenesten.
 

@@ -214,7 +214,15 @@ Realkompetansevurdering ved opptak til studium som krev høgare utdanning er ber
 
 (1) Søkjarar til høgare grads studium vert rangerte innbyrdes på grunnlag av konkurransepoeng. I konkurransepoenga til ein søkjar kan summen av følgjande poeng inngå:KarakterpoengDet vert rekna ut eit vekta karaktergjennomsnitt av opptaksgrunnlaget. Vekta gjennomsnitt er eit gjennomsnitt der kvart emne i grunnlaget er tillagt vekt etter talet på studiepoeng emnet har.Styret kan fastsetje i studieplanen eller emneplanen at berre delar av opptaksgrunnlaget skal inngå i karakterpoengsummen.Utdanningspoeng:Det kan bli gitt utdanningspoeng for greidd høgare utdanning ut over minstekravet for opptak etter [kapittel 2](forskrift/2024-06-24-1858/kap2) i denne forskrifta. Normalt 1 poeng per 30 studiepoeng og maksimalt 4 poeng med mindre anna er fastsett i studieplan eller emneplan.PraksispoengDet blir gitt poeng for relevant arbeidserfaring når studiet har opptakskrav om praksis, eller dersom det er fastsett i studie- eller emneplan. Normalt to poeng per 12 månadar med relevant praksis utover opptaksgrunnlaget, og maksimalt seks poeng, med mindre anna er fastsett i studie- eller emneplan. Deltid vert rekna om til heiltid.Praksis som søkjaren har gjennomført før kvalifiserande utdanning og praksis som inngår i kvalifiseringsgrunnlaget, er ikkje medrekna i grunnlaget for praksispoeng.Andre tilleggspoeng:Med utgangspunkt i særlege omsyn som er knytte til enkelte studium, kan styret fastsetje andre poengtypar i studieplanen eller emneplanen.
 
-(2) For søkjarar med bokstavkarakterar eller talkarakterar vert følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter som fører fram til ein talverdi:*Bokstavkarakter**Talkarakter**Gamle bokstavkarakterar**Gir følgjande talverdi*A1,0–2,2Særs godt (sg)5B2,3–2,5Mykje godt (mg)4C2,6–2,7Godt (g)3D2,8–3,0Noko godt (ng)2E3,1–4,0Lite godt (lg)1
+(2) For søkjarar med bokstavkarakterar eller talkarakterar vert følgjande omrekningsskala nytta som grunnlag for utrekning av gjennomsnittskarakter som fører fram til ein talverdi:
+
+| *Bokstavkarakter* | *Talkarakter* | *Gamle bokstavkarakterar* | *Gir følgjande talverdi* |
+| --- | --- | --- | --- |
+| A | 1,0–2,2 | Særs godt (sg) | 5 |
+| B | 2,3–2,5 | Mykje godt (mg) | 4 |
+| C | 2,6–2,7 | Godt (g) | 3 |
+| D | 2,8–3,0 | Noko godt (ng) | 2 |
+| E | 3,1–4,0 | Lite godt (lg) | 1 |
 
 (3) Det er berre fag med tal eller bokstavkarakterar som tel med i utrekninga av karaktersnitt. Der det ikkje er vekting på karakterutskrifter og vitnemål skal det reknast snitt av alle gjeldande karakterar.
 
@@ -226,11 +234,26 @@ Realkompetansevurdering ved opptak til studium som krev høgare utdanning er ber
 
 ### § 4-4. Rangering av søkjarar til allmennfagleg praktisk-pedagogisk utdanning (PPU-A)
 
-Søkjarar vert rangert etter [§ 4-3](forskrift/2024-06-24-1858/§4-3), men kan i tillegg få 6 poeng for dokumentert tilsetting i skule.*Poengtype**Forklaring*+ KarakterpoengVekta karaktersnitt x 10 (maksimalt 50 poeng)+ Utdanningspoeng1 poeng per 30 sp. Maksimalt 4 poengAndre tilleggspoeng6 poeng for dokumentert tilsetting i skule= *Konkurransepoengsum*
+Søkjarar vert rangert etter [§ 4-3](forskrift/2024-06-24-1858/§4-3), men kan i tillegg få 6 poeng for dokumentert tilsetting i skule.
+
+| *Poengtype* | *Forklaring* |
+| --- | --- |
+| + Karakterpoeng | Vekta karaktersnitt x 10 (maksimalt 50 poeng) |
+| + Utdanningspoeng | 1 poeng per 30 sp. Maksimalt 4 poeng |
+| Andre tilleggspoeng | 6 poeng for dokumentert tilsetting i skule |
+| = *Konkurransepoengsum* |  |
 
 ### § 4-5. Rangering av søkjarar til yrkesfagleg praktisk-pedagogisk utdanning (PPU-Y)
 
-Søkjarar vert rangert med bakgrunn i opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).*Poengtype**PPU-Y, profesjonsretta bachelorgrad**PPU-Y, fag-/sveinebrev og yrkesteoretisk utdanning*KarakterpoengVekta karaktersnitt av bachelorgraden x 10Vanleg gjennomsnitt av karakterar i den yrkesteoretiske utdanninga x 10Utdanningspoeng1 poeng per 30 studiepoeng fagleg fordjuping utover opptaksgrunnlaget. Maksimalt 4 poengDet vert ikkje gitt poeng i denne kategorienPraksispoengDet vert ikkje gitt poeng i denne kategorien2 poeng per 12 månader med relevant praksis utover opptaksgrunnlaget, maksimalt 6 poeng.Andre tilleggspoeng6 poeng for dokumentert tilsetting i skule6 poeng for dokumentert tilsetting i skule= *Konkurransepoengsum*
+Søkjarar vert rangert med bakgrunn i opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).
+
+| *Poengtype* | *PPU-Y, profesjonsretta bachelorgrad* | *PPU-Y, fag-/sveinebrev og yrkesteoretisk utdanning* |
+| --- | --- | --- |
+| Karakterpoeng | Vekta karaktersnitt av bachelorgraden x 10 | Vanleg gjennomsnitt av karakterar i den yrkesteoretiske utdanninga x 10 |
+| Utdanningspoeng | 1 poeng per 30 studiepoeng fagleg fordjuping utover opptaksgrunnlaget. Maksimalt 4 poeng | Det vert ikkje gitt poeng i denne kategorien |
+| Praksispoeng | Det vert ikkje gitt poeng i denne kategorien | 2 poeng per 12 månader med relevant praksis utover opptaksgrunnlaget, maksimalt 6 poeng. |
+| Andre tilleggspoeng | 6 poeng for dokumentert tilsetting i skule | 6 poeng for dokumentert tilsetting i skule |
+| = *Konkurransepoengsum* |  |  |
 
 ### § 4-6. Rangering av søkjarar til realfagskurs og tresemesterordninga (TRESS)
 
@@ -238,11 +261,30 @@ Ved opptak til realfagskurs og tresemesterordninga vert søkjarar poengutrekna o
 
 ### § 4-7. Rangering av søkjarar til forkurs
 
-Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).*Poengtype**Forklaring*KarakterpoengKaraktersnitt frå yrkesfagleg vidaregåande utdanning1 x 10+ Poeng for fagbrev5 poeng+ Poeng for praksis innanfor relevante yrkesfaglege områder1 poeng pr. 12 månader, maksimalt 5 poeng+ Kjønnspoeng2 tilleggspoeng for kvinnelege søkjarar= *Konkurransepoengsum*
+Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).
+
+| *Poengtype* | *Forklaring* |
+| --- | --- |
+| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning1 x 10 |
+| + Poeng for fagbrev | 5 poeng |
+| + Poeng for praksis innanfor relevante yrkesfaglege områder | 1 poeng pr. 12 månader, maksimalt 5 poeng |
+| + Kjønnspoeng | 2 tilleggspoeng for kvinnelege søkjarar |
+| = *Konkurransepoengsum* |  |
+
+1 Fellesfaga vert berre telt på høgaste nivå, det betyr at til dømes karakterane i norsk, engelsk og kroppsøving berre tel frå vg2.
 
 ### § 4-8. Rangering av søkjarar til y-veg
 
-Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).*Poengtype**Forklaring*KarakterpoengKaraktersnitt frå yrkesfagleg vidaregåande utdanning2 x 10+ Poeng for relevant arbeidspraksis utover opptakskravet1 poeng pr. 12 månader, maksimalt 5 poeng+ Poeng for kjønn der det er gitt i studieplanen2 poeng= *Konkurransepoengsum*
+Søkjarar vert rangert på grunnlag av opptaksgrunnlaget i [kapittel 2](forskrift/2024-06-24-1858/kap2).
+
+| *Poengtype* | *Forklaring* |
+| --- | --- |
+| Karakterpoeng | Karaktersnitt frå yrkesfagleg vidaregåande utdanning2 x 10 |
+| + Poeng for relevant arbeidspraksis utover opptakskravet | 1 poeng pr. 12 månader, maksimalt 5 poeng |
+| + Poeng for kjønn der det er gitt i studieplanen | 2 poeng |
+| = *Konkurransepoengsum* |  |
+
+2 Fellesfaga vert berre telt på høgaste nivå, som til dømes at karakterane i norsk, engelsk og kroppsøving berre tel frå vg2.
 
 ### § 4-9. Rangering av søkjarar til eittårig fagskuleutdanning for yrkesdykkarar
 

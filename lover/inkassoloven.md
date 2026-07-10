@@ -23,7 +23,11 @@ eu_basis:
 
 # Lov om inkassovirksomhet og inndriving av forfalte pengekrav (inkassoloven)
 
+Følgende lov oppheves:
+
 - [Lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven)](lov/1988-05-13-26).
+
+Endringer i følgende lover:
 
 1. [Lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)](lov/1976-12-17-100).
 2. [Lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven)](lov/1984-06-08-58).
@@ -510,14 +514,30 @@ Kongen kan gi overgangsregler.
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:
 
+**1.** I [lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.](lov/1976-12-17-100) skal [§ 4 bokstav b](lov/1976-12-17-100/§4/bokstav/b) lyde:
+
 Fordringshaveren kan i tillegg til forsinkelsesrenten ikke kreve andre gebyrer eller gjennomsnittsberegnede tapsposter enn erstatningsbeløpene som kan kreves etter [inkassoloven § 18](lov/2026-05-22-19/§18) eller forskrift gitt med hjemmel i [inkassoloven § 19](lov/2026-05-22-19/§19).
+
+**2.** I [lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs](lov/1984-06-08-58) skal [§ 149 andre ledd andre punktum](lov/1984-06-08-58/§149/ledd/2/setning/2) lyde:
 
 Dessuten kan den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11), være prosessfullmektig etter samme regler som advokater for en fordringshaver i inkassooppdrag som inkassoforetaket har for fordringshaveren.
 
+**3.** I [lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse](lov/1992-06-26-86) gjøres følgende endringer:
+
+[§ 5-1 andre ledd andre punktum](lov/1992-06-26-86/§5-1/ledd/2/setning/2) skal lyde:
+
 Dessuten kan den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11), være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassoforetaket har for parten.
+
+[§ 6-2 første punktum](lov/1992-06-26-86/§6-2/setning/1) skal lyde:
 
 Den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11), kan være prosessfullmektig etter samme regler som advokater under tvangsfullbyrdelse i inkassooppdrag som inkassoforetaket har for parten.
 
+**4.** I [lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister](lov/2005-06-17-90) gjøres følgende endringer:
+
+[§ 6-3 tredje ledd andre punktum](lov/2005-06-17-90/§6-3/ledd/3/setning/2) skal lyde:
+
 Hvis klageren krever erstatning for kostnader ved utenrettslig inndriving, skal betalingsoppfordringen etter [inkassoloven § 21](lov/2026-05-22-19/§21) vedlegges.
+
+[§ 6-7 første ledd bokstav c](lov/2005-06-17-90/§6-7/ledd/1/bokstav/c) skal lyde:
 
 den som er godkjent prosessfullmektig i et fremmedinkassoforetak etter [inkassoloven § 11](lov/2026-05-22-19/§11) med inkassooppdrag for saken,

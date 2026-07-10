@@ -98,6 +98,8 @@ Arealplanlegging i Longyearbyen planområde er hjemlet i [svalbardmiljøloven ka
 
 ### 1.4 Om fellesbestemmelser i plan og bygningsloven
 
+*[Pbl. § 1-6](lov/2008-06-27-71/§1-6) Tiltak*
+
 Bestemmelsen må leses og anvendes i lys av at § 20-5 første ledd bokstavene a) og b), § 20-6 og § 20-7 ikke er gjort gjeldende på Svalbard.
 
 ### 2. Byggesaksbestemmelser (§ 2 – § 4)
@@ -112,9 +114,19 @@ Det stilles ikke krav til universell utforming av bygg og anlegg i Longyearbyen.
 
 ### § 2 Plan og bygningslovens anvendelse
 
+*Veiledning knyttet til bestemmelser i plan- og bygningsloven*
+
+*Om bestemmelsene i kapittel 17*
+
+*§ 17-1 Definisjon*
+
 Bestemmelsen forutsetter at avtalen gjelder et område, og at den har grunnlag i kommunal arealplan.
 
+*§ 17-2 Forutsetning for bruk av utbyggingsavtaler*
+
 Bestemmelsen stiller krav om et såkalt «forutsigbarhetsvedtak». Dette vedtaket skal gi utbygger informasjon om kommunens overordnede forutsetninger for å inngå avtaler, slik at hans forventninger skal kunne være realistiske. Vedtaket kan gjelde kommunens planer for egen utbygging av infrastruktur (her kommer ikke forbudet mot sosial infrastruktur inn, denne kan tas med som kommunens ytelse i avtalen), langtidsbudsjett, boligbyggingsprogram mv. Kravet om et forutsigbarhetsvedtak har sammenheng med at arealplanen ikke nødvendigvis sier noe om økonomiske forutsetninger for gjennomføring av avtalen. Dersom planen inneholder slike forutsetninger, kan kravet om forutsigbarhetsvedtak dermed fremgå direkte av planen. Det er altså ikke noe formkrav til et slikt vedtak, bortsett fra at det må være politisk, og fattet av kommunestyret. Dette er et vedtak i henhold til kommuneloven, ikke et enkeltvedtak etter forvaltningsloven. Det gir derfor ikke rettigheter eller plikter til noen part.
+
+*§ 17-3 Avtalens innhold*
 
 Dette er den viktigste bestemmelsen i dette regelverket, og presiserer i første ledd at avtalen må ha grunnlag i planbestemmelser. Innledningsvis i avtalen bør det derfor presiseres hvilke planbestemmelser den tar utgangspunkt i. Her vil det særlig være rekkefølgebestemmelser som vil være viktig.
 
@@ -132,27 +144,49 @@ Rent privatrettslige avtaler som kommunen inngår, må holdes utenfor utbyggings
 
 Fjerde ledd gir mulighet for forskuttering av kommunale tiltak som er nødvendige for avtalen. Denne muligheten er lite brukt, og blir for så vidt en vanlig låneavtale, men underlagt begrensningene som ellers gjelder for utbyggingsavtale. Når bestemmelsen er lite brukt, har det også sammenheng med at enkelte kommuner heller bruker OPS-avtaler, som også omfatter drift, noe det ikke er anledning til i utbyggingsavtaler.
 
+*§ 17-4 Saksbehandling og offentlighet*
+
 § 17-4 gir i tillegg visse formkrav om kunngjøring. Etter første ledd skal oppstart av avtaleforhandlinger kunngjøres, og etter tredje ledd skal inngått avtale også kunngjøres. Det er også krav om offentlig ettersyn med 30 dagers frist dersom avtalen gjelder tiltak etter § 17-3 andre og tredje ledd, dvs. de aller fleste avtaler. Unntaket her vil sannsynligvis være de avtaler som bare regulerer tiltak kommunen kan kreve direkte gjennomført med hjemmel i lov.
 
+*§ 17-5 Klage*
+
 § 17-5 sier at utbyggingsavtaler ikke kan påklages. Avtalen er en privatrettslig avtale, som må forfølges privatrettslig, dvs. ved domstolene. (Dette er sannsynligvis en viktig medvirkende årsak til at det er så lite praksis omkring tvister.) Avtalen har likevel et så sterkt offentligrettslig grunnlag, fordi den gjelder gjennomføring av plan, at det er gitt visse formkrav for å ivareta offentlighetens interesser. Dette må også sees i sammenheng med kravet i § 17-2 om forutsigbarhetsvedtak, som skal være offentlig, og skape det offentligrettslige grunnlaget (sammen med arealplanen) for avtalen. § 17-4, som blant annet har krav om kunngjøring, må også sees i sammenheng med formkravene til avtalen.
+
+*§ 17-6 Forskrifter (SAK kapittel 18)*
 
 Bestemmelsen er en hjemmel for departementet til å gi forskrifter. Slike forskrifter er gitt i Forskrift om byggesak (SAK) [kapittel 18](forskrift/2010-03-26-488/kap18). Disse sier at det ikke kan avtales at grunneier skal bekoste sosial infrastruktur som skoler, barnehager, sykehjem eller tilsvarende tjenester som det offentlige med hjemmel i lov er forpliktet til å skaffe til veie. «Sosial infrastruktur» er begrenset til disse tiltakene, men avgrensningen kan av og til være vanskelig, f.eks. tilpassede boliger med kommunale tjenester. Bestemmelsen er ikke til hinder for at sosial infrastruktur kan være del av kommunens ytelse etter avtalen.
 
 Bestemmelsen presiserer videre at kommunen kan unnta fra kravene om kunngjøring og offentlig ettersyn der avtalen bare gjelder det kommunen kan kreve direkte med hjemmel i [pbl. § 18-1](lov/2008-06-27-71/§18-1) og [§ 18-2](lov/2008-06-27-71/§18-2), dvs. de tiltakene som gir grunnlag for refusjon.
 
+*§ 17-7 Dispensasjon. Samtykke til å fravike reglene*
+
 Bestemmelsen gir et generelt dispensasjonsforbud. Dersom reglene innføres, må de altså brukes uavkortet. Sammenhengen i regelverket gjør dette naturlig, og det antas ikke å være grunn til unntak fra dette.
 
 Departementet kan gi unntak, f.eks. ved større sammenhengende utbygging. Her er f.eks. tenkt på tiltak som et OL, kanskje også store industriutbygginger som omdanner et lokalsamfunn. Bestemmelsen har bare vært brukt en gang, og da for å forlenge en tidligere avtale der sosial infrastruktur har inngått, men eller ellers foreløpig ikke brukt.
 
+*Om bestemmelsene i kapittel 18*
+
+*§ 18-3 Refusjonsberettigede tiltak*
+
 Bestemmelsen avgrenser de tiltakene det kan kreves refusjon for til de tiltakene som kan kreves opparbeidet etter opparbeidelsesplikten i § 18-1 og § 18-2. Disse bestemmelsene gjelder allerede i Longyearbyen, og ble inntatt i BfL. allerede i 2003.
+
+*§ 18-4 Refusjonsenheten*
 
 Bestemmelsen stiller krav til at enheten, dvs. avgrensningen av det refusjonsberettigede tiltaket, skal være sammenhengende, og at kostnadsfordelingen samlet skal fordeles på de arealer som er refusjonspliktige. Kommunen kan bestemme en annen enhet når terrengforholdene tilsier det, for å få en rimelig fordeling. Bestemmelsen gir altså lokalstyret mulighet til å bestemme omfanget av det tiltaket som skal være refusjonspliktig. Felles anlegg som gårdsplass osv. skal være én enhet.
 
+*§ 18-5 Utgifter som kan kreves refundert*
+
 Bestemmelsen angir de utgiftene som kan kreves refundert, og utgangspunktet er greit. Det er det som de andre brukerne tjener på det, men ikke mer. Det følger av forarbeidene til den gamle plan- og bygningsloven § 48 (som er videreført i [pbl. § 18-5](lov/2008-06-27-71/§18-5)), at det er samtlige utgifter som har vært nødvendige for å få utført tiltaket som kan tas med. Dette vil eksempelvis være utgifter som omfatter utførelse, prosjektering, erverv av grunn, og finansieringskostnader. Her kan kommunen kreve prisanbud.
+
+*§ 18-6 Refusjonspliktig areal*
 
 Bestemmelsen sier hvem som skal betale. Dette er de eiendommene som kan knyttes til anlegget innenfor planområdet. Eiendommer med eksisterende bygg omfattes i utgangspunktet ikke, men kan omfattes dersom de ikke er fullt utbygget. Dette gjelder eiendommer der mindre enn 2/3 er bebygget, og der resten kan bebygges særskilt, eventuelt fradeles som egne tomter. Kommunen kan også bestemme at eksisterende fritidsbebyggelse kan kreves tilknyttet, dette må i så fall fremgå av plan. Nye tomter som kommer til etter at refusjonsoppgjøret er gjennomført, har mulighet til å inngå en avtale om påkobling. For gjennomføring av refusjon i slike tilfeller, så henvises det til § 27-3. Kapittel 27 handler om tilknytning, og er materielle krav, men det er bare § 18-1 og § 18-2 som er grunnlaget for refusjon.
 
+*§ 18-7 Fordelingsfaktorene*
+
 Bestemmelsen angir fordelingsfaktorene, dvs. hvor mye hver refusjonsdebitor skal betale. Her utgjør tomtearealet 50 %, og grad av utnytting 50 %. Kommunen kan bestemme annen fordeling, men det gjøres svært sjelden. Graden av utnytting er viktig for å angi hvor mange bygninger refusjonen vil gjelde.
+
+*§ 18-8 Godkjenning av planer og foreløpig beregning av refusjon*
 
 Grunnlaget for beregningen fremgår av forskrift om byggesak (SAK) [kapittel 17](forskrift/2010-03-26-488/kap17), som også er inntatt som del av BfL. SAK stiller krav om at tiltakshaver skal vise plan over hele tiltaket, utarbeide kostnadsoverslag og forslag til fordeling av utgifter. Dette materialet skal sendes rekommandert til de berørte grunneiere eller festere, som har 3 uker til uttalelse. Tiltakshaver skal også utarbeide tekniske planer, disse trenger ikke oversendes. Tiltakshaver skal deretter redegjøre for nabomerknader, og sende materialet til kommunen.
 
@@ -162,15 +196,25 @@ Kommunen skal deretter fatte vedtak om foreløpig beregning av refusjonen, og de
 
 En viktig del av bestemmelsen er tredje ledd, som sier at refusjonsretten faller bort dersom tiltaket påbegynnes før kommunen har fattet dette foreløpige vedtaket, med mindre kommunen bestemmer noe annet av hensyn til tiltakets karakter og betydning av fremdrift. Denne bestemmelsen gir lokalstyret en mulighet til f.eks. å se flere tiltak i sammenheng.
 
+*§ 18-9 Fastsetting av refusjon*
+
 Bestemmelsen fastsetter at kommunen skal fatte endelig vedtak om refusjon når tiltaket er ferdig opparbeidet. Dette vedtaket gir den endelige kostnadsfordelingen. Her kan det tas med nødvendige utgifter til å fullføre tiltaket slik det er godkjent, men totalen kan altså ikke overskride den foreløpige fastsettelsen med mer enn 15 %. Kommunen må her foreta regnskapskontroll, og sende fordelingen til tiltakshaver (refusjonskreditor) og de berørte for uttalelse med tre ukers frist, før det endelige vedtaket fattes.
 
 Refusjonsvedtakene kan påklages etter forvaltningsloven (til fylkesmannen), og kan naturligvis prøves rettslig.
 
+*§ 18-10 Forfall og renteplikt*
+
 Etter § 18-10 er forfallstidspunktet fem uker etter at det endelige vedtaket er meddelt de berørte (refusjonsdebitorene). Ved forsinkelser gjelder loven om forsinkelsesrente. Det er unntak fra regelen om forfallstidspunkt når refusjonen omfatter ubebygd del av bebygd eiendom, her forfaller refusjonen ved fradelingen, eller når det påhviler midlertidig forbud mot tiltak. Dersom det offentlige er refusjonskreditor, kan betalingen skje i årlige terminer.
+
+*§ 18-11 Refusjonsdebitor. Panterett*
 
 Bestemmelsen gir kreditor mulighet til utlegg etter tvangsloven. Sysselmannen er tvangsmyndighet. Bestemmelsen regulerer også forholdet ved festeavtale.
 
+*§ 18-12 Søksmål*
+
 Bestemmelsen gir en bindende søksmålsfrist på 2 måneder fra endelig vedtak, dvs. når klage er avgjort eller klagefristen utløpt. I tillegg gir den rett for andre berørte grunneiere til å tre inn i saken. Dersom refusjonsvedtaket kjennes ugyldig av retten, må det tilbake til kommunen.
+
+*Om kapittel 19*
 
 Kapittel 19 om dispensasjon er en sikkerhetsventil for Longyearbyen Lokalstyre til å kunne dispensere fra de materielle bestemmelsene i byggesaksdelen i Plan- og bygningsloven. Det må gjøres en konkret vurdering av hva dispensasjonen gjelder. BfL. åpner ikke for å gi dispensasjon fra plan hverken når det gjelder arealbruksformål eller fra bestemmelser. Dersom dispensasjonen er knyttet til planverket, så er det svalbardmiljøloven som trer inn, og Sysselmannen som skal behandle dette.
 
@@ -178,23 +222,47 @@ Svalbardmiljøloven gir ikke hjemmel til å fravike den planlagte arealbruken. D
 
 Som vedlegg til saker som oversendes til Sysselmannen for avgjørelse, skal Longyearbyen lokalstyre legge ved en egen vurdering med positiv eller negativ innstilling til om det skal gis tillatelse til virksomhet i strid med planen.
 
+*Om bestemmelser i kapittel 20*
+
+*§ 20-2 Søknadsplikt*
+
 Bestemmelsen gir oversikt over tiltak som er søknadspliktige og tiltak som er unntatt fra søknadsplikt. Unntakene omfatter også tiltak som behandles etter annet regelverk (§ 20-6), og tiltaket som Forsvaret bygger (§ 20-7), men disse to bestemmelser er ikke gjort gjeldende i BfL. I tillegg omfatter bestemmelsen tiltak iht. sikkerhetsloven § 17 på skjermingsverdige byggverk (§ 20-8). Sikkerhetsloven gjelder på Svalbard, og derfor tas den delen av bestemmelsen inn i BfL.
 
+*§ 20-3 Søknadsplikt med krav om ansvarlige foretak*
+
 Bestemmelsen inntas i BfL. på samme grunnlag som § 20-2 i henhold til Sikkerhetsloven.
+
+*§ 20-5 Tiltak som er unntatt fra søknadsplikt*
 
 Bestemmelsen tilsvarer i hovedsak tidligere § 20-3, men er litt utvidet. § 20-5 bokstav a) og b) er utgangspunkt for bestemmelsen i ny SAK § 4-1.
 
 Unntakene som følger av forskrift (SAK § 4-1 bokstav a og b), sier at frittstående bygning inntil 50 kvm bruksareal eller bebygd areal, med mønehøyde 4 meter og gesimshøyde 3 meter, kan bygges inntil 1 meter fra nabogrense uten søknad. Av hensyn til bebyggelsen i Longyearbyen er det viktig at slike tiltak kommer inn til behandling av lokalstyret, og bestemmelsen i § 20-5 a) og b), SAK § 4-1 bokstav a) og b) er derfor ikke gjort gjeldende i BfL.
 
+*§ 20-8 Unntak fra søknadsplikt for skjermingsverdige bygg*
+
 Bestemmelsen er ny, og gjelder tiltak som omfattes av sikkerhetsloven. Bestemmelsen gir unntak fra søknadsplikt, og sier at departementet kan beslutte at tiltak skal være unntatt fra søknad dersom tvingende sikkerhetshensyn gjør det nødvendig. Sikkerhetsloven gjelder på Svalbard.
+
+*Om bestemmelser i kapittel 21*
+
+*[Pbl. § 21-3](lov/2008-06-27-71/§21-3) Nabovarsel*
 
 Femte ledd i denne bestemmelsen er ikke gjort gjeldende i BfL. Longyearbyen er et samfunn med stor turnover. Historien er kort og forsvinner fort, derfor er det behov for et sterkere krav om nabovarsling. Det bør ikke gå for lang tid mellom nabovarsling i plan og nabovarsling i byggesak. Grensen i femte ledd på 5 år før nytt nabovarsel er nødvendig, blir for lang tid.
 
 Hovedsaklig all grunn i Longyearbyen planområde eies av staten ved Næringsdepartementet, mens det er etablert flere hundre festetomter. Nabovarsel skal i henhold til pbl. sendes både hjemmelshaver og fester. Mange festetomter grenser bare til den opprinnelige eiendommen, slik at det er bare en nabo iht. loven. Det er derimot mange gjenboere. Begrepet gjenboere bør tolkes vidt slik at de som blir berørt får nabovarsel.
 
+*§ 21-7 Tidsfrister med særskilte virkninger*
+
 Fjerde ledd er nytt og likestiller behandling av dispensasjon fra plan med dispensasjon fra byggesaksbestemmelsene. Bestemmelsen må leses i lys av at planbestemmelsene ligger i svalbardmiljøloven. I planbestemmelsene på Svalbard er det ikke en generell hjemmel som åpner for dispensasjon fra plan. Sysselmannen kan i helt spesielle tilfeller gi tillatelse til virksomhet i strid med utfyllende bestemmelser fra plan ([svalbardmiljøloven § 58](lov/2001-06-15-79/§58) fjerde ledd), og tidsfristen på 12 uker i [pbl. § 21-7](lov/2008-06-27-71/§21-7) må henspeile på søknader som innebærer tillatelse i henhold til svml. § 58 fjerde ledd. Her blir altså fristen 12 uker, med tilbakebetaling av gebyr som virkning ved fristoverskridelse. Bestemmelsene om frister ved klagesaksbehandling får tilsvarende anvendelse. Det er presisert at fristen ikke gjelder i den tiden søknaden ligger til behandling hos regionale og statlige myndigheter.
 
+*Om bestemmelser i kapittel 23*
+
+*§ 23-9 Register over foretak*
+
 Her er det gitt hjemmel for opprettelse av et register over foretak som har påtatt seg ansvarsrett. I forskrift kan det kreves at foretak, tiltakshavere og kommuner kan pålegges å gi opplysninger om ansvarlige foretak til registeret. Dette vil også gjelde Longyearbyen.
+
+*Om bestemmelser i kapittel 29*
+
+*§ 29-7a Tilsyn med produkter til byggverk**§ 29-7b Tvangsmulkt**§ 29-7c Overtredelsesgebyr*
 
 Av særlig betydning er § 29-7a tredje ledd. Bestemmelsen gir lokalstyret plikt til å bistå DiBK for å forhindre ulovlige produkter. De tre nye bestemmelsene er en logisk følge av § 29-7 om krav til produkter, og vil være av betydning for å sikre at det brukes godkjente materialer.
 
@@ -202,13 +270,21 @@ Av særlig betydning er § 29-7a tredje ledd. Bestemmelsen gir lokalstyret plikt
 
 [Forskrift 26. mars 2010 nr. 488](forskrift/2010-03-26-488) om byggesak (byggesaksforskriften) gjelder med unntak av:Byggesaksforskriften gjelder med unntak av enkelte regler. Herunder omtales enkelte av de bestemmelsene som skal gjelde for Longyearbyen:
 
+*§ 4-1 Tiltak som ikke krever søknad og tillatelse*
+
 § 4-1 første ledd bokstav a) og b) er ikke tatt inn i BfL. Se kommentarer til [pbl. § 20-5](lov/2008-06-27-71/§20-5) (tidligere i veiledningen).
 
+*§ 5-2 Varsel til naboer og gjenboere*
+
 § 5-2 tredje og fjerde ledd er ikke tatt inn i BfL. Begrunnelsen følger av omtalen av [pbl. § 21-3](lov/2008-06-27-71/§21-3) femte ledd om nabovarsel (over).
+
+*§ 7-1 Tidsfrister for kommunens og klageinstansens saksbehandling*
 
 § 7-1 første ledd bokstav b) om igangsettingstillatelse oppheves, fordi den er flyttet opp i loven, og gitt rettsvirkning (tiltaket kan igangsettes dersom fristen er overskredet). Resten av bokstavene i bestemmelsen forskyves tilsvarende. For øvrig mindre språklige endringer, bl.a. for å presisere at saksbehandlingsfristen også gjelder ved dispensasjon fra plan, ikke bare byggesaksbestemmelser. Bestemmelser om saksbehandlingsfrister for klageinstansen må tolkes innenfor rammen av at planbestemmelsene for Svalbard er hjemlet i [svalbardmiljøloven kap. IV](lov/2001-06-15-79/kapiv) flg.
 
 ### § 4 Byggteknisk forskrifts anvendelse
+
+*[Forskrift 26. mars 2010 nr. 489](forskrift/2010-03-26-489) om tekniske krav til byggverk*
 
 TEK [kapittel 2](forskrift/2016-11-15-1329/kap2) (konstruksjonssikkerhet). Fundamentering i permafrost er ikke omtalt i TEK eller NS. Det kan benyttes relevant litteratur fra andre land som grunnlag for beregninger der det ikke er tilsvarende tilgjengelig i Norge. Litteraturen som i dag blir benyttet i Longyearbyen har sin opprinnelse fra Alaska. Det eksisterer tilsvarende for Sibir (Barentsburg).
 

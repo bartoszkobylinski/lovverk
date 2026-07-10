@@ -85,3 +85,5 @@ Lova gjeld frå den tid Kongen fastset.1
 Frå same tid blir [lov av 14. august 1918 nr. 4](lov/1918-08-14-4) om rettergangsordningens ikrafttræden [§§ 6-8](lov/1918-08-14-4/§6) oppheva.
 
 Tildelingar av notarialkompetanse i medhald av lov om rettergangsordningens ikrafttræden [§ 6](lov/2002-04-26-12/§6) første leddet gjeld inntil dei blir oppheva.
+
+1 Frå 1 juli 2002 iflg. [res. 26 apr 2002 nr. 399](forskrift/2002-04-26-399).

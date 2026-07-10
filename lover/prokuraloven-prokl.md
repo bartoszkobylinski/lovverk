@@ -55,3 +55,5 @@ Prokura kan når som helst tilbakekalles. Prokurafullmakten faller ikke bort om 
 ## § 6.
 
 Loven tar til å gjelde fra den tid1 Kongen bestemmer.
+
+1 Fra 1 jan 1988 iflg. [res. 18 des 1987 nr. 963](forskrift/1987-12-18-963).

@@ -144,11 +144,17 @@ Dersom Direktoratet for strålevern og atomsikkerhet ikke bestemmer noe annet, g
 
 Anleggsinnehaveren skal utarbeide vaktinstruks hvor vaktens plikter med hensyn til områdesikring, områdepatruljering, adgangskontroll og inspeksjon av kjøretøyer, herunder varetransporter mv. er spesifisert. Vaktinstruksen skal graderes etter sitt innhold, men minimum BEGRENSET i henhold til [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).
 
+*Personellsikkerhet*
+
 Anleggsinnehaver skal vurdere personers pålitelighet før de autoriseres for adgang til beskyttet eller vitalt område. Det kreves ikke ordinær sikkerhetsklarering eller politiattest som basis for en slik vurdering. Personer som skal ha tilgang til gradert informasjon, skal sikkerhetsklareres i henhold til bestemmelsene i [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet](lov/2018-06-01-24) med forskrifter.
+
+*Kontrollert område.*
 
 Adgang skal skje gjennom en resepsjon/vaktsentral som skal være bemannet dag og natt. Utenom normal arbeidstid skal inngangsdører være låst.
 
 Private kjøretøyer kan ikke parkeres inne på området uten spesiell tillatelse. Anleggsinnehaver skal da forsikre seg om at det ikke bringes inn uønskede personer eller utstyr som kan representere en fare for anlegget.
+
+*Beskyttet område*
 
 Adgang skal begrenses til autoriserte personer og til personer som ledsages av disse.
 
@@ -158,6 +164,8 @@ Anleggsinnehaveren skal føre et register over personer som har eller gis adgang
 
 Kjøretøy og alt som bringes inn i området, skal kontrolleres for å sikre at det ikke bringes inn uønskede personer eller utstyr som kan representere fare for anlegget.
 
+*Vitalt område*
+
 I tillegg til kravene under beskyttet område gjelder: Ved inn- og utpassering skal personer og pakker kontrolleres med spesielle detektorer supplert med manuell kontroll.
 
 Adgang forutsetter at det alltid er to eller flere personer tilstede i området, eller at det er etablert særlig overvåking.
@@ -165,6 +173,8 @@ Adgang forutsetter at det alltid er to eller flere personer tilstede i området,
 > Endret ved forskrifter [29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008), [21 nov 2025 nr. 2307](forskrift/2025-11-21-2307) (i kraft 1 jan 2026).
 
 ### § 16. Beskyttelses- og alarmsystemer.
+
+*Generelt*
 
 For sikring mot innbrudd og sabotasje skal det etableres et alarmsystem med tilhørende forbindelse til anleggsinnehaverens vaktsentral med helkontinuerlig vakt. Vaktsentralen skal ha direkte forbindelse til politi. Vaktsentralen skal utformes slik at den kan opprettholde sin funksjon også i nærvær av designbasistrussel.
 
@@ -176,9 +186,15 @@ Uavhengige og dublerte overføringslinjer, inklusive uavhengig kraftforsyning, s
 
 Beskrivelsen av disse systemene skal graderes etter sitt innhold, men minimum BEGRENSET i henhold til [lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).
 
+*Kontrollert område*
+
 Bygninger innenfor et slikt område som inneholder nukleært materiale, skal være avlåst utenom arbeidstid. Rom som inneholder nukleært materiale, skal være forsvarlig avlåst når autorisert personell ikke oppholder seg der. Vinduer i rom som inneholder slikt materiale, skal være forsynt med alarm og være fysisk sikret mot inntrengning.
 
+*Beskyttet område*
+
 I tillegg til kravene under kontrollert område gjelder: Den ytre grense for området skal være ryddet, opplyst og forsynt med tilstrekkelig TV-overvåking.
+
+*Vitalt område*
 
 I tillegg til kravene under beskyttet område gjelder: Beskyttelses- og alarmsystemer samt vaktrutiner skal godkjennes av Direktoratet for strålevern og atomsikkerhet etter råd fra Nasjonal sikkerhetsmyndighet. Beskrivelsen av disse systemer skal graderes etter sitt innhold, men minimum konfidensielt i henhold til [lov 20. mars 1998 nr. 10](lov/1998-03-20-10) om sikkerhetstjeneste [§ 11](lov/1998-03-20-10/§11).
 
@@ -220,6 +236,27 @@ Forskriftene trer i kraft straks.
 > Endret ved [forskrift 29 juni 2007 nr. 902](forskrift/2007-06-29-902) (i kraft 1 jan 2008, tidligere § 19).
 
 ## Vedlegg 1. Klassifisering av nukleært materiale
+
+|  |  | Klasse |  |  |
+| --- | --- | --- | --- | --- |
+| Materiale | Form | I | II | III c |
+| 1. Plutonium a | Ubestrålt b | 2 kg eller mer | Mindre en 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
+| 2. Uran-235 | Ubestrålt b |  |  |  |
+|  | -uran anriket til 20% U-235 eller mer | 5 kg eller mer | Mindre enn 5 kg, men mer enn 1 kg | 1 kg eller mindre, men mer enn 15 g |
+|  | -uran anriket til 10% U-235, men mindre enn 20% |  | 10 kg eller mer | Mindre enn 10 kg, men mer enn 1 kg |
+|  | -uran anriket over naturlig nivå, men mindre enn 10% U-235 |  |  | 10 kg eller mer |
+| 3. Uran-233 | Ubestrålt b | 2 kg eller mer | Mindre enn 2 kg, men mer enn 500 g | 500 g eller mindre, men mer enn 15 g |
+| 4. Bestrålt brensel |  |  | Utarmet eller naturlig uran eller lavanriket brensel (mindre enn 10% spaltbart innhold) d e |  |
+
+a All plutonium unntatt plutonium som inneholder mer enn 80 % plutonium-238.
+
+b Materiale som ikke er bestrålt i en reaktor, eller materiale som er bestrålt i en reaktor, men med et strålingsnivå som er likt eller mindre enn 1 gray/time (100 rad/time) på 1 m avstand uten skjerming.
+
+c Mengder som ikke faller inn under klasse III samt naturlig uran, bør beskyttes i samsvar med streng administrasjonspraksis.
+
+d Selv om dette beskyttelsesnivå anbefales, skal det være anledning for stater, etter vurdering av de nærmere omstendigheter, å fastsette et annet klassenivå for fysisk beskyttelse.
+
+e Annet brensel som i kraft av sitt opprinnelige, spaltbare materialinnhold klassifiseres i klasse I og II før bestråling, kan bli gradert ett klassenivå lavere når strålingsnivået fra brenselet overstiger 1 gray/time (100 rad/time) på en meters avstand uten skjerming.
 
 ## VEDLEGG 2. Nivåer for fysisk beskyttelse som skal anvendes ved internasjonal transport av nukleært materiale
 

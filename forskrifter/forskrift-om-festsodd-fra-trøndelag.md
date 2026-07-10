@@ -32,9 +32,15 @@ Produsentsammenslutningen Soddkokeran.
 
 ## § 3. Vilkår for bruk av produktbetegnelsen
 
+1\. *Produktbeskrivelse:*
+
 Festsodd fra Trøndelag er betegnelsen på sodd produsert etter gammel håndverksmessig tradisjon fra bygdene i Innherred. Festsodd fra Trøndelag skal bestå av soddboller laget av fårekjøtt og storfekjøtt, kokt fårekjøtt og storfekjøtt i terninger, soddfett og kjøttkraft. Soddet skal ha en karakteristisk smak av får og muskat.
 
+2\. *Geografisk område:*
+
 Geografisk område for bearbeiding og foredling av Festsodd fra Trøndelag avgrenses til Nord-Trøndelag og Sør-Trøndelag.
+
+3\. *Produksjonsmetode:*
 
 Festsodd fra Trøndelag skal per liter inneholde minimum 250 g soddboller, 120 g kokt kjøtt i terninger, 10 g soddfett og resten kjøttkraft.
 
@@ -45,6 +51,8 @@ Etter at kjøttet er ferdig kokt og tatt ut av kokekaret, skal kjøttkraften til
 Soddboller skal lages av en farse av fårekjøtt, storfekjøtt, helmelk, fløte, salt, muskat og potetmel. Minimum 1/3 av kjøttet skal være fårekjøtt. Farsen skal kappes i passende store boller som trekkes i lettsaltet vann ved ca. 75 °C i noen minutter. Bollene tas opp og avkjøles raskt.
 
 De ulike bestanddelene skal blandes i riktig mengdeforhold i pakning. Soddfett skal fylles på toppen.
+
+4\. *Merking av produktet:*
 
 Festsodd fra Trøndelag kan merkes med teksten og figurmerket for Beskyttet geografisk betegnelse.
 

@@ -74,4 +74,6 @@ Gassapparater og utstyr som bringes i omsetning før 26. juni 2018 og som er i s
 
 Nedenfor gjengis EØS-avtalens vedlegg II kapittel V nr. 4 (forordning [(EU) 2016/426](eu/32016r0426)) med de endringer og tillegg som følger av EØS-tilpasningen av vedkommende rettsakter i henhold til avtalens protokoll 1 mv.:
 
+[(pdf)](static/SF/32016r0426u-01.pdf)
+
 Uoffisiell norsk oversettelse.

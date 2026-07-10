@@ -212,6 +212,16 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 av 3. mars 2021
 om egnetheten av sortsnavn på arter av jordbruksvekster og grønnsaker, og om oppheving av forordning [(EF) nr. 637/2009](eu/32009r0637)
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til rådsdirektiv [2002/53/EF](eu/32002l0053) av 13. juni 2002 om den felles sortsliste for jordbruksvekster1, særlig artikkel 9 nr. 6 andre ledd,
+
+under henvisning til rådsdirektiv [2002/55/EF](eu/32002l0055) av 13. juni 2002 om markedsføring av grønnsakfrø2, særlig artikkel 9 nr. 6 andre ledd, og
+
+ut fra følgende betraktninger:
+
 1. I direktiv [2002/53/EF](eu/32002l0053) og [2002/55/EF](eu/32002l0055) er det fastsatt generelle regler med hensyn til egnetheten av sortsnavn, ved en henvisning til artikkel 63 i rådsforordning [(EF) nr. 2100/94](eu/31994r2100)3.
 2. I henhold til artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) er det nødvendig for at en plantesort skal kunne godkjennes, at Fellesskapets plantesortskontor (CPVO) anser det aktuelle sortsnavnet som egnet. Et sortsnavn er egnet dersom det ikke finnes noen hindringer, i samsvar med nr. 3 og 4 i nevnte artikkel.
 3. I kommisjonsforordning [(EF) nr. 637/2009](eu/32009r0637)4 fastsettes det nærmere regler for anvendelsen av visse kriterier fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) med hensyn til hvor egnet sortsnavn for jordbruksvekster og grønnsaksarter er med henblikk på anvendelsen av artikkel 9 nr. 6 første ledd i direktiv [2002/53/EF](eu/32002l0053) og artikkel 9 nr. 6 første ledd i direktiv [2002/55/EF](eu/32002l0055).
@@ -221,51 +231,65 @@ om egnetheten av sortsnavn på arter av jordbruksvekster og grønnsaker, og om o
 7. For å gi vedkommende myndigheter tilstrekkelig tid til å ta i bruk de nye reglene bør denne forordningen få anvendelse fra 1. januar 2022.
 8. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 193 av 20.7.2002, s. 1.
+
+2 EUT L 193 av 20.7.2002, s. 33.
+
+3 Rådsforordning [(EF) nr. 2100/94](eu/31994r2100) av 27. juli 1994 om EF-planteforedlerrett (EFT L 227 av 1.9.1994, s. 1).
+
+4 Kommisjonsforordning [(EF) nr. 637/2009](eu/32009r0637) av 22. juli 2009 om fastsettelse av gjennomføringsregler med hensyn til hvor egnet sortsnavn for jordbruksvekster og grønnsakarter er (EUT L 191 av 23.7.2009, s. 10).
+
+5 CPVO Guidelines on variety denominations, Meeting 1of the Administrative Council of (2018), DOC-AC-2018-1-7.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Formål
 
 I denne forordningen fastsettes det nærmere regler for anvendelsen av kriteriene fastsatt i artikkel 63 i forordning [(EF) nr. 2100/94](eu/31994r2100) med hensyn til hvor egnet sortsnavn på arter av jordbruksvekster og grønnsaker er med henblikk på anvendelse av artikkel 9 nr. 6 første ledd i direktiv [2002/53/EF](eu/32002l0053) og artikkel 9 nr. 6 første ledd i direktiv [2002/55/EF](eu/32002l0055).
 
 ### Artikkel 2. Egnetheten av sortsnavn
 
-1. Et sortsnavn skal anses som egnet dersom det ikke finnes noen hindring for tildelingen av det.
+1\. Et sortsnavn skal anses som egnet dersom det ikke finnes noen hindring for tildelingen av det.
 
-2. Det foreligger en hindring for tildelingen av et sortsnavn dersombruken av sortsnavnet på Unionens territorium hindres av at en tredjepart som har en eldre rettighet har gjort innvendinger og fått medhold i disse, som fastsatt i artikkel 3 nr. 1, ►**EØS** eller bruken av et sortsnavn på EFTA-statenes territorier hindres i henhold til den aktuelle EFTA-statens nasjonale regelverk om en tredjeparts eldre rettigheter, ◄**EØS**sortsnavnet er i strid med geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter, som fastsatt i artikkel 3 nr. 2,sortsnavnet kan være vanskelig for brukerne å kjenne igjen eller gjengi, som fastsatt i artikkel 4,sortsnavnet er identisk med eller vil kunne forveksles med et sortsnavn som en annen sort av samme eller en nært beslektet art er oppført med i et offisielt register over plantesorter eller under hvilket en annen sorts materiale er blitt markedsført, som fastsatt i artikkel 5,sortsnavnet vil kunne skape forvirring med hensyn til visuell, fonetisk eller begrepsmessig likhet med navnet på en sort av samme eller nært beslektet art, som fastsatt i artikkel 5,sortsnavnet er identisk med eller vil kunne forveksles med andre betegnelser som er vanlig i bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk, som fastsatt i artikkel 6,sortsnavnet vil kunne villede eller skape forvirring, som fastsatt i artikkel 7.
+2\. Det foreligger en hindring for tildelingen av et sortsnavn dersombruken av sortsnavnet på Unionens territorium hindres av at en tredjepart som har en eldre rettighet har gjort innvendinger og fått medhold i disse, som fastsatt i artikkel 3 nr. 1, ►**EØS** eller bruken av et sortsnavn på EFTA-statenes territorier hindres i henhold til den aktuelle EFTA-statens nasjonale regelverk om en tredjeparts eldre rettigheter, ◄**EØS**sortsnavnet er i strid med geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter, som fastsatt i artikkel 3 nr. 2,sortsnavnet kan være vanskelig for brukerne å kjenne igjen eller gjengi, som fastsatt i artikkel 4,sortsnavnet er identisk med eller vil kunne forveksles med et sortsnavn som en annen sort av samme eller en nært beslektet art er oppført med i et offisielt register over plantesorter eller under hvilket en annen sorts materiale er blitt markedsført, som fastsatt i artikkel 5,sortsnavnet vil kunne skape forvirring med hensyn til visuell, fonetisk eller begrepsmessig likhet med navnet på en sort av samme eller nært beslektet art, som fastsatt i artikkel 5,sortsnavnet er identisk med eller vil kunne forveksles med andre betegnelser som er vanlig i bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk, som fastsatt i artikkel 6,sortsnavnet vil kunne villede eller skape forvirring, som fastsatt i artikkel 7.
 
 ### Artikkel 3. Eldre rettighet som tilhører tredjepart
 
-1. Det foreligger en hindring som følge av en tredjeparts eldre rettighet når en tredjepart som er innehaver av et varemerke, gjør innvendinger mot tildelingen av sortsnavnet på Unionens territorium og får medhold i disse innvendingene fra en vedkommende myndighet. Denne hindringen gjelder varemerker somer registrert i en eller flere medlemsstater eller i Unionen før registreringen av sortsnavnet,er identisk med eller ligner sortsnavnet, oger registrert i forbindelse med varer som består av identiske eller nært beslektede arter av den aktuelle sorten.
+1\. Det foreligger en hindring som følge av en tredjeparts eldre rettighet når en tredjepart som er innehaver av et varemerke, gjør innvendinger mot tildelingen av sortsnavnet på Unionens territorium og får medhold i disse innvendingene fra en vedkommende myndighet. Denne hindringen gjelder varemerker somer registrert i en eller flere medlemsstater eller i Unionen før registreringen av sortsnavnet,er identisk med eller ligner sortsnavnet, oger registrert i forbindelse med varer som består av identiske eller nært beslektede arter av den aktuelle sorten.
 
-2. Dersom en tredjepart har en eldre rettighet til geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler, alkoholsterke drikker, aromatiserte viner og vinprodukter, anses det som en hindring for bruken av et sortsnavn på Unionens territorium når sortsnavnet vil være i strid medartikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)6,artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)7,artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)8,artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)9.►**EØS** Det samme gjelder for EFTA-statene når det gjelder bestemmelsene listet i punkt b til d. Når det gjelder bestemmelsene i punkt a, skal et sortsnavn på EFTA-statenes territorier hindres når sortsnavnet ville være i strid med tilsvarende nasjonale bestemmelser i EFTA-statene som gjelder geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler. ◄**EØS**
+2\. Dersom en tredjepart har en eldre rettighet til geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler, alkoholsterke drikker, aromatiserte viner og vinprodukter, anses det som en hindring for bruken av et sortsnavn på Unionens territorium når sortsnavnet vil være i strid medartikkel 13 eller 24 i europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151)6,artikkel 103 i europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308)7,artikkel 20 i europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251)8,artikkel 21 nr. 2 i europaparlaments- og rådsforordning [(EU) nr. 2019/787](eu/32019r0787)9.►**EØS** Det samme gjelder for EFTA-statene når det gjelder bestemmelsene listet i punkt b til d. Når det gjelder bestemmelsene i punkt a, skal et sortsnavn på EFTA-statenes territorier hindres når sortsnavnet ville være i strid med tilsvarende nasjonale bestemmelser i EFTA-statene som gjelder geografiske betegnelser, opprinnelsesbetegnelser eller garanterte tradisjonelle spesialiteter for landbruksprodukter og næringsmidler. ◄**EØS**
 
-3. En hindring for egnetheten av et sortsnavn som følge av en eldre rettighet som nevnt i første ledd, skal ►**EØS** i Unionen ◄**EØS** bortfalle dersom det foreligger en skriftlig tillatelse fra innehaveren av den eldre rettigheten til å anvende sortsnavnet på den aktuelle sorten, forutsatt at tillatelsen ikke kan villede offentligheten med hensyn til produktets virkelige opprinnelse. ►**EØS** Når det gjelder EFTA-statene, vil et sortsnavn kunne hindres av en tredjeparts eldre rettighet i henhold til nasjonalt regelverk i EFTA-statene. ◄**EØS**
+3\. En hindring for egnetheten av et sortsnavn som følge av en eldre rettighet som nevnt i første ledd, skal ►**EØS** i Unionen ◄**EØS** bortfalle dersom det foreligger en skriftlig tillatelse fra innehaveren av den eldre rettigheten til å anvende sortsnavnet på den aktuelle sorten, forutsatt at tillatelsen ikke kan villede offentligheten med hensyn til produktets virkelige opprinnelse. ►**EØS** Når det gjelder EFTA-statene, vil et sortsnavn kunne hindres av en tredjeparts eldre rettighet i henhold til nasjonalt regelverk i EFTA-statene. ◄**EØS**
 
-4. Dersom søkeren har en eldre rettighet til hele eller deler av det foreslåtte sortsnavnet, gjelder artikkel 18 nr. 1 i forordning [(EF) nr. 2100/94](eu/31994r2100) tilsvarende med nødvendige endringer. ►**EØS** Dette får ikke anvendelse for EFTA-statene. ◄**EØS**
+4\. Dersom søkeren har en eldre rettighet til hele eller deler av det foreslåtte sortsnavnet, gjelder artikkel 18 nr. 1 i forordning [(EF) nr. 2100/94](eu/31994r2100) tilsvarende med nødvendige endringer. ►**EØS** Dette får ikke anvendelse for EFTA-statene. ◄**EØS**
+
+6 Europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151) av 21. november 2012 om kvalitetsordninger for landbruksvarer og næringsmidler (EUT L 343 av 14.12.2012, s. 1).7 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), [(EØF) nr. 234/79](eu/31979r0234), [(EF) nr. 1037/2001](eu/32001r1037) og [(EF) nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).8 Europaparlaments- og rådsforordning [(EU) nr. 251/2014](eu/32014r0251) av 26. februar 2014 om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på aromatiserte vinprodukter og om oppheving av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601) (EUT L 84 av 20.3.2014, s. 14).9 Europaparlaments- og rådsforordning [(EU) 2019/787](eu/32019r0787) av 17. april 2019 om definisjon, beskrivelse, presentasjon og merking av alkoholsterke drikker, bruk av navnene på alkoholsterke drikker i presentasjonen og merkingen av andre næringsmidler, beskyttelse av geografiske betegnelser for alkoholsterke drikker, bruk av landbruksetanol og landbruksdestillater i alkoholholdige drikker og om oppheving av forordning [(EF) nr. 110/2008](eu/32008r0110) (EUT L 130 av 17.5.2019, s. 1).
 
 ### Artikkel 4. Sortsnavnet er vanskelig å kjenne igjen eller gjengi
 
-1. Det foreligger en hindring på grunn av vanskeligheter med hensyn til gjenkjennelse eller gjengivelse av et sortsnavn dersom sortsnavnet er vanskelig for brukerne å kjenne igjen eller gjengi.
+1\. Det foreligger en hindring på grunn av vanskeligheter med hensyn til gjenkjennelse eller gjengivelse av et sortsnavn dersom sortsnavnet er vanskelig for brukerne å kjenne igjen eller gjengi.
 
-2. Sortsnavnet skal anses som vanskelig for brukerne å kjenne igjen eller gjengi i følgende tilfeller:Det består av eller inneholder komparativer eller superlativer.Det består av eller inneholder det botaniske navnet på en art innenfor den gruppen av enten jordbruksvekster eller grønnsakarter som sorten tilhører.Det består av eller inneholder avlstermer og tekniske termer, med mindre disse termene sammen med andre termer ikke hindrer gjenkjennelse av sortsnavnet.Det består utelukkende av et geografisk navn som er blitt kjent for den aktuelle arten.Det består av én enkelt bokstav, ett enkelt tall eller bare tall, med mindre dette utgjør en etablert praksis for å betegne visse sorter.Det består av eller inneholder for mange ord eller elementer, med mindre ordlyden gjør at det lett kan kjennes igjen.Det inneholder et skilletegn eller et annet symbol, en blanding av store og små bokstaver (unntatt når den første bokstaven er stor og de resterende små), senket skrift, hevet skrift eller en tegning eller en figur (unntatt symbolene apostrof (’), komma (,), inntil to ikke-tilstøtende utropstegn (!), punktum (.), bindestrek (-), skråstrek (/) eller omvendt skråstrek (\)).Det inneholder eller består av senket skrift, hevet skrift eller en tegning, en logo eller en figur.
+2\. Sortsnavnet skal anses som vanskelig for brukerne å kjenne igjen eller gjengi i følgende tilfeller:Det består av eller inneholder komparativer eller superlativer.Det består av eller inneholder det botaniske navnet på en art innenfor den gruppen av enten jordbruksvekster eller grønnsakarter som sorten tilhører.Det består av eller inneholder avlstermer og tekniske termer, med mindre disse termene sammen med andre termer ikke hindrer gjenkjennelse av sortsnavnet.Det består utelukkende av et geografisk navn som er blitt kjent for den aktuelle arten.Det består av én enkelt bokstav, ett enkelt tall eller bare tall, med mindre dette utgjør en etablert praksis for å betegne visse sorter.Det består av eller inneholder for mange ord eller elementer, med mindre ordlyden gjør at det lett kan kjennes igjen.Det inneholder et skilletegn eller et annet symbol, en blanding av store og små bokstaver (unntatt når den første bokstaven er stor og de resterende små), senket skrift, hevet skrift eller en tegning eller en figur (unntatt symbolene apostrof (’), komma (,), inntil to ikke-tilstøtende utropstegn (!), punktum (.), bindestrek (-), skråstrek (/) eller omvendt skråstrek (\\)).Det inneholder eller består av senket skrift, hevet skrift eller en tegning, en logo eller en figur.
 
 ### Artikkel 5. Sortsnavn som er identisk med eller kan forveksles med navnet på en annen sort
 
-1. Det foreligger en hindring for tildelingen av et sortsnavn dersom det er identisk med eller kan forveksles medet sortsnavn under hvilket en annen sort av samme eller en nært beslektet art er oppført i et offisielt sortsregister, elleret sortsnavn under hvilket en annen sorts materiale er blitt markedsført i en medlemsstat eller på territoriet til en avtalepart i Den internasjonale union for vern av nye plantesorter (UPOV),unntatt dersom den andre sorten er en sort som ikke lenger finnes og der navnet ikke har fått en særskilt betydning.
+1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom det er identisk med eller kan forveksles medet sortsnavn under hvilket en annen sort av samme eller en nært beslektet art er oppført i et offisielt sortsregister, elleret sortsnavn under hvilket en annen sorts materiale er blitt markedsført i en medlemsstat eller på territoriet til en avtalepart i Den internasjonale union for vern av nye plantesorter (UPOV),unntatt dersom den andre sorten er en sort som ikke lenger finnes og der navnet ikke har fått en særskilt betydning.
 
-2. For å fastslå om det foreligger fare for forveksling i henhold til første ledd skal vedkommende myndighet først analysere hvert av de visuelle, fonetiske og begrepsmessige aspektene separat og deretter foreta en samlet vurdering hvor den også tar hensyn til sortsnavn for samme eller en nært beslektet art, forutsatt at sortene nevnt i dette nummer og i første ledd enten er omfattet av en planteforedlerrett eller en søknad om dette, eller offisielt er blitt godkjente for markedsføring på et av følgende territorier:Unionen.Det europeiske økonomiske samarbeidsområde.En avtalepart i UPOV.Et medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD).
+2\. For å fastslå om det foreligger fare for forveksling i henhold til første ledd skal vedkommende myndighet først analysere hvert av de visuelle, fonetiske og begrepsmessige aspektene separat og deretter foreta en samlet vurdering hvor den også tar hensyn til sortsnavn for samme eller en nært beslektet art, forutsatt at sortene nevnt i dette nummer og i første ledd enten er omfattet av en planteforedlerrett eller en søknad om dette, eller offisielt er blitt godkjente for markedsføring på et av følgende territorier:Unionen.Det europeiske økonomiske samarbeidsområde.En avtalepart i UPOV.Et medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD).
 
-3. I denne artikkelen menes med«nært beslektet art» artene oppført i vedlegget,«offisielt sortsregister» en henvisning til den felles sortsliste for jordbruksvekster eller for grønnsakarter, nevnt i artikkel 17 i direktiv [2002/53/EF](eu/32002l0053) eller i artikkel 17 i direktiv [2002/55/EF](eu/32002l0055), til OECDs sortsliste eller til et plantesortsregister hos et UPOV-medlem,«en sort som ikke lenger finnes» en sort hvis materiale ikke lenger finnes,«en sort der navnet ikke har fått en særskilt betydning» en situasjon der et sortsnavn som er blitt oppført i et offisielt sortsregister anses å ha mistet sin særskilte betydning ti år etter at sorten ble slettet fra registeret, med mindre det foreligger særlige omstendigheter.
+3\. I denne artikkelen menes med«nært beslektet art» artene oppført i vedlegget,«offisielt sortsregister» en henvisning til den felles sortsliste for jordbruksvekster eller for grønnsakarter, nevnt i artikkel 17 i direktiv [2002/53/EF](eu/32002l0053) eller i artikkel 17 i direktiv [2002/55/EF](eu/32002l0055), til OECDs sortsliste eller til et plantesortsregister hos et UPOV-medlem,«en sort som ikke lenger finnes» en sort hvis materiale ikke lenger finnes,«en sort der navnet ikke har fått en særskilt betydning» en situasjon der et sortsnavn som er blitt oppført i et offisielt sortsregister anses å ha mistet sin særskilte betydning ti år etter at sorten ble slettet fra registeret, med mindre det foreligger særlige omstendigheter.
 
 ### Artikkel 6. Betegnelser som er i vanlig bruk ved markedsføring av varer
 
-1. Det foreligger en hindring for tildelingen av et sortsnavn dersom sortsnavnet er identisk med eller kan forveksles med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk.
+1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom sortsnavnet er identisk med eller kan forveksles med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som må holdes frie i henhold til annet regelverk.
 
-2. Med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som i henhold til annet regelverk ikke skal brukes, menesvalutabetegnelser,begreper forbundet med vekt og mål,uttrykk og betegnelser som ikke er tillatt brukt til andre formål enn de som er fastsatt i Unionens eller en medlemsstats regelverk.
+2\. Med betegnelser som er i vanlig bruk ved markedsføring av varer, eller som i henhold til annet regelverk ikke skal brukes, menesvalutabetegnelser,begreper forbundet med vekt og mål,uttrykk og betegnelser som ikke er tillatt brukt til andre formål enn de som er fastsatt i Unionens eller en medlemsstats regelverk.
 
 ### Artikkel 7. Villedende innhold
 
-1. Det foreligger en hindring for tildelingen av et sortsnavn dersom det vil kunne villede eller skape forvirring med hensyn til sortens egenskaper, verdi eller identitet, dyrkerens identitet eller identiteten til en annen part i saken.
+1\. Det foreligger en hindring for tildelingen av et sortsnavn dersom det vil kunne villede eller skape forvirring med hensyn til sortens egenskaper, verdi eller identitet, dyrkerens identitet eller identiteten til en annen part i saken.
 
-2. Sortsnavnet anses å kunne villede eller skape forvirring dersomdet gir et falskt inntrykk av at sorten er beslektet med eller avledet fra en annen særskilt sort,det gir et falskt inntrykk av at sorten har en bestemt egenskap eller verdi,det viser til en bestemt egenskap eller verdi på en måte som gir et falskt inntrykk av at bare denne sorten har denne bestemte egenskapen eller verdien, til tross for at andre sorter av den samme arten også kan ha den,det har likheter med et velkjent handelsnavn som ikke er et registrert varemerke eller sortsnavn,det antyder at sorten er en annen,det gir et falskt inntrykk med hensyn til identiteten til søkeren, identiteten til den ansvarlige for sortsvedlikeholdet eller identiteten til planteforedleren,det består av eller inneholderkomparativer eller superlativer som kan være villedende med hensyn til sortens egenskaper,det botaniske eller vanlige navnet på en art innenfor den gruppe av enten jordbruksvekster eller grønnsakarter som sorten tilhører,navnet på en fysisk eller juridisk person eller en henvisning til en slik, som gir et falskt inntrykk med hensyn til identiteten til søkeren, til den ansvarlige for sortsvedlikeholdet eller til planteforedleren,det omfatter et geografisk navn som kan villede brukeren med hensyn til sortens egenskaper, dyrkingsverdi eller bruk.
+2\. Sortsnavnet anses å kunne villede eller skape forvirring dersomdet gir et falskt inntrykk av at sorten er beslektet med eller avledet fra en annen særskilt sort,det gir et falskt inntrykk av at sorten har en bestemt egenskap eller verdi,det viser til en bestemt egenskap eller verdi på en måte som gir et falskt inntrykk av at bare denne sorten har denne bestemte egenskapen eller verdien, til tross for at andre sorter av den samme arten også kan ha den,det har likheter med et velkjent handelsnavn som ikke er et registrert varemerke eller sortsnavn,det antyder at sorten er en annen,det gir et falskt inntrykk med hensyn til identiteten til søkeren, identiteten til den ansvarlige for sortsvedlikeholdet eller identiteten til planteforedleren,det består av eller inneholderkomparativer eller superlativer som kan være villedende med hensyn til sortens egenskaper,det botaniske eller vanlige navnet på en art innenfor den gruppe av enten jordbruksvekster eller grønnsakarter som sorten tilhører,navnet på en fysisk eller juridisk person eller en henvisning til en slik, som gir et falskt inntrykk med hensyn til identiteten til søkeren, til den ansvarlige for sortsvedlikeholdet eller til planteforedleren,det omfatter et geografisk navn som kan villede brukeren med hensyn til sortens egenskaper, dyrkingsverdi eller bruk.
 
 ### Artikkel 8. Oppheving av forordning (EF) nr. 637/2009
 
@@ -279,9 +303,9 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 1. januar 2022.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 3. mars 2021.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 3. mars 2021.*For Kommisjonen*
+Ursula von der Leyen
+*President*
 
 ### VEDLEGG
 Definisjon av nært beslektede arter i henhold til artikkel 5 nr. 3
@@ -291,5 +315,29 @@ Med hensyn til definisjonen av «nært beslektet art» i henhold til artikkel 5 
 ### DEL I
 KLASSER SOM INNGÅR I EN SLEKT
 
+| *Klasser* | *Botaniske navn* |
+| --- | --- |
+| Klasse 1.1: | *Brassica oleracea* |
+| Klasse 1.2: | *Brassica*, unntatt *Brassica oleracea* |
+| Klasse 2.1: | *Beta vulgaris* L. var. *alba* DC., *Beta vulgaris* L. var. *altissima* |
+| Klasse 2.2: | *Beta vulgaris* ssp. *vulgaris* var. *conditiva* Alef. (syn.: B. *vulgaris* L. var. *rubra* L.), B. *vulgaris* L. var. *cicla* L., B. *vulgaris* L. ssp. *vulgaris* var. *vulgaris*. |
+| Klasse 2.3: | *Beta*, unntatt klasse 2.1 og 2.2 |
+| Klasse 3.1: | *Cucumis sativus* |
+| Klasse 3.2: | *Cucumis melo* |
+| Klasse 3.3: | *Cucumis*, unntatt klasse 3.1 og 3.2 |
+| Klasse 4.1: | *Solanum tuberosum* L. |
+| Klasse 4.2: | Tomat og tomatgrunnstammer:<br>– *Solanum lycopersicum* L. (*Lycopersicon esculentum* Mill.)<br>– *Solanum cheesmaniae* (L. Ridley) Fosberg (*Lycopersicon cheesmaniae* L. Riley)<br>– *Solanum chilense* (Dunal) Reiche (*Lycopersicon chilense* Dunal)<br>– *Solanum chmielewskii* (C.M. Rick et al.) D.M. Spooner et al. (*Lycopersicon chmielewskii* C.M. Rick et al.)<br>– *Solanum galapagense* S.C. Darwin & Peralta (*Lycopersicon cheesmaniae* f. minor (Hook. f.) C.H. Müll.) (*Lycopersicon cheesmaniae* var. minor (Hook. f.) D.M. Porter)<br>– *Solanum habrochaites* S. Knapp & D.M. Spooner (*Lycopersicon agrimoniifolium* Dunal) (*Lycopersicon hirsutum* Dunal) (*Lycopersicon hirsutum* f. *glabratum* C.H. Müll.)<br>– *Solanum pennellii* Correll (*Lycopersicon pennellii* (Correll) D’Arcy)<br>– *Solanum peruvianum* L. (*Lycopersicon dentatum* Dunal) (*Lycopersicon peruvianum* (L.) Mill.)<br>– *Solanum pimpinellifolium* L. (*Lycopersicon pimpinellifolium* (L.) Mill.) (*Lycopersicon racemigerum* Lange)<br>og hybrider mellom disse artene |
+| Klasse 4.3: | *Solanum melongena* L. |
+| Klasse 4.4: | *Solanum* unntatt klasse 4.1, 4.2 og 4.3 |
+
 ### DEL II
 KLASSER SOM OMFATTER MER ENN ÉN SLEKT
+
+| *Klasser* | *Botaniske navn* |
+| --- | --- |
+| Klasse 201: | *Secale*, *Triticosecale*, *Triticum* |
+| Klasse 203\*: | *Agrostis*, *Dactylis*, *Festuca*, *Festulolium*, *Lolium*, *Phalaris*, *Phleum* og *Poa* |
+| Klasse 204\*: | *Lotus*, *Medicago*, *Ornithopus*, *Onobrychis*, *Trifolium* |
+| Klasse 205: | *Cichorium*, *Lactuca* |
+
+\* Klasse 203 og 204 er ikke utelukkende fastsatt på grunnlag av nært beslektede arter.

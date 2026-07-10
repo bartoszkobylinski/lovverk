@@ -24,7 +24,7 @@ eu_basis: []
 
 Vedlegg 1 til 3 (illustrasjoner) gjelder som forskrift.
 
-(Bestemmelser som er merket med * under teksten har veiledende materiale i BSL E del 2.)
+(Bestemmelser som er merket med \* under teksten har veiledende materiale i BSL E del 2.)
 
 ## § 1. Formål
 
@@ -34,7 +34,7 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 Denne forskrift gjelder for utforming av og utstyr på flyplass som skal godkjennes for trafikk med landfly med tillatt startmasse inntil 5.700 kg, jf. [luftfartslovens § 7-11](lov/1993-06-11-101/§7-11) og [forskrift av 30. oktober 2001 nr. 1231](forskrift/2001-10-30-1231) om krav til teknisk/operativ godkjenning av flyplasser (BSL E 1-2).
 
-*
+\*
 
 ## § 3. Tilleggskrav
 
@@ -50,7 +50,7 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 ## § 5. Krav til rullebane
 
-(1) *Lengde**Generelt*En rullebanes nominelle lengde fastsettes ut fra den banelengde som kreves av dimensjonerende luftfartøy. Dimensjonerende luftfartøy fastsettes av flyplassens innehaver og skal som hovedregel være det luftfartøy som krever størst banelengde og som trafikkerer flyplassen regelmessig.Den nominelle banelengden skal korrigeres for flyplassens høyde over havet, banens helning og rullemotstand.For hver meter flyplassen ligger over havoverflaten, økes den nominelle banelengden med 0,025%.Den banelengde som da fremkommer økes med 10% for hver prosent langsgående gjennomsnittshelning (stigning). Denne banelengden skal igjen korrigeres for rullemotstand dersom overflaten ikke er fast (betong, asfalt eller fast grus). Når overflaten er kortklippet tørt gress (5-10 cm) skal banelengden økes med 10%.*Minimumslengde*Flyplasser som skal ha base for skoleflyging med motorfly eller ervervsmessig trafikk med betalende passasjerer, skal ha rullebanelengde på minimum 550 m.*
+(1) *Lengde**Generelt*En rullebanes nominelle lengde fastsettes ut fra den banelengde som kreves av dimensjonerende luftfartøy. Dimensjonerende luftfartøy fastsettes av flyplassens innehaver og skal som hovedregel være det luftfartøy som krever størst banelengde og som trafikkerer flyplassen regelmessig.Den nominelle banelengden skal korrigeres for flyplassens høyde over havet, banens helning og rullemotstand.For hver meter flyplassen ligger over havoverflaten, økes den nominelle banelengden med 0,025%.Den banelengde som da fremkommer økes med 10% for hver prosent langsgående gjennomsnittshelning (stigning). Denne banelengden skal igjen korrigeres for rullemotstand dersom overflaten ikke er fast (betong, asfalt eller fast grus). Når overflaten er kortklippet tørt gress (5-10 cm) skal banelengden økes med 10%.*Minimumslengde*Flyplasser som skal ha base for skoleflyging med motorfly eller ervervsmessig trafikk med betalende passasjerer, skal ha rullebanelengde på minimum 550 m.\*
 
 (2) *Bredde*En rullebane skal ha bredde på minimum 10 m.Flyplasser som skal ha base for skoleflyging med motorfly eller ervervsmessig trafikk med betalende passasjerer, skal ha rullebane med bredde minimum 18 m.
 
@@ -78,7 +78,7 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 (1) *Fjerning av hinder*Innenfor sikkerhetsområdet skal alle faste objekter fjernes unntatt de som må være der på grunn av sin funksjon for flytrafikken, f.eks. vindpølse, belysning og merking. Slike objekter skal være utformet slik at skader på luftfartøy reduseres i størst mulig grad.Alle hinder som gjennomtrenger hinderflatene skal i utgangspunktet fjernes.Alle hinder som gjennomtrenger hinderflatene, som ikke kan fjernes, skal være gjenstand for en risikoanalyse. Ved risikoanalysen skal det vurderes hvilken flysikkerhetsmessig risiko hinderet/hindrene representerer samt hvilke kompenserende tiltak som eventuelt må treffes. Kompenserende tiltak fastsettes av Luftfartstilsynet i forbindelse med godkjenningen av flyplassen, og skal fremgå av godkjenningsdokumentet.Kompenserende tiltak kan som eksempel være, men er ikke begrenset til:Endring av hinderets høyde, masse og brekkbarhetBegrensinger på hvilke banelengder som kan kunngjøresBegrensinger på hvilke luftfartøyer som kan bruke plassenBegrensinger på trafikkmengdenSærlige krav til operatører og fartøysjefer som kan bruke plassen.Alle faste hinder som ikke kan fjernes, skal kunngjøres, jf. [§ 13](forskrift/2002-12-03-1382/§13) femte ledd og eventuelt merkes, jf. [§ 8](forskrift/2002-12-03-1382/§8) annet ledd, og eventuelt belyses, jf. [§ 10](forskrift/2002-12-03-1382/§10) sjette ledd.
 
-(2) *Merking av hinder*Alle faste hinder som ikke kan fjernes skal merkes dersom ikke hinderet har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.**Fargemerking av hinder*Faste hinder som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.Hinder skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.*Hinder som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.*Lysmerking av hinder*Hinder skal lysmerkes i henhold til bestemmelsene i kapittel 10.
+(2) *Merking av hinder*Alle faste hinder som ikke kan fjernes skal merkes dersom ikke hinderet har en utforming eller farge som gjør at det skiller seg klart fra omgivelsene og er godt synlig sett fra luftfartøy.\**Fargemerking av hinder*Faste hinder som skal merkes, skal merkes med kontrastfarger, f.eks. i rødt og hvitt eller oransje og hvitt.Hinder skal merkes i rutemønster eller båndmønster eller på annen hensiktsmessig måte. Rutenes og båndenes størrelse skal tilpasses hinderets størrelse.\*Hinder som er mindre enn 1,5 m både horisontalt og vertikalt, skal merkes ensfarget rødt eller oransje.*Lysmerking av hinder*Hinder skal lysmerkes i henhold til bestemmelsene i kapittel 10.
 
 ## § 9. Krav til merking av rullebaner, taksebaner mv.
 
@@ -100,7 +100,7 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 (1) *Generelt*Flyplass som skal brukes i mørke, skal minst ha følgende lysanlegg:RullebanekantlysTerskellysBaneendelys.Flyplass skal dessuten ha andre lysanlegg enn de som fremgår av denne forskrift dersom det er nødvendig av hensyn til flysikkerheten, jf. [§ 3](forskrift/2002-12-03-1382/§3). Slike andre lysanlegg skal i tilfelle være i samsvar med kravene til lysanlegg gitt i forskrift om utforming av store flyplasser av [17. desember 2000 nr. 1538](forskrift/2000-12-17-1538) (BSL E 3-2).Lysintensiteten på lysanlegg skal være tilpasset de laveste sikt- og lysforhold flyplassen kan brukes under.Lys i nærheten av flyplass som kan medføre fare for flysikkerheten, skal fjernes eller endres slik at de ikke medfører fare.Lysarmaturer på bakken skal ha så liten masse som mulig og de skal være brekkbare. Lysarmaturene skal være så lave som mulig og ha tilstrekkelig klaring til propeller, motorer o.l. på de luftfartøyer som trafikkerer flyplassen. Høyden på armaturer plassert ved banekanten skal ikke overstige 0,35 m.
 
-(2) *Lysfyr**Generelt*Flyplass skal ha lysfyr når visuell leding fra lang avstand er nødvendig og ikke tilgjengelig på annen måte.*Plassering*Lysfyr skal plasseres på eller i nærheten av flyplassen, og det skal plasseres slik at det er synlig i alle retninger og slik at det ikke blender.*Utforming*Lysfyr skal gi vekselvis hvite og grønne lysblink eller bare hvite lysblink. Blinkfrekvensen skal være mellom 20 og 30 i minuttet, og lysblinkenes lengde skal ikke være lengre enn 0,5 sek. Lysblinkenes intensitet skal være tilstrekkelig til at hensikten oppnås.*
+(2) *Lysfyr**Generelt*Flyplass skal ha lysfyr når visuell leding fra lang avstand er nødvendig og ikke tilgjengelig på annen måte.*Plassering*Lysfyr skal plasseres på eller i nærheten av flyplassen, og det skal plasseres slik at det er synlig i alle retninger og slik at det ikke blender.*Utforming*Lysfyr skal gi vekselvis hvite og grønne lysblink eller bare hvite lysblink. Blinkfrekvensen skal være mellom 20 og 30 i minuttet, og lysblinkenes lengde skal ikke være lengre enn 0,5 sek. Lysblinkenes intensitet skal være tilstrekkelig til at hensikten oppnås.\*
 
 (3) *Rullebanekantlys**Generelt*Rullebane som skal brukes i mørke, skal ha rullebanekantlys.*Plassering*Rullebanekantlys skal plasseres i hele banens lengde i to parallelle rader, symmetrisk om rullebanens senterlinje. Lysradene skal plasseres langs rullebanekanten. Kantlysene kan plasseres inntil 3 m utenfor kanten dersom kanten er merket, jf. [§ 9](forskrift/2002-12-03-1382/§9) sjette ledd.*Utforming*Rullebanekantlys skal plasseres med jevn avstand, og avstanden skal ikke overstige 100 m. Lysene på motsatt side av senterlinjen skal plasseres parvis rett overfor hverandre. Rullebanekantlys kan forskyves eller utelates der rullebane tilslutter taksebane eller annen rullebane under forutsetning av at tilstrekkelig sikkerhet opprettholdes.Rullebanekantlys skal gi fast hvitt lys med følgende unntak:Ved innflyttet terskel skal lysene mellom rullebanens begynnelse og den innflyttede terskel gi rødt lys i innflygingsretningen.Rullebanekantlysene ved midtmerkingen, jf. [§ 9](forskrift/2002-12-03-1382/§9) femte ledd, skal gi gult lys.Rullebanekantlys skal være rundtstrålende, og de skal være synlige i alle vertikalvinkler opp til minst 15° over horisontalplanet.Rullebanekantlys skal ha tilstrekkelig intensitet til å være godt synlige fra luftfartøy under start og landing under de sikt- og lysforhold rullebanen skal kunne brukes.
 
@@ -110,7 +110,7 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 (6) *Hinderlys**Generelt*Alle hinder, jf. [§ 8](forskrift/2002-12-03-1382/§8), skal enten flombelyses eller påmonteres hinderlys dersom flyplassen skal brukes i mørke.Hinderlys skal være fast eller blinkende og av type lavintensitets eller mellomintensitets.Mellomintensitets hinderlys skal brukes dersom lavintensitets lys er utilstrekkelige eller spesielt varsel er nødvendig.Er det flere blinkende hinderlys på samme hinder, skal de blinke samtidig.*Plassering*Flombelysning av hinder skal plasseres slik at hele hinderet blir belyst og slik at flygeren ikke blendes.Et eller flere faste hinderlys skal plasseres på toppen av hinderet. Lysene skal plasseres slik at de markerer det punkt eller den kant som ligger høyest i forhold til hinderflaten. Dersom hinderet er en skorstein som kan medføre korrosjon eller belegg på armaturglassene, skal hinderlysene plasseres inntil 3 m under toppen.Dersom hinderet rager mer enn 15 m over hinderflaten, skal hinderlys også plasseres der hinderet gjennomtrenger hinderflaten. Dersom hinderet rager mer enn 45 m over hinderflaten, skal ytterligere hinderlys plasseres slik at den vertikale avstanden mellom hinderlysene ikke overstiger 45 m.Dersom hinderet har stor utstrekning, f.eks. en bygning eller en høyde, skal flere hinderlys plasseres på hinderets høyeste kanter samt på underliggende nivåer for å markere utstrekningen av hinderet. Dersom det brukes lavintensitets lys, skal avstanden mellom lysene horisontalt ikke overstige 90 m og vertikalt ikke overstige 45 m. Dersom det brukes mellomintensitets lys, skal avstanden mellom lysene horisontalt ikke overstige 900 m.Antall og plassering av hinderlys skal være slik at hinderet blir synlig fra alle retninger horisontalt og synlig vertikalt fra de luftfartøy som bruker flyplassen. Dersom et hinderlys på noen måte blir skjult, skal ekstra lys plasseres i nødvendig utstrekning.*Utforming*Flomlys for hinder skal gi hinderet en luminans slik at hinderet er tydelig synlig under de sikt- og lysforhold flyplassen kan brukes under.Lavintensitets hinderlys skal gi fast rødt lys. Lysintensiteten skal være slik at lyset er tydelig synlig mot eventuell bakgrunnbelysning. Lavintensitets hinderlys skal være rundtstrålende, og i vertikalplanet skal de ha en åpningsvinkel på minst 35° over og minst 10° under horisontalplanet.Mellomintensitets hinderlys skal gi blinkende rødt lys. Blinkfrekvensen skal være mellom 20 og 60 pr. minutt, og blinkenes effektive lysintensitet skal ikke være mindre enn 2.000 cd rødt lys.
 
-(7) *Taksebanekantlys**Generelt*På flyplasser som skal ha skoleflyging med motorfly eller ervervsmessig flyging med betalende passasjerer, skal oppstillingsplattform og taksebane som skal brukes i mørke, ha taksebanekantlys.**Plassering*Taksebanekantlys skal plasseres langs kanten av taksebanen og oppstillingsplattformen. Kantlysene kan plasseres inntil 3 m utenfor kanten dersom kanten er merket, jf. [§ 9](forskrift/2002-12-03-1382/§9) sjuende ledd.Taksebanekantlys skal plasseres i rett linje med jevn avstand og slik at kanten av taksebanen eller plattformen blir tydelig angitt. Avstanden mellom lysene skal ikke overstige 60 m. I kurver skal avstanden reduseres slik at kurven blir tydelig angitt.*Utforming*Taksebanekantlys skal gi fast blått lys, og de skal være rundtstrålende og synlige i alle vertikalvinkler opp til minst 30° over horisontalplanet. I svinger, kryss o.l. skal taksebanekantlys om nødvendig skjermes slik at de ikke kan villede.
+(7) *Taksebanekantlys**Generelt*På flyplasser som skal ha skoleflyging med motorfly eller ervervsmessig flyging med betalende passasjerer, skal oppstillingsplattform og taksebane som skal brukes i mørke, ha taksebanekantlys.\**Plassering*Taksebanekantlys skal plasseres langs kanten av taksebanen og oppstillingsplattformen. Kantlysene kan plasseres inntil 3 m utenfor kanten dersom kanten er merket, jf. [§ 9](forskrift/2002-12-03-1382/§9) sjuende ledd.Taksebanekantlys skal plasseres i rett linje med jevn avstand og slik at kanten av taksebanen eller plattformen blir tydelig angitt. Avstanden mellom lysene skal ikke overstige 60 m. I kurver skal avstanden reduseres slik at kurven blir tydelig angitt.*Utforming*Taksebanekantlys skal gi fast blått lys, og de skal være rundtstrålende og synlige i alle vertikalvinkler opp til minst 30° over horisontalplanet. I svinger, kryss o.l. skal taksebanekantlys om nødvendig skjermes slik at de ikke kan villede.
 
 ## § 11. Krav til utstyr
 
@@ -124,9 +124,9 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 ## § 13. Krav til flyplassdata og kunngjøring av slike
 
-(1) *Generelt*Flyplassens innehaver skal fremskaffe, dokumentere og vedlikeholde de data om flyplassen som fremgår av nedenstående punkter.Flyplassens innehaver skal gjøre de data som fremgår av nedenstående punkter kjent for flyplassens brukere, eventuelt gjennom et kunngjøringssystem.Flyplassens innehaver skal se til at de flyplassdata som er kunngjort for flyplassen til enhver tid er korrekte.*
+(1) *Generelt*Flyplassens innehaver skal fremskaffe, dokumentere og vedlikeholde de data om flyplassen som fremgår av nedenstående punkter.Flyplassens innehaver skal gjøre de data som fremgår av nedenstående punkter kjent for flyplassens brukere, eventuelt gjennom et kunngjøringssystem.Flyplassens innehaver skal se til at de flyplassdata som er kunngjort for flyplassen til enhver tid er korrekte.\*
 
-(2) *Flyplassens referansepunkt*Det skal fastsettes et geografisk referansepunkt så nært flyplassens geometriske sentrum som mulig.*Referansepunktets posisjon skal kunngjøres i grader og minutter.
+(2) *Flyplassens referansepunkt*Det skal fastsettes et geografisk referansepunkt så nært flyplassens geometriske sentrum som mulig.\*Referansepunktets posisjon skal kunngjøres i grader og minutter.
 
 (3) *Flyplassens høyde*Flyplassens høyde over havet skal måles med nøyaktighet 1 m. Med flyplassens høyde menes største høyde på rullebanen.Flyplassens høyde skal kunngjøres i hele fot.
 
@@ -134,7 +134,7 @@ Særskilte tilleggskrav kan også fastsettes dersom forhold av særlig art ved f
 
 (5) *Hinder*Alle faste objekter som utgjør et hinder, jf. [§ 7](forskrift/2002-12-03-1382/§7), skal kunngjøres. Kunngjøringen skal inneholde hinderets posisjon (i grader, minutter, sekunder) og største høyde (i fot), en beskrivelse av objektet samt angi eventuell merking og belysning.Alt terreng som utgjør et hinder skal kunngjøres. Kunngjøringen skal inneholde en beskrivelse av hinderet og angi hinderets utstrekning. Kunngjøringen skal også inneholde posisjonen til hinderets viktigste høyeste punkter (i grader, minutter, sekunder), samt de samme punktenes høyde i fot. Dessuten skal kunngjøringen inneholde opplysninger om eventuell merking og belysning.
 
-(6) *Banelengder*For hver rullebane (baneretning) skal følgende kunngjøres:Tilgjengelig startrulledistanse (TORA).Tilgjengelig landingsdistanse (LDA).*
+(6) *Banelengder*For hver rullebane (baneretning) skal følgende kunngjøres:Tilgjengelig startrulledistanse (TORA).Tilgjengelig landingsdistanse (LDA).\*
 
 (7) *Lokale restriksjoner og merknader*Følgende data kunngjøres:Hvorvidt flyplassen har Luftfartstilsynets godkjenning.Flyplassens anvendelsesområde og begrensninger i bruk.Avvik fra gjeldende krav til utforming og drift.Andre opplysninger av flysikkerhetsmessig betydning.
 
@@ -154,27 +154,55 @@ Denne forskrift gjelder fra 1. januar 2003. Fra samme tidspunkt oppheves [forskr
 
 ## Vedlegg 1
 
+*Fig. 1. Hinderflater*
+
 ## Vedlegg 2
+
+*Fig. 1. Merking av baner med fast dekke*
+
+*Fig. 2. Merking av baner med merkefelt*
+
+*Fig. 3. Merking av baner med merkekjegler*
 
 ## Vedlegg 3
 
+*Fig. 1. Rullebanekantlys, terskellys, baneendelys*
+
 ## Veiledning til BSL E 3-3
+
+*Anm. til [§ 2](forskrift/2002-12-03-1382/§2):*
 
 For flyplasser som skal godkjennes for trafikk med landfly med tillatt startmasse over 5.700 kg eller godkjent med 10 passasjerseter eller flere, gjelder Luftfartstilsynets [forskrift av 17. desember 2000 nr. 1538](forskrift/2000-12-17-1538) om utforming av store flyplasser (BSL E 3-2).
 
+*Anm. til [§ 5](forskrift/2002-12-03-1382/§5) første ledd bokstav a:*
+
 En rullebanes lengde er bl.a. avgjørende for hvilke luftfartøyer som kan benytte flyplassen. Ved å etablere tilstrekkelig lange rullebaner kan luftfartøyenes lasteevne utbyttes bedre og regulariteten bedres.
+
+*Anm. til [§ 8](forskrift/2002-12-03-1382/§8) annet ledd bokstav a:*
 
 For merking av midlertidige hinder og bevegelige hinder vises til BSL E 4-1.
 
+*Anm. til [§ 8](forskrift/2002-12-03-1382/§8) annet ledd bokstav d:*
+
 For nærmere detaljer vises til BSL E 3-2.
+
+*Anm. til [§ 10](forskrift/2002-12-03-1382/§10) annet ledd bokstav c:*
 
 Lysfyr for sjøflyplass gir gult i stedet for grønt lys.
 
+*Anm. til [§ 10](forskrift/2002-12-03-1382/§10) sjuende ledd bokstav a:*
+
 På øvrige små flyplasser er det ikke krav om taksebanekantlys.
+
+*Anm. til [§ 13](forskrift/2002-12-03-1382/§13) første ledd bokstav c*
 
 Norsk Aero Klubb har et kunngjøringssystem med sin «Airfield Manual Norway».
 
+*Anm. til [§ 13](forskrift/2002-12-03-1382/§13) annet ledd bokstav a:*
+
 Flyplassens referansepunkt ligger oftest midt på rullebanen.
+
+*Anm. til [§ 13](forskrift/2002-12-03-1382/§13) sjette ledd bokstav a:*
 
 TORA tilsvarer lengden av det område som tilfredsstiller kravene til rullebane, jf. [§ 5](forskrift/2002-12-03-1382/§5), når det tas hensyn til at det er tilstrekkelig sikkerhetsområde etter baneenden, jf. [§ 6](forskrift/2002-12-03-1382/§6).
 

@@ -479,3 +479,5 @@ Erstatningen fastsettes av skjønnsstyreren ved kjennelse.
 ## Slutningsbestemmelse.
 
 Tiden for denne lovs ikraftræden1 fastsættes ved særskilt lov.
+
+1 Fra 1 juli 1927, ved lov 25 feb 1927 nr. 4 avsnitt VII.

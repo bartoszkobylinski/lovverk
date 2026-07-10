@@ -61,15 +61,27 @@ Rederiet, plattformsjef og andre som har sitt arbeid om bord skal utføre sine p
 
 ### § 6. Dokumentasjon
 
+1\.
+
 Rederiet skal sende Sjøfartsdirektoratet følgende dokumentasjon i ett eksemplar:
+
+1.1.
 
 Organisasjonsplan.
 
+1.2.
+
 Stillingsinstruks for hver stilling i organisasjonsplanen.
+
+1.3
 
 Begrunnet forslag til sikkerhetsbemanning ved operasjon og forflytning, jf. [§ 8](forskrift/1996-04-01-319/§8), og ved arbeidskonflikt. Forslagene settes opp i tabellform med bruksområder og farvann. Tabellen skal inneholde stillingsbetegnelser med tilhørende sertifikater og kvalifikasjonsbevis i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk.
 
+1.4.
+
 Informasjon om andre forhold av betydning for sikker drift.
+
+2\.
 
 Sjøfartsdirektoratet kan kreve tilleggsdokumentasjon innenfor de områder som er angitt i nr. 1.
 
@@ -84,25 +96,47 @@ Sjøfartsdirektoratet kan kreve tilleggsdokumentasjon innenfor de områder som e
 
 ### § 8. Sikkerhetsbemanning
 
+1\.
+
 Rederiet skal i samråd med plattformsjef og verneombud foreslå den sikkerhetsbemanning som er nødvendig for å ivareta sikkerheten for innretningen og de om bord, og hindre forurensning av det marine miljø.
+
+2\.
 
 Forslaget skal baseres på innretningensrisikoanalyse,beredskapsanalyse,sikkerhetsstyringssystem,organisasjonsplan,stillingsinstruks for hver stilling,fartsområde.
 
+3\.
+
 Den sikkerhetsbemanningen som foreslås skal dekke alle aktuelle operasjoner, oppgaver og funksjoner for sikker drift av den flyttbare innretningen, herunder:
+
+3.1.
 
 vakthold, øvelser og beredskap
 
+3.2.
+
 operasjon og vedlikehold av sikkerhetskritisk driftssystem og sikrings- og bekjempelsessystem, jf. [forskrift 22. desember 1993 nr. 1239](forskrift/1993-12-22-1239) om risikoanalyse for flyttbare innretninger [§ 25](forskrift/1993-12-22-1239/§25)
+
+3.3.
 
 operasjon og vedlikehold av kontrollrom
 
+3.4.
+
 operasjoner tilknyttet forsyningsskip og beredskapsfartøy
+
+3.5.
 
 operasjoner tilknyttet forflytning.
 
+4\.
+
 Flyttbare innretninger som benyttes til boligformål (flotell), skal ha sikkerhetsleder i egen stilling.
 
+5\.
+
 Ved forflytning av oppjekkbare innretninger skal antall og sammensetning av sikkerhetsbemanningen være begrenset til personell som skal ivareta sikkerhetsrelaterte oppgaver.
+
+6\.
 
 Plattformsjefen skal ha øverste myndighet om bord og kvalifikasjoner i henhold til [forskrift 22. desember 2011 nr. 1523](forskrift/2011-12-22-1523) om kvalifikasjoner og sertifikater for sjøfolk [§ 70](forskrift/2011-12-22-1523/§70) – § 72.
 
@@ -116,21 +150,21 @@ Plattformsjefen skal ha øverste myndighet om bord og kvalifikasjoner i henhold 
 
 ### § 10. Havneopphold
 
-1. Bemanning under havneopphold skal fastsettes av rederiet i samråd med plattformsjef og verneombud, basert på liste over sikkerhetsrelaterte oppgaver som opphører under havneopphold, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.
+1\. Bemanning under havneopphold skal fastsettes av rederiet i samråd med plattformsjef og verneombud, basert på liste over sikkerhetsrelaterte oppgaver som opphører under havneopphold, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.
 
-2. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning, og som i henhold til ovennevnte er plattformsjefens ansvar.
+2\. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning, og som i henhold til ovennevnte er plattformsjefens ansvar.
 
-3. Fastsatt bemanning skal føres i dekksdagboken.
+3\. Fastsatt bemanning skal føres i dekksdagboken.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](forskrift/2016-06-28-833) (i kraft 1 juli 2016).
 
 ### § 11. Verkstedopphold og opplag
 
-1. Bemanning under verkstedsopphold og opplag fastsettes av rederiet i samråd med plattformsjefen og verneombud basert på lister overhvilke sikkerhetsrelaterte oppgaver som opphører under verkstedsopphold eller opplag, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.sikkerhetsrelaterte oppgaver hvor det foreligger ansvarsoverdragelse.
+1\. Bemanning under verkstedsopphold og opplag fastsettes av rederiet i samråd med plattformsjefen og verneombud basert på lister overhvilke sikkerhetsrelaterte oppgaver som opphører under verkstedsopphold eller opplag, jf. [§ 8](forskrift/1996-04-01-319/§8) nr. 3.sikkerhetsrelaterte oppgaver hvor det foreligger ansvarsoverdragelse.
 
-2. Sikkerhetsrelaterte oppgaver som er overdratt til andre skal føres i dekksdagbok og signeres av bemyndiget person for ansvarsovertager.
+2\. Sikkerhetsrelaterte oppgaver som er overdratt til andre skal føres i dekksdagbok og signeres av bemyndiget person for ansvarsovertager.
 
-3. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning.
+3\. Ved fastsettelse av bemanningen skal det tas hensyn til sikkerheten ved arbeid, besøk mv. som foregår om bord av andre enn innretningens bemanning.
 
 > Endret ved [forskrifter 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 juni 2016 nr. 833](forskrift/2016-06-28-833) (i kraft 1 juli 2016).
 

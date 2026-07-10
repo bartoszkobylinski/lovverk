@@ -28,6 +28,20 @@ Forskriften får anvendelse i et område rundt/over to vanninjeksonsmanifold på
 
 Innretningenes posisjon er:
 
+UTM koordinater:
+
+|  |  |
+| --- | --- |
+| Nordlige vanninjeksonsmanifold: | 7142300 N 442000 Ø |
+| Sørlige vanninjeksonsmanifold: | 7132400 N 439000 Ø |
+
+Geografiske koordinater:
+
+|  |  |
+| --- | --- |
+| Nordlige vanninjeksonsmanifold: | 64° 24' 00''N 7° 47'45''Ø |
+| Sørlige vanninjeksonsmanifold: | 64° 18' 37''N 7° 44'24''Ø |
+
 ## § 2.
 
 Innenfor området som angitt i [§ 1](forskrift/1990-06-29-487/§1), forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade innretningene på eller over havbunnen.
@@ -39,3 +53,5 @@ Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter [lov 22.
 ## § 4.
 
 Denne forskrift trer i kraft fra det tidspunkt departementet1 bestemmer.
+
+1 10 mai 1993 iflg. [forskrift av 5 mai 1993 nr. 335](forskrift/1993-05-05-335).

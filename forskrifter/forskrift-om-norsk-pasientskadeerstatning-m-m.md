@@ -195,3 +195,5 @@ Departementet kan foreta endringer i forskriften.
 ### § 21. Ikrafttredelse
 
 Denne forskriften trer i kraft når Kongen bestemmer.1
+
+1 I kraft 1 jan 2004, jf. [res. 19 des 2003 nr. 1646](forskrift/2003-12-19-1646).

@@ -26,7 +26,11 @@ eu_basis: []
 
 Helse- og omsorgsdepartementet delegerer følgende myndighet til Folkehelseinstituttet:
 
+*[Lov 21. februar 2003 nr. 12](lov/2003-02-21-12) om behandlingsbiobanker (behandlingsbiobankloven)*
+
 § 5 Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til Folkehelseinstituttet. Meldingen må sendes Folkehelseinstituttet innen 2 måneder etter at biobanken er opprettet.
+
+*[Lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)](lov/2003-12-05-100)*
 
 [§ 2-8](lov/2003-12-05-100/§2-8): Databehandlingsansvaret for Det sentrale sædgiverregister/donorregister.
 

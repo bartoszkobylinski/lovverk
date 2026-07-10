@@ -80,3 +80,5 @@ Ein røystingsrådgjevar skal utan opphald identifisere og opplyse kundane sine 
 ## § 8. Ikraftsetjing
 
 Lova gjeld frå den tida1 Kongen fastset.
+
+1 Frå 1 juli 2021 iflg. [res. 18 juni 2021 nr. 1984](forskrift/2021-06-18-1984).

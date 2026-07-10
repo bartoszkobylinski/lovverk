@@ -97,3 +97,5 @@ Kongen kan gi nærmere forskrifter til gjennomføring av denne lov.
 Denne lov trer i kraft fra den dag1 Kongen bestemmer.
 
 – – –
+
+1 Fra 1 jan 1956 iflg. res. 25 nov 1955.

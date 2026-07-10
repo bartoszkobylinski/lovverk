@@ -42,6 +42,8 @@ Direktoratet for samfunnssikkerhet og beredskap (DSB) er tilsynsmyndighet etter 
 
 Det er utarbeidet retningslinjer til vedtak [2006/502/EF](eu/32006d0502) av 11. mai 2006. Retningslinjene og mer informasjon om kravet til barnesikring og forbud mot lightere med forvekslingsfare finnes på Kommisjonens hjemmeside:
 
+[http://ec.europa.eu/consumers/cons_safe/prod_safe/gpsd/lighters/index_en.htm](https://ec.europa.eu/consumers/cons_safe/prod_safe/gpsd/lighters/index_en.htm)
+
 ### § 1. Formål
 
 Formålet med forskriften er å forebygge at lightere medfører helseskade.

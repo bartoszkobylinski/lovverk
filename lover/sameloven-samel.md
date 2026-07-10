@@ -434,7 +434,11 @@ Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
 
 > Endret ved lover [21 des 1990 nr. 78](lov/1990-12-21-78) (tidligere § 3-2), [11 juni 2021 nr. 76](lov/2021-06-11-76) (ikr. 1 juli 2021 iflg. [res. 11 juni 2021 nr. 1870](forskrift/2021-06-11-1870), tidligere § 4-2).
 
+1 Fra 24 feb 1989 iflg. [res. 24 feb 1989 nr. 101](forskrift/1989-02-24-101).
+
 ## Vedlegg. Samisk oversettelse
+
+Se her for å lese loven på nordsamisk: [pdf-fil](static/NL/nl-19870612-056-01-01.pdf)
 
 > Oversettelsen av sameloven er levert av Kommunal- og distriktsdepartementet. Oversettelsen er à jour per 1. august 2024.
 Dette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend.

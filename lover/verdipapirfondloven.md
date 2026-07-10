@@ -1203,6 +1203,8 @@ Med bøter eller fengsel inntil 1 år straffes den som grovt eller gjentatte gan
 
 (3) Departementet kan gi overgangsregler.
 
+1 Fra 1 jan 2012 iflg. [res. 25 nov 2011 nr. 1128](forskrift/2011-11-25-1128), med unntak av [§ 8-3](lov/2011-11-25-44/§8-3) og [§ 8-4](lov/2011-11-25-44/§8-4) som gjelder fra 1 juli 2012.
+
 ### § 13-2. Endringer i andre lover
 
 (1) Fra den tid loven gjelder, gjøres følgende endringer i andre lover: – – –

@@ -309,3 +309,5 @@ Loven trer i kraft fra den tid Kongen bestemmer.1 [§ 23](lov/1997-05-09-26/§23
 Kongen kan fastsette nærmere overgangsregler.
 
 > Endret ved [lov 21 juni 2013 nr. 55](lov/2013-06-21-55) (ikr. 21 juni 2013 iflg. [res. 21 juni 2013 nr. 748](forskrift/2013-06-21-748)), tidligere § 24.
+
+1 Fra 1 juni 1997 iflg. [res. 9 mai 1997 nr. 437](forskrift/1997-05-09-437).

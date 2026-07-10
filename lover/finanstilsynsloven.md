@@ -271,6 +271,8 @@ Departementet kan i forskrift gi regler om Finanstilsynets behandling av saker s
 
 (2) Fra den tid loven trer i kraft, oppheves [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv.](lov/1956-12-07-1) Forskrifter gitt i medhold av [lov 7. desember 1956 nr. 1 om tilsynet med finansforetak mv.](lov/1956-12-07-1) gjelder også etter at loven her har trådt i kraft.
 
+1 Fra 1. april 2025 iflg. [res. 21 mars 2025 nr. 479](forskrift/2025-03-21-479).
+
 ### § 7-2. Overgangsbestemmelser
 
 Departementet kan gi overgangsbestemmelser. [§ 6-4](lov/2024-06-21-41/§6-4) gjelder bare for overtredelser som finner sted etter lovens ikrafttredelse.

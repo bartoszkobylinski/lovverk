@@ -82,15 +82,38 @@ Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som 
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt det materielle lengdemålet er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C |
+
 ### § 11. Mekaniske miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter materielle lengdemål som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. lengdemål som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter materielle lengdemål som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøyer i nærheten, eller av at lengdemålet er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter materielle lengdemål som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel lengdemål montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.
 
 ### § 12. Elektromagnetiske miljø
 
 Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter materielle lengdemål som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter materielle lengdemål som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter materielle lengdemål som får strøm fra batteriet i et kjøretøy. Slike lengdemål skal oppfylle kravene for E2 samt følgende tilleggskrav:<br>spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -192,9 +215,27 @@ Referansetemperaturen er 20 °C, med mindre annet er angitt av produsenten og me
 
 Maksimal tillatt målefeil, positivt eller negativt i mm, mellom to ikke-tilstøtende skalamerker er (a + bL), der L er verdien av lengden rundet av oppover til nærmeste hele meter, og a og b er gitt i tabell 1 nedenfor. Dersom et sluttintervall er begrenset av en flate, økes maksimal tillatt målefeil for enhver avstand som begynner i dette punktet, med verdien c gitt i tabell 4.
 
+*Tabell 4*
+
+| *Nøyaktighetsklasse* | *a (mm)* | *b (mm)* | *c (mm)* |
+| --- | --- | --- | --- |
+| I | 0,1 | 0,1 | 0,1 |
+| II | 0,3 | 0,2 | 0,2 |
+| III | 0,6 | 0,4 | 0,3 |
+| D – særklasse for peilebånd opptil og medregnet 30 m | 1,5 | null | null |
+| S – særklasse for tankbåndmål for hver 30 m lengde når båndet hviler på et flatt underlag | 1,5 | null | null |
+
 Nøyaktighetsklasse D gjelder for peilebånd/loddkombinasjoner. Dersom den nominelle målebåndlengden overstiger 30 m, tillates et tillegg i a på 0,75 mm for hver 30 m båndlengde. Peilebånd kan også være av klasse I eller II; i så fall er maksimal tillatt målefeil ± 0,6 mm når bruk av formelen gir en verdi på mindre enn 0,6 mm, for enhver lengde mellom to skalamerker, hvorav ett er på nedsenkingsdelen og det andre på peilebåndet.
 
 Maksimale tillatte målefeil for lengden mellom tilstøtende skalamerker, og største tillatte differanse mellom to tilstøtende intervaller, er gitt i tabell 5 nedenfor.
+
+*Tabell 5*
+
+| *Maksimal tillatte målefeil eller differanse i millimeter etter nøyaktighetsklasse* |  |  |  |
+| --- | --- | --- | --- |
+|  | I | II | III |
+| i≤ 1 mm | 0,1 | 0,2 | 0,3 |
+| 1 mm < i ≤ 1 cm | 0,2 | 0,4 | 0,6 |
 
 Dersom en linjal kan brettes sammen, skal leddene ikke kunne forårsake en samlet feil i tillegg til de ovenfor nevnte, på 0,3 mm for klasse II, og 0,5 mm for klasse III.
 

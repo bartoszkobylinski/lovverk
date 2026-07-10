@@ -115,3 +115,5 @@ Overtredelse i bestemmelsene i [§§ 4](lov/1918-08-14-3/§4), 7, 9, 10 første 
 ## Slutningsbestemmelse.
 
 Tiden for denne lovs ikrafttræden bestemmes ved særskilt lov.1
+
+1 Loven ble satt ikr. 1 juli 1927 iflg. [lov 14 aug 1918 nr. 4](lov/1918-08-14-4), se dens [§ 1](lov/1918-08-14-4/§1).

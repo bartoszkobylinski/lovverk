@@ -24,13 +24,37 @@ eu_basis: []
 
 ## § 1.
 
-Forskriften får anvendelse på 16 undervannsinnretninger fordelt på tre områder på Åsgard-feltet. Oljedirektoratet gis myndighet til å fastsette de endelige koordinater når disse foreligger. Koordinatene vil bli lokalisert innenfor følgende område:Smørbukk Sør:Blokk:6506/12Smørbukk:Blokk:6506/126506/11Midgard:Blokk:6507/116407/2
+Forskriften får anvendelse på 16 undervannsinnretninger fordelt på tre områder på Åsgard-feltet. Oljedirektoratet gis myndighet til å fastsette de endelige koordinater når disse foreligger. Koordinatene vil bli lokalisert innenfor følgende område:
+
+|  |  |  |
+| --- | --- | --- |
+| Smørbukk Sør: | Blokk: | 6506/12 |
+| Smørbukk: | Blokk: | 6506/12 |
+|  |  | 6506/11 |
+| Midgard: | Blokk: | 6507/11 |
+|  |  | 6407/2 |
 
 ## § 2.
 
-Innenfor området som vil bli endelig fastlagt av Oljedirektoratet forbys oppankring og fiske med bunnredskaper som bunntrål og snurrevad.Innretningens endelige betegnelser og posisjoner er:1Undervanns-UTMGeografiskeinnretningkoordinaterkoordinaterP7 212 875,0 N65° 01′ 22,8″ N400 079,0 Ø6° 52′ 44,6″ ØL7 225 879,0 N65° 08′ 18,0″ N395 983,0 Ø6° 46′ 57,0″ ØK7 225 489,0 N65° 08′ 01,3″ N392 416,0 Ø6° 42′ 24,6″ ØG7 220 500,1 N65° 05′ 17,6″ N390 139,8 Ø6° 39′ 44,3″ Ø
+Innenfor området som vil bli endelig fastlagt av Oljedirektoratet forbys oppankring og fiske med bunnredskaper som bunntrål og snurrevad.
+
+Innretningens endelige betegnelser og posisjoner er:1
+
+| Undervanns- | UTM | Geografiske |
+| --- | --- | --- |
+| innretning | koordinater | koordinater |
+| P | 7 212 875,0 N | 65° 01′ 22,8″ N |
+|  | 400 079,0 Ø | 6° 52′ 44,6″ Ø |
+| L | 7 225 879,0 N | 65° 08′ 18,0″ N |
+|  | 395 983,0 Ø | 6° 46′ 57,0″ Ø |
+| K | 7 225 489,0 N | 65° 08′ 01,3″ N |
+|  | 392 416,0 Ø | 6° 42′ 24,6″ Ø |
+| G | 7 220 500,1 N | 65° 05′ 17,6″ N |
+|  | 390 139,8 Ø | 6° 39′ 44,3″ Ø |
 
 > Endret ved [forskrift 13 feb 1997 nr. 357](forskrift/1997-02-13-357) (i kraft 1 mars 1997).
+
+1 Tatt inn ved [forskrift 13 feb 1997 nr. 357](forskrift/1997-02-13-357) (i kraft 1 mars 1997).
 
 ## § 3.
 
@@ -39,3 +63,5 @@ Forsettlig eller uaktsom overtredelse av denne forskriften straffes etter [lov 2
 ## § 4.
 
 Forskriften trer i kraft fra den tid1 Oljedirektoratet bestemmer.
+
+1 I kraft 1. mars 1997 jfr. [forskrift 13. februar 1997 nr. 357](forskrift/1997-02-13-357).

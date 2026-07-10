@@ -26,6 +26,13 @@ eu_basis: []
 
 Forskriften får anvendelse på området over Direkte Skyttel Lastesystem på Heidrunfeltet. Området er formet som en oval, definert av to sirkler med radius på 1.200 meter. Sirklene er bundet sammen av de to parallelle linjer som tangerer omkretsen til begge sirklene. De to sirklene har følgende koordinater:
 
+|  |  |  |
+| --- | --- | --- |
+| 1. | UTM 7.245.329,7 N | 65°19'13,981'' N |
+|  | 426.597,9 Ø | 07°22'53,590'' Ø |
+| 2. | UTM 7.247.918,7 N | 65°20'37,016'' N |
+|  | 423.933,9 Ø | 07°21'57,124'' Ø |
+
 ## § 2.
 
 Innenfor området som angitt i [§ 1](forskrift/1995-07-13-646/§1) forbys all ugrunnet oppankring, samt fiske med bunnredskap som bunntrål og snurrevad.

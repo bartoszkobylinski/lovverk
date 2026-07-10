@@ -168,9 +168,15 @@ For ordens skyld viser departementet også til enkelte nylig vedtatte endringer 
 
 Bestemmelsene er foreslått i [Ot.prp.nr.41 (2007–2008)](forarbeid/otprp-41-200708) Om [lov om endringer i lov 16. juni 1989 nr. 69](lov/1989-06-16-69) om forsikringsavtaler m.m., og i proposisjonens punkt 12.2 er det blant annet uttalt:
 
+«Til [helsepersonelloven § 15](lov/1999-07-02-64/§15)
+
 Annet ledd er en ordensbestemmelse som maner til varsomhet hos helsepersonell, typisk leger og sykepleiere. Den kan i så måte betraktes som en presisering av varsomhetskravet i § 15 første ledd første punktum. Bestemmelsen gjelder bare ved utforming av attest, legeerklæring o.l. til et forsikringsselskap. Det sentrale vilkåret for å utløse informasjonsplikten er at forholdet er spesielt sensitivt, altså mer enn normalt sensitivt. Hva slags opplysninger som er av en slik karakter, vil variere fra person til person. Det avgjørende vil være den enkelte pasients subjektive oppfatning av sine helseopplysninger. Helsepersonellets inntrykk av pasientens syn på det aktuelle forholdet vil stå sentralt. Hensynet til pasienten tilsier at man i tvilstilfeller bør ta et forhold opp med pasienten. (...).
 
 Tredje ledd gjelder helsepersonells plikt til å informere pasienten og følgelig også pasientens rett til informasjon. Hensikten er å forhindre at en forsikringssøker først blir kjent med mistanke om en alvorlig sykdom fra sitt forsikringsselskap og ikke fra det helsepersonellet vedkommende har vært pasient hos, typisk en lege. Ikke enhver opplysning som formidles til et forsikringsselskap vil utløse informasjonsplikten. Det kreves at forsikringsselskapet kan oppfatte informasjonen som en indikasjon på en alvorlig sykdom. Dessuten må det være grunn til å anta at pasienten ikke allerede er kjent med denne mistanken. Også her bør hensynet til pasienten tilsi at man i tvilstilfeller tar opp det aktuelle forholdet med pasienten. Det gjelder for eksempel om man er i tvil om hvorvidt sykdommen er tilstrekkelig alvorlig eller hvorvidt pasienten kjenner til dette allerede. For øvrig gjelder reglene i [pasientrettighetsloven kapittel 3](lov/1999-07-02-63/kap3) om pasientens rett til informasjon. (...).
+
+(...)
+
+Til [helsepersonelloven § 22](lov/1999-07-02-64/§22)
 
 Lovforslaget begrenser adgangen til å gi ut taushetsbelagte helseopplysninger selv om pasienten i utgangspunktet samtykker til slik utlevering. De opplysninger som ikke kan gis ut til en pasient etter [pasientrettighetsloven § 5-1](lov/1999-07-02-63/§5-1) annet ledd, skal følgelig heller ikke kunne gis ut til et forsikringsselskap.»
 

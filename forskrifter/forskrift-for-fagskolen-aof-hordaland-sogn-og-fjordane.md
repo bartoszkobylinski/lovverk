@@ -112,6 +112,8 @@ Studenter kan søke om å få fritak for deler av utdanningen. Fritaket gis på 
 
 (4) Vedtak om innpassing eller fritak fattes av administrativ eller faglig leder etter innstilling fra administrasjonen. Vedtaket kan påklages.
 
+1 I den nye fagskolelov, som etter planen skal legges frem for Stortinget våren 2018, er begrepet «fagskolepoeng» foreslått endret til «studiepoeng». Begrepsendringen er ikke ment til å ha noen realitetsendring. Dersom endringen blir vedtatt skal begrepet fagskolepoeng forstås som studiepoeng.
+
 ### § 3-4. Rullerende opptak og rangering
 
 Se [§ 2-4](forskrift/2017-12-14-2471/§2-4) Rullerende opptak.
@@ -124,6 +126,8 @@ Se [§ 2-4](forskrift/2017-12-14-2471/§2-4) Rullerende opptak.
 
 (2) Det vil fremgå av den enkelte studieplan hvilke eksamens- og vurderingsformer som benyttes i den enkelte utdanning.
 
+2 Se Kvalitetshåndbok for fagskoleutdanning, AOF Hordaland – Sogn og Fjordane kapittel 1.2.5.2.
+
 ### § 4-2. Utfyllende bestemmelser
 
 Skolen kan i reglement fastsette utfyllende bestemmelser om eksamens- og vurderingsordninger.
@@ -134,7 +138,16 @@ Skolen kan i reglement fastsette utfyllende bestemmelser om eksamens- og vurderi
 
 (2) Det skal fremgå av studieplanen hvilket karaktersystem som benyttes for det enkelte emne/fag.
 
-(3) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:A FremragendeFremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse.B Meget godtMeget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse.C GodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse.D Nokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse.E TilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse.F Ikke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse.
+(3) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:
+
+|  |  |
+| --- | --- |
+| A Fremragende | Fremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| B Meget godt | Meget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| C God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| D Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| E Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| F Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse. |
 
 (4) Eksamenskarakterene skal gjøres tilgjengelig for studentene, senest 4 uker etter avholdt eksamen. Etter fullført og bestått utdanning vil vitnemål bli sendt hjem til studenten. Ved klage vil vitnemålet bli sendt studenten på samme måte, så snart klagebehandling er endelig avsluttet.
 

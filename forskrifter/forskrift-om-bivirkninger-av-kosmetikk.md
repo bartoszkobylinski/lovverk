@@ -97,10 +97,14 @@ Forskriften trer i kraft straks.
 
 Trykk her for å lese vedlegg 3:
 
+[(pdf)](static/SF/sf-20080227-0219-01-04.pdf)
+
 > Endret ved [forskrifter 14 feb 2012 nr. 146](forskrift/2012-02-14-146), [18 jan 2019 nr. 30](forskrift/2019-01-18-30), [26 aug 2019 nr. 1087](forskrift/2019-08-26-1087).
 
 ## Vedlegg 4: Skjema for melding om bivirkninger ved bruk av kosmetiske produkter
 
 Trykk her for å lese vedlegg 4:
+
+[(pdf)](static/SF/sf-20080227-0219-02-04.pdf)
 
 > Endret ved [forskrifter 14 feb 2012 nr. 146](forskrift/2012-02-14-146), [18 jan 2019 nr. 30](forskrift/2019-01-18-30), [26 aug 2019 nr. 1087](forskrift/2019-08-26-1087).

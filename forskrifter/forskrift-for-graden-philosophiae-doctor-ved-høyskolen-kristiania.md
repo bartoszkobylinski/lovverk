@@ -330,11 +330,15 @@ Kandidaten kan likevel rette formelle feil etter innlevering eller presentasjon.
 
 På grunnlag av bedømmelseskomiteens innstilling fatter institusjonen vedtak om doktorgradsarbeidet er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og høyskolen legger denne til grunn for sin behandling, fatter institusjonen vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom institusjonen finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal institusjonen selv søke nærmere avklaring fra komiteen og eventuelt oppnevne to nye sakkyndige, som skal avgi individuelle uttalelser om doktorgradsarbeidet. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som skal få anledning til å komme med merknader.
 
 Institusjonen fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 Dersom komiteen avgir delt innstilling og institusjonen velger å legge flertallets uttalelser til grunn for sin behandling, fatter institusjonen vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og institusjonen vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan institusjonen søke nærmere avklaring fra komiteen og eventuelt oppnevne to nye sakkyndige, som skal avgi individuelle uttalelser. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som skal få anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallet i den opprinnelige innstillingen, skal denne innstillingen følges.
 

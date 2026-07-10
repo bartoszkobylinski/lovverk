@@ -368,6 +368,8 @@ Sikkerhetssertifikater som er utstedt før 31. oktober 2020, skal være gyldige 
 
 Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar direktiv [(EU) 2016/798](eu/32016l0798) inn i [EØS-avtalen](lov/1992-11-27-109/eøsl) trer i kraft. Fra samme tidspunkt oppheves [forskrift 11. april 2011 nr. 389 om sikkerhetsstyring for jernbanevirksomheter på det nasjonale jernbanenettet (sikkerhetsstyringsforskriften)](forskrift/2011-04-11-389).1
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 797](forskrift/2022-05-06-797).
+
 ## Vedlegg I. Felles sikkerhetsindikatorer
 
 De nasjonale sikkerhetsmyndighetene skal hvert år avgi rapport om de felles sikkerhetsindikatorene (CSI-ene).
@@ -376,19 +378,33 @@ Dersom det oppdages nye fakta eller feil etter at rapporten er framlagt, skal in
 
 Felles definisjoner av de felles sikkerhetsindikatorene og felles metoder for beregning av de økonomiske konsekvensene av ulykker er fastsatt i tillegget.
 
+1.*Indikatorer knyttet til ulykker*
+
+1.1.
+
 Samlet og relativt (i forhold til togkilometer) antall alvorlige ulykker og fordeling på følgende ulykkestyper:kollisjon mellom tog og jernbanekjøretøy,kollisjon mellom tog og hindring i frittromsprofilen,togavsporing,ulykker på planoverganger, herunder ulykker der fotgjengere er innblandet, og en ytterlige fordeling for de fem planovergangstypene definert i nr. 6.2,personulykker forårsaket av rullende materiell i bevegelse, unntatt selvmord og selvmordsforsøk,brann i rullende materiell,annet.
 
 Enhver alvorlig ulykke skal rapporteres under den primære ulykkestypen, også selv om følgene av den sekundære ulykken er mer alvorlige (f.eks. avsporing etterfulgt av brann).
 
+1.2.
+
 Samlet og relativt (per togkilometer) antall alvorlig skadede eller omkomne personer etter ulykkestype, inndelt i følgende personkategorier:passasjerer (også i forhold til samlet antall passasjerkilometer og passasjertogkilometer),ansatt eller entreprenør,bruker av planovergang,uvedkommende,annen person som befinner seg på en perrong,annen person som ikke befinner seg på en perrong.
+
+2.*Indikatorer knyttet til farlig gods*
 
 Samlet og relativt (i forhold til togkilometer) antall ulykker i forbindelse med transport av farlig gods med jernbane, inndelt i følgende kategorier:ulykker der minst ett jernbanekjøretøy som transporterer farlig gods, som definert i tillegget, er innblandet,antall slike ulykker med utslipp av farlig gods.
 
+3.*Indikatorer knyttet til selvmord*
+
 Samlet og relativt (i forhold til togkilometer) antall selvmord og selvmordsforsøk.
+
+4.*Indikatorer knyttet til tilløp til ulykker*
 
 Samlet og relativt (i forhold til togkilometer) antall tilløp til ulykker og fordeling på følgende typer tilløp til ulykker:skinnebrudd,solslyng og andre sporgeometriske feil,signalfeil,passering av stoppsignal med påfølgende passering av et farepunkt,passering av stoppsignal uten påfølgende passering av et farepunkt,hjulbrudd på rullende materiell i trafikk,akselbrudd på rullende materiell i trafikk.
 
 Alle tilløp skal rapporteres, både de som fører til ulykker og de som ikke gjør det. (Et tilløp som fører til en alvorlig ulykke skal også rapporteres under indikatorer knyttet til tilløp; et tilløp som ikke fører til en alvorlig ulykke skal bare rapporteres under indikatorer knyttet til tilløp).
+
+5.*Indikatorer for beregning av økonomiske konsekvenser av ulykker*
 
 Samlet og relativ (i forhold til togkilometer) kostnad i euro:antall dødsfall og alvorlige skader multiplisert med verdien av å forebygge et dødsfall eller en alvorlig skade,kostnad ved miljøskader,kostnad ved materiell skade på rullende materiell eller infrastruktur,kostnad ved forsinkelser som følge av ulykker.
 
@@ -396,83 +412,165 @@ De nasjonale sikkerhetsmyndighetene skal rapportere de økonomiske konsekvensene
 
 Verdien av å forebygge et dødsfall eller en alvorlig skade er den verdien samfunnet tillegger forebygging av et dødsfall eller en alvorlig skade, og skal som sådan ikke utgjøre en referanse for erstatning mellom parter som er involvert i en ulykke.
 
+6.*Indikatorer knyttet til infrastrukturens tekniske sikkerhet og gjennomføringen av denne*
+
+6.1.
+
 Prosentandel spor med automatisk togkontroll i drift, og prosentandelen togkilometer med systemer for automatisk togkontroll om bord på toget, der disse systemene omfatter:varsling,varsling og automatisk stopp,varsling og automatisk stopp og punktvis hastighetsovervåking,varsling og automatisk stopp og kontinuerlig hastighetsovervåking.
+
+6.2.
 
 Antall planoverganger (samlet, per linjekilometer og sporkilometer) etter følgende fem typer:planoverganger med passiv sikringplanoverganger med aktiv sikring:manuell,automatisk varsling for veifarende,automatisk sikring for veifarende,sikring mot skinnegangen.
 
 ### Tillegg. Felles definisjoner av de felles sikkerhetsindikatorene og felles metoder for beregning av de økonomiske konsekvensene av ulykker
 
+1.*Indikatorer knyttet til ulykker*
+
+1.1.
+
 «alvorlig ulykke»: ulykke der minst ett jernbanekjøretøy i bevegelse er innblandet, og som fører til at minst én person omkommer eller blir alvorlig skadet, eller til betydelig skade på materiell, spor, andre anlegg eller miljøet, eller omfattende trafikkforstyrrelser, unntatt ulykker i verksteder, lagre og depoter.
+
+1.2.
 
 «betydelig skade på materiell, spor, andre anlegg eller miljøet»: skade til en verdi av minst 150 000 euro.
 
+1.3.
+
 «omfattende trafikkforstyrrelser»: togtrafikken på en hovedjernbanelinje innstilles i minst seks timer.
+
+1.4.
 
 «tog»: ett eller flere jernbanekjøretøyer som trekkes av ett eller flere lokomotiver eller skinnegående motorvogner, én skinnegående motorvogn som kjører alene under et bestemt nummer eller en bestemt betegnelse fra et fast startpunkt til et fast sluttpunkt, herunder et lokomotiv som kjører alene.
 
+1.5.
+
 «kollisjon mellom tog og jernbanekjøretøy»: en frontkollisjon, en kollisjon bakfra eller en sidekollisjon mellom en del av et tog og en del av et annet tog eller jernbanekjøretøy, eller med rullende materiell under skifting.
+
+1.6.
 
 «kollisjon mellom tog og hindring i frittromsprofilen»: en kollisjon mellom en del av et tog og gjenstander som er fastmontert eller befinner seg i eller nær sporet (unntatt ved planoverganger dersom de er mistet av kryssende kjøretøy eller bruker), herunder kollisjon med kjøreledninger.
 
+1.7.
+
 «togavsporing»: ethvert tilfelle der minst ett hjul på et tog sporer av.
+
+1.8.
 
 «ulykke ved planovergang»: ulykke ved planoverganger som involverer minst ett jernbanekjøretøy og ett eller flere kryssende kjøretøyer, andre kryssende brukere, f.eks. fotgjengere, eller gjenstander som midlertidig befinner seg i eller nær sporet dersom de er mistet av kryssende kjøretøy/bruker.
 
+1.9.
+
 «personulykke forårsaket av rullende materiell i bevegelse»: ulykker der én eller flere personer enten er truffet av et jernbanekjøretøy eller av en gjenstand som er festet til eller har løsnet fra kjøretøyet. Dette omfatter personer som faller fra jernbanekjøretøyer samt personer som faller eller som blir truffet av løse gjenstander når de reiser med kjøretøyer.
+
+1.10.
 
 «brann i rullende materiell»: brann og eksplosjoner som inntreffer i et jernbanekjøretøy (herunder lasten) underveis fra avgangsstasjonen til bestemmelsesstedet, herunder når det står stille på avgangsstasjonen, ankomststedet eller på et stopp underveis samt under rangering.
 
+1.11.
+
 «annen (ulykke)»: enhver annen ulykke enn en kollisjon mellom et tog og et jernbanekjøretøy, en kollisjon mellom et tog og hindring i frittromsprofilen, togavsporing, ulykke ved planovergang, en personulykke forårsaket av rullende materiell i bevegelse samt brann i rullerende materiell.
+
+1.12.
 
 «passasjer»: enhver person, unntatt togpersonalet, som reiser med jernbane; i ulykkesstatistikken medregnes passasjerer som forsøker å stige på eller av et tog i bevegelse.
 
+1.13.
+
 «ansatt eller underleverandør»: enhver person som har ansettelse i forbindelse med en jernbane og som er i tjeneste på ulykkestidspunktet, herunder underleverandørers ansatte, underleverandører som er selvstendig næringsdrivende, togpersonalet og personer som håndterer rullende materiell og infrastrukturanlegg.
+
+1.14.
 
 «bruker av planovergang»: enhver person som benytter planovergangen til å krysse jernbanelinjen ved bruk av ethvert transportmiddel eller til fots.
 
+1.15.
+
 «uvedkommende»: enhver person som befinner seg ulovlig på jernbaneanlegg, med unntak av brukere av planovergang.
+
+1.16.
 
 «annen person som befinner seg på en perrong»: enhver person som befinner seg på en perrong som ikke er definert som «passasjer», «ansatt eller underleverandør», «bruker av planovergang», «annen person som ikke befinner seg på en perrong» eller «uvedkommende».
 
+1.17.
+
 «annen person som ikke befinner seg på en perrong»: enhver person som ikke befinner seg på en perrong som ikke er definert som «passasjer», «ansatt eller underleverandør», «bruker av planovergang», «annen person som befinner seg på en perrong» eller «uvedkommende».
+
+1.18.
 
 «dødsfall (omkommet person)»: en person som omkommer umiddelbart eller som dør innen 30 dager som følge av en ulykke, unntatt selvmord.
 
+1.19.
+
 «alvorlig skade (alvorlig skadet person)»: en skadet person som innlegges på sykehus i mer enn 24 timer som følge av en ulykke, unntatt selvmordsforsøk.
+
+2.*Indikatorer knyttet til farlig gods*
+
+2.1.
 
 «ulykke i forbindelse med transport av farlig gods»: en ulykke eller hendelse som skal rapporteres i henhold til RID/ADR avsnitt 1.8.5.
 
+2.2.
+
 «farlig gods»: de stoffer og gjenstander som det er forbudt å transportere i henhold til RID, eller som bare kan transporteres på vilkårene fastsatt i RID.
+
+3.*Indikatorer knyttet til selvmord*
+
+3.1.
 
 «selvmord»: en handling der en person forsettlig skader seg selv med døden til følge, slik det er registrert og klassifisert av vedkommende nasjonale myndighet.
 
+3.2.
+
 «selvmordsforsøk»: en handling der en person forsettlig skader seg selv med alvorlig skade til følge.
+
+4.*Indikatorer knyttet til tilløp til ulykker*
+
+4.1.
 
 «skinnebrudd»: alle skinner som er delt i to eller flere deler, eller alle skinner der en del av metallet har løsnet og skaper et hull i kjøreflaten som er mer enn 50 mm langt og mer enn 10 mm dypt.
 
+4.2.
+
 «solslyng eller annen sporgeometrisk feil»: enhver feil relatert til løpet og geometrien i skinnene og som krever at sporet stenges eller umiddelbar reduksjon av tillatt hastighet.
+
+4.3.
 
 «signalfeil»: enhver teknisk feil i et signalsystem (enten i infrastruktur eller på rullende materiell) som resulterer i et mindre restriktivt signal enn det som kreves.
 
+4.4.
+
 «passering av stoppsignal med påfølgende passering av et farepunkt»: alle tilfeller der noen del av et tog kjører lenger enn tillatt og kjører lenger enn farepunktet.
+
+4.5.
 
 «passering av stoppsignal uten påfølgende passering av et farepunkt»: alle tilfeller der noen del av et tog kjører lenger enn tillatt, men ikke kjører lenger enn farepunktet.
 
+4.6.
+
 Å kjøre lenger enn tillatt som nevnt i nr. 4.4 og 4.5, betyr å passere:
 
-- lys- eller semaforsignaler ved sporet som med farge eller stilling signaliserer fare, eller en stoppordre på linjer der automatisk togkontroll ikke er i drift,sluttpunktet i en sikkerhetsrelatert kjøretillatelse gitt gjennom automatisk togkontroll,et bestemt punkt som er meddelt gjennom en muntlig eller skriftlig tillatelse fastsatt i forskrift,stoppskilter (ikke sporstoppere) eller håndsignaler.
+\- lys- eller semaforsignaler ved sporet som med farge eller stilling signaliserer fare, eller en stoppordre på linjer der automatisk togkontroll ikke er i drift,sluttpunktet i en sikkerhetsrelatert kjøretillatelse gitt gjennom automatisk togkontroll,et bestemt punkt som er meddelt gjennom en muntlig eller skriftlig tillatelse fastsatt i forskrift,stoppskilter (ikke sporstoppere) eller håndsignaler.
 
 Tilfeller der et kjøretøy uten trekkvogn eller et ubemannet tog kjører forbi et stoppsignal, omfattes ikke. Tilfeller der signalet av en eller annen grunn ikke signaliserer fare tidsnok til at togføreren kan stoppe toget før signalet, omfattes ikke.
 
 Nasjonale sikkerhetsmyndigheter kan rapportere om de fire tilfellene der toget kjører lenger enn tillatt, som angitt i ovennevnte strekpunkter, hver for seg, men de skal framlegge minst én samleindikator som inneholder opplysninger om alle fire tilfellene.
 
+4.7.
+
 «hjulbrudd på rullende materiell i trafikk»: et brudd som har innvirkning på hjulet og som skaper en risiko for ulykke (avsporing eller kollisjon).
 
+4.8.
+
 «akselbrudd på rullende materiell i trafikk»: et brudd som har innvirkning på akselen og som skaper en risiko for ulykke (avsporing eller kollisjon).
+
+5.*Felles metoder for beregning av økonomiske konsekvenser av ulykker*
+
+5.1.
 
 Verdien av å forhindre et dødsfall eller en alvorlig skade (VPC) består av:Egenverdien av sikkerhet: Verdien av betalingsviljen (WTP) basert på undersøkelser av oppgitte preferanser gjennomført i de EØS-statene denne verdien får anvendelse.Direkte og indirekte økonomiske kostnader: anslag over kostnadene beregnet i EØS-statene som består av:kostnader ved medisinsk behandling og rehabilitering,saksomkostninger, kostnader til politi, kostnader ved privat etterforskning av ulykken, kostnader ved redningstjeneste og administrative kostnader ved forsikring,produksjonstap: den verdien samfunnet setter på varer og tjenester som kunne ha blitt produsert av personen dersom ulykken ikke hadde inntruffet.
 
 Ved beregning av kostnadene ved ulykker skal dødsfall og alvorlige skader beregnes hver for seg (verdien av å forebygge et dødsfall er forskjellig fra verdien av å forebygge en alvorlig skade).
+
+5.2.
 
 Felles prinsipper for fastsettelse av egenverdien av sikkerhet og direkte og/eller indirekte økonomiske kostnader:
 
@@ -480,57 +578,103 @@ For egenverdien av sikkerhet skal vurderingen av hvorvidt tilgjengelige estimate
 
 Verdien av direkte og indirekte kostnader skal fastsettes på grunnlag av de faktiske samfunnskostnadene.
 
+5.3.
+
 Definisjoner
+
+5.3.1.
 
 «kostnad ved miljøskade»: kostnader som skal bæres av jernbaneforetak og infrastrukturforvaltninger, fastsatt på grunnlag av deres erfaring, for å bringe det skadede området tilbake til den stand det var i før jernbaneulykken.
 
+5.3.2.
+
 «kostnad ved materiell skade på rullende materiell eller infrastruktur»: kostnaden ved å framskaffe nytt rullende materiell eller ny infrastruktur som har samme funksjonalitet og tekniske parametrer som det som ble uopprettelig skadet, og kostnaden ved å tilbakeføre rullende materiell eller infrastruktur som kan repareres til den stand det/den var i før ulykken, som jernbaneforetak og infrastrukturforvaltninger skal beregne på grunnlag av sin erfaring, herunder kostnader knyttet til leie av rullende materiell som erstatning for det som er skadet.
+
+5.3.3.
 
 «kostnad ved forsinkelser som følge av ulykker»: pengeverdien av forsinkelser for brukerne av jernbanetransport (passasjerer og fraktforetak) som følge av ulykker, beregnet ut fra følgende modell:
 
-- VTP = [VT for arbeidsreisende]*[gjennomsnittlig prosentandel av arbeidsreisende per år] + [VT for andre reisende]*[gjennomsnittlig prosentandel av andre reisende per år]
+*VT = pengeverdien av innspart reisetid*
+
+*Verdien av tid for en togpassasjer (per time):*
+
+- VTP = [VT for arbeidsreisende]\*[gjennomsnittlig prosentandel av arbeidsreisende per år] + [VT for andre reisende]\*[gjennomsnittlig prosentandel av andre reisende per år]
 - VTP målt i euro per passasjer per time.
 - «arbeidsreisende»: en passasjer som reiser i forbindelse med yrkesmessig virksomhet, unntatt pendling.
 
-- VTF = [VT for godstog]*[(tonnkilometer)/(togkilometer)]
+*Verdien av tid for et godstog (per time):*
+
+- VTF = [VT for godstog]\*[(tonnkilometer)/(togkilometer)]
 - VTF måles i euro per tonn gods per time.
 - Gjennomsnittlig antall tonn gods som transporteres per tog per år = (tonnkilometer)/(togkilometer)
 - CM = kostnaden ved ett minutts forsinkelse for et tog
 
-- CMP = K1 * (VTP/60) * [(passasjerkilometer)/(togkilometer)]
+*Passasjertog*
+
+- CMP = K1 \* (VTP/60) \* [(passasjerkilometer)/(togkilometer)]
 - Gjennomsnittlig antall passasjerer per tog per år = (passasjerkilometer)/(togkilometer)
 
-- CMF = K2 * (VTF/60)
+*Godstog*
+
+- CMF = K2 \* (VTF/60)
 
 Faktorene K1 og K2 ligger mellom verdien av tid og verdien av forsinkelse, beregnet gjennom undersøkelser av oppgitte preferanser, for å ta hensyn til at tap av tid som følge av forsinkelser oppfattes signifikant mer negativt enn normal reisetid.
 
-Kostnaden ved forsinkelser som følge av en ulykke = CMP * (antall minutters forsinkelse for passasjertog) + CMF * (antall minutters forsinkelse for godstog)
+Kostnaden ved forsinkelser som følge av en ulykke = CMP \* (antall minutters forsinkelse for passasjertog) + CMF \* (antall minutters forsinkelse for godstog)
+
+*Virkeområdet for modellen*
 
 Kostnaden ved forsinkelser skal beregnes for alle alvorlige ulykker, på følgende måte:faktiske forsinkelser på jernbanelinjen der ulykken inntraff, målt på endestasjonen,faktiske forsinkelser eller, om dette ikke lar seg beregne, beregnede forsinkelser på andre berørte linjer.
 
+6.*Indikatorer knyttet til infrastrukturens tekniske sikkerhet og gjennomføringen av denne*
+
+6.1.
+
 «automatisk togkontroll»: et system som bidrar til at signaler og fartsgrenser overholdes.
+
+6.2.
 
 «ombordsystemer»: systemer som hjelper føreren med å respektere signalene langs linjen og inne i førerhuset og som dermed sørger for beskyttelse mot farepunkter og overholdelse av fartsgrenser. Automatisk togkontroll om bord beskrives på følgende måte:Varsling som varsler føreren automatisk.Varsling og automatisk stopp: føreren varsles automatisk og toget stopper automatisk ved passering av stoppsignal.Varsling og automatisk stopp og punktvis hastighetsovervåking: beskyttelse ved farepunkter, der «punktvis hastighetsovervåking» betyr overvåking av hastigheten på visse steder (fartskontroller) når toget nærmer seg et signal.Varsling og automatisk stopp og kontinuerlig hastighetsovervåking: beskyttelse ved farepunkter og kontinuerlig overvåking av fartsgrensene på strekningen, der «kontinuerlig hastighetsovervåking» betyr kontinuerlig angivelse og overholdelse av høyeste tillatte målhastighet på alle delstrekninger av linjen.
 
 Type d. anses som et system for automatisk hastighetsovervåking (ATP).
 
+6.3.
+
 «planovergang»: et skjæringspunkt mellom en vei eller en overgang og jernbanen godkjent av infrastrukturforvaltningen og åpen for offentlig eller privat ferdsel. Overganger mellom perronger på stasjoner omfattes ikke, og heller ikke overganger over spor som bare kan brukes av ansatte.
+
+6.4.
 
 «vei»: for ulykkesstatistikken, enhver offentlig eller privat vei, gate eller landevei, herunder tilstøtende gangveier og sykkelstier.
 
+6.5.
+
 «overgang»: enhver strekning, unntatt en vei, som er ment for ferdsel av mennesker, dyr, kjøretøyer eller maskiner.
 
+6.6.
+
 «planovergang med passiv sikring»: en planovergang uten noen form for varslingssystem eller sikring som aktiveres når det er utrygt for brukeren å krysse overgangen.
+
+6.7.
 
 «planovergang med aktiv sikring»: planovergang der kryssende brukere beskyttes mot eller varsles om et tog som nærmer seg ved at innretninger aktiveres når det ikke er trygt for brukerne å benytte overgangen.Sikring i form av fysiske innretninger omfatter:halve eller hele bommer,porter.Varsling i form av fastmontert utstyr ved planoverganger:synlige innretninger: lys,hørbare innretninger: klokker, horn, sirener osv.
 
 Planovergang med aktiv sikring klassifiseres som:Manuell: en planovergang der sikring eller varsling for veifarende aktiveres manuelt av en jernbaneansatt.Automatisk varsling for veifarende: en planovergang der varslingen for veifarende aktiveres av toget som nærmer seg.Automatisk sikring for veifarende: en planovergang der sikringen for veifarende aktiveres av toget som nærmer seg. Dette skal omfatte en planovergang med både sikring og varsling for veifarende.Sikring mot skinnegangen: en planovergang der et signal eller annet togsikringssystem lar toget fortsette når planovergangen er fullstendig sikret for veifarende og ingen er i ferd med å krysse sporet.
 
+7.*Definisjoner av målenheter*
+
+7.1.
+
 *«togkilometer»:* målenheten som betegner et togs bevegelse over én kilometer. Avstanden som benyttes, er om mulig den faktisk tilbakelagte avstanden; ellers benyttes jernbanenettets standardavstand mellom opprinnelses- og bestemmelsesstedet. Bare avstanden på innberettende medlemsstats nasjonale territorium tas med i beregningen.
+
+7.2.
 
 *«passasjerkilometer»:* målenheten som betegner transporten av én passasjer med jernbane over en avstand på én kilometer. Bare avstanden på innberettende medlemsstats nasjonale territorium tas med i beregningen.
 
+7.3.
+
 *«linjekilometer»:* lengden målt i kilometer på EØS-statenes jernbanenett, der omfanget er fastsatt i § 1-2. Ved flersporede jernbanelinjer skal bare avstanden mellom opprinnelses- og bestemmelsesstedet medregnes.
+
+7.4.
 
 *«sporkilometer»:* lengden målt i kilometer på EØS-statenes jernbanenett, der omfanget er fastsatt i artikkel 2 § 1-2. Ved flersporede jernbanelinjer skal hvert spor medregnes.
 

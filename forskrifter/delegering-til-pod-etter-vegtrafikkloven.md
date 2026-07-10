@@ -24,5 +24,7 @@ eu_basis: []
 
 Med virkning fra 1. januar 2001 delegeres myndighet i følgende saker fra Justisdepartementet til Politidirektoratet, dog slik at saker innkommet Justisdepartementet før dette tidspunkt også kan avgjøres av departementet etter nærmere bestemmelse av departementet.
 
+Vegtrafikklov [av 18. juni 1965 nr. 4 § 39](lov/1965-06-18-4/§39) annet til sjette ledd.
+
 - Forlengelse av inndragningstid i medhold av [vegtrafikkloven av 18. juni 1965 nr. 4 § 39](lov/1965-06-18-4/§39) annet ledd første punktum.
 - Klager over vedtak truffet i medhold av [vegtrafikkloven § 39](lov/1965-06-18-4/§39) tredje, fjerde og femte ledd, jf. sjette ledd.

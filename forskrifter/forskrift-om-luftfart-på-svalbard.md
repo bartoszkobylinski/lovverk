@@ -30,6 +30,8 @@ Samferdselsdepartementet kan unnta enkelte av de i første ledd nevnte forskrift
 
 > Endret ved [forskrift 15 mars 1996 nr. 273](forskrift/1996-03-15-273).
 
+1 Jfr. [res. 11 mars 1994 nr. 202](forskrift/1994-03-11-202).
+
 ## § 2.
 
 Luftfart på Svalbard kan bare foretas med tillatelse fra Luftfartsverket, jf. [§ 4](forskrift/1973-11-23-3427/§4). Det kan settes vilkår for tillatelsen, herunder med hensyn til tidsrom, hvilke luftfartøyer som kan anvendes og begrensninger vedrørende bruken.

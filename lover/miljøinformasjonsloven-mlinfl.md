@@ -135,6 +135,8 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 
 (3) Reglene i offentlighetsloven1 om klage gjelder så langt de passer for klage over avslag på krav om miljøinformasjon fra offentlig organ.
 
+1 Inkurie: Skal vel være offentleglova, se [lov 19 mai 2006 nr. 16 § 32](lov/2006-05-19-16/§32).
+
 ## Kapittel 4. Miljøinformasjon om virksomhet (driftsforhold mv.)
 
 ### § 16. Rett til miljøinformasjon om virksomhet
@@ -200,6 +202,8 @@ Allmennheten skal uten hinder av reglene i [§ 11](lov/2003-05-09-31/§11) allti
 ### § 21. Ikrafttredelse
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 1 jan 2004 iflg. [res. 5 des 2003 nr. 1431](forskrift/2003-12-05-1431).
 
 ### § 22. Endringer i andre lover
 

@@ -38,6 +38,12 @@ Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar fo
 
 Fra 31. oktober 2025 oppheves:[forskrift 2. desember 2011 nr. 1177 om gjennomføring av kommisjonsforordning (EU) nr. 1158/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetssertifikat for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetssertifikat)](forskrift/2011-12-02-1177), og[forskrift 2. desember 2011 nr. 1176 om gjennomføring av kommisjonsforordning (EU) nr. 1169/2010 om felles sikkerhetsmetode for vurdering av samsvar med krav for å få sikkerhetsgodkjenning for jernbane på det nasjonale jernbanenettet (forskrift om metode for vurdering av sikkerhetsgodkjenning)](forskrift/2011-12-02-1176).
 
+1 Fra 1 juni 2022 jf. meddelelse [6 mai 2022 nr. 796](forskrift/2022-05-06-796).
+
 ## Forordninger
 
 Forordningene er gyldige på alle offisielle språk i EU.
+
+For å lese engelsk versjon av forordning [(EU) 2018/762](eu/32018r0762) se her: [(pdf)](static/SF/32018r0762e-01.pdf)
+
+For å lese engelsk versjon av forordning [(EU) 2020/782](eu/32020r0782) se her: [(pdf)](static/SF/32020r0782e-01.pdf)

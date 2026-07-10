@@ -252,7 +252,15 @@ Forskriften trer i kraft straks. Samtidig oppheves [forskrift 17. desember 1993 
 
 ## Vedlegg I. Kvalifikasjonsnivåer
 
-Yrkeskvalifikasjonene er ordnet i følgende nivåer:AKursbevis på kvalifikasjon utstedt av ansvarlig myndighet, på grunnlag av 1. opplæring som ikke leder til en formell kvalifikasjon 2. særskilt eksamen uten forutgående opplæring 3. utøvelse av yrket i tre sammenhengende år på fulltid eller av tilsvarende varighet på deltid i løpet av de siste ti år 4. dokumentasjon på antall år eller fullførte fag på grunnskole, eller kompetansebevis fra videregående opplæring dersom denne ikke er fullført.BVitnemål på fullført videregående opplæring. Med dette menes: 1. studieforberedende videregående opplæring 2. yrkesfaglig videregående opplæring.CVitnemål på fullført utdanning utover videregående opplæringsnivå, men som ikke er på nivå med høyere utdanning, dette gjelder 1. utdanning med en varighet på minst ett år 2. yrkesopplæring med særlig struktur som går utover det som kreves i nivå B.DVitnemål på fullført høyere utdanning med en varighet på minst tre år og høyst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS).EVitnemål på fullført høyere utdanning med en varighet på minst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS).
+Yrkeskvalifikasjonene er ordnet i følgende nivåer:
+
+|  |  |
+| --- | --- |
+| A | Kursbevis på kvalifikasjon utstedt av ansvarlig myndighet, på grunnlag av 1. opplæring som ikke leder til en formell kvalifikasjon 2. særskilt eksamen uten forutgående opplæring 3. utøvelse av yrket i tre sammenhengende år på fulltid eller av tilsvarende varighet på deltid i løpet av de siste ti år 4. dokumentasjon på antall år eller fullførte fag på grunnskole, eller kompetansebevis fra videregående opplæring dersom denne ikke er fullført. |
+| B | Vitnemål på fullført videregående opplæring. Med dette menes: 1. studieforberedende videregående opplæring 2. yrkesfaglig videregående opplæring. |
+| C | Vitnemål på fullført utdanning utover videregående opplæringsnivå, men som ikke er på nivå med høyere utdanning, dette gjelder 1. utdanning med en varighet på minst ett år 2. yrkesopplæring med særlig struktur som går utover det som kreves i nivå B. |
+| D | Vitnemål på fullført høyere utdanning med en varighet på minst tre år og høyst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS). |
+| E | Vitnemål på fullført høyere utdanning med en varighet på minst fire år ved et universitet eller annen høyere utdanningsinstitusjon. Utdanningen kan uttrykkes i et tilsvarende antall studiepoeng (ECTS). |
 
 Alle kvalifikasjonsbevis eller sett av kvalifikasjonsbevis utstedt av kompetent myndighet i en EØS-stat, som bevitner bestått utdanning innenfor EØS og som er godkjent av vedkommende stat som å være på et tilsvarende nivå og som gir innehaveren de samme rettigheter med hensyn til adgang til eller utøvelse av et yrke eller forbereder kandidaten for utøvelse av vedkommende yrke, skal behandles som et kvalifikasjonsbevis av den type som omfattes av første ledd, inkludert det aktuelle nivået.
 
@@ -262,13 +270,19 @@ Alle yrkeskvalifikasjoner, selv om de ikke oppfyller kravene i gjeldende lov- el
 
 ## Vedlegg II. Studieprogram og kvalifikasjonsbevis for veterinærer
 
+*1. Studieprogram for veterinærer*
+
 Det studieprogrammet som skal føre frem til et kvalifikasjonsbevis for veterinærer, skal minst omfatte følgende fag. Undervisningen i ett eller flere av disse fagene kan skje innenfor eller i tilknytning til de øvrige fagene.
+
+*A. Grunnleggende fag*
 
 - Fysikk
 - Kjemi
 - Dyre- og cellebiologi
 - Plantebiologi
 - Biomatematikk.
+
+*B. Spesialfag*
 
 1. *Grunnleggende vitenskaper*Anatomi (herunder histologi og embryologi)FysiologiBiokjemiGenetikk og molekylær genetikkFarmasi, farmakologi og farmakoterapi (inkludert antimikrobiell resistens)ToksikologiMikrobiologiImmunologiEpidemiologiYrkesetikk
 2. *Kliniske vitenskaper*ObstetrikkPatologi (herunder patologisk anatomi)ParasittologiKlinisk medisin og kirurgi (herunder anestesiologi)Kliniske undervisning om ulike husdyr, fjørfe og andre dyrearterForebyggende medisinBildediagnostikkForplantning og forplantningslidelserOffentlig veterinærmedisin og offentlig helseLovgivning og rettsmedisin for veterinærerTerapiPropedeutikk
@@ -279,68 +293,72 @@ Praktisk utdanning kan skje i form av en opplæringsperiode, forutsatt at slik o
 
 Fordelingen av teoretisk og praktisk utdanning i de ulike gruppene av emner skal være balansert og samordnet slik at kunnskap og erfaring kan tilegnes på en måte som vil sette veterinæren i stand til å utføre alle sine plikter.
 
-*Stat**Kvalifikasjonsbevis**Organ som tildeler kvalifikasjons­beviset**Attest som ledsager kvalifikasjons­beviset**Referanse­dato*België/Belgique/Belgien (Belgia)- Diploma van dierenarts / Diplôme de docteur en médecine vétérinaire
-- Médecin vétérinaire10- De universiteiten / Les universités
-- De bevoegde Examen-commissie van de Vlaamse Gemeenschap / Le Jury compétent d'enseignement de la Communauté française21.12.1980България
-(Bulgaria)Диплoма за виcшe oбразoваниe на oбра зoватeлнo-квалификациoнна
-cтeпeн магиcтър пo cпeциалнocт Beтeринарна мeдицина c прoфecиoнална квалификация Beтeринарeн лeкар- Лecoтexничecки yнивeрcитeт Coфия Факyлтeт вeтeринарна мeдицина
-- Tракииcки yнивeрc-итeт, Cтара Загoра, Вeтeринарнoмe дицинcки факyлтeт1.1.2007Česká republika (Tsjekkia)- Diplom o ukončení studia ve studijním programu veterinární lékařství (doktor veterinární medicíny, MVDr.)
-- Diplom o ukončení studia ve studijním programu veterinární hygiena a ekologie (doktor veterinární medicíny, MVDr.)Veterinární fakulta univerzity v České republice1.5.2004DanmarkBevis for kandidatuddannelsen i veterinærmedicin (cand.med.vet.)Københavns Universitet21.12.1980Deutschland (Tyskland)- Zeugnis über das Ergebnis des Dritten Abscnitts der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen Prüfung
-- Zeugnis über das Ergebnis der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen PrüfungDer Vorsitzende des Prüfungsausschu sses für die Tierärztliche Prüfung einer Universität oder Hochschule21.12.1980
+*2. Kvalifikasjonsbevis*
 
+| *Stat* | *Kvalifikasjonsbevis* | *Organ som tildeler kvalifikasjons­beviset* | *Attest som ledsager kvalifikasjons­beviset* | *Referanse­dato* |
+| --- | --- | --- | --- | --- |
+| België/Belgique/Belgien (Belgia) | - Diploma van dierenarts / Diplôme de docteur en médecine vétérinaire<br>- Médecin vétérinaire10 | - De universiteiten / Les universités<br>- De bevoegde Examen-commissie van de Vlaamse Gemeenschap / Le Jury compétent d'enseignement de la Communauté française |  | 21.12.1980 |
+| България<br>(Bulgaria) | Диплoма за виcшe oбразoваниe на oбра зoватeлнo-квалификациoнна<br>cтeпeн магиcтър пo cпeциалнocт Beтeринарна мeдицина c прoфecиoнална квалификация Beтeринарeн лeкар | - Лecoтexничecки yнивeрcитeт Coфия Факyлтeт вeтeринарна мeдицина<br>- Tракииcки yнивeрc-итeт, Cтара Загoра, Вeтeринарнoмe дицинcки факyлтeт |  | 1.1.2007 |
+| Česká republika (Tsjekkia) | - Diplom o ukončení studia ve studijním programu veterinární lékařství (doktor veterinární medicíny, MVDr.)<br>- Diplom o ukončení studia ve studijním programu veterinární hygiena a ekologie (doktor veterinární medicíny, MVDr.) | Veterinární fakulta univerzity v České republice |  | 1.5.2004 |
+| Danmark | Bevis for kandidatuddannelsen i veterinærmedicin (cand.med.vet.) | Københavns Universitet |  | 21.12.1980 |
+| Deutschland (Tyskland) | - Zeugnis über das Ergebnis des Dritten Abscnitts der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen Prüfung<br>- Zeugnis über das Ergebnis der Tierärztlichen Prüfung und das Gesamtergebnis der Tierärztlichen Prüfung | Der Vorsitzende des Prüfungsausschu sses für die Tierärztliche Prüfung einer Universität oder Hochschule |  | 21.12.1980<br><br><br><br><br><br><br><br>1.1.2006 |
+| Eesti (Estland) | Diplom: täitnud veterinaarmeditsiini õppekava Loomaarstikraad Degree in Veterinary Medicine (DVM) | Eesti Põllumajandusülik ool<br>Eesti Maaülikool |  | 1.5.2004 |
+| Eλλάς (Hellas) | Πτυχίo Kτηvιατρικής | 1. Aριστoτέλειo Πανεπιστήμιo Θεσσαλoνίκης<br>2. Πανεπιστήμιo Θεσσαλίας |  | 1.1.1981 |
+| España (Spania) | Título de Licenciado en Veterinaria<br>Título de Graduado/a en Veterinaria | - Ministerio de Educación y Cultura - El rector de una universidad<br>- El rector de una Universidad |  | 1.1.1986<br>1.1.1986 |
+| France (Frankrike) | Diplôme d'Etat de docteur vétérinaire | Ministère chargé de l'enseignement supérieur (Université Paris-Est-Créteil, Université<br>Claude-Bernard Lyon I, Université de Nantes, Université Paul-Sabatier-Toulouse III, Université de Rouen16) et ministère chargé de l'agriculture (École nationale vétérinaire d'Alfort, Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnementV etAgroSup, École nationale vétérinaire, agroalimentaire et de l'alimentation-Oniris, École nationale vétérinaire de Toulouse, École vétérinaire UniLaSalle de Rouen - Institut polytechnique UniLaSalle 16) |  | 21.12.1980 |
+| Ireland (Irland) | - Diploma of Bachelor in/of Veterinary Medicine (MVB)<br>- Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS) |  |  | 21.12.1980 |
+| Italia | Diploma di laurea in medicina veterinaria | Università | Diploma di abilitazione all'esercizio della medicina veterinaria | 1.1.1985 |
+| Hrvatska (Kroatia) | Diploma «doktor veterinarske medicine/doktorica veterinarske medicine» | Veterinarski fakultet Sveučilišta u Zagrebu |  | 1.7.2013 |
+| Kύπρoς<br>(Kypros) | Πιστoπoιητικó Eγγραφής Kτηνιάτρoυ<br>Πτυχίο Κτηνιατρικής12 | Kτηνιατρικó Συμβoύλιo<br>Πανεπιστήμιο Λευκωσίας12 |  | 1.5.2004 |
+| Latvija (Latvia) | Veterinārārsta diploms | Latvijas Lauksaimniecības Universitāte |  | 1.5.2004 |
+| Lietuva (Litauen) | Aukštojo mokslo diplomas (veterinarijos gydytojo (DVM))<br><br>Magistro diplomas (veterinarinės medicinos magistro<br>kvalifikacinis laipsnis ir veterinarijos gydytojo profesinė kvalifikacija) Veterinarijos mokslų magistro laipsnis ir Veterinarijos gydytojo kvalifikacija 15 | Lietuvos Veterinarijos Akademija<br><br>Lietuvos sveikatos mokslų universitetas |  | 1.5.2004 |
+| Luxembourg | Diplôme d'Etat de docteur en médecine vétérinaire | Jury d'examen d'Etat |  | 21.12.1980 |
+| Magyarország (Ungarn) | Okleveles állatorvos doktor oklevél (dr. vet) | Felsőoktatási intézmény |  | 1.5.2004 |
+| Malta | Liċenzja ta' Kirurgu Veterinarju<br><br>Master of Science in Veterinary Medicine 13 | Kunsill tal-Kirurġi Veterinarji<br><br>Malta College of Arts Science and Technology (MCAST) 13 |  | 1.5.2004 |
+| Nederland | Getuigschrift van met goed gevolg afgelegd diergeneeskundig/veeartse nijkundigexamen Masterdiploma diergeneeskunde / Medicina e<br>Veterinariae / Master's degree in Veterinary Medicine8 | Faculteit Diergeneeskunde |  | 21.12.1980 |
+| Österreich (Østerrike) | - Diplom-Tierarzt<br>- Magister medicinae veterinariae | Universität |  | 1.1.1994 |
+| Polska (Polen) | Dyplom lekarza weterynarii | 1. Szkoła Główna Gospodarstwa Wiejskiego w Warszawie<br>2. Akademia Rolnicza we Wrocławiu1<br>3. Uniwersytet Przyrodniczy we Wrocławiu2<br>4. Akademia Rolnicza w Lublinie3<br>5. Uniwersytet Przyrodniczy w Lublinie4<br>6. Uniwersytet WarmińskoMazur ski w Olsztynie<br>7. Uniwersytet Przyrodniczy w Poznaniu6<br>8. Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie oraz Uniwersytet Jagielloński w Krakowie7<br>9. Uniwersytet Mikołaja Kopernika w Toruniu11<br>10. Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie 14 |  | 1.5.2004 |
+| Portugal | - Carta de curso de licenciatura em medicina veterinária<br>- Carta de mestrado integrado em medicina veterinária | Universidade |  | 1.1.1986 |
+| România | Diplomă de licență de doctor medic veterinar Diplomă de licență și master de doctor medic veterinar | Universități Ministerul Educatiei Nationale5 |  | 1.1.2007 |
+| Slovenija (Slovenia) | Diploma,s katero se podeljuje strokovni naslov<br>«doktor veterinarske medicine/doktorica veterinarske medicine» | Univerza | Spričevalo o opravljene m državnem izpitu s področja veterinarstv a | 1.5.2004 |
+| Slovensko (Slovakia) | Vysokoškolský diplom o udelení akademického titulu<br>«doktor veterinárskej medicíny» («MVDr.») | Univerzita |  | 1.5.2004 |
+| Suomi/Finland | Eläinlääketieteen lisensiaatin tutkinto / Veterinärmedicine licentiatexamen | Yliopisto |  | 1.1.1994 |
+| Sverige | Veterinärexamen | Sveriges Lantbruksuniversitet |  | 1.1.1994 |
+| United Kingdom (Storbritannia) | 1. Bachelor of Veterinary Science (BVSc)9<br>2. Bachelor of Veterinary Science (BVSc)9<br>3. Bachelor of Veterinary Medicine (Vet MB)9<br>4. Bachelor of Veterinary Medicine and Surgery (BVM&S)9<br>5. Bachelor of Veterinary Medicine and Surgery (BVMS)9<br>6. Bachelor of Veterinary Medicine (BvetMed)9<br>7. Bachelor of Veterinary Medicine and Bachelor of Veterinary<br>Surgery (B.V.M., B.V.S.)9 | 1. University of Bristol<br>2. University of Liverpool<br>3. University of Cambridge<br>4. University of Edinburgh<br>5. University of Glasgow<br>6. University of London<br>7. University of Nottingham |  | 21.12.1980 |
+| Ísland | Diplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedlegg | De kompetente myndigheter | Bevis på fullført praktisk tjeneste utstedt av de kompetente myndighete r | 1.1.1994 |
+| Liechtenstein | Diplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedlegg | De kompetente myndigheter | Bevis på fullført praktisk tjeneste utstedt av de kompetente myndigheter | 1.5.1995 |
 
+1 Gyldig til 22.11.2006.
 
+2 Fra 23.11.2006.
 
+3 Gyldig til 10.4.2008.
 
+4 Fra 11.4.2008.
 
+5 Fra 10.1.2011.
 
-1.1.2006Eesti (Estland)Diplom: täitnud veterinaarmeditsiini õppekava Loomaarstikraad Degree in Veterinary Medicine (DVM)Eesti Põllumajandusülik ool
-Eesti Maaülikool1.5.2004Eλλάς (Hellas)Πτυχίo Kτηvιατρικής1. Aριστoτέλειo Πανεπιστήμιo Θεσσαλoνίκης
-2. Πανεπιστήμιo Θεσσαλίας1.1.1981España (Spania)Título de Licenciado en Veterinaria
-Título de Graduado/a en Veterinaria- Ministerio de Educación y Cultura - El rector de una universidad
-- El rector de una Universidad1.1.1986
-1.1.1986France (Frankrike)Diplôme d'Etat de docteur vétérinaireMinistère chargé de l'enseignement supérieur (Université Paris-Est-Créteil, Université
-Claude-Bernard Lyon I, Université de Nantes, Université Paul-Sabatier-Toulouse III, Université de Rouen16) et ministère chargé de l'agriculture (École nationale vétérinaire d'Alfort, Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnementV etAgroSup, École nationale vétérinaire, agroalimentaire et de l'alimentation-Oniris, École nationale vétérinaire de Toulouse, École vétérinaire UniLaSalle de Rouen - Institut polytechnique UniLaSalle 16)21.12.1980Ireland (Irland)- Diploma of Bachelor in/of Veterinary Medicine (MVB)
-- Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS)21.12.1980ItaliaDiploma di laurea in medicina veterinariaUniversitàDiploma di abilitazione all'esercizio della medicina veterinaria1.1.1985Hrvatska (Kroatia)Diploma «doktor veterinarske medicine/doktorica veterinarske medicine»Veterinarski fakultet Sveučilišta u Zagrebu1.7.2013Kύπρoς
-(Kypros)Πιστoπoιητικó Eγγραφής Kτηνιάτρoυ
-Πτυχίο Κτηνιατρικής12Kτηνιατρικó Συμβoύλιo
-Πανεπιστήμιο Λευκωσίας121.5.2004Latvija (Latvia)Veterinārārsta diplomsLatvijas Lauksaimniecības Universitāte1.5.2004Lietuva (Litauen)Aukštojo mokslo diplomas (veterinarijos gydytojo (DVM))
+6 Fra 1.10.2011.
 
-Magistro diplomas (veterinarinės medicinos magistro
-kvalifikacinis laipsnis ir veterinarijos gydytojo profesinė kvalifikacija) Veterinarijos mokslų magistro laipsnis ir Veterinarijos gydytojo kvalifikacija15Lietuvos Veterinarijos Akademija
+7 Gjelder mellom 1.10.2012 og 23.4.2024.
 
-Lietuvos sveikatos mokslų universitetas1.5.2004LuxembourgDiplôme d'Etat de docteur en médecine vétérinaireJury d'examen d'Etat21.12.1980Magyarország (Ungarn)Okleveles állatorvos doktor oklevél (dr. vet)Felsőoktatási intézmény1.5.2004MaltaLiċenzja ta' Kirurgu Veterinarju
+8 Fra 31.12.2012.
 
-Master of Science in Veterinary Medicine13Kunsill tal-Kirurġi Veterinarji
+9 Utstedt før 1.1.2021.
 
-Malta College of Arts Science and Technology (MCAST)131.5.2004NederlandGetuigschrift van met goed gevolg afgelegd diergeneeskundig/veeartse nijkundigexamen Masterdiploma diergeneeskunde / Medicina e
-Veterinariae / Master's degree in Veterinary Medicine8Faculteit Diergeneeskunde21.12.1980Österreich (Østerrike)- Diplom-Tierarzt
-- Magister medicinae veterinariaeUniversität1.1.1994Polska (Polen)Dyplom lekarza weterynarii1. Szkoła Główna Gospodarstwa Wiejskiego w Warszawie
-2. Akademia Rolnicza we Wrocławiu1
-3. Uniwersytet Przyrodniczy we Wrocławiu2
-4. Akademia Rolnicza w Lublinie3
-5. Uniwersytet Przyrodniczy w Lublinie4
-6. Uniwersytet WarmińskoMazur ski w Olsztynie
-7. Uniwersytet Przyrodniczy w Poznaniu6
-8. Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie oraz Uniwersytet Jagielloński w Krakowie7
-9. Uniwersytet Mikołaja Kopernika w Toruniu11
-10. Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie 141.5.2004Portugal- Carta de curso de licenciatura em medicina veterinária
-- Carta de mestrado integrado em medicina veterináriaUniversidade1.1.1986RomâniaDiplomă de licență de doctor medic veterinar Diplomă de licență și master de doctor medic veterinarUniversități Ministerul Educatiei Nationale51.1.2007Slovenija (Slovenia)Diploma,s katero se podeljuje strokovni naslov
-«doktor veterinarske medicine/doktorica veterinarske medicine»UniverzaSpričevalo o opravljene m državnem izpitu s področja veterinarstv a1.5.2004Slovensko (Slovakia)Vysokoškolský diplom o udelení akademického titulu
-«doktor veterinárskej medicíny» («MVDr.»)Univerzita1.5.2004Suomi/FinlandEläinlääketieteen lisensiaatin tutkinto / Veterinärmedicine licentiatexamenYliopisto1.1.1994SverigeVeterinärexamenSveriges Lantbruksuniversitet1.1.1994United Kingdom (Storbritannia)1. Bachelor of Veterinary Science (BVSc)9
-2. Bachelor of Veterinary Science (BVSc)9
-3. Bachelor of Veterinary Medicine (Vet MB)9
-4. Bachelor of Veterinary Medicine and Surgery (BVM&S)9
-5. Bachelor of Veterinary Medicine and Surgery (BVMS)9
-6. Bachelor of Veterinary Medicine (BvetMed)9
-7. Bachelor of Veterinary Medicine and Bachelor of Veterinary
-Surgery (B.V.M., B.V.S.)91. University of Bristol
-2. University of Liverpool
-3. University of Cambridge
-4. University of Edinburgh
-5. University of Glasgow
-6. University of London
-7. University of Nottingham21.12.1980ÍslandDiplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedleggDe kompetente myndigheterBevis på fullført praktisk tjeneste utstedt av de kompetente myndighete r1.1.1994LiechtensteinDiplomer, eksamensbevis og andre kvalifikasjonsbevis som er utstedt i en annen stat omfattet av dette direktiv og oppført i dette vedleggDe kompetente myndigheterBevis på fullført praktisk tjeneste utstedt av de kompetente myndigheter1.5.1995
+10 Fra 2023/2024.
+
+11 Fra 2018/2019.
+
+12 Fra 24.10.2022.
+
+13 Fra 11.06.2024.
+
+14 Fra 1.10.2019.
+
+15 Fra 2017/2018.
+
+16 Université de Rouen and École vétérinaire UniLaSalle de Rouen – Institut polytechnique UniLaSalle: Fra 2022/2023.
 
 > Endret ved forskrifter [8 des 2014 nr. 1548](forskrift/2014-12-08-1548), [9 mars 2023 nr. 329](forskrift/2023-03-09-329), [9 des 2025 nr. 2484](forskrift/2025-12-09-2484), [19 feb 2026 nr. 260](forskrift/2026-02-19-260), [17 juni 2026 nr. 1111](forskrift/2026-06-17-1111).
 
@@ -348,6 +366,14 @@ Surgery (B.V.M., B.V.S.)91. University of Bristol
 
 Kvalifikasjonsbevis som nevnt i nr. 1-4 er likestilt med bevis som nevnt i forskriften [§ 2-1](forskrift/2009-01-19-77/§2-1) og gir rett til autorisasjon dersomsøkeren legger frem en attest utstedt av kompetent myndighet som dokumenterer at søkeren faktisk og rettmessig har utøvd veterinæryrket på det aktuelle EØS-landets territorium i minst tre sammenhengende år i løpet av de fem siste årene før attesten ble utstedt, ogkompetent myndighet i de aktuelle landene dokumenterer at slike kvalifikasjonsbevis har samme rettslige gyldighet innenfor deres territorium som de kvalifikasjonsbevisene de selv utsteder når det gjelder adgang til yrkesvirksomhet som veterinær.
 
+1\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som veterinær, som innehas av EØS-statsborgere og som er ervervet på territoriet til det tidligere Øst-Tyskland, men som ikke oppfyller de krav til minsteutdanning som er fastsatt i direktiv [2005/36/EF](eu/32005l0036*) artikkel 38, dersom slike bevis dokumenterer bestått fullføring av opplæring som var påbegynt før 3. oktober 1990.
+
+2\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som veterinær, som innehas av EØS-statsborgere, og som er utstedt i det tidligere Tsjekkoslovakia, eller i Tsjekkia eller Slovakia hvis utdanningen var påbegynt før 1. januar 1993.
+
+3\. Bevis for yrkeskvalifikasjoner som gir adgang til yrkesaktivitet som veterinær, som innehas av EØS-statsborgere og er utstedt i det tidligere Sovjetunionen, eller hvis utdanningen var påbegynt
+
 1. i Estland før 20. august 1991
 2. i Latvia før 21. august 1991
 3. i Litauen før 11. mars 1990.
+
+4\. Kvalifikasjonsbevis som gir adgang til yrkesaktivitet som veterinær, som innehas av EØS-statsborgere og er utstedt i det tidligere Jugoslavia, eller hvis utdanningen var påbegynt i Slovenia før 25. juni 1991.

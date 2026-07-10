@@ -23,6 +23,8 @@ eu_basis:
 
 # Lov om infrastruktur for alternativt drivstoff
 
+Følgende lov oppheves:
+
 - [Lov 19. juni 2020 nr. 95 om infrastruktur for alternativt drivstoff](lov/2020-06-19-95).
 
 ## § 1. Gjennomføring av forordning om utbygging av infrastruktur for alternativt drivstoff

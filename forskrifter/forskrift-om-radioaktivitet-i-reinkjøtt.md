@@ -52,6 +52,8 @@ Kompensasjonen skal under enhver omstendighet ikke overstige kr 2000,- per rein 
 
 > Endret ved forskrift [22 juni 2021 nr. 2269](forskrift/2021-06-22-2269) (i kraft 1 juli 2021).
 
+1 Jf. gjeldende satser for kompensasjoner for tiltak vedrørende radioaktivitet i reinkjøtt.
+
 ## § 5. Utmåling av kompensasjon etter fastsatte satser
 
 Kompensasjon til fremskyndet slakt ytes etter sats 1.
@@ -70,6 +72,8 @@ Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7
 
 > Endret ved forskrift [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021).
 
+1 Jf. gjeldende satser for kompensasjoner for tiltak vedrørende radioaktivitet i reinkjøtt.
+
 ## § 7. Tap av dyr ved måling av radioaktivitet eller ved nedfôring
 
 Tap av dyr ved måling av radioaktivitet, eller ved gjennomføring av nedfôring etter [§ 4](forskrift/2015-07-01-814/§4), dekkes etter fastsatte satser.1 Tap av kalv dekkes etter sats 6, mens tap av rein over 1 år dekkes etter sats 7.
@@ -79,6 +83,8 @@ Tap skal være godkjent av statsforvalteren.
 Tap etter første ledd kan medregnes som del av slakteuttak i forbindelse med søknad om produksjonspremie og kalveslaktetilskudd.
 
 > Endret ved forskrifter [21 des 2020 nr. 3044](forskrift/2020-12-21-3044) (i kraft 1 jan 2021), [21 juni 2023 nr. 1017](forskrift/2023-06-21-1017) (i kraft 1 juli 2023).
+
+1 Jf. gjeldende satser for kompensasjoner for tiltak vedrørende radioaktivitet i reinkjøtt.
 
 ## § 8. Tilgang på ikke forurenset rein til eget hushold
 
@@ -105,3 +111,13 @@ Statsforvalteren kan dispensere fra denne forskriften dersom særlige grunner fo
 Denne forskrift trer ikraft 1. juli 2015. Samtidig oppheves [forskrift 19. juni 2008 nr. 712](forskrift/2008-06-19-712) om kompensasjon for utgifter, merarbeid og økonomisk tap som reineiere påføres som følge av tiltak mot radioaktivitet i reinkjøtt.
 
 ## Vedlegg 1: Satser
+
+| *Sats* | *Tiltak* | *Beløp (kr)* |
+| --- | --- | --- |
+| 1 | Fremskyndet slakt (per dyr) | 300 |
+| 2 | Nedfôring i anlegg, 3000–5000 Bq/kg (per rein) | 535 |
+| 3 | Nedfôring i anlegg, over 5000 Bq/kg (per rein) | 805 |
+| 4 | Nedfôring på naturlig beite, 3000–5000 Bq/kg (per rein) | 70 |
+| 5 | Nedfôring på naturlig beite, over 5000 Bq/kg (per rein) | 135 |
+| 6 | Erstatning for tap av kalv (per kalv) | 1340 |
+| 7 | Erstatning for tap av rein over 1 år (per rein) | 2000 |

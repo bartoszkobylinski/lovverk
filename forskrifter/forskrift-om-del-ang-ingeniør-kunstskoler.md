@@ -30,6 +30,10 @@ eu_basis: []
 
 Kirke- og undervisningsdepartementet1 har fullmakt til å fastsette bestemmelser om organisering av undervisningen og om virksomheten ellers, om eksamen, vitnemål, studentopptak o.l. ved ingeniørhøgskolene.
 
+1 Utdannings- og forskningsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).
+
 ## III
 
 Inntil ingeniørhøgskolene hører under ansvarsområdet for de regionale høgskolestyrer, jfr. reglement fastsatt ved kgl.res. 20. februar 1976, har Kirke- og undervisningsdepartementet1 fullmakt til å fastsette styringsstruktur for ingeniørhøgskolene. Kirke- og undervisningsdepartementet1 har i samme tidsrom også fullmakt til å tilsette tjenestemenn ved disse høgskolene, jfr. [tjenestemannslovens § 2](lov/1983-03-04-3/§2) nr. 1, og til å gjøre vedtak som omhandlet i [tjenestemannslovens § 2](lov/1983-03-04-3/§2) nr. 2 og § 39.
+
+1 Utdannings- og forskningsdepartementet, ifølge [res. 22. des. 1989 nr. 1273](forskrift/1989-12-22-1273).

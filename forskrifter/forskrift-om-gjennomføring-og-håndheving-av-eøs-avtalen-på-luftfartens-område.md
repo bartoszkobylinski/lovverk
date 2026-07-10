@@ -30,6 +30,8 @@ Følgende regler i EØS-avtalen Vedlegg XIII, [kapittel VI](lov/1992-11-27-109/k
 
 > Endret ved [forskrifter 19 mai 2000 nr. 445](forskrift/2000-05-19-445) (i kraft 1 juli 2000), [23 juni 2000 nr. 588](forskrift/2000-06-23-588) (i kraft 15 juli 2000), [15 aug 2001 nr. 923](forskrift/2001-08-15-923) (i kraft 1 sep 2001), [17 des 2004 nr. 1854](forskrift/2004-12-17-1854), [17 feb 2005 nr. 141](forskrift/2005-02-17-141), [23 mai 2005 nr. 459](forskrift/2005-05-23-459), [21 feb 2008 nr. 189](forskrift/2008-02-21-189), [12 aug 2011 nr. 833](forskrift/2011-08-12-833), [3 april 2020 nr. 676](forskrift/2020-04-03-676), [30 okt 2020 nr. 2212](forskrift/2020-10-30-2212), [9 mars 2021 nr. 640](forskrift/2021-03-09-640), [10 feb 2022 nr. 199](forskrift/2022-02-10-199), [21 mars 2022 nr. 436](forskrift/2022-03-21-436), [16 nov 2022 nr. 1986](forskrift/2022-11-16-1986), [5 mars 2024 nr. 385](forskrift/2024-03-05-385).
 
+1 Myndigheten delegert til Luftfartsverket iflg. [vedtak 15 juli 1994 nr. 805](forskrift/1994-07-15-805) (for nr. 4 gjelder delegeringen internasjonal trafikk), som igjen er delegert til Luftfartstilsynet iflg. [vedtak 10 des 1999 nr. 1273](forskrift/1999-12-10-1273).
+
 ### § 1a. (Opphevet)
 
 > Tilføyd ved forskrift [8 des 2021 nr. 3435](forskrift/2021-12-08-3435), opphevet ved forskrift [10 feb 2022 nr. 199](forskrift/2022-02-10-199).
@@ -54,9 +56,9 @@ Samferdselsdepartementet har fullmakt til å foreta mindre endringer i forskrift
 
 ### § 6
 
-1. Forskriften trer i kraft straks.
+1\. Forskriften trer i kraft straks.
 
-2. Fra samme tidspunkt oppheves:[forskrift 20. august 1993 nr. 818](forskrift/1993-08-20-818) om gjennomføring og håndheving av tillegg til avtale om sivil luftfart mellom Norge, Sverige og Det Europeiske Økonomiske Fellesskap[forskrift 20. august 1993 nr. 819](forskrift/1993-08-20-819) om luftfartsselskapers adgang til markedet[forskrift 20. august 1993 nr. 820](forskrift/1993-08-20-820) om utstedelse av lisenser til luftfartsselskaper, og[forskrift 21. februar 1994 nr. 139](forskrift/1994-02-21-139) om gjennomføring og handheving av EØS-avtalen på luftfartens område.
+2\. Fra samme tidspunkt oppheves:[forskrift 20. august 1993 nr. 818](forskrift/1993-08-20-818) om gjennomføring og håndheving av tillegg til avtale om sivil luftfart mellom Norge, Sverige og Det Europeiske Økonomiske Fellesskap[forskrift 20. august 1993 nr. 819](forskrift/1993-08-20-819) om luftfartsselskapers adgang til markedet[forskrift 20. august 1993 nr. 820](forskrift/1993-08-20-820) om utstedelse av lisenser til luftfartsselskaper, og[forskrift 21. februar 1994 nr. 139](forskrift/1994-02-21-139) om gjennomføring og handheving av EØS-avtalen på luftfartens område.
 
 ## II
 

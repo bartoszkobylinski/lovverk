@@ -176,7 +176,16 @@ Skolen kan i reglement fastsette utfyllende bestemmelser om eksamens- og vurderi
 
 (2) Det skal fremgå av studieplanen hvilket karaktersystem som benyttes for det enkelte emne/fag.
 
-(3) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:AFremragendeFremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse.BMeget godtMeget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse.
+(3) Karakterskalaen A til F anvendes ved hjelp av følgende vurderingskriterier:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjoner som klart utmerker seg. Studenten viser helhetlig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| B | Meget godt | Meget god prestasjon. Studenten viser solid innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten viser god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser nokså god innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser tilstrekkelig innsikt, kunnskaper, ferdigheter og generell kompetanse. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser manglende innsikt og sammenheng, kunnskaper, ferdigheter og generell kompetanse. |
 
 (4) Eksamenskarakterene skal gjøres tilgjengelig for studentene, senest 15 virkedager etter avholdt eksamen. Etter fullført og bestått utdanning vil vitnemål bli sendt hjem til studenten. Ved klage vil vitnemålet bli sendt studenten på samme måte, så snart klagebehandling er endelig avsluttet.
 

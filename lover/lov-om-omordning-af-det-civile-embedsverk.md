@@ -30,6 +30,8 @@ Dog kan Forretninger, der ikke ved Lov er tillagte Fogedembederne, efter Kongens
 
 > Endret ved lov 6 mars 1964 nr. 2.
 
+1 Etter sktbl. skattekontoret, jf. [sktfvl. § 2-1](lov/2016-05-27-14/§2-1).
+
 ## § 2.
 
 Den Fogderne efter Formandskabsloven af 14 Januar 1837 for Landet med senere Tillægslove tilliggende Befatning med Kommunernes Anliggender og Deltagelse i Amtsthingenes Møder bortfalder. Til at føre Protokollen i Amtsthingenes Møder antager Amtsthinget i eller udenfor sin Midte en dertil skikket Mand, hvis Godtgjørelse i Tilfælde udredes af Amtskassen.
@@ -45,6 +47,8 @@ Den Fogderne efter Formandskabsloven af 14 Januar 1837 for Landet med senere Til
 Forsaavidt noget Byfogedembede ophæves, henlægges af de samme nu tilliggende Forretninger:Dommer- og Skriverforretninger, Skifte- og Auktionsforretninger, Notarialforretninger, Arrest- og Forbudsforretninger, samt Mændsopnævnelser til Sorenskrivere.Oppebørselsforretninger til Amtskasserere.Politiforretninger og Raadstuskriverforretninger samt [Magistratsforretninger],1 der ikke ovenfor under Litr. a er nævnt, til Politimestre eller efter Kongens Bestemmelse til en anden offentlig Tjenestemand.
 
 > Endret ved [lover 21 juni 1985 nr. 78](lov/1985-06-21-78), [26 juni 1992 nr. 86](lov/1992-06-26-86).
+
+1 Magistratembetene ble opphevet ved [lov 9 mars 1917](lov/1917-03-09).
 
 ## § 5. (Opphevet)
 
@@ -63,6 +67,8 @@ Den Betaling for Embedsforretninger og de uvisse Indtægter, der i Henhold til L
 Amtskasserere1 og Politimestre samt Amtskassereres Betjente tilkommer paa Reiser Skyds- og Kostgodtgjørelse og henføres til den Klasse, som af Kongen bestemmes.
 
 [Politimestre er for Reiser til Eftersyn af Maal og Vægt berettigede til, foruden den dem efter Regulativet tilkommende Skydsgodtgjørelse, at erholde efter Regning godtgjort nødvendigt Udlæg for Befordring af medført fornøden Bagage.]2
+
+1 Etter sktbl. skattekontoret, jf. [sktfvl. § 2-1](lov/2016-05-27-14/§2-1).2 Nå uten betydning, se [lov 26 jan 2007 nr. 4](lov/2007-01-26-4).
 
 ## § 9.
 

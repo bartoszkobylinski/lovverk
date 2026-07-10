@@ -24,9 +24,13 @@ eu_basis: []
 
 ## I
 
-I samsvar med vilkårene i [matloven § 26a](lov/2003-12-19-124/§26a) kan Helsedirektoratet ilegge virksomheter som forsettlig eller uaktsomt overtrer [§ 4](forskrift/2025-04-25-684/§4) i denne forskriften overtredelsesgebyr på inntil fire prosent av virksomhetens årsomsetning eller inntil 20 ganger folketrygdens grunnbeløp (G), der det høyeste beløpet utgjør den øvre rammen.
+I [forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn](forskrift/2025-04-25-684) gjøres følgende endringer:
 
-Ved avgjørelsen om overtredelsesgebyr skal ilegges og ved utmålingen av gebyret, kan det blant annet legges vekt på følgende momenter:overtredelsens grovhet og varighetgrad av skyldeventuelle tidligere overtredelser av denne forskriftenom flere personer berøres av overtredelsenmomentene som nevnt i [forvaltningsloven § 44 tredje ledd](lov/1967-02-10/§44/ledd/3) og [§ 46 andre ledd](lov/1967-02-10/§46/ledd/2).
+– – –
+
+Ny [§ 8](forskrift/2025-04-25-684/§8) skal lyde:
+
+Nåværende [§§ 8](forskrift/2025-04-25-684/§8) og [9](forskrift/2025-04-25-684/§9) blir [§§ 9](forskrift/2025-04-25-684/§9) og 10.
 
 ## II
 

@@ -58,7 +58,14 @@ Gruppekvotene angitt i forskriften er ikke justert for eventuelle overføringer 
 
 ### § 7. Fartøykvoter
 
-Fartøy med ringnottillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:1500 hl +40 % av konsesjonskapasiteten fra0 –4000 hl30 % av konsesjonskapasiteten fra4000 –6000 hl20 % av konsesjonskapasiteten fra6000 –10 000 hl10 % av konsesjonskapasiteten over10 000 hl
+Fartøy med ringnottillatelse tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 1500 hl + | 40 % av konsesjonskapasiteten fra | 0 – | 4000 hl |
+|  | 30 % av konsesjonskapasiteten fra | 4000 – | 6000 hl |
+|  | 20 % av konsesjonskapasiteten fra | 6000 – | 10 000 hl |
+|  | 10 % av konsesjonskapasiteten over | 10 000 hl |  |
 
 Kvotefaktoren blir omregnet til tonn ved at 1 hektoliter = 0,1 tonn (100 kilo).
 
@@ -82,7 +89,15 @@ Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektor
 
 ### § 10. Fartøykvoter
 
-Fartøy med tillatelse til å fiske norsk vårgytende sild med trål, tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:50 tonn +50 % av bruttotonnasje fra0 –10040 % av bruttotonnasje fra101 –20030 % av bruttotonnasje fra201 –30020 % av bruttotonnasje fra301 –40010 % av bruttotonnasje fra401 –600
+Fartøy med tillatelse til å fiske norsk vårgytende sild med trål, tildeles fartøykvoter på grunnlag av følgende kvotefaktorer:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| 50 tonn + | 50 % av bruttotonnasje fra | 0 – | 100 |
+|  | 40 % av bruttotonnasje fra | 101 – | 200 |
+|  | 30 % av bruttotonnasje fra | 201 – | 300 |
+|  | 20 % av bruttotonnasje fra | 301 – | 400 |
+|  | 10 % av bruttotonnasje fra | 401 – | 600 |
 
 Kvoten til det enkelte fartøyet beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
 
@@ -106,7 +121,31 @@ Før oppstart av fisket med partrål skal det sendes melding til Fiskeridirektor
 
 ### § 13. Fartøykvoter for fartøy i lukket gruppe
 
-Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta norsk vårgytende sild:*Hjemmelslengde**Kvotefaktor**Fartøykvote (garantert) for alle fartøy (tonn)*Fartøy under 7,00 m1,3131,410Fartøy 7,0–7,99 m1,9747,235Fartøy 8,0–8,99 m2,6262,820Fartøy 9,0–9,99 m3,9394,230Fartøy 10,0–10,99 m4,59110,055Fartøy 11,0–11,99 m5,24125,641Fartøy 12,0–12,99 m5,90141,465Fartøy 13,0–13,99 m6,55157,051Fartøy 14,0–14,99 m7,86188,461Fartøy 15,0–15,99 m8,40201,408Fartøy 16,0–16,99 m8,85212,198Fartøy 17,0–17,99 m9,39225,146Fartøy 18,0–18,99 m10,43250,082Fartøy 19,0–19,99 m11,47275,018Fartøy 20,0–20,99 m12,52300,195Fartøy 21,0–21,99 m14,08337,599Fartøy 22,0–22,99 m15,65375,243Fartøy 23,0–23,99 m17,21412,648Fartøy 24,0–24,99 m18,78450,292Fartøy 25,0–25,99 m20,34487,696Fartøy 26,0 m og over21,91525,340
+Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta norsk vårgytende sild:
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Fartøykvote (garantert) for alle fartøy (tonn)* |
+| --- | --- | --- |
+| Fartøy under 7,00 m | 1,31 | 31,410 |
+| Fartøy 7,0–7,99 m | 1,97 | 47,235 |
+| Fartøy 8,0–8,99 m | 2,62 | 62,820 |
+| Fartøy 9,0–9,99 m | 3,93 | 94,230 |
+| Fartøy 10,0–10,99 m | 4,59 | 110,055 |
+| Fartøy 11,0–11,99 m | 5,24 | 125,641 |
+| Fartøy 12,0–12,99 m | 5,90 | 141,465 |
+| Fartøy 13,0–13,99 m | 6,55 | 157,051 |
+| Fartøy 14,0–14,99 m | 7,86 | 188,461 |
+| Fartøy 15,0–15,99 m | 8,40 | 201,408 |
+| Fartøy 16,0–16,99 m | 8,85 | 212,198 |
+| Fartøy 17,0–17,99 m | 9,39 | 225,146 |
+| Fartøy 18,0–18,99 m | 10,43 | 250,082 |
+| Fartøy 19,0–19,99 m | 11,47 | 275,018 |
+| Fartøy 20,0–20,99 m | 12,52 | 300,195 |
+| Fartøy 21,0–21,99 m | 14,08 | 337,599 |
+| Fartøy 22,0–22,99 m | 15,65 | 375,243 |
+| Fartøy 23,0–23,99 m | 17,21 | 412,648 |
+| Fartøy 24,0–24,99 m | 18,78 | 450,292 |
+| Fartøy 25,0–25,99 m | 20,34 | 487,696 |
+| Fartøy 26,0 m og over | 21,91 | 525,340 |
 
 Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten er 23,9772 tonn.
 
@@ -120,7 +159,19 @@ Fartøy som benyttet adgangen i 2025 i medhold av [forskrift 20. desember 2024 n
 
 ### § 15. Fartøykvoter for fartøy i åpen gruppe
 
-Fartøy med adgang til å delta i åpen gruppe med landnot og garn, kan fiske og lande følgende kvanta norsk vårgytende sild:*Fartøyets største lengde**Kvotefaktor**Fartøykvoter (tonn)*Fartøy under 7 m1,3115,705Fartøy 7,0–7,99 m1,9723,618Fartøy 8,0–8,99 m2,6231,410Fartøy 9,0–9,99 m3,9347,115Fartøy 10,0–10,99 m4,5955,028Fartøy 11,0–11,99 m5,2462,820Fartøy 12,0–12,99 m5,9070,733Fartøy 13,0–13,99 m6,5578,525Fartøy 14,0 m og over7,8694,230
+Fartøy med adgang til å delta i åpen gruppe med landnot og garn, kan fiske og lande følgende kvanta norsk vårgytende sild:
+
+| *Fartøyets største lengde* | *Kvotefaktor* | *Fartøykvoter (tonn)* |
+| --- | --- | --- |
+| Fartøy under 7 m | 1,31 | 15,705 |
+| Fartøy 7,0–7,99 m | 1,97 | 23,618 |
+| Fartøy 8,0–8,99 m | 2,62 | 31,410 |
+| Fartøy 9,0–9,99 m | 3,93 | 47,115 |
+| Fartøy 10,0–10,99 m | 4,59 | 55,028 |
+| Fartøy 11,0–11,99 m | 5,24 | 62,820 |
+| Fartøy 12,0–12,99 m | 5,90 | 70,733 |
+| Fartøy 13,0–13,99 m | 6,55 | 78,525 |
+| Fartøy 14,0 m og over | 7,86 | 94,230 |
 
 Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktor med en kvoteenhet på 11,9886 tonn.
 

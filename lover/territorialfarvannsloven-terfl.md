@@ -72,4 +72,8 @@ Kongen kunngjør grenselinjene for sjøterritoriet og den tilstøtende sone i sa
 
 Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.1 Kongen kan bestemme senere ikrafttredelse for Bouvetøya, Peter Is øy og Dronning Maud Land.
 
+1 Fra 1 jan 2004 iflg. [res. 27 juni 2003 nr. 798](forskrift/2003-06-27-798). Ikrafttredelse for bilandene, Bouvetøya, Peter Is øy og Dronning Maud Land, utsettes. Ved [res. 25 feb 2005 nr. 173](forskrift/2005-02-25-173) er loven satt ikr. for Bouvetøya 1 apr 2005.
+
 ## § 8. Endringer i annen lovgivning
+
+– – –

@@ -50,15 +50,21 @@ Denne forskriften trer i kraft 8. mars 2017.
 
 ## Kommentarer til de enkelte bestemmelsene
 
+*Til [§ 1](forskrift/2017-03-07-282/§1)*
+
 Bestemmelsene i [§ 1](forskrift/2017-03-07-282/§1) presiserer paragrafens virkeområde og formål. Sikkerhet omhandler sikkerhetstiltak som har til hensikt å forhindre eller forsinke uvedkommende i å ta seg inn i lokalet, og sikre den fysiske sikkerheten ved opphold i krisesenterlokalet eller tilsvarende botilbud. Dette vil omfatte sikring av senterets utvendige fasade, ankomst og uteområde, samt individuelle sikkerhetstiltak. Forskriften omhandler både ansattes og brukernes sikkerhet, herunder også barns sikkerhet.
 
 Forskriftens krav vil inngå som en del av det statlige tilsynet med at kommunen oppfyller pliktene pålagt etter [krisesenterlovens § 2](lov/2009-06-19-44/§2), [§ 3](lov/2009-06-19-44/§3), [§ 4](lov/2009-06-19-44/§4) og [§ 8](lov/2009-06-19-44/§8).
+
+*Til [§ 2](forskrift/2017-03-07-282/§2)*
 
 Bestemmelsen i [§ 2](forskrift/2017-03-07-282/§2) angir at kommunen har ansvar for at forskriftens formål blir ivaretatt, blant annet ved at de ansatte har tilstrekkelig kompetanse til å kartlegge behov for sikkerhetstiltak.
 
 For å kunne vurdere hvilke sikkerhetstiltak den enkelte bruker har behov for, har ansatte på krisesentre behov for informasjon om hvilke konkrete trusler som foreligger. Gjennom systematisk kartlegging, kan ansatte på krisesenteret vurdere brukerens beskyttelsesbehov. Det vil imidlertid kunne være krevende å gjennomføre en slik kartlegging av personer i akutt krise. Kommunen må derfor sørge for at ansatte har tilstrekkelig kompetanse.
 
 [§ 2](forskrift/2017-03-07-282/§2) skal også ivareta at det er tilstrekkelig bemanning ved krisesenteret for å ivareta lovens krav til at krisesentertilbudet skal være et heldøgns tilbud. I dette ligger at mangelfull eller fraværende døgnbemanning kan utgjøre en risiko knyttet til fysisk sikkerhet. I perioder hvor det ikke er brukere ved krisesenteret må krav til døgnbemanning ivaretas ved sikre bakvaktordninger.
+
+*Til [§ 3](forskrift/2017-03-07-282/§3)*
 
 Bestemmelsene i [§ 3](forskrift/2017-03-07-282/§3) omfatter tiltak for å sikre et byggs utvendige fasade og ankomst- og uteområde. Hensikten er å forhindre eller forsinke uvedkommende i å ta seg inn i lokalet, samt sikre trygg ankomst og ferdsel for brukere og ansatte i lokalet og på lokalets uteområder. Sikring av byggets fasade skal bidra til at det tar lengre tid å komme seg gjennom de fysiske barrierene enn det tar for eksempel for politi eller vaktselskap å komme til stedet og avverge en truende situasjon.
 
@@ -71,6 +77,8 @@ Det er også lagt inn krav om å ha sikre vinduer som kun kan låses og åpnes i
 Det fremgår av forskriften at det også kan være relevant å vurdere å etablere en sluse ved inngang til krisesenter. Med sluse menes at det innenfor inngangsdør er et lite rom imellom til en ny dør. En slik sluse kan være et ekstra hinder for uvedkommende å komme inn i krisesenteret.
 
 Det er videre angitt at det bør gjennomføres tiltak for å hindre innsyn til krisesenteret fra gateplan og nærområder. Dette kan være tiltak som å sørge for tette gardiner, envegsvinduer, utvendig vegetasjon som skjermer uteområdet og hindrer innsyn i det uteområdet som er tilgjengelig. Uteområdet bør også være utformet slik at uønsket inntrengning ikke er mulig.
+
+*Til [§ 4](forskrift/2017-03-07-282/§4)*
 
 Individuelle sikkerhetstiltak er tiltak som er tilpasset den enkelte ansatte eller brukers behov for fysisk sikring ved opphold i krisesenteret. Bestemmelsene i [§ 4](forskrift/2017-03-07-282/§4) omfatter tiltak som innebærer kartlegging av den trussel som foreligger for den enkelte bruker, samt vurdering og utarbeidelse av individuelt tilpassede sikkerhetstiltak.
 

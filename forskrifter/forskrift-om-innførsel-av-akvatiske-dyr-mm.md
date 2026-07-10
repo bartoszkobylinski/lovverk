@@ -46,6 +46,8 @@ Slaktet usløyd fisk av artene atlantisk laks (*Salmo salar*), sjøørret (*Salm
 
 > Endret ved [forskrift 15 jan 2004 nr. 336](forskrift/2004-01-15-336).
 
+1 Desinfeksjon skal foretas i samsvar med Section 5.2, Appendix 5.2.1 of the International Aquatic Animal Health Code of the International Office of Epizootic Diseases, Third edition 2000.
+
 ## § 4. Dispensasjon
 
 Mattilsynet kan gi tillatelse til unntak fra [§ 3](forskrift/2003-05-30-661/§3) ved innførsel av prøver av akvatiske dyr og produkter av disse til vitenskapelig bruk, samt sette vilkår for slikt unntak, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.

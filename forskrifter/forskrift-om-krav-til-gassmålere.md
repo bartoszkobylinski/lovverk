@@ -66,15 +66,38 @@ Produsenten skal angi det klimatiske og elektromagnetiske miljø som gassmålere
 
 Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt gassmåleren og konverteringsinnretningen er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.
 
+*Tabell 1*
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C |
+| Nedre temperaturgrense | 5 °C | –10 °C | –25 °C | –40° C |
+
 ### § 8. Mekanisk miljø
 
 Det mekaniske miljø klassifiseres i følgende klasser:
+
+*Tabell 2*
+
+|  |  |
+| --- | --- |
+| M1 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv. |
+| M2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv. |
+| M3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:vibrasjonmekanisk sjokk.
 
 ### § 9. Elektromagnetisk miljø
 
 Det elektromagnetiske miljø klassifiseres i E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.
+
+*Tabell 3*
+
+|  |  |
+| --- | --- |
+| E1 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger. |
+| E2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg. |
+| E3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift. |
 
 Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:spenningsavbruddkortvarig redusert spenningelektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledningerhøyfrekvente elektromagnetiske feltoverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningeroverspenning på forsyningsledninger og/eller signalledninger.
 
@@ -188,7 +211,7 @@ Produsenten skal angi driftsbetingelser som følger:Strømningsrate for gasstrø
 
 ### § 26. Største tillatte målefeil
 
-1. *Gassmåler som angir volum ved måleforholdene eller angir masse**Tabell 1**Klasse**1,5**1,0*Qmin ≤ Q < Qt3 %2 %Qt ≤ Q ≤ Qmax1,5 %1 %
+1. *Gassmåler som angir volum ved måleforholdene eller angir masse**Tabell 1* *Klasse**1,5**1,0*Qmin ≤ Q < Qt3 %2 %Qt ≤ Q ≤ Qmax1,5 %1 %
 2. Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.
 3. For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 0,5 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 0,5 % for hvert område på 10 °C.
 
@@ -266,7 +289,7 @@ Brukeren skal kvalitetssikre måleverdiene og håndteringen av disse gjennom hel
 
 ### § 39. Maksimal tillatt målefeil under bruk
 
-Brukeren skal sørge for at positiv eller negativ målefeil under bruk ikke skal overstige:Gassmåler som angir volum ved måleforholdene eller angir masse*Tabell 2**Klasse**1,5**1,0*Qmin ≤ Q < Qt4 %4 %Qt ≤ Q ≤ Qmax3 %2 %Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 1 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 1 % for hvert område på 10 °C.Volumkonverteringsinnretning1 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning,1,4 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold,2 % for andre konverteringsinnretninger ved nominelle driftsforhold.
+Brukeren skal sørge for at positiv eller negativ målefeil under bruk ikke skal overstige:Gassmåler som angir volum ved måleforholdene eller angir masse*Tabell 2* *Klasse**1,5**1,0*Qmin ≤ Q < Qt4 %4 %Qt ≤ Q ≤ Qmax3 %2 %Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 1 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 1 % for hvert område på 10 °C.Volumkonverteringsinnretning1 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning,1,4 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold,2 % for andre konverteringsinnretninger ved nominelle driftsforhold.
 
 ## Kapittel 4 – Avsluttende bestemmelser
 

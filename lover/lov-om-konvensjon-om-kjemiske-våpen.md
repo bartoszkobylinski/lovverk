@@ -53,3 +53,5 @@ Den som bryt denne lova eller føresegner som er gjevne med heimel i lova, vert 
 ## § 6.
 
 Lova trer i kraft på det tidspunktet som Konvensjonen om forbod mot utvikling, produksjon, lagring og bruk av kjemiske våpen samt øydelegging av dei1 trer i kraft.
+
+1 Fra 29 april 1997.

@@ -30,11 +30,21 @@ Finansdepartementet traff den 15. februar 1994 vedtak om avgiftsfritak hvorfra h
 
 I brev av 25. mars 2010 ber Universitetet i Tromsø (UiT) om at Finansdepartementets vedtak oppdateres slik at dette samsvarer med de aktuelle bestemmelsene i merverdiavgiftsloven av 2009 (mval. 2009). UiO anmoder videre om å få tilsendt et oppdatert vedtak relatert til § 6-9 i mval. 2009.
 
+*1. Fritak gitt med hjemmel i [merverdiavgiftsloven 1969 § 16](lov/1969-06-19-66/§16) annet ledd bokstav a)*
+
 Merverdiavgiftsloven 1969 ([mval. 1969) § 16](lov/1969-06-19-66/§16) første ledd nr. 2 a bestemte at det ikke skulle beregnes merverdiavgift ved omsetning av varer og tjenester til bruk på skip på minst 15 meter største lengde når det i utenriks fart fraktet last eller mot vederlag befordret passasjerer. Avgrensning og utfylling av fritaket var regulert i MVA-forskrift nr. 24.
 
 Finansdepartementet hadde i medhold av [mval. 1969 § 16](lov/1969-06-19-66/§16) annet ledd bokstav a hjemmel til å bestemme at avgiftsfriheten etter lovens § 16 første ledd nr. 2 a også skulle gjelde varer og tjenester til bruk for andre fartøyer under opphold i utenriks fart. Finansdepartementet bestemte som tidligere nevnt at «Jan Mayen» skulle likestilles med skip i utenriks fart når det gjelder levering av varer og tjenester til skipet, jf. § 16 første ledd nr. 2.
 
 Den 19. juni 2009 vedtok Stortinget ny «teknisk revidert» merverdiavgiftslov. Den nye loven gjenspeiler i det vesentligste mval. 1969, men på enkelte punkter ble det gjort endringer. Finansdepartementets hjemmel etter [mval. 1969 § 16](lov/1969-06-19-66/§16) annet ledd bokstav a er videreført i [mval. 2009 § 6-30](lov/2009-06-19-58/§6-30) (5), idet departementet blant annet er gitt hjemmel til å gi forskrift om avgiftsfritak for varer og tjenester til bruk for andre fartøy enn fartøy i utenriks fart under opphold utenfor merverdiavgiftsområdet. Myndigheten er delegert til Skattedirektoratet som i forskrift til merverdiavgiftsloven ([FMVA) § 6-30-11](forskrift/2009-12-15-1540/§6-30-11) og § 6-30-12 har vedtatt regler om avgiftsfritak for slike fartøy. § 6-30-11 har følgende ordlyd:
+
+«**§ 6-30-11**. *Varer og tjenester til fartøy som oppholder seg utenfor merverdiavgiftsområdet*
+
+(1) Omsetning av varer til andre fartøy enn norske fiske- og fangstfartøy som har oppdrag som medfører et sammenhengende opphold utenfor merverdiavgiftsområdet på minst 14 dager er fritatt for merverdiavgift. Det er et vilkår for fritak at varene leveres direkte til fartøyet og at de blir brukt i næringsvirksomhet eller i offentlig tjeneste. Fritaket omfatter ikke varer som forbrukes på fartøy som ligger i opplag i merverdiavgiftsområdet.
+
+(2) For mat, drikke og tobakksvarer til forpleining eller omsetning til mannskap gjelder begrensningene i [tollforskriften § 4-23-4](forskrift/2008-12-17-1502/§4-23-4) tredje ledd tredje punktum og § 4-23-5 annet ledd.
+
+(3) Omsetning av følgende tjenester til fartøy som nevnt i første ledd er fritatt for merverdiavgift
 
 1. sleping av fartøyet
 2. utleie av varig driftsutstyr som leveres til fartøyet
@@ -44,12 +54,22 @@ Skattedirektoratet antar at FMVA § 6-30-11 i de fleste tilfeller gir tilsvarend
 
 Skattedirektoratet antar videre at forskningsskipet «Jan Mayen» er omfattet av avgiftsfritaket i [mval. 2009 § 6-9](lov/2009-06-19-58/§6-9) (1) og (2). Bestemmelsen har følgende ordlyd:
 
+«**§ 6-9**. *Fartøy mv.*
+
+(1) Omsetning av følgende fartøy er fritatt for merverdiavgift:
+
 1. fartøy på minst 15 meter til bruk for persontransport mot vederlag, varetransport, sleping, berging eller redning, isbryting eller fangstvirksomhet
 2. spesialfartøy til bruk i petroleumsvirksomhet til havs
 3. skolefartøy
 4. fartøy på minst ti meter som anskaffes til Forsvaret
 5. fartøy til bruk for forsking og værvarsling
 6. fartøy på minst seks meter til bruk for yrkesmessig fiske
+
+Fritaket omfatter også driftsutstyr som leveres sammen med slike fartøy.
+
+(2) Omsetning av tjenester som står i direkte forbindelse med bygging, ombygging, reparasjon og vedlikehold av fartøy som nevnt i første ledd eller driftsutstyr for slike fartøy, er fritatt for merverdiavgift i siste omsetningsledd. Fritaket omfatter også varer som leveres i forbindelse med slike tjenester.»
+
+*2. Fritak gitt med hjemmel i [merverdiavgiftsloven 1969 § 70](lov/1969-06-19-66/§70)*
 
 [Merverdiavgiftsloven 1969 § 70](lov/1969-06-19-66/§70) er videreført i [merverdiavgiftsloven 2009 § 19-3](lov/2009-06-19-58/§19-3) første ledd, og myndigheten til å treffe vedtak er ved Finansdepartementets brev av [23. september 2009 nr. 1214](forskrift/2009-09-23-1214) delegert til Skattedirektoratet. Delegeringen innebærer ingen endring av tidligere delegeringspraksis under [merverdiavgiftsloven 1969 § 70](lov/1969-06-19-66/§70). Skattedirektoratet er blant annet gitt myndighet til å innvilge og avslå alle søknader om videreføring av tidligere gitt enkeltvedtak.
 

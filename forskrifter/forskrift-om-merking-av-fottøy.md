@@ -82,9 +82,98 @@ Produkter som er merket i henhold til bestemmelsene i [forskriften av 3. mars 19
 
 ### 1. Definisjon av de deler av fottøyet som skal identifiseres og tilsvarende piktogrammer eller tekstangivelser
 
+|  |  | *Piktogrammer* | *Tekstangivelse* |  |
+| --- | --- | --- | --- | --- |
+| a) | **Overdel** |  | N | Overdel |
+|  |  |  | S | Ovandel |
+|  | Fottøyets overdel er |  | D | Obermaterial |
+|  | utsiden av den |  | DK | Overdel |
+|  | bestanddel som er |  |  |  |
+|  | festet til yttersålen. |  | EN | Upper |
+| b) | **Fôr og innersåle/** |  | N | Fôr og innersåle/ |
+|  | **bindsåle** |  |  | bindsåle |
+|  |  |  | S | Foder och |
+|  | Består av overdelens fôr |  |  | innersula/bindsula |
+|  | og innersålen/bindsålen, |  | D | Futter und brand- |
+|  | som utgjør innsiden av |  |  | sohle/Decksohle |
+|  | fottøyet. |  | DK | Foring og bindsål |
+|  |  |  | EN | Lining and inner |
+|  |  |  |  | sole/sock |
+| c) | **Yttersåle** |  | N | Yttersåle |
+|  |  |  | S | Slitsula |
+|  | Består av underdelen av |  | D | Laufsohle |
+|  | fottøyet, som utsettes for |  | EN | Outer sole |
+|  | slitasje og er festet til |  | DK | Ydersål |
+|  | overdelen. |  |  |  |
+
 ### 2. Definisjon av materialene og tilsvarende piktogrammer
 
-Piktogrammene til materialene skal vises på merkingen i nærheten av piktogrammene for de tre delene av fottøyet som nevnt i artikkel 4 og i del 1 i vedlegget.*Piktogrammer**Tekstangivelse*a)i) **Lær**NLærSLäderGenerell betegnelse på dyrehud ellerDLedereller -skinn som har beholdt denDKLæderopprinnelige fiberstruktur merENLeathereller mindre intakt og som ergarvet for ikke å råtne. Hår ellerull kan være fjernet eller beholdt.Lær kan også framstilles av hudeller skinn som er spaltet i lageller oppstykket i deler entenfør eller etter garving. Dersomgarvet hud eller skinn nedbrytesmekanisk og/eller kjemisk i fiber-partikler, smådeler eller pulver ogderetter med eller uten bindemidlerformes til plater eller på annenmåte, kan den eller det imidlertidikke betegnes som «lær». Dersomlæret har et overflatebelegg, uansetthvordan det er festet, eller etpålimt lag, skal disse være høyst0,15 mm tykke. Denne definisjonenomfatter altså alt lær med forbeholdfor andre rettslige forpliktelsersom f.eks. [Washingtonkonvensjonen.](traktat/1973-03-03-1)Dersom betegnelsen «fullnarv»anvendes innenfor rammen av defrivillige tilleggsopplysningene iform av tekst nevnt i artikkel 5, skalden anvendes på lær med den opp-rinnelige narv slik den framstår nåroverhuden er fjernet og uten at noeoverflatelag er fjernet ved polering,avstryking eller spalting.a)ii) **Belagt lær**NBelagt lærSÖverdragetProdukt der tykkelsen påläderoverflatebelegget eller detDBeschichte-pålimte laget ikke overstigertes Lederen tredel av produktetsDKOvertrukketsamlede tykkelse, men er overlæder0,15 mm.ENCoatedLeatherb)**Materialer av naturfibre samt**NTekstil-**syntetiske eller ikke-vevde**materialer**tekstilmaterialer**STextil-materialMed «tekstiler» menes alleDTextilprodukter som omfattes avDKTekstil-direktiv [71/307/EØF](eu/31971l0307*), medmaterialersamtlige endringer.ENTextilec)**Andre materialer**NØvrigematerialerSÖvrigamaterialDSonstigesMaterialDKAndrematerialerENOthermaterials
+Piktogrammene til materialene skal vises på merkingen i nærheten av piktogrammene for de tre delene av fottøyet som nevnt i artikkel 4 og i del 1 i vedlegget.
+
+|  |  | *Piktogrammer* | *Tekstangivelse* |  |
+| --- | --- | --- | --- | --- |
+| a) | i) **Lær** |  | N | Lær |
+|  |  |  | S | Läder |
+|  | Generell betegnelse på dyrehud eller |  | D | Leder |
+|  | eller -skinn som har beholdt den |  | DK | Læder |
+|  | opprinnelige fiberstruktur mer |  | EN | Leather |
+|  | eller mindre intakt og som er |  |  |  |
+|  | garvet for ikke å råtne. Hår eller |  |  |  |
+|  | ull kan være fjernet eller beholdt. |  |  |  |
+|  | Lær kan også framstilles av hud |  |  |  |
+|  | eller skinn som er spaltet i lag |  |  |  |
+|  | eller oppstykket i deler enten |  |  |  |
+|  | før eller etter garving. Dersom |  |  |  |
+|  | garvet hud eller skinn nedbrytes |  |  |  |
+|  | mekanisk og/eller kjemisk i fiber- |  |  |  |
+|  | partikler, smådeler eller pulver og |  |  |  |
+|  | deretter med eller uten bindemidler |  |  |  |
+|  | formes til plater eller på annen |  |  |  |
+|  | måte, kan den eller det imidlertid |  |  |  |
+|  | ikke betegnes som «lær». Dersom |  |  |  |
+|  | læret har et overflatebelegg, uansett |  |  |  |
+|  | hvordan det er festet, eller et |  |  |  |
+|  | pålimt lag, skal disse være høyst |  |  |  |
+|  | 0,15 mm tykke. Denne definisjonen |  |  |  |
+|  | omfatter altså alt lær med forbehold |  |  |  |
+|  | for andre rettslige forpliktelser |  |  |  |
+|  | som f.eks. [Washingtonkonvensjonen.](traktat/1973-03-03-1) |  |  |  |
+|  | Dersom betegnelsen «fullnarv» |  |  |  |
+|  | anvendes innenfor rammen av de |  |  |  |
+|  | frivillige tilleggsopplysningene i |  |  |  |
+|  | form av tekst nevnt i artikkel 5, skal |  |  |  |
+|  | den anvendes på lær med den opp- |  |  |  |
+|  | rinnelige narv slik den framstår når |  |  |  |
+|  | overhuden er fjernet og uten at noe |  |  |  |
+|  | overflatelag er fjernet ved polering, |  |  |  |
+|  | avstryking eller spalting. |  |  |  |
+| a) | ii) **Belagt lær** |  | N | Belagt lær |
+|  |  |  | S | Överdraget |
+|  | Produkt der tykkelsen på |  |  | läder |
+|  | overflatebelegget eller det |  | D | Beschichte- |
+|  | pålimte laget ikke overstiger |  |  | tes Leder |
+|  | en tredel av produktets |  | DK | Overtrukket |
+|  | samlede tykkelse, men er over |  |  | læder |
+|  | 0,15 mm. |  | EN | Coated |
+|  |  |  |  | Leather |
+| b) | **Materialer av naturfibre samt** |  | N | Tekstil- |
+|  | **syntetiske eller ikke-vevde** |  |  | materialer |
+|  | **tekstilmaterialer** |  | S | Textil- |
+|  |  |  |  | material |
+|  | Med «tekstiler» menes alle |  | D | Textil |
+|  | produkter som omfattes av |  | DK | Tekstil- |
+|  | direktiv [71/307/EØF](eu/31971l0307*), med |  |  | materialer |
+|  | samtlige endringer. |  | EN | Textile |
+| c) | **Andre materialer** |  | N | Øvrige |
+|  |  |  |  | materialer |
+|  |  |  | S | Övriga |
+|  |  |  |  | material |
+|  |  |  | D | Sonstiges |
+|  |  |  |  | Material |
+|  |  |  | DK | Andre |
+|  |  |  |  | materialer |
+|  |  |  | EN | Other |
+|  |  |  |  | materials |
 
 ## Vedlegg II. Eksempler på fottøy som omfattes av denne forskrift
 

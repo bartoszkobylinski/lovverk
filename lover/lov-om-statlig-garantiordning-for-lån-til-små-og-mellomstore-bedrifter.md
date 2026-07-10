@@ -89,3 +89,5 @@ Departementet kan i forskrift gi nærmere regler til utfylling og gjennomføring
 ## § 11. Ikrafttredelse
 
 Loven gjelder fra den tid1 Kongen bestemmer. Departementet kan gi nærmere overgangsregler.
+
+1 Fra 27 mars 2020 iflg. [vedtak 27 mars 2020 nr. 476](forskrift/2020-03-27-476).

@@ -31,3 +31,6 @@ Ny § 19-9 a gis virkning for personer som tar ut alderspensjon tidligst fra 1. 
 Uførepensjon fra folketrygden omregnes til uføretrygd etter de nye reglene med virkning fra den dato loven trer i kraft. Dette gjelder også der uførepensjon innvilges på et senere tidspunkt, men med virkningstidspunkt før loven trer i kraft.
 
 Departementet gir forskrifter omomregning av uførepensjon til uføretrygd ogfastsetting av pensjonspoeng og pensjonsopptjening for inntektsåret før loven trer i kraft.
+
+1 Iflg. [res. 16 des 2011 nr. 1249](forskrift/2011-12-16-1249) trådte folketrygdloven ny § 19-9a og endringsloven del II ikr. 1 feb 2012.
+Iflg. [res. 20 juni 2014 nr. 797](forskrift/2014-06-20-797) trådte resten av loven ikr. 1 jan 2015.

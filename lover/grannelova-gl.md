@@ -235,3 +235,5 @@ Granneskjøn er rettsleg skjøn.
 3. Kongen kan gjeva nærare føresegner til gjennomføring av denne lova.
 
 > Endra med [lov 13 mars 1981 nr. 6](lov/1981-03-13-6).
+
+1 Frå 1 jan 1962 iflg. res. 22 des 1961.

@@ -24,6 +24,8 @@ eu_basis:
 
 # Lov om datadeling og dataforvaltning (dataforvaltningsloven)
 
+Endringer i følgende lover:
+
 1. [Lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet (miljøinformasjonsloven)](lov/2003-05-09-31).
 2. [Lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova)](lov/2006-05-19-16).
 
@@ -163,16 +165,22 @@ Loven gjelder fra den tiden Kongen fastsetter. Kongen kan sette de ulike bestemm
 
 Fra den tiden loven trer i kraft, gjøres følgende endringer i andre lover:
 
-Det er ikke adgang til å ta betaling for miljøinformasjon som noen har rett til å få utlevert etter loven her, med mindre annet er bestemt i forskrift fastsatt i medhold av denne loven, [offentleglova](lov/2006-05-19-16) eller dataforvaltningsloven.
+**1.** I [lov 9. mai 2003 nr. 31 om rett til miljøinformasjon og deltakelse i offentlige beslutningsprosesser av betydning for miljøet](lov/2003-05-09-31) gjøres følgende endringer:
+
+[§ 6](lov/2003-05-09-31/§6) skal lyde:
+
+[§ 13 andre ledd femte punktum](lov/2003-05-09-31/§13/ledd/2/setning/5) skal lyde:
 
 Kongen kan gi forskrift om at bestemmelsene i første ledd annet punktum og annet ledd tredje og fjerde punktum i paragrafen her ikke skal gjelde for visse virksomheter eller typer av virksomheter som ikke omfattes av [EØS-avtalen vedlegg XI](avtale/avt-1992-05-02-1-v11) nr. 5k (direktiv [(EU) 2019/1024](eu/32019l1024)) om åpne data og viderebruk av informasjon fra offentlig sektor.
 
-Informasjon som det er gitt tilgang til etter lova her, kan brukast til kva formål som helst dersom ikkje anna lovgiving eller retten til ein tredjeperson er til hinder for det.
+**2.** I [lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd](lov/2006-05-19-16) gjøres følgende endringer:
 
-Organet kan berre krevje betaling for innsyn etter denne lova dersom det har heimel i forskrift etter andre ledd eller etter dataforvaltningsloven.
+[§ 2 sjuende ledd](lov/2006-05-19-16/§2/ledd/7) oppheves.
 
-Kongen kan gi forskrift om betaling for avskrifter, utskrifter eller kopiar. Betalingssatsane skal vere slik at dei samla inntektene ikkje blir større enn dei faktiske kostnadene ved kopiering og utsending av dokument.
+[§ 6 tredje ledd](lov/2006-05-19-16/§6/ledd/3) oppheves.
 
-Organet fastset ut frå omsynet til forsvarleg saksbehandling korleis eit dokument skal gjerast kjent. Det kan krevjast papirkopi eller elektronisk kopi av dokumentet. Hos verksemder som er omfatta av dataforvaltningsloven, og hos andre verksemder der det er fastsett av Kongen i forskrift, gjeld retten til kopi alle eksisterande format og språkversjonar. Retten til kopi gjeld ikkje format eller versjonar av eit dokument som er allment tilgjengeleg.
+[§ 7](lov/2006-05-19-16/§7) skal lyde:
 
-Kongen kan gi forskrift om korleis elektronisk kopi skal givast og om unntak frå retten til elektronisk kopi, mellom anna at retten ikkje skal gjelde for dokument som ein tredjeperson har immaterielle rettar til, eller for dokument der det er påkravd av arkivtekniske omsyn, medrekna dokument etter direktiv [(EU) 2019/1024](eu/32019l1024).
+[§ 8](lov/2006-05-19-16/§8) skal lyde:
+
+[§ 30](lov/2006-05-19-16/§30) skal lyde:

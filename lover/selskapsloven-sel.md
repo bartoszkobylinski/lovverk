@@ -156,6 +156,8 @@ Selskapets eiendeler skal holdes atskilt fra deltakernes øvrige eiendeler. Plik
 
 > Endret ved [lover 10 juni 1988 nr. 44](lov/1988-06-10-44), [16 juni 1989 nr. 71](lov/1989-06-16-71), [20 juni 2014 nr. 25](lov/2014-06-20-25) (ikr. 1 juli 2014).
 
+1 Ved [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091) er Kongens myndighet etter § 2-10 delegert til Arbeids- og sosialdepartementet, med fullmakt til å delegere videre til Bedriftsdemokratinemnda.
+
 ### § 2-11
 
 (1) Selskapsmøtet innkalles på hensiktsmessig måte og med nødvendig varsel. Innkallingen skal opplyse om hvilke spørsmål som skal behandles på møtet, møteform og om fremgangsmåten for å delta og stemme.
@@ -834,12 +836,18 @@ Selskapets midler kan ikke deles ut eller kreves utdelt til deltakerne i større
 
 Kongen bestemmer når loven trer i kraft.1
 
+1 Fra 1 juli 1986 iflg. [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091).
+
 ### § 4-2. Overgangsbestemmelser
 
 (1) For selskaper som er stiftet før lovens ikrafttredelse gjelder loven med følgende unntak og særregler:– – –Eldre avtale om annen ansvarform enn angitt i [§ 2-4](lov/1985-06-21-83/§2-4) første ledd kan gjøres gjeldende etter de hittil gjeldende regler inntil den avvikende ansvarformen er registrert i handelsregisteret/Foretaksregisteret, jf [§ 2-4](lov/1985-06-21-83/§2-4) tredje ledd annet punktum. Dette gjelder likevel bare dersom den avvikende ansvarform er meldt til registrering senest to år etter lovens ikrafttredelseReglene om uttreden (§§ 2-32 til 2-35 jf [§ 3-25](lov/1985-06-21-83/§3-25)), utelukking (§ 2-36 jf [§ 3-26](lov/1985-06-21-83/§3-26)) og oppløsing og avvikling (§§ 2-37 til 2-42 jf [§§ 3-27](lov/1985-06-21-83/§3-27) og [3-28](lov/1985-06-21-83/§3-28)) gjelder når melding om utløsing er kommet inn til selskapet eller beslutning om utelukking eller oppløsing er truffet etter lovens ikrafttredelseBestemmelsene i [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd gjelder ikke. [§ 3-1](lov/1985-06-21-83/§3-1) tredje ledd tredje punktum er likevel til hinder for at det etter lovens ikrafttredelse etableres nye sameier i komplementarandelKommandittselskaps bundne selskapskapital, [§ 3-1](lov/1985-06-21-83/§3-1) jf [§ 3-2](lov/1985-06-21-83/§3-2) bokstav b, skal fastsettes i forhold til selskapskapitalen ved lovens ikrafttredelse– – –– – –(2) Når særlige grunner tilsier det, kan Kongen1 i det enkelte tilfelle gjøre unntak fra bestemmelsene i foregående ledd– – –Har selskapet utstedt andelsbevis, og disse ikke tilfredsstiller kravene i [§ 3-23](lov/1985-06-21-83/§3-23), gjelder [§ 3-24](lov/1985-06-21-83/§3-24) første ledd siste punktum tilsvarende.
 
 > Endret ved [lov 21 juni 1985 nr. 78](lov/1985-06-21-78).
 
+1 Finansdepartementet iflg. [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091).
+
 ### § 4-3. Endringer i andre lover
 
 Fra den tid1 loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+1 Fra 1 juli 1986 iflg. [res. 13 des 1985 nr. 2091](forskrift/1985-12-13-2091).

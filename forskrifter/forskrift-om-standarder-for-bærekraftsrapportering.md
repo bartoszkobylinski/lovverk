@@ -32,6 +32,10 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg 1
 
+[Pdf-fil](static/SF/sf-20241220-3325-01-02.pdf).
+
 > Endret ved forskrift [13 nov 2025 nr. 2371](forskrift/2025-11-13-2371).
 
 ## Vedlegg 2
+
+[Pdf-fil](static/SF/sf-20241220-3325-02-01.pdf).

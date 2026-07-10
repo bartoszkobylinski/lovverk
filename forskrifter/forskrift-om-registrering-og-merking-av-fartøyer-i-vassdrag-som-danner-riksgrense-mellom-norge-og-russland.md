@@ -70,7 +70,15 @@ I det venstre felt skal numrene være anbragt med pregede, svarte tall på hvit 
 
 I høyre felt skal de norske nasjonalfarger være anbragt med en bredde av 160 mm (vertikale striper).
 
-Tallene skal ha følgende størrelse:høyde90 mmminste bredde (unntatt ett-tall)45 mmstrektykkelse15 mmminste innbyrdes avstand10 mmminste avstand til skiltets kant eller til høyre felt15 mm
+Tallene skal ha følgende størrelse:
+
+|  |  |
+| --- | --- |
+| høyde | 90 mm |
+| minste bredde (unntatt ett-tall) | 45 mm |
+| strektykkelse | 15 mm |
+| minste innbyrdes avstand | 10 mm |
+| minste avstand til skiltets kant eller til høyre felt | 15 mm |
 
 Typenes høyde over skiltets plan må ikke overstige 1,5 mm.
 

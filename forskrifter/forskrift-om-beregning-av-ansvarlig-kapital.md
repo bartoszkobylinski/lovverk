@@ -100,6 +100,8 @@ Fondsobligasjonskapital opptatt før 31. desember 2010 som teller med som kjerne
 
 > Tilføyd ved [forskrift 22 aug 2014 nr. 1103](forskrift/2014-08-22-1103) (i kraft 30 sep 2014), opphevet ved [forskrift 19 des 2019 nr. 2111](forskrift/2019-12-19-2111) (i kraft 31 des 2019, unntatt § 22).
 
+**§ 12 – § 21** (Opphevet)
+
 > Tilføyd ved [forskrift 22 aug 2014 nr. 1103](forskrift/2014-08-22-1103) (i kraft 30 sep 2014), endret ved [forskrift 9 des 2016 nr. 1528](forskrift/2016-12-09-1528) (i kraft 1 jan 2017), opphevet ved [forskrift 19 des 2019 nr. 2111](forskrift/2019-12-19-2111) (i kraft 31 des 2019).
 
 ### § 22. Ikrafttreden

@@ -407,6 +407,8 @@ Forbrukertilsynet og Markedsrådet skal føre kontroll med at bestemmelser gitt 
 
 Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene i loven kan settes i kraft til ulik tid.
 
+1 Fra 1. jan 2023 iflg. [res. 17 juni 2022 nr. 1034](forskrift/2022-06-17-1034).
+
 ### § 57. Overgangsregler
 
 1. Loven gjelder for levering av digitale ytelser som skjer etter lovens ikrafttredelse, med de unntak som følger av nr. 2 til 4.

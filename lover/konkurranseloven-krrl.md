@@ -570,6 +570,8 @@ Fra samme tid oppheves [lov 11. juni 1993 nr. 65](lov/1993-06-11-65) om konkurra
 
 > Endret ved lover [14 juni 2013 nr. 35](lov/2013-06-14-35) (ikr. 1 jan 2014 iflg. [res. 14 juni 2013 nr. 633](forskrift/2013-06-14-633), tidligere § 32), [15 apr 2016 nr. 2](lov/2016-04-15-2) (ikr. 1 apr 2017 iflg. [res. 24 mars 2017 nr. 376](forskrift/2017-03-24-376), tidligere § 35), [20 des 2024 nr. 100](lov/2024-12-20-100) (i kraft 1 juli 2025 iflg. [res. 20 des 2024 nr. 3307](forskrift/2024-12-20-3307), tidligere § 41).
 
+1 Fra 1 mai 2004 iflg. [res. 5 mars 2004 nr. 479](forskrift/2004-03-05-479).
+
 ### § 49. Overgangsbestemmelser
 
 Forskrifter, vedtekter, reglementer og instrukser som er gitt i medhold av [lov 11. juni 1993 nr. 65](lov/1993-06-11-65) om konkurranse i ervervsvirksomhet gjelder fortsatt så langt de passer, inntil Kongen opphever eller endrer disse i medhold av denne lov eller ved særskilt bestemmelse.

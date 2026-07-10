@@ -42,6 +42,8 @@ Frivillige organisasjoner og andre aktører som er registrert i Enhetsregisteret
 
 Det kan søkes om tilskudd til drift og prosjekter.
 
+*Driftstilskudd*
+
 Det kan gis tilskudd til drift til frivillige organisasjoner som har utadrettet familie- og likestillingspolitisk arbeid som sin kjernevirksomhet, og som kan dokumentere dette med vedtekter, mål og planer.
 
 Paraplyorganisasjoner, nasjonale organisasjoners utvalg, andre liknende underutvalg på lokalt nivå, lokallag av landsomfattende organisasjoner og organisasjoner som mottar driftstilskudd over egen post på statsbudsjettet tildeles ikke driftstilskudd i ordningen.
@@ -62,6 +64,8 @@ Ved kontant betaling til sentralleddet må personen som betaler sin kontingent s
 
 Ved lokal innkreving skal det enkelte lokalledd føre liste over tellende medlemmer. Listen skal sendes til sentralleddet uansett hvilken innbetalingsform som benyttes. Av listen må det fremgå navn, adresse, om medlemmet har betalt kontingent for grunnlagsåret og størrelsen på den innbetalte kontingenten. Medlemslisten skal signeres av leder av lokallaget eller av to av lokallagsstyrets medlemmer.
 
+*Prosjekttilskudd*
+
 Det kan gis prosjekttilskudd til tidsavgrensede satsinger.
 
 Det kan søkes om prosjekttilskudd for inntil tre år. Midlene utbetales for ett år av gangen, hvorav de påfølgende årene innvilges med forbehold om Stortingets budsjettvedtak. For søknader som innvilges tilskudd for flere år, er det ikke nødvendig å søke om midler hvert år.
@@ -69,6 +73,8 @@ Det kan søkes om prosjekttilskudd for inntil tre år. Midlene utbetales for ett
 Prosjekttilskudd gis ikke til driftsformål, det vil si oppgaver som normalt inngår i organisasjonens interne og eksterne kjernevirksomhet i henhold til vedtekter, formål og aktivitetsplaner.
 
 Størrelsen på tilskuddene blir fastsatt på bakgrunn av størrelsen av bevilgningen og etter en helhetlig og skjønnsmessig vurdering av:de søknader som er innkommet for tilskuddsåret,prosjektbeskrivelse og budsjett,kvaliteten på det planlagte tiltaket,tiltakets mulighet til å oppnå målet med ordningen, se [§ 1](forskrift/2022-01-14-70/§1) og [§ 2](forskrift/2022-01-14-70/§2),målgruppe og nedslagsfelt,tiltakets størrelse og varighet, ogegenfinansiering. Som egenfinansiering regnes økonomiske midler som søker stiller til disposisjon for tiltaket.
+
+*Prioriterte tiltak:*
 
 - Tiltak som bidrar til å bedre likestilling for kvinner og menn.
 - Tiltak som bidrar til å engasjere gutter og menn i likestillingsarbeid.
@@ -100,11 +106,15 @@ Fristen for å sende inn regnskap og rapport bestemmes av Bufdir, og står i til
 
 Krav til innholdet i rapporten fremgår av tilskuddsbrevet og rapporteringsskjemaet. Bufdir kan stille særskilte krav til innholdet i rapporteringen fra enkeltmottakere av tilskudd. Slike krav vil stå i av tilskuddsbrevet eller inngå som en del av oppfølgingen av rapporten. I enkelte tilfeller vil statusrapportering underveis kunne kreves.
 
+*Driftstilskudd*
+
 Mottakere av driftstilskudd kan sende inn virksomhetens årsmelding/årsrapport i stedet for en egen rapport om bruken av tilskuddet.
 
 Mottakere av driftstilskudd skal også sende inn kontospesifisert årsregnskap med revisjonsberetning fra statsautorisert revisor. Til revisor kan en ikke velge noen som er inhabil, se [revisorloven § 4-1](lov/2020-11-20-128/§4-1).
 
 Årsregnskapet må være spesifisert slik at det går frem at tilskuddet er nyttet etter forutsetningene. Driftstilskudd som er gitt etter dette regelverket og utbetalt i tilskuddsåret, skal være spesifisert i årsregnskapet eller i note til dette.
+
+*Prosjekttilskudd*
 
 Mottakere av prosjekttilskudd skal sende inn et eget regnskap for prosjektet. Regnskapet skal være revidert, og revisjonen skal omfatte hele det mottatte tilskuddet og gjelde for hele prosjektperioden. Mottar virksomheten kr 200 000 eller mer i prosjekttilskudd, må regnskapet for prosjektet være attestert av statsautorisert revisor. Til revisor kan en ikke velge noen som er inhabil, se [revisorloven](lov/2020-11-20-128).
 

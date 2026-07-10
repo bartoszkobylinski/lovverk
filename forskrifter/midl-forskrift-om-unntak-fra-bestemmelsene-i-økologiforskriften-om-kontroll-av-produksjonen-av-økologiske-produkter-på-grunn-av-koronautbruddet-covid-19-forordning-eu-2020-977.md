@@ -47,9 +47,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av kommisjonens gjennomføri
 
 Endringene er innarbeidet nedenfor.
 
+► **B** Forordning [(EU) 2020/977](eu/32020r0977) som endret ved
+
+► **M1** Forordning [(EU) 2020/1667](eu/32020r1667)
+
+► **M2** Forordning [(EU) 2021/772](eu/32021r0772)
+
+► **M3** Forordning [(EU) 2021/1325](eu/32021r1325)
+
 ### Kommisjonens gjennomføringsforordning [(EU) 2020/977](eu/32020r0977)
 av 7. juli 2020
 om unntak fra forordning [(EF) nr. 889/2008](eu/32008r0889) og (EF) [nr. 1235/2008](eu/32008r1235) med hensyn til kontroll av produksjonen av økologiske produkter som følge av covid-19-pandemien
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter og om oppheving av forordning [(EØF) nr. 2092/91](eu/31991r2092)1, særlig artikkel 28 nr. 6, artikkel 30 nr. 2 tredje ledd og artikkel 38 bokstav c), d) og e), og
+
+ut fra følgende betraktninger:
 
 1. Covid-19-pandemien og de omfattende bevegelsesrestriksjonene som medlemsstatene og tredjestater har innført i form av nasjonale tiltak, utgjør en ekstraordinær og hittil usett utfordring for medlemsstatene og driftsansvarlige når det gjelder å gjennomføre kontrollene angitt i forordning [(EF) nr. 834/2007](eu/32007r0834) og kommisjonsforordning [(EF) nr. 889/2008](eu/32008r0889)2 og (EF) [nr. 1235/2008](eu/32008r1235)3.
 2. På grunnlag av opplysninger mottatt fra medlemsstatene er det nødvendig å fravike visse bestemmelser i forordning [(EF) nr. 889/2008](eu/32008r0889) og (EF) [nr. 1235/2008](eu/32008r1235).
@@ -64,29 +80,41 @@ om unntak fra forordning [(EF) nr. 889/2008](eu/32008r0889) og (EF) [nr. 1235/20
 11. Etter utbruddet av covid-19-pandemien i Kina innførte landet reiserestriksjoner som har vært gjeldende siden begynnelsen av januar 2020. Det bør derfor fastsettes en tidligere anvendelsesdato for kontrollvirksomhet utført i Kina.
 12. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Komiteen for økologisk produksjon.
 
+1 EUT L 189 av 20.7.2007, s. 1.
+
+2 Kommisjonsforordning [(EF) nr. 889/2008](eu/32008r0889) av 5. september 2008 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) om økologisk produksjon og merking av økologiske produkter med hensyn til økologisk produksjon, merking og kontroll (EUT L 250 av 18.9.2008, s. 1).
+
+3 Kommisjonsforordning [(EF) nr. 1235/2008](eu/32008r1235) av 8. desember 2008 om fastsettelse av nærmere regler for gjennomføring av rådsforordning [(EF) nr. 834/2007](eu/32007r0834) med hensyn til ordningene for import av økologiske produkter fra tredjestater (EUT L 334 av 12.12.2008, s. 25).
+
+4 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler (EUT L 95 av 7.4.2017, s. 1).
+
+5 Kommisjonens gjennomføringsforordning [(EU) 2020/466](eu/32020r0466) av 30. mars 2020 om midlertidige tiltak for å begrense risikoer for menneskers og dyrs helse, plantehelsen og dyrevelferden under visse alvorlige uregelmessigheter i medlemsstatenes kontrollsystemer på grunn av koronavirussykdom (covid-19) (EUT L 98 av 31.3.2020, s. 30).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1. Unntak fra forordning (EF) nr. 889/2008
 
-1. Dersom det som følge av nasjonale tiltak knyttet til covid-19-pandemien er innført bevegelsesrestriksjoner, kan den fysiske kontrollen hos driftsansvarlige med økologisk produksjon, når kontrollen gjennomføres som ledd i den årlige inspeksjonen og med sikte på fornyelse av underlagsdokumentene, som unntak fra artikkel 65 nr. 1 i forordning [(EF) nr. 889/2008](eu/32008r0889) erstattes med dokumentkontroll for driftsansvarlige som utgjør en lav risiko i henhold til vedkommende myndighets risikovurdering, eller, dersom det er relevant, kontrollmyndighetens eller kontrollorganets risikovurdering, som fastsatt i artikkel 27 nr. 3 i forordning [(EF) nr. 834/2007](eu/32007r0834). Dokumentkontrollen av driftsansvarlige som utgjør en lav risiko i henhold til vedkommende myndighets risikovurdering, eller, dersom det er relevant, kontrollmyndighetens eller kontrollorganets risikovurdering, som fastsatt i artikkel 27 nr. 3 i forordning [(EF) nr. 834/2007](eu/32007r0834), kan om nødvendig også utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel.
+1\. Dersom det som følge av nasjonale tiltak knyttet til covid-19-pandemien er innført bevegelsesrestriksjoner, kan den fysiske kontrollen hos driftsansvarlige med økologisk produksjon, når kontrollen gjennomføres som ledd i den årlige inspeksjonen og med sikte på fornyelse av underlagsdokumentene, som unntak fra artikkel 65 nr. 1 i forordning [(EF) nr. 889/2008](eu/32008r0889) erstattes med dokumentkontroll for driftsansvarlige som utgjør en lav risiko i henhold til vedkommende myndighets risikovurdering, eller, dersom det er relevant, kontrollmyndighetens eller kontrollorganets risikovurdering, som fastsatt i artikkel 27 nr. 3 i forordning [(EF) nr. 834/2007](eu/32007r0834). Dokumentkontrollen av driftsansvarlige som utgjør en lav risiko i henhold til vedkommende myndighets risikovurdering, eller, dersom det er relevant, kontrollmyndighetens eller kontrollorganets risikovurdering, som fastsatt i artikkel 27 nr. 3 i forordning [(EF) nr. 834/2007](eu/32007r0834), kan om nødvendig også utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel.
 
-2. Dersom det som følge av nasjonale tiltak knyttet til covid-19-pandemien er innført bevegelsesrestriksjoner, skal den fysiske kontrollen nevnt i artikkel 65 nr. 1 i forordning [(EF) nr. 889/2008](eu/32008r0889) hos andre driftsansvarlige enn dem som er nevnt i nr. 1 i denne artikkelen, også hos driftsansvarlige som ønsker å delta i ordningen for økologisk produksjon for første gang, og i alle andre tilfeller, for eksempel ved anerkjennelse med tilbakevirkende kraft, gjennomføres så snart kontroll- og sertifiseringsvirksomheten kan gjenopptas i de berørte medlemsstatene og i den berørte tredjestaten, dvs. når de nasjonale tiltakene knyttet til covid-19-pandemien oppheves. Inntil da kan dokumentkontrollen som utføres som ledd i den årlige inspeksjonen og med sikte på utstedelse og fornyelse av underlagsdokumentene til driftsansvarlige med økologisk produksjon, og anerkjennelse med tilbakevirkende kraft, om nødvendig også utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel.
+2\. Dersom det som følge av nasjonale tiltak knyttet til covid-19-pandemien er innført bevegelsesrestriksjoner, skal den fysiske kontrollen nevnt i artikkel 65 nr. 1 i forordning [(EF) nr. 889/2008](eu/32008r0889) hos andre driftsansvarlige enn dem som er nevnt i nr. 1 i denne artikkelen, også hos driftsansvarlige som ønsker å delta i ordningen for økologisk produksjon for første gang, og i alle andre tilfeller, for eksempel ved anerkjennelse med tilbakevirkende kraft, gjennomføres så snart kontroll- og sertifiseringsvirksomheten kan gjenopptas i de berørte medlemsstatene og i den berørte tredjestaten, dvs. når de nasjonale tiltakene knyttet til covid-19-pandemien oppheves. Inntil da kan dokumentkontrollen som utføres som ledd i den årlige inspeksjonen og med sikte på utstedelse og fornyelse av underlagsdokumentene til driftsansvarlige med økologisk produksjon, og anerkjennelse med tilbakevirkende kraft, om nødvendig også utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel.
 
-3. Som unntak fra artikkel 65 nr. 2 i forordning [(EF) nr. 889/2008](eu/32008r0889) skal det antallet prøver som hvert år tas og analyseres av kontrollorganet eller kontrollmyndigheten, utgjøre minst 2 % av det antall driftsansvarlige som er underlagt deres kontroll.
+3\. Som unntak fra artikkel 65 nr. 2 i forordning [(EF) nr. 889/2008](eu/32008r0889) skal det antallet prøver som hvert år tas og analyseres av kontrollorganet eller kontrollmyndigheten, utgjøre minst 2 % av det antall driftsansvarlige som er underlagt deres kontroll.
 
-4. Som unntak fra artikkel 92a nr. 4 annet ledd annet punktum i forordning [(EF) nr. 889/2008](eu/32008r0889) skal svaret på en melding om produkter som ikke oppfyller kravene, nevnt i samme punktum, sendes innen 60 kalenderdager fra datoen for den opprinnelige meldingen.
+4\. Som unntak fra artikkel 92a nr. 4 annet ledd annet punktum i forordning [(EF) nr. 889/2008](eu/32008r0889) skal svaret på en melding om produkter som ikke oppfyller kravene, nevnt i samme punktum, sendes innen 60 kalenderdager fra datoen for den opprinnelige meldingen.
 
-5. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav b) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal ytterligere vilkårlige kontrollbesøk som gjennomføres i samsvar med artikkel 65 nr. 4 i nevnte forordning, omfatte 5 % av de driftsansvarlige som omfattes av kontrakt, i samsvar med risikokategorien.
+5\. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav b) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal ytterligere vilkårlige kontrollbesøk som gjennomføres i samsvar med artikkel 65 nr. 4 i nevnte forordning, omfatte 5 % av de driftsansvarlige som omfattes av kontrakt, i samsvar med risikokategorien.
 
-6. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav c) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal minst 5 % av alle inspeksjoner og besøk som gjennomføres i samsvar med artikkel 65 nr. 1 og 4, være uanmeldte.►**M2** Det kan imidlertid gis et kort varsel inntil 24 timer før slike inspeksjoner og besøk for å sikre at inspektørene har tilgang til den driftsansvarliges lokaler under trygge forhold. ◄**M2**
+6\. Som unntak fra artikkel 92c nr. 2 annet ledd bokstav c) i forordning [(EF) nr. 889/2008](eu/32008r0889) skal minst 5 % av alle inspeksjoner og besøk som gjennomføres i samsvar med artikkel 65 nr. 1 og 4, være uanmeldte.►**M2** Det kan imidlertid gis et kort varsel inntil 24 timer før slike inspeksjoner og besøk for å sikre at inspektørene har tilgang til den driftsansvarliges lokaler under trygge forhold. ◄**M2**
 
-7. Som unntak fra artikkel 92e i forordning [(EF) nr. 889/2008](eu/32008r0889) kan den «årlige inspeksjonen» av kontrollorganet nevnt i samme artikkel, og som er planlagt fram til ►**M3** 31.desember 2021 ◄**M3**, erstattes med en «årlig tilsynsrevisjon» som også kan utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel, så lenge nasjonale nødtiltak knyttet til covid-19-pandemien i den berørte medlemsstaten hindrer vedkommende myndighet i å foreta inspeksjonen.
+7\. Som unntak fra artikkel 92e i forordning [(EF) nr. 889/2008](eu/32008r0889) kan den «årlige inspeksjonen» av kontrollorganet nevnt i samme artikkel, og som er planlagt fram til ►**M3** 31.desember 2021 ◄**M3**, erstattes med en «årlig tilsynsrevisjon» som også kan utføres med ethvert tilgjengelig fjernkommunikasjonsmiddel, så lenge nasjonale nødtiltak knyttet til covid-19-pandemien i den berørte medlemsstaten hindrer vedkommende myndighet i å foreta inspeksjonen.
 
 ### Artikkel 2. Unntak fra forordning (EF) nr. 1235/2008
 
-1. Som unntak fra artikkel 13 nr. 2 i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal kontrollsertifikatet utstedes av vedkommende kontrollmyndighet eller kontrollorgan, som legger inn all nødvendig informasjon og validerer rubrikk 18 i TRACES (Trade Control and Expert System). Det skal påtegnes av vedkommende myndighet i den berørte medlemsstaten ved at myndigheten validerer rubrikk 20 i TRACES, og sertifikatet skal fylles ut av den første mottakeren i TRACES.
+1\. Som unntak fra artikkel 13 nr. 2 i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal kontrollsertifikatet utstedes av vedkommende kontrollmyndighet eller kontrollorgan, som legger inn all nødvendig informasjon og validerer rubrikk 18 i TRACES (Trade Control and Expert System). Det skal påtegnes av vedkommende myndighet i den berørte medlemsstaten ved at myndigheten validerer rubrikk 20 i TRACES, og sertifikatet skal fylles ut av den første mottakeren i TRACES.
 
-2. Som unntak fra artikkel 13 nr. 6 i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal vedkommende myndighet i den berørte medlemsstaten ved verifisering av en sending påtegne kontrollsertifikatet ved å validere rubrikk 20 i TRACES.
+2\. Som unntak fra artikkel 13 nr. 6 i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal vedkommende myndighet i den berørte medlemsstaten ved verifisering av en sending påtegne kontrollsertifikatet ved å validere rubrikk 20 i TRACES.
 
-3. Som unntak fra artikkel 15 nr. 4 første ledd annet punktum i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal svaret på en melding om produkter som ikke oppfyller kravene, nevnt i samme punktum, sendes innen 60 kalenderdager fra datoen for den opprinnelige meldingen.
+3\. Som unntak fra artikkel 15 nr. 4 første ledd annet punktum i forordning [(EF) nr. 1235/2008](eu/32008r1235) skal svaret på en melding om produkter som ikke oppfyller kravene, nevnt i samme punktum, sendes innen 60 kalenderdager fra datoen for den opprinnelige meldingen.
 
 ### Artikkel 3
 
@@ -99,3 +127,15 @@ Artikkel 1 nr. 1 får imidlertid anvendelse fra 1. mars 2020 til ►**M3** 31.de
 Artikkel 1 nr. 3, artikkel 1 nr. 5 og artikkel 1 nr. 6 får anvendelse fra 1. januar 2020 til ►**M3** 31. desember 2021 ◄**M3.**
 
 Når det gjelder kontrollvirksomhet utført i Kina, får denne forordningen anvendelse fra 1. januar 2020 til ►**M3** 31. desember 2021 ◄**M3**.
+
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 7. juli 2020.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |

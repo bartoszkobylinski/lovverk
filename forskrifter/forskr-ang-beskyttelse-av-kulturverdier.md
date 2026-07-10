@@ -22,6 +22,18 @@ eu_basis: []
 
 # Erklæring angående beskyttelse av kulturverdier i tilfelle av væpnet konflikt.
 
+Den kongelige norske regjering,
+
+som er overbevist om at tapet av kulturverdier er en åndelig forarmelse ikke bare for vedkommende land, men for hele verden,
+
+som er klar over at kulturverdiene som følge av den tekniske utvikling av krigføringen i stadig større grad er utsatt for ødeleggelse, og at det er alle nasjoners plikt til å ta skritt til å beskytte dem mot ødeleggelse i tilfelle av væpnet konflikt,
+
+som henholder seg til de prinsipper som er fastlagt i Haagkonvensjonene av 1907 og i Washington-konvensjonen av 15. april 1935 angående beskyttelse av kulturverdier i tilfelle av væpnet konflikt,
+
+og som innser betydningen av det initiativ som er tatt av de Forente Nasjoners organisasjon for utdannelse, vitenskap og kultur (UNESCO) for å få istandbrakt en internasjonal konvensjon på dette område,
+
+erklærer herved, i påvente av ikrafttreden av en slik konvensjon, at den er villig til å følge disse bestemmelser:
+
 ## Artikkel 1.
 
 Den norske regjering anser det for å være enhver nasjons plikt innen sitt territorium å treffe tiltak for å beskytte kulturverdier mot ødeleggelse i tilfelle av væpnet konflikt.

@@ -58,10 +58,28 @@ De benyttede målenheter for masse skal være i overensstemmelse med forskrift o
 
 ### § 6. Nøyaktighetsklasser
 
-Det er definert følgende nøyaktighetsklasser:IspesiellIIfinIIImidlereIIIIordinær.
+Det er definert følgende nøyaktighetsklasser:
 
-Klassene er nærmere angitt i tabell 1.*Tabell 1 – Nøyaktighetsklasser**Klasse**Verifiseringsminstedeling (e)**Minstelast (Min)**Antall verifiseringsminstedelinger*
-*n = ((Maks)/(e))**Minste verdi**Største verdi*I0,001 g ≤ e100 e50 000–II0,001 g ≤ e ≤ 0,05 g20 e100100 0000,1 g ≤ e50 e5 000100 000III0,1 g ≤ e ≤ 2 g20 e10010 0005 g ≤ e20 e50010 000IIII5 g ≤ e10 e1001 000
+|  |  |
+| --- | --- |
+| I | spesiell |
+| II | fin |
+| III | midlere |
+| IIII | ordinær. |
+
+Klassene er nærmere angitt i tabell 1.
+
+*Tabell 1 – Nøyaktighetsklasser*
+
+| *Klasse* | *Verifiseringsminstedeling (e)* | *Minstelast (Min)* | *Antall verifiseringsminstedelinger*<br>*n = ((Maks)/(e))* |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | *Minste verdi* | *Største verdi* |
+| I | 0,001 g ≤ e | 100 e | 50 000 | – |
+| II | 0,001 g ≤ e ≤ 0,05 g | 20 e | 100 | 100 000 |
+|  | 0,1 g ≤ e | 50 e | 5 000 | 100 000 |
+| III | 0,1 g ≤ e ≤ 2 g | 20 e | 100 | 10 000 |
+|  | 5 g ≤ e | 20 e | 500 | 10 000 |
+| IIII | 5 g ≤ e | 10 e | 100 | 1 000 |
 
 Minstelasten reduseres til 5 e for vekter i klasse II og III som benyttes til å bestemme transporttariffer.
 
@@ -98,14 +116,20 @@ r = samlet antall delveieområder.
 
 All last er nettolast, uten hensyn til verdien av den tara som benyttes.
 
-Delveieområdene klassifiseres i samsvar med tabell 2. Alle delveieområder skal tilhøre samme nøyaktighetsklasse, og denne klassen er vektens nøyaktighetsklasse.Tabell 2 – Flerskalavekter*Klasse**Verifiseringsminstedeling**Minstelast
-(Min)
-Minste
-verdi**Antall verifiseringsminstedelinger**Minste verdi1*
-*n = ((Maksi )/(ei ))**Største*
-*verdi*
-*n =*
-*((Maksi )/(ei ))*I0,001 g ≤ ei100 ei50 000–II0,001 g ≤ ei ≤ 0,0520 ei5 000100 0000,1 g ≤ ei50 ei5 000100 000III0,1 g ≤ ei20 ei50010 000IIII5 g ≤ ei10 ei501 000
+Delveieområdene klassifiseres i samsvar med tabell 2. Alle delveieområder skal tilhøre samme nøyaktighetsklasse, og denne klassen er vektens nøyaktighetsklasse.
+
+Tabell 2 – Flerskalavekter
+
+| *Klasse* | *Verifiseringsminstedeling* | *Minstelast<br>(Min)<br>Minste<br>verdi* | *Antall verifiseringsminstedelinger* |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | *Minste verdi1*<br>*n = ((Maksi )/(ei ))* | *Største*<br>*verdi*<br>*n =*<br>*((Maksi )/(ei ))* |
+| I | 0,001 g ≤ ei | 100 ei | 50 000 | – |
+| II | 0,001 g ≤ ei ≤ 0,05 | 20 ei | 5 000 | 100 000 |
+|  | 0,1 g ≤ ei | 50 ei | 5 000 | 100 000 |
+| III | 0,1 g ≤ ei | 20 ei | 500 | 10 000 |
+| IIII | 5 g ≤ ei | 10 ei | 50 | 1 000 |
+
+1 Når i = r, får den tilsvarende kolonne i tabell 1 anvendelse, med e erstattet av er.i= 1, 2, ... ri = delveieområdets nummerr = samlet antall delveieområder.
 
 > Endret ved [forskrift 10 des 2015 nr. 1460](forskrift/2015-12-10-1460) (i kraft 20 april 2016).
 
@@ -114,6 +138,15 @@ verdi**Antall verifiseringsminstedelinger**Minste verdi1*
 Ved samsvarsvurdering angitt i forskrift om målenheter og måling vedlegg 1, må visningsfeilen ikke overstige største tillatte visningsfeil som vist i tabell 3. Ved digital visning skal visningsfeilen korrigeres for avrundingsfeil.
 
 De største tillatte feil får anvendelse på nettoverdi og taraverdi av all mulig last, unntatt taraverdier som er fastsatt på forhånd.
+
+*Tabell 3 – Største tillatte feil ved førstegangsgodkjenning*
+
+| *Last uttrykt i verifiseringsminstedelinger, e* |  |  |  | *Største tillatte feil* |
+| --- | --- | --- | --- | --- |
+| *Klasse I* | *Klasse II* | *Klasse III* | *Klasse IIII* |  |
+| 0 ≤ m ≤ 50 000 | 0 ≤ m ≤ 5 000 | 0 ≤ m ≤ 500 | 0 ≤ m ≤ 50 | ± 0,5 e |
+| 50 000 < m ≤<br>200 000 | 5 000 < m ≤ 20<br>000 | 500 < m ≤ 2 000 | 50 < m ≤ 200 | ± 1,0 e |
+| 200 000 < m | 20 000 < m ≤<br>100 000 | 2 000 < m ≤<br>10 000 | 200 < m ≤<br>1 000 | ± 1,5 e |
 
 Tabell 3 viser største tillatte feil ved førstegangsgodkjenning. De største tillatte feil ved bruk skal være det dobbelte av de største tillatte feil fastsatt i tabell 3.
 

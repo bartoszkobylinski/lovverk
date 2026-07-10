@@ -114,9 +114,27 @@ Termineringspunkt og kabling skal tåle minst 1,3A uten at brannfare oppstår, m
 
 Liv, helse og eiendom skal være beskyttet mot skadelig virkning av isolasjonssvikt eller feil mellom kretser med ulike spenninger og andre uønskede høye spenninger, som overspenninger forårsaket av elektriske produksjons-, distribusjons- og baneanlegg eller lynutladninger.
 
-Avhengig av spenningens varighet, skal spenninger i elektronisk kommunikasjonsnett referert til lokal jord forårsaket av elektriske produksjons-, distribusjons- og baneanlegg være begrenset til0-200 ms1.030 V201-350 ms780 V351-500 ms650 V501-1.000 ms430 V1.001-2.000 ms300 V2.001-3.000 ms250 V3.001-5.000 ms200 V5.001-10.000 ms150 VLenger enn 10 000 ms60 V
+Avhengig av spenningens varighet, skal spenninger i elektronisk kommunikasjonsnett referert til lokal jord forårsaket av elektriske produksjons-, distribusjons- og baneanlegg være begrenset til
 
-Nasjonal kommunikasjonsmyndighet kan tillate at grenseverdiene fravikes på deler av elektronisk kommunikasjonsnett bortsett fra i utstyrspunkter og grensesnitt mot andre elektroniske kommunikasjonsnett. Ved fravik skal grenseverdiene være begrenset til0-100 ms2.000 V101-200 ms1.500 V201-350 ms1.000 V
+|  |  |
+| --- | --- |
+| 0-200 ms | 1.030 V |
+| 201-350 ms | 780 V |
+| 351-500 ms | 650 V |
+| 501-1.000 ms | 430 V |
+| 1.001-2.000 ms | 300 V |
+| 2.001-3.000 ms | 250 V |
+| 3.001-5.000 ms | 200 V |
+| 5.001-10.000 ms | 150 V |
+| Lenger enn 10 000 ms | 60 V |
+
+Nasjonal kommunikasjonsmyndighet kan tillate at grenseverdiene fravikes på deler av elektronisk kommunikasjonsnett bortsett fra i utstyrspunkter og grensesnitt mot andre elektroniske kommunikasjonsnett. Ved fravik skal grenseverdiene være begrenset til
+
+|  |  |
+| --- | --- |
+| 0-100 ms | 2.000 V |
+| 101-200 ms | 1.500 V |
+| 201-350 ms | 1.000 V |
 
 Det tillates maksimalt 10 mA kortslutningsstrøm mellom linje i elektronisk kommunikasjonsnett og lokal jord ved kapasitiv kopling mellom et høyspenningsanlegg og en linje.
 

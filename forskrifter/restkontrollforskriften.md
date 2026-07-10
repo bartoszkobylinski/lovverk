@@ -104,6 +104,8 @@ Den som er ansvarlig for virksomhet omfattet av dette kapittel, skal føre tilsy
 
 > Tilføyd ved [forskrift 28 mars 2001 nr. 358](forskrift/2001-03-28-358).
 
+1 Jf. [forskrift av 18. desember 1998 nr. 1409](forskrift/1998-12-18-1409) om etablering, drift og sykdomsforebyggende tiltak ved oppdrettsanlegg (drifts- og sykdomsforskriften), [forskrift av 31. desember 1998 nr. 1482](forskrift/1998-12-31-1482) om merking, registrering og rapportering av storfe, samt [forskrift av 31. desember 1998 nr. 1481](forskrift/1998-12-31-1481) om merking og registrering av dyr.
+
 ### § 9. Samarbeidsplikt med tilsynsmyndigheten
 
 Den som er ansvarlig for virksomheter omfattet av dette kapittel skal legge forholdene til rette for gjennomføring av tilsynet, samt gi alle nødvendige opplysninger som er av betydning for tilsynet, herunder all relevant dokumentasjon. Dette innebærer også plikt til å yte bistand ved tilsyn og prøveuttak.

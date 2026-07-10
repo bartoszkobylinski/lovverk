@@ -180,11 +180,53 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 (1) Rederiet skal se til at den som utsteder sertifikater etter [§ 7](forskrift/2017-12-21-2381/§7) tredje og fjerde ledd, har tilstrekkelig kompetanse. Kompetansen skal som minimum inkludere kompetansebevis G11K eller tilsvarende som godkjent kontrollør for løfteredskap.
 
-(2) Løst løfteutstyr skal prøves med prøvelaster som følger av tabell 1, før de tas i bruk første gang, etter skade eller ved mistanke om skade.*Gjenstand**Tillatt arbeidsbelastning (SWL)**Prøvelaster*Enskivet blokktil og med 25 tonn4 x SWLEnskivet blokk m/hundsvotttil og med 25 tonn6 x SWLKjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv.til og med 25 tonn2 x SWLKjetting, ring, krok, sjakkel, svivel,til og med 30 tonn55 tonnflerskivet blokk, enskivet blokk mv.til og med 35 tonn65 tonntil og med 40 tonn70 tonntil og med 45 tonn75 tonntil og med 50 tonn85 tonntil og med 55 tonn90 tonntil og med 60 tonn95 tonntil og med 65 tonn100 tonntil og med 70 tonn110 tonntil og med 75 tonn115 tonntil og med 80 tonn120 tonntil og med 85 tonn125 tonntil og med 90 tonn130 tonntil og med 95 tonn135 tonntil og med 100 tonn145 tonntil og med 110 tonn155 tonntil og med 120 tonn165 tonntil og med 130 tonn175 tonntil og med 140 tonn190 tonntil og med 150 tonn200 tonntil og med 160 tonn215 tonntil og med 170 tonn230 tonntil og med 180 tonn240 tonnover 180 tonn1,33 x SWLStåltauBruddlastLøfteåk o.l.2,0 x SWL*Tabell 1*
+(2) Løst løfteutstyr skal prøves med prøvelaster som følger av tabell 1, før de tas i bruk første gang, etter skade eller ved mistanke om skade.
+
+| *Gjenstand* | *Tillatt arbeidsbelastning (SWL)* | *Prøvelaster* |
+| --- | --- | --- |
+| Enskivet blokk | til og med 25 tonn | 4 x SWL |
+| Enskivet blokk m/hundsvott | til og med 25 tonn | 6 x SWL |
+| Kjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv. | til og med 25 tonn | 2 x SWL |
+| Kjetting, ring, krok, sjakkel, svivel, | til og med 30 tonn | 55 tonn |
+| flerskivet blokk, enskivet blokk mv. | til og med 35 tonn | 65 tonn |
+|  | til og med 40 tonn | 70 tonn |
+|  | til og med 45 tonn | 75 tonn |
+|  | til og med 50 tonn | 85 tonn |
+|  | til og med 55 tonn | 90 tonn |
+|  | til og med 60 tonn | 95 tonn |
+|  | til og med 65 tonn | 100 tonn |
+|  | til og med 70 tonn | 110 tonn |
+|  | til og med 75 tonn | 115 tonn |
+|  | til og med 80 tonn | 120 tonn |
+|  | til og med 85 tonn | 125 tonn |
+|  | til og med 90 tonn | 130 tonn |
+|  | til og med 95 tonn | 135 tonn |
+|  | til og med 100 tonn | 145 tonn |
+|  | til og med 110 tonn | 155 tonn |
+|  | til og med 120 tonn | 165 tonn |
+|  | til og med 130 tonn | 175 tonn |
+|  | til og med 140 tonn | 190 tonn |
+|  | til og med 150 tonn | 200 tonn |
+|  | til og med 160 tonn | 215 tonn |
+|  | til og med 170 tonn | 230 tonn |
+|  | til og med 180 tonn | 240 tonn |
+|  | over 180 tonn | 1,33 x SWL |
+| Ståltau |  | Bruddlast |
+| Løfteåk o.l. |  | 2,0 x SWL |
+
+*Tabell 1*
 
 ## § 22. Løfteører
 
-(1) Løfteører skal konstrueres med en sikkerhetsfaktor som er relativ til angitt SWL i tabell 2:*SWL**Sikkerhetsfaktor*Opptil 5 tonn2,0Fra 5 til 20 tonn1,75Over 20 tonn1,5*Tabell 2*
+(1) Løfteører skal konstrueres med en sikkerhetsfaktor som er relativ til angitt SWL i tabell 2:
+
+| *SWL* | *Sikkerhetsfaktor* |
+| --- | --- |
+| Opptil 5 tonn | 2,0 |
+| Fra 5 til 20 tonn | 1,75 |
+| Over 20 tonn | 1,5 |
+
+*Tabell 2*
 
 (2) Rederiet skal se til at den som kontrollerer løfteører har tilstrekkelige kvalifikasjoner innen struktur og NDT.
 
@@ -194,7 +236,15 @@ Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap
 
 (5) Løfteører med SWL over tre tonn skal kontrolleres ved å gjennomførelasttester av alle løfteører og stikkprøvebasert NDT, ellerNDT av alle løfteører og stikkprøvebaserte lasttester.
 
-(6) Når lasttest av løfteører skal utføres, skal tabell 3 brukes.*SWL**Prøvevekter ved lasttest*Opptil 20 tonn1,25 x SWLFra 20 til 50 tonn5 tonn + SWLOver 50 tonn1,10 x SWL*Tabell 3*
+(6) Når lasttest av løfteører skal utføres, skal tabell 3 brukes.
+
+| *SWL* | *Prøvevekter ved lasttest* |
+| --- | --- |
+| Opptil 20 tonn | 1,25 x SWL |
+| Fra 20 til 50 tonn | 5 tonn + SWL |
+| Over 50 tonn | 1,10 x SWL |
+
+*Tabell 3*
 
 (7) Løfteører skal ha individuell merking eller gruppemerking. Merkingen skal inkludere SWL og kan f.eks. være skilting i hvert område med flere identiske løfteører eller et fargekodesystem som skiller løfteører med forskjellig SWL i samme område.
 

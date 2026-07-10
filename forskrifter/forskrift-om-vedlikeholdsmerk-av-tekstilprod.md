@@ -104,6 +104,10 @@ Fra samme tid oppheves [forskrift 9. april 2002 nr. 359](forskrift/2002-04-09-35
 
 ## Vedlegg I
 
+Til forskriftens [§ 1](forskrift/2004-10-01-1340/§1)
+
+Unntak fra merkepliktenFølgende produkter er unntatt fra merkeplikten:
+
 1. Ermeholdere
 2. Klokkeremmer i tekstil
 3. Etiketter og emblemer

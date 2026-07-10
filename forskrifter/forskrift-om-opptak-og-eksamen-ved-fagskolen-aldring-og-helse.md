@@ -30,6 +30,8 @@ eu_basis: []
 
 (2) Forskriften gjelder for opptak og eksamen ved Fagskolen Aldring og helse. Bestemmelsene får anvendelse både for personer som søker om opptak til studietilbud, og personer som har studierett og status som student ved fagskolen.
 
+1 [Lov 8. juni 2018 nr. 28](lov/2018-06-08-28) om høyere yrkesfaglig utdanning.2 [Forskrift 11. juli 2019 nr. 1005](forskrift/2019-07-11-1005) om høyere yrkesfaglig utdanning.
+
 ### § 1-2. Definisjoner
 
 (1) *Realkompetanse:* Dokumentert kunnskap, ferdigheter og generell kompetanse tilegnet uavhengig av læringsarena, gjennom formell, ikke-formell og uformell læring. Formell læring er den vurdering som skjer i utdanningssystemet, eventuelt for annet autorisasjons- og/eller sertifiseringsformål, ikke-formell læring er strukturert opplæring gjennom kurs og andre tilbud som ikke inngår i utdanningssystemet. Uformell læring skjer gjennom livet på arenaer som ikke først og fremst er beregnet på strukturert læring, gjennom yrkespraksis, ubetalt arbeid, organisasjonsarbeid eller lignende.
@@ -51,6 +53,8 @@ eu_basis: []
 (5) Dokumentasjon for den opplæring og/eller eventuell yrkeserfaring som danner grunnlag for opptaket, jf. første til tredje ledd, samt eventuell dokumentasjon for språkferdigheter som er påkrevet etter fjerde ledd, skal vedlegges søknaden.
 
 > Endret ved forskrift [26 juni 2023 nr. 1313](forskrift/2023-06-26-1313) (i kraft 15 aug 2023).
+
+1 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (1).2 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (2).
 
 ### § 2-2. Gjennomføring av opptak
 
@@ -106,6 +110,8 @@ For reservasjon av studieplass vises det til fagskoleforskriften § 13.
 
 > Endret ved forskrift [26 juni 2023 nr. 1313](forskrift/2023-06-26-1313) (i kraft 15 aug 2023).
 
+1 [Lov 2. juli 1999 nr. 64 om helsepersonell](lov/1999-07-02-64).2[Lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m.](lov/2011-06-24-30)
+
 ### § 2-7. Skikkethetsvurdering
 
 (1) Det skal foretas skikkethetsvurderinger av studentene ved utdanningenedemensomsorg og alderspsykiatriutviklingshemning, miljøarbeid og aldringetter [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5), både ved opptak og løpende gjennom hele fagskoleutdanningen. Den lokale klagenemnda kan fatte vedtak om at en student ikke er skikket for yrket og at studenten skal utestenges fra utdanningen i inntil fem år etter en særskilt skikkethetsvurdering. Saksbehandlingen for både den løpende og den særskilte skikkethetsvurderingen følger av [fagskoleloven § 26](lov/2018-06-08-28/§26) og [fagskoleforskriften kapittel 5](forskrift/2019-07-11-1005/kap5).
@@ -152,8 +158,16 @@ For reservasjon av studieplass vises det til fagskoleforskriften § 13.
 
 (1) For praksis brukes vurderingsuttrykket bestått/ikke bestått.
 
-(2) Ved avsluttende vurdering av et emne brukes vurderingsuttrykket bestått/ikke bestått eller en gradert skala med fem (5) trinn fra A til E for bestått og med F for ikke bestått. Hvert emne kan bare lede fram til én karakter A–F eller vurderingsuttrykket bestått/ikke bestått.*Symbol**Betegnelse**Generell beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet.
+(2) Ved avsluttende vurdering av et emne brukes vurderingsuttrykket bestått/ikke bestått eller en gradert skala med fem (5) trinn fra A til E for bestått og med F for ikke bestått. Hvert emne kan bare lede fram til én karakter A–F eller vurderingsuttrykket bestått/ikke bestått.
+
+| *Symbol* | *Betegnelse* | *Generell beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 > Endret ved forskrift [26 juni 2023 nr. 1313](forskrift/2023-06-26-1313) (i kraft 15 aug 2023).
 
@@ -166,6 +180,8 @@ Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.
 (3) Studieleder avgjør om forfallet/avbruddet godkjennes som gyldig eller ikke. Dersom forfallet/avbruddet godkjennes, foretas ikke den aktuelle vurderingen, og det teller ikke som et forsøk.
 
 (4) Vedtak etter denne bestemmelsen kan påklages til den lokale klagenemnda etter bestemmelsene i denne forskriftens [kapittel 4](forskrift/2019-12-13-1794/kap4). Klagen sendes til fagskolen.
+
+1 Jf. [§ 1-2](forskrift/2019-12-13-1794/§1-2) (2).
 
 ### § 3-7. Sensur
 

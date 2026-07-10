@@ -312,4 +312,8 @@ Loven trer i kraft fra den tid Kongen bestemmer.
 
 Fra den tid1 loven trer i kraft, oppheves:[Lov 3. august 1897 nr 1 om Kirker og Kirkegaarde](lov/1897-08-03-1) §§ 33-43 og[Lov 3. mai 1913](lov/1913-05-03) om likbrænding.
 
+– – –
+
 > Endret ved lov [16 juni 2023 nr. 40](lov/2023-06-16-40) (i kraft 1 juli 2024 iflg. [res. 14 juni 2024 nr. 955](forskrift/2024-06-14-955), tidligere § 28).
+
+1 Fra 1 jan 1997 iflg. [res. 7 juni 1996 nr. 529](forskrift/1996-06-07-529).

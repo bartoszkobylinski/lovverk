@@ -30,11 +30,15 @@ Retningslinjene gjelder følgende deler av det enkelte verneobjekt avgrenset sli
 
 ## 2. Saklig virkeområde
 
+*Kommuner og fylkeskommuner*
+
 Berørte kommuner og fylkeskommuner skal legge retningslinjene til grunn for planleggingen etter plan- og bygningsloven, (jf. § 17-1, 1. ledd).
 
 Retningslinjene skal også legges til grunn ved behandlingen av enkeltsaker i forhold til planer vedtatt i samsvar med retningslinjene, og de bør tas med i vurderingen av enkeltsaker i forhold til øvrige planer.
 
 Kommunale og fylkeskommunale organer bør også ta hensyn til retningslinjene i sin øvrige forvaltningsvirksomhet innenfor de rammer plan- og bygningsloven og vedkommende sektorlov gir.
+
+*Statlige fagmyndigheter*
 
 Statlige fagmyndigheter skal legge retningslinjene til grunn ved sin medvirkning til planlegging og enkeltsaksbehandling etter plan- og bygningsloven.
 
@@ -50,11 +54,17 @@ For å oppnå målene, må det særlig legges vekt på å gi grunnlag for å:unn
 
 Vassdragsbeltets avgrensning og forvaltning bør differensieres etter registrerte verneverdier og arealtilstand. Det anbefales at dette skjer i forbindelse med arbeidet med kommuneplanens arealdel. Et hjelpemiddel i den forbindelse er å dele vassdragsbeltet inn i klasser. Hensikten med en inndeling i forvaltningsklasser er å få fram ulike kriterier for interesseavveining i de ulike avsnitt av vassdragsbeltet. Nedenfor angis tre klasser som anbefales benyttet. Kommunene kan også definere andre klasser tilpasset lokale forhold.
 
+*Klasse 1*
+
 - *Beskrivelse:* Vassdragsbelte i og ved byer og tettsteder, som har eller kan få stor betydning for friluftsliv.
 - *Forvaltning:* Inngrep som er til skade for pedagogiske verdier, friluftslivsverdier, herunder fiske og framkommelighet i og langs vannstrengen, eller opplevelsesverdier, bør unngås.
 
+*Klasse 2*
+
 - *Beskrivelse:* Vassdragsbelte med moderate inngrep i selve vannstrengen, og hvor nærområdene består av utmark, skogbruksområder og jordbruksområder med spredt bebyggelse.
 - *Forvaltning:* Hovedtrekkene i landskapet må søkes opprettholdt. Inngrep som endrer forholdene i kantvegetasjonen langs vannstrengen og i de områder som oppfattes som en del av vassdragsnaturen, bør unngås. Inngrep som enkeltvis eller i sum medfører endringer av en viss betydning i selve vannstrengen, bør unngås. Leveområder for truede plante- og dyrearter og mindre områder med store verneverdier bør gis særlig beskyttelse.
+
+*Klasse 3*
 
 - *Beskrivelse:* Vassdragsbelte som er lite berørt av moderne menneskelig aktivitet, og som derfor har stor opplevelsesverdi og vitenskapelig verdi.
 - *Forvaltning:* Det er svært viktig å bevare naturens preg av å være lite berørt av moderne menneskelig aktivitet. Alle former for omdisponering av arealer i vassdragsbeltet bør unngås. Vannkvalitet og naturlig vannføring må søkes opprettholdt, og alle former for inngrep som reduserer vassdragets verdi må søkes unngått.
@@ -99,6 +109,8 @@ De deler av nedbørfeltet som det er faglig dokumentert at har betydning for vas
 
 ### Til pkt 2, saklig virkeområde
 
+*Utarbeiding av planer*
+
 Kommunene har som planmyndighet det primære ansvar for utvikling av arealbruk i og ved vernede vassdrag og skal legge retningslinjene til grunn for planlegging. Hvordan dette kan følges opp er nærmere beskrevet i vedlegg 1.
 
 Fylkeskommunen skal legge retningslinjene til grunn i fylkesplanene.
@@ -107,9 +119,13 @@ Retningslinjene vil være bindende for den kommunale og fylkeskommunale planlegg
 
 Siden RPR er én av kanalene for politikkformidling for den sektorovergripende planlegging, er retningslinjene ett av de nødvendige virkemidler for å gjøre kommuner og fylkeskommuner kjent med de hensyn de må ta i planleggingen. Statlige fagorganer som etter § 9-3 skal medvirke i planprosessene er forpliktet til å følge opp retningslinjene, jf. §§ 20-5 og 27-2, om deres rolle som høringsorgan med innsigelsesmulighet.
 
+*Enkeltsaker i forhold til planer etter PBL*
+
 Ved dispensasjon etter PBL § 7 fra planer som bygger på RPR, vil rikspolitiske retningslinjer måtte inngå i vurderingene av om særlige grunner foreligger. Dette fordi RPR er en del av de offentlige hensyn som ligger bak en plan. Dette er også nødvendig for å unngå at planer som er utarbeidet i tråd med retningslinjene, i ettertid kan uthules gjennom dispensasjoner eller avgjørelser i klagesaker hvor slike overordnede hensyn ikke tas. Det betyr ikke at rikspolitiske retningslinjer i slike tilfeller nødvendigvis skal være avgjørende for sakens utfall, men at de må inngå i vurderingen og tillegges vekt.
 
 Det som er sagt her om å legge vekt på retningslinjene, har først og fremst betydning i forhold til avgjørelser som gjelder områder hvor det foreligger planer som bygger på RPR. Retningslinjene kan imidlertid være relevante å ta i betraktning i skjønnsvurderingen i andre enkeltsaker i forhold til plan.
+
+*Enkeltsaker forøvrig*
 
 RPR retter seg primært mot planlegging og enkeltsaksbehandling i forhold til planer. Men retningslinjene kan også ha betydning for avgjørelser etter PBL forøvrig og annet lovverk.
 
@@ -201,6 +217,8 @@ Arealer i vassdragets nedbørfelt med betydelige verdier knyttet til zoologi, bo
 
 I det følgende blir enkelte av punktene ovenfor nærmere utdypet.
 
+*LNF-områdene og landbruket*
+
 Kommuneplanens arealdel gir ikke mulighet til å styre all slags virksomhet. Det tenkes i denne sammenheng spesielt på inngrep som er knyttet til landbruk. I kommuneplanens arealdel kan landbruks-, natur- og friluftsområder (LNF-områder) bare legges ut som kombinerte arealbruksformål. Videre er det ikke adgang til å gi utfyllende bestemmelser med bindende rettslig virkning i LNF-området for bebyggelse som er knyttet til stedbunden næring (§ 20-4, andre ledd bokstav c). Heller ikke bestemmelser om 100-meters beltet langs vassdrag (§ 20-4, andre ledd bokstav a og f) vil hjemle forbud mot tiltak og anlegg som har direkte tilknytning til tradisjonell landbruksvirksomhet.
 
 Dette innebærer at LNF-områdene ikke regulerer fysiske tiltak som har sammenheng med vanlig landbruksvirksomhet, herunder landbruksbebyggelse, landbruks-/skogbruksveger, masseuttak til husbehov, o.l. Derimot vil bygge- og anleggstiltak som ikke er ledd i stedbunden næring, i utgangspunktet være i strid med planen og dermed forbudt.
@@ -209,11 +227,17 @@ Virksomhet som har sammenheng med landbruk, natur og friluftsliv reguleres av se
 
 Landbruksmyndighetene lokalt (kommunen) og på fylkesplanet (fylkesmannen og fylkeslandbruksstyret) kan gjennom veiledningstjenesten bidra til å redusere konflikten mellom næringsutøving og verneinteresser knyttet til vassdrag. Landbruket har dessuten virkemidler som kan bidra til å ivareta verneverdier knyttet til vassdrag. F.eks. skal vilkårene som knyttes til overføring av areal- og kulturlandskapstilleggene hindre kanalisering og bekkelukking og sikre ivaretakelse av kantsoner. Skogbruksloven forutsetter dessuten at det tas hensyn til naturmiljø og friluftsliv. Miljøhensyn er innarbeidet i regelverket for statstilskudd til ulike skogbrukstiltak, og skogbruksmyndighetene kan nekte eller sette betingelser for tildeling av tilskudd. I tillegg kan det være aktuelt for skogbruksmyndighetene å vurdere bruk av skogbrukslovens § 17 b. Denne bestemmelsen gir mulighet til å fastsette forskrifter om skogbehandling og skogsdrift i områder som er av spesiell verdi for naturvern og friluftsliv. «Forskrift om planlegging og godkjenning av skogsveger» skal sikre at det ved planlegging og godkjenning av skogsveger tas spesielle hensyn til konkrete verdier i vassdragsbeltet som er dokumentert i forbindelse med vernevedtaket.
 
+*Båndleggingsområder*
+
 For å oppnå ønsket beskyttelse av mindre arealer som er spesielt viktige for naturvern, kulturminnevern eller friluftsliv, kan områdene båndlegges for seinere regulering.
+
+*Forholdet til Forsvaret*
 
 Både som byggherre og eiendomsforvalter er Forsvaret underlagt samme lov- og regelverk som samfunnet for øvrig. Når det gjelder Forsvarets operative virksomhet, forutsettes det at de rikspolitiske retningslinjene for vernede vassdrag ikke medfører endrete muligheter til å drive slik virksomhet. Med operativ virksomhet menes all militær virksomhet i fredstid som er nødvendig for å planlegge, forberede og gjennomføre:overvåking av land-, sjø- og luftterritoriet,forsvarsplaner, herunder feltbefestninger, anlegg for installasjoner og stridsmidler,beredskapstiltak, herunder utrykningsøvelser med militære styrker,støtte til det sivile samfunn og politiet som krever innsetting av styrker,rene militære operasjoner i spesielle situasjoner, herunder søk og redningstjeneste.
 
 Vanlige øvelser omfattes ikke av ovennevnte punkter, men det forutsettes at militær virksomhet sidestilles med tilsvarende sivil virksomhet som måtte være tillatt.
+
+*Forholdet til drikkevannsforsyning*
 
 Vannuttak til drikkevannsforsyning, herunder vann til drikke, næringsmiddelformål og hygienisk bruk, vil medføre at vannføringen i nedenforliggende del av vassdraget blir redusert, samt at det vil kunne være nødvendig med oppdemming av magasin. Bygging av nye, store anlegg kan innebære vesentlige forandringer av vannkilden.
 
@@ -231,6 +255,24 @@ Vannforsyning vil være et vurderingstema i kommuneplanleggingen, og det er rime
 - Verneplan IV var basert på de samme verdier og interesser som verneplan III, men det ble lagt stor vekt på å få med typer av vassdrag (brevassdrag og kystvassdrag) og geografiske områder som var dårlig dekket av foregående planer.
 
 ## Vedlegg 3. Eksempler på inngrep som kan skade verneverdier i vassdrag
+
+| Type inngrep | Formål | Mulig skade på verneverdier |
+| --- | --- | --- |
+| Vegbygging | Skogsdrift, vegtrafikk | Fjerning av kantvegetasjon, utfyllinger, vandringshinder for fisk, vanskelig adkomst, skade på kulturminner/-miljøer, økt forurensningsfare |
+| Masseuttak i og ved elva | Produksjon av sand og grus | Landskapsforandring, skader på fisk og bunndyr, inngrep i elvas naturlige prosesser, senker elvebunn og vannstand i nærliggende dammer og kroksjøer |
+| Vannuttak | Drikkevann, fiskeoppdrett, jordvanning | Tørrlegging/redusert vannføring, økt forurensing, dårligere forhold for vannlevende planter og dyr, redusert opplevelsesverdi |
+| Forbygning/strandkledning | Unngå erosjon og elvebrudd | Smalere og dypere elv, hindrer grustilførsel, hindrer nydannelse av vegetasjon på motsatt bredd og elvas naturlige prosesser, endret artssammensetning, øker nedstrøms flom- og erosjonsfare |
+| Flomvern | Hindre flomskader | Eliminerer flommarkskog, visuelt uheldig, fjerner kantskog, øker nedstrøms flom- og erosjonsfare |
+| Kanalisering | Innvinning av areal | Fjerning av kantskog, økt strømhastighet, reduserer biologisk mangfold, visuelt uheldig |
+| Bygg og anlegg | Boliger, industri | Reduserer naturområdene, redusert biologisk mangfold, økt forurensingsfare, skade på kulturminner/-miljøer |
+| Kraftledninger | Strømtransport | Visuelt uheldig, skader på fugl, skade på kulturmiljøer |
+| Bakkeplanering | Effektivisere jordbruket | Økt forurensing, endrer landskapet |
+| Oppdyrking | Matproduksjon, beite | Økt avrenning, redusert biologisk mangfold, hindrer ferdsel, skade på kulturminner og kulturmiljø |
+| Bekkelukking | Effektivisere jordbruket, redusere erosjon | Redusert biologisk mangfold, redusert selvrensing, visuelt uheldig, skade på kulturminner og kulturmiljø |
+| Hogst | Uttak av tømmer | Fjerning av kantskog, redusert biologisk mangfold, skade på kulturminner og kulturmiljø |
+| Grøfting | Produksjon av trevirke | Endrer naturlige vekstvilkår, øker erosjonsfaren, reduserer biologisk mangfold, endrer naturlig vannføring |
+| Fiskeoppdrett | Produksjon av settefisk og matfisk | Fare for spredning av sykdommer og parasitter til villfisk, endret vannføring, hindring fiskens frie gang, økt forurensing, genetisk innblanding, visuelt uheldig |
+| Forurensing | Vassdrag som for utslipp resipient | Redusert bruksverdi, forrykket artsbalanse, redusert biologisk mangfold |
 
 ## Vedlegg 4. Eksempler på lovverk utenom PBL der RPR kan få anvendelse, jf. retningslinjenes pkt 2 og 5
 

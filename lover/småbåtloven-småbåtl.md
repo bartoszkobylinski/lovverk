@@ -310,6 +310,8 @@ Kongen kan gi nærmere overgangsbestemmelser.
 
 > Endret ved [lover 7 juli 2000 nr. 72](lov/2000-07-07-72) (ikr. 1 jan 2001 iflg. [res. 7 juli 2000 nr. 731](forskrift/2000-07-07-731), tidligere § 39), [12 jan 2001 nr. 2](lov/2001-01-12-2) (ikr. 1 jan 2001, tidligere § 42).
 
+1 Fra 1 jan 1999 iflg. [res. 27 nov 1998 nr. 1094](forskrift/1998-11-27-1094).
+
 ### § 44. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

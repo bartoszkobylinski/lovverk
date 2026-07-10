@@ -58,11 +58,29 @@ Kvalitetsnormen for villrein trer i kraft straks.
 
 Landbruks- og matdepartementet har i tråd med kongelig [resolusjon 27. april 2018 nr. 638](forskrift/2018-04-27-638) ansvaret for overvåkingsprogrammer for hjortevilt, Hjorteviltregisteret, Hjorteviltportalen, Jegerregisteret, jegerprøven og jaktstatistikk m.m. Landbruks- og matdepartementet har også ansvaret for bestandsovervåking som grunnlag for høsting, mens Klima- og miljødepartementet har ansvaret for bestandsovervåking som grunnlag for arealforvaltning.
 
-Kvalitetsnormen for villrein består av tre delnormer:1)Bestandsforhold:Kjønns- og alderskorrigert slaktevekt for kalvAntall kalver per 100 simle og ungdyrAndel eldre (≥3 år) bukk per voksen (≥1 år) simleGenetisk variasjonHelsestatus – forekomst av alvorlig meldepliktig sykdom2)Lavbeiter:Lavbiomasse3)Leveområde og menneskelig påvirkning:Funksjonell arealutnyttelseFunksjonelle trekkpassasjer
+Kvalitetsnormen for villrein består av tre delnormer:
+
+|  |  |  |
+| --- | --- | --- |
+| 1) | Bestandsforhold: | Kjønns- og alderskorrigert slaktevekt for kalv |
+|  |  | Antall kalver per 100 simle og ungdyr |
+|  |  | Andel eldre (≥3 år) bukk per voksen (≥1 år) simle |
+|  |  | Genetisk variasjon |
+|  |  | Helsestatus – forekomst av alvorlig meldepliktig sykdom |
+| 2) | Lavbeiter: | Lavbiomasse |
+| 3) | Leveområde og menneskelig påvirkning: | Funksjonell arealutnyttelse |
+|  |  | Funksjonelle trekkpassasjer |
 
 Klassifisering av villreinområdene etter kvalitetsnormen gjøres hvert fjerde år. Hver delnorm gis en helhetsvurdering. I de tilfeller delnormen består av flere måleparametere, vektes disse likt og måleparameteren med den dårligste klassifiseringen bestemmer delnormens endelige tilstandsklassifisering. Det samme prinsippet gjelder når de tre delnormene skal sammenstilles til en helhetsvurdering for det enkelte villreinområdet. I tilfeller hvor manglende data gjør at enkelte delnormer ikke kan klassifiseres, påvirker ikke dette helhetsvurderingen. Dersom kvalitetsnormen i et villreinområde ikke er nådd, er målet at kvalitetsnormen skal være et grunnlag for å iverksette avbøtende tiltak slik at tilstanden i området kan bringes opp på et nivå som tilfredsstiller kravene. I tilfeller der det er manglende kunnskap, grå fargekode, vil dette være et viktig signal om å innhente nødvendig kunnskap fram til neste klassifisering.
 
-*Samlet fremstilling av de enkelte delnormenes tilstandsvurdering og samlet helhetsvurdering per villreinområde. Fargekodene grønn, gul og rød angir henholdsvis tilstandskategoriene god, middels og dårlig. Grå fargekode angir manglende datagrunnlag.**Bestandsforhold**Lavbeiter**Leveområde og menneskelig påvirkning**Helhetsvurdering**Villreinområde 1**Villreinområde 2**Villreinområde 3**Villreinområde 4*
+*Samlet fremstilling av de enkelte delnormenes tilstandsvurdering og samlet helhetsvurdering per villreinområde. Fargekodene grønn, gul og rød angir henholdsvis tilstandskategoriene god, middels og dårlig. Grå fargekode angir manglende datagrunnlag.*
+
+|  | *Bestandsforhold* | *Lavbeiter* | *Leveområde og menneskelig påvirkning* |  | *Helhetsvurdering* |
+| --- | --- | --- | --- | --- | --- |
+| *Villreinområde 1* |  |  |  |  |  |
+| *Villreinområde 2* |  |  |  |  |  |
+| *Villreinområde 3* |  |  |  |  |  |
+| *Villreinområde 4* |  |  |  |  |  |
 
 ### Bestandsforhold
 
@@ -86,25 +104,53 @@ Metodikk for klassifisering av delnorm 1) bestandsforhold, delnorm 2) lavbeiter 
 
 ### a) Kjønns- og alderskorrigert slaktevekt for kalv
 
+er en sensitiv parameter og gir et godt mål på beitenes kvalitet og bestandens tilstand. Dette beror på at kalvene er de som i størst grad påvirkes av variasjon i miljøforhold, og at vektene på kalvene også reflekterer mattilgangen og vektene på simlene. Høy kalvevekt om høsten øker overlevelse gjennom den første vinteren og øker sjansen for at simlene får sin første kalv som toåring. Slaktevekter samles allerede rutinemessig for en del av områdene, og bør inngå som standard datainnsamling i alle villreinområdene. Ettersom kalvene vokser utover i jakttida, og bukkekalver er tyngre enn simlekalver, brukes 4. september som standardiseringsdato (median fellingsdato) og simlekalver som standard kjønn. Det er fastsatt følgende tilstandskategorier:
+
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| <15 kg | 15–18 kg | >18 kg |
+
 ### b) Antall kalver per 100 simler og ungdyr
+
+kan påvirkes av både ressursbegrensning, predasjon og sykdom. Forventet kalveproduksjon neste vår reflekteres i stor grad av kalvevektene om høsten, og eventuelle avvik fra forventet kalveproduksjon på en gitt vekt vil belyse tap på grunn av andre forhold enn ressursbegrensning. Kalvetellinger gjennomføres normalt ved hjelp av bilder tatt fra fly eller helikopter om sommeren. Et problem med kalvetellinger på villrein, er at dataene er kalv per simle og ungdyr fordi det ikke er mulig å skille ut ungbukker fra simler på bildene tatt fra lufta. Andelen unge bukker (1–2 år) og andelen unge simler som ikke reproduserer vil derfor påvirke beregningene. Variasjon i andelen unge simler som ikke reproduserer er et av forholdene som vi ønsker skal gjenspeiles i «andelen simler med kalv», mens det ideelt sett bør kunne korrigeres for andelen ungbukker som går sammen med simlene og kalvene om sommeren. Det er utviklet modeller som i noen grad kan kontrollere for dette. Det er fastsatt følgende tilstandskategorier for kalv per 100 simle og ungdyr (SU):
+
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| <35 | 35–50 | >50 |
 
 ### c) Andel eldre (≥3 år) bukk per voksen (≥1 år) simle
 
 Forholdet mellom antall simler og bukker har direkte betydning for vekstpotensialet i en bestand. Jo større andel simler, dess større tilvekst i form av fødte kalver. Den enkelte voksne bukk har kapasitet til å bedekke mange simler. Kjønnsforholdet skal derfor være veldig skjevt før dyra ikke blir bedekket hos en så polygyn art som reinsdyr, men fravær av store bukker kan forsinke brunsten og påfølgende kalving. En for skjev kjønnsratio er heller ikke ønskelig sett i et bevaringsperspektiv for å sikre at den seksuelle seleksjonen ivaretas. Andelen bukker som reproduserer påvirker også effektiv bestandsstørrelse. Effektene av disse prosessene kan være små og til dels svakt dokumentert, så høy bukkeandel innebærer et føre-var-prinsipp. Det er vurdert forvaltningsmessig positivt med høy bukkeandel siden bukkene har en mer ekstensiv arealbruk og fører til en bredere utnyttelse av leveområdene. Registreringene gjennomføres normalt som strukturtellinger fra bakken med teleskop i brunstperioden om høsten, da alle kjønns- og aldersgrupper er til stede i flokkene. Det er fastsatt følgende tilstandskategorier for eldre bukk (≥3 år) per voksen simle ≥1 år:
 
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| <0,20 | 0,20–0,35 | >0,35 |
+
 ### d) Genetisk variasjon
 
 Reinen i de norske villreinområdene har ulik opprinnelse, og varierer både når det gjelder innblanding av tamrein, effektiv bestandsstørrelse og genetisk variasjon. Genetisk variasjon er viktig for å opprettholde levedyktige villreinbestander med tilstrekkelig evne til å tilpasse seg varierende miljøbetingelser på lengre sikt. Effektive analyseverktøy kan gi informasjon om både genetisk strukturering av bestander, begynnende bestandsfragmentering og genetisk variasjon generelt. Den effektive bestandsstørrelsen utgjøres av de dyrene som parrer seg og er opphav til nye avkom. Dette er ofte bare en tiendedel av den totale bestanden, avhengig av kjønns- og alderssammensetning. Utveksling av individer mellom nabobestander vil øke den effektive bestandsstørrelsen, mens fragmentering innen bestander vil gi en mindre effektiv bestandsstørrelse enn det områdets bestandstall skulle tilsi. Dette er forhold som rene bestandstall ikke fanger opp og som gjør overvåking av genetisk variasjon nødvendig. Endringer i den genetiske variasjonen skjer langsomt og det er ikke behov for årlige analyser for å følge en utviklingstrend. Bruk av den genetiske variasjonen som et mål vil også bidra til å ivareta den genetiske integriteten til våre stedegne villreinbestander. Det er fastsatt følgende tilstandskategorier for tap av genetisk variasjon i løpet av en fireårsperiode:
 
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| >3 % | 3 <> 0 % | 0 % |
+
 ### e) Helsestatus – forekomst av alvorlig meldepliktig sykdom
 
 Tilstedeværelse av en alvorlig meldepliktig sykdom kan ha store konsekvenser for arten selv, eller gi alvorlig sykdom hos andre arter eller mennesker. Det kan også medføre at folkehelse- eller dyrehelsemyndighetene griper inn med føringer eller pålegg som overstyrer den vanlige forvaltningen av bestandene. Utbruddet av skrantesyke i Nordfjella viser hvordan et slikt sykdomsutbrudd kan snu opp-ned på alle andre faktorer i villreinforvaltningen. Imidlertid er det ikke alvorlige smittsomme sykdommer som vanligvis påvirker villreinens helse og velferd mest, men snarere summen av og samvirket mellom ulike faktorer som påvirker helsen. Infeksjoner, parasitter og feil mineralbalanse kan ha betydelige effekter når de virker sammen med andre viktige miljøfaktorer. Sykdommer kan også øke effekten av endringer i miljøet eller stokastiske hendelser. Vi har i dag for lite kunnskap til å lage en parameter som gir et godt og tolkbart utrykk for dette samspillet mellom helsestatus, andre faktorer og effekter på de ulike bestandenes tilstand, slik at dette kan inkluderes i kvalitetsnormen. Derimot bør tilstedeværelse av alvorlige meldepliktige sykdommer inngå som en måleparameter. Det er fastsatt kun følgende to tilstandskategorier for alvorlige meldepliktige sykdommer:
+
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| Påvist | [benyttes ikke] | Ikke påvist |
 
 ## Vedlegg III til kvalitetsnorm for villrein – Klassifisering av delnorm lavbeiter
 
 Det er store forskjeller mellom de ulike villreinområdene når det gjelder reinens tilgang til lavdominerte vegetasjonstyper. Tilstanden til lavbeitene representerer en viktig begrensning for vinterbeitegrunnlaget i et område. Å sikre at disse beiteressursene opprettholder god produksjon og unngår unødig beiteslitasje, er viktig for å ivareta villreinområdenes bestandsgrunnlag. Naturlige forskjeller i slitasje på vinterbeitene vil oppstå som følge av mellomårsvariasjon i reinens bruk av vinterbeiteområder, og klimatiske forhold som påvirker tilgang til beitene (snødybde, nedising m.m.). I tillegg vil naturlige eller menneskerelaterte barrierer bidra til at det stedegne beitetrykket vil variere mye innen et område. Eksempelvis er beitetrykket større og dermed lavbiomassen gjennomgående langt mindre i de sentrale og mest brukte delene av et villreinområde. Det anbefales derfor at klassifiseringen baseres på tilstanden i 60 % av vinterbeitearealet.
 
 Klassifiseringen av lavbeiter vil bli gjennomført ved en kombinasjon av satellittovervåking og feltbaserte undersøkelser i noen villreinområder med ulik forekomst av beitelav. For kalibrering av fjernmålingen legges det opp til å samle inn data om tilstanden i lavbeitene hvor man måler lavdekning, lavhøyde og lavvolum i faste felter innenfor noen villreinområder. I tillegg legges det opp til at årlige sammenstillinger av satellittbaserte vegetasjonsindekser og lavbiomasseindeksen som er utviklet for Hardangervidda (LVE) gjennomføres for alle villreinområdene. Biomassemålingen basert på satellittdataene er i utgangspunktet gitt som volum (l/m2), men regnes om og presenteres som g/m2 siden reinens fødebehov vanligvis framstilles med basis i tørrvektmål. Overgangen fra volum til vekt er gitt av sammenhengen: (g/m2 = 22 x l/m2). Kategorien dårlig tildeles dersom minst 60 % av det totale vinterbeitearealet har mindre enn 132 g/m2. Kategorien middels tildeles dersom minst 60 % av arealene har fra 132–220 g/m2. Kategorien god tildeles dersom mer enn 60 % av arealene har mer enn 220 g/m2.
+
+| Dårlig | Middels | God |
+| --- | --- | --- |
+| <132g/m2 | 132–220 g/m2 | >220 g/m2 |
 
 ## Vedlegg IV til kvalitetsnorm for villrein – Klassifisering av delnorm leveområde og menneskelig påvirkning
 
@@ -120,12 +166,34 @@ Det er under utvikling en mal for hvordan kartleggingsarbeidet skal gjennomføre
 
 Måleparameteren beskriver i hvor stor grad villreinen har tilgang til viktige funksjonsområder gjennom året. To forhold blir vurdert; 1) grad av arealunnvikelse og 2) samlet omfang av arealunnvikelse.Grad av arealunnvikelse er arealunnvikelse siste 10 år sammenlignet med forventningen basert på siste 50 år. Først klassifiseres det enkelte fokusområde på bakgrunn av grad av arealunnvikelse: dårlig (mer enn 90 % unnvikelse), middels (50–90 % unnvikelse) og god (mindre enn 50 % unnvikelse). Deretter registreres det enkelte fokusområdets areal (km2) i tabellen under, men kun i kolonnen for aktuell grad av arealunnvikelse.
 
+| *Aktuelle fokusområder* | *Grad av arealunnvikelse i fokusområder* |  |  |
+| --- | --- | --- | --- |
+|  | Dårlig | Middels | God |
+| Område 1 | km2 | km2 | km2 |
+| Område 2 | km2 | km2 | km2 |
+| Osv. | km2 | km2 | km2 |
+| *Sum areal* | km2 | km2 |  |
+
 1. For de fokusområdene som er klassifisert til en vesentlig grad av arealunnvikelse (dårlig eller middels i tabellen over) vurderes deretter om disse arealene utgjør et lite (inntil 10 %), middels (10–20 %) eller stort (mer enn 20 %) omfang sammenlignet med det totale arealet av funksjonsområder for sommerbeite, vinterbeite og kalving innen villreinområdet.
 
 Tabellen nedenfor brukes deretter til å fastsette endelig tilstandsklassifisering. Dersom tilstandsklassifiseringen for områder med sommerbeite, vinterbeite og kalving eksempelvis er vurdert til henholdsvis god, middels og dårlig, vil det være kalvingsområdenes dårlige klassifisering som bestemmer den endelige helhetsvurderingen.
+
+|  | *Grad av arealunnvikelse i fokusområdene* |  |  |
+| --- | --- | --- | --- |
+|  |  | Middels | Dårlig |
+| *Samlet omfang av arealunnvikelsen* | Lite |  |  |
+|  | Middels |  |  |
+|  | Stort |  |  |
 
 ### b) Funksjonelle trekkpassasjer
 
 Begrepet funksjonelle trekkpassasjer betyr at villreinen har mulighet til å trekke mellom de ulike funksjonsområdene i leveområdet. Det er de funksjonelt viktigste trekkpassasjene innenfor villreinområdet som vurderes. Klassifiseringen av funksjonelle trekkpassasjer er basert på vurdering av endret bruk (redusert krysningsfrekvens eller økt krysningshastighet) av historisk viktige trekkpassasjer mellom funksjonsområder. To forhold blir vurdert; 1) grad av redusert trekk og 2) endringer i villreinens arealbruk som følge av redusert trekk.Grad av redusert trekk beregnes ved å sammenligne reinens bruk av trekkpassasjer siste 10 år med forventningen basert på siste 50 år. Statusvurderingen av trekkpassasjer er definert som følger: God; inntil 50 % redusert bruk, dette vurderes å ligge innenfor normal variasjon i områdebruk. Middels; 50–90 % redusert bruk. Dårlig; mer enn 90 % redusert bruk.For de trekkpassasjene som har redusert trekk utover normal variasjon (middels eller dårlig), vurderes deretter om omfanget av endringene er lite (inntil 10 %), middels (10–20 %) eller stort (mer enn 20 %) sammenlignet med det totale arealet av funksjonsområder for sommerbeite, vinterbeite eller kalving innen villreinområdet. Vurderingen må også ta i betraktning om det finnes alternative trekkpassasjer, og om omfanget skal reduseres av den grunn.
 
 Tabellen nedenfor brukes til å fastsette endelig tilstandsklassifisering for trekkpassasjer, der fargekodene viser til kvalitetsnormens standard klassifiseringssystem.
+
+|  | *Grad av redusert trekk* |  |  |
+| --- | --- | --- | --- |
+|  |  | Middels | Dårlig |
+| *Omfang av endringer i villreinens arealbruk som følge av redusert trekk* | Lite |  |  |
+|  | Middels |  |  |
+|  | Stort |  |  |

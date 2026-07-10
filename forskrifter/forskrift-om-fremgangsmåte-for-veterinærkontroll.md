@@ -62,9 +62,15 @@ Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 1.2 nr. 1
 
 CVED-sertifikatet nevnt under vedlegg III finnes i pdf-filen nedenfor.
 
+►**B** Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004som endret ved:
+
+► **M3** Forordning [(EU) nr. 519/2013](eu/32013r0519) av 21. februar 2013► **M4** Kommisjonens gjennomføringsforordning [(EU) nr. 359/2014](eu/32014r0359) av 9. april 2014► **M5** Kommisjonens gjennomføringsforordning [(EU) nr. 494/2014](eu/32014r0494) av 13. mai 2014► **M7** Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130) av 25. november 2019
+
 ### Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136)
 av 22. januar 2004
 om fastsettelse av fremgangsmåtene for veterinærkontroller ved EØS grensekontrollstasjoner ved import av produkter fra tredjestater – med de endringer og tillegg som følger av vedlegg I, protokoll 1 til avtalen og avtalen for øvrig.
+
+[KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR1 –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
@@ -72,45 +78,65 @@ under henvisning til rådsdirektiv [97/78/EF](eu/31997l0078)2 av 18. desember 19
 
 ut fra følgende betraktninger:
 
-1. De opprinnelige kravene til veterinærkontroller av produkter som innføres til Fellesskapet fra tredjestater, ble fastsatt i rådsdirektiv [90/675/EØF](eu/31990l0675), som ble opphevet og erstattet med direktiv [97/78/EF](eu/31997l0078).
+1\. De opprinnelige kravene til veterinærkontroller av produkter som innføres til Fellesskapet fra tredjestater, ble fastsatt i rådsdirektiv [90/675/EØF](eu/31990l0675), som ble opphevet og erstattet med direktiv [97/78/EF](eu/31997l0078).
 
-2. På bakgrunn av de erfaringene som er gjort siden direktiv [90/675/EØF](eu/31990l0675) ble vedtatt, er det foretatt noen endringer i framgangsmåtene innført ved direktiv [97/78/EF](eu/31997l0078). Kommisjonsvedtak [93/13/EØF](eu/31993d0013) av 22. desember 1992 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved innførsel av produkter fra tredjestater, sist endret ved vedtak [2003/279/EF](eu/32003d0279), ble gjort på grunnlag av førstnevnte direktiv og bør derfor ajourføres.
+2\. På bakgrunn av de erfaringene som er gjort siden direktiv [90/675/EØF](eu/31990l0675) ble vedtatt, er det foretatt noen endringer i framgangsmåtene innført ved direktiv [97/78/EF](eu/31997l0078). Kommisjonsvedtak [93/13/EØF](eu/31993d0013) av 22. desember 1992 om fastsettelse av framgangsmåtene for veterinærkontroller ved Fellesskapets grensekontrollstasjoner ved innførsel av produkter fra tredjestater, sist endret ved vedtak [2003/279/EF](eu/32003d0279), ble gjort på grunnlag av førstnevnte direktiv og bør derfor ajourføres.
 
-3. Sertifikatet som utstedes når veterinærkontrollen er gjennomført, og som for tiden er fastsatt i vedlegg B til vedtak [93/13/EØF](eu/31993d0013), bør tilpasses for å ta hensyn til endringene i framgangsmåtene både når det gjelder forsendelser som oppfyller fellesskapsbestemmelsene, og forsendelser som ikke oppfyller fellesskapsbestemmelsene, uansett om det gjelder import til eller transitt gjennom Fellesskapet.
+3\. Sertifikatet som utstedes når veterinærkontrollen er gjennomført, og som for tiden er fastsatt i vedlegg B til vedtak [93/13/EØF](eu/31993d0013), bør tilpasses for å ta hensyn til endringene i framgangsmåtene både når det gjelder forsendelser som oppfyller fellesskapsbestemmelsene, og forsendelser som ikke oppfyller fellesskapsbestemmelsene, uansett om det gjelder import til eller transitt gjennom Fellesskapet.
 
-4. Nærmere regler for bruken av nevnte sertifikat er fastsatt i kommisjonsvedtak [2000/208/EF](eu/32000d0208) av 24. februar 2000 om fastsettelse av nærmere regler for gjennomføringen av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til transitt på vei av produkter av animalsk opprinnelse fra en tredjestat til en annen tredjestat gjennom Det europeiske fellesskap, og i kommisjonsvedtak [2000/571/EF](eu/32000d0571) av 8. september 2000 om fastsettelse av nærmere regler for veterinærkontroll av produkter fra tredjestater som innføres til frisoner, frilagre, tollagre eller til leverandører som forsyner fartøyer i internasjonal sjøfart.
+4\. Nærmere regler for bruken av nevnte sertifikat er fastsatt i kommisjonsvedtak [2000/208/EF](eu/32000d0208) av 24. februar 2000 om fastsettelse av nærmere regler for gjennomføringen av rådsdirektiv [97/78/EF](eu/31997l0078) med hensyn til transitt på vei av produkter av animalsk opprinnelse fra en tredjestat til en annen tredjestat gjennom Det europeiske fellesskap, og i kommisjonsvedtak [2000/571/EF](eu/32000d0571) av 8. september 2000 om fastsettelse av nærmere regler for veterinærkontroll av produkter fra tredjestater som innføres til frisoner, frilagre, tollagre eller til leverandører som forsyner fartøyer i internasjonal sjøfart.
 
-5. Det er imidlertid nødvendig å fastsette særlige regler for den praktiske håndteringen av sertifikatet i situasjoner der det foretas veterinær klarering av forsendelser ved grensekontrollstasjonen, men der forsendelsene av skattemessige grunner holdes under tollmyndighetenes kontroll en viss tid. I slike tilfeller er det påkrevd med et sporingssystem, og det er nødvendig at de dokumentene som ledsager forsendelsene, er tydeligere.
+5\. Det er imidlertid nødvendig å fastsette særlige regler for den praktiske håndteringen av sertifikatet i situasjoner der det foretas veterinær klarering av forsendelser ved grensekontrollstasjonen, men der forsendelsene av skattemessige grunner holdes under tollmyndighetenes kontroll en viss tid. I slike tilfeller er det påkrevd med et sporingssystem, og det er nødvendig at de dokumentene som ledsager forsendelsene, er tydeligere.
 
-6. For at ordningen med veterinærkontroller i det felles marked skal virke på en tilfredsstillende måte, bør alle opplysninger om et produkt samles i ett enkelt, enhetlig utformet dokument for å redusere de problemene som oppstår på grunn av språkforskjeller mellom medlemsstatene.
+6\. For at ordningen med veterinærkontroller i det felles marked skal virke på en tilfredsstillende måte, bør alle opplysninger om et produkt samles i ett enkelt, enhetlig utformet dokument for å redusere de problemene som oppstår på grunn av språkforskjeller mellom medlemsstatene.
 
-7. Nærmere regler for harmonisert prøvetaking og harmoniserte laboratorieundersøkelser av forskjellige typer produkter vil bli fastsatt i gjennomføringsbestemmelser senere. I mellomtiden bør nasjonale regler fortsatt få anvendelse, unntatt når det gjelder særlige vernetiltak.
+7\. Nærmere regler for harmonisert prøvetaking og harmoniserte laboratorieundersøkelser av forskjellige typer produkter vil bli fastsatt i gjennomføringsbestemmelser senere. I mellomtiden bør nasjonale regler fortsatt få anvendelse, unntatt når det gjelder særlige vernetiltak.
 
-8. Erfaringen har vist at det med sikte på å redusere bedrageri og forsøk på å unndra seg kontroller, er av grunnleggende betydning å ha gode opplysningskilder for alle forsendelser som innføres til Fellesskapet. Kontroll av manifester er en viktig del i denne innsamlingen av opplysninger, men dette er en svært omfattende og tidkrevende oppgave som bør automatiseres ved hjelp av elektronisk utstyr i den grad det er mulig.
+8\. Erfaringen har vist at det med sikte på å redusere bedrageri og forsøk på å unndra seg kontroller, er av grunnleggende betydning å ha gode opplysningskilder for alle forsendelser som innføres til Fellesskapet. Kontroll av manifester er en viktig del i denne innsamlingen av opplysninger, men dette er en svært omfattende og tidkrevende oppgave som bør automatiseres ved hjelp av elektronisk utstyr i den grad det er mulig.
 
-9. I tillegg til en effektiv innsamling av aktuelle opplysninger fra alle relevante aktører, bør vedkommende myndighet få tilgang til tollmyndighetenes relevante databaser. Alle aktører bør være omfattet av dette databasesystemet for å sikre at ajourførte opplysninger er tilgjengelige for alle berørte parter.
+9\. I tillegg til en effektiv innsamling av aktuelle opplysninger fra alle relevante aktører, bør vedkommende myndighet få tilgang til tollmyndighetenes relevante databaser. Alle aktører bør være omfattet av dette databasesystemet for å sikre at ajourførte opplysninger er tilgjengelige for alle berørte parter.
 
-10. Visse planteprodukter som kan overføre infeksjonssykdommer eller smittsomme sykdommer til dyr, skal gjennomgå veterinærkontroll. Det bør utarbeides en liste over slike produkter, samt en liste over tredjestater eller deler av tredjestater som har tillatelse til å eksportere slike produkter til Fellesskapet.
+10\. Visse planteprodukter som kan overføre infeksjonssykdommer eller smittsomme sykdommer til dyr, skal gjennomgå veterinærkontroll. Det bør utarbeides en liste over slike produkter, samt en liste over tredjestater eller deler av tredjestater som har tillatelse til å eksportere slike produkter til Fellesskapet.
 
-11. Små mengder av produkter av animalsk opprinnelse som passasjerer som ankommer fra tredjestater, har med for personlig konsum, kan unntas fra kravene om veterinærkontroll. Noen av disse produktene er underlagt et vernetiltak i samsvar med kommisjonsvedtak [2002/995/EF](eu/32002d0995) av 9. desember 2002 om fastsettelse av midlertidige vernetiltak ved import av produkter av animalsk opprinnelse for eget konsum. Henvisningene til disse tiltakene bør beholdes i påvente av at det vedtas permanente regler på dette området.
+11\. Små mengder av produkter av animalsk opprinnelse som passasjerer som ankommer fra tredjestater, har med for personlig konsum, kan unntas fra kravene om veterinærkontroll. Noen av disse produktene er underlagt et vernetiltak i samsvar med kommisjonsvedtak [2002/995/EF](eu/32002d0995) av 9. desember 2002 om fastsettelse av midlertidige vernetiltak ved import av produkter av animalsk opprinnelse for eget konsum. Henvisningene til disse tiltakene bør beholdes i påvente av at det vedtas permanente regler på dette området.
 
-12. Tiltakene i denne forordning erstatter tiltakene fastsatt i vedtak [93/13/EØF](eu/31993d0013), og nevnte vedtak bør derfor oppheves.
+12\. Tiltakene i denne forordning erstatter tiltakene fastsatt i vedtak [93/13/EØF](eu/31993d0013), og nevnte vedtak bør derfor oppheves.
 
-13. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+13\. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 Ordlyden i fortalen til de rettsaktene som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf. EØS-avtalens protokoll 1 nr. 1. Fortalen er bare relevant i en grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
+
+2 Rådsdirektiv [97/78/EØF](eu/31997l0078) er gjennomført i norsk rett i all hovedsak ved [forskrift 18. oktober 1999 nr. 1163](forskrift/1999-10-18-1163) om tilsyn og kontroll ved import og transitt mv. av animalske næringsmidler og produkter av animalsk opprinnelse mv. fra tredjeland.
+
+VEDTATT DENNE FORORDNING:]
 
 ### Artikkel 1
 
+► **M7 M7** ◄
+
 ### Artikkel 2
+
+► **M7 M7** ◄
 
 ### Artikkel 3
 
+► **M7 M7** ◄
+
 ### Artikkel 4
+
+► **M7 M7** ◄
 
 ### Artikkel 5
 
+► **M7 M7** ◄
+
 ### Artikkel 6
 
+► **M7 M7** ◄
+
 ### Artikkel 7
+
+► **M7 M7** ◄
 
 ### Artikkel 8. Særlige regler for produkter som er en del av reisendes bagasje eller sendes som små forsendelser til privatpersoner
 
@@ -123,7 +149,11 @@ ut fra følgende betraktninger:
 
 ### Artikkel 10
 
+► **M7 M7** ◄
+
 ### Artikkel 11
+
+► **M7 M7** ◄
 
 ### Artikkel 12. Ikrafttredelse
 
@@ -133,7 +163,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 22. januar 2004.] 3
 
+3 Ikrafttredelse i EØS følger av EØS-komitéens beslutning nr. 44/2005. Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalens artikkel 7.
+
 ### VEDLEGG I – III
+
+► **M7 M7** ◄
 
 ### VEDLEGG IV
 (Opphevet)

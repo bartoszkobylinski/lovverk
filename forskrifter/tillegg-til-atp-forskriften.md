@@ -30,6 +30,12 @@ eu_basis: []
 4. *Oppvarmet materiell.* Isolert materiell som kan frembringe en temperatur innvendig i tomt karosseri på minst +12°C, og holde den praktisk talt konstant i minst 12 timer uten etterfylling når den gjennomsnittlige temperatur utenfor er som angitt nedenfor:Klasse A. For bruk når gjennomsnittlig utetemperatur er -10°CKlasse B. For bruk når gjennomsnittlig utetemperatur er -20°CK-verdien for materiell i klasse B skal i alle tilfelle være lik eller mindre enn 0,4 W/m2°C (0,35 Kcal/hm2°C).
 5. *Overgangsbestemmelser.* I en periode på 3 år etter den dato3 avtalen har trådt i kraft, kan materiell som er tatt i bruk på dette tidspunkt ha en varmegjennomgangskoeffisient (K-verdi) lik eller mindre enn0.9 W/m2°C (0,8 Kcal/hm2°C) når det gjelder isolert materiell i kategorien IN, materiell med kjøling i klasse A, alt materiell med mekanisk kjøle-/fryseanlegg samt oppvarmet materiell i klasse A0,6 W/m2°C (0,5 Kcal/hm2°C) når det gjelder materiell med kjøling i klasse B og C samt oppvarmet materiell i klasse B.Videre kan, etter utløpet av den ovenfor nevnte 3-års periode og helt til materiellet tas ut av tjeneste for godt, K-verdien for materiell med mekanisk kjøle-/fryseanlegg i klassene B, C, E og F tillates å være lik eller mindre enn 0,7 W/m2°C (0,6 Kcal/hm2°C).Disse overgangsbestemmelser skal ikke være til hinder for anvendelsen av eventuelle strengere forskrifter som visse stater måtte ha innført for materiell registrert på deres eget område.
 
+1 Vogner, lastebiler, tilhengere, semitrailere, containere og annet lignende materiell.
+
+2 Når det gjelder tankmateriell betyr «karosseri» her selve tanken.
+
+3 21. november 1976.
+
 ## Annex 1, Appendix 1. Bestemmelser om hvordan materiell som er isolert, har kjøling, mekanisk kjøle-/fryseanlegg eller oppvarming skal kontrolleres i henhold til standardkravene.
 
 1. Med de unntak som følger av appendix 2 til dette annex, nummer 29 og 49, skal kontroll i henhold til standardkravene foretas ved prøvelaboratorium som er særlig utpekt eller godkjent av vedkommende myndighet i det land materiellet er registrert. Kontroll skal skje:før materiellet tas i bruk,periodisk, minst en gang hvert 6. år ognår som helst vedkommende myndighet forlanger det.
@@ -95,6 +101,8 @@ eu_basis: []
 1. Når hensikten er å kontrollere isolasjonens kapasitet for den enkelte materiellenhet i bruk, som foreskrevet i appendix 1, nummer 1 b) og 1 c) til dette annex, kan vedkommende myndighetgjøre bruk av metodene beskrevet i nummer 7 til 27 i dette appendix, ellerutnevne sakkyndige til å vurdere om materiellet er i slik stand at det kan beholde sin klassifisering som isolert materiell. Disse sakkyndige skal ta hensyn til følgende detaljer og bygge sin konklusjon på nedenstående kriterier.Alminnelig undersøkelse av materielletVed denne undersøkelse skal materiellet tas i øyesyn for i tur og orden å fastslå:den isolerende klednings alminnelige konstruksjonhvordan isoleringen er påførtveggenes art og tilstanddet isolerte roms tilstandveggtykkelsen.Herunder skal gjøres de nødvendige iakttagelser som har sammenheng med materiellets kapasitet når det gjelder isolasjonen. I den hensikt kan den sakkyndige forlange at deler av materiellet blir demontert og at alle nødvendige dokumenter (tegninger, prøverapporter, spesifikasjoner, fakturaer m.v.) blir fremlagt.Undersøkelse av luft-tetthet (gjelder ikke tankmateriell)Materiellet skal tas i øyesyn fra innsiden mens det befinner seg på et klart belyst område. Andre metoder som gir mer nøyaktige resultater kan brukes.VedtakDersom karosseriets alminnelige tilstand kan betegnes som bra, får materiellet fortsatt brukes som isolert materiell i den opprinnelige klasse i inntil 3 år. Hvis den eller de sakkyndige ikke kan betegne materiellet som bra, får det bare benyttes dersom det ved kontroll på prøvelaboratorium består prøvene beskrevet i nummer 7 til 27 i dette appendix. I så fall kan materiellet anvendes i en ytterligere periode på 6 år.
 2. Overgangsbestemmelser for nytt utstyr. I 4 år1 regnet fra den dato avtalen trer i kraft kan nytt utstyr prøves etter bestemmelsene i nummer 29 i dette appendix såfremt det ikke finnes laboratorier der K-verdien kan måles slik det er beskrevet i nummer 7 til 27. Det forutsettes da at isolasjonskapasiteten bedømmes etter disse retningslinjer:Det isolerende materiale i hovedelementene (vegger, gulv, tak, luker, dører etc.) skal ha tilnærmet ens tykkelse som i metrisk mål skal være større enn det tall som fremkommer når materialets termiske ledningskoeffisient i fuktige omgivelser divideres med den K-verdi som er fastsatt for den kategori utstyret skal godkjennes for.
 
+1 I overensstemmelse med beslutning i Inland Transport Committee, møte nr. 30.
+
 ### C. Det tekniske utstyrs effektivitet.
 
 Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.Det varmeregulerende utstyrs effektivitet skal fastslås på den måte som er beskrevet i nummer 32 til 47 i dette appendix.
@@ -136,7 +144,21 @@ Prosedyre for å fastslå effektiviteten av det varmeregulerende utstyr.Det varm
 
 1. I 4 år,1 regnet fra den dato avtalen trer i kraft, kan nytt utstyr prøves etter bestemmelsene i nummer 49 i dette appendix såfremt det ikke finnes laboratorier der effektiviteten av de varmeregulerende innretninger i utstyret kan fastslås slik det er beskrevet i nummer 32 til 47 i dette appendix.
 
+1 I overensstemmelse med beslutning i Inland Transport Committee, møte nr. 30.
+
 ## Annex 1, Appendix 3. Sertifikatblankett for isolert, kjølt, mekanisk kjølt eller oppvarmet materiell som brukes til internasjonal transport av lett bedervelige næringsmidler på landjorden.
+
+.....1
+
+MATERIELL
+
+ISOLERT     KJØLT     MEKANISK KJØLT     OPPVARMET
+
+(Stryk det som ikke passer)
+
+SERTIFIKAT2
+
+utstedt i overensstemmelse med konvensjonen om internasjonal transport av lett bedervelige næringsmidler og om det spesielle materiell som skal anvendes for slik transport (ATP).
 
 1. Utstedende myndighet
 2. Materiell3
@@ -151,9 +173,47 @@ samme ved ...... °C ...... W
 9. Sted ......
 10. Dato ......(Vedkommende myndighet)
 
+1 Nasjonalitetskjennemerke, slik det brukes i internasjonal vegtrafikk.
+
+2 Blanketten skal trykkes på det utstedende lands språk, samt på engelsk, fransk eller russisk. De enkelte posisjoner skal være nummerert som denne modell.
+
+3 Oppgi type (vogn, lastebil, tilhenger, semitrailer, container etc.). For tankmateriell beregnet for transport av flytende næringsmidler, tilføy «tank».
+
+4 Påfør her en eller flere av de kategorier som er beskrevet i appendix 4 til dette annex, samt tilsvarende merker.
+
+5 Stryk det som ikke passer.
+
+6 F.eks. isolasjonens kapasitet eller det temperaturregulerende utstyrs kapasitet.
+
+7 Målt i overensstemmelse med bestemmelsene i appendix 2, pkt. 42 til dette annex.
+
 ## Annex 1, Appendix 4. Merking av materiell
 
-Den merking som kreves ifølge pkt. 5 i appendix 1 til dette annex skal bestå av store bokstaver (versalier) i blått på hvit bunn. Bokstavenes høyde skal være minst 12 cm. Merkingen skal være slik:MateriellMerkingNormalisolertINRikelig isolertIRKlasse A, kjølt materiell med normal isolasjonRNAKlasse A, kjølt materiell med rikelig isolasjonRRAKlasse B, kjølt materiell med rikelig isolasjonRRBKlasse C, kjølt materiell med rikelig isolasjonRRCKlasse A, mekanisk kjølt materiell med normal isolasjonFNAKlasse A, mekanisk kjølt materiell med rikelig isolasjonFRAKlasse B, mekanisk kjølt materiell med normal isolasjon1FNBKlasse B, mekanisk kjølt materiell med rikelig isolasjonFRBKlasse C, mekanisk kjølt materiell med normal isolasjon1FNCKlasse C, mekanisk kjølt materiell med rikelig isolasjonFRCKlasse D, mekanisk kjølt materiell med normal isolasjonFNDKlasse D, mekanisk kjølt materiell med rikelig isolasjonFRDKlasse E, mekanisk kjølt materiell med normal isolasjon1FNEKlasse E, mekanisk kjølt materiell med rikelig isolasjonFREKlasse F, mekanisk kjølt materiell med normal isolasjon1FNFKlasse F, mekanisk kjølt materiell med rikelig isolasjonFRFKlasse A, oppvarmet materiell med normal isolasjonCNAKlasse A, oppvarmet materiell med rikelig isolasjonCRAKlasse B, oppvarmet materiell med normal isolasjonCRB
+Den merking som kreves ifølge pkt. 5 i appendix 1 til dette annex skal bestå av store bokstaver (versalier) i blått på hvit bunn. Bokstavenes høyde skal være minst 12 cm. Merkingen skal være slik:
+
+| Materiell | Merking |
+| --- | --- |
+| Normalisolert | IN |
+| Rikelig isolert | IR |
+| Klasse A, kjølt materiell med normal isolasjon | RNA |
+| Klasse A, kjølt materiell med rikelig isolasjon | RRA |
+| Klasse B, kjølt materiell med rikelig isolasjon | RRB |
+| Klasse C, kjølt materiell med rikelig isolasjon | RRC |
+| Klasse A, mekanisk kjølt materiell med normal isolasjon | FNA |
+| Klasse A, mekanisk kjølt materiell med rikelig isolasjon | FRA |
+| Klasse B, mekanisk kjølt materiell med normal isolasjon1 | FNB |
+| Klasse B, mekanisk kjølt materiell med rikelig isolasjon | FRB |
+| Klasse C, mekanisk kjølt materiell med normal isolasjon1 | FNC |
+| Klasse C, mekanisk kjølt materiell med rikelig isolasjon | FRC |
+| Klasse D, mekanisk kjølt materiell med normal isolasjon | FND |
+| Klasse D, mekanisk kjølt materiell med rikelig isolasjon | FRD |
+| Klasse E, mekanisk kjølt materiell med normal isolasjon1 | FNE |
+| Klasse E, mekanisk kjølt materiell med rikelig isolasjon | FRE |
+| Klasse F, mekanisk kjølt materiell med normal isolasjon1 | FNF |
+| Klasse F, mekanisk kjølt materiell med rikelig isolasjon | FRF |
+| Klasse A, oppvarmet materiell med normal isolasjon | CNA |
+| Klasse A, oppvarmet materiell med rikelig isolasjon | CRA |
+| Klasse B, oppvarmet materiell med normal isolasjon | CRB |
 
 Dersom materiellet har temperaturreguleringsutstyr som ikke virker uavhengig, eller som kan fjernes, skal det tilføyes bokstaven X.
 
@@ -167,10 +227,41 @@ RNA
 
 5 = måned (mai), 1974 = år når gyldigheten utløper.
 
+1 Se om overgangsordning, nummer 5 i dette annex.
+
 ## Annex 2. Temperaturkrav ved transport av fryste næringsmidler.
 
-Under lasting, transport og lossing av nedenfor nevnte varer, skal temperaturen ikke på noe sted i lasten være høyere enn de angitte grenseverdier. Dog tillates det at temperaturen i deler av lasten i begrenset omfang overstiger de gitte grenseverdier med inntil 3°C når årsaken er visse tekniske forhold, som f.eks. defrosting av det mekaniske kjøleanlegg.Iskrem og dypfryste fruktsafter-20°CFryst og dypfryst fisk-18°CAlle andre dypfryste næringsmidler-18°CSmør og andre fryste fettslag-14°CFryst innmat, eggeplommer, fjørfe og vilt-12°CFryst kjøtt-10°CAlle andre fryste næringsmidler-10°C
+Under lasting, transport og lossing av nedenfor nevnte varer, skal temperaturen ikke på noe sted i lasten være høyere enn de angitte grenseverdier. Dog tillates det at temperaturen i deler av lasten i begrenset omfang overstiger de gitte grenseverdier med inntil 3°C når årsaken er visse tekniske forhold, som f.eks. defrosting av det mekaniske kjøleanlegg.
+
+|  |  |
+| --- | --- |
+| Iskrem og dypfryste fruktsafter | -20°C |
+| Fryst og dypfryst fisk | -18°C |
+| Alle andre dypfryste næringsmidler | -18°C |
+| Smør og andre fryste fettslag | -14°C |
+| Fryst innmat, eggeplommer, fjørfe og vilt | -12°C |
+| Fryst kjøtt | -10°C |
+| Alle andre fryste næringsmidler | -10°C |
 
 ## Annex 3. Temperaturkrav ved transport av visse næringsmidler som hverken er dypfryste eller fryste.
 
-Under transporten skal temperaturen i nedenfor nevnte næringsmidler aldri være høyere enn de angitte grenseverdier:Innmat3+3°CSmør+6°CVilt+4°CKonsummelk (ubehandlet eller pasteurisert) i tanker3+4°CIndustrimelk3+6°CMeieriprodukter (yoghurt, kefir, fløte og fersk ost)3+4°CFisk1 (må alltid transporteres «iset»)+2°CKjøttprodukter2+6°CKjøtt (ikke innmat)+7°CFjørfe og kaniner+4°C
+Under transporten skal temperaturen i nedenfor nevnte næringsmidler aldri være høyere enn de angitte grenseverdier:
+
+|  |  |
+| --- | --- |
+| Innmat3 | +3°C |
+| Smør | +6°C |
+| Vilt | +4°C |
+| Konsummelk (ubehandlet eller pasteurisert) i tanker3 | +4°C |
+| Industrimelk3 | +6°C |
+| Meieriprodukter (yoghurt, kefir, fløte og fersk ost)3 | +4°C |
+| Fisk1 (må alltid transporteres «iset») | +2°C |
+| Kjøttprodukter2 | +6°C |
+| Kjøtt (ikke innmat) | +7°C |
+| Fjørfe og kaniner | +4°C |
+
+1 Unntatt røket, saltet, tørket eller levende fisk.
+
+2 Unntatt slike som er konservert ved salting, røking, tørking eller sterilisering.
+
+3 Transporter skal i prinsippet ikke vare lenger enn 48 timer.

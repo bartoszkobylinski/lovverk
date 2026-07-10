@@ -52,11 +52,27 @@ Det er et vilkår for rett til kompensasjon etter denne forskriften at eieren el
 
 ### § 4. Satser
 
-(1) Kompensasjon ved første gangs påvist smitte:–Livdyr (eldre enn 18 uker)kr 3 300/dyr.
+(1) Kompensasjon ved første gangs påvist smitte:
 
-(2) Kompensasjon ved gjentatt påvist smitte:–Livdyrkr 1 100/dyr/md.;–Slaktegriskr 80/dyr;–Smågriskr 40/dyr.
+|  |  |  |
+| --- | --- | --- |
+| – | Livdyr (eldre enn 18 uker) | kr 3 300/dyr. |
 
-(3) Kompensasjon ved pålagt oppholdsperiode:–Livdyr (eldre enn 18 uker)kr 1 100/dyr/md.;–Slaktegriskr 80/dyr/md.;–Smågriskr 40/dyr/md.
+(2) Kompensasjon ved gjentatt påvist smitte:
+
+|  |  |  |
+| --- | --- | --- |
+| – | Livdyr | kr 1 100/dyr/md.; |
+| – | Slaktegris | kr 80/dyr; |
+| – | Smågris | kr 40/dyr. |
+
+(3) Kompensasjon ved pålagt oppholdsperiode:
+
+|  |  |  |
+| --- | --- | --- |
+| – | Livdyr (eldre enn 18 uker) | kr 1 100/dyr/md.; |
+| – | Slaktegris | kr 80/dyr/md.; |
+| – | Smågris | kr 40/dyr/md. |
 
 (4) For kompensasjon etter første gangs påvist smitte er dyrets alder ved pålegg om avlivning bestemmende for om det skal gis kompensasjon for livdyr. Ved gjentatt påvisning av smitte er planlagt bruk av dyret bestemmende for hvilken sats som benyttes.
 

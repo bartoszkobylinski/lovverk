@@ -54,7 +54,13 @@ Det er forbudt å bruke trål eller snurrevad dersom det i noen del av redskapet
 
 ### § 5. Fiske med småmasket trål og snurrevad
 
-Uten hinder av [§ 4](forskrift/2021-12-23-3910/§4) kan det brukes følgende maskevidde ved fiske etter følgende fiskeslag:1.Makrell, sild, brisling, vassild, lodde, øyepål, kolmule, hestmakrell og polartorskMellom 16 mm og 70 mm2.TobisMindre enn 16 mm3.Reker35 mm
+Uten hinder av [§ 4](forskrift/2021-12-23-3910/§4) kan det brukes følgende maskevidde ved fiske etter følgende fiskeslag:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | 1. | Makrell, sild, brisling, vassild, lodde, øyepål, kolmule, hestmakrell og polartorsk | Mellom 16 mm og 70 mm |
+|  | 2. | Tobis | Mindre enn 16 mm |
+|  | 3. | Reker | 35 mm |
 
 Uten hinder av [§ 4](forskrift/2021-12-23-3910/§4) kan kystfartøy under 15 meter største lengde bruke snurrevad med maskevidder mellom 16 mm og 70 mm ved fiske etter sild vest av grunnlinjene fra 64° N og videre sørover til grensen mot Skagerrak, samt i følgende område:
 
@@ -84,7 +90,7 @@ Ved bruk av stormasket trål og snurrevad er det bare tillatt å bruke rundstrop
 
 Rundstroppene skal være lengre enn 50 % av fiskeposens omkrets målt med strukket maske på det sted hvor rundstroppene er festet til fiskeposen. Rundstroppenes lengde mellom festepunktene skal være minst 50 % av avstanden mellom festepunktene. Rundstroppene skal måles slik:
 
-$$\frac{rundstroppens\:lengde\:*\:100}{maskestørrelse\:*\:antall\:åpne\:masker} = \%\:av\:omkretsen$$
+$$\\frac{rundstroppens\\:lengde\\:\*\\:100}{maskestørrelse\\:\*\\:antall\\:åpne\\:masker} = \\%\\:av\\:omkretsen$$
 
 Maskestørrelsen fastsettes som gjennomsnittet av 10 masker strukket etter hverandre i maskens lengste retning.
 
@@ -212,7 +218,16 @@ Samleteiner til lagring av kongekrabbe skal røktes minst hver sjuende dag.
 
 Det er forbudt å ha mer enn fire sider i den enkelte maske. Alle maskens sider skal være like lange.
 
-Det er forbudt å bruke garn dersom maskestørrelsen er mindre enn fastsatt nedenfor:a.Fiske etter torsk nord for 62° N156 mmb.Fiske etter breiflabb360 mmc.Fiske etter kveite470 mmd.Fiske etter rognkjeks267 mme.Fiske med bunnsatte garn sør for 62° N:126 mmf.Fiske etter torsk, hyse, sei, rødspette, lange, lyr og lysing utenfor 4 nautiske mil fra grunnlinjene i Norges økonomiske sone sør for 62° N og vest for en rett linje gjennom Lindesnes og Hanstholmen fyr:148 mm
+Det er forbudt å bruke garn dersom maskestørrelsen er mindre enn fastsatt nedenfor:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | a. | Fiske etter torsk nord for 62° N | 156 mm |
+|  | b. | Fiske etter breiflabb | 360 mm |
+|  | c. | Fiske etter kveite | 470 mm |
+|  | d. | Fiske etter rognkjeks | 267 mm |
+|  | e. | Fiske med bunnsatte garn sør for 62° N: | 126 mm |
+|  | f. | Fiske etter torsk, hyse, sei, rødspette, lange, lyr og lysing utenfor 4 nautiske mil fra grunnlinjene i Norges økonomiske sone sør for 62° N og vest for en rett linje gjennom Lindesnes og Hanstholmen fyr: | 148 mm |
 
 Maskestørrelsen i annet ledd bokstav e gjelder ikke ved fisket etter sild og makrell med bunnsatte sildegarn av multifilament (polyamid) tråd med maskestørrelse mindre enn 64 mm.
 
@@ -350,7 +365,27 @@ Forbudet i første ledd gjelder ikke:Dersom det er fastsatt spesifikke unntak fo
 
 Det er forbudt å fiske med bunnline med mer enn 5000 kroker pr. døgn innenfor fjordlinjene.
 
-I følgende områder i tidsrommet fra og med 1. november til og med 30. april gjelder forbudet innenfor rette linjer mellom angitte posisjoner istedenfor fjordlinjene:a.Varangerfjorden:N 70° 05,98′ Ø 029° 23,07′N 69° 54,08′ Ø 029° 56,47′N 69° 52,65′ Ø 030° 10,51′b.Tanafjorden:N 70° 50,94′ Ø 028° 44,65′N 70° 54,00′ Ø 028° 29,05′c.Laksefjorden:N 70° 53,53′ Ø 027° 19,27′N 70° 50,00′ Ø 027° 17,48′N 70° 51,44′ Ø 026° 39,78′d.Porsangerfjorden:N 70° 49,50′ Ø 026° 16,65′N 70° 58,32′ Ø 025° 48,03′e.Havøysund–Sørøya:N 70° 54,10′ Ø 024° 33,25′N 70° 53,37′ Ø 024° 14,79′N 70° 44,86′ Ø 023° 40,49′N 70° 46,86′ Ø 023° 29,90′f.Hasvik–Silda:N 70° 30,31′ Ø 022° 41,31′N 70° 19,78′ Ø 021° 56,98′N 70° 20,89′ Ø 021° 48,69′
+I følgende områder i tidsrommet fra og med 1. november til og med 30. april gjelder forbudet innenfor rette linjer mellom angitte posisjoner istedenfor fjordlinjene:
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | a. | Varangerfjorden: | N 70° 05,98′ Ø 029° 23,07′ |
+|  |  |  | N 69° 54,08′ Ø 029° 56,47′ |
+|  |  |  | N 69° 52,65′ Ø 030° 10,51′ |
+|  | b. | Tanafjorden: | N 70° 50,94′ Ø 028° 44,65′ |
+|  |  |  | N 70° 54,00′ Ø 028° 29,05′ |
+|  | c. | Laksefjorden: | N 70° 53,53′ Ø 027° 19,27′ |
+|  |  |  | N 70° 50,00′ Ø 027° 17,48′ |
+|  |  |  | N 70° 51,44′ Ø 026° 39,78′ |
+|  | d. | Porsangerfjorden: | N 70° 49,50′ Ø 026° 16,65′ |
+|  |  |  | N 70° 58,32′ Ø 025° 48,03′ |
+|  | e. | Havøysund–Sørøya: | N 70° 54,10′ Ø 024° 33,25′ |
+|  |  |  | N 70° 53,37′ Ø 024° 14,79′ |
+|  |  |  | N 70° 44,86′ Ø 023° 40,49′ |
+|  |  |  | N 70° 46,86′ Ø 023° 29,90′ |
+|  | f. | Hasvik–Silda: | N 70° 30,31′ Ø 022° 41,31′ |
+|  |  |  | N 70° 19,78′ Ø 021° 56,98′ |
+|  |  |  | N 70° 20,89′ Ø 021° 48,69′ |
 
 Dersom fartøyet fisker med bunnline både innenfor og utenfor forbudsområdet etter første og annet ledd, skal det totale antall kroker ikke overstige 5000.
 
@@ -520,7 +555,68 @@ Haneskjell og stort kamskjell skal måles over skallets lengste lengde.
 
 ### § 47. Minstemål
 
-Det er forbudt å fiske fisk mindre enn:1.Blåkveite45 cm2.Breiflabb ved fiske med garn60 cm3.Brisling innenfor 4 nautiske mil fra grunnlinjene10 cm4.Glassvar25 cm5.Haneskjell i Nordland, Troms og Finnmark fylker6,5 cm6.Hvitting32 cm7.Hysea.Nord for 62° N40 cmb.Sør for 62° N32 cm8.Kongekrabbe i kvoteregulert område øst for 26° Ø13 cm9.Kveite84 cm og 7,2 kg10.Loddea.Nord for 62° N11 cmb.I fiskerisonen ved Jan Mayen12 cm11.Lomre25 cm12.Lysing30 cm13.Makrell30 cm14.Makrellstørje115 cm og 30 kg15.Pigghå70 cm16.Piggvar30 cm17.Reke (*pandalus borealis*)a.Nord for 62° N6 cmb.Sør for 62° N6,5 cm18.Rødspette29 cm19.Sandflyndre23 cm20.Seia.Nord for 62° N45 cmb.Sør for 62° N40 cmc.Sei med noti.Nord for 68° 30′ N42 cmii.Mellom 68° 30′ N og 62° N40 cmI området mellom 66° 33′ N og 62° N gjelder likevel et minstemål på 35 cm inntil Fiskeridirektoratet har beregnet oppfisket 3 000 tonn sei i dette området i det enkelte reguleringsåriii.Sør for 62° N innenfor 4 nautiske mil fra grunnlinjene32 cm21.Silda.Nord for 62° N25 cmb.Sør for 62° N20 cmc.Trondheimsfjordsild23 cm22.Sjøkreps13 cm23.Skrubbe20 cm24.Slettvar30 cm25.Smørflyndre28 cm26.Snøkrabbe9,5 cm27.Stort kamskjell10 cm28.Taskekrabbe13 cm29.Taskekrabbe på kyststrekningen Rogaland mot grensen til Sverige11 cm30.Tobis10 cm31.Torska.Nord for 62° Ni.Utenfor 4 nautiske mil av grunnlinjene44 cmii.Innenfor 4 nautiske mil av grunnlinjene55 cmb.Sør for 62° N40 cm32.Uera.Utenfor 12 nautiske mil fra grunnlinjene30 cmb.Innenfor 12 nautiske mil fra grunnlinjene32 cm33.Vassild27 cm34.Åla.Gulål40 cmb.Blankål37 cm
+Det er forbudt å fiske fisk mindre enn:
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 1. | Blåkveite |  |  | 45 cm |
+|  | 2. | Breiflabb ved fiske med garn |  |  | 60 cm |
+|  | 3. | Brisling innenfor 4 nautiske mil fra grunnlinjene |  |  | 10 cm |
+|  | 4. | Glassvar |  |  | 25 cm |
+|  | 5. | Haneskjell i Nordland, Troms og Finnmark fylker |  |  | 6,5 cm |
+|  | 6. | Hvitting |  |  | 32 cm |
+|  | 7. | Hyse |  |  |  |
+|  |  | a. | Nord for 62° N |  | 40 cm |
+|  |  | b. | Sør for 62° N |  | 32 cm |
+|  | 8. | Kongekrabbe i kvoteregulert område øst for 26° Ø |  |  | 13 cm |
+|  | 9. | Kveite |  |  | 84 cm og 7,2 kg |
+|  | 10. | Lodde |  |  |  |
+|  |  | a. | Nord for 62° N |  | 11 cm |
+|  |  | b. | I fiskerisonen ved Jan Mayen |  | 12 cm |
+|  | 11. | Lomre |  |  | 25 cm |
+|  | 12. | Lysing |  |  | 30 cm |
+|  | 13. | Makrell |  |  | 30 cm |
+|  | 14. | Makrellstørje |  |  | 115 cm og 30 kg |
+|  | 15. | Pigghå |  |  | 70 cm |
+|  | 16. | Piggvar |  |  | 30 cm |
+|  | 17. | Reke (*pandalus borealis*) |  |  |  |
+|  |  | a. | Nord for 62° N |  | 6 cm |
+|  |  | b. | Sør for 62° N |  | 6,5 cm |
+|  | 18. | Rødspette |  |  | 29 cm |
+|  | 19. | Sandflyndre |  |  | 23 cm |
+|  | 20. | Sei |  |  |  |
+|  |  | a. | Nord for 62° N |  | 45 cm |
+|  |  | b. | Sør for 62° N |  | 40 cm |
+|  |  | c. | Sei med not |  |  |
+|  |  |  | i. | Nord for 68° 30′ N | 42 cm |
+|  |  |  | ii. | Mellom 68° 30′ N og 62° N | 40 cm |
+|  |  |  |  | I området mellom 66° 33′ N og 62° N gjelder likevel et minstemål på 35 cm inntil Fiskeridirektoratet har beregnet oppfisket 3 000 tonn sei i dette området i det enkelte reguleringsår |  |
+|  |  |  | iii. | Sør for 62° N innenfor 4 nautiske mil fra grunnlinjene | 32 cm |
+|  | 21. | Sild |  |  |  |
+|  |  | a. | Nord for 62° N |  | 25 cm |
+|  |  | b. | Sør for 62° N |  | 20 cm |
+|  |  | c. | Trondheimsfjordsild |  | 23 cm |
+|  | 22. | Sjøkreps |  |  | 13 cm |
+|  | 23. | Skrubbe |  |  | 20 cm |
+|  | 24. | Slettvar |  |  | 30 cm |
+|  | 25. | Smørflyndre |  |  | 28 cm |
+|  | 26. | Snøkrabbe |  |  | 9,5 cm |
+|  | 27. | Stort kamskjell |  |  | 10 cm |
+|  | 28. | Taskekrabbe |  |  | 13 cm |
+|  | 29. | Taskekrabbe på kyststrekningen Rogaland mot grensen til Sverige |  |  | 11 cm |
+|  | 30. | Tobis |  |  | 10 cm |
+|  | 31. | Torsk |  |  |  |
+|  |  | a. | Nord for 62° N |  |  |
+|  |  |  | i. | Utenfor 4 nautiske mil av grunnlinjene | 44 cm |
+|  |  |  | ii. | Innenfor 4 nautiske mil av grunnlinjene | 55 cm |
+|  |  | b. | Sør for 62° N |  | 40 cm |
+|  | 32. | Uer |  |  |  |
+|  |  | a. | Utenfor 12 nautiske mil fra grunnlinjene |  | 30 cm |
+|  |  | b. | Innenfor 12 nautiske mil fra grunnlinjene |  | 32 cm |
+|  | 33. | Vassild |  |  | 27 cm |
+|  | 34. | Ål |  |  |  |
+|  |  | a. | Gulål |  | 40 cm |
+|  |  | b. | Blankål |  | 37 cm |
 
 > Endret ved forskrifter [1 mars 2022 nr. 321](forskrift/2022-03-01-321), [24 mai 2023 nr. 726](forskrift/2023-05-24-726) (i kraft 1 juni 2023), [21 des 2023 nr. 2288](forskrift/2023-12-21-2288) (i kraft 1 jan 2024), [12 juni 2025 nr. 1040](forskrift/2025-06-12-1040).
 
@@ -850,41 +946,63 @@ Samtidig oppheves [forskrift 22. desember 2004 nr. 1878 om utøvelse av fiske i 
 
 ## Vedlegg 1a. Spesifikasjoner for utforming og montering av kvadratmaskepose og forlengelse i snurrevad for fartøy over 11 meter
 
+For å lese vedlegg 1a se her: [pdf-fil](static/SF/sf-20211223-3910-v1a-01-06.pdf).
+
 > Endret ved forskrifter [21 des 2023 nr. 2288](forskrift/2023-12-21-2288) (i kraft 1 jan 2024), [28 jan 2025 nr. 97](forskrift/2025-01-28-97), [10 mars 2025 nr. 413](forskrift/2025-03-10-413), [9 april 2025 nr. 651](forskrift/2025-04-09-651), [12 mai 2025 nr. 783](forskrift/2025-05-12-783).
 
 ## Vedlegg 1b. Kvadratmasket fiskepose og kvadratmaskeforlengelse for snurrevadfartøy
+
+For å lese vedlegg 1b se her: [pdf-fil](static/SF/sf-20211223-3910-v1b-01-05.pdf).
 
 > Endret ved forskrifter [21 des 2023 nr. 2288](forskrift/2023-12-21-2288) (i kraft 1 jan 2024), [28 jan 2025 nr. 97](forskrift/2025-01-28-97), [10 mars 2025 nr. 413](forskrift/2025-03-10-413), [9 april 2025 nr. 651](forskrift/2025-04-09-651).
 
 ## Vedlegg 2a. Beskrivelse av fangstbegrensningssystem for snurrevad
 
+For å lese vedlegg 2a se her: [pdf-fil](static/SF/sf-20211223-3910-v2a-01-02.pdf)
+
 > Endret ved forskrift [22 feb 2022 nr. 292](forskrift/2022-02-22-292).
 
 ## Vedlegg 2b. Fangstbegrensningssystem for snurrevad
 
+For å lese vedlegg 2b se her: [pdf-fil](static/SF/sf-20211223-3910-v2b-01-01.pdf)
+
 ## Vedlegg 2c. Fangstutslipp og fiskelås for snurrevad
 
+For å lese vedlegg 2c se her: [pdf-fil](static/SF/sf-20211223-3910-v2c-01-01.pdf)
+
 ## Vedlegg 3a. Monteringsbeskrivelse for teiner i fiske etter kongekrabbe
+
+For å lese vedlegg 3a se her: [pdf-fil](static/SF/sf-20211223-3910-v3a-01-03.pdf)
 
 > Endret ved forskrifter [28 feb 2022 nr. 316](forskrift/2022-02-28-316), [14 juni 2022 nr. 1022](forskrift/2022-06-14-1022).
 
 ## Vedlegg 3b. Monteringsbeskrivelse for teiner i fiske etter sjøkreps i fritidsfiske
 
+For å lese vedlegg 3b se her: [pdf-fil](static/SF/sf-20211223-3910-v3b-01-03.pdf)
+
 > Endret ved forskrifter [28 feb 2022 nr. 316](forskrift/2022-02-28-316), [25 mai 2022 nr. 942](forskrift/2022-05-25-942).
 
 ## Vedlegg 3c. Monteringsbeskrivelse for teiner i fiske etter sjøkreps i yrkesfiske
+
+For å lese vedlegg 3c se her: [pdf-fil](static/SF/sf-20211223-3910-v3c-01-02.pdf)
 
 > Endret ved forskrift [25 mai 2022 nr. 942](forskrift/2022-05-25-942).
 
 ## Vedlegg 3d. Monteringsbeskrivelse for hummer- og krabbeteiner i fritidsfiske
 
+For å lese vedlegg 3d se her: [pdf-fil](static/SF/sf-20211223-3910-v3d-01-03.pdf)
+
 > Tilføyd ved forskrift [25 mai 2022 nr. 942](forskrift/2022-05-25-942), endret ved forskrifter [9 sep 2022 nr. 1564](forskrift/2022-09-09-1564), [20 sep 2022 nr. 1616](forskrift/2022-09-20-1616).
 
 ## Vedlegg 3e. Monteringsbeskrivelse for hummer- og krabbeteiner i yrkesfiske
 
+For å lese vedlegg 3e se her: [pdf-fil](static/SF/sf-20211223-3910-v3e-01-04.pdf)
+
 > Tilføyd ved forskrift [25 mai 2022 nr. 942](forskrift/2022-05-25-942), endret ved forskrifter [9 sep 2022 nr. 1564](forskrift/2022-09-09-1564), [20 sep 2022 nr. 1616](forskrift/2022-09-20-1616), [28 feb 2023 nr. 273](forskrift/2023-02-28-273).
 
 ## Vedlegg 3f. Monteringsbeskrivelse for rømmingshull i snøkrabbeteiner
+
+For å lese vedlegg 3f se her: [pdf-fil](static/SF/sf-20211223-3910-v3f-01-01.pdf)
 
 > Tilføyd ved forskrift [4 okt 2023 nr. 1580](forskrift/2023-10-04-1580) (i kraft 1 jan 2024).
 
@@ -896,10 +1014,18 @@ For å lese pdf se her: [pdf-fil](static/SF/sf-20211223-3910-v3g-01-01.pdf)
 
 ## Vedlegg 4. Områdebegrensninger
 
+For å lese vedlegg 4 se her: [pdf-fil](static/SF/sf-20211223-3910-v4-01-01.pdf)
+
 ## Vedlegg 5. Linjer innenfor fjordlinjene
+
+For å lese vedlegg 5 se her: [pdf-fil](static/SF/sf-20211223-3910-v5-01-01.pdf)
 
 ## Vedlegg 6. Seksjon med horisontalt skillepanel – artseleksjon torsk – hyse
 
+For å lese vedlegg 6 se her: [pdf-fil](static/SF/sf-20211223-3910-v6-01-01.pdf)
+
 ## Vedlegg 7. Lasteromssertifikat
+
+For å lese vedlegg 7 se her: [pdf-fil](static/SF/sf-20211223-3910-v7-01-01.pdf)
 
 > Tilføyd ved forskrift [9 sep 2022 nr. 1564](forskrift/2022-09-09-1564).

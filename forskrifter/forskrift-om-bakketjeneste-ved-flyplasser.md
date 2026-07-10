@@ -22,6 +22,10 @@ eu_basis: []
 
 # Forskrift om bakketjeneste ved flyplasser (BSL E 4-1)
 
+Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:Vedlegg 1. Signaler fra lufttrafikktjenesten til personer på bakkenVedlegg 2. Flyplasshåndbokens innhold
+
+(Bestemmelser som er merket med (\*) under teksten har veiledende materiale i BSL E del 2.)
+
 ## § 1. Formål
 
 Formålet med denne forskriften er å forebygge og redusere omfanget av luftfartsuhell og anslag mot luftfartens sikkerhet som kan tilbakeføres til virksomheten på flyplassen.
@@ -44,7 +48,7 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 (2) *Instrukser og prosedyrer*Flyplassjefen skal dokumentere, etablere og vedlikeholde slike instrukser og prosedyrer som er nødvendige for å tilfredsstille Luftfartstilsynets krav til flyplassens utforming og bakketjeneste og flyplassoperatørens egne krav. Det skal fremgå av instruksene hvilken myndighet som er delegert til underlagt personell.Flyplassjefen har ansvar for at det føres kontroll med at de lokale instrukser og prosedyrer etterleves.
 
-(3) *Publikasjoner*Flyplassoperatøren skal til enhver tid ha tilgjengelig publikasjoner som er relevant for driften av flyplassen, herunder lover, forskrifter, instrukser, informasjonspublikasjoner, internasjonale konvensjoner og lignende.(*)
+(3) *Publikasjoner*Flyplassoperatøren skal til enhver tid ha tilgjengelig publikasjoner som er relevant for driften av flyplassen, herunder lover, forskrifter, instrukser, informasjonspublikasjoner, internasjonale konvensjoner og lignende.(\*)
 
 (4) *Rapportering**Rapportering av endring ved flyplass:* Dersom det inntreffer endringer ved flyplassens utforming, omgivelser, utstyr eller bakketjeneste, som innebærer en vesentlig endring av grunnlaget for flyplassens godkjenning, skal flyplassjefen omgående rapportere dette til Luftfartstilsynet.*Rapportering av forholdene ved flyplass:* Ved alle forhold av midlertidig eller permanent art som kan påvirke flysikkerheten eller flyplassens bruksområde, skal flyplassjefen umiddelbart informere flyplassens brukere. Flyplassjefen for en stor flyplass skal anmode lufttrafikktjenesten om at det blir sendt ut NOTAM om forholdet.*Flyplassrapport:* Flyplassjefen for en stor flyplass skal hvert år sende en flyplassrapport til Luftfartstilsynet. Rapporten skal omhandle perioden 1. januar til 31. desember, og skal være Luftfartstilsynet i hende innen 1. februar det påfølgende år.
 
@@ -68,11 +72,11 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 (2) *Ferdsel*For å kunne ferdes på flyplassens avsperrede områder kreves spesiell tillatelse fra flyplassjefen eller den flyplassjefen har bemyndiget. Flyplassjefen for en stor flyplass plikter dog å gi eier eller bruker av luftfartøy og medfølgende personer slik tillatelse med mindre sikkerhetshensyn skulle tilsi noe annet.Innenfor flyplassens avsperrede områder gjelder de alminnelige regler for vegtrafikk så langt de ikke er i strid med bestemmelser i denne forskrift.På flyplass med lufttrafikktjeneste skal kjøretøyer eller personer ikke ferdes på manøvreringsområdet uten etter tillatelse fra lufttrafikktjenesten, og de instrukser som gis av lufttrafikktjenesten skal følges. Kjøretøy som skal ha radio i henhold til [§ 6](forskrift/2003-06-27-935/§6) åttende ledd bokstav a skal holde forbindelse med lufttrafikktjenesten.På flyplass der det er regulering av trafikken på oppstillingsplattformene, skal kjøretøyer og personer som ferdes på oppstillingsplattformene, følge de instrukser som gis av den enhet som regulerer trafikken, jf. [§ 6](forskrift/2003-06-27-935/§6) femte ledd.Personer og kjøretøyer på ferdselsområdet skal rette oppmerksomheten mot og gi fri vei for luftfartøy, samt kjenne til og følge de signaler som gis av lufttrafikktjenesten. De fastsatte signaler fremgår av vedlegg 1 til denne forskriften. Dersom redusert sikt gjør at lufttrafikktjenestens signaler ikke kan ses, skal særlig aktsomhet utvises, og rullebaner bare krysses på de steder som er fastsatt i flyplassens ferdselsbestemmelser.Kjøretøy skal før det krysser rullebane stoppe:ved merket venteposisjon, ellernår venteposisjon ikke er merket eller synlig:50 meter fra banekanten når rullebanen er lengre enn 900 m,30 meter fra banekanten når rullebanen er kortere enn 900 m.På flyplass med lufttrafikktjeneste skal kjøretøy ikke fortsette før lufttrafikktjenesten har gitt klarsignal og fører har forvisset seg om at luftfartøy ikke skal starte eller lande. Når det er trafikklys eller vaktpost ved rullebane eller taksebane, kan det fortsettes ved klarsignal.Kjøretøy under utrykning (inspeksjonsbiler, brann- og redningskjøretøyer og ambulanser) kan når det anses strengt nødvendig, fravike disse bestemmelser om ferdsel på flyplasser. Alle som ferdes på en flyplass skal gi fri vei, ved å vike til side og om nødvendig stanse, for utrykningskjøretøyer.Såfremt ikke tjenestemessige grunner gjør det nødvendig, skal personer og kjøretøyer ikke komme nærmere enn 20 m fra propellfly og helikoptre og 50 m fra jetfly.Kjøretøy skal ikke kjøres under vingene på luftfartøy uten at det er nødvendig av tjenestemessige grunner.Kjøretøy har alltid stoppe- og vikeplikt for luftfartøy som er i bevegelse. Kjøretøyet skal stoppe i god avstand fra luftfartøyet og vente til det har passert. Kjøretøy skal ikke kjøre forbi luftfartøy som er i bevegelse, men holde seg i forsvarlig avstand bak dette.Kjøretøy skal ikke bruke fjernlys på en slik måte at det sjenerer luftfartøy. Fjernlys skal ikke benyttes ved kjøring på eller i nærheten av manøvreringsområdet med mindre tillatelse er gitt av lufttrafikktjenesten.Enhver som ferdes på en flyplass plikter å fjerne gjenstander som åpenbart utgjør et hinder eller en fare for luftfartøy. Dersom dette ikke er mulig skal vedkommende varsle lufttrafikktjenesten eller annet flyplasspersonell.
 
-(3) *Tiltak mot brann*Røyking og all bruk av ild er forbudt på oppstillingsplattform og i hangarer, samt innenfor en avstand av 20 m fra luftfartøy, tankingsanlegg og hangarer. Røykeforbudet gjelder også inne i kjøretøyer som befinner seg innenfor ovenfor angitte områder.(*)Under klargjøring av et luftfartøy, herunder tanking og start av motorer, skal det i nærheten av luftfartøyet være slokkeutstyr lett tilgjengelig og synlig. På store flyplasser skal det være personell som er trenet i bruk av dette slokkeutstyret. Slokkeutstyret skal minst ha kapasitet til innledende slokking av en drivstoffbrann, og skal ses i sammenheng med brann- og redningstjenestens innsatstid. På store flyplasser skal det også være anordning for rask alarmering av brann- og redningstjenesten i nærheten av luftfartøyet.
+(3) *Tiltak mot brann*Røyking og all bruk av ild er forbudt på oppstillingsplattform og i hangarer, samt innenfor en avstand av 20 m fra luftfartøy, tankingsanlegg og hangarer. Røykeforbudet gjelder også inne i kjøretøyer som befinner seg innenfor ovenfor angitte områder.(\*)Under klargjøring av et luftfartøy, herunder tanking og start av motorer, skal det i nærheten av luftfartøyet være slokkeutstyr lett tilgjengelig og synlig. På store flyplasser skal det være personell som er trenet i bruk av dette slokkeutstyret. Slokkeutstyret skal minst ha kapasitet til innledende slokking av en drivstoffbrann, og skal ses i sammenheng med brann- og redningstjenestens innsatstid. På store flyplasser skal det også være anordning for rask alarmering av brann- og redningstjenesten i nærheten av luftfartøyet.
 
-(4) *Oppstilling og klargjøring av luftfartøy*Flyplassjefen er ansvarlig for at det i samråd med flyplassens brukere og lufttrafikktjenesten, der slik tjeneste finnes, utarbeides en plan for oppstilling av de luftfartøy som trafikkerer flyplassen.Fartøysjef skal følge pålegg og anvisninger fra flyplassjefen eller den flyplassjefen har bemyndiget, om taksing på oppstillingsplattformen og oppstilling av luftfartøy.Eier av luftfartøy skal følge pålegg og anvisninger fra flyplassjefen eller den flyplassjefen har bemyndiget om fjerning av hensatt luftfartøy eller deler av luftfartøy. Dersom ikke eier av luftfartøy etterkommer anvisninger fra flyplassjefen, kan denne eller annen bemyndiget besørge fjerning for eierens regning.Eier eller bruker av luftfartøy er ansvarlig for at passasjerer og andre medfølgende personer ledes forsvarlig til og fra luftfartøyet.Bruker av materiell som trapper, traktorer, bagasjevogner, bremseklosser og lignende er ansvarlig for at dette plasseres på dertil egnede eller anviste steder etter bruk. Dersom det pågår tanking av luftfartøy mens passasjerer går om bord, er om bord eller forlater luftfartøyet, skal materiellet plasseres slik at det ikke er til hinder for evakuering av luftfartøyet gjennom de aktuelle utgangene og langs evakueringsveiene.Bruker av luftfartøy skal forsikre seg om at avising eller annen bruk av væsker ikke medfører fare for ferdselen omkring luftfartøyet. Eventuell sandstrøing eller annen preparering skal skje i samråd med flyplassjefen.(*)
+(4) *Oppstilling og klargjøring av luftfartøy*Flyplassjefen er ansvarlig for at det i samråd med flyplassens brukere og lufttrafikktjenesten, der slik tjeneste finnes, utarbeides en plan for oppstilling av de luftfartøy som trafikkerer flyplassen.Fartøysjef skal følge pålegg og anvisninger fra flyplassjefen eller den flyplassjefen har bemyndiget, om taksing på oppstillingsplattformen og oppstilling av luftfartøy.Eier av luftfartøy skal følge pålegg og anvisninger fra flyplassjefen eller den flyplassjefen har bemyndiget om fjerning av hensatt luftfartøy eller deler av luftfartøy. Dersom ikke eier av luftfartøy etterkommer anvisninger fra flyplassjefen, kan denne eller annen bemyndiget besørge fjerning for eierens regning.Eier eller bruker av luftfartøy er ansvarlig for at passasjerer og andre medfølgende personer ledes forsvarlig til og fra luftfartøyet.Bruker av materiell som trapper, traktorer, bagasjevogner, bremseklosser og lignende er ansvarlig for at dette plasseres på dertil egnede eller anviste steder etter bruk. Dersom det pågår tanking av luftfartøy mens passasjerer går om bord, er om bord eller forlater luftfartøyet, skal materiellet plasseres slik at det ikke er til hinder for evakuering av luftfartøyet gjennom de aktuelle utgangene og langs evakueringsveiene.Bruker av luftfartøy skal forsikre seg om at avising eller annen bruk av væsker ikke medfører fare for ferdselen omkring luftfartøyet. Eventuell sandstrøing eller annen preparering skal skje i samråd med flyplassjefen.(\*)
 
-(5) *Regulering av trafikken på oppstillingsplattformene*Flyplassjefen på store flyplasser er ansvarlig for at trafikken på oppstillingsplattformene blir regulert dersom det er nødvendig av hensyn til trafikkavviklingen. Eventuell regulering skal utføres av lufttrafikktjenesten eller annen enhet som bestemt av flyplassoperatøren, eller kombinasjoner av disse. Formålet med reguleringen skal være å:forebygge konflikt mellom luftfartøyer og mellom luftfartøyer, kjøretøyer og personer, og åkoordinere taksing til og fra oppstillingsplattformene med lufttrafikktjenesten.Den enhet som regulerer trafikken på oppstillingsplattformen skal ha radio for toveis forbindelse med luftfartøyer og kjøretøyer.Dersom det skal utføres innvinking av luftfartøy, skal signalisten bruke de signaler som er angitt i [forskrift 23. september 2014 nr. 1242](forskrift/2014-09-23-1242) om lufttrafikkregler og operative prosedyrer og forordning [(EU) nr. 923/2012](eu/32012r0923) SERA appendiks 1.Om nødvendig skal signalisten bruke hjelpemidler, så som racketformede staver eller lysende staver, for at signalene skal bli tilstrekkelig synlige for fartøysjefen.Signalisten skal være vendt mot luftfartøyet og plassert der hvor signalisten best kan ses fra førerrommet. For fly vil dette normalt være foran venstre vinge.Før innvinking av luftfartøy skal signalisten forvisse seg om at området der luftfartøyet skal rangeres er fritt for gjenstander som kan være til hinder for luftfartøyet, og signalisten skal sikre at foreskrevne minsteavstander til andre luftfartøy og/eller bygninger og lignende blir overholdt.(*)
+(5) *Regulering av trafikken på oppstillingsplattformene*Flyplassjefen på store flyplasser er ansvarlig for at trafikken på oppstillingsplattformene blir regulert dersom det er nødvendig av hensyn til trafikkavviklingen. Eventuell regulering skal utføres av lufttrafikktjenesten eller annen enhet som bestemt av flyplassoperatøren, eller kombinasjoner av disse. Formålet med reguleringen skal være å:forebygge konflikt mellom luftfartøyer og mellom luftfartøyer, kjøretøyer og personer, og åkoordinere taksing til og fra oppstillingsplattformene med lufttrafikktjenesten.Den enhet som regulerer trafikken på oppstillingsplattformen skal ha radio for toveis forbindelse med luftfartøyer og kjøretøyer.Dersom det skal utføres innvinking av luftfartøy, skal signalisten bruke de signaler som er angitt i [forskrift 23. september 2014 nr. 1242](forskrift/2014-09-23-1242) om lufttrafikkregler og operative prosedyrer og forordning [(EU) nr. 923/2012](eu/32012r0923) SERA appendiks 1.Om nødvendig skal signalisten bruke hjelpemidler, så som racketformede staver eller lysende staver, for at signalene skal bli tilstrekkelig synlige for fartøysjefen.Signalisten skal være vendt mot luftfartøyet og plassert der hvor signalisten best kan ses fra førerrommet. For fly vil dette normalt være foran venstre vinge.Før innvinking av luftfartøy skal signalisten forvisse seg om at området der luftfartøyet skal rangeres er fritt for gjenstander som kan være til hinder for luftfartøyet, og signalisten skal sikre at foreskrevne minsteavstander til andre luftfartøy og/eller bygninger og lignende blir overholdt.(\*)
 
 (6) *Lavsiktsprosedyrer*Flyplassjefen på en stor flyplass er ansvarlig for at det i samarbeid med lufttrafikktjenesten etableres lavsiktsprosedyrer dersom det forekommer start, landing eller taksing under forhold der rullebanesikten er under 550 m. Lavsiktsprosedyrer skal være i samsvar med ICAO Eur. Doc 013 og skal være godkjent av Luftfartstilsynet.Flyplassjefen eller den flyplassjefen har bemyndiget skal informere berørte luftfartøyer om når lavsiktsprosedyrer er i kraft, og skal sørge for at bevegelser og ferdsel på ferdselsområdet begrenses til et minimum i dette tidsrommet.
 
@@ -80,7 +84,7 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 (8) *Krav til kjøretøy på flyplass*Kjøretøy som brukes på manøvreringsområdet til flyplass med lufttrafikktjeneste, skal ha radio for toveis forbindelse med lufttrafikktjenesten dersom ikke annet er avtalt med denne.Kjøretøy som brukes på manøvreringsområdet skal ha batteridrevet lykt eller annen lysanordning til bruk dersom kjøretøyets lysanlegg skulle svikte.
 
-(9) *Rapportering**Rapportering av endringer ved flyplass*Dersom det inntreffer endringer av flyplassens utforming, omgivelser, utstyr eller bakketjeneste, som innebærer en vesentlig endring av grunnlaget for flyplassens godkjenning, skal flyplassjefen omgående rapportere dette til Luftfartstilsynet.(*)*Rapportering av forholdene ved flyplass*Ved alle forhold av midlertidig eller permanent art som kan påvirke flysikkerheten eller flyplassens anvendelsesområde, skal flyplassjefen umiddelbart informere flyplassens brukere. Flyplassjefen for en stor flyplass skal anmode lufttrafikktjenesten om at det blir sendt ut NOTAM om forholdet.*Flyplassrapport*Flyplassjefen for en stor flyplass er ansvarlig for at det hvert år sendes en flyplassrapport til Luftfartstilsynet. Rapporten skal omhandle perioden 1. januar til 31. desember, og skal være Luftfartstilsynet i hende innen 1. februar det påfølgende år.Flyplassrapporten skal føres på blankett fastsatt av Luftfartstilsynet, og inneholde det som fremgår av blanketten.
+(9) *Rapportering**Rapportering av endringer ved flyplass*Dersom det inntreffer endringer av flyplassens utforming, omgivelser, utstyr eller bakketjeneste, som innebærer en vesentlig endring av grunnlaget for flyplassens godkjenning, skal flyplassjefen omgående rapportere dette til Luftfartstilsynet.(\*)*Rapportering av forholdene ved flyplass*Ved alle forhold av midlertidig eller permanent art som kan påvirke flysikkerheten eller flyplassens anvendelsesområde, skal flyplassjefen umiddelbart informere flyplassens brukere. Flyplassjefen for en stor flyplass skal anmode lufttrafikktjenesten om at det blir sendt ut NOTAM om forholdet.*Flyplassrapport*Flyplassjefen for en stor flyplass er ansvarlig for at det hvert år sendes en flyplassrapport til Luftfartstilsynet. Rapporten skal omhandle perioden 1. januar til 31. desember, og skal være Luftfartstilsynet i hende innen 1. februar det påfølgende år.Flyplassrapporten skal føres på blankett fastsatt av Luftfartstilsynet, og inneholde det som fremgår av blanketten.
 
 (10) *Stenging*Flyplassjefen er ansvarlig for at hele eller deler av flyplassen stenges for trafikk under forhold som medfører risiko for lufttrafikken. Melding om stengingen skal gis i samsvar med [§ 4](forskrift/2003-06-27-935/§4) fjerde ledd bokstav b, og eventuelle signaler om stengingen skal legges ut i samsvar med bestemmelsene i BSL E 4-2.
 
@@ -118,7 +122,7 @@ Formålet med denne forskriften er å forebygge og redusere omfanget av luftfart
 
 (1) *Innsamling av data*Flyplassjefen for en stor flyplass er ansvarlig for at det samles inn og utarbeides oversikt over data om fugler og dyr på og omkring flyplassen, herunder tilfeller av konflikt mellom luftfartøy og fugler og dyr.Flyplassjefen for en stor flyplass skal oversende data om fugler, rester av fugler og annen informasjon til den instans og i det omfang som Luftfartstilsynet bestemmer.
 
-(2) *Tiltak*På flyplasser der det kan forekomme konflikt mellom luftfartøy og fugler, skal flyplassjefen gjennomføre tiltak for å redusere omfanget av fugler på selve flyplassen og i inn- og utflygingsområdene. Flyplassjefen skal om nødvendig også gjennomføre konkrete tiltak for å unngå konflikt mellom luftfartøy og fugler.På flyplasser der det kan forekomme at dyr tar seg inn på flyplassens avsperrede område, skal flyplassjefen gjennomføre konkrete tiltak for å unngå konflikt mellom luftfartøy og dyr.Der det er lufttrafikktjeneste, skal flyplassjefen gjennomføre tiltakene mot fugler og dyr i samarbeide med lufttrafikktjenesten, og flyplassjefen skal holde lufttrafikktjenesten underrettet om alle forekomster av fugler og dyr som kan ha betydning for lufttrafikken.(*)
+(2) *Tiltak*På flyplasser der det kan forekomme konflikt mellom luftfartøy og fugler, skal flyplassjefen gjennomføre tiltak for å redusere omfanget av fugler på selve flyplassen og i inn- og utflygingsområdene. Flyplassjefen skal om nødvendig også gjennomføre konkrete tiltak for å unngå konflikt mellom luftfartøy og fugler.På flyplasser der det kan forekomme at dyr tar seg inn på flyplassens avsperrede område, skal flyplassjefen gjennomføre konkrete tiltak for å unngå konflikt mellom luftfartøy og dyr.Der det er lufttrafikktjeneste, skal flyplassjefen gjennomføre tiltakene mot fugler og dyr i samarbeide med lufttrafikktjenesten, og flyplassjefen skal holde lufttrafikktjenesten underrettet om alle forekomster av fugler og dyr som kan ha betydning for lufttrafikken.(\*)
 
 ## § 11. Dispensasjon
 
@@ -134,49 +138,114 @@ Dispensasjon kan bare gis dersom den samlede bakketjeneste gjennomføres slik at
 
 ## Vedlegg 1 (jf. § 6 andre ledd bokstav d)
 
+*Signaler fra lufttrafikktjenesten til personer på bakken*
+
+|  |  |
+| --- | --- |
+| *Signal* | *Betydning* |
+| *Med signallampe:* |  |
+| Fast rødt lys | Stopp. |
+| Blinkende rødt lys | Fjern Dem straks minst 50 m fra rullebanen eller taksebanen og se opp for luftfartøyer. |
+| Blinkende grønt lys | Tillatt å krysse rullebanen eller ferdes på taksebanen. |
+| Blinkende hvitt lys | Forlat manøvreringsområdet og ta kontakt med kontrolltårnet/AFIS-enheten. |
+|  |  |
+| *Med lysanlegget:* |  |
+| Blinkende rullebane- eller taksebanelys | Forlat rullebanen eller taksebanen og se mot kontrolltårnet/AFIS-enheten for lyssignaler. |
+| Påsatt eller blinkende innflygingslys | Forlat innflygingssektoren øyeblikkelig. |
+
 > Tilføyd ved [forskrift 16 des 2008 nr. 1468](forskrift/2008-12-16-1468) (i kraft 1 juli 2009).
 
 ## Vedlegg 2 (jf. § 5 fjerde ledd)
 
+*Flyplasshåndbokens innhold*
+
+1.*Generelt*
+
+1.1*Hensikt og målsetting*
+
 Flyplassoperatørens hensikt og målsetting med flyplasshåndboken.
+
+1.2*System for dokumentstyring*
 
 Innholdsfortegnelse.
 
 Dokumentstyringssystem ifølge BSL E 4-1 [§ 5](forskrift/2003-06-27-935/§5) (4) b.
 
+1.3*Ansvarsforhold*
+
 Ansvarsforhold vedrørende flyplasshåndboken. Delegering av myndighet til å utarbeide og fastsette håndboken eller deler av håndboken.
+
+2.*Konsesjon og godkjenning*
+
+2.1*Konsesjon*
 
 Gjeldende konsesjon og konsesjonsvilkår, jf. BSL E 1-1.
 
+2.2*Godkjenning*
+
 Gjeldende godkjenning og godkjenningsvilkår, jf. BSL E 1-2.
+
+3.*Flyplassdata*
 
 De data som skal dokumenteres ifølgeBSL E 3-2 § 16-1 for store flyplasser,BSL E 3-3 § 13 for små flyplasser,BSL E 3-4 [§ 12](forskrift/2003-06-27-935/§12) for sjøflyplasser,BSL E 3-5 § 57 for store helikopterplasser,BSL E 3-6 § 26 for små helikopterplasser.
 
+4.*Operasjon og vedlikehold*
+
+4.1*Bakketjeneste*
+
 Instrukser, prosedyrer og annen dokumentasjon ifølge BSL E 4-1 [§ 6](forskrift/2003-06-27-935/§6), [§ 7](forskrift/2003-06-27-935/§7), [§ 8](forskrift/2003-06-27-935/§8), [§ 9](forskrift/2003-06-27-935/§9) og [§ 10](forskrift/2003-06-27-935/§10).
+
+4.2*Plasstjeneste*
 
 Instrukser, prosedyrer og annen dokumentasjon ifølge BSL E 4-2 [§ 5](forskrift/2003-06-27-935/§5).
 
+4.3*Elektrotjeneste*
+
 Instrukser, prosedyrer og annen dokumentasjon ifølge BSL E 4-3 [§ 5](forskrift/2003-06-27-935/§5).
+
+4.4*Brann- og redningstjeneste*
 
 Instrukser, prosedyrer og annen dokumentasjon ifølge BSL E 4-4 [§ 5](forskrift/2003-06-27-935/§5).
 
 Flyplassens havariplan.
 
+4.5*Security*
+
 Gjeldende sikkerhetsgodkjennelse og sikkerhetsprogram med tilhørende opplæringsprogram, jf. BSL SEC 1-1 [§ 6](forskrift/2003-06-27-935/§6).
+
+4.6*Flynavigasjonsutstyr*
 
 Gjeldende godkjenninger ifølge BSL G 6-1 [§ 9](forskrift/2003-06-27-935/§9) avkommunikasjonsutstyr,navigasjonsutstyr,overvåkingsutstyr,meteorologisk utstyr.
 
+4.7*Flynavigasjonstjeneste*
+
 Gjeldende avtale med sertifisert leverandør av flynavigasjonstjeneste, jf. BSL G 2-2 og flyplassens godkjenningsvilkår.
+
+4.8*Lufttrafikktjeneste*
 
 Gjeldende avtale med sertifisert og godkjent leverandør av lufttrafikktjeneste, jf. BSL G 2-1 [§ 4](forskrift/2003-06-27-935/§4) (1) og (2) og BSL G 2-2, og flyplassens godkjenningsvilkår.
 
+4.9*Beredskapsplaner*
+
+5.*Ledelse og styringssystem*
+
 Nedenstående dokumentasjon i den grad det følger av forskrift, godkjenningsvilkår eller flyplassoperatørens egne krav.
+
+5.1*Ledelse*
+
+5.1.1
 
 Dokumentasjon av flyplassens ledelse (stillingsbetegnelse, navn, telefonnummer etc.):Ansvarlig leder, jf. BSL A 1-1 [§ 3](forskrift/2003-06-27-935/§3).1 (b)Kvalitetssjef/utøver av sikkerhetsstyringsfunksjonen, jf. BSL A 1-1 [§ 4](forskrift/2003-06-27-935/§4).2, BSL A 1-9 [§ 6](forskrift/2003-06-27-935/§6) (2)Flyplassjef og stedfortreder, jf. BSL E 4-1 [§ 4](forskrift/2003-06-27-935/§4) (1)Leder for plasstjenesten, jf. BSL E 4-2 [§ 4](forskrift/2003-06-27-935/§4) (2)Leder for elektrotjenesten, jf. BSL E 4-3 [§ 4](forskrift/2003-06-27-935/§4) (2)Leder for brann- og redningstjenesten, jf. BSL E 4-4 [§ 4](forskrift/2003-06-27-935/§4) (2).
 
+5.1.2
+
 Gjeldende godkjenning av flyplassjefen, jf. BSL E 4-1 [§ 4](forskrift/2003-06-27-935/§4) (1) c.
 
+5.1.3
+
 Stillingsinstrukser
+
+5.2*Styringssystem*
 
 Dokumentasjon av kvalitetssystem og system for sikkerhetsstyring i samsvar med BSL A 1-1, A 1-9, E 4-1 [§ 5](forskrift/2003-06-27-935/§5) og flyplassens godkjenningsvilkår, dog ikke den dokumentasjon som er angitt i del 4 ovenfor. Spesielt skal det være dokumentasjon avkvalitetspolitikk og sikkerhetsmålsetting,risikoovervåking og risikoanalyse,interne og eksterne revisjoner,forbedringer av systemet, herunder ledelsens gjennomgåelse.
 
@@ -184,17 +253,35 @@ Dokumentasjon av kvalitetssystem og system for sikkerhetsstyring i samsvar med B
 
 ## Veiledende materiale til forskrift 27. juni 2003 nr. 935 om bakketjeneste ved flyplasser (BSL E 4-1)
 
+*Merknader til enkelte bestemmelser:*
+
 ### Til § 4 (3):
 
 Aktuelle publikasjoner kan være:*Bestemmelser for sivil luftfart* (BSL).De bestemmelser som inneholder relevante krav for flyplassoperatøren, herunder BSL A, D og E.*Aeronautical Information Circular* (AIC Norge)Serie N.*Informasjonspublikasjon.*Den publikasjon eller det dokument flyplassjefen benytter for å gjøre foreskrevne flyplassdata kjent for flyplassens brukere. For en stor flyplass vil dette si *Aeronautical Information Publication* (AIP Norge).
 
 For store flyplasser, jf. [forskrift 6. juli 2006 nr. 968](forskrift/2006-07-06-968) om utforming av store flyplasser (BSL E 3-2), er i tillegg følgende publikasjoner aktuelle:*Bestemmelser for sivil luftfart* (BSL).Øvrige relevante bestemmelser for operatør av en stor flyplass, herunder BSL A, F og G.*Aeronautical Information Publication* (AIP Norge) Komplett.*Aeronautical Information Circular* (AIC Norge)Serie A, B og I.*Notice to Airmen* (NOTAM Norge).
 
+*Til [§ 5](forskrift/2003-06-27-935/§5) (4):* Fjerde ledd pålegger store flyplassoperatører å ha et dokument i sitt styringssystem som kalles flyplasshåndbok. Flyplassoperatørene kan imidlertid velge om aktuelle dokumenter skal tas inn i håndboken, eller om det bare skal refereres til hvor dokumentene finnes. Små flyplassoperatører som allerede har en driftshåndbok, vil måtte omredigere håndboken slik at den samsvarer med vedlegg 2.
+
 Formålet med håndbokens innholdsfortegnelse og system er å vise at hvert enkelt dokument er komplett. Dokumentstyringssystemet som er omtalt i bokstav b, bør – dersom håndboken er på papir – ha en liste over gyldige sider, og hver side bør være nummerert og påført gyldighetsdato og godkjenningssignatur. For elektronisk håndbok bør endringer bare kunne utføres av den eller de som har dokumentert bemyndigelse.
 
 ### Til § 6:
 
+*Til [§ 6](forskrift/2003-06-27-935/§6) (2):* Bokstav b innebærer bl.a. at:
+
 Fører av kjøretøy skal avpasse hastigheten i henhold til bestemmelsene gitt i eller i medhold av vegtrafikkloven. Kjøretøy skal bare føres av den som har gyldig førerkort for angjeldende kjøretøy. Vegtrafikkmyndigheten kan gi unntak fra krav om førerkort for kjøring innenfor flyplassens avsperrede områder.
+
+*Til [§ 6](forskrift/2003-06-27-935/§6) (3) a):* Forskrift om tanking av luftfartøy, herunder om begrensning av ferdselen rundt tankingskjøretøy og tankingsanlegg, er inntatt i BSL D 1-10.
+
+*Til [§ 6](forskrift/2003-06-27-935/§6) (4) f):* Denne bestemmelse er ikke til hinder for å sandstrø et mindre område, for eksempel for å hindre at et hjul glir.
+
+*Til § 6 (5) c):* Bestemmelser om minsteavstander er gitt i forskrift om utforming av store flyplasser (BSL E 3-2).
+
+*Til [§ 6](forskrift/2003-06-27-935/§6) (8):* Dette innebærer, sammen med andre ledd, at kjøretøyer som skal brukes på en flyplass skal være bygget, utstyrt og vedlikeholdt i henhold til de alminnelige bestemmelser for veitrafikk, herunder kjøretøyforskriftene.
+
+*Til [§ 6](forskrift/2003-06-27-935/§6) (9) a):* Flyplassjefen bør, for å kunne ivareta sine forpliktelser i henhold til denne bestemmelsen, opprettholde så nær kontakt med offentlige myndigheter og berørte grunneiere som mulig.
+
+*Til [§ 6](forskrift/2003-06-27-935/§6) (12):* En plan for fjerning av havarerte luftfartøy bør ta utgangspunkt i de typer luftfartøy som kan forventes å bruke flyplassen og bl.a. inneholde følgende:
 
 - En liste over personell på og i nærheten av flyplassen som er tilgjengelig for formålet.
 - Oversikt over utstyr som kan brukes til formålet.
@@ -205,6 +292,12 @@ Avhengig av lokale forhold bør planen også omfatte fjerning av «annet» som k
 
 ### Til § 10:
 
+*Til § 10 (2):* Krav til inngjerding med mer er gitt i forskrift om utforming av store flyplasser (BSL E 3-2).
+
+*Til [§ 10](forskrift/2003-06-27-935/§10) (2) a):* Veiledning om tiltak mot fugler finnes i Avinors håndbøker.
+
 Aktuelle tiltak for å redusere omfanget av fugl er å unngå søppelplasser og noen typer av jordbruksaktivitet på og i nærheten av flyplassen.
+
+*Til [§ 10](forskrift/2003-06-27-935/§10) (2) b):* I tillegg til inngjerding, kan patruljering og vakthold motvirke konflikt mellom luftfartøy og dyr.
 
 > Tilføyd ved [forskrift 16 des 2008 nr. 1468](forskrift/2008-12-16-1468) (i kraft 1 juli 2009).

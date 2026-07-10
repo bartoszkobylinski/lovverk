@@ -38,6 +38,8 @@ eu_basis: []
 
 > Endret ved [forskrift 29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007).
 
+1 Jf. [forskrift 27. april 1999 nr. 537](forskrift/1999-04-27-537) om vakthold på passasjer- og lasteskip.
+
 ### § 2. Definisjoner
 
 I denne forskriften betyr:*Andre skip:* Alle skip unntatt passasjerskip.*Anerkjente klasseinstitusjoner:*Det norske Veritas.Lloyd's Register of Shipping.Bureau Veritas.Germanischer Lloyd.American Bureau of Shipping.*Bruttotonnasje:* Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.*Godkjent:* Godkjent av Sjøfartsdirektoratet.*Klassifisert skip:* Skip som har klasse i anerkjent klasseinstitusjon.*Passasjerskip:* Et skip som kan føre mer enn 12 passasjerer eller som skal ha offentlig tillatelse til å føre passasjerer.*Vaktholdforskriften:* Den til enhver tid gjeldende forskrift om vakthold på passasjer- og lasteskip.*Vaktordning:* En arbeidsordning hvoretter arbeidstiden for skipets besetning helt eller delvis er delt opp i vakter og hvor hele besetningen normalt skal være om bord.
@@ -96,9 +98,13 @@ Maskinrommet skal normalt være kontinuerlig bemannet.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
+1 I samsvar med IMO Assembly Resolusjon A.481 (XII), vedlegg 2, del 7 «Engineering Watchkeeping», punkt 7.3.2 I samsvar med IMO Assembly Resolusjon A.686 (17), del 7.1. «Personnel Alarm».3 En alarm som betjenes fra maskinkontrollrommet eller manøvreringsplattform, dersom dette passer best, for å varsle personell i maskinistenes innredning om at hjelp trengs i maskinrommet, Jf. IMO Assembly Resolusjon A.686 (17) punkt 2.3.5.
+
 ### § 11. Selvstyreranlegg
 
 Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan praktiseres, må følgende krav være oppfylt:1*Generelt*Innenfor grensene for et skips manøvreringsevne skal selvstyreren, sammen med kilden til kursinformasjon, være i stand til å holde et skip på en forhånds satt kurs med minimal bruk av skipets styreanlegg.Selvstyreranlegget skal tilpasse seg skipets forskjellige styreegenskaper under ulike vær- og lasteforhold, og sikre pålitelig drift under de rådende miljø- og normale driftsforhold.*Skifte fra selvstyring til manuell styring og omvendt*Skifte fra selvstyring til manuell styring og omvendt skal være mulig ved enhver rorposisjon og kunne utføres i en eller høyst to manuelle operasjoner, innenfor et tidsrom på 3 sekunder.Skifte fra selvstyrer til manuell styring skal være mulig under alle forhold, innbefattet enhver svikt i det automatiske kontrollsystemet.Ved skifte fra manuell styring til selvstyring skal selvstyreren kunne bringe fartøyet inn på den forhåndssatte kursen.Kontrollinstrumentene for skifte skal være plassert like ved hverandre i umiddelbar nærhet av hovedplass for styring.Det skal finnes tydelig indikasjon på hvilken styringsmetode som er i bruk til enhver tid.*Alarm- og signalanlegg*Det skal finnes en kursmonitor som aktiverer et «ute av kurs» lydsignal etter et kursavvik på forhåndsinnstilt størrelse.Informasjonen som trengs for å sette i gang kursmonitoren skal komme fra en uavhengig kilde.Alarmsignaler, med både lyd og lys, skal finnes for å varsle om svikt eller reduksjon i krafttilførslen til selvstyrer eller monitor, når dette har innvirkning på en sikker drift av utstyret.Alarmsignalenes plassering skal være nær tilknyttet til hovedplass for styring.*Kontrollinstrumenter*Antall kontrollinstrumenter skal være så lavt som mulig og de skal være utformet på en måte som utelukker utilsiktet bruk.Med mindre muligheter for automatisk regulering er innebygget i installasjonen, skal selvstyreren være utstyrt med kontrollorganer for å justere for virkninger av vær og skipets bevegelser.Selvstyreren skal være utformet slik at den sikrer kursforandring til styrbord ved å dreie bryteren for kurssetting i urviserens retning. Normale kursforandringer bør være mulig ved å foreta bare en innstilling av bryteren for kurssetting.Med unntak av bryteren for kurssetting, skal aktivering av noe annet instrument ikke virke inn på skipets kurs i noen særlig grad.Øvrige kontrollinstrumenter for følgersystem skal rette seg etter de samme bestemmelsene i denne paragraf.*Rorvinkelbegrensning*I utstyret skal det være innebygget mulighet til å oppnå rorvinkelbegrensning under automatisk drift. Det skal også finnes mulighet til å indikere når begrensningsvinkelen er nådd.*Tillatt giring*Det skal være innebygget mulighet til å hindre unødvendig aktivering av roret på grunn av normal giringsbevegelse.
+
+1 I samsvar med IMO Assembly Resolusjon A.342 (IX). «Recommendation on Performance Standard for Automatic Pilots», [punkt](forskrift/1992-09-15-704/kap1) 1 til 6, og IMO Assembly Resolusjon A.574 (14). «Recommendation on General Requirements for Electronic Navigational Aids».
 
 ### § 12. Intern kommunikasjon
 
@@ -109,6 +115,8 @@ Før brovaktfunksjoner med vaktrutiner som krever bruk av selvstyring kan prakti
 (3) Alle skip som praktiserer arbeidsordning der hele besetningen er i tjeneste samtidig, skal være utstyrt med internt kommunikasjonsutstyr som gjør det mulig for vakthavende offiser å tilkalle assistanse til broen ved behov.
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 IMO Assembly Resolusjon A.481 (XII), vedlegg 2, del 2. «Bridge Watchkeeping», punkt 2.2 og 2.3.
 
 ## Kapittel 5. Avsluttende bestemmelser
 

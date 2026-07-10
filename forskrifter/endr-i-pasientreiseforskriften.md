@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 25. juni 2015 nr. 793 om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)](forskrift/2015-06-25-793) gjøres følgende endring:
+
+[§ 12 andre ledd](forskrift/2015-06-25-793/§12/ledd/2) skal lyde:
+
 En pasient som har rett til reisestønad, har også rett til overnattingsgodtgjørelse for nødvendig overnatting under reisen på inntil kr 734 per døgn og full godtgjørelse for eventuell overnattingsavgift etter [lov om besøksbidrag § 2-1](lov/2025-06-20-104/§2-1).
 
 ## II

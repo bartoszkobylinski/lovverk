@@ -75,3 +75,5 @@ Departementet kan i forskrift fastsette regler for administrasjon av ordningen o
 ## § 8. Ikrafttredelse
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 12 feb 2010 iflg. [res. 12 feb 2010 nr. 157](forskrift/2010-02-12-157).

@@ -148,8 +148,12 @@ Ved forskriftens ikrafttredelse oppheves[forskrift 11. november 1991 nr. 731](fo
 
 > SOLAS 74 kapittel IV tilføyd ved [forskrift 15 sep 2014 nr. 1215](forskrift/2014-09-15-1215), endret 9 feb 2023 uten kunngjøring i Norsk Lovtidend, endret ved forskrift [18 des 2023 nr. 2173](forskrift/2023-12-18-2173) (i kraft 1 jan 2024, se endringsforskriften for informasjon).
 
+Nedenfor gjengis Den internasjonale [konvensjon om sikkerhet for menneskeliv til sjøs](traktat/1974-11-01-1), 1974 (SOLAS) kapittel IV om radiokommunikasjon, slik Sjøfartsdirektoratet tolker denne delen av konvensjonen tatt inn i konsolidert utgave 2020 med endringer til og med IMO-resolusjon MSC.496(105).
+
 ### 1KAPITTEL IV
 RADIOKOMMUNIKASJON
+
+1 Teksten i kapittel IV er erstattet ved resolusjon MSC.496(105).
 
 ### Del A
 Generelle bestemmelser
@@ -162,11 +166,19 @@ Generelle bestemmelser
 
 3 Ingen bestemmelse i dette kapittelet skal være til hinder for at et skip, en redningsfarkost eller en person i nød kan bruke ethvert middel de har tilgjengelig, for å tiltrekke seg oppmerksomhet, gjøre sin posisjon kjent og få hjelp.
 
+2 Slike skip er underlagt spesielle sikkerhetskrav ved bruk av radio, som fastsatt i den aktuelle avtalen mellom Canada og USA.
+
 ### Regel 2 Uttrykk og definisjoner
 
 1 I dette kapittelet gjelder følgende definisjoner:*«AIS-SART»* betyr en AIS-sender til søk og redning som kan operere på frekvenser som er forbeholdt AIS (161,975 MHz (AIS1) og 162,025 MHz (AIS2)).*«Bro-til-bro-kommunikasjon»* betyr sikkerhetskommunikasjon over radio mellom skip fra stedet der skipene vanligvis navigeres fra.*«Kontinuerlig radiovakt»* betyr at den aktuelle radiovakten ikke skal avbrytes annet enn i korte perioder når skipets mottakskapasitet er svekket eller blokkert av egen kommunikasjon, eller når det utføres periodisk vedlikehold eller kontroll av anlegget.*«DSC» (Digital Selective Calling)* betyr en teknikk som bruker digitale koder som gjør det mulig for en radiostasjon å opprette kontakt med og sende informasjon til en annen stasjon eller en gruppe stasjoner, og som følger de aktuelle anbefalingene fra den internasjonale teleunionens radiokommunikasjonssektor (ITU-R).*«Nødpeilesender» (EPIRB)* betyr en sender som opererer på frekvensbåndet 406,0–406,1 MHz, og som kan sende en nødmelding via satellitt til en redningssentral og sende signaler for «på stedet»-kommunikasjon.*«Alminnelig radiokommunikasjon»* betyr annen kommunikasjon enn nød-, haste- og sikkerhetskommunikasjon.*«GMDSS» (Global Maritime Distress and Safety System)* betyr et verdensomspennende nød- og sikkerhetssystem til sjøs som utfører funksjonene oppført i regel 4.1.1.*«GMDSS-identiteter» (Global Maritime Distress and Safety System Identities)* betyr informasjon som kan sendes for ulik identifisering av skipet eller skipets mann-over-bord-båter og redningsfarkoster. Disse identitetene er skipets kjenningssignal, MMSI-nummer, heksadesimal EPIRB-identitet, godkjente MSS-identiteter og serienummer på utstyr.*«Lokalisering»* betyr å finne skip, luftfartøy, redningsfarkoster eller personer i nød.*«MSI» (maritim sikkerhetsinformasjon)*3 betyr navigasjonsvarsler og meteorologiske varsler, værmeldinger og andre sikkerhetsrelaterte meldinger som kringkastes til skip.*«Radar-SART»* betyr en søk- og redningstransponder som opererer på radarfrekvenser i frekvensbåndet 9,2-9,5 GHz.*«Radioreglementet»* betyr det radioreglementet som supplerer den til enhver tid gjeldende konstitusjonen og konvensjonen til den internasjonale teleunionen (ITU).*«Godkjent MS*S»*(Mobile Satellite Service)* betyr alle tjenester som drives via et satellittsystem og er godkjent av organisasjonen til bruk i GMDSS-systemet.*«Satellittjeneste på 406 MHz»* betyr en tjeneste som drives via et satellittsystem som er tilgjengelig over hele verden, og som er utviklet for å oppdage nødpeilesendere som opererer på frekvensbåndet 406,0-406,1 MHz.*«Radiodekningsområde A1»* betyr et område innenfor radiotelefondekningen til minst én VHF-kystradiostasjon hvor kontinuerlig DSC-alarmering er tilgjengelig, og som kan defineres av regjeringen i en annen stat som er part i konvensjonen.4*«Radiodekningsområde A2»* betyr et havområde utenfor radiodekningsområde A1, men innenfor radiotelefondekningen til minst én MF-kystradiostasjon hvor kontinuerlig DSC-alarmering er tilgjengelig, og som kan defineres av regjeringen i en annen stat som er part i konvensjonen.5*«Radiodekningsområde A3»* betyr et havområde utenfor radiodekningsområde A1 og A2, men innenfor dekningsområdet til en godkjent MSS-skipsjordstasjon om bord og hvor kontinuerlig alarmering er tilgjengelig.*«Radiodekningsområde A4»* betyr et område utenfor radiodekningsområdene A1, A2 og A3.
 
 2 Alle andre uttrykk og forkortelser som brukes i dette kapittelet, og som er definert i Radioreglementet og i Internasjonal konvensjon om ettersøking og redning til sjøs (SAR) fra 1979, med eventuelle endringer, skal forstås slik de er definert i det nevnte reglementet og i SAR-konvensjonen.
+
+3 Det vises til «Joint IMO/IHO/WMO Manual on Maritime Safety Information (MSI)» (MSC.1/Cir.1319 med endringer).
+
+4 Det vises til «Provision of radio services for the Global Maritime Distress and Safety System (GMDSS)» (resolusjon MSC.509(105)).
+
+5 Det vises til «Provision of radio services for the Global Maritime Distress and Safety System (GMDSS)» (resolusjon MSC.509(105)).
 
 ### Regel 3 Dispensasjoner
 
@@ -176,22 +188,41 @@ Generelle bestemmelser
 
 3 Hver administrasjon skal gi organisasjonen en rapport som viser alle dispensasjoner som er gitt i henhold til nr. 1 og 2, og begrunnelse for disse dispensasjonene.6
 
+6 Dispensasjoner skal rapporteres via organisasjonens Global Integrated Shipping Information System (GISIS) med referanse til «Issue of Exemption Certificates under the 1974 [SOLAS](traktat/1974-11-01-1) Convention and Amendments thereto» (SLS.14/Circ.115 med endringer).
+
 ### Regel 4 Funksjonskrav7
 
 1 Ethvert skip skal, når det er til sjøs, kunneutføre følgende GMDSS-funksjoner:sende skip-til-land nødmeldinger ved hjelp av minst to atskilte og uavhengige midler, hvor hvert av midlene bruker forskjellig radiokommunikasjonstjenestemotta videresendte land-til-skip-nødmeldingersende og motta skip-til-skip-nødmeldingersende og motta søk- og redningskoordinerende kommunikasjonsende og motta «på stedet»-kommunikasjonsende og motta signaler for lokalisering8motta MSI9sende og motta haste- og sikkerhetskommunikasjon, ogsende og motta bro-til-bro-kommunikasjonsende og motta alminnelig radiokommunikasjon.
+
+7 Merk at skip med GMDSS-funksjoner bør benytte «Guidelines for the avoidance of false distress alerts» (resolusjon MSC.514(105)).
+
+8 Det vises også til regel V/19.2.3.2 og V/19.2.4, alt etter hva som er relevant.
+
+9 Merk at skip kan ha behov for å motta visse maritime sikkerhetsopplysninger mens de ligger i havn.
 
 ### Regel 4-1 Leverandører av GMDSS-satellittjenester
 
 Sjøsikkerhetskomiteen skal fastsette kriterier, fremgangsmåter og arrangementer for evaluering, godkjenning, gjennomgang av og tilsyn med levering av anerkjente mobile satellittkommunikasjonstjenester i det globale maritime nød- og sikkerhetssystemet (GMDSS) i henhold til bestemmelsene i dette kapittelet.10
 
+10 Det vises til «Criteria for the provision of mobile satellite communication systems in the Global Maritime Distress and Safety System (GMDSS)» (resolusjon A.1001(25)) og «Guidance to prospective GMDSS satellite service providers» (MSC.1/Circ.1414).
+
 ### Del B
 Forpliktelser for kontraherende staters regjeringer11
+
+11 1 Det er ikke krav om at alle kontraherende staters regjeringer må tilby alle radiokommunikasjonstjenester.
+2 Bestemmelse nr. 48.1 i Radioreglementet gjelder drift av kyststasjoner og kystjordstasjoner.
 
 ### Regel 5 Levering av radiokommunikasjonstjenester
 
 1 I den grad det er praktisk mulig og nødvendig, forplikter hver kontraherende stats regjering seg til å tilby, enten på egen hånd eller i samarbeid med andre kontraherende staters regjeringer, egnede landbaserte installasjoner for land- og satellittbaserte radiokommunikasjonstjenester, samtidig som det tas behørig hensyn til organisasjonens anbefalinger.12 Disse tjenestene omfatteranerkjente mobile satellittjenesteren satellittjeneste på 406 MHzden maritime mobiltjenesten på frekvensbåndet mellom 156 MHz og 174 MHzden maritime mobiltjenesten på frekvensbåndet mellom 4000 MHz og 27 500 MHz, ogden maritime mobiltjenesten på frekvensbåndet mellom 415 MHz og 535 MHz13 og mellom 1605 MHz og 4000 MHz.
 
 2 Hver kontraherende stats regjering forplikter seg til å fremlegge for organisasjonen relevante opplysninger om landbaserte anlegg i den mobile satellittjenesten og den maritime mobiltjenesten, som er opprettet for utpekte radiodekningsområder utenfor egen kyst.14 Hver kontraherende stats regjering forplikter seg også til å gi organisasjonen tilstrekkelig varsel i god tid før planlagt tilbaketrekking av en av disse tjenestene eller et landbasert anlegg.
+
+12 Det vises til «Provision of radio services for the Global Maritime Distress and Safety System (GMDSS)» (resolusjon MSC.509(105)).
+
+13 Det vises til «Implementation of the NAVTEX system as a component of the World-Wide Navigational Warning Service» (resolusjon A.617(15)).
+
+14 Opplysninger som formidles av kontraherende staters regjeringer gjøres tilgjengelig via GISIS.
 
 ### Regel 5-1 GMDSS-identiteter
 
@@ -229,6 +260,10 @@ Krav til skip
 5 Radar-SART eller AIS-SART som kreves i nr. 2.1 eller 3.1, skal være stuet slik at de raskt kan plasseres i en redningsfarkost som ikke er en redningsflåte som kreves i regel III/31.1.4. Alternativt skal én radar-SART eller AIS-SART være stuet i hver redningsfarkost som ikke er en redningsflåte som kreves i regel III/31.1.4. På skip som fører minst to radar-SART-er eller AIS-SART-er og er utstyrt med fritt fall-livbåter, skal én av radar-SART-ene eller AIS-SART-ene være stuet i en fritt-fall-livbåt og den andre i umiddelbar nærhet av kommandobroen, slik at den kan benyttes om bord og være klar til å bli flyttet til en hvilken som helst annen redningsflåte som kreves i regel III/31.1.4.
 
 6 Alle passasjerskip skal ha utstyr for toveis søk- og redningskoordinerende radiokommunikasjon på redningsstedet, som kan opererer på de aeronautiske frekvensene 121,5 MHz og 123,1 MHz fra stedet hvor skipet normalt navigeres fra. Slikt utstyr kan være bærbart.
+
+15 Det vises til «Guidance for the reception of maritime safety information and search and rescue related information as required in the Global Martime Distress and Safety System (GMDSS)» (MSC.1/Circ.1645).
+
+16 Det vises til «Search and rescue homing capability» (resolusjon A.616(15)).
 
 ### Regel 8 Radioutstyr – radiodekningsområde A1
 
@@ -294,29 +329,47 @@ Krav til skip
 
 8 Dersom det er nødvendig med uavbrutt tilgang til informasjon fra skipets navigasjonsutstyr eller annet utstyr, til en radioinstallasjon som kreves etter dette kapittelet, herunder navigasjonsmottakeren som nevnt i regel 18, for å sikre forsvarlig drift, skal det foreligge midler for tilførsel av slik informasjon i tilfelle svikt i skipets hoved- eller nødkraftkilder.
 
+17 Følgende formel anbefales som rettesnor for å bestemme den elektriske kraftbelastningen som skal tilføres av reservekraftkilden til hver radioinstallasjon som kreves i nødstilfeller: 1/2 av nødvendig strømforbruk ved sending + nødvendig strømforbruk ved mottak + nødvendig strømforbruk for enhver tilleggsbelastning.
+
+18 En metode for å kontrollere kapasiteten på et akkumulatorbatteri er først å utlade batteriet, for så å lade det opp ved hjelp av normal driftsstrøm i en vanlig tidsperiode (for eksempel 10 timer). Måling av ladetilstanden kan utføres når som helst, men bør utføres uten merkbar utladning av batteriet mens skipet er til sjøs.
+
 ### Regel 14 Ytelsesnormer
 
 1 Alt utstyr som omfattes av dette kapittelet, skal være av den typen som er godkjent av administrasjonen. Slikt utstyr skal være i samsvar med aktuelle ytelsesnormer som ikke er dårligere enn de som er vedtatt av organisasjonen.19
+
+19 Det vises til følgende resolusjoner vedtatt av organisasjonen:
+
+Generelle krav
 
 1. «General requirements for shipborne radio equipment forming part of the Global Maritime Distress and Safety System (GMDSS) and for electronic navigational aids» (resolusjon A.694(17))
 2. «Performance standards for the presentation of navigation-related information on shipborne navigational displays» (resolusjon MSC.191(79) med endringer)
 3. «Performance standards for bridge alert management» (resolusjon MSC.302(87))
 
+VHF-utstyr
+
 1. «Performance standards for shipborne VHF radio installations capable of voice communication and digital selective calling» (resolusjon MSC.511(105))
 2. «Performance standards for survival craft portable two-way VHF radiotelephone apparatus» (resolusjon MSC.515(105))
 3. «Recommendation on Performance standards for on-scene (aeronautical) portable two-way VHF radiotelephone apparatus» (vedlegg 1 til resolusjon MSC.80(70), med endringer)
 
+MF- og HF-utstyr
+
 1. «System performance standard for the promulgation and coordination of maritime safety information using high-frequency narrow-band direct-printing» (resolusjon MSC.507(105))
 2. «Performance standards for shipborne MF and MF/HF radio installations capable of voice communication, digital selective calling and reception of maritime safety information and search and rescue related information» (resolusjon MSC.512(105))
 3. «Performance standards for the reception of maritime safety information and search and rescue related information by MF (NAVTEX) and HF» (resolusjon MSC.508(105))
+
+Skipsjordstasjoner og EGC-utstyr (Enhanced Group Call)
 
 1. «Performance standards for Inmarsat-C ship earth stations capable of transmitting and receiving direct-printing communications» (resolusjon MSC.513(105))
 2. «Revised performance standards for enhanced group call (EGC) equipment» (resolusjon MSC.306(87), med endringer)
 3. «Performance standards for a ship earth station for use in the GMDSS» (resolusjon MSC.434(98) Integrerte radiokommunikasjonssystemer
 4. «Performance standards for a shipborne integrated communication system (ICS) when used in the Global Maritime Distress and Safety System (GMDSS)» (resolusjon MSC.517(105))
 
+Nødpeilesendere (EPIRB)
+
 1. «Performance standards for float-free release and activation arrangements for emergency radio equipment» (resolusjon A.662(16))
 2. «Performance standards for float-free emergency position-indicating radio beacons (EPIRBs) operating on 406 MHz» (resolusjon MSC.471(101))
+
+Søk- og redningstranspondere
 
 1. «Performance standards for search and rescue radar transponders» (resolusjon MSC.510(105))
 2. «Performance standards for survival craft AIS search and rescue transmitters (AIS-SART) for use in search and rescue operations» (resolusjon MSC.246(83)).
@@ -341,11 +394,19 @@ Krav til skip
 
 9 Satellitt-nødpeilesender skaltestes årlig, enten om bord i skipet21 eller ved en godkjent teststasjon, for alle aspekter som angår driftseffektivitet, med spesiell vekt på frekvensstabilitet, koding og registrering, i følgende intervaller:på passasjerskip, innen tre måneder før utløpsdatoen for sikkerhetssertifikatet for passasjerskip, ogpå lasteskip, innen tre måneder før utløpsdatoen eller innen tre måneder før eller etter årsdagen for sikkerhetssertifikatet for radio på lasteskip, oggjennomgå vedlikehold med maks. fem års mellomrom ved et godkjent landbasert vedlikeholdsanlegg.22
 
+20 Det vises til «General requirements for shipborne radio equipment forming part of the Global Maritime Distress and Safety System (GMDSS) and for electronic navigational aids (resolution A.694(17)), General requirements for electromagnetic compatibility (EMC) for all electrical and electronic ship's equipment (resolution A.813(19)), and Clarifications of certain requirements in IMO performance standards for GMDSS equipment» (MSC/Circ.862).
+
+21 Det vises til «Guidelines on annual testing of emergency position-indicating radio beacons (EPIRBs)» (MSC.1/Circ.1040/Rev.2) og «Guidelines for the avoidance of false distress alerts» (resolusjon MSC.514(105)).
+
+22 Det vises til «Guidelines for shore-based maintenance of emergency position-indicating radio beacons (EPIRBs)» (MSC.1/Circ.1039/Rev.1).
+
 ### Regel 16 Radiopersonell
 
 1 Alle skip skal ha personell om bord som er kvalifisert for nød-, haste- og sikkerhetskommunikasjon, i samsvar med administrasjonens bestemmelser.23 Personellet skal ha fått utstedt de nødvendige sertifikatene som fastsatt i Radioreglementet, og det skal utpekes én til å ha hovedansvaret for kommunikasjon i tilfelle det skulle oppstå en nødssituasjon.
 
 2 På passasjerskip skal det utpekes minst én person som er kvalifisert i samsvar med nr. 1 til kun å utføre kommunikasjonsoppgaver i nødssituasjoner.
+
+23 Det vises til STCW-koden kapittel IV avsnitt B-IV/2.
 
 ### Regel 17 Radioopptegnelser
 
@@ -356,3 +417,5 @@ Det skal føres opptegnelser (dagbok) om bord i samsvar med administrasjonens be
 1 Alt toveis kommunikasjonsutstyr på fartøy som omfattes av dette kapittelet, og som automatisk kan inkludere skipets posisjon i en nødmelding, skal automatisk utstyres med denne informasjonen fra en intern eller ekstern navigasjonsmottaker.24
 
 2 Ved feil ved den interne eller eksterne navigasjonsmottakeren skal skipets posisjon og tidspunktet for når posisjonen ble fastslått, manuelt oppdateres med maksimalt fire timers mellomrom mens skipet er til sjøs, slik at posisjonen alltid er klar for sending.
+
+24 Krav om automatisk oppdatering av skipets posisjon står i resolusjon MSC.511(105), MSC.512(105) og MSC.513(105).

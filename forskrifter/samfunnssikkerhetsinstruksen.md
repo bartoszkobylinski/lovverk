@@ -44,9 +44,15 @@ Arbeidet med samfunnssikkerhet bygger på fire grunnleggende prinsipper:Ansvarsp
 
 Arbeidet med samfunnssikkerhet skal være basert på systematisk risikostyring. Det stilles derfor krav om at det enkelte departement skal kunne dokumentere at det:avklarer og beskriver sentrale roller og ansvarsområder innenfor samfunnssikkerhetsarbeidet i eget departement og i egen sektor.utarbeider og vedlikeholder systematiske risiko- og sårbarhetsanalyser1 med grunnlag i vurderinger av tilsiktede og utilsiktede hendelser som kan true departementets og sektorens funksjonsevne og sette liv, helse og materielle verdier i fare.iverksetter nødvendige kompenserende tiltak som reduserer sannsynligheten for – og konsekvensene av – uønskede hendelser i egen sektor.beskriver beredskapstiltakenes evne til å redusere sannsynligheten for – og håndtere konsekvensene av – uønskede hendelser i egen sektor.utarbeider mål for samfunnssikkerhetsarbeidet i egen sektor.2koordinerer eget arbeid med forebygging, beredskap og krisehåndtering med berørte departementer.ivaretar ansvaret for krisehåndtering innenfor egen sektor, også som eventuelt lederdepartement, og er i stand til å understøtte håndteringen i andre departementer, se for øvrig kap. VIII. Dette innbefatter bl.a. å:utvikle og vedlikeholde planverk for håndtering av uønskede hendelser. Planverket skal som et minimum inneholde rammer og vilkår for organisering, krisekommunikasjon, varslingsrutiner og koordinering med andre departementer. Kontinuitetsplaner og departementets egen underliggende plan til Sivilt beredskapssystem (SBS) skal også foreligge.øve målrettet i egen sektor og tverrdepartementalt. Departementet skal ha en øvingsplan med formål, tid og øvingsform for øvelsene. Departementets ledelse og andre i departementet med definerte oppgaver ved krisehåndtering, skal øves i sine roller.evaluerer hendelser og øvelser, og sørger for at funn og læringspunkter følges opp gjennom en ledelsesforankret vurdering og tiltaksplan. Oppfølgingen etter øvelser og hendelser skal ikke anses som avsluttet før alle punktene i tiltaksplanen er fulgt opp tilfredsstillende.forelegger relevante planer, regelverksendringer og eventuelle uenighetssaker for Justis- og beredskapsdepartementet jf. kap. VI, punkt 1d.fremmer kunnskapsbasert arbeid, forskning og utvikling innen sektoren.
 
+1 Analysen skal ta utgangspunkt i overordnede nasjonale planleggingsgrunnlag som krisescenarier, oversikt over kritiske samfunnsfunksjoner og andre strategiske dokumenter om risiko, trusler og sårbarhet (eksempelvis vurderinger fra Politiets sikkerhetstjeneste, Etterretningstjenesten, Nasjonal sikkerhetsmyndighet og andre).
+
+2 Mål, prioriteringer og tiltak skal fremgå av departementets budsjettproposisjon, tildelingsbrev og tilsvarende styringsdokumenter.
+
 ## V. Krav til departementer med hovedansvar for kritiske samfunnsfunksjoner
 
 Det er utpekt hovedansvarlige departementer3 som har et særlig ansvar for nødvendig koordinering og samordning innenfor enkelte kritiske samfunnsfunksjoner. Disse departementene skal innenfor sitt hovedansvarsområde, i tillegg til oppgaver som beskrevet under kap. IV:sørge for at det utarbeides og vedlikeholdes risiko- og sårbarhetsanalyser for de kritiske samfunnsfunksjonene som departementet har et hovedansvar for.ha oversikt over tilstanden knyttet til sårbarheter for de områder som departementet har et hovedansvar for, og utarbeide status- og tilstandsvurderinger for disse som fremlegges for Stortinget i de årlige budsjettproposisjonene. Status- og tilstandsvurderingene utarbeides etter en tidsplan fastsatt av Justis- og beredskapsdepartementet.avklare ansvar mellom relevante aktører, herunder identifisere eventuelle gråsoner eller overlappende ansvarsområder. I saker der det er uenighet mellom departementene skal saken forelegges Justis- og beredskapsdepartementet, jf. kap. VI, punkt 1d.planlegge og gjennomføre felles øvelser, evaluere og følge opp læringspunkter.samarbeide med og forelegge forslag til beredskapstiltak, -planer, regelverk og andre viktige saker for berørte departementer.sørge for erfaringsutveksling og kompetanseheving for berørte aktører.bistå Justis- og beredskapsdepartementet med informasjonsinnhenting og rapportering.
+
+3 Det er departementer som er utpekt som hovedansvarlige for samfunnskritiske funksjoner og områder og som oppdateres årlig i tabell i JDs Prop.1 S.
 
 ## VI. Justis- og beredskapsdepartementets samordningsrolle for forebygging og beredskap på samfunnssikkerhetsområdet
 
@@ -80,17 +86,23 @@ Som det fremgår av [kgl.res. 10. mars 2017 nr. 312](forskrift/2017-03-10-312) s
 
 ## VIII. Sentral krisehåndtering
 
+*Regjeringen*
+
 Regjeringen har det øverste ansvar for beredskapen i Norge, herunder det overordnede politiske ansvaret for både styringen og håndteringen av kriser som oppstår. Den enkelte statsråd har det konstitusjonelle ansvaret på sitt område, innenfor de lover og bevilgninger Stortinget har gitt. Den enkelte statsråd beholder sitt konstitusjonelle ansvar også i en krisesituasjon.
 
 Regjeringens sikkerhetsutvalg (RSU) er det øverste organet for å diskutere sikkerhetsspørsmål i Norge. De faste medlemmene er normalt statsministeren, utenriksministeren, forsvarsministeren, justis- og beredskapsministeren og finansministeren. Dersom statsministeren ønsker det, kan en sak i stedet for å bli behandlet i plenum i regjeringen, bli behandlet i dette utvalget.
 
 I enkelte tilfeller vil det følge av Grunnloven, lovgivning eller beslutningsreglement at beslutninger skal treffes av Kongen i statsråd.
 
+*Departementene*
+
 Systemet for sentral krisehåndtering bygger på de grunnleggende prinsippene for samfunnssikkerhet om at det departementet som har ansvar for en sektor også har ansvaret for beredskapsplanlegging og tiltak i en krisesituasjon.
 
 Ved kriser skal departementene innhente situasjonsrapporter fra egne operative virksomheter og identifisere og treffe beslutninger om nødvendige tiltak innenfor eget ansvarsområde for å håndtere den aktuelle situasjonen. De skal utarbeide beslutningsgrunnlag og legge til rette for overordnede politiske avklaringer der det er nødvendig. Departementene må kunne håndtere kommunikasjon med medier og befolkningen. Arbeidet må skje koordinert med andre departementer og spesielt det departementet som er utpekt som lederdepartement.
 
 Departementene skal påse at operative aktører har nødvendige fullmakter, slik at behovet for behandling på regjeringsnivå ikke skal forsinke håndteringen av akutte situasjoner hvor det er fare for liv, helse eller store tap av materielle verdier.
+
+*Kriserådet*
 
 Det øverste administrative koordineringsorganet på departementsnivå er Kriserådet, som er opprettet for å styrke den sentrale koordineringen. Rådet har fem faste medlemmer: regjeringsråden ved Statsministerens kontor, utenriksråden i Utenriksdepartementet, og departementsrådene i henholdsvis Justis- og beredskapsdepartementet, Forsvarsdepartementet og Helse- og omsorgsdepartementet. Rådet kan ved behov utvides med alle de øvrige departementene. Representanter for underliggende virksomheter og særskilte kompetansemiljøer deltar ved behov.
 
@@ -102,11 +114,15 @@ Kriserådet er gitt fullmakt fra regjeringen til å beslutte hvem som skal være
 
 Det er også etablert en ordning med faste, periodiske møter i Kriserådet som benyttes til drøfting og forankring av overordnede beredskaps- og krisehåndteringsutfordringer og gjennomgang av relevante hendelser og øvelser.
 
+*Lederdepartementet*
+
 Justis- og beredskapsdepartementet er fast lederdepartement ved sivile nasjonale kriser med mindre annet blir bestemt. Utenriksdepartementet er normalt lederdepartement ved krisehendelser i utlandet som rammer norske borgere eller interesser i tråd med [Utenrikstjenesteloven § 1](lov/2015-02-13-9/§1). Ved sikkerhetspolitisk krise og væpnet konflikt vil Forsvarsdepartementet og Utenriksdepartementet i kraft av sitt sektoransvar ha et særskilt ansvar for å ivareta forsvars-, sikkerhets- og utenrikspolitiske forhold.
 
 Lederdepartementet har ansvaret for å koordinere håndteringen av krisen på departementsnivå. Utpeking av et lederdepartement medfører ikke endringer i konstitusjonelle ansvarsforhold, og alle departementer beholder ansvar og beslutningsmyndighet for sine respektive saksområder.
 
 Blant de oppgaver et lederdepartement må kunne ivareta er å:sørge for varsling av andre departementer, Statsministerens kontor, egne underlagte virksomheter, og ved alvorlige kriser Stortinget og Kongehusetta initiativ til at Kriserådet innkalles og lede rådets møterutarbeide og distribuere overordnede situasjonsrapporter, blant annet på bakgrunn av innhentet informasjon fra andre departementer, underliggende etater og mediebildetutarbeide overordnede situasjonsanalyser, herunder vurdering av mulige hendelsesforløp og videre utvikling av krisenidentifisere og vurdere behov for tiltak på strategisk nivåkoordinere at operative aktører har nødvendige fullmaktersørge for nødvendig koordinering av tiltak innenfor eget ansvarsområde og med andre departementer og etatersørge for at oppdatert informasjon om situasjonen distribueres til regjeringens medlemmerved behov koordinere utarbeidelsen av beslutningsgrunnlag fra berørte departementer for Regjeringensørge for at det blir gitt koordinert informasjon til media og befolkningen og at det utformes en helhetlig informasjonsstrategikoordinere behov for internasjonal bistandvurdere etablering av liaisonordninger med andre berørte departementer og virksomhetersørge for evaluering av håndteringen av hendelsen i samråd med andre berørte aktører, og at identifiserte læringspunkter følges opp.
+
+*Krisestøtteenheten (KSE)*
 
 KSE skal ved behov kunne yte støtte til lederdepartementet og Kriserådet i deres krisehåndtering. KSE er sekretariat for Kriserådet. KSE understøtter også Justis- og beredskapsdepartementets samordningsrolle på samfunnssikkerhetsområdet og er fast kontaktpunkt for informasjon til og fra Justis- og beredskapsdepartementet ved ekstraordinære hendelser og kriser.
 
@@ -229,6 +245,8 @@ JD tar et særlig ansvar for å planlegge og gjennomføre større øvelser på s
 JD innhenter også årlig rapportering om øvelsesvirksomheten i departementene.
 
 JD og DSB er gjennom kgl. res. 1. juli 20051 ansvarlige for å legge til rette for systemer for robust, helhetlig og koordinert kommunikasjon mellom myndighetene og til befolkningen under kriser.
+
+1 Kgl.res. 1. juli 2005 Overføring av ansvar for risiko- og krisekommunikasjon og ansvar for Regjeringens kriseinformasjonsenhet fra Moderniseringsdepartementet til Justis- og politidepartementet fra 1. juli 2005 – nedleggelse av Regjeringens kriseinformasjonsenhet fra januar 2006 januar 2006.
 
 ### Kapittel VII: Tilsyn med departementenes samfunnssikkerhetsarbeid
 

@@ -63,6 +63,8 @@ Ein kan heller ikkje krevja skadebot etter lova her for skade som nokon får på
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [21 juni 1985 nr. 81](lov/1985-06-21-81), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 12 og 13).
+
 ### § 6. (korleis skadebota vert fastsett).
 
 Skadebota vert fastsett etter vanlege skadebotreglar når ikkje anna er sagt.
@@ -83,6 +85,8 @@ Skadeliden vognførar som køyrde den vogna som gjorde skaden, kan ikkje få ska
 
 > Endra med lover [21 juni 1985 nr. 81](lov/1985-06-21-81), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (dir [2009/103](eu/32009l0103) art. 13 nr. 1 (2)).
+
 ### § 8. (samanstøyt og anna).
 
 Skade som ei motorvogn gjer på ei anna motorvogn eller ei skjenegangsvogn eller på folk eller gods i slike vogner, går inn under trafikktrygdinga åt vogna berre når skaden kjem avat eigaren, brukaren eller køyraren eller nokon annan som var med i vogna, ikkje bar seg forsvarleg åt, ellerat vogna ikkje var i orden eller svikta, ellerat vogna elles vart køyrd, fråsegsett eller handsama slik at ho kom i strid med gjeldande trafikkreglar.
@@ -101,6 +105,8 @@ Attåt skadebot som nemnd i paragrafen her, skal det svarast rente etter § 6 og
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [17 des 1976 nr. 100](lov/1976-12-17-100), [21 juni 1985 nr. 81](lov/1985-06-21-81), [8 juni 2007 nr. 19](lov/2007-06-08-19) (ikr. 11 juni 2007, men sjå endringslovas [del II](lov/2007-06-08-19/kapii)), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 9).2 Etter [lov 8 juni 2007 nr. 19](lov/2007-06-08-19), II, gjeld dette beløpet frå 1 jan 2008. Frå 11 juni 2007 til og med 31 des 2007 var beløpet 2.000.000 kroner.
+
 ### § 10. (motorvogn som ikkje er trygda eller ikkje kjend)
 
 Når ei motorvogn som skulle vore trygda, men ikkje er det, gjer skade på folk eller eige, skal dei trygdelaga som er godkjende eller registrerte etter § 17 bokstav a2, bera skaden i lag som om vogna hadde vore lovleg trygda hjå dei. Det same gjeld når ei motorvogn som ikkje er trygda, vert nytta urettmessig. Fyrste og andre punktum gjeld likevel ikkje om skadelidaren av fri vilje har teke plass i motorvogna som gjorde skaden, endå skadelidaren visste at ho ikkje var lovleg trygda.
@@ -108,6 +114,8 @@ Når ei motorvogn som skulle vore trygda, men ikkje er det, gjer skade på folk 
 Har ei motorvogn gjort skade på folk, fast eigedom eller dyr, men ingen veit å seia kva for vogn det var, skal dei trygdelaga som er godkjende eller registrerte etter § 17 første ledd bokstav a, bera skaden i lag som om vogna hadde vore lovleg trygda hjå dei. Fyrste punktum gjeld tilsvarande for skade på anna eige enn fast eigedom og dyr, men berre når det ved hendinga også er gjort meir enn uvesentleg skade på person. I vurderinga av om det er gjort meir enn uvesentleg skade på person, skal det leggjast vekt på kor stor og varig skaden er.
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [26 mars 1999 nr. 16](lov/1999-03-26-16), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)), [8 juni 2007 nr. 19](lov/2007-06-08-19) (ikr. 11 juni 2007), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
+
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103) art. 10).2 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 7 (direktiv [2009/138](eu/32009l0138*)).
 
 ### § 10 a. (skadebot ved insolvens m.m.)
 
@@ -134,6 +142,8 @@ Ingen kan trygde seg mot attsøkjingskrav etter paragrafen her. Avtale om det gj
 Ein trygdar kan ikkje seia frå seg attsøkjingsrett som han har etter paragrafen her. Atterhald om slik attsøkjingsrett i større omfang enn det er sagt her i lova, gjeld ikkje utan det er samhøveleg med reglane i trygdeavtalelova.1 Atterhald om slik attsøkjingsrett av de ein ansvarleg har gjort skaden i aktløyse, gjeld berre i dei tilfelle aktløysa er grov. Retten kan minka attsøkjingskravet etter regelen om lemping i [lov 13 juni 1969 nr. 26](lov/1969-06-13-26) om skadeserstatning [§ 5-2](lov/1969-06-13-26/§5-2).
 
 > Endra med lover [21 juni 1985 nr. 81](lov/1985-06-21-81), [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [22 sep 2000 nr. 79](lov/2000-09-22-79) (ikr. 1 jan 2001 iflg. [res. 22 sep 2000 nr. 959](forskrift/2000-09-22-959)), [15 juni 2001 nr. 61](lov/2001-06-15-61) (ikr. 16 juni 2001 iflg. [res. 15 juni 2001 nr. 691](forskrift/2001-06-15-691)).
+
+1 Inkurie: Skal vel være [forsikringsavtaleloven](lov/1989-06-16-69).
 
 ### § 13. (attsøkjingsrett når motorvogna skulle vore trygda, men ikkje er det).
 
@@ -173,6 +183,8 @@ Departementet kan vidare gje nærare føresegner om oppretting og drift av infor
 
 > Endra med lover [27 nov 1992 nr. 113](lov/1992-11-27-113) (ikr. 1 jan 1994), [21 juni 2002 nr. 41](lov/2002-06-21-41) (ikr. 1 jan 2003), [8 juni 2007 nr. 19](lov/2007-06-08-19) (ikr. 11 juni 2007), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)). **Vert endra** ved lov [20 juni 2025 nr. 80](lov/2025-06-20-80) (i kraft frå den tid Kongen bestemmer).
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 8 (direktiv [2009/103](eu/32009l0103)).
+
 ### § 17 a. (gebyr til Trafikkforsikringsforeningen)
 
 Om ei motorvogn ikkje er trygda etter [§ 15](lov/1961-02-03/§15) fyste punktum, skal eigaren betale eit gebyr til Trafikkforsikringsforeningen. Ved eigarskifte skal den nye eigaren betale gebyr sjølv om trygda frå den tidlegare eigaren gjeld etter [forsikringsavtaleloven § 7-2](lov/1989-06-16-69/§7-2).
@@ -209,6 +221,8 @@ Reglane i [forsikringsavtalelova](lov/1989-06-16-69) gjeld for trafikktrygding e
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [17 des 1976 nr. 100](lov/1976-12-17-100), [16 juni 1989 nr. 69](lov/1989-06-16-69), [26 juni 1998 nr. 46](lov/1998-06-26-46) (ikr. 1 okt 1998 iflg. [res. 26 juni 1998 nr. 600](forskrift/1998-06-26-600)), [19 des 2017 nr. 117](lov/2017-12-19-117) (ikr. 1 jan 2018), [18 feb 2022 nr. 5](lov/2022-02-18-5) (i kraft 1 juli 2022 iflg. [res. 4 mars 2022 nr. 324](forskrift/2022-03-04-324)).
 
+1 Inkurie: Skal vel være [forsikringsavtaleloven](lov/1989-06-16-69).
+
 ## Kapitel V. Straffer. Administrative sanksjonar. Kva tid lova tek til å gjelda og om brigde i andre lover.
 
 > Overskriften endra med lov [21 juni 2002 nr. 41](lov/2002-06-21-41) (ikr. 1 jan 2003).
@@ -218,6 +232,8 @@ Reglane i [forsikringsavtalelova](lov/1989-06-16-69) gjeld for trafikktrygding e
 Om nokonbrukar eller køyrer ei motorvogn endå han veit eller må vita at vogna ikkje er lovleg trygda, ellerlet vera å retta seg etter påbod om trygdeprov, gjevne med heimel i § 17 fyrste leden bokstav i, vert han straffa med bot.1
 
 > Endra med lover [25 mai 1973 nr. 26](lov/1973-05-25-26), [19 juni 2015 nr. 65](lov/2015-06-19-65) (ikr. 1 okt 2015), [19 des 2017 nr. 117](lov/2017-12-19-117) (ikr. 1 jan 2018), [26 mai 2020 nr. 46](lov/2020-05-26-46) (ikr. 1 jan 2021 iflg. [res. 26 mai 2020 nr. 1054](forskrift/2020-05-26-1054)).
+
+1 Inkurie: Siste komma er ved siste endring ikke satt fra marg.
 
 ### § 21. (administrative sanksjonar).
 
@@ -234,3 +250,5 @@ Kongen fastset kva tid lova skal taka til å gjelda.1
 – – –
 
 > Endra med lov [21 juni 2002 nr. 41](lov/2002-06-21-41) (ikr. 1 jan 2003), tidlegare § 21.
+
+1 Frå 1 juni 1961 iflg. [res. 14 apr 1961 nr. 3000](forskrift/1961-04-14-3000).

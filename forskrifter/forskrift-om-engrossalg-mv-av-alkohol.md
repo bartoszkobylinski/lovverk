@@ -64,7 +64,13 @@ Helsedirektoratet kan ilegge bevillingshavere som forsettlig eller uaktsomt over
 
 ### § 3-1
 
-Ved søknad om bevilling for tilvirkning betales følgende søknadsgebyr:– alkoholholdig drikk som ikke er brennevin:kr 12000– brennevin:kr 15000– all alkoholholdig drikk:kr 15000
+Ved søknad om bevilling for tilvirkning betales følgende søknadsgebyr:
+
+|  |  |
+| --- | --- |
+| – alkoholholdig drikk som ikke er brennevin: | kr 12000 |
+| – brennevin: | kr 15000 |
+| – all alkoholholdig drikk: | kr 15000 |
 
 ### § 3-2
 

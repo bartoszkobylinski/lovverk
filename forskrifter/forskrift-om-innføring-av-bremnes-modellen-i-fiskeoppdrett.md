@@ -86,12 +86,16 @@ Denne forskriften trer i kraft straks.
 
 Tillatt MTB skal beregnes forholdsvis utfra prosentene oppgitt som differansen mellom dagens MTB og Bremnes-modellen i tabellen under. MTB-grensen rundes av til nærmeste hele tonn.
 
-Tabellen under viser hvordan MTB-grensene vil se ut for en alminnelig tillatelse henholdsvis sør for Troms og Troms og Finnmark med biomasseprofilen i prøveordningen. Tabellen viser også dagens kapasitet basert på den gjeldende, konstante MTB-begrensningen. *jan.**feb.**mars**apr.**mai**juni**juli**aug.**sep.**okt.**nov.**des.**snitt**Differanse**2,5 %**1,0 %**–2,5 %**–6,0 %**–6,0 %**–6,0 %**–2,5 %**0,0 %**2,5 %**5,0 %**7,0 %**5,0 %**0,0 %**Sør for*
-*Troms**jan.**feb.**mars**apr.**mai**juni**juli**aug.**sep.**okt.**nov.**des.**snitt*Dagens MTB,
-tonn780780780780780780780780780780780780780Bremnes-
-modellen800788761733733733761780800819835819780*Troms og*
-*Finnmark**jan.**feb.**mars**apr.**mai**juni**juli**aug.**sep.**okt.**nov.**des.**snitt*Dagens MTB,
-tonn945945945945945945945945945945945945945Bremnes-
-modellen9699549218888888889219459699921011992945
+Tabellen under viser hvordan MTB-grensene vil se ut for en alminnelig tillatelse henholdsvis sør for Troms og Troms og Finnmark med biomasseprofilen i prøveordningen. Tabellen viser også dagens kapasitet basert på den gjeldende, konstante MTB-begrensningen.
+
+|  | *jan.* | *feb.* | *mars* | *apr.* | *mai* | *juni* | *juli* | *aug.* | *sep.* | *okt.* | *nov.* | *des.* | *snitt* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| *Differanse* | *2,5 %* | *1,0 %* | *–2,5 %* | *–6,0 %* | *–6,0 %* | *–6,0 %* | *–2,5 %* | *0,0 %* | *2,5 %* | *5,0 %* | *7,0 %* | *5,0 %* | *0,0 %* |
+| *Sør for*<br>*Troms* | *jan.* | *feb.* | *mars* | *apr.* | *mai* | *juni* | *juli* | *aug.* | *sep.* | *okt.* | *nov.* | *des.* | *snitt* |
+| Dagens MTB,<br>tonn | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 | 780 |
+| Bremnes-<br>modellen | 800 | 788 | 761 | 733 | 733 | 733 | 761 | 780 | 800 | 819 | 835 | 819 | 780 |
+| *Troms og*<br>*Finnmark* | *jan.* | *feb.* | *mars* | *apr.* | *mai* | *juni* | *juli* | *aug.* | *sep.* | *okt.* | *nov.* | *des.* | *snitt* |
+| Dagens MTB,<br>tonn | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 | 945 |
+| Bremnes-<br>modellen | 969 | 954 | 921 | 888 | 888 | 888 | 921 | 945 | 969 | 992 | 1011 | 992 | 945 |
 
 > Endret ved [forskrift 7 juli 2016 nr. 908](forskrift/2016-07-07-908).

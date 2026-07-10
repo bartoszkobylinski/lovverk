@@ -22,7 +22,7 @@ eu_basis: []
 
 # Forskrift om etablering, organisering og drift av lufttrafikktjeneste
 
-(Bestemmelser som er merket med (*) har veiledende materiale.)
+(Bestemmelser som er merket med (\*) har veiledende materiale.)
 
 ## Kapittel 1. Formål og virkeområde
 
@@ -184,8 +184,108 @@ Denne forskriften gjelder fra 1. januar 2004.
 
 For denne forskrift menes med:
 
+*AFIS-enhet (aerodrome flight information service unit):* En enhet som yter flygeinformasjons- og alarmtjeneste til luftfartøyer før avgang, på manøvreringsområdet på en ikke-kontrollert flyplass samt til luftfartøyer innenfor en trafikkinformasjonssone og trafikkinformasjonsområde.
+
+*Ansvarlig leder for lufttrafikktjenesten (providers representative):* Den person utnevnt av tjenesteleverandøren som er ansvarlig for at en eller flere lufttrafikktjenesteenheter drives i henhold til gjeldende bestemmelser.
+
+*Autorisasjon:* En tillatelse til å utøve nærmere angitt tjeneste ved en bestemt enhet eller sektor.
+
+*Autorisasjon for flygeledere:* En påskrift (endorsement) i eller et vedlegg til et flygeledersertifikat som angir den enhet og/eller sektor av flygekontrolltjenesten der vedkommende flygeleder kan utøve flygekontrolltjeneste med utgangspunkt i den eller de rettigheter som er påført i sertifikatet. En autorisasjon kan også gi adgang til bruk av ulike typer av overvåkingsutstyr.
+
+*Autorisasjonsbevis:* Et dokument utstedt av Luftfartstilsynet som bekrefter at innehaveren er kvalifisert og innehar de personlige egenskaper og kunnskaper som er nødvendige for å utøve lokal flygeinformasjonstjeneste.
+
+*Beskyttelsessone for helikopter (HPZ) (Helicopter Protected Zone):* Et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra havets overflate til en angitt høyde over havflaten. HPZ etableres rundt grupper av to eller flere innretninger på kontinentalsokkelen, og hvor det ytes flygeinformasjons- og alarmtjeneste av en HFIS-enhet når en slik er etablert. Flygeinformasjons- og alarmtjeneste kan også utføres av en kontrollsentral.
+
+*Flygeinformasjonstjeneste (flight information service):* En tjeneste med det formål å gi råd og opplysninger av betydning for sikker og effektiv gjennomføring av flyginger.
+
+*Flygekontrollenhet (air traffic control unit):* Fellesbetegnelse for kontrollsentral, innflygingskontroll og kontrolltårn.
+
+*Flygekontrolltjeneste (air traffic control service):* En tjeneste med det formål å:
+
 1. forebygge og avverge sammenstøt:mellom luftfartøyer ogmellom luftfartøyer og hindringer på manøvreringsområdet, samt å
 2. sørge for velordnet og rask trafikkavvikling.
+
+*Flygeledersertifikat (air traffic controller licence):* Et dokument som bekrefter at innehaveren er kvalifisert som flygeleder og innehar de personlige egenskaper, medisinske godkjenninger og kunnskaper som er nødvendige for å utøve flygekontrolltjeneste.
+
+*Flyplass (aerodrome):* Et bestemt land- eller sjøområde (med bygninger, installasjoner og utstyr) som er beregnet til helt eller delvis å bli brukt for luftfartøyers avgang, landing og manøvrering på bakken.
+
+*Flyværtjeneste (meteorological service to air navigation):* Tjeneste innen flysikringstjenesten med det formål å samle inn, bearbeide og/eller lagre, samt videresende de meteorologiske produkter som berører lufttrafikk (observasjon, varsling og formidling av meteorologiske opplysninger).
+
+*HFIS-enhet (HFIS unit):* En enhet som yter flygeinformasjons- og alarmtjeneste til helikoptre før avgang fra et helikopterdekk og til luftfartøyer innenfor en eller flere beskyttelsessoner for helikoptre (HPZ).
+
+*IFR (instrument flight rules):* Betegnelse for instrumentflygereglene.
+
+*IFR-flyging (IFR flight):* Flyging utført i samsvar med instrumentflygereglene.
+
+*IFR-forhold (instrument meteorological conditions):* Værforhold, uttrykt i sikt, avstand fra skyer, og skydekkehøyde, som er dårligere enn minstekravene til VFR-forhold.
+
+*Innflygingskontroll (approach control unit):* En enhet som yter flygekontrolltjeneste til kontrollerte flyginger som ankommer til, eller går fra en eller flere flyplasser.
+
+*Innflygingskontrolltjeneste (approach control service):* Flygekontrolltjeneste for ankommende og avgående kontrollerte flyginger.
+
+*Innpasseringskontroll:* Kontroll av personer som skal ha adgang til sikkerhetskritiske områder.
+
+*Instrumentinnflyging (instrument approach procedure):* En rekke foreskrevne manøvrer, utført ved hjelp av luftfartøyets instrumenter og som gir fastsatt minsteavstand til hindringer fra passering av det innledende innflygingsfiks (IAF) eller, om aktuelt, fra passering av det punkt hvor en definert innflygingsrute begynner og inntil et punkt hvor landing kan foretas og videre, hvis landing ikke blir utført, inntil en posisjon hvor kriteria for venting eller for hinderfrihet i underveisfasen gjelder.
+
+*Kontrollant:* Person som er kvalifisert for og utnevnt av Luftfartstilsynet til å avholde ferdighetsprøve og ferdighetskontroll med kandidater ved sertifisering eller autorisering av luftfartspersonell.
+
+*Kontrollert luftrom (controlled airspace):* Et luftrom av bestemte dimensjoner, der det ytes flykontrolltjeneste i samsvar med klassifiseringen av luftrommet. Kontrollert luftrom er en fellesbetegnelse som i norske flygeinformasjonsregioner dekker ATS-luftrom klasse A, C, D og E.
+
+*Kontrollområde (control area):* Et kontrollert luftrom som strekker seg vertikalt oppover fra en nærmere angitt høyde over jordoverflaten.
+
+*Kontrollposisjon:* En posisjon ved en flygekontrollenhet hvorfra det ytes flygekontrolltjeneste.
+
+*Kontrollsentral (air traffic control centre):* En enhet som yter flygekontrolltjeneste til kontrollerte flyginger i kontrollområder underlagt dens myndighet.
+
+*Kontrollsone (control zone):* Et kontrollert luftrom som strekker seg fra jordoverflaten opp til en nærmere angitt øvre grense.
+
+*Kontrolltårn (aerodrome control tower):* En enhet som yter flygekontrolltjeneste for lokaltrafikk.
+
+*Leder helikopterdekk (helicopter landing officer – HLO):* En person med spesiell opplæring som er satt til å forestå den daglige ledelse av arbeidet på helikopterdekket.
+
+*Lokaltrafikk (aerodrome traffic):* All trafikk på manøvreringsområdet på en flyplass og alle luftfartøyer under flyging i nærheten av en flyplass. Et luftfartøy er i nærheten av en flyplass når det er i, entrer eller forlater landingsrunden.
+
+*Lufttrafikk (air traffic):* Alle luftfartøyer i luften og luftfartøyer som manøvrerer på manøvreringsområdet på en flyplass.
+
+*Lufttrafikktjeneste (air traffic service):* Fellesbetegnelse for flygeinformasjonstjeneste, alarmtjeneste og flygekontrolltjeneste. Sistnevnte omfatter områdekontrolltjeneste, innflygingskontrolltjeneste og tårnkontrolltjeneste.
+
+*Lufttrafikktjenesteenhet (air traffic services unit):* Fellesbetegnelse for flygekontrollenhet, flygeinformasjonssentral, AFIS-enhet, HFIS-enhet eller meldekontor.
+
+*Manøvreringsområde (manoeuvring area):* Den del av en flyplass, unntatt oppstillingsplattformer, som brukes av luftfartøyer ved avgang, landing og under taksing.
+
+*Meldekontor (air traffic services reporting office):* En enhet opprettet for mottagelse av rapporter om forhold vedrørende lufttrafikktjenesten og av reiseplaner innlevert før avgang.
+
+*Nedgradering av lufttrafikktjeneste:* En endring i tjenestetilbud fra en flygekontrollenhet til en AFIS-enhet, eller fra en AFIS-enhet til en ikke-bemannet flyplass, som bestemt av Luftfartstilsynet.
+
+*Periodisk faglig oppdatering (PFO):* Regelmessig vedlikehold og kontroll av lufttrafikktjenestepersonells teoretiske kunnskaper og praktiske ferdigheter.
+
+*Posisjonstid:* Den tid personell tjenestegjør i operativ posisjon.
+
+*Praksisinstruktør (OJTI) (on-the-job training instructor):* Lufttrafikktjenestepersonell som har gyldig autorisasjon til å utøve praktisk opplæring i flygekontrolltjeneste eller flygeinformasjonstjeneste.
+
+*Psykoaktivt stoff (psychoactive drugs):* En substans som påvirker hjernen og endrer oppførselen på en måte som ikke er forenelig med flysikkerhet.
+
+*Reservekraft* – Alternativ kraftkilde som leverer kraft når hovedkraft faller ut.
+
+*Rettighet (rating):* En påskrift i et flygeledersertifikat, eller en del av et slikt sertifikat, som angir på hvilke vilkår og eventuelt med hvilke begrensninger sertifikatet kan benyttes.
+
+*Sektor (sector):* En definert del av et kontrollområde, en kontrollsone eller et manøvreringsområde der det ytes flygekontrolltjeneste.
+
+*Terminalområde (TMA) (terminal control area):* Et kontrollområde, vanligvis etablert der flere ATS-ruter løper sammen i nærheten av en eller flere større flyplasser.
+
+*Tjenesteleverandør (service provider):* En godkjent organisasjon som driver lufttrafikktjeneste ved en eller flere lufttrafikktjenesteenheter.
+
+*Trafikkinformasjonsområde (TIA) (Traffic Information Area):* Et ikke-kontrollert luftrom av bestemte dimensjoner som strekker seg oppover fra en angitt høyde over havflaten til et angitt flygenivå eller en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjeneste av en ATS-enhet.
+
+*Trafikkinformasjonssone (TIZ) (Traffic Information Zone):* Et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra jordoverflaten til en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjeneste av en ATS-enhet.
+
+*Tårnkontrolltjeneste (aerodrome control service):* Flygekontrolltjeneste for lokaltrafikk.
+
+*VFR (visual flight rules):* Betegnelse for de visuelle flygeregler.
+
+*VFR-flyging (VFR flight):* Flyging utført i samsvar med de visuelle flygeregler.
+
+*VFR-forhold (visual meteorological conditions):* Værforhold uttrykt i sikt, avstand fra skyer og skydekkehøyde, som er lik eller bedre enn angitte minstekrav.
 
 > Vedlegg 1 endret ved [forskrifter 19 des 2008 nr. 1576](forskrift/2008-12-19-1576) (i kraft 1 feb 2009), [15 mai 2009 nr. 521](forskrift/2009-05-15-521) (i kraft 1 juni 2009), [27 juni 2011 nr. 686](forskrift/2011-06-27-686) (i kraft 1 juli 2011).
 
@@ -195,11 +295,17 @@ For denne forskrift menes med:
 
 ## Vedlegg 3. Krav til personell
 
+1\. *AFIS/HFIS-fullmektig*
+
 Operativ leder skal forvisse seg om at en AFIS-fullmektig som utøver tjeneste ved vedkommende enhet til enhver tidinnehar gyldig autorisasjonsbevis og enhetsspesifikk autorisasjon i samsvar med den tjeneste som skal ytes, jf. [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS,innehar gyldig legeattest i samsvar med den til enhver tid gjeldende forskrift,er kompetent til å utøve den tjeneste som fremgår av vedkommendes autorisasjonsbevis og enhetsspesifikke autorisasjon.
+
+2\. *Annet personell i lufttrafikktjenesten (for flygeledere gjelder bestemmelser i forskrift om utdanning og sertifisering av flygeledere)*
 
 (1) Ansvarshavende skal forvisse seg om at annet personell i lufttrafikktjenesten har nødvendige kvalifikasjoner for den tjeneste de blir satt til å utøve.
 
 (2) Dersom slikt personell skal ta selvstendige avgjørelser som kan ha betydning for flysikkerheten må det foreligge godkjennelse fra Luftfartstilsynet.
+
+3\. *Praksisinstruktører (OJTI) for lufttrafikktjenestepersonell (for flygeledere gjelder bestemmelser i forskrift om utdanning og sertifisering av flygeledere)*
 
 (1) En praksisinstruktørautorisasjon gis for inntil 3 år. Autorisasjonen kan fornyes.
 
@@ -215,6 +321,8 @@ Operativ leder skal forvisse seg om at en AFIS-fullmektig som utøver tjeneste v
 
 ## Vedlegg 4. Program for overførings- og vedlikeholdstrening
 
+1\. *Krav til treningsperiodens varighet for lufttrafikktjenestepersonell under overføringstrening*
+
 Med overføringstrening forstås den opplæring og trening som er nødvendig når autorisert personell flytter fra en enhet til en annen eller internt ved en enhet for å oppnå en ny autorisasjon. All trening skal foregå under overvåking av en autorisert praksisinstruktør.
 
 (1) Ved trening som skal føre fram til ny enhetsspesifikk autorisasjon for lokal flygeinformasjonstjeneste (AFIS eller HFIS), skal opplæringstiden være minst tilsvarende 1 måned normal arbeidstid.
@@ -222,6 +330,8 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 (2) Dersom trening som skal føre fram til ny enhetsspesifikk autorisasjon inkluderer bruk av overvåkingsinformasjon, skal opplæringstiden være:minst 2 måneder normal arbeidstid for lokal flygeinformasjonstjeneste forutsatt tidligere autorisasjon for detteminst 3 måneder normal arbeidstid for lokal flygeinformasjonstjeneste ved førstegangsoppnåelse av slik autorisasjon.
 
 (3) Kravene til opplæringstidens varighet relaterer seg til operativt arbeid.
+
+2\. *Krav til program for regelmessig oppdatering og vedlikehold av teoretiske kunnskaper og praktiske ferdigheter (PFO) for lufttrafikktjenestepersonell (for flygeledere gjelder bestemmelser i forskrift om utdanning og sertifisering av flygeledere)*
 
 (1) Programmet skal beskrive gjennomføring av årlige prosedyrer for oppdatering og vedlikehold av teoretiske kunnskaper og praktiske ferdigheter.
 
@@ -243,9 +353,13 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 
 ## Vedlegg 6. Sertifikat, rettigheter og autorisasjoner mv. for lufttrafikktjenestepersonell (kun pkt. 1 gjelder for flygeledere)
 
+1\. *Generelt*
+
 (1) Yter av lufttrafikktjeneste skal ha utarbeidet dokumentasjon som beskriver de sektorer og kontroll- eller flygeinformasjonsposisjoner som yter av lufttrafikktjeneste er ansvarlig for. Dokumentasjonen skal beskrive de autorisasjoner som dekker de forskjellige sektorer og posisjoner.
 
 (2) Den enkelte lufttrafikktjenesteenhet skal ha utarbeidet dokumentasjon som til enhver tid beskriver de autorisasjoner enhetens personell innehar, i tillegg til oversikt over gyldige legeattester, personellets språkferdigheter og kvalifiserte praksisinstruktører.
+
+2\. *Førstegangsutstedelse av autorisasjonsbevis for AFIS/HFIS personell*
 
 (1) Førstegangs autorisasjonsprøve AFIS/HFIS gjennomføres i regi av Luftfartstilsynet, samtidig med enhetsspesifikk prøve.
 
@@ -255,11 +369,15 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 
 (4) Luftfartstilsynet oppnevner kontrollant som avholder prøven etter retningslinjer gitt av Luftfartstilsynet.
 
+3\. *Prosedyrer for avholdelse av enhetsspesifikke autorisasjonsprøver AFIS/HFIS*
+
 (1) Yter av lufttrafikktjeneste skal ha beskrevet et system for avholdelse av autorisasjonsprøver for det personell som har gjennomført og oppnådd tilfredsstillende resultater som beskrevet i enhetens treningsprogram. Det vises til [forskrift 19. desember 2008 nr. 1574](forskrift/2008-12-19-1574) om autorisasjon mv. for utøvelse av lokal flygeinformasjonstjeneste, AFIS og HFIS [§ 14](forskrift/2008-12-19-1574/§14).
 
 (2) Ved avholdelse av praktisk autorisasjonsprøve skal yter av lufttrafikktjeneste oppnevne en vakthavende AFIS/HFIS-fullmektig med gyldig praksisinstruktørautorisasjon som under autorisasjonsprøven er ansvarlig for den tjeneste som utøves.
 
 (3) Kandidater som fremstilles for praktisk autorisasjonsprøve skal før denne avholdes ha gjennomført teoretisk prøve med resultat i henhold til kravene i [forskrift 25. oktober 2003 nr. 1302](forskrift/2003-10-25-1302) om utdanningsorganisasjoner for flygeinformasjonstjenestepersonell.
+
+4\. *Vedlikehold av autorisasjoner*
 
 (1) Yter av lufttrafikktjeneste skal ha etablert et system for registrering av den enkeltes tid i operativ posisjon knyttet til vedkommende autorisasjon(er).
 
@@ -274,6 +392,8 @@ Med overføringstrening forstås den opplæring og trening som er nødvendig nå
 (6) Yter av lufttrafikktjeneste skal sørge for at autorisert personell har gjennomgått og bestått program for periodisk faglig oppdatering (PFO).
 
 (7) Krav til vedlikehold av autorisasjon som Praksisinstruktør framgår av vedlegg 3 [punkt](forskrift/2003-11-11-1345/kap3) 3 (5).
+
+5\. *Suspensjon av autorisasjon*
 
 (1) Dersom yter av lufttrafikktjeneste etter uttalelse fra lege antar at sykdom vil kunne ha innflytelse på personellets utøvelse av tjeneste, skal vedkommende autorisasjon suspenderes. Saken skal i slike tilfeller fremstilles for Luftfartstilsynet ved flymedisinsk seksjon snarest mulig. Suspensjonen gjelder inntil Luftfartstilsynet ved flymedisinsk seksjon har avklart om de medisinske krav er oppfylt og vedkommende tilfredsstiller krav til gyldig legeattest.
 

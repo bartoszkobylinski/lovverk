@@ -302,6 +302,39 @@ Utdanning fra universitet eller annen høyskole som går inn under [lov om unive
 
 Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være *bestått / ikke bestått* eller en gradert skala med fem trinn fra *A* til *E* for bestått og *F* for ikke bestått. Den graderte skalaen har følgende verdier:
 
+*Bokmål*
+
+| *Symbol* | *Betegnelse* | *Generell, kvalitativ beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon som ligger over gjennomsnittet. Viser evne til selvstendighet. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
+
+*Nynorsk*
+
+| *Symbol* | *Nemning* | *Generell, kvalitativ omtale av vurderingskriterium* |
+| --- | --- | --- |
+| A | Framifrå | Ein framifrå prestasjon som skil seg klart ut. Syner stor grad av sjølvstende. |
+| B | Mykje god | Ein mykje god prestasjon som ligg over gjennomsnittet. Syner evne til sjølvstende. |
+| C | God | Ein gjennomsnittleg prestasjon som er tilfredsstillande på dei fleste områda. |
+| D | Nokså god | Ein prestasjon under gjennomsnittet, med ein del vesentlege manglar. |
+| E | Tilstrekkeleg | Ein prestasjon som tilfredsstiller minstekrava, men heller ikkje meir. |
+| F | Ikkje greidd | Ein prestasjon som ikkje tilfredsstiller minstekrava. |
+
+*Engelsk*
+
+| *Grade* | *Grade* | *Definition* |
+| --- | --- | --- |
+| A | Excellent | An excellent performance, clearly outstanding. Shows a high degree of independence. |
+| B | Very good | A very good performance, above average. Shows a certain degree of independence. |
+| C | Good | An average performance, satisfactory in most areas. |
+| D | Satisfactory | A performance below average, and with significant shortcomings. |
+| E | Sufficient | A performance that meets the minimum criteria. |
+| F | Fail | A performance that does not meet the minimum criteria. |
+
 ### § 29. Vekting, gjennomsnitts- og hovedkarakter
 
 (1) Den enkelte karakter gis en vekting ved utregning av en gjennomsnittskarakter i et emne, eller i forbindelse med utregning av hovedkarakter. Vekten skal angis i studieplanen som en brøk av den samlede karakteren.

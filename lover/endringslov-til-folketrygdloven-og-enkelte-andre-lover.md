@@ -26,6 +26,10 @@ eu_basis: []
 
 I [lov 28. februar 1997 nr. 19](lov/1997-02-28-19) om folketrygd gjøres følgende endringer:
 
+[§ 12-15](lov/1997-02-28-19/§12-15) andre ledd andre punktum oppheves. Nåværende tredje punktum blir andre punktum.
+
+– – –
+
 ## V
 Ikrafttredelse. Overgangsregler.
 
@@ -39,3 +43,8 @@ Ikrafttredelse. Overgangsregler.
 8. Departementet kan gi forskrifter om overgangsregler.
 
 > Endret ved lov [18 des 2020 nr. 138](lov/2020-12-18-138).
+
+1 Endringsloven del I, endringene i folketrygdlovens innholdsfortegnelse kapittel 1 og 11 og § 1-7, § 3-2, § 3-3, § 3-5, § 3-8, § 3-9, § 8-44, § 11-2, § 12-2, § 12-3, § 12-7, § 12-12, § 12-13, § 15-2, § 16-2, § 17-3, § 17-4, § 17-7, § 18-2, § 18-3, § 18-5, § 19-2, § 19-3, § 19-8, § 20-10 og § 22-8,
+del IV, endringene i lov [29. april 2005 nr. 21](lov/2005-04-29-21) om supplerande stønad til personar med kort butid i Noreg og
+del V nr. 6 til 8, trer i kraft 1. januar 2021 iflg. [res. 18 des 2020 nr. 2860](forskrift/2020-12-18-2860)),
+del I, endringen i folketrygdloven § 12-17 første ledd bokstav a trer i kraft 3. september 2021 iflg. res. [3 sep 2021 nr. 2663](forskrift/2021-09-03-2663).

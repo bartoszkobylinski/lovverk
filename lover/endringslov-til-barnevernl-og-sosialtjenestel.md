@@ -22,9 +22,13 @@ eu_basis: []
 
 # Lov om endringer i barnevernloven og sosialtjenesteloven mv. (saksbehandlingsregler for fylkesnemndene for barnevern og sosiale saker mv.)
 
+– – –
+
 ## III
 
 I [lov 17. juli 1992 nr. 100](lov/1992-07-17-100) om barneverntjenester (barnevernloven) gjøres følgende endringer: – – –
+
+[§ 9-3](lov/1992-07-17-100/§9-3) tredje ledd skal lyde:
 
 Fylkesnemnda avgjør kravet i de tilfelle det vedtak som gir grunnlag for plasseringen hører inn under fylkesnemndas myndighetsområde.
 
@@ -33,3 +37,7 @@ Fylkesnemnda avgjør kravet i de tilfelle det vedtak som gir grunnlag for plasse
 III-IX trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
 Kongen kan gi nærmere overgangsbestemmelser.
+
+1 Fra 1 jan 2007 for del III § 4-4 (4), § 4-15 (3) siste punktum, § 4-19 og [§ 4-21](lov/1992-07-17-100/§4-21) (2) iflg. [res. 1 des 2006 nr. 1332](forskrift/2006-12-01-1332).
+Fra 1 jan 2008 for del III § 4-6 (2) annet punktum, § 4-6 (4), § 4-9 (1) annet punktum, [§ 4-9](lov/1992-07-17-100/§4-9) (3) , [§ 6-9](lov/1992-07-17-100/§6-9) (2) og del IV til og med del IX iflg. [res. 30 nov 2007 nr. 1348](forskrift/2007-11-30-1348).
+Fra 1 jan 2008 for del III barnevernloven for så vidt gjelder endringene i [barnevernloven kapittel 7](lov/1992-07-17-100/kap7) iflg. [res. 21 des 2007 nr. 1575](forskrift/2007-12-21-1575)

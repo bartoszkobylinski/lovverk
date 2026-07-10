@@ -460,6 +460,8 @@ Når vilkårene etter første ledd er oppfylt, fastsettes erstatningen for tap i
 
 Kongen fastsetter ved forskrift hva som regnes som igangværende bruk for virksomhet i henhold tilutvinningstillatelse etter [lov 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet (petroleumsloven),utmål etter [lov 30. juni 1972 nr. 70](lov/1972-06-30-70) om bergverk (bergverksloven)1,[mineralloven](lov/2009-06-19-101).
 
+1 Inkurie: Loven er opphevet, se [mineralloven](lov/2009-06-19-101).
+
 ### § 51. (fremgangsmåten ved fastsetting av erstatning)
 
 Staten skal senest ett år etter at vernevedtaket ble truffet, gi tilbud om erstatning etter [§ 50](lov/2009-06-19-100/§50) til en eier eller rettighetshaver som har fremsatt skriftlig krav om dette innen fire måneder fra vernevedtaket. Departementet kan forlenge fristen og kan også gi oppfriskning for oversittelse av fristen. Bestemmelser i [lov 17. juni 2005 nr. 90](lov/2005-06-17-90) om mekling og rettergang i sivile tvister (tvisteloven) om oppfriskning gjelder så langt de passer.
@@ -720,6 +722,8 @@ Dersom en overtredelse av en eller flere av bestemmelsene som nevnt i første le
 
 Loven gjelder fra den tid Kongen bestemmer.1 Kongen kan fastsette at loven skal tre i kraft til forskjellig tid for forskjellige bestemmelser eller forskjellige grupper av organismer.
 
+1 Fra 1 juli 2009 iflg. [res. 19 juni 2009 nr. 704](forskrift/2009-06-19-704) med unntak av kapittel IV og § 78 nr. 7, endringene i [viltloven § 26](lov/1981-05-29-38/§26) nr. 9 og [§ 47](lov/1981-05-29-38/§47), nr. 8, endringene i lakse- og [innlandsfiskeloven § 8](lov/1992-05-15-47/§8) og [§ 9](lov/1992-05-15-47/§9) og nr. [15](lov/1992-05-15-47/§15), endringen i havressursloven [§ 7](lov/1992-05-15-47/§7). Ved [res. 7 jan 2011 nr. 10](forskrift/2011-01-07-10) er nr. 15, endringen i [havressursloven § 7](lov/2008-06-06-37/§7), satt ikr. 1 feb 2011. Ved [res. 25 jan 2013 nr. 72](forskrift/2013-01-25-72) er § 28, § 30, § 31 og § 32 satt ikr. 1 juli 2012 for utenlandske treslag. Ved res. 18 des 2015 nr. 1583 er kapittel IV samt [§ 78](lov/2009-06-19-100/§78) nr. 8 og den delen av [§ 78](lov/2009-06-19-100/§78) nr. 7 som gjelder oppheving av viltloven [§ 47](lov/2009-06-19-100/§47) satt ikr. 1 jan 2016.
+
 ### § 77. (overgangsbestemmelser)
 
 Beslutninger om delegering av myndighet, forskrifter eller enkeltvedtak med hjemmel i bestemmelser som oppheves eller endres ved denne loven, står fortsatt ved lag inntil Kongen bestemmer annet. [§§ 47](lov/2009-06-19-100/§47) og [48](lov/2009-06-19-100/§48) gjelder også for eldre vernevedtak. [§ 34](lov/2009-06-19-100/§34) fjerde ledd og [§ 36](lov/2009-06-19-100/§36) annet ledd gjelder også for eldre vedtak om oppretting av verneområder. For en eier eller rettighetshaver som har fått områder vernet som nasjonalpark eller landskapsvernområde og der den ordinære fristen for å fremsette krav om erstatning ikke har gått ut 1. januar 2002, reguleres spørsmålet om erstatning av [§§ 50](lov/2009-06-19-100/§50) og [51 i](lov/2009-06-19-100/§51) denne lov. Kongen kan gi forskrifter med overgangsbestemmelser for tilpasning fra tidligere lovgivning til loven her.
@@ -729,3 +733,11 @@ Vedtak om delegering av myndighet til kommuner som er fattet før ikraftsetting 
 > Endret ved [lover 14 juni 2013 nr. 51](lov/2013-06-14-51) (ikr. 1 juli 2013 iflg. [res. 14 juni 2013 nr. 674](forskrift/2013-06-14-674)), [28 mars 2014 nr. 9](lov/2014-03-28-9) (ikr. 1 juni 2014 iflg. [res. 28 mars 2014 nr. 371](forskrift/2014-03-28-371)), [6 des 2024 nr. 74](lov/2024-12-06-74) (i kraft 1 jan 2025 iflg. [res. 6 des 2024 nr. 2938](forskrift/2024-12-06-2938)).
 
 ### § 78. (endringer i andre lover)
+
+– – –
+
+**7.** [Lov 29. mai 1981 nr. 38](lov/1981-05-29-38) om viltet endres slik:
+
+[§ 26](lov/1981-05-29-38/§26) nr. --- 9 oppheves.
+
+– – –

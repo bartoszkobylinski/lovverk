@@ -24,6 +24,8 @@ eu_basis: []
 
 Delegering av Kongens myndighet på Helse- og omsorgsdepartementets område til Helse- og omsorgsdepartementet for å gjøre tekniske og begrepsmessige forskriftsendringer som er nødvendig som følge av ikraftsetting av [lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven), i samsvar med vedlagte liste over aktuelle lover.
 
+*Liste over lover hvor Kongens myndighet på Helse- og omsorgsdepartementets område delegeres til Helse- og omsorgsdepartementet for å gjøre tekniske og begrepsmessige forskriftsendringer som er nødvendig som følge av ikraftsetting av [lov 24. juni 2011 nr. 30](lov/2011-06-24-30) om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven)*
+
 1. [Lov 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet (atomenergiloven)
 2. [Lov 9. februar 1973 nr. 6](lov/1973-02-09-6) om transplantasjon, sykehusobduksjon og avgivelse av lik m.m. (transplantasjonsloven)
 3. [Lov 13. juni 1975 nr. 50](lov/1975-06-13-50) om svangerskapsavbrudd (abortloven)

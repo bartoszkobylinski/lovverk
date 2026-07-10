@@ -66,6 +66,8 @@ Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.
 
 Fra samme tid oppheves [lov 22. juni 1928 nr. 27](lov/1928-06-22-27) om landets kornforsyning.
 
+1 Loven trådte ikr. 1 juli 2000 iflg. [res. 21 jan 2000 nr. 95](forskrift/2000-01-21-95).
+
 ## § 9. Endringer i andre lover
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

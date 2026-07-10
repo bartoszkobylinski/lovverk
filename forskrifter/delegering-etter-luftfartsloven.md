@@ -26,7 +26,11 @@ eu_basis: []
 
 Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 101](lov/1993-06-11-101) til Luftfartstilsynet for så vidt gjelder:
 
+*Kapittel II. Alminnelige bestemmelser*
+
 - § 2-2 første ledd nr. 3 om å gi særskilt tillatelse til luftfart for fartøy som ikke har norsk nasjonalitet.
+
+*Kapittel III. Registrering, nasjonalitet og merking. Rettigheter i luftfartøyer m.m.*
 
 - § 3-1 første ledd om å føre register over norske fartøyer,
 - § 3-2 annet ledd om dispensasjon fra nasjonalitetskravet ved registrering – når selskapet har både lisens og driftstillatelse,
@@ -36,6 +40,8 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 - § 3-16 tredje ledd om merking av luftfartøyer og
 - § 3-41 første ledd om forskriftskompetanse til gjennomføring av reglene i lovens kap. III.
 
+*Kapittel IV. Luftdyktighet og miljødyktighet*
+
 - § 4-1 om luft- og miljødyktighet,
 - § 4-3 første ledd tredje punktum om utstedelse og fornyelse av luftdyktighets- og miljøbevis,
 - § 4-5 tredje ledd om ugyldighet,
@@ -44,9 +50,13 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 - § 4-9 om unntak og
 - § 4-10om særskilt godkjenning,om suspensjon og tilbakekall av flytekniske sertifikater.
 
+*Kapittel V. Bemanning*
+
 - § 5-1 annet ledd om bemanning,
 - § 5-3 om krav til tjenestegjørende på luftfartøy og
 - § 5-4 første ledd om sertifikat for tjeneste på luftfartøy.
+
+*Kapittel VII. Landingsplasser og bakketjeneste*
 
 - § 7-1 om landingsplass,
 - § 7-3 om regulering av lufttrafikken,
@@ -61,9 +71,13 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 
 > Endret ved [forskrift 5 des 2001 nr. 1342](forskrift/2001-12-05-1342) (i kraft 1 jan 2002).
 
+*Kapittel VIII. Ervervsmessig luftfartsvirksomhet m.m.*
+
 - § 8-8 første ledd om å treffe vedtak om driftstillatelser samt bestemme at slik tillatelse skal kreves ved ikke ervervsmessig virksomhet, § 8-8 jf. § 8-3 tredje ledd om dispensasjon fra nasajonalitetskravet, begrenset til tilfeller hvor selskapet både har lisens og driftstillatelse,
 - § 8-9 om adgang til å overlate luftfartøy mv. til en annen og
 - § 8-10 forskriftsfullmakt vedrørende formidling av rutefart og overbooking – § 8-10 jf. § 8-7 ([vedtak av 23. mars 1994 nr. 228](forskrift/1994-03-23-228) om delegering av myndighet til Luftfartsverket etter EØS-avtalen).
+
+*Kapittel IX. Bestemmelser om lufttrafikk m.m.*
 
 - § 9-1 om lufttrafikk og operative forhold,
 - § 9-2 om fastsettelse av flygeveier mv.,
@@ -73,14 +87,22 @@ Samferdselsdepartementet delegerer sin myndighet etter [lov 11. juni 1993 nr. 10
 - § 9-7 om krav til dokumenter mv. for tjenestegjørende ombord på luftfartøy,
 - § 9-8 om undersøkelsesrett i luftfartøy (gitt at det er Luftfartstilsynet og ikke andre myndigheter som må anses som «vedkommende myndighet»).
 
+*Kapittel XIII. Forskjellige bestemmelser*
+
 - § 13-21 annet ledd nr. 2 og 3 om tilbakeholdsrett av luftfartøyer m.v.
 - § 13-3 om oppbevaring av drivstoff mv.
 
 > Endret ved [forskrift 5 des 2001 nr. 1342](forskrift/2001-12-05-1342) (i kraft 1 jan 2002).
 
+1 Jf. [forskrift av 10. desember 1999 nr. 1272](forskrift/1999-12-10-1272) om hvem som er luftfartsmyndighet etter luftfartsloven.
+
+*Kapittel XV. Gjennomføringsbestemmelser*
+
 - § 15-1 første og annet ledd om luftfart av særlig art,
 - § 15-2 første og tredje ledd vedrørende art. 83 bis og
 - § 15-4 forskriftsfullmakt for såvidt angår de saksområder som forestås av Luftfartstilsynet.
+
+*Kapittel XVI. EØS-regler*
 
 - § 16-1: Delegering av myndighet til å håndheve [forskrift av 15. juli 1994 nr. 691](forskrift/1994-07-15-691) om gjennomføring og håndheving av EØS-avtalen på luftfartens område etter [forskrift 15. juli 1994 nr. 805](forskrift/1994-07-15-805).
 

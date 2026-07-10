@@ -422,4 +422,6 @@ Fristen for å klage er 3 uker fra det tidspunkt underretning om vedtaket er kom
 
 ### § 7-1. Ikrafttredelse
 
+Forskriften gjelder fra og med 1. mars 2019 for grader, studier og eksamener ved Oslo Nye Høyskole og erstatter [forskrift 16. juni 2014 nr. 1015 om opptak, studier og eksamen ved Bjørknes Høyskole](forskrift/2014-06-16-1015).
+
 > Endret ved forskrifter [25 juni 2021 nr. 3078](forskrift/2021-06-25-3078), [1 des 2022 nr. 2188](forskrift/2022-12-01-2188) (tidligere § 6-1).

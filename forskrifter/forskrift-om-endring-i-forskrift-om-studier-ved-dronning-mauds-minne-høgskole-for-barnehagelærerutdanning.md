@@ -24,9 +24,17 @@ eu_basis: []
 
 ## I
 
+I [forskrift 28. april 2015 nr. 440 om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning](forskrift/2015-04-28-440) gjøres følgende endringer:
+
+[§ 5-17 fjerde ledd](forskrift/2015-04-28-440/§5-17/ledd/4) skal lyde:
+
 (4) Studenten har adgang til å møte i nemnd for studentsaker for å belyse sin sak ved ordinær behandling.
 
-Høgskolens nemnd for studentsaker avgjør:klager over enkeltvedtak i henhold til denne forskrift, der ikke annet er angittklager på formelle feil ved praksisklager på formelle feil ved eksamensaker med mistanke om fusk eller forsøk på fusksaker med merknad på politiattestvedtak om skikkethet.
+[§ 6-2](forskrift/2015-04-28-440/§6-2) overskriften skal lyde:
+
+[§ 8-2](forskrift/2015-04-28-440/§8-2) skal lyde:
+
+[§ 8-3 andre ledd](forskrift/2015-04-28-440/§8-3/ledd/2) skal lyde:
 
 (2) Endelig vedtak om skikkethet fattes av nemnd for studentsaker.
 

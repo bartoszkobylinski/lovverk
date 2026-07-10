@@ -257,6 +257,8 @@ Retten til å utøve persontransport etter første ledd kan begrenses dersom tra
 
 > Endret ved [lover 16 des 2016 nr. 102](lov/2016-12-16-102) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1589](forskrift/2016-12-16-1589)), [11 juni 2021 nr. 87](lov/2021-06-11-87) (ikr. 11 juni 2021 iflg. [res. 11 juni 2021 nr. 1871](forskrift/2021-06-11-1871)).
 
+1 Inkurie: Skal vel være "departementet kan".
+
 ## Kapittel IIA. Konkurranse om avtaler om persontransport med jernbane
 
 > Kapitlet med [§ 8a](lov/1993-06-11-100/§8a) til [§ 8](lov/1993-06-11-100/§8)f tilføyd ved [lov 10 juni 2005 nr. 55](lov/2005-06-10-55) (ikr. 1 juli 2005 iflg. [res. 10 juni 2005 nr. 547](forskrift/2005-06-10-547)).
@@ -443,6 +445,8 @@ Den som uaktsomt eller forsettlig overtrer forbudet i [§§ 3 a](lov/1993-06-11-
 2. Fra samme tid oppheves følgende lover og bestemmelser: – – –
 
 > Endret ved [lov 15 juni 2001 nr. 84](lov/2001-06-15-84), tidligere § 15.
+
+1 Fra 1 juli 1993 iflg. [res. 11 juni 1993 nr. 522](forskrift/1993-06-11-522).
 
 ### § 24. (Overgangsordninger)
 

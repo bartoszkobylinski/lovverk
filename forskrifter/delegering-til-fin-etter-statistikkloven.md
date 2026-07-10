@@ -24,4 +24,24 @@ eu_basis: []
 
 Kongens myndighet etter følgende paragrafer i lov om offisiell statistikk og statistisk Sentralbyrå (statistikkloven) delegeres til Finans- og tolldepartementet.
 
+§ 2-1beslutning om utarbeidelse av offisiell statistikk.
+
+§ 2-2 første leddved forskrift eller enkeltvedtak pålegge enhver å gi de opplysninger som er nødvendige for utarbeidelse av offisiell statistikk så langt lovbestemt taushetsplikt ikke er til hinder for dette.
+
+§ 2-3nærmere regler om tvangsmulkt.
+
+§ 3-2 tredje leddnærmere bestemmelser om praktisering av reglene om administrative datasystemer.
+
+§ 3-3 annet leddbestemmelse om at offentlige forskningsinstitutter skal regnes som forvaltningsorgan i forhold til bestemmelsene om samordning av statistikk.
+
+§ 4-1 annet leddforskrift om (styrets) og administrerende direktørs oppgaver.
+
+§ 4-2 annet leddoppnevning av styrets leder, dets nestleder og 5 ordinære medlemmer med varamedlemmer for en periode av 4 år.
+
+§ 5-2 forskrift om gjennomføring og utfyllling av loven.
+
+§ 6-1 første leddikrafttredelse
+
+§ 6-1 fjerde leddbestemmelse om at lovens regler om varighet og opphør av taushetsplikt for opplysninger også skal gjelde for opplysninger om større administrative datasystemer.
+
 Det departement som Statistisk Sentralbyrå etter loven § 4-1 er underlagt skal være Finans- og tolldepartementet.

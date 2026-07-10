@@ -24,9 +24,19 @@ eu_basis: []
 
 ## I
 
+I [forskrift 3. juni 2024 nr. 900 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsforskrifta)](forskrift/2024-06-03-900) blir det gjort følgjande endringar:
+
+[§ 9-9 femte ledd](forskrift/2024-06-03-900/§9-9/ledd/5) skal lyde:
+
 Kommunen og fylkeskommunen skal sørgje for at fråvær blir dokumentert kvart halvår. Dersom eleven er hos skolehelsetenesta, skal det ikkje bli rekna som fråvær frå opplæringa etter [kapittel 9](forskrift/2024-06-03-900/kap9) i denne forskrifta.
 
+[§ 23-9](forskrift/2024-06-03-900/§23-9) blir oppheva.
+
 ## II
+
+I [forskrift 3. juni 2024 nr. 901 til privatskolelova (privatskoleforskrifta)](forskrift/2024-06-03-901) blir det gjort følgjande endring:
+
+[§ 6-9 femte ledd](forskrift/2024-06-03-901/§6-9/ledd/5) skal lyde:
 
 Skolen skal dokumentere fråvær kvart halvår. Dersom eleven er hos skolehelsetenesta, skal det ikkje bli rekna som fråvær frå opplæringa etter [kapittel 6](forskrift/2024-06-03-901/kap6) i denne forskrifta.
 

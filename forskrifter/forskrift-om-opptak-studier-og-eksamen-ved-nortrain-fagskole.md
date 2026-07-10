@@ -121,7 +121,16 @@ eu_basis: []
 
 ### § 4-2. Karakterer og vitnemål
 
-(1) Skolen benytter følgende karakterskala:AFremragendeFremragende prestasjon som klart utmerker seg. Studenten viser stor grad av selvstendighet.BMeget godtMeget god prestasjon som ligger over gjennomsnittet. Studenten viser evne til selvstendighet.CGodGjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder.DNokså godPrestasjon som er under gjennomsnittet, med en del vesentlige mangler.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene.
+(1) Skolen benytter følgende karakterskala:
+
+|  |  |  |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Studenten viser stor grad av selvstendighet. |
+| B | Meget godt | Meget god prestasjon som ligger over gjennomsnittet. Studenten viser evne til selvstendighet. |
+| C | God | Gjennomsnittlig prestasjon som er tilfredsstillende på de fleste områder. |
+| D | Nokså god | Prestasjon som er under gjennomsnittet, med en del vesentlige mangler. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller minimumskravene. |
 
 (2) Vurderingen «bestått»/«ikke bestått» benyttes i enkelte emner samsvar med skolens NOKUT-godkjenning. Hvilke emner som vurderes til «bestått»/«ikke bestått» fremgår av studieplanen.
 

@@ -92,24 +92,40 @@ Denne forskrift trer i kraft 3. august 2003. Samtidig oppheves [forskrift av 20.
 
 ## Vedlegg I. Spesifikke krav til sammensetning av sjokoladeproduktene
 
+*A. Definisjoner og varebetegnelser*
+
+*1. Kakaosmør*: fettstoff fremstilt av kakaobønner eller deler av kakaobønner med følgende kjennetegn:
+
 - innhold av frie fettsyrer (uttrykt som oleinsyre): maksimum 1,75%
 - innhold av stoffer som ikke forsåpes, bestemt ved ekstraksjon av petroleumseter: maksimum 0,5% bortsett fra presset kakaosmør, hvor innholdet ikke må overstige 0,35%.
+
+*2.*
 
 1. *Kakaopulver, kakao:* et produkt som er bearbeidet til pulver fra kakaobønner, etter at disse er renset, avskallet og brent. Pulveret skal innholdet minst 20% kakaosmør beregnet i forhold til vekten av tørrstoffet og maksimum 9% vann*.*
 2. *Fettredusert kakao, fettredusert kakaopulver:* kakaopulver som inneholder mindre enn 20% kakaosmør beregnet i forhold til vekten av tørrstoffet.
 3. *Sjokoladepulver:* et produkt bestående av en blanding av kakaopulver og sukker slik at innholdet av kakaopulver blir på minst 32%.
 4. *Drikkesjokolade, sukret kakao, sukret kakaopulver:* et produkt som består av en blanding av kakaopulver og sukker med innhold av kakaopulver på minst 25%, disse betegnelsene skal suppleres med «fettredusert» når produktet er fettredusert i henhold til pkt. 2 bokstav b.
 
+*3. Mørk sjokolade*
+
 1. Et produkt fremstilt av kakaoprodukter og sukker, og som med forbehold av bokstav b inneholder minst 35% kakaotørrstoff, hvorav minst 14% avfettet kakaotørrstoff og minst 18% kakaosmør.
 2. Hvis det i tillegg til betegnelsen mørk sjokolade tilføyes følgende ord:dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 32% kakaotørrstoff i alt, hvorav minst 12% kakaosmør og minst 14% avfettet kakaotørrstoffovertrekk: skal produktet inneholde minst 35% kakaotørrstoff, hvorav minst 31% kakaosmør og minst 2,5% avfettet kakaotørrstoff«Gianduia» (eller et ord avledet av «giandua») nøttesjokolade: et produktet som for det første skal være fremstilt av mørk sjokolade, som inneholder minst 32% kakaotørrstoff, hvorav minst 8% avfettet kakaotørrstoff, og for det andre av finmalte hasselnøtter i slike mengder at 100 g av varen inneholder minst 20 g og maksimum 40 g hasselnøtter.Det kan videre tilsettes:melk og/eller tørrmelkepulver fremstilt ved dehydrering i et slikt forhold at det ferdige produktet maksimum inneholde 5% melketørrstoffhele eller hakkede mandler, hasselnøtter og andre nøtteslag i slike mengder, at de sammen med de fint knuste hasselnøttene utgjør maksimum 60% av produktets samlede vekt.
+
+*4. Melkesjokolade*
 
 1. Betegner et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter som – med unntak av bokstav b inneholder:minst 25% kakaotørrstoffminst 14% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefettminst 2,5% avfettet kakaotørrstoffminst 3,5% melkefettminst 25% fettstoffer totalt (kakaosmør og melkefett).
 2. Hvis betegnelsen melkesjokolade suppleres med:dryss eller flak: skal produktet i form av dryss eller flak inneholde minst 20% kakaotørrstoff og minst 12% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett hvor totalt innholde av fett er minst 12% (kakaosmør og melkefett).overtrekk: skal produktet inneholde minst 31% fett (kakaosmør og melkefett).«Gianduia» (eller et ord avledet av «gianduia») nøttesjokolade: skal produktet fremstilles av for det første melkesjokolade som inneholder minst 10% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett og for det andre av finmalte hasselnøtter i en slik mengde at 100 g av produktet inneholder minst 15 g og maksimum 40 g hasselnøtter. Det kan også tilsettes hele eller hakkede mandler, hasselnøtter og andre nøttesorter i slike mengder, at de sammen med de finmalte hasselnøtter utgjør maksimum 60% av produktets samlede vekt.
 3. Når i betegnelsen melkesjokolade ordet «melk» erstattes med:«fløte»: skal produktet inneholde minst 5,5% melkefett.«skummetmelk»: skal produktet inneholde maksimum 1% melkefett.
 
+*5. Lys melkesjokolade*
+
 Et produkt fremstilt av kakaoprodukter, sukker og melk eller melkeprodukter, som inneholder:minst 20% kakaotørrstoff,minst 20% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett,minst 2,5% avfettet kakaotørrstoff,minst 5% melkefett,minst 25% fettstoffer totalt (kakaosmør og melkefett).
 
+*6. Hvit sjokolade*
+
 Et produkt fremstilt av kakaosmør, melk eller melkeprodukter og sukker, som inneholder minst 20% kakaosmør og minst 14% melketørrstoff fremstilt ved hel eller delvis dehydrering av helmelk, lettmelk, skummetmelk, fløte, smør eller melkefett som inneholder minst 3,5% melkefett.
+
+*7. Fylt sjokolade*
 
 Et produkt som er overtrukket med et av de i punktene 3, 4, 5 og 6 definerte produkter.
 
@@ -117,22 +133,40 @@ Betegnelsen gjelder ikke produkter der den indre del består av fine bakervarer,
 
 Sjokoladen som den fylte sjokoladen er overtrukket med, skal utgjøre minst 25% av varens samlede vekt.
 
+*8. Chocolate a la taza*
+
 Et produkt fremstilt av kakaoprodukter og sukker i tillegg til mel eller stivelse av hvete, ris eller mais.
 
 Det skal inneholde minst 35% kakaotørrstoff, hvorav minst 18% kakaosmør og minst 14% avfettet kakaotørrstoff og maksimum 8% mel eller stivelse.
 
+*9. Chocolate familiar a la taza*
+
 Et produkt fremstilt av kakaoprodukter og sukker i tillegg til stivelse av hvete, ris eller mais. Det skal inneholde minst 30% kakaotørrstoff, hvorav minst 18% kakaosmør og minst 12% avfettet kakaotørrstoff og maksimum 18% mel eller stivelse.
 
+*10. Sjokoladekonfekt*
+
 Et produkt i munnfulls størrelse som består avfylt sjokolade ellerren sjokolade eller en blanding av sjokolade som definert i punktene 3, 4, 5 eller 6 og andre spiselige stoffer, forutsatt at sjokoladedelen utgjør minst 25% av produktets samlede vekt.
+
+*B. Ingredienser som kan inngå i kakao- og sjokoladeprodukter, krav til disse og begrensninger i bruk*
+
+*Valgfrie tillatte ingredienser*
+
+*1*. Med forbehold av bestemmelsene i [§ 3](forskrift/2002-09-09-986/§3) og vedlegg IB pkt. 2, kan også andre spiselige stoffer tilsettes i sjokoladeproduktene definert i vedlegg IA pkt. 3, 4, 5, 6, 8 og 9. Tilsetningen av:
 
 - animalske fettstoffer og tilberedninger av disse om ikke utelukkende stammer fra melk, er forbudt.
 - tilsetningen av mel eller stivelse er kun tillatt for produkter definert i vedlegg I pkt. 8 og 9.
 
 Mengden av disse tilsatte spiselige stoffene må ikke overstige 40% av det ferdige produktets samlede vekt.
 
+*2*. Kun aromaer, som ikke etterligner smaken av sjokolade eller melkefett kan tilsettes til de sjokoladeprodukter som er definert i vedlegg IA pkt. 2, 3, 4, 5, 6, 8, og 9
+
+*C. Beregning av prosenter*
+
 De minsteinnhold som er fastslått for produktene omtalt i vedlegg IA pkt. 3, 4, 5, 6, 8 og 9, beregnes etter fradrag av vekten av de valgfrie ingrediensene som er omtalt i vedlegg IB. Når det gjelder produktene omtalt i vedlegg IA, pkt. 7 og 10, skal minsteinnholdet beregnes etter fradrag av vekten av de valgfrie ingrediensene omtalt i vedlegg IB, samt vekten av fyllet.
 
 Andelen sjokolade i produktene som er definert i vedlegg IA pkt. 7 og 10, skal beregnes i forhold til produktets totale vekt, inklusive fyllet.
+
+*D. Former for sukker*
 
 Med sukker forstås også andre former for sukker enn de som omfattes av gjeldende forskrift om sukker og lignende produkter.
 
@@ -142,8 +176,19 @@ Med sukker forstås også andre former for sukker enn de som omfattes av gjelden
 
 De vegetabilske fettstoffene som er omtalt i [§ 3](forskrift/2002-09-09-986/§3), er ublandede eller blandede kakaosmørerstatninger og skal være i overensstemmelse med følgende kriterier:de er vegetabilske fettstoffer uten innhold av laurinsyre med stort innhold av symetriske monoumettede triglyserider av POP-, POSt- og StOSt-typen1de kan i hvilket som helst forhold blandes med kakaosmør og er forenlige med kakaosmørets fysiske egenskaper (smeltepunkt og krystalliseringstemperatur, smeltehastighet, behov for temperering)de fremstilles utelukkende ved raffinering og/eller fraksjonering. Enzymatisk endring av triglyseridstrukturen er ikke tillatt.
 
-I overensstemmelse med disse kriterier kan følgende vegetabilske fettstoffer utvunnet av planter angitt nedenfor anvendes:*De vegetabilske fettstoffers vanlige betegnelse**Vitenskapelig betegnelse for de plantene som fettstoffene kan utvinnes av*1. Illipesmør, borneotalg eller tengawangShorea spp.2. PalmeoljeElaeis guineensis/Elaeis olifera3. SalsmørShorea robusta4. SheasmørButyrospermum parkii5. KokumoljeGarcinia indica6. MangokjerneoljeMangifera indica
+I overensstemmelse med disse kriterier kan følgende vegetabilske fettstoffer utvunnet av planter angitt nedenfor anvendes:
+
+| *De vegetabilske fettstoffers vanlige betegnelse* | *Vitenskapelig betegnelse for de plantene som fettstoffene kan utvinnes av* |
+| --- | --- |
+| 1. Illipesmør, borneotalg eller tengawang | Shorea spp. |
+| 2. Palmeolje | Elaeis guineensis/Elaeis olifera |
+| 3. Salsmør | Shorea robusta |
+| 4. Sheasmør | Butyrospermum parkii |
+| 5. Kokumolje | Garcinia indica |
+| 6. Mangokjerneolje | Mangifera indica |
 
 Som unntak kan det tillates å bruke kokosolje til følgende formål: sjokolade til produksjon av spiseis og lignende frosne produkter.
 
 > Endret ved [forskrift 9 jan 2004 nr. 144](forskrift/2004-01-09-144).
+
+1 P (palmitinsyre), O (oljesyre), St (stearinsyre).

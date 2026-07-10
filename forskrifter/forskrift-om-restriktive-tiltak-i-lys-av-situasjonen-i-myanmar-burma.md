@@ -96,99 +96,103 @@ om restriktive tiltak i lys av situasjonen i Myanmar/Burma og opphevelse av foro
 
 I denne forordning menes med«krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende før eller etter datoen for denne forordnings ikrafttredelse, i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,«kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,«kompetente myndigheter»: medlemsstatenes kompetente myndigheter som angitt på nettsidene oppført i vedlegg II,«formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester,«frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,«frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,«penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev, ogdokumenter som viser eierandeler i penger eller finansielle ressurser,«faglig bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,«formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi som befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,«import»: innførsel av varer til EUs tollområde eller andre områder der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktatens artikkel 349 og 355. Det omfatter også, i henhold til europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*)1 om fastsettelse av Unionens tollkodeks, oppbevaring i frisone, oppbevaring i henhold til en særskilt prosedyre og frigivelse for fri omsetning, men ikke transitt eller midlertidig lagring,«eksport»: utførsel av varer fra EUs tollområde eller andre områder der traktaten kommer til anvendelse, på de vilkår som er fastsatt i traktatens artikkel 349 og 355. Det omfatter også, i henhold til forordning [(EU) nr. 952/2013](eu/32013r0952*), utførsel av varer som krever tolldeklarasjon, og utførsel av varer etter lagring i frisone eller etter oppbevaring i henhold til en særskilt prosedyre, men ikke transitt eller midlertidig lagring,«eksportør»: enhver fysisk eller juridisk person som en eksportdeklarasjon utstedes på vegne av, det vil si den som på det tidspunkt deklarasjonen godkjennes, har kontrakt med mottakeren i tredjelandet, og som har myndighet til å avgjøre at produktet skal føres ut av EUs tollområde eller andre områder der traktaten kommer til anvendelse,«EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom.
 
+1 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).
+
 ### KAPITTEL 1
 
 ### Artikkel 2
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr oppført i vedlegg I som kan brukes til intern undertrykking, enten det har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr oppført i vedlegg I som kan brukes til intern undertrykking, enten det har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
 
-2. Forbudet i nr. 1 får ikke anvendelse på vernetøy, herunder skuddsikre vester og hjelmer, som eksporteres midlertidig til Myanmar/Burma av FN-personell, personell fra EU eller EUs medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
+2\. Forbudet i nr. 1 får ikke anvendelse på vernetøy, herunder skuddsikre vester og hjelmer, som eksporteres midlertidig til Myanmar/Burma av FN-personell, personell fra EU eller EUs medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
 
 ### Artikkel 3
 
-1. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til militære aktiviteter eller til levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle slag, herunder våpen og ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter, særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av våpen og tilknyttet materiell, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
+1\. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til militære aktiviteter eller til levering, produksjon, vedlikehold og bruk av våpen og tilknyttet materiell av alle slag, herunder våpen og ammunisjon, militære kjøretøyer og militært og paramilitært utstyr, samt reservedeler til dette, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til militære aktiviteter, særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av våpen og tilknyttet materiell, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
 
-2. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til utstyr oppført i vedlegg I som kan brukes til intern undertrykking, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr oppført i vedlegg I, særlig tilskudd, lån og eksportkredittforsikring, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
+2\. Det er forbudtdirekte eller indirekte å yte faglig bistand knyttet til utstyr oppført i vedlegg I som kan brukes til intern undertrykking, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr oppført i vedlegg I, særlig tilskudd, lån og eksportkredittforsikring, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma.
 
 ### Artikkel 3a
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere flerbruksvarer og -teknologi oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*)2 enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom produktene helt eller delvis er eller kan være beregnet på militær bruk, militære sluttbrukere eller grensevakten.Dersom sluttbrukeren er Myanmar/Burmas militære, skal alle flerbruksvarer og all flerbruksteknologi som militæret anskaffer, anses å være beregnet på militær bruk.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere flerbruksvarer og -teknologi oppført i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*)2 enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom produktene helt eller delvis er eller kan være beregnet på militær bruk, militære sluttbrukere eller grensevakten.Dersom sluttbrukeren er Myanmar/Burmas militære, skal alle flerbruksvarer og all flerbruksteknologi som militæret anskaffer, anses å være beregnet på militær bruk.
 
-2. Når de kompetente myndigheter treffer beslutning om søknader om tillatelser i samsvar med forordning [(EF) nr. 428/2009](eu/32009r0428*), skal de ikke gi eksporttillatelse til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom de har rimelig grunn til å anta at sluttbrukeren kan være militær eller grensevakten, eller at varene kan være beregnet på militær sluttbruk.
+2\. Når de kompetente myndigheter treffer beslutning om søknader om tillatelser i samsvar med forordning [(EF) nr. 428/2009](eu/32009r0428*), skal de ikke gi eksporttillatelse til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Myanmar/Burma dersom de har rimelig grunn til å anta at sluttbrukeren kan være militær eller grensevakten, eller at varene kan være beregnet på militær sluttbruk.
 
-3. Eksportører skal gi de kompetente myndigheter alle relevante opplysninger som er nødvendige i forbindelse med deres søknad om eksporttillatelse.
+3\. Eksportører skal gi de kompetente myndigheter alle relevante opplysninger som er nødvendige i forbindelse med deres søknad om eksporttillatelse.
 
-4. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omtalt i nr. 1 eller til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi til militære sluttbrukere eller grensevakten eller til militær bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omtalt i nr. 1, særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi eller yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester til militære sluttbrukere eller grensevakten eller til militær bruk i Myanmar/Burma.
+4\. Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi omtalt i nr. 1 eller til levering, produksjon, vedlikehold og bruk av slike varer og slik teknologi til militære sluttbrukere eller grensevakten eller til militær bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi omtalt i nr. 1, særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike varer og slik teknologi eller yting av tilknyttet faglig bistand eller tilknyttede formidlingstjenester eller andre tjenester til militære sluttbrukere eller grensevakten eller til militær bruk i Myanmar/Burma.
 
-5. Forbudene i nr. 1 og 4 berører ikke oppfyllelse av kontrakter som er inngått før 27. april 2018, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+5\. Forbudene i nr. 1 og 4 berører ikke oppfyllelse av kontrakter som er inngått før 27. april 2018, eller tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
-6. Bestemmelsene i nr. 1 får ikke anvendelse på vernetøy, herunder skuddsikre vester og militærhjelmer, som eksporteres midlertidig til Myanmar/Burma av FN-personell, personell fra EU eller EUs medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
+6\. Bestemmelsene i nr. 1 får ikke anvendelse på vernetøy, herunder skuddsikre vester og militærhjelmer, som eksporteres midlertidig til Myanmar/Burma av FN-personell, personell fra EU eller EUs medlemsstater, representanter for mediene, humanitære hjelpearbeidere, bistandsarbeidere og tilknyttet personell, og som utelukkende er til deres personlige bruk.
+
+2 Rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om opprettelse av en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer (EUT L 134 av 29.5.2009, s. 1).
 
 ### Artikkel 3b
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare oppført i vedlegg III, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i eller til bruk i Myanmar/Burma, med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere utstyr, teknologi eller programvare oppført i vedlegg III, enten de har sin opprinnelse i EU eller ikke, til personer, enheter eller organer i eller til bruk i Myanmar/Burma, med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse.
 
-2. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, skal ikke gi tillatelse i henhold til nr. 1 dersom de har rimelig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Myanmar/Burmas regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
+2\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, skal ikke gi tillatelse i henhold til nr. 1 dersom de har rimelig grunn til å anta at utstyret, teknologien eller programvaren vil bli brukt av Myanmar/Burmas regjering, offentlige organer, foretak eller etater eller av personer eller enheter som handler på deres vegne eller på deres instruks, til intern undertrykking.
 
-3. Vedlegg III inneholder en liste over utstyr, teknologi eller programvare som primært er beregnet til bruk ved overvåking eller avlytting av Internett-forbindelser eller telekommunikasjon.
+3\. Vedlegg III inneholder en liste over utstyr, teknologi eller programvare som primært er beregnet til bruk ved overvåking eller avlytting av Internett-forbindelser eller telekommunikasjon.
 
-4. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, senest fire uker etter at tillatelsen er gitt.
+4\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til denne artikkel, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 3c
 
-1. Med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse i henhold til artikkel 3b, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg III eller til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg III eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg III til personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg III til personer, enheter eller organer i eller til bruk i Myanmar/Burma,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Myanmar/Burmas regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
+1\. Med mindre den aktuelle medlemsstatens kompetente myndighet, som angitt på nettsidene oppført i vedlegg II, har gitt forhåndstillatelse i henhold til artikkel 3b, er det forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til utstyr, teknologi og programvare oppført i vedlegg III eller til installering, levering, produksjon, vedlikehold og bruk av utstyr og teknologi oppført i vedlegg III eller til levering, installering, drift eller oppdatering av programvare oppført i vedlegg III til personer, enheter eller organer i eller til bruk i Myanmar/Burma,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til utstyr, teknologi og programvare oppført i vedlegg III til personer, enheter eller organer i eller til bruk i Myanmar/Burma,å yte enhver form for tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser, til eller til direkte eller indirekte fordel for Myanmar/Burmas regjering, offentlige organer, foretak eller etater eller til personer eller enheter som handler på deres vegne eller på deres instruks.
 
-2. Med «tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg III, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
+2\. Med «tjeneste som gjelder overvåking eller avlytting av telekommunikasjon eller Internett-forbindelser» i nr. 1 bokstav c) menes tjenester som, særlig ved hjelp av utstyr, teknologi eller programvare oppført i vedlegg III, gir tilgang til og utlevering av innholdet i en persons innkommende og utgående telekommunikasjon og trafikkdata med sikte på uttrekk, avkoding, opptak, behandling, analyse, lagring eller annen tilhørende aktivitet.
 
 ### Artikkel 4
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra forbudene i artikkel 2 nr. 1, artikkel 3 nr. 2 og artikkel 3a nr. 1 og 4, og med forbehold for artikkel 5, og gi tillatelse, på de vilkår de finner hensiktsmessige, tilsalg, levering, overføring eller eksport av utstyr oppført i vedlegg I som kan brukes til intern undertrykking, eller av flerbruksvarer og -teknologi oppført i vedlegg I til forordning [(EF) nr. 428/2009](eu/32009r0428*), som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs eller EUs krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av mineryddingsutstyr og materiell til bruk ved minerydding, ogyting av finansiering, finansiell bistand og faglig bistand knyttet til utstyr, materiell, programmer og operasjoner nevnt i bokstav a) og b).
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra forbudene i artikkel 2 nr. 1, artikkel 3 nr. 2 og artikkel 3a nr. 1 og 4, og med forbehold for artikkel 5, og gi tillatelse, på de vilkår de finner hensiktsmessige, tilsalg, levering, overføring eller eksport av utstyr oppført i vedlegg I som kan brukes til intern undertrykking, eller av flerbruksvarer og -teknologi oppført i vedlegg I til forordning [(EF) nr. 428/2009](eu/32009r0428*), som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging eller for FNs eller EUs krisehåndteringsoperasjoner,salg, levering, overføring eller eksport av mineryddingsutstyr og materiell til bruk ved minerydding, ogyting av finansiering, finansiell bistand og faglig bistand knyttet til utstyr, materiell, programmer og operasjoner nevnt i bokstav a) og b).
 
-2. Medlemsstatenes kompetente myndigheter, som oppført i vedlegg II, kan gjøre unntak fra forbudet i artikkel 3 nr. 1, og med forbehold for artikkel 5, og gi tillatelse, på de vilkår de finner hensiktsmessige, til yting av finansiering, finansiell bistand og faglig bistand knyttet tilikke-dødbringende militært materiell som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging,materiell bestemt til bruk for FNs eller EUs krisehåndteringsoperasjoner.
+2\. Medlemsstatenes kompetente myndigheter, som oppført i vedlegg II, kan gjøre unntak fra forbudet i artikkel 3 nr. 1, og med forbehold for artikkel 5, og gi tillatelse, på de vilkår de finner hensiktsmessige, til yting av finansiering, finansiell bistand og faglig bistand knyttet tilikke-dødbringende militært materiell som utelukkende er bestemt til humanitære formål eller beskyttelsesformål eller til bruk for FNs eller EUs programmer for institusjonsbygging,materiell bestemt til bruk for FNs eller EUs krisehåndteringsoperasjoner.
 
 ### Artikkel 4a
 
-1. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, skal fryses.
+1\. Alle penger og formuesgoder som tilhører eller eies, innehas eller kontrolleres av fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, skal fryses.
 
-2. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV.
+2\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV.
 
-3. Vedlegg IV omfatterfysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for alvorlige brudd på menneskerettighetene i Myanmar/Burma,fysiske og juridiske personer, enheter eller organer hvis handlinger, politikk eller aktiviteter undergraver demokratiet eller rettsstaten i Myanmar/Burma, eller som er involvert i eller støtter handlinger som truer freden, sikkerheten eller stabiliteten i Myanmar/Burma,fysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for å hindre levering av humanitær bistand til sivilpersoner som lider nød,fysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for å hindre uavhengige granskninger om angivelige alvorlige menneskerettsbrudd eller -overgrep,juridiske personer, enheter eller organer som eies eller kontrolleres av Myanmars væpnede styrker (Tatmadaw), eller som genererer inntekter for, støtter eller drar fordel av Myanmars væpnede styrker (Tatmadaw),fysiske eller juridiske personer, enheter eller organer som er tilknyttet personene, enhetene og organene omtalt i bokstav a)–e).
+3\. Vedlegg IV omfatterfysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for alvorlige brudd på menneskerettighetene i Myanmar/Burma,fysiske og juridiske personer, enheter eller organer hvis handlinger, politikk eller aktiviteter undergraver demokratiet eller rettsstaten i Myanmar/Burma, eller som er involvert i eller støtter handlinger som truer freden, sikkerheten eller stabiliteten i Myanmar/Burma,fysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for å hindre levering av humanitær bistand til sivilpersoner som lider nød,fysiske personer fra Myanmars væpnede styrker (Tatmadaw), Myanmars politistyrke og grensevakten som er ansvarlige for å hindre uavhengige granskninger om angivelige alvorlige menneskerettsbrudd eller -overgrep,juridiske personer, enheter eller organer som eies eller kontrolleres av Myanmars væpnede styrker (Tatmadaw), eller som genererer inntekter for, støtter eller drar fordel av Myanmars væpnede styrker (Tatmadaw),fysiske eller juridiske personer, enheter eller organer som er tilknyttet personene, enhetene og organene omtalt i bokstav a)–e).
 
-4. Vedlegg IV inneholder begrunnelsen for at de berørte personene, enhetene eller organene er listeført.
+4\. Vedlegg IV inneholder begrunnelsen for at de berørte personene, enhetene eller organene er listeført.
 
-5. Vedlegg IV inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+5\. Vedlegg IV inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene eller organene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 4b
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg IV og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer oppført i vedlegg IV og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter,utelukkende skal gå til betaling av rimelige honorarer eller refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder,er nødvendige for å dekke ekstraordinære utgifter, forutsatt at vedkommende kompetente myndighet minst to uker før tillatelsen gis, har underrettet de øvrige medlemsstatenes kompetente myndigheter og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse, ellerskal betales til eller fra kontoen til en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom betalingene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 4c
 
-1. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 4a ble oppført i vedlegg IV, eller for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før, på eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter, som angitt på nettsidene oppført i vedlegg II, kan gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en voldgiftsmessig avgjørelse fastsatt før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 4a ble oppført i vedlegg IV, eller for en rettslig eller administrativ avgjørelse fastsatt i EU eller en rettslig avgjørelse som er rettskraftig i den berørte medlemsstaten, før, på eller etter denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom eller anerkjent som gyldige i en slik avgjørelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen ikke er til fordel for fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV, oganerkjennelse av avgjørelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
 
 ### Artikkel 4d
 
-1. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV,betalingen ikke er i strid med artikkel 4a nr. 2.
+1\. I tilfeller der fysiske eller juridiske personer, enheter eller organer oppført i vedlegg IV skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende fysiske eller juridiske person, enhet eller organ har inngått eller pådratt seg før datoen da de ble oppført i vedlegg IV, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 4a og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atpengene eller formuesgodene skal brukes som betaling fra en fysisk eller juridisk person, en enhet eller et organ oppført i vedlegg IV,betalingen ikke er i strid med artikkel 4a nr. 2.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, senest fire uker etter at tillatelsen er gitt.
 
-3. Bestemmelsen i artikkel 4a nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
+3\. Bestemmelsen i artikkel 4a nr. 2 er ikke til hinder for at finans- eller kredittinstitusjoner kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette vedkommende kompetente myndighet om slike transaksjoner.
 
-4. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med artikkel 4a, gjelder bestemmelsen i artikkel 4a nr. 2 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 4a ble oppført i vedlegg IV, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
+4\. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med artikkel 4a, gjelder bestemmelsen i artikkel 4a nr. 2 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene,beløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da den fysiske eller juridiske personen, enheten eller organet omtalt i artikkel 4a ble oppført i vedlegg IV, ellerbeløp forfalt til betaling i henhold til rettslige, administrative eller voldgiftsmessige avgjørelser som er fastsatt i en medlemsstat, eller som er rettskraftige i den berørte medlemsstaten.
 
 ### Artikkel 4da
 
-1. [Artikkel 4a nr. 1](forskrift/2003-07-04-895/a4a/nummer/1) og [2](forskrift/2003-07-04-895/a4a/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
+1\. [Artikkel 4a nr. 1](forskrift/2003-07-04-895/a4a/nummer/1) og [2](forskrift/2003-07-04-895/a4a/nummer/2) gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),organisasjoner og byråer som har fått utstedt et sertifikat for humanitært partnerskap av EU, eller som er sertifisert eller anerkjent av en medlemsstat i samsvar med nasjonale framgangsmåter,medlemsstatenes særlige organer, elleransatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a-f mens og i det omfanget de handler i en slik egenskap.
 
-2. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i [artikkel 4a](forskrift/2003-07-04-895/a4a) nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
+2\. Uten at det berører nr. 1, kan de kompetente myndighetene i en medlemsstat gjøre unntak fra bestemmelsene i [artikkel 4a](forskrift/2003-07-04-895/a4a) nr. 1 og 2 og gi tillatelse, på de vilkårene de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder eller stille visse penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å sikre levering av humanitær bistand til rett tid eller for å støtte annen virksomhet som støtter grunnleggende menneskelige behov.
 
-3. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
+3\. Dersom den relevante kompetente myndigheten ikke har truffet en negativ beslutning, anmodet om opplysninger eller varslet om behov for ytterligere tid innen fem virkedager etter å ha mottatt en søknad om tillatelse i henhold til nr. 2, skal tillatelsen anses som gitt.
 
-4. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
+4\. Den berørte medlemsstat skal underrette de andre medlemsstatene og Kommisjonen om enhver tillatelse som gis i henhold til nr. 2 og 3, innen fire uker etter tillatelsen er gitt.
 
 ### Artikkel 4db
 
@@ -196,17 +200,17 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i art
 
 ### Artikkel 4e
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 4a, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene omtalt i bokstav a).
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 4a, til den kompetente myndigheten i medlemsstaten der de er bosatt eller befinner seg, og gi opplysningene, direkte eller gjennom medlemsstaten, til Kommisjonen, ogsamarbeide med den kompetente myndigheten om en eventuell verifisering av opplysningene omtalt i bokstav a).
 
-2. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
+2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal stilles til rådighet for medlemsstatene.
 
-3. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
+3\. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 4f
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
 
 ### Artikkel 4g
 
@@ -214,21 +218,21 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 4h
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg IV,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a).
 
-2. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
+2\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det den fysiske eller juridiske personen, enheten eller organet som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
-3. Denne artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
+3\. Denne artikkel berører ikke den rett de fysiske eller juridiske personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
 
 ### Artikkel 4i
 
-1. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 4a, skal vedlegg IV endres tilsvarende.
+1\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 4a, skal vedlegg IV endres tilsvarende.
 
-2. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+2\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
 
-3. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
+3\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet om dette.
 
-4. Listen i vedlegg IV skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+4\. Listen i vedlegg IV skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
 ### KAPITTEL 2
 
@@ -238,9 +242,9 @@ Tillatelser som nevnt i artikkel 4 kan ikke gis til aktiviteter som allerede har
 
 ### Artikkel 6
 
-1. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til artikkel 4a, og tillatelser som er gitt i henhold til artikkel 3a, 3b, 3c, 4b, 4c og 4d,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
+1\. Kommisjonen og medlemsstatene skal underrette hverandre om tiltak de treffer i henhold til denne forordning, og skal utveksle all annen relevant og tilgjengelig informasjon i forbindelse med denne forordning, særlig ompenger som er frosset i henhold til artikkel 4a, og tillatelser som er gitt i henhold til artikkel 3a, 3b, 3c, 4b, 4c og 4d,problemer med brudd på og håndheving av bestemmelsene og om rettsavgjørelser fra nasjonale domstoler.
 
-2. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
+2\. Medlemsstatene skal umiddelbart underrette hverandre og Kommisjonen om all annen relevant og tilgjengelig informasjon som kan påvirke en effektiv gjennomføring av denne forordning.
 
 ### Artikkel 7
 
@@ -248,15 +252,15 @@ Kommisjonen har fullmakt til å endre vedlegg II på grunnlag av informasjon fra
 
 ### Artikkel 8
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på bestemmelsene i denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
 
 ### Artikkel 9
 
-1. Medlemsstatene skal utpeke de kompetente myndigheter nevnt i denne forordning og identifisere dem på eller ved hjelp av nettsidene oppført i vedlegg II.
+1\. Medlemsstatene skal utpeke de kompetente myndigheter nevnt i denne forordning og identifisere dem på eller ved hjelp av nettsidene oppført i vedlegg II.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt; Kommisjonen skal også underrettes om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt; Kommisjonen skal også underrettes om alle senere endringer.
 
 ### Artikkel 10
 
@@ -275,67 +279,185 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 ### Vedlegg I
 List of equipment which might be used for internal repression as referred to in Articles 2, 3 and 4
 
+1\.
+
 Firearms, ammunition and related accessories therefor, as follows:
+
+1.1.
 
 Firearms not controlled by ML 1 and ML 2 of the EU Common Military List;3
 
+1.2.
+
 Ammunition specially designed for the firearms listed in 1.1 and specially designed components therefor;
+
+1.3.
 
 Weapon-sights not controlled by the EU Common Military List.
 
+2\.
+
 Bombs and grenades not controlled by the EU Common Military List.
+
+3\.
 
 Vehicles as follows:
 
+3.1.
+
 Vehicles equipped with a water cannon, specially designed or modified for the purpose of riot control;
+
+3.2.
 
 Vehicles specially designed or modified to be electrified to repel borders;
 
+3.3.
+
 Vehicles specially designed or modified to remove barricades, including construction equipment with ballistic protection;
+
+3.4.
 
 Vehicles specially designed for the transport or transfer of prisoners and/or detainees;
 
+3.5.
+
 Vehicles specially designed to deploy mobile barriers;
+
+3.6.
 
 Components for the vehicles specified in 3.1 to 3.5 specially designed for the purposes of riot control.
 
+Note 1: This item does not control vehicles specially designed for the purposes of fire-fighting.
+
+Note 2: For the purposes of item 3.5 the term 'vehicles' includes trailers.
+
+4\.
+
 Explosive substances and related equipment as follows:
+
+4.1.
 
 Equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including firing sets, detonators, igniters, boosters and detonating cord, and specially designed components therefor; except those specially designed for a specific commercial use consisting of the actuation or operation by explosive means of other equipment or devices the function of which is not the creation of explosions (e.g., car air-bag inflaters, electric-surge arresters of fire sprinkler actuators);
 
+4.2.
+
 Linear cutting explosive charges not controlled by the EU Common Military List;
+
+4.3.
 
 Other explosives not controlled by the EU Common Military List and related substances as follows:amatol;nitrocellulose (containing more than 12,5% nitrogen);nitroglycol;pentaerythritol tetranitrate (PETN);picryl chloride;2,4,6-trinitrotoluene (TNT).
 
+5\.
+
 Protective equipment not controlled by ML 13 of the EU Common Military List as follows:
+
+5.1.
 
 Body armour providing ballistic and/or stabbing protection;
 
+5.2.
+
 Helmets providing ballistic and/or fragmentation protection, anti-riot helmets, antiriot shields and ballistic shields.Note: This item does not control:equipment specially designed for sports activities;equipment specially designed for safety of work requirements.
+
+6\.
 
 Simulators, other than those controlled by ML 14 of the EU Common Military List, for training in the use of firearms, and specially designed software therefor.
 
+7\.
+
 Night vision, thermal imaging equipment and image intensifier tubes, other than those controlled by the EU Common Military List.
+
+8\.
 
 Razor barbed wire.
 
+9\.
+
 Military knives, combat knives and bayonets with blade lengths in excess of 10 cm.
+
+10\.
 
 Production equipment specially designed for the items specified in this list.
 
+11\.
+
 Specific technology for the development, production or use of the items specified in this list.
+
+3 Common Military List of the European Union (adopted by the Council on 11 March 2013) (OJ C 30, 27.3.2013, p. 1).
 
 ### Vedlegg II
 Websites for information on the competent authorities referred to in Articles 4, 7 and 9 and address for notifications to the European Commission
 
+BELGIUM[http://www.diplomatie.be/eusanctions](https://www.diplomatie.be/eusanctions)
+
+BULGARIA[http://www.mfa.bg/en/pages/135/index.html](https://www.mfa.bg/en/pages/135/index.html)
+
+CZECH REPUBLIC[http://www.mfcr.cz/mezinarodnisankce](https://www.mfcr.cz/mezinarodnisankce)
+
+DENMARK[http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/](https://um.dk/da/politik-og-diplomati/retsorden/sanktioner/)
+
+GERMANY[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html](https://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html)
+
+ESTONIA[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+IRELAND[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+GREECE[http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN[http://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx](https://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx)
+
+FRANCE[http://www.diplomatie.gouv.fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/autorites-sanctions/)
+
+ITALY[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+
+CYPRUS[http://www.mfa.gov.cy/sanctions](ttp://www.mfa.gov.cy/sanctions)
+
+LATVIA[http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+LITHUANIA[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+LUXEMBOURG[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+
+HUNGARY[http://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/](https://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/)
+
+MALTA[http://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp](https://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp)
+
+NETHERLANDS[http://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties)
+
+AUSTRIA[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
+
+POLAND[http://www.msz.gov.pl](https://www.msz.gov.pl)
+
+PORTUGAL[http://www.min-nestrangeiros.pt](https://www.min-nestrangeiros.pt)
+
+ROMANIA[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+SLOVENIA[http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/](https://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi)
+
+SLOVAKIA[http://www.mzv.sk/sk/europske_zalezitosti/sankcie_eu-sankcie_eu](https://www.mzv.sk/sk/europske_zalezitosti/sankcie_eu-sankcie_eu)
+
+FINLAND[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+SWEDEN[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+UNITED KINGDOM[http://www.fco.gov.uk/competentauthorities](https://www.fco.gov.uk/competentauthorities)
+
+Address for notifications to the European Commission:
+
+European CommissionService for Foreign Policy Instruments (FPI)EEAS 02/309B-1049 BrusselsBelgiumE-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+
 ### Vedlegg III
 Equipment, technology and software referred to in Articles 3b and 3c
+
+General Note
 
 Notwithstanding the contents of this Annex, it shall not apply to:equipment, technology or software which are specified in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) or the Common Military List; orsoftware which is designed for installation by the user without further substantial support by the supplier and which is generally available to the public by being sold from stock at retail selling points, without restriction, by means of:over-the-counter transactions;mail order transactions;electronic transactions; ortelephone order transactions; orsoftware which is in the public domain.
 
 The sections A, B, C, D and E refer to the sections referred to in Regulation [(EC) No 428/2009](eu/32009r0428*).
 
 The 'equipment, technology and software' referred to in Articles 3b and 3c is:
+
+A. List of equipment
 
 - Deep Packet Inspection equipment
 - Network Interception equipment including Interception Management Equipment (IMS) and Data Retention Link Intelligence equipment
@@ -352,9 +474,45 @@ The 'equipment, technology and software' referred to in Articles 3b and 3c is:
 - WEP and WPA code breaking equipment
 - Interception equipment for VoIP proprietary and standard protocol.
 
+B. Not used
+
+C. Not used
+
+D. 'Software' for the 'development', 'production' or 'use' of the equipment specified in A above
+
+E. 'Technology' for the 'development', 'production' or 'use' of the equipment specified in A above.
+
 Equipment, technology and software falling within these sections is within the scope of this Annex only to the extent that it falls within the general description 'internet, telephone and satellite communications interception and monitoring systems'.
 
 For the purpose of this Annex 'monitoring' means acquisition, extraction, decoding, recording, processing, analysis and archiving call content or network data.
+
+4 IMSI stands for International Mobile Subscriber Identity. It is a unique identification code for each mobile telephony device, integrated in the SIM card and which allows identification of such SIM via GSM and UMTS networks.
+
+5 MSISDN stands for Mobile Subscriber Integrated Services Digital Network Number. It is a number uniquely identifying a subscription in a GSM or a UMTS mobile network. Simply put, it is the telephone number to the SIM card in a mobile phone and therefore it identifies a mobile subscriber as well as IMSI, but to route calls through him.
+
+6 IMEI stands for International Mobile Equipment Identity. It is a number, usually unique to identify GSM, WCDMA and IDEN mobile phones as well as some satellite phones. It is usually found printed inside the battery compartment of the phone.
+
+7 TMSI stands for Temporary Mobile Subscriber Identity. It is the identity that is most commonly sent between the mobile and the network.
+
+8 SMS stands for Short Message System.
+
+9 GSM stands for Global System for Mobile Communications.
+
+10 GPS stands for Global Positioning System.
+
+11 GPRS stands for General Package Radio Service.
+
+12 UMTS stands for Universal Mobile Telecommunication System.
+
+13 CDMA stands for Code Division Multiple Access.
+
+14 PSTN stands for Public Switch Telephone Networks.
+
+15 DHCP stands for Dynamic Host Configuration Protocol.
+
+16 SMTP stands for Simple Mail Transfer Protocol.
+
+17 GTP stands for GPRS Tunnelling Protocol.
 
 ### Vedlegg IV
 List of natural and legal persons, entities and bodies referred to in Article 4a
@@ -362,3 +520,5 @@ List of natural and legal persons, entities and bodies referred to in Article 4a
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).18
 
 Listeførte med landkode («programme») MMR (Myanmar) er listeført under denne forskriften.
+
+18 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.

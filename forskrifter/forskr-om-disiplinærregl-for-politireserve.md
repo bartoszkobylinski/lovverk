@@ -22,9 +22,9 @@ eu_basis: []
 
 # Forskrift om disiplinærreglement for politireserven.
 
-1. I medhold av § 6 i lov av 21. november 1952 om tjenesteplikt i politiet disiplinærreglementet for politireserven.
+1\. I medhold av § 6 i lov av 21. november 1952 om tjenesteplikt i politiet disiplinærreglementet for politireserven.
 
-2. Justisdepartementet gis myndighet til å foreta mindre endringer i reglementet.
+2\. Justisdepartementet gis myndighet til å foreta mindre endringer i reglementet.
 
 Disiplinærreglement for Forsvaret, fastsatt ved kgl.res. 1. desember 1922 med endringer fastsatt av Forsvarsdepartementet 11. august 1950, kan med nedennevnte endringer anvendes overfor personer som er tatt ut til tjeneste i politiet etter lov nr. 3 av 21. november 1952.
 

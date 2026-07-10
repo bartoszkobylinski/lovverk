@@ -96,6 +96,8 @@ Vassdragsmyndigheten kan fastsette kvalitetsmål for vassdrag, bl.a om vannføri
 
 Kvalitetsmål for forurensende stoffer fastsettes etter forurensningsloven.
 
+1 [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 13ca (direktiv [2000/60/EF](eu/32000l0060)).
+
 ### § 10. (vannuttak og minstevannføring)
 
 Ved uttak og bortledning av vann som endrer vannføringen i elver og bekker med årssikker vannføring, skal minst den alminnelige lavvannføring være tilbake, hvis ikke annet følger av denne paragraf. Det samme gjelder når vann holdes tilbake ved oppdemming.
@@ -598,6 +600,8 @@ Kongen kan instruere enhver med myndighet etter loven om hvordan myndigheten ska
 
 Departementet kan gi forskrifter til utfylling og gjennomføring av loven, herunder ominnholdet av søknader og meldinger og om forvaltningens behandling av dem;samarbeid mellom vassdragsmyndigheten og andre offentlige myndigheter.
 
+1 Jf. [EØS-avtalen vedlegg XX](avtale/avt-1992-05-02-1-v20) nr. 13ca (direktiv [2000/60/EF](eu/32000l0060)).
+
 ## Kapittel 15. Avsluttende bestemmelser
 
 ### § 66. (forholdet til eldre tiltak)
@@ -623,6 +627,8 @@ Avtaler om levering av kraft i henhold til reglene i tidligere [lov 15. mars 194
 Denne lov trer i kraft når Kongen bestemmer.1
 
 Fra samme tid oppheves alle paragrafene unntatt [§§ 2](lov/1940-03-15-3/§2)-[6](lov/1940-03-15-3/§6) i [lov 15. mars 1940 nr. 3 om vassdragene](lov/1940-03-15-3).
+
+1 Fra 1 jan 2001 iflg. [res. 24 nov 2000 nr. 1169](forskrift/2000-11-24-1169).
 
 ### § 69. (endringer i andre lover)
 

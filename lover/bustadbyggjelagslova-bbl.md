@@ -1052,6 +1052,9 @@ I saker mellom laget og styret eller enkelte styremedlemmer skal generalforsamli
 
 (2) Frå same tid blir [lov 4. februar 1960 nr. 1](lov/1960-02-04-1) om boligbyggelag oppheva.
 
+1 Frå 1 jan 2004 for § 1-4 iflg. [res. 19 des 2003 nr. 1765](forskrift/2003-12-19-1765)
+Frå 15 aug 2005 for resten av loven iflg. [res. 17 juni 2005 nr. 602](forskrift/2005-06-17-602).
+
 ### II Overgangsreglar
 
 ### § 13-2. Overgangsreglar

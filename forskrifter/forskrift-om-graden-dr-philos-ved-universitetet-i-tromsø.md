@@ -38,7 +38,15 @@ Graden dr.philos. skal kvalifisera for forskingsverksemd av internasjonal standa
 
 ## § 4. Terminologi
 
-*Disputas*Offentleg drøfting og forsvar (mot kritikk frå opponentane) av ei doktoravhandling før ein får doktorgrad.*Doktorand*Person som forsvarar doktoravhandlinga si i ein disputas.*Ex auditorio*«Frå auditoriet». Ein tilhøyrar ved ein disputas har høve til å melda seg som opponent ex auditorio.*Kandidat*Ein/ei som søker om å få framstilla seg for graden dr.philos.*Kreera*Nemna ut nokon til ein akademisk grad.*Opponent*Komitemedlem som ved ein doktordisputas går kritisk igjennom avhandlinga til doktoranden.*Programstyre*Fakultetsorgan som har ansvar for ph.d.-studiet og for saker som gjeld graden dr.philos.
+|  |  |
+| --- | --- |
+| *Disputas* | Offentleg drøfting og forsvar (mot kritikk frå opponentane) av ei doktoravhandling før ein får doktorgrad. |
+| *Doktorand* | Person som forsvarar doktoravhandlinga si i ein disputas. |
+| *Ex auditorio* | «Frå auditoriet». Ein tilhøyrar ved ein disputas har høve til å melda seg som opponent ex auditorio. |
+| *Kandidat* | Ein/ei som søker om å få framstilla seg for graden dr.philos. |
+| *Kreera* | Nemna ut nokon til ein akademisk grad. |
+| *Opponent* | Komitemedlem som ved ein doktordisputas går kritisk igjennom avhandlinga til doktoranden. |
+| *Programstyre* | Fakultetsorgan som har ansvar for ph.d.-studiet og for saker som gjeld graden dr.philos. |
 
 ## § 5. Innhaldet i graden dr.philos.
 

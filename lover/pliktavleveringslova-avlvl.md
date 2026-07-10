@@ -115,3 +115,5 @@ Den som med vilje eller aktlaust handlar i strid med føresegner gjevne i eller 
 ## § 10. Ikraftsetjing
 
 Kongen fastset når1 denne lova skal ta til å gjelda. – – –
+
+1 Frå 1 juli 1990 iflg. [res. 25 mai 1990 nr. 366](forskrift/1990-05-25-366).

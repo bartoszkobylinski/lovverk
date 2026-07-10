@@ -24,6 +24,10 @@ eu_basis: []
 
 Endring av kongelig [resolusjon 5. juni 2009 nr. 600](forskrift/2009-06-05-600) om delvis ikraftsetting av [lov 17. juni 2005 nr. 101](lov/2005-06-17-101) om eigedomsregistrering (matrikkellova):
 
+1\.
+
 Ikraftsettelsen av § 52 nr. 9 for så vidt gjelder endringene i [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte o.a. (jordskifteloven), gjelder ikke [jordskifteloven § 24](lov/1979-12-21-77/§24) og § [29](lov/1979-12-21-77/§29) tredje ledd.
+
+2\.
 
 Ikraftsettelsen av § 52 nr. 12 for så vidt gjelder endringene i [lov 3. juli 1992 nr. 93](lov/1992-07-03-93) om avhending av fast eigedom (avhendingslova) [§ 2-6](lov/1992-07-03-93/§2-6) første ledd, gjelder bare endringen av [avhendingslova § 2-6](lov/1992-07-03-93/§2-6) første ledd andre punktum.

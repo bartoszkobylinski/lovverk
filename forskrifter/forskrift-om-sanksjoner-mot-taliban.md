@@ -42,6 +42,8 @@ Den som et vedtak om frys av midler i medhold av denne paragraf retter seg mot, 
 
 > Endret ved [forskrifter 25 mai 2016 nr. 537](forskrift/2016-05-25-537), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
+1 FNs konsoliderte sanksjonsliste er tilgjengelig [her](https://www.un.org/securitycouncil/content/un-sc-consolidated-list). Listeførte med landkode («Two Digit Country ISO Code») TA er listeført under denne forskrift.2 Prosedyrer for avlisting er tilgjengelig [her](https://www.un.org/securitycouncil/ombudsperson/application).
+
 ## § 4. (unntak for visse betalinger)
 
 Paragraf 3 gjelder ikke penger eller formuesgoder i tilfellerder Direktoratet for eksportkontroll og sanksjoner, på anmodning fra en angjeldende fysisk eller juridisk person, har avgjort at pengene eller formuesgodeneer nødvendige for å dekke grunnleggende utgifter, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og offentlige avgifter,utelukkende skal gå til betaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand,utelukkende skal gå til betaling av avgifter eller administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller frosne formuesgoder, ellerer nødvendige for å dekke ekstraordinære utgifter, ogder Sanksjonskomiteen er blitt underrettet om departementets avgjørelse, ogder Sanksjonskomitéen, ved avgjørelser i henhold til bokstav a) i), ii) eller iii), ikke har fremmet innsigelser mot avgjørelsen innen tre virkedager etter at underretningen ble gitt, ellerder Sanksjonskomiteen, ved avgjørelser i henhold til bokstav a) iv), har godkjent avgjørelsen.

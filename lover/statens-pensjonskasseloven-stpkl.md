@@ -720,6 +720,8 @@ Departementet gir forskrift med nærmere bestemmelser om fastsetting av enke- el
 
 > Endret ved lover 19 des 1958 nr. 9, 2 juni 1960 nr. 11, [26 mai 2000 nr. 37](lov/2000-05-26-37) (ikr. 1 jan 2001 iflg. [res. 26 mai 2000 nr. 447](forskrift/2000-05-26-447)), [15 jan 2010 nr. 1](lov/2010-01-15-1) (ikr. 1 feb 2010 iflg. [res. 15 jan 2010 nr. 54](forskrift/2010-01-15-54), se overgangsbestemmelser i endringslovens X), [19 juni 2020 nr. 70](lov/2020-06-19-70) (ikr. 1 juli 2020 iflg. [res. 19 juni 2020 nr. 1277](forskrift/2020-06-19-1277)), [20 des 2022 nr. 100](lov/2022-12-20-100) (i kraft 1 jan 2023).
 
+1 Jf. [EØS-avtalen art. 69](lov/1992-11-27-109/eøsl/a69) og [vedlegg XVIII](avtale/avt-1992-05-02-1-v18) nr. 21 b (direktiv [2006/54/EF](eu/32006l0054)).
+
 ### § 34 a. (Opphevet)
 
 > Tilføyd ved lov [11 juni 1976 nr. 81](lov/1976-06-11-81), opphevet ved lov [26 mai 2000 nr. 37](lov/2000-05-26-37) (ikr. 1 jan 2001 iflg. [res. 26 mai 2000 nr. 447](forskrift/2000-05-26-447)).
@@ -801,6 +803,8 @@ Pensjonskassens årlige utgifter utredes av medlemmenes innskott og avkastningen
 Pensjonskassens fond skal opprettholdes med det beløp som pensjonsfondene for Statens pensjonskasse, Pensjonskassen for Statens Tjenestemenn og Den Norske Enkekasse1 tilsammen utgjør ved denne lovs ikrafttreden.
 
 > Endret ved lover 8 juni 1973 nr. 54, [21 mai 1982 nr. 27](lov/1982-05-21-27), [25 juni 2010 nr. 29](lov/2010-06-25-29) (ikr. 1 jan 2011).
+
+1 Inkurie: [Lov 21 juni 1895 nr. 2](lov/1895-06-21-2), opph. ved lov [15 jan 2010 nr. 1](lov/2010-01-15-1).
 
 ### § 42
 

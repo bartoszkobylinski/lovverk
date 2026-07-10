@@ -58,6 +58,12 @@ Forskriften trer i kraft 1. august 2012. Samtidig oppheves [forskrift 28. april 
 
 ## Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport (AETR)
 
+*(Konsolidert versjon)\**
+
+\* Denne konsoliderte versjonen erstatter ikke den eneste autentiske teksten, som er teksten til Den europeiske avtalen om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport (AETR) av 1. juli 1970, som er deponert hos De forente nasjoners generalsekretær. Denne versjonen har som eneste formål å gjøre det lettere å lese og forstå AETR og omfatter den opprinnelige avtalen (E/ECE/811; E/ECE/TRANS/564), tilleggene 1-4 (E/ECE/811; E/ECE/TRANS//564/Amend. 1-4), som trådte i kraft henholdsvis 3. august 1983, 24. april 1992, 28. februar 1995 og 27. februar 2004, tillegg nr. 5 (ECE/TRANS/SC.1/375/Add.1), som trådte i kraft 16. juni 2006, og det sjette og siste tillegget (ECE/TRANS/SC.1/386/Add.1), som trådte i kraft 20. september 2010.
+
+Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport (AETR)
+
 Avtalepartene,
 
 som ønsker å fremme utvikling og forbedring av internasjonal transport av personer og gods på veiene, og
@@ -68,161 +74,239 @@ er blitt enige om følgende:
 
 ### Artikkel 1
 
+*Definisjoner*
+
 I denne avtale forstås ved:«*kjøretøy*», enhver motorvogn eller tilhenger, herunder enhver kombinasjon av kjøretøy,«*motorvogn*», ethvert motordrevet kjøretøy som normalt brukes til transport av personer eller gods på vei, eller til å trekke, på vei, kjøretøy som brukes til transport av personer eller gods; uttrykket omfatter ikke landbrukstraktorer,«*tilhenger*», ethvert kjøretøy som er bestemt til å bli koplet til en motorvogn, herunder også semitilhengere,«*semitrailer*», enhver tilhenger som er bestemt til å bli koplet til en motorvogn på en slik måte at den delvis hviler på motorvognen, og slik at en vesentlig del av dens egen og lastens vekt bæres av motorvognen,«*vogntog*», kjøretøy som er koplet sammen, og som inngår i veitrafikken som en enhet,«*tillatt totalmasse*»,1 den største tillatte masse som et kjøretøy med last kan ha i henhold til registreringslandets regler,«*veitransport*»,2 enhver kjøring helt eller delvis på offentlig veg, med eller uten last, som brukes til person- eller godstransport,«*internasjonal veitransport*», enhver veitransport som innebærer minst én grensepassering,«*rutetransport*»,3 transport av passasjerer etter en bestemt ruteplan langs bestemte ruter, der det tas på eller settes av passasjerer ved forhåndsbestemte stoppesteder.Et driftsreglement eller dokumenter som trer i stedet for et slikt reglement, og som er godkjent av avtalepartenes kompetente myndigheter og offentliggjort av transportøren før de trer i kraft, skal spesifisere transportvilkårene, og særlig rutefrekvens, rutetabeller, billettpriser og plikten til å ta på passasjerer, i den utstrekning slike vilkår ikke er fastlagt i lov eller forskrift.Transporttjenester for transport av spesifikke kategorier passasjerer, der andre passasjerer er utelukket, skal, i den grad denne transporten foregår på slike vilkår som er spesifisert i andre ledd i denne definisjonen, regnes som rutetransport, uansett hvem som organiserer den. Slike transporttjenester, og særlig transport av arbeidere til og fra deres arbeidssted og skolebarn til og fra skolen, kalles heretter «spesialrutetransport»,«*fører*»,4 enhver person som mot vederlag eller ikke, kjører kjøretøyet, også bare for en kort periode, ellers som sitter på – som ledd i sine plikter – for eventuelt å kunne kjøre det,«*mannskap*», fører eller en av de nedenfor nevnte kategorier, uansett om det mottas vederlag eller ikke:sidemann, dvs. enhver som følger føreren for å bistå denne under transporten, og som normalt deltar aktivt i transportarbeidet, uten å være fører som definert i bokstav j) ovenfor,billettør, dvs. enhver som følger føreren av et kjøretøy som brukes til persontransport, og som særlig har som oppgave å utstede eller kontrollere billetter eller andre dokumenter som gir passasjerene rett til å reise med kjøretøyet,«*uke*»,5 tidsrommet mellom kl. 0000 mandag og kl. 2400 søndag,«*hviletid*»,6 enhver uavbrutt periode som føreren fritt kan benytte,7 «*pause*», enhver periode som føreren ikke får benytte til kjøring eller annet arbeid, og som utelukkende skal brukes til hvile.,«*døgnhvil*», daglig periode som føreren fritt kan benytte og som kan være 'normal døgnhvil' og en 'redusert døgnhvil':«*normal døgnhvil*», en hvileperiode på minst 11 timer, som alternativt kan deles opp i to perioder, der den første må vare uavbrutt i minst 3 timer og den andre ha en uavbrutt varighet på minst 9 timer,«*redusert døgnhvil*», en hvileperiode på minst 9 timer, men mindre enn 11 timer,«*ukehvil*», det ukentlige tidsrommet som en fører fritt kan benytte og som kan være en 'normal ukehvil' og en 'redusert ukehvil',«*normal ukehvil*», en hvileperiode på minst 45 timer,«*redusert ukehvil*», enhver hvileperiode på under 45 timer som, med forbehold for vilkårene fastsatt i artikkel 8 nr. 6, kan reduseres til en periode med en minste varighet på 24 sammenhengende timer,«*annet arbeid*», all annen arbeidsaktivitet enn kjøring, herunder arbeid for samme eller en annen arbeidsgiver, innen eller utenfor transportsektoren; uttrykket omfatter ikke ventetid eller tid som ikke brukes til kjøring mens man befinner seg på et kjøretøy i fart, på en ferge eller på et tog,«*kjøretid*», kjøringens varighet, registrert enten automatisk, halvautomatisk eller manuelt i samsvar med de vilkår som er fastsatt i denne avtale,«*daglig kjøretid*», sammenlagt kjøretid mellom slutten på en døgnhvil og begynnelsen på neste døgnhvil, eller mellom en døgnhvil og en ukehvil,«*ukentlig kjøretid*», sammenlagt kjøretid i løpet av en uke,«*kjøreperiode*», samlet kjøretid fra det tidspunkt da føreren starter kjøringen etter en hvil eller en pause og frem til neste hvil eller pause. Kjøreperioden kan være sammenhengende eller oppdelt,«*flerbemanning*», en situasjon der minst to førere befinner seg i kjøretøyet for å kjøre det i hver kjøreperiode mellom to på hverandre følgende døgnhviler, eller mellom en døgnhvil og en ukehvil. I den første timen med flerbemanning er bruk av minst to førere valgfritt, men obligatorisk resten av perioden,«*transportforetak*», enhver fysisk eller juridisk person, enhver sammenslutning eller gruppe av personer uten status som juridisk person, enten den har ideell virksomhet eller næringsvirksomhet som formål, og ethvert offentlig organ som enten selv har status som juridisk person eller er underlagt en annen myndighet med slik status, som driver med veitransport, uavhengig av om det er for en annens eller for egen regning.
+
+1 Definisjonen endret i avtaletillegg nr. 6.
+
+2 Definisjonen lagt til i avtaletillegg nr. 2 og endret i avtaletillegg nr. 6.
+
+3 Definisjonen lagt til i avtaletillegg nr. 2.
+
+4 Definisjonen endret i avtaletillegg nr. 6.
+
+5 Definisjonen lagt til i avtaletillegg nr. 2.
+
+6 Definisjonen lagt til i avtaletillegg nr. 2 og endret i avtaletillegg nr. 6.
+
+7 Definisjonene n) til w) lagt til i avtaletillegg nr. 6.
 
 ### Artikkel 21
 
-1. Denne avtale skal gjelde på hver avtaleparts territorium for all internasjonal veitransport som foregår med kjøretøy som er registrert på vedkommende avtaleparts territorium eller på territoriet til en annen av avtalepartene.
+*Gyldighetsområde*
 
-2. Avtalen skal likevel, med mindre avtalepartenes territorium som blir brukt er enige om noe annet, ikke gjelde for internasjonal veitransport som utføres av:kjøretøy som brukes til godstransport, når kjøretøyets største tillatte totalmasse, inkludert eventuell tilhenger eller semitrailer, ikke overstiger 3,5 tonn,kjøretøy som brukes til persontransport, når kjøretøyet på grunn av sin konstruksjon og utrustning ikke er tilpasset transport av mer enn ni personer medregnet føreren, og kjøretøyet er beregnet brukt til det formål,kjøretøy som brukes til persontransport i rute, når rutens lengde ikke overstiger 50 kilometer,kjøretøy der høyeste tillatte hastighet ikke overstiger 40 km/t,kjøretøy som eies av eller leies uten fører til de væpnede styrker, sivilforsvaret, brannvesenet eller ordensmakten, når transporten skjer i forbindelse med de oppgaver disse myndighetene har ansvaret for, og står under deres kontroll,kjøretøy som brukes i forbindelse med katastrofer eller redningsoperasjoner, herunder ikke-kommersiell transport av humanitær hjelp,spesialkjøretøy for medisinske formål,spesialkjøretøy for hjelp ved bilhavari som opererer innenfor en radius på 100 kilometer fra stedet der de er hjemmehørende,kjøretøy som prøvekjøres i forbindelse med tekniske forbedringer, reparasjoner eller vedlikehold, og nye eller ombygde kjøretøy som ennå ikke er satt i drift,kjøretøy som brukes til ikke-kommersiell godstransport, og som ikke har større tillatt totalmasse enn 7,5 tonn,nyttekjøretøy som har en historisk status i henhold til lovgivningen i den avtalepart der de blir brukt, og som anvendes til person- eller godstransport av ikke-kommersiell art.
+1\. Denne avtale skal gjelde på hver avtaleparts territorium for all internasjonal veitransport som foregår med kjøretøy som er registrert på vedkommende avtaleparts territorium eller på territoriet til en annen av avtalepartene.
+
+2\. Avtalen skal likevel, med mindre avtalepartenes territorium som blir brukt er enige om noe annet, ikke gjelde for internasjonal veitransport som utføres av:kjøretøy som brukes til godstransport, når kjøretøyets største tillatte totalmasse, inkludert eventuell tilhenger eller semitrailer, ikke overstiger 3,5 tonn,kjøretøy som brukes til persontransport, når kjøretøyet på grunn av sin konstruksjon og utrustning ikke er tilpasset transport av mer enn ni personer medregnet føreren, og kjøretøyet er beregnet brukt til det formål,kjøretøy som brukes til persontransport i rute, når rutens lengde ikke overstiger 50 kilometer,kjøretøy der høyeste tillatte hastighet ikke overstiger 40 km/t,kjøretøy som eies av eller leies uten fører til de væpnede styrker, sivilforsvaret, brannvesenet eller ordensmakten, når transporten skjer i forbindelse med de oppgaver disse myndighetene har ansvaret for, og står under deres kontroll,kjøretøy som brukes i forbindelse med katastrofer eller redningsoperasjoner, herunder ikke-kommersiell transport av humanitær hjelp,spesialkjøretøy for medisinske formål,spesialkjøretøy for hjelp ved bilhavari som opererer innenfor en radius på 100 kilometer fra stedet der de er hjemmehørende,kjøretøy som prøvekjøres i forbindelse med tekniske forbedringer, reparasjoner eller vedlikehold, og nye eller ombygde kjøretøy som ennå ikke er satt i drift,kjøretøy som brukes til ikke-kommersiell godstransport, og som ikke har større tillatt totalmasse enn 7,5 tonn,nyttekjøretøy som har en historisk status i henhold til lovgivningen i den avtalepart der de blir brukt, og som anvendes til person- eller godstransport av ikke-kommersiell art.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 31
 
-1. Hver avtalepart skal, når det gjelder internasjonal veitransport som foretas med kjøretøy registrert på territoriet til en stat som ikke er part i denne avtale, på sitt territorium anvende bestemmelser som ikke er mindre strenge enn de som er å finne i artiklene 5, 6, 7, 8, 9 og 10 i denne avtale.
+*Anvendelse av noen av avtalens bestemmelser på veitransport foretatt med kjøretøy som er registrert i andre stater enn de som er part i avtalen*
+
+1\. Hver avtalepart skal, når det gjelder internasjonal veitransport som foretas med kjøretøy registrert på territoriet til en stat som ikke er part i denne avtale, på sitt territorium anvende bestemmelser som ikke er mindre strenge enn de som er å finne i artiklene 5, 6, 7, 8, 9 og 10 i denne avtale.
 
 2.Det skal likevel være opp til den enkelte avtalepart om den, i forbindelse med kjøretøy som er registrert i en stat som ikke er part i denne avtale vil, i stedet for en fartsskriver i samsvar med spesifikasjonene i vedlegget til denne avtale, nøye seg med å kreve daglige registreringer foretatt manuelt av hver av mannskapet for perioden fra det tidspunkt kjøretøyet entrer territoriet til den første av avtalepartene.I slike tilfeller skal hver av mannskapet på sin diagramskive notere ned den nødvendige informasjon om sine arbeidsaktiviteter og hvileperioder ved hjelp av de aktuelle grafiske symboler som er definert i artikkel 12 i vedlegget til denne avtale.
 
+1 Endret i avtaletillegg nr. 1, 2 og 6.
+
 ### Artikkel 41
+
+*Generelle prinsipper*
 
 Hver avtalepart kan anvende høyere minimumskrav eller lavere maksimumskrav enn de som er fastsatt i artiklene 5 til og med 8. Men bestemmelsene i denne avtale skal likevel gjelde for førere som utfører internasjonale veitransportoperasjoner med kjøretøy som er registrert i en annen avtalepart eller i en stat som ikke er part i avtalen.
 
+1 Endret i avtaletillegg nr. 2.
+
 ### Artikkel 51
 
-1. Minstealder for førere som kjører godstransport, skal være som følger:for kjøretøy, herunder tilhengere og semitrailere der dette er aktuelt, som har en største tillatt vekt på ikke mer enn 7,5 tonn: 18 år,for andre kjøretøy:21 år, eller18 år dersom vedkommende person har et yrkeskompetansebevis som er godkjent hos en av avtalepartene, og som viser at han har fullført et opplæringsprogram for førere av kjøretøy som er beregnet for godstransport på vei. Avtalepartene skal informere hverandre om gjeldende nasjonale minstekrav til opplæring og andre relevante vilkår for fører som kjører internasjonal godstransport som omfattes av denne avtale.
+*Mannskaper*
 
-2. Alle førere som kjører passasjertransport skal være fylt 21 år.Alle førere som kjører passasjerer på turer lenger enn 50 km fra det stedet der kjøretøyet normalt er hjemmehørende, skal også tilfredsstille ett av følgende krav:han må ha arbeidet minst ett år med transport av gods som fører av kjøretøy med en største tillatt vekt på over 3,5 tonn,han må ha arbeidet minst ett år som fører av kjøretøy brukt til transport av passasjerer innenfor en radius av 50 km fra det stedet der kjøretøyet normalt er hjemmehørende, eller andre typer persontransport som ikke er omfattet av denne avtalen, forutsatt at den kompetente myndighet anser at han gjennom dette arbeidet har tilegnet seg den nødvendige erfaring,han må ha et yrkeskompetansebevis som er godkjent av en av avtalepartene, og som viser at han har fullført et opplæringsprogram for førere av kjøretøy som er beregnet for persontransport på vei.
+1\. Minstealder for førere som kjører godstransport, skal være som følger:for kjøretøy, herunder tilhengere og semitrailere der dette er aktuelt, som har en største tillatt vekt på ikke mer enn 7,5 tonn: 18 år,for andre kjøretøy:21 år, eller18 år dersom vedkommende person har et yrkeskompetansebevis som er godkjent hos en av avtalepartene, og som viser at han har fullført et opplæringsprogram for førere av kjøretøy som er beregnet for godstransport på vei. Avtalepartene skal informere hverandre om gjeldende nasjonale minstekrav til opplæring og andre relevante vilkår for fører som kjører internasjonal godstransport som omfattes av denne avtale.
+
+2\. Alle førere som kjører passasjertransport skal være fylt 21 år.Alle førere som kjører passasjerer på turer lenger enn 50 km fra det stedet der kjøretøyet normalt er hjemmehørende, skal også tilfredsstille ett av følgende krav:han må ha arbeidet minst ett år med transport av gods som fører av kjøretøy med en største tillatt vekt på over 3,5 tonn,han må ha arbeidet minst ett år som fører av kjøretøy brukt til transport av passasjerer innenfor en radius av 50 km fra det stedet der kjøretøyet normalt er hjemmehørende, eller andre typer persontransport som ikke er omfattet av denne avtalen, forutsatt at den kompetente myndighet anser at han gjennom dette arbeidet har tilegnet seg den nødvendige erfaring,han må ha et yrkeskompetansebevis som er godkjent av en av avtalepartene, og som viser at han har fullført et opplæringsprogram for førere av kjøretøy som er beregnet for persontransport på vei.
+
+1 Endret i avtaletillegg nr. 2.
 
 ### Artikkel 61
 
-1. Den daglige kjøretiden, slik den er definert i artikkel 1 bokstav s) i denne avtalen, skal ikke overstige 9 timer. Den kan imidlertid utvides til maksimalt 10 timer inntil to ganger i løpet av en uke.
+*Kjøreperioder*
 
-2. Den ukentlige kjøretiden, slik den er definert i artikkel 1 bokstav t) i denne avtale, skal ikke overstige 56 timer.
+1\. Den daglige kjøretiden, slik den er definert i artikkel 1 bokstav s) i denne avtalen, skal ikke overstige 9 timer. Den kan imidlertid utvides til maksimalt 10 timer inntil to ganger i løpet av en uke.
 
-3. Den samlede kjøretiden i løpet av to på hverandre følgende uker skal ikke overstige 90 timer.
+2\. Den ukentlige kjøretiden, slik den er definert i artikkel 1 bokstav t) i denne avtale, skal ikke overstige 56 timer.
 
-4. Kjøreperiodene skal omfatte all kjøring både på avtalepartenes territorium og på andre staters territorium.
+3\. Den samlede kjøretiden i løpet av to på hverandre følgende uker skal ikke overstige 90 timer.
 
-5. En fører skal registrere som «annet arbeid» all tid han bruker som beskrevet i artikkel 1 bokstav q), og all tid som anvendes til kjøring av kjøretøy brukt i næringsvirksomhet, som ikke faller innenfor rammen av denne avtale, og han skal registrere all tid han er disponibel, slik det er fastlagt i artikkel 12 nr. 3 bokstav c) i vedlegget til denne avtalen. Denne registreringen skal enten gjøres for hånd på en diagramskive eller på en utskrift, eller ved hjelp av det manuelle registreringsutstyret på en fartsskriver.
+4\. Kjøreperiodene skal omfatte all kjøring både på avtalepartenes territorium og på andre staters territorium.
+
+5\. En fører skal registrere som «annet arbeid» all tid han bruker som beskrevet i artikkel 1 bokstav q), og all tid som anvendes til kjøring av kjøretøy brukt i næringsvirksomhet, som ikke faller innenfor rammen av denne avtale, og han skal registrere all tid han er disponibel, slik det er fastlagt i artikkel 12 nr. 3 bokstav c) i vedlegget til denne avtalen. Denne registreringen skal enten gjøres for hånd på en diagramskive eller på en utskrift, eller ved hjelp av det manuelle registreringsutstyret på en fartsskriver.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 71
 
-1. Etter en kjøreperiode på fire og en halv time skal føreren ta en sammenhengende pause på minst 45 minutter, med mindre han begynner på en hvileperiode.
+*Pauser*
 
-2. Denne pausen, som definert i artikkel 1 bokstav n) i denne avtalen, kan erstattes av en pause på minst 15 minutter, etterfulgt av en pause på minst 30 minutter, når disse fordeles over kjøreperioden eller umiddelbart etter denne perioden på en slik måte at bestemmelsene i nr. 1 overholdes.
+1\. Etter en kjøreperiode på fire og en halv time skal føreren ta en sammenhengende pause på minst 45 minutter, med mindre han begynner på en hvileperiode.
 
-3. For denne artikkelens formål skal, som beskrevet i artikkel 1 bokstav q) i denne avtalen, ventetid og tid som ikke brukes til kjøring mens man befinner seg i et kjøretøy i fart, om bord på en ferge eller et tog ikke regnes som «annet arbeid», og denne tiden vil kunne kvalifisere til «pause».
+2\. Denne pausen, som definert i artikkel 1 bokstav n) i denne avtalen, kan erstattes av en pause på minst 15 minutter, etterfulgt av en pause på minst 30 minutter, når disse fordeles over kjøreperioden eller umiddelbart etter denne perioden på en slik måte at bestemmelsene i nr. 1 overholdes.
 
-4. Pausene som er omtalt i denne artikkel kan ikke regnes som døgnhvil.
+3\. For denne artikkelens formål skal, som beskrevet i artikkel 1 bokstav q) i denne avtalen, ventetid og tid som ikke brukes til kjøring mens man befinner seg i et kjøretøy i fart, om bord på en ferge eller et tog ikke regnes som «annet arbeid», og denne tiden vil kunne kvalifisere til «pause».
+
+4\. Pausene som er omtalt i denne artikkel kan ikke regnes som døgnhvil.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 81
 
-1. Føreren skal ta døgnhviler og ukehviler som beskrevet i artikkel 1 bokstavene o) og p).
+*Hvileperioder*
 
-2. I løpet av hver periode på 24 timer etter at den foregående døgnhvilen eller ukehvilen er avsluttet, skal føreren ha tatt en ny døgnhvil.Dersom den delen av døgnhvilen som faller innenfor den nevnte 24-timersperioden er på minst 9 timer, men mindre enn 11 timer, skal denne døgnhvilen regnes som en redusert døgnhvil.
+1\. Føreren skal ta døgnhviler og ukehviler som beskrevet i artikkel 1 bokstavene o) og p).
 
-3. Som et unntak fra nr. 2 skal en fører i et kjøretøy med flerbemanning innen 30 timer etter avslutningen av en døgn- eller ukehvil ha tatt en ny døgnhvil på minst 9 timer.
+2\. I løpet av hver periode på 24 timer etter at den foregående døgnhvilen eller ukehvilen er avsluttet, skal føreren ha tatt en ny døgnhvil.Dersom den delen av døgnhvilen som faller innenfor den nevnte 24-timersperioden er på minst 9 timer, men mindre enn 11 timer, skal denne døgnhvilen regnes som en redusert døgnhvil.
 
-4. En døgnhvil kan utvides til en normal ukehvil eller en redusert ukehvil.
+3\. Som et unntak fra nr. 2 skal en fører i et kjøretøy med flerbemanning innen 30 timer etter avslutningen av en døgn- eller ukehvil ha tatt en ny døgnhvil på minst 9 timer.
 
-5. En fører kan ha høyst tre reduserte døgnhviler mellom to ukehviler.
+4\. En døgnhvil kan utvides til en normal ukehvil eller en redusert ukehvil.
+
+5\. En fører kan ha høyst tre reduserte døgnhviler mellom to ukehviler.
 
 6.I løpet av en periode på to uker skal en fører ta minst:to normale ukehviler, elleren normal ukehvil og en redusert ukehvil på minst 24 timer. Reduksjonen skal imidlertid kompenseres med en tilsvarende hvileperiode, som skal tas samlet innen utløpet av den tredje uken som følger etter den aktuelle uken.En ukehvil skal påbegynnes senest seks 24-timersperioder etter avslutningen av den foregående ukehvilen.Som et unntak fra nr. 6 bokstav a) kan en fører som ikke kjører ordinær trafikk, men er ute på et enkeltoppdrag innen internasjonal passasjertransport, utsette ukehvilen i inntil tolv 24-timersperioder etter en foregående normal ukehvil, forutsatt at:turen varer i minst 24 timer sammenhengende i en annen avtaleparts stat eller et tredjeland som er annet enn det landet der turen startet, ogføreren, etter å ha benyttet seg av unntaket, tar:enten to normale ukehviler, ellerén normal ukehvil og én redusert ukehvil på minst 24 timer. Reduksjonen skal imidlertid kompenseres med en tilsvarende hvileperiode, som skal tas samlet innen utløpet av den tredje uken som følger etter at unntaksperioden er avsluttet,ogat kjøretøyet fire år etter at registreringslandet har innført den digitale fartsskriveren, er utstyrt med registreringsutstyr i samsvar med kravene i tillegg 1B til vedlegget, ogat kjøretøyet, dersom det etter 1. januar 2014 brukes i tidsrommet fra kl. 22:00 til kl. 06:00, er flerbemannet eller kjøreperioden som er omtalt i artikkel 7 blir redusert til tre timer.Som et unntak fra nr. 6 bokstav a) skal førere som kjører med flerbemanning hver uke ta en normal ukehvil på minst 45 timer. Denne kan reduseres til et minimum på 24 timer (redusert ukehvil). Hver reduksjon skal imidlertid kompenseres med en tilsvarende hvileperiode, som skal tas samlet innen utløpet av den tredje uken som følger etter den aktuelle uken.En ukehvil skal påbegynnes senest seks 24-timersperioder etter avslutningen av den foregående ukehvilen.
 
-7. Enhver hvil som tas som kompensasjon for en redusert ukehvil, skal tas i sammenheng med en annen hvileperiode på minst 9 timer.
+7\. Enhver hvil som tas som kompensasjon for en redusert ukehvil, skal tas i sammenheng med en annen hvileperiode på minst 9 timer.
 
-8. Dersom føreren ønsker det, kan døgnhviler og reduserte ukehviler som tas andre steder enn der kjøretøyet er hjemmehørende, tas i kjøretøyet, forutsatt at det fra konstruktørens side er utstyrt med tilfredsstillende sovefasiliteter for hver fører, og kjøretøyet står i ro.
+8\. Dersom føreren ønsker det, kan døgnhviler og reduserte ukehviler som tas andre steder enn der kjøretøyet er hjemmehørende, tas i kjøretøyet, forutsatt at det fra konstruktørens side er utstyrt med tilfredsstillende sovefasiliteter for hver fører, og kjøretøyet står i ro.
 
-9. En ukehvil som påbegynnes i én uke og fortsetter inn i den neste, kan registreres i hvilken som helst av de to ukene, men ikke i begge.
+9\. En ukehvil som påbegynnes i én uke og fortsetter inn i den neste, kan registreres i hvilken som helst av de to ukene, men ikke i begge.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 8 bis1
 
-1. Dersom en fører som reiser med et kjøretøy som blir transportert med ferge eller tog, og han tar en normal døgnhvil, kan denne døgnhvilen, som et unntak fra artikkel 8, avbrytes inntil to ganger av andre aktiviteter, forutsatt at følgende vilkår er oppfylt:Den delen av døgnhvilen som tas på land, må kunne tas før eller etter den delen av døgnhvilen som tas ombord på fergen eller på toget,Perioden mellom de enkelte delene av døgnhvilen skal være så kort som mulig og under ingen omstendighet lenger enn totalt én time før ombordkjøring eller etter avkjøring, når tollbehandling inkluderes i ombordkjørings- eller avkjøringsoperasjonen.Føreren skal under hele døgnhvilen ha tilgang til køye eller liggeplass.
+*Unntak fra artikkel 8*
 
-2. Den tiden en fører bruker på å reise til et sted for å overta et kjøretøy som omfattes av denne avtalen, eller på å reise fra det nevnte stedet, når kjøretøyet ikke befinner seg på førerens hjemsted eller på arbeidsstedet der føreren vanligvis er hjemmehørende, skal ikke regnes som hvil eller pause, unntatt når føreren oppholder seg på ferge eller i et tog og har tilgang til tilfredsstillende sovemuligheter.
+1\. Dersom en fører som reiser med et kjøretøy som blir transportert med ferge eller tog, og han tar en normal døgnhvil, kan denne døgnhvilen, som et unntak fra artikkel 8, avbrytes inntil to ganger av andre aktiviteter, forutsatt at følgende vilkår er oppfylt:Den delen av døgnhvilen som tas på land, må kunne tas før eller etter den delen av døgnhvilen som tas ombord på fergen eller på toget,Perioden mellom de enkelte delene av døgnhvilen skal være så kort som mulig og under ingen omstendighet lenger enn totalt én time før ombordkjøring eller etter avkjøring, når tollbehandling inkluderes i ombordkjørings- eller avkjøringsoperasjonen.Føreren skal under hele døgnhvilen ha tilgang til køye eller liggeplass.
 
-3. Den tiden en fører bruker på å kjøre et kjøretøy som ikke omfattes av denne avtalens virkeområde, til eller fra et kjøretøy som omfattes av denne avtalens virkeområde, og som ikke befinner seg på førerens hjemsted eller på arbeidsstedet der føreren vanligvis er hjemmehørende, skal regnes som «annet arbeid».
+2\. Den tiden en fører bruker på å reise til et sted for å overta et kjøretøy som omfattes av denne avtalen, eller på å reise fra det nevnte stedet, når kjøretøyet ikke befinner seg på førerens hjemsted eller på arbeidsstedet der føreren vanligvis er hjemmehørende, skal ikke regnes som hvil eller pause, unntatt når føreren oppholder seg på ferge eller i et tog og har tilgang til tilfredsstillende sovemuligheter.
+
+3\. Den tiden en fører bruker på å kjøre et kjøretøy som ikke omfattes av denne avtalens virkeområde, til eller fra et kjøretøy som omfattes av denne avtalens virkeområde, og som ikke befinner seg på førerens hjemsted eller på arbeidsstedet der føreren vanligvis er hjemmehørende, skal regnes som «annet arbeid».
+
+1 Lagt til i avtaletillegg nr. 6.
 
 ### Artikkel 91
 
+*Unntak*
+
 Dersom det ikke setter trafikksikkerheten i fare, kan føreren fravike bestemmelsene i denne avtalen for å finne et egnet stoppested for kjøretøyet i den utstrekning det er nødvendig av hensyn til sikkerheten for personer, kjøretøy eller last. Føreren skal beskrive avviket fra bestemmelsene og angi årsaken til det på fartsskriverens diagramskive eller på en utskrift fra fartsskriveren, eller på tjenestelisten, så snart han kommer til et egnet stoppested.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 101
 
-1. Avtalepartene skal pålegge installering og bruk av fartsskriver i kjøretøy som er registrert på deres territorium, i samsvar med kravene i denne avtale og i avtalens vedlegg og tillegg.
+*Fartsskriver*
 
-2. En fartsskriver i denne avtales forstand skal være konstruert og installert og brukes og testes i samsvar med kravene i denne avtale og i avtalens vedlegg og tillegg.
+1\. Avtalepartene skal pålegge installering og bruk av fartsskriver i kjøretøy som er registrert på deres territorium, i samsvar med kravene i denne avtale og i avtalens vedlegg og tillegg.
 
-3. En fartsskriver som er konstruert og installert og brukes og testes i samsvar med rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, skal anses å tilfredsstille kravene i denne avtale og i avtalens vedlegg og tillegg.
+2\. En fartsskriver i denne avtales forstand skal være konstruert og installert og brukes og testes i samsvar med kravene i denne avtale og i avtalens vedlegg og tillegg.
+
+3\. En fartsskriver som er konstruert og installert og brukes og testes i samsvar med rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, skal anses å tilfredsstille kravene i denne avtale og i avtalens vedlegg og tillegg.
+
+1 Endret i avtaletillegg nr. 1, 2, 3 og 5.
 
 ### Artikkel 111
 
-1. Transportforetaket skal organisere veitransporten og instruere mannskapet slik at de er i stand til å overholde bestemmelsene i denne avtale.
+*Transportforetakenes ansvar*
 
-2. Foretaket skal på regelmessig basis foreta kontroll av kjøreperioder, tid brukt til annet arbeid og hvileperioder ved å gå gjennom alle dokumenter det har til rådighet, som for eksempel førerens kjørebøker. Dersom foretaket oppdager brudd på denne avtalen, skal det straks sørge for at bruddene opphører og at de ikke gjentar seg, for eksempel ved å endre arbeidstid og ruter.
+1\. Transportforetaket skal organisere veitransporten og instruere mannskapet slik at de er i stand til å overholde bestemmelsene i denne avtale.
 
-3. Avlønning av førere skal ikke være knyttet til kjørt distanse og/eller til mengden av gods som transporteres, selv ikke i form av bonus eller lønnstillegg, med mindre den nevnte betaling er av en slik art at den ikke setter trafikksikkerheten i fare eller oppmuntrer til overtredelse av denne avtalen.
+2\. Foretaket skal på regelmessig basis foreta kontroll av kjøreperioder, tid brukt til annet arbeid og hvileperioder ved å gå gjennom alle dokumenter det har til rådighet, som for eksempel førerens kjørebøker. Dersom foretaket oppdager brudd på denne avtalen, skal det straks sørge for at bruddene opphører og at de ikke gjentar seg, for eksempel ved å endre arbeidstid og ruter.
 
-4. Et transportforetak skal være ansvarlig for overtredelser som blir begått av foretakets førere, også i de tilfeller der overtredelsen begås på territoriet til en annen avtalepart eller på territoriet til en stat som ikke er part i avtalen.Uten at det påvirker avtalepartenes rett til å holde transportforetakene fullt ut ansvarlig, kan avtalepartene gjøre dette ansvaret betinget av at foretaket har overtrådt nr. 1 og 2. Avtalepartene kan ta hensyn til alle eventuelle bevis for at transportforetaket ikke med rimelighet kan holdes ansvarlig for den overtredelse som er begått.
+3\. Avlønning av førere skal ikke være knyttet til kjørt distanse og/eller til mengden av gods som transporteres, selv ikke i form av bonus eller lønnstillegg, med mindre den nevnte betaling er av en slik art at den ikke setter trafikksikkerheten i fare eller oppmuntrer til overtredelse av denne avtalen.
 
-5. Foretak, avsendere, speditører, turoperatører, hovedleverandører, underleverandører og førerformidlingsbyråer skal påse at avtalte transporttidsplaner er i samsvar med denne avtale.
+4\. Et transportforetak skal være ansvarlig for overtredelser som blir begått av foretakets førere, også i de tilfeller der overtredelsen begås på territoriet til en annen avtalepart eller på territoriet til en stat som ikke er part i avtalen.Uten at det påvirker avtalepartenes rett til å holde transportforetakene fullt ut ansvarlig, kan avtalepartene gjøre dette ansvaret betinget av at foretaket har overtrådt nr. 1 og 2. Avtalepartene kan ta hensyn til alle eventuelle bevis for at transportforetaket ikke med rimelighet kan holdes ansvarlig for den overtredelse som er begått.
+
+5\. Foretak, avsendere, speditører, turoperatører, hovedleverandører, underleverandører og førerformidlingsbyråer skal påse at avtalte transporttidsplaner er i samsvar med denne avtale.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 6.
 
 ### Artikkel 121
 
-1. Avtalepartene skal iverksette alle tiltak som er nødvendig for å sikre at bestemmelsene i denne avtalen blir overholdt, særlig gjennom omfattende kontroller ved veien og kontroller på foretakenes områder, slik at en stor og representativ del av alle førere, foretak og kjøretøy av alle transportkategorier som omfattes av denne avtalen, blir kontrollert hvert år.Avtalepartenes kompetente myndigheter skal organisere kontrollene slik at følgende kriterier oppfylles:Minst 1 % av arbeidsdagene til førere av kjøretøy som omfattes av denne avtalen, skal kontrolleres hvert kalenderår. Fra 1. januar 2010 skal denne prosentandelen øke til minst 2 %, og fra 1. januar 2012 til minst 3 %.Minst 15 % av det totale antallet arbeidsdager som blir kontrollert, skal kontrolleres ved veien, og minst 25 % på foretakenes områder. Fra 1. januar 2010 skal minst 30 % av alle kontrollerte arbeidsdager kontrolleres ved veien, og minst 50 % skal kontrolleres på foretakenes områder.Kontrollene ved veien skal bl.a. omfatte:kontroll av daglige og ukentlige kjøreperioder, brudd og døgn- og ukehviler,gjennomgang av diagramskivene for de foregående dagene, som skal være i kjøretøyet, og/eller de opplysningene som er lagret for samme periode på førerkortet og/eller i minnet til fartsskriveren og/eller på utskriftene, der dette er nødvendig,sjekk av at fartsskriveren fungerer som den skal.Disse kontrollene skal utføres uten diskriminering av kjøretøy, foretak og førere, enten de er hjemmehørende i landet eller ikke, og uavhengig av turens utgangspunkt eller bestemmelsessted eller type fartsskriver.Kontrollene på transportforetakenes områder skal, i tillegg til de elementer som kontrolleres ved veien, og overholdelse av bestemmelsene i artikkel 11 nr. 2 i vedlegget, også omfatte kontroll av:ukehviler og kjøreperioder mellom disse hvileperiodene,begrensningen på antallet kjøretimer per toukersperiode,kompensasjon for ukehviler som er redusert i samsvar med artikkel 8 nr. 6,bruken av diagramskiver og/eller data og utskrifter fra kjøretøyenhet og førerkort og/eller organiseringen av førerens kjøretid.
+*Tiltak for å håndheve avtalen*
 
-2. Avtalepartenes kompetente myndigheter skal innenfor rammen av gjensidig bistand, regelmessig sende hverandre alle tilgjengelige opplysninger om:brudd på denne avtalen som er begått av personer som ikke er bosatt i landet, og eventuelle sanksjoner som er ilagt for disse overtredelsene,hvilke sanksjoner avtaleparten ilegger personer som er bosatt i landet for slike overtredelser, når disse er begått på territoriet til andre avtaleparter.Dersom det dreier seg om alvorlige overtredelser, skal det være med opplysninger om hvilke sanksjoner som er ilagt.
+1\. Avtalepartene skal iverksette alle tiltak som er nødvendig for å sikre at bestemmelsene i denne avtalen blir overholdt, særlig gjennom omfattende kontroller ved veien og kontroller på foretakenes områder, slik at en stor og representativ del av alle førere, foretak og kjøretøy av alle transportkategorier som omfattes av denne avtalen, blir kontrollert hvert år.Avtalepartenes kompetente myndigheter skal organisere kontrollene slik at følgende kriterier oppfylles:Minst 1 % av arbeidsdagene til førere av kjøretøy som omfattes av denne avtalen, skal kontrolleres hvert kalenderår. Fra 1. januar 2010 skal denne prosentandelen øke til minst 2 %, og fra 1. januar 2012 til minst 3 %.Minst 15 % av det totale antallet arbeidsdager som blir kontrollert, skal kontrolleres ved veien, og minst 25 % på foretakenes områder. Fra 1. januar 2010 skal minst 30 % av alle kontrollerte arbeidsdager kontrolleres ved veien, og minst 50 % skal kontrolleres på foretakenes områder.Kontrollene ved veien skal bl.a. omfatte:kontroll av daglige og ukentlige kjøreperioder, brudd og døgn- og ukehviler,gjennomgang av diagramskivene for de foregående dagene, som skal være i kjøretøyet, og/eller de opplysningene som er lagret for samme periode på førerkortet og/eller i minnet til fartsskriveren og/eller på utskriftene, der dette er nødvendig,sjekk av at fartsskriveren fungerer som den skal.Disse kontrollene skal utføres uten diskriminering av kjøretøy, foretak og førere, enten de er hjemmehørende i landet eller ikke, og uavhengig av turens utgangspunkt eller bestemmelsessted eller type fartsskriver.Kontrollene på transportforetakenes områder skal, i tillegg til de elementer som kontrolleres ved veien, og overholdelse av bestemmelsene i artikkel 11 nr. 2 i vedlegget, også omfatte kontroll av:ukehviler og kjøreperioder mellom disse hvileperiodene,begrensningen på antallet kjøretimer per toukersperiode,kompensasjon for ukehviler som er redusert i samsvar med artikkel 8 nr. 6,bruken av diagramskiver og/eller data og utskrifter fra kjøretøyenhet og førerkort og/eller organiseringen av førerens kjøretid.
 
-3. Dersom en kontroll ved veien gir grunn til å tro at en fører av et kjøretøy som er registrert på territoriet til en annen avtalepart, har begått overtredelser som ikke kan påvises under kontrollen fordi nødvendige opplysninger mangler, skal de berørte avtalepartenes kompetente myndigheter bistå hverandre for å oppklare situasjonen. Dersom den aktuelle avtalepart med dette for øyet gjennomfører en kontroll på transportforetakets område, skal resultatet av denne kontrollen formidles til den andre berørte avtaleparten.
+2\. Avtalepartenes kompetente myndigheter skal innenfor rammen av gjensidig bistand, regelmessig sende hverandre alle tilgjengelige opplysninger om:brudd på denne avtalen som er begått av personer som ikke er bosatt i landet, og eventuelle sanksjoner som er ilagt for disse overtredelsene,hvilke sanksjoner avtaleparten ilegger personer som er bosatt i landet for slike overtredelser, når disse er begått på territoriet til andre avtaleparter.Dersom det dreier seg om alvorlige overtredelser, skal det være med opplysninger om hvilke sanksjoner som er ilagt.
 
-4. Avtalepartene skal samarbeide om organiseringen av kontroller ved veien, slik at de kan foreta samordnede kontroller.
+3\. Dersom en kontroll ved veien gir grunn til å tro at en fører av et kjøretøy som er registrert på territoriet til en annen avtalepart, har begått overtredelser som ikke kan påvises under kontrollen fordi nødvendige opplysninger mangler, skal de berørte avtalepartenes kompetente myndigheter bistå hverandre for å oppklare situasjonen. Dersom den aktuelle avtalepart med dette for øyet gjennomfører en kontroll på transportforetakets område, skal resultatet av denne kontrollen formidles til den andre berørte avtaleparten.
 
-5. FNs økonomiske kommisjon for Europa skal hvert andre år utgi en rapport om avtalepartenes anvendelse av nr. 1 i denne artikkel.
+4\. Avtalepartene skal samarbeide om organiseringen av kontroller ved veien, slik at de kan foreta samordnede kontroller.
+
+5\. FNs økonomiske kommisjon for Europa skal hvert andre år utgi en rapport om avtalepartenes anvendelse av nr. 1 i denne artikkel.
 
 6.Den enkelte avtalepart skal gi sine kompetente myndigheter fullmakt til å ilegge førere sanksjoner for overtredelser av denne avtale som blir oppdaget på avtalepartens territorium, selv om overtredelsen er begått på territoriet til en annen avtalepart eller i et land som ikke er part i avtalen, forutsatt at vedkommende ikke allerede er ilagt sanksjoner for den aktuelle overtredelsen,Den enkelte avtalepart skal gi sine kompetente myndigheter fullmakt til å ilegge transportforetak sanksjoner for overtredelser av denne avtale som blir oppdaget på avtalepartens territorium, selv om overtredelsen er begått på territoriet til en annen avtalepart eller i et land som ikke er part i avtalen, forutsatt at vedkommende foretak ikke allerede er ilagt sanksjoner for den aktuelle overtredelsen.Dersom det blir oppdaget at et foretak som er hjemmehørende i en annen avtalepart, eller i et land som ikke er part i avtalen, har begått en overtredelse, skal ileggelsen av sanksjoner, som et unntak, være i samsvar med den prosedyre som er fastsatt i den bilaterale veitransportavtalen mellom de berørte partene.Avtalepartene skal fra 2011 undersøke muligheten for å fjerne unntaket i nr. 6 bokstav b) dersom alle avtalepartene blir enige om det.
 
-7. Når en avtalepart innleder sak eller ilegger en sanksjon for en overtredelse, skal den legge fram for føreren skriftlig bevis.
+7\. Når en avtalepart innleder sak eller ilegger en sanksjon for en overtredelse, skal den legge fram for føreren skriftlig bevis.
 
-8. Avtalepartene skal sørge for at et system med forholdsmessige sanksjoner, som også kan omfatte økonomiske sanksjoner, er i kraft for overtredelser av denne avtale som begås av foretak eller tilknyttede oppdragsgivere, speditører, turoperatører, hovedleverandører, underleverandører eller førerformidlingsbyråer.
+8\. Avtalepartene skal sørge for at et system med forholdsmessige sanksjoner, som også kan omfatte økonomiske sanksjoner, er i kraft for overtredelser av denne avtale som begås av foretak eller tilknyttede oppdragsgivere, speditører, turoperatører, hovedleverandører, underleverandører eller førerformidlingsbyråer.
+
+1 Endret i avtaletillegg nr. 2, 4 og 6.
 
 ### Artikkel 12 bis1
 
-1. For å gjøre det enklere å gjennomføre kontroller ved veien vil det i vedlegget til avtalen bli presentert standardiserte skjemaer, som kan brukes ved behov, og vedlegget vil derfor bli utvidet med et tillegg nr. 3. Disse skjemaene vil bli introdusert og eventuelt endret i samsvar med den prosedyre som er fastsatt i artikkel 22 ter.
+*Standardiserte skjemaer*
 
-2. Det er ikke obligatorisk å bruke de standardskjemaene som vises i tillegg nr. 3, men dersom de blir brukt, skal man følge opplegget og innholdet i skjemaene, særlig hva angår nummerering, rekkefølge og navn på de enkelte punktene.
+1\. For å gjøre det enklere å gjennomføre kontroller ved veien vil det i vedlegget til avtalen bli presentert standardiserte skjemaer, som kan brukes ved behov, og vedlegget vil derfor bli utvidet med et tillegg nr. 3. Disse skjemaene vil bli introdusert og eventuelt endret i samsvar med den prosedyre som er fastsatt i artikkel 22 ter.
 
-3. Avtalepartene kan supplere disse opplysningene med tilleggsinformasjon for å oppfylle nasjonale eller regionale krav. Slik tilleggsinformasjon skal under ingen omstendighet kreves for transport som kommer fra en annen avtalepart eller fra et land som ikke er part i avtalen. Derfor skal disse opplysningene stå på en plass på skjemaet som er helt atskilt fra opplysningene som er fastsatt for internasjonal trafikk.
+2\. Det er ikke obligatorisk å bruke de standardskjemaene som vises i tillegg nr. 3, men dersom de blir brukt, skal man følge opplegget og innholdet i skjemaene, særlig hva angår nummerering, rekkefølge og navn på de enkelte punktene.
 
-4. Disse skjemaene skal godtas ved enhver kontroll som utføres ved veien på territoriet til partene i denne avtale.
+3\. Avtalepartene kan supplere disse opplysningene med tilleggsinformasjon for å oppfylle nasjonale eller regionale krav. Slik tilleggsinformasjon skal under ingen omstendighet kreves for transport som kommer fra en annen avtalepart eller fra et land som ikke er part i avtalen. Derfor skal disse opplysningene stå på en plass på skjemaet som er helt atskilt fra opplysningene som er fastsatt for internasjonal trafikk.
+
+4\. Disse skjemaene skal godtas ved enhver kontroll som utføres ved veien på territoriet til partene i denne avtale.
+
+1 Lagt til i avtaletillegg nr. 6.
 
 ### Artikkel 131
 
-1. Alle de nye bestemmelsene i denne avtale, herunder vedlegget og tilleggene 1B og 2, som gjelder innføring av en digital fartsskriver, skal være bindende for land som er avtalepart senest fire år etter at de relevante endringene er trådt i kraft, i samsvar med prosedyren fastsatt i artikkel 21. Følgelig skal alle kjøretøy som omfattes av denne avtale, og som blir satt i drift for første gang etter utløpet av denne perioden, være utstyrt med en fartsskriver som tilfredsstiller disse nye kravene. I denne fireårsperioden skal de av avtalepartene som ennå ikke har implementert disse endringene i sine land, godta og kontrollere på sine territorier kjøretøy fra andre avtaleparter som allerede er utstyrt med en slik digital fartsskriver.
+*Overgangsbestemmelser*
+
+1\. Alle de nye bestemmelsene i denne avtale, herunder vedlegget og tilleggene 1B og 2, som gjelder innføring av en digital fartsskriver, skal være bindende for land som er avtalepart senest fire år etter at de relevante endringene er trådt i kraft, i samsvar med prosedyren fastsatt i artikkel 21. Følgelig skal alle kjøretøy som omfattes av denne avtale, og som blir satt i drift for første gang etter utløpet av denne perioden, være utstyrt med en fartsskriver som tilfredsstiller disse nye kravene. I denne fireårsperioden skal de av avtalepartene som ennå ikke har implementert disse endringene i sine land, godta og kontrollere på sine territorier kjøretøy fra andre avtaleparter som allerede er utstyrt med en slik digital fartsskriver.
 
 2.Avtalepartene skal treffe de nødvendige tiltak for å sikre at de er klare til å utstede førerkortene som er omtalt i det endrede vedlegget til denne avtale, senest tre måneder før utløpet av fireårsfristen som er fastsatt i nr. 1. Denne perioden på minimum tre måneder skal også overholdes i de tilfeller der en avtalepart implementerer bestemmelsene om den digitale fartsskriveren, i samsvar med tillegg 1B til vedlegget, før utløpet av fireårsfristen. Disse avtalepartene skal holde sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa informert om utviklingen i arbeidet med å innføre en digital fartsskriver, i samsvar med tillegg 1B til vedlegget, innenfor deres territoriumI påvente av at avtalepartene skal utstede førerkortene som er omtalt i bokstav a), skal bestemmelsene i artikkel 14 i vedlegget til denne avtale gjelde for førere som blir bedt om å kjøre kjøretøy som er utstyrt med digital fartsskriver i samsvar med tillegg 1B til vedlegget.
 
-3. Ethvert ratifiserings- eller tiltredelsesdokument som blir deponert av en stat etter at endringene som er omtalt i nr. 1, er trådt i kraft, skal anses å gjelde den endrede avtalen, herunder implementeringsfristen som er fastsatt i nr. 1.Dersom en stat tiltrer avtalen mindre enn to år før utløpet av fristen som er omtalt i nr. 1, skal den ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument opplyse depositaren om når den digitale fartsskriveren vil bli tatt effektivt i bruk på vedkommende stats territorium. Staten kan i et slikt tilfelle benytte seg av en overgangsperiode på maksimalt to år fra avtalen trer i kraft for vedkommende stat. Depositaren skal informere de andre avtalepartene om dette.Bestemmelsene i foregående nummer skal også gjelde i de tilfeller der en stat tiltrer avtalen etter utløpet av implementeringsfristen på fire år som er omtalt i nr. 1.
+3\. Ethvert ratifiserings- eller tiltredelsesdokument som blir deponert av en stat etter at endringene som er omtalt i nr. 1, er trådt i kraft, skal anses å gjelde den endrede avtalen, herunder implementeringsfristen som er fastsatt i nr. 1.Dersom en stat tiltrer avtalen mindre enn to år før utløpet av fristen som er omtalt i nr. 1, skal den ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument opplyse depositaren om når den digitale fartsskriveren vil bli tatt effektivt i bruk på vedkommende stats territorium. Staten kan i et slikt tilfelle benytte seg av en overgangsperiode på maksimalt to år fra avtalen trer i kraft for vedkommende stat. Depositaren skal informere de andre avtalepartene om dette.Bestemmelsene i foregående nummer skal også gjelde i de tilfeller der en stat tiltrer avtalen etter utløpet av implementeringsfristen på fire år som er omtalt i nr. 1.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 5.
 
 ### Artikkel 13 bis1
 
+*Overgangsbestemmelser*
+
 Bestemmelsene som det refereres til på slutten av artikkel 12 nr. 7 bokstav a) og b) i vedlegget til denne avtale, skal gjelde tre måneder etter at denne endring er trådt i kraft.
+
+1 Lagt til i avtaletillegg nr. 6.
 
 ### Artikkel 14
 
-1. Denne avtale skal være åpen for undertegning til 31. mars 1971, og den skal deretter kunne tiltres av stater som er medlem av FNs økonomiske kommisjon for Europa og stater som er opptatt i kommisjonen som konsultative medlemmer, i samsvar med punkt 8 i kommisjonens mandat.
+*Sluttbestemmelser*
 
-2. Denne avtale skal ratifiseres.
+1\. Denne avtale skal være åpen for undertegning til 31. mars 1971, og den skal deretter kunne tiltres av stater som er medlem av FNs økonomiske kommisjon for Europa og stater som er opptatt i kommisjonen som konsultative medlemmer, i samsvar med punkt 8 i kommisjonens mandat.
 
-3. Ratifiserings- og tiltredelsesdokumentene skal deponeres hos De forente nasjoners generalsekretær.
+2\. Denne avtale skal ratifiseres.
 
-4. Denne avtale skal tre i kraft på den etthundreogåttiende dagen etter at det åttende ratifiserings- eller tiltredelsesdokumentet er deponert hos FNs generalsekretær.
+3\. Ratifiserings- og tiltredelsesdokumentene skal deponeres hos De forente nasjoners generalsekretær.
 
-5. For enhver stat som ratifiserer eller tiltrer denne avtale etter at det åttende ratifiserings- eller tiltredelsesdokumentet er deponert hos FNs generalsekretær, i henhold til nr. 4 i denne artikkel, skal avtalen tre i kraft ett hundre og åtti dager etter at vedkommende stat har deponert sitt ratifiserings- eller tiltredelsesdokument.
+4\. Denne avtale skal tre i kraft på den etthundreogåttiende dagen etter at det åttende ratifiserings- eller tiltredelsesdokumentet er deponert hos FNs generalsekretær.
+
+5\. For enhver stat som ratifiserer eller tiltrer denne avtale etter at det åttende ratifiserings- eller tiltredelsesdokumentet er deponert hos FNs generalsekretær, i henhold til nr. 4 i denne artikkel, skal avtalen tre i kraft ett hundre og åtti dager etter at vedkommende stat har deponert sitt ratifiserings- eller tiltredelsesdokument.
 
 ### Artikkel 15
 
-1. Enhver avtalepart kan si opp denne avtale gjennom en melding adressert til FNs generalsekretær.
+1\. Enhver avtalepart kan si opp denne avtale gjennom en melding adressert til FNs generalsekretær.
 
-2. Oppsigelsen skal tre i kraft seks måneder etter at generalsekretæren mottok meldingen.
+2\. Oppsigelsen skal tre i kraft seks måneder etter at generalsekretæren mottok meldingen.
 
 ### Artikkel 16
 
@@ -230,89 +314,111 @@ Denne avtale skal ikke lenger gjelde dersom antallet avtaleparter er mindre enn 
 
 ### Artikkel 171
 
-1. Enhver stat kan ved undertegningen av denne avtale eller ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument, eller på et hvilket som helst senere tidspunkt, gjennom en underretning adressert til FNs generalsekretær, erklære at avtalens gyldighetsområde skal utvides til også å gjelde ett eller flere territorier som vedkommende stat er ansvarlig for utenriksforbindelsene til. Avtalen skal gjelde for det eller de territorier som er nevnt i underretningen, fra den etthundreogåttiende dagen etter at generalsekretæren mottok underretningen, eller, dersom avtalen ennå ikke er trådt i kraft på det tidspunktet, fra den dato avtalen trer i kraft.
+1\. Enhver stat kan ved undertegningen av denne avtale eller ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument, eller på et hvilket som helst senere tidspunkt, gjennom en underretning adressert til FNs generalsekretær, erklære at avtalens gyldighetsområde skal utvides til også å gjelde ett eller flere territorier som vedkommende stat er ansvarlig for utenriksforbindelsene til. Avtalen skal gjelde for det eller de territorier som er nevnt i underretningen, fra den etthundreogåttiende dagen etter at generalsekretæren mottok underretningen, eller, dersom avtalen ennå ikke er trådt i kraft på det tidspunktet, fra den dato avtalen trer i kraft.
 
-2. Enhver stat som gjennom en erklæring i samsvar med foregående nummer har gjort avtalen gjeldende for et territorium som vedkommende stat er ansvarlig for utenriksforbindelsene til, kan si opp avtalen for dette territoriet separat, i samsvar med bestemmelsene i avtalens artikkel 15.
+2\. Enhver stat som gjennom en erklæring i samsvar med foregående nummer har gjort avtalen gjeldende for et territorium som vedkommende stat er ansvarlig for utenriksforbindelsene til, kan si opp avtalen for dette territoriet separat, i samsvar med bestemmelsene i avtalens artikkel 15.
+
+1 Endret i avtaletillegg nr. 2.
 
 ### Artikkel 18
 
-1. Enhver tvist mellom to eller flere avtaleparter om tolkingen eller anvendelsen av denne avtale skal så langt det er mulig løses gjennom forhandlinger mellom partene.
+1\. Enhver tvist mellom to eller flere avtaleparter om tolkingen eller anvendelsen av denne avtale skal så langt det er mulig løses gjennom forhandlinger mellom partene.
 
-2. Enhver tvist som ikke lar seg løse gjennom forhandlinger, skal gå til voldgift dersom en av de avtaleparter tvisten berører, ber om det, og saken skal da sendes til en eller flere voldgiftsmenn som de berørte parter blir enige om å velge. Dersom de berørte parter ikke er i stand til å bli enige om en eller flere voldgiftsmenn innen tre måneder etter at det ble bedt om voldgift, kan en av partene be FNs generalsekretær utnevne en voldgiftsmann, som tvisten så skal sendes til for avgjørelse.
+2\. Enhver tvist som ikke lar seg løse gjennom forhandlinger, skal gå til voldgift dersom en av de avtaleparter tvisten berører, ber om det, og saken skal da sendes til en eller flere voldgiftsmenn som de berørte parter blir enige om å velge. Dersom de berørte parter ikke er i stand til å bli enige om en eller flere voldgiftsmenn innen tre måneder etter at det ble bedt om voldgift, kan en av partene be FNs generalsekretær utnevne en voldgiftsmann, som tvisten så skal sendes til for avgjørelse.
 
-3. Avgjørelsen til den eller de voldgiftsmenn som blir utnevnt i henhold til foregående nummer, skal være bindende for de avtaleparter som er berørt av tvisten.
+3\. Avgjørelsen til den eller de voldgiftsmenn som blir utnevnt i henhold til foregående nummer, skal være bindende for de avtaleparter som er berørt av tvisten.
 
 ### Artikkel 191
 
-1. Enhver stat kan ved undertegningen eller ratifiseringen av, eller ved tiltredelsen til denne avtale, erklære at den ikke anser seg bundet av avtalens artikkel 18 nr. 2 og 3. De andre avtalepartene skal ikke være bundet av de nevnte bestemmelsene overfor en avtalepart som har tatt et slikt forbehold.
+1\. Enhver stat kan ved undertegningen eller ratifiseringen av, eller ved tiltredelsen til denne avtale, erklære at den ikke anser seg bundet av avtalens artikkel 18 nr. 2 og 3. De andre avtalepartene skal ikke være bundet av de nevnte bestemmelsene overfor en avtalepart som har tatt et slikt forbehold.
 
-2. Dersom en stat ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument tar et annet forbehold enn det som er nevnt i nr. 1 i denne artikkel, skal FNs generalsekretær formidle dette til de stater som allerede har deponert sine ratifiserings- eller tiltredelsesdokumenter, og som ikke i ettertid har sagt opp avtalen.Forbeholdet skal regnes som godtatt dersom ingen av de nevnte stater innen seks måneder etter at de ble informert om forbeholdet, har gitt uttrykk for at de ikke godtar det. I motsatt fall skal forbeholdet ikke godtas, og deponeringen av vedkommende stats ratifiserings- eller tiltredelsesdokument skal da, med mindre staten hever forbeholdet, ikke ha noen virkning.Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innvendinger fra stater hvis tiltredelse eller ratifisering i henhold til dette nummer er satt ut av kraft på grunn av forbehold som disse stater har tatt.
+2\. Dersom en stat ved deponeringen av sitt ratifiserings- eller tiltredelsesdokument tar et annet forbehold enn det som er nevnt i nr. 1 i denne artikkel, skal FNs generalsekretær formidle dette til de stater som allerede har deponert sine ratifiserings- eller tiltredelsesdokumenter, og som ikke i ettertid har sagt opp avtalen.Forbeholdet skal regnes som godtatt dersom ingen av de nevnte stater innen seks måneder etter at de ble informert om forbeholdet, har gitt uttrykk for at de ikke godtar det. I motsatt fall skal forbeholdet ikke godtas, og deponeringen av vedkommende stats ratifiserings- eller tiltredelsesdokument skal da, med mindre staten hever forbeholdet, ikke ha noen virkning.Når det gjelder anvendelsen av dette nummer, skal det ikke tas hensyn til innvendinger fra stater hvis tiltredelse eller ratifisering i henhold til dette nummer er satt ut av kraft på grunn av forbehold som disse stater har tatt.
 
-3. Enhver avtalepart som har fått et forbehold innført i underskriftsprotokollen til denne avtale, eller som har tatt et forbehold i henhold til nr. 1 i denne artikkel, eller som har tatt et forbehold som er blitt godtatt i henhold til nr. 2 i denne artikkel, kan på et hvilket som helst tidspunkt trekke forbeholdet tilbake gjennom en melding adressert til FNs generalsekretær.
+3\. Enhver avtalepart som har fått et forbehold innført i underskriftsprotokollen til denne avtale, eller som har tatt et forbehold i henhold til nr. 1 i denne artikkel, eller som har tatt et forbehold som er blitt godtatt i henhold til nr. 2 i denne artikkel, kan på et hvilket som helst tidspunkt trekke forbeholdet tilbake gjennom en melding adressert til FNs generalsekretær.
+
+1 Endret i avtaletillegg nr. 2.
 
 ### Artikkel 201
 
-1. Etter at denne avtale har vært i kraft i tre år, kan enhver avtalepart gjennom en melding adressert til FNs generalsekretær be om at det blir kalt sammen til en konferanse for å revidere avtalen. Generalsekretæren skal underrette alle avtalepartene om anmodningen, og han skal kalle sammen til en revisjonskonferanse dersom ikke mindre enn en tredjedel av avtalepartene gir sitt samtykke til anmodningen innen fire måneder etter at de ble underrettet av generalsekretæren.
+1\. Etter at denne avtale har vært i kraft i tre år, kan enhver avtalepart gjennom en melding adressert til FNs generalsekretær be om at det blir kalt sammen til en konferanse for å revidere avtalen. Generalsekretæren skal underrette alle avtalepartene om anmodningen, og han skal kalle sammen til en revisjonskonferanse dersom ikke mindre enn en tredjedel av avtalepartene gir sitt samtykke til anmodningen innen fire måneder etter at de ble underrettet av generalsekretæren.
 
-2. Dersom det blir kalt sammen til en konferanse i henhold til foregående nummer, skal generalsekretæren underrette alle avtalepartene og invitere dem til å legge fram, innen et tidsrom på tre måneder, de forslag som de vil at konferansen skal ta stilling til. Generalsekretæren skal sende rundt til alle avtalepartene en foreløpig agenda for konferansen, sammen med teksten til de innsendte forslagene, senest tre måneder før konferansen skal tre sammen.
+2\. Dersom det blir kalt sammen til en konferanse i henhold til foregående nummer, skal generalsekretæren underrette alle avtalepartene og invitere dem til å legge fram, innen et tidsrom på tre måneder, de forslag som de vil at konferansen skal ta stilling til. Generalsekretæren skal sende rundt til alle avtalepartene en foreløpig agenda for konferansen, sammen med teksten til de innsendte forslagene, senest tre måneder før konferansen skal tre sammen.
 
-3. Generalsekretæren skal til enhver konferanse som blir kalt sammen i henhold til denne artikkel, invitere alle de stater som det er referert til i artikkel 14 nr. 1 i denne avtale.
+3\. Generalsekretæren skal til enhver konferanse som blir kalt sammen i henhold til denne artikkel, invitere alle de stater som det er referert til i artikkel 14 nr. 1 i denne avtale.
+
+1 Endret i avtaletillegg nr. 2.
 
 ### Artikkel 211
 
-1. Enhver avtalepart kan foreslå en eller flere endringer i denne avtale. Teksten til ethvert endringsforslag skal sendes til FNs generalsekretær, som skal formidle det videre til alle avtalepartene og informere om det til alle de andre statene som det er referert til i artikkel 14 nr. 1 i denne avtale.
+1\. Enhver avtalepart kan foreslå en eller flere endringer i denne avtale. Teksten til ethvert endringsforslag skal sendes til FNs generalsekretær, som skal formidle det videre til alle avtalepartene og informere om det til alle de andre statene som det er referert til i artikkel 14 nr. 1 i denne avtale.
 
-2. Innen et tidsrom på seks måneder etter at generalsekretæren har videreformidlet et endringsforslag, kan enhver avtalepart underrette generalsekretæren om:at den har en innsigelse mot den foreslåtte endringen, ellerat den vil godta forslaget, men at de nasjonale vilkårene for å godkjenne det ennå ikke er oppfylt.
+2\. Innen et tidsrom på seks måneder etter at generalsekretæren har videreformidlet et endringsforslag, kan enhver avtalepart underrette generalsekretæren om:at den har en innsigelse mot den foreslåtte endringen, ellerat den vil godta forslaget, men at de nasjonale vilkårene for å godkjenne det ennå ikke er oppfylt.
 
-3. Dersom en avtalepart har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel, kan parten, med mindre den har underrettet generalsekretæren om at den godtar den foreslåtte endringen, fremme innsigelse mot forslaget innen ni måneder etter utløpet av seksmånedersfristen som er fastsatt for å fremme innsigelse.
+3\. Dersom en avtalepart har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel, kan parten, med mindre den har underrettet generalsekretæren om at den godtar den foreslåtte endringen, fremme innsigelse mot forslaget innen ni måneder etter utløpet av seksmånedersfristen som er fastsatt for å fremme innsigelse.
 
-4. Dersom det blir reist innsigelse mot den foreslåtte endringen, i samsvar med vilkårene i nr. 2 og 3 i denne artikkel, skal endringen ikke anses som godkjent, og endringsforslaget skal ikke ha noen effekt
+4\. Dersom det blir reist innsigelse mot den foreslåtte endringen, i samsvar med vilkårene i nr. 2 og 3 i denne artikkel, skal endringen ikke anses som godkjent, og endringsforslaget skal ikke ha noen effekt
 
-5. Dersom det ikke blir reist innsigelse mot den foreslåtte endringen i samsvar med vilkårene i nr. 2 og 3 i denne artikkel, skal endringen regnes som godkjent fra den dato som framgår nedenfor:dersom ingen av avtalepartene har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel: på den dato seksmånedersfristen som er fastsatt i nr. 2 i denne artikkel, utløper,dersom en eller flere av avtalepartene har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel: på den dato som kommer først av følgende to:datoen da alle avtaleparter som har sendt slike underretninger, har gitt generalsekretæren beskjed om at de godtar endringsforslaget, med det forbehold at dersom alle godkjenningene ble kommunisert før utløpet av seksmånedersfristen som det refereres til i nr. 2 i denne artikkel, skal denne datoen settes til datoen da den nevnte seksmånedersfristen utløper,datoen da nimånedersfristen som er omtalt i nr. 3 i denne artikkel, utløper.
+5\. Dersom det ikke blir reist innsigelse mot den foreslåtte endringen i samsvar med vilkårene i nr. 2 og 3 i denne artikkel, skal endringen regnes som godkjent fra den dato som framgår nedenfor:dersom ingen av avtalepartene har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel: på den dato seksmånedersfristen som er fastsatt i nr. 2 i denne artikkel, utløper,dersom en eller flere av avtalepartene har sendt generalsekretæren en underretning i henhold til nr. 2 bokstav b) i denne artikkel: på den dato som kommer først av følgende to:datoen da alle avtaleparter som har sendt slike underretninger, har gitt generalsekretæren beskjed om at de godtar endringsforslaget, med det forbehold at dersom alle godkjenningene ble kommunisert før utløpet av seksmånedersfristen som det refereres til i nr. 2 i denne artikkel, skal denne datoen settes til datoen da den nevnte seksmånedersfristen utløper,datoen da nimånedersfristen som er omtalt i nr. 3 i denne artikkel, utløper.
 
-5. *bis* Dersom et land blir part i denne avtale mellom tidspunktet for underretning om et endringsutkast og det tidspunkt da dette regnes som godkjent, skal sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa underrette den nye avtaleparten om endringsutkastet så snart som mulig. Sistnevnte kan melde fra til generalsekretæren om eventuell innsigelse før utløpet av fristen på seks måneder fra datoen for formidling av det opprinnelige endringsforslaget til alle avtalepartene.
+5\. *bis* Dersom et land blir part i denne avtale mellom tidspunktet for underretning om et endringsutkast og det tidspunkt da dette regnes som godkjent, skal sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa underrette den nye avtaleparten om endringsutkastet så snart som mulig. Sistnevnte kan melde fra til generalsekretæren om eventuell innsigelse før utløpet av fristen på seks måneder fra datoen for formidling av det opprinnelige endringsforslaget til alle avtalepartene.
 
-6. Enhver endring som regnes som godkjent skal tre i kraft tre måneder etter den dato da den ble regnet som godkjent.
+6\. Enhver endring som regnes som godkjent skal tre i kraft tre måneder etter den dato da den ble regnet som godkjent.
 
-7. Generalsekretæren skal så snart som mulig underrette alle avtalepartene om hvorvidt det er reist innsigelse mot endringsforslaget i henhold til nr. 2 bokstav a) i denne artikkel, og hvorvidt han fra en eller flere av avtalepartene har mottatt en underretning i henhold til nr. 2 bokstav b) i denne artikkel. Dersom han har mottatt en slik underretning fra en eller flere av avtalepartene, skal han senere informere alle avtalepartene om hvorvidt den eller de av partene som har sendt en slik underretning, fremmer innsigelse mot endringsforslaget eller godtar det.
+7\. Generalsekretæren skal så snart som mulig underrette alle avtalepartene om hvorvidt det er reist innsigelse mot endringsforslaget i henhold til nr. 2 bokstav a) i denne artikkel, og hvorvidt han fra en eller flere av avtalepartene har mottatt en underretning i henhold til nr. 2 bokstav b) i denne artikkel. Dersom han har mottatt en slik underretning fra en eller flere av avtalepartene, skal han senere informere alle avtalepartene om hvorvidt den eller de av partene som har sendt en slik underretning, fremmer innsigelse mot endringsforslaget eller godtar det.
 
-8. Vedlegget til denne avtale kan, uavhengig av endringsprosedyren som er fastsatt i nr. 1-6 i denne artikkel, endres gjennom avtale mellom de kompetente myndigheter i alle partstatene. Dersom den kompetente myndighet i en partstat har opplyst om at dens samtykke i henhold til partens nasjonale lovgivning er betinget av en spesiell autorisasjon for formålet, eller av godkjenning fra et lovgivende organ, skal samtykke til endringen av vedlegget fra den aktuelle avtaleparts kompetente myndighet ikke anses å være gitt før den nevnte kompetente myndighet har underrettet generalsekretæren om at den nødvendige autorisasjon eller godkjenning er på plass. Avtalen mellom de kompetente myndigheter skal fastsette en ikrafttredelsesdato for det endrede vedlegget, og den kan inneholde en bestemmelse om at det gamle vedlegget i en overgangsperiode helt eller delvis skal fortsette å gjelde parallelt med det endrede vedlegget.
+8\. Vedlegget til denne avtale kan, uavhengig av endringsprosedyren som er fastsatt i nr. 1-6 i denne artikkel, endres gjennom avtale mellom de kompetente myndigheter i alle partstatene. Dersom den kompetente myndighet i en partstat har opplyst om at dens samtykke i henhold til partens nasjonale lovgivning er betinget av en spesiell autorisasjon for formålet, eller av godkjenning fra et lovgivende organ, skal samtykke til endringen av vedlegget fra den aktuelle avtaleparts kompetente myndighet ikke anses å være gitt før den nevnte kompetente myndighet har underrettet generalsekretæren om at den nødvendige autorisasjon eller godkjenning er på plass. Avtalen mellom de kompetente myndigheter skal fastsette en ikrafttredelsesdato for det endrede vedlegget, og den kan inneholde en bestemmelse om at det gamle vedlegget i en overgangsperiode helt eller delvis skal fortsette å gjelde parallelt med det endrede vedlegget.
+
+1 Endret i avtaletillegg nr. 2 og avtaletillegg nr. 5.
 
 ### Artikkel 221
 
-1. Tilleggene 1 og 2 til vedlegget til denne avtale kan endres gjennom prosedyren som er fastsatt i denne artikkel.
+1\. Tilleggene 1 og 2 til vedlegget til denne avtale kan endres gjennom prosedyren som er fastsatt i denne artikkel.
 
-2. Forslag til endringer i tilleggene 1 og 2 til vedlegget til denne avtale skal, etter anmodning fra en av avtalepartene, vurderes av Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa.
+2\. Forslag til endringer i tilleggene 1 og 2 til vedlegget til denne avtale skal, etter anmodning fra en av avtalepartene, vurderes av Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa.
 
-3. Dersom et endringsforslag blir vedtatt av et flertall av de medlemmer som er til stede og avgir stemme, og dersom dette flertallet inkluderer et flertall av de avtaleparter som er til stede og avgir stemme, skal generalsekretæren formidle endringen til de kompetente myndigheter i alle avtalepartene for godkjenning.
+3\. Dersom et endringsforslag blir vedtatt av et flertall av de medlemmer som er til stede og avgir stemme, og dersom dette flertallet inkluderer et flertall av de avtaleparter som er til stede og avgir stemme, skal generalsekretæren formidle endringen til de kompetente myndigheter i alle avtalepartene for godkjenning.
 
-4. Endringen skal godkjennes dersom mindre enn en tredjedel av de kompetente myndigheter i partstatene har underrettet generalsekretæren om at de har innsigelse til endringen når det har gått seks måneder etter at de ble informert om den.
+4\. Endringen skal godkjennes dersom mindre enn en tredjedel av de kompetente myndigheter i partstatene har underrettet generalsekretæren om at de har innsigelse til endringen når det har gått seks måneder etter at de ble informert om den.
 
-4. *bi* Dersom et land blir part i denne avtale mellom tidspunktet for underretning om et endringsutkast og det tidspunkt da dette regnes som godkjent, skal sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa underrette den nye avtaleparten om endringsutkastet så snart som mulig. Sistnevnte kan melde fra til generalsekretæren om eventuell innsigelse før utløpet av fristen på seks måneder fra datoen for formidling av det opprinnelige endringsforslaget til alle avtalepartene.
+4\. *bi* Dersom et land blir part i denne avtale mellom tidspunktet for underretning om et endringsutkast og det tidspunkt da dette regnes som godkjent, skal sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa underrette den nye avtaleparten om endringsutkastet så snart som mulig. Sistnevnte kan melde fra til generalsekretæren om eventuell innsigelse før utløpet av fristen på seks måneder fra datoen for formidling av det opprinnelige endringsforslaget til alle avtalepartene.
 
-5. Generalsekretæren skal underrette alle avtalepartene om enhver godkjent endring, og endringen skal tre i kraft tre måneder etter at partene mottok underretningen.
+5\. Generalsekretæren skal underrette alle avtalepartene om enhver godkjent endring, og endringen skal tre i kraft tre måneder etter at partene mottok underretningen.
+
+1 Lagt til i avtaletillegg nr. 2 og senere endret i avtaletillegg nr. 5.
 
 ### Artikkel 22 bis1
 
-1. Tillegg 1B til vedlegget til denne avtale skal endres i samsvar med den prosedyre som er fastsatt i denne artikkel.
+*Prosedyre for endring av tillegg 1B*
 
-2. Ethvert forslag til endring av de innledende artikler i tillegg 1B skal vedtas av Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa med et flertall av de avtaleparter som er til stede og avgir stemme. En endring som er vedtatt på denne måten skal av sekretariatet til arbeidsgruppen oversendes til generalsekretæren, som så skal underrette alle avtalepartene. Endringen skal tre i kraft tre måneder etter at avtalepartene er underrettet.
+1\. Tillegg 1B til vedlegget til denne avtale skal endres i samsvar med den prosedyre som er fastsatt i denne artikkel.
 
-3. Tillegg 1B, som er en utgave tilpasset denne avtale av vedlegg 1B* til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821), omtalt i avtalens artikkel 10, er direkte avhengig av endringer som innføres i dette vedlegget av Den europeiske union, og enhver endring i dette vedlegget skal gjelde for tillegg 1B på følgende vilkår:Sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa skal offisielt informere de kompetente myndigheter i alle partstater om publiseringen i EUs offisielle publikasjonsblad, *Official Journal*, av endringer som er innført i vedlegg 1B til rådsforordningen, og sekretariatet skal samtidig formidle denne informasjonen til generalsekretæren sammen med en kopi av de aktuelle tekstene.Disse endringene skal automatisk tre i kraft for tillegg 1B tre måneder etter at alle avtalepartene er informert.
+2\. Ethvert forslag til endring av de innledende artikler i tillegg 1B skal vedtas av Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa med et flertall av de avtaleparter som er til stede og avgir stemme. En endring som er vedtatt på denne måten skal av sekretariatet til arbeidsgruppen oversendes til generalsekretæren, som så skal underrette alle avtalepartene. Endringen skal tre i kraft tre måneder etter at avtalepartene er underrettet.
 
-4. Når et forslag til endring av vedlegget til denne avtale også innebærer at man foreslår å endre tillegg 1B, kan ikke endringen i tillegget tre i kraft før endringen i vedlegget. Når det innenfor denne ramme presenteres endringer i tillegg 1B samtidig med endringer i vedlegget, skal ikrafttredelsesdatoen for endringene fastsettes ved anvendelse av de prosedyrer som er beskrevet i artikkel 21.
+3\. Tillegg 1B, som er en utgave tilpasset denne avtale av vedlegg 1B\* til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821), omtalt i avtalens artikkel 10, er direkte avhengig av endringer som innføres i dette vedlegget av Den europeiske union, og enhver endring i dette vedlegget skal gjelde for tillegg 1B på følgende vilkår:Sekretariatet til Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa skal offisielt informere de kompetente myndigheter i alle partstater om publiseringen i EUs offisielle publikasjonsblad, *Official Journal*, av endringer som er innført i vedlegg 1B til rådsforordningen, og sekretariatet skal samtidig formidle denne informasjonen til generalsekretæren sammen med en kopi av de aktuelle tekstene.Disse endringene skal automatisk tre i kraft for tillegg 1B tre måneder etter at alle avtalepartene er informert.
+
+4\. Når et forslag til endring av vedlegget til denne avtale også innebærer at man foreslår å endre tillegg 1B, kan ikke endringen i tillegget tre i kraft før endringen i vedlegget. Når det innenfor denne ramme presenteres endringer i tillegg 1B samtidig med endringer i vedlegget, skal ikrafttredelsesdatoen for endringene fastsettes ved anvendelse av de prosedyrer som er beskrevet i artikkel 21.
+
+\* Sist endret i kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 (OJ L 207 av 5. august 2002 (corrigendum OJ L 77 av 13. mars 2004)) og forordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (OJ L 71 av 10. mars 2004).
+
+1 Lagt til i avtaletillegg nr. 5.
 
 ### Artikkel 22 ter1
 
-1. Tillegg nr. 3 til vedlegget til denne avtale skal endres i samsvar med følgende prosedyre.
+*Prosedyre for endring av tillegg 3*
 
-2. Ethvert forslag om å innføre i tillegg nr. 3 standardskjemaer i henhold til artikkel 12*bis* i denne avtale, eller endre eksisterende standardskjemaer, skal legges fram for Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa til vurdering. Forslaget skal regnes som godkjent dersom det blir vedtatt av et flertall av de avtaleparter som er til stede og avgir stemme.Sekretariatet ved FNs økonomiske kommisjon for Europa skal offisielt informere de kompetente myndigheter i alle land som er part i denne avtale, om enhver endring som er vedtatt på denne måten, og sekretariatet skal samtidig formidle denne informasjonen til generalsekretæren, sammen med en kopi av den aktuelle teksten.
+1\. Tillegg nr. 3 til vedlegget til denne avtale skal endres i samsvar med følgende prosedyre.
 
-3. Ethvert standardskjema som er vedtatt på denne måten kan tas i bruk tre måneder etter at avtalepartene er blitt informert.
+2\. Ethvert forslag om å innføre i tillegg nr. 3 standardskjemaer i henhold til artikkel 12*bis* i denne avtale, eller endre eksisterende standardskjemaer, skal legges fram for Arbeidsgruppen for veitransport ved FNs økonomiske kommisjon for Europa til vurdering. Forslaget skal regnes som godkjent dersom det blir vedtatt av et flertall av de avtaleparter som er til stede og avgir stemme.Sekretariatet ved FNs økonomiske kommisjon for Europa skal offisielt informere de kompetente myndigheter i alle land som er part i denne avtale, om enhver endring som er vedtatt på denne måten, og sekretariatet skal samtidig formidle denne informasjonen til generalsekretæren, sammen med en kopi av den aktuelle teksten.
+
+3\. Ethvert standardskjema som er vedtatt på denne måten kan tas i bruk tre måneder etter at avtalepartene er blitt informert.
+
+1 Lagt til i avtaletillegg nr. 6.
 
 ### Artikkel 231
 
 I tillegg til å sørge for de underretninger som er omtalt i artikkel 20 og artikkel 21 i denne avtale, skal FNs generalsekretær også underrette de stater som det refereres til i avtalens artikkel 14 nr. 1, om:ratifiseringer eller tiltredelser, i henhold til artikkel 14 i avtalen,ikrafttredelsesdatoer for denne avtale, i samsvar med avtalens artikkel 14,oppsigelser av avtalen, i henhold til artikkel 15,avtalens opphør, i henhold til artikkel 16,underretninger som er mottatt i henhold til avtalens artikkel 17,erklæringer, og underretninger som er mottatt i henhold til avtalens artikkel 19ikrafttredelsesdatoer for endringer, i henhold til avtalens artikkel 21.
+
+1 Endret i avtaletillegg nr. 2.
 
 ### Artikkel 24
 
@@ -322,7 +428,13 @@ Underskriftsprotokollen til denne avtale skal ha samme gyldighet og samme varigh
 
 Etter 31. mars 1971 skal originalutgaven av denne avtale deponeres hos De forente nasjoners generalsekretær, som skal sende bekreftede kopier av den til hver og en av de stater som det er referert til i avtalens artikkel 14 nr. 1.
 
+1 Endret i avtaletillegg nr. 2.
+
 ### Vedlegg1
+
+*Fartsskriver*
+
+1 Endret i avtaletillegg nr. 2 og senere revidert i sin helhet i avtaletillegg nr. 5.
 
 ### Generelle bestemmelser
 
@@ -352,21 +464,21 @@ De kompetente myndigheter i den stat som er avtalepart som søknaden om typegodk
 
 ### Artikkel 5
 
-1. Dersom en avtalepart som har innvilget en typegodkjenning i henhold til artikkel 2, finner ut at en fartsskriver eller en diagramskive eller et minnekort som bærer det tildelte godkjenningsmerket, ikke svarer til prototypen som avtaleparten har godkjent, skal den treffe de nødvendige tiltak for å sikre at det er samsvar mellom produksjonen og den godkjente prototypen. Om nødvendig skal typegodkjenningen tilbakekalles.
+1\. Dersom en avtalepart som har innvilget en typegodkjenning i henhold til artikkel 2, finner ut at en fartsskriver eller en diagramskive eller et minnekort som bærer det tildelte godkjenningsmerket, ikke svarer til prototypen som avtaleparten har godkjent, skal den treffe de nødvendige tiltak for å sikre at det er samsvar mellom produksjonen og den godkjente prototypen. Om nødvendig skal typegodkjenningen tilbakekalles.
 
-2. En avtalepart som har innvilget en typegodkjenning, skal trekke tilbake godkjenningen dersom det viser seg at fartsskriveren eller diagramskiven eller minnekortet som er blitt godkjent, ikke er i samsvar med kravene i dette vedlegg eller i tilleggene til vedlegget, eller dersom produktet under bruk viser mangler som gjør det uegnet til det tiltenkte formål.
+2\. En avtalepart som har innvilget en typegodkjenning, skal trekke tilbake godkjenningen dersom det viser seg at fartsskriveren eller diagramskiven eller minnekortet som er blitt godkjent, ikke er i samsvar med kravene i dette vedlegg eller i tilleggene til vedlegget, eller dersom produktet under bruk viser mangler som gjør det uegnet til det tiltenkte formål.
 
-3. Dersom en avtalepart som har innvilget en typegodkjenning, blir underrettet av en annen avtalepart om at det foreligger et slikt tilfelle som er omtalt i nr. 1 eller 2, skal den, etter å ha samrådd seg med den andre avtaleparten, også treffe de tiltak som er fastsatt i de nevnte numre, med forbehold for nr. 5.
+3\. Dersom en avtalepart som har innvilget en typegodkjenning, blir underrettet av en annen avtalepart om at det foreligger et slikt tilfelle som er omtalt i nr. 1 eller 2, skal den, etter å ha samrådd seg med den andre avtaleparten, også treffe de tiltak som er fastsatt i de nevnte numre, med forbehold for nr. 5.
 
-4. En avtalepart som har konstatert at det foreligger et slikt tilfelle som det refereres til i nr. 2, kan inntil videre nedlegge forbud mot at den aktuelle fartsskriver eller diagramskive eller det aktuelle minnekort, blir markedsført og tatt i bruk. Det samme skal gjelde i de tilfeller som er nevnt i nr. 1 for fartsskrivere eller diagramskiver eller minnekort som er unntatt fra førstegangskontroll, dersom produsenten etter å ha fått en advarsel ikke bringer utstyret i samsvar med den godkjente modellen eller med kravene i dette vedlegg.Under alle omstendigheter skal avtalepartenes kompetente myndigheter innen en måned underrette hverandre dersom en typegodkjenning blir tilbakekalt eller det blir truffet andre tiltak i samsvar med nr. 1, 2 og 3, og de skal samtidig redegjøre for grunnene til tiltakene.
+4\. En avtalepart som har konstatert at det foreligger et slikt tilfelle som det refereres til i nr. 2, kan inntil videre nedlegge forbud mot at den aktuelle fartsskriver eller diagramskive eller det aktuelle minnekort, blir markedsført og tatt i bruk. Det samme skal gjelde i de tilfeller som er nevnt i nr. 1 for fartsskrivere eller diagramskiver eller minnekort som er unntatt fra førstegangskontroll, dersom produsenten etter å ha fått en advarsel ikke bringer utstyret i samsvar med den godkjente modellen eller med kravene i dette vedlegg.Under alle omstendigheter skal avtalepartenes kompetente myndigheter innen en måned underrette hverandre dersom en typegodkjenning blir tilbakekalt eller det blir truffet andre tiltak i samsvar med nr. 1, 2 og 3, og de skal samtidig redegjøre for grunnene til tiltakene.
 
-5. Dersom en avtalepart som har innvilget en typegodkjenning, etter å ha blitt underrettet om et tilfelle som nevnt i nr. 1 eller 2, bestrider at det foreligger et slikt tilfelle, skal de berørte avtaleparter gjøre det de kan for å komme til enighet.
+5\. Dersom en avtalepart som har innvilget en typegodkjenning, etter å ha blitt underrettet om et tilfelle som nevnt i nr. 1 eller 2, bestrider at det foreligger et slikt tilfelle, skal de berørte avtaleparter gjøre det de kan for å komme til enighet.
 
 ### Artikkel 6
 
-1. En produsent som søker om typegodkjenning for en diagramskive, skal i søknaden angi hvilken type eller hvilke typer fartsskriver den aktuelle diagramskiven er konstruert for bruk i, og vedkommende skal skaffe til veie et egnet eksemplar av den eller de nevnte typer fartsskriver, slik at diagramskiven kan testes ut.
+1\. En produsent som søker om typegodkjenning for en diagramskive, skal i søknaden angi hvilken type eller hvilke typer fartsskriver den aktuelle diagramskiven er konstruert for bruk i, og vedkommende skal skaffe til veie et egnet eksemplar av den eller de nevnte typer fartsskriver, slik at diagramskiven kan testes ut.
 
-2. Avtalepartenes kompetente myndigheter skal i godkjenningsdokumentet for diagramskiven angi hvilke typer fartsskriver diagramskiven kan brukes i.
+2\. Avtalepartenes kompetente myndigheter skal i godkjenningsdokumentet for diagramskiven angi hvilke typer fartsskriver diagramskiven kan brukes i.
 
 ### Artikkel 7
 
@@ -380,15 +492,15 @@ Alle vedtak som gjøres i henhold til dette vedlegg, og som innebærer avslag p�
 
 ### Artikkel 9
 
-1. Fartsskrivere kan bare installeres og repareres av installatører eller verksteder som er godkjent for dette formål av avtalepartenes kompetente myndigheter, etter at sistnevnte eventuelt har innhentet synspunkter fra de berørte produsenter.Gyldighetstiden for godkjente verkstedkort og installatørkort skal ikke overstige ett år.Dersom et kort som er utstedt til et godkjent verksted eller en godkjent installatør, må fornyes, eller er skadet, defekt tapt eller stjålet, skal de kompetente myndigheter utstede et nytt kort innen fem virkedager etter at de har mottatt en behørig begrunnet anmodning om dette.Når det blir utstedt et nytt kort som erstatning for et gammelt, skal det nye kortet ha samme verkstednummer, men indeksen skal økes med én. Den myndighet som utsteder kortet, skal føre et register over tapte, stjålne og defekte kort.Avtalepartene skal treffe alle nødvendige tiltak for å hindre at kort som blir utstedt til godkjente installatører og verksteder, blir forfalsket.
+1\. Fartsskrivere kan bare installeres og repareres av installatører eller verksteder som er godkjent for dette formål av avtalepartenes kompetente myndigheter, etter at sistnevnte eventuelt har innhentet synspunkter fra de berørte produsenter.Gyldighetstiden for godkjente verkstedkort og installatørkort skal ikke overstige ett år.Dersom et kort som er utstedt til et godkjent verksted eller en godkjent installatør, må fornyes, eller er skadet, defekt tapt eller stjålet, skal de kompetente myndigheter utstede et nytt kort innen fem virkedager etter at de har mottatt en behørig begrunnet anmodning om dette.Når det blir utstedt et nytt kort som erstatning for et gammelt, skal det nye kortet ha samme verkstednummer, men indeksen skal økes med én. Den myndighet som utsteder kortet, skal føre et register over tapte, stjålne og defekte kort.Avtalepartene skal treffe alle nødvendige tiltak for å hindre at kort som blir utstedt til godkjente installatører og verksteder, blir forfalsket.
 
-2. Godkjente installatører og verksteder skal ha et eget merke som de skal sette på de forseglinger de utfører, og de skal i tillegg, for fartsskrivere som er i samsvar med tillegg 1B, legge inn de elektroniske sikkerhetsdata som særlig skal muliggjøre autentisitetskontroller. De kompetente myndigheter i hver avtalepart skal føre et register over de merker og elektroniske sikkerhetsdata som brukes, og et register over kort som er utstedt til godkjente verksteder og installatører.
+2\. Godkjente installatører og verksteder skal ha et eget merke som de skal sette på de forseglinger de utfører, og de skal i tillegg, for fartsskrivere som er i samsvar med tillegg 1B, legge inn de elektroniske sikkerhetsdata som særlig skal muliggjøre autentisitetskontroller. De kompetente myndigheter i hver avtalepart skal føre et register over de merker og elektroniske sikkerhetsdata som brukes, og et register over kort som er utstedt til godkjente verksteder og installatører.
 
-3. Avtalepartenes kompetente myndigheter skal sende hverandre sine lister over godkjente verksteder og installatører og kort som er utstedt til disse, og de skal også sende kopier av merkene og nødvendige opplysninger om de elektroniske sikkerhetsdata som benyttes.
+3\. Avtalepartenes kompetente myndigheter skal sende hverandre sine lister over godkjente verksteder og installatører og kort som er utstedt til disse, og de skal også sende kopier av merkene og nødvendige opplysninger om de elektroniske sikkerhetsdata som benyttes.
 
-4. Som bevis på at fartsskriveren er installert i samsvar med kravene i dette vedlegg, skal det monteres en installasjonsplate som fastsatt i tillegg 1 og tillegg 1B.
+4\. Som bevis på at fartsskriveren er installert i samsvar med kravene i dette vedlegg, skal det monteres en installasjonsplate som fastsatt i tillegg 1 og tillegg 1B.
 
-5. Forseglinger kan fjernes av installatører eller verksteder som er godkjent av de kompetente myndigheter i samsvar med bestemmelsene i nr. 1 i denne artikkel, eller under de omstendigheter som er beskrevet i tillegg 1 eller tillegg 1B til dette vedlegg.
+5\. Forseglinger kan fjernes av installatører eller verksteder som er godkjent av de kompetente myndigheter i samsvar med bestemmelsene i nr. 1 i denne artikkel, eller under de omstendigheter som er beskrevet i tillegg 1 eller tillegg 1B til dette vedlegg.
 
 ### Kapittel III – Bruken av utstyret
 
@@ -398,51 +510,59 @@ Arbeidsgiver og fører skal forsikre seg om at både fartsskriver og førerkort 
 
 ### Artikkel 111
 
-1. Arbeidsgiveren skal utlevere et tilstrekkelig antall diagramskiver til førere av kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1, og ta hensyn til at skivene er personlige, hvor lenge oppdraget varer og muligheten for at førerne kan bli nødt til å erstatte skiver som blir ødelagt, eller som blir inndratt av autoriserte kontrollører. Arbeidsgiveren skal bare gi førerne diagramskiver som er godkjent og egnet til bruk i den fartsskriveren som er montert i kjøretøyet.Dersom kjøretøyet er utstyrt med en fartsskriver i samsvar med tillegg 1B, skal arbeidsgiveren og føreren, under hensyntagen til oppdragets varighet, forsikre seg om at utskriften som er nevnt i tillegg 1B, kan foretas på riktig måte i tilfelle kontroll.
+1\. Arbeidsgiveren skal utlevere et tilstrekkelig antall diagramskiver til førere av kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1, og ta hensyn til at skivene er personlige, hvor lenge oppdraget varer og muligheten for at førerne kan bli nødt til å erstatte skiver som blir ødelagt, eller som blir inndratt av autoriserte kontrollører. Arbeidsgiveren skal bare gi førerne diagramskiver som er godkjent og egnet til bruk i den fartsskriveren som er montert i kjøretøyet.Dersom kjøretøyet er utstyrt med en fartsskriver i samsvar med tillegg 1B, skal arbeidsgiveren og føreren, under hensyntagen til oppdragets varighet, forsikre seg om at utskriften som er nevnt i tillegg 1B, kan foretas på riktig måte i tilfelle kontroll.
 
 2.Foretaket skal oppbevare diagramskivene og utskriftene, dersom det er tatt utskrifter i henhold til artikkel 12 nr. 1, i kronologisk orden og i lesbar form i minst ett år etter at de er brukt, og de berørte førerne skal få utlevert kopier av dem dersom de ber om det. Foretaket skal også gi de berørte førerne kopier av data som er overført fra førerkortene, og papirutskrifter av disse kopiene, dersom de ber om det. Diagramskivene, utskriftene og de overførte dataene skal forevises eller utleveres dersom en autorisert kontrollør ber om det.Et foretak som bruker kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1B til dette vedlegg, og som omfattes av bestemmelsene i denne avtale, skal:sørge for at alle data blir overført fra kjøretøyenheten og fra førerkortet med den regelmessighet som avtalepartens myndigheter har fastsatt, og at relevante data blir overført oftere, for å sikre at alle opplysninger om aktiviteter som er foretatt av eller for det aktuelle foretak, blir tatt vare på,sørge for at alle data som blir overført, både fra kjøretøyenheten og førerkortet, blir oppbevart i minst 12 måneder etter at de er registrert, og at slike data er tilgjengelige, enten direkte eller via telekommunikasjoner, fra foretakets lokaler, dersom en kontrollør ber om å få se dem.For denne bokstavs formål skal «overført» tolkes i samsvar med definisjonen som er fastsatt i tillegg 1B kapittel I bokstav s).
 
-3. Et førerkort som beskrevet i tillegg 1B skal på anmodning fra føreren utstedes av den kompetente myndighet i den avtalepart der føreren har sin faste bopel.En avtalepart kan kreve at enhver fører som omfattes av bestemmelsene i denne avtale, og som har sin faste bopel på vedkommende avtaleparts territorium, er i besittelse av et førerkort.For denne avtales formål menes med 'fast bopel' det stedet der en person bor til vanlig, dvs. i minst 185 dager hvert kalenderår, på grunn av personlig og ervervsmessig tilknytning, eller, når det gjelder personer som ikke har noen ervervsmessig tilknytning, på grunn av personlig tilknytning i form av nære bånd mellom vedkommende person og stedet der han bor.Den faste bopelen til en person som har sin ervervsmessige tilknytning og sin personlige tilknytning på forskjellige steder, og som derfor bor vekselvis på ulike steder i to eller flere avtaleparter, skal imidlertid anses å være det stedet der vedkommende har sin personlige tilknytning, forutsatt at vedkommende vender regelmessig tilbake dit. Dette siste vilkåret behøver ikke å være oppfylt dersom vedkommende person bor midlertidig i en avtalepart for å utføre et oppdrag av begrenset varighet.Førerne skal dokumentere sin faste bopel på behørig vis, for eksempel ved hjelp av identitetskort eller andre gyldige dokumenter.Dersom de kompetente myndigheter i den avtalepart som utsteder førerkortet, er i tvil om det er gitt riktige opplysninger om fast bopel i henhold til punkt b), eller de ønsker å gjennomføre en særskilt kontroll, kan de be om at det blir lagt fram ytterligere opplysninger eller bevis.De kompetente myndigheter i den utstedende avtalepart skal, så langt det lar seg gjøre, forsikre seg om at søkeren ikke allerede har et gyldig førerkort.
+3\. Et førerkort som beskrevet i tillegg 1B skal på anmodning fra føreren utstedes av den kompetente myndighet i den avtalepart der føreren har sin faste bopel.En avtalepart kan kreve at enhver fører som omfattes av bestemmelsene i denne avtale, og som har sin faste bopel på vedkommende avtaleparts territorium, er i besittelse av et førerkort.For denne avtales formål menes med 'fast bopel' det stedet der en person bor til vanlig, dvs. i minst 185 dager hvert kalenderår, på grunn av personlig og ervervsmessig tilknytning, eller, når det gjelder personer som ikke har noen ervervsmessig tilknytning, på grunn av personlig tilknytning i form av nære bånd mellom vedkommende person og stedet der han bor.Den faste bopelen til en person som har sin ervervsmessige tilknytning og sin personlige tilknytning på forskjellige steder, og som derfor bor vekselvis på ulike steder i to eller flere avtaleparter, skal imidlertid anses å være det stedet der vedkommende har sin personlige tilknytning, forutsatt at vedkommende vender regelmessig tilbake dit. Dette siste vilkåret behøver ikke å være oppfylt dersom vedkommende person bor midlertidig i en avtalepart for å utføre et oppdrag av begrenset varighet.Førerne skal dokumentere sin faste bopel på behørig vis, for eksempel ved hjelp av identitetskort eller andre gyldige dokumenter.Dersom de kompetente myndigheter i den avtalepart som utsteder førerkortet, er i tvil om det er gitt riktige opplysninger om fast bopel i henhold til punkt b), eller de ønsker å gjennomføre en særskilt kontroll, kan de be om at det blir lagt fram ytterligere opplysninger eller bevis.De kompetente myndigheter i den utstedende avtalepart skal, så langt det lar seg gjøre, forsikre seg om at søkeren ikke allerede har et gyldig førerkort.
 
 4.Avtalepartens kompetente myndighet skal legge inn i kortet personlige opplysninger om føreren i samsvar med bestemmelsene i tillegg 1B.Gyldighetstiden for et førerkort skal ikke overstige fem år.En fører kan bare ha ett gyldig førerkort. En fører skal bare bruke sitt eget personlige kort. En fører skal ikke bruke et førerkort som er defekt eller et kort som ikke lenger er gyldig.Når det blir utstedt et nytt førerkort som erstatning for et gammelt kort, skal det nye kortet ha samme serienummer, men indeksen skal økes med én. Myndigheten som utsteder kortene, skal føre et register over utstedte, stjålne, tapte og defekte førerkort for et tidsrom som minst tilsvarer kortenes gyldighetstid.Dersom et førerkort er skadet, defekt, tapt eller stjålet, skal de kompetente myndigheter sørge for at det blir utstedt et nytt kort innen fem virkedager etter at de har mottatt en behørig begrunnet anmodning om dette.Ved anmodning om fornying av et kort som nærmer seg utløpsdatoen, skal myndighetene utstede et nytt kort før det gamle kortet utløper, forutsatt at anmodningen blir sendt innen den frist som er fastsatt i fjerde avsnitt av artikkel 12 nr. 1.Det skal bare utstedes førerkort til søkere som omfattes av bestemmelsene i denne avtale.Førerkortet er personlig. Det kan ikke tilbakekalles eller inndras av noen som helst grunn så lenge det er gyldig, med mindre den kompetente myndighet i en avtalepart finner ut at kortet er forfalsket, eller at føreren bruker et kort som ikke er hans, eller at kortet er utstedt på grunnlag av uriktige opplysninger og/eller forfalskede dokumenter. Dersom en slik tilbakekalling eller inndragning foretas av en annen avtalepart enn den som har utstedt kortet, skal førstnevnte avtalepart sende kortet tilbake til myndighetene i den utstedende avtalepart, sammen med en begrunnelse for tilbakesendingen.Førerkortene som avtalepartene utsteder, skal godkjennes på gjensidig basis.Dersom innehaveren av et gyldig førerkort som er utstedt av én avtalepart, har etablert seg med fast bopel i en annen avtalepart, kan vedkommende be om at kortet blir byttet ut med et tilsvarende kort. Det er da opp til den avtalepart som foretar byttet å verifisere, om nødvendig, at det innleverte kortet faktisk er gyldig.En avtalepart som foretar et slikt bytte, skal returnere det gamle kortet til myndighetene i den avtalepart som har utstedt det, sammen med en begrunnelse for tilbakesendingen.Når en stat som er avtalepart erstatter eller bytter ut et førerkort, skal erstatningen eller byttet, og enhver senere erstatning eller bytte, registreres i denne avtalepartens stat.Avtalepartene skal treffe alle nødvendige tiltak for å forhindre at førerkortene kan bli forfalsket.
 
-5. Avtalepartene skal sørge for at de data som blir registrert og lagret av fartsskriveren i samsvar med tillegg 1B til dette vedlegg, og som er nødvendige for å føre tilsyn med at denne avtale blir etterlevd, blir lagret i 365 dager etter at de er registrert, og at de kan gjøres tilgjengelig under forhold som garanterer deres sikkerhet og nøyaktighet.Avtalepartene skal treffe alle nødvendige tiltak for å forsikre seg om at videresalg eller kassering av fartsskrivere ikke er til hinder for en tilfredsstillende anvendelse av særlig dette nummer.
+5\. Avtalepartene skal sørge for at de data som blir registrert og lagret av fartsskriveren i samsvar med tillegg 1B til dette vedlegg, og som er nødvendige for å føre tilsyn med at denne avtale blir etterlevd, blir lagret i 365 dager etter at de er registrert, og at de kan gjøres tilgjengelig under forhold som garanterer deres sikkerhet og nøyaktighet.Avtalepartene skal treffe alle nødvendige tiltak for å forsikre seg om at videresalg eller kassering av fartsskrivere ikke er til hinder for en tilfredsstillende anvendelse av særlig dette nummer.
+
+1 Endret i avtaletillegg nr. 6.
 
 ### Artikkel 121
 
-1. Førerne skal ikke bruke diagramskiver eller sjåførkort som er tilsmusset eller skadet. Diagramskivene og førerkortene skal derfor oppbevares på et trygt sted der de er beskyttet mot ytre påvirkninger.Dersom en diagramskive som inneholder registrerte opplysninger, blir skadet, skal føreren feste den skadede diagramskiven til en reserveskive eller en skive som kan brukes til å erstatte den. Dersom et førerkort er skadet, defekt, tapt eller stjålet, skal føreren innen sju kalenderdager søke om å få et nytt kort til erstatning for det gamle fra de kompetente myndigheter i den avtalepart der vedkommende har sin fast bopel.Dersom en fører ønsker å fornye sitt førerkort, skal han søke de kompetente myndigheter i den stat som er avtalepart der vedkommende har sin fast bopel, om slik fornying, senest 15 virkedager før kortets gyldighetstid utløper.
+1\. Førerne skal ikke bruke diagramskiver eller sjåførkort som er tilsmusset eller skadet. Diagramskivene og førerkortene skal derfor oppbevares på et trygt sted der de er beskyttet mot ytre påvirkninger.Dersom en diagramskive som inneholder registrerte opplysninger, blir skadet, skal føreren feste den skadede diagramskiven til en reserveskive eller en skive som kan brukes til å erstatte den. Dersom et førerkort er skadet, defekt, tapt eller stjålet, skal føreren innen sju kalenderdager søke om å få et nytt kort til erstatning for det gamle fra de kompetente myndigheter i den avtalepart der vedkommende har sin fast bopel.Dersom en fører ønsker å fornye sitt førerkort, skal han søke de kompetente myndigheter i den stat som er avtalepart der vedkommende har sin fast bopel, om slik fornying, senest 15 virkedager før kortets gyldighetstid utløper.
 
 2.Førerne skal bruke diagramskiver eller førerkort hver dag de kjører, fra det øyeblikk de tar over kjøretøyet. Diagramskiven eller førerkortet skal ikke tas ut før dagens arbeid er over, med mindre det foreligger gyldige grunner til det.Diagramskiver og førerkort skal ikke brukes i lengre perioder enn de er beregnet for.Dersom det er flere enn en fører på et kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1B, skal hver fører forsikre seg om at hans førerkort er satt inn i riktig åpning i fartsskriveren.Når en fører ikke kan betjene fartsskriveren fordi han har forlatt kjøretøyet, skal de tidsperioder som er angitt i nr. 3 annet strekpunkt bokstav b), c) og d) nedenfor,dersom kjøretøyet er utstyrt med en fartsskriver i samsvar med tillegg 1: føres inn på diagramskiven, enten manuelt, gjennom automatisk registrering eller på annen måte, slik at det blir leselig, og uten at diagramskiven blir tilgriset, eller,dersom kjøretøyet er utstyrt med en fartsskriver i samsvar med tillegg 1B: føres inn på førerkortet ved hjelp av den manuelle registreringsmuligheten i fartsskriveren.Førerne skal, dersom et kjøretøy er flerbemannet, passe på å skifte diagramskive i fartsskriveren når det er nødvendig, slik at den informasjon som omtales i nr. 3 annet strekpunkt bokstav b), c) og d) nedenfor, til enhver tid blir registrert på diagramskiven til den føreren som kjører.
 
-3. Førerne skal:påse at det er samsvar mellom den tid som registreres på skiven og den offisielle tiden i det landet der kjøretøyet er registrert,betjene innstillingene på fartsskriveren slik at følgende perioder blir registrert separat og tydelig:under tegnet  eller 2 : kjøretid,under tegnet  eller 2 : perioder med annet arbeid,under tegnet  eller 2 : perioder der føreren står til rådighet dvs.:ventetid, dvs. den tiden føreren må være på plass i påvente av telefoniske henvendelser om å starte eller gjenoppta kjøringen eller utføre annet arbeid,tid som tilbringes ved siden av føreren mens kjøretøyet er i fart,tid som tilbringes i en køyeseng mens kjøretøyet er i fart,under tegnet  eller 2 : pauser og døgnhviler.
+3\. Førerne skal:påse at det er samsvar mellom den tid som registreres på skiven og den offisielle tiden i det landet der kjøretøyet er registrert,betjene innstillingene på fartsskriveren slik at følgende perioder blir registrert separat og tydelig:under tegnet  eller 2 : kjøretid,under tegnet  eller 2 : perioder med annet arbeid,under tegnet  eller 2 : perioder der føreren står til rådighet dvs.:ventetid, dvs. den tiden føreren må være på plass i påvente av telefoniske henvendelser om å starte eller gjenoppta kjøringen eller utføre annet arbeid,tid som tilbringes ved siden av føreren mens kjøretøyet er i fart,tid som tilbringes i en køyeseng mens kjøretøyet er i fart,under tegnet  eller 2 : pauser og døgnhviler.
 
-4. En avtalepart kan tillate at alle perioder som er nevnt i nr. 3 annet strekpunkt bokstav b) og c), blir registrert under tegnet  på diagramskiver som brukes på kjøretøy registrert på vedkommende avtaleparts territorium.
+4\. En avtalepart kan tillate at alle perioder som er nevnt i nr. 3 annet strekpunkt bokstav b) og c), blir registrert under tegnet  på diagramskiver som brukes på kjøretøy registrert på vedkommende avtaleparts territorium.
 
-5. Hvert medlem av mannskapet skal notere følgende opplysninger på sin diagramskive:når skiven tas i bruk: etternavn og fornavn,når skiven tas i bruk og når skiven tas ut: dato og sted,registreringsnummer for hvert kjøretøy føreren får tildelt, både før den første tur som blir notert på skiven, og deretter, i tilfelle det blir skiftet kjøretøy, under bruken av skiven,kilometerstand:ved starten på den første turen som blir registrert på skiven,ved avslutningen av den siste turen som blir registrert på skiven,ved eventuelt bytte av kjøretøy i løpet av arbeidsdagen (avlesing på kjøretøyet han forlater og avlesing på kjøretøyet han går over på),tidspunkt for eventuelt bytte av kjøretøy.
+5\. Hvert medlem av mannskapet skal notere følgende opplysninger på sin diagramskive:når skiven tas i bruk: etternavn og fornavn,når skiven tas i bruk og når skiven tas ut: dato og sted,registreringsnummer for hvert kjøretøy føreren får tildelt, både før den første tur som blir notert på skiven, og deretter, i tilfelle det blir skiftet kjøretøy, under bruken av skiven,kilometerstand:ved starten på den første turen som blir registrert på skiven,ved avslutningen av den siste turen som blir registrert på skiven,ved eventuelt bytte av kjøretøy i løpet av arbeidsdagen (avlesing på kjøretøyet han forlater og avlesing på kjøretøyet han går over på),tidspunkt for eventuelt bytte av kjøretøy.
 
-5. *bis* Føreren skal registrere i fartsskriveren, i samsvar med tillegg 1B, symbolene for det landet der han starter arbeidsdagen og det landet der han avslutter arbeidet for dagen.Ovenfornevnte registrering av data skal foretas av føreren, enten manuelt, eller automatisk dersom fartsskriveren er tilknyttet et satellittbasert posisjonsbestemmelsessystem.
+5\. *bis* Føreren skal registrere i fartsskriveren, i samsvar med tillegg 1B, symbolene for det landet der han starter arbeidsdagen og det landet der han avslutter arbeidet for dagen.Ovenfornevnte registrering av data skal foretas av føreren, enten manuelt, eller automatisk dersom fartsskriveren er tilknyttet et satellittbasert posisjonsbestemmelsessystem.
 
-6. Fartsskriveren som er definert i tillegg 1, skal være konstruert slik at det er mulig for en autorisert kontrollør, eventuelt etter å ha åpnet apparatet, hva som er registrert i løpet av de foregående ni timer, uten å deformere, gjøre varig skade på eller tilsmusse skiven.Fartsskriveren skal videre være konstruert slik at det er mulig å kontrollere at registrering finner sted, uten å åpne apparatet.
+6\. Fartsskriveren som er definert i tillegg 1, skal være konstruert slik at det er mulig for en autorisert kontrollør, eventuelt etter å ha åpnet apparatet, hva som er registrert i løpet av de foregående ni timer, uten å deformere, gjøre varig skade på eller tilsmusse skiven.Fartsskriveren skal videre være konstruert slik at det er mulig å kontrollere at registrering finner sted, uten å åpne apparatet.
 
 7.Dersom en fører kjører et kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1, skal han, når en kontrollør ber om det, kunne legge fram:diagramskivene for inneværende uke og skivene føreren har brukt de foregående 15 kalenderdagene,førerkortet, dersom han har et slikt, ogalle manuelle registreringer som er gjort eller utskrifter som er tatt i løpet av inneværende uke og de foregående 15 kalenderdagene, i samsvar med bestemmelsene i denne avtale.Fra den dato som framgår av artikkel 13 bis i denne avtale, skal de perioder som det refereres til i punktene i) og iii) omfatte den dagen kontrollen foretas og de foregående 28 kalenderdager.Dersom en fører fører et kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1B, skal han, når en kontrollør ber om det, kunne legge fram:i sitt førerkort,alle manuelle registreringer som er gjort eller utskrifter som er tatt i løpet av inneværende uke og de foregående 15 dagene, i samsvar med bestemmelsene i denne avtale,diagramskivene for samme periode som er nevnt i foregående punkt, dersom han i løpet av denne perioden har kjørt et kjøretøy som er utstyrt med en fartsskriver i samsvar med tillegg 1.Fra den dato som framgår av artikkel 13 bis i denne avtale, skal de perioder som det refereres til i [punkt](forskrift/2012-06-28-794/kapii) ii) omfatte den dagen kontrollen foretas og de foregående 28 dager.En godkjent kontrollør kan kontrollere om avtalen overholdes ved å analysere diagramskivene, dataene han finner i eller på utskrift fra fartsskriveren, eller data som er registrert i førerkortet, eller dersom dette ikke fører fram, ved å analysere eventuelle underlagsdokumenter som begrunner manglende overholdelse av bestemmelser, for eksempel artikkel 13 nr. 2 og 3.
 
-8. Det er forbudt å forfalske, slette eller ødelegge data som er registrert på diagramskiven eller lagret i fartsskriveren eller på førerkortet, eller utskrifter fra fartsskrivere som definert i tillegg 1B. Det samme gjelder enhver manipulering av fartsskriver, diagramskive eller førerkort som kan føre til at data og/eller utskrifter av opplysninger blir forfalsket, slettet eller ødelagt. Det skal ikke finnes noen innretning om bord på kjøretøyet som kan brukes til å utføre slike ulovlige inngrep.
+8\. Det er forbudt å forfalske, slette eller ødelegge data som er registrert på diagramskiven eller lagret i fartsskriveren eller på førerkortet, eller utskrifter fra fartsskrivere som definert i tillegg 1B. Det samme gjelder enhver manipulering av fartsskriver, diagramskive eller førerkort som kan føre til at data og/eller utskrifter av opplysninger blir forfalsket, slettet eller ødelagt. Det skal ikke finnes noen innretning om bord på kjøretøyet som kan brukes til å utføre slike ulovlige inngrep.
+
+1 Endret i avtaletillegg nr. 6.
+
+2 Symbol som blir brukt for den digitale fartsskriveren.
 
 ### Artikkel 131
 
-1. Dersom en fartsskriver bryter sammen eller fungerer galt, skal arbeidsgiveren sørge for at den blir reparert av en godkjent installatør eller et godkjent verksted så snart forholdene tillater det.Dersom kjøretøyet ikke kan bringes tilbake til foretakets hjemsted innen en uke regnet fra den dag da sammenbruddet fant sted eller det ble oppdaget at skriveren fungerte galt, skal reparasjon foregå underveis.Avtalepartene kan gi de kompetente myndigheter fullmakt til å forby bruk av kjøretøyet i tilfeller der en fartsskriver som er i ustand eller fungerer feil, ikke blir reparert som bestemt i de foregående ledd av dette nummer.
+1\. Dersom en fartsskriver bryter sammen eller fungerer galt, skal arbeidsgiveren sørge for at den blir reparert av en godkjent installatør eller et godkjent verksted så snart forholdene tillater det.Dersom kjøretøyet ikke kan bringes tilbake til foretakets hjemsted innen en uke regnet fra den dag da sammenbruddet fant sted eller det ble oppdaget at skriveren fungerte galt, skal reparasjon foregå underveis.Avtalepartene kan gi de kompetente myndigheter fullmakt til å forby bruk av kjøretøyet i tilfeller der en fartsskriver som er i ustand eller fungerer feil, ikke blir reparert som bestemt i de foregående ledd av dette nummer.
 
 2.Mens fartsskriveren er i ustand eller fungerer galt, skal fører notere alle opplysninger om de ulike tidsperiodene, i den grad de ikke lenger blir korrekt registrert eller skrevet ut av fartsskriveren, på diagramskiven(e) eller på en egnet skive som kan legges ved diagramskiven eller førerkortet, der han også skal legge inn opplysninger som gjør det mulig å identifisere han (navn og førerkortnummer eller navn og førerkortnummer), herunder sin underskrift.Dersom et førerkort er skadet, defekt, tapt eller stjålet, eller ikke er i førerens besittelse skal han:når turen påbegynnes, skrive ut opplysningene om kjøretøyet han kjører, før han starter turen, og på utskriften notere:opplysninger som gjør det mulig å identifisere føreren (navn og førerkortnummer eller navn og førerkortnummer), samt egen underskrift,de periodene som det refereres til i artikkel 12 nr. 3 annet strekpunkt bokstavene b), c) og d),når turen avsluttes, skrive ut opplysninger om de periodene som er registrert av fartsskriveren, registrere samtlige perioder da føreren har utført annet arbeid, stått til rådighet eller tatt ut hvile siden utskriften ble gjort ved turens begynnelse, dersom periodene ikke ble registrert av fartsskriveren, og notere på utskriften opplysninger som gjør det mulig å identifisere føreren (navn, førerkort, førerkortnummer), samt egen underskrift.
 
-3. Dersom et førerkort er skadet, defekt, tapt eller stjålet, skal føreren returnere det til de kompetente myndigheter i den avtalepart der han har sin faste bopel. Tyveri av førerkort skal meldes gjennom en formell erklæring til de kompetente myndigheter i den avtalepart der tyveriet skjedde.Tap av førerkort skal rapporteres gjennom en formell erklæring til de kompetente myndigheter i den avtalepart som har utstedt kortet, og til de kompetente myndigheter i den avtalepart der vedkommende har sin faste bopel, dersom disse ikke er en og samme stat.Føreren kan fortsette å kjøre uten førerkort i inntil 15 kalenderdager, eller i en lengre periode dersom dette er nødvendig for å føre kjøretøyet tilbake til stedet der foretaket er hjemmehørende, forutsatt at føreren kan godtgjøre at det ikke er mulig for han å forevise kortet eller bruke det i dette tidsrommet.Dersom det ikke er myndighetene i den avtalepart der en fører har sin faste bopel som har utstedt vedkommendes førerkort, og disse blir bedt om å fornye, erstatte eller skifte ut kortet, skal de gi de myndigheter som utstedte det gamle kortet en nøyaktig redegjørelse for hvorfor kortet blir fornyet, erstattet eller skiftet ut.
+3\. Dersom et førerkort er skadet, defekt, tapt eller stjålet, skal føreren returnere det til de kompetente myndigheter i den avtalepart der han har sin faste bopel. Tyveri av førerkort skal meldes gjennom en formell erklæring til de kompetente myndigheter i den avtalepart der tyveriet skjedde.Tap av førerkort skal rapporteres gjennom en formell erklæring til de kompetente myndigheter i den avtalepart som har utstedt kortet, og til de kompetente myndigheter i den avtalepart der vedkommende har sin faste bopel, dersom disse ikke er en og samme stat.Føreren kan fortsette å kjøre uten førerkort i inntil 15 kalenderdager, eller i en lengre periode dersom dette er nødvendig for å føre kjøretøyet tilbake til stedet der foretaket er hjemmehørende, forutsatt at føreren kan godtgjøre at det ikke er mulig for han å forevise kortet eller bruke det i dette tidsrommet.Dersom det ikke er myndighetene i den avtalepart der en fører har sin faste bopel som har utstedt vedkommendes førerkort, og disse blir bedt om å fornye, erstatte eller skifte ut kortet, skal de gi de myndigheter som utstedte det gamle kortet en nøyaktig redegjørelse for hvorfor kortet blir fornyet, erstattet eller skiftet ut.
+
+1 Endret i avtaletillegg nr. 6.
 
 ### Artikkel 14
 
-1. I henhold til artikkel 13 nr. 2 bokstav b) i avtalen skal fører som kjører et kjøretøy registrert hos en av avtalepartene, og som de kompetente myndigheter ennå ikke har fått utstedt førerkort til, og som i overgangsperioden omtalt i nr. 1 i samme artikkel kjører i internasjonal trafikk med et kjøretøy som er utstyrt med en digital fartsskriver i samsvar med tillegg 1B til vedlegget, kunne legge fram, dersom en kontrollør ber om det, utskriftene og/eller diagramskivene for den inneværende uken, og, i alle tilfeller, utskrift og/eller diagramskive for den siste dagen vedkommende kjørte i den foregående uken.
+1\. I henhold til artikkel 13 nr. 2 bokstav b) i avtalen skal fører som kjører et kjøretøy registrert hos en av avtalepartene, og som de kompetente myndigheter ennå ikke har fått utstedt førerkort til, og som i overgangsperioden omtalt i nr. 1 i samme artikkel kjører i internasjonal trafikk med et kjøretøy som er utstyrt med en digital fartsskriver i samsvar med tillegg 1B til vedlegget, kunne legge fram, dersom en kontrollør ber om det, utskriftene og/eller diagramskivene for den inneværende uken, og, i alle tilfeller, utskrift og/eller diagramskive for den siste dagen vedkommende kjørte i den foregående uken.
 
-2. Nr. 1 gjelder ikke for førere av kjøretøy som er registrert i land der det er obligatorisk å bruke førerkort. Føreren skal likevel legge fram utskrifter når en kontrollør ber om det.
+2\. Nr. 1 gjelder ikke for førere av kjøretøy som er registrert i land der det er obligatorisk å bruke førerkort. Føreren skal likevel legge fram utskrifter når en kontrollør ber om det.
 
-3. Utskriftene som er omtalt i nr. 1 skal merkes med opplysninger som gjør det mulig å identifisere førerne (navn og førerkortnummer), herunder førernes underskrifter.
+3\. Utskriftene som er omtalt i nr. 1 skal merkes med opplysninger som gjør det mulig å identifisere førerne (navn og førerkortnummer), herunder førernes underskrifter.
 
 ### Tillegg 11
 Krav til konstruksjon, testing, installering og kontroll
@@ -451,85 +571,111 @@ Krav til konstruksjon, testing, installering og kontroll
 
 I dette tillegg menes med«*fartsskriver*», innretning som er beregnet på installering i motorvogn, for å vise og registrere, automatisk eller halvautomatisk, opplysninger om disse kjøretøyenes bevegelser og førernes arbeidsperioder,«*diagramskive*», en skive som er konstruert for å motta og oppbevare data, og som plasseres i fartsskriveren, der skriveanordningen fortløpende skriver inn på skiven de opplysninger som skal registreres,«*fartsskriverens konstant*», den karakteristiske numeriske verdi som angir det inngangssignal som kreves for å vise og registrere en tilbakelagt strekning på 1 kilometer; denne konstanten uttrykkes enten i omdreininger per kilometer (k = ... omdr./km) eller i impulser per kilometer (k = ... imp/km),«*kjøretøyets kilometerfaktor*», den karakteristiske numeriske verdi som angir det utgangssignal som utgår fra den del av kjøretøyet som forbinder det med fartsskriveren (girkassen eller hjulakselen), mens kjøretøyet tilbakelegger en strekning på 1 oppmålt km under normale testforhold (se [kapittel VI](forskrift/2012-06-28-794/kapvi) nr. 4 i dette tillegg); kilometerfaktoren uttrykkes enten i omdreininger per kilometer (W = omdr./km) eller i impulser per kilometer (W = ... imp/km),«*dekkenes effektive omkrets*», den gjennomsnittlige strekning som kjøretøyets drivhjul tilbakelegger ved en full omdreining. Målinger av disse strekningene skal gjøres under normale testforhold (se [kapittel VI](forskrift/2012-06-28-794/kapvi) nr. 4 i dette tillegg) og uttrykkes i denne form: 1 = ... mm.
 
+1 Endret i avtaletillegg nr. 2.
+
 ### II. Fartsskriverens generelle egenskaper og funksjoner
 
 Fartsskriveren må kunne registrere følgende:strekningen kjøretøyet tilbakelegger,kjøretøyets hastighet,kjøretid,perioder med annet arbeid og perioder der føreren er disponibel,pauser og døgnhviler,åpning av boksen som inneholder diagramskiven,for elektroniske fartsskrivere som fungerer på grunnlag av signaler som overføres elektrisk fra avstands- og hastighetssensoren: ethvert avbrudd på mer enn 100 millisekunder i strømtilførselen til registreringsutstyret (unntatt belysning) eller i strømtilførselen til avstands- og hastighetssensoren, og ethvert avbrudd i signaloverføringen fra avstands- og hastighetssensoren.På kjøretøy med to førere må fartsskriveren kunne registrere opplysningene under nr. 3, 4 og 5 samtidig og hver for seg på to forskjellige skiver.
 
 ### III. Krav til fartsskriverens konstruksjon
 
-1. Fartsskriveren skal inneholde følgende:instrumenter som viser:tilbakelagt strekning (kilometerteller),hastighet (speedometer),tid (klokke).instrumenter som registrerer:tilbakelagt veistrekning,hastighet,tiden, ett eller flere registreringer, i samsvar med kravene i [kapittel III](forskrift/2012-06-28-794/kapiii) del C nr. 4.en innretning som gjør en separat markering på diagramskiven:hver gang boksen med diagramskiven blir åpnet,for elektroniske fartsskrivere som beskrevet i [kapittel II](forskrift/2012-06-28-794/kapii) nr. 7, ved ethvert avbrudd på mer enn 100 millisekunder i strømtilførselen til registreringsutstyret (unntatt belysning), senest når strømtilførselen gjenopprettes,for elektroniske fartsskrivere som beskrevet i [kapittel II](forskrift/2012-06-28-794/kapii) nr. 7, ved ethvert avbrudd på mer enn 100 millisekunder i strømtilførselen til avstands- og hastighetssensoren, og ved ethvert avbrudd i signaloverføringen fra avstands- og hastighetssensoren.
+*A. Alminnelige bestemmelser*
 
-2. Eventuelt ekstrautstyr ut over det som er nevnt ovenfor, må ikke virke forstyrrende inn på funksjonen til det obligatoriske utstyret, eller gjøre det vanskelig å lese registreringene.Eventuelt ekstrautstyr skal følge med når fartsskriveren leveres inn for godkjenning.
+1\. Fartsskriveren skal inneholde følgende:instrumenter som viser:tilbakelagt strekning (kilometerteller),hastighet (speedometer),tid (klokke).instrumenter som registrerer:tilbakelagt veistrekning,hastighet,tiden, ett eller flere registreringer, i samsvar med kravene i [kapittel III](forskrift/2012-06-28-794/kapiii) del C nr. 4.en innretning som gjør en separat markering på diagramskiven:hver gang boksen med diagramskiven blir åpnet,for elektroniske fartsskrivere som beskrevet i [kapittel II](forskrift/2012-06-28-794/kapii) nr. 7, ved ethvert avbrudd på mer enn 100 millisekunder i strømtilførselen til registreringsutstyret (unntatt belysning), senest når strømtilførselen gjenopprettes,for elektroniske fartsskrivere som beskrevet i [kapittel II](forskrift/2012-06-28-794/kapii) nr. 7, ved ethvert avbrudd på mer enn 100 millisekunder i strømtilførselen til avstands- og hastighetssensoren, og ved ethvert avbrudd i signaloverføringen fra avstands- og hastighetssensoren.
 
-3. MaterialerAlle fartsskriverens bestanddeler skal være framstilt av materialer som har den nødvendige stabilitet og mekaniske styrke og er upåvirket av elektriske og magnetiske forhold.Enhver endring av en av fartsskriverens bestanddeler eller materialet den er framstilt av, må godkjennes på forhånd av den myndighet som har utstedt typegodkjenning for skriveren.
+2\. Eventuelt ekstrautstyr ut over det som er nevnt ovenfor, må ikke virke forstyrrende inn på funksjonen til det obligatoriske utstyret, eller gjøre det vanskelig å lese registreringene.Eventuelt ekstrautstyr skal følge med når fartsskriveren leveres inn for godkjenning.
 
-4. Måling av tilbakelagt veistrekningMåling og registrering av tilbakelagte distanser kan enten:omfatte både kjøring framover og ved rygging, ellerbare omfatte kjøring framover.Eventuell registrering ved rygging må under ingen omstendighet innvirke på klarheten og nøyaktigheten i de andre registreringene.
+3\. MaterialerAlle fartsskriverens bestanddeler skal være framstilt av materialer som har den nødvendige stabilitet og mekaniske styrke og er upåvirket av elektriske og magnetiske forhold.Enhver endring av en av fartsskriverens bestanddeler eller materialet den er framstilt av, må godkjennes på forhånd av den myndighet som har utstedt typegodkjenning for skriveren.
 
-5. Måling av hastighetHastighetsmåleren skal dekke det området som er angitt i typegodkjenningen.Hastighetsmålerens egenfrekvens og demping skal være slik at visning og registrering av hastigheten innenfor måleområdet kan følge endringer i akselerasjonen på inntil 2 m/s2 , innenfor grensen for tillatte avvik.
+4\. Måling av tilbakelagt veistrekningMåling og registrering av tilbakelagte distanser kan enten:omfatte både kjøring framover og ved rygging, ellerbare omfatte kjøring framover.Eventuell registrering ved rygging må under ingen omstendighet innvirke på klarheten og nøyaktigheten i de andre registreringene.
 
-6. Måling av tid (klokke)Betjeningsinnretningen for innstilling av klokken skal være anbrakt i boksen som inneholder diagramskiven. Hver gang boksen åpnes, skal det automatisk registreres på diagramskiven.Dersom klokken kontrollerer framdriften til diagramskiven, må den perioden klokken viser riktig tid etter å ha blitt trukket helt opp, være av minst 10 % lengre varighet enn den tiden registrering kan pågå etter innsetting av maksimalt antall diagramskiver.
+5\. Måling av hastighetHastighetsmåleren skal dekke det området som er angitt i typegodkjenningen.Hastighetsmålerens egenfrekvens og demping skal være slik at visning og registrering av hastigheten innenfor måleområdet kan følge endringer i akselerasjonen på inntil 2 m/s2 , innenfor grensen for tillatte avvik.
 
-7. Belysning og beskyttelseFartsskriverens visningsinstrumenter skal ha god belysning, uten å blende.Under normale bruksforhold skal alle innvendige deler av fartsskriveren være beskyttet mot fuktighet og støv. De skal dessuten være beskyttet mot inngrep av en innfatning som kan forsegles.
+6\. Måling av tid (klokke)Betjeningsinnretningen for innstilling av klokken skal være anbrakt i boksen som inneholder diagramskiven. Hver gang boksen åpnes, skal det automatisk registreres på diagramskiven.Dersom klokken kontrollerer framdriften til diagramskiven, må den perioden klokken viser riktig tid etter å ha blitt trukket helt opp, være av minst 10 % lengre varighet enn den tiden registrering kan pågå etter innsetting av maksimalt antall diagramskiver.
 
-1. Måler som viser tilbakelagt veistrekning (kilometerteller)Den minste måleenheten for tilbakelagt veistrekning som vises på måleren, skal være 0,1 kilometer. Tall som viser hektometer skal kunne skilles klart fra tall som angir hele kilometer.Tallene på måleren for tilbakelagt veistrekning skal være lett leselige og ha en klart synlig høyde på minst 4 mm.Måleren må kunne vise strekninger på minst 99.999,9 kilometer.
+7\. Belysning og beskyttelseFartsskriverens visningsinstrumenter skal ha god belysning, uten å blende.Under normale bruksforhold skal alle innvendige deler av fartsskriveren være beskyttet mot fuktighet og støv. De skal dessuten være beskyttet mot inngrep av en innfatning som kan forsegles.
 
-2. Hastighetsmåler (speedometer)Innenfor måleområdet skal skalaen som viser farten være ensartet inndelt i trinn på 1, 2, 5 eller 10 km/t. Hvert enkelt trinn (hvert mellomrom mellom to på hverandre følgende streker) skal ikke overstige 10 % av den høyeste farten som er angitt på skalaen.Den delen av skalaen som ligger utenfor måleområdet, behøver ikke å være påført tall.Avstanden mellom hvert trinn på skalaen som tilsvarer en hastighetsforskjell på 10 km/t, skal ikke være mindre enn 10 mm.På en måler med viser skal avstanden mellom viser og skala ikke være over 3 mm.
+*B. Visningsinstrumenter*
 
-3. Tidsmåler (klokke)Tidsmåleren skal være synlig på utsiden av apparatet og skal kunne avleses klart og utvetydig uten problemer.
+1\. Måler som viser tilbakelagt veistrekning (kilometerteller)Den minste måleenheten for tilbakelagt veistrekning som vises på måleren, skal være 0,1 kilometer. Tall som viser hektometer skal kunne skilles klart fra tall som angir hele kilometer.Tallene på måleren for tilbakelagt veistrekning skal være lett leselige og ha en klart synlig høyde på minst 4 mm.Måleren må kunne vise strekninger på minst 99.999,9 kilometer.
 
-1. Alminnelige bestemmelserAlle fartsskrivere, uansett hvilken form diagramskiven har (strimmel eller rund skive), skal ha et merke som gjøre det enkelt å sette diagramskiven inn riktig, slik at den tid klokken viser, stemmer overens med tidsangivelsen på diagramskiven.Den mekanismen som trekker fram diagramskiven, skal være konstruert slik at skiven beveges uten slark, og slik at den fritt kan settes inn og tas ut.Når det brukes runde diagramskiver, skal bevegelsesmekanismen styres av klokken. I slike tilfeller skal skivens rotasjonsbevegelse være jevn og kontinuerlig, med en minimumshastighet på 7 mm/t, målt på den innerste kanten av sirkelen som markerer grensen for sonen der hastigheten blir registrert.For skrivere der registreringen skjer på en strimmel, og der framdriftsmekanismen styres av klokken, skal bevegelsen i rett linje framover være minst 10 mm/t.Registrering av tilbakelagt veistrekning, kjøretøyets hastighet og all åpning av boksen med diagramskiven(e), skal skje automatisk.
+2\. Hastighetsmåler (speedometer)Innenfor måleområdet skal skalaen som viser farten være ensartet inndelt i trinn på 1, 2, 5 eller 10 km/t. Hvert enkelt trinn (hvert mellomrom mellom to på hverandre følgende streker) skal ikke overstige 10 % av den høyeste farten som er angitt på skalaen.Den delen av skalaen som ligger utenfor måleområdet, behøver ikke å være påført tall.Avstanden mellom hvert trinn på skalaen som tilsvarer en hastighetsforskjell på 10 km/t, skal ikke være mindre enn 10 mm.På en måler med viser skal avstanden mellom viser og skala ikke være over 3 mm.
 
-2. Måling av tilbakelagt strekningHver tilbakelagt kilometer skal på diagrammet utgjøre minst én millimeter på den aktuelle koordinat.Registreringen av tilbakelagt strekning skal være lett å lese, også ved hastigheter på yttergrensen av det målbare området.
+3\. Tidsmåler (klokke)Tidsmåleren skal være synlig på utsiden av apparatet og skal kunne avleses klart og utvetydig uten problemer.
 
-3. Måling av hastighetSkrivestiften skal normalt bevege seg i rett linje og vinkelrett på diagramskivens bevegelsesretning, uansett hvilken form diagramskiven har.Stiften kan likevel bevege seg i en buet linje, dersom følgende vilkår er oppfylt:Sporet som tegnes av skrivestiften skal være vinkelrett på den midterste omkretsen i det feltet som er reservert for hastighetsregistrering (ved rund diagramskive), eller vinkelrett på aksen i det nevnte feltet (ved diagramskive i strimmelform).Forholdet mellom radien i den kurven skrivestiften tegner og bredden på det feltet som er beregnet for registrering av hastighet, må ikke være mindre enn 2,4:1, uansett hvilken form diagramskiven har.Strekene som deler inn tidsskalaen, skal krysse registreringsfeltet i en bue med samme radius som den buen skrivestiften tegner. Avstanden mellom strekene på tidsskalaen skal ikke tilsvare mer enn én time.En endring av hastigheten på 10 km/t skal vises i registreringen som en endring på minst 1,5 mm på den tilsvarende koordinat.
+*C. Apparat for registrering*
 
-4. Måling av tidFartsskriveren skal være konstruert slik at kjøretiden alltid registreres automatisk, og slik at det er mulig, om nødvendig ved hjelp av en betjeningsinnretning, å registrere separat følgende perioder:under tegnet:  kjøretid,under tegnet:  perioder med annet arbeid,under tegnet:  perioder der føreren er disponibel, dvs.:ventetid, dvs. den tiden føreren må være til stede for å besvare telefonen, i påvente av henvendelser om å starte eller gjenoppta kjøringen eller utføre annet arbeid,tid som tilbringes ved siden av føreren mens kjøretøyet er i fart,tid som tilbringes i en køyeseng mens kjøretøyet er i fart,under tegnet:  pauser i arbeidet og døgnhviler.En avtalepart kan tillate at alle perioder som er nevnt i [pkt](forskrift/2012-06-28-794/kapii). ii) og iii) ovenfor, blir registrert under tegnet:  på diagramskiver som brukes på kjøretøy registrert på vedkommende avtaleparts territorium.Det skal være mulig å skille de ulike periodene klart fra hverandre på grunnlag av skrivesporenes utseende, deres posisjon i forhold til hverandre, og om nødvendig ved hjelp av de tegn som er angitt i nr. 4 bokstav a).De forskjellige periodene skal skilles fra hverandre på diagramskiven gjennom ulik tykkelse på strekene som angir dem, eller på annen måte som gjør det like lett å lese og tolke registreringene.I kjøretøy som er bemannet med flere enn en fører, skal de registreringer som er nevnt i nr. 4 bokstav a) gjøres på separate skiver, en for hver av førerne. I slike tilfeller skal de enkelte skivene trekkes fram enten av den samme mekanismen eller av separate, men synkroniserte mekanismer.
+1\. Alminnelige bestemmelserAlle fartsskrivere, uansett hvilken form diagramskiven har (strimmel eller rund skive), skal ha et merke som gjøre det enkelt å sette diagramskiven inn riktig, slik at den tid klokken viser, stemmer overens med tidsangivelsen på diagramskiven.Den mekanismen som trekker fram diagramskiven, skal være konstruert slik at skiven beveges uten slark, og slik at den fritt kan settes inn og tas ut.Når det brukes runde diagramskiver, skal bevegelsesmekanismen styres av klokken. I slike tilfeller skal skivens rotasjonsbevegelse være jevn og kontinuerlig, med en minimumshastighet på 7 mm/t, målt på den innerste kanten av sirkelen som markerer grensen for sonen der hastigheten blir registrert.For skrivere der registreringen skjer på en strimmel, og der framdriftsmekanismen styres av klokken, skal bevegelsen i rett linje framover være minst 10 mm/t.Registrering av tilbakelagt veistrekning, kjøretøyets hastighet og all åpning av boksen med diagramskiven(e), skal skje automatisk.
 
-1. Boksen som inneholder diagramskiven(e) og mekanismen for innstilling av klokken, skal være utstyrt med en låseinnretning.
+2\. Måling av tilbakelagt strekningHver tilbakelagt kilometer skal på diagrammet utgjøre minst én millimeter på den aktuelle koordinat.Registreringen av tilbakelagt strekning skal være lett å lese, også ved hastigheter på yttergrensen av det målbare området.
 
-2. Hver gang boksen som inneholder diagramskiven(e) og mekanismen for innstilling av klokken, blir åpnet, skal det automatisk registreres på skiven eller skivene.
+3\. Måling av hastighetSkrivestiften skal normalt bevege seg i rett linje og vinkelrett på diagramskivens bevegelsesretning, uansett hvilken form diagramskiven har.Stiften kan likevel bevege seg i en buet linje, dersom følgende vilkår er oppfylt:Sporet som tegnes av skrivestiften skal være vinkelrett på den midterste omkretsen i det feltet som er reservert for hastighetsregistrering (ved rund diagramskive), eller vinkelrett på aksen i det nevnte feltet (ved diagramskive i strimmelform).Forholdet mellom radien i den kurven skrivestiften tegner og bredden på det feltet som er beregnet for registrering av hastighet, må ikke være mindre enn 2,4:1, uansett hvilken form diagramskiven har.Strekene som deler inn tidsskalaen, skal krysse registreringsfeltet i en bue med samme radius som den buen skrivestiften tegner. Avstanden mellom strekene på tidsskalaen skal ikke tilsvare mer enn én time.En endring av hastigheten på 10 km/t skal vises i registreringen som en endring på minst 1,5 mm på den tilsvarende koordinat.
 
-1. Fartsskriverens skjerm skal være merket på følgende vis:I umiddelbar nærhet av tallet måleren for tilbakelagt veistrekning viser, skal måleenheten for tilbakelagt strekning være angitt, forkortet «km».I umiddelbar nærhet av fartsskalaen skal det stå «km/t».Fartsmålerens måleområde skal være angitt med «Vmin ... km/t, Vmaks ... km/t». Dette kan imidlertid sløyfes dersom måleområdet er angitt på fartsskriverens typeskilt.Disse kravene gjelder likevel ikke for fartsskrivere som er godkjent før 10. august 1970.
+4\. Måling av tidFartsskriveren skal være konstruert slik at kjøretiden alltid registreres automatisk, og slik at det er mulig, om nødvendig ved hjelp av en betjeningsinnretning, å registrere separat følgende perioder:under tegnet:  kjøretid,under tegnet:  perioder med annet arbeid,under tegnet:  perioder der føreren er disponibel, dvs.:ventetid, dvs. den tiden føreren må være til stede for å besvare telefonen, i påvente av henvendelser om å starte eller gjenoppta kjøringen eller utføre annet arbeid,tid som tilbringes ved siden av føreren mens kjøretøyet er i fart,tid som tilbringes i en køyeseng mens kjøretøyet er i fart,under tegnet:  pauser i arbeidet og døgnhviler.En avtalepart kan tillate at alle perioder som er nevnt i [pkt](forskrift/2012-06-28-794/kapii). ii) og iii) ovenfor, blir registrert under tegnet:  på diagramskiver som brukes på kjøretøy registrert på vedkommende avtaleparts territorium.Det skal være mulig å skille de ulike periodene klart fra hverandre på grunnlag av skrivesporenes utseende, deres posisjon i forhold til hverandre, og om nødvendig ved hjelp av de tegn som er angitt i nr. 4 bokstav a).De forskjellige periodene skal skilles fra hverandre på diagramskiven gjennom ulik tykkelse på strekene som angir dem, eller på annen måte som gjør det like lett å lese og tolke registreringene.I kjøretøy som er bemannet med flere enn en fører, skal de registreringer som er nevnt i nr. 4 bokstav a) gjøres på separate skiver, en for hver av førerne. I slike tilfeller skal de enkelte skivene trekkes fram enten av den samme mekanismen eller av separate, men synkroniserte mekanismer.
 
-2. Typeskiltet skal være festet på fartsskriveren, og det skal inneholde følgende opplysninger, som skal være synlige på fartsskriveren når den er installert:produsentens navn og adresse,produksjonsnummer og produksjonsår,typegodkjenningsmerke,fartsskriverens konstant på formen «k = ... omdr./km» eller «k = ... imp/km»,eventuelt fartsmålerens måleområde slik det er angitt i nr. 1,dersom instrumentets følsomhet overfor hellingsvinkelen kan påvirke registreringene ut over det tillatte, skal den tillatte hellingsvinkel angis slik:der α er vinkelen målt fra fartsskriverens forside i vannrett stilling (med riktig side opp), som fartsskriveren er justert for, og β og γ representerer henholdsvis øvre og nedre grense for tillatt avvik fra justeringsvinkelen α.
+*D. Lukkemekanisme*
 
-1. Under utprøving før installering:tilbakelagt strekning:± 1 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 3 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag og maksimalt 10 minutter etter 7 dager, når den tiden klokken kan gå etter å ha blitt trukket opp, ikke er kortere enn denne perioden.
+1\. Boksen som inneholder diagramskiven(e) og mekanismen for innstilling av klokken, skal være utstyrt med en låseinnretning.
 
-2. Ved installering:tilbakelagt strekning:± 2 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 4 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag, eller± 10 minutter etter 7 dager.
+2\. Hver gang boksen som inneholder diagramskiven(e) og mekanismen for innstilling av klokken, blir åpnet, skal det automatisk registreres på skiven eller skivene.
 
-3. I drift:tilbakelagt strekning:± 4 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 6 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag, eller± 10 minutter etter 7 dager.
+*E. Merking*
 
-4. De største tillatte avvik i henhold til nr. 1, 2 og 3 gjelder ved temperaturer mellom 0 og 40 °C, og temperaturen skal måles i apparatets umiddelbare nærhet.
+1\. Fartsskriverens skjerm skal være merket på følgende vis:I umiddelbar nærhet av tallet måleren for tilbakelagt veistrekning viser, skal måleenheten for tilbakelagt strekning være angitt, forkortet «km».I umiddelbar nærhet av fartsskalaen skal det stå «km/t».Fartsmålerens måleområde skal være angitt med «Vmin ... km/t, Vmaks ... km/t». Dette kan imidlertid sløyfes dersom måleområdet er angitt på fartsskriverens typeskilt.Disse kravene gjelder likevel ikke for fartsskrivere som er godkjent før 10. august 1970.
 
-5. Måling av avvik i henhold til nr. 2 og 3 skal skje under de forhold som er beskrevet i [kapittel VI](forskrift/2012-06-28-794/kapvi).
+2\. Typeskiltet skal være festet på fartsskriveren, og det skal inneholde følgende opplysninger, som skal være synlige på fartsskriveren når den er installert:produsentens navn og adresse,produksjonsnummer og produksjonsår,typegodkjenningsmerke,fartsskriverens konstant på formen «k = ... omdr./km» eller «k = ... imp/km»,eventuelt fartsmålerens måleområde slik det er angitt i nr. 1,dersom instrumentets følsomhet overfor hellingsvinkelen kan påvirke registreringene ut over det tillatte, skal den tillatte hellingsvinkel angis slik:der α er vinkelen målt fra fartsskriverens forside i vannrett stilling (med riktig side opp), som fartsskriveren er justert for, og β og γ representerer henholdsvis øvre og nedre grense for tillatt avvik fra justeringsvinkelen α.
+
+*F. Største tillatte avvik (visningsinstrumenter og appart for registrering)*
+
+1\. Under utprøving før installering:tilbakelagt strekning:± 1 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 3 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag og maksimalt 10 minutter etter 7 dager, når den tiden klokken kan gå etter å ha blitt trukket opp, ikke er kortere enn denne perioden.
+
+2\. Ved installering:tilbakelagt strekning:± 2 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 4 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag, eller± 10 minutter etter 7 dager.
+
+3\. I drift:tilbakelagt strekning:± 4 % av den faktiske veistrekning, som skal være minst 1 kilometer,hastighet:± 6 km/t i forhold til den faktiske hastigheten,tid:± 2 minutter per dag, eller± 10 minutter etter 7 dager.
+
+4\. De største tillatte avvik i henhold til nr. 1, 2 og 3 gjelder ved temperaturer mellom 0 og 40 °C, og temperaturen skal måles i apparatets umiddelbare nærhet.
+
+5\. Måling av avvik i henhold til nr. 2 og 3 skal skje under de forhold som er beskrevet i [kapittel VI](forskrift/2012-06-28-794/kapvi).
 
 ### IV. Diagramskiver
 
-1. Diagramskivene skal være av en slik kvalitet at de ikke er til hinder for at fartsskriveren fungerer etter forutsetningene. De opplysninger som registreres på skivene, skal være betryggende lagret, og de skal være lette å lese og identifisere.Diagramskivene skal beholde dimensjonene og bevare alt som blir registrert på dem ved normal fuktighet og temperatur.Det skal dessuten være mulig for hver av mannskapet å skrive inn på skivene følgende opplysninger, uten at dette fører til skade på skivene eller gjør det vanskeligere å lese av registreringene:når han begynner å bruke skiven: etternavn og fornavn,når skiven tas i bruk og når skiven tas ut: dato og sted,registreringsnummeret på hvert av kjøretøyene han får i oppdrag å kjøre, både ved starten på den første turen som blir registrert på skiven, og deretter ved eventuelt skifte av kjøretøy,kilometerstand:ved starten på den første turen som blir registrert på skiven,ved avslutningen av den siste turen som blir registrert på skiven,ved eventuelt bytte av kjøretøy i løpet av arbeidsdagen (avlesing på kjøretøyet han forlater, og avlesing på kjøretøyet han går over på),tidspunkt for eventuelt bytte av kjøretøy.Under normale lagringsforhold skal registreringene kunne leses av tydelig i minst ett år.
+*A. Alminnelige bestemmelser*
 
-2. Diagramskivene skal ha en registreringskapasitet på minst 24 timer, uansett hvilken form de har.Dersom flere skiver blir forbundet med hverandre for å øke den løpende registreringskapasiteten uten inngrep fra mannskapets side, skal skivene kobles sammen på en slik måte at det ikke blir brudd eller overlappinger i registreringen ved overgangen fra en skive til en annen.
+1\. Diagramskivene skal være av en slik kvalitet at de ikke er til hinder for at fartsskriveren fungerer etter forutsetningene. De opplysninger som registreres på skivene, skal være betryggende lagret, og de skal være lette å lese og identifisere.Diagramskivene skal beholde dimensjonene og bevare alt som blir registrert på dem ved normal fuktighet og temperatur.Det skal dessuten være mulig for hver av mannskapet å skrive inn på skivene følgende opplysninger, uten at dette fører til skade på skivene eller gjør det vanskeligere å lese av registreringene:når han begynner å bruke skiven: etternavn og fornavn,når skiven tas i bruk og når skiven tas ut: dato og sted,registreringsnummeret på hvert av kjøretøyene han får i oppdrag å kjøre, både ved starten på den første turen som blir registrert på skiven, og deretter ved eventuelt skifte av kjøretøy,kilometerstand:ved starten på den første turen som blir registrert på skiven,ved avslutningen av den siste turen som blir registrert på skiven,ved eventuelt bytte av kjøretøy i løpet av arbeidsdagen (avlesing på kjøretøyet han forlater, og avlesing på kjøretøyet han går over på),tidspunkt for eventuelt bytte av kjøretøy.Under normale lagringsforhold skal registreringene kunne leses av tydelig i minst ett år.
 
-1. Diagramskivene skal ha følgende skrivefelter:ett felt reservert utelukkende for registrering av hastighet,ett felt reservert utelukkende for registrering av tilbakelagt strekning,ett eller flere felter for registrering av kjøretid, perioder med annet arbeid, perioder der føreren står til rådighet, pauser fra arbeidet og hvileperioder.
+2\. Diagramskivene skal ha en registreringskapasitet på minst 24 timer, uansett hvilken form de har.Dersom flere skiver blir forbundet med hverandre for å øke den løpende registreringskapasiteten uten inngrep fra mannskapets side, skal skivene kobles sammen på en slik måte at det ikke blir brudd eller overlappinger i registreringen ved overgangen fra en skive til en annen.
 
-2. Feltet for registrering av hastighet skal ha en skalainndeling der hvert mellomrom representerer maksimalt 20 km/t. Ved hver strek på skalaen skal det stå angitt i tall hvor stor hastighet streken representerer. Forkortelsen «km/t» skal stå minst ett sted innenfor feltet. Den siste delstreken på skalaen skal falle sammen med den høyeste hastigheten i måleområdet.
+*B. Skrivefelter og inndelingen av dem*
 
-3. Feltet for registrering av tilbakelagt veistrekning skal være delt inn på en slik måte at det er lett å lese av antall kjørte kilometer.
+1\. Diagramskivene skal ha følgende skrivefelter:ett felt reservert utelukkende for registrering av hastighet,ett felt reservert utelukkende for registrering av tilbakelagt strekning,ett eller flere felter for registrering av kjøretid, perioder med annet arbeid, perioder der føreren står til rådighet, pauser fra arbeidet og hvileperioder.
 
-4. Feltet eller feltene for registrering av de perioder som er nevnt i nr. 1 tredje strekpunkt, skal være merket slik at man tydelig kan skille de ulike periodene fra hverandre.
+2\. Feltet for registrering av hastighet skal ha en skalainndeling der hvert mellomrom representerer maksimalt 20 km/t. Ved hver strek på skalaen skal det stå angitt i tall hvor stor hastighet streken representerer. Forkortelsen «km/t» skal stå minst ett sted innenfor feltet. Den siste delstreken på skalaen skal falle sammen med den høyeste hastigheten i måleområdet.
+
+3\. Feltet for registrering av tilbakelagt veistrekning skal være delt inn på en slik måte at det er lett å lese av antall kjørte kilometer.
+
+4\. Feltet eller feltene for registrering av de perioder som er nevnt i nr. 1 tredje strekpunkt, skal være merket slik at man tydelig kan skille de ulike periodene fra hverandre.
+
+*C. Opplysninger som skal være trykt på diagramskiven*
 
 På hver skive skal det stå følgende opplysninger i trykte bokstaver:produsentens navn og adresse eller firmanavn,diagramskivens typegodkjenningsmerke,godkjenningsmerket til den eller de typer fartsskrivere som diagramskiven kan brukes i,høyeste hastighet som måles i måleområdet, angitt i km/t.
 
 På hver diagramskive skal det dessuten være trykt en tidsskala som er delt inn slik at man kan lese av tiden direkte med 15 minutters mellomrom, og slik at hvert intervall på 5 minutter kan bestemmes uten problemer.
 
+*D. Åpen plass for håndskrevne opplysninger*
+
 Det skal være satt av nok plass på diagramskiven til at fører minst kan skrive inn følgende opplysninger for hånd:førers etternavn og fornavn,dato og sted for starten på og dato og sted for avslutningen av bruken av skiven,registreringsnummeret på hvert av kjøretøyene han får i oppdrag å kjøre mens skiven er i bruk,kilometerstand på hvert av kjøretøyene han får i oppdrag å kjøre mens skiven er i bruk,tidspunkt for eventuelt bytte av kjøretøy.
 
 ### V. Installering av fartsskriveren
 
-1. Fartsskriveren skal være slik plassert i kjøretøyet at man fra førersetet har god oversikt over fartsmåler, kilometerteller og klokke, samtidig som alle disse instrumentenes bestanddeler, herunder drivverk, er beskyttet mot skade ved uhell.
+*A. Alminnelige bestemmelser*
 
-2. Fartsskriverens konstant skal kunne tilpasses kjøretøyets kilometerfaktor ved hjelp av en egnet innretning til dette formål – en adapter.Kjøretøy med to eller flere utvekslingsforhold på bakakselen skal være utstyrt med en omkoblingsinnretning som automatisk tilpasser de forskjellige utvekslingsforhold til det utvekslingsforhold som er brukt ved tilpasning av fartsskriveren til kjøretøyet.
+1\. Fartsskriveren skal være slik plassert i kjøretøyet at man fra førersetet har god oversikt over fartsmåler, kilometerteller og klokke, samtidig som alle disse instrumentenes bestanddeler, herunder drivverk, er beskyttet mot skade ved uhell.
 
-3. Etter at fartsskriveren er installert og utprøvd, skal en installasjonsplate festes lett synlig på eller ved siden av skriveren. Dersom en godkjent installatør eller et godkjent verksted kontrollerer fartsskriveren og finner at det er nødvendig å foreta endringer i installasjonen, skal installasjonsplaten skiftes ut med en ny.Platen skal som et minimum inneholde følgende opplysninger:installatørens eller verkstedets navn og adresse eller firmanavn,kjøretøyets kilometerfaktor, på formen «w = ... omdr./km» eller «w = ... imp/km»,dekkenes effektive omkrets, på formen «1 = ... mm»,dato for måling av kjøretøyets kilometerfaktor og dekkenes effektive omkrets.
+2\. Fartsskriverens konstant skal kunne tilpasses kjøretøyets kilometerfaktor ved hjelp av en egnet innretning til dette formål – en adapter.Kjøretøy med to eller flere utvekslingsforhold på bakakselen skal være utstyrt med en omkoblingsinnretning som automatisk tilpasser de forskjellige utvekslingsforhold til det utvekslingsforhold som er brukt ved tilpasning av fartsskriveren til kjøretøyet.
+
+3\. Etter at fartsskriveren er installert og utprøvd, skal en installasjonsplate festes lett synlig på eller ved siden av skriveren. Dersom en godkjent installatør eller et godkjent verksted kontrollerer fartsskriveren og finner at det er nødvendig å foreta endringer i installasjonen, skal installasjonsplaten skiftes ut med en ny.Platen skal som et minimum inneholde følgende opplysninger:installatørens eller verkstedets navn og adresse eller firmanavn,kjøretøyets kilometerfaktor, på formen «w = ... omdr./km» eller «w = ... imp/km»,dekkenes effektive omkrets, på formen «1 = ... mm»,dato for måling av kjøretøyets kilometerfaktor og dekkenes effektive omkrets.
+
+*B. Forsegling*
 
 Følgende deler skal forsegles:installasjonsplaten, med mindre den er montert slik at den ikke kan fjernes uten at innskriften blir ødelagt,de to endene av forbindelsen mellom fartsskriveren og kjøretøyet,selve adapteren og forbindelsen mellom den og de øvrige deler av kjøretøyet,omkoblingsinnretningen for kjøretøy med to eller flere utvekslingsforhold på bakakselen,koblingene som forbinder adapteren og omkoblingsinnretningen til resten av fartsskriveren,innfatningen som det stilles krav om i [kapittel III](forskrift/2012-06-28-794/kapiii) del A nr. 7 bokstav b).
 
@@ -541,37 +687,70 @@ Bare de forseglingene som er nevnt under bokstavene b), c) og e), kan fjernes i 
 
 Avtalepartene skal utpeke de organer som skal foreta etterprøving og kontroll.
 
+*1. Godkjenning av nye og reparerte instrumenter*
+
 Hver enkelt ny eller reparert fartsskriver skal testes for å få bekreftet at den virker som den skal, og at den leser av og registrerer data med den nødvendige nøyaktighet, innenfor de avvik som er tillatt i henhold til [kapittel III](forskrift/2012-06-28-794/kapiii) del F nr. 1, og den skal godkjennes ved hjelp av en forsegling i samsvar med [kapittel V](forskrift/2012-06-28-794/kapv) del B bokstav f).
 
 For dette formål kan avtaleparten innføre en førstegangskontroll, som består av en etterprøving og verifisering av at en ny eller reparert fartsskriver fungerer i samsvar med den typegodkjente modellen og/eller at den tilfredsstiller kravene i dette vedlegg og tilleggene til vedlegget, eller avtaleparten kan delegere godkjenningsmyndigheten til produsentene eller deres autoriserte representanter.
+
+*2. Installering*
 
 Når en fartsskriver blir installert i et kjøretøy, skal det påses at fartsskriveren og dens deler fungerer i samsvar med bestemmelsene om maksimale avvik i [kapittel III](forskrift/2012-06-28-794/kapiii) del F nr. 2.
 
 Utprøvingen av dette skal foretas av den godkjente installatøren eller det godkjente verkstedet som står for installasjonen, og den skal være deres ansvar.
 
+*3. Regelmessig kontroll*
+
 1. Periodiske kontroller av fartsskrivere som er installert i kjøretøy, skal finne sted minst annethvert år, og kan foretas i forbindelse med periodiske kjøretøykontroller.Under disse kontrollene skal bl.a. følgende sjekkes:at fartsskriveren fungerer slik den skal,at fartsskriveren har typegodkjenningsmerke,at installasjonsplate er montert,at forseglingene på fartsskriveren og de andre delene av anlegget er intakt,den faktiske omkretsen på dekkene.
 2. En kontroll med at bestemmelsene i [kapittel III](forskrift/2012-06-28-794/kapiii) del F nr. 3 om maksimale avvik under drift, blir overholdt, skal foretas minst én gang hvert sjette år, men den enkelte avtalepart kan bestemme at slike kontroller skal gjennomføres oftere for kjøretøy som er registrert på vedkommende avtaleparts territorium. Slike kontroller skal også omfatte utskifting av installasjonsplaten.
+
+*4. Måling av feil*
 
 Måling av feil under installering og bruk skal foretas under følgende forhold, som skal betraktes som normale testforhold:kjøretøyet skal være uten last og i normal kjørbar stand,dekktrykket skal være i samsvar med produsentens anvisninger,dekkenes slitasje skal være innenfor de grenser som er fastsatt av gjeldende bestemmelser,kjøretøyets bevegelse: kjøretøyet skal bevege seg for egen motor i en rett linje på et jevnt underlag med en fart på 50 +/-5 km/t. Kontrollen kan også foretas på en egnet prøvestand, under forutsetning av at den er like nøyaktig.
 
 ### Tillegg 1B1
 Krav til konstruksjon, testing, installering og kontroll av digitale fartsskrivere som brukes innen veitransport
 
+1 Lagt til i avtaletillegg nr. 5.
+
 ### Artikkel 1
 
-1. Dette tillegget er en tilpasning av vedlegg IB til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, om bruk av fartsskriver innen veitransport,1 og innholdet i dette vedlegget er, på grunn av sin størrelse og sin svært tekniske karakter, ikke tatt inn i AETR. For den fullstendige offisielle teksten og påfølgende endringer henvises avtalepartene til Den europeiske unionens Official Journal.Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder referanser til de relevante tekstene fra Den europeiske unionen og de utgavene av *Official Journal* der tekstene er publisert, og som gjennom kryssreferanser belyser de spesielle punktene der det har vært nødvendig å tilpasse det nevnte vedlegget til konteksten i AETR.
+*Innledning*
 
-2. For å gjøre det lettere å finne fram i nevnte vedlegg med de tilpasninger som er gjort til AETR, og for å gi et helhetlig overblikk over teksten, vil sekretariatet til FNs økonomiske kommisjon for Europa utarbeide en konsolidert versjon av dette tillegget. Denne versjonen vil imidlertid ikke ha noen rettslig kraft. Den vil bli utarbeidet på kommisjonens offisielle språk og oppdatert ved behov.
+1\. Dette tillegget er en tilpasning av vedlegg IB til rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) av 20. desember 1985, om bruk av fartsskriver innen veitransport,1 og innholdet i dette vedlegget er, på grunn av sin størrelse og sin svært tekniske karakter, ikke tatt inn i AETR. For den fullstendige offisielle teksten og påfølgende endringer henvises avtalepartene til Den europeiske unionens Official Journal.Innholdet i dette tillegget er derfor begrenset til en innledning som inneholder referanser til de relevante tekstene fra Den europeiske unionen og de utgavene av *Official Journal* der tekstene er publisert, og som gjennom kryssreferanser belyser de spesielle punktene der det har vært nødvendig å tilpasse det nevnte vedlegget til konteksten i AETR.
+
+2\. For å gjøre det lettere å finne fram i nevnte vedlegg med de tilpasninger som er gjort til AETR, og for å gi et helhetlig overblikk over teksten, vil sekretariatet til FNs økonomiske kommisjon for Europa utarbeide en konsolidert versjon av dette tillegget. Denne versjonen vil imidlertid ikke ha noen rettslig kraft. Den vil bli utarbeidet på kommisjonens offisielle språk og oppdatert ved behov.
+
+1 Lagt til i avtaletillegg nr. 5.
 
 ### Artikkel 2
 
-1. I samsvar med artikkel 1 nr. 1 ovenfor blir avtalepartene, når de ønsker å konsultere vedlegg IB, bedt om å slå opp i kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 og kommisjonsforordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (se fotnote nedenfor for datoene disse er publisert på i EUs *Official Journal*,*) som er sjuende og åttende tilpasning til den tekniske utvikling av rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) om bruk av fartsskriver innen veitransport.
+*Innledende bestemmelser til tillegg 1B*
 
-2. For tillegg 1B gjelder følgende:
+1\. I samsvar med artikkel 1 nr. 1 ovenfor blir avtalepartene, når de ønsker å konsultere vedlegg IB, bedt om å slå opp i kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 og kommisjonsforordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (se fotnote nedenfor for datoene disse er publisert på i EUs *Official Journal*,\*) som er sjuende og åttende tilpasning til den tekniske utvikling av rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) om bruk av fartsskriver innen veitransport.
 
-2.1 Betegnelsene i venstre kolonne nedenfor skal erstattes av de tilsvarende betegnelsene i høyre kolonne:*Betegnelser brukt i vedlegg IB**Betegnelser brukt i AETR*medlemsstateravtaleparterMSCPvedlegg IB*erstattes av*tillegg 1Btilleggtilleggsbilagforordningenavtalen eller AETREFUNECE
+2\. For tillegg 1B gjelder følgende:
 
-2.2 Referanser til juridiske tekster i venstre kolonne nedenfor skal erstattes av referanser til tilsvarende tekster i høyre kolonne:*EFs juridiske tekster**Betegnelser brukt i AETR*rådsforordning [(EØF) nr. 3821/85](eu/31985r3821)AETRrådsdirektiv [92/23/EØF](eu/31992l0023)*erstattes av*ECE-regulativ 54
+2.1 Betegnelsene i venstre kolonne nedenfor skal erstattes av de tilsvarende betegnelsene i høyre kolonne:
+
+|  |  |  |
+| --- | --- | --- |
+| *Betegnelser brukt i vedlegg IB* |  | *Betegnelser brukt i AETR* |
+| medlemsstater |  | avtaleparter |
+| MS |  | CP |
+| vedlegg IB | *erstattes av* | tillegg 1B |
+| tillegg |  | tilleggsbilag |
+| forordningen |  | avtalen eller AETR |
+| EF |  | UNECE |
+
+2.2 Referanser til juridiske tekster i venstre kolonne nedenfor skal erstattes av referanser til tilsvarende tekster i høyre kolonne:
+
+|  |  |  |
+| --- | --- | --- |
+| *EFs juridiske tekster* |  | *Betegnelser brukt i AETR* |
+| rådsforordning [(EØF) nr. 3821/85](eu/31985r3821) |  | AETR |
+| rådsdirektiv [92/23/EØF](eu/31992l0023) | *erstattes av* | ECE-regulativ 54 |
+|  |  |  |
 
 2.3 En liste over tekster og bestemmelser som ECE ikke har noen motsvarighet til, eller der det er behov for mer informasjon, er å finne nedenfor. Disse tekstene og denne informasjonen blir bare nevnt i form av referanser.
 
@@ -601,30 +780,55 @@ Krav til konstruksjon, testing, installering og kontroll av digitale fartsskrive
 
 2.4.7 I tillegg 9/tilleggsbilag 9 til AETR (Typegodkjenning – Liste over minstekrav til utprøving) 1, 1-1 endres den innledende setningen til:«Typegodkjenningsprosedyren for fartsskrivere (eller komponenter) og fartsskriverkort er basert på:»
 
+\*) Endret gjennom rådsforordning [(EF) nr. 2135/98](eu/31998r2135*) av 24. september 1998 (OJ L 274 av 9. oktober 1998) og gjennom kommisjonsforordning [(EF) nr. 1360/2002](eu/32002r1360*) av 13. juni 2002 (OJ L 207 av 5. august 2002 (corrigendum OJ L 77 av 13. mars 2004)) og forordning [(EF) nr. 432/2004](eu/32004r0432) av 5. mars 2004 (OJ L 71 av 10. mars 2004).
+
 ### Tillegg 21
 Godkjenningsmerke og godkjenningsdokument
 
-1. Godkjenningsmerket skal bestå av:et rektangel med bokstaven «e», etterfulgt av nasjonalitetsnummeret til det landet som har utstedt godkjenningen, i henhold til følgende liste:Tyskland1Slovakia27Frankrike2Hviterussland28Italia3Estland29Nederland4Moldova30Sverige5Bosnia-Hercegovina31Belgia6Latvia32Ungarn7Liechtenstein33Tsjekkia8Bulgaria34Spania9Kasakhstan35Serbia10Litauen36UK11Tyrkia37Østerrike12Turkmenistan38Luxembourg13Aserbajdsjan39Sveits14Den tidligere jugoslaviske republikken Makedonia40Norge16Finland17Andorra41Danmark18Usbekistan44Romania19Ukraina46Polen20Kypros49Portugal21Malta50Russland22Albania54Hellas23Armenia55Irland24Montenegro56Kroatia25San Marino57Slovenia26Monaco59med de påfølgende nummer tildelt slik at:land som er part i *the Agreement Concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts* fra 1958, får samme nummer som disse har fått tildelt i nevnte avtale, ogland som ikke er part i avtalen fra 1958, får tildelt nummer i samme rekkefølge som de ratifiserer eller tiltrer denne avtale,oget godkjenningsnummer som er identisk med nummeret på typegodkjenningsdokumentet for prototypen av den aktuelle fartsskriveren eller diagramskiven, plassert i umiddelbar nærhet av dette rektangelet.*Merk:* For å sikre framtidig samsvar mellom nasjonalitetsnumrene etter avtalen fra 1958 og de som blir tildelt i henhold til AETR, skal nye avtaleparter tildeles samme nummer i begge avtaler.
+*I. Godkjenningsmerke*
 
-2. Godkjenningsmerket skal finnes på typeskiltet på hver enkelt fartsskriver og diagramskive. Det skal være lett å lese, og det skal ikke kunne fjernes.
+1\. Godkjenningsmerket skal bestå av:et rektangel med bokstaven «e», etterfulgt av nasjonalitetsnummeret til det landet som har utstedt godkjenningen, i henhold til følgende liste:Tyskland1Slovakia27Frankrike2Hviterussland28Italia3Estland29Nederland4Moldova30Sverige5Bosnia-Hercegovina31Belgia6Latvia32Ungarn7Liechtenstein33Tsjekkia8Bulgaria34Spania9Kasakhstan35Serbia10Litauen36UK11Tyrkia37Østerrike12Turkmenistan38Luxembourg13Aserbajdsjan39Sveits14Den tidligere jugoslaviske republikken Makedonia40Norge16Finland17Andorra41Danmark18Usbekistan44Romania19Ukraina46Polen20Kypros49Portugal21Malta50Russland22Albania54Hellas23Armenia55Irland24Montenegro56Kroatia25San Marino57Slovenia26Monaco59med de påfølgende nummer tildelt slik at:land som er part i *the Agreement Concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts* fra 1958, får samme nummer som disse har fått tildelt i nevnte avtale, ogland som ikke er part i avtalen fra 1958, får tildelt nummer i samme rekkefølge som de ratifiserer eller tiltrer denne avtale,oget godkjenningsnummer som er identisk med nummeret på typegodkjenningsdokumentet for prototypen av den aktuelle fartsskriveren eller diagramskiven, plassert i umiddelbar nærhet av dette rektangelet.*Merk:* For å sikre framtidig samsvar mellom nasjonalitetsnumrene etter avtalen fra 1958 og de som blir tildelt i henhold til AETR, skal nye avtaleparter tildeles samme nummer i begge avtaler.
 
-3. Målene på godkjenningsmerket nedenfor er angitt i millimeter, og er minstemål. Forholdet mellom målene skal være som angitt.
+2\. Godkjenningsmerket skal finnes på typeskiltet på hver enkelt fartsskriver og diagramskive. Det skal være lett å lese, og det skal ikke kunne fjernes.
+
+3\. Målene på godkjenningsmerket nedenfor er angitt i millimeter, og er minstemål. Forholdet mellom målene skal være som angitt.
 
 1. Disse tallene er bare brukt som eksempler.
 
+1 Endret i avtaletillegg nr. 2, 3, 5 og 6.
+
+*II. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1*1
+
 En avtalepart som har innvilget en typegodkjenning, skal utstede et typegodkjenningsdokument til søkeren etter nedenstående modell. Ved underretning av andre avtaleparter om at typegodkjenning er gitt eller eventuelt tilbakekalt, skal avtalepartene bruke kopier av dette dokumentet.
+
+*Godkjenningsdokument*
 
 Se her for å lese dokumentet: [(pdf)](static/SF/sf-20120628-0794-18-01.pdf)
 
+1 Tittelen endret i avtaletillegg nr. 5.
+
+\* Stryk det som ikke passer.
+
+*III. Typegodkjenningsdokument for produkter som er i samsvar med tillegg 1B1*
+
 Når en avtalepart har innvilget en typegodkjenning, skal den utstede et typegodkjenningsdokument til søkeren etter nedenstående modell. Avtalepartene skal bruke kopier av dette dokumentet når de underretter andre avtaleparter om at typegodkjenning er gitt eller eventuelt tilbakekalt.
+
+*Typegodkjenningsdokument for produkter i samsvar med tillegg 1B*
 
 Se her for å lese dokumentet: [(pdf)](static/SF/sf-20120628-0794-19-01.pdf)
 
+1 Lagt til i avtaletillegg nr. 5.
+
 ### Tillegg 31
+
+*Standardskjemaer*
 
 I samsvar med artikkel 12 bis i denne avtale kan veitransportforetak bruke følgende standardskjemaer for å gjøre kontroller ved veien enklere:
 
-1. Fraværsskjemaet skal brukes når en fører har vært sykemeldt eller hatt ferie, eller når han har kjørt et kjøretøy som er unntatt fra bestemmelsene i AETR, i henhold til artikkel 2 i denne avtale.
+1\. Fraværsskjemaet skal brukes når en fører har vært sykemeldt eller hatt ferie, eller når han har kjørt et kjøretøy som er unntatt fra bestemmelsene i AETR, i henhold til artikkel 2 i denne avtale.
+
+*Brukerveiledning*
+*(Skal stå på baksiden av skjemaet)*
 
 1. Alle felter i dette skjemaet skal fylles ut, av transportforetaket og vedkommende fører, *før turen starter*.
 2. Teksten på skjemaet skal ikke endres.
@@ -633,21 +837,37 @@ I samsvar med artikkel 12 bis i denne avtale kan veitransportforetak bruke følg
 5. Eventuell nasjonal eller regional tilleggsinformasjon skal stå på baksiden av skjemaet.
 6. Dersom dette skjemaet er satt opp på et annet språk enn engelsk eller fransk, skal tittelen på det nasjonale språket stå under den engelske og den franske tittelen, som ikke skal fjernes. Overskriftene på de forskjellige avsnittene skal gjentas på engelsk dersom originaldokumentet er satt opp på et annet språk enn engelsk (se vedlagte eksemplar).
 
-2. *(reservert for eventuelle andre skjema)*
+2\. *(reservert for eventuelle andre skjema)*
+
+1 Lagt til i avtaletillegg nr. 6.
+
+*Attestation of activities\* /Formulaire d'attestation d'activités\* /Fraværsskjema*\*
 
 Se her for å lese skjemaet: [(pdf)](static/SF/sf-20120628-0794-20-01.pdf)
+
+\* Dette skjemaet er tilgjengelig i elektronisk form og kan skrives ut fra følgende adresse: [http://www.unece.org/trans/main/sc1/aetr.html](https://www.unece.org/trans/main/sc1/aetr.html).\*\* European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport/Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route/Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport.\*\*\* Choose only one box/Ne cocher qu'une seule case/Det skal bare krysses av i én av boksene.
+
+*Underskriftsprotokoll*
 
 Ved undertegningen av Den europeiske avtalen om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport har de undertegnede, som er gitt behørig fullmakt til det, blitt enige om følgende:
 
 Avtalepartene erklærer at denne avtale ikke skal gripe inn i eventuelle bestemmelser som senere måtte bli vedtatt om arbeidets varighet og arbeidstidens fordeling.
 
+*ad avtalens artikkel 4*
+
 Bestemmelsene i artikkel 4 nr. 1 skal ikke tolkes slik at de gjør gjeldende, utenfor den staten der kjøretøyet som utfører transporten, er registrert, eventuelle trafikkforbud som måtte gjelde for bestemte kategorier kjøretøy på bestemte dager eller i bestemte timer på dagen i denne staten. Bestemmelsene i artikkel 4 nr. 2 skal ikke tolkes slik at de hindrer en avtalepart i å håndheve på sitt territorium bestemmelser i partens nasjonale lover og forskrifter som forbyr trafikk av bestemte kategorier kjøretøy på bestemte dager eller til bestemte klokkeslett.
 
 Enhver avtalepart som også er part i en særavtale som referert til i artikkel 4 nr. 2 i denne avtale, og som godkjenner internasjonale transportoperasjoner som starter og avsluttes på territoriene til de stater som er part i den nevnte særavtalen, for kjøretøy som er registrert i en stat som er part i denne avtale, men ikke part i den nevnte særavtalen, kan stille som betingelse for å inngå bilaterale eller multilaterale avtaler om godkjenning av slike transportoperasjoner, at mannskapene som utfører disse operasjonene, skal overholde bestemmelsene i den nevnte særavtalen på territoriene til de stater som er part i særavtalen.
 
+*ad avtalens artikkel 12*
+
 De undertegnede forplikter seg til å diskutere, etter at avtalen er trådt i kraft, inntak av en bestemmelse, i form av et avtaletillegg, om bruk av et kontrollapparat av godkjent type, som kan installeres på kjøretøyet og så langt som mulig erstatte kjøreboken.
 
+*ad avtalens artikkel 14*
+
 Avtalepartene erkjenner at det vil være ønskelig:at hver avtalepart treffer de nødvendige tiltak for å tilrettelegge for etablering av prosedyrer som skal gjelde ved brudd på avtalens bestemmelser, ikke bare ved brudd som blir begått på partens eget territorium, men også ved brudd som blir begått på territoriet til en annen stat under en internasjonal veitransportoperasjon som blir utført av et kjøretøy registrert i vedkommende avtalepart,at partene gir hverandre bistand i arbeidet med å ilegge sanksjoner for overtredelser som blir begått.
+
+*ad vedlegget til avtalen*
 
 Uten hensyn til punkt 4 i de generelle bestemmelsene i vedlegget til denne avtale, kan Sveits gjøre unntak fra kravet om at arbeidsgivere må underskrive de ukentlige rapportene i kjøreboken.
 

@@ -44,6 +44,8 @@ Tilskuddsmidlene og eventuell avkastning skal anvendes i samsvar med tilskuddsfo
 
 ## § 4. Fylkeskommunenes ansvar og oppgaver
 
+a) *Ansvar for tilskuddsordningen*
+
 Fylkeskommunene har ansvaret for utlysning og tildeling av midlene.
 
 Fylkeskommunene kan samarbeide om bruken av midlene gjennom felles forskningssatsinger, fellesutlysninger av midler o.l. Midlene kan tildeles prosjekter lokalisert i og utenfor den enkelte fylkeskommune.
@@ -54,11 +56,17 @@ Fylkeskommunene bestemmer områder/tema for utlysningene, målgrupper, prosjektp
 
 Fylkeskommunene kan i tillegg tildele midler til kvalifiserings- og mobiliseringsprosjekter.
 
+b) *Vilkår for tildelinger*
+
 Fylkeskommunen skal ved tildelinger fastsette de vilkår som er nødvendig for å sikre at bevilgningene til de regionale forskningsfondene blir brukt i samsvar med Stortingets forutsetninger, vilkår i tilskuddsbrev fra departementet og forskriften her.
 
 Midler fra denne tilskuddsordningen kan kombineres med andre offentlige virkemidler innenfor gjeldende regelverk for offentlig støtte. Støttetildelingene må være innenfor EØS-avtalens regler om offentlig støtte.
 
+c) *Samarbeid med Norges forskningsråd*
+
 Fylkeskommunene og Norges forskningsråd skal inngå én felles avtale om Forskningsrådets bistand til forvaltning av tilskuddsordningen. Avtalen skal minst omhandle samarbeidet om og prosedyrer for utlysninger, søknadsbehandling og prosjektoppfølging samt rapportering og utvikling av læringsarenaer og erfaringsutveksling mellom fylkeskommunene.
+
+d) *Økonomiforvaltning og rapportering*
 
 Forvaltning av tilskuddsmidlene skal skje i henhold til regelverket for økonomistyring i staten, så langt det passer. Fylkeskommunene skal sørge for tilfredsstillende oppfølging av og kontroll med tilskuddsmidlene i hele tilskuddskjeden. Fylkeskommunen kan kreve tilskudd tilbakebetalt dersom forutsetningen for tilskuddet ikke overholdes.
 

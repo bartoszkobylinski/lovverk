@@ -26,15 +26,23 @@ eu_basis: []
 
 Søndre Østfold tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Moss (rettssted Moss)
+
 - Moss kommune
 - Råde kommune
 - Våler (Viken) kommune.
 
+Trekningskrets 2 Sarpsborg (rettssted Sarpsborg)
+
 - Rakkestad kommune
 - Sarpsborg kommune.
 
+Trekningskrets 3 Halden (rettssted Halden)
+
 - Aremark kommune
 - Halden kommune.
+
+Trekningskrets 4 Fredrikstad (rettssted Fredrikstad)
 
 - Fredrikstad kommune
 - Hvaler kommune.

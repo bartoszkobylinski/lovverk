@@ -40,6 +40,28 @@ Forskriften gjelder for overvåkning av og kontroll med salmonella i alle typer 
 
 I denne forskrift menes med:
 
+*Salmonella:* Enhver variant av arter av Salmonella.
+
+*Dyrehold:* Enhver driftsenhet, samlingssted, bedrift eller husholdning der dyr holdes eller oppdrettes, midlertidig eller kontinuerlig. Et dyrehold kan omfatte flere besetninger.
+
+*Besetning:* Alle dyr innen ett dyrehold der kontakten mellom dyrene er av en slik art at smitte kan overføres (smittemessig kontakt).
+
+*Kontaktbesetning:* Besetninger i samme eller i andre dyrehold der kontakten med smittet besetning har vært av en slik art at smitte kan ha blitt overført.
+
+*Dyreholder:* Eier av dyrehold eller person som med eller uten vederlag, av eier er overlatt ansvaret for dyreholdet.
+
+*Foredlingsbesetning svin:* Besetning der det avles renavlsdyr for testing og produseres råner til bruk i kunstig sædoverføring, og som er godkjent i henhold til godkjenningsordning fastsatt av Landbruks- og matdepartementet.
+
+*Formeringsbesetninger svin:* Besetninger der det avles opp hybridpurker for salg til bruksbesetninger, og som er godkjent i henhold til godkjenningsordning fastsatt av Landbruks- og matdepartementet.
+
+*Bruksbesetninger svin:* Besetninger der det fôres opp griser til slakt og/eller produseres smågris for oppfôring til slakt, og som ikke er godkjent som foredlings- eller formeringsbesetning.
+
+*Besetning smittet med salmonella:* Besetning der det forekommer sjukdom forårsaket av *Salmonella* eller der det er påvist salmonella uten kliniske symptomer hos dyrene.
+
+*Offentlig veterinær:* Veterinær gitt offentlig myndighet av kompetent sentral myndighet, inkludert grenseveterinær, epizootiveterinær og kontrollveterinær.
+
+*Tilsynsveterinær:* Veterinær som av Mattilsynet er utpekt for å forestå kjøttkontroll og føre tilsyn med virksomheter.
+
 > Endret ved [forskrifter 5 des 1995 nr. 969](forskrift/1995-12-05-969), [9 jan 2004 nr. 79](forskrift/2004-01-09-79), [8 juni 2007 nr. 604](forskrift/2007-06-08-604).
 
 ## Kapittel II. Generelle bestemmelser
@@ -202,7 +224,18 @@ Denne forskrift trer i kraft straks.
 
 ### Tabell 1. Besetninger med dyr i aldersgruppen 2 – 6 måneder
 
+| Besetningsstørrelse | Prøver skal tas fra: |
+| --- | --- |
+| Mindre enn 3 binger | Prøver tas ut i henhold til vedlegg 2 |
+| 3 – 20 binger med dyr | Alle binger |
+| Mer enn 20 binger med dyr | 20 binger, men minimum 3 binger fra hver avdeling i besetningen |
+
 ### Tabell 2. Besetninger uten dyr i aldersgruppen 2 – 6 måneder
+
+| Besetningsstørrelse | Prøver skal tas fra: |
+| --- | --- |
+| Opptil 59 purker | Alle purker |
+| Mer enn 59 purker | 59 purker |
 
 ## Vedlegg 2. Uttak av fecesprøver:
 
@@ -210,11 +243,15 @@ Denne forskrift trer i kraft straks.
 - ved etterkontroll i svine- og storfebesetninger etter oppheving av restriksjoner,
 - i svine- og storfebesetninger som ikke deltar i overvåkningsprogram ved slakteri.DyreartBesetningsstørrelseAntall prøver fra ulike kategorier av dyrStorfeOpptil 59 dyrAlle dyr1Mer enn 59 dyr59 dyr + samleprøver fra alle binger med kalver og ungdyr1SvinOpptil 59 purker/rånerAlle purker/råner + samleprøver fra alle binger med smågris og slaktegris1Mer enn 59 purker/råner59 purker/råner + samleprøver fra alle binger med smågris og slaktegris1
 
+1 Prøveuttak for bakteriologisk undersøkelse utføres i henhold til vedlegg 4 til denne forskrift.
+
 ## Vedlegg 3.
 
 > Opphevet ved [forskrift 8 juni 2007 nr. 604](forskrift/2007-06-08-604).
 
 ## Vedlegg 4. Prøveuttak for bakteriologisk undersøkelse
+
+*Prøveuttak storfe og svin:*
 
 For individuell prøvetaking, skal det tas ut minimum 10 g feces fra hvert dyr. Prøven plasseres i en plastboks og merkes.
 

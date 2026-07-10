@@ -342,9 +342,94 @@ Fra samme tid oppheves [forskrift 15. november 2002 nr. 1276](forskrift/2002-11-
 
 ## Vedlegg 1 – Artsliste
 
+For å lese vedlegget se her: [pdf-fil](static/SF/sf-20180615-0889-01-09.pdf).
+
 > Endret ved forskrifter [4 des 2019 nr. 1631](forskrift/2019-12-04-1631), [23 juni 2021 nr. 2135](forskrift/2021-06-23-2135), [15 des 2021 nr. 4026](forskrift/2021-12-15-4026), [23 feb 2023 nr. 249](forskrift/2023-02-23-249), [11 april 2024 nr. 610](forskrift/2024-04-11-610), [10 april 2025 nr. 653](forskrift/2025-04-10-653), [26 feb 2026 nr. 316](forskrift/2026-02-26-316) (i kraft 5 mars 2026), [30 juni 2026 nr. 1455](forskrift/2026-06-30-1455).
 
 ## Vedlegg 2 – Stater med handelssuspensjoner
+
+| *Stat* | *Notifikasjon* | *Grunnlag* | *Eksemplarer* | *Gyldig fra* |
+| --- | --- | --- | --- | --- |
+| Afghanistan | [No. 2013/018<br>(17/05/2013)](https://www.cites.org/sites/default//files/eng/notif/2013/E-Notif-2013-018.pdf) | Annual reports | All handel | 17. mai 2013 |
+| Bangladesh | [No. 2023/129<br>(23/11/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-129.pdf) | Compliance and enforcement – Article XIII | *Aves* spp. (CITES-listede fugler) | 22. november 2023 |
+| Belize | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Myrmecophila tibicinis* | 15. juni 2010 |
+| Benin | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Pandinus imperator* | 2. mai 2013 |
+| *Chamaeleo gracilis* | 3. februar 2016 |  |  |  |
+| *Chamaeleo senegalensis* | 3. februar 2016 |  |  |  |
+| *Kinixys homeana* | 3. februar 2016 |  |  |  |
+| Kamerun | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| Den sentralafrikanske republikk | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| Tsjad | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| Elfenbenskysten | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Pericopsis elata* | 7. september 2012 |
+| Den demokratiske republikken Kongo | [No. 2018/082<br>(01/11/2018)](https://cites.org/sites/default/files/notif/E-Notif-2018-082.pdf) | Compliance and enforcement – Article XIII | *Manis* spp. | 1. november 2018 |
+| [No. 2022/017<br>(18/03/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-017.pdf) | Compliance and enforcement – Article XIII | *Psittacus erithacus* | 15. januar 2001 |  |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Poicephalus fuscicollis* (tidligere *Poicephalus robustus*) | 9. juli 2001 |  |
+| Djibouti | [No. 2011/010<br>(19/01/2011)](https://cites.org/sites/default/files/eng/notif/2011/E010.pdf) | National legislation | All kommersiell handel | 30. april 2004 |
+| [No. 2018/015<br>(30/01/2018)](https://cites.org/sites/default/files/notif/E-Notif-2018-015.pdf) | Annual reports | All handel | 30. januar 2018 |  |
+| Dominica | [No. 2024/030<br>(02/02/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-030.pdf) | National legislation | All kommersiell handel | 10. januar 2024 |
+| Ecuador | [No. 2024/043<br>(11/03/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-043.pdf) | Compliance and enforcement – Article XIII | *Carcharhinus falciformis* | 11. mars 2024 |
+| *Carcharhinus longimanus* |  |  |  |  |
+| *Sphyrna lewini* |  |  |  |  |
+| *Sphyrna mokarran* |  |  |  |  |
+| *Sphyrna zygaena* |  |  |  |  |
+| *Alopias* spp*.* |  |  |  |  |
+| *Cetorhinus maximus* |  |  |  |  |
+| *Carcharodon carcharias* |  |  |  |  |
+| *Isurus oxyrinchus* |  |  |  |  |
+| *Isurus paucus* |  |  |  |  |
+| *Rhincodon typus* |  |  |  |  |
+| *Mobula* spp*.* |  |  |  |  |
+| Ekvatorial-Guinea | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Prunus africana* | 1. januar 2009 |
+| Gambia | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| Ghana | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Pandinus imperator* | 12. august 2014 |
+| Significant trade | *Chamaeleo gracilis* | 3. februar 2016 |  |  |
+| Significant trade | *Chamaeleo senegalensis* |  |  |  |
+| Grenada | [No. 2016/022<br>(16/03/2016)](https://cites.org/sites/default/files/notif/E-Notif-2016-022.pdf) | Annual reports | All handel | 16. mars 2016 |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Strombus gigas* | 12. mai 2006 |  |
+| Guinea | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Hippocampus algiricus* | 3. februar 2016 |
+| [No. 2023/128<br>(23/11/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-128.pdf) | Compliance and enforcement – Article XIII | All kommersiell handel | 16. mai 2013 |  |
+| Guinea-Bissau | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| Haiti | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Strombus gigas* | 29. september 2003 |
+| Laos | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Dendrobium nobile* | 1. januar 2009 |
+| [No. 2023/127<br>(21/11/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-127.pdf) | Compliance and enforcement – Article XIII | All kommersiell handel | 21. november 2023 |  |
+| Liberia |  | National legislation | All kommersiell handel | 15. mars 2016 |
+| Libya | [No. 2024/031<br>(02/02/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-031.pdf) | National legislation | All kommersiell handel | 10. januar 2024 |
+| Madagaskar | [No. 2022/031<br>(12/05/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-031_0_0.pdf) | Species action plan | *Dalbergia* spp. | 15. januar 2016 |
+| *Diospyros* spp. |  |  |  |  |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Phelsuma borai* | 20. januar 1995 |  |
+| *Phelsuma gouldi* |  |  |  |  |
+| *Phelsuma hoeschi* |  |  |  |  |
+| *Phelsuma ravenala* |  |  |  |  |
+| Significant trade | *Furcifer labordi*1 |  |  |  |
+| Significant trade | *Coracopsis vasa* |  |  |  |
+| Mali | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Uromastyx dispar* | 22. august 2008 |  |
+| [No. 2024/023<br>(24/01/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-023.pdf) | Significant trade | *Uromastyx geyri* | 24. januar 2024 |  |
+| Mosambik | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Smaug mossambicus* (Tidligere *Cordylus mossambicus*) | 7. september 2012 |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Cordylus tropidosternum* | 10. august 2001 |  |
+| Niger | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Chamaeleo africanus* | 7. september 2012 |
+| Nigeria | [No. 2018/084<br>(01/11/2018)](https://cites.org/sites/default/files/notif/E-Notif-2018-084.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 5. oktober 2018 |
+| Oman | [No. 2024/032<br>(02/02/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-032.pdf) | National legislation | All kommersiell handel | 10. januar 2024 |
+| São Tomé og Príncipe | [No. 2022/034<br>(13/05/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-034_0.pdf) | Annual reports | All handel | 11. mai 2022 |
+| [No. 2022/038<br>(17/05/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-038.pdf) | National legislation | All kommersiell handel | 7. mai 2022 |  |
+| Senegal | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Hippocampus algiricus* | 3. februar 2016 |
+| Salomonøyene | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Corucia zebrata* | 9. juli 2001 |
+| Significant trade | *Tridacna derasa* | 3. februar 2016 |  |  |
+| *Tridacna crocea* |  |  |  |  |
+| *Tridacna gigas* |  |  |  |  |
+| *Tridacna maxima* |  |  |  |  |
+| *Tridacna noae* |  |  |  |  |
+| *Tridacna squamosa* (Splittet fra *Tridacna maxima* på CoP17; inkluderer *T*. *ningaloo* etter CoP19) |  |  |  |  |
+| Significant trade | *Ornithoptera victoriae* | 20. januar 1995 |  |  |
+| Significant trade | *Ornithoptera priamus* (Tidligere *Ornithoptera urvillanus*) |  |  |  |
+| Somalia | [No. 2019/035<br>(04/07/2019)](https://cites.org/sites/default/files/notif/E-Notif-2019-035.pdf) | National legislation | All kommersiell handel | 30. juli 2004 |
+| [No. 2024/016<br>(12/01/2024)](https://cites.org/sites/default/files/notifications/E-Notif-2024-016_0.pdf) | Annual reports | All kommersiell handel | 12. januar 2024 |  |
+| Togo | [No. 2022/045<br>(08/06/2022)](https://cites.org/sites/default/files/notifications/E-Notif-2022-045.pdf) | Compliance and enforcement – Article XIII | *Pterocarpus erinaceus* | 8. juni 2022 |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Poicephalus fuscicollis* (Tidligere *Poicephalus robustus*) | 9. juli 2001 |  |
+| [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Pandinus imperator* | 2. mai 2013 |  |
+| Tanzania | [No. 2023/034<br>(23/03/2023)](https://cites.org/sites/default/files/notifications/E-Notif-2023-034.pdf) | Significant trade | *Balearica regulorum* | 2. mai 2013 |
+
+1 Stående komite anbefalte å suspendere handel med *Calumna* spp. og *Furcifer* spp. fra Madagaskar med unntak av *Calumma amber*, *C. ambreense*, *C. andringitraense*, *C. boettgeri*, *C. brevicorne*, *C. capuroni*, *C. crypticum*, *C. cucullatum*, *C. fallax*, *C. furcifer*, *C. gallus*, *C. gastrotaenia*, *C. glawi*, *C. globifer*, *C. guibei*, *C. guillaumeti*, *C. hafahafa*, *C. hilleniusi*, *C. jejy*, *C. linota*, *C. malthe*, *C. marojezense*, *C. nasutum*, *C. oshaughnessyi*, *C. parsonii*, *C. peltierorum*, *C. peyrierasi*, *C. tarzan*, *C. tsaratananense*, *C. tsycorne*, *C. vatosoa*, *C. vencesi* og *C. vohibola* og *Furcifer angeli*, *F. antimena*, *F. balteatus*, *F. belalandaensis*, *F. bifidus*, *F. campani*, *F. lateralis*, *F. minor*, *F. monoceras*, *F. nicosiai*, *F. oustaleti*, *F. pardalis*, *F. petteri*, *F. rhinoceratus*, *F. timoni*, *F. tuzetae*, *F. verrucosus* og *F. willsii*).
 
 > Endret ved forskrift [10 april 2025 nr. 653](forskrift/2025-04-10-653).
 

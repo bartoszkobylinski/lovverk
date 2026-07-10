@@ -22,4 +22,6 @@ eu_basis: []
 
 # Delegering av myndighet til Finansdepartementet etter lov av 15. juni 2001 nr. 48 om endringer i lov 12. juni 1981 nr. 52 om verdipapirfond mv.
 
+Fastsatt ved kgl.res. 15. juni 2001 med hjemmel i [lov av 15. juni 2001 nr. 48](lov/2001-06-15-48) om endringer i [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond mv. Fremmet av Finansdepartementet.
+
 Kongens myndighet etter [lov av 15. juni 2001 nr. 48](lov/2001-06-15-48) om endringer i [lov 12. juni 1981 nr. 52](lov/1981-06-12-52) om verdipapirfond mv. til å bestemme ikrafttredelse og gi overgangsbestemmelser delegeres til Finansdepartementet.

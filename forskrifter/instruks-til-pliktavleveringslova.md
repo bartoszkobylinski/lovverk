@@ -61,3 +61,9 @@ Nasjonalbiblioteket har ansvaret for katalogisering på nasjonalbibliografisk ni
 Alle dei institusjonane som forvaltar eksemplar av pliktavleverte dokument, pliktar å syte for at all bruk skjer innanfor rammene av dei til kvar tid gjeldande opphavsrettsreglar.
 
 Adresse for innsending:
+
+Nasjonalbiblioteket
+Pliktavlevering
+8607 Mo i Rana
+Tlf. 75 12 11 11
+Faks: 75 12 12 22

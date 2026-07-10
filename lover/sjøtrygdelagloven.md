@@ -44,6 +44,8 @@ Kongen kan fastsetja at eit ymsesidig sjøtrygdelag skal gå inn under [forsikri
 
 > Endra med [lover 20 juni 2003 nr. 45](lov/2003-06-20-45) (ikr. 1 juli 2003 iflg. [res. 20 juni 2003 nr. 712](forskrift/2003-06-20-712)), [10 juni 2005 nr. 44](lov/2005-06-10-44) (ikr. 1 juli 2006 iflg. [res. 30 juni 2006 nr. 776](forskrift/2006-06-30-776)).
 
+1 Inkurie: Loven heter nå [forsikringsvirksomhetsloven](lov/2005-06-10-44).
+
 ## § 3. (Oppheva)
 
 > Endra med lov 30 juni 1955 nr. 7, oppheva med [lov 7 juni 1985 nr. 47](lov/1985-06-07-47).
@@ -106,6 +108,6 @@ Bryt nokon eit påbod eller forbod som er gjeve i eller med heimel i denne lova,
 
 ## § 13.
 
-1. Denne lova tek til å gjelda 1. juli 1953.– – –Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.
+1\. Denne lova tek til å gjelda 1. juli 1953.– – –Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.
 
 > Endra med [lover 7 juni 1985 nr. 47](lov/1985-06-07-47), [19 juni 2009 nr. 48](lov/2009-06-19-48) (ikr. 21 des 2009 iflg. [res. 18 des 2009 nr. 1603](forskrift/2009-12-18-1603)).

@@ -36,10 +36,20 @@ Forskriften trer i kraft straks.
 
 ## Vedlegg I. Standardopplysningsskjema for avtaler om deltidsbruksrett
 
+Se her for å lese vedlegget: [](static/SF/sf-20120703-0766-01-01.doc)
+
 ## Vedlegg II. Standardopplysningsskjema for avtale om langtidsferieprodukt
+
+Se her for å lese vedlegget: [](static/SF/sf-20120703-0766-02-01.doc)
 
 ## Vedlegg III. Standardopplysningsskjema for avtaler om videresalg
 
+Se her for å lese vedlegget: [](static/SF/sf-20120703-0766-03-01.doc)
+
 ## Vedlegg IV. Standardopplysningsskjema for bytteavtaler
 
+Se her for å lese vedlegget: [](static/SF/sf-20120703-0766-04-01.doc)
+
 ## Vedlegg V. Særskilt skjema for å forenkle utøvelsen av angreretten
+
+Se her for å lese vedlegget: [](static/SF/sf-20120703-0766-05-01.doc)

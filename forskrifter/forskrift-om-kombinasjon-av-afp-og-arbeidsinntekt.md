@@ -24,6 +24,10 @@ eu_basis: []
 
 ## § 1. Generelle bestemmelser
 
+Med «inntekt» eller «arbeidsinntekt» menes i forskriften her pensjonsgivende inntekt etter [folketrygdloven § 3-15](lov/1997-02-28-19/§3-15).
+
+Med «forventet inntekt» eller «forventet arbeidsinntekt» menes den inntekt som til enhver tid legges til grunn ved fastsettingen av AFP etter reglene i [lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse § 3](lov/2010-06-25-28/§3) bokstav d.
+
 ## § 2. Avkorting av pensjon mot arbeidsinntekt
 
 Dersom pensjonisten har eller venter å få arbeidsinntekt, skal AFP, inkludert eventuelle vedtektsfestede tillegg, reduseres med samme prosentandel som forventet inntekt i kalenderåret utgjør av tidligere inntekt. AFP reduseres bare dersom inntekten overstiger 0,26 ganger folketrygdens grunnbeløp per 1. januar i det enkelte år (toleransebeløpet). Ved inntekt over toleransebeløpet skal hele inntekten tas i betraktning ved fastsetting av pensjonen.

@@ -164,6 +164,8 @@ Utenriksstasjonene kan innkreve gebyr for tjenestehandlinger etter forskrift fas
 
 Loven trer i kraft på det tidspunkt1 Kongen bestemmer. Fra samme tidspunkt oppheves [lov 3. mai 2002 nr. 13](lov/2002-05-03-13) om utenrikstjenesten. Forskrifter gitt med hjemmel i [lov 18. juli 1958 nr. 1](lov/1958-07-18-1) om utenrikstjenesten og [lov 3. mai 2002 nr. 13](lov/2002-05-03-13) om utenrikstjenesten gjelder også etter at loven har trådt i kraft, så langt det er hjemmel for å gi slik forskrift også etter loven her.
 
+1 Fra 1 mars 2015 iflg. [res. 13 feb 2015 nr. 131](forskrift/2015-02-13-131).
+
 ## § 17. Endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft gjøres følgende endringer i andre lover: – – –

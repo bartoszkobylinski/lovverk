@@ -25,18 +25,28 @@ eu_basis: []
 1. Statsadvokatembetenes navn og distriktsinndeling fastsettes i samsvar med vedlegg til resolusjonen.
 2. Endringene iverksettes fra det tidspunkt1 Justis- og beredskapsdepartementet bestemmer.
 
+1 Fra 1. januar 2026 iflg. vedtak [12 feb 2026 nr. 199](forskrift/2026-02-12-199).
+
 ## Vedlegg
+
+*Øst statsadvokatembeter*
 
 - Oslo politidistrikt
 - Øst politidistrikt
+
+*Sør statsadvokatembeter*
 
 - Innlandet politidistrikt
 - Sør-Øst politidistrikt
 - Agder politidistrikt
 
+*Vest statsadvokatembeter*
+
 - Sør-Vest politidistrikt
 - Vest politidistrikt
 - Møre og Romsdal politidistrikt.
+
+*Nord statsadvokatembeter*
 
 - Trøndelag politidistrikt
 - Nordland politidistrikt

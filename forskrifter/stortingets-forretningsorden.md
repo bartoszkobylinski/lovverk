@@ -228,6 +228,8 @@ Saker som er brakt frem i Europautvalget, skal legges frem for Stortinget når u
 
 > Endret ved [vedtak 16 mai 2013 nr. 1075](forskrift/2013-05-16-1075) (i kraft 1 okt 2013), [12 nov 2013 nr. 1309](forskrift/2013-11-12-1309), [21 juni 2017 nr. 1425](forskrift/2017-06-21-1425) (i kraft 1 okt 2017), [7 nov 2017 nr. 2456](forskrift/2017-11-07-2456), [20 juni 2019 nr. 1298](forskrift/2019-06-20-1298) (i kraft 1 okt 2019), [17 juni 2021 nr. 2109](forskrift/2021-06-17-2109) (i kraft 1 okt 2021).
 
+1 Jf. EØS-avtalen art. 95.
+
 ### § 18. Særskilte komiteer
 
 Finner Stortinget det nødvendig, kan det unntaksvis nedsette særskilte komiteer til å behandle en enkelt sak eller saker av et bestemt slag. Innstilling om å nedsette en særskilt komité fremmes av Stortingets presidentskap. Innstillingen skal også inneholde forslag til vedtak om sammensetning av den særskilte komité, og så vidt mulig bør det unngås at oppnevningen fører til vanskeligheter for det ordinære komitéarbeidet.

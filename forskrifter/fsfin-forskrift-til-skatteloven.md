@@ -536,9 +536,18 @@ Når gjenkjøpsverdien til en livsforsikringspolise ikke er tilfredsstillende op
 
 ### § 4-16-2. Betaling av premie i hele forsikringstiden
 
-(1) For forsikringer hvor det etter avtalen skal betales premie i hele forsikringstiden, fastsettes gjenkjøpsverdien på følgende måte:*Gjenstående tid til
-forsikringens opphør**Gjenkjøpsverdi i prosent av
-innbetalte premiebeløp*Til og med 5 år97Fra og med 6 til og med 10 år85Fra og med 11 til og med 15 år74Fra og med 16 til og med 20 år64Fra og med 21 til og med 25 år56Fra og med 26 til og med 30 år49Fra og med 31 til og med 35 år43Fra og med 36 år og over40
+(1) For forsikringer hvor det etter avtalen skal betales premie i hele forsikringstiden, fastsettes gjenkjøpsverdien på følgende måte:
+
+| *Gjenstående tid til<br>forsikringens opphør* | *Gjenkjøpsverdi i prosent av<br>innbetalte premiebeløp* |
+| --- | --- |
+| Til og med 5 år | 97 |
+| Fra og med 6 til og med 10 år | 85 |
+| Fra og med 11 til og med 15 år | 74 |
+| Fra og med 16 til og med 20 år | 64 |
+| Fra og med 21 til og med 25 år | 56 |
+| Fra og med 26 til og med 30 år | 49 |
+| Fra og med 31 til og med 35 år | 43 |
+| Fra og med 36 år og over | 40 |
 
 (2) For livsvarige poliser regnes opphørstidspunktet ved fylte 90 år.
 
@@ -548,9 +557,24 @@ innbetalte premiebeløp*Til og med 5 år97Fra og med 6 til og med 10 år85Fra og
 
 ### § 4-16-3. Fullt betalt forsikring
 
-(1) For fullt betalte forsikringer, dvs. forsikringer med engangspremie, fripoliser eller med kort premiebetalingstid som er sluttført, fastsettes gjenkjøpsverdien på følgende måte:*Gjenstående tid til
-forsikringens opphør**Gjenkjøpsverdi i prosent av
-forsikringssummen*Forsikring tegnet før 1.1.1939:Forsikring tegnet etter 1.1.1939:Til og med 5 år8386 (89)Fra og med 5 til og med 10 år7075 (80)Fra og med 11 til og med 15 år5966 (71)Fra og med 16 til og med 20 år5058 (64)Fra og med 21 til og med 25 år4351 (57)Fra og med 26 til og med 30 år3746 (52)Fra og med 31 til og med 35 år3341 (47)Fra og med 36 til og med 40 år3037 (43)Fra og med 41 til og med 45 år2734 (40)Fra og med 46 til og med 50 år2431 (37)Fra og med 51 år og over2228 (34)Tallene i parentes gjelder for forsikringer som er tegnet med engangspremie etter 12. mars 1942.
+(1) For fullt betalte forsikringer, dvs. forsikringer med engangspremie, fripoliser eller med kort premiebetalingstid som er sluttført, fastsettes gjenkjøpsverdien på følgende måte:
+
+| *Gjenstående tid til<br>forsikringens opphør* | *Gjenkjøpsverdi i prosent av<br>forsikringssummen* |  |
+| --- | --- | --- |
+|  | Forsikring tegnet før 1.1.1939: | Forsikring tegnet etter 1.1.1939: |
+| Til og med 5 år | 83 | 86 (89) |
+| Fra og med 5 til og med 10 år | 70 | 75 (80) |
+| Fra og med 11 til og med 15 år | 59 | 66 (71) |
+| Fra og med 16 til og med 20 år | 50 | 58 (64) |
+| Fra og med 21 til og med 25 år | 43 | 51 (57) |
+| Fra og med 26 til og med 30 år | 37 | 46 (52) |
+| Fra og med 31 til og med 35 år | 33 | 41 (47) |
+| Fra og med 36 til og med 40 år | 30 | 37 (43) |
+| Fra og med 41 til og med 45 år | 27 | 34 (40) |
+| Fra og med 46 til og med 50 år | 24 | 31 (37) |
+| Fra og med 51 år og over | 22 | 28 (34) |
+
+Tallene i parentes gjelder for forsikringer som er tegnet med engangspremie etter 12. mars 1942.
 
 (2) Beregningen skal foretas på polisens pålydende forsikringssum. For poliser som både haren forsikringssum for tilfelle av dødsfall, ogen forsikringssum til utbetaling ved forsikringstidens utløp,anses b som polisens «pålydende» beløp, når b er større enn a. Dette gjelder inntil gjenkjøpsverdien har nådd en størrelse lik den minste av a eller b, som deretter forblir uforandret gjenkjøpsverdi i resten av forsikringstiden. I alle andre tilfeller anses den minste forsikringssummen som pålydende.
 
@@ -996,13 +1020,19 @@ Denne forskrift [§ 5-15](forskrift/1999-11-19-1158/§5-15) del B gjelder vilkå
 
 ### I. Alminnelige bestemmelser om kapitalforsikring
 
+§ 5-20-1. Anvendelsesområde for bestemmelsene om kapitalforsikring
+
 (1) Bestemmelsene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) gjelder kapitalforsikring i norsk livsforsikringsselskap som skal utbetales enten på et fastsatt fremtidig tidspunkt eller ved forsikredes tidligere død eller uførhet. Bestemmelsene gjelder selv om beløpet skal utbetales i flere terminer.
 
 (2) Bestemmelsene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) gjelder også kapitalforsikring som skal utbetales bare dersom den forsikrede lever på et fastsatt fremtidig tidspunkt (opplevelsesforsikring).
 
+§ 5-20-2. Skattesubjekt
+
 (1) Plikten til å svare inntektsskatt av årlig avkastning av sparing under en kapitalforsikring påhviler forsikringstakeren.
 
 (2) Er det flere forsikringstakere under samme forsikring, fordeles avkastningen mellom dem i samme forhold som premien for forsikringen fordeles i det innbyrdes forhold mellom dem. Når ikke annet fremgår, fordeles avkastningen med en like stor del på hver.
+
+§ 5-20-3. Definisjoner
 
 I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: Den premien forsikringstakeren har betalt i løpet av året, herunder beløp som er kreditert forsikringstakeren ved innvilget premiefritak.*Risikopremien*: Anses å utgjøre den årlige risikopremien som ville ha blitt beregnet for den forsikrede for det aktuelle kalenderår med utgangspunkt i den udekkede risikoen ved forsikringspoliseårets begynnelse, og med anvendelse av det beregningsgrunnlaget som er benyttet ved beregningen av risikopremien. Når premien er beregnet ved anvendelse av rabatt på et beregningsgrunnlag, beregnes risikopremien med utgangspunkt i de beregningselementene som det er tatt utgangspunkt i ved fastsettelsen av rabatten. Årsrisikopremien er lik null når premiereserven er større enn forsikringssummen ved inntruffet forsikringstilfelle. Selskapet skal beregne risikopremien etter retningslinjer godkjent av Finanstilsynet. Finanstilsynet kan fastsette forskrifter om beregningsmåten eller gi et selskap pålegg om hvordan beregningen skal utføres.*Risikoomkostningsdelen*: Den del av premien som skal dekke omkostningene ved risikodekningen under forsikringen. Risikoomkostningsdelen skal anses å utgjøre tre tideler av risikopremien.*Sparesaldoen*: Den samlede sparing under en forsikring, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).*Årsavkastningen*: Avkastningen i ett år av oppsparingen under forsikringen, beregnet etter reglene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20).*Verdien av forsikringen*: Sparesaldoen med fradrag av saldoen på den skattetrekkskonto som er knyttet til forsikringen.*Selskapet*: Det livsforsikringsselskapet som har tegnet forsikringene.
 
@@ -1010,11 +1040,15 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 ### II. Beregning av årlig avkastning
 
+§ 5-20-4. Kontoføring
+
 (1) Selskapet skal opprette og føre en konto for hver forsikring. Er det flere forsikringstakere under en forsikring, føres særskilt konto for hver av dem.
 
 (2) Kontoen skal opprettes når forsikringen tegnes.
 
 (3) Kontoen for en forsikring skal for hvert år visesparesaldoen ved utgangen av foregående år,sparesaldoen ved utgangen av året,årsavkastningen,skattetrekk foretatt av selskapet til dekning av forsikringstakerens inntektsskatt av årsavkastningen,utbetaling av forsikringsbeløp i løpet av året,verdien av forsikringen ved utgangen av året.
+
+§ 5-20-5. Beregning av sparesaldoen
 
 (1) Sparesaldoen for en forsikring skal utgjøre summen avbruttoreserven for forsikringen beregnet etter det beregningsgrunnlaget som gjelder for forsikringen, ogforsikringens andel av selskapets overskudd (overskuddsandelen).
 
@@ -1028,13 +1062,19 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
+§ 5-20-6. Årsavkastningen
+
 (1) Selskapet skal for hvert år beregne årsavkastningen under forsikringen.
 
 (2) Årsavkastningen utgjør det beløpet som fremkommer etter at det fra sparesaldoen ved årets utgang er gjort fradrag forsparesaldoen ved utgangen av foregående år,premien, fratrukket risikopremien og risikoomkostningsdelen,renter som i løpet av året er belastet den skattetrekkskontoen som er knyttet til forsikringen.
 
 (3) Har selskapet foretatt utbetaling under forsikringen i løpet av året, gjelder reglene i annet ledd tilsvarende for beregning av avkastningen frem til utbetalingstidspunktet og for beregning av avkastningen fra utbetalingstidspunktet og til årets utløp.
 
+§ 5-20-7. Skattepliktig årsavkastning
+
 Årsavkastningen er ikke skattepliktig med mindre sparesaldoen for forsikringen ved årets utløp er større enn summen av alle premier betalt under forsikringen med fradrag av summen av alle risikopremier og risikoomkostningsdeler som premiebetalingene dekker.
+
+§ 5-20-8. Meldinger til forsikringstakere
 
 (1) Hvert år skal selskapet innen 1. mai sende forsikringstakerne kontoutskrift eller annen oversikt over avkastningen i foregående år. Selskapet skal samtidig gjøre oppmerksom påforsikringstakerens rett til å be om at selskapet foretar skattetrekk, jf. [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) og [§ 5-20-11](forskrift/1999-11-19-1158/§5-20-11),hvordan forsikringstakeren skal gå frem for å få foretatt skattetrekk og fristen for å be om trekk,andre opplysninger som forsikringstakerne vil ha bruk for når de skal ta standpunkt til spørsmålet om skattetrekk.
 
@@ -1046,6 +1086,8 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 ### III. Skattetrekk
 
+§ 5-20-9. Selskapets plikt til å trekke skatt
+
 (1) Selskapet skal foreta årlig skattetrekk til dekning av forsikringstakerens inntektsskatt av skattepliktig årsavkastning i det foregående år, jf. [skattebetalingsloven § 5-4](lov/2005-06-17-67/§5-4) og [§ 5-6](lov/2005-06-17-67/§5-6). Krav om skattetrekk gjelder inntil ny foreholdsordre er gitt.
 
 (2) Selskapet skal føre egen skattetrekkskonto for hver forsikring. Trekkbeløp forrentes etter selskapets gjennomsnittsrente som beregnet etter tredje ledd, og føres til fradrag ved beregning av årsavkastningen.
@@ -1054,13 +1096,19 @@ I denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) betyr*Premien*: De
 
 > Endret ved [forskrifter 22 des 2008 nr. 1582](forskrift/2008-12-22-1582) (i kraft 1 jan 2009), [18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
 
+§ 5-20-10. Trekkprosent
+
 Skattetrekket skal beregnes etter bestemmelsene i [skattebetalingsloven § 5-5](lov/2005-06-17-67/§5-5) fjerde ledd.
 
 > Endret ved [forskrift 22 des 2008 nr. 1582](forskrift/2008-12-22-1582) (i kraft 1 jan 2009).
 
+§ 5-20-11. Skattetrekk og oppgjør ved utbetaling av forsikringen
+
 (1) Dersom forsikringstakeren har bedt om at det skal foretas trekk i henhold til [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9), skal selskapet ved utbetaling av forsikringen foreta skattetrekk av forventet avkastning i utbetalingsåret, og av foregående års beregnet eller forventet avkastning når trekk ikke allerede er foretatt. Trekket beregnes etter [§ 5-20-10](forskrift/1999-11-19-1158/§5-20-10).
 
 (2) Når forsikringssummen utbetales ved forsikringens opphør, skal det gjøres fradrag for saldoen på skattetrekkskontoen. Forsikringstakeren er uten ansvar overfor selskapet for skattetrekkbeløp som ikke kan dekkes på denne måte.
+
+§ 5-20-12. Unntaksregler
 
 (1) Selskapets plikt til å trekke skatt i henhold til [§ 5-20-9](forskrift/1999-11-19-1158/§5-20-9) og [§ 5-20-11](forskrift/1999-11-19-1158/§5-20-11) gjelder ikke forsikringer hvor det i henhold til forsikringsvilkårene foreligger alminnelig adgang til uttak fra forsikringens sparekonto. Finanstilsynet skal godkjenne den enkelte forsikringsordning som unntas fra trekkplikten.
 
@@ -1068,15 +1116,23 @@ Skattetrekket skal beregnes etter bestemmelsene i [skattebetalingsloven § 5-5](
 
 > Endret ved [forskrifter 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
+§ 5-20-13. Innbetaling av skattetrekk – trekkoppgave mv.
+
 Når trekkåret er ute, skal selskapet for hver forsikringstaker sende opplysninger over summen av det skattetrekk som er foretatt i trekkåret etter [skattebetalingsloven § 5-6](lov/2005-06-17-67/§5-6) første ledd bokstav f. [Skatteforvaltningsloven § 7-12](lov/2016-05-27-14/§7-12) tredje ledd gjelder tilsvarende.
 
 > Endret ved [forskrifter 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
+§ 5-20-14. (Opphevet)
+
 > Opphevet ved [forskrift 22 des 2008 nr. 1582](forskrift/2008-12-22-1582) (i kraft 1 jan 2009).
+
+§ 5-20-15. Forenklede løsninger
 
 Hvis et selskap på grunn av tekniske forhold ikke kan etterkomme bestemmelsene i denne forskrift [§ 5-20](forskrift/1999-11-19-1158/§5-20) fullt ut, kan det søke Finanstilsynet om godkjennelse for tekniske tilpasninger vedrørende beregningsmåte og lignende forhold.
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009).
+
+§ 5-20-16. Utfyllende bestemmelser fastsatt av Finanstilsynet
 
 Bestemmelser til utfylling av denne forskrift § 5-20 er fastsatt av Finanstilsynet i [forskrift av 20. august 1987 nr. 4052](forskrift/1987-08-20-4052) om beregning for risikopremien og årlig avkastning av sparing under kapitalforsikring.
 
@@ -1381,6 +1437,8 @@ Departementets myndighet etter [skatteloven § 6-31](lov/1999-03-26-14/§6-31) f
 (1) Fradrag kan bare kreves for kredittkostnader som er påløpt i inntektsåret.
 
 (2) For hver avtale om kredittkjøp, er fradraget begrenset til en sats på 17 prosent effektiv rente. Hvis oppgitt effektiv rente, jf. [§ 6-40-2](forskrift/1999-11-19-1158/§6-40-2) første ledd g, er høyere, blir maksimum fradragsbeløp å beregne forholdsmessig på grunnlag av betalte kredittkostnader i inntektsåret (§ 6-40-3 første ledd a), effektiv rente (§ 6-40-2 første ledd g) og maksimumssats 17 prosent:
+
+(kostnad x 17 prosent)/(effektiv rente)
 
 (3) For hver avtale om kontokreditt, jf. [§ 6-40-1](forskrift/1999-11-19-1158/§6-40-1) fjerde ledd nr. 2, er fradraget begrenset til den delen av påløpte kredittkostnader som tilsvarer 17 prosent rente av det til enhver tid skyldige beløpet og under hensyn til avdrag betalt i inntektsåret.
 
@@ -1758,13 +1816,19 @@ Bestemmelsene i [§ 6-47-1](forskrift/1999-11-19-1158/§6-47-1) til [§ 6-47-17]
 
 ### I. Alminnelige bestemmelser om IPA
 
+§ 6-47-20. Anvendelsesområde for bestemmelsene om IPA
+
 Bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift gjelder individuelle pensjonsavtaler etter skatteloven (IPA). Slike avtaler kan bare inngås som pensjonsforsikringsavtale eller pensjonsspareavtale etter disse bestemmelsene.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-1.)
 
+§ 6-47-21. Definisjoner
+
 I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighetshaver*: Den avtalepart som erverver en rett til ytelser etter pensjonsavtalen.*begunstiget*: Annen person enn rettighetshaver, som etter pensjonsavtalen skal motta ytelser.*samboer*:Person som rettighetshaveren har felles bolig og felles barn med, ellerPerson som rettighetshaveren lever sammen med i ekteskapslignende eller partnerskapslignende forhold når det godtgjøres at forholdet har bestått uavbrutt i de fem siste år før inngåelsen av pensjonsavtalen, og det ikke foreligger forhold som er til hinder for at lovlig ekteskap eller registrert partnerskap inngås.*registrert partner*: Partner som er registrert i henhold til partnerskapsloven.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-2).
+
+§ 6-47-22. Pensjonsforsikringsavtale
 
 (1) Pensjonsforsikringsavtale kan bare inngås med selskap som har tillatelse til å drive livsforsikringsvirksomhet etter [forsikringsvirksomhetsloven § 2-1](lov/2005-06-10-44/§2-1) og [§ 2-4](lov/2005-06-10-44/§2-4) første ledd, og filial i Norge av livsforsikringsselskap med hovedsete i annen stat som omfattes av Det europeiske økonomiske samarbeidsområde.
 
@@ -1776,6 +1840,8 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 
 > Endret ved [forskrift 18 des 2009 nr. 1726](forskrift/2009-12-18-1726) (i kraft 21 des 2009), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-3).
 
+§ 6-47-23. Pensjonsspareavtale
+
 (1) Pensjonsspareavtale kan bare inngås med selskap som har tillatelse til å drive:bankvirksomhet etter [sparebankloven § 2](lov/1961-05-24-1/§2) første eller fjerde ledd,bankvirksomhet etter [forretningsbankloven § 8](lov/1961-05-24-2/§8) første eller annet ledd,livsforsikringsvirksomhet etter [forsikringsvirksomhetsloven § 2-1](lov/2005-06-10-44/§2-1) og [§ 2-4](lov/2005-06-10-44/§2-4) første ledd, ellerverdipapirfondsforvaltning etter [verdipapirfondloven § 1-3](lov/2011-11-25-44/§1-3) fjerde ledd og [§ 2-2](lov/2011-11-25-44/§2-2).
 
 (2) Pensjonsspareavtale kan også inngås med filial i Norge av foretak med hovedsete i annen stat som omfattes av Det europeiske økonomiske samarbeidsområde og som driver tilsvarende virksomhet som nevnt i første ledd.
@@ -1786,6 +1852,8 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-4).
 
+§ 6-47-24. Kontinuitet i avtalte rettigheter
+
 (1) Rett til ytelser skal avtales i forbindelse med avtaleinngåelsen og kan ikke omgjøres med mindre annet følger av [§ 6-47](forskrift/1999-11-19-1158/§6-47). Som rett til ytelse regnes ikke avtale om hvordan kapitalen skal forvaltes eller avtale om avkastningsgaranti.
 
 (2) Bestemmelsene i første ledd gjelder også dersom midlene tilknyttet en individuell pensjonsavtale overføres til annet selskap, jf. [§ 6-47-25](forskrift/1999-11-19-1158/§6-47-25) og [forskrift av 27. november 1991 nr. 757](forskrift/1991-11-27-757) om rett til overføring av oppsamlede midler knyttet til kollektiv eller individuell livs- eller pensjonsforsikring.
@@ -1794,6 +1862,8 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 
 > Endret ved [forskrifter 27 juni 2003 nr. 874](forskrift/2003-06-27-874), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-5).
 
+§ 6-47-25. Oppnevning av begunstiget mv.
+
 (1) Rettighetshaver kan i pensjonsforsikringsavtale oppnevne begunstiget i samsvar med bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III. Rettighetshaver kan i pensjonsspareavtale oppnevne begunstiget i samsvar med bestemmelsene i [§ 6-47-15](forskrift/1999-11-19-1158/§6-47-15) og [§ 6-47-17](forskrift/1999-11-19-1158/§6-47-17). Den eller de personer som er begunstiget, skal navngis i pensjonsavtalen. En begunstigets rett til ytelser kan gjøres betinget av at annen begunstigets rett til ytelser har bortfalt (subsidiær oppnevning).
 
 (2) Bestemmelsen i [§ 6-47-5](forskrift/1999-11-19-1158/§6-47-5) er ikke til hinder for at oppnevning av begunstiget og begunstigedes rett til ytelser kan omgjøres. For pensjonsspareavtaler gjelder [forsikringsavtaleloven § 15-2](lov/1989-06-16-69/§15-2) tilsvarende.
@@ -1801,6 +1871,8 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 (3) Dersom en pensjonsspareavtale ikke inneholder navngitt begunstiget, skal gjenværende pensjonsformue ved rettighetshavers død utbetales som et engangsbeløp til boet. Bestemmelsen gjelder tilsvarende hvis navngitte begunstigede ikke lenger er i live.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-6).
+
+§ 6-47-26. Binding, motregning, pantsettelse og omstøtelse av pensjonsmidler
 
 (1) Midler som er innbetalt i tilknytning til en individuell pensjonsavtale, kan ikke utbetales til rettighetshaver på annen måte enn som ytelser i henhold til [§ 6-47](forskrift/1999-11-19-1158/§6-47) del II og IV. Det samme gjelder avkastning opptjent på slike midler. Individuell pensjonsavtale kan ikke gjenkjøpes.
 
@@ -1812,13 +1884,19 @@ I [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift betyr:*rettighet
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-7).
 
+§ 6-47-27. Unntak fra minstekravet til ytelsesperiodens lengde
+
 Dersom årlig pensjonsytelse fra et selskap til rettighetshaver eller en begunstiget er mindre enn 10 prosent av folketrygdens grunnbeløp, kan ytelsesperioden omgjøres til det største antall hele år som er nødvendig for at den årlige ytelse skal utgjøre minst 10 prosent av folketrygdens grunnbeløp. Dersom vedkommende mottar ytelser etter flere individuelle pensjonsavtaler i selskapet, skal alle disse medregnes ved beregning av den årlige ytelsen etter første punktum.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-8).
 
+§ 6-47-28. Dokumentasjon
+
 Betegnelsen «Individuell pensjonsavtale etter skatteloven» skal påføres forsikringsbeviset eller dokumentet for pensjonsspareavtalen. Samme betegnelse skal fremgå av kvittering og årsoppgave til rettighetshaveren og på meldinger (innberetninger) som sendes skattemyndighetene. Selskapet skal bekrefte i avtaledokumentet at innskudd, premie og tilskudd til premiefond er i samsvar med bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47).
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-9).
+
+§ 6-47-29. Krav til informasjon
 
 (1) Selskapet skal gi rettighetshaver opplysninger om reglene om binding av pensjonsmidlene i kontraktstiden og opplysninger om retten til å overføre midler til annet selskap.
 
@@ -1826,11 +1904,15 @@ Betegnelsen «Individuell pensjonsavtale etter skatteloven» skal påføres fors
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-10).
 
+§ 6-47-30. Formuesskatt
+
 Midler i individuelle pensjonsavtaler etter skatteloven er fritatt fra formuesbeskatning, jf. [skatteloven § 4-2](lov/1999-03-26-14/§4-2) tredje ledd. Dette gjelder likevel ikke for midler plassert i premiefond.
 
 > Endret ved [forskrifter 18 nov 2009 nr. 1384](forskrift/2009-11-18-1384), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-11).
 
 ### II. Alderspensjon
+
+§ 6-47-31. Hovedregel om alderspensjon
 
 (1) Alderspensjon er ytelser som tilstås fra avtalt pensjonsalder, og som opphører når rettighetshaver når avtalt opphørsalder eller dør.
 
@@ -1844,11 +1926,15 @@ Midler i individuelle pensjonsavtaler etter skatteloven er fritatt fra formuesbe
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-12).
 
+§ 6-47-32. Lavere pensjonsalder for særskilte yrker
+
 (1) For følgende yrkesgrupper kan det avtales pensjonsalder som angitt nedenfor:Flypiloter – pensjonsalder 55 årDykkere – pensjonsalder 55 årFlybesetningsmedlemmer, unntatt piloter – pensjonsalder 60 årYrkessjåfører – pensjonsalder 62 år
 
 (2) Lavere pensjonsalder som nevnt i første ledd kan anvendes for rettighetshaver som på avtaleinngåelsestidspunktet har yrke som nevnt. Innbetaling under pensjonsavtale med slik lavere pensjonsalder er fradragsberettiget så lenge vedkommende har yrke som nevnt.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-13).
+
+§ 6-47-33. Avtale om fremskutt utbetaling i pensjonsavtale som ikke gir rett til uførepensjon mv.
 
 (1) I pensjonsspareavtale kan det avtales at utbetalingen av alderspensjon kan begynne inntil fem år før pensjonsalderen, eller fra fylte 62 år hvis pensjonsalderen er høyere enn 67 år. Det samme gjelder pensjonsforsikringsavtale som ikke gir rett til uførepensjon, eller hvor uførepensjonen er avtalt å opphøre før den avtalte pensjonsalder. Det er et vilkår for slik avtale om fremskutt utbetaling at rettighetshaver tilstås sykepenger, arbeidsavklaringspenger eller uførepensjon fra folketrygden, og at uføregraden i folketrygden må antas å være minst 75 prosent.
 
@@ -1858,6 +1944,8 @@ Midler i individuelle pensjonsavtaler etter skatteloven er fritatt fra formuesbe
 
 ### III. Pensjoner til begunstigede
 
+§ 6-47-34. Etterlattepensjon til ektefelle, registrert partner eller samboer
+
 (1) Etterlattepensjon til ektefelle er ytelser som tilstås fra rettighetshavers død, og som opphører senest ved ektefelles eller fraskilt ektefelles død.
 
 (2) Etterlattepensjon til ektefelle skal ha en ytelsesperiode på minst ti år etter rettighetshavers død. Det kan likevel avtales at slik pensjon skal opphøre når etterlatt ektefelle har fylt 77 år.
@@ -1866,9 +1954,13 @@ Midler i individuelle pensjonsavtaler etter skatteloven er fritatt fra formuesbe
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-15).
 
+§ 6-47-35. Barnepensjon
+
 Barnepensjon er ytelser som tilstås rettighetshavers etterlatte barn, stebarn eller fosterbarn fra rettighetshavers død, og som opphører ved barnets død, likevel senest når barnet fyller 21 år. Det kan avtales at pensjon fortsatt skal utbetales også etter dette tidspunkt til barn som har blitt ervervsufør, men ikke utover den perioden ervervsuførheten varer.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-16).
+
+§ 6-47-36. Livsarvingspensjon
 
 (1) Livsarvingspensjon er ytelser som tilstås etterlatt livsarving, og som opphører senest ved livsarvings død.
 
@@ -1878,19 +1970,27 @@ Barnepensjon er ytelser som tilstås rettighetshavers etterlatte barn, stebarn e
 
 ### IV. Særregler for pensjonsforsikringsavtale
 
+§ 6-47-37. Ytelser
+
 (1) Pensjonsforsikringsavtale skal fastsette den eller de ytelser som skal utbetales.
 
 (2) Er ikke ytelsene garanterte i utbetalingsperioden, skal den terminvise utbetaling ikke utgjøre et større beløp enn avtalens verdi på utbetalingstidspunktet dividert på gjenstående antall terminer, inklusive den aktuelle termin. Ved beregning av gjenværende utbetalingsperiode for alderspensjonen kan det tas utgangspunkt i at alderspensjonen skal løpe i det minimum antall år som er fastsatt i lov eller i medhold av lov. Er det avtalt at alderspensjonen skal settes ned fra fylte 67 år, jf. [§ 6-47-12](forskrift/1999-11-19-1158/§6-47-12), kan det tas hensyn til dette ved beregning av største terminvise utbetaling.
 
 > Endret ved [forskrifter 27 juni 2003 nr. 874](forskrift/2003-06-27-874), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-18).
 
+§ 6-47-38. Uførepensjon
+
 Uførepensjon er ytelser som tilstås rettighetshaver ved inntrådt ervervsuførhet og som opphører senest når alderspensjonen skal begynne å løpe. Uførepensjon ytes i forhold til graden av ervervsuførhet, men slik at det kan ytes pensjon først når uføregraden utgjør 25 prosent eller mer. Ved minst 50 prosent ervervsuførhet skal pensjonen ytes etter samme grad som i folketrygden, men slik at denne grad kan fravikes når særlige grunner tilsier det.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-19).
 
+§ 6-47-39. Premiefritak
+
 Pensjonsforsikringsavtale kan inneholde avtale om premiefritak. Premiefritak er forsikring som medfører at premien blir dekket av selskapet etter tilsvarende regler som for uførepensjon.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-20).
+
+§ 6-47-40. Premiefond
 
 (1) Midler i premiefond kan bare nyttes til hel eller delvis dekning av årets premie, med mindre annet følger av bestemmelsene i denne paragraf.
 
@@ -1902,9 +2002,13 @@ Pensjonsforsikringsavtale kan inneholde avtale om premiefritak. Premiefritak er 
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-21).
 
+§ 6-47-41. Opphør av premiebetaling
+
 Når forfalt premie ikke lenger betales og heller ikke kan dekkes av premiefond, reduseres forsikringens ytelser til de ytelsene som er fullt betalt.
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-22).
+
+§ 6-47-42. Forsikringsteknisk omregning av pensjon ved avtaleendring
 
 Ved endring av pensjonsforsikringsavtale som nevnt i [§ 6-47-6](forskrift/1999-11-19-1158/§6-47-6) annet ledd, [§ 6-47-12](forskrift/1999-11-19-1158/§6-47-12) femte ledd og [§ 6-47-14](forskrift/1999-11-19-1158/§6-47-14), skal pensjonen omregnes på forsikringsteknisk grunnlag og med anvendelse av beregningsgrunnlaget som gjelder for forsikringen. Ved slik avtaleendring kan forsikringsselskapet beregne et fradrag i de forsikringstekniske avsetningene som står i forhold til endring i risiko. Som grunnlag for slik beregning kan selskapet kreve at det framlegges legeerklæring på tidspunktet for avtaleendring.
 
@@ -1912,21 +2016,31 @@ Ved endring av pensjonsforsikringsavtale som nevnt i [§ 6-47-6](forskrift/1999-
 
 ### V. Særregler for pensjonsspareavtale
 
+§ 6-47-43. Terminbeløp
+
 (1) Alderspensjon og ytelser som nevnt i [§ 6-47](forskrift/1999-11-19-1158/§6-47) del III skal utbetales i terminer av høyst ett års varighet.
 
 (2) Er ikke ytelsene garanterte i utbetalingsperioden, skal den terminvise utbetaling ikke utgjøre et større beløp enn avtalens verdi på utbetalingstidspunktet dividert på gjenstående antall terminer, inklusive den aktuelle termin. Ved beregning av gjenværende utbetalingsperiode for alderspensjonen kan det tas utgangspunkt i at alderspensjonen skal løpe i det minimum antall år som er fastsatt i lov eller i medhold av lov. Er det avtalt at alderspensjonen skal settes ned fra fylte 67 år, jf. [§ 6-47-12](forskrift/1999-11-19-1158/§6-47-12), kan det tas hensyn til dette ved beregning av største terminvise utbetaling.
 
 > Endret ved [forskrifter 27 juni 2003 nr. 874](forskrift/2003-06-27-874), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-24).
 
+§ 6-47-44. Flytterett
+
 Pensjonsspareavtale skal gi rettighetshaver rett til å kreve oppsparte midler under pensjonsspareavtalen overført til annet selskap som nevnt i [§ 6-47-4](forskrift/1999-11-19-1158/§6-47-4).
 
 > Endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-25).
 
+§ 6-47-45. (Opphevet)
+
 > Opphevet ved [forskrift 27 juni 2003 nr. 874](forskrift/2003-06-27-874), endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-26).
+
+§ 6-47-46. Pensjonsspareavtale med livsforsikringsselskap
 
 Forsikring inngått i henhold til [forskrift av 18. september 1995 nr. 797](forskrift/1995-09-18-797) om inndeling i forsikringsklasser som grunnlag for konsesjonstildeling [§ 1](forskrift/1995-09-18-797/§1) punkt VI (kapitaliseringsprodukter), regnes som pensjonsspareavtale inngått med livsforsikringsselskap.
 
 > Endret ved [forskrifter 27 juni 2003 nr. 874](forskrift/2003-06-27-874), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-27).
+
+§ 6-47-47. Utfyllende informasjonskrav for bank og forvaltningsselskap for verdipapirfond
 
 (1) Bank og forvaltningsselskap for verdipapirfond som nevnt i [§ 6-47-4](forskrift/1999-11-19-1158/§6-47-4), skal gi følgende opplysninger til rettighetshaver ved avtaleinngåelse:Beskrivelse av hvilke ytelser avtalen omfatter og vilkårene som må være oppfylt for at ytelsene skal komme til utbetaling.Hvilken rett rettighetshaver har til å endre avtalens innhold i kontraktstiden, herunder når og hvordan rettighetshaver kan bruke denne retten.Betingelser for oppsigelse av avtalen, herunder betingelser for oppsigelse med sikte på overføring av midler til et annet selskap.En kort redegjørelse for de skattereglene som gjelder for pensjonsavtalen.
 
@@ -1935,6 +2049,8 @@ Forsikring inngått i henhold til [forskrift av 18. september 1995 nr. 797](fors
 > Endret ved [forskrifter 27 juni 2003 nr. 874](forskrift/2003-06-27-874), [24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-28).
 
 ### VI. Avsluttende bestemmelser om IPA
+
+§ 6-47-48. Overgangsregler
 
 (1) Alderspensjon med garanti som er tegnet i medhold av den tidligere [forskrift av 28. juni 1968 nr. 9391](forskrift/1968-06-28-9391) om egen pensjonsforsikring i henhold til skatteloven § 44 annet ledd nr. 1 § 3, og som er behandlet i samsvar med tidligere [forskrift av 4. desember 1992 nr. 886](forskrift/1992-12-04-886) om egen pensjonsforsikring etter skatteloven § 10 annet ledd c, kan følge avtalte vilkår for så vidt gjelder adgangen til garanterte utbetalinger. Dette gjelder bare dersom vilkårene oppfyller kravene i tidligere [forskrift av 28. juni 1968 nr. 9391](forskrift/1968-06-28-9391). For øvrig skal slike kontrakter behandles i samsvar med bestemmelsene i denne forskrift [§ 6-47](forskrift/1999-11-19-1158/§6-47).
 
@@ -1946,9 +2062,13 @@ Forsikring inngått i henhold til [forskrift av 18. september 1995 nr. 797](fors
 
 > Tilføyd ved [forskrift 2 feb 2007 nr. 126](forskrift/2007-02-02-126) (fom inntektsåret 2007).
 
+§ 6-47-49. Overgangsregler til oppheving av [skatteloven § 6-47](lov/1999-03-26-14/§6-47) bokstav c
+
 Bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift om individuelle pensjonsavtaler etter skatteloven (IPA) skal gjelde videre for avtaler inngått før 12. mai 2006, etter opphevelsen av [skatteloven § 6-47](lov/1999-03-26-14/§6-47) bokstav c.
 
 > Tilføyd ved [forskrift 2 feb 2007 nr. 126](forskrift/2007-02-02-126) (fom inntektsåret 2007), endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-30).
+
+§ 6-47-50. Utbetaling av innestående midler
 
 (1) Rettighetshaver etter en individuell pensjonsavtale skal ha rett til å få samlet verdi av innestående midler utbetalt, dersom disse midlene etter kontoutskrift pr. 31. desember 2006 ikke utgjorde mer enn 1,5 ganger folketrygdens grunnbeløp (G). For en pensjonsforsikringsavtale er den samlede verdien av innestående midler samlet verdi/flytteverdi ved utgangen av året, ajourført på utbetalingstidspunktet, jf. [forskrift 26. mai 1995 nr. 583](forskrift/1995-05-26-583) om kontoføring og kontoutskrift [§ 5](forskrift/1995-05-26-583/§5) (post 13).
 
@@ -1958,11 +2078,15 @@ Bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift om
 
 > Tilføyd ved [forskrift 2 feb 2007 nr. 126](forskrift/2007-02-02-126) (fom inntektsåret 2007), endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-31).
 
+§ 6-47-51. (Opphevet)
+
 > Opphevet ved [forskrift 16 des 2008 nr. 1427](forskrift/2008-12-16-1427) (fom inntektsåret 2009), endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-32).
 
 ### VIII. Overgangsregler ved oppheving av skatteloven § 6-47 første ledd bokstav d
 
 > Tilføyd ved [forskrift 2 feb 2007 nr. 126](forskrift/2007-02-02-126) (fom inntektsåret 2007).
+
+§ 6-47-52. Overgangsregler til oppheving av [skatteloven § 6-47](lov/1999-03-26-14/§6-47) bokstav d
 
 (1) Rettighetshaver etter en avtale om fortsettelsesforsikring etter [lov om foretakspensjon § 4-9](lov/2000-03-24-16/§4-9) eller avtale om fortsatt pensjonssparing etter [lov om innskuddspensjon § 6-5](lov/2000-11-24-81/§6-5) første ledd, skal ha rett til å få samlede innestående midler utbetalt dersom disse midlene etter kontoutskrift pr. 31. desember 2006 ikke utgjorde mer enn 1,5 ganger folketrygdens grunnbeløp (G). For en avtale om fortsettelsesforsikring er den samlede verdien av innestående midler samlet verdi/flytteverdi ved utgangen av året, ajourført på utbetalingstidspunktet, jf. [forskrift 26. mai 1995 nr. 583](forskrift/1995-05-26-583) om kontoføring og kontoutskrift [§ 5](forskrift/1995-05-26-583/§5) (post 13).
 
@@ -1971,6 +2095,8 @@ Bestemmelsene i [§ 6-47](forskrift/1999-11-19-1158/§6-47) i denne forskrift om
 (3) Selskapet skal innen 30. juni 2007 opplyse rettighetshaveren skriftlig om retten til å kreve utbetaling. Rettighetshaver som vil benytte adgangen til utbetaling etter første ledd, må sende skriftlig melding om dette til selskapet innen 31. desember 2010.
 
 > Tilføyd ved [forskrift 2 feb 2007 nr. 126](forskrift/2007-02-02-126) (fom inntektsåret 2007), endret ved [forskrift 24 okt 2017 nr. 1656](forskrift/2017-10-24-1656) (i kraft 1 nov 2017, tidligere § 6-47-40).
+
+§ 6-47-53. Rett til å inngå ny forsikringsavtale
 
 (1) Rettighetshaver etter en avtale om fortsettelsesforsikring skal ha rett til å inngå ny avtale på tilsvarende vilkår og med rett til samme ytelser som den eksisterende forsikringsavtalen uten å gi nye helseopplysninger. Gebyr ved etablering av ny avtale kan ikke settes høyere enn maksimalt tillatt gebyr ved flytting av individuell livsforsikringsavtale.
 
@@ -2456,7 +2582,12 @@ Bestemmelsene i § 8-16 del B gjelder ved beregning av tonnasjeskatt for skip og
 
 ### § 8-16-13. Reduksjonsfaktor
 
-(1) Beregnet tonnasjeskatt per dag for skip eller hjelpefartøy med miljøfaktor større enn 0 reduseres med 1/40 for hvert hele trinn på miljøskalaen. Ved beregning av reduksjon i tonnasjeskatten skal følgende reduksjonsfaktor benyttes:Miljøfaktor≥11-22-33-44-55-66-77-88-99-10Reduksjonsfaktor1/402/403/404/405/406/407/408/409/4010/40
+(1) Beregnet tonnasjeskatt per dag for skip eller hjelpefartøy med miljøfaktor større enn 0 reduseres med 1/40 for hvert hele trinn på miljøskalaen. Ved beregning av reduksjon i tonnasjeskatten skal følgende reduksjonsfaktor benyttes:
+
+|  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Miljøfaktor | ≥1 | 1-2 | 2-3 | 3-4 | 4-5 | 5-6 | 6-7 | 7-8 | 8-9 | 9-10 |
+| Reduksjonsfaktor | 1/40 | 2/40 | 3/40 | 4/40 | 5/40 | 6/40 | 7/40 | 8/40 | 9/40 | 10/40 |
 
 (2) For skip eller hjelpefartøy med registrert miljøfaktor 0 skal det svares tonnasjeskatt som angitt i Stortingets skattevedtak for inntektsåret.
 
@@ -2602,7 +2733,7 @@ Ved beskatning etter del X åttende ledd annet og tredje punktum i [lov 14. dese
 
 ### § 9-3-2. Satser
 
-(1) Ved realisasjon av eiendom som faller inn under [§ 9-3-1](forskrift/1999-11-19-1158/§9-3-1) skal kostprisen pr. 31. desember 2004 fastsettes ved en oppregulering av historisk kostpris basert på en gjennomsnittlig årlig prisvekst for eiendommen. Den årlige prosentvise prisveksten (P) fastsettes med utgangspunkt i historisk kostpris (K), salgsprisen (S) og antall år selger har eid eiendommen (n) etter følgende formel:\(P=[(S/K)^{1/n}-1]\cdot100\%\)
+(1) Ved realisasjon av eiendom som faller inn under [§ 9-3-1](forskrift/1999-11-19-1158/§9-3-1) skal kostprisen pr. 31. desember 2004 fastsettes ved en oppregulering av historisk kostpris basert på en gjennomsnittlig årlig prisvekst for eiendommen. Den årlige prosentvise prisveksten (P) fastsettes med utgangspunkt i historisk kostpris (K), salgsprisen (S) og antall år selger har eid eiendommen (n) etter følgende formel:\\(P=[(S/K)^{1/n}-1]\\cdot100\\%\\)
 
 (2) Salgsprisen må justeres forholdsmessig for den delen som faller på eiendeler hvor kostprisen ikke skal oppreguleres. Ervervsåret og salgsåret skal regnes som hele år uavhengig av når på året ervervet eller salget skjedde.
 
@@ -2650,7 +2781,54 @@ For eiendel som nevnt i [§ 9-8-1](forskrift/1999-11-19-1158/§9-8-1) kan skatty
 
 ### § 9-8-4. Satser
 
-(1) Ved avhendelse av eiendel som omhandlet i [§ 9-8-3](forskrift/1999-11-19-1158/§9-8-3) skal kostprisen pr. 31. desember 1991 settes til opprinnelig kostpris med prosentvis tillegg etter følgende tabell:*Ervervsår**Eierår**Prosentsats for oppregulering av kostpris*19902319893619884101987516198662219857281984836198394219821050198111601980127019791380197814901977151001976161101975171201974181301973191401972201501971211601970221701969231801968241901967252001966262101965272201964282301963292401962302501961312601960322701959332801958342901957353001956363101955373201954383301953393401952403501951413601950423701949433801948443901947 og tidl45 og mer400
+(1) Ved avhendelse av eiendel som omhandlet i [§ 9-8-3](forskrift/1999-11-19-1158/§9-8-3) skal kostprisen pr. 31. desember 1991 settes til opprinnelig kostpris med prosentvis tillegg etter følgende tabell:
+
+| *Ervervsår* | *Eierår* | *Prosentsats for oppregulering av kostpris* |
+| --- | --- | --- |
+| 1990 | 2 | 3 |
+| 1989 | 3 | 6 |
+| 1988 | 4 | 10 |
+| 1987 | 5 | 16 |
+| 1986 | 6 | 22 |
+| 1985 | 7 | 28 |
+| 1984 | 8 | 36 |
+| 1983 | 9 | 42 |
+| 1982 | 10 | 50 |
+| 1981 | 11 | 60 |
+| 1980 | 12 | 70 |
+| 1979 | 13 | 80 |
+| 1978 | 14 | 90 |
+| 1977 | 15 | 100 |
+| 1976 | 16 | 110 |
+| 1975 | 17 | 120 |
+| 1974 | 18 | 130 |
+| 1973 | 19 | 140 |
+| 1972 | 20 | 150 |
+| 1971 | 21 | 160 |
+| 1970 | 22 | 170 |
+| 1969 | 23 | 180 |
+| 1968 | 24 | 190 |
+| 1967 | 25 | 200 |
+| 1966 | 26 | 210 |
+| 1965 | 27 | 220 |
+| 1964 | 28 | 230 |
+| 1963 | 29 | 240 |
+| 1962 | 30 | 250 |
+| 1961 | 31 | 260 |
+| 1960 | 32 | 270 |
+| 1959 | 33 | 280 |
+| 1958 | 34 | 290 |
+| 1957 | 35 | 300 |
+| 1956 | 36 | 310 |
+| 1955 | 37 | 320 |
+| 1954 | 38 | 330 |
+| 1953 | 39 | 340 |
+| 1952 | 40 | 350 |
+| 1951 | 41 | 360 |
+| 1950 | 42 | 370 |
+| 1949 | 43 | 380 |
+| 1948 | 44 | 390 |
+| 1947 og tidl | 45 og mer | 400 |
 
 (2) Oppregulert kostpris kan ikke settes høyere enn det femdobbelte av den opprinnelige kostprisen.
 
@@ -3848,19 +4026,27 @@ Ved opprettelse av BSU-konto i annen EØS-stat, jf. [skatteloven § 16-10](lov/1
 
 ### I. Generelt
 
+§ 16-29-1. Anvendelsesområde for bestemmelsene om fradrag i norsk skatt for skatt betalt i utlandet
+
 Bestemmelsene i [§ 16-29](forskrift/1999-11-19-1158/§16-29) del A i denne forskrift gjelder fradrag i norsk skatt etter reglene i [skatteloven § 16-20](lov/1999-03-26-14/§16-20) flg. eller skatteavtale, for skatt betalt til fremmed stat.
 
 > Endret ved [forskrifter 9 okt 2000 nr. 1054](forskrift/2000-10-09-1054) (fom inntektsåret 2000), [8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-1).
 
 ### II. Beregning av fradrag i norsk skatt for skatt betalt i utlandet
 
+§ 16-29-2. Skatt betalt til fremmed stat
+
 Som krediterbar skatt betalt til fremmed stat regnes utenlandsk skatt av skattyterens inntekt med kilde i utlandet når denne inntekten også er skattepliktig til Norge.
 
 > Endret ved [forskrift 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-2).
 
+§ 16-29-3. Avvikende skatteår
+
 Når skattyteren i den fremmede stat skattlegges etter et skatteår som avviker i forhold til det norske, kan det ikke gis større fradrag enn for den forholdsmessige del av den utenlandske skatt som svarer til den andel av den utenlandske nettoinntekt som er oppebåret innenfor det norske skatteåret.
 
 > Endret ved [forskrift 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-3).
+
+§ 16-29-4. Tilordning av inntekter og kostnader ved beregningen av maksimalt kreditfradrag
 
 Ved beregningen av det maksimale kreditfradraget etter [skatteloven § 16-21](lov/1999-03-26-14/§16-21) anvendes følgende fremgangsmåte:
 
@@ -3882,9 +4068,13 @@ Ved beregningen av det maksimale kreditfradraget etter [skatteloven § 16-21](lo
 
 > Endret ved [forskrifter 14 nov 2007 nr. 1256](forskrift/2007-11-14-1256) (fom inntektsåret 2007), [13 des 2011 nr. 1275](forskrift/2011-12-13-1275), [8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-4), [12 mars 2014 nr. 289](forskrift/2014-03-12-289), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017), [19 des 2019 nr. 2003](forskrift/2019-12-19-2003), [19 des 2019 nr. 2003](forskrift/2019-12-19-2003) (med virkning fra inntektsåret 2020).
 
+§ 16-29-5. Tidfestingen av inntekter og kostnader ved beregningen av maksimalt kreditfradrag
+
 Ved beregningen av det maksimale kreditfradraget skal inntekter og kostnader tidfestes i samsvar med norsk skattelovgivning.
 
 > Endret ved [forskrifter 14 nov 2007 nr. 1256](forskrift/2007-11-14-1256) (fom inntektsåret 2007), [8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-5).
+
+§ 16-29-6. Beløp i fremmed valuta
 
 (1) Regnskapspliktige omregner etter kursen på transaksjonstidspunktet. Regnskapspliktige kan velge å benytte en månedlig gjennomsnittskurs i den utstrekning dette er i samsvar med norsk regnskapsrett. Dersom filialregnskap føres i fremmed valuta etter [regnskapsloven § 3-4](lov/1998-07-17-56/§3-4), skal årlig gjennomsnittskurs legges til grunn ved omregningen.
 
@@ -3896,6 +4086,8 @@ Ved beregningen av det maksimale kreditfradraget skal inntekter og kostnader tid
 
 > Endret ved [forskrifter 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-6), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
+§ 16-29-7. Beregnet personinntekt fra utenlandsk aksjeselskap
+
 (1) Skattyter som tilordnes beregnet personinntekt fra utenlandsk aksjeselskap kan, som et alternativ til å la denne inntekten inngå i globalinntekten i tilordningsåret ved beregning av det maksimale skattefradrag, velge å tilordne denne inntekten til foregående års globalinntekt og foreta ny beregning av det maksimale skattefradraget for foregående år. Differansen mellom det foregående års korrigerte skattefradrag og det skattefradraget som er gitt ved det foregående års skattefastsetting, kan fradras i årets skatt.
 
 (2) Skattyter må overfor skattemyndighetene fremme krav om å få beregnet skattefradraget som angitt i første ledd. Slikt krav må fremmes til samme tid som kravet om skattefradrag fremmes.
@@ -3904,9 +4096,13 @@ Ved beregningen av det maksimale kreditfradraget skal inntekter og kostnader tid
 
 ### III. Dokumentasjonsplikten
 
+§ 16-29-8. Dokumentasjonsplikt for den utenlandske skatten
+
 Skattyter som krever fradrag som nevnt i [§ 16-29-1](forskrift/1999-11-19-1158/§16-29-1), skal dokumentere:at beløpet som det kreves fradrag for utgjør utenlandsk skatt som er fradragsberettiget i norsk skatt,at beløpet er innbetalt til fremmed stat, ogat beløpet utgjør endelig skatt ved ordinær skattefastsetting i fremmed stat.
 
 > Endret ved [forskrifter 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-8), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
+
+§ 16-29-9. Dokumentasjonsplikt for beregning av utenlandsk inntekt og formue
 
 (1) Skattyter skal fastsette en fordeling av inntekter og kostnader mellom Norge og fremmede stater på et eget skjema som skal vedlegges skattemeldingen.
 
@@ -3916,11 +4112,15 @@ Skattyter som krever fradrag som nevnt i [§ 16-29-1](forskrift/1999-11-19-1158/
 
 > Endret ved [forskrifter 14 nov 2007 nr. 1256](forskrift/2007-11-14-1256) (fom inntektsåret 2007), [8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-9), [12 mars 2014 nr. 289](forskrift/2014-03-12-289), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
 
+§ 16-29-10. Verifisering og oversettelse av dokumentasjon
+
 (1) Skattemyndighetene kan kreve at dokumentasjon etter denne forskrift fremlegges i notarialbekreftet kopi.
 
 (2) Skattemyndighetene kan kreve at dokumentasjon etter denne forskrift fremlegges sammen med oversettelse til norsk av autorisert translatør.
 
 > Endret ved [forskrifter 8 okt 2012 nr. 956](forskrift/2012-10-08-956) (fom inntektsåret 2012, tidligere § 16-28-10), [9 des 2016 nr. 1534](forskrift/2016-12-09-1534) (i kraft 1 jan 2017).
+
+§ 16-29-11. Opplysningsplikt om endret skattefastsetting
 
 Skattyter har plikt til å informere norske skattemyndigheter dersom den utenlandske skattefastsettingen endres slik at den utenlandske skatten nedsettes.
 
@@ -4380,8 +4580,12 @@ Prisen etter [skatteloven § 18-3](lov/1999-03-26-14/§18-3) annet ledd a nr. 1,
 
 (1) Innmatingsavgift som bæres av skattyter kan trekkes fra i brutto salgsinntekter, jf. [skatteloven § 18-3](lov/1999-03-26-14/§18-3) tredje ledd a nr. 1.
 
-(2) Tilsvarende gjelder kostnader som påløper ved å bringe kraften fra kraftverkets apparatanlegg for utgående ledninger frem til innmatingspunktet i nettet, når kraftleveransen skal verdsettes til spotmarkedspris eller når skattyter godtgjør at avtalt pris for kraftleveransen inkluderer innmatingskostnader til sentralnettet. Kostnader ved fysisk tap i tilknytning til dette fastsettes sjablonmessig som en prosentvis andel av bruttoinntekten. Tapet beregnes ved at en tapsfaktor multipliseres med antall 100 meter linjelengde, der linjelengden avrundes oppover til nærmeste 100 meter. Følgende tapsfaktor skal brukes:*Spenningsnivå
-Linjetype**11 kV**22 kV**66 kV**132 kV**300 kv**420 kv*Luftledning0,0780,0640,0270,0120,0030,003Kabel0,0780,040,0180,0030,0030,003
+(2) Tilsvarende gjelder kostnader som påløper ved å bringe kraften fra kraftverkets apparatanlegg for utgående ledninger frem til innmatingspunktet i nettet, når kraftleveransen skal verdsettes til spotmarkedspris eller når skattyter godtgjør at avtalt pris for kraftleveransen inkluderer innmatingskostnader til sentralnettet. Kostnader ved fysisk tap i tilknytning til dette fastsettes sjablonmessig som en prosentvis andel av bruttoinntekten. Tapet beregnes ved at en tapsfaktor multipliseres med antall 100 meter linjelengde, der linjelengden avrundes oppover til nærmeste 100 meter. Følgende tapsfaktor skal brukes:
+
+| *Spenningsnivå<br>Linjetype* | *11 kV* | *22 kV* | *66 kV* | *132 kV* | *300 kv* | *420 kv* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Luftledning | 0,078 | 0,064 | 0,027 | 0,012 | 0,003 | 0,003 |
+| Kabel | 0,078 | 0,04 | 0,018 | 0,003 | 0,003 | 0,003 |
 
 ### § 18-3-28. Beregning av friinntekt i realisasjonsåret
 
@@ -4667,8 +4871,12 @@ Prisen etter [skatteloven § 18-10 annet ledd bokstav a nr. 1](lov/1999-03-26-14
 
 (1) Innmatingsavgift som bæres av den skattepliktige, kan trekkes fra i brutto salgsinntekter, jf. [skatteloven § 18-10 tredje ledd bokstav a nr. 1](lov/1999-03-26-14/§18-10/ledd/3/bokstav/a/nummer/1).
 
-(2) Tilsvarende gjelder kostnader som påløper ved innmating av kraft i tilknytningspunktet, når kraftleveransen skal verdsettes til spotmarkedspris eller når skattepliktig godtgjør at avtalt pris for kraftleveransen inkluderer innmatingskostnader. Kostnader ved fysisk tap i tilknytning til dette fastsettes sjablonmessig som en prosentvis andel av bruttoinntekten. Tapet beregnes ved at en tapsfaktor multipliseres med antall 100 meter linjelengde, der linjelengden avrundes oppover til nærmeste 100 meter. Følgende tapsfaktor skal brukes:*Spenningsnivå
-Linjetype**11 kV**22 kV**66 kV**132 kV**300 kv**420 kv*Luftledning0,0780,0640,0270,0120,0030,003Kabel0,0780,040,0180,0030,0030,003
+(2) Tilsvarende gjelder kostnader som påløper ved innmating av kraft i tilknytningspunktet, når kraftleveransen skal verdsettes til spotmarkedspris eller når skattepliktig godtgjør at avtalt pris for kraftleveransen inkluderer innmatingskostnader. Kostnader ved fysisk tap i tilknytning til dette fastsettes sjablonmessig som en prosentvis andel av bruttoinntekten. Tapet beregnes ved at en tapsfaktor multipliseres med antall 100 meter linjelengde, der linjelengden avrundes oppover til nærmeste 100 meter. Følgende tapsfaktor skal brukes:
+
+| *Spenningsnivå<br>Linjetype* | *11 kV* | *22 kV* | *66 kV* | *132 kV* | *300 kv* | *420 kv* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Luftledning | 0,078 | 0,064 | 0,027 | 0,012 | 0,003 | 0,003 |
+| Kabel | 0,078 | 0,04 | 0,018 | 0,003 | 0,003 | 0,003 |
 
 > Tilføyd ved forskrift [8 nov 2024 nr. 2711](forskrift/2024-11-08-2711) (med virkning fra inntektsåret 2024).
 

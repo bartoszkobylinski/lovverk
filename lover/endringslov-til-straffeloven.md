@@ -22,31 +22,41 @@ eu_basis: []
 
 # Lov om endringer i straffeloven (selvstendig inndragning m.m.)
 
+Endringer i følgende lov:
+
 - [Lov 20. mai 2005 nr. 28 om straff (straffeloven)](lov/2005-05-20-28).
 
 ## I
 
+I [lov 20. mai 2005 nr. 28 om straff](lov/2005-05-20-28) gjøres følgende endringer:
+
+[§ 68 første ledd](lov/2005-05-20-28/§68/ledd/1) oppheves.
+
+Nåværende annet til femte ledd blir første til fjerde ledd.
+
+Tredje ledd skal lyde:
+
 Utvidet inndragning kan foretas uten at det påvises hvilken straffbar handling utbyttet stammer fra. Ett, flere eller samtlige av lovbryterens formuesgoder kan inndras hvis lovbryteren ikke sannsynliggjør at formuesgodene er ervervet på lovlig måte. I stedet for inndragning av formuesgodet kan hele eller deler av verdien av formuesgodet inndras. Ved slik verdiinndragning kan det bestemmes at formuesgodet hefter til sikkerhet for inndragningsbeløpet.
 
-Formuesgode som mest sannsynlig stammer fra lovbrudd, kan inndras uten at det er påvist et bestemt lovbrudd (selvstendig inndragning). Selvstendig inndragning skal ikke foretas i den utstrekning det vil være uforholdsmessig ut fra konsekvensene for eieren av formuesgodet og eventuelle andre berørte og omstendighetene for øvrig.
+Ny [§ 68 a](lov/2005-05-20-28/§68a) skal lyde:
 
-Hvis inndragning av formuesgodet vil være uforholdsmessig eller andre særlige grunner taler for det, kan i stedet hele eller deler av formuesgodets verdi inndras. Ved slik verdiinndragning kan det bestemmes at formuesgodet hefter til sikkerhet for inndragningsbeløpet.
-
-Selvstendig inndragning kan foretas av formuesgode som befinner seg i Norge. Inndragning kan også foretas av formuesgode som befinner seg utenfor Norge, dersom saken har tilstrekkelig tilknytning til Norge.
-
-Reglene i denne paragrafen kommer til anvendelse uavhengig av når formuesgodet er ervervet.
+[§ 72 første ledd](lov/2005-05-20-28/§72/ledd/1) skal lyde:
 
 Er utbytte, jf. [§ 67](lov/2005-05-20-28/§67), eller ting som nevnt i [§ 69](lov/2005-05-20-28/§69), etter handlingstidspunktet overdratt fra noen som det kan foretas inndragning overfor, kan det overdratte eller verdien av det inndras overfor mottakeren dersom overdragelsen har skjedd som gave eller mottakeren mest sannsynlig forsto eller burde ha forstått sammenhengen mellom det overdratte og en straffbar handling.
 
-som lovbryteren har handlet på vegne av,
+[§ 73 første ledd bokstav b](lov/2005-05-20-28/§73/ledd/1/bokstav/b), [c](lov/2005-05-20-28/§73/ledd/1/bokstav/c) og ny bokstav d skal lyde:
 
-som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, eller
+som lovbryteren har handlet på vegne av,som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, forsto eller burde ha forstått at tingen skulle brukes ved en straffbar handling, ellersom da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
 
-som da rettigheten ble rettsgyldig sikret på annen måte enn ved utleggspant, arrest eller legalpant, mest sannsynlig forsto eller burde ha forstått at tingen kunne inndras.
+[§ 92](lov/2005-05-20-28/§92) nytt tredje punktum skal lyde:
 
 For selvstendig inndragning etter [§ 68 a](lov/2005-05-20-28/§68a) gjelder det ingen foreldelsesfrist.
 
+[§ 100 annet ledd](lov/2005-05-20-28/§100/ledd/2) skal lyde:
+
 Sak om inndragning av utbytte, herunder inndragning etter [§ 68](lov/2005-05-20-28/§68) og [§ 72 annet ledd](lov/2005-05-20-28/§72/ledd/2), kan fremmes selv om den ansvarlige er død. For øvrig faller inndragningsansvar bort ved den ansvarliges død.
+
+Nåværende annet ledd blir nytt tredje ledd og skal lyde:
 
 Ilagt inndragning av utbytte kan fullbyrdes etter den ansvarliges død, dersom det blir besluttet ved kjennelse av den retten som har pådømt saken i første instans, eller av den tingrett som saken hører under etter [straffeprosessloven § 12](lov/2005-05-20-28/§12) når inndragningen er vedtatt ved forelegg. Retten kan beslutte inndragning av et beløp istedenfor en ting.
 

@@ -98,6 +98,8 @@ Luftfartstilsynet er meldermyndighet etter forordning [(EU) 2019/945](eu/32019r0
 
 ### § 13. Endring i annen forskrift
 
+I [forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv.](forskrift/2015-11-30-1404) gjøres følgende endring: – – –
+
 ### § 14. Oppheving av forskrift
 
 [Forskrift 25. november 2020 nr. 2460 om luftfart med ubemannet luftfartøy i åpen- og i spesifikk kategori (BSL A 7-2)](forskrift/2020-11-25-2460) oppheves.

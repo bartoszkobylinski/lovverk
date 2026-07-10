@@ -40,6 +40,8 @@ eu_basis: []
 
 I denne forskrift betyr:*Anerkjente standarder:* NS (Norsk Standard), NS-EN (Norsk Standard-European Norm), NS-ISO (Norsk Standard-International Standard Organisation) eller likeverdig internasjonal eller nasjonal standard eller regelverk godkjent av Sjøfartsdirektoratet.1*Eksisterende skip:* Skip, herunder lekter, som ikke er nytt skip. Likt med eksisterende skip regnes skip som innkjøpes fra utlandet.*Godkjent:* Et enkelt utstyr godkjent av Sjøfartsdirektoratet.*Laste- og losseinnretning:* Kran med kransøyle, fundament og underliggende struktur, herunder også proviantkran og maskinromstraverskran, samt mast med bom og vinsj med fast tilbehør som bomlager, topprepsfester, preventerfester og lignende tilhørende laste- og losseredskap.*Laste- og losseredskap:* Redskap som løfteåk, grabb, stropp, fathake, nett o.l. og løse deler som kjetting, ståltau (wire), sjakkel, ring, krok, svivel, blokk o.l., som brukes til heising og låring av last.*Nytt skip:* Skip, herunder lekter, hvis kjøl strekkes eller som er på et lignende byggetrinn, på eller etter den dag denne forskrift trer i kraft. Likt med nytt skip regnes skip som ombygges på eller etter nevnte dag.
 
+1 Som eksempel kan nevnes tyske DIN-normer og engelske BS-standarder og svenske krannormer.
+
 ### § 3. Fravik
 
 I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig. Fravik må ikke være i strid med internasjonal overenskomst Norge har sluttet seg til.
@@ -78,7 +80,15 @@ I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike fors
 
 (4) Andre typer løfteinnretninger samt enkle kraner og bomarrangement med tillatt arbeidsbelastning mindre enn 10 tonn, kan dersom det finnes hensiktsmessig og forsvarlig, dimensjoneres i samsvar med norske standarder nevnt i bokstav a og b i dette ledd. Det skal ved beregninger i slike tilfelle benyttes en sikkerhetsfaktor på minst 4,5 i henhold til det aktuelle materialets bruddgrense.Konstruksjoner i stål skal beregnes i samsvar med NS-3472 «Prosjektering av stålkonstruksjoner. Beregning og dimensjonering».Konstruksjoner i aluminium skal beregnes i samsvar med NS-3471 «Prosjektering av aluminiumskonstruksjoner. Beregning og dimensjonering»
 
-(5) Laste- og losseredskap som ståltau, kjetting, kroker, sjakler, blokker, svivler, ringer osv. skal beregnes og konstrueres etter Norsk Standard eller annen anerkjent standard. Det skal benyttes følgende sikkerhetsfaktor mot brudd, beregnet ut fra den største teoretiske belastning:*Sikkerhetsfaktor*Ståltau (wire) som alminnelig regel (Se også [§ 9](forskrift/1978-01-17-4/§9) 6. ledd bokstav b)5Kjetting4,5Annen redskap som kroker, sjakler, blokker, svivler, ringer osv.5Tauverk7
+(5) Laste- og losseredskap som ståltau, kjetting, kroker, sjakler, blokker, svivler, ringer osv. skal beregnes og konstrueres etter Norsk Standard eller annen anerkjent standard. Det skal benyttes følgende sikkerhetsfaktor mot brudd, beregnet ut fra den største teoretiske belastning:
+
+|  |  |  |
+| --- | --- | --- |
+|  |  | *Sikkerhetsfaktor* |
+|  | Ståltau (wire) som alminnelig regel (Se også [§ 9](forskrift/1978-01-17-4/§9) 6. ledd bokstav b) | 5 |
+|  | Kjetting | 4,5 |
+|  | Annen redskap som kroker, sjakler, blokker, svivler, ringer osv. | 5 |
+|  | Tauverk | 7 |
 
 (6) I tillegg til ovennevnte skal kraner og bomarrangementer beregnes for en slagside på 5 grader, eller for den maksimale slagside, som fartøyet får ved størst tillatt arbeidsbelastning, S.W.L., og størst utligg av bom eller kran (største moment). Kraner og bommer i stuet posisjon skal sikres forsvarlig. Dersom lastemomentet er stort sett i relasjon til skipets deplasement, skal det kontrolleres at skipet ikke vil krenge utover det laste- og losseinnretningen(e) er beregnet for.
 
@@ -194,8 +204,40 @@ Enhver kran med førerhus skal være utstyrt med lydsignal/horn for å varsle fa
 
 ### § 14. Prøving av laste- og losseredskaper
 
-(1) All ny redskap skal før den tas i bruk, være prøvet av en sakkyndig person med følgende prøvelaster:*Gjenstand**Tillatt arbeidslast
-S.W.L.**Prøvelaster*Kjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv.til og med 25 tonn2 X S.W.L.til og med 30 tonn55 tonntil og med 35 tonn65 tonntil og med 40 tonn70 tonntil og med 45 tonn75 tonntil og med 50 tonn85 tonntil og med 55 tonn90 tonntil og med 60 tonn95 tonntil og med 65 tonn100 tonntil og med 70 tonn110 tonntil og med 75 tonn115 tonntil og med 80 tonn120 tonntil og med 85 tonn125 tonntil og med 90 tonn130 tonntil og med 95 tonn135 tonntil og med 100 tonn145 tonntil og med 110 tonn155 tonntil og med 120 tonn165 tonntil og med 130 tonn175 tonntil og med 140 tonn190 tonntil og med 150 tonn200 tonntil og med 160 tonn215 tonntil og med 170 tonn230 tonntil og med 180 tonn240 tonnover 180 tonn1,33 X S.W.L.Enskivet blokk4 X S.W.L.Enskivet blokk m/hundsvott6 X S.W.L.StåltauBruddlastLøfteåk, grabb o.l.2,0 X S.W.L.
+(1) All ny redskap skal før den tas i bruk, være prøvet av en sakkyndig person med følgende prøvelaster:
+
+| *Gjenstand* | *Tillatt arbeidslast<br>S.W.L.* | *Prøvelaster* |
+| --- | --- | --- |
+| Kjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv. | til og med 25 tonn | 2 X S.W.L. |
+|  | til og med 30 tonn | 55 tonn |
+|  | til og med 35 tonn | 65 tonn |
+|  | til og med 40 tonn | 70 tonn |
+|  | til og med 45 tonn | 75 tonn |
+|  | til og med 50 tonn | 85 tonn |
+|  | til og med 55 tonn | 90 tonn |
+|  | til og med 60 tonn | 95 tonn |
+|  | til og med 65 tonn | 100 tonn |
+|  | til og med 70 tonn | 110 tonn |
+|  | til og med 75 tonn | 115 tonn |
+|  | til og med 80 tonn | 120 tonn |
+|  | til og med 85 tonn | 125 tonn |
+|  | til og med 90 tonn | 130 tonn |
+|  | til og med 95 tonn | 135 tonn |
+|  | til og med 100 tonn | 145 tonn |
+|  | til og med 110 tonn | 155 tonn |
+|  | til og med 120 tonn | 165 tonn |
+|  | til og med 130 tonn | 175 tonn |
+|  | til og med 140 tonn | 190 tonn |
+|  | til og med 150 tonn | 200 tonn |
+|  | til og med 160 tonn | 215 tonn |
+|  | til og med 170 tonn | 230 tonn |
+|  | til og med 180 tonn | 240 tonn |
+|  | over 180 tonn | 1,33 X S.W.L. |
+|  |  |  |
+| Enskivet blokk |  | 4 X S.W.L. |
+| Enskivet blokk m/hundsvott |  | 6 X S.W.L. |
+| Ståltau |  | Bruddlast |
+| Løfteåk, grabb o.l. |  | 2,0 X S.W.L. |
 
 (2) For blokker menes med prøvelast resultantbelastning i blokkøyet, jf. [§ 16](forskrift/1978-01-17-4/§16) femte ledd bokstav a og b.
 
@@ -217,13 +259,22 @@ S.W.L.**Prøvelaster*Kjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv.
 
 > Endret ved [forskrift 1 juni 2004 nr. 804](forskrift/2004-06-01-804).
 
+1 Fastsatt av Sjøfartsdirektoratet.
+
 ### § 15. Førstegangs kontroll og prøving av laste- og losseinnretninger
 
 (1) Laste- og losseinnretninger skal før de tas i bruk prøves, kontrolleres og sertifiseres av sakkyndig person.
 
 (2) Før laste- og losseinnretninger prøves om bord, skal sakkyndig person undersøke om det foreligger underlag ifølge [§ 6](forskrift/1978-01-17-4/§6) og [§ 13](forskrift/1978-01-17-4/§13), og at det for alle laste- og losseredskaper er fremlagt sertifikater.
 
-(3) Laste- og losseinnretninger skal, etter at de er ferdig montert om bord, prøvebelastes av sakkyndig person med følgende prøvelaster:*S.W.L.**Prøvelast*opp til 20 tonn1,25 X S.W.L.fra 20 til 50 tonnS.W.L. + 5 tonnover 50 tonn1,1 X S.W.L.
+(3) Laste- og losseinnretninger skal, etter at de er ferdig montert om bord, prøvebelastes av sakkyndig person med følgende prøvelaster:
+
+|  |  |  |
+| --- | --- | --- |
+|  | *S.W.L.* | *Prøvelast* |
+|  | opp til 20 tonn | 1,25 X S.W.L. |
+|  | fra 20 til 50 tonn | S.W.L. + 5 tonn |
+|  | over 50 tonn | 1,1 X S.W.L. |
 
 (4) Prøvelasten skal løftes med skipets egen innretning, og bommen skal ikke danne større vinkel med horisontalen enn 15 grader. Dersom dette ikke er mulig eller bommen er konstruert for en bomvinkel som er større eller mindre enn 15 grader, skal bommen stilles i den minste vinkel det er mulig å bringe den i eller i den bomvinkel arrangementet er beregnet for. Etter at prøvelasten er løftet, skal arrangementet funksjonstestes med prøvelasten, dvs. heising, låring, svinging og topping (dersom dette kan utføres med last hengende i kroken), og oppbremsing av de nevnte bevegelser skal prøves.Skipet skal, om mulig, gis en slagside på 5 grader eller den maksimale slagside det får ved største tillatte arbeidsbelastning for å få en mest mulig realistisk prøve (se [§ 7](forskrift/1978-01-17-4/§7) 6. ledd).Minste eventuelt største vinkel (dersom bommen kan toppes med last) som benyttes under prøven, skal anføres i sertifikatet.
 

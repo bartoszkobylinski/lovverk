@@ -211,3 +211,5 @@ Loven trer i kraft fra den tiden1 Kongen bestemmer.
 Fra den tiden loven trer i kraft, oppheves [lov 13. juni 1975 nr. 50 om svangerskapsavbrudd](lov/1975-06-13-50).
 
 Kongen kan gi nærmere overgangsregler.
+
+1 Fra 1. juni 2025 iflg. [res. 20 des 2024 nr. 3296](forskrift/2024-12-20-3296).

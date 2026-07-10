@@ -230,6 +230,8 @@ Norsk helsearkiv skal føre oversikt over tilgjengeliggjøring fra Helsearkivreg
 
 Forskriftens kapitler 1, 3, 5 og 7 trer i kraft straks. Forskriftens kapitler 2, 4 og 6 trer i kraft fra den tid departementet bestemmer.1 Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid.
 
+1 [Kapitlene 2](forskrift/2016-03-18-268/kap2), [4](forskrift/2016-03-18-268/kap4) og [6](forskrift/2016-03-18-268/kap6) trer i kraft 1 jan 2018 iflg. [vedtak 27 okt 2017 nr. 1703](forskrift/2017-10-27-1703).
+
 ### § 35. Endringer i andre forskrifter
 
 Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter: – – –

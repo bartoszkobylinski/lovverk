@@ -106,6 +106,8 @@ Forbodet gjeld ikkjefor arkivfagleg forsvarleg mellombels bruk til forvaltningsf
 
 Departementet kan gi forskrift om kva vilkår som skal gjelde ved lagring av digitale arkiv utanfor Noreg.
 
+1 Paragrafen gjeld frå den tida Kongen fastset. [Lov 4. desember 1992 nr. 126 om arkiv § 9](lov/1992-12-04-126/§9) innleiingsteksten og bokstav b held fram å gjelde fram til § 11 i denne lova tek til å gjelde iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510).
+
 ### § 12. Dokumentasjon som skal takast vare på for ettertida
 
 Dokumentasjon med stor kulturell eller vitskapleg verdi og viktig dokumentasjon om rettslege tilhøve eller om forvaltninga si verksemd skal takast vare på og gjerast tilgjengeleg for ettertida.
@@ -209,6 +211,8 @@ Den som forsettleg eller grovt aktlaust handlar i strid med [§ 5 første ledd](
 Lova gjeld frå den tida1 Kongen fastset. Kongen kan setje i verk dei ulike føresegnene til ulik tid.
 
 Frå den tida lova tek til å gjelde, blir [lov 4. desember 1992 nr. 126 om arkiv](lov/1992-12-04-126) oppheva. Forskrifter gitt med heimel i [lov 4. desember 1992 nr. 126 om arkiv](lov/1992-12-04-126) gjeld òg etter at lova her tek til å gjelde.
+
+1 Frå 1. januar 2026 for §§ 1 til 10 og §§ 12 til 25 iflg. [res. 12 des 2025 nr. 2510](forskrift/2025-12-12-2510).
 
 ### § 25. Endringar i andre lover
 

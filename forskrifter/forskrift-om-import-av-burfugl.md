@@ -82,6 +82,8 @@ Denne forskriften trer i kraft straks.
 
 ## Vedlegg I. Helsesertifikat
 
+For å lese vedlegg I se her: [(pdf)](static/SF/sf-20060123-0066-01-03.pdf)
+
 > Tilføyd ved [forskrift 3 jan 2018 nr. 4](forskrift/2018-01-03-4).
 
 ## Vedlegg IA. Helsesertifikat – overgangsordning inntil 1. mars 2018
@@ -91,6 +93,8 @@ For å lese vedlegg IA se her: [(pdf)](static/SF/sf-20060123-0066-02-02.pdf)
 > Tilføyd ved [forskrift 7 april 2009 nr. 405](forskrift/2009-04-07-405), endret ved [forskrifter 20 des 2010 nr. 1811](forskrift/2010-12-20-1811), [3 jan 2018 nr. 4](forskrift/2018-01-03-4) (tidligere vedlegg I).
 
 ## Vedlegg II. Egenerklæring
+
+For å lese vedlegg II se her: [(pdf)](static/SF/sf-20060123-0066-03-01.pdf)
 
 > Tilføyd ved [forskrift 3 jan 2018 nr. 4](forskrift/2018-01-03-4).
 

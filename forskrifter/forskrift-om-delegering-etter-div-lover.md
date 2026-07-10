@@ -28,7 +28,11 @@ I medhold av [lov 8. februar 1980 nr. 3](lov/1980-02-08-3) om [lov om endringer 
 
 ## II.1
 
+1 [Forskrift av 18. desember 1987 nr. 985](forskrift/1987-12-18-985) trer i stedet for del II.
+
 ## III.
 
 1. – – -1
 2. Kongens myndighet etter [lov 4. juni 1976 nr. 59](lov/1976-06-04-59) om aksjeselskaper [§ 11-14](lov/1976-06-04-59/§11-14) annet og følgende ledd og [lov 13. mai 1977 nr. 35](lov/1977-05-13-35) om regnskapsplikt mv. [§ 16](lov/1977-05-13-35/§16) femte og følgende ledd, slik bestemmelsene lyder etter endringene ved lov 8. februar 1980 legges til Handelsdepartementet.
+
+1 Se nå lov 4 juni 1991 nr. 47.

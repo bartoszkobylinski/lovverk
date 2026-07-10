@@ -30,9 +30,36 @@ Listen er ikke uttømmende, og må ses i sammenheng med forskrift om yrkessykdom
 
 ## § 2.
 
-Liste over sykdommer og forgiftninger, og tilsvarende virksomheter og arbeidsprosesser:Sykdommer og forgiftninger:Tilsvarende virksomheter og arbeidsprosesser:Forgiftning med bly, dets legeringer eller forbindelser, og direkte følger av slik forgiftning.Behandling av blyholdige ertser, herunder blyslag i zinkverk.Støping av gammel zink og bly til blokker.Tilvirkning av varer av støpt bly eller blylegeringer.Beskjeftigelse i de polygrafiske industrier.Tilvirkning av blyforbindelser.Tilvirkning og reparasjon av elektriske akkumulatorer.Tilberedning og bruk av blyholdig emalje.Polering ved hjelp av blyspån eller blyholdig tinnaske.Malerarbeider som fører med seg tilberedning eller bruk av glassur, kitt eller farge som inneholder blyfargestoff.Forgiftning ved kvikksølv, dets amalgamer og forbindelser, og de direkte følger av slik forgiftning.Behandling av kvikksølvertser.Tilvirkning av kvikksølvsammensetninger.Tilvirkning av måle- eller laboratorieapparater.Tilberedning av råmaterialer for hatte-industrien.Forgylling med bruk av varme.Bruk av kvikksølvluftpumper ved tilvirkningen av glødelamper.Tilvirkning av tennfenghetter av knallkvikksølv.Miltbrandsmitte.Arbeid med miltbrandsyke dyr.Behandling av dyrekropper eller deler av sådanne, herunder huder, klover og horn.Lasting og lossing eller transport av varer.Silikose med eller uten lungetuberkulose, for så vidt silikosen er en vesentlig årsak til arbeidsudyktighet eller død.Virksomheter eller prosesser som i lov eller forskrifter er ansett for å medføre silikoserisiko.Forgiftning med fosfor eller dets forbindelser og direkte følger av slik forgiftning.Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av fosfor eller dets forbindelser.Forgiftning med arsenikk eller dets forbindelser og direkte følger av denne forgiftning.Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av arsenikk eller dets forbindelser.Forgiftning med bensol, dets homologer, nitro- og amidoderivater og direkte følger av slik forgiftning.Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av bensol, dets homologer eller nitro- og amidoderivater.Forgiftning med halogen- kullvannstoffer av den aliphatiske rekke.Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av halogen- kullvannstoffer av den aliphatiske rekke, fastsatt i lov eller forskrifter.Patologiske manifestasjoner framkalt av
-a) radium og andre radioaktive substanser,
-b) røntgenstråler.Alle prosesser som fører med seg at en utsettes for virkninger av radium, radioaktive substanser eller røntgenstråler.Primære hudepitheliomer.Alle prosesser som står i forbindelse med bruk av tjære, bek, asfalt, mineralolje, parafin eller forbindelser, produkter eller rester av disse substanser.
+Liste over sykdommer og forgiftninger, og tilsvarende virksomheter og arbeidsprosesser:
+
+| Sykdommer og forgiftninger: | Tilsvarende virksomheter og arbeidsprosesser: |
+| --- | --- |
+| Forgiftning med bly, dets legeringer eller forbindelser, og direkte følger av slik forgiftning. | Behandling av blyholdige ertser, herunder blyslag i zinkverk. |
+|  | Støping av gammel zink og bly til blokker. |
+|  | Tilvirkning av varer av støpt bly eller blylegeringer. |
+|  | Beskjeftigelse i de polygrafiske industrier. |
+|  | Tilvirkning av blyforbindelser. |
+|  | Tilvirkning og reparasjon av elektriske akkumulatorer. |
+|  | Tilberedning og bruk av blyholdig emalje. |
+|  | Polering ved hjelp av blyspån eller blyholdig tinnaske. |
+|  | Malerarbeider som fører med seg tilberedning eller bruk av glassur, kitt eller farge som inneholder blyfargestoff. |
+| Forgiftning ved kvikksølv, dets amalgamer og forbindelser, og de direkte følger av slik forgiftning. | Behandling av kvikksølvertser. |
+|  | Tilvirkning av kvikksølvsammensetninger. |
+|  | Tilvirkning av måle- eller laboratorieapparater. |
+|  | Tilberedning av råmaterialer for hatte-industrien. |
+|  | Forgylling med bruk av varme. |
+|  | Bruk av kvikksølvluftpumper ved tilvirkningen av glødelamper. |
+|  | Tilvirkning av tennfenghetter av knallkvikksølv. |
+| Miltbrandsmitte. | Arbeid med miltbrandsyke dyr. |
+|  | Behandling av dyrekropper eller deler av sådanne, herunder huder, klover og horn. |
+|  | Lasting og lossing eller transport av varer. |
+| Silikose med eller uten lungetuberkulose, for så vidt silikosen er en vesentlig årsak til arbeidsudyktighet eller død. | Virksomheter eller prosesser som i lov eller forskrifter er ansett for å medføre silikoserisiko. |
+| Forgiftning med fosfor eller dets forbindelser og direkte følger av slik forgiftning. | Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av fosfor eller dets forbindelser. |
+| Forgiftning med arsenikk eller dets forbindelser og direkte følger av denne forgiftning. | Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av arsenikk eller dets forbindelser. |
+| Forgiftning med bensol, dets homologer, nitro- og amidoderivater og direkte følger av slik forgiftning. | Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av bensol, dets homologer eller nitro- og amidoderivater. |
+| Forgiftning med halogen- kullvannstoffer av den aliphatiske rekke. | Alle prosesser som står i forbindelse med produksjon, utskilling eller nyttiggjørelse av halogen- kullvannstoffer av den aliphatiske rekke, fastsatt i lov eller forskrifter. |
+| Patologiske manifestasjoner framkalt av<br>a) radium og andre radioaktive substanser,<br>b) røntgenstråler. | Alle prosesser som fører med seg at en utsettes for virkninger av radium, radioaktive substanser eller røntgenstråler. |
+| Primære hudepitheliomer. | Alle prosesser som står i forbindelse med bruk av tjære, bek, asfalt, mineralolje, parafin eller forbindelser, produkter eller rester av disse substanser. |
 
 ## § 3.
 

@@ -29,3 +29,5 @@ eu_basis: []
 5. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]
 6. [BEGRENSET etter [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).]
 7. [Kongelig resolusjon av 10. april 2015](forskrift/2015-04-10-347) om fastsettelse av Sivilt beredskapssystem oppheves.
+
+1 Vedlegget er gradert BEGRENSET jf. [sikkerhetsloven § 5-3 første ledd bokstav d](lov/2018-06-01-24/§5-3/ledd/1/bokstav/d).

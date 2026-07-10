@@ -21,3 +21,5 @@ eu_basis: []
 ---
 
 # Delegering av myndighet til Justerdirektøren etter lov om mål og vekt § 10 tredje ledd.
+
+Nærings- og handelsdepartementet gir med dette, i henhold til [lov av 31. oktober 1946 nr. 2](lov/1946-10-31-2) om mål og vekt [§ 10](lov/1946-10-31-2/§10) tredje ledd, Justerdirektøren fullmakt til å dispensere fra lovens § 10 første ledd.

@@ -54,6 +54,8 @@ Sysselmesteren kan kreve de opplysningene som er nødvendige for å avklare om d
 
 [Grenseloven § 15](lov/2018-04-20-8/§15) tredje og fjerde ledd gjelder for Svalbard.
 
+1 Se vedtak [7. januar 2025 nr. 8](forskrift/2025-01-07-8) om anerkjennelse av visse typer legitimasjonsdokumenter ved reise til Svalbard.
+
 ## § 5. Steder reisende kan kontrolleres
 
 Reisende til og fra Svalbard kan kontrolleresved ankomst til og avgang fra Svalbard eller der den reisende melder seg eller påtreffesi territorialfarvannet på sjøfartøy underveis til eller fra havn eller indre farvann på Svalbard

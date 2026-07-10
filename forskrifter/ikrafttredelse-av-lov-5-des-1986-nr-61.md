@@ -22,6 +22,8 @@ eu_basis: []
 
 # Ikrafttredelse av lov 5. des. 1986 nr. 61 om endring i lov 22. april 1927 om vergemål for umyndige m.m. Delegering av myndighet.
 
+Fastsatt ved Regj.res. av 10. november 1988. Fremmet av Justis- og politidepartementet.
+
 ## I
 
 [Lov 5. desember 1986 nr 61](lov/1986-12-05-61) om endringer i lov 22 april 1927 om vergemål for umyndige m.m. trer ikraft fra 1. januar 1989.

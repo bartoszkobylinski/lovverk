@@ -54,67 +54,131 @@ For denne forskrift gjelder følgende generelle definisjoner:*Lufthavn:*Et hvert
 
 Lufthavnrelaterte tjenester på landside er følgende:
 
+1\.
+
 Administrasjon på bakken og driftskontroll, som omfatter
+
+1.1
 
 representasjon og forbindelse med lokale myndigheter eller enhver annen myndighet, utlegg på vegne av lufthavnbrukeren og fremskaffelse av lokaler til vedkommendes representanter,
 
+1.2
+
 kontroll i forbindelse med lasting, meldinger og telekommunikasjon,
+
+1.3
 
 behandling, lagring, håndtering og administrasjon av utstyr for lasting og lossing av luftfartøyer,
 
+1.4
+
 enhver annen kontrollvirksomhet før, under eller etter flyging, og enhver annen administrativ tjeneste lufthavnbrukeren etterspør.
+
+2\.
 
 Håndtering av passasjerer, som omfatterenhver form for tjenesteytelse til passasjerer ved ankomst, avgang, transitt eller korresponderende flyging, særlig kontroll av billetter og reisedokumenter, bagasjeregistrering og transport frem til systemet for bagasjesortering.
 
+3\.
+
 Håndtering av frakt og post, som omfatter
+
+3.1
 
 den fysiske håndteringen av frakt ved eksport, import og transitt, behandling av dokumenter forbundet med dette, tollformaliteter og ethvert sikkerhetstiltak som partene er blitt enige om eller som omstendighetene krever,
 
+3.2
+
 den fysiske håndtering av post ved ankomst og avgang, behandling av dokumenter forbundet med dette og ethvert sikkerhetstiltak som partene er blitt enige om eller som omstendighetene krever,
+
+3.3
 
 Håndtering av frakt og post mellom luftfartøyet og flyterminalen faller inn under [§ 2-3](forskrift/2000-11-03-1096/§2-3) [pkt](forskrift/2000-11-03-1096/kap2). 2.
 
+4\.
+
 Service av luftfartøy, som omfatter
+
+4.1
 
 utvendig og innvendig rengjøring av luftfartøyet, toalettservice og vannforsyning,
 
+4.2
+
 kjøling og oppvarming av kabinen, fjerning av snø og is fra luftfartøyet, avising av luftfartøyet,
+
+4.3
 
 omflytting i kabinen ved hjelp av eget kabinutstyr, lagring av slikt utstyr.
 
+5\.
+
 Vedlikehold av luftfartøy, som omfatter
+
+5.1
 
 rutinemessige operasjoner før flyging,
 
+5.2
+
 særskilte operasjoner som kreves av lufthavnbrukeren,
+
+5.3
 
 levering og administrasjon av reservedeler og av det nødvendige utstyr for vedlikehold,
 
+5.4
+
 anmodning om eller bestilling av oppstillingsplass og/eller hangaropphold for utføring av vedlikehold.
+
+6\.
 
 Assistanse ved luftfartsoperasjoner og administrasjon knyttet til besetningen, som omfatter
 
+6.1
+
 forberedelse av flygingen i avgangslufthavnen eller ethvert annet sted,
+
+6.2
 
 tjenesteyting under flyging, herunder eventuell omlegging av luftfartøyets rute,
 
+6.3
+
 tjenester etter flyging,
+
+6.4
 
 administrasjon knyttet til besetningen.
 
+7\.
+
 Assistanse ved transport på bakken, som omfatter
+
+7.1
 
 organisering og gjennomføring av transport for passasjerer, besetning, bagasje, frakt og post mellom forskjellige flyterminaler i samme lufthavn. Transport mellom luftfartøyet og ethvert annet punkt innenfor samme lufthavn omfattes ikke, idet dette går inn under lufthavnrelaterte tjenester på flyside, jf. [§ 2-3](forskrift/2000-11-03-1096/§2-3),
 
+7.2
+
 all særskilt transport som lufthavnbrukeren etterspør.
+
+8\.
 
 Catering, som omfatter
 
+8.1
+
 forbindelse med leverandører og administrasjon,
+
+8.2
 
 lagring av mat- og drikkevarer og nødvendig utstyr for tilberedning av dette,
 
+8.3
+
 rengjøring av slikt utstyr,
+
+8.4
 
 klargjøring og levering av slikt utstyr samt av mat- og drikkevarer.
 
@@ -122,29 +186,55 @@ klargjøring og levering av slikt utstyr samt av mat- og drikkevarer.
 
 Lufthavnrelaterte tjenester på flyside er følgende:
 
+1\.
+
 håndtering av bagasje, som omfatterhåndtering i sorteringsområdet, sortering, forberedelse til forsendelse, lasting på og lossing av innretninger beregnet på å bringe bagasjen fra luftfartøyet til sorteringsområdet og omvendt, samt transport av bagasje fra sorteringsområdet til utleveringsområdet.
+
+2\.
 
 Påfyll av drivstoff og olje, som omfatter
 
+2.1
+
 påfyll og tømming av drivstoff, herunder lagring, kontroll av kvalitet og levert mengde,
+
+2.2
 
 påfyll av olje og andre væsker.
 
+3\.
+
 Plattformtjeneste, som omfatter
+
+3.1
 
 dirigering av luftfartøyet ved ankomst og avgang, forutsatt at lufthavn-/lufttrafikktjenesten ikke yter disse tjenestene,
 
+3.2
+
 tjenesteyting ved parkering av flyet og levering av egnet utstyr, forutsatt at lufthavn-/lufttrafikktjenesten ikke yter disse tjenestene,
+
+3.3
 
 kommunikasjon mellom luftfartøyet og plattformtjenesteyter, forutsatt at lufthavn-/lufttrafikktjenesten ikke yter disse tjenestene,
 
+3.4
+
 lasting og lossing av flyet, herunder levering og drift av nødvendig utstyr, transport av besetning og passasjerer mellom luftfartøyet og flyterminalen samt transport av bagasje mellom luftfartøyet og flyterminalen,
+
+3.5
 
 tjenesteytelse ved start av luftfartøyet og levering av egnet utstyr,
 
+3.6
+
 forflytning av luftfartøyet ved ankomst og avgang samt levering og drift av nødvendig utstyr,
 
+3.7
+
 transport av mat- og drikkevarer til og fra luftfartøyet samt lasting og lossing av dette.
+
+4\.
 
 Håndtering av frakt og post på flyside, hva gjelderfysisk håndtering av frakt og post mellom luftfartøy og flyterminalen ved ankomst, avgang og transitt.
 

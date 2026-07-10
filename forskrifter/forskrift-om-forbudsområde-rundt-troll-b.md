@@ -24,7 +24,20 @@ eu_basis: []
 
 ## § 1.
 
-Forskriften får anvendelse i fire områder rundt ankerlinesystemet til Troll B-plattformen på Troll Oljeprovins med følgende koordinater:Område I:Område II:Område III:Område IV:N 6738334.7N 6737442.6N 6737505.5N 6738399.2E 527886.7E 527822.0E 526932.7E 526995.8N 6738636.8N 6736670.0N 6737181.1N 6739125.1E 528612.2E 528142.1E 526162.0E 526694.8N 6738284.2N 6736520.6N 6737539.5N 6739273.1E 528761.0E 527785.2E 526010.1E 527046.1N 6737904.5N 6736471.0N 6737925.3N 6739320.9E 528808.9E 527401.4E 525959.0E 527424.3N 6737802.3N 6737300.1N 6738037.5N 6738541.8E 528029.7E 527291.2E 526787.8E 527527.2
+Forskriften får anvendelse i fire områder rundt ankerlinesystemet til Troll B-plattformen på Troll Oljeprovins med følgende koordinater:
+
+| Område I: | Område II: | Område III: | Område IV: |
+| --- | --- | --- | --- |
+| N 6738334.7 | N 6737442.6 | N 6737505.5 | N 6738399.2 |
+| E 527886.7 | E 527822.0 | E 526932.7 | E 526995.8 |
+| N 6738636.8 | N 6736670.0 | N 6737181.1 | N 6739125.1 |
+| E 528612.2 | E 528142.1 | E 526162.0 | E 526694.8 |
+| N 6738284.2 | N 6736520.6 | N 6737539.5 | N 6739273.1 |
+| E 528761.0 | E 527785.2 | E 526010.1 | E 527046.1 |
+| N 6737904.5 | N 6736471.0 | N 6737925.3 | N 6739320.9 |
+| E 528808.9 | E 527401.4 | E 525959.0 | E 527424.3 |
+| N 6737802.3 | N 6737300.1 | N 6738037.5 | N 6738541.8 |
+| E 528029.7 | E 527291.2 | E 526787.8 | E 527527.2 |
 
 ## § 2.
 

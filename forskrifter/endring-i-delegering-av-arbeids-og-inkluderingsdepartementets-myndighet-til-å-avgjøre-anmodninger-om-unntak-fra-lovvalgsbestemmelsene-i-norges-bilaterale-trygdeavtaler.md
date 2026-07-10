@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [delegering 15. mars 2024 nr. 451 av Arbeids- og inkluderingsdepartementets myndighet til å avgjøre anmodninger om unntak fra lovvalgsbestemmelsene i Norges bilaterale trygdeavtaler](forskrift/2024-03-15-451) gjøres følgende endringer:
+
+[Del I](forskrift/2024-03-15-451/kapI) første ledd bokstav j og ny bokstav k skal lyde:
+
 1. Canada
 2. Republikken Korea.
 

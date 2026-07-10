@@ -60,16 +60,22 @@ Søknaden skal inneholde informasjon om søker, adresse, organisasjonsnummer, ko
 
 Søknaden skal undertegnes av styreleder eller den som har prokura. For kommuner og fylkeskommuner skal søknaden undertegnes av rådmannen eller den vedkommende har delegert myndigheten til. Følgende må beskrives i alle søknader:
 
+*Mål og innhold*
+
 1. søkerens formål med tilskuddet
 2. prosjektbeskrivelse/beskrivelse av de tiltak det søkes om tilskudd til inkludert mål og målgruppe(r) og eventuell tilknytning til andre strategi- og handlingsplaner
 3. beskrivelse av hvordan søker skal sikre brukermedvirkning
 4. beskrivelse av tiltakets faglige forankring inkludert hvordan målgruppenes kjønn, alder, seksuell orientering og praksis, bosted, etnisk bakgrunn og økonomi blir tatt hensyn til i arbeidet
 5. informasjon om prosjektansvarlig sin faglige kompetanse
 
+*Økonomi*
+
 1. søknadsbeløp
 2. delfinansiering/tilskudd fra andre instanser og opplysning om eventuell søknad til eller tilskudd fra andre finansieringskilder
 3. egenfinansiering inkludert anslag over frivillige timeverk
 4. budsjett (skal kunne sammenliknes med regnskap dersom regnskap kreves)
+
+*Organisering, kontrolltiltak og rapportering*
 
 1. søkerens organisasjonsform (for eksempel forening, stiftelse, AS eller annet) og bakgrunn. Fremstillingen må inkludere fullstendig organisasjonsoversikt som viser moder-, søster- og datterorganisasjoner. Beskrivelse av eventuelle samarbeid med andre aktører på feltet. Ved samarbeid må det i søknaden være presisert ansvars- og oppgavefordelingen mellom søkerne og hvem som skal ha koordineringsansvar
 2. søker skal redegjøre for de interne og eksterne kontrolltiltak som skal sikre korrekt rapportering og måloppnåelse (for eksempel interne kontrollaktiviteter, internrevisjon, autorisert revisor/ikke autorisert revisor, andre offentlige tilsyn og Riksrevisjonen)
@@ -113,9 +119,13 @@ Eventuelt for mye utbetalt tilskudd skal uten unødig opphold returneres til Hel
 
 ### § 12. Krav til rapportering fra tilskuddsmottaker
 
+*For prosjekter*
+
 Budsjett og regnskap fra tilskuddsmottaker skal kunne sammenliknes på likt nivå. Sluttrapport/årsrapport med revisorattestert regnskap sendes innen 31. mars påfølgende år etter hvert år med tilskudd.
 
 Tilskuddsmottakere må rapportere på de kriteriene for måloppnåelse eller andre krav som står i tilskuddsbrevet og de kriterier for måloppnåelse tilskuddsmottaker selv definerte i søknaden.
+
+*For driftstilskudd*
 
 Mottakere av driftstilskudd skal hvert år levere en rapport med revisorattestert regnskap, et oppdatert budsjett og en fremdriftsplan. Rapporten skal svare til søknaden og føringer i tilskuddsbrevet og beskrive hvordan og i hvilken grad målene er oppnådd. Ved manglende måloppnåelse skal dette begrunnes og tiltak for bedre måloppnåelse i videre drift beskrives.
 

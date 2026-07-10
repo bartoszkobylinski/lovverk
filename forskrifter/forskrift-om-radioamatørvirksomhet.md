@@ -58,22 +58,68 @@ Grupper, klubber, skoler, foreninger, radiofyr og reléstasjoner kan tildeles eg
 
 ## § 5. Frekvenser til radioamatørvirksomhet – begrenset lisens
 
-Frekvenser med vilkår som angitt i tabell nedenfor tillates brukt til radioamatørvirksomhet for radioamatør med begrenset lisens.*Frekvensbånd**Status**Tillatt maksimal utgangseffekt fra sender (watt)**Tillatt maksimal båndbredde**Spesielle vilkår*3500–3800kHzPrimær106 kHz7000–7200kHzPrimær106 kHz14000–14350kHzPrimær106 kHz18068–18168kHzPrimær106 kHz21000–21450kHzPrimær106 kHz28000–29700kHzPrimær1018 kHz50–52MHzPrimær1018 kHz144–146MHzPrimær1018 kHz432–438MHzPrimær1030 kHzBåndbredde 200 kHz er tillatt i frekvensområdet 433,6–434,0 MHz2300–2450MHzSekundær520 MHz10,25–10,50GHzSekundær150 MHz
+Frekvenser med vilkår som angitt i tabell nedenfor tillates brukt til radioamatørvirksomhet for radioamatør med begrenset lisens.
+
+| *Frekvensbånd* |  | *Status* | *Tillatt maksimal utgangseffekt fra sender (watt)* | *Tillatt maksimal båndbredde* | *Spesielle vilkår* |
+| --- | --- | --- | --- | --- | --- |
+| 3500–3800 | kHz | Primær | 10 | 6 kHz |  |
+| 7000–7200 | kHz | Primær | 10 | 6 kHz |  |
+| 14000–14350 | kHz | Primær | 10 | 6 kHz |  |
+| 18068–18168 | kHz | Primær | 10 | 6 kHz |  |
+| 21000–21450 | kHz | Primær | 10 | 6 kHz |  |
+| 28000–29700 | kHz | Primær | 10 | 18 kHz |  |
+| 50–52 | MHz | Primær | 10 | 18 kHz |  |
+| 144–146 | MHz | Primær | 10 | 18 kHz |  |
+| 432–438 | MHz | Primær | 10 | 30 kHz | Båndbredde 200 kHz er tillatt i frekvensområdet 433,6–434,0 MHz |
+| 2300–2450 | MHz | Sekundær | 5 | 20 MHz |  |
+| 10,25–10,50 | GHz | Sekundær | 1 | 50 MHz |  |
 
 Radiotjenester med primær status har samme rettigheter i samme frekvensbånd. Radiotjenester med sekundær status skal ikke forstyrre radiotjenester med primær status og må akseptere forstyrrelser fra slike.
 
 ## § 5a. Frekvenser til radioamatørvirksomhet – full lisens
 
-Frekvenser med vilkår som angitt i tabell nedenfor tillates brukt til radioamatørvirksomhet for radioamatør med full lisens (A).*Frekvensbånd**Status**Tillatt maksimal utgangseffekt fra sender (watt)**Tillatt maksimal båndbredde**Spesielle vilkår*135,7–137,8kHzSekundær2001 kHzMaksimal tillatt utstrålt effekt er 1 W e.i.r.p.472–479kHzSekundær1001 kHzMaksimal tillatt utstrålt effekt er 1 W e.i.r.p.1810–1850kHzPrimær10006 kHz1850–2000kHzSekundær106 kHzGjennomsnittlig sendeeffekt skal ikke overstige 10 W, uavhengig av modulasjonstype.3500–3800kHzPrimær10006 kHz5260–5410kHzSekundær1006 kHz7000–7200kHzPrimær10006 kHz10100–10150kHzSekundær10001 kHz14000–14350kHzPrimær10006 kHz18068–18168kHzPrimær10006 kHz21000–21450kHzPrimær10006 kHz24740–24890kHzSekundær10006 kHz24890–24990kHzPrimær10006 kHz28000–29700kHzPrimær100018 kHz50–52MHzPrimær100018 kHz69,9–70,5MHzSekundær10018 kHz1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending.144–146MHzPrimær30018 kHz1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending.432–438MHzPrimær30030 kHz1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending.
-Båndbredde 200 kHz er tillatt i frekvensområdet 433,6–434,0 MHz1240–1300MHzSekundær30020 MHzAllokeringen gjelder til og med 31. desember 2027. Fra 1. januar 2028 kan kun allokeringene nedenfor benyttes.
-1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending.1240–1258MHzSekundær30018 MHz1258–1296MHzSekundær0,02150 kHzMålt som utstrålt effekt e.i.r.p.
-Kommunikasjon mot satellitt er tillatt i frekvensområdet 1260-1270 MHz.
-For kommunikasjon mot satellitt i frekvensområdet 1260 til 1262 MHz er tillatt utstrålt effekt avhengig av elevasjonsvinkel (Ɵ) over horisonten:
-0° < Ɵ < 15°: 0,5 W e.i.r.p.
-15° ≤ Ɵ < 55°: 50 W e.i.r.p.
-55° ≤ Ɵ < 90°: 478 W e.i.r.p.
-I frekvensområdet 1258–1300 MHz og med en båndbredde større enn 150 kHz, inkludert amatør TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p.1296–1298MHzSekundær50150 kHzI frekvensområdet 1258–1300 MHz og med en båndbredde større enn150 kHz, inkludert amatør-TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p.1298–1300MHzSekundær158150 kHzFor EME tillates sendereffekt på 500 W forutsatt bruk av retningsbestemt antenne med minimum 30 dBi forsterkning og minimum elevasjonsvinkel 15° over horisonten.
-I frekvensområdet 1258–1300 MHz og med en båndbredde større enn 150 kHz, inkludert amatør TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p.2300–2450MHzSekundær10020 MHz3400–3410MHzSekundær1007 MHz5650–5850MHzSekundær10020 MHz10,25–10,50GHzSekundær10050 MHz24,0–24,05GHzPrimær10050 MHz24,05–24,25GHzSekundær10050 MHz47,0–47,2GHzPrimær10050 MHz76,0–77,5GHzSekundær10050 MHz77,5–78GHzPrimær10050 MHz78–81GHzSekundær10050 MHz122,25–123GHzSekundær10050 MHz134–136GHzPrimær10050 MHz136–141GHzSekundær10050 MHz241–248GHzSekundær10050 MHz248–250GHzPrimær10050 MHz
+Frekvenser med vilkår som angitt i tabell nedenfor tillates brukt til radioamatørvirksomhet for radioamatør med full lisens (A).
+
+| *Frekvensbånd* |  | *Status* | *Tillatt maksimal utgangseffekt fra sender (watt)* | *Tillatt maksimal båndbredde* | *Spesielle vilkår* |
+| --- | --- | --- | --- | --- | --- |
+| 135,7–137,8 | kHz | Sekundær | 200 | 1 kHz | Maksimal tillatt utstrålt effekt er 1 W e.i.r.p. |
+| 472–479 | kHz | Sekundær | 100 | 1 kHz | Maksimal tillatt utstrålt effekt er 1 W e.i.r.p. |
+| 1810–1850 | kHz | Primær | 1000 | 6 kHz |  |
+| 1850–2000 | kHz | Sekundær | 10 | 6 kHz | Gjennomsnittlig sendeeffekt skal ikke overstige 10 W, uavhengig av modulasjonstype. |
+| 3500–3800 | kHz | Primær | 1000 | 6 kHz |  |
+| 5260–5410 | kHz | Sekundær | 100 | 6 kHz |  |
+| 7000–7200 | kHz | Primær | 1000 | 6 kHz |  |
+| 10100–10150 | kHz | Sekundær | 1000 | 1 kHz |  |
+| 14000–14350 | kHz | Primær | 1000 | 6 kHz |  |
+| 18068–18168 | kHz | Primær | 1000 | 6 kHz |  |
+| 21000–21450 | kHz | Primær | 1000 | 6 kHz |  |
+| 24740–24890 | kHz | Sekundær | 1000 | 6 kHz |  |
+| 24890–24990 | kHz | Primær | 1000 | 6 kHz |  |
+| 28000–29700 | kHz | Primær | 1000 | 18 kHz |  |
+| 50–52 | MHz | Primær | 1000 | 18 kHz |  |
+| 69,9–70,5 | MHz | Sekundær | 100 | 18 kHz | 1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending. |
+| 144–146 | MHz | Primær | 300 | 18 kHz | 1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending. |
+| 432–438 | MHz | Primær | 300 | 30 kHz | 1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending.<br>Båndbredde 200 kHz er tillatt i frekvensområdet 433,6–434,0 MHz |
+| 1240–1300 | MHz | Sekundær | 300 | 20 MHz | Allokeringen gjelder til og med 31. desember 2027. Fra 1. januar 2028 kan kun allokeringene nedenfor benyttes.<br>1000 W tillates brukt til EME og MS forutsatt bruk av retningsantenne og logging av tid, asimut og elevasjon ved sending. |
+| 1240–1258 | MHz | Sekundær | 300 | 18 MHz |  |
+| 1258–1296 | MHz | Sekundær | 0,02 | 150 kHz | Målt som utstrålt effekt e.i.r.p.<br>Kommunikasjon mot satellitt er tillatt i frekvensområdet 1260-1270 MHz.<br>For kommunikasjon mot satellitt i frekvensområdet 1260 til 1262 MHz er tillatt utstrålt effekt avhengig av elevasjonsvinkel (Ɵ) over horisonten:<br>0° < Ɵ < 15°: 0,5 W e.i.r.p.<br>15° ≤ Ɵ < 55°: 50 W e.i.r.p.<br>55° ≤ Ɵ < 90°: 478 W e.i.r.p.<br>I frekvensområdet 1258–1300 MHz og med en båndbredde større enn 150 kHz, inkludert amatør TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p. |
+| 1296–1298 | MHz | Sekundær | 50 | 150 kHz | I frekvensområdet 1258–1300 MHz og med en båndbredde større enn150 kHz, inkludert amatør-TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p. |
+| 1298–1300 | MHz | Sekundær | 158 | 150 kHz | For EME tillates sendereffekt på 500 W forutsatt bruk av retningsbestemt antenne med minimum 30 dBi forsterkning og minimum elevasjonsvinkel 15° over horisonten.<br>I frekvensområdet 1258–1300 MHz og med en båndbredde større enn 150 kHz, inkludert amatør TV (ATV), er maksimal tillatt utstrålt effekt 0,02 W/1 MHz e.i.r.p. |
+| 2300–2450 | MHz | Sekundær | 100 | 20 MHz |  |
+| 3400–3410 | MHz | Sekundær | 100 | 7 MHz |  |
+| 5650–5850 | MHz | Sekundær | 100 | 20 MHz |  |
+| 10,25–10,50 | GHz | Sekundær | 100 | 50 MHz |  |
+| 24,0–24,05 | GHz | Primær | 100 | 50 MHz |  |
+| 24,05–24,25 | GHz | Sekundær | 100 | 50 MHz |  |
+| 47,0–47,2 | GHz | Primær | 100 | 50 MHz |  |
+| 76,0–77,5 | GHz | Sekundær | 100 | 50 MHz |  |
+| 77,5–78 | GHz | Primær | 100 | 50 MHz |  |
+| 78–81 | GHz | Sekundær | 100 | 50 MHz |  |
+| 122,25–123 | GHz | Sekundær | 100 | 50 MHz |  |
+| 134–136 | GHz | Primær | 100 | 50 MHz |  |
+| 136–141 | GHz | Sekundær | 100 | 50 MHz |  |
+| 241–248 | GHz | Sekundær | 100 | 50 MHz |  |
+| 248–250 | GHz | Primær | 100 | 50 MHz |  |
 
 Radiotjenester med primær status har samme rettigheter i samme frekvensbånd. Radiotjenester med sekundær status skal ikke forstyrre radiotjenester med primær status og må akseptere forstyrrelser fra slike.
 

@@ -88,13 +88,23 @@ Med tillatelse menes i denne forskrift enhver godkjenning, verifikasjon, deklara
 
 ### § 10. Gebyr for teoriprøver – piloter
 
-(1) For teoriprøver betales gebyr etter følgende satser (elektronisk eller papirbasert eksamen):*SPL eller BPL*For teoriprøver i 3 eller flere fag avlagt under en og samme eksamen1 100For teoriprøver i 1 eller 2 fag avlagt under separate eksamener betales gebyr pr. prøve360
+(1) For teoriprøver betales gebyr etter følgende satser (elektronisk eller papirbasert eksamen):
+
+|  | *SPL eller BPL* |
+| --- | --- |
+| For teoriprøver i 3 eller flere fag avlagt under en og samme eksamen | 1 100 |
+| For teoriprøver i 1 eller 2 fag avlagt under separate eksamener betales gebyr pr. prøve | 360 |
 
 (2) Det må betales gebyr også for prøve som ikke bestås eller ikke er gjennomført på grunn av forhold hos kandidaten. Ved behov for ny(e) prøve(r) betales gebyr som for enkeltprøver.
 
 ### § 11. Gebyr for utstedelse av sertifikat og rettigheter etter ferdighetsprøve (skill test) – piloter
 
-(1) For utstedelse av sertifikat og rettighet basert på avlagt ferdighetsprøve betales gebyr etter følgende satser:*SPL eller BPL*a) første gangs utstedelse av sertifikat1 520b) utstedelse nye rettigheter og privilegier1 280
+(1) For utstedelse av sertifikat og rettighet basert på avlagt ferdighetsprøve betales gebyr etter følgende satser:
+
+|  | *SPL eller BPL* |
+| --- | --- |
+| a) første gangs utstedelse av sertifikat | 1 520 |
+| b) utstedelse nye rettigheter og privilegier | 1 280 |
 
 (2) Gebyret dekker ikke honorar for kontrollant, leie av luftfartøy eller andre kostnader i tilknytning til ferdighetsprøven.
 
@@ -108,7 +118,16 @@ Med tillatelse menes i denne forskrift enhver godkjenning, verifikasjon, deklara
 
 (1) Gebyr for utdannings- og skoletillatelser dekker kostnader ved blant annet gjennomgåelse av dokumentasjon av faginnhold og sammensetning, studieplan og eventuell inspeksjon før godkjenning gis.
 
-(2) For utdannings- og skoletillatelser betales gebyr og årsgebyr etter følgende satser:*Gebyrbelagt aktivitet for deklarerte treningsorganisasjoner (DTO)**Første gangs godkjennelse**Årsgebyr*Verifikasjon/godkjennelse av deklarasjon/søknad og treningsprogram5 450Virksomhetstilsyn og oppfølging6 750Tillegg pr. utdanningssted2 450Verifikasjon/godkjennelse av deklarasjon/søknad og treningsprogram for ny luftsportsgren4 220Virksomhetstilsyn og oppfølging for ny luftsportsgren4 900Tillegg pr. utdanningssted for ny luftsportsgren2 080
+(2) For utdannings- og skoletillatelser betales gebyr og årsgebyr etter følgende satser:
+
+| *Gebyrbelagt aktivitet for deklarerte treningsorganisasjoner (DTO)* | *Første gangs godkjennelse* | *Årsgebyr* |
+| --- | --- | --- |
+| Verifikasjon/godkjennelse av deklarasjon/søknad og treningsprogram | 5 450 |  |
+| Virksomhetstilsyn og oppfølging |  | 6 750 |
+| Tillegg pr. utdanningssted |  | 2 450 |
+| Verifikasjon/godkjennelse av deklarasjon/søknad og treningsprogram for ny luftsportsgren | 4 220 |  |
+| Virksomhetstilsyn og oppfølging for ny luftsportsgren |  | 4 900 |
+| Tillegg pr. utdanningssted for ny luftsportsgren |  | 2 080 |
 
 (3) Årsgebyr skal dekke kostnadene med virksomhetstilsyn og oppfølging av organisasjonen.
 

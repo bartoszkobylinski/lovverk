@@ -92,6 +92,8 @@ I denne forordning menes med«penger»: finansielle aktiva og fordeler av enhver
 3. Vedlegg II inneholder en liste over de personene som den internasjonale undersøkelseskommisjonen har fastslått er ansvarlige for hendelsene 28. september 2009 i Republikken Guinea, samt fysiske eller juridiske personer, enheter eller organer som er assosiert med dem, og som Rådet har oppført på listen i samsvar med artikkel 4 nr. 1 i rådsbeslutning 2010/638/FUSP av 25. oktober 2010 om restriktive tiltak rettet mot Republikken Guinea.1
 4. Det er forbudt forsettlig å delta i aktiviteter som har som formål eller følge å omgå forbudene nevnt i nr. 1 og 2.
 
+1 EUT L 280 av 26.10.2010, s. 10.
+
 ### Artikkel 7
 
 Forbudene i artikkel 6 nr. 2 skal ikke medføre noen form for ansvar for fysiske og juridiske personer, enheter eller organer som har stilt penger eller formuesgoder til rådighet, dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med disse forbudene.
@@ -180,8 +182,80 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 ## Vedlegg II
 
+*Annex 2: List of natural and legal persons, entities or bodies referred to in Article 6(3)*
+
+|  | *Name*<br>*(and possible aliases)* | *Identifying information*<br>*(date and place of birth (d.o.b. and p.o.b.), passport (Pass.)/ID card number, etc.)* | *Reasons* |
+| --- | --- | --- | --- |
+| 1. | Captain Moussa Dadis CAMARA | d.o.b: 01.01.64 or 29.12.68 Pass: R0001318 | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 2. | Commandant Moussa Tiégboro CAMARA | d.o.b: 01.01.68 Pass: 7190 | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 3. | Colonel Dr. Abdoulaye Chérif DIABY | d.o.b: 26.02.57 Pass: 13683 | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 4. | Lieutenant Aboubacar Chérif (alias Toumba) DIAKITÉ |  | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea |
+| 5. | Lieutenant Jean-Claude PIVI (alias Coplan) | d.o.b: 01.01.60 | Person identified by the International Commission of Inquiry as responsible for the 28 September 2009 events in Guinea. |
+
 ## Vedlegg III
 
 [Lenker er gjengitt som i Utenriksdepartementets kunngjøring i Norsk Lovtidend, Lovdatas anm.]
+
+*Websites for information on the competent authorities and address for notification to the European Commission*
+
+BELGIUM
+
+[http://www.diplomatie.be/eusanctions](https://www.diplomatie.be/eusanctions)
+
+BULGARIA[http://www.mfa.bg/en/pages/135/index.html](https://www.mfa.bg/en/pages/135/index.html)
+
+CZECH REPUBLIC[http://www.mfcr.cz/mezinarodnisankce](https://www.mfcr.cZ/meZinarodnisankce)
+
+DENMARK[http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/](https://um.dk/da/politik-og-diplomati/retsorden/sanktioner/)
+
+GERMANY[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html](https://www.bmwi.de/de/themen/aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html)
+
+ESTONIA[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+IRELAND[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+GREECE[http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN[http://alturl.com/mwddj](https://alturl.com/mwddj)
+
+FRANCE[http://www.diplomatie.gouv.fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/autorites-sanctions/)
+
+CROATIA[http://www.mvep.hr/sankcije](https://www.mvep.hr/sankcije)
+
+ITALY[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/mae/it/politica_europea/deroghe.htm)
+
+CYPRUS[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)
+
+LATVIA[http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+LITHUANIA[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+LUXEMBOURG[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+
+HUNGARY[http://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/](https://www.kulugyminisZterium.hu/kum/hu/bal/kulpolitikank/nemZetkoZi_sZankciok/)
+
+MALTA[http://alturl.com/qsrxf](https://alturl.com/qsrxf)
+
+NETHERLANDS[www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties](https://alturl.com/ucnf5)
+
+AUSTRIA[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version](https://www.bmeia.gv.at/view.php3?f_id=12750&lng=en&version)=
+
+POLAND[http://www.msz.gov.pl](https://www.msZ.gov.pl)
+
+PORTUGAL[http://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+
+ROMANIA[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+SLOVENIA[http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/](https://www.mZZ.gov.si/si/Zunanja_politika_in_mednarodno_pravo/Zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/)
+
+SLOVAKIA[http://www.mzv.sk/sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mZv.sk/sk/europske_ZaleZitosti/europske_politiky-sankcie_eu)
+
+FINLAND[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+SWEDEN[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+UNITED KINGDOM[https://www.gov.uk/sanctions-embargoes-and-restrictions](https://www.gov.uk/sanctions-embargoes-and-restrictions)
+
+Address for notifications to the European Commission:European CommissionService for Foreign Policy Instruments (FPI)EEAS 02/309B-1049 BrusselsBelgiummE-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 > Endret ved [forskrift 21 des 2015 nr. 1850](forskrift/2015-12-21-1850).

@@ -26,23 +26,45 @@ eu_basis: []
 
 I [forskrift 24. mai 2017 nr. 2480 om fastsetting av inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten](forskrift/2017-05-24-2480) gjøres følgende endringer:
 
+2 a. andre ledd skal lyde:
+
 - Lensmannsdistriktet ivaretar politimessige gjøremål for kommunene Eidsvoll, Hurdal og Nes.
+
+2 b. andre ledd skal lyde:
 
 - Lensmannsdistriktet ivaretar politimessige gjøremål for kommunene Ullensaker, Nannestad, og Gjerdrum, med unntak av politimessige gjøremål på Gardermoen lufthavn som ivaretas av Gardermoen politistasjonsdistrikt.
 
+2 c. siste setning i siste ledd utgår.
+
+2 d. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Indre Østfold, Marker og Skiptvet.
+
+2 e. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Moss, Våler og Råde.
 
+2 f. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Fredrikstad og Hvaler.
+
+2 g. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Sarpsborg og Rakkestad.
 
+2 h. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Halden og Aremark.
+
+2 i. andre ledd skal lyde:
 
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for Oslo lufthavn Gardermoen.
 
+2 j. andre ledd skal lyde:
+
 - Politistasjonsdistriktet ivaretar politimessige gjøremål for kommunene Nordre Follo, Enebakk, Nesodden, Frogn, Vestby og Ås.
+
+2 k. skal lyde:
 
 - Namsfogden i Øst ivaretar sivilrettslige gjøremål for kommunene Eidsvoll, Hurdal, Nes, Ullensaker, Nannestad, Gjerdrum, Lillestrøm, Lørenskog, Nittedal, Rælingen, Aurskog-Høland, Indre Østfold, Marker, Skiptvet, Moss, Våler, Råde, Fredrikstad, Hvaler, Sarpsborg, Rakkestad, Halden, Aremark, Nordre Follo, Enebakk, Nesodden, Frogn, Vestby og Ås.
 

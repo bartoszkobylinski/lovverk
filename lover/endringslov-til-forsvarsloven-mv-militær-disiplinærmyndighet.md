@@ -24,13 +24,16 @@ eu_basis: []
 
 ## VI
 
-Militærpolitiet, offiserer og befal kan etterforske de straffesaker som fremgår av [lov om politimyndighet i forsvaret § 5](lov/1988-05-20-33/§5).
+I [lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker](lov/1981-05-22-25) gjøres følgende endringer:
 
-Personer som nevnt i første ledd likestilles med polititjenestemenn ved etterforskning og bruk av tvangsmidler.
+– – –
 
-Påtalemyndigheten kan i etterforskningen gi pålegg til personer som nevnt i første ledd.
+– – –
 
 ## IX
 
 1. Loven gjelder fra den tid Kongen bestemmer.1 De enkelte bestemmelsene kan settes i kraft til ulik tid.
 2. Kongen kan gi nærmere overgangsregler.
+
+1 Fra 1. juli 2024 for del I–V og del VII og VIII iflg. [res. 31 mai 2024 nr. 875](forskrift/2024-05-31-875).
+Fra 1. juli 2024 for del VI, med unntak av § 464, iflg. [res. 14 juni 2024 nr. 1007](forskrift/2024-06-14-1007).

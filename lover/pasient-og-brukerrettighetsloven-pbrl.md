@@ -44,6 +44,8 @@ I loven her menes medpasient: en person som henvender seg til helse- og omsorgst
 
 > Endret ved lover [30 juni 2006 nr. 45](lov/2006-06-30-45) (ikr. 1 jan 2007 iflg. [res. 15 des 2006 nr. 1422](forskrift/2006-12-15-1422)), [24 juni 2011 nr. 30](lov/2011-06-24-30) (ikr. 1 jan 2012 iflg. [res. 16 des 2011 nr. 1252](forskrift/2011-12-16-1252)), [26 mars 2010 nr. 9](lov/2010-03-26-9) (ikr. 1 juli 2013 iflg. [res. 5 apr 2013 nr. 338](forskrift/2013-04-05-338), endring endret ved lov [5 apr 2013 nr. 12](lov/2013-04-05-12)), [16 juni 2017 nr. 53](lov/2017-06-16-53) (ikr. 1 jan 2018 iflg. [res. 8 des 2017 nr. 1951](forskrift/2017-12-08-1951)).
 
+1 Jf. [lov 30 apr 1993 nr. 40](lov/1993-04-30-40) (opph.). Se nå [el. § 111](lov/1991-07-04-47/§111).
+
 ### § 1-4. Folkerettslige forpliktelser om trygdekoordinering
 
 Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.
@@ -765,6 +767,8 @@ Departementet kan gi forskrifter til gjennomføring og utfylling av bestemmelsen
 ### § 9-1. Ikrafttredelse
 
 Loven trer i kraft fra den tid1 Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelsene i loven skal tre i kraft til forskjellig tid.
+
+1 Fra 1 jan 2001 iflg. [res. 1 des 2000 nr. 1198](forskrift/2000-12-01-1198) med unntak av § 2-5 som ble satt ikr. 1 juli 2001 iflg. [res. 8 juni 2001 nr. 595](forskrift/2001-06-08-595).
 
 ### § 9-2. Endringer i andre lover
 

@@ -24,7 +24,29 @@ eu_basis: []
 
 ## § 1. Faglig innhold
 
-Videreutdanning i aldring og eldreomsorg skal bestå av følgende hoved- og delemner med angitte studiepoeng:Hovedemne 1Aldring og eldre menneskers livsvilkår12 studiepoengDelemner:1A: Normal aldring6 studiepoeng1B: Aldring i sosiologisk, demografisk og kulturelt perspektiv6 studiepoengHovedemne 2Sykdom, funksjonssvikt og mestring i eldre år18 studiepoengDelemner:2A: Somatiske sykdommer relatert til høy alder2B: Alderspsykiatri og aldersdemens2C: Mestring, sorg- og tapsreaksjoner i alderdommenHovedemne 3Organisering og utøvelse av helse- og omsorgstjenester til eldre mennesker30 studiepoengDelemner:3A: Organisering av helse- og omsorgstjenester6 studiepoeng3B: Yrkesutøvelse og arbeidsmåter9 studiepoeng + fordypningstema 9 studiepoeng3C: Kvalitetsutvikling6 studiepoeng
+Videreutdanning i aldring og eldreomsorg skal bestå av følgende hoved- og delemner med angitte studiepoeng:
+
+|  |  |
+| --- | --- |
+| Hovedemne 1 |  |
+| Aldring og eldre menneskers livsvilkår | 12 studiepoeng |
+| Delemner: |  |
+| 1A: Normal aldring | 6 studiepoeng |
+| 1B: Aldring i sosiologisk, demografisk og kulturelt perspektiv | 6 studiepoeng |
+|  |  |
+| Hovedemne 2 |  |
+| Sykdom, funksjonssvikt og mestring i eldre år | 18 studiepoeng |
+| Delemner: |  |
+| 2A: Somatiske sykdommer relatert til høy alder |  |
+| 2B: Alderspsykiatri og aldersdemens |  |
+| 2C: Mestring, sorg- og tapsreaksjoner i alderdommen |  |
+|  |  |
+| Hovedemne 3 |  |
+| Organisering og utøvelse av helse- og omsorgstjenester til eldre mennesker | 30 studiepoeng |
+| Delemner: |  |
+| 3A: Organisering av helse- og omsorgstjenester | 6 studiepoeng |
+| 3B: Yrkesutøvelse og arbeidsmåter | 9 studiepoeng + fordypningstema 9 studiepoeng |
+| 3C: Kvalitetsutvikling | 6 studiepoeng |
 
 Høgskolens styre fastsetter nærmere bestemmelser om fordypningstema under delemne 3B
 

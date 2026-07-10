@@ -24,9 +24,409 @@ eu_basis: []
 
 Kapitlene 1 til 13, 17 til 24, 26, 27, 30 og 31 trer i kraft fra og med det konstituerende møtet1 i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023. Det konstituerende møtet skal finne sted innen utgangen av oktober 2019, jf. [kommuneloven § 7-1](lov/2018-06-22-83/§7-1). [Kapitlene 14](lov/2018-06-22-83/kap14), [15](lov/2018-06-22-83/kap15), [16](lov/2018-06-22-83/kap16), [28](lov/2018-06-22-83/kap28) og [29](lov/2018-06-22-83/kap29) trer i kraft 1. januar 2020, med unntak for [kap. 25](lov/2018-06-22-83/kap25), iflg. [kgl.res. 20. des 2018 nr. 2062](forskrift/2018-12-20-2062). § 31-6 trer i kraft 1. november 2019, iflg. [kgl.res. 25 juni 2019 nr. 879](forskrift/2019-06-25-879).
 
+1 Se vedlegg.
+
 ## Vedlegg
 
-KommuneDato for konstitueringTroms og FinnmarkAlta22. oktoberBerlevåg10. oktoberBåtsfjord09. oktoberGamvik10. oktoberHasvik10. oktoberHammerfest10. oktoberKautokeino31. oktoberLebesby24. oktoberLoppa25. oktoberMåsøy10. oktoberNesseby24. oktoberNordkapp15. oktoberPorsanger17. oktoberSør-Varanger09. oktoberTana10. oktoberVadsø24. oktoberVardø29. oktoberBalsfjord23. oktoberBardu09. oktoberDyrøy10. oktoberGratangen24. oktoberHarstad10. oktoberIbestad03. oktoberKarlsøy16. oktoberKvæfjord03. oktoberKvænangen09. oktoberKåfjord01. oktoberLavangen03. oktoberLyngen08. oktoberMålselv02. oktoberNordreisa24. oktoberSalangen07. oktoberSenja30. oktoberSkjervøy16. oktoberStorfjord09. oktoberSørreisa17. oktoberTjeldsund22. oktoberTromsø16. oktoberNordlandAlstahaug16. oktoberAndøy14. oktoberBeiarn15. oktoberBindal24. oktoberBodø3. oktoberBrønnøy23. oktoberBø10. oktoberDønna8. oktoberEvenes8. oktoberFauske3. oktoberFlakstad1.oktoberGildeskål8. oktoberGrane16. oktoberHadsel17. oktoberHamarøy (Hamarøy, Tysfjord)24. oktoberHattfjelldal30. oktoberHemnes1.oktoberHerøy24. oktoberLeirfjord18. oktoberLurøy31. oktoberLødingen3. oktoberMeløy24. oktoberMoskenes17. oktoberNarvik (Narvik, Ballangen, Tysfjord)17. oktoberNesna23. oktoberRana8. oktoberRødøy31. oktoberRøst9. oktoberSaltdal24. oktoberSortland17. oktoberSteigen8. oktoberSømna17. oktoberSørfold15. oktoberTræna16. oktoberVefsn30. oktoberVega22. oktoberVestvågøy3. oktoberVevelstad14. oktoberVærøy15. oktoberVågan14. oktoberØksnes8. oktoberSvalbardLongyearbyen lokalstyre
-se [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402)28. oktoberTrøndelagTrondheim17. oktoberSteinkjer02. oktoberNamsos24. oktoberFrøya24. oktoberOsen23. oktoberOppdal23. oktoberRennebu03. oktoberRøros24. oktoberHoltålen17. oktoberMidtre Gauldal10. oktoberMelhus29. oktoberSkaun17. oktoberMalvik14. oktoberSelbu07. oktoberTydal17. oktoberMeråker28. oktoberStjørdal03. oktoberFrosta15. oktoberLevanger16. oktoberVerdal14. oktoberSnåase-Snåsa03. oktoberLierne03. oktoberRøyrvik15. oktoberNamsskogan15. oktoberGrong17. oktoberHøylandet03. oktoberOverhalla22. oktoberFlatanger03. oktoberLeka24. oktoberInderøy04. oktoberIndre Fosen03. oktoberHeim17. oktoberHitra10. oktoberØrland03. oktoberÅfjord21. oktoberOrkland16. oktoberNærøysund15. oktoberRindal09. oktoberMøre og RomsdalFjord15. oktoberVolda24. oktoberHustadvika26. septemberÅlesund24. oktoberMolde24. oktoberKristiansund15. oktoberVanylven1. oktoberSande15. oktoberHerøy24. oktoberUlstein31. oktoberHareid24. oktoberØrsta2. oktoberStranda2. oktoberSykkylven30. septemberSula17. oktoberGiske16. oktoberVestnes3. oktoberRauma3. oktoberAukra22. oktoberAverøy30. septemberGjemnes8. oktoberTingvoll3. oktoberSunndal2. oktoberSurnadal17. oktoberSmøla24. oktoberAure3. oktoberVestlandBergen30. oktoberKinn25. septemberEtne3. oktoberSveio14. oktoberBømlo21. oktoberStord17. oktoberFitjar16. oktoberTysnes15. oktoberKvinnherad24. oktoberUllensvang23. oktoberEidfjord25. oktoberUlvik16. oktoberVoss17. oktoberKvam15. oktoberSamnanger24. oktoberBjørnafjorden15. oktoberAustevoll02. oktoberØygarden24. oktoberAskøy24. oktoberVaksdal14. oktoberModalen15. oktoberOsterøy16. oktoberAlver17. oktoberAustrheim31. oktoberFedje01. oktoberMasfjorden28. oktoberGulen17. oktoberSolund17. oktoberHyllestad03. oktoberHøyanger01. oktoberVik02. oktoberSogndal03. oktoberAurland03. oktoberLærdal17. oktoberÅrdal17. oktoberLuster17. oktoberAskvoll02. oktoberFjaler30. septemberSunnfjord18. oktoberBremanger03. oktoberStad24. oktoberGloppen25. septemberStryn22. oktoberAgderRisør10. oktoberGrimstad29. oktoberArendal10. oktoberKristiansand9. oktoberLindesnes26. septemberFarsund17. oktoberFlekkefjord24. oktoberGjerstad24. oktoberVegårshei9. oktoberTvedestrand22. oktoberFroland17. oktoberLillesand16. oktoberBirkenes10. oktoberÅmli10. oktoberIveland24. oktoberEvje og Hornnes10. oktoberBygland16. oktoberValle9. oktoberBykle10. oktoberVennesla17. oktoberÅseral10. oktoberLyngdal17. oktoberHægebostad10. oktoberKvinesdal16. oktoberSirdal10. oktoberVikenOslo23. oktoberHalden31. oktoberMoss09. oktoberSarpsborg17. oktoberFredrikstad17. oktoberDrammen08. oktoberKongsberg09. oktoberRingerike10. oktoberHvaler17. oktoberAremark17. oktoberMarker22. oktoberIndre Østfold09. oktoberSkiptvet15. oktoberRakkestad10. oktoberRåde17. oktoberVåler10. oktoberVestby07. oktoberNordre Follo17. oktoberÅs23. oktoberFrogn07. oktoberNesodden02. oktoberBærum23. oktoberAsker15. oktoberAurskog-Høland14. oktoberRælingen09. oktoberEnebakk28. oktoberLørenskog23. oktoberLillestrøm23. oktoberNittedal28. oktoberGjerdrum16. oktoberUllensaker15. oktoberNes (Ak.)08. oktoberEidsvoll15. oktoberNannestad08. oktoberHurdal09. oktoberHole07. oktoberFlå03. oktoberNesbyen10. oktoberGol08. oktoberHemsedal15. oktoberÅl17. oktoberHol02. oktoberSigdal10. oktoberKrødsherad24. oktoberModum14. oktoberØvre Eiker23. oktoberLier08. oktoberFlesberg17. oktoberRollag10. oktoberNore og Uvdal07. oktoberJevnaker10. oktoberLunner09. oktoberVestfold og TelemarkHorten15. oktoberHolmestrand16. oktoberTønsberg09. oktoberSandefjord24. oktoberLarvik23. oktoberPorsgrunn03. oktoberSkien17. oktoberNotodden17. oktoberFærder16. oktoberSiljan22. oktoberBamble10. oktoberKragerø17. oktoberDrangedal24. oktoberNome24. oktoberMidt-Telemark30. septemberTinn26. septemberHjartdal09. oktoberSeljord17. oktoberKviteseid03. oktoberNissedal17. oktoberInnlandetKongsvinger24. oktober 2019Hamar30. oktober 2019Ringsaker30. oktober 2019Løten02. oktober 2019Stange29. oktober 2019Nord-Odal16. oktober 2019Sør-Odal17. oktober 2019Eidskog15. oktober 2019Grue07. oktober 2019Åsnes28. oktober 2019Våler30. september 2019Elverum16. oktober 2019Trysil22. oktober 2019Åmot02. oktober 2019Stor-Elvdal30. oktober 2019Rendalen31. oktober 2019Engerdal23. oktober 2019Tolga03. oktober 2019Tynset01. oktober 2019Alvdal03. oktober 2019Folldal03. oktober 2019Os24. oktober 2019Lillehammer10. oktober 2019Gjøvik17. oktober 2019Dovre21. oktober 2019Lesja31. oktober 2019Skjåk22. oktober 2019Lom22. oktober 2019Vågå22. oktober 2019Nord-Fron15. oktober 2019Sel21. oktober 2019Sør-Fron22. oktober 2019Ringebu22. oktober 2019Øyer24. oktober 2019Gausdal17. oktober 2019Østre Toten16. oktober 2019Vestre Toten24. oktober 2019Jevnaker10. oktober 2019Lunner09. oktober 2019Gran24. oktober 2019Søndre Land14. oktober 2019Nordre Land17. oktober 2019Sør-Aurdal17. oktober 2019Etnedal10. oktober 2019Nord-Aurdal10. oktober 2019Vestre Slidre10. oktober 2019Øystre Slidre10. oktober 2019Vang17. oktober 2019RogalandBjerkreim kommune29. oktoberBokn kommune15. oktoberEigersund kommune14. oktoberGjesdal kommune14. oktoberHaugesund kommune16. oktoberHjelmeland kommune2. oktoberHå kommune17. oktoberKlepp kommune3. oktoberKvitsøy kommune22. oktoberLund kommune17. oktoberRandaberg kommune17. oktoberSandnes kommune21. oktoberSauda kommune9. oktoberSokndal kommune28. oktoberSola kommune17. oktoberStavanger kommune21. oktoberStrand kommune2. oktoberSuldal kommune1. oktoberTime kommune15. oktoberTysvær kommune24. oktoberUtsira kommune30. septemberVindafjord kommune21. oktoberFylkeskommunerViken17. oktoberVestfold og Telemark29. oktoberAgder23. oktoberRogaland15. oktoberVestland15. oktoberMøre og Romsdal14. oktoberTrøndelag16. oktoberNordland21. oktoberTroms og Finnmark28. oktoberInnlandet28. oktober
+| Kommune | Dato for konstituering |
+| --- | --- |
+| Troms og Finnmark |  |
+| Alta | 22. oktober |
+| Berlevåg | 10. oktober |
+| Båtsfjord | 09. oktober |
+| Gamvik | 10. oktober |
+| Hasvik | 10. oktober |
+| Hammerfest | 10. oktober |
+| Kautokeino | 31. oktober |
+| Lebesby | 24. oktober |
+| Loppa | 25. oktober |
+| Måsøy | 10. oktober |
+| Nesseby | 24. oktober |
+| Nordkapp | 15. oktober |
+| Porsanger | 17. oktober |
+| Sør-Varanger | 09. oktober |
+| Tana | 10. oktober |
+| Vadsø | 24. oktober |
+| Vardø | 29. oktober |
+| Balsfjord | 23. oktober |
+| Bardu | 09. oktober |
+| Dyrøy | 10. oktober |
+| Gratangen | 24. oktober |
+| Harstad | 10. oktober |
+| Ibestad | 03. oktober |
+| Karlsøy | 16. oktober |
+| Kvæfjord | 03. oktober |
+| Kvænangen | 09. oktober |
+| Kåfjord | 01. oktober |
+| Lavangen | 03. oktober |
+| Lyngen | 08. oktober |
+| Målselv | 02. oktober |
+| Nordreisa | 24. oktober |
+| Salangen | 07. oktober |
+| Senja | 30. oktober |
+| Skjervøy | 16. oktober |
+| Storfjord | 09. oktober |
+| Sørreisa | 17. oktober |
+| Tjeldsund | 22. oktober |
+| Tromsø | 16. oktober |
+
+| Nordland |  |
+| --- | --- |
+| Alstahaug | 16. oktober |
+| Andøy | 14. oktober |
+| Beiarn | 15. oktober |
+| Bindal | 24. oktober |
+| Bodø | 3. oktober |
+| Brønnøy | 23. oktober |
+| Bø | 10. oktober |
+| Dønna | 8. oktober |
+| Evenes | 8. oktober |
+| Fauske | 3. oktober |
+| Flakstad | 1.oktober |
+| Gildeskål | 8. oktober |
+| Grane | 16. oktober |
+| Hadsel | 17. oktober |
+| Hamarøy (Hamarøy, Tysfjord) | 24. oktober |
+| Hattfjelldal | 30. oktober |
+| Hemnes | 1.oktober |
+| Herøy | 24. oktober |
+| Leirfjord | 18. oktober |
+| Lurøy | 31. oktober |
+| Lødingen | 3. oktober |
+| Meløy | 24. oktober |
+| Moskenes | 17. oktober |
+| Narvik (Narvik, Ballangen, Tysfjord) | 17. oktober |
+| Nesna | 23. oktober |
+| Rana | 8. oktober |
+| Rødøy | 31. oktober |
+| Røst | 9. oktober |
+| Saltdal | 24. oktober |
+| Sortland | 17. oktober |
+| Steigen | 8. oktober |
+| Sømna | 17. oktober |
+| Sørfold | 15. oktober |
+| Træna | 16. oktober |
+| Vefsn | 30. oktober |
+| Vega | 22. oktober |
+| Vestvågøy | 3. oktober |
+| Vevelstad | 14. oktober |
+| Værøy | 15. oktober |
+| Vågan | 14. oktober |
+| Øksnes | 8. oktober |
+
+| Svalbard |  |
+| --- | --- |
+| Longyearbyen lokalstyre<br>se [vedtak 21 okt 2019 nr. 1402](forskrift/2019-10-21-1402) | 28. oktober |
+
+| Trøndelag |  |
+| --- | --- |
+| Trondheim | 17. oktober |
+| Steinkjer | 02. oktober |
+| Namsos | 24. oktober |
+| Frøya | 24. oktober |
+| Osen | 23. oktober |
+| Oppdal | 23. oktober |
+| Rennebu | 03. oktober |
+| Røros | 24. oktober |
+| Holtålen | 17. oktober |
+| Midtre Gauldal | 10. oktober |
+| Melhus | 29. oktober |
+| Skaun | 17. oktober |
+| Malvik | 14. oktober |
+| Selbu | 07. oktober |
+| Tydal | 17. oktober |
+| Meråker | 28. oktober |
+| Stjørdal | 03. oktober |
+| Frosta | 15. oktober |
+| Levanger | 16. oktober |
+| Verdal | 14. oktober |
+| Snåase-Snåsa | 03. oktober |
+| Lierne | 03. oktober |
+| Røyrvik | 15. oktober |
+| Namsskogan | 15. oktober |
+| Grong | 17. oktober |
+| Høylandet | 03. oktober |
+| Overhalla | 22. oktober |
+| Flatanger | 03. oktober |
+| Leka | 24. oktober |
+| Inderøy | 04. oktober |
+| Indre Fosen | 03. oktober |
+| Heim | 17. oktober |
+| Hitra | 10. oktober |
+| Ørland | 03. oktober |
+| Åfjord | 21. oktober |
+| Orkland | 16. oktober |
+| Nærøysund | 15. oktober |
+| Rindal | 09. oktober |
+
+| Møre og Romsdal |  |
+| --- | --- |
+| Fjord | 15. oktober |
+| Volda | 24. oktober |
+| Hustadvika | 26. september |
+| Ålesund | 24. oktober |
+| Molde | 24. oktober |
+| Kristiansund | 15. oktober |
+| Vanylven | 1. oktober |
+| Sande | 15. oktober |
+| Herøy | 24. oktober |
+| Ulstein | 31. oktober |
+| Hareid | 24. oktober |
+| Ørsta | 2. oktober |
+| Stranda | 2. oktober |
+| Sykkylven | 30. september |
+| Sula | 17. oktober |
+| Giske | 16. oktober |
+| Vestnes | 3. oktober |
+| Rauma | 3. oktober |
+| Aukra | 22. oktober |
+| Averøy | 30. september |
+| Gjemnes | 8. oktober |
+| Tingvoll | 3. oktober |
+| Sunndal | 2. oktober |
+| Surnadal | 17. oktober |
+| Smøla | 24. oktober |
+| Aure | 3. oktober |
+
+| Vestland |  |
+| --- | --- |
+| Bergen | 30. oktober |
+| Kinn | 25. september |
+| Etne | 3. oktober |
+| Sveio | 14. oktober |
+| Bømlo | 21. oktober |
+| Stord | 17. oktober |
+| Fitjar | 16. oktober |
+| Tysnes | 15. oktober |
+| Kvinnherad | 24. oktober |
+| Ullensvang | 23. oktober |
+| Eidfjord | 25. oktober |
+| Ulvik | 16. oktober |
+| Voss | 17. oktober |
+| Kvam | 15. oktober |
+| Samnanger | 24. oktober |
+| Bjørnafjorden | 15. oktober |
+| Austevoll | 02. oktober |
+| Øygarden | 24. oktober |
+| Askøy | 24. oktober |
+| Vaksdal | 14. oktober |
+| Modalen | 15. oktober |
+| Osterøy | 16. oktober |
+| Alver | 17. oktober |
+| Austrheim | 31. oktober |
+| Fedje | 01. oktober |
+| Masfjorden | 28. oktober |
+| Gulen | 17. oktober |
+| Solund | 17. oktober |
+| Hyllestad | 03. oktober |
+| Høyanger | 01. oktober |
+| Vik | 02. oktober |
+| Sogndal | 03. oktober |
+| Aurland | 03. oktober |
+| Lærdal | 17. oktober |
+| Årdal | 17. oktober |
+| Luster | 17. oktober |
+| Askvoll | 02. oktober |
+| Fjaler | 30. september |
+| Sunnfjord | 18. oktober |
+| Bremanger | 03. oktober |
+| Stad | 24. oktober |
+| Gloppen | 25. september |
+| Stryn | 22. oktober |
+
+| Agder |  |
+| --- | --- |
+| Risør | 10. oktober |
+| Grimstad | 29. oktober |
+| Arendal | 10. oktober |
+| Kristiansand | 9. oktober |
+| Lindesnes | 26. september |
+| Farsund | 17. oktober |
+| Flekkefjord | 24. oktober |
+| Gjerstad | 24. oktober |
+| Vegårshei | 9. oktober |
+| Tvedestrand | 22. oktober |
+| Froland | 17. oktober |
+| Lillesand | 16. oktober |
+| Birkenes | 10. oktober |
+| Åmli | 10. oktober |
+| Iveland | 24. oktober |
+| Evje og Hornnes | 10. oktober |
+| Bygland | 16. oktober |
+| Valle | 9. oktober |
+| Bykle | 10. oktober |
+| Vennesla | 17. oktober |
+| Åseral | 10. oktober |
+| Lyngdal | 17. oktober |
+| Hægebostad | 10. oktober |
+| Kvinesdal | 16. oktober |
+| Sirdal | 10. oktober |
+
+| Viken |  |
+| --- | --- |
+| Oslo | 23. oktober |
+| Halden | 31. oktober |
+| Moss | 09. oktober |
+| Sarpsborg | 17. oktober |
+| Fredrikstad | 17. oktober |
+| Drammen | 08. oktober |
+| Kongsberg | 09. oktober |
+| Ringerike | 10. oktober |
+| Hvaler | 17. oktober |
+| Aremark | 17. oktober |
+| Marker | 22. oktober |
+| Indre Østfold | 09. oktober |
+| Skiptvet | 15. oktober |
+| Rakkestad | 10. oktober |
+| Råde | 17. oktober |
+| Våler | 10. oktober |
+| Vestby | 07. oktober |
+| Nordre Follo | 17. oktober |
+| Ås | 23. oktober |
+| Frogn | 07. oktober |
+| Nesodden | 02. oktober |
+| Bærum | 23. oktober |
+| Asker | 15. oktober |
+| Aurskog-Høland | 14. oktober |
+| Rælingen | 09. oktober |
+| Enebakk | 28. oktober |
+| Lørenskog | 23. oktober |
+| Lillestrøm | 23. oktober |
+| Nittedal | 28. oktober |
+| Gjerdrum | 16. oktober |
+| Ullensaker | 15. oktober |
+| Nes (Ak.) | 08. oktober |
+| Eidsvoll | 15. oktober |
+| Nannestad | 08. oktober |
+| Hurdal | 09. oktober |
+| Hole | 07. oktober |
+| Flå | 03. oktober |
+| Nesbyen | 10. oktober |
+| Gol | 08. oktober |
+| Hemsedal | 15. oktober |
+| Ål | 17. oktober |
+| Hol | 02. oktober |
+| Sigdal | 10. oktober |
+| Krødsherad | 24. oktober |
+| Modum | 14. oktober |
+| Øvre Eiker | 23. oktober |
+| Lier | 08. oktober |
+| Flesberg | 17. oktober |
+| Rollag | 10. oktober |
+| Nore og Uvdal | 07. oktober |
+| Jevnaker | 10. oktober |
+| Lunner | 09. oktober |
+
+| Vestfold og Telemark |  |
+| --- | --- |
+| Horten | 15. oktober |
+| Holmestrand | 16. oktober |
+| Tønsberg | 09. oktober |
+| Sandefjord | 24. oktober |
+| Larvik | 23. oktober |
+| Porsgrunn | 03. oktober |
+| Skien | 17. oktober |
+| Notodden | 17. oktober |
+| Færder | 16. oktober |
+| Siljan | 22. oktober |
+| Bamble | 10. oktober |
+| Kragerø | 17. oktober |
+| Drangedal | 24. oktober |
+| Nome | 24. oktober |
+| Midt-Telemark | 30. september |
+| Tinn | 26. september |
+| Hjartdal | 09. oktober |
+| Seljord | 17. oktober |
+| Kviteseid | 03. oktober |
+| Nissedal | 17. oktober |
+
+| Innlandet |  |
+| --- | --- |
+| Kongsvinger | 24. oktober 2019 |
+| Hamar | 30. oktober 2019 |
+| Ringsaker | 30. oktober 2019 |
+| Løten | 02. oktober 2019 |
+| Stange | 29. oktober 2019 |
+| Nord-Odal | 16. oktober 2019 |
+| Sør-Odal | 17. oktober 2019 |
+| Eidskog | 15. oktober 2019 |
+| Grue | 07. oktober 2019 |
+| Åsnes | 28. oktober 2019 |
+| Våler | 30. september 2019 |
+| Elverum | 16. oktober 2019 |
+| Trysil | 22. oktober 2019 |
+| Åmot | 02. oktober 2019 |
+| Stor-Elvdal | 30. oktober 2019 |
+| Rendalen | 31. oktober 2019 |
+| Engerdal | 23. oktober 2019 |
+| Tolga | 03. oktober 2019 |
+| Tynset | 01. oktober 2019 |
+| Alvdal | 03. oktober 2019 |
+| Folldal | 03. oktober 2019 |
+| Os | 24. oktober 2019 |
+| Lillehammer | 10. oktober 2019 |
+| Gjøvik | 17. oktober 2019 |
+| Dovre | 21. oktober 2019 |
+| Lesja | 31. oktober 2019 |
+| Skjåk | 22. oktober 2019 |
+| Lom | 22. oktober 2019 |
+| Vågå | 22. oktober 2019 |
+| Nord-Fron | 15. oktober 2019 |
+| Sel | 21. oktober 2019 |
+| Sør-Fron | 22. oktober 2019 |
+| Ringebu | 22. oktober 2019 |
+| Øyer | 24. oktober 2019 |
+| Gausdal | 17. oktober 2019 |
+| Østre Toten | 16. oktober 2019 |
+| Vestre Toten | 24. oktober 2019 |
+| Jevnaker | 10. oktober 2019 |
+| Lunner | 09. oktober 2019 |
+| Gran | 24. oktober 2019 |
+| Søndre Land | 14. oktober 2019 |
+| Nordre Land | 17. oktober 2019 |
+| Sør-Aurdal | 17. oktober 2019 |
+| Etnedal | 10. oktober 2019 |
+| Nord-Aurdal | 10. oktober 2019 |
+| Vestre Slidre | 10. oktober 2019 |
+| Øystre Slidre | 10. oktober 2019 |
+| Vang | 17. oktober 2019 |
+
+| Rogaland |  |
+| --- | --- |
+| Bjerkreim kommune | 29. oktober |
+| Bokn kommune | 15. oktober |
+| Eigersund kommune | 14. oktober |
+| Gjesdal kommune | 14. oktober |
+| Haugesund kommune | 16. oktober |
+| Hjelmeland kommune | 2. oktober |
+| Hå kommune | 17. oktober |
+| Klepp kommune | 3. oktober |
+| Kvitsøy kommune | 22. oktober |
+| Lund kommune | 17. oktober |
+| Randaberg kommune | 17. oktober |
+| Sandnes kommune | 21. oktober |
+| Sauda kommune | 9. oktober |
+| Sokndal kommune | 28. oktober |
+| Sola kommune | 17. oktober |
+| Stavanger kommune | 21. oktober |
+| Strand kommune | 2. oktober |
+| Suldal kommune | 1. oktober |
+| Time kommune | 15. oktober |
+| Tysvær kommune | 24. oktober |
+| Utsira kommune | 30. september |
+| Vindafjord kommune | 21. oktober |
+
+| Fylkeskommuner |  |
+| --- | --- |
+| Viken | 17. oktober |
+| Vestfold og Telemark | 29. oktober |
+| Agder | 23. oktober |
+| Rogaland | 15. oktober |
+| Vestland | 15. oktober |
+| Møre og Romsdal | 14. oktober |
+| Trøndelag | 16. oktober |
+| Nordland | 21. oktober |
+| Troms og Finnmark | 28. oktober |
+| Innlandet | 28. oktober |
 
 > Vedlegg tilføyd 15 okt 2019 uten kunngjøring i Norsk Lovtidend. Redigert 21 okt 2019 uten kunngjøring i Norsk Lovtidend.

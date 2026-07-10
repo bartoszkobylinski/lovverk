@@ -22,6 +22,8 @@ eu_basis: []
 
 # Lov om barn og foreldre (barnelova)
 
+For ny barnelov sjå lov [20 juni 2025 nr. 40](lov/2025-06-20-40) (i kraft frå den tid Kongen fastset).
+
 ## Kapittel 1. Fødselsmelding
 
 > Overskriften endra med [lov 21 juni 2013 nr. 64](lov/2013-06-21-64) (ikr. 1 jan 2014 iflg. [res. 21 juni 2013 nr. 703](forskrift/2013-06-21-703)).
@@ -1117,6 +1119,8 @@ Kongen kan gje dei forskrifter som trengst til gjennomføring av lova.
 Lova her tek til å gjelde frå den tid Kongen fastset.1
 
 > Endra med [lov 20 juni 2003 nr. 40](lov/2003-06-20-40) (ikr. 1 apr 2004 iflg. [res. 20 juni 2003 nr. 728](forskrift/2003-06-20-728)), tidlegare § 69.
+
+1 Frå 1 jan 1982 iflg. [res. 20 nov 1981 nr. 1](forskrift/1981-11-20-1).
 
 ### § 88. Kva lova har å seie for barn som er født før lova tek til å gjelde.
 

@@ -152,6 +152,8 @@ Loven skal anvendes i samsvar med internasjonale regler Norge er bundet av.
 
 Loven gjelder fra den tid1 Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.
 
+1 Fra 19 okt 2020 iflg. [res. 9 okt 2020 nr. 2008](forskrift/2020-10-09-2008).
+
 ## § 17. Endring i andre lover
 
 I [lov 19. juni 1997 nr. 82](lov/1997-06-19-82) om pass skal [§ 8](lov/1997-06-19-82/§8) fjerde ledd lyde: – – –

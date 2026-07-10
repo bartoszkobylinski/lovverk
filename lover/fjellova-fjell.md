@@ -369,3 +369,5 @@ Kongen kan fastsette nærare forskrifter til gjennomføring av lova, herunder og
 ### § 39
 
 Lova tek til å gjelde frå den tid Kongen fastset.1 Frå same tid vert det gjort slike brigde i etternemnde lover: – – –
+
+1 Frå 1 jan 1976 iflg. res. 21 nov 1975 ([kap. XI](lov/1975-06-06-31/kapxi) frå 1 apr 1976).

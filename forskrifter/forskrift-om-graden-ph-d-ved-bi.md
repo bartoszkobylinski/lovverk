@@ -417,3 +417,5 @@ Dersom Handelshøyskolen BI eller klagenemda finner grunn til det, kan det oppne
 ### § 6-4. Ikrafttredelse
 
 Denne forskrift trer i kraft 1. august 2015. Fra samme tidspunkt oppheves Handelshøyskolen BIs doktorgradsreglement.1
+
+1 Ikke kunngjort i Norsk Lovtidend.

@@ -185,6 +185,8 @@ Ved tvangsfullbyrdelse etter kryptoeiendelsforordningen artikkel 133 nr. 3 føre
 
 (3) Departementet kan gi nærmere overgangsregler.
 
+1 Fra 1. juli 2025 iflg. [res. 27 mai 2025 nr. 867](forskrift/2025-05-27-867).
+
 ## § 20. Endringer i andre lover
 
 Fra den tiden loven her trer i kraft, gjøres følgende endringer i [lov 17. juni 2016 nr. 30 om EØS-finanstilsyn](lov/2016-06-17-30): – – –

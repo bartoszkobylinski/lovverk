@@ -434,4 +434,6 @@ Forskriften trer i kraft 1. juli 2009. Samtidig oppheves [forskrift 15. desember
 
 ## Vedlegg. Kontrollinstruks for periodisk kontroll av kjøretøy versjon 4.1
 
+For å lese vedlegget ser her: [(pdf)](static/SF/sf-20090513-0591-01-09.pdf)
+
 > Endret ved [forskrifter 29 okt 2010 nr. 1376](forskrift/2010-10-29-1376) (i kraft 1 nov 2010), [25 juni 2013 nr. 765](forskrift/2013-06-25-765) som endret ved [forskrift 29 okt 2013 nr. 1272](forskrift/2013-10-29-1272) (i kraft 31 des 2013), [1 nov 2012 nr. 1039](forskrift/2012-11-01-1039) (i kraft 8 juni 2015) som endret ved [forskrifter 30 sep 2014 nr. 1269](forskrift/2014-09-30-1269), [15 des 2014 nr. 1614](forskrift/2014-12-15-1614) og [26 mars 2015 nr. 283](forskrift/2015-03-26-283), [22 mai 2018 nr. 740](forskrift/2018-05-22-740) som endret ved [forskrift 27 sep 2018 nr. 1477](forskrift/2018-09-27-1477) (i kraft 1 okt 2018, nytt vedlegg tilføyd), endret ved [forskrift 19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [27 jan 2022 nr. 140](forskrift/2022-01-27-140) (i kraft 1 mars 2022), [20 nov 2023 nr. 1869](forskrift/2023-11-20-1869) (i kraft 3 jan 2024).

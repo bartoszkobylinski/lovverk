@@ -210,6 +210,8 @@ Rederiet skal i risikoanalysen innarbeide pålitelighets-/sårbarhetsanalyse fra
 
 > Endret ved [forskrift 11 april 2003 nr. 501](forskrift/2003-04-11-501) (i kraft 1 juli 2003).
 
+1 Jf. [forskrift av 11. april 2003 nr. 492](forskrift/2003-04-11-492) om redningsredskaper og evakuering på flyttbare innretninger.
+
 ### § 22. Krav til utstyr og systemer.
 
 1. Mulige enkeltfeil ved utstyr og systemer skal ikke føre til kritiske hendelser. Mulige kritiske enkeltfeil skal avdekkes gjennom pålitelighets/sårbarhetsanalyse og elimineres gjennom konstruksjonsmessige tiltak. Hvor eliminering ikke er mulig skal kritisk komponent, eventuelt deler av systemet angis i analysen med tilhørende forslag til systematisk valgte risikoreduserende tiltak. Herunder operative og vedlikeholdsmessige tiltak, samt krav til bemanning med kvalifikasjoner slik at sannsynlighet for svikt blir liten.

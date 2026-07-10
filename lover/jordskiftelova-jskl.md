@@ -994,6 +994,8 @@ Skogbruksmyndigheita skal gi jordskifteretten innsyn i saldo for skogfondreknesk
 
 Lova gjeld frå den tid Kongen fastset.1 Samstundes held [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte opp å gjelde.
 
+1 Frå 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736).
+
 ### § 9-6. Overgangsreglar
 
 Saker som er til behandling i jordskifterettane når lova her tek til å gjelde, skal behandlast ferdig etter [lov 21. desember 1979 nr. 77](lov/1979-12-21-77) om jordskifte.

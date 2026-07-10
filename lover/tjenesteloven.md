@@ -224,6 +224,8 @@ Kongen kan gi forskrifter til gjennomføring av loven i samsvar med EØS-retten.
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 28 des 2009 iflg. [res. 19 juni 2009 nr. 672](forskrift/2009-06-19-672).
+
 ### § 29. Endringer i andre lover
 
 Når loven trer i kraft, endres andre lover slik: – – –

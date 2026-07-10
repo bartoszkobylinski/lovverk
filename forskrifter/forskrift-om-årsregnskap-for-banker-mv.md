@@ -162,85 +162,217 @@ Forsikringskontrakter skal i konsernregnskap utarbeidet i samsvar med § 1-4 fø
 
 Resultatregnskapet skal ha følgende oppstillingsplan:
 
+1**Renteinntekter og lignende inntekter**
+
+1.1
+
 Renteinntekter beregnet etter effektivrentemetoden av utlån til og fordringer på kredittinstitusjoner og finansforetak
+
+1.2
 
 Renteinntekter beregnet etter effektivrentemetoden av utlån til og fordringer på kunder
 
+1.3
+
 Renteinntekter beregnet etter effektivrentemetoden av rentebærende verdipapirer
+
+1.4
 
 Andre renteinntekter beregnet etter effektivrentemetoden
 
+1.5
+
 Øvrige renteinntekter
+
+*Sum renteinntekter og lignende inntekter*
+
+2**Rentekostnader og lignende kostnader**
+
+2.1
 
 Rentekostnader beregnet etter effektivrentemetoden på gjeld til kredittinstitusjoner og finansieringsforetak
 
+2.2
+
 Rentekostnader beregnet etter effektivrentemetoden på innskudd fra og gjeld til kunder
+
+2.3
 
 Rentekostnader beregnet etter effektivrentemetoden på utstedte verdipapirer
 
+2.4
+
 Andre rentekostnader beregnet etter effektivrentemetoden
+
+2.5
 
 Øvrige rentekostnader
 
+*Sum rentekostnader og lignende kostnader*
+
+*I Netto renteinntekter*
+
+3**Provisjonsinntekter og inntekter fra banktjenester**
+
+4**Provisjonskostnader og kostnader ved banktjenester**
+
+5**Utbytte og andre inntekter av egenkapitalinstrumenter**
+
+5.1
+
 Inntekter av aksjer, andeler og andre egenkapitalinstrumenter
+
+5.2
 
 Inntekter av eierinteresser i tilknyttede selskaper og felleskontrollerte virksomheter
 
+5.3
+
 Inntekter av eierinteresser i konsernselskaper
+
+*Sum utbytte og andre inntekter av egenkapitalinstrumenter*
+
+6**Netto verdiendring og gevinst/tap på valuta og finansielle instrumenter**
+
+6.1
 
 Netto verdiendring og gevinst/tap på utlån og fordringer
 
+6.2
+
 Netto verdiendring og gevinst/tap på rentebærende verdipapirer
+
+6.3
 
 Netto verdiendring og gevinst/tap på aksjer og andre egenkapitalinstrumenter
 
+6.4
+
 Netto verdiendring og gevinst/tap på finansielle forpliktelser (med unntak av finansielle derivater)
+
+6.5
 
 Netto verdiendring og gevinst/tap på valuta og finansielle derivater
 
+6.6
+
 Netto verdiendring og gevinst/tap på finansielle garantier
+
+*Sum netto verdiendring og gevinst/tap på valuta og finansielle instrumenter*
+
+7**Andre driftsinntekter**
+
+8**Lønn og andre personalkostnader**
+
+9**Andre driftskostnader**
+
+10**Av-/nedskrivninger, verdiendringer og gevinst/tap på ikke-finansielle eiendeler**
+
+10.1
 
 Avskrivninger
 
+10.2
+
 Nedskrivninger
+
+10.3
 
 Verdiendringer
 
+10.4
+
 Gevinst/tap
+
+*Sum av-/nedskrivninger, verdiendringer og gevinst tap på ikke-finansielle eiendeler*
+
+11**Kredittap på utlån, garantier mv. og rentebærende verdipapirer**
+
+11.1
 
 Kredittap på utlån målt til amortisert kost eller virkelig verdi med verdiendring over andre inntekter og kostnader
 
+11.2
+
 Kredittap på utlån målt til virkelig verdi over resultat
+
+11.3
 
 Kredittap på garantier og ubenyttede rammekreditter som ikke måles til virkelig verdi over resultat
 
+11.4
+
 Kredittap på garantier og ubenyttede rammekreditter målt til virkelig verdi over resultat
+
+11.5
 
 Kredittap på rentebærende verdipapirer målt til amortisert kost eller virkelig verdi med verdiendring over andre inntekter og kostnader
 
+11.6
+
 Kredittap på rentebærende verdipapirer målt til virkelig verdi over resultat
+
+*Sum kredittap på utlån, garantier og rentebærende verdipapirer*
+
+*II Resultat for skatt fra videreført virksomhet*
+
+12**Skatt på resultat fra videreført virksomhet**
+
+*III Resultat etter skatt fra videreført virksomhet*
+
+13**Resultat fra virksomhet under avvikling etter skatt**
+
+*IV Resultat før andre inntekter og kostnader*
+
+14**Andre inntekter og kostnader**
+
+14.1
 
 Andre inntekter og kostnader som ikke blir omklassifisert til resultatet
 
+14.1.1
+
 Andre inntekter og kostnader knyttet til investeringer i egenkapitalinstrumenter
+
+14.1.2
 
 Estimatendringer knyttet til ytelsesbaserte pensjonsordninger
 
+14.1.3
+
 Endringer i virkelig verdi på finansielle forpliktelser som skyldes egen kredittrisiko
 
+14.1.4
+
 Øvrige andre inntekter og kostnader
+
+14.1.5
 
 Skatt på andre inntekter og kostnader som ikke blir omklassifisert til resultatet
 
+14.2
+
 Andre inntekter og kostnader som kan bli omklassifisert til resultatet
+
+14.2.1
 
 Andre inntekter og kostnader knyttet til investeringer i rentebærende verdipapirer
 
+14.2.2
+
 Effektiv andel av gevinster og tap på sikringsinstrumenter i kontantstrømsikring
+
+14.2.3
 
 Øvrige andre inntekter og kostnader
 
+14.2.4
+
 Skatt på andre inntekter og kostnader som kan bli omklassifisert til resultatet
+
+*Sum andre inntekter og kostnader*
+
+15**Totalresultat for regnskapsåret**
 
 > Endret ved [forskrifter 28 mai 1999 nr. 657](forskrift/1999-05-28-657) (i kraft 1 juli 1999), [20 des 2018 nr. 2206](forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).
 
@@ -248,85 +380,255 @@ Skatt på andre inntekter og kostnader som kan bli omklassifisert til resultatet
 
 Balansen skal ha følgende oppstillingsplan:
 
+EIENDELER
+
+1**Kontanter og kontantekvivalenter**
+
+2**Utlån til og fordringer på kredittinstitusjoner og finansieringsforetak**
+
+2.1
+
 Utlån og fordringer på kredittinstitusjoner og finansieringsforetak til virkelig verdi
+
+2.2
 
 Utlån og fordringer på kredittinstitusjoner og finansieringsforetak til amortisert kost
 
+*Sum utlån og fordringer på kredittinstitusjoner og finansieringsforetak*
+
+3**Utlån til og fordringer på kunder**
+
+3.1
+
 Utlån og fordringer på kunder til virkelig verdi
+
+3.2
 
 Utlån og fordringer på kunder til amortisert kost
 
+*Sum utlån og fordringer på kunder*
+
+4**Rentebærende verdipapirer**
+
+4.1
+
 Rentebærende verdipapirer til virkelig verdi
+
+4.2
 
 Rentebærende verdipapirer til amortisert kost
 
+*Sum rentebærende verdipapirer*
+
+5**Finansielle derivater**
+
+6**Aksjer, andeler og andre egenkapitalinstrumenter**
+
+7**Eierinteresser i tilknyttede selskaper og felleskontrollerte virksomheter**
+
+8**Eierinteresser i konsernselskaper**
+
+9**Immaterielle eiendeler**
+
+10**Investeringseiendom**
+
+11**Varige driftsmidler**
+
+11.1
+
 Eierbenyttet eiendom
+
+11.2
 
 Andre varige driftsmidler
 
+*Sum varige driftsmidler*
+
+12**Andre eiendeler**
+
+12.1
+
 Eiendeler ved utsatt skatt
+
+12.2
 
 Andre eiendeler
 
+*Sum andre eiendeler*
+
+13**Anleggsmidler og avhendingsgrupper holdt for salg**
+
+SUM EIENDELER
+
+GJELD OG EGENKAPITAL
+
+GJELD
+
+14**Innlån fra kredittinstitusjoner og finansieringsforetak**
+
+14.1
+
 Innlån fra kredittinstitusjoner og finansieringsforetak til virkelig verdi
+
+14.2
 
 Innlån fra kredittinstitusjoner og finansieringsforetak til amortisert kost
 
+*Sum innlån fra kredittinstitusjoner og finansieringsforetak*
+
+15**Innskudd og andre innlån fra kunder**
+
+15.1
+
 Innskudd og andre innlån fra kunder til virkelig verdi
+
+15.2
 
 Innskudd og andre innlån fra kunder til amortisert kost
 
+*Sum innskudd og andre innlån fra kunder*
+
+16**Gjeld stiftet ved utstedelse av verdipapirer**
+
+16.1
+
 Gjeld stiftet ved utstedelse av verdipapirer til virkelig verdi
+
+16.2
 
 Gjeld stiftet ved utstedelse av verdipapirer til amortisert kost
 
+*Sum gjeld stiftet ved utstedelse av verdipapirer*
+
+17**Finansielle derivater**
+
+18**Annen gjeld**
+
+19**Avsetninger**
+
+19.1
+
 Pensjonsforpliktelser
+
+19.2
 
 Forpliktelser ved skatt
 
+19.2.1
+
 Forpliktelser ved periodeskatt
+
+19.2.2
 
 Forpliktelser ved utsatt skatt
 
+19.3
+
 Avsetninger på garantier og ubenyttede rammekreditter
+
+19.4
 
 Andre avsetninger
 
+*Sum avsetninger*
+
+20**Ansvarlig lånekapital**
+
+20.1
+
 Ansvarlig lånekapital til virkelig verdi
+
+20.2
 
 Ansvarlig lånekapital til amortisert kost
 
+*Sum ansvarlig lånekapital*
+
+21**Fondsobligasjonskapital**
+
+21.1
+
 Fondsobligasjonskapital til virkelig verdi
+
+21.2
 
 Fondsobligasjonskapital til amortisert kost
 
+*Sum fondsobligasjonskapital*
+
+22**Forpliktelser inkludert i avhendingsgrupper klassifisert som holdt for salg**
+
+SUM GJELD
+
+EGENKAPITAL
+
+23**Innskutt egenkapital**
+
+23.1
+
 Selskapskapital
+
+23.1.1
 
 Preferanseaksjekapital
 
+23.1.2
+
 Aksjekapital/eierandelskapital
+
+23.1.3
 
 Beholdning av egne aksjer/egenkapitalbevis
 
+23.2
+
 Overkursfond
+
+23.3
 
 Kompensasjonsfond
 
+23.4
+
 Fondsobligasjonskapital
+
+23.5
 
 Annen innskutt egenkapital
 
+*Sum innskutt egenkapital*
+
+24**Opptjent egenkapital**
+
+24.1
+
 Fond for vurderingsforskjeller
+
+24.2
 
 Fond for urealiserte gevinster
 
+24.3
+
 Sparebankens fond
+
+24.4
 
 Gavefond
 
+24.5
+
 Utjevningsfond
 
+24.6
+
 Annen egenkapital
+
+*Sum opptjent egenkapital*
+
+SUM EGENKAPITAL
+
+SUM GJELD OG EGENKAPITAL
 
 > Endret ved [forskrifter 19 des 2003 nr. 1643](forskrift/2003-12-19-1643) (i kraft 1 jan 2004), [21 feb 2006 nr. 232](forskrift/2006-02-21-232) (fom regnskapsår 2006), [20 des 2018 nr. 2206](forskrift/2018-12-20-2206) (med virkning for regnskapsår påbegynt 1 jan 2020 eller senere).
 

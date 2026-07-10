@@ -72,6 +72,8 @@ Stamhusbesidderen er pligtig til at forestaa Midlernes Anbringelse saavelsom til
 
 De nærmere Forskrifter til Gjennemførelse af foranstaaende Bestemmelser saavelsom til Varetagelse af Stamhusets Tarv i det hele i Anledning af nærværende Lov gives af Kongen,1 der i fornødent Fald kan bestemme, at Midlernes Forvaltning helt eller delvis skal fratages Stamhusbesidderen.
 
+1 Gitt ved res. 26 juni 1896.
+
 ## § 10. (Opphevet)
 
 > Opphevet ved [lov 25 juni 1965 nr. 1](lov/1965-06-25-1).

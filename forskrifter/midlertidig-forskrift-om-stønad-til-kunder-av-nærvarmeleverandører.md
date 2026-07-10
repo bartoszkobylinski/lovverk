@@ -68,7 +68,7 @@ Søknaden skal sendes på den måten Norges vassdrags- og energidirektorat beste
 
 Det gis kun strømstønad dersom gjennomsnittlig månedlig elspotpris i området nærvarmeanlegget er lokalisert overstiger terskelverdi.
 
-Stønaden beregnes for hver måned etter følgende formel: $$\text{Stønadsbeløp} = \frac{\text{støtteberettiget varme}}{\text{systemvirkningsgrad}} \cdot (\text{gjennomsnittlig områdepris for strøm} - \text{terskelverdi}) \cdot \text{stønadsgrad}$$
+Stønaden beregnes for hver måned etter følgende formel: $$\\text{Stønadsbeløp} = \\frac{\\text{støtteberettiget varme}}{\\text{systemvirkningsgrad}} \\cdot (\\text{gjennomsnittlig områdepris for strøm} - \\text{terskelverdi}) \\cdot \\text{stønadsgrad}$$
 
 Systemvirkningsgraden er 2.
 

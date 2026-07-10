@@ -28,6 +28,8 @@ Departementets myndighet etter [lov 2. juli 2004 nr. 64 om ordning med brukerrom
 
 ## II
 
+I Helse- og omsorgsdepartementets [vedtak 18. mars 2010 nr. 425 om delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet](forskrift/2010-03-18-425) med senere endringer tilføyes i del I i punktet om delegering av myndighet etter [lov 2. juli 2004 nr. 64 om ordning med brukerrom for inntak av narkotika (brukerromsloven)](lov/2004-07-02-64), nytt punkt: – – –
+
 ## III
 
 Vedtaket trer i kraft fra 1. juli 2026.

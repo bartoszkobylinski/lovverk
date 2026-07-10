@@ -134,9 +134,13 @@ Virksomhet som er etablert og i drift ved ikrafttredelsen av denne forskrift, m�
 
 Merknadene er en veiledning for å utdype innholdet i den enkelte bestemmelse. Merknadene er i seg selv ikke bindende, men skal tjene som en veiledning. Forskriften og merknadene bør sees i sammenheng for å få en best mulig forståelse av forskriftens bestemmelser.
 
+*Til [§ 1](forskrift/1998-05-06-581/§1) Formål*
+
 Forskriftens virkeområde er virksomheter hvor behandler og gjenstander kommer i nær berøring med mange personer. Det er derfor fare for at mikrober overføres mellom personer og forårsaker sykdom. Forskriften har som formål å hindre dette, slik at kundene kan føle seg trygge på at smitte ikke overføres. Man skal forebygge overføring av smittsomme sykdommer, det vil si at man sørger for hygienerutiner som sikrer at smitterisikoen reduseres til et minimum. «Hygiene» er blant annet renhold av lokaler og gjenstander, ventilasjon og rutiner for behandlingen.
 
 Nye behov og ønsker melder seg hos publikum og ny teknologi tas i bruk i økende utstrekning, noe som kan skape nye muligheter for smitteoverføring. Helsemyndighetene må gjøre seg kjent med dette og være rede til å håndtere nye situasjoner. Hjemmelsgrunnlaget for å gripe inn vil i alle tilfelle være smittevernloven, folkehelseloven og denne forskriften.
+
+*Til [§ 2](forskrift/1998-05-06-581/§2) Virkeområde*
 
 «Penetrering av hud» er gjennomhulling av huden. Destruering av hud skjer blant annet ved svimerking og arring. Andre teknikker vil også omfattes. Avgjørende er om de innebærer gjennomhulling eller dyptgripende skading av huden. Akupunktur innebærer penetrering av hud, men akupunktur som er ledd i medisinsk behandling er uttrykkelig unntatt fra forskriften.
 
@@ -144,9 +148,13 @@ Medisinsk virksomhet omfattes av annen lovgivning og reguleres derfor ikke i den
 
 Amputasjon av ytre fingerledd, såkalt stumping, er forbudt etter helseprofesjonslovgivningen og omfattes derfor ikke av denne forskriften.
 
+*Til [§ 3](forskrift/1998-05-06-581/§3) Definisjoner*
+
 1. *Frisørvirksomhet:* Omfatter også farging av vipper og øyenbryn.
 2. *Hudpleie:* Omfatter for eksempel håndpleie (manikyr), fotpleie (pedikyr) og alle slags metoder for hårfjerning, for eksempel voksing og elektrolyse. Massasje i denne forskriftens forstand omfatter for eksempel aromaterapi og soneterapi, men omfatter ikke massasje som ledd i medisinsk behandling. Det er viktig å merke seg at solarier går inn under begrepet hudpleie. Det er kun hygienen ved solarier som reguleres i forskriften, og ikke kvaliteten ved behandlingen, som for eksempel styrken i lysrørene. Strålevernlovgivningen, herunder regler om styrken i lysrør regulerer spørsmålet om tilsyn med dette.
 3. *Tatovering*: Omfatter all tatoveringsvirksomhet, uansett teknikk.
+
+*Til [§ 4](forskrift/1998-05-06-581/§4) Ansvar og internkontrollsystem*
 
 Virksomheten skal drives på en hygienisk tilfredsstillende måte. Dette er hele forskriftens utgangspunkt. De mer detaljerte bestemmelsene i forskriften for øvrig er en presisering av dette kravet.
 
@@ -158,6 +166,10 @@ Et internkontrollsystem vil for eksempel inneholde en beskrivelse av rutiner for
 
 Dersom ansvaret ikke overholdes, kan kommunen nekte eller trekke tilbake godkjenning, kreve retting eller stansing, ilegge tvangsmulkt eller kreve straff, jf. forskriftens [§ 8](forskrift/1998-05-06-581/§8) til [§ 10](forskrift/1998-05-06-581/§10).
 
+*Til [§ 5](forskrift/1998-05-06-581/§5) Krav til virksomhetens lokaler og melding eller godkjenning av disse*
+
+*1) Om virksomhetens lokaler*
+
 Lokalene til virksomheter omfattet av forskriften må være innrettet slik at rengjøring og desinfeksjon av utstyr kan foretas uten at andre aktiviteter virker forstyrrende og at slike prosedyrer kan utføres på en hygienisk tilfredsstillende måte. For eksempel bør lokalet være utformet slik at kundene ikke behøver å gå gjennom behandlingsrommet for å komme til venterommet. Videre må det finnes tilstrekkelig med oppbevaringsmuligheter for brukt utstyr.
 
 I 2018 ble det presisert i forskriften at lokalene skal ha innlagt vann og tilstrekkelig antall vaskeservanter tilpasset virksomhetens art og størrelse. Kravet har tidligere vært innfortolket som en del av forskriftens krav til hygienisk tilfredsstillende utstyr og utøvelse, da det av hygienehensyn er nødvendig med vask av utstyr og utøverens hender. Mobile vaskeinnretninger vil i alminnelighet ikke gi tilstrekkelig mengder rennende vann eller høy nok temperatur for å sikre nødvendig vask av utstyr og utøverens hender. Kravet om innlagt vann og vaskeservanter innebærer ikke et krav om egen servant for hårvask i frisørvirksomheter. Videre bør lokalene i alminnelighet ha varmtvannsopplegg og toalett med håndvask, såpedispenser og engangshåndklær for ansatte med adgang for kunder. Som hovedregel bør ikke toalett deles med andre næringsdrivende i samme bygning. For større virksomheter der tallet på ansatte og kunder som samtidig oppholder seg i lokalene oftest er høyt, bør det være særskilt toalett for kunder.
@@ -165,6 +177,8 @@ I 2018 ble det presisert i forskriften at lokalene skal ha innlagt vann og tilst
 Det kan ikke drives utstrakt salgsvirksomhet i lokalene. Hvor grensen skal settes, beror på en hygienisk vurdering i det enkelte tilfellet. Lokalene kan heller ikke leies eller lånes ut utenom egen arbeidstid til person som driver annen virksomhet som ikke er omfattet av forskriften her, eller som må oppfylle tilsvarende hygienekrav etter annen bestemmelse.
 
 Det står i forskriften [§ 5](forskrift/1998-05-06-581/§5) andre ledd andre punktum at innredningen og utstyret skal tilpasses virksomhetens art og størrelse, samt hvor mange personer som oppholder seg i lokalene. Hvor streng man skal være i det enkelte tilfelle, vil bero på skjønn. Lokalenes utforming og innredning vil ha betydning for ev. godkjenning av lokalene.
+
+*2) Om melding eller godkjenning av virksomhetens lokaler*
 
 Kravet om melding og godkjenning ble endret i 2004. Tidligere skulle alle virksomheter omfattet av forskriften godkjennes. Endringen innebar at godkjenningsplikten for lokaler som benyttes til frisør- og hudpleievirksomhet ble erstattet av en meldeplikt, mens tatoverings- og hulltakingsvirksomhet fortsatt måtte godkjennes. Frisører eller hudpleievirksomheter som utfører såkalt enkel hulltaking eller «hull i ørene» vil regnes som hulltakingsvirksomheter og må dermed godkjennes.
 
@@ -184,11 +198,17 @@ Tatoverings- og hulltakingsvirksomhet som nevnt i [§ 2](forskrift/1998-05-06-58
 
 Den som eier eller driver virksomhet som omfattes av forskriften, må selvsagt også rette seg etter pålegg fra annet myndighetsorgan, for eksempel arbeidstilsynet, brannvesenet med flere.
 
+*Til [§ 6](forskrift/1998-05-06-581/§6) Krav til utstyr*
+
 Utstyr som benyttes til frisør-, hudpleie-, tatoverings- og hulltakingsvirksomhet, skal være behandlet på en hygienisk tilfredsstillende måte for å forebygge overføring av smittsomme sykdommer. Her konkretiseres hva som menes med hygienisk tilfredsstillende:
+
+*1) Metoder for hygienisk tilfredsstillende behandling av utstyr*
 
 Smittestoff skal fjernes fra arbeidsredskap og annet utstyr som brukes i behandlingen av kunder. Dette er en prosess som kan skje i tre trinn: Rengjøring, desinfeksjon og sterilisering.
 
 Rengjøring og desinfeksjon er metoder som alle virksomheter kan beherske og som i de fleste tilfeller er tilstrekkelig. Sterilisering derimot, krever utstyr og fagkunnskap som det ikke kan forlanges at alle virksomheter som omfattes av forskriften, har. For visse prosedyrer kreves det imidlertid sterilt utstyr.
+
+*2) Bruk av sterilt engangsutstyr*
 
 Når det kreves at utstyr skal være sterilt, betyr dette at alle mikrober skal være fullstendig fjernet fra vedkommende arbeidsredskap, inklusive sporeformer fra bakterier.
 
@@ -196,9 +216,15 @@ Et slikt krav stilles til alt utstyr som brukes når huden eller slimhinner pene
 
 Sterilt engangsutstyr fremstilles og steriliseres industrielt. Stadig flere produkter til forskjellig bruk kommer på markedet. Mange foretrekker sterilt engangsutstyr når slikt er tilgjengelig tatt i betraktning tidsbruk og andre omkostninger som går med til rengjøring, desinfeksjon og sterilisering av flergangsutstyr.
 
+*3) Bruk av flergangsutstyr*
+
 Det kreves at flergangsutstyr som brukes til penetrering av huden eller slimhinner skal være tilfredsstillende rengjort og sterilisert før det nyttes på en ny kunde. Annet utstyr rengjøres etter hver kunde og desinfiseres hvis det er blodtilsølt.
 
+a) *Rengjøring*
+
 Til rengjøring skal det brukes børste, varmt vann og såpe eller annet egnet rengjøringsmiddel, etterfulgt av skylling i rennende varmt vann. Det bør brukes oppvaskhansker. Arbeidsredskap som er tilsølt av blod, rester av fett og liknende skal desinfiseres før og etter rengjøringen.
+
+b) *Desinfeksjon*
 
 Desinfeksjon utføres for å fjerne eller uskadeliggjøre sykdomsfremkallende smittestoff. De fleste sykdomsfremkallende smittestoff kan drepes ved hjelp av varme eller kjemiske midler. Bakteriesporer kan imidlertid overleve.
 
@@ -208,35 +234,59 @@ Til kjemisk desinfeksjon nyttes et egnet godkjent desinfeksjonsmiddel.
 
 Arbeidsredskap som er desinfisert skal oppbevares slik at de ikke blir forurenset innen de skal tas i bruk på ny.
 
+c) *Sterilisering*
+
 Sterilisering er aktuelt for virksomheter som foretrekker å nytte flergangsutstyr til prosedyrer hvor huden eller slimhinner penetreres (tatovering, hulltaking) for eksempel fordi engangsutstyr ikke finnes på markedet eller er uforholdsmessig kostbart i bruk.
 
 Til sterilisering nyttes tørr eller fuktig varme. Mest aktuelt er bruk av tørrsterilisator som er et skap hvor instrumentene utsettes for kontinuerlig tørr varme i en bestemt tid:160 °C i 2 timer,170 °C i 1 time, eller180 °C i 30 minutter.
 
+*4) Spesielt om de enkelte virksomheter*
+
+a) *Frisørvirksomhet*
+
 Sakser, børster, kammer, hårruller og lignende vaskes godt i varmt vann og med rengjøringsmiddel og skylles deretter i rennende varmt vann etter hver kunde. Hvis det er kommet blod på slike redskap, skal de desinfiseres før rengjøringen. Til barbering bør høvel til engangsbruk nyttes. Brukes barber- eller klippemaskin, skal maskinhode og kniv rengjøres og desinfiseres etter hver kunde.
+
+b) *Hudpleie*
 
 Det er viktig at salver, kremer, sminke og liknende som anbringes på huden, ikke forurenses unødig. Er middelet beregnet på å tas ut av beholder (krukke eller liknende) skal dette ikke skje med fingrene, men med spatel til engangsbruk og eventuelt overføres fra spatel til pensel, hvis pensel skal nyttes. Må man ta ut middelet to eller flere ganger, skal ny spatel brukes for hvert uttak. Dette gjøres for å unngå bakterieforurensning av salvekrukke.
 
 Pensler til flergangsbruk rengjøres og desinfiseres etter hver kunde. Kompresser, bind og andre tekstiler som anbringes direkte på huden, skal være av engangstype.
 
+c) *Håndpleie*
+
 Sakser, filer og andre arbeidsredskap som brukes til negler, rengjøres og desinfiseres etter hver kunde.
 
+d) *Fotpleie*
+
 Det bør nyttes fotkar med innsats av engangsmateriale. Slipeverktøy og kniver (skalpeller) bør være av engangstype. Skaftet rengjøres og desinfiseres etter hver kunde. Sakser, filer, skraper og liknende til flergangsbruk skal rengjøres og desinfiseres etter hver kunde.
+
+e) *Tatovering*
 
 Hudoverflaten der tatoveringen skal foregå, skal desinfiseres tilfredsstillende. Se merknader til [§ 7](forskrift/1998-05-06-581/§7) om huddesinfeksjon.
 
 Det skal brukes sterile nåler og nåleholdere. Videre skal det brukes sterile fargeløsninger og fortynningsvæsker. Ved blanding eller fortynning skal det brukes sterile kar og instrumenter av engangstype som kasseres etter hver kunde. En ferdig tilberedt fargeløsning skal bare brukes på én kunde.
 
+f) *Hulltaking i ørene og andre kroppsdeler (piercingvirksomhet)*
+
 Ved hulltaking skal huden eller slimhinner på forhånd desinfiseres på tilfredsstillende måte. Se merknader til [§ 7](forskrift/1998-05-06-581/§7) om huddesinfeksjon.
 
 Det skal brukes sterile nåler og sterile tenger når slike nyttes under prosedyren. Stifter eller ringer som settes inn etter utført behandling eller inngrep skal være sterile og av anerkjent kvalitet, blant annet for å unngå allergier.
 
+*5) Tilsyn med utstyr*
+
 Kommunen skal som ledd i sitt tilsyn med virksomheter som omfattes av forskriften, påse at utstyr behandles på en slik måte at smitteoverføring forebygges og i samsvar med hva som er nevnt her.
+
+*6) Avfallshåndtering*
 
 Stikkende og skjærende redskaper og brukt blodforurenset utstyr skal samles opp i særskilte beholdere. Disse beholderne må tåle trykk og slag, uten at stikkende gjenstander kan trenge gjennom dem. Beholderne må holdes lukket. Ytterligere veiledning for avfallshåndtering kan gis av kommunen.
 
 Finner kommunen at behandlingen av utstyr ikke er tilfredsstillende, kan det kreve forholdene rettet, eventuelt forby fortsatt virksomhet inntil forholdene er rettet. Se kommentarer til [§ 8](forskrift/1998-05-06-581/§8).
 
+*Til [§ 7](forskrift/1998-05-06-581/§7) Generelle krav til utøvelsen*
+
 I det følgende omtales en del smittemuligheter og smittsomme sykdommer som de aktuelle virksomhetene særlig må verne seg mot.
+
+*1) Blodsmitte*
 
 For at overføring av smitte skal finne sted, må smitteførende blod fra en person trenge inn i kroppen hos en annen ved stikk eller kutt, eller ved kontakt med beskadiget hud eller slimhinne. Dette kan skje via instrumenter til flergangsbruk når disse ikke er tilfredsstillende rengjort og desinfisert mellom hver gang de brukes på en kunde. Dette kan også skje hvis en arbeidstaker er bærer av et smittestoff i sitt blod og ved uhell skjærer eller kutter seg. Slikt blod kan da ved uhell komme på instrumenter eller i kutt og sår i huden eller slimhinner hos kunden.
 
@@ -244,13 +294,19 @@ Aktuelle smittestoff er hepatitt B-, C- og D-virus (smittestoffer som gir smitts
 
 Risikoen for overføring gjennom blodsmitte anses størst ved tatovering. Hepatitt B-smitte og også HIV-smitte kan finne sted ved tatovering. Risikoen foreligger også ved hulltaking i ører og andre kroppsdeler. Videre kan det ved uhell oppstå stikk- eller skjæreskader både ved barbering, neglepleie og fotpleie slik at smitteførende blod kan forurense arbeidsredskap og smittestoff bli overført, hvis ikke arbeidsredskapet rengjøres og desinfiseres.
 
+*2) Hudinfeksjoner*
+
 Hudinfeksjoner kan oppstå når hudoverflaten skades, for eksempel ved hardhendt behandling med arbeidsredskap eller ved uhell, og når det stikkes hull i huden. Bakterier fra hudoverflaten eller fra urene arbeidsredskap kan da trenge ned i de dypere lag av huden og gi infeksjon.
 
 Aktuelle smittestoff er gule stafylokokker som finnes på huden over hele kroppen hos de fleste mennesker. Sjeldnere, men langt mer alvorlig er infeksjon med gruppe A streptokokker (GAS streptokokker). Også tarmbakterier kan gi hudinfeksjoner ved behandling av huden nær endetarmsåpningen og nedover bena.
 
 Som for blodsmitte anses risikoen for hudinfeksjoner å være størst ved tatovering og ved hulltaking dersom utøveren unnlater å foreta en grundig huddesinfeksjon på forhånd eller bruker usterilt utstyr.
 
+*3) Andre infeksjoner*
+
 Man vil også kunne få overført andre smittestoff som for eksempel sopp- og vortevirus når naken hud kommer i kontakt med underlag som er forurenset på grunn av mangelfullt renhold i lokalene. Hodelus eller luseegg kan overføres fra en kunde til en annen hvis ikke kammer, sakser og annet utstyr såpevaskes og rengjøres på en tilfredsstillende måte.
+
+*4) Hygienisk tilfredsstillende måte*
 
 I [§ 7](forskrift/1998-05-06-581/§7) første ledd heter det at virksomhet som omfattes av [§ 2](forskrift/1998-05-06-581/§2) skal utøves på en hygienisk tilfredsstillende måte for å forebygge overføring av smittsomme sykdommer. Her konkretiseres hva som menes med «hygienisk tilfredsstillende måte»:
 
@@ -262,9 +318,13 @@ Hvis utøveren har sår eller hudinfeksjoner som kan medføre fare for overføri
 
 Tatovering må bare utføres på hud som er helt frisk, det vil si uten sårdannelser, utslett, eksem eller liknende som kan inneholde store mengder bakterier. Det advares mot tatovering ved diabetes, da det ofte finnes en massiv forekomst av gule stafylokokker på huden. Det advares mot å tatovere personer med nedsatt immunforsvar.
 
+*5) Huddesinfeksjon*
+
 Ved prosedyrer hvor huden penetreres, det vil si at det stikkes hull i huden, skal huden desinfiseres på forhånd. Dette gjøres for å unngå at bakterier på hudoverflaten, for eksempel gule stafylokokker, blir ført inn i hudens dypere lag hvor de kan fremkalle infeksjon. Det bør brukes egnet desinfeksjonsmiddel.
 
 Kommunen skal som ledd i sitt tilsyn påse at selve utøvelsen av en virksomhet som omfattes av forskriften, foregår på en hygienisk tilfredsstillende måte med sikte på å hindre at overføring av smittsomme sykdommer kan finne sted. Kommunen kan kreve forholdene rettet, eventuelt forby fortsatt virksomhet til forholdene er rettet dersom den finner at utøvelsen ikke tilfredsstiller slike krav.
+
+*Til [§ 8](forskrift/1998-05-06-581/§8) Tilsyn, virkemidler og dispensasjon*
 
 I forskriften er ansvar for behandling av meldinger og søknader om godkjenning, samt tilsyn med virksomhetene lagt direkte til kommunen. Dette er gjort med bakgrunn i prinsippet om at kommunene i størst mulig grad selv skal fastsette hvilket kommunalt organ som skal løse en bestemt oppgave. Kommunen kan delegere sin myndighet til det kommunale organ som skal løse oppgaven, jf. også [folkehelseloven § 9](lov/2011-06-24-29/§9).
 
@@ -273,5 +333,7 @@ Eventuell delegering forutsettes å skje til et organ med kompetanse i forhold t
 I forbindelse med bruk av virkemidler etter folkehelseloven vises det til de vilkår som følger direkte av den enkelte lovbestemmelse.
 
 Tilsyn etter bestemmelsene i arbeidsmiljøloven kan skje parallelt med tilsyn etter denne forskriften.
+
+*Til [§ 9](forskrift/1998-05-06-581/§9) Dispensasjon*
 
 [Lov 10. februar 1967](lov/1967-02-10) om behandlingsmåten i forvaltningssaker (forvaltningsloven) [§ 40](lov/1967-02-10/§40) fastsetter at en forskrift ikke kan fravikes av et forvaltningsorgan med mindre forskriften eller vedkommende hjemmelslov gir adgang til det. Bestemmelsen om dispensasjon er inntatt for ikke fullstendig å utelukke muligheten av å gjøre unntak i enkelte særskilte tilfeller. Bruken av dispensasjon bør være tidsavgrenset og skal være forbeholdt de særskilte og enkeltstående tilfeller. Det bør ikke dispenseres fra krav som utgjør et hovedformål eller en hovedintensjon med forskriften, og det skal ikke dispenseres fra større deler av forskriften samlet.

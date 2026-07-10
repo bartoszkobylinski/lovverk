@@ -192,6 +192,9 @@ Departementet kan gi forskrift som er nødvendig for å oppfylle Norges statisti
 
 (2) Departementet kan gi overgangsbestemmelser.
 
+1 Loven [§ 6](lov/2019-06-21-32/§6) annet og tredje ledd i kraft 1 nov 2019. Loven § 19 trer i kraft 1 jan 2020. 1 jan 2020 oppheves [§ 4-1](lov/1989-06-16-54/§4-1) annet ledd og [§ 4-2](lov/1989-06-16-54/§4-2) i [lov 16. juni 1989 nr. 54](lov/1989-06-16-54/§4-2) om offisiell statistikk og Statistisk Sentralbyrå (statistikkloven), iflg. [res. 11 okt 2019 nr. 1366](forskrift/2019-10-11-1366).
+Loven [§ 1](lov/2019-06-21-32/§1) til [§ 5](lov/2019-06-21-32/§5), [§ 6](lov/2019-06-21-32/§6) første, fjerde og femte ledd, [§ 7](lov/2019-06-21-32/§7) til [§ 18](lov/2019-06-21-32/§18) og [§ 20](lov/2019-06-21-32/§20) til [§ 23](lov/2019-06-21-32/§23) trer i kraft 1 jan 2021 iflg. res. [11 des 2020 nr. 2698](forskrift/2020-12-11-2698). 1 jan 2021 oppheves kapitlene [1](lov/1989-06-16-54/kap1) til [3](lov/1989-06-16-54/kap3), [§ 4-1](lov/1989-06-16-54/§4-1) første ledd og kapitlene [5](lov/1989-06-16-54/kap5) og [6](lov/1989-06-16-54/kap6) i [lov 16. juni 1989 nr. 54](lov/1989-06-16-54) om offisiell statistikk og Statistisk sentralbyrå (statistikkloven), iflg. res. [11 des 2020 nr. 2698](forskrift/2020-12-11-2698).
+
 ### § 23. Endringer i andre lover
 
 Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i andre lover: – – –

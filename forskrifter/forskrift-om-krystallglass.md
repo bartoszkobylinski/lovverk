@@ -52,13 +52,55 @@ Forskriften trer i kraft 1. august 1997.
 
 ## Vedlegg 1. Liste over krystallglasskategorier
 
+| Betegnelser |  | Egenskaper |  | Merking |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Metaloksider i prosenter | Tetthet | Brytningstall | Overflatehardhet | Symbolets form | Merknader |
+| 1 | Cristal Superiuer |  |  |  |  |  | Runde merker |
+|  | 30% |  |  |  |  |  | Farge: gull |
+|  | Cristallo Superiore |  |  |  |  |  | diameter: |
+|  | 30%\* | PbO |  |  |  |  | ≥1 cm |
+|  | Hochbleikristall | ≥30% | ≥3,00 |  |  |  |  |
+|  | 30%\* |  |  |  |  |  |  |
+|  | Volloodkristal 30% |  |  |  |  |  |  |
+|  | Full Lead Crystal |  |  |  |  |  |  |
+|  | 30% |  |  |  |  |  |  |
+|  | Krystall 30% |  |  |  |  |  |  |
+| 2 | Cristal au Plomb |  |  |  |  |  |  |
+|  | 24% |  |  |  |  |  |  |
+|  | Cristallo al Plombo |  |  |  |  |  |  |
+|  | 24% | PbO |  |  |  |  |  |
+|  | Bleikristall 24% | ≥24% | ≥2,90 |  |  |  |  |
+|  | Loodkristal 24% |  |  |  |  |  |  |
+|  | Lead Crystal 24% |  |  |  |  |  |  |
+|  | Krystall 24% |  |  |  |  |  |  |
+| 3 | Krystallin | ZnO |  |  |  |  | Kvadratiske |
+|  |  | BaO |  |  |  |  | merker |
+|  |  | K2 O | ≥2,45 | nD |  |  | Farge: sølv |
+|  |  | PbO |  | ≥1,520 |  |  | side: ≥1 cm |
+|  |  | alene eller sammen |  |  |  |  |  |
+|  |  | ≥10% |  |  |  |  |  |
+| 4 | Krystallin | BaO, |  |  | Vickers |  | Merker i |
+|  |  | PbO, | ≥2,40 |  | -550 |  | form av |
+|  |  | K2 O |  |  |  |  | en like- |
+|  |  | alene eller |  |  | ± 20 |  | sidet trekant. |
+|  |  | sammen |  |  |  |  | Farge: sølv |
+|  |  | ≥10% |  |  |  |  | side: ≥1 cm |
+
+\* Tallet angir blyoksidinnholdet i prosent
+
 ## Vedlegg 2. Metoder for bestemmelse av de kjemiske og fysiske egenskaper ved krystallgrupper
 
 ### 1. Kjemiske analyser
 
+1.1.*BaO og PbO*
+
+1.1.1.*Bestemmelse av det samlede innholdet av BaO + PbO*
+
 Vei opp med en nøyaktighet på 0,0001 g ca. 0,5 g pulverisert glass, som overføres til en platinaskål. Fukt med vann og tilsett 10 ml 15% svovelsyre og 10 ml hydrogenfluorid. Varm opp i sandbad til det avgis hvit damp. La blandingen avkjøles og behandles på ny med 10 ml hydrogenfluorid. Varm opp inntil det igjen avgis hvit damp. Avkjøl igjen, og skålens vegger skylles av med vann. Varm opp igjen inntil det avgis hvit damp. La blandingen avkjøles og tilsett forsiktig 10 ml vann, og overfør så til et 400 ml begerglass. Skyll skålen flere ganger med en løsning av 10% svovelsyre og tynn ut til 100 ml med samme løsning. Kok i 2 til 3 minutter. La stå over natten.
 
 Filtrer gjennom en filterdigel med porøsitet 4, vask først med en 10% svovelsyreløsning og deretter 2 eller 3 ganger med etanol. Tørk én time ved 150O C i tørkeskap. Vei BaSO4 + PbSO4.
+
+1.1.2.*Bestemmelse av BaO*
 
 Vei opp med en nøyaktighet på 0,0001 g ca. 0,5 g pulverisert glass, som overføres til en platinaskål. Fukt med vann og tilsett 10 ml hydrogenfluorid og 5 ml perklorsyre. Varm opp i sandbad til det avgis hvit damp.
 
@@ -68,7 +110,12 @@ Kok filtratene og reduser dem om nødvendig til 300 ml ved fordamping. Ha 10 ml 
 
 Filtrer gjennom et finfilterpapir og vask med kaldt vann. Kalsiner bunnfallet ved 1050° C og vei BaSO4.
 
+1.2.*Bestemmelse av ZnO*
+
 Damp inn filtratet fra utskilling av BaSO4 slik at mengden reduseres til 200 ml. Nøytraliser med ammoniak med tilstedeværelse av metylrød og tilsett 20 ml N/10 svovelsyre. Juster pH-verdien til 2 (pH-meter) ved å tilsette av enten N/10 svovelsyre eller N/10 natriumhydroksid, alt etter tilfellet, og fell ut sinksulfid kaldt ved å sende en strøm av hydrogensulfid gjennom løsningen. La bunnfallet stå i fire timer, og samle det deretter på et finfilterpapir. Vask med kaldt vann mettet med hydrogensulfid. Løs bunnfallet på filteret ved å helle gjennom det 25 ml av en varm løsning av 10% saltsyre. Vask filteret med kokende vann til det er blitt en mengde på ca. 150 ml. Nøytraliser med ammoniak under tilstedeværelse av lakkmuspapir, tilsett deretter 1-2 g urotropin i fast form for å fiksere pH-verdien ca. 5. Tilsett noen dråper av en nytillaget vannrik oppløsning av 0,5% xylenoloransje og titrer med en N/10 Complexon III til fargen skifter fra lyserød til sitrongul.
+
+1.3.*Bestemmelse av K2 O*ved utfelling og veiing av kaliumtetrafenylboratFremgangsmåte:2 g glass knuses og siktes, ogoppløses deretter i:2 ml konsentrert HNO315 ml HCO425 ml HF
+i platinaskål i vannbad og deretter i sandbad. Når det er avgitt tett damp av perklorsyre (damp inn til tørt) løses blandingen i 20 ml varmt vann og 2-3 ml konsentrert HCL.
 
 Ha det over i en 200 ml målekolbe og fyll opp med destillert vann til volumet er nådd.
 
@@ -78,14 +125,22 @@ Ha det over i en 200 ml målekolbe og fyll opp med destillert vann til volumet e
 
 *Fremgangsmåte:* Ta en del av saltsyreoppløsningen som tilsvarer ca. 10 mg K2 O. Fortynn til ca. 100 ml. Hell sakte oppi reagensløsningen, ca. 10 ml pr. 5 mg med antatt K2 O, under forsiktig omrøring. La hvile i høyst 15 minutter og filtrer i sintret tarert filterdigel nr. 3 eller nr. 4. Vask med vaskeløsning. Tørk i 30 minutter ved 120° C. Omregningsfaktor for K2 O er 0,13143.
 
+1.4.*Analysetoleranser*
+
 ± 0,1 i absolutt verdi ved hver bestemmelse.
 
 Dersom en analyse gir en verdi innenfor toleransen som er mindre enn de fastsatte grensene (30, 24 eller 10%), må det tas et gjennomsnitt fra minst tre analyser. Hvis gjennomsnittet er høyere enn eller likt med henholdsvis 29,95, 23,95 eller 9,95 skal glasset godtas i kategoriene tilsvarende henholdsvis 30, 24 eller 10%.
 
 ### 2. Bestemmelse av de fysiske egenskaper
 
+2.1.*Tetthet*
+
 Metode ved hjelp av en hydrostatisk vekt med en nøyaktighet på ± 0,01. En prøve på minst 20 g blir veiet i luften og i 20° C varmt destillert vann.
 
+2.2.*Brytningstall*
+
 Brytningstall måles med refraktometer med en nøyaktighet på ± 0,001.
+
+2.3.*Mikrohardhet*
 
 Vickers hardhet skal måles etter standard ASTM E 92-65-normen (revisjon 1965), men med en vekt på 50 g og et gjennomsnitt av 15 bestemmelser.

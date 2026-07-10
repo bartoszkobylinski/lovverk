@@ -22,17 +22,17 @@ eu_basis: []
 
 # Lov om endringer i bilansvarslova (gjennomføring av endringsdirektiv til motorvognforsikringsdirektivet i norsk rett)
 
+Endringer i følgende lov:
+
 - [Lov 3. februar 1961 om ansvar for skade som motorvogner gjer (bilansvarslova)](lov/1961-02-03).
 
 ## I
 
-Er trygdelaget til motorvogna som har gjort skaden, under insolvensbehandling eller avvikling som definert i forskrift fastsett av departementet, skal dei trygdelaga som er godkjende etter [§ 17 fyrste leden bokstav a](lov/1961-02-03/§17/ledd/1/bokstav/a), bera skaden i lag overfor skadelidarar som bur her i riket, i det same omfanget som trygda hjå trygdelaget ville ha dekt skaden. Skadelidarane kan i slike tilfelle krevje skadebota hjåTrafikkforsikringsforeningen.
+I [lov 3. februar 1961 om ansvar for skade som motorvogner gjer](lov/1961-02-03) gjøres følgende endringer:
 
-Fyrste leden gjeld berre om trygdelaget til motorvogna som har gjort skaden, har løyve til å tilby trygd innanfor EØS-området.
+I [kapittel II](lov/1961-02-03/kapII) skal ny [§ 10 a](lov/1961-02-03/§10a) lyde:
 
-Det felles ansvaret trygdelaga har etter fyrste leden, gjeld også for attsøkjingskrav Trafikkforsikringsforeningen må betale til andre skadebotorgan i samsvar med dei pliktene staten har etter [EØS-avtalen](lov/1992-11-27-109/eøsl).
-
-Departementet kan gje nærare føresegner om skadebotordninga etter denne paragrafen i forskrift.
+[§ 17 første ledd bokstav h](lov/1961-02-03/§17/ledd/1/bokstav/h) skal lyde:
 
 trygding for motorvogner som blir ført inn til riket utan å vere registrert her, eller som er registrert her og blir ført ut av riket,
 

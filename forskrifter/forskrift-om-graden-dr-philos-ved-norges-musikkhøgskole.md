@@ -138,9 +138,13 @@ Kandidaten kan etter innlevering søke om tillatelse til å rette formelle feil 
 
 På grunnlag av bedømmelseskomiteens innstilling fatter Norges musikkhøgskole vedtak om avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling:*
+
 Dersom komiteen avgir enstemmig innstilling og doktorgradsutvalget finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter doktorgradsutvalget vedtak i samsvar med den enstemmige innstillingen.
 
 Dersom doktorgradsutvalget finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal doktorgradutvalget legge saken fram for FoU-utvalget, som kan fatte vedtak i samsvar med komiteens innstilling eller søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader. FoU-utvalget fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling:*
 
 Dersom komiteen avgir delt innstilling og doktorgradsutvalget finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter doktorgradsutvalget vedtak i samsvar med flertallets innstilling.
 

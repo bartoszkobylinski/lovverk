@@ -166,4 +166,10 @@ Denne forskrift trer i kraft straks.
 
 ## Kart
 
+*Bjørnøya naturreservat, Svalbard*
+
+*Detaljkart – sør med sone A*
+
+*Detaljkart – nord med sone B*
+
 > Tilføyd ved [forskrift 12 des 2008 nr. 1345](forskrift/2008-12-12-1345).

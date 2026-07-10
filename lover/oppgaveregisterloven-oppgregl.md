@@ -74,6 +74,8 @@ Gjelder feilen en opplysning som er samordnet, skal øvrige registre som er omfa
 
 Denne lov trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 1 nov 1997 iflg. [res. 10 okt 1997 nr. 1088](forskrift/1997-10-10-1088).
+
 ## § 9. Endringer i annen lovgivning
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –

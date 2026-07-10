@@ -166,6 +166,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 ### § 2-7. Politiattest
 
+Hjemlet i [fagskoleloven § 27](lov/2018-06-08-28/§27), med unntak av pkt. fem (5) jamfør veileder om politiattest, «Veileder for krav om politiattest for studenter i høyere utdanning og høyere yrkesfaglig utdanning», utgitt 21. juni 2023.
+
 (1) Krav om politiattest gjelder der studenten kan komme i kontakt med mindreårige, eller andre sårbare grupper, som en del av klinisk undervisning eller praksisopplæring. Dette gjelder når studenter skal utføre oppgaver som innebærer tillits- eller ansvarsforhold overfor disse.
 
 (2) Studenter som deltar i praksisopplæring eller klinisk undervisning der det er krav til politiattest for yrket, skal fremlegge dette.
@@ -204,6 +206,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 ### § 3-1. Godskriving og fritak
 
+Hjemlet i [fagskoleforskriften § 37](forskrift/2019-07-11-1005/§37).
+
 (1) Fritak og godskriving søkes via eget skjema senest innen tre uker etter at utdanningen har startet. Det må vedlegges godkjent dokumentasjon på omfang og innhold av ervervet kompetanse det søkes fritak/godskriving for.
 
 (2) Utgangspunktet for vurdering av fritak og godskriving skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen, eller det aktuelle emnet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning. Læringsutbytte skal være sammenfallende med kompetansen det søkes fritak/godskriving for.
@@ -217,6 +221,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 (6) Vedtak om fritak og godskriving er enkeltvedtak og kan påklages til lokal klagenemnd. Se ellers [kapittel 5 Klagebehandling](forskrift/2024-06-12-1347/kap5).
 
 ### § 3-2. Vurdering av skikkethet
+
+Med hjemmel i [§ 26 i fagskoleloven](lov/2018-06-08-28/§26).
 
 (1) Fagskolen skal vurdere om studentene er skikket for yrket. Dette gjelder studenter på fagskoleutdanninger som utdanner til fremtidig yrkesutøvelse der studenten kan utgjøre fare for liv, fysisk og/eller psykisk, eller fare for rettigheter og sikkerhet til barn eller unge og voksne i sårbare situasjoner. Vurderingen skal skje gjennom hele utdanningen.
 
@@ -238,6 +244,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 ### § 3-3. Rett til permisjon og midlertidig studieavbrudd
 
+Med hjemmel i [fagskoleloven § 28](lov/2018-06-08-28/§28).
+
 (1) En student ved Norges grønne fagskole – Vea kan søke permisjon fra studieplassen og få inntil to års permisjon dersom det foreligger vektig grunn for dette. Sykdom, svangerskap/barsel, verneplikt eller andre vektige grunner kan kvalifisere for permisjon.
 
 (2) Søknad om permisjon gjøres skriftlig rettet til Norges grønne fagskole – Vea. Fagskolen vil kreve fremlagt dokumentasjon fra lege, arbeidsgiver, oppdragsgiver mv., som understøtter søknad om permisjon og som gir fagskolen tilstrekkelig vurderingsgrunnlag for vedtak.
@@ -253,6 +261,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 (7) Student med permisjon plikter å varsle skolen når studie skal gjenopptas i henhold til frist oppgitt i vedtak om permisjon.
 
 ### § 3-4. Bortvisning og utestenging
+
+Med hjemmel i [§ 25 i fagskoleloven](lov/2018-06-08-28/§25).
 
 (1) En student som tross skriftlig advarsel fra fagskolen, gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid, eller for virksomheten ved fagskolen ellers, kan etter vedtak av den lokale klagenemnda bortvises fra fagskolen i inntil ett (1) år.
 
@@ -272,6 +282,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 ### § 3-5. Studentrepresentasjon og studentombud
 
+Med hjemmel i [§ 14 i fagskoleloven](lov/2018-06-08-28/§14).
+
 (1) Studentene ved en fagskole kan opprette studentorgan som skal ivareta deres interesser og fremme deres synspunkter. Organet skal høres i alle saker som angår studentene. Styret skal legge forholdene til rette slik at studentorganene kan drive sitt arbeid på en tilfredsstillende måte.
 
 (2) Studenter skal være representert i alle kollegiale organer som tildeles beslutningsmyndighet ved en fagskole.
@@ -284,11 +296,15 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 
 ### § 3-6. Studenter med funksjonsnedsettelse og studenter med særskilt behov
 
+Med hjemmel i [fagskoleloven § 15](lov/2018-06-08-28/§15).
+
 (1) Studenter med funksjonsnedsettelse og studenter med særskilt behov har rett til egnet individuell tilrettelegging av lærested, undervisning, læremidler og avsluttende vurdering. Tilretteleggingen skal ikke innebære uforholdsmessig byrde for utdanningsinstitusjonen.
 
 (2) Tilretteleggingen skal ikke føre til reduksjon av de faglige kravene som stilles til utdanningen.
 
 ### § 3-7. Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet
+
+Med hjemmel i [fagskoleloven § 43](lov/2018-06-08-28/§43).
 
 (1) Studenter skal ikke bruke plagg som helt eller delvis dekker ansiktet i forbindelse med undervisning eller tilsvarende. Dette gjelder også for turer eller annet tilknyttet utdanningsinstitusjonens undervisning.
 
@@ -305,6 +321,8 @@ Kvalifiserte søkere som ikke kan poengberegnes, skal rangeres ved hjelp av indi
 (7) Vedtak om utestenging kan påklages til nasjonal klagenemnd.
 
 ## Kapittel 4: Avsluttende vurdering og sensur
+
+Fastsatt med hjemmel i [§§ 21](lov/2018-06-08-28/§21), [22](lov/2018-06-08-28/§22), [23](lov/2018-06-08-28/§23) og [24 i fagskoleloven](lov/2018-06-08-28/§24).
 
 ### § 4-1. Generelt om vurdering
 
@@ -328,7 +346,16 @@ Ved Norges grønne fagskole – Vea beskrives avsluttende vurdering og vurdering
 
 ### § 4-3. Karaktersystem
 
-Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea brukes følgende vurderingsuttrykk: Bestått/ikke bestått eller karakter fra A–E for bestått og F for ikke bestått. Laveste karakter som godkjennes som bestått ved avsluttende vurdering er E.*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet.
+Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea brukes følgende vurderingsuttrykk: Bestått/ikke bestått eller karakter fra A–E for bestått og F for ikke bestått. Laveste karakter som godkjennes som bestått ved avsluttende vurdering er E.
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og selvstendighet. |
 
 ### § 4-4. Emnevurdering
 
@@ -414,6 +441,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 
 ## Kapittel 5: Klagebehandling
 
+Fastsatt med hjemmel i [§§ 20–27 i fagskoleloven](lov/2018-06-08-28/§20).
+
 ### § 5-1. Klageordning og klageorganer
 
 (1) Klage må fremsettes skriftlig til den som har truffet vedtaket; førsteinstans, innen tre (3) uker etter at studenten er blitt eller burde være kjent med vedtaket.
@@ -431,6 +460,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 (7) Lokal klagenemnd er oppnevnt av Fagskolestyret og behandler klager på enkeltvedtak som ikke skal til Nasjonal klagenemnd, se punktet (5) over.Den lokale klagenemnda har fem medlemmer med personlige varamedlemmer. Det henvises til retningslinje for lokal klagenemnd som er å finne på fagskolens hjemmeside. Lederen og varamedlemmet skal fylle de lovbestemte kravene til lagdommer. Leder og varamedlem for lederen kan ikke være ansatt ved fagskolen. To (2) av medlemmene skal være studenter.Klagenemnda er vedtaksfør når lederen eller når varamedlemmet for lederen og to (2) andre medlemmer er til stede.Vedtak i klagesaker fattet av den lokale klagenemnda kan ikke påklages.Klagenemndas medlemmer utenom studentrepresentantene med vararepresentanter oppnevnes for fire (4) år av gangen. Studentrepresentant med vararepresentanter oppnevnes av studentene for ett (1) år av gangen.
 
 ### § 5-2. Rett til begrunnelse og klage på sensur
+
+Med hjemmel i [fagskoleloven § 22](lov/2018-06-08-28/§22).
 
 (1) Studenten har rett til begrunnelse for karakterfastsettingen. Ved muntlig avsluttende vurdering eller bedømmelse av praktiske ferdigheter, framsettes karakteren muntlig umiddelbart etter avsluttende vurdering, og studenten må fremsette muntlig krav om begrunnelse til sensor umiddelbart etter at karakteren er meddelt. På skriftlige avsluttende vurderinger kunngjøres karakteren elektronisk og studenten kan kreve begrunnelse. Krav om begrunnelse fremsettes innen én (1) uke fra karakteren er kunngjort.
 
@@ -450,6 +481,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 
 ### § 5-3. Klage over formelle feil ved avsluttende vurdering
 
+Hjemlet i [fagskoleloven §§ 23](lov/2018-06-08-28/§23) og [22](lov/2018-06-08-28/§22).
+
 (1) En student som har vært oppe til avsluttende vurdering eller annet arbeid som bedømmes med karakter, kan klage over formelle feil innen tre (3) uker etter at studenten er-, eller burde være kjent med forholdet som begrunner klagen. Klage skal rettes skriftlig til fagskolen.
 
 (2) Sensurvedtaket for klassen skal oppheves hvis det er begått feil som kan ha hatt betydning for studentenes prestasjon eller bedømmelsen av denne. Dersom den formelle feilen påvirker en eller en gruppe studenter skal sensurvedtaket oppheves for de involverte. Ny sensur gjennomføres hvis feilen kan rettes opp ved ny sensur av innleverte arbeider. I motsatt fall holdes ny avsluttende vurdering, prøve eller lignende med ny sensor. Karakterfastsetting ved ny sensur kan påklages.
@@ -461,6 +494,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 (5) Lokal klagenemnd er klageinstans for vedtak etter denne paragraf.
 
 ## Kapittel 6: Annullering av avsluttende vurdering
+
+Fastsatt med hjemmel i [§ 24 i fagskoleloven](lov/2018-06-08-28/§24).
 
 ### § 6-1. Annullering av avsluttende vurdering
 
@@ -476,6 +511,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 
 ### § 6-2. Fusk og plagiering
 
+Hjemlet i [fagskoleloven §§ 12](lov/2018-06-08-28/§12), [24](lov/2018-06-08-28/§24) og [25](lov/2018-06-08-28/§25).
+
 (1) Forsøk på fusk er når en student forsettlig handler i strid med forskrifter og retningslinjer for avsluttende vurdering.
 
 (2) Fusk kan være:Bruk av hjelpemidler som ikke er tillatt på avsluttende vurdering, herunder KI-genererte tekstdeler eller samarbeid.Utgi andres arbeid som eget.Sitere kilder uten å benytte kildehenvisning.Dersom det under avsluttende vurdering oppstår mistanke om fusk eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte avsluttende vurdering.
@@ -489,6 +526,8 @@ Ved vurdering av avsluttende vurdering på Norges grønne fagskole – Vea bruke
 (6) Vedtak kan påklages til Nasjonal klagenemnd.
 
 ## Kapittel 7: Dokumentasjon
+
+Hjemmel i [§ 19 i fagskoleloven](lov/2018-06-08-28/§19), [fagskoleforskriften § 38](forskrift/2019-07-11-1005/§38) og [fagskoletilsynsforskriften § 2-7](forskrift/2020-04-23-853/§2-7).
 
 ### § 7-1. Vitnemål
 

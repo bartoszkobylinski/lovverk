@@ -146,4 +146,8 @@ Kommunen er innkrevingsmyndighet.
 
 (3) Inntil endringen fastsatt i [§ 5-2](lov/2025-06-20-104/§5-2) begynner å gjelde, kan besøksbidrag kreves inn etter reglene for innkreving av skatt.
 
+1 Fra 1. juli 2026 iflg. [res. 20 mars 2026 nr. 445](forskrift/2026-03-20-445).
+
 ### § 5-2. Endringer i annen lov
+
+– – –

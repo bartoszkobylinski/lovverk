@@ -75,3 +75,5 @@ Departementet kan gi forskrift om tilskuddsordninger.
 ## § 9. Ikraftsetting
 
 Loven gjelder fra den tid Kongen bestemmer.1
+
+1 Fra 7 juni 2013 iflg. [res. 7 juni 2013 nr. 586](forskrift/2013-06-07-586).

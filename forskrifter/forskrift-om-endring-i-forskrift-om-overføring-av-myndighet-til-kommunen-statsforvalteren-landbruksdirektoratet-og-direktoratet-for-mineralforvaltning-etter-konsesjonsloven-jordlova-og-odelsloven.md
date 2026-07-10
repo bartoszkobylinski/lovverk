@@ -24,7 +24,13 @@ eu_basis: []
 
 ## I
 
+I [forskrift 8. desember 2003 nr. 1479 om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven](forskrift/2003-12-08-1479) gjøres følgende endringer:
+
+[§ 1 første ledd](forskrift/2003-12-08-1479/§1/ledd/1) skal lyde:
+
 Kommunen avgjør saker i henhold til [konsesjonsloven §§ 2 første ledd](lov/2003-11-28-98/§2/ledd/1), [13 annet](lov/2003-11-28-98/§13/ledd/2) og tredje ledd og [16 annet](lov/2003-11-28-98/§16/ledd/2) og tredje ledd, med de unntak som følger av [§ 3](forskrift/2003-12-08-1479/§3). Kommunen avgjør saker i henhold til [jordlova §§ 8](lov/1995-05-12-23/§8) annet og tredje ledd, [8a](lov/1995-05-12-23/§8a), [9](lov/1995-05-12-23/§9) annet og femte ledd og [12 første ledd](lov/1995-05-12-23/§12/ledd/1). Kommunen avgjør også om det skal tas steg til odelsfrigjøring etter [odelslova §§ 30](lov/1974-06-28-58/§30) og [32](lov/1974-06-28-58/§32), jf. [odelslova § 33](lov/1974-06-28-58/§33).
+
+[§ 3](forskrift/2003-12-08-1479/§3) nytt nr. 7 skal lyde:
 
 1. hvilken kommune som skal avgjøre saken hvis en eiendom som nevnt i [§ 1 tredje ledd](forskrift/2003-12-08-1479/§1/ledd/3) ligger i flere kommuner, og kommunene ikke er enige om hvor hoveddelen av eiendommen ligger.
 

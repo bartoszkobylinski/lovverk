@@ -22,25 +22,41 @@ eu_basis: []
 
 # Lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)
 
+Endringer i følgende lov:
+
 - [Lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)](lov/1990-06-29-50).
 
 ## I
+
+I [lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m.](lov/1990-06-29-50) gjøres følgende endringer:
+
+[§ 7-2](lov/1990-06-29-50/§7-2) overskriften skal lyde:
+
+*(Plikt til å gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme)*
+
+[§ 7-2 første](lov/1990-06-29-50/§7-2/ledd/1) og [annet ledd](lov/1990-06-29-50/§7-2/ledd/2) skal lyde:
 
 En tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme ved planlegging av og omfattende oppgradering av følgende anlegg:termiske kraftverkindustrianleggfjernvarmenett og fjernkjølenettenergiproduksjonsanlegg som planlegges tilkoblet i et eksisterende fjernvarme- eller fjernkjølenettdatasentreandre anlegg som vil ha et høyt behov for tilført energi.
 
 Departementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av første ledd, herunder hvilke terskelverdier som skal føre til at anlegg omfattes av første ledd.
 
-å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
+[§ 7-3 første ledd bokstav c](lov/1990-06-29-50/§7-3/ledd/1/bokstav/c) til ny bokstav f skal lyde:
 
-å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når fjernvarme- eller fjernkjølenett planlegges oppført, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjølenett planlegges oppført eller omfattende oppgradert
+å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehovå utnytte overskuddsvarme fra nærliggende anlegg og datasentre når fjernvarme- eller fjernkjølenett planlegges oppført, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjølenett planlegges oppført eller omfattende oppgradertå drive datasentre som nevnt i [§ 7-2 første ledd bokstav e](lov/1990-06-29-50/§7-2/ledd/1/bokstav/e) og anlegg som nevnt i [§ 7-2 første ledd bokstav f](lov/1990-06-29-50/§7-2/ledd/1/bokstav/f) slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehovå utnytte overskuddsvarme fra nærliggende anlegg og datasentre når industrianlegg og andre anlegg med varmebehov planlegges oppført eller omfattende oppgradert.
 
-å drive datasentre som nevnt i [§ 7-2 første ledd bokstav e](lov/1990-06-29-50/§7-2/ledd/1/bokstav/e) og anlegg som nevnt i [§ 7-2 første ledd bokstav f](lov/1990-06-29-50/§7-2/ledd/1/bokstav/f) slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov
-
-å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når industrianlegg og andre anlegg med varmebehov planlegges oppført eller omfattende oppgradert.
+[§ 7-4 annet ledd](lov/1990-06-29-50/§7-4/ledd/2) skal lyde:
 
 Anlegg som nevnt i [§ 7-2 første ledd](lov/1990-06-29-50/§7-2/ledd/1) kan ikke bygges eller omfattende oppgraderes uten at overskuddsvarmen utnyttes, dersom kost-nytteanalysen viser at fordelene ved dette er større enn kostnadene.
 
+[§ 7-4](lov/1990-06-29-50/§7-4) nytt tredje ledd skal lyde:
+
 Departementet kan etter søknad fatte enkeltvedtak om unntak fra kravet i annet ledd.
+
+[§ 8-4](lov/1990-06-29-50/§8-4) overskriften skal lyde:
+
+*(Bygninger med varme- og klimaanlegg)*
+
+[§ 8-4](lov/1990-06-29-50/§8-4) nytt tredje ledd skal lyde:
 
 Eier av bygning med høyt varme- eller kjølebehov skal installere et automatisk styringssystem for varme- og klimaanlegg, der dette er teknisk og økonomisk gjennomførbart. Departementet kan gi forskrift om hvilke bygninger som er omfattet av plikten til å installere et slikt styringssystem, og om kravets innhold.
 

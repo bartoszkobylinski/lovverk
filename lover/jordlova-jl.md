@@ -186,6 +186,8 @@ Med bøter straffast den som forsettleg bryt forbodet mot omdisponering i [§ 9]
 
 Frå den tida1 Kongen fastset, skal følgjande føresegner i andre lover endrast slik: – – –
 
+1 Frå 1 juli 1995 iflg. [res. 12 mai 1995 nr. 412](forskrift/1995-05-12-412).
+
 ## III.
 
 Lovendringane gjeld frå den tid1 Kongen fastset.
@@ -205,3 +207,5 @@ Dispensasjon gitt – – –
 – – –
 
 > Endra ved [lov 21 juni 2013 nr. 100](lov/2013-06-21-100) (ikr. 1 jan 2016 iflg. [res. 21 juni 2013 nr. 736](forskrift/2013-06-21-736)).
+
+1 Frå 1 juli 1995 iflg. [res. 12 mai 1995 nr. 412](forskrift/1995-05-12-412).

@@ -24,13 +24,27 @@ eu_basis: []
 
 ## I
 
+I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
+
+– – –
+
+[§ 2-3-6](forskrift/2022-10-27-1901/§2-3-6) nytt tredje og fjerde ledd skal lyde:
+
 (3) Dersom samtlige varer på transportmiddelet skal transitteres gjennom tollområdet gjelder ikke kravet om elektronisk melding etter første ledd.
 
 (4) Dersom samtlige varer på transportmiddelet er underlagt en transittering som både startes opp og fullføres i tollområdet gjelder ikke kravet om elektronisk melding etter første ledd.
 
+– – –
+
+[§ 4-4-8 første ledd bokstav j](forskrift/2022-10-27-1901/§4-4-8/ledd/1/bokstav/j) skal lyde:
+
 1. hvorvidt det er levert endringsmelding om uoverensstemmelser som nevnt i tredje ledd.
 
+[§ 4-4-8 tredje ledd](forskrift/2022-10-27-1901/§4-4-8/ledd/3) skal lyde
+
 (3) Dersom det er uoverensstemmelse mellom ankommet vare og deklarasjon for prosedyren tollager, skal tollagerholderen levere endringsmelding etter [§ 7-2-1](forskrift/2022-10-27-1901/§7-2-1).
+
+[§ 4-4-8 fjerde ledd](forskrift/2022-10-27-1901/§4-4-8/ledd/4) oppheves, og gjeldende femte ledd blir nytt fjerde ledd.
 
 ## II
 

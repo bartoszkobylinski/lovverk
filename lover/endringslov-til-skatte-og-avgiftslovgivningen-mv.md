@@ -26,13 +26,31 @@ eu_basis: []
 
 I [lov 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt av formue og inntekt (skatteloven) gjøres følgende endringer: – – –
 
+[§ 6-46](lov/1999-03-26-14/§6-46) nytt fjerde ledd skal lyde: – – –
+
 > Endringen vil neppe bli satt i kraft, etter at [lov 14 des 2007 nr. 107](lov/2007-12-14-107) innførte et likelydende ledd som § 6-46 (5).
 
 ## XVIII. Ikrafttredelse
 
+– – –
+
 ## XIX. Overgangsregler
 
+Ved ikrafttredelse av endringer under XIV [§ 2-38](lov/1999-03-26-14/§2-38) gjelder følgende overgangsregler:
+
+– – –
+
+Ved ikrafttredelse av endringene under XIV [§ 10-10](lov/1999-03-26-14/§10-10) første ledd første punktum, § 10-12, § 10-30, § 10-31 første og tredje ledd og § 10-32 annet ledd gjelder følgende overgangsregler:
+
+– – –
+
 > Endret ved [lov 14 des 2007 nr. 109](lov/2007-12-14-109) (f o m inntektsåret 2005).
+
+– – –
+
+Følgende overgangsregel til de samme endringene trer i kraft straks, med virkning fra 1. januar 2005:
+
+Fastsettelse av aksjens skjermingsgrunnlag og inngangsverdi
 
 (1) Aksjens skjermingsgrunnlag etter §§ 10-12 og 10-31, jf. § 10-32 settes til aksjens historiske kostpris tillagt eventuelle RISK-beløp fra det tidsrommet aksjonæren har eid aksjen. Aksjens inngangsverdi skal opp- eller nedreguleres med RISK-beløp fra det tidsrommet aksjonæren har eiet aksjen.
 
@@ -50,10 +68,18 @@ I [lov 26. mars 1999 nr. 14](lov/1999-03-26-14) om skatt av formue og inntekt (s
 
 > Endret ved [lover 17 juni 2005 nr. 74](lov/2005-06-17-74) (f o m inntektsåret 2005), [14 des 2007 nr. 109](lov/2007-12-14-109) (f o m inntektsåret 2005), [9 mai 2008 nr. 25](lov/2008-05-09-25) (f o m inntektsåret 2005).
 
+– – –
+
+Ved ikrafttredelse av endringen under XIV [§ 9-3](lov/1999-03-26-14/§9-3) sjette ledd1 og § 14-81 gjelder følgende overgangsregler:
+
 1. Til § 9-3 sjette ledd:Ved realisasjon i 2005 eller senere av alminnelig gårdsbruk eller skogbruk fastsettes skattyters inngangsverdi med utgangspunkt i historisk kostpris med tillegg av senere aktiverte kostnader og fradrag for foretatte avskrivninger. Den del av kostpris og tillegg som etter fordeling ikke faller på avskrivbare driftsmidler eller våningshus, oppreguleres etter prisstigningen i eiertiden etter regler og satser som fastsettes av departementet.– – –
+
+Ved ikrafttredelsen av endringen under XIV [§ 10-34](lov/1999-03-26-14/§10-34) gjelder følgende overgangsregel:
 
 (1) Retting av beregnings- eller registreringsfeil ved fastsettelse og fordeling av endring i selskapets skattlagte kapital som finner sted fra og med 1. januar 2006, skal regulere aksjens inngangsverdi med samme tidspunkt som det opprinnelig uriktig fastsatte reguleringsbeløpet.
 
 (2) – – –
 
 > Endret ved [lover 9 des 2005 nr. 116](lov/2005-12-09-116) (f o m inntektsåret 2006), [14 des 2007 nr. 109](lov/2007-12-14-109) (f o m inntektsåret 2006).
+
+1 Inkurie: Jf. nå [§ 9-13](lov/1999-03-26-14/§9-13).

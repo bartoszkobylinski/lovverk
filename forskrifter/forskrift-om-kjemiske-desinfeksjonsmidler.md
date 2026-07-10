@@ -84,6 +84,8 @@ Ovennevnte opplysninger skal påføres den enkelte paknings ytre og indre emball
 
 I den utstrekning preparatene har innholdsstoffer som omfattes av forskrifter om gifter eller helsefarlige stoffer1, gjelder også påbud om merking gitt i de nevnte forskrifter.
 
+1 Jfr. forskrifter fra 1982 og 1983.
+
 ## § 8. Avgift.
 
 For hvert preparat som søkes registrert betales en avgift på kr. 10.000,-.

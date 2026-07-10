@@ -556,7 +556,22 @@ Ved dødsfall under tjeneste får gjenlevende ektefelle eller samboer erstatning
 
 En person som har levd sammen med avdøde i et ekteskapslignende forhold, regnes som samboer når det fremgår av folkeregisteret at de to har hatt felles bolig de siste to årene før dødsfallet. Hvis samboerne har felles barn, kreves det ikke at de har hatt felles bolig de siste to årene før dødsfallet, men det må fremgå av folkeregisteret at de hadde felles bolig på tidspunktet for dødsfallet.
 
-Det gis slik erstatning til hvert barn som avdøde hadde forsørgeransvar for, ut fra barnets alder da forsørgeren døde:*Barnets alder**Erstatning*Under 1 år6,5 G1–2 år6,0 G3 år5,5 G4–5 år5,0 G6 år4,5 G7–8 år4,0 G9-10 år3,5 G11 år3,0 G12–13 år2,5 G14–15 år2,0 G16–17 år1,5 G18–19 år1,0 G
+Det gis slik erstatning til hvert barn som avdøde hadde forsørgeransvar for, ut fra barnets alder da forsørgeren døde:
+
+| *Barnets alder* | *Erstatning* |
+| --- | --- |
+| Under 1 år | 6,5 G |
+| 1–2 år | 6,0 G |
+| 3 år | 5,5 G |
+| 4–5 år | 5,0 G |
+| 6 år | 4,5 G |
+| 7–8 år | 4,0 G |
+| 9-10 år | 3,5 G |
+| 11 år | 3,0 G |
+| 12–13 år | 2,5 G |
+| 14–15 år | 2,0 G |
+| 16–17 år | 1,5 G |
+| 18–19 år | 1,0 G |
 
 Hvis avdøde var eneforsørger, får hvert barn dobbelt så stor erstatning som etter tabellen i tredje ledd.
 

@@ -24,13 +24,33 @@ eu_basis: []
 
 ## § 1.
 
-For utpeking av Norge i en internasjonal varemerkeregistrering etter Madridprotokollen, jf. [varemerkeloven § 70](lov/2010-03-26-8/§70), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr3800,og2.tilleggsgebyr for hver klasse utover énkr1000
+For utpeking av Norge i en internasjonal varemerkeregistrering etter Madridprotokollen, jf. [varemerkeloven § 70](lov/2010-03-26-8/§70), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:
 
-Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr4000,og2.tilleggsgebyr for beskyttelse i hver klasse utover énkr1650
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | gebyr for beskyttelse i inntil én klasse | kr | 3800, |  | og |
+|  | 2. |  | tilleggsgebyr for hver klasse utover én | kr | 1000 |  |  |
 
-For fornyelse av utpekinger iht. [varemerkeloven § 72 andre ledd](lov/2010-03-26-8/§72/ledd/2), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.fornyelsesavgift for beskyttelse i inntil én klassekr3400,og2.tilleggsavgift for hver klasse utover énkr1300
+Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:
 
-Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:1.gebyr for beskyttelse i inntil én klassekr5150,og2.tilleggsgebyr for beskyttelse i hver klasse utover énkr2100
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | gebyr for beskyttelse i inntil én klasse | kr | 4000, |  | og |
+|  | 2. |  | tilleggsgebyr for beskyttelse i hver klasse utover én | kr | 1650 |  |  |
+
+For fornyelse av utpekinger iht. [varemerkeloven § 72 andre ledd](lov/2010-03-26-8/§72/ledd/2), skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | fornyelsesavgift for beskyttelse i inntil én klasse | kr | 3400, |  | og |
+|  | 2. |  | tilleggsavgift for hver klasse utover én | kr | 1300 |  |  |
+
+Hvor merket er et garanti- eller kontrollmerke, skal følgende betales i sveitserfranc i samsvar med gjennomføringsreglene til Madridprotokollen regel 34 og 35:
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1. |  | gebyr for beskyttelse i inntil én klasse | kr | 5150, |  | og |
+|  | 2. |  | tilleggsgebyr for beskyttelse i hver klasse utover én | kr | 2100 |  |  |
 
 > Endret ved vedtak [24 jan 2024 nr. 129](forskrift/2024-01-24-129) (i kraft 1 mars 2024).
 

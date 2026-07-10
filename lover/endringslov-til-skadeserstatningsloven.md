@@ -22,15 +22,27 @@ eu_basis: []
 
 # Lov om endringer i skadeserstatningsloven (inntektstapserstatning til barn – kapitaliseringsrente)
 
+Endringer i følgende lov:
+
 - [Lov 13. juni 1969 nr. 26 om skadeserstatning (skadeserstatningsloven)](lov/1969-06-13-26).
 
 ## I
 
+I [lov 13. juni 1969 nr. 26 om skadeserstatning](lov/1969-06-13-26) gjøres følgende endringer:
+
+[§ 3-2 a tredje ledd første](lov/1969-06-13-26/§3-2a/ledd/3/setning/1) til [fjerde punktum](lov/1969-06-13-26/§3-2a/ledd/3/setning/4) skal lyde:
+
 Inntektstap etter det året den skadelidte fyller 21 år, erstattes med 63,4 G og utmåles dette året. Dersom utmålingen likevel først skjer et senere år, fastsettes erstatningen til 64 G. I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1), erstattes inntektstap som nevnt i første og annet punktum med henholdsvis 77,2 G og 77,3 G. Er den skadelidtes ervervsuførhet lavere enn 100 prosent, reduseres erstatningen etter første, annet og tredje punktum forholdsmessig.
 
-7. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med5 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller10 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1), erstattes tap som nevnt i første punktum bokstav a med 6,5 G og tap som nevnt i første punktum bokstav b med 13 G.
+Tredje ledd nåværende fjerde til åttende punktum blir femte til niende punktum.
 
-13. I forskrift gitt av Kongen etter paragrafen her kan det fastsettes særlige utmålingsregler for tilfeller der det er sannsynlig at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1).
+[§ 3-2 a syvende ledd](lov/1969-06-13-26/§3-2a/ledd/7) skal lyde:
+
+7\. I tillegg til erstatning etter annet og tredje ledd eller etter sjette ledd erstattes tap i verdien av arbeid i heimen med5 G ved varig tap av evnen til å utføre en vesentlig del av tyngre hjemmearbeid, eller10 G ved varig tap av evnen til å utføre en vesentlig del av også lettere hjemmearbeid.I den grad det er sannsynliggjort at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1), erstattes tap som nevnt i første punktum bokstav a med 6,5 G og tap som nevnt i første punktum bokstav b med 13 G.
+
+[§ 3-2 a](lov/1969-06-13-26/§3-2a) nytt trettende ledd skal lyde:
+
+13\. I forskrift gitt av Kongen etter paragrafen her kan det fastsettes særlige utmålingsregler for tilfeller der det er sannsynlig at erstatningen skal plasseres som bankinnskudd etter [vergemålsloven § 51 første ledd](lov/2010-03-26-9/§51/ledd/1).
 
 ## II
 

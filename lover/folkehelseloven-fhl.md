@@ -408,6 +408,8 @@ Departementet kan gi forskrift om meldeplikt for kommuner, helseforetak og helse
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan sette i kraft de enkelte bestemmelser til forskjellig tid.
 
+1 Fra 1 jan 2012 iflg. [res. 24 juni 2011 nr. 637](forskrift/2011-06-24-637).
+
 ### § 35. Endringer i andre lover
 
 Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover: – – –

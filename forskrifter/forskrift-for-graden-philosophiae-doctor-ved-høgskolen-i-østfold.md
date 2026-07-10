@@ -346,11 +346,15 @@ Bedømmelseskomiteen skal gjøres kjent med Høgskolen i Østfolds ph.d.-forskri
 
 (1) Programutvalget fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om avhandlingen er verdig til å forsvares.
 
+*Enstemmig innstilling*
+
 (2) Dersom komiteen avgir enstemmig positiv eller negativ innstilling og programutvalget finner å legge den enstemmige innstillingen til grunn for sin behandling, fatter programutvalget vedtak i samsvar med den enstemmige innstillingen.
 
 (3) Dersom programutvalget finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige positive eller negative innstilling skal legges til grunn, skal programutvalget selv søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader.
 
 (4) Programutvalget fatter vedtak i saken på grunnlag av innstillingen og de innhentede uttalelsene.
+
+*Delt innstilling*
 
 (5) Dersom komiteen avgir delt innstilling og programutvalget finner å legge flertallets uttalelser til grunn for sitt vedtak, fatter institusjonen vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og programutvalget vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan programutvalget søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges kandidaten, som gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komitéinnstillingen, skal denne innstillingen følges.
 

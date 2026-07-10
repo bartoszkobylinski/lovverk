@@ -41,6 +41,8 @@ Når EFTA-domstolen behandler en sak som angår kredittvurderingsbyråforordning
 
 > Endret ved lov [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 jan 2017 iflg. [res. 16 des 2016 nr. 1607](forskrift/2016-12-16-1607)).
 
+1 Inkurie: Lovens ikrafttredelse i tidligere [§ 3](lov/2014-06-20-30/§3) ble ikke videreført ved lov [16 des 2016 nr. 91](lov/2016-12-16-91).
+
 ## § 4. Tillatelse fra tingretten og bistand fra politi
 
 Stedlig tilsyn etter kredittvurderingsbyråforordningen artikkel 23d nr. 1 som gjennomført i [§ 1](lov/2014-06-20-30/§1), krever tillatelse fra tingretten.
@@ -81,16 +83,30 @@ Departementet kan i forskrift gjøre endringer i, herunder fastsette unntak fra,
 
 Tekst for informasjonsformål.
 
+Se her for å lese grunnrettsakten – forordning [(EU) nr. 1060/2009](eu/32009r1060*): [(pdf)](static/NL/32009r1060o-01.pdf)
+
 Ikke konsolidert. Uoffisiell oversettelse (pr. oktober 2016).
 
-Uoffisiell oversettelse (pr. oktober 2016).
+Se her for å lese endringsforordning [(EU) nr. 513/2011](eu/32011*0513): [(pdf)](static/NL/32011r0513u-01.pdf)
 
 Uoffisiell oversettelse (pr. oktober 2016).
 
+Se her for å lese direktiv [2011/61/EU](eu/32011l0061) (jf. [artikkel 64](eu/32011l0061/a64)): [(pdf)](static/NL/32011l0061u-01.pdf)
+
 Uoffisiell oversettelse (pr. oktober 2016).
+
+Se her for å lese endringsforordning [(EU) nr. 462/2013](eu/32013*0462): [(pdf)](static/NL/32013r0462u-01.pdf)
+
+Uoffisiell oversettelse (pr. oktober 2016).
+
+Se her for å lese kredittvurderingsbyråforordningen konsolidert: [(pdf)](static/NL/32009r1060e-k-01.pdf)
 
 Uoffisiell konsolidering (uten EØS-tilpasning) av tekst fra grunnrettsakten forordning [(EU) nr. 1060/2009](eu/32009r1060*) og endringsforordning [(EU) nr. 513/2011](eu/32011*0513), [artikkel 64 i direktiv 2011/61/EU](eu/32011l0061/a64) og endringsforordning [(EU) nr. 462/2013](eu/32013*0462). Engelsk tekst.
 
+Se her for å lese EØS-komitebeslutning nr. 20/2012: [(pdf)](static/NL/22012d0020e-01.pdf)
+
 Engelsk tekst.
+
+Se her for å lese EØS-komitebeslutning nr. 203/2016: [(pdf)](static/NL/22016d0203e-01.pdf)
 
 Engelsk tekst.

@@ -178,6 +178,93 @@ Bestemmelsene i [§ 10](forskrift/2009-06-22-961/§10) trer i kraft 1. august 20
 
 ## Vedlegg 1. Nasjonale laksefjorder
 
+|  |  |
+| --- | --- |
+| *Svennerbassenget:* Sandøy-Strømtangen | Vestfold og Telemark |
+| *Lindesnes-Mannefjorden:* (Lindesnes-Fugløya, grense mot åpent hav følger grunnlinjen) | Vest-Agder |
+| *Kysten Jæren – Dalane:* Tungenes fyr-Åna-Sira | Rogaland |
+| *Sandsfjorden:* Austbø-Jelsa og Vardnes-Breidvik | Rogaland |
+| *Etnefjorden-Ølsfjorden:* Rossaneset-Notaneset | Hordaland |
+| *Fjordene ved Osterøy:* Molviki-Tysso og Skreaneset-Olsnessnipa | Hordaland |
+| *Sognefjorden:* Ortmark-Nessane | Sogn og Fjordane |
+| *Dalsfjorden*: (Holmedal-Strømsnes) | Sogn og Fjordane |
+| *Førdefjorden:* Ålaneset-Engelneset | Sogn og Fjordane |
+| *Nordfjord:* Stårheim-Hamnes, Finnvika-Åseneset | Sogn og Fjordane |
+| *Sunndalsfjorden:* Fjøseid-Merraberget | Møre og Romsdal |
+| *Romsdalsfjorden:* Hamneneset-Okseneset | Møre og Romsdal |
+| *Halsafjorden:* Aksnes-Flesa | Møre og Romsdal |
+| *Ørstafjorden:* Grønvikskjær-Pålskjær | Møre og Romsdal |
+| *Trondheimsfjorden:* Agdenes Fyr-Brekstad | Sør- og Nord-Trøndelag |
+| *Namsfjorden:* Kårbringeskjær-Knappholman, Husvika-Kaldklauv og Fosnes-Namsos kommuner | Nord-Trøndelag |
+| *Åfjorden:* Langhaugan-Hestneset | Sør-Trøndelag |
+| *Vefsnfjorden:* Leinesodden-Sandnessjøen og Hamnes-Bjørga | Nordland |
+| *Ranafjorden:* Leirholmen-Velsvåg | Nordland |
+| *Beiarfjorden* Kvarsnes-Hamnes og Røsnes-Nordsandnes | Nordland |
+| *Malangen:* Tennskjer-Ansnes | Troms |
+| *Reisafjorden* Maurnes-Meiland | Troms |
+| *Kvænangen:* smalt sund vest for Balderselva | Troms |
+| *Neidenfjorden/Bøkfjorden:* Skoalaidvakki rundt Kjøøya til Geresgåppi og Bøkfjord fyr-Raigebakti | Finnmark |
+| *Repparfjorden:* Tappen-Klubbukt | Finnmark |
+| *Altafjorden:* Altnesset-Isnestoften | Finnmark |
+| *Porsangen:* Ytre Veidnes-Kjerringsvikneset | Finnmark |
+| *Tanafjorden:* Russevik-Skarveneset | Finnmark |
+| *Kongsfjorden:* Nålneset-Vesterneset, grense mot åpent hav følger grunnlinjen | Finnmark |
+
 > Endret ved [forskrift 11 aug 2009 nr. 1073](forskrift/2009-08-11-1073).
 
 ## Vedlegg 2. Nasjonale laksevassdrag
+
+|  |  |
+| --- | --- |
+| Enningsdalselva | Østfold |
+| Numedalslågen | Vestfold |
+| Mandalselva | Vest-Agder |
+| Bjerkreimselva | Rogaland |
+| Suldalslågen | Rogaland |
+| Ogna | Rogaland |
+| Håelva | Rogaland |
+| Figgjo | Rogaland |
+| Etneelva | Hordaland |
+| Vosso | Hordaland |
+| Nærøydalselva | Sogn og Fjordane |
+| Lærdalselva | Sogn og Fjordane |
+| Nausta | Sogn og Fjordane |
+| Vikja | Sogn og Fjordane |
+| Flåmselva | Sogn og Fjordane |
+| Årøyelva | Sogn og Fjordane |
+| Oldenelva | Sogn og Fjordane |
+| Stryneelva | Sogn og Fjordane |
+| Gaula | Sogn og Fjordane |
+| Eidselva | Sogn og Fjordane |
+| Rauma | Møre og Romsdal |
+| Ørstaelva | Møre og Romsdal |
+| Driva | Møre og Romsdal |
+| Surna | Møre og Romsdal |
+| Stordalselva-Norddalselva | Sør-Trøndelag |
+| Gaula | Sør-Trøndelag |
+| Orkla | Sør-Trøndelag |
+| Nidelva | Sør-Trøndelag |
+| Stjørdalselva | Nord-Trøndelag |
+| Figga | Nord-Trøndelag |
+| Steinkjervassdraget | Nord-Trøndelag |
+| Årgårdsvassdraget | Nord-Trøndelag |
+| Verdalselva | Nord-Trøndelag |
+| Namsen | Nord-Trøndelag |
+| Roksdalsvassdraget | Nordland |
+| Vefsna | Nordland |
+| Ranaelva | Nordland |
+| Beiarelva | Nordland |
+| Reisaelva | Troms |
+| Målselva | Troms |
+| Kvænangselva | Troms |
+| Altaelva | Finnmark |
+| Repparfjordelva | Finnmark |
+| Stabburselva | Finnmark |
+| Lakselva | Finnmark |
+| Børselva | Finnmark |
+| Langfjordvassdraget | Finnmark |
+| Tana | Finnmark |
+| Komagelva | Finnmark |
+| Vestre Jakobselv | Finnmark |
+| Neidenelva | Finnmark |
+| Kongsfjordelva | Finnmark |

@@ -40,7 +40,27 @@ Bestemmelsene i [§ 5](forskrift/2001-12-12-1494/§5) andre ledd om kompetanse o
 
 ### § 3. Definisjoner
 
-*Eier:*legal person eller person som eier et selskap som driver med produksjon av levende fjørfe.*Dyreholder:*eier eller annen person som har ansvar for det daglige stell av fjørfe på permanent eller midlertidig basis.*Verpehøns:*tamhøns eldre enn 20 uker som holdes for produksjon av konsumegg.*Avlsdyr:*fjørfe eldre enn 20 uker som holdes for produksjon av rugeegg.*Kylling:*ungt dyr av tamhøns som holdes for kjøtt- eller eggproduksjon eller som livdyr for senere å bli avlsdyr.*Livkylling:*fjørfe under 20 uker som oppdrettes for produksjon av egg (inkludert rugeegg).*Daggamle kyllinger:*fjørfe under 72 timer og som ikke er fôret etter klekking.*Dyretetthet:*total vekt av levende dyr som er til stede på samme tid pr. kvadratmeter bruksareal i huset.*Fjørfeanlegg:*uteareal, bygninger og tekniske innretninger hvor det holdes fjørfe.*Flokk:*en gruppe fjørfe som er til stede samtidig i samme hus.*Innredede bur:*bur med rede, vagle, klosliper og strø.*Rede:*rom med annet underlag enn netting som er egnet til egglegging.*Vagle:*passende sittepinne uten skarpe kanter.*Strø:*løst materiale, for eksempel sand, grus flis, halm og torv, som er egnet til at hønene kan tilfredsstille adferdsmessige behov som hakking, skraping og sandbading.*Klosliper:*innretning som sikrer kloslitasje slik at dyras klør ikke vokser seg for lange, for eksempel smergelpapir pålimt innenfor fôrtroa.*Bruksareal:*flateareal tilgjengelig for dyra, Redearealet inngår ikke i bruksarealet.*Frihøyde:*høyde tilgjengelig for hønene for å kunne bevege seg fritt.*Daglig dødelighetsrate:*antall døde kyllinger pr. dag i ett innsett i ett hus dividert på antall kyllinger til stede i huset, multiplisert med 100. Antall døde kyllinger inkluderer de som er avlivet av sykdomsmessige eller andre grunner.*Kumulativ daglig dødelighet:*summen av daglig dødelighet.
+|  |  |
+| --- | --- |
+| *Eier:* | legal person eller person som eier et selskap som driver med produksjon av levende fjørfe. |
+| *Dyreholder:* | eier eller annen person som har ansvar for det daglige stell av fjørfe på permanent eller midlertidig basis. |
+| *Verpehøns:* | tamhøns eldre enn 20 uker som holdes for produksjon av konsumegg. |
+| *Avlsdyr:* | fjørfe eldre enn 20 uker som holdes for produksjon av rugeegg. |
+| *Kylling:* | ungt dyr av tamhøns som holdes for kjøtt- eller eggproduksjon eller som livdyr for senere å bli avlsdyr. |
+| *Livkylling:* | fjørfe under 20 uker som oppdrettes for produksjon av egg (inkludert rugeegg). |
+| *Daggamle kyllinger:* | fjørfe under 72 timer og som ikke er fôret etter klekking. |
+| *Dyretetthet:* | total vekt av levende dyr som er til stede på samme tid pr. kvadratmeter bruksareal i huset. |
+| *Fjørfeanlegg:* | uteareal, bygninger og tekniske innretninger hvor det holdes fjørfe. |
+| *Flokk:* | en gruppe fjørfe som er til stede samtidig i samme hus. |
+| *Innredede bur:* | bur med rede, vagle, klosliper og strø. |
+| *Rede:* | rom med annet underlag enn netting som er egnet til egglegging. |
+| *Vagle:* | passende sittepinne uten skarpe kanter. |
+| *Strø:* | løst materiale, for eksempel sand, grus flis, halm og torv, som er egnet til at hønene kan tilfredsstille adferdsmessige behov som hakking, skraping og sandbading. |
+| *Klosliper:* | innretning som sikrer kloslitasje slik at dyras klør ikke vokser seg for lange, for eksempel smergelpapir pålimt innenfor fôrtroa. |
+| *Bruksareal:* | flateareal tilgjengelig for dyra, Redearealet inngår ikke i bruksarealet. |
+| *Frihøyde:* | høyde tilgjengelig for hønene for å kunne bevege seg fritt. |
+| *Daglig dødelighetsrate:* | antall døde kyllinger pr. dag i ett innsett i ett hus dividert på antall kyllinger til stede i huset, multiplisert med 100. Antall døde kyllinger inkluderer de som er avlivet av sykdomsmessige eller andre grunner. |
+| *Kumulativ daglig dødelighet:* | summen av daglig dødelighet. |
 
 > Endret ved [forskrift 24 jan 2013 nr. 64](forskrift/2013-01-24-64).
 
@@ -190,6 +210,8 @@ I avlsarbeidet skal det legges vekt på å få frem friske og robuste dyr. Det s
 
 Verpehøns i løsdrift skal ha:maksimum ni dyr pr. m2 bruksareal som er tilgjengelig for dyra. Bruksarealet skal ha en bredde på minst 30 cm og frihøyden skal være minst 45 cm. Gulvhellingen skal være mindre enn 14%,minst et enkeltrede for hver syvende verpehøne. Hvis det nyttes fellesreder, skal det være minst 1 m2 redeplass pr. 120 høner,vagle hvor det er beregnet minst 15 cm til hver høne. Alle hønene skal kunne vagle seg samtidig. Vaglen skal ikke være anbrakt over strøområdet, og den vannrette avstanden mellom vaglene skal være minst 30 cm og mellom sittepinnen og veggen minst 20 cm,et areal med strø på minst 1/3 av gulvarealet og minst 250 cm2 pr. høne,avlang fôrtro med minimum 10 cm troplass pr. høne eller rund fôrtro med minimum 4 cm troplass pr. høne,drikkerenner med minimum 2,5 cm troplass pr. høne eller rundt drikkekar med minimum 1 cm troplass pr. høne. Hvis det anvendes vannipler eller drikkekopper, skal det være minst en drikkekopp eller vannippel pr. tiende høne,underlag i bingene som er slik utformet at det gir tilstrekkelig støtte for alle de fremadrettede klørne på hver fot.
 
+1 Inkurie: Skal vel være løsdriftssystemer.
+
 ### § 26. Krav til aviarier
 
 I produksjonssystemer hvor verpehøns kan bevege seg fritt mellom etasjer (aviarier) skal i tillegg til [§ 25](forskrift/2001-12-12-1494/§25), følgende gjelde:det skal være maksimum fire etasjer over hverandre,frihøyden mellom etasjene skal være minst 45 cm,fôrings- og drikkeanleggene skal være fordelt slik at alle hønene har lik adgang,etasjene skal være innrettet slik at ekskrementer ikke faller gjennom til underliggende etasjer,det skal være mulig å føre forsvarlig tilsyn med alle dyra.
@@ -294,7 +316,15 @@ Fothelseprogrammet baserer seg på vurdering av slaktekyllingenes tråputer på 
 
 Tråputepoeng beregnes på bakgrunn av klassifiseringen i annet ledd og inndeles i nivåene A, B og C.
 
-Ved introduksjon i programmet kreves tre innsett med A på rad for å øke maksimal tetthet fra 34 til 36 kg. Produsenter som kan dokumentere tre innsett med A på rad rett i forkant for introduksjon, kan øke maksimal tetthet fra 34 til 36 kg umiddelbart. Deretter påvirker oppnådd nivå tettheten slik:*Tillatt maks tetthet**Oppnådd nivå**Konsekvenser i påfølgende innsett*Over 25 kg t.o.m. 33 kgEtt innsett med AØkning med maks 2 kg.Over 33 kg t.o.m. 36 kgTre innsett med A på radØkning med maks 2 kg.Over 25 kg t.o.m. 36 kgEtt innsett med BReduksjon med 3 kg.Unntak: etter fire innsett med A på rad gir ett innsett med BIngen endring.Over 25 kg t.o.m. 36 kgEtt innsett med CReduksjon med 5 kg.
+Ved introduksjon i programmet kreves tre innsett med A på rad for å øke maksimal tetthet fra 34 til 36 kg. Produsenter som kan dokumentere tre innsett med A på rad rett i forkant for introduksjon, kan øke maksimal tetthet fra 34 til 36 kg umiddelbart. Deretter påvirker oppnådd nivå tettheten slik:
+
+| *Tillatt maks tetthet* | *Oppnådd nivå* | *Konsekvenser i påfølgende innsett* |
+| --- | --- | --- |
+| Over 25 kg t.o.m. 33 kg | Ett innsett med A | Økning med maks 2 kg. |
+| Over 33 kg t.o.m. 36 kg | Tre innsett med A på rad | Økning med maks 2 kg. |
+| Over 25 kg t.o.m. 36 kg | Ett innsett med B | Reduksjon med 3 kg. |
+|  | Unntak: etter fire innsett med A på rad gir ett innsett med B | Ingen endring. |
+| Over 25 kg t.o.m. 36 kg | Ett innsett med C | Reduksjon med 5 kg. |
 
 Hvis forhold som ligger utenfor produsentens kontroll medfører høy klassifisering for ett innsett, kan Mattilsynet etter søknad, fatte vedtak om at oppnådd nivå ikke skal medføre nedsatt tetthet i påfølgende innsett.
 
@@ -393,6 +423,8 @@ Innholdet i kurset skal dekke kravene i denne forskriften og ha fokus på dyreve
 > Vedlegg 2 tilføyd ved [forskrift 24 jan 2013 nr. 64](forskrift/2013-01-24-64). Endret ved [forskrift 12 feb 2013 nr. 195](forskrift/2013-02-12-195).
 
 ## VEDLEGG 3. Dokumentasjon og oppfølging på slakteriet
+
+*Dødelighet*
 
 1. Ved dyretetthet over 33 kg/m2 skal dyreholder sørge for at dokumentasjonen som følger flokken, inneholder opplysninger om daglig dødelighetsrate og kumulativ daglig dødelighet etter dyreholders beregning, og opplysninger om rase eller hybrid flokken består av.
 2. Under tilsyn av Mattilsynet skal slakteriet registrere opplysningene nevnt under [punkt](forskrift/2001-12-12-1494/kap1) 1 sammen med antall dyr som er døde ved ankomst slakteri med angivelse av produsent og bedriftsenhet/kyllinghus. Riktigheten av dataene og den kumulative dødelighet skal kontrolleres i forhold til antall døde dyr ved ankomst slakteri og antall dyr som blir slaktet.

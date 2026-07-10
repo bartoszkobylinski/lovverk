@@ -58,7 +58,11 @@ Tilskuddsmottaker må være registrert i Frivillighetsregisteret på søknadstid
 
 Tilskudd kan gis til etablering av tilbud om lavterskel arbeidsrettede aktiviteter til målgruppen.
 
+*Tidsperiode for tilskudd*
+
 Tilskuddet er tidsbegrenset, og tildeles for ett år av gangen. Prosjekter er prioritert i tre år forutsatt at tilskuddet benyttes til formålet og at det bevilges midler over statsbudsjettet. Det kan gis tilskudd i ytterligere to år. Ved tilskudd ut over tre år vil det bli stilt krav om en samarbeidsavtale med kommunen og/eller Nav-kontor. Maksimal periode for tilskudd er fem år.
+
+*Hva det ikke kan gis tilskudd til:*
 
 Det gis ikke tilskudd til aktiviteter som er en del av organisasjonens ordinære drift, eller fortsatt drift av allerede etablerte tilbud til målgruppen. Søknader kan imidlertid ta utgangspunkt i organisasjonenes foreliggende aktiviteter og være en videreutvikling av disse. Det kan gis tilskudd til geografisk spredning av et eksisterende tilbud til andre deler av landet. Dette må klargjøres i søknaden.
 
@@ -118,9 +122,13 @@ Vilkårene anses akseptert når bekreftelsesskjema er signert og mottatt av Arbe
 
 Hvert år skal tilskuddsmottaker levere rapportering for å dokumentere måloppnåelse, jf. kriterier for måloppnåelse i [§ 2-1](forskrift/2025-11-27-2357/§2-1). Rapporteringsfristen er 31. mars året etter at tilskuddsmidlene ble tildelt. Ved manglende måloppnåelse skal dette begrunnes og tiltak for bedre måloppnåelse i videre drift skal beskrives.
 
+*Revidert prosjektregnskap*
+
 Tilskuddsmottaker skal levere et prosjektregnskap som viser at tilskuddsmidlene er benyttet i henhold til søknaden og budsjettet som ligger til grunn for tilskuddet, og vilkårene i forskriften og tilskuddsbrevet. Prosjektregnskapet skal vise alle inntekter og utgifter som er relatert til aktivitetene som er finansiert av tilskuddet.
 
 For tilskudd over 500 000 kroner skal prosjektregnskapet være revidert av en statsautorisert revisor. Revisjonen, samt eventuelle avtalte kontrollhandlinger, skal utføres i henhold til gjeldende revisjonsstandarder. For tilskudd under 500 000 kroner er det normalt tilstrekkelig at revisjon av prosjektregnskapet er utført av en valgt revisor. Eventuell valgt revisor skal være uavhengig av regnskapsfører og styret i organisasjonen. Ut fra en konkret risiko- og vesentlighetsvurdering kan det stilles krav om at prosjektregnskapet skal være revidert av en statsautorisert revisor for tilskudd under 500 000 kroner.
+
+*Prosjektrapport*
 
 Det skal leveres en prosjektrapport som skal inneholde en beskrivelse av mål, gjennomføring, aktiviteter, ressursbruk og måloppnåelse.
 

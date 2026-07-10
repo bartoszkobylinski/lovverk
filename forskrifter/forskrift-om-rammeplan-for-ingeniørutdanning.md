@@ -40,6 +40,8 @@ Læringsutbyttebeskrivelsene er formulert med utgangspunkt i fastsatt Nasjonalt 
 
 En kandidat med fullført og bestått 3-årig bachelorgrad i ingeniørfag skal ha følgende samlede læringsutbytte definert i form av kunnskap, ferdigheter og generell kompetanse:
 
+*Kunnskap*
+
 Kandidaten har bred kunnskap som gir et helhetlig systemperspektiv på ingeniørfaget generelt, med fordypning i eget ingeniørfag.
 
 Kandidaten har grunnleggende kunnskaper i matematikk, naturvitenskap, relevante samfunns- og økonomifag og om hvordan disse kan integreres i ingeniørfaglig problemløsning.
@@ -49,6 +51,8 @@ Kandidaten har kunnskap om teknologiens historie, teknologiutvikling, ingeniøre
 Kandidaten kjenner til forsknings- og utviklingsarbeid innenfor eget fagfelt, samt relevante metoder og arbeidsmåter innenfor ingeniørfaget.
 
 Kandidaten kan oppdatere sin kunnskap innenfor fagfeltet, både gjennom informasjonsinnhenting og kontakt med fagmiljøer og praksis.
+
+*Ferdigheter*
 
 Kandidaten kan anvende kunnskap og relevante resultater fra forsknings- og utviklingsarbeid for å løse teoretiske, tekniske og praktiske problemstillinger innenfor ingeniørfaget og begrunne sine valg.
 
@@ -61,6 +65,8 @@ Kandidaten kan identifisere, planlegge og gjennomføre ingeniørfaglige prosjekt
 Kandidaten kan finne, vurdere, bruke og henvise til informasjon og fagstoff og framstille dette slik at det belyser en problemstilling.
 
 Kandidaten kan bidra til nytenkning, innovasjon og entreprenørskap gjennom deltakelse i utvikling og realisering av bærekraftige og samfunnsnyttige produkter, systemer og/eller løsninger.
+
+*Generell kompetanse*
 
 Kandidaten har innsikt i miljømessige, helsemessige, samfunnsmessige og økonomiske konsekvenser av produkter og løsninger innenfor sitt fagområde og kan sette disse i et etisk perspektiv og et livsløpsperspektiv.
 
@@ -93,6 +99,8 @@ En bacheloroppgave er obligatorisk for alle og skal inngå i teknisk spesialiser
 Institusjonene skal legge til rette for et internasjonalt semester og et internasjonalt perspektiv i utdanningen.
 
 Utdanningene skal ha tett kontakt med relevant nærings- og arbeidsliv. Utdanningen skal gjennom laboratoriearbeid og praksis vise teknologiens anvendelser og utfylle den teoretiske delen av utdanningen. Studiepoenggivende praksis som er relevant i forhold til studentens tekniske spesialisering, kan inngå i valgfrie emner, eller med inntil 10 studiepoeng i tekniske spesialisering.
+
+*Studiemodell Y-vei*
 
 Institusjoner som ønsker å tilby ingeniørutdanning for søkere med grunnlag i relevant fagbrev (Y-vei), jf. § 3-3 i forskrift om opptak til høyere utdanning, skal utarbeide et eget tilrettelagt løp innenfor studieretningen for dette opptaksgrunnlaget. Dette løpet skal bygges opp slik at kandidatene som er tatt opp gjennom Y-vei, oppnår det samme læringsutbyttet som øvrige kandidater.
 

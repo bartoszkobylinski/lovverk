@@ -372,6 +372,10 @@ Loven trer i kraft frå det tidspunktet1 Kongen fastset. Kongen kan bestemme at 
 
 Loven gjeld for arrestordrar mottekne etter at loven har tredd i kraft. Utleveringskrav mottekne før loven har tredd i kraft, vert behandla etter [lov 3. mars 1961 nr. 1](lov/1961-03-03-1) om utlevering av lovbrytarar til Danmark, Finland, Island og Sverige eller etter [lov 13. juni 1975 nr. 39](lov/1975-06-13-39) om utlevering av lovbrytarar m.v.
 
+1 § 1 til § 42 tek til å gjelde 16 okt 2012 for nordiske arrestordrar. § 43 med unntak av endringa i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895). § 1 til § 42 tek til å gjelde 1 nov 2019 for så vidt gjeld nordisk-europeiske arrestordrar. § 43 om endring i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 1 nov 2019 iflg. [res. 18 okt 2019 nr. 1387](forskrift/2019-10-18-1387).
+
 ### § 43. Endringar i andre lover
 
 Frå den tida Kongen fastset,1 blir det gjort følgjande endringar i anna lovgiving: – – –
+
+1 § 1 til § 42 tek til å gjelde 16 okt 2012 for nordiske arrestordrar. § 43 med unntak av endringa i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 16 okt 2012 iflg. [res. 21 sep 2012 nr. 895](forskrift/2012-09-21-895). § 1 til § 42 tek til å gjelde 1 nov 2019 for så vidt gjeld nordisk-europeiske arrestordrar. § 43 om endring i [lov 13 juni 1975 nr. 39 § 1](lov/1975-06-13-39/§1) tek til å gjelde 1 nov 2019 iflg. [res. 18 okt 2019 nr. 1387](forskrift/2019-10-18-1387).

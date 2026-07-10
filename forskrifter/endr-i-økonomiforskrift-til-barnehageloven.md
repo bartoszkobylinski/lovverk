@@ -24,6 +24,14 @@ eu_basis: []
 
 ## I
 
+I [forskrift 16. desember 2022 nr. 2322 om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven)](forskrift/2022-12-16-2322) gjøres følgende endringer:
+
+Hjemmelsfeltet skal lyde:
+
+**Hjemmel:** Fastsatt av Kunnskapsdepartementet 16. desember 2022 med hjemmel i [lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 7a](lov/2005-06-17-64/§7a), [§ 23 femte ledd](lov/2005-06-17-64/§23/ledd/5), [§ 23a andre ledd tredje punktum](lov/2005-06-17-64/§23a/ledd/2/setning/3) og [§ 23c første ledd andre punktum](lov/2005-06-17-64/§23c/ledd/1/setning/2).
+
+[§ 4 andre ledd første punktum](forskrift/2022-12-16-2322/§4/ledd/2/setning/1) skal lyde:
+
 Tilleggsvirksomhet etter [barnehageloven § 23a andre ledd andre punktum](lov/2005-06-17-64/§23a/ledd/2/setning/2) og denne forskriften [§ 3 første ledd](forskrift/2022-12-16-2322/§3/ledd/1) skal føres på en egen avdeling.
 
 ## II

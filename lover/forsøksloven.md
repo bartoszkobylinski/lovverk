@@ -58,6 +58,8 @@ Kongen kan gi nærmere regler om forsøk etter denne lov, herunder om antallet f
 
 ## § 7. Forlengelse av forsøk etter annen lovgivning
 
+– – –
+
 ## § 8. Ikrafttreden
 
 Denne lov trer i kraft 1. januar 1993.

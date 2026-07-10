@@ -41,3 +41,5 @@ Den som forsettlig eller uaktsomt overtrer forskrifter gitt i medhold av [§ 1](
 ## § 4.
 
 Denne lov trer i kraft fra det tidspunkt Kongen bestemmer.1
+
+1 Fra 7 juni 1974 iflg. [res. 7 juni 1974 nr. 1](forskrift/1974-06-07-1).

@@ -22,9 +22,15 @@ eu_basis: []
 
 # Lov om endringer i politiloven (generell bevæpning av politiet)
 
+Endringer i følgende lov:
+
 - [Lov 4. august 1995 nr. 53 om politiet (politiloven)](lov/1995-08-04-53).
 
 ## I
+
+I [lov 4. august 1995 nr. 53 om politiet](lov/1995-08-04-53) gjøres følgende endringer:
+
+[§ 6 femte ledd](lov/1995-08-04-53/§6/ledd/5) skal lyde:
 
 Politiet skal i alminnelighet være bevæpnet med skytevåpen i tjenesten. Politidirektoratet skal gi nærmere bestemmelser om omfanget av bevæpningen, herunder om tjenestetyper og oppdrag som kan utføres ubevæpnet.
 

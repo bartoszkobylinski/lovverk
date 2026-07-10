@@ -23,3 +23,5 @@ eu_basis: []
 # Delegering av myndighet til Produkt- og elektrisitetstilsynet etter lov om tilsyn med elektriske anlegg og elektrisk utstyr § 10, § 11 og § 13.
 
 Kommunal- og arbeidsdepartementets myndighet til å fastsette forskrifter gitt med hjemmel i [lov av 24. mai 1929 nr. 4](lov/1929-05-24-4) om tilsyn med elektriske anlegg og elektrisk utstyr [§ 10](lov/1929-05-24-4/§10), [§ 11](lov/1929-05-24-4/§11) og [§ 13](lov/1929-05-24-4/§13), jf. Kronprinsreg.res. av 4. august 1995 nr. 692, delegeres til Produkt- og elektrisitetstilsynet.1
+
+1 Nå Direktoratet for brann- og elsikkerhet.

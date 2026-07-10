@@ -628,3 +628,6 @@ Kongen kan gi nærmere overgangsregler.
 
 > Endret ved [lov 21 juni 2013 nr. 82](lov/2013-06-21-82) (ikr. 1 juli 2014 iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449)).
 Iflg. [res. 4 des 2015 nr. 1397](forskrift/2015-12-04-1397) trådte § 14 ikr. 1 jan 2016.
+
+1 Iflg. [res. 27 sep 2013 nr. 1132](forskrift/2013-09-27-1132) som endret ved [res. 13 des 2013 nr. 1449](forskrift/2013-12-13-1449) og [res. 20 juni 2014 nr. 789](forskrift/2014-06-20-789) trådte loven ikr. 1 juli 2014, med unntak av § 14 og § 57 (som ble gitt nytt innhold ved [lov 21 juni 2017 nr. 94](lov/2017-06-21-94) med ikr. 6 mai 2018), og § 12, som trådte ikr. 27 sep 2013 med virkning fra 13 sep 2013.
+Iflg. [res. 4 des 2015 nr. 1397](forskrift/2015-12-04-1397) trådte § 14 ikr. 1 jan 2016.

@@ -458,6 +458,8 @@ Den som forsettlig eller grovt uaktsomt gir vesentlig uriktige eller åpenbart v
 
 Loven trer i kraft fra den tid Kongen bestemmer.1 Fra samme tid oppheves [lov 8. desember 1950 nr. 3](lov/1950-12-08-3) om norsk riksborgarrett.
 
+1 Fra 1 sep 2006 iflg. [res. 30 juni 2006 nr. 753](forskrift/2006-06-30-753).
+
 ### § 35. Den europeiske konvensjon om statsborgerskap
 
 Stortinget samtykker i ratifikasjon av Den europeiske konvensjon om statsborgerskap 6. november 1997.

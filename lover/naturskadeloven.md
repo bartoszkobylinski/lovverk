@@ -148,6 +148,8 @@ For øvrig gis plan- og [bygningslovens kapittel 18](lov/2008-06-27-71/kap18) un
 
 Loven trer i kraft fra den tid Kongen bestemmer.1
 
+1 Fra 1 jan 1995 iflg. [res. 25 mars 1994 nr. 232](forskrift/1994-03-25-232).
+
 ## § 26.
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –

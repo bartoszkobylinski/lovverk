@@ -126,6 +126,8 @@ Kravene i tredje og fjerde ledd gjelder ikke for radioutstyr som er omfattet av 
 
 > Tilføyd ved forskrift [21 nov 2023 nr. 1889](forskrift/2023-11-21-1889) (i kraft 1 aug 2024), endret ved forskrifter [17 april 2024 nr. 632](forskrift/2024-04-17-632) (i kraft 1 aug 2025), [26 aug 2025 nr. 1745](forskrift/2025-08-26-1745).
 
+1 Leketøydirektivet (direktiv [2009/48/EF](eu/32009l0048)), gjennomført i [forskrift 18. november 2013 nr. 1403 om sikkerhet ved leketøy (leketøyforskriften)](forskrift/2013-11-18-1403).2 Se direktiv [(EU) 2019/713](eu/32019l0713) artikkel 2 punkt d.
+
 ### § 11c. Krav til felles ladegrensesnitt
 
 Radioutstyr omfattet av vedlegg 5 del 1 skal konstrueres slik at det oppfyller spesifikasjonene for ladeegenskaper som følger av vedlegg 5 del 1.
@@ -491,43 +493,83 @@ Belgia (BE), Bulgaria (BG), Tsjekkia (CZ), Danmark (DK), Tyskland (DE), Estland 
 ### Del 1
 Spesifikasjoner for ladeegenskaper
 
+1\.
+
 Kravene fastsatt i nr. 2 og 3 i denne delen får anvendelse på følgende kategorier eller klasser av radioutstyr:
+
+1.1.
 
 Håndholdte mobiltelefoner.
 
+1.2.
+
 Nettbrett.
+
+1.3.
 
 Digitalkameraer.
 
+1.4.
+
 Hodetelefoner.
+
+1.5.
 
 Hodetelefoner med mikrofon.
 
+1.6.
+
 Håndholdte videospillkonsoller.
+
+1.7.
 
 Bærbare høyttalere.
 
+1.8.
+
 Lesebrett.
+
+1.9.
 
 Tastaturer.
 
+1.10.
+
 Mus.
+
+1.11.
 
 Bærbare navigasjonssystemer.
 
+1.12.
+
 Ørepropper.
+
+1.13.
 
 Bærbare datamaskiner.
 
+2\.
+
 I den grad de kan lades med kabel, skal de kategorier eller klasser av radioutstyr som er nevnt i nr. 1 i denne delen,
+
+2.1.
 
 være utstyrt med et en USB type-C-kontakt, som beskrevet i standarden EN IEC 62680-1-3:2022 «Universal serial bus interfaces for data and power – Part 1–3: Common components – USB Type-C® Cable and Connector Specification», og denne kontakten skal være tilgjengelig og fungere til enhver tid,
 
+2.2.
+
 kunne lades med kabler som er i samsvar med standarden EN IEC 62680-1-3:2022 «Universal serial bus interfaces for data and power – Part 1–3: Common components – USB Type-C® Cable and Connector Specification».
+
+3\.
 
 De kategorier eller klasser av radioutstyr som er nevnt i nr. 1 i denne delen, skal, i den grad de kan lades med kabel ved en høyere spenning enn 5 volt, høyere strømstyrke enn 3 ampere eller høyere effekt enn 15 watt:
 
+3.1.
+
 støtte USB Power Delivery, som beskrevet i standarden EN IEC 62680-1-2:2022 «Universal serial bus interfaces for data and power – Part 1–2: Common components – USB Power Delivery specification»,
+
+3.2.
 
 være slik konstruert at eventuelle tilleggsprotokoller for lading muliggjør full funksjonalitet av USB Power Delivery nevnt i nr. 3.1, uavhengig av hvilken ladeenhet som brukes.
 
@@ -539,19 +581,33 @@ For radioutstyr som omfattes av del 1, skal følgende opplysninger angis i samsv
 ### Del 3
 Piktogram som angir om en ladeenhet følger med radioutstyret eller ikke
 
+1\.
+
 Piktogrammet skal ha følgende formater:
+
+1.1.
 
 Dersom en ladeenhet følger med radioutstyret:
 
+1.2.
+
 Dersom det ikke følger noen ladeenhet med radioutstyret:
+
+2\.
 
 Så lenge det forblir synlig og leselig, kan piktogrammets utforming variere (f.eks. når det gjelder farge, kontur og linjetykkelse). Dersom piktogrammet forminskes eller forstørres, skal størrelsesforholdet som er angitt i figurene i nr. 1 i denne delen, opprettholdes. Størrelsen «a» nevnt i nr. 1 i denne delen skal være minst 7 mm, uavhengig av endringen.
 
 ### Del 4
 Etikettens innhold og format
 
+1\.
+
 Etiketten skal ha følgende format:
 
+2\.
+
 Bokstavene «XX» skal erstattes med det tallet som tilsvarer den laveste effekten som kreves av radioutstyret for lading, og som bestemmer den laveste effekten som en ladeenhet må levere for å lade radioutstyret. Bokstavene «YY» skal erstattes med det tallet som tilsvarer den største effekten som radioutstyret må ha for å oppnå høyeste ladehastighet, og som bestemmer hvilken effekt en ladeenhet minst må levere for å oppnå denne høyeste ladehastigheten. Forkortelsen «USB PD» (USB Power Delivery) skal angis dersom radioutstyret støtter denne ladekommunikasjonsprotokollen. «USB PD» er en protokoll som gir den raskeste tilførselen av strøm fra ladeenheten til radioutstyret uten å forkorte batteriets levetid.
+
+3\.
 
 Så lenge den forblir synlig og leselig, kan etikettens utforming variere (f.eks. når det gjelder farge, kontur og linjetykkelse). Dersom etiketten forminskes eller forstørres, skal størrelsesforholdet som er angitt i figurene i nr. 1 i denne delen, opprettholdes. Størrelsen «a» nevnt i nr. 1 i denne delen skal være minst 7 mm, uavhengig av endringen.

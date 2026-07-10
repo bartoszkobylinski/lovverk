@@ -200,6 +200,8 @@ Denne forskrift trer i kraft 1. januar 2001. For kravet til godkjenning i [kap. 
 
 Fra 1. januar 2001 oppheves følgende forskrifter og rundskriv:
 
+*Forskrifter:*
+
 - [forskrifter av 13. november 1936 nr. 4941](forskrift/1936-11-13-4941) om utrydding av veggedyr,
 - [forskrifter av 15. februar 1938 nr. 1](forskrift/1938-02-15-1) for utgassing av bygninger med blåsyregass som middel til å utrydde rotter, veggedyr, kakerlakker m.v.,
 - [forskrifter av 5. desember 1940 nr. 9319](forskrift/1940-12-05-9319) for utgassing av drivhus og liknende rom med blåsyregass ved kalsiumcyanidholdige pulver til bekjempelse av utøy,
@@ -207,6 +209,8 @@ Fra 1. januar 2001 oppheves følgende forskrifter og rundskriv:
 - [forskrifter av 16. juli 1946 nr. 1](forskrift/1946-07-16-1) om utrydding av rotter m.v.,
 - [forskrifter av 19. oktober 1959 nr. 1](forskrift/1959-10-19-1) for utgassing med blåsyregass,
 - [forskrifter av 30. juni 1967 nr. 4](forskrift/1967-06-30-4) for utgassing av bygninger, skip, drivhus o.l. rom og i utgassingskammer med metylbromid eller stoffer som inneholder metylbromid.
+
+*Rundskriv:*
 
 - Det kongelige departement for sociale saker: Angående utgassing med blåsyregass. Rundskrivelse 2. januar 1932.
 - Socialdepartementet: Om blåsyregass. Rundskrivelse 25. juni 1935.
@@ -235,12 +239,16 @@ Fra 1. januar 2001 oppheves følgende forskrifter og rundskriv:
 - Helsedirektoratet: Tularemi – «Harepest». Rundskriv nr. 100/1967, 7. desember 1967.
 - Helsedirektoratet: Rottegift godkjent for offentlig rotteutrydding. Rundskriv nr. I-1083/1974, 16. september 1974.
 
+*Fra den tid Kongen bestemmer oppheves:*
+
 - Kgl.res. av 1. mai 1931 om bestemmelser om utgassing av bygning, skib, drivhus og lignende rum med blåsyregass eller annen farlig gass,
 - Kgl.res. av 11. januar 1935 om bestemmelser om utgassing i utgassingskammere med blåsyregass eller annen farlig gass.
 
 ## Merknader til bestemmelsene i forskriften
 
 ### Til kapittel I
+
+*Til [§ 1-2](forskrift/2000-12-21-1406/§1-2)*
 
 Forskriften gjelder for all bekjempelse av skadedyr enten den er foretatt av privatpersoner i sitt eget hjem, det offentlige som eier av bygning og lignende eller av et profesjonelt skadedyrfirma på vegne av privat eller offentlig oppdragsgiver. Den gjelder med noen få unntak som følger av bestemmelsen for alle typer bekjempelsesmidler, dvs. biocidholdige produkter og mekaniske innretninger, som for eksempel en lysfelle.
 
@@ -254,29 +262,47 @@ Forskriften avgrenses mot en del annet nasjonalt regelverk som blant annet lov o
 
 Forskriften avgrenses også mot internasjonale avtaler som Norge har inngått.
 
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3)*
+
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 1*
+
 Skadedyr er definert bredt i forskriften og må relateres til om dyrene utfolder en aktivitet eller har spesielle egenskaper som gjør at mennesker finner å måtte bekjempe dem for å beskytte sine interesser. I forskriften brukes betegnelsen skadedyr om dyr og andre levende organismer som kan utgjøre en trussel mot eller som kan innvirke skadelig eller negativt på menneskers helse og trivsel. Det siktes først og fremst til dyr i den ville fauna som kan settes i forbindelse med opptreden av smittsomme sykdommer hos mennesker. Det gjelder blant annet enkelte gnagere, for eksempel rotter som kan forurense matvarer og drikkevann. Andre dyrearter, oftest insekter som lopper, lus og visse myggarter mv., kan formidle overføring av en smittsom sykdom gjennom stikk, bitt eller på annen måte. Bestemmelsen presiserer at pattedyr og fugler er omfattet av forskriften og dette kan omfatte for eksempel forvillede katter. Hvorvidt en katt er forvillet må vurderes konkret, og relevante momenter kan være hvorvidt katten er merket og hvor tam eller sky katten er. De fleste katter har en eier eller opprinnelig eier, og i utgangspunktet må denne eiendomsretten respekteres. Se også merknadene til [§ 1-2](forskrift/2000-12-21-1406/§1-2) om at denne forskriften ikke fritar fra øvrig regelverk, og at blant annet dyrevelferdsloven og [forskrift 11. oktober 1998 nr. 991](forskrift/1998-10-11-991) om avliving av hund og katt stiller krav for å fremme dyrevelferd og unngå unødig lidelse for dyrene.
 
 Sykdomsfremkallende mikrober (bakterier og virus med videre) betraktes ikke som skadedyr i denne sammenheng. Bekjempelsen av disse faller inn under helsetjenestens oppgaver i medhold av andre bestemmelser i smittevernloven. Bekjempelsen påhviler veterinærvesenet når det gjelder smittsomme sykdommer hos dyr. Bekjempelse av skadedyr i husdyrrom (som fjøs, stall eller hønserier) må utføres av godkjente skadedyrbekjempere, eller av eier på egen eiendom. Desinfeksjon av mikroorganismer i husdyrrom, med for eksempel formalindamp, kan gjøres av andre enn godkjente skadedyrbekjempere.
 
 Skadedyrbegrepet omfatter også dyr og andre levende organismer som i seg selv ikke innvirker på helsen, men som gjør materiell skade og der bekjempelse medfører bruk av midler som kan føre til helseproblemer hos mennesker. Midlene kan være de samme som, eller være beslektet med dem som brukes mot dyr, og som kan medføre helseskade. Med materiell skade siktes det til skade på materialer, bygninger, matvarer, ikke matnyttige vekster, klær og lignende. Sopp er en levende organisme, men er ikke å anse som skadedyr etter denne forskriften. Heller ikke alger og lav anses som skadedyr og er dermed ikke omfattet av denne forskriften.
 
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 2*
+
 Med bekjempelsesmiddel forstås alle midler som i praktisk bruk kan fordrive, skremme eller tiltrekke, som tar sikte på avliving og utryddelse, eller som hindrer formering. Det kan være kjemiske stoffer og preparater (biocidholdige produkter) som nyttes i fast eller flytende form eller som gass.
 
 Med konstruksjoner forstås alle typer feller og mekaniske eller elektroniske apparater som tar sikte på å fordrive, tiltrekke, fange eller avlive skadedyr.
 
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 3*
+
 Med bekjempelsesmetode menes i forskriften fremgangsmåte for anvendelse av et bekjempelsesmiddel. Valg av bekjempelsesmetode skal baseres på en faglig vurdering av bekjempelsesmiddelets effekt til et bestemt formål sammenholdt med eventuelle skadelige virkninger.
+
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 4*
 
 Skadedyrbekjempelse er etter forskriften et samlebegrep som omfatter alle relevante tiltak som skal forebygge, utrydde eller redusere forekomst av skadedyr. Tiltakene kan være av ulik karakter, fra svært omfattende tiltak som for eksempel gassing av bolig, til mindre tiltak som for eksempel å sette ut musefeller. Soppsanering er derimot ikke å anse som skadedyrbekjempelse.
 
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 5*
+
 Forskriften legger opp til en godkjenningsordning som knytter seg til person. Det er enkeltpersoner som blir godkjent som skadedyrbekjempere og ikke virksomheten som sådan. For å drive ervervsmessig skadedyrbekjempelse må minst en person i virksomheten være godkjent i henhold til forskriften. Personer uten godkjenning kan medvirke som medhjelpere, se merknader til [§ 3-1](forskrift/2000-12-21-1406/§3-1).
+
+*Til [§ 1-3](forskrift/2000-12-21-1406/§1-3) nr. 6*
 
 Definisjonen av internkontroll er utformet på samme måte som i [forskrift 6. desember 1996 nr. 1127](forskrift/1996-12-06-1127) om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter. Generell veiledning som er utarbeidet på området for HMS-arbeid vil følgelig også ha relevans ved internkontroll i henhold til skadedyrforskriften. Systemet forutsettes innarbeidet i det eksisterende internkontrollsystemet som virksomheten har fra før. Det vises forøvrig til merknaden til [§ 5-1](forskrift/2000-12-21-1406/§5-1).
 
 ### Til kapittel II
 
+*Til [§ 2-1](forskrift/2000-12-21-1406/§2-1) og [§ 2-2](forskrift/2000-12-21-1406/§2-2)*
+
 Eier eller bruker har et ansvar for å iverksette tiltak for å forebygge og utrydde forekomst av skadedyr. Dersom eier og bruker er samme person, vil spørsmålet om fordeling av ansvar mellom eier og bruker ikke oppstå. Der eier og bruker er to forskjellige subjekter, har begge en selvstendig plikt til å iverksette tiltak i henhold til bestemmelsene. Dette innebærer at begge kan bli holdt ansvarlig dersom kravene ikke er oppfylt. Det er imidlertid naturlig at det er brukeren som tar initiativ til tiltakene dersom skadedyrproblemet er av lokal art og der det i all hovedsak er brukeren som er skadelidende. Foreligger det et større skadedyrproblem, for eksempel i et hus med utleieleiligheter med flere brukere, er det naturlig at eieren tar initiativet.
 
 Forebyggende tiltak kan for eksempel være å påse at søppel håndteres forsvarlig og at matrester er pakket inn. Iverksettende tiltak er for eksempel utlegging av gift og gassing av bolig.
+
+*Til [§ 2-3](forskrift/2000-12-21-1406/§2-3) og [§ 2-4](forskrift/2000-12-21-1406/§2-4)*
 
 Kommunen kan på eget initiativ pålegge eier eller bruker å iverksette forebyggende eller utryddende tiltak når forekomst av skadedyr tilsier dette. Kommunens vedtak kan påklages til statsforvalteren, jf. forskriften [§ 5-5](forskrift/2000-12-21-1406/§5-5) og [folkehelseloven § 19](lov/2011-06-24-29/§19).
 
@@ -284,9 +310,13 @@ Kommunen kan iverksette tiltaket for eiers eller brukers regning. Eier og bruker
 
 Ved overhengende fare for helseskade kan kommunen forby bruk av bygning og lignende. Hva som er overhengende fare må avgjøres på bakgrunn av en konkret vurdering i hvert enkelt tilfelle.
 
+*Til [§ 2-5](forskrift/2000-12-21-1406/§2-5)*
+
 I hastesaker kan kommunelegen bestemme at skadedyrbekjempelse skal skje straks for å hindre overhengende helsefare. Skadedyrbekjemperen må forvisse seg om at naboer og berørte er klar over gjennomføringstidspunktet.
 
 ### Til kapittel III
+
+*Til [§ 3-1](forskrift/2000-12-21-1406/§3-1)*
 
 Bestemmelsen slår fast at eier eller bruker kan utføre skadedyrbekjempelse på egen eiendom. Det er ikke anledning til å foreta skadedyrbekjempelse på annens eiendom, som for eksempel på nabotomt. Blir en ikke enige om felles skadedyrbekjempelse, kan kommunen fatte vedtak om forebyggende tiltak jf. [§ 2-3](forskrift/2000-12-21-1406/§2-3) og utryddelsestiltak jf. [§ 2-4](forskrift/2000-12-21-1406/§2-4).
 
@@ -296,6 +326,8 @@ Også «selgere», «kunderådgivere» eller andre tilknyttet skadedyrfirmaer so
 
 Personer uten godkjenning kan medvirke som medhjelpere i henhold til forskriften. En medhjelper er en person som hjelper til på oppdrag under oppsyn av en godkjent skadedyrbekjemper, jf. merknader til forskriften [§ 3-1](forskrift/2000-12-21-1406/§3-1) annet ledd. Som hovedregel må den godkjente skadedyrbekjemperen selv være fysisk til stede ved skadedyrbekjempelsen.
 
+*Til [§ 3-2](forskrift/2000-12-21-1406/§3-2)*
+
 Bestemmelsen fastsetter substitusjonsprinsippet. Prinsippet er grunnleggende i all forsvarlig skadedyrbekjempelse, og innebærer at man ved bekjempelse skal bruke det minst skadelige middelet som virker for formålet. Det følger av substitusjonsprinsippet at man ikke skal benytte kjemiske midler i forebyggingsøyemed, disse skal forbeholdes uttryddelsestiltak. Unntak er bruk av visse insektmidler i forebyggingsøyemed, for eksempel impregnering av treverk mot treborende insekter samt repellenter i tøy for vern mot blodsugende insekter og midd. Substitusjonsprinsippet følger også av annet regelverk, for eksempel i arbeidsmiljølovgivningen og i den generelle kjemikalielovgivningen (produktkontrolloven).
 
 Biocidforordningen, forordning [(EU) nr. 528/2012](eu/32012r0528*), erstatter det tidligere biociddirektivet (direktiv [98/8/EF](eu/31998l0008*)) og ble gjennomført i norsk rett ved biocidforskriften 10. april 2014 nr. 548. På bakgrunn av dette regelverket er det bygget opp en egen godkjenningsordning for biocidholdige produkter.
@@ -304,13 +336,19 @@ Forskrift om skadedyrbekjempelse forutsetter at bekjempelsesmidler er tillatt i 
 
 Midlene som man må være skadedyrbekjemper med tilleggskurs for å bruke (det vil si som er klassifisert og merket som nevnt ovenfor), er definert av [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP). En godkjenning av et biocidprodukt vil i henhold til biocidforskriften ([forskrift 10. april 2014 nr. 548](forskrift/2014-04-10-548) om av biocider) kunne inneholde visse betingelser for omsetning og bruk, som for eksempel hvilke kategorier av brukere (industrielle, profesjonelle, ikke-profesjonelle) produktet kan benyttes av. Det kan oppstå en situasjon der et middel som har annen klassifisering og annen merking enn nevnt ovenfor, bare blir godkjent for bruk av profesjonelle (for eksempel skadedyrbekjempere). Biocidforskriften kan derfor medføre en ytterligere begrensning i omsetning og bruk av skadedyrbekjempelsesmidler enn det som følger av denne forskriften og forskrift om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).
 
+*Til [§ 3-3](forskrift/2000-12-21-1406/§3-3)*
+
 Skadedyrbekjemperen må i visse tilfeller gi kommunen melding om at skadedyrbekjempelse iverksettes. Dette gjelder utryddelse med midler som etter sin sammensetning er klassifisert i farekategoriene: Acute Tox. 1, Acute Tox. 2, Acute Tox. 3, og merket med faresetningene «Dødelig ved innånding» eller «Giftig ved innånding» i henhold til [forskrift 16. juni 2012 nr. 622](forskrift/2012-06-16-622) om klassifisering, merking og emballering av stoffer og stoffblandinger(CLP). Slik skadedyrbekjempelse kan kun foretas av skadedyrbekjempere med tilleggskurs, jf. [§ 3-2](forskrift/2000-12-21-1406/§3-2) tredje ledd. For skadedyrbekjempelse med de fleste andre midler eller innretninger foreligger det ingen meldingsplikt til kommunen. Et unntak er at det kan kreves melding til kommunen ved felling av grevling, jf. forskrift om utøvelse av jakt, felling og fangst § 36.
 
 Dersom det kan være tvil om forholdet rammes av meldingsplikten, bør dette tas opp med den instans i kommunen som ivaretar oppgavene innen miljørettet helsevern.
 
+*Meldingens innhold*
+
 Meldingen om skadedyrbekjempelse skal inneholde dokumentasjon som viser hvordan det skal sikres at bekjempelsen planlegges og utføres i samsvar med forskriftens bestemmelser. Alle forhold ved tiltaket som kan ha innvirkning på helse, hygiene og sikkerhet skal utredes.
 
 En vurdering av forhold som kan ha innvirkning på helse, hygiene og sikkerhet bør blant annet inneholdebeskrivelse av problemet som gir grunnlag for skadedyrbekjempelsen,overordnet gjennomgang av risikoen for hvilke og hvor alvorlige situasjoner og uheldige hendelser som kan oppstå,informasjon om hvilke(t) skadedyr som skal utryddes eller bekjempes,informasjon om midler og metode som skal anvendes,oversikt over spesielle forhold som kan ha helsekonsekvenser, for eksempel spesiell beliggenhet, utearealer, bygningsmessig utforming mv.,dato og om nødvendig klokkeslett for tiltaket,beskrivelse av omfang av og resultater og konklusjoner fra målinger og kartlegging mv.,oversikt over de dokumenter virksomheten har benyttet som underlagsdokumentasjon for meldingen, for eksempel relevant regelverk, anerkjente normer, standarder og veiledning, ogplan for videre oppfølging og kontroll.
+
+*Kommunens behandling av meldingen*
 
 Meldingen skal gi kommunen grunnlag for å vurdere hvorvidt hensynet til helse, hygiene og sikkerhet ivaretas i skadedyrbekjempelsen. Dersom det avdekkes at disse hensynene ikke ivaretas i tilstrekkelig grad, kan kommunen benytte virkemidlene i [folkehelseloven kapittel 3](lov/2011-06-24-29/kap3).
 
@@ -318,11 +356,15 @@ Det understrekes at kommunens behandling av meldingen ikke fritar skadedyrbekjem
 
 I kommunens saksbehandling forutsettes det at kommunengjør seg kjent med meldingen,underretter skadedyrbekjemperen om at melding er mottatt og i den utstrekning det er aktuelt informerer omhvilke sider av saken som eventuelt ikke er godt nok opplyst eller dokumentert,forhold som tyder på at tiltaket ikke vil oppfylle forskriftens bestemmelser,forhold som tilsier at skadedyrbekjempelsen har et forbedringspotensial,hvorvidt det på bakgrunn av den foreliggende meldingen vil være aktuelt å benytte virkemiddelbestemmelsene i folkehelseloven kapittel 3 i forhold til tiltaket.
 
+*Til [§ 3-4](forskrift/2000-12-21-1406/§3-4)*
+
 Bestemmelsen om nabovarsel kommer til anvendelse både for privat og ervervsmessig skadedyrbekjempelse. Hovedregelen er at naboer som kan bli berørt av skadedyrbekjempelsen eller andre som kan bli berørt skal varsles. Dette innebærer at hver og en skal varsles særskilt om skadedyrbekjempelsen, for eksempel med et eget varsel til hver husstand eller leilighet. Unntaksvis kan nabovarsling foregå ved oppslag, kunngjøring i avis og lignende.
 
 Det går fram av forskriften at nabovarselet skal inneholde opplysninger om tidspunktet for skadedyrbekjempelsen, hvilket bekjempelsesmiddel som skal benyttes og om faresignaler og forholdsregler som bør tas. I tillegg bør nabovarselet inneholde hvem som utfører oppdraget (med adresse og telefonnummer) og angivelse av stedet for bekjempelsen (adresse og leilighetsnummer, eventuelt åteplass).
 
 Nabovarsel kan imidlertid utelates dersom det er åpenbart unødvendig eller ikke er praktisk gjennomførbart. Det er opp til skadedyrbekjemperen selv å vurdere om det er behov for nabovarsel. For skadedyrbekjempere følger det av kravet om internkontroll, jf. [§ 5-1](forskrift/2000-12-21-1406/§5-1), at det må kunne dokumenteres at nabovarsel er blitt vurdert og begrunnelse for at den er utelatt.
+
+*Til [§ 3-5](forskrift/2000-12-21-1406/§3-5)*
 
 Bestemmelsen omhandler tre forhold:
 
@@ -330,9 +372,13 @@ Skadedyrbekjemperensplikt til å føre protokoll. Bestemmelsen regulerer nærmer
 
 ### Til kapittel IV
 
+*Til [§ 4-1](forskrift/2000-12-21-1406/§4-1)*
+
 I rundskriv [I-2012-2](rundskriv/i-2012-2) har departementet gitt bestemmelser om krav til kurs og praksis som skadedyrbekjempere må ha gjennomført og bestått for å bli godkjent for å drive med ervervsmessig skadedyrbekjempelse. Det kreves praksis av minst én måneds varighet der det har vært gjennomført minst 20 bekjempelser dokumentert med protokoller innen hver av områdene: inspeksjon og kontroll av gnagere, og inspeksjon og kontroll av insekter. Dersom man fullfører en av praksisdelene før den andre, for eksempel delen angående gnagere, kan man få midlertidig delgodkjenning til selvstendig bekjempelse innen dette området i ett år. Forutsetningen er at kursdel I og II er gjennomført og bestått. For å bli godkjent skadedyrbekjemper må praksis på det andre området gjennomføres innen ett år etter første delgodkjenning. Formålet med praksiskravet er at skadedyrbekjemperne opparbeider seg praktisk erfaring med skadedyr, hvordan man forebygger og bekjemper dem, og hvordan man utfører arbeidet på en sikker og minst mulig helse- eller miljøskadelig måte.
 
 Etter ti år må godkjenningen fornyes. Det settes som vilkår for fornyet godkjenning at nytt teoretisk kurs er gjennomført, og at kursets avsluttende eksamen er bestått. En skadedyrbekjemper kan melde seg opp til eksamen tre ganger, men er eksamen ikke bestått etter tredje forsøk, vil det ikke gis fornyet godkjenning for skadedyrbekjempelse. I så fall må man ta hele kurset på nytt, og det gis kun ett nytt forsøk på eksamen. Dersom man ikke består, gis ingen nye muligheter for godkjenning. Saksbehandlingsfristen for søknad om godkjenning som skadedyrbekjemper er 30 dager, jf. [tjenestelovens § 11](lov/2009-06-19-103/§11). [Tjenesteloven § 11](lov/2009-06-19-103/§11) annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av skadedyrbekjempere.
+
+*Til [§ 4-2](forskrift/2000-12-21-1406/§4-2)*
 
 Folkehelseinstituttet forvalter godkjenningsordningen for skadedyrbekjempere og kan tilbakekalle godkjenninger, mens kommunene fører tilsyn med etterlevelsen av regelverket.
 
@@ -346,6 +392,8 @@ Slik forlengelse skal i utgangspunktet kun gis én gang og etter at forlenget go
 
 ### Til kapittel V
 
+*Til [§ 5-1](forskrift/2000-12-21-1406/§5-1)*
+
 Internkontroll etter forskrift om skadedyrbekjempelse innebærer systematiske tiltak som skal sikre at virksomhetens aktiviteter i) planlegges, ii) organiseres, iii) utføres og iv) vedlikeholdes i samsvar med bestemmelser fastsatt i forskriften.
 
 Internkontrollen tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve krav i eller i medhold av lovgivningen. Internkontrollen dokumenteres skriftlig i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse.
@@ -353,6 +401,8 @@ Internkontrollen tilpasses virksomhetens art, aktiviteter, risikoforhold og stø
 De fleste virksomheter som omfattes av denne forskriften vil samtidig være omfattet av [forskrift 6. desember 1996 nr. 1127](forskrift/1996-12-06-1127) om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter. I medhold av denne foreligger det allerede en plikt til internkontroll. Det anbefales at internkontroll som allerede er etablert utvides til å omfatte krav fastsatt i denne forskriften, m.a.o. at kravene i denne forskriften integreres i den etablerte internkontrollen.
 
 Alle skadedyrbekjempere har plikt til internkontroll i henhold til forskriften uavhengig av om skadedyrbekjemperen sysselsetter arbeidstakere. Plikten innebærer at skadedyrbekjemperen skal dokumentere at skadedyrbekjempelsen utøves i samsvar med krav i forskriften.
+
+*Til [§ 5-2](forskrift/2000-12-21-1406/§5-2)*
 
 Det er kommunen som skal føre tilsyn med at forskriften overholdes i kommunen, herunder føre tilsyn med at internkontrollplikten overholdes. Med dette menes at virksomheten har tilstrekkelig styring med sine aktiviteter slik at disse til enhver tid oppfyller kravene i lov og forskrift.
 
@@ -364,9 +414,13 @@ For brukerne vil det kunne være tungvint å forholde seg til flere ulike tilsyn
 
 Kommunens tilsynsoppgave er underlagt kravet om internkontroll i [folkehelseloven § 30](lov/2011-06-24-29/§30). Kommunen kan benytte de virkemidler som går frem av forskriften [§ 5-4](forskrift/2000-12-21-1406/§5-4) i sitt tilsynsarbeid.
 
+*Til [§ 5-3](forskrift/2000-12-21-1406/§5-3)*
+
 Bestemmelsen slår fast at det er eieren eller brukeren som skal bære utgiftene til skadedyrbekjempelse. For den nærmere avgrensing vises det til merknadene til [§ 2-1](forskrift/2000-12-21-1406/§2-1). At kostnader ved å gjennomføre pålegg etter skadedyrforskriften skal dekkes av den som er ansvarlig for forholdet (virksomhet eller eier av eiendom), følger også av [folkehelseloven § 14](lov/2011-06-24-29/§14).
 
 Kommunen kan vedta å dekke utgifter som følge av pålegg og vil være ansvarlig overfor skadedyrbekjemperen for utryddelse foretatt på eier eller brukers regning. Bestemmelsen er gitt for å sikre at skadedyrbekjempelse blir foretatt. Det kreves ikke at det er på det rene hvem som skal betale. Kommunen kan således kreve pengene tilbake fra eier eller bruker som er solidarisk ansvarlig, se merknadene til [§ 2-3](forskrift/2000-12-21-1406/§2-3) til [§ 2-4](forskrift/2000-12-21-1406/§2-4).
+
+*Til [§ 5-4](forskrift/2000-12-21-1406/§5-4)*
 
 Bestemmelsen omtaler virkemidlene som kommunen som tilsynsmyndighet kan benytte. Tilsyn med skadedyrforskriften vil gjerne skje i form av systemrevisjon med et skadedyrfirma eller en skadedyrbekjemper. Det kan også være aktuelt å opprette tilsynssak som følge av at tilsynsmyndigheten får kjennskap til bekjempelser som er eller kan være i strid med regelverket.
 
@@ -374,15 +428,23 @@ Tilsynsmyndigheten kan benytte sanksjonsmidlene i [folkehelseloven kapittel 3](l
 
 I tilfeller der kommunen som tilsynsmyndighet avdekker forhold som kan eller bør ha konsekvenser for skadedyrbekjempers godkjenning, skal kommunen ta kontakt med Folkehelseinstituttet og videreformidle dokumentasjon. Det vises til forskriftens [§ 4-2](forskrift/2000-12-21-1406/§4-2).
 
+*Til [§ 5-5](forskrift/2000-12-21-1406/§5-5)*
+
 Kommunens vedtak kan påklages til statsforvalteren, jf. [folkehelseloven § 19](lov/2011-06-24-29/§19). Dersom kommunen har delegert tilsynsmyndighet til relevant underliggende etat i kommunen, vil statsforvalteren fortsatt være rett klageinstans.
 
 Vedtak etter [§ 4-2](forskrift/2000-12-21-1406/§4-2) kan påklages til Helse- og omsorgsdepartementet.
 
+*Til [§ 5-6](forskrift/2000-12-21-1406/§5-6)*
+
 Kommunens myndighet etter forskriften kan delegeres etter bestemmelsene i kommuneloven. Dette innebærer at myndighet til å avgjøre dispensasjonssaker i kommunen, jf. [§ 5-8](forskrift/2000-12-21-1406/§5-8), også kan delegeres.
+
+*Til [§ 5-7](forskrift/2000-12-21-1406/§5-7)*
 
 Bestemmelsen sikter særlig til sertifikater som kan kreves fremlagt i forbindelse med internasjonal handel eller luft- og skipsfart. «Eier eller driftsansvarlig for skip, luftfartøy og annet transportmiddel som kommer til Norge, skal betale for det arbeidet som utføres i forbindelse med inspeksjon, desinfeksjon, insektutrydding, rotteutrydding eller annen sanering etter pålegg gitt i medhold av § 14», jf. [forskrift 21. desember 2007 nr. 1573](forskrift/2007-12-21-1573) om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse (IHR-forskriften) [§ 22](forskrift/2007-12-21-1573/§22). I henhold til denne bestemmelsen fastsetter Helsedirektoratet nærmere gebyrsatser for undersøkelse og kontroll som foretas i forbindelse med utstedelse av «Sertifikat for hygienekontroll på skip» eller «Sertifikat for dispensasjon fra hygienekontroll på skip», jf. § 22.
 
 Det fremgår av [§ 5-7](forskrift/2000-12-21-1406/§5-7) at Helsedirektoratet bestemmer hvilke kommuner som skal utstede sertifikatene, og at det er kommunen som skal utstede de nødvendige sertifikater for hygienekontroll på skip eller for dispensasjon.
+
+*Til [§ 5-8](forskrift/2000-12-21-1406/§5-8)*
 
 Tilsynsmyndigheten kan i særlige tilfeller gi dispensasjon fra enkelte krav i forskriften, men ikke dispensere fra forskriften som sådan. En søknad om dispensasjon må avgjøres på et skjønnsmessig grunnlag hvor ulike momenter kan spille inn. Det bør bare gis tidsbegrensede dispensasjoner.
 

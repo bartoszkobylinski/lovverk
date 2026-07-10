@@ -26,20 +26,28 @@ eu_basis: []
 
 Helgeland tingrett deles i fire trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:
 
+Trekningskrets 1 Rana (rettssted Mo i Rana)
+
 - Hemnes kommune
 - Lurøy kommune
 - Nesna kommune
 - Rana kommune
 - Træna kommune.
 
+Trekningskrets 2 Alstahaug (rettssted Sandnessjøen)
+
 - Alstahaug kommune
 - Dønna kommune
 - Herøy kommune
 - Leirfjord kommune.
 
+Trekningskrets 3 Mosjøen (rettslokaler Mosjøen)
+
 - Grane kommune
 - Aarborte/Hattfjelldal kommune
 - Vefsn kommune.
+
+Trekningskrets 4 Brønnøy (rettssted Brønnøysund)
 
 - Bindal kommune
 - Brønnøy kommune

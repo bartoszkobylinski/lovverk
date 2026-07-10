@@ -58,9 +58,29 @@ Forskriften gis anvendelse ved første gangs godkjenning, ved søknad om fornyet
 
 I denne forskrift menes med:
 
+*Dimensjonerende helikopter:* Det største helikopter som en helikopterplass skal godkjennes for eller er godkjent for.
+
+*D-verdi:* Den største lengde eller bredde av et helikopter inklusive rotorer.
+
+*Helikopter:* Luftfartøy tyngre enn luft som under flyging bæres oppe av aerodynamiske reaksjoner på en eller flere kraftdrevne rotorer på vesentlig vertikale akser.
+
+*Helikopterplass:* Et hvert område på land, vann, bygning, skip eller annen fast eller flyttbar innretning der helikopter foretar start, landing, taksing eller er oppstilt.
+
+*HEMS:* En helikopterflyging som skjer i henhold til en HEMS-tillatelse, med det formål å tilby medisinsk akutthjelp i tilfeller der det er avgjørende med umiddelbar og rask transport, ved å være utstyrt med følgende:
+
 1. Medisinsk personell, eller
 2. Medisinske forsyninger (utstyr, blod, organer, medikamenter), eller
 3. Syke eller skadde personer og andre direkte involverte personer.
+
+*Landings- og startområde – FATO (Final Approach and Take-off Area):* Et definert område over hvilket avsluttende innflyging til hover eller landing finner sted eller hvorfra start kan foretas. Området innbefatter område for avbrutt start for helikopter i ytelsesklasse 1.
+
+*RD-verdi:* Diameteren til den største rotor på et helikopter.
+
+*Settings- og løfteområde – TLOF (Touch-down and Lift-off Area):* Et område som et helikopter kan sette seg på eller løfte seg fra.
+
+*Små helikopterplasser:* Helikopterplasser som bare skal godkjennes for VFR-trafikk, og som har settings- og løfteområde sentrisk på landings- og startområde.
+
+*VFR-forhold:* Værforhold uttrykt i sikt, avstand fra skyer og skydekkehøyde, som er lik eller bedre enn angitte minstekrav fastsatt av Luftfartstilsynet.
 
 > Endret ved [forskrift 22 feb 2008 nr. 196](forskrift/2008-02-22-196).
 
@@ -330,9 +350,28 @@ Denne forskrift trer i kraft fra 1. juni 2004.
 
 ## Vedlegg 3
 
+Fig. 1 – Lysfyr
+
+|  |  |
+| --- | --- |
+|  |  |
+| Fig. 2 – Kantlys for FATO/TLOF | Fig. 3 Plassering av kantlys |
+
 > Vedlegg 3 endret ved [forskrift 22 feb 2008 nr. 196](forskrift/2008-02-22-196).
 
 ## Vedlegg 4
+
+Fig. 4
+
+|  |  |
+| --- | --- |
+| Grønt lys: |  |
+| Yellow boundary: | x = 0.313 |
+| White boundary: | y = 0.243+0.670x |
+| Blue boundary: | y = 0.493-0.524x |
+| Luminance factor: | β = 0.10 minimum (day conditions) |
+| Relative luminance: | 5 % (minimum) |
+| to white (night conditions): | 30 % (maximum) |
 
 Verdiene er angitt i henhold til 1983-spesifikasjonene til den internasjonale kommisjonen for belysning (International Commission on Illumination (CIE)).
 

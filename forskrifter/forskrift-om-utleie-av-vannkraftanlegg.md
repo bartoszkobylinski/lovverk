@@ -138,19 +138,29 @@ Formålsbestemmelsen viser til hensynet til offentlig eierskap, rammene for utle
 
 ### Til § 2 Virkeområde og ufravikelighet
 
+*Første ledd*
+
 Forskriften gjelder utleie av vannkraftanlegg og driftsbortsetting i medhold av [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29). [Vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) åpner kun for adgang til utleie for utbygde vannfallsrettigheter med kraftverk og tilhørende anlegg. Utleie av råfall over lovens konsesjonsgrense er forbudt, jf. merknader til § 3 første ledd. Bestemmelsene om driftsoperatører knytter seg også til utbygde vannfallsrettigheter over lovens konsesjonsgrense med tilhørende kraftverk og anlegg. Det kan inngås avtaler for hvert kraftverk hvis eieren har flere kraftverk.
 
+*Annet ledd*
+
 Bestemmelsen gir departementet hjemmel til å avgjøre om en avtale er omfattet av forskriften. Dette gjelder hva som er avtale om utleie og hva som er operatøravtale.
+
+*Tredje ledd*
 
 Forskriften kan ikke fravikes ved avtale.
 
 ### Til § 3 Definisjoner
+
+*Første ledd*
 
 Forskriften definerer begrepet vannkraftanlegg, som er objektet for utleie eller avtaler om driftsbortsetting etter reglene i forskriften. Det er et vilkår etter [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) at vannfallene må være utbygget for at de kan leies ut, samt at utleier må være eier av både kraftverk og tilhørende anlegg. Avtaler om utleie eller bortsetting av drift faller utenfor forskriften dersom vannfallet ikke er over konsesjonsgrensen i [vannfallrettighetsloven § 2](lov/1917-12-14-16/§2). Forskriften gjør ingen endring i de prinsipper som ligger til grunn for beregningen av om et vannfall er over konsesjonsgrensen etter industrikonsesjonsloven. Grensen i loven [§ 2](lov/1917-12-14-16/§2) er 4 000 nat.hk. Kraftverk som utnytter vannfallsrettigheter meddelt ervervskonsesjon etter den tidligere grensen for konsesjonsplikt på 1 000 naturhestekrefter etter [vannfallrettighetsloven](lov/1917-12-14-16) omfattes av forskriften. Ved utleie og driftsbortsetting gjelder dermed den samme avgrensning som ved videre overdragelse av vannfall med ervervskonsesjon etter den tidligere konsesjonsgrensen.
 
 Forskriften gjelder uavhengig av om det er gitt ervervskonsesjon for vannfallet etter [vannfallrettighetsloven](lov/1917-12-14-16) eller ikke. Det avgjørende er om fallrettighetene som utnyttes er over lovens konsesjonsgrense og må konsesjonsbehandles ved eventuell overdragelse av eiendomsretten. Dette innebærer at både offentlig og privat eide konsesjonsfrie vannfall kan leies ut sammen med utbygde kraftverk og tilhørende anlegg, herunder også de som ble ervervet uten konsesjon før [ervervsloven av 1909](lov/1909-09-18-4).
 
 Hvilke anlegg mv. som er omfattet defineres ved henvisning til relevante bestemmelser i [vannfallrettighetsloven](lov/1917-12-14-16) og [vassdragsreguleringsloven](lov/1917-12-14-17). Etter [vannfallrettighetsloven § 11](lov/1917-12-14-16/§11) første og annet ledd er følgende objekter omfattet: «Vannfallet med alle de innretninger, hvor vannets løp og leie forandres, som damanlegg, kanaler, tunneler, bassenger, rørledninger m.m., de grunnstykker og rettigheter som er ervervet til utbyggingen, kraftstasjonene med tilhørende maskineri og annet tilbehør samt arbeiderboliger og andre bygninger, som hører med til kraftanlegget.» [Vassdragsreguleringsloven § 28](lov/1917-12-14-17/§28) første ledd omfatter «reguleringsanlegget med tilliggende grunn og rettigheter og med de bygninger og andre innretninger som er oppført av hensyn til reguleringen».
+
+*Annet ledd*
 
 Første punktum presiserer hva som menes med utleie. Det fremgår av [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) annet ledd, jf. [§ 2](lov/1917-12-14-16/§2) første ledd annet punktum, at utleiereglene gjelder konsesjonspliktige vannfallsrettigheter. Etter [vannfallrettighetsloven § 2](lov/1917-12-14-16/§2) er avtaler som stifter andre rettigheter enn eiendomsrett til vannfall forbudt med mindre annet følger av loven. Utleie er en rettighetsstiftelse i vannfall.
 
@@ -164,6 +174,8 @@ Der flere vannkraftanlegg er deltakere i en brukseierforening i henhold til [vas
 
 Annet punktum avgrenser utleie mot kraftkontrakter, som ikke er omfattet av utleiereglene. I en kraftkontrakt vil selgeren normalt stå fritt med tanke på hvor den aktuelle kraften er produsert. Selgeren i en kraftkontrakt kan være en produsent med tilgang på egenprodusert kraft, men behøver ikke være det. Der kjøperen etter avtalen ikke har rett til å disponere over produksjonsplanlegging eller påfølgende kjøring i et eller flere kraftverk, og selgeren etter avtalen står fritt når det gjelder å skaffe kraften til veie, foreligger det en kraftkontrakt og ikke utleie. Slike kraftkontrakter kan inngås uten samtykke av noen art. Avtaler som kun reduserer den økonomiske risikoen for eier faller utenfor forskriften.
 
+*Tredje ledd*
+
 Første punktum gir en presisering av hva som menes med operatøravtaler, det vil si avtaler om bortsetting av oppgaven med å koordinere drift og vedlikehold av vannkraftanlegg. Ved slike avtaler overfører eieren oppgaven med å ivareta driftsansvaret som er definert i [§ 8](forskrift/2010-06-25-939/§8). Det ansvaret eieren har i henhold til konsesjoner og offentligrettslige krav kan ikke overdras til andre, men de faktiske oppgavene kan utføres av andre enn eieren. Den som ivaretar denne funksjonen er på de fleste områder praktisk ansvarlig for oppfølging overfor myndighetene, og privatrettslig ansvarlig overfor eieren for å ivareta de sentrale driftsfunksjoner.
 
 Avtaler om bortsetting av ordinær drift og vedlikehold er nå lovregulert i [§ 29](lov/1917-12-14-16/§29) første ledd i [vannfallrettighetsloven](lov/1917-12-14-16), jf. [Ot.prp.nr.66 (2008–2009)](forarbeid/otprp-66-200809). En driftsoperatør er i lovforarbeidene beskrevet som en som utfører arbeid uten ansvar for hva slags økonomiske resultater kjøringen av kraftverket gir. Slike avtaler regnes ikke som utleie dersom avtalen ikke gir operatøren noen rett til å fatte kommersielle beslutninger over kjøring av kraftverket.
@@ -173,6 +185,8 @@ Ved drift i egen regi vil eierselskapet selv ivareta funksjonen som den driftsan
 Avtalen skal omfatte oppgaven med å ivareta ansvaret for drift og vedlikehold. Etter [§ 7](forskrift/2010-06-25-939/§7) skal eieren utpeke hvem som ivaretar oppgaven som driftsansvarlig. Dette kan være eieren selv, en leietaker som har overtatt driftsansvaret, eller et eget selskap som inngår operatøravtale med eieren. Kravene til den som innehar funksjonen som driftsansvarlig er nærmere definert i [§ 8](forskrift/2010-06-25-939/§8) (når driftsansvaret er satt bort) og [§ 9](forskrift/2010-06-25-939/§9) (når eieren selv driver anlegget). Se merknadene til [§ 3](forskrift/2010-06-25-939/§3) fjerde ledd for en nærmere omtale av hva som ligger i begrepet driftsansvarlig.
 
 Annet punktum avgrenser operatøravtaler mot avtaler om enkeltstående oppgaver knyttet til praktisk drift eller vedlikehold som ikke inkluderer koordinering av fysisk drift i samsvar med eierens eller andre rettighetshavernes produksjonsønsker innenfor offentligrettslige krav. Den driftsanvsvarlige eierens aktivitet kan normalt suppleres med en eller flere innleide personer både innen de kommersielle og praktiske oppgaver. Innleie av personer for å utføre bestemte oppgaver ved drift og vedlikehold, er ikke i seg selv bortsetting av drift som faller inn under forskriften. Hvis eier bare ønsker å kjøpe inn slike tjenester, er dette tillatt uavhengig av de nye bestemmelsene om leie/operatør. Forskriften er ikke til hinder for at den som foretar drift og vedlikehold (og er utpekt som driftsansvarlig) kjøper inn slike tjenester fra tredjepersoner.
+
+*Fjerde ledd*
 
 Fjerde ledd definerer hva som menes med driftsansvarlig. Med dette menes oppgaven å koordinere alle beslutninger om kjøring av vann fra eieren eller andre rettighetshavere, holdt opp mot alle relevante offentligrettslige krav, og deretter eventuelt instruere de som står for den ordinære driften om ikke dette gjøres av den driftsansvarlige selv. Beslutningene er basert på at den driftsansvarlige sitter med oversikt over anlegget, og ut fra dette fortløpende beslutter alle tiltak. Denne funksjonen kan ligge hos eier, leier eller operatør. En viktig del av den driftsansvarliges oppgaver er å vurdere hva som skal gjøres innen vedlikehold og når det skal gjøres. Den driftsansvarlige trenger ikke å ha folk som skal gjøre de fysiske vedlikeholdsoppgavene innen egen organisasjon. Det sentrale er hvem som har fått oppgaven å koordinere og beslutte utførelsen av drifts- og vedlikeholdsoppgavene.
 
@@ -202,11 +216,17 @@ Godkjenning av avtaler om utleie uten overføring av driftsansvar til leietaker 
 
 ### Til § 6 Operatøravtaler
 
+*Første ledd*
+
 Eier kan etter [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) første ledd inngå avtaler om bortsetting av driftsansvar for vannkraftanlegg (operatøravtale). Kjernen i en slik avtale er at eieren overfører ansvaret for koordinering av ordinær drift og vedlikehold på grunnlag av eiernes og andre rettighetshavers produksjonsplaner, og innenfor alle gjeldende offentligrettslige krav. Det vises til definisjonen av operatøravtaler i [§ 3](forskrift/2010-06-25-939/§3) tredje ledd, og merknadene der.
 
 Operatøravtaler er omfattet av forskriftens virkeområde og må godkjennes. Avtaler om enkeltoppgaver innen drift og vedlikehold omfattes ikke av forskriften, så lenge det ikke gjelder overføring av den styring og koordinering som inngår i oppgavene for driftsansvarlig, jf. [§ 3](forskrift/2010-06-25-939/§3) tredje og fjerde ledd.
 
+*Annet ledd*
+
 Eier kan sette ut ansvaret for drift og vedlikehold til en operatør og selv beholde den kommersielle råderetten. Hvis eieren vil kombinere bortsetting av ansvaret for drift og vedlikehold etter [§ 6](forskrift/2010-06-25-939/§6) med utleie av kommersiell råderett etter [§ 5](forskrift/2010-06-25-939/§5) til en tredjeperson, må eieren inngå avtale med hver av partene.
+
+*Tredje ledd*
 
 Første punktum krever at selskap som inngår operatøravtale med eieren (driftsoperatør) skal utpekes som driftsansvarlig, som definert i [§ 3](forskrift/2010-06-25-939/§3) fjerde ledd. Kravet om at eieren skal utpeke driftsansvarlig gjelder alle avtaler som omfattes av [§ 4](forskrift/2010-06-25-939/§4) til [§ 6](forskrift/2010-06-25-939/§6), jf. [§ 7](forskrift/2010-06-25-939/§7) første ledd. En operatøravtale innebærer at driftsoperatøren kun overtar oppgaven som driftsansvarlig, uten kommersiell råderett som omfattet av [§ 4](forskrift/2010-06-25-939/§4) eller [§ 5](forskrift/2010-06-25-939/§5). Krav som stilles til driftsansvarlig fremgår av [§ 8](forskrift/2010-06-25-939/§8). Det vises til merknadene til [§ 3](forskrift/2010-06-25-939/§3) tredje ledd om hva som er en operatøravtale som er omfattet av loven, i motsetning til innkjøp av kun praktisk hjelp som faller utenfor forskriften.
 
@@ -214,27 +234,47 @@ I annet punktum er det klargjort at kun ett selskap kan være driftsoperatør. D
 
 ### Til § 7 Koordinering av drift og vedlikehold
 
+*Første ledd*
+
 Første ledd krever at eieren må utpeke hvem som er driftsansvarlig for hvert vannkraftanlegg. For å sikre rasjonell drift og klare ansvarsforhold er det nødvendig i hvert tilfelle å klargjøre hvem som er driftsansvarlig for vannkraftanlegget.
 
+*Annet ledd*
+
 Det skal bare være ett driftsansvarlig selskap for hvert kraftanlegg. Ett selskap kan imidlertid være ansvarlig for flere kraftverk så lenge selskapet oppfyller kompetansekravene for hvert kraftverk. For begrepet selskap, se merknaden til [§ 4](forskrift/2010-06-25-939/§4).
+
+*Tredje ledd*
 
 Kravet om driftsansvarlig kan oppfylles av eieren selv, leietakeren eller et eget selskap gjennom operatøravtale. Når det gjelder begrepet «selskap» vises det til merknaden til [§ 4](forskrift/2010-06-25-939/§4). Ved drift i egen regi vil eierselskapet selv være den driftsansvarlige. Ved utleie av rettigheter til vannkraft, altså rett til å beslutte kjøring av vann, vil leietakeren overta oppgaven med å ivareta driftsansvaret dersom det inngås avtale etter [§ 4](forskrift/2010-06-25-939/§4). Alternativt kan eier, eller en driftsoperatør, være driftsansvarlig dersom bare kommersiell rådighet leies ut etter [§ 5](forskrift/2010-06-25-939/§5). Inngås det en operatøravtale etter [§ 6](forskrift/2010-06-25-939/§6) blir driftsoperatøren den driftsansvarlige, idet formålet med slike avtaler er å sette bort dette ansvaret uten at det overføres noen kommersiell råderett over vannet.
 
 Annet punktum presiserer at eieren enten må ivareta driftsansvaret selv eller overføre dette til en driftsoperatør dersom det inngås avtale om utleie av bare kommersiell råderett etter [§ 5](forskrift/2010-06-25-939/§5).
 
+*Fjerde ledd*
+
 Brukseier- og reguleringsforeningenes virksomhet er ikke direkte omfattet av utleiereglene. Ved utleie av kraftanlegg i vassdrag med slike foreninger må det gjøres en grenseoppgang mellom eierens ansvar og oppgaver og brukseier- eller reguleringsforeningens virksomhet. Foreningene kan avgjøre hvor mye vann som det enkelte kraftverk i vassdraget maksimalt kan kjøre til enhver tid innenfor rammer fastsatt i eller i medhold av reguleringskonsesjoner meddelt brukseierforeningen. Foreningene har imidlertid ikke ansvaret for drift av det enkelte kraftverk. Hvis et kraftverk plutselig får problemer på teknisk side (vannveier eller elektrisk), vil driftsansvarlig for kraftverket kunne strenge vanninntaket og la vannet gå utenom kraftverket. Selv om ikke alle kraftverk har tiltakskonsesjon etter vannressursloven eller den tidligere vassdragsloven av 1940, er plikter pålagt som må oppfylles som bygger på andre rettslige grunnlag. Kraftverkets eier eller operatør vil alltid ha både rett og plikt til å bestemme hvor mye vann kraftverket skal bruke til enhver tid. At brukseierforeninger kan sette maksimalgrense for kraftverkets mulige produksjon endrer ikke dette forholdet.
 
 ### Til § 8 Krav til driftsansvarlig selskap
 
+*Første ledd*
+
 Det følger av [§ 7](forskrift/2010-06-25-939/§7) at eieren må utpeke en driftsansvarlig. For at den driftsansvarlige skal ha rett til å fatte alle nødvendige beslutninger for å ivareta oppgavene som inngår i driftsansvaret, må den som står for praktisk utførelse av drifts- eller vedlikeholdsoppgaver dersom dette er en annen, kunne instrueres av den driftsansvarlige.
+
+*Annet ledd*
 
 Funksjonen som driftsansvarlig må utføres av minst en heltidsansatt i selskapet, og denne må ha nødvendig kompetanse til å utføre oppgaver som følger av [§ 9](forskrift/2010-06-25-939/§9) første ledd. Hvis driftsansvaret er satt ut fra eier til leier, eller til driftsoperatør, gir det ikke klare ansvarsforhold om eier også ivaretar denne funksjonen. Eiers ansvar som definert i [Ot.prp.nr.66 (2008–2009)](forarbeid/otprp-66-200809), tilsier imidlertid tett kontroll med, og oppfølging av, den driftsansvarlige. Den driftsansvarlige må oppfylle kravet om ha ansatte i egen organisasjon som har nødvendig kompetanse og ressurser som følger av [§ 9](forskrift/2010-06-25-939/§9) første ledd. Den driftsansvarlige må være tilgjengelig for henvendelser fra vassdragsmyndighetene til enhver tid. Bestemmelsen gjør det nødvendig at den driftsansvarlige eksempelvis må kunne besvare henvendelser fra vassdragsmyndighetene når det er behov for dette, for eksempel i en flomsituasjon. Kravet om tilgjengelighet er noe eieren og den driftsansvarlige må ivareta også for eksempel i forbindelse med ferieavvikling eller annet fravær.
 
+*Tredje ledd*
+
 I egenskap av å være den som driver kraftverket og tilhørende anlegg må driftsansvarlig ha nødvendige konsesjoner etter energiloven. For driften av kraftstasjonen kreves anleggskonsesjon etter [energiloven § 3-1](lov/1990-06-29-50/§3-1) og for salg av kraft kreves omsetningskonsesjon etter [§ 4-1](lov/1990-06-29-50/§4-1). Videre må den driftsansvarlige oppfylle alle krav fastsatt i eller i medhold av vannressursloven. I medhold av vannressursloven er det gitt forskrifter om blant annet damsikkerhet. Selskapet som er driftsansvarlig for det enkelte kraftverk, må ha kompetanse som oppfyller reglene i forskriften her og etter damsikkerhetsforskriften og andre forskrifter etter det lovverk som fremgår av bestemmelsen her. I egenskap av anleggskonsesjonær etter energiloven må det driftsansvarlige selskapet også oppfylle de kravene til kompetanse som følger av energiloven. For mindre kraftverk vil et fåtall personer vanligvis kunne oppfylle kravene etter gjeldende regelverk. Det blir opp til driftsansvarlig selskap å avgjøre hvordan en best oppfyller egenkompetansekravene. Slik kompetanse kan om nødvendig kombineres med innleie av tjenester slik at alle oppgaver blir ivaretatt. Krav som er fastsatt for anlegg med konsesjon etter tidligere lovgivning omfattes på vanlig måte.
+
+*Fjerde ledd*
 
 Første punktum pålegger eier å overføre ansvaret etter damsikkerhetsforskriften dersom eier utpeker en driftsansvarlig. Annet punktum bestemmer eiers informasjonsplikt ved overføring av ansvar etter damsikkerhetsforskriften. Melding om dette skal sendes NVE uten ugrunnet opphold.
 
+*Femte ledd*
+
 Eieren står ansvarlig etter alle konsesjoner og kan ikke frasi seg dette ansvaret. Eieren kan likevel på egen risiko inngå avtale om å overføre praktisk oppfølging. Leietaker eller driftsoperatør vil med slik avtale også få et visst ansvar for oppfølging overfor myndighetene. Visse oppgaver eieren selv må utføre er nedfelt i [§ 9](forskrift/2010-06-25-939/§9).
+
+*Sjette ledd*
 
 For å sikre effektiv håndtering av eksempelvis flom eller andre ekstraordinære situasjoner knyttet til driften av vannkraftanlegget, er det viktig at vassdragsmyndighetene raskt og enkelt kan oppnå kontakt med en kvalifisert driftsansvarlig med tilgjengelige ressurser og kompetanse. På denne bakgrunn er det nødvendig med en hjemmel for krav om driftsorganisasjon i landet. Dette er forankret i tvingende allmenne hensyn til sikkerhet og beredskap, jf. [Ot.prp.nr.66 (2008–2009) side 7](forarbeid/otprp-66-200809/s7).
 
@@ -248,7 +288,11 @@ Eieren beholder alt ansvar etter offentligrettslige regler selv om eieren leier 
 
 Første ledd regulerer situasjonen der eieren selv driver kraftverk, det vil si der eieren selv står som driftsansvarlig. Annet ledd regulerer situasjonen der eieren har satt bort driftsansvaret.
 
+*Første ledd*
+
 Første ledd presiserer alminnelige krav til eiere som driver kraftverk og tilhørende anlegg. Eier skal ha ansatte i egen organisasjon som innehar nødvendig kompetanse og ressurser til å ivareta styring etter krav i eller i medhold av lov. Det er tilsvarende krav i konsesjonsvilkår mv. for brukseier- og reguleringsforeninger. Ved søknad om godkjennelse av avtaler etter denne forskriften i vassdrag med slike foreninger, er det nødvendig at forholdet til foreningen klargjøres, herunder om oppgaver og kompetanse.
+
+*Annet ledd*
 
 Første punktum presiserer at selv om leietaker eller driftsoperatør er utpekt som driftsansvarlig, beholder eieren det formelle ansvaret for at de materielle kravene etter første ledd oppfylles. Ansvaret som er nevnt i første ledd må oppfylles av driftsoperatør eller leietaker dersom avtale som overfører driftsansvaret er inngått. Kravene til den driftsansvarliges kompetanse følger av [§ 8](forskrift/2010-06-25-939/§8) annet ledd. Eieren må påse at dette er tilfellet.
 
@@ -256,13 +300,19 @@ Selv om eieren har satt bort ulike sider av driften gjennom utleie eller en drif
 
 Etter annet punktum skal eieren ha en egen representant som kan besvare henvendelser i alle spørsmål om eierens ansvar. Denne personen må oppgis ved søknad om godkjenning av avtalene. Skifte av representant i løpet av avtaleperioden skal rapporteres til departementet. Kravet til en egen representant i eiers organisasjon følger opp formuleringene om krav til eiers organisasjon og kompetanse ved utleie i [Ot.prp.nr.66 (2008–2009)](forarbeid/otprp-66-200809). Det er ikke satt formelle krav til hvilken kompetanse eieren må sitte igjen med. Kravet om at eieren skal ha en representant som er tilgjengelig i saker om eierens ansvar forutsetter imidlertid en viss vassdragsfaglig kompetanse, men innebærer ingen krav om at eieren skal ha spisskompetanse på alle sidene ved driften av et kraftverk med tilhørende anlegg.
 
+*Tredje ledd*
+
 Tredje ledd presiserer at eieren må selv være part i alle konsesjonssøknader, revisjoner, vilkårsendringer og enhver sak som gjelder konsesjonene med tilhørende vilkår og pålegg. Ved eventuell manglende oppfyllelse av konsesjonspålagte forpliktelser mv. kan eieren ikke skylde på at ansvaret for å koordinere den faktiske utførelsen eller den kommersielle råderetten er satt bort til andre gjennom en avtale om utleie eller bortsetting av drift.
+
+*Fjerde ledd*
 
 Etter første punktum har eieren ansvar for å påse at driftsansvarlig oppfyller krav tilknyttet anlegget etter konsesjoner og annet regelverk. Etter annet punktum skal eieren kunne forestå fysisk inspeksjon og befaring av kraftverk og tilhørende anlegg til enhver tid.
 
 ### Til § 10 Krav til avtalene
 
 I forskriften er det satt krav til avtalenes innhold. Selve avtaleinngåelsen, herunder krav om anbud mv. er ikke regulert, men er omtalt i Ot.prp.nr.66 (2009-09) på side 6. Avtaler om utleie av vannkraftproduksjon og avtaler om driftsoperatørskap vil reguleres av det til enhver tid gjeldende regelverk og de grunnleggende prinsippene etter EØS-avtalen. Utleie av kraftverk og tilhørende anlegg omfattes ikke av regelverket om offentlige anskaffelser. Avtaler med driftsoperatør om drift og vedlikehold av kraftverk og tilhørende anlegg er derimot omfattet av dette regelverket. Statsstøtteregelverket vil uansett gjelde både ved utleie av kraftverk og tilhørende anlegg og for driftsoperatøravtaler.
+
+*Første ledd*
 
 Første punktum nedfeller krav om skriftlighet. Kravet må sees i sammenheng med tredje punktum som i praksis krever at den skriftlige avtalen tydeliggjør hva slags utleie det er tale om, og hvordan forskriftens vilkår er oppfylt for valg av utleie og/eller driftsoperatør.
 
@@ -276,7 +326,11 @@ Tredje punktum stiller krav til at det klart fremgår av avtalen at bestemmelsen
 
 Når det gjelder selskapsbegrepet vises det til merknaden til [§ 4](forskrift/2010-06-25-939/§4).
 
+*Annet ledd*
+
 Bestemmelsen klargjør at 15-års tidsbegrensning regnes fra dagen godkjenning er gitt eller fra et senere tidspunkt fastsatt av departementet. Fristberegning fra et senere tidspunkt vil være særlig aktuelt der avtalepartene ønsker beregning fra avtalens ikrafttredelsestidspunkt. I annet punktum gjentas forbudet mot fremleie i [vannfallrettighetsloven](lov/1917-12-14-16).
+
+*Tredje ledd*
 
 Bestemmelsen er tatt inn i tråd med kravene i forarbeidene til loven og sikrer at eventuelle brudd på EØS-avtalen, som mot formodning kunne tenkes å oppstå, i nødvendig utstrekning kan avhjelpes uten at inngåtte avtaler er til hinder for dette.
 
@@ -289,6 +343,8 @@ Første ledd fastslår at avtalen må godkjennes i samsvar med [vannfallrettighe
 I annet ledd er en bestemmelse om opplysningsplikt inntatt for å lette myndighetenes kontroll etter vassdragslovgivningen. Bestemmelser i avtalene om taushetsplikt mv. skal ikke til kunne påberopes til hinder for at myndighetene kan kreve opplysninger fra noen av partene i avtaler etter [§ 4](forskrift/2010-06-25-939/§4) til [§ 6](forskrift/2010-06-25-939/§6).
 
 ### Til § 13 Overgangsbestemmelser
+
+*Første ledd*
 
 Første ledd slår fast at forskriften får anvendelse på alle nye leieavtaler. Etter ordlyden i [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) annet ledd er det å «inngå» avtaler regulert. Dette gjelder både utleieavtaler ([§ 4](forskrift/2010-06-25-939/§4) og [§ 5](forskrift/2010-06-25-939/§5)) og driftsoperatøravtaler ([§ 6](forskrift/2010-06-25-939/§6)). Reforhandling og forlengelse av eksisterende avtaler stifter nye rettigheter og forpliktelser og omfattes av formuleringen om å inngå avtale. Avtalene må utformes i tråd med kravene i forskriften og godkjennes.
 
@@ -305,6 +361,8 @@ Etter [vannfallrettighetsloven § 30](lov/1917-12-14-16/§30) tredje ledd først
 Etter [vannfallrettighetsloven § 30](lov/1917-12-14-16/§30) tredje ledd annet punktum kan offentlige foretak erverve tidsubegrenset medeierskap. Enhver avtale som går ut på å etablere nye tidsubegrensede rettigheter (som ikke er eiendomsrett) må gjøres i tråd med denne bestemmelsen om tidsubegrenset offentlig medeierskap til vannkraftproduksjon. Eventuell overdragelse av tidsubegrensede disposisjonsrettigheter må skje i form av nye avtaler om offentlig medeierskap. Slike avtaler omfattes ikke av utleieforskriften.
 
 Forlengelse og overdragelse av kortsiktige disposisjonsretter er omfattet av forbudet i [vannfallrettighetsloven § 2](lov/1917-12-14-16/§2) første ledd annet punktum. Disse rettighetene kan ikke forlenges etter [§ 30](lov/1917-12-14-16/§30) første ledd, og heller ikke overdras etter [§ 30](lov/1917-12-14-16/§30) tredje ledd. På grunn av forbudet mot fremleie i [vannfallrettighetsloven § 29](lov/1917-12-14-16/§29) kan slike avtaler i praksis ikke overdras i det hele tatt. Et partsskifte på leietakersiden forutsetter ny avtale med utleier i samsvar med forskriften.
+
+*Annet ledd*
 
 I første punktum er det sagt at alle eksisterende avtaler som er omfattet av [§ 4](forskrift/2010-06-25-939/§4) kan løpe videre. Forskriften får derimot anvendelse på andre eksisterende avtaler som reelt sett må karakteriseres som leieavtaler eller operatøravtaler, og som saklig sett faller inn under denne forskriften. Når det gjelder omfanget av private leieavtaler i dag fremgår det av Ot.prp.nr.61 (side 43) at totalt 5 bruksrettskonsesjoner er meddelt til private etter tidligere [§ 5](forskrift/2010-06-25-939/§5) for leie av vannfall som tilhører stat, fylkeskommune eller kommune.
 

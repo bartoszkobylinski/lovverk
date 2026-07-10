@@ -1430,6 +1430,8 @@ Loven gjelder fra den tid1 Kongen bestemmer. De enkelte bestemmelsene kan settes
 
 Fra den tid loven trer i kraft, oppheves [lov 21. februar 1930](lov/1930-02-21) om skifte og [lov 3. mars 1972 nr. 5](lov/1972-03-03-5) om arv m.m. Forskrifter gitt i medhold av [lov 3. mars 1972 nr. 5](lov/1972-03-03-5) om arv m.m. gjelder også etter at loven her har trådt i kraft.
 
+1 Fra 1 jan 2021 iflg. [res. 28 feb 2020 nr. 200](forskrift/2020-02-28-200).
+
 ### § 180. Overgangsregler
 
 Loven gjelder for dødsfall som finner sted etter lovens ikrafttredelse.

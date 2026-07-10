@@ -62,6 +62,8 @@ Statlige og regionale myndigheter kan fremme innsigelse1 til planer som er i str
 
 Regionale myndigheter bør utarbeide regionale planer for å sikre en helhetlig tilnærming til strandsonen på tvers av kommunegrenser.
 
+1 Se hvilke fagmyndigheter som kan fremme innsigelser her: https://www.regjeringen.no/no/dokumenter/retningslinjer-for-innsigelse-i-plansaker-etter-plan--og-bygningsloven/id751295/#Vedlegg
+
 ## 6. Generelle retningslinjer for planlegging i strandsonen
 
 Strandsonen gir grunnlag for næring og bosetting. I 100-metersbeltet langs sjøen skal det samtidig tas særlig hensyn til natur- og kulturmiljø, friluftsliv, landskap og andre allmenne interesser jf. [pbl. § 1-8](lov/2008-06-27-71/§1-8) første ledd. Strandsonen utgjør en viktig del av grønnstrukturen i kommunene og er leveområde for stedbundet plante- og dyreliv. Strandsonen er svært viktig for friluftsliv, rekreasjon og landskapsopplevelser. Den er rik på kulturminner og er viktig for steders særpreg og identitet.
@@ -154,7 +156,15 @@ Utbygging av veger, annen infrastruktur og tomteopparbeiding skal skje slik at i
 
 Kysten i Agder og deler av kysten i Rogaland, Vestland, Møre og Romsdal og Trøndelag, anses som områder der presset på arealene er stort. Presset er ikke nødvendigvis stort i hele kommunen, men knytter seg til enkelte attraktive områder langs kysten.
 
-Dette gjelder følgende kommuner:*Agder:*Alle kystkommunene*Rogaland:*Eigersund, Haugesund, Hå, Karmøy, Klepp, Randaberg, del av Sandnes (tidligere Sandnes), Sokndal, Sola, del av Stavanger (tidligere Stavanger, Rennesøy og Finnøy), del av Strand (tidligere Strand), Tysvær*Vestland:*Del av Alver (Lindås og Meland), Askøy, Bergen, Bjørnafjorden (tidligere Os), Øygarden*Møre og Romsdal:*Kristiansund, del av Molde (tidligere Molde), del av Ålesund (tidligere Ålesund)*Trøndelag:*Frosta, del av Inderøy (tidligere Inderøy), del av Indre Fosen (tidligere Rissa) Levanger, Malvik, Melhus, del av Orkland (tidligere Orkdal), Skaun, del av Steinkjer (tidligere Steinkjer), Stjørdal, Trondheim, Verdal, Ørland
+Dette gjelder følgende kommuner:
+
+|  |  |
+| --- | --- |
+| *Agder:* | Alle kystkommunene |
+| *Rogaland:* | Eigersund, Haugesund, Hå, Karmøy, Klepp, Randaberg, del av Sandnes (tidligere Sandnes), Sokndal, Sola, del av Stavanger (tidligere Stavanger, Rennesøy og Finnøy), del av Strand (tidligere Strand), Tysvær |
+| *Vestland:* | Del av Alver (Lindås og Meland), Askøy, Bergen, Bjørnafjorden (tidligere Os), Øygarden |
+| *Møre og Romsdal:* | Kristiansund, del av Molde (tidligere Molde), del av Ålesund (tidligere Ålesund) |
+| *Trøndelag:* | Frosta, del av Inderøy (tidligere Inderøy), del av Indre Fosen (tidligere Rissa) Levanger, Malvik, Melhus, del av Orkland (tidligere Orkdal), Skaun, del av Steinkjer (tidligere Steinkjer), Stjørdal, Trondheim, Verdal, Ørland |
 
 For disse områdene gjelder følgende retningslinjer:
 
@@ -200,7 +210,15 @@ Det bør legges vekt på løsninger som gir allmennheten bedre tilgang til sjøe
 
 Deler av kysten i Rogaland, Vestland, Møre og Romsdal, Trøndelag, og kysten i Nordland og Troms og Finnmark, anses som områder med mindre press på arealene.
 
-Dette gjelder følgende kommuner:*Rogaland:*Bokn, Gjesdal, Hjelmeland, Kvitsøy, del av Sandnes (tidligere Forsand), del av Stavanger (tidligere del av Hjelmeland), del av Strand (tidligere Forsand), Sauda, Suldal, Utsira, Vindafjord*Vestland:*Del av Alver (tidligere Radøy), Askvoll, Aurland, Austevoll, Austrheim, del av Bjørnafjorden (tidligere Fusa), Bremanger, Bømlo, Eidfjord, Etne, Fedje, Fitjar, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Kvam, Kvinnherad, Luster, Lærdal, Masfjorden, Modalen, Osterøy, Samnanger, Sogndal, Solund, Stad, Sunnfjord, Stryn, Stord, Sveio, Tysnes, Ullensvang, Ulvik, Vaksdal, Voss, Årdal*Møre og Romsdal:*Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Hareid, Herøy, Hustadvika, del av Molde (tidligere Midsund og Nesset), Rauma, Sande, Smøla, Stranda, Sula, Surnadal, Sunndal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta, del av Ålesund (tidligere Haram, Sandøy, Skodje og Ørskog)*Trøndelag:*Flatanger, Heim, Frøya, Hitra, Høylandet, del av Indre Fosen (tidligere Leksvik), Leka, del av Inderøy (tidligere Mosvik), del av Orkland (tidligere Agdenes og Snillfjord), Osen, Namsos, Nærøysund, del av Steinkjer (tidligere Verran), Åfjord*Nordland og Troms og Finnmark:*Alle kystkommunene
+Dette gjelder følgende kommuner:
+
+|  |  |
+| --- | --- |
+| *Rogaland:* | Bokn, Gjesdal, Hjelmeland, Kvitsøy, del av Sandnes (tidligere Forsand), del av Stavanger (tidligere del av Hjelmeland), del av Strand (tidligere Forsand), Sauda, Suldal, Utsira, Vindafjord |
+| *Vestland:* | Del av Alver (tidligere Radøy), Askvoll, Aurland, Austevoll, Austrheim, del av Bjørnafjorden (tidligere Fusa), Bremanger, Bømlo, Eidfjord, Etne, Fedje, Fitjar, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Kvam, Kvinnherad, Luster, Lærdal, Masfjorden, Modalen, Osterøy, Samnanger, Sogndal, Solund, Stad, Sunnfjord, Stryn, Stord, Sveio, Tysnes, Ullensvang, Ulvik, Vaksdal, Voss, Årdal |
+| *Møre og Romsdal:* | Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Hareid, Herøy, Hustadvika, del av Molde (tidligere Midsund og Nesset), Rauma, Sande, Smøla, Stranda, Sula, Surnadal, Sunndal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta, del av Ålesund (tidligere Haram, Sandøy, Skodje og Ørskog) |
+| *Trøndelag:* | Flatanger, Heim, Frøya, Hitra, Høylandet, del av Indre Fosen (tidligere Leksvik), Leka, del av Inderøy (tidligere Mosvik), del av Orkland (tidligere Agdenes og Snillfjord), Osen, Namsos, Nærøysund, del av Steinkjer (tidligere Verran), Åfjord |
+| *Nordland og Troms og Finnmark:* | Alle kystkommunene |
 
 For disse områdene gjelder følgende retningslinjer:
 

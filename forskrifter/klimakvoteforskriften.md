@@ -65,7 +65,40 @@ Formålet med forskriften er å gi regler om EUs klimakvotesystem, klimagassutsl
 
 ### § 1-3. (anlegg. Aktiviteter og klimagasser omfattet av EUs klimakvotesystem)
 
-[Klimakvoteloven](lov/2004-12-17-99) gjelder for de aktiviteter og for utslipp av de klimagasser som er nevnt i tabellen:Kategorier av aktiviteter og relevante klimagasser som omfattes av EUs klimakvotesystem:*Aktiviteter**Kvotepliktige utslipp*1forbrenning av brensler i anlegg der samlet nominell innfyrt termisk effekt overstiger 20 MWKarbondioksid (CO2)2raffinering av olje i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MWKarbondioksid (CO2)3produksjon av koksKarbondioksid (CO2)4røsting og sintring av metallholdig malm (herunder sulfidholdig malm), inkludert pelletiseringKarbondioksid (CO2)5produksjon av jern eller stål (primær- eller sekundærproduksjon), inkludert kontinuerlig støping, med en kapasitet som overstiger 2,5 tonn pr. timeKarbondioksid (CO2)6produksjon eller bearbeiding av jernholdige metaller (inkludert ferrolegeringer) i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MWKarbondioksid (CO2)7produksjon av primæraluminium og aluminiumoksidKarbondioksid (CO2) og perfluorkarboner (PFK)8produksjon av sekundæraluminium i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MWKarbondioksid (CO2)9produksjon eller bearbeiding av ikke-jernholdige metaller, inkludert produksjon av legeringer, raffinering/foredling og støping i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt (inkludert reduksjonsmidler) overstiger 20 MWKarbondioksid (CO2)10produksjon av sementklinker i roterovner med en produksjonskapasitet som overstiger 500 tonn pr. døgn eller i andre typer ovner med en produksjonskapasitet som overstiger 50 tonn pr. døgnKarbondioksid (CO2)11produksjon av kalk eller kalsinering av dolomitt eller magnesitt i roterovner eller i andre ovner med en produksjonskapasitet som overstiger 50 tonn pr. døgnKarbondioksid (CO2)12produksjon av glass og glassfiber med en smeltekapasitet som overstiger 20 tonn pr. døgnKarbondioksid (CO2)13produksjon av keramiske produkter ved brenning, herunder takstein, murstein, ildfast stein, fliser, steintøy og porselen, med en produksjonskapasitet som overstiger 75 tonn pr. døgnKarbondioksid (CO2)14produksjon av mineralull til isolasjonsmateriale ved bruk av glass, stein eller slagg med en smeltekapasitet som overstiger 20 tonn pr. døgnKarbondioksid (CO2)15tørking eller kalsinering av gips eller produksjon av gipsplater og andre gipsprodukter med en produksjonskapasitet for kalsinert gips eller tørket sekundærgips som totalt overstiger 20 tonn pr. døgnKarbondioksid (CO2)16produksjon av masse fra trevirke eller andre fibermaterialerKarbondioksid (CO2)17produksjon av papir eller kartong med en produksjonskapasitet som overstiger 20 tonn pr. døgnKarbondioksid (CO2)18produksjon av sot som omfatter karbonisering av organiske stoffer som for eksempel olje, tjære, rester fra krakking og destillasjon med en produksjonskapasitet som overstiger 50 tonn pr. døgnKarbondioksid (CO2)19produksjon av salpetersyreKarbondioksid (CO2 ) og lystgass (N2O)20produksjon av adipinsyreKarbondioksid (CO2 ) og lystgass (N2O)21produksjon av glyoksal og glyoksylsyreKarbondioksid (CO2) og lystgass (N2O)22produksjon av ammoniakkKarbondioksid (CO2)23produksjon av organiske kjemikalier ved krakking, reformering, oksidasjon eller ved lignende prosesser med en produksjonskapasitet som overstiger 100 tonn pr. døgnKarbondioksid (CO2)24produksjon av hydrogen (H2) og syntesegass med en produksjonskapasitet som overstiger 5 tonn pr. døgnKarbondioksid (CO2)25produksjon av natriumkarbonat (Na2 CO3 ) og natriumbikarbonat (NaHCO3 )Karbondioksid (CO2)26fangst av klimagasser fra anlegg som omfattes av EUs klimakvotesystem som skal transporteres og lagres i en geologisk formasjon godkjent av kompetente myndigheterKarbondioksid (CO2)27transport av klimagasser for lagring i en geologisk formasjon godkjent av kompetente myndigheter, med unntak av utslipp som faller inn under andre aktiviteter i denne forskriftenKarbondioksid (CO2)28lagring av klimagasser i en geologisk formasjon godkjent av kompetente myndigheterKarbondioksid (CO2)
+[Klimakvoteloven](lov/2004-12-17-99) gjelder for de aktiviteter og for utslipp av de klimagasser som er nevnt i tabellen:
+
+Kategorier av aktiviteter og relevante klimagasser som omfattes av EUs klimakvotesystem:
+
+|  | *Aktiviteter* | *Kvotepliktige utslipp* |
+| --- | --- | --- |
+| 1 | forbrenning av brensler i anlegg der samlet nominell innfyrt termisk effekt overstiger 20 MW | Karbondioksid (CO2) |
+| 2 | raffinering av olje i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MW | Karbondioksid (CO2) |
+| 3 | produksjon av koks | Karbondioksid (CO2) |
+| 4 | røsting og sintring av metallholdig malm (herunder sulfidholdig malm), inkludert pelletisering | Karbondioksid (CO2) |
+| 5 | produksjon av jern eller stål (primær- eller sekundærproduksjon), inkludert kontinuerlig støping, med en kapasitet som overstiger 2,5 tonn pr. time | Karbondioksid (CO2) |
+| 6 | produksjon eller bearbeiding av jernholdige metaller (inkludert ferrolegeringer) i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MW | Karbondioksid (CO2) |
+| 7 | produksjon av primæraluminium og aluminiumoksid | Karbondioksid (CO2) og perfluorkarboner (PFK) |
+| 8 | produksjon av sekundæraluminium i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt overstiger 20 MW | Karbondioksid (CO2) |
+| 9 | produksjon eller bearbeiding av ikke-jernholdige metaller, inkludert produksjon av legeringer, raffinering/foredling og støping i anlegg med forbrenningsenheter der samlet nominell innfyrt termisk effekt (inkludert reduksjonsmidler) overstiger 20 MW | Karbondioksid (CO2) |
+| 10 | produksjon av sementklinker i roterovner med en produksjonskapasitet som overstiger 500 tonn pr. døgn eller i andre typer ovner med en produksjonskapasitet som overstiger 50 tonn pr. døgn | Karbondioksid (CO2) |
+| 11 | produksjon av kalk eller kalsinering av dolomitt eller magnesitt i roterovner eller i andre ovner med en produksjonskapasitet som overstiger 50 tonn pr. døgn | Karbondioksid (CO2) |
+| 12 | produksjon av glass og glassfiber med en smeltekapasitet som overstiger 20 tonn pr. døgn | Karbondioksid (CO2) |
+| 13 | produksjon av keramiske produkter ved brenning, herunder takstein, murstein, ildfast stein, fliser, steintøy og porselen, med en produksjonskapasitet som overstiger 75 tonn pr. døgn | Karbondioksid (CO2) |
+| 14 | produksjon av mineralull til isolasjonsmateriale ved bruk av glass, stein eller slagg med en smeltekapasitet som overstiger 20 tonn pr. døgn | Karbondioksid (CO2) |
+| 15 | tørking eller kalsinering av gips eller produksjon av gipsplater og andre gipsprodukter med en produksjonskapasitet for kalsinert gips eller tørket sekundærgips som totalt overstiger 20 tonn pr. døgn | Karbondioksid (CO2) |
+| 16 | produksjon av masse fra trevirke eller andre fibermaterialer | Karbondioksid (CO2) |
+| 17 | produksjon av papir eller kartong med en produksjonskapasitet som overstiger 20 tonn pr. døgn | Karbondioksid (CO2) |
+| 18 | produksjon av sot som omfatter karbonisering av organiske stoffer som for eksempel olje, tjære, rester fra krakking og destillasjon med en produksjonskapasitet som overstiger 50 tonn pr. døgn | Karbondioksid (CO2) |
+| 19 | produksjon av salpetersyre | Karbondioksid (CO2 ) og lystgass (N2O) |
+| 20 | produksjon av adipinsyre | Karbondioksid (CO2 ) og lystgass (N2O) |
+| 21 | produksjon av glyoksal og glyoksylsyre | Karbondioksid (CO2) og lystgass (N2O) |
+| 22 | produksjon av ammoniakk | Karbondioksid (CO2) |
+| 23 | produksjon av organiske kjemikalier ved krakking, reformering, oksidasjon eller ved lignende prosesser med en produksjonskapasitet som overstiger 100 tonn pr. døgn | Karbondioksid (CO2) |
+| 24 | produksjon av hydrogen (H2) og syntesegass med en produksjonskapasitet som overstiger 5 tonn pr. døgn | Karbondioksid (CO2) |
+| 25 | produksjon av natriumkarbonat (Na2 CO3 ) og natriumbikarbonat (NaHCO3 ) | Karbondioksid (CO2) |
+| 26 | fangst av klimagasser fra anlegg som omfattes av EUs klimakvotesystem som skal transporteres og lagres i en geologisk formasjon godkjent av kompetente myndigheter | Karbondioksid (CO2) |
+| 27 | transport av klimagasser for lagring i en geologisk formasjon godkjent av kompetente myndigheter, med unntak av utslipp som faller inn under andre aktiviteter i denne forskriften | Karbondioksid (CO2) |
+| 28 | lagring av klimagasser i en geologisk formasjon godkjent av kompetente myndigheter | Karbondioksid (CO2) |
 
 I vurderingen av om et anlegg overstiger kapasitetsgrensene angitt i tabellen i første ledd skal:kapasiteten i alle aktiviteter som tilhører samme aktivitetskategori legges sammenaktivitet hvor terskelverdien ikke er uttrykt i nominell innfyrt termisk effekt ha forrang foran aktiviteter hvor terskelverdien er uttrykt i nominell innfyrt termisk effektden nominelle innfyrte termiske effekten i alle anleggets tekniske enheter som forbrenner brensler legges sammen når man tar stilling til om kapasitetsgrensen på 20 MW er oversteget. Forbrenningsenheter med nominell innfyrt termisk effekt under 3 MW skal likevel ikke regnes med i denne vurderingen. Frem til 31. desember 2025 skal heller ikke enheter som kun forbrenner biomasse regnes med.
 
@@ -380,7 +413,19 @@ Ved tildeling av vederlagsfrie kvoter under delinstallasjoner med prosesser som 
 
 Dersom det fastsettes en felleseuropeisk korreksjonsfaktor som innlemmes i [EØS-avtalen](lov/1992-11-27-109/eøsl) skal klimakvotemyndigheten anvende denne korreksjonsfaktoren ved fastsettelsen av endelig tildeling av vederlagsfrie kvoter til eksisterende anlegg. Korreksjonsfaktoren skal likevel ikke anvendes ved fastsettelse av endelig tildeling av vederlagsfrie kvoter til anlegg hvor klimagassutslippet er under gjennomsnittet for de 10 prosent mest utslippseffektive anleggene i EØS-området i en sektor eller undersektor for den aktuelle utslippsstandarden.
 
-Ved tildeling av vederlagsfrie kvoter under delinstallasjoner som produserer varer omfattet av karbongrensejusteringsmekanismen (CBAM) i [vedlegg 1](forskrift/2004-12-23-1851/vedlegg1), skal tildelingen i henhold til tildelingsforordningen artikkel 16 nr. 4a og artikkel 18 nr. 1 beregnes med følgende årlige reduksjonsfaktorer:*År**Faktor*20260,97520270,95020280,90020290,77520300,51520310,39020320,26520330,14020340
+Ved tildeling av vederlagsfrie kvoter under delinstallasjoner som produserer varer omfattet av karbongrensejusteringsmekanismen (CBAM) i [vedlegg 1](forskrift/2004-12-23-1851/vedlegg1), skal tildelingen i henhold til tildelingsforordningen artikkel 16 nr. 4a og artikkel 18 nr. 1 beregnes med følgende årlige reduksjonsfaktorer:
+
+| *År* | *Faktor* |
+| --- | --- |
+| 2026 | 0,975 |
+| 2027 | 0,950 |
+| 2028 | 0,900 |
+| 2029 | 0,775 |
+| 2030 | 0,515 |
+| 2031 | 0,390 |
+| 2032 | 0,265 |
+| 2033 | 0,140 |
+| 2034 | 0 |
 
 Dersom det ikke fastsettes en felleseuropeisk korreksjonsfaktor skal endelig tildeling av vederlagsfrie kvoter til el-generatorer beregnes med en lineær reduksjonsfaktor frem til 31. desember 2025. For el-generatorer skal 2013 være referanseår. Faktoren skal tilsvare en lineær reduksjon på 2,2 prosent per år. Med el-generator menes anlegg som har produsert elektrisitet for salg etter 1. januar 2005, og som er omfattet av EUs klimakvotesystem kun fordi den har forbrenningsenheter med samlet innfyrt termisk effekt som overstiger 20 MW.
 
@@ -886,46 +931,79 @@ Vedtak truffet av Norsk Akkreditering i medhold av forordning [(EU) 2018/2067](e
 
 > Tilføyd ved forskrift [21 des 2023 nr. 2265](forskrift/2023-12-21-2265) (i kraft 1 jan 2024), endret ved forskrift [27 juni 2025 nr. 1360](forskrift/2025-06-27-1360).
 
-Varene/produktene under følgende koder i den kombinerte nomenklatur (CN) er omfattet av karbongrensejusteringsmekanismen (CBAM):*Sement**CN-kode**Beskrivelse*2507 00 80Annen kaolinholdige leire2523 10 00Sementklinker2523 21 00Hvit portlandsement, også kunstig farget2523 29 00Annen portlandsement2523 30 00Aluminatsement2523 90 00Annen hydraulisk sement *Elektrisitet**CN-kode**Beskrivelse*2716 00 00Elektrisk energi *Gjødsel**CN-kode**Beskrivelse*2808 00 00Salpetersyre; nitrersyrer2814Ammoniakk, vannfri eller i vandig løsning2834 21 00Nitrater av kalium3102Nitrogengjødsel, mineralsk eller kjemisk3105
+Varene/produktene under følgende koder i den kombinerte nomenklatur (CN) er omfattet av karbongrensejusteringsmekanismen (CBAM):
 
+*Sement*
 
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| 2507 00 80 | Annen kaolinholdige leire |
+| 2523 10 00 | Sementklinker |
+| 2523 21 00 | Hvit portlandsement, også kunstig farget |
+| 2523 29 00 | Annen portlandsement |
+| 2523 30 00 | Aluminatsement |
+| 2523 90 00 | Annen hydraulisk sement |
 
+*Elektrisitet*
 
-Unntak:
-3105 60 00Mineralsk eller kjemisk gjødsel som inneholder to eller tre av gjødselelementene nitrogen, fosfor og kalium; varer som hører under dette kapittel, i form av tabletter eller liknende former eller i pakninger med bruttovekt høyst 10 kg
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| 2716 00 00 | Elektrisk energi |
 
+*Gjødsel*
 
-Mineralsk eller kjemisk gjødsel som inneholder de to gjødselelementene fosfor og kalium *Jern og stål***CN-kode****Beskrivelse**72
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| 2808 00 00 | Salpetersyre; nitrersyrer |
+| 2814 | Ammoniakk, vannfri eller i vandig løsning |
+| 2834 21 00 | Nitrater av kalium |
+| 3102 | Nitrogengjødsel, mineralsk eller kjemisk |
+| 3105<br><br><br><br><br>Unntak:<br>3105 60 00 | Mineralsk eller kjemisk gjødsel som inneholder to eller tre av gjødselelementene nitrogen, fosfor og kalium; varer som hører under dette kapittel, i form av tabletter eller liknende former eller i pakninger med bruttovekt høyst 10 kg<br><br><br>Mineralsk eller kjemisk gjødsel som inneholder de to gjødselelementene fosfor og kalium |
 
-Unntak:
-7202 2
-7202 30 00
-7202 50 00
-7202 70 00
-7202 80 00
-7202 91 00
-7202 92 00
-7202 93 00
-7202 99
-7202 99 10
-7202 99 30
-7202 99 80
-7204Jern og stål
+*Jern og stål*
 
+| **CN-kode** | **Beskrivelse** |
+| --- | --- |
+| 72<br><br>Unntak:<br>7202 2<br>7202 30 00<br>7202 50 00<br>7202 70 00<br>7202 80 00<br>7202 91 00<br>7202 92 00<br>7202 93 00<br>7202 99<br>7202 99 10<br>7202 99 30<br>7202 99 80<br>7204 | Jern og stål<br><br><br>Ferrosilisium<br>Ferrosilikomangan<br>Ferrosilikokrom<br>Ferromolybden<br>Ferrowolfram og ferrosilikowolfram<br>Ferrotitan og ferrosilikotitan<br>Ferrovanadium<br>Ferroniob<br>Andre:<br>Ferrofosfat<br>Ferrosilikomagnesium<br>Andre<br>Avfall og skrap av jern eller stål; blokker (ignots) fremstilt ved omsmelting av skarp av jern og stål |
+| 2601 12 00 | Agglomerert jernmalm, også konsentrert, herunder røstet svovelkis |
+| 7301 | Spundveggjern av jern eller stål, også med hull eller sammensatte; sveisede profiler av jern eller stål. |
+| 7302 | Følgende skinnemateriell av jern eller stål, til jernbaner eller sporveger: skinner, motskinner og tannskinner, sporvekseltunger, sporkryss, sporvekselstag og andre deler til sporveksler, sviller, lasker, skinnestoler, stolkiler, underlagsplater, klemplater, traversjern og annet spesielt materiell til sammenføyning eller festing av skinner. |
+| 7303 00 | Rør og hule profiler, av støpejern |
+| 7304 | Rør og hule profiler, sømløse, av jern (unntatt støpejern) eller stål |
+| 7305 | Andre rør (f.eks. sveisede, naglede eller falsede) med sirkelrunde tverrsnitt og med ytre diameter over 406,4 mm, av jern eller stål |
+| 7306 | Andre rør og hule profiler (f.eks. med åpen søm, sveisede, naglede eller falsede), av jern eller stål |
+| 7307 | Rørdeler (fittings) (f.eks. forbindelsesstykker, knær, muffer) av jern eller stål |
+| 7308 | Jern- og stålkonstruksjoner (unntatt prefabrikkerte bygninger som hører under posisjon 94.06) og deler dertil (f.eks. bruer og bruseksjoner, sluseporter, tårn, master, tak, taksperrer, dører og vinduer samt rammer og karmer dertil og dørterskler, skodder, rekkverk, søyler og pilarer), av jern eller stål; plater, stenger, profiler, rør og liknende av jern eller stål, bearbeidde til bruk i konstruksjoner |
+| 7309 00 | Tanker, kar og liknende beholdere, av jern eller stål, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold over 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr |
+| 7310 | Tanker, fat, tromler, spann, bokser, esker og liknende beholdere, av jern eller stål, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold høyst 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr |
+| 7311 00 | Beholdere av jern eller stål for komprimerte eller flytende gasser |
+| 7318 | Skruer, bolter, muttere, skinneskruer (franske treskruer), skruekroker, nagler, kiler, splittpinner, underlagsskiver (herunder sprengskiver) og liknende varer, av jern eller stål |
+| 7326 | Andre varer av jern eller stål |
 
-Ferrosilisium
-Ferrosilikomangan
-Ferrosilikokrom
-Ferromolybden
-Ferrowolfram og ferrosilikowolfram
-Ferrotitan og ferrosilikotitan
-Ferrovanadium
-Ferroniob
-Andre:
-Ferrofosfat
-Ferrosilikomagnesium
-Andre
-Avfall og skrap av jern eller stål; blokker (ignots) fremstilt ved omsmelting av skarp av jern og stål2601 12 00Agglomerert jernmalm, også konsentrert, herunder røstet svovelkis7301Spundveggjern av jern eller stål, også med hull eller sammensatte; sveisede profiler av jern eller stål.7302Følgende skinnemateriell av jern eller stål, til jernbaner eller sporveger: skinner, motskinner og tannskinner, sporvekseltunger, sporkryss, sporvekselstag og andre deler til sporveksler, sviller, lasker, skinnestoler, stolkiler, underlagsplater, klemplater, traversjern og annet spesielt materiell til sammenføyning eller festing av skinner.7303 00Rør og hule profiler, av støpejern7304Rør og hule profiler, sømløse, av jern (unntatt støpejern) eller stål7305Andre rør (f.eks. sveisede, naglede eller falsede) med sirkelrunde tverrsnitt og med ytre diameter over 406,4 mm, av jern eller stål7306Andre rør og hule profiler (f.eks. med åpen søm, sveisede, naglede eller falsede), av jern eller stål7307Rørdeler (fittings) (f.eks. forbindelsesstykker, knær, muffer) av jern eller stål7308Jern- og stålkonstruksjoner (unntatt prefabrikkerte bygninger som hører under posisjon 94.06) og deler dertil (f.eks. bruer og bruseksjoner, sluseporter, tårn, master, tak, taksperrer, dører og vinduer samt rammer og karmer dertil og dørterskler, skodder, rekkverk, søyler og pilarer), av jern eller stål; plater, stenger, profiler, rør og liknende av jern eller stål, bearbeidde til bruk i konstruksjoner7309 00Tanker, kar og liknende beholdere, av jern eller stål, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold over 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr7310Tanker, fat, tromler, spann, bokser, esker og liknende beholdere, av jern eller stål, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold høyst 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr7311 00Beholdere av jern eller stål for komprimerte eller flytende gasser7318Skruer, bolter, muttere, skinneskruer (franske treskruer), skruekroker, nagler, kiler, splittpinner, underlagsskiver (herunder sprengskiver) og liknende varer, av jern eller stål7326Andre varer av jern eller stål *Aluminium**CN-kode**Beskrivelse*7601Ubearbeidet aluminium7603Pulver og flak av aluminium7604Stenger og profiler av aluminium7605Tråd av aluminium7606Plater og bånd av aluminium med tykkelse over 0,2 mm7607Folier av aluminium (også trykte eller med underlag av papir, papp, plast eller liknende materiale), med tykkelse høyst 0,2 mm (underlag ikke medregnet)7608Rør av aluminium7609 00 00Rørdeler (fittings) (f.eks. forbindelsesstykker, knær, muffer) av aluminium7610Konstruksjoner av aluminium (unntatt prefabrikkerte bygninger som hører under posisjon 94.06) og deler dertil (f.eks. bruer, bruseksjoner, tårn, master, tak, taksperrer, dører og vinduer samt rammer og karmer dertil og dørterskler, rekkverk, søyler og pilarer); plater, stenger, profiler, rør og liknende av aluminium, bearbeidete til bruk i konstruksjoner7611 00 00Tanker, kar og liknende beholdere, av aluminium, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold over 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr7612Tanker, fat, tromler, spann, bokser, esker og liknende beholdere, av aluminium (herunder rørformede beholdere og tuber), for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold høyst 300 liter, også fóret eller varmeisolert, men uten mekanisk eller termisk utstyr7613 00 00Beholdere av aluminium for komprimerte eller flytende gasser7614Tau, liner, kabler, flettede bånd og liknende varer, av aluminium, uten elektrisk isolasjon7616Andre varer av aluminium *Kjemikalier**CN-kode**Beskrivelse*2804 10 00Hydrogen
+*Aluminium*
+
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| 7601 | Ubearbeidet aluminium |
+| 7603 | Pulver og flak av aluminium |
+| 7604 | Stenger og profiler av aluminium |
+| 7605 | Tråd av aluminium |
+| 7606 | Plater og bånd av aluminium med tykkelse over 0,2 mm |
+| 7607 | Folier av aluminium (også trykte eller med underlag av papir, papp, plast eller liknende materiale), med tykkelse høyst 0,2 mm (underlag ikke medregnet) |
+| 7608 | Rør av aluminium |
+| 7609 00 00 | Rørdeler (fittings) (f.eks. forbindelsesstykker, knær, muffer) av aluminium |
+| 7610 | Konstruksjoner av aluminium (unntatt prefabrikkerte bygninger som hører under posisjon 94.06) og deler dertil (f.eks. bruer, bruseksjoner, tårn, master, tak, taksperrer, dører og vinduer samt rammer og karmer dertil og dørterskler, rekkverk, søyler og pilarer); plater, stenger, profiler, rør og liknende av aluminium, bearbeidete til bruk i konstruksjoner |
+| 7611 00 00 | Tanker, kar og liknende beholdere, av aluminium, for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold over 300 liter, også fôret eller varmeisolert, men uten mekanisk eller termisk utstyr |
+| 7612 | Tanker, fat, tromler, spann, bokser, esker og liknende beholdere, av aluminium (herunder rørformede beholdere og tuber), for ethvert materiale (unntatt beholdere for komprimerte eller flytende gasser), med rominnhold høyst 300 liter, også fóret eller varmeisolert, men uten mekanisk eller termisk utstyr |
+| 7613 00 00 | Beholdere av aluminium for komprimerte eller flytende gasser |
+| 7614 | Tau, liner, kabler, flettede bånd og liknende varer, av aluminium, uten elektrisk isolasjon |
+| 7616 | Andre varer av aluminium |
+
+*Kjemikalier*
+
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| 2804 10 00 | Hydrogen |
 
 ## Vedlegg 2. Krav til energirevisjon
 
@@ -946,6 +1024,65 @@ Energirevisjonen skal gi mulighet for detaljerte og validerte beregninger for de
 Anlegg som implementerer et sertifisert energi- eller miljøledelsessystem av et uavhengig organ i henhold til relevante europeiske eller internasjonale standarder, er unntatt kravet om å gjennomføre en egen energirevisjon, forutsatt at det aktuelle ledelsessystemet inkluderer en energirevisjon som inneholder minimumskriteriene gitt i punkt 1 i dette vedlegget.
 
 ## Vedlegg 3. CN- og CRF-koder for brenselsoperatørers rapportering
+
+Tabell 1: Ved rapportering av tilgjengeliggjort brensel etter [§ 2-7](forskrift/2004-12-23-1851/§2-7) skal brensel identifiseres med følgende koder i den kombinerte nomenklatur (CN) i tråd med forordning [(EU) 2018/2066](eu/32018r2066) art. 75t.
+
+| *CN-kode* | *Beskrivelse* |
+| --- | --- |
+| Animalske, vegetabilske eller mikrobielle oljer og fettstoffer samt spaltningsprodukter derav; tilberedt spisefett; animalsk og vegetabilsk voks |  |
+| 1507 | Soyaolje og dens fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1508 | Jordnøttolje og dens fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1509 | Olivenolje og dens fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1510 | Andre oljer og deres fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1511 | Palmeolje og dens fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1512 | Solsikkeolje, saflorolje og bomullsfrøolje samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1513 | Kokosolje (kopraolje), palmekjerneolje og babassuolje samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1514 | Raps-, rybs- og sennepsolje samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1515 | Andre ikke-flyktige vegetabilske eller mikrobielle fettstoffer og oljer (herunder jojobaolje), samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede |
+| 1516 | Animalske, vegetabilske eller mikrobielle fettstoffer og oljer, samt deres fraksjoner, også raffinerte, men ikke kjemisk omdannede helt eller delvis hydrogenererte, interforestrede, reforestrede eller elaidiniserte, også raffinerte, men ikke videre bearbeidde. |
+| 1517 | Margarin; spiselige blandinger og produkter av animalske, vegetabilske eller mikrobielle fettstoffer og oljer, eller av fraksjoner av forskjellige fettstoffer og oljer som hører under dette kapittel, unntatt spiselige fettstoffer og oljer, samt deres fraksjoner, som hører under posisjon 15.16. |
+| 1518 | Animalske, vegetabilske eller mikrobielle fettstoffer og oljer, samt deres fraksjoner, kokte, oksiderte, dehydrerte, sulfurerte, blåste, polymeriserte med varme i vakuum eller i inert gass eller på annen måte kjemisk omdannede, unntatt de som hører under posisjon 15.16; uspiselige blandinger eller produkter av animalske, vegetabilske eller mikrobielle fettstoffer eller oljer, eller av fraksjoner av forskjellige fettstoffer eller oljer som hører under dette kapittel, ikke nevnt eller innbefattet annet sted. |
+| Mineralsk brensel, mineralske oljer og destillasjonsprodukter derav; bituminøse stoffer; mineralsk voks |  |
+| 2701 | Steinkull; briketter og liknende fast brensel fremstilt av steinkull. |
+| 2702 | Brunkull, også agglomerert, unntatt gagat (jett). |
+| 2704 | Koks og halvkoks av steinkull, brunkull eller torv, også agglomerert; retortkull. |
+| 2705 | Lysgass, vanngass, generatorgass og liknende gasser, unntatt jordoljegasser og andre gassformige hydrokarboner. |
+| 2706 | Steinkull-, brunkull- og torvtjære samt annen mineralsk tjære, også dehydrert eller delvis destillert, herunder rekonstituert tjære. |
+| 2707 | Oljer og andre destillasjonsprodukter av høytemperaturtjære av steinkull; liknende produkter, hvor vekten av de aromatiske bestanddeler overstiger vekten av de ikke-aromatiske bestanddeler. |
+| 2708 | Bek og bekkoks fremstilt av steinkulltjære eller annen mineralsk tjære. |
+| 2709 | Jordolje og oljer utvunnet av bituminøse mineraler, rå. |
+| 2710 | Oljer utvunnet av jordolje eller av bituminøse mineraler, unntatt råoljer; produkter ikke nevnt eller innbefattet annet sted, som inneholder minst 70 vektprosent jordolje eller oljer utvunnet av bituminøse mineraler, og med disse oljer som basis for produktene; spilloljer. |
+| 2711 | Jordoljegasser og andre gassformige hydrokarboner. |
+| 2712 | Vaselin; parafinvoks, mikrokrystallinsk jordoljevoks, «slack wax», ozokeritt, montanvoks, torvvoks og annen mineralsk voks samt liknende produkter fremstilt syntetisk eller på annen måte, også farget. |
+| 2713 | Petrolkoks, jordoljebitumen og andre reststoffer fra jordolje eller fra oljer utvunnet av bituminøse mineraler. |
+| 2714 | Naturlig bitumen og naturasfalt; bituminøs skifer eller oljeskifer samt tjæresand; asfaltitter og asfaltholdige bergarter. |
+| 2715 | Bituminøse blandinger på basis av naturasfalt, naturlig bitumen, jordoljebitumen, mineralsk tjære eller mineraltjærbek (f.eks. bituminøs mastiks, «cut-backs»). |
+| Organiske kjemikalier |  |
+| 2901 | Asykliske hydrokarboner |
+| 2902 | Sykliske hydrokarboner |
+| 2905 11 00 | Metanol (metylalkohol) |
+| Nitrogengjødsel, mineralsk eller kjemisk. |  |
+| 3102 10 | Urea, også i vandig oppløsning |
+| Såpe, organiske, overflateaktive stoffer, vaskemidler, smøremidler, kunstig voks og tilberedt voks, poler- eller skuremidler, lys og liknende varer, modellermasse, «dentalvoks» og dentalpreparater på basis av gips |  |
+| 3403 | Tilberedte smøremidler (herunder tilberedte bore- og skjæreoljer, preparater til løsning av bolter eller muttere, rusthindrende eller korrosjonshindrende preparater og formslippmidler, på basis av smøremidler) samt preparater av det slag som brukes til olje- eller fettbehandling av tekstilmaterialer, lær, pelsskinn eller andre materialer, men unntatt produkter som inneholder som grunnbestanddel minst 70 vektprosent jordolje eller oljer utvunnet av bituminøse mineraler. |
+| Diverse kjemiske produkter |  |
+| 3811 | Preparater for tilsetning i mineraloljer (herunder bensin) eller i andre væsker som brukes til de samme formål som mineraloljer, for å forbedre viskositeten, motvirke motorbank, oksydasjon, korrosjon, sotdannelse eller liknende. |
+| 3817 | Blandede alkylbenzener og blandede alkylnaftalener, unntatt produkter som hører under posisjon 27.07 eller 29.02. |
+| 3824 99 86 | Blandinger som hovedsakelig består av dimetylmetylphosphonat, oksiran og difosforpentaoxid. |
+| 3824 99 92, 3824 99 93, 3824 99 96 | Kjemiske produkter eller preparater, hovedsakelig sammensatt av organiske forbindelser, som ikke er spesifisert eller inkludert andre steder<br>Unntak: Antirustpreparater som inneholder aminer som aktive bestanddeler og uorganiske komposittløsningsmidler og tynnere for lakk og lignende produkter. |
+| 3826 | Biodiesel og blandinger derav, som ikke inneholder eller som inneholder mindre enn 70 vektprosent jordoljer eller oljer utvunnet av bituminøse mineraler. |
+
+Tabell 2: Ved rapportering etter [§ 2-7](forskrift/2004-12-23-1851/§2-7) skal sektorene brensel er tilgjengeliggjort i identifiseres med følgende koder i FNs common reporting format (CRF) i tråd med forordning [(EU) 2018/2066](eu/32018r2066) art. 75t.
+
+| *CRF-kode* | *Navn* | *Beskrivelse* |
+| --- | --- | --- |
+| 1A1a ii | Kraftvarmeverk | Utslipp fra produksjon av varme og elektrisitet fra primærprodusenter for salg til offentligheten |
+| 1A1a iii | Varmeverk | Produksjon av varme fra primærprodusenter for salg via fjernvarmenett |
+| 1A3b | Veitransport | Alle utslipp av CO2 fra forbrenning av brensel i veitrafikk, unntatt bruk av landbrukskjøretøy på asfaltert vei. |
+| 1A4a | Næringsbygg og offentlige bygninger | Utslipp fra forbrenning av brensel i næringsbygg og offentlige bygninger |
+| 1A4b | Boliger | Alle utslipp fra forbrenning av brensler i husholdninger |
+| 1A1 | Energiindustrier | Utslipp av CO2 fra forbrenning av brensel i industri som utvinner brensler eller produserer energi. |
+| 1A2 | Industriell produksjon og bygg- og anleggsvirksomhet | Utslipp fra forbrenning i av brensel i industri, samt forbrenning for å produsere strøm og varme for eget bruk i industri. |
 
 > Tilføyd ved forskrift [25 juni 2024 nr. 1375](forskrift/2024-06-25-1375) (i kraft 1 juli 2024).
 

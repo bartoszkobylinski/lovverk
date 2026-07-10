@@ -53,3 +53,5 @@ I [lov av 17. juli 1953 nr. 2](lov/1953-07-17-2) om erstatning for krigsskade p�
 ## § 6. Iverksetjing
 
 Lova tek til å gjelde frå den tid Kongen fastset.1
+
+1 Frå 1 jan 2004 iflg. [res. 12 des 2003 nr. 1507](forskrift/2003-12-12-1507).

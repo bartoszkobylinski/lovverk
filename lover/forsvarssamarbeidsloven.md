@@ -48,6 +48,8 @@ Erstatningskrav som oppstår innenfor rammene av Avtale mellom partene i Traktat
 
 Loven gjelder fra den tiden1 Kongen bestemmer.
 
+1 Fra 10 juni 2022 iflg. [res. 10 juni 2022 nr. 1004](forskrift/2022-06-10-1004).
+
 ## § 6. Endringer i andre lover
 
 Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover: – – –

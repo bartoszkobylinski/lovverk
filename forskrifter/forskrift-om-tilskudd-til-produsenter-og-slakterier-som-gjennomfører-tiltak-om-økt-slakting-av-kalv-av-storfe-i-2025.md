@@ -32,7 +32,13 @@ Tilskuddsordningen gjelder for storfeprodusenter og slakterier som slakter storf
 
 Fordeling mellom slakteriene som kan omfattes av ordningen skal gjøres av Nortura som markedsregulator (Norturas slakterier), og Kjøtt- og fjørfebransjens Landsforbund (uavhengige slakterier).
 
-Alle slakterier som rapporterer til Landbruksdirektoratets Leveransedatabase kan delta. Fordelingen skal ved oppstart være som følger:NorturaInntil 3 500 kalverUavhengige slakterierInntil 1 500 kalver*Totalt**Inntil 5 000 kalver*
+Alle slakterier som rapporterer til Landbruksdirektoratets Leveransedatabase kan delta. Fordelingen skal ved oppstart være som følger:
+
+|  |  |
+| --- | --- |
+| Nortura | Inntil 3 500 kalver |
+| Uavhengige slakterier | Inntil 1 500 kalver |
+| *Totalt* | *Inntil 5 000 kalver* |
 
 Kjøtt- og fjørfebransjens Landsforbund (KLF) fordeler rammen mellom de interesserte uavhengige slakteriene og rapporterer fordelingen til Landbruksdirektoratet. Fordelingen skal skje på grunnlag av påmelding fra slakteriene og ønsket antall dyr. Det kan i tilfelle overtegning fordeles ut fra andre objektivt saklige og rimelige kriterier, herunder slakterienes andel av slakting av storfe blant uavhengige slakterier.
 
@@ -69,6 +75,8 @@ Den totale rammen for tiltaket i 2025 er 18 500 000 kroner.
 ## § 5. Informasjon
 
 Markedsregulator Nortura skal utforme og gjennomføre et informasjonsopplegg for hele bransjen slik at alle får samtidig og god kunnskap om ordningen.
+
+KLF skal bidra til å informere de uavhengige slakteriene og produsentene. Det skal spesielt gis informasjon om påmelding fra slakteriene for å få tildelt andel av ramme nevnt i [§ 2](forskrift/2024-10-24-2637/§2).
 
 ## § 6. Søknaden
 

@@ -350,6 +350,8 @@ Konsesjonæren skal sørgje for at tilsette på skip som leverer tenester til ut
 
 Denne lova gjeld frå den tida1 Kongen fastset.
 
+1 Frå 1 juli 2010 iflg. [res. 4 juni 2010 nr. 760](forskrift/2010-06-04-760).
+
 ## Kapittel 12. Endringar i anna lovverk
 
 ### § 12-1. (Endringar i anna lovverk)

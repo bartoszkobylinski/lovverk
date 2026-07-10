@@ -58,17 +58,23 @@ I særskilte tilfeller kan tilsynsmyndigheten1 gjøre unntak fra denne forskrift
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
 
+1 Tilsynsmyndigheten vil være Direktoratet for samfunnssikkerhet og beredskap.
+
 ## § 8. Tilsyn
 
 Tilsynsmyndigheten1 eller den som bemyndiges fører tilsyn med overholdelse av krav fastsatt i denne forskriften.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
 
+1 Tilsynsmyndigheten vil være Direktoratet for samfunnssikkerhet og beredskap.
+
 ## § 9. Klage
 
 Vedtak truffet av tilsynsmyndigheten1 eller av den som bemyndiges kan påklages til departementet.
 
 > Endret ved [forskrifter 30 juni 2003 nr. 888](forskrift/2003-06-30-888), [6 nov 2003 nr. 1318](forskrift/2003-11-06-1318).
+
+1 Tilsynsmyndigheten vil være Direktoratet for samfunnssikkerhet og beredskap.
 
 ## § 10. Tvangsmulkt
 

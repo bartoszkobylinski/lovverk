@@ -94,9 +94,13 @@ Etter opptaksperiodens utløp opphører partenes rettigheter og plikter i henhol
 
 ### § 5-5. Avslutning av avtaleperioden
 
+*Frivillig avslutning*
+
 Kandidaten og fagavdelingen kan avtale at doktorgradsutdanningen avsluttes før avtalt tid. Ved frivillig avslutning av doktorgradsutdanningen skal det inngås en egen avtale om hvordan spørsmål knyttet til for eksempel arbeidssforhold, finansiering, rettigheter og resultater skal løses.
 
 Om kandidaten ønsker å skifte prosjekt eller overgang til annet program, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.
+
+*Tvungen avslutning*
 
 DOS kan vedta avslutning av doktorgradsutdanningen før avtalt tid. Tvungen avslutning kan vedtas hvis minst ett av følgende forhold foreligger:Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. [§ 10-1](forskrift/2019-11-12-2240/§10-1).Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet. Dette gjelder også fusk, som rammes av reglene i universitets- og [høyskoleloven, § 4-7](lov/2005-04-01-15/§4-7).Kandidatens opptreden bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.
 
@@ -282,11 +286,15 @@ Komiteens innstilling oversendes Samisk høgskole som forelegger denne for dokto
 
 Samisk høgskole fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om doktorgradsavhandlingen kan forsvares.
 
+*Enstemmig innstilling*
+
 Dersom komiteen avgir enstemmig innstilling og Samisk høgskole finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter høgskolen selv vedtak på grunnlag av den enstemmige innstillingen.
 
 Dersom Samisk høgskole finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges doktorgradskandidaten, som gis anledning til å komme med merknader.
 
 DOS fatter deretter endelig vedtak på grunnlag av innstillingen og de eksterne uttalelsene.
+
+*Vurdering av delt innstilling*
 
 Delt innstilling fra komiteen vurderes og vedtas av DOS. Dersom komiteen avgir delt innstilling og DOS vedtar å legge flertallets uttalelser til grunn for sitt vedtak, fatter Samisk høgskole vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og DOS vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Disse sakkyndige arbeider ikke som komité, men vurderer avhandlingen hver for seg og kommer med hver sin uttalelse.
 

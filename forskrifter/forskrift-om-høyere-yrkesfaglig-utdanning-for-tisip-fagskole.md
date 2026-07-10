@@ -196,7 +196,16 @@ Forskriften benytter gradert skala med fem trinn fra A til E for bestått og F f
 
 ### § 4-7. Kvalitativ beskrivelse av de enkelte karaktertrinn
 
-Følgende beskrivelser legges til grunn for karaktersetting.***Symbol******Betegnelse******Generell, kvalitativ beskrivelse av vurderingskriterier***AFremragendeFremragende prestasjon som klart utmerker seg. Viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjon som tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og manglende selvstendighet.
+Følgende beskrivelser legges til grunn for karaktersetting.
+
+| ***Symbol*** | ***Betegnelse*** | ***Generell, kvalitativ beskrivelse av vurderingskriterier*** |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon. Kandidaten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder. Kandidaten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Kandidaten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjon som tilfredsstiller minimumskravene, men heller ikke mer. Kandidaten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene. Kandidaten viser både manglende vurderingsevne og manglende selvstendighet. |
 
 ### § 4-8. Adgang til å avlegge avsluttende vurdering og eksamen på nytt. Antall forsøk
 

@@ -28,6 +28,8 @@ Skattedirektoratet har funnet å kunne gi fritak for beregning av merverdiavgift
 
 Skattedirektoratet gir ikke fritak for beregning av merverdiavgift ved levering av varer og tjenester til fartøyet ut over det som ellers følger av merverdiavgiftsreglene.
 
+*Sakens bakgrunn*
+
 UiT Norges arktiske universitet kjøpte fartøyet F/F Jan Mayen den 17. juni 2011, og fra samme dato endret skipet navn til F/F Helmer Hanssen men beholdt kjenningssignalet – LAHV.
 
 Fartøyet karakteriseres som en havgående og isforsterket frysereketråler. Det er bygget i 1988 og er på 63,80 meter største lengde. Fartøyet benyttes til forskningsoppdrag utenfor norsk territorialgrense. Toktaktiviteten er de senere år i stadig større omfang relatert til området rundt Svalbard, nordlige Barentshavet, Vestisen og østover til grensa mot Russland.
@@ -41,6 +43,8 @@ Skattedirektoratet bekreftet 7. oktober 2002 at Finansdepartementets vedtak 15. 
 Gjeldende merverdiavgiftslov ble vedtatt 15. desember 2009, og det følger av ikrafttredelsesbestemmelsen i gjeldende lov § 22-2 andre ledd at enkeltvedtak truffet etter tidligere merverdiavgiftslov § 70 bortfaller seks måneder etter at gjeldende merverdiavgiftslov trådte i kraft. Universitetet i Tromsø søkte om videreføring av fritakene med hjemmel i gjeldende merverdiavgiftslov. Skattedirektoratet gjorde [vedtak 6. mai 2010 nr. 648](forskrift/2010-05-06-648) om å innvilge fritak med hjemmel i gjeldende merverdiavgiftslov § 19-3 første ledd ved utleie av skipet til forskningsoppdrag utenfor merverdiavgiftsområdet.
 
 For omsetning av varer og tjenester til fartøyet ble det ikke gitt særskilt fritak da det i forbindelse med den tekniske revisjonen av merverdiavgiftsloven ble gitt forskriftsbestemmelser som erstatter de enkeltvedtak som var truffet med hjemmel i tidligere lov § 16 annet ledd bokstav a. I vedtaket ble det vist til [merverdiavgiftsforskriften § 6-30-11](forskrift/2009-12-15-1540/§6-30-11), og Skattedirektoratet la til grunn at det ville bero på en konkret vurdering i det enkelte tilfellet om anskaffelser til fartøyet var omfattet av fritaket.
+
+*Skattedirektoratets vurdering*
 
 Skattedirektoratet viser til at det er etablert praksis for å gi fritak for fartøy som utfører forskningsoppdrag i farvann som ligger fjernt fra Norge. Vi forstår det slik at bruken av skipet er uendret, og vi kan ikke se at spørsmålet om avgiftsfritak bør vurderes annerledes for skipet selv om det har fått nytt navn og byttet eier.
 

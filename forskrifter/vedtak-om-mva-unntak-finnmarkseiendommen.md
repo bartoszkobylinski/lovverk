@@ -34,6 +34,8 @@ Statens eiendommer i Finnmark ble overført fra Statskog til grunneierorganet Fi
 
 Etter søknad av 26. mars 2006 fra Miljøverndepartementet fant Finansdepartementet i vedtak 8. februar 2007 med hjemmel i merverdiavgiftsloven 1969 § 70 å kunne frita for merverdiavgift Finnmarkseiendommens omsetning av fiskekort og jaktkort for småviltjakt.
 
+*Fra Finansdepartementets vedtak hitsettes:*
+
 «Omsetning av fiskekort og jaktkort for småvilt- og villreinjakt fra bygdeallmenninger, statsallmenninger og annen statlig grunn, blir etter forvaltningspraksis med hjemmel i merverdiavgiftslovens § 70 ikke ilagt merverdiavgift. Begrunnelsen for disse unntakene har i hovedsak vært at et vederlag som tas for å få rett til jakt og fiske ikke er ansett som et vederlag for en overføring av jakt- og fiskeretten.
 
 Statens eiendommer i Finnmark ble 1. juli 2006 overført fra Statskog til den nyopprettede virksomheten Finnmarkseiendommen. Dette er nærmere regulert i [lov 17. juni 2005 nr. 85](lov/2005-06-17-85) om rettsforhold og forvaltning av grunn og naturressurser i Finnmark fylke (finnmarksloven).

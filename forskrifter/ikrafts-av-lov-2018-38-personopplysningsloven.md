@@ -25,3 +25,5 @@ eu_basis: []
 Loven trer i kraft samtidig1 med at EØS-komiteens beslutning om innlemmelse i EØS-avtalen av Europaparlaments- og rådsforordning (EU) 2016/679 av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv [95/46/EF](eu/31995l0046) (generell personvernforordning) trer i kraft.
 
 Det administrative ansvaret for Datatilsynet og Personvernnemnda hører under Kommunal- og moderniseringsdepartementet med virkning fra lovens ikrafttreden.
+
+1 I kraft 20 juli 2018, jf. meddelelse [17. juli 2018 nr. 1195](forskrift/2018-07-17-1195).

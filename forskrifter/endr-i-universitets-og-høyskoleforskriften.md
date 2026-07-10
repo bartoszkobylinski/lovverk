@@ -24,20 +24,32 @@ eu_basis: []
 
 ## I
 
+I [forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven (universitets- og høyskoleforskriften)](forskrift/2024-06-28-1392) gjøres følgende endringer:
+
+[§ 7-1 første ledd](forskrift/2024-06-28-1392/§7-1/ledd/1) nr. 40 og 41 skal lyde:
+
 1. utdanning i fritidspedagogikk
 2. utdanninger ved Høgskolen for kriminalomsorg
 
-Studenters rett til å få dekket rimelige og nødvendige utgifter til bistand fra advokat eller annen fullmektig etter [universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9), er begrenset oppad til følgende nivå:I saker som gjelder utestenging, utelukkelse eller bortvisning etter loven [§§ 12-1](lov/2024-03-08-9/§12-1), [12-2](lov/2024-03-08-9/§12-2) og [12-4](lov/2024-03-08-9/§12-4) til [12-8](lov/2024-03-08-9/§12-8):9 ganger offentlig salærsats i forvaltningssaken32 ganger offentlig salærsats for domstolen.I saker som gjelder uskikkethet etter loven [§ 12-3](lov/2024-03-08-9/§12-3):16 ganger offentlig salærsats i forvaltningssaken40 ganger offentlig salærsats for domstolen.
+Ny [§ 12-3](forskrift/2024-06-28-1392/§12-3) skal lyde:
 
-I særlig tidkrevende saker kan institusjonen dekke utgifter til advokat med inntil 5 ganger offentlig salærsats utover satsene i første ledd.
+Ny [§ 13-7](forskrift/2024-06-28-1392/§13-7) skal lyde:
 
-Ved advokatskifte har studentene rett på én gang offentlig salærsats i tillegg til satsene i første ledd.
-
-Begrensningene i § 12-3 i studenters rett til å få dekket utgifter til advokat etter [universitets- og høyskoleloven § 12-9](lov/2024-03-08-9/§12-9) gjelder for saker som blir besluttet fremmet ved institusjonen etter 1. september 2026.
+Forsvarets høgskole punkt 4 skal lyde:
 
 1. master
 
+Nåværende punkt 4 blir punkt 5.
+
+Kriminalomsorgens høgskole og utdanningssenter bytter navn til Høgskolen for Kriminalomsorg.
+
+Private institusjoner – Akkrediterte høyskoler:
+
+Høyskolen for ledelse og teologi skal nytt punkt 2 lyde:
+
 1. master.
+
+Steinerhøyskolen flyttes hit til «Private institusjoner – Akkrediterte høyskoler», og slettes fra «Høyskoler uten institusjonsakkreditering»
 
 ## II
 

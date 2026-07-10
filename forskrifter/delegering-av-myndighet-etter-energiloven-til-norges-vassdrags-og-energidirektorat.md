@@ -32,7 +32,20 @@ Delegeringsvedtaket omfatter ikke departementets forskriftskompetanse etter [ene
 
 Myndighet tillagt reguleringsmyndigheten og klagenemnden fremgår av bestemmelser i [energiloven](lov/1990-06-29-50) med forskrifter, og omfattes ikke av delegeringsvedtaket her.
 
-Myndighet etter følgende bestemmelser i [energiloven](lov/1990-06-29-50) omfattes ikke av delegeringen:*Bestemmelse i [energiloven](lov/1990-06-29-50)**Tema*§ 2-5 første leddUtpeking av reguleringsmyndighet og klagenemnd[§ 3-1](lov/1990-06-29-50/§3-1) hvor det i forskrift er fastsatt at vedtak fattes av Kongen i statsrådKonsesjon på anlegg[§ 3-3 annet](lov/1990-06-29-50/§3-3/ledd/2) og [fjerde ledd](lov/1990-06-29-50/§3-3/ledd/4)Områdekonsesjonærens leveringsplikt[§ 3-4 annet](lov/1990-06-29-50/§3-4/ledd/2) og [tredje ledd](lov/1990-06-29-50/§3-4/ledd/3)Anleggskonsesjonærens plikt til å tilknytte uttakskunder[§ 3-4a fjerde ledd](lov/1990-06-29-50/§3-4a/ledd/4)Plikt til å tilknytte anlegg for produksjon av elektrisk energi[§ 3-6](lov/1990-06-29-50/§3-6)Ekspropriasjon av elektriske anlegg[Kapittel 4](lov/1990-06-29-50/kap4)Omsetning av elektrisk energi[§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2)Tildeling av myndighet til å utøve systemansvaret[§ 6-2 første](lov/1990-06-29-50/§6-2/ledd/1) og [annet ledd](lov/1990-06-29-50/§6-2/ledd/2)Rasjonering[§ 9-1](lov/1990-06-29-50/§9-1) siste leddBeslutning om å underlegge kraftforsyningen KBO
+Myndighet etter følgende bestemmelser i [energiloven](lov/1990-06-29-50) omfattes ikke av delegeringen:
+
+| *Bestemmelse i [energiloven](lov/1990-06-29-50)* | *Tema* |
+| --- | --- |
+| § 2-5 første ledd | Utpeking av reguleringsmyndighet og klagenemnd |
+| [§ 3-1](lov/1990-06-29-50/§3-1) hvor det i forskrift er fastsatt at vedtak fattes av Kongen i statsråd | Konsesjon på anlegg |
+| [§ 3-3 annet](lov/1990-06-29-50/§3-3/ledd/2) og [fjerde ledd](lov/1990-06-29-50/§3-3/ledd/4) | Områdekonsesjonærens leveringsplikt |
+| [§ 3-4 annet](lov/1990-06-29-50/§3-4/ledd/2) og [tredje ledd](lov/1990-06-29-50/§3-4/ledd/3) | Anleggskonsesjonærens plikt til å tilknytte uttakskunder |
+| [§ 3-4a fjerde ledd](lov/1990-06-29-50/§3-4a/ledd/4) | Plikt til å tilknytte anlegg for produksjon av elektrisk energi |
+| [§ 3-6](lov/1990-06-29-50/§3-6) | Ekspropriasjon av elektriske anlegg |
+| [Kapittel 4](lov/1990-06-29-50/kap4) | Omsetning av elektrisk energi |
+| [§ 6-1 annet ledd](lov/1990-06-29-50/§6-1/ledd/2) | Tildeling av myndighet til å utøve systemansvaret |
+| [§ 6-2 første](lov/1990-06-29-50/§6-2/ledd/1) og [annet ledd](lov/1990-06-29-50/§6-2/ledd/2) | Rasjonering |
+| [§ 9-1](lov/1990-06-29-50/§9-1) siste ledd | Beslutning om å underlegge kraftforsyningen KBO |
 
 Departementet gjør oppmerksom på at endringene i [energiloven § 3-4a](lov/1990-06-29-50/§3-4a), herunder at nåværende [§ 3-4a tredje ledd](lov/1990-06-29-50/§3-4a/ledd/3) blir nytt fjerde ledd, først trer i kraft 1. januar 2026, jf. [ikrafttredelsesvedtak 20. juni 2025 nr. 1085](forskrift/2025-06-20-1085).
 

@@ -36,6 +36,8 @@ Kongen kan ved forskrift bestemme at loven helt eller delvis ikke skal gjelde i 
 
 > Endret ved [lover 12 juni 1987 nr. 65](lov/1987-06-12-65), [21 mai 1999 nr. 31](lov/1999-05-21-31).
 
+1 Sml. [EØS-avtalen vedlegg XIII](avtale/avt-1992-05-02-1-v13) nr. 42h, (forordning [1371/2007](eu/32007r1371)) art. 3 nr. 2, jf. bilag 1 art. 26 nr. 1.
+
 ### § 2
 
 Bestemmelsene i denne lov gjelder ikke skade som går inn under [lov 12. mai 1972 nr. 28](lov/1972-05-12-28) om atomenergivirksomhet.
@@ -147,3 +149,5 @@ Reglene om jernbanens innsigelser og om grensen for ansvar gjelder tilsvarende n
 Loven tar til å gjelde fra det tidspunkt Kongen bestemmer1.
 
 > Endret ved [lov 21 mai 1999 nr. 31](lov/1999-05-21-31), tidligere § 12.
+
+1 Fra 1 sep 1977 iflg. 10 juni 1977.

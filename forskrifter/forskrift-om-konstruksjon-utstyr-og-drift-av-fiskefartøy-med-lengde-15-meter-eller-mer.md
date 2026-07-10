@@ -36,6 +36,8 @@ eu_basis: []
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter eller mer, men med lengde (L) under 24 meter), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se bl.a. bestemmelsene i [§ 6-1](forskrift/2000-06-13-660/§6-1), [§ 7-1](forskrift/2000-06-13-660/§7-1), [§ 8-1](forskrift/2000-06-13-660/§8-1), [§ 9-1](forskrift/2000-06-13-660/§9-1) og [§ 10-1](forskrift/2000-06-13-660/§10-1).
+
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 ### § 1-1a. Krav til fartøy bygget etter datoer som er presisert i forskriftsteksten
@@ -52,6 +54,8 @@ I denne forskrift betyr:*Anerkjent klassifikasjonsselskap:* klassifikasjonsselsk
 
 > Endret ved forskrifter [30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [30 juni 2003 nr. 912](forskrift/2003-06-30-912) (i kraft 1 juli 2003), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 ---2 ---3 Se vedlegg 1.4 Jf. [§ 1-1](forskrift/2000-06-13-660/§1-1) tredje ledd.5 Se [§ 12-2](forskrift/2000-06-13-660/§12-2).
+
 ### § 1-3. Fritak
 
 (1) Sjøfartsdirektoratet kan frita ethvert fartøy med nye egenskaper fra kravene i [kapitlene 2](forskrift/2000-06-13-660/kap2), 3, 4, 5, 6, 7 og 11, dersom anvendelse av slike krav kan være til alvorlig hinder for forskningen for å utvikle disse egenskaper og innarbeide dem i fartøy. Ethvert fartøy som har fått fritak skal likevel tilfredsstille de sikkerhetskrav Sjøfartsdirektoratet finner nødvendige for den fart det er beregnet på og som er slik at de ivaretar fartøyets sikkerhet.
@@ -66,6 +70,8 @@ I denne forskrift betyr:*Anerkjent klassifikasjonsselskap:* klassifikasjonsselsk
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se bl.a. [§ 1-16](forskrift/2000-06-13-660/§1-16) annet ledd og [§ 9-3](forskrift/2000-06-13-660/§9-3) og [§ 10-2](forskrift/2000-06-13-660/§10-2).
+
 ### § 1-4. Plikter
 
 Rederiet, arbeidsgiver, skipsføreren og andre som har sitt arbeid om bord skal påse, sørge for og medvirke til at forskriften gjennomføres i samsvar med pliktbestemmelsene i skipssikkerhetsloven og denne forskriften.
@@ -77,6 +83,8 @@ Rederiet, arbeidsgiver, skipsføreren og andre som har sitt arbeid om bord skal 
 Utstyr som er påkrevet i denne forskrift skal være godkjent, typegodkjent eller akseptert av Sjøfartsdirektoratet slik det fremgår av den enkelte bestemmelse.1 Utstyr som er produsert og merket i henhold til [forskrift 30. august 2016 nr. 1042](forskrift/2016-08-30-1042) om skipsutstyr er å anse som godkjent.
 
 > Endret ved [forskrift 20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
+
+1 Se bl.a. [§ 7-3](forskrift/2000-06-13-660/§7-3), [§ 9-13](forskrift/2000-06-13-660/§9-13) og [§ 10-3](forskrift/2000-06-13-660/§10-3) tiende ledd.
 
 ### § 1-6. Likeverdige løsninger
 
@@ -152,6 +160,8 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 
 (7) På fartøy med lengde (L) på 75 meter eller mer skal det, så langt som praktisk mulig, være anordnet vanntett dobbeltbunn mellom kollisjonsskottet og hylseskottet.
 
+1 Se definisjonen i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 26.
+
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 ### § 2-2. Vanntette dører
@@ -176,6 +186,8 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 
 (2) Fiskeluker på hekktrålere skal være kraftoperert og kunne betjenes fra et sted der det er fritt utsyn til lukene.
 
+1 Se også bestemmelsen i [§ 2-16](forskrift/2000-06-13-660/§2-16).
+
 ### § 2-3a. Beskyttelse mot fylling gjennom åpninger i skroget under vannlinjen
 
 (1) For fartøy bygget etter 1. januar 2010 som har bevegelige deler som er ført gjennom skroget under den dypeste driftsvannlinje, f.eks. sonar, f.eks. sonar, skal det være arrangert en indre vanntett barriere som hindrer videre fylling av fartøyet ved en eventuell lekkasje. Rommet som kan fylles skal ikke være større enn det som er nødvendig for å kunne utføre vedlikehold, reparasjoner og lignende. Adkomståpninger som er anbrakt under arbeidsdekket skal ha vanntette lukningsmidler med tilsvarende styrke som den tilstøtende struktur. Et oppslag om at luka/døra skal holdes lukket i sjøen, skal festes på begge sider av luka/døra.
@@ -185,6 +197,8 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 (3) For nye og eksisterende fartøy med rom som har åpninger i skroget for sonar/asdic og lignende utstyr skal det arrangeres med høyvannstanddetektor som initierer alarm i styrehus ved en eventuell fylling.
 
 > Endret ved [forskrifter 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se «Guidance on subdivision and Damage Stability Calculations» gitt i [punkt](forskrift/2000-06-13-660/kap5) 5 (3) (a), (b) og (c) under «Attachment 3-Recommendations by the conference» i Torremolinos.
 
 ### § 2-4. Værtette dører
 
@@ -304,6 +318,8 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 
 > Endret ved forskrifter [13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 2-16](forskrift/2000-06-13-660/§2-16) første ledd nr. 5 og [§ 6-11](forskrift/2000-06-13-660/§6-11) annet ledd.
+
 ### § 2-15. Anker- og fortøyningsutrustning
 
 (1) Det skal finnes ankerutstyr beregnet på hurtig og sikker bruk. Ankerutrustningen skal bestå av ankere, ankerkjettinger eller ståltau, stoppere og et ankerspill eller andre arrangementer for utsetting og opphiving av ankeret. Ankerutrustningen skal kunne holde fartøyet til ankers under alle forventede driftsforhold. Fartøy skal også være utstyrt med passende fortøyningsutstyr for sikker fortøyning under alle driftsforhold.
@@ -314,7 +330,14 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 
 (4) Fartøy med lengde (L) under 24 meter bygget før 1. juli 2022 skal minst ha følgende ankerutrustning:Total ankervekt: 0,1 x LOA 2,43 [kg], hvor LOA er største lengde.3Det er valgfritt om ett eller to ankre benyttes. Dersom to ankre benyttes, skal det ene ankeret ha følgende minimumsvekt: 5 x (LOA -15)1,4 + 50 [kg].Kjettingen skal ha følgende lengde: Lmin = 5 x LOA /3 + 55 [m]. Wire kan erstatte kjetting, forutsatt at det arrangeres 12,5 meter kjettingforløper, wirelengden økes med 50 prosent sammenlignet med kravet for kjetting, og at bruddstyrken for wire er minst den samme som for kjetting.Kjettingen skal minst være av kvalitet VL K1 i henhold til DNV GLs stålskipsregler eller tilsvarende standard fra anerkjent klassifikasjonsselskap. Dimensjonen skal ikke være mindre enn angitt i tabellen under.
 
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| LOA | <18 | 22 | 25 | [m] |
+| Diameter | 12,5 | 14 | 16 | [mm] |
+
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 ---2 ---3 Se definisjonen i § 1-2 nr. 41.
 
 ### § 2-16. Overbygget arbeidsdekk og produksjonsdekk
 
@@ -335,6 +358,8 @@ As = areal av drageluker (og ev. andre tilsvarende luker) eller hekkluker i kvad
 (7) Det skal være installert et ventilasjonssystem som gir minst seks utskiftninger av luften i timen. For «åpne shelterdekkere» skal ventilasjon av arbeidsdekk være tilfredsstillende.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Jf. [§ 4-11](forskrift/2000-06-13-660/§4-11).
 
 ### § 2-17. Dypgangsmerker
 
@@ -365,6 +390,8 @@ Med hensyn til plassering av innredning vises til kravene i [kapittel 11](forskr
 (5) Hydraulisk manøvrerbart opphengningsarrangement for kraftblokk skal være slik anordnet at svikt i oljetilførsel, slangebrudd, e.l. ikke forårsaker at arrangementet faller ned på en ukontrollert måte.
 
 > Endret ved [forskrift 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009).
+
+1 Se [§ 6-4](forskrift/2000-06-13-660/§6-4) femte ledd.
 
 ### § 2-21. Personheis og kombinert vare- og personheis
 
@@ -428,6 +455,8 @@ Figur 3.1. Krengende moment/krengende arm og rettende moment/rettende arm som fu
 
 > Endret ved [forskrifter 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se definisjon i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 17.
+
 ### § 3-7. Driftstilstander
 
 (1) LastetilstanderFartøyets GZ-kurver (kurver som viser den opprettende arm) korrigert for trim og for fri overflatevirkning i brenselolje-, ferskvannstanker og eventuelle andre tanker, skal minst utarbeides for følgende lastetilstander:Avgang til fiskefeltet med 100 prosent brennolje, ferskvann, forråd, fiskeredskap og full utrustning for øvrig.Hvis driftsmåten tilsier det, på feltet med maksimal mengde fangst på dekk, lasterommet tomt og 50 prosent brennolje, ferskvann, forråd, samt full utrustning.Avgang fra fiskefeltet uten fangst med 30 prosent brennolje, ferskvann, forråd, og full utrustning.For fartøy bygget 1. januar 2010 eller senere og fartøy bygget før ikrafttredelse av denne forskriften: Ankomst havn uten fangst med 10 prosent brennolje, ferskvann, forråd og full utrustning. Tilstand i henhold til nr. 3 kan utgå.Avgang fra fiskefeltet med fulle lasterom, nedlasting skal være til største tillatte driftsdypgang, minimum 30 prosent brennolje, ferskvann, forråd og full utrustning, ingen vannballast.Ankomst havn med fulle lasterom og ti prosent brennolje, ferskvann, forråd og full utrustning, ingen vannballast.Ankomst havn med 20 prosent av full fangst og ti prosent brennolje, ferskvann, forråd og full utrustning.
@@ -475,6 +504,8 @@ Figur 3.1. Krengende moment/krengende arm og rettende moment/rettende arm som fu
 (4) Dersom det foretas endringer som påvirker et fartøys stabilitet, skal reviderte stabilitetsberegninger utarbeides og forelegges Sjøfartsdirektoratet for godkjennelse.
 
 > Endret ved forskrifter [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Se [§ 1-10](forskrift/2000-06-13-660/§1-10).
 
 ### § 3-11. Løse skott i lasterom
 
@@ -567,6 +598,8 @@ Med mindre annet er bestemt, skal dette kapittel gjelde for nye fiskefartøy med
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 ---2 ---3 Se § 8 i [forskrift av 15. september 1992 nr. 704](forskrift/1992-09-15-704) om driftsordninger på norske skip.
+
 ### Del B – Maskininstallasjoner
 
 ### § 4-4. Maskineri
@@ -653,6 +686,8 @@ Det skal være installert to separate systemer for kommunikasjon mellom styrehus
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [forskrift 27. desember 2016 nr. 1883 om skip som bruker drivstoff med flammepunkt under 60 °C](forskrift/2016-12-27-1883).
+
 ### § 4-11. Lensepumpearrangement
 
 (1) Det skal være installert et effektivt lensepumpeanlegg som under alle forhold skal være i stand til å pumpe fra og drenere ethvert vanntett rom som verken er en fast oljetank eller en fast vanntank, enten fartøyet ligger på rett kjøl eller har slagside. Lenserør skal om nødvendig være anbrakt ut i borde. Det skal være sørget for at vannet lett kan strømme til lenserørene. Forutsatt at Sjøfartsdirektoratet er forvisset om at fartøyets sikkerhet ikke svekkes, kan lensepumpearrangement sløyfes i visse rom.
@@ -724,6 +759,8 @@ Ozonanlegg som ikke faller inn under virkeområdet til [forskrift 8. september 2
 > Tilføyd ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 ### Del C – Elektriske anlegg1
+
+1 Se [§ 4-3](forskrift/2000-06-13-660/§4-3) annet ledd.
 
 ### § 4-16. Elektrisk hovedkraftkilde
 
@@ -829,6 +866,17 @@ Det skal være installert et sikkerhetssystem som gjør at alvorlig funksjonsfei
 
 (2) *Standard brannprøve:* Prøve der prøvestykker av de aktuelle skott eller dekk i en prøveovn utsettes for temperaturer som omtrent svarer til standard tidstemperaturkurve. Prøvestykkene skal ha en udekket overflate på minst 4,65 kvadratmeter og en høyde, eventuelt dekkslengde, på 2,44 meter, mest mulig lik den påtenkte konstruksjon og med minst én skjøt der dette er relevant. Standard tidstemperaturkurve defineres som en jevn kurve trukket gjennom følgende innvendige ovnstemperaturpunkter:
 
+|  |  |  |
+| --- | --- | --- |
+| Ovnens innvendige utgangstemperatur |  | 20° C |
+| ved utgangen av de første | 5 minutter | 576° C |
+| ved utgangen av | 10 minutter | 679° C |
+| ved utgangen av | 15 minutter | 738° C |
+| ved utgangen av | 30 minutter | 841° C |
+| ved utgangen av | 60 minutter | 945° C |
+
+Metode for prøving skal være i henhold til kravene som angitt i vedlegg 2.
+
 (3) *Skiller av klasse A:* Skiller som dannes ved skott og dekk som oppfyller følgende:De skal være bygget av stål eller annet likeverdig materiale.De skal være avstivet på passende måte.De skal være slik bygget at de er i stand til å hindre gjennomtrengning av røyk og flammer til utgangen av standard brannprøven.De skal være isolert med godkjente ubrennbare materialer slik at gjennomsnittstemperaturen på den siden som ikke utsettes for varme, ikke stiger med mer enn 139 grader Celsius over opprinnelig temperatur, samt at temperaturen på et hvilket som helst punkt, herunder eventuelle skjøter, ikke stiger med mer enn 180 grader Celsius over opprinnelig temperatur innenfor de tidsrom som er angitt nedenfor:Klasse A-60 60 minutterKlasse A-30 30 minutterKlasse A-15 15 minutterKlasse A-0   0 minutterSjøfartsdirektoratet kan kreve en prøve av prototypen av et skott eller dekk for å forvisse seg om at de oppfyller ovennevnte krav til integritet og temperaturstigning og er i henhold til kravene som nærmere angitt i vedlegg 2. For fartøy bygd etter 1. januar 2003 skal slik prøve tas.
 
 (4) *Skiller av klasse B:* Skiller som dannes ved skott, dekk, himlinger eller kledninger som oppfyller følgende:De skal være slik bygget at de er i stand til å hindre gjennomtrengning av røyk og flammer til utgangen av den første halve timen av standard brannprøven.De skal ha en isolasjonsverdi som er slik at gjennomsnittstemperaturen på den siden som ikke utsettes for varme, ikke stiger med mer enn 139 grader Celsius over opprinnelig temperatur, og at temperaturen på et hvilket som helst punkt, herunder eventuelle skjøter, ikke stiger med mer enn 225 grader Celsius over opprinnelig temperatur innenfor de tidsrom som er angitt nedenfor:Klasse B-15 15 minutterKlasse B-0   0 minutterDe skal være bygget av godkjente ubrennbare materialer, og alle materialer som inngår i bygging og oppsetting av skiller av klasse B skal være ubrennbare. Brennbare overflatebelegg kan tillates forutsatt at de oppfyller de relevante krav i dette kapittel.Sjøfartsdirektoratet kan kreve at det foretas en prøve av prototypen av et slikt skille for å forvisse seg om at ovenstående krav til integritet og temperaturstigning er oppfylt og i henhold til kravene som nærmere angitt i vedlegg 2. For fartøy bygd etter 1. januar 2003 skal slik prøve tas.
@@ -905,7 +953,39 @@ Det skal være installert et sikkerhetssystem som gjør at alvorlig funksjonsfei
 
 (2) Følgende krav skal legges til grunn for anvendelsen av tabellene:Tabell 1 og 2 skal gjelde henholdsvis for skott og dekk som skiller tilstøtende rom.For å kunne avgjøre hvilke brannintegritetsstandarder som skal anvendes for skiller mellom tilstøtende rom, foretas følgende klassifisering av slike rom etter brannrisiko:Kontrollstasjoner (1).Rom som inneholder nødkilder for kraft og belysning.Styrehus og kartrom.Rom som inneholder fartøyets radioutstyr.Brannslokningsrom, brannkontrollrom og brannregistreringsstasjoner.Kontrollrom for framdriftsmaskineri når dette er plassert utenfor maskinrommet.Rom som inneholder sentralisert brannalarmutstyr.Korridorer (2).Korridorer og forværelser.Oppholdsrom (3).Rom som definert i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 37, unntatt korridorer.Trapper (4).Innvendige trapper, heiser og unntatt slike som i sin helhet ligger inne i maskinrom og innhegninger til slike. I denne forbindelse skal trapp som bare er innhegnet på ett nivå, anses som del av det rom den ikke er skilt fra med branndør.Arbeidsrom med lav brannrisiko (5).Skap og lagerrom med gulvflate mindre enn fire kvadratmeter, tørkerom og vaskerom.Maskinrom av kategori A (6).Rom som definert i [§ 5-2](forskrift/2000-06-13-660/§5-2) ellevte ledd.Andre maskinrom (7).Rom som definert i [§ 5-2](forskrift/2000-06-13-660/§5-2) tolvte ledd, inkludert produksjonsrom for fiskemel, men unntatt maskinrom av kategori A.Lasterom (8).Alle rom som benyttes til last, inkludert lastoljetanker, samt kanaler og luker til slike rom.Arbeidsrom med høy brannrisiko (9).Bysser, pentrier som inneholder kokeapparater, malingsrom, lamperom, skap og lagerrom med gulvflate på fire kvadratmeter eller mer, samt verksteder som ikke utgjør en del av maskinrommet.Åpent dekk (10).Åpent dekk og dekksrom, rom for foredling av fisk i rå tilstand, vaskerom for fisk og liknende rom uten brannrisiko.Tittelen på hver kategori er å forstå som typisk, og ikke begrensende. Tallet i parentes som følger etter hver kategori, viser til aktuell kolonne eller rad i tabellene.
 
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tabell 1 –<br>Brannintegritet i<br>skott som skiller<br>tilstøtende rom |  |  |  |  |  |  |  |  |  |  |  |
+| Rom |  | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
+| Kontroll-<br>stasjoner | (1) | A-<br>0e | A-0 | A-60 | A-0 | A-15 | A-60 | A-15 | A-60 | A-60 | \* |
+| Korridorer | (2) |  | C | B-0 | B-0<br>A-<br>0c | B-0 | A-60 | A-0 | A-0 | A-0 | \* |
+| Oppholdsrom | (3) |  |  | Ca ,b | B-0<br>A-<br>0c | B-0 | A-60 | A-0 | A-0 | A-0 | \* |
+| Trapper | (4) |  |  |  | B-0<br>A-<br>0c | B-0<br>A-0c | A-60 | A-0 | A-0 | A-0 | \* |
+| Arbeidsrom med lav brannrisiko | (5) |  |  |  |  | C | A-60 | A-0 | A-0 | A-0 | \* |
+| Maskinrom av kategori A | (6) |  |  |  |  |  | \* | A-0 | A-0 | A-60 | \* |
+| Andre maskinrom | (7) |  |  |  |  |  |  | A-<br>0d | A-0 | A-0 | \* |
+| Lasterom | (8) |  |  |  |  |  |  |  | \* | A-0 | \* |
+| Arbeidsrom med høy brannrisiko | (9) |  |  |  |  |  |  |  |  | A-<br>0d | \* |
+| Åpent dekk | (10) |  |  |  |  |  |  |  |  |  | – |
+
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tabell 2 –<br>Brannintegritet i<br>dekk som skiller<br>tilstøtende rom |  |  |  |  |  |  |  |  |  |  |  |
+| Rom under | Rom<br>over<br>· | (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
+| Kontroll-<br>stasjoner | (1) | A-0 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0 | \* |
+| Korridorer | (2) | A-0 | \* | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* |
+| Oppholdsrom | (3) | A-60 | A-0 | \* | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* |
+| Trapper | (4) | A-0 | A-0 | A-0 | \* | A-0 | A-60 | A-0 | A-0 | A-0 | \* |
+| Arbeidsrom med<br>lav brannrisiko | (5) | A-15 | A-0 | A-0 | A-0 | \* | A-60 | A-0 | A-0 | A-0 | \* |
+| Maskinrom av kategori A | (6) | A-60 | A-60 | A-60 | A-60 | A-60 | \* | A-<br>60f | A-30 | A-60 | \* |
+| Andre maskinrom | (7) | A-15 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | A-0 | \* |
+| Lasterom | (8) | A-60 | A-0 | A-0 | A-0 | A-0 | A-0 | A-0 | \* | A-0 | \* |
+| Arbeidsrom med høy brannrisiko | (9) | A-60 | A-0 | A-0 | A-0 | A-0 | A-60 | A-0 | A-0 | A-0d | \* |
+| Åpent dekk | (10) | \* | \* | \* | \* | \* | \* | \* | \* | \* | – |
+
 Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
+
+a Slike skott er ikke underlagt særlige krav ved brannsikring etter metode IIF og IIIF.b Når metode IIIF benyttes, skal skott klasse B av klasse B-0 være montert mellom rom eller grupper av rom med areal på 50 kvadratmeter eller mer.c Se [§ 5-4](forskrift/2000-06-13-660/§5-4) og [§ 5-5](forskrift/2000-06-13-660/§5-5) for avklaring av hva som gjelder.d Når rom er av samme numeriske kategori og henvisning d forekommer, kreves skott eller dekk av den standard som framgår av tabellene bare når de tilstøtende rom tjener et annet formål, f.eks. i kategori (9). En bysse som ligger vegg i vegg med en annen bysse, trenger ikke skott, men en bysse som ligger vegg i vegg med et malingsrom krever skott A-0.e Skott som skiller styrehus, kartrom og radiorom fra hverandre, kan være av klasse B-0.f Brannisolasjon kreves ikke dersom maskinrommet i kategori (7) etter Sjøfartsdirektoratets vurdering representerer liten eller ingen brannfare.\* Når en stjerne forekommer i tabellene, skal skillet være av stål eller annet likeverdig materiale, men trenger ikke være av klasse A. Når elektriske kabler, rør og ventilasjonskanaler føres gjennom et dekk eller skott, skal gjennomføringen være så tett at den hindrer gjennomtrengning av røyk og varme.
 
 (3) Gjennomgående himlinger eller kledninger av klasse B i forbindelse med aktuelle dekk eller skott kan godtas som et fullgodt eller delvis bidrag til den forlangte isolasjon og helhet i et skille.
 
@@ -938,6 +1018,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 (5) Lagerrom som inneholder meget brennbare produkter skal være utstyrt med ventilasjonsanlegg som er atskilt fra andre ventilasjonssystemer. Høye og lave nivåer i slike rom skal være ventilert, og inntak og utløp for vifter skal være plassert i sikre områder og utstyrt med gnistfangere.
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se [§ 11-5](forskrift/2000-06-13-660/§11-5).
 
 ### § 5-10. Varmeanlegg
 
@@ -975,6 +1057,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se definisjoner i [§ 5-2](forskrift/2000-06-13-660/§5-2) niende ledd.
+
 ### § 5-12. Lagring av gassflasker og farlige stoffer
 
 (1) Flasker for komprimerte, flytende eller oppløste gasser skal være klart merket med foreskrevne identitetsfarger, ha lett leselig identifikasjon av innholdets navn og kjemiske sammensetning og være forsvarlig sikret.
@@ -991,6 +1075,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009).
 
+1 Se [forskrift av 20. oktober 1983 nr. 1580](forskrift/1983-10-20-1580) om sikringstiltak for gassfyrte anlegg m.m. som bruker propan eller lette kullvannsstoffer anvendt ombord på fartøy og [forskrift av 21. juli 1988 nr. 653](forskrift/1988-07-21-653) om oppbevaring og bruk av helsefarlige stoffer om bord.
+
 ### § 5-13. Nødutganger
 
 (1) Trapper og leidere til og fra oppholdsrom samt i rom der besetningen vanligvis arbeider, unntatt maskinrom, skal være slik arrangert at de kan tjene som raske nødutganger til åpent dekk og derfra til redningsfarkostene. Følgende gjelder spesielt for slike rom:På alle dekk i innredningen skal det være minst to vidt atskilte nødutganger, hvorav den ene kan være den normale utgangen fra hvert begrenset rom eller gruppe av rom.Nødutgangene skal være utformet som følger:Under værdekket skal hovednødutgangen være en trapp, og den andre nødutgangen kan være en sjakt eller en trapp.Over værdekket skal nødutgangene være trapper eller dører til åpent dekk eller en kombinasjon av disse.Én nødutgang kan tillates, idet det tas rimelig hensyn til rommenes beskaffenhet og plassering og til antall personer som normalt er innkvartert eller arbeider der.Korridor eller del av korridor med bare én fluktvei skal ikke være over sju meter lang.Nødutgangenes bredde skal være minst 700 millimeter.På fartøy bygd etter 1. januar 2003 skal gang, trapp, dør eller annen åpning som er del av nødutgang, ha fri bredde på minst 700 millimeter.I styrehus med dør i kun én side skal minst ett av vinduene på motsatt side av døren kunne benyttes som nødutgang. Der døren er plassert i eller nær senter, kreves det ikke andre nødutganger direkte til dekk fra styrehus.For fartøy bygget etter 1. januar 2009 skal nødutgangsluker ha fri åpning på 700 × 700 millimeter.
@@ -1002,6 +1088,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 (4) Heiser skal ikke anses som en av de påbudte nødutganger.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se [§ 11-3](forskrift/2000-06-13-660/§11-3) annet ledd.
 
 ### § 5-14. Automatiske sprinkler-, brannalarm- og brannoppdagelsessystemer (Metode IIF)
 
@@ -1029,6 +1117,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 5-1](forskrift/2000-06-13-660/§5-1) første ledd nr. 2.
+
 ### § 5-15. Automatiske brannalarm- og brannoppdagelsesanlegg (Metode IIIF)
 
 (1) På fartøy der metode IIIF benyttes, skal automatisk brannalarm- og brannoppdagelsesanlegg av godkjent type og i samsvar med kravene i denne bestemmelse være installert og slik innrettet at det oppdager brann i alle oppholdsrom og arbeidsrom unntatt rom som ikke representerer noen vesentlig brannfare, f.eks. tomrom og sanitærrom.
@@ -1050,6 +1140,8 @@ Anmerkninger: Gjelder både tabell 1 og 2 som det passer.
 (9) Reservehoder til hver detektorseksjon skal finnes om bord.
 
 > Endret ved [forskrift 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003).
+
+1 Se [§ 5-1](forskrift/2000-06-13-660/§5-1) første ledd nr. 2.
 
 ### § 5-16. Fast brannslokningsutstyr i lasterom med høy brannrisiko
 
@@ -1099,6 +1191,12 @@ Utstyr til frityrsteking som er installert om bord, skal være utstyrt med følg
 
 (1) Brannslokningsapparater skal være av godkjente typer. Påbudte bærbare vannapparater skal ha en kapasitet på høyst 13,5 liter og minst ni liter. Andre slokningsapparater skal være minst like bærbare som et 13,5 liters vannapparat og ikke ha mindre brannslokningseffekt enn et ni liters vannapparat. Følgende typer brannslokningsapparater anses som likeverdige:
 
+| Bærbart<br>brann-<br>sluknings<br>-apparat | Størrelse | Effektiv sluknings-<br>periode (sek) | Kastelengde (m) |
+| --- | --- | --- | --- |
+| Skum | 9-13,5 liter | 35 eller mer | 3 eller mer |
+| CO2 | 5-9 kg | 25 eller mer | 3 eller mer |
+| Pulver | 5-9,5 kg | 12 eller mer | 5 eller mer |
+
 (2) For brannslokningsapparat som kan refylles om bord, skal det for de ti første apparatene være 100% dekning med reserveladninger og 50% dekning for de overskytende, begrenset oppad til 60 reserveladninger. For brannslokningsapparater som ikke kan refylles, skal det være minst 50% overdekning med apparater av samme type og kapasitet om bord. Det skal være instruks for refylling av oppladbare brannslokningsapparater om bord, og reserveladninger som er godkjent for brannslokningsapparatet skal brukes.
 
 (3) Brannslokningsapparater som inneholder slokningsmiddel som enten i seg selv eller under forventede bruksforhold, avgir giftige gasser i slike mengder at personer kan settes i fare, skal ikke være tillatt.
@@ -1110,6 +1208,8 @@ Utstyr til frityrsteking som er installert om bord, skal være utstyrt med følg
 (6) For brannslokningsapparater som kan bli utsatt for frost, skal slokningsmiddelet være av frostsikkert innhold.2
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 ---2 Særkrav for norske fartøy.
 
 ### § 5-21. Bærbare brannslokningsapparater i kontrollstasjoner, oppholdsrom og arbeidsrom
 
@@ -1133,11 +1233,23 @@ Utstyr til frityrsteking som er installert om bord, skal være utstyrt med følg
 
 > Endret ved [forskrifter 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se definisjon i [§ 5-2](forskrift/2000-06-13-660/§5-2) ellevte og tolvte ledd.
+
 ### § 5-23. Internasjonal landtilkopling
 
 (1) Det skal være installert minst én internasjonal landtilkopling i overensstemmelse med annet ledd.
 
 (2) Standarddimensjoner for flenser på internasjonal landtilkopling skal være i overensstemmelse med følgende tabell:
+
+|  |  |
+| --- | --- |
+| Beskrivelse | Dimensjon |
+| Utvendig diameter | 178 millimeter |
+| Innvendig diameter | 64 millimeter |
+| Diameter av sirkel for boltehull | 132 millimeter |
+| Hull i flens | 4 hull 19 millimeter i diameter plassert med lik innbyrdes avstand på en boltehullsirkel med diameter som nevnt ovenfor og skåret ut til ytterkant av flensen |
+| Flenstykkelse | 14,5 millimeter (minimum) |
+| Bolter og muttere | 4 stykker, hver med diameter 16 millimeter og lengde 50 millimeter |
 
 (3) Denne forbindelsen skal være framstilt av materiale tilpasset et arbeidstrykk på 10 bar.
 
@@ -1227,6 +1339,8 @@ Der det i denne del er foreskrevet spesielle typer utstyr, apparater, slokningsm
 
 (8) Når sjakter eller kanaler betjener rom på begge sider av skott eller dekk av klasse A, skal det være montert spjeld for å hindre at brann og røyk sprer seg mellom rommene. Manuelle spjeld skal kunne betjenes fra begge sider av skottet eller dekket. Når sjakter eller kanaler med fritt tverrsnittareal på mer enn 0,02 kvadratmeter er ført gjennom skott eller dekk av klasse A, skal det være montert selvlukkende spjeld. Sjakter som betjener rom som bare ligger på én side av slike skott, skal være i overensstemmelse med [§ 5-9](forskrift/2000-06-13-660/§5-9) første ledd nr. 2.
 
+1 Se [§ 11-5](forskrift/2000-06-13-660/§11-5).
+
 ### § 5-30. Varmeanlegg
 
 Bestemmelsen i [§ 5-10](forskrift/2000-06-13-660/§5-10) gjelder tilsvarende.
@@ -1253,6 +1367,8 @@ Bestemmelsen i [§ 5-10](forskrift/2000-06-13-660/§5-10) gjelder tilsvarende.
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se definisjoner i [§ 5-2](forskrift/2000-06-13-660/§5-2) niende ledd.
+
 ### § 5-32. Lagring av gassflasker og farlige stoffer
 
 Bestemmelsen i [§ 5-12](forskrift/2000-06-13-660/§5-12) gjelder tilsvarende.
@@ -1266,6 +1382,8 @@ Bestemmelsen i [§ 5-12](forskrift/2000-06-13-660/§5-12) gjelder tilsvarende.
 (3) Heiser skal ikke anses som en av de påbudte nødutganger.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se [§ 11-3](forskrift/2000-06-13-660/§11-3) annet ledd.
 
 ### § 5-34. Automatisk brannoppdagelses- og brannalarmanlegg
 
@@ -1369,6 +1487,8 @@ Frityrkokere som er installert i innelukkede rom eller på åpent dekk, skal væ
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se definisjoner i [§ 5-2](forskrift/2000-06-13-660/§5-2) ellevte og tolvte ledd.
+
 ### § 5-41. Røykdykkerutstyr
 
 På fartøy med lengde (L) på 45 meter eller mer skal det være to sett røykdykkerutstyr i henhold til kravene i [§ 5-24](forskrift/2000-06-13-660/§5-24).
@@ -1393,33 +1513,35 @@ Bestemmelsen i [§ 5-27](forskrift/2000-06-13-660/§5-27) gjelder tilsvarende.
 
 ### § 5-45. Konstruksjonsmessig brannsikring
 
-1. I tilfeller hvor ståldekk eller stålskott i oppholdsrom danner topp eller side i en brennoljetank, skal disse isoleres med et ikke brennbart materiale av minst 40 millimeter tykkelse. I oppholdsrom må det ikke anbringes mannhull eller andre åpninger for brennoljetanker.
+1\. I tilfeller hvor ståldekk eller stålskott i oppholdsrom danner topp eller side i en brennoljetank, skal disse isoleres med et ikke brennbart materiale av minst 40 millimeter tykkelse. I oppholdsrom må det ikke anbringes mannhull eller andre åpninger for brennoljetanker.
 
-2. Utvendige skott eller skipssider som avgrenser oppholdsrom, skal være isolert med minst 50 mm isoleringsmateriale av godkjent type. Skott mellom oppholdsrom og maskinrom eller lasterom, skal i stålskip være av stål. I skip bygget av andre materialer enn stål, skal nevnte skott minst tilfredsstille brannklasse B-15.
+2\. Utvendige skott eller skipssider som avgrenser oppholdsrom, skal være isolert med minst 50 mm isoleringsmateriale av godkjent type. Skott mellom oppholdsrom og maskinrom eller lasterom, skal i stålskip være av stål. I skip bygget av andre materialer enn stål, skal nevnte skott minst tilfredsstille brannklasse B-15.
 
-3. Hvor det finnes dør mellom oppholdsrom og maskinrom, skal denne være en selvlukkende gasstett ståldør. Det skal ikke være direkte adkomst mellom kontrollstasjon og maskinrom av kategori A.
+3\. Hvor det finnes dør mellom oppholdsrom og maskinrom, skal denne være en selvlukkende gasstett ståldør. Det skal ikke være direkte adkomst mellom kontrollstasjon og maskinrom av kategori A.
 
-4. Skott rundt arbeidsrom som grenser mot oppholdsrom skal minst være av brannklasse B-15.
+4\. Skott rundt arbeidsrom som grenser mot oppholdsrom skal minst være av brannklasse B-15.
 
-5. Overflater av skott og kledning under dekk skal i korridorer og trappeoppganger ha lav flammespredning og begrenset røykutvikling.
+5\. Overflater av skott og kledning under dekk skal i korridorer og trappeoppganger ha lav flammespredning og begrenset røykutvikling.
 
-6. Dører skal ha en brannmotstand tilsvarende skillene som de er montert i. Dører skal være testet i henhold til kravene som er nærmere angitt i vedlegg 2.
+6\. Dører skal ha en brannmotstand tilsvarende skillene som de er montert i. Dører skal være testet i henhold til kravene som er nærmere angitt i vedlegg 2.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 ### § 5-46. Ventilasjonssystemer
 
-1. Ventilasjonsåpninger i og under dører i skott som grenser mot en korridor kan tillates, dog skal slike åpninger ikke være tillatt i eller under dører til trappeinnhengning. Nevnte åpninger må bare anbringes i en dørs nederste halvdel og samlet areal av åpningen må ikke overstige 0,05 kvadratmeter. Eventuelle åpninger skal forsynes med rister av ikke brennbart materiale.
+1\. Ventilasjonsåpninger i og under dører i skott som grenser mot en korridor kan tillates, dog skal slike åpninger ikke være tillatt i eller under dører til trappeinnhengning. Nevnte åpninger må bare anbringes i en dørs nederste halvdel og samlet areal av åpningen må ikke overstige 0,05 kvadratmeter. Eventuelle åpninger skal forsynes med rister av ikke brennbart materiale.
 
-2. Ventilasjonskanaler til maskinrom av kategori A eller bysse skal normalt ikke føres gjennom oppholdsrom, arbeidsrom eller kontrollstasjon. Sjøfartsdirektoratet kan likevel i spesielle tilfelle akseptere nevnte arrangement når ventilasjonskanalene er av stål eller likeverdig materiale, og slik installert at inndelingenes brannsikkerhet opprettholdes.
+2\. Ventilasjonskanaler til maskinrom av kategori A eller bysse skal normalt ikke føres gjennom oppholdsrom, arbeidsrom eller kontrollstasjon. Sjøfartsdirektoratet kan likevel i spesielle tilfelle akseptere nevnte arrangement når ventilasjonskanalene er av stål eller likeverdig materiale, og slik installert at inndelingenes brannsikkerhet opprettholdes.
 
-3. Ventilasjonskanaler til oppholdsrom, arbeidsrom eller kontrollstasjon skal normalt ikke føres gjennom maskinrom av kategori A eller bysse. Sjøfartsdirektoratet kan likevel i spesielle tilfelle akseptere nevnte arrangement når ventilasjonskanalene er av stål eller likeverdig materiale, og slik installert at inndelingenes brannsikkerhet opprettholdes.
+3\. Ventilasjonskanaler til oppholdsrom, arbeidsrom eller kontrollstasjon skal normalt ikke føres gjennom maskinrom av kategori A eller bysse. Sjøfartsdirektoratet kan likevel i spesielle tilfelle akseptere nevnte arrangement når ventilasjonskanalene er av stål eller likeverdig materiale, og slik installert at inndelingenes brannsikkerhet opprettholdes.
 
-4. Ventilasjonssystemer for maskinrom skal være uavhengig av andre ventilasjonssystemer. Alle dører, ventilatorer, mellomrom mellom røykrør og skorstein samt andre åpninger til maskinrom skal kunne lukkes fra utsiden.
+4\. Ventilasjonssystemer for maskinrom skal være uavhengig av andre ventilasjonssystemer. Alle dører, ventilatorer, mellomrom mellom røykrør og skorstein samt andre åpninger til maskinrom skal kunne lukkes fra utsiden.
 
-5. Ventilasjonsvifter for maskinrom og oppholdsrom skal kunne stanses fra utsiden av de rom som viftene ventilerer. Hovedinntak- og utløp fra ventilasjonssystemer skal kunne lukkes fra et sikkert sted.
+5\. Ventilasjonsvifter for maskinrom og oppholdsrom skal kunne stanses fra utsiden av de rom som viftene ventilerer. Hovedinntak- og utløp fra ventilasjonssystemer skal kunne lukkes fra et sikkert sted.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter).
+
+1 Se [§ 11-5](forskrift/2000-06-13-660/§11-5).
 
 ### § 5-47. Varmeanlegg
 
@@ -1429,19 +1551,19 @@ Bestemmelsen i [§ 5-10](forskrift/2000-06-13-660/§5-10) gjelder tilsvarende.
 
 ### § 5-48. Overflatematerialer, rørledninger mv.
 
-1. Alle ubeskyttede overflater av glassfiberarmert plastkonstruksjon i oppholdsrom, arbeidsrom, kontrollstasjon, maskinrom av kategori A og andre maskinrom med tilsvarende brannrisiko skal ha et avsluttende lag av godkjent polyester med brannhemmende egenskaper, og skal påføres en godkjent brannhemmende maling eller være beskyttet av ikke-brennbare materialer. Slike overflater skal testes i henhold til kravene som nærmere angitt i vedlegg 2.
+1\. Alle ubeskyttede overflater av glassfiberarmert plastkonstruksjon i oppholdsrom, arbeidsrom, kontrollstasjon, maskinrom av kategori A og andre maskinrom med tilsvarende brannrisiko skal ha et avsluttende lag av godkjent polyester med brannhemmende egenskaper, og skal påføres en godkjent brannhemmende maling eller være beskyttet av ikke-brennbare materialer. Slike overflater skal testes i henhold til kravene som nærmere angitt i vedlegg 2.
 
-2. Maling, lakk og andre materialer som benyttes på ubeskyttede innvendige overflater skal ikke utvikle store mengder røyk eller giftige gasser. Det skal godtgjøres overfor Sjøfartsdirektoratet at de ikke utgjør en urimelig stor brannfare. Det skal utføres tester i henhold til kravene som nærmere angitt i vedlegg 2.
+2\. Maling, lakk og andre materialer som benyttes på ubeskyttede innvendige overflater skal ikke utvikle store mengder røyk eller giftige gasser. Det skal godtgjøres overfor Sjøfartsdirektoratet at de ikke utgjør en urimelig stor brannfare. Det skal utføres tester i henhold til kravene som nærmere angitt i vedlegg 2.
 
-3. Underlag for dekksbelegg i oppholds- og arbeidsrom samt kontrollstasjon skal være av godkjent materiale.
+3\. Underlag for dekksbelegg i oppholds- og arbeidsrom samt kontrollstasjon skal være av godkjent materiale.
 
-4. Sjøvannsledninger, lenseledninger, rør som fører olje, og andre rørledninger nødvendige for skipets sikkerhet skal være av ubrennbart materiale. Korte fleksible rørforbindelser kan godtas på sjøvannsledninger når disse forbindelser er av et materiale som ikke lett gjøres ubrukbart av varme, for eksempel slanger av varmebestandig gummi med stålinnlegg. Fleksible rørforbindelser kan tillates for rør som fører olje, men forbindelsenes lengde skal strengt tilpasses nødvendig behov for å ta opp vibrasjoner. Forbindelsene skal være oljebestandige, armerte og av materiale som ikke lett gjøres ubrukbart av varme. Materialer som lett gjøres ubrukbare av varme tillates ikke benyttet til spygatt, sanitære avløp eller andre avløp nær vannlinjen, hvor svikt i materialet i tilfelle brann kan forårsake innstrømning av vann.
+4\. Sjøvannsledninger, lenseledninger, rør som fører olje, og andre rørledninger nødvendige for skipets sikkerhet skal være av ubrennbart materiale. Korte fleksible rørforbindelser kan godtas på sjøvannsledninger når disse forbindelser er av et materiale som ikke lett gjøres ubrukbart av varme, for eksempel slanger av varmebestandig gummi med stålinnlegg. Fleksible rørforbindelser kan tillates for rør som fører olje, men forbindelsenes lengde skal strengt tilpasses nødvendig behov for å ta opp vibrasjoner. Forbindelsene skal være oljebestandige, armerte og av materiale som ikke lett gjøres ubrukbart av varme. Materialer som lett gjøres ubrukbare av varme tillates ikke benyttet til spygatt, sanitære avløp eller andre avløp nær vannlinjen, hvor svikt i materialet i tilfelle brann kan forårsake innstrømning av vann.
 
-5. Alle avfallsbeholdere, bortsett fra dem som benyttes i forbindelse med behandling av fisk, skal være utført av ikke-brennbart materiale uten åpninger i side eller bunn.
+5\. Alle avfallsbeholdere, bortsett fra dem som benyttes i forbindelse med behandling av fisk, skal være utført av ikke-brennbart materiale uten åpninger i side eller bunn.
 
-6. Alle brennoljepumper skal kunne stanses fra et sted utenfor det rom hvor pumpene er anbrakt.
+6\. Alle brennoljepumper skal kunne stanses fra et sted utenfor det rom hvor pumpene er anbrakt.
 
-7. Brennoljeledninger fra lagrings-, bunnfellings- eller dagtanker som er plassert over dobbeltbunn skal være forsynt med en ventil anbrakt på tanken. Ventilen skal kunne stenges fra utsiden av det rom hvor tankene er anbrakt. Hvor dyptanker grenser til aksel- eller rørtunnel, skal ventil anbringes på tankene. Dessuten skal rørledningen utenfor tunnelen forsynes med en ekstra ventil.
+7\. Brennoljeledninger fra lagrings-, bunnfellings- eller dagtanker som er plassert over dobbeltbunn skal være forsynt med en ventil anbrakt på tanken. Ventilen skal kunne stenges fra utsiden av det rom hvor tankene er anbrakt. Hvor dyptanker grenser til aksel- eller rørtunnel, skal ventil anbringes på tankene. Dessuten skal rørledningen utenfor tunnelen forsynes med en ekstra ventil.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
@@ -1453,59 +1575,63 @@ Bestemmelsen i [§ 5-12](forskrift/2000-06-13-660/§5-12) gjelder tilsvarende.
 
 ### § 5-50. Nødutganger
 
-1. Trapper og leidere til og fra oppholdsrom samt i rom der besetningen vanligvis arbeider, unntatt maskinrom, skal være slik arrangert at de kan tjene som raske nødutganger til åpent dekk og derfra til redningsfarkostene.
+1\. Trapper og leidere til og fra oppholdsrom samt i rom der besetningen vanligvis arbeider, unntatt maskinrom, skal være slik arrangert at de kan tjene som raske nødutganger til åpent dekk og derfra til redningsfarkostene.
 
-2. På alle dekk i innredningen skal det være minst to atskilte nødutganger, hvorav den ene kan være den normale utgangen fra hvert begrenset rom eller gruppe av rom.
+2\. På alle dekk i innredningen skal det være minst to atskilte nødutganger, hvorav den ene kan være den normale utgangen fra hvert begrenset rom eller gruppe av rom.
 
-3. Under værdekket skal hovedutgangen være en trapp, og den andre utgangen kan være en sjakt eller trapp. Over værdekk skal utgangene være trapper eller dører til åpent dekk eller en kombinasjon av disse.
+3\. Under værdekket skal hovedutgangen være en trapp, og den andre utgangen kan være en sjakt eller trapp. Over værdekk skal utgangene være trapper eller dører til åpent dekk eller en kombinasjon av disse.
 
-4. Én nødutgang kan tillates, idet det tas rimelig hensyn til rommenes beskaffenhet og plassering og til antall personer som normalt er innkvartert eller arbeider der.
+4\. Én nødutgang kan tillates, idet det tas rimelig hensyn til rommenes beskaffenhet og plassering og til antall personer som normalt er innkvartert eller arbeider der.
 
-5. Korridor eller del av korridor med bare én fluktvei skal fortrinnsvis ikke være over 2,5 meter og ikke i noe tilfelle over fem meter lang.Nødutgangenes bredde skal være minst 700 millimeter. På fartøy bygd etter 1. januar 2003 skal gang, trapp, dør eller annen åpning som er del av nødutgang ha fri bredde på minst 700 millimeter.
+5\. Korridor eller del av korridor med bare én fluktvei skal fortrinnsvis ikke være over 2,5 meter og ikke i noe tilfelle over fem meter lang.Nødutgangenes bredde skal være minst 700 millimeter. På fartøy bygd etter 1. januar 2003 skal gang, trapp, dør eller annen åpning som er del av nødutgang ha fri bredde på minst 700 millimeter.
 
-7. Heiser skal ikke anses som en av de påbudte nødutganger.
+7\. Heiser skal ikke anses som en av de påbudte nødutganger.
 
-8. I styrehus med dør i kun én side skal minst ett av vinduene på motsatt side av døren kunne benyttes som nødutgang. Der døren er plassert i, eller nær senter, kreves det ikke andre nødutganger direkte til dekk fra styrehus.
+8\. I styrehus med dør i kun én side skal minst ett av vinduene på motsatt side av døren kunne benyttes som nødutgang. Der døren er plassert i, eller nær senter, kreves det ikke andre nødutganger direkte til dekk fra styrehus.
 
-9. For fartøy bygget etter 1. januar 2009 skal nødutgangsluker ha fri åpning på 700 × 700 millimeter.
+9\. For fartøy bygget etter 1. januar 2009 skal nødutgangsluker ha fri åpning på 700 × 700 millimeter.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 11-3](forskrift/2000-06-13-660/§11-3) annet ledd.
+
 ### § 5-51. Automatisk brannoppdagelses- og brannalarmanlegg
 
-1. Uavhengig av om maskinrommet er bemannet eller periodevis ubemannet skal det i maskinrom av kategori A installeres et automatisk brannoppdagelses- og brannalarmanlegg. Det skal installeres et tilstrekkelig antall branndetektorer i forhold til rommets størrelse, dog minst én røykdetektor og én varmedetektor.1
+1\. Uavhengig av om maskinrommet er bemannet eller periodevis ubemannet skal det i maskinrom av kategori A installeres et automatisk brannoppdagelses- og brannalarmanlegg. Det skal installeres et tilstrekkelig antall branndetektorer i forhold til rommets størrelse, dog minst én røykdetektor og én varmedetektor.1
 
-2. Fartøy som utføres i en brennbar konstruksjon eller hvor det benyttes store mengder brennbart materiale til innredning av oppholds-, arbeids- og kontrollrom, skal ha installert et automatisk branndeteksjonsanlegg i slike rom. Ved installasjonen skal det tas hensyn til rommenes størrelse, utforming og beliggenhet i forhold til kontrollrom, samt hvor det er relevant, møblenes flammespredende egenskaper.
+2\. Fartøy som utføres i en brennbar konstruksjon eller hvor det benyttes store mengder brennbart materiale til innredning av oppholds-, arbeids- og kontrollrom, skal ha installert et automatisk branndeteksjonsanlegg i slike rom. Ved installasjonen skal det tas hensyn til rommenes størrelse, utforming og beliggenhet i forhold til kontrollrom, samt hvor det er relevant, møblenes flammespredende egenskaper.
 
-3. Dersom det i maskinrom installeres fem eller flere detektorer eller det i innredning installeres flere enn ti detektorer, forutsettes detektorene å bli fordelt med én sløyfe for maskinrom og én sløyfe for innredning.
+3\. Dersom det i maskinrom installeres fem eller flere detektorer eller det i innredning installeres flere enn ti detektorer, forutsettes detektorene å bli fordelt med én sløyfe for maskinrom og én sløyfe for innredning.
 
-4. Det skal installeres akustiske alarmorgan i nødvendig antall og minst ett for hvert dekk slik at alarm kan høres over hele fartøyet.
+4\. Det skal installeres akustiske alarmorgan i nødvendig antall og minst ett for hvert dekk slik at alarm kan høres over hele fartøyet.
 
-5. I tilfeller hvor høyt støynivå om bord tilsier at bruk av hørselsvern vanskeliggjør oppfattelse av akustisk brannalarm, skal det installeres visuell brannalarm.
+5\. I tilfeller hvor høyt støynivå om bord tilsier at bruk av hørselsvern vanskeliggjør oppfattelse av akustisk brannalarm, skal det installeres visuell brannalarm.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter).
 
+1 Se [§ 4-19](forskrift/2000-06-13-660/§4-19).
+
 ### § 5-52. Brannpumper
 
-1. Fartøy skal være forsynt med minst én maskindreven brannpumpe.
+1\. Fartøy skal være forsynt med minst én maskindreven brannpumpe.
 
-2. Sanitær-, ballast-, lense- og alminnelige servicepumper kan benyttes som brannpumpe dersom de oppfyller kravene i dette kapittel, forutsatt at muligheten for lensing opprettholdes. Brannpumper skal være slik koplet at de ikke kan brukes til å pumpe olje eller andre brennbare væsker.
+2\. Sanitær-, ballast-, lense- og alminnelige servicepumper kan benyttes som brannpumpe dersom de oppfyller kravene i dette kapittel, forutsatt at muligheten for lensing opprettholdes. Brannpumper skal være slik koplet at de ikke kan brukes til å pumpe olje eller andre brennbare væsker.
 
-3. Sentrifugalpumper eller andre pumper tilkoplet brannledningen hvor tilbakestrømning kan forekomme, skal være utstyrt med tilbakeslagsventil.
+3\. Sentrifugalpumper eller andre pumper tilkoplet brannledningen hvor tilbakestrømning kan forekomme, skal være utstyrt med tilbakeslagsventil.
 
-4. Maskindrevne brannpumper skal ha en totalkapasitet (Q) på minst:Q = (0,15 √L (B + D) + 2,25)2 m3 /hhvor L, B og D er angitt i meter.
+4\. Maskindrevne brannpumper skal ha en totalkapasitet (Q) på minst:Q = (0,15 √L (B + D) + 2,25)2 m3 /hhvor L, B og D er angitt i meter.
 
-5. Når brannpumpen leverer den vannmengde som er påbudt i henhold til fjerde ledd, gjennom brannledninger, brannslanger og strålerør, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/mm2 . Ingen brannpumpe skal ha mindre kapasitet enn 16 m3/time.
+5\. Når brannpumpen leverer den vannmengde som er påbudt i henhold til fjerde ledd, gjennom brannledninger, brannslanger og strålerør, skal trykket ved enhver hydrant kunne holdes på minst 0,25 N/mm2 . Ingen brannpumpe skal ha mindre kapasitet enn 16 m3/time.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 ### § 5-53. Brannledninger
 
-1. Fartøyet skal være forsynt med brannledninger slik at det kan sikres en effektiv fordeling av den foreskrevne vannmengde.
+1\. Fartøyet skal være forsynt med brannledninger slik at det kan sikres en effektiv fordeling av den foreskrevne vannmengde.
 
-2. Materialer som anvendes til brannledninger skal være ubrennbare og motstandsdyktige mot varme.
+2\. Materialer som anvendes til brannledninger skal være ubrennbare og motstandsdyktige mot varme.
 
-3. Når en brannpumpes leveringstrykk kan overstige brannledningens tiltenkte arbeidstrykk, skal sikkerhetsventiler være montert. Når brannledninger ikke er selvdrenerende, skal de være utstyrt med egnede dreneringskraner der frostskader kan forventes å oppstå.
+3\. Når en brannpumpes leveringstrykk kan overstige brannledningens tiltenkte arbeidstrykk, skal sikkerhetsventiler være montert. Når brannledninger ikke er selvdrenerende, skal de være utstyrt med egnede dreneringskraner der frostskader kan forventes å oppstå.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter).
 
@@ -1525,17 +1651,17 @@ Bestemmelsen i [§ 5-37](forskrift/2000-06-13-660/§5-37) gjelder tilsvarende.
 
 ### § 5-56. Bærbare brannslokningsapparater i kontrollstasjoner, oppholdsrom og arbeidsrom
 
-1. Minst tre godkjente, bærbare brannslokningsapparater skal være anbrakt i kontrollstasjoner, oppholdsrom og arbeidsrom.
+1\. Minst tre godkjente, bærbare brannslokningsapparater skal være anbrakt i kontrollstasjoner, oppholdsrom og arbeidsrom.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret [30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003).
 
 ### § 5-57. Brannslokningsutstyr i maskinrom
 
-1. Maskinrom av kategori A skal være utstyrt med én av følgende typer godkjente faste brannslokningsanlegg:et vannforstøvningsanlegg i henhold til kravene som nærmere angitt i vedlegg 2.et brannslokkende gassanlegg i henhold til kravene som nærmere angitt i vedlegg 2.et anlegg med høyekspanderende skum i henhold til kravene som nærmere angitt i vedlegg 2.
+1\. Maskinrom av kategori A skal være utstyrt med én av følgende typer godkjente faste brannslokningsanlegg:et vannforstøvningsanlegg i henhold til kravene som nærmere angitt i vedlegg 2.et brannslokkende gassanlegg i henhold til kravene som nærmere angitt i vedlegg 2.et anlegg med høyekspanderende skum i henhold til kravene som nærmere angitt i vedlegg 2.
 
-2. Installasjoner som nevnt i første ledd skal kunne betjenes fra et lett tilgjengelig sted utenfor maskinrom som sannsynligvis ikke blir avskåret ved brann i det beskyttede rom. Det skal treffes tiltak for å sikre tilstrekkelig energi og vann til drift av slokningsanlegget i tilfelle av brann i det beskyttede rom.
+2\. Installasjoner som nevnt i første ledd skal kunne betjenes fra et lett tilgjengelig sted utenfor maskinrom som sannsynligvis ikke blir avskåret ved brann i det beskyttede rom. Det skal treffes tiltak for å sikre tilstrekkelig energi og vann til drift av slokningsanlegget i tilfelle av brann i det beskyttede rom.
 
-3. I tillegg til fast installert brannslokningsanlegg i henhold til første ledd skal det i maskinrom av kategori A finnes minst to bærbare brannslokningsapparater som særlig egner seg til slokning av oljebranner. Ett av apparatene skal anbringes nær inngangen til maskinrommet.
+3\. I tillegg til fast installert brannslokningsanlegg i henhold til første ledd skal det i maskinrom av kategori A finnes minst to bærbare brannslokningsapparater som særlig egner seg til slokning av oljebranner. Ett av apparatene skal anbringes nær inngangen til maskinrommet.
 
 > Tilføyd ved [forskrift 20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
@@ -1587,6 +1713,8 @@ Dette kapittel gjelder for nye og eksisterende fartøy med største lengde på 1
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se bestemmelsene i [§ 2-2](forskrift/2000-06-13-660/§2-2) og [§ 2-4](forskrift/2000-06-13-660/§2-4).2 Se bestemmelsen i [§ 2-16](forskrift/2000-06-13-660/§2-16), jf. [§ 2-3](forskrift/2000-06-13-660/§2-3).
+
 ### § 6-3. Åpninger i dekk
 
 (1) Hengslede deksler på lukeåpninger, mannhull og andre åpninger skal være sikret mot utilsiktet lukning. Spesielt skal tunge deksler på nødutgangsluker være utstyrt med motvekt og laget slik at de kan åpnes fra begge sider av dekslet.
@@ -1606,6 +1734,8 @@ Dette kapittel gjelder for nye og eksisterende fartøy med største lengde på 1
 (4) Det skal være anordnet tilfredsstillende midler slik som holdetau, håndrekker, gangbroer eller passasjer under dekk til beskyttelse når besetningen skal bevege seg mellom oppholdsrom, maskinrom og andre arbeidsrom. Rekkverk eller annet tilsvarende utstyr skal anordnes i den utstrekning som er nødvendig, på utsiden av alle dekkshus og casinger for å sikre besetningen ved passasje eller under arbeid (Rdir. [1993/103/EØF](eu/31993l0103)).
 
 (5) Diverse sikkerhetsforhold (Rdir. [1993/103/EØF](eu/31993l0103))Porten eller stengselet foran trålslippen skal bare holdes åpen under setting og haling av trål og skal ikke hindre drenering av dekk.2Det skal tas forholdsregler for å stabilisere innhalt fangst mv. Dette gjelder spesieltanordning for feste av tråldører, oganordninger som hindrer fangstposen å svinge ut.
+
+1 Se [§ 3-13](forskrift/2000-06-13-660/§3-13).2 Se bestemmelsen i [§ 2-20](forskrift/2000-06-13-660/§2-20) fjerde ledd.
 
 ### § 6-5. Trappeoppganger og leidere
 
@@ -1659,6 +1789,8 @@ For besetningens sikkerhet skal det anordnes trappeoppganger og leidere av tilst
 
 (3) Om vannfylling gjennom luker i sidekledning til dekk skulle inntreffe, eller det av andre årsaker skulle oppstå krengning (slagside) som medfører at lenseklaffene kommer under vann, skal lenseklaffene stenges umiddelbart og lensepumper igangsettes for drenering av eventuelt overvann på dekk.
 
+1 Se [§ 2-3](forskrift/2000-06-13-660/§2-3), § 3-16 og [§ 4-11](forskrift/2000-06-13-660/§4-11).
+
 ### § 6-10. Dekkslast
 
 (1) Vekt og plassering av dekkslast skal være i henhold til det som fremgår av godkjente stabilitetsberegninger og -instrukser.
@@ -1671,6 +1803,8 @@ For besetningens sikkerhet skal det anordnes trappeoppganger og leidere av tilst
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 3-10](forskrift/2000-06-13-660/§3-10).
+
 ### § 6-11. Nedlasting, drenering av åpent dekk
 
 (1) Fartøy skal lastes slik at de får et forsvarlig fribord under de forskjellige forhold, konstruksjon, stabilitet, farvann og årstid tatt i betraktning, og slik at sjødyktigheten ikke bringes i fare. Det tillatte fribord i henhold til lastemerker påført fartøyets sider, skal alltid overholdes. Under ingen omstendigheter skal fartøyet lastes slik at trim, negativt spring e.l. medfører at noen del av utsatt arbeidsdekk kommer under vannflaten i saltvann.
@@ -1678,6 +1812,8 @@ For besetningens sikkerhet skal det anordnes trappeoppganger og leidere av tilst
 (2) Fra åpent dekk skal det være fritt avløp for vann gjennom lenseportåpninger2 eller spalte med areal i henhold til denne forskrift, eventuelt gjennom åpent rekkverk. Lemmer i lenseporter skal ikke kiles fast eller stenges på annen måte, men holdes åpne og i god stand slik at sjøen kan få fritt avløp over bord. Fiskebinger, fiskebruk eller annet utstyr skal heller ikke anbringes slik at det hindrer avløp over bord.
 
 > Endret ved [forskrift 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009).
+
+1 Se [§ 2-17](forskrift/2000-06-13-660/§2-17).2 Se [§ 2-14](forskrift/2000-06-13-660/§2-14) og [§ 2-16](forskrift/2000-06-13-660/§2-16).
 
 ### § 6-12. Stabilitet
 
@@ -1803,6 +1939,8 @@ Under sveising eller ved annet arbeid hvor arbeidstøy blir utsatt for intens va
 
 > Endret ved forskrifter [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
+1 Se definisjoner i [§ 1-2](forskrift/2000-06-13-660/§1-2).
+
 ### § 7-3. Vurdering, prøving og godkjenning av redningsredskaper og -arrangementer
 
 (1) Med de unntak som fremkommer i fjerde ledd, skal redningsredskaper og -arrangementer som dette kapittelet foreskriver, være typegodkjent, godkjent eller akseptert av Sjøfartsdirektoratet.1
@@ -1814,6 +1952,8 @@ Under sveising eller ved annet arbeid hvor arbeidstøy blir utsatt for intens va
 (4) Redningsredskaper som kreves i dette kapittelet, men som ikke er nærmere spesifisert i [del C](forskrift/2000-06-13-660/kapc), skal være i samsvar med kravene som nærmere angitt i vedlegg 2.
 
 > Endret ved [forskrifter 30 des 2002 nr. 1847](forskrift/2002-12-30-1847) (i kraft 1 jan 2003), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se definisjon i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 19.
 
 ### § 7-4. Produksjonsprøver
 
@@ -1840,6 +1980,8 @@ Redningsredskaper skal gjennomgå de produksjonsprøver som er nødvendige for �
 (8) Fiskefartøy med lengde (L) 24 meter eller mer som ble bygd eller omfattende ombygd før 1. juli 2000 kan ha redningsfarkoster og MOB-båter i henhold til vedlegg 4. Dette gjelder også fiskefartøy med lengde (L) under 24 meter som ble bygd eller omfattende ombygd før 1. april 2001.
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Se definisjoner i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 43.
 
 ### § 7-6. Tilgjengelighet og anbringelse av redningsfarkoster og MOB-båter
 
@@ -1874,6 +2016,8 @@ Det skal treffes tilfredsstillende tiltak for innskipning i redningsfarkostene, 
 (4) For fartøy med lengde (L) under 45 meter som opererer i sørlige farvann2 er det tilstrekkelig med to redningsdrakter. Slike drakter skal tilfredsstille [§ 7-25](forskrift/2000-06-13-660/§7-25) femte ledd.
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Delvis særkrav for norske fartøy.2 Jf. definisjonen i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 43.
 
 ### § 7-10. Livbøyer
 
@@ -1917,6 +2061,8 @@ Fartøy med lengde (L) på 24 meter eller mer skal ha om bord et linekastende ap
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
+1 Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med lengde (L) på 24 meter og derover men under 45 meter (L) vil endringene tre i kraft 1. januar 2004. For eksisterende fartøy med største lengde på 15 meter og derover men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.2 Se [§ 7-1](forskrift/2000-06-13-660/§7-1) annet ledd.
+
 ### § 7-14. Lokaliseringsinnretninger til søk- og redningsarbeid (SART)
 
 (1) Fartøy med lengde (L) på 24 meter eller mer. Hver redningsfarkost og MOB-båt skal være permanent utstyrt med en SART2, 4.
@@ -1924,6 +2070,8 @@ Fartøy med lengde (L) på 24 meter eller mer skal ha om bord et linekastende ap
 (2) Følgende gjelder for fartøy med lengde (L) under 24 meter4:Fartøy med sertifikat for fartsområde kystfiske eller bankfiske I skal være utstyrt med én SART, arrangert slik at den raskt kan plasseres i en redningsfarkost.Fartøy med sertifikat for fartsområde bankfiske II eller større skal være utstyrt med én SART på hver side av fartøyet, arrangert slik at de raskt kan plasseres i en redningsfarkost. En SART kan erstattes med en manuell satellittbasert nødradiopeilesender (EPIRB)3. Alternativt kan det være anordnet en SART i hver redningsfarkost.
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Se § 7-1 annet ledd.2 Delvis særkrav for norske fartøy.3 Se § 9-6 annet ledd.4 Endret ved [forskrift 27. september 2002 nr. 1087](forskrift/2002-09-27-1087). For eksisterende fartøy med lengde (L) på 24 meter eller mer, men under 45 meter (L) vil endringene tre i kraft 1. januar 2004. For eksisterende fartøy med største lengde på 15 meter eller mer, men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.
 
 ### § 7-15. Lysreflekterende utstyr på redningsredskaper
 
@@ -1952,6 +2100,8 @@ Alle redningsfarkoster, mann-over-bord-båter, redningsvester, redningsdrakter o
 (9) Når arten av fiskevirksomheten gjør det vanskelig å oppfylle kravene i syvende og åttende ledd, kan Sjøfartsdirektoratet i spesielle tilfeller gi adgang til å utvide perioden mellom ettersynene til 24 måneder, forutsatt at Sjøfartsdirektoratet finner det godtgjort at det aktuelle utstyret er fremstilt og anbrakt på en slik måte at det holder en tilfredsstillende standard til neste ettersyn.
 
 > Endret ved forskrifter [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Jf. [forskrift av 15. september 1992 nr. 693](forskrift/1992-09-15-693) om innretning og føring av dagbøker på skip [§ 10](forskrift/1992-09-15-693/§10).2 Jf. [§ 12-3](forskrift/2000-06-13-660/§12-3) annet ledd.
 
 ### Del C – Bestemmelser for redningsredskaper
 
@@ -2097,6 +2247,8 @@ Alle redningsfarkoster, mann-over-bord-båter, redningsvester, redningsdrakter o
 
 > Endret ved [forskrift 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009).
 
+1 Se [§ 7-9](forskrift/2000-06-13-660/§7-9).2 Delvis særkrav for norske fartøy.3 Særkrav for norske fartøy.4 Jf. definisjonen i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 43. Se for øvrig [§ 7-9](forskrift/2000-06-13-660/§7-9) fjerde ledd.
+
 ### § 7-26. Termisk beskyttelsesutstyr
 
 (1) Et termisk beskyttelsesutstyr skal være laget av et vanntett materiale som har en varmeledningsevne på ikke mer enn 0,25 Watt/meter-Kelvin og skal være laget slik at når det brukes til å dekke en person, skal det redusere både varmetapet gjennom konveksjon og varmetapet gjennom fordampning fra kroppen til vedkommende person.
@@ -2106,6 +2258,8 @@ Alle redningsfarkoster, mann-over-bord-båter, redningsvester, redningsdrakter o
 (3) Redningsdraktens termiske isolasjon skal virke på riktig måte innenfor et temperaturområde fra -30 til +20 grader C.
 
 > Endret ved forskrifter [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Se [§ 7-17](forskrift/2000-06-13-660/§7-17) åttende ledd nr. 31 og [§ 7-20](forskrift/2000-06-13-660/§7-20) femte ledd bokstav x.
 
 ### § 7-27. Livbøyer
 
@@ -2204,6 +2358,8 @@ Reglene i dette kapittelet skal gjelde for nye og eksisterende fartøy med stør
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
+1 Jf. [forskrift av 15. september 1992 nr. 693](forskrift/1992-09-15-693) om innretning og føring av dagbøker mv. på skip [§ 10](forskrift/1992-09-15-693/§10).
+
 ### § 8-4. Opplæring i fremgangsmåte ved nødssituasjoner
 
 Skipsføreren og rederiet skal forsikre seg om at besetningen har gjennomgått sikkerhetsopplæring for fiskere, i henhold til [forskrift av 10. februar 1989 nr. 88 om sikkerhetsopplæring for fiskere](forskrift/1989-02-10-88). Skipsføreren og rederiet skal også forsikre seg om at besetningen får forsvarlig opplæring om bord om de plikter som påhviler den enkelte i tilfelle en nødssituasjon, jf. § 8-3.
@@ -2222,6 +2378,8 @@ Skipsføreren og rederiet skal forsikre seg om at besetningen har gjennomgått s
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med lengde (L) på 24 meter og derover men under 45 meter (L) vil endringene tre i kraft 1. januar 2004. For eksisterende fartøy med største lengde på 15 meter og derover men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.
+
 ### § 9-2. Uttrykk og definisjoner
 
 (1) I dette kapittel betyr:*Bro-til-bro-kommunikasjon:* Sikkerhetskommunikasjon mellom fartøyer fra den plass fartøyene vanligvis navigeres fra.*Kontinuerlig vakt:* Den aktuelle radiovakten skal ikke avbrytes, med unntak av korte perioder når fartøyets mottakingskapasitet er forringet eller blokkert av egen kommunikasjon, eller når utstyret gjennomgår periodisk vedlikehold eller kontroll.*Digitalt selektivt oppkall (DSC):* En teknikk som benytter digitale koder som gjør det mulig for en radiostasjon å opprette kontakt med, og overføre informasjon til, en annen stasjon eller stasjonsgrupper, og som tilfredsstiller de relevante anbefalingene fra den Internasjonale teleunionens radiokommunikasjonssektor (ITU Radiocommunication Sector (ITU-R)).*Radioteleks:* Automatisert telegrafiteknikk som oppfyller de aktuelle anbefalingene til ITU.*Alminnelig radiokommunikasjon:* Driftsmessig og offentlig radiokorrespondanse som ikke er nød-, haste- og sikkerhetsmeldinger formidlet ved hjelp av radio.*Inmarsat:* Den organisasjonen som ble opprettet av Konvensjonen om den internasjonale maritime satellittorganisasjon som ble vedtatt den 3. september 1976.*Internasjonal NAVTEX-tjeneste:* Koordinert kringkasting og automatisk mottak av maritim sikkerhetsinformasjon på 518 kHz ved hjelp av radioteleks på engelsk.*Lokalisering:* Å finne skip, fartøyer, luftfartøy, enheter eller personer i nød.*Maritim sikkerhetsinformasjon:* Navigasjons- og værvarsler, værmeldinger og andre sikkerhetsrelaterte meldinger som kringkastes til fartøyer.*Polarbanesatellittjenesten:* Tjeneste som er basert på polarbanesatellitter som mottar og videresender nødalarmer fra satellittnødradiopeilesendere og oppgir deres posisjon.*Radioreglementet (RR):* Det radioreglement som er tilknyttet eller anses tilknyttet til den sist vedtatte internasjonale telekommunikasjonskonvensjonen som til enhver tid er gjeldende.*Radiodekningsområde A1 (Sea area A1):* Et havområde innenfor radiotelefondekningen til minst én VHF-kystradiostasjon hvor kontinuerlig DSC-alarmering er tilgjengelig.*Radiodekningsområde A2 (Sea area A2):* Et havområde utenfor radiodekningsområde A1, men innenfor radiotelefondekningen til minst én MF-kyststasjon og hvor kontinuerlig DSC-alarmering er tilgjengelig.*Radiodekningsområde A3 (Sea area A3):* Et havområde utenfor radiodekningsområdene A1 og A2, men innenfor dekningsområdet til en Inmarsat geostasjonær satellitt hvor kontinuerlig alarmering er tilgjengelig.*Radiodekningsområde A4 (Sea area A4):* Et havområde utenfor radiodekningsområdene A1, A2 og A3.
@@ -2236,11 +2394,15 @@ Skipsføreren og rederiet skal forsikre seg om at besetningen har gjennomgått s
 
 (2) Fritak fra bestemmelsene i første ledd kan bare gisdersom forholdene som angår sikkerheten er slik at det anses urimelig eller unødvendig å følge [§ 9-6](forskrift/2000-06-13-660/§9-6) til [§ 9-10](forskrift/2000-06-13-660/§9-10) og [§ 9-14](forskrift/2000-06-13-660/§9-14) syvende ledd fullt ut, elleri særlige tilfelle, for en enkelt reise utenfor det området eller de områdene som fartøyet er utstyrt for, ellernår fartøyet skal tas permanent ut av tjeneste før 1. februar 2001.
 
+1 Se [§ 1-3](forskrift/2000-06-13-660/§1-3) og [§ 1-16](forskrift/2000-06-13-660/§1-16) annet ledd.
+
 ### § 9-4. Funksjonskrav
 
 I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av minst to atskilte og uavhengige hjelpemidler, hvor hvert av midlene bruker forskjellig radiokommunikasjonstjeneste, med mindre det er gjort unntak i henhold til [§ 9-7](forskrift/2000-06-13-660/§9-7) første ledd nr. 1 eller [§ 9-9](forskrift/2000-06-13-660/§9-9) første ledd nr. 4 bokstav c,motta land-til-skip nødalarm,sende og motta skip-til-skip nødalarm,sende og motta søk- og redningskoordinerende kommunikasjon,sende og motta på stedet-kommunikasjon,sende og, som foreskrevet i [§ 10-3](forskrift/2000-06-13-660/§10-3) tredje ledd (radar), motta signaler for lokalisering, når det har sertifikat for fartsområde kystfiske eller større eller har en lengde (L) på 24 meter eller mer,1sende og motta maritim sikkerhetsinformasjon,sende og motta alminnelig radiokommunikasjon til og fra landbaserte radiosystemer eller nettverk, i henhold til [§ 9-14](forskrift/2000-06-13-660/§9-14) åttende ledd,sende og motta bro-til-bro kommunikasjon.
 
 > Endret ved [forskrifter 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med lengde (L) på 24 meter og derover men under 45 meter (L) vil endringene tre i kraft 1. januar 2004.
 
 ### Del B – Bestemmelser for fartøyet
 
@@ -2260,6 +2422,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 
 > Endret ved [forskrifter 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Nødradiopeilesenderen skal plasseres slik at den ikke fanges av fartøyets skrog eller overbygning, i tilfelle fartøyet skulle synke.2 Bratt/loddrett montert leider anses ikke som tilfredsstillende tilgang i en nødsituasjon. Tilgangen må i tillegg være slik at det ikke er fare for liv og helse når nødradiopeilesenderen må slås på manuelt, eller bringes av én person til en redningsfarkost.3 Se også bestemmelsen i [§ 7-14](forskrift/2000-06-13-660/§7-14) tredje ledd nr. 2.4 Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med lengde (L) på 24 meter og derover men under 45 meter (L) vil endringene tre i kraft 1. januar 2004. For eksisterende fartøy med største lengde på 15 meter og derover men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.
+
 ### § 9-7. Radioutstyr – Radiodekningsområde A1
 
 (1) I tillegg til å oppfylle kravene i [§ 9-6](forskrift/2000-06-13-660/§9-6) skal ethvert fartøy som kun opererer i radiodekningsområde A1, være utstyrt med en radioinstallasjon som kan igangsette sending av skip-til-land nødalarm fra den plassen fartøyet vanligvis blir navigert fra, og som enten skal kunne opererepå VHF ved hjelp av DSC. Dette kravet kan oppfylles av den nødradiopeilesenderen som kreves i tredje ledd, enten ved å installere nødradiopeilesenderen like ved, eller fjernstyre den fra, den plassen fartøyet vanligvis blir navigert fra, ellervia polarbanesatellittjenesten på 406 MHz; dette kravet kan oppfylles av satelittnødradiopeilesenderen som kreves i [§ 9-6](forskrift/2000-06-13-660/§9-6) første ledd nr. 6, enten ved å installere satellittnødradiopeilesenderen like ved, eller fjernstyre den fra den plassen fartøyet vanligvis blir navigert fra, ellerpå MF ved hjelp av DSC, dersom fartøyet opererer i områder som dekkes av MF-kyststasjoner utstyrt med DSC, ellerpå HF ved hjelp av DSC, ellervia en Inmarsat skip-jord-stasjon
@@ -2274,6 +2438,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Tilføyd ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med største lengde på 15 meter og derover men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.
+
 ### § 9-8. Radioutstyr – Radiodekningsområder A1 og A2
 
 (1) I tillegg til å oppfylle kravene i [§ 9-6](forskrift/2000-06-13-660/§9-6) skal ethvert fartøy som opererer utenfor radiodekningsområde A1, men som oppholder seg innenfor radiodekningsområde A2, være utstyrt meden MF-radioinstallasjon som kan sende og motta nød- og sikkerhetskommunikasjon på frekvensene:2.187,5 kHz ved hjelp av DSC, og2.182 kHz ved hjelp av radiotelefoni,en radioinstallasjon som kan opprettholde kontinuerlig DSC-vakt på frekvensen 2.187,5 kHz. Installasjonen kan være atskilt fra, eller kombinert med, den som kreves i nr. 1 bokstav a, oghjelpemidler til å igangsette sending av skip-til-land nødalarm via en annen radiotjeneste enn MF, som opererer entenvia polarbanesatellittjenesten på 406 MHz. Dette kravet kan oppfylles av den satellitt EPIRB som kreves i [§ 9-6](forskrift/2000-06-13-660/§9-6) første ledd nr. 6, enten ved å installere den like ved, eller fjernstyre den fra den plassen hvor fartøyet vanligvis blir navigert fra, ellerpå HF ved hjelp av DSC, ellervia en Inmarsat skip-jord-stasjon
@@ -2286,6 +2452,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 9-3](forskrift/2000-06-13-660/§9-3).
+
 ### § 9-9. Radioutstyr – Radiodekningsområder A1, A2 og A3
 
 (1) I tillegg til å oppfylle kravene i [§ 9-6](forskrift/2000-06-13-660/§9-6) skal ethvert fartøy som opererer utenfor radiodekningsområde A1 og A2, men som holder seg innenfor radiodekningsområde A3, dersom det ikke oppfyller kravene i annet ledd, være utstyrt meden Inmarsat skip-jord-stasjon som kansende og motta nød- og sikkerhetskommunikasjon ved hjelp av radioteleks,igangsette og motta prioriterte nødoppkall,opprettholde vakt for land-til-skip nødalarm, herunder nødalarm som er rettet mot bestemte, definerte geografiske områder,sende og motta alminnelig radiokommunikasjon, ved hjelp av radiotelefoni eller radioteleks, ogen MF-radioinstallasjon som kan sende og motta nød- og sikkerhetskommunikasjon på frekvensene:2.187,5 kHz ved hjelp av DSC, og2.182 kHz ved hjelp av radiotelefoni, ogen radioinstallasjon som kan opprettholde en kontinuerlig DSC-vakt på frekvensen 2.187,5 kHz. Denne kan være atskilt fra, eller kombinert med, utstyret som er foreskrevet i nr. 2 bokstav a, oghjelpemidler til å igangsette sendingen av skip-til-land nødalarm via annen radiotjeneste, som virker entenvia polarbanesatellittjenesten på 406 MHz. Dette kravet kan oppfylles av satellittnødradiopeilesenderen etter [§ 9-6](forskrift/2000-06-13-660/§9-6) første ledd nr. 6, enten ved å installere satellittnødradiopeilesenderen like ved eller fjernstyre den fra den plassen fartøyet vanligvis blir navigert fra, ellerpå HF ved hjelp av DSC, ellervia en Inmarsat skip-jord-stasjon
@@ -2297,6 +2465,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 (4) Sjøfartsdirektoratet kan frita1 fartøy som er bygget før 1. februar 1997 og som utelukkende opererer innenfor radiodekningsområdene A2 og A3 fra kravene i [§ 9-6](forskrift/2000-06-13-660/§9-6) første ledd nr. 1 bokstav a og [§ 9-6](forskrift/2000-06-13-660/§9-6) første ledd nr. 2, dersom fartøyene så langt praktisk mulig opprettholder kontinuerlig lyttevakt på VHF-kanal 16. Lyttevakten skal holdes på den plassen fartøyet vanligvis blir navigert fra.
 
 > Endret ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se [§ 9-3](forskrift/2000-06-13-660/§9-3).
 
 ### § 9-10. Radioutstyr – Radiodekningsområder A1, A2, A3 og A4
 
@@ -2340,6 +2510,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 
 > Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087).
 
+1 Se [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 19 og [§ 1-5](forskrift/2000-06-13-660/§1-5).2 Endret ved [forskrift 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087); For eksisterende fartøy med lengde (L) på 24 meter og derover men under 45 meter (L) vil endringene tre i kraft 1. januar 2004. For eksisterende fartøy med største lengde på 15 meter og derover men under 24 meter lengde (L) vil endringene tre i kraft 1. januar 2005.
+
 ### § 9-14. Krav til vedlikehold
 
 (1) Utstyr skal være formet slik at hoveddelene lett kan erstattes uten omfattende kalibrering eller justering.
@@ -2362,6 +2534,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 
 > Endret ved [forskrifter 17 des 2004 nr. 1858](forskrift/2004-12-17-1858) (i kraft 1 jan 2005), [20 des 2017 nr. 2379](forskrift/2017-12-20-2379) (i kraft 1 jan 2018).
 
+1 Se [§ 9-3](forskrift/2000-06-13-660/§9-3).2 Særkrav for norske fartøy.
+
 ### § 9-15. Radiopersonell
 
 (1) Ethvert fartøy skal ha om bord kvalifisert personell for nød- og sikkerhetsradiokommunikasjon. Personellet skal ha radiosertifikater som kreves i Radioreglementet (RR), og én av dem skal være utpekt til å ha hovedansvaret for radiokommunikasjon i nødssituasjoner.
@@ -2369,6 +2543,8 @@ I sjøen skal ethvert fartøy kunnesende skip-til-land nødalarm ved hjelp av mi
 (2) Personell som skal betjene radioutstyr som kreves i dette kapittel skal som minimum inneha:Begrenset Radiooperatørsertifikat (ROC/GMDSS) for betjening av radioutstyr som kreves i radiodekningsområde A1, ogGenerelt Radiooperatørsertifikat (GOC/GMDSS) for betjening av radioutstyr som kreves i radiodekningsområdene A2, A3 og A4.
 
 (3) Radioutstyr som kreves i henhold til dette kapittel tillates kun betjent av personell med relevant Radiooperatørsertifikat.1
+
+1 Se for øvrig bestemmelsen i [§ 9-1](forskrift/2000-06-13-660/§9-1) annet ledd.
 
 ### § 9-16. Radiodagbok
 
@@ -2391,6 +2567,8 @@ Med mindre annet er uttrykkelig bestemt, skal reglene i dette kapittelet gjelde 
 ### § 10-2. Fritak
 
 Sjøfartsdirektoratet kan frita ethvert fartøy fra enhver bestemmelse i dette kapittelet når det anser at reisens art eller fartøyets nærhet til land ikke gjør det nødvendig å følge bestemmelsene.
+
+1 Se [§ 1-3](forskrift/2000-06-13-660/§1-3) og [§ 1-16](forskrift/2000-06-13-660/§1-16) annet ledd.
 
 ### § 10-2a. Godkjenning av utstyr
 
@@ -2423,6 +2601,8 @@ Alt utstyr som er montert i samsvar med dette kapittelet, skal være av en type 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
 > Endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
+
+1 Kompasset skal ha et korrigeringsarrangement som så langt som mulig kan redusere deviasjonen til pluss/minus fem grader.2 Se [forskrift av 15. september 1992 nr. 704](forskrift/1992-09-15-704) om driftsordninger for norske skip, [§ 11](forskrift/1992-09-15-704/§11).3 Se [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 19 og [§ 1-5](forskrift/2000-06-13-660/§1-5).
 
 ### § 10-4. Nautiske instrumenter og publikasjoner
 
@@ -2466,6 +2646,8 @@ Alt utstyr som er montert i samsvar med dette kapittelet, skal være av en type 
 
 > Endret ved [forskrifter 28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se bestemmelsene i [§ 4-16](forskrift/2000-06-13-660/§4-16) tredje ledd og [§ 4-17](forskrift/2000-06-13-660/§4-17) annet ledd nr. 3. For eksisterende fartøy vises det til [forskrift av 18. august 1978 nr. 9154 § 20](forskrift/1978-08-18-9154/§20) og [forskrift av 11. februar 1997 nr. 127](forskrift/1997-02-11-127) om navigasjonshjelpemidler og broarrangementer [§ 22](forskrift/1997-02-11-127/§22) nr. 2.2 Delvis særkrav for norske fartøy.
+
 ### § 10-6. Sikt fra kommandobroen
 
 (1) For nye fartøy skal sikten fra styrehus og bro tilfredsstille kravene nedenfor.Fra kommandoplassen skal det være fritt utsyn til havoverflaten fra to fartøylengder, eller 500 meter alt etter hvilken avstand som er minst, foran for baugen og ti grader på hver side uansett fartøyets dypgående eller trim.Ingen blindsektor som forårsakes av fiskeutstyr eller andre hindringer utenfor styrehuset forenfor tvers som hindrer utsynet over havoverflaten fra kommandoplassen, skal overstige ti grader. Den totale buen av blindsektorer skal ikke overstige 20 grader. De klare sektorene mellom blindsektorene skal være på minst fem grader. I den sektoren som er beskrevet i nr. 1, skal hver blindsektor ikke overstige fem grader.Høyden over brodekket på den nederste kanten av kommandobroens frontvinduer skal være så lav som mulig. Ikke i noe tilfeller skal den nederste kanten hindre utsynet forover slik det er beskrevet i denne paragraf.Den øverste kanten av kommandobroens frontvinduer skal gi utsyn forover mot horisonten for en person på kommandoplassen med en øyehøyde på 1.800 millimeter over brodekket når fartøyet stamper i tung sjø. Imidlertid kan Sjøfartsdirektoratet, dersom det godtar at 1.800 millimeters øyehøyde er urimelig og upraktisk, redusere øyehøyden, men ikke til mindre enn 1.600 millimeter.Det horisontale synsfeltet fra kommandoplassen skal strekke seg over en bue på ikke mindre enn 225 grader, det vil si fra rett forover til ikke mindre enn 22,5 grader aktenfor tvers på hver side av fartøyet.Fra hver brovinge eller side av styrehus/bro skal det horisontale synsfeltet strekke seg over en bue på minst 225 grader, det vil si fra minst 45 grader på motsatte baug til rett forover og deretter videre fra rett forover til rett akterover.Fra vanlig styreplass skal det horisontale synsfeltet strekke seg over en bue fra rett forut til minst 60 grader på hver side av fartøyet.Fartøyets side skal være synlig fra brovingen.Vinduene skal oppfylle følgende krav:Det skal være så lite innramming som mulig mellom vinduene på kommandobroen, og det skal ikke være rammer rett forut for styreplassen.Til hjelp mot refleks skal frontvinduene på broen skråne utover fra vertikalt plan, med en vinkel på minst ti grader og ikke mer enn 25 grader.Det skal ikke monteres polarisert eller farget glass i vinduene.Det skal til enhver tid og uansett værforhold være sørget for klart utsyn gjennom minst to av frontvinduene på kommandobroen. Videre skal ytterligere minst to vinduer sikres klart utsyn avhengig av broens utforming.Styrehuset skal ikke anvendes til andre formål enn navigasjon, kommunikasjon og funksjoner som er nødvendig for behandling av fartøyet, maskineri og last.
@@ -2475,6 +2657,8 @@ Alt utstyr som er montert i samsvar med dette kapittelet, skal være av en type 
 (3) På fartøy som har en uvanlig form og som etter Sjøfartsdirektoratets mening ikke kan oppfylle kravene i denne paragraf, skal det treffes tiltak for å oppnå en sikt som så langt praktisk mulig nærmer seg det som er beskrevet ovenfor.
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 For eksisterende fartøy vises det til [forskrift av 11. februar 1997 nr. 127](forskrift/1997-02-11-127) om navigasjonshjelpemidler og broarrangementer [§ 25](forskrift/1997-02-11-127/§25), [§ 26](forskrift/1997-02-11-127/§26) og [§ 27](forskrift/1997-02-11-127/§27).
 
 ### § 10-7. Brovaktalarm
 
@@ -2504,6 +2688,8 @@ Alt utstyr som er montert i samsvar med dette kapittelet, skal være av en type 
 
 (2) Innredningen skal ligge aktenfor kollisjonsskottet, og være anordnet slik at det er forsvarlig rømningsmulighet med adkomst til redningsmidlene. Det skal ikke være adkomst fra innredningen til lasterom, rom for maling, dekks- og maskinrekvisita eller andre lignende rom. Soverom skal plasseres slik at støy, vibrasjoner og utdunstning fra andre rom begrenses så mye som mulig (Rdir. [1993/103/EØF](eu/31993l0103)).Oppholdsrom1 tillates ikke plassert under et dekk som ligger under dypeste driftsvannlinjen.I innredningen skal lysventiler i skroget være plassert i samsvar med [§ 2-12](forskrift/2000-06-13-660/§2-12). Hvor konstruksjonene gjør det nødvendig, kan Sjøfartsdirektoratet godkjenne at lysventiler sløyfes, jf. [§ 11-7](forskrift/2000-06-13-660/§11-7) første ledd nr. 1.
 
+1 Se definisjon i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 23 og 37.
+
 ### § 11-3. Bygging
 
 (1) Generelle kravInnredningen skal gi betryggende beskyttelse mot vær, sjø, hete, kulde, for høyt støynivå, og mot utdunstning fra andre rom. Det skal gjennomføres hensiktsmessige tiltak slik at støy i innredningen og på arbeidsplassen blir redusert til et rimelig nivå. Det skal tilstrebes å følge normen som fastsatt i vedlegg 2 så langt det er praktisk mulig.Materialer som benyttes i innredningen skal være godkjent. Ståldekk og stålskott som danner tak, vegg eller dørk i innredningen som er utsatt for vær eller som grenser opp til uoppvarmede eller sterkt oppvarmede rom, heise- eller kabelsjakter mv., skal være isolert med K-verdi ikke høyere enn 0,75. Isolasjonsmaterialet skal være godkjent og festet forsvarlig slik at kondens unngås. På skott og undersiden av taket skal isolasjonen dekkes med kledning. Skott og tak i sanitærrom skal være av stål eller annet godkjent vanntett materiale og isolert som nevnt ovenfor.Skott mellom lugarer og korridorer mv. skal bestå av materialer som gir tilfredsstillende støyreduksjon. Materialene skal også tilfredsstille kravene i [kapittel 5](forskrift/2000-06-13-660/kap5) om brannsikring.Mellom panel og ytterskott skal det i innredning på hoveddekk og underliggende dekk være tilstrekkelig avløp for vann. Avløpet skal være arrangert slik at det innenfor spantene eller stiverne på dekket er påsatt en minst 50 millimeter høy kantprofil som danner en renne til avløpsrørene eller hull med plugg til åpent dekk på de laveste punkter, hvor vannet kan samle seg.Skott, tak og dørk mot maskinrom, oppvarmede tanker og bysseskott som støter direkte opp til innredningen skal være tilstrekkelig isolert. Damp-, varmtvanns- og andre rørledninger i innredningen skal være innebygget og isolert.Takhøyden i innredningen skal være minst 1.980 millimeter. En reduksjon i takhøyden i et område i innredningen kan godtas når dette finnes rimelig og reduksjonen ikke vil gjøre det ubekvemt for besetningen.På fiskefartøy med lengde (L) 24 meter eller mer bygget 1. januar 2019 eller senere skal takhøyden i innredningen være 2000 millimeter eller mer. En reduksjon i takhøyden til 1900 millimeter i et område kan godtas når dette finnes rimelig og reduksjonen ikke vil gjøre det ubekvemt for besetningen.
@@ -2518,9 +2704,13 @@ Alt utstyr som er montert i samsvar med dette kapittelet, skal være av en type 
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Se [§ 5-13](forskrift/2000-06-13-660/§5-13), [§ 5-33](forskrift/2000-06-13-660/§5-33) og [§ 5-50](forskrift/2000-06-13-660/§5-50). Se også bestemmelsen i [§ 2-2](forskrift/2000-06-13-660/§2-2).
+
 ### § 11-4. Drikkevann
 
 Skipsføreren skal ha ansvaret for at det er drikkevann i tilstrekkelig mengde om bord. Vannet skal være hygienisk betryggende og dessuten være klart, uten fremtredende lukt, smak eller farge, og for øvrig tilfredsstille kvalitetsnormer for drikkevann. Drikkevannet skal kontrolleres jevnlig av kompetent personell. Til slik kontroll skal det finnes nødvendig utstyr. Sosial- og helsedepartementet kan gi utfyllende forskrifter om krav til, og kontroll av drikkevann og drikkevannsanlegg som skal følges.
+
+1 Jf. ILO konvensjon nr. 68 om kost og forpleining for besetningen på skip. Se for øvrig definisjon i [§ 1-2](forskrift/2000-06-13-660/§1-2) nr. 7.
 
 ### § 11-5. Ventilasjon
 
@@ -2539,6 +2729,8 @@ Skipsføreren skal ha ansvaret for at det er drikkevann i tilstrekkelig mengde o
 (7) På fartøy med lengde (L) på 24 meter eller mer skal bysse og proviantrom være utstyrt med mekanisk ventilasjon.Byssa skal være tilstrekkelig ventilert ved mekanisk ventilasjon som gir minst 30 luftvekslinger ved innblåsing og 40 luftvekslinger ved utsuging per time. I proviantrom skal det mekaniske ventilasjonsanlegg gi minst ti luftvekslinger per time om det ikke er egne kjøle- og fryserom om bord. Ventilasjonssystemet skal være regulerbart.I byssa skal det være avtrekk med vaskbare filtre over komfyrer og andre koke- eller stekesteder. Det mekaniske ventilasjonsanlegget i bysse og proviantrom skal være uavhengig av andre ventilasjonssystemer.
 
 > Endret ved [forskrifter 10 nov 2017 nr. 1778](forskrift/2017-11-10-1778) (i kraft 16 nov 2017), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Se [§ 5-9](forskrift/2000-06-13-660/§5-9), [§ 5-29](forskrift/2000-06-13-660/§5-29) og [§ 5-46](forskrift/2000-06-13-660/§5-46).
 
 ### § 11-6. Oppvarming
 
@@ -2609,6 +2801,8 @@ Innredningen skal kunne oppvarmes tilstrekkelig slik at det holdes minimumstempe
 (5) Benkenes overflate og oppvaskkum skal være av rustfritt stål eller annet godkjent materiale. Kummene og overflatebelegget på den benk hvor de er anbrakt, skal være i ett stykke.1
 
 > Endret ved [forskrifter 13 nov 2000 nr. 1135](forskrift/2000-11-13-1135), [20 mars 2001 nr. 340](forskrift/2001-03-20-340) (i kraft 1 april 2001 for nye og eksisterende fartøy med største lengde på 15 meter og derover, men med lengde (L) under 24 meter), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
+
+1 Jf. ILO konvensjon nr. 68 om kost og forpleining for besetningen på skip.
 
 ### § 11-12. Proviant-, kjøle- og fryserom
 
@@ -2714,6 +2908,8 @@ Dersom hygieniske eller ernæringsmessige forhold ved proviant eller drikkevann 
 
 > Endret ved forskrifter [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
+1 Jf. [forskrift 15. september 1992 nr. 693 om innretning og føring av dagbøker mv. på skip § 9](forskrift/1992-09-15-693/§9).
+
 ### § 11-22. Fiske i tropiske farvann
 
 På fartøy som fisker i tropiske farvann eller i andre farvann hvor insekter er en plage, skal det sørges for å beskytte besetningens oppholdsrom ved anbringelse av insektnett foran lysventiler, luftrør, luftinntak til det mekaniske ventilasjonsanlegg og dører til åpent dekk. I luftkondisjonert oppholdsrom er det tilstrekkelig med insektnett ved utgangsdørene i korridorene. Slike fartøy skal være utstyrt med solseil eller soltak over hvileplasser på dekk.
@@ -2734,6 +2930,8 @@ Denne forskrift trer i kraft den 1. juli 2000 for nye og eksisterende fartøy me
 
 > Endret ved [forskrifter 27 sep 2002 nr. 1087](forskrift/2002-09-27-1087), [29 juni 2007 nr. 1006](forskrift/2007-06-29-1006) (i kraft 1 juli 2007, tidligere § 12-3), [28 nov 2008 nr. 1318](forskrift/2008-11-28-1318) (i kraft 1 jan 2009), [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021).
 
+1 Forskriften trådte i kraft 1. april 2001 for fartøy med største lengde på 15 meter og derover, men med lengde (L) på under 24 meter.
+
 ### § 12-3. Endringer i andre forskrifter
 
 Fra den dato denne forskrift trer i kraft i henhold til [§ 12-2](forskrift/2000-06-13-660/§12-2) oppheves [forskrift av 15. oktober 1991 nr. 712](forskrift/1991-10-15-712) om bygging av fiske- og fangstfartøy med lengde på 15 m LOA eller mer, for så vidt gjelder nye fartøy på 24 meter eller mer.
@@ -2748,11 +2946,73 @@ Vedlegget gjengis ikke her, men kan anskaffes ved henvendelse til Sjøfartsdirek
 
 ## Vedlegg 2
 
+|  | *Paragraf* | *IMO-Res. og MSC/Circ.* | *Konvensjoner og koder* | *Standarder* |
+| --- | --- | --- | --- | --- |
+| *Kapittel 2*<br>Værtette dører<br>Spruttette dører | § 2-4 (2)<br>§ 2-4 (2) |  |  | ISO 6042/<br>NS 6090<br>NS 6091 |
+| Lukedeksler av tre | § 2-5 (3) |  | Lastelinje-<br>konvensjonen,<br>1966 regel 14 og<br>15 |  |
+| Lysventiler og vinduer | § 2-12 (6) |  |  | NS 6141 (ISO 1751, 1977 lysventiler)<br>NS 6149 (ISO<br>3903, 1977<br>vinduer) |
+| Personheis og kombinert<br>vare- og personheis | § 2-21 |  |  | ISO-standard<br>8383 Lifts on<br>ships -<br>specific requirements |
+| *Kapittel 3*<br>Generelt | § 3-1 (2) | Det internasjonale regelverket for intaktstabilitet 2008<br>(IS-koden fra 2008)<br>fastsatt ved<br>MSC.267(85). |  |  |
+| Stabilitetskriterier | § 3-2 (1) nr. 4 | Det internasjonale regelverket for intaktstabilitet 2008<br>(IS-koden fra 2008) fastsatt ved MSC.267(85), del B<br>pkt. 2.4.5.2.1-2.4.5.2.4. |  |  |
+| Sterk vind og rulling | § 3-5 | IMO Res. A.749 (18)<br>pkt. 4.2.4.<br>Fartøy bygget 1. juli<br>2022 eller senere skal<br>oppfylle det<br>internasjonale<br>regelverket for<br>intaktstabilitet 2008<br>(IS-koden fra 2008)<br>fastsatt ved<br>MSC.267(85), del A<br>pkt. 2.3 og del B pkt.<br>2.1.4. |  |  |
+| Inndeling og stabilitet i<br>skadet tilstand | § 3-14 |  | Torremolinos-<br>protokollen<br>1993, bilag 3<br>anbefaling 5 |  |
+| *Kapittel 4*<br>Installasjoner for brennolje,<br>smøreolje og andre<br>brennbare oljer | § 4-10 (7) nr. 1 | MSC/Circ.647 og tillegg MSC/Circ.851 |  |  |
+| Beskyttelse mot støy | § 4-12 | IMO Res. A.468 (XII) |  |  |
+| *Kapittel 5*<br>Definisjoner | § 5-2 (1)<br><br>§ 5-2 (2)<br><br>§ 5-2 (3) nr. 5<br><br>§ 5-2 (4) nr. 4<br><br>§ 5-2 (6) nr. 3<br><br>§ 5-2 (9) |  | IMO FTP-koden\*<br>IMO FTP-koden<br>IMO FTP-koden<br>IMO FTP-koden<br>IMO FTP-koden<br>IMO FTP-koden |  |
+| Konstruksjonsdetaljer | § 5-8 (3) nr. 1 |  | IMO FTP-koden |  |
+| Ventilasjonssystemer | § 5-9 (1) nr. 1a<br>§ 5-9 (1) nr. 7d |  | IMO FTP-koden<br>[SOLAS](traktat/1974-11-01-1) II-2 |  |
+| Materialbruk gjennomføring | § 5-11 (2)<br><br>§ 5-11 (3)<br><br>§ 5-11 (4) |  | IMO FTP-koden<br>IMO FTP-koden<br>IMO FTP-koden |  |
+| Automatiske sprinkler,<br>brannalarm- og brannoppdagelsessystemer | § 5-14 (4) | IMO Res. A.800 (19) |  |  |
+| Fast brannslokningsutstyr i<br>lasterom med høy brannrisiko | § 5-16 |  | [SOLAS](traktat/1974-11-01-1), II-2 |  |
+| Brannslokningsutstyr over<br>frityrkoker | § 5-16a |  | [SOLAS](traktat/1974-11-01-1), II-2 |  |
+| Brannslokningsapparater | § 5-20 (4) |  |  | NS 3910 |
+| Brannslokningsutstyr i<br>maskinrom | § 5-22 (1),<br>nr. 1a<br>nr. 1b<br><br>nr. 1c<br><br>§ 5-22 (5) | MSC/Circ.848<br>MSC/Circ.1267<br>MSC/Circ.1165 | [SOLAS](traktat/1974-11-01-1), II-2<br>[SOLAS](traktat/1974-11-01-1), II-2<br><br>[SOLAS](traktat/1974-11-01-1), II-2 |  |
+| Røykdykkerutstyr | § 5-24 (2) |  | [SOLAS](traktat/1974-11-01-1) II-2<br>For fartøy bygd<br>etter 1. januar<br>2003 gjelder<br>også IMO Fire<br>Safety Systems<br>Code |  |
+| Brann- og sikkerhetsplan | § 5-25 (1) | IMO Res. A.1116(30),<br>IMO Res. A.952(23 |  |  |
+| Materialbruk<br>gjennomføringer | § 5-31 (1)<br><br>§ 5-31 (3) |  | IMO FTP-koden<br>IMO FTP-koden |  |
+| Brannslokningsutstyr i<br>maskinrom | § 5-40 (1)<br><br>nr. 1a.<br><br>nr. 1b.<br><br>nr. 1c. | MSC/Circ.848<br>MSC/Circ.1267<br>MSC/Circ.1165 | [SOLAS](traktat/1974-11-01-1), II-2<br><br>[SOLAS](traktat/1974-11-01-1), II-2 |  |
+| Dører § 5-6, § 5-28, § 5-45<br>(vise til ledd) IMO FTP-koden<br><br>Overflatemateriale,<br>rørledning | § 5-48 (1)<br>§ 5-48 (2) |  | IMO FTP-koden<br>IMO FTP-koden |  |
+| Brannslokningsutstyr i<br>maskinrom | § 5-57 (1)<br>nr. 1<br>nr. 2<br>nr. 3 | MSC/Circ.848<br>MSC/Circ.1267<br>MSC/Circ.1165 | [SOLAS](traktat/1974-11-01-1), II-2<br>[SOLAS](traktat/1974-11-01-1), II-2 |  |
+| *Kapittel 6*<br>Alminnelige bestemmelser | § 6-2 (3) |  | ILO-konv. nr. 152 | NS 6200 |
+| Atkomstmidler for los mv. | § 6-6 (1)<br>(losleider) | IMO Res. A.1045(27)<br>MSC.1/Circ.1375 | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 23 | NS 6248 ISO-standard 799 |
+| Landganger og fallrep | § 6-7 (2) |  |  | ISO-standard<br>7061, 5488,<br>NS 6249 |
+| Krav til<br>opphengingsarrangement for<br>fallrep mv. | § 6-8 (1)<br><br>§ 6-8 (2)<br><br>§ 6-8 (5) |  |  | NS 6249 pkt.<br>6.1.4<br>NS 6249 pkt.<br>6.1.3<br>NS 6249 |
+| Merking av tanker, rom mv. | § 6-13 (1) |  |  | NS 6033,<br>NS 4210 |
+| Skilter og oppslag | § 6-21 (2) |  |  | NS 6033,<br>NS 4210 |
+| *Kapittel 7*<br>Vurdering, prøving og<br>godkjenning av<br>redningsredskaper<br>og -arrangementer | § 7-3 (2) nr. 1<br>og nr. 3<br>§ 7-3 (4) | IMO Res. A.689 (17),<br>IMO Res. MSC.54 (66) | [SOLAS](traktat/1974-11-01-1) kap. III, jf.<br>Life-Saving<br>Appliance Code |  |
+| Nødradioutstyr | § 7-13 (4) | IMO Res. A.694 (17)<br>IMO Res. A.762 (18)<br>I-ETS 300.225<br>IEC 945 |  |  |
+| Radartranspondere | § 7-14 (1) | IMO Res. A.530 (13),<br>IMO Res. A.694 (17),<br>IMO Res. A.802 (19),<br>IMO Res. A.813 (19),<br>ITU-R M628-5 |  |  |
+| Lysreflekterende utstyr på<br>redningsredskaper | § 7-15 | IMO Res. A.658 (16)<br>IMO Res. MSC 48 (66) | [SOLAS](traktat/1974-11-01-1) Kap. III<br>regel 34, jf. LSA-<br>koden, Kapittel<br>1, punkt 1.2.2.7 |  |
+| Generelle krav til<br>redningsbåt | § 7-17 (8), nr. 18 |  | [SOLAS](traktat/1974-11-01-1) V/16 |  |
+| Alminnelige bestemmelser<br>for redningsflåten | § 7-20 (5) nr. 1p |  | [SOLAS](traktat/1974-11-01-1) V/16 |  |
+| *Kapittel 10*<br>Navigasjonsutstyr om bord<br>på fartøy | § 10-3 (1) nr. 6 (kompasser) | IMO Res. A.382 (X)<br>IMO Res. A.694 (17) | [SOLAS](traktat/1974-11-01-1) Kap. V<br>regel 19 2.1 | ISO-standard<br>449<br>ISO-standard<br>2269<br>ISO-standard<br>10316 |
+|  | § 10-3 (2) nr. 1c (gyro) | IMO Res. A.694 (17)<br>IMO Res. A.424 (X)<br>IMO Res. A.813(19) | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 19 2.5 | ISO-standard<br>8728 |
+|  | § 10-3 (3) nr. 1 (radaranlegg) | IMO Res. A.477 (XII)<br>IMO Res. A.694 (17)<br>IMO Res. A.813 (19) | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 12 (g) og<br>(h) |  |
+|  | § 10-3 (4) nr. 1 (dybdemåler-anlegg) | IMO Res. A.224 (VII)<br>IMO Res. A.694 (17)<br>IMO Res. A.813 (19) | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 12 (k) | ISO-standard<br>9875 |
+|  | § 10-3 (5) (farts- og distansemåle-anlegg) | IMO Res. A.478 (XII)<br>IMO Res. A.694 (17)<br>IMO Res. A.813 (19)<br>IMO Res. A.824 (19) | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 12 (l) |  |
+|  | § 10-3 (8) (radiopeile-apparat) | IMO Res. A.529 (13)<br>IMO Res. A.694 (17)<br>IMO Res. A.813 (19) | [SOLAS](traktat/1974-11-01-1) kap. V<br>regel 12 (p) |  |
+|  | § 10-3 (9) (autopilot) | IMO Res. A.342 (IX)<br>IMO Res. A.694 (17)<br>IMO Res. A.813 (19) | [SOLAS](traktat/1974-11-01-1) V/19 | ISO/TR A.674 |
+|  | § 10-3 (9) (purre- og kalleanlegg) | IMO Res. A.481 (XII)<br>IMO Res. A.574 (14) |  |  |
+| Automatisk<br>identifikasjonssystem (AIS) | § 10-4a | Res. MSC.74 (69) IEC<br>61993-2 SN/Circ.227 |  |  |
+| Ferdsskriver (VDR) | § 10-4b | IMO Res. A.861 (20)<br>IEC 61996 |  |  |
+| Forenklet ferdsskriver<br>(S-VDR) | § 10-4b | IMO Res. MSC. 214(81)<br>og 163(78) |  |  |
+| Sikt fra kommandobro | § 10-6 (1) | IMO Res. A.708 (17)<br>MSC/Circ.403 |  | ISO-standard<br>8468 |
+| *Kapittel 11*<br>Bygging | § 11-3 (1)<br>§ 11-3 (5) | IMO Res. A.468 (XII) |  | NS 6033 og<br>NS 6033 T |
+| Størrelse og inventar i<br>soverom | § 11-9 (5) 1 |  |  | NS 2761 |
+
+\* International Code for Application of Fire Test Procedure.
+
 > Tilføyd ved forskrift [24 des 2020 nr. 3264](forskrift/2020-12-24-3264) (i kraft 1 jan 2021), endret ved forskrift [26 juni 2025 nr. 1372](forskrift/2025-06-26-1372).
 
 ## Vedlegg 3. Funksjonskrav for brovaktalarm
 
+Brovaktalarm som ikke er typegodkjent i henhold til IMO Res. MSC. 128(75) skal oppfylle følgende funksjonskrav:
+
+1\.
+
 Beskrivelse av systemet
+
+1.1.
 
 Brovaktalarmens virkemåte, programmering mv.
 
@@ -2764,43 +3024,67 @@ Når brovaktalarmen er aktivert, skal det utløses et akustisk alarmsignal derso
 
 Kvittering skal skje enten ved at ansvarshavende for brovaktholdet trykker på en tilbakestillingsknapp, eller ved å bruke den manuelle styreinnretningen. IR-sensorer basert på bevegelse og varmesøkende funksjon kan brukes som tilleggsutstyr dersom det ikke forringer brovaktalarmens funksjon.
 
+1.2.
+
 AlarmfunksjonerAlarm skal utløses over to trinn.Første trinn skal utløses i styrehuset.Andre trinn skal utløses i styrehuset og i innredningen.Kort tid før alarmen utløses, skal det varsles ved lyssignal at alarm vil bli utløst.
+
+1.3.
 
 Start
 
 Når brovaktalarmen er funksjonsklar, skal dette indikeres. Feil på tilkoblinger til alarmhorn skal angis spesielt.
 
+2\.
+
 Installasjon
+
+2.1.
 
 Plassering av kontrollenhet
 
 Brovaktalarmen skal plasseres slik at den er godt synlig for ansvarshavende i styrehuset.
 
+2.2.
+
 Antall alarmhorn
 
 Det skal monteres minst ett alarmhorn i styrehuset og minst ett alarmhorn i innredningen.
+
+2.3.
 
 Elektrisk tilkobling
 
 Til installasjon skal det alltid benyttes godkjent kabel for lavspent skipsbruk. Krafttilførsel skal skje fra en sikret kurs over hovedbryteren for hovedmotoren. Kabeldimensjonen skal være i henhold til maksimum strømtrekk fra brovaktalarmen.
 
+2.4.
+
 Tilkobling
 
 Brovaktalarmen kobles slik at enheten alltid er tilkoblet spenning når fartøyets hovedmotor er i gang, eller når fartøyets propell er tilkoblet. Når brovaktalarmen er tilkoblet og funksjonsklar, skal dette indikeres som beskrevet i 1.3.
+
+2.5.
 
 Programmering og funksjonskontroll
 
 Programmering av tidsintervall for alarmutløsning skal utføres av produsent/leverandør. Produsent/leverandør skal kontrollere installasjon og funksjonsteste brovaktalarmen etter programmering.
 
+3\.
+
 Vedlikehold
 
 Brovaktalarmen skal ikke trenge periodisk vedlikehold.
 
+4\.
+
 Informasjon om systemet
+
+4.1.
 
 Informasjon fra produsent/leverandør
 
 Fra produsent/leverandør skal følgende foreligge:beskrivelse av virkemåte for systemetbeskrivelse av alarmfunksjonersystemskisse av brovaktalarmsystemet som beskriver hvordan systemet er bygd opp, med navn på de forskjellige komponentenebruksanvisning på norsk.
+
+4.2.
 
 Oppslag av bruksanvisning
 
@@ -2810,7 +3094,15 @@ Brovaktalarmens bruksanvisning skal enten slås opp om bord eller være lett til
 
 ## Vedlegg 4.
 
+*Redningsredskaper m.m. på fiskefartøy med lengde (L) 24 meter eller mer som ble bygd eller omfattende ombygd før 1. juli 2000 og fiskefartøy med lengde (L) under 24 meter som ble bygd eller omfattende ombygd før 1. april 2001*.
+
+*Nødkraftkilde og nødlys mv.*
+
+1\.
+
 Nytt og eksisterende fartøy med lengde på 15 m eller mer skal være utstyrt med en nødkraftkilde uavhengig av fartøyets radioutstyr, med kapasitet til å levere kraft i minst 3 timer til:belysning av alle redningsmidler, alt utsetningsmateriell og av sjøen hvor redningsmidlene settes ut, samt belysning av ganger, trapper og utganger for atkomst til redningsmidlene og nødvendige navigasjonslysalarmsystem i henhold til gjeldende brannforskrifter.
+
+2\.
 
 Nødkraftkilden skal enten være:akkumulatorbatteri som kan tåle nødbelastningen uten oppladning eller for stort spenningsfall, og som automatisk kobles til nødstrømtavla når hovedkraftkilden svikter, elleren generator drevet av en passende kraftmaskin med en selvstendig brenselforsyning og med en hensiktsmessig startanordning. Brenslet som anvendes, skal ha et flammepunkt som ikke er under 43 °C.
 
@@ -2818,67 +3110,137 @@ Arrangementet skal være slik at hele nødinstallasjonen fungerer når skipet ha
 
 Tavler for hoved- og nødkraftkilde skal plasseres og anordnes slik at de ikke samtidig, så vidt det er mulig, kan utsettes for vann eller ild. Tavlene skal være tydelig merket.
 
+5\.
+
 For fartøy på 15 m eller mer skal nødkraftkilden være plassert over hoveddekk utenfor maskinkeising.
+
+*Redningsmidlenes antall og kapasitet mv.*
+
+1\.
 
 Fartøy som har fartssertifikat for fartsområde fjordfiske eller kystfiske, skal føre redningsflåte eller lettbåt med kapasitet for alle personer om bord.
 
+2\.
+
 Fartøy med fartssertifikat eller fartøyinstruks for fartsområde bankfiske (I og II):
+
+2.1.
 
 Fartøy med lengde på 15 m eller mer, men under 24 m, skal føre minst én redningsflåte med kapasitet for alle personer om bord og i tillegg én redningsflåte med kapasitet for minst halvparten av alle personer om bord.
 
+2.2.
+
 Fartøy med lengde på 24 m eller mer skal føre:
+
+2.2.1
 
 redningsflåte(r) med kapasitet for alle personer om bord
 
+2.2.2
+
 redningsbåt med kapasitet for alle personer om bord
+
+2.2.3
 
 istedenfor å oppfylle kravene i nr. 2.2.1 og 2.2.2, kan det føres minst én redningsflåte med kapasitet for alle personer om bord på hver side av fartøyet og en MOB-båt.
 
+3\.
+
 Fartøy med fartssertifikat for fartsområde havfiske (I eller II):
+
+3.1.
 
 Fartøy med lengde under 24 m skal føre minst to redningsflåter, hver med kapasitet for alle personer om bord.
 
+3.2.
+
 Fartøy med lengde på 24 m eller mer, men under 45 m skal føre:
+
+3.2.1
 
 redningsflåte(r) med kapasitet for alle personer om bord
 
+3.2.2
+
 redningsbåt med kapasitet for alle personer om bord
+
+3.2.3
 
 Istedenfor å oppfylle kravene i nr. 3.2.1 og 3.2.2, kan det føres minst én redningsflåte med kapasitet for alle personer om bord på hver side av fartøyet og en MOB-båt.
 
+3.3.
+
 Fartøy med lengde på 45 m eller mer skal føre:
+
+3.3.1
 
 redningsflåter for 150 % av det totale antall personer om bord
 
+3.3.2
+
 redningsbåt med kapasitet for alle personer om bord
+
+3.3.3
 
 Istedenfor å oppfylle kravene i nr. 3.3.1 og 3.3.2, kan det føres minst én redningsflåte med kapasitet for alle personer om bord på hver side av fartøyet og en MOB-båt.
 
+4\.
+
 Fartøy med fartssertifikat for fiske i isfarvann (I eller II) skal føre minst én redningsflåte med kapasitet for alle personer om bord på hver side av fartøyet og en overbygget livbåt eller en redningsbåt med kapasitet for alle personer om bord. På fartøy hvor det føres overbygget livbåt skal det i tillegg føres en MOB-båt.
+
+5\.
 
 Fartøy som allerede har godkjente redningsmidler om bord, kan fortsatt benytte disse inntil eventuell utskifting/ombygging.
 
+*Utstyr til redningsbåter for fiskefartøy*
+
+Redningsbåter skal ha følgende utstyr:
+
+1\.
+
 Minst 2 årer på hver side samt 1 reserveåre. Årene skal være av ask eller annen jevngod tresort.
+
+2\.
 
 1 1/2 sett rogafler eller annet arrangement for bruk av årer. Rogafler må være fastgjort til båten.
 
+3\.
+
 Ror med styrepinne med overføring til styreplass. Dette kan frafalles hvis det finnes et annet arrangement for styring.
+
+4\.
 
 En båtshake.
 
+5\.
+
 Leider e.l. som gjør det mulig for personer i vannet å klatre opp i båten.
+
+6\.
 
 To gripeliner fra esing til esing under kjølen eller annet arrangement for å rette opp båten.
 
+7\.
+
 To fangliner med lengde på minst 3 ganger båtens lengde klare til bruk. Begge skal kunne festes forsvarlig til båten. Linen forut skal kunne utløses innenfra båten også under belastning.
+
+8\.
 
 To flytende hiveliner m/kastering, lengde minst 15 m.
 
+9\.
+
 Forut og akter i båten skal det være anordnet arrangement for feste av liner, jf. pkt. 8.
+
+10\.
 
 Et godkjent drivanker med line på minst 4 ganger båtens lengde og tilpasset båtens størrelse. Drivanker som er laget av tett duk, må utstyres med svivel.
 
+11\.
+
 Et rundtlysende markeringslys festet til toppen av overbygg/kalesje med lys som er synlig i en avstand på minst 2 nm, samt en manuelt kontrollert lampe/lykt til belysning inne i båten. Batterikapasiteten for begge nevnte lys skal være tilstrekkelig for drift i minst 12 timer.
+
+12\.
 
 - Fire godkjente fallskjermlys.
 - Tre godkjente håndbluss.
@@ -2886,51 +3248,101 @@ Et rundtlysende markeringslys festet til toppen av overbygg/kalesje med lys som 
 
 Utstyret skal oppbevares i vanntette beholdere som er fast arrangert i båten og tydelig merket.
 
+13\.
+
 Radarreflektor.
+
+14\.
 
 Blåselur, horn eller effektiv signalfløyte og signalspeil.
 
+15\.
+
 Lysreflekterende midler festet slik at båten blir lett synlig fra sjøen og fra luften, plassert med ikke mer enn 0,5 m mellomrom. Hvis båten har overbygg eller kalesje, må lysreflekterende midler også påsettes her.
+
+16\.
 
 En godkjent, fast montert håndpumpe eller annet arrangement med tilstrekkelig kapasitet for å holde båten lens.
 
+17\.
+
 Et øsekar og en pøs festet til båten med stjerter.
+
+18\.
 
 To plugger til hvert lensehull som ikke er forsynt med automatiske ventiler.
 
+19\.
+
 En foldekniv med hermetikkåpner i vanntett pakning, samt 2 rustfrie kniver plassert og festet forut og akterut til båten m/stjert.
+
+20\.
 
 Et godkjent kompass utstyrt med egen lyskilde eller plassert slik at det kan belyses.
 
+21\.
+
 En pakke stormfyrstikker, en elektrisk, vanntett lommelykt passende til morsesignalisering og forsynt med ett sett reservebatterier og reservepære.
+
+22\.
 
 To små drikkekrus.
 
+23\.
+
 Kart over aktuelt område klebet opp på lerret, samt ett eksemplar av livredningssignalene
+
+24\.
 
 En godkjent proviantrasjon som inneholder minst 5000 kJ for hver person båten er godkjent for. Provianten skal oppbevares i lufttette pakninger og anbringes i vanntett beholder.
 
+25\.
+
 En vannbeholdning på minst 2 liter hermetisk pakket ferskvann for hver person båten er godkjent for.
+
+26\.
 
 Legemidler og førstehjelpsutstyr i henhold til [forskrift om legemidler mv. på skip](forskrift/1981-12-11-8748) av 11. desember 1981.
 
+27\.
+
 Minst 3 redningsposer (survival bags).
+
+28\.
 
 Faste vanntette beholdere eller rom for løst utstyr.
 
+29\.
+
 Brannslokningsapparat (kapasitet minst 2 kg).
+
+30\.
 
 Effektiv propellerbeskyttelse i form av fast dyse, gitter e.l.
 
+31\.
+
 Tank/beholder for brensel til minst 10 timers kjøring samt en transportabel reservekanne.
+
+32\.
 
 En vanntett presenning eller annet likeverdig dekke over båten når den er plassert om bord, og som hurtig kan fjernes.
 
+33\.
+
 Solid godkjent løftearrangement m/innfesting (faste sentralopererte kroker eller 4-punkts løfteskrev for mindre båter). Komponentenes SWL skal være oppgitt.
+
+34\.
 
 Gummibåter skal utstyres med luftpumpe og reparasjonssett.
 
+35\.
+
 Redningsbåter skal merkes med fartøyets navn og hjemsted.
+
+Tilleggsutstyr kan kreves for fartøy som driver med spesielle former for fiskeri og fangst, og i visse fartsområder.
+
+*Merking*
 
 Båtene skal være tydelig merket med den totale båtvekten, dvs. båt med full utrustning.
 
@@ -2943,5 +3355,221 @@ Alle redningsmidler skal ha iøynefallende farge, være utstyrt med refleks og v
 ## Vedlegg 5
 
 Dette vedlegget oppstiller en geografisk grense for radiodekningsområdene A1 og A2. All informasjon er hentet fra Admirality List of Radio Signals, Global Maritime Distress and Safety System (GMDSS), Volume 5, NP 285, 2001/02.
+
+*Radiodekningsområde A1*
+
+| *Stasjon* | *MMSI* | *Posisjon* | *Rekkevidde (nm)* | *Status* |
+| --- | --- | --- | --- | --- |
+| *Bergen* | 002570400 |  |  | Operativ (MRCC Stavanger) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Bergen |  | 60° 25′N, 5° 22′E | 65 |  |
+| Frigg (rigg) |  | 59° 53′N, 2° 04′E | 30 | Planlagt |
+| Grimo |  | 60° 24′N, 6° 40′E | 69 |  |
+| Heimdal (rigg) |  | 59° 34′N, 2° 13′E | 30 | Planlagt |
+| Lindas |  | 60° 35′N, 5° 20′E | 59 |  |
+| Oseberg (rigg) |  | 60° 30′N, 2° 50′E | 30 |  |
+| Sotra |  | 60° 19′N, 5° 07′E | 53 |  |
+| Stord |  | 59° 52′N, 5° 30′E | 74 |  |
+| *Bjørnøya* | 002570700 | 74° 31′N, 19° 01′E | 40 | Operativ (MRCC Bodø) |
+| Fjernkontrollert av Bodø Radio |  |  |  |  |
+| *Bodø* | 002570700 |  |  | Operativ (MRCC Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Andenes |  | 69° 17′N, 16° 01′E | 54 |  |
+| Fornesfjell |  | 67° 26′N, 15° 27′E | 68 |  |
+| Fredvang |  | 68° 06′N, 13° 11′E | 21 |  |
+| Hadsel |  | 68° 33′N, 14° 53′E | 61 |  |
+| Hagskaret |  | 68° 10′N, 13° 42′E | 36 |  |
+| Harstad |  | 68° 48′N, 16° 31′E | 36 |  |
+| Hillesøy |  | 69° 39′N, 18° 00′E | 41 |  |
+| Hova |  | 66° 01′N, 12° 49′E | 57 |  |
+| Kistefjell |  | 69° 18′N, 18° 08′E | 85 |  |
+| Kvalnes |  | 68° 21′N, 13° 58′E | 40 |  |
+| Lødingen |  | 68° 24′N, 15° 58′E | 13 |  |
+| Meløy |  | 66° 51′N, 13° 38′E | 50 |  |
+| Mo i Rana |  | 66° 12′N, 13° 45′E | 71 |  |
+| Myre/Vesterdalen |  | 68° 57′N, 15° 01′E | 30 |  |
+| Narvik |  | 68° 28′N, 17° 10′E | 48 |  |
+| Rønvikfjell/Bodø |  | 67° 18′N, 14° 27′E | 41 |  |
+| Sandøy |  | 70° 03′N, 18° 32′E | 57 |  |
+| Sorollness |  | 68° 44′N, 16° 50′E | 13 |  |
+| Stamnes |  | 68° 49′N, 15° 29′E | 13 |  |
+| Steigen |  | 67° 50′N, 15° 00′E | 77 |  |
+| Svolvær |  | 68° 24′N, 15° 07′E | 18 |  |
+| Traenfjord |  | 66° 32′N, 12° 49′E | 53 |  |
+| Værøy |  | 67° 40′N, 12° 38′E | 59 |  |
+| Tønsnes |  | 69° 43′N, 19° 08′E | 47 |  |
+| Tromsø |  | 69° 39′N, 18° 57′E | 36 |  |
+| Vega |  | 65° 38′N, 11° 54′E | 75 |  |
+| *Farsund* | 002570200 |  |  | Operativ (MRCC Stavanger) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Arendal |  | 58° 27′N, 8° 45′E | 36 |  |
+| Farsund |  | 58° 04′N, 6° 45′E | 29 |  |
+| Kristiansand |  | 58° 04′N, 7° 59′E | 36 |  |
+| Lindesnes |  | 58° 01′N, 7° 04′E | 40 |  |
+| Storefjell |  | 58° 09′N, 6° 43′E | 52 |  |
+| *Florø* | 002570500 |  |  | Operativ (MRCC Stavanger) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Bremanger |  | 61° 52′N, 5° 00′E | 74 |  |
+| Gulen |  | 61° 02′N, 5° 09′E | 73 |  |
+| Gulfax (rigg) |  | 61° 11′N, 2° 11′E | 30 |  |
+| Kinn |  | 61° 34′N, 4° 46′E | 52 |  |
+| Raudeberg |  | 62° 00′N, 5° 09′E | 38 |  |
+| Sagtennene |  | 61° 54′N, 6° 07′E | 85 |  |
+| Snorre (rigg) |  | 61° 27′N, 2° 09′E | 31 |  |
+| Sogndal |  | 61° 10′N, 7° 07′E | 93 |  |
+| *Rogaland* | 002570300 |  |  | Operativ (MRCC Stavanger) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Bjerkreim |  | 58° 38′N, 5° 58′E | 66 |  |
+| Bokn |  | 59° 13′N, 5° 26′E | 50 |  |
+| Draupner (rigg) |  | 58° 11′N, 2° 28′E | 30 |  |
+| Ekofisk (rigg) |  | 56° 32′N, 3° 13′E | 30 |  |
+| Haugesund |  | 59° 25′N, 5° 20′E | 47 |  |
+| Sleipner A (rigg) |  | 58° 22′N, 1° 54′E | 30 |  |
+| Stavanger |  | 58° 56′N, 5° 43′E | 40 |  |
+| Ula (rigg) |  | 57° 07′N, 2° 51′E | 30 |  |
+| Valhall (rigg) |  | 56° 17′N, 3° 24′E | 30 | Planlagt |
+| Yme (rigg) |  | 57° 49′N, 4° 31′E | 30 | Planlagt |
+| *Svalbard* | 002570900 |  |  | Operativ (MRCC Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Isfjord |  | 78° 02′N, 13° 40′E | 23 |  |
+| Kongsvegpasset |  | 78° 45′N, 13° 30′E | 78 |  |
+| Longyearbyen |  | 78° 15′N, 15° 24′E | 21 |  |
+| *Tjøme* | 002570100 |  |  | Operativ (MRCC Stavanger) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Drammen |  | 59° 40′N, 10° 26′E | 24 |  |
+| Halden |  | 59° 11′N, 11° 26′E | 53 |  |
+| Oslo |  | 59° 59′N, 10° 40′E | 62 |  |
+| Porsgrunn |  | 59° 14′N, 9° 42′E | 66 |  |
+| Risør |  | 58° 43′N, 9° 12′E | 35 |  |
+| Tjøme |  | 59° 05′N, 10° 25′E | 30 |  |
+| *Vardø* | 002570800 |  |  | Operativ (MRCC Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Båtsfjord |  | 70° 40′N, 29° 42′E | 49 |  |
+| Berlevåg |  | 70° 52′N, 29° 05′E | 40 |  |
+| Fuglen |  | 70° 39′N, 21° 58′E | 55 |  |
+| Havøysund |  | 71° 00′N, 24° 36′E | 49 |  |
+| Helligfjell |  | 70° 07′N, 22° 56′E | 63 |  |
+| Honningsvåg |  | 70° 59′N, 25° 54′E | 56 |  |
+| Kirkenes |  | 69° 45′N, 30° 08′E | 44 |  |
+| Mehamn |  | 71° 03′N, 28° 07′E | 49 |  |
+| Oksen |  | 70° 58′N, 27° 21′E | 51 |  |
+| Skjervøy |  | 70° 01′N, 20° 59′E | 37 |  |
+| Tana |  | 70° 28′N, 28° 13′E | 65 |  |
+| Torsvåg |  | 70° 15′N, 19° 30′E | 23 |  |
+| Trolltind |  | 70° 04′N, 20° 26′E | 78 |  |
+| Tyven |  | 70° 38′N, 23° 42′E | 57 |  |
+| Varangerfjord |  | 70° 05′N, 29° 49′E | 41 |  |
+| Vardø |  | 70° 20′N, 31° 02′E | 40 |  |
+| *Ørlandet* | 002570600 |  |  | Operativ (MRCC Stavanger/Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Aksla |  | 62° 29′N, 6° 12′E | 41 |  |
+| Åsgård B (rigg) |  | 65° 07′N, 6° 47′E | 30 |  |
+| Draugen (rigg) |  | 64° 21′N, 7° 47′E | 30 | Planlagt |
+| Forbordsfjell |  | 63° 32′N, 10° 54′E | 66 |  |
+| Gamlemstvet |  | 62° 35′N, 6° 19′E | 80 |  |
+| Heidrun (rigg) |  | 65° 20′N, 7° 19′E | 30 |  |
+| Hjørunganes |  | 62° 21′N, 6° 07′E | 19 |  |
+| Kopparen |  | 63° 48′N, 9° 45′E | 64 |  |
+| Kristiansund |  | 63° 07′N, 7° 42′E | 34 |  |
+| Litlefonni |  | 63° 23′N, 8° 43′E | 56 |  |
+| Molde |  | 62° 45′N, 7° 08′E | 59 |  |
+| Mosvik |  | 63° 46′N, 10° 58′E | 55 |  |
+| Namsos |  | 64° 27′N, 11° 32′E | 58 |  |
+| Nerlandshorn |  | 62° 21′N, 5° 33′E | 59 |  |
+| Njord A (rigg) |  | 64° 16′N, 7° 12′E | 30 | Planlagt |
+| Norne (rigg) |  | 66° 02′N, 8° 05′E | 30 | Planlagt |
+| Reinsfjell |  | 62° 57′N, 7° 56′E | 84 |  |
+| Rørvik |  | 64° 53′N, 11° 14′E | 43 |  |
+| Yttervåg |  | 64° 18′N, 10° 18′E | 34 |  |
+
+*Radiodekningsområde A2*
+
+| *Stasjon* | *MMSI* | *Posisjon* | *Rekkevidde (nm)* | *Status* |
+| --- | --- | --- | --- | --- |
+| *Bjørnøya* (Norge) |  |  |  |  |
+| Bjørnøya (fjernkontrollert av Bodø Radio) | 002570700 | 74° 31′N, 19° 01′E | 200 | Operativ (MRCC Bodø) |
+|  |  |  |  |  |
+| *Danmark* |  |  |  |  |
+| (inkl. Tyskland, Nordsjøen og den baltiske kyst) |  |  |  |  |
+| Lyngby | 002191000 |  |  | Operativ (MRCC Århus) (MRCC Bremen) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Blåvand |  | 55° 33′N, 8° 07′E | 153 |  |
+| Skagen |  | 57° 44′N, 10° 35′E | 148 |  |
+| *Færøyene* (Danmark) |  |  |  |  |
+| Torshavn | 002311000 | 62° 00′N, 6° 47′W | 225 | Operativ (MRCC Corsen) |
+| *Grønland* (Danmark) |  |  |  |  |
+| *Aasiaat* | 003313000 | 69° 14′N, 53° 31′W | 280 | Operativ (MRCC Grønnedal) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Sisimiut |  | 66° 55′N, 53° 40′W | 270 |  |
+| Upernavik |  | 72° 47′N, 56° 10′W | 280 |  |
+| *Nuuk* | 003312000 | 64° 04′N, 52° 01′W | 250 | Operativ (MRCC Grønnedal) |
+| Fjernkontrollert stasjon: |  |  |  |  |
+| Paamiut |  | 62° 00′N, 49° 43′W | 230 |  |
+| *Qaqortoq* | 003311000 | 60° 41′N, 46° 36′W | 220 | Operativ (MRCC Grønnedal) |
+| Fjernkontrollert stasjon: |  |  |  |  |
+| Ikerassuaq |  | 60° 03′N, 43° 10′W | 220 |  |
+| *Ammassilik* | 003314000 | 65° 36′N, 37° 38′W | 280 | Operativ (MRCC Grønnedal) |
+| *Island* |  |  |  |  |
+| *Reykjavik* | 002510100 |  | 200 | Operativ (MRCC Coastal/Oceanic) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Arnarnes – Tx site |  | 66° 05′N, 23° 02′W | 200 |  |
+| Garðskagi – Rx site |  | 64° 04′N, 22° 41′W | 200 |  |
+| Grimsey – Rx site |  | 66° 31′N, 17° 59′W | 200 |  |
+| Gufunes – Rx site |  | 64° 05′N, 21° 50′W | 200 |  |
+| Hóll – Rx site |  | 65° 35′N, 14° 15′W | 200 |  |
+| Hornafjorður – Tx site |  | 64° 15′N, 15° 13′W | 200 |  |
+| Nes – Tx site |  | 65° 42′N, 13° 42′W | 200 |  |
+| Þverfjalli – Rx site |  | 66° 02′N, 23° 18′W | 200 |  |
+| Raufarhöfn – Tx site |  | 66° 27′N, 15° 56′W | 200 |  |
+| Rjúpnahæð – Tx site |  | 64° 05′N, 21° 50′W | 200 |  |
+| Sæfjall |  | 63° 25′N, 20° 16′W | 200 |  |
+| Sauðanes |  | 66° 11′N, 18° 57′W | 200 |  |
+| Streite – Rx site |  | 64° 43′N, 13° 59′W | 200 |  |
+| Suðurnes – Tx site |  | 64° 09′N, 22° 02′W | 200 |  |
+| *Den Irske Republikk* |  |  |  |  |
+| Malin Head | 002500100 | 55° 22′N, 7° 20′W | 150 | Operativ (MRCC Dublin) |
+| Valentia | 002500200 | 51° 56′N, 10° 21′W | 150 | Operativ (MRCC Dublin) |
+| *Jan Mayen I* (Norge) |  |  |  |  |
+| Jan Mayen (fjernkontrollert av Bodø Radio) | 002570700 | 70° 57′N, 8° 40′W | 200 | Operativ (MRCC Bodø) |
+| *Nederland* |  |  |  |  |
+| *Nederlands Kystvaktradio* | 002442000 |  |  | Operativ (JRCC IJmuiden) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Scheveningen – Tx site |  | 52° 06′N, 4° 16′E | 250 |  |
+| IJmuiden – Rx site |  | 52° 27′N, 4° 35′E | 150 |  |
+| Noordwjik – Rx site |  | 52° 17′N, 4° 28′E | 150 |  |
+| Terchelling – Rx site |  | 53° 21′N, 5° 12′E | 150 |  |
+| *Norge (fastland)* |  |  |  |  |
+| Bergen | 002570400 | 60° 42′N, 4° 52′E | 200 | Operativ (MRCC Stavanger) |
+| *Bodø* | 002570700 | 67° 16′N, 14° 23′E | 200 | Operativ (MRCC Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Andenes |  | 69° 18′N, 16° 04′E | 200 |  |
+| Sandnessjøen |  | 66° 01′N, 12° 37′E | 200 |  |
+| *Farsund* | 002570200 | 58° 04′N, 6° 45′E | 200 | Operativ (MRCC Stavanger) |
+| *Florø* | 002570500 | 61° 36′N, 5° 00′E | 200 | Operativ (MRCC Stavanger) |
+| *Ørlandet* | 002570600 | 63° 41′N, 9° 36′E | 200 | Operativ (MRCC Stavanger/Bodø) |
+| *Rogaland* | 002570300 | 58° 39′N, 5° 36′E | 200 | Operativ (MRCC Stavanger) |
+| *Tjøme* | 002570100 | 59° 26′N, 10° 37′E | 200 | Operativ (MRCC Stavanger) |
+| *Vardø* | 002570800 | 70° 22′N, 31° 06′E | 200 | Operativ (MRCC Bodø) |
+| Fjernkontrollerte stasjoner: |  |  |  |  |
+| Berlevåg |  | 70° 52′N, 29° 04′E | 200 |  |
+| Hammerfest |  | 70° 40′N, 23° 40′E | 200 |  |
+| Tromsø |  | 69° 39′N, 18° 57′E | 200 |  |
+| *Russland* (Arktisk kystlinje) |  |  |  |  |
+| Arkhangelsk | 002734414 | 64° 32′N, 40° 32′E | \* | Forsøk (MRSC Arkhangelsk) |
+| Kandalaksha | NI | 67° 08′N, 32° 25′E | 150 | Planlagt (MRSC Arkhangelsk) |
+| Murmansk | 002733744 | 68° 58′N, 33° 01′E | 170 | Operativ (MRCC Murmansk) |
+| \* Beloye More (Hvitehavet) til 66° N |  |  |  |  |
+| *Storbritannia* |  |  |  |  |
+| MRCC Aberdeen | 002320004 | 57° 25′N, 1° 51′W | 150 | Operativ (MRCC Aberdeen) |
+| MRCC Clyde | 002320022 | 55° 58′N, 4° 48′W | 150 | Operativ (MRCC Clyde) |
+| MRCC Falmouth | 002320014 | 50° 08′N, 5° 07′W | 150 | Operativ (MRCC Falmouth) |
+| MRSC Holyhead | 002320018 | 53° 19′N, 4° 38′W | 150 | Operativ (MRSC Holyhead) |
+| MRSC Humber | 002320007 | 55° 05′N, 0° 10′W | 150 | Operativ (MRSC Humber) |
+| MRSC Milford Haven | 002320017 | 51° 41′N, 5° 03′W | 150 | Operativ (MRSC Milford Haven) |
+| MRSC Shetland | 002320001 | 60° 09′N, 1° 08′W | 150 | Operativ (MRSC Shetland) |
+| MRSC Stornoway | 002320024 | 58° 13′N, 6° 20′W | 150 | Operativ (MRSC Stornoway) |
+| MRSC Tyne Tees | 002320006 | 55° 01′N, 1° 25′W | 150 | Operativ (MRSC Tyne Tees) |
+| *Svalbard* (Norge) |  |  |  |  |
+| Svalbard | 002570900 | 78° 02′N, 13° 40′E | 200 | Operativ (MRCC Bodø) |
 
 > Tilføyd ved [forskrift 1 okt 2003 nr. 1205](forskrift/2003-10-01-1205).

@@ -54,6 +54,8 @@ Fagskolestudenter ved OSMAA har rett til å motta undervisning, praksis og veile
 
 ## Kapittel 2. Opptak
 
+Fastsatt med hjemmel i [fagskoleloven § 16](lov/2018-06-08-28/§16) og [fagskoleforskriften § 7](forskrift/2019-07-11-1005/§7).
+
 Nødvendig informasjon og veiledning om utdanningstilbud, opptakskrav, søknadsfrister og skolepenger finnes på hjemmesiden: [https://www.flyosm.com](https://www.flyosm.com).
 
 Søkere gjøres oppmerksom på at arbeidsgivere innen luftfart kan kreve en uttømmende politiattest ved ansettelse.
@@ -119,6 +121,10 @@ Søkere med fullført videregående opplæring utenfor Norge er kvalifisert for 
 ### § 3-2. Karaktersystem
 
 (1) Den faglige avsluttende vurderingen for alle emner på fagskolen vurderes til bestått eller ikke bestått. I teoriemner skal 75 % korrekte svar eller bedre på flervalgsoppgaver vurderes til bestått. På praktiske emner skal karakteren 3, 4 og 5 vurderes til bestått.
+
+Alternativt:
+
+Vurderingsuttrykket ved avsluttende vurdering, eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått eller ikke bestått, eller en gradert skala med fem trinn fra A til E for bestått og med F for ikke bestått. I den graderte karakterskalaen fra A til F skal karakteren C gi uttrykk for en jevnt god prestasjon som er tilfredsstillende på de fleste områder, og karakteren A for en fremragende prestasjon som klart utmerker seg.
 
 (2) For nærmere innhold i karaktersystemet vises det til den enhver tid gjeldende studieplanen.
 

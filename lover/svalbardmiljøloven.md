@@ -856,8 +856,12 @@ Kongen kan gi utfyllende forskrifter til gjennomføring av loven.
 
 Denne lov trer i kraft når Kongen bestemmer.1 Kongen kan fastsette at forskjellige bestemmelser skal tre i kraft til ulik tid.
 
+1 Fra 1 juli 2002 iflg. [res. 28. juni 2002 nr. 648](forskrift/2002-06-28-648).
+
 ### § 102. (overgangsbestemmelser)
 
 Forskrifter gitt i medhold av [lov 17. juli 1925 nr. 11](lov/1925-07-17-11) om Svalbard som vil ha hjemmel i loven her, står fortsatt ved lag inntil Kongen bestemmer annet.
 
 ### § 103. (endringer i andre lover)
+
+– – –

@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer (vareførselsforskriften)](forskrift/2022-10-27-1901) gjøres følgende endringer:
+
+– – –
+
 ## II
 
 Endringen i [§ 4-4-15](forskrift/2022-10-27-1901/§4-4-15) trer i kraft fra 1. desember 2025 og oppheves 1. september 2029.

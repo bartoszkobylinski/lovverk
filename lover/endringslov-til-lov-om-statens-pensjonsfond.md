@@ -24,6 +24,10 @@ eu_basis: []
 
 ## I
 
+I [lov 21. desember 2005 nr. 123 om Statens pensjonsfond](lov/2005-12-21-123) gjøres følgende endring:
+
+[§ 4 tredje ledd nr. 2](lov/2005-12-21-123/§4/ledd/3/nummer/2) skal lyde:
+
 avgiftsinntekter ved utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen
 
 ## II

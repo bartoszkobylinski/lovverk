@@ -34,15 +34,25 @@ Forskriften gjelder for norske skip. Den gjelder også for redningsmidler på no
 
 Med mindre det fremgår noe annet av de enkelte bestemmelser er følgende unntatt fra forskriften:lystfartøy som brukes til ikke-ervervsmessige formål, og som ikke er bemannet med profesjonelt mannskap,slepebåter som opererer i havneområder,flyttbare innretninger i petroleumsvirksomheten på norsk kontinentalsokkel når det kan dokumenteres at disse omfattes av beredskap etablert med hjemmel i § 9-2 i [petroleumsloven1](lov/1996-11-29-72/§9-2) som er minst likeverdig med kravene i denne forskrift,sjøforsvarets fartøyer, dersom de ikke opprettholder sivile sertifikater.
 
+1 [Lov av 29. november 1996 nr. 72](lov/1996-11-29-72) om petroleumsvirksomhet.
+
 ### § 3. Definisjoner
 
 I forskriften menes med:*passasjerskip:* skip som skal ha passasjersertifikat, sikkerhetssertifikat for passasjerskip, sikkerhetssertifikat for hurtiggående passasjerfartøy eller tillatelse til begrenset passasjerbefordring i henhold til sjødyktighetsloven,1*redningsmiddel:* livbåt, redningsbåt, redningsflåter og lettbåt,*rederi:* et fartøys registrerte eier, bortsett fra når fartøyet er leid til totalbefraktning eller helt eller delvis drives av annen fysisk eller juridisk person enn eieren på grunnlag av en driftsavtale; i slike tilfeller skal totalbefrakteren, eventuelt den fysiske eller juridiske personen som driver fartøyet, anses som rederiet,*skipsfører:* den som har høyeste myndighet om bord,*arbeidstaker:* enhver som tar tjeneste på norsk skip, herunder praktikanter og lærlinger, unntatt havneloser og landbasert personell som utfører arbeid om bord på skip som ligger ved kai,*skipsmedisin:* legemidler, medisinsk utstyr mv., jf. de ikke-uttømmende lister i vedlegg 1 og 2,*narkotika:* legemidler som er oppført i narkotikalisten,2 se vedlegg 3,*utlevering:* utlevering av skipsmedisin fra bemyndiget person til rekvirent og pasient og umiddelbar bruk av skipsmedisin av bemyndiget person på pasient,*farlig last:* last som er omtalt som farlig i IMDG-koden, International Maritime Dangerous Goods Code, utgitt av International Maritime Organization (IMO).
 
 > Endret ved forskrifter [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
+1 [Lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighed m.v.2 [Forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)](forskrift/2013-02-14-199).
+
 ### § 4. Fartøygrupper
 
 Med fartøygrupper menes:
+
+*Fartøygruppe A:* Havgående fartøyer herunder fartøyer som driver fiske til havs, uten begrensninger i fartsområde, samt havgående fartøyer som ikke faller inn under fartøygruppe B.
+
+*Fartøygruppe B:* Havgående fartøyer herunder fartøyer som driver fiske til havs, i farvann mindre enn 150 nautiske mil fra nærmeste havn med mulighet for medisinskfaglig assistanse eller 175 nautiske mil fra nærmeste havn med mulighet for medisinskfaglig assistanse dersom de i tillegg kontinuerlig oppholder seg innenfor rekkevidden til en helikoptertjeneste.
+
+*Fartøygruppe C:* Fartøyer som driver havnetrafikk og fartøyer som oppholder seg enten inntil 20 nautiske mil fra grunnlinjen eller som ikke har annen lugarinnretning enn et styrehus.
 
 ## Kap. II. Ansvarsforhold og tilsyn
 
@@ -83,6 +93,8 @@ Fartøy under 15 meter som tilhører fartøygruppe C og fartøy med tillatelse t
 Skipsmedisinenheten skal til enhver tid inneholde tilstrekkelig mengde skipsmedisin. Ved denne vurdering skal det blant annet tas hensyn til antall arbeidstakere, reisens varighet, bestemmelsessted og anløpshavner, typer arbeid som skal utføres i løpet av reisen, lastens art og faktisk fartsområde.
 
 > Endret ved [forskrift 14 juni 2004 nr. 888](forskrift/2004-06-14-888).
+
+1 [Forskrift av 4. november 1981 nr. 3793](forskrift/1981-11-04-3793) om fartsområder.
 
 ### § 10. Tilleggskrav for skip over 500 bruttotonn
 
@@ -140,11 +152,15 @@ Ved innkjøp av skipsmedisin skal skipsfører påse at selger utsteder en forteg
 
 > Endret ved [forskrifter 10 juni 2002 nr. 530](forskrift/2002-06-10-530), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [14 feb 2013 nr. 199](forskrift/2013-02-14-199), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
+1[Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)
+
 ### § 17. Tap av rekvisisjonsrett
 
 Dersom Helsedirektoratet finner at skipsførers eller rederis rekvirering av reseptpliktige legemidler er uforsvarlig, kan dennes rett til å rekvirere reseptpliktige legemidler, gitt i medhold av [forskrift om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977), 1 tilbakekalles.
 
 > Endret ved forskrifter [10 juni 2002 nr. 530](forskrift/2002-06-10-530), [17 jan 2013 nr. 61](forskrift/2013-01-17-61), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
+
+1[Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m.](forskrift/2022-06-02-977)
 
 ## Kap. VI. Oppbevaring av skipsmedisin
 
@@ -200,6 +216,8 @@ Ved destruksjon av legemidler om bord skal dette skje på forsvarlig måte.
 
 > Endret ved [forskrift 14 feb 2013 nr. 199](forskrift/2013-02-14-199).
 
+1 [Lov av 9. juni 1903 nr. 7](lov/1903-06-09-7) om Statskontrol med Skibes Sjødygtighet m.v.
+
 ### § 23. Dokumentasjon
 
 Dokumentasjon på utført ettersyn skal for den enkelte artikkel skipet, herunder redningsmidlene, er pliktig til å medbringe, angi:fastsatt mengde om bord i henhold til denne forskrift,opptalt mengde ved ettersyn ogmerknader om begrenset holdbarhet mv.
@@ -236,6 +254,8 @@ Skipsføreren og de han gir fullmakt til utlevering og bruk av skipsmedisin på 
 
 > Endret ved [forskrift 14 juni 2004 nr. 888](forskrift/2004-06-14-888).
 
+1 [Forskrift 9. mai 2003 nr. 687](forskrift/2003-05-09-687) om kvalifikasjonskrav og sertifikatrettigheter for personell på norske skip, fiske- og fangstfartøyer og flyttbare innretninger.
+
 ## Kap. IX. Diverse bestemmelser
 
 ### § 27. Fravik
@@ -247,6 +267,8 @@ Helsedirektoratet, eller den det gir myndighet, kan når særlige grunner foreli
 ### § 28. Straffebestemmelser
 
 Overtredelse straffes med bøter i henhold til § 339 nr. 2 i straffeloven,1 hvis ikke strengere straff kommer til anvendelse i henhold til annen lovbestemmelse.
+
+1 Den almindelige borgerlige straffelov [av 22. mai 1902 nr. 10](lov/1902-05-22-10).
 
 ### § 29. Ikrafttredelse
 
@@ -270,7 +292,70 @@ Skip som i medhold av første ledd inntil videre ikke er utrustet etter forskrif
 
 ### Vedlegg 1
 
-Legemiddelgrupper som skal inngå i skipsmedisinenhetene, jf. § 9 og redningsmidler, jf. § 13.*Fartøygruppe**Gruppe**A**B**C**Redn.midler A/B**Redn.midler C**1**Legemidler mot hjerte- og karsykdommer*A Hjerte- og kretsløpsstimulerende legemidler – sympatomimetikaxxB Preparater mot angina pectorisxxxxxC Vanndrivende midlerxxD Midler mot blødning, herunder livmorsammentrekkende legemidler, dersom det er kvinner om bordxxxE Blodtrykksenkende legemidlerxxF Midler ved mistanke om blodproppxxxxx*2**Legemidler for mage- og tarmkanal*A Legemidler mot magesår– medisiner for behandling av magesår og gastrittxx– syrenøytraliserende/slimhinnebeskyttendexxB Legemidler mot kvalmexxxC AvføringsmidlerxxD Legemidler mot diarexxxxxE Preparater mot hemoroiderxx*3**Smertestillende legemidler og legemidler mot krampe*A Smertestillende, febernedsettende og antiinflammatoriske legemidlerxxxxxB Sterke smertestillende legemidlerxxxC Krampestillende legemidlerxx*4**Legemidler mot lidelser i sentralnervesystemet*A Beroligende midlerxxB Legemidler mot nervøse lidelserxxC Legemidler mot sjøsykexxxxxD Legemidler mot epilepsixx*5**Legemidler mot allergi og overfølsomhetsreaksjoner*A Antihistaminer til systemisk brukxxB Glukokortikoiderxx*6**Legemidler mot sykdommer i respirasjonsorganene*A Legemidler mot astmaanfallxxB Hostestillende legemidlerxxxC Legemidler mot bihulebetennelse og forkjølelsexxx*7**Legemidler mot infeksjonssykdommer*A Antibiotika (minst 2 klasser )xxB Antiparasittiske midlerxxC Stivkrampevaksine og immunglobylinerxxD Midler mot malaria, transport skal avhenge av operasjonsområdexx*8**Forbindelser beregnet på gjenoppretting av væskebalansen, kaloriinntak og plasmaerstatning*xx*9**Legemidler til utvortes bruk*A Hudmidler– antiseptiske oppløsningerxxxxx– antibiotiske salver/pudderxxx– smertestillende salverxxx– inflammasjonshemmende/kortikosteroiderxx– hudkremer mot soppx– preparat ved hudforbrenningxxxxB Øyemidler– antibiotika og antiinflammatoriskxx– bedøvende øyedråperxx– øyedråper med trykknedsettende, kolinerg virkningxx– saltløsning for øyeskyllingxxxxx– diagnostikax– hypnotiske myotiske dråperC Øremidler– bedøvende og antiinflammatoriske oppløsningerxxD Legemidler mot sykdommer i munnhule og svelg– antiseptisk munnvannxxE Lokalbedøvende midler– lokalbedøvelse ved bruk av frysingx– lokalbedøvelse gitt ved underhudsinjeksjonxx
+Legemiddelgrupper som skal inngå i skipsmedisinenhetene, jf. § 9 og redningsmidler, jf. § 13.
+
+|  |  | *Fartøygruppe* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | *Gruppe* | *A* | *B* | *C* | *Redn.midler A/B* | *Redn.midler C* |
+| *1* | *Legemidler mot hjerte- og karsykdommer* |  |  |  |  |  |
+|  | A Hjerte- og kretsløpsstimulerende legemidler – sympatomimetika | x | x |  |  |  |
+|  | B Preparater mot angina pectoris | x | x | x | x | x |
+|  | C Vanndrivende midler | x | x |  |  |  |
+|  | D Midler mot blødning, herunder livmorsammentrekkende legemidler, dersom det er kvinner om bord | x | x |  | x |  |
+|  | E Blodtrykksenkende legemidler | x | x |  |  |  |
+|  | F Midler ved mistanke om blodpropp | x | x | x | x | x |
+| *2* | *Legemidler for mage- og tarmkanal* |  |  |  |  |  |
+|  | A Legemidler mot magesår |  |  |  |  |  |
+|  | – medisiner for behandling av magesår og gastritt | x | x |  |  |  |
+|  | – syrenøytraliserende/slimhinnebeskyttende | x | x |  |  |  |
+|  | B Legemidler mot kvalme | x | x |  | x |  |
+|  | C Avføringsmidler | x | x |  |  |  |
+|  | D Legemidler mot diare | x | x | x | x | x |
+|  | E Preparater mot hemoroider | x | x |  |  |  |
+| *3* | *Smertestillende legemidler og legemidler mot krampe* |  |  |  |  |  |
+|  | A Smertestillende, febernedsettende og antiinflammatoriske legemidler | x | x | x | x | x |
+|  | B Sterke smertestillende legemidler | x | x |  | x |  |
+|  | C Krampestillende legemidler | x | x |  |  |  |
+| *4* | *Legemidler mot lidelser i sentralnervesystemet* |  |  |  |  |  |
+|  | A Beroligende midler | x | x |  |  |  |
+|  | B Legemidler mot nervøse lidelser | x | x |  |  |  |
+|  | C Legemidler mot sjøsyke | x | x | x | x | x |
+|  | D Legemidler mot epilepsi | x | x |  |  |  |
+| *5* | *Legemidler mot allergi og overfølsomhetsreaksjoner* |  |  |  |  |  |
+|  | A Antihistaminer til systemisk bruk | x | x |  |  |  |
+|  | B Glukokortikoider | x | x |  |  |  |
+| *6* | *Legemidler mot sykdommer i respirasjonsorganene* |  |  |  |  |  |
+|  | A Legemidler mot astmaanfall | x | x |  |  |  |
+|  | B Hostestillende legemidler | x | x | x |  |  |
+|  | C Legemidler mot bihulebetennelse og forkjølelse | x | x | x |  |  |
+| *7* | *Legemidler mot infeksjonssykdommer* |  |  |  |  |  |
+|  | A Antibiotika (minst 2 klasser ) | x | x |  |  |  |
+|  | B Antiparasittiske midler | x | x |  |  |  |
+|  | C Stivkrampevaksine og immunglobyliner | x | x |  |  |  |
+|  | D Midler mot malaria, transport skal avhenge av operasjonsområde | x | x |  |  |  |
+| *8* | *Forbindelser beregnet på gjenoppretting av væskebalansen, kaloriinntak og plasmaerstatning* | x | x |  |  |  |
+| *9* | *Legemidler til utvortes bruk* |  |  |  |  |  |
+|  | A Hudmidler |  |  |  |  |  |
+|  | – antiseptiske oppløsninger | x | x | x | x | x |
+|  | – antibiotiske salver/pudder | x | x | x |  |  |
+|  | – smertestillende salver | x | x | x |  |  |
+|  | – inflammasjonshemmende/kortikosteroider | x | x |  |  |  |
+|  | – hudkremer mot sopp | x |  |  |  |  |
+|  | – preparat ved hudforbrenning | x | x | x | x |  |
+|  | B Øyemidler |  |  |  |  |  |
+|  | – antibiotika og antiinflammatorisk | x | x |  |  |  |
+|  | – bedøvende øyedråper | x | x |  |  |  |
+|  | – øyedråper med trykknedsettende, kolinerg virkning | x | x |  |  |  |
+|  | – saltløsning for øyeskylling | x | x | x | x | x |
+|  | – diagnostika | x |  |  |  |  |
+|  | – hypnotiske myotiske dråper |  |  |  |  |  |
+|  | C Øremidler |  |  |  |  |  |
+|  | – bedøvende og antiinflammatoriske oppløsninger | x | x |  |  |  |
+|  | D Legemidler mot sykdommer i munnhule og svelg |  |  |  |  |  |
+|  | – antiseptisk munnvann | x | x |  |  |  |
+|  | E Lokalbedøvende midler |  |  |  |  |  |
+|  | – lokalbedøvelse ved bruk av frysing | x |  |  |  |  |
+|  | – lokalbedøvelse gitt ved underhudsinjeksjon | x | x |  |  |  |
 
 > Endret ved [forskrifter 13 des 2002 nr. 1638](forskrift/2002-12-13-1638), [21 des 2022 nr. 2433](forskrift/2022-12-21-2433), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
@@ -278,11 +363,239 @@ Legemiddelgrupper som skal inngå i skipsmedisinenhetene, jf. § 9 og redningsmi
 
 Teksten «Brukes etter legeråd» indikerer at disse legemidlene bare bør brukes etter samråd med lege. For enkelte av disse er det indikert et doseringsforslag fordi preparatet i nødstilfelle kan anvendes også dersom man ikke har fått kontakt med lege, eller fordi det ikke vurderes som alvorlig om behandlingen igangsettes før det er konferert med lege.
 
+| Gruppe/Preparat |  | Bruksområde | Dosering | Obs |
+| --- | --- | --- | --- | --- |
+| 1. | LEGEMIDLER MOT HJERTE- OG KARSYKDOMMER |  |  |  |
+| A. | *Hjerte- og karstimulerende legemidler – sympatomimetika* |  |  |  |
+|  | Adrenalin 1mg/ml | Sjokk og blodtrykksfall<br>Livstruende astmaanfall | Brukes etter legeråd.<br>0,2–1 ml injiseres under huden eller i en muskel | Må ikke injiseres i blodårer |
+|  | Digoksin 0,25 mg/ml | Hjertesvikt | Brukes etter legeråd |  |
+|  | Digoksin 0,25 mg tabl. | Hjertesvikt | Brukes etter legeråd |  |
+| B. | *Legemidler mot angina pectoris* |  |  |  |
+|  | Nitroglycerin 0,5 mg tabl. | Hjertekrampe | 1 tablett løses under tungen. Dosen kan om nødvendig gjentas 4–5 ganger i døgnet. | Pakningen må holdes godt tillukket. |
+| C. | *Vanndrivende midler* |  |  |  |
+|  | Furosemid 40 mg tabl. | Hjertesvikt med lungeødem | Brukes etter legeråd.<br>1–4 tabletter avhengig av tilstanden. Virkning inntrer etter ½–1 time |  |
+| D. | *Legemidler mot blødninger, herunder livmorsammentrekkende legemidler, dersom det er kvinner ombord* |  |  |  |
+|  | Tranexaminsyre | Livmorblødninger | Brukes etter legeråd<br>2–3 tabletter 3–4 ganger daglig etter behov. |  |
+| E. | *Blodtrykksenkende legemidler* |  |  |  |
+|  | Propranolol 20 mg tabl. | Høyt blodtrykk | Brukes etter legeråd | Kan utløse astmaanfall hos astmatikere |
+|  | Enalapril 10 mg tabl. | Høyt blodtrykk | Brukes etter legeråd |  |
+| F. | *Legemidler ved mistanke om blodpropp* |  |  |  |
+|  | Acetylsalicylsyre 160 mg tabl. | Hjerteinfarkt og hjernedrypp | Start behandlingen straks ved mistanke om hjerteinfarkt eller hjernedrypp. 2 tabletter tygges. Senere tas 1 tablett daglig, som svelges hel. |  |
+| 2. | LEGEMIDLER FOR MAGE- OG TARMKANAL |  |  |  |
+| A. | *Legemidler mot magesår* |  |  |  |
+|  | Ranitidin 300 mg tabl | Magesår, halsbrann | 1 tablett om kvelden |  |
+|  | Al- og Mg-salter, tabl | Syrenøytraliserende | 1–2 tabletter ved behov. Tygges. |  |
+|  | Al- og Mg-salter, flytende | Syrenøytraliserende | 10 ml ved behov |  |
+| B. | *Legemidler mot kvalme* |  |  |  |
+|  | Metoklopramid 20 mg supp | Mot kvalme | 1 stikkpille i endetarmen inntil 3 ganger daglig |  |
+|  | Metoklopramid 10 mg tabl | Mot kvalme | 1–2 tabletter inntil 3 ganger daglig |  |
+|  | Metoklopramid 5 mg/ml inj. | Mot kvalme | Brukes etter legeråd. 2 ml settes intramuskulært inntil 3 ganger daglig |  |
+| C. | *Avføringsmidler* |  |  |  |
+|  | Engangsklyster | Hurtigvirkende avføringsmiddel | Innholdet i 1 tube tømmes i endetarmen. Virkning inntrer etter 5–15 minutter. |  |
+|  | Laktulose 667 mg/ml flytende | Avføringsmiddel | Mildt avføringsmiddel. 15–30 ml daglig. Virkning inntrer etter 2–4 døgn. | Behandlingen er avhengig av rikelig vanntilførsel (minst 2 liter daglig). |
+|  | Sennaglykosid tabl | Avføringsmiddel | 2–4 tabletter som engangsdose. Virkning inntrer normalt etter 6–8 timer. |  |
+| D. | *Legemidler mot diare* |  |  |  |
+|  | Loperamid 2 mg tabl | Vedvarende og sterk diare uten feber | 2 tabletter først, deretter 1 tablett etter hver løs avføring. Maksimalt 8 tabletter i døgnet. Start behandlingen først etter at tarmen er tømt. | Diare som vedvarer over en uke krever legekontroll |
+|  | Medisinsk kull, flytende | Diare/matforgiftning | 15–45 ml en til flere ganger daglig. Start behandlingen først etter at tarmen er tømt. | Diare som vedvarer over en uke krever legekontroll. Kull vil gi redusert virkning av andre legemidler. |
+| E. | *Legemidler mot tarmsykdommer* |  |  |  |
+|  | Se gruppe 7 E |  |  |  |
+| F. | *Legemidler mot hemoroider* |  |  |  |
+|  | Prednisolon, cinkain, clemizol salve | Mot hemorroider | Påsmøres 2–4 ganger daglig i og rundt endetarmsåpningen. |  |
+| 3. | SMERTESTILLENDE LEGEMIDLER OG LEGEMIDLER MOT KRAMPE |  |  |  |
+| A. | *Smertestillende, febernedsettende og antiinflammatoriske legemidler* |  |  |  |
+|  | Paracetamol 500mg tabl | Lettere til moderate smerter. Febernedsettende | 1–2 tabletter 1–3 ganger daglig |  |
+|  | Naproxen 250 mg enterotabl | Seneskjedebetennelse Muskelskade med sterk hevelse | 2 tabletter i første dose, deretter 1 tablett 3 ganger daglig i 3–10 dager. Svelges hele. | Kan gi alvorlige bivirkninger. Skal ikke brukes ved magesmerter eller hos personer som har eller har hatt magesår. |
+|  | Kodeinfosfat/paracetamol tabl | Moderate til sterke smerter | Brukes etter legeråd. 1–2 tabletter 1–3 ganger daglig. |  |
+|  | Dikofenak 25 mg/ml inj | Nyresten/gallesten-<br>smerter | Brukes etter legeråd |  |
+| B. | *Sterke smertestillende legemidler* |  |  |  |
+|  | Morfin 10 mg/ml inj | Meget sterke smerter | Brukes etter legeråd. Virketid 3–5 timer | Forsiktighet ved gjentatt dosering<br>– overdoseringsfare. |
+|  | Morfin 10 mg/ml ampiner | Meget sterke smerter | Brukes etter legeråd. 1 ampin injiseres under huden eller i en muskel. | Forsiktighet ved gjentatt dosering<br>– overdoseringsfare. |
+|  | Buprenorfin 0,2 mg resoriblett | Meget sterke smerter | Brukes etter legeråd. Legges under tungen. |  |
+|  | Kodeinfosfat/paracetamol supp | Meget sterke smerter | Brukes etter legeråd. Settes i endetarmen | Forsiktighet ved gjentatt dosering<br>– overdoseringsfare. |
+| C. | *Krampestillende legemidler* |  |  |  |
+|  | Diazepam 4 mg/ml klyster | Krampetilstander/<br>epilepsi | Brukes etter legeråd. Innholdet i 1–2 klyster tømmes i endetarmen. Denne dose kan eventuelt gjentas. | Kan under vanskelige forhold gis gjennom munnen sammen med drikke. |
+| 4. | LEGEMIDLER MOT LIDELSER I SENTRALNERVESYSTEMET |  |  |  |
+| A. | *Beroligende legemidler* |  |  |  |
+|  | Diazepam 5 mg tabl | Nervøse spenningstilstander. | Brukes etter legeråd. Beroligende: ½–1 tablett inntil 3 ganger daglig. Innsovning: 1 tablett før sengetid. | Skal kun benyttes i kort tid. Vanedannende. |
+| B. | *Legemidler mot nervøse lidelser* |  |  |  |
+|  | Klorpromazin 25 mg tabl | Alvorlige urotilstander | Brukes etter legeråd. 1–2 tabletter 3 ganger daglig. |  |
+|  | Levomepromazin 25 mg/ml inj. | Alvorlige urotilstander | Brukes etter legeråd. |  |
+| C. | *Legemidler ved sjøsyke* |  |  |  |
+|  | Meklozin 25 mg tabl | Sjøsyke | 1 tablett 1–2 ganger i døgnet. |  |
+| D. | *Legemidler mot epilepsi* |  |  |  |
+|  | Se gruppe 3 C. |  |  |  |
+| 5. | LEGEMIDLER MOT ALLERGI OG OVERFØLSOMHETSREAKSJONER |  |  |  |
+| A. | *Antihistaminer* |  |  |  |
+|  | Loratidin 10 mg tabl | Allergi | 1 tablett daglig |  |
+| B. | *Glukokortikoider* |  |  |  |
+|  | Hydrokortison 250 mg inj. | Mot sjokk og blodtrykksfall og kraftig astmaanfall | Brukes etter legeråd. Tilleggspreparat når adrenalin 1 mg/ml inj. ikke gir tilstrekkelig effekt. Doseres individuelt. Injiseres i en muskel eller vene. | Hvert ampullesett blandes umiddelbart før bruk. |
+| 6. | LEGEMIDLER MOT SYKDOMMER I RESPIRASJONSORGANENE |  |  |  |
+| A. | *Legemidler mot astmaanfall* |  |  |  |
+|  | Salbutamol 0,1 mg inhal. | Astmaanfall | Brukes etter legeråd. 1–2 inhalasjoner inntil hver 4. time ved behov. Omrystes. |  |
+|  | Prednisolon 5 mg tabl | Alvorlig astma | Brukes etter legeråd |  |
+| B. | *Hostestillende legemidler* |  |  |  |
+|  | Noskapin 50 mg tabl | Tørrhoste | 1 tablett 3 ganger daglig. |  |
+|  | Kodein 25 mg tabl | Kraftig tørrhoste | 1–2 tabletter inntil 3 ganger daglig. |  |
+| C. | *Legemidler mot bihulebetennelse og forkjølelse* |  |  |  |
+|  | Fenylpropanolamin 50 mg tabl. | Slimhinneavsvellende ved tetthet i nese, bihuler og øregang | 1 tablett morgen og kveld. Svelges hele. |  |
+|  | Oksymetazolin 0,5 mg/ml nesedr. | Nesetetthet | 3 dråper (=1/2 endosebeholder) i hvert nesebor 2–3 ganger i døgnet. | Bør ikke brukes mer enn en uke ad gangen. |
+|  | Ved infeksjoner, se gruppe 7 |  |  |  |
+| 7. | LEGEMIDLER MOT INFEKSJONSSYKDOMMER |  |  |  |
+| A. | *Antibiotika (minst 2klasser)* |  |  |  |
+|  | Fenoksymetyl-<br>penicillin 660 mg tabl | Infeksjon | Brukes etter legeråd.<br>2 tabletter morgen og kveld | Spør alltid om tidligere allergi mot antibiotika. |
+|  | Erytromycin 250 mg tabl | Infeksjon | Brukes etter legeråd.<br>1 tablett 4 ganger daglig | Spør alltid om tidligere allergi mot antibiotika. |
+|  | Amoxicillin 250 mg tabl | Infeksjon | Brukes etter legeråd.<br>1 tablett 3 ganger daglig | Spør alltid om tidligere allergi mot antibiotika. |
+|  | Doxycillin 100 mg tabl | Infeksjon | Brukes etter legeråd.<br>2 tabletter i første dose,<br>deretter 1 tablett daglig | Spør alltid om tidligere allergi mot antibiotika. |
+|  | Benzylpenicillin-<br>natrium 600 mg inj<br>NB: sterilt vann | Infeksjon | Brukes etter legeråd | Spør alltid om tidligere allergi mot antibiotika. |
+|  | Ciprofloxacin 250 mg tabl | Infeksjon | Brukes etter legeråd.<br>1 tablett 2 ganger daglig | Spør alltid om tidligere allergi mot antibiotika. |
+| B. | *Antiparasittiske midler* |  |  |  |
+|  | *Midler mot malaria (dersom man trafikkerer områder med malariasmitte)* |  |  |  |
+|  | Klorokinfosfat 250<br>mg tabl | Malariaforebyggende | 2 tabletter i uken på fast ukedag. Tas fra en uke før ankomst til malariaområdet, under oppholdet og 4 uker etter at området er forlatt. | Sjekk mulig resistens i området. |
+|  | Proguanil 100 mg tabl | Malariaforebyggende | 2 tabletter daglig. Tas fra en uke før ankomst til malariaområdet, under oppholdet og 4 uker etter at området er forlatt. | Sjekk mulig resistens i området. |
+|  | Meflokin 250 mg tabl. | Malariaforebyggende | 1 tablett i uken på fast ukedag. Tas fra en uke før ankomst til malariaområdet, under oppholdet og 4 uker etter at området er forlatt. | Sjekk mulig resistens i området. |
+|  | *Midler mot lus og skabb* |  |  |  |
+|  | Malation 0,5 % liniment | Lusemiddel | Innsmøres i tørt hår og hodebunn. Lufttørres. Vask av med alminnelig sjampo etter 12 timer. Behandlingen gjentas etter 8–12 dager. |  |
+|  | Permetrin 5 % krem | Skabbmiddel | Hele kroppen unntatt hodet inngnis. Vaskes av etter 8–15 timer, senest innen 24 timer |  |
+| C. | *Stivkrampevaksine og immunoglobuliner* |  |  |  |
+|  | Difteri/tetanus vaksine | Vaksine mot stivkrampe og difteri | Brukes etter legeråd. |  |
+|  | Tetanus immunglobulin | Immunglobulin | Brukes etter legeråd. |  |
+| 8. | FORBINDELSER BEREGNET PÅ GJENOPPRETTING AV VÆSKEBALANSEN, KALORIINNTAK OG PLASMAERSTATNING |  |  |  |
+|  | Glukose 50 mg/ml inf | Erstatter væske- og blodtap | Brukes etter legeråd. Doseres etter pasientens tilstand |  |
+|  | Natriumklorid 9 mg/ml inf | Erstatter væske- og blodtap | Brukes etter legeråd.<br>Doseres etter pasientens tilstand |  |
+|  | Plasmasubstitutt (for eksempel Haemaccel 3,5 % inf) | Erstatter væske- og blodtap | Brukes etter legeråd.<br>Doseres etter pasientens tilstand |  |
+|  | Elektrolytter/karbo-<br>hydrater<br>(for eksempel GEM 5 × 30g pulver) | Erstatter væske- og salttap etter diare. | Følg pakkens veiledning |  |
+|  | Natriumklorid 500 mg tabl. | Erstatter salttap ved kraftig svette | 1 tablett per ½ liter vann som drikkes. |  |
+| 9. | LEGEMIDLER TIL UTVORTES BRUK |  |  |  |
+| A. | *Hudmidler* |  |  |  |
+|  | *Antiseptiske oppløsninger* |  |  |  |
+|  | Klorhexidin 1 mg/ml vanndig oppl. | Sårvask | Utvortes til vask av overflatiske sår og brannskader | Må ikke brukes i eller omkring øynene |
+|  | *Antibiotiske salver/pudder* |  |  |  |
+|  | Bacitracin/klorhexidin salve | Hudinfeksjon | Påsmøres 1–2 ganger daglig ved infisert hud. |  |
+|  | Natriumfucidat 2 % salve | Sterkt infisert hud | Påsmøres 2 ganger daglig ved sterkt infiserte sår. |  |
+|  | Natriumfucidat gas 10 × 10 cm | Sterkt infisert hud og mindre brannskader | En salvekompress legges på såret. En steril kompress legges over og festes med plaster, gasbind eller nettbandasje. |  |
+|  | *Smertestillende salver* |  |  |  |
+|  | Lidocain 5 % krem | Smertestillende salve | Påføres ved sol- eller manetforbrenning, mindre forbrenninger av 1.grad, insektstikk og liknende | Må ikke brukes i åpne sår |
+|  | *Inflammasjonshemmende/kortikosteroider* |  |  |  |
+|  | Ketoprofen gel | Smerte/inflammasjon i sener/muskler | Masseres godt inn i det smertefulle området 2–3 ganger daglig i høyst 7 dager |  |
+|  | Hydrokortison 1 % krem | Mild eksemsalve | Påsmøres i tynt lag 2 ganger daglig | Skal ikke brukes på infisert hud. |
+|  | Desonid 0,1 % krem | Middels sterk eksemsalve | Brukes etter legeråd. Påsmøres i tynt lag 2 ganger daglig | Skal ikke brukes på infisert hud. |
+|  | *Hudkremer mot sopp* |  |  |  |
+|  | Klotrimazol 1 % krem | Hudsopp | Gnis godt inn på de angrepne områdene 2–3 ganger daglig. Behandlingstiden må normalt være 3–4 uker. For å unngå tilbakefall bør behandlingen fortsette i 2–4 uker etter oppnådd symptomfrihet. |  |
+|  | Klotrimazol 1 % pudder | Hudsopp | Anvendes sammen med krem mot sopp. Pudder drysses i sko og strømper mot fotsopp. |  |
+|  | *Legemiddel ved hudforbrenning* |  |  |  |
+|  | Sølvsulfadiazin 1 % krem | Forebygger infeksjoner ved alvorlig brannskade | Brukes etter legeråd. Påføres i et 3–5 mm tykt lag. Kremen vaskes av daglig med sterilt vann før ny påføring. | Anvend steril spatel eller steril hanske ved påføringen. |
+| B. | *Øyemidler* |  |  |  |
+|  | *Antibiotika og antiinflammatorisk* |  |  |  |
+|  | Dexametason 0,1 %/<br>kloramfenikol 1 % øyedråper | Betennelses-<br>dempende øyedråper | Brukes etter legeråd.<br>1 dråpe i øyet 3–4 ganger daglig | Flasken brukes kun til en person. |
+|  | *Bedøvende øyedråper* |  |  |  |
+|  | Oksybuprokain 4 mg/ml endose | Øyebedøvelse | 1–2 dråper dryppes i øyet for overflatebedøvelse | Må bare benyttes for fjerning av fremmedlegeme fra øyet. Øyet må deretter holdes tildekket så lenge bedøvelsen virker. |
+|  | *Øyedråper med trykknedsettende, kolinerg virkning* |  |  |  |
+|  | Pilokarpin 2 % øyedråper | Grønn stær | Brukes etter legeråd |  |
+|  | *Saltløsning for øyeskylling* |  |  |  |
+|  | Natriumklorid 0,9 % oppløsning | Øyeskylling | Til bading eller skylling av øynene |  |
+|  | *Diagnostika* |  |  |  |
+|  | Fluoresceinnatrium 2 % endose | Påvisning av hornhinneskader og fremmedlegemer i øyet (fiskerisp) | Brukes etter legeråd.<br>1–2 dråper dryppes i øyet | Hver beholder brukes bare en gang. |
+| C. | *Øremidler* |  |  |  |
+|  | *Bedøvende og antiinflammatoriske oppløsninger* |  |  |  |
+|  | Hydrokortison/oksy<br>tetracyklin/Polymyxin<br>B øredråper | Øreinfeksjon | Brukes etter legeråd.<br>2–4 dråper i ytre øregang 3 ganger daglig |  |
+| D. | *Legemiddel mot sykdommer i munnhule og svelg* |  |  |  |
+|  | *Antiseptisk munnvann* |  |  |  |
+|  | Klorhexidin 2 mg/ml | Antiseptisk munnvann | 10 ml skylles i munnen i ett minutt 2 ganger daglig |  |
+| E. | *Lokalbedøvende midler (se også 9 A)* |  |  |  |
+|  | *Virker ved nedkjøling* |  |  |  |
+|  | Isposer – se vedlegg 2 |  |  |  |
+|  | *Gis ved underhudsinjeksjon* |  |  |  |
+|  | Lidokain 20 mg/ml inj | Lokalbedøvelse | Brukes etter legeråd.<br>1–5 ml injiseres under huden før visse smertefulle inngrep |  |
+
 > Endret ved [forskrifter 13 des 2002 nr. 1638](forskrift/2002-12-13-1638), [8 sep 2004 nr. 1250](forskrift/2004-09-08-1250), [22 aug 2005 nr. 908](forskrift/2005-08-22-908), [21 des 2022 nr. 2433](forskrift/2022-12-21-2433), [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
 ### Vedlegg 2
 
-Medisinsk materiell som skal inngå i skipsmedisinenhetene, jf. § 9 og redningsmidler, jf. § 13.*Fartøygruppe**A**B**C**Redn.midler A/B**Redn.midler C**1**Gjenopplivningsutstyr*Oksygenapparat m/bag og ansiktsmaske (over 2 liter)xxEkstra oksygenapparatxxMekanisk sugeapparat for rensing av luftveierxxLommemaskerxxx*2**Forbindingssaker og suturutstyr*TurnikéxxxStiftemaskin for sutur, ev. sutursett med nålerxxElastisk heftbandasjexxxxxElastisk gasbindxxxTubegas for finger med applikatorxSterile gaskompresserxxxxxSteril absorberende kompressxxSterile gastupferxxSterilt laken til bruk ved forbrenningerxxTrekanttørklexxEngangshanskerxxxxxHeftplasterxxxxxSterile kompresjonsbandasjerxxxxxSuturtapexxxxxIkke absorberbar sutur med nålxVaselinimpregnert gasbindxxFingersmokkerxxxHodebandasjexxØyekompressxxØyebeskytter, sortxxSportstapexxxSuspensorium, mediumxxSikkerhetsnålerxxxxx*3**Instrumenter*EngangsskalpellerxInstrumentskrin laget av egnet materialexxBandasjesaksxxKirurgisk saksxxPinsetterxxArterieklemmerxxNåleholderexEngangsbarberhøvelxØyemagnetx*4**Utstyr for legeundersøkelse og -kontroll*Tungespatler for engangsbrukxxTeststrimler for analyse av urin (protein, glukose, blod, ketoner)xLukkbare poser av plast med skrivefelt («tablettposer») eller lignendexxSkjema for feber- eller temperaturkurvexDiagnosekort ved evakueringxxStetoskopxxBlodtrykksmålerxxFebertermometerxxHypotermisk termometerxxLommelykt for diagnosebruk («pennlykt»)xxxHurtigtest for malaria, transport skal avhenge av operasjonsområde*5**Utstyr for injeksjon, perfusjon, punktur og innføring av katetere*Kateteriseringssett (egnet for menn og kvinner)xVenekanylerxxEngangssprøyter med kanylexxInjeksjonstørk (for huddesinfeksjon)xxIntravenøst infusjonssettxx*6**Vanlig medisinsk utstyr*Personlig medisinsk verneutstyr og sykepleieutstyrxxPussbekkenxStikkbekkenxVarmeflaskexUrinflaskexIsposexCold/hot omslagxxBomullspinnerxxHørselvern/ørepropperxxxSolbriller (herrestr.)xØyebadeglass (plast/glass)xxxØyelapp, sortxxTannfyllmassexTannpleiesettx*7**Utstyr for avstiving og spjelking*Sett med skinner i forskjellige størrelser for ekstremiteterxxAvstivet nakkekragexxBåre med avstiving for rygg og nakke egnet for helikopterløftxx*8**Desinfisering, insektsbekjemping og profylakse*Desinfeksjonsmiddel for rengjøring av utstyr, benkeflater mmxxDesinfeksjonsmiddel for drikkevannxInsekticidmiddelx
+Medisinsk materiell som skal inngå i skipsmedisinenhetene, jf. § 9 og redningsmidler, jf. § 13.
+
+|  |  | *Fartøygruppe* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | *A* | *B* | *C* | *Redn.midler A/B* | *Redn.midler C* |
+| *1* | *Gjenopplivningsutstyr* |  |  |  |  |  |
+|  | Oksygenapparat m/bag og ansiktsmaske (over 2 liter) | x | x |  |  |  |
+|  | Ekstra oksygenapparat | x | x |  |  |  |
+|  | Mekanisk sugeapparat for rensing av luftveier | x | x |  |  |  |
+|  | Lommemasker | x | x | x |  |  |
+| *2* | *Forbindingssaker og suturutstyr* |  |  |  |  |  |
+|  | Turniké | x | x | x |  |  |
+|  | Stiftemaskin for sutur, ev. sutursett med nåler | x | x |  |  |  |
+|  | Elastisk heftbandasje | x | x | x | x | x |
+|  | Elastisk gasbind | x | x |  | x |  |
+|  | Tubegas for finger med applikator | x |  |  |  |  |
+|  | Sterile gaskompresser | x | x | x | x | x |
+|  | Steril absorberende kompress | x | x |  |  |  |
+|  | Sterile gastupfer | x | x |  |  |  |
+|  | Sterilt laken til bruk ved forbrenninger | x | x |  |  |  |
+|  | Trekanttørkle | x | x |  |  |  |
+|  | Engangshansker | x | x | x | x | x |
+|  | Heftplaster | x | x | x | x | x |
+|  | Sterile kompresjonsbandasjer | x | x | x | x | x |
+|  | Suturtape | x | x | x | x | x |
+|  | Ikke absorberbar sutur med nål | x |  |  |  |  |
+|  | Vaselinimpregnert gasbind | x | x |  |  |  |
+|  | Fingersmokker | x | x | x |  |  |
+|  | Hodebandasje | x | x |  |  |  |
+|  | Øyekompress | x | x |  |  |  |
+|  | Øyebeskytter, sort | x | x |  |  |  |
+|  | Sportstape | x | x | x |  |  |
+|  | Suspensorium, medium | x | x |  |  |  |
+|  | Sikkerhetsnåler | x | x | x | x | x |
+| *3* | *Instrumenter* |  |  |  |  |  |
+|  | Engangsskalpeller | x |  |  |  |  |
+|  | Instrumentskrin laget av egnet materiale | x | x |  |  |  |
+|  | Bandasjesaks | x | x |  |  |  |
+|  | Kirurgisk saks | x | x |  |  |  |
+|  | Pinsetter | x | x |  |  |  |
+|  | Arterieklemmer | x | x |  |  |  |
+|  | Nåleholdere | x |  |  |  |  |
+|  | Engangsbarberhøvel | x |  |  |  |  |
+|  | Øyemagnet | x |  |  |  |  |
+| *4* | *Utstyr for legeundersøkelse og -kontroll* |  |  |  |  |  |
+|  | Tungespatler for engangsbruk | x | x |  |  |  |
+|  | Teststrimler for analyse av urin (protein, glukose, blod, ketoner) | x |  |  |  |  |
+|  | Lukkbare poser av plast med skrivefelt («tablettposer») eller lignende | x | x |  |  |  |
+|  | Skjema for feber- eller temperaturkurve | x |  |  |  |  |
+|  | Diagnosekort ved evakuering | x | x |  |  |  |
+|  | Stetoskop | x | x |  |  |  |
+|  | Blodtrykksmåler | x | x |  |  |  |
+|  | Febertermometer | x | x |  |  |  |
+|  | Hypotermisk termometer | x | x |  |  |  |
+|  | Lommelykt for diagnosebruk («pennlykt») | x | x | x |  |  |
+|  | Hurtigtest for malaria, transport skal avhenge av operasjonsområde |  |  |  |  |  |
+| *5* | *Utstyr for injeksjon, perfusjon, punktur og innføring av katetere* |  |  |  |  |  |
+|  | Kateteriseringssett (egnet for menn og kvinner) | x |  |  |  |  |
+|  | Venekanyler | x | x |  |  |  |
+|  | Engangssprøyter med kanyle | x | x |  |  |  |
+|  | Injeksjonstørk (for huddesinfeksjon) | x | x |  |  |  |
+|  | Intravenøst infusjonssett | x | x |  |  |  |
+| *6* | *Vanlig medisinsk utstyr* |  |  |  |  |  |
+|  | Personlig medisinsk verneutstyr og sykepleieutstyr | x | x |  |  |  |
+|  | Pussbekken | x |  |  |  |  |
+|  | Stikkbekken | x |  |  |  |  |
+|  | Varmeflaske | x |  |  |  |  |
+|  | Urinflaske | x |  |  |  |  |
+|  | Ispose | x |  |  |  |  |
+|  | Cold/hot omslag | x | x |  |  |  |
+|  | Bomullspinner | x | x |  |  |  |
+|  | Hørselvern/ørepropper | x | x | x |  |  |
+|  | Solbriller (herrestr.) | x |  |  |  |  |
+|  | Øyebadeglass (plast/glass) | x | x | x |  |  |
+|  | Øyelapp, sort | x | x |  |  |  |
+|  | Tannfyllmasse | x |  |  |  |  |
+|  | Tannpleiesett | x |  |  |  |  |
+| *7* | *Utstyr for avstiving og spjelking* |  |  |  |  |  |
+|  | Sett med skinner i forskjellige størrelser for ekstremiteter | x | x |  |  |  |
+|  | Avstivet nakkekrage | x | x |  |  |  |
+|  | Båre med avstiving for rygg og nakke egnet for helikopterløft | x | x |  |  |  |
+| *8* | *Desinfisering, insektsbekjemping og profylakse* |  |  |  |  |  |
+|  | Desinfeksjonsmiddel for rengjøring av utstyr, benkeflater mm | x | x |  |  |  |
+|  | Desinfeksjonsmiddel for drikkevann | x |  |  |  |  |
+|  | Insekticidmiddel | x |  |  |  |  |
 
 > Endret ved forskrift [21 des 2022 nr. 2433](forskrift/2022-12-21-2433).
 
@@ -292,7 +605,28 @@ Legemidler som skal føres i kontrollbok ved rekvirering, jf. [§ 16](forskrift/
 
 For fartøygruppe A, B og C er det oppgitte antall pakninger pr. 15 personer (mannskap).
 
-For redningsmidler er det oppgitte antall pakninger for redningsmidler sertifisert for inntil 25 personer.*Fartøygruppe**Gruppe**Enhet**A**B**C**Redn.midler A/B**Redn.midler C**3**Smertestillende legemidler og legemidler mot krampe*A Smertestillende, febernedsettende og antiinflammatoriske legemidlerKodeinfosfat (maks. 30 mg)/paracetamol tab.NB20 tab.32Kodeinfosfat (maks. 30 mg)/paracetamol tab.NB50 tab.1B Sterke smertestillende legemidlerMorfin 10 mg/ml injeksjonNB10 x1 ml11Morfin 10 mg ampinerNBstk6Buprenorfin 0,2 mg resoribletterNB10 tab.11Kodeinfosfat (maks. 60 mg)/paracetamol (maks. 800 mg) stikkpillerNB10 stikkp.11C Krampestillende legemidlerDiazepam 4 mg/ml klysterNB5x2,5 ml22*4**Legemidler mot lidelser i sentralnervesystemet*A Beroligende midlerDiazepam 5 mg tab.NB20 tab.321*6**Legemidler mot sykdommer i respirasjonsorganene*B Hostestillende legemidlerKodeinfosfat 25 mg tab.NB20 tab.21
+For redningsmidler er det oppgitte antall pakninger for redningsmidler sertifisert for inntil 25 personer.
+
+|  |  |  |  | *Fartøygruppe* |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | *Gruppe* | *Enhet* |  | *A* | *B* | *C* | *Redn.midler A/B* | *Redn.midler C* |
+| *3* | *Smertestillende legemidler og legemidler mot krampe* |  |  |  |  |  |  |  |
+|  | A Smertestillende, febernedsettende og antiinflammatoriske legemidler |  |  |  |  |  |  |  |
+|  | Kodeinfosfat (maks. 30 mg)/paracetamol tab. | NB | 20 tab. | 3 | 2 |  |  |  |
+|  | Kodeinfosfat (maks. 30 mg)/paracetamol tab. | NB | 50 tab. |  |  |  | 1 |  |
+|  | B Sterke smertestillende legemidler |  |  |  |  |  |  |  |
+|  | Morfin 10 mg/ml injeksjon | NB | 10 x1 ml | 1 | 1 |  |  |  |
+|  | Morfin 10 mg ampiner | NB | stk |  |  |  | 6 |  |
+|  | Buprenorfin 0,2 mg resoribletter | NB | 10 tab. | 1 | 1 |  |  |  |
+|  | Kodeinfosfat (maks. 60 mg)/paracetamol (maks. 800 mg) stikkpiller | NB | 10 stikkp. | 1 | 1 |  |  |  |
+|  | C Krampestillende legemidler |  |  |  |  |  |  |  |
+|  | Diazepam 4 mg/ml klyster | NB | 5x2,5 ml | 2 | 2 |  |  |  |
+| *4* | *Legemidler mot lidelser i sentralnervesystemet* |  |  |  |  |  |  |  |
+|  | A Beroligende midler |  |  |  |  |  |  |  |
+|  | Diazepam 5 mg tab. | NB | 20 tab. | 3 | 2 |  | 1 |  |
+| *6* | *Legemidler mot sykdommer i respirasjonsorganene* |  |  |  |  |  |  |  |
+|  | B Hostestillende legemidler |  |  |  |  |  |  |  |
+|  | Kodeinfosfat 25 mg tab. | NB | 20 tab. | 2 | 1 |  |  |  |
 
 > Endret ved forskrift [29 okt 2024 nr. 2589](forskrift/2024-10-29-2589).
 
@@ -304,7 +638,11 @@ Dette unntaket omfatter innretninger som har gyldig samtykke til petroleumsvirks
 
 ### Til § 3
 
+*Til [§ 3](forskrift/2001-03-09-439/§3) bokstav f*
+
 Inkluderer antidoter, dvs de legemidlene som er angitt som nødvendige for å behandle forgiftningstilfelle angitt i MFAG, jf. [§ 25](forskrift/2001-03-09-439/§25).
+
+*Til [§ 3](forskrift/2001-03-09-439/§3) bokstav g*
 
 De aktuelle legemidler vil falle inn under utleveringsgruppe A eller B i Norge, og er oppført i vedlegg 3. Skipsfører må være spesielt oppmerksom på at eventuelt innkjøp av andre sterke smertestillende eller beroligende medikamenter enn de oppført i vedlegg 3, kan omfattes av denne definisjonen og at det følgelig stilles særskilte krav til oppbevaring, bokføringsplikt osv.
 

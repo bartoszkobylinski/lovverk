@@ -227,3 +227,5 @@ Reglane i [folketrygdlova §§ 21-10](lov/1997-02-28-19/§21-10), [21-11](lov/19
 ### § 24. Når lova tek til å gjelde
 
 Lova tek til å gjelde frå det tidspunktet Kongen bestemmer.1
+
+1 Frå 1 jan 2006 iflg. [res. 16 des 2005 nr. 1561](forskrift/2005-12-16-1561).

@@ -323,3 +323,5 @@ Denne lov trer i kraft fra den tid Kongen bestemmer.1
 Fra det tidspunkt loven trer i kraft gjøres følgende endringer i de lover som er nevnt nedenfor: – – –
 
 > Endret ved lover [15 apr 2005 nr. 17](lov/2005-04-15-17) (ikr. 1 jan 2006 iflg. [res. 15 apr 2005 nr. 339](forskrift/2005-04-15-339), tidligere § 29), [20 des 2018 nr. 114](lov/2018-12-20-114) (tidligere § 28).
+
+1 Fra 1 jan 1981 iflg. res. 31 okt 1980.

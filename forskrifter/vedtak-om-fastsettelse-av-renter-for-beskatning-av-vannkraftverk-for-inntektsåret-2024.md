@@ -22,12 +22,12 @@ eu_basis: []
 
 # Vedtak om fastsettelse av renter for beskatning av vannkraftverk for inntektsåret 2024
 
-1. Den normerte risikofrie renten settes til 4,3 prosent, jf. [forskrift til skatteloven (FSFIN) § 18-8-1](forskrift/1999-11-19-1158/§18-8-1).
+1\. Den normerte risikofrie renten settes til 4,3 prosent, jf. [forskrift til skatteloven (FSFIN) § 18-8-1](forskrift/1999-11-19-1158/§18-8-1).
 
-2. Rentesatsen for fremføring av ubenyttet fradrag for naturressursskatt etter [skatteloven § 18-2 fjerde ledd fjerde punktum](lov/1999-03-26-14/§18-2/ledd/4/setning/4) settes til 3,7 prosent, jf. [FSFIN § 18-8-2](forskrift/1999-11-19-1158/§18-8-2).
+2\. Rentesatsen for fremføring av ubenyttet fradrag for naturressursskatt etter [skatteloven § 18-2 fjerde ledd fjerde punktum](lov/1999-03-26-14/§18-2/ledd/4/setning/4) settes til 3,7 prosent, jf. [FSFIN § 18-8-2](forskrift/1999-11-19-1158/§18-8-2).
 
-3. Rentesatsen for friinntekt etter [skatteloven § 18-3 tredje ledd bokstav b](lov/1999-03-26-14/§18-3/ledd/3/bokstav/b) settes til 3,4 prosent, jf. [FSFIN § 18-8-3 første punktum](forskrift/1999-11-19-1158/§18-8-3/setning/1).
+3\. Rentesatsen for friinntekt etter [skatteloven § 18-3 tredje ledd bokstav b](lov/1999-03-26-14/§18-3/ledd/3/bokstav/b) settes til 3,4 prosent, jf. [FSFIN § 18-8-3 første punktum](forskrift/1999-11-19-1158/§18-8-3/setning/1).
 
-4. Renten for fremføring av negativ grunnrente etter [skatteloven § 18-3 fjerde ledd annet punktum](lov/1999-03-26-14/§18-3/ledd/4/setning/2) settes til 4,9 prosent, jf. [FSFIN § 18-8-3 annet punktum](forskrift/1999-11-19-1158/§18-8-3/setning/2).
+4\. Renten for fremføring av negativ grunnrente etter [skatteloven § 18-3 fjerde ledd annet punktum](lov/1999-03-26-14/§18-3/ledd/4/setning/2) settes til 4,9 prosent, jf. [FSFIN § 18-8-3 annet punktum](forskrift/1999-11-19-1158/§18-8-3/setning/2).
 
-5. Renten etter [skatteloven § 18-3 niende ledd bokstav a](lov/1999-03-26-14/§18-3/ledd/9/bokstav/a) settes til 3,4 prosent, jf. [FSFIN § 18-8-3 tredje punktum](forskrift/1999-11-19-1158/§18-8-3/setning/3).
+5\. Renten etter [skatteloven § 18-3 niende ledd bokstav a](lov/1999-03-26-14/§18-3/ledd/9/bokstav/a) settes til 3,4 prosent, jf. [FSFIN § 18-8-3 tredje punktum](forskrift/1999-11-19-1158/§18-8-3/setning/3).

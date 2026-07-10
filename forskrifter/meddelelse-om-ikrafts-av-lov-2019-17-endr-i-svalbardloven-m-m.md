@@ -27,3 +27,5 @@ De bestemmelsene som endrer [Svalbardloven § 29](lov/1925-07-17-11/§29) andre 
 De bestemmelsene som endrer § 40 og § 41 bokstav b, j og k, settes i kraft 1. januar 2020. Det samme gjelder bestemmelsen som opphever § 43 for den delen som viser til kommuneloven § 60. Fra dette tidspunktet vil altså hele opphevelsesbestemmelsen i § 43 være satt i kraft.
 
 Endringen i § 41 g settes i kraft senere.
+
+1 Det konstituerende møtet for lokalstyret skal holdes innen seks uker etter at valgoppgjøret er avsluttet, jf. [Svalbardloven § 36a](lov/1925-07-17-11/§36a) andre ledd. Dato for møtet er fastsatt til 28. oktober 2019.

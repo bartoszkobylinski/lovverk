@@ -24,13 +24,19 @@ eu_basis: []
 
 ## I
 
+*1. Fullmakt for Finansdepartementet til å bemyndige departementene til nettoføring ved utskifting av utstyr*
+
 Med hjemmel i [bevilgningsreglementet § 3](forskrift/2005-05-26-876/§3) fjerde ledd, gis Finansdepartementet fullmakt til å bemyndige departementene til å nettoføre inntekter fra salg av brukt utstyr på post 01 Driftsutgifter og post 21 Spesielle driftsutgifter, med inntil 5 pst. av bevilgningen på den aktuelle posten.
 
 Salgsinntektene må skrive seg fra utskiftinger som er ledd i en rutinemessig fornyelsesprosess.
 
 Finansdepartementet kan fastsette nærmere vilkår for nettoføringen, og gi departementene fullmakt til å delegere sin bemyndigelse til underliggende virksomheter.
 
+*2. Fullmakt for Finansdepartementet til å gi nærmere bestemmelser om hvilke utgifter og inntekter som faller inn under de enkelte avdelingene som er omhandlet i [bevilgningsreglementet § 4](forskrift/2005-05-26-876/§4) tredje og fjerde ledd*
+
 Med hjemmel i [bevilgningsreglementet § 4](forskrift/2005-05-26-876/§4) femte ledd, gis Finansdepartementet fullmakt til å gi nærmere bestemmelser om hvilke utgifter og inntekter som faller inn under de enkelte avdelingene som er omhandlet i [bevilgningsreglementet § 4](forskrift/2005-05-26-876/§4) tredje og fjerde ledd.
+
+*3. Fullmakt for Finansdepartementet til å bemyndige departementene til å inngå leieavtaler og avtaler om kjøp av tjenester utover budsjettåret*
 
 Med hjemmel i [bevilgningsreglementet § 6](forskrift/2005-05-26-876/§6) annet ledd, gis Finansdepartementet fullmakt til å bemyndige departementene til å inngå leieavtaler og avtaler om kjøp av tjenester utover budsjettåret.
 
@@ -38,7 +44,11 @@ Avtalene må gjelde den ordinære driften av statlige virksomheter, og utgiftene
 
 Finansdepartementet kan fastsette nærmere vilkår for avtaleinngåelsene, og gi departementene fullmakt til å delegere sin bemyndigelse til underliggende virksomheter.
 
+*4. Fullmakt for Finansdepartementet til å samtykke i at staten pådras utgifter uten bevilgningsmessig dekning*
+
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) tredje ledd, gis Finansdepartementet fullmakt til å samtykke i at staten pådras utgifter uten bevilgningsmessig dekning for inntil tre mill. kroner under den enkelte utgiftspost når saken ikke er av prinsipiell natur.
+
+*5. Fullmakt for Finansdepartementet til å bemyndige departementene til å overskride driftsbevilgninger mot tilsvarende merinntekter*
 
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) fjerde ledd nr. 1, gis Finansdepartementet fullmakt til å bemyndige departementene til å overskride bevilgninger under post 01 Driftsutgifter og post 21 Spesielle driftsutgifter, mot tilsvarende merinntekter.
 
@@ -48,6 +58,8 @@ Finansdepartementet kan fastsette nærmere vilkår for adgangen til å overskrid
 
 Dersom bokført merinntekt er større enn bokført merutgift i et budsjettår, kan den overskytende merinntekten tas med ved beregning av overføring av ubrukte driftsbevilgninger i medhold av [bevilgningsreglementet § 5](forskrift/2005-05-26-876/§5) tredje ledd nr. 1. De samlede beløp som kan overføres, kan imidlertid ikke overskride 5 pst. av vedkommende driftsbevilgning.
 
+*6. Fullmakt for Finansdepartementet til å bemyndige departementene til å omdisponere fra driftsbevilgninger til investeringsbevilgninger under samme kapittel*
+
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11), fjerde ledd nr. 2, gis Finansdepartementet fullmakt til å bemyndige departementene til å omdisponere inntil 5 pst. av bevilgningen under post 01 Driftsutgifter til post 45 Større utstyrsanskaffelser og vedlikehold, under samme kapittel.
 
 Omdisponeringen må ikke føre til økte utgifter ved at den binder opp framtidige drifts- og investeringsutgifter.
@@ -55,6 +67,8 @@ Omdisponeringen må ikke føre til økte utgifter ved at den binder opp framtidi
 Finansdepartementet kan fastsette nærmere vilkår for adgangen til å omdisponere, og gi departementene fullmakt til å delegere sin bemyndigelse til underliggende virksomheter.
 
 Beløp som er omdisponert fra post 01 Driftsutgifter, kan tas med ved beregningen av overførbart beløp under post 45 Større utstyrsanskaffelser og vedlikehold.
+
+*7. Fullmakt for Finansdepartementet til å bemyndige departementene til å overskride driftsbevilgninger mot tilsvarende innsparing i senere budsjettår*
 
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) fjerde ledd nr. 3 og Stortingets fullmakt av 13. desember 2019 om forlenget prøveordning om utvidet innsparingsperiode for årene 2020–2022, gis Finansdepartementet fullmakt til å bemyndige departementene til å overskride bevilgninger under post 01 Driftsutgifter og post 21 Spesielle driftsutgifter, med inntil 5 pst. til investeringsformål mot tilsvarende innsparing i løpet av de fem følgende budsjettår under de samme poster som ble overskredet. Forsvarsdepartementet omfattes ikke av fullmakten.
 
@@ -72,9 +86,15 @@ Overskridelsen må gå til dekning av investeringsformål som bygningsmessige ar
 
 Finansdepartementet kan fastsette nærmere vilkår for adgangen til å overskride mot tilsvarende innsparing i senere budsjettår, og gi departementene fullmakt til å delegere sin bemyndigelse til underliggende virksomheter.
 
+*8. Fullmakt for finansdepartementet til å samtykke i at staten pådras forpliktelser utover budsjettåret*
+
 Med hjemmel i [bevilgningsreglementet § 11](forskrift/2005-05-26-876/§11) femte ledd, gis Finansdepartementet fullmakt til å samtykke i at staten pådras forpliktelser utover budsjettåret for utgifter inntil 2 mill. kroner når saken ikke er av prinsipiell natur.
 
+*9. Fullmakt for Finansdepartementet til å gi utfyllende bestemmelser om føring av statsregnskapet*
+
 Med hjemmel i [bevilgningsreglementet § 13](forskrift/2005-05-26-876/§13) sjuende ledd, gis Finansdepartementet fullmakt til å gi utfyllende bestemmelser om føring av statsregnskapet.
+
+*10. Endringer i reglement 12. desember 2003 nr. 1938 for økonomistyring i staten*
 
 Reglement for økonomistyring i staten, fastsatt ved Kronprinsregentens resolusjon 12. desember 2003, endres slik: – – –
 

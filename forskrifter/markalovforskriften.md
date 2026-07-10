@@ -46,22 +46,86 @@ Forskriften trer i kraft straks.
 
 ### Bærum kommune
 
+[(pdf)](static/SF/sf-20150904-1032-01-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-02-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-03-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-04-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-05-01.pdf)
+
 ### Enebakk kommune
+
+[(pdf)](static/SF/sf-20150904-1032-06-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-07-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-08-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-09-01.pdf)
 
 ### Hobøl kommune
 
+[(pdf)](static/SF/sf-20150904-1032-10-01.pdf)
+
 ### Lier kommune
+
+[(pdf)](static/SF/sf-20150904-1032-11-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-12-01.pdf)
 
 ### Lunner
 
+[(pdf)](static/SF/sf-20150904-1032-13-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-14-01.pdf)
+
 ### Lørenskog kommune
+
+[(pdf)](static/SF/sf-20150904-1032-15-01.pdf)
 
 ### Nittedal kommune
 
+[(pdf)](static/SF/sf-20150904-1032-16-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-17-01.pdf)
+
 ### Oslo kommune
+
+[(pdf)](static/SF/sf-20150904-1032-18-01.pdf)
 
 ### Rælingen kommune
 
+[(pdf)](static/SF/sf-20150904-1032-19-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-20-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-21-01.pdf)
+
 ### Skedsmo kommune
 
+[(pdf)](static/SF/sf-20150904-1032-22-01.pdf)
+
 ### Ski kommune
+
+[(pdf)](static/SF/sf-20150904-1032-23-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-24-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-25-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-26-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-27-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-28-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-29-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-30-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-31-01.pdf)
+
+[(pdf)](static/SF/sf-20150904-1032-32-01.pdf)

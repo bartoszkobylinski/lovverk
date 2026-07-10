@@ -172,8 +172,12 @@ Den som forsettleg eller grovt aktlaust bryt reglane i [§§ 7](lov/2015-05-07-2
 
 ### § 17. Endringar i andre lover
 
+– – –
+
 [Lov 4. juni 1898](lov/1898-06-04) indeholdende visse Bestemmelser om Behandlingen af Lig opphevast.
 
 ### § 18. Iverksetjing
 
 Lova gjeld frå den tida Kongen fastset.1 Kongen kan setje i verk dei einskilde føresegnene til ulik tid.
+
+1 Frå 1 jan 2016 iflg. [res. 13 nov 2015 nr. 1289](forskrift/2015-11-13-1289).

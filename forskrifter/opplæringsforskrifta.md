@@ -26,6 +26,8 @@ eu_basis: []
 
 ### Kapittel 1. Innhaldet i grunnskoleopplæringa
 
+([opplæringslova § 1-4](lov/2023-06-09-30/§1-4), [§ 1-6](lov/2023-06-09-30/§1-6) og [§ 3-1](lov/2023-06-09-30/§3-1))
+
 ### § 1-1. Læreplanverket
 
 Opplæringa skal vere i samsvar med Læreplanverket for Kunnskapsløftet, jf. [opplæringslova § 2-3 første ledd](lov/2023-06-09-30/§2-3/ledd/1). Læreplanverket består av Overordna del – verdiar og prinsipp for grunnopplæringa, læreplanane i fag og fag- og timefordelinga.
@@ -96,6 +98,8 @@ Elevar som forserer fag, kan ta i bruk timane til valfag og opp til 60 prosent a
 
 ### Kapittel 2. Leksehjelp og skolefritidsordning
 
+([opplæringslova § 4-4](lov/2023-06-09-30/§4-4) og [§ 4-5](lov/2023-06-09-30/§4-5))
+
 ### § 2-1. Tilbod om leksehjelp
 
 Kommunen skal ha eit tilbod om leksehjelp på minst åtte timar kvar veke. Kommunen fordeler timane fritt på alle trinna i grunnskolen.
@@ -140,6 +144,8 @@ Kommunen kan gjere vedtak om å redusere foreldrebetalinga ved automatisert saks
 
 ### Kapittel 3. Rådgivande røysting om skifte av hovudmål i grunnskolen og saksbehandling ved godkjenning av privat grunnskole
 
+([opplæringslova § 15-2 andre ledd](lov/2023-06-09-30/§15-2/ledd/2) og [§ 22-1](lov/2023-06-09-30/§22-1))
+
 ### § 3-1. Kven som har rett til å røyste om skifte av hovudmål
 
 Rett til å røyste om skifte av hovudmål i grunnskolen har alle som oppfyller desse tre vilkåra:Dei bur i det området som soknar til skolen etter [opplæringslova § 2-6](lov/2023-06-09-30/§2-6).Dei har røysterett etter [valgloven § 2-2](lov/2023-06-16-62/§2-2).Dei står innførte i folkeregisteret som busette i kommunen den 30. dagen før røystemøtet.
@@ -165,6 +171,8 @@ Sjølv om fristen er ute, skal ikkje godkjenning bli rekna som gitt, jf. [tjenes
 ## Andre delen – vidaregåande opplæring
 
 ### Kapittel 4. Inntak til vidaregåande opplæring
+
+([opplæringslova § 5-1 sjuande ledd](lov/2023-06-09-30/§5-1/ledd/7))
 
 ### I. Fellesreglar
 
@@ -366,6 +374,8 @@ Søkjarar med rett til opplæring i og på norsk teiknspråk etter [opplæringsl
 
 ### Kapittel 5. Innhaldet i den vidaregåande opplæringa
 
+([opplæringslova § 1-6](lov/2023-06-09-30/§1-6) og [§ 6-1](lov/2023-06-09-30/§6-1))
+
 ### § 5-1. Læreplanverket og tilbodsstrukturen
 
 Opplæringa skal vere i samsvar med Læreplanverket for Kunnskapsløftet i tillegg til tilbodsstrukturen, jf. [opplæringslova § 5-4 første ledd](lov/2023-06-09-30/§5-4/ledd/1). Læreplanverket består av Overordna del – verdiar og prinsipp for grunnopplæringa, læreplanane i fag og fag- og timefordelinga. Opplæringa i fellesfaga skal vere tilpassa dei ulike utdanningsprogramma.
@@ -451,6 +461,8 @@ Elevar kan velje å følgje læreplanen i norsk for språklege minoritetar med k
 Privatistar kan ta eksamen etter læreplanen i norsk for språklege minoritetar med kort butid i Noreg dersom alle desse vilkåra er oppfylte:Privatistane har eit anna morsmål enn norsk, samisk, svensk eller dansk.Privatistane har budd mindre enn sju år i Noreg første gong dei tar denne eksamenen.Privatistane har ikkje fått sluttvurdering etter ordinær læreplan i norsk skoleåret 2020-2021 eller seinare.
 
 ### Kapittel 6. Fag- og yrkesopplæringa
+
+([opplæringslova § 5-4 tredje ledd](lov/2023-06-09-30/§5-4/ledd/3), [§ 5-6](lov/2023-06-09-30/§5-6), [§ 7-2 femte ledd](lov/2023-06-09-30/§7-2/ledd/5), [§ 7-5 tredje ledd](lov/2023-06-09-30/§7-5/ledd/3), [§ 7-6 tredje ledd](lov/2023-06-09-30/§7-6/ledd/3), [§ 7-8 andre ledd](lov/2023-06-09-30/§7-8/ledd/2), [§ 7-11 andre ledd](lov/2023-06-09-30/§7-11/ledd/2), [§ 8-1 fjerde ledd](lov/2023-06-09-30/§8-1/ledd/4), [§ 8-2 tredje ledd](lov/2023-06-09-30/§8-2/ledd/3), [§ 23-3 andre ledd](lov/2023-06-09-30/§23-3/ledd/2))
 
 ### I. Kontraktar og opplæringstilbodet til dei som ikkje får læreplass
 
@@ -642,6 +654,8 @@ Departementet fastset kva kvalifikasjonar medlemmene av læreplangruppene skal h
 
 ### Kapittel 7. Formidling til læreplass
 
+([opplæringslova § 7-7 tredje ledd](lov/2023-06-09-30/§7-7/ledd/3))
+
 ### § 7-1. Kven kan bli formidla til læreplass
 
 Dei som vil bli lærling, lærekandidat eller praksisbrevkandidat, kan søkje om formidling til læreplass for opplæring i bedrift etter [opplæringslova kapittel 7](lov/2023-06-09-30/kap7).
@@ -690,6 +704,8 @@ Lærebedrifta avgjer kven ho inngår kontrakt om læretid med. Lærebedrifta kan
 
 ### Kapittel 8. Skyss og oppfølgingstenesta
 
+([opplæringslova § 9-1](lov/2023-06-09-30/§9-1) og [§ 9-4](lov/2023-06-09-30/§9-4))
+
 ### § 8-1. Gratis skyss eller full skyssgodtgjersle i vidaregåande opplæring
 
 Fylkeskommunen skal gi elevar som har rett til skyss etter [opplæringslova § 9-1](lov/2023-06-09-30/§9-1), full skyssgodtgjersle dersom fylkeskommunen ikkje tilbyr gratis skyss. Full skyssgodtgjersle inneber at eleven skal få dekt alle nødvendige kostnader til skyss til og frå skolen. Eleven og fylkeskommunen skal avklare bruk av transportmiddel så snart som mogleg etter at eleven har fått skoleplass. Dersom det ikkje er mogleg å avklare valet av transportmiddel før skolen tar til, må fylkeskommunen likevel dekkje dei dokumenterte faktiske og nødvendige skysskostnadene eleven har i perioden fram til ei slik avklaring skjer.
@@ -715,6 +731,8 @@ Foreldra til ungdommar som ikkje er myndige, skal ha same informasjon etter før
 ## Tredje delen – fellesreglar for grunnskoleopplæringa og den vidaregåande opplæringa for barn og unge
 
 ### Kapittel 9. Individuell vurdering
+
+([opplæringslova § 2-3](lov/2023-06-09-30/§2-3) og [§ 5-4](lov/2023-06-09-30/§5-4))
 
 ### I. Generelle reglar
 
@@ -1366,6 +1384,8 @@ Dersom fag- eller sveineprøva, praksisbrevprøva eller kompetanseprøva til ein
 
 ### Kapittel 10. Klage på sluttvurderingar
 
+([opplæringslova § 5-4 andre ledd](lov/2023-06-09-30/§5-4/ledd/2))
+
 ### § 10-1. Kva kapittelet gjeld og forholdet til forvaltningsloven
 
 Kapittelet gjeld klage på sluttvurderingar etter [kapittel 9](lov/1967-02-10/kapIX). Reglane i [forvaltningsloven](lov/1967-02-10) gjeld om ikkje noko anna er fastsett.
@@ -1468,6 +1488,8 @@ Kandidatar som får karakteren oppheva, må gå opp til prøva på nytt dersom d
 
 ### Kapittel 11. Samarbeid med foreldra, skolebibliotek og saksbehandling som gjeld det fysiske skolemiljøet
 
+([opplæringslova § 10-3](lov/2023-06-09-30/§10-3), [§ 12-7 andre ledd](lov/2023-06-09-30/§12-7/ledd/2) og [§ 15-5](lov/2023-06-09-30/§15-5))
+
 ### § 11-1. Foreldremøte og foreldresamtale
 
 Frå 1. trinn i grunnskolen til vidaregåande trinn 2 skal skolen i starten av kvart skoleår halde eit foreldremøte der dei gir informasjon om innhaldet i og organiseringa av opplæringa, om korleis foreldra kan medverke, og om rutinar og andre relevante forhold.
@@ -1489,6 +1511,8 @@ Kommunen og fylkeskommunen skal sørgje for at elevane har tilgang til eit skole
 For saker som gjeld det fysiske skolemiljøet etter [opplæringslova § 12-2](lov/2023-06-09-30/§12-2) og [§ 12-7](lov/2023-06-09-30/§12-7), gjeld reglane om saksbehandling og klage i [forskrift om helse og miljø i barnehager, skoler og skolefritidsordninger § 20](forskrift/2023-03-28-449/§20) og [§ 21](forskrift/2023-03-28-449/§21).
 
 ### Kapittel 12. Personalet i skolen
+
+([opplæringslova § 14-3](lov/2023-06-09-30/§14-3), [§ 17-3](lov/2023-06-09-30/§17-3), [§ 17-4](lov/2023-06-09-30/§17-4), [§ 17-11 sjuande ledd](lov/2023-06-09-30/§17-11/ledd/7))
 
 ### I. Krav til kompetanse for tilsetjing og undervisning
 
@@ -1606,6 +1630,8 @@ På ein grunnskole skal forholdet mellom elevar og lærarar i ordinær undervisn
 
 ### Kapittel 13. Inntak og formidling til vidaregåande opplæring for vaksne
 
+([opplæringslova § 7-7 tredje ledd](lov/2023-06-09-30/§7-7/ledd/3), [§ 18-3](lov/2023-06-09-30/§18-3) siste ledd, [§ 18-8](lov/2023-06-09-30/§18-8))
+
 ### § 13-1. Kven som har rett til vidaregåande opplæring for vaksne
 
 Ved vurdering av om vilkåra i [opplæringslova § 18-3](lov/2023-06-09-30/§18-3) om fullført grunnskoleopplæring eller tilsvarande opplæring er oppfylte, gjeld [§ 4-1](forskrift/2024-06-03-900/§4-1) tilsvarande.
@@ -1645,6 +1671,8 @@ Reglane i [§ 6-3](forskrift/2024-06-03-900/§6-3), [§ 6-4](forskrift/2024-06-0
 > Endra ved forskrift [22 juni 2026 nr. 1184](forskrift/2026-06-22-1184).
 
 ### Kapittel 14. Innhaldet i opplæringa for vaksne
+
+([opplæringslova § 19-1](lov/2023-06-09-30/§19-1))
 
 ### § 14-1. Opplæringa i den førebuande og vidaregåande opplæringa for vaksne
 
@@ -1689,6 +1717,8 @@ Deltakarar i den vidaregåande opplæringa for vaksne kan velje å følgje lære
 Deltakarar i den førebuande opplæringa for vaksne kan velje å følgje læreplanen i norsk for språklege minoritetar dersom dei har eller har hatt særskild opplæring i norsk etter [opplæringslova § 19-8](lov/2023-06-09-30/§19-8), jf. [§ 3-6](lov/2023-06-09-30/§3-6).
 
 ### Kapittel 15. Individuell vurdering for vaksne
+
+([opplæringslova § 18-8](lov/2023-06-09-30/§18-8) og [§ 19-1](lov/2023-06-09-30/§19-1))
 
 ### I. Generelle reglar
 
@@ -1928,6 +1958,8 @@ Det er fylkeskommunen som er ansvarleg for å utferde kompetansebevis for vaksne
 
 ### Kapittel 16. Klage på sluttvurderingar for vaksne
 
+([opplæringslova § 19-1 tredje ledd](lov/2023-06-09-30/§19-1/ledd/3))
+
 ### § 16-1. Kva kapittelet gjeld, klagefristar og forholdet til forvaltningsloven
 
 Kapittelet gjeld klage på sluttvurderingar etter [kapittel 15](forskrift/2024-06-03-900/kap15). Reglane i [forvaltningsloven](lov/1967-02-10) gjeld om ikkje noko anna er fastsett.
@@ -1968,6 +2000,8 @@ Dersom statsforvaltaren opphevar vedtaket om realkompetansevurdering, skal kommu
 
 ### Kapittel 17. Personalet i førebuande og vidaregåande opplæring for vaksne
 
+([opplæringslova § 19-13](lov/2023-06-09-30/§19-13))
+
 ### § 17-1. Krav for å bli tilsett i lærarstilling i førebuande eller vidaregåande opplæring for vaksne
 
 Kommunen og fylkeskommunen skal sørgje for at dei som skal tilsetjast i lærarstilling i førebuande eller vidaregåande opplæring for vaksne, oppfyller krava til pedagogisk kompetanse etter [§ 12-1](forskrift/2024-06-03-900/§12-1).
@@ -1979,6 +2013,8 @@ Reglane i [§ 12-15](forskrift/2024-06-03-900/§12-15) til [§ 12-18](forskrift/
 ## Femte delen – forskjellige reglar
 
 ### Kapittel 18. Ulykkesforsikring
+
+([opplæringslova § 28-8 tredje ledd](lov/2023-06-09-30/§28-8/ledd/3))
 
 ### § 18-1. Krav til forsikringa
 
@@ -2025,6 +2061,8 @@ Eigendelen kan ikkje vere høgare enn 0,015 G.
 Forsikringa kan vere avgrensa til ikkje å dekkje ulykkesskade som kjem avforgifting gjennom mat, drikke eller nytingsmiddelinfeksjon forårsaka av stikk eller bit av insekt eller liknande, som malaria, flekktyfus eller borreliosesmitte gjennom bakteriar, til dømes E. coli eller salmonella, eller gjennom virus eller anna smittekjelde.psykiske skadar, som sjokkliding, depresjon og angst, med mindre det til same tid har oppstått fysisk skade som gir livsvarig medisinsk invaliditet.
 
 ### Kapittel 19. Rapportering og evaluering av opplæringsverksemda
+
+([opplæringslova § 25-4](lov/2023-06-09-30/§25-4))
 
 ### § 19-1. Rapportering frå kommunen til Utdanningsdirektoratet
 
@@ -2110,6 +2148,8 @@ Utdanningsdirektoratet kan fastsetje nærare retningslinjer for gjennomføringa 
 
 ### Kapittel 20. Behandling av personopplysningar
 
+([opplæringslova § 25-1 sjette ledd](lov/2023-06-09-30/§25-1/ledd/6), [§ 25-2 femte ledd](lov/2023-06-09-30/§25-2/ledd/5), [§ 25-3](lov/2023-06-09-30/§25-3), [§ 25-4](lov/2023-06-09-30/§25-4))
+
 ### § 20-1. Innhenting av opplysningar frå Folkeregisteret
 
 Når det er nødvendig for å utføre oppgåver etter [opplæringslova](lov/2023-06-09-30), kan offentlege styresmakter utan hinder av teieplikt hente inn opplysningar frå Folkeregisteret omkven som er foreldra til barn som får eller skal få tenester etter [opplæringslova](lov/2023-06-09-30)kven som har foreldreansvaret for barn som får eller skal få tenester etter [opplæringslova](lov/2023-06-09-30)andre barn av foreldra som er nemnde i bokstav aektefelle eller registrert partnar til foreldra som er nemnde i bokstav a.
@@ -2144,6 +2184,8 @@ Sikt – Kunnskapssektorens tenesteleverandør er behandlingsansvarleg for den n
 
 ### Kapittel 21. Kommunen sitt økonomiske ansvar for grunnskoleopplæringa
 
+([opplæringslova § 28-1 andre ledd](lov/2023-06-09-30/§28-1/ledd/2))
+
 ### § 21-1. Definisjonar i dette kapittelet
 
 Med *bustadkommune* er meint den kommunen der foreldra eller den av foreldra som har omsorga for barnet, bur. Dersom foreldra har avtalt delt fast bustad og bur i ulike kommunar, er bustadkommunen den kommunen der barnet er folkeregistrert.
@@ -2171,6 +2213,8 @@ Dersom ein elev får individuelt tilrettelagd opplæring, fastset omsorgskommune
 I tvilstilfelle avgjer statsforvaltaren i det fylket der eleven oppheld seg, kven som er ansvarleg for å dekkje kostnadene.
 
 ### Kapittel 22. Fylkeskommunen sin rett til refusjon og fylkeskommunen sitt økonomiske ansvar
+
+([opplæringslova § 5-8](lov/2023-06-09-30/§5-8), [§ 28-2](lov/2023-06-09-30/§28-2), [§ 28-3](lov/2023-06-09-30/§28-3) og [§ 28-4](lov/2023-06-09-30/§28-4))
 
 ### § 22-1. Definisjonar i dette kapittelet
 
@@ -2213,6 +2257,8 @@ Elevar som avbryt den vidaregåande opplæringa, skal få tilbod om å kjøpe PC
 ## Sjette delen – sluttreglar
 
 ### Kapittel 23. Innføringstakt og overgangsordningar
+
+([opplæringslova § 1-4](lov/2023-06-09-30/§1-4), [§ 1-5](lov/2023-06-09-30/§1-5), [§ 2-3](lov/2023-06-09-30/§2-3), [§ 5-4](lov/2023-06-09-30/§5-4), [§ 19-1](lov/2023-06-09-30/§19-1) og [§ 30-2](lov/2023-06-09-30/§30-2))
 
 ### § 23-1. Definisjonar i dette kapittelet
 

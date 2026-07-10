@@ -34,6 +34,10 @@ Forskriften trer i kraft straks.
 
 ## Forordning
 
+For å lese forordning [(EU) nr. 1025/2012](eu/32012r1025) se her: [pdf-fil](static/SF/32012r1025u.pdf)
+
 Uoffisiell norsk oversettelse.
+
+For å lese forordning [(EU) 2022/2480](eu/32022r2480) se her: [pdf-fil](static/SF/32022r2480u-01.pdf).
 
 > Tilføyd 5 feb 2015, endret ved forskrift [17 aug 2025 nr. 1663](forskrift/2025-08-17-1663).

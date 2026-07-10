@@ -311,6 +311,8 @@ Myndigheten kan også gi forskrift og fatte enkeltvedtak om tilgang til nøkler 
 
 > Endret ved [lov 9 juni 2017 nr. 41](lov/2017-06-09-41) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 720](forskrift/2017-06-09-720)).
 
+1 Inkurie: Skal være Posten Bring AS.
+
 ### § 33 a. Tilgang til postboksanlegg
 
 Eier av postboksanlegg skal gi tilbyderen tilgang til postboksanlegget for å distribuere postsendinger. Tilbyderen skal dekke kostnadene ved slik tilgang.
@@ -543,6 +545,9 @@ Loven trer i kraft fra det tidspunkt1 Kongen bestemmer. Kongen kan bestemme at d
 
 Fra den tid loven trer i kraft oppheves [lov 29. november 1996 nr. 73](lov/1996-11-29-73) om formidling av landsdekkende postsendinger.
 
+1 Fra 1. januar 2016, med unntak av [§ 35](lov/2015-09-04-91/§35), [§ 36](lov/2015-09-04-91/§36), [§ 40](lov/2015-09-04-91/§40) og [§ 41](lov/2015-09-04-91/§41) første ledd nr. 1 og [§ 55](lov/2015-09-04-91/§55), iflg. [res. 4 sep 2015 nr. 1027](forskrift/2015-09-04-1027) som endret ved [res. 18 des 2015 nr. 1643](forskrift/2015-12-18-1643).
+Fra 19. april 2024 for [§ 35](lov/2015-09-04-91/§35), [§ 36](lov/2015-09-04-91/§36) og [§ 41 første ledd nummer 1](lov/2015-09-04-91/§41/ledd/1/nummer/1) iflg. [res. 19 april 2024 nr. 643](forskrift/2024-04-19-643).
+
 ### § 57. Overgangsbestemmelser
 
 Inntil det er inngått avtale med eller utpekt tilbyder med leveringsplikt, utpekes Posten Norge AS1 som leveringspliktig tilbyder.
@@ -552,6 +557,8 @@ Konsesjon til Posten Norge AS1 av 18. desember 2012 videreføres, med unntak av 
 Departementet kan i enkeltvedtak endre konsesjonen inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen opphører.
 
 Enkeltvedtak med hjemmel i [lov 29. november 1996 nr. 73](lov/1996-11-29-73) om formidling av landsdekkende postsendinger som er i kraft ved denne lovs ikrafttredelse, skal fortsatt gjelde.
+
+1 Inkurie: Skal være Posten Bring AS.
 
 ### § 58. Endring i andre lover
 

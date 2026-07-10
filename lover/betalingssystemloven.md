@@ -97,6 +97,8 @@ Avtalen mellom deltakerne i et interbanksystem skal angi hvilke rettigheter og p
 
 Norges Bank kan fastsette nærmere krav til virksomheten, herunder kapitalkrav til og krav til sikkerhet overfor operatør, oppgjørsbank eller sentral motpart.
 
+1 Jf. [EØS-avtalen vedlegg IX](avtale/avt-1992-05-02-1-v9) nr. 14 (direktiv [2006/48](eu/32006l0048), vil bli erstattet av direktiv [2013/36](eu/32013l0036*)).
+
 ### § 2-5. Søknad om konsesjon
 
 Søknaden om konsesjon skal opplyse om:eier- og deltakerforhold samt plan for systemets organisering og drift, herunder om oppgavefordelingen mellom banker og andre institusjoner som deltar i systemet,de kriterier som er fastsatt for tilslutning til og deltakelse i systemet. Er deltakelse i systemet betinget av medlemskap eller kapitalinnskudd, skal det opplyses om dette,tiltak for å sikre den tekniske driften, herunder beredskap for driftsavbrudd dersom det ordinære systemet ikke fungerer,tiltak for å begrense risiki i systemet som følge av likviditets- eller soliditetssvikt hos deltakere i slike systemer,prinsipper for tilknytning av systemer for betalingstjenester og annen overføring av penger mellom kundekonti.
@@ -197,6 +199,8 @@ Dersom finansielle instrumenter som nevnt i [verdipapirhandelloven § 2-2](lov/2
 
 > Endret ved [lover 5 juli 2002 nr. 64](lov/2002-07-05-64) (ikr. 1 jan 2003 iflg. [forskr. 20 des 2002 nr. 1627](forskrift/2002-12-20-1627)), [29 juni 2007 nr. 75](lov/2007-06-29-75) (ikr. 1 nov 2007 iflg. [res. 29 juni 2007 nr. 752](forskrift/2007-06-29-752)), [18 nov 2011 nr. 42](lov/2011-11-18-42) (ikr. 1 jan 2012 iflg. [res. 18 nov 2011 nr. 1107](forskrift/2011-11-18-1107)), [20 juni 2014 nr. 29](lov/2014-06-20-29) (ikr. 1 juli 2014 iflg. [vedtak 26 juni 2014 nr. 866](forskrift/2014-06-26-866)), [16 des 2016 nr. 91](lov/2016-12-16-91) (ikr. 1 juli 2017 iflg. [res. 9 juni 2017 nr. 717](forskrift/2017-06-09-717)), [20 des 2018 nr. 103](lov/2018-12-20-103) (ikr. 1 jan 2019), [15 mars 2019 nr. 6](lov/2019-03-15-6) (ikr. 1 jan 2020 iflg. [res. 6 des 2019 nr. 1656](forskrift/2019-12-06-1656)), [21 des 2020 nr. 165](lov/2020-12-21-165).
 
+1 Inkurie: Ved en inkurie ble endring i tredje ledd ved [lov 20 des 2018 nr. 103](lov/2018-12-20-103) delvis overskrevet ved endring [15 mars 2019 nr. 6](lov/2019-03-15-6) slik at annet punktum ikke ble videreført.
+
 ### § 4-5. Meldeplikt
 
 Operatøren for interbanksystemer som nevnt i [§ 4-1](lov/1999-12-17-95/§4-1) skal gi melding til Norges Bank om hvem som er deltaker i systemet, og om endringer med hensyn til deltakerne. Operatøren for et verdipapiroppgjørssystem som nevnt i [§ 4-1](lov/1999-12-17-95/§4-1) skal gi tilsvarende melding til Finanstilsynet.
@@ -291,6 +295,10 @@ Departementet1 kan fastsette nærmere overgangsregler.
 
 > Endret ved [lov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. [res. 4 juni 2010 nr. 771](forskrift/2010-06-04-771)), tidligere § 6-1.
 
+1 Finansdepartementet iflg. [res. 17 des 1999 nr. 1344](forskrift/1999-12-17-1344), som ved [forskr. 13 apr 2000 nr. 324](forskrift/2000-04-13-324) satte loven ikr. fra 14 apr 2000.
+
 ### § 6-2. Endringer i andre lover
 
 Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –
+
+1 Inkurie: Ved [endringslov 4 juni 2010 nr. 20](lov/2010-06-04-20) (ikr. 1 juli 2010 iflg. res. 4 juni 2010 nr. 771) endret kapittel 6 kapittelnummer til 7, og § 6-1 endret paragrafnummer til § 7-1. § 6-2 ble ikke nevnt.

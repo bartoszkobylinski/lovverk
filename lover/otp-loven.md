@@ -119,3 +119,5 @@ Ved forsettlig eller uaktsom overtredelse av [§§ 2](lov/2005-12-21-124/§2), [
 (4) Foretak som ikke omfattes av annet ledd, som får plikt til å ha pensjonsordning i henhold til [§ 2](lov/2005-12-21-124/§2) første ledd i løpet av 2006, skal opprette pensjonsordning i henhold til den frist som er angitt i [§ 2](lov/2005-12-21-124/§2) annet ledd. Dersom denne fristen løper ut i 2006, skal fristen likevel forskyves til utløpet av 2006.
 
 ## § 10. Endringer i andre lover
+
+– – –

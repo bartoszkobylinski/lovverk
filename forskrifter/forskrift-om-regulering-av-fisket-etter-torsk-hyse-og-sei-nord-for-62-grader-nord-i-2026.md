@@ -128,7 +128,16 @@ Fartøy med pelagisk tråltillatelse eller nordsjøtråltillatelse kan maksimalt
 
 ### § 11. Kvoter ved fiske etter sei med not
 
-Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta sei med not (tonn):*Hjemmelslengde**Kvotefaktor**Maksimalkvote**Herav garantert kvote*Under 15 m1,00–102,0615–20,99 m1,50153,08133,1221–22,99 m2,03207,17180,1523–25,99 m2,43248,00215,6526 meter og over2,82287,80250,26Seinottillatelse5,64575,60500,52
+Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kvanta sei med not (tonn):
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote* | *Herav garantert kvote* |
+| --- | --- | --- | --- |
+| Under 15 m | 1,00 | – | 102,06 |
+| 15–20,99 m | 1,50 | 153,08 | 133,12 |
+| 21–22,99 m | 2,03 | 207,17 | 180,15 |
+| 23–25,99 m | 2,43 | 248,00 | 215,65 |
+| 26 meter og over | 2,82 | 287,80 | 250,26 |
+| Seinottillatelse | 5,64 | 575,60 | 500,52 |
 
 Fartøy med adgang til å delta i åpen gruppe kan fiske og lande tilsvarende kvote som fartøy i lukket gruppe med hjemmelslengde under 15 meter.
 
@@ -178,9 +187,47 @@ Ved forlengelse eller utskifting av fartøy under 28 meter største lengde til f
 
 ### § 16. Kvoter ved fiske etter torsk
 
-Kvoteenhet etter hjemmelslengde og største lengde er som følger:*Hjemmelslengde**Største lengde**Kvoteenhet (fartøykvote)*Under 11 mUnder 11 m8,417211–12,99 m8,417213–14,99 m8,4172På eller over 15 m8,417211–14,99 mUnder 11 m7,2662På eller over 11 m7,266215–20,99 mUnder 11 m6,9986På eller over 11 m6,998621–27,99 mUnder 11 m6,9982På eller over 11 m6,9982
+Kvoteenhet etter hjemmelslengde og største lengde er som følger:
 
-Fartøy med adgang til å delta kan fiske og lande følgende kvanta torsk (tonn):*Hjemmelslengde**Kvotefaktor**Fartøykvote*under 7 meter1,262310,6257–7,91,491812,5578–8,91,773414,9279–9,92,169818,26410–10,92,347119,75611–11,93,193723,20612–12,93,788627,52913 -13,94,592333,36914 -14,95,228937,99415–15,96,520345,63316–16,97,258150,79717 -17,98,007256,03918–18,98,844261,89719–19,99,593267,13920–20,910,254071,76421–21,99,932069,50622–22,910,366872,54923–23,910,779275,43524–24,911,191678,32125–25,911,526080,66126–26,911,960883,70427–27,912,284085,966
+| *Hjemmelslengde* | *Største lengde* | *Kvoteenhet (fartøykvote)* |
+| --- | --- | --- |
+| Under 11 m | Under 11 m | 8,4172 |
+| 11–12,99 m | 8,4172 |  |
+| 13–14,99 m | 8,4172 |  |
+| På eller over 15 m | 8,4172 |  |
+| 11–14,99 m | Under 11 m | 7,2662 |
+| På eller over 11 m | 7,2662 |  |
+| 15–20,99 m | Under 11 m | 6,9986 |
+| På eller over 11 m | 6,9986 |  |
+| 21–27,99 m | Under 11 m | 6,9982 |
+| På eller over 11 m | 6,9982 |  |
+
+Fartøy med adgang til å delta kan fiske og lande følgende kvanta torsk (tonn):
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Fartøykvote* |
+| --- | --- | --- |
+| under 7 meter | 1,2623 | 10,625 |
+| 7–7,9 | 1,4918 | 12,557 |
+| 8–8,9 | 1,7734 | 14,927 |
+| 9–9,9 | 2,1698 | 18,264 |
+| 10–10,9 | 2,3471 | 19,756 |
+| 11–11,9 | 3,1937 | 23,206 |
+| 12–12,9 | 3,7886 | 27,529 |
+| 13 -13,9 | 4,5923 | 33,369 |
+| 14 -14,9 | 5,2289 | 37,994 |
+| 15–15,9 | 6,5203 | 45,633 |
+| 16–16,9 | 7,2581 | 50,797 |
+| 17 -17,9 | 8,0072 | 56,039 |
+| 18–18,9 | 8,8442 | 61,897 |
+| 19–19,9 | 9,5932 | 67,139 |
+| 20–20,9 | 10,2540 | 71,764 |
+| 21–21,9 | 9,9320 | 69,506 |
+| 22–22,9 | 10,3668 | 72,549 |
+| 23–23,9 | 10,7792 | 75,435 |
+| 24–24,9 | 11,1916 | 78,321 |
+| 25–25,9 | 11,5260 | 80,661 |
+| 26–26,9 | 11,9608 | 83,704 |
+| 27–27,9 | 12,2840 | 85,966 |
 
 Det er ikke adgang til å ha bifangst av torsk utover de fastsatte kvotene.
 
@@ -202,9 +249,34 @@ Tillegg etter første ledd kan ikke gis for fangst som kvotebelastes i henhold t
 
 ### § 18. Kvoter ved fiske etter hyse
 
-Kvoteenhet etter hjemmelslengde og største lengde er som følger:*Hjemmelslengde**Største lengde**Kvoteenhet (garantert kvote)**Kvoteenhet (maksimalkvote)*Under 11 mUnder 11 m4,1231251,5112På eller over 11 m127,817211–14,99 mUnder 11 m4,088340,8831På eller over 11 m22,485715–20,99 mUnder 11 m3,890315,5611På eller over 11 m9,725721–27,99 mUnder 11 m3,756315,0250På eller over 11 m9,3907
+Kvoteenhet etter hjemmelslengde og største lengde er som følger:
 
-Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):*Hjemmelslengde**Kvotefaktor**Maksimalkvote største lengde under 11 m**Maksimalkvote største lengde over 11 m**Herav garantert kvote*Under 7 meter1,3075328,851167,1215,3917–7,91,5293384,636195,4716,3068–8,91,8211458,027232,7687,5099–9,92,2530566,655287,9729,28910–10,92,4047604,809307,3629,91511–11,93,0735125,65469,11012,56512–12,93,6451149,02381,96314,90213–13,94,4216180,76999,42318,07714–14,95,0363205,900113,24520,59015–20,99,1056141,69388,55835,42321–27,98,6219129,54480,96532,386
+| *Hjemmelslengde* | *Største lengde* | *Kvoteenhet (garantert kvote)* | *Kvoteenhet (maksimalkvote)* |
+| --- | --- | --- | --- |
+| Under 11 m | Under 11 m | 4,1231 | 251,5112 |
+| På eller over 11 m | 127,8172 |  |  |
+| 11–14,99 m | Under 11 m | 4,0883 | 40,8831 |
+| På eller over 11 m | 22,4857 |  |  |
+| 15–20,99 m | Under 11 m | 3,8903 | 15,5611 |
+| På eller over 11 m | 9,7257 |  |  |
+| 21–27,99 m | Under 11 m | 3,7563 | 15,0250 |
+| På eller over 11 m | 9,3907 |  |  |
+
+Fartøy med adgang til å delta kan fiske og lande følgende kvanta hyse (tonn):
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote største lengde under 11 m* | *Maksimalkvote største lengde over 11 m* | *Herav garantert kvote* |
+| --- | --- | --- | --- | --- |
+| Under 7 meter | 1,3075 | 328,851 | 167,121 | 5,391 |
+| 7–7,9 | 1,5293 | 384,636 | 195,471 | 6,306 |
+| 8–8,9 | 1,8211 | 458,027 | 232,768 | 7,509 |
+| 9–9,9 | 2,2530 | 566,655 | 287,972 | 9,289 |
+| 10–10,9 | 2,4047 | 604,809 | 307,362 | 9,915 |
+| 11–11,9 | 3,0735 | 125,654 | 69,110 | 12,565 |
+| 12–12,9 | 3,6451 | 149,023 | 81,963 | 14,902 |
+| 13–13,9 | 4,4216 | 180,769 | 99,423 | 18,077 |
+| 14–14,9 | 5,0363 | 205,900 | 113,245 | 20,590 |
+| 15–20,9 | 9,1056 | 141,693 | 88,558 | 35,423 |
+| 21–27,9 | 8,6219 | 129,544 | 80,965 | 32,386 |
 
 Fartøy som har fisket maksimalkvoten kan ha inntil 30 % bifangst av hyse i de enkelte fangster og ved landing.
 
@@ -216,9 +288,54 @@ Når et fartøy gis tillatelse til å fiske flere kvoter av hyse i medhold av [f
 
 ### § 19. Kvoter ved fiske etter sei
 
-Kvoteenhet etter hjemmelslengde og største lengde er som følger:*Hjemmelslengde**Største lengde**Kvoteenhet (garantert kvote)**Kvoteenhet (maksimalkvote)*Under 11 mUnder 11 m4,4722138,636811–14,99 m71,5545På eller over 15 m38,013311–14,99 mUnder 15 m4,445413,3361På eller over 15 m8,890715–20,99 mUnder 21 m4,45358,9070På eller over 21 m6,680221–27,99 m4,45375,3444
+Kvoteenhet etter hjemmelslengde og største lengde er som følger:
 
-Fartøy med adgang til å delta kan fiske følgende kvanta sei (tonn):*Hjemmelslengde**Kvotefaktor**Maksimalkvote største lengde under 11 meter**Maksimalkvote største lengde 11–14,99 meter**Maksimalkvote største lengde på eller over 15 meter**Herav garantert kvote*under 7 meter1,3137182,1394,0049,945,887–7,991,5365213,02109,9458,416,878–8,991,8298253,68130,9369,568,189–9,992,2637313,83161,9886,0510,1210–10,992,4163334,99172,9091,8510,81*Hjemmelslengde**Kvotefaktor**Maksimalkvote største lengde under 15 meter**Maksimalkvote største lengde på eller over 15 meter**Herav garantert kvote*11–11,993,079841,0727,3813,6912–12,993,658748,7932,5316,2613–13,994,423258,9939,3319,6614–14,995,034767,1444,7622,38*Hjemmelslengde**Kvotefaktor**Maksimalkvote største lengde under 21 meter**Maksimalkvote største lengde på eller over 21 meter**Herav garantert kvote*15–15,996,503757,9343,4528,9616–16,997,251964,5948,4432,3017–17,998,000071,2653,4435,6318–18,998,828878,6458,9839,3219–19,999,565585,2063,9042,6020–20,9910,233191,1568,3645,57*Hjemmelslengde**Kvotefaktor**Maksimalkvote**Herav garantert kvote*21–21,999,365650,0541,7122–22,999,760552,1643,4723–23,9910,155254,2745,2324–24,9910,550156,3846,9925–25,9910,857158,0248,3526–26,9911,251960,1350,1127–27,9911,569961,8351,53
+| *Hjemmelslengde* | *Største lengde* | *Kvoteenhet (garantert kvote)* | *Kvoteenhet (maksimalkvote)* |
+| --- | --- | --- | --- |
+| Under 11 m | Under 11 m | 4,4722 | 138,6368 |
+|  | 11–14,99 m | 71,5545 |  |
+|  | På eller over 15 m | 38,0133 |  |
+| 11–14,99 m | Under 15 m | 4,4454 | 13,3361 |
+|  | På eller over 15 m | 8,8907 |  |
+| 15–20,99 m | Under 21 m | 4,4535 | 8,9070 |
+|  | På eller over 21 m | 6,6802 |  |
+| 21–27,99 m |  | 4,4537 | 5,3444 |
+
+Fartøy med adgang til å delta kan fiske følgende kvanta sei (tonn):
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote største lengde under 11 meter* | *Maksimalkvote største lengde 11–14,99 meter* | *Maksimalkvote største lengde på eller over 15 meter* | *Herav garantert kvote* |
+| --- | --- | --- | --- | --- | --- |
+| under 7 meter | 1,3137 | 182,13 | 94,00 | 49,94 | 5,88 |
+| 7–7,99 | 1,5365 | 213,02 | 109,94 | 58,41 | 6,87 |
+| 8–8,99 | 1,8298 | 253,68 | 130,93 | 69,56 | 8,18 |
+| 9–9,99 | 2,2637 | 313,83 | 161,98 | 86,05 | 10,12 |
+| 10–10,99 | 2,4163 | 334,99 | 172,90 | 91,85 | 10,81 |
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote største lengde under 15 meter* | *Maksimalkvote største lengde på eller over 15 meter* | *Herav garantert kvote* |
+| --- | --- | --- | --- | --- |
+| 11–11,99 | 3,0798 | 41,07 | 27,38 | 13,69 |
+| 12–12,99 | 3,6587 | 48,79 | 32,53 | 16,26 |
+| 13–13,99 | 4,4232 | 58,99 | 39,33 | 19,66 |
+| 14–14,99 | 5,0347 | 67,14 | 44,76 | 22,38 |
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote største lengde under 21 meter* | *Maksimalkvote største lengde på eller over 21 meter* | *Herav garantert kvote* |
+| --- | --- | --- | --- | --- |
+| 15–15,99 | 6,5037 | 57,93 | 43,45 | 28,96 |
+| 16–16,99 | 7,2519 | 64,59 | 48,44 | 32,30 |
+| 17–17,99 | 8,0000 | 71,26 | 53,44 | 35,63 |
+| 18–18,99 | 8,8288 | 78,64 | 58,98 | 39,32 |
+| 19–19,99 | 9,5655 | 85,20 | 63,90 | 42,60 |
+| 20–20,99 | 10,2331 | 91,15 | 68,36 | 45,57 |
+
+| *Hjemmelslengde* | *Kvotefaktor* | *Maksimalkvote* | *Herav garantert kvote* |
+| --- | --- | --- | --- |
+| 21–21,99 | 9,3656 | 50,05 | 41,71 |
+| 22–22,99 | 9,7605 | 52,16 | 43,47 |
+| 23–23,99 | 10,1552 | 54,27 | 45,23 |
+| 24–24,99 | 10,5501 | 56,38 | 46,99 |
+| 25–25,99 | 10,8571 | 58,02 | 48,35 |
+| 26–26,99 | 11,2519 | 60,13 | 50,11 |
+| 27–27,99 | 11,5699 | 61,83 | 51,53 |
 
 Fartøy som har fisket maksimalkvoten, kan ha inntil 20 % bifangst av sei i de enkelte fangster og ved landing.
 
@@ -248,7 +365,13 @@ Ved ombygging eller utskifting til mindre fartøy etter 31. desember 2001, skal 
 
 ### § 21. Kvoter ved fiske etter torsk
 
-Fartøy med adgang til å delta i åpen gruppe kan fiske og lande følgende kvanta torsk (tonn):*Fartøylengde**Garantert kvote*Under 8 meter3,08–9,99 meter4,210 meter og over4,8
+Fartøy med adgang til å delta i åpen gruppe kan fiske og lande følgende kvanta torsk (tonn):
+
+| *Fartøylengde* | *Garantert kvote* |
+| --- | --- |
+| Under 8 meter | 3,0 |
+| 8–9,99 meter | 4,2 |
+| 10 meter og over | 4,8 |
 
 Det er ikke adgang til å ha bifangst av torsk utover de fastsatte kvotene.
 
@@ -290,7 +413,13 @@ Tillegg etter første ledd kan ikke gis for fangst som kvotebelastes i henhold t
 
 ### § 26. Kvoter ved fiske etter hyse
 
-Fartøy med adgang til å delta i åpen gruppe kan fiske og lande hyse uten kvotebegrensning og har følgende kvoter av hyse (tonn):*Fartøylengde**Maksimalkvote**Herav garantert* kvoteUnder 8 meterUbegrenset4,08–9,99 meterUbegrenset5,610 meter og overUbegrenset6,4
+Fartøy med adgang til å delta i åpen gruppe kan fiske og lande hyse uten kvotebegrensning og har følgende kvoter av hyse (tonn):
+
+| *Fartøylengde* | *Maksimalkvote* | *Herav garantert* kvote |
+| --- | --- | --- |
+| Under 8 meter | Ubegrenset | 4,0 |
+| 8–9,99 meter | Ubegrenset | 5,6 |
+| 10 meter og over | Ubegrenset | 6,4 |
 
 Fartøy som er tildelt rekrutteringskvotebonus i medhold av rekrutteringskvotebonusordningen har en garantert kvote på 8 tonn hyse. Maksimalkvoten i første ledd gjelder også for fartøy som er tildelt rekrutteringskvotebonus.
 

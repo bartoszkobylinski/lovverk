@@ -30,6 +30,8 @@ Departementets myndighet etter [forskrift 17. desember 2004 nr. 1661 om ordning 
 
 I Helse- og omsorgsdepartementets [vedtak 18. mars 2010 nr. 425 om delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet](forskrift/2010-03-18-425) – – –1
 
+1 Endringer innarbeidet, Lovdatas anm.
+
 ## III
 
 Vedtaket trer i kraft fra 1. juli 2025.

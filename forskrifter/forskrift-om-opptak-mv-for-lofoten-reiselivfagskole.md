@@ -62,7 +62,17 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 ### § 2-6. Poengberegning og rangering
 
-(1) Følgende kriterier benyttes ved poengberegning i forbindelse med opptak til Lofoten reiselivfagskole*Beskrivelse**Poeng*Fullført og bestått videregående opplæring med fag/svennebrev eller tilsvarende programområde.100 poengMinst 5 års relevant praksis uten fagbrev, og med realkompetanse i felles allmenne fag.100 poengRelevant praksis i minst 30 % stilling utover det generelle grunnlag for opptak, jf. gjeldende studieplan.1 poeng per md.Fagprøve med «Bestått meget godt».25 poengFagprøve i annet fag utover det generelle opptakskrav inkl. praksistid.50 poengDet gis gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg2 og tverrfaglig eksamen.Multipliseres med 10Det gis tilleggspoeng for fullført ettårig folkehøgskolestudium med minimum 90 % fremmøte.25 poeng
+(1) Følgende kriterier benyttes ved poengberegning i forbindelse med opptak til Lofoten reiselivfagskole
+
+| *Beskrivelse* | *Poeng* |
+| --- | --- |
+| Fullført og bestått videregående opplæring med fag/svennebrev eller tilsvarende programområde. | 100 poeng |
+| Minst 5 års relevant praksis uten fagbrev, og med realkompetanse i felles allmenne fag. | 100 poeng |
+| Relevant praksis i minst 30 % stilling utover det generelle grunnlag for opptak, jf. gjeldende studieplan. | 1 poeng per md. |
+| Fagprøve med «Bestått meget godt». | 25 poeng |
+| Fagprøve i annet fag utover det generelle opptakskrav inkl. praksistid. | 50 poeng |
+| Det gis gjennomsnittlig karakterpoeng av karakterene i alle fag på Vg2 og tverrfaglig eksamen. | Multipliseres med 10 |
+| Det gis tilleggspoeng for fullført ettårig folkehøgskolestudium med minimum 90 % fremmøte. | 25 poeng |
 
 (2) Den med høyest poengsum rangeres først. Ved lik poengsum skal det kjønn som er underrepresentert i det yrket eller den profesjon opplæringen skal føre fram til, kvoteres.
 
@@ -118,13 +128,16 @@ Opptakskrav til Lofoten reiselivfagskole erFullført og bestått videregående o
 
 ### § 3-2. Karakterskala
 
-(1) Følgende karakterskala blir benyttet ved Lofoten reiselivfagskole*Symbol**Betegnelse**Generell, ikke fagspesifikk beskrivelse av vurderingskriterier*AFremragendeFremragende prestasjon som klart utmerker seg.
-Studenten viser svært god vurderingsevne og stor grad av selvstendighet.BMeget godMeget god prestasjon.
-Studenten viser meget god vurderingsevne og selvstendighet.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder.
-Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene.DNokså godEn akseptabel prestasjon med noen vesentlige mangler.
-Studenten viser en viss grad av vurderingsevne og selvstendighet.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer.
-Studenten viser liten vurderingsevne og selvstendighet.FIkke beståttPrestasjon som ikke tilfredsstiller de faglige minimumskravene.
-Studenten viser både manglende vurderingsevne og selvstendighet.
+(1) Følgende karakterskala blir benyttet ved Lofoten reiselivfagskole
+
+| *Symbol* | *Betegnelse* | *Generell, ikke fagspesifikk beskrivelse av vurderingskriterier* |
+| --- | --- | --- |
+| A | Fremragende | Fremragende prestasjon som klart utmerker seg.<br>Studenten viser svært god vurderingsevne og stor grad av selvstendighet. |
+| B | Meget god | Meget god prestasjon.<br>Studenten viser meget god vurderingsevne og selvstendighet. |
+| C | God | Jevnt god prestasjon som er tilfredsstillende på de fleste områder.<br>Studenten viser god vurderingsevne og selvstendighet på de viktigste områdene. |
+| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler.<br>Studenten viser en viss grad av vurderingsevne og selvstendighet. |
+| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene, men heller ikke mer.<br>Studenten viser liten vurderingsevne og selvstendighet. |
+| F | Ikke bestått | Prestasjon som ikke tilfredsstiller de faglige minimumskravene.<br>Studenten viser både manglende vurderingsevne og selvstendighet. |
 
 (2) I studieplanene, i hver enkelt emnebeskrivelse, går det fram hvilken eksamensform som benyttes. Karakterskala A til F eller bestått/ikke bestått benyttes som vurdering og går frem av studieplanen. Vilkår angitt i studieplan.
 
@@ -305,3 +318,5 @@ Denne bestemmelsen vil tre i kraft når Kunnskapsdepartementet har vedtatt forsk
 ### § 7-2. Ikrafttredelse
 
 (1) Denne forskriften trer i kraft 1. april 2018. Samtidig oppheves reglement ved Lofoten fagskole gjeldende fra 2013.1
+
+1 Ikke kunngjort i Norsk Lovtidend.

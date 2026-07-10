@@ -246,6 +246,8 @@ Loven gjelder fra den tid Kongen bestemmer.1 Loven kan settes i kraft særskilt 
 
 > Endret ved [lov 20 des 2002 nr. 102](lov/2002-12-20-102) (ikr. 1 jan 2003 iflg. [res. 20 des 2002 nr. 1624](forskrift/2002-12-20-1624)).
 
+1 Ikr. for den offentlige helsetjenesten fra 1 jan 2003 iflg. [res. 20 des 2002 nr. 1623](forskrift/2002-12-20-1623). Etter ikrafttreden av [endringslov 29 juni 2007 nr. 78](lov/2007-06-29-78) (ikr. 1 jan 2009 iflg. res. 31 okt 2008 nr. 1611) gjelder loven også for helsehjelp utenfor den offentlige helsetjenesten.
+
 ### § 21. Overgangsregler
 
 Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvis offentlig og privat helsetjeneste. Eldre skader behandles etter loven her, men slik at erstatningskravet avgjøres etter[regler for midlertidig ordning med pasientskadeerstatning for somatiske sykehus/poliklinikker](forskrift/1988-01-01-4458),regler for midlertidig ordning med pasientskadeerstatning for psykiatriske sykehus/poliklinikker,regler for midlertidig ordning med pasientskadeerstatning for kommunelegetjenesten/kommunal legevakt,[lov 5. august 1994 nr. 55](lov/1994-08-05-55) om vern mot smittsomme sykdommer [§ 8-2](lov/1994-08-05-55/§8-2), slik den lød før opphevelsen ved loven her, ogalminnelig erstatningsrett.
@@ -253,3 +255,5 @@ Loven gjelder for skader som er voldt etter lovens ikrafttredelse for henholdsvi
 > Endret ved [lov 26 sep 2003 nr. 95](lov/2003-09-26-95) (ikr. 1 jan 2004 iflg. [res. 19 des 2003 nr. 1645](forskrift/2003-12-19-1645)).
 
 ### § 22. Endringer i andre lover
+
+– – –

@@ -462,7 +462,7 @@ Hvor en vesentlig del av en kvalifiserende fysisk eiendel leies ut, og utleier b
 
 ### § 5-3-6. Reduksjon og fordeling av substansbasert inntektsfradrag der det øverste morselskapet er omfattet av regler om fradrag for utbytte
 
-1) Har det øverste morselskapet fått fradrag for utbytte etter [suppleringsskatteloven § 7-2](lov/2024-01-12-1/§7-2), skal kvalifiserende lønnskostnader reduseres forholdsmessig. Reduksjonen skal tilsvare det øverste morselskapets kvalifiserende lønnskostnader multiplisert med forholdstallet mellom andel av justert overskudd som er fradratt etter [suppleringsskatteloven § 7-2 første ledd](lov/2024-01-12-1/§7-2/ledd/1), og totalt justert overskudd til det øverste morselskapet. Kvalifiserende lønnskostnader for andre konsernenheter i jurisdiksjonen som omfattes av regler om fradrag for utbytte, skal reduseres med forholdet mellom justert overskudd fradratt etter [suppleringsskatteloven § 7-2 tredje ledd](lov/2024-01-12-1/§7-2/ledd/3) og totalt justert overskudd til konsernenheten.
+1\) Har det øverste morselskapet fått fradrag for utbytte etter [suppleringsskatteloven § 7-2](lov/2024-01-12-1/§7-2), skal kvalifiserende lønnskostnader reduseres forholdsmessig. Reduksjonen skal tilsvare det øverste morselskapets kvalifiserende lønnskostnader multiplisert med forholdstallet mellom andel av justert overskudd som er fradratt etter [suppleringsskatteloven § 7-2 første ledd](lov/2024-01-12-1/§7-2/ledd/1), og totalt justert overskudd til det øverste morselskapet. Kvalifiserende lønnskostnader for andre konsernenheter i jurisdiksjonen som omfattes av regler om fradrag for utbytte, skal reduseres med forholdet mellom justert overskudd fradratt etter [suppleringsskatteloven § 7-2 tredje ledd](lov/2024-01-12-1/§7-2/ledd/3) og totalt justert overskudd til konsernenheten.
 
 (2) Har det øverste morselskapet fått fradrag for utbytte etter [suppleringsskatteloven § 7-2](lov/2024-01-12-1/§7-2), skal bokført verdi av kvalifiserende fysiske eiendeler reduseres forholdsmessig. Reduksjonen skal tilsvare total bokført verdi av det øverste morselskapets kvalifiserende fysiske eiendeler, multiplisert med forholdstallet mellom justert overskudd som er fradratt etter [suppleringsskatteloven § 7-2 første ledd](lov/2024-01-12-1/§7-2/ledd/1), og totalt justert overskudd for det øverste morselskapet. Bokført verdi av kvalifiserende fysiske eiendeler for andre konsernenheter i jurisdiksjonen som omfattes av regler om fradrag for utbytte, skal reduseres med forholdet mellom justert overskudd fradratt etter [suppleringsskatteloven § 7-2 tredje ledd](lov/2024-01-12-1/§7-2/ledd/3) og totalt justert overskudd til konsernenheten.
 
@@ -486,9 +486,13 @@ I [suppleringsskatteloven § 5-6](lov/2024-01-12-1/§5-6) menes med:*minoritetse
 
 ### § 5-7. Safe Habour-regler
 
+**A Generelt**
+
 ### § 5-7-1. Definisjon
 
 Med Safe Harbour-regler menes regler som gir rapporterende konsernenhet en valgadgang til å sette suppleringsskatten i en jurisdiksjon til null for et regnskapsår, dersom vilkårene for å bruke den aktuelle Safe Harbour-regelen er oppfylt.
+
+**B Safe Harbour-regler knyttet til kvalifisert nasjonal suppleringsskatt**
 
 ### § 5-7-10. Kvalifisert nasjonal suppleringsskatt Safe Harbour
 
@@ -503,6 +507,8 @@ Med Safe Harbour-regler menes regler som gir rapporterende konsernenhet en valga
 (5) Denne paragrafen gjelder ikke for konsernenheter og felleskontrollert virksomhet og dens underenheter lokalisert i Norge ved beregning av nasjonal suppleringsskatt i Norge.
 
 > Endret ved forskrifter [30 aug 2024 nr. 2059](forskrift/2024-08-30-2059) (med virkning fra og med inntektsåret 2024), [22 des 2025 nr. 2892](forskrift/2025-12-22-2892) (i kraft straks med virkning fra inntektsåret 2024, for regnskapsår som begynner etter 31. desember 2023).
+
+**C Safe Harbour regler med forenklet beregning**
 
 ### § 5-7-20. Forenklet beregningsmetode Safe Harbour
 
@@ -519,6 +525,8 @@ Den rapporterende konsernenheten kan velge at suppleringsskatten for en jurisdik
 (4) Den rapporterende konsernenheten velger årlig om den forenklede beregningsmetoden for uvesentlige konsernenheter skal brukes. Valget gjøres for den enkelte uvesentlige konsernenheten.
 
 > Endret ved forskrift [22 des 2025 nr. 2892](forskrift/2025-12-22-2892) (i kraft straks med virkning fra inntektsåret 2024, for regnskapsår som begynner etter 31. desember 2023).
+
+**D Midlertidige Safe Harbour-regler knyttet til land-for-land-rapportering**
 
 ### § 5-7-30. Hovedregler for midlertidige Safe Harbour-regler knyttet til land-for-land-rapportering
 
@@ -601,6 +609,8 @@ Den midlertidige Safe Harbour-regelen knytet til land-for-land-rapportering gjel
 Konsern som omfattes av [suppleringsskatteloven](lov/2024-01-12-1), men ikke plikter å levere land-for-land-rapport, kan benytte seg av reglene i [§ 5-7-30](forskrift/2024-03-26-541/§5-7-30) til [§ 5-7-37](forskrift/2024-03-26-541/§5-7-37) ved å gi relevante opplysninger på samme vilkår i sin melding for suppleringsskatt. Med «samme vilkår» menes beløp som ville ha vært rapportert i en kvalifisert land-for-land-rapport dersom konsernet hadde vært forpliktet til å levere land-for-land-rapportering i samsvar med kravene i det øverste morselskapets jurisdiksjon. Dersom det øverste morselskapets jurisdiksjon ikke har regler om land-for-land-rapportering, skal beløpene beregnes basert på kravene som følger av den endelige rapporten om BEPS-handlingsplanens tiltak 13.
 
 > Endret ved forskrift [22 des 2025 nr. 2892](forskrift/2025-12-22-2892) (i kraft straks med virkning fra inntektsåret 2024, for regnskapsår som begynner etter 31. desember 2023).
+
+**E Midlertidige Safe Harbour-regler knyttet til skattefordelingsregelen**
 
 ### § 5-7-40. Skattefordelingsregel Safe Harbour
 

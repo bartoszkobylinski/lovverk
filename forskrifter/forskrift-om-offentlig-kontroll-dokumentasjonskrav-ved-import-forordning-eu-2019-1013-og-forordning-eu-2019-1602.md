@@ -66,6 +66,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av EØS-avtalen vedlegg I ka
 av 16. april 2019
 om forhåndsmelding av forsendelser med visse kategorier av dyr og varer som innføres til Unionen
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 58 første ledd bokstav b), og
+
+ut fra følgende betraktninger:
+
 1. Forordning [(EU) 2017/625](eu/32017r0625*) fastsetter blant annet en ramme for gjennomføring av offentlig kontroll og annen offentlig virksomhet i forbindelse med dyr og varer som innføres til Unionen fra tredjestater, for å verifisere overholdelsen av Unionens regelverk med det formål å verne menneskers og dyrs helse, plantehelsen, dyrevelferden og, når det gjelder genmodifiserte organismer (GMO) og plantevernmidler, også miljøet. Denne rammen omfatter offentlige kontroller som skal utføres på dyr og varer som innføres til Unionen fra tredjestater via utpekte grensekontrollstasjoner.
 2. I henhold til forordning [(EU) 2017/625](eu/32017r0625*) kreves det at den driftsansvarlige som er ansvarlig for visse forsendelser som innføres til Unionen, gir forhåndsmelding til vedkommende myndigheter på grensekontrollstasjonen før disse forsendelsene ankommer. For å gjøre det mulig for disse myndighetene å gjennomføre sin offentlige kontroll i rett tid og på en effektiv måte, bør minstefristen for å gi forhåndsmelding fastsettes til én virkedag før forsendelsene ankommer.
 3. Transportrelaterte logistiske begrensninger kan imidlertid i visse tilfeller gjøre det umulig å overholde fristen for forhåndsmelding på én virkedag før forsendelsen ankommer. Dette kan for eksempel være tilfelle når forsendelsen transporteres fra avsenderstedet til grensekontrollstasjonen på under 24 timer, og de opplysningene som er nødvendige for å utfylle relevante deler av det felles innførselsdokumentet om helse (CHED) som kreves til forhåndsmelding i samsvar med artikkel 56 nr. 3 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*), ikke er tilgjengelige før forsendelsen lastes. I disse tilfellene bør medlemsstatene kunne kreve at det gis forhåndsmelding minst fire timer forsendelsen ankommer, slik at det også under slike omstendigheter kan sikres at offentlig kontroll gjennomføres i rett tid og på en effektiv måte.
@@ -73,13 +81,19 @@ om forhåndsmelding av forsendelser med visse kategorier av dyr og varer som inn
 5. Ettersom forordning [(EU) 2017/625](eu/32017r0625*) får anvendelse fra 14. desember 2019, bør denne forordning også få anvendelse fra nevnte dato.
 6. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Delegert kommisjonsforordning [(EU) 2019/1012](eu/32019r1012) av 12. mars 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) gjennom unntak fra reglene om utpeking av kontrollsteder og fra minstekravene til grensekontrollstasjoner (EUT L 165 av 21.6.2019, s. 4).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Forhåndsmelding om forsendelser
 
-1. Den driftsansvarlige som er ansvarlig for en forsendelse som hører inn under kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), skal gi forhåndsmelding til vedkommende myndighet på grensekontrollstasjonen for første ankomst til Unionen, minst én virkedag før forventet ankomst av forsendelsen.
+1\. Den driftsansvarlige som er ansvarlig for en forsendelse som hører inn under kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), skal gi forhåndsmelding til vedkommende myndighet på grensekontrollstasjonen for første ankomst til Unionen, minst én virkedag før forventet ankomst av forsendelsen.
 
-2. Som unntak fra nr. 1 kan vedkommende myndigheter på grensekontrollstasjonen dersom logistiske begrensninger hindrer at fristen angitt i nevnte nummer, ikke kan overholdes, benytte en frist for forhåndsmelding på minst fire timer før forventet ankomst av forsendelsen.
+2\. Som unntak fra nr. 1 kan vedkommende myndigheter på grensekontrollstasjonen dersom logistiske begrensninger hindrer at fristen angitt i nevnte nummer, ikke kan overholdes, benytte en frist for forhåndsmelding på minst fire timer før forventet ankomst av forsendelsen.
 
-3. Som unntak fra nr. 1 kan vedkommende myndigheter på grensekontrollstasjoner som er utpekt til import av ubearbeidet tømmer, saget tre eller treflis i samsvar med artikkel 4 i delegert kommisjonsforordning [(EU) 2019/1012](eu/32019r1012), benytte en frist for forhåndsmelding på inntil fem virkedager før forventet ankomst av slike forsendelser.
+3\. Som unntak fra nr. 1 kan vedkommende myndigheter på grensekontrollstasjoner som er utpekt til import av ubearbeidet tømmer, saget tre eller treflis i samsvar med artikkel 4 i delegert kommisjonsforordning [(EU) 2019/1012](eu/32019r1012), benytte en frist for forhåndsmelding på inntil fem virkedager før forventet ankomst av slike forsendelser.
 
 ### Artikkel 2. Ikrafttredelse og anvendelse
 
@@ -91,7 +105,13 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 16. april 2019.
 
-For KommisjonenJean-Claude JUNCKERPresident
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | President |
 
 ### Konsolidert forordning [(EU) 2019/1602](eu/32019r1602) om krav til når innførselsdokumentet skal følge forsendelsen
 
@@ -101,11 +121,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av [EØS-avtalen vedlegg I k
 
 Forordning [(EU) 2019/1602](eu/32019r1602) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2024/950](eu/32024r0950).
 
+►**B** Kommisjonsforordning [(EU) 2019/1602](eu/32019r1602) av 23. april 2019
+
+som endret ved:
+
 - ►**M1** Kommisjonsforordning [(EU) 2024/950](eu/32024r0950) av 15. januar 2024
 
 ### KOMMISJONENS DELEGERTE FORORDNING [(EU) 2019/1602](eu/32019r1602)
 av 23. april 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) om det felles innførselsdokumentet om helse som skal ledsage forsendelser med dyr og varer til bestemmelsesstedet
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 50 nr. 4, og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2017/625](eu/32017r0625*) fastsetter regler for hvordan vedkommende myndigheter i medlemsstatene skal gjennomføre offentlig kontroll av dyr og varer som innføres til Unionen, for å verifisere overholdelsen av Unionens regelverk for den landbruksbaserte næringsmiddelkjeden.
 2. Ettersom regler om når og på hvilke vilkår det felles innførselsdokumentet om helse skal ledsage forsendelser i transitt, skal fastsettes i en særskilt delegert rettsakt som skal vedtas i henhold til artikkel 51 nr. 1 i forordning [(EU) nr. 2017/625](eu/32017r0625*), bør denne forordning få anvendelse bare på forsendelser beregnet på å bringes i omsetning i Unionen.
@@ -115,11 +147,17 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r06
 6. For å forhindre ulovlig ombruk av CHED-dokumentet bør tollmyndighetene pålegges å opplyse IMSOC om størrelsen på forsendelsen som er angitt i tolldeklarasjonen, for å sikre at størrelsen angitt i tolldeklarasjonen trekkes fra den samlede tillatte størrelsen angitt i CHED-dokumentet. Tollmyndighetene skal utveksle opplysninger ved bruk av de elektroniske toll-databehandlingsteknikkene som er nevnt i artikkel 6 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*)2. De elektroniske tolldatabehandlingsteknikkene bør brukes ved anvendelsen av denne forordning. For å gi tollmyndighetene tilstrekkelig tid til å innføre disse teknikkene bør det fastsettes at forpliktelsen til å opplyse IMSOC om forsendelsens størrelse gjelder i hver medlemsstat fra den datoen da disse teknikkene tas i bruk i medlemsstaten, eller fra 1. mars 2023, avhengig av hvilken dato som inntreffer først.
 7. Ettersom forordning [(EU) 2017/625](eu/32017r0625*) får anvendelse fra 14. desember 2019, bør denne forordning også få anvendelse fra den datoen.
 
+1 EUT L 95 av 7.4.2017, s. 1.
+
+2 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Formål og virkeområde
 
-1. Denne forordning fastsetter i hvilke tilfeller og på hvilke vilkår det felles innførselsdokumentet om helse nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*) («CHED») skal ledsage til bestemmelsesstedet hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), og som er beregnet på å bringes i omsetning («forsendelse»).
+1\. Denne forordning fastsetter i hvilke tilfeller og på hvilke vilkår det felles innførselsdokumentet om helse nevnt i artikkel 56 i forordning [(EU) 2017/625](eu/32017r0625*) («CHED») skal ledsage til bestemmelsesstedet hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*), og som er beregnet på å bringes i omsetning («forsendelse»).
 
-2. Denne forordning får ikke anvendelse på forsendelser i transitt.
+2\. Denne forordning får ikke anvendelse på forsendelser i transitt.
 
 ### Artikkel 2. Definisjon
 
@@ -135,9 +173,9 @@ Dersom en forsendelse ikke deles opp før den frigis for fri omsetning i samsvar
 
 ### Artikkel 5. Vilkår for CHED-dokumenter som ledsager forsendelser som deles opp på grensekontrollstasjonen
 
-1. Dersom en forsendelse skal deles opp på grensekontrollstasjonen, gjelder følgende krav:Når det gis forhåndsmelding i samsvar med artikkel 56 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*), skal den driftsansvarlige som har ansvar for forsendelsen, i CHED-dokumentet angi grensekontrollstasjonen som bestemmelsessted for hele forsendelsen.Når vedkommende myndighet på grensekontrollstasjonen har fylt ut CHED-dokumentet for hele forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), skal den driftsansvarlige som har ansvar for forsendelsen, be om at forsendelsen deles opp, og inngi et CHED-dokument gjennom IMSOC for hver del av den oppdelte forsendelsen der det angis størrelse, transportmiddel og bestemmelsessted for den relevante delen av den oppdelte forsendelsen.Vedkommende myndighet på grensekontrollstasjonen skal ferdigstille CHED-dokumentene for de enkelte delene av den oppdelte forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), forutsatt at den samlede størrelsen som er angitt i disse CHED-dokumentene, ikke overstiger den samlede størrelsen angitt i CHED-dokumentet for hele forsendelsen.Den driftsansvarlige som har ansvar for forsendelsen, skal sikre at en kopi av CHED-dokumentet på papir eller i elektronisk form for hver del av den oppdelte forsendelsen ledsager den relevante delen av den oppdelte forsendelsen til bestemmelsesstedet angitt i dokumentet, og fram til den frigis for fri omsetning i samsvar med artikkel 57 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).Den driftsansvarlige som har ansvar for forsendelsen, skal angi referansenummeret til CHED-dokumentet for hver del av den oppdelte forsendelsen i tolldeklarasjonen som inngis til tollmyndighetene, og stille en kopi av dette CHED-dokumentet til rådighet for tollmyndighetene i samsvar med artikkel 163 i forordning [(EU) nr. 952/2013](eu/32013r0952*).►**M1**Tollmyndighetene skal oversende til IMSOC opplysninger om størrelsen på den relevante delen av den oppdelte forsendelsen som er angitt i tolldeklarasjonen, og bare tillate at denne delen underlegges en tollprosedyre, dersom den samlede størrelsen angitt i CHED-dokumentet til denne delen av den oppdelte forsendelsen ikke er overskredet. Dette kravet gjelder ikke dersom forsendelsen skal underlegges tollprosedyrene nevnt i artikkel 210 bokstav a), b) og d) i forordning [(EU) nr. 952/2013](eu/32013r0952).◄**M1**
+1\. Dersom en forsendelse skal deles opp på grensekontrollstasjonen, gjelder følgende krav:Når det gis forhåndsmelding i samsvar med artikkel 56 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*), skal den driftsansvarlige som har ansvar for forsendelsen, i CHED-dokumentet angi grensekontrollstasjonen som bestemmelsessted for hele forsendelsen.Når vedkommende myndighet på grensekontrollstasjonen har fylt ut CHED-dokumentet for hele forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), skal den driftsansvarlige som har ansvar for forsendelsen, be om at forsendelsen deles opp, og inngi et CHED-dokument gjennom IMSOC for hver del av den oppdelte forsendelsen der det angis størrelse, transportmiddel og bestemmelsessted for den relevante delen av den oppdelte forsendelsen.Vedkommende myndighet på grensekontrollstasjonen skal ferdigstille CHED-dokumentene for de enkelte delene av den oppdelte forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), forutsatt at den samlede størrelsen som er angitt i disse CHED-dokumentene, ikke overstiger den samlede størrelsen angitt i CHED-dokumentet for hele forsendelsen.Den driftsansvarlige som har ansvar for forsendelsen, skal sikre at en kopi av CHED-dokumentet på papir eller i elektronisk form for hver del av den oppdelte forsendelsen ledsager den relevante delen av den oppdelte forsendelsen til bestemmelsesstedet angitt i dokumentet, og fram til den frigis for fri omsetning i samsvar med artikkel 57 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).Den driftsansvarlige som har ansvar for forsendelsen, skal angi referansenummeret til CHED-dokumentet for hver del av den oppdelte forsendelsen i tolldeklarasjonen som inngis til tollmyndighetene, og stille en kopi av dette CHED-dokumentet til rådighet for tollmyndighetene i samsvar med artikkel 163 i forordning [(EU) nr. 952/2013](eu/32013r0952*).►**M1**Tollmyndighetene skal oversende til IMSOC opplysninger om størrelsen på den relevante delen av den oppdelte forsendelsen som er angitt i tolldeklarasjonen, og bare tillate at denne delen underlegges en tollprosedyre, dersom den samlede størrelsen angitt i CHED-dokumentet til denne delen av den oppdelte forsendelsen ikke er overskredet. Dette kravet gjelder ikke dersom forsendelsen skal underlegges tollprosedyrene nevnt i artikkel 210 bokstav a), b) og d) i forordning [(EU) nr. 952/2013](eu/32013r0952).◄**M1**
 
-2. I tilfeller der en forsendelse som ikke overholder reglene, skal deles opp på grensekontrollstasjonen og vedkommende myndighet der pålegger den driftsansvarlige å treffe ett eller flere av tiltakene nevnt i artikkel 66 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*) for bare en del av forsendelsen, gjelder følgende krav:Når CHED-dokumentet for hele forsendelsen er ferdigstilt, skal den driftsansvarlige som har ansvar for forsendelsen, framlegge et CHED-dokument for hver del av den oppdelte forsendelsen der delens størrelse, transportmiddel og bestemmelsessted angis.Vedkommende myndighet på grensekontrollstasjonen skal ferdigstille CHED-dokumentene for de enkelte delene av den oppdelte forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), idet det tas hensyn til den beslutningen som er truffet for hver del av den oppdelte forsendelsen.Nr. 1 bokstav d), e) og f) får anvendelse på hver del av den oppdelte forsendelsen.
+2\. I tilfeller der en forsendelse som ikke overholder reglene, skal deles opp på grensekontrollstasjonen og vedkommende myndighet der pålegger den driftsansvarlige å treffe ett eller flere av tiltakene nevnt i artikkel 66 nr. 4 i forordning [(EU) 2017/625](eu/32017r0625*) for bare en del av forsendelsen, gjelder følgende krav:Når CHED-dokumentet for hele forsendelsen er ferdigstilt, skal den driftsansvarlige som har ansvar for forsendelsen, framlegge et CHED-dokument for hver del av den oppdelte forsendelsen der delens størrelse, transportmiddel og bestemmelsessted angis.Vedkommende myndighet på grensekontrollstasjonen skal ferdigstille CHED-dokumentene for de enkelte delene av den oppdelte forsendelsen i samsvar med artikkel 56 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*), idet det tas hensyn til den beslutningen som er truffet for hver del av den oppdelte forsendelsen.Nr. 1 bokstav d), e) og f) får anvendelse på hver del av den oppdelte forsendelsen.
 
 ### Artikkel 6. Vilkår for CHED-dokumenter som ledsager forsendelser under tollmyndighetenes tilsyn, som deles opp etter å ha forlatt grensekontrollstasjonen
 
@@ -149,7 +187,11 @@ Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i Den euro
 
 Den får anvendelse fra 14. desember 2019.
 
+►**M1**
+
 Artikkel 4 bokstav c), artikkel 5 nr. 1 bokstav f) og artikkel 6 bokstav c) får likevel anvendelse fra datoen da de elektroniske tolldatabehandlingsteknikkene omhandlet i artikkel 6 nr. 1 i forordning [(EU) nr. 952/2013](eu/32013r0952) tas i bruk, eller senest fra og med 3. mars 2025.
+
+◄**M1**
 
 Medlemsstatene skal underrette Kommisjonen og de andre medlemsstatene om datoen da de elektroniske tolldatabehandlingsteknikkene tas i bruk.
 
@@ -157,4 +199,10 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 23. april 2019.
 
-For KommisjonenJean-Claude JUNCKERPresident
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | President |

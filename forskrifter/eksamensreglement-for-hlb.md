@@ -121,6 +121,8 @@ Det er høve til å forbetre karakterar. Dette kan skje ved ordinære eksamenar 
 5. Dersom det arrangerast ny eksamen har også studentar som ynskjer å forbetre karakteren tilgang til eksamen. Studentar som ynskjer å forbetre karakteren må melde seg opp til eksamen skriftleg og innan fristar som høgskulen fastsett. Kontinuasjons-/eksamensavgift må betalast.
 6. Dersom ein kandidat har bestått eksamen, meir enn éin gang, er det den siste karakter som gjeld.
 
+1 Studenten må betala den kontinuasjons-/eksamensavgifta som skulen har vedtatt og som er gjeldande for det studieåret studenten tar eksamen.
+
 ## § 14. Utsett eksamen
 
 Utsett eksamen vert arrangert for dei kandidatar som har godkjent grunn (eks. sjukefråvær) ved ordinær eksamen.
@@ -173,3 +175,5 @@ Jf. § 4-7 i lov om universitet og høgskuler.
 ## § 19. Ikrafttreden
 
 Dette reglementet trer i kraft frå 31. august 2007 og erstattar eksamensreglement av 2. mars 2005.1
+
+1 Ikkje kunngjort i Norsk Lovtidend.

@@ -286,6 +286,8 @@ Departementet kan gi forskrift om midlertidig tilskudd til drift av barnehager o
 
 > Tilføyd ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710)), endret ved lover [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 15 juni 2022 iflg. [res. 10 juni 2022 nr. 994](forskrift/2022-06-10-994)), [10 juni 2022 nr. 35](lov/2022-06-10-35) (i kraft 1 juli 2024, endring endret ved lov [2 juni 2023 nr. 17](lov/2023-06-02-17)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2024 iflg. [res. 25 juni 2024 nr. 1212](forskrift/2024-06-25-1212)), [25 juni 2024 nr. 53](lov/2024-06-25-53) (i kraft 1 juli 2026), [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2026 iflg. [res. 12 juni 2026 nr. 1076](forskrift/2026-06-12-1076)). **Endres** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)). **Endres** ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) (i kraft 1 juli 2028).
 
+1 Inkurie: Nytt ledd tilføyd som fjerde ledd ved lov [12 juni 2026 nr. 22](lov/2026-06-12-22) selv om tredje ledd ble opphevet ved [25 juni 2024 nr. 53](lov/2024-06-25-53).
+
 ### § 19 a. Driftstilskudd til private barnehager
 
 > **Tilføyes** ved lov [20 juni 2025 nr. 100](lov/2025-06-20-100) (i kraft 1 aug 2026 iflg. [res. 20 juni 2025 nr. 1100](forskrift/2025-06-20-1100)).
@@ -749,3 +751,5 @@ Når loven trer i kraft, oppheves [lov 5. mai 1995 nr. 19 om barnehager](lov/199
 Departementet kan gi forskrift med nærmere overgangsregler, som bestemmelser om overføringen av ansvaret for å føre tilsyn med økonomiske forhold i private barnehager fra kommunen til Utdanningsdirektoratet. Det kan også gis bestemmelser som viderefører bestemmelser i loven her om tilsyn, veiledning og reaksjonsmidler etter §[§ 8](lov/2005-06-17-64/§8) første ledd andre punktum, 8 femte ledd, [9](lov/2005-06-17-64/§9), [9 a](lov/2005-06-17-64/§9a), [9 b](lov/2005-06-17-64/§9b), [16](lov/2005-06-17-64/§16) og [16 a](lov/2005-06-17-64/§16a), slik disse lød før 1. januar 2021.
 
 > Endret ved lov [19 juni 2020 nr. 91](lov/2020-06-19-91) (ikr. 1 jan 2021 iflg. [res. 11 des 2020 nr. 2710](forskrift/2020-12-11-2710), tidligere § 26) som endret ved lov [18 des 2020 nr. 155](lov/2020-12-18-155).
+
+1 Fra 1 jan 2006 iflg. [res. 17 juni 2005 nr. 613](forskrift/2005-06-17-613).

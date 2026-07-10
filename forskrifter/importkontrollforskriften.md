@@ -226,8 +226,39 @@ Samtidig oppheves følgende forskrifter:[forskrift 20. oktober 1953 nr. 2](forsk
 
 ## Vedlegg I. Næringsmidler med meldingsfritak
 
+| *Tollposisjon/varenummer:* | *Beskrivelse:* |
+| --- | --- |
+| 07.01.9011\* | Nypoteter (15. mai–15. juli) |
+| 07.01.9018\* | Poteter, ellers (ikke skrelte eller avskallede) (15. mai–15. juli) |
+| 07.01.9022\* | Nypoteter (16. juli–14. mai) |
+| 07.01.9028\* | Poteter, ellers (ikke skrelte eller avskallede) (16. juli–14. mai) |
+| 07.02 | Tomater – Hele posisjonen |
+| 07.03 | Kepaløk, sjalottløk, hvitløk, purre og andre løkslag – Hele posisjonen |
+| 07.04 | Hodekål, blomkål, knutekål og liknende spiselig kål – Hele posisjonen |
+| 07.05 | Salat og sikori – Hele posisjonen |
+| 07.06 | Gulrøtter, neper, rødbeter, havrerøtter, knollselleri, reddiker og liknende spiselige røtter – Hele posisjonen |
+| 07.07 | Agurker – Hele posisjonen |
+| 07.08 | Belgfrukter, med eller uten belg – Hele posisjonen |
+| 07.09 | Andre grønnsaker, unntatt:<br>07.09.9930 – sukkermais, til dyrefôr |
+| 08.03\*\* | Bananer og kokebananer (pisanger) |
+| 08.04\*\* | Dadler, fikener, ananas, avocadopærer, guavaer, mangoer og mangostan, unntatt:<br>08.04.2090 – fikener, ellers |
+| 08.05\*\* | Sitrusfrukter, unntatt:<br>08.05.1010 – appelsiner, til dyrefôr<br>08.05.2110 – mandariner (herunder tangeriner og satsumas), til dyrefôr<br>08.05.2210 – klementiner, til dyrefôr<br>08.05.2910 – andre (wilkings og liknende krysninger av sitrusfrukter), til dyrefôr<br>08.05.4010 – grapefrukt, herunder pomelos, til dyrefôr<br>08.05.5010 – sitroner og limefrukter, til dyrefôr<br>08.05.9010 – andre sitrusfrukter, til dyrefôr |
+| 08.06 | Vindruer, unntatt:<br>08.06.2000 – tørkede vindruer |
+| 08.07 | Meloner (herunder vannmeloner) og papayas – Hele posisjonen |
+| 08.08 | Epler, pærer og kveder – Hele posisjonen |
+| 08.09 | Aprikoser, kirsebær, moreller, ferskener (herunder nektariner), plommer og slåpefrukter – Hele posisjonen |
+| 08.10 | Andre frukter – Hele posisjonen |
+| 12.14.9011 | Kålrot, hel |
+| 12.14.9019 | Kålrot, ellers |
+
+\* [forskrift 1. desember 2000 nr. 1333](forskrift/2000-12-01-1333) om planter og tiltak mot planteskadegjørere kan kreve melding med bakgrunn i hensyn som ligger utenfor denne forskriftens virkeområde.
+
+\*\* meldingsfritaket gjelder kun friske produkter og ikke tørkede.
+
 > Tilføyd ved [forskrift 18 okt 1999 nr. 1165](forskrift/1999-10-18-1165) (tidligere vedlegg A og B opphevet), endret ved [forskrifter 6 sep 2005 nr. 1011](forskrift/2005-09-06-1011), [3 april 2014 nr. 389](forskrift/2014-04-03-389), [17 jan 2017 nr. 40](forskrift/2017-01-17-40).
 
 ## Vedlegg II. Sertifikat til bruk ved handel innen EØS-området med tilhørende veiledning for utfylling av sertifikatet
+
+Se her for å lese vedlegget: [(pdf)](static/SF/sf-20051130-1355-01-01.pdf)
 
 > Tilføyd ved [forskrift 30 nov 2005 nr. 1355](forskrift/2005-11-30-1355).

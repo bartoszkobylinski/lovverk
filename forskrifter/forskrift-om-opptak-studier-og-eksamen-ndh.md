@@ -34,7 +34,16 @@ eu_basis: []
 
 ### § 2. Definisjoner
 
-*Studiepoeng*Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid.*Studieprogram*Et studieløp består av flere fagblokker. Studieprogram kan ha fra 60 til 180 studiepoengs omfang.*Studieplan*Beskriver studieprogrammet, hvordan det er bygget opp og hvordan fagblokkene som inngår hører sammen.*Fagblokk*En fagblokk er en samling av emner.*Semesterplan*Beskriver mål, organisering, arbeidsmåter, vurderingsordninger, anbefalt litteratur og pensum i fagblokkens emner.*Faglig fordypning*2. og 3. studieår i bachelorprogrammet utgjør en faglig fordypning.*Eksamen/vurdering*Studentens arbeidsprosess vurderes kontinuerlig med utgangspunkt i studiets mål og innhold. Formell prøving av studentens kunnskaper og ferdigheter, skjer enten underveis og/eller ved slutten av en fagblokk.*Utsatt eksamen*For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen.
+|  |  |
+| --- | --- |
+| *Studiepoeng* | Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid. |
+| *Studieprogram* | Et studieløp består av flere fagblokker. Studieprogram kan ha fra 60 til 180 studiepoengs omfang. |
+| *Studieplan* | Beskriver studieprogrammet, hvordan det er bygget opp og hvordan fagblokkene som inngår hører sammen. |
+| *Fagblokk* | En fagblokk er en samling av emner. |
+| *Semesterplan* | Beskriver mål, organisering, arbeidsmåter, vurderingsordninger, anbefalt litteratur og pensum i fagblokkens emner. |
+| *Faglig fordypning* | 2. og 3. studieår i bachelorprogrammet utgjør en faglig fordypning. |
+| *Eksamen/vurdering* | Studentens arbeidsprosess vurderes kontinuerlig med utgangspunkt i studiets mål og innhold. Formell prøving av studentens kunnskaper og ferdigheter, skjer enten underveis og/eller ved slutten av en fagblokk. |
+| *Utsatt eksamen* | For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen. |
 
 > Endret ved [forskrifter 24 sep 2008 nr. 1040](forskrift/2008-09-24-1040) (fra høstsemesteret 2008), [10 juni 2010 nr. 1912](forskrift/2010-06-10-1912) (fra vårsemesteret 2011).
 

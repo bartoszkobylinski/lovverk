@@ -164,6 +164,8 @@ Denne lova tek til å gjelda frå den tid1 Kongen fastset. Samstundes held fyrst
 
 Den gjerdeskipnaden som er mellom eigedomane når denne lova tek til å gjelda, står ved lag så lenge ikkje anna vert fastsett i gjerdeskjøn eller på annan lovleg måte. Føresegna i [§ 2](lov/1961-05-05/§2) fyrste punktumet, skal og gjelda for avtale om gjerdeskipnad frå tida før denne lova er sett i kraft.
 
+1 Lova gjeld frå 1 jan 1962 iflg. res. 8 des 1961.
+
 ### § 20
 
 Vedtekt stadfest med heimel i lov frå 14. juli 1893 om Pigtraads Anvendelse til Gjærde held fram å gjelde så langt ho kunne ha vore stadfest med heimel i [§ 18](lov/1961-05-05/§18) i denne lova.

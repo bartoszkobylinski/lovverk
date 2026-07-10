@@ -42,6 +42,8 @@ Lovene om offentlige tjenestemenn,1 om betaling for offentlige forretninger, om 
 
 > Endret ved [lover 9 jan 1998 nr. 5](lov/1998-01-09-5), [4 juli 2003 nr. 83](lov/2003-07-04-83) (ikr. 25 juli 2003 iflg. [res. 4 juli 2003 nr. 879](forskrift/2003-07-04-879)), [26 jan 2007 nr. 4](lov/2007-01-26-4) (ikr. 1 jan 2008 iflg. [res. 26 jan 2007 nr. 86](forskrift/2007-01-26-86)).
 
+1 Inkurie: Opphevet, se [lov 16 juni 2017 nr. 67](lov/2017-06-16-67).
+
 ### § 4
 
 Kongen kan utferdige alminnelige forskrifter om kirke-, skole- og forsorgsvesenet, om den offentlige orden, om utvisning, lege- og sunnhetsvesenet, om bygnings- og brannvesenet, om ildsfarlige gjenstander, om skipsfart, luftfart og annen samferdsel, om turisme, om industrielt rettsvern, om bergverksdrift, saltvannsfiske, fangst av ikke stedegne sjøpattedyr og annen næringsdrift og om oppgaver til den offisielle statistikk. Kongen kan også utferdige forskrift om begrensninger i virksomhet som vil kunne være til skade for forskningsaktivitet i bestemte områder av spesiell verdi for forskningen.
@@ -403,3 +405,5 @@ Kongen kan fastsette at personer og selskaper fra stater som står utenfor [Sval
 Denne lov trer i kraft fra den tid Kongen fastsetter.1
 
 > Endret ved [lov 15 juni 2001 nr. 66](lov/2001-06-15-66) (ikr. 1 jan 2002 iflg. [res. 15 juni 2001 nr. 695](forskrift/2001-06-15-695), tidligere § 30).
+
+1 Ved res. 7 aug 1925 er loven satt ikr. fra den dag da øygruppen Svalbard offisielt overtas av Norge, dvs. 14 aug 1925.

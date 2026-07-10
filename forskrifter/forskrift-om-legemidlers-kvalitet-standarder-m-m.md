@@ -24,6 +24,18 @@ eu_basis: []
 
 ## § 1. Definisjoner
 
+Med *kvalitet* menes i denne forskrift den helhet av egenskaper og kjennetegn som et legemiddel og enhver råvare som benyttes ved tilvirkning av legemidler har, som vedrører deres evne til å tilfredsstille fastsatte krav eller aktuelle normer.
+
+Med *kvalitetssikring* menes i denne forskrift samtlige planlagte og systematiske tiltak som treffes for å sikre at et legemiddel har den nødvendige kvalitet for den bruk som er tiltenkt.
+
+Med *råvarer* menes i denne forskrift de enkelte inngående bestanddeler i et farmasøytisk preparat og om nødvendig inngående bestanddeler i preparatets beholder. Som råvarer regnes også mellomprodukter som skal bearbeides videre av en annen tilvirker.
+
+Med *farmasøytiske preparater* menes i denne forskrift ferdige preparater, eksempelvis legemidler med markedsføringstillatelse, legemidler tilvirket i apotek eller ved blodbank samt legemidler beregnet til forsknings- og utviklingsforsøk.
+
+Med en *spesifikasjon* menes i denne forskrift en beskrivelse, som definerer kvaliteten av en råvare eller et farmasøytisk preparat, og som er fastsatt av tilvirkeren.
+
+Med en *standard* menes i denne forskrift en beskrivelse, som definerer kvaliteten av en råvare, en legemiddelform eller et farmasøytisk preparat, og som er fastsatt og offentliggjort av myndighetene, vanligvis i form av en farmakopémonografi (jfr. [§ 9](forskrift/1995-07-20-698/§9)).
+
 > Endret ved [forskrift 18 des 2009 nr. 1839](forskrift/2009-12-18-1839) (i kraft 12 jan 2010).
 
 ## § 2. Omfang
@@ -64,9 +76,15 @@ Kvaliteten av legemiddel som skal ha markedsføringstillatelse før de kan omset
 
 ## § 7. Spesifikasjoner for legemidler som omsettes uten markedsføringstillatelse
 
+*Legemidler tilvirket i apotek*
+
 Kvaliteten av legemidler som tilvirkes i apotek skal være i overensstemmelse med standarder for legemiddelformer, bekjentgjort i Norske legemiddelstandarder. Slike legemidler skal fremstilles i henhold til [forskrift av 26. juni 2001 nr. 738](forskrift/2001-06-26-738) om tilvirkning av legemidler i apotek.
 
+*Legemidler tilvirket ved blodbank*
+
 Kvaliteten av legemidler som tilvirkes ved blodbank skal være i overensstemmelse med relevante standarder for legemiddeltilvirkning. Det må treffes nødvendige tiltak for å unngå overføring av infeksjonssykdommer, herunder de tiltak som anbefales fra Europarådet og Verdens helseorganisasjon, særlig med hensyn til utvelgelse og kontroll av blod- og plasmagivere.
+
+*Legemidler beregnet til forsknings- og utviklingsforsøk*
 
 Kvaliteten av legemidler beregnet til forsknings- og utviklingsforsøk skal være i overensstemmelse med relevante standarder, bekjentgjort i Norske legemiddelstandarder. [Forskrift 2. november 2004 nr. 1441 om tilvirkning og import av legemidler](forskrift/2004-11-02-1441) gjelder også for legemidler til klinisk utprøving.
 

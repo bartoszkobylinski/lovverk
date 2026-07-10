@@ -333,6 +333,8 @@ Finanstilsynet kan helt eller delvis tilbakekalle, endre eller sette nye vilkår
 
 Loven gjelder fra den tid Kongen bestemmer1. Kongen kan sette i kraft de enkelte bestemmelser i loven til forskjellig tid.
 
+1 Fra 1 juli 2023 iflg. res. [16 des 2022 nr. 2266](forskrift/2022-12-16-2266).
+
 ### § 10-2. Overgangsregler
 
 Departementet kan gi overgangsregler.
